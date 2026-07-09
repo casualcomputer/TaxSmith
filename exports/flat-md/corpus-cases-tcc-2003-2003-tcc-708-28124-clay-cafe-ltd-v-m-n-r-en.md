@@ -1,0 +1,220 @@
+---
+title: "Clay Cafe Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28124/index.do"
+last_modified: "2003-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 708"
+citation2: ""
+neutral_citation: "2003 TCC 708"
+decision_date: "2003-10-14"
+language: "en"
+item_id: "28124"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1644
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:38:06.758000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b86f39178fc0c5ce0b8543cdd8b7f5b531651a55fabeba13bdf1fd56d308798"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clay Cafe Ltd. v. M.N.R.
+
+- Citation: 2003 TCC 708
+- Decision date: 2003-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1644, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clay Cafe Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-14
+Neutral citation
+2003 TCC 708
+File numbers
+2003-462(EI)
+Judges and Taxing Officers
+Murray F. Cain
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-462(EI)
+BETWEEN:
+CLAY CAFÉ LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Clay Café Ltd. (2003‑463(CPP)) and Mady Thiel-Kopstein (2003-464(EI) and 2003-465(CPP)) on June 26, 2003 at Halifax, Nova Scotia
+Before: The Honourable Deputy Judge M.F. Cain
+Appearances:
+Agent for the Appellant:
+Nan Newhall
+Counsel for the Respondent:
+James Murphy
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Rothesay, New Brunswick, this 14th day of October 2003.
+"M.F. Cain"
+Cain, D.J.
+Citation: 2003TCC708
+Date: 20031014
+Dockets: 2003-462(EI)
+2003-463(CPP)
+BETWEEN:
+CLAY CAFÉ LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+2003-464(EI)
+2003-465(CPP)
+MADY THIEL-KOPSTEIN
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CLAY CAFÉ LTD.,
+Intervenor.
+REASONS FOR JUDGMENT
+Cain, D.J.
+[1] The Appellants appeal the decision of the Respondent dated December 24, 2002, that the employment of the appellant Mady Thiel-Kopstein (the "Worker") by Appellant Clay Café Ltd. (the "Payor") during the period January 1, 2002 to August 6, 2002, (the "period in question") was pensionable and insurable employment as the Worker was engaged under a contract of service and therefore was an employee of the Payor.
+[2] The hearing was held at Halifax on June 26, 2003 and the Appellants agreed that the appeals be heard at the same time, the evidence adduced to be applied to each respective appeal as the context thereof required and that there was no necessity of creating more than one record. The Court reserved judgment at the conclusion of the hearing.
+[3] The Respondent based his decision on the following assumptions of fact:
+(a) the Payor incorporated in March, 1999 with the following shareholders:
+Nancy (Nan) Newhall 40%
+Geoff Crinean 40%
+James Gimian 10%
+Susan Klabunde 10%
+(b) on February 27, 2002 the shares owned by James Gimian and Susan Klabunde were transferred equally to Nan Newhall and Geoff Crinean;
+(c) the Payor was a retail business offering customers the opportunity to paint their own pottery;
+(d) the Payor operated from a studio located in Halifax and was open 7 days per week, Monday to Thursday noon to 9 p.m., Friday noon to midnight, Saturday 10 a.m. to 9 p.m. and Sunday noon to 6 p.m.;
+(e) Nan Newhall and Shauna Jones, the manager, controlled the day‑to‑day operations of the Payor;
+(f) Van Go Pottery ("Van Go"), a mobile unit of the Payor, was established to bring clay molding and painting to the community, particularly schools, and to offer art camps at the studio in Halifax;
+(g) the Payor initially paid the Appellant $1,500 to research, develop, market and implement the Van Go School Program;
+(h) during the period under appeal the Appellant's duties included obtaining Van Go clients, making logistical arrangements, initiating and implementing marketing, conducting workshops/camps, managing supplies, handling the financial arrangements and liaising with the Payor's staff;
+(i) the Appellant was paid $10 per hour for the time spent preparing for and conducting the workshops and day camps plus $1 for each person in attendance;
+(j) the Appellant recorded her hours on the Payor's employee time sheet and she was paid biweekly on the Payor's usual payday;
+(k) the Appellant was required to conduct the workshop or day camp personally;
+(l) the Appellant's services would be terminated in the event that there were no workshops, there was any illegal activity or the Payor received consistent customer complaints;
+(m) the Payor's staff helped the Appellant when she needed assistance with the workshops and day camps;
+(n) the Payor paid its staff for time spent helping the Appellant;
+(o) the Payor provided the studio during day camps at no cost to the Appellant;
+(p) the Payor supplied the clay, paint and small tools needed for the workshops and day camps at no cost to the Appellant;
+(q) the Payor was responsible for firing and glazing the clay pieces completed during the day camps and workshops;
+(r) the Appellant agreed not to open or operate a "paint your own pottery studio" within a 10 mile radius of the Payor's studio unless she was a partner or franchisee of the Payor; and
+(s) there was a contract of service between the Appellant and the Payor.
+The above assumptions are those contained in the Reply to the Notice of Appeal of Mady Theil-Kopstein and are the same assumptions of fact on which the Respondent based his decision in the appeal of the Appellant Clay Café Ltd. When applying those assumptions to the appeal of the Appellant Clay Café Ltd., one should substitute the word "Payor" for the word "Appellant" wherever it appears.
+FACTS
+[4] The Court makes the following finding of fact.
+[5] The Payor was incorporated in 1999 and conducted a retail business offering customers the opportunity to paint their own pottery in the Halifax, Nova Scotia metro area.
+[6] At some time in 2000, the Payor and the Worker entered into discussions in respect to the establishment of a mobile pottery program to service the metro area of Halifax, Nova Scotia, operating in schools, community centers, at homes, at organizational events and in conjunction with arts camps operated by the Payor. The Worker was an artist by profession and was interested in promoting the craft of hand clay molding and painting, a business not carried on by the Payor. The parties agreed on the concept and that the Worker would conduct the operation with the vision offering a creative outlet for children and adults to become involved in this craft.
+[7] The Payor paid the Worker $1,500 to develop a mobile hand molding pottery program to begin in the fall of 2000. The Worker, being an artist, did research and learned the technique involved, herself, on her own time. She created the program and while the Payor was consulted on each phase of the development, the final decision as to the design, systems and implementation of the program were entirely up to her.
+[8] Initially the Payor paid the Worker $1,500 to develop a mobile pottery program to begin in the fall of 2000. No evidence was led when the program actually started. The time spent by the Worker in developing the program was not during the period in question. It would appear, that contract was one "for services" as opposed to one "of service" but was outside the period in question.
+[9] The Worker ultimately presented the proposed program to the Payor and it was accepted. By agreement dated September 15, 2000, the Payor through its agent Nan Newhall and the Worker, established the mobile pottery service (see Exhibit A-5).
+[10] The Worker agreed to conduct marketing strategy and development of the pottery service, working independently but conferring with the Payor on all changes and future development of the program. In addition the Worker was to create display racks, mobile containers and all other material for the workshops. The Worker was to provide the vehicle for the service and bear all expenses for related expenses to include car repairs, operation and phone expenses. Flyers were prepared by the Worker and the facility at the Payor's studio was used to print them without charge to the Worker.
+[11] The Worker was not required to maintain a schedule of hours of work and was only expected to procure, schedule and attend pottery sessions established in accordance with her own time table. She was to be paid at the rate of $10.00 an hour only while conducting hand molding sessions. She maintained an office in her own home from which she worked. The Worker maintained a record of her time on sheets supplied by the Payor entitled "Clay Café Employee Timesheet".
+[12] Each person enrolled in a class, organized by the Worker, paid an hourly rate of $5.00 to the Payor. All items created in the program were glazed and fired in ovens of the Payor. In addition the Payor agreed to supply all paints and clay since it could purchase these materials in bulk some of which were used for the services offered in its studio. The cost of these materials was minimal and presumably was recovered from the fee paid to it by clients. In addition certain hand tools, having a value of approximately $20.00, owned by the Payor were made available to the Worker. The Worker was responsible for the loss of any materials, product or equipment due to accident, robbery or negligence on the part of her or her customer's negligence. She was also required to keep an inventory of and account for all material supplied.
+[13] The Worker agreed not to open a paint-your-own-pottery studio like that operated by the Payor within the Halifax metro area presumably during her association with the Payor. However she was free to conduct the same hand molding pottery business in association with any other established business in the area.
+[14] If at anytime during any of the sessions extra help was needed, these were provided by the Payor without charge to the Worker. Again presumably, any costs incurred by the Payor were recovered from fees paid by the client.
+[15] The Payor and the Worker completed a standard questionnaire (see Exhibit A-1A) produced by Human Resources and Development Canada. The following explanation appears on the first page:
+If you answer "Payer" to most of these questions, it means that the payer exercises control over the worker. An employer-employee relationship probably exists. Otherwise, it indicates that a business relationship may exist.
+Out of a total of 77 potential questions the Payor answered 10, the Worker answered 59 and 15 were answered as being non-applicable. In 7 cases both the Payor and the Worker indicated a joint effort in respect to the responsibility identified. Based on that result the Payor and the Worker set up what they considered to be a contractor/subcontractor relationship.
+[16] In a letter dated August 7, 2002, the Respondent advised the Payor that the relationship established between it and the Worker created insurable employment as the latter was employed under a contract of service (see Exhibit A-6). The reasons set out were as follows:
+You, as an employer, exercise control over her and her work because:
+- You set her hours of work.
+- You control her hours of work.
+- Has to perform the services personally.
+- Cannot hire others to complete the work.
+- You provide her with training.
+You provide any tools/equipment necessary to complete the work.
+The terms of her employment do not allow her to profit or expose her to a risk of loss.
+- She does not have to buy materials used to complete the work.
+- She does not maintain an inventory of material that she uses to complete the work.
+- She does not have to rent equipment to complete the work.
+DECISION
+[17] The definitive jurisprudential test of the difference between a contract of service and a contract for services is set out in the judgment of McGuigan, J.A. in Wiebe Door Services Ltd. v. Minister of National Revenue [1986] 70 N.R. 214. After reviewing the tests to determine whether a contract is one of service or for the provision of services namely, the control test, ownership of tools, chance of profit or risk of loss, he adopted the reasoning of Lord Wright in Montreal v. Montreal Locomotive Works Ltd. [1947] 1 D.L.R. 161 at 169-70 as they relate to the tests at page 559:
+...In many cases the question can only be settled by examining the whole of the various elements which constitute the relationship between the parties. In this way it is in some cases possible to decide the issue by raising as the crucial question whose business is it, or in other words by asking whether the party is carrying on the business, in the sense of carrying it on for himself or on his own behalf and not merely for a superior...
+And continuing at page 560 he said:
+Taken thus in context, Lord Wright's fourfold test is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+And continuing at page 562 he said:
+...I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations", even while the usefulness of the four subordinate criteria is acknowledged.
+[18] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 274 N.R. 366, the Supreme Court of Canada followed Wiebe (supra) in determining that a marketing company (AIM) hired by a supplier of goods (Sagaz) was not vicariously liable to a customer for damages suffered by the customer as a result of the illegal conduct of the marketing company, which perpetrated a complex bribery scheme. The judgment of the Court was delivered by Major J. He said at paragraph 46:
+In my opinion there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations..." (p. 416). Further I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+(I)t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose ... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+And continuing at paragraph 52 he said:
+On the other hand, there are some compelling points which indicate that AIM and Sagaz were separate legal entities, some of which are that AIM had its own offices, located in New York, while the Sagaz head offices were located in Florida. According to the agreement between the parties, AIM was to pay all of its own costs of conducting its business, including travel expenses, commissions and other compensation of salespersons employed by it. AIM remained free to carry on other activities and represent other suppliers provided that it did not take on any competing lines of business. (the underlining is this Court's)
+[19] The task of this Court is to apply that reasoning to the relationship created by the Payor and Worker to determine whether, as they intended, it is one of a contract for services. It must be noted, however, that what the parties intended the relationship to be or what they may call it, does not legally define that relationship. The Court must determine from the arrangement whether, by applying the above test, it does in fact create that relationship.
+[20] There are many factors present in this arrangement that are those normally associated with employer-employee relationships. Hourly rates of pay, time sheets filled out by the Worker on a form utilized by the Payor for its employees, servicing customers of the Payor who paid the Payor for the instruction received, using materials and equipment supplied by the Payor, conducting the program at times in the studio of the Payor, and obtaining help in servicing customers of the Payor from the Payor without cost.
+[21] From the evidence it seems clear that the Worker could have operated the hand molding pottery business herself without the intervention or association of the Payor. No reason was given why she did not do so. Apparently she wanted to associate herself with an established studio, one that had the equipment and facility to finish the product by firing and glazing. However one of the most important facts to consider was that the Worker is an artist, possessed the technique of hand molding in the same way that any professional possesses and sells his or her professional talent to a customer, the customer in this case being the Payor. The hand molding and painting business was operated by the Payor. But the business of offering the technique of hand clay molding was owned by the Worker.
+[22] And the relationship also had elements that one associates with contracts for service. The Worker was in complete charge of her clinics and took no instruction from the Payor. The Worker, without compensation, solicited business without consultation with the Payor except when the clinic was to be held in the Payor's studio. The Worker was only paid while servicing customers of the Payor. She purchased a van with which to provide a mobile service and supplied all the transportation at her own expense. She was liable for all the product until she delivered it to the Payor for firing and glazing.
+[23] A significant factor was that the Worker had the right to associate herself with and offer the same services to any other studio in the metro area. In 671122 Ontario Ltd. (supra) the Court in deciding that AIM was an independent contractor stressed the fact that AIM could represent other employers as long as it did not take on competing lines of business.
+[24] In the case at bar, not only could the Worker contract with other studios but she could offer the same services to their clients. This is particularly significant when one considers that the Payor paid to the Worker initially $1,500 to design and implement the program and only required the Worker covenant not to establish a paint your own pottery studio within the metro area.
+[25] The Court is satisfied that the elements of lack of control or supervision, the bearing of expenses and responsibility and liability associated with the custody and delivery of the product and the freedom to offer her services to other studio's outweigh any of the other factors and make her an independent contractor.
+[26] The Court finds that during the period in question the Worker was an independent contractor and that her employment as such was neither pensionable nor insurable. The appeals are granted and the decisions of the Minister are vacated.
+Signed at Rothesay, New Brunswick, this 14th day of October 2003.
+"M.F. Cain"
+Cain, D.J.
+CITATION:
+2003TCC708
+COURT FILE NO.:
+2003-462(EI), 2003-463(CPP), 2003‑464(EI), 2003-465(CPP)
+STYLE OF CAUSE:
+Clay Café Ltd. and M.N.R. and Mady Thiel-Kopstein and M.N.R. and Clay Café Ltd.
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+June 26, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable M.F. Cain
+Deputy Judge
+DATE OF JUDGMENT:
+October 14, 2003
+APPEARANCES:
+For the Appellant
+Clay Café Ltd.:
+Nan Newhall (Agent)
+For the Appellant
+Mady Thiel-Kopstein
+The Appellant herself
+For the Intervenor
+Clay Café Ltd.:
+Nan Newhall (Agent)
+Counsel for the Respondent:
+James Murphy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Intervenor:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

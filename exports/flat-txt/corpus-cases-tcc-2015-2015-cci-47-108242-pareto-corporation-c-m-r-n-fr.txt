@@ -1,0 +1,6301 @@
+Title: Pareto Corporation c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108242/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-47-108242-pareto-corporation-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2015-02-20
+
+# Pareto Corporation c. M.R.N.
+
+- Citation: 2015 CCI 47
+- Decision date: 2015-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2760, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pareto Corporation c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-20
+Référence neutre
+2015 CCI 47
+Numéro de dossier
+2010-3302(EI), 2010-3304(CPP), 2011-1040(CPP), 2011-1041(EI), 2011-1366(EI), 2011-1367(CPP), 2011-3246(CPP), 2011-3249(EI), 2011-3734(CPP), 2011-3736(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2010-3302(EI)
+2010-3304(CPP)
+ENTRE :
+PARETO CORPORATION, par son SYNDIC DE FAILLITE, KPMG INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LING CHENG,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Pareto Corporation (2011-1040(CPP), 2011-1041(EI), 2011-1366(EI), 2011-1367(CPP), 2011‑3246(CPP), 2011-3249(EI), 2011-3734(CPP), 2011-3736(EI)) les 20, 21, 22 et 23 octobre 2014 à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocate de l’appelante :
+Me Louise Summerhill
+Avocate de l’intimé :
+Me Samantha Hurst
+Pour l’intervenante :
+L’intervenante elle‑même
+JUGEMENT
+Les appels interjetés à l'encontre des décisions rendues par le ministre du Revenu national, selon lesquelles l’intervenante exerçait, pour les besoins de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, un emploi assurable et ouvrant droit à pension pour l’appelante, sont rejetés, conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 20e jour de février 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 28e jour d’août 2015.
+C. Laroche
+Dossiers : 2011-1040(CPP)
+2011-1041(EI)
+2011-1366(EI)
+2011-1367(CPP)
+2011-3734(CPP)
+2011-3736(EI)
+ENTRE :
+PARETO CORPORATION, par son SYNDIC DE FAILLITE, KPMG INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Pareto Corporation (2010-3302(EI), 2010‑3304(CPP), 2011‑3246(CPP), 2011-3249(EI) les 20, 21, 22 et 23 octobre 2014 à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocate de l’appelante :
+Me Louise Summerhill
+Avocate de l’intimé :
+Me Samantha Hurst
+JUGEMENT
+Les appels interjetés à l'encontre des décisions rendues par le ministre du Revenu national, selon lesquelles Stephen King, Andy Nguyen Ha La et Yue Na Gong exerçaient, pour les besoins de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, un emploi assurable et ouvrant droit à pension pour l’appelante, sont rejetés, conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 20e jour de février 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 28e jour d’août 2015.
+C. Laroche
+Dossiers : 2011-3246(CPP)
+2011-3249(EI)
+ENTRE :
+PARETO CORPORATION, par son SYNDIC DE FAILLITE, KPMG INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SALIMA A. DAOUD,
+intervenante,
+et
+EUGENE AFESE AKONDENG,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Pareto Corporation (2010-3302(EI), 2010-3304(CPP), 2011‑1040(CPP), 2011-1041(EI), 2011-1366(EI), 2011-1367(CPP), 2011-3734(CPP), 2011-3736(EI)) les 20, 21, 22 et 23 octobre 2014 à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocate de l’appelante :
+Me Louise Summerhill
+Avocate de l’intimé :
+Me Samantha Hurst
+Pour les intervenants :
+Les intervenants eux‑mêmes
+JUGEMENT
+Les appels interjetés à l'encontre des décisions rendues par le ministre du Revenu national, selon lesquelles les 1 386 particuliers énumérés à l’annexe A exerçaient, pour les besoins de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, un emploi assurable et ouvrant droit à pension pour l’appelante, sont rejetés, conformément aux motifs du jugement ci-joints.
+Signé à Calgary (Alberta), ce 20e jour de février 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 28e jour d’août 2015.
+C. Laroche
+Référence : 2015 CCI 47
+Date : 20150220
+Dossiers : 2010-3302(EI)
+2010-3304(CPP)
+ENTRE :
+PARETO CORPORATION, par son SYNDIC DE FAILLITE, KPMG INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LING CHENG,
+intervenante,
+et
+Dossiers : 2011-1040(CPP), 2011-1041(EI)
+2011-1366(EI), 2011-1367(CPP)
+2011-3734(CPP), 2011-3736(EI)
+ENTRE :
+PARETO CORPORATION, par son SYNDIC DE FAILLITE, KPMG INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et
+Dossiers : 2011-3246(CPP),
+2011-3249(EI)
+ENTRE :
+PARETO CORPORATION, par son SYNDIC DE FAILLITE, KPMG INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SALIMA A. DAOUD,
+intervenante,
+et
+EUGENE AFESE AKONDENG,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] Il s’agit d’appels interjetés à l’encontre de décisions – et de cotisations établies par la suite – rendues par le ministre du Revenu national (le « ministre ») au titre de la Loi sur l’assurance‑emploi (la « LAE ») et du Régime de pensions du Canada (le « RPC »), selon lesquelles les 1 386 particuliers (les « travailleurs ») énumérés à l’annexe A jointe aux présents motifs exerçaient un emploi assurable et ouvrant droit à pension pour Direct Sales Force Inc. (« DSF »), la prédécesseure de l’appelante, Pareto Corporation (« Pareto »), pendant les années d’imposition 2008 et 2009, et selon lesquelles Stephen King, Andy Nguyen Ha La et Yue Na Gong exerçaient un emploi assurable et ouvrant droit à pension pour DSF pendant l’année d’imposition 2010.
+[2] L’appelante a demandé une révision des décisions, et le ministre les a confirmées. L’appelante reconnaît désormais que les travailleurs désignés comme gestionnaires à l’annexe A exerçaient un emploi assurable et ouvrant droit à pension. L’appelante fait valoir que tous les autres travailleurs désignés à l’annexe A par les titres [traduction] « agent sur le terrain », [traduction] « livreur ou repéreur », [traduction] « repéreur » ou [traduction] « agent promotionnel » étaient des entrepreneurs indépendants offrant des services à l’appelante dans le cadre d’activités qu’ils exerçaient pour leur propre compte. L’appelante allègue que tous ces travailleurs ont signé des contrats d’entrepreneur indépendant et ont reconnu qu’ils n’auraient pas le droit de recevoir de prestations, comme des indemnités de vacances ou des prestations de maladie, et qu’ils seraient responsables de leur propre impôt.
+[3] Compte tenu de la concession précitée, le litige porte uniquement sur le statut des particuliers désignés à l’annexe A par les titres [traduction] « agent sur le terrain », [traduction] « livreur ou repéreur », [traduction] « repéreur » ou [traduction] « agent promotionnel ». Les parties ont convenu que les travailleurs dont le rôle inscrit à l’annexe A était [traduction] « livreur ou repéreur », [traduction] « repéreur » ou [traduction] « agent promotionnel » exerçaient les mêmes fonctions que les agents sur le terrain. Par conséquent, pour les besoins des présents appels, les agents sur le terrain comprennent les agents sur le terrain, les livreurs ou repéreurs, les repéreurs et les agents promotionnels.
+[4] Les appels ont été entendus sur preuve commune.
+II. Le contexte factuel [5] Au cours de la période visée, DSF, une prédécesseure de l’appelante, a embauché les travailleurs afin que ceux‑ci offrent des services de commercialisation par interception aux clients de DSF au Canada.
+[6] La plupart des travailleurs figurant à l’annexe A travaillaient à titre d’agents sur le terrain responsables de la promotion des services des clients de DSF. Par exemple, si le client était une banque, les agents sur le terrain étaient responsables de trouver des personnes souhaitant obtenir des cartes de crédit à frais fixes de la banque. Si le client était un fournisseur de services de télécommunications, les agents sur le terrain avaient la tâche de trouver de nouveaux abonnés aux services de télécommunications offerts par ce client.
+[7] Selon la preuve, les agents sur le terrain travaillaient dans des endroits très fréquentés, comme des aéroports, des gares de transit ou des centres commerciaux, ou directement dans les locaux des clients de DSF.
+[8] Les parties ont déposé un exposé conjoint partiel des faits, qui est formulé en ces termes :
+[traduction]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Les parties à la présente instance reconnaissent, pour les besoins de la présente instance uniquement, la véracité des faits énoncés ci‑dessous et l’authenticité des documents cités :
+1) Les généralités
+1. Pareto Corporation a été constituée en personne morale en Ontario, sous le régime de la Loi sur les sociétés par actions.
+2. Le 11 janvier 2010, Pareto Corporation a acquis toutes les actions de Direct Sales Force Inc. (« DSF »).
+3. Le 17 mars 2011, Pareto Corporation a fusionné avec Pareto Inc. et Direct Sales Force Inc., et a conservé le nom de Pareto Corporation (ci‑après « Pareto » ou l’« appelante »).
+4. Le 2 octobre 2013, Pareto a fait cession de ses biens et ses appels interjetés à la Cour canadienne de l’impôt sont restés en suspens.
+5. Le 6 mars 2014, Pareto a décidé de poursuivre ses appels interjetés à la Cour canadienne de l’impôt.
+6. Les parties s’entendent sur le fait que les travailleurs désignés comme gestionnaires à l’annexe A étaient des employés de Pareto au cours des années 2008 et 2009 (la « période »).
+2) L’appelante
+7. Au cours de la période, les activités de Pareto consistaient à fournir différents services de vente par interception et par commercialisation.
+8. L’appelante envoyait ses agents à différents endroits afin qu’ils commercialisent les produits et les services de ses clients, comme de grandes banques, Costco, Shoppers Drug Mart, des cinémas, des centres commerciaux, Sobeys, Staples, IGA, des épiceries, des aéroports, des stations-service et des stations de métro.
+3) La première catégorie de travailleurs : les agents de vente sur le terrain
+a) Les caractéristiques générales
+9. Tous les travailleurs désignés à la troisième colonne de l’annexe A, ci‑jointe, par le titre [traduction] « agent sur le terrain » sont des agents de vente sur le terrain qui ont collaboré avec l’appelante pendant toute la période ou une partie de celle‑ci.
+10. Les agents de vente sur le terrain ont été embauchés pour une période indéterminée conformément à une entente verbale, à un contrat d’entrepreneur indépendant écrit ou à un contrat de travail écrit.
+11. Les agents de vente sur le terrain s’acquittaient des tâches suivantes :
+a) promotion des produits ou des services;
+b) participation à l’installation et au démontage des éléments d’affichage du kiosque de temps à autre;
+c) transmission de renseignements aux clients sur les récompenses et les avantages liés à un produit ou à un service;
+d) distribution de renseignements sur les programmes;
+e) réception des demandes d’inscription des clients.
+12. Les agents de vente sur le terrain n’étaient pas tenus d’offrir leurs services exclusivement à l’appelante.
+13. MBNA, l’un des clients de l’appelante, a insisté pour que les agents de vente sur le terrain responsables de la commercialisation de son produit deviennent des employés, et l’appelante s’est pliée à cette exigence.
+b) Le contrôle
+14. L’appelante ne supervisait pas directement les agents de vente sur le terrain.
+15. Les agents de vente sur le terrain travaillaient selon des horaires variables, sept jours par semaine.
+16. Les agents de vente sur le terrain consignaient leurs heures de travail et en rendaient compte à l’appelante.
+17. Dans le cadre de leur travail pour l’appelante, les agents de vente sur le terrain devaient respecter les exigences suivantes :
+a) se conformer aux politiques et aux procédures organisationnelles de l’appelante;
+b) informer adéquatement leur gestionnaire de programme s’ils avaient besoin de matériel supplémentaire;
+c) pointer leur arrivée et leur départ, conformément à la politique de l’appelante;
+d) faire la promotion et la vente de différents produits et services dans des centres commerciaux, des tours à bureaux, des magasins, des aéroports et dans le cadre d’activités spéciales;
+e) s’assurer que toutes les demandes d’inscription étaient remplies avec précision;
+f) communiquer tous les frais associés aux produits ou aux services offerts;
+g) parler à voix haute pour attirer l’attention sur le produit ou le service commercialisé;
+h) se rendre éventuellement à différents endroits pendant la semaine;
+i) s’assurer de la livraison appropriée de toutes les demandes d’inscription remplies;
+j) contribuer à l’installation des kiosques de temps à autre.
+18. Certains agents de vente sur le terrain devaient respecter d’autres politiques et codes d’éthique établis par les clients de l’appelante au cours des séances de formation.
+19. Les agents de vente sur le terrain risquaient de perdre la rémunération de leur quart de travail dans les circonstances suivantes :
+a) ils n’avaient pas appelé leur gestionnaire de programme de la façon et au moment prescrits;
+b) ils n’avaient pas pointé leur arrivée et leur départ;
+c) ils avaient perdu ou mal rangé une demande d’inscription remplie;
+d) ils avaient omis de transmettre un préavis de plus de 12 heures à leur gestionnaire de programme pour l’informer de tout retard ou de toute absence au travail.
+c) La propriété des instruments de travail et de l’équipement
+20. Les agents de vente sur le terrain utilisaient leur propre téléphone cellulaire.
+d) La sous‑traitance et l’embauche d’assistants
+21. Les agents de vente sur le terrain qui avaient signé un contrat ne pouvaient pas céder leur contrat ni confier en sous-traitance ou déléguer les services visés par le contrat sans avoir obtenu au préalable l’approbation écrite de l’appelante.
+e) La possibilité de profit et le risque de perte
+22. L’appelante établissait les frais facturés à ses clients.
+23. Les agents de vente sur le terrain étaient rémunérés en leur nom personnel.
+24. Les agents de vente sur le terrain n’avaient pas de primes, d’avantages sociaux, d’indemnités de vacances ou de congés payés.
+25. Les agents de vente sur le terrain ne recevaient pas de remboursement pour les dépenses engagées, comme le transport pour se rendre au travail et en revenir et l’utilisation de leur téléphone cellulaire dans le cadre de leur travail.
+f) L’intention
+26. Les agents de vente sur le terrain qui ont signé le contrat d’entrepreneur indépendant avaient l’intention d’être des entrepreneurs indépendants.
+27. Les agents de vente sur le terrain qui ont signé le contrat de travail avaient l’intention d’être des employés.
+28. L’appelante a fait des retenues à la source sur la rémunération de certains agents de vente sur le terrain.
+6) La troisième catégorie de travailleurs : les repéreurs
+a) Les caractéristiques générales
+29. Robert Sanderson était le seul repéreur travaillant pour l’appelante au cours de la période.
+30. M. Sanderson devait trouver de nouveaux endroits où l’appelante pourrait poster ses agents de commercialisation par interception.
+31. M. Sanderson a été embauché pour une période indéterminée, conformément à une entente verbale.
+32. M. Sanderson ne travaillait habituellement pas dans un bureau; il était à la recherche de clients dans son territoire désigné, soit la région du Grand Toronto, 90 % du temps.
+33. M. Sanderson assurait la coordination des horaires avec les coordonnateurs des clients dans l’objectif de déterminer le moment où l’appelante serait autorisée à installer des kiosques dans les nouveaux emplacements commerciaux.
+34. M. Sanderson n’était par tenu d’offrir ses services exclusivement à l’appelante.
+b) Le contrôle
+35. L’appelante ne supervisait pas directement M. Sanderson.
+36. M. Sanderson avait un horaire flexible.
+37. Dans le cadre de son travail pour l’appelante, M. Sanderson devait respecter les exigences suivantes :
+a) être disponible pour travailler sur appel;
+b) consigner ses heures de travail dans une feuille de temps;
+c) fournir régulièrement à l’appelante des rapports sur les ventes et les comptes;
+d) se conformer aux politiques et aux procédures organisationnelles de l’appelante;
+e) atteindre les objectifs et les quotas de vente.
+38. L’appelante établissait les priorités et fixait les échéances de M. Sanderson.
+39. L’appelante n’a pas formé M. Sanderson.
+40. L’appelante avait le droit de mettre fin aux services de M. Sanderson pour différentes raisons, comme le non‑respect des quotas de vente ou de la politique organisationnelle.
+c) La propriété des instruments de travail et de l’équipement
+41. M. Sanderson utilisait son propre véhicule et son propre téléphone cellulaire.
+42. M. Sanderson était responsable de l’entretien et de la réparation de ses instruments de travail et de son équipement.
+d) La sous‑traitance et l’embauche d’assistants
+43. M. Sanderson offrait ses services personnellement.
+e) La possibilité de profit et le risque de perte
+44. L’appelante établissait le taux de rémunération de M. Sanderson, qui était composé d’un taux horaire et d’une commission par emplacement réservé.
+45. L’appelante déterminait le moment où les paiements bimensuels étaient versés à M. Sanderson.
+46. L’appelante déterminait la méthode de paiement de M. Sanderson, à savoir le dépôt direct.
+47. M. Sanderson était payé en son nom personnel.
+48. M. Sanderson n’avait pas de primes, d’avantages sociaux, d’indemnités de vacances ou de congés payés.
+49. M. Sanderson n’était pas tenu de facturer l’appelante.
+50. M. Sanderson engageait des dépenses liées à son transport et à son téléphone cellulaire.
+51. L’appelante ne remboursait pas les dépenses de M. Sanderson.
+52. L’appelante assumait la responsabilité finale de traiter les plaintes de clients découlant du travail de M. Sanderson.
+53 L’appelante déterminait s’il fallait reprendre une quelconque partie du travail de M. Sanderson et assumait les frais connexes.
+54. L’appelante garantissait le travail effectué par M. Sanderson.
+f) L’intention
+55. L’appelante avait l’intention que M. Sanderson agisse à titre d’entrepreneur indépendant.
+8) Les appels des travailleurs individuels
+179. Andy Nguyen Ha La a conclu un contrat de travail avec l’appelante le 13 août 2010.
+180. Andy Nguyen Ha La était un agent de vente pour l’appelante.
+181. Andy Nguyen Ha La faisait la promotion de la carte MasterCard de la Banque de Montréal et de la carte MasterCard de Shell.
+182. Ling Cheng était une agente de vente pour l’appelante.
+183. Ling Cheng faisait la promotion de la carte MasterCard de Citi et de la carte Visa de la Banque TD.
+184. Stephen King était un agent de vente pour l’appelante.
+185. Stephen King faisait la promotion des forfaits de téléphonie et d’Internet de Primus.
+186. Yue Na Gong était un agent de vente pour l’appelante.
+187. Yue Na Gong a conclu un contrat d’entrepreneur indépendant avec l’appelante le 19 avril 2010.
+188. Yue Na Gong faisait la promotion des forfaits de téléphonie et d’Internet de Primus.
+III. Analyse [9] La distinction entre un emploi et le statut d’entrepreneur indépendant peut soulever des défis, parce que les conditions de travail et les relations sont propres à chaque lieu de travail et sont en constante évolution[1].
+[10] La distinction repose sur les définitions suivantes du mot « emploi » :
+a) l’alinéa 5(1)a) de la LAE le définit ainsi :
+l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière[.]
+b) le paragraphe 2(1) du RPC prévoit ce qui suit :
+« emploi » L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction.
+[11] L’arrêt de principe sur cette question est Wiebe Door Services Ltd. c. M.R.N.[2] que la Cour suprême du Canada a confirmé dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc[3]. La question est toujours de savoir si la personne « les fournit [les services] en tant que personne travaillant à son compte[4] ». L’arrêt Sagaz résume ainsi le critère énoncé dans l’arrêt Wiebe Door :
+[...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[...]
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire[5].
+[Non souligné dans l’original.]
+[12] Outre ces facteurs, il y a également lieu d’examiner l’intention subjective des parties. Lorsqu’il est possible d’établir l’existence d’une intention commune des parties en ce qui a trait au type de relation de travail qu’elles souhaitaient établir, l’analyse que fait la Cour des facteurs qui précèdent doit prendre en compte cette intention.
+[13] Il est toutefois important de garder à l’esprit que l’intention des parties n’est pertinente que dans la mesure où elle se reflète dans les faits de l’affaire. L’intention subjective des parties n’est pas déterminante en elle-même. Le juge Mainville de la Cour d’appel fédérale a apporté la précision suivante dans l’arrêt 1392644 Ontario Inc. s/n Connor Homes c. Ministre du Revenu national[6] :
+37 […] La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[14] L’arrêt Connor Homes commande une analyse en deux étapes. Premièrement, l’intention des parties doit être vérifiée afin de déterminer le genre de relation qu’elles souhaitaient créer. Compte tenu de cette intention, la deuxième étape consiste à analyser les faits de l’affaire pour établir si l’expression de l’intention des parties correspond à la réalité objective de leur relation. Dans cette deuxième étape, la cour doit, pour établir si la réalité factuelle reflète l’intention subjective des parties, appliquer les quatre facteurs énoncés dans l’arrêt Wiebe Door, à savoir : (i) le contrôle; (ii) la propriété des instruments de travail; (iii) la possibilité de profit; (iv) le risque de perte.
+A. L’intention des parties [15] Compte tenu de ce qui précède, je dois d’abord établir si les parties avaient l’intention de conclure un contrat de louage de services, qui indique l’existence d’une relation entre un employé et un employeur, ou un contrat d’entreprise, qui indique l’existence d’une relation d’entrepreneur indépendant.
+[16] Il ressort clairement de la preuve que l’appelante souhaitait employer les travailleurs aux termes de contrats d’entrepreneur indépendant. La question consiste à savoir si les travailleurs étaient d’accord avec cette qualification de la relation.
+[17] La preuve révèle que l’appelante traitait les travailleurs comme des entrepreneurs indépendants. Les travailleurs ne recevaient pas de prestations de maladie ou d’indemnités de vacances, et aucune retenue sur leur salaire n’était effectuée.
+[18] La plupart des travailleurs semblent avoir accepté leur statut d’entrepreneur indépendant. Seulement dix travailleurs ont soutenu être des employés. Cinq témoins ayant comparu au nom de l’appelante ont confirmé qu’ils étaient des entrepreneurs indépendants. Ils ont également confirmé que l’appelante avait l’habitude de faire signer aux travailleurs nouvellement embauchés des contrats d’entrepreneur indépendant. Je n’ai aucune raison de croire que les autres travailleurs n’ont pas accepté leur statut d’entrepreneur indépendant.
+[19] Par conséquent, compte tenu de l’ensemble de la preuve, je suis convaincu que les travailleurs avaient l’intention d’être des entrepreneurs indépendants. Les dix travailleurs qui auraient contesté leur statut d’entrepreneur indépendant n’ont pas témoigné. Je déduis de la preuve qu’ils ont été embauchés à titre d’entrepreneurs indépendants et ont pris la décision de contester leur statut par la suite.
+B. Les facteurs énoncés dans les arrêts Wiebe Door et Sagaz (1) Le contrôle [20] Dans un contexte où il faut établir la distinction entre des employés et des entrepreneurs indépendants, le contrôle est souvent défini comme la capacité ou le droit d’un payeur d’exercer un contrôle sur la façon dont un travailleur s’acquitte de ses tâches. Plus le payeur exerce un contrôle important sur son personnel, plus la relation se rapproche de celle liant un employeur et un employé. De même, plus le travailleur est libre d’exécuter ses tâches comme il le souhaite, plus il semble travailler à son propre compte.
+[21] L’appelante fait valoir que les travailleurs n’étaient pas assujettis à sa direction ni à son contrôle, car la preuve révèle ceci :
+a) les travailleurs pouvaient choisir leur propre horaire de travail, conformément à la politique de l’appelante sur les horaires de travail flexibles;
+b) les travailleurs n’étaient pas tenus de travailler exclusivement pour l’appelante;
+c) les travailleurs s’acquittaient de leurs tâches avec un minimum de direction et de contrôle;
+d) les travailleurs se présentaient rarement au bureau de l’appelante.
+[22] À mon avis, le fait que les travailleurs bénéficiaient d’un horaire de travail flexible n’empêche pas de conclure qu’ils étaient assujettis à la direction et au contrôle de l’appelante. Les horaires de travail flexibles sont souvent mis en œuvre dans l’objectif de conserver les travailleurs qui souhaitent travailler à temps partiel ou atteindre un meilleur équilibre entre leur vie personnelle et professionnelle. Les ententes de cette nature s’inscrivent de plus en plus dans la norme pour les vendeurs qui n’ont pas d’espace de travail dans les bureaux de leur employeur.
+[23] En l’espèce, la preuve documentaire contredit le témoignage livré par les témoins de l’appelante, selon lequel les agents sur le terrain étaient libres de déterminer la façon dont ils s’acquitteraient de leurs tâches. Quatre des cinq ententes de prestation de services déposées en preuve liaient l’appelante et une institution financière. Chacune de ces ententes exigeait à l’appelante de veiller à ce que ses agents sur le terrain fassent l’objet de vérifications de sécurité, suivent une formation appropriée, respectent les procédures concernant la façon de remplir et de soumettre les demandes des clients, et assurent la confidentialité des renseignements sur la clientèle.
+[24] Michael Prestia a été appelé à témoigner par l’appelante. Au cours de la période visée par les présents appels, il travaillait pour la CIBC à titre de gestionnaire des acquisitions directes et surveillait la relation qu’entretenait la CIBC avec l’appelante. Il a déclaré que la CIBC appliquait une politique de vente éthique rigoureuse, qui exigeait des agents sur le terrain qu’ils communiquent tout aux clients éventuels au sujet des cartes de crédit qu’ils devaient promouvoir dans le cadre de leur travail. Si un agent sur le terrain contrevenait à la politique, il lui était interdit de promouvoir des produits de la CIBC. Toutes les banques avaient recours à des clients mystère pour s’assurer que les agents sur le terrain responsables de leurs programmes de carte de crédit respectaient leurs politiques en matière de ventes.
+[25] Les banques exigeaient également que les agents sur le terrain travaillent exclusivement pour leur campagne. Autrement dit, un agent sur le terrain ne pouvait pas faire simultanément la promotion de produits financiers de banques concurrentes. Si une campagne prenait fin, les agents sur le terrain ne pouvaient travailler pour une campagne d’un concurrent pendant une période de restriction.
+[26] D’autres éléments de preuve appuient la conclusion selon laquelle les agents sur le terrain étaient sous la direction et le contrôle de l’appelante. Par exemple, les gestionnaires de programme avaient entre autres les responsabilités suivantes : [traduction] « embaucher, congédier et former les employés; planifier, répartir et diriger le travail; évaluer le rendement; récompenser et discipliner les employés; traiter les plaines et régler les problèmes[7] ». Cette description des responsabilités donne à penser que les gestionnaires de programme avaient entre autres la tâche d’embaucher et de former des agents sur le terrain, et de les discipliner s’ils ne s’acquittaient pas de leurs fonctions adéquatement.
+[27] La preuve révèle que les gestionnaires exerçaient réellement ces fonctions. Par exemple, dans un courriel daté du 5 juillet 2010, M. Syed, un gestionnaire de programme travaillant pour l’appelante, énumérait la moyenne des ventes des agents sur le terrain dont il était responsable et formulait des commentaires sur leur rendement. Il faisait des reproches aux agents qui n’avaient pas recruté suffisamment de nouveaux clients et félicitait ceux qui semblaient avoir atteint leurs objectifs. M. Syed soulignait également que certains agents avaient soumis des demandes de client incomplètes et qu’il les pénaliserait s’ils continuaient de faire des erreurs. La preuve démontre que les gestionnaires de programme de l’appelante recevaient une partie des commissions touchées par l’appelante pour les nouveaux clients que les agents sur le terrain recrutaient dans le cadre des programmes dont ils étaient responsables. J’en déduis que c’est pour cette raison que M. Syed se préoccupait du rendement des agents sur le terrain dont il était responsable. Sa structure de rémunération était conçue pour l’inciter à surveiller et à maximiser les résultats de vente des membres de son équipe.
+[28] Shreeti Karki, qui a été appelée à témoigner par l’appelante, a également confirmé que les gestionnaires de programme supervisaient le rendement de leurs agents sur le terrain. Par exemple, elle a reconnu que son gestionnaire, Saad Dastagir, l’avait formée. Elle a déclaré qu’il s’était souvent rendu sur son lieu de travail tout au long de la période où elle avait travaillé pour l’appelante. Mme Karki a confirmé qu’elle avait dû assister à des séances de formation de la BMO aux bureaux de l’appelante et qu’elle informait son gestionnaire lorsqu’elle commençait et terminait son quart de travail.
+[29] La preuve démontre également que les clients de l’appelante évaluaient le rendement de celle‑ci en matière de ventes en calculant le coût d’acquisition par nouveau client recruté dans le cadre de leur contrat avec l’appelante. Le coût d’acquisition par nouveau client correspond au montant que le client de l’appelante verse à celle‑ci, auquel s’ajoutent les frais accessoires, divisé par le nombre total de clients recrutés au cours de la période. Comme les affaires de l’appelante ont connu une croissance considérable au cours de la période visée, j’en déduis que l’appelante a pris des mesures dans l’objectif de satisfaire ou de dépasser les attentes de ses clients en ce qui a trait à cette donnée importante. Si le nombre de nouveaux clients recrutés baissait, le client de l’appelante voyait le coût d’acquisition par nouveau client augmenter. Je présume qu’un tel résultat aurait compromis les chances de l’appelante de voir son contrat renouvelé. À mon avis, l’appelante ne pouvait pas se permettre de faire preuve de laxisme quant à la façon dont ses agents sur le terrain s’acquittaient de leurs tâches consistant à recruter de nouveaux clients.
+[30] Dans l’ensemble, le facteur du contrôle milite en faveur de la conclusion selon laquelle il existait une relation entre un employeur et un employé.
+C. Les instruments de travail [31] Selon la preuve, les agents sur le terrain utilisaient peu d’instruments pour s’acquitter de leurs fonctions. En ce qui a trait aux ententes de prestation de services conclues avec les banques, ce sont celles‑ci qui fournissaient à l’appelante les kiosques, le matériel de commercialisation et les formulaires d’inscription. L’appelante prenait ensuite les mesures nécessaires pour remettre ce matériel à ses agents sur le terrain, sans frais. Ceux‑ci utilisaient souvent leur propre téléphone cellulaire pour communiquer avec le gestionnaire de programme dont ils relevaient.
+[32] Compte tenu du fait que l’appelante s’occupait de fournir le matériel de commercialisation, les formulaires d’inscription et les kiosques, le cas échéant, aux agents sur le terrain, ce facteur indique qu’il existait un contrat de louage de services.
+D. La possibilité de profit et le risque de perte [33] L’essentiel de la rémunération des agents sur le terrain reflétait l’arrangement en matière de tarifs que l’appelante avait négocié avec son client. L’appelante touchait un taux horaire et des commissions pour les demandes d’inscription de clients acceptées dans le cadre d’un programme en particulier. L’appelante versait ensuite une partie du taux horaire et des commissions aux agents sur le terrain affectés à ce programme. Les gestionnaires de programme, que l’appelante accepte désormais de reconnaître comme des employés, étaient rémunérés d’une façon semblable, sauf que les commissions qu’ils touchaient étaient établies en fonction des demandes d’inscription de clients acceptées que les équipes de vente dont ils étaient responsables avaient présentées.
+[34] Aux termes de l’entente que l’appelante avait conclue avec un client, à savoir MBNA, les agents sur le terrain assignés au programme devaient être des employés. Il convient de souligner que l’arrangement en matière de tarifs que l’appelante avait conclu avec MBNA et l’arrangement en matière de rémunération établi pour les agents sur le terrain affectés à ce programme ressemblaient aux ententes que l’appelante avait conclues avec d’autres banques. De même, la description des tâches de supervision de l’appelante aux termes de l’entente conclue avec MBNA est semblable à celle énoncée dans les ententes conclues avec d’autres banques.
+[35] Michael Moore a déclaré qu’il avait négocié son taux de rémunération avec l’appelante. La preuve révèle que la relation de l’appelante avec M. Moore était différente de celle qu’elle entretenait avec les autres agents sur le terrain. Toutefois, à mon avis, il n’est pas rare que les travailleurs hautement qualifiés négocient leur rémunération. Ils ne sont pas des entrepreneurs indépendants pour autant.
+[36] Les agents sur le terrain n’ont pas investi de fonds pour gagner leur rémunération. Ils touchaient un taux horaire et une commission. Par conséquent, ils n’étaient pas exposés à un risque de perte.
+[37] Michael Kuipers et Neil Spivac, actionnaires de l’appelante, ont affirmé que les travailleurs pouvaient donner leurs services en sous-traitance. La preuve n’étaye pas cette allégation. Les agents sur le terrain devaient être formés pour le programme auquel ils étaient affectés. Ils devaient savoir comment remplir les demandes d’inscription des clients et connaître les politiques du client de l’appelante quant à la communication de renseignements au sujet du produit. Le contrat d’entrepreneur indépendant empêchait les agents sur le terrain de solliciter d’autres travailleurs afin de mettre fin à leur relation avec l’appelante. Les agents sur le terrain devaient faire l’objet d’une vérification de sécurité.
+[38] Mme Karki a affirmé que lorsqu’elle était malade, elle en informait son gestionnaire de programme, qui s’occupait de lui trouver un remplaçant.
+[39] La preuve démontre également que les gestionnaires de programme étaient responsables de l’embauche des agents sur le terrain. Comme la structure de rémunération des gestionnaires de programme se fondait sur le rendement de l’équipe qu’ils supervisaient, je doute qu’ils aient permis aux agents sur le terrain de confier leurs tâches en sous-traitance. M. Moore a affirmé qu’il avait donné certains de ses quarts de travail en sous-traitance, mais il est difficile de savoir qu’il s’est fait remplacer par des agents sur le terrain travaillant déjà pour l’appelante.
+[40] Enfin, rien dans le dossier ne donne à penser qu’outre M. Moore, des agents sur le terrain confiaient réellement leurs tâches en sous-traitance.
+[41] Dans l’ensemble, je conclus que ce facteur indique qu’il existait un contrat de louage de services.
+IV. Conclusion [42] Chacune des parties a rassemblé un certain nombre de précédents, comme c’est souvent le cas dans les appels de ce genre. Elles soutiennent que ces précédents concernent des appels soulevant les mêmes questions et portent sur des faits semblables à ceux dont il s’agit ici. Qu’il suffise de dire que l’application des critères de l’arrêt Wiebe Door requiert de s’interroger sur la réalité objective de la relation des parties, qu’il s’agit là pour l’essentiel d’un exercice d’établissement des faits et que cela tient donc aux faits qui sont propres à chaque affaire. Aucun des précédents invoqués n’est concluant quant à cette question.
+[43] Tout compte fait, les critères des arrêts Wiebe Door et Sagaz favorisent la conclusion selon laquelle les agents sur le terrain étaient des employés de l’appelante. Selon la réalité objective de la situation, l’appelante exerçait un contrôle important sur ces travailleurs. Dans l’ensemble, les faits et la preuve dont dispose la Cour révèlent que les travailleurs ne travaillaient pas à leur compte. Par conséquent, je conclus que les agents sur le terrain n’offraient pas leurs services à titre d’entrepreneurs indépendants, bien qu’ils puissent avoir conclu des contrats d’entrepreneur indépendant prévoyant le contraire. L’intention que les agents sur le terrain étaient des entrepreneurs indépendants ne se reflétait pas dans la réalité objective de leur relation de travail avec l’appelante, et elle ne saurait donc prévaloir contre cette réalité. Pour ces motifs, je suis d’avis de rejeter les appels pour tous les travailleurs visés en l’espèce.
+Signé à Calgary (Alberta), ce 20e jour de février 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 28e jour d’août 2015.
+C. Laroche
+RÉFÉRENCE :
+2015 CCI 47
+Nos DES DOSSIERS DE LA COUR :
+2010-3302(EI), 2010-3304(CPP)
+2011-1040(CPP), 2011-1041(EI)
+2011-1366(EI), 2011-1367(CPP)
+2011-3734(CPP), 2011-3736(EI)
+2011-3246(CPP), 2011-3249(EI)
+INTITULÉS :
+PARETO CORPORATION, PAR SON SYNDIC DE FAILLITE, KPMG INC., c. LE MINISTRE DU REVENU NATIONAL ET LING CHENG
+PARETO CORPORATION, PAR SON SYNDIC DE FAILLITE, KPMG INC., c. LE MINISTRE DU REVENU NATIONAL
+PARETO CORPORATION, PAR SON SYNDIC DE FAILLITE, KPMG INC., c. LE MINISTRE DU REVENU NATIONAL ET SALIMA A. DAOUD ET EUGENE AFESE AKONDENG
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 20, 21, 22 et 23 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 20 février 2015
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Louise Summerhill
+Avocate de l’intimé :
+Me Samantha Hurst
+Pour les intervenants dans les dossiers 2010‑3302(EI), 2010‑3304(CPP), 2011‑3246(CPP), 2011‑3249(EI)
+Les intervenants eux‑mêmes
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Me Louise Summerhill
+Cabinet :
+Aird & Berlis LLP
+Toronto (Ontario)
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour les intervenants :
+[traduction]
+ANNEXE A – Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1. ABASI
+ZEESHAN
+LIVREUR ou REPÉREUR
+ANGLAIS
+2. ABBASSI
+SANAZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+3. ABDI
+HOUSSEIN AHMED
+AGENT SUR LE TERRAIN
+FRANÇAIS
+4. ABDI
+IDIL MOHAMMED
+AGENT SUR LE TERRAIN
+ANGLAIS
+5. ABDIRAHMAN
+ADAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+6. ABENHEIM
+ANDREW
+AGENT SUR LE TERRAIN
+ANGLAIS
+7. ABHINAND
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+8. ABOUHASS
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+9. ABOUNAFA
+MOHAMMED NABIL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+10. ABRAHAM
+OSWALDO
+AGENT SUR LE TERRAIN
+FRANÇAIS
+11. ABSALAN
+RAHIM
+AGENT SUR LE TERRAIN
+ANGLAIS
+12. ACHOUR
+MOHAMMED RAMI
+AGENT SUR LE TERRAIN
+FRANÇAIS
+13. AFRONDOZ
+LINDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+14. AFSAHRKIA
+SHERMINEH
+GESTIONNAIRE
+ANGLAIS
+15. AFSHAN
+SAHAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+16. AFSI
+AFROUZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+17. AFZAL
+NAGHMA B
+AGENT SUR LE TERRAIN
+ANGLAIS
+18. AFZAL
+BILAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+19. AFZAL
+SANA
+LIVREUR ou REPÉREUR
+ANGLAIS
+20. AFZAL
+JENNAH
+LIVREUR ou REPÉREUR
+ANGLAIS
+21. AGGARWAL
+SONIKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+22. AHADIE
+JULIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+23. AHMAD
+IMAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+24. AHMAD
+MUZAMMIL ZARRAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+25. AHMAD
+AWAIS
+AGENT SUR LE TERRAIN
+ANGLAIS
+26. AHMED
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+27. AHMED
+DANYAL
+LIVREUR ou REPÉREUR
+ANGLAIS
+28. AHMED
+SHAFLUDDIN
+LIVREUR ou REPÉREUR
+ANGLAIS
+29. AHWALIA
+IMANJIT
+AGENT SUR LE TERRAIN
+ANGLAIS
+30. AJAYI
+ADEBIYI
+AGENT SUR LE TERRAIN
+ANGLAIS
+31. AKEDD
+JOY
+AGENT SUR LE TERRAIN
+ANGLAIS
+32. AKHTAR
+S.H.
+LIVREUR ou REPÉREUR
+ANGLAIS
+33. AKKARI
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+34. AKONDENG
+EUGENE
+AGENT SUR LE TERRAIN
+ANGLAIS
+35. AKOTO
+WILLIAM
+LIVREUR ou REPÉREUR
+ANGLAIS
+36. AL DEAN
+GADER
+AGENT SUR LE TERRAIN
+ANGLAIS
+37. AL-ADARA
+OSAMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+38. ALADDGIK
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+39. ALAM
+NAVEED
+AGENT SUR LE TERRAIN
+ANGLAIS
+40. ALARIE
+REJEAN
+GESTIONNAIRE
+FRANÇAIS
+41. ALBAKRI
+SHAHAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+42. ALBOKHAR
+OMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+43. ALDAJIKO
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+44. ALDARAH
+NADIEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+45. ALEXIS
+DYLAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+46. AL-HALTO
+MOHAMMAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+47. ALI
+HASSAN
+LIVREUR
+ANGLAIS
+48. ALI
+MD ALMAS
+LIVREUR ou REPÉREUR
+ANGLAIS
+49. ALI
+SYED
+AGENT SUR LE TERRAIN
+ANGLAIS
+50. ALI
+MEHDI
+AGENT SUR LE TERRAIN
+ANGLAIS
+51. ALIKHANI
+MINA
+AGENT SUR LE TERRAIN
+ANGLAIS
+52. ALIKHANI
+FERIAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+53. ALIZAI
+HAMID
+AGENT SUR LE TERRAIN
+ANGLAIS
+54. ALLEN
+RACHAEL
+GESTIONNAIRE
+ANGLAIS
+55. ALLII
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+56. ALMEDIDA
+EDWARD
+AGENT SUR LE TERRAIN
+ANGLAIS
+57. ALONCE
+EMMANUEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+58. AMADEI
+HEIDI
+AGENT SUR LE TERRAIN
+ANGLAIS
+59. AMAOUTOV
+I
+AGENT SUR LE TERRAIN
+ANGLAIS
+60. AMAR
+DAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+61. AMINOU
+OMAR
+AGENT SUR LE TERRAIN
+FRANÇAIS
+62. AMINZADA
+TAMIM
+AGENT SUR LE TERRAIN
+ANGLAIS
+63. AMUTUL
+NOOR
+GESTIONNAIRE
+ANGLAIS
+64. ANDERSON
+AMANDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+65. ANNUNZIA
+STEVEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+66. ANWAR
+ARSALAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+67. APPAW
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+68. ARABI
+AMJAD
+LIVREUR ou REPÉREUR
+FRANÇAIS
+69. ARAFAT
+DEMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+70. ARAMOUNI
+PATRICK
+AGENT SUR LE TERRAIN
+ANGLAIS
+71. ARCHAMBA
+ROBERT
+AGENT SUR LE TERRAIN
+ANGLAIS
+72. ARCI
+ALESSANDRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+73. ARGUNEN
+DANIEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+74. ARMAH
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+75. ARMSTRONG
+SYLVAIN
+GESTIONNAIRE
+FRANÇAIS
+76. ARMSTRONG
+SUSAN
+GESTIONNAIRE
+ANGLAIS
+77. ARMSTRON
+CADENE
+AGENT SUR LE TERRAIN
+ANGLAIS
+78. ARORA
+SAMITA
+AGENT SUR LE TERRAIN
+ANGLAIS
+79. AROROA
+HETALKUMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+80. ARSENAULT
+GILLES
+AGENT SUR LE TERRAIN
+FRANÇAIS
+81. ASHKER
+REBECCA
+AGENT SUR LE TERRAIN
+ANGLAIS
+82. ASHKER
+NEFERTITI
+LIVREUR ou REPÉREUR
+ANGLAIS
+83. ASHWORTH
+DAVID
+AGENT SUR LE TERRAIN
+ANGLAIS
+84. ASSAF
+GUITTA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+85. ATLEO
+ALICE
+AGENT SUR LE TERRAIN
+ANGLAIS
+86. ATTAH
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+87. ATVVAL
+PALBIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+88. AUDET
+CARÔLE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+89. AVELINO
+DANIEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+90. AVILA
+NATALIE
+LIVREUR ou REPÉREUR
+ANGLAIS
+91. AWASIS
+MORGAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+92. AZENABOU
+IZODOSE
+AGENT SUR LE TERRAIN
+ANGLAIS
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+93. AZMI
+AHMED
+AGENT SUR LE TERRAIN
+ANGLAIS
+94. BABAR
+FAIZA
+AGENT SUR LE TERRAIN
+ANGLAIS
+95. BABRAK
+PARWIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+96. BABUL
+MATINUR RAHMAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+97. BAGGA
+SHERYL
+AGENT SUR LE TERRAIN
+ANGLAIS
+98. BAIG
+MIRZA MA
+AGENT SUR LE TERRAIN
+ANGLAIS
+99. BAILEY
+RHYAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+100. BAILLARG
+PHILLIPPE
+AGENT SUR LE TERRAIN
+ANGLAIS
+101. BAJWA
+JALAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+102. BAKSH
+JAIASHREE
+AGENT SUR LE TERRAIN
+ANGLAIS
+103. BALA
+DIVYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+104. BALASOORLYA
+HIMALA
+LIVREUR ou REPÉREUR (2008)
+GESTIONNAIRE (2009)
+ANGLAIS
+ANGLAIS
+105. BALOOCH
+SHABNAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+106. BANGALI
+MAHDI
+AGENT SUR LE TERRAIN
+ANGLAIS
+107. BANJARA
+NIRANJANA
+LIVREUR ou REPÉREUR
+ANGLAIS
+108. BANNERT
+TRAVIS
+AGENT SUR LE TERRAIN
+ANGLAIS
+109. BARBISON
+SCOTT J
+AGENT SUR LE TERRAIN
+ANGLAIS
+110. BARNETT-
+CARMEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+111. BAROT
+NEETA CHETAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+112. BASS
+KATHY
+AGENT SUR LE TERRAIN
+ANGLAIS
+113. BASSI
+DANISHBIR S
+AGENT SUR LE TERRAIN
+ANGLAIS
+114. BASTONE
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+115. BAWDEN
+ANTHONY J
+AGENT SUR LE TERRAIN
+ANGLAIS
+116. BAXTER
+TYRELL
+AGENT SUR LE TERRAIN
+ANGLAIS
+117. BCHOUTI
+MICHEL
+GESTIONNAIRE
+ANGLAIS
+118. BCHOUTI
+JULIANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+119. BEAULIEU
+GUILLAUME
+AGENT SUR LE TERRAIN
+FRANÇAIS
+120. BEAUZIL
+RICARDO
+AGENT SUR LE TERRAIN
+FRANÇAIS
+121. BECHARD
+MARC
+AGENT SUR LE TERRAIN
+ANGLAIS
+122. BECK
+WILLIAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+123. BEDARD
+KARINE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+124. BEDARD
+OLIVIER
+AGENT SUR LE TERRAIN
+FRANÇAIS
+125. BEDI
+GUY DELAIER LORNG
+AGENT SUR LE TERRAIN
+ANGLAIS
+126. BEG
+YAHYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+127. BEG
+FATIMA
+GESTIONNAIRE
+ANGLAIS
+128. BEG
+ASSAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+129. BEGOUIN
+CHRISTIAN
+LIVREUR ou REPÉREUR
+FRANÇAIS
+130. BEHDARVANDIAN
+PROSHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+131. BEHGOUEI
+HASSAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+132. BELL
+COURTNEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+133. BEN-AMMAR
+SALMA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+134. BENCICH
+DARIO
+AGENT SUR LE TERRAIN
+ANGLAIS
+135. BENIWAL
+KULBIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+136. BENYAMMINE
+MARGARITA
+AGENT SUR LE TERRAIN
+ANGLAIS
+137. BERDNIKO
+MARIJA
+AGENT SUR LE TERRAIN
+ANGLAIS
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+138. BERNARD
+SONIA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+139. BERNARDI
+CHAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+140. BEROUD
+LEILA
+AGENT SUR LE TERRAIN
+ANGLAIS
+141. BEYDOUN
+ROLLA
+AGENT SUR LE TERRAIN
+ANGLAIS
+142. BHANDARI
+BABURAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+143. BHARDWAJ
+VARUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+144. BHARTI
+PANKAJPREET
+AGENT SUR LE TERRAIN
+ANGLAIS
+145. BHATHAL
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+146. BHATNAJA
+NEERU
+AGENT SUR LE TERRAIN
+ANGLAIS
+147. BHATT
+DHARMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+148. BIANCHAR
+CATHERINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+149. BILOLO
+KUPA-KUPANGA
+AGENT SUR LE TERRAIN
+ANGLAIS
+150. BISAILLON-
+LEFEBVRE
+THIERRY
+AGENT SUR LE TERRAIN
+FRANÇAIS
+151. BLACK
+TREVOR
+GESTIONNAIRE
+ANGLAIS
+152. BLACKMAN
+CHRISTOPHER
+AGENT SUR LE TERRAIN
+ANGLAIS
+153. BLACKWOO
+CHYRO
+AGENT SUR LE TERRAIN
+ANGLAIS
+154. BLAGDON
+REBEKAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+155: BLAIN
+RENEE
+AGENT SUR LE TERRAIN
+ANGLAIS
+156. BLAIS
+AMANDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+157. BLAISE
+GARY
+AGENT SUR LE TERRAIN
+FRANÇAIS
+158. BLAKENEY
+JESSICA D
+AGENT SUR LE TERRAIN
+ANGLAIS
+159. BLEADOW
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+160. BOEHM
+SUSANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+161. BOIVIN
+JOSEE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+162. BONILLA
+ANDRES FELIPE
+AGENT SUR LE TERRAIN
+ANGLAIS
+163. BORGI
+CHADY-CHARBEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+164. BOSMA
+DANIELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+165. BOSNJAK
+IGOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+166. BOUBAKER
+AHMED
+AGENT SUR LE TERRAIN
+ANGLAIS
+167. BOUNDREA
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+168. BOURGEOI
+MORGAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+169. BOUTANG
+JASON
+AGENT SUR LE TERRAIN
+ANGLAIS
+170. BOYLAN
+ANTHONY JOSEPH
+AGENT SUR LE TERRAIN
+ANGLAIS
+171. BRABAK
+ABDULLAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+172. BRADY
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+173. BRAHMAOURAM
+MADHUSUDHAN
+LIVREUR ou REPÉREUR
+ANGLAIS
+174. BRAULT
+GWENN
+AGENT SUR LE TERRAIN
+ANGLAIS
+175. BRETON
+GINETTE
+AGENT SUR LE TERRAIN
+ANGLAIS
+176. BRETON
+JOSEE
+AGENT SUR LE TERRAIN
+ANGLAIS
+177. BROWN
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+178. BROWN
+MEAGHAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+179. BROWN
+HOLLY MARIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+180. BROWN
+ALISTAIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+181. BUI
+TRONG
+AGENT SUR LE TERRAIN
+ANGLAIS
+182. BULMASH
+LORIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+183. BULMER
+PETER
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A – Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+184. BUMMA
+MEERA
+LIVREUR ou REPÉREUR
+ANGLAIS
+185. BUOTE
+C
+AGENT SUR LE TERRAIN
+ANGLAIS
+186. BURBY-SMITH
+JUSTIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+187. BUREY
+OMAR
+LIVREUR ou REPÉREUR
+ANGLAIS
+188. BURNS
+MICHAEL D
+GESTIONNAIRE
+ANGLAIS
+189. BUTT
+GHALIB A
+AGENT SUR LE TERRAIN
+ANGLAIS
+190. CAGAS
+REYMON
+LIVREUR ou REPÉREUR
+ANGLAIS
+191. CALIK
+VALI
+LIVREUR ou REPÉREUR
+ANGLAIS
+192. CAMERON
+ANGELA
+AGENT SUR LE TERRAIN
+ANGLAIS
+193. CAPKO
+VERONIKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+194. CAPO
+LYNDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+195. CARDINAL
+SHERRI LEE
+AGENT SUR LE TERRAIN
+ANGLAIS
+196. CARDINES
+MARIA
+GESTIONNAIRE
+ANGLAIS
+197. CARECECE
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+198. CAROLL
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+199. CARR
+AMANDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+200. CARRION
+STEPHANIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+201. CARTER
+CANDACE
+GESTIONNAIRE
+ANGLAIS
+202. CARTHER
+CHRIS
+GESTIONNAIRE
+ANGLAIS
+203. CASTELLO
+CESAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+204. CASTIGLI
+JOSIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+205. CELDRAN
+JOAQUIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+206. CERQUERA
+JUAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+207. CHACON- MELENDEZ
+ANDREW
+AGENT SUR LE TERRAIN
+ANGLAIS
+208. CHADWICK
+TAYLOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+209. CHAFARI
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+210. CHAHWAN
+PIERRE
+LIVREUR ou REPÉREUR
+ANGLAIS
+211. CHAKAVORTY
+SOMSHANKAR
+LIVREUR ou REPÉREUR
+ANGLAIS
+212. CHAMBERS
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+213. CHAN
+OTTO
+LIVREUR ou REPÉREUR
+ANGLAIS
+214. CHAN
+PETER CHUN
+LIVREUR ou REPÉREUR
+ANGLAIS
+215. CHAN
+PAMELA WAI YIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+216. CHAN
+JORDAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+217. CHANDI
+SUKHJINDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+218. CHANG
+R
+AGENT SUR LE TERRAIN
+ANGLAIS
+219. CHAPMAN
+PETER
+LIVREUR ou REPÉREUR
+ANGLAIS
+220. CHAU
+MEI LING
+AGENT SUR LE TERRAIN
+ANGLAIS
+221. CHEN
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+222. CHEN
+FELIX
+AGENT SUR LE TERRAIN
+ANGLAIS
+223. CHEN
+TONY XIHAO
+LIVREUR ou REPÉREUR
+ANGLAIS
+224. CHEN
+TIAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+225. CHENG
+LING
+AGENT SUR LE TERRAIN
+ANGLAIS
+226. CHEUNG
+WAI SHUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+227. CHEVALIE
+CHANTE
+AGENT SUR LE TERRAIN
+ANGLAIS
+228. CHHOEUN
+R
+AGENT SUR LE TERRAIN
+ANGLAIS
+229. CHIMA
+SELINA
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+230. CHINN
+BETTY
+AGENT SUR LE TERRAIN
+ANGLAIS
+231. CHO
+KENNETH
+AGENT SUR LE TERRAIN
+ANGLAIS
+232. CHOI
+SHIU
+AGENT SUR LE TERRAIN
+ANGLAIS
+233. CHOI
+PAUL
+AGENT SUR LE TERRAIN
+ANGLAIS
+234. CHOI
+HEE RAK
+GESTIONNAIRE
+ANGLAIS
+235. CHOKSI
+DEVANGBHAI
+LIVREUR ou REPÉREUR
+ANGLAIS
+236. CHOMSKI
+W
+AGENT SUR LE TERRAIN
+ANGLAIS
+237. CHOTO
+CONSTANTINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+238. CHOU
+YUE
+LIVREUR ou REPÉREUR
+ANGLAIS
+239. CHOWDHURY
+EZAJUL HOQUE
+LIVREUR ou REPÉREUR
+ANGLAIS
+240. CHRISTIAN
+GAIUS
+LIVREUR ou REPÉREUR
+ANGLAIS
+241. CHU
+KUO HUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+242. CHUANG
+SUNDAY
+AGENT SUR LE TERRAIN
+ANGLAIS
+243. CHUKWUEM
+O
+AGENT SUR LE TERRAIN
+ANGLAIS
+244. CHUNG
+CHAI
+GESTIONNAIRE
+ANGLAIS
+245. CHUNG
+ERIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+246. CHUNG
+EDDIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+247. CIELO
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+248. CINELLI
+FRANKO
+AGENT SUR LE TERRAIN
+ANGLAIS
+249. CLARK
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+250. CLEVELAN
+PEREZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+251. CLINE
+TREVOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+252. COICOU
+RENE MAX
+AGENT SUR LE TERRAIN
+FRANÇAIS
+253. COLLIER
+RAPHAELLA
+AGENT SUR LE TERRAIN
+ANGLAIS
+254. COONJOO BEEHARRY
+ROSHNI
+LIVREUR ou REPÉREUR
+ANGLAIS
+255. COPPELMA
+ROLAND
+AGENT SUR LE TERRAIN
+ANGLAIS
+256. CORNELIE
+CEDRIC
+AGENT SUR LE TERRAIN
+FRANÇAIS
+257. COSBY
+EMILY
+AGENT SUR LE TERRAIN
+ANGLAIS
+258. COTRUPI
+DOMENIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+259. COULTER
+COLLIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+260. COUTO
+HERNANI
+AGENT SUR LE TERRAIN
+ANGLAIS
+261. COUTURE
+JAQUELINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+262. COX
+CA
+AGENT SUR LE TERRAIN
+ANGLAIS
+263. COY
+SUZANNE
+AGENT SUR LE TERRAIN
+ANGLAIS
+264. CRAWFORD
+KELSEY B
+AGENT SUR LE TERRAIN
+ANGLAIS
+265. CUI
+XIAO ZHENG
+AGENT SUR LE TERRAIN
+ANGLAIS
+266. CUNHA
+ELISABETE
+AGENT SUR LE TERRAIN
+ANGLAIS
+267. CUNNINGH
+BRIAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+268. CURRAN- DESJARDINS
+COREY
+AGENT SUR LE TERRAIN
+ANGLAIS
+269. CURRIE
+SCOTT
+AGENT SUR LE TERRAIN
+ANGLAIS
+270. CURTIS
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+271. CUTTEL
+CHRISTOPHER
+AGENT SUR LE TERRAIN
+ANGLAIS
+272. CYMBALIS
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+273. DA SILVA
+TATIANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+274. DAL
+FIROZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+275. DAL
+NILAM
+LIVREUR ou REPÉREUR
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A – Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+276. DANTICA
+CHRISTELLE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+277. DANYAL
+SAHAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+278. DAOUD
+SALIMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+279. DARASHKE
+YANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+280. DARGUS
+JONATHAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+281. DASILVA
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+282. DASTAGIR
+SAUD
+GESTIONNAIRE
+ANGLAIS
+283. DATTU
+F
+AGENT SUR LE TERRAIN
+ANGLAIS
+284. DAVIES G
+BAMISHE
+AGENT SUR LE TERRAIN
+ANGLAIS
+285. DAVTIAN
+ARMIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+286. DAZE
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+287. DE CASTR
+SHARON
+AGENT SUR LE TERRAIN
+ANGLAIS
+288. DE GOURV
+GISCARD
+AGENT SUR LE TERRAIN
+ANGLAIS
+289. DE REGUL
+CARLOS
+AGENT SUR LE TERRAIN
+FRANÇAIS
+290. DE REGULES RODRIGUEZ
+KARLA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+291. DEANE
+RAYMOND
+AGENT SUR LE TERRAIN
+ANGLAIS
+292. DEGENSTEIN
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+293. DEL SOL
+KATHLEEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+294. DELA CRUZ
+JAYSON
+AGENT SUR LE TERRAIN
+ANGLAIS
+295. DELA CRUZ
+YURANI
+LIVREUR ou REPÉREUR
+ANGLAIS
+296. DELISLE
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+297. DELLE GRAZIE
+DORA
+AGENT SUR LE TERRAIN
+ANGLAIS
+298. DELOS RE
+NORLIZA
+AGENT SUR LE TERRAIN
+ANGLAIS
+299. DELSHAD
+HAMED SEIGH
+AGENT SUR LE TERRAIN
+FRANÇAIS
+300. DEMCHIK
+TERESA K
+AGENT SUR LE TERRAIN
+ANGLAIS
+301. DENIS
+JEAN-FRANCOIS
+GESTIONNAIRE
+FRANÇAIS
+302. DENNIS
+SHANNON
+AGENT SUR LE TERRAIN
+ANGLAIS
+303. DEREVNIN
+ANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+304. DES LAURIERS
+BRUNO
+AGENT SUR LE TERRAIN
+FRANÇAIS
+305. DESPINS
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+306. DEVANTIER
+COLIN
+LIVREUR ou REPÉREUR
+ANGLAIS
+307. DEVGON
+SAURABH
+AGENT SUR LE TERRAIN
+ANGLAIS
+308. DHALIAWL
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+309. DHALIWAL
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+310. DHALLWAL
+RAMNEEK K
+AGENT SUR LE TERRAIN
+ANGLAIS
+311. DHAMI
+JAG
+AGENT SUR LE TERRAIN
+ANGLAIS
+312. DHANJI
+NASIM
+AGENT SUR LE TERRAIN
+ANGLAIS
+313. DHINSA
+MANDEEP
+AGENT SUR LE TERRAIN
+ANGLAIS
+314. DI FEDER
+DEAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+315. DIAZ
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+316. DIB
+LORRAINE
+GESTIONNAIRE
+ANGLAIS
+317. DICKENSO
+NORA
+AGENT SUR LE TERRAIN
+ANGLAIS
+318. DION
+C
+AGENT SUR LE TERRAIN
+ANGLAIS
+319. DIRIN
+MS
+AGENT SUR LE TERRAIN
+ANGLAIS
+320. DISSANAY
+YATHINDRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+321. DIXON
+SHEA-MARIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A – Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+322.
+DOMANKO
+SANDY J
+AGENT SUR LE TERRAIN
+ANGLAIS
+323.
+DOUGLAS
+E
+AGENT SUR LE TERRAIN
+ANGLAIS
+324,
+DOUGLAS
+B
+AGENT SUR LE TERRAIN
+ANGLAIS
+325.
+DOWNEY
+DARREN
+AGENT SUR LE TERRAIN
+ANGLAIS
+326,
+DRISSI
+MERIYM
+AGENT SUR LE TERRAIN
+FRANÇAIS
+327.
+DROSI
+ANGELEA
+AGENT SUR LE TERRAIN
+ANGLAIS
+328.
+DROUILLI
+JACQUELINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+329.
+DRUMMOND
+MATHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+330.
+DRURY
+AMY-JILL
+GESTIONNAIRE
+ANGLAIS
+331.
+DUCHESNE
+CAROLINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+332.
+DUFFIELD
+CORY
+AGENT SUR LE TERRAIN
+ANGLAIS
+333.
+DUFOUR
+SERGE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+334.
+DUFRESNE
+JULIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+335.
+DUKKI
+SONIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+336.
+DUMOND
+TRACY
+AGENT SUR LE TERRAIN
+ANGLAIS
+337.
+DUNBAR
+KELLY
+AGENT SUR LE TERRAIN
+ANGLAIS
+338.
+DUNCAN
+ANDREW
+AGENT SUR LE TERRAIN
+ANGLAIS
+339.
+DUNCAN-C
+STEVEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+340.
+DUONG
+CATHY
+AGENT SUR LE TERRAIN
+ANGLAIS
+341.
+DUPLEY
+STEPHANIE
+LIVREUR ou REPÉREUR
+ANGLAIS
+342.
+DURODOLA
+CHRISTIANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+343.
+DYER
+BRANDEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+344.
+DYLAN
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+345.
+EAGLECHI
+THOMAS
+AGENT SUR LE TERRAIN
+ANGLAIS
+346.
+EASTON
+DEANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+347.
+EBRAHIM
+ELNAZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+348.
+EDWARDS
+JEFF
+AGENT SUR LE TERRAIN
+ANGLAIS
+349.
+EGAMINO
+GLENN
+AGENT SUR LE TERRAIN
+ANGLAIS
+350.
+EINAYATU
+HAMED
+AGENT SUR LE TERRAIN
+ANGLAIS
+351.
+EL MOULOU
+AADIL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+352.
+ELHARTI
+BOUBKER
+LIVREUR ou REPÉREUR
+FRANÇAIS
+353.
+EL-HUSSEINI
+BASSIMA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+354.
+ELIAS
+NASSIMA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+356.
+ELMADHOON
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+356.
+EL-MIR
+RIAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+357.
+EMERSON
+GEOFFREY
+AGENT SUR LE TERRAIN
+ANGLAIS
+358.
+ERICKSON
+E
+AGENT SUR LE TERRAIN
+ANGLAIS
+359.
+EROMOSEL
+OFURE RACHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+360.
+EWING
+MARY
+AGENT SUR LE TERRAIN
+ANGLAIS
+361.
+EXANTUS
+ANNE FABIOLA
+LIVREUR ou REPÉREUR
+FRANÇAIS
+362.
+FAR
+KAVEH
+AGENT SUR LE TERRAIN
+ANGLAIS
+363.
+FARAGHI
+H
+AGENT SUR LE TERRAIN
+ANGLAIS
+364.
+FARAH
+BOUH
+AGENT SUR LE TERRAIN
+ANGLAIS
+365.
+FARAH
+ABDIAZIZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+366.
+FARAMI
+ALI
+LIVREUR
+ANGLAIS
+367.
+FARB
+BRANDON
+AGENT SUR LE TERRAIN
+ANGLAIS
+368.
+FARINAS
+ROMMEL
+LIVREUR ou REPÉREUR
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+369. FASIH
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+370. FATIMAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+371. FATT
+RANDY
+GESTIONNAIRE
+ANGLAIS
+372. FAUCAULT
+C
+AGENT SUR LE TERRAIN
+ANGLAIS
+373. FAUST
+PIERRE-LUC
+AGENT SUR LE TERRAIN
+FRANÇAIS
+374. FAYEZ
+WALID
+LIVREUR ou REPÉREUR
+ANGLAIS
+375. FEDERICO
+DEAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+376. FERDOUS
+MONNUZA
+AGENT SUR LE TERRAIN
+ANGLAIS
+377. FERGUSON
+JUDY
+AGENT SUR LE TERRAIN
+ANGLAIS
+378. FERGUSON
+MITCHELL
+AGENT SUR LE TERRAIN
+ANGLAIS
+379. FERNANDE
+LUIZINHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+380. FIGI
+ANWAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+381. FILLAQTR
+BRANDON
+AGENT SUR LE TERRAIN
+ANGLAIS
+382. FLICK
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+383. FLONDERS
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+384. FLORENDO
+JOONE
+AGENT SUR LE TERRAIN
+ANGLAIS
+385. FLOWERS
+ASHLEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+386. FOLLINGS
+DAVID
+AGENT SUR LE TERRAIN
+ANGLAIS
+387. FONDEVIL
+DAVE VINCENT
+AGENT SUR LE TERRAIN
+ANGLAIS
+388. FONTAINE
+BRIGITTE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+389. FORER
+AARON
+AGENT SUR LE TERRAIN
+ANGLAIS
+390. FORHAD
+U
+AGENT SUR LE TERRAIN
+ANGLAIS
+391. FOTARDO
+BRYAN ANGELO
+AGENT SUR LE TERRAIN
+ANGLAIS
+392. FOUJRI
+MAHMOUD
+AGENT SUR LE TERRAIN
+FRANÇAIS
+393. FOULON
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+394. FOUR
+MARK
+LIVREUR ou REPÉREUR
+ANGLAIS
+395. FRAGOMEN
+JADE
+AGENT SUR LE TERRAIN
+ANGLAIS
+396. FRANCIS
+ANTHONY
+AGENT SUR LE TERRAIN
+ANGLAIS
+397. FREEMAN
+MARISSA
+AGENT SUR LE TERRAIN
+ANGLAIS
+398. FRISH
+ANGELA
+AGENT SUR LE TERRAIN
+ANGLAIS
+399. FU
+CHEE HANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+400. FUNG
+SUNNY HO YEUNG
+AGENT SUR LE TERRAIN
+ANGLAIS
+401. FUNG
+NATHANIEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+402. GAGNE
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+403. GAGNE
+MARCEL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+404. GAGNON
+HELENE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+405. GAJADHARSING
+KESSODEO
+LIVREUR ou REPÉREUR
+ANGLAIS
+406. GALLANT
+DEBBI
+AGENT SUR LE TERRAIN
+ANGLAIS
+447. GALLINGE
+ANGEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+408. GALMINAS
+BRENDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+409. GAMBLE
+KAREN
+AGENT SUR LE TERRAIN
+ANGLAIS
+410. GANDHE
+HARISH
+AGENT SUR LE TERRAIN
+ANGLAIS
+411. GANDHI
+NATASHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+412. GANESH
+SHYAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+413. GAO
+HAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+414. GARISTO
+STEPHANIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+415. GAROUSI
+SHILAN
+LIVREUR ou REPÉREUR
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+416. GASIGWA
+GAETAN
+AGENT SUR LE TERRAIN
+FRANÇAIS
+417. GAUDET
+SARAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+418. GAUTHIER
+MICHAEL D
+AGENT SUR LE TERRAIN
+FRANÇAIS
+419. GAVRIC
+RADMILA
+AGENT SUR LE TERRAIN
+ANGLAIS
+420. GAY-HOMEL
+JACOB
+AGENT SUR LE TERRAIN
+FRANÇAIS
+421. GAZERYAN
+LERNA
+GESTIONNAIRE
+FRANÇAIS
+422. GBOLOGADE
+BAMISHE
+LIVREUR ou REPÉREUR
+ANGLAIS
+423. GEBRETSA
+MESKEREM
+AGENT SUR LE TERRAIN
+ANGLAIS
+424. GENTILE
+RYAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+425. GENTRAY
+LORAIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+426. GEORGIAD
+GEORGE A
+AGENT SUR LE TERRAIN
+ANGLAIS
+427. GERMAIN
+LEBLANC
+THALIE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+428. GHAFARI
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+429. GHAMRAOU
+KHALED
+AGENT SUR LE TERRAIN
+ANGLAIS
+430. GHUMMANS
+V
+AGENT SUR LE TERRAIN
+ANGLAIS
+431. GIBSON
+MAEGHEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+432. GILBERT
+ANNE
+AGENT SUR LE TERRAIN
+ANGLAIS
+433. GILL
+PAVINDER K
+AGENT SUR LE TERRAIN
+ANGLAIS
+434. GILL
+SANDIP
+AGENT SUR LE TERRAIN
+ANGLAIS
+435. GILLES
+KELI
+AGENT SUR LE TERRAIN
+ANGLAIS
+436. GIRAN
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+437. GIRDHAR
+PITYUSH
+AGENT SUR LE TERRAIN
+ANGLAIS
+438. GIWA
+TOSIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+439. GODNER
+NICOLAS
+AGENT SUR LE TERRAIN
+FRANÇAIS
+440. GOLAC
+STEVE
+AGENT SUR LE TERRAIN
+ANGLAIS
+441. GOLBAZ
+KAMBIZ
+GESTIONNAIRE
+ANGLAIS
+442. GOLUEKE
+MEGAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+443. GOMES
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+444. GONTIER
+ROBERT
+AGENT SUR LE TERRAIN
+ANGLAIS
+445. GOODFELL
+NATALIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+446. GOPAUL
+KEVIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+447. GOPINATH
+SOUMYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+448. GOSSELIN
+STEPHANE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+449. GOSWAMI
+PRIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+450. GOUNDER
+SHYMAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+451. GOZIE
+O
+AGENT SUR LE TERRAIN
+ANGLAIS
+452. GRAHAM
+MATTHEW
+GESTIONNAIRE
+ANGLAIS
+453. GRATTON
+CHANTEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+454. GRECO
+OLGA
+AGENT SUR LE TERRAIN
+ANGLAIS
+455. GRENIER
+TIMOTHY
+AGENT SUR LE TERRAIN
+ANGLAIS
+456. GRENIER
+AMANDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+457. GREWAL
+GURINDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+458. GREY
+ROBERT
+AGENT SUR LE TERRAIN
+ANGLAIS
+459. GRITSIEN
+INNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+460. GU
+XIAOYANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+461. GU
+XIAO MING
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+462. GUAY
+ALEXANDRE I
+AGENT SUR LE TERRAIN
+ANGLAIS
+463. GUEDDA
+SAHBI
+AGENT SUR LE TERRAIN
+FRANÇAIS
+464. GUELLI
+OTMAN
+AGENT SUR LE TERRAIN
+FRANÇAIS
+465. GUERTIN
+STEPHANE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+466. GUEYE
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+467. GUIJARO
+NICOLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+468. GUITAR
+JACQUELINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+469. GUPTA
+VIJAY
+LIVREUR ou REPÉREUR
+ANGLAIS
+470. GUPTA
+DIVESH
+AGENT SUR LE TERRAIN
+ANGLAIS
+471. HADOUEJ
+SAMIR
+AGENT SUR LE TERRAIN
+FRANÇAIS
+472. HAER
+SEAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+473. HAFEEZ
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+474. HALTON
+SHANNON
+AGENT SUR LE TERRAIN
+ANGLAIS
+475. HAM
+SEAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+476. HAMANGODA
+INDIKA
+LIVREUR ou REPÉREUR
+ANGLAIS
+477. HAMBLETO
+ERIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+478. HAMID
+ABDUL
+AGENT SUR LE TERRAIN
+ANGLAIS
+479. HAMID
+EMTIRAZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+480. HAMILTON
+SHILA
+AGENT SUR LE TERRAIN
+ANGLAIS
+481. HAMKAR
+ALI
+GESTIONNAIRE
+ANGLAIS
+482. HAMKAR
+AIDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+483. HAMPTON
+ANDREW
+AGENT SUR LE TERRAIN
+ANGLAIS
+484. HAN
+DING
+AGENT SUR LE TERRAIN
+ANGLAIS
+485. HANCOCK
+TANYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+486. HANDMAN-ENKIN
+FLORENCE
+AGENT SUR LE TERRAIN
+ANGLAIS
+487. HANLEY
+HA
+AGENT SUR LE TERRAIN
+ANGLAIS
+488. HANSEN
+R
+AGENT SUR LE TERRAIN
+ANGLAIS
+489. HANSEN
+CASEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+490. HANSOLD
+ANEESAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+491. HARB
+RASHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+492. HARDING
+MEKKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+493. HARVEEN
+MUNJAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+494. HASANZAD
+FAZILAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+495. HASIJA
+VARUN
+LIVREUR ou REPÉREUR
+ANGLAIS
+496. HASSAN
+TAFHEEM
+AGENT SUR LE TERRAIN
+ANGLAIS
+497. HASSASIAN
+NINA
+LIVREUR
+ANGLAIS
+498. HAU
+DEREK
+AGENT SUR LE TERRAIN
+ANGLAIS
+499. HAVARIS
+HELEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+500. HAWBOLDT
+JAMES
+GESTIONNAIRE
+ANGLAIS
+501. HEATON
+STEPHANIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+502. HEDGES
+SUSAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+503. HELAL
+HUMYRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+504. HELOU
+DANNY
+AGENT SUR LE TERRAIN
+ANGLAIS
+505. HENDERSO
+JESSICA
+AGENT SUR LE TERRAIN
+ANGLAIS
+506. HERNANDE
+DANIEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+507. HILL
+O
+AGENT SUR LE TERRAIN
+ANGLAIS
+508. HIRAD
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+509. HIRAD
+DEEQA
+AGENT SUR LE TERRAIN
+ANGLAIS
+510. HO
+ANDREW
+AGENT SUR LE TERRAIN
+ANGLAIS
+511. HOAG
+MATT
+AGENT SUR LE TERRAIN
+ANGLAIS
+512. HOANG
+VINCENT
+AGENT SUR LE TERRAIN
+ANGLAIS
+513. HODGKINS
+B
+AGENT SUR LE TERRAIN
+ANGLAIS
+514. HOGAN
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+515. HOGG
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+516. HOLDEN
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+517. HOLDEN
+EDWARD
+AGENT SUR LE TERRAIN
+ANGLAIS
+518. HOLLOWAY
+TIMOTHY
+AGENT SUR LE TERRAIN
+ANGLAIS
+519. HOLMES
+JESSICA
+AGENT SUR LE TERRAIN
+ANGLAIS
+520. HOMIAK
+TANYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+521. HOSSAIN
+MOHAMMED I
+AGENT SUR LE TERRAIN
+ANGLAIS
+522. HOSSAIN
+FAISAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+523. HOSSAINY
+SAMIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+524. HOSSEINI
+BIBI
+AGENT SUR LE TERRAIN
+ANGLAIS
+525. HOTSONYA
+SELASE
+AGENT SUR LE TERRAIN
+ANGLAIS
+526. HOUANG
+MING GONG
+AGENT SUR LE TERRAIN
+ANGLAIS
+527. HOWARD
+ROCHELLE
+GESTIONNAIRE
+ANGLAIS
+528. HOWARD
+ANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+529. HU
+SHAN SHAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+530. HUANG
+DONG
+AGENT SUR LE TERRAIN
+ANGLAIS
+531. HUANG
+BIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+532. HUNAG
+RUOLEI
+AGENT SUR LE TERRAIN
+ANGLAIS
+533. HURD
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+534. HURST
+ANTHONY
+AGENT SUR LE TERRAIN
+ANGLAIS
+535. HUSSAID
+MOHAMMAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+536. HUSSAIN
+SYEDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+537. HUTH
+SHIRLEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+538. IBRAHIM
+KARIMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+539. INGRAM
+CIERRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+540. IQBAL
+MUHAMMAD
+LIVREUR ou REPÉREUR
+ANGLAIS
+541. IRONMONG
+SHAYNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+542. ISABELLA
+LAURA
+AGENT SUR LE TERRAIN
+ANGLAIS
+543. ISHAK
+AUSTEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+544. ISKANDER
+FADY
+AGENT SUR LE TERRAIN
+ANGLAIS
+545. ISLAM
+MD SHAHIDUL
+LIVREUR ou REPÉREUR
+ANGLAIS
+546. ISRAEL
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+547. JABAT
+SEAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+548. JABEEN
+FATIMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+549. JACKSON
+JEFFREY
+AGENT SUR LE TERRAIN
+ANGLAIS
+550. JACOB
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+551. JACOBS
+LINDSAY
+AGENT SUR LE TERRAIN
+ANGLAIS
+552. JACOBSON
+SPENCER
+AGENT SUR LE TERRAIN
+ANGLAIS
+553. JACQUES
+GISELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+554. JAFFI
+R
+AGENT SUR LE TERRAIN
+ANGLAIS
+555. JAMAL
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+556. JANG
+MIN WOOK
+LIVREUR ou REPÉREUR
+ANGLAIS
+557. JARNEVIC
+ANTONIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+558. JASWAL
+KAMAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+559. JEREZ
+E
+AGENT SUR LE TERRAIN
+ANGLAIS
+560. JERKOVIC
+JADRANKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+561. JI
+PING
+AGENT SUR LE TERRAIN
+ANGLAIS
+562. JIANG
+KAIWEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+563. JIBRAIL
+OLIVER
+AGENT SUR LE TERRAIN
+ANGLAIS
+564. JIM
+PUI SAN
+LIVREUR ou REPÉREUR
+ANGLAIS
+565. JIMENEZ
+EMMANUEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+566. JOHNSON
+TYLER
+AGENT SUR LE TERRAIN
+ANGLAIS
+567. JOMAA
+AMIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+568. JONES
+CAROL E
+AGENT SUR LE TERRAIN
+ANGLAIS
+569. JONGELIN
+KATIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+570. JOSEPH
+FRITZ
+AGENT SUR LE TERRAIN
+FRANÇAIS
+571. JOSEPH
+WILNOUDE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+572. JOSH
+ARVINDA
+LIVREUR ou REPÉREUR
+ANGLAIS
+573. JOUNI
+LILLIUANE
+AGENT SUR LE TERRAIN
+ANGLAIS
+574. JOVELLANO
+EDELISA
+AGENT SUR LE TERRAIN
+ANGLAIS
+575. JULIVER
+ALAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+576. JUNG
+SANGHIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+577. JUNG
+JACOB
+AGENT SUR LE TERRAIN
+ANGLAIS
+578. JUPIC
+VAHIDIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+579. KABIR
+ATM REZAUL
+LIVREUR ou REPÉREUR
+ANGLAIS
+580. KABOWEI
+KALAERE
+AGENT SUR LE TERRAIN
+ANGLAIS
+581. KAHN
+Q
+AGENT SUR LE TERRAIN
+ANGLAIS
+582. KAINTH
+BALBIR
+LIVREUR ou REPÉREUR
+ANGLAIS
+583. KALBASSI
+HAMID
+AGENT SUR LE TERRAIN
+ANGLAIS
+584. KALEIEST
+LYNDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+585. KALIMBET
+VALERIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+586. KALIMBET
+YEVGENIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+587. KAMARA
+IBRAHIM
+AGENT SUR LE TERRAIN
+ANGLAIS
+588. KAMMAEVA
+VIKTORIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+589. KAMUKUNY
+ALEXANDRE
+AGENT SUR LE TERRAIN
+ANGLAIS
+590. KANG
+HENRY
+AGENT SUR LE TERRAIN
+ANGLAIS
+591. KAO
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+592. KARAJIC
+ESMERALDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+593. KARAKABA
+PARA
+AGENT SUR LE TERRAIN
+ANGLAIS
+594. KARKI
+SHREETI
+AGENT SUR LE TERRAIN
+ANGLAIS
+595. KARIMI
+RAHIM
+LIVREUR ou REPÉREUR (2008)
+GESTIONNAIRE (2009)
+ANGLAIS
+ANGLAIS
+596. KASILINGAM
+KARTHIK
+LIVREUR ou REPÉREUR
+ANGLAIS
+597. KASSIS
+RABIH
+AGENT SUR LE TERRAIN
+ANGLAIS
+598. KATCHIKIAN
+FREDERIC
+LIVREUR ou REPÉREUR
+ANGLAIS
+599. KAUFMAN
+JAY
+AGENT SUR LE TERRAIN
+ANGLAIS
+600. KAUL
+NEENA
+AGENT SUR LE TERRAIN
+ANGLAIS
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+601. KAYA
+JASON
+AGENT SUR LE TERRAIN
+ANGLAIS
+602. KEBEBEW
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+603. KELLEY
+SHANE
+AGENT SUR LE TERRAIN
+ANGLAIS
+604. KENNEDY
+ROBERT
+AGENT SUR LE TERRAIN
+ANGLAIS
+605. KEY
+KRISTEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+606. KHAJWA
+N
+AGENT SUR LE TERRAIN
+ANGLAIS
+607. KHALID
+MAJID
+AGENT SUR LE TERRAIN
+ANGLAIS
+608. KHALIL
+SHAHDI
+AGENT SUR LE TERRAIN
+ANGLAIS
+609. KHAMUSH
+MEHRUNESA
+AGENT SUR LE TERRAIN
+ANGLAIS
+610. KHAN
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+611. KHAN
+ASIF ALI
+AGENT SUR LE TERRAIN
+ANGLAIS
+612. KHAN
+AMINA
+AGENT SUR LE TERRAIN
+ANGLAIS
+613. KHAN
+ANATASIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+614. KHAN
+UWAIS
+AGENT SUR LE TERRAIN
+ANGLAIS
+615. KHAN
+AILA
+LIVREUR ou REPÉREUR
+ANGLAIS
+616. KHAN
+SALMAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+617. KHAN
+ALI SHER
+AGENT SUR LE TERRAIN
+ANGLAIS
+618. KHAN
+UMAIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+619. KHAN
+USSAMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+620. KHAN
+IRSHAAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+621. KHAWAJA
+SAEED
+AGENT SUR LE TERRAIN
+ANGLAIS
+622. KHAZZAKA
+GENEVIEVE
+AGENT SUR LE TERRAIN
+ANGLAIS
+623. KHOSHGOO
+FAESEH
+LIVREUR ou REPÉREUR
+ANGLAIS
+624. KIGOUR
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+625. KIHOSAMINDELE
+JEAN FRANCOIS
+LIVREUR ou REPÉREUR
+FRANÇAIS
+626. KIKUCHI
+ERI
+AGENT SUR LE TERRAIN
+ANGLAIS
+627. KIM
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+628. KIM
+JAE WOO
+AGENT SUR LE TERRAIN
+ANGLAIS
+629. KIM
+WON SEUK
+AGENT SUR LE TERRAIN
+ANGLAIS
+630. KIM
+HAEIN ANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+631. KINZIE-C
+LAURIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+632. KIROUAC
+JOSHUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+633. KLERONOM
+JOHN J
+AGENT SUR LE TERRAIN
+ANGLAIS
+634. KNOWLES
+CINDY
+AGENT SUR LE TERRAIN
+ANGLAIS
+635. KO
+RUHAMAH TIN CHUNG
+AGENT SUR LE TERRAIN
+ANGLAIS
+636. KOLODINS
+ANDREA
+AGENT SUR LE TERRAIN
+ANGLAIS
+637. KOLOVOS
+JOHNNY
+AGENT SUR LE TERRAIN
+ANGLAIS
+638. KOMOE
+AKOUA INES
+AGENT SUR LE TERRAIN
+FRANÇAIS
+639. KOMUS
+MARLENE
+AGENT SUR LE TERRAIN
+ANGLAIS
+640. KOROPETSKA
+YULIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+641. KOSIK
+HENRY
+GESTIONNAIRE
+ANGLAIS
+642. KOULALI
+KERDOUDI
+MOUNIR
+AGENT SUR LE TERRAIN
+FRANÇAIS
+643. KOZAK
+LILIANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+644. KOZUL
+KRISTINA
+AGENT SUR LE TERRAIN
+ANGLAIS
+645. KRAMAR
+N
+AGENT SUR LE TERRAIN
+ANGLAIS
+646. KUANG
+SUSAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+647. KUBAVAT
+AASHI
+AGENT SUR LE TERRAIN
+ANGLAIS
+648. KULAR
+TARANDEEP KAUR
+AGENT SUR LE TERRAIN
+ANGLAIS
+649. KUMAR
+SHATRUGHAN
+LIVREUR ou REPÉREUR (2008)
+GESTIONNAIRE (2009)
+ANGLAIS
+ANGLAIS
+650. KUMAR
+RAJEEV
+GESTIONNAIRE
+ANGLAIS
+651. KUMAR
+NEELESH
+LIVREUR ou REPÉREUR
+ANGLAIS
+652. KUMARI
+ARPANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+653. KUTABI
+NOOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+654. KWAN
+RYAN
+LIVREUR ou REPÉREUR
+ANGLAIS
+655. KWAN
+CALVIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+656. KWOFIE
+SABRINA
+AGENT SUR LE TERRAIN
+ANGLAIS
+657. KWOK
+HOWIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+658. KWONG
+W
+AGENT SUR LE TERRAIN
+ANGLAIS
+659. KWONG
+JACQUELINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+660. KWONG
+SAMEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+661. KWONG
+MATTHEW
+LIVREUR ou REPÉREUR
+ANGLAIS
+662. LABELLE
+FELIX
+AGENT SUR LE TERRAIN
+FRANÇAIS
+663. LABROSSE
+N
+AGENT SUR LE TERRAIN
+ANGLAIS
+664. LABROSSE
+DANIEL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+665. LAGACE
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+666. LAI
+NHU
+AGENT SUR LE TERRAIN
+ANGLAIS
+667. LAI
+PI CHING
+AGENT SUR LE TERRAIN
+ANGLAIS
+668. LAIB
+RAOUFKHALED
+AGENT SUR LE TERRAIN
+ANGLAIS
+669. LAKTIN
+JUSTIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+670. LALONDE
+TYLER
+AGENT SUR LE TERRAIN
+ANGLAIS
+671. LAM
+THANH VINH
+AGENT SUR LE TERRAIN
+ANGLAIS
+672. LAMBERT
+MARC
+AGENT SUR LE TERRAIN
+FRANÇAIS
+673. LAMONTAG
+MAXIME
+AGENT SUR LE TERRAIN
+FRANÇAIS
+674. LANGAN
+BRENDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+675. LANGLEY
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+676. LAPIERRE
+LINDSY J
+AGENT SUR LE TERRAIN
+ANGLAIS
+677. LAPLANTE
+MARIE-JOSEE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+678. LAPOINTE
+SHAWN
+AGENT SUR LE TERRAIN
+ANGLAIS
+679. LAROCHE
+CAROLINE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+680. LASEBNIK
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+681. LAU
+JEFFRY
+AGENT SUR LE TERRAIN
+ANGLAIS
+682. LAU
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+683. LAU
+PUI YI
+AGENT SUR LE TERRAIN
+ANGLAIS
+684. LAUZON
+ISABELLE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+685. LAWRENCE
+ANNETTE
+AGENT SUR LE TERRAIN
+ANGLAIS
+686. LEBEDEV
+PAVEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+687. LEBLANC
+MONA L
+AGENT SUR LE TERRAIN
+ANGLAIS
+688. LECLERK
+JULIE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+689. LEE
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+690. LEE
+HSIN-YANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+691. LEE
+CANACE
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+692. LEE
+BENSON PO TAK
+AGENT SUR LE TERRAIN
+ANGLAIS
+693. LEE
+CARRIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+694. LEGERE
+ANGELIKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+695. LEGGETT
+DENNIS
+AGENT SUR LE TERRAIN
+ANGLAIS
+696. LEIGHTIZ
+NICOLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+697. LEISHOUT
+KARL
+AGENT SUR LE TERRAIN
+ANGLAIS
+698. LEMAY
+SONIA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+699. LEMBAQUS
+CARINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+700. LEMERISE
+JEAN MAXIME
+AGENT SUR LE TERRAIN
+FRANÇAIS
+701. LEON
+PAOLA
+AGENT SUR LE TERRAIN
+ANGLAIS
+702. LESVEQUE
+SARA
+AGENT SUR LE TERRAIN
+ANGLAIS
+703. LEUNG
+JENNY WING YEE
+AGENT SUR LE TERRAIN
+ANGLAIS
+704. LEUNG
+CHUN YIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+705. LEWIS
+CLIFFORD M
+AGENT SUR LE TERRAIN
+ANGLAIS
+706. LHACMUNI
+BRAHIM
+AGENT SUR LE TERRAIN
+FRANÇAIS
+707. LI
+KATHY KIT YI
+AGENT SUR LE TERRAIN
+ANGLAIS
+708. LI
+Q
+LIVREUR ou REPÉREUR
+ANGLAIS
+709. LI
+PEIDIAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+710. LI
+YAN WEN
+LIVREUR ou REPÉREUR
+ANGLAIS
+711. LI
+SIJUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+712. LI
+XIAO QIANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+713. LI
+CHO FUNG
+AGENT SUR LE TERRAIN
+ANGLAIS
+714. LI
+KUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+715. LIEU
+THUYHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+716. LIN
+TAO
+AGENT SUR LE TERRAIN
+ANGLAIS
+717. LIN
+HAI
+AGENT SUR LE TERRAIN
+ANGLAIS
+718. LIOU
+MICHAEL C H
+AGENT SUR LE TERRAIN
+ANGLAIS
+719. LIU
+CONGYI
+AGENT SUR LE TERRAIN
+ANGLAIS
+720. LIU
+JACK
+AGENT SUR LE TERRAIN
+ANGLAIS
+721. LIU
+XIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+722. LIU
+YU Y
+AGENT SUR LE TERRAIN
+ANGLAIS
+723. LIU
+YANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+724. LIU
+ZHEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+725. LIZAROND
+TOMASITO
+AGENT SUR LE TERRAIN
+ANGLAIS
+726. LOCCO
+ANNA MARIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+727. LOHALE
+STANISLAUS
+AGENT SUR LE TERRAIN
+ANGLAIS
+728. LONDOLE
+HENRILO
+AGENT SUR LE TERRAIN
+ANGLAIS
+729. LONG
+FIDELIS COLIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+730. LOPEZ
+JUDY
+AGENT SUR LE TERRAIN
+ANGLAIS
+731. LORENC
+GREGORY
+AGENT SUR LE TERRAIN
+ANGLAIS
+732. LOZADA
+ABDON
+AGENT SUR LE TERRAIN
+ANGLAIS
+733. LU
+G
+AGENT SUR LE TERRAIN
+ANGLAIS
+734. LU
+BO
+AGENT SUR LE TERRAIN
+ANGLAIS
+735. LU
+MING XUAN
+LIVREUR ou REPÉREUR
+ANGLAIS
+736. LUBRICK
+MARK
+AGENT SUR LE TERRAIN
+ANGLAIS
+737. LUGOMA
+RHONNY
+AGENT SUR LE TERRAIN
+ANGLAIS
+738. LUI
+FENG
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+739. LUK
+PETER K
+AGENT SUR LE TERRAIN
+ANGLAIS
+740. LUO
+SHUAI
+AGENT SUR LE TERRAIN
+ANGLAIS
+741. LY
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+742. LY
+CYNTHIA
+LIVREUR ou REPÉREUR
+ANGLAIS
+743. LYLYK
+SEBASTIEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+744. LYN
+ARI
+AGENT SUR LE TERRAIN
+ANGLAIS
+745. LYNCH
+SIOBHAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+746. LYNE
+ADAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+747. LYONNAIS-DION
+BILIE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+748. LYONS
+AHSLEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+749. LYONS
+KATELAND A
+AGENT SUR LE TERRAIN
+ANGLAIS
+750. MA
+YING YING
+AGENT SUR LE TERRAIN
+ANGLAIS
+751. MA
+XJ
+AGENT SUR LE TERRAIN
+ANGLAIS
+752. MA
+HUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+753. MACAULAY
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+754. MACDONAL
+C
+AGENT SUR LE TERRAIN
+ANGLAIS
+755. MACKENZI
+MICHAEL G
+AGENT SUR LE TERRAIN
+ANGLAIS
+756. MACLEAN
+JAMIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+757. MACWHIRT
+TYLER
+AGENT SUR LE TERRAIN
+ANGLAIS
+758. MAGYAR-C
+JESSIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+759. MAHAMUD
+YASMIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+760. MAHETA
+VARUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+761. MAHI
+MANDEEP
+LIVREUR ou REPÉREUR
+ANGLAIS
+762. MAHMUD
+H
+AGENT SUR LE TERRAIN
+ANGLAIS
+763. MAI
+DENNIS
+LIVREUR ou REPÉREUR
+ANGLAIS
+764. MAIE
+FATHI MOHAMED
+AGENT SUR LE TERRAIN
+ANGLAIS
+765. MAIER
+ANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+766. MAJIDI
+FARSHAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+767. MAJOR
+FRANCIS A
+AGENT SUR LE TERRAIN
+ANGLAIS
+768. MAKSYUGT
+NARISA
+AGENT SUR LE TERRAIN
+ANGLAIS
+769. MALIK
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+770. MALIK
+ASHOK
+AGENT SUR LE TERRAIN
+ANGLAIS
+771. MALIK
+HUMIRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+772. MALIK
+SANAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+773. MALLOT
+P
+AGENT SUR LE TERRAIN
+ANGLAIS
+774. MALO
+MAXIME
+LIVREUR ou REPÉREUR
+ANGLAIS
+775. MALYK
+GEOFFREY A
+AGENT SUR LE TERRAIN
+ANGLAIS
+776. MANAHAN
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+777. MAND
+JASTEEN
+LIVREUR ou REPÉREUR
+ANGLAIS
+778. MANDI
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+779. MANGAT
+GURGEVIN S
+AGENT SUR LE TERRAIN
+ANGLAIS
+730. MANN
+GURMINDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+781. MANOKHIN
+ANASTASSIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+782. MANSOOR
+TAYYABA
+AGENT SUR LE TERRAIN
+ANGLAIS
+783. MANSOOR
+AIMON
+AGENT SUR LE TERRAIN
+ANGLAIS
+784. MANSURY
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+785. MAO
+CHUN XIANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+786. MAQSOOD
+MOHAMMAD ASAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+787. MARCINO
+JAMALLCIRO
+AGENT SUR LE TERRAIN
+ANGLAIS
+788. MARCUS
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+789. MARSHALL
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+790, MARTAKOU
+RANI
+AGENT SUR LE TERRAIN
+ANGLAIS
+791. MARTINS FONTES
+JULIO CARLOS
+AGENT SUR LE TERRAIN
+FRANÇAIS
+792. MASHDI
+I
+AGENT SUR LE TERRAIN
+ANGLAIS
+793. MASOOD
+SHOUKAT
+AGENT SUR LE TERRAIN
+ANGLAIS
+794. MASOURI
+LAILA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+795. MASSARAN
+HOZAYFA
+AGENT SUR LE TERRAIN
+ANGLAIS
+796. MASSIE
+JACQUELINE
+GESTIONNAIRE
+ANGLAIS
+797. MATHEW
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+798. MATHEW
+SIDONIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+799. MATHEW
+SHAJI
+AGENT SUR LE TERRAIN
+ANGLAIS
+800. MATTHEWMAN
+KEVIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+801. MATTU
+SARABJIT
+GESTIONNAIRE
+ANGLAIS
+802. MATYS
+BRYAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+803. MAVER
+R
+AGENT SUR LE TERRAIN
+ANGLAIS
+804. MAYBARD
+VALERIE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+805. MCCANN
+ALLAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+806. MCCLURE
+R
+AGENT SUR LE TERRAIN
+ANGLAIS
+807. MCCREADY
+SAMANTHA ALISON
+AGENT SUR LE TERRAIN
+ANGLAIS
+808. MCCULLOU
+ROBYN
+AGENT SUR LE TERRAIN
+ANGLAIS
+809. MCCULLUM
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+810. MCDOWELL
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+811. MCEWEN
+KATHERINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+812. MCGILL.
+BRIANNE
+AGENT SUR LE TERRAIN
+ANGLAIS
+813. MCGILLIV
+NEIL
+AGENT SUR LE TERRAIN
+ANGLAIS
+814. MCKENNA
+LAWRENCE A
+AGENT SUR LE TERRAIN
+ANGLAIS
+815. MCLAUGHL
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+816. MCLEAN
+KENDELL
+AGENT SUR LE TERRAIN
+ANGLAIS
+817. MCNEIL
+LISA
+AGENT SUR LE TERRAIN
+ANGLAIS
+818. MCSWEENY
+O
+AGENT SUR LE TERRAIN
+ANGLAIS
+819. MEDRANO
+ROMERO
+NATASHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+820. MEHRABKH
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+821. MEHRABKH
+PARHAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+822. MEHTA
+PERPHULET
+AGENT SUR LE TERRAIN
+ANGLAIS
+823. MEPHAM
+MELISSA
+AGENT SUR LE TERRAIN
+ANGLAIS
+824. MERCIER
+STEPHEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+825. MESKIRY
+NASSOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+826. MICHAUD
+CEDRICK
+AGENT SUR LE TERRAIN
+ANGLAIS
+827. MIGUEL
+GORDON
+AGENT SUR LE TERRAIN
+ANGLAIS
+828. MILLER
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+829. MILTON
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+830. MINHAS
+AMANDEEP
+AGENT SUR LE TERRAIN
+ANGLAIS
+831 MINHAS
+INDERPREET
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+832. MIR
+ZAHID
+AGENT SUR LE TERRAIN
+ANGLAIS
+833. MIRZA
+MARYAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+834. MISTRY
+JAYESH
+LIVREUR ou REPÉREUR
+ANGLAIS
+835. MITCHELL
+JASON
+AGENT SUR LE TERRAIN
+ANGLAIS
+836. MITCHELL
+STEVEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+837. MIU
+WING WAH
+LIVREUR ou REPÉREUR
+ANGLAIS
+838. MIVILLE
+NAOMI
+AGENT SUR LE TERRAIN
+ANGLAIS
+839. MOFFETT
+JERMAIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+840. MOFTIZAD
+KANI
+AGENT SUR LE TERRAIN
+ANGLAIS
+841. MOHAMAD
+SILEMAN
+AGENT SUR LE TERRAIN
+FRANÇAIS
+842. MOHAMED
+IFRAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+843. MOHAMMAD
+DAOUD
+LIVREUR ou REPÉREUR
+ANGLAIS
+844. MOHAMMAD
+AJMAL
+LIVREUR ou REPÉREUR
+ANGLAIS
+845. MOHAMMED
+ABDUL SAYEED
+AGENT SUR LE TERRAIN
+ANGLAIS
+846. MOHAMMED
+ADAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+847. MOHAMMED
+RAHMAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+848. MOKHTARI
+MEHRDAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+849. MOKRI
+SHAHIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+850. MOLLAH
+MIZANUR
+AGENT SUR LE TERRAIN
+ANGLAIS
+851. MOMOTIUK
+NESTER
+LIVREUR ou REPÉREUR
+ANGLAIS
+852. MONAGHAN
+ROWLAND
+AGENT SUR LE TERRAIN
+ANGLAIS
+853. MONTGOME
+JAMES
+AGENT SUR LE TERRAIN
+ANGLAIS
+854. MONTGOMERY
+BRADLEY
+LIVREUR ou REPÉREUR
+ANGLAIS
+855. MONTONE
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+856. MOONEY
+CHRISTINA
+AGENT SUR LE TERRAIN
+ANGLAIS
+857. MOORE
+MICHAEL
+LIVREUR ou REPÉREUR
+ANGLAIS
+858. MOOTE
+HOLLY
+GESTIONNAIRE
+ANGLAIS
+859. MORALES
+JACQUELINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+860. MORGAN
+DARLENE
+AGENT SUR LE TERRAIN
+ANGLAIS
+861. MOROSKY
+JAMIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+862. MORRISON
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+863. MORRISON
+MONICA C
+AGENT SUR LE TERRAIN
+ANGLAIS
+864. MORTON
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+865. MOSABEBI
+GHAZALEH
+AGENT SUR LE TERRAIN
+ANGLAIS
+866. MOTEVAKE
+NILOUFAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+867. MOTWANI
+AMITABH
+AGENT SUR LE TERRAIN
+ANGLAIS
+868. MOURA
+JEROME
+AGENT SUR LE TERRAIN
+FRANÇAIS
+869. MOUSSA
+HUSSEIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+870. MUBARIK
+NOREEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+871. MUDALIAR
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+872. MUDGE
+STEPHANIE
+GESTIONNAIRE
+ANGLAIS
+873. MUHAMMAD
+OMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+874. MUKER
+RAVINDER KAUR
+AGENT SUR LE TERRAIN
+ANGLAIS
+875. MUNJAL
+SHANELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+876. MUNOZ-LAFOND
+MAUDE-VANESSA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+877. MUNYORO
+VARAIDZO
+AGENT SUR LE TERRAIN
+ANGLAIS
+878. MURRIA
+SURINDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+879. MUSAWI
+H
+AGENT SUR LE TERRAIN
+ANGLAIS
+880. MWAWATAD
+BONIFACE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+881. MYSHALOU
+ILYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+882. NABI
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+883. NABIHI
+JALAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+884. NADDEEM
+HUZAIFA
+AGENT SUR LE TERRAIN
+ANGLAIS
+885. NAEEM
+ARFAQ
+AGENT SUR LE TERRAIN
+ANGLAIS
+886. NAGY
+NATASHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+887. NAIKER
+DARNELL AVINASH
+AGENT SUR LE TERRAIN
+ANGLAIS
+888. NAJAM
+PARVEEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+889. NAJMEDDI
+YOUSSEF
+AGENT SUR LE TERRAIN
+ANGLAIS
+890. NANTEL
+CHRISTIAN M
+AGENT SUR LE TERRAIN
+ANGLAIS
+891. NAPIER
+CASSANDRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+892. NASIR
+O
+AGENT SUR LE TERRAIN
+ANGLAIS
+893. NASIR
+AYESHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+894. NASIR
+KHAWAJA
+AGENT SUR LE TERRAIN
+ANGLAIS
+895. NASIR
+ASMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+896. NASSER
+HASSAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+897. NATHAN
+THERESE S
+EMPLOYÉ DE BUREAU
+FRANÇAIS
+898. NAWAZ
+FARAZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+899. NAZMI
+SHAFIQUE
+AGENT SUR LE TERRAIN
+ANGLAIS
+900. N'DOLY
+TANOHE LUDOVIC
+AGENT SUR LE TERRAIN
+FRANÇAIS
+901. NEANG
+LEEBOY
+AGENT SUR LE TERRAIN
+ANGLAIS
+902. NEHDERSO
+C
+AGENT SUR LE TERRAIN
+ANGLAIS
+903. NEPOOSE
+MEGGAN
+GESTIONNAIRE
+ANGLAIS
+904. NETTER
+ASHLEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+905. NEVE
+MAGALI
+AGENT SUR LE TERRAIN
+FRANÇAIS
+906. NG
+PING KWAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+907. NGUYEN
+KHOA
+AGENT SUR LE TERRAIN
+ANGLAIS
+908. NGUYEN
+JENNIFER
+AGENT SUR LE TERRAIN
+ANGLAIS
+909. NGUYEN
+NGOC
+AGENT SUR LE TERRAIN
+ANGLAIS
+910. NICHOL
+ROSEANNE
+AGENT SUR LE TERRAIN
+ANGLAIS
+911. NICHOLLS
+CHRISTIAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+912. NICOLAS
+JESSICA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+913. NICOLAS
+EDWARD
+AGENT SUR LE TERRAIN
+ANGLAIS
+914. NJANJOUO
+HERVE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+915. NJMEDDIN
+BELAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+916. NOBLE
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+917. NOCOS
+RALPH ANGELO J
+AGENT SUR LE TERRAIN
+ANGLAIS
+918. NOORI
+N
+AGENT SUR LE TERRAIN
+ANGLAIS
+919. NOORI
+GEETY
+AGENT SUR LE TERRAIN
+ANGLAIS
+920. NOURIAN FAR
+TAYMOUR
+AGENT SUR LE TERRAIN
+ANGLAIS
+921. NOVAK PO
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+922. NUNEZ
+MARITZA
+AGENT SUR LE TERRAIN
+ANGLAIS
+923. NUR
+ABDISALAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+924. NURSE
+MARLON
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+925. O'CONNEL
+LAURA
+AGENT SUR LE TERRAIN
+ANGLAIS
+926. OCTAVIO
+MARY
+AGENT SUR LE TERRAIN
+ANGLAIS
+927. ODUTAYO
+OLADAPO
+AGENT SUR LE TERRAIN
+ANGLAIS
+928. OFORI
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+929. OGUBANWO
+TEMIDAYO
+AGENT SUR LE TERRAIN
+ANGLAIS
+930. OJAROODI
+SHIVA
+AGENT SUR LE TERRAIN
+ANGLAIS
+931. OKOBAROH
+UFUOMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+932. OKOKO
+IFEYINWA
+AGENT SUR LE TERRAIN
+ANGLAIS
+933. OKWELUME
+G
+AGENT SUR LE TERRAIN
+ANGLAIS
+934. OLSON
+TRISHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+935. OLSON
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+936. OMAR
+MOHAMED
+AGENT SUR LE TERRAIN
+ANGLAIS
+937. ONEMU
+JORDAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+938. ONILLA
+MARIA
+GESTIONNAIRE
+ANGLAIS
+939. ONILLA
+JACQYELYNN
+AGENT SUR LE TERRAIN
+ANGLAIS
+940. OPANUBI
+OLUWATOSIN M
+AGENT SUR LE TERRAIN
+ANGLAIS
+941. ORTISI
+EDDIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+942. ORUGANI
+DEBORAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+943. ORUM
+JEFFREY
+AGENT SUR LE TERRAIN
+ANGLAIS
+944. OSMAN
+IDIL
+LIVREUR ou REPÉREUR
+ANGLAIS
+945. OTERO
+PABLO
+AGENT SUR LE TERRAIN
+ANGLAIS
+946. OTTEY
+RITA
+AGENT SUR LE TERRAIN
+ANGLAIS
+947. OUANG
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+948. OUELLET
+ERIC
+AGENT SUR LE TERRAIN
+FRANÇAIS
+949. OUELLET
+MARIE-NOELLE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+950. OUELLET
+FRANCOIS
+.AGENT SUR LE TERRAIN
+FRANÇAIS
+951. OUELLETE
+JAMES
+AGENT SUR LE TERRAIN
+ANGLAIS
+952. OUSSAMA
+SADIK
+GESTIONNAIRE
+FRANÇAIS
+953. OUYANG
+GUANGHUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+954. OVECHKIN
+ANTON
+AGENT SUR LE TERRAIN
+ANGLAIS
+955. OWENS
+BRENDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+956. PABUAYA
+JOEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+957. PADDA
+PRABHJOT
+AGENT SUR LE TERRAIN
+ANGLAIS
+958. PADHYE
+VAISHALI
+AGENT SUR LE TERRAIN
+ANGLAIS
+959. PADOJENOG
+ELMER O
+AGENT SUR LE TERRAIN
+ANGLAIS
+960. PAGLIUCC
+CHRISTOPHER
+AGENT SUR LE TERRAIN
+ANGLAIS
+961. PAHLEVANSHARIF
+SARA
+LIVREUR ou REPÉREUR
+ANGLAIS
+962. PAK
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+963. PALAGANA
+AGNES GRACE
+AGENT SUR LE TERRAIN
+ANGLAIS
+964. PALLARO
+ALAIN
+GESTIONNAIRE
+FRANÇAIS
+965. PANCHAL
+NARENDRAKUMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+966. PANDEY
+MINAL KUMARI ARUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+967. PANDEY
+ARUNK K
+AGENT SUR LE TERRAIN
+ANGLAIS
+968. PANG
+YING
+AGENT SUR LE TERRAIN
+ANGLAIS
+969. PANGRACS
+PATRICIA W
+AGENT SUR LE TERRAIN
+ANGLAIS
+970. PAQUETTE
+PHILLIP
+AGENT SUR LE TERRAIN
+ANGLAIS
+971. PAREJA
+JESUS
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+972. PARKER
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+973. PARSONS
+JENNIFER A
+AGENT SUR LE TERRAIN
+ANGLAIS
+974. PARTOVI
+NEGIN
+LIVREUR ou REPÉREUR
+ANGLAIS
+975. PATEL
+SUJAL B
+AGENT SUR LE TERRAIN
+ANGLAIS
+976. PATEL
+HITESH
+AGENT SUR LE TERRAIN
+ANGLAIS
+977. PATEL
+RAJASHREEBEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+978. PATTERSO
+SCOTT
+AGENT SUR LE TERRAIN
+ANGLAIS
+979. PAULS
+MARY
+AGENT SUR LE TERRAIN
+ANGLAIS
+980. PAZ-GREE
+KARLA
+AGENT SUR LE TERRAIN
+ANGLAIS
+981. PEAR
+KRYSTAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+982. PEASE
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+983. PELAH
+BORIS
+LIVREUR ou REPÉREUR
+ANGLAIS
+984. PELICOS
+JAMES
+AGENT SUR LE TERRAIN
+ANGLAIS
+985. PELLERIN
+C
+AGENT SUR LE TERRAIN
+ANGLAIS
+986. PELLEY
+ROCHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+987. PELLY
+CAITLIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+988. PERREAUL
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+989. PERVEZ
+MAHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+990. PERVIN
+MONIRA
+LIVREUR ou REPÉREUR
+ANGLAIS
+991. PETITHOM
+RONY
+AGENT SUR LE TERRAIN
+FRANÇAIS
+992. PETKOVIC
+JELENA
+AGENT SUR LE TERRAIN
+ANGLAIS
+993. PETRACCA
+ANTHONY
+AGENT SUR LE TERRAIN
+ANGLAIS
+994. PHILLIPS
+ERIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+995. PHILLIPS
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+996. PICHE
+LOUIS PHILIPPE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+997. PIERRE
+MARIE SAUVEAUR
+AGENT SUR LE TERRAIN
+ANGLAIS
+998. PINES
+ELAYNE
+AGENT SUR LE TERRAIN
+ANGLAIS
+999. PINK
+WESTLY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1000. PINTO
+XAVIER
+GESTIONNAIRE
+ANGLAIS
+1001. PITCHUCK
+AMANDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1002. PITTS
+ANTHONY
+AGENT SUR LE TERRAIN &
+GESTIONNAIRE
+ANGLAIS
+1003. PLANT
+CHISTOPHER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1004 PLANTE
+KARINE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1005. POADA ALONSO
+DANIEL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1006. POCE
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+1007. POGSON
+KAREN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1008. POITRAS
+ANNICK
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1009. POKOSSY
+PETER JOHNSON
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1010. POKU
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1011. PONTRELL
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1012. POPIVICI
+CRISTINA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1013. POPOVICI
+TALIDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1014. PORTER
+DAVID
+AGENT SUR LE TERRAIN
+ANGLAIS
+1015. POULIN
+NICOLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1016. POWELL
+JUSTIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1017. POWER
+BEVERLEY ANN
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1018. POWER
+SHANNON
+AGENT SUR LE TERRAIN
+ANGLAIS
+1019. PRADHAN
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+1020. PRICE
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+1021. PRUDHOMME
+LANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1022. PUPULIN
+JERRY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1023. PURSH
+T R
+AGENT SUR LE TERRAIN
+ANGLAIS
+1024. QIN
+BOYUAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1025. QUEANO
+ZENAIDA
+LIVREUR ou REPÉREUR
+ANGLAIS
+1026. QUICK
+CRISTIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1027. QURESHI
+AMIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1028. QURESHI
+WAQAS
+AGENT SUR LE TERRAIN
+ANGLAIS
+1029. RABBAI
+GAUDENZIO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1030. RACHIDI
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1031. RADUNOVI
+ANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1032. RAFIAEI
+MOHAMMAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+1033. RAFIQUE
+MUDASSAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1034. RAHIM
+YASER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1035. RAHMAN
+MOHAMMAD
+LIVREUR ou REPÉREUR
+ANGLAIS
+1036. RAI
+GURJYOT
+AGENT SUR LE TERRAIN
+ANGLAIS
+1037. RAIS
+RAMEEZ
+LIVREUR ou REPÉREUR
+ANGLAIS
+1038. RAJPUT
+NAVEED
+AGENT SUR LE TERRAIN
+ANGLAIS
+1039. RALNAYAK
+SAKUNTHALA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1040. RAMPERSA
+AMBA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1041 RAMYAR
+NILOUFAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1042. RANAS
+REYNALDO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1043. RANAS
+ELSA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1044, RANASING
+NISHANTHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1045. RANAWAL
+SABIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1046. RANDLES-
+KRYSTAL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1047. RANGER
+FIONA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1048. RASULBAK
+RYMAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1049. RAVINDRA
+THUSHANTHY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1050. RAZA
+MIR AMER
+LIVREUR ou REPÉREUR
+ANGLAIS
+1051. REID
+N
+AGENT SUR LE TERRAIN
+ANGLAIS
+1052. REID
+DELMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1053. REINHEIM
+STEPHANIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1054. REN
+JINGWEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1055. RENAUD
+PATRICK
+GESTIONNAIRE
+FRANÇAIS
+1056. REYES
+NORLIZA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1057. RICHARD
+AZINWI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1058. RIGAL
+P
+AGENT SUR LE TERRAIN
+ANGLAIS
+1059. RINGUETT
+JULIEN
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1060. RISMAY
+THERESA M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1061. RISTOV
+ELISA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1062. RIVERA
+ROBERTO
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1063. ROBB
+JUSTIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1064. ROBERTMARIEN
+ANDREANNE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1065. ROC
+VALERIE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1066. RODRIGUE
+ANTHONY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1067. RODRIQUE
+DOMINIC A
+AGENT SUR LE TERRAIN
+ANGLAIS
+1068. ROGAN
+SAMANTHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1069. RONEBECK
+AMIE M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1070. ROOTES
+SHELLY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1071. ROSARIO
+WARREN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1072. ROSS
+O
+AGENT SUR LE TERRAIN
+ANGLAIS
+1073. ROUBELAK
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1074. ROUSSEL
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1075. ROY
+JONATHAN
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1076. ROY
+USHOSEE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1077. ROY
+YUVARAJ
+AGENT SUR LE TERRAIN
+ANGLAIS
+1078. RUIZ VANEGAS
+CARLOS
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1079. RUNCIE
+SHIANE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1080. RUSKIE
+CEDRIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+1081. RUSTHOVE
+JOEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1082, SAADE
+GUY
+LIVREUR ou REPÉREUR
+FRANÇAIS
+1083. SAEED
+FARAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1084. SAHA
+ARJUN
+LIVREUR ou REPÉREUR
+ANGLAIS
+1055. SAIYID
+DANYA HASAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1086. SALAD
+IKRAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1087. SALDANA
+FELIPE I
+AGENT SUR LE TERRAIN
+ANGLAIS
+1088. SALIBA
+SERGE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1089. SALIM
+RIHAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1090. SAMAR
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+1091. SAMNANI
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+1092. SAMS
+DILLON
+AGENT SUR LE TERRAIN
+ANGLAIS
+1093. SAMUEL
+ASTER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1094. SAMUELS
+J
+AGENT SUR LE TERRAIN
+ANGLAIS
+1095. SANCHEZ
+LILIANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1096. SANDER
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+1097. SANDERSON
+ROBERT
+REPÉREUR
+ANGLAIS
+1098. SANDIYA
+ABHISHEK
+AGENT SUR LE TERRAIN
+ANGLAIS
+1099. SANDOR
+LUCY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1100. SARAFOV
+TSVETOMIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1101. SARICH
+AARON
+AGENT SUR LE TERRAIN
+ANGLAIS
+1102. SARSELD
+ERIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+1103. SASTRILL
+JOSE MARIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1104. SAVOIE
+MATHIEU
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1105. SAVOIE-V
+M
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1106. SAWAN
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+1107. SAWHNEY
+HARJIT
+AGENT SUR LE TERRAIN
+ANGLAIS
+1108. SAYEED
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+1109. SCHWAB
+RANDALL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1110. SEEHRA
+K
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+<
+Prénom
+Rôle
+Langue
+1111. SEHDAL
+UMAIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1112. SEIDLE
+RICHARD
+AGENT SUR LE TERRAIN
+ANGLAIS
+1113. SELK
+TROY E
+LIVREUR ou REPÉREUR
+ANGLAIS
+1114. SEMYRKO
+MICHELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1115. SEPIA
+JOHN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1116. SHAFI
+IJAZ
+GESTIONNAIRE
+ANGLAIS
+1117. SHAH
+QUTB
+AGENT SUR LE TERRAIN
+ANGLAIS
+1118. SHAMARA
+JEWEL
+LIVREUR ou REPÉREUR
+ANGLAIS
+1119. SHAN
+QUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1120. SHANEEN
+WAEEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1121, SHARIFF
+SAHIRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1122. SHARMA
+GAURAV
+AGENT SUR LE TERRAIN
+ANGLAIS
+1123. SHARMA
+V
+AGENT SUR LE TERRAIN
+ANGLAIS
+1124. SHATMA
+HELAINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1125. SHEIHK
+NADA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1126. SHEIKH
+SAMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1127. SHEIKH
+KASHIF
+AGENT SUR LE TERRAIN
+ANGLAIS
+1128. SHELTERS
+CORTNEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1129. SHEN
+XIAN BING
+AGENT SUR LE TERRAIN
+ANGLAIS
+1130. SHEPARD
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+1131. SHINA
+KASHMIRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1132. SHINNAN
+STEPHEN
+GESTIONNAIRE
+ANGLAIS
+1133. SHIRKHAN
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+1134. SHYAM
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+1135. SIDDIQUI
+WAQAS S
+AGENT SUR LE TERRAIN
+ANGLAIS
+1136. SIDEJECK
+E
+AGENT SUR LE TERRAIN
+ANGLAIS
+1137. SIDERIS-KITELEY
+CYNTHIA
+LIVREUR ou REPÉREUR & GESTIONNAIRE
+ANGLAIS
+1138. SIDHU
+SATNAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1139. SIDHU
+KAMALJEET
+AGENT SUR LE TERRAIN
+ANGLAIS
+1140. SIMARD
+KATY
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1141. SINGH
+HARJEET
+AGENT SUR LE TERRAIN
+ANGLAIS
+1142. SINGH
+MEEKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1143. SINGH
+SUKWINDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1144. SINGH
+SANJAY
+LIVREUR ou REPÉREUR
+ANGLAIS
+1145. SINGH
+SAVENDRA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1146. SINGH
+SAURABH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1147. SINGH
+RUPINDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1148. SINGH SA
+MANDEEP
+AGENT SUR LE TERRAIN
+ANGLAIS
+1149. SITHOLE
+PANGANAI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1150. SIU-KONG
+DERRYL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1151. SIVAKADA
+KRISHIKESHSARMA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1152. SLUTYMAN
+MEGAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1153. SMARDON
+DONALD J
+AGENT SUR LE TERRAIN
+ANGLAIS
+1154. SMITH
+TREVOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1155. SMITH
+CLARRISA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1156. SMITH
+AKIL
+LIVREUR ou REPÉREUR
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1157. SMITH
+KYLE STEVEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1158. SOBHI
+MOHAMMAD REZA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1159. SOKHI
+GAURAVDEEP
+AGENT SUR LE TERRAIN
+ANGLAIS
+1160. SOMAL
+PREETY K
+AGENT SUR LE TERRAIN
+ANGLAIS
+1161. SOMMERVILLE
+ADAMO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1162. SONG
+JIAQI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1163. SONI
+HIMANSHU
+AGENT SUR LE TERRAIN
+ANGLAIS
+1164. SPARES
+HOLLY M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1165. SPENCE
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+1166. SPENSER
+L
+AGENT SUR LE TERRAIN
+ANGLAIS
+1167. SPIRIC
+DANKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1168. SQUIRES
+SHARI LEANNE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1169. SRIVASTA
+RAMESH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1170. ST JOHN
+DIANE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1171. STACHUSK
+DANIEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1172. STAMATIU
+MIRIAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1173. STANOJEVIC
+SASA
+GESTIONNAIRE
+ANGLAIS
+1174. STECH
+TRAVIS
+AGENT SUR LE TERRAIN
+ANGLAIS
+1175. STECHINE
+SUCCESSION DE : MIKHAIL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1176. STERLING
+BRIAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1177. STEVENS
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1178. STONE
+D
+AGENT SUR LE TERRAIN
+ANGLAIS
+1179. SUARES
+SHAUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1180. SUBRAMAN
+SATHISH KUMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1151. SUMERA
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+1182. SUMI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1183. SUN
+H
+AGENT SUR LE TERRAIN
+ANGLAIS
+1184. SUN
+YI TENG
+AGENT SUR LE TERRAIN
+ANGLAIS
+1185. SUN
+LIAMZHI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1186. SUNGA
+HENRY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1187. SUO
+DAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1188. SURY
+ARUNK
+AGENT SUR LE TERRAIN
+ANGLAIS
+1189. SURYANAR
+A
+AGENT SUR LE TERRAIN
+ANGLAIS
+1190. SUTOR
+ANNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1191. SWIFT
+EVA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1192. SYED
+ASIF R
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1193. SYLLA
+SIAKA
+GESTIONNAIRE
+ANGLAIS
+1194. SZOLADI
+REBECCA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1195. TABATABA
+N
+AGENT SUR LE TERRAIN
+ANGLAIS
+1196. TABATABA
+SHOKOUFEH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1197. TABESH
+SURAYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1198. TADE
+JESSICA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1199. TAIKH
+ALEXANDER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1200. TAJ
+SADIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1201. TAKHAR
+GUREET
+AGENT SUR LE TERRAIN
+ANGLAIS
+1202. TAMBA
+LUSALA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1203. TAMIZI
+S
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1204. TAN
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+1205. TANDOG
+CARL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1206. TANVEER
+SYED AHSAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1207. TAO
+RAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1208. TAQAVI
+SAYYEDAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1209. TAQAVI
+SAYYED ABULHASSAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1210. TAQAVI
+JAWAD
+LIVREUR ou REPÉREUR
+ANGLAIS
+1211. TAREEN
+SAIF
+AGENT SUR LE TERRAIN
+ANGLAIS
+1212. TARED
+MAHBUB
+AGENT SUR LE TERRAIN
+ANGLAIS
+1213. TARIG
+T
+AGENT SUR LE TERRAIN
+ANGLAIS
+1214. TARSEM
+SINGH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1215. TATLA
+G
+AGENT SUR LE TERRAIN
+ANGLAIS
+1216. TATOMOR
+JOSHUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1217. TAVAKOLI NIAKI
+ESMAEIL
+GESTIONNAIRE
+ANGLAIS
+1218. TCHAPMEGNI
+ROBINSON
+LIVREUR ou REPÉREUR
+ANGLAIS
+1219. TCHEN
+PHI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1220. TEED
+JAMES C
+AGENT SUR LE TERRAIN
+ANGLAIS
+1221. TEHAILI
+EMANN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1222. TEHALI
+HANAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1223. TEJADA
+LAURA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1224. TEMETLAS
+NORA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1225. TEO
+ZULKIFLI
+LIVREUR ou REPÉREUR
+ANGLAIS
+1226. TEWARI
+SHIB
+AGENT SUR LE TERRAIN
+ANGLAIS
+1227. TEWARI
+VINEET KUMAR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1228, THAKAR
+TUSHARKUMAR
+GESTIONNAIRE
+ANGLAIS
+1229. THAKER
+DIMPLEBEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1230. THERRIEN-
+GUILLEMETTE
+JUSTIN
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1231. THIBAULT
+KARINE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1232. THIBERT
+KAILYN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1233. THIBODEAU
+JOANE
+AGENT SUR LE TERRAIN &
+GESTIONNAIRE
+FRANÇAIS
+1234. THISTLE
+CHRISTOPHER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1235. THOI
+KIEN QUOC
+LIVREUR ou REPÉREUR
+ANGLAIS
+1236. THOMAS
+JACQUELINE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1237. THOMPSON
+JESSICA R
+GESTIONNAIRE
+ANGLAIS
+1238. THORNTON
+LAURA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1239. THRAYA
+F
+AGENT SUR LE TERRAIN
+ANGLAIS
+1240. TIBOR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1241. TIGCHELA
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+1242. TIRMIZI
+ANAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1243. TIRMIZI
+RAMEEZ
+AGENT SUR LE TERRAIN
+ANGLAIS
+1244. TIRMIZI
+SABA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1245. TIRMIZI
+SARWAT
+AGENT SUR LE TERRAIN
+ANGLAIS
+1246. TISSINE
+VLADISLAV
+AGENT SUR LE TERRAIN
+ANGLAIS
+1247. TOBIN
+JOSHUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1248. TODD
+BILLY JOE
+GESTIONNAIRE
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1249.
+TODD
+JOSHUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1250.
+TODERAS
+VICTORIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1251.
+TOLMIE
+JACOB
+AGENT SUR LE TERRAIN
+ANGLAIS
+1252.
+TONG
+KIN MONG
+AGENT SUR LE TERRAIN
+ANGLAIS
+1253.
+TOPIWALA
+SHWETA
+LIVREUR ou REPÉREUR
+ANGLAIS
+1254.
+TORR
+MAUREEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1255.
+TORRES
+ANTHONY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1256.
+TOWN
+DAVIES
+AGENT SUR LE TERRAIN
+ANGLAIS
+1257.
+TRAN
+TY DU
+AGENT SUR LE TERRAIN
+ANGLAIS
+1258.
+TRECASSE
+AUDREY
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1259.
+TREMBLAY
+AMELIE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1260.
+TROVATO
+VINCENT
+AGENT SUR LE TERRAIN
+ANGLAIS
+1261.
+TRUDEL
+MARC ANDRE
+GESTIONNAIRE
+FRANÇAIS
+1262.
+TRUEMAN
+MATT
+AGENT SUR LE TERRAIN
+ANGLAIS
+1263.
+TSANG
+YI LING
+AGENT SUR LE TERRAIN
+ANGLAIS
+1264.
+TSHIBOMBI
+WILLY
+LIVREUR ou REPÉREUR
+ANGLAIS
+1265.
+TSOI
+CORDIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1266.
+.TSOU
+MARK
+LIVREUR ou REPÉREUR ,
+'ANGLAIS
+1267.
+TURCOTTE
+BARBARA
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1268.
+TYSON
+MATTHEW
+AGENT SUR LE TERRAIN
+ANGLAIS
+1269.
+UDDIN
+FORHAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+1270.
+UPSHAW
+BENJAMIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1271.
+UY
+DAVID
+AGENT SUR LE TERRAIN
+ANGLAIS
+1272.
+VACHON
+ERIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+1273.
+VAC UDEVA
+RISHU
+AGENT SUR LE TERRAIN
+ANGLAIS
+1274.
+VAGHELA
+NAVIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1275.
+VAGHESE
+JOSE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1276.
+VALINCIO
+BOZANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1277.
+VALLADAR
+ANDREA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1278.
+VAN WING
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1279.
+VANDERWE
+CHERYL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1280.
+VANTHUYNE
+ALINE
+GESTIONNAIRE
+FRANÇAIS
+1281.
+VASILOFF
+CHAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+1282.
+VED
+SERGIY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1283.
+VELIJI
+SAJEED
+AGENT SUR LE TERRAIN
+ANGLAIS
+1284.
+VELTRIN
+FABIO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1285.
+VENNE
+MAR1E-CLAUDE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1286.
+VERJEE
+ZIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1287.
+VERMA
+ANKIT
+AGENT SUR LE TERRAIN
+ANGLAIS
+PROMOTION
+FRANÇAIS
+1288.
+VEZINA
+ISABELLE
+AGENT
+1289.
+VIAU
+JEAN-PIERRE
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1290.
+VIERLING
+SUSAN M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1291.
+VIJARATH
+CHANDRIKA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1292.
+VILINSKY
+ANGELA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1293.
+VINCENT
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1294.
+VINING PEPPERT
+NICOLE
+LIVREUR ou REPÉREUR
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1295.
+VIPULANADAN
+GOLDIE
+GESTIONNAIRE
+ANGLAIS
+1296.
+VITHANA
+SHANE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1297.
+VOROBYOV
+BENJAMMENO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1298.
+WALCKIER
+GAUTIER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1299.
+WALKER
+AMANDA L
+AGENT SUR LE TERRAIN
+ANGLAIS
+1300.
+WALLACE
+ELISHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1301,
+WALTON
+LAURA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1302.
+WALTON
+ERIC
+AGENT SUR LE TERRAIN
+ANGLAIS
+1303.
+WAN
+WESLEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1304.
+WANG
+X
+AGENT SUR LE TERRAIN
+ANGLAIS
+1305.
+WANG
+KUANG
+AGENT SUR LE TERRAIN
+ANGLAIS
+1306.
+WANG
+QIONG
+LIVREUR ou REPÉREUR
+ANGLAIS
+1307.
+WANG
+YIFEI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1308.
+WANG
+BOB
+AGENT SUR LE TERRAIN
+ANGLAIS
+1309.
+WANG
+XIN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1310.
+WANG
+YU Y
+AGENT SUR LE TERRAIN
+ANGLAIS
+1311,
+WANG
+TIANYI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1312.
+WANG _
+LEI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1313.
+WANG _. _.'
+TIDI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1314.
+WARALCH
+JEHAHGIR
+AGENT SUR LE TERRAIN
+ANGLAIS
+1315.
+WARD
+JESSICA
+GESTIONNAIRE
+ANGLAIS
+1316.
+WARDAK
+ATTIQ
+GESTIONNAIRE
+ANGLAIS
+1317.
+WARNELL
+ROBERT 0
+AGENT SUR LE TERRAIN
+ANGLAIS
+1318.
+WARREN
+ZANDER W
+AGENT SUR LE TERRAIN
+ANGLAIS
+1319.
+WARSAME
+FARHIYA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1320.
+WATTIE
+AMANDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1321.
+WATTLEY
+SHANDIE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1322.
+WEBB
+BRITTNEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1323.
+WEBER
+MARTHA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1324.
+WEEKS
+BRYCE
+GESTIONNAIRE
+ANGLAIS
+1325.
+WEI
+M
+AGENT SUR LE TERRAIN
+ANGLAIS
+1326.
+WEI
+MEI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1327.
+WEI WUNG
+LIN WE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1328.
+WERNER
+ADAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1329.
+WESTWICK
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1330.
+WHITLEY
+MICHAEL
+AGENT SUR LE TERRAIN
+ANGLAIS
+1331.
+WHITMORE
+JESSICA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1332.
+WIGHT
+LYNN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1333.
+WILKES
+FRAINK A
+AGENT SUR LE TERRAIN
+ANGLAIS
+1334.
+WILKINS
+SCOTT
+AGENT SUR LE TERRAIN
+ANGLAIS
+1335.
+WILLIAMS
+SIMON
+AGENT SUR LE TERRAIN
+ANGLAIS
+1336
+WILLIS
+ALICIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1337
+WILSON
+AZARIAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1337.
+WILSON
+AZARIAH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1338.
+WINCHELL
+WALTER HENRY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1339.
+WONG
+KENNETH
+AGENT SUR LE TERRAIN
+ANGLAIS
+1340.
+WOODROW
+JANELLE
+AGENT SUR LE TERRAIN
+ANGLAIS
+1341.
+WRIGHT
+BELINDA
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+ANNEXE A - Liste des travailleurs
+Nom de famille
+Prénom
+Rôle
+Langue
+1342.
+XI
+HONG BO
+LIVREUR ou REPÉREUR
+ANGLAIS
+1343.
+XIONG
+YIMEI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1344.
+XU
+YIREN
+LIVREUR ou REPÉREUR
+ANGLAIS
+1345.
+XU
+JIAN BO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1346.
+YAHIA
+MAISAM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1347.
+YANG
+XU
+AGENT SUR LE TERRAIN
+ANGLAIS
+1348.
+YAO
+CHUN BIAO
+LIVREUR ou REPÉREUR
+ANGLAIS
+1349.
+YAWAR
+JUMMANA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1350.
+YEE
+LEAH R
+AGENT SUR LE TERRAIN
+ANGLAIS
+1351.
+YEUNG
+EDEN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1352.
+YIN
+NEO
+LIVREUR ou REPÉREUR
+ANGLAIS
+1353.
+YIN
+CAO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1354.
+YOSUPOV
+DANIEL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1355.
+YOUNG
+TERRI LYNN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1356.
+YOUSFI
+BILEL
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1357.
+YU
+Yr TING
+AGENT SUR LE TERRAIN
+ANGLAIS
+1358,
+YUAN
+BRITTANEY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1359.
+YUNG
+_
+LAI PING
+AGENT SUR LE TERRAIN
+ANGLAIS
+1360.
+YUSSUF '
+A
+AGENT SUR LE TERRAIN
+'ANGLAIS
+1361.
+YUSUF
+ZACKIREY
+AGENT SUR LE TERRAIN
+ANGLAIS
+1362.
+ZAIDI
+SYED
+AGENT SUR LE TERRAIN
+ANGLAIS
+1363.
+ZAITSEV
+DMITRI
+AGENT SUR LE TERRAIN
+ANGLAIS
+1364.
+ZAKA
+ANAM
+AGENT SUR LE TERRAIN
+FRANÇAIS
+1365,
+ZALA
+DHARMENDRASINH
+LIVREUR ou REPÉREUR
+ANGLAIS
+1366.
+ZEAITER
+AALAA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1367,
+ZENASNI
+BRAHIM
+AGENT SUR LE TERRAIN
+ANGLAIS
+1368.
+ZENG
+BAI-RONG
+AGENT SUR LE TERRAIN
+ANGLAIS
+1369,
+ZETTER
+BRYAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1370.
+ZHANG
+YAN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1371.
+ZHANG
+THOMAS
+GESTIONNAIRE
+ANGLAIS
+1372.
+ZHANG
+BAOGENG
+AGENT SUR LE TERRAIN
+ANGLAIS
+1373.
+ZHANG
+YAO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1374.
+ZHAO
+ZIWEN
+GESTIONNAIRE
+ANGLAIS
+1375.
+ZHAO
+PETER
+AGENT SUR LE TERRAIN
+ANGLAIS
+1376.
+ZHENG
+LING LING
+AGENT SUR LE TERRAIN
+ANGLAIS
+1377.
+ZHOU
+GUO BIAO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1378,
+ZHU
+DE HUA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1379.
+ZIA
+ALI
+GESTIONNAIRE
+ANGLAIS
+1380.
+ZINATELL
+ARTURO
+AGENT SUR LE TERRAIN
+ANGLAIS
+1381.
+ZOU
+JUN
+AGENT SUR LE TERRAIN
+ANGLAIS
+1382.
+ZOU
+DONNA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1383.
+ZOVKO
+BILGANA
+GESTIONNAIRE
+ANGLAIS
+1384.
+ZOVKO
+MIA
+AGENT SUR LE TERRAIN
+ANGLAIS
+1385.
+ZUBAIR
+ASAD
+AGENT SUR LE TERRAIN
+ANGLAIS
+1386.
+ZULUAGA
+MARIO ANDRES
+AGENT SUR LE TERRAIN
+ANGLAIS
+LIVREUR, repéreur
+[1] Vern Krishna, The Fundamentals of Income Tax Law, Toronto, Carswell, 2009.
+[2] [1986] 3 C.F. 553.
+[3] [2001] 2 R.C.S. 983, 2001 CSC 59.
+[4] Ibid., au paragraphe 47.
+[5] Ibid., aux paragraphes 47 et 48.
+[6] 2013 CAF 85.
+[7] Pièce R‑1, à l’onglet 4 du recueil de documents de l’intimé, à la page 11 de 23.

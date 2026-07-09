@@ -1,0 +1,413 @@
+Title: Afdon Contracting Ltd. v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521548/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-175-521548-afdon-contracting-ltd-v-the-king.md
+Document type: case_law
+Last modified: 2025-12-08
+
+# Afdon Contracting Ltd. v. The King
+
+- Citation: 2025 TCC 175
+- Decision date: 2025-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Afdon Contracting Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-12-08
+Neutral citation
+2025 TCC 175
+File numbers
+2022-1036(GST)G, 2022-1037(IT)G, 2022-1038(IT)G
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2022-1036(GST)G
+BETWEEN:
+AFDON CONTRACTING LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeals of Afshin Tajbakhsh 2022‑1037(IT)(G) and Afdon Contracting Ltd. 2022-1038(IT)(G) on September 2,3, and 4, 2025 and October 23 and 24, 2025, at Vancouver, British Colombia.
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellant:
+Elizabeth Junkin
+Counsel for the Respondent:
+Karen Truscott
+JUDGMENT
+[1] The appeals of Afdon Contracting Ltd. in court file 2022-1036 (GST)G are to be heard on common evidence with the appeals of Afdon Contracting Ltd. in court file 2022-1038(IT)G and the appeals of Afshin Tajbakhsh in court file 2022-1037(IT)G (collectively, the Appeals).
+[2] The appeals of Afdon Contracting Ltd. from the 12 notices of reassessment issued under the Excise Tax Act each dated June 28, 2019 and reassessing the appellant’s net tax for its quarterly reporting periods from February 1, 2011 to January 31, 2014 are allowed and the 12 notices of reassessment are vacated.
+[3] Costs shall be dealt with as follows:
+The appellant and Afshin Tajbakhsh shall have 30 days from the date of this judgment to make a single costs submission covering all the Appeals.
+The submission will be no more than 6 pages at 1.5 spacing.In addition, the submission may include a one or two page appendix with a breakdown of the costs and disbursements sought;
+The Respondent shall have 30 days from the day that the appellant and Afshin Tajbakhsh make their submission to file a single costs submission covering all of the Appeals.The submission will be no more than 8 pages at 1.5 spacing.In addition the submission may include a two or three page appendix, with a breakdown of the costs and disbursements sought including any response to the appellants’ costs submissions; and
+the appellant and Afshin Tajbakhsh shall have 15 days from the day that the respondent files its costs submissions to file a response to those submissions not exceeding two pages at 1.5 spacing and may include a one or two page appendix, with a revised breakdown of the costs and disbursements sought that is responsive to the respondent’s costs submissions.
+Signed this 8th day of December 2025.
+“Michael Ezri”
+Ezri J.
+Docket: 2022-1037(IT)G
+BETWEEN:
+AFSHIN TAJBAKHSH,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeals of Afdon Contracting Ltd. 2022-1036(GST)(G) and Afdon Contracting Ltd. 2022-1038(IT)(G) on September 2,3, and 4, 2025 and October 23 and 24, 2025, at Vancouver, British Colombia.
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellant:
+Elizabeth Junkin
+Counsel for the Respondent:
+Karen Truscott
+JUDGMENT
+[1] The appeals of Afshin Tajbakhsh in court file 2022-1037(IT)G are to be heard on common evidence with the appeals of Afdon Contracting Ltd. in court file 2022-1038(IT)G and the appeals of Afdon Contracting Ltd. in court file 2022-1036 (GST)G (collectively, the Appeals).
+[2] The appeal of Afshin Tajbakhsh in respect of the notice of reassessment dated March 17, 2022 for his 2011 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that,
+His income for 2011 is reduced by the following amounts:
+$1656.00 assessed under section 80.4 of the Income Tax Act as an imputed interest benefit is removed because it is statute barred;
+The appellant’s rental income is reduced by $64,809;
+The penalty computed under subsection 163(2) of the Act is to be adjusted to give effect to the adjustments to the appellant’s 2011 income.
+[3] The appeal of Afshin Tajbakhsh in respect of the notice of reassessment dated March 17, 2022 for his 2012 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that
+His income for 2012 is reduced by the following amounts:
+$2094.00 assessed under section 80.4 of the Income Tax Act as an imputed interest benefit is removed because it is statute barred;
+The appellant’s rental income is reduced by $23,728;
+The taxable capital gain on the disposition of the property at 3160 Benbow Road Vancouver B.C. (the Benbow Property) is reduced by $73,249; and
+the penalty computed under subsection 163(2) of the Act is to be deleted in respect of the capital gain on the Benbow property.The balance of the penalty is to be adjusted to give effect to the adjustments to the appellant’s 2012 income.
+[4] The appeal of Afshin Tajbakhsh in respect of the notice of reassessment dated March 17, 2022 for his 2013 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that:
+His income for 2013 is reduced by the following amounts:
+$134.00 assessed under section 80.4 of the Income Tax Act as an imputed interest benefit is removed because it is statute barred;
+The inclusion in income of $94,312 as a management fee shareholders benefit is removed because it is statute barred;
+The appellant’s income as established under the net worth method is reduced by $80,000; and
+the penalty computed under subsection 163(2) of the Act is to be adjusted to give effect to the adjustments to the appellant’s 2013 income.
+[5] Costs shall be dealt with as follows:
+The appellant and Afdon Contracting Ltd shall have 30 days from the date of this judgment to make a single costs submission covering all of the Appeals.The submission will be no more than 6 pages at 1.5 spacing.In addition, the submission may include a one or two page appendix with a breakdown of the costs and disbursements sought;
+The Respondent shall have 30 days from the day that the appellant and Afdon Contracting make their submission to file a single costs submission covering all of the Appeals.The submission will be no more than 8 pages at 1.5 spacing.In addition the submission may include a two or three page appendix, with a breakdown of the costs and disbursements sought including any response to the appellants’ costs submissions; and
+the appellant and Afshin Tajbakhsh shall have 15 days from the day that the respondent files its costs submissions to file a response to those submissions not exceeding two pages at 1.5 spacing and may include a one or two page appendix, with a revised breakdown of the costs and disbursements sought that is responsive to the respondent’s costs submissions.
+Signed this 8th day of December 2025.
+“Michael Ezri”
+Ezri J.
+Docket: 2022-1038(IT)G
+BETWEEN:
+AFDON CONTRACTING LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeals of Afshin Tajbakhsh (2022‑1037(IT)G) and Afdon Contracting Ltd. (2022-1036(GST)G) on September 2,3, and 4, 2025 and October 23 and 24, 2025, at Vancouver, British Colombia
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellant:
+Elizabeth Junkin
+Counsel for the Respondent:
+Karen Truscott
+JUDGMENT
+[1] The appeals of Afdon Contracting Ltd. in court file 2022-1038 (IT)G are to be heard on common evidence with the appeals of Afdon Contracting Ltd. in court file 2022-1036(GST) and the appeals of Afshin Tajbakhsh in court file 2022-1037(IT)G (collectively, the Appeals).
+[2] The appeals of Afdon Contracting Ltd. from the three notices of reassessment for its 2011, 2012, and 2013 taxation years each dated October 24, 2017 are allowed and the three assessments are vacated.
+[3] Costs shall be dealt with as follows:
+The appellant and Afshin Tajbakhsh shall have 30 days from the date of this judgment to make a single costs submission covering all of the Appeals.The submission will be no more than 6 pages at 1.5 spacing.In addition, the submission may include a one or two page appendix with a breakdown of the costs and disbursements sought;
+The Respondent shall have 30 days from the day that the appellant and Afshin Tajbakhsh make their submission to file a single costs submission covering all of the Appeals.The submission will be no more than 8 pages at 1.5 spacing.In addition the submission may include a two or three page appendix, with a breakdown of the costs and disbursements sought including any response to the appellants’ costs submissions; and
+the appellant and Afshin Tajbakhsh shall have 15 days from the day that the respondent files its costs submissions to file a response to those submissions not exceeding two pages at 1.5 spacing and may include a one or two page appendix, with a revised breakdown of the costs and disbursements sought that is responsive to the respondent’s costs submissions.
+Signed this 8th day of December 2025.
+“Michael Ezri”
+Ezri J.
+Citation: 2025 TCC 175
+Date: 20251205
+Docket: 2022-1036(GST)G
+BETWEEN:
+AFDON CONTRACTING LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2022-1037(IT)G
+AND BETWEEN:
+AFSHIN TAJBAKHSH,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2022-1038(IT)G
+AND BETWEEN:
+AFDON CONTRACTING LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Ezri J.
+[1] Afshin Tajbakhsh is a remarkable man. An immigrant, he started with nothing and built a successful construction and development business. Somewhere along the way, however, matters went off the rails and his strengths became weaknesses. The result was the concealment, not just from the Canada Revenue Agency (“CRA”) but even from his own accountant of significant amounts of revenue earned in the Bahamas and repatriated to Canada between 2011 and 2013. This matter along with other substantial tax reporting deficiencies raises four issues:
+What if any adjustments should be made to the Income Tax Act (“ITA”)assessments in respect of Mr. Tajbakhsh personally?The focus at trial was on the impact of the Bahamas business as well as other unreported income on the Tajbakhsh family net worth, as well as the non-reporting of rental income, management fees and the disposition of a house.I find that adjustments are needed in both areas but that on balance the government’s net-worth was correctly prepared;
+What is the status of the consequential income tax reassessments of Afdon Contracting?I find that the net-worth assessment does not readily translate into comparable adjustments to Afdon Contracting.The Afdon Contracting reassessments are incorrect;
+What is the status of the consequential GST reassessments of Afdon Contracting issued under the Excise Tax Act (“ETA”).Again, I find that the net worth adjustments do not really entail adjustments to the net tax of Afdon Contracting and so the GST net tax assessments are incorrect;
+As if often the case in net worth audits, the CRA opened up statute barred years and imposed gross negligence penalties.That action is mostly justified for Mr. Tajbakhsh.
+Factual Background [2] Afshin Tajbakhsh grew up in Iran and came to Canada in 1988. He later married and had three children. He found work in the stone and tile business and despite having no background in the industry he learned his new trade. By 1994, after spending a few years in business with his cousin, Mr. Tajbakhsh was the sole owner of a successful tile business. He expanded into painting and contracting and by the early 2000’s he was also buying and developing properties.
+My Impressions of Mr. Tajbakhsh [3] As these reasons already make clear, I have no small amount of respect for Mr. Tajbakhsh and his accomplishments. He struck me as particularly intelligent, self-reliant, perhaps to a fault, and hard-working. He mastered a trade-in short order, learned a new language and over time branched out from tile work, to contracting to management of a large enterprise. His day-to-day work involved bidding on projects. That in turn required a systematic understanding of the nature of the work and the estimated costs that would drive the bids. Mr. Tajbakhsh became adept at understanding business structures, reading financial statements and managing the financing and operations of his burgeoning business empire.
+[4] Mr. Tajbakhsh on the advice of his accountant George Georgeopoulos, set up a number of corporations the (“Group”) in the early 2000’s to operate the business. They included:
+Afdon Management Ltd.(“Management”).This was Mr. Tajbakhsh’s holding company although to be more precise there was a complex share structure with three classes of common shares, the classes being owned by Mr. Tajbakhsh, the Tajbakhsh Family Trust and Afdon Investments Inc. respectively.Mr. Tajbakhsh also owned two classes of preferred shares in Management;
+Afdon Investments Inc. (Investments). This company’s ownership appears to have been split with Mr. Tajbakhsh owning one class of shares and the Tajbakhsh Family Trust owning another class of shares.The effect of this seems to be that Mr. Tajbakhsh and the family trust owned Management’s common shares both directly and, indirectly, through their ownership of Investments.Investments purchased land for development and held other assets;
+Afdon Contracting Ltd. (“Contracting”).This company was owned by Management.It acted as a general contractor both for the Group and for clients of the Group.It is the corporate appellant in these appeals.
+Afdon Developments Ltd.(“Developments”).This company, also owned by Management, developed projects for the Group;
+Afdon Stone and Tile Ltd.(Tile).This company, owned by Management, did stone and tile work both on Group projects and on third party projects.Mr. Tajbakhsh testified that at all times the tile business remained the primary driver of the Group’s activities; and
+Afdon Stone and Tile Bahamas Ltd. (“Bahamas Co.”).This company with the ‘sound alike’ name to Tile, was incorporated in the Bahamas to carry out an airport project in that country.It was owned 50-50 by Mr. Tajbakhsh and his wife.
+The Bahamas Airport Project [5] In the mid to later part of the 2000’s, the Group, having successfully executed a number of increasingly large retail and commercial projects, was engaged to perform stone and tile work at the Vancouver Airport by the Vancouver Airport Authority (“YVR”) in the domestic and US departures areas.
+[6] As that work was winding down, YVR contracted with the government of the Bahamas to revitalize that country’s principal airport in Nassau (the Project). YVR and its lead contractor on the Project, Ledcor Inc. were now well acquainted with the work of the Group. They invited Mr. Tajbakhsh to bid on tile work for the first phase of that Project, the renovation of the US departures terminal. He did so and was awarded the contract for tile work. Subsequently, Mr. Tajbakhsh was the successful bidder to do the stone and tile work on phase two of the project, the international terminal, and finally phase three of the work, the domestic terminal.
+[7] The three phases of the work were carried out starting in 2011 and winding up towards the end of 2013 and into 2014.
+Bahamas Co. arrangements [8] Mr. Tajbakhsh testified that the Project contract price was denominated and paid in US dollars. In order to have a US dollar bank account in the Bahamas and presumably in order to streamline other regulatory requirements, it was necessary that the Project work be carried out by a Bahamas incorporated entity and so in 2010 Bahamas Co. was incorporated. It maintained with the Royal Bank of Canada in the Bahamas a US dollar account as well as a Bahamian dollar denominated account. The latter account was used to pay local tradespersons and local expenses as well as a local business tax of 1% of the contract value for each contract awarded.
+[9] Mr. Tajbakhsh testified that the Project was quite profitable, generating almost USD $5 million[1] in revenues and significant net income for Bahamas Co.
+Back Office arrangements [10] Commencing in the early 1990’s, the appellant and his Group managed their financial affairs with the help of their accountant Mr. George Georgeopoulos, a CPA. Mr. Georgeopoulos explained that he was retained on a compilation engagement for the Group. He took information provided to him by the Group and prepared financial statements corporate tax returns and GST returns for each member of the Group. He also prepared the personal tax returns of Mr. and Mrs. Farnoush Tajbakhsh and his then wife.
+[11] Mr. Georgeopoulos was assisted on a part-time basis by a Ms. Julie Guan. Ms. Guan eventually migrated to the Afdon Group as their full-time employee. Both before and during the periods under appeal, she was responsible for accounting, data entry, bank reconciliation work. She also made deposits, prepared payroll and dealt with correspondence and generally all back-office work other than the preparation of year-end financial statements and tax returns. The Group’s books were maintained using Simply Accounting Software. Each project had revenue and costs separately tracked with monthly reports prepared for Mr. Tajbakhsh who had taught himself to read financial statements and taken some business courses at the British Columbia Institute of Technology.
+[12] Mr. Tajbakhsh noted that the Bahamas has no income tax and so there are no bookkeeping requirements for that country. The financial records of Bahamas Co. were therefore skeletal. He added that, in the absence of record keeping requirements in the Bahamas, he shredded the corporate records of Bahamas Co. as soon as the warranty period on the Project work expired i.e. about a year or so after the work was done, so in say 2015.
+The CRA audit in brief [13] The CRA performed what was described to me as an enhanced net worth audit. The Auditor Benjamin Hon testified that he computed the net worth of Mr. Tajbakhsh in the usual way, taking into account changes in net asset value starting from a base year, 2010, and ending in 2013. He then added personal expenses and deducted income reported by Mr. Tajbakhsh and his spouse along with other non-taxable sources of funds. The net worth amounts assessed totalled $1,814,818 and were assessed to the following tax years:
+a)2011: 550,029;
+b)2012: 464,224; and
+c)2013: 800,565.
+[14] The “enhanced” part of the audit is the computation by the CRA of the following amounts:
+A capital gain on the disposition of a property on Benbow Road in 2012 (“Benbow”);
+Unreported rental income from the Benbow property in 2011 and 2012;
+deemed interest income on loans received by Mr. Tajbakhsh from Investments in 2011, 2012, and 2013; and
+Management fee income of $94,312 in 2013 in respect of construction of a new primary residence for Mr. Tajbakhsh through Contracting.
+Those amounts were backed out of the net worth and separately itemized as adjustments to Mr. Tajbakhsh’s income.
+[15] The lead audit was that of Mr. Tajbakhsh. The net worth amounts found in his personal audit were also assessed as income to Contracting. They also formed the basis for the assessment of a net tax GST reassessment of Contracting.
+[16] The tax years of the appellants along with the GST reporting periods of Contracting were statute barred and were opened up on the basis of misrepresentations attributable to carelessness, negligence or wilful default.
+[17] The CRA imposed gross negligence penalties on Mr. Tajbakhsh for all amounts except the management fee adjustment. It also imposed gross negligence penalties on Contracting. No gross negligence penalties were imposed in respect of the GST reassessments.
+The net worth adjustments were largely correct [18] The net worth amounts appear to be properly computed, except for an $80,000 adjustment referenced below.
+[19] Out of the $1.8 million assessed on the net worth, $1.2 million can be linked to Bahamas Co. The evidence at trial established that Bahamas Co. made approximately US $1.2 million on the Bahamas airport renovation work.
+[20] The available evidence was that almost all of that profit, $1.172 million was transferred out of the Bahamas. Mr. Tajbakhsh testified that the funds were loaned to him by Bahamas Co. He in turn lent the funds out to the various Group companies. Interestingly enough, Contracting was the one company that received none of the Bahamas funds even though it was the only corporation derivatively assessed in respect of the net worth.
+[21] Neither the appellant nor the respondent contested that the Bahamas funds were the likely source of part of the net worth adjustments, especially given that the Schedule I assets of the appellant included substantial shareholder credit balances arising from his lending of funds to the Group.
+[22] The arrangements underpinning the Bahamas Co. loan were non-existent. There was no loan agreement, no interest stipulated or paid, no directors resolution, no repayment and no terms of repayment. It was, as the Minister asserts, a straight up taking of the money out of Bahamas Co.
+[23] Subsection 15(1) of the ITA provides, among other things that,
+15(1) If, at any time, a benefit is conferred by a corporation on a shareholder of the corporation…then the amount or value of the benefit is to be included in computing the income of the shareholder…for its taxation year that includes the time…,
+[24] The handing over of $1.2 million to Mr. Tajbakhsh, no questions asked, clearly fits this provision.
+[25] Even if this provision did not apply, subsection 15(2) of the Act specifically addresses shareholder loans:
+15(2) Where a person (other than a corporation resident in Canada)… is
+(a) a shareholder of a particular corporation,
+(b) connected with a shareholder of a particular corporation, or…
+and the person or partnership has in a taxation year received a loan from or become indebted to (otherwise than by way of a pertinent loan or indebtedness) the particular corporation, any other corporation related to the particular corporation… the amount of the loan or indebtedness is included in computing the income for the year of the person…
+[26] Vern Krishna in his textbook on Canadian Income tax, citing to Pillsbury Holdings explains the purpose of subsections 15(1) and (2) of the ITA:
+Where a corporation appropriates its property for, or confers a “benefit” upon, a shareholder qua shareholder, the value of the benefit, or the amount appropriated, is included in income for the year.5 This is so regardless whether the corporation that confers the benefit resides, or carries on business, in Canada.6 [emphasis added] See, for example, the decision of the Exchequer Court in M.N.R. v. Pillsbury Holdings:7
+[The rule] is aimed at payments, distributions, benefits and advantages flowing from a corporation to a shareholder. … While the subsection does not say so explicitly, it is fair to infer that Parliament intended … to sweep in payments, distributions, and advantages that flow from a corporation to a shareholder by some route other than the dividend route and that might be expected to reach the shareholder by the more orthodox dividend route if the corporation and the shareholder were dealing at arm’s length.
+The benefit is taxable as income from property.
+and
+As a general rule, the principal amount of a debt is not included in income, and repayment of the debt is not deductible, as both are considered on account of capital. However, special rules apply in the case of shareholder debts because they can be used as a form of indirect payments in lieu of dividends. The rules are intended to discourage the withdrawal of corporate surplus in the guise of loans or debts.
+Subsection 15(2) is a companion piece to subsection 15(1), and is intended to discourage corporations from using loans and indebtedness as an indirect means of conferring untaxed economic benefits on shareholders. We have seen that corporate income paid out as dividends is taxable as income.58 Long-term loans can be an indirect way of withdrawing corporate funds and, therefore, may also be taxable. However, the application of subsection 15(2) does not depend upon whether the corporation has profits or surpluses. The provision can apply to any shareholder loan.
+The shareholder loan rules are stringent and, with a few exceptions, are punitive.59 The rules ensure that amounts extracted from a corporation are taxable to the recipient, and that there is “interest” on the principal amount.
+The rules apply to loans, and other form of indebtedness, from any source. The lending corporation does not have to be a resident of Canada or be carrying on business in Canada. Hence, a Canadian resident shareholder who borrows from a non-resident corporation may be taxable on the loan. The rules do not, however, apply in respect of indebtedness between non-resident persons.60 [emphasis added][2]
+[27] Appellant’s counsel very candidly acknowledged that the appellant must be taxed on what he did and not what he might have done. No legal argument was proffered to explain how the Bahamas sourced funds are not taxable in the hands of Mr. Tajbakhsh on the facts of this case.
+[28] However, Contracting, the corporate appellant did argue that the net worth amounts are not connected to it.
+No Link Between Net Worth Amounts and the Corporate appellant [29] There is little or nothing to show that the source of the net worth adjustments is Contracting. Out of $1.8 million assessed on the net worth, $1.2 million is traceable to Bahamas Co. and so is not income of Contracting. The remaining net worth amount of $600,000 could be income of Contracting, but it could just as easily be income of one of the other Group members such as Developments or Tile, however the Minister adduced no evidence as to the source. If the assessments were not statute barred then the Minister might be able to just rely on his assessing assumptions and place on the appellant the burden of showing that there was another source for the remaining funds. However, the alleged unreported income of Contracting is the misrepresentation that is relied upon to open up the statute barred tax years and reporting periods. Since the Minister cannot establish that Contracting is the source of the unreported income the corporate assessments cannot be sustained.
+No GST on Bahamas sourced income [30] Even if the income tax reassessments could be upheld, it would not follow that the GST reassessments would also be upheld. The $1.2 million transferred from the Bahamas is not consideration for the making of any taxable supply in Canada. The balance of the net worth amounts may relate to taxable supply making but again the lack of connection between the amounts and any taxable supply making activity of Contracting raises the same limitation problems for GST as it does for the income tax reassessments.
+Contested net worth Issue: $80,000 amount re Afdon Management [31] The appellant took issue with one computational element of the net worth. One of the assets included in the net worth is the shareholder loan account of Management. At the end of 2013, the auditor recorded the balance as $657,500 owing to Mr. Tajbakhsh. Mr. Tajbakhsh asserted at trial that the true balance was only $577,500 and he provided the Management shareholder loan account for 2013. That page lists all the transactions and the running balance, which balance totals a credit to Mr. Tajbakhsh of $577,500 at the end of 2013.
+[32] Mr. Hon the CRA auditor testified that there was an additional credit consisting of a dividend of $80,000 and he took me to a 120 page summary of every transaction for every account of the appellant that was used in the net worth. Page 117 of that document shows highlighted in grey that $80,000 dividend.
+[33] My problem is that I can find no source document to support that the $80,000 dividend exists. It may well exist and Mr. Hon may indeed have seen something somewhere to support this entry. I have ordered and reviewed the transcript of Mr. Hon’s examination-in-chief on this point, but I cannot find that he pointed to any particular document or transaction as the source for the item found on page 117 of 120 of his transaction summary. He did testify that the notation of the dividend was in the taxpayer’s supporting documents (transcript p. 349), but he did not specify which document had that notation. The adjustment does show up in a summary of adjustments document (Ex. R23), but that document is not the source of the adjustments. Under the circumstances, I prefer the evidence contained in the actual ledger document to the summary of the items in the 120 page document prepared by Mr. Hon. The asset balance and hence the net worth amount for 2013 is to be reduced by $80,000.
+The capital gains on Benbow [34] the appellant was assessed a capital gain in respect of the disposition of a house of the Benbow Property that was acquired in 2007 and sold in 2012. At objection certain adjustments were allowed and the final taxable capital gain was $152,664.
+[35] For the reasons which follow, I reduce the taxable capital gain by another $73,249. A summary of that calculation is appended to these reasons and my treatment of the items in issue is set out here.
+Use of Property does not materially affect computation in this case [36] The use of Benbow was contentious. The CRA assessed on the basis that it was acquired for use as a rental property. The appellant contended that it was initially acquired as a primary residence and that it was later used as a rental property. It probably does not help that the appellant had lived in a property on Virginia Drive prior to purchasing Benbow and moved back to Virginia Drive after occupying Benbow for no more than 10 months.
+[37] I am somewhat inclined to the view that the appellant did buy Benbow with the intent of moving in. His evidence of occupation of the property though a bit thin was not seriously challenged. However, it is clear that when the property was sold, it had been used as a rental property for more than a year, so a capital gain or loss must be recognized on disposition.
+[38] The CRA used the 2007 purchase price as the starting value in computing the capital gain. The value may have been different when Benbow became a personal use or rental property but I have virtually no evidence as to the value of the property either as at June 2009 or as at October 2010. I do have some property tax bills, but the 2008 value is actually less than the 2007 purchase price so I will use the 2007 purchase price of just under $2.4 million as the starting value.
+Capital gain or loss? [39] At trial the appellant produced a worksheet which showed that actually he realized a capital loss on the disposition of Benbow.
+[40] The appellant explained that the CRA had neglected to add to the cost of the house several outlays. They were broadly of two types:
+Costs of purchasing improving and selling the property, namely
+Renovation expenses of $502,550;
+Title insurance;
+Property taxes paid to the vendor on closing of the house of $9,473 and a small utilities holdback on closing; and
+Carrying costs of the property, comprising:
+Mortgage interest to be capitalized for 2007 to 2012 of $217,521;
+Property taxes to be capitalized for 2008 to 2011 of $42,928;
+Home insurance premiums to be capitalized for 2008 to 2011 of $5,234; and
+Municipal water and waste costs to be capitalized for 2008 to 2011 of $3,948.
+[41] Before addressing the outlays, it is necessary to review the case law, particularly, the Stirling case, on the issue of additions to adjusted cost base and deductions from proceeds.
+[42] In Stirling, the aptly named taxpayer sought to add to the cost of gold bullion, safekeeping charges, and interest owing on the purchase price of the bullion. The Federal Court of Appeal held against Mr. Stirling, writing that the word “cost” in the ITA:
+…means the price that the taxpayer gave up to get the asset; it does not include any expense that he may have incurred in order to put himself in a position to pay that price or to keep the property afterwards”[3]
+[43] So, outlays such as mortgage interest, and property taxes are presumptively excluded in computing the cost of property.
+[44] I did consider whether subsection 18(2) and paragraph 53(1)(h) of the ITA have a role to play in the analysis. Those provisions tends to fortify me in my understanding that where Parliament wants to permit the capitalization of carrying costs, it does so expressly.
+[45] Subsection 18(2) has no application to these facts. Reduced to its essentials, it provides that in computing income from business or property, a taxpayer may not deduct interest or property tax outlays unless the land was used in the year in the course of a business or primarily to earn income from the land, with the deduction being limited to the gross revenues from the land for the year. Subsection 18(3) excludes from the definition of “land”, in subsection 18(2) any buildings along with the subjacent and adjacent lands. This excludes Benbow from the ambit of subsection 18(2).
+[46] Paragraph 53(1)(h) provides that a taxpayer who “because of subsection 18(2)” could not deduct interest and property taxes, can add them to the cost of the land. Since 18(2) is not the reason why the appellant cannot deduct interest and property taxes in computing the Benbow capital gain, paragraph 53(1)(h) has no further role to play. It does however confirm that Parliament turned its mind to the issue of if and when interest and property taxes on real property can be capitalized.
+[47] I should also add that the appellant’s calculations include costs of a personal nature since some of the costs were incurred while the appellant and his family resided at Benbow.
+Costs of purchasing, improving and selling the property Renovation Costs [48] The appellant’s claim for renovation costs of $502,550.44 was carefully reviewed by CRA at objections. The CRA working paper lists 270 individual expenses that were reviewed with notes for disallowed items. The CRA allowed $435,310.31 of the claimed amounts as additions to the adjusted cost base of the property. The appellant provided none of the documentation that had been provided to the CRA or any additional documentation to contest the remaining $67,000 in disallowed expenses. Further a perusal of the CRA working paper seems to justify the CRA’s decision. The rejected expenses include pool maintenance costs, invoices that were either not identified as relating to Benbow or that specifically referred to another job site, lawn furniture and other items that do not form part of the cost of the renovation. I am satisfied that the CRA computation is accurate in general terms and in specific that it is more accurate than the summary totals presented to the Court by the appellant which were not supported by any source documents.
+Title Insurance [49] The CRA did not include $2064 in title insurance as part of the cost of the property. At first, I thought that this was an oversight, but on reflection, I don’t think that any evidence was adduced to allow this addition to the cost of Benbow.
+[50] I have no evidence that the appellant had to pay for title insurance in order to acquire the property. It may well be that the appellant could not obtain financing without title insurance, but I don’t see how this is any different from the requirement to provide fire or flood insurance as a financing condition, albeit, title insurance is a one-time cost. Such costs need to be backed up by evidence showing that they relate to the purchase of the property and not to the satisfaction of some other purpose such as financing.
+[51] In Kalwa, the respondent conceded $1000 in title insurance fees after hearing testimony from the appellant, though the basis of that concession is unclear. However, the Court denied an additional amount of lender title insurance as an expense made to finance the property because it was, “prima facie paid to the lender and not to improve the property for disposition”.[4]
+[52] There may be cases where title insurance can be added to the cost of property, but I have not heard evidence in this case to permit that addition.
+Carrying Costs included on purchase and sale of Benbow
+[53] The CRA allowed property taxes to be included in the cost of Benbow and to be deducted from proceeds of disposition as they were closing cost adjustments. I do not do so.
+No Deduction for Property taxes paid on purchase of Benbow [54] On the 2007 purchase, Mr. Tajbakhsh claims almost $9500 in property taxes shown as an addition to be paid by him, on the statement of adjustments. He ignores the $4700 that was treated as a credit on that statement of adjustments. The CRA allowed as an addition to the cost of Benbow, $4776, being the difference between those two amounts.
+[55] I am not bound by the CRA’s calculations including its treatment of those property taxes and so I will not give effect to CRA’s decision to allow property taxes in computing capital gains.
+[56] The statement of adjustments makes it clear that the vendors had not paid any of the 2007 property taxes on closing and so Mr. Tajbakhsh would have to pay the $9500 in property taxes for all of 2007. The vendor provided $4700 of that amount by way of a credit adjustment on the statement of adjustments. The balance of $4776 simply represents the property tax that Mr. Tajbakhsh owed on the property for the rest of 2007.
+[57] The fact that Mr. Tajbakhsh was sending a cheque to his lawyer to close the transaction that included $4776 for property taxes owing for 2007 does not make the property tax a cost of acquiring Benbow. It is the nature of the components of the closing payment that determines their tax treatment and not the fact that they were all lumped together in the cheque that Mr. Tajbakhsh handed over on closing. The property tax portion of the cheque sent to Mr. Tajbakhsh’s lawyer to close the transaction was, per Stirling just an ordinary carrying cost of the property.
+Property Taxes on Sale of Benbow [58] The CRA allowed Mr. Tajbakhsh a double claim on property tax when he sold the Benbow property. The capital gains calculation done by audit allowed $5,555 as a cost of disposing of Benbow. This represents approximately six months worth of property taxes to the date of closing. At the objections level, the CRA allowed the same $5,555 as a deduction in computing rental income.
+[59] For the reasons already discussed, I conclude that property taxes are neither an adjustment to the cost of the property nor a deduction from the proceeds of sale of the property in the circumstances of this case. They must be removed from the capital gains computation, notwithstanding that they were allowed by the CRA. The same is also true for the utility holdback on closing, assuming that it was not released.
+Capitalized Carrying Costs. [60] The appellant sought to add to the cost of the house, four cost items incurred between 2007 and 2012 namely, mortgage interest, property taxes, municipal utility expenses and insurance.
+[61] The claim to add these amounts to the cost, to the extent that they were not personal in nature, must also be rejected on the basis of Stirling. That said, certain of these costs are allowed as deductions in computing rental income.
+Allocation between appellant and spouse [62] Benbow was jointly owned by the appellant his spouse. I see no reason why the capital gain should be allocated solely to the appellant. When I raised the matter with the respondent, they too were unaware of a reason why the full capital gain was allocated to the appellant. I therefore allocate to the appellant only his 50% share of the taxable capital gain as adjusted in these reasons.
+[63] The result of all the arithmetic to this point is that the capital gain is $317,659 and the taxable capital gain is 50% of that or $158,830. The appellant’s share of that is $79,415. The assessed amount of $152,664 is therefore to be reduced by $73,249.
+Rental Income [64] The rental income needs to be adjusted to allow as deductions expenses incurred in 2011 and between January and April 2012. The property was not available for rent after April 2012 and so expenses for May and June 2012 are not allowable. I am not aware of any basis upon which to deduct or capitalize the carrying costs for those two months.
+[65] The gross rental income of the appellant was $96,000 in 2011 and $40,000 in 2012. The CRA allowed deductions only for property taxes in those years.
+[66] The bottom line is that the appellant’s share of the net rental income is to be reduced to $20,393 in 2011 and to $10,717 in 2012. Again, a summary of that calculation is appended to these reasons and here are the details:
+Mortgage Interest [67] At trial, the appellant provided a 2011 mortgage statement for Benbow. It showed a five-year mortgage maturing in 2013. The interest of $39,703 shown on that statement is allowed as a deduction for 2011. Since the same mortgage was in place in 2012, I allow 1/3 of that amount or $13,234 as interest payable for January to April 2012. I appreciate that some amount of principal was paid off in 2011 and so the mortgage interest in 2012 was slightly less than in 2011, but the amount is not material.
+Property Taxes [68] 2012 property taxes were allowed as a deduction at CRA appeals. I have recomputed the allowable amount based on four months of use of the property in the rental business at $3663.00.
+Insurance [69] The appellant provided an insurance invoice for Benbow for 2012 in the amount of $2676. $892, representing 1/3 of that amount is allowed for January to April 2012. I have no invoice for 2011, but I assume that the cost of insurance was more or less comparable in 2011 and allow a deduction of $2676 for 2011 as well.
+Municipal Utilities [70] The appellant provided bills totalling $1585 for 2011 which are allowed. I have no bills for 2012, but it seems reasonable to allow 1/3 of the 2011 amount for 2012, so I allow $528 for the first four months of 2012.
+Repairs [71] Repair bills of $453 in 2011 and $249 in 2012 are allowed.
+Allocation between spouses [72] Again, I see no reason why the full amount of net rental income was allocated to Mr. Tajbakhsh. I reduce the allocation to 50% based on his 50% ownership of the property.
+[73] For 2011, the CRA assessed net rental income of $85,202. The above allowable expenses reduce that net income to $40,786 and Mr. Tajbakhsh’s 50% share is $20,393, so his net rental income for 2011 is to be reduced from $85,202 to $20,393, a reduction of $64,809.
+[74] For 2012, the CRA assessed net rental income of $34,445. The above allowable expenses reduce that net income to $21,434 and Mr. Tajbakhsh’s 50% share is $10,717, so his net rental income for 2012 is to be reduced from $34,445 to $10,717, a reduction of $23,728.
+Management Fee [75] The CRA added $94,312 to Mr. Tajbakhsh’s 2013 income and imposed a gross negligence penalty on this amount. The amount represents the CRA’s estimate of the benefit conferred on Mr. Tajbakhsh by Contracting because Mr. Tajbakhsh built a personal residence using Contracting’s suppliers and subcontractors to source materials and perform the work. Although Mr. Tajbakhsh reimbursed Contracting for its costs, he paid nothing for the value of having Contracting act as a contractor.
+[76] Mr. Tajbakhsh’s view of the matter is that he acted as his own contractor and so received no benefit from Contracting. The respondent disagrees noting that any supplier discounts or other advantages from the relationship between Contracting and its suppliers and subcontractors accrued to Mr. Tajbakhsh.
+[77] I think that there is merit in the Crown’s position and I would have upheld the adjustment but for the statute barred issue which bars this adjustment in my view.
+Deemed Interest Income [78] The CRA assessed a relatively modest amount of deemed interest income to Mr. Tajbakhsh on the basis that the loans that he made to his corporations were subject to the deemed interest provisions under section 80.4 of the Act. There is no issue with the correctness of the adjustment, but this adjustment is also caught by the limitations problem. It is therefore time to turn to that issue.
+The Statute Barred issue [79] All of the taxation years and reporting periods before me were statute barred. For the income tax years, all of the contested reassessments were raised more than three years after the initial assessments had been issued.
+[80] The GST net tax reassessments were probably all issued more than four years after the filing of the GST returns to which they related. I say ‘probably’ because neither the appellant nor the respondent pleaded the dates on which those returns were filed so it is theoretically possible that the returns were late filed or not filed at all such that the reporting periods were not statute barred. However, the respondent, whether accidentally or otherwise, pleaded that the GST reassessments were made outside the “normal reassessment period” which phraseology is of course peculiar to the ITA and not found in the GST provisions of the ETA. Be that as it may, I take the respondent’s pleaded admission at face value and I am treating the net tax assessments as having been made beyond the four-year limitation period described in subsection 298(4) of the ETA.
+[81] Both the ITA and the ETA permit reassessments to be made beyond the prescribed limitation period where the taxpayer or registrant as the case may be, has made misrepresentations in the filing of returns or in the provision of information, which misrepresentations are due to carelessness, neglect or wilful default.
+[82] It is up to the respondent to prove that a misrepresentation was made and that it is attributable to carelessness, neglect or wilful default.
+[83] The appellant also took pains to note that under subsections 152(4.01) of the ITA and 298(4) of the ETA, an assessment after the limitation period must relate to the misrepresentation. The CRA cannot use a misrepresentation with respect to one matter as a way to revisit a completely unrelated aspect of the taxpayer’s tax filing for a statute barred year. One cannot for example use a misrepresentation relating to rental income to deny a medical expense tax credit claim. The adjustment must relate to the misrepresentation.
+The Corporate reassessments [84] As indicated earlier in these reasons, the Respondent cannot establish that a misrepresentation was made by Contracting in filing either its income tax or its GST returns. There was no evidence to show that the net worth adjustments were attributable to Contracting rather than to the other members of the Afdon Group and so the corporate assessments are statute barred and must be vacated.
+The personal reassessments of Mr. Tajbakhsh [85] I find that the CRA was justified in reassessing Mr. Tajbakhsh beyond the normal limitation period in respect of all issues, except the management fee issue and the deemed interest issue.
+[86] To understand why the reassessments of Mr. Tajbakhsh are upheld, I turn to the evidence presented at trial regarding Mr. Tajbakhsh’s dealings with his accountant, the CRA and third parties in respect of Bahamas Co.
+What Mr. Tajbakhsh didn’t tell Mr. Georgeopoulos [87] Mr. Georgeopoulos had been the accounting and tax advisor to Mr. Tajbakhsh and the Afdon Group for more than 15 years leading up to the tax years in issue. A candid conversation between Mr. Tajbakhsh and Mr. Georgeopoulos with respect to the Bahamas venture would have gone a long way in establishing that Mr. Tajbakhsh was careful and diligent in how he approached his tax obligations.
+[88] No such conversation every took place. Mr. Georgeopoulos testified that he was completely unaware that Mr. Tajbakhsh had set up a corporation in the Bahamas. He did not know that this company was involved in a large airport renovation project. He did not know that money from the project was coming into Canada. He only found out about the project when the CRA contacted him as part of the audit that led to the reassessments before this Court.
+[89] Mr. Tajbakhsh’s silence on the subject of his Bahamas business is compounded by the fact that he destroyed documents related to the Bahamas projects as soon as the one-year warranty periods for the work expired. At trial, Mr. Tajbakhsh described the matter as arising out of the long delay in bringing the matter to trial. I don’t see it that way. The last phase of the Bahamas project ended in 2013. Presumably, the documents were not shredded until 2014 or later. The audit started in 2016, but per Mr. Tajbakhsh’s evidence, the Bahamas project documents were already destroyed by then.
+[90] Subsection 230(1) of the ITA as it read both at the end 2012 and through to today requires taxpayers to maintain books and records and to keep them for at least six years from the end of the tax year to which they relate:
+230 (1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+(4) Every person required by this section to keep records and books of account shall retain
+(a) …and
+(b) all other records and books of account referred to in this section, together with every account and voucher necessary to verify the information contained therein, until the expiration of six years from the end of the last taxation year to which the records and books of account relate.
+[91] Even accepting that Bahamas Co. was not bound by this requirement, Mr. Tajbakhsh was so bound. It was not open to him to destroy source documents that related to a significant portion of the funds that he received during the tax years in issue.
+[92] I also note that there is some evidence of tax planning in the corporate ownership structure of the Group. There is a family trust in existence and different classes of shares for the businesses. I infer that Mr. Tajbakhsh had access to, and availed himself of, tax planning advice. This is not a negative finding. Taxpayers can and should take a rational approach to organizing their affairs, but it does speak to the divergence between Mr. Tajbakhsh’s usual, rational, approach to managing his business affairs and his conduct in concealing his Bahamas business from his accounting advisor.
+[93] At an absolute minimum, I find that Mr. Tajbakhsh was negligent in his dealings with respect to the Bahamas project. The flip side of being intelligent and sophisticated is that it was reasonable for Mr. Tajbakhsh to know that he should not move over a million dollars from the Bahamas into Canada and make no inquiries of his accountant as to the possible tax implications.
+The remaining $600,000 of the net worth assessment [94] Approximately $600,000 of the net worth assessment is not related to the Bahamas project. Even setting aside the $80,000 adjustment that I make to the assessment, the balance represents a highly material amount of money. It is unacceptable for the appellant to adduce no explanation for the discrepancy between his reported income and his actual income.
+[95] Mr. Tajbakhsh relied heavily on the Hansen[5] decision in support of the argument that the personal assessments were statute barred, but that case was about a taxpayer trying to decide whether a receipt was on income or capital account in consultation with an accountant. It was not a case about a significant failure to properly compute and report income coupled with a choice to not consult with a knowledgeable accountant.
+The Capital Gain on Benbow [96] The appellant testified that he was of the view that Benbow was personal such that no capital gain needed to be reported. He could not recall whether he discussed the matter with his accountant though he thought that maybe he had and that it was considered a principal residence. That evidence was not corroborated by Mr. Georgeopoulos who explained that the only thing that he knew about Benbow was that it was Mr. Tajbakhsh’s principal residence. He specifically testified to not having known that the property was used as a rental property.
+[97] I don’t understand how the appellant could not have known that he needed to report the disposition of Benbow. Mr. Tajbakhsh was relatively sophisticated. He had other rental properties and more than that he knew that he already had a principal residence on Virginia Crescent. He must have wondered how it was that he could claim the principal-residence exemption on Benbow while living on Virginia Crescent. However, even if I were to accept Mr. Tajbakhsh’s evidence at face value, the failure of Mr. Tajbakhsh to tell his accountant that he had been using Benbow to earn rental income remains. If Mr. Tajbakhsh did not know how to report the disposition of Benbow, it was because he took no steps to inform himself. The disposition of Benbow is not statute barred.
+Rental Income on Benbow [98] Appellant’s counsel did not dispute that the failure to report the rental income was not statute barred. Given my above comments, I agree with that concession. Not reporting the rental income was a problem, and not telling Mr. Georgeopoulos about the rental income was a bigger problem.
+The Management Fee Expense [99] I don’t think that the appellant’s conduct in respect of the management fee is sufficient to support a statute barred assessment. Mr. Tajbakhsh did not appropriate property or services from his company to build his personal residence. It was not wholly unreasonable for him to think that he received no other benefit given that the relationships between Contracting and its suppliers and contractors were those that he had personally cultivated over many years. The evidence of Mr. Tajbakhsh that he repaid all amounts incurred by Contracting for the construction of the residence fortifies me in my view that Mr. Tajbakhsh did make some effort to ensure that he was not enriched by using his company for the work.
+Impugned Interest assessment [100] I find that the interest assessed under s. 80.4 of the Act is statute barred for two reasons:
+The amounts were not material; and
+the provision is somewhat technical; it would not have been unreasonable for Mr. Tajbakhsh to rely on his accountant to point out to him that he had a liability in this regard.
+[101] Mr. Georgeopoulos prepared Mr. Tajbakhsh’s return but without including this imputed income amount. I am satisfied that it was an oversight to not include it and Mr. Tajbakhsh’s failure to declare the amounts were not an error attributable to carelessness, neglect or wilful default.
+Gross Negligence Penalties [102] Mr. Tajbakhsh is liable for the assessment of tax in respect of three issues:
+The net worth adjustments;
+The Benbow disposition; and
+The Benbow rental income.
+[103] For each of those adjustments I must decide whether the gross negligence penalty imposed is justified. It is also open to me to decide to allow the penalty to stand with respect to any of the issues but for only some of the taxation years in issue.
+A reminder about the law on gross negligence. [104] Gross negligence penalties are imposed under subsection 163(2) of the ITA where a person,
+“knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act,
+[105] It has been established that false statements or omissions were made in respect of the net worth amounts, the Benbow disposition and the Benbow rental income, but were the omissions made knowingly or under circumstances amounting to gross negligence?
+Knowingly [106] In the Wynter case the Federal Court of Appeal held that a person acts knowingly when they actually knew of the falsity of the statements or they deliberately chose not to make inquiries.[6]
+[107] Unfortunately, I must find that the appellant knowingly made false statements under the Wynter test for most of the net worth adjustments along with the Benbow rental income.
+[108] The appellant in my view concealed from his accountant, the Bahamas project. I find that he did so as an act of wilful blindness so that he could maintain the illusion that he did not know that the Bahamas amounts could not simply be taken by him with no tax consequence. Per Wynter, going out of one’s way to avoid knowing the truth is wilful blindness.
+[109] Again it does not assist the appellant that he made a point of destroying relevant documents long before he was permitted to do so under the ITA and at a time when any reasonable person would have known that the documents may still be relevant for financial and tax purposes. I view the destruction as part of the effort to conceal the Bahamas income.
+[110] I make similar findings in respect of the Benbow rental income. I think that the appellant did know of his tax reporting obligations this source of income and I think he kept his accountant in the dark to maintain the façade of ignorance.
+[111] Finally, I find that the appellant failed to advise the CRA of the Bahamas operations. He never declared his ownership of any foreign property or reported any foreign income sources. I was extremely troubled by Mr. Hon’s testimony that, well into the audit, he had no idea that Mr. Tajbakhsh had an interest in a Bahamian project. Mr. Georgeopoulos could not tell Mr. Hon about that project because he did not know of it. Mr. Tajbakhsh did not tell mention anything about the Bahamas project other than in noting in the fax cover page of a late 2016 fax that he was enclosing accounting records for Stone and Tile Bahamas. Mr. Hon did testify that he may have overlooked the Bahamas reference in the December document, but he also testified that he made follow up inquiries of Mr. Tajbakhsh and got no responses.
+[112] Counsel for the appellant put it to Mr. Hon that he had not asked Mr. Tajbakhsh for any Bahamas documents, but I accept Mr. Hon’s testimony that he did not, prior to December 2016 know to ask for Bahamas documentation and after December 2016 the appellant became non-responsive.
+Gross Negligence [113] Even if I were to find that Mr. Tajbakhsh’s conduct was not wilfully blind, I would still find that it amounted to gross negligence as regards the Bahamas income and the rental income.
+[114] As explained in cases like Venne:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.[7]
+[115] I think that the appellant’s repeated failure to report his ownership of foreign property, to update his accountant on his activities, especially the fairly large project in the Bahamas when considered in the context of the appellant’s years of experience and business acumen, amount to gross negligence. Mr. Tajbakhsh was indifferent as to whether or not he complied with his tax obligations. I think that his destruction of records in the Bahamas, even if not part of a deliberate effort to conceal income is evidence of conduct amounting to indifference as to whether his tax obligations are discharged. It is unbelievable that a sophisticated businessman thought that it was ok to destroy records of a large construction undertaking almost immediately after the work was complete while pulling resultant proceeds out of the Bahamas without a stitch of supporting paperwork.
+For all years? Bahamas [116] I have considered whether the finding of knowingly or gross negligence should apply to all years. I think that it should so apply. For the Bahamas project, the failure to advise Mr. Georgeopoulos or the CRA took place immediately. Further, the transfers out of the Bahamas in 2011 were material. According to Ex A20, appellant’s tab 35, the 2011 transfers totalled $485,000. The amounts declined in 2012 and 2013, but they were still material, $417,825 in 2012 and $270,000 in 2013.
+Net Worth other than Bahamas [117] The balance of unreported income was not as material. In 2011, if I subtract the Bahamas funds of $485,000 from the total net worth adjustment of $550,029, the difference is $80,000. I find that high and I am not prepared to overlook it or treat it as simple neglect. The unreported net worth amount for 2012 excluding the Bahamas amounts is lower at $46,399, but this is the second year of unreported income which to me indicates gross negligence, at a minimum. And for the 2012, the unreported income excluding Bahamas is very high at $530,565. Taken on a year by year basis, gross negligence is evident and taken together the pattern of misconduct is inescapable.
+Rental Income [118] The failure to report rental income was also grossly negligent. The activity started in 2010, a year which is not before me, and continued into 2011 and 2012. The repeated failure to report the income coupled with the failure by Mr. Tajbakhsh to disclose the activity to his accountant is grossly negligent.
+No Gross negligence on Benbow Capital Gain [119] The concealment of the rental activity led directly to the non-reporting of the capital gain. Mr. Georgeopoulos had no reason to think that the disposition of Benbow, which he thought was a personal residence, was a relevant tax issue. The linkages between the failure to report rental income and capital gain militate in favour of a gross negligence penalty. However, there are two countervailing factors:
+The capital gain was a one-off issue.Unlike the rental income, I have no evidence of repeated failures before or after Benbow to report capital gains; and
+The appellant prepared a statement showing a capital loss on Benbow.While the statement is wrong, the appellant does seem to have genuinely thought that he had no gain on Benbow.
+[120] By the narrowest of margins I find that the failure to report the capital gain on Benbow was negligent but not grossly negligent.
+Conclusion on penalties [121] I remain troubled and disappointed by the appellant. He does not strike me as dishonest, but I do find that at some point in the time leading up to the periods under appeal, he stopped relying on his accountant and began to think that compliance with his tax obligations was discretionary with some income to be properly computed and reported and other income, not so much. The result is that significant penalties remain attached to Mr. Tajbakhsh’s reassessments. It is a regrettable lapse for an otherwise accomplished and capable individual.
+Costs [122] The parties asked that I defer the issue of costs so that they could make submissions. I do so. I will include in the formal judgment a timetable for the exchange of costs submissions and limits on the length of those submissions.
+Signed this 8th day of December 2025.
+“Michael Ezri”
+Ezri J.
+Appendix 1: Benbow capital gain
+ACB
+Purchase price $2,375,000
+Land transfer tax $45,500
+Legal fees $2,729
+Renovation expenses $435,310
+Total cost $2,858,539
+PROCEEDS OF DISPOSITION
+Sale price $3,275,000
+Commission (-$96,740)
+Legal fees (-$2,062)
+Total proceeds $3,176,198
+CAPITAL GAIN $317,659
+Taxable cap gain $158,830
+50% allocation to spouse $79,415
+appellant's share of taxable capital gain $79,415
+CRA Reassessment $152,664
+RESULT: reassess to reduce by $73,249
+Benbow rental expense calculation
+2011
+2012
+Gross rents
+$96,000
+$40,000
+Mortgage interest
+-$39,703
+-$13,234
+Property tax
+-$10,797
+-$3,663
+Insurance
+-$2,676
+-$892
+Water
+-$1,585
+-$528
+Repairs
+-$453
+-$249
+Total expenses
+-$55,214
+-$18,566
+Net income
+$40,786
+$21,434
+Appellant 50% share
+$20,393
+$10,717
+Rental income reassessed
+$85,202
+$34,445
+Result: reassess to reduce by
+$64,809
+$23,728
+CITATION:
+2025 TCC 175
+COURT FILE NO.:
+2022-1036(GST)G, 2022-1037(IT)G, 2022-1038(IT)G
+STYLE OF CAUSE:
+AFDON CONTRACTING LTD. AFSHIN TAJBAKHSH AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Colombia
+DATE OF HEARING:
+September 2,3, and 4, 2025 and October 23 and 24, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Michael U. Ezri
+DATE OF JUDGMENT:
+December 8th, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Elizabeth Junkin
+Counsel for the Respondent:
+Karen Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Elizabeth Junkin
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The Canadian and US currencies traded near par for much of this period so I will not concern myself with currency conversions.
+[2] V. Krishna, Fundamentals of Canadian Income Tax, Vol 2, c. 7, s. III, intro and VI(A).
+[3] R v Stirling, [1985] 1 FC 342 (CA), para 3.
+[4] R v Kalwa, 2025 TCC 89, paras 28, and 34-35.
+[5] Hansen v R, 2020 TCC 102.
+[6] Wynter v R, 2017 FCA 195, paras 13 to 16.
+[7] Venne v R, [1984] C.T.C. 223, 84 D.T.C. 6247 (F.C.T.D.) at para 37.

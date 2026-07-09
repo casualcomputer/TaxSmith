@@ -1,0 +1,152 @@
+---
+title: "H.L.S. Lessard Électrique Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27494/index.do"
+last_modified: "2005-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 368"
+citation2: ""
+neutral_citation: "2005 TCC 368"
+decision_date: "2005-06-01"
+language: "en"
+item_id: "27494"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 52
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:40:47.112000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe48578bc2f8d78d127a26ac21aa70d0dda22a0e3bcece7ee2319672535993a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# H.L.S. Lessard Électrique Inc. v. The Queen
+
+- Citation: 2005 TCC 368
+- Decision date: 2005-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 52, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H.L.S. Lessard Électrique Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-01
+Neutral citation
+2005 TCC 368
+File numbers
+2004-3839(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3839(IT)I
+BETWEEN:
+H.L.S. LESSARD ÉLECTRIQUE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 17, 2005, at Québec, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Viviane Pépin
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 7th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC368
+Date: 20050601
+Docket: 2004-3839(IT)I
+BETWEEN:
+H.L.S. LESSARD ÉLECTRIQUE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal under the informal procedure.
+[2] The point for determination is whether certain amounts must be included in computing the Appellant's income and whether there was any intent to understate income within the meaning of subsection 163(2) of the Income Tax Act.
+[3] The reassessment was based on the inclusion of an amount of $45,000 in computing the Appellant's income for 2000. The events surrounding the addition of the $45,000 amount in computing the Appellant's income are described in subparagraphs 4(d) to (h) of the Reply to the Notice of Appeal (the "Reply") as follows:
+[TRANSLATION]
+...
+(d) the Minister audited the books and records of "H.LS Lessard Électrique Inc.", and the deposit method was used to audit revenues for the fiscal year ending March 31, 2000;
+(e) an adjusting entry was made on March 31, 2000, crediting the sum of $45,000 to the "Loans to directors" account and debiting the same amount from the "Construction Revenue" account;
+(f) the said adjusting entry was supported by a terse notation: "Non-taxable deposit";
+(g) the said adjusting entry was not supported by any documentation, and no explanation was provided to the Minister concerning the "Non-taxable deposit" notation;
+(h) the Minister analyzed the deposit slips of the corporation's bank account for the period from April 1, 1999, to March 31, 2000, and found no non-taxable deposits of $45,000 or any non-taxable deposits that might total the said amount;
+[4] At the hearing, the auditor from the Minister of National Revenue (the "Minister") explained that the underlying logic of the aforementioned entries might have been that one or more deposits totalling $45,000 had come from the director, which would explain why the debit from the "Construction Revenue" account and the crediting of a corresponding amount to the "Loans to directors" account were characterized as a "non-taxable deposit". However, as stated in subparagraph 4(h), there was no evidence of those deposits made by the shareholder.
+[5] At the hearing, the Appellant party, represented by Viviane Pépin, did not try to prove those deposits either. Ms. Pépin described herself as an accounting technician who kept the Appellant's books on a monthly basis, or more often if necessary.
+[6] The agent contended that outside accounting errors had been made and that the Appellant's income should be reduced by two amounts: $18,598.31, a payment from an insurance company, and $22,000, which was entered in the financial statements for work in progress.
+[7] Mr. Lessard, the president and owner of the Appellant, explained that, in 1992, the Appellant had won a subcontract for the installation of generators. As a result of defective work or human error, one of the generators had exploded before the Appellant had received full payment under its contract from the general contractor. Following extensive negotiations, the Appellant's lawyers obtained a certain amount from the insurance company. What was shown at the hearing was a deposit slip for an amount of $18,598.31 from those lawyers.
+[8] The accounting technician had recorded the amount of $18,598.31 under accounts receivable. Mr. Lessard said that the original claim had previously been taken into account and had not been deleted from accounts receivable because it had never been considered a bad debt.
+[9] The Appellant did not have the list of its accounts receivable for 2000. Furthermore, in adding the said amount to accounts receivable, the Appellant had come up with a negative amount of $16,492.36, which, according to the Minister's auditor is impossible and, according to him, tends to prove that the said amount was no longer in accounts receivable. The amount thus must have been entered under construction revenue, where the outside accountant's adjusting entry had put it.
+[10] As to the amount of $22,000 included in computing the Appellant's income for 2000 for work in progress, the president of the Appellant said that there was no such work in progress. However, he admitted that, in 2001, an adjusting entry had removed that amount of income from the financial statements. He contended, however, that only 2000 was in issue and that I should not be concerned with what happened in 2001. He also admitted reluctantly that one must provide proof of a certain amount of positive income in order to retain the right to an electrical contractor's licence. That fact was confirmed by the agent for the Appellant.
+[11] The Minister's auditor explained that that amount in fact had no impact. It was a temporary entry that was bound to be deleted the following year. That may be seen from Exhibits I‑1 and I‑2.
+Analysis and Conclusion
+[12] It would have been helpful to read the letter from the lawyers who sent the payment of the amount in order to determine its exact nature. That letter was not submitted, but I must conclude from Mr. Lessard's explanation that it was indeed payment of compensatory damages by an insurance company.
+[13] The case law rule is that an amount paid to replace an amount that would have been included in computing income shall be included in that computation. This is not a rule whose application was very clear. The rule has just been vastly clarified by the Supreme Court of Canada in Tsiaprailis v. Canada, 2005 D.T.C. 5125, and I cite portions of paragraphs 7 and 15 of the Reasons:
+[7] … As she explains, in assessing whether the monies will be taxable, we must look to the nature and purpose of the payment to determine what it is intended to replace. The inquiry is a factual one. The tax consequences of the damage or settlement payment is then determined according to this characterization. In other words, the tax treatment of the item will depend on what the amount is intended to replace. This approach is known as the surrogatum principle. …
+[15] The determinative questions are: (1) what was the payment intended to replace? And, if the answer to that question is sufficiently clear, (2) would the replaced amount have been taxable in the recipient's hands?
+[14] If the reason for not including the amount had been a doubt as to the obligation to include a compensatory amount received from an insurance company in computing income, the penalty might have been incorrectly assessed. However, the reason given for not including the amount was that the account receivable had never been written off. That statement was made without evidence. Furthermore, no document concerning the payment of that amount was filed.
+[15] As to the amount of $22,000 recorded for work in progress, counsel for the Respondent stated that the Appellant had elected to be taxed on work in progress for its own reasons. That was its choice. That amount was erased from the financial statements in 2001. It cannot also be deleted in 2000.
+[16] The agent for the Appellant blamed the accountant who had prepared the financial statements. In her view, he had made unauthorized entries and had made errors in his accounting.
+[17] The accountant did not come to testify in order to confirm that he in fact had made the non-taxable deposit entry in the amount of $45,000 or to explain why he had done so. The only reading of the evidence adduced is not at all conclusive on this point.
+[18] In view of the lack of valid evidence to the contrary and of the Appellant's divergent explanations concerning the non-inclusion of the amount of $45,000, I can only conclude that the incorrect entry was made at the request of the sole director of the Appellant.
+[19] The appeal is accordingly dismissed.
+Signed at Ottawa, Canada, this 1st day of June 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 7th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC369
+COURT FILE NO.: 2004-3839(IT)I
+STYLE OF CAUSE: H.L.S. Lessard Électrique Inc. and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: May 17, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: June 1, 2005
+APPEARANCES:
+Agent for the Appellant:
+Viviane Pépin
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

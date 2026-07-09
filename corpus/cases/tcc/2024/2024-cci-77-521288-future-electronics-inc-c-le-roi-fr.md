@@ -1,0 +1,349 @@
+---
+title: "Future Electronics Inc. c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521288/index.do"
+last_modified: "2024-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 77"
+citation2: ""
+neutral_citation: "2024 CCI 77"
+decision_date: "2024-05-28"
+language: "fr"
+item_id: "521288"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5504
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-04-03T09:01:29.155000+00:00"
+cases_cited_count: 15
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "52ac9eb0c8a9928212a77fb7c9c0efcf78cb0497511a6654dcba5e4bdff939c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Future Electronics Inc. c. Le Roi
+
+- Citation: 2024 CCI 77
+- Decision date: 2024-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5504, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Future Electronics Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-28
+Référence neutre
+2024 CCI 77
+Numéro de dossier
+2021-1171(GST)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2021-1171(GST)G
+ENTRE :
+FUTURE ELECTRONICS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête entendue les 24, 25, 26 janvier 2023, à Montréal (Québec).
+Requête modifiée entendue les 15 et 24 février 2023, à Ottawa (Ontario).
+Requête modifiée déposée le 13 novembre 2023, à Montréal (Québec).
+Observations écrites déposées le 29 septembre et le 13 novembre 2023.
+Observations entendues à l’audience les 12, 13 et 14 février 2024, à Montréal (Québec).
+Devant : L'honorable juge Sylvain Ouimet
+Comparutions :
+Avocats de l’appelante :
+Me Dominic C. Belley
+Me Jonathan Lafrance
+Me Mareine Gervais-Cloutier
+Me Juliana Succès
+Avocats de l'intimé :
+Me Huseyin Akyol
+Me Vasil Naydenov
+ORDONNANCE
+Conformément aux motifs ci-joints, la Cour ordonne ce qui suit :
+ACCUEILLE la requête Future Electronics afin que l’ordonnance de confidentialité permanente soit rendue;
+ORDONNE que l’ordonnance intérimaire de confidentialité soit remplacée par la présente ordonnance de confidentialité permanente;
+ORDONNE que les notes sténographiques originales de l’audience soient conservées au dossier de la Cour, accompagnées d’une copie de cette ordonnance, pour n’être accessibles qu’à la Cour et à son personnel, aux parties et à leurs procureurs, et à l’Agence du revenu du Québec;
+ORDONNE que la copie des notes sténographiques, dont les renseignements décrits à l’annexe A ont été caviardés par les parties, et qui a été déposée au dossier de la Cour le 14 novembre 2023 pour les journées d’audience des 24 et 26 janvier 2023, et le 27 novembre 2023 pour la journée d’audience du 25 janvier 2023, soit accessible aux personnes autres que celles mentionnées précédemment;
+ORDONNE que, si une personne autre que les parties, leurs procureurs et l’Agence du revenu du Québec mandate un sténographe pour produire la transcription sténographique de l’audience, les renseignements confidentiels décrits à l’annexe A soient caviardés par le sténographe officiel mandaté pour produire la transcription;
+ENJOINT au greffier de la Cour et à tout sténographe officiel de prendre toutes les mesures appropriées afin que la présente ordonnance soit respectée;
+LE TOUT sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de mai 2024.
+« Sylvain Ouimet »
+Juge Ouimet
+Référence : 2024 CCI 77
+Date : 20240528
+Dossier : 2021-1171(GST)G
+ENTRE :
+FUTURE ELECTRONICS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Le juge Ouimet
+I. INTRODUCTION [1] Le 24 janvier 2023, lors du procès et en application de l’article 16.1 des Règles de la Cour canadienne de l’impôt (procédure générale)[1] (les « Règles »), Future Electronics Inc. (« Future Electronics ») a présenté une requête afin d’obtenir une ordonnance permanente de confidentialité. La requête initiale visait à obtenir la mise sous scellé de certains documents consignés au dossier de la Cour afin qu'ils soient tenus confidentiels et aussi le caviardage de certains renseignements contenus dans le témoignage de M. Steven Adams (« M. Adams ») et consignés dans les notes sténographiques du procès afin de les tenir confidentiels.
+[2] Au début du procès, la Cour a rendu oralement une ordonnance intérimaire de confidentialité. En vertu de cette ordonnance, le contenu entier du dossier de la Cour a été mis sous scellé temporairement à l’exclusion des actes de procédure. L’ordonnance temporaire est demeurée en vigueur jusqu’à ce que la Cour puisse être en mesure de rendre une ordonnance permanente, ce qui est fait habituellement pour des raisons pratiques après la fin du procès. C’est ce qui a été fait en l’espèce.
+[3] Le 10 février 2023, dans le cadre d’une téléconférence, Future Electronics a modifié sa requête afin d’en réduire la portée. Selon la requête, Future Electronics demandait uniquement que certains renseignements consignés dans les notes sténographiques du procès provenant du témoignage de M. Adams soient tenus confidentiels. La présentation de la requête s’est poursuivie lors d’une deuxième téléconférence qui a eu lieu le 15 février 2023.
+[4] Le 23 février 2023, lors d’une troisième téléconférence, Future Electronics a modifié à nouveau sa requête afin d’en réduire à nouveau la portée. Future Electronics a demandé à la Cour de rendre une ordonnance permanente de confidentialité afin que soient tenus confidentiels certains renseignements consignés dans les notes sténographiques du procès. Ces renseignements sont les suivants :
+Le nom de ses fournisseurs et clients;
+Les renseignements concernant son modèle d’affaires ainsi que ceux concernant ses partenariats commerciaux; et
+Les adresses personnelles de trois témoins ayant témoigné lors du procès.[2]
+À cette fin, Future Electronics a demandé que les extraits des notes sténographiques du procès dans lesquels ces renseignements sont consignés soient caviardés.
+[5] Le 21 avril 2023, à la demande de la Cour, Future Electronics lui a transmis une copie des extraits des notes sténographiques du procès dans lesquels les renseignements décrits au paragraphe 4 ci-dessus ont été caviardés.
+[6] Le 31 août 2023, la Cour a demandé aux parties de lui transmettre des observations écrites relativement à la requête. La Cour a aussi demandé à Future Electronics de réviser le caviardage des extraits des notes sténographiques du procès lui ayant été transmises le 21 avril 2023, car celui-ci semblait inadéquat compte tenu des observations faites le 23 février 2023.
+[7] Le 29 septembre 2023, Future Electronics a transmis à la Cour ses observations écrites. Dans celles-ci, Future Electronics soutient ce qui suit :
+-La question en litige dans l’appel consiste à déterminer la cotisation en matière de TPS du ministre du Revenu national établie relativement à l’exploitation de la cafétéria du siège social de Future Electronics était bien fondée. Plus précisément, il s’agissait de déterminer si les employés recevaient un avantage imposable lorsqu’ils utilisaient la cafétéria;
+-Selon Future Electronics, aucun avantage n'est conféré à ses employés relativement à leur utilisation de la cafétéria de son siège social;
+-Le ministre du Revenu national a erronément établi des cotisations de TPS relativement à ce qu’il prétend être un avantage en lien avec la cafétéria pour les motifs suivants;
+L’absence d’un écart marqué entre les prix des repas offerts à la cafétéria et les repas comparables offerts à l’extérieur de la cafétéria;
+La position névralgique qu’occupe la cafétéria dans son modèle d’affaires et dans son rendement financier. Afin d’être en mesure de promouvoir sa théorie de la cause, Future Electronics doit mettre en preuve certains éléments centraux de son modèle d’affaires ainsi que de ses stratégies commerciales, incluant le nom de certains fournisseurs et clients. Selon Future Electronics, ces renseignements sont confidentiels. De plus, dans un marché international extrêmement compétitif, Future Electronics protège jalousement et légitimement ces renseignements;
+Si ces renseignements étaient révélés au public (et donc, accessibles à ses compétiteurs) dans le cadre du procès, Future Electronics subirait un préjudice sérieux.
+[8] Le 29 septembre 2023, Future Electronics a transmis à la Cour une nouvelle copie d’extraits des notes sténographiques du procès avec le caviardage proposé.
+[9] Le 6 octobre 2023, Sa Majesté Le Roi (« SMLR ») a transmis à la Cour ses observations écrites. Dans celles-ci, SMLR soutient ce qui suit :
+Dans ses observations écrites, Future Electronics ne mentionne pas le ou les motifs pour lesquels les adresses personnelles des témoins devraient être tenues confidentielles;
+Future Electronics a caviardé le nom de l’entreprise pour laquelle un des témoins a travaillé au cours des années 1986 et 1987. Future Electronics n’a pas demandé à ce que ce renseignement soit tenu confidentiel dans sa requête;
+Future Electronics n’a pas évoqué le droit applicable en matière d’ordonnance de confidentialité relativement aux noms et adresses des témoins.
+[10] Le 13 octobre 2023, la Cour a conclu que les observations de Future Electronics faites le 29 septembre 2023 étaient inadéquates. La Cour a demandé à Future Electronics de modifier sa requête afin de traiter des points suivants :
+Le ou les motifs pour lesquels les adresses personnelles des témoins ayant témoigné lors du procès devraient être tenues confidentielles;
+Le ou les motifs pour lesquels l’article 16.1 des Règles peut être invoqué au soutien de sa requête étant donné que celle-ci porte sur les extraits des notes sténographiques du procès uniquement;
+De plus, la Cour a demandé à Future Electronics de lui transmettre une nouvelle copie des extraits des notes sténographiques du procès avec le caviardage proposé afin de tenir compte des directives de la Cour.
+[11] Le 13 novembre 2023, Future Electronics a soumis à la Cour une requête modifiée, de nouvelles observations écrites ainsi qu’une nouvelle copie des extraits de notes sténographiques du procès caviardées. Dans sa requête, Future Electronics a demandé à la Cour de rendre une ordonnance de confidentialité permanente afin que les renseignements suivants soient tenus confidentiels :
+Les noms de ses fournisseurs et clients mentionnés lors du procès les 24, 25 et 26 janvier 2023;
+Les renseignements concernant les éléments centraux de son modèle d’affaires et de ses décisions stratégiques mentionnées lors du procès les 24, 25 et 26 janvier 2023.
+[12] Le 24 novembre 2023, SMLR a transmis à la Cour de nouvelles observations écrites. SMLR a fait remarquer que la nouvelle copie des extraits de notes sténographiques du procès ayant été transmise par Future Electronics incluait certains caviardages ayant trait au nom de l’entreprise pour laquelle un des témoins a travaillé au cours des années 1986 et 1987. Le nom de cette même entreprise a aussi été caviardé sans raison à un autre endroit dans les notes.
+[13] Le 27 novembre 2023, par suite des observations de SMLR, Future Electronics a informé la Cour qu’elle avait commis une erreur et qu’une version précédente des notes sténographiques lui a été envoyée. Ultérieurement, la Cour a reçu une nouvelle version des notes sténographiques caviardées qui respectait ses directives.
+II. QUESTION EN LITIGE [14] La question en litige est la suivante :
+-Est-ce que les renseignements décrits ci-dessous doivent être tenus confidentiels et par conséquent faire l’objet d’une ordonnance de confidentialité permanente:
+Les noms des fournisseurs et clients de Future Electronics mentionnés lors du procès les 24, 25 et 26 janvier 2023;
+Les renseignements concernant les éléments centraux du modèle d’affaires et des décisions stratégiques de Future Electronics mentionnées lors du procès les 24, 25 et 26 janvier 2023.
+[15] Afin de répondre à cette question, la Cour devra répondre aux questions suivantes :
+Est-ce que rendre ces renseignements publics pose un risque sérieux à un intérêt public important ?
+Est-ce que l’ordonnance demandée est nécessaire afin d’écarter un risque sérieux à l’intérêt ou aux intérêts publics invoqués par Future Electronics étant donné que d’autres mesures raisonnables ne permettront pas d’écarter ce risque ?
+Est-ce que, du point de vue de la proportionnalité, les avantages de l’ordonnance sollicitée l’emportent sur ses effets négatifs ?
+III. DISCUSSION A. Quel est l’article des Règles applicable afin d’obtenir une ordonnance de confidentialité lorsque l’information qu’une partie cherche à tenir confidentielle est consignée dans les notes sténographiques du procès
+[16] Selon l’article 16.1 des Règles, à la suite du dépôt d’une requête, la Cour peut ordonner qu’une partie d’un document soit traitée comme confidentielle. L’article 16.1 des Règles se lit comme suit :
+Ordonnance de confidentialité
+16.1 (1) La Cour peut, sur requête, ordonner que tout ou partie d’un document soit considéré comme confidentiel au moment de son dépôt et elle en fixe les conditions de reproduction, de destruction et de non-divulgation.
+(2) Dans le cas où la Cour rend une telle ordonnance, une partie ou un avocat inscrit au dossier ne peut avoir accès à tout ou partie du document confidentiel qu’aux conditions établies par la Cour quant à la reproduction, la destruction et la non-divulgation
+(3) L’ordonnance demeure en vigueur jusqu’à ce que la Cour en décide autrement.
+[17] En l’espèce, dans sa requête, Future Electronics demande à la Cour de rendre une ordonnance permanente de confidentialité afin que certains renseignements consignés dans les notes sténographiques du procès soient tenus confidentiels. Quoique les notes sténographiques sont consignées par écrit, donc dans un document, les renseignements qui font l’objet de la requête émanent du témoignage de M. Adams.[3] Compte tenu de ce fait, a priori, la Cour est d’avis que l’article 16.1 des Règles ne s’applique pas en l’espèce parce que le témoignage de M. Adams n’est pas un document déposé en preuve lors du procès et que, de l’avis de la Cour, l’article 16.1 vise les documents déposés en preuve lors d’un procès.
+[18] Cela dit, l’article 4 des Règles dispose qu’un pouvoir discrétionnaire est accordé aux juges de cette Cour leur permettant de donner une interprétation large aux Règles et de déterminer la pratique qu’ils jugent adéquate en cas de silence de celles-ci. L’article 4 des Règles se lit comme suit :
+Interprétation
+4 (1) Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+(2) En cas de silence des présentes règles, la pratique applicable est déterminée par la Cour, soit sur une requête sollicitant des directives, soit après le fait en l’absence d’une telle requête.
+[19] Compte tenu du libellé de l’article 4 des Règles, et puisque l’article 16.1 des Règles ne traite pas spécifiquement de la façon d’obtenir une ordonnance de confidentialité relativement aux notes sténographiques, la Cour est d’avis qu’elle doit élargir la portée de l’article 16.1 afin de le rendre applicable. La Cour est d’avis qu’il s’agit de la façon la plus simple de combler ce vide procédural.
+[20] La Cour conclut que la portée de l’article 16.1 des Règles doit être élargie afin de le rendre applicable aux notes sténographiques. Par conséquent, la Cour conclut que Future Electronics a utilisé le bon véhicule procédural puisque sa requête a été faite en application de l’article 16.1 des Règles.
+B. Requête afin d’obtenir une ordonnance de confidentialité
+(1) Principe : Les procédures judiciaires sont publiques [21] En principe, le public peut assister aux audiences et consulter les dossiers judiciaires. La presse est elle aussi libre de s’enquérir et de commenter le fonctionnement des tribunaux[4]. Afin d’obtenir la permission de passer outre ce principe, une partie doit s’acquitter d’un fardeau de preuve exigeant[5]. L’accès du public aux audiences sera interdit seulement si la divulgation de la preuve entraînerait véritablement un préjudice à des intérêts importants et que la préservation de la bonne administration de la justice s’en trouverait brimée.[6]
+[22] Dans l’arrêt Canada (Citoyenneté et Immigration) c Harkat,[7] la Cour suprême du Canada a dit que le principe de la publicité des débats judiciaires est une caractéristique fondamentale d’une société démocratique. C’est pourquoi, selon elle, le critère applicable en l’espèce est si strict et nécessite une réelle attention menant à un exercice du pouvoir discrétionnaire de nature délicate[8]. La Cour suprême du Canada a reconnu à de nombreuses reprises que le principe de la publicité des débats judiciaires est protégé par le droit à la liberté d'expression, inscrit dans la Constitution.[9]
+[23] Dans l’arrêt Sherman (Succession) c Donovan[10], la Cour suprême du Canada a dit ce qui suit à ce sujet :
+La publicité des débats judiciaires, qui est protégée par la garantie constitutionnelle de la liberté d'expression, est essentielle au bon fonctionnement de notre démocratie (Société Radio-Canada c. Nouveau-Brunswick (Procureur général), [1996] 3 R.C.S. 480, par. 23; Vancouver Sun (Re), 2004 CSC 43, [2004] 2 R.C.S. 332, par. 23-26). On dit souvent de la liberté de la presse de rendre compte des procédures judiciaires qu'elle est indissociable du principe de publicité. [TRADUCTION] « En rendant compte de ce qui a été dit et fait dans un procès public, les médias sont les yeux et les oreilles d'un public plus large qui aurait parfaitement le droit d'y assister, mais qui, pour des raisons purement pratiques, ne peut le faire » (Khuja c. Times Newspapers Ltd., [2017] UKSC 49, [2019] A.C. 161, par. 16, citant Edmonton Journal c. Alberta (Procureur général), [1989] 2 R.C.S. 1326, p. 1339-1340, le juge Cory). Le pouvoir d'imposer des limites à la publicité des débats judiciaires afin de servir d'autres intérêts publics est reconnu, mais il doit être exercé avec modération et en veillant toujours à maintenir la forte présomption selon laquelle la justice doit être rendue au vu et au su du public (Dagenais c. Société Radio-Canada, [1994] 3 R.C.S. 835, p. 878; R. c. Mentuck, 2001 CSC 76, par. 32-39; Sierra Club, par. 56). Le test des limites discrétionnaires à la publicité des débats judiciaires vise à maintenir cette présomption tout en offrant suffisamment de souplesse aux tribunaux pour leur permettre de protéger ces autres intérêts publics lorsqu'ils entrent en jeu (Mentuck, par. 33). Les parties conviennent qu'il s'agit du cadre d'analyse approprié à appliquer pour trancher le présent pourvoi.[11]
+[24] Par conséquent, l’exercice du pouvoir discrétionnaire des tribunaux de restreindre la publicité des débats judiciaires au moyen d’une ordonnance de confidentialité doit être utilisé avec prudence et modération afin de veiller à maintenir la forte présomption selon laquelle la justice doit être rendue au vu et au su du public.
+(2) Exception au principe de la publicité des procédures judiciaires – Les conditions devant être remplies pour que tout type de renseignement puisse être tenu confidentiel [25] Une personne peut demander à la Cour d’admettre une exception au principe de la publicité des débats judiciaires et de tenir certains renseignements confidentiels.
+[26] Dans l’arrêt Sherman, la Cour suprême du Canada a réexaminé les critères qu’elle avait elle-même précédemment établis dans l’arrêt Sierra Club c Canada (Ministre des Finances)[12] relativement à l’exercice du pouvoir discrétionnaire d’un tribunal en lien avec la publicité des débats judiciaires.
+[27] Selon la Cour suprême du Canada, une personne qui demande à un tribunal d’exercer son pouvoir discrétionnaire de façon à limiter la présomption de publicité des procédures judiciaires et de rendre une ordonnance de confidentialité à cette fin doit établir ce qui suit :
+La publicité des débats judiciaires pose un risque sérieux pour un intérêt public important;
+L’ordonnance sollicitée est nécessaire pour écarter ce risque sérieux pour l’intérêt mis en évidence, puisque d’autres mesures raisonnables ne permettront pas d’écarter ce risque; et
+Du point de vue de la proportionnalité, les avantages de l’ordonnance sollicitée l’emportent sur ses effets négatifs.[13]
+[28] Ce n'est que lorsque ces trois conditions préalables sont remplies qu'une ordonnance discrétionnaire ayant pour effet de limiter la publicité des débats judiciaires, soit par une ordonnance de mise sous scellés, une interdiction de publication, une ordonnance excluant le public d'une audience ou une ordonnance de caviardage, pourra être rendue.[14]
+[29] Par conséquent, afin de rendre l’ordonnance de confidentialité, la Cour doit appliquer un test en vertu duquel elle doit répondre aux questions suivantes :
+Est-ce que la publicité des débats judiciaires pose un risque sérieux pour un intérêt public important ?
+Dans l’affirmative, est-ce que l’ordonnance demandée est nécessaire afin d’écarter ce risque sérieux pour l’intérêt mis en évidence, puisque d’autres mesures raisonnables ne permettront pas d’écarter ce risque ?
+Dans l’affirmative, est-ce que du point de vue de la proportionnalité, les avantages de l’ordonnance sollicitée l’emportent sur ses effets négatifs ?
+[30] Ces trois questions doivent être examinées consécutivement. Ce n’est que lorsque la Cour répond à chacune d’entre elles par l’affirmative que l’ordonnance de confidentialité demandée peut être rendue.
+(a) Est-ce que la publicité des débats judiciaires pose un risque sérieux pour un intérêt public important ?
+[31] Dans l’arrêt Sherman, la Cour suprême du Canada a réitéré qu'il n'y avait aucune liste exhaustive des intérêts publics importants. La détermination de ce qu'est un intérêt public important peut se faire dans l'abstrait sur le plan des principes généraux qui vont au-delà des parties à un litige donné. Le passage pertinent de l’arrêt se lit comme suit :
+42 Bien qu'il n'y ait aucune liste exhaustive des intérêts publics importants pour l'application de ce test, je partage l'opinion du juge Iacobucci, exprimée dans Sierra Club, selon laquelle les tribunaux doivent faire preuve de « prudence » et « avoir pleinement conscience de l’importance fondamentale de la règle de la publicité des débats judiciaires », même à la toute première étape lorsqu’ils constatent les intérêts publics importants (par. 56). Déterminer ce qu'est un intérêt public important peut se faire dans l'abstrait sur le plan des principes généraux qui vont au-delà des parties à un litige donné (par. 55).[15]
+[32] Dans ce même arrêt, la Cour suprême du Canada a précisé que la conclusion sur la question de savoir si un « risque sérieux » menace un intérêt public important est une conclusion factuelle qui doit être tirée eu égard au contexte. Le juge doit premièrement identifier un intérêt important et deuxièmement déterminer le caractère sérieux du risque auquel cet intérêt est exposé. Le passage pertinent de l’arrêt est le suivant :
+(…) En revanche, la conclusion sur la question de savoir si un « risque sérieux » menace cet intérêt est une conclusion factuelle qui, pour le juge qui examine le caractère approprié d'une ordonnance, est nécessairement prise eu égard au contexte. En ce sens, le fait de constater, d'une part, un intérêt important et celui de constater, d'autre part, le caractère sérieux du risque auquel cet intérêt est exposé sont, en théorie du moins, des opérations séparées et qualitativement distinctes. Une ordonnance peut donc être refusée du simple fait qu'un intérêt public important valide n'est pas sérieusement menacé au vu des faits de l'affaire ou, à l'inverse, parce que les intérêts constatés, qu'ils soient ou non sérieusement menacés, ne présentent pas le caractère public important requis sur le plan des principes généraux.[16]
+[33] Quant au risque en cause, il doit être réel et important et la preuve doit permettre au juge de conclure qu’il menace gravement l'intérêt.[17] La détermination de l’importance du préjudice, ou du « risque sérieux » qui menace l’intérêt public est une détermination de fait qui dépend nécessairement du contexte.[18]
+[34] À noter que les risques purement personnels, tels qu'une publicité médiatique défavorable, une atteinte à la réputation personnelle, de l'embarras ou un préjudice économique éventuel ne sont pas suffisants pour écarter le principe de la publicité des débats judiciaires.[19]
+(b) Est-ce que l’ordonnance demandée est nécessaire afin d’écarter le risque sérieux de l’intérêt public important mis en évidence, puisque d’autres mesures raisonnables ne permettront pas d’écarter ce risque ?
+[35] Telle qu’établie dans l’arrêt Sierra Club et réitérée dans l’arrêt Sherman, la nécessité de l’ordonnance doit être évaluée de façon à envisager l’existence d’autres mesures que l’ordonnance demandée et oblige le juge à restreindre l’ordonnance autant qu’il est raisonnablement possible pour écarter le risque sérieux, tout en protégeant l’intérêt public important.[20]
+[36] Les tribunaux ont reconnu à plusieurs occasions que les autres mesures raisonnables peuvent inclure le caviardage, l’interdiction de publication, la mise sous scellés et le huis clos.[21]
+(c) Est-ce que, du point de vue de la proportionnalité, les avantages de l’ordonnance sollicitée l’emportent sur ses effets négatifs ?
+[37] Lorsque les tribunaux doivent déterminer si, du point de vue de la proportionnalité, les avantages de l’ordonnance sollicitée l’emportent sur ses effets négatifs, il est aussi pertinent de se demander si les renseignements que l’ordonnance sollicitée vise à protéger sont accessoires ou essentiels au processus judiciaire.
+[38] Dans l’arrêt Sierra Club, la Cour suprême du Canada a dit ce qui suit à propos de la notion de proportionnalité dans ce contexte:
+Comme on le mentionne plus haut, à cette étape, les effets bénéfiques de l’ordonnance de confidentialité, y compris ses effets sur le droit de l’appelante à un procès équitable, doivent être pondérés avec ses effets préjudiciables, y compris ses effets sur le droit à la liberté d’expression, qui à son tour est lié au principe de la publicité des débats judiciaires. Cette pondération déterminera finalement s’il y a lieu d’accorder l’ordonnance de confidentialité.[22]
+[39] Quant aux effets préjudiciables, plus particulièrement sur le droit à la liberté d’expression, dans le même arrêt, la Cour suprême du Canada a mentionné ce qui suit :
+Une ordonnance de confidentialité aurait un effet préjudiciable sur le principe de la publicité des débats judiciaires, puisqu’elle priverait le public de l’accès au contenu des documents confidentiels. Comme on le dit plus haut, le principe de la publicité des débats judiciaires est inextricablement lié au droit à la liberté d’expression protégé par l’al. 2b) de la Charte, et la vigilance du public envers les tribunaux est un aspect fondamental de l’administration de la justice : Nouveau‑Brunswick, précité, par. 22‑23. Même si, à titre de principe général, l’importance de la publicité des débats judiciaires ne peut être sous‑estimée, il faut examiner, dans le contexte de l’espèce, les effets préjudiciables particuliers que l’ordonnance de confidentialité aurait sur la liberté d’expression.[23]
+[40] Afin d’aider les tribunaux à déterminer l’impact d’une ordonnance de confidentialité sur le droit à la liberté d’expression, la Cour suprême du Canada a énuméré les valeurs fondamentales sous-tendant la liberté d’expression, qui sont les suivantes :
+-La recherche de la vérité et du bien commun;
+-L’épanouissement personnel par le libre développement des pensées et des idées; et
+-la participation de tous au processus politique.[24]
+C. La requête de Future Electronics
+[41] Afin de pouvoir obtenir l’ordonnance désirée, Future Electronics devait démontrer que la divulgation des renseignements commerciaux qu’elle veut tenir confidentiels pose un risque sérieux pour un intérêt public important. Future Electronics devait donc identifier le ou les intérêts publics importants qui sont pertinents en l’espèce et démontrer qu’il existe un risque sérieux pour l’un ou plusieurs d’entre eux.
+[42] Un intérêt commercial peut être qualifié d’intérêt public important, mais uniquement dans certaines circonstances. Dans l’arrêt Sierra Club, la Cour suprême du Canada a dit que, pour être qualifié d’« intérêt commercial important », un intérêt ne doit pas se rapporter uniquement et spécifiquement à la partie qui demande l’ordonnance de confidentialité; il doit s’agir d’un intérêt qui peut se définir en termes d’intérêt public à la confidentialité. La Cour suprême du Canada a donné l’exemple d’une entreprise privée qui ne peut simplement prétendre que l’existence d’un contrat ne devrait pas être divulguée parce que cela lui ferait perdre des occasions d’affaires, et que cela nuirait à ses intérêts commerciaux. Si, toutefois, la divulgation de renseignements entraînerait un manquement à une entente de non-divulgation, on peut alors parler plus largement de l'intérêt commercial général dans la protection des renseignements confidentiels. Le passage pertinent de l’arrêt se lit comme suit :
+55 De plus, l'expression "intérêt commercial important" exige une clarification. Pour être qualifié d'"intérêt commercial important", l'intérêt en question ne doit pas se rapporter uniquement et spécifiquement à la partie qui demande l'ordonnance de confidentialité; il doit s'agir d'un intérêt qui peut se définir en termes d'intérêt public à la confidentialité. Par exemple, une entreprise privée ne pourrait simplement prétendre que l'existence d'un contrat donné ne devrait pas être divulguée parce que cela lui ferait perdre des occasions d'affaires, et que cela nuirait à ses intérêts commerciaux. Si toutefois, comme en l'espèce, la divulgation de renseignements doit entraîner un manquement à une entente de non-divulgation, on peut alors parler plus largement de l'intérêt commercial général dans la protection des renseignements confidentiels. Simplement, si aucun principe général n'entre en jeu, il ne peut y avoir d'" intérêt commercial important" pour les besoins de l'analyse. Ou, pour citer le juge Binnie dans F.N. (Re), [2000] 1 R.C.S. 880, 2000 CSC 35, par. 10, la règle de la publicité des débats judiciaires ne cède le pas que "dans les cas où le droit du public à la confidentialité l'emporte sur le droit du public à l'accessibilité" (je souligne).[25]
+[43] Dans un tel cas, selon la Cour suprême du Canada, on peut alors parler d’un intérêt commercial général dans la protection des renseignements confidentiels.[26] Par conséquent, on peut conclure que la divulgation d’information protégée par une entente de non‑divulgation est un « intérêt commercial important » et donc un intérêt public important.[27]
+[44] Dans l’arrêt Sherman, la Cour suprême du Canada a ajouté que le préjudice causé à un intérêt commercial particulier n’est pas suffisant pour le qualifier d’intérêt public important. À l’inverse, un intérêt commercial général dans la protection des renseignements confidentiels constituerait un intérêt important en raison de son caractère public.[28]
+[45] De plus, selon la Cour suprême du Canada, les tribunaux doivent déterminer avec prudence ce qui constitue un « intérêt commercial important ». Une ordonnance de confidentialité suggère une atteinte à la liberté d'expression et que, même si la pondération de l'intérêt commercial et de la liberté d'expression intervient à la deuxième étape de l'analyse, les tribunaux doivent avoir pleinement conscience de l'importance fondamentale de la règle de la publicité des débats judiciaires.[29]
+[46] Dans la décision Shell Canada Limited c La Reine[30], notre Cour a identifié cinq intérêts commerciaux importants qui sont des intérêts publics importants et par conséquent pouvant être protégés.[31] Ces intérêts sont les suivants :
+-L’intérêt commercial général dans la protection des renseignements confidentiels[32];
+-L’intérêt public général dans la protection du droit à un procès équitable, également décrit comme l’intérêt public de permettre aux « plaideurs commerciaux de faire valoir leurs droits, sans qu’ils s’exposent eux-mêmes au risque réel de préjudice »[33];
+-L’intérêt public qu’un plaideur, lorsqu’il est tenu, par les règles de l’interrogatoire préalable, de divulguer des renseignements de nature délicate et confidentielle, peut maintenir la confidentialité de ces renseignements[34];
+-L’intérêt public à la promotion de la certitude commerciale et à la protection des renseignements exclusifs[35]; et
+-L’intérêt public dans la protection de la concurrence loyale[36].
+[47] Selon notre Cour, il ne s’agit pas d’une liste exhaustive. Il s’agit d’intérêts publics importants en lien avec des activités commerciales ou entrepreneuriales[37]. De plus, tel que mentionné dans Shell, il existe des similitudes ou un chevauchement entre certains des intérêts commerciaux important énumérés ci-dessus[38]. J’ai tout de même décidé d’organiser la discussion en les traitant un par un. Les intérêts publics importants invoqués par Future Electronics font tous partie de cette énumération.
+[48] Dans le cas qui nous occupe, la Cour doit donc tout d’abord déterminer si la divulgation des noms des fournisseurs et des clients de Future Electronics et/ou des renseignements en lien avec ses stratégies commerciales pose un risque sérieux à un des intérêts publics importants énumérés ci-dessus ou à un autre intérêt public important (car la liste ci-dessus n’est pas exhaustive) qu’il est nécessaire de protéger dans le cadre d’activités commerciales. À cette fin, la Cour examinera les intérêts publics importants invoqués par Future Electronics dans ses observations et déterminera si la divulgation des renseignements devant être tenus confidentiels selon Future Electronics pose un risque sérieux pour un ou plusieurs d’entre eux.
+(1) Est-ce que la publicité des débats judiciaires pose un risque sérieux pour un intérêt public important ? (a) L’intérêt commercial général dans la protection des renseignements confidentiels
+[49] Dans l’arrêt Sierra Club, la Cour suprême du Canada a dit que la préservation de renseignements confidentiels sera un intérêt commercial suffisamment important, et donc un intérêt public important, dans certaines circonstances.[39] Les conditions énoncées par la Cour suprême du Canada ont été établies comme suit :
+60 (…) Pour l'obtenir, le requérant doit démontrer que les renseignements en question ont toujours été traités comme des renseignements confidentiels et que, selon la prépondérance des probabilités, il est raisonnable de penser que leur divulgation risquerait de compromettre ses droits exclusifs, commerciaux et scientifiques : AB Hassle c. Canada (Ministre de la Santé nationale et du Bien-être social), [1998] A.C.F. no 1850 (QL) (C.F. 1re inst.), par. 29-30. J'ajouterais à cela l'exigence proposée par le juge Robertson que les renseignements soient "de nature confidentielle" en ce qu'ils ont été "recueillis dans l'expectative raisonnable qu'ils resteront confidentiels", par opposition à "des faits qu'une partie à un litige voudrait garder confidentiels en obtenant le huis clos" (par. 14).[40]
+[50] Par conséquent, selon ce qui précède, afin d’obtenir l’ordonnance de confidentialité désirée, Future Electronics doit démontrer que :
+1-Les noms de ses fournisseurs et de ses clients ainsi que les renseignements concernant ses stratégies commerciales ont toujours été considérés et traités comme étant confidentiels, et qu’ils sont donc de nature confidentielle;
+2-Selon la prépondérance des probabilités, il est raisonnable de penser que leur divulgation risquerait de compromettre ses droits exclusifs et commerciaux.[41]
+[51] Selon le témoignage de M. Adams, les noms des fournisseurs et des clients de Future Electronics, ainsi que les renseignements concernant ses stratégies commerciales, ont toujours été considérés et traités comme étant confidentiels par l’entreprise et par ses employés. Selon M. Adams, il s’agit de renseignements vitaux et centraux à son modèle d’affaires et ils procurent à Future Electronics un avantage concurrentiel. Future Electronics est une société privée qui est réputée être le quatrième distributeur de pièces électroniques au monde. Ses compétiteurs sont des sociétés publiques qui s’interrogent sur son modèle d’affaires et ils se demandent pourquoi elle réussit si bien. C’est pourquoi Future Electronics, comme société privée, porte une attention particulière aux informations pouvant devenir publiques. M. Adams a aussi mentionné qu’il est impossible de savoir si certains fournisseurs et clients sont d’accord pour que leurs liens avec Future Electronics soient divulgués à d’autres fournisseurs et clients.
+[52] Selon M. Adams, si ces renseignements devaient devenir publics, Future Electronics pourrait perdre ses droits de franchise avec ses fournisseurs et pourrait lui faire perdre des revenus, ce qui nuirait à sa compétitivité et donc irait à l’encontre de ses intérêts commerciaux. Dans une telle situation, lorsqu’elle perd une franchise d’un fournisseur, Future Electronics ne peut plus acheter le produit de ce fournisseur. M. Adams a aussi dit qu’il est probable que certains des fournisseurs de Future Electronics fassent affaire avec ses compétiteurs à qui elle vend leurs produits à des prix différents. Si les noms des fournisseurs étaient connus, ceci pourrait amener des tiers à soulever de questions au sujet de leurs prix de vente, ce qui aurait potentiellement des répercussions négatives sur ses relations d’affaires ainsi que sur les prix qu’elle paie pour certains biens, ce qui, par conséquent, pourrait avoir un impact sur sa compétitivité et irait de ce fait à l’encontre de ses intérêts commerciaux.
+[53] Compte tenu des explications fournies par M. Adams lors de son témoignage, la Cour est d’avis que, selon la prépondérance des probabilités, les renseignements concernant les stratégies commerciales de Future Electronics devaient et ont été traités comme étant confidentiels par l’entreprise et ses employés. De plus, il est raisonnable de penser que leur divulgation risquerait de compromettre ses droits exclusifs et commerciaux. Par conséquent, puisqu’il s’agit de renseignements traités comme étant confidentiels et que M. Adams a expliqué à la Cour de façon satisfaisante qu’ils présentent un intérêt pour les concurrents de Future Electronics, la Cour conclut que la publicité de ces renseignements pose un risque sérieux pour cet intérêt public important.
+(b) L’intérêt public général dans la protection du droit à un procès équitable, également décrit comme l’intérêt public de permettre aux « plaideurs commerciaux » de faire valoir leurs droits, sans qu’ils s’exposent eux-mêmes au risque réel de préjudice
+[54] Cet intérêt commercial important a été soulevé par Future Electronics comme étant à risque. Afin de tirer une conclusion quant à celui-ci, la Cour doit déterminer si le fait de ne pas rendre l’ordonnance de confidentialité place Future Electronics dans une situation qui la forcerait à choisir entre ses obligations et son droit à une défense pleine et entière[42]. Dans l’hypothèse où Future Electronics est empêchée de mettre en preuve des renseignements en raison, par exemple, d’une entente de non-divulgation conclue avec l’un de ses fournisseurs ou clients à moins qu’une ordonnance de confidentialité ne soit rendue, son droit à une défense pleine et entière, qui est d’intérêt public, serait forcément atteint.
+[55] En l’espèce, selon les dires de Future Electronics, le seul risque de préjudice tient au fait que, si le nom de ses fournisseurs et clients et les renseignements concernant les éléments centraux du modèle d’affaires ne devaient pas être gardés confidentiels et s’ils devaient donc venir à la connaissance de ses concurrents, cela leur donnerait à ces derniers un avantage concurrentiel. Compte tenu de ceci et du fait que la protection de la concurrence loyale est elle-même spécifiquement un risque commercial important qui a été identifié par les tribunaux comme devant être protégé, la Cour considérera les arguments de Future Electronics relativement à cet intérêt commercial important.
+(c) La promotion de la certitude commerciale et la protection des renseignements exclusifs
+[56] Afin de tirer une conclusion quant à cet intérêt commercial important, la Cour doit déterminer si la publication des renseignements exposerait leur propriétaire à un préjudice financier grave. Dans l’arrêt Sierra Club du Canada c Canada (ministre des Finances)[43], la Cour d’appel fédérale a dit ce qui suit à ce sujet :
+12 (…) Il est clair qu'il n'y a pas de facteur aussi clairement accepté de tous en l'instance, et donc que le droit gouvernant l'octroi d'ordonnances de confidentialité doit tenir compte d'une pléthore de faits. Toutefois, la tâche de déterminer le cadre analytique applicable en l'instance est grandement simplifiée si l'on tient compte du fait que le droit actuel fournit déjà une exception pour protéger la confidentialité des renseignements qui sont désignés comme des "secrets industriels". Selon les principes établis, les secrets industriels constituent une forme de propriété qui peut être protégée par une injonction. Pour ce motif, on ne permet pas en droit la divulgation de secrets industriels au cours d'un procès lorsque cela aurait pour effet de rendre sans objet les droits du propriétaire et l'exposerait à un préjudice financier irréparable. Ceci explique pourquoi la jurisprudence porte qu'il y a lieu d'octroyer une ordonnance de confidentialité lorsque [TRADUCTION] "l'objet même de l'action serait annihilé" si l'audience ne se tenait pas à huis clos.
+13 Bien que la présente affaire ne porte pas sur des secrets industriels, je ne vois pas pourquoi on ne pourrait pas accorder un traitement similaire aux affaires portant sur des renseignements commerciaux et scientifiques qu'on peut raisonnablement considérer avoir été acquis ou recueillis sur une base confidentielle. Dans la plupart des cas, de tels renseignements ont une valeur pour les concurrents de la partie en cause[44]. (…)
+[57] Future Electronics soutient qu’il y a un intérêt public commercial important à ce que l’identité de personnes tierces, à savoir ses fournisseurs et ses clients, ne soit pas divulguée, et ce pour elle-même et pour ces derniers.
+[58] Dans la présente affaire, selon le témoignage de M. Adams, les noms des fournisseurs et des clients de Future Electronics ainsi que les renseignements concernant les éléments centraux de son modèle d’affaires et des décisions stratégiques de Future Electronics sont considérés par l’entreprise comme des secrets commerciaux. Lors de son témoignage, M. Adams a démontré que l’obtention par des tiers du domaine, tels que des anciens fournisseurs, de la liste des fournisseurs et des clients actuels de Future Electronics pourrait constituer un atout pour eux. Inversement, les fournisseurs et clients actuels de Future Electronics ne souhaitent pas que leur lien d’affaires avec Future Electronics soit connu de tous. C’est pourquoi Future Electronics protège jalousement ces renseignements confidentiels et exclusifs.
+[59] La Cour conclut que, selon les explications fournies par M. Adams et la prépondérance des probabilités, compte tenu du marché dans lequel évolue Future Electronics, le nom de ses fournisseurs et clients, ainsi que ses stratégies commerciales, sont des renseignements commerciaux exclusifs et, par conséquent, il est nécessaire de les tenir confidentiels.
+(d) La protection de la concurrence loyale
+[60] L’intérêt public général à la protection du droit au procès équitable n’a pas été directement invoqué par Future Electronics comme motif au soutient se sa requête. Ceci dit, compte tenu du contenu du témoignage de M. Adams, la Cour se doit de le prendre en considération.
+[61] Comme établi dans l’arrêt Resolve Business Outsourcing Income Fund v Canadian Financial Wellness Group Inc.[45] et réitéré par notre Cour dans la décision Shell, la concurrence loyale est un intérêt public important.[46]
+[62] Dans la décision RJG Construction Ltd v Marine Atlantic Inc.[47], la Cour d’appel de Terre-Neuve-et-Labrador a conclu que le fait de ne pas accorder l’ordonnance de confidentialité aurait pour résultat d’octroyer aux concurrentes d’une partie un avantage commercial, puisqu’ils auraient accès à des renseignements commerciaux et financiers de nature délicate qu’ils pourraient utiliser à leur avantage et au détriment de la partie :
+27 Failing to grant a confidentiality order in this case would provide an advantage to RJG's competitors by giving them RJG's sensitive commercial and financial information which they could use to their own advantage and to RJG's disadvantage. The open court principle cannot be blind to this reality, and in my view, cannot be permitted to expose a litigant's vulnerability in the absence of good reason. In Sierra Club, the Court stipulated that if a court grants a confidentiality order on the basis of an important commercial interest, the commercial interest cannot merely be specific to the party requesting the order, but must be one which can be expressed in terms of a public interest in confidentiality. As I see it, the public interest at stake in cases like this is the ability of commercial litigants to vindicate their legal rights without exposing themselves to the real risk of harm.
+[63] Il peut donc exister un intérêt public important au maintien et à la protection de la concurrence au sein d’industries en particulier s’il est important pour l’économie canadienne, comme par exemple pour l’industrie bancaire ou énergétique.[48] Compte tenu de l’importance du secteur de la distribution de pièces électroniques pour l’économie canadienne et du fait que Future Electronics est une des plus grandes entreprises au monde dans le domaine de la distribution de pièces électroniques, la Cour est d’avis qu’il existe un intérêt public à l’égard du maintien de la concurrence au sein de ce secteur.
+[64] En effet, compte tenu des renseignements fournis à la Cour, il est logique de conclure que, si le nom des fournisseurs et des clients de Future Electronics ainsi que les renseignements concernant les éléments centraux du modèle d’affaires et de ses décisions stratégiques ne devaient pas être tenus confidentiels, ses concurrents en prendraient connaissance. Il y a donc un risque sérieux que cela leur procurerait un avantage concurrentiel qui irait à l’encontre de l’intérêt public important qu’est la concurrence loyale.[49] Par conséquent, il y aurait un risque sérieux de créer une concurrence déloyale au détriment de Future Electronics si les renseignements confidentiels en l’espèce étaient dévoilés au cours d’une instance judiciaire portant sur une toute autre question. Ainsi, la Cour conclut qu’il y a risque sérieux menaçant la protection de la concurrence loyale si les renseignements ne sont pas tenus confidentiels.
+(e) Conclusion
+[65] Pour les motifs mentionnés aux paragraphes 49 à 64 ci-dessus, la Cour conclut que, si les noms des fournisseurs et des clients de Future Electronics ainsi que les renseignements concernant les éléments centraux de son modèle d’affaires et ses décisions stratégiques mentionnés lors du procès les 24, 25 et26 janvier 2023 étaient rendus publics, il existerait un risque sérieux pour les intérêts publics importants suivants :
+L’intérêt commercial général dans la protection des renseignements confidentiels;
+L’intérêt public à la promotion de la certitude commerciale et à la protection des renseignements exclusifs;
+L’intérêt public dans la protection de la concurrence loyale.
+(2) Est-ce que l’ordonnance demandée est nécessaire afin d’écarter le risque sérieux pour l’intérêt mis en évidence, puisque d’autres mesures raisonnables ne permettront pas de l’écarter ? [66] Afin de répondre à cette question, la Cour doit déterminer s’il existe d’autres mesures raisonnables pouvant être mises en place afin d’écarter le risque sérieux que d’accorder l’ordonnance demandée. Si une autre mesure raisonnable est possible, l’ordonnance de confidentialité ne peut être accordée.
+[67] Future Electronics n’a pas fait état d’autre mesure possible. Future Electronics soutient que le caviardage de certains passages des notes sténographiques du procès est nécessaire et que cette mesure est la plus raisonnable dans les circonstances. Future Electronics soutient que le caviardage de certains passages des notes sténographiques porte le moins atteinte au principe de publicité des débats judiciaires, étant donné que tout membre du public pourra prendre connaissance des notes sténographiques caviardées et comprendre la nature des questions en litige, la position des parties et les enjeux soulevés.
+[68] Compte tenu du peu de renseignements devant être caviardés, la Cour étant dans l’impossibilité d’identifier une mesure moins contraignante conclut que le caviardage des noms des clients et des fournisseurs de Future Electronics ainsi que des renseignements concernant son modèle d’affaires est la mesure la plus appropriée dans les circonstances. La Cour est d’avis que le caviardage des extraits des notes sténographiques du procès ne contreviendra pas à la compréhension générale du litige entre les parties.
+(3) Est-ce que du point de vue de la proportionnalité, les avantages de l’ordonnance demandée l’emportent sur ses effets négatifs ? [69] À cette étape, la Cour doit déterminer si les avantages de l’ordonnance de confidentialité souhaitée l’emportent sur ses effets défavorables.
+[70] Future Electronics soutient que le public, ses fournisseurs et ses clients ont un intérêt réel et sérieux à ce que l’ordonnance de confidentialité soit accordée. Selon Future Electronics, il est dans l’intérêt public que les renseignements commerciaux confidentiels soient protégés. Selon elle, le caviardage proposé lui permet de pleinement faire valoir ses droits devant la Cour en contrepartie d’une atteinte minimale au principe de publicité des débats. Future Electronics soutient qu’il est dans l’intérêt de la justice de faire droit à la demande en confidentialité vu l’absence d’une autre mesure raisonnable et vu que, du point de vue de la proportionnalité, les avantages de l’ordonnance sollicitée l’emportent sur ses effets négatifs.
+[71] En l’espèce, les renseignements que l’ordonnance demandée vise à protéger sont accessoires au processus judiciaire et les tenir confidentiels n’empêchera pas le public de comprendre le litige. En fait, selon le témoignage de M. Adams et selon l’avis de la Cour, les seules personnes qui pourraient avoir un intérêt à prendre connaissance de ces renseignements sont les concurrents de Future Electronics pour des motifs qui n’ont rien à voir avec la question en litige.
+[72] Par conséquent, si la présente ordonnance n’est pas rendue, les effets préjudiciables pour Future Electronics décrits au paragraphe 71 sont de loin supérieurs à la dérogation potentielle au principe de la publicité des débats judiciaires. Étant donné le peu de renseignements devant être tenus confidentiels, leur caviardage constitue une entrave minime au principe de la publicité des débats judiciaires, qui est à mon avis plus que raisonnable.
+[73] La Cour conclut que le critère de la proportionnalité est satisfait. Les renseignements que Future Electronics cherche à protéger sont accessoires au litige et ne compromettent pas le principe de publicité des débats judiciaires, puisque le public aurait tout de même accès au dossier de la Cour ainsi qu’aux notes sténographiques caviardées du procès et serait en mesure de comprendre l’essence du litige malgré le caviardage. Les effets bénéfiques de l’ordonnance l’emportent sur les effets préjudiciables. Les renseignements confidentiels sont nécessaires pour assurer le bon déroulement de l’appel, et Future Electronics risquerait de subir un préjudice important quant à la sauvegarde de ses secrets commerciaux s’ils n’étaient pas protégés. De ce fait, l’atteinte à l’intérêt public dans la publicité des débats judiciaires est minimale puisque les renseignements confidentiels portent sur une portion limitée de l’ensemble de la preuve.
+IV. CONCLUSION [74] À la lumière des intérêts commerciaux soulevés par Future Electronics en l’espèce, à savoir l’intérêt commercial général à la protection des renseignements confidentiels, la promotion de la certitude commerciale et la protection des renseignements exclusifs ainsi que la protection de la concurrence loyale, la Cour estime que Future Electronics a démontré un risque sérieux à plusieurs intérêts publics importants. L’ordonnance demandée est nécessaire afin d’écarter un risque sérieux pour chacun de ces intérêts puisqu’aucune autre mesure raisonnable ne permettrait de les écarter. Par conséquent, la Cour conclut que l’ordonnance est nécessaire afin de protéger ces intérêts. Finalement, les avantages d’une telle ordonnance l’emportent sur ses effets négatifs.
+[75] POUR CES MOTIFS, LA COUR ORDONNE CE QUI SUIT :
+ACCUEILLE la requête Future Electronics afin que l’ordonnance de confidentialité permanente soit rendue;
+ORDONNE que l’ordonnance intérimaire de confidentialité soit remplacée par la présente ordonnance de confidentialité permanente;
+ORDONNE que les notes sténographiques originales de l’audience soient conservées au dossier de la Cour, accompagnées d’une copie de cette ordonnance, pour n’être accessibles qu’à la Cour et à son personnel, aux parties et à leurs procureurs, et à l’Agence du revenu du Québec;
+ORDONNE que la copie des notes sténographiques, dont les renseignements décrits à l’annexe A ont été caviardés par les parties, et qui a été déposée au dossier de la Cour le 14 novembre 2023 pour les journées d’audience des 24 et 26 janvier 2023, et le 27 novembre 2023 pour la journée d’audience du 25 janvier 2023, soit accessible aux personnes autres que celles mentionnées précédemment;
+ORDONNE que, si une personne autre que les parties, leurs procureurs et l’Agence du revenu du Québec mandate un sténographe pour produire la transcription sténographique de l’audience, les renseignements confidentiels décrits à l’annexe A soient caviardés par le sténographe officiel mandaté pour produire la transcription;
+ENJOINT au greffier de la Cour et à tout sténographe officiel de prendre toutes les mesures appropriées afin que la présente ordonnance soit respectée;
+LE TOUT sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de mai 2024.
+« Sylvain Ouimet »
+Juge Ouimet
+ANNEXE A
+Notes sténographiques :
+Les lignes 3-4 et 12-15 de la page 86, de même que la référence à la cote de crédit de l’appelante que l’on retrouve à la ligne 20 de la page 102 des notes sténographiques de l’audience tenue le 3 juin 2019.
+RÉFÉRENCE :
+2024 CCI 77
+Nº DU DOSSIER DE LA COUR :
+2021-1171(GST)G
+INTITULÉ DE LA CAUSE :
+FUTURE ELECTRONICS INC. C. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec) et à Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Les 24, 25, 26 janvier 2023, les 15 et 24 février 2023, le 13 novembre 2023, le 29 septembre et les 12, 13 et 14 février 2024.
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 28 mai 2024
+COMPARUTIONS :
+Avocats de l’appelante:
+Me Dominic C. Belley
+Me Jonathan Lafrance
+Me Mareine Gervais-Cloutier
+Me Juliana Succès
+Avocats de l'intimé:
+Me Huseyin Akyol
+Me Vasil Naydenov
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Dominic C. Belley
+Me Jonathan Lafrance
+Me Mareine Gervais-Cloutier
+Me Juliana Succès
+Cabinet :
+Norton Rose Fullbright Canada S.E.N.C.R.L.
+Pour l’intimé :
+Me Huseyin Akyol Larivière Meunier
+Montréal, Canada
+[1] DORS/90-688a.
+[2] Notes sténographiques de la conférence téléphonique du 23 février 2023.
+[3] À noter que le public ne peut pas obtenir une copie de l’enregistrement audio d’un procès du greffe de la Cour ou de la société mandatée pour produire les notes sténographiques sans au préalable avoir formulé une demande à cette fin. Par conséquent, l’enregistrement audio d’un procès dans laquelle est reproduit le témoignage d’un témoin n’a pas à être couvert par une ordonnance de confidentialité. Si une telle demande devait être faite, le juge ayant entendu la cause et rendu l’ordonnance de confidentialité devra modifier l’ordonnance de confidentialité au besoin.
+[4] Sherman (Succession) c Donovan, 2021 CSC 25 [Sherman], au para 1.
+[5] Pakzad c La Reine, 2017 CCI 83 [Pakzad], au para 7.
+[6] Toronto Star Newspapers Ltd. c Ontario, 2005 CSC 41 [Toronto Star Newspapers], au para 4.
+[7] Canada (Citoyenneté et Immigration) c Harkat, 2014 CSC 37, au para 24.
+[8] Pakzad, au para 7.
+[9] Sherman, au para 1.
+[10] Sherman, précité, note 3.
+[11] Sherman, au para 30.
+[12] Sierra Club du Canada c Canada (Ministre des Finances), 2002 CSC 41 [Sierra Club].
+[13] Sherman, au para 38.
+[14] Sherman, au para 38.
+[15] Sherman, au para 42.
+[16] Sherman, au para 42.
+[17] Sierra Club, au para 54.
+[18] Sherman, au para 42.
+[19] Pakzad, au para 11.
+[20] Sherman, au para 105; Sierra Club, au para 57.
+[21] Sherman, au para 38; Shell Canada Limited c La Reine, 2022 CCI 39 [Shell], au para 33.
+[22] Sierra Club, au para 69.
+[23] Sierra Club, au para 74.
+[24] Sierra Club, au para 75.
+[25] Sierra Club, au para 55.
+[26] Sierra Club, au para 55.
+[27] Shell, au para 32a).
+[28] Sherman, au para 41.
+[29] Sierra Club, au para 56; voir généralement Eli Lilly and Co c Novopharm Ltd, [1994] ACF no 1141, 56 CPR (3d) 437 (CF 1re inst), para. 2, le juge Muldoon.
+[30] Shell, précitée, note 21.
+[31] Shell, au para 32.
+[32] Shell, au para 32; Sierra Club, au para 55; Resolve Business Outsourcing Income Fund v Canadian Financial Wellness Group Inc., 2014 NSCA 98, [Resolve Business] au para 36.
+[33] Shell, au para 32; RJG Construction Limited c Marine Atlantic Inc., 2018 NLCA 25, au para 27.
+[34] Shell, au para 32; Mediatube Corp c Bell Canada, 2018 CF 355, au para 22.
+[35] Shell, au para 32; Medicine Shoppe Canada Inc. v Devchand, 2012 ABQB 375, au para 36.
+[36] Shell, au para 32; PearTree Securities Inc. v NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455, au para 12.
+[37] Shell, au para 17.
+[38] Shell, au para 17.
+[39] Sierra Club, au para 59.
+[40] Sierra Club, au para 60.
+[41] Sierra Club, au para 60.
+[42] Shell, au para 22.
+[43] Sierra Club du Canada c Canada (ministre des Finances), [2000] ACF no 732, [2000] 4 CF 426, 187 DLR (4th) 231, 256 NR 1.
+[44] Sierra Club du Canada c Canada (ministre des Finances), aux paras 12-13.
+[45] Resolve Business, précité, note 32.
+[46] Shell, au para 29; voir aussi Resolve Business, au para 31.
+[47] RJG Construction Ltd v Marine Atlantic Inc., 2018 NLCA 25, au para 27
+[48] Shell, au para 31; Royal Bank of Canada v. Westech Appraisal Services Ltd., 2017 BCSC 773, au para 12.
+[49] Shell, au para 30; voir PearTree Securities Inc. v NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455, au para 12; voir également RJG Construction Ltd v Marine Atlantic Inc., précité, note 33, au para 27.

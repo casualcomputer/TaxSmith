@@ -1,0 +1,216 @@
+Title: Jean c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26684/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-477-26684-jean-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-08-26
+
+# Jean c. M.R.N.
+
+- Citation: 2005 CCI 477
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3430, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-26
+Référence neutre
+2005 CCI 477
+Numéro de dossier
+2004-80(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-80(EI)
+ENTRE :
+MÉLANIE JEAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu avec l'appel de Stéphane Bacon (2004-107(EI))
+le 21 juillet 2005 à Sept-Îles (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Laurent Boucher
+Avocat de l'intimé :
+Me Martin Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté au motif que le travail exécuté par l'appelante pendant la période en question est exclu des emplois assurables, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour d'août 2005.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2004-107(EI)
+ENTRE :
+STÉPHANE BACON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu avec l'appel de Mélanie Jean (2004-80(EI))
+le 20 juillet 2005 à Sept-Îles (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Laurent Boucher
+Avocat de l'intimé :
+Me Martin Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli et la décision du ministre du Revenu national en date du 23 septembre 2005 est modifiée au motif que le travail exécuté par l'appelant pendant la période en question est assurable, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour d'août 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI477
+Date : 20050826
+Dossier : 2004-80(EI)
+ENTRE :
+MÉLANIE JEAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+ET
+Dossier : 2004-107(EI)
+ENTRE :
+STÉPHANE BACON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de deux appels interjetés à l'encontre de décisions du ministre du Revenu national (le « ministre » ) portant sur le travail exécuté par les appelants pour le compte de l'Association du hockey amateur de Port-Cartier. L'appelant Stéphane Bacon aurait exécuté du travail pendant la période allant du 19 décembre 1999 au 24 mars 2000 et l'appelante Mélanie Jean aurait exécuté du travail pendant les périodes allant du 10 décembre 2000 au 17 mars 2001, du 2 décembre 2001 au 16 mars 2002 et du 10 décembre 2002 au 29 mars 2003.
+[2] Le payeur étant le même dans les deux dossiers et la nature du travail exécuté étant également identique, les parties ont convenu de procéder au moyen d'une preuve commune.
+[3] L'appelante était absente étant donné qu'elle avait accouché récemment.
+[4] Le représentant des appelants a fait plusieurs admissions.
+[5] Dans le dossier Mélanie Jean, les alinéas 6a), b), c), d), e), f), g), h), i), k), l), n), r), et s) ont été admis et les alinéas 6j), m), o), p), q), t) et u) ont été niés.
+Dossier Mélanie Jean (2004-80(EI)) :
+a) le payeur est un organisme à but non lucratif exerçant ses activités dans le domaine du hockey; (admis)
+b) le payeur reçoit, depuis plusieurs années, le mandat de la ville de Port-Cartier de préparer et d'entretenir deux glaces extérieures dans un parc de la ville et d'assurer la surveillance des lieux durant les heures d'ouverture des patinoires; (admis)
+c) les patinoires et la cabane attenante étaient ouvertes 7 jours par semaine, de 13 h à 16 h et de 18 h à 21 h, pour un total de 42 heures par semaine, sauf pour les périodes pendant lesquelles la température descendait en bas de moins 25 degrés Celsius; (admis)
+d) pour exécuter son mandat, le payeur retenait, à chaque année, les services d'une personne pour exécuter le travail; (admis)
+e) durant les périodes en litige, le payeur confiait à l'appelante la confection, l'entretien et la surveillance des deux patinoires; (admis)
+f) antérieurement aux périodes en litige, le payeur avait accordé ce mandat à M. Stéphane Bacon, conjoint de l'appelante; (admis)
+g) en 2000, M. Bacon avait demandé au payeur d'accorder le mandat à sa conjointe tout en garantissant au payeur qu'il aiderait celle-ci à remplir son mandat en s'occupant personnellement de la confection et de l'arrosage des glaces; (admis)
+h) le payeur retenait les services de l'appelante en vertu d'une entente verbale; (admis)
+i) l'appelante avait le mandat de fabriquer les glaces en début de saison et, ensuite, de les arroser une ou deux fois par semaine, de les déneiger, d'ouvrir la cabane près des patinoires et de faire la surveillance des lieux durant les heures d'ouverture;(admis)
+j) le payeur ne contrôlait pas le travail de l'appelante; (nié)
+k) les heures de travail de l'appelante n'étaient pas comptabilisées par le payeur qui n'était intéressé que par le résultat final, soit que les patinoires soient utilisables aux heures d'ouverture; (admis)
+l) le payeur fournissait à l'appelante tout le matériel et l'équipement nécessaire; (admis)
+m) comme le travail de préparation des glaces (environ 2 ou 3 semaines en début de saison) et l'arrosage des glaces était trop difficile pour l'appelante, c'est M. Bacon qui faisait ce travail; (nié)
+n) durant les premières semaines de la saison, le payeur versait à l'appelante une rémunération calculée selon le nombre d'heures travaillées par M. Bacon à raison de 12 $ de l'heure; (admis)
+o) durant tout le reste de la période en litige, l'appelante recevait une rémunération fixe de 530,40 $ brut par semaine et ce, sans égard aux heures réellement travaillées par elle et par M. Bacon; (nié)
+p) au début de la saison, M. Bacon pouvait faire de 80 à 90 heures par semaine pour s'occuper de la préparation des glaces et durant le reste de la saison, il s'occupait de l'arrosage, 2 à 3 fois par semaine et de 3 à 6 heures chaque fois; (nié)
+q) l'appelante ou M. Bacon embauchait souvent des amis ou des usagers pour l'aider dans ses tâches; (nié)
+r) le payeur versait toujours le même montant à l'appelante et ne s'occupait pas de savoir si l'appelante se faisait aider ou pas; l'appelante devait en assumer les coûts si elle voulait avoir de l'aide; (admis)
+s) l'appelante était rémunérée par chèque à chaque quinzaine; (admis)
+t) l'appelante aurait été payée pour la durée du contrat même « si l'été arrivait en janvier » ; (nié)
+u) durant les périodes en litige, l'appelante rendait des services au payeur en vertu d'un contrat d'entreprise et non en vertu d'un contrat d'emploi. (nié)
+[6] Dans le dossier Stéphane Bacon, les alinéas 6a), b), c), d), e), f), g), i), j), k), l), m), n), et p) ont été admis alors que les alinéas h), o), q) et r) ont été niés.
+Dossier Stéphane Bacon (2004-107(EI)) :
+a) le payeur est un organisme à but non lucratif exerçant ses activités dans le domaine du hockey; (admis)
+b) le payeur reçoit, depuis plusieurs années, le mandat de la ville de Port-Cartier de préparer et d'entretenir deux glaces extérieures et d'assurer la surveillance des lieux durant les heures d'ouverture des patinoires; (admis)
+c) les patinoires étaient ouvertes 7 jours par semaine, de 13 h à 16 h et de 18 h à 21 h, sauf pour les périodes pendant lesquelles la température descendait en bas de moins 25 degrés Celsius, soit pendant 42 heures par semaine; (admis)
+d) pour exécuter le mandat de la ville, le payeur retenait, à chaque année, les services d'une personne pour exécuter le travail; (admis)
+e) durant la période en litige, le payeur a embauché l'appelant pour remplir le mandat; (admis)
+f) Durant la période en litige, le payeur embauchait l'appelant, en vertu d'une entente verbale, pour le 3ième année consécutive; (admis)
+g) l'appelant avait le mandat de faire la glace des patinoire et, ensuite, de les entretenir, de les arroser une ou deux fois par semaine, de les nettoyer et, durant les heures d'ouverture, d'ouvrir la cabane près des patinoires et de faire la surveillance des lieux; (admis)
+h) le payeur ne contrôlait pas le travail de l'appelant; (nié)
+i) les heures de travail de l'appelant n'étaient pas comptabilisées par le payeur qui n'était intéressé que par le résultat final, soit que les patinoires soient utilisables aux heures d'ouverture; (admis)
+j) le payeur fournissait à l'appelante tout le matériel et l'équipement nécessaire; (admis)
+k) durant les premières semaines de son mandat consacrées à la confection des patinoires, l'appelant pouvait faire plus de 80 heures de travail par semaine; (admis)
+l) pour les périodes de paie finissant les 25 décembre 1999 et 1er janvier 2000, il a été rémunéré pour le nombre d'heures travaillées à raison de 10 $ de l'heure pour les premières quarante-trois heures de travail de la semaine et à raison de 15 $ l'heure pour les heures supplémentaires; (admis)
+m) Pour la période de paie finissant le 8 janvier 2000, l'appelant a travaillé pendant quatre-vingt-deux heures qui lui ont toutes été rémunérées au taux de 10 $ l'heure; (admis)
+n) durant tout le reste de la période en litige, l'appelant recevait une rémunération fixe de 459,89 $ par semaine et ce, peu importe le nombre d'heures travaillées et ce sans aucune rémunération en temps supplémentaire; (admis)
+o) l'appelant embauchait souvent des amis ou des usagers pour l'aider dans ses tâches; (nié)
+p) le payeur versait toujours le même montant à l'appelant et il ne s'occupait pas de savoir si l'appelant se faisait aider ou pas; l'appelant devait en assumer les coûts s'il voulait avoir de l'aide; (admis)
+q) l'appelant aurait été payé pour la durée complète du contrat même si « l'été arrivait en janvier » ; (nié)
+r) durant la période en litige, l'appelant rendait des services au payeur en vertu d'un contrat d'entreprise et non en vertu d'un contrat d'emploi. (nié)
+[7] La preuve repose principalement sur le témoignage de monsieur Laurent Boucher, président de l'Association du hockey amateur de Port-Cartier. Il a expliqué que son Association avait obtenu le contrat de la municipalité pour la préparation, la gestion et l'entretien de la patinoire extérieure publique et ce, pour toutes les périodes en litige.
+[8] Il a affirmé qu'en début de saison, à l'étape de la fabrication de la glace, beaucoup plus d'heures de travail étaient requises, voire pratiquement le double.
+[9] Une fois la glace bien prise, il s'agissait essentiellement de l'entretenir et de voir à ce que l'abri pour les usagers soit accessible.
+[10] Quant au travail requis pour l'entretien, il s'agissait d'arroser la patinoire après la fermeture et de voir à l'enlèvement de la neige qui s'était accumulée pendant le patinage ou à la suite une chute de neige.
+[11] Les travaux de nettoyage étaient exécutés au moyen de grattoirs et d'une souffleuse. Après une chute de neige très abondante, l'Association du hockey amateur de Port-Cartier avait recours à un loader à ses frais pour l'enlèvement de la neige pour accélérer le processus de nettoyage.
+[12] Les travaux d'entretien courants étaient effectués au moyen d'un boyau d'arrosage, de pelles et d'une souffleuse mécanique.
+[13] Le représentant des appelants a fait valoir que la ville de Port-Cartier, l'Association du hockey amateur qu'il présidait et les appelants avaient tous été honnêtes et de bonne foi dans les dossiers.
+[14] L'honnêteté et la bonne foi des parties n'est aucunement en cause. Malheureusement, l'honnêteté, la bonne foi et la franchise ne peuvent, à elles seules, façonner ou définir la nature d'un contrat de travail ou de louage de services.
+[15] Seuls les faits, la méthode, les modalités et le contexte dans lequel le travail a été exécuté doivent être examinés pour déterminer s'il y a contrat de louage de services.
+[16] En vertu de la Loi sur l'assurance-emploi, un contrat de louage de services est assujetti à trois conditions tout à fait essentielles; il s'agit de l'exécution d'un travail, de la rémunération et de l'existence d'un lien de subordination entre le travailleur et le payeur.
+[17] En l'espèce, l'intimé a déterminé que les appelants ont exécuté le travail en vertu d'un contrat d'entreprise. La différence entre les deux contrats est très difficile à établir ou à constater dans certaines situations. Tout réside dans le lien de subordination caractérisé par le pouvoir de contrôle qu'exerce le payeur sur la personne qui exécute le travail.
+[18] En l'espèce, le représentant des appelants a affirmé à plusieurs reprises et de différentes manières que l'Association qu'il présidait avait bel et bien exercé ce pouvoir de contrôle sur les appelants dans le cadre de l'exécution du travail.
+[19] Il a notamment indiqué qu'il vérifiait la qualité du travail en s'assurant que la glace était en bon état. Il voyait à ce que les heures d'ouverture de la patinoire établies par l'Association soient respectées et qu'à la suite de chutes de neige, la patinoire soit promptement dégagée.
+[20] Lors d'importantes chutes de neige, l'Association retenait les services d'un entrepreneur exploitant une pelle mécanique appelée communément « loader » .
+[21] Monsieur Boucher a aussi mentionné que, lorsque son Association recevait des plaintes des usagers, il s'adressait aux appelants afin de rapidement corriger la situation.
+[22] Les outils nécessaires à l'exécution du travail, tels pelles, grattoirs, souffleuse, étaient fournis par l'Association. Pendant l'étape de la préparation de la glace au début de la saison, le travail était rémunéré en fonction des heures travaillées. Ces heures étaient nombreuses, soit environ 80 par semaine pendant deux semaines.
+[23] Une fois la glace bien prise, le travail consistait essentiellement à entretenir la patinoire en enlevant la neige qui s'était accumulée pendant le patinage ou les chutes de neige et en arrosant la surface.
+[24] Pendant les périodes de froid très intenses, les appelants pouvaient s'abstenir de travailler après avoir reçu l'approbation d'un représentant de l'Association du hockey amateur.
+[25] Le président de l'Association, qui représentait les appelants, a nié que les appelants auraient été payés pour toute la durée de la saison d'hiver même si la chaleur de l'été avait commencé en janvier. Il a clairement indiqué que l'Association pouvait mettre un terme en tout temps à l'entente conclue avec les appelants.
+[26] Chose étonnante, le représentant des appelants a reconnu la possibilité que le travail des appelants ait été exécuté en vertu d'un contrat d'entreprise et non d'un contrat de louage de services.
+[27] Il a cependant insisté qu'il ne comprenait pas pourquoi le travail des appelants avait fait l'objet d'une analyse dont les conséquences étaient rétroactives le tout ayant des effets désastreux sur la situation financière des appelants des suites des réclamations pour les trop payés.
+[28] Selon monsieur Boucher, il a toujours voulu que tout soit fait selon les règles dans l'Association dont il était le président. S'il s'avérait que, pour des raisons totalement indépendantes de leur volonté, les appelants n'étaient pas admissibles à l'assurance-emploi bien qu'ils croyaient de bonne foi qu'ils y avaient droit, il a affirmé et répété avec vigueur que les appelants ne devraient pas être obligés de rembourser des montants très importants qu'ils ont reçus.
+[29] Monsieur Boucher a d'ailleurs indiqué que, dans le sillage de la présente cause, la ville de Port-Cartier avait procédé à la modification complète de sa politique concernant la préparation et l'entretien de la patinoire.
+[30] Monsieur Jean Vézina, agent des appels responsable du dossier des appelants, a expliqué le travail qu'il avait réalisé pour arriver à la conclusion ayant fait l'objet des appels.
+[31] Il a notamment examiné le travail d'enquête que l'agent d'assurabilité a effectué lorsqu'il a rendu la première décision. Dans le cadre de son travail, monsieur Vézina a également communiqué avec les appelants, qui ont confirmé l'exactitude des faits recueillis par l'agent pendant l'enquête et figurant dans la déclaration statutaire. Monsieur Vézina a finalement communiqué avec la trésorière de l'Association du hockey amateur, madame France Bédard.
+[32] Il a été question que les appelants avaient recours à des tiers pour se faire aider pour l'exécution du travail. Il s'agit là d'un élément qui doit s'apprécier dans le contexte particulier d'une patinoire où souvent les usagers, anxieux de pouvoir profiter de la patinoire, collabore au travail de remise en état. Il s'agit là d'une pratique répandue qui doit être occultée des faits pris en considération dans l'analyse visant à qualifier la nature juridique d'une entente de travail.
+[33] La majeure partie du témoignage de monsieur Vézina a porté sur le dossier de l'appelante où certains faits fondamentaux étaient très différents du dossier de son conjoint. Je fais notamment référence à l'admission de l'appelante et de madame Bédard à l'effet qu'il s'agissait d'un travail très exigeant physiquement au point où elle ne pouvait absolument pas faire ce travail seule.
+[34] De plus, l'alinéa g) de la Réponse à l'avis d'appel dans le dossier de madame Mélanie Jean a fait l'objet d'une admission. L'alinéa se lit comme suit :
+g) en 2000, M. Bacon avait demandé au payeur d'accorder le mandat à sa conjointe tout en garantissant au payeur qu'il aiderait celle-ci à remplir son mandat en s'occupant personnellement de la confection et de l'arrosage des glaces; (admis)
+[35] L'alinéa r) a aussi fait l'objet d'une admission. Il se lit comme suit :
+r) le payeur versait toujours le même montant à l'appelante et ne s'occupait pas de savoir si l'appelante se faisait aider ou pas; l'appelante devait en assumer les coûts si elle voulait avoir de l'aide; (admis)
+[36] Il y a suffisamment d'éléments déterminants pour conclure au bien-fondé de la détermination quant au dossier de Mélanie Jean. D'ailleurs, il y a cohérence entre tous les faits recueillis lors de l'enquête, les admissions et la preuve soumise.
+[37] Monsieur Stéphane Bacon a expliqué qu'il avait demandé que le contrat de travail soit fait au nom de sa conjointe, faute de quoi il ne serait pas en mesure d'accepter la responsabilité que lui offrait l'Association du hockey amateur.
+[38] Pourquoi une telle exigence? C'est qu'il avait commencé à travailler comme débardeur et sa disponibilité était, de ce fait, passablement réduite.
+[39] Ayant obtenu un emploi bien rémunéré et assurable, il a voulu offrir à sa conjointe un emploi assurable. Pour que sa conjointe obtienne le contrat, il s'est porté garant de sa bonne exécution et l'Association du hockey amateur a accepté les conditions proposées par monsieur Bacon.
+[40] L'objectif ultime de l'Association était d'obtenir l'assurance que le travail soit bien fait par des personnes fiables et responsables. Monsieur Bacon, conjoint de l'appelante Mélanie Jean, a fourni cette garantie d'autant plus, qu'il avait antérieurement exécuté le même travail à la satisfaction de l'association.
+[41] Il n'y a aucun doute que le responsable de l'exécution des travaux était Stéphane Bacon, et non Mélanie Jean, qui a certes travaillé et participé à la bonne gestion et à l'entretien de la patinoire extérieure.
+[42] Le véritable responsable de l'exécution du travail était Stéphane Bacon qui avait fait le travail dans le passé à la grande satisfaction de l'Association du hockey amateur, qui n'a pas hésité, pour ces raisons, à accepter les nouvelles conditions proposée par monsieur Bacon.
+[43] Qu'en est-il du travail de monsieur Bacon pour la période du 19 décembre 1999 au 24 mars 2000? Ce travail répondait aux conditions d'un contrat de louage de services. Travail, rémunération et lien de subordination étaient présents.
+[44] Comme il s'agissait exactement du même travail, l'intimé a rapidement conclu qu'il s'agissait d'un contrat d'entreprise dans les deux cas. Or, bien que le travail était le même et que les attentes étaient les mêmes, il y avait une distinction tout à fait fondamentale et déterminante, en ce que le travail était exécuté selon des modalités fort distinctes dans les deux cas. En d'autres termes, madame Mélanie Jean travaillait en quelque sorte pour son conjoint ou au nom de ce dernier, empêchant ainsi la formation d'un véritable contrat de louage de services.
+[45] Lorsque l'appelant Stéphane Bacon a vu sa disponibilité réduite au point de ne plus être en mesure d'exécuter le travail, les parties ont accepté de modifier l'entente. Jusqu'à ce moment, l'association avait été pleinement satisfaite par le travail de Stéphane Bacon qui avait toujours agi de façon fiable et responsable.
+[46] Ce dernier se portant garant de la bonne exécution du travail par sa conjointe, l'association a en quelque sorte accepté de modifier l'entente de travail sur la base que le lien « intuitae personae » serait maintenu par la garantie offerte par ce dernier.
+[47] Pour la première période en litige, le travail exécuté par l'appelant rencontrait les exigences d'un véritable contrat de louage de services. Même si, à l'occasion, il a pu se faire aider et récompenser ceux et celles qui ont pu ainsi contribuer à l'exécution du travail, cela ne modifie pas pour autant la nature du contrat. En effet, il faut comprendre qu'il s'agit d'un travail très particulier. Lorsque des jeunes ou même des adultes attendent que la glace soit prête, il est normal et usuel que pour accélérer le processus, tous s'y mettent de manière à pouvoir profiter plus rapidement de la patinoire.
+[48] Pour toutes ces raisons, l'appel de Stéphane Bacon est accueilli et la décision du ministre en date du 25 septembre 2003 est modifiée, au motif qu'il a à exercé, du 19 décembre 1999 au 24 mars 2000, un emploi en vertu d'un véritable contrat de louage de services.
+[49] Quant à l'appel de Mélanie Jean, il est rejeté et la décision du ministre est confirmée, au motif que, du 10 décembre 2000 au 17 mars 2001, du 2 décembre 2001 au 16 mars 2002 et du 10 décembre 2002 au 29 mars 2003, le travail a été exécuté dans le cadre d'un contrat d'entreprise, l'entrepreneur étant le conjoint.
+[50] Pour ce qui est de la demande d'annuler les trop payés, je n'ai ni l'autorité ni la compétence pour le faire. Je prends cependant pour acquis qu'il doit sans doute être tenu compte de la capacité de payer du débiteur lors d'une telle réclamation.
+Signé à Ottawa, Canada, ce 26e jour d'août 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI477
+Nos DES DOSSIERS DE LA COUR :
+2004-80(EI) et 2004-107(EI)
+INTITULÉS DES CAUSES :
+Mélanie Jean et Stéphane Bacon et MRN
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATE DE L'AUDIENCE :
+le 20 juillet 2005
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 26 août 2005
+COMPARUTIONS :
+Représentant des appelants :
+Laurent Boucher
+Avocat de l'intimé :
+Me Martin Lamoureux
+Pour les appelants :
+Pour l'intimé :
+John H. Sims, c.r., sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

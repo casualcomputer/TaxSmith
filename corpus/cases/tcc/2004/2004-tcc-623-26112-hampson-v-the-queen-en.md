@@ -1,0 +1,130 @@
+---
+title: "Hampson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26112/index.do"
+last_modified: "2004-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 623"
+citation2: ""
+neutral_citation: "2004 TCC 623"
+decision_date: "2004-09-17"
+language: "en"
+item_id: "26112"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4173
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:01:44.956000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1213f9c6a518c9fefaafaef2be9197d3311fc61f235e8324f5b573bed2516dc6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hampson v. The Queen
+
+- Citation: 2004 TCC 623
+- Decision date: 2004-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4173, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hampson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-17
+Neutral citation
+2004 TCC 623
+File numbers
+2004-214(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC623
+Date: 20040917
+Docket: 2004-214(IT)I
+BETWEEN:
+DOUG A. HAMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Agent for the Respondent: Andrew Majawa (Student-at-law)
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Vancouver, British Columbia, on July 14, 2004)
+Bowie J.
+[1] This case concerns the deductions from income claimed by the Appellant in connection with his income from self-employment as a psychologist in the taxation year 1999. His employment as a psychologist was largely, but not entirely, under a contract with the Correctional Services of Canada, and his revenue was $60,756. Against that he claimed expenses of $46,224, leaving him with a net income of $14,532.
+[2] He was reassessed on October 28, 2002, and substantial amounts of the expenses that he had claimed were disallowed, with the result that the Minister assessed him for a net income in respect of his self-employment of $48,798. On further reassessment that was reduced to $48,754 on October 14, 2003. At that point there were five items that had been disallowed in whole or in part, and this appeal is about the Appellant's entitlement to those specific deductions. I will deal with them in the order in which they appear on Schedule A to the Minister's Reply to the Notice of Appeal, which sets out the numbers conveniently.
+[3] The first item is an amount of $700 claimed as bad debt expense. The Appellant in his work for Canadian Correctional Services does work with inmates and former inmates of penal institutions. He explained that this $700 was the aggregate of a number of amounts that he had loaned from time to time to inmates to assist them in one way or another, and which had not been repaid to him. Quite apart from any issues of timing, the Appellant is not in the money-lending business, and therefore, to be entitled to any such deduction he would have to bring it within paragraph 20(1)(p) of the Income Tax Act. An amount can only be brought within 20(1)(p) if it can be shown to have been brought into income in the year, or in a prior year. The evidence in this case establishes, I think, on a balance of probabilities that that amount was never brought into income by the Appellant. And so his appeal in respect of that amount fails.
+[5] The next item that is in issue is a claim for $16,000 for what is described as management and administration expense. The evidence reveals that the claim is actually in respect of amounts that the Appellant claims to have paid to his wife to assist him in his work. He produced as Exhibit A-6 a list of tasks that made up the work for which he claimed to have paid her this amount. As I understand it, this list was made up not to provide any guidance to her in the work she was expected to do, but to attempt to establish for the auditor that she did some work that was worthy of compensation. It consists of such things as receiving and responding to phone calls and e-mails, scheduling appointments, "keeping in touch with me regarding immediate needs", assisting in designing and constructing professional reports, proofreading, and assisting in crisis intervention. On cross-examination the Appellant agreed that the latter item was to a large extent simply providing the kind of support that spouses generally provide to each other in respect of a difficult day at the office, if I can paraphrase. Other items on the list were assisting in public relations activities (reading press releases, keeping me aware of current events), which on cross-examination turned out to be, as I understood the Appellant, bringing to his attention any news items that she saw concerning inmates or former inmates in respect of whom the Appellant was concerned under his contract; paying bills and keeping receipts current, which I think can fairly be said to be more household bills than any bills relating entirely to the Appellant's professional obligations; and contract negotiations and hosting and entertaining professional contact visits.
+[6] The Minister's position is, first of all, that this really amounts to little or nothing more than any stay-at-home spouse would do without compensation; secondly, that the money was never paid; and thirdly, that if it had been paid and if there had been duties, it would have been an unreasonable amount to pay for those services. The Appellant's evidence aimed at showing that the amounts were paid consisted of Exhibit A-1, which is the statements of the joint bank account in the name of the Appellant and his wife for the 1999 calendar year, supplemented by Exhibit A-3 which is said to extract from the entries the amounts that the Appellant's wife withdrew from the bank account for her own benefit to comprise the $16,000 in question, and an additional $2,684.08 as well. That list contains such things as car payments on the car that the Appellant said belonged to his wife; payments to the Mennonite Educational Institute for the fees of their two children who attended that school; half of the mortgage payments made on the house in their joint names; $40 on April 1st for a driver's license; intermittent loan interest payments; other payments that were simply never particularized, such as $34 for something called Nutrizoo, $10 for Athabasca, $100 for Peewee, and $19 for something called Mountain West, and $955 apparently to pay a MasterCard bill. These look to me far more like normal household expenses than the payment of a salary for administrative duties.
+[7] When pressed on this during the audit of his affairs, the Appellant apparently produced a cheque written to his wife in May 2002 for $16,000, which one might suspect was re-deposited by her to the same joint bank account, although the evidence falls short of clearly establishing that. But the Appellant's willingness to enter into that transaction at all in 2002, it seems to me quite clearly puts the lie to his proposition that the transactions listed on Exhibit A-3 constitute his payment of $16,000 by way of salary to his wife.
+[8] I will come back to that item in a moment when I deal with an item concerning payments alleged to have been made to the Appellant's children, but for the moment I move on to the next item that was in dispute, which was $837 claimed by the Appellant as an expense under the head of Meals and Entertainment. That is cumulatively recorded on Exhibit A-10. Exhibit A-10 is about two and a quarter pages of itemized expenditures ranging from a low of $1.55 at Starbucks for a cup of coffee with Joe McKenna, to a high of $110 for supper with Dale Sawatzky at Earl's in White Rock. The Appellant explained that these expenditures were largely in two categories. Some were to entertain employees of the Correctional Services with whom he dealt on a day-to-day basis and who, he hoped, would be helpful in obtaining future contracts, and perhaps a few other people unrelated to the Correctional Services whom he entertained for essentially the same purpose. Others were to entertain a few people engaged in the same type of work that he was engaged in himself, with whom he exchanged views and information over coffee or meals. A third category was former inmates with whom he was involved in his work for the Correctional Services.
+[9] The Crown's submission is that of the $881 claimed, which is half of the total amount said to have been expended, $44 was allowed, and that represents all that can be said to have been spent for the purpose of gaining or producing income. I think that is a rather narrow view of the purpose of gaining or producing income, and I am inclined to think that, with one notable exception, these are legitimate expenditures that could be put under the rubric of business promotion or discussions involving business matters.
+[10] The one notable exception is an expenditure of $82 at the Spaghetti Factory when the Appellant and his wife and two children had supper there on May 24. The Appellant's justification of the claim was that as his wife and children worked for him, they were entitled to something that might be considered analogous to an annual office party, and this was it. I disagree. As will become evident in a moment, I do not consider that the Appellant's wife and children worked for him to any significant extent at all, and I can see no legitimate justification for that particular expenditure. The meals and entertainment as claimed at $881 will be reduced by $41. The Appellant is entitled to a deduction of $840 for meals and entertainment.
+[11] The next item is a claim in respect of office expense. I was advised at the beginning of the trial that the parties had reached an agreement on that item. The Minister had disallowed $4,185 being the cost of a computer that was claimed as an expense. The parties are agreed that the Appellant is entitled to claim capital cost allowance in respect of that item in the amount of $860.55, which is computed on the basis of a capital cost of $4,185, subject to the half-year rule within the Class 10 pool.
+[12] The remaining item is $12,500 that the Appellant claims to have paid to his two children for their services. The Appellant's son, at the relevant time, was 14 years old and his daughter 9 or 10 years old. His son was in grade 9 and his daughter in grade 4 or grade 5. The Appellant's position is that he paid $7,000 to his son for services which he described somewhat vaguely, but would come under the general rubric of assistance in connection with computer programming, computer software and the like. Whether the Appellant went so far in his evidence as to say that his son wrote computer programs or not is not entirely clear to me, given the vagueness of his description of what his son did. I have no doubt that his son is a bright young fellow, or was a bright young fellow at that age, and that there were probably lots of things about the operation of computers that he understood and could perform better than his father. Nevertheless to justify expenditures of $7,000 for his services requires a good deal more evidence than there is before me today.
+[13] First of all there is the question whether the money was paid at all, to either his son or his daughter. Exhibits A-4 and A-5 are two receipts, one signed by his son, one signed by his daughter, both dated December 31, 1999, both worded in a way that appears more adult than childlike, the relevant words of which are:
+I have received a total of $5,500 from Doug Hampson for services that I have render [sic] in regards to Mr. Hampson's business.
+signed by XXXXX, and:
+I have received $7,000 in cash payments from Doug Hampson for services that I have rendered in regard to Mr. Hampson's business.
+signed by XXXXX.
+[14] Now it came out during the cross-examination of Mr. Hampson that the payments he claims to have made to his son consisted of such things as paying his son's school fees, and credits, vaguely described, towards the possible future ownership by his son of what he called "the family truck". It is perfectly clear from the evidence that there was no payment, or series of payments, made to XXXXX totalling $7,000 during the year 1999, and there was no payment, or series of payments, totalling $5,500 paid by Mr. Hampson to XXXXX during the year 1999. He said in respect of XXXXX as well, when asked to particularize the payments, that some part of it went to the payment of her school fees. The Appellant's evidence overall was evasive, conflicting and intended I think to confuse and obfuscate. But the bottom line insofar as the payments that he claims to have made to his wife and to his two children in respect of services that they are said to have performed for him, is this. The Appellant said that his contract with the Canadian Correctional Services paid him $58,500 for 15 hours of work per week during the year. He billed the Correctional Services on that basis, and this came to $75 per hour. He then looked at the amount that would have been his annual rate of pay if he had been on salary as a psychologist with the Correctional Services, and concluded, rightly or wrongly, that that salary would have worked out to $32 per hour. He then rationalized that the difference of $43 per hour must be the value of the (as he put it) support provided by his wife and two children to assist him in performing the contractual services, and that they should therefore be paid an aggregate amongst them of that $43 per hour, which computed to $28,500 for the year. He did not elaborate to any great extent on how he divided that amongst the three of them to produce $12,500 for the two children and $16,000 for his wife. He did not enter into any written contract with any of them, either specifying the work to be done or the amounts to be paid. He did not produce any kind of record that would substantiate that transactions of the kind he imagined in fact took place. He had no record and made no estimate of the amount of time that any of the three of them spent on the so-called duties for which they were supposedly being remunerated. His daughter's duties, he said, were to clean his office, a 10' x 12' room in the family home, and to assist in cleaning his vehicle. In my view the claims that these amounts were payment for services rendered are simply false.
+[16] The Appellant's income tax return was filed electronically, but Mr. Majawa put to him during cross-examination a reconstruction of that income tax return, which the Appellant accepted as being accurate. It shows those amounts of $16,000 for management and administration expenses and $12,800 for salaries and wages. I am not quite sure what the $300 difference is, but apparently there was $300 that was allowed by the Minister in assessing. Having regard to the Appellant's evidence, those two claims strike me as being best described as fictional. The Minister has apparently not assessed any penalties in respect of those amounts, and the Appellant may perhaps consider himself fortunate in that regard. No amount should be allowed in respect of the payments claimed to have been made to the Appellant's wife and two children, because I am not persuaded by the evidence that any payments were actually made to any of them in respect of services. If any such payments had been made, I have no doubt whatsoever that they would not pass the test of reasonableness as it was laid down many years ago by Mr. Justice Cattanach in Gabco v. M.N.R.[1]
+[18] In the result therefore, the appeal will be allowed, to allow the Appellant additional deductions of $840 for meals and entertainment, and capital cost allowance in the amount of $860.55. If I could make an award of costs against the Appellant I would do so, but as this is an informal procedure appeal, the Act prohibits that.
+Signed at Ottawa, Canada, this 17th day of September, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC623
+COURT FILE NO.:
+2004-214(IT)I
+STYLE OF CAUSE:
+Doug A. Hampson and Her Majesty the Queen
+PLACE OF HEARING
+Vancouver, British Columbia
+DATE OF HEARING
+July 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+July 19, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Andrew Majawa (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 68 DTC 5210.

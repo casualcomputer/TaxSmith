@@ -1,0 +1,131 @@
+---
+title: "Neal c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25601/index.do"
+last_modified: "2004-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 21"
+citation2: ""
+neutral_citation: "2004 CCI 21"
+decision_date: "2004-01-08"
+language: "fr"
+item_id: "25601"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2475
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:09:23.837000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed32212dc2f2f788e2eb3c80aaa7e33fe99bea17e2d8145978858c677d8968a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neal c. La Reine
+
+- Citation: 2004 CCI 21
+- Decision date: 2004-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2475, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-08
+Référence neutre
+2004 CCI 21
+Numéro de dossier
+2003-1305(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑1305(IT)I
+ENTRE :
+WES NEAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 24 novembre 2003 à Calgary (Alberta)
+Par : L’honorable juge E. A. Bowie
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 sont accueillis, avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations au motif que la principale source de revenu de l’appelant dérive à la fois de son emploi et de l’exploitation de sa ferme.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2004.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI21
+Date : 20040108
+Dossier : 2003‑1305(IT)I
+ENTRE :
+WES NEAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Neal interjette appel à l’encontre des cotisations fiscales établies à son égard pour les années 1998 et 1999. Ses appels ont été entendus sous le régime de la procédure informelle de la Cour. La seule question est celle de savoir s’il a le droit de soustraire des pertes qu’il a subies dans son entreprise agricole à son autre revenu, et ce, sans restrictions. Pour calculer le montant d’imposition, le ministre du Revenu national a soutenu que la principale source de revenu de l’appelant pendant ces deux années n’était ni son exploitation agricole ni une combinaison des revenus de son entreprise agricole et de son emploi en tant que chef de forage dans l’industrie pétrolière. Par conséquent, il a appliqué l’article 31 de la Loi de l’impôt sur le revenu (la Loi) pour limiter les pertes admissibles à 8 750 $ pour chaque année. La position de l’appelant consiste en ce que son emploi et ses activités agricoles sont à la fois sa principale source de revenu et que, par conséquent, il n’est pas assujetti aux limitations imposées par l’article 31.
+[2] Dans son exploitation agricole, l’appelant se consacre à l’élevage et à l’entraînement de quarter horses pour les vendre. Dans sa déclaration de revenus pour les années faisant l’objet du présent appel, il a déclaré son revenu d’emploi et les pertes subies dans son entreprise agricole ainsi :
+[traduction]
+1998
+1999
+Revenu d’emploi
+66 205 $
+50 884 $
+Pertes relatives aux activités agricoles
+57 280
+37 917
+Initialement, il a été imposé en fonction de ces données. Cependant, dans une nouvelle cotisation ultérieure, le ministre a rejeté sa demande à l’égard de certaines dépenses agricoles et a réduit ainsi les pertes agricoles aux montants de 52 703 $ pour 1998 et de 28 468 $ pour 1999. Le ministre a aussi appliqué l’article 31 de la Loi pour limiter le montant admissible des pertes. Dans ses appels, M. Neal ne conteste pas le nouveau calcul des pertes, mais il soutient qu’elles devraient être admissibles dans leur totalité.
+[3] Vers la fin des années 80 et au début des années 90, M. Neal se consacrait à élever du bétail dans une demi‑section de terre. Son revenu d’emploi au long de ces années était négligeable; il ne gagnait en moyenne que 2 736 $ entre 1988 et 1993. Dans la même période de temps, le revenu de sa ferme fluctuait entre une perte de 8 815 $ en 1989 et un gain de 11 596 $ en 1992. Sa demi‑section comprenait un terrain boisé et, ce qu’il a plus tard regretté, il a conclu une entente avec un marchand de bois pour y couper les arbres. Le résultat a été désastreux pour lui, des points de vue écologique et financier. À l’automne 1993, il a estimé qu’il lui était nécessaire de vendre la terre et le bétail, ainsi que de trouver un emploi permanent dans les champs de pétrole. Il pouvait gagner bien sa vie en tant que chef de forage, mais son mode de vie préféré était d’exploiter une ferme.
+[4] En 1994, l’appelant a déménagé dans une terre de trois‑quarts de section près de Rocky Mountain House, en Alberta, mise à sa disposition par son beau‑père pour qu’il élève des quarter horses. Il désirait que le ranch devienne une entreprise capable d’assurer sa subsistance et celle de sa famille. Pendant ce temps, il continuerait de travailler dans les champs de pétrole aussi longtemps que nécessaire, pour pouvoir être en mesure de financer les dépenses considérables dont il aurait besoin pour démarrer sa nouvelle entreprise et pour subvenir aux besoins de sa famille en même temps. Sa priorité principale, bien sûr, était d’assembler un troupeau de chevaux et, pour ce faire, sa stratégie consistait à acheter un étalon ainsi que cinq ou six juments poulinières, sélectionnés soigneusement en fonction de leur lignée. Il a fait féconder les juments chaque année. Il gardait les pouliches pour élargir le troupeau et vendait les poulains aussitôt qu’ils étaient prêts pour la vente. Pour faciliter leur vente, les poulains devaient être domptés puis entraînés, un processus qui pouvait durer entre deux et quatre ans. Pendant ce temps, les poulains ne produisaient pas de revenus, mais représentaient une dépense puisqu’ils devaient être nourris et soignés.
+[5] Entre 1994 et l’audition des appels, en octobre 2003, l’appelant a acquis la réputation de vendre des quarter horses de grande qualité destinés à des ranchs, des rodéos et des spectacles. Il a aussi réussi à réaliser son rêve de posséder un troupeau d’un peu plus de 100 chevaux, comportant environ 50 juments pour la reproduction, 25 pouliches et, pour le reste, des hongres et des étalons destinés à la vente. Cependant, tout ceci a pris du temps. En 1998, le troupeau comprenait 41 chevaux et en 1999, il y en avait environ 55. Ces résultats ont coûté beaucoup d’efforts et de dépenses. La femme et la fille de l’appelant ont beaucoup contribué de leur travail, en prenant soin des chevaux et en leur faisant faire de l’exercice, surtout lorsque l’appelant était au travail, dans les champs de pétrole. Cependant, il a effectué aussi lui‑même une grande partie du travail. Selon son horaire de travail, il devait travailler 12 heures par jour pendant deux semaines, puis avait une semaine de congé. Il passait ses semaines de congé à travailler à temps plein au ranch. Puis, pour être en mesure de travailler au ranch à temps plein pendant la période la plus cruciale de l’année, il ne travaillait que neuf mois et demi dans les champs de pétrole. Du 1er mai au 15 juillet de chaque année, il travaillait au ranch. Il s’agit de la période de temps la plus occupée dans l’industrie d’élevage de chevaux. Par conséquent, il s’agit d’une période où il était fondamental qu’il soit disponible pour s’occuper des affaires du ranch et notamment des activités de mises bas et de l’entraînement.
+[6] En raison de l’insistance du ministre dans sa Réponse à l’avis d’appel, il est raisonnable d’inférer que, pour établir les cotisations, ce dernier a nettement été influencé par les pertes agricoles successives que l’appelant a déclarées entre 1994, où il a entamé l’élevage de quarter horses, et 2001. Leur somme s’élève à environ 245 000 $. Cependant, cela doit être observé à la lumière du fait que l’appelant a commencé de nouvelles activités d’élevage en 1994. Il a témoigné qu’entre deux et quatre ans peuvent s’écouler après la naissance des premiers chevaux, avant qu’aucun d’eux ne soit prêt pour la vente. De plus, sa politique était de garder les chevaux pour élargir le troupeau. Cependant, la question n’est pas celle de savoir si ces activités ont été rentables dans le passé. La question est de savoir si l’appelant répond au critère prévu à l’article 31 de la Loi, tel qu’il a été interprété dans l’arrêt Moldowan[1] et dans les jugements subséquents qui l’expliquent. Comme le dit le juge Dickson dans l’arrêt Moldowan au paragraphe 13 :
+Déterminer si une source de revenu est la principale « source » de revenu d’un contribuable suppose un test à la fois relatif et objectif. Ce n’est incontestablement pas une simple question de proportion. […]
+[…]
+Il a continué ainsi au paragraphe 17 :
+Le paragraphe […] suppose l'existence d'un contribuable qui tire son revenu de l'agriculture et de quelqu'autre source et il renvoie donc à la 1re catégorie. Il vise une personne dont l'agriculture est la préoccupation majeure, tout en tenant compte de ses autres intérêts pécuniaires, comme un revenu provenant d'un investissement, d'un emploi ou d'une entreprise secondaire. L'article prévoit que ces intérêts subsidiaires ne placent pas le contribuable dans la 2e catégorie : le montant déductible pour perte n'est donc pas limité à 5 000 $. Bien que la proportion du revenu provenant de l'agriculture soit pertinente, elle n'est pas en elle-même décisive. Le test est à la fois relatif et objectif et on peut utiliser les critères indicatifs de la principale « source » de revenu pour discerner s'il s'agit ou non d'un intérêt auxiliaire. Une personne qui a exploité une ferme toute sa vie ne cesse pas d'appartenir à la 1re catégorie uniquement parce qu'elle reçoit un héritage. D'autre part, une personne qui change de travail et concentre ses forces et ses capitaux dans l'agriculture avec l'espoir d'en tirer son revenu principal ne perd pas son droit de déduire la totalité de ses frais d'établissement.
+[7] À mon avis, la preuve de M. Neal concorde parfaitement avec la dernière phrase de cet extrait. Avant 1994, il était agriculteur à temps plein, à en juger par la preuve limitée qui se trouve devant moi. Son revenu, à partir de l’année 1990 jusqu’à 1993, provenait surtout de l’élevage de bétail. Le changement de son orientation professionnelle en 1994 n’a pas eu lieu en raison de son désir de devenir un ouvrier des champs de pétrole, mais de celui d’élever des chevaux. Son témoignage subjectif a porté sur cela et n’a pas été contesté. Tout aussi important, la preuve portant sur ses activités ultérieures soutient ce point de vue. Je suis convaincu, en me fondant sur la preuve, que sa principale préoccupation était le ranch et non pas les champs de pétrole. Il arrangeait son travail auprès de la société pétrolière de manière à être au ranch au moment où sa présence était la plus nécessaire. Il gagnait, en moyenne, plus de 60 000 $ par an dans les champs de pétrole, mais il a tout investi dans le ranch, après avoir subvenu aux besoins de sa famille. Ces revenus lui ont permis de payer les factures de nourriture et des autres besoins des chevaux, pendant que le troupeau grandissait jusqu’à atteindre 100 chevaux et qu’il est devenu éleveur réputé de chevaux de qualité. Je suis convaincu aussi, sur le fondement de la preuve, que le ranch possède la capacité de devenir rentable dans un futur proche. M. Neal a témoigné que tout ce qui reste à faire pour y parvenir est de construire une piste de dressage où les chevaux pourront être entraînés pendant l’hiver et qu’il a l’intention de la construire dans un délai d’une année.
+[8] M. Neal n’est pas un planificateur financier sophistiqué. Il a joint, cependant, à son Avis d’appel, le plan quinquennal de développement du ranch, de l’année 2001 à 2006. Ce plan ainsi que son témoignage oral à propos de ses plans de construire la piste de dressage en 2004 m’ont convaincu qu’il y a de fortes probabilités pour qu’il réussisse à rentabiliser son élevage de chevaux suffisamment pour être en mesure de quitter son emploi et de travailler à temps plein au ranch, dans un avenir prévisible. À ce point‑là, l’élevage de chevaux sera le centre de sa routine de travail et fournira la plupart de ses revenus. Il importe de rappeler à cet égard que, dans les années précédant immédiatement 1994, l’appelant réalisait la plupart de ses revenus de ses activités agricoles et que sa routine de travail se concentrait dans l’élevage de bétail. Il était agriculteur à temps plein. À partir de 1994, l’élevage de chevaux a été le centre de sa routine de travail, bien qu’il ait dû s’en éloigner deux semaines sur trois, entre juillet et mai, puisqu’il avait besoin de gagner de l’argent pour vivre et pour réaliser sa nouvelle entreprise.
+[9] Il y a une grande similarité entre la présente affaire et La Reine c. Graham[2]. Je ne vais pas réécrire toutes les hypothèses de fait que le ministre a plaidé en l’espèce. Beaucoup d’entre elles touchent à des conclusions de droit qui, bien sûr, ne devraient pas être plaidées comme si elles étaient de caractère factuel3. Cependant, je crois qu’il est juste de conclure, sur le fondement du paragraphe 13 de la Réponse de l’intimée, que les nouvelles cotisations ont été motivées par deux facteurs principaux. D’abord, l’appelant travaillait à temps plein dans les champs de pétrole; l’autre facteur, ce sont les pertes que les activités du ranch ont générées pendant ses huit premières années. Les mêmes facteurs étaient présents dans l’affaire Graham, mais ils n’écartaient pas la conclusion selon laquelle la préoccupation principale du contribuable était son travail à la ferme. De manière significative, dans les deux cas, le ministre a accepté que les activités agricoles étaient des sources de revenu pour le contribuable, mais n’a pas accepté que ces activités constituent la source principale de revenu lorsque combinées à un emploi. Je ne trouve pas de fondements de base qui puissent distinguer l’affaire Graham de la présente affaire.
+[10] Je conclus que, pour les années faisant l’objet du présent appel, l’appelant n’était pas assujetti aux limitations prévues à l’article 31. Les appels sont accueillis et les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations sur cette base. L’appelant a droit à ses dépens, soit tous les débours qu’il a dû effectuer pour interjeter appel.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2004.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+[1] Moldowan c. La Reine, [1978] 1 R.C.S. 480.
+[2] C.A.F., A‑1627‑83, 7 mai 1985 (85 DTC 5256).
+3 Anchor Pointe Energy Ltd. c. La Reine, C.A.F., A‑559‑02, 2 juillet 2003 (2003 DTC 5512), aux paragraphes 23 à 26.

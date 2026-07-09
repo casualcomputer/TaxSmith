@@ -1,0 +1,138 @@
+---
+title: "Larose c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29367/index.do"
+last_modified: "2009-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 415"
+citation2: ""
+neutral_citation: "2009 CCI 415"
+decision_date: "2009-08-27"
+language: "fr"
+item_id: "29367"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6919
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:38:42.591000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "492c1efe2675691e62210aa73e7017c1d7c48c01c23a5b0e6d9050f25898c77a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larose c. La Reine
+
+- Citation: 2009 CCI 415
+- Decision date: 2009-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6919, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larose c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-27
+Référence neutre
+2009 CCI 415
+Numéro de dossier
+2008-2387(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-2387(GST)I
+ENTRE :
+SHAWN LAROSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 23 juin et 3 juillet 2009 à Ottawa (Canada).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Christian Daniel Landry
+Avocate de l'intimée :
+Me Martine Bergeron
+____________________________________________________________________
+JUGEMENT
+L’appel à l'encontre de la cotisation datée du 12 décembre 2006 et portant le numéro PH-2006-64, établie en vertu du paragraphe 323(1) de la Loi sur la taxe d'accise relativement à la période du 1er juillet 2001 au 31 mai 2004 est rejeté selon les motifs ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d'août 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 415
+Date : 20090827
+Dossier : 2008-2387(GST)I
+ENTRE :
+SHAWN LAROSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L'appelant interjette appel à l'encontre d'une cotisation datée du 12 décembre 2006 établie par le ministre du Revenu du Québec agissant en tant que mandataire du ministre du Revenu national (collectivement décrits comme le « ministre ») en vertu de laquelle il était réclamé à l'appelant, à titre d'administrateur de la société 2703041 Canada Inc. (« 2703041 »), des droits de 48 248,46 $. Ces droits correspondent à la taxe nette (avec les intérêts et pénalités) que 2703041 aurait dû verser au ministre le 29 novembre 2005 en vertu du paragraphe 228(2) de la Loi sur la taxe d’accise, L.R.C. (1985), c. E-15, telle que modifiée (la « LTA »), pour la période du 1er juillet 2001 au 31 mai 2004. L'appelant a été cotisé en vertu du paragraphe 323(1) de la LTA.
+[2] L'appelant ne conteste pas le bien-fondé en faits et en droit des cotisations établies à l'encontre de 2703041.
+[3] Pendant les périodes visées par la cotisation en litige, l'appelant était le seul administrateur de jure de 2703041, étant inscrit auprès de l'Inspecteur général des institutions financières et d'Industrie Canada et n'ayant toujours pas démissionné lors de l'établissement de la cotisation en litige.
+[4] 2703041 a été constituée en société le 28 mars 1991 et exploitait un commerce sous la raison sociale de « Centre de services Shawn's ». Il s'agissait d'un commerce de vente au détail de produits John Deere (depuis 1994) et de réparations de petits moteurs. L'appelant s'occupait de la mécanique dans l'atelier adjacent à la résidence familiale et son ex-conjointe, madame Guylaine Venne, s'occupait de l'administration du commerce, soit la comptabilité, la tenue de livres et les finances. L'appelant était propriétaire de la totalité des actions de 2703041. Le 29 novembre 2005, 2703041 a fait cession de ses biens.
+[5] L'appelant et sa conjointe ont cessé de faire vie commune le 13 août 2000. Aux termes d'une entente sur mesures accessoires conclue en date du 10 avril 2002, l'ex-conjointe a obtenu la garde légale des trois enfants mineurs du couple (le 4e enfant était majeur) et l'appelant a convenu de verser à son ex-conjointe une pension alimentaire de 400 $ nette par mois. L'entente sur mesures accessoires est très explicite quant au partage des biens et des dettes du couple. Il y est notamment prévu que : a) l'ex-conjointe sera la seule et unique propriétaire de l'immeuble situé au 700, route 105 à Chelsea; b) l'appelant sera le seul et unique propriétaire de l'immeuble situé au 60, rue Scott à Chelsea; c) l'appelant sera le seul et unique propriétaire du commerce « Centre de services Shawn's » et des biens suivants: un camion Dodge Ram 1997, une motoneige, un bateau, des outils et des remorques utilitaires; d) l'appelant sera le seul responsable de toute dette directe ou indirecte liée à l'entreprise « Centre de Services Shawn's » et l'appelant libère entièrement son ex-conjointe de toute responsabilité face à ladite entreprise et/ou créanciers et tiers. L'entente stipule également que les parties demandent au tribunal de déclarer que la valeur du patrimoine familial soit établie à la date où les époux ont cessé de faire vie commune, soit le 13 août 2000 et que les parties désirent que les effets du divorce remontent à la date de cessation de leur vie commune. Les modalités de l'entente sur les mesures accessoires ont été intégrées dans le jugement de divorce daté du 6 mai 2002.
+[6] L'appelant allègue qu'à compter de la date à laquelle il a cessé de faire vie commune avec sa conjointe, le 13 août 2000, il a délaissé la résidence familiale de même que l'entreprise exploitée dans un atelier en annexe de ladite résidence familiale. Il a toutefois poursuivi son travail de mécanicien à l'atelier jusqu'à ce que son ex-conjointe trouve un autre mécanicien pour le remplacer.
+[7] Selon le témoignage de l'appelant, il aurait accepté de reprendre l'entreprise suite à la conclusion de l'entente sur les mesures accessoires sur la foi des représentations de son ex-conjointe à l'effet que l'entreprise n'avait que 3 000 $ à 4 000 $ de dettes. À l'audience, l'appelant a déclaré avoir reçu des factures de la part des fournisseurs et des autorités fiscales pour un montant totalisant entre 40 000 $ et 50 000 $. Toujours selon l'appelant, il aurait vendu la franchise John Deere, l'inventaire, certains équipements et la liste de clients en septembre 2002 et le produit de la vente aurait servi à payer les fournisseurs. Suite à cette vente, l'appelant aurait continué d'exploiter l'entreprise sur une base limitée en exécutant certains contrats pour Hydro Ontario.
+Analyse
+[8] Le paragraphe 323(1) de la LTA a pour effet de rendre les administrateurs d'une société solidairement responsables avec la société des montants de taxes et de retenues à la source que cette dernière devait remettre au ministre. Le paragraphe 323(1) de la LTA se lit comme suit:
+Responsabilité des administrateurs — Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette comme l'exigent les paragraphes 228(2) ou (2.3), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités afférents.
+[9] Un administrateur peut se soustraire de cette responsabilité si les conditions du paragraphe 323(3) de la LTA sont rencontrées. Le paragraphe 323(3) de la LTA se lit comme suit:
+Diligence — L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[10] La question en litige dans la présente cause consiste à déterminer si l'appelant peut être tenu responsable des dettes fiscales encourues par 2703041 pendant la période de 18 mois comprise entre la date à laquelle le couple s'est séparé, soit le 13 août 2000, et la date à laquelle l'entente sur les mesures accessoires a été conclue, soit le 10 avril 2002, soit la période au cours de laquelle l'appelant prétend ne pas avoir eu le contrôle effectif de l'entreprise même s'il était légalement le seul et unique propriétaire de l'entreprise et le seul et unique administrateur de ladite société.
+[11] Pour répondre à cette question, il importe de considérer si l'appelant s'est effectivement départi du contrôle et de l'administration de 2703041 lors de la séparation du couple. Cette assertion de fait de la part de l'appelant repose uniquement sur le témoignage non contredit de ce dernier. Aucune preuve documentaire et aucun autre témoignage de la part de l'ex-conjointe, du comptable, du banquier, des clients et fournisseurs de l'entreprise n'ont corroboré le témoignage de l'appelant. Lors de son témoignage, l'appelant a reconnu n'avoir posé quelque geste que ce soit pour cesser d'être administrateur de 2703041, pour cesser d'être un signataire autorisé auprès de la banque (une seule signature, soit celle de l'appelant ou de sa conjointe était suffisante) et pour effectuer le transfert des actifs ou des actions de ladite société à son ex-conjointe.
+[12] Par contre, le seul document soumis par l'intimée démontrant une gestion active de l'entreprise de la part de l'appelant au cours de la période en litige, est un document bancaire daté du 24 octobre 2000 par lequel l'appelant se rend responsable envers l'institution de toutes transactions faites ou à faire avec l'institution en rapport avec tous billets à ordre, traites, chèques, reçus ou autres effets de commerce faits, tirés, acceptés, endossés ou signés au nom de ladite entreprise. Selon l'appelant, la signature apparaissant sur ledit document n'est pas la sienne.
+[13] Dans le questionnaire signé par l'appelant en date du 25 novembre 2003, l'appelant a fourni les raisons suivantes pour expliquer les causes ayant empêché 2703041 de remettre ses versements de taxes, incluant la taxe sur les produits et services et les retenues à la source: manque de liquidités; changement de personnel dans la gérance; nouvelle orientation forcée de l'entreprise et son divorce. Aucune référence n'y a été faite au fait que l'appelant n'avait plus de contrôle de l'entreprise ou n'était plus impliqué dans la gestion de l'entreprise.
+[14] Aux termes de l'entente sur les mesures accessoires, l'appelant n'a jamais cessé d'être propriétaire de l'entreprise « Centre de services Shawn's » puisque les parties ont fait en sorte que les effets du divorce remontent à la date de cessation de leur vie commune, soit le 13 août 2000.
+[15] À la lumière des faits, il m'apparaît évident que l'appelant n'a pas agi avec le soin, la diligence et la compétence requis pour prévenir le manquement de 2703041 de remettre la taxe nette due au ministre pour les périodes en litige et que, par conséquent, il ne peut bénéficier de la défense de diligence raisonnable énoncée au paragraphe 323(3) de la LTA.
+[16] À l'audience, l'appelant a reconnu que, lorsqu'il a repris possession de l'entreprise suite à la conclusion de l'entente sur les mesures accessoires, il n'a même pas fait de vérification auprès des autorités fiscales compétentes pour connaître les montants de taxes ou de déductions à la source qui pouvaient alors leur être respectivement dus. Il n'a pas inspecté les livres et les registres de l'entreprise et il n'a pas discuté de la situation financière de l'entreprise avec le comptable de la société.
+[17] Non seulement, l'appelant était-il l'administrateur de jure de 2703041 et le seul et unique propriétaire des actions de ladite société mais il était, en plus, en mesure d'exercer une influence notable sur les activités de l'entreprise par le biais de la franchise John Deere. Au paragraphe 10 de l'avis d'appel, il est stipulé que, pendant les dix-huit mois qui ont suivi la cession de l'entreprise, l'ex-conjointe de l'appelant a été incapable de faire changer la franchise John Deere à son nom. Pour ce faire, la signature des documents de transfert de la franchise et le consentement de l'appelant étaient sans aucun doute requis.
+[18] L'appelant ne peut se plaindre de l'application du paragraphe 323(1) de la LTA puisqu'en vertu de l'entente sur les mesures accessoires, il s'est rendu personnellement responsable de toutes les dettes directes ou indirectes de l'entreprise « Centre de services Shawn's » et qu'il a libéré son ex-conjointe de toute responsabilité face à ladite entreprise et/ou créanciers et tiers. Aux termes de cette entente, les parties ont même convenu que ladite entente constituait une transaction au sens des articles 2631 et suivants du Code Civil du Québec.
+[19] À mon avis, la preuve soumise par l'appelant n'est pas suffisante pour démontrer que l'appelant avait perdu le contrôle des opérations de l'entreprise suite à la séparation du couple. L'incapacité pour l'ex-conjointe de l'appelant de faire transférer la franchise John Deere à son nom démontre bien que l'ex-conjointe de l'appelant n'avait pas le contrôle absolu sur les activités de l'entreprise, contrairement aux prétentions de l'appelant.
+[20] Pour ces motifs, l'appel à l'encontre de la cotisation datée du 12 décembre 2006 et portant le numéro PH-2206-64 est rejeté et les pénalités y afférentes sont maintenues.
+Signé à Ottawa, Canada, ce 27e jour d'août 2009.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009CCI415
+Nº DU DOSSIER DE LA COUR : 2008-2387(GST)I
+INTITULÉ DE LA CAUSE : Shawn Larose et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATES DE L’AUDIENCE : les 23 juin et 3 juillet 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 27 août 2009
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Christian Daniel Landry
+Avocate de l'intimée :
+Me Martine Bergeron
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Christian Daniel Landry
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

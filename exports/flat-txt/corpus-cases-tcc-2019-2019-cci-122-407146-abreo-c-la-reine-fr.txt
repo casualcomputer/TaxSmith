@@ -1,0 +1,459 @@
+Title: Abreo c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/407146/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-122-407146-abreo-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-24
+
+# Abreo c. La Reine
+
+- Citation: 2019 CCI 122
+- Decision date: 2019-05-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4366, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abreo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-24
+Référence neutre
+2019 CCI 122
+Numéro de dossier
+2013-3739(IT)I, 2013-4195(IT)I, 2014-2804(IT)I, 2014-379(IT)I, 2014-893(IT)I, 2015-1364(IT)I, 2015-1365(IT)I, 2015-1367(IT)I, 2015-1829(IT)I, 2015-3275(IT)I, 2015-3277(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3739(IT)I
+ENTRE :
+GLENYS ABREO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelante :
+Avocats de l’intimée :
+L’appelante elle-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2013-4195(IT)I
+ENTRE :
+MICHAELANGELO CAPISTRANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+Avocats de l’intimée :
+L’appelant lui-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2014-2804(IT)I
+ENTRE :
+NOAH M. THOMPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+Avocats de l’intimée :
+L’appelant lui-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2014-379(IT)I
+ENTRE :
+LARISSA KLEPATCH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelante :
+Avocats de l’intimée :
+L’appelante elle-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2014-893(IT)I
+ENTRE :
+GARRY HEALEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+Avocats de l’intimée :
+L’appelant lui-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2015-1364(IT)I
+ENTRE :
+DAVID HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+Avocats de l’intimée :
+L’appelant lui-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2015-1365(IT)I
+ENTRE :
+ARTHUR GOTHREAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+Avocats de l’intimée :
+L’appelant lui-même
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2015-1367(IT)I
+ENTRE :
+TERRI GOTHREAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant de l’appelant :
+Avocats de l’intimée :
+Arthur Gothreau
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2015-1829(IT)I
+ENTRE :
+TAHER CHIBANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant de l’appelant :
+Avocats de l’intimée :
+Me Shawn Deane
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002, 2003 et 2004 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Dossier : 2015-3275(IT)I
+ENTRE :
+MICHAEL EDWARD KINCHSULAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2015-3277(IT)I
+ET ENTRE :
+MICHAEL EDWARD KINCHSULAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Représentant de l’appelant :
+Avocats de l’intimée :
+Me Shawn Deane
+Me Vlad Zolia
+Me Christina Ham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est rejeté, sans dépens.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+Référence : 2019 CCI 122
+Date : 20190524
+Dossier : 2013-3739(IT)I
+ENTRE :
+GLENYS ABREO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-4195(IT)I
+ET ENTRE :
+MICHAELANGELO CAPISTRANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-2804(IT)I
+ET ENTRE :
+NOAH M. THOMPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-379(IT)I
+ET ENTRE :
+LARISSA KLEPATCH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-893(IT)I
+ET ENTRE :
+GARRY HEALEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-1364(IT)I
+ET ENTRE :
+DAVID HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-1365(IT)I
+ET ENTRE :
+ARTHUR GOTHREAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-1367(IT)I
+ET ENTRE :
+TERRI GOTHREAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-1829(IT)I
+ET ENTRE :
+TAHER CHIBANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-3275(IT)I
+ET ENTRE :
+MICHAEL EDWARD KINCHSULAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2015-3277(IT)I
+ET ENTRE :
+MICHAEL EDWARD KINCHSULAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge B. Paris
+[1] Tous les appelants aux présents appels ont participé en 2001, en 2002 et en 2003, à des fins de crédit d’impôt, à l’un ou aux deux programmes de dons reçus à une valeur plus élevée que celle payée, puis ils ont réclamé des crédits d’impôt pour don de bienfaisance à l’égard de ces dons de logiciels qu’ils ont effectués dans le cadre de ces programmes au bénéfice de la National Children’s Burn Society (la NCBS). M. Tom Reid, un comptable, et des sociétés sous son contrôle ont créé, promu et géré lesdits programmes de dons.
+[2] NCBS était un organisme de bienfaisance enregistré mis en place par M. Reid. La mission déclarée de NCBS était de [traduction] « promouvoir la sécurité incendie, la prévention, la sensibilisation et l’éducation auprès d’enfants, afin de faciliter l’adaptation psychologique des enfants brûlés ou défigurés après leur hospitalisation ou de leur proposer des activités de divertissement et de loisirs ».
+[3] Le ministre du Revenu national (le ministre) a établi de nouvelles cotisations à l’égard de tous les participants aux programmes et il a réduit leurs crédits d’impôt pour don de bienfaisance, au motif que la juste valeur marchande des logiciels au moment des dons était inférieure au montant réclamé. Lors de nouvelles cotisations subséquentes, le ministre a également supposé que les participants aux programmes ne possédaient pas l’intention de donation requise lorsqu’ils ont cédé les logiciels à NCBS et que, par conséquent, ils n’ont pas fait de dons à la NCBS admissibles à un crédit d’impôt pour don de bienfaisance. Toutefois, le ministre n’a pas réduit le montant des crédits d’impôt pour don de bienfaisance précédemment accordés. Dans sa réponse à l’avis d’appel, l’intimée a également fait valoir que les reçus officiels de dons remis aux appelants par NCBS étaient antidatés et, par conséquent, invalides.
+[4] Les appels ont été entendus sur preuve commune. M. Chibani et M. Kinchsular étaient représentés par M. Shawn Deane et Mme Gothreau était représentée par son conjoint. Tous les autres appelants se représentaient eux-mêmes.
+[5] L’intimée a convoqué deux témoins experts, un agent de l’Agence du revenu du Canada et M. Martin Warren, qui a été à l’emploi de M. Reid pour une partie de la période où ce dernier administrait les programmes. L’intimée a également convoqué M. Nadeem Khan, propriétaire d’une entreprise qui a fourni des logiciels pour le programme de 2001, ainsi que Mme Kim Soper, une gestionnaire à IBM.
+[6] Plusieurs des appelants ont témoigné : Mme Klepatch, M. Hamilton, M. Chibani, M. Thompson, M. Capistrano, M. Kinchsular et M. Healey. Les appelants ont également convoqué M. Deane et M. Robert Gagné, lesquels ont aussi participé aux programmes, ainsi que M. Maurice Bramhall, lequel avait fourni une évaluation de la valeur de certains des logiciels donnés.
+[7] Certains appelants se sont présentés au début de l’audition, mais ils n’ont pas été en mesure de rester pour toute sa durée. Ceux-ci ont indiqué qu’ils s’en remettraient à la preuve présentée et aux observations formulées par les autres appelants.
+QUESTIONS
+[8] Les questions en litige dans les présents appels consistent à rechercher si les appelants avaient l’intention de faire don des logiciels à NCBS, si les reçus officiels de dons remis par NCBS étaient antidatés et la juste valeur marchande des logiciels prétendument donnés.
+[9] La Cour doit aussi rechercher si l’appel de M. Chibani pour l’année d’imposition 2003 devrait être annulé au motif qu’il a omis de s’opposer à la plus récente nouvelle cotisation pour ladite année.
+RÉSUMÉ DES FAITS
+Programme de dons de 2001
+[10] Jusqu’en 2001 inclusivement, le programme de dons était géré et promu par une société à numéro de l’Ontario, exploitée sous le nom de Vitex Corporation (Vitex). M. Tom Reid était l’administrateur de Vitex.
+[11] Entre 1999 et 2001, Vitex a acheté certains logiciels bureautiques, connus sous le nom de « Lotus SmartSuite » (LSS), auprès de la société Systelligence Systems Inc. (Systelligence) à un prix de 17 $ l’exemplaire. Lorsqu’il a établi les nouvelles cotisations à l’égard des participants, le ministre a supposé que Vitex avait acheté la version du fabricant d’équipement d'origine (FEO) des logiciels LSS. La version du FEO des logiciels LSS est un produit différent de leur version commerciale. Cet aspect sera traité plus en détail dans les prochaines pages des présents motifs.
+[12] Au cours de l’année d’imposition 2001, 232 particuliers, y compris les appelants suivants : Mme Klepatch, M. Chibani et M. Hamilton, ont participé au programme de dons.
+[13] Vitex a vendu les logiciels LSS achetés auprès de Systelligence aux participants au programme de dons à un prix de 120 $ l’exemplaire.
+[14] Ensuite, les participants ont fait don des logiciels à la NCBS, qui a remis à chacun un reçu officiel de dons. Le montant indiqué sur le reçu officiel de dons était fondé sur la juste valeur marchande de 600 $ de chaque exemplaire des logiciels LSS.
+[15] Lorsqu’ils ont produit leur déclaration de revenus pour l’année d’imposition 2001, les participants ont demandé un crédit d’impôt pour don de bienfaisance et ils ont reçu un remboursement d’impôt fondé sur le reçu officiel de dons obtenu de NCBS. Ils ont également déclaré un gain en capital fondé sur la différence entre le montant payé pour les logiciels et la valeur attribuée aux logiciels par NCBS, comme indiqué sur les reçus officiels de dons.
+[16] Le ministre a établi de nouvelles cotisations à l’égard des participants pour l’année d’imposition 2001 en supposant que les logiciels qu’ils avaient achetés auprès de Vitex et donnés à la NCBS étaient la version du FEO des logiciels Lotus SmartSuite et que leur juste valeur marchande était de 17 $ l’exemplaire. Toutefois, le ministre a accordé à chacun des participants un crédit d’impôt pour don de bienfaisance pour ladite année d’imposition, calculé en admettant que le montant de leur don fût égal au prix qu’ils avaient payé pour les logiciels, c’est-à-dire 120 $ l’exemplaire. Le ministre a également supprimé les gains en capital déclarés par les participants en lien avec les logiciels donnés.
+[17] Dans d’autres nouvelles cotisations établies à l’égard des participants au programme de 2001, le ministre a appliqué des pénalités pour faute lourde qu’il a ensuite supprimées. Le ministre a également décidé que les participants ne possédaient pas l’intention de donation lorsqu’ils ont cédé les logiciels à la NCBS et que, par conséquent, ils n’avaient pas fait de dons pouvant donner ouverture à un crédit d’impôt pour dons de bienfaisance. Toutefois, le ministre n’a pas réduit les crédits déjà accordés aux participants.
+Programme de dons de 2002
+[18] Le programme de dons de 2002 était géré et promu par une autre société à numéro de l’Ontario, exploitée sous le nom de Tac II Software Ltd. (Tac II). M. Tom Reid était aussi l’administrateur de Tac II.
+[19] En 2002, 1 195 particuliers ont participé au programme, notamment les appelants suivants : Mme Klepatch, M. Hamilton, M. Thompson, M. Chibani, Mme Abreo, et M. et Mme Gothreau.
+[20] En mai 2002, Tac II a acheté des licences auprès de trois entreprises, afin de produire et de vendre, au Canada, un nombre illimité d’exemplaires de certains logiciels éducatifs et de dessins libres de droits destinés aux enfants. Les licences étaient valides pour un an. Tac II a acheté une licence pour les logiciels « Mazlo’s Spelling Adventure Volumes 1 et 2 » et « Fred Penner’s Company’s Coming » auprès de Kaboose.com pour la somme de 19 000 $ et une licence pour les logiciels « Larken’s Living Letters 3.0 » et « Larken’s Living Numbers 2.0 » auprès de Larken Software Inc. pour la somme de 15 000 $ US. Tac II a également acheté une licence pour une série de logiciels de dessins libres de droits appelés « Wildside Press Animals », « Wildside Press Castles and Cathedrals », « Wildside Press Designs », « Wildside Press Arms and Battles » et « Wildside Press People » (collectivement les « dessins ») auprès de Judson Rosebush Company Inc. pour la somme de 5 000 $ US.
+[21] Tac II a utilisé les licences pour créer deux différents ensembles de logiciels sur cédéroms et elle les a appelés la [traduction] « collection bleue » et la [traduction] « collection mauve ». Le cédérom [traduction] « collection bleue » contenait les logiciels « Mazlo’s Spelling Adventure Volume 2 », « Larken’s Living Letters 3.0 » et les dessins. Le cédérom [traduction] « collection mauve » contenait les logiciels « Fred Penner’s Company’s Coming », « Larken’s Living Numbers 2.0 » et les dessins.
+[22] Au cours de l’année 2002, Tac II a vendu les cédéroms [traduction] « collection bleue » et [traduction] « collection mauve » aux participants du programme de dons pour 60 $ l’exemplaire. Ensuite, les participants ont fait don des logiciels à la NCBS et ils ont obtenu un reçu officiel de dons fondé sur une juste valeur marchande de 300 $ pour chaque exemplaire des logiciels donnés.
+[23] Lorsqu’ils ont produit leur déclaration de revenus pour l’année d’imposition 2002, les participants ont demandé un crédit d’impôt pour don de bienfaisance et ils ont reçu un remboursement d’impôt fondé sur le reçu officiel de dons obtenu de NCBS. Ils ont également déclaré un gain en capital fondé sur la différence entre le montant payé pour les logiciels et la valeur attribuée aux logiciels par NCBS, comme indiqué sur les reçus officiels de dons.
+[24] Le ministre a d’abord établi de nouvelles cotisations à l’égard des participants au programme de 2002 afin de réduire leurs crédits d’impôt pour don de bienfaisance, au motif que la juste valeur marchande des logiciels de la [traduction] « collection bleue » était de 37,30 $ l’exemplaire et que la juste valeur marchande des logiciels de la [traduction] « collection mauve » était de 40,60 $ l’exemplaire, selon l’évaluation préparée à l’interne par l’ARC. Concernant Mme Klepatch, M. Thompson et M. Hamilton, aucun crédit d’impôt pour don de bienfaisance n’a été accordé parce qu’ils ont omis de fournir les pièces justificatives au vérificateur de l’Agence. Le ministre a également supprimé les gains en capital déclarés par les participants en lien avec les logiciels donnés.
+[25] Dans de nouvelles cotisations subséquentes pour l’année d’imposition 2002, Mme Klepatch a obtenu un crédit d’impôt pour don de bienfaisance fondé sur le montant qu’elle avait payé pour les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » (4 800 $) et MM. Hamilton et Thompson ont obtenu un crédit d’impôt pour don de bienfaisance fondé sur la juste valeur marchande des logiciels, comme déterminée par le ministre. Il semble que l’Agence ait commis une erreur en traitant le dossier de Mme Klepatch différemment de ceux des autres participants. Dans les dernières nouvelles cotisations établies à l’égard de tous les participants pour l’année d’imposition 2002, le ministre a décidé que ceux-ci ne possédaient pas l’intention de donation lorsqu’ils ont cédé les logiciels à la NCBS et que, par conséquent, ils n’avaient pas fait de dons pouvant donner ouverture à un crédit d’impôt pour don de bienfaisance, mais, là encore, il n’a pas réduit les crédits déjà accordés aux participants.
+[26] Le programme de dons de 2003 était géré et promu par une nouvelle société, Concept Three Software Corporation (Concept III). M. Robert Freeman, le beau-fils de M. Tom Reid, était l’administrateur de Concept III.
+[27] En 2003, 1 630 particuliers ont participé au programme, y compris tous les appelants.
+[28] Tac II a continué de produire les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » pour le programme de dons de 2003, puisqu’elle avait obtenu le renouvellement des licences jusqu’à la fin de 2003 pour produire un nombre illimité d’exemplaires des logiciels. Elle a versé 9 500 $ à Kaboose.com, 7 500 $ US à Larken Software Inc. et 2 500 $ US à Judson Rosebush pour lesdits renouvellements.
+[29] Au cours de l’année 2003, Tac II a vendu les cédéroms [traduction] « collection bleue » et [traduction] « collection mauve » à une autre société à numéro exploitée sous le nom de BAT Investments Ltd. (BAT). M. Robert Freeman, le beau-fils de M. Tom Reid, était aussi l’administrateur de BAT. Tac II a vendu les cédéroms [traduction] « collection bleue » et [traduction] « collection mauve » à BAT pour 0,58 $ l’exemplaire. Ensuite, BAT les a vendus à Concept III pour 39,44 $ l’exemplaire, puis, Concept III a vendu les cédéroms aux participants du programme de dons pour 55,20 $ l’exemplaire.
+[30] Les participants ont ensuite fait don des logiciels à la NCBS et ils ont obtenu un reçu officiel de dons fondé sur une juste valeur marchande de 250 $ pour chaque exemplaire des logiciels donnés. Lorsqu’ils ont produit leur déclaration de revenus pour l’année d’imposition 2003, les participants ont demandé un crédit d’impôt pour don de bienfaisance et ils ont reçu un remboursement d’impôt fondé sur le reçu officiel de dons obtenu de NCBS. Ils ont également déclaré un gain en capital fondé sur la différence entre le montant payé pour les logiciels et la valeur attribuée aux logiciels par NCBS, comme indiqué sur les reçus officiels de dons.
+[31] Le ministre a d’abord établi de nouvelles cotisations à l’égard des participants au programme de 2003 afin de réduire leurs crédits d’impôt pour don de bienfaisance relatifs aux dons de logiciels, au motif que la juste valeur marchande des logiciels de la [traduction] « collection bleue » était de 33,81 $ l’exemplaire et que la juste valeur marchande des logiciels de la [traduction] « collection mauve » était de 36,80 $ l’exemplaire, selon l’évaluation préparée à l’interne par l’Agence. Par la suite, le ministre a établi de nouvelles cotisations à l’égard des participants, afin de supprimer les gains en capital déclarés en lien avec les dons de logiciels. Une fois de plus, le ministre a décidé que les participants ne possédaient pas l’intention de donation lorsqu’ils ont cédé les logiciels à la NCBS et que, par conséquent, ils n’avaient pas fait de dons pouvant donner ouverture à un crédit d’impôt pour don de bienfaisance, mais il n’a pas réduit les crédits déjà accordés aux participants.
+ANALYSE
+Requête préliminaire pour annuler l’appel interjeté par M. Chibani concernant la nouvelle cotisation pour l’année d’imposition 2003
+[32] L’intimée cherche à obtenir l’annulation de l’appel interjeté par M. Chibani concernant la nouvelle cotisation pour l’année d’imposition 2003, au motif qu’il a omis de déposer un avis d’opposition pour la dernière nouvelle cotisation relative à ladite année, laquelle a été établie le 23 février 2007.
+[33] Il est indiqué au dossier que le 22 avril 2004, M. Chibani a initialement fait l’objet d’une cotisation pour l’année d’imposition 2003. Une nouvelle cotisation a ensuite été établie à son égard le 3 février 2006. Il est constant qu’il a déposé un avis d’opposition valide lié à cette nouvelle cotisation. En outre, l’intimée affirme qu’il a fait l’objet d’une nouvelle cotisation dont l’avis était daté du 23 février 2007. Dans une lettre du 8 mars 2007, l’Agence a informé M. Chibani que son avis d’opposition déposé précédemment n’était plus valide compte tenu de la nouvelle cotisation établie à son égard et qu’il devait en déposer un nouveau ou saisir directement la Cour de l’impôt s’il souhaitait contester la nouvelle cotisation. M. Chibani a affirmé ne pas se souvenir d’avoir reçu l’avis de nouvelle cotisation ou la lettre du 8 mars 2007. Il n’a pas déposé de nouvel avis d’opposition.
+[34] Plusieurs années plus tard, soit le 1er août 2014, le ministre a établi une nouvelle cotisation à l’égard de M. Chibani pour les années d’imposition 2001 et 2002. M. Chibani n’a pas déposé d’avis d’appel à la Cour dans le délai prescrit et il a demandé une ordonnance de prorogation du délai pour déposer un avis d’appel concernant les nouvelles cotisations pour les années d’imposition 2001, 2002 et 2003. Le ministre a consenti à la demande, qui a été accueillie par le tribunal pour les trois années d’imposition. La question de la compétence de la Cour pour entendre l’appel de M. Chibani concernant la nouvelle cotisation de 2003 a été soulevée seulement lorsque l’intimée a déposé la réponse modifiée plus d’une fois à l’avis d’appel.
+[35] Bien qu’il soit clair que l’intimée n’est pas empêchée de soulever la question de la validité de l’appel interjeté par M. Chibani en raison de son acquiescement à la demande de prorogation de ce dernier, je conclus que l’intimée n’a pas présenté suffisamment d’éléments de preuve pour me permettre de rendre l’ordonnance demandée. Je conclus que M. Chibani n’a pas reçu la nouvelle cotisation. Par conséquent, il incombe à l’intimée de démontrer qu’elle a été postée à M. Chibani : voir l’arrêt Aztec Industries Inc. v. Canada (1995), 95 D.T.C. 5235 (FCA). En l’espèce, l’intimée n’a pas présenté d’éléments de preuve pour démontrer que l’avis de nouvelle cotisation du 23 février 2007 a été posté à M. Chibani. Habituellement, de tels éléments de preuve sont présentés au moyen d’un affidavit d’un agent de l’Agence connaissant les procédures d’envoi postal respectées au bureau duquel la nouvelle cotisation a été envoyée et ayant examiné les dossiers informatiques relatifs à l’envoi postal de l’avis de nouvelle cotisation. En l’espèce, l’intimée n’a pas présenté de tels éléments de preuve et, en leur absence, la requête en annulation de l’intimée est rejetée.
+Juste valeur marchande des logiciels
+[36] J’examinerai maintenant la question de la juste valeur marchande des logiciels que les appelants ont donnés à la NCBS à l’occasion de chacun des programmes.
+- Année d’imposition 2001 : Lotus SmartSuite
+[37] Mme Klepatch, M. Chibani et M. Hamilton soutiennent qu’ils ont acheté de Vitex et donné à la NCBS la version commerciale des logiciels de la suite Lotus SmartSuite et que la juste valeur marchande de chaque exemplaire des logiciels était de 600 $. À titre subsidiaire, ils soutiennent que la version du FEO et la version commerciale offraient les mêmes fonctions et que, par conséquent, la juste valeur marchande de la version du logiciel du FEO était égale à la juste valeur marchande de la version commerciale.
+[38] L’intimée ne conteste pas que la juste valeur marchande de la version commerciale des logiciels LSS était de 600 $ l’exemplaire, mais elle affirme que cette valeur n’est pas pertinente parce que les appelants n’ont pas fait don d’exemplaires de la version commerciale. L’intimée prétend qu’étant donné que le ministre a supposé que les appelants avaient fait don d’exemplaires de la version du FEO, il incombe à ces derniers de démontrer qu’ils ont fait don d’exemplaires de la version commerciale. À titre subsidiaire, l’intimée affirme que les appelants ont le fardeau de démontrer que la juste valeur marchande de la version du FEO des logiciels LSS était supérieure à la somme de 17 $ l’exemplaire, laquelle somme a été établie par le ministre.
+[39] L’intimée soutient qu’un consommateur pouvait acheter la version du FEO seulement s’il achetait un ordinateur et que la version que Mme Klepatch, M. Chibani et M. Hamilton se sont procurée n’était pas concédée sous licence par Lotus pour une utilisation dans d’autres circonstances. Par conséquent, l’intimée affirme que la juste valeur marchande de la version du FEO était égale au prix auquel Systelligence a vendu les logiciels à Vitex.
+[40] Les éléments de preuve concernant la version des logiciels LSS acquis et donnés à la NCBS tendent à étayer, à mon avis, la thèse de l’intimée.
+[41] M. Martin Warren a affirmé, dans son témoignage, qu’il travaillait au bureau de M. Tom Reid au début de l’année 2000 et que ses fonctions comprenaient la supervision des employés effectuant les collectes de fonds pour la NCBS. Il a indiqué qu’au printemps 2001, alors qu’il se trouvait dans le bureau, il a été témoin d’un envoi de logiciels LSS achetés par Vitex afin de les utiliser dans le cadre du programme de dons. Il a affirmé avoir remarqué que les exemplaires des logiciels portaient la marque de la version du FEO des logiciels LSS. Il a abordé la question avec M. Reid et il lui a indiqué que la version du FEO n’était pas autorisée pour la revente et que sans licence d’utilisation des logiciels concédée par Lotus, la version ne pouvait faire l’objet d’un achat légitime et elle était sans valeur. Selon M. Warren, les logiciels utilisés dans le cadre du programme de dons ont été ensuite remplacés par les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » pour les années d’imposition 2002 et 2003.
+[42] M. Warren a également affirmé qu’un exemplaire de la version commerciale des logiciels LSS a été présenté aux participants au programme lorsqu’ils se sont présentés au bureau, mais que c’est la version du FEO des logiciels qui a été donnée à la NCBS au nom des participants.
+[43] Lors de leur témoignage, Mme Klepatch, M. Chibani et M. Hamilton ont affirmé qu’on leur a montré un exemplaire de la version commerciale des logiciels LSS lorsqu’ils ont accepté de participer au programme. Toutefois, aucun d’entre eux ne pouvait confirmer que la NCBS a bel et bien reçu en don des exemplaires de la version commerciale.
+[44] Mme Soper, gestionnaire de certains partenaires de distribution de Lotus au cours de la période pertinente, a affirmé, lors de son témoignage, que la version du FEO des logiciels LSS n’était pas un produit destiné à la vente au détail et que Lotus l’a fournissait seulement à ses distributeurs autorisés à des fins d’installation sur des ordinateurs qu’ils vendaient à des consommateurs. Lotus n’a pas permis que la version du FEO soit vendue séparément. Elle a également confirmé que ni Systelligence ni Magnasoft, l’entreprise auprès de qui Systelligence a acheté la version du FEO des logiciels LSS, n’avaient obtenu l’autorisation de Lotus pour distribuer les produits de cette dernière. Mme Soper a aussi affirmé que Lotus n’avait pas autorisé ses distributeurs aux États-Unis à vendre ses produits au Canada. Enfin, Mme Soper a indiqué, lors de son témoignage, que le prix demandé par Lotus pour la version commerciale des logiciels LSS était d’environ 60 % du prix suggéré de 400 $ à 600 $. Ainsi, le prix de gros de la version commerciale des logiciels LSS se situerait entre 240 $ et 360 $ par exemplaire.
+[45] Lors de son témoignage, M. Khan, le propriétaire de Systelligence, a indiqué que son entreprise avait vendu à Vitex environ 20 000 exemplaires des logiciels LSS, lesquels étaient tous des versions du FEO. Il a également affirmé que Systelligence avait acheté la plupart de ces exemplaires à 15 $ ou 16 $ chacun auprès d'un grossiste en logiciels appelé Magnasoft. Systelligence les a vendus à Vitex à 17 $ l'exemplaire. Le prix que Vitex a payé était indiqué sur une facture émise par Systelligence, laquelle a été produite lors de l’audition. M. Khan a indiqué qu’une petite quantité des logiciels LSS avait été achetée auprès d’une entreprise américaine, lorsque Magnasoft n’en avait pas en stock.
+[46] M. Khan a mentionné, lors de son témoignage, que l’emballage des logiciels LSS qu’il a vendus à Vitex était différent de l’emballage de la version commerciale des logiciels LSS. Il a bien indiqué que Systelligence n’avait pas vendu d’exemplaires de la version commerciale des logiciels LSS à Vitex. M. Khan a également indiqué, lors de son témoignage, qu’il a vendu des exemplaires individuels de la version du FEO des logiciels LSS à d’autres consommateurs au même prix que celui payé par Vitex.
+[47] Compte tenu des témoignages de M. Warren, de Mme Soper et de M. Khan, que j’estime crédibles, je conclus que Vitex a acheté la version du FEO des logiciels LSS et que c’est cette version qui a été utilisée dans le cadre du programme de dons lié à la NCBS et qu’il s’agit de la version dont les participants au programme ont fait don. À ce titre, les appelants n’ont pas réfuté les hypothèses du ministre en la matière.
+[48] Je conclus également que la version du FEO acquise par Vitex était vraisemblablement une version piratée et que c’est la raison pour laquelle Vitex a pu acheter les logiciels pour seulement 17 $ l’exemplaire, soit un prix nettement inférieur au prix de gros demandé par Lotus pour la version commerciale des logiciels LSS.
+[49] Je rejette également l’argument des appelants selon lequel la juste valeur marchande de la version du FEO et de la version commerciale était la même, puisque les deux versions offraient les mêmes fonctions. La preuve a démontré que Lotus n’avait pas autorisé la vente de la version du FEO comme produit autonome et que, par conséquent, l’utilisation de la version du FEO acquise par Vitex était illégale. Les appelants n’ont présenté aucun élément de preuve d’experts pour démontrer que la juste valeur marchande de la version du FEO, acquise dans ces conditions, était égale à celle de la version commerciale. Par conséquent, je ne dispose d’aucun élément de preuve permettant de réfuter la juste valeur marchande établie par le ministre.
+[50] Les appelants ont également prétendu que l’intimée n’avait pas démontré quelle version des logiciels LSS les participants au programme ont donnée à la NCBS et que l’appel devrait donc être accueilli. Cependant, lorsque le ministre a établi les nouvelles cotisations à l’égard des appelants, il a supposé que ces derniers avaient fait don de la version du FEO des logiciels LSS et que la juste valeur marchande des biens donnés était de 17 $ l’exemplaire. Par conséquent, il incombait aux appelants de réfuter ces hypothèses, mais je conclus qu’ils ne l'ont pas fait. Comme l’a souligné le juge Létourneau dans l’arrêt Canada c. Anchor Pointe Energy ltd., 2007 CAF 188, au paragraphe 28 :
+Lorsque les hypothèses sont plaidées, les contribuables ont le fardeau initial de réfuter, selon la prépondérance des probabilités, les hypothèses de fait du ministre : voir les arrêts Canada c. Anchor Pointe Energy Ltd., au paragraphe 2, et Hickman Motors Ltd c. Canada, [1997] 2 R.C.S. 336, au paragraphe 92.
+[51] En outre, il ne sert à rien que les appelants invoquent avoir vu des exemplaires de la version commerciale des logiciels au moment où ils ont accepté de participer au programme de dons. Ils ont droit à un crédit d’impôt pour don de bienfaisance seulement à l’égard des biens ayant été réellement cédés à la NCBS, et le fait que Vitex aurait cédé d’autres biens que ceux montrés aux appelants n’a aucun effet sur le crédit d’impôt disponible. La Cour doit tenir compte de ce que le contribuable a réellement fait : voir l’arrêt Bronfman Trust c. La Reine, [1987] 1 RCS 32, au paragraphe 44, sous la plume du juge en chef Dickson.
+[52] M. Deane, le représentant de M. Chibani et de M. Kinchsular, a prétendu que, selon M. Khan, la version du FEO des logiciels LSS que Systelligence a vendus à Vitex comprenait une licence d’utilisation des logiciels. En fait, M. Khan n’a pas dit que les versions du FEO qu’il a vendues étaient assorties d’une licence, mais seulement que le premier logiciel qu’il a vendu était accompagné de certains manuels. Il n’a pas mentionné de licence. En outre, tous les autres éléments de preuve étayent la thèse selon laquelle les logiciels LSS donnés à la NCBS par les participants n’étaient pas munis d'une licence et leur utilisation n'avait pas été autorisée par Lotus.
+[53] M. Deane a également soutenu que Mme Soper n’avait pas indiqué le prix que Lotus a demandé à ses distributeurs pour la version du FEO des logiciels et que, par conséquent, l’intimée n’avait pas démontré la juste valeur marchande de la version du FEO.
+[54] Mme Soper a refusé de divulguer le montant demandé aux distributeurs de Lotus parce qu’il s’agissait, selon elle, de renseignements exclusifs. Toutefois, je suis d'avis qu’il n’aurait pas été utile aux appelants de connaître le prix demandé par Lotus, puisque cette dernière a vendu la version du FEO uniquement à ses distributeurs, lesquels n’étaient pas autorisés à vendre les logiciels. Ils ne pouvaient que les installer sur les ordinateurs qu’ils vendaient. La preuve révèle que les exemplaires que Vitex a obtenus auprès de Systelligence n’étaient pas munis d’une licence et leur utilisation n’était pas autorisée; par conséquent, on ne peut les comparer à la version du FEO que Lotus a vendu à ses distributeurs.
+[55] M. Deane a aussi prétendu qu’il était inéquitable que le ministre ait accordé un crédit d’impôt pour don de bienfaisance à Mme Klepatch fondé sur sa sortie de fonds pour les logiciels LSS (120 $ l’exemplaire), alors qu’il a accordé à M. Chibani et à M. Hamilton des crédits d’impôt pour don de bienfaisance fondés sur la juste valeur marchande des logiciels de 17 $ par exemplaire. M. Deane a affirmé que le dossier de M. Chibani devrait être traité de la même manière que celui de Mme Klepatch, et M. Hamilton a souscrit aux observations de M. Deane. Toutefois, la preuve révèle que ces trois appelants ont obtenu un crédit d’impôt pour don de bienfaisance fondé sur le prix qu’ils ont payé (120 $ l’exemplaire) pour les logiciels LSS. M. Deane pensait peut-être aux divergences entre le traitement du dossier de Mme Klepatch et de ceux des autres appelants à l’occasion de la nouvelle cotisation établie à l’égard de celle-ci pour l’année d’imposition 2002. Mme Klepatch a obtenu un crédit d’impôt pour don de bienfaisance fondé sur le montant qu’elle a payé pour les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » (60 $ l’exemplaire) plutôt que fondé sur leur juste valeur marchande (37,30 $ et 40,60 $ l’exemplaire, respectivement), laquelle a été appliquée aux autres participants.
+[56] Même si l’observation de M. Deane ne concernait pas la bonne année d’imposition ni les bons logiciels, j’en examinerai la teneur, puisqu’elle s’applique à l’année d’imposition 2002. La jurisprudence indique clairement que le ministre n’est pas tenu de faire preuve d’uniformité lorsqu’il établit des cotisations à l’égard de différents contribuables; la cotisation que la Cour examine doit seulement être en conformité avec les règles de droit en vigueur. En l’espèce, cela signifie que je dois décider si les appelants ont démontré que la juste valeur marchande des logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » établie par l’intimée est incorrecte. Le fait que le ministre a peut-être accordé à tort à Mme Klepatch un crédit d’impôt pour don de bienfaisance supérieur à celui auquel elle avait droit pour l’année d’imposition 2002 n’est pas pertinent aux fins de l’établissement du crédit d’impôt pour don de bienfaisance des autres appelants. Qu’un autre contribuable ait fait l’objet d’une cotisation erronée ne donne pas droit à un contribuable d’être traité de la même manière : Arrioja v. The Queen, 2005 CCI 95, au paragraphe 27. En outre, la Cour n’a pas compétence pour ordonner au ministre d’augmenter l’impôt payable par Mme Klepatch, et l’intimée ne m’a pas demandé une telle ordonnance : Skinner c. La Reine, 2009 CCI 269, au paragraphe 30.
+- Années d’imposition 2002 et 2003 : les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve »
+[57] J’examine maintenant la question de la juste valeur marchande des cédéroms [traduction] « collection bleue » et [traduction] « collection mauve » qui ont été donnés à la NCBS par les participants au programme en 2002 et en 2003.
+[58] Le cédérom [traduction] « collection bleue » contenait les logiciels « Larken’s Living Letters », « Mazlo’s Animated Spelling Adventure Volume 2 » et une [traduction] « collection de dessins ». Le cédérom [traduction] « collection mauve » contenait les logiciels « Larken’s Living Letters », « Fred Penner’s Company Coming » et une [traduction] « collection de dessins ». La collection de dessins était la même sur les deux cédéroms.
+[59] L’intimée a convoqué deux témoins experts pour témoigner à l’égard de la [traduction] « collection bleue » et de la [traduction] « collection mauve ».
+[60] Le premier témoin expert, M. Hassan Makkeh, un ingénieur en logiciel, a produit un rapport sur les aspects techniques des cédéroms [traduction] « collection bleue » et [traduction] « collection mauve », lequel portait plus précisément sur leur installation et leur utilisation. Il a indiqué, dans son témoignage, que les logiciels « Mazlo’s Spelling Adventure » et « Fred Penner’s Company Coming » n’étaient pas compatibles avec Windows XP, le plus récent système d’exploitation offert en 2002, et que les options d’installation par défaut offertes pour le logiciel « Larken’s Living Letters » de la [traduction] « collection bleue » ne fonctionnaient pas sous Windows 98 ou Windows XP.
+[61] M. Makkeh a également constaté que la collection de dessins présentait certaines difficultés. Les dessins étaient composés de 1 299 gravures sur acier divisées en différents groupes de thèmes, comme les animaux, les combats, les pays et les châteaux. M. Makkeh a expliqué que la collection d’images avait été originalement produite sur cinq cédéroms, mais qu’afin d’inclure toutes les images sur un cédérom avec les autres logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve », la taille de la plupart des images avait été réduite. Par conséquent, les images étaient déformées lorsque l’utilisateur tentait de les afficher ou de les imprimer dans leur taille originale. Il a décrit les images déformées comme inutilisables, et l’exemple qui figure dans son rapport montre une image floue plutôt que l’image nette originale.
+[62] Le deuxième témoin expert de l’intimée, M. Luc Michaud, un économiste et un dirigeant du secteur de la production de logiciels, a donné une opinion d’expert sur la juste valeur marchande des logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve ». Il a affirmé, lors de son témoignage, que le marché pour les logiciels sur cédéroms était généralement très faible entre 2002 et 2004, compte tenu d’une surabondance de produits. Il a indiqué que l’on avait créé des dizaines de milliers de cédéroms et que cela avait provoqué une entrée sur le marché à faible coût. La surabondance de produits a entraîné une chute des prix.
+[63] M. Michaud a également affirmé, lors de son témoignage, que les avancées informatiques rapides à la fin des années 1990 et au début des années 2000 ont permis la création d’un nombre croissant de caractéristiques audio et d’animation sophistiquées sur les logiciels cédéroms. En outre, de nouveaux systèmes d’exploitation informatiques étaient souvent lancés sur le marché, et les logiciels cédéroms qui n’étaient pas compatibles avec le système d’exploitation le plus récent étaient invendables dans les circuits de vente de détail habituels. Il a décrit le marché secondaire qui s’est développé au tournant du millénaire pour les logiciels dépassés, où plusieurs titres de logiciels étaient regroupés sur un seul cédérom et vendus au rabais. Il a indiqué que le prix des ensembles était souvent très inférieur au total des prix des exemplaires individuels.
+[64] M. Michaud a indiqué que ses recherches avaient révélé que la [traduction] « collection bleue » et la [traduction] « collection mauve » n’avaient jamais été vendues sur le marché. Il a alors tenté d’obtenir les prix de catalogue des logiciels inclus dans la [traduction] « collection bleue » et la [traduction] « collection mauve ». Il a seulement réussi à obtenir les prix offerts des logiciels « Larken’s Living Letters » et « Larken’s Living Numbers » en consultant un site appelé « The Wayback Machine », qui stocke d’anciennes versions de pages Web. Il a constaté que le logiciel « Larken’s Living Letters » était offert en vente à 24,95 $ en 1998 et que ce prix avait chuté à 15,95 $ en 2001. Le logiciel « Larken’s Living Numbers » était offert en vente à 15,95 $ en 1998. M. Michaud a indiqué que ces deux prix devaient avoir chuté en 2002, compte tenu de la conjoncture. Il a aussi mentionné ne pas avoir trouvé d’ensembles de logiciels cédéroms contenant les produits Larken. Finalement, il a indiqué n’avoir trouvé aucun renseignement concernant les prix pour le logiciel « Fred Penner’s Company Coming » ou « Mazlo’s Spelling Adventure ».
+[65] M. Michaud a aussi signalé que les prix des logiciels cédéroms indiqués sur des sites Web ne reflétaient pas nécessairement la juste valeur marchande des produits, mais seulement le prix auquel ils étaient offerts. En l’absence de confirmation que les produits ont été vendus aux prix de catalogue, on ne peut que tirer la conclusion que les prix de catalogue représentent le montant maximum de la juste valeur marchande pouvant être établie.
+[66] À des fins d’analyse, M. Michaud a ensuite comparé les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » avec trois autres logiciels éducatifs pour enfants de la même époque. Il a constaté qu’en 2002 et en 2003, la fourchette de prix des logiciels éducatifs pour enfants compatibles avec le système d’exploitation le plus récent et présentant des personnages enfantins bien connus variait entre 10 $ et 20 $, mais il estimait que ces produits étaient de meilleure qualité que les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » parce qu’ils contenaient des images de qualité supérieure, plus d’activités et des durées d’exécution des activités plus longues. Il a indiqué qu’en comparaison les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » semblaient désuets, avec un nombre limité de couleurs utilisées dans les images et des animations désordonnées aux mouvements irréguliers sur l’écran. Il a aussi indiqué qu’il était invraisemblable qu’en 2002 et en 2003 des détaillants aient accepté des produits ne fonctionnant pas sur Windows XP.
+[67] Lors de son témoignage, M. Michaud a également affirmé que les détaillants ne faisaient preuve d’aucune tolérance pour les produits comportant des problèmes techniques et que la difficulté d’installation du logiciel « Larken’s Living Letters » décrite par M. Makkeh aurait rendu la [traduction] « collection bleue » invendable et, par conséquent, sans valeur.
+[68] Concernant les collections de dessins, il a indiqué que leur utilité était restreinte compte tenu de la perte de netteté découlant de la compression des fichiers d’images. Il a déclaré avoir été stupéfait de la mauvaise qualité de ces images en comparaison avec les images d’autres collections offertes à l’époque. Il a également indiqué que les prix des collections d’images chutaient rapidement en 2001, en donnant en exemple une collection de 18 cédéroms contenant 350 000 images offerte à 29,95 $, ce qui équivaut à moins de 1/100e de cent par image. À son avis, les images de cette collection donnée en exemple étaient d’une bien meilleure qualité que celles de la [traduction] « collection bleue » et de la [traduction] « collection mauve ».
+[69] En conclusion, M. Michaud a établi que la juste valeur marchande des logiciels de la [traduction] « collection bleue » était de 0 $, compte tenu de la faille technique liée à l’installation du logiciel « Larken’s Living Letters ».
+[70] Quant à la [traduction] « collection mauve », il a déterminé qu’il était inconcevable qu’elle ait pu être commercialisée, puisqu’il s’agissait d’anciens logiciels dont certaines parties étaient incompatibles avec Windows XP et que la qualité de la collection d’images était, au mieux, médiocre. Il a établi la juste valeur marchande de la [traduction] « collection mauve » à tout au plus 10 $ l’exemplaire, puisque des ensembles de logiciels éducatifs pour enfants de bonne qualité se vendaient 20 $ à l’époque.
+[71] Les appelants ont affirmé que le prix indiqué sur divers site Web pour les composants des logiciels compris dans les cédéroms de la [traduction] « collection bleue » et de la [traduction] « collection mauve » devrait être considéré comme leur juste valeur marchande. Ces prix figuraient sur une évaluation de la [traduction] « collection bleue » et de la [traduction] « collection mauve » préparée pour les promoteurs et présentée par ceux-ci aux participants au programme. Toutefois, on n’a présenté aucun élément de preuve pour démontrer que les logiciels ont été effectivement vendus à ces prix au cours des années en litige. Comme l’a souligné M. Michaud, les prix demandés ne peuvent servir qu’à établir le montant maximum de la juste valeur marchande. En outre, bien que l’auteur du rapport d’évaluation, M. Bramhall, ait été appelé à témoigner, il n’a pas été reconnu comme expert, et les exigences prescrites dans les règles régissant la procédure informelle n’ont pas été respectées quant à la production d’une preuve d’expert. Même si M. Bramhall avait été en mesure de produire une preuve d’expert, il a semblé qu’il n’avait pas vérifié si les logiciels avaient été vendus aux prix de catalogue indiqués sur les sites Web. Pour ces motifs, je ne peux pas accorder de poids à ses conclusions concernant la juste valeur marchande.
+[72] M. Deane a prétendu que la Cour devrait imposer aux appelants une norme de preuve moins exigeante, puisqu’ils n’ont pas eu la possibilité de présenter des éléments de preuve concernant la juste valeur marchande lors du processus d’opposition. Cette thèse est aussi indéfendable. Le fardeau de preuve ne peut être modifié au cas par cas et, de plus, aucun élément de preuve ne m’a été présenté pour démontrer que les appelants n’ont pas eu la possibilité de contester la détermination de la juste valeur marchande du ministre. En outre, les rapports d’experts de l’intimée ont été présentés aux appelants longtemps avant l’audition, et je suis d'avis qu’ils ont eu amplement le temps d’obtenir leur propre preuve d’expert.
+[73] M. Deane a aussi prétendu que rien n'indiquait que la faille relative au processus d’installation du logiciel « Larken’s Living Letters » sur le cédérom de la [traduction] « collection bleue » se trouvait sur tous les exemplaires produits et que la faille se trouvait peut-être seulement sur l’exemplaire remis à M. Michaud et à M. Makkeh à des fins d’examen.
+[74] Je conclus qu’il est improbable que la faille n'eût touché que l’exemplaire examiné par les témoins experts. M. Warren a indiqué, lors de son témoignage, que les exemplaires des logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » ont été produits pour les promoteurs par une entreprise appelée « Duplium », à partir d’un disque maître, et que le taux d’erreurs lors de la production était très faible. En outre, M. Michaud a indiqué, dans son témoignage, qu’il était très peu probable que la faille relative à l’installation ait été causée par une erreur de production et qu’il s’agissait vraisemblablement d’une erreur sur le disque maître.
+[75] On a aussi prétendu que les appelants n’étaient pas au courant des défauts techniques des logiciels de la [traduction] « collection bleue » et que s’ils l’avaient su, ils auraient pu demander qu’ils soient remplacés par des exemplaires fonctionnels. Cependant, encore une fois, je ne peux tirer une conclusion que sur les faits qui m'ont été présentés, et non sur ce qui aurait pu se produire.
+[76] Dans l’ensemble, je conclus que les conclusions auxquelles M. Michaud est parvenu concernant la juste valeur marchande sont compatibles avec le fait que Tac II a été en mesure d’acheter des licences pour produire les logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » à des prix très modestes. L’intimée a notamment présenté le document suivant : une facture datée du 14 août 2003 remise à BAT par Tac II pour 175 000 exemplaires des logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve ». Ces exemplaires ont été produits aux termes de prolongations de licence obtenues par Tac II moyennant une somme de 25 000 $. Par conséquent, le coût engagé par Tac II pour la licence était de moins de 0,15 $ l’exemplaire pour la [traduction] « collection bleue » et la [traduction] « collection mauve », même si aucune autre copie n’a été produite. Cela appuie l’opinion selon laquelle la valeur marchande des logiciels était minime en 2002 et en 2003. J’admets également que les logiciels étaient désuets à ce moment, étant donné qu’ils ont été créés vers 1997 ou 1998 et les avancées technologiques rapides entre-temps. L’ensemble de ces facteurs, en plus de la faille technique dans les logiciels de la [traduction] « collection bleue » et de la piètre qualité des images, me mènent à conclure que les appelants n’ont pas démontré que la juste valeur marchande des logiciels de la [traduction] « collection bleue » et de la [traduction] « collection mauve » était supérieure aux montants établis par le ministre.
+[77] J’aimerais également examiner la question de la bonne foi des appelants lors de leur participation aux programmes, puisque ce point a été soulevé fréquemment dans les observations qu’ils ont présentées. M. Healy a également soutenu que l’Agence devrait poursuivre les promoteurs de ces programmes plutôt que les participants et que celle-ci avait le devoir de mettre en garde les contribuables contre la participation aux programmes.
+[78] Bien qu’il soit malheureux que les appelants aient été exploités par les promoteurs des programmes de dons et qu’ils en aient subi des difficultés financières, je crois qu’ils ont fait preuve, dans une certaine mesure, d’ignorance volontaire concernant la valeur excessive accordée aux logiciels donnés à la NCBS par les promoteurs. Il semble qu’aucun des appelants n’ait tenté de savoir comment la juste valeur marchande des logiciels qu’ils ont achetés des promoteurs a pu immédiatement s’établir à quatre ou cinq fois le montant qu’ils ont versé pour faire l’achat desdits logiciels en vue de leurs dons. Je n’arrive pas à comprendre comment ils ont pu croire que les promoteurs choisiraient de leur vendre les logiciels pour une fraction de leur valeur alléguée. Quoi qu’il en soit, le fait que les appelants ont été dupés n’est pas un facteur dont je peux tenir compte pour rendre ma décision. La Cour d’appel fédérale dans l’arrêt Chaya c. Canada, 2004 CAF 327, a affirmé ce qui suit au paragraphe 4 de la décision :
+Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+CONCLUSION
+[79] Compte tenu de ma conclusion sur la question de la juste valeur marchande des biens dont les appelants ont fait don à la NCBS chaque année, les appels doivent être rejetés, et il n’est pas nécessaire que j’examine les autres arguments de l’intimée concernant l’intention de donation et l’antidatation des reçus officiels de dons.
+[80] L’intimée a demandé l’adjudication des dépens contre les appelants, mais je refuse de le faire étant donné que les appels ont été interjetés sous le régime de la procédure informelle et que rien dans le comportement des appelants n’a retardé indûment le règlement prompt et efficace des appels.
+Signé à Ottawa (Ontario), ce 24e jour de mai 2019.
+« B. Paris »
+Le juge Paris
+RÉFÉRENCE :
+2019 CCI 122
+NOS DES DOSSIERS DE LA COUR :
+2013-3739(IT)I, 2013-4195(IT)I, 2014-2804(IT)I, 2014-379(IT)I, 2014-893(IT)I, 2015-1364(IT)I, 2015-1365(IT)I, 2015-1367(IT)I, 2015-1829(IT)I, 2015-3275(IT)I, 2015-3277(IT)I
+INTITULÉ :
+GLENYS ABREO c. SA MAJESTÉ LA REINE; MICHAELANGELO CAPISTRANO c. SA MAJESTÉ LA REINE; NOAH M. THOMPSON c. SA MAJESTÉ LA REINE; LARISSA KLEPATCH c. SA MAJESTÉ LA REINE; GARRY HEALEYAND c. SA MAJESTÉ LA REINE; DAVID HAMILTON c. SA MAJESTÉ LA REINE; ARTHUR GOTHREAU c. SA MAJESTÉ LA REINE; TERRI GOTHREAU c. SA MAJESTÉ LA REINE; TAHEY CHIBANI c. SA MAJESTÉ LA REINE; MICHAEL EDWARD KINCHSULAR c. SA MAJESTÉ LA REINE; MICHAEL EDWARD KINCHSULAR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 19, 20, 21, 22 et 23 novembre 2018, les 3, 4 et 5 décembre 2018 et les 21, 22, 23 et 24 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Brent Paris
+DATE DU JUGEMENT :
+Le 24 mai 2019
+COMPARUTIONS :
+Les appelants eux-mêmes :
+Glenys Abreo, Michaelangelo Capistrano, Noah M. Thompson, Larissa Klepatch, Garry Healey, David Hamilton, Arthur Gothreau
+Représentants des appelants :
+Shawn Deane
+Arthur Gothreau
+Avocats de l’intimée :
+Me Vlad Zolia
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

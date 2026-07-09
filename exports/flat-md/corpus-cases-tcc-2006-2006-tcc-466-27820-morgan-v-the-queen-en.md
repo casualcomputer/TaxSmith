@@ -1,0 +1,126 @@
+---
+title: "Morgan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27820/index.do"
+last_modified: "2006-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 466"
+citation2: ""
+neutral_citation: "2006 TCC 466"
+decision_date: "2006-03-10"
+language: "en"
+item_id: "27820"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 360
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:17:11.174000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ecf0fdc838695af4e41fe3eb20f5a19ba2e3758b457e4b364aab716d231a8884"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morgan v. The Queen
+
+- Citation: 2006 TCC 466
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 360, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morgan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-10
+Neutral citation
+2006 TCC 466
+File numbers
+2005-2232(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+TAX COURT OF CANADA
+IN RE: The Income tax Act
+2005-2232(IT)I
+BETWEEN:
+PATRICIA MORGAN,
+Appellant;
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Held before Mr. Justice Little in Courtroom No. 603, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Tuesday, February 28, 2006.
+--------------
+APPEARANCES:
+Robert Morgan, For the Appellant;
+Sara Fairbridge, For the Respondent.
+--------------
+THE REGISTRAR: C. DeSantos
+--------------
+Allwest Reporting Ltd.
+12th Floor - 1125 Howe Street
+Vancouver, B.C.
+V6Z 2K8
+Per: G. LaPointe
+REASONS FOR JUDGMENT
+(Delivered Orally from the Bench at Vancouver,
+British Columbia on Tuesday, February 28th, 2006)
+JUSTICE: The issue in this appeal is whether Patricia Morgan should be entitled to deduct a spousal amount of $6,850 in the year 2001 and $131 in the year 2002, and whether the Appellant was entitled to an education amount of $1600 for the 2002 taxation years.
+Ms. Fairbridge, counsel for the Department of Justice, has advised the Court that the Appellant will be allowed the full amounts that are in issue.
+Mr. Morgan said that the CRA officials with whom he communicated a number of times, either by letter or by phone, were not prepared to give him a letter to the effect that he was a resident of Canada in the 2001 and 2002 taxation years.
+I have heard the testimony of Mr. Morgan. I am satisfied from the evidence presented that Mr. Morgan was a resident of Canada for the purposes of the Income Tax Act in the 2001 and 2002 taxation years. I do not have jurisdiction to make any comments with respect to any years that are not under appeal. The only years under appeal before this Court today are the 2001 and 2002 taxation years.
+Mr. Morgan has also asked the Court to award his wife costs. I have the authority under the Tax Court Rules to award costs on a lump sum basis or some other basis. I have concluded that the costs in this situation should be awarded in the amount of $700.
+The appeal is allowed and costs of $700 are allowed. That finishes this matter. Thank you.
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+G. LaPointe, COURT REPORTER
+CITATION:
+2006TCC466
+COURT FILE NO.:
+2005-2232(IT)I
+STYLE OF CAUSE:
+Patricia Morgan and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, B.C.
+DATE OF HEARING:
+February 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+March 10, 2006
+APPEARANCES:
+Agent for the Appellant:
+Robert Morgan
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Names:
+R.W. Kirby
+Firm:
+Felesky Flynn
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

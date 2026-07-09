@@ -1,0 +1,112 @@
+Title: Li c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30492/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-416-30492-li-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-09-07
+
+# Li c. La Reine
+
+- Citation: 2011 CCI 416
+- Decision date: 2011-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7231, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Li c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-07
+Référence neutre
+2011 CCI 416
+Numéro de dossier
+2011-941(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-941(GST)I
+ENTRE :
+XIAO LING LI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 23 août 2011 à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+ORDONNANCE
+La requête de l’intimée visant le rejet de l’appel interjeté par l’appelante le 1er avril 2011 à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise datée du 31 janvier 2011 est accueillie, et l’appel en question est rejeté, sans dépens.
+Signé à Winnipeg (Manitoba), ce 7e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’octobre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 416
+Date : 20110907
+Dossier : 2011-941(GST)I
+ENTRE :
+XIAO LING LI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Avant le début de l’audience de l’appel interjeté par l’appelante, l’intimée a déposé une requête en rejet de l’appel en se fondant sur le fait que l’appelante n’avait pas produit d’avis d’opposition à la cotisation que l’appelante tentait de porter en appel. Une cotisation avait été établie à l’égard de l’appelante concernant la taxe sur les produits et services (la « TPS ») pour la période du 1er janvier 2005 au 31 décembre 2007 au moyen d’un avis de cotisation daté du 31 janvier 2011. Le 1er avril 2011, l’appelante a déposé un avis d’appel à la Cour relativement à cette cotisation. L’appelante a reconnu qu’elle n’avait pas produit d’avis d’opposition à la cotisation en cause avant de présenter l’avis d’appel à la Cour.
+[2] Les paragraphes 301(1.1), (3) et (4), et les articles 302 et 306 de la Loi sur la taxe d’accise (la « Loi ») prévoient ce qui suit :
+[303] (1.1) La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+[303] (3) Sur réception d’un avis d’opposition, le ministre doit, avec diligence, examiner la cotisation de nouveau et l’annuler ou la confirmer ou établir une nouvelle cotisation.
+[303] (4) Le ministre peut confirmer une cotisation sans l’examiner de nouveau sur demande de la personne qui lui fait part, dans son avis d’opposition, de son intention d’en appeler directement à la Cour canadienne de l’impôt.
+302. La personne, ayant présenté un avis d’opposition à une cotisation, à qui le ministre a envoyé un avis de nouvelle cotisation ou de cotisation supplémentaire concernant l’objet de l’avis d’opposition peut, dans les 90 jours suivant cet envoi :
+a) interjeter appel devant la Cour canadienne de l’impôt;
+b) si un appel a déjà été interjeté, modifier cet appel en y joignant un appel concernant la nouvelle cotisation ou la cotisation supplémentaire, en la forme et selon les modalités fixées par cette cour.
+306. La personne qui a produit un avis d’opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l’impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l’avis est expiré sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+[3] Les articles 302 et 306 prévoient tous deux une exigence préalable selon laquelle une personne doit avoir produit un avis d’opposition à une cotisation avant de pouvoir interjeter appel de celle‑ci à la Cour. Il est également évident que l’avis d’opposition doit être produit à l’égard d’une cotisation précise. L’appelante avait soutenu qu’un avis d’opposition avait auparavant été produit relativement à une autre cotisation qui, bien que cela ne soit pas tout à fait clair, porterait peut‑être sur le même montant de TPS que celui pour lequel une cotisation avait été établie à l’égard de l’appelante le 31 janvier 2011. L’appelante a déclaré que la cotisation de TPS qui avait été établie concernait, selon elle, une entreprise de son ex‑époux, bien que cette question n’ait pas été soulevée dans son avis d’appel.
+[4] Il est évident que l’appelante n’avait produit aucun avis d’opposition à la cotisation datée du 31 janvier 2011 (qui était la première cotisation visant ce montant de TPS établie au nom de l’appelante) avant de déposer son avis d’appel à la Cour relativement à la cotisation en cause. L’exigence préalable pour interjeter appel à la Cour relativement à la cotisation en cause n’a donc pas été respectée, et l’appel de l’appelante est rejeté.
+[5] Après le dépôt de l’avis d’appel, l’appelante a effectivement produit un avis d’opposition à la cotisation en cause le 6 juin 2011 ou vers cette date. Un avis de ratification concernant cette cotisation lui a été envoyé le 26 juillet 2011. Le délai de 90 jours suivant la date de cette ratification n’a donc pas encore expiré, de sorte que l’appelante peut toujours interjeter appel de cette cotisation à la Cour comme le prévoit l’article 306 de la Loi. Toutefois, l’appelante devra déposer un nouvel avis d’appel.
+[6] La requête de l’intimée visant le rejet de l’appel interjeté par l’appelante le 1er avril 2011 à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise datée du 31 janvier 2011 est accueillie, et le présent appel est rejeté, sans dépens.
+Signé à Winnipeg (Manitoba), ce 7e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’octobre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 416
+NO DU DOSSIER DE LA COUR : 2011-941(GST)I
+INTITULÉ : XIAO LING LI
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 23 août 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 7 septembre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous- procureur général du Canada
+Ottawa, Canada

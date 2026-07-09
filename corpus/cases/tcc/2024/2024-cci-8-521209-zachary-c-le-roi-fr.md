@@ -1,0 +1,251 @@
+---
+title: "Zachary c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521209/index.do"
+last_modified: "2024-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 8"
+citation2: ""
+neutral_citation: "2024 CCI 8"
+decision_date: "2024-01-24"
+language: "fr"
+item_id: "521209"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5661
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:06:28.688000+00:00"
+cases_cited_count: 20
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "665bb5fe36c4d7ea1f7b3b12194931b13e507caaeba71b0ab40ace78ec4ed5c8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zachary c. Le Roi
+
+- Citation: 2024 CCI 8
+- Decision date: 2024-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5661, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zachary c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-01-23
+Référence neutre
+2024 CCI 8
+Numéro de dossier
+2020-211(IT)APP
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-211(IT)APP
+ENTRE :
+LOUIS ZACHARY,
+requérant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 26 juin 2023 à Hamilton (Ontario)
+Devant : l’honorable juge Ronald MacPhee
+Comparutions :
+Représentant du requérant :
+Wilfred Davey
+Avocat de l’intimé :
+Me Payton Tench
+ORDONNANCE
+APRÈS avoir entendu les parties,
+ET conformément aux motifs ci-joints, la demande du requérant visant à obtenir la prorogation du délai pour déposer un avis d’opposition à l’égard des cotisations établies pour les années d’imposition 2014, 2015, 2016 et 2017 est rejetée, sans dépens.
+Signé à Ottawa (Canada), ce 23e jour de janvier 2024.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2024 CCI 8
+Date : 20240123
+Dossier : 2020-211(IT)APP
+ENTRE :
+LOUIS ZACHARY,
+requérant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge MacPhee
+I. FAITS NON CONTESTÉS [1] Louis Zachary (le « requérant ») demande une ordonnance en prorogation du délai imparti pour faire opposition, en vertu de la Loi de l’impôt sur le revenu (la « Loi »)[1], à l’égard des cotisations établies à son égard pour les années d’imposition 2014, 2015, 2016 et 2017.
+[2] Le requérant a qualité d’Indien inscrit au sens du paragraphe 2(1) de la Loi sur les Indiens. Il est membre de la confédération iroquoise des Haudenosaunis, qui se trouve dans le territoire mohawk des Haudenosaunis.
+[3] Le 4 juin 2015, le ministre a établi la cotisation du requérant pour l’année d’imposition 2014 et a émis un avis de cotisation (la « cotisation pour 2014 »)[2].
+[4] Le 16 octobre 2019, le requérant a déposé un avis d’opposition à l’égard de la cotisation pour 2014 (l’« avis d’opposition de 2014 »), soit plus de quatre ans après l’établissement de cette cotisation[3].
+[5] Le 26 novembre 2019, le ministre a fait parvenir au requérant une lettre dans laquelle il l’informait que l’avis d’opposition de 2014 avait été déposé en retard et qu’en application du paragraphe 166.1(7) de la Loi, l’opposition ne pouvait être accordée ou acceptée[4].
+[6] Le 20 janvier 2020, le requérant a déposé la présente demande de prorogation du délai pour déposer des avis d’opposition pour les années d’imposition 2014, 2015, 2016 et 2017 (la « demande de prorogation »[5].
+II. QUESTIONS EN LITIGE [7] Les exigences procédurales de la Loi en matière d’opposition à une cotisation s’appliquent-elles au requérant? Dans l’affirmative, ai-je la compétence pour faire droit à la demande de prorogation?
+III. LA POSITION DU REQUÉRANT [8] Le requérant fait valoir qu’il a payé les impôts sur le revenu en 2014, en 2015, en 2016 et en 2017. Il soutient que c’est par erreur qu’il a payé cet impôt et qu’il a donc droit à un remboursement[6].
+[9] Le requérant semble avancer deux principaux arguments. D’abord, il fait valoir qu’en application de l’article 35 de la Loi constitutionnelle[7], il n’est pas visé par la Loi (selon lui, il n’est pas tenu de payer l’impôt sur le revenu et il n’est pas non plus lié par les dispositions de la Loi en matière de dépôt d’un avis d’opposition à l’égard d’une cotisation).
+[10] Le requérant fait également valoir que les Indiens visés par un traité ne sont pas des citoyens ou des résidents du Canada et qu’il n’est donc pas tenu de payer l’impôt sur le revenu[8]. Le requérant invoque divers traités pour étayer cet argument[9].
+IV. LA POSITION DE L’INTIMÉ [11] Le ministre soutient que l’avis d’opposition de 2014 a été déposé en retard[10].
+[12] En outre, le ministre fait valoir que le requérant n’a jamais déposé d’avis d’opposition concernant les années d’imposition 2015, 2016 et 2017[11].
+[13] Le 4 mars 2020, l’intimé a déposé un affidavit de Theresa Chichmanian (l’« affidavit »), une agente du bureau des services fiscaux de Montréal de l’ARC[12].
+[14] Dans son affidavit, Mme Chichmanian déclare que l’une des conditions prévues au paragraphe 166.2 de la Loi concernant le dépôt à la Cour d’une demande de prorogation du délai pour signifier des avis d’opposition à l’égard des années d’imposition 2015, 2016 et 2017 n’a pas été remplie par le requérant, car ce dernier n’a pas déposé de tels avis[13].
+[15] L’intimé s’oppose à ce qu’il a qualifié d’arguments constitutionnels avancés par le requérant. Plus particulièrement, l’intimé soutient que le fait qu’un argument constitutionnel a été avancé au stade de la demande n’est pas approprié, car la seule question dont la Cour est saisie concerne le dépôt de l’avis d’opposition et la question de savoir si les arguments constitutionnels sont fondés serait examinée après l’éventuel dépôt d’un avis d’appel[14].
+[16] En outre, l’intimé avance que le requérant n’a pas exprimé clairement sa contestation constitutionnelle et qu’en raison de l’omission de ce dernier de suivre les procédures applicables pour introduire une contestation constitutionnelle, l’argument constitutionnel ne peut être avancé[15].
+[17] Enfin, l’intimé fait valoir que le requérant doit exposer pleinement la question constitutionnelle, signifier un avis relatif à la question constitutionnelle en application du paragraphe 57(1) de la Loi sur les cours fédérales[16] et veiller à ce que le dossier de preuve à l’égard de la question identifiée soit complet. Selon l’intimé, le requérant n’a satisfait à aucun de ces trois critères[17].
+V. LE DROIT APPLICABLE ET L’ANALYSE JURIDIQUE [18] Dans l’analyse ci-après, le terme « Indien », qui désigne un sous-ensemble de ce qui vise le terme « peuple autochtone », est utilisé au sens légal que lui attribue la Loi sur les Indiens[18] et la Loi constitutionnelle[19].
+[19] Le paragraphe 2(1) de la Loi sur les Indiens définit le terme « Indien » de la façon suivante :
+Indien Personne qui, conformément à la présente loi, est inscrite à titre d’Indien ou a droit de l’être.
+[20] Par ailleurs, le paragraphe 35(2) de la Loi constitutionnelle est ainsi libellé :
+35(2) Définition de peuples autochtones du Canada
+Dans la présente loi, peuples autochtones du Canada s’entend notamment des Indiens, des Inuit et des Métis du Canada.
+[21] Le requérant soutient qu’en sa qualité d’Indien inscrit, il n’est ni citoyen ni résident du Canada et qu’en conséquence, il n’est pas tenu de respecter les exigences procédurales prévues par la Loi[20].
+[22] Il convient de souligner que le représentant du requérant a déclaré, lors des audiences des 22 novembre 2022 et 26 juin 2023, que le requérant ne présentait pas une contestation constitutionnelle. Voici ce que le requérant déclare au paragraphe (D) de l’avis d’appel :
+[TRADUCTION]
+La Loi de l’impôt sur le revenu s’applique aux résidents canadiens; elle ne s’applique pas aux Indiens visé par un traitésqui sont membres de la confédération iroquoise des Haudenosaunis. M. Louis Zachery n’étant pas un résident du Canada ou un citoyen des États-Unis, il est exonéré de l’impôt sur le revenu.
+[23] Bien qu’il soutienne ne pas soulever une question constitutionnelle, le requérant fait essentiellement valoir, à tout le moins dans l’un de ses arguments, qu’en application du paragraphe 35(1) de la Loi constitutionnelle, il est exonéré de l’impôt sur le revenu à payer selon la Loi et qu’au surplus, il n’est pas visé par la Loi dans son ensemble. Ainsi, même si l’argument n’est pas formulé en tant que question constitutionnelle, ce que le requérant conteste, dans le cadre de la présente audience, est l’applicabilité des articles 166.1 et 166.2 de la Loi à l’égard des Indiens inscrits, et il invoque le paragraphe 35(1) de la Loi constitutionnelle pour étayer cet argument.
+[24] Dans l’arrêt Thompson c. MRN[21], le juge Trudel de la Cour d’appel fédérale a déclaré que la nécessité de donner un avis de question constitutionnelle est liée à la réparation demandée par une partie. Si le requérant ne demande pas au tribunal de conclure que les dispositions d’une loi sont invalides, inapplicables ou sans effet, aucun avis n’est alors nécessaire.
+67 La nécessité de donner un avis de question constitutionnelle est fonction de la nature de la mesure demandée par une partie : Canada (Ministre du Patrimoine) c. Mikisew Cree First Nation, 2004 CAF 66, [2004] 3 R.C.F. 436. L’article 57 de la Loi sur les Cours fédérales dispose que la validité, l’applicabilité ou l’effet, sur le plan constitutionnel, d’une loi fédérale ne peut être apprécié à moins qu’un avis n’ait été signifié. L’appelant ne demande pas à la Cour d’appel fédérale, que ce soit dans son avis d’appel ou dans la section de son mémoire portant sur l’ordonnance recherchée, de conclure que les dispositions de la Loi que le ministre a invoquées à l’appui de sa demande péremptoire sont invalides, inapplicables ou sans effet, comme l’exige l’article 57. En conséquence, il n’est pas nécessaire d’examiner la question soulevée dans l’avis de question constitutionnelle.
+[25] Compte tenu de cette analyse, il est clair que l’argument du requérant est fondé, du moins en partie, sur une question constitutionnelle. Plus particulièrement, le requérant soutient que les dispositions de la Loi ne s’appliquent pas à lui du fait qu’il est un Indien inscrit. Il m’incombe donc de déterminer si le requérant a satisfait aux exigences applicables pour avancer un tel argument devant la Cour.
+[26] Pour soulever une question constitutionnelle, le requérant devait d’abord déposer un avis de question constitutionnelle, conformément à l’article 19.2 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2, dans lequel la question constitutionnelle est clairement énoncée. Or, il ne l’a pas fait. Par conséquent, je m’abstiendrai de trancher la question constitutionnelle. Cela dit, même si j’acceptais d’examiner la question constitutionnelle, j’estime que la Cour ne dispose d’aucune preuve à l’appui de cet argument.
+A. Citoyens et résidents du Canada
+[27] Le second argument du requérant est que les Indiens des traités ne sont pas des citoyens canadiens et que, pour cette raison, il est exonéré de l’impôt.
+[28] En examinant cet argument, il faut d’abord répondre à la question de savoir si les Indiens inscrits sont des citoyens canadiens[22].
+[29] Dans l’arrêt Mitchell c. MRN[23], l’intimé était un Mohawk d’Akwesasne et un descendant de la nation mohawk. Il avait traversé la frontière des États-Unis au Canada et avait refusé de payer des droits de douane au motif qu’un droit ancestral l’exemptait du paiement de tels droits. Voici ce que la juge McLachlin, alors juge en chef de la Cour suprême, a dit au sujet de l’histoire des Autochtones au Canada et du fait que leurs droits avaient été inscrits dans la Loi constitutionnelle :
+9. Bien avant que les Européens explorent l’Amérique du Nord et s’y installent, les peuples autochtones occupaient et utilisaient la plus grande partie de ce vaste territoire en sociétés organisées et distinctives possédant leurs propres structures sociales et politiques. Les Français et les Britanniques ont été les premiers colons à s’établir dans la partie de l’Amérique du Nord qu’on appelle maintenant le Canada et, dès les premiers temps de leur exploration, ils ont revendiqué la souveraineté sur le territoire au nom de leur nation respective. Le droit anglais, qui a fini par régir les droits des peuples autochtones, acceptait que les Autochtones possédaient des lois et des intérêts préexistants, et reconnaissait leur maintien s’ils n’étaient pas éteints par la cession, la conquête ou la loi : voir par exemple la Proclamation royale de 1763, L.R.C. 1985, App. II, no 1, et R. c. Sparrow, [1990] 1 R.C.S. 1075, p. 1103. Parallèlement, toutefois, Sa Majesté a affirmé sa souveraineté sur le territoire, et son titre sous‑jacent à l’égard de ce territoire : Sparrow, précité. Cette affirmation de souveraineté a fait naître l’obligation de traiter les peuples autochtones de façon équitable et honorable, et de les protéger contre l’exploitation, une obligation qualifiée d’« obligation de fiduciaire » dans Guerin c. La Reine, [1984] 2 R.C.S. 335.
+10. En conséquence, l’établissement des Européens n’a pas mis fin aux intérêts des peuples autochtones qui découlaient de leur occupation et de leur utilisation historiques du territoire. Au contraire, les intérêts et les lois coutumières autochtones étaient présumés survivre à l’affirmation de souveraineté, et ont été incorporés dans la common law en tant que droits, sauf si : (1) ils étaient incompatibles avec l’affirmation de la souveraineté de la Couronne; (2) ils avaient été cédés volontairement par traité; ou (3) le gouvernement les avait éteints : voir B. Slattery, « Understanding Aboriginal Rights » (1987), 66 R. du B. can. 727. En dehors de ces exceptions, les pratiques, coutumes et traditions qui définissaient les diverses sociétés autochtones comme des cultures distinctives continuaient de faire partie du droit canadien : voir Calder c. Procureur général de la Colombie‑Britannique, [1973] R.C.S. 313; Mabo c. Queensland (1992), 175 C.L.R. 1, p. 57 (le juge Brennan), p. 81-82 (les juges Deane et Gaudron), et p. 182‑183 (le juge Toohey).
+11. Leur statut de droits de common law rendait les droits ancestraux vulnérables à l’extinction unilatérale et, en conséquence, ils [TRADUCTION] « dépendaient de la bonne volonté du Souverain » : St. Catherine’s Milling and Lumber Co. c. The Queen (1888), 14 App. Cas. 46 (C.P.), p. 54. Cette situation a changé en 1982, quand la Constitution canadienne a été amendée de façon à y inscrire les droits existants — ancestraux ou issus de traités : Loi constitutionnelle de 1982, par. 35(1). L’édiction du par. 35(1) a conféré un statut constitutionnel aux droits autochtones existants en common law (quoiqu’il soit important de noter que la protection donnée par le par. 35(1) s’étend au‑delà des droits autochtones reconnus en common law : Delgamuukw c. Colombie‑Britannique, [1997] 3 R.C.S. 1010, par. 136). Dès lors ces droits autochtones étaient couverts par la protection du par. 35(1) et ne pouvaient plus être unilatéralement abrogés par le gouvernement. Cependant, le gouvernement conservait le pouvoir de les restreindre pour des motifs valables, dans la poursuite d’objectifs publics impérieux et réels : voir R. c. Gladstone, [1996] 2 R.C.S. 723, et Delgamuukw, précité.
+[Non souligné dans l’original.]
+[30] La Cour suprême a rejeté la revendication du Grand Chef Mitchell selon laquelle il jouissait d’un droit ancestral après avoir conclu que ce dernier n’avait pas établi l’existence d’un tel droit. Dans ses motifs concordants, le juge Binnie, citant le juge Dickson (tel était son titre à l’époque), a déclaré que les Indiens étaient des citoyens canadiens et qu’ils avaient les mêmes responsabilités que les autres citoyens canadiens :
+132 […] À d’autres égards toutefois, l’intimé et d’autres autochtones font partie de notre diversité nationale et y contribuent. Cela est vrai aussi dans la définition donnée par notre Cour aux droits autochtones. Ils trouvent leur origine à une époque antérieure, mais ils n’ont pas été figés dans le temps. Comme on l’a dit, il s’agit de droits et non de reliques. Ils sont projetés dans un Canada moderne où ils sont exercés comme droits collectifs au 21e siècle par des Canadiens modernes qui souhaitent préserver et protéger leur identité autochtone.
+133 Au début du 20e siècle, le gouvernement fédéral faisait occasionnellement valoir que la compétence du Parlement en vertu du par. 91(24) de la Loi constitutionnelle de 1867 (« Les Indiens et les terres réservées aux Indiens ») était absolue. On disait que les Indiens étaient des « personnes fédérales » dont la vie était entièrement régie par la « réglementation » fédérale. Cette approche a été rejetée par les tribunaux, qui ont jugé que, bien qu’un autochtone puisse être caractérisé comme Indien à certaines fins, notamment la langue, la culture et l’exercice des droits traditionnels, il ne cesse pas pour autant d’être résident d’une province ou d’un territoire. Pour d’autres fins, il doit être reconnu et traité comme un membre ordinaire de la société canadienne. Peu après l’entrée en vigueur de la Loi constitutionnelle de 1982, dans Nowegijick c. La Reine, [1983] 1 R.C.S. 29, une affaire fiscale, le juge Dickson (plus tard Juge en chef) écrit, à la p. 36 : « Les Indiens possèdent la citoyenneté canadienne et, dans les affaires qui ne sont régies ni par des traités ni par la Loi sur les Indiens, ils ont les mêmes responsabilités [. . .] que les autres citoyens canadiens ». Voir aussi Parents naturels c. Superintendent of Child Welfare, [1976] 2 R.C.S. 751, p. 763, le juge en chef Laskin, et Dick c. La Reine, [1985] 2 R.C.S. 309, p. 326, le juge Beetz. Dans Gladstone (au par. 73) et encore une fois dans Delgamuukw c. Colombie‑Britannique, [1997] 3 R.C.S. 1010 (au par. 165), le juge en chef Lamer répète que « les sociétés autochtones distinctives existent au sein d’une communauté sociale, politique et économique plus large, communauté dont elles font partie et sur laquelle s’exerce la souveraineté de Sa Majesté » (je souligne). L’objectif constitutionnel est la conciliation et non pas l’isolement mutuel.
+[Non souligné dans l’original.]
+[31] L’argument du requérant selon lequel il n’est pas citoyen canadien doit être rejeté.
+B. Application des exigences procédurales
+[32] La prochaine question à trancher est celle de savoir si, en sa qualité de citoyen canadien, le requérant est tenu de respecter les exigences procédurales prévues par la Loi. Il faut répondre à cette question par l’affirmative.
+[33] Le scénario devant la Cour est presque identique à celui dans l’affaire Horseman[24]. Dans cette affaire, le requérant demandait une prorogation du délai pour déposer un avis d’appel concernant une cotisation établie à l’égard de la TPS. La demande avait été faite après l’expiration du délai prescrit par la loi. Le requérant avançait également des arguments constitutionnels.
+[34] La Cour devait décider si les dispositions de la Loi qui énoncent des conditions préalables au dépôt d’un avis d’appel, y compris les limites de nature temporelle et procédurale, s’appliquaient malgré le fait que l’argument que l’appelant éventuel avait l’intention de soutenir était que la Loi était inconstitutionnelle dans son application aux Indiens. La Cour a rejeté la demande au motif que le requérant n’avait pas rempli les conditions préalables au dépôt d’un avis d’appel, peu importe l’argument constitutionnel qui serait éventuellement avancé en appel.
+[35] En appel, la Cour d’appel fédérale a confirmé la décision du juge Russel et a déclaré que les dispositions procédurales s’appliquent et qu’elles doivent être suivies même en cas de revendication de droits constitutionnels et de droits issus de traités dont jouissent les Autochtones[25] :
+3. Dans sa décision défavorable à l’appelant, la Cour de l’impôt a statué (par. 37) que celui‑ci n’avait pas déposé un avis d’opposition valable à la cotisation, une condition préalable à tout appel à la Cour, et qu’il était maintenant trop tard pour le faire. En outre, la Cour de l’impôt a conclu (par. 24) que les dispositions de la Loi concernant les oppositions et les appels s’appliquent, même si les arguments soulevés sont fondés sur les droits constitutionnels des peuples autochtones. À cet égard, la Cour de l’impôt a fait observer (par. 23) que l’appelant faisait « une réclamation privée [...] qui demande une réparation pécuniaire concernant sa situation fiscale personnelle ». L’appelant interjette appel de cette décision devant notre Cour.
+4. Notre Cour ne saurait faire droit à l’appel. Dans le cas de réclamations privées et personnelles, comme en l’espèce, il est nécessaire de se conformer aux dispositions applicables en matière de procédure et de compétence, même lorsqu’il y a revendication de droits constitutionnels et issus de traités des peuples autochtones : Bande indienne Wewaykum c. Canada, 2002 CSC 79, [2002] 4 R.C.S. 245; Canada (Procureur général) c. Lameman, 2008 CSC 14, [2008] 1 R.C.S. 372, par. 13; Manitoba Metis Federation Inc. c. Canada (Procureur général), 2013 CSC 14, [2013] 1 R.C.S. 623, par. 134. Ces arrêts font partie d’une jurisprudence plus importante, selon laquelle les personnes qui présentent des réclamations privées et personnelles, fondées sur des droits constitutionnels doivent quand même se conformer aux délais prévus par la loi et aux autres exigences en matière de procédure et de compétence : voir Mills c. La Reine, [1986] 1 R.C.S. 863, à la page 953; Ravndahl c. Saskatchewan, 2009 CSC 7, [2009] 1 R.C.S. 181; St-Onge c. La Reine, 2001 CAF 308, [2001] A.C.F. no 1569 (QL); Newman c. Canada, 2016 CAF 213, [2016] A.C.F. no 952 (QL), et les nombreux arrêts qui y sont mentionnés.
+5. Selon l’appelant, du fait du libellé de l’exemption de taxation prévue au paragraphe 87(1) de la Loi sur les Indiens, L.R.C. 1985, ch. I‑5, à savoir « [n]onobstant toute autre loi fédérale [...] », les exigences en matière de procédure et de compétence établies par la Loi sur la taxe d’accise ne s’appliquent pas.
+6. Nous ne sommes pas de cet avis. Les termes liminaires de l’article 87 servent à empêcher l’adoption d’autres dispositions législatives fédérales en matière de taxation incompatibles avec l’exemption matérielle prévue à l’article 87. Ces termes ne modifient en rien les exigences en matière de procédure et de compétence se rapportant, entre autres, à la juridiction habilitée à instruire l’instance, au mode d’introduction de l’instance et aux délais applicables. S’il n’en était pas ainsi, qu’est-ce qui empêcherait une personne de se pourvoir directement en première instance à la Cour suprême du Canada des années, voire des décennies plus tard, afin de faire valoir son droit à l’exemption prévue à l’article 87?
+7. La Cour de l’impôt a conclu à bon droit qu’il y avait lieu de rejeter la demande de prorogation du délai de dépôt de l’avis d’appel. Elle peut connaître de ce type de demandes, uniquement lorsqu’il est satisfait aux exigences prévues aux articles 301 à 307 de la Loi sur la taxe d’accise, précitée, y compris l’obligation de déposer un avis d’opposition valable : Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, ch. T-2, art. 12. L’avis d’opposition n’a pas été déposé en l’espèce.
+8. Nous ne relevons aucune erreur susceptible de contrôle dans les conclusions de fait de la Cour de l’impôt et nous souscrivons pour l’essentiel à l’analyse juridique faite par la Cour de l’impôt relativement à ces faits (par. 25 à 42).
+[Non souligné dans l’original.]
+[36] Par conséquent, pour obtenir gain de cause, M. Zachary doit d’abord satisfaire aux exigences procédurales prévues par la Loi en matière de dépôt d’un avis d’opposition. J’examinerai cette question ci-après.
+C. Demande de prorogation
+[37] Je dois donc déterminer s’il doit être fait droit à la présente demande de prorogation, de sorte que le requérant puisse faire valoir ses diverses oppositions au‑delà du délai habituel de 90 jours imparti pour s’opposer à une cotisation.
+[38] Le paragraphe 165(1) de la Loi est ainsi libellé :
+165 (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) s’il s’agit d’une cotisation, pour une année d’imposition, relative à un contribuable qui est un particulier (sauf une fiducie) ou une succession assujettie à l’imposition à taux progressifs pour l’année, au plus tard au dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation;
+b) dans les autres cas, au plus tard le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation.
+[Non souligné dans l’original.]
+[39] Le requérant n’a pas respecté le délai de 90 jours imparti pour faire opposition à une cotisation. L’avis de cotisation relatif à l’année d’imposition 2014 était daté du 4 juin 2015. Or, le requérant s’est opposé à la cotisation établie pour l’année d’imposition 2014 le 16 octobre 2019, soit 1 596 jours plus tard.
+[40] S’il souhaitait faire opposition à la cotisation établie pour l’année d’imposition 2014, le requérant devait déposer auprès du ministre un avis de prorogation du délai pour déposer une opposition en application de l’article 166.1 de la Loi, dont voici le libellé :
+Prorogation du délai par le ministre
+166.1 (1) Le contribuable qui n’a pas signifié d’avis d’opposition à une cotisation en application de l’article 165 ni présenté de requête en application du paragraphe 245(6) dans le délai imparti peut demander au ministre de proroger le délai pour signifier l’avis ou présenter la requête.
+[41] Or, une telle demande doit être présentée dans l’année suivant l’expiration du délai de 90 jours imparti pour faire opposition à une cotisation. Malheureusement, le requérant ne l’a pas fait.
+(7) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[Non souligné dans l’original.]
+[42] Après avoir présenté une demande de prorogation au ministre, le contribuable peut demander à la Cour canadienne de l’impôt, en vertu de l’article 166.2 de la Loi, de faire droit à sa demande. Cela dit, pour présenter une demande de prorogation en vertu de l’article 166.2 de la Loi, le contribuable doit avoir préalablement présenté une demande de prorogation au ministre en application de l’article 166.1 de la Loi. Or, le requérant ne l’a pas fait.
+Prorogation du délai par la Cour canadienne de l’impôt
+166.2 (1) Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) e rejet de la demande par le ministre;
+b) ) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+Une telle demande, à l’instar d’une demande présentée au ministre en application de l’article 166.1 de la Loi, doit être présentée dans l’année suivant l’expiration du délai de 90 jours imparti pour faire opposition à une cotisation.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontrer ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[Non souligné dans l’original.]
+[43] Si aucune demande n’a été présentée au ministre en application de l’article 166.1 de la Loi, la demande présentée à la Cour canadienne de l’impôt en vertu de l’article 166.2 de la Loi est irrecevable[26].
+[44] En outre, dans le cas où le contribuable présente une telle demande à la Cour canadienne de l’impôt après l’expiration du délai de 90 jours, une fois que le ministre a rejeté la demande qu’il avait présentée à ce dernier en application de l’article 166.1 de la Loi, la Cour canadienne de l’impôt n’a pas compétence pour entendre la demande[27]. Par conséquent, en l’espèce, la demande de prorogation du délai pour déposer un avis d’opposition concernant l’année d’imposition 2014 doit être rejetée.
+[45] Le requérant n’a jamais déposé d’avis d’opposition concernant les années d’imposition 2015, 2016 et 2017. Il n’a jamais non plus demandé la prorogation du délai pour déposer un avis d’opposition. Par conséquent, je dois aussi rejeter la demande de prorogation du délai pour déposer un avis d’opposition concernant ces années d’imposition.
+VI. CONCLUSION [46] M. Zachary est citoyen canadien. Par conséquent, tout argument selon lequel la Loi, notamment les dispositions de cette dernière en matière de procédure, ne s’applique pas à lui n’est pas fondé.
+[47] La Cour ne peut accorder au requérant la prorogation de délai qu’il demande, car la demande qu’il a présentée à cet effet n’est pas conforme aux exigences procédurales de la Loi, à savoir que la demande doit être déposée dans le délai prescrit par celle-ci et selon la procédure qui s’applique en matière de prorogation.
+[48] La demande est rejetée. Aucuns dépens ne seront adjugés.
+Signé à Ottawa (Canada), ce 23e jour de janvier 2024.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 14e jour de février 2024.
+Bernard Olivier
+RÉFÉRENCE :
+2024 CCI 8
+NO DU DOSSIER DE LA COUR :
+2020-211(IT)APP
+INTITULÉ :
+LOUIS ZACHARY c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 juin 2023
+MOTIFS DE JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 23 janvier 2024
+COMPARUTIONS :
+Représentant du requérant :
+Wilfred Davey
+Avocat de l’intimé :
+Me Payton Tench
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant :
+Nom :
+s.o.
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.).
+[2] Affidavit de Therese Chichmanian, Cour canadienne de l’impôt, établi sous serment le 4 mars 2020, au par. 8 [Affidavit].
+[3] Ibid au par. 10.
+[4] Ibid au par. 12.
+[5] Ibid au par. 3.
+[6] Demande de prorogation du délai pour signifier un avis d’opposition (procédure informelle) (paragraphe 18(2)), Cour canadienne de l’impôt, déposée le 20 janvier 2020, au par. (A) [Demande de prorogation] note 2, au par. (A).
+[7] Loi constitutionnelle de 1982, annexe B, Loi de 1982 sur le Canada Act (R.-U.), ch. 11.
+[8] Ibid aux par. (D) et (E).
+[9] Traité de la Ceinture wampum à deux rangs, traité de la Ceinture de la chaîne d’argent d’amitié, traité de Pickering, traité de Washington, traité de Nanfan, Proclamation Haldimand.
+[10] Affidavit, supra note 2, au par. 12.
+[11] Ibid au par. 21.
+[12] Ibid au par. 1.
+[13] Ibid au par. 22.
+[14] Observations de l’intimé concernant l’ordonnance du 13 juillet 2023, ministère de la Justice Canada, datée du 22 août 2023, à la page 2 [Observations de l’intimé].
+[15] Ibid.
+[16] Loi sur les Cours fédérales, L.R.C. (1985), ch. F-7. Il me semble que cela est erroné et que l’intimé aurait dû plutôt invoquer l’article 19.2 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2. Les questions constitutionnelles soulevées devant la Cour canadienne de l’impôt ne sont pas visées par la Loi sur les Cours fédérales. C’est ce que la Cour d’appel fédérale a indiqué dans l’arrêt Horseman c. Canada, 2016 CAF 252.
+[17] Observations de l’intimé, précité note 14, à la page 3.
+[18] Loi sur les Indiens, L.R.C. (1985), ch. I-5.
+[19] Loi constitutionnelle de 1982, annexe B, Loi de 1982 sur le Canada Act (R.-U.), ch. 11.
+[20] Demande de prorogation, précité note 6, aux par. (D) et (E).
+[21] Thompson c. MRN, 2013 CAF 197, infirmé en appel pour d’autres motifs, 2016 CSC 21.
+[22] Je fais remarquer que le requérant a utilisé les mots « résident » et « citoyen » dans son avis d’appel, mais je ne fais aucune distinction entre l’un et l’autre mot aux fins de la présente demande de prorogation.
+[23] Mitchell c. MRN, 2001 CSC 33.
+[24] Horseman c. La Reine, 2017 CCI 198 [Horseman].
+[25] Horseman c. R., 2018 CAF 119, aux par. 3 à 8.
+[26] McKernan c. R, 2003 1 CTC 2275 (CCI); Boyko c. R, 2010 CCI 534; Asiedu c. R, 2011 CCI 150.
+[27] Lemieux c. R, 2003 CCI 855; 9848-3173 Quebec c. R, 2003 CCI 217; Maman c. R, 2007 CCI 429; De Lucia Estate c. R, 2010 CCI 479; Burke c. R, 2012 CCI 378.

@@ -1,0 +1,266 @@
+---
+title: "Sharma v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521505/index.do"
+last_modified: "2025-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 145"
+citation2: ""
+neutral_citation: "2025 TCC 145"
+decision_date: "2025-10-07"
+language: "en"
+item_id: "521505"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5439
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:12:43.878000+00:00"
+cases_cited_count: 11
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "424eda6ba5c7f0bb497186091f31ac899be17947203ce3f3b946f31565b96ff8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sharma v. The King
+
+- Citation: 2025 TCC 145
+- Decision date: 2025-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5439, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sharma v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-07
+Neutral citation
+2025 TCC 145
+File numbers
+2024-185(GST)I
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-185(GST)I
+BETWEEN:
+MANDEEP SHARMA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 10, 2025, at Toronto, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Eleanor Wagner
+Leonard Elias
+JUDGMENT
+The appeal is allowed without costs.
+Signed this 7th day of October 2025.
+“J. A. Sorensen”
+Sorensen J.
+Citation: 2025 TCC 145
+Date: 20251007
+Docket: 2024-185(GST)I
+BETWEEN:
+MANDEEP SHARMA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sorensen J.
+I. Introduction [1] This goods and services tax/harmonized sales tax (“GST/HST”) New Housing Rebate appeal concerns a newly built residential property that the appellant acquired in Guelph, Ontario (the “Property”).
+[2] The rebate enables individuals to recover GST/HST paid in respect of new or substantially renovated housing. It helps Canadians with housing priced within a certain range by partially alleviating the regressive effect of the GST/HST. The GST/HST New Housing Rebate provisions are set out in s. 254 through 256 and 256.2 of the Excise Tax Act (Canada) (the “Act”).[1] The form, manner and required information to apply for the rebate are governed by s. 262.
+II. Issue [3] The appeal concerns two issues: whether the appellant purchased the Property with the intention to use it as a primary place of residence for herself or a qualifying relation (s. 254(2)(b)); and whether they were the first to occupy the Property as a place of residence after it was substantially completed (s. 254(2)(g)).
+[4] The respondent raised a further issue, based on evidence at the hearing, namely, that the appellant’s husband, Mr. Sharma, signed the original purchase and sale agreement in June 2014 and their names were switched in November 2015, therefore, the date at which her intention must be determined is the later date, weeks before the purchase closed.
+III. Evaluating Intention [5] Paragraph 254(2)(b) does not expressly refer to intention, but rather to an acquisition “for use” in some capacity, and that language establishes a purpose or intention test.[2] Reaching a conclusion regarding intention means making an objective determination accounting for the surrounding circumstances. Statements of subjective intention may be relevant, but cannot be determinative, since they may be self-serving.
+[6] This Court’s guidance in Charlebois,[3] is helpful:
+[12] In considering a person’s intention or purpose, a person’s conduct is generally more revealing than “ex post facto declarations” (see generally MacDonald v. Canada, 2020 SCC 6, at para. 22). Courts are, therefore, not guided only by a person’s subjective statements of purpose and instead will look for objective manifestations of purpose (see Symes v. Canada, [1993] 4 SCR 695, at p. 736) and examine the surrounding factual circumstances.
+[13] The actual use of the property may be evidence of a person’s intention and a more reliable indicator (see Coburn Realty Ltd. v. The Queen, 2006 TCC 245, at para. 10). However, the fact that an individual may or may not live in the house is distinct from the intention that could motivate the person to construct the house. …
+[7] GST/HST New Housing Rebate appeals, like most cases, are fact specific and the approach to determining intention is open-ended and multifaceted.[4]
+IV. Facts [8] The appellant and Mr. Sharma testified, and I found them both credible and generally reliable.[5]
+Purchase and Sale History
+[9] The Minister of National Revenue (the “Minister”) assumed that the appellant acquired the Property by purchase and sale agreement on June 12, 2014. The respondent resiled from that position because Mr. Sharma signed the original purchase and sale agreement and, on November 13, 2015, the appellant’s name was switched for Mr. Sharma’s.
+[10] The appellant knew in 2014 that they would have to change the name on the purchase and sale agreement. The issue was that Mr. Sharma faced financial challenges that could affect their ability to get financing, arising from the failure of his former employer and not being able to collect back pay.
+[11] They did not start speaking with mortgage brokers until after the purchase and sale agreement was signed. There was no cross-examination concerning any mortgage pre-approval for the pre-construction Property, which can sometimes be a builder requirement.
+[12] After some delays, the purchase of the Property closed on December 1, 2015. The rebate application was filed by the builder in January 2016 and the Minister denied it by notice of assessment dated January 6, 2017.
+[13] According to the statement of adjustments dated November 30, 2015, as augmented by the appellant’s testimony, the Property cost, including further expenses not listed on the statement, was approximately $362,000,[6] and I accepted this approximate figure as the cumulative cost to the appellant.
+[14] The appellant entered into a representation agreement with a real estate agent dated January 20, 2016, to sell the Property. The sale closed on or about February 27, 2016, for $365,000. The Minister assumed the appellant profited. The appellant testified that the $365,000 was not net, and further expenses were incurred. In the absence of any specific details and supporting documentation, I concluded that the purchase and sale of the property was at least a wash financially, other than the GST/HST rebate of $24,692.34 that is the subject of this appeal.
+Appellant’s Intention: 2014 Purchase
+[15] The appellant testified that the Property was to be their dream home. They chose Guelph, Ontario because Mr. Sharma worked there in his father’s business. Further, they have family in the area, and they generally found it to be a pleasant city that offered them a future.
+[16] The business made cooking sauces at facilities at the University of Guelph, an institution known for agriculture and food sciences. Mr. Sharma testified that the University of Guelph food technology centre has the highest standards in the country.[7] A plan had been in place for Mr. Sharma to take over the business in 2015. The plan was delayed from 2015 to 2018.
+[17] Mr. Sharma’s engagement with the business and the University, and the plan for him to take over, was corroborated by the appellant as well as documents that were filed including various email correspondence. I accepted as fact the evidence about the food business, including production at the University and the plan for Mr. Sharma to take over.
+[18] The appellant testified that she appreciated that living in Guelph would mean that she would have a long commute. However, she also testified that they had an initial idea that she might join the food business. She further asserted that the eventual goal was to make the food business their primary source of income.
+[19] As a matter of common sense it is not surprising that a newlywed couple would aspire to own a home together. Further, if they respectively worked in Toronto and Guelph, they could have chosen a midpoint, but it is not surprising that they would choose one or the other cities to make their home. Commutes are a fact of life in the Greater Toronto Area, and Guelph is reasonably proximate to Toronto and serviced by transit.
+Appellant’s Intention: 2015 Pre-Closing Issue
+[20] As noted above, Mr. Sharma signed the original purchase and sale agreement and, on November 13, 2015, the appellant’s name was switched as the purchaser instead of Mr. Sharma. The agreement adding the appellant was entered into evidence as A9. It specified that the appellant was bound by the 2014 agreement as if she had signed it, and equally that she was entitled to all the benefits of the 2014 agreement as though she signed it. She waived any right to rescind.[8] Further, Mr. Sharma was not released from liability as of November 2015.
+Reasons for February 2016 Sale
+[21] The appellant was a director within the provincial civil service prior to 2016. In January 2016, she was advised that she would be included in a government trip, an early indication that she would be promoted to a senior position. While the dates were unclear, the trip occurred sometime between January 14 and 20, 2015 and was a couple of weeks long. This career development was corroborated with documentary evidence provided at the hearing.
+[22] While she had to commute to Queen’s Park, Toronto, for her director’s role, the responsibilities of being a chief of staff were far greater: she had more responsibilities and was expected to be in the office in person every day, including evenings and weekends. As she explained it, a chief of staff job is prestigious, and she devoted herself to the new job to the best of her ability. Therefore, while living in Guelph might have been workable when she was a director, it became unworkable after her promotion in January 2016.
+[23] Mr. Sharma had been planning to take over the family’s sauce business as noted, however, the University gave notice that it was discontinuing the relationship. Mr. Sharma testified that the food technology centre was sold off to a private company. This threw a wrench into the business plan. The association with the University gave the business credibility, and opened doors, including a feature on a Food Network television show. Losing the University connection, on the other hand, was a change in circumstances that caused uncertainty. Nonetheless, through 2015 and 2016, the evidence indicated that Mr. Sharma’s income was limited and the appellant was the primary income-earner in the family, so the immediate economic impact of the business change and transition would have been moderated.
+[24] Mr. Sharma spoke with a realtor friend about the Property and wanting to sell. The discussion apparently occurred in mid January 2016. His testimony was that the realtor sought out buyers and found one fast. The appellant’s testimony confirmed Mr. Sharma’s. She stated that the area was attractive to young families and the purchaser was a family that “missed the boat” on buying into the development. They had to make a fast decision, and when the chance to sell came up, they took it.
+Moving Costs
+[25] The appellant offered a reconstruction of an invoice for moving expenses from temporary accommodations (mentioned below) to the Property. The appellant admitted that she did not have the original version, and that the reconstruction was generated after the audit began. I did not accept the invoice as evidence. However, the appellant testified that they moved from storage a sofa, a mattress, many boxes and suitcases, and that they had a television, and I accept that those items were transported to the Property.
+Electricity Use
+[26] A Guelph Hydro bill was entered into evidence by the appellant. The billing date was February 12, 2016, and the fees were $34.69. The bill also showed that the prior month total payable was $27.03.
+[27] The limited energy use was explained by the fact that the appellant was away on business for a couple of weeks in January 2016, and Mr. Sharma spent some time in January at his parent’s home. The appellant testified that they would spend time with Mr. Sharma’s family because both of his parents had health issues. Apparently, they spent their weekends with her in-laws as a result.
+[28] The appellant further explained their limited electricity use, testifying that they often brought food to the Property from her in-laws’ home, and they did not do laundry at the Property. Mr. Sharma explained that working in the food industry created a disincentive to wanting to cook at home. The appellant testified that they consumed takeout and leftovers from family gatherings as they were setting up the kitchen at the Property.
+[29] Mr. Sharma testified that while they regularly spent time at the Property after closing, they were not there much during the holidays. Mr. Sharma also testified that they were still using the University’s facilities in late 2015/early 2016 and that he lived at the Property while working in Guelph.
+[30] The appellant testified regarding their limited time at the Property in February saying that they had to move their possessions and prepare the place for the purchaser.
+Other Evidence
+[31] The appellant’s evidence included proof of insurance. On one hand, lenders (and common sense) would ordinarily require home insurance, so having it does not establish residence or intention to reside. However, the policy included contents insurance, and the appellant intimated that this would not be necessary if they had not planned to move into the Property.
+[32] No other invoices were entered into evidence in connection with the Property. According to the appellant, invoices for other services would have been received electronically at a work electronic mail address that she can no longer access since she left her chief of staff position in 2018 after the provincial election of that year. I did not draw an adverse inference from the failure to provide further documents, since as of 2018 the appellant did not know that there was or would be any issue with her entitlement to the GST/HST New Housing Rebate, so she would not be expected to have preserved helpful documents that would have been received in her work electronic mail. Further, I appreciate that seeking to access archived emails from a former employer going back 10 years and for personal reasons could be challenging.
+Time Spent at the Property
+[33] The appellant’s in-laws have a large house, and she and Mr. Sharma spent time there on the weekends after closing on the Property because, among other things, her father-in-law had a heart attack. Further, her brother-in-law had an accident in January 2016, and finally, her mother-in-law had knee replacement surgery. They all needed support. The timeline for these events was not clear at the hearing and was not probed on cross-examination, so I am left with the conclusion that due to a confluence of events, the appellant and Mr. Sharma had family responsibilities throughout the time they owned the Property that demanded their time and attention.
+Not a House “Flip”
+[34] The appellant testified that the Property was the only property she ever owned that was sold after a short ownership period. After selling the Property, they moved to an apartment, then to their current residence where they have lived for approximately eight years. Neither the appellant nor Mr. Sharma were real estate agents, developers or tradespeople. The appellant did not profit from the sale of the Property and was not assessed for income tax in connection with the sale. The trigger for the audit of the GST/HST New Housing Rebate claim was likely a review of the rebate application cross-referenced against a title search that showed a short ownership period, and the audit was not connected to any Canada Revenue Agency principal residence project.
+Address History
+[35] The appellant’s historic addresses were the subject of Ministerial assumptions and evidence was led that contradicted the assumptions to some extent. The appellant’s address history prior to the Property was not relevant, and I will summarize it here for the sake of completeness.
+The Minister assumed that the appellant resided at Enfield Place, Mississauga, Ontario from 2007 to April 2015, then at East Liberty St., Toronto, Ontario, until November 2016, at which time she further relocated to Mississauga, Ontario. The residence assumptions were supported with an affidavit of a Canada Revenue Agency litigation officer, subject to comments below.
+The appellant testified that that she lived at Mr. Sharma’s home for a time in 2013 (they married that year), and that they moved to East Liberty St. in January 2014.
+The appellant’s testimony, supported by copies of correspondence with a landlord representative, was that she gave notice that she would vacate the East Liberty St. property as of October 31, 2015. The appellant testified they had extended their lease because of construction delays with the Property, and this was all corroborated with copies of email correspondence.
+The appellant’s testimony was that they could only extend East Liberty St. to October 31, so in the month of November they resided at temporary accommodations on Stewart St., Toronto, Ontario, which is roughly proximate to East Liberty St. Therefore, they were able to move to Stewart St. using vehicles and carrying furniture themselves.
+[36] The Ministerial assumptions paragraph included allegations that:
+The appellant’s T4 and RRSP information for 2015 were addressed to the East Liberty St. address;
+They never changed their mailing or residential address with the Canada Revenue Agency to the Property’s address; and
+They never changed their mailing or residential address for the purpose of their health cards, driver’s licenses, passport, banking, or any other financial matters to the Property’s address.
+[37] These Ministerial assumptions were not challenged at the hearing and would ordinarily be taken as correct. However, the appellant explained that her T4 information returns may have been sent to her by interoffice mail which explains why she received the T4. Further, the appellant testified that having the wrong address in any information provided by her bank did not make sense, insofar as the Property mortgage was with her bank.
+[38] In my estimation, the affidavit evidence filed by the respondent was unreliable. The exhibits to the affidavit included a reconstruction of the appellant’s 2015 T1 return (Exhibit B), which showed the appellant’s current Lakeshore Boulevard address. However, according to Exhibit F, the appellant used the correct Mississauga address when she late-filed her 2015 return, being the address of the Absolute Avenue apartment they moved into after selling the Property. While this comment is speculative on my part, it may have been the case that the reconstructed 2015 T1 return was an aggregate of information, including the current address on file, not the actual address on the 2015 T1.
+V. Analysis [39] There are two issues in this appeal:
+whether the appellant purchased the Property intending to use it as a primary place of residence for herself or a qualifying relation; and
+whether the appellant and Mr. Sharma were the first to occupy the Property as a place of residence after it was substantially completed.
+[40] Within the first issue, the point in time for determining intention is disputed.
+[41] In determining appeals that concern both s. 254(2)(b) and (g), a cautious approach is required to avoid merging their respective legal tests. There is some risk of blurriness when evaluating:
+an appellant’s subjective intention to use a property as a primary place of residence under paragraph (b), assessed against the factual use of the property after closing; and
+whether the appellant (or a relation) factually occupied the complex or unit as a place of residence under paragraph (g).
+[42] While common factual elements may be considered, paragraphs (b) and (g) are different.
+Intention to Use the Property as a Primary Place of Residence
+[43] The respondent relied on Kniazev[9] to describe the required level of intention in a GST/HST New Housing Rebate appeal:
+[7] In the end, there are numerous decisions, each turning on their own facts, on the issue of a purchaser’s intention to acquire a residence as a “primary place of residence” for the purposes of the rebate. What is required is a clear and settled intention to occupy the premises as a “primary place of residence”, considered in the context of an individual’s personal, family and work related circumstances. A tentative, fleeting or whimsical intention does not suffice.
+[8] Parliament’s use of the word “primary” also suggests that the purchaser must have a settled intention to centre or arrange his personal and family affairs around that property. The rebate is not intended for a secondary residence or “pied-à-terre”. An individual can own multiple residences but would typically have only one “primary place of residence”.
+[44] The respondent relied on Coburn Realty[10] for the proposition that expressions of subjective intent are insufficient:
+[10] Statements by a taxpayer of his or her subjective purpose and intent are not necessarily and in every case the most reliable basis upon which such a question can be determined.
+[45] The respondent referenced Kandiah, a case in which the eventual use of a property was not consistent with the stated intention:[11]
+[22] Mr. Kandiah’s counsel argued it is inappropriate to consider the quality of residing – squalor or opulence – but simply the fact of residing. I do not necessarily disagree. But there must still be the element of use as a residence, and, indeed residing as a primary place of residence. Mr. Kandiah gave no evidence of time spent at 50 Minerva Avenue, eating arrangements, or any of his comings and goings. There was no place to eat evidenced by the daughter suggesting she would simply have tea on her bed. The evidence falls far short of proving to me he actually resided there as one would normally view residing in the context of using the property as your primary place of residence.
+[46] And the respondent referenced Sozio:[12]
+[15] Each case is an exercise in analyzing the taxpayer’s subjective intention using the unique facts of each appeal across a variety of indicia. The facts will provide direction and inform the application and weight to be given to the indicia. In short, is what a taxpayer says or intended supported across the waypoints of occupancy. Such indicia of occupancy as a primary residence are logical:
+a) demarcation of primary place of residence by change of address;
+b) the relocation of sufficient personal effects to the rebate property;
+c) if no occupancy of the residence, was there cogent evidence of frustration of occupancy;
+d) permanent occupant insurance versus seasonal or rental coverage;
+e) delivery of possession of previous primary residence to another;
+f) If dual occupancy continues, then the rebate property must be more frequently occupied, more convenient to third party locations such as work, more convenient amenities and more suitable to the needs of the taxpayer.
+[16] Even at that, these indicia are not exhaustive and will expand and contract based upon each unique factual situation.
+[47] The above-noted case law, and the body of law in this area generally, affirm that determining intention is fact-specific. A “clear and settled intention” is required, determined objectively according to personal, family and work circumstances. The factors outlined in the case law are not exhaustive or fixed, and the weight of given factors may vary in the circumstances. As such, a trier of fact has significant latitude.
+[48] In my view, the reasons why the appellant and Mr. Sharma would have wanted to purchase the Property in 2014 make sense. At that time, she had a government job, and the level of responsibility she had, the time required to be in the office and the expected commute, justified living in Guelph. At that time, Mr. Sharma was working in Guelph and planning to take over the food business which was based there. They had family connections there, they liked Guelph, and they wanted to live in a house rather than a condominium.
+[49] Corroborating documentary evidence concerning the actual use of the Property was limited. I would have preferred some further documentary information connecting the appellant to the Property. However, I accepted that she may have used her work electronic mail address for personal business and that she lost access to that account in 2018 at the conclusion of her chief of staff position. Regarding address changes, including for the purposes of T-slips and income, I found that the respondent’s affidavit evidence was unreliable.
+[50] I did not accept the receipt for moving expenses. However, I accept that a sofa, a mattress, a television, and many boxes and suitcases were moved. The contents of the boxes and suitcases were not described, however, there was no evidence that the appellant or Mr. Sharma owned or resided at any address other than the Property as of December 2015. Therefore, whatever was moved was likely all of their belongings.
+[51] In my view, the insurance policy on the Property was entitled to weight. On one hand, the Property would have been insured regardless of usage. On the other, the appellant suggested that purchasing contents insurance was an indicator that they intended to move in. The Property was a freehold townhouse, and the appellant paid maintenance fees of some kind, which suggests a managing entity. However, there was no evidence that any condominium corporation or association established any requirement to have insurance, and on balance, I am prepared in this case to accept that purchasing contents insurance indicated an intention to move in.
+[52] The extent to which electricity was used at the Property during the period the appellant owned it was surprisingly low but plausibly explained. To be clear, limited utilities usage as demonstrated by low bills can be a strong negative factor in GST/HST New Housing Rebate cases. However, in this case I am satisfied that after closing the appellant and Mr. Sharma needed some time to move in and unpack, that they spent time with family over the holidays, that they were obliged to help ailing family members, that they would have had takeout and leftovers as meals, and that the appellant travelled in January 2016 during which time Mr. Sharma spent some time with family. Again, low utility use is a sound benchmark for determining time spent at a property, but it is not fatal if explainable.
+[53] The fact that the appellant did not provide much documentary evidence of address changes is unfortunate but not entirely surprising, given the short period of time the Property was owned. To be clear, had the ownership period been longer, it would be reasonable to expect drivers’ licenses, health cards, banking information and subscriptions, among other things, to be updated. But Canada Post offers mail forwarding services, and online billing and banking are not new, therefore, it is reasonable that a taxpayer might not immediately complete all address changes.[13] Again, address changes should be expected in the normal course and without much delay but, allowing for some transition time, a modest delay might not necessarily be fatal.
+[54] A further concern is that if there was no intention to make it a primary place of residence, the only other plausible intention they could have formed would have been to resell it at a gain. But the appellant did not sell it at a gain and may have lost money. Perhaps they were untalented property speculators on their first and only venture but, at the same time, nobody is so prescient that they would cover their house-flipping tracks by guessing that one partner would later lose their business relationship (University of Guelph) and the other get a big promotion so as to create a plausible “sell for less money” story to tell the Canada Revenue Agency. The respondent took no position on whether the appellant intended to “flip” the property, however, the range of intentions that she may have had are limited – she either purchased it to live in it or sell it. Between these versions of events, the one that makes more sense is that they bought in June 2014 with the intention to make the Property their primary place of residence.
+[55] If the June 2014 timing of the initial purchase and sale agreement was the correct timing for determining the appellant’s intention with respect to the Property, then I accept that the intention at that time was to acquire it as a primary place of residence for the appellant and her husband, Mr. Sharma.
+[56] The respondent argued that November 2015 was the triggering date for the application of s. 254(2)(b) (key words emphasized):
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual …
+[57] The argument was that the 2014 intention must be ignored and the correct time to ascertain intention was November 2015 when the appellant’s name was substituted on the purchase agreement. If the time at which intention is determined is November 2015, then the argument would be that they knew the food business might no longer be in Guelph. Ergo, they no longer had a strong reason to live there, and thus the appellant’s intention could not have been to acquire the Property as a primary place of residence when she became liable under the agreement of purchase and sale in November 2015.
+[58] The respondent’s argument is not consonant with the reality of the situation. Factually, the University of Guelph connection was only one factor in the decision to buy the Property and the appellant’s other reasons for wanting to live there, formed in 2014, still existed. Therefore, the argument as to intention in November 2015 does not alter my conclusion.
+Occupying the Property as a Place of Residence
+[59] With respect to the requirement for the appellant or a relation to be the first to occupy as a place of residence under s. 254(2)(g), the respondent cited Gill,[14] as follows:
+[29] In my view, the considerations identified in Kandiah and Goulet, supra, also apply to the issue of occupancy of the premises after substantial completion of construction. It must be more than passing or sporadic. There must be an element of permanence that supports the intention to acquire the complex for use as a primary residence. Transitory occupancy cannot satisfy the requirement that the purchaser be “the first individual to occupy the complex” within the meaning of paragraph 254(2)(g) of the ETA.
+[60] As mentioned above, care must be taken to avoid blending elements of the legal tests under s. 254(2)(b) and (g). I favour Sindhi,[15] which was followed in Charlebois,[16] and Gorgis:[17]
+15 There is a point that should be addressed and that is the question of occupation of the residence in question; there is a difference between paragraph 254(2)(b) and paragraph 254(2)(g). In paragraph 254(2)(b), the provision focuses on the intention of the Appellant for use “as the primary place of residence” of the particular individual. Paragraph 254(2)(g) makes no reference to the phrase “primary” but simply refers to occupying “as a place of residence”. This can be a significant difference in sections in terms of application.
+…
+19 As alluded to above, the residence test is different between paragraphs 254(2)(b) and (g); the former requires the property to be the taxpayer's “primary place of residence”, whereas the latter only requires the property to be a “place of residence”.
+20 The Respondent relies on Gill v The Queen, 2016 TCC 13 for the proposition that paragraph 254(2)(g) requires a taxpayer to occupy the property as their “primary” place of residence. In Gill at paragraph 29, Justice Smith wrote regarding paragraph 254(2)(g):
+There must be an element of permanence that supports the intention to acquire the complex for use as a primary residence. Transitory occupancy cannot satisfy the requirement that the purchaser be “the first individual to occupy the complex” within the meaning of paragraph 254(2)(g) of the ETA.
+21 With respect I must disagree. In statutory interpretation, there is a presumption of consistent expression, one part of which states different words have different meanings. In Jabel Image Concepts Inc v Canada, [2000] GSTC 45, the Federal Court of Appeal wrote at paragraph 12:
+When an Act uses different words in relation to the same subject such a choice by Parliament must be considered intentional and indicative of a change in meaning or a different meaning.
+22 In the case of paragraphs 254(2)(b) and (g), it must be presumed Parliament intentionally chose to make a distinction when it used the words “primary place of residence” in paragraph (b) and “place of residence” in paragraph (g). I must therefore reject the Respondent's argument that paragraph 254(2)(g) requires the Appellant to have occupied the property as his primary place of residence.
+[61] In Sindhi, this Court concluded that the taxpayer did not occupy the place of residence to a sufficient extent, so they failed the test under s. 254(2)(g). In that case, the taxpayer: did not make meals at the residence; did not stay there more than two nights per week; continued to live with his parents; did not change his address; did not relocate sufficient personal effects (only bedding and a table); and did not lead evidence that the residence was more frequently occupied than another residence.
+[62] By way of contrast, in Gorgis, the taxpayer succeeded even though: his personal and business lives were not centred in Caledon East; he regularly slept away from the residence; he brought limited furniture and some suitcases to the residence; he often ate at his sister’s house next door; and he delayed in changing his address on his driver’s license and with the Canada Revenue Agency (although he did change his address for other purposes). Mitigating factors in the taxpayer’s favour were that: before he purchased the property he was known to sleep in his truck, not at home (he was a tow truck operator); his brother also lived in the area, so there were multiple family connections to Caledon East; though he moved few possessions, he did not leave personal belongings anywhere else; and he had other means of receiving important mail, so completing all changes of address was not essential.
+[63] Gorgis also articulated the principle that the “quality of residence must be measured against the lifestyle of the particular individual”, noted that long commutes are not unusual in the Greater Toronto Area, and considered sleeping at a place for two to four nights per week consistent with it being a place of residence:
+24 Even if the Respondent were correct about the frequency of when Mr. Gorgis was at the Property, the quality of residence must be measured against the lifestyle of the particular individual. It is accepted that even before he moved into the Property or established Green Apple, Mr. Gorgis would sometimes sleep in his tow truck. He worked hard and his life was oriented around work and family. ... Many residents of the Greater Toronto Area have similar commutes.
+25 The fact that he would stay at the Property anywhere between two and four nights per week is consistent with it being a place of residence. …
+[64] In the present appeal, the Ministerial assumption at paragraph 9(k) stated that the appellant did not move into or occupy the Property at any point prior to its sale on or around February 27, 2016. I disagree.
+[65] The word “occupy” in s. 254(2)(g) stands alone, unmodified by an adverb. Prefacing it with “ordinarily” may impose a requirement to regularly spend time in a place. Prefacing with “fully” or “substantially” may impose an extent requirement. In context, occupy means some unascertained degree of residency, since the word pairs with “place of residence”. The phrase “place of residence” is also unmodified in s. 254(2)(g), unlike the wording in paragraph (b), which is “primary place of residence”. As noted in Sindhi, the presumption of consistent expression must be considered: the same words are presumed to have the same meaning, and different words are presumed to have different meanings. The strength of the presumption may vary depending on the circumstances, but within the same provision the presumption is very strong. It is indisputable that two “place of residence” concepts exist side by side in s. 254(2), and s. 254(2)(g) only contemplates simple “place of residence” unmodified by “primary”. For the distinction between paragraphs (b) and (g) to be meaningful, the concept of residence in paragraph (g) must be regarded as attenuated or moderated.
+[66] To assist in the interpretive exercise, consider the use of the word “primary” in the context of s. 254(2)(b), from Kniazev:
+[8] Parliament’s use of the word “primary” also suggests that the purchaser must have a settled intention to centre or arrange his personal and family affairs around that property. The rebate is not intended for a secondary residence or “pied-à-terre”. An individual can own multiple residences but would typically have only one “primary place of residence”.
+[67] If Parliament did not use the word “primary” in s. 254(2)(g), then it is safe to presume that the “place of residence” concept standing alone means something less than what was contemplated in Kniazev. Parliament’s presumed perfection as a legislative drafter was well-articulated by Regimbald J. in Shopify:[18]
+23 In this vein, courts operate on the presumption of Parliament's knowledge and competence. The legislature is presumed to know all that is necessary to produce rational and effective law (… 65302 British Columbia Ltd v Canada … [1999] 3 SCR 804 at para 7, citing Ruth Sullivan, Driedger on the Construction of Statutes, 3[rd] ed (Toronto: Butterworths, 1994) at 288), and is indeed presumed to be a skillful crafter of legislative schemes and provisions … Closely related is the presumption of perfection: Parliament says what it means and means what it says … .
+[68] Further, if or when Parliament is dissatisfied with the outcome of any Crown litigation, the path is open for legislative amendment.[19]
+[69] In my view, the threshold for occupying somewhere as a place of residence is lower than was contemplated in Gill, and I prefer the approaches of Sindhi and Gorgis. As stated in the latter case: the “quality of residence must be measured against the lifestyle of the particular individual”. In Gorgis, as already noted above, the taxpayer slept at the residence, but not every night, brought limited belongings to the residence, did not cook all that often, and did not promptly change his address with the province or the Canada Revenue Agency. He had reasons for not being at home every night, he had family in the area of the subject property, though he moved few possessions, he did not leave possessions anywhere else, and he had other means to receive important mail. Further, that he had a significant commute was regarded as a fact of life. Finally, he had no history of dealing or trading in real estate (before or after owning the Property).
+[70] The bar for s. 254(2)(g), properly interpreted, is low. In the present case, the behaviours of the appellant and Mr. Sharma are sufficient to qualify as occupancy of the Property as a place of residence, when considered in the context of their particular circumstances, taking into account their personal lives, family and careers. They moved their personal belongings (including furniture) to the Property, did not have any other home, slept there (although not every night), had family in the area, had means of receiving mail other than at the Property address, and also had family and work obligations that impacted their time at the Property. While the facts do not perfectly align with occupancy of the Property, on balance the evidence is sufficient to overcome the low bar set by s. 254(2)(g).
+Conclusion
+[71] GST/HST New Housing Rebate appeals are fact-driven and, as is the case in most disputes, they will often feature some combination of facts that are favourable and unfavourable to each side. In this appeal, considering the evidence as a whole, I was satisfied that the appellant had the requisite intention to acquire the Property as a primary place of residence as of both June 2014 and November 2015, and that the appellant and Mr. Sharma occupied the Property.
+[72] I was grateful for the hard work, diligence and helpful submissions of the respondent’s representative at the hearing. The appellant distinguished herself for her composure and her and Mr. Sharma’s candor was appreciated.
+Signed this 7th day of October 2025.
+“J. A. Sorensen”
+Sorensen J.
+CITATION:
+2025 TCC 145
+COURT FILE NO.:
+2024-185(GST)I
+STYLE OF CAUSE:
+MANDEEP SHARMA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 10, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John A. Sorensen
+DATE OF JUDGMENT:
+October 7, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Eleanor Wagner
+Leonard Elias
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Excise Tax Act, RSC 1985, c. E-15). All statutory references are to the Act unless otherwise noted.
+[2] Coburn Realty Ltd. v R, 2006 TCC 245 (“Coburn Realty”), at paragraph 11.
+[3] Charlebois v The King, 2025 TCC 76 (“Charlebois”).
+[4] Kniazev v R, 2019 TCC 58 (“Knaizev”), at paragraph 7.
+[5] I describe the evidence as “generally reliable” because of occasional mistaken date references, which are excusable since the underlying events occurred a decade ago.
+[6] The up-front cost of the Property to the appellant was not ascertained with precision, but was at least $361,997.34 and possibly more, considering expenses that were likely incurred but not documented.
+[7] Mr. Sharma has a federal dairy license that enables him to purchase milk products without stabilizers or additives. Their food business was based on the use of clean production techniques and that, in his understanding, food intolerances are often rooted in additives rather than food itself. Some or all of the products the business developed and produced appear to have been gluten-free and vegan. The business’ advantage was that it produced Indian sauces and flavours, but in a way that sought to limit food intolerances.
+[8] The agreement referred to the Condominium Act, 1998, SO 1998, c. 19 which provides for a cooling off period during which a purchase and sale agreement may be rescinded.
+[9] Supra note 4.
+[10] Supra note 2.
+[11] Kandiah v The Queen, 2014 TCC 276.
+[12] Sozio v. The Queen, 2018 TCC 258.
+[13] See this Court’s recent decision in Elhav v The King, 2025 TCC 132, in which Friedlander J. gave little weight to the absence of address changes, based on the facts. In that appeal, evidence was lead that established that most communication relating to the subject property was electronic, and physical mail received at the taxpayer’s parent’s home was easy for him to collect.
+[14] Gill v The Queen, 2016 TCC 13.
+[15] Sindhi v The Queen, 2023 TCC 102 (“Sindhi”).
+[16] Supra, note 3.
+[17] Gorgis v The King, 2024 TCC 109 (“Gorgis”).
+[18] Canada (National Revenue) v Shopify Inc., 2025 FC 969 (under appeal: A-240-25 and A-241-25).
+[19] I would not go so far as to assert that not amending legislation is tantamount to accepting a case law interpretation. That may be the case, but it is also possible that case law might not be overturned because other priorities or political exigencies.

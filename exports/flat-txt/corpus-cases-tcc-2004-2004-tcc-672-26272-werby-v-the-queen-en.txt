@@ -1,0 +1,129 @@
+Title: Werby v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26272/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-672-26272-werby-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-25
+
+# Werby v. The Queen
+
+- Citation: 2004 TCC 672
+- Decision date: 2004-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4003, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Werby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-25
+Neutral citation
+2004 TCC 672
+File numbers
+2004-238(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-238(IT)I
+BETWEEN:
+ARTHUR P. (PAT) WERBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+__________________________________________________________________
+Appeal heard on August 9, 2004 at Kitchener, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascale Boulay (Student-at-law)
+__________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 2001 taxation year is allowed without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of October, 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC672
+Date:20041025
+Docket: 2004-238(IT)I
+BETWEEN:
+ARTHUR P. (PAT) WERBY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Arthur Werby, is appealing the reassessment made by the Minister of National Revenue for income tax for the 2001 taxation year. There are two separate issues in this appeal:
+(1) whether amounts paid by Mr. Werby for the support of his daughter in the 2001 taxation year are deductible;
+(2) whether the withdrawal by his spouse of funds from their spousal RRSP account in the 2001 taxation year required Mr. Werby to include as income an amount equal to his contributions to that account.
+I. Deductibility of Child Support
+[2] In 1996, Mr. Werby and his former spouse executed a written Separation Agreement pursuant to which he was required to pay $200.00 per week for the maintenance of his daughter Adrienne. In 2001, Adrienne was 22 years old and living with her mother, though during the academic term she was in university residence. During that year, as in all years prior to 2001, Mr. Werby paid child support to Adrienne's mother in accordance with his obligations under the Separation Agreement. To succeed in this appeal, Mr. Werby has the onus of proving that the $10,400.00 paid in 2001 was a "support amount" as defined by paragraph 56.1(4)(a) of the Income Tax Act[1]. The Minister's position is that because Clause 3.1(c)[2] of the 1996 Separation Agreement provided for its termination upon Adrienne's reaching the age of 21, the payments made by Mr. Werby in 2001 (when his daughter was 22 years old) were not made "under a written agreement". From this it follows that they were not "support amounts" within the meaning of paragraph 56.1(4)(a) and are, therefore, not deductible.
+[3] Mr. Werby represented himself and was the only witness called at the hearing. He gave his evidence in a clear and straight-forward manner and I found him a very credible witness. His position is that Clause 3.1(c) must be interpreted in light of the other provisions[3] in the Separation Agreement which link Mr. Werby's obligation to pay support for Adrienne to her attendance at a post-secondary education. He stated that he and his former spouse had spent a "stressful and confusing" 2½ years negotiating what became the 1996 Separation Agreement. Adrienne was in high school at that time. Notwithstanding their other differences, her parents had in common their desire to ensure Adrienne's access to post-secondary education. It was for this reason, he said, that the Separation Agreement contained numerous clauses regarding financial support for her education. In view of this, it was nonsensical, in Mr. Werby's view, to conclude that his former spouse would have intentionally agreed to a clause which released Mr. Werby from further payments at a time when, in all likelihood, his daughter would have been only half way through her studies. That he considered himself to be obligated to pay as long as she was in school is shown by his having paid all amounts due under the Separation Agreement, even after Adrienne's 21st birthday. Likewise, his former spouse continued to claim these amounts as income; Mr. Werby, to deduct them as provided for in the Separation Agreement[4].
+[4] Counsel for the Respondent argued that notwithstanding all of the above, the language of Clause 3.1(c) released Mr. Werby from any further financial obligations upon his daughter becoming 21 years of age. In my view, however, this clause must be read in a context that is consistent with the other terms of the Separation Agreement that are clearly geared to providing financial support for Adrienne's post-secondary education. The conduct of both Mr. Werby and his former spouse[5] is entirely consistent with this interpretation. I agree with Mr. Werby's contention that it simply does not make sense for parents as concerned as they were with ensuring their daughter had the means to complete her education, to have intended to include a terminating clause so obviously at odds with this objective. The Court ought not to interpret agreements in a manner that produces a result completely inconsistent with the intentions and actions of the parties to the agreement. Nor is the Canadian taxpayer prejudiced by this interpretation as the amounts deducted from Mr. Werby's income were included as income by his former spouse. For all of these reasons, I find that the support paid by Mr. Werby to his former spouse was paid pursuant to a written agreement within the meaning of the Income Tax Act. The appeal is allowed, without costs, and referred back to the Minister for reconsideration and reassessment on the basis that the support payments of $10,400.00 are deductible.
+II. RRSP Issue
+[5] At the hearing, counsel for the Respondent conceded that the amount in issue ought to be $5,500.00 rather than $6,250.00, the amount for which Mr. Werby was originally assessed. Briefly stated, the facts are these: a spousal RRSP account had been established in which Julie Oliviera (at the time, his common-law partner, now Mr. Werby's spouse) was named as the annuitant and Mr. Werby, as the contributor. In 1999, Mr. Werby contributed $5,500.00 to the RRSP account; in 2001, Ms. Oliviera withdrew $6,250.00 from the RRSP account. Pursuant to subsections 146(8) and 146(8.3) of the Income Tax Act, an amount equal to Mr. Werby's contribution (not his spouse's withdrawal) must be included in his income. The appeal of this matter is allowed, without costs, and referred back to the Minister for reconsideration and reassessment on the basis that the amount of $5,500.00 ought to be included as income for the 2001 taxation year.
+Appendix I
+...
+3. CHILD SUPPORT:
+3.1 The husband shall pay to the wife for the financial support of the child, Adrienne Dawn Werby, born June 28, 1979 the sum of $200.00 per week, starting on December 8, 1995, until one or more of the following occurs:
+(a) the child stops living full time with the wife, and "living full time" includes the child living away from home to attend an educational institution, pursue summer employment or enjoy a vacation but otherwise maintaining a residence with the wife;
+(b) the child becomes 18 years old and ceases to be in full time attendance at an educational institution;
+(c) the child becomes 21 years old;
+(d) the child completes an undergraduate degree;
+(e) the child obtains full time employment;
+(f) the child marries; or
+(g) the child dies.
+3.2 Adrienne Dawn Werby is eligible for support and maintenance in spite of the fact that she may be receiving income from some part time or vacation employment provided that she is in normal full time attendance at a university, college or accredited institution of learning.
+3.3 Payments shall begin when and if Adrienne Dawn Werby, after ceasing normal full time attendance at a university, college or accredited institution of learning, resumes full time attendance.
+3.4 Adrienne is considered to be living with the wife even if she has a separate residence from the wife as long as she is in normal full time attendance at a university, college or accredited institution of learning unless she is living with the husband.
+3.5 Payments shall recommence when and if Adrienne, after ceasing to live with the wife starts living again with the wife.
+4. PAYMENTS MADE PRIOR TO AGREEMENT:
+4.1 The parties acknowledge and agree that the husband has made monthly child support payments to the wife from January 1, 1995 up to and including December 8, 1995 in the sum of $825.00 a month. Those support payments shall be deemed deductible by the husband as periodic payments on his 1995 tax return and includable by the wife on the calculation of her income for tax purposes for 1995 and shall be considered as paid and received under the provisions of subsection 56.1 and 60.1 of the Income Tax Act (Canada), as amended.
+5. INDEXING
+...
+5.1 The husband and the wife shall contribute to the costs of post-secondary education in Canada for each child of the marriage, which costs shall include residence and tuition fees, expenses for books and supplies, stationery, and computer equipment and all other educational expenses related to the child's post-secondary education. The amount of each parent's contribution shall be in proportion to their total income as declared on their tax return for the calendar year prior to the year in which these expenses are incurred.
+5.2 As long as the husband's obligations under paragraph 3 of this Agreement for the child, Adrienne, are paid in full and are up to date, these payments shall be in place of the child support payment obligations set out in paragraph 3. However, monthly support payments, pursuant to paragraph 3 shall be paid during any month or proportionally during any partial month when the child, Adrienne is not actually in full time attendance at the post-secondary institution, for example, during the summer break.
+Signed at Ottawa, Canada, this 25th day of October, 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC672
+COURT FILE NO.:
+2004-238(IT)I
+STYLE OF CAUSE:
+Arthur P. (Pat) Werby v. H.M.Q.
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+August 9, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+October 25, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascale Boulay (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 56.1(4)(a) of the Income Tax Act: "support amount"- the recipient is the spouse or common-law partner or former spouse or common-law partner separate and apart because of the breakdown of their marriage or common-law relationship and the amount is receivable under an order of a competent tribunal or under a written agreement.
+[2] See Appendix I.
+[3] See Appendix I, Clauses 3.1(a),(d),(e), 3.2, 3.3, 3.4, 3.5, 5.1 and 5.2.
+[4] See Appendix I, Clause 4.
+[5] Who, for reasons not known to the Court, was not called as a witness or sought to be joined as a party by the Respondent.

@@ -1,0 +1,146 @@
+---
+title: "Pickwoad c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/23630/index.do"
+last_modified: "2005-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 409"
+citation2: ""
+neutral_citation: "2005 CCI 409"
+decision_date: "2005-06-23"
+language: "fr"
+item_id: "23630"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2158
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:47:54.683000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20f5065cd0d9f74cae062de6498440e99949664221eee29ed229f29cad149223"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pickwoad c. La Reine
+
+- Citation: 2005 CCI 409
+- Decision date: 2005-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2158, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pickwoad c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-23
+Référence neutre
+2005 CCI 409
+Numéro de dossier
+2004-3799(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3799(IT)I ENTRE :
+DAVID PICKWOAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 6 avril 2005, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Kandia Aird
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2005.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 5e jour d’avril 2006.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI409
+Date : 20050623
+Dossier : 2004-3799(IT)I
+ENTRE :
+DAVID PICKWOAD
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’un appel interjeté par David Pickwoad à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »), telle qu’elle a été modifiée, à l’égard de l’année d’imposition 2002. M. Pickwoad a demandé un crédit d’impôt pour frais médicaux relativement à un montant payé à une travailleuse sociale pour des séances de counselling. La question à déterminer est de savoir si une travailleuse sociale autorisée qui fournit des services de counselling est un « médecin » pour l’application de la disposition législative pertinente.
+[2] Les faits ne sont pas contestés. Sur les conseils d’un médecin, la femme du contribuable a eu recours aux services de counselling de Helen Walters, M.S.S., une travailleuse sociale autorisée. Pendant l’année d’imposition en question, un montant de 9 750 $ a été payé en contrepartie des services de Mme Walters, et le contribuable a demandé la déduction de ce montant à titre de frais médicaux pour l’application du crédit d’impôt pour frais médicaux prévu au paragraphe 118.2(1) de la Loi.
+[3] Le contribuable affirme que les montants payés à Mme Walters constituent des frais médicaux aux termes de l’alinéa 118.2(2)a), qui dit ce qui suit :
+Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l’année d’imposition où les frais ont été engagés (je souligne);
+[4] Il y a également lieu de citer le paragraphe 118.4(2) de la Loi. Cette disposition prévoit qu’un médecin doit être « autorisé à exercer sa profession […] par la législation applicable là où il rend ses services […] ».
+[5] Le contribuable fait valoir que le terme « médecin » comprend les travailleurs sociaux qui sont autorisés à exercer leur profession en vertu de la Loi de 1998 sur le travail social et les techniques de travail social de l’Ontario. Il soutient que les services de counselling fournis à sa femme sont les mêmes que ceux que fournissent d’autres professionnels de la santé et que la réglementation qui s’applique aux travailleurs sociaux selon cette loi est semblable à la réglementation qui s’applique à d’autres travailleurs de la santé selon la Loi de 1991 sur les professions de la santé réglementées de l’Ontario.
+[6] L’avocate de la Couronne fait observer qu’un « médecin » pour les besoins de cet appel doit être membre de l’Ordre des médecins et chirurgiens de l’Ontario et elle se réfère à la disposition suivante de la Loi d’interprétation de l’Ontario :
+29(1) Les définitions qui suivent s’appliquent à toutes les lois, à moins que le contexte n’exige autrement.
+[…]
+« médecin dûment qualifié », « médecin dûment qualifié pour exercer sa profession » ou autre expression indiquant qu’une personne est reconnue conformément à la loi comme médecin ou comme membre de la profession médicale. Membre de l’Ordre des médecins et chirurgiens de l’Ontario.
+[7] Au cours de l’argumentation, le contribuable a parlé des positions administratives adoptées par l’Agence du revenu du Canada selon lesquelles le crédit d’impôt pour frais médicaux peut être demandé relativement à certains paiements faits à des travailleurs sociaux et a fait valoir que ces positions administratives devraient s’appliquer à lui. Pour répondre à cet argument, un fonctionnaire de l’Agence qui était présent à l’audience a accepté de se pencher sur la question pour voir si l’Agence aurait dû appliquer sa politique administrative au contribuable, et l’appel a été ajourné pour ce motif. Malheureusement pour le contribuable, l’Agence a par la suite déterminé qu’il ne répondait pas à toutes les conditions de la politique administrative. La condition à laquelle l’appelant ne répondait pas était celle de travailler dans une clinique de santé mentale reconnue, ce que Mme Walters ne faisait pas.
+[8] La Cour n’a pas le pouvoir d’accorder un allègement en fonction des politiques administratives de l’Agence, à moins que ces politiques ne soient conformes aux dispositions législatives. Par conséquent, la seule question à trancher dans cet appel consiste à déterminer si une travailleuse sociale autorisée à exercer sa profession en vertu d’une loi provinciale peut être considérée comme un médecin pour l’application de l’alinéa 118.2(2)a) de la Loi.
+Analyse
+[9] Pour les motifs suivants, je ne peux pas souscrire à la position du contribuable. La détermination repose sur la question de savoir si Mme Walters était autorisée par la province d’Ontario à exercer la profession de médecin. Il s’agit d’un examen à faire en deux étapes. Il faut d’abord examiner le sens de « médecin » et ensuite déterminer si Mme Walters est autorisée à exercer sa profession par les lois de l’Ontario.
+[10] Le terme « médecin », selon son acceptation courante, signifie une personne qui exerce la médecine. Selon le Canadian Oxford Dictionary (2001), le terme « medical pratitioner », rendu par « médecin » dans la Loi, est un [TRADUCTION] « médecin ou chirurgien ». Selon le même dictionnaire, le terme « medical » veut dire [TRADUCTION] « qui concerne la médecine en général » et le terme « medecine » veut dire [TRADUCTION] « science ou pratique ayant pour but de diagnostiquer, de traiter et de prévenir les maladies […] ».
+[11] Le régime législatif ontarien en ce qui concerne l’exercice de la médecine se trouve, en partie, dans la Loi de 1991 sur les médecins. J’ai reproduit, en annexe de ces motifs, les articles 3 et 4 de cette loi. À l’article 3, il y a une définition de la portée de l’exercice de la médecine, et cette définition est essentiellement la même que celle du dictionnaire mentionnée ci-dessus. L’article 4 donne aux membres de l’Ordre des médecins et chirurgiens de l’Ontario l’autorisation d’accomplir divers actes médicaux. Compte tenu du sens général de « médecin » et du fait que les membres de l’Ordre des médecins et chirurgiens de l’Ontario sont autorisés à accomplir des actes médicaux, les membres de l’Ordre sont des médecins pour l’application de l’alinéa 118.2(2)a).
+[12] Le contribuable a fait valoir que le fait d’être autorisée à exercer sa profession aux termes de la Loi de 1998 sur le travail social et les techniques de travail social suffit pour que Mme Walters puisse être considérée comme médecin. Je ne suis pas d’accord avec lui. Selon le paragraphe 118.4(2) de la Loi de l’impôt sur le revenu, un médecin est une personne qui est autorisée à exercer la médecine. J’ai examiné les dispositions législatives en vertu desquelles Mme Walters est autorisée à exercer sa profession, et ces dispositions ne l’autorisent pas à exercer la profession de « médecin » au sens ordinaire de ce terme.
+[13] Le résultat peut sembler dur, mais le législateur a jugé bon de limiter le crédit d’impôt pour frais médicaux aux paiements faits à certains genres de professionnels de la santé. Il n’a pas été établi que Mme Walters fait partie des professionnels de la santé à l’égard desquels le crédit peut être demandé. L’appel doit donc être rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2005.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 5e jour d’avril 2006.
+Nathalie Boudreau, traductrice
+ANNEXE
+Extrait de la Loi de 1991 sur les médecins, L.O. 1991, ch. 30, telle qu’elle a été modifiée.
+3. L'exercice de la médecine consiste dans l'évaluation de l'état physique ou mental de particuliers et dans le diagnostic, le traitement et la prévention des maladies, troubles ou dysfonctions.
+4. Dans l'exercice de la médecine, un membre* est autorisé, sous réserve des conditions et restrictions dont est assorti son certificat d'inscription, à accomplir les actes suivants :
+1. Communiquer les diagnostics attribuant les symptômes que présentent des personnes à des maladies ou à des troubles.
+2. Pratiquer des interventions sur le tissu situé sous le derme, sous la surface des muqueuses, à la surface de la cornée ou des dents, ou au-dessous.
+3. Immobiliser des fractures ou des luxations articulaires dans des plâtres, ou les consolider ou les réduire.
+4. Mouvoir les articulations de la colonne vertébrale au-delà de l'arc de mouvement physiologique habituel de personnes au moyen d'impulsions rapides de faible amplitude.
+5. Administrer des substances par voie d'injection ou d'inhalation.
+6. Introduire un instrument, une main ou un doigt :
+i. au-delà du conduit auditif externe,
+ii. au-delà du point de rétrécissement normal des fosses nasales,
+iii. au-delà du larynx,
+iv. au-delà du méat urinaire,
+v. au-delà des grandes lèvres,
+vi. au-delà de la marge de l'anus,
+vii. dans une ouverture artificielle dans le corps.
+7. Appliquer une forme d'énergie prescrite ou en ordonner l'application.
+8. Prescrire, préparer, vendre ou composer des médicaments.
+9. Prescrire ou préparer, dans le cas de troubles visuels ou oculaires, des appareils de correction visuelle pour les malvoyants, des verres de contact ou des lunettes.
+10. Prescrire des appareils de correction auditive aux personnes malentendantes.
+11. Diriger le travail des parturientes ou pratiquer des accouchements.
+12. Pratiquer des tests de provocation d'allergie d'un type particulier dans lequel un résultat positif est une réaction allergique significative.
+* Le terme « membre » est défini comme un membre de l’Ordre des médecins et chirurgiens de l’Ontario.

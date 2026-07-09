@@ -1,0 +1,215 @@
+---
+title: "Aidoo v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521468/index.do"
+last_modified: "2025-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 100"
+citation2: ""
+neutral_citation: "2025 TCC 100"
+decision_date: "2025-07-23"
+language: "en"
+item_id: "521468"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5408
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:20:16.827000+00:00"
+cases_cited_count: 29
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd130f37a0877ea78a1b3fa7b0027cb77eedf5a2e9b70f0e9a051d530c4dc1c8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aidoo v. The King
+
+- Citation: 2025 TCC 100
+- Decision date: 2025-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5408, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aidoo v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-07-23
+Neutral citation
+2025 TCC 100
+File numbers
+2019-4015(IT)I
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-4015(IT)I
+BETWEEN:
+ERIC AIDOO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on July 7, 2025, at Oakville, Ontario
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+James Whittier
+JUDGMENT
+The appeal from the assessment against the Appellant for his 2007 taxation year is dismissed without costs.
+Signed this 23rd day of July 2025.
+“J. A. Sorensen”
+Sorensen J.
+Citation: 2025 TCC 100
+Date: 20250723
+Docket: 2019-4015(IT)I
+BETWEEN:
+ERIC AIDOO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sorensen J.
+I. Overview [1] Eric Aidoo (the “Appellant”) appealed the Minister of National Revenue’s (the “Minister”) assessment denying amounts he claimed for the 2007 taxation year in connection with receipts issued by the Global Learning and Gifting Initiative (“GLGI”). As Bocock J stated succinctly in Malone,[1] at paragraph 2:
+GLGI likely competes for the title of most litigated charitable donation program/initiative/scheme/sham (depending on one’s perspective) before the Tax Court. The program’s longevity is notable as well; the seminal lead case concerning GLGI was heard and decided a decade ago by Justice Pizzitelli in Mariano.
+[2] At paragraph 4, Malone featured a straightforward summary of the GLGI program at a high level:
+Simplistically, the GLGI program asks and requires a taxpayer to participate in a leveraged donation scheme from which each donor expected to receive, in return for their cash donation, software licences having an expected value of three to eight times greater than the cash donation. The taxpayer then donates those software licences to another registered charity, resulting in a tax receipt that entitles the taxpayer to claim an inflated tax credit.
+[3] The framework for analysis adopted below was established in Mariano.[2] The Appellant raised further distinct issues that will also be dealt with in these reasons.
+II. Appellant’s Evidence [4] This is a story about wilful blindness and accountability.
+[5] The Appellant is a faithful person who contributes to the community and the betterment of others. In years other than 2007 he made generous donations to charities, and he made one legitimate donation in 2007. He freely gives to his church, sends money home, and has worked with non-governmental organizations and humanitarian groups. He has seen poverty up-close and was committed to relief projects locally and abroad. However, the Appellant’s explanations of why he handed over his money to GLGI and claimed a substantial charitable donation were lacking.
+[6] The Appellant is a highly educated and well-travelled person who holds a technical position in the government of Canada and who has also worked as a registered nurse, a designation that he still holds. He is clearly intelligent, capable, and caring. Despite his obvious maturity, in his telling, his tax predicament was someone else’s fault or something someone should have warned him off in advance.
+[7] He testified that he is not a risk taker, and that he avoids problems and thinks things over. And yet, I found a tension between his intelligence, education, and self-professed thoughtfulness and cautious nature on one hand, and on the other hand, his behaviour with respect to GLGI, which was at best wilfully blind.
+[8] He said that in 2007 he trusted his then-fiancé and her family, who had participated in GLGI and who encouraged him to do so. He said she wanted him to donate, that he wanted to do what she wanted, and he couldn’t say no. He trusted what she was apparently told by a financial advisor, and did not peek behind the curtain. In cross-examination he confirmed that he did not know anything about the “Millenium Foundation”, its activities, or its history. He did not know what project(s) they would fund, other than unnamed initiatives in Canada and abroad. So there was a further layer of trust in GLGI, which is difficult to understand if he was risk averse and inclined to think things through.
+[9] Why did he hand over money to GLGI? Because he said he trusted his fiancé: if he did not trust her then he could not marry her; he had to trust and rely on her to move forward to marriage. All information went through his fiancé, and he did not confirm any details himself. He asked to speak to someone from GLGI, but they were busy, so he did not pursue it. He read their promotional materials, but said that he did not learn anything from those materials that concerned cash flow, which was a surprising assertion. No promotional materials were lead as evidence. That said, it is unreasonable that a person could view the promotional materials of a tax-driven charitable donation program, and learn nothing about the supposed charitable activities, deployment of the donations, or the tax and cash flow pieces. That doesn’t make sense. What would have been found within the promotional materials to attract any participant, if a reader could not glean any relevant information?
+[10] Neither the former fiancé nor members of her family were called as witnesses. Perhaps they are estranged or perhaps they would not have had anything helpful to say. Either way, their understanding of the advantages of GLGI and the reasons they supposedly did not educate the Appellant are unknown.
+[11] The Appellant says he trusted that a charity would not do anything offside after being registered. He expected the Canada Revenue Agency (“CRA”) to actively and specifically educate him and warn him about tax schemes. He said he gave a tax preparer his 2007 GLGI receipts and they prepared his return to include GLGI. If there was anything wrong with it, he thinks the preparer would have told him, although it is improbable that a preparer would glean complete factual information about a structure from a receipt.
+[12] When questioned about his 2007 filings in the context of prior and later years, he did not willingly agree that the result was anomalous. By this I mean that his other donations resulted in a 1:1 relationship between the tax result and the cash, but GLGI produced something in the order of 7:1. He earned approximately $65,000 in 2007, handed $4,000 to GLGI and then claimed a charitable donation of over $28,000, a result unlike any he had seen before or since. And yet, he said that he did not know that the promised refund would exceed the cash for his 2007 year. Nonetheless, he did use GLGI receipts when he filed his 2007 return, without making any inquiries. One might have thought that an unexpected and material tax jackpot would give a person pause at the time of preparing and filing a return. Yet, he said that he was not in a position to and/or did not have a chance to consult with a specialist, which is curious for an educated, risk averse person who thinks things through.
+[13] The Appellant was questioned about his notice of objection. He said he prepared it himself but then admitted that he received documents from GLGI. When he was taken specifically to paragraph 6 of the notice of objection, he was asked if it was true or not, which resulted in some circumlocution. He had to admit that he had no idea whether paragraph 6 of his objection was true – he just took what GLGI said and copied it. Similarly, when asked about paragraph 23 of his objection, he did not know if the allegations were true and continued to speak over counsel’s interjections.
+[14] Demeanour is not a lodestar for credibility findings. However, it is relevant. When pressed to answer questions about his notice of objection, the Appellant spoke at length. Sometimes, a “yes” or “no” reads better than a protracted or repetitive rationalization, which tends to seem evasive.
+[15] I also found points of friction with the Appellant’s documents and his explanation for gaps. Essentially, certain documents were lost in the time between his filing the appeal and appearing in Court. If the appeal was important enough to litigate, common sense dictates that relevant documents would be preserved, unless there was some plausible intervening event that destroyed them or exceptional circumstance that caused them to be completely inaccessible. Moreover, the Appellant himself appreciated the importance of documents: he offered a certificate that he had been employed as a field project officer in Ghana in 2001, conducting community needs assessments, project planning, implementation, co-ordination, and monitoring and evaluation activities, among other things. The reason he offered that certificate in evidence was because he believed that his testimony should be supported by a document. But if he could find a 2001 certificate of employment in Ghana to prove a tangential point, one wonders why he could not bring a copy of his GLGI donation receipts to show the Court. He must have thought those documents were important too. The same point may be made regarding the receipts for donations to his church in years after the 2007 year. They made it into the record.
+[16] On the whole, the Appellant’s evidence was not credible with respect to material facts. He says he knew nothing of the charity, its activities, its history or what his money would fund, but also said he did not intend to achieve a “return on investment” whatsoever. In fact, he said he did not consider the fiscal implications at all. But he looked at promotional material. It is hard to believe he had no idea what he was getting into when he handed over his money to GLGI, and his professed guilelessness at the time his return was prepared was unconvincing. If he actually did not know what he was doing, then he purposefully buried his head in the sand. Now unburied, he asked the Court to accept that others are responsible for his predicament and that he should be absolved of his tax liability.
+III. Analysis
+Did the Appellant make any gifts for the purpose of s. 118.1 of the Income Tax Act (the “Act”)?
+[17] This initial inquiry examines whether the Appellant had donative intent, based on the essential elements of a gift. In Friedberg,[3] the Federal Court of Appeal set out the following definition:
+The Income Tax Act does not define the word "gift", so that the general principles of law with regard to gifts are utilized by the courts in these cases. As Mr. Justice Stone explained in [McBurney]: "The word gift is not defined in the statute. I can find nothing in the context to suggest that it is used in a technical rather than its ordinary sense." Thus, a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor [Zandstra].
+[18] A lack of any benefit or consideration flowing back to the donor has been interpreted as meaning that the donor has “donative intent”.[4] In other words, donative intent involves voluntarily giving something to benefit someone else without expecting anything in return.
+[19] The Appellant said that he not only trusted his fiancé, but that he couldn’t say no to her. That explains his motivation to become involved in GLGI and casts some doubt on exactly how “voluntary” his donation was. However, motivation and intention are distinguishable.[5] She may have motivated him to participate in GLGI, but that does not necessarily vitiate his donative intent.
+[20] With respect to donative intent, the Appellant argued that he is generally charitable and that GLGI was part of his overall philanthropic disposition. However, the claim that he made substantial, valid donations to his church before and after 2007 is irrelevant to the 2007 reassessment, which concerns the GLGI scheme. Being generally charitable does not help him.
+[21] The Appellant also cited his honesty, genuineness, and naivety to support his donative intent. In Abreo,[6] the court considered good faith participation in a charitable donation tax scheme and an alleged CRA “duty to warn” (discussed further below). The Court noted that, while the appellants may have been exploited, they were also willfully blind to valuation issues: none of them questioned how they could purchase something for a fraction of its purported value, followed by a sudden and material appreciation. In my view, the Appellant’s professions of honesty and naivety in the face of some obvious fiscal legerdemain ring hollow.
+[22] The Appellant argued that he also gave to his church in 2007 and that if he was motivated by profit then why did he not give all his money to GLGI? I am not in a position to offer a factual answer to a taxpayer’s hypothetical question, but I note that he also testified that his faith required giving a 10% tithe to his church.[7] So maybe that’s why.
+[23] The Appellant also argued that the Court should look at all objective manifestations of intent in his case. I agree. He so argued in order to bolster his claim that he was generally charitable in other years, and that broad donative intent should be applied to 2007 and GLGI too. However, arguing as to objective manifestations of intent is problematic for him, since his position was substantially based on his subjective and self-serving testimony, and personal experience, and not an objective view. As this Court said recently in Charlebois,[8] at paragraph 12:
+In considering a person’s intention or purpose, a person’s conduct is generally more revealing than “ex post facto declarations” (see generally MacDonald v. Canada, 2020 SCC 6, at para. 22). Courts are, therefore, not guided only by a person’s subjective statements of purpose and instead will look for objective manifestations of purpose (see Symes v. Canada, [1993] 4 SCR 695, at p. 736) and examine the surrounding factual circumstances.
+[24] Viewed objectively, and putting aside his ex poste facto declarations at the hearing, it is hard to believe the Appellant’s assertion that he had no idea about the fiscal implications of engaging with GLGI, and that he was solely motivated by a spirit of charity in 2007 vis-à-vis GLGI. I appreciate that donative intent is determined at the donation time, but such intention should be viewed in the wider context, including any reaction to a substantial donation receipt and how they dealt with it when preparing their return. As noted above, if the Appellant was acting in the true spirit of giving when he handed $4,000 to GLGI, you would expect him to later pause and ponder how he could have received receipts for more than $28,000 and to then make some probing inquiries before the filing due date. There was no evidence of any real concern about the inflated receipts, and he said he was not in a position to consult with a specialist. I do not accept that any reasonable and generous person could be that blasé when confronted with “unexpected” GLGI receipts, and it’s more likely that the GLGI receipts were, in fact, not unexpected at all.
+[25] In my view, the self-assessment system creates a duty to think on the taxpayer, not a duty to warn upon the CRA for the purposes of assessment litigation. If a taxpayer engages with a leveraged donation scheme and then places the blame for an adverse assessment at the feet of family members, the regulator, the system, or a tax return preparer, that suggests that the taxpayer did not give due consideration to their own filing position and instead turned a blind eye to any risk.
+[26] The tax system and its generous charitable regime does not subsidize wilful blindness.[9] The Appellant’s case fails for lack of donative intent because viewed objectively it is hard to imagine that he did not know the obvious fiscal advantages of GLGI, and if he did not expressly know that it was because he deliberately avoided knowing. Wilful blindness imputes knowledge to the taxpayer, so deliberate ignorance is as culpable as actual knowledge.[10]
+Is the Global Learning Trust (2004) a valid trust at law?
+[27] The Respondent’s position, consistent with the position taken in other GLGI appeals, was that the Trust was invalid. If true, this means that there could not have been any validly approved capital beneficiaries or legal distribution of licences to them: therefore, like others before him, the Appellant could not give what he did not have.
+[28] The Appellant’s answer to this second aspect of Mariano is that he did not know that the Trust entity was invalid, that he trusted the regulatory scheme for Canadian income tax and charitable entities, and that he “considered the charitable Trust certified by the CRA as reliable and trustworthy”.
+[29] This misunderstanding demonstrated by the Appellant is plausible to some extent, even if it does not assist his case. It is not unimaginable for laypersons to suppose that a tax shelter ID number is a seal of approval, or that a charitable registration means that the entity was blessed by the regulator. In any case, the Trust was not any more or less valid for a taxpayer’s understanding or misunderstanding of the facts or law.
+[30] An assessment cannot be challenged on the premise that the CRA should have specifically warned against a particular tax strategy. The principle that the CRA does not have a duty to warn taxpayers was articulated in Scheuer,[11] a lawsuit against the CRA launched more than a decade ago and unceremoniously struck out. The failed duty to warn argument gained no traction in the context of a civil action for damages, and it has no merit in this Court either.
+[31] The Appellant did not successfully challenge the position that the Trust was not valid at law. He received a copy of the reply pleading approximately five years ago, and at the hearing was provided with specific direction to identify any Ministerial assumptions that he believed were defective and that he wished to attack. He was not able to articulate anything that would stand as a challenge to the Minister’s assumptions as to the Trust’s invalidity. If I am wrong about donative intent, the appeal also fails based on this second argument.
+Is the GLGI Program and all the transactional steps involved in it a “sham”?
+[32] The Respondent submitted that “the Program and all the transactions involved in it are a sham, and the Appellant's participation in the sham serves to invalidate the purported gifts of cash and property to the Charities,” and further that the Appellant was wilfully blind to participating in the sham.
+[33] The Appellant did not refute any of the seventeen assumptions grounding sham, nor did he respond to the sham argument.
+[34] At this point in these reasons, it is an open question whether the next steps in the usual analysis are required. On the question of the fair market value (“FMV”) of the software licenses that were allegedly donated, the GLGI case law has consistently held that FMV was nominal, and this is again assumed here by the Respondent. The Appellant was not able to challenge this position at all, and his argument was that he was not in a position to consult an expert, and did not have that chance. Therefore, his case would also fail on the FMV issue. As a result, there is no need to consider s. 248(30) or (32) as they might relate to reducing the eligible amounts to zero.
+IV. Other Issues [35] The Appellant raised further issues dealt with summarily below, including dissatisfaction with the CRA’s timeliness, inconsistent application of penalty and interest relief, and allegations of bad behaviour by the CRA including: contravention of the Taxpayer Bill of Rights; inappropriately withholding refunds; targeted persecution, harassment and abuse of audit and collection powers; and systematic racism. He also tendered a copy of a service complaint that he filed. In an effort to be as fair as possible to the Appellant, I considered his written submissions and the arguments therein as supplements to his oral arguments. Some of the following points were not necessarily addressed by the Respondent, and I have evaluated each point on its merits, in keeping with my promise to the Appellant to fully consider his position.
+Delay and the Jordan Rule
+[36] The Appellant argued that Jordan[12] applies, presumably to support the conclusion his tax appeal should be allowed. Jordan was a criminal law case involving s. 11(b) of the Charter[13] and the right for an accused to be tried within a reasonable time. It has no application in the Tax Court of Canada (see Urbanowski Estate[14]). The Appellant also handed me a one-page excerpt from R v Bird,[15] the application of which was unclear to me.
+CRA Timeliness and Interest Relief
+[37] The Appellant complained about the time it took for the CRA to assess his 2007 return of income, and to then adjudicate his objection, and further that the CRA’s interest relief was insufficient. The Appellant supported his complaint about delay with Ficek,[16] a Federal Court case. As of the filing of the notice of appeal, the Appellant had nothing left to expedite and, in any case, Ficek is not relevant to the Appellant’s case in this Court.
+[38] Other of the Appellant’s complaints expressly connect with his desire for greater interest relief, including referring to the 2018 Auditor General’s Report which, among other things, indicated that the CRA deployed inconsistent practices when granting relief from interest and penalties. Assuming that were true, that does not mean that the Appellant himself was necessarily treated unfairly, but that is besides the point: with respect to interest relief, it is trite to say that this Court does not have jurisdiction to review the Minister’s decisions under the Taxpayer Relief provisions, including s. 220(3.1) of the Act.
+[39] I have disregarded any prayer for relief under s. 220(3.1) of the Act, insofar as it calls for the Court to exercise powers outside its well-accepted jurisdiction.
+Taxpayer Bill of Rights
+[40] In Azzopardi,[17] this Court considered whether the Minister had a duty to warn taxpayers pursuant to the Taxpayer Bill of Rights that the CRA published. The Court clearly stated that it has no power to enforce that CRA administrative document, relying on Johnson.[18] Essentially, the Taxpayer Bill of Rights is a service pledge that does not have the force of law – it neither overrides nor supplements the Act and cannot be used to challenge the correctness of a tax assessment.
+[41] I have disregarded the Taxpayer Bill of Rights as a basis upon which the Appellant could succeed.
+Collection Actions
+[42] The Appellant’s Court filings included expressions of dissatisfaction with the Minister’s exercise of collection powers. Apparently, the Minister withheld a refund despite her published position during the COVID pandemic that she would show forbearance. The Appellant also argued that the Minister enforced collections despite the collection restriction provisions in the Act.
+[43] Again, collection matters are not within this Court’s jurisdiction, and in any case, it is unclear what remedy if any this Court or any Court would be expected to fashion to satisfy the Appellant at this time. Even if the Court had jurisdiction over collection actions, which it does not, the fact that this appeal is being dismissed means that any controversy over collections matters is no longer a live issue. Furthermore, and finally, the Minister is not bound by published administrative positions insofar as they are not law.
+Targeted Persecution, Harassment and Abuse of Audit and Collection Powers
+[44] Included in the Appellant’s filings with the Court were allegations that he was harassed and threatened by a CRA investigator, which allegations were raised by way of a service complaint and with the auditor directly. This alleged behaviour was said to include showing up at his workplace, which caused him pressure and stress. The nature of the Appellant’s complaint is unclear because on one hand, the materials he filed with the Court intimated that he invited a CRA officer to meet him at his workplace and on the other, he described their attendance as “contrary to the operation procedure of the Agency” and harassment. It was unclear whether there was more than one workplace visit.
+[45] Whether any interactions with CRA officers rose to the level of harassment or threatening behaviour need not be determined, since the conduct of CRA officers is irrelevant to the correctness of a tax assessment, which is the determination that the Court is being called upon to make. Therefore, allegations concerning harassing or threatening behaviour have been disregarded.
+[46] The Appellant also cited Groupe Enico,[19] analogizing his case to the situation therein described, which he called an abuse of audit and collection powers. First, I do not agree that the facts of the Appellant’s case support the conclusion that the CRA abused its powers. Second, even if that were apparent, and it is not, then the complaint would be advanced before another, different Court with the jurisdiction to adjudicate a civil action for damages. I was also handed copies of Myers[20] and Leroux,[21] neither of which have any application in the Tax Court.
+Systematic Racism
+[47] I am aware of the social reality of racism and appreciate that the reality of racism should be approached with sensitivity by the Courts. These reasons should not be taken as disregarding the Appellant’s beliefs or lived experience. For the respectful reasons that follow, the Appellant’s arguments do not assist him in this matter.
+[48] The Appellant argued in one of his filings with the Court that the CRA failed to intervene to prevent the “disproportionate targeting of Black, Indigenous and People of Colour (BIPOC) in the situation in which only CRA had access to information also amounts to breach of Subsection 15(1) and (2)…” This complaint is based on the allegation that the GLGI program was “heavily promoted in the black and other racial minority communities because the funded projects were more concentrated in the African, Caribbean and South Asian communities and countries overseas.” There is more, but that is the gist. This argument fails because the CRA does not have a duty to intervene, for reasons set out elsewhere in this judgment. Regarding the alleged breach of Charter rights, this Court may not entertain that argument: as stated in Lans,[22] the Tax Court does not have jurisdiction to adjudicate an allegation that the Act was applied in a discriminatory manner contrary to s. 15 of the Charter. That judgment cited Main Rehabilitation,[23] a leading case that distinguishes between an assessment and the process preceding an assessment.
+[49] The relief that the Appellant sought included demanding that the Respondent give him statistical information. More specifically, in one of his filings he said:
+Since the CRA collects race and demographic information as part of Social Security system, the Agency was aware of the race disparity associated with the GLGI Tax shelter between 2004 –2007, at least. Appellant, therefore requests that CRA provide additional statistics of participants in the GLGI program in the form of race demographics in comparison to the National demographic statistics since the information were missing from the Sections 15.5 and 16 of Respondent’s “Reply” document.
+[50] That the CRA would possess information on the specific cultural background, ethnicity, identity or minority status of all tax filers is not clear and instead is, respectfully, dubious. Information concerning citizenship might be collected through the tax system, together with demographic information such as marital status, age and province of residency. Other demographic information may be collected in connection with the Old Age Security Pension and the Guaranteed Income Supplement. But the Appellant would at a bare minimum need to provide some reasonable basis for asserting that the CRA would generally collect, process and parse racialized data, otherwise the request for information is a fishing expedition. I asked him at the hearing to provide a tangible basis for his allegations and he was not able to do so. The Appellant’s demand for demographic information lacked a basis and production was not ordered.
+[51] Further, the Appellant had opted to have his appeal heard in the Informal Procedure, which is a procedural path intended to ensure the expeditious and cost‑effective resolution of a tax dispute. He demanded information in relation to paragraph 15.5 of the reply pleading. That paragraph listed the number of participants in GLGI from 2004 to 2007, and a breakdown of cash and in-kind amounts. The Appellant’s demand was roughly analogous to a demand for particulars. However, a demand for particulars in the Informal Procedure is unusual and to be discouraged unless there is some substantial and obvious justification for it, and seeking particulars concerning the detailed 42-page reply pleading in this matter was untenable. This conclusion is amplified by the lack of a basis for the demand and the irrelevance of the requested information (if it ever existed) to the assessing position.
+[52] The Appellant referred me to Penate,[24] suggesting that the taxpayer was absolved from her tax liabilities as a result of suffering blatant sexism and racism. There is no doubt that Ms. Penate was treated deplorably by contractors who engaged her roofing company, but the result in that case was based on the way she managed the business and its remittance obligations. She met the test for due diligence and thus was not liable as a director. Penate does not stand for a general proposition that being a victim of racism or sexism cures a tax problem.
+[53] To the extent that the Appellant raised arguments concerning racism to seek damages, or relief from interest or penalties, it is trite to say that this Court does not have jurisdiction over such matters, as noted above.
+[54] To the extent that the Appellant relied upon arguments concerning racism to challenge the correctness of the assessment, that also fails. It is well-established that the exercise of assessing tax is non-discretionary, and any resulting assessment is dictated by statute (Iris Technologies):[25] in other words, it is the product of the law as applied to facts, supported by evidence. If one of the Minister’s delegates raised assessments for no reasons other than grudges or biases, that would be shameful. That said, a baseless assessing position without support in law or fact would be something that a taxpayer could successfully challenge on its merits in this Court.[26] However, it cannot be said that the Minister’s assessing position in GLGI appeals is baseless in fact or law. The opposite is true. If the Appellant’s allegations concerning systemic racism were intended to serve as an attack on the correctness of the 2007 reassessment, they must also fail because of the robust fact finding and analysis in various cases.[27] The Appellant’s task in this appeal, as is the case in any other appeal in this Court, was to attack the correctness of the disputed assessment. He did not succeed.
+Service Complaint
+[55] The Appellant provided a copy of a CRA service complaint. CRA service complaints are not justiciable in this Court, and none of the information in the materials had any bearing on the correctness of the 2007 reassessment under appeal.
+V. Conclusion [56] The appeal is dismissed in accordance with these reasons. There will be no costs awarded.
+Signed this 23rd day of July 2025.
+“J. A. Sorensen”
+Sorensen J.
+CITATION:
+2025 TCC 100
+COURT FILE NO.:
+2019-4015(IT)I
+STYLE OF CAUSE:
+ERIC AIDOO AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Oakville, Ontario
+DATE OF HEARING:
+July 7, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John A. Sorensen
+DATE OF JUDGMENT:
+July 23, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+James Whittier
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Malone v The King, 2025 TCC 43 (“Malone”).
+[2] Mariano v The Queen, 2015 TCC 244 (“Mariano”).
+[3] Friedberg v Canada, 92 DTC 6031, at p. 2.
+[4] Mariano, at para 17.
+[5] See Herring v R, 2022 TCC 41, at paras. 116 to 120.
+[6] Abreo v The Queen, 2019 TCC 122 (aff’d as Chibani v Canada, 2021 FCA 196).
+[7] The description “10% tithe” is apparently redundant, since the word tithe means one tenth (see Black's Law Dictionary (12th ed. 2024), tithe. Tithing generally refers to regular, predictable donating to a religious institution.
+[8] Charlebois v The King, 2025 TCC 76.
+[9] In this regard, see Mariano at paragraph 88: “When otherwise good people turn a blind eye to the obvious reality surrounding them, they cannot lay blame on others for the consequences that follow from the fraud or sham of others. They certainly should not expect the Canadian public to fund their losses.”
+[10] Harvard Properties Inc v The King, 2024 TCC 139, at paragraph 145.
+[11] Scheuer v R, 2016 FCA 7. See also Deluca v Canada, 2016 ONSC 3865.
+[12] R v Jordan, 2016 SCC 27 (“Jordan”).
+[13] Canadian Charter of Rights and Freedoms, Part 1 of the Constitution Act, 1982, enacted as Schedule B to the Canada Act 1982, 1982, c. 11 (UK) (the “Charter”).
+[14] Urbanowski Estate v The King, 2024 TCC 6, aff’d 2025 FCA 73, leave application filed May 28, 2025.
+[15] R v Bird, 2019 SCC 7.
+[16] Ficek v Canada (Attorney General), 2013 FC 502 (“Ficek”).
+[17] Azzopardi v The King, 2023 TCC 51.
+[18] Johnson v The Queen, 2022 TCC 31.
+[19] Agence du revenu du Québec c Groupe Enico inc., 2016 QCCA 76.
+[20] Myers v Canada (AG), 2022 BCCA 160.
+[21] Leroux v Canada Revenue Agency, 2014 BCSC 720.
+[22] Lans v R, 2011 FCA 290.
+[23] Main Rehabilitation Co. v R, 2004 FCA 403 (“Main Rehabilitation”). Main Rehabilitation held that an appeal under s. 169 of the Act is against the correctness of the assessment and not against the process by which the assessment is established. This point was amplified more recently, at a higher level of court, in Dow Chemical Canada ULC v Canada, 2024 SCC 23 (“Dow Chemical”), at para. 47. Expressed another way, the question is not whether CRA officers exercised their powers properly but whether assessed amounts are properly owing. This case law proposition is obviously well-accepted but given Parliament’s legislative supremacy it may be tempered by statutory language.
+[24] Penate v The Queen, 2020 TCC 63 (“Penate”).
+[25] Iris Technologies v AGC, 2024 SCC 24, at paras. 47 and 48. See also Dow Chemical, paras. 43 to 48.
+[26] Managing interim issues such as collections would be a matter for the Federal Court, of course.
+[27] Mariano, as noted above; Walby v Canada, 2025 FCA 94; Aslam v Canada, 2024 FCA 193; Bacchus v The King, 2024 TCC 62; Tudora v R, 2020 TCC 11; and Malone, as also noted above.

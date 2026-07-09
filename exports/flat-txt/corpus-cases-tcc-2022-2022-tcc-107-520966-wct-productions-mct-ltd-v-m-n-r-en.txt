@@ -1,0 +1,304 @@
+Title: WCT Productions MCT Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520966/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-107-520966-wct-productions-mct-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2022-09-22
+
+# WCT Productions MCT Ltd. v. M.N.R.
+
+- Citation: 2022 TCC 107
+- Decision date: 2022-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4492, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+WCT Productions MCT Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-09-22
+Neutral citation
+2022 TCC 107
+File numbers
+2018-777(EI), 2018-778(CPP)
+Judges and Taxing Officers
+Monica Biringer
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2018-777(EI)
+2018-778(CPP)
+BETWEEN:
+WCT PRODUCTIONS MCT LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard, on common evidence, on March 28, 29 and 30, 2022 at
+Vancouver, British Columbia
+Before: The Honourable Justice Monica Biringer
+Appearances:
+Counsel for the Appellant:
+Shawn W. Tryon
+Vivian Esper
+Counsel for the Respondent:
+Alexander Wind
+Daniel Cortes-Blanquicet
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeals from decisions dated December 12, 2017 made under the Employment Insurance Act and the Canada Pension Plan are allowed, without costs, and the decisions are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Workers were not engaged in insurable employment for purposes of the Employment Insurance Act or pensionable employment for purposes of the Canada Pension Plan during the relevant periods.
+Signed at Toronto, Ontario, this 22nd day of September 2022.
+“Monica Biringer”
+Biringer J.
+Citation: 2022 TCC 107
+Date: 20220922
+Dockets: 2018-777(EI)
+2018-778(CPP)
+BETWEEN:
+WCT PRODUCTIONS MCT LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Biringer J.
+I. BACKGROUND
+[1] WCT Productions Ltd. (“WCT”), the Appellant, is in the business of providing special effects and animatronics for movie and television productions. WCT appeals from the determination of the Minister of National Revenue (the “Minister”) that certain workers were engaged in pensionable employment within the meaning of the Canada Pension Plan [1] (the “CPP”) and insurable employment for purposes of the Employment Insurance Act [2] (the “EIA”).
+[2] The workers - Bruce Houston, Kiana Larson, Brittney Bolzon, Christina Renaud and Amelie Soucy [3] (collectively, the “Workers”) - provided sculptural, mold making, fabrication and various other special makeup effects skills for various productions. The relevant period for each Worker is included in the period of January 1, 2015 to September 30, 2016 (the “Period”). [4]
+[3] The appeals were heard on common evidence. Brittney Bolzon testified for the Appellant and Bruce Houston testified for the Respondent. A Canada Revenue Agency (“CRA”) appeals officer, Amber Michelle Raymond, was called to testify by the Appellant. I found all witnesses to be credible.
+[4] Bill Terezakis was the Appellant’s President and was responsible for operations, including hiring the Workers. Bill Terezakis and his wife, Maureen Terezakis, owned all of the shares of WCT. Mr. Terezakis passed away unexpectedly on June 27, 2021. Prior to the hearing, I issued an order for the admission into evidence of the entire transcript of the examination for discovery of Mr. Terezakis [5] , to the extent that it would be admissible if he were testifying in Court. All references to Mr. Terezakis’s testimony are to answers given on his examination for discovery.
+II. FACTS
+[5] The Minister in her Replies admitted certain facts from the Notices of Appeal, and the Appellant in its written submissions admitted certain facts from the Replies. Those agreed facts are reproduced from the Appellant’s written submissions in their entirety in Appendix “A” and underlie these reasons.
+[6] WCT was engaged to provide special effects and animatronics to television and film productions on a project-by-project basis. The Appellant was hired for services as a contractor. The services included prosthetics to alter the features of actors, animal reproductions, creature/monster fabrications, human replicas, wound simulations, anatomical studies, and the fabrication of puppets.
+[7] When WCT was contacted in connection with a film or television production, Mr. Terezakis would read the script, consider the type of builds, characters and special effects required, determine the type of skilled labour and materials needed for the project and then produce a budget. Mr. Terezakis approached individual workers to ask them to work on the project, depending on their skill set and the requirements of the particular project. The number of workers engaged on a project would depend on the scope of the project. Projects could last anywhere from a few hours to several months. Workers were often engaged on more than one project at a time.
+[8] During the Period, WCT engaged approximately 20 workers, including the five Workers, on various projects. Bruce Houston was a master sculptor and mold maker. He worked for WCT throughout the Period; his hourly rate was $32.50-$37. Christina Renaud worked in hair punching, colouring of silicone skins and seaming of prosthetics and silicone bodies. She worked for WCT for many, but not all, of the pay periods during the Period [6] ; her hourly rate was $30-$34. Brittney Bolzon worked in seaming prosthetics and silicone bodies. She started working with WCT in January 2016 and worked with WCT through the end of the Period; her hourly rate was $20-$22. Amelie Soucy and Kiana Larson worked in sculpting, small prosthetics, life cast correction, mold making, and other areas. Amelie Soucy first worked with WCT in March 2015 and did so through the end of 2015; her hourly rate was $12-$15. Kiana Larson worked for WCT for only a few weeks in September 2016; she was still in school. Her hourly rate was $15. [7]
+[9] Further details on the terms and conditions of the Workers’ engagement by WCT are discussed below.
+III. ISSUE IN THE APPEALS
+[10] The sole issue in the appeals is whether, during the Period, the Workers were engaged in pensionable employment for purposes of the CPP and insurable employment for purposes of the EIA.
+IV. THE LEGISLATIVE PROVISIONS
+[11] The definition of “insurable employment” under paragraph 5(1)(a) of the EIA provides:
+5 (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[12] Under paragraph 6(1)(a) of the CPP, pensionable employment is employment in Canada that is not excepted employment. “Excepted employment” is not relevant in the appeals. The term “employment” is defined in subsection 2(1) as follows:
+employment means the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+[13] For there to be insurable employment under the EIA or pensionable employment under the CPP, there must be employment or a contract of service. If the Workers were independent contractors, or under a contract for service with the Appellant, they were not engaged in insurable or pensionable employment.
+V. THE LEADING DECISIONS
+[14] The central question in determining whether a person is an employee or an independent contractor is whether the individual is performing services as a person in business on his/her own account. [8] This test is often described as deceivingly simple to state, but difficult to apply. [9]
+[15] The leading decisions on this determination are the Supreme Court of Canada decision in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. (“Sagaz”) and the Federal Court of Appeal decisions in Wiebe Door Services Ltd v. MNR (“Wiebe Door”) and 1392644 Ontario Inc. o/a Connor Homes v. M.N.R. (“Connor Homes”). In Sagaz, the Supreme Court undertook a detailed consideration of the distinction between an employee and an independent contractor, and endorsed the review of relevant law and the conclusions of the Federal Court of Appeal in Wiebe Door. In Wiebe Door, the Federal Court of Appeal concluded that there is no single conclusive test to determine whether an individual is an employee or an independent contractor; the total relationship of the parties is considered in light of various factors identified in the case law. In Wiebe Door, the Federal Court of Appeal identified certain key factors.
+[16] As stated by the Federal Court of Appeal in Connor Homes, the factors to consider may vary, but certain factors will usually be relevant. These include the level of control that the hirer has over the worker’s activities, as well as whether the worker provides his/her own equipment, hires his/her own helpers, manages and assumes financial risk, and has an opportunity for profit in the performance of his/her tasks. [10]
+[17] These factors (often referred to as the Wiebe Door factors) constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the facts and circumstances of the case. [11]
+[18] In Connor Homes, the Federal Court of Appeal also addressed the role of common intention of the parties. The Court adopted a two-step process in answering the central question of whether an individual is an employee or an independent contractor. The first step of the analysis is to determine whether there is a mutual understanding or common intention between the parties regarding the nature of their relationship. Where such a common intention is found, the second step is to analyze the facts of the case to determine whether the objective reality of the situation supports and is consistent with the parties’ intention. In this second step, the Wiebe Door factors are applied. [12]
+VI. POSITIONS OF THE PARTIES
+A. Appellant’s Position
+[19] The Appellant submits that the Workers were independent contractors and that there is no basis to treat any particular Worker differently in the appeals.
+[20] The Appellant submits that WCT and the Workers shared a common intention that the Workers were independent contractors.
+[21] The Appellant’s position on the Wiebe Door factors is:
+(a) the Appellant did not have the right to control the Workers, but monitored them to ensure that the finished product would accord with the approved design for a project;
+(c) the “other factors”, including subcontracting or hiring of assistants, opportunity for profit or loss, financial risk, and responsibility for investment and management bear little weight in the overall analysis because of the highly specialized nature of the work performed.
+(b) the Workers used their own tools for the majority of the work they performed for the Appellant; and
+[22] In weighing the Wiebe Door factors, the Appellant submits that the level of control exercised by the Appellant is significantly lower than what was found in Royal Winnipeg Ballet v. M.N.R. [13] and that similarly, the Workers here were operating under a contract for service.
+B. Respondent’s Position
+[23] The Respondent submits that the Workers were employees of WCT and that while a particular Worker’s subjective intention as to the nature of his/her engagement by WCT may differ, there is otherwise no basis to treat any particular Worker differently in the appeals.
+[24] The Respondent submits that the Appellant and the Workers had no common intention as to the legal nature of their relationship.
+[25] The Respondent’s position on the Wiebe Door factors is:
+(a) the Appellant had control over the Workers and often exercised it;
+(b) the Appellant provided a workshop, tools, equipment and materials to the Workers;
+(c) the Workers had no chance of profit because they were paid hourly and could not subcontract; and
+(d) the Workers had no risk of loss because the Appellant bore the risk for cancelled projects or corrections of work.
+[26] The Respondent submits that even if this Court finds that there was a common intention of independent contractor status between the Appellant and any of the Workers, that intention is outweighed by the objective facts.
+VII. ANALYSIS
+A. Common Intention or Mutual Understanding of the Parties
+[27] As the Federal Court of Appeal observed in Connor Homes, the intention of the parties can be determined by a written contract that the parties have entered into or by the behaviour of each party. [14]
+[28] The Appellant and the Workers did not have a written contract. [15] I must therefore base my findings on the witnesses’ testimony and on other evidence. As the Federal Court of Appeal suggested in Connor Homes, the intention of the parties could be revealed in invoices for services rendered, the registration of a worker for GST purposes, and income tax filings by a worker as an independent contractor. [16]
+[29] Bill Terezakis testified that he did not have discussions with any of the Workers about their status, but that “[e]verybody was aware of it” being an independent contractor relationship before they were hired, because of the nature of the industry. [17] WCT’s work was project-driven. The number of projects that the Appellant had at any given time and their scope were variable; projects could be cancelled or changed. Mr. Terezakis also testified that the Appellant’s accountant would brief the Workers on how the system worked and on the Workers’ responsibility for their own taxes. [18] Bruce Houston confirmed that it was a condition of working for WCT that workers submit timesheets, invoices and that they have a GST number. [19] The timesheets supplied by the Appellant were marked “Contractors Timesheet”. The invoice form had a line for a GST registration number and a line for GST at 5%. The evidence establishes that the Appellant intended to engage the Workers as independent contractors.
+[30] Next, I consider the Workers’ perspectives.
+[31] Brittney Bolzon testified that before she was hired by the Appellant, she knew that she would be engaged as an independent contractor. [20] Ms. Bolzon was not registered for GST purposes during the Period; she registered in December 2016, once she passed the relevant monetary threshold. Ms. Bolzon provided timesheets and invoices to the Appellant. She declared the amounts received from the Appellant as gross business income on her 2016 tax return and claimed business expenses, including the use of a studio room at home. She kept a general ledger and gave it to her accountant to prepare her tax return.
+[32] Ms. Bolzon’s ex post facto declaration of intention in respect of the Period is consistent with objective manifestations of her understanding during the Period. I have concluded that Ms. Bolzon and the Appellant had a common intention or mutual understanding that Ms. Bolzon was engaged as an independent contractor.
+[33] Bruce Houston testified that he considered himself an employee of WCT during the Period. [21] His statement in the CRA questionnaire is consistent with his testimony. [22] He contrasted his work at WCT with similar work he did for Healy FX Studios, which he performed as a subcontractor; he stated that in his role at Healy FX Studios he had complete autonomy over what he did, when he did it, and how he did it. He purchased materials, invested in tools, and paid for a workspace where the work could be done. [23] By contrast, when he worked for WCT, “[a]ll I did was show up to work at the studio. Go to my workstation, and do the work that was being expected of me.” [24] After WCT shut down in 2020 due to the COVID-19 pandemic, Mr. Houston worked essentially “fulltime” for Amazing Ape Productions as an independent contractor and later worked on a couple of projects for the Appellant, also as an independent contractor. [25]
+[34] Notwithstanding Mr. Houston’s statement that he considered himself an employee of WCT during the Period, certain contemporaneous behaviour is difficult to reconcile. Mr. Houston was registered for GST purposes and collected GST on amounts paid by WCT. Mr. Houston testified that he understood that he needed a GST number in order to be paid, [26] but also that as a “sole proprietor” he was required by law to collect GST. [27] Like the other Workers, Mr. Houston submitted bi-weekly timesheets labelled “Contractors Timesheet” and invoices for services rendered.
+[35] Mr. Houston filed his 2015 and 2016 tax returns on the basis that he was operating a business as a sole proprietorship. On the advice of his accountant, he claimed deductions from business income, including vehicle expenses and expenses for tools and equipment related to his work for WCT. [28]
+[36] Mr. Houston’s ex post facto declaration of intention in respect of the Period must be weighed against his actions during the Period. I find that the objective manifestations of intention during the Period support a conclusion that when Mr. Houston agreed to provide services to the Appellant, he understood that he was engaged as an independent contractor – although he may well have believed that certain factors suggested a relationship of employment. Accordingly, I have determined that Mr. Houston and the Appellant had a common intention or mutual understanding that Mr. Houston was engaged as an independent contractor.
+[37] Amelie Soucy, Kiana Larson and Christina Renaud did not testify. The invoices submitted by Christina Renaud included a GST registration number; [29] the invoices submitted by Kiana Larson and Amelie Soucy did not. [30] It is possible that neither of them met the monetary threshold for GST registration. All three Workers submitted invoices bi-weekly for services rendered, as well as timesheets labelled “Contractors Timesheet”. All three Workers filed their tax returns during the Period claiming receipt of business income. There is no evidence suggesting that any of these Workers intended to be an employee of the Appellant.
+[38] The Minister made no assumptions in her Replies regarding the intention of the Appellant or of any of the Workers. While the evidence specific to the intention of these three Workers is limited, it includes the items cited in Connor Homes as relevant – invoices, GST registration (in one case) and the manner of filing income tax returns. I have determined that these three Workers also had a common intention or mutual understanding with the Appellant that they were engaged as independent contractors.
+[39] Having found a common intention or mutual understanding that the Workers were engaged as independent contractors, I next consider the Wiebe Door factors relating to the Workers’ performance of services and whether the objective facts, on balance, support and are consistent with that common intention or mutual understanding. This second step is to determine whether the legal effect of the relationship that the parties have established is one of independent contractors or employer-employees. [31]
+[40] As the Federal Court of Appeal observed in Connor Homes, the legal nature of the relationship between the parties is not determined on the basis of the parties’ declaration of intention. That determination must be grounded in a “verifiable objective reality”. [32]
+B. Wiebe Door Factors
+[41] I have considered the level of control WCT exercised over the Workers’ activities, the ownership of the tools or equipment necessary to perform the work, whether the Workers hired their own helpers, and the degree of financial risk and opportunity for profit.
+(1) Control
+[42] The control factor looks at the nature of the relationship between the payer and the payee. A contract of employment entails a relationship of subordination. [33]
+[43] The Federal Court of Appeal in Wolf v. Canada [34] describes the “control” test as follows:
+The control test, as it is commonly referred to, purports to examine who controls the work and how, when and where it is to be done. In theory, if the worker has complete control over the performance of his work once it has been assigned to him, this factor might qualify the worker as an independent contractor. On the other hand, if the employer controls in fact the performance of the work or has the power of controlling the way the employee performs his duties (Gallant v. Canada (Department of National Revenue) (F.C.A.), [1986] F.C.J. No. 330 (Q.L.), the worker will be considered an employee.
+[44] Mr. Terezakis was the President of WCT and controlled the day-to-day operations. He was the business. On the basis of the articulation of the control test in Wolf, I have considered whether the Appellant, and more specifically Bill Terezakis, exercised control over “how, when and where” the tasks assigned to the Workers were performed.
+(i) Control Over When the Work Was Performed – Scheduling
+[45] Mr. Terezakis testified that workers were allowed and encouraged to work at other shops. [35] If WCT did not have a project suited to a particular worker, Mr. Terezakis expected the Worker to find work with a special makeup effects shop that did. [36] Brittney Bolzon testified that she could decline work without consequence, other than not getting paid, and that she had refused work on occasion. [37] Bruce Houston felt that he could not decline work; he was concerned that refusing work would jeopardize his ability to get future work from WCT. [38] Bruce Houston liked working for WCT because it had a strong reputation for quality of work and a steady work supply. [39] He also had a strong working relationship with Bill Terezakis; he derived “freedom and fulfillment” from working with WCT that he did not get from other shops. [40]
+[46] During the Period, Brittney Bolzon (from when she started) and Bruce Houston worked almost exclusively for WCT, although Mr. Houston taught at the Vancouver Film School and may have also done some work for Healy FX Studios. Christina Renaud worked for other special effects shops during the Period and was a senior instructor at the Vancouver Film School. [41] Amelie Soucy had just finished film school when she started work for the Appellant, and Kiana Larson worked limited hours during the Period as she was still in school. There was no evidence as to whether Ms. Soucy or Ms. Larson worked other than for the Appellant during the relevant period.
+[47] I have concluded that the Workers could accept or refuse work from WCT and were free to work for other special makeup effects shops, although not all of the Workers chose to do so during the Period.
+[48] Workers were not required to notify Mr. Terezakis of their absence. On several occasions, Mr. Terezakis did not hear from a worker for several days. Workers notified Mr. Terezakis of an absence out of common courtesy.
+[49] The Workers did not have scheduled working hours, but they usually worked a normal workday, based on when the Appellant’s workshop was open. The workshop was generally open from 9 a.m. to 6 p.m. and was otherwise locked. The Workers did not have a key during the Period, although Bruce Houston and Brittney Bolzon eventually each got a key. While the Workers often worked a normal workday, they could come and go as they pleased, take an afternoon off or not show up at all, provided that they got their work done on time.
+[50] The Workers were not required to work on particular tasks or projects at any given time. The Workers were, however, responsible for completing the tasks assigned to them by the deadlines imposed by the Appellant’s clients.
+[51] The Workers were not required to put in a fixed number of hours, but they recorded their hours, including an allocation to particular projects, on timesheets. The timesheets were needed so that the Workers could prepare invoices and so that the Appellant could use the information for budgeting purposes.
+[52] I find that the Workers’ control over their schedule – with respect to whether to take on particular projects, the freedom to work for other shops and their ability to determine when they worked on particular projects (subject to the constraints noted) - was more consistent with a relationship of independent contractor than employer-employees. The fact that certain of the Workers chose to work almost exclusively with the Appellant during the Period does not alter this conclusion.
+(ii) Control Over Where the Work Was Performed
+[53] The vast majority of the work was done at the Appellant’s workshop. There were several reasons for this. The project work was collaborative and involved coordination with other workers. Mr. Terezakis wanted to see the project as it was developing. Also, production companies insisted that project designs be kept confidential. While some tasks could be done at a Worker’s home, this rarely occurred.
+[54] The fact that work was generally done during normal working hours and at the Appellant’s workshop does not necessarily lead to the conclusion that the Workers were employees. Given the specialized nature of the work, the need to interact with others and the confidentiality concerns regarding the projects, one would expect similar constraints to apply whether a Worker was an independent contractor or an employee. [42] I find that the constraints imposed on where the Workers’ tasks were completed do not clearly indicate either type of relationship.
+(iii) Control Over How the Work Was Performed – Subordination or Coordination?
+[55] In reviewing how the work was performed, I have considered whether the relationship between the Workers and the Appellant was one of subordination or coordination. On the one hand, the Workers were skilled artists, each hired for their particular area of expertise, which Mr. Terezakis respected. On the other hand, Mr. Terezakis was ultimately responsible for delivering quality results to the Appellant’s clients, monitored the work done in the workshop and had high standards.
+[56] An important distinction exists between control of the result or quality of the work and control over the performance of the work by the worker. As the Federal Court of Appeal stated in Charbonneau v. Canada: [43]
+. . . It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[57] Mr. Terezakis played a central role in the execution of work and the completion of all projects. He would read the script; produce a budget for the labour and materials; design the builds, characters and special effects; and organize the work of the Workers to meet the client’s specifications and deadlines. While the Workers would start with a design produced by Mr. Terezakis, there was collaboration on how the build would be executed. Each Worker had a special skill set that they brought to bear in the process. Mr. Houston, an experienced sculptor, described his working with Mr. Terezakis as a “closely knit three-way dynamic between myself, Bill and the sculpture” [44] and stated that they were “like a couple of brothers arguing all the time.” [45]
+[58] Mr. Terezakis stayed involved through the execution of the build. Workers were required to get his approval before the final molds were made and the assigned work was completed. Mr. Terezakis split his time between being on site and being on set. He would spend time in the workshop to make sure things were running smoothly but did not “babysit” the artists. [46] The Appellant did not dictate the method or technique used to produce the result; that was up to the particular artist. [47] Mr.Terezakis advised the Workers of any artistic changes if, for example, a Worker was under a misapprehension as to what was required for the project. [48]
+[59] The Appellant relies on the Federal Court of Appeal decision in Royal Winnipeg Ballet and submits that the control exercised by the Appellant over the Workers was not nearly as extensive as the control exercised by the Royal Winnipeg Ballet over its dancers.
+[60] In Royal Winnipeg Ballet, the majority of the Federal Court of Appeal reversed the decision of the Tax Court and found that the dancers engaged by the Royal Winnipeg Ballet were independent contractors. The majority of the Federal Court of Appeal found that notwithstanding the “extensive” control exercised by the Royal Winnipeg Ballet over its dancers, it was “no more than is needed to stage a series of ballets over a well-planned season of performances”. Accordingly, the level of control was not considered to be inconsistent with the parties’ common intention that the dancers were independent contractors. [49]
+[61] I have not determined whether the control exercised by WCT or Mr. Terezakis over the Workers was as “extensive” as the control exercised over the dancers in Royal Winnipeg Ballet as that is but one factor that was considered relevant by the Federal Court of Appeal. Similarly here, many other factors are at play. However, I have taken into account the Federal Court of Appeal’s guidance on the application of the “control” test to artists and the determination that control necessary to stage a production is not necessarily inconsistent with artists being independent contractors.
+[62] In Royal Winnipeg Ballet, the extensive control exercised by the Royal Winnipeg Ballet over its dancers included decisions regarding rehearsals, ballets featured, show times and dates, costumes worn, choreography and artistic direction. The Court observed that despite a dancer not being free to dance his/her assigned role in a manner that departs from the choreography or vision of the artistic director, the dancer nonetheless contributes his/her unique artistic expression to a production resulting from artistic collaboration.
+[63] Similar reasoning has prevailed in cases involving other creative workers and artists. [50] For example, in On Masse Inc., this Court considered the status of a texture artist providing services to an animation production company engaged to work on a particular animation project. In concluding that the appellant was an independent contractor, the Court found that the level of control over the worker was lower than that imposed on the dancers in Royal Winnipeg Ballet.
+[64] In MWW Enterprises Inc. v. M.N.R., [51] this Court considered the status of various workers engaged to work on the appellant’s television program production. The Court cited the analysis of the trial judge in Productions Petit Bonhomme Inc. [52] on the issue of control. Productions Petit Bonhomme also addressed the status of workers in television program production. The trial judge observed that production of a television show is a team effort, the result of the ideas, talent, creativity and know-how brought by each professional under the ultimate control of a producer. Since this takes place in an atmosphere of collaboration among professionals, it is consistent with a relationship of independent contractors. [53]
+[65] The Appellant exercised supervision and control over how the builds would be executed. However, I have determined that this was consistent with the control necessary to produce a final product that met the deadlines and expectations of the Appellant’s clients. This did not mean that the Appellant controlled how the Workers completed their assigned tasks. Those tasks were specific to their skill set, and the final product was ultimately the result of the various artistic expressions of the Workers.
+[66] In summary, I have considered the extent to which the Appellant controlled “how, when and where” tasks assigned to the Workers were performed. While certain elements are suggestive of employment, more significant factors point in the opposite direction. I have concluded that on balance, the control factor supports the characterization of the Workers as independent contractors.
+(2) Ownership of Tools
+[67] This factor considers who owns the equipment or tools necessary to perform the work. Providing tools to workers is generally considered to reflect a relationship of employment. Conversely, if workers own the tools of their trade, they are more likely to be considered independent contractors. Where tools are provided by both parties, further analysis is required.
+[68] For example, in Precision Gutters v. Canada (M.N.R.) [54] , the Federal Court of Appeal determined that workers who installed building gutters and who owned their own “gutter rollers” were independent contractors, notwithstanding the alleged employer’s supply of specialized tools. The Court determined that where a worker owns tools of the trade reasonable for him/her to own, that will point to independent contractor status even though the alleged employer provides special tools.
+[69] In European Staffing Inc. v. M.N.R., the Tax Court concluded that providing expensive and specialized welding equipment to workers was indicative of an employment relationship. [55] While the workers provided basic tools, the Court found that this did not counter the indicia of employment as this was likely due to worker preference or comfort. Similar conclusions were reached in the Tax Court’s decisions in Morris Meadows Country Holidays and Seminars Ltd. v. M.N.R. [56] and AE Hospitality Ltd. v. M.N.R. [57]
+[70] The Appellant supplied the workshop where all of the Workers did substantially all of their work. The workshop was a large warehouse space with workstations and designated areas for various steps in a project. For example, there was a “hot room” with ventilation for dangerous chemicals, an area for silicone products, and an area for painting.
+[71] The Appellant provided heavy tools and smaller tools that could be used by the Workers. These included a foam oven, chisels, hammers, screwdrivers, sewing machines, power tools and saws. Bruce Houston testified that an experienced professional sculptor like himself would not go to a chest of “generic tools” to do his job; [58] Bruce Houston provided his own sculpting tools. Brittney Bolzon, who worked in silicone and prosthetics, provided her own seaming tools.
+[72] The Appellant provided substantially all of the supplies and raw materials for the projects. The Appellant could buy supplies in bulk, at a discount, and this helped to keep projects in line with budgets. The Appellant did not charge the Workers for the use of the workshop; for the use, repair or maintenance of any of the tools provided by the Appellant; or for the supply of materials.
+[73] The Respondent submits that the Appellant’s supply of a workspace, tools and supplies outweighs the Workers’ provision of their own small tools. I do not agree. To rely on the relative cost of the tools provided or the fact that the Workers “could” use the tools supplied by the Appellant does not sufficiently recognize the Workers’ craft. The Workers were hired for their unique skills, expressed by using their personal tools.
+[74] Given the supply of tools by both the Appellant and the Workers, I find the tools factor to be neutral, and therefore not indicative of a relationship of employment or independent contractors.
+(3) Hiring of Helpers
+[75] The Workers were hired to do the work themselves. They could not subcontract or hire assistants or helpers. If assistants or helpers were needed, the Appellant would engage them. The Respondent argues that this suggests employee status as the Workers could not profit from subcontracting. I disagree. The constraint may be explained on the basis that each Worker was hired by the Appellant for his/her particular expertise. I find that the inability to hire helpers does not support either employment or independent contractor status.
+(4) Opportunity for Profit and Risk of Loss
+[76] In considering whether the worker is “in business on his/her own account”, the opportunity for profit and the risk of loss are relevant. These are essential hallmarks of being in business.
+(i) Opportunity for Profit
+[77] The Workers were paid on an hourly basis at a rate negotiated with the Appellant, based on the Worker’s experience and skills. The Workers were also paid an overtime rate for hours worked in excess of a certain threshold and were occasionally paid bonuses, if a project’s budget allowed.
+[78] Hourly pay has been considered to indicate employment status. The reasoning is that workers paid by the hour cannot make more “profit” by exercising sound management practices or by being more efficient. [59] While a worker paid by the hour can work more hours to make more money, this is not considered to equate to a chance of profit. [60]
+[79] The payment terms for the Workers on projects done for the Appellant resemble those of employees paid an hourly wage. While a Worker could, in theory, negotiate for a higher hourly rate, I do not view this as providing a meaningful opportunity for profit.
+[80] The analysis might end here if the Workers had committed to deriving their work exclusively from WCT, but they did not. The Workers could engage in work outside WCT, including work for other special effects shops; Mr. Terezakis stated that it was encouraged. In this respect, the Workers had an opportunity to “profit” by generating income from different sources, presumably at rates that they could negotiate.
+[81] The practice does not appear to have been extensive during the Period as WCT was successful and provided a steady supply of work. [61] Both Mr. Houston and Ms. Bolzon testified that they worked at least 40 hours/week for WCT. [62] Mr. Houston may have worked for another special effects company (Healy FX Studios), although he derived substantially all of his income from the Appellant during the Period. Christina Renaud worked for other shops during the Period and also taught at the Vancouver Film School. There was no evidence as to whether Kiana Larson or Amelie Soucy earned income from other sources during the relevant period.
+[82] The fact that the Workers had the freedom to work for other shops, and that some did, points strongly towards independent contractor status. A typical independent contractor is available to anyone who will pay for their services. The fact that certain Workers derived substantially all of their income during the Period from the Appellant does not necessarily undermine this conclusion; it is important to consider why this occurred.
+[83] As Bruce Houston testified, there were many reasons to prefer work with WCT over work with other shops. WCT had a reputation for high-quality work and a steady supply. Mr. Houston enjoyed the working relationship with Mr. Terezakis. From this, I infer that while certain Workers may have chosen to work substantially or exclusively for WCT during the Period, it was not because the Appellant and the Workers were forging a committed employment relationship. The Appellant did not guarantee the Workers job security. The Workers remained free to provide their services to others.
+[84] A Worker’s choice to work exclusively with the Appellant may have limited that Worker’s opportunity for profit (to earning a fixed hourly rate from one source). This does not mean that the opportunity for profit did not exist, as it did for those Workers who did not make that choice. Freedom to render services to others provided an opportunity for profit.
+[85] On balance, I have concluded that the Workers had an opportunity for profit, which supports the characterization of the Workers as independent contractors.
+(ii) Risk of Loss
+[86] The Workers did not receive statutory holiday pay, vacation pay or sick leave pay, or any dental or medical benefits from the Appellant; these benefits are common in an employment relationship. The risk associated with not having these benefits suggests independent contractor status.
+[87] Once a project started, the Workers were paid their hourly rate in most circumstances. If a project was cancelled, the Workers were paid for their time until that point. [63] If a Worker had to redo a project, he/she would generally be paid for time spent correcting the work. These limitations on the risk of loss suggest employment status.
+[88] The analysis might end here if WCT had committed to providing full-time work to the Workers, but it did not. The Appellant did not guarantee a fixed number of hours or projects, or suggest that a Worker’s engagement would be of unlimited duration. Given the project-driven nature of the industry, that is easily understood. The number of projects that the Appellant had on the go at any particular time would vary. Projects could last anywhere from a few hours to several months. Each project would have a crew of artists dependent on the size of the project and the skills needed. Presumably, it would be difficult to anticipate the Appellant’s need to engage specific workers long in advance.
+[89] This context explains why the Appellant chose to engage workers on the basis that they were independent contractors. It also indicates the potential for uneven workflow for the Workers depending on the Appellant’s supply of projects and the demand for a particular Worker’s skills. The Workers were not paid when they did not provide services to the Appellant. If the Appellant’s stream of projects dried up or if a project’s specifications did not match a Worker’s skill set, the Worker bore the financial consequences of not being engaged. This financial risk points towards independent contractor status.
+[90] Brittney Bolzon and Bruce Houston testified that there was enough work to keep them busy full time during the Period. Both chose to work almost exclusively for the Appellant during the Period. Christina Renaud did not. While the financial risk of working in a project-based arrangement may not have materialized for the Workers who ended up working effectively full time for the Appellant during the Period, it does not mean that there was no assumption of risk.
+[91] Whether a Worker chose to work exclusively for the Appellant or worked for the Appellant and others during the Period, the Worker remained exposed to the factors affecting the demand for their services – the Appellant’s supply of projects and the match to the Worker’s skill set. On balance, I have concluded that the Workers faced a risk of loss, which is consistent with being independent contractors.
+VIII. CONCLUSION
+[92] To determine the issue before me, I must weigh all of the relevant factors. Connor Homes instructs that the parties’ intent – in this case, the mutual understanding of the Appellant and the Workers that their relationship was one of independent contractors - is taken into account in reviewing the Wiebe Door factors. [64] I must determine whether the Wiebe Door factors, which are objective, are consistent with the parties’ subjective intention.
+[93] There is no set formula for the application of the Wiebe Door factors. Those suggesting an employment relationship are not tallied and compared to the sum of those indicating independent contractor status. The relative weight of the factors depends on the facts and circumstances of the case. Important context that affects my consideration of the factors here, is the project-driven nature of the special makeup effects business and the specialized artistic skills that the Workers bring to bear.
+[94] I find that the Wiebe Door factors support independent contractor status.
+[95] The Workers had freedom to accept or reject projects offered by the Appellant and to work for other special effects workshops. When engaged by WCT, the Workers completed their tasks with freedom of expression, as skilled artists. These freedoms are antithetical to the notion of control inherent in an employment relationship.
+[96] While the Appellant exercised some control over “how, when and where” the Workers performed their tasks, I have concluded that these constraints are not indicative of an employment relationship, but driven by a need to ensure that projects met the client’s requirements and expectations. Accordingly, the control factor favours independent contractor status.
+[97] While I do not attach significant weight to the tools factor, it is neutral. The inability of the Workers to hire helpers is also neutral.
+[98] Being paid an hourly rate suggests that the Workers had limited opportunity for profit and risk of loss and therefore indicates an employer-employee relationship. However, I have determined that the Workers were exposed to financial loss and had an opportunity for profit largely because the Appellant did not guarantee workflow to the Workers and the Workers maintained the correlative freedom to work with other special effects shops.
+[99] Taking all of this into account, I have found that on balance, the Wiebe Door factors suggest a legal characterization of the Workers’ engagement by the Appellant as independent contractors. This conclusion is consistent with the parties’ understanding of the nature of their relationship. Accordingly, I have concluded that the Workers were independent contractors.
+[100] The Minister’s decisions should be varied on the basis that the Workers were not engaged in insurable employment for purposes of the EIA or pensionable employment for purposes of the CPP during the relevant periods.
+IX. COSTS
+[101] As both parties acknowledge, this Court does not have general authority to award costs in an appeal of a ministerial decision made under the EIA or the CPP. None of the exceptions to this general proposition applies and, accordingly, no costs are awarded in the appeals.
+Signed at Toronto, Ontario, this 22nd day of September 2022.
+“Monica Biringer”
+Biringer J.
+APPENDIX A
+CITATION:
+2022 TCC 107
+COURT FILE NOS.:
+2018-777(EI)
+2018-778(CPP)
+STYLE OF CAUSE:
+WCT PRODUCTIONS MCT LTD. v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 28, 29 and 30, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Monica Biringer
+DATE OF JUDGMENT:
+September 22, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Shawn W. Tryon
+Vivian Esper
+Counsel for the Respondent:
+Alexander Wind
+Daniel Cortes-Blanquicet
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Shawn W. Tryon
+Firm:
+Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. C-8.
+[2] S.C. 1996, c. 23.
+[3] Prior to the hearing, a Partial Notice of Discontinuance was filed by the Appellant, with respect to the decision of the Minister that two student workers engaged by the Appellant - Devin Johnson and Ruby Jones - were engaged in pensionable employment for purposes of the CPP and insurable employment for purposes of the EIA for the period January 1, 2016 to September 30, 2016. These reasons do not address the status of Devin Johnson and Ruby Jones.
+[4] The relevant period for Bruce Houston, Christina Renaud and Brittney Bolzon is January 1, 2015 to September 30, 2016. The relevant period for Amelie Soucy is January 1, 2015 to December 31, 2015. For Kiana Larson the relevant period is January 1, 2016 to September 30, 2016.
+[5] Exhibit A-1: Transcript of examination for discovery of William Christopher Terezakis (January 22, 2019);
+[6] Exhibit A-R Tabs 44, 45: Christina Renaud’s invoices indicate that she worked for 36 out of 45 pay periods during the Period.
+[7] Exhibit A-1: Qs and As 286-292, 305-311, 322-331, 340-342 and 355-358.
+[8] See, e.g., Wiebe Door Services Ltd. v. M.N.R., [1986] 3 FC 553, F.C.J. No. 1052 (FCA); 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59; and 1392644 Ontario Inc. (Connor Homes) v. M.N.R., 2013 FCA 85.
+[9] See, e.g., Sagaz, ibid. at para. 46; Connor Homes, ibid. at para. 25.
+[10] Connor Homes, supra, note 8 at paras. 29 and 41.
+[11] Sagaz, supra, note 8 at para. 48.
+[12] See also AE Hospitality Ltd. v. M.N.R., 2020 FCA 207 at para. 14; European Staffing Inc. v. M.N.R., 2020 FCA 219 at para. 7.
+[13] 2006 FCA 87 (“Royal Winnipeg Ballet”).
+[14] Connor Homes, supra, note 8 at para. 39.
+[15] Appendix A at para. 2(h).
+[16] Connor Homes, supra, note 8 at para. 39.
+[17] Exhibit A-1: Qs and As 112 and 115.
+[18] Exhibit A-1: Q and A 113.
+[19] Transcript of Hearing, Testimony of Bruce Houston, p. 240.
+[20] Transcript of Hearing, Testimony of Brittney Bolzon, pp. 118 and 160.
+[21] Transcript of Hearing, Testimony of Bruce Houston, p. 212.
+[22] Exhibit AR, Tab 27: Bruce Houston Questionnaire, dated November 8, 2017 at p. 11, question 80.
+[23] Transcript of Hearing, Testimony of Bruce Houston, pp. 190 and 191.
+[24] Transcript of Hearing, Testimony of Bruce Houston, pp. 191 and 192.
+[25] Transcript of Hearing, Testimony of Bruce Houston, p. 214.
+[26] Transcript of Hearing, Testimony of Bruce Houston, p. 195.
+[27] Transcript of Hearing, Testimony of Bruce Houston, p. 196.
+[28] Transcript of Hearing, Testimony of Bruce Houston, p. 251.
+[29] Exhibit AR, Tab 45.
+[30] Exhibit AR, Tabs 36 and 48.
+[31] Connor Homes, supra, note 8 at para. 40.
+[32] Connor Homes, supra, note 8 at para. 37.
+[33] City Water International Inc. v. M.N.R., 2006 FCA 350 (“City Water”) at para. 18; D & J Driveway Inc. v. M.N.R., 2003 FCA 453 (“D & J Driveway”) at para. 9.
+[34] 2002 FCA 96 (“Wolf”) at para. 74.
+[35] Exhibit A-1: Qs and As 169, 170 and 198.
+[36] Exhibit A-1: Q and A 335.
+[37] Transcript of Hearing, Testimony of Brittney Bolzon, p. 121.
+[38] Transcript of Hearing, Testimony of Bruce Houston, pp. 231 and 232.
+[39] Transcript of Hearing, Testimony of Bruce Houston, pp. 224, 225, 226 and 227.
+[40] Transcript of Hearing, Testimony of Bruce Houston, p. 229.
+[41] Exhibit A-1: Q and A 185.
+[42] Wolf, supra, note 34 at para. 81.
+[43] [1996] F.C.J. No. 1337, 1996 CarswellNat 2332 at para. 10. See also City Water, supra, note 33 at para. 18; D & J Driveway, supra note 33 at para. 9.
+[44] Transcript of Hearing, Testimony of Bruce Houston, p. 229.
+[45] Transcript of Hearing, Testimony of Bruce Houston, p. 228.
+[46] Exhibit A-1: Q and A 117.
+[47] Exhibit A-1: Q and A 64.
+[48] Transcript of Hearing, Testimony of Bruce Houston, pp. 208-209.
+[49] Royal Winnipeg Ballet, supra, note 13 at para. 66.
+[50] On Masse Inc. v. M.N.R., 2010 TCC 250, 1772887 Ontario Limited v. M.N.R. 2011 TCC 204; See also the earlier case of Productions Petit Bonhomme Inc. v. M.N.R., 2002 CarswellNat 3251 at para. 104.
+[51] 2019 TCC 127 (“MWW Enterprises Inc.”).
+[52] Attorney General of Canada v. Productions Petit Bonhomme Inc., 2004 FCA 54, aff’g the 2002 Tax Court of Canada Judgment.
+[53] MWW Enterprises Inc., supra, note 52.
+[54] 2002 FCA 207.
+[55] 2019 TCC 59 at para. 57.
+[56] 2014 TCC 191.
+[57] 2019 TCC 116 (“AE TCC”).
+[58] Testimony of Bruce Houston, p. 202.
+[59] AE TCC, supra, note 58 at para. 150.
+[60] AE TCC, supra, note 58 at para. 149; City Water, supra, note 33 at para. 24.
+[61] Transcript of Hearing, Testimony of Bruce Houston, p. 205.
+[62] Transcript of Hearing, Testimony of Bruce Houston, p. 205; Testimony of Brittney Bolzon, pp. 136 and 137.
+[63] Exhibit A-1: Q and A 197.
+[64] Connor Homes, supra, note 8 at para 40.

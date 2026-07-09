@@ -1,0 +1,142 @@
+Title: Gaisford v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29853/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-332-29853-gaisford-v-human-resources-en.md
+Document type: case_law
+Last modified: 2010-06-17
+
+# Gaisford v. Human Resources
+
+- Citation: 2010 TCC 332
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6410, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaisford v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-17
+Neutral citation
+2010 TCC 332
+File numbers
+2009-3094(OAS)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2009-3094(OAS)
+BETWEEN:
+GEORGE GAISFORD,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 21, 2010,
+at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal from the decision of the Respondent in relation to the calculation of his entitlement to the Guaranteed Income Supplement under the Old Age Security Act for the period from July 2008 to June 2009 is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC332
+Date: 20100617
+Docket: 2009-3094(OAS)
+BETWEEN:
+GEORGE GAISFORD,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES
+AND SKILLS DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant is appealing the computation of his income for the purposes of determining the guaranteed income supplement for the purposes of the Old Age Security Act (the “OAS”). The Appellant’s position is that his income as determined for the purposes of the OAS should not include amounts that he received from his Registered Retirement Income Fund (“RRIF”) and should not include the gross-up amount for dividends. It is his position that only the actual amount of the dividends that he received should have been included in his income for the purposes of the OAS and not the amount that reflects the additional amount to be added pursuant to section 82 of the Income Tax Act.
+[2] Section 2 of the OAS provides that:
+“income” of a person for a calendar year means the person's income for the year, computed in accordance with the Income Tax Act, except that
+…
+(d) there shall be deducted from the person's income for the year three times the amount, if any, by which
+(i) the total of any amounts that may be deducted under section 121 of the Income Tax Act in computing the person's tax payable for the year
+exceeds
+(ii) the person's “tax for the year otherwise payable under this Part” (within the meaning assigned by subsection 126(7) of the Income Tax Act for the purposes of paragraph 126(1)(b) of that Act) for the year; and
+[3] The Appellant was not alleging that the Respondent had failed to take into account any deduction that should have been taken into account under paragraph (d) of the definition of income in section 2 of the OAS. His argument was that “income” for the purposes of the OAS should be determined based on the actual amount of the dividends that he received.
+[4] The Appellant received a T5 slip and a T3 slip for 2007 from RBC Direct Investing Inc. These slips indicated the following in relation to the dividends that were paid to the Appellant in 2007:
+Actual amount of eligible dividends
+Taxable amount of eligible dividends
+Dividend tax credit for eligible dividends
+T5
+$2,675.19
+$3,879.03
+$735.68
+T3
+$241.34
+$349.92
+$66.32
+Total:
+$2,916.53
+$4,228.95
+$802.00
+[5] The Appellant also received the amount of $4,699.21 from his RRIF. It is his position that no part of the amount received from his RRIF should have been included in his income for the purposes of the OAS and that only $2,917 (and not $4,229) should have been included in his income for the purposes of the OAS in relation to the dividends that he had received.
+[6] The income of a person for a calendar year for the purposes of the OAS is “the person’s income for the year, computed in accordance with the Income Tax Act”. Subsection 56(1) of the Income Tax Act provides, in part, that:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(t) amounts in respect of a registered retirement income fund required by section 146.3 to be included in computing the taxpayer's income for the year;
+[7] Subsection 146.3(5) of the Income Tax Act provides that:
+(5) There shall be included in computing the income of a taxpayer for a taxation year all amounts received by the taxpayer in the year out of or under a registered retirement income fund other than the portion thereof that can reasonably be regarded as
+(a) part of the amount included in computing the income of another taxpayer by virtue of subsections (6) and (6.2); or
+(b) an amount received in respect of the income of the trust under the fund for a taxation year for which the trust was not exempt from tax by virtue of subsection (3.1).
+(c) an amount that relates to interest, or to another amount included in computing income otherwise than because of this section, and that would, if the fund were a registered retirement savings plan, be a tax-paid amount (within the meaning assigned by paragraph (b) of the definition “tax-paid amount” in subsection 146(1)).
+[8] There was no suggestion in this case that any of paragraphs (a), (b) or (c) are applicable. The Appellant’s only argument was that the amount in the RRIF was his money and that it should not be included in his income when it is paid to him. However, the amount that he received from his RRIF represents an amount that has not been taxed – either because he would have received a deduction in computing his income when he made a contribution to his registered retirement savings plan or the amount is paid from income earned while the amount was held by the RRSP or RRIF (which would not have been taxed when earned).
+[9] It is clear that the amounts received by the Appellant from his RRIF were to be included in computing his income in accordance with the provisions of the Income Tax Act and therefore are also to be included in determining his income for the purposes of the OAS. Justice Little reached the same conclusion in Tabios v. The Minister of Human Resources Development Canada, 2005 TCC 465.
+[10] Subsection 12(1) of the Income Tax Act provides, in part, that:
+12. (1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+…
+(j) any amount required by subdivision h to be included in computing the taxpayer's income for the year in respect of a dividend paid by a corporation resident in Canada on a share of its capital stock;
+[11] Section 82 of the Income Tax Act is in subdivision h. This subsection, in 2007, provided, in part that:
+82. (1) In computing the income of a taxpayer for a taxation year, there shall be included the total of the following amounts:
+…
+(a.1) the amount, if any, by which
+(i) the total of all amounts, …, received by the taxpayer in the taxation year from corporations resident in Canada as, on account of, in lieu of payment of or in satisfaction of, eligible dividends,
+…
+(b) if the taxpayer is an individual, …, the total of
+…
+(ii) 45% of the amount determined under paragraph (a.1) in respect of the taxpayer for the taxation year,
+…
+[12] It is clear that in computing income in accordance with the Income Tax Act that the gross-up prescribed by subsection 82(1) of the Income Tax Act is to be included. In this case, the Appellant’s income as determined in accordance with the Income Tax Act would have included the amount of $4,229 in relation to the dividends that he received and therefore the same amount is to be included in determining his income for the purposes of the OAS. It must be remembered that dividend income is not taxed in the same manner as interest income. While dividends are grossed-up so that a greater amount is included in income than was actually received, the individual is also entitled to claim a dividend tax credit. As a result, the amount of income tax that would be paid in relation to an actual dividend of $2,917 will be less than the amount of income tax that will be paid in relation to interest income of $2,917.
+[13] As a result the Appellant’s appeal from the decision of the Respondent in relation to the calculation of his entitlement to the Guaranteed Income Supplement under the OAS for the period from July 2008 to June 2009 is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC332
+COURT FILE NO.: 2009-3094(OAS)
+STYLE OF CAUSE: GEORGE GAISFORD AND THE MINISTER OF HUMAN RESOURCES AND SKILLS DEVELOPMENT
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 17, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

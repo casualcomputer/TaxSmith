@@ -1,0 +1,220 @@
+Title: Roberts v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30302/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-205-30302-roberts-v-the-queen.md
+Document type: case_law
+Last modified: 2011-04-08
+
+# Roberts v. The Queen
+
+- Citation: 2011 TCC 205
+- Decision date: 2011-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8070, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roberts v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-08
+Neutral citation
+2011 TCC 205
+File numbers
+2007-1761(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1761(IT)G
+BETWEEN:
+GERALDINE ROBERTS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of
+Stanley Hunt (2007-1765(IT)G) and C. Aubrey Roberts (2007-1768(IT)G)
+on March 31, 2011, at Vancouver, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Niki Sharma
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+____________________________________________________________________
+ORDER
+Upon considering the motion filed by the Appellant on August 31, 2010;
+And upon hearing submissions of the parties;
+The motion is dismissed. If the parties wish to address costs, they may file written submissions within 30 days.
+Signed at Ottawa, Canada, this 8th day of April 2011.
+“Patrick Boyle”
+Boyle J.
+Docket: 2007-1765(IT)G
+BETWEEN:
+STANLEY HUNT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of
+Geraldine Roberts (2007-1761(IT)G) and C. Aubrey Roberts (2007‑1768(IT)G) on March 31, 2011, at Vancouver, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Niki Sharma
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+____________________________________________________________________
+ORDER
+Upon considering the motion filed by the Appellant on August 31, 2010;
+And upon hearing submissions of the parties;
+The motion is dismissed. If the parties wish to address costs, they may file written submissions within 30 days.
+Signed at Ottawa, Canada, this 8th day of April 2011.
+“Patrick Boyle”
+Boyle J.
+Docket: 2007-1768(IT)G
+BETWEEN:
+C. AUBREY ROBERTS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of
+Geraldine Roberts (2007-1761(IT)G) and Stanley Hunt (2007-1765(IT)G)
+on March 31, 2011, at Vancouver, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Niki Sharma
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+____________________________________________________________________
+ORDER
+Upon considering the motion filed by the Appellant on August 31, 2010;
+And upon hearing submissions of the parties;
+The motion is dismissed. If the parties wish to address costs, they may file written submissions within 30 days.
+Signed at Ottawa, Canada, this 8th day of April 2011.
+“Patrick Boyle”
+Boyle J.
+Citation: 2011 TCC 205
+Date: 20110408
+Dockets: 2007-1761(IT)G
+2007-1765(IT)G
+2007-1768(IT)G
+BETWEEN:
+GERALDINE ROBERTS,
+STANLEY HUNT,
+C. AUBREY ROBERTS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] The three Appellants are native Canadians living on British Columbia coastal reserves. They have brought a motion for an advanced costs order in respect of their appeals instituted in April 2007 claiming that their fishing income should not be taxable because of the exemptions set out in paragraph 81(1)(a) of the Income Tax Act (the “ITA”) and section 87 of the Indian Act. In their advanced costs motion they are requesting $350,000 in any event of the cause. The taxpayers’ income from fishing constitutes only a small portion of their revenues each year, the rest of which is tax exempt. The total amount of federal tax involved in the three appeals is just over $3,000; nonetheless they are being pursued by the taxpayers under this Court’s general procedure and not its informal procedure. The taxpayers appear from their filed financial information to enjoy modest Canadian middle class incomes. The taxpayers have not paid anything towards the legal costs of pursuing their appeals. They have unsuccessfully sought funding from provincial legal aid authorities, the Department of Indian and Northern Affairs, the federal Court Challenges Program, their band councils and the Native Indian Brotherhood, an association made up of coastal fishers from a number of coastal reserves. None of the Native Indian Brotherhood, coastal bands or others native fishers living on coastal reserves have made any financial contribution to the legal expenses of these appeals, nor have any intervened or filed affidavits in support of there being a significant or broad public interest in their communities to these appeals being pursued and decided by this Court. The Respondent has been able to determine that objections have been filed by approximately 100 residents of B.C. coastal reserves claiming that their fishing income should be tax exempt.
+[2] In the appeals, the taxpayers take the position that a significant connecting factor in these cases that should cause their fishing income to be sited on their reserves is that, when B.C. coastal reserves were allocated, it was intended that they be fishing stations from which their residents could continue to fish in order to sustain themselves. In essence, their argument is that there is an inherent historical and traditional connection between their reserves and their fishing activities such that they should be tax exempt even if they are commercial fishing activities. It is their counsel’s position that this aspect of native fishers living on B.C. coastal reserves is of great public importance and has not previously been reviewed or resolved for purposes of siting fishing income and the subsection 81(1) exemption. Of the 100 objections mentioned above, less than 20 expressly take such a position.
+I. Law
+[3] In virtually all aboriginal rights cases, the honour of the Crown is at stake: per Hugessen J. in Joseph v. Canada, 2008 FC 574. I have no doubt that this extends to litigation before this Court involving subsection 81(1) of the ITA and section 87 of the Indian Act.
+[4] The Supreme Court of Canada in Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85, addressed the history and scope of the section 87 tax exemption. In particular, La Forest J. wrote:
+In summary, the historical record makes it clear that ss. 87 and 89 of the Indian Act, the sections to which the deeming provision of s. 90 applies, constitute part of a legislative “package” which bears the impress of an obligation to native peoples which the Crown has recognized at least since the signing of the Royal Proclamation of 1763. From that time on, the Crown has always acknowledged that it is honour‑bound to shield Indians from any efforts by non‑natives to dispossess Indians of the property which they hold qua Indians, i.e., their land base and the chattels on that land base.
+It is also important to underscore the corollary to the conclusion I have just drawn. The fact that the modern‑day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens. An examination of the decisions bearing on these sections confirms that Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.
+[5] In Williams v. Canada, [1992] 1 S.C.R. 877, the Supreme Court of Canada set out the tests to be applied in determining whether the situs of intangible property was on a reserve. Gonthier J. writing for the Court said:
+The approach which best reflects these concerns is one which analyzes the matter in terms of categories of property and types of taxation. For instance, connecting factors may have different relevance with regard to unemployment insurance benefits than in respect of employment income, or pension benefits. The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+This approach preserves the flexibility of the case by case approach, but within a framework which properly identifies the weight which is to be placed on various connecting factors. Of course, the weight to be given various connecting factors cannot be determined precisely. However, this approach has the advantage that it preserves the ability to deal appropriately with future cases which present considerations not previously apparent.
+Earlier, he had written:
+. . . A connecting factor is only relevant in so much as it identifies the location of the property in question for the purposes of the Indian Act. In particular categories of cases, therefore, one connecting factor may have much more weight than another. It would be easy in balancing connecting factors on a case by case basis to lose sight of this.
+[6] The courts have often applied the Williams connecting factors test in cases of off‑reserve income.
+[7] For example, in Southwind v. The Queen, 98 DTC 6084, the Federal Court of Appeal dealt with logging business income of a native living on a reserve. The Court wrote:
+For the Crown, Mr. Bourgard rightly offered a more complex set of factors to consider in deciding whether business income is situated on the reserve. He suggested that we examine (1) the location of the business activities, (2) the location of the customers (debtors) of the business, (3) where decisions affecting the business are made, (4) the type of business and the nature of the work, (5) the place where the payment is made, (6) the degree to which the business is in the commercial mainstream, (7) the location of a fixed place of business and the location of the books and records, and (8) the residence of the business’ owner.
+As was found by the Tax Court Judge, and having considered all of these factors, I am of the view that the appellant’s business income does not fit within paragraph 87(1)(b) because it is not property situated on a reserve. While it is significant that the appellant lives on a Reserve, engages in some administrative work out of his home on the Reserve, and stores the business records and the business assets which he owns on the Reserve when they are not in use, the appellant, in my view, is engaged not in a business that is integral to the life of the Reserve, but in a business that is in the “commercial mainstream”.
+According to the Supreme Court in Mitchell, where an Indian enters into the “commercial mainstream”, he must do so on the same terms as other Canadians with whom he competes. Although the precise meaning of this phrase is far from clear, it is clear that it seeks to differentiate those Native business activities that deal with people mainly off the Reserve, not on it. It seeks to isolate those business activities that benefit the individual Native rather than his community as a whole, recognizing, of course, as Mr. Nadjiwan says, that a person benefits his or her community by earning a living for his family.
+[8] This Court applied the connecting factors test to the fishing income of a native living on a reserve in Ballantyne v. The Queen, 2009 TCC 325, 2009 DTC 1188, and dismissed the appeal. In Ronald Robertson v. The Queen, 2010 TCC 552, this Court allowed an appeal in respect of native fishing income. Both of these decisions have been appealed to the Federal Court of Appeal. I will address this Court’s decision in Bell et al. v. The Queen, 2000 DTC 6365, in detail below.
+[9] Outside the scope of the section 87 tax exemption, courts have considered the scope and relevance to aboriginal rights and claims of the history and purpose of B.C. coastal reserve allocation and allotment. This is reviewed at length by the Supreme Court of Canada in R. v. Nikal, [1996] 1 S.C.R. 1013, and was also considered by the Supreme Court in R. v. Lewis, [1996] 1 S.C.R. 921. In neither case did the Supreme Court conclude that the historic coastal reserve allocation was done in order to recognize or extend commercial fishing rights. Similar B.C. coastal fishing rights issues are again before the Supreme Court of Canada in the appeal pending from the British Columbia Court of Appeal decision in Lax Kw’alaams Indian Band v. Canada (Attorney General), 2009 BCCA 593.
+[10] The considerations applicable to dealing with an application for an advanced costs order are set out by the Supreme Court of Canada in British Columbia (Minister of Forests) v. Okanagan Indian Band, 2003 SCC 71, [2003] 3 S.C.R. 371. The Supreme Court identified the following stringent preconditions for the making of such an order:
+38 The present appeal raises the question of how the principles governing interim costs operate in combination with the special considerations that come into play in cases of public importance. In cases of this nature, as I have indicated above, the more usual purposes of costs awards are often superseded by other policy objectives, notably that of ensuring that ordinary citizens will have access to the courts to determine their constitutional rights and other issues of broad social significance. Furthermore, it is often inherent in the nature of cases of this kind that the issues to be determined are of significance not only to the parties but to the broader community, and as a result the public interest is served by a proper resolution of those issues. In both these respects, public law cases as a class can be distinguished from ordinary civil disputes. They may be viewed as a subcategory where the “special circumstances” that must be present to justify an award of interim costs are related to the public importance of the questions at issue in the case. It is for the trial court to determine in each instance whether a particular case, which might be classified as “special” by its very nature as a public interest case, is special enough to rise to the level where the unusual measure of ordering costs would be appropriate.
+39 One factor to be borne in mind by the court in making this determination is that in a public law case costs will not always be awarded to the successful party if, for example, that party is the government and the opposing party is an individual Charter claimant of limited means. Indeed, as the B. (R.) case demonstrates, it is possible (although still unusual) for costs to be awarded in favour of the unsuccessful party if the court considers that this is necessary to ensure that ordinary citizens will not be deterred from bringing important constitutional arguments before the courts. Concerns about prejudging the issues are therefore attenuated in this context since costs, even if awarded at the end of the proceedings, will not necessarily reflect the outcome on the merits. Another factor to be considered is the extent to which the issues raised are of public importance, and the public interest in bringing those issues before a court.
+40 With these considerations in mind, I would identify the criteria that must be present to justify an award of interim costs in this kind of case as follows:
+1. The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial — in short, the litigation would be unable to proceed if the order were not made.
+2. The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means.
+3. The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases.
+41 These are necessary conditions that must be met for an award of interim costs to be available in cases of this type. The fact that they are met in a particular case is not necessarily sufficient to establish that such an award should be made; that determination is in the discretion of the court. If all three conditions are established, courts have a narrow jurisdiction to order that the impecunious party’s costs be paid prospectively. . . .
+. . .
+46 Applying the criteria I have set out to the evidence in this case as assessed by the chambers judge, it is my view that each of them is met. The respondents are impecunious and cannot proceed to trial without an order for interim costs. The case is of sufficient merit that it should go forward. The issues sought to be raised at trial are of profound importance to the people of British Columbia, both aboriginal and non‑aboriginal, and their determination would be a major step towards settling the many unresolved problems in the Crown‑aboriginal relationship in that province. In short, the circumstances of this case are indeed special, even extreme.
+[Emphasis in original.]
+[11] In Okanagan, the Supreme Court of Canada was dealing with land rights litigation involving the extent of native rights to log on a Crown land in order to build desperately needed homes on a reserve. The Court upheld an advanced costs order and concluded that the issues to be raised at trial were of profound importance to the people of British Columbia, both aboriginal and non‑aboriginal.
+[12] The Supreme Court of Canada returned to the issue of advanced costs awards in Little Sisters Book and Art Emporium v. Canada (Commissioner of Customs and Revenue), 2007 SCC 2, [2007] 1 S.C.R. 38. In reviewing the Okanagan principles, the Supreme Court wrote:
+2 The situation in Okanagan was clearly out of the ordinary. The bands had been thrust into complex litigation against the government that they could not pay for, and the case raised issues vital both to their survival and to the government’s approach to aboriginal rights. The issue before the Court in that case was whether the bands’ inability to pay should have the effect of leaving constitutional rights unenforceable and public interest issues unresolved. Mindful of the serious consequences to the bands and of the contours of the anticipated litigation, this Court decided that a real injustice would result if the courts refused to exercise their equitable jurisdiction in respect of costs and if, as a consequence, the bands’ impecuniosity prevented the trial from proceeding.
+. . .
+5 The fact that the appellant’s claim would not be summarily dismissed does not suffice to establish that interim costs should be granted to allow it to proceed. That is not the proper test. Quite unfortunately, financial constraints put potentially meritorious claims at risk every day. Faced with this dilemma, legislatures have offered some responses, although these may not address every situation. Legal aid programs remain underfunded and overwhelmed. Self‑representation in courts is a growing phenomenon. Okanagan was not intended to resolve all these difficulties. The Court did not seek to create a parallel system of legal aid or a court‑managed comprehensive program to supplement any of the other programs designed to assist various groups in taking legal action, and its decision should not be used to do so. The decision did not introduce a new financing method for self‑appointed representatives of the public interest. This Court’s ratio in Okanagan applies only to those few situations where a court would be participating in an injustice — against the litigant personally and against the public generally — if it did not order advance costs to allow the litigant to proceed.
+. . .
+33 An exceptional convergence of factors occurred in Okanagan. At the individual level, the case was of the utmost importance to the bands. They were caught in a grave predicament: the costs of the litigation were more than they could afford, especially given pressing needs like housing; yet a failure to assert their logging rights would seriously compromise those same needs. On a broader level, the case raised aboriginal rights issues of great public importance. There was evidence that the land claim advanced by the bands had prima facie merit, but the courts had yet to decide on the precise mechanism for advancing such claims — the fundamental issue of general importance had not been resolved by the courts in other litigation. However the case was ultimately decided, it was in the public interest to have the matter resolved. For both the bands themselves and the public at large, the litigation could not, therefore, simply be abandoned. In these exceptional circumstances, this Court held that the public’s interest in the litigation justified a structured advance costs order insofar as it was necessary to have the case move forward.
+. . .
+37 The nature of the Okanagan approach should be apparent from the analysis it prescribes for advance costs in public interest cases. A litigant must convince the court that three absolute requirements are met (at para. 40):
+1. The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial — in short, the litigation would be unable to proceed if the order were not made.
+2. The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means.
+3. The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases.
+In analysing these requirements, the court must decide, with a view to all the circumstances, whether the case is sufficiently special that it would be contrary to the interests of justice to deny the advance costs application, or whether it should consider other methods to facilitate the hearing of the case. The discretion enjoyed by the court affords it an opportunity to consider all relevant factors that arise on the facts.
+38 It is only a “rare and exceptional” case that is special enough to warrant an advance costs award: Okanagan, at para. 1. The standard was indeed intended to be a high one, and although no rigid test can be applied systematically to determine whether a case is “special enough”, some observations can be made. As Thackray J.A. pointed out, it was in failing to verify whether the circumstances of this case were “exceptional” enough that the trial judge committed an error in law.
+39 First, the injustice that would arise if the application is not granted must relate both to the individual applicant and to the public at large. This means that a litigant whose case, however compelling it may be, is of interest only to the litigant will be denied an advance costs award. It does not mean, however, that every case of interest to the public will satisfy the test. The justice system must not become a proxy for the public inquiry process, swamped with actions launched by test plaintiffs and public interest groups. As compelling as access to justice concerns may be, they cannot justify this Court unilaterally authorizing a revolution in how litigation is conceived and conducted.
+40 Second, the advance costs award must be an exceptional measure; it must be in the interests of justice that it be awarded. Therefore, the applicant must explore all other possible funding options. These include, but are not limited to, public funding options like legal aid and other programs designed to assist various groups in taking legal action. An advance costs award is neither a substitute for, nor a supplement to, these programs. An applicant must also be able to demonstrate that an attempt, albeit unsuccessful, has been made to obtain private funding through fundraising campaigns, loan applications, contingency fee agreements and any other available options. If the applicant cannot afford all costs of the litigation, but is not impecunious, the applicant must commit to making a contribution to the litigation. Finally, different kinds of costs mechanisms, like adverse costs immunity, should also be considered. In doing so, courts must be careful not to assume that a creative costs award is merited in every case; such an award is an exceptional one, to be granted in special circumstances. Courts should remain mindful of all options when they are called upon to craft appropriate orders in such circumstances. Also, they should not assume that the litigants who qualify for these awards must benefit from them absolutely. In the United Kingdom, where costs immunity (or “protective orders”) can be ordered in specified circumstances, the order may be given with the caveat that the successful applicant cannot collect anything more than modest costs from the other party at the end of the trial: see R. (Corner House Research) v. Secretary of State for Trade and Industry, [2005] 1 W.L.R. 2600, [2005] EWCA Civ 192, at para. 76. We agree with this nuanced approach.
+. . .
+44 A court awarding advance costs must be guided by the condition of necessity. For parties with unequal financial resources to face each other in court is a regular occurrence. People with limited means all too often find themselves discouraged from pursuing litigation because of the cost involved. Problems like this are troubling, but they do not normally trigger advance costs awards. We do not mean to minimize their unfairness. On the contrary, we believe they are sufficiently serious that this Court cannot purport to solve them all through the mechanism of advance costs awards. Courts should not seek on their own to bring an alternative and extensive legal aid system into being. That would amount to imprudent and inappropriate judicial overreach.
+[13] Most recently, the Supreme Court of Canada again considered the issue of advanced costs orders in R. v. Caron, 2011 SCC 5. In Caron, the Supreme Court upheld such an order in the context of a language rights challenge applicable to the laws of Alberta and the Alberta Languages Act’s purported abolition of French minority language rights in the province. It was the engagement of this fundamental aspect of the rule of law throughout a province that made the case sufficiently special to warrant such an award per the Court.
+[14] The Federal Court has recently issued an advanced costs order in Daniels v. Canada, 2011 FC 230, a case which is expected to determine whether 200,000 Métis and non‑status Indians are “Indians” for purposes of the Canadian Constitution.
+[15] This Court has also recently been called upon to decide an advanced costs order in Édouard Robertson c. La Reine, 2011 CCI 83. I will discuss this decision in more detail below. In Édouard Robertson, as in the present motion, neither counsel questioned this Court’s jurisdiction to make such an order if it concluded one was warranted.
+II. Prima Facie Meritorious
+[16] There is some question whether these cases satisfy the Okanagan prima facie meritorious requirement. This concern arises in particular because of this Court’s decision in Walkus v. The Queen, 98 DTC 1857 (sub nom. Bell et al. v. The Queen), which decision was upheld by the Federal Court of Appeal in Bell et al. v. The Queen, 2000 DTC 6365.
+[17] The Walkus/Bell decisions involved the taxability of off‑reserve fishing income of taxpayers living on Vancouver Island coastal reserves. The courts found it to be taxable after applying the Williams connecting factors test. At trial, the taxpayers advanced the argument that one of the significant connecting factors which should be given great weight was the tradition of fishing as a way of life among B.C. coastal Indians, its intimate connection with the reserves and with the bands’ traditional way of life. This was rejected by Bowie J. given, among other things, the lack of evidence before him of any historic commercial fishing activity associated with the coastal reserves.
+[18] On appeal to the Federal Court of Appeal, the Native Indian Brotherhood sought to intervene and to file historical documents regarding an alleged connection between reserve allotments to coastal Indian bands and fishing activities of those bands. The intervention was denied, however, without prejudice to the right of the Appellants to ask the Court to take judicial notice of the historical documents which had not been before the trial judge. As a result, historical documents were put to the panel and were found not to establish a historical tradition of commercial fishing.
+[19] It is very important to note that the majority of the historical documents upon which the Appellants on this motion are relying were before the Federal Court of Appeal in Bell.
+[20] I do not need to decide whether the Okanagan prima facie meritorious precondition is met in these cases because, as detailed below, even if all three Okanagan preconditions are presumed to be met, I conclude that these appeals do not rise to the level of special, rare and exceptional circumstances which warrant the favourable exercise of my discretion in the granting of an advanced costs order.
+III. Impecuniosity
+[21] The Respondent argues strenuously that the Okanagan impecuniosity requirement is not met in these circumstances and refers to second homes, Cadillacs, boats, new cars and comfortable income levels. The Court is satisfied on the evidence before it, including the incomes, assets and expenses of the Appellants, and their ages, that they will not likely be able to pay $350,000 of legal fees.
+[22] The Respondent also points out that the Appellants have made no financial contribution whatsoever to the legal fees to date of pursuing these appeals, nor did they propose to make any. This is a valid concern, shared by the Court. However, I think that the issue of contributions from or through the Appellants would be best dealt with as a condition of the funding order and its mechanics if the Court were to decide to make such an order, which it is not. I note that this is consistent with the comments on contributions of the Ontario Superior Court of Justice in Keewatin v. Ontario (Minister of Natural Resources), [2006] O.J. No. 3418 (QL).
+[23] Again, given my decision that these are not special, exceptional or rare circumstances, I do not have to finally decide if the Okanagan impecuniosity requirement is met.
+IV. Special, Rare and Exceptional Circumstances
+[24] The determining factor in these cases is that they do not rise to the level of particular circumstances warranting an advanced costs order even if the three Okanagan preconditions are met.
+[25] The litigation in Okanagan involved native land claims by several bands and logging rights on Crown lands, to be used to refurbish the poor housing stock on the bands’ reserves, matters described by the Court as profoundly important to all British Columbians. Caron involved an attempted provincial repeal of minority language rights and the possible invalidity of the province’s statute books. Daniels involves whether 200,000 Métis and non‑status Indians are Indians for purposes of the Indian Act and all rights and benefits which flow therefrom.
+[26] I am simply unable to see these income tax appeals as being in the same category as those where such orders have been made. These are personal tax appeals of three individuals involving the taxation of a fraction of their income. Their outcome may affect another 100 taxpayers’ pending objections. Undoubtedly, it may also affect such persons’ future tax liabilities. These people have not invested any amount towards the cost of these appeals, nor has any other person, band or organization who or whose members are perhaps similarly situate. There is not anyone else before the Court as intervenor or affiant confirming the significance of these appeals. The bands and the Native Indian Brotherhood and its members were asked to contribute or participate but have declined. The potentially affected taxpayers have not even funded the expert’s report which is budgeted at $40,000: It is for these reasons that I am dismissing the Appellants’ motion and not requiring Canadian taxpayers generally to fund these tax appeals.
+[27] In reaching this decision, I find strong support in the decision of Tardif J. in Édouard Robertson. That appears to be the only other decision of this Court involving a request for an advanced costs order. In dismissing that request, Tardif J. similarly observed that there was doubt that the prima facie meritorious requirement had been met given the state of the jurisprudence and, in any event, was not satisfied that the circumstances were of the special, rare and exceptional nature warranting such an order.
+[28] The motion is dismissed. If the parties wish to address costs, they may file written submissions within 30 days.
+Signed at Ottawa, Canada, this 8th day of April 2011.
+“Patrick Boyle”
+Boyle J.
+CITATION: 2011 TCC 205
+COURT FILE NOS.: 2007-1761(IT)G
+2007-1765(IT)G
+2007-1768(IT)G
+STYLE OF CAUSE: GERALDINE ROBERTS,
+STANLEY HUNT,
+C. AUBREY ROBERTS
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 31, 2011
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: April 8, 2011
+APPEARANCES:
+Counsel for the Appellants:
+Niki Sharma
+Counsel for the Respondent:
+Raj Grewal
+Perry Derksen
+COUNSEL OF RECORD:
+For the Appellants:
+Name: C. Allan Donovan
+Firm: Donovan & Company
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

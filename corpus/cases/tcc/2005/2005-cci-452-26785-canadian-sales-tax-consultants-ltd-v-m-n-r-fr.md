@@ -1,0 +1,165 @@
+---
+title: "Canadian Sales Tax Consultants Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26785/index.do"
+last_modified: "2005-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 452"
+citation2: ""
+neutral_citation: "2005 CCI 452"
+decision_date: "2005-09-06"
+language: "fr"
+item_id: "26785"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3465
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:33:17.032000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa85c72a32ba2b89555ec261117bb8ff3f624ecd0d87f1ed9a915f7d079fb3e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Sales Tax Consultants Ltd. v. M.N.R.
+
+- Citation: 2005 CCI 452
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3465, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Sales Tax Consultants Ltd. v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-06
+Référence neutre
+2005 CCI 452
+Numéro de dossier
+2004-3597(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3597(EI)
+ENTRE :
+CANADIAN SALES TAX CONSULTANTS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de Canadian Sales Tax Consultants Ltd. 2004-3598(CPP) le 16 juin 2005 à Toronto (Ontario)
+Devant : l'honorable juge suppléant W. E. MacLatchy
+Comparutions
+Représentant de l'appelante :
+Frederick H. Fisher
+Avocate de l'intimé :
+Me Annie Paré
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 6e jour de septembre 2005.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Marc Doyon, traducteur
+Dossier : 2004-3598(CPP)
+ENTRE :
+CANADIAN SALES TAX CONSULTANTS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de Canadian Sales Tax Consultants Ltd. 2004-3597(EI) le 16 juin 2005 à Toronto (Ontario)
+Devant : l'honorable juge suppléant W. E. MacLatchy
+Comparutions
+Représentant de l'appelante :
+Frederick H. Fisher
+Avocate de l'intimé :
+Me Annie Paré
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 6e jour de septembre 2005.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Marc Doyon, traducteur
+Référence : 2005CCI452
+Date : 20050906
+Dossiers : 2004-3597(EI)
+2004-3598(CPP)
+ENTRE :
+CANADIAN SALES TAX CONSULTANTS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Les appels ont été entendus sur preuve commune par consentement, le 16 juin 2005, à Toronto (Ontario).
+[2] L'appelante a interjeté appel à l'encontre d'une décision de l'intimé sur la question de savoir si l'emploi que Connie McGirr (la « travailleuse » ) exerçait pour l'appelante au cours de la période allant du 1er janvier 2001 au 19 novembre 2003 était un emploi assurable et ouvrant droit à pension au sens de la Loi sur l'assurance-emploi (la « Loi » ) et du Régime de pensions du Canada (le « Régime » ).
+[3] Par voie de lettre en date du 7 juin 2004, l'intimé a informé la travailleuse et l'appelante qu'il avait été déterminé que l'emploi exercé par la travailleuse au cours de la période en cause était un emploi assurable et ouvrant droit à pension selon l'alinéa 5(1)a) de la Loi et l'alinéa 6(1)a) du Régime respectivement.
+[4] Connie McGirr a témoigné pour elle-même et pour le seul actionnaire de l'appelante, Headly Tulloch, qui est à l'étranger pour des raisons de santé.
+[5] Les hypothèses invoquées par l'intimé figurent au paragraphe 4 de la réponse de l'intimé à l'avis d'appel. D'une façon générale, le témoin a reconnu que les hypothèses étaient en grande partie exactes. L'entreprise de l'appelante consistait à aider des Églises et des organismes de bienfaisance enregistrés à obtenir des remboursements de taxe de vente provinciale (TVP) et de taxe sur les produits et services (TPS). L'appelante est la propriété exclusive de Headly Tulloch, qui l'exploite à partir de son domicile et en contrôle l'activité quotidienne ainsi que l'orientation. La travailleuse avait été engagée en vertu d'une convention écrite signée le 13 octobre 1998, laquelle convention a été déposée comme pièce A-1.
+[6] La travailleuse était chargée de solliciter et obtenir de nouveaux clients et de négocier un contrat relatif aux services de l'appelante, ainsi que la commission devant être payée. Les fonctions de la travailleuse sont énumérées à l'alinéa h) des hypothèses susmentionnées, et la travailleuse devait remplir ces fonctions chez elle ainsi que dans les bureaux du client. La travailleuse était rémunérée à un taux horaire, plus une commission pour les nouveaux contrats, et ses frais de kilométrage étaient payés. La travailleuse devait présenter des factures détaillant les services fournis, les heures consacrées et le kilométrage parcouru et elle était alors payée par chèque à cet égard ainsi que pour les frais qu'elle avait engagés à l'extérieur de la ville. La travailleuse déterminait ses heures de travail et n'a pas été régulièrement supervisée, si ce n'est pendant les quelques premiers mois de son engagement. L'appelante pouvait mettre un terme aux services de la travailleuse en lui donnant un préavis à cet effet, en conformité avec la convention d'engagement.
+[7] La question que notre cour doit trancher est de savoir si la travailleuse avait été engagée aux termes d'un contrat de louage de services, auquel cas elle était un employé de l'appelante, ou si elle avait été engagée aux termes d'un contrat d'entreprise, auquel cas elle était un entrepreneur indépendant. Dans la première hypothèse, il s'agissait d'un emploi assurable et ouvrant droit à pension, tandis que, dans la deuxième hypothèse, l'emploi n'était pas assurable et n'ouvrait pas droit à pension.
+[8] Des indications ont été fournies par la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, et une jurisprudence s'est élaborée par la suite et a été précisée par l'arrêt de la Cour suprême du Canada 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Dans cet arrêt, le juge Major a procédé à un examen utile du droit et de son évolution, ce qui aide à déterminer quelle relation existait entre l'appelante et la travailleuse.
+[9] Il est clair qu'il n'y a pas qu'un seul et unique critère pour déterminer l'arrangement en matière d'emploi existant entre les parties. Au début, on estimait que la question du contrôle exercé sur le travailleur par l'employeur était primordiale et déterminait la relation existant entre les parties. Il est devenu clair qu'il convenait également de prendre en compte d'autres facteurs comme la question de savoir à qui appartenait le matériel et la question de savoir si le travailleur avait mis des fonds dans l'entreprise et avait des chances d'en tirer un bénéfice ou courait le risque de subir une perte dans l'hypothèse où l'entreprise échouerait. Un autre critère était de savoir à qui appartenait l'entreprise et si le travailleur était à son compte ou s'il faisait simplement partie intégrante de l'entreprise de l'employeur et était donc un employé. Ces critères sont tous utiles mais ne sont pas décisifs lorsqu'il faut déterminer la relation en matière d'emploi existant entre les parties. La relation entre les parties doit être soigneusement examinée dans son ensemble.
+[10] En l'espèce, la question litigieuse du contrôle semblerait favoriser l'existence d'une relation employeur-employé. La travailleuse n'avait pas été engagée par l'appelante pour une mission précise; elle avait été engagée pour une période indéterminée. La travailleuse apportait ses compétences en communication, sa capacité de se servir d'un ordinateur et sa capacité d'utiliser la base de données de l'appelante, ainsi qu'une honnêteté et une intégrité fondamentales, mais aucune compétence se rapportant tout particulièrement à l'entreprise de l'appelante. La travailleuse a été formée par le propriétaire pendant une période de trois à six mois durant laquelle elle se présentait au bureau de l'appelante et respectait les heures de travail fixées par cette dernière. On lui fournissait un téléphone et d'autre matériel appartenant au propriétaire, et elle se servait du bureau de l'appelante. Ses compétences dans le domaine de l'entreprise s'étant développées, la travailleuse avait pu travailler à partir de chez elle et allait de temps en temps au bureau de l'appelante pour remettre des chèques de clients, ainsi que les contrats qu'elle avait obtenus, pour présenter ses factures détaillant ses heures travaillées et son travail accompli, pour présenter ses demandes de remboursement de frais engagés à l'extérieur de la ville et pour recevoir des chèques représentant le paiement de telles factures. La supervision devant être exercée par l'appelante sur la travailleuse a été minime une fois terminée la période initiale de formation, car la travailleuse était une communicatrice très habile qui pouvait habituellement se débrouiller seule, à moins que des conseils du propriétaire aient été nécessaires. Il était clair, toutefois, que les factures présentées incluaient l'information que le propriétaire pouvait utiliser pour évaluer les services - le rendement - de la travailleuse. L'appelante avait le droit de mettre fin à l'emploi comme elle l'entendait. Il s'agissait d'une relation suivie dont la durée n'était pas déterminée.
+[11] Le contrat d'emploi indique nettement l'existence d'une relation employeur-employé. La travailleuse acceptait de fournir des services pour l'appelante selon ce qui lui était ordonné relativement à l'entreprise de l'appelante. Le témoin, Connie McGirr, a déclaré que le contrat était mal rédigé et n'indiquait pas la véritable teneur de l'entente entre les parties, mais il semble que ce document soit évident et indique que, lorsqu'il a été établi, l'intention des parties était qu'il s'agisse d'un contrat de louage de services.
+[12] Mme McGirr a également témoigné qu'elle fournissait d'autres services, plus personnels, pour le propriétaire (qui vit à l'étranger), par exemple obtenir et expédier pour lui des articles qui n'avaient rien à voir avec l'entreprise de l'appelante et pour lesquels la travailleuse était payée à un taux horaire.
+[13] L'achalandage était celui de l'appelante, et la travailleuse y accédait et l'utilisait quotidiennement.
+[14] Le contrôle semblait être entre les mains de l'appelante.
+[15] L'appelante fournissait de l'espace dans ses bureaux pour la travailleuse lorsque celle-ci y allait pour les fins de l'entreprise. La travailleuse oeuvrait généralement à partir de chez elle ou de son véhicule. En outre, elle utilisait son propre téléphone cellulaire et son propre ordinateur. Elle était payée pour l'utilisation de son véhicule, selon le kilométrage parcouru, et les frais qu'elle engageait à l'extérieur de la ville lui étaient remboursés. Le critère de la propriété des instruments de travail semblerait neutre et n'aide guère à établir la relation existant entre les parties.
+[16] Le revenu de la travailleuse reflétait les heures consacrées à l'entreprise de l'appelante et non une part du profit effectif de l'appelante. La travailleuse n'avait pas investi dans l'appelante et ne pouvait augmenter son revenu qu'en travaillant de plus longues heures ou en augmentant ses commissions.
+[17] De même, la travailleuse ne subissait aucune perte si l'appelante n'était pas payée par le client. Son revenu ne dépendait pas du bénéfice ou de la perte de l'exploitation de l'entreprise, sauf que la travailleuse pouvait perdre son emploi si l'entreprise échouait complètement. Ces facteurs étayent l'existence d'un arrangement entre les parties qui indique un lien de dépendance.
+[18] Bien que Mme McGirr ait maintenant un autre client à part l'appelante, il s'agit d'un contact récent. Pendant la période en cause, la travailleuse n'avait pas d'autre emploi et n'exploitait pas sa propre entreprise commerciale. Elle faisait partie intégrante de l'entreprise de l'appelante; elle ne travaillait pas à son compte. Elle était le seul expert-conseil en vente pour l'appelante et représentait un élément nécessaire de l'exploitation de l'appelante.
+[19] La travailleuse a témoigné pour l'appelante que les parties entendaient que la travailleuse soit un entrepreneur indépendant, mais un examen de l'ensemble de la preuve quant à leur arrangement n'étaye pas l'existence d'une telle intention. Les intentions des parties peuvent être utiles quand il y a peu de preuves contraires. Dans ce cas-ci, les intentions des parties ne sont pas convaincantes. Mme McGirr a déclaré qu'elle a maintenant l'intention de constituer sa propre entreprise et d'exploiter son entreprise indépendamment de l'appelante. Une vision rétrospective est une vision parfaite.
+[20] La conclusion en l'espèce est que la travailleuse était un employé de l'appelante travaillant en vertu d'un contrat de louage de services, de sorte que les appels sont rejetés.
+Signé à Toronto (Ontario), ce 6e jour de septembre 2005.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Marc Doyon, traducteur
+RÉFÉRENCE : 2005CCI452
+Nos DE DOSSIER DE LA COUR : 2004-3597(EI) et 2004-3598(CPP)
+INTITULÉ DE LA CAUSE : CANADIAN SALES TAX CONSULTANTS LTD. ET M.R.N.
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : le 16 juin 2005
+MOTIFS DU JUGEMENT PAR : l'honorable juge suppléant W. E. MacLatchy
+DATE DU JUGEMENT : le 6 septembre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Frederick H. Fisher
+Avocate de l'intimé :
+Me Annie Paré
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

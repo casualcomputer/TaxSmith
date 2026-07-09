@@ -1,0 +1,199 @@
+---
+title: "Blott c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304336/index.do"
+last_modified: "2018-01-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 1"
+citation2: ""
+neutral_citation: "2018 CCI 1"
+decision_date: "2018-01-02"
+language: "fr"
+item_id: "304336"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7903
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:03:29.467000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d1f8ab8bf44ed78bc4f2f1b243faf19d0df31a35c808da5eede80177098693f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blott c. La Reine
+
+- Citation: 2018 CCI 1
+- Decision date: 2018-01-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7903, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blott c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-02
+Référence neutre
+2018 CCI 1
+Numéro de dossier
+2017-1818(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1818(IT)I
+ENTRE :
+RANDALL F. BLOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 12 décembre 2017, à Calgary (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu en ce qui concerne les années d’imposition 2012 et 2013 sont rejetés.
+Signé à Ottawa, Canada, ce 2e jour de janvier 2018.
+« Campbell J. Miller »
+Juge C. Miller
+Référence : 2018 CCI 1
+Date : 20180102
+Dossier : 2017-1818(IT)I
+ENTRE :
+RANDALL F. BLOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Blott interjette appel des nouvelles cotisations du ministre du Revenu national (le « ministre ») établies pour ses années d’imposition 2012 et 2013, sous le régime de la procédure informelle, dans lesquelles le ministre a rejeté la déduction de dépenses d’emploi indiquées par M. Blott. Il s’agissait d’une dépense de 12 000 $ qui, selon M. Blott, a été payée chaque année à titre de salaire pour son épouse.
+[2] Pendant les années en question, M. Blott était un courtier sur le marché auprès de Walton Capital Management Inc. (« WCM »), la division des valeurs mobilières de Walton International Corp. Dans un contrat de travail de gestionnaire de comptes en date du 3 janvier 2012 conclu entre M. Blott et WCM, ses fonctions ont été décrites ainsi :
+[traduction]
+1) établir la clientèle de l’employé ainsi que ses propres transactions pour les produits de la société;
+2) accroître la propre clientèle d’affaires de l’employé tant à l’intérieur qu’à l’extérieur de la société;
+3) appuyer la clientèle existante de l’employé;
+4) offrir un soutien pour présenter les entités qui sont acceptables pour la société et qui collaborent avec cette dernière à l’extérieur de ses bureaux;
+5) aider les autres courtiers inscrits à vendre les produits de la société;
+6) respecter l’ensemble des règles et règlements découlant de la Securities Act quant à la conduite d’un courtier;
+7) se conformer à toutes les politiques et procédures applicables du manuel de conformité;
+8) participer à toutes les journées de perfectionnement professionnel;
+9) assumer les autres tâches et responsabilités d’un gestionnaire de compte que la société peut lui donner de temps à autre.
+[3] M. Blott a présenté de façon très détaillée le niveau le travail requis pour assumer ses fonctions. Il était de toute évidence travaillant et prospère, ayant gagné 436 000 $ en 2012 et 526 420 $ en 2013. Il accomplissait son travail partout dans l’Ouest canadien, même si la majeure partie se déroulait à Calgary.
+[4] WCM a fourni une aide à M. Blott sous forme d’un adjoint, dont il partageait les services avec d’autres personnes, ainsi qu’un département de formation. WCM a fourni à M. Blott un formulaire T2200 dans lequel elle a répondu par la négative à la question de savoir si le contrat d’emploi obligeait M. Blott à payer les services d’un adjoint.
+[5] Pendant quelques années avant celles en litige, la conjointe de M. Blott, Suzanne Thériault, l’a aidé dans son travail. Pour 2011 et 2012, M. Blott a conclu qu’il était approprié qu’elle soit récompensée pour ces services. Mme Thériault n’a pas témoigné, mais M. Blott a fourni une liste de fonctions qu’elle accomplissait :
+[TRADUCTION]
+– gestion et vérification des recettes et des dépenses de l’entreprise;
+– rapprochement des dépenses par rapport à la carte de crédit AMEX de l’entreprise;
+– paiement des factures de la carte de crédit AMEX de l’entreprise;
+– rapprochement des dépenses et des recettes;
+– vérification et déclaration des commissions de suivi;
+– tri, production, vérification et saisie des recettes de l’entreprise;
+– préparation de l’impôt sur le revenu;
+– préparation de boîtes-cadeaux à des fins promotionnelles;
+– préparation et mise à la poste de cartes de célébration;
+– préparation de sacs-cadeaux à des fins promotionnelles;
+– livraison d’articles promotionnels;
+– accueil de clients à la maison;
+– recherche de nouveaux clients à l’école;
+– recherche de nouveaux clients aux activités de notre club sportif ou autre;
+– réseautage.
+[6] M. Blott a insisté pour dire qu’à plus d’une occasion l’accomplissement par Mme Thériault de ces services a été essentiel pour lui permettre d’établir une clientèle et d’obtenir sa commission et des primes. Il a déclaré qu’il n’était pas intéressé par la gestion des questions administratives et de celles liées aux dépenses. Il a donné un exemple où Mme Thériault lui a présenté un client qui s’est avéré un investisseur important.
+[7] M. Blott n’a présenté aucun document attestant la vérification par Mme Thériault des recettes et des dépenses, le rapprochement de ces dépenses par rapport à la carte AMEX, l’accomplissement de ces rapprochements, la vérification des commissions de suivi et le tri des recettes. Il a déclaré que la somme de 12 000 $, ou de 1 000 $ par mois était arbitraire, indiquant qu’il croyait qu’elle était plus que raisonnable comparativement au niveau de commission qu’il a obtenue et à la valeur qu’il accorde à ses contributions. Il n’a pas donné à Mme Thériault de chèque ni fait de transfert de fonds puisqu’ils avaient un compte conjoint et qu’il ne croyait pas qu’il était pratique de le faire. Il a indiqué que Mme Thériault a déclaré la somme de 12 000 $ à titre de revenu dans sa déclaration, même s’il ne lui a pas remis de feuillet T4.
+[8] Lorsqu’il a produit ses déclarations de revenus pour 2012 et 2013, en particulier la déclaration des dépenses d’emploi, la somme de 12 000 $ n’a pas été indiquée de façon distincte, mais a été placée sous l’intitulé [traduction] « équipement du bureau ».
+[9] L’avocat de l’intimée a défini la question sous deux aspects : d’abord, la dépense de 12 000 $ a-t-elle été réellement engagée à titre de salaire pour un adjoint et, le cas échéant, respecte-t-elle les exigences législatives prévues à l’article 8 de la Loi de l’impôt sur le revenu (la « Loi »)? Deux dispositions peuvent s’appliquer : les alinéas 8(1)f) et 8(1)i) qui sont ainsi rédigés :
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous-alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+[…]
+i) les sommes payées par le contribuable au cours de l’année, ou les sommes payées pour son compte au cours de l’année si elles sont à inclure dans son revenu pour l’année, au titre :
+[…]
+ii. du loyer de bureau ou du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+[...]
+[10] Il est également important de mentionner le paragraphe 8(10) de la Loi :
+Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[11] Me penchant sur la première question, je remarque que les deux dispositions exigent qu’un montant soit dépensé ou payé, en vertu de l’alinéa 8(1)f) de la Loi, pour gagner le revenu provenant d’emploi et en vertu de l’alinéa 8(1)i)(ii) de la Loi pour le salaire d’un adjoint. Alors, la somme de 12 000 $ a‑t‑elle été payée ou dépensée par M. Blott? Aucun chèque n’a été émis au nom de Mme Thériault. Le revenu de M. Blott était déposé dans le compte conjoint et Mme Thériault pouvait simplement y avoir accès. Un montant a-t-il été payé à Mme Thériault dans ces circonstances? Je conclus que cela n’a pas été le cas. Mme Thériault, à titre de titulaire conjointe du compte, pouvait en fait retirer toutes les sommes qu’elle souhaitait, bien au-delà de 12 000 $ par année. En effet, elle-même ou M. Blott pouvait retirer n’importe quelle somme du compte. Dans ces circonstances, je ne vois pas comment une somme aurait pu être payée à Mme Thériault ou dépensée à son intention. Elle n’a reçu rien de plus que ce qu’elle avait déjà. M. Blott m’a renvoyé à la décision Aprile c Sa Majesté la Reine[1] dans laquelle la déduction pour une dépense d’emploi a été permise au motif que le « paiement » pouvait être fait en nature (motoneiges, motos). Ce n’est pas la situation dont je suis saisi. Personne n’a fait valoir que des sommes ont été payées en nature; en effet, aucune somme n’a été payée. Tout ce qui est arrivé c’est que M. Blott, à la fin de l’année, lorsqu’il a produit sa déclaration, a déclaré une somme de 12 000 $ à titre de dépense salariale dans la réalisation de son revenu d’emploi. Le fait que le « paiement » a été dissimulé sous [traduction] « équipement de bureau » dans la déclaration de son revenu ne m’a pas échappé. Bien que je n’en fasse pas le reproche à M. Blott, puisque la déclaration a été préparée par son comptable, cela soulève certaines préoccupations en ce qui concerne cette dépense alléguée.
+[12] Dans la décision Burlando c Sa Majesté la Reine2[2], l’appelant a expliqué que lui et son épouse n’avaient qu’un seul compte et qu’il n’était pas logique de la rémunérer au moyen d’un chèque qu’elle déposerait dans leur compte conjoint. Le juge V. Miller a conclu ce qui suit :
+16. En conclusion, j’estime que l’appelant ne s’est pas acquitté du fardeau qui lui incombait de prouver que la nouvelle cotisation était erronée. Il n’a pas établi que Bonita travaillait vraiment pour lui et qu’il lui avait versé un salaire. En pareil cas, s’il existe une présumée relation professionnelle entre parties ayant un lien de dépendance, la Cour devrait disposer de documents ou d’éléments de preuve indépendants à l’appui de cette relation professionnelle. […]
+[13] Pour établir l’existence d’une relation de travail employeur-employé dans le cadre d’une situation avec lien de dépendance, il est important qu’il y ait certains éléments preuve d’un salaire payé, du fait que le bénéficiaire d’un traitement a réellement reçu un avantage au-delà de ce qui pourrait découler du cadre ordinaire du partage par un époux et une épouse d’un compte conjoint. En outre, M. Blott n’a remis aucun feuillet T4 à son épouse. Selon la prépondérance des probabilités, je conclus qu’aucun salaire n’a été payé à Mme Thériault, selon ce que prévoit la Loi.
+[14] En outre, même si je conclus qu’un montant a été payé, il doit l’avoir été pour un salaire ou afin de produire un revenu. La première éventualité exige l’existence d’une relation employeur-employé. Encore une fois, M. Blott ne m’a pas convaincu sur ce point. Mme Thériault n’a pas témoigné pour parler des fonctions qu’a décrites M. Blott. Les heures n’ont pas été fixées, mais elle a travaillé, selon M. Blott, sur demande. Il n’a pu fournir d’éléments preuve de ses efforts sauf pour formuler l’observation générale qu’il n’aurait pas gagné autant sans son aide. Cette observation est simplement trop vague pour appuyer l’existence d’une relation d’emploi. Je conclus qu’aucun montant n’a été versé à titre de salaire pour un adjoint.
+[15] Les autres exigences de l’alinéa 8(1)f), du sous-alinéa 8(1)i)(ii) et du paragraphe 8(10) de la Loi ont-elles été respectées? Selon les exigences clés, M. Blott doit démontrer qu’il était tenu par contrat d’emploi d’effectuer ces dépenses. Comme on le fait remarquer dans la décision Tulman c Sa Majesté la Reine[3] :
+29. Il y a une distinction entre le fait d’être autorisé à faire quelque chose et celui d’être obligé de faire quelque chose, comme l’a signalé le juge Bowie dans la décision Morgan c Canada, 2007 CCI 475, […]
+30. À défaut d’une exigence expressément énoncée dans un contrat écrit, s’il est tacitement entendu par l’employeur et l’employé qu’un tel paiement doit être fait et que ce paiement est nécessaire à l’exercice des fonctions requises, cela suffit.
+[16] Ce point est confirmé dans Massicolli c Sa Majesté la Reine[4] :
+66. Il ressort de la jurisprudence que l’obligation d’embaucher et de payer le salaire d’une adjointe, au sens du sous-alinéa 8(1)i)(ii) de la LIR, peut être implicite, et le caractère essentiel de la dépense suffit à conclure à l’obligation implicite d’embaucher et de rémunérer une adjointe.
+67. Dans la décision Schnurr, citée par l’avocat de l’appelant, cette Cour a établi qu’il n’est pas nécessaire que l’obligation d’embaucher une adjointe et de payer son salaire soit explicite. L’obligation peut se dégager implicitement de la relation entre l’employeur et l’employé.
+68. Ce principe de l’exigence implicite a été repris dans les décisions Sauvé c. R., Vickers c. R. et Morgan c. R.
+69. Pourtant, il est important de noter qu’il ne suffit pas que le contrat d’emploi autorise le contribuable à engager et à payer le salaire d’une adjointe. Il doit l’exiger. Dans la décision Morgan, précitée, le juge Bowie a insisté sur le sens du terme « obligeait » au sous-alinéa 8(1)i)(ii) :
+Le verbe « obliger » figurant dans la version française de la Loi et le verbe « to require » employé dans la version anglaise sont tous deux nécessairement impératifs.
+70. Dans la décision Morgan, le juge Bowie n’a pu conclure à l’existence implicite de l’obligation, l’appelant ayant témoigné que son contrat d’emploi l’autorisait, mais ne l’obligeait pas, à embaucher et à rémunérer une adjointe.
+71. En l’espèce, l’appelant a témoigné expressément que la FBN n’exigeait pas qu’il embauche et rémunère une adjointe; ce choix était laissé à sa discrétion. La décision Morgan est claire à cet effet : le verbe « obliger » au sous‑alinéa 8(1)i)(ii) est impératif.
+[17] Le contrat d’emploi conclu par M. Blott et WMC prévoyait-il implicitement qu’il était « obligé » d’engager les dépenses d’un adjoint salarié? Rien dans le témoignage de M. Blott n’appuie l’existence une telle exigence implicite. Oui, il travaillait très fort, en y mettant de longues heures, et il en a récolté les bénéfices. Son employeur lui a fourni une certaine aide. Il ne travaille plus pour WMC, et personne de son ancien employeur n’est venu témoigner. Il a lui-même décidé de demander à son épouse de l’aider et cette décision ne découlait pas d’une exigence implicite de son contrat conclu avec WMC.
+[18] Je combine ce point de vue au fait qu’on a répondu par la négative dans la déclaration T2200 en ce qui concerne l’exigence d’embaucher un adjoint et je conclus que l’exigence prévue au paragraphe 8(10) de la Loi n’a tout simplement pas été respectée.
+[19] M. Blott a témoigné de façon franche. Il a versé des montants importants en impôt au gouvernement. Le montant qu’il souhaitait déduire était minime comparativement à ses gains. On comprend facilement sa préoccupation quant au refus du gouvernement et maintenant mon rejet de ses appels. Il n’a pas agi de façon déraisonnable, mais il n’a simplement pas fourni suffisamment d’éléments de preuve d’une exigence implicite ou explicite d’emploi d’embaucher un adjoint, d’une déclaration T2200 dans laquelle on a répondu par l’affirmative, d’un paiement réel de salaire ou d’une preuve de travail accompli pour ce salaire. En l’absence de tous ces éléments, je dois rejeter ses appels.
+Signé à Ottawa, Canada, ce 2e jour de janvier 2018.
+« Campbell J. Miller »
+Juge C. Miller
+RÉFÉRENCE :
+2018 CCI 1
+No DU DOSSIER DE LA COUR :
+2017-1818(IT)I
+INTITULÉ :
+RANDALL F. BLOTT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 12 décembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 2 janvier 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1]
+[2] 2014 CCI 92.
+[3] 2014 CCI 140.
+[4] 2012 CCI 344.

@@ -1,0 +1,123 @@
+Title: Duke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30694/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-41-30694-duke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-02-01
+
+# Duke v. The Queen
+
+- Citation: 2012 TCC 41
+- Decision date: 2012-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7192, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-01
+Neutral citation
+2012 TCC 41
+File numbers
+2011-1953(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1953(IT)I
+BETWEEN:
+MICHAEL E. DUKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 25, 2012 at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devi Ramachandran
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed.
+Signed at Ottawa, Canada this 1st day of February 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012 TCC 41
+Date: 20120201
+Docket: 2011-1953(IT)I
+BETWEEN:
+MICHAEL E. DUKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Michael Duke, is appealing the reassessment under the Income Tax Act (the “Act”) of his 2009 taxation year.
+[2] In reassessing, the Minister of National Revenue disallowed his claim for non-refundable tax credits in respect of one of his two children for a “wholly dependant person” under paragraph 118(1)(b) and a “child amount” under paragraph 118(1)(b.1) of the Act. The basis for the Minister’s reassessment was subsection 118(5) which states that no amount may be deducted under the above provisions where the taxpayer is required to pay a support amount under subsection 56.1(4) in respect of the person for whom the deduction is claimed.
+[3] The Appellant’s position is that although in 2009 there was an order in place which required him to pay child support, it no longer reflected the reality of the children’s custodial arrangements; he argued further that the order is so vaguely worded as not to bring his situation within subsection 118(5).
+[4] The Appellant was the only witness to testify. In 2008, he and the mother of their two children (“Children’s Mother”) separated. On February 20, 2008, an order (“2008 Order”)[1] was issued, the relevant portions of which read:
+…
+UPON the Court being advised that the name and birth dates of each child is as follows:
+M.J.D.-G, born November 11, 2003
+L.A.D.-G., born November 25, 2005
+(the “Children”)
+…
+THIS COURT ORDERS that:
+1. [the Appellant] payor,… pay to [the Children’s mother], recipient, for the interim support of the Children, the sum of $300.00 per month, being $150.00 on the 1st and 15th of each and every month, commencing March 1st, 2008 until further order of this Court…
+[5] The 2008 Order was subsequently varied by an order dated May 28, 2009 (“2009 Order”)[2], the relevant provisions of which read:
+…
+UPON the name and birth date of the biological children of the [Children’s Mother] and the [Appellant] as follows:
+M.J.D.-G, born November 11, 2003 and,
+L.A.D.-G., born November 25, 2005
+(the “Children”)
+…
+THIS COURT ORDERS by consent that the [2008 Order], shall be varied as follows:
+1. The parties shall share joint guardianship and joint custody of the Children.
+2. The parties shall have split primary residence of the Children with the [Appellant] having primary care and residence of M.J.D.-G.; and the [Children’s Mother] having primary care and residence of L.A.D.-G.
+3. The “Parenting Schedule” and the access to the Children shall be as follows:
+a) That the Defendant have access to the child, L.A.D.-G.
+i) every weekend from 3 p.m. on Friday until 8 p.m. on Sunday.
+ii) from 3 p.m. until 8 p.m. on Monday, Tuesday, Wednesday and Thursday.
+b) That the Plaintiff have access to the child, M.J.D.-G;
+i) from 8 p.m. on Sunday until 3 p.m. on Monday.
+c) The Defendant returns the child M.J.D.-G. to the Plaintiff’s house at 6:45 a.m. every Tuesday, Wednesday and Thursday to facilitate the timing of the defendant’s work schedule and for the plaintiff to drop the child off at school.
+…
+6. The Child Support shall be varied to provide pursuant to the Federal Child Support Guidelines that the [Appellant] shall pay the [Children’s Mother] $550.00 a month, payable commencing on the first day of June, 2009 and continuing on the 1st day of each and every month.
+[6] The Appellant’s evidence was that regardless of the custody arrangements provided for in the 2008 Order and the 2009 Order, in 2009 he was, in fact, taking care of both children. As a result, he stopped paying child support to the Children’s Mother. In these circumstances, he argued, he ought to be able to claim the wholly dependant person and child amount deductions for the child who was ordered to be in the primary care and residence of the Children’s Mother. However, as was discussed with the Appellant during the hearing, as long as the 2009 Order requiring the payment of child support is in effect, he is bound by its terms. Accordingly, even if he did not pay the child support ordered does not mean he was not “required to” within the meaning of subsection 118(5) of the Act.
+[7] The Appellant’s alternative argument was that paragraph 6 of the 2009 Order does not specify for whom the child support was to be paid. Accordingly, the Court ought to interpret it to mean that he was required to pay child support only in respect of one of the children.
+[8] While out of sympathy for the Appellant’s circumstances it would be tempting to accept that argument, it would, I think, be wrong in law. The 2009 Order must be read in light of the 2008 Order. The child support ordered to be paid in the 2008 Order was in respect of the ‘Children”, a term clearly defined in the preamble to the 2008 Order (reproduced above) as including both M.J.D.-G. and L.A.D.-G. Any ambiguity there may be in the 2009 Order is dispelled by the reference in its preamble to the same two Children. Notwithstanding the “Parenting Schedule” setting out the details of the custodial arrangements for the Children, nothing in the 2009 Order suggests any change to the Appellant’s requirement in the 2008 Order to pay child support in respect of both Children.
+[9] For these reasons, the appeal from the reassessment of the 2009 taxation year must be dismissed.
+Signed at Ottawa, Canada this 1st day of February 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012 TCC 41
+COURT FILE NO.: 2011-1953(IT)I
+STYLE OF CAUSE: MICHAEL E. DUKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 25, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: February 1, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devi Ramachandran
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tab 1.
+[2] Exhibit R-1, Tab 2.

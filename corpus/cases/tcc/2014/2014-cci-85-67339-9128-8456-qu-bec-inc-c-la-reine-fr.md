@@ -1,0 +1,193 @@
+---
+title: "9128-8456 Québec inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67339/index.do"
+last_modified: "2014-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 85"
+citation2: ""
+neutral_citation: "2014 CCI 85"
+decision_date: "2014-03-18"
+language: "fr"
+item_id: "67339"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5316
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:04:24.400000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c29174b1cc0352b69f6f176c7ac9dea3b85f4060b46fafdf0a55c4ef09ea400"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9128-8456 Québec inc. c. La Reine
+
+- Citation: 2014 CCI 85
+- Decision date: 2014-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5316, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9128-8456 Québec inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-18
+Référence neutre
+2014 CCI 85
+Numéro de dossier
+2012-794(GST)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-794(GST)G
+ENTRE :
+9128-8456 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Directive quant aux dépens de l’audience tenue le 28 janvier 2014
+à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Ancien avocat de l’appelante inscrit au dossier :
+Me Guy Matte
+Avocat de l’intimée :
+Me Danny Galarneau
+____________________________________________________________________
+ORDONNANCE
+Vu les observations écrites au sujet des dépens dans la présente affaire;
+LA COUR ORDONNE :
+Tel qu’il est précisé dans les motifs de l’ordonnance ci‑joints, la Cour ordonne que l’ancien avocat de l’appelante inscrit au dossier, Me Guy Matte, lui rembourse les dépens de la manière suivante :
+a) Me Matte remboursera à l’appelante, sans délai, les deux tiers des dépens adjugés à l’intimée et payables par l’appelante, soit 5 000 $, conformément à l’alinéa 152(1)b) des Règles de la Cour canadienne de l’impôt (procédure générale);
+b) une fois que Me Matte aura remboursé l’appelante, il enverra une lettre à la Cour pour l’en informer;
+c) la nouvelle avocate de l’appelante inscrite au dossier enverra sans délai à l’appelante une copie de la présente ordonnance et des motifs de l’ordonnance.
+Signé à Ottawa, Canada, ce 18e jour de mars 2014.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2014 CCI 85
+Date : 20140318
+Dossier : 2012-794(GST)G
+ENTRE :
+9128-8456 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Les présents motifs ont trait à la question de savoir si l’appelante devrait être indemnisée par son avocat au titre de l’article 152 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») à l’égard des dépens qu’elle est tenue de payer. L’appelante exploite une entreprise d’aménagement paysager prospère dont le chiffre d’affaires s’élève à 2 000 000 $. L’audition de la question de fond, qui a trait à des factures de complaisance présumées, n’a pas encore commencé. L’adjudication des dépens en cause découle de l’audition des requêtes décrites ci‑dessous.
+[2] L’appelante a déposé l’avis d’appel en février 2012. Pendant toute la période pertinente, l’appelante était représentée par Me Guy Matte de Montréal. Me Matte est avocat et comptable agréé, et est également titulaire d’une maîtrise en fiscalité. Il exerce le droit par l’entremise de Me Fiscalex inc., principalement dans le domaine de la fiscalité. En février 2013, la Cour a rendu une ordonnance fixant l’audience de l’appel au mardi 28 janvier 2014, l’audience devant durer une journée. Le 28 novembre 2013, Me Matte a confirmé par écrit à la Cour que l’appelante était prête à procéder à l’audience de l’appel prévue le 28 janvier 2014. L’avocat de l’intimée a lui aussi confirmé que l’intimée était prête à aller de l’avant quelques jours plus tard.
+[3] Le 23 janvier 2014, soit le jeudi précédent l’audience devant avoir lieu le mardi suivant, l’avocat de l’appelante a écrit à la Cour pour l’aviser que plus d’une journée serait nécessaire pour la tenue de l’audience et pour demander qu’une deuxième date d’audience soit fixée. La Cour a communiqué avec Me Matte le jour suivant, soit le vendredi 24 janvier, pour l’informer que l’affaire serait instruite mardi et que le juge du fond (c’est‑à‑dire moi‑même) verrait comment l’audience progresserait et pourrait fixer une autre date d’audience pour terminer l’audience si cela était nécessaire, mais que les séances du juge cette semaine‑là à Montréal étaient par ailleurs consacrées aux audiences d’autres parties.
+[4] L’avocat de l’intimée a demandé à la Cour qu’une conférence de gestion de l’instance soit tenue au cours de l’après‑midi du vendredi 24 janvier, en vue d’examiner la question de savoir s’il serait nécessaire pour l’intimée de faire comparaître plusieurs témoins à l’audience devant avoir lieu mardi à Montréal au cas où la preuve de l’appelante serait présentée plus rapidement que Me Matte s’y attendait, maintenant que les attentes de celui‑ci avaient changé.
+[5] À 16 h, j’ai présidé une brève conférence téléphonique de gestion de l’instance de dix minutes. Il a été décidé que l’instruction commencerait mardi, comme prévu, et que la présence des témoins de l’intimée ne serait pas requise ce jour‑là. Il a aussi été question de la possibilité de tenir une deuxième journée d’audience au cas où une autre affaire que je devais instruire le jour suivant, mercredi, et qui devait durer trois jours était réglée, était ajournée ou se terminait plus rapidement que prévu. Me Matte a fait savoir que sa cliente et lui seraient disponibles ces trois jours‑là pour poursuivre la tenue de l’audience. L’avocat de l’intimée a dit qu’il devait se présenter devant une autre cour le mercredi, mais que l’intimée pourrait reprendre l’audience le jeudi ou le vendredi si le juge devenait disponible.
+[6] Comme j’ai l’habitude de le faire, j’ai conclu la conférence de gestion de l’instance en demandant aux parties s’il y avait d’autres questions préliminaires ou préalables dont nous devrions discuter ou à l’égard desquelles je pourrais les aider. Aucune question n’a été soulevée.
+[7] Malgré tout, Me Matte a envoyé par télécopieur à l’avocat de l’intimée une liste de documents modifiée une demi‑heure plus tard. Comme la liste a été envoyée par Me Matte après 16 h 30 ce vendredi‑là, soit après la fermeture des bureaux de l’avocat de l’intimée (et, du reste, du greffe de la Cour), l’avocat de l’intimée n’a reçu le document que le lundi matin avant la tenue de l’audience. Non seulement Me Matte n’a pas soulevé la question de la liste de documents modifiée au cours de la conférence de gestion de l’instance, il n’a pas non plus téléphoné à l’avocat de l’intimée ou autrement essayé de communiquer avec lui pour l’aviser de l’envoi d’un tel document. Me Matte a déposé par voie électronique la liste de documents modifiée et la preuve de signification auprès de la Cour tout juste avant 17 h ce vendredi‑là.
+[8] Le lundi 27 janvier, l’avocat de l’intimée a communiqué avec la Cour pour demander un ajournement, compte tenu du fait qu’il avait besoin de temps pour examiner les documents supplémentaires ajoutés à la liste de documents de l’appelante, pour voir s’il y avait lieu de modifier la réponse de l’intimée en conséquence, ainsi que pour voir s’il était nécessaire de présenter des éléments de preuve supplémentaires en réponse. L’avocat de l’intimée voulait que l’ajournement soit accordé le jour même pour éviter d’avoir à aller de Québec à Montréal en pleine tempête de neige. J’ai décidé que la demande serait aussi examinée au début de l’audience le jour suivant.
+[9] Le mardi, au début de l’audience, la demande présentée par l’appelante au sujet de sa liste de documents modifiée, ainsi que la demande d’ajournement présentée par l’intimée pour examiner les documents supplémentaires et peut-être pour déposer une réponse modifiée, ont été entendues en premier. L’avocat de l’intimée a fait savoir que les documents supplémentaires figurant sur la liste de l’appelante semblaient élargir la portée des questions à trancher au-delà de la question des factures de complaisance présumées et inclure d’autres éléments de la cotisation. Il a aussi dit que de nombreux documents avaient été ajoutés. Au cours de l’audition de ces demandes, l’avocat de l’appelante a informé la Cour qu’il demandait aussi l’autorisation de déposer un avis d’appel modifié.
+[10] Après que les deux parties eurent présenté des observations détaillées, j’ai décidé que l’audience serait ajournée sine die pour permettre à l’appelante de déposer un avis d’appel modifié et pour permettre à l’intimée de déposer une réponse modifiée dans des délais précis. Compte tenu des circonstances dont il a été question, y compris la présentation extrêmement tardive par l’appelante de sa demande visant à obtenir une deuxième date d’audience, la présentation encore plus tardive par l’appelante de sa demande visant à obtenir l’autorisation de déposer une liste de documents modifiée, le non‑respect évident par l’appelante de l’article 87 des Règles, qui exige qu’une partie modifie sa liste de documents dès qu’elle s’aperçoit que celle‑ci est incomplète ou inexacte, le fait que l’appelante a continué de faire fi de l’article 87 des Règles au cours de la conférence de gestion de l’instance de la Cour, et le fait que l’appelante a demandé l’autorisation de modifier son avis d’appel le jour même de l’audience, la Cour a condamné l’appelante à des dépens de 7 500 $. (Bien que cela n’ait pas été précisé dans l’ordonnance, la Cour s’attend à ce que les dépens soient payés sans délai.)
+[11] Au cours de l’audience, la Cour a avisé Me Matte qu’elle se demandait si elle devait rendre une ordonnance en vertu de l’article 152 des Règles et exiger qu’il indemnise sa cliente pour la totalité ou une partie des dépens adjugés et elle lui a demandé de présenter des observations écrites à la Cour à ce sujet. La Cour a fait clairement savoir qu’elle était très préoccupée par le fait que Me Matte n’avait pas respecté l’article 87 des Règles et qu’il n’avait mis à jour sa liste de documents que tout juste avant l’audience. La Cour a aussi clairement fait savoir qu’elle était encore plus préoccupée par le fait que Me Matte n’avait pas soulevé la question lors de la conférence de gestion de l’instance tenue le vendredi après‑midi, alors qu’elle lui avait expressément demandé s’il y avait d’autres questions qui devaient être abordées, et qu’il avait malgré tout envoyé une liste de documents modifiée à l’intimée moins de trente minutes plus tard, puis l’avait déposée à la Cour.
+[12] À l’audience, Me Matte a confirmé que les souvenirs qu’il avait concernant la conférence téléphonique de gestion de l’instance étaient les mêmes que les miens. Selon l’explication qu’il a donnée, bien qu’il puisse comprendre qu’il soit difficile pour moi de le croire, il n’a pas agi ainsi pour piéger l’intimée ou pour induire la Cour en erreur. Cela lui était juste sorti de l’idée. Me Matte a raison de dire que la Cour a de la difficulté à le croire. La Cour n’ajoute pas foi à l’explication qu’il a donnée à l’audience et ne l’accepte pas.
+[13] La Cour a reçu les observations écrites de Me Matte, qui ont été suivies des observations écrites de l’avocat de l’intimée, puis de la réponse écrite de Me Matte aux observations de l’intimée.
+Le droit applicable
+[14] Article 87 des Règles :
+Liste incomplète
+87. Lorsque, à un moment quelconque après la signification d’une liste de documents sous le régime de l’article 81 ou de l’article 82, la partie s’aperçoit que la liste était inexacte ou incomplète pour quelque raison que ce soit, cette partie doit signifier immédiatement une liste supplémentaire précisant l’inexactitude ou décrivant le document.
+Article 152 des Règles :
+Responsabilité de l’avocat quant aux dépens
+152.(1) Si l’avocat d’une partie a fait engager des dépens à tort ou sans raison valable, ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission, la Cour peut, par directive :
+a) lui refuser les dépens en totalité ou en partie sur une base procureur‑client;
+b) lui enjoindre de rembourser son client des dépens que celui-ci est tenu de payer à une autre partie;
+c) lui enjoindre d’indemniser l’autre partie en réduisant les dépens payables par celle‑ci.
+(2) La directive visée au paragraphe (1) peut être donnée par la Cour, de son propre chef ou à la suite d’une requête d’une partie à l’instance; elle ne peut être donnée que si l’avocat a eu une occasion raisonnable d’être entendu par la Cour.
+(3) La Cour peut prescrire que le client de l’avocat visé par une directive donnée en application du paragraphe (1) en soit avisé de la façon prévue par la directive.
+[15] J’ai déjà résumé les circonstances dans lesquelles la Cour peut ordonner que les dépens soient payés personnellement par l’avocat d’une partie en vertu de l’article 152 des Règles et en vertu du pouvoir inhérent de la Cour de réprimer l’abus de procédures et l’outrage au tribunal. Dans la décision Dacosta c. La Reine, 2008 CCI 136, je me suis exprimé de la façon suivante :
+[20] Tant la compétence inhérente de la Cour que la compétence que lui confère la loi à l’article 152 des Règles lui permettent de condamner l’avocat à payer les dépens. Il s’agit dans les deux cas d’une adjudication extraordinaire des dépens.
+[21] Dans l’arrêt Young c. Young, [1993] 4 R.C.S. 3, (1993), 108 D.L.R. (4th) 46, de la Cour suprême du Canada, Mme la juge en chef McLachlin a déclaré ce qui suit au nom de la majorité :
+Il est évident que les tribunaux ont compétence en la matière, souvent en vertu d’une loi et, en tout état de cause, en vertu de leur pouvoir inhérent de réprimer l’abus de procédures et l’outrage au tribunal […]
+[22] Une cour supérieure a compétence inhérente pour rendre une ordonnance condamnant personnellement un avocat aux dépens afin de réprimer l’abus de procédures et l’outrage au tribunal et d’exercer un contrôle sur la conduite de ses propres fonctionnaires. En revanche, l’article 152 des Règles élargit sans équivoque les situations dans lesquelles il est possible de rendre des ordonnances de cette nature si l’avocat a fait engager des dépens sans raison valable ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission.
+[J’omets l’article 152.]
+[23] L’exigence prévue par la common law en matière de compétence inhérente voulant que le tribunal doive conclure à l’existence de mauvaise foi ne constitue manifestement pas une condition préalable aux termes de l’article 152 des Règles. Il faut donner aux mots employés dans cette disposition leur sens ordinaire. Il n’est nullement nécessaire que la conduite de l’avocat constitue un abus, de la négligence ou de la mauvaise foi. Voir, à titre d’exemple, les récentes décisions ontariennes Walsh v. 1124660 Ontario Ltd. et al., [2007] O.J. No. 639, et Standard Life Assurance Co. v. Elliott et al., [2007] O.J. No. 2031.
+[24] Dans la décision Standard Life, Mme la juge Molloy tient les propos suivants au paragraphe 25 :
+[traduction] Cependant, ce n’est pas parce que les actes d’un avocat correspondent aux circonstances bien définies dans lesquelles il peut être personnellement condamné aux dépens que la Cour doit exercer son pouvoir discrétionnaire en ce sens. Au contraire, le pouvoir discrétionnaire de la Cour doit être exercé avec modération et uniquement dans des situations exceptionnelles.
+La juge Molloy reproduit ensuite avec approbation une partie du paragraphe 115 des motifs prononcés par M. le juge Granger dans la décision Marchand (Litigation Guardian of) v. Public General Hospital Society of Chatham, [1998] O.J. No. 527 [C. de l’Ont. (Div. gén.)] :
+[traduction] Si on donne aux termes employés à l’article 57.07 des Règles leur sens ordinaire, l’avocat qui a fait engager des dépens sans raison valable ou par suite de retards abusifs, par négligence ou par une autre omission peut être condamné à les payer personnellement.
+Le juge Granger ajoute plus loin :
+[traduction] Même s’il n’est pas nécessaire que l’avocat ait agi avec « mauvaise foi » pour que des sanctions lui soient infligées en application de l’article 57.07 des Règles, les ordonnances de cette nature ne doivent être rendues qu’en de rares circonstances et elles ne doivent pas avoir pour effet de dissuader les avocats de défendre des causes impopulaires ou difficiles. Ce n’est que lorsque l’avocat poursuit un objectif qui est manifestement inatteignable ou lorsqu’il manque manifestement à ses obligations à titre de fonctionnaire judiciaire qu’il convient de recourir à l’article 57.07 des Règles.
+[25] Bien que l’article 152 des Règles de la Cour soit à certains égards différent de l’article 57.07 des règles ontariennes, notamment en ce qu’il ne fait pas mention de négligence, mais bien de mauvaise conduite, les propos formulés par la juge Molloy et le juge Granger s’appliquent également à l’examen de l’article 152 des Règles.
+[26] Il ressort de la plupart des décisions portant sur la condamnation personnelle de l’avocat aux dépens que les tribunaux sont soucieux de ne pas dissuader les avocats de défendre des causes impopulaires ou d’avancer des thèses nouvelles et non encore éprouvées. Ces préoccupations ne s’appliquent pas en l’espèce. Il s’agit simplement d’un avocat dont le comportement envers la Cour et l’omission de se conformer à une ordonnance judiciaire sont inexcusables. Au paragraphe 17 de ses motifs prononcés dans la décision Walsh, Mme la juge Lane renvoie aux propos tenus par M. le juge Quinn dans la décision Belanger v. McGrade Estate, [2003] O.J. No. 2853 (C.S.J.) :
+[traduction] [L’avocat] a fait engager des dépens sans raison valable ou les a fait augmenter inutilement par son omission de fournir à l’avocat du demandeur les éléments nécessaires dans le délai fixé par l’ordonnance du juge Marshall. Cela n’a rien à voir avec la représentation courageuse d’un client.
+Le pouvoir discrétionnaire conféré au paragraphe 57.07(1) doit être exercé avec la plus grande prudence et uniquement dans les cas les plus évidents. Un doute, quel qu’il soit, doit jouer en faveur de l’avocat. Néanmoins, même en tenant compte de ces mises en garde, je crois que ce qui s’est produit dans la présente affaire correspond précisément au genre de situation visée par cette disposition des Règles.
+[27] Je ne puis mieux exprimer la situation dont je suis saisi en l’espèce.
+[28] Les faits de la présente affaire sont différents de ceux de la décision Jurchison, 2000 DTC 1660, où, pour paraphraser M. le juge Bowie, la conduite de l’avocat n’était tout simplement pas conforme au degré de civilité qui a déjà caractérisé et devrait encore caractériser la façon dont les membres du barreau se comportent dans leurs relations réciproques. En l’espèce, l’avocat de l’appelant n’a tenu aucun compte d’une ordonnance de la Cour et il a omis de communiquer avec cette dernière au sujet de cette omission. La présente affaire ressemble davantage aux situations dont la Cour était saisie dans les décisions Whiteway c. Canada (1998CCI91158, [1998] A.C.I. no 84, [1998] 2 C.T.C. 3254), et Anctil v. Canada, 97 DTC 1462.
+[16] Les observations de Me Matte sont les suivantes :
+i) ce n’est que par inattention qu’il n’a rien dit au sujet de ces questions lors de la conférence de gestion de l’instance;
+ii) il n’a pu préparer le dossier avec son client qu’en janvier;
+iii) son surcroît de travail a nui à son jugement;
+iv) l’omission s’est produite pendant une période de stress et de mauvaise perception et ne visait pas à tromper ou à induire en erreur;
+v) une ordonnance de la Cour lui enjoignant d’indemniser sa cliente pour les dépens adjugés à l’encontre de cette dernière nuirait grandement à la relation avocat‑client[1];
+vi) il souffre d’apnée du sommeil, ce qui entraîne une baisse de son énergie et de ses niveaux d’adrénaline. Antérieurement, cela faisait qu’il était difficile pour lui de gérer ses dossiers. La situation s’est cependant améliorée. La lettre du médecin en annexe confirme le diagnostic d’apnée du sommeil et décrit les risques physiques et médicaux connexes et la nécessité de traiter l’apnée du sommeil au moyen d’un appareil médical.
+[17] Dans ses observations, l’intimée a soulevé les points suivants :
+i) d’après elle, l’ajournement de l’audience à la dernière minute, près d’un an après que la date d’audience eut été fixée, est imputable à l’avocat de l’appelante, et non à l’appelante;
+ii) d’après elle, l’avocat de l’appelante n’a pas respecté les règles et les procédures de la Cour plus tôt dans l’instance. Selon l’échéancier convenu et ordonné par la Cour pour franchir les étapes préalables à l’instruction, les interrogatoires préalables devaient être terminés au plus tard le 30 novembre 2012. Me Matte a communiqué avec l’avocat de l’intimée le 14 novembre en vue d’établir le calendrier de l’interrogatoire préalable de l’intimée. On l’a informé le jour suivant que l’avocat de l’intimée ne serait pas disponible avant le 30 novembre. Me Matte n’a toutefois demandé à la Cour d’établir un nouvel échéancier que le 31 janvier 2013;
+iii) l’avocat de l’intimée a communiqué avec Me Matte le 7 janvier en vue de discuter du dossier et des intentions de l’appelante par rapport à l’audience du 28 janvier. Me Matte n’a pas répondu, et l’avocat de l’intimée a communiqué de nouveau avec lui le 23 janvier. À ce moment‑là, Me Matte a confirmé que la seule question était celle des crédits de taxe sur les intrants relatifs aux factures de complaisance présumées. Il n’a pas parlé du fait qu’il y avait de nouveaux documents.
+Analyse et conclusion
+[18] Je n’admets pas que Me Matte ait de bonne foi omis de respecter les Règles de la Cour relatives à la mise à jour de documents, de répondre à la question claire que j’ai posée lors de la conférence de gestion de l’instance, ou bien de respecter ses obligations et d’assumer son rôle en tant qu’officier de justice. Il semble très clair qu’il a choisi d’user de stratégie en ne se montrant pas tout à fait franc et sincère avec la Cour, de même qu’en trompant et en induisant en erreur la Cour ainsi que l’intimée et l’avocat de celle‑ci. Ces omissions intentionnelles de sa part ont, de façon assez prévisible, directement empêché la tenue de l’audience le jour prévu, qui avait été fixé il y a longtemps, ce qui a donné lieu à l’adjudication de dépens à l’encontre de sa cliente.
+[19] En me fondant sur les observations qui ont été déposées, je ne vois aucun lien de causalité entre les actes de Me Matte et son apnée du sommeil. Bien que l’apnée du sommeil puisse être un trouble médical très grave, les observations de Me Matte, la lettre du médecin et l’article paru dans une revue figurant en annexe ne donnent pas à penser que l’apnée du sommeil puisse amener une personne à tromper les autres ou à les induire en erreur, ou bien à oublier une discussion qu’elle vient tout juste d’avoir. Je tiens également à souligner que Me Matte n’a pas soulevé la question de l’apnée du sommeil dans ses premières observations écrites principales. Il l’a seulement soulevée en réponse aux observations de l’intimée.
+[20] Une ordonnance judiciaire enjoignant à un avocat d’indemniser son client pour la totalité ou une partie des dépens aura immanquablement des répercussions sur la relation avocat‑client. Les répercussions de cette ordonnance ne seront probablement qu’accessoires aux répercussions sur la relation avocat‑client des actes de l’avocat ayant donné lieu à l’ordonnance.
+[21] Compte tenu des circonstances, je suis tout à fait convaincu qu’il est satisfait aux exigences de l’article 152 des Règles, de même qu’aux conditions préalables au titre du pouvoir inhérent que possède la Cour, et qu’il s’agit clairement d’un cas exceptionnel dans lequel il convient d’ordonner que les dépens adjugés soient payés personnellement par l’avocat. Bien que la bonne foi se présume selon le Code civil, je suis convaincu que Me Matte n’a pas agi de bonne foi au cours de l’après‑midi du 24 janvier. Il a agi de façon délibérée et intentionnelle, dans le but de tromper et d’induire en erreur, et n’a pas respecté les Règles et les obligations qu’il avait envers la Cour. Tout cela est tout à fait inexcusable. Ce que j’ai dit aux paragraphes 26 à 28 de la décision Dacosta, précitée, vaut également pour la façon dont Me Matte s’est comporté dans la présente affaire.
+[22] C’est le comportement de Me Matte qui est à l’origine de l’issue de l’audience du 28 janvier, y compris de l’adjudication de dépens à l’encontre de sa cliente. Les dépens ont été fixés à 7 500 $ non pas pour être punitifs, mais pour bien refléter, vu les observations des parties, les frais supportés inutilement en raison de la position stratégique adoptée à la dernière minute, en raison de laquelle l’intimée a dû se préparer pour une audience qui n’a pas pu avoir lieu, puis a dû examiner des éléments de preuve nouvellement divulgués et un avis d’appel modifié, ainsi qu’y répondre. Les dépens reflétaient aussi de façon appropriée le gaspillage de ressources publiques correspondant, en plus du temps perdu par l’avocat de l’intimée, de même que par les témoins du ministère du Revenu du Québec et les ressources de la Cour.
+[23] La Cour ordonne que l’ancien avocat de l’appelante Me Matte, lui rembourse sans délai les deux tiers des dépens adjugés à l’intimée et payables par l’appelante, soit 5 000 $, conformément à l’alinéa 152(1)b) des Règles. Une fois que Me Matte aura remboursé l’appelante, celui‑ci doit envoyer une lettre à la Cour pour l’en informer.
+[24] Compte tenu des circonstances, la Cour enverra une copie de l’ordonnance et des motifs de l’ordonnance à Me Matte et à la nouvelle avocate de l’appelante inscrite au dossier, laquelle devra envoyer sans délai à l’appelante une copie de l’ordonnance et des motifs de l’ordonnance.
+Signé à Ottawa, Canada, ce 18e jour de mars 2014.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2014 CCI 85
+NO DU DOSSIER DE LA COUR : 2012-794(GST)G
+INTITULÉ : 9128-8456 QUÉBEC INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 28 janvier 2014
+MOTIFS DE L’ORDONNANCE : L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE : Le 18 mars 2014
+COMPARUTIONS :
+Ancien avocat de l’appelante inscrit au dossier :
+Me Guy Matte
+Avocat de l’intimée :
+Me Danny Galarneau
+ANCIEN AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : Me Guy Matte
+Cabinet: Me Fiscalex inc.
+500, Place d’Armes, bureau 2400
+Montréal (Québec) H2Y 2W2
+NOUVELLE AVOCATE INSCRITE AU DOSSIER :
+Pour l’appelante :
+Nom : Me Caroline Desrosiers
+Cabinet : CD Legal inc.
+4455, autoroute 440 Ouest, bureau 205
+Laval (Québec) H7P 4W6
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Depuis le dépôt des observations de Me Matte, l’appelante a déposé un avis de changement d’avocat. La nouvelle avocate de l’appelante a quant à elle déposé un avis d’appel modifié, qui se limite à la question des crédits de taxe sur les intrants relatifs aux factures de complaisance présumées.

@@ -1,0 +1,264 @@
+Title: Straessle (Succession) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/316315/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-144-316315-straessle-succession-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-07-17
+
+# Straessle (Succession) c. La Reine
+
+- Citation: 2018 CCI 144
+- Decision date: 2018-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4958, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Straessle (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-17
+Référence neutre
+2018 CCI 144
+Numéro de dossier
+2017-809(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-809(IT)G
+ENTRE :
+SUCCESSION DE WINIFRED STRAESSLE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 9 avril 2018 à Toronto (Ontario)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocat de l’appelante :
+Me James G. Morand
+Avocat de l’intimée :
+Me Paul Kilppenstein
+ORDONNANCE
+VU l’avis de requête daté du 19 janvier 2018 déposé par l’intimée et les autres documents (la « requête ») visant l’obtention :
+d’une ordonnance cassant ou radiant l’avis d’appel ou en supprimant des passages pour défaut de qualité d’agir, au motif que la personne qui a déposé l’avis d’appel n’avait pas la capacité juridique d’introduire une instance pour le compte de la succession de Winifred Straessle, en application de l’alinéa 53(3)c) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+d’une ordonnance radiant l’avis d’appel ou en supprimant des passages, au motif qu’aucun avis d’opposition valide n’a été déposé et que, par conséquent, il n’a pas été satisfait à une condition préalable pour interjeter appel, en application de l’alinéa 53(3)b) des Règles;
+à titre subsidiaire, d’une ordonnance radiant l’avis d’appel en application de l’alinéa 53(1)d) des Règles, au motif que l’avis d’appel ne contient pas de faits pertinents se rapportant au bien-fondé des cotisations apparemment en cause et ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel, aux termes de l’alinéa 53(1)d) des Règles;
+également à titre subsidiaire, d’une ordonnance prorogeant de 15 jours à partir de la date de l’ordonnance le délai dans lequel l’intimée doit déposer sa réponse;
+des dépens de la présente requête.
+ET VU les observations des parties;
+Conformément aux motifs du jugement ci-joints, LA COUR ORDONNE CE QUI SUIT :
+La requête est rejetée avec dépens à l’appelante;
+L’intimée disposera de 15 jours à partir de la date de la décision définitive sur la présente requête pour déposer sa réponse; cette décision définitive sera la décision ultime que rendra notre Cour, la Cour d’appel fédérale ou la Cour suprême du Canada.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2018.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+ce 1er jour d’avril 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 144
+Date : 20180717
+Dossier : 2017-809(IT)G
+ENTRE :
+SUCCESSION DE WINIFRED STRAESSLE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. LA REQUÊTE
+[1] L’intimée a déposé un avis de requête auprès de notre Cour le 19 janvier 2018 (la « requête ») en vue d’obtenir ce qui suit :
+une ordonnance cassant ou radiant l’avis d’appel ou en supprimant des passages pour défaut de qualité d’agir, au motif que la personne qui a déposé l’avis d’appel n’avait pas la capacité juridique d’introduire une instance pour le compte de la succession de Winifred Straessle (la « succession »), en application de l’alinéa 53(3)c) des Règles de la cour canadienne de l’impôt (procédure générale) (les « Règles »);
+une ordonnance radiant l’avis d’appel ou en supprimant des passages, au motif qu’aucun avis d’opposition valide n’a été déposé et que, par conséquent, il n’a pas été satisfait à une condition préalable pour interjeter appel, en application de l’alinéa 53(3)b) des Règles;
+à titre subsidiaire, une ordonnance radiant l’avis d’appel en application de l’alinéa 53(1)d) des Règles, au motif que l’avis d’appel ne contient pas de faits pertinents se rapportant au bien-fondé de la cotisation apparemment en cause et ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel, aux termes de l’alinéa 53(1)d) des Règles;
+également à titre subsidiaire, une ordonnance prorogeant de 15 jours à partir de la date de l’ordonnance le délai dans lequel l’intimée doit déposer sa réponse;
+les dépens de la présente requête.
+[2] L’intimée a déposé à l’appui de sa requête une déclaration sous serment faite par Thivya Logananthan.
+II. LES FAITS
+[3] Le 31 octobre 2014, le ministre du Revenu national (le « ministre ») a établi des nouvelles cotisations à l’égard de la succession pour les années d’imposition 1992 à 1996 en vertu de la Loi de l’impôt sur le revenu (L.R.C. 1985, ch. 1 (5e suppl.), avec ses modifications successives) (la « Loi »), en y augmentant le revenu imposable (y compris les intérêts moratoires) (les « nouvelles cotisations »). L’Agence du revenu du Canada (l’« ARC ») a envoyé des avis de nouvelle cotisation aux soins de Mme Greta Hansen, à son adresse personnelle à Ottawa. Cette adresse, inscrite aux dossiers de l’ARC, était valide à compter du 20 octobre 2014.
+[4] Mme Hansen est la fille de feue Winifred Straessle.
+[5] Par des avis datés du 20 janvier 2015, Mme Hansen s’est opposée aux nouvelles cotisations (les « avis d’opposition »). Plus précisément, elle a demandé l’annulation des nouvelles cotisations. Elle a également affirmé qu’elle n’est pas, et n’a jamais été, représentante légale, exécutrice testamentaire ou fiduciaire de la succession et, par conséquent, qu’elle n’était pas responsable des obligations potentielles de la succession au titre de la Loi. Cependant, elle a admis qu’elle était bénéficiaire de la succession, mais la succession n’existe plus.
+[6] Par des avis de confirmation datés du 18 novembre 2016, le ministre a confirmé les nouvelles cotisations.
+[7] Mme Hansen a ensuite interjeté appel devant notre Cour (l’« appel »), demandant que l’appel soit accueilli et que les nouvelles cotisations soient annulées. Les paragraphes 1 à 9 de l’avis d’appel présentaient les faits pertinents invoqués par la succession de la manière suivante :
+[traduction]
+Winifred Straessle (Mme Straessle) et son époux ont immigré au Canada depuis la Suisse en 1929 et ont résidé au Québec pendant toute la période pertinente aux fins du présent appel.
+Mme Straessle et son époux ont eu deux enfants, Mme Greta Hansen (la « fille ») et M. Anthony Straessle.
+La fille est née le 2 juillet 1932 à Montréal (Québec). La fille réside à Ottawa (Ontario) depuis juin 1979.
+L’époux de Mme Straessle est décédé au début de 1992.
+Mme Straessle était légataire universelle résiduaire de la succession de son époux.
+Mme Straessle est décédée intestat le 24 février 1996.
+Le 18 octobre 2013, l’Agence du revenu du Canada a envoyé une lettre à la succession, aux soins de la fille, à titre de « liquidatrice de la succession », proposant d’établir des nouvelles cotisations à l’égard de Mme Straessle pour les années d’imposition 1992 à 1996.
+La succession a été liquidée et n’existe plus.
+La fille n’était pas, et n’a jamais été, exécutrice testamentaire, liquidatrice, fiduciaire ou administratrice de la succession.
+[8] À ce jour, l’intimée n’a pas déposé de réponse, mais elle a déposé la présente requête.
+[9] Sauf indication contraire, toutes les dispositions mentionnées renvoient à la Loi.
+III. LA THÈSE DE L’INTIMÉE
+[10] L’intimée affirme qu’un contribuable ne peut pas faire appel de la cotisation d’un autre contribuable. Selon l’intimée, puisque Mme Hansen n’était pas, et n’a jamais été, exécutrice testamentaire, liquidatrice, fiduciaire ou administratrice de la succession, elle n’est pas légalement autorisée à représenter la succession et, par conséquent, n’a pas qualité pour appeler des nouvelles cotisations. Plus précisément, l’intimée soutient que Mme Hansen n’est visée par aucun des types de « représentants légaux » nommés dans les définitions de « contribuables » et de « personne » au paragraphe 248(1). Par conséquent, l’appel devrait être annulé en application de l’alinéa 53(3)c) des Règles.
+[11] L’intimée est également d’avis que notre Cour devrait annuler l’appel en application de l’alinéa 53(3)b) des Règles, au motif que notre Cour n’a pas compétence pour se prononcer puisqu’il ne s’agit pas d’un appel conforme à l’article 169. Les avis d’opposition qu’aurait déposés Mme Hansen n’étaient pas valides puisqu’elle n’était pas légalement autorisée à représenter la succession lorsqu’elle les a signifiés au ministre. Ainsi, une condition préalable à l’introduction d’un appel devant notre Cour, soit la signification au ministre d’un avis d’opposition valide, n’est pas remplie.
+[12] L’intimée fait également valoir que, si la succession n’existe plus, il n’est pas possible de faire appel des nouvelles cotisations, puisqu’un contribuable qui n’existe pas ne peut pas interjeter appel d’une cotisation.
+[13] Enfin, étant donné que l’avis d’appel déposé par Mme Hansen ne présente pas de faits pertinents qui se rapportent au bien-fondé des nouvelles cotisations et, par conséquent, ne révèle aucun moyen raisonnable d’appel, l’appel doit être annulé en application de l’alinéa 53(1)d) des Règles.
+IV. LA THÈSE DE L’APPELANTE
+[14] L’appelante reconnaît que Mme Hansen n’est pas une représentante légale de la succession, mais soutient que cela ne l’empêche pas d’avoir le lien nécessaire pour introduire l’appel au nom de la succession. Étant bénéficiaire de la succession et, par conséquent, héritière de la succession, Mme Hansen est une « personne » et, à ce titre, est un « contribuable » qui peut s’opposer et signifier un avis d’opposition au ministre et interjeter appel à la Cour pour le compte de la succession, comme le prévoient les paragraphes 165(1) et 169(1).
+[15] Selon l’appelante, si l’interprétation de la définition de « personne » donnée par l’intimée est juste, il serait inutile d’inclure le terme « héritier » dans cette définition puisque le terme « représentant légal » y est également inclus.
+[16] L’appelante soutient également que la portée de l’article 159, qui contient des dispositions relatives aux responsabilités du « représentant légal d’un contribuable », est plus étroite que celle de la « personne » qui peut s’opposer et signifier un avis d’opposition ou qui peut interjeter appel auprès de notre Cour.
+[17] De plus, la succession a invoqué des motifs suffisants dans l’avis d’appel pour contester le bien-fondé des nouvelles cotisations étant donné qu’il y est soutenu que Mme Winifred Straessle avait correctement déclaré son revenu pour les années pertinentes.
+[18] Enfin, si la requête est accueillie, l’appelante demande à la Cour de déclarer clairement que Mme Hansen n’est pas une représentante légale de la succession ni une fiduciaire, sans quoi Mme Hansen resterait assujettie à d’éventuelles procédures de recouvrement sans disposer de moyens pour contester les nouvelles cotisations.
+V. LES RÈGLES
+[19] L’article 53 des Règles est rédigé ainsi :
+53 Radiation d’un acte de procédure ou d’un autre document — (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+53. Striking out a Pleading or other Document — (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[Non souligné dans l’original.]
+VI. DISCUSSION
+1. Compétence
+[20] La Cour canadienne de l’impôt est une cour créée par la loi et elle tire sa compétence de l’article 12 de la Loi sur la Cour canadienne de l’impôt (L.R.C. 1985, ch. T-2), sa loi habilitante, lequel article a aussi pour effet de délimiter cette compétence. Pour ce qui est des appels en matière d’impôt sur le revenu, l’article 12 de la Loi sur la Cour canadienne de l’impôt confère à notre Cour compétence exclusive pour déterminer la validité et le bien-fondé des cotisations d’impôt sur le revenu établies sous le régime de la Loi.
+[21] Dans l’arrêt Ereiser c. La Reine, 2013 CAF 20, la Cour d’appel fédérale a affirmé ce qui suit :
+31 Vu ces dispositions, notre Cour a statué que la mission de la Cour canadienne de l’impôt lors d’un appel dirigé contre une cotisation d’impôt sur le revenu consistait à déterminer la validité et le bien‑fondé de la cotisation en fonction des dispositions applicables de la Loi de l’impôt sur le revenu et des faits donnant lieu à l’obligation du contribuable prévue par la loi. [...]
+[22] Les dispositions sur les appels se trouvent dans la section J de la Loi, qui comprend les articles 169 à 180, auxquels je renvoie ci-dessous.
+2. Principes d’interprétation
+[23] Les observations des parties soulèvent une question d’interprétation législative en ce qui concerne la définition de « personne » pour l’application de la Loi. Comme l’a déclaré la Cour d’appel fédérale dans l’arrêt Manrell c. Canada, 2003 CAF 128, [2003] 3 C.F. 727, lorsqu’il est question de la définition du terme « biens » figurant au paragraphe 248(1) :
+21 Il s’agit d’un problème d’interprétation législative, dont la solution doit tout d’abord reposer sur le principe tiré de Driedger, Construction of Statutes (2e éd. 1983), à la page 87 :
+[traduction] Aujourd’hui il n’y a qu’un seul principe ou solution : il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur.
+22 Récemment, Monsieur le juge Iacobucci, parlant au nom de la majorité dans l’arrêt Ludco Enterprises Ltd. c. Canada, [2001] 2 R.C.S. 1082, a expliqué la place de ce principe dans l’interprétation des lois fiscales (paragraphes 37 à 39; la plupart des renvois sont omis) :
+37 C’est cet extrait qui « résume le mieux » la méthode privilégiée aux fins d’interprétation d’une disposition législative [...]. Il en est ainsi pour l’interprétation de tout texte de loi et il convient de signaler que notre Cour a maintes fois cité et approuvé cet extrait célèbre, tant en matière fiscale que dans d’autres domaines [...]
+38 Par ailleurs, les tribunaux appelés à interpréter la Loi de l’impôt sur le revenu doivent se rappeler qu’ils jouent un rôle distinct de celui du législateur. En l’absence d’un texte législatif clair, il n’est pas souhaitable que les tribunaux innovent [...]. La promulgation de nouvelles règles de droit fiscal doit plutôt être laissée au législateur [...]. Comme l’a récemment expliqué le juge McLachlin (maintenant juge en chef) dans l’arrêt Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, par. 43 :
+La Loi est un texte législatif complexe au moyen duquel le législateur tente d’établir un équilibre entre d’innombrables principes. La jurisprudence de notre Cour est constante : les tribunaux doivent par conséquent faire preuve de prudence lorsqu’il s’agit d’attribuer au législateur, à l’égard d’une disposition claire de la Loi, une intention non explicite [...]. En concluant à l’existence d’une intention non exprimée par le législateur sous couvert d’une interprétation fondée sur l’objet, l’on risque de rompre l’équilibre que le législateur a tenté d’établir dans la Loi. [Références omises.]
+[...] Cela étant dit, il ressortit à la compétence des tribunaux d’interpréter les règles adoptées par le législateur, notamment d’éclaircir des notions par ailleurs non définies comme celles de « revenu » ou de « bénéfice » [...]
+[24] La Cour d’appel fédérale a réitéré ce principe d’interprétation dans l’arrêt Canada c. Livingston, 2008 CAF 89 :
+15 Le point de vue de la Cour suprême du Canada sur l’interprétation des lois demeure fondé sur le principe contemporain formulé par Elmer A. Driedger à la page 67 de The Construction of Statutes, Toronto, Butterworths, 1974 :
+[traduction] Aujourd’hui il n’y a qu’un seul principe ou solution : il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur.
+Voir Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, à la page 41; et Bell ExpressVu Limited Partnership c. Rex, 2002 CSC 42, au paragraphe 26.
+[25] Et plus récemment, dans l’arrêt Caithkin, Inc. c. Canada, 2015 CAF 118, la Cour d’appel fédérale a déclaré ce qui suit :
+15 Dans l’arrêt Sa Majesté la Reine c Hypothèques Trustco Canada, 2005 CSC 54 (Trustco Canada), au paragraphe 10, la Cour suprême du Canada précise que l’interprétation d’une disposition législative « doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble ». De plus, « [l]orsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation » : Trustco Canada, au paragraphe 10; Bakorp Management Ltd c Canada, 2014 CAF 104, au paragraphe 25.
+[...]
+21 En troisième lieu, il faut interpréter les lois de façon à donner un sens à chaque mot et à éviter les redondances : Placer Dome Canada Ltd c Ontario (Ministre des Finances), 2006 CSC 20, au paragraphe 45, [2006] 1 RCS 715, à la page 739, citant Hill c William Hill (Park Lane) Ltd, [1949] AC 530 (CL). [...]
+3. Application des principes d’interprétation à la requête
+[26] Le paragraphe 169(1) dispose que, lorsqu’un contribuable a signifié un avis d’opposition à une cotisation en application de l’article 165, il peut interjeter appel auprès de notre Cour pour faire annuler ou modifier la cotisation. La signification d’un avis d’opposition au ministre conformément aux dispositions de l’article 165 est une condition préalable à l’introduction d’un appel auprès de notre Cour. Les deux dispositions utilisent le terme « contribuable » : c’est lui qui peut s’opposer et interjeter appel :
+165(1) Opposition à la cotisation —Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition […]
+169(1) Appel — Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt […]
+165(1) Objections to assessment — A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, . . .
+169(1) Appeal — Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada . . .
+[Non souligné dans l’original.]
+[27] Le paragraphe 248(1) définit le terme « contribuables », pour l’application de la Loi, comme visant « toutes les personnes, même si elles ne sont pas tenues de payer l’impôt », (et en anglais le terme « taxpayer » désigne « any person whether or not liable to pay tax »).
+[28] Le paragraphe 248(1) comporte également une définition du terme « personne » pour l’application de la Loi, qui est rédigée ainsi :
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+personne Sont comprises parmi les personnes tant les sociétés que les entités exonérées de l’impôt prévu à la partie I sur tout ou partie de leur revenu imposable par l’effet du paragraphe 149(1), ainsi que les héritiers, liquidateurs de succession, exécuteurs testamentaires, administrateurs ou autres représentants légaux d’une personne, selon la loi de la partie du Canada visée par le contexte. La notion est visée dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. (person)
+[…]
+248(1) Definitions — In this Act,
+. . .
+person, or any word or expression descriptive of a person, includes any corporation, and any entity exempt, because of subsection 149(1), from tax under Part I on all or part of the entity’s taxable income and the heirs, executors, liquidators of a succession, administrators or other legal representatives of such a person, according to the law of that part of Canada to which the context extends; (personne)
+. . .
+[Non souligné dans l’original.]
+[29] La définition de « personne » dans la Loi est une définition large (arrêt Brown c Canada, 2014 CAF 301, au paragraphe 14), qui comprend « les héritiers, liquidateurs de succession, exécuteurs testamentaires, administrateurs ou autres représentants légaux d’une personne, selon la loi de la partie du Canada visée par le contexte ». Par conséquent, la partie qui prétend interjeter appel d’une cotisation établie à l’égard de quelqu’un d’autre doit être visée par la définition de « personne ».
+[30] Selon l’intimée, les mots « autres représentants légaux » dans la définition de « personne » modifient l’énumération qui précède, à savoir les héritiers, exécuteurs testamentaires, liquidateurs de succession et administrateurs. Plus précisément, l’intimée est d’avis qu’il faut interpréter le terme « héritiers » dans la définition de « personne » en se rapportant à la définition de « représentant légal », au paragraphe 248(1).
+[31] Le paragraphe 248(1) définit ainsi le terme « représentant légal », quant à un contribuable, pour l’application de la Loi :
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+représentant légal Quant à un contribuable, syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre ou liquide, en qualité de représentant ou de fiduciaire, les biens qui appartiennent ou appartenaient au contribuable ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, exerce une influence dominante sur ces biens ou s’en occupe autrement. (legal representative)
+[…]
+248(1) Definitions — In this Act,
+. . .
+legal representative of a taxpayer means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with the property that belongs or belonged to, or that is or was held for the benefit of, the taxpayer or the taxpayer’s estate; (représentant légal)
+. . .
+[Non souligné dans l’original.]
+[32] Par conséquent, selon l’intimée, pour que Mme Hansen, en tant qu’« héritière », puisse être considérée comme une « personne », elle doit administrer ou liquider, en qualité de représentant ou de fiduciaire, les biens de la succession, ou exercer, en cette qualité, une influence dominante sur ces biens ou s’en occuper autrement, ce qui n’est pas le cas en l’espèce. Étant donné que Mme Hansen n’était pas, et n’a jamais été, exécutrice testamentaire, liquidatrice, fiduciaire ou administratrice de la succession, elle n’est pas légalement autorisée à représenter la succession. Ainsi, Mme Hansen n’est pas une « représentante légale » de la succession. Par conséquent, elle n’est visée par aucun des types de « représentant légal » nommés dans les définitions de « personne » et de « contribuables ». Par conséquent, selon l’intimée, les avis d’opposition ainsi que l’avis d’appel sont invalides.
+[33] Pour les motifs qui suivent, je ne souscris pas à la thèse de l’intimée.
+[34] La définition de « personne » précise expressément que l’énumération qui y figure (soit, « les héritiers, liquidateurs de succession, exécuteurs testamentaires, administrateurs ou autres représentants légaux d’une personne ») doit être interprétée « selon la loi de la partie du Canada visée par le contexte ». En conséquence, le terme « héritiers » ainsi que le terme « représentants légaux » figurant dans la définition de « personne » doivent être interprétés en fonction du droit privé applicable.
+[35] Étant donné que Mme Straessle est décédée intestat alors qu’elle était domiciliée dans la province de Québec, nous devons nous reporter au droit privé de la province de Québec, soit le Code civil du Québec (R.L.R.Q. ch. C.C.Q.-1991) (le « CCQ »), pour déterminer si Mme Hansen est une héritière de la succession.
+[36] Aux termes des articles 653 à 667 du CCQ, les héritiers de la succession d’une personne domiciliée au Québec et décédée intestat sont le conjoint et les parents du défunt; lorsqu’il n’y a pas de conjoint, la succession est dévolue pour le tout aux descendants du défunt. En l’espèce, Mme Hansen est l’un des héritiers de la succession, étant une descendante de la défunte, puisque Mme Straessle n’a pas laissé de conjoint à sa mort.
+[37] Les dispositions applicables du CCQ sont les suivantes :
+653. À moins de dispositions testamentaires autres, la succession est dévolue au conjoint survivant qui était lié au défunt par mariage ou union civile et aux parents du défunt, dans l’ordre et suivant les règles du présent titre. À défaut d’héritier, elle échoit à l’État.
+[…]
+655. La parenté est fondée sur les liens du sang ou de l’adoption.
+656. Le degré de parenté est déterminé par le nombre de générations, chacune formant un degré. La suite des degrés forme la ligne directe ou collatérale.
+657. La ligne directe est la suite des degrés entre personnes qui descendent l’une de l’autre. On compte alors autant de degrés qu’il y a de générations entre le successible et le défunt.
+[…]
+666. Si le défunt laisse un conjoint et des descendants, la succession leur est dévolue.
+Le conjoint recueille un tiers de la succession et les descendants les deux autres tiers.
+667. À défaut de conjoint, la succession est dévolue pour le tout aux descendants.
+653. Unless otherwise provided by testamentary provisions, a succession devolves to the surviving married or civil union spouse and relatives of the deceased, in the order and according to the rules provided in this Title. Where there is no heir, it falls to the State.
+. . .
+655. Relationship is based on ties of blood or of adoption.
+656. The degree of relationship is determined by the number of generations, each forming one degree. The series of degrees forms the direct line or the collateral line.
+657. The direct line is the series of degrees between persons descended one from another. The number of degrees in the direct line is equal to the number of generations between the successor and the deceased.
+. . .
+666. If the deceased leaves a spouse and descendants, the succession devolves to them.
+The spouse takes one-third of the succession and the descendants, the other two-thirds.
+667. Where there is no spouse, the entire succession devolves to the descendants.
+[38] Je suis d’avis que le mot « héritier » figurant dans la définition de « personne », dont le sens est déterminé en fonction du droit privé applicable, n’a pas nécessairement le même sens que le mot « héritier » se trouvant dans la définition de « représentant légal » au paragraphe 248(1) : pour qu’un « héritier » soit le « représentant légal » d’un contribuable au sens de la définition de ce dernier terme, l’héritier doit administrer ou liquider, en qualité de représentant ou de fiduciaire, les biens de la succession, ou exercer, en cette qualité, une influence dominante sur ces biens ou s’en occuper.
+[39] En outre, si nous devions nous reporter à la définition de « représentant légal » figurant au paragraphe 248(1) pour interpréter le mot « héritier » dans la définition de « personne », ce mot deviendrait inutile puisque la définition de « représentant légal » fait déjà mention du mot « héritier ». Adopter l’interprétation de l’intimée reviendrait à faire abstraction de l’énumération contenue dans la définition de « personne » et irait donc à l’encontre du principe selon lequel les tribunaux doivent toujours interpréter la loi « de façon à donner un sens à chaque mot et à éviter les redondances » (Caithkin, précité).
+[40] La Cour ne peut souscrire à l’interprétation de l’intimée puisqu’elle ferait ainsi abstraction du libellé exprès de la Loi, selon lequel le terme « personne » vise les représentants légaux de cette personne, « selon la loi de la partie du Canada visée par le contexte ». Je conclus que la définition de « représentant légal » qui se trouve au paragraphe 248(1) ne s’applique pas lorsqu’il s’agit de déterminer qui est une « personne » au sens de la Loi. À mon avis, la définition de « représentant légal » figurant au paragraphe 248(1) concerne l’application de la Loi (p. ex. l’article 159 portant sur la responsabilité du représentant légal d’un contribuable), tandis que la mention du terme « représentants légaux » dans la définition de « personne » sert à élargir le sens du terme « personne » pour qu’y soient inclus les représentants légaux de la personne, en fonction du droit privé applicable.
+[41] Par conséquent, en l’espèce, je suis d’avis que le mot « héritier » dans la définition du terme « personne » doit être interprété selon le CCQ; le CCQ n’exige pas, pour qu’une personne soit considérée comme un « héritier », qu’elle administre ou liquide, en qualité de représentant ou de fiduciaire, les biens qui appartiennent à une autre personne, ou exerce, en cette qualité, une influence dominante sur ces biens ou s’en occupe autrement. Si j’acceptais l’interprétation de l’intimée, je ne pourrais pas à donner un sens à chaque mot de la définition de « personne ». Si le législateur avait eu l’intention de ne considérer les « héritiers » comme étant des « personnes » qu’à la condition qu’ils soient les « représentants légaux » d’un contribuable au sens de la Loi, il l’aurait expressément prévu.
+[42] Comme l’a indiqué la Cour d’appel fédérale dans l’arrêt Brown, précité, en se penchant sur différentes définitions de la Loi, dont les celles de « personne » et de « contribuables » au paragraphe 248(1) :
+9 Or, le législateur a tout simplement fait un choix en donnant certaines indications pour guider l’interprétation de ces termes afin de s’assurer qu’ils englobent ce qui y est expressément mentionné. [...]
+[Non souligné dans l’original.]
+[43] En conclusion, Mme Hansen a qualité d’héritière de la succession et elle est donc une « personne » et un « contribuable » au sens du paragraphe 248(1). Par conséquent, elle peut s’opposer aux nouvelles cotisations en vertu de l’article 165 et interjeter appel auprès de notre Cour en vertu de l’article 169.
+[44] J’ajouterais que le législateur ne peut avoir eu l’intention d’immuniser des cotisations contre toute contestation judiciaire.
+[45] De plus, je conclus que Mme Hansen a la capacité juridique d’introduire ou de continuer une instance pour le compte de la succession auprès de notre Cour.
+[46] Je conclus également que la succession a invoqué des motifs suffisants dans l’avis d’appel pour contester le bien‑fondé des nouvelles cotisations puisqu’il y est soutenu que feue Mme Winifred Straessle avait correctement déclaré son revenu pour les années pertinentes.
+VII. CONCLUSION
+[47] La requête est rejetée avec dépens à l’appelante.
+[48] L’intimée disposera de 15 jours à partir de la date de la décision définitive sur la présente requête pour déposer sa réponse; cette décision définitive sera la décision ultime que rendra notre Cour, la Cour d’appel fédérale ou la Cour suprême du Canada.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2018.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+ce 1er jour d’avril 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 144
+No DU DOSSIER DE LA COUR :
+2017-809(IT)G
+INTITULÉ :
+SUCCESSION DE WINIFRED STRAESSLE ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 avril 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 17 juillet 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me James G. Morand
+Avocat de l’intimée :
+Me Paul Kilppenstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me James G. Morand
+Cabinet :
+Cassels Brock & Blackwell LLP
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

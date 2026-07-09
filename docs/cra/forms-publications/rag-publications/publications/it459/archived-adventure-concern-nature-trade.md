@@ -1,0 +1,82 @@
+---
+title: "ARCHIVED - Adventure or Concern in the Nature of Trade"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it459/archived-adventure-concern-nature-trade.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Adventure or Concern in the Nature of Trade
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-459**
+
+DATE: September 8, 1980
+
+SUBJECT: INCOME TAX ACT**Adventure or Concern in the Nature of Trade**
+
+REFERENCE: Subsection 248(1)
+
+1. It is a general principle that when a person habitually does a thing that is capable of producing a profit, then he is carrying on a trade or business notwithstanding that these activities may be quite separate and apart from his ordinary occupation. An example is that of a dentist who habitually buys and sells real estate.
+
+2. Where such a thing is done only infrequently, or possibly only once, rather than habitually, it still is possible to hold that the person has engaged in a business transaction if, in accordance with the definition of "business" in subsection 248(1), it can be shown that he has engaged in "an adventure or concern in the nature of trade". That phrase has been interpreted in numerous decisions of the Courts and some of those decisions, where the transactions involved real estate, are reflected in IT-218 entitled "Profit from the Sale of Real Estate".
+
+3. Although an adventure or concern in the nature of trade is included in the definition of the term "business" in section 248, it does not necessarily mean that a taxpayer who is engaged in an adventure or concern in the nature of trade is "carrying on" a business or has "carried on" a business. Where these phrases are used in the Act, a determination is made based on the degree of activity and each situation must be considered in the light of its own particular facts.
+
+4. In determining whether a particular transaction is an adventure or concern in the nature of trade the Courts have emphasized that all the circumstances of the transaction must be considered and that no single criterion can be formulated. Generally, however, the principal tests that have been applied are as follows:
+
+(a) whether the taxpayer dealt with the property acquired by him in the same way as a dealer in such property ordinarily would deal with it;
+
+(b) whether the nature and quantity of the property excludes the possibility that its sale was the realization of an investment or was otherwise of a capital nature, or that it could have disposed of other than in a transaction of a trading nature; and
+
+(c) whether the taxpayer's intention, as established or deduced, is consistent with other evidence pointing to a trading motivation.
+
+Comments on the significance of the above tests appear below under the headings "Taxpayer's Conduct", "Nature of the Property" and "Taxpayer's Intention".
+
+Taxpayer's Conduct
+
+5. The primary consideration is whether the taxpayer's actions in regard to the property in question were essentially what would be expected of a dealer in such a property. What is required, therefore, is to compare what dealers in the same kind of property ordinarily do with what the taxpayer did when he purchased the property, when he sold it and during the time when it was in his possession. Where the property is real estate, some relevant factors are set out in IT-218.
+
+6. Evidence that efforts were soon made to find or attract purchasers or that a sale took place within a short period of time after the acquisition of the property by the taxpayer points to a trading intention.
+
+7. During the time the taxpayer owned the property it is significant whether steps were taken with the intended result of improving its marketability. Where the property consisted of an operating business, such steps might involve various changes in the way the business was operated so as to improve the profit potential. The listing of the business for sale when the improved marketability was achieved would suggest that the business had not been acquired as an investment but had been acquired, improved and offered for sale in a manner similar to procedures followed by a dealer in businesses.
+
+8. The fact that the taxpayer has a commercial background in similar areas or has had previous experience of a similar commercial nature has been held to be a pertinent consideration in some circumstances.
+
+Nature of the Property
+
+9. Where property acquired by a taxpayer is of such a nature or of such a magnitude that it could not produce income or personal enjoyment to its owner by virtue of its ownership and the only purpose of the acquisition was a subsequent sale of the property, the presumption is that the purchase and sale was an adventure or concern in the nature of trade. This was a finding of the courts, for instance, where the property acquired was a large quantity of one kind of goods.
+
+10. The property acquired may be capable of producing income but only if the taxpayer is in a position to operate or lease it, as for example, a cargo ship. If the taxpayer is not in a position to operate it and could make use of it only by selling it, the presumption again would be that the purchase and subsequent sale was an adventure or concern in the nature of trade.
+
+11. Some kinds of property (e.g. a business, a security) are prima facie of an investment nature in that they are normally used to produce income through their operation or mere possession. Where property is of this kind and the taxpayer was in a position, if he so wished, to have operated or held it but he chose to sell it, then the manner in which he dealt with it and the intention when he acquired it must be the governing factors in deciding whether the transaction was an adventure or concern in the nature of trade.
+
+Taxpayer's Intention
+
+12. A taxpayer's intention to sell at a profit is not sufficient, by itself, to establish that he was involved in an adventure or concern in the nature of trade. That intention is almost invariably present even when a true investment has been acquired, if circumstances should arise that would make it financially more beneficial to sell the investment than to continue to hold it. Where, however, one or other of the above tests clearly suggests an adventure or concern in the nature of trade, and, in addition, it can be established or inferred that the taxpayer's intention was to sell the property at the first suitable opportunity, intention will be viewed as corroborative evidence. On the other hand, inability to establish an intention to sell does not preclude a transaction from being regarded as an adventure or concern in the nature of trade if it can otherwise be so regarded pursuant to one of the above tests.
+
+13. It must be recognized that a taxpayer may have more than one intention when a property is acquired. If the primary intention is said to be the holding of the property as an investment, regard must be had to whether, at the time of the acquisition, there was a secondary intention to sell the property if the primary intention could not be fulfilled. Secondary intention is particularly significant when the circumstances suggest that there was little likelihood of the property being retained by the taxpayer because of a lack of financial resources or for some other reason. Further, a taxpayer's intentions are not limited to the purposes for acquiring the property but extend to the time at which the disposition was made. A taxpayer's intention, if any, at the time of acquisition of the property may change at any time during ownership and up to disposition because the taxpayer may form an intention or otherwise change or abandon the primary, dominant or secondary intention with respect to the property.
+
+Isolated Transactions
+
+14. The following factors, in and of themselves, are not sufficient to prevent a finding that a transaction was an adventure or concern in the nature of trade:
+
+(a) the transaction was a single or isolated one;
+
+(b) the taxpayer did not create any organization to carry out the transaction;
+
+(c) the transaction is totally different from any of the other activities of the taxpayer and he never entered into such a transaction either before or since.
+
+Losses
+
+15. A taxpayer who embarks on what is established as an adventure or concern in the nature of trade may suffer a loss rather than the anticipated gain. Such a loss constitutes a loss from business and enters into the calculation of the taxpayer's non-capital loss for the year.
+
+Section 14 Not Applicable
+
+16. The Department considers that a transaction in rights or things which would ordinarily come within the provisions of section 14 could be an adventure in the nature of trade where the intention was not to earn income from a business but to buy and sell a property within a short period of time at a profit. In such circumstances, the gain is business income and section 14 does not apply.

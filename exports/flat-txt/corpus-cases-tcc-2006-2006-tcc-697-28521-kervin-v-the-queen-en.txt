@@ -1,0 +1,241 @@
+Title: Kervin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28521/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-697-28521-kervin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-12-29
+
+# Kervin v. The Queen
+
+- Citation: 2006 TCC 697
+- Decision date: 2006-12-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1250, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kervin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-29
+Neutral citation
+2006 TCC 697
+File numbers
+2006-320(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-320(IT)I
+BETWEEN:
+SUSAN KERVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 13, 2006 at Kitchener, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Ryan Hall
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment the appeal is dismissed and the Appellant is obliged to remit to the Minister the overpayments she had received as set forth below:
+Period
+Base taxation year /
+taxation year
+CTB paid
+CTB redetermined
+GSTC paid
+GSTC reassessed
+July 2002–July 2003
+2001
+$2,110.25
+Nil
+N/A
+N/A
+July 2003-June 2004
+-April 2004 (GSTC)
+2002
+$3,237.75
+Nil
+$660
+$330
+July 2004-Oct 2004
+2003
+$491.94
+Nil
+$220.41
+$85
+Signed at Ottawa, Canada, this 29th day of December, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC697
+Date: 20061229
+Docket: 2006-320(IT)I
+BETWEEN:
+SUSAN KERVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The basic facts and issues in this appeal are set out in the following paragraphs of the Reply to the Notice of Appeal:
+5. In filing her income tax return for the 2001, 2002 and 2003 taxation years, the Appellant indicated her marital status as “separated”.
+6. During the period July 2002 to July 2003, the Appellant received annual CTB [“Child Tax Benefit”] in the amount of $2,110.25, with respect to the 2001 “base taxation year”.
+7. During the period July 2003 to June, 2004 the Appellant received CTB in the amount of $3,237.75 with respect to the 2002 “base taxation year” and during the period of July 2003 to April 2004 received GSTC [“Goods and Services Tax Credit”] in the amount of $660.00 with respect to the 2002 taxation year.
+8. During the period July 2004 to October 2004, the Appellant received CTB in the amount of $491.94 with respect to the 2003 “base taxation year” and GSTC in the amount of $220.41 with respect to the 2003 taxation year.
+9. Pursuant to a letter from CRA [“Canadian Revenue Agency”] dated October 29, 2004 it was determined that the Appellant was not eligible for the CTB and GSTC for the period under review.
+10. By Notices of Redetermination dated November 19, 2004, the Minister advised the Appellant that a revised CTB had been calculated in regard to the 2001 'base taxation year' that resulted in an overpayment of $2,110.25 as referred to in paragraph 6 herein.
+11. By Notices of Redetermination dated November 19, 2004 for CTB and November 26, 2004 for GSTC, the Minister informed the Appellant that with respect to the 2002 “base taxation year”, and 2002 taxation year it had been re‑determined that the amount of CTB and GSTC she had received in regard to the said “base taxation year” and taxation year have been overpaid by the amounts of $3,237.75 and $330.00 respectively as referred in paragraph 7 herein.
+12. By Notice of Redetermination dated November 19, 2004 for CTB and November 26, 2004 for GSTC, the Minister informed the Appellant that with respect to the 2003 “base taxation year”, and 2003 taxation year it had been re‑determined that the amount of CTB and GSTC she had received in regard to the said “base taxation year” and taxation year have been overpaid by the amounts of $491.94 and $85.00 respectively as referred in paragraph 8 herein.
+13. The Appellant served on the Minister a Notice of Objection dated December 7, 2004 in regards to the Notices referred to in paragraphs 10, 11 and 12 herein.
+14. By letter dated October 20, 2005, the Minister advised the Appellant that the Notices of Redetermination as referred to in paragraphs 10, 11 and 12 herein had been confirmed in accordance with the relevant sections of the Income Tax Act (the “Act”).
+15. In so redetermining the Appellant's CTB for the 2001, 2002 and 2003 “base taxation years” and GSTC for the 2002 and 2003 taxation years, the Minister relied on the following assumptions of fact:
+a) at all material times, the Appellant and Kevin Arthur Kervin (the “Former Spouse”) were parents of two children namely Jordan Francis Kervin born September 20, 1985 and Tyler Ross Kervin born February 26, 1991 (the “Children”);
+b) the Children referred to in subparagraph 15(a) herein were eligible for purposes of receiving the CTB and GSTC;
+c) on or about August 26, 2001 the Appellant left the matrimonial home that was located at 28 Mason Crt, Guelph, Ontario;
+d) the Children remained at the matrimonial home with the Former Spouse following the Appellant’s departure from the said residence;
+e) the Children spent the majority of time living with the Former Spouse but did stay with the Appellant on some weekends and occasionally during the week;
+f) the Appellant was responsible for some aspects of the Children’s care and upbringing including bringing them to dental and doctor appointments;
+g) Jordan F. Kervin turned 18 September 2003 and was therefore no longer eligible for the CTB effective the following month;
+h) in June 2004, Jordan F. Kervin moved in with the Appellant but Tyler R. Kervin continued to reside with the Former Spouse, and
+i) the Appellant did not move back into the matrimonial home at any time after August 2001.
+B. ISSUES TO BE DECIDED
+16. The issues are whether the Minister has properly determined that the Appellant is not entitled to any CTB with respect to the 2001, 2002 and 2003 “base taxation years” and GSTC in excess of the amounts [redetermined by the Minester]
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+17. He relies on sections 122.6 and 122.61, and subsections 122.5(1) and 122.5(3) of the “Act”.
+18. He submits that the Appellant is not eligible to receive the CTB for the period in dispute, namely July 2002 to October 2004, as the “qualified dependants”, namely the Children lived with the Former Spouse as of August 2001 and therefore the Appellant was not an “eligible individual” within the meaning of the said term as defined in paragraph (a) per section 122.6 of the Act as she did not reside with the “qualified dependants” and therefore the Appellant is not eligible for the CTB as computed in accordance with section 122.61 of the Act for the Children with respect to the said period in regard to the 2001, 2002, and 2003 “base taxation years” as indicated in the CTB Notices of Redetermination dated November 19, 2004.
+19. He further submits that the Appellant is not eligible to receive the GSTC for the period in dispute, namely July 2003 to October 2004, as the “qualified dependants”, namely the Children lived with the Former Spouse as of August 2001 and therefore the Appellant was not an “eligible individual” within the meaning of the said term as defined section 122.5 of the Act, as she did not reside with the “qualified dependants” and therefore the Appellant is not eligible for the GSTC as computed in accordance with subsection 122.5(3) of the Act for the Children with respect to the said period in regard to the 2002 and 2003 taxation years as indicated in the GSTC Notices of Redetermination dated November 26, 2004.
+[2] The Appellant testified further as follows:
+- that she was a factory worker whose income levels were low enough to qualify her for the CTB and the GSTC;
+- that the matrimonial home referred to in paragraph 15(c) of the Reply was jointly owned by the Appellant and her Former Spouse and upon their divorce which became effective 31 days after May 27, 2005 the said home was settled upon him.
+- that the amount of time she spent with the children on matters dealing with health, dental problems, athletics, social events, school, meals and other matters was significant and on occasion the Children slept and stayed over with the Appellant in her separate residence which was not far from the matrimonial home;
+- that she had difficulty finding appropriate housing for herself;
+- that the mental and physical difficulties she was having with the Former Spouse were such that she felt it preferable for the Childrens’ benefit if she moved out of the matrimonial home and accordingly she did;
+- that she kept a detailed log covering most of the days from February 7, 2002 to June 3, 2002 (Exhibit A-3) detailing her activities with the Children;
+- she gave further detail of her actual activities and involvement with the Children in an overview of what was happening (Exhibit A-4);
+- in Exhibit A-2 signed sometime shortly after June 25, 2004 and addressed “To Whom It May Concern” the Appellant stated as follows:
+I spoke to Tara Hastoo from your Toronto office on June 25, 2004 expressing my concerns about this review. I had called in 2002 regarding my eligibility to the Child Tax Credit. I believe I had filed a similar questionnaire at that time and there have been no changes since then except my oldest son no longer qualifies for the Tax Credit. I was to advise your office if there were changes. The following is a summary to your question in Part 1 of your review.
+Since August 2001, my children and I have had no specific schedule as far as living arrangements. I have repeatedly tried to have an agreement drafted regarding Kevin’s responsibilities through the courts but he would not cooperate. This matter is still ongoing and will be presented in the courts again in September. I have been overseeing their overall health and welfare even though they sleep at their father’s house. Jordan now resides with me full-time but is still attending school on a part-time basis. Tyler sleeps at his fathers because it is near his school. I have not contested this as to not disrupt Tyler’s lifestyle or take him out of the reach of his closest friends. Kevin works long hours being absent from the home on average 12 to 14 hours a day. My work schedule is weekend only. I maintain a relationship with my children through the week along with ensuring they are safe with their father during the weekends. This allows me to take them for dental and medical appointments or any extracurricular activities they be involved with.
+I have spent many hours in emergency with Tyler from injuries with sports. We have been to Kitchener for MRI’s on account of his knee. I have expressed my concerns with Kevin but he states that he doesn’t have the time to attend to Tyler’s health. When Tyler and Jordan were playing sports, I arranged with Kevin to transport them to and from the events.
+I have been solely maintaining Tyler and Jordan’s dental care. It’s been strongly advised that Tyler have braces to save his teeth so I’ve been saving the money from the Child Tax Credit to invest in braces for him. Jordan also needs dental surgery. I have had to recently get Tyler’s health card and birth certificate replaced. The health card was left with Tyler’s father but it was lost.
+I volunteer at Tyler’s school and have maintained communication to ensure his grade are maintained at a satisfactory level.
+Please find copies of letters including:
+Letter from Dr. Friars
+Letter from Dr. White
+Letter from College Avenue Public School
+Copies of x-rays
+Copy of Health Card
+Estimate of Dental Surgery for Jordan
+I have taken the initiative, at great expense, to ensure my children are being looked after. Although I may not be with my children 100% of the time, I go to extreme lengths to ensure they are well cared for.
+If you require any further information, please do not hesitate to contact me.
+[3] Further as appears from Exhibit A-5, both the Appellant and the Former Spouse had applied for the CTB and the GSTC.
+[4] The Former Spouse was present at the hearing but was excluded and did not testify.
+Analysis
+[5] The issues in this appeal are as stated above. The Appellant to succeed must establish that she is the eligible individual with respect to the Children for the period under review, it being acknowledged that the Children were qualified dependants.
+[6] The relevant portion of the definition of eligible individual in section 122.6 of the Act reads:
+In this subdivision,
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+[7] Sections 122.6 to 122.64 of the Act were enacted in 1992 in order to consolidate the existing benefits available with respect to certain persons. This benefit is payable in respect of “qualified dependants”. A qualified dependant must be under 18 at the relevant time which was indeed the case until the month following when Jordan turned 18 in September, 2003. The benefit is payable to an "eligible individual". In order to qualify as an eligible individual, the individual at that time must (a) reside with the qualified dependant; and (b) be the parent who primarily fulfils the responsibility for the child's care and upbringing. In this appeal, it is necessary that the Appellant demonstrate that both of the above requirements have been met.
+[8] Regulation 6302 sets forth the factors to consider in determining the “eligible individual” it provides:
+Factors
+For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[9] The provisions of the Act governing the GSTC are contained in section 122.5 and are explained as follows at pages 1765 and seq. in volume 4 of CCH Canadian Tax Reporter:
+As a consequence of the introduction of the goods and services tax (GST), the former refundable federal sales tax credit was replaced by the GST credit. As with the sales tax credit, the GST tax credit is intended to alleviate the burden of the GST on lower income taxpayers [ … ] The credit is claimed by checking the application box on the front of the T1 form when filing the tax return for the year.
+[ … ]
+The GST credit is novel in its form of payment. The credit is calculated on the basis of tax payable for a year and then paid in quarterly instalments over the succeeding year, commencing in July. For example, if a taxpayer has a GST credit calculated in respect of the 2001 income tax return, the taxpayer cannot use the credit to reduce 2001 taxes but rather must accept payment of one-fourth of the credit in July and October 2002 and January and April 2003. Improperly paid credits will be recovered under normal reassessment procedures for the year the credit was claimed. Under subsection 160.1(1.1), both an individual and a qualified relation are jointly and severally liable to repay any excess credit claimed.
+[ … ]
+Before July 2002, the GST credit was computed on the basis of income and family information provided in the previous year’s income tax return. The provision was amended, effective July 2002, to provide that the eligibility to the credit and the amount paid in each quarter will reflect changes in family circumstances that occurred before the end of the preceding quarter. Thus starting in July 2002, the eligibility for the credit and the amount of the quarterly payment will reflect the taxpayer’s family situation at the beginning of each quarter (e.g. whether the taxpayer has a cohabiting spouse, minor child, etc. at that time). Under the former rules, these factors were determined as of the end of the previous year.
+[ … ]
+Eligibility for the goods and services (GST) tax credit. Subsection 122.5(3) provides that an “eligible individual” is entitled to a tax credit in respect of the individual, a “qualified relation” of the individual, a person in respect of whom the individual claims an equivalent-to-married tax credit, and a “qualified dependant” of the individual. The calculation of the credit is outlined in the editorial comment at 19,346a.
+Before July 2002, these definitions were based on the individual’s status and relationship with such other persons at the end of the previous taxation year. Starting in July 2002, the definitions, which are outlined below, are based on the applicable status and relationships at the beginning of each quarter, and more particularly, at the beginning of a “specified month” for a taxation year. A specified month for a taxation year is defined as July and October of the year following the taxation year, and January and April of the second year following the taxation year (subsection 122.5(4)).
+Subsection 122.5(1) defines the terms outlined above. An “eligible individual” in relation to a specified month for a taxation year is an individual (other than a trust) who, at the beginning of the specified month, is either 19 years of age or older, married or in a common-law partnership, or the parent of a child.
+A “qualified relation” is defined as the individual’s spouse or common-law partner who, at the beginning of the specified month, is cohabiting with the individual within the meaning assigned in section 122.6 (child tax benefit). Section 122.6 defines a cohabiting spouse as the individual’s spouse or common-law partner who at the time has not been living separate and apart from the individual for 90 days or more.
+A “qualified dependant” is defined as a person who at the beginning of the specified month is a child of the individual or a person who is dependant for support upon the individual or the individual’s cohabiting spouse or common-law partner, who resides with the individual, and who is under the age of 19 years. A person is not considered to be a qualified dependant if that person is an eligible individual or a qualified relation of any individual.
+[ … ]
+Under subsection 122.5(5), where an individual has a qualified relation in respect of a specified month, only one of the two persons may claim the credit for the month (the person claiming the credit may however claim an amount in respect of the qualified relation). Beginning in July 2002, if both such individuals attempt to claim the credit, the Minister will designate which person is the eligible individual in relation to the specified month.
+[ … ]
+Subsection 122.5(6) effectively provides that only one individual may claim a person as a qualified dependant in relation to a specified month. In particular, two or more individuals who would otherwise be eligible to claim the person as a qualified dependant must agree as to who will claim the person as a qualified dependant for the month. If the individuals fail to make such an agreement, the person will be the qualified dependant of the individual who is entitled to the Canada Child Tax Benefit (CCTB) in respect of the person. In any other case, the Minister will designate which individual may include the person as a qualified dependant.
+[10] As can be seen the conditions for the CTB and the GSTC are very similar and if two individuals are entitled, such as a husband and wife they can agree on the one to receive the GSTC but failing such an agreement the one who is entitled to the CTB will also be entitled to the GSTC.
+[11] Extensive testimony was heard with respect to the Appellant's attention to the Children relative to schools, pharmacies, medical and dental appointments and many other matters related to their care. However, it is clear from all of the testimony that the Children did not reside with the Appellant but rather mostly with the Former Spouse during the relevant period.
+[12] As stated by Bonner J. in S.R. v. the Queen, Docket: 2003-602(IT)I:
+The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single nontaxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode.
+[13] This appeal is quite similar to Matte v. Canada, [2001] T.C.J. No. 886 where Rowe D.T.C.J. relied on another similar case Piorkowski v. The Queen, [2000] 2 C.T.C. 2308. In Pirokowski, Dussault, T.C.J. stated at page 2 as follows:
+28. I am faced here with two parties, the mother of the children on the one hand and their father (and his new spouse) on the other, who undoubtedly did their best to give their utmost attention to the care of the children and to be involved in the upbringing in a difficult joint custody situation. Each provided attention, each participated, and each got involved in his or her own way and according to his or her own means.
+29. Where the evidence taken as a whole does not really tip the scales one way or another in any significant manner, one would want to find a solution that would be in line with the wish of the parties to share the custody of their children on an equal basis, which is what was essentially agreed to and adhered to in the present case.
+30. Unfortunately, except where there is an agreement between the interested parties to share the child tax benefit on a six-month rotational basis, an arrangement accepted as an administrative practice by Revenue Canada, it is not possible to divide the benefit between the parents as was decided by the Federal Court of Appeal in R. v. Marshall, [1996] 2 C.T.C. 92.
+[14] On the facts in Piorkowski, Dussault, T.C.J. found that:
+31. In light of the factors to be considered, which was based on care, attention, participation and involvement, and in view of the evidence adduced in the present case, I must conclude that the appellant has brought insufficient evidence to demonstrate, on a balance of probabilities, that she has satisfied the condition set out in paragraph (b) of the definition of 'eligible individual' in section 122.6 of the Act, namely that she was, during the periods of issue, the parent who primarily fulfilled the responsibility for the care and upbringing of the two children.
+[15] Dussault T.C.J. went on to analyze all the evidence, found that both parents contributed significantly but, left with the task of picking one or the other as being the primary caregiver during the period in question relied on the determination made by the CRA.
+[16] In this appeal, after considering all the evidence, I have not been convinced that the decision of CRA was incorrect. More particularly the Appellant has not refuted the assumptions of the Minister which are therefore presumed to be correct.
+[17] As mentioned there are two conditions for entitlement, one being residence with the qualified dependant and the other being the primary caregiver. Although the Appellant contributed significantly to the proper upbringing of the Children, they did not reside with her. It may be possible in certain circumstances to consider the Appellant as the primary caregiver but even if this is so the residence requirement was not met and consequently the Appellant is not the eligible individual. Consequently, the appeal is dismissed and the Appellant is obliged to remit to the Minister the overpayments she has received as set forth below:
+Period
+Base taxation year /
+taxation year
+CTB paid
+CTB redetermined
+GSTC paid
+GSTC reassessed
+July 2002–July 2003
+2001
+$2,110.25
+Nil
+N/A
+N/A
+July 2003-June 2004
+-April 2004 (GSTC)
+2002
+$3,237.75
+Nil
+$660
+$330
+July 2004-Oct 2004
+2003
+$491.94
+Nil
+$220.41
+$85
+Signed at Ottawa, Canada, this 29th day of December, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC697
+COURT FILE NO.: 2006-320(IT)I
+STYLE OF CAUSE: SUSAN KERVIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kitchener, Ontario
+DATE OF HEARING: December 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: December 29, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Ryan Hall
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,148 @@
+---
+title: "Franck v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30280/index.do"
+last_modified: "2011-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 179"
+citation2: ""
+neutral_citation: "2011 TCC 179"
+decision_date: "2011-03-24"
+language: "en"
+item_id: "30280"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8023
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:43:59.560000+00:00"
+cases_cited_count: 14
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86e5de6dae999976b06e6fb3e288265ddf1f4367dd6b333a69f2aa74ddb64987"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Franck v. The Queen
+
+- Citation: 2011 TCC 179
+- Decision date: 2011-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8023, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Franck v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-24
+Neutral citation
+2011 TCC 179
+File numbers
+2010-2409(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2409(IT)I
+BETWEEN:
+DWAYNE N. FRANCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 2, 2011, at Calgary, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2008 taxation year is allowed, without costs, and the reassessment is vacated in accordance with the reasons for judgment attached hereto.
+Signed at Ottawa, Canada, this 24th day of March 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 179
+Date: 20110324
+Docket: 2010-2409(IT)I
+BETWEEN:
+DWAYNE N. FRANCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal by Dwayne N. Franck (the “Appellant”) in respect of the assessment of a penalty by the Minister of National Revenue (the “Minister”) pursuant to subsection 163(1) of the Income Tax Act (the “Act”) for failure to report employment income for more than one taxation year.
+I. Factual Background
+[2] The Respondent claims that the Appellant failed to report income for both the 2007 and 2008 taxation years. He was assessed a penalty of $7,000 in respect of unreported income for 2008; that penalty amount included both federal and provincial penalties. The error in 2007 came about because the Appellant worked at four jobs that year and he claims that he received only three T4 slips. H&R Block prepared his tax return without the fourth T4. The Appellant testified that he honestly believed that he was not required to track it down because the income was reported by his employer to the tax authorities and all taxes on such income had been paid through payroll deductions. In 2008 he filed his income tax return himself. However, he only filled out the information section as he believed that the Canada Revenue Agency (the “CRA”) would fill in the rest since they had his T4 slips. Because subsection 163(1) of the Act requires a failure to report in two of four consecutive years, a due diligence defence for either year will nullify the penalty.
+II. Analysis
+[3] Since subsection 163(1) is a strict liability provision, there is a due diligence defence available with respect to it. Due diligence can be found where there was a reasonable error of fact, or where the taxpayer took reasonable precautions to comply with the Act.[1] Both tests have a subjective and an objective element. For mistake of fact, the Appellant must subjectively have held a mistaken belief which, if true, would have rendered his action innocent and, objectively, the belief must be reasonable. In terms of reasonable precautions to comply, the steps the Appellant took must be those of a reasonable person in the circumstances.
+[4] In considering a taxpayer’s actions or belief, the case law has relied upon Bowman C.J.’s statement regarding negligence in DeCosta v. The Queen.[2] It reads as follows:
+11 In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.[3]
+[Emphasis added.]
+[5] Generally, the defence of due diligence entails a high burden for taxpayers due to the self‑reporting nature of Canada’s tax system. The following statement of Woods J. to that effect is often quoted:
+. . . Parliament has enacted subsection 163(1) to ensure the integrity of Canada's self‑reporting system. In my view, a Court should not lightly vacate the penalty provided for in the legislation.[4]
+[6] The due diligence defence was accepted in Khalil v. The Queen,[5] a case in which the taxpayer failed to include in her return the earnings shown on a T4 because she noticed tax had already been withheld on that amount. Her mistaken belief was that she did not have to declare that income since it had already been taxed. In the past she had been paid on a cash basis and had always declared that income.[6] In light of her unfamiliarity with the Canadian tax system, Judge Mogan found that there had been a reasonable mistake and went on to say:
+13 I cannot conclude that a person has "failed to report an amount" within the meaning of subsection 163(1) when the person knows (i) that the amount was payable to her as income by a particular payor; (ii) that the payor withheld a certain portion of the amount as income tax to remit to Revenue Canada; (iii) that the payor actually paid to the person only the balance remaining after deducting the tax withheld; and (iv) that the payor was required to report to Revenue Canada on a form prescribed by Revenue Canada the gross amount payable to the person and the portion withheld and remitted as tax. Accordingly, I will allow the appeal. If I should be correct in my interpretation of subsection 163(1), there is no prior "failure to report" with respect to the interest of $320.12 received from the Royal Bank of Canada.[7]
+[7] This reasoning was relied upon by the Tax Court of Canada in Iszcenko v. The Queen[8] and Alcala v. The Queen[9] in ruling in favour of the taxpayers. In Iszcenko, the taxpayer believed she did not have to report the income because it was a return of capital dividend and had been informed by her father‑in‑law to that effect.[10] In Alcala, the taxpayer relied on her accountant’s statement that she was not required to do anything in respect of a late T4 since the CRA would automatically correct through matching.[11] In both cases the taxpayers were relatively inexperienced with the Canadian tax system. Iszcenko dealt with a more complex income scenario while Alcala was factually similar to Khalil.
+[8] The following are some examples of facts which have not been considered as supporting a defence of due diligence. Where a taxpayer was unable to get a T4 because her employer went out of business and her accountant failed to estimate her income using her record of employment, there was no due diligence since the taxpayer had failed to review her tax return before filing.[12] Similarly, where a taxpayer who had failed to give his T4 to his accountant believed that the CRA would correct the omission and where that taxpayer failed to verify the return before filing, there was no exercise of due diligence.[13] Finally, where the T4s were given by a taxpayer to her mother, who prepared her tax return, and where the taxpayer did not review the final product, there was no due diligence.[14]
+[9] What distinguishes these lines of cases from one another is the taxpayer’s familiarity with the tax system. Khalil and Alcala involved inexperience while in Iszcenko there was a more complex income scenario. Woods J., in Sounders, highlighted the inexperience aspect of Khalil before declining to extend Khalil to Ms. Saunders’ situation.[15] Similarly in Paul, Sheridan J. noted the fact that the taxpayer was a long-time member of the workforce as showing the unreasonableness of his belief. Porter did not involve a mistaken belief; rather, what was involved was simply a reliance on the tax return preparer to include the amounts from all T4s.
+[10] The evidence shows that the facts in this case are closer to the facts considered by Judge Mogan in Khalil. The Appellant testified that he joined the workforce as a cook after completing high school. His demeanour and testimony allow me to conclude that he had a very limited understanding of the workings of our tax system. He honestly believed that he had no obligation to inquire about the missing T4 and that, in any event, the CRA would be aware of the information that would have appeared on the T4 because of the prescribed forms filed by the employer following the payroll deductions and remittances.
+[11] The Appellant’s demeanour suggested that he was a hard-working young man experiencing some difficulty transitioning from high school to the workforce. His work as a short‑order cook in four different establishments in the taxation year under review certainly did not allow him to gain insight into the workings of our tax-reporting system. Further, he did show good judgment in taking his tax information to H&R Block so that they could ensure that he complied with his tax‑reporting obligations for in 2007. There is no evidence to suggest that they advised him of the necessity of obtaining the T4 that had gone astray. Finally, while this is not a factor that should be given any weight in my decision, I note that the combined federal and provincial penalty exceeds the amount of tax that he was required to pay on his income. That tax was fully paid in advance through proper payroll deductions.
+[12] For these reasons, the appeal is allowed without costs and the reassessment is vacated.
+Signed at Ottawa, Canada, this 24th day of March 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 179
+COURT FILE NO.: 2010-2409(IT)I
+STYLE OF CAUSE: DWAYNE N. FRANCK v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 24, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Canada v. Consolidated Canadian Contractors Inc., [1999] 1 F.C. 209, 165 D.L.R. (4th) 433 (FCA). That case dealt with subsection 280(1) of the Excise Tax Act, a provision similar to subsection 163(1) of the Income Tax Act. See also Home Depot of Canada Inc. v. The Queen, 2009 TCC 281, [2009] G.S.T.C. 87; Peterson v. The Queen, 2010 TCC 559 (Informal Procedure); and Résidences Majeau Inc. v. The Queen, 2010 FCA 28, [2010] G.S.T.C. 54.
+[2] 2005 TCC 545, 2005 DTC 1436 (Informal Procedure).
+[3] Ibid., at para. 11; cited in Paul v. The Queen, 2008 TCC 159, 2008 DTC 3060 (Informal Procedure), at para. 6.
+[4] Saunders v. The Queen, 2006 TCC 51, 2006 DTC 2267 (Informal Procedure), at para. 15.
+[5] [2003] 1 C.T.C. 2263 (TCC) (Informal Procedure).
+[6] Ibid., at para. 8.
+[7] Ibid., at para. 13.
+[8] 2009 TCC 229, 2009 DTC 1150 (Informal Procedure).
+[9] 2010 TCC 198, 2010 DTC 1147 (Informal Procedure).
+[10] Supra, note 8, at para. 6.
+[11] Supra, note 9, at paras. 19-20.
+[12] Saunders, supra, note 4.
+[13] Paul, supra, note 3.
+[14] Porter v. The Queen, 2010 TCC 251, [2011] 1 C.T.C. 2322 (Informal Procedure).
+[15] Supra, note 4, at para. 14.

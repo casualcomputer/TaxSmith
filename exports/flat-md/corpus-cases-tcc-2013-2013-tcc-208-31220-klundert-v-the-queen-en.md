@@ -1,0 +1,195 @@
+---
+title: "Klundert v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31220/index.do"
+last_modified: "2013-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 208"
+citation2: ""
+neutral_citation: "2013 TCC 208"
+decision_date: "2013-06-21"
+language: "en"
+item_id: "31220"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5094
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:02:54.930000+00:00"
+cases_cited_count: 15
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "289e22be6a4cf39bd7b2326fce7c1ae9dd2694690c3aab4b458ab5e161bd4f5f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Klundert v. The Queen
+
+- Citation: 2013 TCC 208
+- Decision date: 2013-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5094, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klundert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-21
+Neutral citation
+2013 TCC 208
+File numbers
+2012-4293(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4293(IT)G
+BETWEEN:
+JACK KLUNDERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on June 7, 2013, at Victoria, British Columbia.
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Christopher D.R. Maddock, Q.C.
+and Jeremy Maddock
+Counsel for the Respondent:
+Michelle Casavant
+and Whitney Dunn
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order:
+1. striking this purported appeal under section 12 of the Tax Court of Canada Act and section 171 of the Income Tax Act and sections 53 and 58 of the Tax Court of Canada Rules (General Procedure); and
+2. dismissing the Notice of Appeal with costs; and
+3. providing such further and other relief as this Court deems just.
+AND UPON motion by the Appellant for an Order:
+1. that the Appellant be granted leave to amend the Notice of Appeal, so that the “Relief Sought” might read as follows:
+1. An order vacating the assessments in their entirety on the grounds that the Appellant’s Charter rights have been infringed.
+2. In the alternative, a declaration that all evidence gathered using the Canada Revenue Agency’s audit powers while a criminal investigation was ongoing is inadmissible on the grounds that it was gathered through a breach of the Appellant’s Charter rights, and to admit such evidence in the circumstances would bring the administration of justice into disrepute.
+UPON reading the materials filed, and upon hearing from counsel for the Appellant and counsel for the Respondent;
+THIS COURT ORDERS that:
+1. the Respondent’s motion is allowed and the appeals from the reassessments made under the Income Tax Act for the Appellant’s 1993, 1994, 1995 and 1996 taxation years are dismissed.
+2. the Appellant’s motion to amend his Notice of Appeal is denied.
+3. costs of these motions are awarded to the Respondent.
+Signed at Ottawa, Canada, this 21st day of June 2013.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2013 TCC 208
+Date: 20130621
+Docket: 2012-4293(IT)G
+BETWEEN:
+JACK KLUNDERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] The Respondent has brought a motion to strike the Appellant’s Notice of Appeal and dismiss same pursuant to sections 53 and 58 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) on the grounds the Notice of Appeal fails to contain any proper pleading; this Court does not have jurisdiction to hear the appeal, such Notice of Appeal is an abuse of process and is frivolous and vexatious and that the issues in this Notice of Appeal have already been determined in previous Ontario Court proceedings and hence issue estoppel applies as well as the doctrine of collateral attack.
+[2] The Appellant disputes the Respondent’s grounds for striking or dismissal on the grounds the Notice of Appeal raises issues of law which are within the jurisdiction of this Court that have not been addressed in any previous proceeding; namely, whether evidence that should have been inadmissible in prior criminal proceedings for tax evasion and the making of false statements that was not argued to be inadmissible in such prior proceedings, violate the Appellant’s constitutional rights pursuant to sections 7 and 8 of the Canadian Charter of Rights and Freedoms (the “Charter”), and requests that the Court grant his motion to amend his Notice of Appeal by also adding an additional request for relief by quashing the reassessment on grounds of such constitutional violation, or in the alternative, find such evidence to be inadmissible for the purposes of this tax appeal.
+[3] The facts providing context for the issues in dispute here are not themselves disputed. The Appellant, an optometrist practising in Windsor, Ontario, either filed tax returns showing nil income or failed to file tax returns between 1993 and 1997 taxation years and was investigated by audit at first and then subject to a criminal investigation pursuant to which a warrant for search and seizure was executed pursuant to section 487 of the Criminal Code, R.S.C. 1985, c. C-46, as amended. The Appellant had three trials before the Ontario Superior Court of Justice on tax evasion, two appeals before the Ontario Court of Appeal, and leave to appeal to the Supreme Court of Canada was denied. The third and last trial before the Ontario Superior Court of Justice, by jury, was decided on May 20, 2010, in which the Appellant was convicted of tax evasion under section 239 of the Income Tax Act (the “Act”); which conviction was appealed to the Ontario Court of Appeal which dismissed his appeal on September 12, 2011, and for which leave to appeal to the Supreme Court of Canada was denied on April 5, 2012. Based on the findings of this third trial, in which the Appellant was found to have failed to report respective amounts of $241,625, $270,403, $434,931, $254,520 and $272,910 for the years from 1993 to 1997, the Canada Revenue Agency (“CRA”) reassessed his income taxes on exactly the same basis.
+[4] The material facts relied upon by the Appellant in his Notice of Appeal are contained in paragraph (c) thereof and are set out below:
+1. On January 30, 1996 and April 1, 1996, the Canada Revenue Agency served the Appellant with Requirements to Provide Information and Documents, pursuant to subsection 231.2 of the Income Tax Act. This was an exercise of the Canada Revenue Agency’s audit powers.
+2. Between September 1996 and May 1997, the Appellant was the subject of a criminal prosecution under the Income Tax Act for failure to comply with the Requirements to Provide Information and Documents. On May 1, 1997, he was acquitted.
+3. In June 1997, the Canada Revenue Agency wrote to the Ministry of Health requiring it to produce a list of payments made to the Appellant by the Ministry of Health on account of medical services rendered for the 1993 and 1994 tax years. This was an exercise of the Canada Revenue Agency’s audit powers.
+4. On March 25, 1999, the Canada Revenue Agency obtained and executed a warrant to search Dr. Klundert’s home and business premises, pursuant to Section 487 of the Criminal Code. This was the culmination of a lengthy criminal investigation involving alleged offences under the Income Tax Act.
+5. Throughout 1999, the Canada Revenue Agency continued to use its audit powers to gather information for the ongoing criminal investigation. Requirements for Information were served on OHIP, the Windsor Laser Eye Institute, the Bank of Montreal, and the Royal Bank.
+6. On September 1, 1999, the Canada Revenue Agency wrote to the Appellant’s secretary, Ms. Patricia Renaud, requiring her to provide information about the Appellant’s optometry practice. This was yet another exercise of the Canada Revenue Agency’s audit powers.
+7. On March 13, 2001, the Agency wrote to Ann Barnes at the Registration & Claims Branch of the Ministry of Health, with a further Requirement for Information in regard to payments made to Dr. Klundert. This too was an exercise of the Canada Revenue Agency’s audit powers.
+8. The evidence gathered by the Canada Revenue Agency using its audit powers was used to further an extensive criminal investigation against Dr. Klundert.
+[5] The facts as pleaded contain no specific facts as to what information was improperly used, only broad statements that information was sought and collected from third parties. In argument, the Appellant suggested the Appellant was cross‑examined on such third party information in the first trial but provides no details or relies on any specific facts in the Notice of Appeal.
+[6] The Appellant’s position is best summarized in his Statement of Facts contained in paragraphs 2 and 3 of his written submissions with respect to the motions:
+2. To summarize the facts put forward by the Appellant, there was an overlap of at least 54 months (September 1996 to March 2001) in which the Appellant was subject to both audit and investigative powers of the Canada Revenue Agency. During this time, a Criminal Code search warrant was executed (on March 25, 1999), which provided the basis for a criminal prosecution. Throughout 1999, the Canada Revenue Agency pursued an extensive audit of the Appellant, serving Requirements for Information on OHIP, the Windsor Laser Eye Institute, the Bank of Montreal, the Royal Bank, and the Appellant’s secretary, Patricia Renaud. As late as March 31, 2001, a year before the Appellant’s first criminal trial, the Canada Revenue Agency was using its civil audit powers to obtain information about his finances.
+3. In response to the “other material facts” brought forward by the Respondent, and specifically paragraphs 2(e) and 2(f) of the Respondent’s Written Submissions, it is the position of the Appellant that any admissions elicited at his criminal trials were the result of a criminal process in which evidence collected using the Canada Revenue Agency’s civil audit powers were put to him in cross-examination. The admissions described only serve to highlight the overlap between the audit and investigative powers of the Canada Revenue Agency in this case.
+[7] For sake of clarity and context, the above referenced paragraphs 2(e) and 2(f) in the Respondent’s Written Submissions should in fact be a reference to paragraphs 4(e) and 4(f) which read as follows:
+e) On November 14, 2008, MacFarland J.A. on behalf of the Court of Appeal for Ontario, on the appeal of the June 26, 2006 acquittal of the Appellant on the charge of income tax evasion for the 1993 to 1997 taxation years, stated in the reasons for judgement: “It was admitted that during the relevant period the total income not declared by the respondent, including some interest and RRSP income, was $1,474,389.”
+f) On May 20, 2010, the Appellant was convicted, after a third trial, by Mr. Justice Patterson of the Superior Court of Justice, sitting with a jury, of income tax evasion under s. 239 of the Act, in respect of his failure to report income for the 1993, 1994, 1995, 1996 and 1997 taxation years (the “Taxation Years”), in the respective amounts of $241,625, $270,403, $434,931, $254,520 and $272,910.
+[8] In essence argues the Appellant, the information obtained under the CRA’s investigative powers were used in pursuance of its criminal investigation and trial contrary to the principles enunciated in the Supreme Court of Canada’s ruling in R v Jarvis, [2002] 3 SCR 757, which found that the use of audit functions to further criminal investigation infringes upon sections 7 (the right to life, liberty and the security of the person) and 8 (the right to be secure against unreasonable search and seizure) of the Charter, and accordingly, any evidence obtained from such improper searches, including any of the admissions made by the Appellant in any of the criminal proceedings should be excluded as evidence under subsection 24(2) of the Charter and that such violation is serious enough for the Tax Court of Canada to exercise its discretion to quash the reassessment in full. No material facts were pleaded in the Notice of Appeal to lay before the Court the specific violations complained of.
+[9] It should be noted, however, that the Jarvis case was decided in the same year and just after the Appellant’s first criminal trial and of course before the first appeal to the Ontario Court of Appeal or the other two trials. The third trial, on which the Appellant was finally convicted by jury occurred in 2010, many years after the Jarvis decision, which was upheld by the Ontario Court of Appeal and for which leave to appeal to the Supreme Court of Canada was denied, was the basis for the CRA’s reassessment as above noted. The Appellant concedes he has no knowledge as to why previous counsel who was a reputable criminal lawyer did not raise the Charter argument he now raises in any of the criminal proceedings relating to the Appellant, all but one of which was post Jarvis. Nonetheless, the Appellant argues that an alleged violation of the Jarvis principles, albeit prior to the Jarvis decision, and notwithstanding no argument was made thereon in subsequent trials and appeals, including the final jury trial in 2010 and its subsequent appeal, should be considered as a live issue before this Court, since it was not dealt with beforehand and hence the Respondent’s argument of issue estoppel cannot apply to the undetermined Charter issues that are still live before the Court.
+The Law
+[10] Under paragraphs 53(b) and (c) of the Rules, a Court may strike out or expunge all or part of a pleading on the ground it is scandalous, frivolous or vexatious, or is an abuse of the process of the Court.
+[11] Under paragraph 58(1)(b) of the Rules, a party may apply to the Court to strike out a pleading because it discloses no reasonable grounds for appeal or apply under paragraph 58(3)(a) of the Rules to have an appeal dismissed on the grounds the Court has no jurisdiction over the subject matter of the appeal.
+[12] There is no dispute between the parties that to strike out a pleading, a high standard must be met; namely as set out by the Supreme Court of Canada in Hunt v Carey Canada Inc., [1990] 2 SCR 959 at page 980 that “it must be plain and obvious, “that the pleading in question” discloses no reasonable cause of action”.
+[13] The Courts have held that failure to disclose a reasonable cause of action may occur for many reasons, including seeking relief that does not fall within the jurisdiction of this Court as was the case in Hardtke v Canada, 2005 TCC 263, 2005 DTC 676, or due to doctrines of issue estoppel, collateral attack and abuse of process that prevent this Court form relitigating a case determined by another court having competent jurisdiction, or simply failing to plead any material facts that evidence a cause of action. In the case at hand, the Respondent has attacked the Appellant’s Notice of Appeal on all these grounds so we will proceed to analyse the grounds.
+Pleadings Disclose No Cause of Action and No Jurisdiction to Grant Relief Sought
+[14] The Respondent argues that the Appellant has pled no facts that would enable the Court to exercise its powers under section 171 of the Act to dismiss the appeal or allow it and vary, vacate or send the reassessment back to the Minister of National Revenue (the “Minister”) for reconsideration and reassessment. Indeed, the Appellant has not challenged the quantum of the reassessment, or the component part of such reassessment such as the level of expenses allowed, in any way. It would appear that no facts were pleaded, which if found true, would give the Court grounds to exercise any of its section 171 powers to allow the appeal in respect of the reassessments in issue and hence at first glance the Appellant does not appear to have pleaded any material facts to give rise to any cause of action; thus leaving a dismissal as the only power to be left for the Court to exercise. The Respondent also argues that this Court has no jurisdiction to grant the declaratory relief sought by the Appellant to exclude evidence from the civil audit in this matter before the Court.
+[15] However, the Appellant argues that the inferred violation of the Appellant’s Charter rights in the first trial should be sufficient to allow and vacate or quash the appeal as the Court has the power to exercise discretionary remedies pursuant to subsection 24(2) of the Charter of Rights and in fact the Federal Court of Appeal confirmed the broader powers of this Court in the event of such violation in Canada v O’Neill Motors Ltd., [1998] 4 FC 180, wherein Linden J.A. stated:
+In cases of evidence obtained by infringing the Charter, section 24 of the Charter allows the award of a remedy other than the exclusion of evidence. In my view, it is wrong to say, as counsel for the Crown does, that R. v. Therens et al., supra, forbids any remedy other than the exclusion of evidence where evidence is obtained unconstitutionally. Subsection 24(2) expressly permits the exclusion of evidence as one remedy; it does not remove the general authority given to the Court in subsection 24(1) to grant such remedy as is “appropriate and just”. …
+[16] The Appellant also refers to Campbell v The Queen, 2004 TCC 460, 2004 DTC 3502, in which this Court, relying on O’Neill Motors above, vacated the assessment when the only evidence that could sustain the assessment was, by admission of the Crown, illegally obtained evidence that once excluded would leave no evidence remaining on which the Minister could base its assessment.
+[17] It is clear then that this Court has jurisdiction to grant not only declaratory relief in finding evidence should be declared inadmissible where circumstances permit but also in exercising its power to vacate an assessment under section 171 of the Act where such inadmissible evidence leaves no evidence on which the Minister can otherwise base its assessment.
+[18] The question then remains as to whether the Appellant has pleaded sufficient facts, which if found true, would enable the Court to quash or vacate the reassessment as the Appellant effectively asks by seeking the remedy that any admissions and evidence improperly admitted be inadmissible before this Court. The Appellant, of course, specifically asks for the remedy of quashing the reassessment in his motion to amend his Notice of Appeal which I treat as requesting it be vacated.
+[19] The problem I have is that the pleadings cite chronological events only that may suggest a violation if the Minister had the predominant purpose of eliciting the information for criminal purposes as was the test in Jarvis and such information was used for that purpose. There are absolutely no facts pleaded as to what information was improperly obtained or when or in what manner or that any such improper information was even used? In Jarvis, the Supreme Court of Canada confirmed that there is no prohibition against the continuation of parallel inquiry for civil and criminal purposes. On page 762, the Supreme Court of Canada stated:
+… Once an auditor has inspected or required a document under ss. 231.1(1) and 231.2(1), the taxpayer cannot be said to have a reasonable expectation that the auditor will guard its confidentiality. As a consequence, there is no general rule that prevents auditors from passing files containing validly obtained audit materials to investigators. Nor is there any reason that the CCRA cannot conduct parallel administrative audits and criminal investigations. However, if the CCRA simultaneously conducts an administrative audit and criminal investigation, investigators can avail themselves only of that information obtained pursuant to the audit powers prior to commencement of the criminal investigation. …
+[20] The Appellant must make more than broad statements inviting conjecture on the part of the Court. His pleadings must set out a concise statement of the material facts he relies on in sufficient detail to enable the Court and the Respondent to know each cause of action to properly address. Here, the Appellant has done no such thing. In Simon v Canada, 2011 FCA 6, 2011 DTC 5016, Dawson J.A. said at paragraph 18:
+18. The requirement that a pleading contain a concise statement of the material facts relied upon is a technical requirement with a precise meaning at law. Each constituent element of each cause of action must be pleaded with sufficient particularity. A narrative of what happened and when it happened is unlikely to meet the requirements of the Rules. …
+[21] This sentiment was also expressed by the Federal Court of Appeal in Merchant Law Group v Canada (Revenue Agency), 2010 FCA 184, [2010] GST 105 (FCA), where Stratas J.A., relying on that Court’s earlier decision in Vojic v Canada (MNR), 87 DTC 5384 (FCA), confirmed that where a pleading “contains a set of conclusions, but does not provide any material facts for the conclusions”, then “The bare assertion of a conclusion upon which the court is called upon to pronounce is not an allegation of a material fact”.
+[22] In Nelson v Canada (Minister of Customs and Revenue Agency), 2001 DTC 5644, Rouleau J. also stated at paragraph 15:
+15. … Generally material facts in the statement of claim must be taken as true and in determining whether a reasonable cause of action is disclosed, cannot be based on assumptions and speculations and they cannot be taken as true simply because they are bold statements unless there is substantive facts to support the allegations. …
+[23] There is no evidence in the pleadings that would allow the Court to come to the conclusion the Appellant’s Charter rights were violated. Unlike in O’Neill Motors above, here there is no admission of the Respondent that evidence was illegally obtained nor do we have a finding from the Ontario Superior Court of Justice as to same notwithstanding that the Appellant had multiple opportunities to plead such issue before both trial and appellate courts. In short, there is no evidence, finding or pleading that would permit this Court to find that the pleadings are sufficient to establish any cause of action. All we have is conjecture, speculation and innuendo. These are not enough to meet the threshold that the Appellant has any chance whatsoever to succeed in his claim.
+[24] When fundamental rights such as those protected under the Charter are in issue, I would probably be more inclined to grant an order allowing an Appellant to amend his Notice of Appeal, but here the Appellant’s motion to amend his Notice of Appeal is only for the purposes of adding the requested relief of quashing the reassessment and not to plead any material facts that would enable the Court to deal with the issue more appropriately. Accordingly, on the basis of the pleadings alone, I would dismiss the Notice of Appeal, however, the matter must be also be viewed in the entire context and after consideration of the other grounds relied upon by the Respondent, since in the end, all the Appellant’s arguments lead to the alleged Charter violation.
+Issue Estoppel, Collateral Attack and Abuse of Process
+[25] The Respondent argues the Appellant is estopped from challenging the reassessment on the basis the quantum of taxes found to be owing by the Ontario Superior Court of Justice, who had jurisdiction to hear the Appellant’s tax evasion trials, have effectively finally decided the issue. The three preconditions to invoke issue estoppel are found in the decision of Toronto (City) v C.U.P.E., Local 79, 2003 SCC 63, [2003] 3 SCR 77 at paragraph 23:
+23. Issue estoppel is a branch of res judicata (the other branch being cause of action estoppel), which precludes the relitigation of issues previously decided in court in another proceeding. For issue estoppel to be successfully invoked, three preconditions must be met: (1) the issue must be the same as the one decided in the prior decision; (2) the prior judicial decision must have been final; and (3) the parties to both proceedings must be the same, …
+[26] There is no question in my mind that as to the issue of the finding of unreported income and the quantum of the reassessment there can be no argument that the conditions have all been met, including finality when the Supreme Court of Canada denied the Appellant leave to appeal the third trial results which were upheld by the Ontario Court of Appeal.
+[27] There is ample precedent that issue estoppel can apply in civil proceedings where the estoppel was based upon a conviction in a criminal case. This principle has been followed by the Federal Court of Appeal in Van Rooy v The Minister of National Revenue, 88 DTC 6323 (FCA) and this Court in decisions of Holub v Canada, [1996] TCJ No. 1784 (QL) and Mortensen v Canada, 2010 TCC 177, 2010 DTC 1133, both cases where the Appellants therein were convicted of tax evasion on which the assessments of income were based.
+[28] The Appellant argues, however, that the Charter issue was never decided by the Ontario Court or the appellate Courts and thus such issue remains a “live issue” that this Court can deal with and that even if the three preconditions are met for issue estoppel this Court had discretion to not dismiss the appeal. In Stanley J. Tessmer Law Corp. v Canada, 2008 TCC 469, [2008] TCJ No. 392 (QL), Campbell J. of the Tax Court of Canada stated at paragraph 21:
+21. Considering all of these arguments, I am satisfied that there are sufficient circumstances here that justify the exercise of my discretion to conclude that the elements of issue estoppel are not satisfied. Even if the preconditions were met, I believe I must look at the overall circumstances of the particular case before me in deciding if issue estoppel should apply. It should never be applied indiscriminately. It is not obvious that portions of the Notices of Appeal concerning the constitutional grounds are so frivolous, vexatious and an abuse of process that they should be struck.
+[29] The principles the Appellant seeks to rely upon in Tessmer above; namely that the court has discretion in the application of issue estoppel and may consider issues not fully determined by other courts, was also confirmed by this Court in MacIver v The Queen, 2005 TCC 250, 59 DTC 654, where, notwithstanding that Appellant’s conviction for tax evasion, only the issue of unreported income had been determined and not any allowable expenses thus the latter was a live issue for the Court to consider. In Roberston v The Queen, 2007 TCC 472, [2007] TCJ No. 576 (QL), this Court also dismissed a motion to strike on the grounds the Appellant may have had a constitutional argument for the court to consider. Although Robertson was not a case based on the doctrine of estoppel, the Appellant suggests we follow it on the basis it demonstrates the Court’s reluctance to strike when constitutional or fundamental issues may still be in play.
+[30] Unlike in MacIver where this Court found there was uncertainty as to whether the assessment had been fully determined by the criminal court, here there is no pleading to challenge the quantum of the reassessment. The only argument the Appellant makes is that his Charter rights may have been violated in a criminal proceeding that was not the basis of the criminal conviction for tax evasion relied upon by the Respondent to argue issue estoppel; the third trial by jury in 2010 being such basis as earlier discussed and that the issue of whether improperly obtained evidence was used in that first trial, or anywhere subsequent to that as is implied, was never adjudicated.
+[31] Although I find the Appellant’s argument remote and unlikely to succeed if he were allowed to argue this specific issue before a judge of this Court having regard to the insufficiency of his pleadings, I must concede that, however weak I might consider his chances in the circumstances, to dismiss his appeal solely on the basis of issue estoppel would not be appropriate. The Appellant is correct that the Charter issue was not an issue determined by a court having competent jurisdiction and thus one of the preconditions to the application of the doctrine of issue estoppel may not have been met; due to the Appellant’s own failure to have raised it.
+[32] Notwithstanding the above, the courts have recognized that while similar considerations may apply to the doctrines of issue estoppel, abuse and collateral attack, the courts have also distinguished the rationale for the doctrines. In Toronto (City), the Supreme Court of Canada stated at paragraph 37:
+37. In the context that interests us here, the doctrine of abuse of process engages “the inherent power of the court to prevent the misuse of its procedure, in a way that would … bring the administration of justice into disrepute. …
+[33] In the same paragraph, the Court went on to quote Goudge J.A of the Ontario Court of Appeal in supporting that Court’s decision in Canam Enterprises Inc. v Coles, 2002 SCC 63, [2002] 3 SCR 307, who expanded on the doctrine’s concept:
+The doctrine of abuse of process engages the inherent power of the court to prevent the misuse of its procedure, in a way that would be manifestly unfair to a party to the litigation before it or would in some other way bring the administration of justice into disrepute. It is a flexible doctrine unencumbered by the specific requirements of concepts such as issue estoppel. …
+[34] In essence, I find that the Appellant’s obvious failure to have raised the issue of violation of Charter rights in the several previous processes before the Ontario Superior Court of Justice, the Ontario Court of Appeal and in leave to appeal to the Supreme Court of Canada over the period from 2002 to 2012 and then to raise the matter here to be an extreme abuse of this Court’s processes and one that would, if permitted, be akin to this Court usurping the jurisdiction of those Courts and in fact placing itself in the role of appellate court to them, which would be ridiculous.
+[35] The Appellant is effectively asking this Court to decide the issue as to whether evidence obtained in a civil matter audit was used in evidence, improperly, to obtain a criminal conviction when he could have and should have asked those other courts who had the jurisdiction to do so. That matter is solely within the jurisdiction of the Ontario Courts to decide. The argument of the Appellant is that if they did not do so, even if the Appellant did not raise the issue in the several proceedings before the Ontario Superior Court of Justice, the Ontario Court of Appeal or in leave to the Supreme Court of Canada, that somehow this Court has jurisdiction to entertain the argument. I do not agree. It is one thing for this Court to accept that the decision of those competent Courts on the admissibility of such evidence should apply to proceedings under this Court as the Courts did in Holub and MacIver above, it is quite another to suggest that this Court, in the exercise of its discretionary jurisdiction under subsection 24(2) of the Charter should accept the role of hearing matters outside its jurisdiction just because they were not heard in the court having jurisdiction to hear them in the first place.
+[36] Consequently I cannot agree the Charter transfers the power to hear tax evasion matters to this Court in the exercise of its discretionary powers alluded to in subsection 24(2) of the Charter. I accept, however, that when a Charter violation has been determined by a Court having competent jurisdiction that we have the jurisdiction to grant a discretionary remedy such as dismissing an assessment where the effect of that decided violation would leave no evidence on which this Court could dismiss the appeal or otherwise vary it or send it back for reconsideration and reassessment under section 171 of the Act. In the case at hand, there had been no determination by a court having competent jurisdiction in tax evasion matters that such violation occurred nor any facts or evidence pleaded, which if assumed to be true would support such allegation. Moreover, I would not be prepared to exercise any discretion to grant the Appellant’s requested remedies under any discretionary power this Court may have in the circumstances here as it would bring the administration of justice into disrepute.
+[37] It is significant that the Appellant acknowledges that the issue he asks this Court to determine was not raised in any of the three trials, two appeals or one leave to appeal above referenced and he has no knowledge why. If the Appellant himself did not see fit to raise the Charter issue before the competent Court in the first place, especially when the basis for his defence in his tax evasion trials was that he had no intent to commit tax evasion but only intended to protest what he considered unlawful government action or the constitutional validity of the Federal Government’s power to impose and collect taxes, then I certainly do not see how it can now be raised in the first instance here. Moreover, the fact Jarvis had not even been decided at the time of the first trial suggests there was no enforceable law prohibiting the Respondent from using any such audit information if in fact he did so; of which there is no material fact pleaded to allow this Court to conclude it was so in any event. Jarvis was in play after the first trial, before the first appeal was heard and before the second and third trial proceedings started so I fail to understand how the Appellant has in any way been deprived of his Charter rights in the first place. The fact his defence of criminal charges was based on constitutional arguments suggests he was keenly aware of constitutional and Charter issues.
+[38] Frankly, coming to this Court after going all the way to the Supreme Court of Canada is nothing short of blatant abuse of process and a frivolous act that attempts to place this Court in a position of appellate Court to those higher appellate courts. I am not prepared to assume such a ridiculous and disrespectful role. The Appellant is doing nothing more than attempting to relitigate the same issue he had or should have had before the Ontario Courts before the Tax Court of Canada which also offends the doctrine of collateral attack as argued by the Respondent and constitutes a blatant abuse of process that is not to be condoned.
+[39] Accordingly, on the basis that the Notice of Appeal pleads no facts sufficient to establish a cause of action and is a blatant abuse of process, the motion of the Respondent to dismiss the appeal is allowed and the motion of the Appellant to amend his Notice of Appeal to seek vacating or quashing of the reassessment is denied. The Respondent shall be entitled to costs on these motions.
+Signed at Ottawa, Canada, this 21st day of June 2013.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION: 2013 TCC 208
+COURT FILE NO.: 2012-4293(IT)G
+STYLE OF CAUSE: JACK KLUNDERT and
+HER MAJESTYTHE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: June 7, 2013
+REASONS FOR ORDER BY: The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER: June 21, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Christopher D.R. Maddock, Q.C.
+and Jeremy Maddock
+Counsel for the Respondent:
+Michelle Casavant
+and Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christopher D.R. Maddock, Q.C.
+and Jeremy Maddock
+Firm: N/A
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,171 @@
+---
+title: "Endres v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25973/index.do"
+last_modified: "2004-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 155"
+citation2: ""
+neutral_citation: "2004 CCI 155"
+decision_date: "2004-03-19"
+language: "fr"
+item_id: "25973"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3771
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:41:08.322000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3fcaa1f009cec5dbe6f476b70bb684fff759dda448abec2eb7f55a982fb39e1d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Endres v. M.N.R.
+
+- Citation: 2004 CCI 155
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3771, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Endres v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-19
+Référence neutre
+2004 CCI 155
+Numéro de dossier
+2003-2632(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2632(EI)
+ENTRE :
+WALTER ENDRES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MELISSA RUDDY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l'appel de Walter Endres
+(2003-2633(CPP)) à North Bay (Ontario), le 4 février 2004.
+Devant : L'honorable J.M. Woods
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Pour l'intervenante :
+Me Nicolas Simard
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance-emploi, selon laquelle Melissa Ruddy exerçait un emploi assurable pendant qu'elle travaillait pour l'appelant, du 1er avril 2001 au 30 juin 2002, est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Dossier : 2003-2633(CPP)
+ENTRE :
+WALTER ENDRES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MELISSA RUDDY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l'appel de Walter Endres
+(2003-2632(EI)) à North Bay (Ontario), le 4 février 2004.
+Devant : L'honorable J.M. Woods
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Pour l'intervenante :
+Me Nicolas Simard
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision rendue par le ministre du Revenu national en vertu du Régime de pensions du Canada, selon laquelle Melissa Ruddy exerçait un emploi ouvrant droit à pension pendant qu'elle travaillait pour l'appelant, du 1er avril 2001 au 30 juin 2002, est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI155
+Date : 20040319
+Dossiers : 2003-2632(EI)
+2003-2633(CPP)
+ENTRE :
+WALTER ENDRES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MELISSA RUDDY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Walter Endres interjette appel contre des décisions rendues par le ministre du Revenu national en vertu du Régime de pensions du Canada et de la Loi sur l'assurance-emploi, selon lesquelles il était l'employeur de Melissa Ruddy lorsque cette dernière avait travaillé à sa station-service Shell et à son dépanneur du 1er avril 2001 au 30 juin 2002.
+[2] Mme Ruddy et son fiancé, Robbie Godden, ont travaillé à la station-service et au dépanneur de M. Endres pendant environ un an dans le cadre d'une entente destinée à leur permettre d'économiser de l'argent en vue d'acheter l'entreprise. En effet, M. Endres prenait sa retraite pour des raisons personnelles et il devait trouver un acheteur ou fermer l'entreprise.
+[3] Une entente a été conclue selon laquelle Mme Ruddy et son fiancé devaient « exploiter » la station-service et le dépanneur et acheter ensuite l'entreprise lorsqu'ils auraient économisé suffisamment d'argent pour payer la moitié du prix d'achat. Mme Ruddy a qualifié l'entente d'option parce qu'elle pouvait être annulée par l'une ou l'autre partie à bref délai. Pendant qu'ils exploitaient l'entreprise avant l'achat, Mme Ruddy et son fiancé devaient chacun toucher des frais mensuels plus une commission, ce qui était semblable à la rémunération que M. Endres versait antérieurement aux employés. En vue d'aider à rassembler les fonds nécessaires pour l'achat, le couple s'était vu offrir un logement gratuit sur les lieux et devait déposer ses économies dans un compte bancaire sur lequel M. Endres exerçait un contrôle. Au bout d'à peu près un an, le couple a décidé de ne pas procéder à l'achat; il a annulé l'entente conformément aux conditions qui y étaient stipulées. Ces appels se rapportent au statut de Mme Ruddy pendant qu'elle travaillait à la station-service pendant l'année où l'entente était en vigueur.
+[4] Le dossier ne montre pas clairement ce qui a amené le ministre à examiner le statut de Mme Ruddy en vertu de la Loi sur l'assurance-emploi et du Régime de pensions du Canada, mais de toute façon, le ministre a conclu que M. Endres était l'employeur de Mme Ruddy. M. Endres interjette appel contre ces décisions.
+[5] Les appels ont été entendus ensemble sur preuve commune. M. Endres a témoigné pour son propre compte et Mme Ruddy a été citée comme témoin de la Couronne.
+Principes généraux
+[6] Il n'existe pas de critères précis permettant de déterminer si une personne est un employé ou un entrepreneur indépendant; chaque cas est tranché selon les faits qui lui sont propres. Les principes généraux à appliquer sont décrits par le juge Major dans l'arrêt qui fait autorité, Sagaz Industries Canada Inc. c. 671122 Ontario Limited, [2001] 2 R.C.S. 983 :
+[47] [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[7] Il s'agit ici de savoir si Mme Ruddy exploitait une entreprise à son compte. Le témoignage présenté à l'audience mettait en partie l'accent sur la question de savoir si M. Endres avait continué à être propriétaire de la station-service pendant la durée de l'entente. Ce genre de question semblait laisser entendre que Mme Ruddy ne pouvait pas exploiter une entreprise distincte à moins que le couple ne soit propriétaire de la station-service. Ce n'est pas le cas, et la question de savoir si la station-service a continué à appartenir à M. Endres pendant que Mme Ruddy et son fiancé étaient les exploitants n'est pas déterminante en l'espèce. Il s'agit en fait de savoir si Mme Ruddy agissait avec son fiancé à titre d'entrepreneur indépendant ou à titre de gérante de la station-service, qui appartenait clairement à M. Endres pendant la période pertinente. À mon avis, la preuve établit clairement que Mme Ruddy exploitait sa propre entreprise.
+Le facteur « contrôle »
+[8] Le facteur le plus important dans ce cas particulier est le degré de contrôle que M. Endres pouvait exercer sur Mme Ruddy. Il n'est pas contesté que Mme Ruddy et son fiancé [TRADUCTION] « contrôlaient les activités quotidiennes » (réponse, alinéa 11j)).
+[9] La cause de la Couronne dépend principalement de différents aspects du « contrôle » exercé par M. Endres. La Couronne fait valoir que ces aspects établissent l'existence d'une relation subordonnée. Je ne souscris pas à cette conclusion. M. Endres intervenait parfois dans la conduite de l'entreprise, mais en général, le couple exploitait l'entreprise d'une façon indépendante. Le travail de Mme Ruddy était fort peu supervisé. M. Endres se présentait à la station-service uniquement pour recouvrer l'argent tous les jours ou presque tous les jours, sauf lorsqu'il offrait gratuitement son temps le dimanche matin afin de donner un répit au couple. Mme Ruddy et son fiancé pouvaient embaucher des employés, et il arrivait parfois qu'ils prennent des dispositions pour que d'autres personnes travaillent à la station-service, mais il s'agissait d'arrangements spéciaux et les travailleurs n'étaient jamais rémunérés en espèces. Le couple a changé, de sa propre initiative, l'agencement et le rayonnage du dépanneur, quoique avec le consentement de M. Endres. La preuve dans son ensemble tend à démontrer que Mme Ruddy et son fiancé exerçaient un contrôle sur l'entreprise, sous la supervision du propriétaire.
+[10] L'avocat de la Couronne soutient que M. Endres a continué à prendre les principales décisions à l'égard de l'entreprise. Ainsi, pendant le contre-interrogatoire, on a demandé à M. Endres si Mme Ruddy et son fiancé avaient le droit de changer le prix de l'essence. M. Endres a admis qu'il devait être consulté pour une décision de cette nature. Je suis d'accord pour dire que M. Endres réservait de fait son droit de prendre des décisions importantes, mais à mon avis le fait qu'un propriétaire d'entreprise réserve son droit de prendre des décisions importantes n'équivaut pas à l'exercice d'un contrôle sur le travailleur.
+[11] La Couronne mentionne également d'autres aspects du « contrôle » . Le « contrôle » était parfois exercé en vue d'assurer le respect du contrat que M. Endres avait conclu avec Shell Canada. Ainsi, M. Endres a manifesté son opposition lorsqu'un ami de Mme Ruddy a travaillé à la pompe sans porter l'uniforme obligatoire de Shell. Dans d'autres cas, il s'est vu obligé d'intervenir pour s'assurer que le travail était accompli de la façon appropriée. Ainsi, M. Endres donnait des « instructions » à Mme Ruddy au sujet de la façon de nettoyer le plancher du dépanneur et d'essuyer les pare-brise à la pompe. M. Endres s'est également opposé à l'achat de vestes de chasse que le couple voulait mettre en vente comme nouvel article dans le dépanneur, et il a obligé le couple à prendre en charge le coût de cette marchandise.
+[12] M. Endres a témoigné qu'à part l'événement relatif aux vestes de chasse, il ne donnait pas d'ordres au sujet de la façon d'accomplir les tâches; il se contentait de donner des suggestions pour aider le couple. Il a fait savoir qu'à son avis, le couple, qui n'avait pas d'expérience, aurait dû lui demander de l'aide plus souvent. D'autre part, Mme Ruddy estimait, ce qui est bien compréhensible, qu'elle devait se conformer aux « suggestions » de M. Endres parce que l'entreprise appartenait encore à celui-ci.
+[13] Indépendamment de la question de savoir si des suggestions étaient données, ou s'il s'agissait plutôt d'ordres, je conclus que cela portait en général sur des questions de contrôle de la qualité et que cela n'établit pas que M. Endres pouvait généralement dicter à Mme Ruddy le travail à accomplir. Le contrôle de la qualité du travail n'est pas incompatible avec une relation à titre d'entrepreneur indépendant. Sur ce point, voici ce que le juge Décary a dit dans l'arrêt Canada v. Charbonneau, (1996) 207 N.R. 299 (C.A.F.) :
+Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[14] Dans l'ensemble, je conclus que la preuve étaye le témoignage de M. Endres, à savoir que Mme Ruddy et son fiancé étaient généralement libres d'exploiter la station-service et le dépanneur comme ils le jugeaient bon. Je conclus que M. Endres n'avait généralement pas le droit de dicter à Mme Ruddy le travail qu'elle devait accomplir et la façon dont elle devait l'accomplir.
+Autres facteurs
+[15] Quant aux autres facteurs mentionnés dans l'arrêt Sagaz Industries, précité, les chances de bénéfice, les risques de perte et la propriété des instruments de travail, je conclus qu'aucun de ces facteurs n'est important dans ce cas-ci. Même si ces facteurs étaient importants, je conclus qu'ils sont compatibles avec une relation d'entrepreneur indépendant. Mme Ruddy avait des chances de réaliser des bénéfices. En vertu de l'entente, elle touchait un montant fixe mensuel, plus une commission. Quant aux risques de perte, Mme Ruddy et son fiancé ont de fait subi une perte lors de l'incident des vestes de chasse, bien que la perte ait été atténuée du fait qu'ils avaient pu échanger les marchandises contre des articles destinés à des fins personnelles. Quant à la propriété des instruments de travail, le couple a montré qu'il assumait une certaine responsabilité à l'égard du matériel puisqu'il a modifié l'agencement du dépanneur et qu'il a installé de nouveaux rayonnages. À mon avis, aucun de ces facteurs n'a beaucoup d'importance, mais ils permettent de conclure que Mme Ruddy n'était pas une employée.
+L'intention
+[16] En plus des facteurs habituels que les tribunaux judiciaires ont examinés en déterminant s'il existait une relation employeur-employé, la Cour d'appel fédérale, dans des décisions récentes, a également tenu compte de l'intention des parties. Dans l'arrêt Wolf v. R., [2002] 3 C.T.C. 3 (C.A.F.), le juge Noël a dit ce qui suit :
+[...] la manière dont les parties ont pu voir leur entente doit l'emporter à moins qu'elles ne se soient trompées sur la véritable nature de leur relation. [...]
+[17] Ni l'une ni l'autre partie n'a mentionné ces arrêts dans son argumentation, mais la preuve relative à l'intention des parties qui a été soumise dans ce cas-ci est compatible avec l'existence d'une relation d'entrepreneur indépendant. Il n'est pas fait mention d'une relation employeur-employé dans l'entente et M. Endres, qui était un homme d'affaires chevronné habitué à rémunérer des employés, n'effectuait aucune retenue à la source. Les chèques émis au profit du couple indiquaient que le paiement se rapportait à des [TRADUCTION] « frais de gestion » plutôt qu'à un salaire. Quant à la façon dont Mme Ruddy considérait la relation, l'initiative dont elle avait fait preuve avec son fiancé en exploitant l'entreprise montre clairement qu'il ne s'agissait pas selon elle d'une relation dans le cadre de laquelle M. Endres dicterait les conditions de son travail.
+[18] Pour ces motifs, je conclus que, pendant la période pertinente, Mme Ruddy n'exerçait pas un emploi assurable ou un emploi ouvrant droit à pension. Les appels sont accueillis.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Jacques Deschênes, traducteur

@@ -1,0 +1,211 @@
+Title: Entreprises DRF Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31205/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-95-31205-entreprises-drf-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-17
+
+# Entreprises DRF Inc. v. The Queen
+
+- Citation: 2013 TCC 95
+- Decision date: 2013-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5045, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Entreprises DRF Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-17
+Neutral citation
+2013 TCC 95
+File numbers
+2011-737(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-737(GST)G
+BETWEEN:
+LES ENTREPRISES DRF INC.,
+Appellant,
+and
+THE MINISTER NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 11, 2013, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Aaron Rodgers
+Dany Afram
+Counsel for the respondent:
+Philippe Morin
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated May 20, 2010, for the period from October 1, 2006, to June 30, 2009, is dismissed with costs.
+Signed at Ottawa, Canada, this 17th day of June 2013.
+“François Angers”
+Angers J.
+Translation certified true
+on this 21st day of August 2013.
+François Brunet, Revisor
+Citation: 2013 TCC 95
+Date: 20130617
+Docket: 2011-737(GST)G
+BETWEEN:
+LES ENTREPRISES DRF INC.,
+Appellant,
+and
+THE MINISTER NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing from an assessment made by the Minister of National Revenue (the Minister) in the amount of $48,797.56, including $35,135.87 in goods and services tax (GST), plus interest and penalties. The period in question (the period) is from October 1, 2006, to June 30, 2009. During an audit, the Minister denied the appellant’s claim for input tax credits (ITCs), which explains the assessment, and added penalties for misrepresentation and gross negligence for omissions in its tax returns during the period.
+[2] The disallowed ITCs involve two of the appellant’s subcontractors which are personnel placement agencies the appellant used during the period, namely, Les Entreprises A.C.G.S. Inc. (A.C.G.S.) and Service d'emploi M.B. (M.B.) (together, the subcontractors). The ground relied on by the Minister is that the two agencies supplied invoices of convenience.
+[3] The appellant has been active in business since 2006. Its activities consist in providing personnel placement services to meat companies. The appellant, therefore, hires personnel to perform its services and called upon the subcontractors during labour shortages. Between October 2006 and November 2007, it used subcontractor A.C.G.S., whereas between November 2007 and June 2009, it used subcontractor M.B. Outside the period in question, the appellant retained the services of another subcontractor which is not involved in this litigation. Suffice it to say that the invoices provided by the third subcontractor were accepted during the course of the audit as being lawful and that this subcontractor did carry on a business, report its income and make GST and other remittances.
+[4] Maria Freire is the president and sole shareholder of the appellant. She is mainly in charge of management, with the help of an accountant. Her spouse, Duarte Freire, is responsible for the appellant’s personnel. The number of the appellant’s employees has fluctuated over the years from 3 to 35. The appellant also used the employees of the two subcontractors.
+[5] The hours of the appellant’s employees were recorded on a weekly basis by Mr. Freire and the timekeeping ledger was provided to his spouse (Exhibit A‑2). His spouse then handed everything over to the accountant who handled the payroll. The accountant also received the cheques made payable to the subcontractors in order to prepare the appellant’s financial statements and GST returns. Mr. Freire also prepared a summary of the hours worked by the subcontractors’ employees each week and gave it to his spouse. The names of the subcontractors’ employees were not mentioned and no summary of the hours worked by the subcontractors’ employees was adduced into evidence.
+[6] Mr. Freire testified that at a time when he needed staff, one of his acquaintances gave him a business card with a cellular phone number on it. He cannot recall whether or not the card indicated the name of subcontractor A.C.G.S., the first subcontractor the appellant used. At the beginning of his testimony, Mr. Freire did not remember the name of that acquaintance he said was a friend but eventually remembered that it was John Melo. Counsel for the appellant also attempted to serve a subpoena on him at his last known address. According to the bailiff’s service attempt report (Exhibit A‑5), John Melo had allegedly moved, and according to the information obtained, John Melo was found to have no home, no residence or no business establishment known in Quebec.
+[7] Mr. Freire, therefore, dialed the cellular phone number appearing on the business card and a guy answered. Mr. Freire asked this person whether he could provide him with personnel and met with him at one of the appellant’s client’s premises, a company called Qualiporc. Mr. Freire cannot remember that person’s name and does not know whether it was an individual named François Poitvin, whose signature appears on all invoices issued by A.C.G.S. to the appellant. During that meeting, Mr. Freire and that person negotiated an hourly rate and the presence of a team leader on the work premises.
+[8] Mr. Freire provided instructions to the subcontractors’ team leader and also called the supervisors and informed them of the work to be performed. He only dealt with the supervisors he saw every day. He cannot, however, recall the name of any one of those supervisors. In November 2007, A.C.G.S. did not provide the personnel required by the appellant. Mr. Freire did not call back the guy whose cellular number was on the card.
+[9] It was at this point that the services of subcontractor M.B. were retained by the appellant in November 2007. Someone allegedly went to see Mr. Freire and handed him a business card. Mr. Freire does not know who gave him the card nor where he was when he was given the card. On the card was a name and a telephone number. He telephoned that person and negotiated the working conditions and hourly rate, which was the same as the one negotiated with A.C.G.S., $19 per hour. Mr. Freire does not know anyone by the name of Michel Brouillette, administrator of M.B., and the name does not ring a bell. And as is the case with subcontractor A.C.G.S., Mr. Freire is not familiar with the names of the supervisors of M.B. and never called the individual whose name was on the card. Nor did he verify whether their GST registration number was valid.
+[10] Mr. Freire allegedly stopped using the personnel of subcontractor M.B. in late June 2009 on the ground that the appellant was no longer in need of personnel. During that same period, the appellant used a placement agency by the name of Agroba. Its invoicing, which is more detailed, indicates the number of persons having worked, the hours and at times the workers’ names. The hourly rate varied between $15 and 16 per hour. As for the two subcontractors’ invoices, they only contained the total number of hours worked and a description of services in two words, [Translation] “general work.”
+[11] Ms. Freire confirmed that her spouse provided her with the subcontractors’ time sheets and their invoices. She also stated that she did not keep those time sheets. She never did business directly with the subcontractors. She claims that she never looked at the back of the cheques the appellant issued to the subcontractors. Hence, she did not know whether the appellant’s cheques were endorsed by François Poitvin on behalf of A.C.G.S. and by Michel Brouillette on behalf of M.B. and then turned over to the agency Arylo Inc. through a cheque-cashing centre.
+[12] Ms. Freire testified that she had never been informed by anyone that A.C.G.S. or M.B. may have been experiencing tax problems. She acknowledges that she did not verify whether or not the subcontractors’ registration numbers were valid. She did, however, make sure that those numbers were indicated on their invoices. She never telephoned the subcontractors, she did not know François Poitvin or Michel Brouillette and had no personal contact with them. She relied on her spouse. She claims that she did not attempt to contact them when Revenu Québec began its audit or when she prepared for this hearing.
+[13] Viandes Sherrington is a client of the appellant. Its representative explained at the hearing that it is possible that, in the meat industry, the invoicing be done on the basis of the kilograms of meat to be deboned rather than on an hourly basis. He explained that the deboning of meant is based on kilograms, and that it takes between 30 and 40 hours of work to debone approximately 12,500 kilograms of meat. This explains why, on some Viandes Sherrington invoices, reference is made to kilograms rather than the number of hours worked. The representative testified that Viandes Sherrington ensures that the contributions made by the subcontractors to the CSST are paid, but did not go into detail.
+[14] In view of that billing method, the representative from Viandes Sherrington had to concede that it did not ask how many employees the appellant sent to its establishment and that, therefore, he was not required to verify the number of hours worked by the employees. For a certain period of time, the representative also worked as a foreman for a different client of the appellant, Qualiporc. At the time, he indicated to the appellant the number of employees he required. The employees had to identify themselves and they all had a number. The representative verified their time sheets. He did not know whether the appellant supplied employees from elsewhere, but believes this was possible. If employees were absent owing to illness, he informed the appellant.
+[15] Two employees of the appellant testified. Louis Moniz stated that he worked for the appellant approximately six to seven years. He stated that he knew some of the appellant’s employees and that some of the subcontractors’ employees went to work for them and that they performed the same work as the appellant’s employees. According to him, no employee was paid in cash and the subcontractors’ employees sometimes had their own supervisor. In cross-examination, he admitted that he did not know who the subcontractors were and that he did not know the supervisors’ names or those of the subcontractors’ employees as there was a high turnover.
+[16] Armenico Freire is Duarte Freire’s brother. He replaced his brother from time to time as a supervisor, but that did not happen often. When he was supervisor, he recorded the hours of the appellant’s employees and those of the subcontractors’ employees. He stated that the appellant used the subcontractors’ employees quite often. He submitted the time sheets of the appellant’s and subcontractors’ employees to his brother or Ms. Freire. He did not know the subcontractors’ names and although he told the subcontractors’ supervisor where to place his employees, over time, he forgot those persons’ given names and surnames.
+[17] The subcontractors were audited by Revenu Québec. In the case of subcontractor M.B., the audit began in April 2009. A requirement was issued to cheque-cashing centres and attempts to contact Michel Brouillette resulted in a meeting with him in September of that same year. Michel Brouillette then admitted to the auditor that the invoices of his company M.B. were all false and that he never had the financial capability to operate a business. No employee was reported to the authorities, nor did subcontractor M.B. or Michel Brouillette himself file income tax or GST returns. On January 25, 2010, Michel Brouillette signed a confession in which he admitted to opening an account with a cheque-cashing centre with a 2% return on the amount of cheques cashed, not having rendered any services and not having ever seen the invoices issued by his company to the appellant. When questioned about other businesses registered in his name under the Act Respecting the Legal Publicity of Enterprises (Exhibit I‑2), he stated that he did not know any of them. Moreover, he did not know any clients to whom he may have rendered services.
+[18] Mr. Brouillette confirmed before the Court the information gathered by the auditor. He acknowledged that subcontractor M.B. is his business and that it was started to cash cheques. He had a lot of debt at the time and people he met in bars, including a certain Jacques, allegedly approached him about registering a business and obtaining a registration number in exchange for 2% of the value of the cheques cashed in cheque-cashing centres.
+[19] According to the agreement, Michel Brouillette had to go to a cheque-cashing centre to cash the cheques, but a stamp of his signature was subsequently used to endorse the cheques. There was also a period of time in 2008 when he was in prison and the invoices of M.B. were still sent to the appellant. In fact, he testified that he never issued invoices in the appellant’s name. He did not know either the appellant or Maria Freire or her spouse.
+[20] Mr. Brouillette was assessed for about 2 million dollars and eventually went bankrupt.
+[21] The audit of A.C.G.S. was conducted by auditor Willie Karoui. He made attempts to contact François Poitvin, whose name appears on each of the invoices of A.C.G.S. issued in the appellant’s name, but to no avail. He paid a visit to the known address of François Poitvin, but Mr. Poitvin had moved from that address long before. Mr. Karoui also issued a requirement to the cheque-cashing centres and discovered that subcontractor A.C.G.S. had cashed cheques totalling between 2 and 6 million dollars over a period of 98 weeks for three years.
+[22] The audit led him to conclude that subcontractor A.C.G.S. had no employees as reported to Revenu Québec, did not file any GST or QST return, even though it was a registrant, or any income tax returns. Accordingly, he concluded that A.C.G.S. never operated a business and was a provider of invoices of convenience. Mr. Karoui tried to obtain information from Qualiporc, a client of the appellant, but it refused to cooperate.
+[23] The audit, in respect of the appellant, began in August 2009 and covered the period in question. According to the auditor, subcontractor A.C.G.S. was already known to the Revenu Québec as a provider of invoices of convenience. After having met with Ms. Freire and the appellant’s accountant, the auditor analyzed the appellant’s sales, particularly the position of the subcontractors. She found that there were three, A.C.G.S., M.B. and Agroba, and that they had succeeded each other during the relevant period. She noted that the services rendered were very succinctly described on the invoices of subcontractors A.C.G.S and M.B. (all that is written are the words [Translation] “general work”), that the number of hours invoiced is a global number and that the hourly rate is always the same. In addition, there is no reference to the number of employees, nor are there any names. The appellant’s cheques to subcontractor A.C.G.S. have all gone through one or more cheque-cashing centres.
+[24] Other audits were conducted in respect of A.C.G.S. and made it possible to come to the same conclusions that A.C.G.S. was not engaged in any business activities, that the invoices could only be false and even inadequate. A.C.G.S. did not file any income tax returns, it did not have any employees as reported and no source deduction remittances were made. The Registre des entreprises (or Enterprise Register) does not describe any business activities and the address indicated is that of a residence.
+[25] As for subcontractor M.B., the auditor came to the same conclusions. M.B. has no employees, its telephone number is not in service, the address of M.B. is that of a residence, the invoices have no description other than [Translation] “general work” and are issued for overall hours always at the same hourly rate, and no name or number of employees is indicated on those invoices. All the cheques went through the same three cheque-cashing centres through which those of A.C.G.S. went. According to the auditor, there were, therefore, no business activities and M.B. cannot have rendered services.
+[26] In the case of subcontractor Agroba, the conclusion is different. The subcontractor kept adequate accounting records, made tax remittances and owned vehicles. The invoices identified the number of persons employed and their hourly rate varied. Agroba had a Web site and it was apparent that it was a company engaged in business activities.
+[27] The auditor met with Ms. Freire to discuss this state of affairs. Ms. Freire told her that she did not verify registrants’ numbers, the identity of the subcontractors’ employees or registration with the CSST. She allegedly told the auditor that she found out about the existence of A.C.G.S. by consulting the yellow pages. The auditor did not, however, find this information while going through the yellow pages. For subcontractor M.B., Ms. Freire allegedly stated to the auditor that she could not recall where she had met the company’s representatives, but that she believed the given name of one of them may have been Sébastien. As for Agroba, the recommendation to use its services came from Sherrington. The auditor was able to confirm the names of the representatives from Agroba with whom Ms. Freire stated she did business.
+[28] The auditor also prepared a list of the appellant’s employees using Records of Employment during the period in question. She found that 81 persons worked for the appellant and that 47 of them were let go for lack of work, that is, 58%. Some of them left voluntarily. It is important to note that the appellant lost a good client during that period, but, according to the auditor, that did not have an impact on her conclusions.
+[29] The auditor asked that the appellant provide her with the list of names of the subcontractors’ employees and she did not receive anything. She therefore contacted one of the appellant’s clients, Les Entreprises Jacques Forget, on December 11, 2009, with a view to obtaining the names of the appellant’s employees working in the company. The auditor was supposed to go to Les Entreprises Jacques Forget three days later but she got a message from one of the company’s representatives stating that he did not have the employees’ names or social insurance numbers and that she should contact the appellant directly.
+[30] In the light of this information, and given the fact that the appellant’s representatives had no knowledge of the two subcontractors or their resource persons and that the proportion of the subcontractors’ invoices compared to the appellant’s sales figures was significant, penalties for negligence and misrepresentation in its tax returns have been imposed on the appellant.
+Issues
+[31] The issue, therefore, is whether the Minister was entitled to disallow the ITCs claimed by the appellant and was justified in imposing the penalties provided for in sections 285 et seq. of the Act. The relevant GST provisions are paragraph 169(4)(a) of the Act and section 3 of the Input Tax Credit Information (GST/HST) Regulations (the Regulations) as well as section 285 of the Act. For the purposes of this appeal, the relevant excerpts read as follows:
+Excise Tax Act
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+. . .
+Input Tax Credit Information (GST/HST) Regulations
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+. . .
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name
+under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+Excise Tax Act
+285. False statements or omissions -- Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+(a) if the false statement or omission is relevant to the determination of the net tax of the person for a reporting period, the amount determined by the formula
+A – B
+where
+. . .
+(b) if the false statement or omission is relevant to the determination of an amount of tax payable by the person, the amount, if any, by which
+(i) that tax payable
+exceeds
+(ii) the amount that would be the tax payable by the person if the tax were determined on the basis of the information provided in the return, and
+(c) if the false statement or omission is relevant to the determination of a rebate under this Part, the amount, if any, by which
+(i) the amount that would be the rebate payable to the person if the rebate were determined on the basis of the information provided in the return
+exceeds
+(ii) the amount of the rebate payable to the person.
+[32] It is therefore up to the appellant to show that the invoices related to the ITCs claimed reflect real supplies in the appellant’s business operations.
+Position of the parties
+[33] The appellant’s position is that all the invoices of subcontractors A.C.G.S. and M.B. complied with the requirements of the Act and Regulations. Counsel for the appellant submits that the subcontractors’ registrant numbers were valid during the period in question and that all information pertaining to the subcontractors upon which the Minister based his finding that they were providers of invoices of convenience was not only unknown to the appellant but also impossible for the appellant to find out. He wondered why the Minister did not intervene earlier if the subcontractors had never filed tax returns or source deductions. He wondered about the Minister’s obligation to intervene.
+[34] He submits that the appellant has always acted in good faith and that, on the basis of the appellant’s business relations with the two subcontractors during the period in question, he legitimately believed, as a reasonable and diligent person, that the authors of the invoices were actual providers of services.
+[35] As for counsel for the respondent, he submits that the appellant did not prove, on a balance of probabilities, that services were rendered to it by the subcontractors and that the invoices issued by the subcontractors were compliant with the Regulations. The appellant was unable to provide any details to identify the individuals with whom he did business. The appellant was wilfully blind in that its version of the facts on how it retained the services of the subcontractors and established their identity, considering the length of their business relations, reflects its intention not to learn the whole truth.
+Analysis
+[36] The applicable burden of proof where a registrant claims ITCs, when the existence of a false invoicing scheme is alleged, is summarized as follows by Justice Bédard in Les Pro‑Poseurs Inc. v. Canada, [2011] T.C.J. No. 89, affirmed in [2012] F.C.J. No. 856:
+[35] Under the doctrine of Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, the Minister uses assumptions to make assessments and the taxpayer has the initial burden of demolishing the Minister's assumptions. This is met where the taxpayer makes out at least a prima facie case that demolishes the Minister's assumptions. Then, after the taxpayer has met the initial burden, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and to prove the assumptions. As a general rule, a prima facie case is defined as one with evidence that establishes a fact until the contrary is proved. In Stewart v. M.N.R., [2000] T.C.J. No. 53, Cain J. stated that "[A] prima facie case is one supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved." Moreover, in Orly Inc. v. Canada, 2005 FCA 425, at paragraph 20, the Federal Court of Appeal stated that "the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted..." considering "[i]t is the taxpayer's business." The Federal Court of Appeal also stated in the same decision that it is the taxpayer who "knows how and why it is run in a particular fashion rather than in some other ways. . . . He has information within his reach and under his control." . . . ." Consequently, Les Pro-Poseurs Inc. had to establish by prima facie evidence that it actually purchased the supplies from the dubious suppliers. Furthermore, Mr. Séguin had to establish by prima facie evidence that either he actually purchased the supplies from the dubious supplier or that he did not appropriate the amounts paid to the dubious suppliers. Finally, Les Pro-Poseurs Inc. also had to establish that the invoices allegedly issued by the dubious suppliers meet the requirements of the ETA and its regulations.
+[37] The appellant must, therefore, first establish by prima facie evidence that it did not participate in false invoicing scheme and that it did actually purchase supplies from the subcontractors. The appellant must then establish that the invoices issued by the subcontractors met the requirements of the ETA and its regulations.
+[38] A false invoicing scheme was defined by Deputy Judge Masse of this Court in Modes Crystal Inc. v. Canada, [2013] T.C.J. No. 32 and that definition was reiterated by him at paragraph 24 of 9188‑7646 Québec Inc. v. Canada, [2013] T.C.J. No. 71:
+[24] The phenomenon of "invoices of convenience" is a strategy by which a taxpayer, the person being "accommodated", seeks the services of a "provider of invoices of convenience". This provider issues false invoices to the "accommodated" person for goods and services the provider did not provide and that the accommodated person did not receive. Invoices of convenience allow the accommodated person to claim ineligible ITCs in the net tax calculation.
+[39] I believe the evidence adduced by the respondent persuasively shows that the subcontractors were not engaged in any business activities. The invoices of subcontractors A.C.G.S. were all signed by a certain François Poitvin. His signature on each of the invoices is identical, which suggests that it can only be a stamp. None of the witnesses heard in this case saw or knew this person. The various places of business stated by him are residences without the usual characteristics associated with the operation of a business providing an abundant workforce regularly. A.C.G.S. never reported employees, paid taxes despite the fact that it was a registrant, remitted any source deductions or reported any income.
+[40] The same is true for provider M.B. In addition, the testimony of Michel Brouillette clearly confirms the Minister’s allegations that said subcontractor never operated a business and was only used as a nominee to facilitate the issuance of invoices of convenience. None of the appellant’s witnesses knew this man. M.B. never reported any supplies, paid taxes, remitted source deductions, reported employees or filed income tax returns.
+[41] It is also important to note that, on the basis of the evidence filed, all the cheques issued to the subcontractors were cashed at cheque-cashing centres. It is therefore obvious, in the light of this evidence, that the subcontractors in question had neither the ability, the expertise nor the financial resources to provide the services for which the invoices were issued and that for all intents and purposes, they could not provide the services related to the payments made to them by the appellant.
+[42] There was no verification by the appellant of the validity of the registration number of A.C.G.S. or M.B. I accept that, had there been a verification, it would have shown that those numbers were valid. That notwithstanding, it seems to me completely implausible that one could do business with two subcontractors over such a long period of time without knowing who one is doing business with.
+[43] Counsel for the appellant referred to certain cases which acknowledged that absent evidence of knowledge, connivance or collusion between the recipient and the provider of invoices of convenience, the recipient was entitled to ITCs if services were actually rendered and the tax was paid in good faith by the recipient (see, inter alia, Centre de la Cité Pointe‑Claire v. Her Majesty the Queen, [2001] T.C.J. No. 674, at paragraphs 37 to 40; Airport Auto Limited v. Canada, [2003] T.C.J. No. 683, at paragraph 19; Joseph Ribkoff Inc. v. Canada, [2003] T.C.J. No. 351, at paragraphs 100, 101 and 104; Sport Collection Paris Inc. v. Canada, [2006] T.C.J. No. 299, at paragraph 17.
+[44] Indeed, numerous cases hold that it is not up to the recipient to bear the risk arising from fraud committed by one of its providers. However, the unanimous judgment of the Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, [2007] F.C.J. No. 836 is interpreted as putting an end to the application of this approach favourable to the recipients.
+[45] In that case, the Federal Court of Appeal was called upon to consider the possibility for a registrant to claim ITCs in a context where, for various reasons, the suppliers had no valid registration numbers for GST purposes. Justice Sexton stated he was of the view that “the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.”
+[46] In Comtronic Computer Inc. v. Canada, [2010] T.C.J. No. 22, Justice Boyle of this Court stated that he was bound to follow that decision of the Federal Court of Appeal which he interpreted as deciding that in GST collection and remittance matters, it is the purchaser who must bear the risk of supplier identity theft and wrongdoing.
+[47] Thus, a recipient is eligible for ITCs only if the GST number that appears on an invoice must be validly assigned to the actual supplier (see 9088‑2945 Québec Inc. v. Canada, [2013] T.C.J. No. 48, at paragraphs 13, 14 and 16).
+[48] In Constructions Marabella Inc. v. Canada, [2012] T.C.J. No. 319, a case similar to the present one, it is not the registration number that is in question but rather the very identity and existence of the supplier. As Deputy Judge Batiot of this Court mentioned in that case, “Clearly, if it is not a true supplier, its registration number is invalid in respect of the recipient claiming the ITC. The supplier’s name must match the registration number, and the supplier must in fact be the supplier.” Accordingly, just proving that the services were actually rendered will not suffice to be entitled to ITCs. The appellant must prove that the subcontractors, whose registration numbers appear on the invoices in question, were in fact suppliers of services. However, the evidence in that regard seems rather sparse, or even non-existent.
+[49] The fact that none of the appellant’s witnesses knows the names associated with the subcontractors, namely François Poitvin and Michel Brouillette, is rather surprising. Duarte Freire was given a business card by one of his acquaintances. Early in his testimony, he stated that he could not recall the name on the card. He then stated that it was a certain John Melo. He could not recall whether the name of A.C.G.S. appeared on the business card. He stated that he negotiated the hiring of personnel and an hourly rate with a guy but does not know who. He provided instructions and did business with supervisors, on a weekly basis, for over a year but does not know who those people are. He stated that he kept a weekly summary of the hours of work of the employees of A.C.G.S. but is unable to produce a single one. However, the appellant kept all the time sheets of its own employees.
+[50] A similar type of scenario can be found with subcontractor M.B. No one within the appellant, among its witnesses, knows Michel Brouillette. An unknown person dropped off a business card for Duarte Freire. It is not known who and when. Mr. Freire allegedly spoke with the person whose name appeared on the card and negotiated the hiring of employees and their hourly rate but does not know that person. Mr. Freire does not know the names of the supervisors he worked with on a daily basis and did not keep the time sheets of the employees of M.B. This went on from November 2007 to June 2009 on a weekly basis almost continuously. None of the appellant’s witnesses knows the name of one single person within M.B.
+[51] It is an implausible situation that leads me to conclude that the appellant is not telling the whole story. I agree that the appellant does not have the means of verification that the respondent may have with respect to the business activities of its registered agents. However, the appellant had a duty to exercise a degree of due diligence towards the suppliers of services to its company. In the case at bar, the appellant even chose not to verify the validity of the subcontractors’ registration number. The appellant took no precautions to avoid being in the situation in which it finds itself today. It took no measures to verify the subcontractors’ identity. The appellant’s behaviour cannot, therefore, be characterized as reasonable or diligent.
+[52] In my view, the appellant did not provide prima facie evidence that it actually received the services at all, let alone that it received services from the subcontractors in question. Indeed, the evidence rather shows that, if the appellant actually acquired the services for which it claimed ITCs, it obtained them from providers other than those whose names and registration numbers appear on the invoices.
+[53] It is also important to point out that a defence of due diligence is different from an allegation of good faith. The distinction between these two concepts was explained by the Federal Court of Appeal, at paragraph 29 of Corporation de l’École Polytechnique v. Canada, [2004] F.C.J. No. 563, as follows:
+. . . The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[54] In the light of that distinction, the appellant’s submissions that it acted in good faith cannot be of much assistance to it in this case.
+Inadequate information and information not compliant with the requirements of the Act and Regulations
+[55] It is well settled that the purpose of 169(4) of the Act and section 3 of the Regulations is to allow the Canada Revenue Agency (the CRA) to combat both fraudulent and innocent incursions and that they cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced (see Key Property Mangement Corp. v. Canada, [2004] T.C.J. No. 130, at paragraph 13; Davis v. Canada, [2004] T.C.J. No. 505, at paragraph 24; cited with approval by the Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, supra, at paragraphs 5 and 6.
+[56] Paragraph 169(4) clearly provides that a registrant may not claim an ITC unless the registrant has obtained any such information as may be prescribed. Section 3 of the Regulations clearly provides that the information must include:
+(a) the name of the supplier or the name under which the supplier does business,
+(b) the registration number assigned to the supplier,
+(c) where an invoice is issued, the date of the invoice,
+(d) the amount paid or payable for all of the supplies,
+(e) the total tax paid in respect to the invoice,
+(f) the name of the recipient,
+(g) the terms of payment, and
+(h) a description of each supply sufficient to identify it.
+[57] The invoices in question here in appear to meet all those requirements, except for the last one, that is, a description of each supply sufficient to identify it.
+[58] Justice Bédard, in Les Pro‑Poseurs Inc. v. Canada, supra, in view of the purpose of paragraph 169(4)(a) of the Act and its Regulations, stated “that a description is sufficient if it allows the CRA to identify the work carried out by the suppliers.” Justice Bédard thus concluded that the invoices issued for the installation of drywall or the filling of joints should include at least the exact place where the supplier carried out the work as well as the exact nature of the supply.
+[59] In the case at bar, the subcontractors’ invoices do not contain any of that information. The invoices issued by A.C.G.S. as well as those issued by M.B. describe the nature of the work in two words, [Translation] “general work.” Furthermore, the sections [Translation] “work to” and [Translation] “commissioned by” are left blank on the invoices issued by M.B. As for A.C.G.S., the invoices issued contain the appellant’s address in the section titled [Translation] “work to.” Because the appellant provides personnel employment services, the subcontractors’ work was not allegedly performed at the appellant’s address but rather on the premises of one of the appellant’s clients. There was no mention as to the identity of the appellant’s clients where the work was allegedly performed on the subcontractors’ invoices.
+[60] I agree with Justice Bédard in Les Pro‑Poseurs Inc. v. Canada, supra, that it is for the Court and not the industry to determine what the legislator means by “description of each supply sufficient to identify it.”
+[61] In my view, the subcontractors’ invoices do not contain a description of the supplies sufficient to identify them.
+[62] The appellant failed to show by prima facie evidence that it did not participate in a false invoicing scheme or that it actually purchased supplies from the subcontractors. Furthermore, the subcontractors’ invoices do not meet the requirements of the Act and its regulations. The appellant is not entitled to the ITCs claimed.
+The penalty
+[63] The burden of proof on this issue falls on the respondent. The Minister must prove that the appellant made a false statement or omission in its tax returns and that the false statement or omission was made knowingly, or under circumstances amounting to gross negligence.
+[64] In the light of the evidence heard, the Minister met his burden of proof. The appellant made false statements in its tax returns and it knowingly claimed ITCs to which it was not entitled. The Minister was, therefore, justified in imposing a penalty under section 285 of the Act.
+[65] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 17th day of June 2013.
+“François Angers”
+Angers J.
+Translation certified true
+on this 21st day of August 2013.
+François Brunet, Revisor
+CITATION: 2013 TCC 95
+COURT FILE NO.: 2011-737(GST)G
+STYLE OF CAUSE: Les Entreprises DRF Inc. and M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 11, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 17, 2013
+APPEARANCES:
+Counsel for the appellant:
+Aaron Rodgers
+Dany Afram
+Counsel for the respondent:
+Philippe Morin
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the appellant:
+Name: Aaron Rodgers
+Dany Afram
+Firm: Garfinkle Nelson-Wiseman Bilnes Rodgers, L.L.P.
+Montréal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

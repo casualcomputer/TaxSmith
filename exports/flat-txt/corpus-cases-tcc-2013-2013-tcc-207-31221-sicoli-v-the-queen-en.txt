@@ -1,0 +1,258 @@
+Title: Sicoli v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31221/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-207-31221-sicoli-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-21
+
+# Sicoli v. The Queen
+
+- Citation: 2013 TCC 207
+- Decision date: 2013-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5126, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sicoli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-21
+Neutral citation
+2013 TCC 207
+File numbers
+2011-3598(IT)APP
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3598(IT)APP
+BETWEEN:
+JOSEPHINE SICOLI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for Extension of Time heard on August 22, 2012 at Edmonton, Alberta
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+James C. Yaskowich
+Counsel for the Respondent:
+Paige Atkinson
+____________________________________________________________________
+ORDER
+Having heard the applications for an Order extending the time within which Notices of Objection to the assessments made under the Income Tax Act (the “ITA”), the Employment Insurance Act (“EIA”) and the Canada Pension Plan (“CPP”) for the 2002, 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years (the “subject years”), may be served;
+And having heard what was alleged and argued by the parties;
+IT IS ORDERED THAT:
+The applications made under the EIA and CPP are dismissed on the basis that there are no assessments issued pursuant to those Acts in any of the subject years.
+For the reasons set out in the attached Reasons for Order, the applications made under the ITA in respect of the subject years are dismissed on the basis that the objections filed on July 7, 2011 were timely filed so that no extensions of time are necessary.
+Signed at Ottawa, Canada this 21st day of June 2013.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2013 TCC 207
+Date: 20130621
+Docket: 2011-3598(IT)APP
+BETWEEN:
+JOSEPHINE SICOLI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+[1] The Applicant, Josephine Sicoli, has made an application under subsection 166.2(1) of the Income Tax Act (the “ITA”), for an extension of time to file Notices of Objection with respect to assessments made under the ITA for the Applicant’s 2002 to 2009 taxation years, (collectively the “Assessments”). The Assessments concern the failure of the Applicant to make source deductions.
+[2] The Applicant has also made an application under the relevant provisions of the Employment Insurance Act (“EIA”), and the Canada Pension Plan (the “CPP”) for an extension of time to file objections to assessments made under those Acts for the failure of the Applicant to make source deductions. The Respondent asserts that no such assessments were issued and that the applications concerning the EIA and the CPP are thereby superfluous. I have no evidence to contradict the Respondent’s position other than the Applicant’s belief that the total assessment amount was all inclusive. A review of the assessments submitted at the hearing indicates otherwise. Accordingly, I will proceed on the basis that there have been no assessments under either the EIA or the CPP in respect of which objections need to be filed.
+[3] The Applicant submits that the business, a publishing business, in respect of which the alleged failures occurred, was carried on by a corporation known as Il Nuovo Mondo Publishing Inc. of which the Applicant was the sole shareholder and director. It is not disputed that Il Nuovo Mondo Publishing Inc. carried on such business or that it was struck prior to the Applicant’s 2002 taxation year. The Applicant asserts that at no point in time has she carried on a publishing business as an individual.
+[4] Regardless, notwithstanding any substantive issues with the Assessments issued by the Minister of National Revenue (the “Minister”), the sole issue on this appeal is whether the application is made beyond the statutory time limits set out in the ITA.
+[5] The relevant provisions of the ITA are as follows:
+Subsection 165(1):
+Objections to assessment -- A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; […] [Emphasis added.] [1]
+[…]
+Subsection 166.1(1):
+Extension of time [to object] by Minister -- Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+Paragraph 166.1(7)(a)
+When order to be made -- No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+Subsection 166.2(1):
+Extension of time [to object] by Tax Court -- A taxpayer who has made an application under subsection 166.1[(1)] may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer. [Emphasis added.]
+Paragraph 166.2(5)(a):
+When application to be granted -- No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[…]
+[6] Read together, these provisions require, in the case of the ITA, that the Applicant file the application for extensions of time within one year and 90 days from the day of mailing of the notices of Assessments.
+Chronology of Events
+Date of Assessment
+Year
+Federal Tax
+Provincial Tax
+Penalty and Interest Only
+February 26, 2009
+2009
+$3,388.82
+April 10, 2009
+2003
+$3,388.82
+April 25, 2009
+2004
+$698.36
+May 26, 2009
+2002
+$5,446.93
+$3,431.56
+$6,229.84
+May 26, 2009
+2003
+$17,427.18
+$9,200.27
+$15,795.74
+May 26, 2009
+2004
+$77,741.31
+$23,592.79
+$50,367.41
+May 26, 2009
+2005
+$55,744.90
+$16,956.81
+$9,432.17
+May 26, 2009
+2006
+$98,862.41
+$39,721.79
+$41,789.42
+May 26, 2009
+2007
+$7,778.28
+$5,055.89
+$2,501.41
+May 26, 2009
+2008
+$7,624.94
+$5,108.76
+$1,481.37
+May 26, 2009
+$207.51
+May 26, 2009
+$75.61
+May 26, 2009
+$156.99
+May 26, 2009
+$302.12
+May 26, 2009
+$160.40
+May 26, 2009
+$268.79
+May 26, 2009
+2008
+$576.66
+TOTAL
+$270,625.95
+$103,067.87
+$136,821.44
+[7] I note that of these 17 Assessments, copies of which are attached as exhibits to an affidavit (“affidavit”) of a Canada Revenue Agency (“CRA”) collection officer (“affiant”), there are ten that I have underlined. Those underlined assessments all relate to interest and penalties only. However, only three of those ten show the year in respect of which the assessment was being made. The affiant attributes the remaining seven to various years in his affidavit. As well, these ten assessments (with the exception of the assessment shown above as dated February 26, 2009) all show previous and present balances owing as distinct from the other, not underlined, assessments.
+[8] I note here, as well, that the seven assessments that are not underlined (which include federal and provincial taxes as well as interest and penalties) all show the year in respect of which the assessment is being made and all show previous and present balances. While I do not have reason to believe that there is a double counting of interest and penalties, the assessment presentation is not only confusing but raises issues.
+[9] One issue that I will mention is that subsection 152(4) of the ITA requires that assessments of interest and penalties be made for a taxation year. In my view, that does not mean: as attested to by an officer of the CRA. It means the assessment must on its face be made for a taxation year. On that basis, I am inclined to suggest that seven of the Assessments are not Assessments at all and no objections to them are required. However, if I am to effectively allow the applications for all years, treating seven of the Assessments as non-assessments, a judgment not requested by the Applicant, would be impractical and effectively unnecessary.
+[10] The relevant point here is that the Assessments appear to have been rushed without adequate attention to the detail required of assessments. As stated, some were separate assessments for interest and penalties, some without applicable years noted on the face of the assessment and some with taxes payable and interest and penalties cumulatively recorded, all on the same day. It is not surprising that, in fact, mistakes were made.
+[11] Aside from that general impression, one interesting mistake to note is that the earliest assessment is February 26, 2009. While it shows that the assessment for the 2009 taxation year is for interest and penalties only, it also shows a total balance owing of some $507,000 consisting of a previous balance of some $503,000. There is no dispute that such balance owing includes the balances of all the Assessments made in May 2009. The explanation for that impossible scenario is covered in the affidavit. The affidavit states that the February 26, 2009 assessment was a “May 2009 FTR Assessment” inadvertently dated in error. A similar error was said to have been made in respect of the April 25, 2009 assessment which according to the affidavit was actually made on May 26, 2009.
+[12] These inadvertent errors have particular relevance with respect to the Respondent’s reliance on subsection 244(10) of the ITA which reads as follows:
+244(10) Proof of no appeal -- An affidavit of an officer of the Canada Revenue Agency, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the Agency and that an examination of those records shows that a notice of assessment for a particular taxation year or a notice of determination was mailed or otherwise communicated to a taxpayer on a particular day under this Act and that, after careful examination and search of those records, the officer has been unable to find that a notice of objection or of appeal from the assessment or determination or a request under subsection 245(6), as the case may be, was received within the time allowed, shall, in the absence of proof to the contrary, be received as evidence of the statements contained in it.
+[13] Where there is an allegation that an assessment was neither mailed nor communicated to the taxpayer, the Minister has the burden of disproving such allegations, as only the Minister would be possessed of such information.[2] The ITA, however, recognizes the practical limitations on the Minister and allows evidentiary relief by means of the foregoing provision.[3] This evidentiary relief may be satisfied by providing an affidavit as to the ordinary mailing practices of the CRA.[4] This is a necessary provision. The chain of persons who handle outgoing mail, from the printer to the mail box, can not possibly all be called to identify the contents of each piece of outgoing mail and attest to each step along the way to the mail box. Hence, swearing to the mailing practices can suffice. However, as the cited paragraph of the ITA states: such sworn statement only applies in the absence of evidence to the contrary. Evidence to the contrary includes the probability of a very long list of steps all occurring on the same day. I will refer to these steps momentarily but for now I just note that the affidavit does not say that the normal or ordinary practice of the CRA is to prepare and issue 17 complicated assessments and have them posted all on the same day. I give some weight to this improbability although it can not, in and by itself, be determinative as one explanation for the errors that occurred in this case is consistent with sloppy or rushed work as opposed to dictating a finding that a mailing could not have occurred as attested to by the affiant. In any event, the evidence and confusion relating to the Assessments themselves which have resulted in procedural errors, and, the Applicant’s evidence, taken together, tend to give me serious doubts as to the reliability of a sworn statement that relies on routine practices where there is nothing routine or ordinary about these Assessments.
+[14] I will expound on CRA procedural errors in this case and on the evidence of the Applicant as I proceed with the analysis. Nonetheless, as I said, and as will become more evident, the evidence in this case is haunted by a degree of hurried carelessness on the part of the CRA that strongly suggests the unreliability of evidence that relies on routine or ordinary practices.
+[15] Before continuing along this path, it is necessary, for the sake of completeness, to set out a more complete chronology of events even though the issue in this case relates principally to whether the Respondent can establish the date of mailing of the Assessments. That is, while the Applicant challenges the asserted mailing of the Assessments, she also relies on the date she asserts was the date of being notified of them. So, in order to cover all potentially relevant dates, a further chronology of events is required.
+[16] They are:
+· CRA asserted date of mailing Assessments: May 26, 2009. · Applicant asserts Assessments never mailed and reproduced copies received: April 11, 2011. · Applicant’s Notices of Objection filed: July 7, 2011.
+· Minister’s notice refusing the Notices of Objection as late filed: August 17, 2011.[5]
+· Application to Minister for extension of time: July 7, 2011.[6]
+· Minister’s refusal to allow extension of time: November 15, 2011.
+· Application to Tax Court of Canada for extension of time: November 15, 2011.
+[17] As stated above, the main issue here comes down to determining whether the CRA’s asserted mailing date of the Assessments will stand. In making that determination, direct reference to the affidavit is required in this case.
+[18] The affidavit sets out the following:
+2. I have charge of the appropriate records and knowledge of the practices of the Agency.
+3. My involvement with the Applicant’s 2002, 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years was that:
+(a) I was the collections officer assigned to the file of II Nuovo Mondo Publishing Inc. (the “corporation”) in 2009;
+(b) I requested Richard Lamarre in the Non-filer Division of the Agency to establish a Business Number (the “BN”) for the Applicant, who was the sole shareholder of the corporation when it was struck from the corporate registry on November 2, 2001; and
+(c) I requested Joan Boyko in the Trust Compliance Division of the Agency to assess the Applicant for all the assessments raised on the corporation after it was struck.
+4. I have undertaken a careful examination and search of the records of the Agency relating to the Applicant’s application for the 2002, 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years and these records demonstrate that:
+(a) The Minister of National Revenue (the “Minister”) assessed the Applicant for the 2002 taxation year by:
+(i) Notice of Assessment dated on May 26, 2009 in the amount of $698.36 to assess a penalty for late filing (the “LFP”) of the 2002 T4 type return. The notice was mailed to the Applicant at 13611 82 Street, Edmonton, AB, T5E 2V3 (the “2002 LFP Assessment”). Attached hereto and marked as Exhibit “A” is a reprinted copy of the 2002 LFP Assessment which was inadvertently dated April 25, 2009 in error; and [Emphasis added.]
+[…]
+[19] Compare this last highlighted portion of the affidavit with:
+(h) The Minister assessed the Applicant for the 2009 taxation year by:
+(i) Notice of Assessment dated on May 26, 2009 in the amount of $3,388.82 to assess for FTR and mailed to the Applicant at 13611 82 Street, Edmonton, AB, T5E 2V3 (the “May 2009 FTR Assessment”). Attached hereto and marked as: [Emphasis added.]
+a) Exhibit “O” is a reprinted copy of the May 2009 FTR Assessment which was inadvertently dated February 26, 2009 in error; and
+b) Exhibit “P” is a reprinted copy of the same May 2009 FTR Assessment which was inadvertently dated April 10, 2009 in error;
+[20] Even after acknowledging mailing date errors, the mailing date set out in this paragraph 4 remains somewhat ambiguous. Although, clause 4(h)(i)(b) is somewhat clearer than clause 4(h)(i)(a). At least in clause 4(h)(i)(b), the date of the assessment is in the same sentence as the date of mailing. Still, neither of these portions of the affidavit clearly state the date of mailing. On the other hand, paragraph 5(j) does recite the date of mailing as May 26, 2009.
+[21] Indeed, paragraph 5 augments paragraph 4 with a more comprehensive list of procedural steps taken. Both paragraphs 4 and 5 of the affidavit are set out in full in the Appendix to these Reasons.
+[22] In paragraph 5, the preamble purports to list steps that all occurred on the same day, namely May 26, 2009. While this list, based on ordinary practices, clearly asserts a mailing date of May 26, 2009, as I said, I have reason to believe that this case might reasonably be found to have been an exception to the routine practices sworn to by the affiant. For example:
+5. With respect to the issuance of the assessments on May 26, 2009, as detailed in Exhibits “A” through “Q” above:
+[…]
+(c) Joan Boyko stapled the assessments together and placed the bundle in a slot labeled “letters with or without envelopes” in the business centre in the Trust Compliance area in the Edmonton Tax Services Office of the Agency;
+(d) The support staff in the Trust Compliance area in the Edmonton Tax Services Office of the Agency placed the assessments in an envelope and placed the envelope on the outgoing mail shelf in the business centre in the Trust Compliance area in the Edmonton Tax Services Office in the Agency;
+(e) The envelope was picked up by the staff from the mailroom in the Edmonton Tax Services Office of the Agency;
+(f) In the mailroom in the Edmonton Tax Services Office of the Agency;
+(i) the envelope was sealed and run through a postage machine; and
+(ii) the envelope was placed in a Canada Post bin and picked up by Canada Post at the end of the day;
+(g) The assessments were mailed to the mailing address for the Applicant’s BN account from the Edmonton Tax Services Office of the Agency;
+[…]
+[23] I have no doubt that in the normal assessment situation, the ordinary practices sworn to in steps 5(d) through (g), would be sufficient evidence of the mailing date. However, this does not strike me as a routine series of assessments.
+[24] To further support this conclusion and causing further concern as to the reliability of the affidavit, I note that during cross-examination of the affiant the following was acknowledged:
+1) Some items presented in the affidavit and seemingly presented as personal knowledge of the affiant, such as the mailing practices were admitted to be known to the affiant only as being the general practice of the CRA.
+2) There are discrepancies or gaps between the dates set out in the affidavit and the CRA collections account information diary.
+(a) The affidavit at paragraph 5(j) suggests that all the Assessments were mailed on May 26, 2009. However, the collections diary entry shows that the 2008 assessment was reprinted three days later on May 29, 2009 by Joan Boyko due to an incorrect interest calculation date. Similarly, paragraph 4(g) of the affidavit cites the date of the 2008 assessment as May 26, 2009 but that does not accord with Ms. Boyko’s diary entry.
+(b) The diary entries support paragraphs 5(a) to (c) of the affidavit, but are silent on relevant information such as that in paragraphs 5(d) to (j). Paragraph 5(j) which deals with the Applicant’s mailing address and the date of mailing, stands alone. There is no diary or other record of how the assessments were addressed for mailing. The ordinary routine is taken to impliedly suggest that if Ms. Boyko put the right address on the Assessments, then the mailroom staff would correctly address an envelope and mail the Assessments the same day. Perhaps, something more than an implied suggestion is necessary.
+[25] I will turn now to the Applicant’s evidence relating to the mailing date.
+[26] The Applicant and her controller testified at the hearing. The most relevant portion of their testimony was that all correspondence sent to the Applicant was delivered personally by the Applicant to her controller and that neither of them had received any of the Assessments and they did not have any notice of them until April 11, 2011. Such notice came about by virtue of the Applicant’s counsel having made a request for any assessments.
+[27] The testimony of the controller was that he met with the affiant on July 22, 2009 and was told that assessments against the Applicant personally may be forthcoming. The suggestion was that if Il Nuovo Mondo Publishing Inc. was defunct, then the Applicant would be held personally liable and that assessments would be issued accordingly. That evidence casts further doubt as to whether the assessments were mailed on May 26, 2009. The evidence of the affiant during cross-examination confirmed the July meeting as well as confirming that he was requested in June, 2010 to send copies of any assessments as none had been received. Yet, he had no record of copies being sent. Rather, his notes indicated that only statements of account were sent in response to this request.
+Conclusion
+[28] All that said, I will permit the Applicant’s objection to proceed. There are just too many CRA errors here not to raise grave doubts as the mailing of the assessments. A lot was purportedly happening on May 26, 2009 in terms of rendering all these assessments, collating, bundling them etc., as listed in the CRA affidavit. It does not seem probable to me that the affiant can rely on ordinary mailing practices in such a situation. Further, I find the testimony of the controller credible in respect of his conversation with the affiant. It suggests to me that even if there was a transfer of the corporate liability to a new Business Number established for the Applicant personally on or before May 26, 2009, the mailing of the Assessments that effected such a transfer of liability got mishandled in the course of a harried attempt to complete them, issue them and mail them.
+[29] Such circumstances are such to warrant the kind of scrutiny that became issues in Carcone v. The Queen,[7] where this Court also addressed an application for extension of time to object. In Carcone, relying on subsections 244(9) and 244(10) of the ITA, an affidavit of an officer of the CRA was produced as evidence of the date and address of mailing of a notice of reassessment. Justice D’Arcy found that such affidavits were still subject to the test of reliability, which in that case the respondent did not meet. I do not wish to dwell on the specifics of that case, however, I refer to it simply as an authority that I find buoys my conviction in this case that the CRA officer’s affidavit fails under a reliability test and in any event reliance on subsection 244(10) to evidence the mailing date of May 26, 2009 can not withstand the evidence to the contrary in this case.
+[30] In other words, there are too many questions here to allow the CRA the benefit of subsection 244(10) of the ITA with respect to a May 26, 2009 mailing date. Failing proof of that or any other mailing date, the law is quite clear. The time within which an objection to an assessment must be made starts to run from the date of delivery of the assessment. See Central Springs Limited et al. v. The Queen[8] and Grunwald v. The Queen.[9]
+[31] The Applicant’s applications for an extension of time to file Notices of Objection to the Assessments is therefore dismissed as the Notices of Objection filed on July 7, 2011 were so filed within 90 days of notification of the Assessments.
+Signed at Ottawa, Canada this 21st day of June 2013.
+"J.E. Hershfield"
+Hershfield J.
+APPENDIX
+CITATION: 2013 TCC 207
+COURT FILE NO.: 2011-3598(IT)APP
+STYLE OF CAUSE: JOSEPHINE SICOLI AND THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: August 22, 2012
+REASONS FOR ORDER BY: The Honourable Justice J.E. Hershfield
+DATE OF ORDER: June 21, 2013
+APPEARANCES:
+Counsel for the Applicant:
+James C. Yaskowich
+Counsel for the Respondent:
+Paige Atkinson
+COUNSEL OF RECORD:
+For the Applicant:
+Name: James C. Yaskowich
+Firm: Felesky Flynn LLP
+1980 Manulife Place
+10180 101Street
+Edmonton, AB , T5J 3S4
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Effective in 2010 “the day of mailing” was amended to read “the day of sending”.
+[2] Aztec Industries Inc. v. Canada, 95 DTC 5235.
+[3] As well, there is a similar provision in subsection 244(9).
+[4] See Nicholls v. The Queen, 2011 TCC 39, 2011 DTC 1063.
+[5] The affidavit in paragraph 4(k) states when the letter is dated but does not say when mailed.
+[6] The Minister accepted the filing of the objections as applications for extensions of time.
+[7] 2011 TCC 550, [2012] 2 C.T.C. 2043 (TCC).
+[8] 2006 TCC 524, 2006 DTC 3597.
+[9] 2004 TCC 379.

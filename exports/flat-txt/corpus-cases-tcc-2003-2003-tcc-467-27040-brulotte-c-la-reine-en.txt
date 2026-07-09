@@ -1,0 +1,64 @@
+Title: Brulotte c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27040/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-467-27040-brulotte-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-07-15
+
+# Brulotte c. La Reine
+
+- Citation: 2003 TCC 467
+- Decision date: 2003-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 599, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brulotte c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-15
+Neutral citation
+2003 TCC 467
+File numbers
+2002-3919(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC467
+Date: 20030715
+Docket: 2002-3919(IT)I
+BETWEEN:
+ANDRÉ BRULOTTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench at the close of proceedings on June 9 and 12, 2003, at Montréal, Quebec,
+and revised at Ottawa, Canada, on July 15, 2003)
+LamarreProulx, J.T.C.C.
+[1] This is an appeal under the informal procedure concerning the 2001 taxation year.
+[2] The case concerns a stock dividend. According to the appellant, it was not a stock dividend but rather a stock split.
+[3] The appellant was the only witness in this case. He testified that he had received a statement of investment income, known as a T5, from "Valeurs mobilières Desjardins Inc." for the 2001 taxation year. He had been sent an initial statement as though it concerned dividends received from corporations resident in Canada. Exhibit A-3, which is an amended T5, is the final T5. It shows that the appellant received foreign income of US$1,564.20.
+[4] The appellant explained that in 2001 he held 1,581 shares of EnzoBiochem Inc. That corporation decided to issue a share to every shareholder holding 20 shares. The appellant was entitled to 79.05 shares. The 79 shares were issued in his name. The five one-hundreds of a share was given to him in cash.
+[5] The shares were issued on March 20, 2001. The market value at the time was US$19.80. Seventy-nine shares multiplied by $19.80 equals $1,564.20. Five one-hundreds of $19.80 equals $0.99.
+[6] The appellant claims that there was a stock split and relies on Interpretation Bulletin IT-65, which applies to stock splits, and I quote the following passage therefrom:
+Where all the shares of a class of stock of a corporation are replaced by a greater or lesser number of shares of the same class of stock of the same corporation in the same proportion for all shareholders, in circumstances where there is no change in the total capital represented by the issue, ...
+[7] I refer to La compagnie au Québec : les aspects juridiques by authors Martel. In the chapter concerning the subdivision of capital stock, the authors explain that a company may subdivide or split existing shares into shares of a lesser number. This change does not affect the amount entered in the stated capital account.
+[8] Thus a split involves all the shares of a class of stock of a corporation, which are replaced by a larger or smaller number of shares without there being any change in the capital account. This is not the situation described in the instant case. Here the shares held were not replaced by other shares.
+[9] Shares similar to those held were added in proportion to the number of shares held. The capital account was increased by the total amount of the stock dividends paid to the shareholders. This situation is one of a stock dividend payment.
+[10] With respect to dividends, a shareholder is entitled to receive a share of the corporation's profits in proportion to the shares he holds. The corporation's profits are shared by the payment of dividends. It is open to the directors to declare dividends payable in cash or in shares of the corporation's capital stock. Where dividends are paid in cash, this affects the surplus account without affecting the paid-in capital account. In the case of a stock dividend payment, the surplus account is reduced by the same amount the capital account is increased. In other words, the surplus of a corporation is capitalized.
+[11] Paragraph 12(1)(k) of the Income Tax Act (the "Act") provides that there shall be included in computing the income of a taxpayer any amount required by subdivision i. That subdivision concerns the shareholders of corporations not resident in Canada. Subsection 90(1) of subdivision i of the Act provides that a taxpayer resident in Canadashall include in computing his income any amounts received as dividends. Subsection 248(1) of the Act confirms that a stock dividend is included in the meaning of dividend.
+[12] The appellant claims that his asset base increased by only $0.99. That is not correct. His asset base increased by 79 shares, which, had the appellant purchased them on March 20, 2001, would have cost him US$1,564 or C$2,422, for which shares he paid nothing. This amounts, beyond any doubt, to an increase in his assets.
+[13] The Court acknowledges that the appellant has conducted thorough research on the subject. However, the issuing of shares in proportion to the number of shares held is not a stock split but rather the payment of a stock dividend and, under the aforementioned provisions of the Act, the Court must conclude that the Minister of National Revenue included the dividend in question in computing the appellant's income for 2001 in accordance with the law and the facts.
+[14] Accordingly, the appeal shall be dismissed.
+Signed at Ottawa, Canada, this 15th day of July 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

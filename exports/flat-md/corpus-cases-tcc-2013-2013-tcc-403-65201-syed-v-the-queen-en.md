@@ -1,0 +1,139 @@
+---
+title: "Syed v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65201/index.do"
+last_modified: "2013-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 403"
+citation2: ""
+neutral_citation: "2013 TCC 403"
+decision_date: "2013-12-12"
+language: "en"
+item_id: "65201"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5911
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:42:21.325000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b1a69e1d040ceb1b8d8402c4e0de8e494a4a5f6af01a01e2a7e502376e330c6b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Syed v. The Queen
+
+- Citation: 2013 TCC 403
+- Decision date: 2013-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5911, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syed v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-12
+Neutral citation
+2013 TCC 403
+File numbers
+2013-1128(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1128(IT)I
+BETWEEN:
+ARIF SYED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 5, 2013 at Toronto, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+Agent for the Appellant:
+Yoga Sabaratnam
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal with respect to assessments made under the Income Tax Act for the 2007 and 2008 taxation years is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 12th day of December 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 403
+Date: 20131212
+Docket: 2013-1128(IT)I
+BETWEEN:
+ARIF SYED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Arif Syed appeals with respect to reassessments made under the Income Tax Act for the 2007 and 2008 taxation years. Mr. Syed disputes the disallowances of losses that he claimed from a business of buying, repairing and selling used automobiles.
+[2] The Crown submits that the losses have been properly disallowed because Mr. Syed has not established that the automobile activity was a business or other source of income. Alternatively, the Crown submits that Mr. Syed has not established that the expenditures claimed were incurred for the purpose of earning income.
+[3] The losses that were disallowed were $8,351 for the 2007 taxation year and $27,207 for the 2008 taxation year. At the hearing, Mr. Syed reduced his claim for losses to $6,000 for the 2007 taxation year and $10,000 for the 2008 taxation year.
+[4] By way of background, Mr. Syed is engaged on a full-time basis as a financial consultant with a Canadian bank. According to his testimony, in 2007 he decided to commence a part-time business involving the purchase of automobiles that had been damaged in accidents. The plan, according to his testimony, was for the automobiles to be repaired and then sold.
+[5] Mr. Syed testified that he purchased four vehicles in 2007 and ten in 2008 (excluding an automobile for his personal use). According to the documents he presented, the proceeds from the sale of vehicles were generally equal to or less than what he paid to acquire the vehicles. This would mean that Mr. Syed generally had no profit or incurred a loss even before taking into account the cost of repairs and other expenses.
+[6] Mr. Syed stated that he ended up losing money from the venture because people were reluctant to purchase automobiles that had been in accidents and he had not been able to accurately assess the extent of the damage to the vehicles before they were purchased.
+[7] Mr. Syed also testified that he lost the entire purchase price for four vehicles acquired in 2008 and which were exported to Dubai before being repaired. Mr. Syed testified that his business partner with respect to this arrangement arranged for the export of the vehicles and then absconded with the proceeds. He said that the individual had been a friend of his uncle, that the uncle had determined that the vehicles had been sold in Dubai, and that the business partner could not be found.
+[8] Testimony on behalf of the Crown was provided by Teresa Brudnicki, who reviewed the objection filed by Mr. Syed. She testified that Mr. Syed was slow to submit any supporting documentation in support of his claim, that the books and records were unsatisfactory, that Mr. Syed acknowledged during the audit that he used one of the cars himself and that some other were sold to relatives. Ms. Brudnicki also testified that the purported buyers of the vehicles did not match ownership records that Ms. Brudnicki had obtained from the Ontario Ministry of Transportation.
+Discussion
+[9] In order for a taxpayer to deduct a loss as a business loss, the taxpayer must have a source of income as opposed to conducting a personal endeavour: Stewart v The Queen, 2002 SCC 46.
+[10] In this case, I did not find the evidence persuasive that Mr. Syed operated a business as opposed to a personal endeavour of assisting friends and acquaintances with the purchase and repair of vehicles using a license that enabled him to purchase vehicles at auction.
+[11] Mr. Syed testified on his own behalf and his testimony must be viewed with caution because it is self-interested.
+[12] As for supporting documentation, the documentation concerning the purchase of vehicles appears to be reliable for the most part, but the evidence regarding sales is quite weak and is not sufficiently reliable.
+[13] In respect of these conclusions, I would make the observations below.
+(a) Mr. Syed’s claims for losses in his income tax returns included personal expenses for vehicles that he and his spouse used. This raises an initial concern about the reliability of Mr. Syed’s testimony.
+(b) The appeals officer testified that Mr. Syed had told the auditor that he sold vehicles to a sister-in-law but this was denied at the hearing. I prefer the testimony of the appeals officer on this point, as opposed to Mr. Syed’s self-interested testimony.
+(c) The sales receipts that Mr. Syed introduced to establish the proceeds of sale were hand-written and could easily have been fabricated after the fact. In addition, Ms. Brudnicki’s testimony that Mr. Syed was slow to provide documentation to the Canada Revenue Agency increases my concern about the bona fides of this documentation.
+(d) According to the appeals officer, several of the expenditures claimed were clearly personal expenditures. In addition, Mr. Syed substantially reduced the amount of losses that were being claimed at the hearing. This also raises a concern about the reliability of Mr. Syed’s testimony.
+(e) Overall, the testimony by Mr. Syed was not detailed enough to be persuasive. In order to be convincing, Mr. Syed’s testimony, especially about the sales activity, needed to be much more complete.
+(f) Further, Mr. Syed’s testimony with respect to four exported vehicles was vague and unconvincing. The circumstances surrounding the acquisition and disposition of these vehicles are not at all clear from the evidence. It appears to be possible that Mr. Syed was merely acting as an agent and using his license to acquire vehicles on behalf of someone who wished to export them. In any event, the evidence regarding the exported vehicles is not sufficiently reliable and I am not satisfied that any loss was incurred with respect to these vehicles.
+[14] Based on the evidence as a whole, I have concluded that Mr. Syed has not satisfied the burden imposed on him to establish a prima facie case that he operated a business as opposed to a personal endeavour of helping acquaintances and relatives with vehicles.
+[15] In reaching this conclusion, I would comment that I disregarded the testimony of the appeals officer regarding government records of the ownership of the vehicles. These records were not introduced into evidence and I am not satisfied that Mr. Syed had a satisfactory opportunity to respond to this evidence.
+[16] Regardless of this shortcoming in the Crown’s case, the burden is on Mr. Syed to establish a prima facie case and this burden has not been satisfied. The appeal will be dismissed on this basis.
+Signed at Toronto, Ontario this 12th day of December 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 403
+COURT FILE NO.: 2013-1128(IT)I
+STYLE OF CAUSE: ARIF SYED and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 5, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: December 12, 2013
+APPEARANCES:
+Agent for the Appellant:
+Yoga Sabaratnam
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

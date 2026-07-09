@@ -1,0 +1,194 @@
+---
+title: "Ahmadiyya Abode of Peace Inc. v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521274/index.do"
+last_modified: "2024-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 70"
+citation2: ""
+neutral_citation: "2024 TCC 70"
+decision_date: "2024-05-15"
+language: "en"
+item_id: "521274"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5510
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-26T09:08:26.865000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4904258fdc298ae4793f5b32bed26e8f9eded05161cb00c163798315b701c32e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ahmadiyya Abode of Peace Inc. v. The King
+
+- Citation: 2024 TCC 70
+- Decision date: 2024-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5510, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmadiyya Abode of Peace Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-15
+Neutral citation
+2024 TCC 70
+File numbers
+2020-515(GST)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-515(GST)G
+BETWEEN:
+AHMADIYYA ABODE OF PEACE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard April 10, 2024 at Toronto, Ontario
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Ian Iatzko
+Counsel for the Respondent:
+Ian Pillai
+JUDGMENT
+The appeal of the two assessments made January 16, 2019 under the Excise Tax Act is dismissed, with costs.
+Signed at Halifax, Nova Scotia, this 15th day of May 2024.
+“B. Russell”
+Russell J.
+Citation: 2024 TCC 70
+Date: 20240515
+Docket: 2020-515(GST)G
+BETWEEN:
+AHMADIYYA ABODE OF PEACE INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction: [1] The Appellant, Ahmadiyya Abode of Peace Inc., based in North York, operates a 166-unit non-profit housing project, and participates in a municipal housing stability service program. The Appellant is not a registrant under the federal Excise Tax Act (Act).
+[2] The Appellant appeals two assessments under the Act, each made by the Minister of National Revenue (Minister) on January 16, 2019. These two assessments assessed as nil each of two GST/HST rebates of $29,027.60 and $33,592.75, applied for by the Appellant in its two GST/HST Public Service Bodies’ rebate applications (PSB rebate application(s)). These PSB rebate applications were both filed January 11, 2019 with the Minister.
+[3] The issue is whether those two January 11, 2019 PSB rebate applications constituted, as claimed by the Appellant, amendments to a PSB rebate application the Appellant had filed June 23, 2016.
+II. Background: [4] On June 23, 2016, the Appellant filed with the Minister a PSB rebate application seeking a GST/HST rebate of $62,620.35, for a claim period identified as January 1, 2014 to December 31, 2014.
+[5] Subsections 297(1) and (2) of the Act read:
+(1) Assessment of rebate - On receipt of an application made by a person for a rebate under section 215.1 or Division VI, the Minister shall, with all due dispatch, consider the application and assess the amount of the rebate, if any, payable to the person.
+(2) Reassessment - The Minister may reassess or make an additional assessment of the amount of a rebate, notwithstanding any previous assessment of the amount of the rebate.
+[6] As required by subsection 297(1), the Minister considered this (Division IV) PSB rebate application of June 23, 2016. Then, on July 20, 2016, the Minister assessed the appropriate rebate as nil. The resultant July 20, 2016 notice of assessment explained that the rebate was assessed as nil because the June 23, 2016 PSB rebate application had not identified a correct claim period, as defined in the Act.
+[7] The term “claim period” is defined in subsection 259(1) of the Act as follows:
+“claim period” of a person at any time means
+(a) where the person is at that time a registrant, the reporting period of the person that includes that time, and
+(b) in any other case, the period that includes that time and consists of either
+(i) the first and second fiscal quarters in a fiscal year of the person, or
+(ii) the third and fourth fiscal quarters in a fiscal year of the person;
+[8] In accordance with this definition and noting that the Appellant was not a registrant and its fiscal year was the calendar year, the Appellant’s correct claim periods for 2014 were two-fold, i.e. two six-month periods being January 1, 2014 to June 30, 2014 and July 1, 2014 to December 31, 2014. As stated the Appellant in its June 23, 2016 PSB rebate application had wrongly claimed for single claim period, being the twelve-month period of January 1, 2014 to December 31, 2014.
+[9] At the hearing, the Appellant’s manager, Mr. Karim Tahir, testified that the Appellant did not receive the July 20, 2016 notice of assessment. He said he opens the mail himself. However, the Appellant did not dispute that the July 20, 2016 notice of assessment was correctly addressed to the Appellant and that Canada Revenue Agency (CRA) had not received any returned mail from that address. There was no indication that the Appellant had disputed that the July 20, 2016 notice of assessment had been mailed.[1]
+[10] In any event, the Appellant did not file a notice of objection regarding the July 20, 2016 assessment. Subsection 301(1.1) of the Act provides that a notice of objection may be filed within 90 days following the date the assessment to be objected to was sent.
+[11] As well, subsection 303(7) of the Act allows a period of a year following the expiry of the said 90 days within which to apply for an extension of time to file a notice of objection. The Appellant made no such application, with that further period of one year expiring on October 18, 2017.
+[12] Mr. Tahir testified that in 2017, he became aware that the Appellant had not received the applied-for 2014 rebate. It was in October of the following year – 2018 - that he enquired of this to CRA. He was told he was not a representative of the Appellant with whom CRA was authorized to communicate.
+[13] Mr. S. Formusa, the Appellant’s outside accountant, also testified. He stated that in late 2018 he, the Appellant’s appointed CRA contact, communicated with CRA regarding the “missing” 2014 rebate. He then learned that the rebate due in respect of the June 23, 2016 PSB rebate application (having the wrongly stated claim period), had been assessed July 20, 2016 as nil.
+[14] His evidence was that likewise the GST/HST rebates the Appellant had applied for, for claim periods for 2015 and 2016, had not been received. He testified that the Appellant was able to successfully resolve the 2015 and 2016 rebate claims by filing what he termed were “amended” PSB rebate applications for correctly stated claim periods. No documentation regarding this was entered in evidence and these rebate applications are not in issue.
+[15] As stated, on January 11, 2019 the Appellant filed the two PSB rebate applications pertaining to 2014 claim periods. The Appellant submits that these applications were amendments to the June 23, 2016 PSB rebate application that had resulted in the nil assessment of July 20, 2016.
+[16] One of these two January 11, 2019 PSB rebate applications sought a rebate of $29,027.60 for the claim period of January 1, 2014 to June 30, 2014. The other sought a rebate of $33,592.75 for the claim period of June 1, 2014 to December 31, 2014. Mr. Formusa testified that he had not realized that in the application for the latter claim period he had mistakenly identified that claim period as commencing June 1, 2014, rather than July 1, 2014.
+[17] Paragraph 259(5)(b) of the Act provides that for non-registrants, such as is the Appellant, a PSB rebate application for a claim period must be filed within four years after the last day of that claim period.
+[18] Paragraph 259(5)(b) reads as follows:
+(5)(b) – Application for rebate [deadline] – A rebate under this section in respect of a claim period in a fiscal year of a person shall not be paid to the person unless the person files an application for the rebate after the first day in that year that the person is a selected public service body, charity or qualifying non-profit organization and within four years after the day that is...where the person is not a registrant, the last day of the period.
+[19] Thus, the four-year filing deadlines for these two January 11, 2019 PSB rebate applications were respectively, June 30, 2018 and December 31, 2018. Accordingly, these PSB rebate applications filed January 11, 2019 were both filed after the expiry of those paragraph 259(5)(b) deadlines.
+[20] It was for that reason that on January 16, 2019, in response to the two January 11, 2019 rebate applications, the Minister assessed the sought rebate amounts as nil. As well, the Minister’s nil assessment of the rebate applied for on January 11, 2019 respecting the claim period ending December 31, 2014 was based also on the reason that that claim period had been wrongly expressed as commencing June 1, 2014; not July 1, 2014.
+[21] On the following day, January 17, 2019, the Appellant filed another PSB rebate application for $33,592.75 for the latter claim period, this time correctly identifying its commencement date as July 1, 2014.
+[22] Less than a week later, on January 23, 2019, the Minister assessed as nil the permitted rebate sought by that January 17, 2019 rebate application, for the familiar reason that the application had been filed after the expiry of the applicable four‑year limitation period.
+[23] On February 19, 2019, the Appellant, per subsection 301(1.1) of the Act, filed a notice of objection respecting each of the two January 16, 2019 assessments.
+[24] On November 15, 2019, the Minister confirmed both of the objected-to January 16, 2019 assessments, on the basis that the two January 11, 2019 PSB rebate applications giving rise to those assessments were filed after expiry of the pertinent four-year limitation periods, and so could not have been amendments of the July 20, 2016 assessment.
+[25] The two notices of confirmation, signed by CRA Appeals Officer Mr. Navpreet Bains on behalf of the Minister, stated also that the late-filed January 11, 2019 rebate applications “could not have been amendments to the initial application because they were for two distinct claim periods as defined in subsection 259(1)...”.
+[26] Mr. Bains’ notices of confirmation stated also that the two January 11, 2019 PSB rebate applications were “late filed” and so could not be considered, “regardless of the circumstances”.
+[27] In its Notice of Appeal to this Court, the Appellant pleads that its two January 11, 2019 PSB rebate applications were amendments of its June 23, 2016 rebate application; and as well that its January 17, 2019 PSB rebate application amended the claim period erroneously expressed as commencing June 1, 2014.
+[28] In argument, Appellant’s counsel referenced a brief CRA document dated September 11, 2014 and entitled “Adjust a Return or Rebate”. It includes the following statements:
+Using CRA’s “My Business Account”, a person can “ask for an adjustment to an assessed public services bodies’ (PSB) rebate claim.”
+“If you want to adjust another type of rebate, send your request in writing to the Prince Edward Island Tax Centre.”
+“Once you have a user ID and password, sign into My Business Account and select the “Adjust a PSB rebate” option. You will then be presented with a list of periods that are eligible for electronic adjustment. You will then be able to enter your updated information on screens…” (underlining added)
+[29] According to this, a person can ask for an adjustment to an assessed PSB rebate claim, for a claim period that is “eligible for…adjustment”. The way of doing this as per the Act is to file a notice of objection. There is no guidance in this September 2014 government document that counsel put forward as to what makes a claim period “eligible for adjustment”. Of course, it could not be anything inconsistent with the Act.
+[30] Appellant’s counsel also referenced a CRA publication entitled “GST/HST Public Service Bodies’ Rebate”. On its front page is stated, “[t]his guide uses plain language to explain the most common tax situations. It is provided for information only and does not replace the law.” As well there is a short discussion on page 11 under the heading, “How to make changes to a rebate application you already filed”. It reads:
+If you need to change a rebate [application] that you have already filed, you can:
+-use the CRA's digital services in My Business Account at canada.ca/my-cra-business-account or Represent a Client at canada.ca/taxes-representatives
+-send us a letter indicating the change. (underlining added)
+[31] It basically says that if a taxpayer files a rebate application and subsequently realizes that a wrong statement was made in it, the taxpayer can simply write a letter identifying the requested correction. That seems fine, particularly if before any assessment as to the proper rebate. But, that did not happen here, to correct the claim period description. Again, obviously this informal flexibility would be subject to provisions of the Act. As the document itself says, its statements “do not replace the law”.
+[32] I note that neither of these CRA documents uses either of the terms “amend” and “amendment”.
+III. Parties’ Positions: [33] The Appellant’s position is that the June 23, 2016 PSB rebate application was amended by the two January 11, 2019 PSB rebate applications (plus the January 17, 2019 PSB rebate application). The Appellant submits that this leads to the result that the June 23, 2016 PSB rebate application should be reassessed as accepting the applied-for rebate for each of the two correct 2014 claim periods. The result would be that June 23, 2016 would become the date of the PSB rebate application for the correct claim periods and associated rebate claims that actually were filed January 11, 2019. Unlike the June 23, 2016 PSB rebate application, the January 11, 2019 and January 17, 2019 rebate applications were, as noted, filed past the applicable four-year limitation periods.
+[34] The Respondent’s position is that the two January 11, 2019 PSB rebate applications were not amendments. They are what they say they are – PSB rebate applications, and as such filed beyond the applicable four-year limitation dates of June 30, 2018 and December 31, 2018. Accordingly, the appeal should be dismissed.
+IV. Analysis: [35] The question is whether the June 23, 2016 PSB rebate application for a rebate of $60,620.35, which application the Minister on July 20, 2016 considered and then assessed the appropriate rebate as nil, and which assessment was not objected to, can on January 11, 2019 be amended and then re-considered?
+[36] The following provisions of the Act speak to the (using my word), “finality” aspect of PSB rebate applications and resultant rebate assessments.
+[37] Subsections 262(1) and (2) of the Act provide:
+(1) Form and filing of [rebate] application - An application for a rebate under this Division (other than section 253) shall be made in prescribed form containing prescribed information and shall be filed with the Minister in prescribed manner.
+(2) Single application - Only one application may be made under this Division for a rebate with respect to any matter.
+[38] In Fanshawe College of Applied Arts v. The Queen, 2006 TCC 652, Woods JTCC as she then was, opined that in subsection 262(2) the word “matter” means “transaction”.[2] The provision accordingly provides that only one GST/HST application for a rebate can be made in respect of any transaction.
+[39] Additionally, subsections 299(3) and (4) of the Act state:
+(3) Assessment valid and binding - An assessment, subject to being vacated on an objection or appeal under this Part and subject to a reassessment, shall be deemed to be valid and binding.
+(4) Assessment deemed valid – An assessment shall, subject to being reassessed or vacated as a result of an objection or appeal under this Part, be deemed to be valid and binding, notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto. (underlining added)
+[40] Subsection 299(3) establishes, and subsection (4) iterates, that an assessment is, “valid and binding”. It remains so pending the PSB rebate applicant filing in timely fashion a notice of objection to that assessment.
+[41] Filing a notice of objection is the first step in seeking that a valid and binding assessment be reassessed or vacated. The Minister may agree with the objection and reassess or vacate accordingly. Should the Minister not agree with the objection, the objecting PSB may appeal the assessment to this Court, seeking that this Court vacate the assessment or order that the Minister reassess on a basis specified by the Court.
+[42] Apart from these options, which only could arise upon a notice of objection having been filed, the Minister’s assessment remains valid and binding – this, per subsection 299(4), “notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto.”
+[43] The Appellant’s June 23, 2016 PSB rebate application led to the July 20, 2016 assessment, which assessment (of nil rebate) is valid and binding, as it was not objected to. As for the June 23, 2016 PSB rebate application, it is spent – it has no further role.
+[44] The Act has no role for a PSB rebate application once it has led to the ministerial rendering of an assessment as to quantum of rebate for the claim period identified in that application. The assessment is “valid and binding”, subject only to being vacated or reassessed; neither of which could happen without a notice of objection having been filed.
+[45] Thus, with no notice of objection having been filed, the July 20, 2016 assessment remains valid and binding. The Act does not contemplate that the rebate application that led to that assessment subsequently being amended or otherwise altered. That would be meaningless, with the assessment it had prompted remaining valid and binding.
+[46] As well, any ability to amend an otherwise spent PSB rebate application, in seeking a different assessment, contemplates the complete sidestepping of the Act’s notice of objection process.
+[47] The Act recognizes that, while allowing for the notice of objection process, there must be finality to the GST/HST PSB rebate assessment process.
+[48] In Fanshawe College, Justice Woods observed that in addressing errors underlying PSB rebate assessments, the proper procedure is the filing a notice of objection:
+The proper way to adjust for these errors is to object to the assessments for the claim periods in which the errors were made. This was not done and, as the Crown noted in its argument, these assessments are now deemed to be valid by virtue of section 299(3).[3] (underlining added)
+[49] Thus, this provision forbids the use of further rebate applications to supposedly amend an earlier rebate application. The “amendment” here sought is not an amendment but rather a complete substitution of the 2019 application(s) for the 2016 one. They are new applications pertaining to the same transactions – as such forbidden by subsection 262(2).
+[50] In closing I briefly address the Minister’s reason for denying the January 11 and 17, 2019 rebate applications as amendments. In my view a rebate application filed prior to passage of the paragraph 259(5)(b) four-year deadline for so filing could incidentally be amended post deadline, although prior to the Minister having assessed in respect of that application. Upon the Minister having assessed, and should a concern exist – it is not the spent rebate application to be addressed but rather, the valid and binding assessment, by way of notice of objection.
+V. Conclusion: [51] In conclusion, this appeal will be dismissed, with costs.
+Signed at Halifax, Nova Scotia this 15th day of May 2024.
+“B. Russell”
+Russell J.
+CITATION:
+2024 TCC 70
+COURT FILE NO.:
+2020-515(GST)G
+STYLE OF CAUSE:
+AHMADIYYA ABODE OF PEACE INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 10, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+May 15, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Ian Iatzko
+Counsel for the Respondent:
+Ian Pillai
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ian Iatzko
+Firm:
+Spectrum Tax & Estate Planning
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] I parenthetically note that subsection 334(1) of the Act provides that for purposes of Part IX of the Act, anything sent by first class mail or equivalent (not including a payment or remittance sent to the Receiver General) is deemed received by the addressee on the day mailed.
+[2] Fanshawe College, para. 58
+[3]Fanshawe College, para. 60

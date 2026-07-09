@@ -1,0 +1,108 @@
+Title: Cofamek Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26976/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-466-26976-cofamek-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-07-04
+
+# Cofamek Inc. c. La Reine
+
+- Citation: 2003 TCC 466
+- Decision date: 2003-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 521, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cofamek Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-04
+Neutral citation
+2003 TCC 466
+File numbers
+2002-4011(GST)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-4011(GST)I
+BETWEEN:
+COFAMEK INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 9, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge P.R. Dussault
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Frank Archambault
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act concerning the goods and services tax for the period from August 1, 1997, to July 31, 2001, notice of which is dated October 29, 2001, and bears number 02306054, is allowed, and the assessment is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of July 2003.
+"P.R. Dussault"
+Judge Dussault
+Translation certified true
+on this 19th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC466
+Date: 20030704
+Docket: 2002-4011(GST)I
+BETWEEN:
+COFAMEK INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault, J.
+[1] This is an appeal from an assessment of the goods and services tax ("GST"), notice of which is dated October 29, 2001, and bears number 02306054, for the period from August 1, 1997, to July 31, 2001.
+[2] The appellant Cofamek Inc. ("Cofamek" or the "company") claims that, by that assessment, the Minister of National Revenue disallowed it an input tax credit ("ITC") on the ground that it owned an automobile that was put at the disposal of one of its shareholders and that that shareholder used it for personal purposes. The assessment was made under section 173 of the Excise Tax Act ("Act"). That section refers to the provisions of the Income Tax Act respecting taxable benefits to employees and shareholders in respect of a standby charge for and the operation of an automobile.
+[3] Paragraph 9 of the Reply to the Notice of Appeal reads as follows:
+[TRANSLATION]
+9. In assessing the appellant, the Minister relied in particular on the following findings and assumptions of fact:
+(a) The appellant is a registrant for GST purposes;
+(b) The appellant operates a consulting engineering business in the manufacturing field;
+(c) The appellant owns an automobile it puts at the disposal of one of its shareholders;
+(d) The shareholder uses the automobile put at his disposal by the appellant for personal purposes;
+(e) The appellant is not entitled to the input tax credit (ITC) for the personal automobile expenses of one of its shareholders;
+[4] In actual fact, section 173 of the Act places no direct restriction on the determination of ITCs, as does section 170. Rather, it establishes a presumption that a registrant has made a supply and collected the tax on the taxable benefit resulting from the use by an employee or shareholder of an automobile for personal purposes, which has the effect of cancelling by the same amount the ITCs previously claimed by the registrant in respect of his or her automobile expenses. Therefore, the tax determined under subsection 173(1) of the Act is, in this case, $824.75 (Exhibit I-1, tab 3).
+[5] The auditor, Line Lauzon, computed the benefit received by François Thibault, the shareholder of the appellant, by determining that, out of 18,000 kilometres travelled annually, Mr. Thibault's personal use totalled 3,840 kilometres a year.
+[6] Ms. Lauzon stated in her testimony that she had been given a log of Mr. Thibault's personal kilometrage for 1997 and an incomplete log for 1998. Those records contained no indication of daily round trips from the residence to what may be called the company's technical office. Ms. Lauzon said she had not considered the kilometrage for personal purposes established by Mr. Thibault and had simply calculated the minimum personal kilometrage, considering that the roundtrip from Mr. Thibault's residence to the company's technical office was for personal purposes. Since she estimated the distance between the two locations to be eight kilometres, she simply made the following calculation:
+8 km x 2 times/day x 5 days/week x 48 weeks/year = 3,840 km
+[7] Since the so-called minimum number of kilometres for personal purposes represented a large percentage of the 18,000 kilometres travelled annually, there was no reason to calculate a reduced benefit under subsection 6(2) of the Income Tax Act.
+[8] In actual fact, the benefit can only be reduced under subsection 6(2) where fewer than 1,000 kilometres are travelled per month other than in connection with or in the course of the office or employment and where the following conditions are met:
+[TRANSLATION]
+The taxpayer is required by the [Corporation] to use the automobile in connection with or in the course of the office or employment, and all or substantially all of the distance travelled by the automobile in the total available days is in connection with or in the course of the office or employment ...
+[9] The appellant does not dispute the total distance of 18,000 kilometres travelled by the automobile per year and, until the hearing, did not dispute the figures and calculations used by Ms. Lauzon; the appellant merely claimed that Mr. Thibault had not made the round trip from the residence to the technical office for personal purposes but rather for business purposes in that the company had its "principal place of business" at Mr. Thibault's residence, which was located at 955 Rue Maurice in St-Charles de Drummond, Quebec, and that the other places of business or technical offices leased at various locations during the period in issue were "essentially temporary".
+[10] At the hearing, the appellant maintained its claims regarding the non-personal nature of Mr. Thibault's travels. It further claimed, on the one hand, that the average kilometrage between the residence and the other two places of business or technical offices used during the years in issue was 6.3 km, not 8 km, based on the route usually taken, and, on the other hand, that on average two or three times a week, Mr. Thibault left the residence in the morning to go directly to clients' offices rather than to the company's technical office, which for Mr. Thibault represented travel in the performance of his duties and was not travel for personal purposes.
+[11] François Thibault and his spouse, Lyne Desrosiers, testified.
+[12] In 1993, after losing his employment, Mr. Thibault, an engineer at the time, started up a consulting engineering firm in the manufacturing sector in the Drummondville area in Quebec. The company's place of business was originally set up in the residence of Mr. Thibault and Ms. Desrosiers. The declaration of firm name states this (see Exhibit A-1, tab 25). At the outset, Mr. Thibault worked alone and did engineering work performed generally at the clients' premises and administrative work at the residence.
+[13] In early 1995, Mr. Thibault leased initial space from "Les Consultants Audet" to perform technical engineering work in order to obtain mandates from that firm. At the start of 1996, Mr. Thibault decided to lease a larger office, which was occupied until October of that year. At the start of November 1996, the business, which had previously been operated as a registered sole proprietorship, was incorporated under Part 1A of Quebec's Companies Act, R.S.Q., c. C-38, and the technical office was therefore moved once again to a larger location at 1800 Goupil in Drummondville. That location was used until September 1999. In October 1999, the technical office was moved to a location at 2400 Letendre in Drummondville, which was occupied until January 2002. However, from the start and during that entire period commencing in 1993 and ending in January 2002, management of the business was carried on at the office in the residence located at 955 Maurice in St-Charles de Drummond. That, moreover, was the address designated as the company's head office at the time it was incorporated (Exhibit A-1, tab 1). Mr. Thibault stated that management of the business had been kept at the office in the residence in order to ensure certain stability with regard to clientele, whereas the expansion of the business and hiring of new employees required that the technical office be moved many times over the years.
+[14] Lyne Desrosiers handled the administration of the business during the period in issue. At the outset, she helped her spouse in a rather informal way. In 1996, after a sabbatical year to attend to the organization of the business, she left her regular employment as a respiratory therapist and became a full-time employee of Cofamek. Ms. Desrosiers worked at the administrative office located in the residence since there was no available space for administrative work at the technical office. When Mr. Thibault used the company automobile for his travels, Ms. Desrosiers used the family car to transport documents from office to office as was needed. She was simply reimbursed by the company based on kilometres travelled.
+[15] The documents filed in evidence show that all the non-technical correspondence and billing were forwarded to or handled at the administrative office (Exhibit A-1, tabs 7 to 15 and 17 to 21).
+[16] In her testimony, Ms. Desrosiers also stated that the suppliers delivered parts to the administrative office and that clients went there to meet with Mr. Thibault. Employees whose services Cofamek leased to certain businesses also went there to pick up their pay cheques.
+[17] In his testimony, Mr. Thibault stated that he as well worked at the company's administrative office both in the mornings and evenings, that there he met with clients and that there he conducted interviews to meet employees whose services were leased to clients. Mr. Thibault mentioned on that point that the leasing of staff to clients was an important aspect of Cofamek's business and represented 50 percent and, at certain times, even as much as 60 percent and 70 percent of turnover.
+[18] While Ms. Desrosiers worked at the administrative office in the Rue Maurice residence and the other employees worked at the technical office or with clients, Mr. Thibault said that he himself worked at both locations since he had to attend to both the consulting engineering aspect and the management of the company's business.
+[19] With respect to his travels, Mr. Thibault said that on average he left the residence in the morning two or three times a week to go directly to clients' locations rather than to the company's technical office.
+[20] According to Mr. Thibault, the distance between the office at 1800 Goupil and the residence was 6.8 kilometres, and the distance between the office at 2400 Letendre and the residence was 5.8 kilometres, based on the route regularly taken, rather than the 8 kilometres calculated by the auditor Line Lauzon based on the highway route.
+[21] How should the trips from the residence directly to clients' premises be characterized? The mandates of the business were indeed carried out at the technical office but also at the clients' premises. On this point, Mr. Thibault said that, in the mornings, he went directly to the clients rather than to the technical office on average two or three times a week. Those trips cannot be considered in any case as travel for personal purposes. They were without a doubt travel in connection with or in the course of the office or employment. This moreover is recognized in paragraph 5 of Interpretation Bulletin IT-63R5, dated August 21, 1995, entitled "Benefits, Including Standby Charge for an Automobile, from the Personal Use of a Motor Vehicle Supplied by an Employer - After 1992".
+[22] What about the round trips from the residence to the technical office? While it is true that an individual's trips between his residence and customary place of work are usually considered as being of a personal nature, rather than travel in connection with or in the course of an office or employment or for the purpose of earning business income, this is not a rule to which there are no exceptions.
+[23] Where it is established that different duties of an individual are performed at two different locations, one of which is located in the personal residence, it is harder to conclude that the travelling between the two locations must be considered as personal in nature. This is all the more so if the residence has always been a place where the business's base of operations has been located. This is the situation that prevailed in the instant case. Mr. Thibault started up the business by first using his residence as the sole base of its operations. Then, although he opened a technical office where a certain number of employees could work and various offices were leased for that purpose as the business expanded, the administration and management of the business always remained at the same location, that is to say, at the residence. Moreover, that residence was Cofamek's head office from the time it was incorporated.
+[24] To the extent that it can be acknowledged that a significant portion of Mr. Thibault's work, not only that of his spouse, was performed at the residence office, it cannot be stated that the trips between the residence and the technical office constituted travel solely for personal purposes and that they were not made in connection with or in the course of the office or employment. That conclusion seems all the less justified since the residence was the base of the operations of the business from the start and subsequently became its head office when Cofamek was incorporated. (See on this point Cumming v. M.N.R, 67 DTC 5312; The Queen v. Cork, 90 DTC 6358 (F.C.A.); and Forestell v. M.N.R., 91 DTC 998 (T.C.C.).) I would add that, on this point, the facts of the instant case differ from those in Rioux v. Canada, [2002] T.C.J. No. 54 (Q.L.).
+[25] Having regard to the foregoing, the appeal is allowed, and the assessment made under subsection 173(1) of the Act is vacated.
+Signed at Ottawa, Canada, this 4th day of July 2003.
+"P.R. Dussault"
+Judge Dussault
+Translation certified true
+on this 19th day of July 2004.
+Sophie Debbané, Revisor

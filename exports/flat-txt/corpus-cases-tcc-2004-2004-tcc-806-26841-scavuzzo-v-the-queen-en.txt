@@ -1,0 +1,162 @@
+Title: Scavuzzo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26841/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-806-26841-scavuzzo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-12-17
+
+# Scavuzzo v. The Queen
+
+- Citation: 2004 TCC 806
+- Decision date: 2004-12-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 682, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scavuzzo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-17
+Neutral citation
+2004 TCC 806
+File numbers
+2001-4533(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2001-4533(IT)G
+2001-4534(GST)G
+BETWEEN:
+SANDRO (ALEX) SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard together with the motion of Jack Scavuzzo (2001-4535(IT)G) and
+(2001-4536(GST)G), on November 22, 2004 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+ORDER
+Upon motion made by counsel for the appellant for an order to amend the notices of appeal, it is ordered that:
+a) The appellant is entitled to amend his notices of appeal in the manner set out in the notice of motion and shall serve and file notices of appeal within 10 days from the date of this order;
+b) The respondent shall have 60 days to file amended replies to the amended notices of appeal;
+c) Amended lists of documents shall be served and filed within 30 days after the amended replies are filed;
+d) Discoveries and undertakings arising therefrom shall be completed within 45 days after the parties have filed and served their amended lists of documents;
+e) Counsel for the parties are directed to communicate with the court not later than April 30, 2005 to fix a date for the resumption of the hearing of these appeals; and
+f) The matter of costs will be dealt with when the hearing resumes.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Dockets: 2001-4535(IT)G
+2001-4536(GST)G
+BETWEEN:
+JACK SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard together with the motion of Sandro (Alex) Scavuzzo (2001-4533(IT)G) and (2001-4534(GST)G),
+on November 22, 2004 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+ORDER
+Upon motion made by counsel for the appellant for an order to amend the notices of appeal, it is ordered that:
+a) The appellant is entitled to amend his notices of appeal in the manner set out in the notice of motion and shall serve and file notices of appeal within 10 days from the date of this order;
+b) The respondent shall have 60 days to file amended replies to the amended notices of appeal;
+c) Amended lists of documents shall be served and filed within 30 days after the amended replies are filed;
+d) Discoveries and undertakings arising therefrom shall be completed within 45 days after the parties have filed and served their amended lists of documents;
+e) Counsel for the parties are directed to communicate with the court not later than April 30, 2005 to fix a date for the resumption of the hearing of these appeals; and
+f) The matter of costs will be dealt with when the hearing resumes.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC806
+Date: 20041217
+Dockets: 2001-4533(IT)G
+2001-4534(GST)G
+BETWEEN:
+SANDRO (ALEX) SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Dockets: 2001-4535(IT)G
+2001-4536(GST)G
+BETWEEN:
+JACK SCAVUZZO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, A.C.J.
+[1] This motion to amend the notices of appeal arose in the course of the hearing of the appeals of Jack Scavuzzo and his son Sandro (Alex) Scavuzzo. The cases were being heard together and both involved assessments under section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act. The assessments were evidently based on the view that a company, Resici Group Inc. ("Resici") was indebted to Her Majesty The Queen for unremitted goods and services tax under the E.T.A. and unremitted income tax deducted at source from employees' wages and salaries. The assessments were further based on the view that the appellants were directors of Resici and were liable for its indebtedness under the provisions mentioned above.
+[2] The appellants challenged the assessments. Jack Scavuzzo alleged that he was not a director at the relevant time and both appellants alleged that in any event they exercised due diligence so they were exonerated from the derivative liability imposed on directors under the E.T.A. and the I.T.A. In addition, Mr. Jack Scavuzzo alleged that he had cancer and that this medical condition impaired his liability to oversee Recisi's financial affairs, including its remittances to the Government of Canada.
+[3] The trial commenced on April 27, 2004. The appellants were represented by Mr. Joseph Irving and Mr. Lou Ciotoli. Mr. Jack Scavuzzo testified in chief and was cross-examined by Ms. Boris, counsel for the respondent. She put to Mr. Scavuzzo a large number of documents contained in two volumes that had not been disclosed in the respondent's list of documents. Mr. Irving objected but I permitted Ms. Boris to question Mr. Scavuzzo on them and put them in evidence.
+[4] I did so on the basis that under subsection 89(2) of the Tax Court of Canada Rules (General Procedure), the prohibition against the case of documents not included in a party's list of documents did not apply where a document is used solely as a basis for a question in cross-examination.
+[5] Notwithstanding the rule, to confront counsel with a large mass of documents at trial that were not disclosed in the respondent's list of documents took counsel for the appellant by surprise and put him at a significant and, in my view, possibly unfair disadvantage.
+[6] Following the cross-examination of Mr. Scavuzzo, Mr. Irving, after learning of the identity of two witnesses whom the respondent intended to call, stated that he found himself in a conflict of interest and asked leave to withdraw as counsel. I granted his request and adjourned the hearing to permit the appellant to retain new counsel. Mr. Novoselac of Cassels Brock & Blackwell was retained and brought the motion that is the subject of these reasons.
+[7] The first issue is the request by counsel to amend the notice of appeal in the case of Jack Scavuzzo and in the case of his son, Sandro. Some of the proposed changes are merely cosmetic but the substantive change seeks to challenge the underlying assessment against the company Resici. The respondent opposes the amendment on a number of grounds. She contends that in light of the decision of Bowie J. in Zaborniak v. The Queen, 2004 G.S.T.C. 110, there is no merit in the point that Mr. Novoselac wishes to raise. She argues that the Zaborniak decision (an informal procedure case) has established conclusively that a director who is assessed under section 227.1 of the I.T.A. or section 323 of the E.T.A. is absolutely precluded from challenging the corporate assessment. Counsel for the appellant relies upon the decision of the Federal Court of Appeal in Gaucher v. Canada, [2001] 1 C.T.C. 125. There is no unanimity in this court, as is apparent from the editorial comment by Mr. David Sherman to the report of the Zaborniak case.
+[8] I do not propose to decide this issue on this motion. It would be premature. I will however allow counsel to amend the pleadings to raise the issue, so that after this case resumes and the evidence is completed the matter can be fully argued. The point is an important and somewhat controversial one and it merits full argument.
+[9] Counsel for the respondent opposes the amendment also on the grounds that it is rather late in the day to raise so significant a point. The applicable principle is stated in Continental Bank Leasing Corporation et al. v. The Queen, 93 DTC 298 at 302:
+. . . I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful, but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.
+[10] This passage was quoted with approval in the Federal Court of Appeal in The Queen v. Canderel Limited, 93 DTC 5357. The circumstances in this application to amend are somewhat unusual. This is not a case in which evidence has been completed or nearly completed. The first witness has testified and been cross-examined. The re-examination has not begun. The other appellant has not been called. Previous counsel withdrew from the case and new counsel has now been retained. The matter has moved along in a rather sedate and leisurely way, if I may say so, and the trial will not resume until after the pleadings have been amended and further discoveries and production of documents have been completed. In light of the manner in which this case has proceeded I can see no prejudice to the Crown that is not compensable in costs. The possibility that the appellants might succeed on the new point is not the kind of prejudice the case law contemplates in cases of this kind.
+[11] I am therefore ordering that the appellants Jack Scavuzzo and Sandro (Alex) Scavuzzo may amend their notices of appeal in the manner set out in the notice of motion. The amended notices of appeal should be filed with the court and served on the respondent within 10 days from the date of this order. Ms. Boris asked for 60 days from the filing of the amended notice of appeal. This strikes me as rather long but in the circumstances I am prepared to grant it.
+[12] Amended lists of documents should be filed within 30 days after the replies are filed and further discoveries and undertakings should be completed within 45 days from the date that both parties have filed their lists of documents.
+[13] Obviously the Crown is entitled to be compensated in costs for this unfortunate situation which results from the previous counsel's withdrawing from the appeals and the failure to raise at the outset the new point now raised in the amended pleadings. Since I will continue to be the trial judge when the case resumes I will defer hearing representations on the matter of costs until the case is reconvened.
+[14] There is another matter in respect of which counsel for the appellant seeks the court's direction. It has to do with the question whether the new counsel, Mr. Novoselac is entitled to talk to his client, Mr. Jack Scavuzzo in light of Rule 4.04 of the Rules of Professional Conduct of the Law Society of Upper Canada, which reads:
+4.04 Subject to the direction of the tribunal, the lawyer shall observe the following rules respecting communication with witnesses giving evidence:
+. . . . .
+(e) between completion of cross-examination and commencement of re-examination, the lawyer who is going to re-examine the witness ought not to have any discussion about evidence that will be dealt with on re-examination,
+[15] The rule is a salutary one and should be observed in the vast majority of cases. This case is however not an ordinary one. Mr. Scavuzzo was cross-examined on a large number of documents that were not in the respondent's list of documents and now he has a new counsel. Whatever prejudice, if any, the Crown may suffer from Mr. Scavuzzo's discussion with Mr. Novoselac, it is far outweighed by the prejudice Mr. Scavuzzo will suffer from not being able fully to instruct his new counsel. The rule in the Upper Canada Law Society's Code of Ethics is not a rule of this court and it is stated in any event to be subject to the direction of the tribunal. Therefore, in my view, Mr. Novoselac may talk to his client. This direction need not be made the subject of a formal order.
+[16] Counsel for both parties are directed to communicate with the court on or before April 30, 2005 to fix a date for the resumption of the cases.
+[17] Notwithstanding the very lenient time limits that I have set may I express the possibly forlorn hope that counsel will endeavour to move these appeals along considerably more expeditiously than has heretofore been the case.
+Signed at Ottawa, Canada, this 17th day of December 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC806
+COURT FILE NO.:
+2001-4533(IT)G & 2001-4534(GST)G
+2001-4535(IT)G & 2001-4536(GST)G
+STYLE OF CAUSE:
+Sandro (Alex) Scavuzzo
+&
+Jack Scavuzzo
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+November 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Justice
+DATE OF ORDER:
+December 17, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Stevan Novoselac
+Counsel for the Respondent:
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

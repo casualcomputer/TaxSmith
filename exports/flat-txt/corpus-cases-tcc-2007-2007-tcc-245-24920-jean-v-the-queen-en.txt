@@ -1,0 +1,134 @@
+Title: Jean v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24920/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-245-24920-jean-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-23
+
+# Jean v. The Queen
+
+- Citation: 2007 TCC 245
+- Decision date: 2007-04-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2350, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-23
+Neutral citation
+2007 TCC 245
+File numbers
+2006-3069(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3069(IT)I
+BETWEEN:
+MICHEL JEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 28, 2007 at Ottawa, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan R. Hall
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 2002, 2003 and 2004 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 23rd day of April 2007.
+"L.M. Little"
+Little J.
+Citation: 2007TCC245
+Date: 20070423
+Docket: 2006-3069(IT)I
+BETWEEN:
+MICHEL JEAN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant and his former common law spouse, Muriel Jamieson, purchased two rental properties prior to the 1999 taxation year (the properties are hereinafter referred to as the "Rental Properties").
+[2] The Rental Properties were located at the following addresses:
+1. 10 Chapel Street, Aylmer, Quebec
+(Note: The Municipality of Aylmeris now part of Gatineau, Quebec.)
+2. 205 Wilbrod Street, Ottawa, Ontario
+[3] In the 1999 taxation year, the Appellant and Muriel Jamieson ended their common law relationship.
+[4] When the Appellant filed his income tax returns for the 2002, 2003 and 2004 taxation years, he claimed net rental losses from the Rental Properties on the following basis:
+Year Losses
+2002 $8,335.00
+2003 $11,560.00
+2004 $7,883.00
+[5] By Notices of Reassessment dated January 30, 2006 the Minister of National Revenue (the "Minister") reassessed the Appellant for the 2002, 2003 and 2004 taxation years and disallowed the rental expenses that the Appellant had claimed.
+B. ISSUE
+[6] The issue is whether the Appellant is entitled to deduct the net rental losses claimed for the 2002, 2003 and 2004 taxation years.
+C. ANALYSIS AND DECISION
+[7] The evidence before me indicated that after their separation in 1999, the Appellant and Ms. Jamieson had very strong differences of opinion on a number of matters including the ownership and operation of the Rental Properties and the sharing of any financial information concerning the properties.
+[8] In a letter to Jason D. McKay, an Auditor with the Canada Revenue Agency (the "CRA"), the Appellant referred to the Rental Properties and said:
+These properties were purchased for revenues since the beginning and revenues were always declared, I did not have accurate data for the years 2002, 2003 and 2004, this does not change the purpose of these properties, it was to make revenues from them. (Underlining added)
+[9] In his letter to Mr. McKay the Appellant also said:
+I have always submitted revenues for these properties since I purchased them with Muriel Jamieson, but since 2002 Miss Jamieson always refused to share with me the revenues from our properties and to get these revenues, I deposited a lawsuit in the Ontario Superior Court of Justice in 2002 to get all financial data for my properties and to this day Miss Jamieson has never given me the financial data for our properties. (See Exhibit A-8)
+(Note: This letter is undated but it appears to have been sent to the Auditor by the Appellant by fax on October 10, 2005).
+[10] As noted the Appellant commenced a lawsuit in the Superior Court of Ontario against Ms. Jamieson.
+[11] On the 17th day of May 2004, Mr. Justice Charbonneau of the Ontario Superior Court ordered as follows:
+1) Both parties to produce receipts, vouchers, statements of account showing any and all expenses claimed to have been spent by either of them on the properties and all revenues received by either of them, within 60 days. If the Respondent cannot produce copies, she is Ordered to remit all boxes of documents to Mr. Webster, counsel for the Applicant and Mr. Webster must make copies of what the Applicant requires and then return all originals to the Respondent.
+2) The Respondent is Ordered to allow the Applicant free access to the basement at 205 Wilbrod Street in Ottawafor the purpose of obtaining his documents that may be there. The Respondent may have a third party of her choice to be present during the Respondent's visit. (See Exhibit A-17)
+[12] The Appellant maintains that he never received the financial documents from Ms. Jamieson for the Wilbrod property as ordered by Justice Charbonneau.
+[13] The Appellant said that in 2005 he made a settlement with Ms. Jamieson and he discontinued his lawsuit. Pursuant to the settlement, the Appellant obtained ownership of the property located at 10 Chapel Street, and Ms. Jamieson obtained ownership of the property located at 205 Wilbrod Street.
+[14] The Appellant continues to maintain that in the 2002, 2003 and 2004 taxation years he was obliged to make various payments regarding the Rental Properties including, in particular, payments on the second mortgages. (See Exhibit A-10)
+[15] While the evidence that was presented to the Court left a lot to be desired, I am convinced that the Appellant was carrying on a rental business with Ms. Jamieson in the 2002, 2003 and 2004 taxation years.
+[16] I am also convinced by the evidence and the sworn testimony that the Appellant should be allowed deductions with respect to the interest payments made to Exceed Mortgage Corporation on the second mortgage:
+Year Interest Payments
+2002 $6,695.26
+2003 $5,895.03
+2004 $6,351.87
+(Note: The interest payments are contained in letters from Exceed Mortgage Corporation. See Exhibit R-1, Tab 7).
+[17] In reaching this conclusion concerning the deduction of the interest paid on the second mortgage, I have reviewed and I agree with the comments of Justice Iacobucci in Tennant v. The Queen, 96 DTC 6121.
+[18] In Johnstonv. M.N.R., [1948] S.C.R. 486, the Supreme Court of Canada said that the taxpayer has the onus of establishing that the Assessment is invalid. With respect to the other claims made by the Appellant in the Notices of Appeal, it is my opinion that the Appellant did not satisfy the onus to establish that the Reassessments were invalid.
+[19] The appeals will be allowed without costs to enable the Minister to reassess the Appellant and permit the Appellant to make the deductions specified at paragraph 16 above.
+Signed at Vancouver, British Columbia this 23rd day of April 2007.
+"L.M. Little"
+Little J.
+CITATION:
+2007TCC245
+COURT FILE NO.:
+2006-3069(IT)I
+STYLE OF CAUSE:
+Michel Jean and
+Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 28, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+April 23, 2007
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan R. Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

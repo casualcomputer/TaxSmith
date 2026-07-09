@@ -1,0 +1,150 @@
+Title: S.E.R. Contracting Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26845/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-6-26845-s-e-r-contracting-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-01-06
+
+# S.E.R. Contracting Ltd. v. The Queen
+
+- Citation: 2006 CCI 6
+- Decision date: 2006-01-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 651, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+S.E.R. Contracting Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-06
+Référence neutre
+2006 CCI 6
+Numéro de dossier
+2003-3715(GST)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2006CCI6
+Date : 20060106
+Dossier : 2003-3715(GST)I
+ENTRE :
+S.E.R. CONTRACTING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L'appelante a été constituée en société en avril 1992. C'est par l'entremise de cette société que Barry Nurse exploite depuis ce temps son entreprise de construction de maisons. L'appel a été interjeté contre une cotisation à l'égard de la taxe de vente harmonisée (TVH), ainsi que des intérêts et pénalités s'y rapportant, établie en vertu de la partie IX de la Loi sur la taxe d'accise[1],relativement à une maison construite pour M. Nurse et sa famille et habitée par la suite par M. Nurse et sa famille. La nouvelle cotisation visée par l'appel a été établie par suite de l'opposition déposée par l'appelante contre la cotisation initiale établie le 30 mars 2001. Les montants établis au départ et les montants établis après le dépôt de l'opposition sont les suivants :
+Taxe nette
+Intérêts
+Pénalité
+Cotisation initiale - le 30 mars 2001
+32 322,46 $
+14 682,99 $
+17 186,41 $
+Nouvelle cotisation -
+le 17 octobre 2002
+13 708,46 $
+12 035,61 $
+14 045,66 $
+[2] L'avis d'appel a été rédigé et déposé par le comptable de l'appelante. L'avis n'explique guère les faits sur lesquels l'appelante se fonde ni les questions qui opposent les parties. Étant donné que les éléments sur lesquels le ministre du Revenu national s'est fondé pour établir d'abord la cotisation et ensuite la nouvelle cotisation de l'appelante et les éléments sur lesquels le ministre se base maintenant pour justifier la nouvelle cotisation ont changé considérablement à deux reprises, il serait peut-être bon de reproduire en entier les paragraphes 9, 10 et 11 de la réponse à l'avis d'appel déposée par le sous-procureur général du Canada.
+[TRADUCTION]
+9. Pour établir la cotisation de l'appelante (avis de cotisation no 01BA0202261), le ministre s'est fondé sur les éléments suivants :
+a) les faits énoncés et admis ci-dessus;
+b) l'appelante est un inscrit aux fins de la TPS, et son numéro d'inscription est le 138374509 RT0001;
+c) l'appelante était une société exploitant une entreprise de construction de maisons neuves;
+d) Barry Nurse et Sharon Nurse (les « Nurse » ) étaient pendant toute la période en question administrateurs et dirigeants de l'appelante;
+e) l'appelante a acheté un terrain correspondant à la parcelle 22 du lotissement appelé Warren Estates, au 54, rue Joshua, à Paradise (Terre-Neuve) (le « 54, rue Joshua » );
+f) l'appelante a construit une résidence au 54, rue Joshua pour les Nurse;
+g) l'appelante a transféré le 54, rue Joshua aux Nurse le 2 septembre 1997 pour une contrepartie de 35 000 $;
+h) le 26 septembre 1997, les Nurse ont grevé le 54, rue Joshua d'une hypothèque de 100 000 $;
+i) la construction de la maison du 54, rue Joshua a été achevée en totalité ou presque au plus tard en septembre 1997;
+j) la maison du 54, rue Joshua a commencé à être habitée par les Nurse au plus tard le 30 septembre 1997;
+k) au 30 septembre 1997, la juste valeur marchande, TVH comprise, du 54, rue Joshua n'était pas moins de 217 000 $;
+l) l'appelante a demandé des crédits de taxe sur les intrants s'élevant à 11 672,35 $ relativement à des matériaux achetés pour construire la maison du 54, rue Joshua;
+m) la TVH à payer relativement au 54, rue Joshua a été calculée comme suit :
+Juste valeur marchande
+au 30 septembre 1997 217 000,00 $
+815/115
+TVH 28 304,35 $
+n) l'appelante a omis de verser la TVH requise au receveur général relativement à la fourniture du 54, rue Joshua.
+10. Pour établir la nouvelle cotisation de l'appelante (avis de cotisation
+no 01BA117679100), le ministre s'est fondé sur les éléments suivants :
+a) les faits énoncés aux alinéas 9b) à 9f) inclusivement et aux alinéas 9h) à 9m) inclusivement.
+11. L'intimée dit que le ministre s'est trompé en établissant la cotisation de l'appelante relativement à une fourniture à soi-même d'un immeuble d'habitation à logement unique et en établissant la nouvelle cotisation de l'appelante relativement à une appropriation de biens par un actionnaire. Le ministre fait valoir les faits suivants :
+a) l'appelante a vendu le 54, rue Joshua aux Nurse le 2 septembre 1997 pour une contrepartie de 135 000 $;
+b) les Nurse, entre eux, détenaient la totalité ou presque des actions en circulation de l'appelante;
+c) le 54, rue Joshua n'avait pas encore été habité au moment de la vente dont il est question ci-dessus;
+d) au 2 septembre 1997, la juste valeur marchande, TVH comprise, du 54, rue Joshua était de 217 000 $;
+e) la TVH à payer relativement au 54, rue Joshua a été calculée comme suit :
+Juste valeur marchande
+au 30 septembre 1997 217 000,00 $
+815/115
+TVH 28 304,35 $
+f) l'appelante a omis de verser la TVH requise au receveur général relativement à la fourniture du 54, rue Joshua.
+[3] Selon le paragraphe 12 de la réponse à l'avis d'appel, la question en litige est la suivante :
+[TRADUCTION]
+[...] si l'appelante est tenue de verser la TPS percevable sur la fourniture du 54, rue Joshua au montant de 28 304,35 $.
+La vraie question visée par l'appel, toutefois, selon ce qui est ressorti des deux jours consacrés à la présentation de preuves et d'arguments, est celle-ci : l'appelante a-t-elle construit la maison sise au 54, rue Joshua comme le prétend le ministre, ou est-ce que M. Nurse l'a construite à titre personnel? Comme il arrive souvent quand, pour déterminer qui doit payer la taxe, il faut établir la vraie nature des transactions entre une société et la personne qui la dirige, la crédibilité de M. Nurse compte pour beaucoup. J'ai trouvé que M. Nurse était un témoin honnête et franc. Il y a, bien sûr, des points concernant les matériaux de construction utilisés et concernant le moment où la construction a eu lieu sur lesquels sa mémoire n'était pas parfaite, mais cela n'est pas étonnant vu que quelque huit ans ou plus s'étaient écoulés depuis les événements au sujet desquels il témoignait. La preuve qu'il a présentée n'a pas été contredite, et je l'accepte comme exacte pour ce qui est des événements importants touchant la propriété de la parcelle qui est devenue le 54, rue Joshua, et à bien d'autres égards aussi.
+[4] M. Nurse a témoigné qu'en 1996, l'appelante a acheté quatre terrains à bâtir dans un petit lotissement à Paradise (Terre-Neuve) pour une contrepartie totale de 60 000 $. Trois de ces terrains donnaient sur un chemin achevé. Le quatrième terrain se trouvait derrière ces trois-là et devait donner sur un chemin devant être achevé et ouvert au printemps de 1997. M. et Mme Nurse ont décidé qu'ils aimeraient avoir une maison à eux dans ce lotissement. Ils ont choisi la parcelle 15, donnant sur le chemin ouvert, et l'appelante leur a attribué cette parcelle en septembre 1996 pour la somme de 35 000 $.
+[5] M. Nurse se procurait des matériaux de construction divers depuis assez longtemps et il les entreposait à sa résidence du chemin Ewings. Il avait du bois d'oeuvre de dimensions diverses qu'il avait coupé dans la forêt et scié avec l'aide d'un ami. Il avait obtenu du bois d'oeuvre d'autres dimensions, du contreplaqué, des portes et des fenêtres à des encans. Avec ces matériaux, il a monté la charpente de la maison sur la parcelle 15 pour lui et sa famille. Alors qu'il travaillait à la pose de cloisons sèches au printemps de 1997, quelqu'un l'a abordé et lui a fait une offre spontanée en vue d'acheter la maison, une fois terminée, au prix de 150 000 $. Considérant le prix bon, il a accepté l'offre. Lui et son épouse ont transféré la parcelle 15, avec la maison non finie, à l'appelante le 3 avril 1997 pour la somme de 80 000 $. L'appelante a terminé la construction de la maison et a vendu la maison à l'acheteur au prix convenu de 150 000 $.
+[6] Bien qu'heureux de vendre la parcelle 15 et la maison en construction sur cette parcelle, les Nurse voulaient toujours une maison pour eux-mêmes dans ce lotissement. Ils ont choisi la parcelle 22, laquelle donnait sur le chemin dont la construction était envisagée. M. Nurse a témoigné qu'il a consulté son avocat à ce moment-là et qu'il a pris les arrangements nécessaires pour effectuer le transfert de la parcelle 15; il a aussi avisé son avocat que lui et son épouse comptaient acheter la parcelle 22 de l'appelante pour y construire leur maison. La preuve qu'il a présentée était vague quant à la raison pour laquelle il n'y pas eu transfert de la parcelle 22 aux Nurse à ce moment-là. Il a dit que son avocat lui a dit [TRADUCTION] « écoutez, les 35 000 $ sont là » , voulant dire, probablement, que les fonds étaient disponibles pour l'achat dans le prix d'achat devant être payé par l'appelante aux Nurse pour la parcelle 15. L'avocat a dit de plus [TRADUCTION] « allez commencer votre maison, et quand le chemin sera prêt, nous transférerons la parcelle et tout [...] » . Suivant ce conseil, les Nurse ont obtenu un permis de construire et ont commencé la construction de leur maison. La pièce A-7 correspond au rapport de l'arpenteur concernant l'emplacement des fondations; le rapport a été délivré à Barry Nurse le 8 juillet 1997, mais le titre en common law est resté au nom de l'appelante. Ce n'est que le 2 septembre qu'un acte de transfert a été passé par l'appelante au profit des Nurse, et l'acte n'a été enregistré que le 30 septembre. Il importe de noter que le prix d'achat indiqué dans l'acte de transfert est de 35 000 $, même si M. Nurse s'était lui-même chargé de la majeure partie de la construction de la maison pendant l'été de 1997, soit avant que l'acte de transfert ne soit passé. Un permis d'occupation a été délivré en son nom pour le bien-fonds le 27 octobre 1997[2].
+[7] Je ne doute absolument pas que les Nurse aient décidé, dès que la décision a été prise de vendre la parcelle 15 et la maison non finie qui s'y trouvait, d'acheter la parcelle 22 et d'y construire leur nouvelle résidence. Sur l'avis de leur avocat, ils ont pris possession de la parcelle, l'ont défrichée et ont commencé à y construire leur maison. Presque aussitôt, ils ont vendu leur maison du chemin Ewings, et Mme Nurse et les enfants sont allés vivre chez les parents de M. Nurse. C'était à la fin du printemps ou au tout début de l'été de 1997. M. Nurse a emménagé dans une roulotte installée sur la parcelle 22. Il y est resté tout l'été, jusqu'à ce que la maison soit prête. Le 23 avril, M. Nurse avait déjà obtenu pour le câblage de la maison une proposition de l'entrepreneur en électricité auquel la société S.E.R. faisait appel pour toutes ses maisons. La proposition a été faite pas au nom de la société S.E.R., mais au nom de Barry Nurse. Il y avait des indications selon lesquelles des propositions du même entrepreneur pour des maisons sur d'autres parcelles avaient été faites au nom de la société S.E.R.
+[8] Il y avait beaucoup d'indications quant aux sources des matériaux de construction qui ont été intégrés dans la maison. Bon nombre de factures ont été fournies comme preuves. Je n'attribue pas beaucoup d'importance à ces preuves. Il y avait malgré tout une bonne quantité de bois d'oeuvre, de contreplaqué et d'autres matériaux appartenant à M. Nurse que celui-ci a pu utiliser. Il a acheté des matériaux de fournisseurs, et dans certains cas, les factures étaient établies au nom de l'appelante. M. Nurse a dit qu'il en était ainsi parce qu'il pouvait obtenir de meilleurs prix si la société S.E.R. était indiquée comme acheteur plutôt que lui. Certaines des factures indiquent des matériaux facturés à l'appelante et livrés à la parcelle 22. J'accepte le témoignage de M. Nurse selon lequel des matériaux pour des maisons en construction sur les autres parcelles appartenant à l'appelante dans le lotissement étaient parfois livrés à la parcelle 22, car c'est là qu'il pouvait en prendre livraison et les entreposer en toute sécurité dans le garage. J'accepte le témoignage de M. Nurse selon lequel, à quelques exceptions seulement, il a payé tous les matériaux utilisés dans la construction de la maison de la parcelle 22.
+[9] La question que je dois trancher, c'est celle-ci : est-ce que la propriété effective de la parcelle 22 est passée à M. et Mme Nurse avant que M. Nurse y construise la maison? La juge Sheridan, dans l'affaire Best for Less Painting & Decorating Ltd. c. La Reine[3], a eu à se pencher récemment sur la même question essentiellement, découlant de faits très semblables. À la fin de l'audience, j'ai invité les deux avocats à me présenter leurs observations écrites quant à l'applicabilité de cette décision au cas présent. L'avocat de l'intimée, pour distinguer les deux affaires, a soulevé les points suivants. Premièrement, l'appelante en l'espèce est une entreprise de construction de maisons; deuxièmement, selon certains des reçus concernant des matériaux de construction qui ont été fournis comme preuves, l'appelante aurait payé des matériaux qui ont été intégrés dans la maison; troisièmement, dans le passé, M. Nurse a construit des maisons apparemment pour son usage personnel et les a vendues à profit peu de temps après; enfin, l'intention de M. Nurse relativement à la maison de la parcelle 15 a changé quand il a reçu une offre d'achat, et on peut supposer que cela pourrait se reproduire. Avec tout le respect que je dois à l'avocat de l'intimée, je dois dire que les deux derniers points ne se rapportent pas à la question de propriété de la parcelle, mais seulement à la question de savoir si, en réalité, lorsque M. Nurse a construit une maison pour lui-même et sa famille, il exploitait une entreprise de construction de maisons à revendre. Cela est peut-être pertinent sur le plan fiscal pour M. Nurse, mais n'aide pas à déterminer s'il y a eu transfert de la propriété effective de la parcelle 22 de l'appelante aux Nurse.
+[10] On pourrait dire la même chose, je crois, à propos du premier point soulevé par l'avocat de l'intimée. Il ne fait aucun doute que la parcelle 15 a été transférée à M. et Mme Nurse avant que la première maison y soit construite. La vraie question pour ce qui est de la parcelle 22 en est une d'intention, et il n'y a pas de raison pour que leur intention soit différente pour la parcelle 22 que pour la parcelle 15. Qu'il n'y ait pas eu transfert de la parcelle 22 par l'appelante aux Nurse s'explique davantage par le fait que le chemin sur lequel la parcelle donnait n'était pas ouvert que par un changement d'intention relativement à la construction de la maison par l'appelante ou par les Nurse. La preuve à laquelle j'ai fait allusion, soit le conseil que les Nurse ont reçu de leur avocat, tend fortement à la conclusion que les Nurse détenaient la propriété effective du bien-fonds à partir de ce moment-là, ce qui comprend toute la période de construction. Il aurait été, je crois, prudent de la part de l'appelante de faire venir l'avocat des Nurse pour témoigner à ce sujet, mais compte tenu de l'ensemble de la preuve, ce n'est pas fatal[4]. Il n'aurait pas été logique que les Nurse prennent possession de la parcelle 15 avant d'y construire une maison et qu'ils fassent le contraire avec la parcelle 22. Je crois qu'il est bien plus vraisemblable qu'il y ait eu quelque obstacle à l'enregistrement du transfert avant que le chemin ne soit prêt. Fait très important aussi, quand la parcelle 22 a été transférée en septembre, la contrepartie indiquée dans l'acte de transfert était de 35 000 $, soit exactement le montant que les Nurse avaient payé au départ pour la parcelle 15 non bâtie. Le fait que M. Nurse ait vécu sur la parcelle 22 dans une roulotte durant tout l'été de 1997 pendant qu'il construisait la maison est un autre fait objectif qui appuie la position de l'appelante.
+[11] Pour ce qui est du fait que le nom de l'appelante figure sur des factures relatives à des matériaux utilisés sur la parcelle 22, j'accepte l'explication de M. Nurse dont j'ai parlé au paragraphe 8 ci-dessus. J'avoue que la tenue des livres laissait beaucoup à désirer, mais les explications de M. Nurse sont logiques sur le plan pratique, et je le crois.
+[12] J'en conclus que l'appelante était une nue-fiduciaire détenant la parcelle 22 pour M. et Mme Nurse pendant la période où la maison y était en construction, et que les Nurse et non l'appelante ont construit la maison. L'appelante n'était donc pas tenue de percevoir et de verser la TPS relativement à la fourniture de la maison.
+[13] Voici ce qui est invoqué au paragraphe 17 de la réponse :
+[TRADUCTION]
+En revanche, s'il n'y pas eu fourniture de la maison de la rue Joshua par l'appelante, l'appelante n'a pas le droit de demander des CTI au montant de 11 672,35 $ en vertu de l'article 169 de la Loi.
+Au cours de l'audience, l'appelante a avoué que ces CTI ont été demandés par erreur et qu'ils devraient être remboursés. La nouvelle cotisation sera donc renvoyée au ministre pour qu'il l'examine de nouveau et en établisse une autre, car la taxe nette devrait être réduite à 11 672,35 $, et les intérêts et pénalités s'y rapportant devraient être réduits en conséquence. Si les parties ne peuvent s'entendre sur l'adjudication quant aux dépens, alors cette question pourra être abordée.
+[14] L'avocat de l'appelant peut rédiger un jugement pour ma signature, à être approuvé par l'avocat de l'intimée sur les plans du fond et de la forme.
+Signé à Ottawa, Canada, ce 6e jour de janvier 2006.
+« E.A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 11e jour de mai 2006.
+Joanne Robert, traductrice
+RÉFÉRENCE :
+2006CCI6
+NO DU DOSSIER DE LA COUR :
+2003-3715(GST)I
+INTITULÉ DE LA CAUSE :
+S.E.R. Contracting Ltd. c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+St. John's (Terre-Neuve)
+DATE DE L'AUDIENCE :
+Le 6 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 6 janvier 2006
+COMPARUTIONS :
+Avocat des requérants :
+Me Gary Peddle
+Avocat de l'intimée :
+Me Steven D. Leckie
+Avocats inscrits au dossier :
+Pour les requérants :
+Nom :
+Me Gary Peddle
+Étude :
+Benson Myles
+Pour l'intimée :
+Me Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R. 1985, ch. E-15, modifiée.
+[2] Pièce A-11.
+[3] 2005 CCI 239.
+[4] Voir Guercia Investments Ltd. c. Canada, [1996] A.C.I. no 1524 aux paragraphes 18 à 23.

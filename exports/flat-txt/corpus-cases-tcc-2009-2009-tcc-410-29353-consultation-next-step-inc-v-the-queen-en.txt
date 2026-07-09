@@ -1,0 +1,218 @@
+Title: Consultation Next Step Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29353/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-410-29353-consultation-next-step-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-08-20
+
+# Consultation Next Step Inc. v. The Queen
+
+- Citation: 2009 TCC 410
+- Decision date: 2009-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6907, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Consultation Next Step Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-20
+Neutral citation
+2009 TCC 410
+File numbers
+2009-977(IT)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+[ENGLISH TRANSLATION]
+Docket: 2009-977(IT)APP
+BETWEEN:
+CONSULTATION NEXT STEP INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 3, 2009, at Québec City, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Applicant:
+Bernard Roy
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+ORDER
+Upon the application filed by the applicant for an order extending the time in which to file a notice of objection to assessment 48178 made under the Income Tax Act;
+And upon hearing the parties;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of August 2009.
+Alain Tardif
+Tardif J.
+Citation: 2009 TCC 410
+Date: 20090820
+Docket: 2009-977(IT)APP
+BETWEEN:
+CONSULTATION NEXT STEP INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Tardif J.
+[1] This is an application for an order allowing the applicant to file a notice of objection to an assessment made on February 21, 2007.
+[2] The legal basis of the assessment in question is subsection 160(1) of the Income Tax Act (“ITA”).
+[3] The application is based, inter alia, on subsection 166.2(5), which reads as follows:
+When application to be granted
+(5) No application shall be granted under this section unless:
+a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be;
+[…]
+[4] The application is dated March 20, 2009, and alleges the following:
+[translation]
+1. On or about February 21, 2007, the respondent allegedly issued a notice of assessment 48178 to the applicant under subsection 160(1) of the Income Tax Act for the amount of seventy-nine thousand eight hundred and fourteen dollars and fifty-five cents ($79,814.55) in respect of a transfer made on June 13, 2002, by Sylvain Simard to the respondent, as it appears in said notice of assessment, Exhibit R-1;
+2. The sole director and shareholder of the applicant in 2007 was Sylvain Simard, and in 2007 he was in the United States, as was established during the investigation;
+On or about February 21, 2007, or in the following months, the applicant was never aware of notice of assessment R-1 issued by the respondent because it did not have a duly authorized representative at 1055 Saint-Mathieu St., Unit 347, in Montréal, where the respondent allegedly forwarded notice of assessment R-1;
+In September 2008, the applicant learned that an assessment had been issued on February 21, 2007, after Julie Mousseau from the Department of Justice Canada wrote a letter to Yannick Messier on September 4, 2008, as appears in a copy of said letter, Exhibit R-2;
+On or about October 22, 2008, the applicant objected to assessment 48178 issued on February 21, 2007, by the respondent and requested an extension of time to file an objection, as it appears in a copy of the notice of assessment, Exhibit R-3, with the respondent being ordered to produce the original, failing which secondary evidence would be filed at the hearing;
+On or about December 23, 2008, the respondent notified the applicant that it could not allow the application for an extension of time to file an objection for the 2007 taxation year because the application had not been submitted within the year following the expiry of the period otherwise allowed to file an objection, as appears in the decision in Exhibit R-4;
+The applicant submits to the Court that it was unable to object to the assessment issued by the Respondent on February 21, 2007, until September 2008 because it had not been notified of the assessment by the respondent before that date, as was established during the investigation;
+As soon as the applicant was notified that an assessment had been issued on February 21, 2007, it filed a notice of objection against this assessment within one month of finding out about this assessment;
+Assessment 48178 issued on February 21, 2007, by the respondent is unfounded in fact and law for the following reasons:
+A) The applicant owned the property located at 157 Pinacle Rd. in Frelighsburg, Quebec, prior to June 13, 2002, as was established during the investigation;
+B) The applicant acquired the building located at 157 Pinacle Rd. in Frelighsburg, Quebec, on December 1, 1999, from Marcel Duguay, François Duguay and Jean‑Pierre Duguay;
+C) The sellers, Marcel Duguay, François Duguay and Jean‑Pierre Duguay, whereas they were financing the balance of a selling price, did not want a corporation as a creditor. Notary Roseline Ménard then suggested that the sale be made in favour of the applicant’s shareholder, Sylvain Simard, who subsequently agreed to act as a nominee for the applicant;
+D) The applicant made all the payments for the property located at 157 Pinacle Rd. in Frelighsburg, as was established during the investigation;
+E) At all times since December 1, 1999, the applicant considered the property located at 157 Pinacle Rd. as part of its assets, as was established during the investigation;
+F) On June 12, 2002, a transaction was concluded between Sylvan Simard and the applicant involving the property at 157 Pinacle Rd. in Frelighsburg, Quebec, as it appears in the sales contract, Exhibit R-5;
+G) The transaction filed as Exhibit R-5 was carried out at the request of François Blondin, chartered accountant, after he took over preparing the applicant’s financial statements and noticed that the property that it paid for was not official in its name but, rather, in the name of its shareholder and director, Sylvain Simard;
+H) The R-5 contract was drafted for the sole purpose of regularizing a factual situation existing since December 1, 1999, as it appears in paragraph 7 of the R-5 contact;
+I) The applicant has owned and occupied the property located at 157 Pinacle Rd. in Frelighsburg, Quebec, since December 1, 1999;
+J) At the time of the transfer alleged by the respondent on June 13, 2002, Mr. Simard did not owe any money to the respondent;
+K) To acquire the property at 157 Pinacle Rd. in Frelighsburg, Quebec, the applicant paid a consideration equal to its fair market value since it was the one who made all the payments to acquire the property;
+The assessment issued by the respondent on February 21, 2007, is unfounded in fact and law because Sylvain Simard was never truly the owner of the property located at 157 Pinacle Rd. in Frelighsburg, Quebec;
+The time limit provided for subsection 7 of section 166.1 of the Income Tax Act was suspended during the period in which the applicant was unable to file a notice of objection because it had not received the notice of assessment dated February 21, 2007;
+This application is well founded in fact and law.
+[5] The respondent replied to the application as follows:
+[translation]
+In response to the application for an order extending the time period within which the applicant could file a notice of objection to the Tax Court of Canada in relation to notice of assessment 48178, the Deputy Attorney General of Canada stated the following:
+1. On February 22, 2007, the Minister of National Revenue (hereinafter the “Minister” sent the applicant notice of assessment 48178 by registered mail in accordance with section 160 of the Income Tax Act (hereinafter the “Act”)
+2. On or about October 22, 2008, the applicant filed an application to extend the time limit to serve its objection to notice of assessment 48178 made on February 21, 2007.
+On December 23, 2008, the Minister notified the applicant that its application for an extension was dismissed in accordance with paragraph 166.1(7)(a) of the Act.
+On March 20, 2009, the applicant filed an application with the Tax Court of Canada for an extension of time to file an objection to the Minister’s decision. The respondent submits that the application for an extension of time with respect to notice of assessment 48178 made on February 21, 2007, should be dismissed for the following reason:
+The applicant’s application was not submitted within one year following the expiry of the time limit set out in subsection 166.2(5), in accordance with paragraph 166.2(5)(a) of the Act.
+[6] The evidence consisted of the testimony of Sylvain Simard, the applicant’s sole director. He explained that his business activities had led him to travel extensively in Canada, the United States and the Bahamas.
+[7] At one time, for several years Mr. Simard lived in Frelighsburg, Quebec, and his address was 157 Pinacle Rd. He stated that the address in question was his on the date on which the assessment was made, i.e. on February 21, 2007. He stated that he kept the same address and did not make any changes to it, even though on June 22, 2006, he sold the portion of the property containing the only inhabitable dwelling. Sylvain Simard, the applicant’s sole director, repeated on several occasions that 157 Pinacle Rd. had been his address for several years, including when the assessment against which he sought to file an objection was made.
+[8] Mr. Simard stated that he had never used two addresses at the same time, which was contradicted by the documentary evidence.
+[9] Mr. Simard also explained that he had lived in various locations in the United States and the Bahamas. He also stated that he used various addresses based on his various activities. He also used the address of his mother and sister, where he lived from time to time.
+[10] During this period, he lived in Canada, the United States and the Bahamas.
+[11] Lucie Bélanger also testified. She explained that she and her spouse had in fact acquired a substantial portion of the applicant’s property, on which was erected the residence that became as of the date of the contract—June 22, 2006—her and her spouse’s primary residence.
+[12] She also explained that she followed Canada Post’s standard procedure to change her address, so that as of that date, June 22, her and her spouse’s official address became 157 Pinacle Rd., Frelighsburg.
+[13] She stated that the seller had kept a portion of the property that had a stable and a garage without a civic number. She and her spouse later acquired this portion of the land, which, to her knowledge, never had a civic number.
+[14] Ms. Bélanger also noted that she never had any problems with mail delivery to her new address, 157 Pinacle Rd., Frelighsburg. She did mention, however, that for a long time she received mail items that were not addressed to her.
+[15] She explained that she informed the manager of the post office; upon receiving mail that was not addressed to her family, she returned it, indicating that the address was incorrect. On one occasion, she unsuccessfully readdressed an envelop to 1055 St-Mathieu St., Apt. 347, Montréal, QC, H3H 2S3, which was the address on the notarial deed under which they acquired their new residence. The envelope was returned to her. She therefore concluded that all she could do was write “wrong address” on the envelope and notify the postmaster accordingly.
+[16] She also stated that she was concerned about this particular situation because several of the items were either from Revenue Québec or Revenue Canada. As a tax expert herself, she explained that she was well aware of the importance of such mail items, hence her unease with being unable to forward the mail to the recipient.
+[17] On one hand, Ms. Bélanger’s testimony contradicted Mr. Simard’s claims and, on the other hand, it appears from his testimony that the confusion lasted for a very long time, to the point where she received a great deal of mail addressed to the applicant for a long time after acquiring the property and, consequently, the civic number.
+[18] Christiane Beaudoin, an employee of the Agency, explained that she noted that the address on the tax file was 157 Pinacle, and that this was the address used for several years.
+[19] After noting that the applicant was late in filing her returns, the Agency took various steps to ensure that the notice of assessment would be sent to a reliable address.
+[20] During her testimony, by affidavit dated May 25, 2009, filed with the parties’ consent, Hélène Wait stated the following:
+[translation]
+4. When I was preparing this notice of assessment, I saw in the Canada Revenue Agency’s computer system that the last mailing address entered for Consultation Next Step Inc. was 157 Pinacle Rd., Frelishsburg [sic], Quebec, as it appears in the printout of Consultation Next Step Inc.’s address history in the Canada Revenue Agency’s computer system, a copy of which was filed in support of my affidavit as Exhibit C.
+Based on the information in the Canada Revenue Agency’s computer system, 157 Pinacle Rd. in Frelishsburg [sic], Quebec, has been Consultation Next Step Inc.’s mailing address since March 21, 2003.
+However, I knew that this was not Consultation Next Step Inc.’s valid mailing address because the residence located at 157 Pinacle Rd. in Frelishsburg [sic] had been sold by Consultation Next Step Inc. on June 22, 2006, as appears on the deed of sale, a copy of which was filed in support of my affidavit as Exhibit D.
+I also noticed on February 6, 2007, after reading the deed of sale dated June 22, 2006, that Consultation Next Step Inc. had a new mailing address, namely 1055 St-Mathieu St., Apt. 347, Montréal.
+As of February 6, 2007, lots 136 and 137 [1] of the official cadastre of the parish of Saint-Armand Est, in the land registration division of Missisquoi, still belonged to Consultation Next Step Inc.
+I then contacted Ms. Pouer at the municipality of Frelishsburg [sic] on February 6, 2007, and she confirmed that the mailing address in the municipal record for sending property tax notices to Consultation Next Step Inc. for these two lots was 1055 St-Mathieu St., Apt. 347, Montréal.
+As I was preparing the assessment dated February 21, 2007, I subsequently noticed that Consultation Next Step Inc. had not updated its address with the Canada Revenue Agency in any way.
+I then completed the assessment dated February 21, 2007, and addressed it to 1055 St-Mathieu St., Apartment 347, Montréal.
+I placed the assessment dated February 21, 2007, in an envelope that I delivered to the Canada Revenue Agency mail service with instructions to send it by registered mail to 1055 St‑Mathieu St., Apt. 347, Montréal.
+Canada Post issued the Canada Revenue Agency a proof of postage for this envelope on February 22, 2007, including bar code tag RT 915 497 541 CA, allowing this item to be identified by registered mail, as it appears in the trace mail data entry document, a copy of which was filed in support of my affidavit as Exhibit E.
+On March 2, 2007, the notice of assessment dated February 21, 2007, was returned to the sender, Denise Gilbert, an employee at the Canada Revenue Agency mail room, as confirmed by the computer printout relating to the delivery of the item bearing bar code RT 915 497 541 CA, a copy of which was filed in support of my affidavit as Exhibit F.
+On March 28, 2007, I had a phone call with Sylvain Simard. He contacted me to find out the nature of the legal fees on a personal statement of account. After providing him with the details, I attempted to update his file by asking him for his new mailing address. He refused and asked me “if I was crazy.” He wished me “good luck with my collection action against him because he was now living in the Bahamas.” He then ended the conversation.
+On April 2, 2007, I sent an initial collection letter to Consultation Next Step Inc., in Calverton, New York (the address that at the time had been entered in the Canada Revenue Agency’s computer system since April 2, 2007), as it appears in a reproduction of this letter, a copy of which was submitted in support of my affidavit as Exhibit G.
+Furthermore, the address in Calverton, in New York State, matches the mailing address entered in the Canada Revenue Agency’s computer system for Sylvain Simard from December 5, 2006, until April 2, 2007, as appears in Sylvain Simard’s record of addresses in the Canada Revenue Agency’s computer system, a copy of which was filed in support of my affidavit as Exhibit H.
+This letter dated April 2, 2007, was returned to me with the reference “box closed, unable to forward, return to sender,” as it appears in the returned envelope, a copy of which was filed in support of my affidavit as Exhibit I.
+On May 11, 2007, I sent a second collection letter to Consultation Next Step Inc., this time to 1055 St-Mathieu St., #347, Montréal, where the tax bills for lots 136 and 137 of the official cadastre of the parish of Saint-Armand Est are sent, as it appears in a reproduction of the first page of this letter, a copy of which was filed in support of my affidavit as Exhibit J.
+This letter was also returned to me with the reference “Unknown at this address, call me at 514-842-8200 if you would like to discuss,” as it appears in the returned envelope, a copy of which was filed in support of my affidavit as Exhibit K.
+On June 19, 2007, I had a phone call with Lulu Cornellier, the person who was living at 1055 St-Mathieu St., #347, Montréal. She confirmed that Sylvain Simard sometimes used her mailing address to send certain documents. However, she indicated that she had cut all ties with him and that she did not allow him to use her mailing address.
+I did not have another address to notify the appellant that an assessment dated February 21, 2007, had been made against him under section 160 of the Income Tax Act.
+[21] She described the administrative policy for taxpayer addresses: A code number for each taxpayer’s file with their address. If taxpayers file their return on time without changing the address, the Agency then assumes that it is the correct address.
+[22] Based on this administrative practice, why was the employee not limited to using this approach, thereby creating a hard-to-reverse assumption that the notice of assessment had been correctly addressed?
+[23] The applicant submits that it was not aware of the assessment prior to September 4, 2008, the date on which it became aware of the contents of a letter addressed to Yanick Messier from the firm Grégoire, Payette, Rhéaume, Messier (Exhibit A-1, Tab 2).
+[24] Is this claim that Mr. Simard, for and on behalf of the applicant, only became aware of the assessment in the days following receipt of the letter dated September 4, 2008, validated or confirmed by the evidence or even by prima facie evidence?
+[25] The balance of probabilities is that Sylvain Simard is someone who travels often and spends time living in Canada, the United States and the Bahamas, while using several addresses in Canada.
+[26] Since he is extremely mobile, was Mr. Simard proactive in communicating one of his addresses to the respondent?
+[27] In a system based on self-assessment, it is crucial that any person subject to tax laws provide tax authorities with a valid address. Furthermore, annual returns that taxpayers must file provide for a clear update in this respect.
+[28] The confusion could have been attributable to a period of transition, but certainly not for the period indicated by Ms. Bélanger, a witness whose credibility is unassailable.
+[29] Furthermore, it is possible, even probable, that the address 1055 St‑Mathieu St., Apt. 347, in Montréal, where Sylvain Simard’s sister lived, was used repeatedly for an indefinite period. It is also very interesting to note the comments made by Mr. Simard’s sister, Lulu Cornellier, to Hélène Wait. Below is paragraph 21 from Ms. Wait’s written testimony:
+[translation]
+21. On June 19, 2007, I had a phone call with Lulu Cornellier, the person who lived at 1055 St-Mathieu St., #347, Montréal. She confirmed that Sylvain Simard sometimes used her address for sending certain documents. However, she indicated that she had cut all ties with him and that she no longer allowed him to use her mailing address.
+[30] This was the address mentioned in the contract and relied on by the Agency, Lucie Bélanger and the municipality. In the case of the latter, it was a question of collecting property tax on the unsold portion of the land on which there was only a barn and a garage.
+[31] The provision that provides for the possibility of receiving an extension of time to file an out-of-time notice of objections is an exceptional remedy. This provision is subject to strict and very specific conditions.
+[32] In this case, considering the provisions, it also becomes essential to establish the date on which the period should begin. Is it the date on which the assessment was made and sent in the mail? Is it the day on which the applicant’s representative became aware of the existence of the assessment? Before answering these questions, we must first assess whether the initial mailing on February 21, 2007, was valid.
+[33] The applicant’s evidence boils down to the sole testimony of Sylvain Simard. In summary, this testimony is that the applicant’s address when the assessment was made was 157 Pinacle. His statement, however, is contradicted by other information and documents. In fact, it appears that Mr. Simard often changed his address. Furthermore, he did not follow Canada Post’s procedure to report changes of address, at least according to the evidence filed.
+[34] Quite the contrary, the circumstantial evidence is that he was acting deliberately to maintain the ambiguity and vagueness of the applicant’s address.
+[35] In particular, Mr. Simard made a change of address for 38 Place du commerce in Verdun. However, in the municipality of Frelighsburg’s records relating to the property owned by the applicant, the applicant’s mailing address was still 1055 St-Mathieu St., Apt. 347, Montréal.
+[36] The evidence must be assessed in a broader context based on the testimony of Hélène Wait, Lucie Bélanger and, finally, Christiane Beaudoin and on extensive documentary evidence supporting this testimony. Indeed, the respondent’s evidence contradicts Sylvain Simard’s assertions and claims and highlighted the following facts:
+As of June 22, 2006, the property bearing civic number 157 Pinacle Rd. belonged to Lucie Bélanger and her spouse and no longer to Sylvain Simard.
+Sylvain Simard then indicated 1055 St-Mathieu St., Apt. 347, Montréal (QC) as his address on the notarial deed dated June 22, 2006. Ms. Bélanger also forwarded mail to this address, without success.
+Several other addresses were used by applicant’s sole shareholder and director, including 38 Place du commerce, Suite 10, Nuns’ Island, P.O. Box 138, P.O. Box 193, Calverton N.Y. 11933, beginning on February 4, 2007, 500 Solomon Building, Suite 132, Bahamas, starting on May 12, 2006, as well as 86 Lending Lane, Calverton N.Y. 11933 starting on July 9, 2006, and 1626 Route 209, in Franklin.
+[37] The evidence highlights two things. The first is that Sylvain Simard, the applicant’s sole director, was someone who travelled often and quickly, to the point where it is reasonable to conclude that he was making every attempt to cause confusion regarding his mailing address.
+[38] The second is that the person responsible for the tax file clearly chose to do everything in her power to forward the assessment to the applicant.
+[39] This concern or positive zeal is the primary, if not the only, basis of the applicant’s application.
+[40] In fact, the applicant submits that it was not informed of the assessment because it was not addressed to 157 Pinacle, Frelighsburg, which had always been the applicant’s address. It became aware of the assessment through a letter dated September 4, 2008, addressed to Yanick Messier.
+[41] Mr. Simard seems to consider the date in September 2008 as the date on which the period began, even though this letter was not addressed to him. Furthermore, during a conversation on March 28, 2007, with the person in charge of the tax file, he expressly and arrogantly refused to provide a valid address. He clearly wanted the analysis to be obscured by the reply given to the auditor during their phone call.
+[42] The notice of assessment was sent to a correct and legitimate address, which he himself provided and was recorded in an authentic deed, the address in question being that of his sister, a lawyer by training, who did not testify and who was clearly instructed to return certain mail items to their sender, including, without doubt, the notice of assessment.
+[43] The balance of probabilities is corroborated by Mr. Simard’s comment to Hélène Wait. [2]
+[44] I do not accept Mr. Simard’s explanations. They are muddled and contradictory.
+[45] The balance of probabilities is that the respondent, at the time the assessment was made, made an effort and took numerous steps to ensure that the assessment was forwarded to the applicant.
+[46] This finding is also validated by Mr. Simard’s comments to the respondent’s representative during a phone call around the time when the assessment was made.
+[47] However, not only was such conduct not the best way to establish the merits of the application, the applicant should have instead established a small measure of seriousness by demonstrating that it had provided the correct address to the respondent.
+[48] The applicant thought that it was avoiding the assessment by creating confusion about its mailing address.
+[49] Although this finding does not arise from direct evidence, there is sufficient circumstantial evidence to draw such a conclusion, in particular for the following reasons:
+The applicant made no effort to give its address to the Agency.
+At the time of the assessment, the applicant was at fault in respect of the requirement to file its income tax return.
+The applicant’s sole director, Mr. Simard, often travelled between Canada, the United States and the Bahamas and used several addresses.
+In Canada, although he sold the property on which his residence was built, he continued to use this address. He had to know that he would cause confusion by failing to provide a notice of change of address.
+At one point, he provided his mother’s address.
+For another period, he provided his sister’s address, including on the notarial deed for the sale on June 22, 2006.
+He also had a mailing address on Nuns’ Island, namely 38 Place du commerce, Suite 10, Nuns’ Island, P.O. Box 138.
+He also had addresses in the United States and the Bahamas.
+The municipality also used 1055 St-Mathieu St., Montréal, as an address, which to some extent confirms the validity of the address used by the Agency.
+[50] All these factors unquestionably support the position that the applicant did all it could to create confusion. There is no question that it did nothing to provide a valid address.
+[51] This assessment does not have the merit of being absolute; however, Mr. Simard’s comments during a phone call on March 28, 2007, barely one month after the assessment, unquestionably validate this conclusion.
+[52] In support of its application, the applicant seeks to blame the Agency for the problem, even though the evidence shows that it alone was responsible for the problem, thus having to fully assume the resulting responsibility.
+[53] Furthermore, it is clear in this case that the applicant is in violation of the Act, in particular as follows:
+The evidence did not establish that it was unable to act or instruct another to act in its name (conversation with the auditor).
+Given the reasons and the circumstances revealed by the evidence, it is fair and equitable to grant the application.
+The application was made as soon as circumstances permitted.
+[54] The balance of probabilities is that the applicant thought that it could avoid or escape the consequences of the assessment. Once the reality of the assessment became unavoidable, the applicant changed its strategy and then filed the application. This conduct is not consistent with that outlined in subsection 166(1) of the Act.
+[55] For all these reasons, the application is dismissed.
+Signed at Ottawa, Canada, this 20th day of August 2009.
+“Alain Tardif”
+Tardif J.
+CITATION: 2009TCC410
+COURT FILE NO.: 2009-977(IT)APP
+STYLE OF CAUSE: CONSULTATION NEXT STEP INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec City, Quebec
+DATE OF HEARING: June 3, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: August 20, 2009
+APPEARANCES:
+Counsel for the Applicant:
+Bernard Roy
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Bernard Roy
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excluding thereout and therefrom lot 137 of said cadastre, the northwest corner reserved by Marcus Kessier, under the deed signed on September 27, 1972, and filed at the Registry Office of the Missisquoi registration division, under number 134156, measuring two hundred and eighteen feet (218 ft.) from West to East, by seven hundred feet (700 ft.) from North to South; said portion of said lot 137 of said cadastre bordered on the North by the public road as currently widened, to the West by the Western line of said lot 137 and to the South and East by the remainder of lot 137, English measure.
+[2] The content of this conversation is not determinative in itself; however, it clears up certain confusion and behaviour and is undoubtedly consistent with direction of the evidence.

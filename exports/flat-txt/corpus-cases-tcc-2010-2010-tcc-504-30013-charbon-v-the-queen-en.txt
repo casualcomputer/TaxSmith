@@ -1,0 +1,191 @@
+Title: Charbon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30013/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-504-30013-charbon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-07
+
+# Charbon v. The Queen
+
+- Citation: 2010 TCC 504
+- Decision date: 2010-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7672, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charbon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-07
+Neutral citation
+2010 TCC 504
+File numbers
+2009-3557(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3557(IT)I
+BETWEEN:
+SYLVIE CHARBON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 22, 2010, at Ottawa, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Mélanie Sauriol
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2007 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim moving expenses of $10,292.75.
+Signed at Ottawa, Canada, this 7th day of October 2010.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 6th day of December 2010.
+Daniela Possamai, Translator
+Citation: 2010 TCC 504
+Date: 20101007
+Docket: 2009-3557(IT)I
+BETWEEN:
+SYLVIE CHARBON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This appeal under the informal procedure pertains to the 2007 taxation year. Ms. Charbon, the appellant, is challenging the denial by the Minister of National Revenue to grant her a deduction for moving expenses of $26,054.
+[2] In making the reassessment regarding her claim for moving expenses, the Minister relied on the following assumptions of fact set out at paragraph 6 of the Reply to the Notice of Appeal:
+[Translation]
+(a) In April 2003, the appellant acquired a building situated at 1128 Duval Street, Mascouche, Quebec;
+(b) On June 15, 2003, the appellant brought legal proceedings against the sellers and the building inspector as the property she had just acquired had defects caused by mold problems;
+(c) On October 3, 2004, the appellant moved out of her Mascouche residence in order to take a job, in October 2004, with the Centre de Santé et Services Sociaux de Gatineau;
+(d) In 2007, the appellant claimed moving expenses which included, among other things, the cost of legal services in respect of the legal proceedings involving said residence;
+(e) During the legal proceedings, which ended on May 31, 2007, by a Quebec Superior Court judgment, the appellant neither rented out her residence nor put it up for sale;
+(f) The residence was sold in November 2007 after work was completed on it;
+(g) Over the course of the years, the appellant claimed, for the same move, the following expenses:
+2004
+2005
+2006
+2007
+2008
+Expenses claimed
+$9, 430
+$13,575
+$11,797
+$26,054
+$6,228
+Expenses granted
+$9,430
+$13,575
+$0
+$0
+$0
+(h) The moving expenses claimed in 2004 and 2005 were granted without verification; as for those involving the 2006 and 2008 taxation years, they were disallowed at the time of the initial assessments as they had not been incurred to be employed at a new work location;
+(i) As for the 2007 taxation year, the supporting documents submitted by the appellant show that the expenses claimed had either been deducted in 2004 or 2005 or were not eligible moving expenses.
+[3] In her testimony, the appellant confirmed the facts outlined at paragraphs (a) to (h).
+[4] She related to the Court that the residence she had purchased in Mascouche had serious problems, including rotten timbers, gaps around windows and household mold. She initiated a legal proceeding against the former owners to have the sale revoked, and against the inspector she hired to inspect the home prior to purchasing it, for damages. She spent the 2003-2004 winter season in the house and experienced health problems she attributed to the home’s unhealthy conditions.
+[5] In 2004, she found a job in Gatineau and moved there that same year, in October.
+[6] Since she was seeking to have the sale of the house revoked, she did not put the house up for sale when she moved to Gatineau. Nor did she rent it out, as she did not want to be held responsible for the health problems of eventual tenants.
+[7] She left part of her furniture in the house, seeing as she returned to the home at least once a month to ensure its maintenance and compliance with the requirements of her house insurance policy.
+[8] In May 2007, her case was heard by the Quebec Superior Court. Although she lost against the former owners, she was successful against the inspector, who was sentenced to pay the sum of $17,000 to her.
+[9] Following the judgment, she had some interior work done and placed ads to rent out the house. However, her lawyer advised her against it, again for reasons of civil liability if her tenants became ill.
+[10] Finally, in July 2007, she hired a real estate agent to sell the house. In November 2007, she sold it at a substantial loss.
+[11] For tax purposes, in 2004, 2005, 2007 and 2008, Ms. Charbon deducted as moving expenses related to her home in Mascouche and the legal proceeding she had initiated. Those deductions included among other things the amounts paid for electricity, municipal and school taxes, insurance and mortgage interest, as well as her legal and expert witness fees.
+[12] The amount claimed by the appellant in deductions in 2007—$26, 054 $—can be broken down as follows:
+Moving expenses: $1,870.00
+Maintenance expenses for the old residence: $3,743.21
+Commission paid to the real estate agent: $7,406.75
+Fees paid to the notary or lawyer $7,310.13
+Other expenses related to the sale $5,724.30
+(specialized inspections and interest)*
+[13] The appellant stated during her testimony that the mortgage interest was included in the maintenance expenses. According to her, [Translation] “the other expenses related to the sale” did not include the expert witness fees incurred for purposes of her legal proceeding. She also confirmed that most of the “fees paid to the notary or lawyer” were paid for purposes of the action she had brought. However, she told her lawyer to review the house sale contract to protect herself from the possibility of an action by the purchasers owing to the state of the house. She believed that an unspecified portion of the lawyer’s fees involved the sale contract. Although she said that the fees deducted included the notary’s fees involving the transfer of the home, she was unable to specify the amount here either.
+Relevant legislative provisions
+[14] The deduction of moving expenses is provided for in subsection 62(1) of the Income Tax Act (the Act):
+62(1) There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer’s behalf in respect of, in the course of or because of, the taxpayer’s office or employment;
+(b) they were not deductible because of this section in computing the taxpayer’s income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition “eligible relocation” in subsection 248(1), the total of all amounts, each of which is an amount included in computing the taxpayer’s income for the taxation year from the taxpayer’s employment at a new work location or from carrying on the business at the new work location, or because of subparagraph 56(1)(r)(v) in respect of the taxpayer’s employment at the new work location, and
+(ii) in any case described in subparagraph (a)(ii) of the definition “eligible relocation” in subsection 248(1), the total of amounts included in computing the taxpayer’s income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer’s income.
+248(1) “eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+(ii) to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and in this subsection referred to as “the new work location”),
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as “the old residence”) and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as “the new residence”) are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words “in Canada” in subparagraph (a)(i), and without reference to paragraph (b);
+[15] Subsection 62(3) of the Act provides a non-exhaustive list of expenses included in moving expenses:
+62(3) In subsection 62(1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer’s selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer’s spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence,
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of the taxpayer’s new residence, of replacing drivers’ licenses and non-commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph 62(3)(f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+Respondent's position
+[16] According to the respondent, the amounts deducted by the appellant in 2007 did not satisfy the conditions of subsection 62(1) of the Act. More specifically, the legal fees and payments to the expert witnesses were not incurred for the purpose of the appellant moving, but were rather for the legal proceeding she initiated in respect of the state of the house she purchased in 2003.
+[17] The respondent claims that the maintenance expenses are not deductible either because they do not relate to the move, which took place in 2004. Even if there had been a nexus between the move and those expenses, paragraph 62(3)(g) limits the deduction of maintenance expenses to $5,000. In the case at bar, the appellant admitted having deducted $114 in maintenance expenses as moving expenses in 2004. Therefore, she could only deduct $2,886 (that is to say, $5,000 - $2,114) in maintenance expenses in 2007. Finally, only the amounts disbursed between July and November 2007 would be admissible, that is the period during which the appellant put her house up for sale.
+[18] With respect to the moving expenses ($1,870) and the commission paid to the real estate agent ($7,406.75), counsel for the respondent stated that there was no evidence of payments and, also, given the amount of time that had elapsed between the appellant’s move in 2004 and the date of the so-called payments in 2007, they could not be regarded as moving expenses.
+Analysis
+[19] In my opinion, the legal fees and amounts paid to the expert witnesses for purposes of the action brought by Ms. Charbon against the sellers of her home in Mascouche and against the inspector are not related to the appellant’s move and relocation in 2004. The event that gave rise to the action—the purchase of the house in Mascouche—took place in 2003, well before Ms. Charbon found new employment and moved to Gatineau. Those amounts are not moving expenses and are not deductible under subsection 62(1) of the Act.
+[20] As regards the maintenance expenses, paragraph 62(3)(g) limits deductible maintenance expenses to expenses for the period in which reasonable efforts are made to sell the old residence, which, in this case, corresponds to the period from July to November 2007. The documents produced by the appellant indicate the following expenses during that period:
+Municipal taxes 6 months x $1,484.79 = $742.40
+12 months
+School taxes 6 months x $259.97 = $129.98
+12 months
+Interest (mortgage) 6 months x $3,106.57 = $1,553.29
+12 months
+House insurance 6 months x $964 = $482
+12 months
+Hydro $256.68
+TOTAL $3,164.35
+[21] I agree with the respondent that subsection 62(3)(g) sets a maximum of $5,000 for maintenance expenses relating to a move, and that the appellant claimed having spent $2,114 on maintenance in 2004. Therefore, at the most, the appellant is entitled to deduct, in 2007, $2,886 for that purpose.
+[22] The moving expenses of $1,870 deducted by the appellant were not related to the move itself and are not deductible.
+[23] However, the commission paid to the real estate agent would certainly be an expense related to the sale of the old residence as described in paragraph 62(3)(e). I accept the testimony of Ms. Charbon as evidence of payment and I also note that the amount of commission with taxes, which in this case was $7,406.75, on the selling price of the house ($130,000) represents a commission rate of approximately five per cent, which seems reasonable. That amount is therefore deductible.
+[24] As regards the legal and notary’s fees for services rendered at the time of the sale of the house, the appellant could not recall the amounts and did not have in her possession any accounts or invoices in that respect. Considering that the onus of proof of those expenses was on the appellant, I cannot allow any amount for those expenses.
+[25] For these reasons, the appeal is allowed in part and the appellant is entitled to a further deduction for moving expenses of $10,292.75, including $2,886 for maintenance expenses and $7,406.75 for the commission paid on the sale of her home.
+Signed at Ottawa, Canada, this 7th day of October 2010.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 6th day of December 2010.
+Daniela Possamai, Translator
+CITATION: 2010 TCC 504
+COURT FILE NO.: 2009-3557(IT)I
+STYLE OF CAUSE: SYLVIE CHARBON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: September 22, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: October 7, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Mélanie Sauriol
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

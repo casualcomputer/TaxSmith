@@ -1,0 +1,264 @@
+---
+title: "McClintock v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26121/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 259"
+citation2: ""
+neutral_citation: "2003 TCC 259"
+decision_date: "2003-05-02"
+language: "en"
+item_id: "26121"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4116
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:13:23.924000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82a9cce67f37f9494ffcc1bb757c4a65f6e78175043936f6b5293b972f886419"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McClintock v. The Queen
+
+- Citation: 2003 TCC 259
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4116, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McClintock v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-02
+Neutral citation
+2003 TCC 259
+File numbers
+2000-4185(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4185(IT)G
+BETWEEN:
+WILLIAM J. McCLINTOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 11 and 12, 2003 at Toronto, Ontario.
+Before: The Honourable Judge Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent E. Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1991 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reassessment and reconsideration in order to reassess the appellant on the basis that Alias was a Canadian controlled private corporation in 1990 and 1991, and only if such a reassessment would be of benefit to the appellant.
+The appellant shall pay the costs of his appeal.
+Signed at Ottawa, Canada this 2nd day of May 2003.
+"Gerald J. Rip"
+J.T.C.C.
+Citation: 2003TCC259
+Date: 20030502
+Docket: 2000-4185(IT)G
+BETWEEN:
+WILLIAM J. McCLINTOCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] William J. McClintock appeals from an income tax assessment for 1991 claiming that the Minister of National Revenue ("Minister"), in assessing, erred in valuing the 24,338 common shares of Alias Research Inc. ("Alias") sold by him in 1991 in excess of $6.00 each as of April 25, 1990 and July 5, 1990.
+[2] The Minister was also of the view, which is disputed by the appellant, that after July 17, 1990 Alias was not a Canadian controlled private corporation ("CCPC") within the meaning of subsection 125(7) of the Income Tax Act ("Act") and, therefore, the appellant is not eligible to apply subsection 7(1.1) of the Act with respect to the disposition of shares of Alias in 1991. A CCPC is a private corporation that is a Canadian corporation that is not controlled by a non-resident or by a public corporation.
+[3] Whether the common shares of Alias had a value above $6.00 per common share[1] as at April 25, 1990 and July 5, 1990,[2] will determine whether the Minister was correct in reassessing the appellant's income for 1991 in which she
+a) increased his reported other employment income by $36,358;
+b) reduced the appellant's reported taxable capital gains by $27,269; and
+c) reduced the appellant's claim for a stock option deduction pursuant to
+paragraph 110(1)(d) of the Act by $69,560.
+[4] Mr. McClintock is a chartered accountant. Both before and after May 24, 1990, he was a senior officer of Alias; he was the company's Chief Financial Officer and later on, its Senior Vice-President, Finance. He was also a director of Alias until mid-May 1990.[3]
+[5] At all relevant times Alias carried on the business of creating and marketing advanced computer aided industrial design ("CAID") software products. Its year-end is January 31. The Minister concedes that up to July 17, 1990, when Alias made an initial public offering ("IPO") of its common shares through the NASDAQ stock exchange in the United States, Alias was a CCPC. After July 17, 1990 the majority of Alias' shares were owned by non-residents of Canada and, in the view of the Minister, Alias was controlled by non-residents and ceased to be a CCPC.
+[6] The Federal Court of Appeal in Silicon Graphics Limited v. The Queen[4] held that Alias was a CCPC throughout its 1992 and 1993 taxation years. The Federal Court held that there was no evidence that the non-resident shareholders of Alias acted together to exert control over Alias; the non-resident shareholders did not exercise de jure control of Alias. On the evidence before me, Alias' non-resident shareholders after July 17, 1990 did not act differently than they did in 1992 and 1993. Alias was a CCPC after July 17, 1990 and at all relevant times for the purposes of this appeal.
+[7] Therefore, with respect to any employee stock options he had from Alias, Mr. McClintock would be able to avail himself of the provisions of subsection 7(1.1) of the Act on the basis only that Alias was a CCPC, that is, any employee benefit on the sale of shares he received from a stock option plan of Alias would be deemed to have been received by him in the year in which he disposed of the shares, not in the year he acquired the shares.
+[8] During 1988, 1989 and 1990, Mr. McClintock was granted options by Alias to purchase common shares of Alias. On July 5, 1990 he exercised some of his options and acquired 6,544 common shares of Alias as follows:
+Option
+Date
+Shares
+Share
+Price
+Total
+Cost
+April 20, 1988
+2,500
+$1.70
+$ 4,250.00
+April 20, 1988
+2,500
+$2.50
+6,250.00
+May 1, 1989
+1,544
+$2.50
+3,860.00
+6,544
+$ 14,360.00
+[9] On May 31, 1991, Mr. McClintock exercised some more of his options and acquired 17,794 common shares of Alias as follows:
+Option
+Date
+Shares
+Share
+Price
+Total
+Cost
+April 20, 1988
+2,500
+$6.00
+$ 15,000.00
+May 1, 1989
+1,544
+$6.00
+9,264.00
+April 25, 1990
+13,750
+$6.00
+82,500.00
+17,794
+$ 106,764.00
+[10] Mr. McClintock, on May 31, 1991, sold the 6,544 Alias common shares he acquired on July 5, 1990 and the 17,794 Alias common shares he acquired on May 31, 1991.
+[11] The Minister states that the fair market value of the 13,750 Alias shares on April 25, 1990 and July 5, 1990 was $11.556 per share; the appellant says the value of each share on those dates was $6.00. The appellant requires that the shares of Alias have a value of $6.00 on April 25, 1990 and July 5, 1990 for purposes of paragraph 110(1)(d) of the Act. Paragraph 110(1)(d) provides a mechanism that enables a taxpayer's stock option benefit to be taxed at capital gains rates. In 1991, this was accomplished by a deduction of 25 per cent of the benefit deemed by subsection 7(1) to have been received by the taxpayer in the year in respect of the shares acquired under the stock option agreement.[5] Among the conditions for the deduction in paragraph 110(1)(d), as it read in 1991, was that the amount payable by the taxpayer to acquire a share under a stock option agreement may not be less than the amount by which the fair market value of the share at the time of the agreement was made exceeds the amount, if any, paid by the taxpayer to acquire the right to purchase the share. The Minister assessed Mr. McClintock for 1991 by reducing the stock option deduction.
+[12] Each year, Mr. McClintock explained, the directors of Alias determined the fair market value amount for each common share of Alias as of April in that year ("determination year") for purposes of the several employee stock option or ownership plans of Alias.[6] The amount so determined would be the price at which the members of each of the employee stock ownership plans may acquire the shares in the year following the determination year; i.e. a participant in an employee stock ownership plan would purchase shares in 1990 at the price determined in April 1989.
+[13] At a meeting on April 25, 1990 the Board of Directors determined the amount of $6.00 as the fair market value of each common share of Alias as of April 1990 for purposes of the various employee stock ownership plans. A Memorandum of Agreement, effective April 25, 1990, between Mr. McClintock and Alias confirmed the determination of the fair market value of the shares for stock option plans of which he was a participant at $6.00 per share for exercise in 1991, 1992 and 1993.
+[14] According to Mr. McClintock, the determinations of the share values of Alias during the years were based, among other things, on Alias' financial statements. In his view, the directors "overestimated the value of the company" in fixing a $6.00 value to an Alias share in 1990 since there was "too great an increase [in profits] from the year before".
+[15] Mr. McClintock testified that on April 25, 1990 Alias was considering and investigating, as it had for a while, the possibility of offering its shares to the public. Several of its directors were employed with venture capitalist firms and had experience with technology companies. They were prepared to relate their experiences with "similar stage companies". Two venture capitalist firms invested in Alias in 1987, anticipating a public offering, said Mr. McClintock.
+[16] According to the minutes of the directors' meeting of April 25, 1990 Alias management was to "continue expeditious preparations for an initial public offering" of shares in Alias. U.S. counsel had been retained for this purpose. Mr. McClintock insisted, however, no decision to go public had yet been made and in retrospect "had no idea the IPO would proceed as quickly as it did". He recalled that the interim financial statements for the period ending March 31, 1990 distributed to the directors at the meeting was the first indication that Alias was profitable. A meeting with underwriters did not take place until May 1990. A draft preliminary prospectus filed with the Securities and Exchange Commission ("SEC") in Washington for comments, is dated May 24, 1990. No underwriting agreement was signed until July 16, 1990, on the eve of the sale of the shares, Mr. McClintock recalled.
+[17] Risk factors in investing in Alias are set out in the draft preliminary prospectus. The CAID market in 1990 was new and technological cheques were rapid. The company's success would be dependent on its principal software product and related hardware and services. Its main software operated only on a Silicon Graphics workstation and developments affecting Silicon Graphics could affect Alias. Alias had a short history of profitability; it had been profitable for each of its last eight fiscal quarters since the quarter ending July 31, 1988 but there was no assurance profits and revenue would continue.[7] Alias was dependent on the key management and technical personnel for success and loss of service of key people may adversely affect the company. Alias was also dependent upon its proprietary software technology. All these risks and others, Mr. McClintock suggested, reduced the share value. Mr. McClintock did concede that notwithstanding Alias' poor financial past, it did have a "hot product". In any event, notwithstanding these and other risk factors, the underwriters were estimating an IPO price of between US$9.00 and US$11.00 per common share in the draft preliminary prospectus.[8]
+[18] Mr. McClintock explained that the company planned to employ underwriters to do a "road show" in July 1990, that is, to introduce the company to institutional and other major investors and brokers. It was hoped that any deficiencies in the draft preliminary prospectus would be corrected by then.
+[19] It was only on July 15, 1990 that the board of directors met with the underwriters and accepted their recommendation to issue the shares at US$13.00 each. Trading on NASDAQ commenced on July 17 at that price.
+[20] Mr. McClintock explained that his shares were not liquid and the value of the shares to him was less than the amount valued by the Minister. As Chief Financial Officer of Alias, his shares were "locked up" for 135 days. He also referred to a "April 1990" meeting of the Board of Directors of Alias that provided that in the event of an IPO, participants in the 1990 employee stock ownership plan and earlier plans were not to sell their shares for 180 days after the offering. The 135 day period terminated November 29, 1990; the 180 day period terminated January 13, 1991. There would then be a period of four days, January 14, 15, 16 and 17, 1991, when Mr. McClintock could exercise his options and sell shares. Mr. McClintock said he was unaware of the four-day selling period. He was concerned as well that the release of Alias' financial reports would also influence when he could sell his shares. He believed that the first day he could sell his shares was April 5, 1991.
+[21] In cross-examination, Mr. McClintock said a valuation report of Alias' common shares was prepared before the directors' meeting took place on April 25, 1990. He acknowledged there is no reference to the valuation in the minutes of the meeting. He could not testify as to the nature of the report. Mr. McClintock's witness, Mr. Bohdan Myroskiv Mocherniak, testified that he "understood" a draft valuation report of Alias shares by Duff & Phelps Financial Consulting Company was put before the directors of Alias at their meeting of April 25. But Mr. Mocherniak has not seen the draft report nor does he know what value was set out in the draft report. Both Mr. McClintock and the respondent included, among their documents, a copy of the actual valuation report dated June 1, 1990, prepared by Duff & Phelps ("Duff & Phelps report"). Mr. McClintock and respondent's counsel advised that the author of the report would not be called as a witness. Because both parties refer to the Duff & Phelps report, I allowed its production. However, I did caution the parties that in the circumstances, the weight I would give to the report would be limited. The report lacked evidentiary value.
+[22] In its annual report to the SEC for its fiscal year ended January 31, 1991 ("Form 10-K"), Alias reported that stock options were granted and the exercise price of options determined by the directors on April 25, 1990 fixed at $6.00 per share, ". . . was less than the fair market value for purposes of financial reporting under generally accepted accounting principles in the United States".
+[23] RBC Dominion Securities, on behalf of an investor group, on April 24, 1990 offered to purchase 50,000 shares of Alias for $3.15 per share, or $6.30 after consolidation. The offer also contained an option to purchase other shares of Alias owned by the offeree for a 2 1/2 year period. The offer was structured so that if Alias became a public company, the difference between the proceeds of disposition of any shares sold up to the issue price and the adjusted cost base of the shares would be divided equally between the offerer and offeree. The transaction was not completed.
+[24] The RBC Dominion Securities offer was signed by Gary Peter Selke, a vice-president and director of RBC Dominion Securities at the time. He testified at trial for the appellant. At time of trial he was president of a private investment firm. He considers himself a knowledgeable and prudent investor.
+[25] Mr. Selke could not recall "over the passage of time" how the $3.15 per share for Alias was determined. It was not an amount he discussed with the offeree but was determined "on our own account". He considered the offer to be fair to both sides. He was aware of Alias, its expertise and reputation. He knew Mr. McClintock and had met officers of Alias. Mr. Selke was not aware of any potential IPO for Alias at the time of the offer; he considered the price adjustment clause in the offer "innovative". As far as Mr. Selke was concerned, he thought Alias was a similar but superior company to Softimage, a corporation acquired by Microsoft Corporation. If the offer had been accepted the purchaser, who directly owned 24.47 per cent of Alias' issued shares, would have owned more than 25 per cent of the capital stock of Alias.
+[26] Mr. McClintock did not produce a valuation report supporting his view that the shares of Alias had a value of not more than $6.00 on the relevant dates. Rather, he called Mr. Mocherniak, C.A., a Chartered Business Valuator with Grant Thornton Corporate Finance Inc., to comment on, and rebut, the findings of a valuation of the Alias shares prepared by Mr. Tim Dunham for the Canada Customs and Revenue Agency ("CCRA").
+[27] Mr. Dunham is Manager of the Business Equity and Securities Valuation Section of the CCRA in Toronto. He is a Chartered Business Valuator and a Chartered Financial Analyst. He has prepared over 200 business valuations and in preparing some valuations has considered discounts and sale restrictions in marketing shares; he also valued about a dozen corporations considering IPO's.
+[28] Mr. Dunham concluded that the amount of $11.55 was a "reasonable indication" of fair market value of the shares of Alias on July 5, 1990 and that the value of the shares on April 25, 1990 was in excess of $6.00 per share. He testified that he did not prepare a valuation as such, but an "independent critique report of the Alias fair market value". He used the word "critique" because the information he "reviewed was largely provided by Alias, the company's valuation reports and the prospectus . . . I'm commenting on . . . the calculation they provided". Mr. Dunham stated from his "perspective the market has made the valuation and I haven't revalued the market's price". He accepted the IPO valuation of US$13.00 (or CDN$15.00) as indicative of the fair market value of Alias' shares. There was no significant or fundamental change in the company's operation during the two to twelve weeks preceding the IPO. The focus of his report, he stated, therefore, was how much of a marketability discount from the $15.00 is appropriate. He concluded that a discount of 25 per cent was appropriate.
+[29] Among the information Mr. Dunham received from Alias was the Duff & Phelps report, which gave a total equity valuation to Alias of between $34,000,000 to $39,000.000. Duff & Phelps opined that $3.00 per share of common stock "falls within the range of fair market value" as of April 25, 1990. The authors of the report assumed a 25 per cent discount for the lack of marketability of the shares. Mr. Dunham reviewed the analysis contained in the Duff & Phelps report concerning other market comparables, such as companies whose shares traded "over the counter", and described that information as not relevant to the valuation of Alias. The eventual IPO price of $15.00 reflected an "IPO value" in excess of $75,000,000, he noted.
+[30] In July 1989 Sony Corp. offered $10,000,000 to acquire a ten per cent minority interest in Alias; the offer was rejected as inadequate according to Duff and Phelps and Mr. Dunham concurred. The Sony offer was considered by Mr. Dunham who conceded that there may have been strategic considerations in both the offer and its rejection. In his report, he found the Sony offer relevant in that the $6.00 per share value in the Duff & Phelps report was below the Sony offer.
+[31] The Duff & Phelps report also referred to Crownx, the largest holder of Alias stock, letting 50,000 options, with an exercise price of $2.75 per share, expire in November 1989.
+[32] Mr. Dunham also commented on the SEC filing by Alias that indicated an issue price per share at above $6.00, even on May 24, 1990. He said there was no evidence of changes in the fundamentals of Alias between April 25, 1990 and the IPO date of July 17, 1990. On that day the shares of Alias were first exchanged in an open market, at arm's length: the price of the shares was therefore its fair market value. He therefore concluded that discounts and risk relating to marketability would be the only factors impacting the value of Mr. McClintock's investment.
+[33] According to Mr. Dunham, the "concept of marketability is the ability to convert the property to cash quickly, with minimum transaction costs, with a high degree of certainty of realizing the expected amount of net proceeds". He explains that the rationale for a marketability discount for shares in a company proceeding to an IPO includes factors, among others, such as the uncertain time horizon to complete the offering, risk concerning the eventual sale price and the inability to borrow against the estimated value of the stock.
+[34] In Mr. Dunham's view the marketability discount would be the difference between a liquid public shareholding and a private shareholding with a highly probable IPO. The IPO should be incorporated into the value estimate as the arm's length transfers on the IPO date meet the traditional fair market value definition.[9]
+[35] In Mr. Dunham's view an arm's length party would not have been able to purchase an interest in Alias for $6.00 on the relevant dates. An IPO was moving forward. On July 17, 1990, the offering was well received by investors at $15.00 per share and this price, he declares, represents the fair market value of the shares, less an appropriate discount for lack of marketability insofar as Mr. McClintock's shares are concerned.
+[36] Mr. Dunham states that the Duff & Phelps valuation to support a $6.00 value per share reviewed the same elements as the IPO prospectus that fixed a $15.00 value: market analysis, product development, historical financial performance and competitive position. Since nothing changed between April 25, 1990 and July 17, 1990 insofar as Alias' operations and outlook are concerned, the underlying value of the company should be about the same. He summarized the Duff & Phelps valuation (pre-consolidation):
+Value per Marketable Share based on Comparables
+$3.95
+$4.54
+Less - Marketability Discount
+25%
+25%
+Discounted Share Value
+$2.97
+$3.40
+[37] The Duff & Phelps valuator determined a pre-consolidation value of $3.00 for each of the shares owned by Mr. McClintock, including a 25 per cent discount for lack of marketability.
+[38] At $6.00 per share, there is a discount of 60 per cent from the IPO price of $15.00; Mr. Dunham believes such a discount is too great. Calculated from April 25, 1990, he observed, there would be a total return of 150 per cent in less than three months, an annual rate of return greater than 600 per cent. Such a rate of return is "implausible", given returns on alternative investment classes. The implied rate of return from the exercise date of the options on July 5, 1990, twelve days before the IPO, would be even greater. He concluded that were arm's length parties allowed to purchase Alias shares within weeks of the IPO, they would not be looking at an annual rate of return of 600 per cent. Mr. Dunham agreed a marketability discount was appropriate at the relevant dates, but not in the range of 60 per cent. In his report Mr. Dunham adopted the Duff & Phelps marketability discount rate of 25 per cent and applied the 25 per cent to the IPO price of $15.00 as a reasonable and fair market value on the relevant dates.
+[39] During his cross-examination, Mr. Dunham stated that the 25 per cent discount from July 5, 1990 would include some compensation for trading restrictions imposed on Mr. McClintock after July 17, 1990. "Otherwise", he explained, "the annualized rate of return would be an improbable 1,000 per cent". He did concede that from April 25, 1990 a different discount would be appropriate.
+[40] Mr. Dunham reluctantly suggested a discount amount of 40 per cent to 50 per cent for completely liquid shares in a private company with no prospects of an IPO, as of the April 25, 1990 valuation date. In the course of that exchange, it was noted that Alias had been moving towards an IPO since 1987, that it had rejected the Sony offer of $10,000,000 for a 10 per cent stake, that its underwriters were badgering them, that the preliminary prospectus of May 24, 1990 suggested an IPO price of US$9.00 to $11.00 and that in April an IPO was not imminent.
+[41] Later on, Mr. Dunham qualified the 40 per cent to 50 per cent discount amount by remarking that the rate would decline significantly the closer one got to the date of the IPO. He was influenced by the fact the IPO proceeded without any apparent problems and sold out in a "hot IPO market". To him, that indicated the market had done its own fundamental analysis and more than agreed with the share price of $15 share.
+[42] Mr. Dunham also observed that as far as the directors of Alias fixing a fair market value of $6.00 a share is concerned, motives for granting employee stock options, such as for incentive or compensation purposes would include an intended benefit. In his view, this may partially explain the difference between $6.00 and $11.556 per share.
+[43] One of Mr. Mocherniak's main criticisms of Mr. Dunham's report is that Mr. Dunham did not perform any fundamental earnings or asset based analyses, examine many relevant documents, or talk to many key directors, officers and employees of either Alias or its underwriter. Thus, Mr. Dunham was not in an informed position to value or comment on Alias' common stock.
+[44] Mr. Dunham's rejection of the market comparison valuation in the Duff & Phelps report is challenged by Mr. Mocherniak. In the latter's view the comparison companies[10] chosen by Duff & Phelps were appropriate, as they were in the same line of business as Alias and therefore had a similar economic profile. The latter is evidenced, he insists, by the similarity in 1989 pretax margins between the companies' average and Alias.
+[45] Mr. Mocherniak also argues that Mr. Dunham's valuation of the Alias shares based on the IPO price is inappropriate, since it is hindsight and hindsight valuation is "expressly rejected" by the courts, as expressed in National System Baking v. The Queen.[11] Further, he adds, the realization, success and price of the IPO would have been unknown at the valuation dates and thus irrelevant.
+[46] The Sony offer of $10,000,000 for a 10 per cent stake is irrelevant, Mr. Mocherniak declared, since it was rejected on strategic grounds. Further, Mr. Dunham did not examine the supporting documents and so cannot accurately comment on the offer. Mr. Mocherniak suggests that one could infer that Crownx failed to exercise its option for $2.75 per share because it believed the shares were worth less than $2.75. Mr. Dunham stated the fact the option expired does not necessarily indicate the shares had no value. There may have been reasons why Crownx allowed the options to expire. But, as Mr. Mocherniak observed, Mr. Dunham failed to speak to Crownx officials and therefore cannot comment accurately for the reasons Crownx allowed the option to lapse.
+[47] Another contention by Mr. Mocherniak is that IPO price is not equal to fair market value, since, contrary to the definition of fair market value, IPOs exclude certain buyers, namely retail investors. An IPO does not constitute an open market sale of shares. Thus Mr. Dunham's reliance on the IPO price renders its valuation opinion inaccurate.
+[48] Mr. Mocherniak also suggests that reference to the meeting of directors of April 25, 1990 regarding "expeditious preparations" for an IPO is irrelevant since contemplation and preparation are not synonymous with a realized or successful IPO at $15 per share. Also irrelevant, he says, is reference from the April 27, 1992 SEC Form 10-K filing describing the option exercise price as "less than fair market value", since the remark was made after the valuation dates.
+[49] Mr. Mocherniak also criticized Mr. Dunham for failing to consider post-IPO trading restrictions since they would impact the risk and liquidity of the shares.
+[50] In Mr. Mocherniak's view, high rates of return over short periods of time are not uncommon for private equity investments near IPO. Further, he said, venture capital portfolio returns should not be equated with individual investment returns.
+[51] Mr. Mocherniak also opined that an "en bloc" discount should apply to Mr. McClintock's shares since his shareholding was minority in nature and thus he had no control over the investment's rate of return.
+[52] Finally, Mr. Mocherniak did point out the obvious, that the directors of Alias could not have known on April 25, 1990 what the IPO price would be, when it would take place and if it would be successful. He observed that a valuator should perform a fundamental analysis of earnings or assets of a corporation and speak to its officers when preparing a valuation and Mr. Dunham did neither. I agree.
+[53] In his appeal the appellant is relying on the determination by the Alias directors on April 25, 1990 that $3.00 per share (pre-consolidated) was the fair market value for each Alias common share for "purposes" of the various employee stock ownership plans. Except for the Duff & Phelps report, there is no indication that for purposes other than the employee stock option shares, the fair market value was $3.00 (pre consolidated) on April 25, 1990. The author of the Duff & Phelps report was aware when he wrote the report that the directors of Alias had fixed the fair market value of an Alias common share at $3.00 (pre-consolidated) on April 25, 1990. As I previously stated, the author of the Duff & Phelps report was not a witness at trial and I have not had the benefit of him or her being examined with respect to the report's conclusions.
+[54] Mr. Mocherniak has not convinced me that Mr. Dunham erred significantly in his report. First of all, it is the trial judge who must exercise his discretion whether or not, in the particular facts of an appeal, to use hindsight to assist in deciding whether a purported value of property is correct or in setting a value.[12] This is particularly so when there are no sales of any comparable property immediately prior to the valuation date.
+[55] Also, there is no evidence what factors the directors of Alias considered when they determined fair market value on April 25, 1990. Mr. McClintock said financial statements were considered. He also suggested that a valuation had been prepared. However, I do not have an iota of understanding how the $6.00 value was gleaned from the financial statements. Mr. McClintock did not produce a director of Alias at the time or knowledgeable person who could at least shed some light on how the $6.00 value was determined by Alias' directors.
+[56] Mr. Dunham's valuation effort approximates the fair market values of the shares on the relevant dates. I see no substantial error in Mr. Dunham's report that, if I were to make an adjustment to his calculations, granting a discount of, say, 40 per cent, would bring his values on the relevant dates to $6.00 or less per share on the relevant dates.
+[57] The Alias shares were definitely worth more than $6.00 each on the relevant dates. I am influenced by the fact that there was no fundamental or significant change in the operation of Alias between April 25, 1990 and July 19, 1990. If this is correct, Mr. McClintock has not explained the reason for the increase in value of the shares during the period from $6.00 to the IPO price of $15.00. There is no evidence, for example, that the prices on NASDAQ increased proportionally during that period and the price of Alias shares were adjusted accordingly. The draft preliminary prospectus, dated May 24, 1990, one month after the directors' meeting, estimates a price per share of between US$9.00 and US$11.00, significantly higher than $6.00.
+[58] Mr. Mocherniak's evidence was firstly a challenge to Mr. Dunham's report and secondly, an attempted defense of the Duff & Phelps report. But at the end of his testimony, he has not convinced me that Mr. McClintock's shares had a fair market value of $6.00 or less per share on the relevant dates. Even if I accept all the criticism Mr. Mocherniak leveled at Mr. Dunham's report, I would still have reason to conclude that Mr. Dunham's view as to value is substantially correct.
+[59] I should also add that insofar as Mr. McClintock's claim for a stock option deduction under paragraph 110(1)(d.1) is concerned, he disposed of the shares in issue within two years of their acquisition and is therefore ineligible for the deduction.
+[60] The appeal will be allowed only to allow the Minister to reassess Mr. McClintock on the basis that Alias was a CCPC in 1990 and 1991, and only if such a reassessment would be of benefit to Mr. McClintock.
+[61] The appellant shall pay the costs of his appeal.
+Signed at Ottawa, Canada this 2nd day of May 2003.
+"Gerald J. Rip"
+J.T.C.C.
+CITATION:
+2003TCC259
+COURT FILE NUMBER:
+2000-4185(IT)G
+STYLE OF CAUSE:
+William McClintock and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 11 and 12, 2003
+REASONS FOR JUDGMENT BY:
+the Honourable Gerald J. Rip
+DATE OF JUDGMENT:
+May 2, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The values of an Alias share refers to their values after consolidation on May 16, 1990 on a 2:1 basis. In these reasons all values are post-consolidation values in Canadian funds, unless specified otherwise. (See subsection 110(1.5) of the Act for effect of shares on consolidation.)
+[2] April 25, 1990 is the date on which the directors of Alias fixed the price for each Alias share at which members of the stock option plan may acquire shares in a subsequent year and the day on which he was granted options to purchase 13,750 shares of Alias. July 5, 1990 is the date on which Mr. McClintock exercised an option as a member of a stock option plan to acquire Alias shares: see paragraphs 8 and 9, infra.
+[3]
+Mr. McClintock did not remember the date he ceased to be a director, he says it was before May 24, 1990.
+[4] [2002] F.C.J. No. 922 (Q.L.), 2002 F.C.A. 260. Silicon Graphics Limited is a successor to Alias.
+[5] With respect to a benefit deemed, under paragraph 7(1)(a) by virtue of subsection 7(1.1), to have been received on the disposition of shares acquired after May 2, 1985, paragraph 110(1)(d.1) of the Act provides, among other things, that the taxpayer must not have disposed of the share within two years after the date he acquired it to be eligible for a deduction. Also, the taxpayer is excluded from the "lifetime capital gains exemption" previously available under section 110.6 of the Act.
+[6] There existed at least four plans: 1986 Employee Stock Ownership Plan, 1988 Employee Stock Ownership Plan, 1989 Employee Share Ownership Plan and New Employee Stock Ownership Plan formed in 1990, sometimes referred to as the 1990 Employee Stock Ownership Plan.
+[7] This appears to contradict Mr. McClintock's evidence that the directors of Alias for the first time at the board's meeting of April 25, 1990 learned that Alias was profitable.
+[8] During the period April 25, 1990 to July 17, 1990 the exchange rate of the United States dollar to the Canadian dollar varied in the range of CDN$1.1534 to CDN$1.1883. The U.S. dollar closed on the relevant days as follows:
+April 25
+CDN$1.1610
+May 24
+$1.1847
+July 5
+$1.1640
+July 13
+(Sunday)
+July 17
+$1.1534
+[9] Fair market value traditionally is understood to be the highest price available expressed in terms of money or money's worth, in an open and unrestricted market between informed and prudent parties, acting at arm's length and under no compulsion to act.
+[10] These corporations were Autodesk Inc., Cadence Design, Evans & Sutherland Computer, Intergraph Corp., MacNeal-Schwendler, Mentor Graphics and Structural Dynamics Research.
+[11] 78 DTC 6018, Mahoney J. (F.C.T.D.).
+[12] See, for example, Baily v. M.N.R. [1990] 1 C.T.C. 2450 (T.C.C.). For a valuator's opinion on whether a subsequent sale may be considered, see Ian R. Campbell, The Principles and Practice of Business Valuation, Richard DeBoo Limited, Toronto, 1995, p. 20.

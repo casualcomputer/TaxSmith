@@ -1,0 +1,250 @@
+Title: Great Land (Olive) Inc. v. The Queen
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/520932/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-56-520932-great-land-olive-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-06-02
+
+# Great Land (Olive) Inc. v. The Queen
+
+- Citation: 2022 TCC 56
+- Decision date: 2022-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5482, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Great Land (Olive) Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-02
+Neutral citation
+2022 TCC 56
+File numbers
+2017-2035(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-2035(GST)G
+BETWEEN:
+GREAT LAND (OLIVE) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 29 and 30, 2021, at Toronto, Ontario
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Leigh S. Taylor
+Boris Stanislav
+Counsel for the Respondent:
+Frédéric Morand
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+1. The appeal from assessments under Part IX of the Excise Tax Act for the reporting periods ending between July 1, 2010 and May 31, 2011 is dismissed; and
+2. Costs are awarded to the Respondent.
+Signed at Antigonish, Nova Scotia, this 2nd day of June 2022.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2022TCC56
+Date: 20220602
+Docket: 2017-2035(GST)G
+BETWEEN:
+GREAT LAND (OLIVE) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+I. Introduction
+[1] The Appellant developed and built a large condominium project in the North York area of Toronto called the Mona Lisa (the “Mona Lisa Project”). It sold the condominium units of the Mona Lisa Project for a price that included GST. The Appellant entered into agreements of purchase and sale prior to November 2007 in respect of a number of these condominium units. (I will refer to these condo unit(s) as the “Condo Unit(s)” and the agreement(s) of purchase and sale as the “Pre‑November Agreement(s) of Purchase and Sale”.)
+[2] This appeal involves the determination of the amount of GST that was exigible under Division II of Part IX of the Excise Tax Act (the “GST Act”) on the sale of the Condo Units.
+[3] Division II tax is the tax levied on domestic transactions. Subsection 165(1) levies the Division II tax on every recipient of a taxable supply made in Canada. Normally, in order to determine the amount, if any, of tax exigible under subsection 165(1), the following questions must be answered,
+- Did the supplier make a taxable supply?
+- Was the taxable supply made in Canada?
+- What was the amount of the consideration for the supply?
+- Was the taxable supply made in a participating province?
+- If tax is payable, who is the recipient of the supply?
+[4] In the current appeal, the parties accept that Division II tax was payable on the sale of the Condo Units since the sales constituted taxable supplies that were made in Canada. They also agree on who were the recipients of the supplies and on the fact that the supplies were made in Ontario, which at the time was a non-participating province.
+[5] The issue raised by the parties is the amount of GST that was included in the sale price of the Condo Units and remittable by the Appellant.
+[6] The Appellant argues that the GST on the sale of the Condo Units was payable at the 5% rate that existed after January 1, 2008. The Respondent argues that the GST was payable at the 6% rate that existed prior to January 1, 2008.
+[7] The answer to this question is dependent on the application of the applicable transitional rule, on the determination of the specific supplies that the Appellant made and on when it made such supplies. The answer also requires the Court to consider the application of section 133, a deeming rule that applies where an agreement is entered into to provide property or a service.
+[8] The Respondent also argues that, as a question of fact, the Appellant collected tax at the 6% rate. If the Appellant did collect tax at the 6% rate, then, regardless of whether the supply was taxed at 5% or 6%, it was required to remit the tax it collected at the 6% GST rate.
+[9] A second issue raised by the Appellant is the determination of the amount of the consideration paid by the purchasers of the Condo Units for purposes of subsection 165(1). In particular, the determination of the impact, if any, of the residential housing rebates on the calculation of the consideration for the supply of the Condo Units that were sold on a tax-included basis.
+[10] During the hearing, I heard from four witnesses.
+[11] The Appellant called Mr. Ronald Stein, Mr. Harvey Hirsh and Mr. Jose Mathew. Mr. Stein and Mr. Hirsh are employees of the Appellant and related companies. Mr. Stein is a land development manager for the Appellant and related companies. He was responsible for guiding the development of the Mona Lisa Project from the acquisition of the necessary land to the receipt of the required municipal planning approval. Mr. Hirsh is an accountant who was responsible for preparing the Appellant’s corporate tax returns and related schedules.
+[12] Mr. Mathew is a Canada Revenue Agency (“CRA”) auditor who conducted an audit of the Appellant in March 2008.
+[13] The Respondent called one witness, Mr. Terrance Subryon. Mr. Subryon is a CRA auditor who, during the relevant period, conducted audits of real estate developments. His audit of the Appellant resulted in the assessment that is before the Court.
+[14] I found all four witnesses to be credible.
+II. Summary of facts
+[15] The Appellant was formed to develop and build the Mona Lisa Project. The Mona Lisa Project is a 28-storey, 308-unit residential building together with two 2-storey townhouses and two 4-storey townhouse buildings containing 74 units.
+[16] Mr. Stein described the process of developing a project such as the Mona Lisa Project as follows:
+- The Appellant first hires an architect.
+- The Appellant then assembles the required property, which can take a number of years.
+- A concept plan is developed with the architect within the boundaries of the relevant municipality’s official plan.
+- The Appellant organizes a pre-submission meeting with the municipality to try to obtain feedback for its concept plan and an understanding of potential issues the city may have with the Appellant’s plan.
+- If the Appellant is comfortable that the project is feasible, it then hires consultants, landscape architects, mechanical engineers, structural engineers, electrical engineers, transportation consultants, wind consultants, noise consultants, arborists, urban designers, lawyers, etc.
+- The Appellant then prepares and submits an application for the project, which may include requests for official plan amendments, zoning by-law amendments and an approved site plan.
+- Once the Appellant receives municipal approval for the application, it can then start construction.
+[17] Mr. Stein noted that a typical development project takes between five and nine years to complete.
+[18] By 2007, the Appellant had acquired approximately 10 properties in the North York area of Toronto on which it planned to construct the Mona Lisa Project. All of the properties were zoned for a single-family detached dwelling. As a result, the Appellant required a change in the zoning to allow for the construction of the Mona Lisa Project.
+[19] On April 20, 2007, the Appellant filed its application for the Mona Lisa Project with the City of Toronto. [1] The project did not require a significant amendment to Toronto’s official plan; however, it did require the zoning by-law amendment and a site plan approval. In the application, the Appellant proposed to purchase land next to a park in the area, to allow the City to expand the park. The Appellant also noted in the submission that it would purchase the density needed to ensure that the project conformed with the City’s official plan.
+[20] At some point, the Appellant also had a public meeting with local residents to receive their feedback.
+[21] Mr. Stein testified that the following occurred between the time the application was made on April 20, 2007 and June 28, 2008, when the Appellant received a site plan approval from the City of Toronto:
+- On May 28, 2007, Toronto acknowledged receipt of the Appellant’s application.
+- On October 23, 2007, Toronto agreed to sell a small parcel of land to the Appellant. The Appellant’s purchase of this land was a condition of the development of the Mona Lisa Project.
+- On March 18, 2008, the relevant staff of the City of Toronto issued a staff report that recommended the approval of the Appellant’s application to amend the official plan and zoning by-law as well as the approval, in principle, of the site plan application. Mr. Stein stated that the official plan amendment dealt with bicycle storage space.
+- Between the filing of the application and the March 18, 2008 staff report, the Appellant had numerous discussions with City staff with respect to various issues. These issues included urban design, sewage and traffic issues.
+- On April 29, 2008, the City passed the required zoning by-law. The by-law set out the general criteria for the project, such as the maximum gross floor area on the site, yard setbacks, building height, and the number of parking spaces per unit. Mr. Stein described this as a general guideline for the Mona Lisa Project.
+- On June 28, 2008, the City of Toronto issued a letter adopting the site plan application. The letter contained conditions relating to such things as sidewalks, deposits for costs of landscaping, garbage collection, and a clean construction site.
+[22] Mr. Stein noted that once the Appellant obtained the site plan approval, it could start construction of the Mona Lisa Project. It appears that, during the approval process, the only significant change to the Mona Lisa Project as proposed by the Appellant was the location of stairs out of certain townhouses.
+[23] Sometime in May of 2007, the Appellant began to sell the Condo Units. The Appellant filed with the Court two of the Pre-November Agreements of Purchase and Sale. Both agreements are dated May 24, 2007. The evidence before me is that the two agreements are identical to all of the Pre-November Agreements of Purchase and Sale that the Appellant entered into with purchasers of Condo Units (the “Buyers”).
+[24] The agreement entered as Exhibit A-4 is for Condo Unit number 915. It contains the following relevant terms:
+- A purchase price of $212,000 that, pursuant to clause 18.08(b) of the agreement, includes GST. In addition, the Buyer agrees to assign any entitlement to any GST rebate in respect of the Condo Unit to the Appellant.
+- The Buyer’s agreement to provide a deposit equal to 25% of the purchase price, $5,500 of which is payable on signing of the agreement, with four further deposits of $6,000, each payable in 60-day intervals, starting 60 days from the signing of the agreements. The deposits were to be credited, on closing, on account of the purchase price of the sale of the Condo Unit. They were also subject to forfeiture if the Buyer breached certain provisions of the agreement and could be returned to the Buyer in certain specified situations.
+- A tentative occupancy date of November 30, 2009 and a closing date defined to be the later of the occupancy date, if the Mona Lisa Project has been registered as a condominium, or 10 days after it is registered.
+- Clause 7, which that states that the agreement of purchase and sale is conditional on certain conditions being satisfied. Clause 7.01 provides that the agreement and the transaction arising therefrom are conditional upon the vendor obtaining:
+(i) prior to the occupancy date, zoning and site plan approval for the condominium from the municipality;
+(ii) prior to the closing date, compliance with the subdivision control provisions of the Planning Act;
+(iii) prior to the closing date, the registration by the Appellant of a condominium plan, declaration and description; and
+(iv) prior to the occupancy date, a building permit for construction of the condominium. [2]
+- Clause 14.01(d), which provides that if the conditions in clause 7.01 are not satisfied before the noted dates, then the Appellant may extend the closing date up to eighteen months. Alternatively, the Appellant may terminate the agreement of purchase and sale and return the deposits.
+- Clause 7.01(b), which states that the agreement is conditional on the Appellant determining, on or before December 7, 2007, that it is satisfied with the economic feasibility and viability of constructing the Mona Lisa Project and/or with the number of sales of condominium units and/or with the general acceptance and saleability of the suite type selected by the Buyer.
+[25] Beginning on October 19, 2010 and ending on November 12, 2010, the Appellant closed the purchases of a number of Condo Units pursuant to the terms of the Pre-November Agreements of Purchase and Sale. For these sales, the Appellant added to its net tax the GST collectible based on a 5% GST rate.
+[26] The Minister disagrees with the Appellant’s assumption that GST was collectible at the 5% GST rate on sales made pursuant to the Pre-November Agreements of Purchase and Sale. She assessed the Appellant on the basis that, for these sales, the Appellant should have added to its net tax the GST collectible at the 6% GST rate. She also assessed the Appellant to deny the credit it claimed in respect of certain new housing rebates that Buyers had assigned to the Appellant.
+[27] The only issue before the Court is what rate the Appellant should have used when calculating its net tax: the 5% rate or the 6% rate. The parties agree that, for the purposes of this litigation, the amount of the differential between tax at the 5% rate and tax at the 6% rate is $894,256.06.
+III. The grandfathering issue
+[28] The GST rate was reduced from 6% to 5% by section 184 of the Budget and Economic Statement Implementation Act, 2007 (the “Bill”). [3] Paragraphs (a) and (c) of subsection 184(2) of the Bill apply to real property and provide that the 5% GST rate (as opposed to the 6% GST rate) applies:
+(a) to any supply (other than a supply deemed under section 191 to have been made) made on or after January 1, 2008;
+. . .
+(c) for the purposes of calculating tax in respect of any supply (other than a supply deemed under Part IX of the Act to have been made) by way of sale of real property made before January 1, 2008, if ownership and possession of the property are transferred on or after January 1, 2008, to the recipient under the agreement for the supply, unless the supply is a supply of a residential complex pursuant to an agreement of purchase and sale, evidenced in writing, entered into on or before October 30, 2007;
+. . .
+[29] Paragraph (a) of the provision provides that the 5% GST rate applies to any supply made on or after January 1, 2008.
+[30] Paragraph (c) of the provision provides that the 5% GST rate will also apply to supplies by way of sale of real property made before January 1, 2008 [4] provided ownership and possession of the property are transferred on or after January 1, 2008 to the recipient under the agreement for the supply. However, the 6% GST rate will apply if the supply is a supply of a residential complex pursuant to an agreement of purchase and sale, evidenced in writing, entered into on or before October 30, 2007.
+[31] A residential complex is defined, in part, in subsection 123(1) of the GST Act to mean that part of a building in which one or more residential units are located, together with common areas. Subsection 123(1) defines a residential unit to include a condominium unit.
+[32] A residential complex is also defined, in part, in subsection 123(1) to include that part of a building that is the whole or part of a residential condominium unit that is, or is intended to be, a separate parcel or other division of real property owned, or intended to be owned, apart from any other unit in the building together with common areas.
+[33] A residential condominium unit is defined in subsection 123(1) to mean:
+a residential complex that is, or is intended to be, a bounded space in a building designated or described as a separate unit on a registered condominium or strata lot plan or description, or a similar plan or description registered under the laws of a province, and includes any interest in land pertaining to ownership of the unit;
+[34] It is not in dispute that the Condo Units are residential complexes.
+[35] It is also not in dispute that the Appellant transferred ownership and possession of the Condos Units to the Buyers on or after January 1, 2008 under written agreements of purchase and sale.
+[36] However, the Appellant argues that the supplies at issue were made after January 1, 2008. It is the Appellant’s position that “the agreements were not entered into on the date they were signed. There was nothing capable of being sold. An application for a thing to be sold had not yet been made” [5] . Counsel for the Appellant argues that the Mona Lisa Project did not exist in May 2007 since the City of Toronto had not adopted the site plan application and had not passed the required zoning by-law or the change to the official plan for the bicycle storage space.
+[37] The Respondent argues that the supplies at issue were made before January 1, 2008 pursuant to written agreements of purchase and sale entered into on or before October 30, 2007.
+A. Did the Appellant make a supply in May 2007 when it entered into the agreements of purchase and sale?
+[38] The key issue is whether the Appellant made a supply by way of sale of the Condo Units prior to January 1, 2008.
+[39] A supply is defined in subsection 123(1) to mean, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition. I will discuss section 133 shortly. Section 134 is not relevant for purposes of this appeal.
+[40] The GST Act also defines the words property and service.
+[41] Property is broadly defined in subsection 123(1) to mean any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, including a right or interest of any kind whatever, a share and a chose in action, but not including money.
+[42] A service is defined in subsection 123(1) to mean anything other than property, money and certain services supplied to an employer by an employee, an officer and certain other persons. The definition of service is extremely broad. If something is not property, money or what one could call an “employee service,” then it is deemed to be a service.
+[43] Because of the broad definitions of supply, property and service, the provision of anything in any manner will constitute a supply.
+[44] The Appellant provided something when it entered into the Pre-November Agreements of Purchase and Sale with each of the Buyers. That something was the right given to each Buyer to acquire the Condo Unit specified in the agreement for the specified price. A Buyer’s acquisition of the specific Condo Unit may have been conditional on the conditions set out in the Pre-November Agreement of Purchase and Sale being satisfied, but if the conditions were satisfied, the Appellant agreed to build and sell to the Buyer, and the Buyer agreed to purchase, the Condo Unit. In other words, the Buyer acquired the right to purchase the specific Condo Unit specified in the Pre-November Agreement of Purchase and Sale once the conditions were satisfied.
+[45] In my view, this was a supply that was made at the time the Appellant entered into the Pre-November Agreements of Purchase and Sale with the Buyer. The Appellant provided the Buyer with the sole right to acquire the specified Condo Unit if the conditions were satisfied and the Mona Lisa was built and registered as a condominium. This was the provision of something and thus constituted a supply.
+[46] This something was, for the purposes of the GST Act, the provision of property by way of sale. As noted previously, property is defined to include a right or interest of any kind whatever. Once the Buyer signed the agreement of purchase and sale, it acquired the right just discussed with respect to the Condo Unit specified in the Pre-November Agreement of Purchase and Sale.
+[47] Clause 18.03 of the Pre-November Agreements of Purchase and Sale is further evidence that a supply was made at the time the agreement was entered into by the parties. It provides that the agreement, once accepted by both parties, constitutes a binding contract of purchase and sale. In other words, the Buyer acquired a right at the time the parties entered into the agreement to purchase the specific Condo Unit.
+[48] In addition, the agreement of purchase and sale provides that the Buyer may assign its interest in the specified Condo Unit to a family member without the consent of the Appellant and to a third party with the consent of the Appellant. The evidence before me is that, for certain Buyers, the Appellant consented to the assignment of the right to third parties. The fact that the agreement provides for an assignment of a right is further evidence that a right was provided at the time the agreement was entered into.
+[49] Further, under the GST Act the supply was a supply of real property. Real property is defined in subsection 123(1) to include, in respect of real property outside of Quebec, every interest in real property. Since the Appellant supplied an interest in the specified Condo Unit, it made a supply of real property. As a question of fact, this supply was made at the time the Appellant and the Buyer entered into the Pre-November Agreement of Purchase and Sale.
+[50] The fact that no GST was payable at the time the agreements of purchase and sale were entered into is not relevant for purposes of determining whether a supply was made at the time the parties entered into the agreement. The GST Act contains specific timing rules that apply to determine when GST is payable. These rules have no relevance when determining whether a supply has in fact been made. They operate once it is established that a supply has been made to determine when the tax in respect of the supply is actually payable by the recipient of the supply.
+[51] For example, subsection 168(9) provides, in effect, that GST only becomes payable in respect of a deposit if the deposit is applied to the purchase price or forfeited. Similarly, subsection 168(5) determines when tax is payable in respect of a taxable supply of real property. These subsections only have relevance if one first determines that a taxable supply has been made.
+[52] Even if the entering into of the Pre-November Agreements of Purchase and Sale did not result in a supply by way of sale under the definition of supply, the entering into of such an agreement is deemed to be a supply by way of sale under section 133. As noted previously, the definition of supply in subsection 123(1) is subject to section 133.
+[53] Section 133 is an anti-avoidance rule that clarifies that the entering into of an agreement to provide property or a service is a supply. It ensures that prepayments made before property is transferred or services are rendered are subject to GST. [6] However, it has very broad application.
+[54] The section reads as follows,
+Agreement as supply — For the purposes of this Part, where an agreement is entered into to provide property or a service,
+(a) the entering into of the agreement shall be deemed to be a supply of the property or service made at the time the agreement is entered into; and
+(b) the provision, if any, of property or a service under the agreement shall be deemed to be part of the supply referred to in paragraph (a) and not a separate supply.
+[55] The section applies when an agreement is entered into to provide property or a service. The condition for the application of section 133 does not refer to the making of a supply. It refers to the entering into of an agreement to provide property or a service. It deems the entering into of the agreement to be a supply.
+[56] In addition, the section does not contain wording that requires there to be an unconditional agreement to provide property or services. It merely requires the parties to have entered into an agreement to provide property or a service. As I noted previously, the Appellant and the Buyers acknowledge in clause 18.03 that the Pre-November Agreements of Purchase and Sale were binding contracts of purchase and sale.
+[57] Further, the use of the words if any in paragraph 133(b) support a finding that for the purposes of section 133, an agreement that is conditional is still an agreement for purposes of the section. The use of the words if any contemplates the situation where parties entered into an agreement, but no property or services were actually provided under the agreement.
+[58] The application of section 133 is also not contingent on the existence of the Condo Units at the time the parties entered into the Pre-November Agreements of Purchase and Sale. As Justice Stratas stated in The Queen v. Cheema, 2018 FCA 45, at paragraph 101,
+The fact that Mr. Cheema’s home did not exist at the time he signed the agreement of purchase and sale does not render section 133 inapplicable. ... Section 133 is a deeming provision. Deeming provisions create legal fictions. They assume things to exist even when they do not in reality—like, for example, the supply of a home that is not yet constructed. To suggest that Parliament did not intend for the deemed supply rule to apply because the supply could not in fact occur would be to undermine the purpose of enacting a deeming provision in the first place.
+[59] Once it is determined that section 133 applies, two things are deemed to occur. First, the entering into of the agreement is deemed to be a supply of the property or service made at the time the parties entered into the agreement. Second, the provision, if any, of property or a service under the agreement is deemed to be part of the deemed supply made at the time the agreement was entered into and not a separate supply.
+[60] The question of whether an agreement was entered into to provide property or a service is a question of fact; a fact that is not in dispute in this appeal. The Appellant and each of the Buyers entered into agreements, the Pre-November Agreements of Purchase and Sale, to provide property, the Condo Units. The agreements may have been conditional on certain conditions being satisfied, but they were still agreements to provide property.
+[61] Further, each of the Buyers eventually purchased the Condos pursuant to the terms of the Pre-November Agreements of Purchase and Sale.
+[62] Pursuant to paragraph 133(a), when the Appellant and a Buyer entered into the Pre-November Agreement of Purchase and Sale, under which the Appellant provided the Buyer with a right to purchase a Condo Unit, a supply was deemed to be made. Further, the actual transfer of ownership of the Condo Unit by the Appellant to the Buyer under the Pre-November Agreement of Purchase and Sale is deemed, under paragraph 133(b), to be part of the supply of the Condo Unit made when the Pre-November Agreement of Purchase and Sale was signed and not a separate supply.
+[63] As a result, pursuant to section 133, each of the Appellant’s sales of the Condo Units to the Buyers under the Pre-November Agreements of Purchase and Sale is deemed to be a supply of real property by way of sale made before January 1, 2008. Since each of these supplies was made pursuant to a written agreement of purchase and sale for a residential complex entered into on or before October 30, 2007, then, pursuant to paragraph 184(2)(c) of the Bill, the supply of the Condos was taxed at the 6% rate.
+[64] My conclusion is consistent with the Department of Finance’s Explanatory Notes with respect to the transitional rule, which provide the following example,
+A purchaser of a residential complex who enters into an agreement of purchase and sale, evidenced in writing, of the complex on or before October 30, 2007, but after May 2, 2006, and does not acquire ownership and possession of the complex until on or after January 1, 2008, is required to pay tax imposed under subsection 165(1) at the rate of 6 per cent on the value of the consideration for the supply, but may be eligible to claim a transitional rebate in respect of the purchase under new section 256.74 … . [7]
+[65] This is the exact situation before the Court. The government decided, in late 2007, to reduce the GST rate from 6% to 5%. The Minister of Finance announced this change on October 30, 2007, effective January 1, 2008. Clearly, Parliament decided that if parties entered into an agreement of purchase sale after the announcement date, and before 2008, they would receive the lower 5% rate provided they closed the transaction after December 31, 2007. However, it was never intended to apply to parties who entered into agreements of purchase and sale before the government announced that it was reducing the GST rate to 5%.
+B. Was tax collected at the 6% rate?
+[66] In addition to arguing that the supply was taxed at 6%, the Respondent also argues that, regardless of the application of the transitional rule, the Appellant was required to remit the tax that it was assessed since it collected tax at the 6% GST rate. I agree with the Respondent’s position on this issue.
+[67] GST registrants, such as the Appellant, are required, under section 228, to calculate and remit their net tax for each of their GST reporting periods.
+[68] Net tax for a specific reporting period is determined under subsection 225(1) using the formula A−B. A is equal to the total of all amounts that became collectible and all other amounts collected by the person in the particular taxation year as or on account of tax under Division II, plus all amounts required under Part IX to be added to a person’s net tax. B is, generally speaking, the deduction for input tax credits.
+[69] The key point is that a person must add to its net tax and remit all amounts that it collects as or on account of tax. It is well settled that amounts collected on account of tax include tax collected in error.
+[70] Therefore, even if the tax rate was 5%, the Appellant was required to remit any amounts it collected at the 6% tax rate, since it collected such amounts on account of tax.
+[71] Clause 18.08 of the Pre-November Agreements of Purchase and Sale provides that the purchase price includes GST. The clause also provides that the Appellant agrees to remit the GST paid to it following the closing date in accordance with the provisions of the GST Act. [8]
+[72] The Appellant’s position is that the GST included in the purchase price and paid by the Buyers was tax at the 5% rate, not tax at the 6% rate. This is not consistent with the evidence before me.
+[73] In particular, Exhibits AR-7 and AR-8 evidence that the Appellant collected tax at the 6% GST rate. Each of these exhibits contains a statement of adjustments prepared by the Appellant’s lawyer for the closing of the sale of two Condo Units. The evidence before me is that the method used by the Appellant’s lawyer in Exhibits AR-7 and A/R-8 to calculate the GST payable was used in all the closings of sales of the Condo Units.
+[74] Each of the statements of adjustments has a section entitled “GST on Total Consideration”. This section shows the GST being calculated at 6% of the calculated consideration. This amount is then shown as the GST payable by the Buyer.
+[75] Mr. Hirsh testified that the Appellant’s law firm, Owens Wright, advised the Appellant that the commercial software that the law firm used indicated a 6% rate. Mr. Hirsh noted that the law firm subsequently advised them that this was an error.
+[76] Regardless of whether or not it was an error, the Appellant collected tax at the 6% rate. Further, the evidence before me is that the Buyers believed that they were paying tax at the 6% rate. Page 361 of Exhibit R-45 contains a GST/HST new housing rebate application form executed by one of the Buyers. It evidences that the Buyer calculated the rebate based upon his having paid tax to the Appellant equal to 6% of the purchase price. In fact, the Buyer certifies that he paid tax at the 6% rate.
+[77] Mr. Subryon testified that all of the Buyers who filed new housing rebates in 2010 in respect of their purchase of Condos Units pursuant to the Pre-November Agreements of Purchase and Sale claimed the rebate based upon having paid GST at 6%. This is consistent with the statements of adjustments contained in Exhibits AR-7 and AR-8, which show the new housing rebate being calculated based upon GST payable of 6%.
+[78] On the basis of this evidence, I have concluded that, as a question of fact, the Buyers paid and the Appellant collected GST equal to 6% of the purchase price set out in the statements of adjustments.
+C. Was the GST calculated correctly?
+[79] The last issue the Court will address is the calculation of the amount of tax payable at the 6% GST rate. The Appellant argues that, regardless of the applicable tax rate, both the Appellant’s lawyer and the CRA incorrectly calculated the amount of GST payable by each Buyer.
+[80] I agree with the Appellant’s counsel.
+[81] As discussed, each of the Pre-November Agreements of Purchase and Sale has a specified purchase price. For example, the agreement of purchase and sale for suite 915 states in clause 1.02 that the purchase price is $212,000. [9] Clause 18.08 of the agreement states that the purchase price includes GST. Exhibit AR-8, which is the statement of adjustments for the actual sale of suite 915, notes that the purchaser of suite 915 agreed to pay additional consideration of $1,104.34. The evidence before me is that this additional consideration was for “extras” and included GST. Therefore, the Appellant and the Buyer agreed that the purchaser would pay total consideration of $213,104.34 for suite 915 and the parties agreed that this consideration included GST.
+[82] Subsection 223(1) of the GST Act provides, in part, that when a supplier of a taxable supply makes the taxable supply by way of a written agreement, the supplier must indicate in the agreement of purchase and sale the consideration paid or payable by the recipient for the supply and the tax payable in respect of the supply in a manner that clearly indicates the amount of the tax. Alternatively, the supplier may indicate that the amount paid or payable by the recipient for the supply includes the tax payable in respect of the supply.
+[83] The Appellant elected to use the alternative, namely to indicate that the amount payable by the purchasers includes the tax payable in respect of the supply.
+[84] Pursuant to subsection 165(1), the tax payable in respect of the supply of a Condo Unit was 6% of the value of the consideration for a supply. When a person sells property and services on a tax-included basis, the consideration for the supply is calculated by multiplying the tax-included consideration by the so-called consideration fraction. For example, if the applicable GST rate is 6%, the consideration fraction is 100/106ths. If the applicable rate is 13%, then the consideration fraction is 100/113ths.
+[85] As a result, one would expect the Appellant and the CRA to calculate the consideration as 100/106ths of the agreed $213,104.34 purchase price for suite 915, or $201,041.83. This would result in the Buyer paying tax equal to 6% of $201,041.83 ($12,062.51), for a total amount paid of $213,104.34 (namely the $212,000 tax-included purchase price set out in the agreement of purchase and sale plus the agreed additional tax-included consideration of $1,104.34).
+[86] However, this is not how the Appellant and the CRA calculated the consideration and GST payable. This can be seen from the statement of adjustments at Exhibit AR-8. The statement begins by showing the calculation of what it refers to as the net sales price. This is calculated as follows:
+- The calculation begins with the agreed sales price pursuant to the agreement of purchase and sale, $212,000 (including GST).
+- It then adds additional GST-included consideration of $1,104.34.
+- This resulted in the total agreed consideration of $213,104.34, including GST.
+- However, instead of applying the 100/106ths tax fraction to the agreed tax-included consideration, the Appellant calculated GST based on consideration of $205,223.75. This resulted in GST payable of $12,313.42 (6% of $205,223.75). The $205,223.75 consideration used by the Appellant’s counsel and the CRA together with GST payable of $12,313.42 totals $217,537.17. In other words, the Appellant and the CRA calculated the GST payable based upon total tax-included consideration of $217,537.17, not the $213,104.34 agreed to by the parties.
+[87] The Appellant’s calculation of GST payable overstates the agreed consideration by $4,432.83 ($217,537.17−$213,104.34) and the GST payable by $250.91 ($12,313.42−$12,062.50, or 6/106ths of $4,432.83). The evidence before me is that this error occurred in respect of all of the Buyers of the Condos.
+[88] Mr. Subryon explained that the difference between the tax-included consideration agreed to by the Appellant and the Buyers and the consideration used by the Appellant’s lawyer and the CRA to calculate the GST payable was the GST new housing rebate. Mr. Subryon testified that the CRA and the Appellant’s lawyer treated the new housing rebate as part of the agreed selling price.
+[89] Both the Appellant’s lawyer and the CRA calculated the consideration for purposes of the GST as being the total of the consideration agreed to by the parties, $213,104.34 plus the $4,432.83 GST new housing rebate claimed by the purchaser and assigned to the Appellant. [10] The Appellant’s counsel and the CRA then applied the 100/106ths tax fraction to the $217,537.17 to arrive at consideration of $205,223.75. The GST was then calculated as 6% of the $205,223.75, or $12,313.42.
+[90] I agree with counsel for the Appellant that this calculation is simply not correct. The consideration for the supply pursuant to the agreement of purchase and sale and the additional consideration is $213,104.34. The GST is calculated on the actual consideration for the supply that has been agreed to by the parties. It is not based on the agreed consideration plus the GST rebate that a purchaser may claim if he or she is able to satisfy the relevant rebate conditions at the time of closing.
+[91] Mr. Hirsh testified that the Appellant’s lawyer advised the Appellant that the Pre‑November Agreements of Purchase and Sale do not contain any clauses that allow for an adjustment of the consideration agreed to in clause 1.02 of the agreements. This advice is consistent with my reading of the agreement.
+[92] There is a clause in the Pre-November Agreements of Purchase and Sale that provides that if the purchaser does not qualify for the GST rebate, he or she shall pay to the Appellant the amount of the rebate. If a Buyer makes such a payment, it may constitute consideration. Alternatively, it may constitute a reimbursement of the GST rebate credited to the Buyer on closing. Regardless, there is no evidence before me that any Buyer made a payment to the Appellant in respect of any GST rebate.
+[93] In summary, the statement of adjustments overstates the GST payable at the 6% GST rate. However, since the Appellant collected this additional GST, it was required to add the additional tax to its net tax for the relevant reporting period.
+[94] For the foregoing reasons, the appeal is dismissed with costs to the Respondent.
+Signed at Antigonish, Nova Scotia, this 2nd day of June 2022.
+“S. D’Arcy”
+D’Arcy J.
+CITATION:
+2022 TCC 56
+COURT FILE NO.:
+2017-2035(GST)G
+STYLE OF CAUSE:
+Great Land (Olive) Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto
+DATE OF HEARING:
+November 29 and 30, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+June 2, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Leigh S. Taylor
+Boris Stanislav
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh S. Taylor
+Firm:
+Leigh Somerville Taylor Professional Corporation
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3.
+[2] Exhibit A-4.
+[3] S.C. 2007, c. 35.
+[4] Other than deemed supplies.
+[5] Transcript of November 29, 2021 proceedings, page 8.
+[6] See Department of Finance Technical Notes, May 1990.
+[7] See Department of Finance Explanatory Notes, November 2007.
+[8] See Exhibit A-4, Tabs A and B.
+[9] See Exhibit A-4, Tab A.
+[10] See Exhibit AR-8.

@@ -1,0 +1,197 @@
+Title: International Hi-Tech Industries inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72346/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-198-72346-international-hi-tech-industries-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-06-17
+
+# International Hi-Tech Industries inc. c. La Reine
+
+- Citation: 2014 CCI 198
+- Decision date: 2014-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5347, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+International Hi-Tech Industries inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-17
+Référence neutre
+2014 CCI 198
+Numéro de dossier
+2013-1150(GST)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-1150(GST)G
+ENTRE :
+INTERNATIONAL HI-TECH INDUSTRIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues le 23 avril 2014, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Andrew Sandilands
+Représentants de l’appelante :
+M. Roger Abou-Rached
+M. Douglas Bencze
+Avocat de l’intimée :
+Me Matthew W. Turnell
+ORDONNANCE
+VU les documents produits et les observations formulées par l’avocat de l’appelante, les représentants de l’appelante et l’avocat de l’intimée;
+EN CONSÉQUENCE, LA COUR ORDONNE CE QUI SUIT en conformité avec les motifs de l’ordonnance ci-joints :
+1. la requête en cassation de l’intimée présentée en vertu de l’alinéa 53(3)c) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») est rejetée;
+2. la requête de l’appelante en autorisation d’être représentée par des personnes qui ne sont pas des avocats, présentée en vertu du paragraphe 30(2) des Règles, est rejetée;
+3. l’appel sera continué et, en vertu du paragraphe 29(3) des Règles, l’intitulé de la cause sera modifié de la manière suivante :
+International Hi-Tech Industries Inc.
+par ses créanciers garantis, séquestres en partie et fondés de pouvoir,
+ihi international holdings ltd., Garmeco International Consulting, Garmeco Canada International, IHI Holdings LTD. ET Earthquake Resistant Structures
+appelante,
+et
+Sa MAJESTÉ LA REINE
+intimée.
+4. l’appelante engagera un avocat et l’avocat avisera la Cour de cette nomination dans les 30 jours de la date de la présente ordonnance;
+5. l’intimée aura ensuite 60 jours pour déposer une réponse;
+6. aucuns dépens ne sont adjugés relativement à ces requêtes.
+Signé à Ottawa (Ontario), ce 17e jour de juin 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 24e jour d’octobre 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 198
+Date : 20140617
+Dossier : 2013-1150(GST)G
+ENTRE :
+INTERNATIONAL HI-TECH INDUSTRIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] Il y a deux requêtes dans le présent appel relatif à la TPS : l’une a été déposée par l’intimée en vue de faire casser l’appel en vertu de l’alinéa 53(3)c) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») pour cause d’absence de capacité juridique, tandis que l’autre requête a été déposée par l’appelante, une société, en vue d’obtenir l’autorisation de la Cour d’être représentée par des personnes qui ne sont pas des avocats plutôt que par des avocats, en vertu du paragraphe 30(2) des Règles.
+I. Les faits : [2] Les faits suivants ont été produits en preuve devant la Cour par voie d’affidavits non contestés souscrits par les créanciers et les comptables de l’appelante. L’appelante est une société faillie. Avant la faillite, l’appelante a accordé un contrat de garantie générale générique complet daté du 8 décembre 2001 (le « CGG ») à sa société mère et à d’autres sociétés liées (le « groupe Garmenco »). Fort de la sûreté consentie par le CGG, le groupe Garmenco a avancé à l’appelante près de 6 millions de dollars. L’appel concerne des erreurs que l’Agence du revenu du Canada (l’« ARC ») aurait commises dans le calcul des crédits de taxe sur les intrants (« CTI ») lors d’une vérification de la TPS et de l’établissement de nouvelles cotisations subséquentes.
+[3] Le syndic à la faillite a admis la validité du CGG, il a renoncé au rachat de la sûreté, et il a renoncé à ses droits sur les biens grevés par le CGG. Aux termes d’une ordonnance sur consentement datée du 10 juillet 2013, le juge Pizzitelli de la Cour a accordé à l’appelante une prorogation du délai pour déposer un avis d’appel. Après avoir reçu l’avis d’appel, l’intimée a découvert que le syndic à la faillite n’avait pas [TRADUCTION] « autorisé » la procédure judiciaire que constituait l’appel. Lorsque l’appelante a présenté sa requête en vertu du paragraphe 30(2) à la Cour en vue d’être autorisée à être représentée par des représentants qui ne sont pas des avocats en septembre 2013, l’intimée a fait savoir qu’elle introduirait une requête incidente en cassation de l’appel pour cause d’absence de capacité juridique.
+[4] La Cour est saisie des deux questions suivantes :
+a) L’appelante devrait-elle être autorisée à être représentée par deux personnes qui ne sont pas des avocats?
+b) Les sûretés et autres droits de réalisation des parties garanties énumérés dans le CGG priment-ils le pouvoir d’un syndic de faillite (le « syndic ») d’introduire ou de continuer une instance judiciaire pour le compte de l’actif d’un failli?
+II. Représentation par une personne qui n’est pas un avocat [5] La requête en autorisation d’être représentée par une ou plusieurs personnes qui ne sont pas des avocats est rejetée; l’appelante doit être représentée par avocat. Lors de l’audition de la requête, il était clair que les deux personnes qui souhaitaient être autorisées à agir en qualité de représentantes de l’appelante, M. Bencze et M. Abou-Rached, sont deux témoins des faits bien renseignés dans le contexte de ce qui sera dans une large mesure un appel où les faits et les documents seront au premier plan des débats. Ni l’un ni l’autre n’est administrateur de l’appelante ni ne l’a jamais été. Tous deux ont participé de près aux étapes de la vérification et de l’opposition de la nouvelle cotisation en question, mais ils ont tout de même grandement bénéficié, lors de l’audition de la requête, des services de l’avocat engagé en vertu d’un mandat limité. Tous deux admettent qu’ils ne connaissent pas les rouages de la Cour ni les méthodes qui permettent le mieux de présenter ou de plaider les faits qu’ils possèdent et le droit applicable dans la présente affaire, qui relève du régime de la procédure générale. Une représentation par avocat contribuera à faciliter le travail de la Cour, mais surtout, elle est dans l’intérêt de l’appelante dans le présent appel. En outre, les parties, qui récupéreront les CTI si leur appel est accueilli, n’ont présenté aucun élément de preuve démontrant qu’elles n’avaient pas les moyens d’engager un avocat : Chase Bryant Inc. v. The Queen, 2003 DTC 145.
+III. Capacité juridique d’un créancier garanti pour interjeter appel
+a) La position de l’intimée [6] Dans sa requête en cassation de l’appel, l’intimée soutient que l’appelante était faillie au moment du dépôt de l’avis d’appel, que cette instance judiciaire n’a pas été autorisée ni introduite par le syndic, et que, par conséquent, selon l’alinéa 53(3)c), il n’y a personne d’autre que le syndic qui puisse interjeter un tel appel.
+[7] Selon le raisonnement juridique plus large qui sous-tend la demande de cassation de l’appel de l’intimée, l’effet combiné du paragraphe 301(1.1) et de l’article 306 de la Loi sur la taxe d’accise (la « LTA ») est que quiconque a fait l’objet d’une cotisation peut déposer un avis d’opposition et, lorsque la cotisation est confirmée (ou réputée telle), interjeter appel de cette cotisation. En outre, tous les biens, y compris les choses non possessoires que constituent les CTI, sont définis largement dans la Loi sur la faillite et l’insolvabilité, L.R.C. 1985, ch. B‑3 (la « LFI »). Le pouvoir d’intenter ou de contester une procédure judiciaire (alinéa 30(1)d) de la LFI) se rapportant aux biens qui sont attribués au syndic au moment de la faillite, doit immédiatement « passer et être dévolu au syndic », mais « sous réserve des autres dispositions de la présente loi et des droits des créanciers garantis » (article 71 de la LFI). L’intimée soutient que seul le syndic peut introduire une action (en l’espèce un appel relatif aux CTI) et, si les personnes actuellement devant la Cour n’acceptaient pas l’inaction du syndic consistant à ne pas interjeter un tel appel, elles auraient dû se prévaloir du droit que la loi confère aux créanciers qui n’acceptent pas la réticence d’un syndic en déposant auprès de la Cour suprême de la Colombie-Britannique une demande d’autorisation de l’appel relatif aux CTI (paragraphes 38(1), (2), (3) et (4) de la LFI).
+[8] L’intimée soutient en outre que, selon la jurisprudence, un créancier garanti ne peut pas interjeter appel en son propre nom ni au nom de l’appelante. Un failli non libéré ne peut pas interjeter appel en vertu de la LTA parce que seul le syndic a le pouvoir de le faire, et la nouvelle cotisation faisait par ailleurs partie de l’administration de l’actif de la faillie et devait être traitée dans ce contexte : 475830 Alberta Ltd. c. Canada, [1998] ACI no 805 (QL) au paragraphe 5. Tous les biens qui passent aux mains du syndic et forment l’actif du failli sont assujettis au droit exclusif du syndic, sous réserve de l’article 38 de la LFI, d’interjeter un appel, et le failli ne conserve aucun droit résiduel : 4028490 Canada Inc. c. Canada, [2005] ACI no 95 (QL). Les créanciers lésés peuvent interjeter appel lorsqu’une ordonnance en vertu de l’article 38 est rendue, mais un créancier allégué ne peut pas introduire une action pour modifier la cotisation établie à l’égard d’un contribuable sur le fondement du consentement irréfléchi du contribuable à payer des taxes au détriment allégué d’un créancier; un créancier n’a pas qualité pour contester une cotisation ou une mise à exécution à moins que le contribuable agisse en introduisant l’appel approprié dans les délais prescrits : Nova Ban-Corp Ltd. c. Tottrup, [1989] ACF no 828 (QL) aux paragraphes 1 et 3, à la page 5.
+[9] Par conséquent, sur le fondement de ces précédents judiciaires, en l’absence d’une instruction du syndic en vertu de l’article 37 ou d’une autorisation par ordonnance judiciaire en vertu de l’article 38, l’intimée soutient qu’aucun appel ne peut être interjeté.
+b) Pouvoirs du syndic relativement aux biens visés par le CGG [10] La Cour est manifestement d’accord pour dire que, si l’entité qui cherche à faire valoir les droits d’appel de la contribuable était un créancier ordinaire de l’actif d’un failli, un failli ou un titulaire allégué d’indemnité en vertu d’une réclamation pari passu ou non liquidée, il n’y aurait aucun droit d’interjeter appel en l’absence du consentement du syndic (article 37 de la LFI) ou d’une ordonnance judiciaire (article 38 de la LFI). Toutefois, ces hypothèses ne correspondent pas aux faits de la présente espèce.
+[11] Les personnes qui cherchent à continuer l’appel interjeté en l’espèce cherchent à le faire au titre du CGG, accordé et remis aux créanciers garantis par la faillie avant toute cession ou requête en vertu de la LFI. En outre, conformément à la pratique habituelle, le syndic a examiné, vérifié et approuvé le CGG et ne l’a pas racheté. Tout en affirmant cela dans sa lettre du 5 octobre 2012, le syndic a relaté plusieurs choses : la réception de la réclamation des créanciers garantis, la réception d’une copie du CGG et de la documentation à l’appui, l’évaluation de la réclamation des créanciers garantis en sus de la valeur de l’actif de la faillie, le choix de ne pas racheter la sûreté et, par remise de la sûreté aux créanciers garantis, la confirmation de sa renonciation aux droits de l’actif de la faillie (c’est-à-dire des créanciers ordinaires que le syndic représente) dans [TRADUCTION] « les biens immobiliers et l’équipement énumérés, une certaine poursuite en justice, “les créances” et toute action détenue par la faillie ». En outre, cette renonciation était exprimée de telle sorte que les créanciers garantis puissent [TRADUCTION] « commencer la réalisation comme [ils] l’entend[aient] ». À cet égard, l’intimée affirme que ces éléments de preuve ne sont pas suffisants pour établir une cession précise de la créance ou des créances que représentent les CTI, à tout le moins de manière à conférer le droit de commencer ou de continuer l’appel.
+[12] La Cour est d’accord pour dire que le syndic n’a pas autorisé expressément l’introduction du présent appel, qu’il n’a pas dressé une liste des créances cédées et qu’il n’a pas autorisé le dépôt d’un avis d’appel, mais la Cour n’est pas d’accord avec l’intimée quant au motif. Le syndic n’avait pas de droits sur la chose non possessoire que constituent les CTI. En outre, la cession expresse de la chose non possessoire que, d’après l’intimée, les créanciers garantis auraient dû obtenir du syndic serait une fiction juridique : nemo dat quod non habet. Le syndic pouvait tout au plus évaluer la sûreté, exprimer l’avis qu’il l’acceptait, confirmer qu’elle primait ses propres droits et faire savoir que le syndic renonçait aux actifs grevés et cédés et les remettait à leurs propriétaires légitimes, les créanciers garantis, à qui la faillie et, par extension, le syndic, avait cédé auparavant ses droits. C’est précisément ce que le syndic a fait et pourquoi le syndic n’a pas autorisé ni ne pouvait légalement autoriser la formation du présent appel.
+c) Pouvoir suffisant aux termes du CGG pour introduire un appel? [13] Il y a toutefois une question essentielle qui reste à trancher : le CGG confère-t-il suffisamment de pouvoir pour introduire et continuer l’appel eu égard aux Règles, à la LTA et à la LFI?
+[14] Les extraits suivants du CGG aideront à effectuer cette analyse (non souligné dans l’original) :
+[TRADUCTION]
+1. Sûreté
+À titre de sûreté pour garantir le paiement et l’exécution des obligations (définies au paragraphe 3), sous réserve des exceptions énoncées au paragraphe 2, la débitrice :
+1.1 Confère à la partie garantie une sûreté dans tous les biens personnels actuels et futurs de la débitrice et elle les hypothèque, grève d’une charge, transfert et cède absolument, de même que tous les biens personnels dans lesquels la débitrice a des droits, de quelque nature que ce soit, et où qu’ils se trouvent, notamment, tous les biens suivants dont la débitrice est actuellement propriétaire ou dont elle sera propriétaire ou qu’elle acquerra à l’avenir ou qui seront détenus ou acquis pour son compte à l’avenir :
+[…]
+b) l’ensemble des comptes créditeurs et des comptes débiteurs et, de manière générale, les comptes, dettes, droits, créances, choses non possessoires, […] qui sont maintenant dus à la débitrice ou exigibles ou échus ou à échoir à son crédit ou qu’elle détient maintenant ou qui pourraient devenir dus à la débitrice ou accumuler ou échoir à son crédit ou qu’elle pourrait détenir à l’avenir […]
+c) […] toutes les autres choses non possessoires de quelque nature de la débitrice qui sont dues ou exigibles par la débitrice ou qui pourraient devenir dues ou exigibles par celle‑ci, et tous les autres biens intangibles de la débitrice
+[…]
+h) tous les produits, […]
+(i) tous les […] écrits, documents, livres comptables et autres livres et données électroniques relatifs à l’un quelconque des éléments susmentionnés ou au moyen desquels l’un quelconque des éléments susmentionnés est garanti, prouvé, reconnu ou rendu exigible ou pourrait l’être à l’avenir.
+[…]
+11. Recouvrement de créances
+[…] la partie garantie peut aviser de la sûreté les débiteurs de comptes dus à la débitrice et peut également donner instruction à ces débiteurs d’effectuer tout paiement sur des biens donnés en garantie que la débitrice a reçus de débiteurs de comptes, que ce soit avant ou après que les débiteurs de comptes aient été avisés de cette sûreté, et que ce soit avant ou après un manquement au présent contrat, seront reçus et détenus en fiducie par la débitrice pour la partie garantie.
+[…]
+22. Nomination de fondé de pouvoir et acte
+22.1 La débitrice nomme irrévocablement la partie garantie ou le séquestre, selon le cas, avec pleins pouvoirs de substitution, comme fondé de pouvoir de la débitrice pour elle et en son nom, aux fins de signer, endosser ou signer sous scellé ou autrement tout acte, document, transfert, chèque, instrument, demande, cession, assurance ou consentement que la débitrice est obligée de signer ou d’endosser ou qui est accessoire à l’exercice des pouvoirs conférés à la partie garantie ou au séquestre, selon le cas, aux termes du présent contrat.
+[…]
+34.1 La débitrice autorise la partie garantie à déposer les états de financement, les états modificatifs de financement et autres documents, et à poser tous les actes, s’occuper de toutes les affaires et faire toutes les choses que la partie garantie estime indiqués pour parfaire en permanence et maintenir la sûreté, pour protéger et préserver les biens donnés en garantie et pour réaliser la sûreté.
+[15] La libération par le syndic de ses droits sur les biens grevés et cédés conformément au CGG reconnaît pleinement la distinction maintenue dans la LFI entre les créanciers ordinaires, non garantis, et les créanciers garantis : tous deux sont définis et employés séparément dans les dispositions de la LFI relatives aux définitions. Cette distinction est également maintenue à l’article 37 (droits des faillis et des créanciers ordinaires lésés), à l’article 38 (droit des créanciers d’obtenir une ordonnance judiciaire), à l’article 70 (priorité des ordonnances de faillite sur les droits des créanciers, à l’exclusion des droits des créanciers garantis), l’article 71 (dévolution de biens au syndic sous réserve des droits des créanciers garantis) et au paragraphe 72(1) (la LFI n’a pas pour effet d’abroger ou de remplacer les dispositions d’une autre loi ou règle de droit concernant la propriété et les droits civils, non incompatibles).
+[16] En outre, tous les précédents judiciaires invoqués par l’intimée concernaient des tentatives d’appels par des faillis, des créanciers ordinaires ou des titulaires allégués de réclamations non liquidées contre l’actif du failli. Aucun de ces précédents ne concernait un créancier garanti, titulaire d’une sûreté valide, authentifiée et libérée par un syndic dans le contexte d’un actif de faillite dûment administré. Les comptes débiteurs et les choses non possessoires présents et futurs de l’appelante ont été cédés aux créanciers garantis. Les créanciers garantis devaient prendre possession de tous les documents comptables présents et futurs, y compris les déclarations de TPS, ils avaient le pouvoir de donner instruction de payer ces dettes aux créanciers garantis en cas de manquement, et ils étaient nommés fondés de pouvoir pour faire toutes les choses nécessaires en vue d’exercer tous ces pouvoirs accessoires au nom de l’appelante.
+[17] L’avocat de l’intimée soutient que seul un syndic de faillite ou un séquestre mentionné à la LTA peut agir comme mandataire pour donner suite à un appel, en vertu des définitions énoncées à la LTA. La Cour aurait vraisemblablement conclu en l’espèce que la cession antérieure des créances comptables (choses non possessoires) aux termes du CGG a autrement valablement transféré les droits sur les biens admissibles énumérés à l’article 301 (la personne qui fait l’objet d’une cotisation peut faire opposition) et à l’article 306 (la personne qui fait opposition et qui reçoit ou est réputée recevoir une confirmation peut interjeter appel), néanmoins, une lecture attentive de la définition de « séquestre » à l’article 266 de la LTA indique que le législateur a prévu qu’un séquestre pourrait être un mandataire d’un débiteur relativement à une partie des biens en même temps que l’actif d’un failli est administré par un syndic de faillite. Les extraits pertinents de cet article sont ainsi rédigés (non souligné dans l’original) :
+266. (1) Les définitions qui suivent s’appliquent au présent article.
+« actif pertinent »
+“relevant assets”
+« actif pertinent »
+a) Si le pouvoir d’un séquestre porte sur l’ensemble des biens, des entreprises, des affaires et des éléments d’actif d’une personne, cet ensemble;
+b) si ce pouvoir ne porte que sur une partie des biens, des entreprises, des affaires et des éléments d’actif d’une personne, cette partie.
+« entreprise »
+“business”
+« entreprise » Est assimilée à une entreprise une partie de l’entreprise.
+« séquestre »
+“receiver”
+« séquestre » Personne qui, selon le cas :
+a) par application d’une obligation ou autre titre de créance, de l’ordonnance d’un tribunal ou d’une loi fédérale ou provinciale, a le pouvoir de gérer ou d’exploiter les entreprises ou les biens d’un tiers;
+[…]
+(2) Dans le cas où un séquestre est investi, à une date donnée, du pouvoir de gérer, d’exploiter ou de liquider l’entreprise ou les biens d’une personne, ou de gérer ses affaires et ses éléments d’actif, les règles suivantes s’appliquent aux fins de la présente partie :
+a) le séquestre est réputé agir à titre de mandataire de la personne, et tout bien ou service qu’il fournit ou reçoit, et tout acte qu’il accomplit, relativement à l’actif pertinent, sont réputés fournis, reçus et accomplis à ce titre;
+[…]
+[18] En droit, « autre titre de créance » engloberait le CGG, qui prévoit de vastes pouvoirs pouvant être conférés à une partie garantie ou un mandataire pour agir à titre de séquestre aux fins de la réalisation à l’égard de types divers et limités de biens. C’est ce qui s’est produit en fait et en droit en l’espèce. En outre, il n’y a aucun précédent judiciaire qui donnerait à penser que cette interprétation logique n’est pas correcte. L’intimée a relevé qu’un tel « séquestre » pourrait, en droit, être un mandataire de l’appelante aux fins de faire opposition et d’interjeter appel en vertu de la LTA. La Cour souscrit à ce point de vue, et elle estime qu’un créancier garanti, agissant comme « séquestre » à l’égard d’une partie des biens du débiteur conformément à « titre de créance », devient un mandataire en vertu du paragraphe 266(1), et il ne lui est pas interdit de faire opposition à une cotisation ou une nouvelle cotisation de TPS relativement à certains biens cédés (les créances comptables) et d’interjeter par la suite l’appel qui s’ensuit.
+[19] De même, le libellé clair du pouvoir exclusif accordé au syndic à l’alinéa 30(1)d) de la LFI en matière de litiges limite clairement ce pouvoir aux biens du failli :
+30. (1) Avec la permission des inspecteurs, le syndic peut :
+d) intenter ou contester toute action ou autre procédure judiciaire se rapportant aux biens du failli;
+[20] En l’absence de toute jurisprudence contraire directement applicable, la cession antérieure des droits de la faillie sur certains biens aux créanciers garantis, reconnue par le syndic, soustrait les biens visés à ce paragraphe au pouvoir du syndic : suite à la cession, il ne s’agit plus des « biens du failli ». Cela s’accorde également avec les précédents judiciaires invoqués par l’intimée qui traitent exclusivement de l’interdiction faite aux créanciers et aux faillis (mais non aux créanciers garantis) d’intenter des procédures judiciaires alors que leurs biens sont par ailleurs dévolus au syndic en vertu de la loi, et qui exigent le consentement du syndic ou une ordonnance de la Cour supérieure pour intenter une procédure judiciaire.
+[21] Tous ces droits de propriété, d’exécution et de réalisation sont clairement visés à l’article 29 des Règles, qui est ainsi rédigé (non souligné dans l’original) :
+Transfert ou transmission d’intérêt
+29. (1) Lorsque l’intérêt ou la responsabilité d’une partie à l’instance est transféré ou transmis à une autre personne en raison d’une cession, d’une faillite, d’un décès ou de toute autre cause, à tout moment de l’instance, nulle autre procédure ne peut être engagée avant que le greffier ne soit avisé du transfert ou de la transmission, ainsi que des modalités qui s’y rapportent.
+(2) Sur réception de l’avis dont il est fait mention au paragraphe (1), le greffier consulte les parties concernant les circonstances dans lesquelles l’instance doit être continuée et fait rapport de ces consultations au juge en chef.
+(3) Le juge en chef ou un juge désigné par lui pour traiter de l’affaire peut donner une directive de continuer l’instance ou toute autre directive qui lui semble appropriée.
+[22] En droit, les créanciers garantis seraient les seules parties qui auraient droit à toute somme au titre des CTI qui résulterait d’un appel accueilli. Il est certain au plan juridique qu’aucune autre partie n’y aurait droit : le syndic a déjà confirmé cela, en tant que seule autre partie titulaire de droits, en libérant les biens grevés par le CGG en faveur des créanciers garantis. Puisque les créanciers garantis conservent ce droit en raison de la cession valide opérée conformément au CGG, l’article 29 confère à la Cour le pouvoir de déterminer suivant quelle procédure ces droits valides subsistants dans les choses non possessoires que constituent les CTI allégués exigibles exclusivement de l’intimée pourront être revendiqués dans un appel auprès de la Cour.
+[23] Par conséquent, compte tenu du CGG, authentifié par le syndic comme conférant des droits prioritaires dans les biens donnés en garantie (dont les CTI), et compte tenu de la remise par le syndic aux créanciers garantis des biens donnés en garantie par voie de renonciation à toutes les réclamations des autres créanciers par le syndic, les créanciers garantis peuvent continuer l’appel devant la Cour afin qu’il soit entendu sur le fond. Par conséquent, la requête en cassation de l’intimée est rejetée. En vertu du pouvoir discrétionnaire que le paragraphe 29(3) des Règles confère à la Cour, l’avis de cession a été donné et prouvé, l’appel sera continué, et l’intitulé de la cause sera modifié de la manière suivante :
+International Hi-Tech Industries Inc.
+par ses créanciers garantis, séquestres en partie et fondés de pouvoir,
+ihi international holdings ltd., Garmeco International Consulting, Garmeco Canada International, IHI Holdings LTD. ET Earthquake Resistant Structures
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[24] L’appelante sera représentée par un avocat. Cet avocat doit aviser la Cour par écrit de sa nomination dans les 30 jours suivant la date de la présente ordonnance. L’intimée aura ensuite 60 jours pour déposer une réponse.
+[25] Compte tenu du rejet des deux requêtes, il n’y aura aucune adjudication de dépens.
+Signé à Ottawa (Ontario), ce 17e jour de juin 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 24e jour d’octobre 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 198
+NO DU DOSSIER DE LA COUR :
+2013-1150(GST)G
+INTITULÉ DE LA CAUSE :
+INTERNATIONAL HI-TECH INDUSTRIES INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 23 avril 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 17 juin 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Andrew Sandilands
+Représentants de l’appelante :
+M. Roger Abou-Rached
+M. Douglas Bencze
+Avocat de l’intimée :
+Me Matthew Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

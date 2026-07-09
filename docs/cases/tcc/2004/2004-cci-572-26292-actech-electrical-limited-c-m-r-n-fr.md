@@ -1,0 +1,267 @@
+---
+title: "Actech Electrical Limited c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26292/index.do"
+last_modified: "2004-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 572"
+citation2: ""
+neutral_citation: "2004 CCI 572"
+decision_date: "2004-08-19"
+language: "fr"
+item_id: "26292"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3304
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:07:48.286000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89305d4ce09392b03f2526c27e6cb2f0663214552733532178029b9d4dc6b7d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Actech Electrical Limited c. M.R.N.
+
+- Citation: 2004 CCI 572
+- Decision date: 2004-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3304, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Actech Electrical Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-19
+Référence neutre
+2004 CCI 572
+Numéro de dossier
+2003-1939(EI)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003-1939(EI)
+ENTRE :
+ACTECH ELECTRICAL LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Grace Bunting (2003‑1940(EI)), d’Action Electrical Ltd. (2003-1941(EI)) et de Blake Bunting (2003‑1942(EI)) le 18 février 2004, à Edmonton (Alberta),
+Devant L’honorable M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Deryk Coward
+Avocat de l’intimé :
+Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi et portant sur la période allant du 1er janvier au 31 décembre 2001 est rejeté et la décision du ministre du Revenu national concernant l’appel dont il a été saisi conformément à l’article 92 de cette Loi est confirmée.
+Signé à Ottawa, Canada, ce 19e jour d’août 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 24e jour de mai 2005.
+Lucie Roberge, traductrice
+Dossier : 2003-1940(EI)
+ENTRE :
+GRACE BUNTING,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels d’Actech Electrical Limited (2003‑1939(EI)), d’Action Electrical Ltd. (2003-1941(EI)) et de Blake Bunting (2003‑1942(EI)) le 18 février 2004, à Edmonton (Alberta),
+Devant L’honorable M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Deryk Coward
+Avocat de l’intimé :
+Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi et portant sur la période allant du 1er janvier au 31 décembre 2001 est rejeté et la décision du ministre du Revenu national concernant l’appel dont il a été saisi conformément à l’article 91 de cette Loi est confirmée.
+Signé à Ottawa, Canada, ce 19e jour d’août 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 24e jour de mai 2005.
+Lucie Roberge, traductrice
+Dossier : 2003-1941(EI)
+ENTRE :
+ACTION ELECTRICAL LTD.,
+appelante,
+Et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels d’Actech Electrical Limited (2003-1939(EI)), de Grace Bunting (2003-1940(EI)) et de Blake Bunting (2003‑1942(EI)) le 18 février 2004, à Edmonton (Alberta),
+Devant L’honorable M.A. Mogan
+Comparutions :
+Avocat de l’appelante :
+Deryk Coward
+Avocat de l’intimé :
+Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi et portant sur la période allant du 1er janvier au 31 décembre 2001 est rejeté et la décision du ministre du Revenu national concernant l’appel dont il a été saisi conformément à l’article 92 de cette Loi est confirmée.
+Signé à Ottawa, Canada, ce 19e jour d’août 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 24e jour de mai 2005.
+Lucie Roberge, traductrice
+Dossier : 2003-1942(EI)
+ENTRE :
+BLAKE BUNTING,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels d’Actech Electrical Limited (2003‑1939(EI)), de Grace Bunting (2003-1940(EI)) et d’Action Electrical Ltd. (2003‑1941(EI)) le 18 février 2004, à Edmonton (Alberta),
+Devant L’honorable M.A. Mogan
+Comparutions :
+Avocat de l’appelant :
+Deryk Coward
+Avocat de l’intimé :
+Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi et portant sur la période allant du 1er janvier au 31 décembre 2001 est rejeté et la décision du ministre du Revenu national concernant l’appel dont il a été saisi conformément à l’article 91 de cette Loi est confirmée.
+Signé à Ottawa, Canada, ce 19e jour d’août 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 24e jour de mai 2005.
+Lucie Roberge, traductrice
+Référence : 2004TCC572
+Date : 20040819
+Dossier : 2003-1939(EI), 2003-1940(EI)
+2003-1941(EI), 2003-1942(EI)
+ENTRE :
+ACTECH ELECTRICAL LIMITED, GRACE BUNTING,
+ACTION ELECTRICAL LTD. et BLAKE BUNTING,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Les appels dans les affaires Actech Electrical Limited c. Ministre du Revenu national (dossier 2003-1939), Grace Bunting c. Ministre du Revenu national (dossier 2003-1940), Action Electrical Ltd. c. Ministre du Revenu national (dossier 2003-1941) et Blake Bunting c. Ministre du Revenu national (dossier 2003-1942) ont été entendus ensemble sur preuve commune. Les appels interjetés par Actech Electrical Limited (« Actech ») et par Grace Bunting sont liés pour les motifs suivants : (i) pendant toute la période pertinente, Grace Bunting était à l’emploi d’Actech; (ii) la question commune consiste à déterminer si l’emploi de Grace Bunting chez Actech était un emploi assurable aux fins de la Loi sur l’assurance-emploi (la « Loi sur l’AE » ). De même, les appels interjetés par Action Electrical Ltd. (« Action ») et Blake Bunting sont liés pour les motifs suivants : (i) pendant toute la période pertinente Blake Bunting était à l’emploi d’Action; (ii) la question commune consiste à déterminer si l’emploi de Blake Bunting chez Action était un emploi assurable aux fins de la Loi sur l’AE.
+[2] Actech et Action sont toutes les deux des filiales en propriété exclusive de Bunting Holdings Limited (« BHL »). Donald Bunting possède 67 % des actions émises de BHL et sa femme, Grace Bunting, 33 %. Donald et Grace Bunting ont trois fils : Damon, Brad et Blake. Actech et Action sont toutes les deux des firmes d’entrepreneurs en électricité. Grace Bunting travaille dans l’entreprise familiale depuis de nombreuses années. Blake Bunting travaille pour Action depuis 1996. Avant 2001, Grace Bunting et Actech considéraient que son emploi était un emploi assurable aux termes de la Loi sur l’AE et les cotisations étaient versées en conséquence. De plus, Blake Bunting et Action considéraient que son emploi était un emploi assurable aux termes de la Loi sur l’AE et les cotisations étaient versées en conséquence. À compter de 2001, les quatre appelants (Grace Bunting, Actech, Blake Bunting et Action) ont adopté comme position que ni Grace Bunting ni Blake Bunting n’occupait un emploi assurable aux fins de la Loi sur l’AE
+[3] L’article 5 de la Loi sur l’AE est la principale disposition concernant l’« emploi assurable ». Je vais reproduire ici les parties de l’article 5 que je considère comme les plus pertinentes aux fins du règlement de ces quatre appels.
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) […]
+…
+5(2) N’est pas un emploi assurable :
+a) l’emploi occasionnel à des fins autres que celles de l’activité professionnelle ou de l’entreprise de l’employeur;
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+c) […]
+…
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i),
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Les parties conviennent que, pendant toute la période pertinente, Grace Bunting et Actech avaient un lien de dépendance et Blake Bunting et Action avaient un lien de dépendance. Les appelants se sont fondés sur l’alinéa 5(3)b) pour soutenir que ni Grace ni Blake Bunting n’occupait un emploi assurable au cours de 2001.
+Les faits – Grace Bunting
+[5] Le seul témoin à l’audience a été Donald Bunting, mari de Grace Bunting, père de Blake Bunting et actionnaire contrôlant de BHL. Donald Bunting est né en 1943. En vertu du programme d’apprentissage de l’Alberta, il s’est inscrit comme apprenti auprès d’un électricien qualifié; il a travaillé ainsi pendant un certain nombre d’années, puis il est devenu compagnon électricien en 1968 et maître-électricien en 1970. Donald et Grace Bunting vivaient à Sherwood Park (une banlieue d’Edmonton) en 1973 lorsque M. Bunting a décidé de lancer sa propre entreprise. Il a constitué Action en personne morale et il a commencé à travailler de chez lui. Grace Bunting a participé dès le début aux activités de la compagnie, s’occupant de l’administration pendant que son mari faisait les travaux d’électricité.
+[6] Action a connu du succès dès le départ. Donald Bunting a fait fructifier son entreprise au cours des ans jusqu’en 2001 où Action et Actech employaient entre 60 et 65 personnes. Lorsque Donald Bunting a décidé d’étendre ses activités en Colombie-Britannique, il a constitué Actech en personne morale dans cette province pour qu’elle exerce les mêmes activités qu’Action en Alberta. Action et Actech n’oeuvrent pas dans le domaine résidentiel (maisons et résidences individuelles). Elles prennent des contrats d’électricité pour des établissements commerciaux et industriels, des institutions, des hôtels et des immeubles d’habitation. Bien qu’Actech exerce ses activités uniquement en Colombie-Britannique, elle est gérée et administrée à partir de l’établissement d’Action situé au 7931, chemin Coronet à Edmonton (Alberta). Selon Donald Bunting, il s’agit du siège social de son entreprise et toute référence au « bureau » ou à toute installation semblable concerne l’établissement situé au 7931, chemin Coronet.
+[7] Je vais d’abord examiner l’emploi de Grace Bunting à Actech. Le titre de son poste est [traduction] « secrétaire-trésorière », mais sur sa carte d’affaires, il est écrit « adjointe administrative ». Elle a son bureau au rez-de-chaussée du 7931, chemin Coronet. Donald Bunting est président d’Action et d’Actech et il remplit les fonctions de directeur de bureau à cette même adresse. Faye Atkinson était contrôleuse de gestion d’Action et d’Actech en 2001, mais elle a quitté cet emploi en septembre 2002, et une femme que Donald Bunting a appelé « Betty » était la nouvelle contrôleuse au moment de l’audience. Il y a quatre employés du soutien administratif qui relèvent de Donald et Betty, toutes des femmes, et Donald les a désignées ainsi : Grace, Audrey C., Linda et Audrey K. Il est nécessaire de décrire brièvement, de façon générale d’après le témoignage de Donald Bunting, les tâches exécutées par les femmes mentionnées dans le présent paragraphe.
+[8] Bien que le nom de Grace Bunting figure actuellement sur la liste de paye d’Actech, elle travaille dans la compagnie de Donald Bunting depuis que celui-ci a créé sa propre entreprise en 1973. Comme il a été mentionné ci-dessus, elle a commencé par exécuter les tâches administratives (facturer les clients, payer les fournisseurs, s’occuper des opérations bancaires, etc.) pendant qu’il faisait les travaux d’électricité. En 2001, elle a reçu un salaire d’environ 600 $ par semaine calculé d’après un taux de 15 $ l’heure pour 40 heures. Il est établi toutefois que Mme Bunting ne travaillait pas 40 heures par semaine en 2001 parce qu’elle ne venait pas au bureau les mercredis. Elle travaillait les lundis, mardis, jeudis et vendredis et avait des heures d’arrivée et de départ très souples. Donald Bunting a déclaré que Grace venait en général au bureau vers 9 h 30 et partait vers 17 h. Comme elle recevait un salaire fixe, elle n’avait pas besoin d’inscrire ses heures. Elle a le pouvoir de signer à l’égard de tous les chèques qui peuvent être émis par Action et Actech. Elle s’occupe de quelques opérations bancaires et va chercher des plans de la firme d’ingénierie en se rendant au travail. Grace et Donald Bunting téléphonent s’ils doivent arriver en retard un jour où on les attend au bureau. Mme Bunting a une voiture de l’année 1993 dont elle est propriétaire, mais Action paie pour l’essence et l’entretien.
+[9] Chaque été pendant trois semaines, Mme Bunting n’est pas au bureau parce qu’elle travaille à un camp d’été organisé par son Église. De plus, elle prend trois semaines de congé à un autre moment au cours de l’année pour aller en vacances avec son mari, Donald. Lorsqu’elle est au bureau, elle et Audrey C., Linda et Audrey K. se partagent les tâches administratives. Celles-ci comprennent taper des propositions et des contrats; stocker et retrouver des renseignements commerciaux sur l’ordinateur; répondre au téléphone; faire des photocopies; remplacer l’une ou l’autre des trois autres adjointes administratives lorsqu’elle s’absente ou prend sa pause repas. Linda Schofield s’occupe de la paie et elle est responsable du programme d’apprentissage. Lorsque celle-ci prend ses vacances, c’est Mme Bunting qui fait les feuilles de paie et elle commence une semaine ou deux avant le départ de Linda pour être certaine d’appliquer les bons taux de salaire et de faire les bonnes retenues.
+[10] Donald et Grace Bunting ainsi que Betty (la contrôleuse) sont les seules personnes du bureau qui n’ont pas de feuille de temps. Cette dernière reçoit un salaire calculé d’après un taux de 15 $ l’heure pour une semaine de 40 heures. Donald Bunting a dit qu’au moyen de l’ordinateur du bureau, il est possible de prendre n’importe quel salaire et de le convertir en taux horaire sur une période de 80 heures, soit la période de paye de deux semaines. Les trois autres membres du personnel administratif (Audrey C., Linda et Audrey K.) étaient toutes rémunérées au taux de 12 $ l’heure. Audrey C. traitait les factures des fournisseurs tandis qu’Audrey K. (employée à temps partiel) s’occupait des comptes débiteurs et des comptes créditeurs. Audrey K. recevait 10 $ de plus toutes les deux semaines pour ses déplacements à la banque.
+[11] La pièce A-2 est une copie d’un accord de prêt entre Action et l’Alberta Treasury Branches (« ATB ») daté du 4 octobre 2001 dans lequel Donald et Grace Bunting offrent chacun une garantie permanente limitée d’un montant de 200 000 $ concernant un prêt et une marge de crédit accordés à Action. Selon moi, la garantie offerte par Mme Bunting aux ATB ne constitue pas une de ses modalités d’emploi (au sens de l’alinéa 5(3)b) de la Loi sur l’AE) mais découle du fait qu’elle est la femme de Donald Bunting et qu’elle possède le tiers des actions de BHL, la société mère d’Action.
+Analyse
+[12] Les appels de Grace Bunting et d’Actech sont fondés sur leur prétention commune que la première n’occupait pas un emploi assurable en 2001. Comme il est déclaré au paragraphe 4 ci-dessus, il est convenu que Mme Bunting et Actech avaient un lien de dépendance. Par conséquent, d’après le sens ordinaire de l’alinéa 5(2)i), l’emploi de Grace Bunting chez Actech n’est pas un emploi assurable. Cependant, en application de l’alinéa 5(3)b), Grace Bunting et Actech sont « réputés ne pas avoir de lien de dépendance » si le ministre du revenu national (le « ministre ») est convaincu que, compte tenu de certaines circonstances, « il est raisonnable de conclure, […] qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance ».
+[13] Il est depuis longtemps établi que le ministre peut déterminer conformément à l’alinéa 5(3)b) si un certain emploi est assurable dans le cas particulier où un employeur et un employé qui ont un lien de dépendance croient tous les deux que l’emploi est assurable et où les cotisations sont versées en conséquence. La décision du ministre en vertu de l’alinéa 5(3)b) est décrite comme l’exercice du « pouvoir discrétionnaire » du ministre, mais il s’agit encore d’une décision fondée sur des faits et sur le droit. Voir Canada (Procureur général) c. Jencan Ltd., [1998] 1 C.F. 187 et les affaires qui y sont citées. Dans certains appels récents interjetés devant la présente Cour, les appelants ont demandé si le ministre pouvait déterminer en vertu de l’alinéa 5(3)b) si un certain emploi était assurable lorsque l’employeur et l’employé ayant un lien de dépendance croient tous les deux que l’emploi n’est pas un emploi assurable et qu’aucune cotisation n’a été versée. C’est la question précise soulevée dans ces appels.
+[14] L’avocat des appelants s’est fondé sur l’historique législatif de l’alinéa 5(3)b) pour soutenir que celui-ci est purement correctif en ce sens qu’il permet à une travailleuse (ayant un lien avec l’employeur) de prouver à la satisfaction du ministre que son emploi devrait être un emploi assurable malgré l’existence de ce lien. Pour appuyer cet argument, il a cité le passage suivant des motifs du juge du juge Marceau dans l’arrêt Pérusse c. Canada, (2000) A.C.F. no 310 :
+5 Lorsque le Parlement décida, en 1989, d’amenuiser la règle de principe et “irrémédiable” qui excluait, des emplois assurables, tout emploi d’une personne au service de son conjoint (ancien alinéa 3(2)c)), il choisit de le faire en modifiant sa technique législative de façon à rendre l’exclusion de principe remédiable. …
+[15] Dans une récente décision de la présente Cour (C&B Woodcraft Ltd. et M.N.R., 2004TCC477), mon collègue, le juge Woods, a résumé l’historique législatif de l’alinéa 5(3)b) :
+10 L’historique législatif donne à entendre que l’alinéa 5(3)b) a été édicté afin d’accorder une réparation de façon qu’une personne ne se voie pas refuser des prestations d’emploi à moins que le refus ne puisse être justifié pour une raison autre que la relation existant entre les parties. Avant que l’alinéa 5(3)b) ait été édicté en 1990, une personne qui était employée par un conjoint était tout simplement exclue du régime d’assurance-emploi. Dans l’arrêt Canada c. Druken, [1989] 2 C.F. 24 (C.A.F.), il a été statué que cette exclusion était discriminatoire et contraire à la Loi sur les droits de la personne. La disposition a donc été radiée et jugée inopérante. L’arrêt Druken a entraîné la modification de la législation peu de temps après. La nouvelle disposition, maintenant alinéa 5(3)b), fait en sorte qu’une personne ne se voie pas refuser des prestations d’emploi si les modalités d’emploi sont à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance.
+[16] Pour revenir à l’argument de l’avocat des appelants, je suis certain que le Parlement voulait que l’alinéa 5(3)b) soit une mesure corrective à la suite de l’arrêt Druken de la Cour d’appel fédérale. Cependant, il ne s’ensuit pas nécessairement que l’alinéa 5(3)b) est un moyen à sens unique qui permet au ministre d’établir qu’un employé ayant un lien de dépendance occupe un emploi assurable lorsque c’est la conclusion que désire l’employé mais qui empêche le ministre de rendre la même décision dans les cas où un tel employé ne désire pas cette conclusion. Selon moi, la Loi sur l’AE est exceptionnelle parce que d’une part, elle peut être considérée comme une loi fiscale qui permet la perception de cotisations aux fins de la constitution d’un fonds (voir les articles 67, 68, 82 à 85, 92 et 103), tandis que d’autre part, elle peut être considérée comme une loi sociale qui accorde des prestations à des personnes sans emploi (voir l’article 7 et les suivants). En ce qui concerne la Loi sur l’AE en tant que loi fiscale, je suis influencé par les dispositions suivantes :
+67 Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66, 66.1, 66.2 ou 66.3, selon le cas.
+68 Sous réserve des articles 69 et 70, la cotisation patronale qu’un employeur est tenu de verser correspond à 1,4 fois la cotisation ouvrière de ses employés qu’il est tenu de retenir au titre du paragraphe 82(1).
+82.(1) L’employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution, au titre de la cotisation ouvrière payable par cet assuré en vertu de l’article 67 pour toute période à l’égard de laquelle cette rétribution est payée, un montant déterminé conformément à une mesure d’ordre réglementaire et de le verser au receveur général avec la cotisation patronale correspondante payable en vertu de l’article 68, au moment et de la manière prévus par règlement.
+85(1) Le ministre peut établir une évaluation initiale, une évaluation révisée ou, au besoin, des évaluations complémentaires de ce que doit payer un employeur, et le mot « évaluation », lorsqu’il est utilisé dans la présente loi pour désigner une initiative ainsi prise par le ministre en vertu du présent article, s’entend également de l’évaluation révisée ou complémentaire.
+92 Lorsque le ministre a évalué une somme payable par un employeur au titre de l’article 85, l’employeur peut, dans les quatre-vingt dix jours suivant la date à laquelle il reçoit l’avis d’évaluation, demander au ministre de reconsidérer l’évaluation quant à la question de savoir s’il y a matière à évaluation ou quel devrait être le montant de celle-ci.
+103(1) La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[17] L’alinéa 5(3)b) autorise clairement le ministre à rendre une décision (selon ce que les tribunaux ont qualifié de « pouvoir discrétionnaire du ministre ») dans les cas où l’employeur et l’employé ont un lien de dépendance; toutefois, je ne vois rien dans le texte de ce paragraphe qui restreint les circonstances dans lesquelles le ministre peut rendre une décision si la condition fondamentale est présente : c’est-à-dire si l’employeur et l’employé ont un lien de dépendance. Par conséquent, je rejette l’argument des appelants portant qu’un obstacle empêche le ministre de conclure, dans certaines situations, qu’un emploi entre un employeur et un employé ayant un lien de dépendance est un emploi assurable lorsque l’une des parties ou les deux sont d’avis que cet emploi n’est pas un emploi assurable.
+[18] Je reviens à l’emploi de Grace Bunting chez Actech. Le principal fait est le suivant : en 2001, il y avait 28 ans qu’elle était au service de l’entreprise, soit depuis sa création. Elle est l’épouse du fondateur et elle est propriétaire du tiers des actions. Elle est expérimentée, fiable et responsable. Son fils, Blake, travaille dans l’entreprise en tant qu’héritier manifeste. Bien qu’elle n’ait pas témoigné, je conclus qu’elle a un intérêt profond et constant pour la prospérité et la survie de l’entreprise familiale. Sa rémunération d’environ 30 000 $ par année n’est pas d’un niveau déraisonnablement élevé ou bas par rapport aux autres membres du personnel administratif. Les privilèges dont elle bénéficie relativement à l’entretien de sa voiture et à la souplesse de son horaire sont le genre de privilèges qui pourraient être acquis par tout employé de longue date sans lien de dépendance dans une entreprise familiale si cet employé était expérimenté, fiable et responsable. Pour ce qui est de la durée et de l’importance de son travail, Donald Bunting a déclaré qu’il cessait de travailler si Mme Bunting devrait embaucher quelqu’un pour la remplacer.
+[19] Dans une entreprise familiale, il y a souvent des différences mineures entre les conditions d’emploi d’un membre de la famille et celles de quelqu’un d’autre qui fait un travail comparable, cependant, tout membre responsable de la famille aurait un intérêt immédiat plus direct et un plus grand intérêt à long terme pour le succès de l’entreprise que quelqu’un qui ne fait pas partie de la famille. Aucune des conditions d’emploi de Mme Bunting n’était outrageusement, ou même déraisonnablement, avantageuse par rapport à sa situation dans l’entreprise. La preuve n’est pas suffisante pour me convaincre que le ministre a exercé le pouvoir discrétionnaire qui lui est conféré par l’alinéa 5(3)b) d’une manière qui va à l’encontre de la loi en ce qui concerne Mme Bunting.
+Les faits – Blake Bunting
+[20] Je vais maintenant examiner l’emploi de Blake Bunting chez Action. M. Bunting a obtenu son diplôme universitaire en administration en 1996. Il n’est pas électricien qualifié, mais il a commencé à travailler pour Action en 1996 immédiatement après avoir obtenu son diplôme et il y travaille depuis. En 2001, il s’est occupé de la facturation applicable à toutes les questions et du facturage progressif dans le cas des contrats importants. En 2001, Action avait quatre services distincts qui pouvaient être résumés ainsi :
+(i) Contrats de travaux d’électricité : soumissions pour de grands projets; conception et installation pour un propriétaire en particulier lorsque les travaux ne font pas l’objet d’un appel d’offres p. ex. Grand Okanagan Resort.
+(ii) Services liés à l’électricité : moteurs et lignes de transmission de données; avertisseurs d’incendie; tous les services sauf ceux concernant l’éclairage.
+(iii) Amélioration de l’éclairage : contrats réguliers permanents pour changer toutes les ampoules dans des édifices en particulier comme des écoles, des hôpitaux.
+(iv) Maintenance de l’éclairage : visites dans certains édifices pour entretenir et réparer les sources d’éclairage à la suite d’appels prévus.
+[21] En 2001, Blake Bunting était directeur du service de maintenance de l’éclairage et il était responsable du système informatique du bureau. Ses heures de travail étaient approximativement de 7 h 30 à 17 h 30, ce qui donnait environ 45 heures dans une semaine de cinq jours. En 1996, lorsqu’il a commencé à travailler, il était rémunéré au taux horaire d’environ 15 $ et en 2001, sa rémunération était calculée à partir d’un taux de 23 $ ou 24$ l’heure. À l’époque en question (en 2001), les directeurs des trois autres services étaient aussi payés entre 22 et 24$ l’heure. Un employé que Donald Bunting a appelé « Boyd » était l’estimateur en chef et, en 2001, il recevait le même taux de rémunération que Blake Bunting, ou peut-être un peu plus.
+[22] Donald Bunting a déclaré qu’il se considérait comme un propriétaire/exploitant humain en ce sens qu’il est en mesure de garder longtemps à son service des employés compétents. Il a aussi déclaré que Blake Bunting devait s’attirer le respect des autres employés et directeurs et que ce n’était possible que s’il (Blake) était traité plus ou moins de la même manière qu’eux. En contre-interrogatoire, Donald Bunting a reconnu qu’il ne voulait pas que les autres employés ou directeurs voient sont fils comme « le prince héritier ». Selon lui, le respect se mérite.
+[23] Parce qu’il préfère d’autres activités, Donald Bunting compte sur son fils Blake pour les activités de promotion de l’entreprise familiale. La compagnie avait des billets pour des parties de hockey des Oilers d’Edmonton et elle fait la promotion d’un tournoi de golf en versant une contribution à un organisme de bienfaisance. Blake Bunting utilise les billets pour des parties de hockey davantage que les autres directeurs et participe au tournoi de golf au nom de l’entreprise. Il invite aussi des clients à déjeuner et à jouer une partie de golf plus souvent que Donald Bunting et les autres directeurs. Certaines personnes pourraient considérer ces fonctions comme des avantages accessoires de l’emploi de Blake Bunting, mais Donald Bunting ne les perçoit pas ainsi parce que lui-même préfère faire fructifier l’entreprise d’autres façons.
+[24] Blake Bunting bénéficie de conditions plus souples en ce qui concerne les congés et les vacances parce qu’il n’est pas obligé de les demander à un moment précis. Il fait ses plans et en informe ensuite son père. Il a les avantages sociaux du personnel de bureau en vertu du « plan applicable au personnel de bureau » qui offre probablement un peu plus d’avantages que le plan applicable aux travailleurs rémunérés à l’heure. Un nouvel employé a droit à deux semaines de vacances, tandis qu’un employé ayant de l’ancienneté a droit à trois semaines ou plus. Donald Bunting a déclaré que son fils Blake pouvait prendre plus que trois semaines de vacances, mais il n’a pas pu se rappeler s’il l’avait déjà fait.
+[25] Au paragraphe 19 ci-dessus, j’ai déclaré que dans une entreprise familiale, il y a souvent des différences mineures entre les conditions d’emploi d’un membre de la famille et celles d’autres employés qui font un travail comparable. Ces différences existent dans le cas de l’emploi de Blake Bunting chez Action, mais, à mon avis, ce ne sont que des différences mineures. Si on regarde la situation dans son ensemble, je vois que Blake Bunting est un employé à plein temps qui ne s’absente jamais de l’entreprise familiale, qui a des responsabilités de gestion et qui doit s’attirer le respect de tous les employés et des autres directeurs. Il a un diplôme en administration qu’il utilise pour faire sa place dans l’entreprise.
+[26] Donald Bunting a monté depuis 1973 une entreprise importante comptant maintenant plus de 60 employés; c’est bien plus que l’entreprise familiale typique. Les heures de travail de Blake Bunting semblent normales et il n’y a pas de preuve qu’il n’est pas un employé dévoué et responsable. Dans un différend aux termes de l’alinéa 5(3)b) visant un employé ayant un lien de dépendance, qui a été engagé pour occuper un vrai poste à plein temps comportant des responsabilités, je ne m’arrêterai pas à des détails qui tentent de faire paraître l’employé avec lien de dépendance sous un jour différent de celui sans lien de dépendance. Si le ministre s’est préoccupé seulement de détails, il était alors plus facile de conclure que le contrat de travail était « à peu près semblable » à un contrat sans lien de dépendance. Il n’existe pas suffisamment d’éléments de preuve pour me convaincre que le ministre a exercé son pouvoir discrétionnaire en vertu de l’alinéa 5(3)b) d’une manière qui va à l’encontre de la loi à l’endroit de Blake Bunting.
+[27] Les quatre appels, soit ceux d’Actech, de Grace Bunting, d’Action et de Blake Bunting, sont rejetés.
+Signé à Ottawa, Canada, ce 19e jour d’août 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 24e jour de mai 2005.
+Lucie Roberge, traductrice
+RÉFÉRENCE :
+2004TCC572
+NOS DES DOSSIERS DE LA COUR :
+2003-1939(EI), 2003-1940(EI),
+2003-1941(EI) et 2003-1942(EI)
+INTITULÉ DE LA CAUSE :
+Actech Electrical Limited, Grace Bunting, Action Electrical Ltd. et Blake Bunting et le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+18 février 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable M.A. Mogan
+DATE DU JUGEMENT :
+Le 19 août 2004
+COMPARUTIONS :
+Avocat des appelants :
+Deryk Coward
+Avocat de l’intimé :
+Mark Hesletine
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appellants :
+Nom :
+Deryk Coward
+Cabinet :
+D'Arcy & Deacon
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

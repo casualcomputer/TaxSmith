@@ -1,0 +1,168 @@
+---
+title: "Cusson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27406/index.do"
+last_modified: "2006-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 121"
+citation2: ""
+neutral_citation: "2006 CCI 121"
+decision_date: "2006-03-06"
+language: "fr"
+item_id: "27406"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 228
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:50:27.329000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78ea72e71af1ce1989bd97ea722e5577286e26752640d652bec4cefa1cc0f841"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cusson c. La Reine
+
+- Citation: 2006 CCI 121
+- Decision date: 2006-03-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 228, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cusson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-06
+Référence neutre
+2006 CCI 121
+Numéro de dossier
+2005-3077(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3077(IT)I
+ENTRE :
+DENIS CUSSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 30 janvier 2006, à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002 et 2003 sont accueillis en partie et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de mars 2006.
+« François Angers »
+Juge Angers
+Référence : 2006CCI121
+Date : 20060306
+Dossier : 2005-3077(IT)I
+ENTRE :
+DENIS CUSSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Dans ces appels, il s'agit de déterminer le montant exact des déductions applicables aux frais de déménagement de l'appelant dans les années d'imposition 2002 et 2003. Il s'agit également de déterminer si l'appelant a le droit d'interjeter appel auprès de la présente Cour concernant le crédit pour la taxe sur les produits et services (TPS) à l'égard des mêmes années d'imposition et à l'encontre de l'avis de nouvelle détermination datée du 7 janvier 2005 et de l'avis de détermination daté du 5 juillet 2004, respectivement.
+[2] Sur cette dernière question, l'appelant reconnaît qu'il n'a pas signifié au ministre du Revenu national un avis d'opposition comme l'exigent les articles 165 et 169 de la Loi de l'impôt sur le revenu (la « Loi » ). Par conséquent, la Cour n'est pas en mesure d'intervenir en ce qui concerne la révision des sommes à partir desquelles le ministre a déterminé le crédit pour la TPS à accorder pour les deux années d'imposition, sauf que son représentant à l'audience s'est engagé à refaire le calcul conformément aux motifs du présent jugement.
+[3] Cela étant dit, il s'agit donc de déterminer le montant déductible au titre de frais de déménagement pour les deux années en question et, plus précisément, ceux qui ont été refusés par le ministre, soit les frais d'entretien de l'ancienne résidence de l'appelant pour les deux années en question et les dépenses suivantes soit :
+1. en 2002, les frais de réacheminement du courrier de 35 $;
+2. en 2002, le coût d'achat d'une antenne Bell Express Vu au montant de 249 $;
+3. en 2003, la pénalité hypothécaire que l'appelant a payée relativement à la vente de son ancienne résidence;
+[4] Les items 1 et 3 ont été réglés avant l'audience. L'appelant reconnaît qu'il n'a pas le droit de déduire les frais de réacheminement du courrier et l'intimée, sur réception des pièces justificatives, a reconnu au stade de l'opposition que l'appelant a effectivement payé une pénalité liée au remboursement complet de son prêt hypothécaire grevant son ancienne résidence.
+[5] L'appelant est marié et était propriétaire d'une résidence située dans la ville de Québec. Durant l'année 2001, sa conjointe s'est trouvé un emploi dans la région de l'Isle Verte et l'appelant s'est mis à la recherche d'un emploi dans cette région afin de la rejoindre. Il a commencé à convoiter un poste à l'automne 2001, mais ce n'est qu'en février 2002 qu'on lui a accordé un contrat de 9 mois avec possibilité d'une permanence par après. Il a expliqué dans son témoignage qu'il n'avait pas hésité à mettre sa maison en vente parce qu'il fallait être résident de l'Isle Verte pour faire la gestion du traversier, ce pourquoi il a été embauché.
+[6] L'appelant a donc commencé à travailler en février 2002 à temps partiel et, à partir du mois d'avril 2002, à temps plein. Il s'est installé de façon permanente à l'Isle Verte à partir d'avril 2002. Ce fait est confirmé par son employeur, la société Inter-Rives de l'Isle Verte dans une lettre adressée au ministre en date du 27 septembre 2004. Dans une lettre en date du 21 décembre 2004, adressée à l'Agence des douanes et du revenu Canada ( « Agence » ), l'appelant déclare que son lieu de travail est à l'Isle Verte depuis avril 2002. Il a expliqué pourquoi ses effets n'avaient pas été déménagés avant octobre 2002 et il a attribué ce retard au fait qu'il n'y avait pas d'endroit à l'Isle Verte pour entreposer ses meubles, qu'il louait une maison déjà meublée et que la nature de son travail rendait le déménagement difficile
+[7] Dans une autre lettre à l'Agence le 30 mai 2005, l'appelant a expliqué que le déménagement de ses effets s'est fait en deux temps, soit avril et octobre 2002. Il a ajouté que le mobilier est demeuré dans sa maison en attendant la vente de celle-ci afin d'éviter des frais d'entreposage. Compte tenu que le traversier de l'Isle Verte cesse ses activités vers le 7 novembre, il a procédé au déménagement du mobilier en octobre au cas où la maison serait vendue entre les mois de novembre et de mai, le traversier ne reprenant ses activités qu'à partir de ce dernier mois.
+[8] L'appelant a engagé les services d'un agent immobilier en octobre 2002. Le 26 décembre 2002, il acceptait une offre d'achat et la vente fut clôturée en janvier 2003. Avant l'embauche de cet agent, il avait confié un mandat à deux personnes qu'il a identifiées dans une lettre au ministre quelques jours avant l'audience et a également nommé quatre personnes qui se sont montrées intéressées à l'achat de sa maison. Il a également fait ces allégations dans son avis d'appel en date du 26 août 2005. Parmi les frais de déménagement qu'à déclarés l'appelant, on trouve les frais de voyage de l'appelant relatifs au changement de résidence soit des voyages effectués entre l'Isle Verte et Québec du 15 avril au 7 novembre 2002.
+[9] L'appelant, en réponse à une lettre du ministre datée du 27 août 2004, a fait parvenir le formulaire T 1-M pour chacune des années en question dans lequel il indiquait que la date du déménagement était le 8 novembre 2002 et que le début du nouvel emploi à temps plein était le 15 avril 2002. Dans le même document, on y trouve un reçu visant le transport de ses meubles en date du 21 octobre 2002. Il explique que sa compréhension de l'expression « date de déménagement » à l'époque est différente aujourd'hui car, après avoir relu le formulaire T1-M, il réalise qu'il s'agit de la date où il a quitté de façon définitive la région de Québec et que cette date est le 15 avril 2002.
+[10] L'agent des appels a témoigné que, selon sa compréhension de l'information qu'il a obtenue de l'appelant lors de conversations téléphoniques et de la documentation qu'il a examinée, la maison de l'appelant a servi à entreposer ses meubles d'avril 2002 à octobre 2002. Il n'y avait, selon lui, aucune raison de croire que l'appelant avait mis sa maison en vente. Les motifs invoqués par l'appelant pour expliquer le fait qu'il n'a pas déménagé ses biens en avril, selon lui, était inacceptables.
+[11] La déduction des frais de déménagement est prévue au paragraphe 62(1) de la Loi. Elle permet à un contribuable de déduire ses frais de déménagement s'il s'agit d'une réinstallation admissible. La définition de « réinstallation admissible » est énoncée au paragraphe 248(1) de la Loi :
+« réinstallation admissible » Réinstallation d'un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d'exploiter une entreprise ou d'occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l'article 62 et au présent paragraphe),
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d'une université, d'un collège ou d'un autre établissement d'enseignement (appelé « nouveau lieu de travail » à l'article 62 et au présent paragraphe);
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l'article 62 et au présent paragraphe) et celle qu'il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l'article 62 et au présent paragraphe) sont toutes deux situées au Canada;
+c) la distance entre l'ancienne résidence et le nouveau lieu de travail est supérieure d'au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+Toutefois, pour l'application des paragraphes 6(19) à (23) et de l'article 62 à la réinstallation d'un contribuable qui est absent du Canada mais y réside, il n'est pas tenu compte des mots « au Canada » au sous-alinéa a)(i) de la présente définition ni de son alinéa b).
+[12] Le paragraphe 62(1) de la Loi se lit comme suit :
+62(1) Frais de déménagement - Un contribuable peut déduire dans le calcul de son revenu pour une année d'imposition les sommes qu'il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n'ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n'étaient pas déductibles par l'effet du présent article dans le calcul de son revenu pour l'année d'imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1) , le revenu du contribuable pour l'année tiré de son emploi au nouveau lieu de travail ou de l'exploitation de l'entreprise au nouveau lieu de travail, selon le cas,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition , le total des montants inclus dans le calcul du revenu du contribuable pour l'année par l'effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu'il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+[13] Quant aux frais de déménagement, ils sont définis au paragraphe 62(3) de la Loi comme suit :
+62(3) Frais de déménagement - Pour l'application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l'ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d'entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l'ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+d) des frais de résiliation du bail en vertu duquel il était le locataire de son ancienne résidence;
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l'ancienne résidence par suite du déménagement, des frais, pour le contribuable, à l'égard des services juridiques relatifs à l'achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l'enregistrement du droit de propriété de cette résidence;
+g) des intérêts, impôts fonciers, primes d'assurance et coûts du chauffage et des services publics relativement à l'ancienne résidence, jusqu'à concurrence de 5 000 $ ou, s'il est moins élevé, du total des dépenses de cette nature engagées par le contribuable pour la période, à la fois :
+(i) tout au long de laquelle l'ancienne résidence n'est ni ordinairement occupée par le contribuable ou par une autre personne qui y résidait habituellement avec lui immédiatement avant le déménagement, ni louée par le contribuable à une autre personne,
+(ii) au cours de laquelle des efforts sérieux sont faits en vue de vendre l'ancienne résidence;
+h) du coût de la révision de documents juridiques pour tenir compte de l'adresse de la nouvelle résidence du contribuable, du remplacement des permis de conduire et des certificats d'immatriculation de véhicules non commerciaux (à l'exclusion du coût de l'assurance-véhicule) et des connexion et déconnexion des services publics;
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l'alinéa f)) engagés par le contribuable pour l'acquisition de sa nouvelle résidence.
+[14] En l'espèce, le ministre a conclu qu'à la suite du déménagement des meubles de l'appelant, le 21 octobre 2002, ce dernier était devenu, à cette date, un résident habituel de l'Isle Verte et non à partir de la date indiquée par l'appelant dans son T1-M, soit le 8 novembre 2002.
+[15] Les dispositions législatives visant les frais de déménagement ne font pas référence à la notion de « résident habituel » . La Loi exige que la nouvelle résidence ordinairement occupée par le contribuable soit située au Canada, ce qui est le cas en l'espèce. Il faut plutôt se demander si, entre avril et octobre 2002, la nouvelle résidence de l'appelant a été ordinairement occupée par lui. Si la réponse est affirmative et que les autres conditions sont réunies, il y a « réinstallation admissible » .
+[16] Notre Cour s'est penchée sur la question de savoir si un contribuable a résidé ou non de façon ordinaire dans une nouvelle résidence. Dans la décision Cavalier c. Canada, [2001] A.C.I. 719, le juge Bowie a fait une analyse de la jurisprudence portant sur cette expression et a conclu que le déménagement des meubles et l'intention de rester en permanence ou pour une période de temps particulière en un lieu ne sont pas pertinents pour conclure qu'un contribuable a résidé ou non de façon ordinaire dans sa nouvelle résidence. Le juge Miller, dans la décision Calvano c. Canada, [2004] CCI 227, a suivi le même raisonnement et a ajouté que le concept de résident ordinaire est d'avantage lié au fait d'être établi dans une routine de vie ordinaire qu'au caractère permanent de l'arrangement.
+[17] En l'espèce, même si au début il s'agissait d'un emploi à temps partiel, il n'en demeure pas moins que l'appelant est allé résider dans sa nouvelle résidence de l'Isle Verte afin de se rapprocher de son nouveau lieu de travail où il a commencé à travailler à plein temps en avril 2002. Même si l'intention d'y aménager de façon permanente n'est pas un facteur, elle était présente à mon avis, car il est évident que l'appelant cherchait un emploi dans la région de l'Isle Verte depuis le départ de sa conjointe et qu'il avait l'intention d'y aménager de façon permanente. À mon avis, il y a eu, en l'espèce, réinstallation admissible à partir du mois d'avril 2002, soit le moment où l'appelant est allé résider à l'Isle Verte afin d'être plus près de son nouveau lieu de travail.
+[18] L'appelant est donc en droit de déduire, dans le calcul de son revenu pour une année d'imposition, les sommes qu'il a payées au titre des frais de déménagement. Selon l'alinéa 62(3)g) de la Loi, ces frais comprennent des dépenses engagées relativement à l'ancienne résidence, jusqu'à concurrence de 5 000 $ pour la période, ou la dépense réelle si elle est moindre, en autant que l'ancienne résidence n'est pas occupée par l'appelant ou une autre personne qui y résidait habituellement avec lui ni n'est louée à une autre personne (ce qui n'est pas le cas en l'espèce) et au cours de laquelle période des efforts sérieux sont faits en vue de vendre l'ancienne résidence.
+[19] L'appelant a eu recours aux services de deux personnes qu'il a qualifiées d'amis pour l'aider à vendre son ancienne résidence. Des annonces ont été placées par ces derniers entre les mois d'avril et d'octobre 2002. Le fait de ne pas avoir eu recours immédiatement à un courtier est une question de choix parmi les stratégies de vente de sa résidence. À mon avis, le fait d'avoir choisi de faire appel à ses amis au lieu d'un courtier pour vendre son ancienne résidence ne réduit pas pour autant le caractère sérieux des efforts déployés. Selon les connaissances de l'appelant, il peut s'agir dans les circonstances d'une façon appropriée et diligente de vendre son ancienne résidence.
+[20] L'appelant a de plus fait plusieurs voyages entre avril et octobre pour revenir à Québec dans le but de faire la vérification et l'entretien de son ancienne résidence (voir les billets d'autobus). Il s'agit là d'une preuve d'un certain effort et d'un souci pour disposer de son ancienne résidence. L'appelant a par la suite confié cette vente à un courtier. À mon avis, il est raisonnable de conclure que l'appelant a fait des efforts sérieux en vue de vendre son ancienne résidence à partir du mois d'avril 2002.
+[21] Cela étant dit, l'appelant a donc droit de déduire ses frais de déménagement rattachés à l'entretien de son ancienne résidence selon l'alinéa 62(3)g) pour la période pendant laquelle son ancienne résidence a été inoccupée au motif qu'il a fait des efforts sérieux pour la vendre. Il a le droit de déduire ses frais admissibles jusqu'à concurrence de 5 000 $ ou la dépense réelle si elle est moins élevée. Le juge Hershfield, dans la décision Johnson v. The Queen, [2003] DTC 890, a retenu cette interprétation de la période comme étant celle au cours de laquelle l'ancienne résidence est inoccupée et au cours de laquelle il y a eu des efforts sérieux de la part du contribuable pour la vendre. La Cour d'appel fédérale a confirmé ce jugement (voir 2003 CarswellNat 1851).
+[22] Les frais d'entretien de l'appelant s'élèvent à plus de 5 000 $ pour la période. L'appelant a donc droit à 5 000 $ au titre des dépenses admissibles pour son année d'imposition 2002.
+[23] En ce qui concerne le coût d'achat de l'antenne Bell Express Vu, l'alinéa 62.3 h) inclut dans les frais de déménagement le coût de la connexion et de la déconnexion des services publics. L'appelant explique qu'il était abonné à la télévision par câble à son ancienne résidence et que ce service n'était pas disponible à l'Isle Verte, ce pourquoi il a payé 249 $ pour ce service de télévision par satellite. Ce montant inclut le matériel et les frais d'installation qui, à mon avis, ne sont pas prévus à l'alinéa puisqu'on n'y parle que des frais de connexion et de déconnexion. Cette dépense ne peut donc pas être admise.
+[24] Les appels des cotisations établies en vertu de la Loi pour les années d'imposition 2002 et 2003 sont accueillis en partie et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les présents motifs.
+Signé à Ottawa, Canada, ce 6e jour de mars 2006.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2006CCI121
+N º DU DOSSIER DE LA COUR : 2005-3077(IT)I
+INTITULÉ DE LA CAUSE : Denis Cusson et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE : le 30 janvier 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 6 mars 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

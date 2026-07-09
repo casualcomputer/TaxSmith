@@ -1,0 +1,268 @@
+---
+title: "McDavid v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70997/index.do"
+last_modified: "2014-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 112"
+citation2: ""
+neutral_citation: "2014 TCC 112"
+decision_date: "2014-04-10"
+language: "en"
+item_id: "70997"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5283
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:50:07.563000+00:00"
+cases_cited_count: 7
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b68636bfefbcb9d3305116e76a676b03efc9e4315dd7b88b442ca7693339174"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McDavid v. The Queen
+
+- Citation: 2014 TCC 112
+- Decision date: 2014-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5283, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDavid v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-10
+Neutral citation
+2014 TCC 112
+File numbers
+2007-4601(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-4601(GST)G
+BETWEEN:
+Douglas William McDavid,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 12 and 13, 2013,
+at Fredericton, New Brunswick.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Kevin C. Toner
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed and the assessments are referred back to the Minister of National Revenue on the basis that the appellant is entitled to the ITCs still at issue as shown in Exhibit A-14, with the exception of the following: the amounts already allowed by the auditor and still appearing on Exhibit A-14, the HST on meals (with respect to which the claim may not exceed 50%), and a reduction for the extra amount of $1,000 that was mistakenly added by Ms. Ryan for the first period of 2006.
+Costs based on the Tariff in this court’s Rules will be awarded to the appellant. I would however add to the Tariff amount all disbursements incurred by Ms. Carolyn Ryan to travel from Alberta to Fredericton for the discovery, the settlement conferences and the hearing.
+Signed at Ottawa, Canada, this 10th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2014 TCC 112
+Date: 20040410
+Docket: 2007-4601(GST)G
+BETWEEN:
+Douglas William McDavid,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+Assessments and periods at issue
+[1] These are appeals from two assessments under Part IX of the Excise Tax Act (ETA). The first assessment, dated May 10, 2007, relates to adjustments made to amounts claimed by the appellant in respect of input tax credits (ITCs) for expenses (repairs and maintenance, lodging, phone, food, fuel) incurred for his work as a transport truck driver during the periods from January 1, 2005 to June 30, 2006 and from October 1, 2006 to December 31, 2006 (referred to as the “First Period under Appeal” in the Reply to the notice of appeal (Reply)). The Minister of National Revenue (Minister) disallowed $18,679.77 and allowed $8,960.21 out of the total amount of $27,639.98 claimed for that first period (paragraphs 9 and 11 and Schedule A of the Reply, and Exhibit A-1, Tab 3, page 17). The second assessment, also dated May 10, 2007, relates to adjustments made to amounts claimed in respect of ITCs for expenses pertaining to the purchase of a 2006 GMC Sierra 2500 diesel truck (Sierra), the leasing of a trailer, repairs and maintenance, meals, lodging, and fuel incurred during the period from July 1, 2006 to September 30, 2006 (referred to as the “Second Period under Appeal” in the Reply). The total amount of ITCs disallowed with respect to that second period is $12,354.51 (paragraphs 12 and 14 of the Reply, and Exhibit A-1, Tab 3, page 16).
+Preliminary remarks
+[2] Since the filing of his notice of appeal, the appellant has moved to Alberta for his work, along with his spouse Carolyn Ryan. He did not ask for a change of venue. His counsel of record is, and has been from the outset, located in Fredericton, New Brunswick where the hearing was held. The appellant did not travel to Fredericton for the hearing. Ms. Carolyn Ryan flew in to testify.[1] She explained that she was the one who did all the bookwork for the appellant, who apparently is not very educated and not in a position to testify regarding the figures and the documentation that were presented in court. Ms. Ryan explained that she had all the first-hand knowledge required in order to testify concerning the facts. She provided invoices and other records to support the claims. Her credibility was not challenged, and taking into account the particular circumstances existing here, I accept her testimony as being sufficient to establish the facts of this case.
+[3] Ms. Ryan filed a spreadsheet of revenue and expenses for 2005 and 2006 (Exhibit A-14). She explained that she itemized all the expenses that are still at issue by category (fuel, maintenance, meals, truck lease, cell phone, miscellaneous). During the hearing, it was agreed that all amounts pertaining to the truck lease appearing on that spreadsheet and not already accepted by the auditor were to be allowed.
+[4] In addition, it was pointed out that if the Court is of the view that the meal expenses are to be allowed, the amounts so allowed should not exceed 50%, in accordance with section 236 of the ETA.
+[5] Finally, the appellant mistakenly added an extra amount of $1,000 in totalling the HST on fuel for the period ending March 31, 2006, which amount shall be subtracted from the total HST claimed for that period (Exhibit A‑14, Expenses 2006, and Transcript volume 2, pages 34, 35 and 54).
+Facts
+[6] It is not in dispute that the appellant worked as a transport truck driver for Quality Carriers Inc. (QCI), a registrant for the purposes of the ETA and having its head office in Oakville, Ontario. As part of his duties with QCI the appellant drove a transport truck in the United States and in various Canadian provinces.
+[7] The appellant owned and operated his own transport truck and worked as an independent contractor. When performing his duties for QCI, the appellant used a fuel card (T-Chek card) which was provided by QCI for the purchase of fuel, parts and other items for his transport truck.
+[8] The evidence also revealed that when he was not hauling for QCI, the appellant did some work as an excavation/landscaping contractor and attempted providing a “hot shot” delivery service. When the amount of work from QCI declined, he turned to providing a mobile mechanic service.
+Issues
+[9] There are mainly two categories of ITC claims at issue here. The first set of claims comprises those that the appellant submits were for expenses incurred in the course of his business ventures and that the respondent contends were personal in nature.
+[10] The second set of claims comprises the expenses that the appellant incurred while working as a trucker. These expenses include claims for a radio phone, as well as fuel and other items purchased by the appellant using a T-Chek card supplied by QCI. With respect to these claims, the respondent’s sole argument in her Reply is that they were properly disallowed because the appellant did not have sufficient supporting documentation. It was argued that the invoices were deficient as not meeting the requirements of subsection 169(4) of the ETA and section 3 of the Input Tax Credit Information (GST/HST) Regulations (Regulations). The relevant provisions are appended to these reasons.
+First issue: Whether or not the appellant’s expenses were incurred for business purposes
+[11] The appellant claimed ITCs in relation to his work as a truck driver, an excavation/landscaping contractor and a mechanic.
+1) Truck driver for QCI
+[12] Apart from ITCs for fuel and related items and parts, which he purchased using a T‑Chek card, the appellant also claimed ITCs for a radio phone which was paid for with Carolyn Ryan’s credit card. He also claimed ITCs for food and lodging expenses incurred by him while driving for QCI.
+[13] Further, when his transport truck broke down on the road or required parts, he incurred expenses for fuel for his pickup truck and for plane tickets, on which he also claimed ITCs.
+[14] At the hearing, the auditor conceded that a number of the QCI expenses that had been disallowed were in fact incurred for business purposes (these expenses included rain gear and other protective equipment as well as lodging). The auditor also stated that wherever possible she allowed the fuel and other expenses that the appellant incurred, and only denied those expenses that were paid with the T‑Chek card because of a lack of sufficient supporting documentation (Transcript, volume 2, page 19). Likewise, counsel for the respondent accepted the fact that the radio phone was used for business purposes but said that the problem was that it was not the appellant’s name appearing on the invoices (Transcript, volume 2, page 104).
+2) The excavation/landscaping work and mobile mechanic service
+[15] The appellant purchased a heavy duty GMC Sierra truck and leased a trailer in order to execute an excavation/landscaping contract. He also bought equipment, fuel and an alarm system that was used for business purposes. The alarm system was installed in Ms. Ryan’s brother’s garage at the appellant’s cost because he kept his Sierra truck, trailer and tools there. This was done because the garage (which measured 30' x 60') was big enough to house all that equipment.
+[16] Ms. Ryan explained that the GMC Sierra was acquired to enable the appellant to tow the trailer in which he hauled his heavy tools and equipment. He kept his other pickup for personal travel.
+[17] She testified that she created the travel log for the GMC Sierra at the request of the auditor. She said that none was kept previously because she was under the impression that no log was necessary if the vehicle was used only for business purposes. To create the log, she worked backwards from the appellant’s receipts and invoices, filling in the distance for each location using MapQuest (Exhibit A-1, Tab 1, pages 14‑15). The auditor had concerns regarding instances in which the appellant appeared to have been in one place while the truck was being driven in another. Ms. Ryan explained that this was due to the appellant’s transport truck having broken down on one occasion. He had flown home and loaded the trailer up with parts. He then flew back to the transport truck and had his brother haul the parts out to him using the Sierra.
+[18] The auditor was also under the impression that the appellant used the GMC Sierra to travel to Toronto for personal purposes. Ms. Ryan testified that the Sierra was in fact used to tow the trailer with the welder and tools to Toronto for his work in that city.
+[19] The appellant claimed ITCs for fuel, food, lodging and maintenance expenses related to his work providing a mobile mechanic service. These claims were denied on the basis that he did not use his own truck or provide his own tools for that work. Ms. Ryan provided documentation showing, and she testified, that he used his own truck, his trailer and his own tools. I have no reason not to believe her.
+3) Advertising expenses
+[20] Finally, the appellant claimed ITCs on the purchase of a motocross motorcycle. Ms. Ryan explained that the appellant sponsored a motocross racer (Ms. Ryan’s son) and that the motorcycle was an advertising expense. The motorcycle displayed the appellant’s business name, and when his rider crossed the finish line, his business was mentioned as a sponsor.
+[21] The auditor disallowed this advertising expense because she saw no connection between the expense and income earned by the appellant as a truck driver for QCI. To the respondent, the motorcycle expenses seemed personal in nature and there was no way of knowing that the advertising had actually resulted in work for the appellant.
+[22] Ms. Ryan described how sponsoring resulted in publicity for the appellant’s business and she provided pictures of the bike with the business logo (Exhibit A‑11). She said that her son was a very good racer who won races and was successful enough to participate in national races, one of which was held in Ontario. She also stated that the advertising secured the appellant a large contract with Maritimes & Northeast Pipeline.
+[23] The appellant also claimed ITCs on the rental of a mobile home (Exhibit A‑13) which was used for accommodation and advertising at the national TransCan motocross event in Ontario. Ms. Ryan explained that the appellant stayed during the entire event, that he put up boards advertising his business.
+Conclusion on the first issue
+[24] In my view, Ms. Ryan identified a business purpose with respect to all of the claims. The respondent did little to contradict Ms. Ryan’s testimony or the documentary evidence other than suggesting that her testimony was second-hand knowledge or guesswork. I believe that the appellant made out a prima facie case sufficient to demolish the minister’s assumptions (House v. the Queen, 2011 FCA 234, 2011 DTC 5142, at paragraph 61).
+Second issue: Did the appellant have sufficient supporting documentation to meet the requirements under subsection 169(4) of the ETA and section 3 of the Regulations?
+[25] It is my understanding that the respondent is putting forward this argument only in respect of two sets of expenses: the monthly bills for the radio phone and the T-Chek purchases.
+[26] Subsection 169(4) requires that a registrant claiming ITCs have supporting documentation. The Regulations set out what is required in this regard. The amount of information to be provided is dependent on the amount of the underlying purchase.
+[27] The required information does not have to be in the form of an invoice nor does it have to be contained in a single document. Indeed, the definition of supporting documentation is an inclusive and broad one. It is found in section 2 of the Regulations.
+1) The radio phone invoices
+[28] The radio phone ITCs were denied on the sole basis that the invoices were in the name of Ms. Ryan and not the appellant. During the audit, Ms. Ryan produced credit card receipts and Telus invoices which stated the amount of GST paid and provided the other required information. The phone records also showed that the phone was used by the appellant in the different areas in which he was travelling for his work as a truck driver (Transcript, volume 1, page 175).
+[29] Ms. Ryan testified that she bought the phone for the appellant. She clearly acted as the appellant’s agent in this, as she did in a variety of other respects, namely: keeping his books, issuing invoices to customers, paying his bills when required and helping to conduct his business.
+[30] I am therefore of the view that Ms. Ryan acted as the duly authorized agent or representative of the appellant and that, this being so, her name appearing on the invoices does not bar the appellant from claiming ITCs with regard to these invoices (subparagraph 3(c)(ii) of the Regulations).
+2) Fuel and supplies purchased with the T-Chek card
+[31] The Crown argued that the appellant did not provide valid documentation for the ITCs claimed on the purchases made with the T-Chek card. According to the respondent, the pay statements issued by QCI to the appellant are not valid documentation because they do not show the registration number of the supplier, nor do they state the amount of GST paid, but indicate only the quantity, price and total cost (Transcript, volume 2, page 98).
+[32] Further, although this was not argued in the Reply, the respondent also took the position that there was a resupply of fuel by QCI to the appellant. The Crown argued that when the appellant made purchases with the T-Chek card, the fuel or other items were in fact acquired by QCI, and QCI then made a taxable resupply of that fuel or those items to the appellant when it charged back the amount to his pay or to his escrow account (Transcript, volume 2, pages 88-90). I will discuss this second argument further on in these reasons.
+Was there valid documentation provided for the T-Chek purchases?
+[33] I will now deal with the first argument of the respondent and the only one put forward in her Reply. On this point, I do not agree with the respondent. In order to meet the supporting documentation requirement, the appellant provided a sample of a T-Chek receipt issued to him at a fuel station. The sample showed his truck number (53072), the supplier’s name and GST registration number, the quantity of fuel and the purchase amount on which GST was paid. Ms. Ryan testified that every time the appellant used his T-Chek card in the machine at the fuel station he received the same kind of receipt. The appellant also provided the breakdown (the T-Chek fuel purchase table) of the T‑Chek fuel purchases deducted from his pay statements. The T-Chek fuel purchase table showed the appellant’s name and truck number, the supplier’s name, the date of purchase, the quantity of fuel, as well as the total amount paid according to each receipt. Contrary to the respondent’s contention, in the case of the receipt submitted as an example it looks as if the price shown on the T-Chek fuel purchase table and deducted on the appellant’s pay statement includes GST. Indeed, on the table, the breakdown for that receipt shows a cost of 1.0690 per litre times 472 litres, which gives a total cost of $504.57. The price shown on the receipt indicates 1.01472 per litre times 472 litres, which works out to $478.95, plus $25.62 GST, for a total of $504.57 (Exhibit A-1, Tab 1, pages 3, 5 and 7). A quick calculation shows that it is possible to reconcile the T-Chek fuel purchase table figures and the receipt and that GST was in fact paid by the appellant.
+[34] In addition, the appellant provided a copy of his contract with QCI, which states that he is responsible for the payment of all operating expenses, including fuel and taxes (Exhibit A-7).
+[35] In Kramer Ltd. v. Canada, 1994 CarswellNat 54, [1994] G.S.T.C. 47, this Court was faced with a similar situation (allegedly insufficient supporting documentation) to that in the present case. It was held that the taxpayer had satisfied the statutory requirement in that the ITC could be easily calculated from the information provided. The Court concluded that because it was possible to “reconcile the calculation” the onus upon the appellant had been met (paragraph 12).
+[36] I therefore conclude that the appellant provided the supporting documentation that was required in order for him to be able to claim ITCs on the GST paid on purchases made with the T-Chek card.
+Did QCI resupply the T-Chek purchases to the appellant?
+[37] With respect to this particular issue, which is the second argument, raised for the first time by the respondent at the hearing, it was argued that those purchases resulted in a resupply by QCI to the appellant. This would mean that whenever the appellant used the T-Chek card provided by QCI, QCI was in fact purchasing the fuel on its own behalf and then reselling it to the appellant. If this was the case, the appellant would have to prove that it paid GST to QCI in order to be able to claim ITCs. This position was not pleaded in the Reply and the respondent does not benefit from the rebuttable presumption whereby this allegation is presumed to be true for the purposes of this appeal.
+[38] That being said, the respondent is in effect asking that the Court look at the contract (Exhibit A‑7) and infer that there was a resupply by QCI to the appellant.
+The Contractor Agreement
+[39] The agreement provides that the contractor (appellant) is to be paid a percentage of QCI’s adjusted gross revenue from the linehaul transportation of commodities by the contractor on behalf of QCI, less any expenses incurred by QCI in the transportation of those commodities (clause 3 of the Contractor Agreement). The contractor’s compensation is further defined in Appendix A-1 to the agreement. Clause 3 of Appendix A-1 states that some items, including fuel and fuel taxes, are to be charged back and deducted from the contractor’s compensation or from the contractor’s escrow funds in the event that the contractor’s compensation is insufficient to cover those items. The contractor is required to hold a minimum of $3,000 in escrow funds for the purpose of covering expenses incurred by QCI that are the contractor’s responsibility under the agreement. The escrow funds belong to the contractor and bear interest (Appendix C to the agreement).
+[40] The contractor is required to provide at his sole cost all the equipment ready to operate, including licences, permits and cab cards (which relate to such things as road taxes and crossing state and provincial borders) and to furnish all necessary fuel, tires and parts. He is to pay all expenses, including fuel taxes, incident to the operation of the equipment. It is recognized that certain of these expenses (including fuel taxes) will be initially assessed against QCI even though they are the responsibility of the contractor. In such a case, the contractor reimburses QCI for those expenses (clauses 7a) and c) of Appendix A-1; see also Transcript, volume 1, page 124).
+[41] Clause 21 of Appendix A-1 states that the contractor is free to purchase fuel solely at his discretion and at the truck stops of his choice. Clauses 24 and 25 deal with fuel purchases and payment therefor. I reproduce those sections below:
+24. Fuel purchases.
+For the purpose of computing and paying all state fuel taxes owed for the Equipment, CARRIER [QCI] shall issue CONTRACTOR a fuel card to be used for all fuel purchases. All fuel charges and state fuel taxes will be charged back to CONTRACTOR as allowed under this Agreement. In the event CONTRACTOR or its drivers fail to use Carrier’s fuel card, CONTRACTOR shall be responsible for providing CARRIER with an accurate accounting of all fuel purchases and miles traveled for the purposes of computing state fuel tax liability, and CONTRACTOR shall provide CARRIER with all original fuel receipts.
+The CARRIER is not required to recalculate CONTRACTOR’s fuel tax payments or credits if manual fuel receipts are not received within the 30-day window provided by the CARRIER.
+25. Charge back . . .
+CARRIER shall charge back to CONTRACTOR at the time of payment or settlement, any expenses CARRIER has initially paid that, under this Agreement, the CONTRACTOR is obligated to bear. Such expenses shall be deduced [sic] from the amount of CONTRACTOR’s compensation and shall include, but not be limited to, fuel and mileage taxes, tank washes and product disposal, workman’s compensation/occupational disability insurance, cargo claims, property damage, license and permit fees, and any other expenses set forth in this Agreement. CARRIER will furnish CONTRACTOR with a written explanation of how the charge back is computed and, if requested by CONTRACTOR, will make the necessary documents available to determine the validity of the charge back.
+Analysis of the Contractor Agreement in light of the Case Law
+[42] The Crown argued that it is to be inferred from the provisions of the agreement that QCI was contractually liable for all payments made with the T-Chek card, even though the appellant was ultimately responsible for payment. In the respondent’s view, QCI was the recipient of any supply purchased by the appellant with the T-Chek card.
+[43] This argument requires determining who is the recipient of the supply acquired with the T-Chek card. The appellant is of the view that he acquired the fuel from the fuel supplier, and therefore he is the recipient, not QCI. At most, QCI acted merely as a conduit.
+[44] The parties referred to a few cases showing some similarities with the present one, which I will now analyze.
+[45] Legally, the recipient is the person who is liable to pay the consideration for the service under the agreement for the service (subsection 123(1) ETA and PDM Royalties Limited Partnership v. The Queen, 2013 TCC 270, 2013 CarswellNat 3090 paragraph 26). Furthermore, reimbursements and charge-backs must be distinguished from monies paid by a principal to its agent in respect of amounts expended by the agent on behalf of the principal (Roberge Transport Inc. v. The Queen, 2010 TCC 155, 2010 CarswellNat 574, [2010] G.S.T.C. 43, paragraph 43).
+[46] In Roberge Transport, the trucking company registered itself all the vehicles with the provincial government and accordingly was responsible for the payment of the interjurisdictional sales and fuel taxes. It then provided truck decals and copies of the “Cap Cards” to the lease operators (drivers), who subsequently reimbursed Roberge Transport for the aforementioned taxes. It was clear in that case that Roberge Transport, and not the truckers, was liable to pay the taxes in accordance with the provincial legislation and that it did not pay those taxes as agents.
+[47] I agree with the appellant that the situation is different here. The agreement specifically provides that the contractor is to provide at its sole cost and expense all the equipment ready to operate and fully roadworthy, including the necessary licences, permits, plates and cab cards, and to furnish all necessary fuel, tires and parts required for the operation of the equipment. The contractor is also liable to pay all incidental expenses, including taxes. I take it that it was the appellant who was liable under the agreement for the payment of all purchases made with the T‑Chek card, in the same manner as he would have been responsible for the payment of any fuel purchases made with any other card.
+[48] I also find that the present situation may be distinguished from that in Maritime-Ontario Freight Lines Limited v. The Queen, 2009 TCC 474, [2009] G.S.T.C. 130, a case with some factual similarity to the present one. It was held there that the determining factor was the intention of the parties with regard to the treatment of the GST. Maritime-Ontario gave credit cards to its contractors for fuel purchases. Maritime-Ontario deducted all fuel purchases by each trucker from the amounts it paid the trucker for trucking services. However, the similarities with the present case stop there. Indeed, Maritime-Ontario claimed ITCs for the GST paid on the fuel purchases and did not deduct the GST from the trucker’s pay. Here, there is no evidence that QCI claimed ITC’s for the GST paid on purchases made with the T-Chek card, and the documentation tends to show that QCI deducted the GST from the appellant’s pay. Further, the truckers in Maritime-Ontario did not receive a standard credit card receipt showing the cost of the fuel, the GST amount and the supplier’s GST registration number. The receipt showed only the quantity of fuel purchased. In the present case, the receipt issued to the appellant provided all that information. In Maritime-Ontario, the Court concluded that the agreement as a whole was consistent with the intent that the fuel paid for by Maritime‑Ontario was acquired on its own behalf. The Court reached that conclusion, because, among other things, the pay summaries provided to the contractors by Maritime-Ontario clearly showed that the contractors were not paying GST (paragraphs 44 and 50). In the present case, I have concluded that the appellant has demonstrated that he was paying the GST.
+[49] In Vanex Truck Service Ltd. v. The Queen, 2001 FCA 159, [2001] G.S.T.C. 70, the Federal Court of Appeal also had to determine whether a trucking company was resupplying fuel to drivers. Vanex arranged to have fuel company credit cards issued to it since it could get better discounts due to the volume of fuel it purchased. When Vanex paid the owner-operators, it deducted amounts for the fuel bought by them on its credit cards. Vanex claimed the ITCs on the oil and fuel purchased, and the Court concluded that by so doing Vanex acknowledged that it had purchased those items not as an agent, but on its own behalf, and was resupplying them to the owner‑operators whom it charged (paragraph 20).
+[50] In the present case, there are charge-back clauses in the agreement that deal with fuel taxes and other expenses that QCI might incur on the appellant’s behalf (Exhibit A-7, Appendix A-1, clauses 3 and 7c)). Counsel for the respondent pointed to those clauses of the contract as evidence that QCI was reselling the fuel to the appellant.
+[51] First of all, it is not at all clear that those clauses of the contract concern GST. They may very well have to do with fuel taxes that are the subject of a tax-sharing agreement between provinces and states which provides for the calculation of fuel taxes for commercial trucking according to the number of miles driven in a particular province or state (the interjurisdictional fuel tax, as discussed in Transport Roberge, supra). This point was not brought up at trial.
+[52] Second, in Vanex, supra, the transport company had fuel supply agreements with Shell and Petro-Canada. In the present case, it does not seem that QCI had a particular agreement with any particular fuel supplier. The actual contract between QCI and T-Chek was not provided. We simply do not know whether the T-Chek card worked in a similar manner to the credit cards provided to the drivers in Vanex. According to Ms. Ryan’s testimony, the T-Chek card was supposed to work rather like a debit card, and this was accomplished through the escrow account (Transcript, volume 1, page 27). Indeed, there is a clause in the agreement that states that the appellant must maintain an escrow account to cover fuel purchases or other expenses for which he is responsible (Exhibit A-7, Appendix C, clause 3).
+[53] Third, in Vanex, the trucking company had claimed ITCs on fuel purchased by the drivers with the credit cards provided by Vanex. There was double-claiming of ITCs for the same fuel expenses.
+[54] Here, while the appellant’s invoices and records were presented at trial, the corresponding records of QCI were not. Evidence concerning how the T-Chek cards worked on QCI’s side would have been helpful. There is no evidence that QCI either reported GST or claimed ITCs on the fuel or other purchases made with the T‑Chek card.
+[55] On the contrary, there is a letter from QCI’s head office in Florida (on Quality Carrier letterhead) stating that they did not claim GST rebates on fuel purchases and that it would be up to the individual drivers to request such rebates (Exhibit A-1, Tab 1, page 2). Counsel for the respondent pointed out that the letter referred to Quality Distribution Inc. rather than to QCI. However, the respondent did not bring any evidence to show that QCI itself claimed GST rebates on fuel. Nor did the auditor testify that Ms. Bottorff, the author of that letter, had said that QCI claimed those rebates. She said that Ms. Bottorff had told her that QCI did “claim GST/HST” whenever it could (Transcript, volume 2, page 16). On the other hand, Ms. Ryan had spoken to QCI’s terminal managers in Montreal and Oakville, who both referred her to Ms. Bottorff. All three told her that the appellant, as an independent contractor, had to claim the ITC’s on fuel himself and that QCI would not claim them (Transcript volume 1, pages 130 and 131). Presumably, the minister would be aware of it if QCI was claiming ITCs on fuel, given the fact that he had QCI’s registration number and had been in contact with QCI over the matter.
+[56] Fourth, the contract itself as drafted, setting out the appellant’s obligation to cover out of his escrow funds the cost of fuel or other items purchased with the T‑Chek card, is a strong indication that the appellant bore the economic risk with regard to fuel purchases. Indeed, as I have already said, if a customer did not pay for a delivery, the cost of the fuel for that delivery would be removed from the appellant’s escrow fund.
+[57] This is another distinction that can be made with Vanex, as in that case no such escrow fund seems to have been put in place. It is my understanding that, in cases where the driver’s revenue did not cover the full amount, Vanex was responsible for paying the amount owed for fuel purchases made with its credit cards.
+[58] In my view, there is no prima facie evidence that QCI resupplied to the appellant fuel or anything else purchased with the T-Chek card. I find that the evidence tends to show that the situation here is different than those in Vanex, Maritime-Ontario and Transport Roberge.
+[59] I therefore conclude that the respondent’s argument does not stand up.
+Decision
+[60] The appeals are allowed and the assessments are referred back to the Minister for reassessment on the basis that the appellant is entitled to the ITCs still at issue as shown in Exhibit A-14, with the exception of the following: the amounts already allowed by the auditor and still appearing on Exhibit A-14, the HST on meals (with respect to which the claim may not exceed 50%), and a reduction for the extra amount of $1,000 that was mistakenly added by Ms. Ryan for the first period of 2006.
+Costs
+[61] The appellant has asked for solicitor and client costs from the date of the offer of settlement that he presented to the respondent on July 14, 2011. In that offer, the appellant proposed that the Canada Revenue Agency (CRA) pay the appellant 50 % of the amount at issue at the time and release the funds being withheld by the CRA ($24,859). This offer was not accepted by the respondent.
+[62] The respondent opposed the request for solicitor and client costs mainly because the majority of the amounts in dispute related to the ITC claims on the T‑Chek card purchases. Counsel for the respondent relied on CIBC World Markets Inc. v. The Queen, 2012 FCA 3, [2012] G.S.T.C. 4, paragraph 17, in arguing that the issue regarding the treatment of ITC’s on fuel purchased with the T-Chek card was a legal one that ought to be decided by the Court and that the offer of settlement presented by the appellant was not an option that could be accepted in light of the facts and the law in this particular case. The issue raised a question of statutory interpretation whose resolution would result in the Minister’s assessment with respect to the T-Chek receipts either being confirmed in its entirety or rejected in its entirety.
+[63] I agree that there are legal points to be resolved in this case. However, the main legal argument advanced by the respondent was not put forward in her Reply.
+[64] I would therefore award the appellant costs based on the Tariff in this Court’s Rules. I would however add to the Tariff amount all disbursements incurred by Ms. Carolyn Ryan to travel from Alberta to Fredericton for the discovery, the settlement conferences and the hearing.
+Signed at Ottawa, Canada, this 10th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Appendix A
+Excise Tax Act
+division i
+interpretation
+123. (1) Definitions — In section 121, this Part and Schedules V to X,
+. . .
+“recipient” of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+. . .
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+Subdivision b — Input Tax Credits
+169. (1) General rule for [input tax] credits — Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+. . .
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+169(4) Required documentation — A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+input tax credit information (gst/hst) regulations
+interpretation
+2. In these Regulations,
+“Act” means the Excise Tax Act;
+. . .
+“supporting documentation” means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable;
+. . .
+prescribed information
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+CITATION: 2014 TCC 112
+COURT FILE NO.: 2007-4601(GST)G
+STYLE OF CAUSE: Douglas William McDavid v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: December 12 and 13, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 10, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Kevin C. Toner
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kevin C. Toner
+Firm: E.J. Mockler, Professional Corporation
+Fredericton, New Brunswick
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It is my understanding that she also flew from Alberta to Fredericton to attend the examination for discovery, as well as two settlement conferences held in this particular case (Transcript, volume 2, page 108).

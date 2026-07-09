@@ -1,0 +1,274 @@
+Title: Martel v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31001/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-374-31001-martel-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-10-23
+
+# Martel v. M.N.R.
+
+- Citation: 2012 TCC 374
+- Decision date: 2012-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4883, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martel v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-23
+Neutral citation
+2012 TCC 374
+File numbers
+2012-837(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-837(EI)
+BETWEEN:
+FRANCE MARTEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Cathy Lavoie, 2012‑840(EI), on July 18, 2012, at Chicoutimi, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the appellant:
+Sylvain Bergeron
+Counsel for the respondent:
+Simon Vincent
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is dismissed. The decision of the Minister of National Revenue dated February 10, 2012, establishing that the appellant was not employed under a contract of service within the meaning of paragraph 5(1)(a) of the EIA and was therefore not employed in insurable employment because an employer‑employee relationship cannot exist between a general partnership and a partner, is confirmed.
+Signed at Ottawa, Canada, this 23rd day of October 2012.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 12th day of December 2012
+Margarita Gorbounova, Translator
+Docket: 2012-840(EI)
+BETWEEN:
+CATHY LAVOIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of France Martel, 2012-837(EI), on July 18, 2012, at Chicoutimi, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the appellant:
+Sylvain Bergeron
+Counsel for the respondent:
+Simon Vincent
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is dismissed. The decision of the Minister of National Revenue dated February 10, 2012, establishing that the appellant was not employed under a contract of service within the meaning of paragraph 5(1)(a) of the EIA and was therefore not employed in insurable employment because an employer-employee relationship cannot exist between a general partnership and a partner, is confirmed.
+Signed at Ottawa, Canada, this 23rd day of October 2012.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 12th day of December 2012
+Margarita Gorbounova, Translator
+Citation: 2012 TCC 374
+Date: 20121023
+Docket: 2012-837(EI)
+BETWEEN:
+FRANCE MARTEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2012-840(EI)
+BETWEEN:
+CATHY LAVOIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] The appellants are appealing from a decision of the Minister of National Revenue (Minister) in which it was determined that they did not hold insurable employment with Camping Camp D'Accueil 2004 S.E.N.C. (payer) on the ground that they were the payer's partners, each holding 25% of the shares and, accordingly, there could not be an employee-employer relationship that could enable them to receive benefits under the Employment Insurance Act (EIA).
+[2] The periods at issue are as follows: for Cathy Lavoie: from May 25, 2011, to September 30, 2011; for France Martel: from June 3, 2007, to October 6, 2007; from May 26, 2008, to October 18, 2008; from May 25, 2009, to September 12, 2009; from May 24, 2010, to September 11, 2010; and from May 25, 2011 to September 30, 2011.
+[3] The facts on which the Minister relied are summarized at paragraph 5 of the Reply to Notice of Appeal of France Martel and read as follows:[1]
+[Translation]
+In making his decision, the Minister relied on the following assumptions of fact:
+(a) The payer was registered on June 8, 2004, adopting the juridical form of a general partnership;
+(b) At the time of registration, the partners were Marc-André Lavoie, Monique Simard, Geneviève Lavoie, Fernando Lavoie, Doris Chalifour and Cathy Lavoie;
+(c) During the periods at issue, the partners were Cathy Lavoie, Fernando Lavoie, Marc-André Lavoie and France Martel;
+(d) Each of the partners holds 25% of the payer's shares;
+(e) Cathy Lavoie has held 25% of the payer's shares since it was registered in 2004, while the appellant has held her 25% of the payer's shares since 2007;
+(f) Cathy Lavoie is the daughter of Fernando Lavoie, and the other partners are not related;
+(g) The appellant and Cathy Lavoie made a non-monetary contribution to participate in the general partnership;
+(h) The payer's activities were renting out a campground and RV parks;
+(i) The Municipality of Ferland-et-Boileau [sic] leases the land from the MRC du Fjord and assumes the main costs;
+(j) The payer leases the land from the Municipality of Ferland-et-Boileau [sic], which enables it to exercise its activities of renting out 42 campsites and RV spaces and to provide hiking trails and ropes courses;
+(k) The campground is semi-serviced; that is, there is no electricity, only water;
+(l) The payer's period of activity is from the beginning of June until after Labour Day in September;
+(m) The payer uses the services of two of its partners, the appellant and Cathy Lavoie;
+(n) The two working partners, namely, the appellant and Cathy Lavoie must cover the payer's hours of operation, which are from 7 a.m. to 11 p.m. that is, 90 hours per week;
+(o) The appellant and Cathy Lavoie's tasks consisted in taking care of the grounds, welcoming customers, making reservations, renting out campsites, performing cleaning and maintenance;
+(p) The appellant and Cathy Lavoie were paid minimum wage by cheque every week;
+(q) During the periods at issue, the appellant was a partner of the payer.
+[4] The appellants maintain that their contract of employment with the payer had the characteristics of a contract of service and that the payer was not in reality a general partnership (GP) within the meaning of the Civil Code of Québec (CCQ), but rather a non-profit organization registered under Division III of Quebec's Companies Act (QCA), R.S.Q., c. C-38, or a cooperative.
+Facts revealed at the hearing
+[5] I heard the testimony of Fernando Lavoie, Cathy Lavoie and France Martel. Their testimony shows that about twenty residents of Ferland-et-Boilleau opposed the municipality's leasing of a wilderness campground that had existed since 1972 to a group of non-residents.
+[6] Two of these residents, one of whom was Hervé Simard, accountant for commission scolaire de Jonquière, wanted to set up a charter. They proposed to form a GP, and Fernando Lavoie and five or six other residents including his daughter Cathy Lavoie became its founders. Fernando Lavoie said that he had personally invested nothing but that, for him, it was about preserving heritage and that this was very important to him. He himself was the chair of a committee that obtained funding for a building on the campground. He really did not want this land to be managed by non-residents.
+[7] No partnership contract setting out the partners' rights and obligations was drawn up. The objective was not to make profits, but rather to preserve this heritage. There was therefore no business plan. If there were losses during one year, they were carried forward to the next year's budget.
+[8] The land belonged to the MRC du Fjord-du-Saguenay, which leases it to the municipality. It pays for all work over $1,500 (such as water supply, septic tanks and fixed assets). The GP pays for maintenance, repairs and hiking trails. The buildings on the land belong to the municipality.
+[9] During the period at issue, the board of directors (board) of the GP was made up of four people including Fernando Lavoie and the two appellants. The board met about three times per year. Marc-André Lavoie was the president and Fernando Lavoie was the secretary-treasurer. He drafted minutes at board meetings and prepared financial statements (a copy of the minutes of meetings was filed as Exhibit A‑2).
+[10] According to Fernando Lavoie, since 2004, the GP has experienced deficits every year, except one year when it had a surplus of $200. They tried to offset one year's deficit by increasing revenue from campers. In 2011, they obtained a $5,000 grant to build a bridge to access a waterfall, and that apparently explains a surplus of about $4,000 that year, which absorbed the deficit of $3,000 from the previous year (based on the statement of income and expenses filed, Exhibit I-1, tab 1 M). Fernando Lavoie said that he had reported a profit of $500 in his income tax return for 2011. The evidence did not show whether he had reported income for the year in which the GP had made a surplus of $200 in the past.
+[11] The appellants participated in decisions made about admission fees and the organization of camping activities, but when their remuneration was discussed, they would leave the board meeting. Given that the campground's revenues were low, they were paid only minimum wage to perform the various assigned tasks.
+[12] Mr. Lavoie stated that he considered the GP to be more of a non-profit organization (NPO) and that he was not familiar with the regulations governing the GP. He was aware of the importance of being an NPO as it was the way to obtain funding. The four board members attended meetings as volunteers.
+[13] Cathy Lavoie explained that, at first, a group of 20 residents had planned the campground's operations in order to present a project to the municipality. Ms. Lavoie has no actual contract with the GP. The board, on which she does not sit when it discusses her work, determined that she had to work 44 hours per week. Every week, she reports to Mr. Lavoie on what has happened and on how much money was made. In cross-examination, she said that decisions were made by consensus after discussions and that she did not remember voting even though she appears to hold 25% of the shares in the GP.
+[14] She explained that she derived no personal benefits as a seasonal user and that, to use the campground, she paid the regular price just like everyone else. Her tasks were to clean the campground, answer the telephone and answer customers' questions in person, make repairs on the campground, and clean the beaches. She also organized activities at the campground. She shared the work time with France Martel, who worked the same number of hours as she per week. They were asked only that the work be done in accordance with the number of hours allotted.
+[15] A description of their tasks can be found in a document filed as Exhibit A-1. It indicates, among other things, that the employees report directly to the board and that they must perform all other tasks considered necessary by the board.
+[16] Ms. Lavoie acknowledged that she took part in the campground activity planning meetings, which took place in February.
+[17] France Martel explained that she had started working later and that no one had ever explained to her what the GP was. She simply wanted to contribute to saving the campground. She did not invest a cent and was therefore not expecting any return except for the wages she was paid for her work. She did not know that she was a partner in the GP.
+Appellants' submissions
+[18] First, the appellants argue that they are as much employees of the GP as they would have been of a corporation. The case law is clear that a shareholder may be considered as an employee under the control of the corporation in which he or she holds shares (see Canada (Attorney General) v. Acier Inoxydable Fafard Inc., 2002 FCA 214).
+[19] Second, the appellants maintain that no GP as such existed. They refer to the decision of Deputy Justice Rowe of our Court in Sheppard v. Minister of National Revenue, 2009 TCC 97. In that decision, Justice Rowe determined that a partnership within the meaning of sections 2 and 4 of British Columbia's Partnership Act did not exist. Justice Rowe relied on the Supreme Court of Canada decisions in Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, Backman v. Canada, [2001] 1 S.C.R. 367, and Spire Freezers Ltd. v. Canada, [2001] 1 S.C.R. 391. The Supreme Court of Canada wrote the following at paragraphs 21 to 24 of Backman:
+21 In determining whether a business is carried on "in common", it should be kept in mind that partnerships arise out of contract. The common purpose required for establishing a partnership will usually exist where the parties entered into a valid partnership agreement setting out their respective rights and obligations as partners. As was noted in Continental Bank, supra, at paras. 34-35, a recognition of the authority of any partner to bind the partnership is relevant, but the fact that the management of a partnership rests with a single partner does not mandate the conclusion that the business was not carried on in common. This is confirmed in Lindley & Banks on Partnership (17th ed. 1995), at p. 9, where it is pointed out that one or more parties may in fact run the business on behalf of themselves and the others without jeopardizing the legal status of the arrangement. It may be relevant if the parties held themselves out to third parties as partners, but it is also relevant if the parties did not hold themselves out to third parties as being partners. Other evidence consistent with an intention to carry on business in common includes: the contribution of skill, knowledge or assets to a common undertaking, a joint property interest in the subject‑matter of the adventure, the sharing of profits and losses, the filing of income tax returns as a partnership, financial statements and joint bank accounts, as well as correspondence with third parties: see Continental Bank, supra, at paras. 24 and 36.
+22 A determination of whether there exists a "view to profit" requires an inquiry into the intentions of the parties entering into an alleged partnership. At the outset, it is important to distinguish between motivation and intention. Motivation is that which stimulates a person to act, while intention is a person's objective or purpose in acting. This Court has repeatedly held that a tax motivation does not derogate from the validity of transactions for tax purposes: Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Canada v. Antosko, [1994] 2 S.C.R. 312; Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 540. Similarly, a tax motivation will not derogate from the validity of a partnership where the essential ingredients of a partnership are otherwise present: Continental Bank, supra, at paras. 50-52. The question at this stage is whether the taxpayer can establish an intention to make a profit, whether or not he was motivated by tax considerations. For further discussion, see D. Nathanson, "Tax Motive Kills Partnership: Spire Freezers (cf. Continental Bank)" (1999), 7 Tax Litigation 458.
+23 Moreover, in Continental Bank, supra, this Court held that a taxpayer's overriding intention is not determinative of whether the essential ingredient of "view to profit" is present. It will be sufficient for a taxpayer to show that there was an ancillary profit-making purpose. This flows from the following observation made in Lindley & Banks on Partnership, supra, at pp. 10‑11, and adopted in Continental Bank, supra, at para. 43:
+. . . if a partnership is formed with some other predominant motive [other than the acquisition of profit], e.g., tax avoidance, but there is also a real, albeit ancillary, profit element, it may be permissible to infer that the business is being carried on "with a view of profit." If, however, it could be shown that the sole reason for the creation of a partnership was to give a particular partner the "benefit" of, say, a tax loss, when there was no contemplation in the parties' minds that a profit . . . would be derived from carrying on the relevant business, the partnership could not in any real sense be said to have been formed "with a view of profit".
+24 An ancillary purpose is by definition a lesser or subordinate purpose. In determining whether there is a view to profit courts should not adopt or employ a purely quantitative analysis. The amount of the expected profit is only one of several factors to consider. The law of partnership does not require a net gain over a determined period in order to establish that an activity is with a view to profit. For example, a partnership may incur initial losses during the start up phase of its enterprise. That does not mean that the relationship is not one of partnership, so long as the enterprise is carried on with a view to profit in the future. Therefore, where a partnership is formed with the predominant motive of acquiring a tax loss, it is not necessary to show an intention to profit by the amount necessary to recoup the acquired losses or produce a net gain.
+[20] In Sheppard, Justice Rowe found that a GP did not exist, relying on the following facts found at paragraphs 22 et seq. of the decision: (1) the evidence did not support a finding that one of the alleged partners acted as though he was a member of a legal partnership as opposed to a willing participant in a venture; (2) the evidence showed that the appellant in that case, Mr. Sheppard, who was also a partner, according to the respondent, intended his participation to be that of a colleague in a new education experiment, he did not turn his mind towards the formation of a legal partnership as he was adamant that he receive an annual salary and did not deal with any aspect of the finances; (3) nothing showed that the alleged partners held themselves out as partners in the legal sense: there was no documentation in the form of a valid partnership agreement nor was there any oral evidence consistent with their intention to function as a business; (4) there is no evidence of any intent expressed by two of the alleged partners, including Mr. Sheppard, nor of any actions consistent with any such intent that their services would be remunerated by receiving a share of the profits of the company; (5) a review of the evidence discloses that there was no opportunity for profit for the venture as structured nor was there any business plan in place that could lead to a profit in the future; (6) it is clear Mr. Sheppard did not see himself as other than a qualified teacher providing his services in return for a monthly payment and did not intend to be involved as a partner in a business with shared risks and profits.
+[21] The appellants submit that they had no intent to form a GP. There was no contract defining their rights and obligations. There was no intent to make profits or to take part in them. The intent was to preserve heritage.
+[22] They argue that it was established that the Unemployment Insurance Act, as it was then called, had to be interpreted liberally and that any doubt arising from the difficulties of the language should be resolved in favour of the claimants (Abrahams v. Attorney General of Canada, [1983] 1 S.C.R. 2).
+[23] They claim that, despite the registration of a GP in the Quebec's enterprise register (REQ) indicating that they were partners in it (Exhibit I-1, tab G), it was in reality an NPO. The founders were poorly advised when they registered a GP. In their written submissions (page 4), the appellants also cite the comments of André Poupart,[2] who states that [Translation] "the fact that a declaration is public should not be considered as a way of proving a company's existence. Such proof is governed by article 2860 CCQ, which governs poof of juridical acts in general". Section 2860 CCQ reads as follows:
+2860. A juridical act set forth in a writing or the content of a writing shall be proved by the production of the original or a copy which legally replaces it.
+However, where a party acting in good faith and with dispatch is unable to produce the original of a writing or a copy which legally replaces it, proof may be made by any other means.
+In the case of technology-based documents, the functions of the original are fulfilled by a document meeting the requirements of section 12 of the Act to establish a legal framework for information technology (chapter C-1.1) and the functions of the copy replacing the original are fulfilled by a certified copy of the document meeting the requirements of section 16 of that Act.
+Respondent's submissions
+[24] The respondent argues that there was a way to correct the situation if that had really been the partners' intent, and this was not done. He refers to articles 2191 and 2195 CCQ, which read as follows:
+2191. If the partnership discovers or is informed that its registration declaration is incomplete, inaccurate or irregular, the declaration may be corrected by filing an updating declaration in accordance with the Act respecting the legal publicity of enterprises (chapter P-44.1).
+2195. Declarations relating to a partnership may be set up against third persons from the time the information they contain is recorded in the enterprise register. They constitute proof of their content in favour of third persons in good faith.
+[25] In addition, the Act Respecting the Legal Publicity of Enterprises (ARLPE), R.S.Q., c. P-44.1, section 98, states the following:
+98. The following information relating to a registrant may be set up against third persons from the time it is recorded in the statement of information and is proof of its content for the benefit of third persons in good faith:
+(1) the registrant's name and, if the registrant was previously registered, the registrant's Québec business number;
+(2) any other name used by the registrant for identification in Québec;
+(3) the registrant's juridical form and the statute under which the registrant was constituted;
+(4) the registrant's domicile;
+(5) the domicile elected by the registrant and the name of the person mandated by the registrant to receive documents for the purposes of this Act;
+(6) the names and domiciles of the directors and the positions they hold or, if all powers have been withdrawn from the board of directors by a unanimous shareholder agreement entered into in accordance with the laws of Québec or a Canadian jurisdiction other than Québec, the names and domiciles of the shareholders or third persons having assumed those powers;
+(7) the date of entry into office and, if applicable, the date of cessation of office of the persons referred to in subparagraphs 6 and 10;
+(8) the names and domiciles of the president, the secretary and the chief executive officer, if they are not members of the board of directors, and the positions they hold;
+(9) the name and address of the registrant's attorney;
+(10) the name, address and capacity of the person acting for the registrant as administrator of the property of others;
+(11) the address of the registrant's establishments in Québec;
+(12) the name and domicile of each partner, the fact that no other person is a member of the partnership and, in the case of a limited partnership, the name and domicile of each general partner and the names and domiciles of the three greatest contributors to the partnership among the special partners;
+(13) the object pursued by the partnership;
+(14) the name of the State, province or territory in which the registrant was constituted and the date of constitution;
+(15) the name of the State, province or territory in which the amalgamation or division that resulted in the formation of the registrant took place, the date of the amalgamation or division and the name, domicile and Québec business number of every legal person involved in the amalgamation or division; and
+(16) the date of the continuance or other transformation of the registrant.
+Third persons may submit any proof to refute information contained in a document filed with the registrar or transferred under an agreement entered into under section 117 or 118.
+However, a registrant whose registration has been cancelled ex officio by the registrar may not dispute information declared by the registrant and contained in the statement of information.
+[26] Once the appellants are identified as partners in a GP in the enterprise register, this information becomes proof of its contents in favour of third persons in good faith. The respondent submits that he is a third person in good faith. If the conditions for the existence of a GP are not met, this can have no impact on the respondent because the payer is officially registered as a GP, not an NPO, and it has never corrected this since 2004.
+[27] In addition, the respondent notes that the appellants had their say in the management and activities of the payer. They were both members of the board and participated in decisions on how their tasks were managed. Their decisions had an impact on their methods of work and of carrying out their tasks.
+[28] The respondent relied on our Court's decision in Blais v. The Queen, 2005 TCC 417, 2006 DTC 2235, which follows the reasoning of the Quebec Court of Appeal in Charron v. Drolet, [2005] Q.J. No. 4741 (QL), 2005 QCCA 430, to argue that a partnership cannot hire one of its partners as an employee (Blais, para. 30).
+[29] In addition, in his written submissions, the respondent relied mainly on Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622, to support his position that the juridical form of the payer, as it officially appears, must be respected. More specifically, the respondent cites the following excerpt from paragraph 40 of Shell Canada:
+. . . it is well established in this Court's tax jurisprudence that a searching inquiry for either the "economic realities" of a particular transaction or the general object and spirit of the provision at issue can never supplant a court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction.
+[30] Relying on this excerpt, the respondent states that if the Court concluded that this was not in reality a GP, a searching inquiry for the "economic realities" cannot supplant a court's duty to apply unambiguous provisions, namely, article 2195 of the CCQ and section 98 of the ARLPE. The respondent notes that these two provisions create a presumption that the information related to the juridical form of a subject appearing in the REQ constitutes proof of its content in favour of third persons in good faith, which would make it impossible to recharacterize the legal relationships that exist between the appellants and the payer.
+Analysis
+[31] First, it should be recalled that the status of a shareholder in a joint-stock company is different from that of a partner in a GP. As the Quebec Court of Appeal reminds us in Charron v. Drolet, supra, referred to by the respondent, only a joint-stock company is a legal person under article 2188 CCQ. Since the partners made the choice to be legally bound as a GP rather than as a joint-stock company, this choice is incompatible with the contract of employment defined in article 2085 CCQ as "a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer".
+[32] Thus, the appellants cannot rely on Acier Inoxydable Fafard Inc., supra, to argue that they could be employed by the GP in which they were partners under a contract of employment that rendered them insurable.
+[33] In addition, there is the question of whether the partners had actually formed a GP or whether, as the appellants claim, the real intent was to form an NPO or a cooperative to which they rendered services under a contract of employment. If that were the case, does the fact that the payer is registered as a GP in the REQ create an irrefutable presumption under article 2195 CCQ and section 98 ARLPE on which the respondent may rely?
+[34] In my view, the registration in the REQ as a GP, which incidentally designates the appellants as partners, although an indication of this, is not necessarily determinative if it is proven that no GP existed legally in its real juridical form. Indeed, it is always possible to correct documents noted by a public officer, private writings or tax forms if they do not comply with the original agreement. Such a request causes no prejudice to the Minister, who has no "right" to assert for tax consequences of errors that had been made (Riopel v. Canada Revenue Agency, 2011 QCCA 954, para. 25, application for leave to appeal granted, 2011 S.C.C.A., No. 356). In addition, in Shell Canada, supra, the Supreme Court of Canada also accepted that legal relationships can be recharacterized only "if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect" (para. 39).
+[35] Our Court has ruled that the presumption in section 98 ARLPE (formerly section 62 of the Act respecting the legal publicity of sole proprietorships, partnerships and legal persons, R.S.Q., c. P-45) is refutable, (Miklosi (The Estate of) v. The Queen, 2004 TCC 253, at para. 24; Sandhu v. The Queen, 2009 TCC 175, at para. 47). These decisions were rendered when the Court had to determine whether taxpayers whose names appeared in the REQ as directors of their corporations were actually directors in the context of directors' liability for those corporations' tax debts. This may be explained by the fact that directors are not personally responsible for erroneous registrations in the REQ because it is the corporation that is responsible for registration. Can the same be said for partners in a GP even though it does not have a separate legal personality?
+[36] In any event, in my view, the appellants, who are designated as partners in the REQ, have the burden of proving not only that they were not partners but also that the payer was not in reality a GP but an NPO governed by Division III of the QCA or a cooperative.
+[37] As stated by the Supreme Court of Canada in Backman, supra, at paragraph 17, the legal status of an entity must be analyzed based on the law of the province where the entity was created. Thus, the determination of the payer's legal status must be preceded by a review of the various rules provided by Quebec law.
+[38] Articles 2186 et seq. of the CCQ govern the creation of companies in Quebec. The relevant provisions read as follows:
+2186. A contract of partnership is a contract by which the parties, in a spirit of cooperation, agree to carry on an activity, including the operation of an enterprise, to contribute thereto by combining property, knowledge or activities and to share any resulting pecuniary profits.
+A contract of association is a contract by which the parties agree to pursue a common goal other than the making of pecuniary profits to be shared between the members of the association.
+2187. The partnership or association is created upon the formation of the contract if no other date is indicated in the contract.
+2188. Partnerships are either general partnerships, limited partnerships or undeclared partnerships.
+Partnerships may also be joint-stock companies, in which case they are legal persons.
+2189. A general or limited partnership is formed under a name that is common to the partners.
+It shall file a registration declaration in accordance with the Act respecting the legal publicity of enterprises (chapter P-44.1); otherwise, it is deemed to be an undeclared partnership, subject to the rights of third persons in good faith.
+. . .
+2191. If the partnership discovers or is informed that its registration declaration is incomplete, inaccurate or irregular, the declaration may be corrected by filing an updating declaration in accordance with the Act respecting the legal publicity of enterprises (chapter P-44.1).
+2192. A correction that would infringe upon the rights of the partners or of third persons has no effect in their regard unless they consented to it or unless the court, after hearing the persons concerned and, if necessary, amending the proposed updating declaration, ordered that it be filed.
+2193. The correction is deemed to be part of the registration declaration and to have taken effect simultaneously with it unless a later date is provided in the updating declaration or in the judgment.
+2194. Any change to the content of the registration declaration of the partnership shall be set forth in an updating declaration in accordance with the Act respecting the legal publicity of enterprises (chapter P-44.1).
+2195. Declarations relating to a partnership may be set up against third persons from the time the information they contain is recorded in the enterprise register. They constitute proof of their content in favour of third persons in good faith.
+Third persons may submit any proof to refute the statements contained in a declaration.
+2196. If the registration declaration of the partnership is incomplete, inaccurate or irregular or if, although a change has been made in the partnership, no updating declaration has been filed, the partners are liable towards third persons for the resulting obligations of the partnership; however, special partners who are not otherwise liable for the obligations of the partnership are not liable under this article.
+[39] The formation of a partnership requires three essential conditions to be met: (1) a spirit of cooperation showing a common intent to form a partnership; (2) a combining of property, knowledge or activities; and (3) a sharing of pecuniary profits resulting from this combining (Cimon v. Arès, 2005 QCCA 9 (CanLII), paras. 50 to 52).
+[40] At paragraph 25 of Backman, supra, the Supreme Court of Canada specified that:
+. . . to ascertain the existence of a partnership the courts must inquire into whether the objective, documentary evidence and the surrounding facts, including what the parties actually did, are consistent with a subjective intention to carry on business in common with a view to profit.
+[41] In this case, regarding the spirit of cooperation or the common intent to form a partnership, in addition to the declaration of registration in the REQ, the statement of income and expenses and minutes of board meetings in which the appellants participated that were filed in evidence are all indicia of objective documentary evidence and concrete actions showing that the payer presented itself as a GP and that the appellants were partners. Even though the appellants were absent from board meetings when their remuneration was discussed, it can be presumed that they participated in the payer's other financial decisions. It is also clear that the creation of what was described as a GP was done with the goal of carrying on a common activity, namely, the operation and preservation of a wilderness campground. The contract that forms a partnership does not necessarily have to be written. It may be verbal. What is important is the common intent to form a partnership and the spirit of cooperation (see Audet, Daigle, Daoust & Associés v. Lessard et Doyon, 2006 QCCS 990, paras. 35 to 38).
+[42] As for contributions, the two appellants worked 44 hours per week for minimum wage remuneration during the summer and participated in board meetings as volunteers, thus giving of their time and knowledge to the organization.
+[43] As for the sharing of pecuniary profits resulting from the combining, there does not seem to be a business plan that is likely to generate profits in the future. The three witnesses, however, argued that they had invested themselves in this venture solely with a view to preserve heritage. Their testimony shows that the small profits if they made any were used to absorb previous deficits, not to be distributed among them. Fernando Lavoie said, however, that, in his income tax return for 2011, he had reported as a member a $500 profit, generated that year through a special grant awarded for building a bridge. The evidence does not indicate whether the appellants had also reported such an amount from sharing in the payer's profits.
+[44] A partnership is formed in order to make profits, which constitute the shared profits to be distributed to the partners, based on their respective share (Cimon v. Arès, supra, at para. 66). It is an element that is essential to the partnership's existence. An ancillary profit-making purpose is sufficient, however (Backman, supra, para. 23).
+[45] Given all of the evidence, it is not clear that the partners actually understood that they were forming a GP and that they actually wanted to form a GP. One element seems to stand out to me, however: it was not necessarily planned to make profits in order to distribute them to the partners.
+[46] However, despite the lack of predominant intent to make a profit, the fact that Mr. Fernando acknowledged including in his income a small profit in 2011 can constitute, in my opinion, an indication of the existence of an ancillary purpose. In this context and taking into account other evidence including the declaration of registration supporting the existence of a GP, I consider that the appellants did not succeed in proving to me that a GP did not exist and that they were not partners in it.
+[47] Another possibility is that we could think that the payer was formed as an association within the meaning of article 2186 CCQ whose members were persons registered in the REQ, including the appellants during the periods at issue. A contract of association is a contract by which the parties agree to pursue a common goal other than the making of pecuniary profits to be shared between the members of the association. However, as mentioned at page 1376 of volume 2 of the commentary of the Minister of Justice, the Act does not grant juridical personality to associations. It follows, under article 298 CCQ, a contrario, that an association has no juridical personality that is whole and separate from that of its members.[3] In this context and taking into account the principles stated in Charron v. Drolet, supra, and in Blais v. The Queen, supra, para. 30, the legal structure of a member association, which is not a distinct legal person, is just as incompatible as a GP with a contract of employment defined in article 2085 CCQ, by which the employee must do work, according to the instructions and under the direction or control of another person, the employer, which in this case would be an association made up of members including the appellants.
+[48] Finally, the appellants stated that, in reality, they worked for an NPO. Division III of the QCA governs the formation of these organizations as non-profit organizations. A predominant condition of creating such an organization is the issuance of letters patent by the registraire des entreprises du Québec (registrar). In order to obtain them, applicants must make an application to the registrar complying with the numerous conditions set out in section 219 of the QCA:
+(1) The applicants for such letters patent, who must be at least 18 years of age, shall file with the enterprise registrar an application setting forth
+(a) the proposed name of the legal person;
+(b) the purposes for which constitution as a legal person is sought;
+(c) the place within Québec where its head office is to be situated;
+(d) the amount to which the immovable property which may be owned or held by the legal person, or the revenue therefrom, is limited;
+(e) the name and the address and calling of each of the applicants, with special mention of the names of not less than three of their number, who are to be the first or provisional directors of the legal person.
+(2) The application and a memorandum of agreement shall be drawn up using a form supplied for that purpose or authorized by the enterprise registrar.
+(3) In addition, the application must be accompanied with a research report on the names of persons, partnerships or groups used and entered in the register.
+[49] The non-profit organization is formed on the date of the letters patent. In the absence of such letters patent, it is therefore impossible to retroactively conclude that the payer was formed as a non-profit organization.
+[50] The appellants also raised the possibility that the payer could be a cooperative. An entity can be described as a cooperative only if the conditions set out in sections 3 and 4 of the Cooperatives Act, R.S.Q., c. C-67.2, are met. These provisions read as follows:
+3. A cooperative is a legal person in which persons or partnerships having economic, social and cultural needs in common unite for the prosecution of an enterprise according to the rules of cooperative action to meet those needs.
+4. The rules of cooperative action are as follows:
+(1) membership of the cooperative is subject to the member actually using the services offered by the cooperative and to the cooperative's ability to provide him with them;
+(2) no member is entitled to more than one vote, irrespective of the number of shares held, or to vote by proxy;
+(3) the payment of interest on the capital stock must be limited;
+(4) a reserve must be established;
+(5) the surplus earnings or operating surplus must be allocated to the reserve and to rebates to members in proportion to the business carried on between each of them and the cooperative, or to other accessory purposes determined by law;
+(6) cooperation must be promoted among the members, between the members and the cooperative and between the cooperative and other cooperative organizations;
+(7) the training of the members, directors, executive officers and employees of the cooperative in the field of cooperation must be promoted and the public must be informed of the nature and advantages of cooperation;
+(8) cooperatives must support development efforts in their community.
+[Emphasis added.]
+[51] No evidence was adduced on this point, and it is therefore impossible to conclude that the organization for which the appellants worked had the legal status of a cooperative.
+[52] I am of the view that the appellants did not demonstrate that the payer did not have the legal status of a GP or an association, in which they were partners or members. Accordingly, I consider that, during the periods at issue, the appellants as partners or members of the payer could not hold insurable employment.
+[53] The appeals are dismissed.
+Signed at Ottawa, Canada, this 23rd day of October 2012.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 12th day of December 2012
+Margarita Gorbounova, Translator
+CITATION: 2012 TCC 374
+COURT FILE NOs.: 2012-837(EI) and 2012-840(EI)
+STYLES OF CAUSE: FRANCE MARTEL v. THE MINISTER OF NATIONAL REVENUE
+CATHY LAVOIE v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: July 18, 2012
+REASONS FOR JUDGMENT: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 23, 2012
+APPEARANCES:
+Agent for the appellants:
+Sylvain Bergeron
+Counsel for the respondent:
+Simon Vincent
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The facts are the same in the Reply to the Notice of Appeal of Cathy Lavoie (para. 5) with the necessary adjustments.
+[2] André Poupart, ed., Le défi du droit nouveau pour les professionnels : Le Code civil du Québec et la réforme du Code des professions, Les Journées Maximilien-Caron 1994, Montréal: Les Éditions Thémis, 2005.
+[3] See R. v. Café Rencontre du Quartier, [2004] J.Q. No 17535 (QL), at para. 12. See also Hélène Lauzier inc. (Re/Max Fortin, Delage H.L.) v. Nadeau, [1998] J.Q. No. 770 (QL), at para. 29.
+Article 298 of the CCQ reads as follows:
+298. Legal persons are endowed with juridical personality.
+Legal persons are established in the public interest or for a private interest.

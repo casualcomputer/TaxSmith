@@ -1,0 +1,313 @@
+---
+title: "Jencik v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25817/index.do"
+last_modified: "2004-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 295"
+citation2: ""
+neutral_citation: "2004 CCI 295"
+decision_date: "2004-04-20"
+language: "fr"
+item_id: "25817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3893
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:34:04.479000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df5b15c9a676c9a49bd5893b4e839f37f4ecd52d0ae0063974fed5d349aebcad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jencik v. The Queen
+
+- Citation: 2004 CCI 295
+- Decision date: 2004-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jencik v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-20
+Référence neutre
+2004 CCI 295
+Numéro de dossier
+2003-1836(IT)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1836(IT)I
+ENTRE :
+PETER JENCIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus du 6 au 9 janvier 2004 à Toronto (Ontario)
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Représentante de l'appelant :
+Louanne M. G. Belzner
+Avocate de l'intimée :
+Me Bonnie Boucher
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995, 1996, 1997 et 1998 sont admis et les nouvelles cotisations sont annulées.
+Signé à Toronto (Ontario) ce 20e jour d'avril 2004.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 22e jour de juillet 2004.
+Sylvie Sabourin, traductrice
+Référence : 2004CCI295
+Date : 20040420
+Dossier : 2003-1836(IT)I
+ENTRE :
+PETER JENCIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Il s'agit d'appels interjetés à l'encontre de nouvelles cotisations d'impôt sur le revenu pour les années d'imposition 1994, 1995, 1996, 1997 et 1998. Trois questions doivent être examinées.
+a) Le ministre du Revenu national (le « ministre » ) avait-il le droit d'établir de nouvelles cotisations au motif d'une présentation erronée des faits selon la définition qui appert au sous-alinéa 152(4)a)(i) de la Loi de l'impôt sur le revenu (la « Loi » )?
+b) Dans la mesure où le ministre jouissait de ce droit, l'appelant a-t-il prouvé que les sommes rajoutées par le ministre au revenu déclaré étaient trop élevées?
+c) Le ministre était-il justifié d'établir des pénalités en application du paragraphe 163(2) de la Loi?
+[2] Le paragraphe 152(4) de la Loi prévoit, en partie, ce qui suit :
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+[3] L'expression « période normale de nouvelle cotisation » est définie comme suit au paragraphe 152(3.1) de la Loi :
+(3.1) Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d'un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, s'il est antérieur, le jour de mise à la poste d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu'une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas.
+[4] Les dates et dates de mise à la poste des avis de première cotisation pour les années 1994 à 1998 étaient respectivement le 1er mai 1995, le 6 mai 1996, le 15 septembre 1997, le 4 mai 1998 et le 25 mars 1999.
+[5] Le 7 novembre 2001, le ministre a établi les nouvelles cotisations d'impôt à l'égard des cinq années. Toutes ces nouvelles cotisations ont été établies après la « période normale de nouvelle cotisation » définie au paragraphe 152(3.1) de la Loi. L'existence du droit du ministre d'établir de nouvelles cotisations pour les années 1994 à 1998 (les « années d'imposition frappées de prescription » ) dépendait par conséquent d'une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou de la commission de quelque fraude par l'appelant, tel que le prévoit le sous-alinéa 152(4)a)(i) de la Loi. Il est bien établi en droit qu'il incombe à l'intimée de prouver la commission de tels actes.
+[6] Je me penche d'abord sur les présentations erronées qui ont été plaidées. L'intimée a déclaré au paragraphe 9 de la Réponse à l'avis d'appel que certaines hypothèses de fait, y compris les suivantes, avaient été faites pour l'établissement de la nouvelle cotisation[1] :
+[traduction]
+g) en calculant son revenu pour les années d'imposition 1994, 1995, 1996, 1997 et 1998, l'appelant a omis de déclarer des revenus s'élevant respectivement à 6 151 $, 13 943 $, 2 872 $, 22 760 $ et 24 173 $ pour les années d'imposition 1994, 1995, 1996, 1997 et 1998 (les « revenus non déclarés » ) comme le montre la pièce A ci-jointe;
+d) le calcul des revenus non déclarés découle d'un examen des comptes bancaires de l'appelant entrepris par les fonctionnaires de l'Agence des douanes et du revenu du Canada;
+e) l'examen des comptes bancaires de l'appelant pour les années qui font l'objet de l'appel a révélé des dépôts de sommes importantes qui n'ont pas été comptabilisés;
+h) les revenus non déclarés ont été calculés après la déduction des dépenses raisonnables reflétées dans la pièce A ci-jointe;
+j) en ne déclarant pas des revenus s'élevant à respectivement 6 151 $, 13 943 $, 2 872 $, 22 760 $ et 24 173 $ pour les années d'imposition 1994, 1995, 1996, 1997 et 1998, l'appelant a effectué des présentations erronées des faits par négligence, par inattention ou par omission volontaire;
+k) en ne déclarant pas les revenus non déclarés, l'appelant a sous-évalué ses revenus de 6 151 $, 13 943 $, 2 872 $, 22 760 $ et 24 173 $ pour les années d'imposition 1994, 1995, 1996, 1997 et 1998 respectivement. Ce faisant, il a, sciemment ou dans des circonstances équivalant à faute lourde, dans le cadre de l'accomplissement d'une tâche de ou l'exécution d'une obligation imposée par la Loi, fait de faux énonces ou des omissions, ou y a participé, consenti ou acquiescé, pour les déclarations d'impôts sur le revenu qu'il a produites pour les années d'imposition 1994, 1995, 1996, 1997 et 1998, ce qui s'est soldé par le paiement, par lui, d'un impôt fédéral pour lesdites années d'imposition qui, s'il avait été établi sur la base des informations fournies dans ses déclarations de revenus, serait inférieur de respectivement 0 $, 1 953,41 $, 0 $, 3 139,89 $ et 4 582,76 $ pour les années d'imposition 1994, 1995, 1996, 1997 et 1998, à ce qu'il aurait dû être.
+[7] La pièce A mentionnée aux paragraphes g) et h) ci-dessus est la suivante :
+Montants révisés pour la nouvelle cotisation
+Année d'imposition
+1994
+1995
+1996
+1997
+1998
+Revenu d'entreprise*
+8 931
+16 623
+5 512
+26 407
+28 211
+Dépenses
+Achats
+Frais d'adhésion
+320
+320
+320
+390
+393
+Assurance commerciale
+Repas et divertissements
+Fournitures de bureau
+50
+50
+50
+50
+50
+Outils
+100
+Frais juridiques et comptables
+50
+50
+50
+60
+75
+Téléphone cellulaire
+Autoroute à péage électronique
+46
+Main-d'oeuvre temporaire
+500
+Uniformes
+Bureau à domicile
+995
+1 007
+683
+1 234
+1 186
+Stationnement
+Véhicule
+1 121
+1 144
+1 162
+1 176
+1 109
+Banque et intérêts
+144
+109
+376
+738
+680
+Assistance au bureau
+Dépenses totales
+2 780
+2 680
+2 640
+3 647
+4 039
+Revenus d'entreprise non déclarés révisés
+6 151
+13 943
+2 872
+22 760
+24 173
+Véhicule :
+Carburant
+2 195
+2 242
+2 278
+2 314
+2 046
+Réparations
+720
+735
+747
+759
+761
+Assurance
+1 477
+1 509
+1 532
+1 557
+1 554
+Immatriculation
+90
+90
+90
+74
+74
+DPA
+Total
+4 482
+4 576
+4 647
+4 704
+4 435
+Fraction attribuable à l'entreprise : 25 p. 100
+1 121
+1 144
+1 162
+1 176
+1 109
+Bureau à domicile :
+Gaz, électricité, eau
+2 191
+2 238
+2 273
+2 310
+2 266
+Impôts fonciers
+1 807
+1 846
+1 875
+1 906
+1 645
+Assurance
+388
+397
+403
+409
+394
+Intérêts hypothécaires
+2 250
+2 231
+3 600
+3 600
+Total
+6 636
+6 712
+4 551
+8 225
+7 905
+Fraction attribuable à l'entreprise : 15 p. 100
+995
+1 007
+683
+1 234
+1 186
+Remarque : -Frais bancaires et d'intérêts comptés à 50 p. 100 des sommes demandées.
+Pour les dépenses du bureau à domicile, les chiffres de Statistique Canada ont été utilisés partout, sauf pour l'hypothèque qui a été acceptée.
+- Pour le véhicule, les chiffres de Statistique Canada ont été utilisés.
+* Ceci constitue un renvoi aux dépôts bancaires.
+[8] La prochaine question consiste à savoir si l'intimée a prouvé que l'appelant a fait les prétendues présentations erronées. Il convient de noter que les présentations erronées invoquées doivent être énoncées en détail. Dans la décision Gardner c. Canada, CCI, 2000-3310(IT)G, 13 septembre 2001 ([2001] 4 C.T.C. 2868), le juge Bowie a déclaré ce qui suit à la page 2872 :
+L'obligation particulière de faire la preuve de la présentation erronée des faits est énoncée de la manière suivante dans l'ouvrage intitulé Odgers' Principles of Pleading and Practice, vingt-deuxième éd., à la page 100 :
+[traduction]
+Chaque partie doit dévoiler la totalité de sa preuve. Elle doit alléguer tous les faits sur lesquels elle entend s'appuyer, sinon il lui sera interdit de produire quelque preuve que ce soit relativement à ces faits à l'audience.
+À la Cour canadienne de l'impôt, cette obligation a été formulée de la manière suivante par le juge Bowman, tel était son titre, dans l'affaire Ver c. Canada :
+Enfin, la réponse à l'avis d'appel laisse à désirer pour une affaire de ce genre. De simples affirmations selon lesquelles le ministre a « présumé » qu'il y avait présentation erronée sont inopportunes lorsque le ministre doit prouver qu'il y a eu présentation erronée. Les faits précis dont la présentation, à ce qu'on allègue, est erronée doivent être énoncés en détail dans la réponse et le caractère erroné de la présentation doit être démontré avec précision. Trois éléments essentiels doivent être allégués lorsque l'on invoque l'argument de la présentation erronée :
+(i) la présentation;
+(ii) le fait qu'elle ait été faite;
+(iii) le fait qu'elle est erronée.
+[9] En l'espèce, les présentations pertinentes ont trait à la déclaration de revenus d'entreprise. Le fait qu'elles ont été effectuées n'était pas réellement disputé. Qui plus est, ces éléments de l'argumentation de l'intimée étaient suffisamment prouvés par la production de copies des déclarations de revenus de l'appelant pour les années 1994, 1995 et 1996[2] et par la production de documents imprimés[3] qui, selon le témoignage du témoin Raymond Maciel, étaient des copies des dossiers informatisés de l'ADRC tirés des déclarations de revenus de l'appelant pour 1997 et 1998. La déclaration de revenus de l'appelant pour 1994 n'indique aucun revenu d'entreprise. Les déclarations pour 1995 et 1996 indiquent respectivement des revenus d'entreprise de 146 $ et de 2 930 $. Les dossiers informatisés pour 1997 et 1998 indiquent qu'aucun revenu d'entreprise n'a été déclaré.
+[10] Vient ensuite la question de savoir si les présentations de l'appelant concernant son revenu d'entreprise étaient erronées. Le ministre doit, pour prouver que l'appelant a présenté faussement son revenu, offrir plus qu'une affirmation selon laquelle il a « présumé » que c'était le cas. Dans l'arrêt Markakis v. M.N.R., [1986] 1 C.T.C. 2318, le juge Rip a déclaré à la page 2321 :
+[traduction]
+La question que je dois aborder en premier lieu en ce qui concerne la cotisation d'impôt pour 1976, consiste à savoir si l'intimé s'est déchargé du fardeau de prouver que M. Markakis avait fait des présentations erronées des faits par négligence, inattention ou omission volontaire lors de la production de sa déclaration de revenus pour 1976. Il suffit au ministre de démontrer qu'un contribuable est négligent s'il n'a pas fait preuve de la diligence raisonnable : Lucien Venne c. La Reine, C.F. 1er inst., T-815-82, 9 avril 1984, ([1984] C.T.C. 223 à la page 228; 84 D.T.C. 6247 à la p. 6251).
+Pour prouver que le contribuable n'a pas fait preuve de la diligence raisonnable, le ministre doit, à mon avis, faire davantage que la simple présentation de la preuve que le contribuable a fait dans son compte bancaire des versements qui excédaient la valeur de son revenu d'emploi, suivie de la simple déclaration au tribunal que lui, le ministre, n'accepte pas l'explication fournie par le contribuable quant à la provenance des fonds [...]
+[11] La règle bien connue[4] qui impose au contribuable le fardeau de prouver le caractère erroné des constatations ou des hypothèses de faits, ou des cotisations, ne s'applique pas dans le cas des appels interjetés à l'encontre de nouvelles cotisations pour des années frappées de prescription, à moins que le ministre n'établisse préalablement des faits justifiant sa nouvelle cotisation.
+[12] En l'espèce, les nouvelles cotisations étaient fondées sur la présomption que les dépôts « inexpliqués » effectués dans le compte bancaire de l'appelant étaient des revenus provenant d'une entreprise cachée dont les dépenses n'excédaient pas celles indiquées dans l'annexe A de la Réponse et que, par conséquent, les profits étaient calculés correctement par le ministre. La preuve dont le fardeau incombait au ministre devait justifier les éléments de fait de cette hypothèse.
+[13] Il me faut ajouter que le fardeau s'étend non seulement à la preuve du caractère erroné des présentations de l'appelant à propos de son revenu d'entreprise, mais également à la preuve qu'elles étaient causées par la négligence, l'inattention ou une omission volontaire, comme le soutient le ministre.
+[14] La position adoptée par la représentante de l'appelant était plutôt complexe. Elle a soutenu pendant toute la durée de l'instance que les cotisations portaient sur des années d'imposition frappées de prescription et qu'il incombait au ministre de prouver qu'il avait le droit d'établir de nouvelles cotisations. Elle a également adopté une position fondamentalement alternative, selon laquelle les cotisations étaient trop élevées.
+[15] Elle a soutenu que certains des dépôts bancaires, sinon leur totalité, provenaient de sommes empruntées par l'appelant et que l'un des dépôts effectués en 1997 avait été compté deux fois. En ce qui concerne le montant, elle a soutenu que le ministre avait sous-estimé le coût du gain des prétendus revenus. En ce qui a trait aux pénalités, elle a soutenu que l'appelant avait [traduction] « commis une simple erreur sur ses déclarations » .
+[16] Lors de l'audience, Raymond Maciel, un agent des appels de l'ADRC, Ferdinando Di Spirito, un vérificateur auprès de l'ADRC et l'appelant ont témoigné.
+[17] M. Maciel a produit les nouvelles cotisations en litige après que l'appelant ait fait opposition en vertu de l'article 165 de la Loi à l'encontre des nouvelles cotisations du 7 novembre 2001.
+[18] L'appelant n'a tenu ni livres ni registres pour quelque activité commerciale que ce soit qu'il aurait poursuivie pendant les années en litige. Par conséquent, le ministre a dû reconstituer les revenus et les dépenses de l'entreprise qu'il croyait avoir été exploitée par l'appelant.
+[19] Le témoin Ferdinando Di Spirito est un vérificateur dans le domaine de la TPS. Il a obtenu des justificatifs de dépôts dans les comptes de l'appelant. Il a été en mesure de tirer certains renseignements des registres d'autres contribuables, en particulier un certain M. Patterson, concernant des paiements à l'appelant. Aucun des payeurs n'a été appelé à comparaître pour prouver, soit que l'appelant exploitait une entreprise, soit que les paiements constituaient des revenus d'entreprise.
+[20] Le témoin Raymond Maciel est l'agent des appels qui a traité avec la représentante de l'appelant. Cette dernière a présenté des observations portant sur la source des dépôts bancaires. Elle a soutenu que pour 1994, 1995 et 1996, les dépôts autrement inexpliqués étaient des avances provenant de la marge de crédit de l'appelant. Elle a soutenu que les paiements effectués par M. Patterson avaient été comptés deux fois. Elle a reconnu que certains dépôts effectués en 1997 et en 1998 représentaient des revenus commerciaux, mais elle a affirmé que pour 1997, les dépenses excédaient les revenus et que pour 1998, les revenus excédaient les dépenses de moins de 2 000 $.
+[21] Le témoignage de M. Maciel révèle sans l'ombre d'un doute que les nouvelles cotisations établies en vertu de l'article 165 de la Loi sont fondées sur l'acceptation, par le ministre, d'une partie seulement des allégations effectuées par Mme Belzner, la représentante de l'appelant, tant à propos des revenus que des dépenses.
+[22] L'appelant a témoigné lors de l'audience. Je remarque d'un côté que j'ai de sérieux doutes à propos de sa crédibilité, et d'un autre côté que son témoignage n'a étayé aucune des hypothèses sur lesquelles s'est fondée l'intimée.
+[23] Les présentations erronées alléguées dans la Réponse reposent sur les conclusions de M. Maciel. Lesdites conclusions reposent elles-mêmes sur l'hypothèse que les dépôts bancaires représentaient les revenus d'une entreprise. À mon avis, cette hypothèse n'est étayée par aucune inférence pouvant être tirée raisonnablement de la preuve. De même, l'intimée n'a pas démontré que les coûts pour se procurer les prétendus revenus n'excédaient pas lesdits revenus. Bref, l'argumentation de l'intimée est fondée sur des conjectures. Cela ne suffit pas pour s'acquitter du fardeau de la preuve.
+[24] Pour ces motifs, les appels sont admis et les nouvelles cotisations sont annulées.
+Signé à Toronto (Ontario) ce 20e jour d'avril 2004.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 22e jour de juillet 2004.
+Sylvie Sabourin, traductrice
+[1] J'ai changé l'ordre dans lequel les hypothèses ont été plaidées.
+[2] Pièce A-1, onglets 3, 4 et 5.
+[3] Pièce A-1, onglet 4.
+[4] Johnston v. M.N.R., [1948] R.C.S. 186.

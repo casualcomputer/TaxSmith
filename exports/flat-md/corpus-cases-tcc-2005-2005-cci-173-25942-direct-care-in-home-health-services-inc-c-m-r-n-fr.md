@@ -1,0 +1,211 @@
+---
+title: "Direct Care In-Home Health Services Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25942/index.do"
+last_modified: "2005-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 173"
+citation2: ""
+neutral_citation: "2005 CCI 173"
+decision_date: "2005-04-08"
+language: "fr"
+item_id: "25942"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3675
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:02:52.665000+00:00"
+cases_cited_count: 0
+cases_citing_count: 16
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dba55017623dff7d896bc00908915a7146be615e36c80c59078bdbbfaae16e30"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Direct Care In-Home Health Services Inc. c. M.R.N.
+
+- Citation: 2005 CCI 173
+- Decision date: 2005-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3675, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Direct Care In-Home Health Services Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-08
+Référence neutre
+2005 CCI 173
+Numéro de dossier
+2004-671(EI)
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-671(EI)
+ENTRE :
+DIRECT CARE IN-HOME HEALTH SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 janvier et le 13 janvier 2004 avec l’appel de Direct Care in‑Home Health Services Inc. (2004-672(CPP) à Ottawa (Ontario)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Représentant de l’appelante :
+Daniel V. Blais
+Avocates de l’intimé :
+Me Justine Malone, Me Geneviève Leveillé
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2005.
+« J.E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme ce 20e jour de mars 2006.
+Joanne Robert, traductrice
+Dossier : 2004-672(CPP)
+ENTRE :
+DIRECT CARE IN-HOME HEALTH SERVICES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 janvier et le 13 janvier 2004 avec l’appel de Direct Care in‑Home Health Services Inc. (2004-671(EI) à Ottawa (Ontario)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Représentant de l’appelante :
+Daniel V. Blais
+Avocates de l’intimé :
+Me Justine Malone, Me Geneviève Leveillé
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2005.
+« J.E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme ce 20e jour de mars 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI173
+Date : 20050408
+Dossiers : 2004-671(EI)
+2004-672(CPP)
+ENTRE :
+DIRECT CARE IN-HOME HEALTH SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+FAITS
+[1] L’appelante interjette appel contre la détermination du ministre en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada selon laquelle Mme A.B., une infirmière auxiliaire autorisée (la « travailleuse »), était une employée de l’appelante plutôt qu’une entrepreneuse indépendante pendant la période allant de janvier 2001 au 31 décembre 2002. Il s’agit de la seule question en litige dans le cadre de cet appel.
+[2] L’entreprise de l’appelante pendant cette période consistait à assurer la prestation de services de soins et de soins infirmiers à domicile aux clients des services de soins à domicile des centres d’accès aux soins communautaires d’Ottawa (les « clients des CASC ») et à ses propres clients dont la famille avait engagé l’appelante pour fournir des soins à domicile à un de ses membres (« clients particuliers »).
+[3] L’appelante a appelé deux témoins, M. Blais et Mme Lavoi. M. Blais est le principal actionnaire de la société appelante, et Mme Lavoi est la directrice actuelle des services de soins infirmiers de la société appelante. Avant d’occuper ce poste, Mme Lavoi a travaillé pour l’appelante pendant six ans à titre d’infirmière autorisée. Mme Lavoi était un témoin bien informé. Même si M. Blais a témoigné longuement lors de l’audience, il ne connaissait pas personnellement les activités quotidiennes de l’appelante. De plus, il s’est fortement fondé sur les conclusions qu’il avait tirées des réponses qu’il avait lui-même posées aux questions posées dans un formulaire utilisé par l’ARC pour déterminer le statut de la travailleuse. Cet aspect de la preuve n’a pas été vraiment utile, mais j’ai trouvé que son témoignage était fiable en ce qui concerne le mode de fonctionnement général de l’appelante, dont une grande partie a été corroborée par Mme Lavoi ou la travailleuse, qui a été appelée par l’intimée[1].
+[4] Pendant la période en question, l’appelante avait recours à 30 travailleurs de la santé ou plus pour l’aider à assurer la prestation de services aux clients des CASC et à des clients particuliers. Quand je dis que l’appelante « avait recours » à des travailleurs, je veux dire que l’appelante avait une réserve de fournisseurs de soins de santé (principalement des infirmiers autorisés et des infirmiers auxiliaires autorisés) avec lesquels elle avait un contrat. La travailleuse faisait partie de ces infirmiers. Son contrat écrit (l’« entente ») avec l’appelante semble être un contrat type utilisé par l’appelante pour retenir les services des travailleurs faisant partie de sa réserve. Cette entente précise que la travailleuse est une entrepreneuse extérieure et établit une relation de travail qui se prête véritablement à l’embauche d’entrepreneurs indépendants, ce qui était clairement l’intention de l’appelante. Les clauses 1 à 3 de l’entente, notamment, font ressortir cette relation. Voici les clauses en question :
+[TRADUCTION]
+1. Paramètres
+L’entrepreneur accepte d’assurer la prestation de services s’il y a lieu pour Direct Care Health Services, et les parties conviennent donc mutuellement de conclure le présent contrat. Les services à fournir sont précisés au point 2a) sous la rubrique Rémunération.
+2. Rémunération
+Direct Care Health Services accepte de verser ce qui suit à l’entrepreneur :
+a) Le montant de la rémunération variera en fonction du niveau des soins fournis. Les niveaux de soins sont tous indiqués, et la rémunération qu’il convient de verser pour chaque niveau figure à droite du niveau. Par conséquent, le fournisseur de soins sera payé en fonction du niveau de soins et du montant horaire maximum, tel qu’il est indiqué ci‑dessous.
+1. Soins - niveau I ___________
+2. Soins - niveau II ___________
+3. Infirmier auxiliaire autorisé ___________ (vérifié)
+4. Infirmier autorisé ___________
+5. Soins des pieds ___________
+Une facture/demande de paiement doit être présentée avant qu’un paiement puisse être effectué.
+b) L’entrepreneur n’est pas un employé de Direct Care Health Services et, à ce titre, il doit déclarer lui‑même son revenu à Revenu Canada et il est responsable du versement des cotisations au Régime de pensions du Canada, des cotisations d’assurance‑emploi et de l’impôt sur le revenu.
+3. Relation
+Pendant la période visée par le présent contrat, l’entrepreneur n’est pas un représentant officiel ou un employé régulier de Direct Care Health Services. Ce contrat est une entente qui prévoit que Direct Care Health Services doit garder le nom de l’entrepreneur dans son répertoire pour les services particuliers fournis. Ce contrat ne garantit pas des heures de travail régulières. Pendant l’exécution des fonctions prévues dans le cadre du contrat, l’entrepreneur doit respecter les politiques et les procédures de Direct Care Health Services énoncées dans le manuel d’orientation.
+[5] La travailleuse a dit dans son témoignage qu’elle acceptait de ne pas être une employée parce que c’était ce que l’appelante exigeait. Dire qu’il lui importait peu d’être considérée comme une entrepreneuse indépendante par opposition à une employée correspond assez bien à ce que la travailleuse a indiqué dans son témoignage à ce sujet[2].
+[6] Voici un résumé de la preuve présentée à l’audience :
+- lorsqu’elle a posé sa candidature pour la première fois, la travailleuse comprenait qu’elle devait subir une période d’essai initiale pendant laquelle elle devait montrer à l’appelante qu’elle avait les aptitudes requises pour faire partie de la réserve d’infirmiers ayant un contrat avec l’appelante;
+- lorsqu’elle a commencé à travailler pour l’appelante, la travailleuse a reçu un manuel de procédures que l’appelante avait établi pour ses travailleurs. Cependant, rien dans son témoignage n’a contredit le témoignage de M. Blais selon lequel le manuel ne comportait que des procédures administratives et ne donnait pas vraiment d’indications concernant la façon dont les infirmiers devaient fournir leurs services aux clients;
+- la travailleuse a admis avoir accepté des « affectations » en vertu de l’entente selon un taux de rémunération horaire, comme l’avait établi l’appelante, et reçu des augmentations de temps à autre fondées entièrement sur des structures de taux établies à l’interne par l’appelante;
+- la travailleuse portait un insigne d’identité au début de chaque affectation, pendant un jour ou deux, et l’insigne indiquait qu’elle était une représentante de « Direct Care »;
+- l’appelante offrait parfois des séances de formation en cours d’emploi aux travailleurs de sa réserve. Un conférencier était habituellement invité aux séances. La travailleuse assistait souvent aux séances, et elle les trouvait utiles, parce qu’elles l’aidaient à satisfaire aux exigences en matière de formation continue de son association de soins infirmiers (exigences qu’elle appelait des [TRADUCTION] « réflexions »). Contrairement au témoignage de M. Blais selon lequel les séances étaient destinées à un public plus large en vue de promouvoir l’entreprise de l’appelante, la travailleuse a témoignagé que, selon son expérience, les seules personnes qui assistaient aux séances étaient les infirmiers qui avaient un contrat avec l’appelante;
+- la travailleuse a dit qu’elle avait le choix d’accepter les affectations qu’elle voulait. Elle pouvait dire non à une affectation pour pratiquement n’importe quelle raison. Elle n’était pas obligée d’être disponible à un moment donné ni pour exécuter un genre de travail particulier. Elle pouvait essayer une affectation pendant un jour ou deux, puis décider si elle voulait continuer ou arrêter. M. Blais a confirmé que les travailleurs pouvaient refuser une affectation pour pratiquement n’importe quelle raison, comme : le client était un fumeur, le client avait un animal de compagnie, les heures de travail ne convenaient pas ou l’endroit où la maison du client était située n’était pas pratique;
+- la travailleuse devait régulièrement (chaque dimanche ou lundi) indiquer ses heures de disponibilité pour la semaine et le genre d’affectation qu’elle était prête à accepter;
+- il n’y avait pas de clause d’exclusivité de service ni d’obligation de non‑concurrence, que ce soit dans l’entente elle‑même ou dans la compréhension de l’entente par la travailleuse. Un travailleur n’avait pas besoin d’être disponible pour exécuter les contrats de l’appelante et il pouvait fournir des services semblables à d’autres compagnies ou clients directement;
+- la travailleuse a confirmé que, lorsqu’une affectation était acceptée, l’appelante s’attendait à ce que les tâches soient accomplies selon ce qui avait été convenu. Toutefois, il est clair, selon la preuve présentée par la travailleuse ainsi que les autres témoins, que les travailleurs pouvaient abandonner une affectation de façon temporaire ou permanente. La travailleuse ne pouvait pas confier à un autre travailleur une affectation qu’elle abandonnait, même temporairement;
+- à partir de juin 2001, quand la travailleuse a conclu une entente avec l’appelante, les affectations de la travailleuse étaient auprès de clients en phase terminale, et les heures de travail et la durée des affectations variaient. Toutefois, depuis octobre 2002, elle s’occupe d’un client de longue date des CASC de façon continue dans le cadre d’un poste régulier. La travailleuse considère son affectation auprès de ce client comme une affectation continue à long terme;
+- afin d’accomplir des services pour l’appelante, la travailleuse avait besoin d’un véhicule, de gants, d’un stéthoscope et d’un brassard à tension artérielle. La travailleuse devait utiliser son propre véhicule, et l’appelante ne lui versait aucune indemnité ni ne lui remboursait quoi que ce soit pour l’utilisation de son véhicule. Dans l’entente, il était expressément prévu que la travailleuse était responsable du transport entre son domicile et le lieu des affectations. Même si l’entente prévoit que le matériel et les fournitures sont fournis par l’appelante, selon la preuve, cette disposition n’a pas été appliquée. Les fournitures, telles que les pansements et les appareils médicaux, qui pouvaient être exigées, étaient fournies par les CASC ou les familles des clients particuliers, alors que le stéthoscope, les gants et le brassard à tension artérielle étaient fournis par la travailleuse;
+- la travailleuse était couverte par l’assurance de responsabilité professionnelle de l’appelante en ce qui concerne les tâches qu’elle exécutait en vertu de son contrat avec Direct Care;
+- lorsque la travailleuse s’occupait des clients, son rôle consistait à mesurer leurs signes vitaux, à leur donner leurs médicaments et à s’occuper de leurs besoins en matière de soins médicaux et de soins de santé conformément aux indications des CASC ou des médecins des clients particuliers. C’est‑à‑dire que les tâches que la travailleuse devait exécuter étaient établies par un tiers avec l’aide de l’appelante, dans certains cas, mais presque toujours sans la participation de la travailleuse. L’exécution des tâches était presque toujours laissée au gré de la travailleuse lorsqu’elle était engagée par l’appelante pour exécuter ces tâches;
+- en grande partie, la travailleuse n’était pas supervisée dans l’exécution de ses fonctions auprès d’un client. Une ou deux fois par année, ou au début d’une affectation, un superviseur employé par l’appelante accompagnait la travailleuse chez le client. La travailleuse a indiqué clairement dans son témoignage que le superviseur n’était pas là pour superviser son travail; il était plutôt là pour l’aider et l’appuyer lorsqu’elle devait donner certains soins qu’elle ne connaissait pas beaucoup. Même si on lui dictait les fonctions qu’elle devait exécuter, elle était laissée à elle‑même pour l’exécution de ces fonctions;
+- la travailleuse établissait des comptes rendus journaliers à l’aide de formulaires fournis par l’appelante, et ces formulaires étaient laissés chez le client pour faire en sorte que les autres professionnels de la santé qui s’occupaient du client puissent connaître l’état actuel du client. Par la suite, les rapports étaient remis à l’appelante, à titre de responsable de la tenue des dossiers concernant le client. Les rapports étaient examinés par un superviseur employé par l’appelante. Il semble que cela faisait en sorte que l’appelante soit en mesure de rendre des comptes aux CASC ou à la famille ou au médecin des clients particuliers, comme l’exigeaient ses ententes contractuelles;
+- les factures de l’appelante qui étaient utilisées pour facturer les services aux CASC et aux clients particuliers étaient établies par la travailleuse, et l’appelante s’en servait pour rendre compte à la travailleuse de ses heures de travail. La facture comportait les heures de travail effectuées par la travailleuse (pour l’appelante) et la signature du client, laquelle servait à confirmer les heures indiquées. La facture était envoyée par l’appelante aux CASC ou aux clients particuliers pour le paiement de ses honoraires. La travailleuse était payée par l’appelante pour les heures indiquées sur la facture.
+JURISPRUDENCE
+[7] Je vais maintenant faire une analyse de la jurisprudence. L’arrêt de principe concernant la question que j’ai à trancher est l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 (l’« arrêt Sagaz »). Dans cette affaire, la Cour suprême du Canada a approuvé expressément le critère énoncé par la Cour d’appel fédérale dans l’affaire Wiebe Door Services Ltd. c. Canada (ministre du Revenu national), [1986] 3 C.F. 553. S’exprimant au nom de la Cour, le juge Major a indiqué ce qui suit aux paragraphes 47 et 48 :
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches (je souligne).
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[8] La Cour d’appel fédérale a suivi l’arrêt Sagaz dans l’affaire Lawrence Wolf v. The Queen, 2002 D.T.C. 6853 (l’« arrêt Wolf »). Les trois juges d’appel qui ont entendu l’affaire ont rendu des motifs concordants quant au résultat. Les commentaires formulés par la juge Desjardins à l’égard du critère « à qui appartient l’entreprise » qui, selon moi, constitue une reformulation de la « question centrale » posée dans l’arrêt Sagaz, et les commentaires formulés par les juges Noël et Décary concernant l’importance qu’il faut accorder aux intentions des parties sont particulièrement importants en l’espèce. Les commentaires formulés par la juge Desjardins au paragraphe 93 à l’égard du critère « à qui appartient l’entreprise » concernent la question de savoir si, du point de vue du travailleur, le travailleur a une entreprise qui est indépendante de l’entreprise de la partie qui retient les services du travailleur. Et, en ce qui concerne l’importance à accorder aux intentions des parties, le juge Noël a indiqué ce qui suit à la page 6870, paragraphe 122 :
+[122] [...] À mon avis, il s’agit d’un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n’est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l’autre direction. Mais, dans une issue serrée comme en l’espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l’intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+Cette opinion est partagée par le juge Décary au paragraphe 120 :
+[120] De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l’embauche ne veut pas avoir de responsabilités envers un travailleur si ce n’est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de services. Si l’on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d’emploi, le peu d’égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[9] Dans l’affaire Poulin c. Canada, [2003] CAF 50, la Cour d’appel fédérale devait déterminer si l’appelante avait engagé des fournisseurs de soins de santé privés à titre d’employés ou d’entrepreneurs indépendants. La CAF a passé en revue chacun des critères bien établis et a conclu ce qui suit aux paragraphes 27 et 28 :
+[27] [...] les critères développés par la jurisprudence pour différencier un contrat de travail d’un contrat de services ne s’avèrent pas d’une grande utilité dans le contexte particulier de la présente affaire. Les services rendus au demandeur au cours de l’année 1999 et les conditions dans lesquelles ils furent rendus révèlent une fourniture de services aussi compatible avec celle découlant d’un contrat de services ou d’entreprise que celle émanant d’un contrat de travail. Ceci dit, comme le rappelait notre collègue, le juge Décary, dans l’affaire Wolf, précitée, au paragraphe 117, ces critères ne sont que des facteurs à considérer dans la détermination de ce « qui est l’essence même d’une relation contractuelle, à savoir l’intention des parties ». Et d’ajouter le juge Décary, « en fin de compte, on finit par faire, en droit civil comme en common law, un examen des termes des conventions pertinentes et des circonstances pour découvrir la véritable réalité contractuelle des parties » : ibid., au paragraphe 113.
+[28] Ceci m’amène à examiner l’intention des parties afin de déterminer la relation globale qu’elles désiraient entretenir entre elles.
+ANALYSE
+[10] Dans la jurisprudence, deux méthodes sont suggérées pour le règlement d’une affaire comme celle‑ci. Tout d’abord, si grâce à l’application des critères de l’affaire Wiebe Door, il est possible de déterminer clairement la classification du travailleur, cela met probablement un terme à la question. Ensuite, si l’application de ces critères ne permet pas de déterminer clairement la classification, il faut voir s’il y a une entreprise appartenant à un travailleur indépendant et quelles sont les intentions des parties. Je commencerai mon analyse avec les critères énoncés dans l’affaire Wiebe Door.
+Contrôle
+[11] Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur‑employé[3]. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé-employeur[4]. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur[5].
+[12] En l’espèce, la travailleuse pouvait refuser une affectation pour quelque raison que ce soit, ou même sans raison. Elle pouvait quitter un client et quand même travailler pour un autre client qu’elle préférait. Elle pouvait accomplir d’autres tâches comme bon lui semblait et quand elle le voulait. De plus, même si on lui offrait des tâches de soins infirmiers, on ne lui promettait rien à ce sujet et elle n’était pas supervisée dans l’accomplissement de ces tâches. Selon l’appelante, chacune des tâches offertes était une tâche axée sur les résultats. Le fait que l’appelante pouvait offrir de telles tâches de temps à autre et, dans une certaine mesure, contrôler le rendement des travailleurs ne m’amène pas à conclure qu’il y avait une relation employé-employeur. Comme dans l’affaire D & J Driveway, où le lien de subordination entre la compagnie et les conducteurs n’était pas assez important pour que le juge puisse conclure qu’il y avait un contrat de travail, en l’espèce, le lien de subordination n’est pas assez important pour qu’il soit possible de conclure que la relation entre les parties est une relation employé-employeur. Dans l’affaire D & J Driveway, les conducteurs pouvaient effectuer des livraisons particulières, et ils avaient le choix d’accepter ou de refuser de faire les livraisons quand on faisait appel à eux. Lorsque les conducteurs acceptaient d’effectuer une livraison, aucun contrôle n’était exercé concernant la façon dont ils exécutaient leurs fonctions. De même, dans l’arrêt Wolf, la juge Desjardins a dit qu’un lien de subordination n’avait pas été créé quand le travailleur, un ingénieur en mécanique indépendant engagé selon un contrat d’un an renouvelable, s’était fait assigner des tâches dont il était le « maître »[6]. Comme dans ces cas‑là, je ne crois pas qu’en l’espèce il y a un lien de subordination entre la travailleuse et l’appelante, lequel lien doit être présent pour que l’on puisse conclure qu’il y a un contrat de travail. Le critère du contrôle semble donc indiquer qu’il y a une relation d’entrepreneur indépendant.
+Outils et matériel
+[13] Pour ce qui est de ce facteur, il faut se demander qui possède les biens ou le matériel nécessaires pour l’exécution du travail, l’employeur ou la travailleuse. Ce facteur semble indiquer que la travailleuse est une entrepreneuse indépendante si c’est elle qui contrôle les biens ou le matériel. En revanche, si c’est l’employeur qui en a le contrôle, il est probable que la conclusion sera que la travailleuse est une employée[7].
+[14] Dans ce cas‑ci, la travailleuse avait besoin de gants, d’un stéthoscope et d’un brassard à tension artérielle. De plus, comme il est expressément prévu dans l’entente, la travailleuse était responsable du transport entre sa demeure et le lieu des affectations. À cette fin, la travailleuse engageait des frais pour entretenir un véhicule.
+[15] Toujours selon l’entente, l’appelante devait fournir à la travailleuse [TRADUCTION] « les fournitures et le matériel qui, selon l’organisme (Direct Care Health Services), sont nécessaires pour exécuter les tâches qui lui sont confiées ». Toutefois, la preuve indique que cette disposition n’a pas été appliquée et que toutes les fournitures, telles que les pansements et appareils médicaux, étaient fournies par les CASC ou les familles des clients particuliers. Dans ce cas‑ci, une partie des instruments et du matériel était fournie par la travailleuse et le reste était fourni par un tiers. L’appelante n’a rien fourni d’autre à la travailleuse que les documents pour la facturation et les formulaires de rapport sur les patients; elle n’a pas fourni d’instruments ou de matériel. Même s’il est clair qu’il ne convient pas d’accorder une importance considérable à ce facteur dans une affaire comme celle‑ci, en aucune façon cela n’indique que l’appelante est la partie qui contrôle le matériel nécessaire pour l’accomplissement des activités de la travailleuse ou qui a acheté le matériel.
+Risque de perte/possibilité de profit
+[16] Ce facteur permet d’examiner la possibilité de profit et le risque de perte du travailleur. Normalement, un entrepreneur indépendant assume les risques de perte et est responsable des possibilités de profit résultant de l’exécution de son travail, alors que dans le cas d’un employé, c’est l’employeur qui assume ce fardeau et qui a ces possibilités[8].
+[17] L’intimé allègue que la travailleuse n’assume essentiellement aucuns frais et qu’elle est payée selon un taux de rémunération horaire, ce qui fait en sorte qu’elle n’assume pas les risques de perte ou qu’elle n’a pas de possibilité de profit. L’intimé allègue aussi que le fait que l’appelante soit responsable de l’assurance responsabilité civile de la travailleuse semble indiquer que l’appelante accepte le risque comme le fait un employeur. On peut évidemment contester ces allégations en invoquant les arguments habituels selon lesquels la rémunération horaire ne permet pas de déterminer la nature de la relation, et le fait d’avoir une assurance pour les entrepreneurs indépendants est aussi avantageux pour la partie qui a recours aux services de ces entrepreneurs que ne l’est pour un employeur le fait d’assurer ses employés dans l’exécution de leurs fonctions. Même si le fait que l’appelante fournit la couverture réduit le risque de perte de la travailleuse, selon moi, ce fait ne peut pas être considéré comme un facteur primordial dans la classification de la relation, particulièrement dans les cas comme celui‑ci où la chaîne de responsabilité est telle que, selon le contrat, l’appelante est le principal défendeur dans une action. L’avantage pour la travailleuse est accessoire et, à lui seul, n’a que peu d’importance.
+[18] De plus, l’intimé fait valoir que la travailleuse ne négocie pas ses propres augmentations de salaire, elle accepte plutôt les conditions de rémunération établies par l’appelante, ce qui ne correspond pas à une activité exécutée en vue de réaliser un profit. Toutefois, il semble que la travailleuse considère que ses taux de rémunération sont concurrentiels. Selon moi, il semble qu’elle ne voyait tout simplement aucune raison de négocier pour avoir une rémunération plus élevée. Cela ne peut pas m’empêcher de conclure qu’elle était une entrepreneuse indépendante si d’autres facteurs viennent appuyer cette conclusion. De plus, en ce qui concerne les risques, il faut souligner que la travailleuse ne bénéficie pas du genre de sécurité d’emploi qui est caractéristique d’un emploi. Elle n’a pas de prestations d’assurance‑maladie, de régime de pension, de protection syndicale, d’heures garanties, de structure prévue pour l’avancement ou de quelque genre de sécurité d’emploi que ce soit. Comme je l’ai mentionné précédemment dans les présents motifs, dans l’arrêt Wolf, le juge Décary a formulé les commentaires suivants au sujet des facteurs indiquant l’existence d’une relation d’entrepreneur indépendant : « Si l’on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d’emploi, le peu d’égard pour les prestations salariales, la liberté de choix et les questions de mobilité. »
+[19] De plus, il ne faut pas oublier le fait que la travailleuse pouvait refuser une affectation pour quelque raison que ce soit. En ce sens, la travailleuse avait prise sur la quantité d’argent qu’elle pouvait gagner dans une bien plus grande mesure que la plupart des employés. La travailleuse pouvait augmenter son revenu et ses possibilités de profit en acceptant plus d’affectations de l’appelante. Par contre, comme ses heures n’étaient pas garanties, elle risquait que certaines dépenses, comme les dépenses relatives au véhicule, excèdent son revenu. Bien sûr, bien des employés peuvent être dans une situation semblable. Je n’accorderais donc pas trop d’importance à ce facteur pour ce qui est de la qualification de la nature de la relation.
+[20] Même si l’application des critères énoncés dans l’arrêt Wiebe Door en fonction de ce qui a été mentionné ci‑dessus justifie une conclusion selon laquelle la travailleuse est une entrepreneuse indépendante, je poursuivrai mon analyse en tenant compte de la jurisprudence citée ci‑dessus où on a étudié l’affaire en tenant compte de la question de savoir si la travailleuse travaille à son compte et de l’intention des parties dans des issues serrées .[9]
+À qui appartient l’entreprise?
+[21] Pour l’application de ce critère, la question centrale qui est posée dans l’arrêt Sagaz est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Même si on considère que, dans cette cause de la Cour suprême, la réponse à la question repose sur l’application des quatre critères énoncés dans l’arrêt Wiebe Door, on a généralement tendance à examiner les activités du travailleur séparément pour voir si elles constituent une entreprise. Si ce n’est pas le cas, comment peut‑on dire que le travailleur travaille à son compte? Si on considère les activités du travailleur du point de vue du travailleur[10], en l’espèce, cela peut sembler indiquer que la travailleuse n’a pas d’entreprise en soi. Bien que des signes extérieurs à eux seuls ne soient pas des facteurs déterminants de l’existence d’une entreprise, il est remarquable que, dans ce cas‑ci, la travailleuse n’exerce pas d’activités sous un nom commercial, elle n’a pas de bureau (y compris un bureau à domicile) ni de liste de clients, elle ne fournit pas ses propres formulaires et elle n’établit pas de factures séparées pour la prestation de ses services. Tous ces facteurs laissent supposer qu’il n’y a qu’une seule entreprise : celle de l’appelante. En effet, la travailleuse elle‑même ne prétend pas avoir une entreprise, contrairement à ce qu’on pourrait déduire de son entente contractuelle si on tient compte de la façon dont elle est rédigée et de la façon dont les fonctions qui y sont prévues sont exécutées.
+[22] Toutefois, il ne faut pas tomber dans le piège et penser que seulement ce qui revêt les signes extérieurs d’une « entreprise » est une entreprise pour les besoins de cette analyse. À cet égard, je fais référence au paragraphe 13 de l’arrêt D & J Driveway :
+[...] Il faut bien se prémunir à l’encontre d’un réflexe de songer uniquement à une corporation d’affaires ou à une entreprise commerciale structurée lorsque l’on pense à des travaux qui sont réalisés ou des services qui sont fournis autrement qu’en vertu d’un contrat de travail. Ce sont souvent les exemples de l’entrepreneur en électricité, en plomberie ou en construction qui viennent immédiatement à l’esprit dans un tel contexte. Mais il existe toute une gamme de services qui sont offerts en vertu d’un contrat de service. D’ailleurs, le Code civil du Québec, à l’article 2098, a bien pris soin de mettre sur un pied d’égalité le « contrat d’entreprise » et le « contrat de service » et d’appeler « entrepreneur » la personne qui exécute un contrat d’entreprise et « prestataire de services » celle qui exécute un contrat de service.
+[23] Même si le Code civil du Québec ne s’applique pas en l’espèce, je trouve que les propos du juge Letourneau sont instructifs. En l’espèce, la travailleuse pouvait à son gré accepter ou refuser une affectation, ou même l’abandonner, et elle pouvait conclure des contrats avec d’autres organismes que l’appelante, à la condition de ne pas solliciter auprès des clients de l’appelante du travail qui ne soit pas prévu par l’entente. De plus, la travailleuse utilisait une bonne partie de ses propres instruments de travail et elle pouvait exécuter ses fonctions sans supervision. Selon moi, c’est suffisant pour conclure que la travailleuse avait une entreprise comme les conducteurs dans l’affaire D & J Driveway. L’appelante et la travailleuse sont deux personnes séparées ayant chacune une entreprise distincte. L’entreprise de l’appelante consiste à trouver des clients, à trouver des entrepreneurs pour exécuter les tâches requises par les clients et à coordonner la satisfaction des besoins des clients. L’exécution des tâches est confiée à des travailleurs dont l’entreprise consiste à exécuter les tâches comme ils le veulent et quand ils le veulent.
+[24] Même si je crois que cette partie de l’analyse confirme et appuie ma conclusion antérieure selon laquelle, en l’espèce, la classification de la travailleuse en tant qu’entrepreneuse indépendante est appropriée, par souci d’exhaustivité, je vais examiner les intentions des parties.
+Intentions
+[25] Même s’il ne faut pas considérer les intentions des parties comme un facteur déterminant, elles peuvent être utiles dans une issue serrée[11]. En d’autres mots, si on arrivait à la conclusion après un examen de l’ensemble de la preuve qu’il s’agit d’une issue serrée où les facteurs pertinents pointent dans les deux directions avec autant de force et qu’il faut donc examiner et considérer la compréhension mutuelle des parties, comment l’affaire serait‑elle réglée?
+[26] Il ne m’est pas difficile de conclure que l’appelante avait l’intention d’engager la travailleuse à titre d’entrepreneuse indépendante. C’est ce qui ressort clairement du témoignage de M. Blais et des modalités de l’entente. Pour ce qui est de l’intention de la travailleuse, je tiens d’abord à souligner qu’elle n’est pas aussi évidente que celle de l’appelante. Le témoignage de la travailleuse semble indiquer que la question ne l’intéressait pas. Elle ne semblait pas préoccupée par sa classification. Bien qu’on puisse dire qu’elle ne s’est jamais vraiment considérée comme une entrepreneuse indépendante, on ne peut ignorer le fait qu’elle n’a jamais exercé ses fonctions en pensant qu’elle était une employée. Au contraire, elle a exercé les fonctions en acceptant, en toute connaissance de cause, la relation prévue par l’appelante. De plus, je suis obligé de conclure qu’elle doit avoir eu au moins un peu l’intention d’exploiter une entreprise en tant qu’entrepreneuse indépendante, compte tenu du fait qu’elle a accepté une entente selon laquelle elle n’avait pas droit à des avantages sociaux, et ce, sans la protection apparente de la législation du travail en ce qui concerne les avantages sociaux ou la sécurité d’emploi. Lors de l’audience, la travailleuse n’a aucunement montré qu’elle souhaitait changer sa situation parce qu’elle savait très bien qu’il s’agissait, et qu’il s’agit toujours de l’entente qu’elle a acceptée de plein gré. Son intention était et est toujours d’exploiter son entreprise comme l’exige l’entente.
+CONCLUSION
+[27] Si je tiens compte de tous les facteurs, en l’espèce, il est logique de considérer que l’entreprise de la travailleuse est une entreprise que celle‑ci exploite pour son propre compte en tant qu’entrepreneuse indépendante. Par conséquent, les appels sont accueillis.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2005.
+« J.E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme ce 20e jour de mars 2006.
+Joanne Robert, traductrice
+[1] La travailleuse n’a pas prétendu être une employée. Il ne s’agit pas d’une affaire où un travailleur réclame des avantages à titre d’employé et conteste la classification d’entrepreneur indépendant.
+[2] Le témoignage de la travailleuse à l’audience a démenti, dans une certaine mesure, le témoignage de M. Blais selon lequel la travailleuse lui avait admis dans une lettre qu’elle considérait qu’elle était une entrepreneuse indépendante et qu’elle accomplissait son travail dans cette optique. Cette lettre, qui tendait à indiquer que la travailleuse exploitait sa propre entreprise, n’a jamais été présentée à la travailleuse et n’a jamais été déposée en preuve.
+[3] Wolf, paragraphe 74.
+[4] Voir, par exemple, l’arrêt D & J Driveway Inc. c. Canada (ministre du Revenu national), [2003] A.C.F. no 1784 (C.A.F.), aux paragraphes 9 et 13, et l’arrêt Wolf, au paragraphe 77.
+[5] Voir l’arrêt Charbonneau c. Canada, [1996] A.C.F. no 1337 (C.A.F.), au paragraphe 10, tel qu’il est cité dans l’arrêt D & J Driveway au paragraphe 9.
+[6] Wolf, paragraphe 77.
+[7] Wolf, paragraphe 82.
+[8] Wolf, paragraphe 86.
+[9] Je tiens à souligner que, compte tenu du fait qu’il s’agit d’une issue serrée, l’intimé a fait valoir de nombreux autres facteurs qui, en l’espèce, font pencher la balance en faveur d’une classification où il y a une relation employé-employeur. Il s’agit notamment de la période d’essai, du manuel de procédures, de l’insigne d’identité, des séances de formation en cours d’emploi, de la constance du travail depuis octobre 2002 et du fait que la travailleuse ne pouvait pas engager quelqu’un pour la remplacer. Toutefois, j’ai examiné ces autres facteurs et aucun n’influencerait vraiment les conclusions énoncées dans les présents motifs, bien que j’avoue que bon nombre de ces facteurs m’amènent à admettre que cette affaire pourrait bien être qualifiée d’« issue serrée ».
+[10] Wolf, paragraphe 93.
+[11] Voir l’extrait de l’arrêt Wolf au paragraphe 8 des présents motifs.

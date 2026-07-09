@@ -1,0 +1,160 @@
+---
+title: "Joncas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27554/index.do"
+last_modified: "2005-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 647"
+citation2: ""
+neutral_citation: "2005 CCI 647"
+decision_date: "2005-10-17"
+language: "fr"
+item_id: "27554"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 116
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:25:46.591000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b94852e37b7ab81d9d9ac86fc2b33486f61e45cea8ba5ce3ec6dece86af60d21"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Joncas c. La Reine
+
+- Citation: 2005 CCI 647
+- Decision date: 2005-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 116, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joncas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-17
+Référence neutre
+2005 CCI 647
+Numéro de dossier
+2004-515(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-515(GST)I
+ENTRE :
+CLÉMENT JONCAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 30 août 2005, à Baie-Comeau (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Jean-Louis Martel
+Avocat de l'intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis daté du 19 novembre 2002 porte le numéro PQ-2002-6799, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI647
+Date : 20051017
+Dossier : 2004-515(GST)I
+ENTRE :
+CLÉMENT JONCAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à la cotisation de taxe sur les produits et services ( « TPS » ), portant le numéro PQ-2002-6799 en date du 19 novembre 2002, qui a été établie en vertu de la Loi sur la taxe d'accise (la « Loi » ).
+[2] Les points en litige sont les suivants :
+· En sa qualité d'administrateur de la compagnie, l'appelant est-il solidairement tenu avec elle, de payer la taxe nette exigible ainsi que les intérêts et pénalités?
+· Est-ce que l'appelant, en tant qu'administrateur de la compagnie, a agi avec autant de soin, de diligence et de compétence pour prévenir le défaut de la compagnie de verser la taxe nette exigible que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances?
+[3] Le ministre du Revenu national (le « ministre » ) s'est appuyé notamment sur les hypothèses de fait suivantes pour établir la cotisation :
+a) au cours des années 2000 à 2001, l'appelant était un administrateur de la compagnie « La compagnie Industrielle de Hauterive ltée » (ci-après appelée « la compagnie » ). (admis)
+b) au cours des années mentionnées ci-haut, la compagnie était un inscrit aux fins de l'application de la TPS. (admis)
+c) suite à une vérification de la compagnie, il fut constaté que cette dernière avait perçu la TPS sans les remettre à l'intimée pendant la période du 1er juillet 2000 au 19 novembre 2001. (admis)
+d) le 19 mars 2002, la compagnie a fait cession de ses biens en vertu de la Loi sur la faillite et l'insolvabilité; (admis)
+e) bien qu'il ait produit une preuve de réclamation le 29 août 2002, soit dans les six mois de la date de la faillite de la compagnie, la créance de l'intimée ne lui a jamais été entièrement payée; (admis)
+f) l'appelant était administrateur de la compagnie aux périodes où celle-ci était tenue de verser la taxe nette à l'intimée; (admis)
+g) l'appelant s'occupait de la gestion quotidienne de la compagnie durant la période en litige; (admis)
+h) plus particulièrement, l'appelant a signé le 23 février 2000 à titre d'administrateur de la compagnie, la déclaration fiscale de cette dernière pour l'exercice financier se terminant le 31 décembre 1999; (admis)
+i) Également, l'appelant signait à titre d'administrateur de la compagnie durant l'année 2001 divers chèques pour l'administration de la compagnie et pour les remises fiscales de cette dernière. (admis)
+j) L'appelant, à titre d'administrateur de la compagnie, a signé le bilan de faillite de la compagnie le 29 mars 2002. (pas connaissance)
+k) L'appelant n'a pas agi avec le degré de soin, de diligence et de compétence, pour prévenir le manquement qu'une personne raisonnablement prudente ne l'aurait fait dans des circonstances comparables; (nié)
+l) en particulier, l'appelant n'a pris aucune mesure concrète et positive pour prévenir les manquements de la compagnie; (nié)
+[4] L'appelant était représenté par son comptable, monsieur Jean-Louis Martel. Ce dernier a admis les alinéas a) à i) inclusivement, a indiqué ne pas avoir connaissance du contenu de l'alinéa j) et a nié le contenu des alinéas k) et l).
+[5] Le comptable et l'appelant ont expliqué que la compagnie en question avait été créée au cours des années 80.
+[6] À une époque, la compagnie avait un chiffre d'affaires de près de 2 000 000 $ et était florissante; elle fournissait de l'emploi à plusieurs personnes, ayant jusqu'à une trentaine d'employés sur sa liste de paie.
+[7] À la fin des années 90, la région a été frappée par un ralentissement économique et l'entreprise a vu son chiffre d'affaires chuter d'une façon radicale pour se situer aux environs de 600 000 $.
+[8] Quant aux employés, leur nombre a été réduit au minimum. Juste avant la fermeture, l'entreprise fonctionnait avec seulement quatre employés. À cause des nombreux problèmes financiers, l'appelant, qui gérait la compagnie, a cessé d'acheter auprès des fournisseurs et de renouveler l'inventaire, étant donné que la banque ne voulait plus consentir les prêts requis. À un moment donné, la banque a également demandé le remboursement des prêts imputés sur la marge de crédit et a cessé d'accepter les chèques émis par la compagnie.
+[9] Pour respecter une entente conclue avec le ministre quant à des montants dus, la compagnie a ouvert un nouveau compte à la Caisse populaire de Hauterive. Quatre chèques de 1 500 $, portant les numéros 419, 420, 421 et 422 furent tirés de ce compte, le tout en règlement des dettes accumulées.
+[10] La compagnie n'a cependant pas cessé pour autant d'accuser des retards en ce qui concerne la production de ses rapports et le paiement des montants liés aux rapports.
+[11] À cause des difficultés qu'elle connaissait, la compagnie a fait des démarches en vue de soumettre une proposition à ses créanciers. Les liquidités au soutien de sa proposition devaient provenir de la vente de l'immeuble et du fonds de commerce à une entité alors apparemment intéressée.
+[12] Comme la vente tardait à se concrétiser, la compagnie a demandé et obtenu divers délais pour le dépôt d'une proposition à ses créanciers; faute d'acheteur du fonds de commerce, la compagnie n'a finalement jamais soumis de proposition. Conséquemment, le dossier aboutit chez le syndic pour une cession des biens. L'appelant et son comptable ont indiqué que tout avait été fait pour payer les montants visés par les cotisations dont il est fait appel.
+[13] L'appelant a soumis une preuve cohérente avec le contenu de son avis d'appel daté du 21 janvier 1994, où il s'exprimait comme suit :
+Je dirigeais ma compagnie depuis déjà plusieurs années, sans jamais avoir omis de remettre régulièrement tous les montants de taxes dues au Gouvernement. Les dernières années, la situation économique s'étant détériorée rapidement dans notre région, j'ai connu des difficultés financières devenues tellement importantes que j'ai finalement été obligé de me résigner à faire faillite avec ma compagnie. J'ai tout fait en mon pouvoir pour rétablir la situation, mais ce fut sans succès. Cependant je ne crois pas que j'ai été négligent dans mes fonctions, et c'est pourquoi je refuse d'admettre que je suis responsable personnellement pour une perte que la compagnie a subie lors de sa fermeture définitive.
+[14] Pour l'appelant, le fait d'avoir ouvert le compte à la Caisse populaire prouvait qu'il avait tout fait pour acquitter le montant dû. Cependant, il a également affirmé que le paiement du salaire des employés avait passé avant le paiement des montants dus au ministre.
+[15] De son côté, l'intimée a fait témoigner monsieur Jacques Dumais, responsable du dossier de recouvrement. Ce dernier a fait état, en s'appuyant sur son dossier, des nombreuses démarches entreprises par écrit et au téléphone à compter du mois de novembre 2000 par les représentants du ministre dans le but de recouvrer les montants dus.
+[16] Les paragraphes 1, 2 et 3 de l'article 323 de la Loi se lisent comme suit :
+323(1) Responsabilité des administrateurs Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette comme l'exige le paragraphe 228(2), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités y afférents.
+(2) Restrictions L'administrateur n'encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l'article 316 et il y a eu défaut d'exécution totale ou partielle à l'égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l'objet d'une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de séquestre a été rendue contre elle en application de la Loi sur la faillite et l'insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession de l'ordonnance.
+(3) Diligence - l'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[17] Il n'y a aucun doute que la compagnie dirigée par l'appelant a voulu s'acquitter des divers montants dus. Est-ce en soi suffisant pour conclure à la diligence de l'administrateur? L'appelant a-t-il agi avec soin, diligence et compétence relativement au versement de la taxe nette qu'il avait perçue?
+[18] Les montants qui ont fait l'objet des cotisations étaient des montants perçus et administrés par la compagnie en sa qualité de mandataire de l'intimée.
+[19] En d'autres termes, il s'agissait de montants appartenant à autrui. Il ne s'agissait pas de montants non perçus. Il s'agissait de montants perçus, mais utilisés à des fins autres, notamment au le paiement des salaires ou de certaines créances jugées plus urgentes par l'appelant, et ce, au détriment de la créance du ministre.
+[20] Le fait de vouloir payer une créance fiscale est une chose, mais le fait de prendre des mesures concrètes et tangibles pour s'assurer du paiement de la créance est une tout autre chose.
+[21] La seule volonté n'est pas suffisante pour bénéficier de l'exception prévue par le paragraphe 323(3) de la Loi. Pour être dégagé de toute responsabilité, l'administrateur doit avoir agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances. La prudence raisonnable va au-delà de la simple volonté. Cela sous-entend la prise de mesures concrètes et un suivi constant, particulièrement si l'administrateur concerné a les pleins pouvoirs quant à la gestion de l'entreprise.
+[22] En l'espèce, l'argent qui devait être versé au ministre a servi à maintenir artificiellement en vie la compagnie. Que quelqu'un fasse tout en son pouvoir pour maintenir à flot une entreprise, c'est là une décision courageuse qui doit être saluée; par contre, si une telle décision requiert l'utilisation de sommes appartenant à autrui, cela est totalement inacceptable et ne constitue pas un acte de diligence raisonnable.
+[23] En effet, en sa qualité d'administrateur, l'appelant prenait quotidiennement des décisions. Il décidait, notamment, de faire des chèques à certains créanciers. Même si le choix qu'il a fait peut lui avoir paru légitime, compte tenu des circonstances, cela ne justifie pas l'utilisation des taxes perçues à d'autres fins.
+[24] Toute entreprise qui perçoit des taxes au nom de l'État a le devoir, sous peine de sanctions sévères, de les verser dans les délais prescrits. Utiliser cet argent pour faire fonctionner une entreprise ayant des difficultés financières est totalement inacceptable et carrément répréhensible.
+[25] L'appelant était l'âme dirigeante de l'entreprise, il aurait dû, en sa qualité de mandataire, déposer l'argent perçu dans un compte spécial de manière à pouvoir être en mesure de le verser à qui de droit.
+[26] L'utilisation de cet argent pour les activités courantes de la compagnie est en soi une très grave erreur qui ne pourrait servir de preuve de diligence raisonnable. L'appelant n'ayant pas réussi à démontrer qu'il avait agi avec soin et diligence pour prévenir le détour de la compagnie de verser la taxe nette exigible, son appel doit être rejeté.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI647
+N º DU DOSSIER DE LA COUR : 2004-515(GST)I
+INTITULÉ DE LA CAUSE : Clément Joncas et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Baie-Comeau (Québec)
+DATE DE L'AUDIENCE : le 3 août 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 17 octobre 2005
+COMPARUTIONS :
+Représentant de l'appelant :
+Jean-Louis Martel
+Avocat de l'intimée :
+Me Philippe Morin
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

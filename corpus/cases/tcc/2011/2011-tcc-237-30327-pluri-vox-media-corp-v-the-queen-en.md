@@ -1,0 +1,174 @@
+---
+title: "Pluri Vox Media Corp. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30327/index.do"
+last_modified: "2011-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 237"
+citation2: ""
+neutral_citation: "2011 TCC 237"
+decision_date: "2011-05-05"
+language: "en"
+item_id: "30327"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8031
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:36:56.670000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5220d94244748b45f9c3d7a7dd2fd06557fab7dd887e5bd3aba5fa9beb440a54"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pluri Vox Media Corp. v. The Queen
+
+- Citation: 2011 TCC 237
+- Decision date: 2011-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8031, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pluri Vox Media Corp. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-05
+Neutral citation
+2011 TCC 237
+File numbers
+2010-1672(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2010-1672(IT)I
+2010-1687(CPP)
+BETWEEN:
+PLURI VOX MEDIA CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Request for amended Reasons for Judgment
+The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Agent for the appellant:
+Martin Reesink
+Counsel for the respondent:
+Tamara Watters
+____________________________________________________________________
+AMENDMENT TO REASONS FOR JUDGMENT
+Upon counsel for the respondent informing the Court in writing that a typographical error was found at paragraph 25 of the reasons;
+The first sentence of paragraph 25 of the reasons is therefore amended to read as follow:
+[25] Mr. Reesink was also a director of Pluri Vox, albeit a de facto director. The directors, the de jure directors, are not acting as directors; to the extent they do anything, they follow Mr. Reesink's wishes. …
+These amended reasons are issued in substitution to the reasons for judgment issued on May 3, 2011.
+Signed at Ottawa, Canada, this 5th day of May 2011.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2011 TCC 237
+Date: 20110505
+Docket: 2010-1672(IT)I
+BETWEEN:
+PLURI VOX MEDIA CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2010-1687(CPP)
+BETWEEN:
+PLURI VOX MEDIA CORP.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Rip C.J.
+[1] Pluri Vox Media Corp. ("Pluri Vox") appeals from two assessments, one under the provisions of the Income Tax Act ("Act") on the basis that the company failed to withhold and remit taxes paid to an employee and the second appeal from the provisions of the Canada Pension Plan ("CPP") on the basis that the appellant failed to contribute Canada Pension Plan contributions on behalf of an employee. The employee in question is Martin Reesink, the sole shareholder of the appellant. Both the appellant and Mr. Reesink take the position that Mr. Reesink is an independent contractor and, therefore, is not an employee of the appellant.
+[2] Pluri Vox carries on the business of media monitoring and translation. As I understand it, the appellant engages the services of persons to review what stories are being printed or disseminated in the media and also to provide translations of these stories for clients of the company. The company operates "without much supervision", according to Mr. Reesink. He explained that Pluri Vox hires persons who are independent contractors to perform the monitoring of the media and to provide translation. Whether these people are independent contractors is not an issue before me.
+[3] The issue is whether or not Mr. Reesink is an employee of the appellant. Mr. Reesink also carries on a law practice which is separate from the business carried on by the appellant.
+[4] Although he was instrumental in incorporating the appellant, Mr. Reesink has not been a director for several years and was not a director in 2008, he states directors reside outside of Ontario and do not participate in the operations of the company. They do participate in occasional telephone conference calls presided by Mr. Reesink but I am not at all sure what is discussed during these calls. Mr. Reesink acknowledged that he is the directing mind of the company since he is the sole shareholder and he directs and controls the activities of the appellant. He makes all decisions for the appellant.
+[5] It is Mr. Reesink who determines the contractors' pay and the terms of their engagement with the appellant.
+[6] On several occasions, Mr. Reesink stated that he is the one "who calls the shots" together with Mr. Andrew Baldwin, a project manager. It is Mr. Reesink who chairs the meetings of the directors and who signs cheques on behalf of the company. Both he and Mr. Baldwin sign contracts for the company. Mr. Baldwin is neither a director nor a shareholder of the appellant. Mr. Reesink supervises Mr. Baldwin.
+[7] There is no written contract between Mr. Reesink and the appellant describing their relationship. As far as the work he performs for the appellant, Mr. Reesink said that he dockets time that he provides to the company. His position is that he sells his services to the company. There is no hourly rate of pay assigned to the time he devotes to the company. While he may be working 5, 10 or 20 hours, the amount of pay he receives is dependent on the income of the company and it is he who determines how much the company will pay him. The company paid Mr. Reesink approximately $3,000 to $8,000 per month, he informed the Canada Revenue Agency ("CRA"), depending on the volume of business undertaken by the appellant in a monthly period. Mr. Baldwin on the other hand has a written contract with the corporation.
+[8] The company's head office is located at Mr. Reesink's residence where he performs his services for the appellant. The equipment in his home office includes a computer which he uses for the appellant's business and for other purposes.
+[9] Mr. Baldwin and Mr. Reesink meet regularly to discuss marketing, contractors and quality of work, among other things.
+[10] According to Mr. Reesink he is an independent contractor since he incurs risk that his pay from the appellant is dependent on the appellant's income; if the appellant has little or no income, he does not get paid. His selling his time to the appellant is a risk since the company is in a "tough market" with three or five "real competitors". He says he is subject to risk in the performance of his work.
+[11] An affidavit of Sandra Stewart, a litigation officer of the CRA, was filed on behalf of the respondent. Ms. Stewart had reviewed CRA's records of the appellant and Mr. Reesink for the taxation years 2006 to 2009. Attached to her affidavit were printouts summarizing Mr. Reesink's tax information for the years 2006 to 2009 inclusive as well as printouts of the appellant's tax information for the periods 2003 to 2008 inclusive.
+[12] According to the documents, Mr. Reesink reported no employment expenses in his personal income returns for the years 2006 to 2009. The income statement of the appellant for each of these years indicate that it claimed office expenses of $6,589. Mr. Reesink explained that Pluri Vox paid $12 a month for the use of the telephone at his home. Sometimes, he said, he paid for the phone and sometimes Pluri Vox paid the bill for the phone. Mr. Reesink did not invoice Pluri Vox for his services. Both Mr. Reesink and Pluri Vox are registered for purposes of the goods and service tax. However, Mr. Reesink has never charged GST to the appellant for his services and has not reported any sales for GST purposes in 2007, 2008 and 2009. Pluri Vox has never issued any T4 form for any of the persons it engaged to carry on work on its behalf.
+[13] In a questionnaire Mr. Reesink completed at the request of the CRA, he stated, amongst other things, that he was never provided with either written or oral instructions by the company on how to complete his work. He also stated that he was not required to perform the services personally but could hire a substitute worker to perform these services on his behalf, without the company's consent.
+[14] It is clear that without Mr. Reesink Pluri Vox could not have carried on any business in 2008. If he were an independent contractor, the appellant would be carrying on business without any of its own personnel in charge. The person who is integral to its business would now be one of its employees.
+[15] A leading case in the matter before me is Wiebe Door Services Ltd. v. M.N.R.[1], a decision of the Federal Court of Appeal. In the reasons of the Federal Court of Appeal, MacGuigan J. reviewed tests to determine whether a worker is an independent contractor or an employee: control test, entrepreneur test, organization test.
+[16] That the control test is still fundamental, MacGuigan J. wrote, is indicated by the reasons of the Supreme Court in Hôpital Notre-Dame de l'Espérance and Theoret v. Laurent et al.[2] where the Supreme Court stated that "the essential criterion of employer‑employee relations is the right to give orders and instructions to the employee regarding the manner in which to carry out his work". Justice MacGuigan thought that the control test's inadequacy is "its apparent dependence on the exact terms in which the task in question is contracted for" and a literal application of the test might find actual control to be less than normally expected.
+[17] In Wiebe Door, reference is made to Lord Wright's comments on a fourfold test involving control, ownership of tools, chance of profit and risk of loss in Montreal v. Montreal Locomotive Works Ltd. et al[3]. MacGuigan J. described Lord Wright's use of the fourfold test to determine the character of the relationship in the Montreal Locomotive Works case itself as a combination and integration of the four tests in order to seek out the meaning of the whole transaction.
+[18] The "organization" or "integration" test, was set forth by Denning L.J. (as he then was)[4].
+[19] This test asks whether a person is engaged as part of the business and the work is done as an integral part of the business in which case the person is an employee, or whether the work, although done for the business, is not integrated into it but is only accessory to it and the person is an independent contractor. Mr. Reesink's work was integrated into the business carried on by Pluri Vox.
+[20] MacGuigan J. reviewed several leading cases and commentary concentrating on the organization test and finds it decisive in some cases only as it is difficult to apply. He found the best synthesis in authorities by Cooke J. in Market Investigations, Ltd. v. Minister of Social Security[5]:
+The observations of Lord Wright, of Denning, L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk he takes, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. The application of the general test may be easier in a case where the person who engages himself to perform the services does so in the course of an already established business of his own; but this factor is not decisive, and a person who engages himself to perform services for another may well be an independent contractor even though he has not entered into the contract in the course of an existing business carried on by him.
+[21] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[6] Major J., delivering reasons for the Supreme Court, agreed with MacGuigan J. that a persuasive approach to the issue is that taken by Cooke J. He added:
+47 … The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[22] Mr. Reesink was not engaged by Pluri Vox to perform services as a person in business on his account. He was not engaged as Pluri Vox's lawyer. The question of who controlled whom has no answer: could the corporation control Mr. Reesink since he was its sole shareholder? Obviously not, qua shareholder. But Mr. Reesink's work at Pluri Vox had nothing to do with being a shareholder. Except where there is a unanimous shareholders agreement, shareholders do not meddle in the management of the business and affairs of a corporation. It is Mr. Reesink's functions other than as a shareholder that are relevant in my view.
+[23] Mr. Reesink's financial risk in Pluri Vox was as a shareholder and not as a worker. If Pluri Vox failed, Mr. Reesink may have been at risk as a shareholder, but not from a business he was carrying on. Mr. Reesink is wearing two hats, a director and an employee. The opportunity for profit from the business is for Pluri Vox, not for Mr. Reesink.
+[24] To put the situation in blunt terms, Mr. Reesink's main argument that he is not an employee is that nobody at Pluri Vox directs his functions in the company. Yet he controls and directs the operations of the company and the company cannot function without his labour. The business he is participating in is not his business but that of Pluri Vox. He is contributing to Pluri Vox's expectation of profit, not his own. His income from Pluri Vox is not an exact amount of dollars or an amount ascertainable by formula or otherwise. It is an amount that he and Pluri Vox agree to pay him from time to time for his work.
+[25] Mr. Reesink was also a director of Pluri Vox, albeit a de facto director. The directors, the de jure directors, are not acting as directors; to the extent they do anything, they follow Mr. Reesink's wishes. Who is running the company? Mr. Reesink says he is and on the facts before me he is. It is Mr. Reesink who actually manages and supervises the management, business and affairs of Pluri Vox[7]. It is clear that he exercised all the powers of the director he was and is, in fact, a director of Pluri Vox. And since he was (and is) a de facto director of Pluri Vox, he may be an officer of the appellant. Subsection 248(1) of the Act defines office:
+“office” means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and “officer” means a person holding such an office;
+« charge » Poste qu’occupe un particulier et qui lui donne droit à un traitement ou à une rémunération fixes ou vérifiables, y compris une charge judiciaire, la charge de ministre de la Couronne, la charge de membre du Sénat ou de la Chambre des communes du Canada, de membre d’une assemblée législative ou de membre d’un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu au suffrage universel ou bien choisi ou nommé à titre représentatif, et comprend aussi le poste d’administrateur de société; « fonctionnaire » ou « cadre » s’entend de la personne qui détient une charge de ce genre, y compris un conseiller municipal et un commissaire d’école.
+[26] Subsection 2(1) of the CPP defines "office" and "officer" in similar terms.
+[27] Mr. Reesink denies that he is entitled to a fixed or ascertainable stipend or remuneration. In short, his position is that any remuneration he gets from Pluri Vox depends on the money collected by Pluri Vox in carrying on its business. And this fluctuates from week to week and month to month. At the beginning of the year it is impossible to ascertain his remuneration. He got paid varied amounts at various times depending on the cash flow of Pluri Vox. There was no agreement between him and Pluri Vox that could make his income determinable by some formula, he claims. This is not different from commission income earned by an employee based on the employee's sales. Pluri Vox's income, and hence the appellant's income, at the end of the day is also based on sales.
+[28] In an earlier appeal, Pro‑Style Stucco & Plastering Ltd. v. R.,[8] I considered facts similar to the appeal at bar. M was president and sole shareholder of the taxpayer. He was the sole director. M's pay was based on the taxpayer's profits. The taxpayer's office was in M's residence, but no rent was charged. M and the taxpayer, unlike Mr. Reesink and Pluri Vox, had executed agreements that stated M was not the taxpayer's employee. M was not paid on a regular basis. A difference between the two appeals is that M only performed services for the taxpayer. In the present appeal, Mr. Reesink is also a practicing lawyer. At paragraph 21 of Pro‑Style I commented that:
+In a situation where one person is the sole director and shareholder of a corporation and provides services to that corporation, the traditional tests to determine whether that person is an employee or an independent contractor are not always useful. How can one measure, for example, the level of control the employer has over the worker's activities when the person who directs the employer is the worker? It may well be, as Mr. Marocco implied, that Pro‑Style was incorporated because he wanted limited liability in carrying on the business. Therefore he caused all contracts to be taken in the name of Pro‑Style. Pro‑Style, however, accepted all risk with respect to the quality of the work. The business carried on was Pro‑Style's, not Mr. Marocco's, and his services were integral to that business.
+[29] The remuneration paid to Mr. Reesink was ascertainable in practice, if not in actual dollars: he would receive Pluri Vox's income and, in fact, he received at least $3,000 per month from Pluri Vox for the work he performed.
+[30] The appeals are dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2011.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2011 TCC 237
+COURT FILE NOS.: 2010-1672(IT)I and 2010-1687(CPP)
+STYLE OF CAUSE: PLURI VOX MEDIA CORP. v.
+HER MAJESTY THE QUEEN, and
+PLURI VOX MEDIA CORP. v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 20, 2011
+AMENDED REASONS
+FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: May 5, 2011
+APPEARANCES:
+Agent for the appellant:
+Martin Reesink
+Counsel for the respondent:
+Tamara Watters
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [1978] 1 S.C.R. 605, 613.
+[3] [1947] 1 D.L.R. 161, 169-70 P.C.
+[4] Stevenson, Jordan and Harrison, Ltd. v. MacDonald and Evans, [1952] 1 T.L.R. 101, 111.
+[5] [1968] 3 All E.R. 732, 738-9.
+[6] [2001] 1 S.C.R. 983.
+[7] There is no evidence that Mr. Reesink made a written declaration respecting the powers of the directors to manage or supervise the management of the business and affairs of the corporation: ss. 146(2) of the Canada Business Corporation Act and ss. 108(3) of the Ontario Business Corporation Act. There is no evidence under what jurisdiction Pluri Vox was incorporated. However it is clear there is no written unanimous shareholder agreement.
+[8] 2004 TCC 32.

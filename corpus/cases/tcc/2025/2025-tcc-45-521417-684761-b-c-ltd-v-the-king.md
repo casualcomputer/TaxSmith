@@ -1,0 +1,202 @@
+---
+title: "684761 B.C. Ltd. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521417/index.do"
+last_modified: "2025-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 45"
+citation2: ""
+neutral_citation: "2025 TCC 45"
+decision_date: "2025-03-20"
+language: "en"
+item_id: "521417"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6069
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:30:18.401000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e706b02a0f8f1997b7e0459a26701eb802af1b8423538f11913784f064f85890"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 684761 B.C. Ltd. v. The King
+
+- Citation: 2025 TCC 45
+- Decision date: 2025-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6069, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+684761 B.C. Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-03-20
+Neutral citation
+2025 TCC 45
+File numbers
+2013-3379(IT)G, 2017-381(IT)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2013-3379(IT)G
+2017-381(IT)G
+BETWEEN:
+684761 B.C. LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motions heard on March 5, 2025 at Vancouver, British Columbia
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Onkar Khunkhun
+Counsel for the Respondent:
+Mihai Beschea
+ORDER
+Having reviewed the motion records filed by the parties and having heard oral argument, the Court orders that:
+1. The Appellant’s motion for leave to allow Mr. Onkar Khunkhun to represent it in its appeals under subsection 17.1(1) of the Tax Court of Canada Act and subsection 30(2) of the Tax Court of Canada Rules (General Procedure) is dismissed with costs fixed in the amount of $700 in any event of the cause.
+2. The Appellant’s motion to admit public records into evidence, which it withdrew at the commencement of the hearing, is dismissed with costs fixed in the amount of $350 in any event of the cause.
+3. The Appellant shall appoint counsel of record by serving on the Respondent and filing, with proof of service, a notice giving the name, address for service and telephone number of its counsel of record on or before May 5, 2025. Should counsel not have been appointed by then, a show cause hearing may be scheduled or a motion to dismiss the appeals for want of prosecution may be brought by the Respondent, or both.
+Signed this 20th day of March 2025.
+“David E. Spiro”
+Spiro J.
+Citation: 2025 TCC 45
+Date: 20250320
+Dockets: 2013-3379(IT)G
+2017-381(IT)G
+BETWEEN:
+684761 B.C. LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Spiro J.
+[1] The Appellant has made a motion under subsection 17.1(1.1) of the Tax Court of Canada Act (the “TCCA”) and subsection 30(2) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for Mr. Onkar Khunkhun, the Appellant’s sole shareholder, director, and officer, to represent it in two appeals before the Court.
+[2] The Appellant has also made a motion for the Court to admit public records into evidence. The Appellant withdrew that motion at the commencement of the hearing.
+[3] Before considering the main motion, we shall briefly review the nature of the two appeals before the Court.
+The First Appeal – Reassessment for 2008 (Disallowed Charitable Donation)
+[4] The Appellant’s first appeal, instituted in 2013, is an appeal of a reassessment for the Corporation’s 2008 taxation year in which the Minister of National Revenue (the “Minister”) disallowed a claimed charitable donation of $936,000. According to Crown counsel, the “donation scheme alleged by the Respondent is factually complex and will also refer to litigation that has taken place in other forums.”[1] One of the brothers-in-law of Mr. Khunkhun was intimately involved in the charitable donation challenged by the Minister.
+The Second Appeal – Additional Assessment for 2008 (Gross Negligence Penalty)
+[5] The Appellant’s second appeal, instituted in 2017, is an appeal of an additional assessment for the Appellant’s 2008 taxation year in which the Minister assessed a gross negligence penalty against the Appellant under subsection 163(2) of the Income Tax Act (the “ITA”) in respect of its claimed charitable donation of $936,000. Subsection 163(2) of the ITA provides:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer … filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty …
+[6] The additional assessment for the Appellant’s 2008 taxation year is statute-barred as it was issued beyond the normal reassessment period. As no waiver was provided by the Appellant, the conditions set out in subparagraph 152(4)(a)(i) of the ITA must be satisfied by the Crown:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, …
+[7] The Crown has the onus to prove the facts supporting the assessment of the gross negligence penalty under subsection 163(2) of the ITA and has the onus to prove the facts allowing the Minister to open the 2008 taxation year for that purpose under subparagraph 152(4)(a)(i) of the ITA.
+[8] The Appellant was represented by counsel until the fall of 2024. By then, it had exchanged documents with the Crown and both parties had completed examinations for discovery. All that remains now is the trial.
+The Position of the Appellant
+[9] In the Appellant’s view, all issues (except gross negligence) can be settled without the assistance of counsel. Mr. Khunkhun would like the Court to convene a settlement conference at which the gross negligence issue can be settled as well.
+[10] When I asked Mr. Khunkhun to summarize the factors to be considered by the Court in exercising its discretion to allow an individual to represent a corporate appellant in the General Procedure, he was unable to do so.
+The Position of the Crown
+[11] Crown counsel was considerably less sanguine than the Appellant about the possibility of settlement of any of the issues before the Court. The Crown would be prepared to participate in a settlement conference, but expressed significant doubt about the likelihood of settlement.
+[12] Crown counsel set out the factors to be considered by the Court in exercising its discretion to allow an individual to represent a corporate appellant in the General Procedure. He submitted that, in light of those factors, the Court should rule that the Appellant must be represented by counsel.
+Relevant Provisions of the TCCA and the Rules
+Section 17 and Subsection 17.1(1.1) of the TCCA
+General Procedure
+Application
+17 Subject to sections 18 and 18.29 to 18.33, the provisions of sections 17.1 to 17.8 apply in respect of any proceedings over which the Court has jurisdiction.
+Right to appear — individual
+17.1 (1) An individual who is a party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but if the individual wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the individual.
+Right to appear — other
+(1.1) If a party to a proceeding in respect of which this section applies is not an individual, that party shall be represented by a person who is referred to in subsection (2) unless the Court under special circumstances grants leave to the party to be represented by a director, officer, employee, member or partner of the party.
+Officers of the Court
+(2) Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+[Emphasis added]
+Section 30 of the Rules
+Representation by Counsel
+30(1) Subject to subsection (3), a party to a proceeding who is an individual may act in person or be represented by counsel.
+(2) Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+(3) Unless the Court orders otherwise, a person who is the representative of a party under a legal disability in a proceeding shall be represented by counsel, except where that person is also counsel acting in such a capacity.
+[Emphasis added]
+Analysis
+[13] Subsection 17.1(1.1) was added to the TCCA as part of the Budget Implementation Act, 2024, No. 1, SC 2024, c. 17 in order to provide statutory authority for the Court to grant leave, under special circumstances, for an appellant in the General Procedure who is not an individual to be represented by a director, officer, employee, member, or partner. In the absence of such a provision, the Federal Court of Appeal held that the Court was unable to grant such leave.[2]
+[14] The Court’s earlier decisions under subsection 30(2) of the Rules remain helpful even after the enactment of subsection 17.1(1.1) of the TCCA as the “special circumstances” test that is now required by subsection 17.1(1.1) was generally used as the basis for those decisions. Between 1993 and 2007, that test was set out in subsection 30(2) of the Rules. Although specific reference to “special circumstances” has been absent from subsection 30(2) of the Rules since 2007, the Court – for the most part – continued to apply that test.
+[15] The general principle underlying those decisions is that corporate appellants in General Procedure appeals should be represented by counsel in all but very exceptional circumstances.[3] Justice Beaubier explained the rationale behind that principle:
+There is an overriding factor which this Court considers to be most important. It is this: a corporation is a creature of law which is formed for the technical advantage of its shareholders, directors and officers. That advantage may be historic, such as limited liability, or it may be more current, such as for income tax or other tax purposes. The offset is that there are consequent duties which may include technical requirements, such as resolutions or having a lawyer represent this entity which was created by legislation. Because it is a technical creation of the law, by its very nature a corporation should be represented by a lawyer in court in all but very exceptional circumstances.[4]
+[16] Three factors have led me to decide not to grant leave for Mr. Khunkhun to represent the Appellant in these appeals.
+1. No Financial Impediment to Retaining Counsel
+[17] One of the factors to be considered is whether the corporate appellant is able to afford legal services. As Associate Chief Justice Bowman noted, if a corporate appellant is able to pay counsel “it is difficult to imagine circumstances which would justify a departure from the rule that a corporation must be represented by counsel.”[5]
+[18] Based on the history of this litigation, the Appellant is able to pay counsel. The Appellant has retained four different lawyers since the appeals were instituted. None of them said that they got off the record because they were not paid. The Appellant’s first counsel closed his law practice due to an accident. The Appellant’s second counsel closed his law practice voluntarily. The Appellant’s third counsel had some sort of conflict of interest. Mr. Khunkhun had a falling out with the Appellant’s fourth counsel who got off the record in the fall of 2024.
+[19] The Appellant has always been able to pay counsel because Mr. Khunkhun has always put the Appellant in funds. There has been no suggestion that Mr. Khunkhun would be unable to do so in future.
+2. Mr. Khunkhun Would be Unable to Represent the Appellant at Trial
+[20] As Justice Jorré noted in WJZ Enterprises v The Queen, one of the factors to be considered is:
+6. Whether the proposed representative is reasonably capable of adequately representing the corporation in terms of being able to comprehend the issues, adequately bring forth evidence and deal with the law. This will be affected by both the complexity of the relevant law and the complexity of the evidence.[6]
+[21] For the following reasons, I have serious concerns about Mr. Khunkhun’s ability to represent the Appellant at trial:
+When the Appellant filed and served its main motion, it filed and served a second motion to admit public records into evidence. That motion was ill-founded but required Crown counsel to spend time preparing written representations and oral argument. The Appellant withdrew the motion at the commencement of the hearing, but it was a waste of time for all parties involved and demonstrated Mr. Khunkhun’s lack of familiarity with the laws of evidence. His unfamiliarity with the law was confirmed by his inability to summarize the factors to be considered by the Court in exercising its discretion to allow an individual to represent a corporate appellant in the General Procedure.
+In light of the intimate involvement of Mr. Khunkhun’s brother-in-law in the events surrounding the disputed 2008 charitable donation, his brother‑in‑law will be an important witness at trial. For obvious reasons, it would be undesirable for Mr. Khunkuhn to examine or cross-examine his own brother-in-law.
+· It would be unrealistic to expect an untrained layperson such as Mr. Khunkhun to examine himself, make appropriate objections while being cross-examined, examine his own witness(es), cross-examine the Crown’s witness(es), and make closing argument.
+3. Mr. Khunkhun Would be Unable to Prepare the Appellant for Trial
+[22] In addition to my concerns about Mr. Khunkhun’s ability to represent the Appellant at trial, I have serious concerns about his ability to prepare the Appellant for trial in light of the number of strategic and tactical decisions to be made.
+[23] For example, in the first appeal the onus is on the Appellant to prove the facts supporting the claimed charitable donation. But in the second appeal, the onus is on the Crown to prove the facts supporting the assessment of a gross negligence penalty under subsection 163(2) of the ITA and the facts supporting the opening of a statute-barred year for that purpose under subparagraph 152(4)(a)(i) of the ITA. As a result, a number of strategic and tactical questions arise including:
+What position should the Appellant take on whether the appeals should be consolidated or heard at the same time or one immediately after the other?
+If the appeals are consolidated, what position should the Appellant take on whether the appeals should be heard on common evidence?
+What position should the Appellant take on the order of proceeding?
+What position should the Appellant take on which party should call Mr. Khunkhun to testify in chief and which party should cross-examine him?
+[24] Only counsel would be able to advise the Appellant on these, and other, strategic and tactical considerations before the trial.
+[25] In addition, Mr. Khunkhun would have to deal with the daunting task of marshalling admissible oral and documentary evidence with respect to transactions and events that occurred some 17 years ago.
+Conclusion
+[26] For all of these reasons, the Appellant’s motion for leave to allow Mr. Khunkhun to represent it in both appeals is dismissed with costs fixed in the amount of $700 in any event of the cause.[7] The Appellant’s motion to admit public records into evidence, which it withdrew at the commencement of the hearing, is dismissed with costs fixed in the amount of $350 in any event of the cause.[8]
+[27] On or before May 5, 2025, the Appellant shall appoint counsel of record by serving on the Respondent and filing, with proof of service, a notice giving the name, address for service and telephone number of its counsel of record, failing which a show cause hearing may be scheduled or a motion to dismiss both appeals for want of prosecution may be brought by the Respondent, or both.
+Signed this 20th day of March 2025.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2025 TCC 45
+COURT FILE NOS.:
+2013-3379(IT)G
+2017-381(IT)G
+STYLE OF CAUSE:
+684761 B.C. LTD. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 5, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Spiro
+DATE OF ORDER:
+March 20, 2025
+APPEARANCES:
+Agent for the Appellant:
+Onkar Khunkhun
+Counsel for the Respondent:
+Mihai Beschea
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Respondent’s Written Representations in Opposition to Appellant’s Motions, para 14.
+[2] Canada v BCS Group Business Services Inc, 2020 FCA 205.
+[3] Masa Sushi Japanese Restaurant v The Queen, 2018 TCC 98 at para 6(v) and White Star Copper Mines Ltd. v The Queen, 2007 TCC 669 at paras 3 and 5.
+[4] Pratts Wholesale Ltd. v The Queen, [1998] 2 CTC 3117 (TCC) at para 7.
+[5] Chase Bryant Inc. v The Queen [2003] 2 CTC 2163 at para 7.
+[6] 2017 TCC 57 at para 5.
+[7] $700 is the amount allowed by Tariff B of Schedule II of the Tax Court of Canada Rules (General Procedure) (the “Tariff”) on a motion for each day or part of a day.
+[8] 50% of the $700 amount allowed by the Tariff is appropriate as Crown counsel had to prepare written submissions and oral argument opposing the second motion which the Appellant withdrew at the commencement of the hearing.

@@ -1,0 +1,375 @@
+---
+title: "Ruest v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27754/index.do"
+last_modified: "2007-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 331"
+citation2: ""
+neutral_citation: "2007 TCC 331"
+decision_date: "2007-07-09"
+language: "en"
+item_id: "27754"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 307
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:56:33.968000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ac962054d1e3f16d985e57601587f3b8240019514385e36336db24c106afe7d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ruest v. The Queen
+
+- Citation: 2007 TCC 331
+- Decision date: 2007-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 307, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruest v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-09
+Neutral citation
+2007 TCC 331
+File numbers
+2004-3149(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3149(IT)I
+BETWEEN:
+JACQUELINE RUEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Claude Ruest (2004-3168(IT)I)
+on May 14, 2007, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Denyse C. Morin
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of July 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 26th day of July 2007.
+Daniela Possamai, Translator
+Docket: 2004-3168(IT)I
+BETWEEN:
+CLAUDE RUEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Jacqueline Ruest (2004-3149(IT)I)
+on May 14, 2007, at Edmundston, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Denyse C. Morin
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of July 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 26th day of July 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC331
+Date: 20070709
+Dockets: 2004-3149(IT)I
+2004-3168(IT)I
+BETWEEN:
+JACQUELINE RUEST
+and CLAUDE RUEST,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The two appeals were heard on common evidence. The two cases involve the 2000 and 2001 taxation years, for which the Appellants’ rental expenses or losses were disallowed by the Minister of National Revenue (the “Minister”) in reassessments made on April 10, 2003, and confirmed on February 4, 2004. For her part, the Appellant Jacqueline Ruest was denied the deduction of charitable donations and employment expenses for the same two taxation years.
+[2] The Appellants are spouses and in 2001 they purchased a rental building (the building). I reproduce below one of the two tables indicating the amounts reported and claimed by the Appellants as well as those the Minister disallowed or allowed for the building. I only reproduce one table because they are identical, except for the percentage of the property interest. The only witness for the Appellants was Ms. Ruest.
+Table 1: Summary of the Appellant’s rental income and expenses.
+Rental income and expenses*
+2000
+2001
+Class
+Amount claimed
+Amount
+disallowed
+Amount allowed
+Amount claimed
+Amount
+disallowed
+Amount allowed
+Income
+$2,800
+$2,800
+$4,800
+$4,800
+Expenses
+Insurance
+$795
+$563
+$232
+$556
+$324
+$232
+Interest
+$589
+$589
+$2,874
+$0
+$2,874
+Maintenance/repairs
+$12,000
+$12,000
+$0
+$3,800
+$0
+$3,800
+Accounting/legal expenses
+$2,944
+$2,944
+$0
+N/A
+Property taxes
+$1,980
+$1,980
+$0
+$2,018
+$0
+$2,018
+Travel expenses
+$375
+$0
+$375
+$380
+$0
+$380
+Utilities
+$300
+$300
+$0
+$300
+$0
+$300
+Other expenses
+$530
+$0
+$530
+$550
+$0
+$550
+Total
+$19,513
+$17,787
+$1,726
+$10,478
+$324
+$10,154
+Income (loss)
+($16,713)
+$1,074
+($5,678)
+$324
+($5,354)
+Co-owner 20%
+($3,342)
+$215
+($1,136)
+$65
+($1,071)
+Depreciation
+$1,088
+$215
+$933
+$933
+$0
+Net loss
+($4,430)
+$0
+($2,069)
+$998
+($1,071)
+*Source: Replies to the Notices of Appeal.
+[3] In her testimony, Ms. Ruest did not discuss all the expenses she was denied. The items “maintenance and repairs,” “accounting and legal expenses” and “property taxes” are the ones she focused on. At the time of the purchase, the building was a new home, except that the electrical cables were not installed. Therefore, the Appellants spent money on electrical installations and $12,000 in expenses were allowed on that basis, although the Appellants were able to provide receipts only for $9,500 during the audit. The Appellants claimed that expense as being a current expense, whereas the Minister described it as a capital expense and therefore disallowed it. The legal expenses received the same treatment by the Minister.
+[4] The issue is therefore whether the legal expenses and expenses on improvements to the building to ensure its compliance are capital expenditures, therefore capital expenses, which the Minister rightly disallowed in accordance with paragraph 18(1)(b) of the Income Tax Act (the “Act”). In Produits Forestiers St-Armand Inc. v. Canada, 2003 TCC 696, Lamarre Proulx J. quoted a few excerpts from the book entitled “Les principes de l’imposition au Canada” (13th edition, 2002), which reiterates the traditional criterion for determining whether an expense is a capital expense or a current expense. The excerpt reads as follows:
+The classic test for determining whether an expense is capital or current can be expressed as follows: was the expense incurred to provide a lasting benefit to the company or taxpayer? If so, it is a capital expense.
+This test was first developed by British Courts, more specifically by Viscount Cave in British Insulated and Helsby Cables Ltd. v. Atherton, [1926] A.C. 205 (H.L.). It was then taken up by the Supreme Court of Canada in Montreal Light Heat and Power Consolidated v. M.N.R. [1942] S.C.R. 89, 105. It was again confirmed by the Supreme Court British Columbia Electric Railway Co. v. M.N.R. [1958] CTC 21 (C.S.C.) and again in M.N.R. v. Algoma Central Railway [1968] CTC 161 (C.S.C.).
+. . .
+A second criteria consists of determining whether an expense was incurred once and for all, as opposed to a recurring basis. . . .
+[5] This criterion was also set out by the Supreme Court of Canada in Canada v. Johns Manville Corp., [1985] 2 S.C.R. 46. We are dealing with work for the improvement of a building. Lamarre J. of our Court provided a summary of the criteria to assess in matters pertaining to improvements or renovations in Brunet v. The Queen, no. 2002-1122(IT)I, [2003] 2 C.T.C. 2020, by citing a number of cases and the Interpretation Bulletin IT-128R. Without reproducing all those excerpts, suffice it to say that the fundamental issue is whether the expense considered created a capital property different from the property replaced. In the case at bar, it is indeed an improvement from what it was originally to make it habitable and rentable. It cannot but be a capital expense.
+[6] With respect to the legal expenses incurred to acquire the building, it is a capital expense. See Rona Inc. v. The Queen, 2003 TCC 121, [2003] 4 C.T.C. 2974, and Oxford Shopping Centres Ltd. v. The Queen, [1980] 2 F.C. 89, affirmed by the Federal Court of Appeal. When the legal services provide a lasting benefit for the use that is made of the property, the fees are capital expenses and should be added to the cost of the acquired property.
+[7] The Appellant was denied the property tax expense for the 2000 taxation year. She submits that the property taxes for the 2000 taxation year were paid the following year. While she did not file any documentation showing the exact date of the payment, she ultimately acknowledged during the cross-examination that the property taxes for 2000 were paid in 2001. However, the statement of adjustments prepared when the building was purchased (Exhibit I-4) clearly indicates that the property taxes were paid in full until December 31, 2000, by the former owner and that no adjustment was calculated under that item. Therefore, the Appellants are not the ones who paid the property taxes for 2000 and the Minister was correct in disallowing the expense for the 2000 taxation year.
+[8] The Appellants did not raise the issue of depreciation at the hearing of this case. Suffice it to say that according to subsection 1100(11) of the Regulations, a depreciation expense can never create or increase a rental loss. It is always calculated after the rental loss or income for the taxation year is determined. The appeals are accordingly dismissed for both Appellants with respect to the expenses disallowed by the Minister in respect of the building’s rental income.
+[9] The Appellant Jacqueline Ruest was denied tax credits for charitable donations and employment expenses for those taxation years. The employment expenses claimed were $12,201 in 2000 and $2,710 in 2001. As for the charitable donations, they were $11,000 in 2000, of which $6,373 was claimed, and $4,000 in 2001.
+[10] During the years in issue and prior to those years, the Appellant did volunteer work as a secretary and treasurer for the Royal Canadian Legion, Branch 52 (the Legion). The Appellant submits that, in performing this volunteer work, she incurred travel expenses and other expenses and that the Legion issued her a receipt for income tax purposes instead of reimbursing the expenses to her. The 2000 receipt, for the amount of $11,000, represents expenses incurred from 1997 to 2000. However, the Appellant cannot specify the amount for each of the years, except that she is certain that the amount of $4,500 is for 2000. Nor can she provide a receipt detailing the expenses she incurred for the Legion and supporting her claims.
+[11] The Appellant was incapable of showing that the Legion was in fact a charitable organization duly registered during the years in issue. In fact, a letter from the Legion acknowledges that the registration number was not valid during the two taxation years. As a result, the Appellant cannot be entitled to the tax credit for charitable donations for the amounts claimed during each of the taxation years in issue under subsection 118.1(3) of the Act and definitions in subsections 248(1) and 149.1(1) of the Act. In light of this finding, it is not necessary for me to deal with the issue of the nature of the donation in the case at bar or the issue as to whether it is truly a donation.
+[12] During the years in issue, the Appellant worked for Family Services; she therefore claimed expenses related to that employment. The table indicates the employment expenses the Appellant claimed and which the Minister disallowed.
+Table 2: Summary of the Appellant’s employment expenses
+Employment expenses
+2000
+2001
+Class
+Amounts claimed
+Amounts allowed
+Amounts claimed
+Amounts allowed
+Vehicle expenses
+Fuel
+$1,500
+$1,500
+$2,203
+$2,203
+Maintenance/repairs
+$950
+$950
+$620
+$620
+Registration
+$81
+$81
+$81
+$81
+Insurance
+$1 346
+$901
+$1,698
+$1,148
+Interest
+$1,240
+$1,240
+$482
+$482
+Depreciation
+$7 812
+$8,946
+$10,792
+$7,396
+Total
+$12,929
+$13,618
+$15,876
+$11,930
+% of the use of the vehicle for work purposes
+x 90.1%
+x 77.8%
+x 40.8%
+40.8%
+Accounting/legal expenses
+$2,500
+$0
+N/A
+Meal expenses
+$1,092
+$0
+$1,100
+$0
+Parking
+N/A
+$12
+$12
+Unknown amount
+$7,555
+$0
+N/A
+TOTAL
+$22,796
+$10,595
+$7,589
+$4,879
+Portion disallowed
+$12,201
+$2,710
+[13] The Minister disallowed the following expenses for the following reasons:
+(a) The use of the vehicle by the Appellant for her work did not exceed 77.8% of the use of the vehicle for the 2000 taxation year and 40.8% for the 2001 taxation year.
+(b) Legal expenses of $2,500 incurred by the Appellant for her 2000 taxation year are applicable to a motor vehicle accident and are therefore not deductible under paragraph 8(1)(b) and subsection 8(1) of the Act.
+(c) The meal expenses totalling $1,092 and $1,100 for the taxation years in issue were meals consumed by the Appellant during her regular work days and are personal expenses; these expenses are not deductible expenses under subsections 8(1) and (4) of the Act.
+(d) Insurance expenses of the Appellant totalling $901 for 2000 and $1,148 for 2001.
+Analysis
+[14] Use of the vehicle
+The Appellant testified that during the two years in issue, she had two vehicles and that the distance travelled is different from that indicated by the employer on Form T2200. As for the Minister, he simply accepted the information provided by the employer for the two years with respect to the distance travelled by the Appellant and for which she did not receive any allowance or reimbursement. Therefore, I have no other concrete evidence that would allow me to modify this item, for which the burden of proof lied with the Appellant.
+[15] Legal expenses
+The section which makes it possible to deduct legal expenses from employment income reads as follows:
+8(1) Deductions allowed
+In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+. . .
+(b) Legal expenses of employee
+amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+[16] The Appellant’s arguments that this expense is applicable to a motor vehicle accident do not satisfy the requirements of the Act. Accordingly, the Minister rightly disallowed the expense.
+[17] Meal expenses
+The provision which allows the deduction of meal expenses reads as follows:
+8(4) Meals
+(4) An amount expended in respect of a meal consumed by a taxpayer who is an officer or employee shall not be included in computing the amount of a deduction under paragraph 8(1)(f) or 8(1)(h) unless the meal was consumed during a period while the taxpayer was required by the taxpayer’s duties to be away, for a period of not less than twelve hours, from the municipality where the employer’s establishment to which the taxpayer ordinarily reported for work was located and away from the metropolitan area, if there is one, where it was located.
+[18] The only argument put forward by the Appellant rests on the fact that she had to eat lunch. Accordingly, the evidence is clearly insufficient for me to conclude that the Appellant satisfied the conditions required by the Act.
+[19] Insurance expenses
+At the hearing, the Appellant withdrew the issue of insurance expenses.
+[20] In view of these conclusions, I must dismiss the appeals.
+Signed at Ottawa, Canada, this 9th day of July 2007.
+“François Angers”
+Angers J.
+Translation certified true
+on this 26th day of July 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC331
+COURT FILE NOS.: 2004-3168(IT)I
+2004-3149(IT)I
+STYLES OF CAUSE: Jacqueline Ruest and Her Majesty the Queen
+Claude Ruest and Her Majesty the Queen
+PLACE OF HEARING: Edmundston, New Brunswick
+DATE OF HEARING: May 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 9, 2007
+APPEARANCES:
+Agent for the Appellants:
+Denyse Morin
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,76 @@
+Title: Zador v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28559/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-545-28559-zador-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-06
+
+# Zador v. The Queen
+
+- Citation: 2006 TCC 545
+- Decision date: 2006-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1092, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zador v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-06
+Neutral citation
+2006 TCC 545
+File numbers
+2006-573(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC545
+Date: 200610
+Docket: 2006-573(IT)I
+BETWEEN:
+JOSEPH GEORGE ZADOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Sara Fairbridge
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on
+August 9, 2006, at Kelowna, British Columbia.)
+Miller J.
+[1] Mr. Zador, the language in the Income Tax Act can sometimes create more confusion than clarification and perhaps this is a section where it is done that by talking both in terms of amounts paid and also expenses incurred. And you are hanging your hat on the fact that this may be an expense that was incurred and therefore qualifies for deductibility. It is an intriguing argument but, with respect, it is not one that is going to fly.
+[2] Subsection 62(1) is very specific in its opening words and it does require that there be an amount paid. In your situation, you have acknowledged and you have not tried to suggest otherwise that the amount at issue has not been paid. Right out of the starting block you have not qualified to fall within the words of subsection 62(1).
+[3] Now, I do acknowledge that the definition of moving expenses does talk in terms of expenses in subsection 62(3) incurred, but when you take that definition and you import it into subsection 62(1), it does not replace the requirement that an amount must be paid. That is still the first requirement for the deduction of a moving expense. You cannot deduct what you have not paid. If that were the case, we would be opening doors wide for abuse by taxpayers coming up with all sorts of innovative, imaginative ways of getting deductions when they have not paid anything out of their pocket, and that is simply not the way the Income Tax Act operates.
+[4] If I were to accept your argument that expenses incurred is the bar which you have to meet to get a deduction here, frankly, you have not even convinced me that the imposition of a debt obligation in this situation constitutes an expense incurred.
+[5] I could probably do more thinking about that but my initial reaction to that is that simply by being invoiced, you have not necessarily incurred the expense. But I do not have to answer that question because on my reading of the Act, the Act is abundantly clear; to claim a moving expense there must be an amount paid.
+[6] The government in this case has got it right. It is simple. There is no confusion. And unfortunately that means I must dismiss your appeal.
+Signed at Ottawa, Canada, this 6th day of October 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC545
+COURT FILE NO.: 2006-573(IT)I
+STYLE OF CAUSE: JOSEPH GEORGE ZADOR AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: August 9, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: October 6, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,161 @@
+---
+title: "Sui v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30431/index.do"
+last_modified: "2011-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 342"
+citation2: ""
+neutral_citation: "2011 TCC 342"
+decision_date: "2011-07-07"
+language: "en"
+item_id: "30431"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7961
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:27:36.133000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "143ff47e777403bd47c37330d9ccf9ae7e453dd6504760357fdc1cb1946e7c84"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sui v. The Queen
+
+- Citation: 2011 TCC 342
+- Decision date: 2011-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7961, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sui v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-07
+Neutral citation
+2011 TCC 342
+File numbers
+2011-345(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-345(IT)APP
+BETWEEN:
+ERWIN SUI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on May 30, 2011 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Amandeep K. Sandhu
+____________________________________________________________________
+ORDER
+The application for an extension of time to file a Notice of Appeal in respect of the 1999 taxation year is dismissed, without costs, in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 7th day of July 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 342
+Date: July 7, 2011
+Docket: 2011-345(IT)APP
+BETWEEN:
+ERWIN SUI,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] The Applicant filed an application to extend the time within which to file a Notice of Appeal under subsection 167(1) of the Income Tax Act (the “Act”) in respect of his 1999 taxation year.
+[2] The Applicant is a lawyer specializing in securities law. He currently has outstanding appeals for his 1998 taxation year and his 2000 to 2007 taxation years.
+[3] The Applicant stated that he is in a difficult legal situation. He said that, in 1998, he was forced out of the legal partnership “Chitiz Sui Pundit Pathak & Sokoloff” which had an office in Toronto.
+[4] According to the Applicant, the dispute with his former partners led to significant financial losses for him in 1998. However, he was unable to ascertain the amount of the losses since his former partners refused to disclose the relevant financial information to him.
+[5] As a result of the problem involving losses, the Applicant did not file his 1998 and 1999 income tax returns.
+[6] On January 18, 2000, the Minister of National Revenue (the “Minister”) requested that the Applicant file his income tax returns for the 1998 and 1999 taxation years.
+[7] The Applicant advised the Minister that he could not file his income tax returns for 1998 and 1999 since he was not able to ascertain the losses from his partnership.
+[8] The Minister requested that the 1999 income tax return be filed as it would be possible under subsection 154(4.2) of the Act to adjust his 1999 income tax return once his 1998 losses had been determined.
+[9] The Applicant filed his 1999 income tax return by self-assessing $24,000.00 in tax.
+[10] On March 19, 2001, the Minister reassessed the Applicant for the 1999 taxation year and determined that $59,810.44 was payable in tax. According to the Minister, since no tax return was filed for the 1998 taxation year, his 1995 income reserve of $62,173.14 was deemed to have collapsed and could not be used to offset income in 1999.
+[11] On July 20, 2001, the Minister accepted an application to extend the time within which to file a Notice of Objection in respect of the Applicant’s 1999 taxation year. In a telephone conversation on July 23, 2001, the Minister’s representative informed the Applicant’s agent that the assessment would be confirmed, as the 1995 income reserves had collapsed due to the lack of the 1998 income tax return. However, the Minister’s representative also indicated that, once the 1998 income tax return was filed, an amendment to the 1999 tax return could be requested. As a result, a letter confirming the assessment (the “impugned letter”) was sent to the Applicant on July 25, 2001. That letter reads as follows:
+Appeals Division, Burnaby-Fraser TSO
+ERWIN SUI July 25, 2001
+3347 TRUTCH STREET
+VANCOUVER BC V6L 2T3 Account number
+XXX-XXX-XXX
+Dear Sir:
+Re: Your objection for the 1999 taxation year
+This is further to your representative’s telephone conversation of July 23, 2001, with Joanne Siemens of the Appeals Division.
+We have considered your objection for the year shown above. As agreed, we hereby confirm the assessment under subsection 165(3) of the Income Tax Act.
+Yours sincerely,
+L. Melissa
+Team Leader
+[12] The Applicant did not file a Notice of Appeal to the Tax Court after receiving this letter.
+[13] The Applicant said, during the hearing, that the litigation between the Applicant and his former partners is still ongoing.
+[14] During this period, from 2001 to the present time, there has been no collection of the outstanding tax debt. The Applicant believed that he had an understanding with the Minister’s representative that further tax returns would need to be amended once the legal situation involving the 1998 taxation year became clear.
+[15] In early 2008, the Minister’s official responsible for the Applicant’s file retired and he was replaced with a new official. The new official requested that the Applicant file all outstanding tax returns.
+[16] By March 2009, the Applicant had filed tax returns for 2000, 2001, 2002 and 2003 without knowledge of the 1998 losses or any relevant reserves.
+[17] In September 2009, the Minister accepted the tax returns for the 2000 to 2003 taxation years as reported amounts and assessed the 1998 and 2004 to 2007 taxation years without tax returns.
+[18] In response, the Applicant filed Notices of Objection on November 30, 2009 for the taxation years 1998 to 2007. All Notices of Objection were accepted and sent to the Appeals Division except for the 1999 taxation year.
+[19] The Minister’s position is that the 1999 taxation year is statute barred since the period of one year and ninety days has passed from the mailing of the Notice of Confirmation on July 25, 2001.
+B. ISSUE
+[20] The issue is whether the Applicant is allowed to file a Notice of Appeal to the Court for the 1999 taxation year.
+C. ANALYSIS AND DECISION
+[21] The letter referred to above is the main point to consider in this application. If the letter is a valid confirmation, then the fact that the Applicant did not bring his application within one year and ninety days from the date of the letter is determinative and the application must be refused. This time limit is strict. However, the Applicant argues that the impugned letter is not a Notification of Confirmation since the letter did not set out the reasons for the decision to confirm and the letter did not set out the Applicant’s appeal rights. Unfortunately, the decision regarding the validity of this notice could have a major effect on the Applicant due to the passage of time. If valid, his 1999 tax liability crystallizes at $59,810.44 with no ability to apply past reserves or losses to this amount as the ten‑year time limit to request amendments to 1999 tax returns expired on December 31, 2009. This ten-year time limit is found in subsection 152(4.2) of the Act. Subsection 152(4.2) provides as follows:
+152(4.2) Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer’s tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer’s liability under this Part for the year.
+[22] Subsection 165(3) of the Act establishes the Minister’s duty to confirm after receiving a notice of objection and reads:
+165(3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister’s action.
+[23] It will be noted that the only requirement in the section is to notify the taxpayer in writing. The Applicant cites Johnston v The Queen, 2006 TCC 128, 2006 D.T.C. 2830, for the proposition that a notice of confirmation is a nullity when it does not comply with the requirements of the Act. However, the requirement that Justice Beaubier referred to in Johnston was to mail the confirmation to the correct address. That is not the case here since the Applicant admits to having received the impugned letter.
+[24] The letter from the Minister to the Applicant referred to an earlier phone call between the parties where the Minister’s position was explained.
+[25] I have concluded that the letter from the Minister, dated July 25, 2001, is a valid Notice of Confirmation. I have also concluded that the Applicant cannot appeal his 1999 income tax assessment as there is no ability to extend the time to initiate an appeal beyond the period of one year and ninety days from the sending of the Notice of Confirmation.
+[26] While the Applicant has brought this application on the grounds that he did not receive reasons for the confirmation nor an explanation of his appeal rights in the letter of July 25, 2001, I understand that his real issue is about fairness, i.e., was he treated fairly by the Minister. It is the Minister’s abrupt change in position in 2008, requiring tax returns to be filed and instituting the collection process, with which the Applicant takes issue. I have concluded that this Court cannot grant relief having determined that the letter of July 25, 2001 was a valid Notice of Confirmation. That is not to say, though, that the Applicant has no potential relief from this problem. The Federal Court of Canada may be willing to grant the Applicant his desired relief in an action based upon legitimate expectations, promissory estoppel or an unreasonable decision by the Minister. In the alternative, since I am sympathetic to the Applicant’s situation, I would suggest that the Applicant write the taxpayer’s Ombudsman for possible relief. Both steps are not guaranteed to help, but since both offices have broader powers than the jurisdiction of the Tax Court, the Applicant might wish to consider these avenues.
+[27] The Application is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 7th day of July 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 342
+COURT FILE NO.: 2011-345(IT)APP
+STYLE OF CAUSE: ERWIN SUI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 30, 2011
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: July 7, 2011
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Amandeep K. Sandhu
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,294 @@
+Title: 9194-2359 Québec Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420943/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-179-420943-9194-2359-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-08-28
+
+# 9194-2359 Québec Inc v. The Queen
+
+- Citation: 2019 TCC 179
+- Decision date: 2019-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4234, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9194-2359 Québec Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-28
+Neutral citation
+2019 TCC 179
+File numbers
+2015-3958(GST)G, 2016-2313(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-3958(GST)G
+BETWEEN:
+9194-2359 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with appeal 2016-2313(GST)I on January 22 and 24, 2019, at Montréal, Quebec
+Before: The Honourable Madam Justice Lamarre, Associate Chief Justice
+Appearances:
+Agent for the appellant:
+Nechteh Nichan
+Counsel for the respondent:
+Maurice Régnier
+JUDGMENT
+The appeal from the assessment of $66,216.88 made against 9194‑2359 Québec Inc. by Revenu Québec under Part IX of the Excise Tax Act (ETA) for the period between February 6, 2012, and March 31, 2012, is dismissed with costs.
+Signed at Ottawa, Canada, this 28th day of August 2019.
+“Lucie Lamarre”
+Associate Chief Justice Lamarre
+Translation certified true
+on this 3rd day of February 2020.
+François Brunet, Revisor
+Docket: 2016-2313(GST)I
+BETWEEN:
+MAGGI MANOUKIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with appeal 2015-3958(GST)G on January 22 and 24, 2019, at Montréal, Quebec
+Before: The Honourable Madam Justice Lamarre, Associate Chief Justice
+Appearances:
+Agent for the appellant:
+Nechteh Nichan
+Counsel for the respondent:
+Ryan Allen
+JUDGMENT
+The appeal from the assessment of $25,386.89 made against Maggi Manoukian by Revenu Québec under section 325 of the ETA is dismissed without costs.
+Signed at Ottawa, Canada, this 28th day of August 2019.
+“Lucie Lamarre”
+Associate Chief Justice Lamarre
+Translation certified true
+on this 3rd day of February 2020.
+François Brunet, Revisor
+Citation: 2019 TCC 179
+Date: 20190828
+Docket: 2015-3958(GST)G
+BETWEEN:
+9194-2359 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2016-2313(GST)I
+BETWEEN:
+MAGGI MANOUKIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Associate Chief Justice Lamarre
+[1] 9194-2359 Québec Inc. (9194) is appealing from an assessment in the total amount of $66,216.18 made by Revenu Québec (RQ) under Part IX of the Excise Tax Act (ETA) for the period between February 6, 2012, and March 31, 2012. This amount includes $50,850.71 in adjustments to the net tax calculation reported by 9194 corresponding to input tax credits (ITCs) that were rejected. The balance is made up of penalties assessed under ETA section 285 and interest on arrears (Exhibit I-1, tab 7).
+[2] That said, Nechteh Nichan, sole shareholder and sole director of 9194, was also assessed under ETA section 323 for payment of the taxes that 9194 failed to remit to the government. This assessment was apparently not appealed from. His wife, Maggi Manoukian, was also assessed under section 325 of the ETA for the amount of $25,386.89 (Exhibit I-1, tab 2) in relation to the transfer into her name of the 50% undivided share held by Mr. Nichan in their residential property. The respondent submits that Ms. Manoukian did not provide any consideration in this regard. Ms. Manoukian appealed her assessment, and the two appeals were consequently heard on common evidence.
+Preliminary motion
+[3] At the beginning of the hearing, Mr. Nichan asked that I postpone the matter on the ground that he wished to retain the services of a lawyer to whom he had spoken three days prior. I declined to adjourn for the following reasons.
+[4] First, this appeal was filed under the informal procedure on September 3, 2015. At the appeal hearing in an informal procedure on June 29, 2016, Justice Jorré advised Mr. Nichan that the amount in dispute appeared to exceed $50,000 and that, if Mr. Nichan did not want to limit his appeal to the amount of $50,000, the appeal should be heard under the general procedure.
+[5] Since Mr. Nichan did not want to limit his appeal to $50,000, Justice Jorré made an order transferring the case to the general procedure. In this order dated July 5, 2016, Justice Jorré also granted Mr. Nichan’s motion to obtain authorization to represent 9194 under subsection 30(2) of the Tax Court of Canada Rules (General Procedure) (Rules). However, Justice Jorré also recommended in this order that Mr. Nichan retain the services of counsel, if possible, “at a later date” and set the dates for completing the preliminary steps of the process (the parties ultimately had to contact the Court to schedule a hearing if the matter was not settled by March 20, 2017). This order was amended subsequently to the general strike called by the members of the association Les avocats et notaires de l’État québécois (LANEQ). I personally signed a new order on May 1, 2017, after the strike ended, pushing back the timeline for completing the preliminary steps of the process and requiring that the parties now contact the Court no later than October 27, 2017.
+[6] On October 26, 2017, the respondent submitted an application to the Court unilaterally requesting to schedule the date and place of the hearing—to which Mr. Nichan agreed—and requesting to schedule the hearing on certain proposed dates, including January 22, 2019.
+[7] By order of this Court dated February 7, 2018, the hearing was scheduled for January 22, 2019, for a duration of one day.
+[8] On November 21, 2018, counsel for the respondent submitted a letter to the Court, with a copy to Mr. Nichan, advising that the matter remained unsettled and that the respondent intended to “proceed” as planned on January 22, 2019.
+[9] During this entire time, Mr. Nichan did not give any indication that he wanted to postpone the hearing or that he had made any effort whatsoever to retain counsel.
+[10] Two years and seven months passed, and Mr. Nichan waited until the eve of the hearing to contact a lawyer and then request an adjournment.
+[11] Although Justice Jorré did recommend, in his order of July 5, 2016, that 9194 retain the services of counsel, if possible, “at a later date,” I am of the view that filing a request to adjourn on the very day of the hearing is entirely unreasonable and shows disregard on the part of Mr. Nichan for the administration of justice, especially since his wife was herself represented by counsel, who was present the day of the hearing and indicated that Mr. Nichan had decided to appear alone to argue the appeal on behalf of 9194. It is also important to note that Ms. Manoukian’s lawyer asked to withdraw from the case on the morning of the hearing after becoming aware of new facts indicating that his client was no longer following his legal advice.
+[12] This was consequently the context in which we proceeded with the hearing of this appeal and in which I declined to adjourn.
+The 9194 case
+[13] The respondent argues that the appellant was a participant in a scheme to create a false impression that it was conducting actual commercial transactions involving the purchase and resale of scrap gold with two suppliers (Todd McGregor (McGregor) and 9209-3228 Québec Inc. (9209)) and its only customer, Québec Fonte Inc. (Québec Fonte). The respondent submits that the appellant took part in this scheme in order to wrongfully claim ITCs. The penalty provided for in section 285 of the ETA was imposed because the appellant allegedly made undue use of accommodation invoices to claim ITCs for which it was not eligible.
+[14] The assumptions of fact on which the respondent based its argument are set out in paragraph 9 of the Reply to the Notice of Appeal in 9194’s record and reproduced below:
+[translation] In determining the appellant’s assessment at issue, the respondent based herself, among other things, on the following conclusions and assumptions of fact:
+a) The appellant was incorporated on April 1, 2008, declaring that it did business in jewelry manufacturing and the retail and wholesale trade of precious stones; [admitted]
+b) The appellant registered for tax accounts originally on October 1, 2009, declaring that it did business in the jewelry manufacturing sector; [admitted]
+c) This initial sales tax registration was revoked on May 4, 2011, retroactively to April 1, 2010; [admitted]
+d) On February 6, 2012, the appellant registered again for tax accounts, declaring that it did business in the “jewelry and repair shop sector”; [admitted]
+e) The company’s sole shareholder and president, Mr. Nechteh Nichan (“Nichan”), works in the taxi industry; [underlined portion admitted]
+f) Nichan does not have any experience dealing with precious metals;
+g) Between 2007 and 2011, Nichan reported income ranging between $343 and approximately $42,000;
+h) Between 2008 and 2010, Nichan collected employment insurance benefits;
+i) The address indicated by the appellant on its invoices is identical to that indicated on the invoices of another jewelry business, Bijouterie Lion d’or;
+j) The appellant does not have any accounting books or supporting documents;
+k) The appellant does not have insurance coverage concerning the scrap it reportedly works with; [admitted]
+l) The appellant does not have an employer account for the purposes of source deductions and other payroll contributions;
+m) Nichan states that the appellant began selling scrap gold after meeting with a certain Todd McGregor;
+n) Nichan reported that the appellant bought its scrap gold from two suppliers, one of these being Todd McGregor, an issuer of false invoices;
+o) The appellant does not carry on any form of commercial activity related to scrap gold;
+p) The appellant does not have the human resources required to make the taxable supplies that it reports;
+q) The appellant does not have the financial resources required to make the taxable supplies that it reports;
+r) The appellant does not have the material resources required to make the taxable supplies that it reports;
+s) The appellant took part in a scheme with the ultimate objective of unduly claiming inputs;
+t) The respondent noted that the appellant had cashed at least $1,206,707.07 in cheques at the Centre d’encaissement international (CECI) between February 8, 2012, and April 2, 2012;
+u) Nichan declared to the respondent’s auditors that he had left the precious metals business after three weeks of activity;
+v) Nichan does not have any knowledge about or experience dealing with precious metals;
+w) Nichan could not have built up a client base generating more than $1 million in sales in barely seven weeks;
+x) Nichan never advertised to publicize his offerings; [admitted]
+y) Nichan apparently paid cash for all scrap gold purchased; [admitted]
+z) Nichan was unable to provide supporting documents of any kind to confirm payment of the invoices from his purported suppliers;
+aa) The appellant’s main purported suppliers of scrap gold are Todd McGregor and the appellant 9209-3228 Québec Inc. operating under the name of Service G.K. Avanti; [admitted]
+Todd McGregor
+bb) The respondent found as follows:
+i) Todd McGregor has no knowledge of the jewelry industry;
+ii) Todd McGregor has been registered since March 30, 2010;
+iii) Todd McGregor registered for the GST on March 28, 2011;
+iv) Todd McGregor has not submitted any tax returns since registering;
+v) Todd McGregor does not have an employer account for the purposes of source deductions and other payroll contributions;
+vi) The invoices from Todd McGregor do not bear any address or telephone number;
+vii) Todd McGregor cashes the cheques he receives at a cheque-cashing facility;
+viii) Todd McGregor no longer resides at the addresses he has reported or indicated on his invoices;
+ix) Todd McGregor’s suppliers are unknown;
+x) Despite the foregoing, Todd McGregor reported more than $3,500,000 in sales in a period of only six months;
+xi) Todd McGregor does not carry out any form of commercial activity related to scrap gold;
+xii) Todd McGregor does not have the human resources required to make the taxable supplies that he reports in terms of scrap gold;
+xiii) Todd McGregor does not have the financial resources required to make the taxable supplies that he reports in terms of scrap gold;
+xiv) Todd McGregor does not have the material resources required to make the taxable supplies he reports in terms of scrap gold;
+xv) Todd McGregor took part in a scheme with the ultimate objective of unduly claiming inputs;
+cc) The respondent concluded that Todd McGregor was a supplier of false accommodation invoices;
+dd) [The appellant] was unable to demonstrate to the respondent the existence of any actual commercial transactions between the appellant and Todd McGregor;
+9209-3228 Québec Inc.
+ee) After auditing the business of 9209-3228 Québec Inc., the respondent concluded that this company was a supplier of false accommodation invoices;
+ff) 9209-3228 Québec Inc. was incorporated on May 5, 2009;
+gg) Between February 28, 2012, and April 3, 2012, the company 9209-3228 Québec Inc. purportedly issued a total of $3,644,521 in invoices;
+hh) The representative of 9209-3228 Québec Inc., Georges Kiknadze, reported income of between $9,600 and $16,470 for the years 2007 through 2010, with the exception of 2008, for which he did not file a tax return;
+ii) The company 9209-3228 Québec Inc. has no known place of business;
+jj) The supposed transactions involving scrap gold took place almost daily beginning on February 28, 2012;
+kk) All invoices were purportedly paid in cash; [admitted]
+ll) The address on the invoices was not, and has never been, correct;
+mm) The appellant was unable to demonstrate to the respondent the existence of any actual commercial transactions between the appellant and 9209-3228 Québec Inc.;
+nn) The appellant cashed $1,206,707.07 in cheques for false invoices over a period of barely two months;
+oo) The appellant has no assets;
+pp) The appellant’s only supposed customer was Québec Fonte Inc.; [admitted]
+Evidence related to Mr. Nichan’s testimony
+[15] Mr. Nichan was the sole witness at 9194’s appeal on behalf of the appellant. The respondent called the auditor and the auditing team leader from RQ, who entered the audit report into 9194’s record (Exhibit I-2, tab 5) as well as McGregor’s record (Exhibit I-2, tab 7). The respondent also called the auditor at RQ who audited the books of 9209 (Exhibit I-2, tab 8).
+[16] Mr. Nichan acknowledged that he had never worked in the jewelry business before becoming involved in the purchase and resale of scrap gold during the period in dispute of barely two months.
+[17] He purportedly conducted 24 transactions in two months.
+[18] The first transaction was purportedly conducted on February 8, 2012, (Exhibit I-2, tab 5, page 80). He apparently purchased approximately 1,700 grams of gold (10, 14 and 18 carat) from Todd McGregor for $50,311.85 including GST and QST. He then resold exactly the same quantity of gold that same day to Québec Fonte for $51,855.51 including GST and QST, taking into account a discount offered to Québec Fonte of $1,061.76 (Exhibit I-2, tab 5, page 79), which corresponds to 2.3% of the sale price. He then went to cash the cheque given to him by Québec Fonte at a cheque-cashing facility which, Mr. Nichan acknowledges, also collects a 2.25% premium on the cheque amount.
+[19] During his examination in chief, counsel for the respondent questioned Mr. Nichan concerning numerous aspects, which I will address below.
+What was his financial capacity to pay out $50,311.85 in cash on behalf of the appellant in relation to this initial transaction?
+[20] Based on the RQ audit report (Exhibit I-2, tab 5, page 8), Mr. Nichan reported relatively modest income between 2008 and 2011. In 2008, he reported employment insurance and CSST benefits totalling just under $8,000 and income of $16,800 that he earned as a mechanic. In 2009, he reported only employment insurance in the amount of $6,174. In 2010, he collected a small amount of employment insurance plus $4,722 in income as a mechanic at Mr. Muffler, while in 2011, he earned $41,573 in income from Mr. Muffler.
+[21] Mr. Nichan stated that he and his wife had saved up some cash over the years. He stated at trial that he had had between $25,000 and $30,000 cash on hand. During discovery (Exhibit I-3, page 30, lines 3–5), he had reported having between $15,000 and $20,000 at home.
+[22] During discovery, he stated that he had also borrowed from his brothers and friends (Exhibit I-3, page 31). He stated at trial that he had borrowed money, without specifying the exact amount, from one of his brothers and had not finished repaying him. No brother was present in court to corroborate this.
+Did he know Todd McGregor?
+[23] Mr. Nichan explained that he met him for the first time during the month of January preceding the first transaction in February 2012. He met him at the Caisse populaire Desjardins branch where he did his banking. Mr. McGregor told him at that time that he sold scrap gold. They had exchanged cards. He never went to McGregor’s place of business, but he called him several times to inquire about prices.
+How did he conduct his business?
+[24] As Mr. Nichan explained it, he registered with Québec Fonte and would inquire about the price offered by Québec Fonte before buying from Mr. McGregor at a lower price. The transactions with McGregor were conducted in the morning at a room apparently rented by Mr. Nichan. McGregor would arrive with a quantity of scrap gold in a bag. The gold was distinguished by number of carats, and the items were grouped by type in Ziploc bags. He then weighed the items to verify the exact quantity. Next, he generated the invoice and gave the cash to McGregor. All of this would take approximately 90 minutes. He would then leave in his vehicle and drive to Québec Fonte in Saint-Eustache, 30 minutes away, to which he would sell exactly the same quantity at a higher price. According to the auditor, he always added 5.5% to the price he said he paid to the suppliers in determining the sale price to Québec Fonte. However, Mr. Nichan offered Québec Fonte a 2.3% discount.
+[25] At Québec Fonte, the process was repeated: the gold was checked for quality and then weighed. Mr. Nichan maintains that although the gold items had to be rubbed on a pumice stone to verify the exact quantity of gold in each item, there was no loss, which the RQ auditor found highly doubtful. According to the auditor, Mr. Nichan would have Québec Fonte issue an invoice before issuing an invoice to McGregor.
+[26] Québec Fonte would then issue a cheque to Mr. Nichan, who went immediately to cash it at a cheque-cashing facility.
+Why did he go to a cheque-cashing facility that charged a 2.25% premium?
+[27] Mr. Nichan wanted to have the cash in hand on the same day, and no bank could do that. There was always a five-day waiting period at the banks. According to the auditor, each transaction generated a net profit of only 0.75% after the fees paid to Québec Fonte and the cheque-cashing facility (for actual gross profit of between $250 and $300 per transaction).
+How was it that he never lost money, knowing that the price of gold can fluctuate wildly over the course of a day?
+[28] The auditor cited as an example the price of gold at the stock exchange on February 8, 2012, which dropped that afternoon (Exhibit I-2, tab 5, pages 172–173). It is to be noted that the price indicated on the purchase order from Québec Fonte on that date does not correspond to the price that afternoon. The price corresponds to the price that morning, which is another indication that the transaction with Québec Fonte was conducted before Mr. Nichan’s supplier prepared the purchase invoice in question.
+When and why did he cease doing business with McGregor?
+[29] The last invoice bearing McGregor’s name in the record is dated February 16, 2012 (Exhibit I-2, tab 5, page 92). The respondent notes that there is no corresponding purchase invoice for the sale invoice to Québec Fonte on February 20, 2012.
+[30] Mr. Nichan states that there must be an invoice from McGregor for the scrap gold sold to Québec Fonte on February 20, 2012. However, no such invoice is to be found in the bundle of invoices submitted by the appellant in its documentation under Exhibit A-1. He notes that as of that date, McGregor was no longer reachable and stopped replying to telephone messages. The audit also revealed that McGregor’s tax registration number was cancelled by Revenu Québec effective February 20, 2012. This tells the RQ auditor that this is why Mr. Nichan changed suppliers as of that date. The new supplier was Avanti Jewelery, which is one of the operating names of 9209.
+[31] During discovery, however, Mr. Nichan stated that McGregor was always present when he did business with a man named Georges representing the new supplier, Avanti Jewelery (Exhibit I-3, pages 50–52). Additionally, Mr. Nichan never visited the premises of Avanti Jewelery.
+[32] According to the Registre des entreprises du Québec, Georges Kiknadze was president of 9209 (Exhibit I-2, tab 8, page 7).
+Additional facts gathered during the audit and submitted into evidence at the hearing
+[33] Jean Tremblay, the auditor assigned to 9194’s case, forwarded a requirement to provide documents or information to the cheque-cashing facility to determine the total amount of the cheques from Québec Fonte cashed by Mr. Nichan. Between February 8, 2012, and April 3, 2012, Mr. Nichan cashed cheques totalling $1,206,707, with the cheque-cashing facility collecting $27,233 of this amount as fees (Exhibit I-2, tab 5, page 60).
+[34] Meanwhile, 9194 had no other operating expenses (no insurance, no advertising). Mr. Tremblay was also unable to find any expenses associated with leasing a business office. In the accounting books included with the documents filed jointly under Exhibit A-1, Mr. Nichan submits that expenses for rent are indicated. Rent in the amount of $349.64 is recorded for the months of February and March 2012, although no supporting documents exist. Additionally, 9194 did not have any assets or employees. Based on this, Mr. Tremblay concluded that 9194 had neither the material nor the human resources to justify operating a scrap gold purchase and resale business.
+[35] With regard to purchasing, 9194 had only two suppliers, McGregor and 9209 (Avanti). Over a period of two months, 9194 purportedly purchased scrap gold with a total value of $1,016,315 (Exhibit I-2, tab 5, page 10).
+[36] However, according to the audit conducted on McGregor, McGregor had no experience in the gold industry, no place of business and no significant income (with annual income ranging between $20,000 and $30,000 from 2008 through 2011), and none of his income came from trading gold (audit report, Exhibit I-2, tab 7). He apparently cashed cheques totalling $1,449,627 at the cheque-cashing facility over a six-month period. According to the audit report, McGregor was able to do business directly with Québec Fonte and with an intermediary like 9194 within a single day. These intermediaries paid him in cash. The auditor has difficulty explaining the fact that McGregor would agree to sell scrap gold to an intermediary at a lower price than he could have got selling it to Québec Fonte. On completion of the audit, it was concluded that McGregor was taking part in an accommodation scheme and supplying accommodation invoices in the scrap gold business. McGregor’s GST registration was cancelled on February 20, 2012 (Exhibit I-2, tab 7, page 16, paragraph 11).
+[37] As for Avanti, the second supplier, another RQ auditor, Sylvie D’Aragon, testified and filed her audit report concerning that company for the period between February 28 and April 3, 2012 (Exhibit I-2, tab 8). According to this audit, Avanti had no actual place of business. In addition, it did not have the financial capacity to sell more than $3,000,000 in scrap gold within the period of a few weeks (purportedly with $832,706 in sales to 9194 and $2,811,814 in sales to another company, Bijouterie Tiara).
+[38] Avanti’s shareholder and president, Georges Kiknadze, apparently has not filed a tax return since 2011, while his annual income prior to 2011 never exceeded $25,000. In 2008, he was on welfare. The auditor concluded that Avanti had neither the financial nor the material resources to operate a business supplying more than $3,000,000 in scrap gold within a period of a few weeks. This being the case, RQ has no way of knowing where the scrap gold came from. However, it is inconceivable that Avanti would have issued two to three invoices a day to its two potential customers in amounts exceeding, more often than not, $50,000 per invoice (Exhibit I-2, tab 8, pages 16, 32 and 33).
+[39] RQ concluded that Avanti was participating in an accommodation scheme and was supplying accommodation invoices.
+Assessment of Maggi Manoukian
+[40] The evidence shows that Mr. Nichan was assessed personally on December 6, 2013, for his joint and several liability concerning the net tax unremitted as at April 30, 2012, by 9194 under section 323 of the ETA. The assessment against him amounted to $68,414.17 (Exhibit I-1, tab 6, 3rd page). This assessment was not appealed from.
+[41] Ms. Manoukian, meanwhile, was assessed in the amount of $25,386.59 under section 325 of the ETA (Exhibit I-1, tab 2). On September 12, 2012, her husband, Mr. Nichan, transferred to her his undivided half of their residential property, on which date he was aware of his debt to RQ following issue of the proposed assessment. Ms. Manoukian does not challenge the value of the property but argues that she paid consideration equal to the fair market value.
+[42] To support this, she had provided to the auditor, Diane Heppell, as well as filed with the Court of Québec (Exhibit I-1, tab 8), a cheque in the amount of $76,750 made out to Mr. Nichan. This cheque was drawn on the trust account held by a notary, Radwan Moussa. Mr. Moussa testified at the hearing that this cheque had not been cashed and that the transaction was instead cancelled upon request from Ms. Manoukian. At her request, he issued a cheque on the trust account in the same amount but made out to Ms. Manoukian instead.
+[43] She explained in court that the cheque made out to her husband could not be deposited to his bank account as all his accounts had been seized. Ms. Heppell denied this and stated that Mr. Nichan’s bank accounts had not yet been seized in 2012.
+[44] Ms. Manoukian went on to state that her husband simply did not have a bank account and that the money was deposited to a savings account specially opened in her name. She had then transferred most of these funds to a chequing account in her name in order to repay her husband’s personal debts.
+Respondent’s position
+[45] With respect to the assessment issued against Ms. Manoukian, the respondent argues that Mr. Nichan knew on July 24, 2012, that RQ had a proposed assessment in hand, which Mr. Nichan also refused to sign (Exhibit I-2, tab 5, page 27). One month later, he transferred his undivided share of the residential property he owned with his wife, Maggi Manoukian, to remove this asset from collection of the debt he owed to RQ. The respondent argues that there is no credible evidence that Ms. Manoukian paid consideration of any kind.
+[46] As for the assessment issued against 9194, according to the respondent, Mr. Nichan’s testimony does not withstand the credibility test.
+[47] For one, his story concerning the source of the funds used to purchase the scrap gold changed from the time of the audit to discovery, and then to the hearing.
+[48] He originally stated that he had had $25,000 cash on hand and then reduced this amount to $15,000 or $20,000.
+[49] The balance was purportedly lent to him by his brother, although he later stated that the lenders were his two brothers along with some friends.
+[50] At one point, he claimed that he was paying his brothers back over time only to later state that he did not repay them. Neither of the two brothers was present to corroborate this fact.
+[51] According to counsel for the respondent, if he had actually had $50,000 in his possession with which to buy scrap gold to begin with, Mr. Nichan would have paid his brothers back after the final transaction at the cheque-cashing facility.
+[52] Hence, counsel for the respondent submitted that the transactions in question were a scam to hide the identity of the real supplier. According to counsel for the respondent, no actual transactions took place between 9194, McGregor and Avanti.
+[53] Mr. Nichan also contradicted himself on other points.
+[54] During the audit, he claimed that he would meet with the suppliers either at his office or at the suppliers’ premises (Exhibit I-2, tab 5, page 17). During discovery, he stated that he never went to a supplier’s place of business (Exhibit I‑3, page 58, lines 19–21).
+[55] With regard to McGregor’s disappearance, he stated during the audit that he was no longer in contact with McGregor (Exhibit I-2, tab 5, page 18). During discovery, he stated that McGregor was a partner of Georges at Avanti (Exhibit I‑3, pages 50–52). Meanwhile, Avanti’s involvement began immediately after the cancellation of McGregor’s GST registration.
+[56] During discovery, Mr. Nichan stated that his original invoices had been stolen (Exhibit I-3, page 16). However, among the evidence introduced at the hearing under Exhibit A-1, he supplied original supplier invoices and original transaction statements from the cheque-cashing facility.
+[57] With regard to the office he stated that he leased for his business, he was asked for a copy of the lease during discovery, which he never did provide. No invoices or rent cheques were shown to the auditor. Hence, counsel for the respondent submitted that there probably never was a place of business at the address indicated for 9194 on the supplier invoices and that this was why Mr. Nichan gave his home address on the Québec Fonte invoices.
+[58] From a business perspective, meanwhile, it is inconceivable that McGregor, who claimed to sell directly to Québec Fonte on a regular basis in 2011 (Exhibit I‑2, tab 7, pages 32–33), would decide to sell via an intermediary and pay the latter a commission.
+[59] As for the fees paid to the cheque-cashing facility, counsel for the respondent does not accept Mr. Nichan’s explanation that he preferred to pay these fees in order to be able to cash cheques from Québec Fonte on the same day rather than depositing them at a bank and waiting five days. Based on calculation of the actual profit earned on the first six transactions (Exhibit I-2, tab 6, 5th page), the actual profit on these six transactions came to a total of $2,046.36, while the fees charged by the cheque-cashing facility totalled $6,740.58. The latter amount corresponds to a loss on the actual profit, which Mr. Nichan could have avoided incurring by depositing the cheques at a bank.
+[60] Counting the loss incurred in relation to the discount offered by Mr. Nichan to Québec Fonte on these first six transactions (Exhibit I-2, tab 5, page 29), the overall loss increases to a total of $6,125.83, hence, counsel submitted that the transactions make no sense from an economic viewpoint.
+[61] With respect to the weight of the gold, Mr. Nichan also stated that a magnet was used to test the gold and that there was consequently no gold weight loss at the time of verification by Québec Fonte. During discovery, Mr. Nichan never made any mention of magnets (Exhibit I-3, page 20). Moreover, it is odd that the supplier and Québec Fonte arrived systematically at the same weight when each weighed the gold. Based on this, counsel for the respondent concludes that Mr. Nichan was going to Québec Fonte first with his supposed supplier (McGregor or Avanti) to weigh the gold, then going to cash the cheque from Québec Fonte at the cheque-cashing facility, and then turning over the money to the purported suppliers and retaining a commission for himself. This would explain the matching numbers of grams on the purchase and sale invoices and, time and time again, the identical profit margins.
+[62] The auditor calculated the actual profit percentage at approximately 0.50% on average (Exhibit I-2, tab 6, 5th page). Since the price of gold fluctuates during the course of a day, it is not credible to accept that Mr. Nichan always bought from his suppliers in the morning and sold to Québec Fonte two to three hours later and always earned the same profit margin.
+[63] Counsel concludes that Mr. Nichan was basically agreeing to receive a $200 to $300 commission on each transaction in return for assisting (if not knowingly, then at least with wilful blindness) in the execution of a scheme devised for unduly claiming ITCs. Counsel does not believe that Mr. Nichan provided an initial outlay of $50,000 and operated a scrap gold purchase and resale business.
+[64] TricomCanada Inc. v. The Queen, 2016 TCC 8, affirmed by the Federal Court of Appeal, 2017 FCA 95, involved Bijouterie Tiara, which was doing business with three purported suppliers, including Todd McGregor and 9209 (at para 66). Justice Hogan noted that these suppliers did not have the financial resources, experience or profile required to undertake trading large quantities of gold over an extended period. In paragraphs 69 and 70, he noted further that McGregor had been a supplier of Québec Fonte prior to entering into dealings with Bijouterie Tiara and that the reason for this change had not been explained. The respondent notes in passing that in the present case, McGregor was summoned to appear at the hearing but failed to do so.
+[65] In TricomCanada, Justice Hogan also notes that McGregor’s sales tax registration had been cancelled on February 20, 2012, and that GK Avanti (an operating name of 9209) had assumed the role of supplier (paras 71–73). Additionally, no valid explanation was given as to why these suppliers were going through an intermediary rather than selling directly to Québec Fonte (para 78).
+[66] In reality, the protagonists in TricomCanada are identical to those in the present case, following the same model as in the present case and carrying out transactions during the same year in question. Justice Hogan concluded that there had been a scam.
+[67] Moreover, even leaving aside the question of a scam, the party claiming the ITCs must be the actual supplier (Les ventes et façonnage du papier Reiss Inc. v. The Queen, 2016 TCC 289) (Reiss). Thus, the supplier whose name appears on the invoice must be the supplier that made the supply in order to qualify for ITCs (Reiss, para 195). Just as the suppliers in Reiss did not have the capacity to operate a business in the purchase and resale of paper (para 209), the suppliers McGregor and Avanti did not have the capacity to operate a business in the purchase and resale of scrap gold and consequently were not carrying on commercial activity. Even if Mr. Nichan was acting in good faith, good faith is not a relevant criterion (para 215).
+Appellants’ position
+[68] Mr. Nichan merely states that he had no relationship with his suppliers. He maintains that he would never have exposed his family to fraud. He tried the experience for a month-and-a-half and realized that this business was not for him.
+[69] Meanwhile, Ms. Manoukian argues that she paid off her husband’s debts and, as such, paid consideration for the undivided share transferred to her by her husband.
+Analysis
+[70] The respondent rejected the ITCs on grounds that 9194 participated in a scheme with the end objective of unduly claiming ITCs. To support this, it alleges a long series of assumptions of fact such that the appellant could not claim to be carrying on commercial activity related to scrap gold. Among other facts, the appellant had registered for sales tax on February 6, 2012, stating that it operated in the jewelry and repair shop sector, when its sole shareholder, Mr. Nichan, had no experience in precious metals and the appellant had neither the financial resources to purchase the quantity of gold it claimed to have purchased nor any assets and had not taken out any scrap gold insurance coverage.
+[71] Additionally, the respondent alleges, or implies, in its assumptions of fact that the only two suppliers from which the appellant purportedly bought its gold also did not carry on any commercial activity relating to scrap gold, nor did they have the financial or material resources to make said supplies. The respondent alleges that both of these suppliers issued false accommodation invoices and that the appellant did not demonstrate the existence of actual commercial transactions.
+[72] I conclude that the appellant has failed to demonstrate that the Minister’s assumptions were incorrect. I agree with the respondent that Mr. Nichan is not credible. From the outset, it is very difficult to believe that the appellant was able to lay out $50,000 in cash for the initial transaction on February 8, 2012. Mr. Nichan had a very modest income, and the argument that he saved up cash over the years is undermined by the multiple versions he has provided since the audit was initiated. The argument that one or more of his brothers lent him money is not backed up by any documentation, and the unexplained absence at the hearing of the brother or brothers in question casts serious doubt on the veracity of this claim. Additionally, no evidence was provided as to the existence of assets under the appellant company’s name.
+[73] In addition, I agree with the respondent’s reasoning that it is not credible, from an economic or business standpoint, for the transactions to have been conducted in the manner and order described by Mr. Nichan. It is inconceivable that a supplier of the appellant’s sole customer (Québec Fonte) would agree to sell to the appellant at a lower price than it could get dealing with Québec Fonte directly. In the light of the changing market price of gold, it is also highly suspicious that the appellant never lost on the price of the gold it purchased versus the subsequent sale price to Québec Fonte.
+[74] It would be more logical to conclude, as the auditor did, that although there is no way of knowing what actually happened, the price indicated on the supplier’s invoices was established through collusion with the appellant after the completion of the transaction with Québec Fonte.
+[75] It is also difficult to believe that the appellant would agree to forfeit a significant share of the profit in order to cash cheques from Québec Fonte at a cheque-cashing facility.
+[76] This is all in addition to the inconsistencies and implausibilities surrounding both suppliers. The audit revealed that neither McGregor nor Avanti had an actual place of business or the financial or material resources to carry on the trade of such large quantities of gold. The appellant was unable to disprove this, and its explanations concerning its interactions with them were contradictory. In TricomCanada, Justice Hogan also came to the conclusion that both suppliers were not actual suppliers in that they did not have the resources to purchase such a large amount of gold within a short time period, which is the same time period applicable to the present case. I agree with this conclusion, which, in my opinion, must be the same in the present case considering the evidence submitted.
+[77] In short, I find that the Minister had every reason to conclude that the appellant failed to demonstrate the existence of actual commercial transactions and that both suppliers were providing accommodation invoices, which disqualifies the appellant from claiming ITCs.
+[78] Moreover, the respondent convinced me that the appellant took part in this scheme knowingly. I do not believe Mr. Nichan’s testimony that he was not aware of what was going on. The procedure for buying and selling the scrap gold that he described in court is completely illogical and unrealistic from an economic and business standpoint. In my opinion, the appellant willingly played the role of middleman between unidentified gold suppliers and Québec Fonte, which purchased the gold. The appellant received a commission for this role. Like Justice Hogan in TricomCanada, I am also convinced that both suppliers whose names appear on the invoices submitted by the appellant are not the actual suppliers of the scrap gold.
+[79] I consequently conclude that the purchase invoices used by the appellant to claim eligibility for ITCs are false. I further conclude that the appellant’s actions under the circumstances amount to gross negligence.
+[80] I consequently find that the penalty assessed under subsection 285(1) must stand.
+The Manoukian case
+[81] With respect to the joint and several liability of Ms. Manoukian, I cannot accept her claim that she paid consideration in return for her husband’s undivided share in the residential property. After Ms. Manoukian gave the impression that the notary had issued a cheque to Mr. Nichan in the amount of $76,750 drawn on a trust account, the notary proceeded to testify that this cheque was never cashed, that the transaction was cancelled and that the funds had been transferred to an account in Ms. Manoukian’s name at her request. She lied to the auditor by giving her a copy of a cheque that had never been deposited in her husband’s account. She lied again when she stated that she had to deposit the cheque in her account because RQ had seized her husband’s account. The auditor explained clearly that Mr. Nichan’s account had not yet been seized in 2012 when the transfer of the undivided share to Ms. Manoukian took place.
+[82] In the light of these untruths, I find it very difficult to believe that Ms. Manoukian paid any form of consideration by paying off her husband’s personal debts, or otherwise, without any evidence to support her version of events.
+[83] I find that the evidence produced by Ms. Manoukian concerning the consideration she paid in exchange for her husband’s undivided share is neither credible nor acceptable.
+[84] The appeals are dismissed with costs in favour of the respondent in the matter of 9194-2359 Québec Inc.
+Signed at Ottawa, Canada, this 28th day of August 2019.
+“Lucie Lamarre”
+Associate Chief Justice Lamarre
+Translation certified true
+on this 3rd day of February 2020.
+François Brunet, Revisor
+CITATION:
+2019 TCC 179
+COURT FILE NO.:
+2015-3958(GST)G
+2016-2313(GST)I
+STYLE OF CAUSE:
+9194-2359 QUÉBEC INC. v. HER MAJESTY THE QUEEN and MAGGI MANOUKIAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 22 and 24, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Madam Justice Lamarre, Associate Chief Justice
+DATE OF JUDGMENT:
+August 28, 2019
+APPEARANCES:
+Representing the appellants:
+Nechteh Nichan
+Counsel for the respondent:
+Maurice Régnier
+Ryan Allen
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

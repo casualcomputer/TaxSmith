@@ -1,0 +1,258 @@
+---
+title: "758997 Alberta Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26506/index.do"
+last_modified: "2004-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 755"
+citation2: ""
+neutral_citation: "2004 TCC 755"
+decision_date: "2004-11-16"
+language: "en"
+item_id: "26506"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3254
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:50:08.408000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3372fbeb6ca5a0b8687f7f2bd8bb125bfafabf02b0c734cf9c5084c7fe840716"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 758997 Alberta Ltd. v. The Queen
+
+- Citation: 2004 TCC 755
+- Decision date: 2004-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3254, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+758997 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-16
+Neutral citation
+2004 TCC 755
+File numbers
+2003-3050(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3050(IT)G
+BETWEEN:
+758997 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 11 and 12, 2004, at Edmonton, Alberta, by
+The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Gordon D. Beck
+Counsel for the Respondent:
+Carla Lamash
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1999 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant in computing income is a personal services business and is entitled to claim expenses in the amount of $49,940.
+Signed at Ottawa, Canada, this 16th day of November, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC755
+Date: 20041116
+Docket: 2003-3050(IT)G
+BETWEEN:
+758997 ALBERTA LTD.,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1]The Appellant, 758997 Alberta Ltd. (758), appeals the assessment for its taxation year ending June 30, 1999 from the Minister of National Revenue. The issues are:
+(i) whether 758 was a personal services corporation as defined in subsection 127(7) of the Income Tax Act and if it is not a personal services corporation then;
+(ii) whether the expenses of $59,742 denied by the Minister are deductible pursuant to subparagraphs 18(1)(p)(i) or 18(1)(p)(ii) of the Act.
+[2] Walter Pielasa and his wife, Susan, owned 60% and 40% of the shares of 758, respectively. Walter is an engineering technologist. More specifically, he is a designer and drafter of industrial piping.
+[3] In August 1996, he entered a contract with a placement agency, The Design Group Staffing Services Inc. (DGS). DGS found him employment with Bantrel Inc. who was in charge of construction projects for Nova Chemicals (Nova) in its plant at Joffre, near Red Deer, Alberta. Nova is a substantial petrochemical plant whose piping installations appeared to be in an almost constant state of evolution. The original contract with DGS was entered into by Mr. Pielasa personally and was temporary employment for an indefinite period of time.
+[4] In November 1996, his then fiancée moved to Calgary. At that time, Mr. Pielasa believed his work at Nova's Joffre site was coming to an end and he began looking for work in or closer to Calgarywhile continuing to work at Joffre. He was offered a position with Tri-Ocean Engineering Ltd. of Calgary in October 1997 as a pipe designer at $46 per hour. At the same time, he incorporated 758.
+[5] During this period, 758 contracted with Kemex Engineering Services Limited to have Mr. Pielasa work for 20 hours in mid-November. To retain a valuable client, DGS negotiated a new contract for 758. On November 26, 1997, 758 entered into a contract with DGS to provide the services of a piping designer to Bantrel for services at Nova's Joffre plant at the end rate of approximately $50 per hour.
+[6] This contract was for an indefinite period and specified that 758 was considered an independent contractor as opposed to an employee. The DGS contract contained a non-competition clause for a period of three months after its contract terminated. It provided further that 758 would provide a piping designer (Mr. Pielasa) to Nova through Bantrel. Mr. Pielasa's timesheets had to be approved by Bantrel and submitted to DGS who paid 758 who, in turn, paid Mr. Pielasa. Mr. Pielasa was expected to comply with the corporate policies of DGS, Bantrel and Nova.
+[7] At the plant, Mr. Pielasa was integrated into a project group. These groups consisted of Nova employees and Bantrel staff and contractors. New project groups were continuously being created and old ones dissolved, with the normal length of a project being about eight months. Within that longer timeframe, smaller projects would have shorter deadlines, and the individual workers had the ability to decide what project to work on as long as their assigned projects were completed by the timeframe set by the project leader who was usually a Nova employee. If there was a concern, Nova would raise the issue with Bantrel, who in turn would either discuss it with the worker and occasionally a DGS representative.
+[8] Nova had liability insurance for the job site and 758 or Mr. Pielasa did not. All of Mr. Pielasa's designs were reviewed and signed by an engineer, who then was legally liable for the end product. Even Mr. Pielasa's Worker's Compensation Board premiums were paid by another party, DGS.
+[9] Mr. Pielasa often took work home and used his own computer and copies of the AutoCAD software, but these same tools were also supplied by Nova. In fact, Nova had a different software package installed and Mr. Pielasa would have to convert any work done away from the office into that software system before it was of any use to the company. Bantrel provided site-specific safety gear to Mr. Pielasa. The only tool that Mr. Pielasa supplied that did not duplicate tools supplied by Nova or Bantrel was his library of reference material. No work-related training was made available to Mr. Pielasa by DGS, Bantrel or Nova. DGS did however offer a benefits plan that covered extended health, although 758 did not opt into the program.
+[10] It is highly unlikely that Mr. Pielasa had that right to subcontract his work. He was part of a team, Bantrel knew as did Nova of his competency and would not accept replacement without approval. DGS, Bantrel and Nova retained control, not 758 or Mr. Pielasa.
+[11] Since the end of 2000, Bantrel has stopped providing Nova with supplemental project workers. This service is now provided directly by DGS. 758 managed to continue to secure projects from DGS, all of which have been located at the Nova Joffre plant. 758 also supplied Ms. Pielasa to Yanko and Company (Yanko) for a half-year of clerical services in 2001. Ms. Pielasa has been paid to work on several of the projects 758 secured through DGS. Her services did not include drafting or design work, but instead was focused on word processing, document drafting, editing, checking of drafting calculations and as general clerical support to 758.
+[12] The Appellant and Susan were married and had a child. They resided, as a family in what had been Susan's apartment in Calgary, but he retained his Red Deer apartment where he resided during the workweek from where he commuted some 30 kilometres daily to the Nova Joffre plant. When he was not working, he resided with his family in Calgary.
+[13] I accept that his principal place of residence was in Calgary with his wife and their child, now six years old, but that he has maintained an apartment in Red Deer for work purposes only. Although this is the same apartment that he rented prior to moving to Calgary, most of his furniture and personal effects have been moved to Calgary. With 125 kilometres between Calgary and Red Deer and another 25 kilometres to the Nova Joffre plant, Mr. Pielasa has used this apartment extensively in the last seven years. 758 has continued to look casually for additional contracts. The company's efforts have been limited to lunches with colleagues, contact with a few engineering firms in southern Alberta and word of mouth.
+[14] The reassessment of 758 was based on the assumption that it was a personal services business. As a consequence, a number of expenses were disallowed under paragraph 18(1)(p), alternatively, the Minister pleads that even if 758 is not a personal services business, the same expenses were properly disallowed as they were not incurred to earn income from a business and they are personal or living expenses of specified shareholders. Finally, a sum of $12,296.60 spent on wages to Walter ($8,766.30) and Susan ($3,530.30) was disallowed as the Minister's auditor was not satisfied that the amount was actually paid as a wage or management fee.
+[15] The first question is whether 758 was a "personal services business" within the definition in subsection 125(7). The test boils down to whether Mr. Pielasa "would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation". The guiding tests to determine whether a person was an employee or independent contractor are set out in Wiebe Door Services Ltd. v. M.N.R.[1] as confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] The tests include (a) employer control; (b) ownership of tools; (c) chance of profit or risk of loss and to an extent; integration.
+[16] The Supreme Court of Canada in Sagaz makes it clear that these factors are not exclusive tests but are to be given weight according to the circumstances. The primary consideration is to determine whether the worker is simply part of DGS, Bantrel or Nova or whether Mr. Pielasa was in business on his own account.
+[17] I have little difficulty in concluding that Mr. Pielasa was not in business on his own account. The Appellant's counsel submits that the biggest hurdle the Minister had to get over, in determining whether Mr. Pielasa is an employee, is who is his employer? DGS found his work, Bantrel and Nova supervised. It is irrelevant who the actual employer was, DGS, Bantrel or Nova, probably all three but it does not really matter.
+[18] All that needs to be determined is whether it can be reasonably considered that Mr. Pielasa was in business for himself vis-à-vis the drafting work. He was not. His arrangement with DGS, Bantrel and Nova put him in a subordinate role where he was under the control of the three corporations - told what to do, when and where to do it and in some respects, how to do it. Obviously, this test supports the Minister's position. He and 758 were not the boss, the three corporations were. 758 was paid on an hourly basis for Mr. Pielasa's services. He and 758 had no risk of losses or ability to increase profits reflecting an employee relationship. The tools he provided were insignificant. This test also favours an employee relationship.
+[19] The independence he had, stemmed from the management style of the three corporations and not from an independent contractor status. The contractual wording in the DGS contract describing Mr. Pielasa as an independent contractor and not an employee has no foundation in reality. The facts disprove the contractual description and should be ignored. The freedom over his project management and working relationship with the three entities is no different from the independence competent professional employees are commonly granted by their employers. Mr. Pielasa's independence reflected the management style of the three corporations and not an independent contractor.
+[20] The control test is very meaningful in this instance. His contract with DGS assigned him to work at the Nova plant, 30 kilometres from Red Deer and some 150 kilometres from his principal place of residence in Calgary. He could not decide for instance that "I will work in Calgary today". He had to be on site at Nova's plant working with a group organized by Bantrel on a specific project required by Nova. He was a team player and not off on his own. He was directed to use his professional skills as directed by the project's leader. The projects were for a specific period of time and to be completed by Mr. Pielasa and not his designate in a specific period of time under the direction of Bantrel using Nova's office, supplies and computers. He was paid a contracted hourly rate determined by DGS, Bantrel and Nova. It was not his business, it was the business of the tripartite group of corporations. DGS issued a T4 for the wages paid to Mr. Pielasa that was attached to his T1.
+[21] Having found that 758 was a personal services business, the remaining issue is whether 758's disallowed expenses are allowable under subparagraphs 18(1)(p)(i) and 18(1)(p)(ii) of the Act which read in part:
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+...
+(p) an outlay or expense to the extent that it was made or incurred by a corporation in a taxation year for the purpose of gaining or producing income from a personal services business, other than
+(i) the salary, wages or other remuneration paid in the year to an incorporated employee of the corporation,
+(ii) the cost to the corporation of any benefit or allowance provided to an incorporated employee in the year,
+[22] The Minister disallowed the following on the basis that they were personal expenses of Mr. Pielasa and not incurred for the purpose of gaining or producing income. These expenses are set out in paragraph 17(hh) of the Reply to the Notice of Appeal as follows:
+Description
+Amount
+Automotive expenses
+$13,878
+Meals & entertainment
+$4,950
+Red Deer rent expense
+$4,980
+Calgary rent expense
+$900
+Telephone
+$378
+Utilities
+$237
+Wages
+$12,296
+Employee benefits
+$7,708
+Advertising expenses
+$504
+Insurance
+$371
+Total Personal Expenses
+$46,202
+Details of these expenses are set out in paragraph 17 of the Reply to the Notice of Appeal, which I will deal with briefly.
+(jj) the Worker and his Spouse rented and lived in an apartment in Red Deer, Alberta;
+This is not accurate. I have found earlier that Mr. Pielasa's principal place of residence was with his wife and child in Calgary. He used the Red Deer apartment for his work with the group of three corporations.
+(qq) the duties performed by the Worker at the Jobsite were not of a temporary nature;
+This is not accurate. The projects were generally from one week to eight months in duration. This is probably why Nova used placement agencies.
+(tt) the Worker's principal place of residence was in Red Deer;
+As stated, this is not accurate.
+(aaa) the meals and entertainment expenses were not incurred by the Worker for business purposes;
+(ccc) the wages and benefits claimed in the 1999 taxation year are personal expenses of the Worker;
+I disagree with both of these. The meals and entertainment expenses incurred by Mr. Pielasa, the $1,100 per month automobile expenses, the insurance for the vehicle and the Red Deer apartment expenses are all benefits to the incorporated employee and, therefore, deductible by the Appellant under paragraph 18(1)(p).[3] The wages and benefits claimed in 1999 were not personal expenses of Mr. Pielasa. They represented wages and benefits paid to the two "incorporated employees", Mr. and Ms. Pielasa. The company's accountant testified that the amounts in dispute were added as shareholder loans and deducted as wages and benefits to represent the fact that some amounts paid by DGS for the work conducted by Mr. Pielasa were incorrectly paid directly to Mr. Pielasa. The amounts should have been made payable to 758. The ledger was adjusted to record this error, with the result that shareholder loans were recorded, and corresponding amounts were credited for wages and benefits paid to Mr. and Ms. Pielasa. This is not a case of an individual attempting to contract with himself and pay himself wages as suggested by the Minister, but rather it was a notation on the company's ledger to recognize the error in the issuing of several cheques. Therefore, the wages to Mr. Pielasa were properly recorded and deducted, as were the wages to Ms. Pielasa.
+[23] (fff) the Appellant was not entitled to deduct the Personal Expenses as the Appellant was a personal services business;
+As stated the Appellant is entitled to deduct certain expenses as a personal services business. The following expenses were properly disallowed by the Minister:
+Description
+Amount
+Calgary rent expense
+$900
+Advertising expenses
+$504
+50% of the Meals and Entertainment
+$2,475
+Total
+$3,879
+The Calgary rent expense is unreasonable given the Red Deer rental space allowed; and the advertising expense is unrealistic and also unreasonable (section 67); and the 50% restriction is pursuant to subsection 67.1(1).
+(ggg) further or, in the alternative, the personal expenses were personal expenses of the Worker and were not incurred for the purpose of gaining or producing income from a business property;
+The expenses, at least in part, were incurred for the purpose of gaining or producing income from a business.
+[24] The other adjustment to the Appellant's 1999 taxation year is in regard to the capital cost allowance. As a personal services business, 758 cannot deduct capital cost allowances. This portion of the Minister's reassessment should be upheld.
+[25] Finally, the Minister disallowed "Other Expenses" on the grounds that 758 was a personal services business as outlined in paragraph 17(sss) which reads:
+(sss) the Appellant claimed other expenses (hereinafter "Other Expenses") as follows:
+Description
+Amount
+Bank Charges
+$63
+Office Supplies
+$103
+Professional Fees
+$2,291
+Repairs and Maintenance
+$41
+Salaries paid to Spouse
+$7,500
+Employee Benefits for Spouse
+$117
+Amortization of Cumulative Eligible Capital
+$27
+Total
+$10,142
+Of these amounts only the salaries and benefits paid to the spouse can be considered under subparagraph 18(1)(p)(i). These could be deductible on the basis Ms. Pielasa was an "incorporated employee".
+[26] In summary, 758 is a personal services business because it was reasonable to conclude that Mr. Pielasa was offering his services to DGS, Bantrel and Nova as an employee. The following expenses are allowed:
+Description
+Amount
+Personal Expenses
+Automotive expenses
+$13,878
+Meals & entertainment
+$2,475
+Red Deer rent expense
+$4,980
+Telephone
+$378
+Utilities
+$237
+Wages to Mr. Pielasa
+$8,766
+Wages to Ms. Pielasa
+$3,530
+Employee benefits
+$7,708
+Insurance
+$371
+Total "Personal" Expenses Allowed
+$42,323
+Other Expenses:
+Salaries paid to Spouse
+$7,500
+Employee Benefits for Spouse
+$117
+Total Expenses Allowed
+$49,940
+[27] The appeal is allowed, with costs, to permit the Appellant to deduct total expenses in the amount of $49,940.
+Signed at Ottawa, Canada, this 16th day of November, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC755
+COURT FILE NO.:
+2003-3050(IT)G
+STYLE OF CAUSE:
+758997 Alberta Ltd. and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+August 11 and 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+November 16, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Gordon D. Beck
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gordon D. Beck
+Firm:
+Field Law Firm
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 4 C.T.C. 139.
+[3] Possibly these could be included in Mr. Pielasa's income pursuant to section 6 and in accordance with subsection 67.1(1), only 50% of the meal expenses are deductible.

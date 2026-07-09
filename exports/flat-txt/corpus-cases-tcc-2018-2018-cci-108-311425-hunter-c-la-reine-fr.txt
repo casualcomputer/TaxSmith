@@ -1,0 +1,172 @@
+Title: Hunter c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/311425/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-108-311425-hunter-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-06-12
+
+# Hunter c. La Reine
+
+- Citation: 2018 CCI 108
+- Decision date: 2018-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4732, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-12
+Référence neutre
+2018 CCI 108
+Numéro de dossier
+2015-3019(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3019(IT)G
+ENTRE :
+MELVILLE THOMAS HUNTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 avril 2018,
+à Kamloops (Colombie-Britannique)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ian Wiebe
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation portant le numéro 1961780 et daté du 16 octobre 2012, établi en vertu de la Loi de l’impôt sur le revenu, est rejeté, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour de juin 2018.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 30e jour de mai 2019.
+Erich Klein, réviseur
+Référence : 2018 CCI 108
+Date : 20180612
+Dossier : 2015-3019(IT)G
+ENTRE :
+MELVILLE THOMAS HUNTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Paris
+[1] L’appelant, M. Hunter, interjette appel d’une cotisation établie à son égard le 16 octobre 2012 en vertu de l’article 227.1 de la Loi de l’impôt sur le revenu (« Loi »). C’est en sa qualité d’administrateur de 0818428 British Columbia Ltd. (« 081 ») que l’appelant a fait l’objet d’une cotisation pour des versements de retenues à la source que 081 n’avait pas effectués en 2009.
+[2] L’appelant a témoigné pour son propre compte et a également fait témoigner son frère, Richard Hunter.
+Faits
+[3] L’appelant a constitué 081 en personne morale le 4 mars 2008 et s’est désigné l’unique administrateur de la société. Il a témoigné qu’il avait établi 081 pour son frère Richard en vue de l’exploitation d’un terrain de golf et d’un restaurant (l’« entreprise ») près de 100 Mile House, en Colombie-Britannique. L’entreprise a été exploitée pendant environ un an et demi, de 2008 à 2009. L’appelant a déclaré qu’il n’avait pas participé à l’exploitation de l’entreprise.
+[4] Il a dit qu’il ne pouvait pas se rappeler pourquoi Richard n’avait pas été nommé administrateur, et qu’il s’agissait probablement d’une erreur. L’appelant a également ouvert le compte bancaire de 081 pour Richard. En contre-interrogatoire, l’appelant a reconnu avoir établi la société et ouvert le compte bancaire parce que, à cette époque, Richard avait [traduction] « une côte de crédit de zéro ».
+[5] L’appelant a témoigné qu’au moment où il a constitué 081 il a préparé une lettre, que Richard a signée, indiquant que Richard exploiterait l’entreprise et tiendrait [traduction] « à jour les retenues à la source ». Plus tard dans son témoignage, l’appelant a décrit la lettre comme stipulant que Richard s’engageait à [traduction] « veiller à ce que tout demeure en règle » et que [traduction] « les choses seraient payées ». Il a dit qu’il gardait la lettre chez lui, dans le registre des procès-verbaux de 081, qui consistait en un cahier dans lequel se trouvaient insérés les documents relatifs à la constitution en société.
+[6] La société, aux prises avec des difficultés financières, a fermé ses portes après l’Action de grâces en 2009. Richard a témoigné que 081 n’avait pas assez d’argent pour verser aux employés leur salaire et effectuer aussi les versements des retenues à la source et qu’il a choisi de payer les employés. Il a dit avoir décidé que le gouvernement devrait attendre.
+[7] Il ne ressortait pas clairement de la preuve quand les problèmes financiers de l’entreprise ont commencé ou sur quelle période les versements des retenues à la source n’avaient pas été effectués. Le moment exact où l’appelant a eu connaissance de ces problèmes n’est pas clair non plus, mais la preuve donne à penser qu’en octobre 2009 il savait que l’entreprise avait fermé ses portes.
+[8] Richard a témoigné avoir informé l’appelant de la situation en ce qui concerne les versements des retenues à la source le 17 décembre 2009, au cours d’une réunion familiale chez l’appelant. Il a déclaré que l’appelant s’était mis en colère, qu’il avait pris un cahier dans lequel il a écrit quelque chose et qu’il avait dit quelque chose comme [traduction] « C’est fini pour moi. »
+[9] L’appelant a confirmé qu’il avait appris que les retenues à la source ne seraient pas versées lors de la rencontre avec Richard le 17 décembre 2009. Il a dit qu’il s’était fâché et qu’il avait écrit dans le registre des procès-verbaux de 081 qu’il démissionnait de son poste d’administrateur ainsi que de tout autre poste qu’il occupait dans la société, et que cette dernière serait dissoute. Il a dit ne pas se rappeler les mots exacts qu’il avait utilisés, mais qu’il avait écrit en substance qu’il n’y aurait plus d’activités commerciales et qu’il démissionnait de son poste d’administrateur et de tous les postes qu’il occupait dans la société. Je traiterai de façon plus approfondie du témoignage de l’appelant sur ce point plus loin dans les présents motifs.
+[10] L’appelant a dit qu’aucun autre administrateur n’avait été désigné, et qu’il s’attendait à ce que 081 soit dissoute à terme pour omission de produire ses déclarations annuelles.
+[11] La preuve révélait également que l’appelant avait auparavant été propriétaire de trois autres sociétés dont il était le seul administrateur. Les trois avaient été dissoutes pour non-production des déclarations annuelles et, dans chaque cas, il n’a pas démissionné de son poste d’administrateur.
+[12] Par voie d’avis datés du 19 avril et du 12 mai 2010, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de 081 pour les retenues à la source non versées ainsi que les intérêts et pénalités y afférents.
+[13] En octobre 2010, un incendie a détruit complètement la maison de l’appelant, et il a tout perdu, y compris le registre des procès-verbaux de 081.
+[14] Entre la fin de l’année 2010 et l’année 2012, des agents du service de recouvrement de l’Agence du revenu du Canada (« ARC ») ont communiqué avec l’appelant à plusieurs reprises relativement aux retenues à la source non versées de 081. L’appelant a admis qu’il ne leur avait jamais dit qu’il avait démissionné de son poste d’administrateur. Il a également reconnu qu’il savait que les agents de l’ARC communiquaient avec lui parce qu’ils croyaient comprendre qu’il était administrateur de 081.
+[15] Le 4 février 2011, le ministre a enregistré un certificat auprès de la Cour fédérale, et cette dernière a délivré un bref de saisie-exécution relativement à la dette fiscale. Le bref de saisie-exécution a été retourné le 24 juillet 2012, étant inexécuté en totalité.
+[16] Le 16 octobre 2012, une cotisation a été établie à l’égard de l’appelant, à titre personnel, relativement aux retenues à la source non versées de 081, lesquelles totalisaient 37 536,11 $, y compris des pénalités et les intérêts jusqu’à ce jour-là.
+Thèse de l’appelant
+[17] L’appelant soutient qu’il a démissionné de son poste d’administrateur de 081 le 17 décembre 2009 et que la cotisation était donc prescrite selon le paragraphe 227.1(4) de la Loi, aux termes duquel une cotisation ne peut être établie à l’égard d’un administrateur plus de deux ans après que ce dernier a cessé pour la dernière fois d’être un administrateur de la société.
+[18] L’appelant dit qu’il n’y a aucune preuve documentaire faisant état de sa démission étant donné que le registre des procès-verbaux a été détruit dans l’incendie.
+[19] Subsidiairement, l’appelant soutient qu’en faisant en sorte que son frère signe la lettre portant que ce dernier acceptait de tenir à jour les retenues à la source, il a fait preuve de diligence raisonnable pour prévenir l’omission d’effectuer les versements.
+Thèse de l’intimée
+[20] L’intimée soutient que l’appelant n’a jamais démissionné de son poste d’administrateur de 081 et que le paragraphe 227.1(4) ne s’applique pas.
+[21] À titre subsidiaire, l’intimée dit que si l’appelant a effectivement démissionné, il a néanmoins continué à agir comme administrateur de la société et qu’il était un administrateur de fait.
+[22] L’intimée soutient en outre que l’appelant n’a pas fait preuve de diligence raisonnable pour prévenir l’omission d’effectuer les versements.
+[23] Les parties pertinentes de l’article 227.1 de la Loi sont les suivantes :
+Dispositions législatives
+227.1(1) Responsabilité des administrateurs pour défaut d’effectuer les retenues – Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+[…]
+(3) Idem – Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+(4) Prescription – L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+Analyse
+Moyen de défense fondé sur la démission
+[24] Pour déterminer le moment où un administrateur cesse d’occuper son poste, il est nécessaire de se reporter à la loi pertinente régissant la constitution en personne morale : Canada v.Kalef, [1996] 2 CTC 1 (CAF).
+[25] En l’espèce, 081 a été constituée sous le régime de la Business Corporations Act, 2002 SBC, ch. 57, de la Colombie-Britannique. L’article 128 de cette loi dispose notamment qu’un administrateur cesse d’occuper son poste au moment de sa démission, laquelle prend effet à la date de réception d’une démission écrite au siège social de la société ou à la date indiquée dans la lettre de démission si cette date est postérieure à la date de réception. Voici les dispositions pertinentes de l’article 128 :
+[traduction]
+(1) Un administrateur cesse d’occuper son poste dans les cas suivants :
+[…]
+b) il décède ou démissionne;
+[…]
+(2) La démission d’un administrateur prend effet à la plus tardive des dates suivantes :
+a) à la date à laquelle la démission par écrit est remise à la société ou à l’avocat de la société;
+b) si la démission par écrit précise que la démission prend effet à une date spécifiée, à une date et à une heure spécifiées ou au moment où se produit un événement spécifié :
+(i) si une date est spécifiée, au début du jour en question,
+(ii) si une date et une heure sont spécifiées, à la date et à l’heure spécifiées,
+(iii) si un événement est spécifié, au moment où cet événement se produit.
+[26] La question que je dois trancher est de savoir si l’appelant a établi qu’il a remis sa démission écrite à 081 le 17 décembre 2009. Sur la foi de la preuve présentée à l’audience, je conclus qu’il ne l’a pas fait.
+[27] Le témoignage de l’appelant quant à ce qu’il a écrit exactement dans le registre des procès-verbaux de la société le 17 décembre 2009 était vague et confus. Il a utilisé des termes différents chaque fois qu’il a parlé de ce qui était écrit. Il était également difficile de comprendre s’il voulait dire qu’il avait écrit explicitement qu’il démissionnait de son poste d’administrateur ou de tous ses postes chez 081, ou encore s’il croyait que c’est ce qui résultait de ce qu’il avait écrit que l’entreprise 081 était [traduction] « finie ». À un certain moment il a dit : [traduction] « Lorsque je dis que je mets fin aux activités de l’entreprise, cela signifie que je cesse d’être administrateur. »
+[28] Dans la mesure où il a témoigné qu’il avait écrit qu’il démissionnait detous les postes qu’il occupait ou les quittait, je ne trouve pas que son témoignage soit fiable. Lorsqu’il a été interrogé au préalable un an avant l’audience, il a déclaré à plusieurs reprises qu’il ne se souvenait pas de la formulation de ce qu’il avait écrit dans le registre des procès-verbaux. Il a dit que c’était probablement quelque chose comme [traduction] « c’est la fin de cette société ».Il a également dit ce qui suit :
+[traduction]
+Je ne me rappelle pas exactement ce que j’ai écrit dans le registre des procès-verbaux, mais je sais que nous l’examinions. Nous avons décidé que… que c’en est fait de cette société, c’est fini, laissons simplement… nous ne produirons pas de rapports annuels et la laisserons disparaître. (interrogatoire préalable de Melville Hunter, le 30 mars 2017, à la page 33, lignes 3 à 7)
+[29] Les contradictions entre les réponses que l’appelant a données lors de l’interrogatoire préalable et celles données à l’audience m’amènent à conclure que son témoignage à l’audience selon lequel il avait écrit qu’il démissionnait n’est pas fiable. Il n’a pas expliqué les divergences, et on s’attendrait à ce que des réponses données à une date plus rapprochée du moment où les événements ont eu lieu soient plus exactes. Je ne suis pas convaincu qu’il ait indiqué par écrit qu’il démissionnait de son poste d’administrateur de 081.
+[30] Dans la mesure où l’appelant a écrit que c’était la fin de l’entreprise de 081, cela ne peut s’interpréter comme constituant sa démission à titre d’administrateur. Ces mots n’auraient certainement pas fait savoir à un tiers qui les lisait que l’appelant avait démissionné. Dans l’arrêt Canada c. Chriss, 2016 CAF 236, la Cour d’appel fédérale a conclu que l’intention de démissionner, à elle seule, n’est pas déterminante et que le statut d’administrateur doit pouvoir faire l’objet d’une « vérification objective ». Aux paragraphes 11 à 14 de cet arrêt, la Cour a écrit :
+[11] Les raisons justifiant le besoin de communiquer une démission par écrit à la société vont de soi. Les tierces parties se fient aux déclarations faites concernant les noms des personnes responsables de la gouvernance d’une société. Des décisions d’affaires sont parfois prises en tenant compte de la composition du conseil d’administration d’une société.
+[12] De nombreuses lois tiennent d’anciens administrateurs responsables durant une certaine période suivant leur démission; voir, par exemple, la Loi de 2000 sur les normes d’emploi, L.O. 2000, chap. 41, Partie XIV.2. Il en va de même pour la Loi de l’impôt sur le revenu, paragraphe 227.1(4), qui prévoit une prescription de deux ans concernant les actions ou les procédures visant le recouvrement d’une somme payable par un administrateur. Cette période de deux ans débute à la date de la démission.
+[13] Cette prescription de deux ans exige, comme condition d’application, une date de démission précise. Si un administrateur a démissionné, il est possible que la Couronne ne puisse plus se tourner vers lui pour recouvrer des montants d’impôt non versés, et il est possible que les autres administrateurs aient à absorber la part de responsabilité de cet administrateur. En outre, il existe une prescription de deux ans qui restreint la capacité du ministre d’intenter une procédure contre des administrateurs pour le non-versement de retenues sur la paie.
+[14] Il va de soi que le statut d’un administrateur doit pouvoir faire l’objet d’une vérification objective. S’il fallait accorder du crédit à l’intention subjective ou aux dires d’un administrateur, cela permettrait à ce dernier de semer les graines d’une démission rétroactive, à laquelle il pourrait s’en remettre à une date ultérieure au cas où il surviendrait une responsabilité liée à sa fonction d’administrateur. […]
+[31] De plus, je constate également que l’appelant n’a pas soulevé le moyen de défense fondé sur la démission avant de produire son avis d’opposition en janvier 2013, et qu’il n’avait pas mentionné auparavant, dans ses discussions avec les agents de recouvrement de l’ARC en 2010, en 2011 et en 2012, sa prétendue démission. Cela me porte à croire qu’en fait il n’avait pas l’intention de démissionner le 17 décembre 2009. L’appelant a témoigné qu’il savait que les agents de recouvrement communiquaient avec lui parce qu’il était administrateur de 081, mais a dit qu’il n’avait pas mentionné avoir démissionné en raison de son [traduction] « ignorance des règles et des règlements en ce qui concerne les sociétés ». Il me semble cependant invraisemblable que, s’il avait effectivement démissionné à titre d’administrateur, il n’ait pas informé les agents de recouvrement de cette démission dès qu’ils ont communiqué avec lui.
+[32] Enfin, le témoignage de Richard, le frère de l’appelant, n’a été d’aucun secours à l’appelant. Il se rappelait seulement que l’appelant avait dit, en écrivant dans le cahier le 17 décembre 2009, [traduction] « c’est fini pour moi »; et Richard a admis qu’il n’avait pas vu ce que l’appelant écrivait.
+[33] Pour tous les motifs qui précèdent, je conclus que l’appelant n’a pas réussi à prouver, selon la prépondérance des probabilités, qu’il a démissionné de son poste d’administrateur de 081 le 17 décembre 2009.
+Défense fondée sur la diligence raisonnable
+[34] Selon la Cour d’appel fédérale dans l’arrêt Canada c. Buckingham, 2011 CAF 142, il faut utiliser une norme objective dans l’appréciation de la défense de diligence raisonnable invoquée par un administrateur en vertu du paragraphe 227.1(3) de la Loi, et l’accent doit être mis sur les mesures prises par l’administrateur pour prévenir l’omission de faire les versements. Il faut déterminer si l’appelant a agi avec le degré de soin, de diligence et d’habileté pour prévenir l’omission de faire les versements qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[35] L’appelant soutient qu’il a pris des mesures raisonnables pour prévenir le non-versement en faisant en sorte que son frère s’engage par écrit, au moment de l’établissement de 081, [traduction] « à tenir à jour les retenues à la source » ou [traduction] « à veiller à ce que tout demeure en règle ». L’appelant a également témoigné que, même s’il n’a jamais demandé à voir les livres ou les registres de 081, il s’informait de temps à autre [traduction] « si les choses allaient bien ».
+[36] La preuve a révélé qu’au moment où l’appelant a établi 081 son frère Richard n’avait pas accès au crédit. Richard avait également besoin de l’appelant pour ouvrir le compte bancaire de 081 pour lui. Je déduis de cet élément de preuve que Richard soit avait peu d’expérience financière, soit avait eu des difficultés financières dans le passé. Dans les deux cas, il ne semble pas raisonnable que l’appelant n’ait pas fait davantage pour se tenir informé de la situation financière de 081. Il semble qu’il ait plutôt laissé toutes les affaires financières entre les mains de son frère et qu’il n’ait été informé du problème des retenues à la source que quand il était trop tard et que l’entreprise avait cessé ses activités. Tel n’est pas le comportement d’une personne raisonnablement prudente.
+[37] En outre, le fait que l’appelant a fait signer par son frère l’engagement initial de tenir à jour les versements des retenues indique qu’il avait des préoccupations à cet égard dès le début, et il est difficile de comprendre pourquoi il n’a pas pris des mesures pour s’assurer que les versements se faisaient. La conclusion de cette entente initiale sans aucun suivi de la part de l’appelant n’est pas le comportement d’une personne raisonnablement prudente.
+[38] De plus, je ne suis pas convaincu que l’appelant ait fait des efforts raisonnables pour s’informer des activités de 081 ou pour savoir si la société respectait ses obligations fiscales. Le témoignage de l’appelant concernant les questions qu’il avait posées à son frère était vague et il n’a pas mentionné ce que son frère lui avait dit en réponse.
+Conclusion
+[39] Par conséquent, je conclus que l’appelant n’a pas établi qu’il a agi avec diligence raisonnable pour prévenir l’omission de 081 de verser les retenues à la source.
+[40] Étant parvenu à cette conclusion, je n’ai pas à examiner l’argument subsidiaire de l’intimée voulant que l’appelant ait été administrateur de fait de 081 après le 17 décembre 2009.
+[41] L’appel est rejeté et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 12e jour de juin 2018.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 30e jour de mai 2019.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2018 CCI 108
+NO DU DOSSIER DE LA COUR :
+2015-3019(IT)G
+INTITULÉ DE LA CAUSE :
+MELVILLE THOMAS HUNTER c. SA MAJESTÉ LA REINE
+LIEU ET DATE DE L’AUDIENCE :
+Kamloops (Colombie-Britannique)
+Le 30 avril 2018
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge B. Paris
+DATE DE L’ORDONNANCE :
+Le 12 juin 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

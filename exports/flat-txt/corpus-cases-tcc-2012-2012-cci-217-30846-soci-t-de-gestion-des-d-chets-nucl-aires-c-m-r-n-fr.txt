@@ -1,0 +1,254 @@
+Title: Société de gestion des déchets nucléaires c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30846/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-217-30846-soci-t-de-gestion-des-d-chets-nucl-aires-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-06-18
+
+# Société de gestion des déchets nucléaires c. M.R.N.
+
+- Citation: 2012 CCI 217
+- Decision date: 2012-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7405, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Société de gestion des déchets nucléaires c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-18
+Référence neutre
+2012 CCI 217
+Numéro de dossier
+2010-3808(CPP)
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2010-3808(CPP)
+ENTRE :
+LA SOCIÉTÉ DE GESTION DES DÉCHETS NUCLÉAIRES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 avril 2012, à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocats de l’appelante :
+Me Dominic C. Belley
+Me Patrick Moran
+Avocat de l’intimé :
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, sans qu’aucuns dépens soient adjugés, et les décisions du ministre du Revenu national sont confirmées conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de juin 2012.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 22e jour d’août 2012.
+S. Tasset
+Référence : 2012 CCI 217
+Date : 20120618
+Dossier : 2010-3808(CPP)
+ENTRE :
+LA SOCIÉTÉ DE GESTION DES DÉCHETS NUCLÉAIRES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] Il s’agit d’un appel interjeté par la Société de gestion des déchets nucléaires (la « SGDN »), une société constituée conformément à la Loi sur les déchets de combustible nucléaire[1] et à la partie II de la Loi sur les corporations canadiennes[2];cet appel découle de décisions rendues par le ministre du Revenu national (le « ministre »).
+[2] Les décisions du ministre qui ont été portées en appel ratifiaient certaines décisions portant que les membres du conseil consultatif de l’appelante occupaient une charge ou une fonction et qu’ils occupaient donc un emploi ouvrant droit à pension conformément à l’alinéa 6(1)a) du Régime de pensions du Canada (le « Régime »)[3].
+[3] L’appelante soutient que les membres du conseil consultatif n’occupaient pas une charge ou une fonction auprès d’elle et qu’elle n’entretenait aucune relation employeur-employé avec les membres du conseil consultatif.
+[4] Les personnes suivantes sont touchées par les décisions du ministre portant sur le statut des membres du conseil consultatif de l’appelante :
+Membres du conseil consultatif touchés par la décision
+Périodes pertinentes
+Helen C. Cooper
+1er janvier 2005 au 31 décembre 2007
+David Cameron
+1er janvier 2006 au 31 décembre 2009
+Marlyn Cook
+1er janvier 2008 au 31 décembre 2009
+Frederick Gilbert
+1er janvier 2006 au 31 décembre 2009
+Rudyard Griffith
+1er janvier 2008 au 31 décembre 2009
+Donald Obonsawin
+1er janvier 2006 au 31 décembre 2009
+Les faits
+[5] Les faits exposés dans l’avis d’appel modifié de l’appelante figurent à l’annexe 1 des présents motifs et les hypothèses de fait émises par le ministre figurent à l’annexe 2.
+[6] D’une façon générale, les faits décrits dans les actes de procédure et sur lesquels chacune des parties se fonde ne sont pas sensiblement différents. De fait, aucun témoin n’a été cité à l’audience et les avocats de chaque partie ont reconnu que les faits invoqués par la partie adverse étaient admis sur tous les points essentiels.
+Les points litigieux
+[7] L’unique fondement de la ratification par le ministre des décisions portant que les membres du conseil consultatif occupaient un emploi ouvrant droit à pension est la définition du terme « emploi » figurant au paragraphe 2(1) du Régime, laquelle est libellée ainsi :
+« emploi » L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction; [Non souligné dans l’original.]
+[8] En outre, les termes « fonction » ou « charge » sont définis ainsi au paragraphe 2(1) du Régime :
+« fonction » ou « charge » Le poste qu’occupe un particulier, lui donnant droit à un traitement ou à une rémunération déterminée ou constatable. Sont visés par la présente définition une charge judiciaire, la charge de ministre, de lieutenant-gouverneur, de membre du Sénat ou de la Chambre des communes, de membre d’une assemblée législative ou d’un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu par vote populaire ou est élu ou nommé à titre de représentant, y compris le poste d’administrateur de personne morale; « fonctionnaire » s’entend d’une personne détenant une telle fonction ou charge.
+[9] Il s’agit donc ici uniquement de savoir si, au cours des périodes pertinentes, les membres du conseil consultatif de l’appelante occupaient une charge ou une fonction.
+Les faits et les arguments
+[10] Le fait peut-être le plus important que l’intimé a invoqué se rapporte aux modalités de rémunération des membres du conseil consultatif, lesquelles sont énoncées aux alinéas 9u) et v) de la réponse à l’avis d’appel (la « réponse »). Ces alinéas décrivent les modalités suivantes[4] :
+[traduction]
+[…]
+u) l’appelante versait chaque année un montant de 10 000 $ aux membres du conseil consultatif, [...]; les paiements y afférents étaient effectués sur une base trimestrielle.
+v) l’appelante versait aux membres du conseil consultatif un montant de 850 $ – [...] – pour chaque journée où ils assistaient à une réunion du conseil consultatif;
+[…]
+[11] L’intimé affirme essentiellement que les membres du conseil consultatif avaient droit à un traitement ou à une rémunération déterminée ou constatable et que, par définition, ils occupaient donc une « fonction » aux termes du paragraphe 2(1) du Régime, de sorte qu’ils étaient visés par la définition du terme « emploi » conformément à cette disposition.
+[12] L’appelante a déposé deux recueils de documents renfermant les actes de nomination, les calendriers, les ordres du jour et les procès-verbaux des réunions du conseil consultatif ainsi que le rapport triennal de la SGDN pour la période allant de l’année 2008 à l’année 2010 (le « rapport »).
+[13] Les lettres de nomination ainsi que les calendriers, les ordres du jour et les procès-verbaux des réunions du conseil consultatif confirment que les membres du comité devaient se réunir trois à six fois l’an, que, pendant la période en question, le conseil s’était réuni entre quatre et sept fois et que les membres n’étaient pas tous présents aux réunions.
+[14] L’appelante soutient qu’étant donné que le nombre de réunions du conseil consultatif varie et que les membres du comité n’assistent pas à toutes les réunions et qu’étant donné que leur rémunération est en partie fondée sur le nombre de réunions auxquelles ils assistent, leur rémunération, qui ne comprend que des honoraires, n’est ni déterminée ni constatable et qu’il ne s’agit donc pas d’une rémunération visée par la définition des termes « charge » ou « fonction ». De toute évidence, cette position va à l’encontre des décisions que la Cour d’appel fédérale vient de rendre dans les affaires M.R.N. c. Sa Majesté la Reine du chef de l’Ontario[5] et M.R.N. c. Real Estate Council of Alberta[6], où il a été jugé d’une façon non équivoque que la rémunération qui est fixée à l’heure ou à la journée est « déterminée ou constatable » même si le nombre d’heures ou de jours pour lesquels le titulaire de la charge ou de la fonction sera rémunéré n’est pas certain. Compte tenu de ces arrêts, les décisions invoquées par l’appelante ne font plus autorité[7].
+[15] D’autres arguments invoqués par l’appelante exigent que j’énonce brièvement certains faits additionnels[8]. Ces faits ne sont pas sensiblement différents des faits exposés et invoqués à l’annexe 1 :
+· l’appelante est une société à but non lucratif constituée par les producteurs canadiens d’électricité nucléaire conformément à la Loi sur les déchets de combustible nucléaire en vue de faire des recommandations au sujet de la gestion à long terme du combustible nucléaire irradié;
+· l’appelante a recommandé une approche connue sous le nom de gestion adaptative progressive. L’appelante est responsable de la mise en œuvre de cette approche, c’est-à‑dire qu’elle est responsable de la gestion à long terme du combustible nucléaire irradié du Canada;
+· l’appelante dépose des rapports annuels auprès du ministre des Ressources naturelles[9] et, tous les trois ans, le rapport (le « rapport triennal ») doit comporter un plan d’orientations stratégiques et des prévisions budgétaires pour les cinq exercices suivants[10]. Le conseil consultatif est chargé d’étudier les rapports triennaux et de faire part de ses observations[11];
+· l’appelante a constitué le conseil consultatif; elle nomme ses membres conformément à la Loi sur les déchets de combustible nucléaire, selon laquelle le conseil doit être composé de membres assurant la représentation d’un large éventail de disciplines se rapportant à la gestion d’énergie et de déchets nucléaires, ces membres devant également s’y connaître en matière d’affaires publiques, et d’autres sciences sociales et de questions traditionnelles autochtones. Le conseil consultatif doit inclure des personnes désignées par les administrations locales et régionales et par les organismes autochtones qui sont visés par les activités de la société de gestion;
+· le conseil consultatif tient ses propres réunions; il fait part de ses observations sur les plans et budgets de l’appelante; il rencontre régulièrement l’appelante en vue d’observer et de suivre les activités de cette dernière et de faire rapport à ce sujet et il donne des conseils sur les approches proposées aux fins de la gestion des déchets nucléaires;
+· le conseil consultatif est distinct du conseil d’administration de l’appelante, qui gère les affaires de cette dernière;
+· le conseil consultatif ne possède aucun pouvoir décisionnel; il fait des observations et donne des conseils, lesquels n’ont pas à être suivis.
+[16] L’appelante fait valoir que les membres du conseil consultatif sont des bénévoles qui touchent des honoraires et qu’ils ne sont pas visés par la liste de personnes énumérées dans la définition des termes « charge » ou « fonction ». Elle affirme que la liste est précise lorsqu’elle inclut les personnes élues ou nommées à un poste d’autorité en matière de gouvernance ou à un poste de la fonction publique et que cette liste ne peut pas être considérée comme comprenant des personnes qui agissent simplement à titre consultatif.
+[17] L’avocat de l’appelante m’a renvoyé à plusieurs décisions faisant autorité en matière d’interprétation des lois, lesquelles pourraient facilement être considérées comme étayant son argument[12]. L’un des renvois les plus convaincants était l’ouvrage intitulé Rédaction et interprétation des lois de Louis-Phillipe Pigeon, où, sous le titre « La définition par énumération », l’auteur mentionne la règle ejusdem generis ainsi que la règle expressio unius est exclusio alterius. Cette dernière règle prend de la force lorsqu’elle est examinée à la lumière des commentaires qui ont été faits lors d’une réunion du Comité mixte spécial du Sénat et de la Chambre des communes, consignés dans les procès-verbaux et témoignages, no 2, du mardi 1er décembre 1964.
+[18] Lors de cette réunion, M. Thorson (qui était alors sous-ministre adjoint de la Justice) a expliqué que la différence entre la définition de la « charge » dans la Loi sur l’assurance-chômage (telle qu’elle s’appelait alors) et la définition correspondante de ce terme dans les lois fiscales (soit, selon toute vraisemblance, la Loi de l’impôt sur le revenu) était que, dans le premier cas, il n’était pas fait mention de la charge de gouverneur général. M. Thorson a ajouté, à la page 121 : « La fonction de gouverneur général ne sera donc pas considérée comme un emploi ouvrant droit à pension », ce qui donne à entendre que le législateur voulait que la règle expressio unius est exclusio alterius s’applique à la disposition qui est ici à l’étude.
+[19] L’avocat de l’appelante affirme que, si je conclus que les membres du conseil consultatif occupent un emploi ouvrant droit à pension, je dois conclure que le gouverneur général occupe également un tel emploi. L’application de la règle expressio unius est exclusio alterius à un poste m’oblige à l’appliquer à d’autres postes ou, si je ne l’applique pas à un poste, à ne pas l’appliquer à d’autres postes. Il va sans dire que l’avocat veut que j’applique cette règle.
+[20] Je tiens à complimenter l’avocat pour son excellente recherche et pour son argumentation soigneusement préparée, mais je ne suis pas porté à tenter de tirer ici une conclusion qui touche le gouverneur général puisqu’il n’est pas ici pour présenter des observations. Je ne suis pas saisi de la question de son statut pour l’application du RPC.
+[21] Néanmoins, il y a une chose qui me frappe : la définition de la « charge » ou de la « fonction » est peut-être libellée en des termes qui sont loin d’être précis, mais elle ne nous invite pas à adopter l’interprétation préconisée par l’appelante.
+[22] La définition des termes « charge » et « fonction », dans la version anglaise, commence par le mot « means » (« signifie »). En général, si une définition commence par ce mot, ce qui est énuméré est exhaustif. D’autre part, si une définition commence par le mot « includes » (« inclut »), elle renferme simplement des exemples; une liste énumérative n’est pas exhaustive.
+[23] Le problème que pose la définition des termes « charge » et « fonction » dans ce cas‑ci est que les mots « means » et « includes » sont tous deux utilisés. La définition des termes « charge » ou « fonction » comporte deux éléments différents. Le premier a une portée étendue et générale, mais il est exhaustif pour ce qui est du critère d’inclusion : « Le poste qu’occupe un particulier, lui donnant droit à un traitement ou à une rémunération déterminée ou constatable ». Selon cette définition, les membres du conseil consultatif occupent une « charge » ou une « fonction ». Cela pourrait, d’une façon générale du moins, mettre fin à la question de l’interprétation, mais nous sommes en présence d’un autre type de poste plus précis que le législateur semble avoir voulu viser, compte tenu de la règle expressio unius est exclusio alterius.
+[24] L’inclusion, dans la définition de la « charge » ou de la « fonction », de ce groupe plus précis, limité quant à ses membres à ceux qui sont expressément énumérés, semble redondante étant donné que les membres semblent faire partie du groupe plus général visé par la première partie de cette définition. Toutefois, la présomption à l’encontre de la tautologie exige que leur inclusion secondaire ne puisse pas être considérée comme redondante[13]. Afin d’éliminer la redondance, le groupe plus précis, un groupe spécial de la fonction publique, doit, par suite de cette mention spéciale, être considéré comme étant effectivement distinct du groupe défini d’une façon générale et ramené dans ce qui est expressément inclus, et uniquement dans ce qui est expressément inclus, dans ce groupe spécial de la fonction publique. Par conséquent, le gouverneur général est exclu parce que ce poste n’est pas inclus dans la liste des « charges » ou « fonctions » faisant partie du groupe additionnel. On obtient ce résultat en appliquant la règle restrictive ejusdem generis à la liste, mais non au groupe plus général qui la précède.
+[25] Il est également possible d’étayer cette interprétation grâce à l’examen de la règle noscitur a sociis ou règle d’interprétation dite des mots associés[14]. Il y a quelque chose, quant à l’agencement de la liste énumérée, qui me semble avoir pour effet de restreindre la définition plus générale de la « charge » ou de la « fonction » à l’égard d’une catégorie particulière de personnes sans miner le caractère général de la définition plus générale à l’égard de personnes qui ne font pas partie de cette catégorie particulière.
+[26] Ce raisonnement semble tortueux, mais selon moi, ce groupe spécial de la fonction publique est simplement ajouté pour préciser qu’il faut inclure certaines personnes précises qui, à cause de leur fonction de service public ou de la façon plutôt unique dont elles ont obtenu leur poste, peuvent avoir été considérées comme n’étant pas visées par la définition initiale générale de la « charge » ou de la « fonction ». Cette conclusion est conforme au sens ordinaire attribué aux mots « means » et « includes » utilisés l’un à la suite de l’autre. De toute façon, l’effet est le même – les membres du conseil consultatif occupent une « charge » ou une « fonction ».
+[27] Cela dit, je note qu’il a également été soutenu que les membres du conseil consultatif n’étaient pas titulaires d’un « poste » ou n’occupaient pas un « poste », ce qui est une condition de la définition de la « charge » ou de la « fonction ». Aucune décision faisant autorité n’a été citée à l’appui.
+[28] Le sens le plus simple du terme « poste », dans le contexte de la définition de la « charge » ou de la « fonction », est celui qui est donné dans le Living Webster Encyclopedic Dictionary of the English Language[15], où le terme « position » (« poste ») est défini comme étant [traduction] « une affectation ou un travail ». De même, dans le Oxford English Dictionary, le terme « position » (« poste ») est défini ainsi : [traduction] « Affectation à titre d’employé; charge ou fonction rémunérée, travail »[16]. Le terme « post » (« affectation ») de son côté est défini comme étant [traduction] « un poste de responsabilité, un emploi ou un poste de confiance, auquel une personne est affectée ou nommée »[17]. Parmi les autres sens du terme « position » attribués dans le Canadian Oxford Dictionary, il y a [traduction] « un emploi rémunéré ». Étant donné que la définition du terme « charge » ou « fonction » sur le plan de l’emploi soulève la question, la définition ou le sens qui semble le plus approprié est : un poste de responsabilité auquel une personne est affectée ou nommée. Je conclus donc que le terme « poste », dans le contexte de la disposition en question, est une « affectation » à l’égard de laquelle des fonctions ont été assignées par suite d’une nomination. Quoi qu’il en soit, je ne doute aucunement que les membres du conseil consultatif occupent un « poste » dans l’exercice des fonctions auxquelles ils ont été nommés.
+[29] Il importe également de mentionner que l’avocat de l’appelante m’a renvoyé à divers textes législatifs en tentant de me convaincre qu’une interprétation téléologique de la définition du terme « charge » ou « fonction », dans le Régime, m’oblige à conclure que les membres du conseil consultatif ne devaient pas être inclus en tant que personnes exerçant des fonctions donnant lieu à un emploi ouvrant droit à pension. Toutefois, l’argument est fondé sur le fait que les fonctions exercées par les membres du conseil consultatif n’étaient pas semblables à celles des personnes énumérées dans la définition des termes « charge » ou « fonction ». Les postes énumérés s’appliquaient à des personnes telles que des juges, des ministres et des administrateurs de personnes morales, qui possèdent tous un véritable pouvoir, c’est‑à‑dire que leur « charge » ou « fonction » indique que le « fonctionnaire » est une personne ayant autorité. Or, les membres du conseil consultatif ne possèdent pas de pouvoirs.
+[30] Avec égards, cet argument, même s’il est accompagné de savantes observations sur les difficultés que comportent des termes comme « means » et « includes » ne m’amène pas à tirer une conclusion en faveur de l’appelante.
+[31] Les membres du conseil consultatif ont des fonctions à exercer et ils sont rémunérés pour exercer ces fonctions. Je suis convaincu qu’en occupant le poste auquel ils étaient nommés, dans le cadre duquel ils avaient droit à une rémunération, ces membres occupaient une charge ou une fonction. Ils occupaient donc un emploi ouvrant droit à pension pendant les périodes pertinentes.
+[32] En arrivant à cette conclusion, je m’appuie également sur un autre aspect implicite d’une « charge » ou d’une « fonction », à savoir qu’elle comporte l’idée d’un poste continu et permanent, indépendamment de la personne qui l’occupe. En ce sens, c’est la nature du poste plutôt que la période pendant laquelle une personne particulière l’occupe qui permet de conclure que son titulaire occupe une charge ou une fonction.
+[33] Dans la décision Guyard c. M.R.N.[18], le juge Angers, aux paragraphes 27 à 32, analyse la notion de « continuité et de permanence de la charge ou de la fonction » telle qu’elle est examinée dans les décisions Guérin[19] et MacKeen[20]. Au paragraphe 33 de ses motifs de jugement, le juge Angers conclut, conformément à la jurisprudence antérieure, que c’est le fait qu’une charge ou une fonction doit exister indépendamment de son titulaire qui importe. Contrairement aux faits de l’affaire Guyard, où le poste en question était temporaire, le conseil consultatif, en l’espèce, est chargé d’étudier les rapports triennaux et de faire part de ses observations sur une base continue. Étant donné la durée de vie fort longue des déchets nucléaires, en l’absence d’une intervention du législateur visant à supprimer le conseil consultatif, la « charge » ou la « fonction » des membres du comité est d’une nature fort permanente.
+[34] À titre d’addenda ou de corollaire à cet aspect de la signification des termes « charge » ou « fonction », disons que la durée pendant laquelle une personne particulière occupe cette charge ou cette fonction ou en est titulaire ne devrait pas, en règle générale du moins, être pertinente lorsqu’il s’agit de déterminer si une charge ou une fonction existe ou si son titulaire occupe une charge ou une fonction. Néanmoins, en tant que juge des faits, je note que, selon une hypothèse figurant dans la réponse et dont je n’ai pas fait mention (voir l’annexe 2), les membres du conseil consultatif étaient nommés pour une période de quatre ans et que leur mandat pouvait être renouvelé.
+[35] Il se peut que je sois obligé d’accepter la chose comme étant un fait admis, mais je note que les lettres de nomination qui ont été incluses dans le recueil conjoint de documents ne font pas mention de la durée d’occupation de la fonction. L’hypothèse de l’intimée semble découler de lettres de 2006 envoyées aux membres du conseil consultatif, dans lesquelles on leur rappelait une réunion récente au cours de laquelle il avait été dit que leur nomination, en 2002, était pour une période de quatre ans. Les lettres visaient également à confirmer la prorogation de leur mandat jusqu’au 30 juin 2007.
+[36] Toutefois, la Loi sur les déchets de combustible nucléaire n’indique pas pour combien de temps les membres du conseil consultatif sont nommés. À une exception près, tous les membres du conseil consultatif qui ont été nommés en 2002 et qui sont désignés à titre de travailleurs engagés par l’appelante dans le cadre d’un emploi ouvrant droit à pension ont continué à agir à titre de membres pendant bien des années après l’expiration du soi-disant mandat de quatre ans, comme le montre le fait qu’ils occupaient encore leurs postes à la fin de la période à laquelle le présent appel s’applique ainsi qu’au moment où le rapport triennal de 2010 a été présenté[21]. De même, selon le site Web de l’appelante, la plupart des membres continuent d’exercer leurs fonctions à ce jour[22].
+[37] Même s’il est reconnu que les nominations étaient faites pour une durée fixe, la fonction occupée par chaque membre montre non seulement que les postes ici en cause sont de nature continue, mais indique aussi que chaque membre occupait de fait personnellement cette fonction.
+[38] Par conséquent, pour ces motifs, l’appel est rejeté, sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 18e jour de juin 2012.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+Ce 22e jour d’août 2012.
+S. Tasset
+Annexe 1
+Principaux faits invoqués
+Historique de l’appelante
+1. L’appelante a été constituée en 2002 par les producteurs canadiens d’électricité nucléaire conformément à la Loi sur les déchets de combustible nucléaire en vue d’assumer la responsabilité de la gestion à long terme du combustible nucléaire irradié du Canada.
+2. L’appelante est une société à but non lucratif.
+3. Selon la Loi sur les déchets de combustible nucléaire, l’appelante devait faire des recommandations au gouvernement du Canada au sujet de la gestion à long terme du combustible nucléaire irradié, à la suite d’une étude de trois ans et d’un processus de consultation publique.
+4. L’appelante a entrepris cette étude en 2002 et, en 2005, elle a présenté au ministre des Ressources naturelles les résultats de l’étude et de la consultation publique ainsi que ses recommandations quant à l’approche à adopter.
+5. Au mois de juin 2007, le gouvernement du Canada, autorisé en vertu de la Loi sur les déchets de combustible nucléaire à décider de la méthode de gestion, a choisi l’approche que l’appelante avait recommandée, connue sous le nom de « gestion adaptative progressive ».
+6. En vertu de la Loi sur les déchets de combustible nucléaire, l’appelante est maintenant responsable de la mise en œuvre de la gestion adaptative progressive, sous réserve des autorisations réglementaires nécessaires.
+7. La Loi sur les déchets de combustible nucléaire exige que l’appelante présente des rapports annuels au ministre des Ressources naturelles. Tous les trois ans, le rapport annuel doit comprendre les observations du conseil consultatif sur les activités de l’appelante (le rapport triennal).
+Conseil consultatif de l’appelante
+8. L’article 8 de la Loi sur les déchets de combustible nucléaire exigeait expressément que l’appelante crée un comité consultatif :
+8(1) La société de gestion s’adjoint un comité consultatif qui a pour fonction d’étudier l’exposé des propositions de gestion et les rapports visés à l’article 18, et de lui faire part de ses observations écrites à ce sujet.
+(2) Les membres du comité sont nommés par l’organe dirigeant de la société de gestion de façon à assurer la représentation, dans la mesure du possible :
+a) d’un large éventail de disciplines scientifiques et techniques se rapportant à la gestion de déchets nucléaires;
+b) d’une expertise en affaires publiques appliquées au domaine de l’énergie nucléaire et, au besoin, d’autres sciences sociales connexes;
+b.1) d’une expertise en connaissances traditionnelles autochtones;
+c) de l’administration publique ou de l’organisation autochtone dont la région économique est visée par la proposition retenue par le gouverneur en conseil.
+9. Comme l’exige la Loi sur les déchets de combustible nucléaire, le conseil d’administration de l’appelante a établi le conseil consultatif en 2002.
+10. La Loi sur les déchets de combustible nucléaire autorise le conseil consultatif à faire part, tous les trois ans, de ses observations sur les activités de l’appelante au cours des trois années précédentes. Le conseil consultatif fait également part de ses observations sur les plans de l’appelante pour les cinq exercices suivants et sur les prévisions budgétaires de l’appelante.
+11. Ces déclarations indépendantes, qui comportent des observations au sujet des résultats des consultations publiques tenues par l’appelante et une évaluation des répercussions socioéconomiques notables des activités de l’appelante, sont publiées dans les rapports triennaux de l’appelante. Le premier rapport triennal sera publié pour l’année 2010.
+12. Le conseil consultatif rencontre régulièrement l’appelante; il suit de près l’élaboration des plans et les activités de l’appelante et il fournit des conseils.
+13. Habituellement, le conseil consultatif tient chaque année environ quatre réunions.
+14. Les ordres du jour de ces réunions sont établis par le conseil consultatif et comprennent des questions d’intérêt que les membres ont eux-mêmes choisies comme sujets de discussion.
+15. Le conseil consultatif produit ses propres procès-verbaux des réunions, lesquels sont mis à la disposition du public sur le site Web de l’appelante.
+16. Le conseil consultatif est une entité distincte du conseil d’administration de l’appelante, qui gère les affaires de l’appelante, comme l’exige la loi.
+17. Essentiellement, le conseil consultatif est un groupe d’examen par les pairs dont le mandat lui est conféré par la loi et qui fournit à l’appelante des conseils indépendants sur ses efforts en vue de trouver une solution à long terme pour la gestion du combustible nucléaire irradié du Canada, mais il ne possède pas de pouvoirs décisionnels et ses recommandations ne lient pas l’appelante.
+18. L’adhésion au conseil consultatif se fait bénévolement; les membres sont invités à faire partie du comité par le conseil d’administration de l’appelante.
+19. Les membres du conseil consultatif ont des antécédents divers : gouvernement, éducation, fonction publique, affaires autochtones, génie, viabilité environnementale et secteur des organismes à but non lucratif.
+20. L’appelante verse des honoraires aux membres du conseil consultatif pour leur participation.
+Annexe 2
+Hypothèses
+1. En décidant qu’au cours de la période, les travailleurs occupaient auprès de l’appelante un emploi ouvrant doit à pension, le ministre a émis les hypothèses de fait suivantes :
+Historique -- Généralités
+a) l’appelante est une société à but non lucratif constituée en 2002 par les producteurs canadiens d’électricité nucléaire conformément à la Loi sur les déchets de combustible nucléaire (la « LDCN »);
+b) l’appelante était responsable de la gestion à long terme du combustible nucléaire irradié du Canada;
+c) selon la LDCN, l’appelante devait faire des recommandations au gouvernement du Canada sur la gestion à long terme du combustible nucléaire irradié;
+d) l’appelante était tenue, en vertu de la LDCN, de présenter des rapports annuels au ministre des Ressources naturelles ainsi que des rapports triennaux au gouverneur en conseil;
+Le conseil consultatif
+e) le conseil d’administration de l’appelante a constitué le conseil consultatif en 2002, comme l’exige la LDCN;
+f) le conseil consultatif donnait des conseils généraux à l’appelante sur les approches proposées aux fins de la gestion des déchets de combustible nucléaire, en particulier en ce qui concerne les consultations publiques et les consultations avec les intéressés;
+g) le conseil consultatif était tenu d’observer les activités de l’appelante et de faire rapport sur celles‑ci;
+Les travailleurs
+h) les travailleurs étaient membres du conseil consultatif;
+i) les membres du conseil consultatif étaient nommés par l’organe dirigeant de l’appelante, comme l’exige la LDCN;
+j) le conseil d’administration de l’appelante était chargé de veiller à ce que les membres du conseil consultatif assurent la représentation de certaines disciplines et de certaines expertises et à ce qu’ils représentent les intéressés, comme l’exige LDCN;
+k) les travailleurs avaient signé des acceptations de nomination;
+l) les travailleurs étaient engagés par l’appelante pour une période de quatre ans et leur mandat pouvait être renouvelé;
+m) le conseil consultatif rencontrait régulièrement l’appelante; il suivait de près l’élaboration des plans de l’appelante et les activités de l’appelante et il fournissait des conseils;
+n) le conseil consultatif tenait chaque année de trois à six réunions;
+o) le conseil consultatif établissait l’ordre du jour des réunions;
+p) les réunions du conseil consultatif avaient habituellement lieu dans les locaux de l’appelante;
+q) les travailleurs assistaient aux réunions du conseil consultatif selon leur disponibilité;
+r) les travailleurs pouvaient participer aux réunions en personne ou par téléconférence;
+s) l’appelante ne supervisait pas le conseil consultatif ou les travailleurs;
+t) le conseil consultatif présentait des rapports écrits à l’appelante;
+u) l’appelante versait chaque année un montant de 10 000 $ aux membres du conseil consultatif, sauf au président, qui touchait un montant de 15 000 $; les paiements y afférents étaient effectués sur une base trimestrielle.
+v) l’appelante versait aux membres du conseil consultatif un montant de 850 $ – ou 1 000 $ dans le cas du président – pour chaque journée où ils assistaient à une réunion du conseil consultatif;
+w) l’appelante remboursait les frais de déplacement que les travailleurs supportaient pour assister aux réunions du conseil consultatif et à celles du conseil d’administration de l’appelante.
+RÉFÉRENCE : 2012 CCI 217
+No DU DOSSIER DE LA COUR : 2010-3808(CPP)
+INTITULÉ : LA SOCIÉTÉ DE GESTION DES DÉCHETS NUCLÉAIRES
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 avril 2012
+MOTIFS DU JUGEMENT : L’honorable J.E. Hersfield
+DATE DU JUGEMENT : Le 18 juin 2012
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Dominic C. Belley
+Me Patrick Moran
+Avocat de l’intimé :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Dominic C. Belley
+Cabinet : Norton Rose Canada SRL
+1, Place Ville-Marie, bureau 2500
+Montréal (Québec) H3B 1R1
+Nom : Patrick Moran, avocat
+La Société de gestion des déchets nucléaires
+22, avenue St. Clair, 6e étage
+Toronto (Ontario) M4T 2S3
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 2002, ch. 23. [Loi sur les déchets de combustible nucléaire].
+[2] S.C. 1970, ch. 32.
+[3] L.R.C., ch. C-8.
+[4] Le passage qui a été omis concerne le président, qui n’a pas fait l’objet d’une évaluation parce que son âge le rendait inadmissible à un emploi ouvrant droit à pension.
+[5] 2011 CAF 314.
+[6] 2012 CAF 121.
+[7] Guérin v. M.N.R., 52 DTC 118, MacKeen v. M.N.R., 67 DTC 281, Merchant v. The Queen, [1984] CTC 253 (C.F. 1re inst.), et Real Estate Council of Alberta c. M.R.N., 2011 CCI 5.
+[8] Le rapport triennal de 2010, qui renferme, au chapitre 14, les observations du conseil consultatif (pages 247 à 274), est inclus dans le recueil conjoint de documents. Il indique une interaction importante avec l’appelante pour ce qui est de l’évaluation de ses activités et de ses plans ainsi qu’une indépendance considérable en tant que groupe consultatif.
+[9] Loi sur les déchets de combustible nucléaire, précitée, note 1, article 16.
+[10] Ibid., alinéa 18b).
+[11] Ibid., alinéa 8(1).
+[12] Pierre-André Côté et al. Interprétation des lois. 4e éd. (Montréal, Thémis, 2009), aux pages 75 à 78 et 359 à 368; Ruth Sullivan. Sullivan on the Construction of Statutes, 5e éd., (Markham: LexisNexis Canada Inc., 2008), pages 6 à 9, 210 à 243, 269 à 272 et 354 à 357; Louis-Philippe Pigeon. Rédaction et interprétation des lois. 3e éd. (Québec, Gouvernement du Québec, 1986), aux pages 62 à 64 et 104.
+[13] Voir Sullivan, précité, note 13, pages 210 et 211, et note de bas de page 30.
+[14] Voir une brève analyse de la règle des mots associés ou noscitur a sociis, paragraphes 34 et 35 de l’arrêt McDiarmid Lumber Ltd. c. Première nation de God’s Lake, [2006] 2 R.C.S. 846.
+[15] The Living Webster Encyclopedic Dictionary of the English Language, éd. 1973-1974, s.v. « position ».
+[16] The Oxford English Dictionary, éd. en ligne du mois de mars 2012, s.v. « position ».
+[17] Précité, note 15, s.v. « post ».
+[18] 2007 CCI 231.
+[19] Précité, note 7.
+[20] Précité, note 7.
+[21] La seule exception semblerait être le cas de H.C. Cook, dont le mandat s’est peut-être terminé à la fin de l’année 2007.
+[22] http://www.nwmo.ca/conseilconsultatif.

@@ -1,0 +1,99 @@
+Title: Donetz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29372/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-438-29372-donetz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-03
+
+# Donetz c. La Reine
+
+- Citation: 2009 CCI 438
+- Decision date: 2009-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6892, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donetz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-03
+Référence neutre
+2009 CCI 438
+Numéro de dossier
+2007-1270(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1270(IT)G
+ENTRE :
+JOHN DONETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Requête tranchée en vertu de l'article 69 des Règles de la Cour canadienne de l'impôt (procédure générale).
+Par : L'honorable juge E. A. Bowie
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Tracey Pniowsky
+________________________________________________________________
+ORDONNANCE
+Vu la demande présentée par l'appelant pour obtenir l'ajournement de l'audition de son appel, qui était fixée au vendredi 4 septembre 2009, à Winnipeg, au Manitoba;
+Vu les documents déposés et les observations écrites présentées par les parties en application de l'article 69 des Règles;
+La Cour ordonne l'ajournement de l'audition de l'appel, lequel sera entendu à une date choisie par le greffe, après avoir consulté les parties. L'adjudication des dépens relativement aux frais engagés inutilement, le cas échéant, est laissée à l'appréciation du juge du procès.
+Signé à Winnipeg (Manitoba), ce 3e jour de septembre 2009.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 28e jour d'octobre 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 438
+Date : 20090903
+Dossier : 2007-1270(IT)G
+ENTRE :
+JOHN DONETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie
+[1] L'appelant a demandé l'ajournement de l'audition de son appel, qui avait été fixée au 4 septembre. L'avocate de l'intimée s'est opposée à cette demande.
+[2] L'appelant réside à Winnipeg, au Manitoba. Les événements en cause dans son appel ont eu lieu à cet endroit. L'audition de l'appel avait d'abord été fixée au 14 mai 2009. À cette date-là, l'appelant, qui n'a pas d'avocat, travaillait en Colombie‑Britannique. Il n'était pas commode pour lui de se présenter à l'audience le 14 mai, et, à sa demande, le juge qui devait alors entendre l'appel a ajourné l'audience à [TRADUCTION] « une date choisie par la Cour pendant la semaine du 31 août ». L'appelant, de façon très raisonnable, dit qu'il avait compris que pendant la semaine du 31 août, la Cour allait fixer une date ultérieure pour l'audition de son appel. Cependant, le juge voulait plutôt dire que le greffe de la Cour allait fixer l'audience à une journée de cette semaine‑là.
+[3] L'appelant travaille encore en Colombie‑Britannique, et le projet auquel il participe sera complété le 4 septembre. Il reviendra à Winnipeg le jour même, mais il ne pourra évidemment pas arriver à temps pour être présent à l'audition de son appel, si elle avait lieu à ce moment‑là. Compte tenu des circonstances, il serait injuste de refuser la demande de l'appelant, et ce, même si l'audience avait été fixée de façon péremptoire. L'audience qui devait être tenue le 4 septembre sera ajournée. Le greffe choisira une nouvelle date d'audition après avoir consulté les parties. Si des frais ont été engagés inutilement, il est préférable que l'adjudication des dépens s'y rapportant soit laissée à l'appréciation du juge du procès.
+Signé à Winnipeg (Manitoba), ce 3e jour de septembre 2009.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 28e jour d'octobre 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2009 CCI 438
+No DU DOSSIER DE LA COUR :
+2007-1270(IT)G
+INTITULÉ :
+John Donetz et Sa Majesté la Reine
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge E. A. Bowie
+DATE DE L'ORDONNANCE :
+Le 3 septembre 2009
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,278 @@
+---
+title: "Peintures Cyclone Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28893/index.do"
+last_modified: "2008-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 484"
+citation2: ""
+neutral_citation: "2008 TCC 484"
+decision_date: "2008-09-25"
+language: "en"
+item_id: "28893"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1368
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:48:20.115000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1a09d86bdbda8bdaa7dfe58cbb860074cd8674d0d0e20c540984cc1486a91a4d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peintures Cyclone Inc. v. M.N.R.
+
+- Citation: 2008 TCC 484
+- Decision date: 2008-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1368, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peintures Cyclone Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-25
+Neutral citation
+2008 TCC 484
+File numbers
+2007-3963(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3963(EI)
+BETWEEN:
+PEINTURES CYCLONES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard and judgment delivered from the bench on August 7, 2008
+at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is allowed and the determination by the Minister of National Revenue is set aside, on the basis that the work done by Isabelle Duval, Nicole Tremblay and Pascal Bien from January 1, 2006, to February 28, 2007, for Peintures Cyclone Inc., was not insurable, the evidence being that this employment was in fact excluded from insurable employment under paragraph 5(2)(i) of the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of September 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 8th day of January 2009.
+Brian McCordick, Translator
+Citation: 2008 TCC 484
+Date: 20080925
+Docket: 2007-3963(EI)
+BETWEEN:
+PEINTURES CYCLONES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal by Peintures Cyclone Inc. concerning the work done by Isabelle Duval, Nicole Tremblay and Pascal Bien ("the Workers") from January 1, 2006, to February 28, 2007.
+[2] We reproduce below the facts set out in the Reply to the Notice of Appeal, with notations as to whether they are admitted or denied by the Appellant:
+[TRANSLATION]
+5. (a) The Appellant was incorporated on July 30, 1992. (admitted)
+(b) The Appellant's place of business is in Valcourt and is owned by the Appellant. (admitted)
+(c) The Appellant operates a painting plant that applies liquid coatings (metal and plastic) to industrial parts. (admitted)
+(d) The Appellant operates year-round and generally, on no fixed date, experiences two peak periods. (admitted)
+(e) The Appellant employs between 20 and 25 employees, all full-time. (admitted)
+(f) The Appellant's business hours are from Monday to Thursday, 7:30 a.m. to 5:00 p.m., and the plant employees are on call on Fridays from 7:30 a.m. to 12:00 noon to finish contracts. (admitted)
+(g) The Appellant's employees work between 36 and 40 hours per week. (admitted)
+(h) In 2006, the Appellant had sales of about $1,100,000. (admitted)
+(i) The Workers involved performed services for the Appellant under an oral agreement and a contract of service. (admitted)
+ISABELLE DUVAL
+(j) Isabelle Duval (the Worker) began working for the Appellant as a student in the summer of 1995, and became full-time production manager in 1998. (admitted)
+(k) During the period in issue, the Worker performed services as manager of production, operations and quality. (admitted)
+(l) As production manager, she planned production, hired personnel, contacted customers and handled the Appellant's customer relations. (admitted)
+(m) As quality manager, she managed the ISO system in accordance with ISO standards. (admitted)
+(n) As operations manager, she did customer prospecting, prepared bids, did market development work and wrote research and development reports. (admitted)
+(o) On occasion, during peak periods, the Worker did labour at the plant. (admitted)
+(p) The Worker performed services at the Appellant's plant, and on occasion in the evenings and on weekends at her home, to finish her administrative work. (denied)
+(q) The Worker generally worked Monday to Friday, from 7:30 a.m. to 5:00 p.m., an average of 50 hours per week, including evenings and weekends. (denied)
+(r) The Worker had to be present in the office during the appellant's business hours. (denied)
+(s) The Worker's hours were not recorded by the Appellant. (admitted)
+(t) As was the case for all of the Appellant's employees, the Worker was covered by a group insurance policy that covered wage insurance, drugs and illness. (admitted)
+(u) The Worker also got four weeks' paid vacation. (admitted)
+(v) In addition, the Worker received a weekly bonus from the Appellant for her work as quality manager. (admitted)
+(w) During the period in issue, the Worker received fixed gross remuneration of $731.50 per week and a gross bonus of $222.15 per week, for a total of $953.65 gross per week. (admitted)
+(x) As was the case for all the other employees, she was paid by direct deposit. (admitted)
+(y) In order for operations to run smoothly, the Worker had to inform the Appellant if she was going to be absent. (denied)
+(z) To do her work, the Worker used the Appellant's equipment and materials and occasionally its vehicle. (denied)
+(aa) In the course of her work for the Appellant, the Worker did not have to incur any expenses. (denied)
+(bb) During the period in issue, the Worker was required to perform services personally for the Appellant. (admitted)
+(cc) The Worker did not share in the chance of profit and risk of loss of the Appellant's business. (denied)
+(dd) The Worker was a member of the Appellant's management board, and in that capacity she participated in weekly meetings; however, she held no shares, position or office in the Appellant's business. (admitted)
+PASCAL BRIEN
+(ee) Pascal Brien (the Worker) started working for the Appellant in 1992, when it opened. (admitted)
+(ff) During the period in issue, the Worker held the position of foreperson/supervisor. (admitted)
+(gg) The Worker's primary job was to supervise seven or eight employees in the plastics department. (admitted)
+(hh) The Worker directed the employees based on the work to be done, checked the work done against the ISO standard, calculated the employees' times and attended weekly meetings. (admitted)
+(ii) The Worker also worked as a painter to replace painters who were absent. (admitted)
+(jj) The Worker performed services solely at the Appellant's plant. (admitted)
+(kk) The Worker worked from Monday to Friday, between 7:30 a.m. and 5:00 p.m., and about three evenings a week from 5:00 p.m. to 7:00 p.m.. (denied)
+(ll) The Worker claimed that he did not have to keep to any timetable, but had to be present during the Appellant's business hours. (admitted)
+(mm) The Worker's hours of work were not recorded by the Appellant. (admitted)
+(nn)As was the case for all the Appellant's employees, the Worker was covered by a group insurance policy that covered wage insurance, drugs and illness. (admitted)
+(oo) The Worker also received four weeks' paid vacation.
+(pp) During the period in issue, the Worker received fixed gross remuneration of $700 per week. (admitted)
+(qq) As was the case for all the other employees, he was paid by direct deposit.
+(rr) To do his work, the Worker used the Appellant's equipment and materials. (admitted)
+(ss) During the period in issue, the Worker was required to perform services personally for the Appellant. (admitted)
+(tt) The Worker did not share in the chance of profit and risk of loss of the Appellant's business. (denied)
+(uu) In the course of his work for the Appellant, the Worker did not have to incur any expenses. (denied)
+(vv) The Worker was a member of the Appellant's management board, and in that capacity he participated in weekly meetings; however, he held no shares, position or office in the Appellant's business. (admitted)
+NICOLE TREMBLAY
+(ww) Nicole Tremblay (the Worker) started with the Appellant's business on February 10, 2004. (admitted)
+(xx) The Worker held the position of administrative assistant. (admitted)
+(yy) The Worker's duties consisted mainly in doing the accounting, keeping the books using a computer program, and acting as assistant supervisor on the plastics side. (admitted)
+(zz) The Worker also handled government remittances, group insurance and the CSST, and placed orders with suppliers. (admitted)
+(aaa) In addition, the Worker performed various tasks in the plant, such as supervising employees, inspecting and packing. (admitted)
+(bbb) The Worker did her work in the Appellant's office and occasionally in the plant and at home. (denied)
+(ccc) The Worker generally worked Monday to Friday, from 7:45 a.m. to 5:00 p.m.. (denied)
+(ddd) Although she had spoken of working 38.5 hours a week, she said that in fact she always worked between 50 and 55 hours a week. (admitted)
+(eee) The Worker had to be present in the office during the Appellant's business hours. (denied)
+(fff) The Worker's hours were not recorded by the Appellant. (admitted)
+(ggg) As was the case for all the Appellant's employees, the Worker was covered by a group insurance policy that covered wage insurance, drugs and illness. (admitted)
+(hhh) The Worker also received four weeks' paid vacation. (admitted)
+(iii) During the period in issue, the Worker received fixed gross remuneration of $654 per week. (admitted)
+(jjj) As was the case for all the other employees, she was paid by direct deposit. (admitted)
+(kkk) In order for operations to run smoothly, the Worker had to inform the Appellant if she was going to be absent. (denied)
+(lll) To do her work, the Worker used the Appellant's equipment and materials and occasionally its vehicle. (admitted)
+(mmm) In the course of her work for the Appellant, the Worker did not have to incur any expenses. (denied)
+(nnn)The Worker claimed that no one supervised her work, but she had to report to the Appellant on her work. (denied)
+(ooo) During the period in issue, the Worker was required to perform services personally for the Appellant. (admitted)
+(ppp) The Worker did not share in the chance of profit and risk of loss of the Appellant's business. (denied)
+(qqq) The Worker was a member of the Appellant's management board, and in that capacity she participated in weekly meetings; however, she held no shares, position or office in the Appellant's business. (admitted)
+6. (a) André Brien was the sole shareholder of the Appellant. (admitted)
+(b) Nicole Tremblay is the spouse of André Brien. (admitted)
+(c) Pascal Brien is the son of André Brien. (admitted)
+(d) Isabelle Duval is the spouse of Pascal Brien and daughter-in-law of André Brien. (admitted)
+(e) Nicole Tremblay, Isabelle Brien and Pascal Brien are related to a person who controls the Appellant. (admitted)
+Isabelle Duval
+7. (a) Because of her experience, her on-the-job training and the work she did, Isabelle Duval did not need a high degree of supervision, but the Appellant could have exercised that right at any time. (denied)
+(b) In spite of her supposedly flexible schedule as production manager, Ms. Duval had to work at the Appellant's premises, during the Appellant's business hours and as determined by the Appellant's needs. (denied)
+(c) As was the case for the Appellant's other workers, Ms. Duval did not have any expenses and did not have to supply tools or equipment in the course of her work. (denied)
+(d) Ms. Duval received fixed weekly remuneration comparable to the median annual salary paid to a plant manager in the Estrie region. (denied)
+(e) During the period in issue, the times when Ms. Duval was employed corresponded to the Appellant's actual needs, as would have been the case for an unrelated person. (denied)
+(f) The Appellant's business operated year-round and Ms. Duval's duties were directly related to the Appellant's activities, demonstrating the importance of and need for that position within the business in order for it to operate smoothly. (admitted)
+Pascal Brien
+(g) Because of his experience, his on-the-job training and the work he did, Pascal Brien did not need a high degree of supervision, but the Appellant could have exercised that right at any time, and André Brien, the sole shareholder in the Appellant, stated that he had the power to supervise and he had final decision-making authority. (denied)
+(h) In spite of his supposedly flexible schedule as foreperson/supervisor, Mr. Brien had to work at the Appellant's premises, during the Appellant's business hours and as determined by the Appellant's needs. (denied)
+(i) The Appellant employed another foreperson/supervisor who was not related to the Appellant in the metals department. That employee performed duties similar to Mr. Brien's, working between 36 and 40 hours a week and being covered by the same benefit plan as all of the plant employees. (denied)
+(j) As was the case for the Appellant's other workers, Mr. Brien did not have any expenses and did not have to supply tools or equipment in the course of his work. (denied)
+(k) Mr. Brien received fixed weekly remuneration comparable to the median annual salary paid to a supervisor in a metal products plant in the Estrie region. (denied)
+(l) The foreperson/supervisor who was not related to the Appellant received total remuneration of $34,785 in 2006, while working fewer hours than Mr. Brien (who received $39,558). (admitted)
+(m) During the period in issue, the times when Mr. Brien was employed corresponded to the Appellant's actual needs, as would have been the case for an unrelated person. (denied)
+Nicole Tremblay
+(n) Because of her experience, her on-the-job training and the work she did, Nicole Tremblay did not need a high degree of supervision, but the Appellant could have exercised that right at any time, and André Brien, the sole shareholder in the Appellant, stated that Ms. Tremblay kept him up to date on the financial situation at each weekly meeting, and that she had to inform him about major purchases. (denied)
+(o) In spite of her flexible schedule as administrative assistant and assistant supervisor, Ms. Tremblay had to work at the Appellant's premises, during the Appellant's business hours and as determined by the Appellant's needs. (denied)
+(p) As was the case for the Appellant's other workers, Ms. Tremblay did not have any expenses and did not have to supply tools or equipment in the course of her work. (denied)
+(q) Ms. Duval received fixed weekly remuneration comparable to the median annual salary paid to an administrative support worker in the Estrie region. (denied)
+(r) During the period in issue, the times when Ms. Tremblay was employed corresponded to the Appellant's actual needs, as would have been the case for an unrelated person. (denied)
+(s) The Appellant's business operated year-round and Ms. Tremblay's duties were directly related to the Appellant's activities, demonstrating the importance of and need for that position within the business in order for it to operate smoothly. (admitted)
+[3] The persons concerned in this appeal testified in the following order: André Brien, sole owner of all of the shares in the Appellant; Isabelle Duval and Nicole Tremblay; and Pascal Brien. They are the three Workers whose work is the subject of the decision under appeal.
+[4] In finding that these were contracts of insurable employment, the Respondent had regard, inter alia, to the facts set out in Exhibit A‑1: the CPT‑100 form, numbered 1 to 98; those facts were collected by the person responsible for the appeal during the investigation and are the basis on which the decision under appeal was made.
+[5] The facts admitted form a backdrop that gives a relatively good description of the kind of business and the manner in which the work in question was done. The issue relates to the interpretation of certain facts, but also to the weight or relevance of the explanations given to the analyst at the time of the review, which were reiterated at the hearing. The Respondent argued that the testimony of the Workers and the sole shareholder essentially just restated the facts set out by the appeals officer in Exhibit A-1 and that there were no grounds to justify reviewing the decision.
+[6] When the Appellant had completed its evidence, I told the parties that I found that the witnesses had testified credibly; the Respondent immediately, and rightly, argued that the decision in a case of this nature should not be based solely on credibility.
+[7] However, once I was satisfied that the witnesses' explanations were credible, I then found on that basis that the way that certain facts were interpreted in the analysis was dubious and that the person responsible for the case treated them as being of only secondary importance.
+[8] Collecting all the facts is one thing, but not having regard to nuances, of which there were many in this case, can bias the conclusion or make it unreasonable or inappropriate.
+[9] The exercise of discretion calls for the ability and desire to have regard to numerous details that have a significant effect on the conclusion to be drawn from them.
+[10] If this were not the case, we would need only install some good software and press a button to get the conclusion; there would be no more need for discretion, it would be an operation. The Larousse dictionary defines the word discrétion as follows: "[TRANSLATION] 1. Attitude taken by s.o. who does not wish to intrude. 2. Trait of not attracting attention. … 3. Ability to remain silent." The Petit Robert says: [TRANSLATION] "discernment, ability to discern."
+[11] In this case, numerous details were disregarded in the analysis, with the consequence that the conclusion reached was patently unreasonable. Some of the evidence that has been established on a marked balance of probabilities discredits the analysis on which the determination is based.
+[12] I think it is important that some of that evidence be listed here:
+· Completely unreasonable salary, in view of the numerous secondary duties added to the primary duties, so that the appeals officer was able to make comparisons using a computer program;
+· Salary reductions that affected only the Workers involved in this appeal;
+· Complete absence of compensation for the Workers' enthusiasm, dedication and eagerness, to which third parties would never have agreed;
+· Isabelle Duval rejected an offer for a salary double her own pay, in exchange for a lighter workload, to which a third party dealing at arm's length would obviously not have agreed;
+· Obvious influence exerted by Isabelle Duval over the sole shareholder regarding the business. Nicole Tremblay also enjoyed the esteem and respect of the sole shareholder, which enabled her to exert influence that a third party dealing at arm's length could not have done.
+· Remuneration was determined on the basis of what were essentially family considerations.
+· Isabelle Duval received a performance bonus that was revised because of her tax burden and that she shared with her spouse.
+· Nicole Tremblay stated (and I reiterate that the Respondent admitted that credibility was not in issue but added that there were issues other than credibility): [TRANSLATION] "Certainly I enjoyed special status because I was the spouse of André Brien, the owner of all the shares in the business."
+· Nicole Tremblay said that her status as spouse of the principal shareholder gave her benefits, but also involved drawbacks; she referred to the fact that her work hours were a reflection of her spouse's: if he left work, she followed him, and so on.
+· On numerous occasions it was alleged that the persons concerned in the appeal were all concerned with the success of the business, to the detriment of their quality of life.
+· Isabelle Duval turned down an offer that would have doubled her salary (again, credibility is not in issue). The reason for rejecting it was that the business was her passion, she wanted to see it develop. I would note that the person who rejected the offer was not a shareholder and had no guarantee that she would be able to become one.
+[13] Conduct of this nature can be explained if the persons in question are shareholders or if they are sure to become shareholders eventually, and in this instance that was not the case.
+[14] In this case, the business was operated within a family context where trust prevailed and there was no room for rigidity.
+[15] The work was primarily supervised via the family relationships, to the point that some of the normal features of the business world were completely absent.
+[16] The facts and evidence that could support the conclusion arrived at were stated or alleged as if they were reliable and indisputable information.
+[17] However, when the appeals officer addressed facts that could cast doubt on the conclusion that was plainly preferred, she used expressions like [TRANLATION] "he or she said", "according to Mr. or Ms. so-and-so", "she or he stated", thus suggesting that what was said might have been a half-truth or a biased or dubious interpretation. Paragraph 13 of the transcript in CPT‑110 is very informative in this regard. It reads as follows:
+13. [TRANSLATION] Isabelle Duval started with the business as a student in the summer of 1995. In 1998 she started full-time as production manager. After that, as she gained experience, her duties evolved and she became manager of production, operations and quality. According to Isabelle Duval, her position was the linchpin of the business.
+[Emphasis added.]
+[18] The evidence shows, conclusively and unequivocally, that Isabelle Duval was the linchpin of the business. This was not in any way a subjective, biased or dubious interpretation.
+[19] The appeals officer reiterated her scepticism at paragraph 14 of the Notice, where she stated:
+14. [TRANSLATION] For the period in issue, her work was as follows: as production manager, she planned production, hired personnel, contacted customers and handled customer relations with the company. As quality manager, she managed the ISO system in accordance with ISO standards; and as operations manager, she did prospecting for customers and handled bids, market development and research and development. The Worker also did manual labour in the plant during peak periods. According to Isabelle Duval, her work consisted in keeping the business going. She still holds that position and is doing the same work at present.
+[Emphasis added.]
+[20] This manner of presenting the facts is certainly revealing in terms of the mindset that existed at the time the report of the various telephone conversations was written.
+[21] In addition to this entirely inappropriate approach, I also noted a number of misinterpretations and false statements. In particular, I noted the following assertion:
+9. [TRANSLATION] André Bien, the president and sole shareholder of the company, manages the business in conjunction with assistants. Accordingly, the major operational decisions are made in consultation, at the weekly meeting, but final approval is given by André Brien. Management of the business's day‑to‑day operations is handled by the manager of production, operations and quality.
+[Emphasis added.]
+[22] The evidence is that no formalities were followed at the management meetings, and the sole shareholder did not operate by consultation; rather, he relied on his spouse and son, in whom he had complete confidence, to the point that it could be said that Isabelle Duval was the directing mind of the business.
+[23] At paragraph 15 of the Notice, she wrote: [TRANSLATION] "On occasion she does work at home in the evening and on weekends, to complete her administrative work, such as planning the work, completing bids and preparing reports." The evidence in fact established, however, that these were not occasional things, they were very common.
+[24] At paragraph 16 of the Notice, it says: [TRANSLATION] "She works an average of 50 hours … ." That assertion is not supported by the evidence, however.
+[25] At paragraph 17 of the Notice, she again used the expression [TRANSLATION] "on occasion" when, again, the evidence established a fact that occurred very frequently.
+[26] At paragraph 19 of the Notice, it says that all expenses incurred are refunded. That assertion is contradicted by the evidence.
+[27] At paragraph 20 of the Notice, it says: [TRANSLATION] "… She has never performed services without being paid." That assertion is a complete falsehood.
+[28] The content of paragraphs 23, 24, 28, 30 and 31 is not consistent with the evidence submitted to the Court.
+[29] That is sufficient to conclude that the analysis done before the determination was made was tainted by a biased and patently unreasonable approach, in the circumstances, and this vitiates the determination.
+[30] This case illustrates remarkably well how the fact that parties are not dealing with each other at arm's length can have a determining effect on how work is done. Parliament could have been thinking of this case when it enacted paragraph 5(2)(i) of the Act.
+[31] Third parties do not generally agree to work without remuneration, to work during their vacation, not to be reimbursed for expenses incurred, to be available seven days a week or to work after normal hours regularly without appropriate remuneration, without some formal guarantee that one day their efforts will be rewarded.
+[32] This case is a good illustration of how a family business can operate under special rules that have nothing in common with the business world, where people doing business with each other are ordinarily dealing with each other at arm's length.
+[33] This case is also a very good illustration of the extent to which analyses are often shaped with the obvious goal of favouring the collection of employment insurance premiums.
+[34] In addition, it is surprising to see how elastic the criteria for the analysis are, when they are quite precise when the issue is paying benefits. In fact, there are times when the decision in a case with similar facts is the complete reverse.
+[35] In this case, it has been proved on a balance of probabilities that the conclusion arrived at was patently unreasonable and plainly arose out of the obvious desire to justify a determination that had already been made.
+[36] Accordingly, the determination must be set aside and the work done by the persons concerned – Isabelle Duval, Nicole Tremblay and Pascal Bien – must be found to be excluded from insurable employment under the provisions set out in paragraph (5)(2)(i) of the Act.
+[37] The appeal is allowed.
+Signed at Ottawa, Canada, this 25th day of September 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 8th day of January 2009.
+Brian McCordick, Translator
+CITATION: 2008 TCC 484
+COURT FILE NO.: 2007-3963(EI)
+STYLE OF CAUSE: PEINTURES CYCLONES INC. AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 7, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF REASONS: September 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Attorney – Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

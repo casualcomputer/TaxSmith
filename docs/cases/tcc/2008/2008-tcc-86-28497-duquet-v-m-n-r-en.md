@@ -1,0 +1,183 @@
+---
+title: "Duquet v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28497/index.do"
+last_modified: "2008-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 86"
+citation2: ""
+neutral_citation: "2008 TCC 86"
+decision_date: "2008-02-20"
+language: "en"
+item_id: "28497"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1294
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:31:44.135000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19f2138d42adc8be5c68c15621b7c8b7333fce9a117e0202229d506612239481"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duquet v. M.N.R.
+
+- Citation: 2008 TCC 86
+- Decision date: 2008-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1294, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duquet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-20
+Neutral citation
+2008 TCC 86
+File numbers
+2007-3344(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3344(EI)
+BETWEEN:
+ENRICO DUQUET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 30, 2008, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sylvain Ouimet
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is dismissed in accordance with the attached Reasons for Judgment, on the ground that the work performed by the Appellant from January 1 to December 31, 2005, was not done under a true contract of service within the meaning of paragraph 5(1)(a) of the Act.
+Signed at Ottawa, Canada, this 20th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 7th day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC86
+Date: 20080220
+Docket: 2007-3344(EI)
+BETWEEN:
+ENRICO DUQUET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of the work done by the Appellant during the period from January 1 to December 31, 2005. The alleged employer is Centre Autoson Inc.
+[2] In order to explain and justify his decision, the Respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The Payor, which incorporated on August 16, 2000, operates a business that sells and installs automobile parts and accessories. (admitted)
+(b) The Payor's shareholders were:
+- Mario Roberge, with 75% of the shares,
+- Christine Roberge, with 25% of the shares. (admitted)
+(c) In June 2004, the Appellant was hired by Mr. Roberge as a sales clerk. (admitted)
+(d) The Appellant's duties were those of a manager: he ordered the parts, sold car radios and remote starters, answered the telephone, and even issued invoices. (admitted)
+(e) The Appellant worked in the Payor's garage, and, at the time that the Appellant was hired, both parties acknowledged him to be an employee of the Payor. (admitted)
+(f) On January 11, 2005, the Appellant decided to start his own business under the name "Rico Distribution" (admitted)
+(g) The principal activity of the Appellant's business was to sell motor oil for a company called Torco. (denied)
+(h) The Appellant was a Torco representative at the time, and the Payor was one of his customers. (denied)
+(i) The Appellant got the Payor's permission to store his oil in one of his small warehouses in exchange for the performance of services, which consisted of a few installations of accessories. (denied)
+(j) A few weeks after his business started, the Appellant, who was not earning enough income at the time, offered to promote the Payor's products while visiting garages to sell motor oil. (denied)
+(k) Since the Appellant was a good salesperson, the Payor agreed to hire him as a representative, and a work contract between the Payor and Rico Distribution (a business owned solely by the Appellant) was signed. (denied)
+(l) The agreement, which was signed on April 18, 2005, specified that Rico Distribution would be responsible for managing the store, working as a sales representative on the road, and, occasionally, installing car audio equipment and performance parts. (denied)
+(m) The agreement specified that the Payor would pay the Appellant a wage of $15.00 per hour or $600 per week (for 40 hours) through Rico Distribution. (denied)
+(n) In January 2005, the Appellant, despite registering his business, remained employed by the Payor for several weeks under the same terms and conditions as the initial agreement. (denied)
+(o) In April, the Appellant started to get paid by the Payor, through the Appellant's business, as an independent contractor. (admitted)
+(p) The Payor agreed to pay the Appellant as an independent contractor, upon submission of invoices, in exchange for his performing a significant proportion of the duties that he had earlier performed as a salaried employee. (denied)
+(q) The agreement of April 8, 2005, specified that the Appellant would continue to look after the management of the Payor's store and the installation of equipment in the interests of the Payor, not in his own interests or those of his business. (denied)
+(r) Throughout the period in issue, the Appellant received fixed remuneration of $600 per week from the Payor for 40 hours of work. (denied)
+(s) Throughout the period in issue, the Payor could give instructions to the Appellant and could require him to work 40 hours per week for his pay, and verify this. (denied)
+(t) The Appellant had to report to the Payor, which could terminate his job and actually did so at the end of the period in issue. (denied)
+(u) To replace the Appellant, the Payor hired someone as a salaried employee. (admitted)
+(v) The facts show that, despite forming his own business, the Appellant continued to render the same services to the Payor as when he was considered a salaried employee of the Payor. (denied)
+(w) Despite the intention expressed by the parties upon signing the agreement of April 18, the services rendered by the Appellant fulfilled the criteria of a contract of employment. (denied)
+[3] After being sworn in, the Appellant admitted to subparagraphs (a) to (f), (o) and (u); he denied subparagraphs (g) to (n), (p) to (t), (v) and (w).
+[4] After being explained all the parameters of this dispute at length, especially the distinctions between a contract of employment and a contract of enterprise, the Appellant provided the Court with the facts on which he was relying to conclude that the determination was unfounded.
+[5] The Appellant admits that the work that he did from January 1 to April 15 was under a contract of service.
+[6] With respect to the period subsequent to April 15, he explained that his availability was limited because of the work and energy devoted to developing Rico Distribution, the business that he had created.
+[7] He explained that he appreciated the cooperation of the boss of Centre Autoson Inc., who agreed, at the time, to continue giving him work because the business he had created was not going as well as he had expected.
+[8] Since his availability was reduced, he could not follow the same strict work schedule as punctually or exactly, so he ended his employment contract, and therefore, according to his explanation, ceased to be a salaried employee as of April 16, 2005.
+[9] Since he had to split his time between his employer and his new business, the relationship deteriorated somewhat, and, as a result, he notified his employer that he would be leaving his employment. At that time, the Appellant and his business entered into a new agreement with the employer, set out in a document (Exhibit I‑1) that states as follows:
+[TRANSLATION]
+April 18, 2005
+Subcontract
+A subcontract between Rico Distribution and Centre Autoson Inc. has been agreed upon for an indeterminate period commencing April 2005. The responsibilities of Rico Distribution shall be store management, sales representation on the road, and occasional installation of car audio equipment and performance parts. The salary agreed upon by the parties is $15.00 per hour, or a fixed payment of $600.00 per week.
+_______________________________ ________________________
+Signature of Subcontractor (Rico Distribution) Signature of Employer
+18/04/05 18/04/05
+date date
+[10] Thus, following discussions, the parties came to an agreement and defined the parameters of their contract, which they signed, and which was tendered as Exhibit I‑1.
+[11] In practice, there were a few changes, notably with regard to the hours during which the services were to be performed. In addition, the Appellant was asked to train an employee who was, in theory, hired to replace him. In a sense, the subcontract is essentially a new agreement that is more flexible with respect to the time that the hours of work are to be provided, although certain duties, including training, were added.
+[12] The Appellant said that he repudiates the subcontract document (Exhibit I-1) and that several documents confirming and validating it were mistakes that stemmed from his lack of experience.
+[13] The evidence disclosed that changes began in January, but were more fully implemented as of April.
+[14] At the time, the Appellant, relying on statements by Louise Roberge, concluded that his employee status was ending. Ms. Roberge gave him information, but clearly put him on the wrong path by telling him that the fact that he would be paid fees instead of a wage meant that he was self-employed.
+[15] Louise Roberge testified. She clearly had a very precise idea of what an employment relationship entails. In her view, self-employed status means that fees are paid and that there are no withholdings or contributions, whereas employee status entails withholdings, contributions and a salary.
+[16] The Respondent produced a series of invoices (Exhibit I‑2) which show the new way in which the Appellant was paid for his services.
+[17] The invoices in question are numbered consecutively from 24 to 40. The 17 invoices all report 40 hours of work at $15 per hour for a total of $600, plus GST and QST.
+[18] Citing these factors, the Appellant and his witness repeatedly asserted that the work was no longer that of an employee, but rather that of a consultant retained as an independent contractor, because it was no longer a salary that was being paid, but rather fees plus GST and QST.
+[19] Unfortunately, this interpretation is very widespread but is not consistent with the provisions of the Employment Insurance Act. The contract can be a relevant factor in determining the nature of a working relationship between two parties. However, the parties' intentions are based on their knowledge and perceptions, which are not necessarily correct. Consequently, it is important to take into account the contract between the parties, and their intention, but, beyond all that, the manner in which the disputed work was performed remains the fundamental reference point in determining the nature of a contract.
+[20] The description of the work, the way in which it is performed, the manner in which it is remunerated, and, above all, the hows and whys of the communication and relationship between the parties are the true factors that must be taken into consideration. If everything is consistent and coherent with the contents of the agreement, there is no problem, but a contract the contents of which are not consistent with all the elements constituting the manner in which the work was performed cannot be part of the analysis.
+[21] In the case at bar, the disputed work was indeed changed — specifically, as of April. The purpose of these changes was primarily to help the Appellant, who had started up a new business that was not producing the hoped-for results as quickly as expected.
+[22] The changes in question pertained mainly to the work schedule, but also in part to the contents of the contract.
+[23] The Appellant continued to perform many of the tasks that he had performed before the April agreement was signed, but he also looked after the training of a new employee, within a framework that was more flexible in terms of when the tasks had to be performed. He was paid a fee even though it was essentially a wage of $15 per hour for 40 hours a week; the big difference was that the work was done within a more flexible framework.
+[24] There is no doubt that the changes that were made did not in any way alter the relationship of subordination that had existed up to that time, and whose existence was in fact admitted to and acknowledged by the Appellant up to April 16.
+[25] The changes to the mode of remuneration (invoice, GST and QST, that is to say, a fee instead of a wage) did not affect the relationship of subordination, let alone cause it to disappear.
+[26] The employer clearly needed the Appellant's services, and the Appellant needed work because his new business was not generating sufficient income.
+[27] Poorly advised and misinformed, the Appellant thought that he was doing the right thing when he modified the mode of remuneration, and he believed that this would be sufficient to change his status from that of an employee to that of an independent contractor. The evidence has established, on a balance of probabilities, that the work continued to be done within an employer-employee relationship even though there was more flexibility with respect to the time when the remunerated work was to be performed.
+[28] For these reasons, the appeal must be dismissed, and the determination, being well-founded in fact and law, is confirmed.
+Signed at Ottawa, Canada, this 20th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 7th day of April 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC86
+COURT FILE NO.: 2007-3344(EI)
+STYLE OF CAUSE: ENRICO DUQUET v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 30, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: February 20, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sylvain Ouimet
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,572 @@
+Title: Gorev c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231285/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-85-231285-gorev-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-05-19
+
+# Gorev c. La Reine
+
+- Citation: 2017 CCI 85
+- Decision date: 2017-05-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2127, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gorev c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-19
+Référence neutre
+2017 CCI 85
+Numéro de dossier
+2014-2607(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2607(IT)G
+ENTRE :
+VICTOR GOREV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION OFFICIELLE FRANÇAISE]
+Appels entendus le 5 mai 2016 à Toronto (Ontario)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l’appelant :
+Me David M. Piccolo
+Avocat de l’intimée :
+Me Leonard Elias
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations et aux cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 sont tranchés comme suit :
+a) les appels relatifs aux nouvelles cotisations (les « nouvelles cotisations contestées ») établies sous le régime de la partie I de la Loi de l’impôt sur le revenu (la « LIR »), lesquelles sont décrites dans l’avis de nouvelle cotisation établi le 31 décembre 2012 pour l’année d’imposition 2007 et dans les avis de nouvelle cotisation établis le 12 juin 2014 pour les années d’imposition 2006 et 2008, sont accueillis et les nouvelles cotisations contestées sont renvoyées au ministre pour nouvel examen et nouvelles cotisations, étant entendu que les pénalités imposées en vertu du paragraphe 163(2) de la LIR ne sont pas fondées;
+b) à tous autres égards, les nouvelles cotisations contestées sont confirmées;
+c) les appels relatifs aux cotisations établies sous le régime de la partie XIII de la LIR, lesquelles sont décrites dans les avis de nouvelle cotisation établis le 5 décembre 2012 pour les années d’imposition 2007 et 2008, sont accueillis, et ces cotisations sont annulées.
+Chacune des parties supportera ses propres dépens.
+Signé à Ottawa, Canada, ce 19e jour de mai 2017.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 28e jour de juin 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 85
+Date : 20170519
+Dossier : 2014-2607(IT)G
+ENTRE :
+VICTOR GOREV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs ont trait à des appels que Victor Gorev a interjetés à l’encontre de diverses nouvelles cotisations et cotisations que l’Agence du revenu du Canada (l’« ARC ») a établies pour le compte du ministre du Revenu national (le « ministre ») sous le régime des parties I et XIII, respectivement, de la Loi de l’impôt sur le revenu [1] (la « LIR »).
+II. CONTEXTE
+A. Les faits
+[2] Avant d’émigrer au Canada en 2001, M. Gorev était un homme d’affaires prospère de Novosibirsk, en Russie. En prévision de son émigration, il a vendu ses biens commerciaux et obtenu un montant de plus de 4 500 000 $ US [2] . Depuis 2003, M. Gorev est un résident du Canada, où il a établi une entreprise de location, qu’il exploite par l’entremise d’une société canadienne, Vigor Investment Inc. (« Vigor »).
+[3] En 2006, 2007 et 2008, M. Gorev a touché d’importantes sommes d’argent qui, a-t-il soutenu, étaient des remboursements de divers prêts qu’il avait accordés à des amis et à des associés. De plus, bien que la preuve ne fût pas tout à fait claire, j’ai cru comprendre que, dans ces années d’imposition là, M. Gorev a aussi continué de recevoir des fonds qui représentaient des acomptes liés à la vente de divers biens en Russie; autrement dit, comme l’a déclaré M. Gorev, [TRADUCTION] « à ce moment-là, il y avait encore de l’argent qui arrivait de Russie [3] ». L’ARC a soutenu qu’un grand nombre de ces rentrées de fonds étaient des revenus gagnés par M. Gorev. Certaines des rentrées de fonds, visées par les présents appels, étaient censément des remboursements faits par l’un des amis de M. Gorev, Iouri Kardachov, auquel M. Gorev aurait prêté une somme globale d’au moins 78 000 $ [4] (ou peut-être 78 500 $) sous la forme de diverses avances effectuées de temps à autre en 2006 et en 2007.
+[4] En juillet 2006, M. Gorev a emprunté la somme de 650 000 $ US auprès de Kerswell Industrial Ltd. (« Kerswell »), une société qui, semble-t-il, résidait au Bélize et qui, pour l’application de la LIR, était une non-résidente du Canada. M. Gorev a déclaré que son cousin, Nikolai Gorev, avait payé la somme de 650 000 $ US à Kerswell en 2008 en vue de rembourser entièrement ce prêt et de s’acquitter de toutes les obligations connexes. M. Gorev n’a payé ou crédité aucune somme à Kerswell à l’égard des intérêts sur le prêt. De l’avis de l’ARC, le prêt portait intérêt au taux de 7 p. 100 et des intérêts de 30 752 $ et de 60 283 $ ont été portés au crédit de Kerswell par M. Gorev en 2007 et en 2008, respectivement.
+B. L’historique des vérifications et des cotisations
+1) L’impôt de la partie I
+[5] L’ARC, agissant pour le compte du ministre, a établi les premiers avis de cotisation sous le régime de la partie I de la LIR pour les années d’imposition 2006, 2007 et 2008 de M. Gorev le 10 mai 2007, le 25 août 2008 et le 11 mai 2009, respectivement [5] . En mai 2010, l’ARC a entrepris de vérifier ces trois années d’imposition. Au cours de cette vérification, l’ARC a procédé à une analyse des dépôts faits dans les comptes bancaires de M. Gorev et elle a relevé un certain nombre de dépôts bancaires qui, à son avis (comme il est indiqué dans une lettre de proposition datée du 26 janvier 2012) [6] , constituaient des revenus non déclarés, comme suit :
+Tableau 1
+Année
+Montant
+2006
+355 482,00 $
+2007
+859 755,00
+2008
+139 185,00
+Total
+1 354 422,00 $
+[6] Après avoir reçu la lettre de proposition de l’ARC, M. Gorev et son comptable ont fourni à l’ARC des documents et des observations afin de montrer qu’un grand nombre des dépôts bancaires que l’ARC avait relevés provenaient d’une source non imposable. Après avoir reçu ces documents et ces observations, l’ARC a établi le 16 mai 2012 [7] une lettre de proposition révisée, qui indiquait que les montants réduits suivants étaient censément des revenus non déclarés :
+Tableau 2
+Année
+Montant
+2006
+281 982,00 $
+2007
+119 800,00
+2008
+139 185,00
+Total
+540 967,00 $
+[7] Après avoir reçu la lettre de proposition révisée, M. Gorev, son comptable et son avocat ont fourni à l’ARC des documents et des observations supplémentaires, qui ont mené à une autre réduction des montants que l’ARC considérait comme des revenus non déclarés. Dans une annexe jointe à une lettre datée du 23 novembre 2012 [8] , l’ARC a informé M. Gorev qu’à son avis les montants suivants étaient des revenus non déclarés :
+Tableau 3
+Année
+Montant
+2006
+35 711,30 $
+2007
+21 800,00
+2008
+41 500,00
+Total
+99 011,30 $
+[8] Le 31 décembre 2012, l’ARC, agissant pour le compte du ministre, a établi des avis de nouvelle cotisation (les « premiers avis de nouvelle cotisation ») pour les années 2006, 2007 et 2008 [9] , lesquels ont eu pour effet d’ajouter aux revenus de M. Gorev pour ces trois années d’imposition les montants indiqués au tableau 3. Les premiers avis de nouvelle cotisation imposaient également à M. Gorev des pénalités en vertu du paragraphe 163(2) de la LIR pour avoir fait un faux énoncé sciemment ou dans des circonstances équivalant à faute lourde, ainsi que des pénalités en vertu du paragraphe 162(7) de la LIR pour ne pas avoir produit le formulaire T1135, soit un bilan de vérification du revenu étranger, pour chacune des années d’imposition en question.
+[9] M. Gorev et ses conseillers se sont opposés aux premiers avis de nouvelle cotisation et ils ont fourni des observations supplémentaires à la Division des appels de l’ARC. En avril ou en juin 2014, le ministre a confirmé la nouvelle cotisation de 2007 [10] . La Division des appels a souscrit à certaines des observations que M. Gorev et ses conseillers avaient faites au sujet des années 2006 et 2008. C’est ainsi que, le 12 juin 2014, l’ARC, agissant pour le compte du ministre, a établi de nouveaux avis de nouvelle cotisation (les « nouveaux avis de nouvelle cotisation ») pour les années 2006 et 2008 [11] . La thèse que l’ARC a adoptée en fin de compte à propos du montant des revenus non déclarés de M. Gorev, lesquels sont indiqués dans les nouvelles cotisations que représentent les nouveaux avis de nouvelle cotisation pour les années 2006 et 2008 et le premier avis de nouvelle cotisation pour l’année 2007 (collectivement, les « nouvelles cotisations contestées »), peut donc être résumée comme suit :
+Tableau 4
+Année
+Montant
+2006
+11 903,80 $
+2007
+21 800,00
+2008
+29 500,00
+Total
+63 203,80 $
+[10] Comme il est indiqué dans la note en bas de page no 11 qui précède, la Division des appels de l’ARC a établi une annexe illustrant les montants respectifs qui, d’après la Division de la vérification et la Division des appels, étaient des revenus que M. Gorev n’avait pas déclarés pour les années 2006, 2007 et 2008. De plus, la Division des appels a établi trois autres annexes [12] qui énuméraient sur une base annuelle les divers dépôts bancaires que l’on avait considérés comme des revenus non déclarés dans les premiers avis de nouvelle cotisation et qui faisaient état des dépôts bancaires qui, selon la Division des appels, provenaient d’une source imposable ou non imposable, selon le cas. La totalité des dépôts bancaires (les « dépôts en question ») qu’englobe le tableau 4 et qui, de l’avis de l’ARC, provenaient d’une source imposable, avait trait à des montants que M. Gorev, dans son avis d’appel, avait qualifiés de remboursements de prêt de la part de M. Kardachov. Toutefois, à l’audience, M. Gorev a laissé entendre que certains des dépôts en question découlaient peut-être de remboursements de prêt de la part d’autres emprunteurs ou d’autres sources non imposables. Deux des questions à trancher consistent donc à savoir si M. Kardachov ou d’autres personnes ont emprunté – et par la suite remboursé – les montants que représente une partie ou la totalité des dépôts en question, et si certains de ces derniers proviennent d’autres sources non imposables.
+2) L’impôt de la partie XIII
+[11] Le 5 décembre 2012, l’ARC, agissant pour le compte du ministre, a établi à l’endroit de M. Gorev des avis de cotisation sous le régime de la partie XIII de la LIR et fixé, en vertu du paragraphe 215(6) de la LIR, l’impôt à payer à 7 688 $ et à 15 071 $ pour les années d’imposition 2007 et 2008, respectivement. De plus, elle a imposé des pénalités en vertu du paragraphe 227(8) de la LIR.
+[12] Au début de l’audience, l’avocat de la Couronne a informé la Cour que la Couronne avait renoncé à sa thèse à l’égard des cotisations établies sous le régime de la partie XIII [13] . M. Gorev est donc fondé à obtenir gain de cause dans le contexte des présents appels, dans la mesure où ceux-ci ont trait aux cotisations établies sous le régime de la partie XIII.
+III. LES QUESTIONS EN LITIGE
+[13] Les trois questions à examiner dans le cadre des présents appels consistent à savoir :
+a) si les dépôts en question, résumés au tableau 4, proviennent soit de remboursements de prêts ou d’autres sources non imposables, soit de revenus non déclarés;
+b) si le ministre a établi à juste titre une nouvelle cotisation à l’égard de M. Gorev après l’expiration de ses périodes normales de nouvelle cotisation pour les années d’imposition 2006, 2007 et 2008;
+c) si M. Gorev est passible de pénalités aux termes du paragraphe 163(2) de la LIR.
+IV. LES TÉMOINS
+[14] M. Gorev et M. Kardachov ont été les seuls témoins à l’audition des présents appels. La Couronne n’en a appelé aucun.
+[15] M. Gorev et M. Kardachov se sont exprimés en russe, et leurs réponses (ainsi que les questions qui leur ont été posées) ont été traduites par un interprète. J’ai eu l’impression que, malgré le recours aux services d’un interprète, M. Gorev n’a peut-être pas tout à fait saisi toutes les notions dont il a été question à l’audience. L’échange suivant, qui s’est déroulé lors du contre-interrogatoire de M. Gorev, illustre ce manque possible de compréhension :
+[TRADUCTION]
+Q. Est-il exact que vous avez tout d’abord produit votre déclaration de revenus en indiquant un revenu total de 17 075 $?
+R. Eh bien, j’aimerais répondre ceci. Parce que j’avais de l’argent et j’avais l’argent qu’il fallait pour quitter mon pays plus, à ce moment-là, il y avait encore de l’argent qui arrivait de Russie. Je ne pouvais pas – j’étais en mesure de ne pas remplir la déclaration de revenus, mais comme je considérais que j’étais, à ce moment-là, résident du Canada, j’ai estimé qu’il était nécessaire de payer de l’impôt, du moins, celui-là.
+Q. M. Gorev, vous êtes résident permanent du Canada, est-ce exact?
+R. Malheureusement, comme je parle mal l’anglais je n’ai pas de passeport.
+Q. Oh, très bien. Je ne vous demandais pas si vous aviez un passeport.
+R. J’ai la résidence permanente [14] .
+M. Gorev a semblé saisir l’essentiel des questions qui lui étaient posées sur le montant de revenu total indiqué dans sa déclaration de revenus et sur son statut de résident permanent, mais je crains qu’il n’en ait peut-être pas saisi toute la portée.
+[16] Voici un autre échange qui m’a préoccupé lors du contre-interrogatoire de M. Gorev :
+[TRADUCTION]
+Q. Oui, et cela est indiqué sous 2008, le voyez-vous?
+R. De quelle année parlons-nous maintenant?
+Q. Maintenant, je parle de 2008.
+R. Et quel est le montant?
+Q. Une cotisation de sept mille cinq cents dollars a été établie par la [V]érification pour deux mille huit, pas deux mille six.
+R. Je n’ai rien compris du tout. Donc nous parlons de 2006 ou de 2008?
+Q. En fait, nous parlons des deux.
+R. D’accord, réglons la question pour une année et nous passerons ensuite à l’autre.
+Q. D’accord. Je vais vous poser la question directement.
+R. Peut-être que cela m’aidera à m’en souvenir.
+Q. Fort bien. Je vais vous poser la question directement. Ce que je vous dis c’est que la Vérification a établi à votre endroit une cotisation de 7 500 $ au titre de revenus non déclarés en 2008 et, pourtant, la réponse à cette question est donnée pour 2006. Qu’avez-vous à dire à ce sujet?
+R. Que voulez-vous dire par établi une cotisation? Est-ce que cette somme m’a été réclamée?
+Q. Établie par le ministre.
+R. Est-ce que cela veut dire que j’ai déposé cette somme au comptant? [15]
+À en juger par l’extrait qui précède, il semble que M. Gorev n’a pas saisi le principe de la cotisation. Et il y a peut-être d’autres éléments techniques du sujet de l’audience qu’il n’a pas compris, là non plus.
+[17] À une occasion, il a fallu que l’avocat de M. Gorev recoure à l’interprète pour obtenir des instructions de son client [16] .
+[18] En raison des préoccupations susmentionnées, je me suis efforcé d’être souple et généreux dans la manière dont j’ai interprété la transcription du témoignage de M. Gorev à l’audience.
+V. ANALYSE
+[19] Il est important de signaler qu’aux premiers stades de la vérification de l’ARC le vérificateur a relevé des dépôts bancaires d’un montant total de 1 354 422 $ qui semblaient, aux yeux de l’ARC, représenter des revenus non déclarés (comme l’illustre le tableau 1). Compte tenu des divers documents et observations que M. Gorev et ses conseillers ont fournis à l’ARC au cours des deux années et demie suivantes, le montant global que l’ARC considérait comme des revenus non déclarés a été nettement réduit et fixé à 63 203,80 $ (comme l’illustre le tableau 4). Le fait que l’on ait réduit à un tel point les revenus qui n’auraient pas été déclarés m’amène à me demander si la totalité des dépôts bancaires douteux relevés au départ par l’ARC, totalisant 1 354 422 $, découlait de remboursements de prêts ou d’autres sources non imposables. Il se peut que M. Gorev n’ait pas réussi à convaincre l’ARC du caractère non imposable des dépôts en question (d’un montant de 63 203,80 $) juste parce que les documents requis avaient été perdus ou égarés. Cette conjecture ne suffit toutefois pas pour satisfaire à l’obligation qu’a M. Gorev en matière de preuve. Comme ce dernier a le fardeau de prouver que les dépôts en question ne représentaient pas des revenus non déclarés, je dois analyser ces dépôts et la preuve connexe pour déterminer s’il s’est acquitté de ce fardeau.
+A. Les prêts accordés à M. Kardachov
+[20] M. Gorev a déclaré qu’en décembre 2005 il a commencé à prêter de l’argent à M. Kardachov. Ces prêts n’étaient assortis d’aucune condition officielle, ils ne portaient pas intérêt et ils ont été avancés et remboursés en espèces, en dollars canadiens [17] . M. Gorev a déclaré qu’il possédait chez lui un coffre-fort dans lequel il conservait régulièrement d’importantes sommes d’argent comptant (40 000 $ à un moment donné). Une grande partie des sommes qu’il a avancées à M. Kardachov venait de l’argent comptant qu’il tenait dans le coffre-fort [18] . M. Gorev et M. Kardachov n’ont établi aucun document officiel à l’égard de ces prêts, comme des reçus, des billets à ordre ou des ententes écrites [19] . Cependant, après chaque avance ou remboursement de fonds, une fois que M. Kardachov quittait le domicile de M. Gorev, celui-ci faisait des inscriptions dans son agenda afin de faire le suivi de l’argent qu’il lui prêtait [20] . Il est regrettable que M. Gorev n’ait pas produit son agenda lors de l’audition des présents appels, car ce document aurait pu corroborer ses dires.
+B. Le document de M. Kardachov
+[21] Lors de son contre-interrogatoire, M. Kardachov a identifié un document (le « document attestant les remboursements ») qui débute par la phrase suivante : [TRADUCTION] « Je soussigné (Iouri Kardachov) déclare avoir remboursé à Victor Gorev ». M. Kardachov a signé et daté ce document le 28 novembre 2013, soit plus de cinq ans après le dernier prétendu remboursement. Après le passage cité ci-dessus, le document attestant les remboursements présente un tableau qui a été établi par M. Gorev et M. Kardachov et qui indique les montants (en dollars canadiens) que M. Kardachov prétend avoir remis à M. Gorev en 2006, 2007 et 2008 en remboursement des prêts [21] . Les dates et les montants de ces prétendus remboursements, comme l’indique le document attestant les remboursements, sont les suivants :
+Tableau 5
+Date
+Montant
+12 octobre 2006
+14 500,00 $
+4 janvier 2007
+7 000,00
+15 août 2008 [sic]
+5 000,00
+19 août 2008 [sic]
+6 750,00
+6 septembre 2007
+4 000,00
+30 octobre 2007
+6 250,00
+31 janvier 2008
+4 500,00
+28 avril 2008
+6 000,00
+12 mai 2008
+5 000,00
+27 juin 2008
+4 000,00
+9 juillet 2008
+5 000,00
+13 août 2008
+5 000,00
+25 novembre 2008
+5 500,00
+Total
+78 000,00 $ [sic]
+Le véritable total des prétendus remboursements, indiqués au tableau 5, devrait être 78 500 $ (et non 78 000 $, comme il est indiqué dans le document attestant les remboursements).
+[22] D’après la présentation du tableau qui figure dans le document attestant les remboursements, il semble que les troisième et quatrième remboursements, indiqués ci-dessus dans le tableau 5, auraient peut-être dû être datés du 15 août 2007 et du 19 août 2007, respectivement (et non du 15 août 2008 et du 19 août 2008). Malheureusement, malgré les efforts faits par l’avocat de la Couronne pour tirer au clair cette question, M. Kardachov n’a donné aucun éclaircissement.
+[23] Quand on a demandé à M. Kardachov, lors de son contre-interrogatoire, comment il savait qu’il avait effectué des remboursements de prêt aux dates indiquées dans le document attestant les remboursements, il a répondu qu’il l’avait probablement fait avant ces dates. Il a ensuite reconnu qu’il n’avait probablement pas fait les remboursements aux dates précises qui étaient indiquées dans le document attestant les remboursements [22] .
+[24] Lors de son interrogatoire principal, M. Kardachov a déclaré qu’il faisait le suivi de l’argent qu’il devait à M. Gorev en prenant des notes personnelles [23] . Lors de son contre-interrogatoire, il a confirmé qu’il [TRADUCTION] « [inscrivait] des notes dans [ses] documents » quand il remboursait un montant à M. Gorev [24] . Il a ajouté qu’il avait probablement ces notes en 2013, quand M. Gorev et lui avaient établi le document attestant les remboursements, et qu’il les avait peut-être même en 2014. Quand on lui a demandé s’il avait en main les notes à la date de l’audience (le 5 mai 2016), M. Kardachov a répondu que non et, ensuite, dans les deux réponses suivantes il a dit tout d’abord qu’il les avait peut-être détruites et, ensuite, qu’il les avait probablement détruites [25] . Quand on lui a demandé également s’il avait conservé les notes inscrites de 2006 jusqu’à 2013, pour ensuite s’en débarrasser en 2014, il s’est ravisé et a déclaré qu’il les avait probablement détruites avant 2013 [26] . Si les notes de M. Kardachov n’avaient pas été détruites, elles auraient pu corroborer le document attestant les remboursements.
+[25] Pendant la période où M. Gorev a prêté de l’argent à M. Kardachov, ce dernier se trouvait dans une situation financière difficile [27] . En particulier, il éprouvait des difficultés dans ses activités commerciales, ce qui l’avait amené à emprunter de l’argent à M. Gorev [28] . M. Kardachov a fini par déclarer faillite le 1er octobre 2008 [29] . Le tableau 5 qui précède indique qu’au cours de la période s’étendant du 28 avril 2008 jusqu’à la date de la faillite de M. Kardachov (une période d’environ cinq mois), ce dernier a effectué des remboursements de prêt d’un montant total de 25 000 $ [30] . Le dernier paiement indiqué dans le tableau 5 est un montant de 5 500 $ et il a été fait le 25 novembre 2008, soit près de deux mois après la faillite de M. Kardachov. Ce dernier a déclaré qu’il avait obtenu la somme de 5 500 $ de son frère en Russie, et il a admis ne pas avoir informé son syndic de faillite qu’il avait reçu cet argent de la Russie ou qu’il l’avait payé à M. Gorev [31] .
+[26] En raison de la participation de M. Gorev, en plus de celle de M. Kardachov, à l’établissement du document attestant les remboursements, de l’incertitude entourant les dates des prétendus remboursements, du délai de cinq ans écoulé entre le dernier remboursement et l’établissement de ce document, de même que des notes détruites et de la faillite de M. Kardachov, j’ai des doutes au sujet de la fiabilité de ce document.
+C. Les emprunteurs
+[27] Dans son avis d’appel, M. Gorev allègue qu’en 2006 et en 2007 il a prêté à M. Kardachov une somme globale de 78 000 $. Dans cet avis, il allègue aussi que la totalité des dépôts en question provenait de remboursements de prêt que M. Kardachov avait effectués. Lors de son interrogatoire principal, M. Gorev a déclaré, à un moment donné : [TRADUCTION] « Je peux jurer que tout l’argent provenait du remboursement [par M. Kardachov] de ses dettes [32] ». Ailleurs dans son témoignage, M. Gorev a développé son explication, disant que, non seulement M. Kardachov, mais aussi Evgeny Sluzkiy et d’autres personnes non identifiées lui devaient de l’argent et avaient effectué des remboursements de prêt en 2006, en 2007 et en 2008, de sorte que les dépôts en question découlaient peut-être de remboursements que l’une quelconque de ces personnes avait faits [33] . L’avis d’appel indique que M. Gorev a prêté la somme de 78 000 $ à M. Kardachov, mais M. Gorev a déclaré que le montant réellement prêté était nettement supérieur à cette somme; il a toutefois refusé de dire à la Cour le montant réel qui avait été prêté. Étant donné que le montant prêté indiqué dans l’avis d’appel, soit 78 000 $, est supérieur au montant indiqué dans les nouvelles cotisations contestées, M. Gorev a décidé de ne demander qu’à M. Kardachov de venir témoigner lors de l’audition des présents appels, et de ne pas appeler les autres personnes à témoigner elles aussi [34] . Comme M. Gorev a déclaré que certains des dépôts en question ont peut-être été faits par des personnes autres que M. Kardachov, et comme ces autres personnes n’ont pas été appelées à témoigner, il y a un manque de corroboration.
+D. Les arrangements bancaires familiaux
+[28] Lors de son témoignage, M. Gorev a donné des explications supplémentaires sur certains des dépôts en question. La conjointe de fait de M. Gorev, Yulia Cherenkova, gérait les finances familiales. De temps à autre, M. Gorev prenait de l’argent dans son coffre-fort ou se servait d’un remboursement de prêt récent pour remettre des fonds à Mme Cherenkova afin qu’elle puisse payer les dépenses du ménage, ce qui incluait le paiement hypothécaire, les services d’utilité publique, ainsi que les frais d’études et les dépenses d’activités récréatives de leurs enfants [35] . Mme Cherenkova déposait habituellement cet argent dans le compte bancaire conjoint du couple [36] .
+[29] M. Gorev a déclaré que Mme Cherenkova s’occupait de la gestion de la « plaza » (comme il l’appelait), c’est-à-dire le bien locatif, que Vigor possédait et louait. Le salaire qu’elle recevait de Vigor était de 2 500 $ par mois, et ce montant lui était payé par chèque [37] . Selon M. Gorev, il se peut que certains des dépôts en question aient été faits avec de l’argent que Mme Cherenkova avait gagné [38] .
+E. Les dépôts en question
+[30] Les dépôts en question sont résumés ici [39] :
+Tableau 6
+Banque
+Date
+Montant
+1)
+BMO
+27 juin 2008
+25 novembre 2008
+3 500,00 $
+4 000,00 $
+2)
+Banque Scotia
+12 octobre 2006
+7 000,00 $ US
+3)
+Banque Scotia
+12 octobre 2006
+2 225,00 $
+4)
+Banque Scotia
+18 octobre 2006
+1 678,00 $
+5)
+Banque Scotia
+12 décembre 2006
+1 000,00 $
+6)
+Banque Scotia
+(2007 et 2008)
+2 avril 2007
+25 avril 2007
+15 août 2007
+1 000,00 $
+5 500,00 $
+4 000,00 $
+[EN BLANC]
+[EN BLANC]
+20 août 2007
+6 septembre 2007
+30 octobre 2007
+31 janvier 2008
+15 avril 2008
+29 avril 2008
+3 mai 2008
+12 mai 2008
+9 juillet 2008
+13 août 2008
+4 000,00 $
+2 300,00 $
+5 000,00 $
+1 000,00 $
+2 500,00 $
+4 000,00 $
+1 500,00 $
+5 000,00 $
+4 000,00 $
+4 000,00 $
+1) Les dépôts faits à la BMO
+[31] L’ARC a relevé deux dépôts, d’un montant de 3 500 $ et de 4 000 $, qui ont été faits dans le compte en dollars canadiens que M. Gorev détenait à la Banque de Montréal (« BMO »). Les dates de ces dépôts ont suscité une certaine confusion. La première lettre de proposition de l’ARC, datée du 26 janvier 2012, indiquait que les montants de 3 500 $ et de 4 000 $ avaient été déposés le 27 juin 2008 et le 25 novembre 2008, respectivement [40] . Les états mensuels concernant ce compte faisaient état eux aussi de dépôts de 3 500 $ et de 4 000 $, faits le 27 juin 2008 et le 25 novembre 2008, respectivement [41] .
+[32] Le 9 mars 2012, le comptable de M. Gorev, Raymond Leydier, a envoyé à la Division de la vérification de l’ARC une lettre de réponse à la lettre de proposition de l’ARC datée du 26 janvier 2012. À la quatrième page de cette lettre [42] , M. Leydier traite des dépôts faits dans le compte en dollars canadiens que M. Gorev détenait à la BMO. La rubrique qui s’applique à ces commentaires donne à penser que les dépôts ont été faits en 2008. De plus, M. Leydier a joint à sa lettre une copie de divers documents et il y a fait référence en tant que pièce no 9. L’un de ces documents est la copie client du relevé d’opération applicable à un dépôt de 3 500 $ fait le 27 juin 2008 dans le compte de M. Gorev [43] . M. Leydier n’a pas fourni de copie client du relevé d’opération relatif au dépôt de 4 000 $.
+[33] Il semble que la confusion a pris naissance quand Yasha Bushuev, un comptable dont M. Gorev avait retenu les services et qui, semble-t-il, avait remplacé M. Leydier, a envoyé par télécopieur un certain nombre d’annexes à Pierre Pageaut, de la Division des appels. L’une de ces annexes faisait état des dépôts douteux de 3 500 $ et de 4 000 $ qui avaient été faits dans le compte en dollars canadiens que M. Gorev détenait à la BMO [44] . L’année indiquée près de la partie supérieure de cette annexe était 2008; cependant, les dates inscrites dans l’annexe pour les deux dépôts étaient les suivantes : 08/31/2006 et 09/18/2006. Quand M. Pageaut a établi l’annexe 2 de la Division des appels, il semble s’être servi des dates fournies par M. Bushuev et il a indiqué que les montants de 3 500 $ et de 4 000 $ avaient été déposés le 31 août 2006 et le 18 septembre 2006, respectivement. Cependant, le tableau composite (regroupant les trois années) que contient l’annexe 1 de la Division des appels montre que ces dépôts ont été faits en 2008.
+[34] Au paragraphe 12 de son avis d’appel, M. Gorev indique que les montants ont été déposés le 31 août 2006 et le 18 septembre 2006. Cependant, il semble qu’à l’alinéa 21e) de la réponse de la Couronne on ait tenu pour acquis que les deux montants étaient inclus dans les revenus de 2008, plutôt que dans ceux de 2006.
+[35] Non seulement y a-t-il une certaine confusion au sujet des dates liées aux dépôts de 3 500 $ et de 4 000 $, mais il y en a une aussi à propos de la source des fonds qui ont été déposés. Cette confusion est résumée ci-dessous :
+a) Dans la lettre datée du 9 mars 2012 qu’il a envoyée à l’ARC, M. Leydier a déclaré que les dépôts faits dans le compte que M. Gorev détenait à la BMO n’étaient pas des revenus, mais des [TRADUCTION] « fonds retirés des comptes du client [45] ». Cet énoncé est contraire à l’observation que M. Gorev a faite dans son avis d’appel, à savoir que le dépôt de 3 500 $ et celui de 4 000 $ représentaient des remboursements de prêt de la part de M. Kardachov.
+b) Lors de son interrogatoire principal, M. Gorev a déclaré que les montants étaient probablement des remboursements de prêt de la part de quelqu’un, mais qu’il ne pouvait pas se souvenir de leur source. Il a affirmé qu’il ne s’agissait pas de revenus [46] . Lors de son contre-interrogatoire, il a déclaré que les montants de 3 500 $ et de 4 000 $ venaient de ses débiteurs, dont M. Kardachov [47] .
+c) Plus tard au cours de son contre-interrogatoire, M. Gorev a déclaré qu’il se trouvait en Russie quand les deux dépôts ont été faits à la BMO, et qu’il savait que M. Kardachov n’aurait fait aucun remboursement de prêt pendant son séjour en Russie. M. Gorev a donc changé son explication antérieure et a suggéré que c’était Mme Cherenkova qui avait pris les montants de 3 500 $ et de 4 000 $ dans son coffre-fort ou qui les avaient gagnés [48] . De même, dans sa lettre du 9 mars 2012, M. Leydier a indiqué que les montants avaient été déposés par Mme Cherenkova, car M. Gorev se trouvait en Russie du 17 mai au 14 juillet 2008 et aussi du 2 octobre au 1er décembre 2008 [49] .
+d) Lors de son interrogatoire principal, M. Gorev a déclaré que le dépôt de 3 500 $ (qui, selon M. Gorev, avait été effectué le 31 août 2006, mais qui avait réellement été fait le 27 juin 2008) avait servi à payer des dépenses du ménage, comme le paiement hypothécaire, les services d’utilité publique et les frais d’entretien [50] . Cependant, la copie client du relevé d’opération qui s’applique à ce dépôt montre qu’après le dépôt de 3 500 $ en espèces, une traite bancaire canadienne du même montant a été émise en se servant de fonds figurant dans le même compte, ce qui a laissé dans ce compte un solde de 226,84 $ [51] . C’est donc dire que la somme de 3 500 $ n’a pas été laissée dans le compte pour payer les dépenses du ménage. Il est toutefois possible que la traite bancaire ait servi à acquitter ces dépenses [52] .
+[36] En me fondant sur les états bancaires et sur la copie client du relevé d’opération concernant le dépôt de 3 500 $, je conclus que les dépôts de 3 500 $ et de 4 000 $ ont été faits le 27 juin 2008 et le 25 novembre 2008, respectivement, et non le 31 août 2006 et le 18 septembre 2006. Vu les incohérences relevées entre le témoignage de M. Gorev et la preuve documentaire, je ne souscris pas à l’affirmation de M. Gorev selon laquelle les montants de 3 500 $ et de 4 000 $ qui ont été déposés dans le compte en dollars canadiens qu’il détenait à la BMO provenaient de sources non imposables. M. Gorev n’a pas prouvé selon la prépondérance des probabilités que ces montants ne constituaient pas des revenus gagnés en 2008.
+2) Le dépôt de 7 000 $ US fait à la Banque Scotia le 12 octobre 2006
+[37] Le 12 octobre 2006, M. Gorev, ou une personne agissant pour son compte (comme Mme Cherenkova), a déposé la somme de 7 000 $ US en espèces dans le compte en dollars américains que M. Gorev détenait à la Banque Scotia [53] . Dans la lettre datée du 9 mars 2012 qu’il a envoyée à l’ARC, M. Leydier a déclaré que M. Gorev lui avait dit que le dépôt de 7 000 $ US fait le 12 octobre 2006 découlait du remboursement, par Igor Nikitenko, d’une dette impayée, qui résultait de la vente des biens de M. Gorev avant que celui-ci devienne résident du Canada [54] . Lors du contre-interrogatoire de M. Gorev, quand on l’a interrogé sur l’explication de M. Leydier selon laquelle le dépôt de 7 000 $ US fait le 12 octobre 2006 découlait d’un remboursement de dette fait par M. Nikitenko, il a répondu : [TRADUCTION] « Je ne comprends pas le lien qu’il peut y avoir entre M. Nikitenko et la somme de 7 000 en argent [55] ». Le témoignage de M. Gorev ne concordait donc pas avec l’explication qu’il avait donnée à M. Leydier.
+[38] Dans son avis d’appel, M. Gorev a déclaré que la somme de 7 000 $ US déposée le 12 octobre 2006 découlait d’un remboursement de prêt fait par M. Kardachov. Il a réitéré cette thèse au cours de son témoignage, mais (comme il a été mentionné plus tôt) il l’a explicitée en laissant entendre que certains des dépôts inexpliqués venaient peut-être de sommes d’argent que des emprunteurs autres que M. Kardachov avaient remboursées [56] . Cependant, lors de son contre-interrogatoire, en offrant une autre explication, M. Gorev a déclaré que la somme de 7 000 $ US déposée le 12 octobre 2006 était de l’argent qui restait à la fin de l’un des voyages qu’il avait faits pour se rendre à diverses expositions d’armes à feu et d’antiquités [57] .
+[39] Lors de son témoignage, M. Gorev a déclaré à plusieurs reprises que la totalité des fonds qu’il avait prêtés à M. Kardachov et la totalité des prêts que M. Kardachov avait remboursés étaient en dollars canadiens [58] . Comme l’argent déposé dans le compte en dollars américains à la Banque Scotia le 12 octobre 2006 était en devise américaine, il ne semble pas qu’il s’agissait d’un remboursement de prêt de la part de M. Kardachov.
+3) Le dépôt de 2 225 $ fait à la Banque Scotia le 12 octobre 2006
+[40] Dans son avis d’appel, M. Gorev a indiqué que le dépôt de 2 225 $ qui avait été fait dans le compte en dollars canadiens qu’il détenait à la Banque Scotia le 12 octobre 2006 provenait d’un remboursement de prêt de la part de M. Kardachov. Il semble que M. Gorev ait donné la même explication à la Division des appels, car l’annexe 4 que celle-ci a établie dénote que, pour ce dépôt, la source des fonds était M. Kardachov. Une copie du reçu de dépôt remis au client, qui a été produite en preuve, montre que la devise et le montant de l’argent déposé à la banque étaient de 2 000 $ US, que, selon le taux de change applicable, le montant du change était de 225 $ et que l’équivalent du dépôt en dollars canadiens était donc de 2 225 $ [59] . Étant donné que l’argent déposé à la Banque Scotia était en dollars américains et que M. Gorev a déclaré que M. Kardachov faisait toujours ses remboursements de prêt en dollars canadiens [60] , ce dépôt ne pouvait pas découler d’un remboursement de prêt de la part de M. Kardachov.
+4) Le dépôt de 1 678,80 $ fait à la Banque Scotia le 18 octobre 2006
+[41] Dans son avis d’appel, M. Gorev a indiqué que le dépôt de 1 678,80 $ qui avait été fait le 18 octobre 2006 dans le compte en dollars canadiens qu’il détenait à la Banque Scotia provenait d’un remboursement de prêt de la part de M. Kardachov. Un commentaire fait à l’annexe 4 de la Division des appels au sujet du dépôt de 1 678,80 $ effectué le 13 octobre 2006 dans le compte en dollars canadiens que détenait M. Gorev à la Banque Scotia indique ceci :
+[TRADUCTION]
+Kardachov 1 400 $ US – 1 504,85 $ plus 173,95 $ ARC [61]
+Il m’a été impossible de trouver une indication quelconque à propos de la source de l’information sur laquelle repose le commentaire qui précède. Si le dépôt découlait principalement d’une somme d’argent comptant de 1 400 $ US, étant donné que M. Gorev a déclaré que M. Kardachov ne remboursait ses prêts qu’en dollars canadiens, il s’ensuit que le dépôt de 1 678,80 $ ne découlait pas d’un remboursement de prêt de la part de M. Kardachov.
+[42] C’est ce que confirme le témoignage de M. Gorev. Lors de son interrogatoire principal, M. Gorev a déclaré que le dépôt de 1 678,80 $ qui avait été fait le 18 octobre 2006 dans le compte en dollars canadiens qu’il détenait à la Banque Scotia découlait d’un remboursement de prêt que M. Kardachov ou un autre emprunteur avait effectué [62] . Lors de son contre-interrogatoire, M. Gorev a indiqué qu’étant donné que le montant du dépôt n’était pas un chiffre rond, il ne s’agissait probablement pas d’un remboursement de prêt de la part de M. Kardachov [63] .
+5) Le dépôt de 1 000 $ fait à la Banque Scotia le 12 décembre 2006
+[43] Dans son avis d’appel, M. Gorev a indiqué que le dépôt de 1 000 $ qui avait été effectué le 12 décembre 2006 dans le compte en dollars canadiens qu’il détenait à la Banque Scotia provenait d’un remboursement de prêt que M. Kardachov lui avait fait. Au cours de son interrogatoire principal et de son contre-interrogatoire, M. Gorev a déclaré que ce dépôt de 1 000 $ représentait un remboursement de prêt que M. Kardachov ou l’un des autres emprunteurs avait effectué [64] . En particulier, pour décrire ce dépôt, M. Gorev a déclaré lors du contre-interrogatoire :
+[TRADUCTION]
+[…] cet argent, y compris tout l’argent dont nous allons parler, il a été déposé à partir de l’argent qui a été retourné, y compris par tous les autres, y compris par Kardachov. Il y a d’autres options [65] .
+C’est donc dire que M. Gorev n’était pas sûr que le dépôt de 1 000 $ découlait d’un remboursement de prêt de la part de M. Kardachov.
+6) Les dépôts faits à la Banque Scotia en 2007 et en 2008
+[44] L’ARC a relevé treize dépôts qui ont été faits en 2007 et en 2008 dans le compte en dollars canadiens que M. Gorev détenait à la Banque Scotia et qui, de l’avis de l’ARC, découlaient de revenus non déclarés :
+Tableau 7
+[EN BLANC]
+Date
+Montant
+2007
+2 avril 2007
+1 000,00 $
+25 avril 2007
+5 500,00
+15 août 2007
+4 000,00
+20 août 2007
+4 000,00
+6 septembre 2007
+2 300,00
+30 octobre 2007
+5 000,00
+Total pour 2007
+21 800,00 $
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+2008
+31 janvier 2008
+1 000,00 $
+15 avril 2008
+2 500,00
+29 avril 2008
+4 000,00
+3 mai 2008
+1 500,00
+12 mai 2008
+5 000,00
+9 juillet 2008
+4 000,00
+13 août 2008
+4 000,00
+Total pour 2008
+22 000,00 $
+[45] Les dépôts faits en 2007 et en 2008 n’ont pas été l’objet de questions précises de la part de l’avocat de l’un ou l’autre des témoins. Les seuls renseignements vers lesquels on m’a orienté au sujet de ces dépôts sont les suivants :
+a) l’observation faite dans l’avis d’appel selon laquelle la totalité des dépôts en question découlait de remboursements de prêt que M. Kardachov avait effectués;
+b) les déclarations générales de M. Gorev selon lesquelles les dépôts en question représentaient des remboursements de prêt que M. Kardachov ou d’autres emprunteurs avaient faits, de l’argent qui restait à la fin d’un voyage à l’étranger ou de l’argent déposé par Mme Cherenkova à partir de fonds que M. Gorev lui avait remis ou de la rémunération qu’elle gagnait en gérant le bien locatif de Vigor;
+c) la déclaration de M. Kardachov selon laquelle il avait effectué divers remboursements à M. Gorev, lesquels sont détaillés dans le document attestant les remboursements [66] et dont l’essentiel est reproduit au tableau 5 qui précède.
+[46] Afin de pouvoir déterminer s’il est vraisemblable que M. Gorev se soit servi des remboursements que M. Kardachov aurait faits pour faire les dépôts en question, j’ai combiné les tableaux 5 et 7 de façon à illustrer en ordre chronologique les remboursements et les dépôts faits en 2007 et en 2008 [67] :
+Tableau 8
+Date
+Prétendu remboursement
+Dépôt en question
+4 janvier 2007
+7 000 $
+[EN BLANC]
+2 avril 2007
+[EN BLANC]
+1 000 $
+25 avril 2007
+[EN BLANC]
+5 500
+15 août 2007
+5 000
+4 000
+19 août 2007
+6 750
+20 août 2007
+4 000
+6 septembre 2007
+4 000
+2 300
+30 octobre 2007
+6 250
+5 000
+Total pour 2007
+29 000 $
+21 800 $
+31 janvier 2008
+4 500 $
+1 000 $
+15 avril 2008
+[EN BLANC]
+2 500
+28 avril 2008
+6 000
+[EN BLANC]
+29 avril 2008
+[EN BLANC]
+4 000
+3 mai 2008
+[EN BLANC]
+1 500
+12 mai 2008
+5 000
+5 000
+27 juin 2008
+4 000
+[EN BLANC]
+9 juillet 2008
+5 000
+4 000
+13 août 2008
+5 000
+4 000
+25 novembre 2008
+5 500
+_______
+Total pour 2008
+35 000 $
+22 000 $
+M. Gorev a déclaré que, quand il recevait des remboursements d’un prêt, il lui arrivait parfois de dépenser une partie de l’argent pour lui-même, de donner une partie de l’argent à Mme Cherenkova ou d’en conserver une partie dans le coffre-fort qu’il avait chez lui et que, ensuite, au besoin, il déposait une partie de l’argent dans un compte bancaire [68] . Les dates et les montants des prétendus remboursements et des dépôts en question, comme l’illustre le tableau 8, concordent avec l’explication de M. Gorev au sujet de la source de ces dépôts.
+[47] Les renseignements relatifs aux prétendus remboursements indiqués au tableau 8 sont tirés du document attestant les remboursements. Comme il a été expliqué aux paragraphes 23 à 26 qui précèdent, j’ai des doutes au sujet de la fiabilité de ce document. Le simple fait que les dates et les montants des prétendus remboursements et des dépôts en question qui sont indiqués au tableau 8 concordent avec l’explication de M. Gorev au sujet de la source de ces dépôts n’est donc pas suffisant pour prouver, selon la prépondérance des probabilités, que les dépôts en question ne provenaient pas de sources imposables.
+7) Sommaire
+[48] Eu égard aux préoccupations et aux observations signalées plus tôt à propos des dépôts faits en 2006 (et surtout aux incohérences et à la confusion relevées dans la preuve au sujet de certains de ces dépôts) ainsi qu’à la fiabilité douteuse du document attestant les remboursements, je suis d’avis que la preuve que M. Gorev et M. Kardachov ont fournie n’a pas été convenablement corroborée et n’a pas permis à M. Gorev de s’acquitter du fardeau de la preuve qui lui incombait. Il aurait peut-être été possible de corroborer les témoignages de M. Gorev et de M. Kardachov si :
+a) M. Gorev avait produit l’agenda dans lequel il tenait compte des avances faites à M. Kardachov et des remboursements faits par ce dernier;
+b) M. Kardachov n’avait pas détruit les notes qu’il prenait pour faire le suivi de l’argent qu’il empruntait à M. Gorev, et les avait produites;
+c) M. Gorev avait appelé Mme Cherenkova, M. Sluzkiy et les autres emprunteurs à témoigner.
+[49] Je reconnais qu’une partie ou la totalité des dépôts en question provenaient peut-être des sources non imposables que M. Gorev a décrites. Autrement dit, je ne suis pas convaincu que ces dépôts découlaient de sources imposables. Cependant, M. Gorev n’a pas produit assez de preuves fiables pour réfuter les présomptions de fait du ministre, lesquelles sont énoncées au paragraphe 21 de la réponse, ou pour prouver, selon la prépondérance des probabilités, que les dépôts en question ne découlaient pas de sources imposables.
+F. L’établissement d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation
+[50] Le sous-alinéa 152(4)a)(i) de la LIR prévoit que le ministre peut établir une nouvelle cotisation concernant l’impôt, ainsi que les intérêts ou les pénalités, pour une année d’imposition après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année si le contribuable a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou s’il a commis quelque fraude en produisant la déclaration pour cette année-là. Il incombe à la Couronne de prouver que M. Gorev a fait une présentation erronée des faits et que celle-ci a été faite par négligence, inattention, omission volontaire ou fraude [69] . Pour expliquer ce fardeau, la Cour d’appel fédérale a déclaré :
+Bien que le ministre bénéficie des présomptions de fait qui sous-tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l’obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles [70] .
+M. Gorev n’est donc pas assujetti à un fardeau de preuve qui l’oblige à réfuter les présomptions de fait que le ministre a formulées au paragraphe 22 de la réponse.
+[51] En contre-interrogeant M. Gorev, l’avocat de la Couronne a établi que ce dernier n’avait pas inclus dans son revenu les montants visés par les dépôts en question [71] . Il y a donc une différence entre les montants que M. Gorev a déclarés à titre de revenu dans ses déclarations de revenus pour les années 2006, 2007 et 2008 et les montants de ses revenus qui ont été calculés à partir des dépôts en question (ainsi que des montants déclarés). Dans la décision Yunus, la juge en chef adjointe Lamarre a déclaré :
+[…] j’estime que l’écart entre les revenus établis selon les mouvements de trésorerie et les revenus déclarés est suffisant pour constater qu’il y a eu présentation erronée des faits [72] .
+De même, je suis d’avis que la différence entre les revenus déclarés dans les déclarations de revenus de M. Gorev et les revenus déterminés à partir des dépôts en question (ainsi que des déclarations de revenus) suffit pour que je conclue qu’il y a eu présentation erronée des faits pour l’application du sous-alinéa 152(4)a)(i) de la LIR.
+[52] Pour ce qui est de la question de savoir si la présentation erronée des faits a été faite par négligence ou par inattention, la question qu’il convient de poser consiste à savoir si le soin qu’a exercé M. Gorev en produisant ses déclarations de revenus pour les années 2006, 2007 et 2008 a été celui d’une personne avisée [73] . Relativement peu d’éléments de preuve ont été produits à l’égard de la question de savoir si la présentation erronée des faits a été faite par négligence ou par inattention [74] . La preuve n’était pas des plus limpides, mais il semble que M. Gorev a eu recours à un comptable pour établir ses déclarations de revenus et que Mme Cherenkova donnait des instructions et fournissait des documents au comptable. M. Gorev a déclaré en contre-interrogatoire que Mme Cherenkova avait fait plusieurs erreurs à l’égard des déclarations de revenus. Il a aussi semblé indiquer qu’il avait signé les déclarations sans les passer en revue au préalable [75] . Une personne avisée aurait passé en revue sa déclaration de revenus avant de la signer. Autrement dit, le fait de ne pas passer en revue une déclaration de revenus avant d’y apposer sa signature peut constituer un acte de négligence ou d’inattention pour l’application du sous-alinéa 152(4)a)(i) de la LIR [76] .
+[53] Je conclus donc que la Couronne s’est acquittée du fardeau de prouver que M. Gorev avait fait une présentation erronée des faits par négligence ou par inattention, de sorte que les nouvelles cotisations contestées ont été établies à juste titre après l’expiration des périodes normales de nouvelle cotisation applicables à M. Gorev pour les années d’imposition en question.
+G. Les pénalités pour faute lourde
+[54] J’ai conclu que le ministre était en droit d’établir une nouvelle cotisation à l’endroit de M. Gorev pour les années d’imposition 2006, 2007 et 2008 après l’expiration des périodes normales de nouvelle cotisation se rapportant à ces années, mais cette conclusion n’est pas déterminante quant à la question de savoir si l’on peut maintenir les pénalités pour faute lourde qui ont été imposées à M. Gorev. Comme l’a déclaré la juge en chef adjointe Lamarre :
+Par ailleurs, il est établi que le genre de conduite d’un contribuable qui justifie la réouverture par le ministre du dossier concernant les années prescrites, aux termes du sous‑alinéa 152(4)a)(i) de la LIR, ne justifie pas nécessairement l’imposition de pénalités aux termes du paragraphe 163(2) LIR. De fait, les dispositions du paragraphe 163(2) sont de nature pénale et appellent un degré de culpabilité plus élevé [77] .
+L’énoncé qui précède concorde avec l’observation qu’a faite la Cour fédérale dans la décision Venne :
+Il convient de souligner que, pour que la pénalité [prévue au paragraphe 163(2)] soit applicable, il faut un degré de culpabilité plus élevé, soit avec connaissance réelle, soit avec faute lourde, que ne l’impose le paragraphe 152(4) pour que soient réouvertes des cotisations antérieures de plus de quatre ans [maintenant trois], la simple négligence étant suffisante apparemment dans ce dernier cas [78] .
+[55] Il ressort clairement de la jurisprudence établie que le fardeau que le paragraphe 163(3) de la LIR impose au ministre est important. Dans la décision Boileau, la juge Lamarre Proulx a déclaré :
+L’appelant a été incapable de contredire les éléments de base des évaluations de la valeur nette. Cependant, cela ne suffit pas selon moi pour que le ministre s’acquitte du fardeau de la preuve qui lui incombe. En décider autrement serait enlever tout objet au paragraphe 163(3) en renversant sur l’appelant le fardeau de la preuve qui incombe au ministre. [...]
+Je suis d’avis que, dans la présente espèce, l’intimé ne s’est pas acquitté convenablement du fardeau de la preuve qui lui incombait, en ce sens qu’il s’est appuyé presque exclusivement sur le fait que l’appelant était incapable de renverser les évaluations de la valeur nette. En fait, le paragraphe 163(3) exige que l’on fasse la preuve de l’intention ou de la faute lourde du contrevenant, chose qui, à mon sens, devrait être faite de manière structurée, claire et convaincante. Je ne conclus pas que les éléments de preuve étaient adéquats à cet égard et, par conséquent, les pénalités ne peuvent être maintenues [79] .
+Comme il est indiqué dans le passage de l’arrêt Lacroix qui est reproduit au paragraphe 50 des présents motifs, le ministre ne bénéficie pas des présomptions de fait pour ce qui est de la preuve des faits justifiant l’imposition d’une pénalité en raison d’une inconduite dans la production d’une déclaration de revenus [80] . M. Gorev n’est donc pas soumis à un fardeau de preuve qui l’oblige à réfuter les présomptions de fait que le ministre a formulées et qui sont énoncées au paragraphe 23 de la réponse.
+[56] Il ressort également de la jurisprudence qu’il convient de faire preuve de prudence au moment de sanctionner l’imposition de pénalités prévues au paragraphe 163(2) :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l’imposition d’une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d’une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s’attendrait dans les situations où l’on cherche à établir le bien-fondé d’allégations moins sérieuses. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité [81] . [Notes en bas de page omises]
+Il convient donc de déterminer s’il existe une hypothèse viable et raisonnable qui pourrait m’inciter à accorder le bénéfice du doute à M. Gorev [82] .
+[57] L’explication qu’avance M. Gorev est que les dépôts en question découlaient d’une combinaison des sources suivantes :
+a) les remboursements de prêt de M. Kardachov;
+b) les remboursements de prêt ou de dette de M. Sluzkiy et d’autres personnes, y compris certains des acheteurs d’une partie des biens que M. Gorev avait vendus à l’époque où il vivait encore en Russie;
+c) l’argent comptant (notamment des dollars américains) qui restait quand M. Gorev revenait d’un voyage à l’étranger;
+d) la rémunération gagnée par Mme Cherenkova;
+e) l’argent comptant que M. Gorev conservait chez lui dans son coffre-fort (une partie ou la totalité de cet argent comptant venait peut-être des trois premières sources énumérées ci-dessus).
+Comme il a été indiqué plus tôt, M. Gorev n’a pas fourni d’éléments suffisants pour prouver selon la prépondérance des probabilités que les dépôts en question ne provenaient pas de sources imposables. Cependant, bien que M. Gorev ne soit pas parvenu à s’acquitter du fardeau de preuve qui lui incombait, je ne suis pas convaincu qu’il a gagné des revenus non déclarés [83] . La preuve était suffisante pour me convaincre que les explications résumées aux alinéas a) à e) qui précèdent constituent une hypothèse viable et raisonnable au sujet de la source des dépôts en question, ce qui m’amène, pour l’application du paragraphe 163(2) de la LIR, à accorder à M. Gorev le bénéfice du doute.
+[58] La négligence ou l’inattention dont il est question au paragraphe 52 qui précède, pour l’application du sous-alinéa 152(4)a)(i) de la LIR, n’atteint pas le niveau de la faute lourde que requiert l’application du paragraphe 163(2) de la LIR. La Couronne n’est donc pas parvenue à s’acquitter du fardeau de preuve qui lui incombait, et les pénalités imposées à M. Gorev en vertu du paragraphe 163(2) de la LIR ne sont pas justifiées.
+VI. CONCLUSION
+[59] Les présents appels sont tranchés de la manière suivante :
+a) les appels relatifs aux nouvelles cotisations contestées (lesquelles sont décrites dans l’avis de nouvelle cotisation établi le 31 décembre 2012 pour l’année d’imposition 2007 et dans les avis de nouvelle cotisation établis le 12 juin 2014 pour les années d’imposition 2006 et 2008) sont accueillis, et les nouvelles cotisations contestées sont renvoyées au ministre pour nouvel examen et nouvelles cotisations, étant entendu que les pénalités imposées en vertu du paragraphe 163(2) de la LIR ne sont pas fondées;
+b) à tous autres égards, les nouvelles cotisations contestées sont confirmées;
+c) les appels relatifs aux cotisations établies sous le régime de la partie XIII de la LIR (lesquelles sont décrites dans les avis de nouvelle cotisation établis le 5 décembre 2012) pour les années d’imposition 2007 et 2008 sont accueillis, et ces cotisations sont annulées.
+[60] Puisque chacune des parties a obtenu gain de cause en partie, je n’adjuge aucuns dépens.
+Signé à Ottawa, Canada, ce 19e jour de mai 2017.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 28e jour de juin 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 85
+No DU DOSSIER DE LA COUR :
+2014-2607(IT)G
+INTITULÉ :
+VICTOR GOREV ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 mai 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 19 mai 2017
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David M. Piccolo
+Avocat de l’intimée :
+Me Leonard Elias
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+David M. Piccolo
+Cabinet :
+Tax Chambers LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, LRC 1985, ch. 1 (5e supplément), dans sa version modifiée.
+[2] Voir la pièce R-1, onglet 12, page 57 (point 5) et page 71.
+[3] Transcription, page 33, lignes 17-18; et page 37, lignes 19-20. Voir aussi la pièce R ‑1, onglet 12, page 59.
+[4] Sauf indication contraire, toutes les sommes d’argent mentionnées dans les présents motifs sont en dollars canadiens.
+[5] La pièce A-2 comporte des sommaires numériques des premiers avis de cotisation.
+[6] Pièce R-1, onglet 10.
+[7] Pièce R-1, onglet 13.
+[8] Pièce R-1, onglet 17.
+[9] Pièce R-1, onglets 18, 19 et 20. Les premiers avis de nouvelle cotisation ont été établis après l’expiration des périodes normales de nouvelle cotisation pour les années d’imposition 2006, 2007 et 2008, respectivement.
+[10] L’avis de ratification n’a pas été produit en preuve. L’avis d’appel indique que l’avis de ratification était daté du 12 juin 2014, tandis que, selon la réponse, l’avis de ratification portait la date du 29 avril 2007, ce qui est probablement une erreur d’écriture. Il faudrait vraisemblablement lire le 29 avril 2014.
+[11] Aucune copie des nouveaux avis de nouvelle cotisation n’a été déposée en preuve; toutefois, un sommaire des montants supplémentaires indiqués dans les nouveaux avis de nouvelle cotisation pour les années 2006 et 2008, ainsi que dans le premier avis de nouvelle cotisation pour l’année 2007, a été présenté sous forme de tableau dans une annexe établie le 22 avril 2014 par la Division des appels et incluse dans la pièce A‑1, onglet 2, page 46. Cette annexe est appelée ci-après l’« annexe 1 de la Division des appels ».
+[12] Pièce A-1, onglet 2, pages 47-49. Ces annexes sont appelées ci-après les « annexes 2, 3 et 4 de la Division des appels », respectivement.
+[13] Transcription, page 4, lignes 16-21, et page 7, lignes 14-17.
+[14] Ibid., page 33, lignes 14-28.
+[15] Ibid., page 55, ligne 8, à page 56, ligne 3.
+[16] Ibid., page 89, lignes 2-5.
+[17] Ibid., de la page 14, ligne 10, à la page 17, ligne 2; de la page 40, ligne 20, à la page 41, ligne 4; et page 72, ligne 1.
+[18] Ibid., de la page 19, ligne 14, à la page 21, ligne 7; et page 40, lignes 17-19.
+[19] Ibid., page 15, lignes 15-17, et page 72, lignes 2-3.
+[20] Ibid., page 15, lignes 18-22.
+[21] Pièce R-1, onglet 21, page 137.
+[22] Transcription, page 79, lignes 6-12.
+[23] Ibid., page 73, lignes 22-24.
+[24] Ibid., page 79, lignes 15-16.
+[25] Ibid., page 79, lignes 17-25.
+[26] Ibid., de la page 79, ligne 26, à la page 80, ligne 5.
+[27] Ibid., page 14, lignes 1-4; page 42, lignes 3-8; page 83, lignes 18-24.
+[28] Ibid., page 70, lignes 26-27.
+[29] Pièce A-3; Transcription, de la page 83, ligne 25, à la page 84, ligne 10.
+[30] Les montants censément remboursés au cours de cette période étaient de 6 000 $ le 28 avril 2008, de 5 000 $ le 12 mai 2008, de 4 000 $ le 27 juin 2008, de 5 000 $ le 9 juillet 2008 et de 5 000 $ le 13 août 2008, ce qui donne en tout 25 000 $.
+[31] Transcription, de la page 86, ligne 18, à la page 88, ligne 9.
+[32] Ibid., page 29, lignes 1-2.
+[33] Ibid., page 18, lignes 9-10; de la page 27, ligne 18, à la page 28, ligne 23; page 39, lignes 11-25; et page 41, lignes 11-18.
+[34] Ibid., page 39, lignes 4-17; de la page 41, ligne 8, à la page 42, ligne 8; et page 73, lignes 8-21.
+[35] Ibid., page 17, lignes 5-19; page 18, lignes 18-21; page 23, lignes 22-24; page 28, lignes 1-9; page 45, lignes 21 et 26-27; page 46, lignes 17 et 18.
+[36] Ibid., page 17, lignes 6-10.
+[37] Ibid., de la page 17, ligne 19, à la page 18, ligne 2.
+[38] Ibid., page 57, ligne 23.
+[39] Les numéros figurant dans la colonne de gauche du tableau 6 correspondent aux numéros des rubriques des présents motifs où les dépôts particuliers sont analysés.
+[40] Pièce R-1, onglet 10, page 47.
+[41] Pièce R-1, onglet 26, pages 273 et 284.
+[42] Pièce R-1, onglet 12, page 58.
+[43] Pièce R-1, onglet 12, page 84.
+[44] Pièce R-1, onglet 21, page 131.
+[45] Pièce R-1, onglet 12, pages 58 et 83.
+[46] Transcription, page 23, lignes 24-27.
+[47] Ibid., page 52, lignes 8-20.
+[48] Ibid., page 57, lignes 12-23.
+[49] Des photocopies des itinéraires que M. Gorev a suivis lors de ses voyages en Russie figurent à la pièce R‑1, onglet 12, pages 85-86.
+[50] Transcription, page 23, lignes 22-24.
+[51] Pièce R-1, onglet 12, page 84.
+[52] Dans son témoignage, M. Gorev a déclaré que, à l’occasion, quand Mme Cherenkova déposait de l’argent dans le compte bancaire, elle obtenait de la banque une traite d’un montant identique; voir la Transcription, page 46, lignes 14-17.
+[53] Pièce R-1, onglet 12, page 93.
+[54] Pièce R-1, onglet 12, page 59.
+[55] Transcription, de la page 51, ligne 4, à la page 52, ligne 7.
+[56] Ibid., page 24, lignes 9-12; page 27, lignes 20-24; et page 52, lignes 3-20.
+[57] Ibid., page 49, lignes 3-20.
+[58] Ibid., page 15, lignes 6-10; page 16, lignes 5-8; de la page 40, ligne 20, à la page 41, ligne 4; de la page 49, ligne 21, à la page 50, ligne 19; page 74, lignes 6-15; et page 77, lignes 23-25.
+[59] Pièce R-1, onglet 12, page 97.
+[60] Transcription, page 15, lignes 6-10; page 16, lignes 5-8; de la page 40, ligne 20, à la page 41, ligne 4; de la page 49, ligne 21, à la page 50, ligne 19; page 74, lignes 6-15; et page 77, lignes 23-25.
+[61] Pièce A-1, onglet 2, page 49. Voir aussi la pièce R-1, onglet 21, page 129.
+[62] Transcription, page 27, ligne 9, à page 28, ligne 1.
+[63] Ibid., de la page 45, ligne 3, à la page 46, ligne 19.
+[64] Ibid., de la page 27, ligne 9, à la page 28, ligne 1; et de la page 46, ligne 25, à la page 47, ligne 18.
+[65] Ibid., page 47, lignes 15-18.
+[66] Pièce R-1, onglet 21, page 137.
+[67] Pour établir le tableau 8, j’ai tenu pour acquis que les paiements décrits par M. Kardachov dans le document attestant les remboursements comme ayant été faits le 15 août 2008 et le 19 août 2008 ont été réellement effectués le 15 août 2007 et le 19 août 2007. Voir le paragraphe 22 des présents motifs.
+[68] Transcription, page 17, lignes 11-13; page 18, lignes 4-7 et 18-21; page 21, lignes 2-7; page 23, lignes 22-25; page 28, lignes 2-9; et page 64, lignes 18-23.
+[69] Yunus c. La Reine, 2015 CCI 272, au par. 85; Dao c. La Reine, 2010 CCI 84, au par. 32; et MNR v. Taylor, [1961] CTC 211, à la p 214, 61 DTC 1139, à la page 1141 (C. de l’É.).
+[70] Lacroix c. Canada, 2008 CAF 241, par. 26.
+[71] Transcription, de la page 44, ligne 4, à la page 45, ligne 2; et de la page 47, ligne 19, à la page 48, ligne 5.
+[72] Décision Yunus, précitée à la note 69, par. 87.
+[73] Angus c. Canada [1998] A.C.F. no 1694, [1999] 1 CTC 60, 98 DTC 6661 (CAF), au par. 7. Voir aussi la décision Yunus, précitée à la note 69, par. 87.
+[74] Nul n’a laissé entendre que M. Gorev avait commis une omission volontaire ou une fraude en produisant ses déclarations de revenus.
+[75] Transcription, page 30, lignes 25-28; et page 32, lignes 4-27.
+[76] Décision Yunus, précitée à la note 69, par. 88; Demers c. La Reine, 2014 CCI 368, par. 66‑67; Vekkal c. La Reine, 2014 CCI 341, par. 37; Vachon c. La Reine, 2013 CCI 330, par. 65; Yazdani c. La Reine, 2012 CCI 371, par. 12; Venne c. Canada, [1984] A.C.F. no 314, CTC 223, 84 DTC 6247; Udell c. MRN, [1970] R.C. de l’É. 127 (C. de l’É.). Voir aussi Spence c. Canada (Agence du revenu), 2011 CF 426, par. 1, 6 et 13, conf. par 2012 CAF 58.
+Décision Yunus, précitée à la note 69, par. 93. Voir aussi la décision Dao, précitée à la note 69, par. 39.
+[78] Venne c. Canada, [1984] A.C.F. no 314, CTC 223, à la page 226, 84 DTC 6247, à la page 6249 (CF 1re inst).
+[79] Boileau c. MRN, 87-2128(IT), le 12 avril 1989, [1989] 2 CTC 2001, aux pages 2005-2006, 89 DTC 247, à la page 250 (CCI). Le premier des deux paragraphes reproduits ci-dessus a été cité par le juge Pelletier dans l’arrêt Lacroix, précité à la note 70, au par. 27.
+[80] Arrêt Lacroix, précité à la note 70, par. 26.
+[81] Farm Business Consultants Inc. c. Canada, [1994] A.C.I. no 760, 2 CTC 2450, à la page 2457, 95 DTC 200, aux pages 205-206 (CCI); conf. par [1996] A.C.F. no 82, 2 CTC 200, 96 DTC 6085 (CAF). Les deux premières phrases du passage qui précède, ainsi que la dernière, ont été citées par le juge Pelletier dans l’arrêt Lacroix, précité à la note 70, par. 28.
+[82] Arrêt Lacroix, précité à la note 70, par. 29. Voir aussi la décision Fourney c. La Reine, 2011 CCI 520, par. 77.
+[83] Voir l’arrêt Lacroix, précité à la note 70, par. 32. Dans la première partie de la dernière phrase de ce paragraphe, le juge Pelletier indique que, pour que ses commentaires au sujet du fardeau de preuve du ministre s’appliquent, le juge de la Cour canadienne de l’impôt doit être persuadé que le contribuable a touché un revenu qu’il n’a pas déclaré.

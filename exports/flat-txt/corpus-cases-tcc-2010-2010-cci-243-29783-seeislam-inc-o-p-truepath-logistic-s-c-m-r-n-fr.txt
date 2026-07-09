@@ -1,0 +1,125 @@
+Title: Seeislam Inc. o/p Truepath Logistic's c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29783/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-243-29783-seeislam-inc-o-p-truepath-logistic-s-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-05-04
+
+# Seeislam Inc. o/p Truepath Logistic's c. M.R.N.
+
+- Citation: 2010 CCI 243
+- Decision date: 2010-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6559, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seeislam Inc. o/p Truepath Logistic's c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-04
+Référence neutre
+2010 CCI 243
+Numéro de dossier
+2009-2877(CPP)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2009‑2877(CPP)
+ENTRE :
+SEEISLAM INC., S/N TRUEPATH LOGISTICS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 15 avril 2010, à Windsor (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Représentant de l'appelante :
+M. Zafar M. Jutt
+Avocate de l'intimé :
+Me Natasha Wallace
+________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du Régime de pensions du Canada est accueilli et la décision rendue par le ministre le 5 février 2009 est annulée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mai 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 24e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 243
+Date : 20100504
+Dossier : 2009‑2877(CPP)
+ENTRE :
+SEEISLAM INC., S/N TRUEPATH LOGISTICS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La société appelante a interjeté appel d'une évaluation des cotisations au Régime de pensions du Canada (« RPC ») relativement à des montants qu'elle a payés à MM. Mustafa Rahmani‑Kouadri et Amir Qadeer.
+[2] L'appelante était représentée par M. Jutt, l'un de ses administrateurs. Messieurs Rahmani‑Kouadri et Qadeer étaient aussi administrateurs de la société durant les périodes pertinentes. À un moment donné, le fils de M. Jutt a également été administrateur.
+[3] Monsieur Jutt a témoigné pour le compte de l'appelante. Son témoignage était clair et bien organisé. Son témoignage était également compatible avec son contre‑interrogatoire, compatible avec ses communications antérieures avec l'Agence du revenu du Canada (« ARC »), compatible avec ses documents contemporains et en général compatible avec les réponses données par écrit par MM. Rahmani‑Kouadri et Qadeer dans leurs questionnaires de l'ARC. La Cour accepte le témoignage de M. Jutt. Il n'y a eu aucun témoignage contradictoire de la part du témoin de l'intimé ni d'autres éléments de preuve pertinents contradictoires.
+[4] La seule question en litige est celle de savoir si MM. Rahmani‑Kouadri et Qadeer étaient des employés ou des camionneurs indépendants. Ni M. Rahmani‑Kouadri ni M. Qadeer n'a témoigné, mais ni l'un ni l'autre ne vit présentement à Windsor. L'un vit actuellement dans l'Ouest canadien, et l'autre au Québec.
+[5] Compte tenu des faits décrits ci-dessous et des motifs ci-après énoncés, la Cour est convaincue que ni M. Rahmani‑Kouadri ni M. Qadeer n'était un employé de la société appelante. Par conséquent, ils n'exerçaient pas un emploi ouvrant droit à pension pour les besoins du RPC, et l'appel sera accueilli. La Cour est d'avis que non seulement MM. Rahmani‑Kouadri et Qadeer étaient-ils des entrepreneurs indépendants et non des employés de l'entreprise, mais ils étaient en fait — avec M. Jutt — des coentrepreneurs à part entière et égaux sur le plan financier. En toute franchise, étant donné les faits et hypothèses énoncés dans la réponse déposée par l'intimé, je m'étonne de constater que la présente affaire a été instruite.
+[6] Il semble que les problèmes de l'appelante soient survenus parce que celle‑ci a délivré des formulaires T4A à MM. Rahmani‑Kouadri et Qadeer relativement à leur part des profits de l'entreprise. Monsieur Jutt a expliqué que ces formulaires avaient été délivrés par erreur en raison d'une mauvaise compréhension des exigences canadiennes en matière de production de déclaration, et parce qu'il croyait que certains documents étaient nécessaires pour corroborer leurs déclarations de revenus. L'entreprise était principalement une entreprise de camionnage transfrontalier entre le Michigan et l'Ontario. Dans sa réponse, l'intimé admet expressément que les formulaires T4A ont été produits par erreur.
+[7] Messieurs Jutt et Rahmani‑Kouadri ont commencé à exploiter ensemble une entreprise de transport sous la raison sociale Truepath Logistics. Ils ont fait constituer l'appelante en société à cette fin. Ils ont toujours été des partenaires égaux. Bien que M. Jutt pût conduire de plus petits camions, c'est M. Rahmani‑Kouadri qui était titulaire d'un permis AZ. Monsieur Jutt était principalement responsable de l'administration et des questions de réglementation et de conformité, en plus d'agir comme répartiteur et principal contact auprès des clients. Autrement dit, M. Jutt travaillait principalement au bureau, tandis que M. Rahmani‑Kouadri s'affairait principalement à conduire de gros camions. Plus tard au cours de l'année, M. Qadeer s'est joint à l'entreprise à titre de camionneur et de troisième partenaire égal. Au dire de M. Jutt, les trois exploitaient leur entreprise au sein de la société à la manière d'une société de personnes. Un avocat pourrait qualifier la structure commerciale de coentreprise. La société louait les locaux et les camions. Elle a obtenu les licences et permis nécessaires. Elle a pris des dispositions pour obtenir une carte de crédit pour la société, et des cartes ont été émises à chacun de MM. Jutt, Rahmani‑Kouadri et Qadeer. Ils ont tous les trois aidé à financer l'entreprise au moyen de leur crédit personnel alors que l'entreprise était en déclin, lors de la montée des coûts du carburant diesel. Chacun d'eux travaillait sur demande, en tout temps, selon les besoins des clients et la disponibilité du travail. L'entreprise a embauché deux autres employés pendant cette période. Les employés n'ont pas fourni de financement à l'entreprise et n'ont pas reçu de carte de crédit de la société.
+[8] En contre-interrogatoire, M. Jutt a clairement indiqué qu'à l'époque, ils avaient tous l'intention de ne pas être des employés, mais bien des entrepreneurs indépendants et des partenaires égaux. Au départ, MM. Jutt et Rahmani‑Kouadri avaient chacun droit à la moitié des profits nets de l'entreprise. Lorsque M. Qadeer s'est joint à l'entreprise au milieu de l'année, MM. Jutt et Rahmani‑Kouadri ont calculé un partage 50:50; par la suite, les trois coentrepreneurs se sont partagé les profits nets en tiers égaux. Pendant l'année, des avances étaient faites régulièrement en fonction d'un pourcentage des recettes brutes, et ces avances étaient comptabilisées lorsque les profits nets étaient calculés et répartis à la fin de l'exercice. Les employés n'avaient droit à aucune part des profits et ne touchaient qu'un pourcentage des frais exigés à l'égard des chargements qu'ils transportaient.
+[9] Messieurs Rahmani‑Kouadri, Qadeer et Jutt assumaient chacun la totalité des risques de perte et des possibilités de profit au sein de l'entreprise. Ils les assumaient à parts égales, sauf dans la mesure où les montants prêtés par chacun d'eux à la société — lorsque celle‑ci a connu des difficultés financières — étaient différents, en raison de leurs différentes capacités de crédit.
+[10] À la fin de son exercice, la situation financière de la société était presque nulle, puisque le revenu net a été versé aux trois coentrepreneurs. L'état des résultats pour la période pertinente indique une perte de 300 $ pour des recettes brutes de plus de 250 000 $ et indique que presque 100 000 $ ont été versés à MM. Jutt, Rahmani‑Kouadri et Qadeer. Ces montants sont inscrits à titre de montants payables aux [TRADUCTION] « Gens de métier et sous‑traitants », tandis que les montants payés aux employés sont inscrits sous la rubrique [TRADUCTION] « Salaires et traitements ».
+[11] Toutes les actions de l'appelante appartenaient à M. Jutt. Celui‑ci a expliqué qu'il s'agissait probablement d'une erreur. Dans les circonstances, cela n'est pas particulièrement pertinent, puisque la société n'aurait jamais conservé des bénéfices, qu'elle distribuait intégralement aux trois responsables.
+[12] En sus de la preuve résumée ci‑dessus, il convient de souligner que la réponse de l'intimé contient notamment les hypothèses de fait suivantes :
+(i) MM. Jutt, Rahmani‑Kouadri et Qadeer dirigeaient les activités quotidiennes de l'appelante;
+(ii) MM. Rahmani‑Kouadri et Qadeer étaient chargés de trouver des chargements et d'estimer les coûts, en plus de leurs responsabilités de camionneurs;
+(iii) MM. Rahmani‑Kouadri et Qadeer n'étaient pas directement supervisés par l'appelante;
+(iv) MM. Rahmani‑Kouadri et Qadeer n'ont pas reçu de directives ou d'instructions écrites ou orales sur la façon d'accomplir leur travail, ni de formation de la part de l'appelante ou d'instructions sur l'utilisation des outils, du matériel ou des matériaux nécessaires à la prestation de leurs services.
+Ces hypothèses n'ont pas été contredites par la preuve présentée au procès et sont en fait compatibles avec cette preuve.
+I. Le droit
+[13] Les critères servant à distinguer un contrat de louage de services et un employé d'un contrat d'entreprise et d'un entrepreneur indépendant sont bien établis. Pour décider si une personne est un employé par opposition à un entrepreneur indépendant pour l'application des définitions d'emploi ouvrant droit à pension et d'emploi assurable, il faut se demander si elle exploite réellement une entreprise pour son propre compte. Cette question a été énoncée par les tribunaux britanniques dans la décision Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Banc de la Reine). Elle a été approuvée par la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, pour l'application des définitions canadiennes d'emploi assurable et d'emploi ouvrant droit à pension, et adoptée par la Cour suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983. Ce point doit être tranché à la lumière de toutes les circonstances pertinentes et d'un certain nombre de critères ou de lignes directrices utiles, notamment : 1) l'intention des parties; 2) le degré de direction exercé sur le travail; 3) la propriété des instruments de travail; 4) la possibilité de profit et le risque de perte; 5) ce qu'on a appelé le critère d'intégration à l'entreprise, le critère de l'organisation ou le critère de l'entreprise. Il n'existe aucune manière préétablie d'appliquer les facteurs pertinents, et leur importance relative et leur pertinence dépendront des faits particuliers et des circonstances de chaque affaire.
+[14] Dans l'arrêt Le Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour d'appel fédérale souligne l'importance particulière des critères relatifs à l'intention des parties et à la direction pour répondre à ces questions. Cette approche est compatible avec les décisions ultérieures rendues par la Cour d'appel fédérale dans des arrêts comme Équipe de ski capitale nationale Outaouais c. Canada (Ministre du Revenu national), 2008 CAF 132, Combined Insurance Company of America c. Canada (Ministre du Revenu national), 2007 CAF 60, et City Water International Inc. c. La Reine, 2006 CAF 350. Les motifs de notre Cour dans la décision Vida Wellness Corporation, s/n Vida Wellness Spa c. M.R.N., 2006 CCI 534, fournissent également un résumé utile de l'importance de l'arrêt Le Royal Winnipeg Ballet.
+II. Analyse
+[15] En règle générale, les responsables ou coentrepreneurs d'une entreprise constituée en société sont en mesure de choisir la façon dont les profits de l'entreprise doivent être répartis. Dans le cas d'entreprises gérées par leurs propriétaires, ils choisissent couramment entre un salaire et des dividendes. Souvent, ils sont également libres de choisir entre un contrat d'emploi et le statut d'entrepreneur indépendant autonome, compte tenu des considérations relatives à l'intention, à la direction et aux chances de profit et de perte[1]. Les camionneurs sont souvent des employés et sont souvent des entrepreneurs indépendants.
+[16] La preuve est claire et non contredite : dès le départ, MM. Rahmani‑Kouadri et Qadeer avaient l'intention de ne pas être des employés. Aucune exigence réglementaire n'interdisait un tel arrangement. À l'exception de la délivrance des relevés T4A qui, comme en conviennent les parties au litige, a été faite par erreur, la conduite des parties a toujours été compatible avec une telle intention.
+[17] Le témoin de l'ARC a précisé qu'en 2007, MM. Rahmani‑Kouadri et Qadeer ont tous les deux déclaré leur part du revenu sous la rubrique « Autres revenus d'emploi » dans leurs déclarations de revenus. Ces déclarations seraient compatibles avec les relevés T4A délivrés par erreur. Elle a ajouté que ni l'un ni l'autre n'avait demandé une déduction pour des éléments tels que l'utilisation d'un véhicule personnel à des fins commerciales. L'omission de cette déduction possible n'est pas particulièrement pertinente, étant donné que la plupart de leurs dépenses étaient inscrites au sein de la société.
+[18] Dans son témoignage, M. Jutt a indiqué qu'il connaissait bien la déclaration de revenus de 2008 de M. Qadeer. Puisque M. Qadeer était son cousin germain, il avait pris des dispositions pour qu'un comptable prépare les deux déclarations. Une fois la déclaration de revenus préparée, M. Jutt l'a examinée et l'a envoyée à M. Qadeer. Selon le témoignage de M. Jutt, M. Qadeer a déduit des frais d'automobile et des frais de repas dans sa déclaration de revenus de 2008. Le témoin de l'ARC n'avait aucun renseignement sur la déclaration de revenus de 2008, puisque l'appel ne visait que l'année 2007.
+[19] Un examen des intentions des parties tend pleinement à établir l'existence d'un statut d'entrepreneur indépendant.
+[20] Dans son témoignage, M. Jutt a clairement indiqué que les responsables et coentrepreneurs dirigeaient ensemble l'entreprise, et qu'il n'avait aucun contrôle sur le travail de ses partenaires. Dans sa réponse, la Couronne a énoncé des hypothèses compatibles avec cette partie du témoignage. Ni la société ni M. Jutt pour le compte de celle-ci n'ont exercé sur le travail de MM. Rahmani‑Kouadri et Qadeer le contrôle auquel on pourrait s'attendre de la part d'un employeur à l'égard du travail de ses employés.
+[21] Messieurs Rahmani‑Kouadri et Qadeer ont pleinement pris part aux succès et aux revers de l'entreprise de camionnage. En tant que partenaires financiers égaux de l'entreprise, on pourrait dire qu'ils ont participé plus que toute autre personne aux activités de l'entreprise. De plus, ils ont consenti un financement à la société, ce que ne font habituellement pas des employés.
+[22] Les camions et le matériel appartenaient tous à la société appelante. Pour une raison quelconque, MM. Rahmani‑Kouadri et Qadeer n'avaient pas d'actions de la société; cependant, vu le partage égal des profits nets, ils étaient propriétaires de l'entreprise et assumaient à parts égales les dépenses liées à l'acquisition, au financement, à l'entretien, à l'assurance et au carburant des camions. Une telle situation serait également inhabituelle pour des employés.
+[23] Pour résumer, MM. Rahmani‑Kouadri et Qadeer sont tous les deux des propriétaires d'entreprise qui n'ont pas choisi d'être des employés. L'appel est accueilli.
+Signé à Ottawa, Canada, ce 4e jour de mai 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 24e jour de juin 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 243
+NO DU DOSSIER DE LA COUR : 2009‑2877(CPP)
+INTITULÉ : SEEISLAM INC., S/N TRUEPATH LOGISTICS c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L'AUDIENCE : Windsor (Ontario)
+DATE DE L'AUDIENCE : Le 15 avril 2010
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 4 mai 2010
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Zafar M. Jutt
+Avocate de l'intimé :
+Me Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour une analyse un peu plus longue de la question de savoir si les propriétaires-gestionnaires sont des employés ou des entrepreneurs indépendants, sur la pertinence de l'intention et de la direction dans un tel cas, ainsi que sur la confusion inhérente à l'emploi du terme « autonome », voir New Age Transport Inc. c. M.R.N., 2008 CCI 146, aux paragraphes 19 et 20.

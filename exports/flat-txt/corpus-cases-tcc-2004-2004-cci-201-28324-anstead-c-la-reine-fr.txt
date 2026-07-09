@@ -1,0 +1,97 @@
+Title: Anstead c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28324/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-201-28324-anstead-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-04-02
+
+# Anstead c. La Reine
+
+- Citation: 2004 CCI 201
+- Decision date: 2004-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1843, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anstead c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-02
+Référence neutre
+2004 CCI 201
+Numéro de dossier
+2002-4932(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI201
+Dossier : 2000‑4932(IT)I
+Date : 2004-04-02
+ENTRE :
+KEITH ANSTEAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Regina (Saskatchewan), le 27 février 2004.)
+Le juge Margeson
+[1] La Cour est saisie de la décision et des motifs du jugement rendus dans l’affaire de Keith Anstead contre Sa Majesté la Reine, no 2002‑4932(IT)I.
+[2] Lorsqu’il a calculé son revenu pour l’année d’imposition 2000, l’appelant a déduit 45 000 $ à titre de pension alimentaire. Lorsque le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelant pour cette année, il n’a autorisé qu’une déduction de 28 800 $ en matière de pension alimentaire. L’appelant a déposé une opposition, mais la cotisation a été ratifiée par un Avis de ratification daté du 19 septembre 2002. L’appelant a déposé un Avis d’appel de cette ratification devant la Cour.
+La preuve
+[3] Keith Anstead a témoigné que Sylvia Clara Anstead et lui‑même étaient divorcés et qu’un jugement avait été accordé le 30 avril 1997. Ce jugement l’obligeait à verser des aliments s’élevant à 800 $ par mois par enfant, et à 1 350 $ par mois pour l’entretien de son ex‑épouse. Il n’était tenu de verser les paiements destinés à son ex‑épouse que, au plus tard, soit pendant une période de 24 mois, soit jusqu’au moment où cette dernière se remarierait ou s’engagerait dans une union de fait.
+[4] L’ordonnance prescrit aussi l’ajout des aliments versés au bénéfice de l’épouse et des enfants au revenu de Sylvia Clara Anstead et leur déductibilité par l’appelant. Le premier de ces versements devait être effectué le 1er mai 1997, pour un montant de 675 $, être suivi d’un paiement identique le 15e jour de mai, et ainsi de suite chaque premier et quinzième du mois.
+[5] L’ex‑épouse de l’appelant a demandé que ses aliments soient prorogés après la période prévue dans le jugement, jusqu’à la fin de l’année 2000. Les parties sont convenues sur ce point et l’avocat de l’ex‑épouse a accepté la prorogation de la modalité prévoyant l’ajout des versements au revenu de l’ex‑épouse et leur déduction par l’appelant.
+[6] Une ordonnance un peu tardive a été rendue à ces fins le 18 juin 2002 modifiant l’ordonnance initiale rendue le 30 avril 1997. Elle prévoit une prorogation de 15 mois en ce qui concerne uniquement les aliments versés à l’ex‑épouse. Pour le calcul de l’impôt sur le revenu, l’appelant était en droit de déduire ces montants de son revenu et son ex‑épouse était tenue de les déclarer. L’ordonnance prévoyait que le premier versement serait effectué le 1er jour de mai 1999 puis le second le 15e jour de mai 1999, puis chaque premier et quinzième suivant durant une période de 15 mois.
+[7] L’ex‑épouse de l’appelant a reçu une nouvelle cotisation d’impôt dans le cadre de l’année d’imposition 2000 et les paiements de pension alimentaire de 37 500 $ qu’elle a reçus ont été ajoutés à son revenu (voir pièce A‑4), en qualité de paiements de pension alimentaire supplémentaires. Il a été signalé que ces ajustements étaient apportés dans le cadre de sa déclaration précédant son dépôt de bilan. L’appelant a indiqué qu’il avait versé effectivement à son ex‑épouse un montant supérieur à celui qu’il demandait comme déduction.
+[8] L’appelant a produit sa déclaration de revenus de l’année 2000 et demandé une déduction de 45 000 $. Le 24 septembre 2001, il a reçu une lettre l’informant que sa déclaration faisait l’objet d’une examen et on lui a demandé d’envoyer des justificatifs supplémentaires pour étayer sa demande de déduction de 45 000 $, notamment une ordonnance modifiant l’ordonnance datée du 30 avril 1997. On lui a donné un délai de 30 jours pour produire les pièces, après quoi la déclaration serait cotisée sur le fondement des justificatifs en possession du ministre.
+[9] L’appelant a répondu le 6 novembre 2001 en envoyant des photocopies de tous les chèques –les chèques oblitérés– prouvant ses prétendus paiements de 45 000 $ (s’élevant à une somme supérieure à ce montant).
+[10] Le 21 novembre 2001, l’appelant a reçu une lettre l’informant qu’il n’avait le droit de déduire que les 28 800 $ de versements pour le soutien des enfants parce qu’il n’était plus tenu de verser de paiements de pension alimentaire à son ex‑épouse. Cependant, on l’a informé que s’il recevait la deuxième ordonnance, alors on réexaminerait sa déclaration.
+[11] Le 3 décembre, on lui a envoyé par la poste, sous pli séparé, un Avis de cotisation qui a été présenté en preuve comme pièce A‑9. Il a dit qu’il ne pouvait pas le comprendre et il a demandé des explications qui lui ont été envoyées. La lettre expliquant les détails était datée du 25 janvier 2002 et, selon l’appelant, n’y figurait que la somme de 28 000 $ comme montant qu’il était autorisé à demander. Ils lui ont dit qu’ils rejetaient toute déduction en matière de pension alimentaire supérieure à 28 800 $.
+[12] Il a alors déposé une opposition à l’encontre de la cotisation. Dans son opposition, il a signalé que son ex‑épouse avait ajouté à son revenu la somme de 16 200 $ qui fait l’objet de l’opposition.
+[13] Au moyen d’une lettre datée du 13 mai 2002, l’agent des appels lui a demandé à nouveau d’envoyer une copie de l’ordonnance modifiée avant le 15 juin 2002, ainsi que toute autre documentation que l’appelant estimerait nécessaire.
+[14] Le 19 septembre 2002, le ministre a émis à l’appelant un Avis de ratification rejetant la déduction demandée et expliquant les raisons du rejet.
+[15] Lors de son contre‑interrogatoire, l’appelant a admis qu’il n’a obtenu que le 18 juin 2002 la nouvelle ordonnance prorogeant la validité des dispositions de l’ordonnance du 30 avril 1997.
+[16] Lors de son réinterrogatoire, il a déposé que son ex‑épouse avait accepté l’émission de la nouvelle ordonnance du 18 juin 2002 et il a reçu copie de la déclaration de revenus de son épouse pour l’année 2000 deux jours avant le début de l’audience.
+[17] En répondant aux questions de la Cour, il a dit avoir appris le dépôt de bilan de son ex‑épouse et qu’il était assuré qu’elle avait ajouté à son revenu la somme dont il demande ici la déduction.
+[18] Doug Spencer était le chef des appels et l’avocat de l’appelant a reçu l'autorisation de le contre‑interroger. Il a dit qu’il n’était pas au courant de la déclaration de l’ex‑épouse de l’appelant.
+Les arguments de l’appelant
+[19] L’avocat de l’appelant a fait valoir que l’un des principes les plus importants de la Loi de l’impôt sur le revenu (« Loi ») est qu’il ne peut y avoir de double imposition. Il a fait référence au paragraphe 248(28) et il a soutenu que la preuve en l’espèce démontrait que l’ex‑épouse de l’appelant avait fait l’objet d’une nouvelle cotisation et la somme que l’appelant cherchait à déduire avait déjà été ajoutée au revenu de celle‑ci pour l’année en cause. Par conséquent, la cotisation à l’égard de son client devait être annulée.
+[20] Il a fait valoir que Revenu Canada a renoncé à son droit d’invoquer les dispositions des paragraphes 60.1(3) et 56.13 [sic] et de l’alinéa 60b) de la Loi. Ces dispositions interdisent au contribuable de demander une déduction plus d’un an après la date de l’ordonnance. En 2001, son client n’a pas reçu un avis suffisant pour lui permettre d’obtenir l’ordonnance nécessaire pour l’année 2000. Voilà la raison qu’il a donnée à la Cour pour que le ministre ne soit pas autorisé à refuser la déduction.
+[21] Il a soutenu que l’ex‑épouse n’a accepté de signer l’ordonnance du tribunal qu’en 2002. Le ministre n’a pas établi une cotisation à l’égard de l’appelant conformément au paragraphe 152(1) de la Loi. Par conséquent, l’appelant n’a pas eu assez de temps pour réagir et obtenir l’ordonnance requise pour l’année d’imposition 2000. Cela ne lui a pas paru juste. Il a signalé que l’appelant s’est comporté constamment de manière honorable, qu’il a payé ses impôts et qu’il a été traité injustement.
+[22] Fondamentalement, l’avocat de l’appelant a admis que, sauf exception de l’injustice invoquée par l’appelant et de son interprétation du paragraphe 248(28), les dispositions du paragraphe 60.1(3) et de l’alinéa 60b) interdissent à l’appelant de demander ces déductions et que le ministre a raison de prétendre que l’appelant ne peut demander de déduction rétroactivement plus d’un an avant l’ordonnance. Il a fait valoir en outre que l’article 60 n’a pas priorité sur le paragraphe 248(28). L’appel doit être accueilli.
+Les arguments de l’intimée
+[23] Selon l’avocat de l’intimée, la preuve n’appuie pas la prétention que le ministre a agi irrégulièrement. Il a toujours agi avec toute la diligence raisonnable conformément à la Loi. Ce n’est pas la faute du ministre si l’appelant a choisi de ne pas agir à temps et de ne pas obtenir l’ordonnance à temps. Le ministre a fait plus que ce qu’il était tenu de faire. Il n’avait pas l’obligation d’informer l’appelant qu’il avait besoin d’une nouvelle ordonnance, il l’informait simplement que l’ancienne ordonnance ne couvrait pas ces paiements.
+[24] En ce qui concerne l’argument qui fait appel au paragraphe 248(28), il n’y a pas eu de double imposition en l’espèce. Et même si tel était le cas, alors l’épouse de l’appelant disposerait d'une voie de recours pour demander un redressement.
+[25] Ce n’est pas un cas de double imposition. Le paragraphe 248(28) porte sur un montant qui se trouve dans les mains d’une personne, pour l’exclure dans les mains d’une autre. Voilà la portée du paragraphe 248(28). Le ministre n’a pas commis d’erreur lorsqu’il a appliqué la loi au cas de l’appelant. Si cela a été le cas envers l’épouse de l’appelant, elle doit le prouver dans le cadre d’une autre instance.
+[26] Le ministre a appliqué régulièrement à l’appelant les dispositions du paragraphe 60.1(3), de l’article 60.1 et de l’alinéa 60b). L’appel doit être rejeté.
+Réfutation de l’avocat de l’appelant
+[27] Pour réfuter cet argument, l’avocat de l’appelant a fait valoir que le ministre n’a jamais informé l’appelant qu’il devait obtenir une ordonnance avant la fin de 2001. Dans la lettre datée du 13 mai 2002 envoyée par le ministre à l’appelant, pièce A‑12, le ministre a suggéré, selon lui, qu’il avait jusqu’au 15 juin 2002 pour obtenir l’ordonnance. Il a suggéré qu’en équité le ministre devait informer l’appelant qu’il y avait prescription, particulièrement en raison de cette lettre et de l’interprétation raisonnable que l’appelant aurait pu lui attribuer. Les principes de justice fondamentale sont applicables aux actes du ministre afin d’empêcher ce dernier de rejeter la déduction après avoir induit l’appelant en erreur. Il a invoqué l’article 7 de la Charte des droits et libertés (« Charte ») et il a suggéré que l’appelant avait fait l’objet d’une violation des principes de justice fondamentale.
+Analyse et décision
+[28] Fondamentalement, les faits en l’espèce n’ont pas été contestés. Il est évident d’après le paragraphe 60.1(3) que l’appelant ne peut demander la déduction que si les montants ont été versés « au cours de l’année ou de l’année d’imposition précédente ». L’année d’imposition en cause est l’année 2000 et l’ordonnance n’a été obtenue que le 18 juin 2002.
+[29] La preuve est claire : l’appelant n’a pas sollicité et n’a pas reçu d’ordonnance avant la fin de l’année d’imposition 2001. Pendant sa plaidoirie, l’avocat de l’appelant a déclaré que l’ex‑épouse de l’appelant n’avait pas accepté les termes de l’ordonnance avant le 18 juin 2002.
+[30] La Cour est convaincue que le ministre avait raison de conclure que les montants en cause, prétendument versés au cours de l’année 2000 en vertu de l’ordonnance du 18 juin 2002, ne peuvent être considérés comme versés, ni reçus en vertu de ladite ordonnance et que, par conséquent, ils ne sont pas déductibles en vertu de l’alinéa 60b) de la Loi.
+[31] En ce qui concerne la violation de justice fondamentale ou de l’article 7 de la Charte, la Cour estime que l’appelant n’a pas fait l’objet d’une violation des principes de justice fondamentale, ni été traité injustement par le ministre.
+[32] La Cour est convaincue que le ministre fait preuve de diligence raisonnable et a agi avec promptitude en établissant une cotisation à l’égard du contribuable et en informant ce dernier que sa demande de déduction des paiements de pension alimentaire faisait l’objet d’un nouvel examen. Cet avis lui a été transmis le 24 septembre. L’appelant n’avait produit sa déclaration de revenus que le 12 juin 2001. Ce n’est que le 6 novembre 2001 que l’appelant a répondu à la demande de précisions et d’une copie de l’ordonnance modifiée. Il ne l’a pas jointe aux documents car il ne l’avait pas encore obtenue.
+[33] Les délais subséquents ne découlent pas des actions du ministre, mais des actions de l’appelant lui‑même qui était évidemment en train d’essayer d’obtenir l’ordonnance requise. Ce n’est pas la faute du ministre mais la sienne, ou celle de ses conseillers juridique et comptable s’il n’a pas obtenu l’ordonnance à temps et, évidemment, dû au fait que son ex‑épouse n’était pas disposée à consentir à l’ordonnance jusqu’à une date ultérieure.
+[34] Comme l’avocat de l’intimée l’a fait remarquer, l’appelant ne peut pas prétendre avoir présumé raisonnablement que la lettre du ministre datée du 13 mai 2002 était un engagement de la part du ministre que, s’il obtenait l’ordonnance avant le 15 juin 2002, sa demande serait acceptée. Cette lettre ne représentait qu’un engagement de la part du ministre de ne prendre aucune mesure dans le cadre de l’opposition, jusqu’au 15 juin 2002. Cependant même à cette date, il était déjà trop tard.
+[35] Le ministre n’avait pas l’obligation d’informer l’appelant au‑delà de l’avis qu’il a envoyé à l’appelant vers la fin de l’année 2001 pour lui indiquer que sa déclaration de l’année 2000 faisait l’objet d’un nouvel examen et pour lui demander une nouvelle ordonnance. Quelles que soient les questions que l’appelant ait pu se poser en ce qui concerne la signification de la nouvelle cotisation, il importe de noter que celles‑ci ne sont arrivées que vers la fin de l’année 2002, alors qu’il était déjà trop tard pour obtenir l’ordonnance requise. Par conséquent, l’argument de l’appelant concernant une violation des principes d’équité et de la Charte est rejeté.
+[36] Quant à l’argument prétendant qu’il y a eu double imposition en vertu du paragraphe 248(28) de la Loi¸ la Cour est convaincue que ce paragraphe et le paragraphe 60.1(3) sont des dispositions autonomes. Le paragraphe 248(28) interdit la double imposition, mais il ne saurait prévaloir sur les dispositions du paragraphe 60.1(3) qui interdisent la demande de déductions si l’appelant ne s’est pas conformé à ses dispositions.
+[37] Le paragraphe 248(28) ne peut donner à un contribuable droit à des déductions qui sont interdites par d’autres dispositions de la Loi. Il s’agit, tout au plus, d’une disposition de redressement permettant à l’une des parties, en l’espèce l’ex‑épouse de l’appelant, qui n’est frappée d’aucune interdiction en la matière, de faire valoir que son ex‑époux a déjà payé des impôts pour la somme en cause, parce qu’ils ne lui ont pas permis de la déduire de son revenu. Par conséquent, elle peut faire valoir qu’elle n’est pas tenue de déclarer la somme dans son revenu et elle sera en droit de soustraire la somme de son revenu. Cette voie de recours est à sa disposition et donc il n’y a pas de double imposition. Il ne s’agit pas d’une déduction, il s’agit simplement d’un montant dont l’inclusion dans son revenu n’est pas nécessaire.
+[38] Cette disposition n’a jamais eu pour but de permettre au contribuable de choisir le bénéficiaire du recours, ce qui contreviendrait à l’objectif de la Loi.
+[39] Cela voudrait dire qu’en l’espèce, l’appelant pourrait demander la déduction même si la Loi lui interdisait de le faire.
+[40] La Cour n’est saisie d’aucune preuve que l’épouse de l’appelant a demandé un redressement sur le fondement du paragraphe 248(28), mais ce recours est vraisemblablement à sa disposition si elle dépose une demande au ministre en vertu de la Loi ou en vertu du dossier d’équité.
+[41] L’appel est rejeté et la cotisation du ministre est ratifiée.
+Signé à Ottawa, Canada, ce 2e jour d’avril 2004.
+Juge Margeson
+Traduction certifiée conforme
+ce 17e jour d’août 2004.
+Ingrid B. Miranda, traductrice

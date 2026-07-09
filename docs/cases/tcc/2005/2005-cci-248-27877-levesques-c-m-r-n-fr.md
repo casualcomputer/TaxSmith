@@ -1,0 +1,203 @@
+---
+title: "Levesques c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27877/index.do"
+last_modified: "2005-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 248"
+citation2: ""
+neutral_citation: "2005 CCI 248"
+decision_date: "2005-04-18"
+language: "fr"
+item_id: "27877"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 686
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:00:08.027000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f489ded653788df5addc1918376da235d130e4cef450a500955e1974db473f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Levesques c. M.R.N.
+
+- Citation: 2005 CCI 248
+- Decision date: 2005-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 686, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levesques c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-18
+Référence neutre
+2005 CCI 248
+Numéro de dossier
+2004-4444(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4444(EI)
+ENTRE :
+JACQUES LÉVESQUE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+NICOLE ST-JULES,
+intervenante.
+____________________________________________________________________
+Appel entendu le 30 mars 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Pour l'intevenante :
+Me Nathalie Labbé
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est accueilli, au motif que la travailleuse, madame Nicole St‑Jules, n'a pas exercé un emploi assurable au service de l'appelant, Jacques Lévesque, au cours de la période du 4 septembre 2000 au 14 mai 2004, et la décision rendue par le ministre du Revenu national est annulée.
+Signé à Ottawa, Canada, ce 18e jour d'avril 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI248
+Date : 20050418
+Dossier : 2004-4444(EI)
+ENTRE :
+JACQUES LÉVESQUE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+NICOLE ST-JULES,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « ministre ») selon laquelle madame Nicole St-Jules a exercé un emploi assurable au service de l'appelant du 4 septembre 2000 au 14 mai 2004.
+[2] Pour déterminer que la travailleuse exerçait pour l'appelant un emploi en vertu d'un contrat de louage de services, le ministre s'est appuyé sur les hypothèses de fait énoncées aux alinéas a) à r) du paragraphe 5 de la Réponse à l'avis d'appel. Ces alinéas se lisent :
+a) l'appelant était chauffeur d'autobus à la Commission de transport de Montréal
+b) l'épouse de l'appelant est décédée en 1999;
+c) l'appelant a deux jeunes enfants, Josiane, née en 1991 et Laurence née en 1995;
+d) la travailleuse a été engagée comme gardienne d'enfants;
+e) durant la période en litige, la travailleuse rendait ses services au domicile de l'appelant;
+f) les tâches de la travailleuse consistaient à garder les enfants, à s'occuper d'eux à leur retour d'école, à préparer le repas et à faire l'entretien de la maison;
+g) la travailleuse rendait des services à l'appelant de 4 à 5 jours par semaine;
+h) la travailleuse travaillait généralement du lundi au jeudi, mais les jours de travail de la travailleuse pouvaient varier selon les jours de travail de l'appelant;
+i) les heures de travail de la travailleuse étaient de 10h30-11h à 17h‑17h30;
+j) la travailleuse rendait des services à l'appelant pendant environ 32 heures par semaine à l'appelant;
+k) la travailleuse était rémunérée 40 $ par jour de travail;
+l) la travailleuse était payée par chèque à chaque semaine;
+m) la travailleuse devait avertir l'appelant en cas d'absence;
+n) en cas d'absence, la travailleuse n'était pas responsable de trouver une remplaçante;
+o) dans l'exécution de ses tâches, la travailleuse se servait des biens et équipements appartenant à l'appelant;
+p) la travailleuse n'avait aucune dépense à encourir dans l'exercice de ses fonctions;
+q) il n'existait aucune possibilité de perte financière pour la travailleuse;
+r) les tâches de la travailleuse correspondaient aux besoins de l'appelant.
+[3] Les alinéas f), h), i), j) et r) sont niés. Les alinéas g), m) et p) ont fait l'objet d'explications de la part de l'appelant.
+[4] L'appelant et madame Nicole St-Jules ont témoigné.
+[5] L'appelant a affirmé qu'il ne s'est jamais considéré comme employeur et que madame St-Jules s'est présentée comme une travailleuse autonome. L'appelant a expliqué qu'après le décès de son épouse, il devait faire garder ses enfants. Ayant confiance en madame St-Jules, il l'a engagée essentiellement pour garder les enfants, superviser les devoirs et les leçons, préparer les repas et faire manger les enfants. L'appelant a mentionné que sa mère était aussi fréquemment à la maison pendant les repas.
+[6] Comme madame St-Jules n'était pas toujours disponible, notamment parce qu'au début elle travaillait ailleurs un vendredi sur deux, l'appelant a expliqué qu'il faisait alors appel à la garderie scolaire ou à sa mère. Il a également affirmé avoir lui-même changé ses horaires de travail une année afin de s'ajuster aux disponibilités et aux horaires de madame St-Jules.
+[7] L'appelant a confirmé qu'il payait madame St-Jules un montant fixe de 40 $ par jour, mais que celle-ci devait défrayer le prix de son transport par autobus.
+[8] La pièce A-1 est un document indiquant les sommes payées à madame St‑Jules pour chaque semaine de la période en litige. Comme la rémunération convenue était de 40 $ par jour, on peut facilement déterminer le nombre de jours de travail chaque semaine. Ce nombre varie généralement de deux à cinq jours, mais est plus fréquemment de trois à cinq jours par semaine. Toutefois, l'appelant a expliqué que madame St-Jules n'avait pas travaillé de la mi‑juin à la mi‑août 2001 et de la mi‑décembre 2001 au début du mois de janvier 2002. Malgré ces périodes d'absence, l'appelant a indiqué que madame St-Jules avait travaillé 56 jours en 2000 (du 4 septembre au 31 décembre), 146 jours en 2001, 271 jours en 2002, 187 jours en 2003 et 75 jours en 2004 (du 1er janvier au 14 mai).
+[9] Lors du contre-interrogatoire, l'appelant a indiqué que madame St‑Jules devait garder les enfants chez lui, qu'elle ne pouvait garder d'autres enfants, qu'elle l'informait ou l'avisait si elle prévoyait faire des activités à l'extérieur de la maison avec les enfants et qu'elle lui rendait compte après chaque journée de travail.
+[10] Dans son témoignage, madame St-Jules a affirmé que son horaire était flexible et qu'elle arrivait généralement chez l'appelant vers 10 heures et demie ou 11 heures et repartait vers 17 heures et demie ou 18 heures. Elle a dit qu'au début, lorsque l'appelant travaillait le soir, elle finissait vers 20 heures. Madame St-Jules a aussi expliqué qu'elle n'avait pas toujours été disponible, soit en raison de problèmes de santé, soit à cause de rendez-vous chez le médecin ou pour subir des examens médicaux.
+[11] Quant à ses fonctions, madame St-Jules a mentionné qu'elle allait chercher la plus jeune des deux enfants à l'école, qu'elle s'occupait d'elles et leur montrait leurs leçons. Elle a aussi dit qu'elle pouvait sortir avec les enfants et les emmener au parc. Elle a affirmé qu'elle faisait rapport à l'appelant comme toute bonne gardienne.
+[12] Madame St-Jules a confirmé qu'elle ne pouvait garder d'autres enfants ou se faire remplacer.
+[13] L'appelant soutient que madame St-Jules était une travailleuse autonome, qu'elle s'était présentée comme telle, qu'elle pouvait avoir d'autres activités et travailler ailleurs. Lorsqu'elle n'était pas disponible, madame St-Jules l'avisait tout simplement et il s'organisait autrement pour faire garder les enfants. Selon lui, elle n'avait pas de permission à lui demander à cet égard, et c'était plutôt lui qui devait s'ajuster selon les disponibilités de madame St-Jules.
+[14] L'appelant reconnaît qu'il demandait un compte rendu à madame St-Jules et que celle-ci le lui donnait, comme toute bonne gardienne, mais qu'elle était par ailleurs libre lorsqu'elle gardait les enfants.
+[15] L'avocate de l'intimé soutient que madame St-Jules exécutait ses tâches chez l'appelant en vertu d'un contrat de louage de services. Elle souligne plus particulièrement le pouvoir de contrôle et le contrôle exercé par l'appelant quant à l'exécution de ses tâches. L'avocate de l'intimé signale également que madame St-Jules ne pouvait se faire remplacer, qu'elle devait informer l'appelant si elle n'était pas disponible et qu'elle devait lui rendre compte de ce qu'elle avait fait.
+[16] Elle rappelle que madame St-Jules gardait les enfants de façon régulière au domicile de l'appelant sans avoir quoi que ce soit à fournir, et ce, pour un salaire fixe de 40 $ par jour et sans autre dépense que ses frais de transport.
+[17] L'avocate de l'intimé s'appuie sur les décisions dans les affaires Mohr c. Canada (ministre du Revenu national – M.R.N.), C.C.I., no 97-481(UI), 24 octobre 1997, [1997] A.C.I. no 1252 (Q.L.), Mayer c. Canada (ministre du Revenu national – M.R.N.), C.C.I., no 2004-286(EI), 21 janvier 2005, [2005] A.C.I. no 34 (Q.L.), et Wells c. Canada (ministre du Revenu national – M.R.N.), C.C.I., no 86-607(UI), 30 juin 1987, [1987] A.C.I. no 640 (Q.L.), pour conclure que les tâches de madame St‑Jules étaient exercées en vertu d'un contrat de louage de services. Dans ces trois décisions, le pouvoir de contrôle que pouvait exercer le payeur, notamment par l'entremise des enfants, semble bien avoir été un élément déterminant.
+[18] L'avocate de l'intimé s'est également référée à plusieurs décisions dans lesquelles il a été décidé que des services de garde d'enfants n'étaient pas exécutés en vertu d'un contrat de louage de services. Il s'agit des décisions dans les affaires Ferme Gendroline Enr. v. M.N.R., C.C.I., no 87‑169(UI), 27 octobre 1987, [1987] T.C.J. No. 910 (Q.L.), Hastie v. M.R.N., C.C.I., no 1999‑3173(EI), 9 décembre 1999, [1999] T.C.J. No. 864 (Q.L.), Blouin-Poirier c. Canada (ministre du Revenu national – M.R.N.), C.C.I., no 98‑850(UI), 13 septembre 1999, [1999] A.C.I. no 596 (Q.L.), Randa c. Canada (ministre du Revenu national – M.R.N.), C.C.I., no 97‑1196(UI), 16 octobre 1998, [1998] A.C.I. no 940 (Q.L.) et Thériault c. Canada (ministre du Revenu national – M.R.N.), C.C.I., no 97‑442(UI), 13 mars 1998, [1998] A.C.I. no 193 (Q.L.). L'absence de contrôle du payeur et la très grande latitude laissée à la gardienne dans l'exécution de ses tâches sont des éléments que l'on retrouve dans la plupart de ces décisions.
+[19] L'avocate de l'intimé s'est également référée à la décision de la Cour d'appel fédérale dans Gallant c. M.R.N., no A-1421-84, 22 mai 1986, [1986] A.C.F. 330 (Q.L.), pour souligner que dans un contrat de louage de services, ce n'est pas l'exercice du contrôle par l'employeur qui importe, mais « plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions ».
+Analyse
+[20] Pour dire le moins, les décisions auxquelles l'avocate de l'intimé a fait référence illustrent la difficulté de faire de façon précise la distinction entre un contrat de louage de services ou de travail et un contrat d'entreprise ou de service dans des situations où l'on rend des services à domicile n'ayant aucun rapport avec les activités du payeur. L'exercice est encore plus difficile lorsque le payeur n'est même pas sur les lieux, comme dans le cas de garde d'enfants.
+[21] D'abord, il importe de mentionner que, depuis le 1er juin 2001, le législateur a spécifiquement prévu à l'article 8.1 de la Loi d'interprétation[1] un renvoi au droit privé de la province où le litige a son origine lorsqu'il est nécessaire de recourir à des notions appartenant au domaine des droits civils de cette province. Le texte de l'article 8.1 se lit ainsi :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règle de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte.
+[22] Le contrat de travail est défini à l'article 2085 du Code civil du Québec (« C.c.Q. ») et le contrat d'entreprise ou de service est défini aux articles 2098 et 2099 du C.c.Q. Ces articles se lisent ainsi :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[...]
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[23] Dans l'affaire Sauvageau Pontiac Buick GMC ltée c. Canada, C.C.I., no 95‑1642(UI), 25 octobre 1996, [1996] A.C.I. no 1383 (Q.L.), le juge Archambault, en se référant à la décision de la Cour suprême du Canada dans l'affaire Quebec Asbestos Corp. v. Couture, [1929] S.C.R. 166, concluait, eu égard à ces définitions, que l'élément déterminant était la présence ou non d'un lien de subordination. De plus, il y retenait la définition de cette expression énoncée par le juge Pratte dans l'affaire Gallant, précitée. Au paragraphe 12 de sa décision, le juge Archambault s'exprimait dans les termes suivants :
+12 Il ressort clairement de ces dispositions du C.C.Q. que le lien de subordination demeure la principale distinction entre un contrat d'entreprise (ou de service) et un contrat de travail. Quant à cette notion de lien de subordination, je crois que les commentaires du juge Pratte dans l'affaire Gallant sont toujours applicables :
+Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions.
+[24] Par ailleurs, dans l'affaire D & J Driveway Inc. c. Canada, C.A.F., no A‑512‑02, 27 novembre 2003, 322 N.R. 381, [2003] A.C.F. no 1784 (Q.L.), le juge Létourneau de la Cour d'appel fédérale affirmait que ce n'est pas parce qu'un donneur d'ouvrage peut contrôler le résultat du travail qu'il existe nécessairement une relation employé-employeur. Voici comment il s'exprimait à cet égard au paragraphe 9 du jugement :
+9 Un contrat de travail requiert l'existence d'un lien de subordination entre le payeur et les salariés. La notion de contrôle est le critère déterminant qui sert à mesurer la présence ou l'étendue de ce lien. Mais comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), (1996), A.C.F. no 1337, [1996] 207 N.R. 299, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), 2002 CAF 394, il ne faut pas confondre le contrôle du résultat et le contrôle du travailleur. Au paragraphe 10 de la décision, il écrit :
+Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[25] En l'espèce, existait-il un lien de subordination entre madame St-Jules et monsieur Lévesque nous permettant de conclure à la présence d'un contrat de travail? Plusieurs indices peuvent être pris en considération afin de détecter la présence ou l'absence d'un lien de subordination. Dans sa décision dans l'affaire Seitz c. Entraide populaire de Lanaudière inc., Cour du Québec (chambre civile), no 705-22-002935‑003, 16 novembre 2001, [2001] J.Q. no 7635 (Q.L.), la juge Monique Fradette de la Cour du Québec a fourni une série d'indices pouvant permettre de déterminer s'il y a subordination ou non. Voici comment elle s'exprimait sur ce point aux paragraphes 60 à 62 du jugement :
+60 La jurisprudence exige, pour qu'il y ait un contrat de travail, l'existence d'un droit de surveillance et de direction immédiate. Le simple fait qu'une personne donne des instructions générales sur la manière d'effectuer le travail, ou qu'elle se réserve un droit d'inspection et de supervision sur le travail, ne suffit pas à convertir l'entente en un contrat de travail.
+61 Une série d'indices développée par la jurisprudence permet au tribunal de déterminer s'il y a présence ou non d'un lien de subordination dans la relation des parties.
+62 Les indices d'encadrement sont notamment :
+· la présence obligatoire à un lieu de travail
+· le respect de l'horaire de travail
+· le contrôle des absences du salarié pour des vacances
+· la remise de rapports d'activité
+· le contrôle de la quantité et de la qualité du travail
+· l'imposition des moyens d'exécution du travail
+· le pouvoir de sanction sur les performances de l'employé
+· les retenues à la source
+· les avantages sociaux
+· le statut du salarié dans ses déclarations de revenus
+· l'exclusivité des services pour l'employeur
+[26] Toutefois, j'estime que ce n'est pas parce que quelques indices appuient la conclusion qu'il existe un lien de subordination qu'il faut arrêter l'analyse. L'exercice consiste, selon la distinction établie dans le C.c.Q., à déterminer la relation globale des parties. Il s'agit donc d'établir dans quelle proportion les indices pouvant mener à la conclusion qu'il existe un lien de subordination sont prédominants par rapport aux autres. Le lien de subordination entre l'appelant et madame St-Jules pourrait, à mon avis, s'établir par les éléments suivants : le fait qu'il a été clairement établi que madame St‑Jules devait se rendre au domicile de l'appelant pour effectuer ses tâches, le fait que madame St-Jules ne pouvait se faire remplacer et le fait qu'elle gardait les enfants sans avoir quoi que ce soit à fournir pour un salaire fixe de 40 $ par jour.
+[27] D'un autre côté, selon moi, certains faits ne sont pas déterminants. Ces faits sont les suivants : le fait que madame St-Jules devait rendre des comptes après chaque journée de travail et le fait qu'elle avisait monsieur Lévesque lorsqu'elle prévoyait faire des sorties à l'extérieur de la maison. Quiconque a déjà fait garder ses enfants dira qu'il est tout à fait normal et habituel de demander un compte rendu à la gardienne à la fin de la soirée ou de la journée, tout comme il est normal de demander d'être avisé lorsque la gardienne prévoit faire des sorties à l'extérieur de la maison avec ses enfants. Le contraire démontrerait une certaine insouciance de la part des parents. Le fait que monsieur Lévesque demande un compte rendu à la fin de la journée ne peut être qu'un indice neutre ne pouvant servir à établir un lien de subordination entre l'appelant et madame St‑Jules. L'appelant ne faisant que s'assurer un certain droit de regard étant donné la nature des services offerts par madame St-Jules, soit des services qui touchaient directement le bien-être de ses propres enfants. Même dans les garderies, le personnel fait rapport aux parents.
+[28] En examinant la relation globale entre les parties, on peut aussi déceler des indices de l'absence d'un lien de subordination. Ainsi, madame St-Jules était libre de choisir les moyens d'exécution du travail lorsqu'elle gardait les enfants. L'appelant ne lui imposait aucune façon d'exécuter son travail et ne semble pas avoir été en mesure d'en contrôler l'exécution, sinon par le résultat. De plus, son horaire était flexible, et il arrivait même qu'elle ne soit pas disponible certains jours ou au cours de périodes plus prolongées à cause de problèmes de santé ou pour d'autres raisons. Madame St‑Jules pouvait aussi avoir d'autres activités et travailler ailleurs. Lorsqu'elle n'était pas disponible, madame St-Jules avisait l'appelant et ce dernier s'organisait autrement pour faire garder ses enfants. Madame St-Jules n'avait aucune permission à lui demander à cet égard. Paradoxalement, il semble que c'est l'appelant lui-même qui dépendait de madame St-Jules. En effet, à plusieurs occasions, l'appelant a dû s'ajuster en fonction des disponibilités de madame St‑Jules.
+[29] De plus, je retiens que l'appelant n'effectuait d'aucune façon le contrôle des absences de madame St-Jules, ne procédait à aucune retenue à la source et n'a exigé aucune exclusivité de sa part, puisqu'elle pouvait travailler ailleurs.
+[30] Il importe aussi, je crois, d'accorder une certaine importance à l'intention des parties. Celle-ci est manifeste dans le cas présent. L'appelant a affirmé qu'il ne s'était jamais considéré comme un employeur et que madame St-Jules s'était présentée comme une travailleuse autonome. Dans l'affaire Wolf c. Canada, [2002] ¸4 C.F. 396, [2002] A.C.F. no 375 (Q.L.), le juge Décary s'exprimait ainsi aux paragraphes 119 et 120 de sa décision :
+[119] Les contribuables peuvent organiser leurs affaires de la façon légale qu'ils désirent. Personne n'a laissé entendre que M. Wolf, Canadair ou Kirk-Mayer ne sont pas ce qu'ils disent être ou qu'ils ont arrangé leurs affaires de façon à tromper les autorités fiscales ou qui que ce soit. Lorsqu'un contrat est signé de bonne foi comme un contrat de service et qu'il est exécuté comme tel, l'intention commune des parties est claire et l'examen devrait s'arrêter là. [...]
+[120] De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilité envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[Je souligne.]
+[31] Dans la présente affaire, il n'y a aucun contrat écrit. Il y a eu une entente verbale fort simple basée sur la confiance et portant sur un service qui peut s'avérer très exigeant pour une personne fiable ayant pour souci principal le bien‑être des enfants. Pour monsieur Lévesque, dont l'épouse venait de décéder, il s'agissait essentiellement de faire garder ses enfants, de trouver quelqu'un de confiance qui s'en occuperait puisqu'il ne pouvait le faire lui‑même lorsqu'il était au travail et ce, dans la mesure des disponibilités de cette personne. J'ajouterai que le fait qu'un contrat soit écrit ou verbal n'en change pas fondamentalement la nature. Ainsi, j'estime que, bien qu'ils aient été énoncés dans un contexte différent, les propos du juge Décary conservent toute leur pertinence dans une analyse de la relation globale entre les parties lorsqu'il s'agit de déterminer la nature d'un contrat portant sur des services.
+[32] Enfin, dans l'affaire Ambulance St-Jean c. Canada, C.A.F., no A-685-02, 13 octobre 2004, [2004] A.C.F. no 1680 (Q.L.), le juge Létourneau indiquait également que l'intention des parties devait recevoir une grande importance :
+[3] Bien que l'intention déclarée des parties ou leur entente apparente ne soit pas nécessairement déterminante quant à la nature de leur relation, il faut cependant accorder une grande importance à ces facteurs en l'absence d'une preuve contraire, par exemple un comportement qui trahit ou contredit cette intention ou cette entente. Lorsque les parties ont librement « choisi de conclure des accords commerciaux distincts [...] [et] choisissent d'agir de la sorte, plutôt qu'une des parties imposant arbitrairement ou artificiellement ce choix à l'autre, au point que cela constitue un trompe-l'oeil, on ne devrait pas intervenir dans leur choix et les autorités devraient le respecter ». Nous sommes d'accord avec cette affirmation, que le juge suppléant Porter a faite dans la décision Krakiwsky c. Canada (Ministre du Revenu national – M.R.N.), 2003 A.C.I. no 364.
+[33] Vu ce qui précède, j'estime qu'il y a plus d'indices ou d'éléments qui étayent l'absence d'un lien de subordination. Ma conclusion est donc que l'appelant et madame St‑Jules n'étaient pas liés par un contrat de travail, mais plutôt par un contrat de service, au cours de la période en litige. En conséquence, l'appel est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 18e jour d'avril 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2005CCI248
+Nº DU DOSSIER DE LA COUR : 2004-4444(EI)
+INTITULÉ DE LA CAUSE : Jacques Lévesque et M.R.N. et Nicole St‑Jules
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 30 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 18 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimé :
+Pour l'intervenante :
+Me Nathalie Labbé
+l'intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+[1] L.R. 1985, ch. I-21

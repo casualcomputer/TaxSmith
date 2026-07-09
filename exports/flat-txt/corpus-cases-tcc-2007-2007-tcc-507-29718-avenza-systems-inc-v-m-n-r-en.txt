@@ -1,0 +1,162 @@
+Title: Avenza Systems Inc v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29718/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-507-29718-avenza-systems-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-07-31
+
+# Avenza Systems Inc v. M.N.R.
+
+- Citation: 2007 TCC 507
+- Decision date: 2007-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Avenza Systems Inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-31
+Neutral citation
+2007 TCC 507
+File numbers
+2006-2569(EI), 2006-2570(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2007TCC507
+Dockets: 2006-2569(EI)
+2006-2570(CPP)
+BETWEEN:
+AVENZA SYSTEMS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario, on July 31, 2007, be filed.
+“N. Weisman”
+Weisman D.J.
+Signed in Toronto, Ontario, this 24th day of September 2007.
+Toronto, Ontario
+--- Upon commencing the excerpt at 3:49 p.m. on Tuesday, July 31, 2007.
+ORAL REASONS FOR JUDGMENT
+JUSTICE WEISMAN: I have heard two appeals by Avenza Systems Inc. against determinations by the respondent Minister of National Revenue that the worker, David William Hunter, was an employee under a contract of service while engaged by the appellant as its computer programmer and product development manager during the period in question, which is the 37 months between April 1, 2002 and September 9, 2005.
+The Minister's decision accordingly was that the appellant was responsible for failure to deduct and remit employment insurance premiums and Canada Pension contributions.
+The issue before the Court is whether during the period under review Mr. Hunter was an independent contractor or an employee, there being no duty to make source deductions from independent contractors.
+In order to resolve this issue, the cases have held that the total relationship between the parties and the combined force of the whole scheme of operations must be considered in order to resolve the central or fundamental question as to whether the worker was performing his services for the appellant as a person in business on his own account or was performing them in the capacity of an employee.
+To this end, the evidence in this matter must be subjected to the four-in-one test laid down as guidelines by the Federal Court of Appeal in Wiebe Door Services Limited v. the Minster of National Revenue, which is cited at (1986), 87 DTC 5025, as confirmed in 671122 Ontario Limited v. Sagaz Industries Canada Incorporated, [2001] 2 SCR 983, and Precision Gutters Limited v. Canada, [2002] FCJ 771 in the Federal Court of Appeal, as further illuminated by Légaré v. Canada, [1999] FCJ 878 and Pérusse v. Canada, [2000] FCJ 310, both in the Federal Court of Appeal.
+The four guidelines in the aforementioned cases involve a consideration of the right to control, he ownership of tools, the
+chance of profit and the risk of loss. In this regard, the evidence which I accept at trial established the following, adverting first to the issue of right to control: The cases link the right to control with the issue of subordination, on the theory that an independent contractor is indeed independent of the payer whereas, an employee has a relationship of subordination with the payer.
+I have been satisfied on the evidence that the employees hired under contracts of service by the appellant were obliged to work from nine in the morning till five in the evening whereas Mr. Hunter was free to come and go as he pleased. At no time did he ever put in a 40-hour week, although such was stipulated in a contract filed as Exhibit A-1 and dated August 1, 2002.
+The evidence is that he normally left at 4 o'clock,that, on occasion, he would have a meeting scheduled with Mr. Florence, the principal of the appellant, and would call and advise if he had to do something else. Mr. Florence would have to reschedule the meeting accordingly.
+There was also evidence that Mr. Hunter was free to reject projects. This point is of some importance because it indicates that one who is free to reject projects is more likely an independent contractor than an employee. That was decided in Precision Gutters, previously cited, in Le Livreur Plus v. the Minister of National Revenue, [2004] FCJ 267 in the Federal Court of Appeal at paragraph 41, and in D & J Driveway v. the Minister of National Revenue, [2003] Federal Court of Appeal, page 453, at paragraph 11, and the actual paragraph number in Precision Gutters was paragraph 27.
+Not only was Mr. Hunter free to come and go as he pleased and free to reject projects. His comings and goings and hours of work and method of payment -- being $7,000 per month, without keeping track of the hours, and payable whether or not there was a statutory holiday, and including up to 10 days of vacation and payable on invoice and payable by cheque rather than by direct deposit, all of which were the case and were applicable to the employees hired by the appellant,-- places Mr. Hunter in a different category and shows that he was not in any way coordinated with the operations of the appellant.
+The importance of coordination or adoption of the culture of the payer was exemplified in a case called Rousselle v. the Minister of National Revenue, [1990] FCJ 990 in the Federal Court of Appeal. That lack of coordination or cultural integration tends to indicate that the worker was an independent contractor.
+Mr. Hunter was given a business card that had the appellant's name and numbers on it, which might lead one to think that there was an element of cultural integration, that there was some element of coordination in his duties, as set out in Rousselle. But if one reads Wolf, previously cited at paragraph 85, it says that business cards are given no weight.
+Similarly in Wolf, at paragraph 91, there was a highly skilled worker and in the peculiar circumstances of his engagement with the payer in that case he was in receipt of a paid vacation. The Court of Appeal held that that was a neutral factor.
+Having read Wolf numerous times, it is my conclusion that Mr. Hunter's particular talents and skills were analogous to those of the worker in question in Wolf, and accordingly I find the fact that he continued to be paid $7,000 per month, even though he might have taken up to 10 days' vacation, is a neutral factor.
+The next evidence that could be construed as control is the contract between the parties filed as Exhibit A-1. Paragraph 2 sets out 10 duties. Quite often, when there is a list of requirements that have been reduced to writing, it could result in a court of law concluding that there was control. Now the cases are clear that one has to distinguish control of a worker from monitoring their result, which one is entitled to do whether the worker is an employee or an independent contractor.
+The actual phrase that the cases recite is, "Monitoring the result must not be confused with controlling the worker." That was stated in Vulcain Alarme at paragraph 10, which cites Charbonneau v. the Minister of National Revenue, [1996] FCJ 1337, at paragraph 2. In case I haven't cited it before, Vulcain Alarme is [1999] FCJ 749 in the Federal Court of Appeal.
+It was my conclusion, and I accepted Mr. Florence's evidence in this regard, that these 10 duties were to ensure that, for $7,000 a month guaranteed, Mr. Hunter would give value in the way of time for the money.
+There was also an indication that there were meetings required that Mr. Hunter attend, which would be an element of control. But Mr. Florence answered that with: "Of course, I had to meet with Mr. Hunter in order to tell him what I wanted him to do, as I would with an independent contractor."
+That evidence was bolstered by the quite candid testimony of Mr. Hunter, addressing himself to Mr. Florence: "You were hands off on a majority of my projects." In my view, this evidence answers assumptions 7(i) and (j) in the Minister's Reply to the Notice of Appeal, the one saying that the worker had to report to the appellant's president at least on a weekly basis and, (j), the worker was supervised by Edward Florence. But I will advert to those again when I come to the appellant's onus of demolishing the assumptions set out in the Minister's Reply to the Notice of Appeal.
+The contract, in paragraph 7(b)(ii) also talks about Mr. Hunter complying with the reasonable directions of Avenza's president, and it talks about Mr. Hunter being required to perform his services personally. That is important, because personal services usually indicate that the person is an employee as opposed, say, to an electrician who is not expected to do his services personally but can send along a hired employee or subcontractor.
+But in this case, the evidence is that Mr. Hunter had expertise in this field and it was his expertise that the appellant wanted. I would analogize Mr. Hunter in these circumstances to a physician; one surely wants your physician to perform his or her services personally and yet that doesn't make them an employee.
+There is an assumption, 7(aa), that Mr. Hunter is required to redo unsatisfactory work at his own time and at his own expense. In these circumstances, that assumption is inapplicable so far as indicating that Mr. Hunter was an employee because he was being paid a flat $7,000 a month regardless of the hours he put in.
+There is, of all these various pieces of evidence that I have heard that might indicate that Mr. Hunter was an employee, one that has more weight than each of the rest -- I don't mean to imply all of the rest combined. That is that the contract, Exhibit A-1, requires Mr. Hunter to devote his full time and attention to the business of the appellant; that is in paragraph 2(i). This requirement for exclusive service would tend to indicate that the worker was an employee.
+On the issue of control, I have mentioned numerous factors, all of which indicate that Mr. Hunter was an independent contractor. There is one going the other way but, on balance, the evidence is quite clear in establishing that the control factor indicates that Mr. Hunter was an independent contractor.
+So far as tools are concerned, I have evidence that the appellant provided an office, a desk, a chair, Internet access, voicemail, that, for the first six months to a year Mr. Hunter brought in his own computer and monitor and software. But thereafter that was provided by the appellant, for control purposes and also for security purposes, dealing with intellectual property. There is evidence that Mr. Hunter supplied his own cell phone, his own notebook and he had a computer at home. But, again, Mr. Hunter was very candid and credible, saying that the notebook was not necessary for his duties or tasks.
+On balance, there is a preponderance of tools being provided by the appellant, which tends to indicate that Mr. Hunter was an employee engaged under a contract of service.
+The chance of profit: As I indicated during the trial, one has to distinguish extra pay or extra salary by virtue of working overtime or by virtue of being on piecework and producing more product, from profit in a business sense. We have the case of Hennick v. the Minister of National Revenue, [1995] FCJ 294 in the Federal Court of Appeal, which makes that distinction.
+To help us sort out what is salary and what is profit, the cases talk about the opportunity of profiting from sound management in the performance of his task. The best way to make that clear is we have here, Mr. Florence, who is a business person and by virtue of sound management, by virtue of ingenuity, by virtue of imagination, can arrange his affairs in his business so as to maximize his profits. The question is is Mr. Hunter in any way analogous to that?
+As authority for my contention that the cases talk in those terms, about sound management, I would refer you to Wiebe Door Services, at paragraph 17, wherein they cite Market Investigations Limited v. the Minister of Social Security, [1968] 3 All ER 732, at pages 738 and 739.
+Looking at Mr. Hunter's activities from the point of view of whether or not he is able to profit from sound management, I note that he can augment his revenues by as much as $20,000 a year under the contract between the parties, Exhibit A-1, paragraph 4(2), in which $20,000 is described as:
+" ... bonuses for expeditious completion of projects based upon quarterly performance and achievement milestones."
+An example given by Mr. Florence was the importance of Mr. Hunter expeditiously preparing the quarterly performance and achievement milestones and drawing up the regular submissions to CCRA in order that the appellant could in timely fashion get the Scientific Research and Experimental Development income tax benefits.
+The evidence satisfies me that by sound management and expeditious performance of his tasks Mr. Hunter's profit could be increased by as much as $20,000 a year, in other words, by sound management. That to me indicates that he was an independent contractor.
+Risk of loss: Mr. Hunter testified that he had no expenses with reference to his engagement with the appellant. Whatever monies he expended on behalf of the appellant were reimbursed, and that he had a guaranteed income of $70,000 per year. There might be an element of risk if one closely reads the comments of Justice Desjardins in Wolf, at paragraph 26, where he considers the lack of a promise of future engagement as a risk. Whether that is a risk of loss in a financial sense, I am not certain. But with no expenses, - no business expenses, and with a guaranteed annual income of $70,000, I would have to conclude that this factor indicates that Mr. Hunter was an employee.
+Therefore, we are in a position where the control factor indicates that the worker was an independent contractor, the tools factor, that he was an employee, the profit factor, that he was an independent contractor and the risk of loss, that he was an employee.
+The cases require me to not restrict myself to the four Wiebe Door guidelines, but to look at all the circumstances and the total relationship between the parties. One of the circumstances between the parties is the parties' intention. There is no question in this case that the original intent was clearly, on both sides, that Mr. Hunter be an independent contractor, clearly set out in the contract between the parties in Exhibit A-1.
+The intent of the parties however clear is not binding upon the Court. That is set out in numerous cases, and just to name two: One is Wiebe Door and the other is Sagaz Industries. The reason it is not binding upon the Court is because that sort of a decision is a conclusion of law which has ramifications for third parties, not just the parties before the courts.
+In Sagaz Industries, the Court clarifies. It says:
+"The distinction between an employee and an independent contractor applies not only in vicarious liability, but also to the application of various forms of employment legislation ... "
+(Which is what we are talking about here today) ...
+" ... the availability of an action for wrongful dismissal, the assessment of business and income taxes, the priority taken upon employer's insolvency and the application of contractual rights."
+While the intent of the parties in this case is clear, it is not binding upon the Court. But it is also not irrelevant. We can start with the case Ready-Mixed Concrete, which is an English case, [1968] 1 All ER 433 in the Queen's Bench Division. The Court, back in 1968, says:
+"The question whether the relation between parties to a contract was that of master and servant or otherwise was a conclusion of law dependent on the rights conferred and the duties imposed by the contract and that, if these were such that the relation is that of master and servant, it was irrelevant that the parties have declared it to be something else. Such a declaration was not necessarily ineffective for, if it were doubtful for what rights and duties the parties wished to provide, such a declaration might help in resolving the doubt."
+In other words, we have an early indication that the intent of the parties is some sort of a tiebreaker.
+I use that phrase advisedly because along comes Mr. Justice Noel in Wolf, in 2002, some 34 years later, where he says:
+"In a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent and in particular their mutual understanding of the relationship cannot be disregarded."
+The problem with that is when we get to Royal Winnipeg Ballet, the trial judge held that the intention of the parties was a tiebreaker. He was overturned by the Federal Court of Appeal, and we have statements of the correct test coming first from Justice Sharlow at paragraph 64:
+"In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The trial judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the judge to an incorrect conclusion."
+We have remarks at paragraph 81 by Justice Desjardins that are pretty well to the same effect:
+"The Tax Court judge erred in law, in my view, when he said that the intention of the parties could only be used as a tiebreaker. I accept Justice Sharlow's analysis at paragraph 64 of her Reasons, that what the Tax Court judge should have done was to take note of the uncontradicted evidence of the parties' common understanding that the dancers should be independent contractors and then consider, based on the Wiebe Door Services v. Minister of National Revenue factors, whether that intention was fulfilled. In so doing, she relied at paragraph 61 of her Reasons, on a long line of cases of this Court as expressed by Justice Stone in Minister of National Revenue v. Standing, (1992) 147 NR 238, (Fed C.A.), which I reformulated in Wolf v. R., [2002] 4 FC 396 at paragraph 71, when I said that the parties' intention will be given weight only if the contract properly reflects the legal relationship between the parties."
+Now these cases don't really give me definitive guidance as to what is to be done when the four tests come out, two to two. But the solution in my view is the case law that says, and I believe this is in Wiebe Door, that these four guidelines originally as set out in Wiebe Door, control, ownership of tools, chance of profit, risk of loss, don't have equal weight and they don't have the same weight, case to case. They have weight depending on the facts of the particular case.
+In the case before me, in my view, the lack of control and subordination and Mr. Hunter's chance of profit in his association with the appellant are quite significant.
+I conclude that the evidence is therefore more consistent with the conclusion that Mr. Hunter was an independent contractor under a contract for services during the period under review, as was the parties' original contractual intent and understanding.
+Now the burden in these matters is on the appellant to demolish the assumptions contained in the Minister's Reply to the Notice of Appeal. I had Mr. Hunter go over all the assumptions, and I have found as follows: There are, as usual, numerous assumptions that are not determinative, they are not controversial, and 7(a) and (b) and (c) and (d) are in that category.
+I don't know the relevance of (e) so far as helping me decide whether Mr. Hunter was a worker or an independent contractor, but the evidence established that it is true that he had those managerial duties, that he would design the product and he would get the employed programmers of the appellant to carry it out. Paragraph (f) was established and it was clarified by the only witness for the appellant, Mr. Florence, that the proportion would be about 60 per cent in the office and 40 per cent at home. Again, this assumption is not determinative of the issue before me.
+In (g), the evidence was that Mr. Hunter didn't have a segregated space of his own; it was a shared workspace. But nevertheless, (g) was established, as was (h).
+Paragraph (i) was not established. There was no evidence, or the evidence was that he did not have to report weekly and also that it wasn't really reporting what was going on between the payer and the worker; it was necessary for the worker to get instructions as to what had to be done. In my view, it wasn't so much a matter of reporting as it was a matter of getting instructions and being monitored. I have already said that the case law permits one to monitor an independent contractor, just as much as an employee.
+The evidence did not establish that the worker was supervised by Mr. Florence. I have already indicated the evidence of Mr. Hunter himself, when he said that he was given fairly free rein. Again, "You were hands off on a majority of my projects."
+Paragraph (k), "The worker required management approval of task plans," I think that is equivocal; the same would apply to an employee as an independent contractor. Paragraph (l) is established but (m) is not. The evidence was not that the worker is required to work from nine to five, as I have said; the evidence is that he normally left at four. Some days, he wouldn't come in at all and in no week did he work 40 hours.
+Paragraph (n) was established, (o) was established as was (p). Paragraph (q) makes it look like the worker received sometimes a quarterly bonus. It tends to indicate that we are looking at an employee, but the evidence indicates that it was quite sporadic and only if the worker was successful in using sound management to expedite a project.
+Again, the evidence wasn't that, in (r), the worker's rate of pay was determined by the appellant's representative. The evidence was that that was negotiated.
+Paragraph (s), statutory holidays and the 10 days of paid vacation, I have already explained why that doesn't indicate that the man was an employee.
+I have already discussed (t), whether or not the worker is reimbursed for expenses. Paragraph (u), "the worker could not hire or dismiss workers." I am at a loss to understand how that helps me decide whether he was an employee or an independent contractor.
+I guess what the Minister is getting at is that if he was a manager with the power to hire and fire, then he is more likely to be an employee than an independent contractor. Independent contractors don't normally have the power to hire and fire. In any event, that did not help me determine the issue, one way or the other.
+The confidentiality agreement is equivocal; employees can be just as subject to confidentiality agreements as independent contractors.
+Paragraph (w), again, the evidence was that it wasn't a requirement to attend meetings if the parties had to talk, that is Mr. Florence and Mr. Hunter. It is true that Mr. Hunter chaired meetings, but these were meetings of the programmers that had to expedite the projects that he devised.
+The evidence was that it would be very irregular for the worker to liaise with the appellant's clients. Paragraph (y) was established; "The worker did not incur any expenses in the performance of his duties." Paragraph (z) is true, but it is indicative of a certain confusion on the part of the Minister as to whose business we are talking about. Of course, the worker didn't have any investment in the appellant's business. The question is was he running a business of his own that he had an investment in?
+That same confusion appears again in (bb): "The appellant covered costs relating to bad debts." Again, of course, he covered the bad debts; it was his own business.
+In (aa), "The appellant decided if work was to be redone and covered the related costs." Again, I have already discussed this. Mr. Hunter was getting paid $7,000 a month and it really didn't matter whether or not he was doing new work or old.
+In (cc), "The appellant covered the costs of the liability insurance." The short answer by Mr. Florence is that, "We have none."
+Then there is a series, (dd), "Who is responsible for resolving customer complaints?" and (ee), "The appellant provided guarantees," those two do not sway me because it was the appellant's business and, of course, he had to resolve customer complaints and provide the guarantee of the work.
+Paragraph (ff) is established. It is true; the worker had to provide his services personally. Also true is (gg), that, "The worker was performing services exclusively for the appellant," and (hh) is true, "The appellant had the right to terminate the worker's services."
+Going over all these assumptions, the vast majority were rebutted successfully by the appellant, especially the controversial ones. The ones that remain in my view, the ones that were established, were not sufficient to support the decision of the Minister.
+On the issue of credibility, it was a pleasure to hear a case in which both witnesses were credible. They were fair, open and I thought honest. It is a matter that they had different points of view.
+I was particularly impressed with Mr. Florence, because he was prepared to take a position in these proceedings that was considerably against his financial interest under the Federal Scientific Research and Experimental Development Incentive program. If he had simply agreed with Mr. Hunter that he was an employee, he would lose $11,000 to $15,000 in Employment Insurance premiums and Canada Pension Plan contributions, but he stood to gain $168,000 ... no, I have it exactly backwards.
+If he agrees that Mr. Hunter was an employee, he gains $168,000 under the federal tax credit program but, if he insists that Mr. Hunter is an independent contractor, he only stands to save $11,000 to $15,000 in the aforementioned premiums and contributions. He is here today appealing the decision that the man was an employee at considerable financial expense, and that adds to his credibility.
+In conclusion, I find that Mr. Hunter was in the business of his own account while engaged by the appellant during the period under review as a computer programmer and product manager. The decision of the respondent Minister of National Revenue being objectively unreasonable, it will be vacated and the appeal allowed.
+I appreciate the assistance of both of you. We will recess till tomorrow morning at 9:30, sir.
+THE REGISTRAR: Yes, your honour. This matter is concluded. The Court is closed for this day and will resume tomorrow morning at 9:30.
+--- Whereupon the hearing was concluded
+at 4:41 p.m.
+CITATION:
+2007TCC507
+COURT FILES NOS.:
+2006-2569(EI) and
+2006-2570(CPP)
+STYLE OF CAUSE:
+AVENZA SYSTEMS INC. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 31, 2007
+ORAL REASONS FOR
+JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF ORAL JUDGMENT: July 31, 2007
+APPEARANCES:
+Agent for the Appellant:
+Edward Florence
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada Ottawa, Canada

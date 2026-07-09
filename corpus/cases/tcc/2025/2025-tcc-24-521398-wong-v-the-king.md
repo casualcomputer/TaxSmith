@@ -1,0 +1,194 @@
+---
+title: "Wong v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521398/index.do"
+last_modified: "2025-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 24"
+citation2: ""
+neutral_citation: "2025 TCC 24"
+decision_date: "2025-02-14"
+language: "en"
+item_id: "521398"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6025
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:44:54.897000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0b2aba712f023b8a3c72e6040887b436588b14ce147d48c25539174f2a6be4ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wong v. The King
+
+- Citation: 2025 TCC 24
+- Decision date: 2025-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6025, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-14
+Neutral citation
+2025 TCC 24
+File numbers
+2024-1860(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1860(IT)I
+BETWEEN:
+CHOK KEI WONG,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on January 29, 2025, at Vancouver, British Columbia
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Michelle Kwong
+AMENDED JUDGMENT
+WHEREAS the Court has published its reasons for order in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal from the decisions of the Minister, all dated July 19, 2024, that the Appellant was entitled to the Canada Child Benefit as a shared-custody parent who shares equally responsibility for the care of the qualified dependent for the 2020, 2021 and 2022 base years is dismissed because the Appellant and her former spouse are both eligible individuals as shared-custody parents under section 122.6 of the Income Tax Act for those periods;
+The Appellant, upon consent, was a shared-custody parent in respect of the qualified dependent for the additional month of July 2021 related to the 2020 base year, and solely on that basis the matter is referred back to the Minister for reconsideration and redetermination; and,
+There shall be no costs.
+This Amended Judgment is issued in substitution of the Judgment dated February 14, 2025.
+Signed at Toronto, Ontario, this 8th day of April 2025.
+“R.S. Bocock”
+Bocock J.
+Citation: 2025 TCC 24
+Date: 20250214
+Docket: 2024-1860(IT)I
+BETWEEN:
+CHOK KEI WONG,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] Chok Kei Wong (“Ms. Wong”) requests that this Court reverse the Minister of National Revenue’s (the “Minister’s”) redeterminations dated July 19, 2024. In that decision, the Minister decided Ms. Wong is a shared custody parent entitled to 50% of the Canada Child Benefit (“CCB”). Ms. Wong argues that she is the principal caregiver of her son to the exclusion of her ex-husband, Raymond Shiu (“former spouse”).
+The Minister says: yes, then no and finally partially [2] The Minister’s decision path had several sharp turns. Originally, the Minister assessed Ms. Wong as the principal caregiver entitled to the full CCB for the 2020, 2021 and 2022 base taxation years. These base years relate respectively to the 2021, 2022 and 2023 CCB benefit years (the “CCB Periods”). Subsequently, the Minister then determined that Ms. Wong was entitled to no CCB amounts for the CCB Periods. Finally, once the Minister was finally certain, the Minister’s agents settled upon the present 50% of the CCB amounts for the CCB Periods.
+II. Facts The custody and care of the son [3] Ms. Wong and her former spouse separated in 2019. From the first separation onwards they shared legal joint custody of their son, reflected in various court orders and minutes. This was complicated by the COVID pandemic but ultimately several documents reflect the week about joint custody arrangement which has without much variance governed their son’s living arrangements since. Both Ms. Wong and her former spouse, during testimony, confirmed generally that when the son stays with each respective parent that parent provides all needed care, oversight, hygiene, medical assistance, transportation and entertainment. There were few disagreements on this subject. When the son was with either parent, he was with such parent without interruption or exception.
+Parenting styles differ [4] There was some disagreement on a few points, largely attributed to preferred parenting styles. Ms. Wong believes in a planned and structured learning and play environment. In contrast, the former spouse described his belief in a more free-form, self-directed play environment outside of school. Specifically, Ms. Wong arranges and pays for outside activities such as play-therapy for socialization and martial arts for extra-curricular physical activity. When with his father, the son plays at home or local parks. The dedication of both parents was palpable and contributed to their belief that a single strategy (i.e. theirs) would be best for the son, rendering the other parent’s choice wrong. Oddly, these competing approaches in parenting style possibly provide more balance.
+Legal documents are inconsistent [5] Adding some confusion to the legal landscape was a final divorce order of the B.C. Supreme Court. The divorce order unequivocally reflects joint, fifty-fifty shared custody and living arrangements for the son. Less balanced, it also provides that Ms. Wong is entitled to make significant decisions for religious and certain medical treatments, but subject to the former spouse’s “liberty to apply to challenge [such] decisions”. Further, Ms. Wong was afforded “the exclusive right to claim all tax credits and benefits concerning” the son. Also adding to the murk was the former spouse’s “agreement” sent by text subsequently that “my name is already taken off as the benefit recipient” for CCBs after April 29, 2022. He further confirmed that intention by testimony in Court.
+III. Ms. Wong’s Submissions [6] Ms. Wong believes her appeal is different than others previously before the Court because of the unique nature of her circumstances which fulfill the requirements of s. 122.6 of the Act. In submissions she clearly outlined these for the Court. Those submissions are summarized below.
+Final divorce order direction [7] Ms. Wong asserts the divorce order gives her primary care duties. Her paramountcy on issues of religion, life-saving medical treatments and maternal preference top the otherwise balanced direction of the divorce order. Further, for one half of the time when the son is with the former spouse, factually the son spends a great deal of time at his paternal grandparents’ house.
+Ex-husband has relinquished his rights [8] Further Ms. Wong states that the former spouse has waived his legal entitlement to CCB benefits. He did so through his texted “agreement” May 22, 2022 stating that as of April 29, 2022 “my name is already taken off as the benefits recipient”. Further, he confirmed this intention during cross-examination in Court. As such, this release should be reflected in any decision.
+Ms. Wong’s parental contribution exceeds that of her husband’s [9] Ms. Wong asserts that by comparison she exceeds the care given by her former spouse to her son because she exclusively:
+i)takes the son to all dental appointments;
+ii)enrolls and exclusively pays for the son’s play therapy sessions to improve his socialization skills caused by shyness;
+iii)enrolls and exclusively pays for martial arts lessons to improve physical activity;
+iv)she is attuned and focused on her son’s mental health whereas her former spouse is unconcerned; and,
+v)she pays for a greater share of the son’s “favourite” clothing;
+The well-being of the child is sacrosanct [10] Ms. Wong further states that the stated and overarching purpose of the CCB is the welfare and well-being of the son. That benefit should be paid to the parent who primarily provides the care which addresses completely the well-being of the child; Ms. Wong’s son received the majority of his important, critical needs from Ms. Wong.
+Ms. Wong’s financial condition is dire [11] Ms. Wong recounted how the determination process followed by the Minister has caused Ms. Wong financial hardship. First, she received and was paid the full CCB benefits for most, if not all, of the CCB Periods. The Minister then fully revoked the CCB benefit entitlement and demanded repayment. Lastly, the Minister settled on half benefits, only demanding one-half be repaid. Not only does this impact Ms. Wong, as importantly it financially compromises, for future, her delivered care to her son. This defeats the primary purpose of the CCB: the welfare and development of the young boy.
+She complies with the regulations [12] Ms. Wong’s review of the caregiving factors enumerated in Income Tax Regulation 6302, together with Ms. Wong’s primary provision of those necessities to her son, provides the Court with sufficient evidence to hold that she is entitled to the full CCB amount. Ms. Wong fulfills the factors to a greater extent than the former spouse and this should be reflected in her full entitlement to the CCB as the only eligible individual to the exclusion of her former spouse.
+Preliminary Issue [13] During submissions, Respondent’s counsel conceded that for the month of July 2021, falling within the 2020 base year, Ms. Wong was an eligible individual as a shared-custody parent and was not disqualified as an eligible individual. Therefore, apart from any other outcome, Ms. Wong shall be entitled, on consent, to that additional shared-custody CCB amount for that month.
+IV. The Law [14] Consistent with many provisions in the Income Tax Act drawn upon frequently by many Canadian families, the CCB sections seem organizationally scattered and obscure. In a likely vain effort to organize how such provisions logically apply to this appeal, the Court constructs the following roadmap:
+Base year impacts benefit year [15] The CCB base taxation year is not a calendar year. It falls 18 months before the benefit year on a trailing basis. As an example, for the 2022 CCB period (i.e. when the CCB is paid July 2021 to June 2022), the base year (i.e. the period of calculation), begins months before: July 1, 2020 to June 30, 2021.
+Who gets the CCB? [16] The person entitled to the CCB is the eligible individual in the base year: within the definition in s. 122.6 of the ITA. In this appeal, the following excerpt is relevant:
+eligible individual in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+[…]
+[17] There is no dispute the son is a qualified dependant. In this appeal, the question is does paragraph b (i) (primary and exclusive care-giver) or b (ii) (shared-custody parent) apply? Paragraph b (i) entitles Ms. Wong to the full CCB amount and b (ii) gives her one-half.
+Shared-custody parent is also defined [18] In the same definition portion of section 122.6, “shared-custody parent” is also defined. Excerpted below are the relevant provisions:
+shared-custody parent in respect of a qualified dependant at a particular time means, where the presumption referred to in paragraph (f) of the definition eligible individual does not apply […] an individual who is one of the two parents […] who
+(a) are not at that time cohabiting […]
+(i) at least 40% of the time […]
+(ii) on an approximately equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant […]
+The female parent presumed as primary caregiver [19] If the child resides with the mother, the definition section below presumes the mother, unless otherwise specified or prescribed in (g) and (h), is the primary caregiver (f):
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances,
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing, and …
+Ditching the female parent presumption [20] The prescription (limitation) of the female parent presumption is found in Income Tax Regulation 6300 at 6301 (1)(d):
+6301 (1) For the purposes of paragraph (g) of the definition eligible individual in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+[…]
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+Factors where eligible caregiver unclear [21] Lest anyone be unclear after working through the qualification description, ITR 6302 provides a list of factors to be deployed to determine care and upbringing.
+6302 For the purposes of paragraph (h) of the definition eligible individual in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+Where does all this leave the Court in the statutory analysis? [22] Firstly, the Court must determine if Ms. Wong, in the first instance, otherwise qualifies as an eligible individual?
+[23] Secondly, if so, is there a shared-custody arrangement?
+[24] Thirdly, if there is a shared-custody arrangement, is the female parent presumption operative?
+[25] Fourthly, if there is a female parent, is the presumption rebutted by the inapplicability provisions?
+[26] Lastly, if the female parent presumption is inapplicable, do the circumstances revealed by the evidence, when viewed through the factors, nonetheless provide that Ms. Wong is the primary caregiver?
+V. Analysis of this Appeal and Decision Both parents are eligible individuals [27] There is no dispute that Ms. Wong and the former spouse are each eligible individuals in the first instance under section 122.6 of the ITA.
+A shared custody arrangement present [28] The court order, testimony of both witnesses and all collateral documents indicate that Ms. Wong and the former spouse otherwise fall within the definition, unless the female parent presumption (f) applies or one parent primarily “outshines” the other as caregiver. At the outset, Ms. Wong and the former spouse do not cohabit with each other, and they share an equal duration of custody for their son. The court order directs this.
+Female parent presumption ousted by (d) [29] Ms. Wong is the female parent and an eligible individual. However, both Ms. Wong and the former spouse filed notices under subsection 122.62(1). That was the event which triggered the first redetermination, ultimately refined by the Minister to a determination which split the CCB.
+Does the former spouse primarily fulfil his responsibility (c)? [30] Ultimately, the final question for the Court to answer depends on the circumstances in this appeal viewed through the factors: does each parent, contrary to Ms. Wong’s assertion, primarily fulfil the responsibility for care and upbringing when the son is present with such parent?
+[31] Implicitly, consideration of the factors in this fashion immediately jettisons certain arguments made by Ms. Wong. The supplementary rights under the final divorce order concerning religion and health decisions do not supercede the fifty/fifty joint living arrangement. Moreover, there are constraints by decision review on those rights in favour of the former spouse.
+[32] The narrative right in Ms. Wong’s favour to claim all the tax credits and benefits is an acknowledgement between two parties. In the first instance, it cannot bind the Minister. In the second, it does not impact existing legislation. Lastly, this Court cannot employ such a private agreement to override the statute or insert therein a provision which does not exist: Ross v. HMQ 2011 TCC 515 at footnote 6. The same conclusion applies to the former spouse’s subsequent release by text of his filed and documented claim and entitlement to CCBs: Demarais v. HMQ 2013 TCC 83 at paragraph 24. Parliament, not individual parents, determines the provisions and conditions governing what CCB amounts are paid to Canadians by the Minister.
+[33] Ms. Wong’s argument that her well-being and her own financial situation, and its implications for her son, cannot trump or amend provisions enunciated by Parliament cannot succeed. When the CCB and its many past-iterations were created, Parliament’s policy considerations were that very well-being and welfare of children. This was the primary, if not exclusive, motivation to pay CCBs to parents. However, Parliament decides the conditions, amounts and qualifications for such benefits, all directed towards those very goals.
+The prescribed factors and outcome [34] The Court returns to the circumstances governing responsibility for care and upbringing of the son when in the custody of each parent. The Court reminds itself that Ms. Wong asserts her contributions far exceed that of her former spouse. For the following reasons, based upon the evidence, the Court disagrees with her. Specifically, when reviewing the disparities she highlighted, the Court finds:
+i)The son lived with each parent one-half of the time. In fact, the division of time could not be more equal;
+ii)The provision of medical care was not as uneven as Ms. Wong says. Her former spouse exclusively tended to COVID vaccinations, attended all parent-teacher interviews and took the son to the doctor when in the former spouse’s exclusive care;
+iii)The provision and payment for extra-curricular activities was a manifestation of differing parental styles and choices. The former spouse specifically stated unregulated, unstructured play and home-centered activities were sometimes preferable given the son’s fairly young age. Whatever the proper allocation, the father’s attention to the issue was mindful and deliberate, and is not neglectful, creating a vacuum filled by Ms. Wong; and,
+iv)With respect to any other factors, there was little evidence of any noticeable differences between the care and upbringing the son received when in the care of one parent versus the other.
+VI. Summary and Costs [35] In conclusion, in this appeal, Ms. Wong and her former spouse evenly mete out care, comfort and necessities to their son when he is for one-half his life with each parent, respectively.
+[36] For these reasons, the appeal is dismissed and the determinations of the Minister dated July 19, 2024 are upheld, save for the month of July, 2021 as described above.
+[37] There shall be no costs.
+These Amended Reasons are issued in substitution of the Reasons dated February 14, 2025.
+Signed at Toronto, Ontario, this 8th day of April 2025.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2025 TCC 24
+COURT FILE NO.:
+2024-1860(IT)I
+STYLE OF CAUSE:
+CHOK KEI WONG AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 29, 2025
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Randall S. Bocock
+DATE OF AMENDED JUDGMENT:
+April 8, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Michelle Kwong
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

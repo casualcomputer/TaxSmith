@@ -1,0 +1,202 @@
+Title: Wilson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/364292/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-42-364292-wilson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-02-25
+
+# Wilson c. La Reine
+
+- Citation: 2019 CCI 42
+- Decision date: 2019-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4330, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-25
+Référence neutre
+2019 TCC 42
+Numéro de dossier
+2018-561(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-561(IT)I
+ENTRE :
+EVELYN E. WILSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 février 2019, à Hamilton (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Rhoda Lemphers
+JUGEMENT
+CONFORMÉMENT AUX motifs de jugement ci-joints, il est fait droit à l’appel à l’égard des années d’imposition 2009, 2010, 2011, 2012, 2013, 2014 et 2015 de l’appelante, sans dépens, uniquement parce que le revenu net de l’appelante provenant de son exploitation d’un gîte touristique était respectivement de 13 743 $, 14 427 $, 15 196 $, 15 656 $, 17 589 $, 18 368 $ et 18 996 $.
+Le dossier est renvoyé au ministre du Revenu national pour réexamen et nouvelle cotisation.
+Signé à Ottawa, au Canada, ce 25e jour de février 2019.
+« R.S. Bocock »
+Juge Bocock
+Référence : 2019 CCI 42
+Date : 20180225
+Dossier : 2018-561(IT)I
+ENTRE :
+EVELYN E. WILSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] L’appelante (« Mme Wilson ») a omis de produire des déclarations de revenus pour les années d’imposition 2009 à 2015 inclusivement (les « années de cotisation »). Le ministre a cotisé Mme Wilson comme non-déclarante en vertu du paragraphe 152(7) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1, dans sa forme modifiée (la « Loi »).
+[2] Ce faisant, le ministre a établi des cotisations pour les montants suivants dans chacune des années de cotisation :
+a) prestations de retraite reçues d’un régime de pension agréé (les « montants de RPA »), entièrement selon les déclarations du payeur;
+b) prestations du Régime de pensions du Canada (« prestations du RPC ») reçues par Mme Wilson, là encore selon les déclarations du payeur au ministre;
+c) pension de Sécurité de la vieillesse (« prestations de la SV ») reçues par Mme Wilson, selon les déclarations du payeur;
+d) en ce qui concerne le revenu tiré d’une entreprise de gîte touristique exploitée à partir de la maison de Mme Wilson (l’« entreprise de gîte touristique »), les montants suivants en raison de ce qui suit :
+(i) revenu brut d’entreprise de 30 000 $ pour chaque année de cotisation;
+(ii) revenu net d’entreprise de 30 000 $ pour chaque année de cotisation – et, par implication, sans déduction de dépenses d’entreprise du revenu brut d’entreprise;
+(iii) cotisations non versées au Régime de pensions du Canada sur le revenu tiré d’un travail indépendant dans l’entreprise de gîte touristique pour chaque année de cotisation;
+e) pénalités de production tardive pour chaque année de cotisation dans le cas de l’impôt à payer qui était non versé à la date d’échéance du solde (les « pénalités pour production tardive »);
+f) pénalités de production tardive pour chaque année de cotisation dans le cas des cotisations au Régime de pensions du Canada sur le revenu tiré d’un travail indépendant qui étaient non versées à la date d’échéance du solde (les « pénalités au titre du RPC »);
+g) intérêts sur chacun des montants qui précèdent conformément à la Loi.
+[3] Le ministre a accordé à Mme Wilson un crédit pour l’impôt retenu à la source sur les montants reçus de tiers payeurs. Mme Wilson y est allée d’un témoignage anecdotique selon lequel, à son avis, les prestations de RPA qu’elle avait reçues étaient entachées d’erreurs d’arithmétique dans une surestimation du montant brut payé ou une sous-estimation de l’impôt retenu. Aucun élément de preuve précis, ni oral ni documentaire, n’étayait cette allégation. Cela mis à part et sauf pour les raisons exposées plus loin au sujet de l’accès aux dossiers, Mme Wilson n’a pas contesté les montants de RPA, les prestations du RPC, la pension de la SV ni l’absence de déclarations de revenus de sa part pour les années de cotisation. C’est pourquoi la Cour estime à titre préliminaire que les cotisations du ministre pour ces montants ne sont pas contestées et sont entièrement fiables. En soi, les cotisations relatives à ces montants sont donc justes.
+[4] Le reste de cet appel et les présents motifs portent sur l’entreprise de gîte touristique. Mme Wilson n’est plus propriétaire d’un terrain de plus de 21 acres et du logement à partir desquels elle exploitait ce gîte touristique. Ce bien a fait l’objet d’une ordonnance définitive de forclusion d’hypothèque à la demande d’un créancier hypothécaire et a finalement été repris en vertu d’un bref de mise en possession en juillet 2018. Le créancier hypothécaire, un certain Laurent Carrier, était un prêteur non institutionnel à l’origine de cette saisie en extinction d’hypothèque et, d’après Mme Wilson, il a par la suite vendu ce bien à un prix bien supérieur.
+[5] Quelles qu’aient été les opérations réelles, le résultat est clair : Mme Wilson est presque démunie, affectivement fragile et sans le gros des documents relatifs à son entreprise de gîte touristique. Il faut aussi dire qu’aucun nouveau report d’audition de l’appel n’aurait aidé. Mme Wilson n’entrevoyait pas ni n’espérait avoir accès à de tels documents, même sachant où ils étaient et ce qui pouvait en subsister. C’est dans le contexte de cet accès restreint aux dossiers de l’entreprise perdus pour Mme Wilson depuis au moins un an que la Cour entreprend d’examiner et de trancher la question des cotisations supplétives du ministre.
+[6] Certains documents ont été rendus disponibles que Mme Wilson avait récupérés après l’action en forclusion. Cette « certaine preuve » n’est ni parfaite ni inattaquable; c’est néanmoins une preuve sur laquelle s’est déjà appuyé le créancier hypothécaire, M. Carrier, dans l’action qu’il a intentée pour enlever le bien à Mme Wilson. Selon la règle de la meilleure preuve et vu la crédibilité foncière de cette certaine preuve émanant d’un tiers adverse, la Cour s’en remet à celle‑ci comme complétant jusqu’à un certain point le témoignage de vive voix de l’intéressée.
+[7] Pour commencer, le ministre a attribué à Mme Wilson un revenu brut de 30 000 $ par année de cotisation. Mme Wilson affirme pour sa part que le revenu brut était plus proche de 10 000 $ et n’avait jamais été de plus de 15 000 $. Lorsqu’on l’a priée d’indiquer un montant pour chaque année de cotisation, même dans la fourchette évoquée par elle, elle a refusé. Par ailleurs, un contribuable peut contester la nécessité d’une cotisation supplétive, la méthode employée par le ministre ou toute erreur de calcul; voir Golden c. Sa Majesté la Reine, 2009 CCI 396, aux paragraphes 11 et 12. Mme Wilson n’a pas produit de déclarations de revenus pour les années en question. Le ministre n’avait d’autre choix que d’user des droits que lui confère le paragraphe 152(7) et d’établir des cotisations par substitution. Mme Wilson n’a pas produit de preuve concernant la méthode appliquée par le ministre. Elle n’a présenté ni méthode ni document de rechange ou de choix pour faire voir qu’une méthode différente se justifiait. En dernier lieu, rien dans son témoignage ne donnait à penser autrement que par intuition ou une vague perception générale de sa part que le revenu brut n’était pas de 30 000 $ (le « revenu attribué ») pour chaque année de cotisation.
+[8] Ajoutons que les hypothèses du ministre quant au revenu brut sont modérées, voire prudentes comme simple arithmétique si on considère la preuve présentée en propre par Mme Wilson et la description de son entreprise préparée par elle en juin 2016. Cette description semble avoir été annexée aux documents de l’instance en forclusion. L’intéressée a calculé que les trois chambres de son gîte en activité depuis 2006 à 300 nuitées par an et à 150 $ la nuitée lui auraient procuré un revenu annuel de 135 000 $ (le « revenu optimal »). Elle a ensuite précisé que, en raison du litige en cours, ce revenu optimal avait été réduit à une somme de 50 $ à 100 $ la nuitée. Cela paraît incongru, parce que l’instance en forclusion elle-même n’a pas commencé sur le fond avant mars 2016, date postérieure à toute année de cotisation.
+[9] L’arithmétique employée semble raisonnable de la part du ministre. Il a attribué un revenu de 22 % du revenu optimal. Avec un tarif moyen de 75 $ la nuitée – à mi-chemin entre les valeurs de 50 $ et 100 $ avancées par Mme Wilson −, l’estimation par le ministre du revenu brut non déclaré se révèle prudente. Si Mme Wilson avait eu un client pour chaque chambre à raison de 133 nuitées par an, on aurait là les 30 000 $ estimés par le ministre. Le chiffre n’a rien de déraisonnable ni d’inimaginable comme hypothèse justifiable. Qui plus est, rien dans le dossier dont est saisie la Cour n’infirme cette hypothèse dans la cotisation supplétive si ce n’est l’indication générale, simple et vague, d’une fourchette de revenu de 10 000 $ à 15 000 $ dans toutes les années de cotisation et dans aucune en particulier. Le revenu brut estimé à 30 000 $ d’une entreprise de gîte touristique demeure.
+[10] Il existait toutefois une « certaine preuve » au sujet du revenu net probable ou d’un revenu net plus vraisemblable dans les années de cotisation. Mme Wilson a présenté des pièces provenant de l’instance en forclusion du créancier hypothécaire. Comme il était mentionné, ces documents, à savoir des lignes de texte intercalées comme données, des factures de tiers et des renvois à des documents judiciaires, allaient dans le sens des assertions de Mme Wilson au sujet de certains « coûts » liés au bien en cause. Sans qu’elle l’ait clairement exprimé, il reste que certains faits se dégagent implicitement des hypothèses du ministre et d’autres éléments de preuve. L’entreprise de gîte touristique était exploitée dans le bien en question. Le ministre a supposé que l’entreprise avait un revenu brut de 30 000 $ dans chaque année de cotisation. Si le bien commandait certaines dépenses d’exploitation ou d’occupation par Mme Wilson, on pouvait en déduire qu’elles avaient été supportées dans la mise à disposition de ce bien aux fins de l’exploitation de l’entreprise présumée. Ainsi, une certaine partie de ces dépenses pour l’entreprise de gîte touristique avait été supportée et était déductible du revenu brut attribué. En toute justice pour le ministre, précisons que, avant l’audience, Mme Wilson n’avait présenté aucun témoignage en ce sens, ni des observations autres que l’affirmation malavisée selon laquelle le litige hypothécaire la déchargeait quelque peu de son obligation devant la loi de produire des déclarations de revenus et de payer l’impôt.
+[11] À l’audience, on a produit devant la Cour pour chaque année de cotisation des preuves de tiers sur l’impôt et les frais d’intérêts et d’assurances payés par Mme Wilson. La source des données sur l’impôt foncier et les frais d’intérêts venait de la requête en jugement sommaire du créancier hypothécaire en juin 2016. La preuve sur les primes d’assurance provient d’une facture datée de mai 2016 et adressée à l’entreprise de gîte touristique. La prime en question est pour une année seulement. Pour simplifier, la Cour a utilisé la prime indiquée moins 100 $ pour chaque année antérieure de cotisation. Quant aux données sur l’impôt et les frais d’intérêts, elles sont disponibles pour chaque année de cotisation. Les montants globaux sont les suivants :
+Année
+Impôt
+Intérêts
+Assurances
+Total
+2009
+9 263,29 $
+10 651,37 $
+4 600,00 $
+24 514,00 $
+2010
+9 668,46 $
+8 777,48 $
+4 700,00 $
+23 146,00 $
+2011
+9 927,54 $
+6 880,95 $
+4 800,00 $
+21 608,00 $
+2012
+10 268,24 $
+5 160,56 $
+4 900,00 $
+20 688,00 $
+2013
+8 865,78 $
+2 956,22 $
+5 000,00 $
+16 822,00 $
+2014
+8 588,87 $
+1 574,87 $
+5 100,00 $
+15 264,00 $
+2015
+8 386,75 $
+420,79 $
+5 200,00 $
+14 008,00 $
+[12] La Cour estime que ces montants s’appliquent à l’ensemble du bien; il y avait 21 acres de terrain, et un certain pourcentage du logement était à l’usage personnel de Mme Wilson. Elle exploitait trois chambres dans son gîte touristique. On peut penser que le décor rustique et naturel de l’escarpement du Niagara était attrayant pour les clients du gîte. Ainsi, la Cour est disposée à permettre une déduction de moitié de ces dépenses comme étant liées à l’entreprise. Il ne faut pas oublier que, par définition, le gîte touristique servait le petit-déjeuner à chaque client pour chaque nuitée. Nul doute qu’il y avait d’autres frais directs liés aux 400 nuitées en dehors de l’impôt, des intérêts et des assurances. Ces frais directs d’entreprise varieraient selon que l’occupation était simple ou double. Pour simplifier, la Cour retiendra simplement 10 $ par jour et par nuitée payante. Le revenu moyen de chaque nuitée est de 75 $ selon la cotisation supplétive du ministre. Pour une occupation annuelle totale de 400 nuitées, le coût direct pour les clients en question se monte à 4 000 $ par an pour l’obtention du revenu brut de 30 000 $ attribué par le ministre. Ainsi, le revenu net de Mme Wilson, avec 50 % de dépenses en impôt, intérêts et assurances et 4 000 $ en frais directs afférents à la clientèle, serait le suivant :
+Année
+Dépenses totales au titre du bien
+50 % applicables à l’entreprise de gîte
+Autres frais directs de clientèle
+Dépenses totales de l’entreprise de gîte
+2009
+24 514 $
+12 257 $
+4 000 $
+16 257 $
+2010
+23 146 $
+11 573 $
+4 000 $
+15 573 $
+2011
+21 608 $
+10 804 $
+4 000 $
+14 804 $
+2012
+20 688 $
+10 344 $
+4 000 $
+14 344 $
+2013
+16 822 $
+8 411 $
+4 000 $
+12 411 $
+2014
+15 264 $
+7 632 $
+4 000 $
+11 632 $
+2015
+14 008 $
+7 004 $
+4 000 $
+11 004 $
+[13] Vu ce qui précède et une fois déduit le total des dépenses de l’entreprise de gîte touristique du revenu brut de 30 000 $ attribué par le ministre par année de cotisation, la Cour conclut que, sur la base même de la cotisation supplétive, le revenu net d’entreprise de Mme Wilson aurait plus probablement été de 13 743 $, 14 427 $, 15 196 $, 15 656 $, 17 589 $, 18 368 $ et 18 996 $ respectivement pour les années d’imposition 2009, 2010, 2011, 2012, 2013, 2014 et 2015.
+[14] La question des cotisations non versées au RPC sur le revenu tiré d’un travail indépendant doit être réexaminée en fonction des montants de revenu net d’entreprise ci-dessus.
+[15] Pour ces motifs, il est fait droit à l’appel interjeté du calcul du revenu net de l’entreprise de gîte touristique compte tenu des montants concordants en cotisations au RPC et en frais d’intérêts liés à l’impôt à payer. Les dépens ne sont pas adjugés.
+Signé à Ottawa, au Canada, ce 25e jour de février 2019.
+« R.S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2019 CCI 42
+NO DE DOSSIER DE LA COUR :
+2018-561(IT)I
+INTITULÉ :
+EVELYN E. WILSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 février 2019
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 25 février 2019
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Rhoda Lemphers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,208 @@
+---
+title: "Plamondon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25505/index.do"
+last_modified: "2003-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 779"
+citation2: ""
+neutral_citation: "2003 TCC 779"
+decision_date: "2003-11-14"
+language: "en"
+item_id: "25505"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2363
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:30:30.677000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8a36a603267cb12870d9c127c9f33a7dd11f75e0c89b17947d98886e55e35f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Plamondon c. La Reine
+
+- Citation: 2003 TCC 779
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2363, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plamondon c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-14
+Neutral citation
+2003 TCC 779
+File numbers
+2002-1394(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-1394(GST)I
+BETWEEN:
+JEAN-MARIE PLAMONDON,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeal heard on July 21 and 24 and September 15, 2003
+at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Léonce-E. Roy
+Counsel for the Respondent:
+Louis Cliché
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax made under Part IX of the Excise Tax Act for the period of June 1, 1996 to January 31, 1998, notice of which is dated October 11, 2000 and bears number PQ‑2000‑5314, is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of January 2008.
+Brian McCordick, Translator
+Citation: 2003TCC779
+Date: 20031114
+Docket: 2002-1394(GST)I
+BETWEEN:
+JEAN-MARIE PLAMONDON,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal was filed in response to a notice of assessment of goods and services tax ("GST") bearing number PQ‑2000‑5314 that was issued under the Excise Tax Act ("the Act") for the period of June 1, 1996 to January 31, 1998.
+[2] During the period covered by the assessment, namely June 1, 1996 to January 31, 1998, the Appellant was a director of Casse‑Croute Bon Appétit Inc. (hereinafter "the company").
+[3] The issue is whether the Appellant, as a director of the company at the time it was required to remit an amount of net tax, is jointly and severally liable to pay the amount the company failed to remit and any interest and penalties relating thereto.
+[4] The company was assessed for a period longer than the period to which this appeal relates.
+[5] The assessment under appeal covers the period from October 30, 1996 to September 28, 1998. During that period, the Appellant was a director of the company as a result of having purchased all of its shares (Exhibit A­‑1).
+[6] The assessment was made under subsections 323(1), (3) and (5) of the Act, which read as follows:
+(1) Liability of directors – Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+(3) Diligence – A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(5) Time limit – An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[7] Several people testified in support of the appeal.
+[8] The Appellant's daughter and her spouse had acquired a great deal of expertise in the restaurant business through their experience in various places. Believing that they had a very good plan, they devoted themselves fully to running a restaurant located near the garage operated by the Appellant.
+[9] The restaurant operated under the business name Casse‑Croute Bon Appétit Inc. They soon had to face a very disappointing reality, namely that they were not earning the income they had anticipated. Despite all their efforts, all sorts of initiatives and their own involvement, they had to face the fact that they did not have the financial resources to continue operating.
+[10] Since the Appellant's daughter and her spouse worked at the restaurant, the Appellant decided to keep it in operation so that his daughter would continue to have a job. He therefore purchased all the shares of the company, whose only commercial activity was operating the Casse‑Croute Bon Appétit Inc. restaurant.
+[11] To keep the restaurant in operation, the Appellant had to invest substantial amounts on a continuing basis. His daughter explained that she had been very uncomfortable with the idea of having to go and see her father regularly to ask him for the money needed to continue running the restaurant.
+[12] She prepared the cheques and went to her father's office at his place of business, and he signed the bank papers for their many liabilities and accounts payable.
+[13] During the entire time, she and her spouse maximized their efforts to increase the restaurant's income. Two‑for‑one specials, brunches and other events were organized, but nothing ever worked very well.
+[14] At one point, the Appellant went to the restaurant for a meeting with the employees. When he tried to explain how he saw the situation, his daughter's boyfriend rebuffed him and asked him to be quiet, claiming that he knew nothing about the restaurant business. Since he did not want to risk poisoning his relationship with his daughter, the Appellant decided to withdraw from the discussion.
+[15] The evidence did not disclose any other concrete initiatives by the Appellant to take control of the operations or assume some leadership.
+[16] The situation continued to deteriorate, and the Appellant's daughter even had to leave the business because her health was seriously affected by the turn of events. Since the business was a total failure and could not be put on the path to profitability, the Appellant decided to cease operations and sell the assets to a third party.
+[17] Following his decision, he made certain undertakings to the Respondent to pay the amounts then owed and informed the Respondent that he wanted to cancel his registration so he would no longer be an agent required to collect the GST.
+[18] The testimony of the Appellant's daughter inspired a great deal of sympathy when she talked about her relationship with her father, who was obviously concerned about her well‑being. There is no doubt that she benefited from his benevolence, generosity, attentiveness and great concern for the financial problems of the restaurant that gave her a job.
+[19] The Appellant was an informed businessman who had acquired considerable experience over the years. He had been associated with other corporate entities.
+[20] That expertise was apparent when he purchased the assets for the minimal amount of $1. He thus showed a completely legitimate reflex to protect his interests by setting things up in such a way that he could take control of the economic activity generated by the restaurant's operation.
+[21] The due diligence defence provided for in subsection 323(3) does not allow directors to evade their obligations by arguing that they were unlucky, naive or ignorant or by making other such excuses.
+[22] "Exercising the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances" is not just a trite phrase. Determining whether a director has done so implies that the director's actions or non‑action must be assessed in comparison with persons who, while not specialists, are generally well informed and are capable of obtaining information in cases when they are not well informed.
+[23] This defence cannot rely on excuses that are basically subjective. To assess whether there are grounds for a director to be liable, it is essential to consider the director's conduct in a comparative context in which the reference standard is someone who acts in an objectively prudent and properly informed manner and, above all, who is in control of the situation.
+[24] Considerations based on compassion, generosity, family sympathy or philanthropy must not guide or be the main factors shaping one or more economic decisions; in other words, persons who decide to invest in a commercial operation or get involved in income‑generating activities must comply with the applicable statutes and regulations.
+[25] Persons who do not have the necessary knowledge or qualifications must rely on qualified human resources. Otherwise, they have to accept the consequences of their actions or their failure to act.
+[26] If the issue in this case had to be resolved by considering factors related to fairness, the Appellant would indeed have made some positive points. Arguments based on fairness cannot be accepted. This Court must dispose of the appeal based solely on the Act's provisions. This duty was clearly set out in a decision rendered by McArthur J. of this Court on June 3, 2003 in Khullar Au Gourmet International v. The Queen, [2003] T.C.J. No. 348 (Q.L.). He stated the following at paragraph 31:
+Counsel for the Appellants went to great length in portraying the Minister's assessment as a "travesty of justice", referring not only to policy, but also to the Canadian Charter of Rights and Freedoms. It has been frequently held that fairness and equity have nothing to do with tax law.
+[27] The Appellant demonstrated that the Quebec Department of Revenue ("Department") handled his case in a highly questionable manner, since he obtained incomplete or inadequate information and there was no consistency in the handling of his case. He also criticized the Respondent's power to take the law into her own hands by withholding amounts or requiring payment in a case even before a judgment is rendered.
+[28] Even if the Appellant had good reason to be deeply displeased, offended, shocked or even incensed by the way the Respondent dealt with his case, and even if he was very vulnerable in the face of his daughter's financial problems, I cannot take account of either his frustration or the compassionate considerations that emerge from the evidence; basically, the question I must answer is whether or not he was reasonably prudent in performing his duties as the company's sole director in collecting amounts of goods and services tax ("GST") and remitting them to the respondent.
+[29] Assessing the facts to decide whether a director has acted with sufficient diligence in fulfilling the director's mandate requires an approach that is both objective and subjective.
+[30] Agreeing to act as a director is in itself a very real responsibility and requires that several factors be considered. Often, such persons may not have the appropriate knowledge and must then surround themselves with people who are qualified to provide the proper guidance and advice.
+[31] Ignorance of the Act and its requirements cannot be a valid excuse to avoid one's obligations. Persons who decide to become involved in a commercial venture generally do so to derive some benefit therefrom, and they must be aware of the risks inherent in their choice.
+[32] In the instant case, the Appellant was an experienced and informed businessman. He had been working in automobile sales for several years and had had to deal with many things, including several employees, competition, promotions, advertising, management and administration.
+[33] For this purpose, he undoubtedly had to rely on professional people, such as an accountant, a lawyer and so on.
+[34] One day, to help out his daughter, he decided to take action in the hope of solidifying her employment and that of her spouse. His very prudent first reflex was to purchase all the shares so he would be able to make decisions, monitor, supervise and ultimately reap the benefits.
+[35] The evidence showed that the restaurant was located near the garage he operated. He was able to go there regularly. As well, his daughter came to see him regularly to obtain capital outlays that totalled more than $150,000, a substantial amount.
+[36] Some employees of the restaurant also came to see him to ask him to intervene.
+[37] During the entire time, he never did anything concrete, specific or definite to ensure that the goods and services tax was collected and remitted.
+[38] What concrete action did the Appellant take to try to prevent the company from failing to remit the GST? Absolutely nothing apart from trying to give his daughter some advice during a meeting, which, for that matter, had nothing to do with the collection of the tax owed. He never called on the services of his brother, an accountant, who worked for him in his own business. He trusted his daughter and regularly injected money to keep the restaurant in operation.
+[39] Of course, he was a father concerned about his daughter's well‑being; he was certainly very generous, but unfortunately his noble sentiments neither excuse nor erase the obligations that resulted from his role as a director.
+[40] There were aspects of the evidence that elicited sympathy, but in no way did the evidence show – and the burden of proof was on the Appellant in this regard – that the Appellant had established a system to ensure that tax was collected and remitted in accordance with the Act's provisions.
+[41] The Appellant invested huge sums in the business and derived no benefit therefrom, apart from the business investment losses he claimed and was allowed.
+[42] However, he has not shown that he made the necessary arrangements to avoid a potential assessment. The facts and circumstances were such that a reasonably informed and prudent person should have known and understood that, in the difficult context that existed, there was a stronger likelihood of irregularities in the remittance of the tax payable.
+[43] The Appellant, being no doubt very concerned about the need to put large amounts of money into a bottomless pit, showed some indifference to the duties that the company he headed had to assume as an agent.
+[44] The fact that he assumed the tax was being collected and remitted because he was making large capital outlays on a regular basis is certainly not enough to find due diligence or reasonably prudent behaviour.
+[45] On the contrary, it should have made him suspicious, since in such a situation the reflex is often to use taxes to fund operations. Moreover, his daughter was uncomfortable about having to constantly ask him for money.
+[46] The Appellant has not discharged his burden of proof by showing on a balance of probabilities that he acted with due diligence. Rather, the evidence showed that he was a generous, compassionate father deeply concerned about his daughter's well‑being.
+[47] His responsibility as a director to collect and remit tax was not given a level of attention and concern worthy of the informed businessman he was at the time.
+[48] For all these reasons, I find that the Appellant has not discharged his burden of proof by showing on a balance of probabilities that he acted with prudence and diligence, having regard to his expertise and skill.
+[49] In addition, the Appellant was very insistent that the assessment should be vacated because the time limit for making it had passed. He argued vigorously that he was no longer a director of the company from the time he expressly told the Respondent to cancel the registration of the number used for collecting the GST. As well, the restaurant had ceased operating and the assets had been sold to a third party who continued operations through another company.
+[50] Although the company of which the Appellant was the sole director and shareholder ceased its restaurant operations, which were its only economic activity, and took the necessary steps to give up its tax number, thus ending its mandate as a GST collector, its juridical personality remained. Ceasing business, being inactive or having no activities whatsoever does not automatically mean that a company ceases to be a legal person. The Appellant did not sell or transfer his shares, since the third party purchaser basically took possession of the assets.
+[51] Every director continues to be a director even if activities have totally ceased. Can a de jure director lose this status because the company ceases the day‑to‑day activities for which it was incorporated?
+[52] The Appellant submitted that, in all fairness, this must be the case. If he had been a de facto director, it might have been the case, since the actions that gave rise to that status would have ceased.
+[53] However, the situation is very different for a de jure director, whose status originates in the articles of the company itself. For a de jure director to cease being a director, it is essential that the applicable formal and substantive requirements be fulfilled faithfully and completely. Otherwise, the director will remain a director until the legal requirements have been met.
+[54] This is not an interpretation. It is essentially based on the many court decisions rendered on this point. I am referring in particular to the following decisions:
+· In Birchard v. Canada, [2003] T.C.J. No. 128 (Q.L.), Rowe J. stated the following:
+In the within appeals, the appellants delivered a letter of resignation – as directors of Dortec – to the residence of Mark Johnson, a fellow director. Unfortunately, they did not seek legal advice and did not contemplate filing a notice of their resignation with the Registrar of Companies. The letter of resignation could have been tacked to the door of the now‑vacant Dortec business premises and a copy thereof later provided to either or both of the bailiff firms and to CCRA. The empty building was still designated as the Dortec Registered Office and, at this point, Connie Birchard and Perry Birchard were the sole shareholders of Dortec. Johnson made an assignment in bankruptcy on June 21, 1999 – approximately 3 months after the putative resignation was delivered to him. I have difficulty in understanding what goal the appellants thought they were achieving by taking that course of action since it was the act of giving notice to the public at large – by filing the proper document with the Registrar of Companies – that was important. Moreover, proper notice of a legal resignation – as director – by each appellant was critical as it pertained to specific Dortec debts which – if left unpaid – presented an ever‑increasing risk of personal liability.
+In light of the matters discussed within the context of the relevant jurisprudence, I conclude neither of the appellants had ceased to be a director of Dortec on March 1, 1999 and the two‑year limitative argument therefore fails.
+· In Ciriello v. Canada, [2000] T.C.J. No. 829 (Q.L.), a case relating to subsection 323(5) of the Act, Rip J. reiterated that a company director does not cease to be a director when the company goes bankrupt.
+42. A corporation continues to exist when it makes an assignment in bankruptcy or is petitioned in bankruptcy and a trustee in bankruptcy is appointed. The directors may no longer be operating the bankrupt corporation but they are still directors.
+43. I am bound by the Federal Court of Appeal decision in Kalef. Mr. Ciriello did not cease to be a director on or about June 25, 1994.
+· In Martin v. Canada, [2003] T.C.J. No. 362 (Q.L.), Dussault J. also dealt with this question and discussed Kalef v. Canada, [1996] F.C.J. No. 269 (Q.L.). He stated the following:
+7. The corporation ceased operations in April or May 1997. However, it did not declare bankruptcy and has not been dissolved. It is still in existence even if this existence is described as artificial by counsel for the Appellant since, according to him, its only purpose is to make absolute a suit for damages for professional liability against the accounting firm Raymond, Chabot, Martin, Paré. Since the corporation is no longer able to carry out the activities for which it was formed, counsel for the Appellant maintains that it would be fair and equitable that it be dissolved and that it would have been had it not been for the lawsuit against the accounting firm from which the ministère du Revenu du Québec (the "Ministry") could potentially benefit following an agreement with the solicitors for the corporation. According to him, in circumstances such as these, it [translation] "would be unfair and illogical to convict the Appellant on the pretext that he is still director of the company while it has lost every 'substratum', that is, that it is impossible for it to pursue the objectives for which it was in operation, or its reason for existence, and that it would be fair and equitable for it to be liquidated, if it weren't for the prosecution laid against Raymond Chabot for the sole benefit of the ministère du Revenu".
+. . .
+13. The corporation is still in existence. There is no evidence that the Appellant has resigned, that he was removed or became disqualified. To the contrary, the Appellant has acknowledged that he was always the only director of the corporation. He has stated that he furthermore is still producing financial statements and annual reports. Subsection 323(5) should only be interpreted in light of this legal situation. Under these circumstances, it is obvious that there can be no limitation since the Appellant has never legally ceased to be the corporation's director.
+[55] In Bonch v. Canada, [2002] T.C.J. No. 687 (Q.L.), the Federal Court of Appeal set aside a trial decision and affirmed once again that a de jure director of a company did not cease to be a director until he met the requirements for doing so under the statute governing the company's incorporation and that the limitation period therefore ran only from the time when the taxpayer ceased being a director of the company.
+[56] Here, the Appellant was indeed a de jure director of the company. He had not lawfully resigned or been removed from office. Although the company had ceased its commercial activities (operating the restaurant) and had requested that its status as a registrant be cancelled, this had no effect on the Appellant's status as a director.
+[57] During the entire period covered by the assessment, the Appellant was involved in day‑to‑day management and administration and, more particularly, provided financing and financial support. He said that he was excluded from a strategy meeting by his daughter's boyfriend on the pretext that he had no expertise in the restaurant business. Although this was confirmed by the very person who affronted him, the Appellant cannot fall back on that incident as an excuse or justification for losing his status as a director.
+[58] As the owner of all the voting shares, the Appellant was also the only financial backer. He could and should have been assertive and made the necessary decisions so that things would unfold in line with his own expectations and concerns.
+[59] The Appellant was the company's de jure director and thus the only person with the power to make all the decisions, particularly those about financial affairs and those that might have consequences for his personal liability.
+[60] In this case, while I am sympathetic to the explanations provided based on the family context, a context that was unusual and difficult, none of this was sufficient or acceptable to show that the Appellant had ceased being a director. At the time of the assessment, he was still legally a director. Accordingly, the limitation period had not started running, which means that the Appellant's main argument in support of his appeal cannot be accepted, since the time limit had not expired.
+[61] For all these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 14th day of November 2003.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of January 2008.
+Brian McCordick, Translator
+CITATION:
+2003TCC779
+COURT FILE NO.:
+2002-1394(GST)I
+STYLE OF CAUSE:
+Jean-Marie Plamondon and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATES OF HEARING:
+July 21 and 25, 2003
+and September 15, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+November 14, 2003
+APPEARANCES:
+For the Appellant:
+Léonce-E. Roy
+For the Respondent:
+Louis Cliche
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Léonce-E. Roy, Attorney
+City:
+Ste-Foy, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

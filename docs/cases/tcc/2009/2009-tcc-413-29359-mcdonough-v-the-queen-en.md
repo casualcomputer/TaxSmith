@@ -1,0 +1,201 @@
+---
+title: "McDonough v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29359/index.do"
+last_modified: "2009-08-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 413"
+citation2: ""
+neutral_citation: "2009 TCC 413"
+decision_date: "2009-08-24"
+language: "en"
+item_id: "29359"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6912
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:02:34.412000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c01b2acef858a1ed86036a7ef1afb55d87ee2a2fa2adaec9884407d97dad5b98"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McDonough v. The Queen
+
+- Citation: 2009 TCC 413
+- Decision date: 2009-08-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6912, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDonough v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-24
+Neutral citation
+2009 TCC 413
+File numbers
+2004-919(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-919(IT)G
+BETWEEN:
+PATRICIA MCDONOUGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+DONALD SINCLAIR,
+Third Party.
+____________________________________________________________________
+Appeal heard on March 19th and 20th, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Bernard Fontaine
+Counsel for Third Party:
+Keith Linda Lazard
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, notice of which is dated August 15, 2003 with respect to the 2000 taxation year is allowed with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the transfer in 2000 of the Westmount residence did not constitute payment of alimony arrears.
+Signed at Magog, Quebec, this 24th day of August 2009.
+“Pierre Archambault”
+Archambault J.
+Citation: 2009 TCC 413
+Date: 20090824
+Docket: 2004-919(IT)G
+BETWEEN:
+PATRICIA MCDONOUGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+DONALD SINCLAIR,
+Third Party.
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Ms. Patricia McDonough is appealing an income tax reassessment made by the Minister of National Revenue (Minister) pursuant to paragraph 56(1)(b) of the Income Tax Act (Act). The Minister treated the transfer of the matrimonial home by Mr. Donald Sinclair, Ms. McDonough’s former husband, as a payment in satisfaction of taxable arrears of alimony. Ms. McDonough argues that the residence was transferred to her as a lump sum payment which did not constitute taxable spousal support. The respondent having made an application for the joinder of Mr. Sinclair in Ms. McDonough’s appeal, then Associate Chief Justice Bowman granted the application in November 2004.
+[2] There is no dispute among the parties that all the conditions set out in paragraphs 56(1)b) and 60(b) of the Act have been met, except with regard to the matter of whether the transfer of the matrimonial home represented spousal support “payable on a periodic basis”.
+Facts
+[3] Ms. McDonough and Mr. Sinclair were married in December 1976. They separated in October 1997 and divorce procedures were instituted in January 1998. They had two children who were aged 11 and 14 at the time. An interim order to pay pre-tax spousal support of $12,887 per month and child support of $4,605 per month was issued by Justice Maughan of the Quebec Superior Court on April 29, 1998. From April 1998 to October 16, 2000, Mr. Sinclair accumulated support arrears of $281,256.
+[4] Sometime before the hearing of the application for divorce on its merits, which began on June 6, 2000, a motion to cancel or review the interim support order was brought before Justice Capriolo by Mr. Sinclair’s lawyer, Mr. Gerald Stotland. The basis for this motion was that Justice Maughan had overestimated Mr. Sinclair’s income. Mr. Sinclair was a stockbroker working for CIBC Wood Gundy and, like most stockbrokers, was earning commission income which depended upon the number and the size of stock transactions done for his clients. Justice Maughan assumed a level of income close to $500,000 while Mr. Sinclair claimed that his future income would more likely be around $150,000. He therefore, claimed that his earning capacity did not allow him to fulfil his obligations to pay both the spousal and child support ordered by Justice Maughan. Part of Mr. Sinclair’s problem was that his credibility had been questioned by Justice Maughan because of contradictory evidence presented before him.
+[5] Unfortunately, these divorce proceedings, like all too many others, became nasty. The two children had to testify at one point before the Quebec Superior Court. Furthermore, Mr. Sinclair had, according to Mr. David Schatia, the attorney representing Ms. McDonough in the divorce proceedings, to a great extent depleted his assets, including assets that had been gifted to him by his father. This was due in part to a lavish lifestyle, which included owning several luxury automobiles, and to a drug addiction. Mr. Schatia was very concerned about the financial security of his client and both the financial stability and health of Mr. Sinclair. It should be noted that Ms. McDonough had never worked after becoming pregnant for the first time and continued to be a caregiver until she separated from Mr. Sinclair. Mr. Schatia therefore made a proposal with a view of resolving the dispute. In order to ensure future security for Ms. McDonough, he suggested that she be given ownership of the matrimonial home situated on Upper Roslyn Avenue in Westmount and that she abandon any claim to arrears of alimony. Mr. Schatia was able to convince Mr. Stotland of the merit of his proposal.
+[6] Mr. Sinclair’s estimate, given during his testimony before me, was that this residence was worth between $600,000 and $700,000. In his reply to the amended notice of appeal, the Minister assumed that the house was worth over $500,000[1]. Both counsel who acted with respect to the divorce stated in their testimony that they agreed on the payment of a lump sum within the meaning of the Divorce Act[2] for the purpose of affording future financial security to Ms. McDonough. Mr. Stotland stated that during the negotiations no discussion took place as to the taxable nature of this lump sum. The lump sum represented, as he put it, the global solution to the overall problem. No value was put on the arrears, on the family patrimony or on any claim for a compensatory allowance.
+[7] The agreement occurred during the course of the hearing before Justice Capriolo and the Partial Consent to Judgment on Accessory Measures was signed on June 8, 2000 (Exhibit A-5). This document was drafted by Mr. Stotland, Mr. Sinclair’s counsel. The key provisions are the following:
+B. LUMP SUM PAYMENT, FAMILY PATRIMONY AND ARREARS OF SUPPORT
+1. THAT Defendant undertakes to transfer to Plaintiff, as a lump sum payment for her maintenance, all of his rights, title and interest in the immovable property located at 698 Upper Roslyn in the city of Westmount, district of Montréal within thirty (30) days from the signing of this consent;
+2. THAT Plaintiff shall retain the sole and absolute ownership of all the furnishings and movables located in the residence at 698 Upper Roslyn;
+. . .
+4. THAT the transfer of ownership of the residence situated at 698 Upper Roslyn is also effected in lieu of payment of any accumulated arrears of alimentary allowance and child support.
+. . .
+7. THAT Defendant undertakes to obtain Main Levée and Discharge of the Deed of Collateral Loan with Royal Bank of Canada currently registered against the property at 698 Upper Roslyn within three (3) months from the signing of this agreement;
+C. ADDITIONAL LUM SUMP
+1. THAT Defendant undertakes to pay Plaintiff the sum of twenty-five thousand ($25,000) within 30 days from the signing of this consent in order to assist Plaintiff with the cost of the repairs and improvements which are needed in the former common domicile;
+D. PROVISIONS FOR COSTS
+2. THAT Defendant undertakes to pay the attorney for Plaintiff a provision for costs in the amount of thirty thousand ($30,000) within thirty (30) days from the signing of this consent;
+. . .
+G. SPOUSAL SUPPORT AND CHILD SUPPORT
+1. THAT the parties acknowledges [sic] that Defendants [sic] gross earnings from his employment in the calendar year 1999 totaled one hundred and sixty-three thousand four hundred and thirty-five and eighty-eight cents ($163,435.88);
+2. THAT Defendant accepts the sum of one hundred and sixty-three thousand four hundred and thirty-five and eighty-eight cents ($163,435.88) per annum for the purposes of establishing child support and spousal support in the present instance;
+H. MISCELLANEOUS PROVISIONS
+1. THAT Plaintiff undertakes not to register the present judgment against any immovables owned by Defendant, save in the event that Defendant is in arrears of support and has not cured the arrears within fifteen (15) days from receipt of written notice;
+2. THAT subject to completion of the undertakings set out in paragraphs B. (1), (2), (6,) (7), C. (1), D (1), E (1) and F.(1) and (2), the parties hereby irrevocably renounce one against the other to [sic] any and all claims of any nature arising out of their marriage, with respect to claims of lump sum, compensatory allowance, further division of family patrimony or claims in virtue of the marriage contract or arrears of support resulting from the judgment on provisional measures;
+3. THAT the Wife declares that the prenuptial marriage contract has been satisfied in its and hereby grants entirety the Husband a complete release and discharge thereof;
+. . .
+6. THAT the parties shall proceed to the partition of their respective Canadian Pension Plans and Quebec Pension Plans according to law.
+[My emphasis].
+[8] According to Mr. Stotland, Mr. Sinclair had to agree to this partial settlement, given the credibility issues, in particular, with respect to his level of income, that had arisen during the course of the hearing of the motion for interim relief before Justice Maughan. The only major aspect on which the parties could not agree was the amount of future spousal support to be paid to Ms. McDonough.
+[9] It was the hope of Mr. Stotland that Justice Capriolo would take into account the significant asset being transferred to Ms. McDonough. In his view, Ms. McDonough would not be able to afford the cost of owning the Westmount residence and its sale was therefore inevitable. He estimated, in his argument before Justice Capriolo, that she would be able to obtain at least $500,000 for it, which would represent capital that could generate $30,000 of income. This argument clearly shows that Mr. Stotland assumed that the transfer of the Westmount residence as a lump sum to Ms. McDonough did not constitute taxable support in her hands and that the full amount of the value of the residence would be available for the purpose of investment. Mr. Stotland confirmed this in his testimony (see par. 303, 304,583, 584, 592, 593 of the transcript). He also indicated that he knew that a payment of arrears would be deductible for the payor (see par. 652 and 665 of the transcript).
+[10] Mr. Schatia testified that he informed Ms. McDonough that the transfer of the Westmount residence would not be taxable in her hands. This was confirmed by Ms. McDonough. On the other hand, both Mr. Stotland and Mr. Sinclair indicated that, to the best of their recollection, they did not discuss during the negotiations the tax treatment of the transfer of the Westmount residence. Had Mr. Sinclair required his legal opinion on the matter, Mr. Stotland would have referred him to a tax professional. It is interesting to note that Mr. Sinclair did not claim in his tax return the amount of $314,647 in spousal support that the minister included in Ms. McDonough’s income. He only claimed an amount of $52,550, which indicates that Mr. Sinclair did not believe that he was paying his support arrears when he agreed to transfer the Westmount residence to his wife.
+[11] It should also be noted that, when Justice Capriolo issued her judgment, the amount of monthly support that Mr. Sinclair was ordered to pay was reduced to $2,303 for spousal support and $2,683 for child support, a significant reduction from the $12,887 and $4,605 respectively ordered by Justice Maughan. It is apparent that she took into account not only the fact that Ms. McDonough became the owner of the Westmount residence, but also the acknowledgment by Ms. McDonough that Mr. Sinclair’s gross earnings were $163,435 for the purpose of establishing child and spousal support, as stated in clause G.2 of the partial consent agreement.
+[12] When Mr. Stotland was cross-examined before this court, he testified that clause B.4 should be read within the context of the whole partial consent agreement. In his view, the words “in lieu of” where synonymous with “instead of”, that is, Mr. Sinclair did not have to pay the arrears (see par. 438 to 440 of the transcript). Mr. Stotland also pointed to clause H.2 of the partial consent agreement, in which Ms. McDonough renounced her claim to support arrears resulting from the judgment on interim relief.
+[13] Mr. Stotland also indicated that if he had meant to deal with the payment of the arrears through the transfer of the Westmount property he would have drafted the agreement differently: he would have included in the agreement a breakdown of the figures. Given that no discussion took place with respect to the arrears, he obviously had to protect his client in agreeing to the transfer of the Westmount property and make sure that the lump sum that the transfer represented would cover all potential claims that Ms. McDonough may have had against Mr. Sinclair, including any claims arising from her marriage to Mr. Sinclair, such as a claim for a compensatory allowance, a claim with respect to any entitlement resulting from the division of the family patrimony, claims based on the marriage contract and claim for the arrears. The only claims that were not covered by the agreement respecting the transfer of the Westmount residence were those for future spousal and child support and for division with respect to the Canada Pension Plan or Quebec Pension Plan.
+[14] The Westmount residence was eventually transferred by deed executed before a notary on September 1, 2000. In accordance with the partial consent agreement, Mr. Sinclair had secured the cancellation of the various mortgages affecting the property.
+[15] It is also interesting to note that the Quebec Ministère du Revenu did not treat the transfer of the Westmount residence as payment of the arrears. It treated it instead as the cancellation of those arrears (see Exhibit A-7, page 2).
+[16] As anticipated by Mr. Stotland, Ms. McDonough, even though she received a lump sum payment of $25,000 for repairs and improvements to the Westmount residence, disposed of the house, in 2002.
+Analysis
+[17] The key provisions of the Act which are applicable here are paragraph 56(1)(b), subsection 56.1(4) (definition of “support amount”) and paragraph 60(b), which are reproduced under:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer’s income for a preceding taxation year.
+. . .
+56.1(4) “support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+. . .
+60. There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable:
+. . .
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year.
+[My emphasis.]
+[18] Basically, the outcome of this appeal depends on whether the transfer of the Westmount residence can be considered to have been made in payment of the arrears owed by Mr. Sinclair. All parties agree that, if such is the case, Ms. McDonough’s appeal should be dismissed and Mr. Sinclair should be entitled to an equivalent amount as a deduction for support. In the light of the decision rendered by the Federal Court of Appeal in The Queen v. Sills, 85 DTC 5096, it is clear that the payment of arrears, whether made in a lump sum or by instalments, would still represent the payment of spousal support payable “on a periodic basis”.
+[19] Here, counsel for Ms. McDonough argued that the transfer of the residence constituted a non-taxable payment. In his view, either it represents a new obligation, a novation within the meaning of article 1660 et seq. of the Quebec Civil Code or, alternatively, it simply represents another debt and the old debt (the arrears) owing by Mr. Sinclair was extinguished by Ms. McDonough’s renunciation. Therefore, the transfer could not be considered as having been made in payment of arrears. He relied on the decision of the Federal Court of Appeal in McKimmon v. M.N.R., 1989 CarswellNat 406, [1990] 1 C.T.C. 109. In that decision, Hugessen J.A. described the factors which may properly be taken into account in deciding whether an amount constitutes a periodic payment made as an allowance for maintenance (which is deductible) or an instalment of a lump or capital sum (which is not deductible). Counsel relied especially on the fifth and eighth factors described by Justice Hugessen at paragraphs 15 and 18. He also cited in support of his position the dicta of Sharlow J.A. in Peterson v. R., 2005 FCA 223, 2005 DTC 5365, [2005] 3 C.T.C. 277, in particular the following at paragraphs 36 and 46.
+36 In my view, a written agreement or court order cannot be interpreted as obliging a person to pay arrears of child support unless, at the time the written agreement or court order is made, there is (1) an express or implied recognition of a pre-existing obligation to pay child support for a prior period, (2) an express or implied recognition of a complete or partial breach of that obligation, resulting in arrears of child support, and (3) an obligation set out in the written agreement or court order to pay the arrears in whole or in part.
+. . .
+46 The Judge considered that allocating the $36,000 over the 36 months from January 1994 to December 1996 is the “most reasonable and common sense” interpretation of section 6 of the Minutes of Settlement. I must respectfully disagree. On December 16, 1996, each of the parties faced the prospect of litigating the 1991 separation agreement, which presented significant challenges for both of them. The litigation would have involved numerous issues, some involving issues with potential long term effects that would have been more significant than arrears of child support. They might have settled the unpaid child support issues in a way that would formally recognize the arrears, and provide for their payment or partial payment. Or, they might have put aside the issue of arrears of child support and created an entirely new obligation. It is impossible to determine from the record that either one of those solutions would have been more reasonable than the other.
+[20] In my view, considering the evidence as a whole, the transfer of the Westmount residence did not constitute payment of the arrears. First, the obligation to pay those arrears was contested in a motion to cancel or to review the interim support order issued by Justice Maughan. The solution proposed by Ms. McDonough’s lawyer, Mr. Schatia, represented an alternative to the collection of the arrears. He recommended that Ms. McDonough renounce her claim for the arrears and accept instead the transfer of the Westmount residence as lump sum capital to ensure long-term financial security for her. The Westmount residence represented a value significantly greater than the arrears amount. It is evident that Mr. Sinclair himself did not believe that he was paying arrears when he transferred this property. Mr. Sinclair’s lawyer in his argument before Justice Capriolo also assumed that the transfer of the Westmount residence did not constitute payment of the arrears. On the contrary, he assumed that it was a capital payment that would enable Ms. McDonough to eventually earn investment income from it. Mr. Sinclair did not claim a deduction for the value of the Westmount residence which he transferred to his former wife. Finally, the Quebec Ministère du revenu which was responsible for the collection of alimony, did not treat the transfer as payment of the arrears. It simply cancelled the arrears. In my view, the Westmount residence constituted a capital payment made to Ms. McDonough.
+[21] Therefore Ms. McDonough’s appeal should be allowed with cost, and the reassessment should be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the transfer in 2000 of the Westmount residence did not constitute payment of alimony arrears.
+Signed at Magog, Quebec, this 24th day of August 2009.
+“Pierre Archambault”
+Archambault J.
+CITATION: 2009 TCC 413
+COURT FILE NO.: 2004-919(IT)G
+STYLE OF CAUSE: PATRICIA MCDONOUGH V. HER MAJESTY THE QUEEN AND DONALD SINCLAIR
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 19, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: August 24, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Bernard Fontaine
+Counsel for Third Party:
+Keith Linda Lazard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Aaron Rodgers
+Firm: Spiegel Sohmer Inc.
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Third Party: Keith Linda Lazard
+Firm: Dominique Larose Avocats
+Montreal Quebec
+[1] This is a number that was used in argument by Mr. Stotland before Justice Capriolo, who pronounced the divorce on June 14, 2000 (Exhibit A‑6).
+[2] It appears that both counsel were referring to section 15.2 of the Divorce Act which provides as follows:
+A court of competent jurisdiction may, on application by either or both spouses, make an order requiring a spouse to secure or pay, or to secure and pay, such lump sum or periodic sums, or such lump sum and periodic sums, as the court thinks reasonable for the support of the other spouse.

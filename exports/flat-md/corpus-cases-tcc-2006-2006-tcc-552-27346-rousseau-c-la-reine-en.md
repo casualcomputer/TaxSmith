@@ -1,0 +1,147 @@
+---
+title: "Rousseau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27346/index.do"
+last_modified: "2006-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 552"
+citation2: ""
+neutral_citation: "2006 TCC 552"
+decision_date: "2006-05-05"
+language: "en"
+item_id: "27346"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 168
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:06:08.713000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9609e80e8c16c6c3455522ab5a9bc4e0738c568bd467f2184e22a8ebcddf41b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rousseau c. La Reine
+
+- Citation: 2006 TCC 552
+- Decision date: 2006-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 168, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rousseau c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-05
+Neutral citation
+2006 TCC 552
+File numbers
+2005-1208(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC552
+Date: 20061106
+Docket: 2005-1208(IT)I
+BETWEEN:
+SYLVAIN ROUSSEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on May 5, 2006, at Ottawa, Canada)
+Paris J., F.C.C.
+[1] This is a reassessment for the Appellant’s 2001 and 2002 taxation years. The Minister denied Mr. Rousseau the deduction set out in paragraph 8(1)(h.1) of the Income Tax Act for motor vehicle costs claimed for each of those years.
+[2] Mr. Rousseau is a plumber and was employed by S & R Mechanical (S & R) for all of 2001 and in 2002 until the beginning of May. From May 2002 until the end of 2002, he was an employee at Modern Niagara inc.
+[3] For each year, Mr. Rousseau claimed a deduction for the use of a motor vehicle for travel between his residence and the job sites where he worked for these employers.
+[4] He also said he travelled certain days between different job sites and that he used his vehicle to run work-related errands.
+[5] The issue is whether the Appellant is eligible for the deductions shown.
+[6] Paragraph 8(1)(h.1) of the Act reads as follows:
+In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+[7] The conditions that the taxpayer must meet to be entitled to this deduction are the following:
+1. he must be ordinarily required to perform the duties of his employment away from his employer’s place of business or at different places;
+2. he must be required, under his contract of employment, to pay for these travel costs or the costs relating to his vehicle;
+3. he must have incurred the travel costs deducted in the performance of his duties.
+[8] Concerning the first condition, the evidence reveals that the Appellant never went to the headquarters of S & R or of Modern Niagara. He went directly from his home to the different job sites and from there he went directly home.
+[9] Therefore, concerning the first condition, for Mr. Rousseau to be entitled to the deduction in question, the job sites where he worked would have to not be places of business of his employers or Mr. Rousseau would have to be required to perform the duties of his employment at different places.
+[10] According to the testimony of Serge Robert, president of S & R, the Appellant worked at three different job sites for S & R in 2001 and 2002.
+[11] S & R had no site office at the first site, at 219 Laurier Street (an office building), but did at the other two, St. Joseph Printing and the Kanata Golf Club.
+[12] In the site office at the printing house, there was office equipment, including a telephone and a fax machine.
+[13] Mr. Robert indicated that there was a desk, a table and possibly a telephone and a fax machine in the site office located in the basement of the golf club.
+[14] It seems to me that the two site offices – at the printing house and at the golf club – were places of business of S & R.
+[15] I would differentiate them from places described in Champaigne v. Canada, 2006TCC74, by the fact that, in this case, the premises were used as temporary offices for S & R and not only as rest areas and lunch rooms for the employees.
+[16] In the case of Modern Niagara, Mr. Rousseau testified that he had worked on four sites in 2002.
+[17] However, a representative of Modern Niagara filed with the Court an excerpt from the company’s records indicating that Mr. Rousseau had only worked at the Ottawa airport that year.
+[18] Although she admitted that it was possible that Mr. Rousseau had worked at other sites, I got the impression that this possibility was minimal.
+[19] Moreover, Mr. Rousseau, in cross-examination, was unable to say with certainty whether he had worked at sites other than the airport in his work with Modern Niagara that year.
+[20] In light of all the evidence, I am not convinced that Mr. Rousseau worked at sites other than the airport in his work for Modern Niagara. The evidence also reveals that Modern Niagara had a site office at the airport where it had office telecommunications equipment. In my opinion, this would be a place of business of Modern Niagara within the meaning of paragraph 8(1)(h.1) of the Act. For these reasons, the Appellant did not meet the first condition for the deduction of costs incurred for his travel between his residence and his employment for Modern Niagara, and these costs are not deductible.
+[21] It remains to be determined, for the period when he worked for S & R, whether Mr. Rousseau was ordinarily required to perform the duties of his employment at different places in 2001 and 2002.
+[22] For 2001, as I have already indicated, Mr. Rousseau worked at three sites for S & R. Although Mr. Rousseau said that there may have been others, this fact was never demonstrated by adequate evidence.
+[23] Yet Mr. Rousseau said that he changed sites for S & R based on instructions that he received from his employer every day. This leads me to believe that S & R had more than one site at a time and that the Appellant could find himself at different sites during the same week.
+[24] As a result, he would have been required to work at different places. He therefore meets the first condition of paragraph 8(1)(h.1) of the Act for 2001 and part of 2002 as an employee of S & R.
+[25] Let us now look at the second condition.
+[26] The Respondent claims that Mr. Rousseau was not obliged to cover his vehicle costs under his employment contract.
+[27] However, the T-2200 signed by each employer’s representative indicates that Mr. Rousseau had to travel in the course of his employment and that he did not receive a travel allowance.
+[28] In Rozen v. Canada, [1985] F.C.J. No. 1002, the Federal Court indicated:
+If an employee is obliged to travel to do his work and his employer is not prepared to pay the exact and total cost of transportation, then he must come within the requirements of subparagraph 8(1)(h)(ii).
+[29] I therefore conclude that the Appellant complied with the second condition during the two years in question.
+[30] Finally, I refer to the third condition of paragraph 8(1)(h.1), which states that the expenses deducted must have been incurred by the taxpayer for travel in the performance of the taxpayer’s duties.
+[31] In Canada v. Chrapko, [1984] F.C.J. No. 934, the Federal Court of Appeal implicitly accepted that a taxpayer’s travel between home and a place of work could be considered travel for employment purposes if the taxpayer was ordinarily required to carry on the duties of his or her employment at different places.
+[32] This same reasoning was applied in Her Majesty the Queen v. J.U. Merten, 90 DTC 6600, by the Federal Court and in Royer v. Canada [1999] T.C.J. No. 111, by the Tax Court of Canada.
+[33] In this case, given that I have already decided that Mr. Rousseau had to travel to different places for S & R, his travel to go to the job site and return home constitute travel in the performance of his duties.
+[34] Therefore, the costs incurred for this travel are deductible.
+[35] Since Mr. Rousseau worked for all of 2001 for S & R, he is allowed to deduct the entire amount claimed for that year.
+[36] For 2002, a third of the amount, or $3,603, will be deductible, representing the four out of 12 months that the Appellant worked for S & R.
+[37] For these reasons, the appeal is allowed in part, with costs.
+Signed at Ottawa, Canada, this 6th day of November 2006.
+Paris J.
+Translation certified true
+on this 30th day of April 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC552
+COURT FILE NUMBER: 2005-1208(IT)I
+STYLE OF CAUSE: SYLVAIN ROUSSEAU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: May 5, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: November 6, 2006
+APPEARANCES:
+Agent for the Appellant:
+Louis Leclair
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

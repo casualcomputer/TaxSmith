@@ -1,0 +1,94 @@
+Title: Shewchun v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27938/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-506-27938-shewchun-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-07-26
+
+# Shewchun v. The Queen
+
+- Citation: 2007 CCI 506
+- Decision date: 2007-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1721, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shewchun v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-26
+Référence neutre
+2007 CCI 506
+Numéro de dossier
+1999-2216(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI506
+Date : 20070824
+Dossier : 1999-2216(IT)G
+ENTRE :
+JOHN SHEWCHUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes de l’intimée dont l’audition était fixée au 27 juin 2007,
+à Windsor (Ontario).
+Devant : L’honorable juge G.A. Sheridan
+Comparutions :
+Pour l’appelant :
+Aucune comparution
+Avocate de l’intimée :
+Me Marie-Thérèse Boris
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] Dans une lettre datée du 1er août 2007, l’intimée a demandé les motifs écrits de l’ordonnance que j’ai rendue le 26 juillet 2007, dans laquelle j’ai rejeté les requêtes suivantes :
+1. requête datée du 29 septembre 2003 en vue de la délivrance d’une ordonnance de rejet de l’appel ou, à titre subsidiaire, d’une ordonnance de cautionnement pour dépens de 21 872 $;
+2. requête datée du 6 octobre 2003 en vue de la délivrance d’une ordonnance de prorogation du délai de signification de la requête visant le rejet de l’appel[1];
+3. requête datée du 30 octobre 2003 en vue de la délivrance d’une ordonnance de rejet de l’appel, avec adjudication de dépens fixés à 5 000 $.
+[2] L’appelant a interjeté ses appels en 1999. Depuis ce temps, il y a retard par‑dessus retard. La dernière activité sur le plan de la présentation étant une rafale de requêtes qui remontent à 2003, la Cour a rendu une ordonnance datée du 27 avril 2007, dans laquelle elle enjoignait aux parties de se présenter pour l’audition des requêtes le 27 juin 2007.
+[3] À cette date, l’appelant ne s’est pas présenté, et ses deux requêtes ont été rejetées à l’audience pour défaut de comparution de l’appelant[2].
+[4] Le contexte est le suivant : deux autres affaires (non liées) étaient inscrites au rôle la même journée. Compte tenu de ce fait et comme l’appelant avait auparavant indiqué à la Cour qu’il craignait un retard possible en raison de l’attente à la frontière des États-Unis où il demeure, j’avais donné instruction au greffe d’informer les parties que les requêtes ne seraient pas entendues avant 14 h, plutôt qu’à 9 h 30 comme l’indiquait l’ordonnance du 27 avril 2007. Or, il s’est trouvé que l’instruction des autres affaires s’est terminée après 15 h ce jour-là.
+[5] Au moment de l’audition des requêtes, une femme qui a dit se nommer Olga Shewchun, sœur de l’appelant, s’est présentée au nom de l’appelant. Selon Mme Shewchun, en raison du changement de dernière minute de l’heure de l’audience, l’appelant n’avait pas été en mesure de repousser un important rendez‑vous médical et il n’a donc pu se présenter lui-même à l’audience. Mme Shewchun a été chargée de transmettre les excuses de l’appelant et de comparaître en son nom. Elle m’a priée d’examiner, à ce moment-là, le dossier de la Cour afin de trouver des pièces de correspondance concernant le prétendu piètre état de santé de l’appelant. J’ai refusé de le faire. J’ai également rejeté la demande de dernière minute de Mme Shewchun, qui voulait comparaître au nom de l’appelant, parce qu’elle n’est pas avocate, comme l’exige le paragraphe 30(1) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[6] Les requêtes ont été entendues en l’absence de l’appelant, mais Mme Shewchun est toutefois demeurée dans la salle tout au long de l’audience. L’avocate de l’intimée a allégué avec une certaine vigueur que les appels interjetés par l’appelant devaient être rejetés ou, subsidiairement, qu’il fallait enjoindre à l’appelant de verser un cautionnement pour dépens, parce qu’il s’agit d’un non‑résident. Bien que j’aie été sensible dans une certaine mesure à la frustration qui transparaissait plutôt clairement dans la présentation de ses arguments, l’avocate de l’intimée ne m’a pas convaincue que, dans les circonstances, les requêtes de l’intimée devaient être accueillies.
+[7] L’examen du dossier révèle que l’appelant, qui n’est pas jeune, se représente lui-même. Les appels ont été marqués d’innombrables retards attribuables, comme le soutient non sans raison l’avocate de l’intimée, à l’appelant. La lecture du dossier ne permet pas d’établir clairement s’il s’agit du résultat de l’inexpérience de l’appelant et de l’absence de représentation par avocat ou, selon les allégations de l’avocate, de [traduction] « petits jeux » auxquels se livre l’appelant. Quoi qu’il en soit, en raison du changement apporté à l’heure de l’audience, de la validité possible des problèmes de santé de l’appelant, des ressources juridiques et financières supérieures de l’intimée et des conséquences radicales que le rejet des appels aurait pour l’appelant, j’ai cru qu’il était dans l’intérêt de la justice de trancher en faveur de l’appelant toute incertitude quant à l’opportunité d’accueillir les requêtes de l’intimée.
+[8] L’appelant ne devrait pas, toutefois, interpréter mon rejet des requêtes de l’intimée comme une approbation de son comportement passé. Le fait demeure que ce sont ses appels et que c’est sa responsabilité de les poursuivre de manière responsable et opportune. En vue de remettre un peu d’ordre dans le déroulement des appels, j’ai établi, dans mon ordonnance du 26 juillet 2007, un calendrier qui donne en détail les dates limites d’achèvement des étapes menant à l’audition des appels. Une de ces étapes, et non la moindre, consiste en l’obligation de l’appelant de terminer les interrogatoires préalables de l’intimée d’ici au 26 octobre 2007, une date qui approche à grand pas. L’avocate de l’intimée a décrit avec force détails la preuve qui concerne l’omission de l’appelant de procéder aux interrogatoires préalables à l’heure et à l’endroit fixés. Étant donné que le bénéfice du doute a déjà été accordé à l’appelant au cours des présents appels et, récemment, par mon refus d’accueillir les requêtes de l’intimée, les excuses de l’appelant ne seront vraisemblablement pas acceptées avec bienveillance si l’appelant ne respecte pas le calendrier établi dans mon ordonnance. Il est à espérer que l’appelant profitera judicieusement de l’occasion qui lui est donnée, à défaut de quoi, il en subira les conséquences.
+[9] Pour ces motifs, les requêtes de l’intimée sont rejetées.
+Signé à Ottawa, Canada, ce 24e jour d’août 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 10e jour de septembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI506
+NO DU DOSSIER DE LA COUR : 1999-2216(IT)G
+INTITULÉ : John Shewchun c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 27 juin 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge G. A. Sheridan
+DATE DES MOTIFS : Le 24 août 2007
+COMPARUTIONS :
+Pour l’appelant :
+Aucune comparution
+Avocate de l’intimée :
+Me Marie‑Thérèse Boris
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette requête reposait sur une requête de l’appelant qui a été rejetée; il n’était donc pas nécessaire de l’examiner et elle a été rejetée en conséquence.
+[2] Par ordonnance datée du 26 juillet 2007.

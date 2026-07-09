@@ -1,0 +1,216 @@
+Title: Mendoza c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28990/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-652-28990-mendoza-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-28
+
+# Mendoza c. La Reine
+
+- Citation: 2008 CCI 652
+- Decision date: 2008-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6772, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mendoza c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-28
+Référence neutre
+2008 CCI 652
+Numéro de dossier
+2007-4392(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4392(IT)I
+ENTRE :
+RAQUEL MENDOZA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de
+Randie Mendoza (2007-4393(IT)I)
+le 23 juin 2008, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+M. Randie Mendoza
+Avocats de l’intimée :
+Me Vlad Zolia
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+Les appels de la nouvelle cotisation établie le 26 juillet 2006 en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2004 sont rejetés selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de janvier 2009.
+S. Tasset
+Dossier : 2007-4393(IT)I
+ENTRE :
+RANDIE MENDOZA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Raquel Mendoza (2007-4392(IT)I)
+le 23 juin 2008, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Vlad Zolia
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie le 26 juillet 2006 en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de janvier 2009.
+S. Tasset
+Référence : 2008 CCI 652
+Date : 20081128
+Dossiers : 2007-4392(IT)I
+2007-4393(IT)I
+ENTRE :
+RAQUEL MENDOZA et
+RANDIE MENDOZA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les appelants interjettent appel des nouvelles cotisations établies pour les années d’imposition 2002, 2003 et 2004, par lesquelles les déductions demandées au titre des frais de garde d’enfants ont été refusées et des pénalités ont été imposées sur les montants refusés conformément au paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée, (la « Loi »). Les appels ont été entendus sur preuve commune.
+[2] Par un avis de nouvelle cotisation daté du 26 juillet 2006, le ministre du Revenu national (le « ministre ») a refusé la déduction d’un montant de 5 025 $ pour l’année d’imposition 2002 et d’un montant de 10 300 $ pour l’année d’imposition 2004, au titre de frais déductibles de garde d’enfants, laquelle avait été demandée par Mme Raquel Mendoza, et il a appliqué des pénalités sur un montant de 4 022 $ pour l’année d’imposition 2002 et sur un montant de 10 300 $ pour l’année d’imposition 2004. La nouvelle cotisation concernant l’année d’imposition 2002 a été établie après l’expiration de la période normale de nouvelle cotisation.
+[3] Par un avis de nouvelle cotisation daté du 26 juillet 2006, le ministre a refusé la déduction d’un montant de 9 200 $ pour l’année d’imposition 2003, au titre de frais déductibles de garde d’enfants, laquelle avait été demandée par M. Randie Mendoza, et il a appliqué des pénalités sur le montant refusé.
+[4] Afin d’établir les nouvelles cotisations, le ministre s’est fondé sur les hypothèses de fait énoncées au paragraphe 8 de la réponse à l’avis d’appel à l’égard de chaque appelant (sur une base commune) :
+[traduction]
+8. a) l’appelante et son époux, Randie Mendoza, sont la mère et le père d’une fille, Rose Cassandra Mendoza, née le 20 juillet 2001, et d’un fils, Rex Christian Mendoza, né le 18 décembre 1996, qui sont les enfants admissibles de l’appelante pour les années d’imposition 2002 et 2004; (admis)
+b) selon l’appelante [Raquel Mendoza][1], au cours de l’année d’imposition 2002, Aracili L. Curioso assurait la garde de jour de Rose Cassandra Mendoza et de Rex Christian Mendoza et, au cours de l’année d’imposition 2004, le KIDZ Home Daycare assurait la garde de jour des enfants; (admis)
+c) selon l’appelant [Randie Mendoza]1, Rose Cassandra et Rex Christian fréquentaient le KIDZ Home Daycare au cours de l’année d’imposition 2003; (admis)
+d) pour l’année d’imposition 2002, l’appelante [Raquel Mendoza]1 a obtenu un reçu daté du 2 mars 2003, au montant de 2 013 $, à l’égard de la garde de jour de Rex Christian Mendoza par Aracili L. Curioso pour la période allant du mois de juin à la mi‑septembre 2002; (admis)
+e) l’appelante [Raquel Mendoza]1 a obtenu un reçu additionnel daté du 2 mars 2003, au montant de 3 012 $, pour l’année d’imposition 2002, à l’égard de la garde de jour de Rose Cassandra Mendoza par Aracili L. Curioso pour la période allant du 9 août au 20 décembre 2002; (admis)
+f) pour l’année d’imposition 2003, l’appelant [Randie Mendoza]1 a obtenu un reçu daté du 27 février 2004, au montant de 2 600 $, à l’égard de la garde de jour de Rex Christian Mendoza par le KIDZ Home Daycare pour la période allant du 1er janvier au 31 décembre 2003; (admis)
+g) pour l’année d’imposition 2003, l’appelant [Randie Mendoza]1 a également obtenu un reçu daté du 27 février 2004, au montant de 6 600 $, à l’égard de la garde de jour de Rose Cassandra Mendoza par le KIDZ Home Daycare pour la période allant du 1er janvier au 31 décembre 2003; (admis)
+h) pour l’année d’imposition 2004, l’appelant [Randie Mendoza]1 a obtenu un reçu daté du 12 février 2005, au montant de 3 500 $, à l’égard de la garde de jour de Rex Christian Mendoza par le KIDZ Home Daycare pour la période allant du mois de janvier au 31 décembre 2004; (admis)
+i) l’appelant [Randie Mendoza]1 a obtenu un reçu additionnel daté du 12 février 2005, au montant de 6 800 $, pour l’année d’imposition 2004 à l’égard de la garde de jour de Rose Cassandra Mendoza par le KIDZ Home Daycare pour la période allant du mois de janvier au 31 décembre 2004; (admis)
+j) l’appelant a également demandé, à l’égard de la garde de Rex Christian Mendoza pour l’année d’imposition 2002, des reçus au montant de 120 $ de Petit Chapiteau Commission scolaire Montréal et au montant de 160 $ de Simonne‑Monet Commission scolaire Montréal; (admis)
+k) selon l’appelant [Randie Mendoza]1, Rose Cassandra Mendoza a fréquenté le KIDZ Home Daycare du 3 juin 2002 au 31 août 2004; (nié, telle que l’hypothèse est énoncée, parce que les périodes pertinentes allaient du 1er janvier au 31 décembre 2003 et du 1er janvier au 31 décembre 2004);
+l) Aracili L. Curioso n’a pas pu prouver que Rose Cassandra Mendoza et Rex Christian Mendoza fréquentaient sa garderie au cours de l’année d’imposition 2002; (nié)
+m) l’appelante [Raquel Mendoza]1 n’a pas pu prouver qu’elle avait versé de l’argent à Aracili L. Curioso pour que Rose Casandra Mendoza et Rex Christian Mendoza fréquentent la garderie de cette dernière au cours de l’année d’imposition 2002; (nié)
+n) selon les registres des présences tenus par le KIDZ Home Daycare, Rose Cassandra Mendoza et Rex Christian Mendoza n’ont jamais été inscrits au KIDZ Home Daycare au cours de l’année d’imposition 2003; (nié)
+o) selon les registres des présences tenus par le KIDZ Home Daycare, Rose Cassandra Mendoza et Rex Christian Mendoza n’ont jamais été inscrits au KIDZ Home Daycare au cours de l’année d’imposition 2004; (nié)
+p) à la suite d’une enquête menée par le ministre auprès du KIDZ Home Daycare, il a été constaté que le KIDZ Home Daycare avait délivré à l’appelante [Raquel Mendoza]1 des reçus d’un montant plus élevé que celui qui était inscrit dans les livres et registres du KIDZ Home Daycare; (nié)
+q) à la suite d’une enquête menée par le ministre auprès du KIDZ Home Daycare, il a été constaté que le KIDZ Home Daycare avait délivré à l’appelant [Randie Mendoza]1 des reçus d’un montant plus élevé que celui qui était inscrit dans les livres et registres du KIDZ Home Daycare; (nié)
+r) à la suite d’une analyse des montants versés au KIDZ Home Daycare par l’appelant [Randie Mendoza]1, il a été constaté que, pour l’année d’imposition 2003, rien ne montrait que l’appelant [Randie Mendoza]1 avait versé un montant de 9 200 $ au titre de frais déductibles de garde d’enfants, alors que le reçu délivré à l’appelant [Randie Mendoza]1 par le KIDZ Home Daycare était établi au montant de 9 200 $; (nié)
+s) en ce qui concerne les présumés montants versés au KIDZ Home Daycare, l’appelant [Randie Mendoza]1 n’a pas pu justifier le paiement de frais déductibles de garde d’enfants au montant de 9 200 $ pour l’année d’imposition 2003; (nié)
+t) à la suite d’une analyse des montants versés au KIDZ Home Daycare par l’appelante [Raquel Mendoza]1, il a été constaté que, pour l’année d’imposition 2004, rien ne montrait que l’appelante [Raquel Mendoza]1 avait versé un montant de 10 300 $ au titre de frais déductibles de garde d’enfants, alors que les reçus délivrés à l’appelante [Raquel Mendoza]1 par le KIDZ Home Daycare étaient établis au montant de 10 300 $; (nié);
+u) en ce qui concerne les présumés montants versés au KIDZ Home Daycare, l’appelante [Raquel Mendoza]1 n’a pas pu justifier le paiement de frais déductibles de garde d’enfants au montant de 10 300 $ pour l’année d’imposition 2004; (nié)
+[5] Mme Raquel Mendoza n’était pas présente à l’audition des présents appels, mais elle était représentée par son mari.
+[6] M. Randie Mendoza a témoigné à l’audience; il a produit sous la cote A‑1 deux reçus datés du 2 mars 2003, signés par Mme Curioso, selon lesquels cette dernière reconnaissait avoir reçu des appelants 2 013 $ et 3 012 $ pour des services de garde d’enfants rendus entre le mois de juin et la mi‑septembre 2002 dans le cas de Rex Christian Mendoza, et entre le 9 août et le 20 décembre 2002 dans le cas de Rose Cassandra Mendoza. M. Mendoza a en outre déclaré que les montants en question étaient versés à Mme Curioso en espèces à la fin de chaque semaine.
+[7] En ce qui concerne les années 2003 et 2004, M. Randie Mendoza a produit sous la cote A‑2 un contrat de service de garde en milieu familial conclu avec Mme Jane M. Corpuz, qui exploitait une garderie sous le nom de KIDZ Home Daycare. Le contrat est daté du mois de janvier 2003 et devait être en vigueur pour deux ans. Le total des montants à payer aux termes du contrat s’élevait à 125 $ par semaine pour Rose Cassandra Mendoza et à 100 $ par semaine pour Rex Christian Mendoza. Ces montants étaient payables en espèces.
+[8] M. Randie Mendoza a également produit sous la cote A‑3 un document d’Immigration Canada qui confirmait qu’il avait 10 000 $ à sa disposition lorsqu’il s’est installé au Canada, en 1998.
+[9] Enfin, M. Randie Mendoza a produit sous la cote A‑4 des photocopies de quatre reçus signés par Mme Corpuz. Les deux premiers reçus étaient datés du 27 février 2004; l’un, au montant de 6 600 $, se rapportait à la garde de jour de Rose Cassandra Mendoza au cours de la période allant du 1er janvier au 31 décembre 2003; l’autre, au montant de 2 600 $, se rapportait à la garde de jour de Rex Christian Mendoza pour la même période. Les reçus se rapportant à la période allant du 1er janvier au 31 décembre 2004 étaient tous deux datés du 12 février 2005; ils indiquaient un montant de 3 500 $ pour la garde de jour de Rex Christian Mendoza et un montant de 6 800 $ pour la garde de jour de Rose Cassandra Mendoza.
+[10] M. Randie Mendoza a déclaré que son épouse laissait habituellement les enfants à la garderie de Mme Curioso et qu’il allait les chercher entre 18 et 19 h. Il a également confirmé que Mme Curioso habitait un appartement de trois chambres à coucher, près de l’école de son fils, et qu’elle vivait avec son fils.
+[11] Mme Curioso, qui a maintenant près de 70 ans, a également témoigné; elle a confirmé que les reçus qu’elle avait signés avaient été préparés par Mme Raquel Mendoza. Elle a en outre déclaré qu’elle avait inclus dans son revenu de l’année d’imposition 2002 les montants indiqués dans les reçus, qu’elle n’exerçait pas d’autre emploi et qu’elle ne prenait pas soin d’autres enfants. Elle a également confirmé que son fils était un ami de M. Randie Mendoza, mais elle a contredit le témoignage de celui‑ci, en affirmant que c’était lui qui déposait les enfants chez elle et que Mme Raquel Mendoza venait les chercher.
+[12] M. André Faribault, de l’Agence du revenu du Canada (l’« ARC »), a témoigné; il a expliqué que la vérification avait été menée par suite d’une dénonciation écrite anonyme selon laquelle certains comptables philippins délivraient de faux reçus pour la garde d’enfants. Des mandats de perquisition ont été délivrés au mois d’avril 2005 à l’égard de trois garderies et de deux cabinets comptables. Le KIDZ Home Daycare était l’une des garderies visées.
+[13] M. André Faribault a expliqué comment la vérification avait été menée. Un registre des présences pour les années 2002, 2003 et 2004 qui avait été saisi au KIDZ Home Daycare a été produit sous la cote R‑1. Chaque enfant qui fréquentait la garderie était identifié au moyen d’un numéro figurant sur le côté gauche du registre. Pour le KIDZ Home Daycare seulement, 68 parents étaient inscrits, alors que la garderie était exploitée dans un petit appartement de quatre chambres à coucher (pièce R‑3). Les noms de Raquel et de Randie Mendoza figuraient sur cette liste, au numéro 52.
+[14] Un carnet, qui avait également été saisi au KIDZ Home Daycare, a été produit sous la cote R‑2. Pour l’année 2003, l’inscription suivante a été faite :
+Rose Cassandra Mendoza 6 600 $
+1er janv. 2003 – 31 déc. 2003
+Rex Christian Mendoza 2 600 $
+1er janv. 2003 – 31 déc. 2003 ______
+9 200 $
+Parents : Randie S. Mendoza
+Raquel Mendoza 1 350 $
+et pour l’année 2004, le carnet renferme l’inscription suivante :
+Rose Cassandra Mendoza 6 800 $ 10 300 $
+Date de naissance : 20 juillet 2001
+Période de garde : janv. 2004 – 31 déc. 2004
+Rex Christian Mendoza 3 700 $ 1 545 $
+Date de naissance : 18 déc. 1996
+Période de garde : janv. 2004 – 31 déc. 2004
+Parents : Raquel Mendoza
+Randie S. Mendoza
+[15] M. Faribault a expliqué que les montants de 9 200 $ et de 10 300 $ correspondaient aux montants des reçus et que les montants de 1 350 $ et de 1 545 $ représentaient la commission demandée pour la délivrance des reçus (habituellement entre 10 et 15 p. 100).
+[16] L’analyse des recettes de Mme Corpuz pour les années 2002, 2003 et 2004, que M. Archambault a préparée en se fondant sur le registre des présences (pièce R‑4), montre que les enfants de Raquel et de Randie Mendoza n’ont pas fréquenté la garderie en 2003 et en 2004.
+[17] Par suite de l’enquête, des accusations ont été portées au criminel contre Mme Corpuz, qui a plaidé coupable et qui s’est vu imposer une amende. Dans une déclaration solennelle datée du 11 septembre 2007, Mme Corpuz a fait les déclarations suivantes :
+[traduction]
+J’ai inscrit dans un carnet pour les années 2002, 2003 et 2004 tous les montants des faux reçus de frais de garde d’enfant que j’ai délivrés aux parents et tous les montants des commissions que j’ai reçues des parents (ce document a été saisi par l’ARC le 7 avril 2005; il figure au numéro 1.38 du tableau accompagnant le rapport de poursuite produit en preuve).
+[…]
+J’ai inscrit dans un carnet appelé « KIDZ HOME DAY CARE EUROPHIL » les renseignements suivants au sujet de l’exploitation de ma garderie pour la période allant du mois de février 2002 au mois de février 2004 : l’année, le mois, le jour, une liste des enfants dont je m’occupais et, pour chaque enfant, un « v » indiquant la présence de l’enfant à la garderie, la lettre « A » indiquant que l’enfant était absent de la garderie ce jour‑là et un chiffre représentant le montant que j’ai reçu pour m’occuper de cet enfant (ce document a été saisi par l’ARC le 7 avril 2005; il figure au numéro 1.39 du tableau accompagnant le rapport de poursuite qui a été produit en preuve).
+J’ai inscrit dans un autre carnet les mêmes renseignements que ceux dont il a ci‑dessus été fait mention, pour la période allant du mois de mars au mois de décembre 2004 (ce document a été saisi par l’ARC le 7 avril 2005; il figure au numéro 1.40 du tableau accompagnant le rapport de poursuite qui a été produit en preuve).
+Pour l’année 2003, selon ce dont je me souviens et selon mon carnet (1.38), j’ai délivré un faux reçu de frais de garde d’enfants de :
+[…]
+28 – 6 600 $ + 2 600 $, soit 9 200 $ en tout, pour Randie Mendoza et Raquel Mendoza, père et mère de Rex et de Rose;
+Pour l’année 2004, selon ce dont je me souviens et selon mon carnet (1.38), j’ai délivré un faux reçu de frais de garde d’enfants de :
+[…]
+20 – 6 800 $ + 3 500 $, soit 10 300 $ en tout, pour Randie Mendoza et Raquel Mendoza, père et mère de Rex et de Rose;
+[18] Dans son témoignage, M. Archambault a en outre confirmé les montants du revenu total de Mme Raquel Mendoza et de M. Randie Mendoza, en se fondant sur leurs déclarations de revenus pour les années d’imposition 2002, 2003 et 2004. Le revenu total de Mme Raquel Mendoza s’élevait à 13 230 $ pour l’année 2002, à 19 288 $ pour l’année 2003 et à 23 722 $ pour l’année 2004. Le revenu total de M. Randie Mendoza s’élevait à 16 077 $ pour l’année 2002, à 16 974 $ pour l’année 2003 et à 26 606 $ pour l’année 2004.
+[19] Enfin, M. Archambault a expliqué que Mme Corpuz avait inclus dans son revenu tous les montants des faux reçus, mais qu’elle avait déduit des dépenses afin de compenser l’effet de leur inclusion dans le revenu.
+[20] À l’audience, Mme Corpuz a également témoigné que les enfants de la famille Mendoza n’avaient jamais fréquenté sa garderie. Elle a reconnu avoir délivré de faux reçus à la famille Mendoza en contrepartie d’une commission de 15 p. 100. Elle a également déclaré que le registre des présences (pièce R‑1) renferme tous les noms des enfants qui fréquentaient sa garderie ainsi que les montants payés par les parents et que les montants figurant à la page 20 du carnet (pièce R‑2) représentaient les montants auxquels s’élevaient les faux reçus délivrés à Raquel et à Randie Mendoza pour l’année 2003 et le montant de la commission que ces derniers avaient versée. Elle a également confirmé que les reçus (pièce A‑4) sont de faux reçus délivrés à la famille Mendoza. Elle a ajouté que le contrat dont il est fait mention dans la pièce A‑2 avait été signé en 2005, à la demande de la famille Mendoza. Enfin, elle a déclaré ne pas avoir d’autre grand livre ou carnet en plus de ceux qui avaient été saisis par l’ARC, contrairement aux affirmations de M. Randie Mendoza.
+Analyse
+[21] Il s’agit en premier lieu de savoir si le ministre a eu raison d’établir de nouvelles cotisations pour l’année d’imposition 2002 après l’expiration de la période normale de nouvelle cotisation prévue aux paragraphes 152(3.1) et 152(4.1) de la Loi. Pour ce faire, le ministre doit établir que Mme Raquel Mendoza, en demandant la déduction relative à la garde d’enfants de 5 025 $, peut raisonnablement être considérée comme ayant fait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+[22] La preuve sur ce point peut être résumée comme suit :
+a) le témoignage de Mme Curioso n’était pas très crédible puisque Mme Curioso ne se souvient de rien, sauf qu’elle s’est occupée des enfants de la famille Mendoza et que son fils était l’ami de M. Mendoza;
+b) le témoignage de Mme Curioso contredisait le témoignage de M. Randie Mendoza, en ce sens que celui‑ci disait que c’était son épouse qui amenait les enfants chez le fils de Mme Curioso et que c’était lui qui venait les chercher entre 17 h et 18 h. Mme Curioso a déclaré que c’était M. Mendoza qui amenait les enfants chez elle et que Mme Raquel Mendoza venait les chercher vers 18 h;
+c) il n’existe aucune preuve indiquant que Mme Raquel Mendoza a payé des frais de garde d’enfants de 5 025 $;
+d) les reçus étaient préparés par Mme Raquel Mendoza, mais ils étaient signés par Mme Curioso;
+e) les frais de garde d’enfants au montant de 5 305 $ en tout dont la déduction a été demandée ne semblent pas raisonnables, étant donné que le père et la mère recevaient tous deux des prestations d’assurance‑emploi en 2002 et que Mme Raquel Mendoza a gagné 6 777 $ seulement au titre d’un revenu d’emploi cette année‑là;
+f) Mme Raquel Mendoza n’a pas témoigné à l’audience, de sorte qu’une conclusion défavorable est tirée de son absence.
+[23] Compte tenu de ce qui précède, je conclus que le ministre a eu raison d’établir une nouvelle cotisation à l’égard de l’année d’imposition 2002 de Mme Raquel Mendoza en vue de refuser les frais de garde d’enfants de 5 025 $ étant donné que Mme Raquel Mendoza n’a pas démontré que ce montant avait de fait été versé à Mme Curioso au titre des frais déductibles de garde d’enfants pour la garde de ses enfants, conformément au paragraphe 63(3) de la Loi. En outre, le ministre a eu raison d’appliquer des pénalités, conformément au paragraphe 163(2) de la Loi, sur un montant de 4 022 $ pour l’année d’imposition 2002 étant donné qu’en demandant la déduction de ce montant au titre des frais de garde d’enfants, Mme Raquel Mendoza a sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission, ou y a participé, y a consenti ou y a acquiescé, dans sa déclaration de revenus pour l’année d’imposition 2002 puisqu’elle n’a pas versé ce montant à Mme Curioso au titre de frais déductibles de garde d’enfants.
+[24] Les questions à trancher pour les années d’imposition 2003 et 2004 se rapportent au rejet par le ministre des montants de 9 200 $ et de 10 300 $ respectivement dont la déduction était demandée par M. Randie Mendoza et par Mme Raquel Mendoza au titre des frais de garde d’enfants pour la garde de leurs enfants admissibles au KIDZ Home Daycare et à l’application de pénalités, conformément au paragraphe 163(2) de la Loi, sur le montant de 9 200 $ pour l’année d’imposition 2003 et de 10 300 $ pour l’année d’imposition 2004, pour les frais de garde d’enfants refusés.
+[25] La preuve sur ces points est claire et n’est aucunement contredite. Il n’existe aucune preuve que Mme Raquel Mendoza et M. Randie Mendoza ont versé de l’argent au KIDZ Home Daycare au titre de frais de garde d’enfants et il n’existe aucune preuve indiquant que les enfants de la famille Mendoza ont fréquenté le KIDZ Home Daycare au cours des années d’imposition 2003 et 2004. Au contraire, Mme Corpuz a confirmé dans une déclaration solennelle que les enfants de la famille Mendoza n’avaient jamais fréquenté sa garderie et que les reçus qui leur avaient été délivrés étaient faux. Elle a en outre témoigné qu’ils lui avaient versé une commission en contrepartie de la délivrance des faux reçus et que le document intitulé : « Home Day Care Contract » (contrat de garde en milieu familial) a effectivement été signé en 2005 et non au mois de janvier 2003, comme le montrait le contrat.
+[26] Cela étant, le ministre a eu raison de refuser les frais de garde d’enfants déduits par M. Randie Mendoza en 2003 et par Mme Raquel Mendoza en 2004 et d’appliquer des pénalités, conformément au paragraphe 163(2) de la Loi, sur le montant de 9 200 $ pour l’année d’imposition 2003 de M. Randie Mendoza et sur le montant de 10 300 $ pour l’année d’imposition 2004 de Mme Raquel Mendoza.
+[27] Pour les motifs susmentionnés, les appels concernant les années d’imposition 2002, 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de janvier 2009.
+S. Tasset
+RÉFÉRENCE : 2008 CCI 652
+Nos DES DOSSIERS DE LA COUR : 2007-4392(IT)I
+2007-4393(IT)I
+INTITULÉ : Raquel Mendoza c. Sa Majesté la Reine
+Randie Mendoza c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 23 juin 2008
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 28 novembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Représentant de l’appelante :
+M. Randie Mendoza
+Avocats de l’intimée :
+Me Vlad Zolia
+Me Annick Provencher
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour plus de clarté, le nom a été ajouté entre crochets.

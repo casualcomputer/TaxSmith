@@ -1,0 +1,147 @@
+Title: Dickson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30260/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-153-30260-dickson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-10
+
+# Dickson c. La Reine
+
+- Citation: 2011 CCI 153
+- Decision date: 2011-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7969, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dickson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-10
+Référence neutre
+2011 CCI 153
+Numéro de dossier
+2010-2350(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2350(IT)I
+ENTRE :
+MARILYN I. DICKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 7 février 2011, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Représentants de l’intimée :
+Mme Sarah Repka (stagiaire en droit)
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006 et 2007 de l’appelante sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 11e jour d’avril 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2011 CCI 153
+Date : 20110310
+Dossier : 2010-2350(IT)I
+ENTRE :
+MARILYN I. DICKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le présent appel, instruit sous le régime de la procédure informelle et entendu à Toronto, porte sur des déductions demandées au titre de pertes d’entreprise qui ont été refusées. Mme Dickson, qui est à la retraite, a été enseignante à l’école élémentaire et a travaillé pour une association d’enseignants. Pendant les années en litige, c’est‑à‑dire de 2005 à 2007, elle a touché une pension en lien avec ces activités. Mme Dickson a maintenant plus de 65 ans.
+[2] Mme Dickson s’est représentée elle‑même et a été la seule personne à témoigner pour son compte. Elle a produit des dossiers écrits détaillés à l’appui de sa position, y compris des calendriers détaillés et des sommaires des dépenses. Mme Dickson a reconnu que les « factures » qu’elle avait établies pour son travail d’organiste n’avaient jamais été envoyées aux personnes pour qui elle avait joué de l’orgue.
+[3] Pendant les années en litige, Mme Dickson a mené des activités d’instructrice de vol, d’organiste au service du culte et d’écrivaine, activités pour lesquelles elle a demandé des déductions pour pertes d’entreprise. L’Agence du revenu du Canada (l’« ARC ») a établi des nouvelles cotisations à l’égard de Mme Dickson afin de refuser la déduction de ces pertes. En l’espèce, la question est de savoir si ces activités constituaient des activités commerciales pour Mme Dickson pendant ces années‑là.
+[4] Au début de l’audience, la Couronne a présenté une requête visant à faire annuler l’appel de Mme Dickson pour l’année 2007 parce qu’il n’avait pas été présenté dans le délai prescrit. Mme Dickson avait présenté en temps opportun un avis d’opposition à l’égard de la nouvelle cotisation initiale établie relativement à son année d’imposition 2007, mais, lorsqu’une autre nouvelle cotisation a ensuite été établie pour cette année‑là­, elle n’a pas interjeté appel devant la Cour dans le délai de 90 jours prévu à l’article 169 de la Loi de l’impôt sur le revenu. La période d’un an pendant laquelle on peut présenter une demande de prorogation de ce délai a expiré depuis longtemps.
+[5] Mme Dickson, qui se représente elle‑même, s’est plainte du fait que la vérification avait aussi porté sur son année d’imposition 2004. Elle affirme que cela était une perte de temps pour elle et pour l’ARC, car aucune nouvelle cotisation n’a été établie à la suite de cette vérification. Mme Dickson avait demandé des déductions pour 2004 et plusieurs années antérieures à l’égard des activités en cause. Ces années‑là sont maintenant frappées de prescription, et la Cour n’en est pas saisie parce que, après la vérification, l’ARC a conclu que les demandes de déductions de Mme Dickson au titre de pertes d’entreprise pour les années antérieures ne constituaient pas une sous‑estimation négligente, téméraire ou délibérée de ses revenus.
+[6] Dans un cas comme celui de Mme Dickson, la Cour doit d’abord décider si, pendant les années en cause, les activités en question représentaient l’exploitation d’une entreprise de manière commerciale en vue de réaliser un profit ou s’il s’agissait plutôt d’une démarche personnelle ou récréative. Cette approche a été établie par la Cour suprême du Canada dans l’arrêt Stewart c. Canada, 2002 CSC 46, 2002 DTC 6969, où elle a mis l’accent sur certains facteurs, indices de commercialités et caractéristiques commerciales dont il faut tenir compte dans un cas comme celui‑ci.
+[7] Lorsqu’une personne a cherché à convertir une démarche personnelle ou récréative en activité d’entreprise commerciale, il faut aussi déterminer à quel moment les efforts de cette personne qui visaient à lancer l’entreprise ont donné naissance à une entreprise véritable. La Cour a expliqué l’approche qu’il faut adopter dans un tel cas dans des décisions précédentes, notamment Gartry v. The Queen, 94 DTC 1947, et Kaye v. The Queen, 98 DTC 1659.
+[8] Dans la décision Kaye, l’ancien juge en chef Bowman a énoncé le critère applicable de la façon suivante : « Y a-t-il une entreprise véritable? » Plus loin dans la décision Kaye, il s’est exprimé de la sorte :
+[5] […] Il faut se demander : « Est-ce qu’une personne raisonnable qui examine une activité en particulier et applique des normes courantes de gestion d’entreprise affirmerait qu’il s’agit bien d’une entreprise? » Pour répondre à la question, la personne raisonnable fictive examinerait entre autres choses la structure du capital, les connaissances du participant et le temps consacré à l’activité. Elle évaluerait également si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement.
+[…]
+[7] En fin de compte, les choses se résument à évaluer, en faisant preuve de sens pratique, l’ensemble des facteurs, en accordant à chacun l’importance qui convient dans le contexte global. Bien entendu, on ne doit pas faire fi de la vision et de l’imagination de l’entrepreneur, mais ce sont là deux aspects qui sont difficiles à évaluer à prime abord. En d’autres termes, si vous voulez qu’on vous traite comme un homme d’affaires, agissez en homme d’affaires.
+[9] En règle générale, lorsqu’une personne cherche à transformer une démarche personnelle ou récréative en entreprise, l’entreprise véritable ne naît pas dès que cette décision est prise ou que le processus de transformation est entamé, mais seulement lorsque les activités sont menées de manière suffisamment commerciale. De même, après sa conversion en entreprise, la démarche peut cesser d’être menée de manière commerciale et redevenir simplement personnelle ou récréative.
+I. Instructrice de vol
+[10] Dans le questionnaire sur l’entreprise qu’elle a fourni à l’ARC pendant la vérification, Mme Dickson a donné l’explication suivante :
+[traduction]
+Les pilotes ne considèrent pas que le travail d’instructeur de vol est rentable. Pour la plupart d’entre eux, le poste d’instructeur de vol est un travail de début de carrière qui leur permet d’accumuler lentement des heures de vol jusqu’à ce qu’ils aient suffisamment d’expérience pour devenir candidats au « vrai travail ». J’ai été enseignante pour la majeure partie de ma vie, d’abord avec les enfants, puis avec les adultes. Je retire de la satisfaction en partageant mes connaissances et mes aptitudes avec les autres, par exemple, en voyant un élève faire son premier vol en solo tout en sachant que c’est mon enseignement qui l’a amené à ce niveau de compétence. Mon objectif à court terme était de partager mon amour du pilotage.
+Au début, mon objectif à long terme était d’accumuler davantage d’heures de vol et d’expérience pour devenir une meilleure pilote et lancer un service de consultation sur la « phobie du transport aérien », afin d’aider les gens qui doivent prendre l’avion pour affaires à surmonter leur peur de l’avion. J’estimais que, en comptant plus d’heures de vol et d’expérience en tant qu’instructrice, j’aurais davantage de crédibilité et d’expérience pour mon service de consultation.
+[11] Dans son témoignage, Mme Dickson a confirmé que, habituellement, le travail d’instructeur de vol n’est pas rentable en soi, et ce, à cause des frais considérables qui sont nécessaires pour obtenir et conserver une licence de pilote professionnel et une licence d’instructeur de vol ainsi que les qualifications connexes relativement à l’instrumentation et aux appareils multimoteurs.
+[12] Le témoignage de Mme Dickson a clairement démontré qu’elle n’avait pas encore lancé d’entreprise de consultation par rapport à la « phobie du transport aérien », ni même décidé fermement de le faire.
+[13] Dans son témoignage, tout comme dans les commentaires qu’elle avait inscrits dans le questionnaire sur l’entreprise, Mme Dickson a expliqué que, de manière générale, les pilotes qui détiennent des licences de pilote professionnel ou d’instructeur de vol n’enseignent pas le pilotage parce que cela est rentable, mais plutôt parce que cela leur permet d’accumuler assez d’expérience pour devenir pilotes de l’aviation commerciale. Mme Dickson a exprimé des généralités, mais elle a été incapable de démontrer que sa situation personnelle était la même. Elle a néanmoins affirmé à la Cour qu’elle avait encore de nombreuses années de travail devant elle, qu’elle n’avait pas encore décidé si elle allait lancer un service de consultation sur la « phobie du transport aérien » et qu’elle songeait même à écrire un livre sur le sujet.
+[14] Mme Dickson a aussi témoigné que, comme elle avait passé la plus grande part de son temps à écrire un livre durant les années en litige, elle n’a pas pu consacrer autant de temps que d’habitude à ses activités d’instructrice de pilotage, ce qui expliquerait les pertes accrues liées à cette activité pour la période en cause.
+[15] Mme Dickson a déclaré des pertes pour toute la période allant de 1998 à 2007, sauf pour l’année 2002, pour laquelle elle a déclaré un revenu net modeste de 2 200 $. Ces pertes annuelles allaient de 800 $ à 11 500 $. Pour les six années antérieures aux années en litige, les pertes cumulatives déclarées au titre de ses activités d’instructrice de vol dépassent 40 000 $. Par ailleurs, les activités d’instructrice de vol de Mme Dickson n’ont pas été rentables depuis les années en litige.
+[16] Il n’y a aucun doute que, pendant les années en litige, Mme Dickson consacrait peu de temps à ses activités d’instructrice de vol. Elle n’a pas fait appel à des sous‑traitants pour s’occuper de ses anciens clients et de ses responsabilités au sein d’écoles de pilotage. Elle n’a pas fait grand-chose pour trouver de nouveaux clients, que ce soit pour travailler dans des écoles de pilotage ou pour donner des cours privés. Elle a fait très peu de publicité, sauf le fait de rester disponible et de promouvoir ses services lorsqu’elle parlait à des gens intéressés au pilotage. Bien que Mme Dickson ait soutenu que les événements du 11 septembre avaient modifié les habitudes des gens en matière de transport aérien et leurs attitudes et leurs craintes quant à l’avion et à l’apprentissage du pilotage, rien ne permet de conclure qu’elle a changé sa façon d’élaborer, de promouvoir ou de mener ses activités d’instructrice de vol à la suite du 11 septembre.
+[17] Mme Dickson n’a pas du tout été capable d’expliquer en quoi ses activités d’instructrice de vol auraient pu devenir rentables d’ici la fin de sa carrière professionnelle, et rien ne donne à penser qu’elle bâtissait une entreprise viable en vue de la revendre au moment de sa retraite. Pendant les années en litige, le lien entre les activités d’instructrice de vol et le projet de « phobie du transport aérien », que se soit pour un service de consultation ou pour un livre, n’était qu’une simple possibilité.
+[18] Je dois donc conclure que, pendant les années en litige, Mme Dickson ne menait pas ses activités d’instructrice de vol de manière professionnelle à des fins commerciales
+[19] Je tiens aussi à souligner que certaines des dépenses dont elle a demandé la déduction, par exemple des rallyes, pourraient être liés à une entreprise pour des pilotes de l’aviation commerciale, mais semblent avoir été de nature personnelle dans le cas de Mme Dickson. Même si Mme Dickson avait commencé à transformer ses activités d’instructrice de vol en activité commerciale, je ne suis pas convaincu que les dépenses dont elle a demandé la déduction étaient raisonnables dans la mesure où elles dépassaient les revenus tirés de ces activités.
+II. Organiste au service du culte
+[20] Pendant les années en litige, Mme Dickson était aussi organiste au service du culte. Elle faisait ce travail dans une église située à proximité de sa résidence secondaire de Durham, à environ 160 kilomètres de sa résidence de Toronto. Elle recevait 50 $ pour chaque service religieux. Pour les années 1998, 1999 et 2000, elle a déclaré des pertes totalisant environ 2 000 $. Elle a déclaré une perte de 700 $ pour l’année 2005 et une perte d’environ 1 300 $ pour l’année 2006. Pour 2007, Mme Dickson a déclaré un revenu net d’environ 65 $. Pour les années en cause, ses revenus annuels allaient de 650 $ à 1 550 $. Elle jouait de l’orgue à une église la moitié du temps, soit quelque 26 services du dimanche par année. De plus, elle jouait lors d’un certain nombre de services funèbres de la localité, et ce, soit à cette église, soit au salon funéraire local qu’elle avait appris à connaître lors de services funèbres tenus à l’église, soit à d’autres églises où le salon funéraire faisait affaire.
+[21] Dans son questionnaire sur l’entreprise, Mme Dickson a expliqué qu’elle considérait que ses activités d’organiste au service du culte représentaient, du moins en partie, une occasion de rendre service aux familles endeuillées.
+[22] La majorité des dépenses dont Mme Dickson a demandé la déduction à cet égard avaient trait à ses déplacements entre sa résidence de Toronto et sa résidence de Durham.
+[23] Dans les circonstances, il n’y a aucun doute que, pendant les années en litige, Mme Dickson n’a jamais mené ses activités d’organiste au service du culte de manière professionnelle à des fins commerciales, et ce, même si elle a pu en tirer des revenus supplémentaires lui permettant de financer ses activités musicales et ses déplacements connexes, tout comme les revenus qu’elle tirait de ses activités d’instructrice de vol lui permettaient de réduire les frais qu’elle devait débourser pour conserver sa licence de pilote professionnel et ses qualifications afférentes. Rien ne permet de conclure que Mme Dickson a fait de la publicité pour annoncer sa disponibilité. De même, il n’y a aucune preuve qu’elle avait d’autres projets ou qu’elle avait cherché de nouveaux clients en vue de transformer cette activité en entreprise exploitée de manière commerciale.
+[24] Là encore, même si l’on considérait que les activités d’organiste au service du culte menées par Mme Dickson constituaient une entreprise, les dépenses dont elle a demandé la déduction ne seraient aucunement raisonnables dans la mesure où elles dépassaient les faibles revenus qu’elle tirait de ces activités.
+III. Écrivaine
+[25] Dans sa jurisprudence, la Cour a reconnu que, contrairement aux activités commerciales traditionnelles, dans le cas des activités d’artistes comme les peintres, les écrivains, les musiciens ou les sculpteurs, il faut tenir compte d’un plus vaste éventail de facteurs et adopter une approche contextuelle élargie pour répondre à la question de savoir à quel moment le contribuable a commencé à exploiter ou à démarrer son entreprise artistique, et ce, afin de refléter les réalités de ce secteur particulier. (Voir, par exemple, les décisions Harrison c. La Reine, 2007 CCI 19, 2007 DTC 377 (édition de livres), Malltezi c. La Reine, 2009 CCI 149, [2009] A.C.I. no 104 (QL) (développement de produits), Li c. La Reine, 2008 CCI 175, 2008 DTC 3039 (développement de produits), Janitsch c. La Reine, 2004 CCI 378, [2004] G.S.T.C. 70 (artiste), Arseneault c. La Reine, 2006 CCI 42, 2008 DTC 2224 (production cinématographique), Cossette v. R., [2003] 1 C.T.C. 2359 (artiste visuelle) et Tramble v. R., [2001] 4 C.T.C. 2160 (peintre).) L’ARC reconnaît aussi cette réalité dans son bulletin d’interprétation IT‑504, intitulé Artistes visuels et écrivains.
+[26] En 2003, Mme Dickson a commencé à écrire une biographie de Vi Milstead Warren, une pionnière de l’aviation qui avait livré des avions militaires pendant la Deuxième guerre mondiale et qui a été l’une des premières pilotes de brousse au Canada. Elle a aussi suivi des cours sur l’écriture et sur les façons de faire publier un livre.
+[27] Pour la période allant de 2003 à 2007, Mme Dickson a demandé la déduction de pertes dépassant 16 000 $ relativement à ses activités d’écrivaine. En 2006, elle a reçu une subvention de 6 000 $US pour effectuer des recherches pour son livre, mais, au lieu de traiter cette somme comme un revenu, elle s’en est servie pour compenser des dépenses. Le traitement comptable de cette subvention n’a pas eu d’incidence sur les pertes qu’elle a déclarée pour 2006. Mme Dickson a continué à demander la déduction de pertes chaque année depuis 2007.
+[28] Nous sommes aujourd’hui en 2011 et Mme Dickson n’a toujours pas terminé son livre. Elle ne l’a pas encore écrit et elle n’a envoyé de manuscrit à aucun éditeur. Elle a toutefois achevé un plan de son ouvrage. Lorsqu’on a insisté, Mme Dickson a dit que, à la fin de la période en cause, ses recherches étaient presque complètes et environ le quart du livre existait sous la forme d’une première ébauche. Elle a fini par affirmer que la première ébauche est maintenant achevée aux trois quarts et que, dans la mesure où elle existe, elle compte 160 pages. Mme Dickson travaille à cet ouvrage depuis près de huit ans, ce qui correspond à un rythme d’environ 20 pages par année.
+[29] Je ne doute aucunement que Mme Dickson veuille sincèrement écrire un livre portant sur un sujet qui l’intéresse et qui intéresse peut‑être un bon nombre de Canadiens qui partagent ses intérêts, un livre qui permettrait de révéler le rôle joué par cette Canadienne. Mme Dickson a choisi un sujet connexe à sa passion pour l’aviation, une personne qu’elle a découverte et appris à connaître en raison de son intérêt pour l’aviation, une personne au sujet de laquelle bien peu avait été écrit. Mme Dickson a cherché à faire connaître l’apport de Vi Milstead Warren, elle a fait la promotion de son livre et elle a publié des articles à ce sujet dans son journal local.
+[30] Mme Dickson a témoigné qu’elle espère réaliser un profit avec ses activités d’écrivaine, mais elle a reconnu que ce n’était pas son objectif initial. Dans son questionnaire sur l’entreprise, Mme Dickson a dit considérer que « la rédaction de cette biographie représente ma contribution à la préservation d’un volet petit, mais important de l’histoire canadienne ».
+[31] Mme Dickson ne savait pas quel pourrait être le prix d’un livre de ce genre, mais elle a supposé qu’il serait dans la fourchette de 20 $ à 25 $. Elle a expliqué que, depuis le début de ses activités d’écrivaine, elle avait appris que les auteurs reçoivent seulement quelque 10 % du prix de vente. Cela représenterait environ 2 $ par livre vendu. Mme Dickson a été incapable de dire, en fonction de son estimation approximative, combien de milliers ou de dizaines de milliers de livres elle devrait vendre pour que cette activité soit rentable. (De même, elle a été incapable d’estimer à quelle fréquence elle devait enseigner le pilotage ou jouer de l’orgue à l’église ou à des funérailles pour que ces activités soient elles aussi rentables.)
+[32] Même en tenant compte de l’approche unique et élargie qu’il faut appliquer aux entreprises artistiques et aux activités créatives, les éléments de preuve présentés en l’espèce n’étayent pas l’assertion de Mme Dickson selon laquelle ses activités d’écrivaine étaient menées de manière suffisamment commerciale pour constituer une entreprise pendant les années en litige ou depuis cette période.
+[33] Mon appréciation globale du témoignage de Mme Dickson et des autres éléments de preuve a quelque peu été influencée par la circonspection dont Mme Dickson a fait preuve en répondant aux questions, par sa réticence à répondre franchement aux questions portant sur des sujets clés et par ses tentatives d’esquiver complètement certaines questions. Par exemple, Mme Dickson voulait seulement expliquer en quoi le travail d’instructeur de pilotage peut mener à une entreprise d’aviation connexe rentable pour les pilotes en général. J’ai dû lui demander de parler de sa propre situation et de la façon dont ces activités pourraient devenir rentables d’ici la fin de sa carrière professionnelle. Jusqu’à ce que je la ramène à la question qui lui avait été posée, elle a refusé d’estimer combien de pages de son livre elle avait écrites pendant les années en litige. Il faut aussi souligner que, à certains égards, le témoignage de Mme Dickson divergeait considérablement du questionnaire sur l’entreprise qu’elle avait rempli pour l’ARC à l’étape de la vérification.
+[34] Les appels sont rejetés. Dans les circonstances, il n’est pas nécessaire de trancher la requête de la Couronne voulant que l’appel pour l’année 2007 n’avait pas été dûment présenté à la Cour.
+Signé à Ottawa, Canada, ce 10e jour de mars 2011.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 11e jour d’avril 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2011 CCI 153
+No DU DOSSIER DE LA COUR :
+2010-2350(IT)I
+INTITULÉ :
+Marilyn I. Dickson c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 février 2011
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 10 mars 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Représentants de l’intimée :
+Mme Sarah Repka (stagiaire en droit)
+Me Thang Trieu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

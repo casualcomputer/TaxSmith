@@ -1,0 +1,253 @@
+---
+title: "4145356 Canada Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30130/index.do"
+last_modified: "2010-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 613"
+citation2: ""
+neutral_citation: "2010 TCC 613"
+decision_date: "2010-12-20"
+language: "en"
+item_id: "30130"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7799
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:45:04.600000+00:00"
+cases_cited_count: 5
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c87e1e75a7d63688e3f570eee3946b1bd6ac5d1fed876c60e0fb64cc19bf002"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4145356 Canada Limited v. The Queen
+
+- Citation: 2010 TCC 613
+- Decision date: 2010-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7799, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4145356 Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-20
+Neutral citation
+2010 TCC 613
+File numbers
+2008-2315(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion by the Respondent to exclude parts of the examination for discovery of Simmin Hirji, the nominee of the Respondent,
+that the Appellant is seeking to introduce into evidence
+pursuant to subparagraph 100(1) of the
+Tax Court of Canada Rules (General Procedure),
+heard on October 29, 2010 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Martha MacDonald
+Kimberly Brown
+Counsel for the Respondent:
+Daniel Bourgeois
+Andrew Miller
+Pascal Tétrault
+____________________________________________________________________
+ORDER
+UPON hearing from the parties on October 29, 2010;
+AND UPON the Appellant submitting a binder that contains the portions of the examination for discovery of Simmin Hirji, the nominee of the Respondent, that the Appellant is seeking to admit into evidence pursuant to subparagraph 100(1) of the Tax Court of Canada Rules (General Procedure), (the references to the Tabs as stated below are to the Tabs in the binder submitted by the Appellant);
+AND UPON the Respondent objecting to the admissibility of some of the excerpts from the examination for discovery of Simmin Hirji;
+AND UPON reviewing the portions of the examination for discovery that are in issue;
+IT IS ORDERED THAT none of the documents included with the excerpts from the examination for discovery of Simmin Hirji, the nominee of the Respondent, are admissible into evidence and the following portions of the excerpts from her examination for discovery are not admissible into evidence:
+(a) the excerpt located after Tab 18;
+(b) the excerpt located after Tab 19;
+(c) the excerpt located after Tab 21, except that questions 336 and 337 and the related answers on pages 103 and 104 of the transcript; questions 344 and 347 and the related answers on page 107 of the transcript; and the questions and answers on pages 108 to 110 of the transcript are admitted into evidence;
+(d) the excerpt located after Tab 22;
+(e) the excerpt located after Tab 23;
+(f) the excerpt located after Tab 24; and
+(g) the excerpt located after Tab 25.
+Signed at Halifax, Nova Scotia, this 20th day of December, 2010.
+“Wyman W. Webb”
+Webb J.
+Citation: 2010TCC613
+Date: 20101220
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] At the conclusion of the Appellant’s case, the Appellant sought to read into evidence, pursuant to subparagraph 100(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), excerpts from the examination for discovery of Simmin Hirji, the nominee of the Respondent. The Respondent objected to the Appellant reading in several portions of the excerpts.
+[2] Subparagraph 100(1) of the Rules provides as follows:
+100. (1) At the hearing, a party may read into evidence as part of that party's own case, after that party has adduced all of that party’s other evidence in chief, any part of the evidence given on the examination for discovery of
+(a) the adverse party, or
+(b) a person examined for discovery on behalf of or in place of, or in addition to the adverse party, unless the judge directs otherwise,
+if the evidence is otherwise admissible, whether the party or person has already given evidence or not.
+It seems to me that the qualification “if the evidence is otherwise admissible” is an important qualification to the introduction of the discovery evidence.
+[3] Counsel for the Appellant emphasized the decision of the Federal Court of Appeal in The Queen v. Anchor Pointe Energy Ltd., 2007 FCA 188. In that decision Justice Létourneau, writing on behalf of the Federal Court of Appeal, stated that:
+29 Fairness requires that the facts pleaded as assumptions be complete, precise, accurate and honestly and truthfully stated so that the taxpayer knows exactly the case and the burden that he or she has to meet:
+[4] It is important to note that it is the facts pleaded as assumptions that are to be accurately stated. Counsel for the Appellant repeatedly referred to the right of the Appellant to know the assumptions made by the Minister in assessing the Appellant. In the written submissions, counsel for the Appellant stated that:
+4. The Appellant says that the evidence and documents are relevant because they shed light on the findings of fact and assumptions made by the Minister of National Revenue in raising the assessments in issue. The Appellant seeks to rely on the evidence in issue (including the documents) to demonstrate, among other things that:
+…
+(b) the fundamental premise of the Crown's case - that the transaction is essentially a loan - was considered and rejected during the avoidance audit based on the factual and legal conclusions described in the documents;
+(c) The fundamental premise of Mr. John Steines' expert report respecting the nature of the transaction ‑ a loan for U.S. tax purposes ‑ was rejected by the CRA as being irrelevant to the issue of the Appellant’s entitlement of the foreign tax credit.
+(d) The fundamental premise of Mr. John Small's expert report – that the Appellant's entitlement to profit was 4.7% of the consideration paid by the Appellant for the units of the partnership - was rejected by the CRA after extensive analysis on the basis of factual and legal basis described in the documents;
+(e) The Appellant's theory - that the Attorney General's position in this litigation is an attempt to recharacterize the transactions into a loan in the face of the CRA's finding that the legal form and substance of the transactions was a purchase of partnership interest and not a loan – is well founded; and
+(f) that the CRA's administrative policy is consistent with allowing the foreign tax credit at issue because Crown Point Investments LP is a partnership for Canadian tax purposes, and the Minister refused to apply the policy, not because the policy is inapplicable to the facts in this appeal, but because the Minister did not like the result.
+(emphasis added)
+[5] The Appellant is treating the findings of facts and the assumptions as two different items. There are a number of questions of law in these paragraphs. It appears that it is the Appellant’s position that the Appellant is entitled to introduce into evidence questions and answers that relate to assumptions of law. However, questions of domestic law are for argument, not testimony. The assumptions referred to in Anchor Point Energy Ltd., supra, would not include assumptions of domestic law. In another decision of the Federal Court of Appeal related to Anchor Pointe Energy Ltd. (The Queen v. Anchor Pointe Energy Ltd., 2003 FCA 294), Justice Rothstein (as he then was) writing on behalf of the Federal Court of Appeal stated that:
+25 I agree that legal statements or conclusions have no place in the recitation of the Minister's factual assumptions. The implication is that the taxpayer has the onus of demolishing the legal statement or conclusion and, of course, that is not correct. The legal test to be applied is not subject to proof by the parties as if it was a fact. The parties are to make their arguments as to the legal test, but it is the Court that has the ultimate obligation of ruling on questions of law.
+[6] The assumptions that must be pleaded completely, precisely, accurately and honestly are the assumptions of fact. It also seems to me that these assumptions are the assumptions of fact that were made by the Minister is assessing (or reassessing) the Appellant as the Appellant was assessed (or reassessed). These are not assumptions of fact that would have been made if the Appellant would have been assessed (or reassessed) under some other provision of the Income Tax Act (“Act”) that may have been considered by the Minister but not applied by the Minister in assessing (or reassessing) the Appellant. The facts included in these assumptions of fact are the facts upon which the Minister is basing the assessment (or reassessment). There are also several references to the Respondent recharacterizing the transaction as a loan but there is no reference in the Reply to the Respondent basing the reassessment of the Appellant on a recharacterization of the transactions as a loan for the purposes of the Act. In the Reply to the Amended Notice of Appeal, in paragraph 9 it is stated in part that:
+9. In determining the Appellant’s tax liability for the 2001 taxation year, the Minister made the following assumptions of fact:
+…
+ss) For U.S. tax purposes:
+…
+ii) the Cdn $400 million amount paid by the Appellant to Altier for the LP Units was considered to be a loan to Altier which was secured by the LP Units (“Repo Loan”)
+[7] This is clearly an assumption made for U.S. Tax Purposes. In describing the Grounds Relied On in the Reply to the Amended Notice of Appeal, it is stated that:
+15. The Appellant did not pay U.S. federal income taxes during its 2003 taxation year and no such taxes were paid on its behalf. The Minister of National Revenue properly disallowed the foreign tax credit claimed by the Appellant, pursuant to subsection 126(2) of the Act.
+16. Furthermore, Article XXIV of the Canada-United States Income Tax Convention, 1980 does not require the foreign tax credit claimed by the Appellant to be allowed as a deduction in computing tax payable for the 2003 taxation year.
+[8] There is no indication in the Grounds Relied On that the Minister was basing the reassessment on a recharacterization of the transaction as a loan. As well, Mr. Bourgeois during his opening submission at the hearing stated that:
+…The Minister assessed on the basis that that was of the correct view, that the appellant's entitlement to profits was 25 percent of the pre‑tax profits of Crown Point LP. We've pled an alternative fact. We've stated that that is not a proper interpretation of the partnership agreement because the only way the Appellant can share in the profits of Crown Point LP is through the distributions that are spelled out very clearly in the partnership agreement that say regardless of how many profits, regardless of whether or not the U.S. tax rate falls down to 10 percent, the only money that you can make, the only return that you can make as a limited partner is 4.7303 percent of the amount that you invested, which is $400 million. We're not re‑characterizing the transaction as a loan. It is partnership agreement we're interpreting.
+(emphasis added)
+[9] Evidence and documents that relate to a position that is not being taken in relation to the reassessment of the Appellant are not admissible. As noted by Justice C. J. Horkins of the Ontario Superior Court of Justice in Covriga v. Covriga, [2009] O.J. No. 3359:
+20 Pleadings define the issues and serve as a framework for determining what evidence is relevant at trial.
+[10] As well statements related to positions or opinions in relation to matters of domestic law are not admissible. In Eco-Zone Engineering Ltd. v. Grand Falls - Windsor (Town), 2000 NFCA 21 Justice Cameron, writing on behalf of the Newfoundland Supreme Court - Court of Appeal stated that:
+15 What the parties did not directly address before this Court, is the long accepted view that courts do not accept opinion evidence on questions of domestic law (as opposed to foreign law). This is part of the principle that courts do not accept expert evidence on the ultimate issue which is for the court to decide, which was referred to by the appellant. Though one could perhaps say that there has been a relaxation of the rule regarding opinion on the ultimate issue, there is little support for the admissibility of expert opinion regarding domestic law. In R. v. Century 21 Ramos Realty Inc. and Ramos (1987), 32 C.C.C. (3d) 353 (Ont. C.A.) the principal of a real estate company was charged with income tax evasion as a result of appropriation of property belonging to the company. The taxation year in which the appropriation took place was an issue at trial and the Crown called an employee of Revenue Canada to give expert evidence as to when the accused had appropriated the property. The Ontario Court of Appeal held such evidence to have been inadmissible as the judge was to determine what constitutes an appropriation (a question of law) and if and when an appropriation took place. The expert evidence was therefore inadmissible. In Doncaster et al. v. Smith (1985), 65 B.C.L.R. 173 (B.C.S.C.) at pp. 180-181, Southin J. suggested another approach should be taken:
+Strictly speaking, expert evidence of the domestic law of this country is not admissible. The classic rule is that evidence may be adduced of foreign law which is considered a fact but not of domestic law. However, as the Income Tax Act of Canada is so complicated that the Honourable John Crosbie, now Attorney General for Canada, once commented, "even a witch doctor can't read it", perhaps the courts should relax the rule and permit expert evidence on the Act and its effect. Without taking it upon myself to relax the rule, I adopt the statement as setting out the relevant considerations and the effect of an amalgamation [of companies].
+The British Columbia Court of Appeal reversed the decision of the trial judge but without comment on the question of expert evidence on domestic law. (See (1987), 40 D.L.R. (4th) 746.)
+16 I see no basis upon which to announce the death of the rule against the admissibility of expert evidence as to domestic law. The opinions of the expert as to whether the GST was an excise tax or a sales tax should not have been admitted.
+[11] Since individuals who have been qualified as experts are not permitted to provide opinions to the Court on matters of domestic law, any person who has not been qualified as an expert will likewise not be permitted to testify with respect to their opinion on matters of domestic law. This is also confirmed by Master Funduk of the Alberta Court of Queen's Bench in First Edmonton Place Ltd. v. Qualico Developments Ltd., 97 A.R. 91:
+Reimer's "evidence" in paragraph 3, that the Plaintiff is "obliged" to draw on the letter of credit, is a legal opinion thinly disguished as evidence. That "evidence" is not admissible. On a question of law a witness cannot give opinion evidence about what the law is, except in the case of an expert witness testifying as to what some foreign law is.
+The general admonition in Alberta Human Rights Commission v. Alberta Blue Cross Plan, (1983) 6 W.W.R. 758 (Alta. C.A.), p. 760, must be kept in mind:
+The respondent's response to justify the dismissal is contained in an affidavit taken by one of its officers in which he alleges that the complainant was dismissed "because of her record of attendance and problems over the six months previous". We might add, as an aside, that mixed with a lengthy recital of facts the affidavit contains a good deal of argument and opinion including the conclusion that the demand for documents was "entirely unreasonable" and "completely unreasonable". We would suggest to the deponent and to counsel that affidavits ought to be confined to evidence. Any conclusion based on the evidence is the function of the court.
+Opinion evidence is admissible if it is by an expert witness and goes to an issue of fact. Argument is solely a function of counsel. Law and any conclusions based on evidence is solely a function of the Court.
+[12] Therefore any expressions of any opinions of domestic law will not be admissible. This would include any expressions of any opinion with respect to whether any particular provision of the Act will apply.
+[13] It should also be noted that the issue of whether any particular question or matter is relevant is not the same for discovery examinations as it is at a hearing. Then Associate Chief Justice Christie in 569437 Ontario Inc. v. The Queen, [1994] 2 C.T.C. 2399, 94 D.T.C. 1922 stated as follows:
+9 I adopt these two propositions in the reasons for judgment delivered by Chilcott J., in Algoma Central Railway v. Herb Fraser and Associates Ltd. et al. (1988), 36 C.P.C. (2d) 8, 66 O.R. (2d) 330 (Div. Ct.). He was sitting as a member of the Divisional Court of the Supreme Court of Ontario on an appeal from an order of Montgomery J. First, there is a broader standard of relevance regarding questions asked at the discovery stage of proceedings than at trial. Second, questions asked on examination for discovery may be proper bearing in mind that issues of admissibility and weight to be assigned to evidence at trial are for the trial judge to determine.
+[14] Also, as noted by Justice Quinn in 1224948 Ontario Ltd. v. 448332 Ontario Ltd., [1998] O.J. No. 4544, 28 C.P.C. (4th) 57:
+8 As for the second ruling, it can be resolved by reference to the wording of the rule itself: (Emphasis added [by Justice Quinn])
+31.11(1) At the trial of an action, a party may read into evidence as part of the party's own case against an adverse party any part of the evidence given on the examination for discovery of,
+(a) the adverse party; or
+(b) a person examined for discovery on behalf or in place of, or in addition to the adverse party, unless the trial judge orders otherwise,
+if the evidence is otherwise admissible, whether the party or person has already given evidence or not.
+When the transcript and the two affidavits were made exhibits on the discovery of Mr. Ferri in this action, they became, in the words of rule 31.11(1), "evidence given on the examination for discovery of" the first mortgagee. As such, they are properly the subject of read-ins under that rule provided, however, that they are "otherwise admissible" pursuant to the rules of evidence governing trials (it being trite law that what is admissible on discovery is not necessarily admissible at trial).
+(additional emphasis added as designated by the portion that is in bold and italics)
+[15] Included after the excerpts from the transcripts that were submitted by counsel for the Appellant are several documents. Counsel for the Respondent during argument confirmed the authenticity of the documents. The position of the Appellant was that since the documents had been produced at the examination for discovery that such documents were therefore admissible at the hearing. I do not read the decisions[1] referred to by counsel for the Appellant in support of the Appellant’s argument as standing for the proposition that basic rules of evidence and admissibility should be dispensed with simply because a document was produced at a discovery examination. As noted by Justice Quinn in 1224948 Ontario Ltd. v. 448332 Ontario Ltd., supra, the documents introduced at the discovery (the transcript and the two affidavits in that case) would be “properly the subject of read-ins under that rule provided, however, that they are ‘otherwise admissible’ pursuant to the rules of evidence governing trials”. Therefore the documents must be admissible documents pursuant to the rules of evidence governing trials in order to be introduced as documents at the hearing.
+[16] The first excerpt to which the Respondent objected is located after Tab 18 in the binder submitted by the Appellant. The questions and answers in this excerpt relate to a prior opinion that had been expressed by someone with the Canada Revenue Agency (the “CRA”) with respect to whether the Appellant should be entitled to claim the foreign tax credit that is in issue in this appeal. This opinion would clearly be an expression of an opinion on matters of domestic law and not admissible. The document included after Tab 18 is the request for an opinion. It appears from the questions that were asked that the purpose for introducing the document would be to have admitted into evidence the views expressed by the CRA auditor (who wrote the request for an opinion) on whether the Appellant should be entitled to the foreign tax credit. These views would be an expression of the opinion of the CRA auditor on matters of domestic law and therefore are not admissible. Therefore neither the excerpt nor the document located after Tab 18 is admissible.
+[17] The excerpts after Tab 19 also relate to expressions of the opinions of various individuals with respect to whether the Appellant is entitled to claim the foreign tax credit that is in dispute in this appeal. These would also be expressions of opinions of domestic law and not admissible. The document which is included after Tab 19 (which is the expression of the opinion rendered by the Income Tax Rulings Directorate (International and Trusts Division) (“Rulings”)) is also an expression of the opinion of Rulings on the domestic legal question of whether the Appellant is entitled to claim the foreign tax credit that is in issue and is not admissible.
+[18] There were also excerpts related to certain legal advice that the CRA was seeking in relation to the transactions. This would also relate to opinions of domestic law and would not be admissible. As a result the excerpt and the documents located after Tab 19 are not admissible.
+[19] The questions and answers after Tab 21 relate to the question of whether the matter had been referred to the GAAR committee. Since the general anti-avoidance rule (“GAAR”), in section 245 of the Act, has not been applied by the Respondent, these questions and answers are not relevant to the actual reassessment that is in issue in this appeal.
+[20] There is no reference in the pleadings to the CRA applying GAAR. Whether the CRA considered applying GAAR or considered applying any other section of the Act that is not referred to in the pleadings is not relevant. Why any other section of the Act was not applied would presumably also require someone to express a legal opinion, which would not be admissible. What is relevant are the facts as assumed by the Respondent in reassessing the Appellant as the Appellant was reassessed, not any facts that might relate to another section under which the Appellant might have been (but was not) reassessed. The questions and answers related to whether the CRA considered applying GAAR are not admissible.
+[21] There are however, a number of questions and answers that relate to questions of foreign law. In this case the foreign law is that of the United States. Questions related to foreign law are questions of fact. Justice Rothstein in Backman v. The Queen, 178 D.L.R. (4th) 126, [1999] F.C.J. No. 1327 (Fed. C.A.), stated as follows:
+38 Where foreign law is relevant to a case, it is a question of fact which must be specifically pleaded and proved to the satisfaction of the Court.
+[22] Therefore the questions and answers related to the foreign law as assumed by the Respondent are questions and answers related to the facts as assumed by the Minister (which appear in subparagraphs 9(tt) and (uu) of the Reply to the Amended Notice of Appeal) and therefore are admissible. Questions 336 and 337 and the related answers on pages 103 and 104 of the transcript; questions 344 and 347 and the related answers on page 107 of the transcript and the questions and answers on pages 108 to 110 of the transcript are admitted into evidence. Questions 345 and 346 quote from an expression of an opinion with respect to whether the Appellant could rely on Interpretation Bulletin IT-270R3, which is a question of domestic law and therefore are not admissible.
+[23] Since the relevant part from the documents that are included after Tab 21 was read into the discovery transcript there is no necessity to introduce that part of the document. Since the remaining parts of the document from which the paragraph was read contain legal arguments and submissions in relation to a presentation that was being made to the GAAR Committee (including a recitation of the facts as assumed for that presentation), the document after Tab 21 identified as A7 at the discovery examination is not admissible. The facts that were assumed by the Minister in making the reassessment that is under appeal are relevant. The facts as assumed by the Minister in contemplating whether another provision of the Act will apply are not relevant because that other provision was not applied in reassessing the Appellant.
+[24] The other documents after Tab 21 are also related to the submission that was being made to the GAAR Committee and therefore are not admissible.
+[25] As a result the only part of the excerpt and the documents located after Tab 21 that are admitted into evidence are the questions 336 and 337 (and the related answers) on pages 103 and 104 of the transcript, questions 344 and 347 (and the related answers) on page 107 of the transcript and the questions and answers on pages 108 to 110 of the transcript.
+[26] The only question that Simmin Hirji answered in the excerpt included after Tab 22 was whether she could “read French”. The documents included after Tab 22 include expressions of opinions on domestic law. Neither the excerpt nor the documents included after Tab 22 are admissible.
+[27] The questions and answers and the documents included after Tab 23 relate to the submissions being made by the CRA to the GAAR Committee. Since the Appellant was not reassessed based on the application of GAAR, what assumptions of fact were made in these submissions is not relevant. What is relevant are the assumptions of fact that were made by the Respondent is reassessing the Appellant as it was reassessed, not as it might otherwise have been (but was not) reassessed. There are also expressions of opinion of domestic law that are not admissible in any event.
+[28] Counsel for the Appellant cited an example of the “facts” that the Appellant wanted to have submitted through the e-mails included after Tab 23:
+I take Your Honour to tab 23. There's a document included at tab 23, an email exchange. If we go to the second page of that email exchange ‑ it's a long exchange ‑ but if we start near the top of the second page there's a question that says:
+Are you saying that you will avoid the appearance of taxing Royal Bank on pre‑tax profits but denying a foreign tax credit because you will only include the net amount in income?
+And the answer is:
+InvestCo's share of USLP's tax profits for Canadian tax purposes…
+must be the pre‑tax amount. What do we do with the U.S. tax paid at the partnership level that InvestCo can not claim as a foreign tax credit but does not receive? Rick believes there is a lot of case law that supports the non‑deductibility of these amounts for tax purposes. I could double check that. If that verifies we will have to consider it as a non‑deductible disbursement for InvestCo, since the Canadian taxpayer was not liable to pay tax in the U.S. but agreed to share in paying the taxes of his fellow partners.
+The next response comes, it says:
+I suppose you can wrap all that in your presentation. If you intend to tax this notional gross amount I will be interested in seeing what you call the foreign tax that you are not allowing as a foreign tax credit. Will you be suggesting that it is some sort of benefit the Royal Bank has conferred on a third party?
+And the answer that comes back is:
+That can be included in my presentation. The foreign tax credit will be called a foreign tax. There is no other name for it. I will present it by way of an example as a partnership of two U.S. partners and one Canadian partner whether where the Canadian partner is exempt from tax in the U.S. but agrees to use a share of his pre‑tax distribution to pay for a share of his partner's tax. The Canadian partner agrees to do that because that is the condition under which he is allowed to be a partner and the partnership deal is still lucrative for him, at least that is what he believed on the assumption that the foreign tax credit will be granted.
+[29] The first part relates to the amount that would be included in the income of the Appellant. The amount that should be included in the income of the Appellant for the purposes of the Act is a question of domestic law. The opinions of the authors of the e-mail on this question of domestic law are not admissible. The references to the “non-deductibility” of the amounts paid as foreign taxes (although it is not entirely clear) presumably relate to the question of whether the Appellant can deduct these amounts in computing its income for the purposes of the Act. The references to the case law would presumably be to Canadian tax law cases. This is also a question of domestic law and not admissible. The part related to the presentation is with respect to the presentation to be made to the GAAR Committee and is not admissible.
+[30] Therefore the questions and answers and the documents located after Tab 23 are not admissible.
+[31] The exchange of questions and answers included after Tab 24 is a four page exchange between counsel for the Appellant and counsel for Respondent. The only answers provided by Simmin Hirji were that she saw two parts of the e-mails to which she was referred – one was a part that had been blacked out as solicitor client privilege was claimed and the other was a statement that had been made by a person in one of the e-mails. It is not at all clear why these questions and answers should be admissible. The e-mails that are attached include expressions of opinions on domestic law (and whether the Appellant should be entitled to claim the foreign tax credit if GAAR is not applied). These expressions of opinions on domestic law are not admissible. Therefore the questions and answers and the documents located after Tab 24 are not admissible.
+[32] The excerpt included after Tab 25 consists entirely of an exchange between counsel for the Appellant and counsel for the Respondent. Exchanges between counsel are not evidence. Simmin Hirji, the person who was being examined at discovery, did not answer any questions in this excerpt. Subsection 100(1) of the Rules provides, in part, that:
+100. (1) At the hearing, a party may read into evidence as part of that party's own case, after that party has adduced all of that party’s other evidence in chief, any part of the evidence given on the examination for discovery…
+(emphasis added)
+[33] A party may only read into evidence “any part of the evidence given on the examination for discovery”. Only evidence may be read in at the hearing. In Black’s Law Dictionary, Ninth Edition, “evidence” is defined as:
+Something (including testimony, documents and tangible objects) that tends to prove or disprove the existence of an alleged fact.
+[34] In a dissenting judgment[2] in R. v. Schwartz, [1988] 2 S.C.R. 443, then Chief Justice Dickson stated certain general principles. There is no indication that the majority of the Justices of the Supreme Court of Canada disagreed with the general principles as expressed by then Chief Justice Dickson. In his judgment, then Chief Justice Dickson stated that:
+59 One of the hallmarks of the common law of evidence is that it relies on witnesses as the means by which evidence is produced in court. As a general rule, nothing can be admitted as evidence before the court unless it is vouched for viva voce by a witness. Even real evidence, which exists independently of any statement by any witness, cannot be considered by the court unless a witness identifies it and establishes its connection to the events under consideration. Unlike other legal systems, the common law does not usually provide for self-authenticating documentary evidence.
+60 Parliament has provided several statutory exceptions to the hearsay rule for documents, but it less frequently makes exception to the requirement that a witness vouch for a document. For example, the Canada Evidence Act provides for the admission of financial and business records as evidence of the statements they contain, but it is still necessary for a witness to explain to the court how the records were made before the court can conclude that the documents can be admitted under the statutory provisions (see ss. 29(2) and 30(6)). Those explanations can be made by the witness by affidavit, but it is still necessary to have a witness….
+[35] There is no evidence given in this excerpt. There are no answers provided by the witness. The only persons who make any statements in this portion are the lawyers. No part of this excerpt is admissible.
+[36] The e-mails that are attached are related to the policy of the CRA. In Silicon Graphics Limited v. The Queen, 2002 FCA 260, 2002 D.T.C. 7112, [2002] 3 C.T.C. 527, Justice Sexton, writing on behalf of the Federal Court of Appeal stated that:
+52 Of course, statements by Revenue Canada officials are not declarative of the law. However, in the recent case of Canadian Occidental U.S. Petroleum Corp. v. R., 2001 D.T.C. 295 (T.C.C. [General Procedure]), Bowman A.C.J. noted that while the administrative position of Revenue Canada is not declarative of the law, it is nonetheless of assistance in circumstances where the Minister seeks to reassess the taxpayer in a manner inconsistent with its own administrative position. Associate Chief Justice Bowman wrote at 299:
+The Court is not bound by departmental practice although it is not uncommon to look at it if it can be of any assistance in resolving a doubt: Nowegijick v. The Queen et al., 83 D.T.C. 5041 at 5044. I might add as a corollary to this that departmental practice may be of assistance in resolving a doubt in favour of a taxpayer. There can be no justification for using it as a means of resolving a doubt in favour of the very department that formulated the practice.
+[37] In this case the administrative policy that is referred to in the e-mails that are included after Tab 25 is the policy contained in Interpretation Bulletin IT-270R3. The parties had previously brought motions in relation to questions that were not answered during discovery examinations. As part of his decision on these motions[3], Justice Campbell Miller stated that:
+4. Question 235 - Will the Respondent urge the Court not to follow the Minister's administrative practice as described in IT-270R3 because it is wrong in law?
+31 The Respondent claims this goes beyond seeking their legal position and is looking for an opinion on the state of the law. I agree. The Appellant appears to be engaging in tactics best left for argument at trial. The Appellant referred me to a number of decisions (notably Silicon Graphics Ltd. v. R.* and Canadian Occidental U.S. Petroleum Corp. v. R.*) commenting on the use of IT Bulletins. These comments were raised in the context of legal argument. If Mr. Meghji believes the Respondent has acted inconsistently with an Interpretation Bulletin, the trial judge may certainly take that into consideration. Discovery is not the place to obtain the Government's opinion on its IT Bulletin. It is what it is. The Respondent's legal position is not to be crafted by the Appellant seeking opinions on IT Bulletins.
+(* denotes a footnote reference that was in the original text but which has not been included.)
+[38] The e-mails in question do not address the question raised and dealt with in the motions brought before Justice Campbell Miller. The e-mails simply state the rationale for the position taken in the Interpretation Bulletin. There is no suggestion that the Respondent would be arguing that its position as stated in the Interpretation Bulletin should not be followed. In any event that would be a matter for argument not testimony.
+[39] The e-mails consist of an inquiry about documents with respect to the foreign tax credit generator and a response that refers to Interpretation Bulletin IT-270R3 and a statement of the rationale. It is not clear why an inquiry about documents is relevant in relation to the issues raised in this Appeal. With respect to the response, whether the rationale is correct is a question of law. As a result these documents are not admissible.
+[40] The excerpt after Tab 26 includes questions and answers related to what the Appellant did in filing its tax returns and questions related to the amounts paid by the limited partnership to the government of the United States and are admissible. The e-mails that are also after Tab 26 include speculations on questions of domestic law - whether a taxpayer in certain situations should be entitled to claim a foreign tax credit. Expressions of opinions on matters of domestic law are not admissible. Therefore the e-mails are not admissible.
+[41] As a result, none of the documents included with the excerpts from the examination for discovery of Simmin Hirji, the nominee of the Respondent, are admissible and the following portions of the excerpts from her examination for discovery are not admissible into evidence:
+(a) the excerpt located after Tab 18;
+(b) the excerpt located after Tab 19;
+(c) the excerpt located after Tab 21, except that questions 336 and 337 and the related answers on pages 103 and 104 of the transcript; questions 344 and 347 and the related answers on page 107 of the transcript; and the questions and answers on pages 108 to 110 of the transcript are admitted into evidence;
+(d) the excerpt located after Tab 22;
+(e) the excerpt located after Tab 23;
+(f) the excerpt located after Tab 24; and
+(g) the excerpt located after Tab 25.
+Signed at Halifax, Nova Scotia, this 20th day of December, 2010.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2010TCC613
+COURT FILE NO.: 2008-2315(IT)G
+STYLE OF CAUSE: 4145356 CANADA LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 29, 2010
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: December 20, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Martha MacDonald
+Kimberly Brown
+Counsel for the Respondent:
+Daniel Bourgeois
+Andrew Miller
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji
+Martha MacDonald
+Kimberly Brown
+Firm: Osler, Hoskin & Harcourt, LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1224948 Ontario Ltd. v. 448332 Ontario Ltd., supra, and D. C. Gem Craft Inc. v. Pafco Insurance Co., (1998), 40 O.R. (3d) 218 (Ont. C.A.).
+[2] The first paragraph quoted from the decision of then Chief Justice Dickson is also quoted in The Dictionary of Canadian Law, Third edition in relation to the definition of evidence.
+[3] 2009 TCC 480, 2009 D.T.C. 1779, [2010] 1 C.T.C. 2123

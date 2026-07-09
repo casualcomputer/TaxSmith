@@ -1,0 +1,170 @@
+---
+title: "Akhter v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26047/index.do"
+last_modified: "2004-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 345"
+citation2: ""
+neutral_citation: "2004 TCC 345"
+decision_date: "2004-05-18"
+language: "en"
+item_id: "26047"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4107
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:26:37.542000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ec061e8caf5e85c98819e4a22dbeb49daa7c3072b97d9b82bd7dcc9e5ffac5c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Akhter v. M.N.R.
+
+- Citation: 2004 TCC 345
+- Decision date: 2004-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4107, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Akhter v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-18
+Neutral citation
+2004 TCC 345
+File numbers
+2003-1647(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1647(EI)
+BETWEEN:
+SHAHEENA AKHTER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Shaheena Akhter
+(2003-1648(CPP)) at Toronto, Ontario, on April 15, 2004
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrea Jackett
+Bari Crackower, Student-at-law
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+Docket: 2003-1648(CPP)
+BETWEEN:
+SHAHEENA AKHTER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Shaheena Akhter
+(2003-1647(EI)) at Toronto, Ontario, on April 15, 2004.
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrea Jackett
+Bari Crackower, Student-at-law
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC345
+Date: 20040518
+Dockets: 2003-1647(EI)
+2003-1648(CPP)
+BETWEEN:
+SHAHEENA AKHTER,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This is an appeal from a determination by the Minister of National Revenue that the Appellant, Shaheena Akhter, was not engaged in insurable[1] or pensionable[2] employment for the period May 2, 2001 to April 5, 2002. Ms. Akhter's position is that she was an employee hired under a contract of service and, accordingly, her employment ought to be insurable and pensionable as defined by the relevant legislation. To succeed in her appeal, Ms. Akhter has the burden of proving that the assumptions upon which the Minister relied were incorrect.
+[2] During the period in question, Ms. Akhter was working as a childcare provider out of her own home in Toronto. In preparation for her career, Ms. Akhter completed the COSTI "Home Childcare Provider Program" in May 1998. Included among the courses she studied was "Starting a Home Based Business" where she learned, generally, how to set up a daycare business. On March 16, 2001, she signed a one-year renewable contract with a government licensed agency, Muppets Private Home Daycare Agency, pursuant to which she would provide childcare in her home for children referred to her by the Agency. The contract described her as "a self-employed individual providing home daycare" and required her to comply with Ontario's Day Nurseries Act.
+[3] This case came about when, after the birth of her fourth child in April 2002, Ms. Akhter sought parental leave benefits. By that time, she had been working with the Agency for just under a year. After initially being approved, it was later determined by the Minister that she was not entitled to the benefits. Ms. Akhter appealed. The only issue to be decided is whether she was an employee of the Agency working under a contract of service, or an independent contractor working under a contract for services. This is a question of fact.
+[4] Before starting her work, Ms. Akhter was obliged to take, without pay, the Agency's one-week orientation program and to obtain, at her own expense, medical and police clearance certificates. After the Agency had inspected her home to ensure it met the standards of the provincial legislation, children began to be placed in Ms. Akhter's care. She worked out of her own home and received no reimbursement from the Agency for its use or for the heating, telephone service, smoke detectors or other safety devices required by the contract. She also provided, at her own expense, the children's food, beverages, tissues, crayons and other necessities. Through the Agency's lending service, Ms. Akhter could borrow, at no cost, certain larger items such as playpens or strollers.
+[5] Under the contract, Ms. Akhter had the right to choose which days, if any, she would be available to receive children. If she was unable or unwilling to accept children on a certain day, she received no payment. If Ms. Akhter took holidays, she received no payment during that time. When she was available, she had to be ready to receive children Monday to Friday from 7:00 a.m. to 6:00 p.m. If a child failed to show up as scheduled, the parents were still obliged to pay that day's fees unless they had properly notified the Agency in advance of the child's absence. If a child was removed from her care, for example, during family holidays, even though she was still available, Ms. Akhter would not be paid. The only exception to this occurred when the parents elected to continue to pay childcare fees in order to hold the child's place in her home. It was this payment that Ms. Akhter referred to as "holiday pay" in her testimony. Such payments, however, are not holiday pay in the legal sense of the term.
+[6] While the children were in her care, Ms. Akhter worked without Agency supervision although, from time to time, an Agency representative would make an unannounced visit, a sort of "spot check", at the home. But as long as the Agency was satisfied that Ms. Akhter was meeting the Day Nurseries Act requirements, she essentially ran her own show. She kept a monthly attendance record for each child showing the days in her care. After obtaining the parents' approval of the attendance record, Ms. Akhter would submit it to the Agency at the end of each month. From the fees she then received, the Agency made no deductions for income tax, employment insurance or Canada Pension Plan. In February of each year, the Agency issued to Ms. Akhter a "Statement of Gross Income". The contract referred Ms. Akhter to a Revenue Canada (now Canada Revenue Agency) publication entitled "Using Your Home for Day Care". Ms. Akhter called as a witness her husband, Mr. Alam, who prepared his wife's income tax return for 2001. His evidence was that he had submitted along with Ms. Akhter's return a T4A in relation to her work with the Agency. He further testified that Ms. Akhter claimed as a business expense her costs in running her home daycare; she testified that this amount included expenses incurred for both Agency and privately placed children.
+[7] The Minister relied on the test in Sagaz Industries Canada Inc. v. 671122 Ontario Limited[3] as applied in Precision Gutters Ltd. v. Canada[4]. In that case, the Federal Court of Appeal held that "...the central question to be decided in cases such as these is whether the person who has been engaged to perform the services is performing them as a person in business on his own account or is performing them in the capacity of an employee. In order to make this determination, the four criteria set out in Wiebe Door Services Ltd. v. M.N.R.[5] are factors to be considered." These four factors are: (1) control; (2) ownership of the tools; (3) chance of profit; (4) risk of loss.
+[8] In presenting argument on behalf of his wife, Mr. Alam referred to these criteria. He contended that the evidence showed the Agency controlled Ms. Akhter's work: setting the hours of work, doing spot checks on the home, specifying the kinds of activities for the children, limiting the number of children and determining the rate of pay. He urged the Court to find that Ms. Akhter was an employee. With respect, I do not think the evidence leads to this conclusion. The control that the Agency exerted over Ms. Akhter had to do with ensuring, as it was required to do, that Ms. Akhter, as one of its contractual childcare providers, was complying with the Day Nurseries Act and municipal childcare bylaws. Apart from these obligations, however, Ms. Akhter was not under the control of the Agency as an employee would be. She was free to work or not work and performed her day-to-day tasks with the children as she saw fit. The Agency made no guarantee of wages or the provision of children on any given day. Ms. Akhter received no sick pay or vacation pay.
+[9] As for the other criteria, the primary "tool"[6] and quite a major one, was her home which she provided at her own expense. In addition, she provided everything necessary for the proper care of the children, except for some larger equipment which she borrowed, at own her risk, from the Agency. Regarding "chance of profit" and "risk of loss", under the contract with the Agency, Ms. Akhter was at liberty to seek her own private daycare clients while also accepting Agency children. Such freedom is typical of an independent contractor working under contract for services.
+[10] A final consideration is the intention of the parties[7].Ms. Akhter is described in the contract as "self-employed". While this in itself would not be sufficient to establish her status as an independent contractor, when considered with all of the other evidence, it becomes significant. Mr. Amarshi, the Agency representative, testified that when the contract was signed, he and Ms. Akhter discussed the home-based daycare business provisions. Ms. Akhter admitted that she knew from taking the COSTI course that different rules applied for daycare providers running their own business. Ms. Akhter testified that she was aware that no income tax, EI or CPP deductions were being made by the Agency. In spite of this, she did not ask why this was not being done, nor did she object to it. Her husband, at her direction and knowing the details of her work out of their home, filed a T4A for Ms. Akhter and claimed the expenses incurred in her daycare work. Clearly, Ms. Akhter cannot have it both ways: it is not possible to have the benefit of deducting business expenses from self-employed income while at the same time claiming the parental leave benefits of an employee.
+[11] Ms. Akhter has not been successful in disproving the assumptions upon which the Minister's determination was based. It is clear from the evidence presented that Ms. Akhter was in a contract for services with the Agency; accordingly, her employment is not insurable or pensionable. Accordingly, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC345
+COURT FILE NOS.:
+2003-1647(EI)
+2003-1648(CPP)
+STYLE OF CAUSE:
+Shaheena Akhter v. MNR
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+May 18, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrea Jackett
+Bari Crackower, Student-at-law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 5(1)(a) of the Employment Insurance Act states: "... employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are receive from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;"
+[2] Canada Pension Plan Act, paragraph 6(1)(a)
+[3] [2001] 2 S.C.R. 983
+[4] [2002] F.C.J. No. 771 (F.C.A.)
+[5] [1986] 2 C.T.C. 200 (F.C.A.)
+[6] See the following cases which considered similar facts: Arseneau v. M.N.R., [1996] T.C.J. No. 1381; Randa v. M.N.R., [1998] T.C.J. No. 940; Goulet v. M.N.R., [1998] T.C.J.No. 520.
+[7] Wolf v. Canada, [2002] F.C.J. No. 375 (F.C.A.)

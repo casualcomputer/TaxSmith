@@ -1,0 +1,146 @@
+Title: Salzmann v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28944/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-527-28944-salzmann-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2008-09-22
+
+# Salzmann v. The Queen
+
+- Citation: 2008 CCI 527
+- Decision date: 2008-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1384, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salzmann v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-22
+Référence neutre
+2008 CCI 527
+Numéro de dossier
+2006-1761(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI527
+Dossier : 2006-1761(IT)G
+ENTRE :
+GARY SALZMANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICATION DE LA TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Que la transcription certifiée ci‑jointe de mes motifs du jugement rendus oralement à l’audience à Toronto (Ontario), le 22 août 2008, soit versée au dossier.
+« L. M. Little »
+Juge Little
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de septembre 2008.
+Traduction certifiée conforme
+ce 15e jour d’octobre 2008.
+Alya Kaddour‑Lord, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+No du dossier de la Cour : 2006-1761(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+GARY SALZMANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+APPEL ENTENDU PAR L’HONORABLE JUGE LITTLE
+dans la salle d’audience 6A du Service administratif des tribunaux judiciaires,
+180, rue Queen Ouest,
+Toronto (Ontario),
+le vendredi 22 août 2008, à 9 h 35.
+MOTIFS PRONONCÉS ORALEMENT ET DÉCISION
+COMPARUTIONS :
+Me Howard J. Alpert Pour l’appelant
+Me Andrea Jackett Pour l’intimée
+Étaient également présents :
+M. William O'Brien Greffier‑audiencier
+Mme Linda O'Brien Sténographe judiciaire
+ASAP Reporting Services Inc. 8 2008
+200, rue Elgin, bureau 1105 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+613-564-2727 416-861-8720
+Toronto (Ontario)
+‑‑‑ L’audience débute le vendredi 22 août 2008, à 9 h 35.
+LE GREFFIER : La Cour est saisie du dossier portant le numéro 2006‑1761(IT)G, opposant Gary Salzmann, appelant, et Sa Majesté la Reine, intimée. J’appelle la cause, la Cour va rendre jugement.
+LE JUGE LITTLE : Merci.
+Les motifs du jugement dans l’affaire Gary Salzmann :
+A. LES FAITS : L’appelant a été marié à Francis Elizabeth Salzmann (ci‑après l’« ex‑épouse »). La rupture de leur mariage a pris effet le 16 novembre 2001.
+Le 11 décembre 2003, le juge MacDougall de la Cour supérieure de justice de l’Ontario a rendu une ordonnance intimant à l’appelant l’ordre de verser à son ex‑épouse des mensualités de 3 600 $ à titre de pension alimentaire pour conjoint provisoire, avec effet rétroactif au 16 novembre 2001.
+Le montant total du paiement rétroactif que l’appelant devait verser à son ex‑épouse en vertu de ladite ordonnance s’élevait à 90 000 $. L’appelant a payé cette somme en avril 2004. Il a également commencé à verser les paiements mensuels de 3 600 $ à son ex‑épouse à partir du premier jour de janvier 2004.
+Dans la déclaration qu’il a produite pour l’année d’imposition 2004, l’appelant a déduit les montants suivants à titre de pension alimentaire pour conjoint : 1) 90 000 $; 2) 43 200 $.
+Dans un avis de nouvelle cotisation pour l’année d’imposition 2004, le ministre du Revenu national (le « ministre ») a refusé à l’appelant la déduction que celui‑ci avait demandée à l’égard de la somme de 90 000 $ qu’il avait versée à son ex‑épouse. Le ministre l’a autorisé à déduire le montant de 43 200 $ versé à son ex‑épouse à titre de pension alimentaire pour conjoint.
+B. LA QUESTION EN LITIGE : La question à trancher est de savoir si l’appelant a le droit de déduire de son revenu le montant de 90 000 $ qu’il a versé à son ex‑épouse.
+C. ANALYSE ET DÉCISION : Dans l’ordonnance qu’il a rendue, le juge MacDougall de la Cour supérieure de justice de l’Ontario a déclaré que tous les versements de pension alimentaire pour conjoint qui se rapportaient à une période antérieure à la date à laquelle l’ordonnance a été rendue seraient déductibles pour l’appelant et imposables pour son ex‑épouse en vertu des paragraphes 56.1(3) et 60.1(3) de la Loi de l’impôt sur le revenu (la « Loi »).
+Les tribunaux canadiens ont eu, à maintes reprises, l’occasion de se pencher sur la question de la déductibilité des montants versés à titre de pension alimentaire pour conjoint aux fins de l’impôt.
+Dans l’affaire Baylis v. The Queen, 2007 DTC 1278, le contribuable et son ex‑épouse s’étaient séparés en août 2001. Dans un jugement rendu le 19 juin 2003, la Cour supérieure de justice de l’Ontario a ordonné: a) que le contribuable verse à son ex‑épouse à titre de pension alimentaire avec effet rétroactif un montant total de 16 800 $, pour la période de 12 mois allant du 1er août 2001 au 1er août 2002, ce qui correspond à une somme de 1 400 $ par mois; b) que cette somme de 16 800 $ soit déduite de la part du produit de la vente du foyer conjugal qui revenait au contribuable.
+Dans la cotisation qu’il a établie à l’égard du contribuable pour 2003, le ministre a refusé que la somme de 16 800 $ soit déduite du revenu de celui‑ci conformément à ce qui était prévu par l’ordonnance. Le contribuable a interjeté appel auprès de la Cour canadienne de l’impôt.
+L’appel du contribuable a été accueilli, et la Cour a décidé que la somme de 16 800 $ constituait un paiement unique d’arriéré de versements périodiques accumulé. Par conséquent, la Cour a conclu qu’il s’agissait d’un paiement de pension alimentaire déductible en vertu des principes exprimés par la Cour d’appel fédérale dans l’arrêt The Queen v. Sills, 85 DTC 5096.
+En arrivant à cette conclusion dans la décision Baylis, le juge Bowie a déclaré, au paragraphe 8 du jugement :
+« Le principe applicable en l’espèce est celui que la Cour d’appel fédérale a exprimé dans l’arrêt Dale v. The Queen. Dans cet arrêt, il a été statué qu’une ordonnance d’une cour supérieure ne peut pas être attaquée indirectement dans des procédures ultérieures et que, lorsque cette ordonnance est réputée s’appliquer rétroactivement, il faut considérer qu’elle a pour effet manifeste de réécrire l’histoire fiscale. Lorsque le juge Wood a rendu son ordonnance, celle‑ci a entre autres eu pour effet d’obliger l’appelant à payer un arriéré de pension alimentaire pour conjoint accumulé de 16 800 $ pour la période allant de 2001 à 2002. Lorsque M. Baylis s’est acquitté de l’obligation au moyen d’un paiement provenant de sa part du produit de la vente de la maison, ce paiement constituait un arriéré de versements périodiques accumulé. Puisqu’il s’agit d’un paiement unique d’arriéré de versements périodiques non effectués, le paiement correspond au principe exprimé par la Cour d’appel fédérale dans l’arrêt The Queen v. Sills, c’est‑à‑dire que ces paiements sont considérés comme des paiements périodiques, même s’ils ont été faits en retard et d’un seul coup. »
+Je me suis également penché sur les motifs de la juge Sharlow de la Cour d’appel fédérale dans l’arrêt Tossell v. Canada, 2005 DTC 5365. Dans cet arrêt, la juge Sharlow a analysé la question de la déductibilité d’une somme de 36 000 $ versée à titre de pension alimentaire pour enfants (l’équivalent de 36 mois d’arriérés), alors qu’il a été constaté que le père avait accumulé des arriérés de pension alimentaire pour enfants pendant une période d’environ 43 mois.
+En l’espèce, le paiement de 90 000 $ correspondait exactement aux arriérés. Autrement dit, on ne peut pas dire qu’il s’agissait d’autre chose que d’un paiement d’arriérés.
+J’ai aussi examiné la décision Leduc v. The Queen, 2007 DTC 1117, rendue en appel par le juge Rossiter (aujourd’hui juge en chef adjoint).
+Dans l’affaire Leduc, les faits étaient les suivants : la contribuable et son ex‑époux avaient divorcé le 15 octobre 2002. Une ordonnance inscrite par la Cour supérieure de justice de l’Ontario le 29 janvier 2004 enjoignait à la contribuable de verser à son ex‑époux une pension alimentaire pour conjoint d’un montant de 1 250 $ par mois. Le tribunal a porté au crédit de la contribuable les 9 000 $ qu’elle avait payés à son ex‑époux sur les 25 000 $ qu’elle lui devait en arriérés de pension, et a ordonné à la contribuable de payer les 16 000 $ d’arriérés restants sous forme de mensualités de 250 $.
+Dans la cotisation qu’il a établie à l’égard de la contribuable pour 2004, le ministre lui a refusé la déduction du montant de 9 000 $ qui lui a été crédité conformément à l’ordonnance, ainsi que la déduction d’un autre montant de 5 000 $ qu’elle avait payé à son ex‑époux en 2004. Le ministre était d’avis que ces montants n’étaient pas périodiques et qu’ils ne répondaient donc pas aux exigences des alinéas 56(1)b) et 60b) ainsi que du paragraphe 56.1(4) de la Loi.
+La contribuable a interjeté appel devant la Cour de l’impôt. Son appel a été accueilli. En appliquant les principes énoncés par la Cour d’appel fédérale dans l’arrêt Tossell, la Cour a conclu que lorsqu’on examinait les montants contestés de 9 000 $ et de 5 000 $ à la lumière des autres paiements prévus par l’ordonnance, on se rendait compte qu’il s’agissait de montants périodiques.
+Je fais également référence à l’arrêt Sills rendu par la Cour d’appel fédérale. Aux termes de l’accord de séparation écrit qui avait été conclu, la contribuable devait recevoir de son mari des paiements mensuels bien définis. En fait, la contribuable avait reçu trois paiements forfaitaires, effectués de façon erratique, pendant les années d’imposition en cause. Le ministre a ajouté ces montants au revenu de la contribuable à titre de pension alimentaire.
+Dans l’appel interjeté par la contribuable, la Commission de révision de l’impôt a conclu que les montants qui avaient été versés n’étaient pas vraiment des paiements de pension alimentaire. L’appel interjeté par la Couronne devant l’ancienne Section de première instance de la Cour fédérale dans l’affaire Sills, 83 DTC 5070, a été rejeté.
+La Couronne a ensuite interjeté appel devant la Cour d’appel fédérale, qui a accueilli l’appel. La Cour a conclu que les montants avaient été reçus conformément à l’accord de séparation, et qu’ils avaient été inclus à bon droit dans le revenu de la contribuable. Dans la mesure où l’accord prévoyait que les montants seraient périodiques, le fait qu’ils n’aient pas été payés de façon régulière n’en altérait pas la nature.
+La législation pertinente n’exigeait pas que les montants soient reçus conformément aux termes de l’accord pour être inclus dans le revenu.
+Même si je suis d’avis que le raisonnement suivi dans les décisions susmentionnées implique que les paiements de pension alimentaire sont déductibles pour l’appelant, je voudrais apporter quelques commentaires au sujet des déclarations de mon collègue, le juge Hershfield.
+Dans la décision Stephenson v. The Queen, 2007 DTC 1608, le juge Hershfield s’est ainsi exprimé, au paragraphe 8 :
+« Bien que je sois d’avis que les juges du tribunal de la famille n’ont pas le pouvoir de fixer des conséquences fiscales dans leurs ordonnances et leurs jugements, il est certainement essentiel de tenir compte des intentions formulées d’une manière expresse dans une ordonnance rendue par un juge d’une cour supérieure dans les cas où une interprétation raisonnable qu’on peut faire de l’ordonnance définitive est qu’elle enjoignait à l’appelant de payer 7 500 $ en arriéré. »
+Dans la décision Hinkelman v. The Queen, 2001 DTC 732, le juge Hershfield a également formulé un commentaire qu’il me semble bon de prendre en considération. Au paragraphe 22, il s’est exprimé en ces termes :
+« Il va sans dire que le fait de donner pleine vigueur et plein effet à l’ordonnance d’une cour supérieure devrait être facilité lorsque cela est possible. Faire autrement ne peut qu’ébranler notre respect et notre confiance à l’égard du système judiciaire. Rien dans notre système fiscal, ainsi qu’il s’applique à l’année en litige, n’empêchait la déduction du paiement d’une pension alimentaire destinée à profiter aux enfants du conjoint à l’égard desquels la responsabilité découlait d’un mariage avec un parent naturel de ces enfants. Donner effet à ce modèle permissif constituait la directive expresse du juge Warren. Le fait de reconnaître que Deborah est le lien dans la chaîne qui lie l’obligation alimentaire de l’appelant à M. McKee donne effet à ce modèle et à cette directive du juge Warren. »
+Je souscris à ces commentaires, mais je suis conscient du fait que l’interprétation des lois régissant les pensions alimentaires faite par une cour supérieure provinciale ne saurait lier la Cour. Comme je l’ai indiqué plus tôt, je conclus que les montants versés à titre de pension alimentaire respectent les dispositions de la Loi et doivent être déduits du revenu de l’appelant.
+Pour finir, je voudrais souligner le fait que l’appelant a pris acte de ses obligations familiales et a versé une pension alimentaire à son ex‑épouse. Autrement dit, il n’a pas cherché à se soustraire à ses responsabilités. Selon moi, on ne devrait pas faire preuve d’inflexibilité en lui refusant la déduction des montants en cause en raison d’un détail technique.
+L’appel est accueilli, avec dépens. Merci.
+LE GREFFIER : Veuillez vous lever. L’audience de la Cour canadienne de l’impôt est maintenant levée.
+‑‑‑ L’audience prend fin à 9 h 47.
+Traduction certifiée conforme
+ce 15e jour d’octobre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2008CCI527
+NO DU DOSSIER DE LA COUR :
+2006-1761(IT)G
+INTITULÉ :
+Gary Salzmann et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 août 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge L. M. Little
+DATE DU JUGEMENT ORAL :
+Le 22 août 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Howard J. Alpert
+Avocate de l’intimée :
+Me Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Howard J. Alpert
+Cabinet :
+Alpert Law Firm
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

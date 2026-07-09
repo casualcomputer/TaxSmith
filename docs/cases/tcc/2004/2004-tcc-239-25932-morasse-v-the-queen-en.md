@@ -1,0 +1,207 @@
+---
+title: "Morasse v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25932/index.do"
+last_modified: "2004-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 239"
+citation2: ""
+neutral_citation: "2004 TCC 239"
+decision_date: "2004-03-23"
+language: "en"
+item_id: "25932"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3665
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:40:28.549000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d70f43bfa83d3759812e2ccac68436b1051a51836642d0419409d6e37b4d71d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morasse v. The Queen
+
+- Citation: 2004 TCC 239
+- Decision date: 2004-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3665, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morasse v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-23
+Neutral citation
+2004 TCC 239
+File numbers
+2003-2107(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2107(IT)I
+BETWEEN:
+ALINE MORASSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 12, 2003, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Wayne Bluett
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment of tax made under the Income Tax Act for the 2001 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $12,342 is not income subject to section 3 of the Act.
+Signed at Ottawa, Canada, this 23rd day of March, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC239
+Date: 20040323
+Docket: 2003-2107(IT)I
+BETWEEN:
+ALINE MORASSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Minister of National Revenue assessed Ms. Morasse's 2001 taxation year to include $12,342 of additional investment income, based on the value of a stock distribution of 400 units of Series L ADR of América Móvil S.A. de C.V. (the "America Movil securities"). Ms. Morasse appeals by way of the informal procedure claiming, firstly, that the receipt of the Movil securities constituted an eligible distribution governed by section 86.1 of the Income Tax Act and consequently not taxable; and, secondly, if section 86.1 is not applicable, the receipt of the Movil securities was not a stock dividend on income account but a non-taxable capital receipt. I find the distribution of the Movil securities does not qualify under section 86.1, but I also find that the receipt of the Movil securities by Ms. Morasse was not income.
+[2] In 2001, Ms. Morasse owned 400 Class L ADR of Teléfonos de México, S.A. de C.V. ADR stands for American Depository Receipts. These securities were traded on the New York Stock Exchange (NYSE), while the underlying shares of the Mexican company, which they represent, were traded on the Mexican Stock Exchange. I will refer to this Mexican Company simply as Telmex.
+[3] In an Information Statement dated September 15, 2000,[1] Telmex described a spin-off anticipated to be approved by September 25, 2000, the approval date. The statement indicated that on the approval date, each holder of Telmex shares would become the owner of an equal number of América Móvil, S.A. de C.V. ("America Movil") shares and, from that point until a distribution date, the shares of both companies could only be owned and transferred together. The Information Statement went on to state:[2]
+Description of the Spin-off
+The Spin-off will be implemented using a procedure under Mexican corporate law called escisión or "split-up". In an escisión, an existing company is divided, creating a new company to which specified assets and liabilities are allocated. This procedure differs from the procedure by which a spin-off is typically conducted in the United States, where a parent company distributes to its shareholders shares of a subsidiary. The escisión will be approved on the Approval Date by a single action of the shareholders at the extraordinary meeting establishing América Móvil and allocating certain assets and liabilities of Telmex to América Móvil. Prior to the Approval Date, Telmex will reorganize certain of the intermediate holding companies through which it holds various assets and subsidiaries, so as to facilitate the implementation of the Spin-off.
+Effective immediately on the Approval Date:
+· América Móvil will be established as a separate company, with a fully independent legal existence and full capacity to own and dispose of its assets. Its initial board of directors will be elected at the same extraordinary meeting that approves the Spin-off.
+· Specified assets of Telmex, including the shares of specified subsidiaries, will be transferred to América Móvil. All the businesses to be conveyed to América Móvil are conducted by separate corporations, and the continuity of existence of those corporations will be undisturbed by the Spin-off.
+· All the shares of América Móvil will be owned by the shareholders that own Telmex shares as of the Approval Date.
+· Certain agreements between Telmex and América Móvil will take effect.
+Promptly following the Approval Date, the shareholders' resolution from the extraordinary meeting will be notarized, registered in the Mexican Public Registry of Commerce and published in the Diario Offical (Official Gazette). Following the registration and publication of the resolution, Mexican law provides for a period of 45 days during which the Spin-off may be challenged by certain parties, as described below. América Móvil shares will not be delivered or held separately from Telmex shares before the end of this statutory period.
+On the Approval Date, the Spin-off will affect Telmex shareholders as follows:
+· Each owner of Telmex L Shares will become the owner of the same number of América Móvil L Shares.
+· Each owner of Telmex A Shares will become the owner of the same number of América Móvil A Shares.
+· Each owner of Telmex AA Shares will become the owner of the same number of América Móvil AA Shares
+· Each Telmex shareholder will continue to own the same number of Telmex shares.
+Prior to the Share Distribution Date, however, there will be no separate certificates for América Móvil shares, and the right to receive América Móvil shares will be transferred together with Telmex shares. Investors will not be able to buy or otherwise acquire, or sell or otherwise transfer or deliver, Telmex shares or América Móvil shares separately.
+[4] The transaction proceeded, as just described, as is evidenced by the following excerpts from the Annual Report of Telmex filed with the US Securities and Exchange Commission on August 23, 2001.[3]
+The Spin-Off
+General
+At an extraordinary shareholders' meeting held on September 25, 2000, our shareholders approved the spin-off of our Mexican wireless business and most of our international operations into América Móvil, a sociedad anónima de capital variable organized under the laws of Mexico. The spin-off was conducted by means of the procedure under Mexican corporate law called escisión or "split-up", in which an existing company is divided, creating a new company to which specified assets and liabilities are allocated. This procedure differs from the procedure by which a spin-off is typically conducted in the United States, where a parent company distributes to its shareholders shares of a subsidiary.
+The purpose of the spin-off was to improve our ability and that of América Móvil to address the distinct challenges and opportunities we each face. The Mexican wireless business and the related investments outside Mexico, which were transferred to América Móvil, face very different business and regulatory environments from the Mexican fixed-line telecommunications business, including Internet and data businesses. The differences were reflected in the separate corporate and management structures, fixed assets, operations, marketing and billing that existed prior to the spin-off. We expect that establishing two separate, publicly-traded companies through the spin-off will provide benefits both to us and to América Móvil. In particular, the spin-off will permit us to pursue objectives tailored to the fixed-wire business and to access financing more efficiently.
+Prior to the spin-off, we conducted an internal reorganization. Following the reorganization, one of our subsidiaries called Sercotel, S.A. de C.V. directly or indirectly owned the shares of Radio Móvil Dipsa, S.A. de C.V. (or Telcel, our wireless subsidiary prior to the spin-off) and the subsidiaries that conduct América Móvil' international businesses and hold América Móvil's international investments. Also as a result of the reorganization, subsidiaries of Telcel held Ps.17.6 billion of our commercial paper and Ps.11.9 billion of other liquid assets in order to help América Móvil meet its capital requirements.
+In the spin-off, América Móvil was established as a separate company with a separate board of directors; the shares of Sercotel were transferred to América Móvil; and each holder of Telmex received an equal number of América Móvil shares of the corresponding class. The spin-off was completed on February 7, 2001, when shares and ADSs of América Móvil began trading separately from our shares and ADSs on the Mexican Stock Exchange, the New York Stock Exchange and NASDAQ.
+[5] This notice referred to a completion date of February 7, 2001, and it was on that date that Ms. Morasse's account with TD Waterhouse was credited with what TD Waterhouse referred to as a "stock dividend" of $12,342. TD Waterhouse also provided a T5 form to Ms. Morasse indicating foreign investment income which included the $12,342. The amount of $12,342 represents the value of the America Movil securities.
+[6] Ms. Morasse filed a return for 2001 bringing that amount into income, but later filed an amended return electing to take advantage of section 86.1 and deferring the tax on the distribution of the Movil securities in accordance with that section.
+[7] The distribution of shares of America Movil has not been prescribed by the Government of Canada.
+[8] In addressing the first issue of the applicability of section 86.1, it is useful to set out some relevant portions of that provision:
+86.1(1) Notwithstanding any other provision of this Part,
+(a) the amount of an eligible distribution received by a taxpayer shall not be included in computing the income of the taxpayer; and
+(b) subsection 52(2) does not apply to the eligible distribution received by the taxpayer.
+(2) For the purposes of this section and Part XI, a distribution by a particular corporation that is received by a taxpayer is an eligible distribution if
+(a) the distribution is with respect to all of the taxpayer's common shares of the capital stock of the particular corporation (in this section referred to as the "original shares");
+(b) the distribution consists solely of common shares of the capital stock of another corporation that were owned by the particular corporation immediately before their distribution to the taxpayer (in this section referred to as the "spin-off shares");
+(c) in the case of a distribution that is not prescribed,
+(i) at the time of the distribution, both corporations are resident in the United States and were never resident in Canada,
+(ii) at the time of the distribution, the shares of the class that includes the original shares are widely held and actively traded on a prescribed stock exchange in the United States, and
+(iii) under the United States Internal Revenue Code applicable to the distribution, the shareholders of the particular corporation who are resident in the United States are not taxable in respect of the distribution;
+(d) in the case of a distribution that is prescribed,
+(i) at the time of the distribution, both corporations are resident in the same country, other than the United States, with which Canada has a tax treaty (in this section referred to as the "foreign country") and were never resident in Canada,
+(ii) at the time of the distribution, the shares of the class that includes the original shares are widely held and actively traded on a prescribed stock exchange,
+(iii) under the law of the foreign country, those shareholders of the particular corporation who are resident in that country are not taxable in respect of the distribution, and
+(iv) the distribution is prescribed subject to such terms and conditions as are considered appropriate in the circumstances;
+(e) before the end of the sixth month following the day on which the particular corporation first distributes a spin-off share in respect of the distribution, the particular corporation provides to the Minister information satisfactory to the Minister ...
+(f) except where Part XI applies in respect of the taxpayer, the taxpayer elects in writing filed with the taxpayer's return of income for the taxation year in which the distribution occurs (or, in the case of a distribution received before October 18, 2000, filed with the Minister before July 2001) that this section apply to the distribution and provides information satisfactory to the Minister ...
+(3) Where a spin-off share is distributed by a corporation to a taxpayer pursuant to an eligible distribution with respect to an original share of the taxpayer,
+(a) there shall be deducted for the purpose of computing the cost amount to the taxpayer of the original share at any time the amount determined by the formula
+A × (B/C)
+where
+A is the cost amount, determined without reference to this section, to the taxpayer of the original share at the time that is immediately before the distribution or, if the original share is disposed of by the taxpayer, before the distribution, at the time that is immediately before its disposition,
+B is the fair market value of the spin-off share immediately after its distribution to the taxpayer, and
+C is the total of
+(i) the fair market value of the original share immediately after the distribution of the spin-off share to the taxpayer, and
+(ii) the fair market value of the spin-off share immediately after its distribution to the taxpayer; and
+(b) the cost to the taxpayer of the spin-off share is the amount by which the cost amount of the taxpayer's original share was reduced as a result of paragraph (a).
+[9] Clearly, there are two categories of foreign spin-offs contemplated by section 86.1: those involving American companies, and those involving all other foreign companies. For the latter category to be subject to the benefits of section 86.1, the distribution, according to subparagraph 86.1(2)(d)(iv) must be prescribed. Prescribed means prescribed by Regulation or determined in accordance with Rules prescribed by Regulation. The evidence was that the distribution of the shares of America Movil was not prescribed in accordance with the requirements of the Act. The Respondent indicated that such a transaction never would be prescribed as the shares of the spin-off company were never owned by the company undertaking the spin-off. It follows that Ms. Morasse cannot look to paragraph 86.1(2)(d) as applying to this Mexican distribution.
+[10] Although it was not argued directly, Ms. Morasse's agent alluded to the twist in this case in that Ms. Morasse did not hold the shares of Telmex directly, nor did she receive the shares of America Movil directly. This was all done through her holding of ADRs, sometimes referred to as American Depository Shares. Does then paragraph 86.1(2)(c), dealing with corporations resident in the US, come into play? I do not believe it does. The section refers to corporations, either resident in the US or elsewhere. The only corporations involved in this particular spin-off were Mexican corporations. The use of ADRs to allow for the trading of these Mexican companies on a US exchange, does not in any way create a US corporation. The only corporations at issue here are Mexican corporations, and if the distribution of a Mexican company's shares is not a prescribed distribution, subsection 86.1(2) simply does not apply.
+[11] I can certainly understand how Ms. Morasse, through her agent, believes this provision was aimed at her type of situation, and from a policy perspective, it might seem inequitable to her that she cannot avail herself of the benefits of section 86.1. The Crown's response is that because this type of spin-off did not involve stock of a subsidiary being spun-off by a parent, it would never be prescribed. Spin-offs in foreign jurisdictions may take many different forms. Canadian tax legislation has identified the form which it finds acceptable for purposes of affording some tax deferral. Unfortunately for Ms. Morasse, the Mexican escisión is not contemplated by the structures outlined in section 86.1.
+[12] Ms. Morasse's fall-back argument is that the classification of the distribution of the America Movil shares as a stock dividend is incorrect; the shares do not represent investment income.
+[13] This is an intriguing issue. As this is an informal procedure matter, with an Appellant unrepresented by a lawyer, involving foreign corporate reorganization laws, a deep delving into the meaning of income, which has not been extensively argued, is not warranted. However, how does a company (Telmex), which does not own shares in America Movil distribute such shares as a stock dividend? Certainly there was a stock distribution, but it was as a result of an overall restructuring of Telmex, a restructuring in which America Movil shares were never actually owned by Telmex. TD Waterhouse referred to the distribution as a stock dividend and recorded the value of the stock as investment income, but that is certainly not determinative. But is it truly investment income in the form of a stock dividend?
+[14] The answer lies in the starting point of the Act - the general rules for the determination of income found in section 3, part of which reads:
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer's income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer's income for the year from each office, employment, business and property,
+[15] Is the America Movil distribution income from a source outside Canada, or a taxable capital gain from the disposition of property or is it an amount that simply does not fall under either category and consequently ought not to be brought into income?
+[16] To constitute a capital gain from the disposition of property, Ms. Morasse must have disposed of some property. She did not. The Mexican restructuring shifted value from the Telmex shares to the America Movil shares, but Ms. Morasse did not dispose of the Telmex shares. Nothing in the description of the deal, in the documents provided to me, suggest Ms. Morasse disposed of her Telmex shares and received in return an equal number of Telmex and America Movil shares. This would be stretching the legal substance of the restructuring beyond what actually transpired. Telmex's equity would have been reduced at the time of the spin-off, with a corresponding increase in America Movil's equity. Ms. Morasse may not have been economically advantaged by such a transaction, but as has been made clear in several recent cases, it is not the economic substance, but the legal relationship which governs a transaction for purposes of the determination of the tax liability. Ms. Morasse did not dispose of her Telmex shares notwithstanding their reduced value: no disposition, no capital gain or loss.
+[17] What then is the nature of the distribution? I disagree with the Respondent's contention that it is a stock dividend. It is not a stock dividend as defined in the Act, since stock dividend must be a share of the corporation which paid the dividend. Telmex did not issue its own shares to the shareholders. America Movil did, but how can a share issued to someone who is not a shareholder until the issuance of the share be considered a dividend? The difficulty is that the America Movil shares were issued as part of the escisión, a concept which does not allow for a neat categorization of the distribution as a dividend.
+[18] If it is not a dividend, is it still income from a source outside Canada? The America Movil shares were issued as part of a reorganization: they would not have been issued but for Telmex's decision to undertake the spin-off. In other words, Telmex directed the issuance of shares by America Movil to the shareholders. This is not, however, a shareholder benefit, as paragraph 15(1)(a) specifically precludes any benefit arising as a result of the reorganization. This is the receipt of shares of one company solely as a result of owning shares of another company, all in the course of a reorganization.
+[19] There is no question Ms. Morasse held her interest in Telmex as an investment: there was a source of income outside Canada. That source yielded shares in America Movil. But do the America Movil securities represent underlying profits of Telmex? What does the $12,432 reflect? Was there a corresponding decline in the value of the Telmex shares which offset the "value" received by Ms. Morasse in the form of the America Movil shares? In an annual report that Telmex filed with US Securities and Exchange Commission on August 23, 2001,[4] the trading history of Telmex ADS for the months of February and March 2001 showed a decline from a high of $54 to approximately $34 a share. Recall that the spin-off took place in February 2001. Ms. Morasse held 400 Telmex ADRs and therefore suffered a drop in the value at that time of approximately US$8,000. Presuming an exchange rate of approximately one and one-half to one, this amounts to roughly $12,000 or just shy of the value the Respondent has attributed as income of Ms. Morasse on receipt of the America Movil shares.
+[20] In the Reply, the Respondent refers to the distribution of 400 ADR shares as a stock distribution, quite properly avoiding the term "stock dividend", although section 90 is relied upon in conjunction with paragraph 12(1)(k) of the Act. Section 90 reads:
+90(1) In computing the income for a taxation year of a taxpayer resident in Canada, there shall be included any amounts received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of, dividends on a share owned by the taxpayer of the capital stock of a corporation not resident in Canada.
+[21] As I have already indicated, the America Movil securities received by Ms. Morasse were not received as dividends as such, nor were they received in lieu of payment of dividends on the Telmex shares. As part of the reorganization, Telmex arranged that its shareholders receive the America Movil shares, not as part of any distribution of profits, but as recognition of a shift of capital from Telmex to America Movil. T he documents produced at trial confirm this move from one company to the other.
+[22] The Respondent argued that the only avenue available to Ms. Morasse to prove the stock distribution was not a source of income would be to prove that it was either a return of capital or a loan. I agree with Respondent's counsel that there is no suggestion of a loan. However, I disagree with him that the coincidental drop in the share price of Telmex on balance is more probative of a dividend than any return of capital. The Respondent argues that there is no evidence that the stock distribution is not a distribution of a share of corporate profits. Again, I disagree. The whole concept of the escisión is that a separate, identifiable business of one company is spun-off into another company, in this case Telmex's wireless business. This is accomplished, according to the Information Statement dated February 15, 2000, by specified assets, including shares of subsidiaries, of Telmex being transferred to America Movil. It is not accomplished by a movement of undistributed corporate profits to the shareholder. This is confirmed by the following statement in Note 2 to Telmex's December 31, 2000 financial statements, attached to Form 20-F/A filed with the Securities and Exchange Commission on August 23, 2001:[5]
+Assets and liabilities of the discontinued operations were transferred to America Movil at their book value. The amount of stockholders' equity transferred to America Movil in the spin-off was determined as the difference between the assets and liabilities transferred and will be accounted for as a reduction in Telmex's equity at the time of the spin-off.
+It appears that between Telmex and America Movil the shareholders' equity has remained the same; in effect, there has been no distribution of profits to shareholders in this Mexican reorganization.
+[23] The Respondent offered only two possibilities for the distribution to be found to be non-taxable - a loan or return of capital. Yet, what has transpired is neither. What occurred is more akin to a stock split than a stock dividend, and in the absence of any expert evidence on Mexican law to the contrary, I am prepared to regard it in such light.
+[24] In summary, the distribution in this reorganization was not a stock dividend. I am satisfied the underlying equity in Telmex and America Movil after the escisión reflected the equity of Telmex prior to the escisión. The shareholder, Ms. Morasse, has simply not received income from a source outside Canada subject to section 3 of the Act: at best she has been the recipient of shares in the course of a reorganization that is most analogous to a form of stock split. Tax authors have written realms on the subject of what is income. In this informal procedure with an unrepresented Appellant, I am not inclined to offer any further weighty tome on the subject. The exhibits presented at trial have persuaded me this distribution is not income. The appeal is allowed and the matter is referred back to the Minister for reassessment and reconsideration on the basis that the $12,342 is not income subject to section 3 of the Act.
+Signed at Ottawa, Ontario, this 23rd day of March, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC239
+COURT FILE NO.:
+2003-2107(IT)I
+STYLE OF CAUSE:
+Aline Morasse and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 12, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+March 23, 2004
+APPEARANCES:
+Agent for the Appellant:
+Wayne Bluett
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-3.
+[2]
+Supra, page 9.
+[3] Exhibit R-4, page 31.
+[4] Exhibit R-4.
+[5] Exhibit R-4, page F-12.

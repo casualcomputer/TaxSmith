@@ -1,0 +1,236 @@
+---
+title: "Glynn c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27162/index.do"
+last_modified: "2006-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 22"
+citation2: ""
+neutral_citation: "2006 CCI 22"
+decision_date: "2006-01-26"
+language: "fr"
+item_id: "27162"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1031
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:56:45.797000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "535389f18c04c3313f78ae2399928b44f45ce17452cf43243ab64fb465219c52"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glynn c. M.R.N.
+
+- Citation: 2006 CCI 22
+- Decision date: 2006-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1031, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glynn c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-26
+Référence neutre
+2006 CCI 22
+Numéro de dossier
+2004-3256(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3256(EI)
+ENTRE :
+PATRICK GLYNN S/N ÉCOLE DE LANGUE GLYNN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 29 avril 2005 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelant :
+Me Amélie Asselin
+Avocate de l'intimé :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI22
+Date : 20060126
+Dossier : 2004-3256(EI)
+ENTRE :
+PATRICK GLYNN S/N ÉCOLE DE LANGUE GLYNN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] La question en litige est relativement simple. Le ministre du Revenu national (le « ministre » ) est d'avis que madame Rachel Leblanc (la « travailleuse » ) était une employée de l'appelant alors que ce dernier soutient qu'elle était une travailleuse autonome.
+[2] La période en cause allait du 16 avril au 20 juin 2003 (la « période pertinente » ).
+[3] Les faits sur lesquels l'intimé s'est appuyé pour rendre sa décision sont décrits au paragraphe 5 de la Réponse à l'avis d'appel et sont les suivants :
+a) L'appelant est propriétaire unique d'une entreprise qui offre des services linguistiques à des fins d'enseignement, de formation et de traduction.
+b) Les clients de l'appelant sont des particuliers, des commerces, des industries et des institutions gouvernementales.
+c) Il appartenait à l'appelant de chercher et trouver sa clientèle.
+d) La travailleuse détient un baccalauréat en littérature anglaise et possède plusieurs années d'expérience en enseignement de langue anglaise.
+e) Les parties avaient convenu que la travailleuse enseignerait, sur appel, aux clients de l'appelant.
+f) Lorsque la travailleuse a commencé à travailler pour l'appelant, celui-ci lui a donné une formation payée de trois heures concernant le contenu du cours et les besoins spécifiques de certains groupes de participants.
+g) L'appelant indiquait à la travailleuse l'endroit où elle devait enseigner et lui remettait la liste des participants.
+h) Les heures d'enseignement étaient établies en fonction des besoins des clients.
+i) La travailleuse faisait un compte rendu à l'appelant une fois par semaine et indiquait ses heures travaillées.
+j) L'appelant contactait la travailleuse pour s'informer du déroulement des cours que celle-ci donnait.
+k) L'appelant fournissait certains outils de travail, tel que des enregistreuses et des cassettes.
+l) Les clients de l'appelant fournissaient le local, les chaises, les tables et le tableau pour l'enseignement des cours.
+m) La travailleuse était payée 20 $ par heure et aucune dépense n'était remboursée.
+n) La travailleuse faisait toute la préparation de cours au bureau de l'appelant.
+o) La travailleuse devait enseigner ses cours selon la manière établie par l'appelant.
+p) La travailleuse était tenue de rendre les services d'enseignement personnellement et n'aurait pas pu engager un autre enseignant sans le consentement de l'appelant.
+q) L'appelant et la travailleuse corrigeaient ensemble les travaux des clients une fois par semaine.
+r) La travailleuse a accumulé, pendant la période en litige, 86 heures assurables et a reçu une rémunération assurable de 1 720 $.
+Analyse
+Le droit
+[4] Quand les tribunaux ont à définir des notions de droit privé québécois aux fins de l'application d'une loi fédérale, telle la Loi sur l'assurance-emploi, ils doivent se conformer à la règle d'interprétation à l'article 8.1 de la Loi d'interprétation. Pour déterminer la nature d'un contrat de travail québécois et le distinguer d'un contrat de service, il faut, tout au moins depuis le 1er juin 2001, se fonder sur les dispositions pertinentes du Code civil du Québec ( « Code civil » ). Ces règles sont incompatibles avec les règles énoncées dans des arrêts comme 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 et Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553. Contrairement à la situation en common law, les éléments constitutifs du contrat de travail ont été codifiés et les tribunaux n'ont plus, depuis l'entrée en vigueur de l'article 2085 et de l'article 2099 du Code civil, le 1er janvier 1994, la latitude qu'ont les tribunaux de common law pour définir ce qui constitue un contrat de travail. S'il est nécessaire de s'appuyer sur des décisions jurisprudentielles pour déterminer s'il existait un contrat de travail, il faut choisir celles qui ont appliqué une approche conforme aux principes du droit civil.
+[5] Dans le Code civil, des chapitres distincts portent sur le « contrat de travail » (articles 2085 à 2097) et sur le « contrat d'entreprise et de service » (articles 2098 à 2129).
+[6] L'article 2085 porte que le contrat de travail :
+[...] est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[7] L'article 2098 porte que le contrat d'entreprise :
+[...] est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[8] L'article 2099 suit, rédigé dans les termes suivants :
+L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[9] On peut dire que ce qui distingue fondamentalement un contrat de service d'un contrat de travail est l'absence, dans le premier cas, d'un lien de subordination entre le prestataire de services et le client et la présence, dans le second cas, du droit de l'employeur de diriger et de contrôler l'employé. Il faut donc déterminer en l'espèce s'il y avait ou non un lien de subordination entre l'appelant et la travailleuse.
+[10] L'appelant a le fardeau de faire la preuve, selon la prépondérance des probabilités, des faits en litige pour établir son droit à l'annulation de la décision du ministre. Il doit prouver le contrat que les parties ont conclu et établir leur intention commune quant à la nature de ce contrat. S'il n'y a pas de preuve directe de cette intention, l'appelant peut avoir recours à des indices conformément à ce qui avait été convenu et aux prescriptions du Code civil qui le régissaient. L'appelant devra en l'espèce prouver l'absence d'un lien de subordination s'il veut établir l'inexistence d'un contrat de travail et, pour ce faire, il peut utiliser, si nécessaire, des indices d'autonomie tels que ceux qui ont été énoncés dans l'affaire Wiebe Door, précitée, soit la propriété des outils ainsi que le risque de perte et la possibilité de profit. Je suis d'avis toutefois que contrairement à l'approche en common law, une fois qu'un juge est en mesure de conclure à l'absence d'un lien de subordination, son analyse s'arrête là pour déterminer s'il s'agit d'un contrat de service. Il n'est pas nécessaire de considérer la pertinence de la propriété des outils ainsi que le risque de perte ou la possibilité de profit, puisqu'en vertu du Code civil, l'absence du lien de subordination constitue le seul élément constitutif du contrat de service qui le distingue du contrat de travail. Les éléments tels la propriété des outils et les risques de perte ou la possibilité de profit ne sont pas des éléments essentiels à un contrat de service. Par contre, l'absence d'un lien de subordination est un élément essentiel. À l'égard des deux formes de contrat, il faut décider s'il existe ou non un lien de subordination. Évidemment, le fait que le travailleur se comportait comme entrepreneur pourrait être un indice de l'absence de lien de subordination.
+[11] En dernier ressort, c'est habituellement sur la base des faits révélés par la preuve au sujet de l'exécution du contrat qu'une décision devra être rendue par la Cour, et cela même si l'intention manifestée par les parties indique le contraire. Si la preuve au sujet de l'exécution du contrat n'est pas concluante, une décision peut quand même être rendue selon la qualification et l'intention des parties, si la preuve est probante sur ces questions. Si cette preuve n'est également pas concluante, alors la sanction sera le rejet de l'appel de l'appelant pour cause de preuve insuffisante.
+Les faits
+[12] L'appelant est propriétaire d'une entreprise qui offre des services linguistiques à des fins d'enseignement, de formation et de traduction. La très grande majorité des clients (85 %) sont des organismes gouvernementaux. Pendant la période pertinente, l'appelant a retenu les services de la travailleuse pour enseigner l'anglais à des fonctionnaires dans le cadre de trois contrats de formation confiés à l'appelant par trois organismes gouvernementaux distincts. Pendant la période pertinente, la travailleuse a été rémunérée pour 86 heures de travail à un taux de 20 $ l'heure.
+Témoignage de la travailleuse
+[13] La travailleuse, dont le témoignage m'a paru crédible dans son ensemble, a d'abord relaté qu'elle devait donner ses cours selon la manière établie par l'appelant[1]. Elle a expliqué que l'appelant lui avait d'abord donné la formation nécessaire (pour laquelle elle avait été rémunérée) pour qu'elle puisse utiliser adéquatement dans son travail le matériel didactique mis au point par l'appelant, matériel qu'elle devait utiliser. Le témoignage de la travailleuse à cet égard mérite d'être cité[2] :
+Q. Oui, bien quand Patrick Glynn vous a confié le, ou le contrat, il vous a demandé de vous occuper du contrat de Développement des ressources humaines, c'était quel genre d'enseignement que vous deviez faire?
+R. O.K. C'était un cours que lui, il avait préparé un « booklet » et dans ce « booklet » , moi, je n'avais pas le « booklet » comme tel, j'avais des papiers « loose, loose papers » puis d'abord, c'était tout un système qu'il avait monté pour ces gens-là donc, moi, je devais apprendre ce système-là, c'était une série de lettres, à l'intérieur de ces lettres-là, il y avait des erreurs. Donc, dans chaque lettre, il y avait des erreurs que moi, je devais réviser avec lui pour qu'il me dise : « Là, vois-tu, c'est au present perfect donc il va falloir enseigner le present perfect, montrer comment on l'appliquerait ici à la place de l'écrire de cette manière-là, il faudrait que ce soit ça. » Alors, il fallait passer à travers toutes les lettres comme ça puis il avait tout un système pour les verbes. Ces gens-là faisaient des erreurs régulièrement avec certains verbes donc, il y avait, lui, il savait c'est quoi les erreurs que ces gens faisaient et puis, qu'est-ce qui devait, quel verbe on devait leur montrer puis comment et dans quelle circonstance pour les genres de lettres qu'eux autres écrivaient. Alors, lui, il devait tout me montrer ça. Alors, on a pris le temps nécessaire pour qu'on passe à travers de tout ce document-là et j'annotais, je prenais des notes et pour le système de verbes comme tel, il enseignait au tableau comment ça fonctionnait [...]
+[14] La travailleuse a expliqué qu'elle avait ajouté à l'occasion des éléments nouveaux au plan de cours de l'appelant, mais non sans avoir demandé la permission de l'appelant. Son témoignage sur ce point mérite aussi d'être cité[3] :
+Q. Au niveau des cours, est-ce que c'est le seul document dont vous avez pour vos cours à Développement des ressources humaines du Canada?
+R. C'est ça qu'il fallait que j'enseigne, c'est ça qu'il fallait que je fasse, disons. Moi, j'ai suggéré, parce que les étudiants, des fois, me disaient : « J'aimerais d'avoir du vocabulaire » , bon, bien, moi, je pouvais, je demandais à monsieur Glynn : « Est-ce que c'est correct si j'amène du vocabulaire? » « Oui, oui, oui. » Alors, j'ai amené du vocabulaire. J'ai amené pour les contractions, par exemple, ou des abréviations, j'ai amené des choses pour supplémenter mais le cours, le vrai cours, c'est ça, là.
+[15] La travailleuse a aussi relaté que l'appelant lui avait demandé (tout au moins à une reprise) de venir à son siège social pour qu'ils corrigent ensemble les travaux des étudiants auxquels elle avait enseigné[4]. Son témoignage à cet égard fut appuyé par ses feuilles de temps et les factures[5] déposées en preuve qui indiquent qu'elle aurait corrigé pendant 3 heures des travaux avec l'appelant et qu'elle aurait été rémunérée pour ce faire.
+[16] La travailleuse a aussi déclaré lors de son témoignage que l'appelant prenait contact avec elle et la rencontrait pour s'informer du déroulement des cours qu'elle donnait[6] et pour discuter des suggestions qu'elle lui faisait pour répondre aux demandes des étudiants. Son témoignage à cet égard fut appuyé par ses feuilles de temps et les factures déposées en preuve[7] qui indiquent qu'il y avait eu plusieurs heures de consultation avec l'appelant pendant la période pertinente et que la travailleuse avait été rémunérée pour ce faire. Elle a finalement ajouté que l'appelant assistait parfois à ses cours et qu'il y faisait à l'occasion des interventions de nature pédagogique[8].
+[17] La travailleuse a aussi témoigné[9] qu'elle recevait ses ordres de l'appelant quant aux heures où elle devait enseigner, ajoutant toutefois que ses heures de travail dépendaient de ses disponibilités, puisqu'elle ne travaillait pas de façon exclusive pour l'appelant pendant la période pertinente.
+[18] Finalement, la travailleuse a relaté qu'elle avait demandé à l'appelant d'avoir le statut de salariée, et ce, dès leur première rencontre et lors de rencontres subséquentes. Elle a ajouté que malgré les promesses successives de l'appelant de lui accorder ce statut, elle n'avait jamais eu gain de cause à cet égard[10].
+Témoignage de l'appelant
+[19] D'abord, l'appelant a témoigné de façon générale sur le mode de fonctionnement de son entreprise. Il a expliqué sommairement que les travailleurs dont il utilisait les services étaient absolument libres d'accepter ou non les tâches qu'il voulait leur confier, que ces travailleurs étaient entièrement libres d'utiliser leur méthodologie et leur matériel pédagogique dans le cadre de leur enseignement, qu'ils n'avaient aucune obligation de rendre compte et finalement qu'ils ne faisaient l'objet d'aucun suivi de sa part. En résumé, il a témoigné que son entreprise agissait simplement comme une agence de placement[11]. Pour appuyer ses assertions à cet égard, l'appelant a fait témoigner plusieurs travailleurs dont il utilisait couramment les services dans le cadre de son entreprise.
+[20] Quant au matériel didactique[12] utilisé par la travailleuse pour les cours qu'elle donnait pour Ressources humaines Canada et Affaires indiennes et du Nord Canada, l'appelant a prétendu qu'il s'agissait de matériel didactique qu'il avait conçu et vendu à ces organismes gouvernementaux. L'appelant avait l'occasion d'appuyer ses assertions sur ce point par une preuve documentaire sérieuse, tel le contrat de vente, ou encore par un témoignage indépendant. Malheureusement, il ne l'a pas fait. Il a alors expliqué que ce n'était pas lui mais bien ces organismes gouvernementaux qui fournissaient le matériel didactique à la travailleuse et qui, en quelque sorte, pouvaient donner à la travailleuse des instructions précises sur l'exécution de son travail.
+[21] Quant à la formation qu'il avait donnée à la travailleuse par les cours qu'elle devait enseigner pour Ressources humaines Canada, le témoignage de l'appelant lors de son interrogatoire et de son contre-interrogatoire mérite tout simplement d'être cité[13] :
+Q. O.K. Quand le ministère, dans sa réponse, parle que vous avez donné une formation à madame Leblanc...
+R. Oui.
+Q. ... d'une part, avez-vous donné une formation à madame Leblanc?
+R. Mais, elle était venue, quand elle a, elle a été à mon bureau pour trois heures pour un genre d'orientation puis elle a été payée pour ça, oui.
+Q. O.K. Qu'est-ce que vous entendez par « orientation » ?
+R. Mais, on a lu le cours ensemble puis pour le cours Ressources humaines Canada, par exemple, toutes les lettres qui sont dans le cours ont été fournies par Ressources humaines Canada alors, eux autres [...]
+Q. Lorsque la formation a été donnée à madame Leblanc sur le cours préparé pour le Développement des ressources humaines [...]
+A. I contest that that was training.
+Q. It was not training?
+A. She was paid for per presence at my office. I contest that that was really training.
+[22] L'appelant a aussi relaté qu'il avait eu connaissance que la travailleuse avait ajouté de son propre chef des éléments nouveaux au matériel didactique qu'elle avait par ailleurs utilisé pour les cours qu'elle avait donnés à ces organismes gouvernementaux. Il a affirmé catégoriquement qu'elle ne lui avait pas demandé la permission pour ce faire[14].
+[23] Le témoignage de l'appelant relativement à l'épisode de correction des travaux avec la travailleuse m'a paru pour le moins confus pour ne pas dire non crédible. Il s'exprimait ainsi à cet égard[15] :
+Q. ... quand elle corrigeait des travaux, est-ce qu'elle était payée pour ça?
+R. Elle était payée pour le temps qu'elle était à l'école, pour les deux, je pense que c'est deux heures, peut-être trois heures mais on ne corrigeait rien. Madame ...
+Q. Mais oui, mais c'est parce qu'elle vous pose la question, quand elle corrigeait les travaux ...
+R. Elle n'était pas ...
+Q. ... est-ce que...
+R. Oui, mais elle était payée pour le temps mais on corrigeait absolument rien. Elle était à l'école, on parlait de son cours, ça a été prolongé ...
+Q. Ce n'est pas ça ma question. S'il y avait des travaux, parce qu'il semble qu'il y avait correction des travaux, la correction des travaux se faisait à l'école sur le ...
+R. Non.
+Q. ... en dehors du temps de l'école?
+R. C'était fait à l'extérieur de l'école.
+[24] L'appelant a aussi déclaré lors de son témoignage qu'il ne faisait aucun suivi des activités de la travailleuse, si ce n'est de façon plus ou moins informelle. Son témoignage à cet égard mérite aussi d'être cité[16] :
+Q. O.K. Est-ce qu'une fois que madame partait chez le client pour donner le cours, il y avait un suivi que vous faisiez?
+R. Aucun.
+Q. Aviez-vous des rencontres pour discuter de ce qu'elle faisait dans le cours?
+R. Oui.
+Q. Puis ça portait sur quoi?
+R. Bien, c'est comme quand les profs se rencontrent, ça parlait de, bon, la température, est-ce que tout le monde était de bonne humeur pendant le cours, qu'est-ce qu'elle faisait, puis, c'est ça.
+Q. Puis, est-ce que vous communiquiez avec elle pour savoir ce qu'elle avait fait dans le cours, ce sur quoi avait porté le cours?
+R. Bien oui, mais inévitablement qu'on se parlait. On parlait de qu'est-ce qu'elle faisait dans le cours, qui était là, est-ce que ça a bien déroulé, oui, évidemment.
+[25] Pourquoi l'appelant a-t-il donc rémunéré la travailleuse pour les nombreuses heures des rencontres tenues au bureau de l'appelant[17]. Quel était donc l'objectif de l'appelant lors de ces rencontres, si ce n'est de faire un suivi sur le déroulement des cours? Pourquoi était-elle payée? L'explication de l'appelant à cet égard m'a paru tout simplement incompréhensible et nébuleuse, pour ne pas dire douteuse. Il s'exprimait ainsi[18] :
+Q. She was paid?
+A. Yes, she was paid for her presences at the office, there was, you know, in my contacts with Mrs. Leblanc, there was always this jeu, "well, am I going to be paid for that?" "I was here for, I talked to you for an hour, am I going to be paid for that?", you know.
+[26] Finalement, l'appelant a témoigné que la travailleuse aurait pu se faire remplacer, et ce, sans avoir obtenu au préalable sa permission. Il a ajouté qu'il n'avait jamais discuté avec la travailleuse de la possibilité de la traiter comme une employée.
+Analyse
+[27] Les témoignages de l'appelant et de la travailleuse sont en fait contradictoires sur la plupart des points. J'ai retenu la version des faits donnée par la travailleuse plutôt que celle de l'appelant parce que le témoignage de la travailleuse m'a paru tout simplement le plus crédible dans son ensemble. Les explications de la travailleuse étaient généralement claires et précises. Elle ne s'est pas contredite. Ses explications sur la correction des travaux avec l'appelant et sur le suivi de ce dernier sur son travail m'ont semblé plausibles, étant donné que la preuve documentaire (pièce I-2) semble démontrer que ces activités de correction et de suivi ont eu lieu et qu'elles ont été rémunérées. Par ailleurs, les explications de l'appelant, tout au moins sur les points cruciaux, tels que le suivi et la correction des travaux, étaient souvent évasives, imprécises, ambiguës, élusives, équivoques et parfois inintelligibles. Il n'a jamais expliqué adéquatement la raison pour laquelle les heures de consultation et de correction étaient indiquées sur les feuilles de temps, heures pour lesquelles la travailleuse a été rémunérée. L'appelant aurait pu étayer ses assertions - notamment sur la vente de son matériel didactique aux organismes gouvernementaux et sur le fait que les instructions sur l'exécution du travail de la travailleuse avaient été données par ces organismes plutôt que par lui - par une preuve documentaire sérieuse ou encore par le témoignage d'un gestionnaire de ces institutions. Il ne l'a pas fait. Il a préféré faire témoigner d'autres travailleurs qui étaient à son service. Je ne mets pas en doute la crédibilité de ces témoins. Il est possible que leur statut soit différent de celui de la travailleuse. Je n'ai évidemment pas à me prononcer sur le statut de ces autres travailleurs. En l'espèce, je dois me prononcer sur le statut de la travailleuse pendant la période pertinente, et ce, en fonction des faits particuliers mis en preuve. On doit retenir que chaque cas est un cas d'espèce et qu'une décision sur le statut de la travailleuse n'entraîne pas nécessairement que les autres travailleurs de l'entreprise de l'appelant ont le même statut que celui de la travailleuse.
+[28] Il ressort de mon analyse de la preuve que l'appelant exerçait sur la travailleuse la forme la plus traditionnelle de contrôle : l'appelant formait la travailleuse et lui donnait des instructions précises sur l'exécution du travail. Il s'agit d'un contrôle direct. La latitude dont jouissait la travailleuse était en l'espèce très limitée. La travailleuse n'avait pas en l'espèce le libre choix des moyens d'exécution. Cette faculté de contrôle de l'appelant sur la travailleuse se manifestait également par le suivi du travail de la travailleuse et par les travaux de correction faits sous sa supervision. Cette faculté de contrôle de l'appelant sur le travail de la travailleuse se manifestait aussi lors des nombreuses rencontres tenues au bureau de l'appelant avec la travailleuse.
+[29] La travailleuse a témoigné qu'elle ne travaillait pas de façon exclusive pour l'appelant pendant la période pertinente. Toutefois, si l'exclusivité fait habituellement présumer l'existence d'un lien de subordination, l'affirmation inverse n'est pas exacte : une activité non exclusive exercée au profit de plusieurs employeurs ou d'une clientèle n'est pas nécessairement incompatible avec la qualité de salarié. Le cumul d'un contrat de travail avec une profession libérale indépendante est aussi possible.
+[30] L'appelant a témoigné que la travailleuse pouvait se faire remplacer dans l'exécution de son travail par un tiers, et ce, sans son accord préalable. Par ailleurs, la travailleuse n'a tout simplement pas témoigné sur ce point. Si tel était le cas, j'en serais arrivé à une conclusion différente sur le statut de la travailleuse. Toutefois, je doute fortement que la travailleuse pouvait ainsi se faire remplacer, compte tenu de l'ensemble des faits mis en preuve dans la présente affaire. Un juge n'est pas obligé de croire un témoin, même s'il n'est pas contredit. Encore faut-il que le témoignage non contredit sur un point soit vraisemblable, compte tenu de l'ensemble de la preuve.
+[31] Pour ces motifs, je conclus que la travailleuse était à l'emploi de l'appelant pour la période pertinente.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI22
+No DU DOSSIER DE LA COUR :
+2004-3256(EI)
+INTITULÉ DE LA CAUSE :
+Patrick Glynn s/n École de langue Glynn et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 29 avril 2005
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 26 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+Me Amélie Asselin
+Pour l'intimé :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Amélie Asselin
+Étude :
+Joli-Coeur, Lacasse, Geoffrion, Jetté, St-Pierre
+Québec (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pages 146, 147, 152, 153, 165 et 181 des notes sténographiques.
+[2] Pages 152 et 153 des notes sténographiques.
+[3] Pages 158 et 159 des notes sténographiques.
+[4] Pages 184 à 188 des notes sténographiques.
+[5] Pièce I-2.
+[6] Pages 191, 192 et 193 des notes sténographiques.
+[7] Pièce I-3.
+[8] Pages 172 et 173 des notes sténographiques.
+[9] Page 162 des notes sténographiques.
+[10] Page 145 des notes sténographiques.
+[11] Pages 14 à 16 des notes sténographiques.
+[12] Pièces A-1 et I-3.
+[13] Pages 19 et 20 et page 52 des notes sténographiques.
+[14] Page 19 des notes sténographiques.
+[15] Pages 31 et 32 des notes sténographiques.
+[16] Page 26 des notes sténographiques.
+[17] Pièce I-2 à la feuille intitulée « Time Sheet » où on peut voir l'inscription « Patrick (consultation) » .
+[18] Page 52 des notes sténographiques.

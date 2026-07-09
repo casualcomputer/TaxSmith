@@ -1,0 +1,132 @@
+Title: King v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26513/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-429-26513-king-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-07-18
+
+# King v. M.N.R.
+
+- Citation: 2005 TCC 429
+- Decision date: 2005-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3231, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-18
+Neutral citation
+2005 TCC 429
+File numbers
+2004-4654(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4654(EI)
+BETWEEN:
+DAN KING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FERNS AIR FREIGHT (1986) LTD.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on June 24, 2005, at Kelowna, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+Agent for the Intervenor:
+E.S. Culos
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 18th day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC429
+Date: 20050718
+Docket: 2004-4654(EI)
+BETWEEN:
+DAN KING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal was heard at Kelowna, British Columbia on June 24, 2005. The Appellant was the only witness.
+[2] The particulars in dispute are outlined in paragraphs 5 to 10 of the Reply to the Notice of Appeal. They read:
+5. The Appellant filed an appeal on May 27, 2004 pursuant to section 91 of the Employment Insurance Act, S.C. 1996, c. 23 (the "EI Act").
+6. The Respondent decided and so notified the Appellant by letter dated September 22, 2004 that the Appellant was not employed by Ferns in insurable employment from October 8, 2001 to September 25, 2003 (the "Period") as the Appellant was not employed under a contract of service within the meaning of paragraph 5(1)(a) of the EI Act.
+7. In making his decision, the Respondent relied on the same assumptions of facts as follows:
+a) Ferns operated a courier business in Kelowna, British Columbia;
+b) the Appellant replied to Ferns advertisement for owner/operator drivers stating that he owned a 1993 Dodge Grande Caravan;
+c) the Appellant and Ferns signed a contract entitled Owner-Operator Contract on October 12, 2001;
+d) the Appellant agreed to perform small parcel/package deliveries using his vehicle (the "Duties");
+e) the Appellant's pay was calculated as a percentage of the way bill for each delivery that he made;
+f) the Appellant invoiced, and was paid by Ferns, every two weeks;
+g) the Appellant provided the vehicle and paid for the operating expenses of that vehicle when he did the deliveries for Ferns;
+h) Ferns provided a two way radio and dispatch contacted the Appellant via the two way radio to advise of pick up and deliveries;
+i) Ferns provided a magnetic logo and T-shirts which the Appellant had the discretion to use or not use;
+j) the Appellant provided delivery services concurrently to both Ferns and Predator Courier Ltd., a corporation that was related to Ferns;
+k) Ferns and Predator shared a business location and dispatch services;
+l) Ferns did not direct and control the Appellant in the performance of the Duties;
+m) the Appellant did not have to provide his personal services and could chose to hire helpers or replacements in the performance of the Duties; and
+n) the Appellant was in a position to earn a profit when carrying out the Duties.
+B. ISSUE TO BE DECIDED
+8. Was the Appellant employed by Ferns in insurable employment under a contract of service during the Period?
+C. THE STATUTORY PROVISIONS UPON WHICH THE RESPONDENT RELIES ANDTHE REASONS WHICH HE INTENDS TO SUBMIT
+9. He relies on paragraph 5(1)(a) and subsection 2(1) and section 91 of the EI Act, as amended.
+10. He submits that he correctly determined that the Appellant was not employed by Ferns in insurable employment during the Period as the Appellant was not employed under a contact of service within the meaning of paragraph 5(1)(a) of the EI Act.
+[3] None of the assumptions in paragraph 7 were refuted by the evidence. In respect to assumption 7 e), the Court finds that the Appellant and up to seven other couriers had to be at Ferns' Kelowna office each morning, Monday to Friday, and they were given items to deliver or were told by the dispatcher where to go for deliveries to pick up and drop off. How they did this, who drove, what they drove, who handled the items was up to each courier. Mr. King had his son and his wife do these things for him from time to time. Others hired a second van and driver. They chose their own routes. In some cases like blood deliveries time was an important factor. In most cases it was not.
+[4] Using, in part, the headings developed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Ltd., [2001] 2 S.C.R. 983, the Court finds:
+1. Control
+How the Appellant did his work was up to him. Who did it was up to him. When he delivered in the course of the day was usually up to him. For the most part, the Appellant controlled his work day so that he could drive the most economically.
+2. Equipment
+The main equipment was the van and its expenses which the Appellant owned and was responsible for. He also supplied his own cell phone to use when out of the van.
+3. Helpers
+The Appellant could and did retain helpers. He could also have put another driver and van to work, had he so chosen.
+4. Responsibility - Opportunityfor Profit
+The van and its operation and routes were the Appellant's primary cost factor. The other main factor was the number of deliveries he had each day and the price rate for that delivery, of which he received a percentage. The rates were primarily set by the customer and the competition in Kelowna of which there was a lot. The van and its operation was up to the Appellant. There was a daily chance of profit or loss.
+5. Responsibility for Management
+This was the Appellant's; and
+6. Intervention
+The Appellant signed a written contract with Ferns. It is not a contract of employment. Rather, the Appellant was an independent contractor for services.
+[5] The appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 18th day of July 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC429
+COURT FILE NO.: 2004-4654(EI)
+STYLE OF CAUSE: Dan King v. M.N.R.
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: June 24, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: July 18, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+Agent for the Intervenor:
+E.S. Culos
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

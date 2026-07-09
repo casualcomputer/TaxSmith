@@ -1,0 +1,207 @@
+---
+title: "6051944 Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120134/index.do"
+last_modified: "2015-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 180"
+citation2: ""
+neutral_citation: "2015 CCI 180"
+decision_date: "2015-10-15"
+language: "fr"
+item_id: "120134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2716
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:20:51.610000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "698a045e66c33c0f0e07b86da7c8586573b0f4fe075c5a4e3a497b60b4d2339b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6051944 Canada Inc. c. La Reine
+
+- Citation: 2015 CCI 180
+- Decision date: 2015-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2716, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6051944 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-15
+Référence neutre
+2015 CCI 180
+Numéro de dossier
+2014-1944(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2015 CCI 180
+Date : 20151015
+Dossier : 2014-1944(GST)I
+ENTRE :
+6051944 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Favreau
+[1] Il s’agit ici d’un appel régi par la procédure informelle prévue à la Loi sur la Cour canadienne de l’impôt, à l’encontre d’une cotisation établie par le ministre du Revenu du Québec (le « ministre ») en tant que mandataire du ministre du Revenu national, en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, telle que modifiée (la « LTA »), en date du 11 janvier 2013 pour la période du 1er au 30 septembre 2009 (la « période visée »).
+[2] En vertu de la cotisation du 11 janvier 2013, les montants suivants ont été cotisés :
+Rajustements apportés au calcul de la
+taxe nette déclarée
+Intérêts nets
+41 000,00 $
+6 800,30 $
+Total dû
+47 800,30 $
+[3] Les rajustements apportés au calcul de la taxe nette déclarée au montant de 41 000 $ sont attribuables aux crédits de taxe sur intrants (« CTI ») demandés et obtenus en trop et sans droit relativement à un montant de 820 000 $ de dépenses de frais de gestion non admissibles compte tenu de leur caractère non raisonnable conformément à l’article 169 et au paragraphe 170(2) de la LTA.
+[4] Pour établir la cotisation en litige, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de fait suivantes, énoncées au paragraphe 32 de la réponse à l’avis d’appel :
+b) l’appelante est une société par actions constituée sous le régime de la Loi canadienne sur les sociétés par actions le 7 janvier 2003;
+c) l’appelante est un inscrit aux fins de la Partie IX de la LTA;
+d) l’appelante exploite une société de construction de maisons d’habitation neuves opérant sous « Les constructions Gérik »;
+e) les administrateurs de l’appelante sont messieurs Éric Pigeon et son père Germain Pigeon;
+f) les actions de l’appelante sont détenues en parts égales entre deux sociétés de gestion : 131672 Canada inc. (ci-après « 131672 ») et 6570585 Canada inc. (ci-après « 6570585 »);
+g) 131672 et 6570585 ont été constituées respectivement le 6 avril 1984 et le 21 février 2008;
+h) le siège social de l’appelante et des sociétés liées se retrouve à la même adresse;
+i) 131672 exploite un bureau de comptable et effectue de la tenue de livres de petites sociétés selon les informations figurant au registre des entreprises. Il n’y a aucun salarié à l’exception de l’actionnaire unique : monsieur Germain Pigeon;
+j) 6570585 exploite une société de portefeuille (Holdings) et effectue de la gestion selon les informations figurant au registre des entreprises. Il n’y a aucun salarié à l’exception de l’actionnaire unique : monsieur Éric Pigeon.
+k) selon la vérification, à la fin de chaque exercice financier, par écriture comptable, l’appelante prend une dépense pour frais de gestion qui s’élèvent à 1 250 000 $, 1 770 000 $ et 950 000 $ respectivement pour les exercices se terminant le 31 juillet 2008, 2009 et 2010 (ci-après « exercice 2008 », « exercice 2009 », « exercice 2010 »);
+l) aucuns frais de gestion ne figurent à titre de dépenses pour les années 2007 et antérieures. Auparavant, l’appelante versait un salaire aux deux administrateurs plus un boni à la fin de l’année;
+m) les frais de gestion de 1 770 000 $ pour l’exercice 2009 sont payés aux sociétés 131672 et 6570585 dans un pourcentage de 50 % chacune (885 000 $) pour les services rendus par messieurs Pigeon (en remplacement de leur salaire et boni);
+n) les frais de gestion représentent 65% des frais d’exploitation de la société pour l’exercice 2009;
+o) il n’existe aucun contrat signé ou entente écrite entre l’appelante et les deux sociétés liées concernant les services de gestion qui seront fournis, les frais qui seront facturés et les responsabilités des parties;
+p) les deux sociétés liées ont facturé les frais de gestion après la clôture de l’exercice financier pour 2009 et 2010;
+q) les services rendus par messieurs Pigeon n’ont pas changé d’un exercice à l’autre, il s’agit toujours de service de gestion rendu au niveau d’une société de construction, toujours la même entreprise, les mêmes produits;
+r) les frais de gestion ne sont pas calculés en fonction du service rendu par messieurs Pigeon (taux raisonnable à l’heure ou à la semaine);
+s) les frais de gestion ont commencé seulement avec l’exercice 2008. Avant cet exercice, les services des messieurs Pigeon étaient également requis par l’appelante, ces derniers étaient rémunérés par le paiement de bonis / salaires;
+Ventes
+Dépenses réclamées
+2007
+vs
+2009
+16 101 083 $
+13 180 230 $
+430 000 $ (salaires/bonis)
+1 770 000 $ (frais de gestion)
+les salaires et bonis pour l’exercice 2007, pour des ventes de 16 millions de dollars, s’élevaient à 430 000 $. Pour le même type de services, l’appelante réclame pour l’exercice 2009 une dépense de frais de gestion de 1 770 000 $, soit quatre fois plus pour des ventes de 3 millions en moins;
+t) il s’agit d’une déduction d’un frais (dépense) qui repose sur les résultats de fin d’exercice de l’appelante. Cette dépense annuelle d’un montant global a été calculée après les faits;
+u) l’appelante utilise les frais de gestion comme méthode de distribution et de partage de profit réalisé aux deux sociétés liées qui ont des dates de fin d’exercice différentes de l’appelante (report de l’impôt);
+v) le paiement des frais de gestion est tellement élevé que l’appelante déclare des pertes d’entreprise (niveau fiscal);
+w) la totalité des profits de la société est convertie en frais de gestion à la toute fin de l’année fiscale, ce qui est déraisonnable dans les circonstances;
+x) aucun homme d’affaires raisonnable ayant à l’esprit uniquement les intérêts commerciaux de sa société ne conclurait une entente de gestion, comme dans le présent dossier, avec une personne sans lien de dépendance envers lequel aucune prestation de service ne serait clairement établie au préalable et qui prévoirait le paiement de la totalité des profits de la société à titre de frais de gestion;
+y) pour l’exercice 2010, les frais de gestion de 950 000 $ ont été acceptés puisque des services ont été rendus par les sociétés liées;
+z) pour l’exercice 2009, le Ministre a accepté comme dépense des frais de gestion de 950 000 $ mais a jugé que l’excédent de 820 000 $ était déraisonnable (par rapport à l’année 2010) considérant le service rendu, le temps nécessaire pour rendre les services et les frais qui auraient pu être payés pour obtenir des services similaires (juste valeur marchande des services rendus);
+aa) le montant accordé par le Ministre de 950 000 $ pour l’exercice 2009 est plus que raisonnable en comparaison des salaires/bonis payés pour l’exercice de 2007, soit 430 000 $ (malgré un chiffre d’affaires de 3 millions en moins);
+bb) par conséquent, le Ministre était bien fondé en faits et en droit de refuser un montant de 41 000 $ de CTI réclamés sur les dépenses non raisonnables de 820 000 $;
+cc) l’appelante est donc redevable au Ministre du montant des ajustements apportés à sa taxe nette déclarée pour la période visée, plus les intérêts;
+[5] Aux fins de la Loi de l’impôt sur le revenu, les frais de gestion payés par la société 6051944 Canada Inc. relativement à l’année d’imposition 2009 ont été acceptés par l’Agence du Revenu du Canada comme étant des dépenses déductibles dans le calcul de son revenu, donc comme des dépenses raisonnables dans les circonstances.
+[6] Monsieur Germain Pigeon a témoigné à l’audience. Il est maintenant âgé de 76 ans et il a pris sa retraite à la fin de l’année 2009. Monsieur Pigeon a toujours œuvré dans le domaine de la construction. De 1970 à 1985, il a été directeur général d’une société de construction comptant 35 employés qui effectuait des travaux d’excavation et d’infrastructure et qui opérait une carrière. En septembre 1985, il a formé avec trois autres actionnaires, une société de construction effectuant des travaux routiers et opérant sous le nom de Construction BGP Inc. Monsieur Pigeon détenait les actions de cette société par l’intermédiaire d’une société de gestion, la société 131672 Canada Inc., et il s’occupait de la gestion de la société de construction. Il a éventuellement vendu les actions de Construction BGP Inc. à sa fille Lyne (« Lyne ») Pigeon qui a œuvré au sein de l’entreprise depuis l’âge de 16 ans.
+[7] Vers la fin des années 1980, monsieur Pigeon a acheté une société de construction de maisons d’habitation neuves qui a opéré sous le nom de « Les Habitations BGP Inc. » jusqu’en 2002. Eric Pigeon (« Eric »), un des deux fils de monsieur Pigeon, oeuvrait dans l’entreprise en tant qu’employé. Ce dernier a respectivement occupé les fonctions de menuisier, de contremaître de chantier, d’administrateur des comptes payables et de vendeur les fins de semaine.
+[8] L’appelante a été constituée en société le 7 janvier 2003 dans le but de permettre à Eric de devenir actionnaire avec son père sur la base de 50/50. L’appelante opérait alors sous le nom de « Les Constructions Gérik ». Monsieur Pigeon détenait ses actions de l’appelante par l’intermédiaire de sa société de gestion alors qu’Eric les détenait personnellement. Eric a formé sa propre société de gestion, la société 6570585 Canada Inc., le 17 mai 2006 et non le 21 février 2008, tel qu’indiqué au paragraphe 32(g) de la Réponse à l’avis d’appel.
+[9] En 2002, l’appelante a construit et vendu de 1 000 à 1 500 maisons d’habitation neuves. En 2008 et 2009, l’appelante a construit et vendu de 50 à 60 maisons semi-détachées et environ 170 maisons unifamiliales. En 2009, l’appelante comptait environ 6 employés dont un contremaître, une équipe de trois ouvriers pour les charpentres, deux secrétaires et un journalier. Monsieur Pigeon agissait comme président et Eric agissait comme vice-président.
+[10] Les responsabilités de monsieur Germain Pigeon consistaient à s’occuper principalement de la gestion du bureau (l’administration du personnel, les finances, les dépôts, les comptes à payer, les comptes à recevoir, etc.), de la publicité et des contrats d’achats de terrains et de ventes de maisons. Monsieur Germain Pigeon effectuait les tâches suivantes de concert avec son fils Eric :
+- la préparation du budget annuel et la détermination du prix des maisons et du nombre minimal de maisons à construire et à vendre pour atteindre les objectifs fixés pour l’année;
+- l’acquisition des terrains à construire;
+- le financement des opérations par des emprunts bancaires et des endossements et par des avances des sociétés de gestion.
+[11] Selon le témoin, Eric s’occupait de tout ce qui était relatif aux chantiers et à la construction des maisons, soit recevoir les soumissions des sous-traitants, l’octroi des contrats de construction, la préparation des plans d’architectes, de dessinateurs ou de designers, le choix des matériaux, la vente et la livraison des maisons de même que le service après-vente.
+[12] L’appelante ne détenait ordinairement pas de banque de terrains à développer. Elle faisait l’acquisition des terrains de sociétés contrôlées par monsieur Pigeon, Eric et Lyne Pigeon, lorsqu’elle en avait besoin. Par contre, au cours de l’exercice financier 2008, l’appelante a acheté de sociétés apparentées sous contrôle commun des terrains pour une valeur de 2 290 000 $ alors qu’elle n’en a acheté aucun au cours de l’exercice financier 2009.
+[13] Lors de son témoignage, monsieur Pigeon a indiqué que sa société de gestion avait débuté la facturation des frais de gestion à l’appelante en 2004. Avant 2004, l’appelante lui versait un salaire et un boni. Monsieur Pigeon a confirmé que l’appelante a versé au cours des exercices financiers 2008, 2009 et 2010 les frais de gestion suivants :
+$
+131672 Canada Inc.
+$
+657058 Canada Inc.
+$
+2008
+1 250 000
+625 000
+625 000
+2009
+1 770 000
+885 000
+885 000
+2010
+950 000
+380 000
+380 000
+[14] Les frais de gestion étaient normalement versés par l’appelante aux sociétés de gestion à parts égales. Concernant l’exercice financier se terminant le 31 juillet 2010, les frais de gestion ont été versés sur la base de 60% à la société de gestion contrôlée par Eric Pigeon et de 40% à la société de gestion contrôlée par monsieur Pigeon et ont été déterminés par rapport à cinq mois d’opération, soit du 1er août 2009 au 31 décembre 2009.
+[15] Monsieur Pigeon a justifié la différence des montants des frais de gestion par le fait qu’il a pris sa retraite le 31 décembre 2009 à l’âge de 70 ans, ce qui a fait en sorte qu’Eric a dû consacré plus d’heures de travail dans l’entreprise de l’appelante au cours de cet exercice financier. Dans les circonstances, il était raisonnable de lui attribuer une plus grande part des frais de gestion.
+[16] Monsieur Pigeon a de plus expliqué que les frais de gestion étaient déterminés après la fin de chaque exercice financier. Il n’existait aucun contrat ou entente écrite précisant les modalités et les conditions servant à déterminer les montants à payer. Par contre, le conseil d’administration de l’appelante adoptait une résolution décrivant d’une façon générale les services de gestion rendus et fixant le montant des frais de gestion à payer pour l’exercice financier terminé. Pour l’exercice financier terminé le 31 juillet 2009, la résolution du conseil d’administration approuvant le versement des frais de gestion est datée du 25 septembre 2009. Suite à l’adoption de la résolution du conseil d’administration de l’appelante, chaque société de gestion émet une facture à l’appelante datée du même jour que la résolution et les taxes (TPS et TVQ) sont ajoutées aux frais de gestion réclamés.
+[17] Avec le départ de monsieur Pigeon à la barre de l’appelante, l’appelante a cessé ses opérations de construction le 31 décembre 2009. Par contre, une société de construction contrôlée par Eric Pigeon, soit la société 7218273 Canada Inc. opérant sous le nom de « Les Constructions Gérik » (le « nouveau Gérik »), a accepté de compléter la construction des maisons en cours et de les livrer aux acheteurs pour le compte de l’appelante. De janvier à juillet 2010, la société 7218273 Canada Inc. a facturé à l’appelante un montant total de 1 598 104,41 $ plus les taxes (TPS et TVQ). Les montants facturés à l’appelante comprenaient des frais d’administration de 8% et une marge de profits de 10%. À compter du 1er août 2010, l’appelante a continué d’exister mais elle est alors devenue non opérante.
+[18] Monsieur Eric Pigeon a également témoigné à l’audience. Il a notamment expliqué que les frais de gestion exigés de l’appelante étaient en partie un mécanisme de protection d’actifs et il a justifié l’augmentation des frais de gestion à l’égard de l’exercice financier 2009 par le fait que sa société de gestion avait besoin de fonds supplémentaires pour démarrer le « nouveau Gérik ». Le « nouveau Gérik » a débuté ses opérations en 2009 et a construit depuis de 60 à 80 maisons par année à l’aide d’une équipe comptant sept employés en plus de sa conjointe qui détient une maîtrise en gestion de projets.
+Analyse
+[19] La question en litige consiste à déterminer si l’appelante a demandé, et obtenu, dans le calcul de sa taxe nette qu’elle a déclarée pour la période visée, des CTI pour un montant de 41 000 $ en trop, par erreur ou sans droit, suite au refus du ministre d’accorder un montant de 820 000 $ à titre de frais de gestion considérés comme déraisonnables.
+[20] Le paragraphe 170(2) de la LTA prévoit, d’une part, que la consommation ou l’utilisation d’un service, compte tenu de sa qualité, de sa nature ou de son coût, doit être raisonnable dans les circonstances, eu égard à la nature des activités commerciales de l’appelante et, d’autre part, que le montant doit être calculé sur la contrepartie du service qui est raisonnable dans les circonstances. Le paragraphe 170(2) se lit comme suit :
+Le calcul du crédit de taxe sur les intrants d'un inscrit n'inclut pas de montant au titre de la taxe payable par celui-ci relativement à un bien ou un service qu’il a acquis, importé ou transféré dans une province participante, sauf dans le mesure où :
+a) d’une part, la consommation ou l'utilisation du bien ou du service, compte tenu de leur qualité, nature ou coût, est raisonnable dans les circonstances, eu égard à la nature des activités commerciales de l'inscrit;
+b) d’autre part, le montant est calculé sur la contrepartie du bien ou du service ou sur la valeur du bien qui est raisonnable dans les circonstances.
+[21] L’alinéa 170(2)a) ne pose pas de problème parce que l’utilisation des services des sociétés de gestion est indispensable à l’exploitation de l’entreprise de l’appelante. Par contre, le ministre considère que la contrepartie versée par l’appelante pour les services fournies par les sociétés de gestion n’est pas raisonnable dans les circonstances d’où la décision de refuser les crédits sur intrant à l’égard d’un montant de 820 000 $ sur les frais de gestion de 1 770 000 $ versés par l’appelante à l’égard de l’exercice financier 2009.
+[22] Pour justifier sa décision, le ministre allègue que les frais de gestion ne sont que des écritures de fin d’exercice financier, qu’il n’y a pas de convention de gestion et qu’il n’y a pas de critères objectifs servant à déterminer le montant des frais de gestion payable chaque année. Les frais de gestion constituent un mécanisme de distribution des profits de l’appelante parce qu’ils varient d’une année à l’autre, sans qu’il y ait de changements véritables au niveau de la qualité ou de la quantité des services rendus par les sociétés de gestion.
+[23] Il n’y a que quelques rares décisions jurisprudentielles portant sur le paragraphe 170(2) de la LTA et aucune de ces décisions ne discute de la raisonnabilité de la contrepartie versée pour des services au sens de l’alinéa 170(2)(b). Les décisions jurisprudentielles traitant de l’article 67 de la Loi de l’impôt sur le revenu ne sont pas pertinentes aux fins du présent litige parce que la déductibilité des frais de gestion n’est pas en cause dans le présent litige et parce que la rédaction de l’article 67 est différente de celle du paragraphe 170(2).
+[24] La preuve révèle que nous sommes ici en présence d’une entreprise très profitable et extrêmement bien gérée par des personnes d’expérience qui ont toujours œuvré dans le domaine de la construction. Le chiffre d’affaires annuel de l’entreprise pour les exercices financiers 2007, 2008, 2009 et 2010 s’est établi à 16 045 841 $, 12 883 743 $, 13 180 230 $ et 11 979 088 $ respectivement.
+[25] Les services rendus par les sociétés de gestion et leurs actionnaires ne se limitent pas aux seuls services de gestion habituels d’une entreprise puisqu’ils englobent également le financement de l’entreprise et l’accès à une banque de terrains desservis par les services et prêts à être développés, lesquels sont détenus par des sociétés contrôlées par monsieur Germain Pigeon et ses enfants, Lyne et Eric.
+[26] Comme l’a expliqué monsieur Germain Pigeon lors de son témoignage, les sociétés de gestion et leurs actionnaires ont agi à titre de banque centrale dans le financement des opérations de l’appelante. Les avances consenties à l’appelante par une société apparentée sous contrôle commun se sont élevées au cours des exercices financiers 2007, 2008, 2009 et 2010 à 343 000 $, 2 050 957 $, 520 000 $ et 1 354 645 $ respectivement. Ces avances étaient consenties sans intérêts et sans mode prévu de remboursement et représentaient le coût des terrains vendus à l’appelante. De plus, les avances des actionnaires consenties à l’appelante se sont élevées à 400 000 $ au cours des exercices financiers 2008 et 2009. Ces avances ne comportaient pas d’intérêts, ni de modalités de remboursement. Monsieur Pigeon a également fait état que son fils et lui avaient à maintes reprises endossés personnellement des emprunts bancaires contractés par l’appelante.
+[27] Sans les services fournis par les sociétés de gestion et leurs actionnaires, l’appelante ne serait pas en mesure d’exploiter son entreprise. La licence de l’appelante auprès de la Régie du bâtiment du Québec est basée sur les qualifications de monsieur Germain Pigeon.
+[28] Le versement des frais de gestion par l’appelante vise essentiellement à protéger son actif contre les risques associés à l’exploitation de son entreprise de construction. La motivation première recherchée par les sociétés de gestion et de leurs actionnaires respectifs n’est pas de différer l’imposition des revenus gagnés par l’appelante puisqu’il n’y a qu’un léger report dû au fait que les sociétés de gestion ont toutes deux une fin d’exercice financier se terminant le 31 janvier de chaque année. Exception faite dans ce report d’impôt, l’utilisation des sociétés de gestion ne procure pas d’avantage quant à l’imposition des revenus générés par l’entreprise de l’appelante. Ce qui est déductible au niveau de l’appelante est imposable au niveau des sociétés de gestion, et ce, au même taux d’imposition fédéral.
+[29] Les critères de comparaison utilisés par le ministre, à savoir la moyenne des salaires et des bonis versés au cours des trois années précédentes et majorés pour tenir compte de l’inflation et les montants des frais de gestion versés en 2008 et en 2010, ne sont pas pertinents aux fins de déterminer si la contrepartie versée par l’appelante pour les services obtenus est raisonnable dans les circonstances. D’ailleurs, l’utilisation des frais de gestion versés à l’égard de l’exercice financier 2010 comme comparable est totalement inapproprié compte tenu du fait qu’ils sont basés sur seulement cinq mois d’opérations de l’appelante.
+[30] Compte tenu de ce qui précède, les frais de gestion versés par l’appelante à l’égard de l’exercice financier 2009 sont pleinement justifiés pour les services obtenus et sont raisonnables dans les circonstances.
+[31] L’appel est accueilli et la cotisation du 11 janvier 2013 est annulée.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 180
+Nº DU DOSSIER DE LA COUR :
+2014-1944(GST)I
+INTITULÉ DE LA CAUSE :
+6051944 Canada Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+le 28 mai 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 1er octobre 2015
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+le 15 octobre 2015
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Pierre McMartin
+Avocat de l'intimée :
+Me Olivier Vinet-Gasse
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Pierre McMartin
+Cabinet :
+Beaudry, Bertrand
+Gatineau, Québec
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,232 @@
+---
+title: "Parrotta c. Canada (Ressources humaines et Développement des compétences)"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30810/index.do"
+last_modified: "2012-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 172"
+citation2: ""
+neutral_citation: "2012 CCI 172"
+decision_date: "2012-05-18"
+language: "fr"
+item_id: "30810"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7553
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:38:12.209000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "543bf81738359edd1876a331415fe0cd8b195e4fd582bbfaa38ab776ab8dc55b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Parrotta c. Canada (Ressources humaines et Développement des compétences)
+
+- Citation: 2012 CCI 172
+- Decision date: 2012-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7553, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parrotta c. Canada (Ressources humaines et Développement des compétences)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-18
+Référence neutre
+2012 CCI 172
+Numéro de dossier
+2011-2012(OAS)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2011-2012(OAS)
+ENTRE :
+RACHELE PARROTTA,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES ET
+DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Domenico Parrotta (2011-2007(OAS)),
+le 21 mars 2012, à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Représentant de l’appelante :
+M. Domenico Parrotta
+Avocate de l’intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L’appel que l’appelante a interjeté du calcul que l’intimé a effectué de son revenu pour les années de référence 2008 et 2009 ainsi que du calcul de son revenu conformément au paragraphe 14(2) de la Loi sur la sécurité de la vieillesse est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 3e jour de juillet 2012.
+Marie-Christine Gervais
+Dossier : 2011-2007(OAS)
+ENTRE :
+DOMENICO PARROTTA,
+appelant,
+et
+LE MINISTRE DES RESSOURCES HUMAINES ET
+DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Rachele Parrotta (2011-2012(OAS)),
+le 21 mars 2012, à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L’appel que l’appelant a interjeté du calcul que l’intimé a effectué de son revenu pour les années de référence 2008 et 2009 ainsi que du calcul de son revenu conformément au paragraphe 14(2) de la Loi sur la sécurité de la vieillesse est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 3e jour de juillet 2012.
+Marie-Christine Gervais
+Référence : 2012CCI172
+Date : 20120518
+Dossiers : 2011-2012(OAS)
+2011-2007(OAS)
+ENTRE :
+RACHELE PARROTTA et
+DOMENICO PARROTTA,
+appelants,
+et
+LE MINISTRE DES RESSOURCES HUMAINES ET
+DU DÉVELOPPEMENT DES COMPÉTENCES
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] M. et Mme Parrotta interjettent appel du calcul de leur revenu combiné, utilisé aux fins de la détermination du montant de leur supplément de revenu garanti (le « SRG ») en vertu de la Loi sur la sécurité de la vieillesse (la « LSV ») pour les périodes de paiement allant du 1er juillet 2009 au 30 juin 2010 ainsi que du 1er juillet 2010 au 30 juin 2011.
+[2] M. Parrotta agissait pour son propre compte ainsi que pour le compte de son épouse; il a été la seule personne à témoigner à l’audience.
+[3] Le SRG est basé sur le revenu du bénéficiaire, déterminé suivant la Loi de l’impôt sur le revenu (la « LIR ») pour certaines périodes que je décrirai ci‑dessous.
+[4] La compétence de la Cour dans la présente affaire lui est conférée au paragraphe 28(2) de la LSV et est limitée à la détermination du revenu des appelants tiré d’une source particulière ou de sources précisées dans la LIR pour la période ou pour les périodes pertinentes.
+[5] Dans la plupart des cas, le SRG est basé sur le revenu du bénéficiaire pour l’année civile précédant la période du paiement de la prestation. La période du paiement de la prestation commence le 1er juillet et se termine le 30 juin de l’année suivante. L’année civile précédant la période de paiement de la prestation est désignée sous le nom d’« année de référence ». En vertu de la LSV, les personnes qui présentent une demande en vue d’obtenir le SRG doivent fournir une déclaration de revenus pour l’année de référence se rapportant à chaque période de paiement de la prestation.
+[6] La LSV prévoit également le cas dans lequel on s’attend à ce que le revenu du demandeur baisse après l’année de référence à cause de la perte du revenu tiré d’une entreprise, d’un emploi ou d’une charge ou à cause d’une réduction du revenu perçu au titre d’un régime de pension. Selon ces dispositions, la prestation peut être basée sur le revenu réduit actuel du demandeur plutôt que sur le revenu de l’année de référence. Le demandeur qui subit une réduction du revenu tiré d’une charge, d’un emploi ou d’une entreprise ou du revenu perçu au titre d’un régime de pension peut présenter une déclaration supplémentaire de revenus au cours d’une période de paiement. Le ministre calcule ensuite à nouveau le revenu du demandeur conformément aux paragraphes 14(2) à (6) de la LSV. Généralement, le nouveau calcul comprend les montants suivants :
+– le revenu que le demandeur perçoit au titre d’un régime de pension pour l’année en cours;
+– le revenu que le demandeur tire d’une charge ou d’un emploi pour l’année en cours;
+– le revenu que le demandeur tire de toutes les autres sources pour l’année de référence.
+[7] La disposition pertinente aux fins de la présente affaire figure au paragraphe 14(2), qui est libellé ainsi :
+[…]
+14(2) Déclaration supplémentaire – Le demandeur – ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) – peut produire une seconde déclaration s’il a cessé une activité rémunérée – charge, emploi ou exploitation d’une entreprise – pendant la période de paiement en cours. La seconde déclaration est à produire au plus tard à la fin de la deuxième période de paiement suivant la période de paiement en cours et indique le revenu estimatif pour l’année civile au cours de laquelle se produit la cessation, lequel correspond alors au total des éléments suivants :
+a) le produit de son revenu perçu au titre de tout régime de pension au cours de la partie de l’année civile qui suit le mois de la cessation et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année;
+b) son revenu perçu au titre de toute activité rémunérée pour cette année civile, compte non tenu du revenu perçu au titre de l’activité qu’il a cessé d’exercer;
+c) son revenu pour l’année de référence, compte non tenu du revenu perçu au cours de celle-ci au titre de toute activité rémunérée ou de tout régime de pension.
+[8] Dans ce cas‑ci, M. et Mme Parrotta ont disposé, en 2009, d’un bien locatif qui leur appartenait conjointement. M. Parrotta a également cessé d’exploiter une entreprise en 2009. Les époux ont ensuite produit des déclarations supplémentaires de revenus pour les années 2009 et 2010 et ils s’attendaient à ce que les prestations versées au titre du SRG augmentent à cause de la perte de ces sources de revenus.
+[9] Étant donné que les dispositions pertinentes de la LSV ne permettent pas un nouveau calcul du revenu basé sur une réduction d’un revenu de location, le ministre a uniquement tenu compte de la perte du revenu d’entreprise subie par M. Parrotta. Toutefois, M. Parrotta avait subi une perte d’entreprise en 2008, laquelle a été éliminée du revenu calculé à nouveau, de sorte que le revenu calculé à nouveau était plus élevé que le revenu de M. Parrotta pour l’année de référence. Le nouveau calcul concernant l’année 2010 a également entraîné, dans le cas de M. Parrotta, une augmentation de son revenu par rapport à celui de l’année de référence, et ce, pour la même raison : M. Parrotta avait déclaré une perte d’entreprise en 2009. Étant donné que cela était plus avantageux pour les Parrotta, le ministre a continué à calculer les prestations au titre du SRG en tenant compte de leur revenu combiné au cours de chacune des années de référence 2008 et 2009.
+[10] Les calculs du ministre sont décrits ci‑dessous :
+[traduction]
+Revenu combiné de M. et de Mme Parrotta pour l’année de référence 2008 :
+Revenu perçu au titre du Régime de pensions du Canada
+8 562,00 $
+Revenu de location
+1 305,00 $
+Entreprise (travailleur autonome)
+(5 003,00 $)
+Revenu de M. Parrotta pour l’année 2008
+4 864,00 $
+Revenu de Mme Parrotta en 2008
+3 081,00 $
+Revenu combiné total pour l’année 2008 :
+7 945,00 $
+Nouveau calcul de leur revenu combiné pour l’année 2009 sans la perte d’entreprise :
+Revenu perçu au titre du Régime de pensions du Canada pour l’année 2009
+8 777,04 $
+Revenu de l’année de référence 2008 (autre que le revenu tiré d’une entreprise, d’une charge ou d’un emploi ou le revenu perçu au titre d’un régime de pension)
+Revenu de location
+1 305,00 $
+Revenu total de M. Parrotta calculé à nouveau
+10 082,04 $
+Revenu de Mme Parrotta pour l’année 2008
+3 081,00 $
+Revenu combiné total pour l’année 2008
+13 163,04 $
+Revenu combiné de M. et de Mme Parrotta pour l’année de référence 2009 :
+Revenu perçu au titre du Régime de pensions du Canada
+8 777,04 $
+Dividendes; gains en capital
+5 373,00 $
+Revenu de location
+5 581,00 $
+Entreprise (travailleur autonome)
+(5 888,00 $)
+Revenu total de M. Parrotta pour l’année 2009
+13 843,04 $
+Revenu de Mme Parrotta pour l’année 2009
+12 774,00 $
+Revenu combiné total pour l’année 2009
+26 617,04 $
+Nouveau calcul de leur revenu combiné sans la perte d’entreprise :
+Revenu perçu au titre du Régime de pensions du Canada pour l’année 2010
+8 812,20 $
+Revenu de l’année de référence 2009 (autre que le revenu tiré d’une entreprise, d’une charge ou d’un emploi ou le revenu perçu au titre d’un régime de pension)
+Dividendes; gains en capital
+5 373,00 $
+Revenu de location
+5 581,00 $
+Revenu total de M. Parrotta calculé à nouveau
+19 776,20 $
+Revenu de Mme Parrotta pour l’année 2009
+12 774,00 $
+Revenu combiné total calculé à nouveau
+35 540,20 $
+[11] M. Parrotta a admis que les montants utilisés par le ministre dans ces calculs étaient exacts, mais il ne souscrivait pas à l’inclusion du revenu de location dans le nouveau calcul du revenu pour l’année 2010. Il estimait qu’étant donné qu’aucun revenu de location n’avait été gagné par les époux en 2010, ce revenu ne devait pas être inclus dans le nouveau calcul.
+[12] Toutefois, le ministre était clairement tenu d’inclure le revenu de location suivant l’alinéa 14(2)c) de la LSV étant donné qu’il s’agissait du revenu de location gagné au cours de l’année de référence 2009, jusqu’au moment de la disposition du bien.
+[13] À un moment donné, M. Parrotta a affirmé que la disposition du bien locatif, en 2009, n’avait entraîné aucun gain en capital pour son épouse et lui-même parce qu’ils avaient transféré le bien à leurs enfants. Toutefois, il a admis qu’ils avaient déclaré le gain tiré de la disposition dans leurs déclarations de revenus de l’année 2009 et qu’ils n’avaient pas contesté les cotisations d’impôt dans lesquelles le gain était inclus dans leur revenu pour l’année d’imposition 2009. En outre, aucun élément de preuve n’a été présenté à la Cour en vue d’établir que le gain avait été déclaré d’une façon erronée. Par conséquent, il n’a pas été démontré que la détermination du revenu combiné pour les années de référence 2008 et 2009 était inexacte et les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 18e jour de mai 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 3e jour de juillet 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012CCI172
+Nos DES DOSSIERS DE LA COUR : 2011-2012(OAS), 2011-2007(OAS)
+INTITULÉ : RACHELE PARROTTA, DOMENICO PARROTTA c. M.R.H.D.C.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 21 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 18 mai 2012
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimé :
+Me Stéphanie Côté
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

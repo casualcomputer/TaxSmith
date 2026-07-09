@@ -1,0 +1,183 @@
+---
+title: "Triple G Corporation Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25957/index.do"
+last_modified: "2004-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 563"
+citation2: ""
+neutral_citation: "2004 TCC 563"
+decision_date: "2004-08-13"
+language: "en"
+item_id: "25957"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3755
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:09:18.882000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a507a36e72f0b84f81a0fa8d21c7fe8d46fa0d69527c4432c2aacc7e1b28e63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Triple G Corporation Inc. v. The Queen
+
+- Citation: 2004 TCC 563
+- Decision date: 2004-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3755, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Triple G Corporation Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-13
+Neutral citation
+2004 TCC 563
+File numbers
+2003-4140(GST)I
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+\
+Docket: 2003-4140(GST)I
+BETWEEN:
+TRIPLE G CORPORATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by telephone conference call on March 25, 2004
+By: The Honourable Justice R.D. Bell
+Participants:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+ORDER
+UPON reading the Notice of Motion of the Respondent for an Order of this Court that this appeal be heard under the Tax Court of Canada Rules (General Procedure);
+AND UPON hearing submissions of counsel for the parties;
+IT IS ORDERED THAT:
+1. Pursuant to section 18.3002 of the Tax Court of Canada Act, the provisions of sections 17.1, 17.2 and 17.4 to 17.8 of that Act apply in respect of this appeal;
+2. The Minister shall bear all reasonable and proper costs of the Appellant in respect of the two appealed Notices of Reassessment, in each of which the amount of net tax in dispute was less than $7,000.
+Signed at Ottawa, Canada this 13th day of August, 2004.
+"R.D. Bell"
+Bell, J.
+Citation: 2004TCC563
+Date: 20040813
+Docket: 2003-4140(GST)I
+BETWEEN:
+TRIPLE G CORPORATION INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bell, J.
+[1] The Respondent filed an undated and unsigned Notice of Motion with in the Court on January 28, 2004. The motion is
+for an Order, pursuant to section 18.3002 of the Tax Court of Canada Act that the General Procedure set out in sections 17.1, 17.2, and 17.4 to 17.8 of the Tax Court of Canada Act apply in respect of the appeal.
+[2] Counsel for the Appellant, on February 18, 2004 filed WRITTEN SUBMISSIONS OF APPELLANT RE: NOTICE OF MOTION FOR GENERAL PROCEDURE TO APPLY. That document states that:
+The Appellant does not dispute that the Respondent's request shall be granted by this Court if the Court is satisfied the request was made within 60 days of the day of the Notice of Appeal was transmitted by this Court to the Respondent, which day the Appellant understands to be December 1, 2003.
+It further states that:
+If this Court was also in receipt of the Notice of Motion on January 28, 2004 that the Appellant does not dispute that the Respondent will have met the necessary deadline in order for this Court to grant such Order.
+[3] By letter of March 1, 2004 Appellant's counsel wrote to the Court asking for an opportunity to respond to the written representations of the Respondent and asking for a telephone conference hearing respecting same. That hearing took place by telephone on March 25, 2004.
+[4] During the telephone conference, Appellant's counsel did not resist the Respondent's motion to have the General Procedure Rules apply to the appeal. His position, pursuant to section 18.3002(3) of the Tax Court of Canada Act ("TCC Act"), is that this Court should order all reasonable and proper costs of the Appellant be borne by the Respondent on the basis that, within the meaning of section 18.3002(3) the "amount in dispute" does not exceed $7,000.
+[5] Appellant's counsel said that the total amount in dispute was $21,319. Respondent's counsel said that there would be an adjustment to that by virtue of the Minister having allowed an input tax credit of $436.19.[1]
+[6] Appellant's counsel took the position that the "amount in dispute" was not the cumulative amount of the total of reporting periods but that each reporting period must be looked at separately. He stated that there were 12 reporting periods and that there were, therefore, 12 appeals.
+[7] After much prolonged discussion counsel agreed that the amount in dispute in respect of each of two notices of assessment was less than $7,000.
+[8] Appellant's counsel said:
+... we do not dispute that if net tax for purposes of that paragraph is determined by reference to something other than a reporting period, that we are over that $7,000 threshold.
+[9] Counsel also agreed that only "net tax" was in issue.
+ANALYSIS:
+[10] There follows the appropriate portions of pertinent legislation:
+Tax Court of Canada Act
+18.3002 (1) Where the Attorney General of Canada so requests, the Court shall order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of an appeal in respect of which sections 18.3003 and 18.3007 to 18.302 would otherwise apply.
+...
+(3) The Court shall, on making an order under subsection (1), order that all reasonable and proper costs of the person who has brought the appeal be borne by Her Majesty in right of Canada where
+...
+(c) in the case of an appeal under Part IX of the Excise Tax Act, the amount in dispute does not exceed $7,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000.
+2.2(2) For the purposes of this Act, the "amount in dispute" in an appeal means
+...
+(c) in the case of an appeal under Part IX of the Excise Tax Act,
+(i) the amount of tax, net tax and rebate, within the meaning of that Part, that is in issue in the appeal,
+(ii) any interest or penalty under that Part that is in issue in the appeal, and
+(iii) any amount of tax, net tax or rebate, within the meaning of that Part, that is likely to be affected by the appeal in any other appeal, assessment or proposed assessment of the person who has brought the appeal.
+Excise Tax Act
+296(1) The Minister may assess
+(a) the net tax of a person under Division V for a reporting period of the person,
+(b) any tax payable by a person under Division II, IV or IV.1,
+(c) any penalty or interest payable by a person under this Part,
+(d) any amount payable by a person under any of paragraphs 228(2.1)(b) and (2.3)(d) and section 230.1, and
+(e) any amount which a person is liable to pay or remit under subsection 177(1.1) or Subdivision a or b.1 of Division VII,
+and may reassess or make an additional assessment of tax, net tax penalty, interest or an amount referred to in paragraph (d) or (e).
+300.(1)After making an assessment, the Minister shall send to the person assessed a notice of the assessment.
+300.(2)A notice of assessment may include assessments in respect of any number or combination of reporting periods, transactions, rebates or amounts payable or remittable under this Part.
+302. Where a person files a notice of objection to an assessment and the Minister sends to the person a notice of a reassessment or an additional assessment, in respect of any manner dealt with in the notice of objection, the person may, within ninety days after the day the notice of reassessment or additional assessment was sent by the Minister,
+(a) appeal therefrom to the Tax Court; or
+(b) where an appeal has already been instituted in respect of the matter, amend the appeal by joining thereto an appeal in respect of the reassessment or additional assessment in such manner and on such terms as the Tax Court directs.
+306. A person who has filed a notice of objection to an assessment under this Sub-division may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+[11] From the foregoing it is clear that if the amount in dispute under subsection 18.3002(3) of the TCC Act is less than $7,000 this Court is obliged to make an Order in respect of the General Procedure applying that all reasonable and proper costs of the Appellant be borne by the Respondent.
+[12] Under subsection 2.2(2) the "amount in dispute" is the amount of net tax that is in issue in the appeal.
+[13] Under subsection 296(1) of the Excise Tax Act ("ET Act") the Minister may assess the net tax of a person for a reporting period.
+[14] Under section 300 of the ET Act the Minister shall send a notice of such assessment to the person assessed and such notice of assessment may include assessments in respect of any number or combination of reporting periods.
+[15] Under section 306 of the ET Act a person who has filed a notice of objection to an assessment which has been confirmed by the Minister of National Revenue may appeal to this Court to have the "assessment" vacated or reassessed.
+[16] The Appellant has appealed each of the three reassessments. It has been agreed that the amount in dispute in respect of each of two of those reassessments was less than $7,000. In respect of the third assessment, the cumulative amount is in excess of $7,000. There is no appeal from a reporting period. There is an appeal from an assessment. It follows, therefore, that the Respondent is responsible for the reasonable and proper costs of the Appellant with respect to the first two of such reassessments. It is not so responsible in respect of the reassessment covering ten reporting periods.
+Signed at Ottawa, Canada this 13th day of August, 2004.
+"R.D. Bell"
+Bell, J.
+CITATION:
+2004TCC563
+COURT FILE NO.:
+2003-4140(GST)I
+STYLE OF CAUSE:
+Tripe G. Corporation Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa Motions Room by telephone conference call
+DATE OF HEARING:
+March 25, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice R.D. Bell
+DATE OF ORDER:
+August 13, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Dawn Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gordon Beck
+Firm:
+Field LLP
+Edmonton, Alberta
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There is a small discrepancy but that is not to be determined on this motion.

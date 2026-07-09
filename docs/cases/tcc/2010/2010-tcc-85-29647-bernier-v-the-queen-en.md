@@ -1,0 +1,181 @@
+---
+title: "Bernier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29647/index.do"
+last_modified: "2010-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 85"
+citation2: ""
+neutral_citation: "2010 TCC 85"
+decision_date: "2010-02-12"
+language: "en"
+item_id: "29647"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6154
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:39:35.948000+00:00"
+cases_cited_count: 11
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c4b49e124e11de79f51f60b1ff8f4c076b0bc92ef6b0ec81ec93993cc435e5c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bernier v. The Queen
+
+- Citation: 2010 TCC 85
+- Decision date: 2010-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6154, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-12
+Neutral citation
+2010 TCC 85
+File numbers
+2008-489(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-489(IT)G
+BETWEEN:
+LYNDA BERNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 4, 2009, at Rimouski, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Denis Tremblay
+Counsel for the Respondent:
+Luc Vaillancourt
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, the notice of which bears the number 30458, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of February 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of April 2010.
+Erich Klein, Revisor
+Citation: 2010 TCC 85
+Date: 20100212
+Docket: 2008-489(IT)G
+BETWEEN:
+LYNDA BERNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] By notice of assessment dated October 4, 2006, the Minister of National Revenue ("the Minister") claimed a payment of $29,298.99 from the Appellant under section 160 of the Income Tax Act ("the Act") in connection with a transfer of funds to the Appellant from her spouse on May 10, 2004. On that date, the Appellant deposited $81,869.42 into her account at the Caisse populaire Desjardins du Rivage et des Monts. This amount is equal to the amount of a cheque dated May 3, 2004, issued by the Commission de la santé et de la sécurité du travail (the Quebec workers' compensation board, hereinafter referred to as the CSST) to Richard Ouellet, the Appellant's spouse.
+[2] Earlier, on March 21, 2002, the Minister had issued reassessments against the Appellant's spouse for his 1998 and 1999 taxation years such that, when the Appellant deposited the $81,869.42, her spouse owed money to the Minister. It was this debt that gave rise to the assessment against the Appellant. It should be noted that Richard Ouellet and the Appellant were married at the relevant time.
+[3] At the outset of the hearing, the parties told the Court that there were in fact only two points at issue. The Appellant acknowledges that she and her spouse are related persons within the meaning of the Act, and that property was transferred at a time when the transferor owed money to the Minister. However, and this constitutes the first point at issue, she submits that there was consideration for the transfer. The second point raised by the Appellant is that the transferred amount is an income replacement benefit representing the capitalization of benefits, and that, since it is from the CSST, it is exempt from seizure regardless of whether it happens to be in Mr. Ouellet's hands or in the Appellant's.
+[4] I must also determine whether certain evidence adduced by the Appellant is inadmissible by reason of irrelevance. The evidence in question includes Exhibit A‑2, a statement of the household income and expenses of the Appellant, her spouse and their 28-year-old son who, for health reasons, is their dependant. The evidence in question also includes the testimonial evidence regarding the same subject. In fact, the matter of the relevance of this evidence was raised because of the recent decision of the Federal Court of Appeal in Yates v. Canada, 2009 FCA 50, in which it was held that subsection 160(1) of the Act contemplates no exceptions based on family law or domestic obligations.
+[5] It is true that evidence can be declared inadmissible by reason of irrelevance. Such a declaration is all the more possible where the impugned evidence can easily be severed from the rest of the evidence. A decision that evidence is inadmissible is not always clear-cut, and, in most cases, it is more prudent to admit the evidence so that the judge who presides at the hearing can analyze it and determine its relevance in light of the issues that the judge will have to decide. In the case at bar, the evidence adduced by the Appellant is directly related to the basis of her argument. It is therefore important that the evidence be admitted so that the Appellant can substantiate her claims.
+[6] In 1999, the Appellant's spouse sustained a serious injury while working as a lumberjack. He had also been a fisherman for a number of years, and his wife and son had worked with him in this activity. In fact, it was the tax on the sale of his fishing permit that gave rise to the tax liability that is the subject of the assessment in issue.
+[7] The above-mentioned accident forced the Appellant's spouse to seek CSST benefits. Neither the Appellant nor the couple's son was working at the time. According to the Appellant's spouse, the $600 benefit paid every two weeks by the CSST was not enough to meet their needs. He and the Appellant therefore submitted to the CSST a benefit capitalization proposal with a view to investing the money in a restaurant. The CSST accepted the proposal and allowed the Appellant's spouse to capitalize six years' worth of benefit payments, from November 25, 2003, to November 24, 2009. The CSST thus paid him $81,869.42.
+[8] Owing to the effects of the work accident on her spouse, the Appellant handled and managed the family's finances. Therefore, she was the one who had to ensure — using the restaurant's revenues — that the home loan and auto loan were repaid and that all other family expenses were defrayed. The Appellant's spouse says that he gave the Appellant the money in question so that she could meet the family's financial obligations. She assumed responsibility for the family expenses.
+[9] In her answers upon written examination for discovery, the Appellant explained, with great clarity, that the $81,869.42 was given to her by her spouse, that she invested the amount in a restaurant that constitutes their sole source of income, and that she had to use the restaurant revenues to cover all the family expenses and meet all the needs of her spouse related to his condition resulting from the work accident.
+[10] The officer from the Canada Revenue Agency (CRA) who dealt with the Appellant's objection related a conversation that he had with the Appellant's representative. According to the officer, at no point in the conversation was it claimed that the Appellant was her spouse's mandatary, or that she had assumed his debts.
+[11] Thus, the question to be determined is whether the transfer of the sum of money in question to the Appellant by her spouse was made for consideration or not. If I find that the transfer was not made for consideration, the question will be whether the transferred amount's being exempt from seizure prevents section 160 of the Act from applying here.
+[12] The position of counsel for the Appellant is that since the amount is exempt from seizure by virtue of its being intended to provide the necessaries of life and by virtue of the Quebec Act respecting industrial accidents and occupational diseases, there was valid consideration, and thus, the facts of this case are different from those in Yates, above. The Appellant's assumption of the family obligations constitutes valid consideration, the value of which is even higher than that of the amount transferred, since the evidence clearly shows that five years' worth of family expenses add up to an amount greater than the amount transferred. This position is supported by a table of monthly income and expenditures, produced as Exhibit A‑2. According to Hewett v. Canada, [1997] F.C.J. No. 1541 (QL), contends counsel for the Appellant, the purpose of section 160 of the Act is to prevent taxpayers from divesting themselves of money that would otherwise be seizable by the Minister. Counsel further contends that the fact that the amount was deposited into an account does not cause them to lose their exemption from seizure: D.(J.) v. J.(T.) et al., REJB 1998-08139. Moreover, argues counsel, the transfer is similar to the ones in Canada v. Ducharme, 2005 FCA 137 and Tétreault v. The Queen, 2004 TCC 332, and since it is a gift with concomitant obligations, there is adequate consideration.
+[13] For his part, counsel for the Respondent relies on Yates, above, and argues that the only exception to section 160 is the one found in subsection 160(4) of the Act, which does not apply to this case. The decision in Wannan v. Canada, 2003 FCA 423, establishes that it matters little whether there is intent to help the transferor avoid the payment of tax. If the four criteria of section 160 are satisfied, the assessment is valid. According to the decision in Yates, the payments made by the transferee to meet family obligations are subject to section 160 of the Act because there is no exception for such obligations. As for whether the exemption of the money at issue from seizure can prevent section 160 from applying, counsel contends that the transfer of the money to the Appellant puts and end to the exemption from seizure, thereby making the Appellant liable for the tax debt. Moreover, the purpose of this appeal is to determine the validity of the assessment, not whether the money at issue is seizable, and so the argument regarding exemption from seizure is premature. According to counsel for the Respondent, exemptions from seizure under provincial law cannot be relied upon where federal law applies: Marcoux v. Canada (Attorney General), 2001 FCA 92. Lastly, counsel argues, the exception conferring an exemption from seizure disappears at the time of transfer: see Cox v. Canada, [1995] T.C.J. No. 242 (QL), 96 DTC 1690.
+[14] With respect to the first question, namely, whether, in the present case, there was consideration when the Appellant's spouse transferred the funds to her, it should be pointed out that, in Yates, above, the Federal Court of Appeal clearly established that the only exception contemplated by the Act is in subsection 160(4). At paragraph 17 of the decision, Justice Desjardins provides the following explanation:
+The line of cases illustrated by Michaud v. Canada. [1998] T.C.J. 908 (QL); Ferracuti v. Canada. [1998] T.C.J. No. 883 (QL); and Laframboise v. Canada, [2002] T.C.J. No. 628, which takes the position that payments made by one spouse to another in satisfaction of a legal obligation to support his or her family are beyond the reach of section 160, is not supported by the legislation.
+Justice Nadon adds the following, at paragraphs 35, 37, 38 and 39:
+Subsection 160(1) is clear and unambiguous and the Act does not provide for any exception, other than the one found at subsection 160(4), i.e. that transfers made between spouses "separated and living apart" shall not render them liable under subsection 160(1) to "pay any amount with respect to any income from, or gain from the disposition of, the property so transferred or property substituted therefore [sic], ...". The provision also provides that for the purposes of paragraph 160(1)(e), the fair market value of property transferred after February 15, 1984, shall be deemed to be nil.
+. . .
+As my colleague Desjardins J.A. says at paragraph 13 of her Reasons, "section 160 of the Act is unquestionably a draconian measure. But the issue is whether a court of law is permitted to read in a taxation statute provisions that are inexistent in the legislation". The answer to that question is clearly a no.
+Whether Mrs. Yates spent the $61,784.95 transferred to her by her husband on holidays, personal items, groceries or other household expenditures is, in my respectful view, of no relevance to the determination of whether there was a transfer. Let us assume, for example, that Mr. Yates had given Mrs. Yates an automobile valued at $61,784.95. Let us also assume that on the day following the gift, Mrs. Yates sells the automobile for its full value and proceeds to defray household expenses with that money. Would we seriously entertain an argument that the gift of the automobile does not constitute a transfer because the monies resulting from its sale served to defray the family's living expenses? I suspect that we would have no difficulty in dismissing such an argument.
+Consequently, I see absolutely no basis for the appellant's argument that the nature of the expenses incurred with the money transferred to her by her husband is a relevant factor in determining whether she is subject to subsection 160(1) of the Act.
+[15] Since that decision, there seems to be a general consensus that once the four criteria in section 160 have been met, there is no choice but to conclude that the assessment is valid. This Court's decisions in Provost v. The Queen, 2009 TCC 585, Woodland v. The Queen, 2009 TCC 434, Allen v. The Queen, 2009 TCC 426 and Campbell v. The Queen, 2009 TCC 431, acknowledge this principle, notwithstanding the Ducharme decision, above, in which Justice Rothstein, who was then on the Federal Court of Appeal, held that, given the facts of the case, it was reasonable to infer that there was consideration because the payment was tantamount to a payment of rent. However, Justice Rothstein did not consider the question of whether domestic service obligations can constitute consideration.
+[16] The Court of Appeal in Yates could not have stated more clearly that purpose is of no importance in determining whether a transfer has taken place. Here, the transfer was done to enable the Appellant to invest the funds in a restaurant that would generate income to meet the family's needs. Thus, it was the Appellant who alone took on the management of the funds. To support the argument that there was no transfer there would have to have been a mandate in contemplation of incapacity or a similar document. Consequently, all the criteria of section 160 have been met and the assessment is valid.
+[17] The question now is whether the money in issue is exempt from seizure such that section 160 does not apply. Assuming that the amount transferred by the Appellant's spouse is exempt from seizure, can section 160 apply nonetheless, thereby making the Appellant liable for the transferor's tax debt? This question arises because of the object of section 160 of the Act, which, as described by Justice Strayer in Hewett, above, is to prevent taxpayers from avoiding payment of their taxes by transferring their assets to relatives.
+[18] In Yates, Justice Desjardins provided an overview of the decisions that deal with the object of section 160 and with Parliament's intent. I shall reproduce paragraphs 13-15 of her reasons for judgment:
+The Court in Medland at paragraph 14 has explained the policy behind this provision in the following manner:
+It is not disputed that the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned [sic] to him. ...
+Again, in Wannan v. Canada (2003 FCA 423) at paragraph 3, this Court recognized that "[s]ection 160 of the Income Tax Act is an important collection tool, because it thwarts attempts to move money or other property beyond the tax collector's reach by placing it in presumably friendly hands".
+In Livingston, this Court explained at paragraph 27 that "a transferee of property will be liable to the CRA to the extent that the fair market value of the consideration given for the property falls short of the fair market value of that property". The Court stated in the same paragraph that the "very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA".
+[19] In my opinion, once the transferee's tax liability is triggered by section 160, the CRA is not limited to recovering the property transferred by the transferor. All the transferee's assets are within the CRA's reach and their availability for seizure, should the case arise, has nothing to do with the transferee's tax liability under section 160 of the Act.
+[20] That said, I now return to the question of whether the transfer of property exempt from seizure can render section 160 inapplicable because the Respondent cannot claim that the transferor avoided his tax obligations by transferring the property when that property was beyond the CRA's grasp in any event.
+[21] Assuming that the answer to that question is affirmative, we must determine what money the CRA cannot seize. In Bourgoin c. Bouchard, 2008 QCCQ 7141, the Court of Québec (Civil Division) made the following statement regarding disability benefits:
+[translation]
+This exemption from seizure results from the fact that the benefits will be used to cover Mr. Bouchard's essential needs resulting from an illness that prevents him from working and that the benefits must accordingly be regarded as being in the nature of support.
+[22] However, exemption from seizure is not always assured. In Les sûretés réelles au Québec, Jacques Deslauriers writes:
+[translation]
+In order to avail oneself of this exemption from seizure, the amounts in question cannot have been commingled with other, seizable, money. An example of such commingling would be a deposit into the debtor's general or consolidated bank account. Normally, unless an exception provided for by statute or in the case law applies, these amounts must remain identifiable. . . . It should be noted that, in certain cases — involving CSST, employment insurance and Quebec Pension Plan benefits, for example — the courts have allowed the amounts to remain exempt from seizure even though they had been deposited into the debtor's general account. In such instances, the nature of the funds in the accounts suggested that all the deposits therein were for the purpose of meeting living expenses.
+[23] Justice Béliveau of the Quebec Superior Court, in D.(J.) c. J.(T.), above, confirmed that even if unseizable money is commingled with seizable money, the unseizable money does not necessarily lose its unseizable status. At paragraph 47 of his decision, he stated that amounts paid by the CSST retain their unseizable nature, even when the amounts are in the hands of the person who receives the money.
+[24] However, this exemption from seizure is not ironclad. In Canada c. Bruyère, 2009 QCCA 2246, the Quebec Court of Appeal allowed the Department of Human Resources to recover overpayments of employment insurance benefits on the basis of subsection 126(4) of the Employment Insurance Act, which provides that where a person owes money to a debtor of the Department, that person can be required to pay directly to the Department any amounts payable by the person to the person’s creditor. Accordingly, the Department seized money that the CSST was to pay the respondent, Mr. Bruyère. It did so despite section 144 of the Act respecting industrial accidents and occupational diseases. Paragraph 7 of the decision states:
+[translation]
+Where, in exercising its legislative jurisdiction, the Parliament of Canada wishes to subject an enforcement measure to a provincially-enacted exemption from seizure, it may do so. This is what Parliament did, for example, in subsection 225(5) of the Income Tax Act (ITA), whose counterpart is subsection 126(2) of the EIA. In this case, however, the enforcement measure set out in subsection 126(4) of the EIA, like the one set out in section 224 of the ITA, is not subject to any such restriction. The inference that must therefore be drawn is that there is a conflict of intent between subsection 126(4) of the EIA and section 144 of the Act respecting industrial accidents and occupational diseases (LATMP), since the latter provision effectively neutralizes a rapid procedure for recovery that the EIA authorizes the Employment Insurance Commission to use. To this extent, section 144 of the LATMP frustrates Parliament's intent and is inapplicable where the Employment Insurance Commission sends the CSST the notice referred to in subsection 126(4) of the EIA.
+[25] This principle was also endorsed by the Federal Court of Appeal in Marcoux v. Canada, 2001 FCA 92.
+[26] Some writers have expressed their opinion regarding the CRA's powers in cases involving exemptions from seizure. In an article entitled "La protection des revenus de retraite : où en sommes nous?" (in the Cours de perfectionnement du notariat, a continuing education program for Quebec notaries), Lucie Quesnel writes that unseizability clauses in provincial legislation are not binding on the federal government when it comes to recovering tax debts. At paragraphs 21, 22 and 23, she states the following:
+[translation]
+By enacting subsection 224(1.2) of the Income Tax Act, Parliament has given itself an important tool to ensure that tax debts are collected.
+. . .
+As we can see, Parliament's intention is for tax debts to have priority over all others. In this regard, Louis Rabeau wrote:
+[translation]
+Revenue Canada maintains that non-seizability, in its broad sense, cannot be invoked against it: since section 224 of the Income Tax Act does not state that the rules regarding exemption from seizure can be set up against the federal Crown, non-seizability cannot be invoked against Revenue Canada. It should be specified that this principle applies to all proceeds that are exempt from seizure: RRSPs, pension funds, benefits from the Société de l'assurance automobile du Québec, Quebec Pension Plan payments, etc.
+Roger P. Simard states the following:
+[translation]
+It must be noted that, apart from contexts governed by the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B‑3, as amended ("the BIA"), the federal Crown is not bound by provincial grounds of exemption from seizure. Thus is may, through an administrative garnishment mechanism, intercept monthly pension payments and other amounts that might become payable under the contract, though such garnishment does not appear to allow it to exercise the right of withdrawal that the taxpayer might have under the contract.
+[27] It would seem that, in view of the decision in Bruyère and the foregoing excerpts from scholarly writings, one can conclude that amounts paid by the CSST can be seized by the Minister of National Revenue, and thus, the application of section 160 of the Act would not be jeopardized by a transfer of unseizable property.
+[28] It should be remembered, moreover, that, in Yates, the Federal Court of Appeal clearly held that nothing in subsection 160(1) of the Act enables a court to release a spouse from the tax liability imposed by section 160 if all the requisite conditions are met, since there is no ambiguity in subsection 160(1) of the Act. The exemption of the transferred property from seizure has no effect on the application of subsection 160(1).
+[29] Since the Appellant's liability with respect to her spouse's tax debt has now been established, the question whether the amounts paid to him are exempt from seizure is not within this Court's jurisdiction to decide.
+[30] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 12th day of February 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of April 2010.
+Erich Klein, Revisor
+CITATION: 2010 TCC 85
+COURT FILE NO.: 2008-489(IT)G
+STYLE OF CAUSE: Lynda Bernier v. Her Majesty the Queen
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: November 4, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February 12, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Denis Tremblay
+Counsel for the Respondent:
+Luc Vaillancourt
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Denis Tremblay
+Firm: Tremblay & Tremblay
+Barristers and Solicitors
+Matane, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

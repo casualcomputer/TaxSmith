@@ -1,0 +1,80 @@
+Title: Langreen (1984) Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26592/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-164-26592-langreen-1984-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-03-23
+
+# Langreen (1984) Ltd. v. M.N.R.
+
+- Citation: 2006 TCC 164
+- Decision date: 2006-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3534, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langreen (1984) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-23
+Neutral citation
+2006 TCC 164
+File numbers
+2005-1114(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2006TCC164
+Date: 20060323
+Docket: 2005-1114(EI)
+BETWEEN:
+LANGREEN (1984) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+(delivered orally from the Bench
+on February 17, 2006 at Winnipeg, Manitoba)
+Woods J.
+[1] I will now issue reasons in a motion by the respondent involving an appeal by Langreen (1984) Ltd. under the Employment Insurance Act.
+[2] The question for determination in the appeal is whether Victor Neudorf, who is related to the appellant, was engaged by the appellant in insurable employment.
+[3] The respondent seeks an order directing that the appellant provide responses to a request made in a letter dated January 4, 2006 for copies of documentation that the appellant intends to rely on at the hearing and for the appellant and Mr. Neudorf to fill out questionnaires that they had been sent but did not return. The respondent's request was refused by email from the appellant's counsel dated January 27, 2006.
+[4] Alternatively, the respondent seeks an order permitting the respondent to conduct an examination for discovery of "the Appellant, Victor Neudorf." Under section 18 of the relevant Tax Court of Canada rules, the Court can order discovery of an officer of the appellant. I would note that the appellant is not Victor Neudorf but the employer. This appears to be a careless reference which no one made reference to at the hearing.
+[5] The respondent seeks this order so that it can know the position of the appellant and so that it is not taken by surprise at the trial.
+[6] The motion was heard immediately after I had delivered oral reasons in a similar motion regarding an appeal by Kowalchuk Electric & Mechanical Ltd. In that motion, I granted the respondent's request for discoveries.
+[7] In my view, there is no reason in this motion to depart from the conclusion that I reached in Kowalchuk. The problem is that the appellant has not provided the respondent with sufficient information to understand the appellant's position. For the reasons in Kowalchuk, this is an appropriate case to order discoveries.
+[8] I was first scheduled to deliver these reasons two days ago. After hearing the motion, I indicated to the parties that I thought that the matter was similar to Kowalchuk but that I would consider it overnight. Just before I was about to deliver reasons, counsel for the appellant, Mr. Deryk Coward, indicated that he wished to make further submissions not only on this matter but also on the Kowalchuk matter. Essentially, Mr. Coward was seeking a compromise solution so that discoveries could be avoided. He indicated that the matter was important not only for these appeals but also for the many others that he is handling.
+[9] The proposal that Mr. Coward made is similar to what the respondent was seeking in this motion as an alternative to discoveries. I am not clear why the appellant did not simply indicate its acceptance to what the respondent was seeking and if that was done the respondent presumably would have withdrawn the motion. That was not done, however. In my view the appellant's proposal came too late for the Court to consider a revised compromise solution.
+[10] I will therefore issue an order that the respondent may conduct an oral examination of an officer of the appellant. The order will also entitle the appellant to conduct an oral examination of an officer of the respondent. Under the order, the discoveries and undertakings arising therefrom are to be completed by July 14, 2006 and the hearing of this appeal will be rescheduled for hearing on August 22, 2006.
+[11] At the hearing of this motion, counsel for the appellant requested that I make it clear in my reasons that discoveries are not appropriate as a matter of course in all appeals under the Employment Insurance Act. That is certainly my view. In most employment insurance appeals that come before this Court, it is desirable for the parties to work together so that discoveries can be avoided.
+[12] Counsel for the appellant also requested an order of costs with respect to the discoveries. Counsel for the respondent suggested that I did not have the authority to make such an order but indicated that the respondent would pay for the court reporter and the appellant's attendance fee in respect of the oral examination of the appellant.
+[13] In all the circumstances of this matter, I decline to make any order as to costs.
+[14] Finally, I would note for the record that my conclusion regarding the lateness of the proposal for a compromise solution also applies to the Kowalchuk matter.
+Signed at Toronto, Ontario, this 23rd day of March, 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC164
+COURT FILE NO.: 2005-1114(EI)
+STYLE OF CAUSE: Langreen (1984) Ltd. and The Minister of National Revenue
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: February 14, 2006
+REASONS FOR ORDER BY: The Honourable Justice Judith Woods
+DATE OF ORDER: February 17, 2006
+APPEARANCES:
+Counsel for the Appellant: Deryk W. Coward
+Counsel for the Respondent: Naomi Goldstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Deryk W. Coward
+Firm: D'Arcy & Deacon LLP
+Winnipeg, Manitoba
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

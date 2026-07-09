@@ -1,0 +1,101 @@
+Title: KMW Services Inc. s/n KMW Health And Critical Care c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29833/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-410-29833-kmw-services-inc-s-n-kmw-health-and-critical-care-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-07-14
+
+# KMW Services Inc. s/n KMW Health And Critical Care c. M.R.N.
+
+- Citation: 2008 CCI 410
+- Decision date: 2008-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6575, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+KMW Services Inc. s/n KMW Health And Critical Care c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-14
+Référence neutre
+2008 CCI 410
+Numéro de dossier
+2007-1633(EI)APP, 2007-1634(CPP)APP
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2008CCI410
+Date : 20080714
+Dossiers : 2007-1633(EI)APP
+2007-1634(CPP)APP
+ENTRE :
+KMW SERVICES INC. s/n
+KMW HEALTH AND CRITICAL CARE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement à l’audience à
+Toronto (Ontario), le 6 décembre 2007)
+Le juge Bowie
+[1] En l’espèce, je dois me prononcer sur deux demandes de prorogation du délai pour interjeter appel qui ont été présentées, respectivement, en vertu de la Loi sur l’assurance-emploi (la « LAE ») et du Régime de pensions du Canada (le « RPC »). Les régimes établis par ces deux lois sont identiques d’un point de vue administratif, du moins dans la façon dont ils traitent des recours qui s’offrent à la personne à qui une évaluation impose le paiement de cotisations, de pénalités ou d’intérêts. Les faits en cause sont très simples.
+[2] J’ai entendu le témoignage de M. Webbe, qui était un administrateur de l’appelante, qui a eu affaire au répartiteur, M. Nivaro, et qui connaît bien les faits en cause. M. Webbe m’a dit que la société avait fait l’objet d’évaluations en mai 2005, de même que d’une vérification, qui a sans doute pris quelque temps, et qu’il avait reçu, le 1er et le 2 septembre, deux évaluations, l’une établie en vertu de la LAE et l’autre en vertu du RPC.
+[3] Les évaluations imposaient le paiement de cotisations, d’intérêts et de pénalités en vertu de la LAE et du RPC. M. Webbe a dit qu’après avoir reçu ces deux évaluations au début septembre, il a décidé de présenter une demande au Comité d’équité de l’Agence du revenu du Canada quant aux intérêts imposés par les évaluations. M. Webbe a dit avoir présenté sa demande dans une lettre. Au début octobre, il a reçu une réponse du Comité d’équité, qui lui répondait essentiellement qu’il ne recevrait aucune dispense à l’égard des intérêts. M. Webbe a dit qu’il avait alors décidé, à la mi‑octobre 2005, d’interjeter appel des deux évaluations. Il a témoigné qu’il avait interjeté appel des évaluations par écrit, et qu’il avait envoyé les avis d’appel au bureau de London de Revenu Canada (aujourd’hui appelé l’Agence du revenu du Canada (l’« ARC »)) par poste ordinaire.
+[4] Il semble que M. Webbe n’ait pas conservé de copie des lettres, ou, plus exactement, je crois qu’il a témoigné que son ordinateur avait subi un plantage après l’envoi des lettres, et que les copies électroniques des lettres avaient été perdues lors de ce plantage; de plus, M. Webbe n’avait pas conservé de copies papier des lettres. Néanmoins, M. Webbe a dit que les lettres indiquaient qu’il n’était pas d’accord avec les résultats de la vérification et qu’il voulait en appeler. Il invoquait alors l’article 92 de la LAE, qui dit que lorsque le ministre a évalué une somme payable par un employeur au titre de l’article 85, l’employeur peut, dans les quatre‑vingt‑dix jours suivant la date à laquelle il reçoit l’avis d’évaluation, demander au ministre de reconsidérer l’évaluation quant à la question de savoir s’il y a matière à évaluation ou quel devrait être le montant de celle‑ci. M. Webbe invoquait aussi l’article 27.1 du RPC, qui est pratiquement identique à l’article 92 de la LAE.
+[5] Selon le témoignage de M. Webbe le répartiteur serait ensuite retourné sur les lieux en novembre 2005, apparemment pour faire une visite de suivi de routine, et il aurait alors dit à M. Webbe que ce dernier perdait son temps en portant les évaluations en appel. M. Nivaro aurait ensuite dit qu’il avait le pouvoir d’établir d’autres évaluations pour des années antérieures, et, bien que M. Webbe n’ait pas cité les paroles exactes de M. Nivaro, M. Webbe a sous‑entendu que c’est par crainte de ce que M. Nivaro aurait pu faire qu’il a pris sa décision suivante, c’est‑à‑dire de retirer les appels qu’il avait interjetés le mois précédent.
+[6] Lors de son interrogatoire principal, M. Webbe a dit qu’il avait téléphoné à M. Randolph, du bureau de London de l’ARC. C’est un répondeur automatique qui avait répondu à cet appel, et M. Webbe avait laissé un message dans lequel il disait vouloir retirer ses appels. M. Webbe a expliqué qu’il n’avait jamais reçu d’accusé de réception de son message et qu’il n’a jamais reçu d’autre communication de l’ARC quant aux appels qu’il avait interjetés.
+[7] Lorsque M. Webbe a été contre‑interrogé, il a mentionné une lettre qu’il aurait envoyée à l’ARC pour retirer ses appels. Bien que cette contradiction ne soit pas très importante, il me faut en tenir compte à la lumière du fait que je n’ai vu aucun document prouvant que des appels avaient été interjetés. Toutefois, aux fins de la présente affaire, je tiendrai pour acquis que M. Webbe avait bel et bien interjeté appel des deux évaluations en cause. Il est certain que si des appels avaient été interjetés, ils ont été retirés.
+[8] Selon le témoignage de M. Webbe, celui‑ci aurait eu, à la mi‑février 2007, une conversation avec un superviseur du bureau de Toronto de l’ARC après y avoir téléphoné pour obtenir de l’information quant à la façon de remplir les formulaires T4 Sommaire. Durant cette conversation, le superviseur aurait dit à M. Webbe qu’à son avis, les personnes à l’égard desquelles il avait fait l’objet d’évaluations en septembre 2005 n’étaient pas des employés, ou, autrement dit, le superviseur aurait dit à M. Webbe qu’il avait de bonnes chances de voir des appels interjetés en vertu des deux lois réussir. Toujours selon M. Webbe, le superviseur lui aurait dit qu’il avait encore le temps d’interjeter appel.
+[9] Il m’est difficile de ne pas conclure que les souvenirs de M. Webbe quant à cette conversation sont erronés, ou que le superviseur à qui il a parlé n’était pas au courant de la chronologie des événements en cause, car les délais prévus par la LAE et le RPC pour contester des évaluations sont très clairs et très courts.
+[10] Selon l’article 92 de la LAE et l’article 27.1 du RPC, l’appel doit être porté devant le ministre dans les quatre‑vingt‑dix jours suivant la date de réception de l’avis d’évaluation. M. Webbe affirme que c’est ce qu’il a fait. Cependant, les demandes sur lesquelles je dois me prononcer visent des appels qui seraient portés devant la Cour canadienne de l’impôt, lesquels sont visés par l’article 103 de la LAE et par l’article 28 du RPC. Ces deux articles prévoient que la Commission ou une personne que concerne une décision rendue au titre des articles 91 ou 92 de la LAE (les dispositions équivalentes du RPC étant les articles 27 et 27.1), peut, dans les quatre‑vingt‑dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre‑vingt‑dix jours suivant l’expiration de ces quatre‑vingt‑dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[11] En bref, l’appel d’une évaluation doit être porté devant le ministre dans les quatre‑vingt‑dix jours, et une décision défavorable du ministre quant à ce premier appel doit être portée en appel devant la Cour dans les quatre‑vingt‑dix jours, ou, à défaut, on peut, dans les quatre‑vingt‑dix jours suivant l’expiration de ce premier délai, demander un délai supplémentaire à la Cour pour interjeter appel.
+[12] Toutefois, il n’est pas possible de porter une évaluation en appel directement devant la Cour. En l’espèce, si la cause de l’appelante est considérée sous son meilleur jour, les évaluations auraient été portées en appel devant le ministre dans les délais prescrits par la loi. M. Webbe aurait ensuite retiré ses appels, et le ministre n’a donc rendu aucune décision. En l’absence d’une décision du ministre, il n’y a rien dont on aurait pu interjeter appel devant la Cour. Il est évident que s’il n’existe rien dont on puisse appeler devant la Cour, cette dernière ne peut pas accorder de délai supplémentaire pour interjeter appel.
+[13] Je ne suis pas particulièrement satisfait du résultat de la présente affaire, parce que je suis certain que la situation de fait qui m’a été présentée constituerait un appel défendable si elle pouvait d’abord faire l’objet d’un appel. Autrement dit, l’appel ne serait pas, à première vue, sans bien‑fondé. En fait, compte tenu des décisions récentes portant sur la question de savoir qui est un employé et qui est engagé selon un contrat de service – ou en tant qu’entrepreneur indépendant, comme ces travailleurs sont aussi appelés – on pourrait soutenir que tout appel portant sur cette question pourrait être bien fondé, comme l’a récemment souligné le juge en chef de la Cour. Néanmoins, même lorsque je considère la cause de l’appelante sous son meilleur jour, les faits ne laissent aucun doute qu’aucun appel ne peut être interjeté parce qu’il n’y a rien dont on puisse interjeter appel.
+[14] Même si un appel avait été présenté au ministre au moyen d’une demande, et que le ministre n’avait pas pris de décision quant à cette demande, la Cour ne serait d’aucun secours. Dans ce cas-là, le recours se trouverait ailleurs. On n’a pas prétendu, durant les plaidoiries, que M. Webbe avait été intimidé, mais même si tel avait été le cas, le recours n’aurait pas été de s’adresser à la Cour. Malheureusement, je dois rejeter les deux demandes.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour d’août 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI410
+Nos DES DOSSIERS DE LA COUR :
+2007-1633(EI)APP et
+2007-1634(CPP)APP
+INTITULÉ :
+KMW Services Inc.,
+s/n KMW Health and Critical Care, et
+le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 décembre 2007
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE :
+Le 11 décembre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Yehuda Levinson
+Avocate de l’intimé :
+Me Kandia Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Yehuda Levinson
+Cabinet :
+Levinson & Associates
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

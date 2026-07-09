@@ -1,0 +1,143 @@
+---
+title: "Laboratoire MP Langelier Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27832/index.do"
+last_modified: "2005-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 193"
+citation2: ""
+neutral_citation: "2005 CCI 193"
+decision_date: "2005-04-07"
+language: "fr"
+item_id: "27832"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 372
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:03:10.574000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f712fa08eaa4ded295b976046451e46ce6f5ec8024ce5cb18fe53c2e38e3d607"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laboratoire MP Langelier Inc. c. M.R.N.
+
+- Citation: 2005 CCI 193
+- Decision date: 2005-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 372, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboratoire MP Langelier Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-07
+Référence neutre
+2005 CCI 193
+Numéro de dossier
+2004-2387(EI)
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004‑2387(EI)
+ENTRE :
+LABORATOIRE M P LANGELIER INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTIANE JOYAL PERRAULT et
+MICHEL LANGELIER,
+intervenants.
+Appel entendu le 7 décembre 2004 à Montréal (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Représentant de l’appelante :
+Alain Savoie
+Avocat de l’intimé :
+Me Simon Petit
+Représentant des intervenants :
+Alain Savoie
+JUGEMENT
+L’appel de l’appelante interjeté à l’encontre de la décision du ministre du Revenu national selon laquelle Mme Perrault exerçait un emploi assurable est rejeté et son appel interjeté à l’encontre de la décision du ministre selon laquelle l’emploi de M. Langelier est inclus dans les emplois assurables est accueilli.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2005.
+« Gerald J. Rip »
+Juge Rip
+Référence : 2005CCI193
+Date : 20050407
+Dossier : 2004‑2387(EI)
+ENTRE :
+LABORATOIRE M P LANGELIER INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CHRISTIANE JOYAL PERRAULT et
+MICHEL LANGELIER,
+intervenants.
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Il s’agit d’appels, interjetés par Laboratoire M P Langelier Inc. en vertu de la Loi sur l’assurance‑emploi (« Loi »), à l’encontre de décisions du ministre du Revenu national qui, conformément au paragraphe 5(3) de la Loi, était convaincu que Michel Langelier et Christiane Joyal Perrault exerçaient des emplois assurables auprès de l’appelante pendant la période du 1er janvier 2002 au 18 juin 2003.
+[2] L’appelante exploite un laboratoire d’orthèses et de prothèses. Elle possède trois succursales; une succursale fabrique les orthèses et les prothèses alors que les deux autres sont ouvertes au public pour la vente.
+[3] Les actionnaires de l’appelante étaient deux sociétés, soit 2947-9052 Québec Inc. (« 2947 »), qui était propriétaire de 55 p. 100 des actions, et 9024‑1548 Québec Inc. (« 9024 »), qui en avait 45 p. 100. Marie-Paule Langelier, la mère de Michel Langelier et la sœur de Christiane Joyal Perrault, était la seule actionnaire de 2947. Michel Langelier possédait 80 p. 100 des actions de 9024, et Christiane Joyal Perrault, 20 p. 100. Mme Langelier contrôlait l’appelante pendant la période en litige.
+[4] Mme Perrault travaillait à plein temps à la succursale qui fabrique les orthèses et les prothèses et à la maison. Ses principales tâches consistaient à établir et gérer les budgets, à tenir les livres comptables et préparer les états financiers, à s’occuper de la rémunération et à superviser les quatre employés de son service. Elle a dit que ses heures de travail n’étaient pas fixes, mais qu’elle travaillait de 35 à 70 heures par semaine. Une semaine de 70 heures était exceptionnelle. Elle travaillait à la maison une ou deux fois par semaine. Elle n’était pas payée pour ses heures supplémentaires, alors que les autres employés de l’appelante étaient payés pour les leurs.
+[5] La rémunération de Mme Perrault était de 614 $ par semaine; elle avait droit à quatre semaines de vacances payées par année; elle a pris trois semaines. Mme Perrault avait l’autorité de signer les chèques pour l’appelante.
+[6] Michel Langelier travaillait à plein temps pour l’appelante depuis 1986. Il était directeur général de l’appelante. Ses principales tâches consistaient à superviser les six gérants des trois succursales, à planifier les opérations de l’appelante, à faire la planification stratégique de l’entreprise, à établir le budget, à s’occuper du marketing pour l’appelante et à contrôler la qualité des produits. Il travaillait aussi comme orthésiste le samedi. Il a assisté à la réunion des orthésistes. Son salaire, déterminé par sa mère, était de 702 $ par semaine, soit environ 35 000 $ par année.
+[7] Il avait droit à cinq semaines de vacances payées par année. Les autres employés avaient droit à quatre semaines. Les autres employés ont reçu un boni dans les années 2002 et 2003; M. Langelier n’a reçu un boni qu'en 2003. Les gérants des succursales de l’appelante gagnaient entre 40 000 $ et 55 000 $ par année, ce qui était supérieur au salaire de M. Langelier, bien que celui-ci ait été leur superviseur.
+[8] M. Langelier et Mme Perrault avaient chacun une assurance-vie dont les primes étaient payées par l’appelante. L’appelante n’a pas payé de telles primes pour les autres employés. M. Langelier recevait son salaire quand il était malade; les autres employés n’avaient pas cet avantage.
+[9] Il semble que, lorsque sa mère lui a transféré ses actions de l’appelante — en 2002, selon le témoignage de M. Langelier — il a grevé sa maison d’une hypothèque de 50 000 $ à titre de garantie d'un prêt en faveur de l’appelante. Nous ne savons pas la date ou le montant précis de l’hypothèque, parce que aucune copie de l’acte d'hypothèque n’a été présentée comme élément de preuve, mais je ne crois pas que cette omission soit fatale à l’appelante.
+[10] M. Langelier disait que ses heures de travail n’était pas fixes, mais il travaillait de 40 à 50 heures par semaine, environ.
+[11] Mme Langelier était, directement ou indirectement, l’actionnaire majoritaire de l’appelante jusqu’au 1er janvier 2004. Au cours de 2002 et de 2003, elle a effectué des dons d’actions en faveur de son fils et de sa sœur.
+[12] Mme Langelier a déclaré qu’elle ne supervisait ni son fils ni sa sœur parce qu'elle leur faisait entièrement confiance. Elle les considérait comme des copropriétaires de l’entreprise et non comme des employés.
+[13] Jacques Rousseau, un agent des appels de l’Agence du revenu du Canada (« ARC »), a examiné le dossier de l’appelante. Les formulaires T4 établis par l’appelante indiquaient que M. Langelier avait reçu des bonis en 2002 et en 2003. Il a conclu que les salaires payés à M. Langelier et à Mme Perrault étaient fondés sur la capacité de l’appelante de payer et n'étaient pas en fonction de leur relation avec Mme Langelier. Il a indiqué que trois employés gagnaient des salaires supérieurs à celui de M. Langelier et que 57 employés gagnaient des salaires inférieurs à celui de M. Langelier.
+[14] En ce qui concerne Mme Perrault, je ne peux conclure, selon les faits, que le ministre a commis une erreur lorsqu’il a déterminé qu’elle exerçait un emploi assurable auprès de l’appelante. Elle possédait certes des actions de 9024, qui détenait une participation minoritaire dans l’appelante. Il n’existait, toutefois, aucun élément de preuve selon lequel son salaire était trop élevé ou trop bas. Le fait qu’elle n’ait pris que trois semaines de vacances payées alors qu’elle avait droit à quatre ne constitue pas nécessairement un facteur déterminant. Mme Perrault travaillait des heures supplémentaires sans rémunération. Bien que ce ne soit pas fréquent, le fait qu’un employé travaille des heures supplémentaires nonpayées n’est pas anormal. Mme Perrault était la sœur de la personne qui contrôlait l’appelante et il n’existe aucun doute que Mme Langelier lui faisait confiance, mais beaucoup d’employeurs ont des employés auxquels ils font confiance. Il n’est pas exceptionnel aujourd’hui qu’un employé travaille à domicile. Il n’existe aucun fait important ni aucun ensemble de faits qui distingue la relation de Mme Perrault avec l’appelante de celle des autres employés.
+[15] Toutefois, la relation de M. Langelier avec l’appelante était différente de celle des autres employés. Il était un actionnaire important de 9024; il ne travaillait pas des heures normales ou fixes, et il représentait l’appelante aux réunions d’orthésistes. Il a grevé sa maison d’une hypothèque afin de garantir une dette de l’appelante. L’avocat de l’intimé a soutenu que M. Langelier avait garanti la dette en sa qualité d’actionnaire et non d’employé. Je ne souscris pas à cette conclusion. Il a garanti la dette non seulement parce qu’il était actionnaire, mais également parce qu’il était employé de l’appelante, et il estimait que l’appelante serait la source de son gagne‑pain pendant encore de très nombreuses années. En effet, il se voyait devenir un jour l’actionnaire contrôlant de l’appelante.
+[16] Le travail de M. Langelier était essentiel à l’exploitation continue de l’appelante. Il supervisait les gérants des succursales; il établissait le budget de l’appelante; et il effectuait le marketing pour l’entreprise. Lorsque sa mère prenait des vacances payées, il dirigeait l’entreprise. Mme Langelier a reconnu que, bien qu’elle fût au sommet de la hiérarchie de la société et que ce fût elle qui eût le dernier mot, elle était souvent absente et M. Langelier la remplaçait.
+[17] Pour ces raisons, la relation de M. Langelier avec l’appelante était différente de celle des autres employés. En concluant comme il l’a fait, le ministre du Revenu national n’a pas tenu compte de toutes les circonstances.
+[18] L’appelante n’aurait pas conclu un contrat de travail à peu près semblable avec une personne avec laquelle elle n’avait aucun lien de dépendance. L’appelante se fiait à l’expérience et aux connaissances qu'apportait M. Langelier à son travail, et M. Langelier était disposé à travailler selon ce que commandaient les circonstances parce qu'il avait un lien de dépendance avec l’appelante.
+[19] Par conséquent, l’appel de l’appelante interjeté à l’encontre de la décision du ministre selon laquelle Mme Perrault exerçait un emploi assurable est rejeté et son appel interjeté à l’encontre de la décision du ministre selon laquelle l’emploi de M. Langelier est inclus dans les emplois assurables est accueilli.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2005.
+« Gerald J. Rip »
+Juge Rip
+RÉFÉRENCE : 2005CII193
+No DU DOSSIER DE LA COUR : 2004‑2387(EI)
+INTITULÉ DE LA CAUSE : LABORATOIRE M P LANGELIER INC.
+ET M.R.N. ET CHRISTIANE JOYAL PERRAULT ET
+MICHEL LANGELIER
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 7 décembre 2004
+MOTIFS DU JUGEMENT PAR : l’honorable juge Gerald J. Rip
+DATE DU JUGEMENT : le 7 avril 2005
+COMPARUTIONS :
+Représentant de l’appelante : Alain Savoie
+Avocat de l’intimé : Me Simon Petit
+Représentant des intervenants : Alain Savoie
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Alain Savoie
+Étude : Melacom – Division des Personnes Liées.
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

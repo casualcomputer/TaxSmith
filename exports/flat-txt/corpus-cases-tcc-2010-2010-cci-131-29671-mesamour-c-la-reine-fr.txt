@@ -1,0 +1,122 @@
+Title: Mesamour c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29671/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-131-29671-mesamour-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-03-05
+
+# Mesamour c. La Reine
+
+- Citation: 2010 CCI 131
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6238, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mesamour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-05
+Référence neutre
+2010 CCI 131
+Numéro de dossier
+2009-2356(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2356(IT)I
+ENTRE :
+CAPUCINE MESAMOUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 décembre 2009, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocates de l'appelante :
+Me Karine Lévesque
+Émilie Ghaleb, stagiaire en droit
+Avocates de l'intimée :
+Me Marjolaine Breton
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre des nouvelles déterminations datées du 20 février 2008 en vertu desquelles le ministre du Revenu national a révisé la prestation fiscale pour enfants et le supplément de la prestation nationale pour enfants pour les périodes de juillet 2006 à juin 2007 et de juillet 2007 à janvier 2008 pour les années de base 2005 et 2006 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+Référence : 2010 CCI 131
+Date : 20100305
+Dossier : 2009-2356(IT)I
+ENTRE :
+CAPUCINE MESAMOUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Par des avis de nouvelles déterminations datés du 20 février 2008, le ministre du Revenu national (le « ministre ») a révisé la prestation fiscale pour enfants et le supplément de la prestation nationale pour enfants pour les périodes de juillet 2006 à juin 2007 et de juillet 2007 à janvier 2008 pour les années de base 2005 et 2006 respectivement. Selon ces avis, l’appelante était redevable des prestations fiscales pour enfants et des suppléments de la prestation nationale pour enfants payés en trop s’élevant à 7 417,49 $ pour l’année de base 2005 et à 7 489,27 $ pour l’année de base 2006.
+[2] Pour établir et maintenir les nouvelles déterminations faisant l’objet du présent litige, le ministre s’est fondé sur les hypothèses de faits suivantes :
+a) L’appelante agissait à titre de famille d’entraide transitoire pour des enfants mineurs qui ont demandé asile au Canada;
+b) Les mineurs étaient sous la responsabilité du Programme Régional d’Accueil et d’Intégration des Demandeurs d’Asile (PRAIDA), dont le mandat consiste, par l’entremise de CLSC ou autres, à offrir des services de santé et des services sociaux aux demandeurs d’asile et aux personnes en besoin de régularisation de statut d’immigration en plus d’assurer une aide financière de subsistance aux mineurs non-accompagnés jusqu’à leur majorité ou jusqu’à l’obtention de leur résidence permanente;
+c) Les enfants visés par les avis de détermination pour lesquelles l’appelante est redevable des sommes versées en trop sont : Carmella, Bellard, Fanta, Nancy Marguerite et Rachel. Quant aux demandes d’admissibilité visant Christina et Améris, elles ont été refusées avant même que des prestations ne lui soient versées;
+d) Les informations colligées par l’Agence ont démontré que durant les périodes en litige, l’appelante n’était pas le particulier admissible puisqu’elle n’avait pas entièrement la charge des enfants qui lui étaient confiés pas plus qu’elle en avait la garde et la surveillance, en droit ou en fait.
+[3] La seule question en litige consiste à déterminer si l’appelante est redevable des sommes que le ministre lui réclame relativement aux années de base 2005 et 2006 respectivement. Les dispositions législatives pertinentes sont les articles 122.5, 122.6 et 122.61 ainsi que les paragraphes 252(1) et 252(2) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, telle que modifiée (la « Loi »).
+[4] L’appelante agissait à titre de famille d’entraide pour des enfants qui arrivaient seuls au pays à titre de réfugiés et qui n’avaient aucune famille au Canada. Selon elle, elle avait entièrement la charge de ces enfants; elle assumait principalement la responsabilité pour les soins et l’éducation de ces enfants et elle était la première répondante auprès de l’institution scolaire. L’appelante avait la garde des enfants dans les faits et s’occupait de ceux‑ci comme ses propres enfants.
+[5] Monsieur Claude Mallette, directeur du programme régional d’accueil et d’intégration des demandeurs d’asile (« PRAIDA ») qui oeuvre au sein du Centre de santé et des services sociaux de la Montagne, a témoigné à l’audience et a expliqué le mandat du PRAIDA et les services qu’il offre. Le PRAIDA offre notamment des services de santé et des services sociaux aux demandeurs d’asile et aux personnes en besoin de régularisation de leur statut d’immigration. Parmi les services offerts figurent des services d’évaluation, de référence, d’orientation vers des ressources d’hébergement dont la durée peut s’étendre jusqu’à ce que les enfants atteignent leur majorité ou jusqu’à la reconnaissance de leur statut de réfugié ou jusqu’à l’obtention de la résidence permanente. Le PRAIDA a conclu ou est en voie de conclure des ententes formelles avec la Commission de l’immigration et du statut de réfugié du Canada et avec le Centre d’Immigration Canada et l’Agence des services frontaliers du Canada pour que le PRAIDA soit reconnu comme représentant désigné et avec les Centres Jeunesses de Montréal/Institut universitaire pour la protection de la jeunesse quant aux partage du rôle et des responsabilités pour la clientèle des mineurs non‑accompagnés.
+[6] Monsieur Malette a expliqué que les enfants mineurs non‑accompagnés sont pris en charge par le PRAIDA à leur arrivée au Canada aux aéroports internationaux et aux postes frontaliers. Un hébergement temporaire leur est fourni à leur arrivée et un hébergement et un encadrement de plus longue durée leur est fourni par la suite auprès d’une famille d’entraide, d’une famille d’accueil des Centres Jeunesses de Montréal ou de certaines maisons ou foyers spécialisés. Une famille d’entraide vise à fournir un milieu de vie palliatif aux parents, soit l’hébergement, l’alimentation, les soins d’hygiène et de santé, l’éducation et les activités sportives et éducatives. Pour l’hébergement et l’encadrement, le PRAIDA verse à la famille d’entraide une contribution de 170 $ par mois pour un premier enfant et 110 $ par mois pour chaque enfant supplémentaire. Le suivi psychologique des enfants est assuré par des travailleurs sociaux et un représentant désigné du PRAIDA s’occupe du suivi des dossiers des enfants auprès des organismes gouvernementaux d’immigration.
+[7] Selon monsieur Mallette, le PRAIDA n’a pas la garde légale des enfants, ni d’ailleurs les familles d’entraide. Suite à un projet pilote du Service d’aide aux réfugiés et aux immigrants du Montréal métropolitain, un organisme dont la fusion avec la Clinique Santé Accueil a formé le PRAIDA, en vertu duquel des demandes de prestations gouvernementales ont été acceptées, la pratique a été systématisée de sorte que maintenant plusieurs familles d’entraide ont réclamé des prestations. À la connaissance du témoin, c’est la première fois que l’Agence du revenu du Canada (l'« ARC ») demande le remboursement desdites prestations.
+[8] Madame Mesamour a également témoigné. Elle a confirmé être une famille d’entraide depuis 2005. Elle vit seule avec son fils qui l’aide dans ses tâches quotidiennes. Elle travaille à temps partiel et elle reçoit des prestations d’aide sociale. Elle a expliqué que le PRAIDA s’occupait surtout du suivi psycho‑social des enfants et que, pour ce faire, un représentant venait la visiter aux six mois. Elle a également confirmé que le PRAIDA pouvait lui retirer les enfants sans son accord et qu’elle ne pouvait supporter elle-même les frais d’optométrie et de dentisterie des enfants; ces frais étant défrayés par le PRAIDA à même un budget d’aide ponctuelle.
+[9] L’agente des oppositions de l’ARC, qui a révisé le dossier de l’appelante, a elle aussi témoigné à l’audience. Par une demande de renseignements sous forme de questionnaire, l’ARC a demandé à l’appelante de lui fournir des preuves comme quoi elle s’occupait des soins et de l’éducation des enfants (ex. lettre de l’administration de l’école ou de la garderie confirmant que les enfants fréquentaient leur établissement de même que le nom et l’adresse du tuteur ou du répondant; lettre du médecin ou du dentiste de la famille confirmant les dates de visites ou d’examen des enfants et le nom et l’adresse de la personne avec qui les enfants habitent). Tel que requis, l’appelante a répondu au questionnaire et a soumis deux attestations scolaires qui ne comportaient pas le nom et l’adresse du répondant. Sur la base des informations fournies par l’appelante et des documents expliquant la mission, le rôle d’encadrement et les services offerts par le PRAIDA qui ont été soumis, l’agente des oppositions a rejeté le dossier de l’appelante. En terminant son témoignage, l’agente des oppositions a, de plus, souligné que, dans le cas des familles d’accueil, les prestations gouvernementales sont versées aux Centres Jeunesses et non pas aux familles d’accueil.
+Analyse et conclusion
+[10] Sur la base de la définition de « particulier admissible » à l’article 122.6 de la Loi pour les fins de la prestation fiscale canadienne pour enfants, pour être un particulier admissible, il faut satisfaire aux deux conditions suivantes : résider avec la personne à charge et assumer principalement la responsabilité pour le soin et l’éducation de la personne à charge admissible à un moment donné. Les critères énumérés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge.
+[11] Malgré le fait que la définition de « particulier admissible » réfère uniquement au père ou à la mère de la personne à charge, la Loi extensionne le sens du terme « enfant » et le sens des termes « père » et « mère ».
+[12] Le paragraphe 252(1) veut que la personne qui est entièrement à la charge d’un contribuable et dont celui‑ci a la garde et la surveillance, en droit ou en fait, est considérée être un enfant du contribuable. Le paragraphe 252(2) de la Loi fait en sorte que ce contribuable soit considéré comme le père ou la mère de l’enfant. Les extraits pertinents de ces deux paragraphes sont les suivants :
+Article 252 : Extension du sens d’« enfant »
+(1) Dans la présente loi, est considéré comme un enfant du contribuable :
+a) [. . .]
+b) une personne qui est entièrement à la charge du contribuable et dont celui‑ci a la garde et la surveillance, en droit ou en fait, ou les avait juste avant que cette personne ait atteint l’âge de 18 ans;
+c) [. . .]
+(2) Lien de parenté. Dans la présente loi, les mots se rapportant :
+a) au père ou à la mère d’un contribuable visent également les personnes suivantes :
+i) celle dont le contribuable est l’enfant,
+[. . .]
+[13] Par conséquent, une personne qui, comme l’appelante, n’est pas la mère des enfants à l’égard desquels elle a réclamé des prestations fiscales peut être considérée comme étant leur mère si ces enfants sont entièrement à sa charge et sous sa garde et sa surveillance.
+[14] Dans l’affaire qui nous occupe, il me semble raisonnable de croire que l’appelante avait la garde et la surveillance des enfants que le PRAIDA lui a confié. Par contre, je ne crois pas que l’on puisse prétendre que ces enfants étaient entièrement à la charge de l’appelante.
+[15] Je ne vois pas comment, une personne vivant déjà avec une personne à charge, ayant un travail à temps partiel et recevant des prestations d’assistance sociale puisse être considérée comme ayant entièrement à sa charge d’autres enfants (3 ou 4 à la fois). Les contributions du PRAIDA pour chaque enfant accueilli sont nettement insuffisantes pour permettre à l’appelante de s’occuper de leurs soins et de leur éducation. D’ailleurs, l’appelante n’a pas été en mesure de répondre d’une façon satisfaisante aux demandes de renseignements de l’ARC.
+[16] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 131
+Nº DU DOSSIER DE LA COUR : 2009-2356(IT)I
+INTITULÉ DE LA CAUSE : Capucine Mesamour c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 3 décembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 5 mars 2010
+COMPARUTIONS :
+Avocates de l'appelante :
+Me Karine Lévesque
+Émilie Ghaleb, stagiaire en droit
+Avocates de l'intimée :
+Me Marjolaine Breton
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Karine Lévesque
+Émilie Ghaleb, stagiaire en droit
+Cabinet : Goulet, Lafortune & Paquet
+Montréal‑Nord (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

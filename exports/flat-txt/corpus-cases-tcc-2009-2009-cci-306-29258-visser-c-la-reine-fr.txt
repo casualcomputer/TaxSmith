@@ -1,0 +1,145 @@
+Title: Visser c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29258/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-306-29258-visser-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-05
+
+# Visser c. La Reine
+
+- Citation: 2009 CCI 306
+- Decision date: 2009-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6998, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Visser c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-05
+Référence neutre
+2009 CCI 306
+Numéro de dossier
+2008-3819(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3819(IT)I
+ENTRE :
+GEORGE VISSER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 4 juin 2009, à Edmonton (Alberta).
+Devant : L’honorable juge suppléant D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Holly A. Peterson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli, et une somme de 400 $ est accordée à l’appelant pour rembourser les débours engagés dans le cadre du présent appel.
+La Cour ordonne que le droit de dépôt de 100 $ payé par l’appelant lui soit remboursé.
+Signé à Edmonton (Alberta), ce 5e jour de juin 2009.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 17e jour de juillet 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 306
+Date : 20090605
+Dossier : 2008-3819(IT)I
+ENTRE :
+GEORGE VISSER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Le présent appel, qui a été instruit sous le régime de la procédure informelle, a été entendu à Edmonton, en Alberta, le 4 juin 2009. L’appelant a témoigné et a fait témoigner son comptable, Anthony Jullion, un comptable général accrédité. L’intimée a fait témoigner Cheryl Ritchie, l’agente des litiges de l’Agence du revenu du Canada.
+[2] Dans les paragraphes 11 à 14 de la réponse à l’avis d’appel, l’intimée a exposé le contexte de l’affaire de la façon suivante :
+[TRADUCTION]
+11. Pour établir la nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2006 et pour ratifier cette nouvelle cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) CWT a délivré un feuillet T4RIF faisant état d’une somme de 1 803 $ à l’appelant pour l’année d’imposition 2006;
+b) cette somme de 1 803 $ constitue un revenu de pension;
+c) l’appelant était rentier d’un fonds enregistré de revenu de retraite (le « FERR »);
+d) l’appelant a atteint l’âge de 71 ans pendant l’année d’imposition 2006, et un montant minimal doit être retiré du FERR.
+B. QUESTION EN LITIGE
+12. La question en litige est la suivante :
+a) savoir si l’appelant était tenu d’inclure un revenu de pension de 1 803 $, dont fait état le feuillet T4RIF, dans le calcul de ses revenus pour l’année d’imposition 2006.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+13. Il se fonde sur l’article 146.3 et l’alinéa 56(1)t) de la Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.)) et sur les articles 215 et 7308 du Règlement de l’impôt sur le revenu, dans leurs versions modifiées en vigueur pour l’année d’imposition 2006.
+14. Il soutient que l’appelant :
+a) a reçu un revenu de pension de 1 803 $ de CWT, comme en fait état le feuillet T4RIF;
+b) est tenu d’inclure la somme de 1 803 $ dans le calcul de ses revenus pour l’année d’imposition 2006.
+[3] Les hypothèses de fait exposées au paragraphe 11 de la réponse à l’avis d’appel sont toutes exactes, sauf celle à l’alinéa b).
+[4] L’appelant a témoigné que des actions de Barrhead Park Processing Inc. (« Barrhead ») avaient été achetées pour son REER. Ces actions ont ensuite été transférées « en nature » à son fonds enregistré de revenu de retraite (le « FERR »), lequel était géré par la Canadian Western Trust Company (« CWT »).
+[5] L’appelant était administrateur de Barrhead. En 2003, Barrhead est devenue insolvable, et ses derniers états financiers ont été faits pour l’exercice se terminant le 31 août 2004. Le 2 mars 2006, un certificat de dissolution a été délivré à l’égard de Barrhead (pièce C‑1).
+[6] CWT a alors délivré à l’appelant un feuillet T4RIF qui faisait état d’une somme de 1 803 $ pour l’année d’imposition 2006. L’appelant n’a reçu aucune action et aucun bénéfice de CWT relativement à la prétendue somme de 1 803 $, aux actions de Barrhead ou au contenu du FERR géré par CWT.
+[7] L’Agence du revenu du Canada a établi la nouvelle cotisation en cause en se fondant sur le feuillet T4RIF.
+[8] Le paragraphe 146.3(5) de la Loi de l’impôt sur le revenu (la « Loi ») est rédigé de la sorte :
+146.3(5) – Prestations imposables – Il doit être inclus dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes qu’il a reçues au cours de l’année dans le cadre d’un fonds enregistré de revenu de retraite, sauf la partie de ces sommes qu’il est raisonnable de considérer comme étant :
+a) une partie de la somme comprise dans le calcul du revenu d’un autre contribuable en vertu des paragraphes (6) et (6.2);
+b) une somme reçue à l’égard du revenu de la fiducie en vertu du fonds pour une année d’imposition pour laquelle la fiducie n’était pas exonérée de l’impôt en vertu du paragraphe (3.1);
+c) un montant qui se rapporte à des intérêts, ou à un autre montant inclus dans le calcul du revenu autrement que par l’effet du présent article, et qui constituerait un montant libéré d’impôt, au sens de l’alinéa b) de la définition de cette expression au paragraphe 146(1), si le fonds était un régime enregistré d’épargne‑retraite.
+[9] Selon l’alinéa 56(1)t) de la Loi, l’élément suivant doit être inclus dans le calcul des revenus du contribuable :
+56(1)t) – Fonds enregistré de revenu de retraite – les sommes relatives à un fonds enregistré de revenu de retraite qui doivent, en vertu de l’article 146.3, être incluses dans le calcul du revenu du contribuable pour l’année;
+[…]
+[10] Au paragraphe 248(1) de la Loi, le terme « montant » est ainsi défini :
+« montant » Argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent. Toutefois :
+a) malgré l’alinéa b), dans les cas où les paragraphes 112(2.1), (2.2) ou (2.4), les articles 187.2 ou 187.3 ou les paragraphes 258(3) ou (5) s’appliquent à un dividende en actions, le montant du dividende en actions est le plus élevé des éléments suivants :
+(i) le montant correspondant à l’augmentation, découlant du versement du dividende, du capital versé de la société qui a versé le dividende,
+(ii) la juste valeur marchande de l’action ou des actions payées comme dividendes en actions au moment du versement;
+b) dans le cas où l’article 191.1 s’applique à un dividende en actions, le montant du dividende en actions est, pour l’application de la partie VI.1, le plus élevé des montants visés aux sous-alinéas (i) et (ii) et, à toute autre fin, le montant visé au sous-alinéa (i):
+(i) le montant correspondant à l’augmentation, découlant du versement du dividende, du capital versé de la société qui a versé le dividende,
+(ii) la juste valeur marchande de l’action ou des actions payées comme dividendes en actions au moment du versement;
+c) dans les autres cas, le montant d’un dividende en actions versé par une société est le montant correspondant à l’augmentation, découlant du dividende, du capital versé de la société qui a versé le dividende.
+[11] Par conséquent, un « montant » ou la valeur d’une action doivent être inclus dans les revenus du contribuable si celui‑ci les a « reçu[s] au cours de l’année dans le cadre d’un fonds enregistré de revenu de retraite » (paragraphe 146.3(5) de la Loi).
+[12] La preuve, qui n’a pas été contestée, démontre que l’appelant a seulement reçu un feuillet T4RIF. Il n’a reçu de CWT ni actions, ni transfert d’actions de Barrhead, ni la somme de 1 803 $.
+[13] Par conséquent, l’appel est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation.
+[14] La municipalité de Barrhead est située à environ 100 kilomètres d’Edmonton; la distance entre Barrhead et le lieu de l’audience prend donc environ une heure trente à parcourir. L’appelant et son comptable sont tous deux venus de Barrhead pour participer à l’audience, qui a duré environ deux heures. Les dépens sont adjugés à l’appelant et les débours qu’il a engagés dans le cadre du présent appel, qui sont fixés à 400 $, doivent lui être remboursés. Le droit de dépôt de 100 $ payé par l’appelant doit aussi lui être remboursé.
+Signé à Edmonton (Alberta), ce 5e jour de juin 2009.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 17e jour de juillet 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 306
+No DU DOSSIER DE LA COUR :
+2008-3819(IT)I
+INTITULÉ :
+George Visser et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 4 juin 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant D.W. Beaubier
+DATE DU JUGEMENT :
+Le 5 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Holly A. Peterson
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

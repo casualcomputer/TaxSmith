@@ -1,0 +1,144 @@
+Title: Johnson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29438/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-496-29438-johnson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-01
+
+# Johnson c. La Reine
+
+- Citation: 2009 CCI 496
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6929, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-01
+Référence neutre
+2009 CCI 496
+Numéro de dossier
+2009-979(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-979(IT)APP
+ENTRE
+ALDON JOHNSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue le 23 septembre 2009, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+ORDONNANCE
+La requête présentée en vue d’obtenir une ordonnance de prorogation du délai pour déposer un avis d’opposition est rejetée.
+Chaque partie assumera ses propres dépens.
+La Cour ordonne au greffe d’envoyer une copie de la présente ordonnance au requérant et à son ancien avocat, qui était l’avocat inscrit au dossier au moment de l’audience.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Jean-François Leclerc-Sirois , LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 496
+Date : 20091001
+Dossier : 2009-979(IT)APP
+ENTRE :
+ALDON JOHNSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] La présente requête a été présentée par Aldon Johnson en vue d’obtenir une prorogation de délai. Le litige porte sur des cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 1999, 2000, 2001 et 2002. La somme en litige dépasse 50 000 $.
+[2] La requête a été déposée par l’ancien avocat de M. Johnson. Après avoir présenté la requête, cet avocat, qui n’a pas comparu à l’audience, a présenté au greffe un avis de son intention de cesser d’agir à titre d’avocat de M. Johnson.
+[3] L’ancien avocat de M. Johnson a avisé celui‑ci qu’il devait comparaître à l’audience, ce que M. Johnson a fait. À l’audience, M. Johnson ne semblait pas du tout comprendre l’objet de sa requête.
+[4] Il est utile de commencer par expliquer l’historique procédural de l’affaire.
+[5] Le 17 mars 2009, l’ancien avocat de M. Johnson a présenté une lettre à la Cour afin d’obtenir la prorogation du délai pour déposer un avis d’appel. Un avis d’appel inscrit sur le formulaire 21(1)a) était annexé à la requête.
+[6] L’ancien avocat de M. Johnson a envoyé une deuxième lettre, datée du 7 avril 2009, pour modifier la requête initiale. Cette nouvelle lettre expliquait que, suite à une conférence téléphonique tenue avec un agent du greffe de la Cour, les deux lettres allaient être considérées comme une requête de prorogation du délai pour présenter un avis d’opposition.
+[7] Le 2 juillet 2009, l’intimée a déposé auprès de la Cour une réponse à la requête de prorogation du délai pour présenter un avis d’opposition. Pour appuyer sa réponse, l’intimée y a joint un affidavit fait par un représentant de l’Agence du revenu du Canada.
+[8] Selon sa réponse, l’intimée s’oppose à la requête de M. Johnson. Il semble que cette opposition soit attribuable au fait que la demande de prorogation de délai présentée par M. Johnson en vertu de l’article 166.2 de la Loi de l’impôt sur le revenu (la « Loi ») n’ait pas été déposée dans le délai fixé au paragraphe 166.1(7) de la Loi.
+[9] Le contexte du litige est décrit en détail dans la première requête. Les passages pertinents sont rédigés de la sorte :
+[traduction]
+Vous trouverez ci-joint un avis d’appel présenté au nom du contribuable nommé ci‑dessus.
+Veuillez considérer la présente lettre comme une requête officielle de notre client pour obtenir la prorogation du délai pour interjeter appel de la cotisation d’impôt sur le revenu établie à son égard pour les années d’imposition 1999, 2000, 20001 et 2002.
+Le contribuable est l’une des trois personnes que le soussigné a représentées dans une instance instruite par la Cour de justice de l’Ontario en application de l’article 490 du Code criminel du Canada. Dans cette instance-là, la Couronne a présenté une demande de confiscation d’environ 60 000 $, sommes qui avaient été saisies des trois personnes le 5 novembre 2001 à l’aéroport international Lester B. Pearson de Toronto. Au moment de la saisie, chacune de ces personnes détenait environ 20 000 $. La Couronne soutenait que les sommes saisies étaient des produits de
+la criminalité. Au début d’octobre 2002, la Couronne a décidé de ne pas déposer d’accusation contre les trois personnes. Les sommes saisies ne servaient donc plus d’éléments de preuve, et auraient dû être remises aux trois personnes. À ce moment, le ministre du Revenu national (le « ministre ») a établi des nouvelles cotisations à l’égard des trois personnes pour les années d’imposition 1999, 2000 et 2001, et ces cotisations exigeaient le paiement de sommes dépassant celles qui avaient été saisies. Le ministre a ensuite délivré une demande formelle de paiement relativement à chacune des trois personnes à la Gendarmerie royale du Canada (la « GRC »), qui détenait les sommes saisies.
+Aucune des trois personnes n’a été accusée d’une infraction criminelle relativement aux sommes saisies. Cependant, la Couronne a déposé une requête en vertu de l’article 490 du Code criminel afin d’obtenir la confiscation des sommes saisies. La requête de la Couronne a été rejetée le 31 juillet 2003, après que les éléments de preuve de la Couronne aient été écartés pour défaut de conformité avec les règles de preuve. Toutefois, en juillet 2004, l’affaire a été renvoyée devant la Cour supérieure de l’Ontario pour être entendue de nouveau. Les trois personnes ont interjeté appel devant la Cour d’appel de l’Ontario, laquelle a confirmé la première décision à l’égard de l’exclusion de la preuve de la Couronne, mais a néanmoins renvoyé l’affaire devant la Cour de justice de l’Ontario pour nouvelle audition. Lorsque l’affaire a de nouveau été entendue en décembre 2006, la Couronne s’est vue ordonner de communiquer aux trois personnes tous les renseignements pertinents, conformément aux exigences de la Charte canadienne des droits et libertés. Nous croyons que ces renseignements auraient permis de découvrir le degré de coopération entre la GRC et le ministre. La Couronne avait jusqu’au 15 février 2007 pour communiquer les renseignements exigés. À cette date‑là, la Couronne n’avait pas encore communiqué ces renseignements, et le procureur de la Couronne chargé du dossier a alors avisé le soussigné que la Couronne allait abandonner sa requête déposée en vertu de l’article 490 du Code criminel. Cependant, l’affaire n’a pas encore été résolue, et la GRC détient encore les sommes saisies et affirme qu’en application de la demande formelle de paiement qui lui a été délivrée, elle doit remettre au ministre la portion des sommes saisies appartenant à notre client.
+Les deux autres personnes ont fait appel avec succès des nouvelles cotisations établies à leur égard pour les années d’imposition 1999, 2000, 2001 et 2002. Vous trouverez ci-jointes les décisions de la Cour dans ces affaires (R. v. Beavis, 2008 CarswellNat 456 et R. v. West, 2006 CarswellNat 3456). La dernière de ces affaires a été entendue en janvier 2008. Ces deux décisions montrent clairement que, pour déterminer les revenus des contribuables, le ministre s’est servi de la méthode de l’actif net, se fondant sur des statistiques générales provenant de Statistiques Canada. Ni l’une ni l’autre de ces personnes-là n’avait d’éléments d’actif importants.
+Il semble que le ministre ait été informé par la GRC de la saisie des sommes en cause, et qu’il a alors pris des mesures pour déterminer les revenus des contribuables – avec très peu de fondements factuels – afin de pouvoir envoyer une demande formelle de paiement à
+la GRC. Cela laissait un dernier recours à la Couronne si jamais, en application de l’article 490 du Code criminel, il avait été ordonné à la GRC de remettre les sommes saisies aux trois personnes.
+Notre client témoignera n’avoir eu aucun revenu pendant les années d’imposition en question. Il est peu instruit, ayant abandonné l’école assez jeune. Lorsque notre client s’est rendu compte que les avis de cotisation lui étaient adressés, et non pas à son père (qui s’appelle lui aussi Aldon Johnson), il a communiqué avec un représentant de l’Agence du revenu du Canada pour lui expliquer qu’il n’avait eu aucun revenu pendant les années d’imposition en cause. On ne lui a fourni aucune aide. Ce n’est que lorsque notre cabinet lui a expliqué ses droits que notre client a appris qu’il pouvait encore porter les cotisations en appel. Nous sommes intervenus après que la GRC nous a avisés qu’elle avait reçu une demande formelle de paiement à l’égard des sommes saisies.
+Notre client a engagé des frais juridiques considérables – qui restent impayés – relativement aux sommes saisies, et il doit maintenant engager d’autres frais juridiques dans la cadre du présent appel. Le jugement porte sur une somme dépassant 54 000 $, et s’il n’est pas renversé, notre client sera forcé de faire faillite.
+Discussion
+[10] Aucune des parties n’a fait référence à la disposition applicable aux requêtes de cette nature. Il s’agit du paragraphe 166.2(5) de la Loi, qui est ainsi rédigé :
+166.2(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[11] En l’espèce, le délai applicable est fixé à l’alinéa 166.2(5)a) de
+la Loi. Essentiellement , cette disposition prévoit que la Cour peut seulement accorder une prorogation de délai si le contribuable a déjà présenté au ministre une demande de prorogation de délai dans l’année suivant l’expiration du délai pour présenter un avis d’opposition. Il s’agit d’une exigence stricte. Aucune exception n’est prévue, même si le contribuable subit un préjudice.
+[12] La question est donc de savoir si une telle demande a été faite au ministre dans le délai imparti.
+[13] L’ancien avocat de M. Johnson a envoyé une lettre datée du 21 janvier 2009 au chef des appels pour lui demander la prorogation du délai pour présenter un avis d’opposition. Selon les faits exposés dans l’affidavit présenté par l’intimée, cette demande a clairement été faite hors délai.
+[14] La Cour ne peut pas ignorer l’exigence prévue à l’alinéa 166.2(5)a) de
+la Loi. Comme le requérant n’a pas démontré qu’il s’était conformé à cette disposition, il me faut rejeter sa requête.
+[15] Il est toujours regrettable de devoir rejeter un appel à cause d’une erreur procédurale, comme l’omission de s’opposer à une cotisation ou de la porter en appel dans les délais impartis. Il n’est toutefois pas possible de passer outre à cette exigence (voir Bormann c. La Reine, 2006 CAF 83, 2006 DTC 6147).
+[16] Cette conclusion pourrait avoir des conséquences très graves pour M. Johnson. La somme en litige est considérable, et il semble que les deux autres contribuables qui étaient dans la même situation que lui ont vu leurs appels devant la Cour réussir dans une large mesure.
+[17] Compte tenu des circonstances de la présente affaire, j’espère que le ministre procédera à un nouvel examen des cotisations en cause, et ce, même si M. Johnson ne peut pas les porter en appel devant
+la Cour. Dans ce nouvel examen, le ministre devrait tenir compte des décisions de la Cour dans les deux appels mentionnés dans la requête.
+[18] Finalement, j’ordonnerai au greffe d’envoyer une copie de la présente décision à M. Johnson et à son ancien avocat. Même si ce dernier n’a pas comparu à l’audience, il était l’avocat inscrit au dossier à ce moment‑là.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de novembre 2009.
+Jean-François Leclerc-Sirois , LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 496
+No DU DOSSIER DE LA COUR :
+2009-979(IT)APP
+INTITULÉ :
+Aldon Johnson et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 23 septembre 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge J. M. Woods
+DATE DE L’ORDONNANCE :
+Le 1er octobre 2009
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui‑même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

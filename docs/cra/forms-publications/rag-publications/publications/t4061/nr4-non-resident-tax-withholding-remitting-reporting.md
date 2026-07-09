@@ -1,0 +1,2066 @@
+---
+title: "NR4 – Non-Resident Tax Withholding, Remitting, and Reporting"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4061/nr4-non-resident-tax-withholding-remitting-reporting.html
+last_modified: 2026-04-09
+---
+# NR4 – Non-Resident Tax Withholding, Remitting, and Reporting
+
+T4061(E) Rev. 25
+
+Available electronically only
+
+The CRA’s publications and personalized correspondence are available in braille, large print, e-text, and MP3. For more information, go to [Order alternate formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html) or call **1-800-959-5525**. If you are outside Canada and the United States, call **613-940-8499**. The CRA only accepts collect calls made through a telephone operator. After your call is accepted by an automated response, you may hear a beep and notice a normal connection delay. This service operates in Eastern Time.
+
+La version française de ce guide est intitulée NR4 – Retenue d’impôt des non-résidents, versements et déclaration.
+
+Unless otherwise stated, all legislative references are to the Income Tax Act or, where appropriate, the Income Tax Regulations.
+
+## Is this guide for you
+
+This guide gives information for Canadian payers and withholding agents who make payments to non-residents of Canada for income such as interest, dividends, rents, royalties, pensions, and acting services in a film or video production.
+
+It also explains how to fill out the NR4 slip and summary.
+
+## What’s new
+
+### Non-Resident Withholding Tax online portal services
+
+In October 2025, CRA’s secure portal services were expanded to include online access to non-resident tax accounts. This new service allows you to access services such as: view account balances, make payments to the CRA, and update contact and representative information.
+
+To sign in or to register for Non-Resident Withholding Tax, go to [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+## Before you start
+
+### What are your responsibilities
+
+As the Canadian payer or withholding agent, you are responsible for withholding and remitting Part XIII tax, and for reporting the income and withholding tax on an NR4 information return. The NR4 information return includes NR4 slips and the related NR4 Summary.
+
+You have to file the NR4 information return and give the recipients their NR4 slips on or before the last day of March following the calendar year to which the information return applies, or in the case of an estate or trust, no later than 90 days after the end of the estate’s or trust’s tax year.
+
+### Penalties, interest and other consequences
+
+#### Mandatory electronic filing
+
+##### Failure to file information returns over the Internet
+
+If you file more than 5 information returns (slips) for a calendar year and you do not file the returns by Internet file transfer or Web Forms, you will have to pay a penalty as follows:
+
+| Number of information returns (slips) by type | Penalty |
+
+| --- | --- |
+
+| 6 to 50 | $125 |
+
+| 51 to 250 | $250 |
+
+| 251 to 500 | $500 |
+
+| 501 to 2,500 | $1,500 |
+
+| 2,501 or more | $2,500 |
+
+**Each slip is an information return**, and the penalty the CRA assesses is based on the number of information returns filed in an incorrect way. The penalty is calculated per type of information return. For example, if you file 6 NR4 slips and 6 T4 slips on paper, the CRAwould assess two penalties of $125, one for each type of information return.
+
+#### Failure to deduct
+
+If you failed to deduct the required amount of the Part XIII tax from the amount you pay or credit to a non-resident, you are liable for this amount even if you cannot recover the amounts. The CRA may assess you for any amount owing. The CRA will also assess a penalty and interest as described in the section “[Penalty for failure to deduct](#Pen_FTD)” on this page.
+
+#### Penalty for failure to deduct
+
+The CRA can assess you for the amount of tax that you failed to deduct. The CRA can also assess a penalty of **10%** of the required amount of Part XIII tax you failed to deduct.
+
+If you are assessed this penalty more than once in a calendar year, the CRA will apply a **20%** penalty to the second or later failures if they were made knowingly or under circumstances of gross negligence.
+
+#### Failure to remit amounts deducted
+
+When you deduct the amounts of the Part XIII tax, you have to remit them to the Receiver General for Canada.
+
+The CRA will also assess a penalty and interest as described in the section “Penalty for failure to remit and remitting late” on this page.
+
+#### Penalty for failure to remit and remitting late
+
+The CRA can assess a penalty on the amount you failed to remit when one of the following applies:
+
+- you deduct the amounts, but do not remit them
+
+- the CRA receives the amounts you deducted after the due date
+
+When the due date falls on a Saturday, a Sunday, or a public holiday recognized by the CRA, your remittance is considered on time if we receive it on the next business day.
+
+The penalty for **remitting late** is:
+
+- 3% if the amount is one to three days late
+
+- 5% if the amount is four or five days late
+
+- 7% if the amount is six or seven days late
+
+- 10% if the amount is more than seven days late or if no amount is remitted
+
+The CRA will charge you a fee for any payment that your financial institution refuses to process. If your payment is late, the CRA can also charge penalties and interest on any amount you owe.
+
+If you are assessed this penalty more than once in a calendar year, the CRA **may** assess a **20%** penalty to the second or later failures if they were made knowingly or under circumstances of gross negligence.
+
+#### Late-filing and failing to file the NR4 information return
+
+You have to give the recipient his or her NR4 slip and file your NR4 information return with the CRA on or before the **last day of March after the calendar year to which the information return applies**, or no later than 90 days after the end of the estate’s or trust’s tax year. If the last day of March falls on a Saturday, a Sunday, or a public holiday recognized by the CRA, your information return is due the next business day.
+
+The CRA considers your return to be filed on time if the CRA receives it or it is postmarked on or before the due date.
+
+The CRA will assess a penalty if you file your information return late. For NR4 information returns, the CRA has an administrative policy that reduces the penalty that it assesses so it is fair and reasonable for small businesses. **Each slip is an information return**, and the penalty the CRA assesses is based on the number of information returns you filed late. The penalty is $100 or the amount calculated according to the chart below, whichever is more:
+
+| Number of information returns (slips) filed late | Penalty per day (up to 100 days) | Maximum penalty |
+
+| --- | --- | --- |
+
+| 1 to 5 | Penalty not based on number of days | $100 flat penalty |
+
+| 6 to 10 | $5 | $500 |
+
+| 11 to 50 | $10 | $1,000 |
+
+| 51 to 500 | $15 | $1,500 |
+
+| 501 to 2,500 | $25 | $2,500 |
+
+| 2,501 to 10,000 | $50 | $5,000 |
+
+| 10,001 or more | $75 | $7,500 |
+
+#### Failure to provide correct information on an information return
+
+Anyone who prepares an NR4 information return has to make a reasonable effort to get the necessary and correct information, including identification numbers, from the recipients that will receive the slips. If you do not do this, you may be liable to a $100 penalty for each failure to comply with this requirement.
+
+#### Failure to file an ownership certificate
+
+The CRA also applies a $50 penalty for each failure to fill out or to deliver an ownership certificate ([Form NR601, Non-Resident Ownership Certificate – Withholding Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr601.html), and [Form NR602, Non-Resident Ownership Certificate – No Withholding Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr602.html)), for the negotiating of bearer coupons or warrants.
+
+#### Interest
+
+If you fail to pay an amount, the CRA may apply interest from the day your payment was due. The interest rate the CRA uses is determined every three months, based on prescribed interest rates. Interest is compounded daily. The CRA also applies interest to unpaid penalties. For the prescribed interest rates the CRA uses, go to [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+#### Cancel or waive penalties and interest
+
+The CRA administers legislation, commonly called “taxpayer relief provisions”, that gives the CRA discretion to cancel or waive penalties and interest when taxpayers cannot meet their tax obligations due to circumstances beyond their control.
+
+The CRA’s discretion is limited to any period that ends within 10 calendar years before the year the request is made.
+
+##### Penalties
+
+The CRA will consider your request only if it relates to a tax year or fiscal period ending in any of the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to a penalty for a tax year or fiscal period ending in 2015 or later.
+
+##### Interest on a balance owing
+
+The CRA will consider only the amounts that accrued during the 10 calendar years before the year you make your request. For example, your request made in 2025 must relate to interest that accrued in 2015 or later.
+
+Taxpayer relief requests can be made online using the CRA’s My Account, My Business Account, or Represent a Client digital services.
+
+You can also fill out [Form RC4288, Request for Taxpayer Relief - Cancel or Waive Penalties and Interest](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4288.html), and send it:
+
+- online using [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+
+- by mail or courier to the designated office, as shown on the last page of the form, based on your place of residence
+
+For information about submitting documents online, go to [Submit documents online](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+For more information about cancelling or waiving penalties and interest, go to [Cancel or waive penalties and interest at the CRA](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/cancel-waive-penalties-interest.html).
+
+### Representatives for non-resident tax accounts
+
+**To authorize a representative**for your non-resident tax account, or**make changes**to the representative information, fill out [Form AUT-01, Authorize a Representative for Offline Access](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01.html). To **cancel** your representative’s authorization, fill out [Form AUT-01X, Cancel Authorization for a Representative](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/aut-01x.html).
+
+#### Where to send requests
+
+Send requests to the following address:
+
+Sudbury Tax Centre Post Office Box 20000, Station A Sudbury ON P3A 5C1 Canada
+
+Fax requests to: **1-705-677-7712**or **1-866-765-8460.**
+
+For detailed information on the process for authorizing or cancelling a representative for a non-resident tax account, go to [Representatives for non-resident tax accounts](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/representatives-non-resident-accounts.html).
+
+## What is Part XIII tax
+
+Part XIII tax is a withholding tax imposed on certain amounts you pay or credit to non-residents. These amounts include:
+
+- pensions, annuities, management fees, interest, dividends, rents, royalties, estate or trust income, and payments for film or video acting services when you pay or credit these amounts to individuals (including trusts) or corporations that are not resident in Canada
+
+You are responsible for withholding Part XIII tax if you are:
+
+- a Canadian resident who pays or credits Part XIII amounts to a non-resident, or is considered to have done so under Part I or Part XIII of the Income Tax Act
+
+- an agent (such as a bank, trust company, or credit union) or person who, for a debtor, pays or credits Part XIII amounts when redeeming bearer coupons or warrants
+
+- an agent or another person who receives Part XIII amounts for a non-resident, from which tax was not withheld
+
+- any other person (including a non-resident) who pays or credits amounts that are taxable under Part XIII, or who is considered to have done so under Part I or Part XIII of the Income Tax Act
+
+### Rates for Part XIII tax
+
+Non-residents have to pay a 25% tax on amounts that are taxable under Part XIII. However, this rate can be reduced to a lower rate or an exemption can be given under the provisions of the Income Tax Act or a bilateral tax treaty between Canada and another country.
+
+As the Canadian payer or withholding agent, you are responsible for withholding and remitting Part XIII tax at the correct rate.
+
+If you pay or credit or are considered to have paid or credited a taxable amount to persons in countries that have tax treaties with Canada, you should verify the rate given in the [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/i-3.3/) first. Then verify if a reduced rate or an exemption applies under the treaty.
+
+The negotiation of new tax treaties and renegotiation of existing tax treaties is an ongoing process. For this reason, you should verify tax treaty rates and exemptions on a regular basis.
+
+You can use the online Part XIII Tax Calculator to determine your Part XIII tax liability. The CRA developed this convenient and interactive tool to help you determine your tax liability in an accurate and timely manner. For more information, go to [Non-Resident Tax Calculator](https://www.canada.ca/en/revenue-agency/services/e-services/non-resident-tax-calculator-disclaimer.html).
+
+You can also get the current tax rates and effective dates by contacting the CRA at the numbers listed at the end of this guide or by going to [Tax treaties](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/tax-treaties.html).
+
+The 25% Part XIII tax will apply to any taxable amounts you paid or credited to persons in non-treaty countries.
+
+The 25% Part XIII tax also applies to payees in countries with which Canada has a tax treaty that is not yet in effect.
+
+A Part XIII tax rate of 23% applies to the **gross amounts** paid, credited, or included as a benefit for acting services rendered in Canada by a non-resident actor, including payments of residuals and contingent compensation. This rate applies only to the acting services of the actor in a film or video production. For more information, go to [Film and Media Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits.html) and select [Non-resident actors](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits/non-resident-actors.html).
+
+For more information about tax treaties, see the current version of Information Circular [IC76-12R8, Applicable rate of Part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12.html). The information in that circular also applies if you are considered, under Part I or Part XIII of the Income Tax Act, to have paid or credited to residents of these treaty countries amounts that are taxable under Part XIII.
+
+### Beneficial ownership and tax treaty benefits
+
+The payee’s name and address may no longer be the **only** information needed to establish that treaty benefits apply.
+
+To apply the correct rate of withholding, you should have enough recent information to prove that the payee:
+
+- is the beneficial owner of the income
+
+- is resident in a country with which Canada has a tax treaty
+
+- is eligible for treaty benefits under the tax treaty on the income being paid
+
+If you are not sure whether all three criteria are true, ask the payee to fill out and give you either the applicable Form below or equivalent information:
+
+- [Form NR301, Declaration of eligibility for benefits (reduced tax) under a tax treaty for a non-resident person](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr301.html)
+
+- [Form NR302, Declaration of eligibility for benefits (reduced tax) under a tax treaty for a partnership with non-resident partners](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr302.html)
+
+- [Form NR303, Declaration of eligibility for benefits (reduced tax) under a tax treaty for a hybrid entity](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr303.html)
+
+#### Beneficial ownership
+
+Generally, you can accept that the payee is the beneficial owner of the income, unless there is reasonable cause to suspect that the payee is not the beneficial owner.
+
+Although this list does not cover all possibilities, it is reasonable to question whether the payee is the beneficial owner in the following situations:
+
+- the payee is known to act, even occasionally, as an agent or nominee (other than as an agent or nominee residing in Switzerland)
+
+- the payee is reported to be "in care of" another person, or "in trust"
+
+- the mailing address for paying the income is different from the owner’s registered address
+
+- the payee is a partnership, a US Limited Liability Corporation, any other flow-through entity, or a co-ownership arrangement
+
+If the payee is an insurance corporation or pension trust, the CRA will accept that the payee is the beneficial owner of amounts paid to a non-resident. However, that corporation or trust has to invest only for itself and include the amounts when it calculates its revenue.
+
+#### Residence and eligibility for treaty benefits
+
+The payee, partnerships or other flow-through entities with non-resident partners or members can give you one of the forms NR301, NR302, or NR303, or the information requested in these Forms to certify that they are:
+
+- the beneficial owner of the income
+
+- resident in a specific tax treaty country
+
+- eligible for tax treaty benefits on the income they receive
+
+Even if you do not get Form NR301 or the information requested in the Form to support the beneficial owner's country of residence and eligibility for tax treaty benefits, you may apply a tax treaty rate if **all** of the following are true:
+
+- You obtain complete addresses of residence (permanent addresses) that are not post office boxes or care-of addresses
+
+- You know that one of the following applies:
+
+    - the payee is an individual resident of the United States
+
+    - the payee is an estate of a United States resident and the executor manages and controls the estate from the United States
+
+- You have no reason to suspect the information is inaccurate, misleading, or that the payee is not entitled to the tax treaty benefit
+
+- You have procedures in place so that changes in the payee's information, (such as change of address or contact information that includes a change in country, or returned mail) will result in a review of the withholding tax rate
+
+Collect additional documentation or Form NR301 if the treaty benefit applies only under certain conditions (such as when the amounts must be received in, taxable in or taxed in the country of residence).
+
+In addition, do not request forms NR301, NR302, or NR303 from the beneficial owner in the following circumstances:
+
+- You will withhold the tax at the rate specified in Part XIII or Part XIII.2 of the Income Tax Act
+
+- You make a payment to an agent or nominee residing in Switzerland. You can withhold tax at the rate given in the Canada – Switzerland tax treaty on all amounts that you pay or credit that are taxable under PartXIII
+
+- The [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/i-3.3/) gives a reduction or exemption (except where the CRA requests written authorization)
+
+- The CRA issues a letter of exemption or written authorization. You can reduce the withholding tax only after you receive the letter or authorization from the CRA
+
+- You pay dividends to certain organizations of the United Kingdom: As long as certain conditions are met, dividends beneficially owned by an organization that was constituted and is operated in the United Kingdom only to administer or provide benefits under one or more recognized pension plans are exempt from withholding tax under Article 10 (Dividends) of the Canada – United Kingdom tax treaty. The treaty was amended by a protocol that came into effect for withholding tax for calendar years starting on or after January 1, 2015. Withholding agents should get a letter from the United Kingdom tax administration confirming that the recipient meets the criteria in Article 10
+
+The letter should be valid for the year in question and for no more than 3 years in total and:
+
+- in the case of pension plans arranged through an insurance company, confirm that the insurance company administers or manages pension schemes registered under Part 4 of the Finance Act 2004 (United Kingdom) including the schemes listed by the insurance company to which the arrangement applies
+
+- in all other cases, affirm that the pension plan is registered under Part 4 of the Finance Act 2004 (United Kingdom), including pension funds or pension schemes arranged through insurance companies and unit trusts where the unit holders are only pension schemes
+
+The organization must attest that it is generally exempt from tax in the United Kingdom and does not directly or indirectly own more than 10% of the capital or more than 10% of the voting power of the company paying the dividends. In addition, the dividends received must only be for the benefits of recognized pension plans and the recognized pension plans must provide benefits to individuals, of which at least 90% must be residents of the United Kingdom.
+
+- You pay dividends to certain organizations of Switzerland: As long as certain conditions are met, dividends beneficially owned by an organization that was constituted and is operated in Switzerland only to administer or provide benefits under one or more recognized pension plans are exempt from withholding tax under Article 10 (Dividends) of the Canada – Switzerland tax treaty. The treaty was amended by a protocol that came into effect for withholding tax for calendar years starting on or after January 1, 2012. Withholding agents should get a letter from the Switzerland tax administration confirming that the recipient meets the criteria in Article 10. The letter should say that the pension plan or plans match a pension or retirement plan in Switzerland that Canada recognizes for tax purposes and that is listed on the CRA’s website at [Memorandum of Understanding Between the Competent Authorities of Canada and Switzerland](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/competent-authority-agreements-notices/memorandum-understanding-between-competent-authorities-canada-switzerland.html)
+
+The dividends cannot come from carrying on a trade or a business or from a related person.
+
+The CRA issues a letter of exemption or written authorization to a non-resident when:
+
+- Certain amounts paid to the government of another country that is exempt from Part XIII tax either due to a provision in a tax treaty or according to the Doctrine of Sovereign Immunity
+
+- Certain pensions and similar payments received from Canada if the total amount received from all payers is less than a certain threshold amount
+
+- Amounts received by organizations or plans exempt from tax under Article XXI of the Canada – United States tax treaty. If the non-resident only gives you an exemption number you must verify the expiry date by checking [Guide T4016, Exempt U.S. Organizations – Under Article XXI of the Canada – United States Tax Convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4016.html)
+
+### Amounts payable to a non-resident agent or nominee/financial intermediary
+
+Non-resident agents or nominees who are holding securities on behalf of other non-residents must fill out and send an agent or nominee certificate, as described in the current version of Information Circular [IC76-12R8, Applicable rate of Part XIII tax on amounts paid or credited to persons in countries with which Canada has a tax convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic76-12.html), to the payer or another upstream agent or nominee, when applicable.
+
+It is understood that only the entity that directly pays the beneficial owner will have the address and identification information of the beneficial owner. The CRA expects that entity to maintain this information and not pass it up to a chain of intermediaries. The payer will only receive pooled information in the Form of an agent or nominee certificate as described in the current version of IC76-12R8.
+
+### Special payments
+
+#### Interest Coupon Stripping Arrangements (ICSA)
+
+Beginning April 6, 2022, interest accrued that is paid or payable as a result of an (ICSA) is deemed to be subject to the same withholding tax rates as if the arrangement had not been undertaken. To report this income, use income codes 67 – Arm’s length interest coupon stripping arrangement payments or 68 – Non-arm’s length interest coupon stripping arrangement payments.
+
+In general, an ICSA would be considered to exist where both of the following conditions are met:
+
+- a Canadian-resident borrower (CRB) pays or credits a particular amount to a person or partnership (interest coupon holder (ICH)) as interest on a debt (other than a publicly offered debt obligation) owed to another non-resident person with whom the CRB is not dealing at arm’s length or a partnership (other than a Canadian partnership)
+
+- the tax that would be payable under Part XIII, if the amount were paid or credited to the non-resident lender, is greater than the tax payable under Part XIII on the amount paid or credited to the interest coupon holder
+
+However, if the interest payment meets both of the following conditions the rule would only apply to interest paid or payable by a CRB to an ICH to the extent that such interest accrued after April 6, 2023:
+
+- it is in respect of a debt or other obligation incurred by the CRB before April 7, 2022
+
+- it is made to an interest coupon holder that deals at arm’s length with the non-resident lender and that acquired the interest coupon as a consequence of an agreement or other arrangement entered into by the interest coupon holder, and was evidenced in writing, before April 7, 2023
+
+#### Pension and similar payments – Residents of all countries
+
+A non-resident of Canada who receives pension or similar payments and intends to file an income tax and benefit return in Canada can apply to the CRA for a reduction in the non-resident tax that you have to withhold. To do this, the non-resident must use [Form NR5, Application by a Non-Resident of Canada for a Reduction in the Amount of Non-Resident Tax Required to Be Withheld](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr5.html), which has to be filed once every 5 years. When the request is processed, the CRA will send a letter to the non-resident and the payer(s) stating any payments to which a tax reduction applies. **You may not apply a tax reduction unless**you receive written authorization from the CRA. If you do receive an authorization, you must report the amounts paid or credited on an NR4 slip and use **exemption code “J.”**
+
+#### Pension and similar payments – Residents of certain countries
+
+Canada's tax treaties with Algeria, Azerbaijan, Brazil, Croatia, Cyprus, Ecuador, Greece, Ireland, Italy, the Philippines, Poland, Portugal (including Azores and Madeira), Romania, Senegal, Slovenia, and Türkiye include an exemption from withholding tax for certain pension and similar payments received in the year from Canada.
+
+If a non-resident receives more than one pension or similar payment from Canada, the exemption can be applied only to a limited amount of the **total payments** that the non-resident receives. Each tax treaty specifies different types of pension and similar payments to which the exemption applies. Amounts over the limit, and payments that are not eligible for exemption, are taxable at the applicable rate. To determine the exempt amounts, the non-resident has to give the CRA an estimate of the total pension and similar payments the non-resident expects to receive from each of the payers.
+
+The non-resident gives this information and requests the exemption by filing Form NR5, which has to be filed once every 5 years. When the request is processed, the CRA will send a letter to the non-resident and the payer(s) stating any payments to which the exemption applies. **You may not apply the exemption until**you receive written authorization from the CRA.
+
+#### Rental income from real property in Canada
+
+A non-resident who receives rental income from real property in Canada can ask that withholding agents be allowed to deduct tax on the net amount instead of the gross amount. To do this, the non-resident has to fill out [Form NR6, Undertaking to File an Income Tax Return by a Non-Resident Receiving Rent from Real or Immovable Property or Receiving a Timber Royalty](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr6.html).
+
+The CRA must receive this Form on or before January 1 of the tax year, for which the request applies, or on or before the date the first rental payment is due. For corporations, estates, and trusts with a fiscal year-end other than December 31, the CRA must receive their Form NR6 on or before the first day of their fiscal year.
+
+Although the CRA accepts Form NR6 throughout the year, the effective date for withholding on the net amount will be the first day of the month in which the CRA receives the form. You have to withhold tax on any gross rental income paid or credited to a non-resident before that date. In all situations, when Form NR6 is filed, **you still have to report the gross amount of rental income**for the entire year on an NR4 slip and **use exemption code “H**.**”**
+
+#### Retirement compensation arrangement
+
+When a custodian makes a distribution out of a retirement compensation arrangement (RCA) trust to a non-resident beneficiary, the custodian will apply for a non-resident account (beginning with the letters **NRQ**) by completing [Form T735, Application for a Remittance Number for Tax Withheld from a Retirement Compensation Arrangement (RCA)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t735.html). This non-resident account will be used to report payments made to the non-resident beneficiary and the income tax withheld on these payments.
+
+For more information on RCAs and how to complete Form T735, go to [Retirement Compensation Arrangements](https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax/retirement-compensation-arrangements-guide.html).
+
+#### Non-residents and First Home Savings Account (FHSAs)
+
+If you become a non-resident of Canada after you open your FHSA, you can continue to participate normally in your FHSA, with one exception:
+
+- You cannot make a qualifying withdrawal to build or buy a qualifying home while you are a non-resident of Canada.
+
+If you are a non-resident of Canada, any taxable withdrawal from your FHSA will be subject to withholding tax (the withholding tax is 25% for non-residents of Canada, unless reduced by a treaty) in the year of withdrawal. All distributions you receive from a deceased holder’s FHSA as a beneficiary will also be subject to withholding tax. For more information on non-residents and FHSAs, go to [First Home Savings Account (FHSA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account.html).
+
+#### Film and video acting services
+
+A non-resident actor, who receives payments for acting services rendered in Canada and intends to file an income tax and benefit return in Canada, can apply to the CRA for a reduction in the non-resident tax that you have to withhold.
+
+To do this, the non-resident must fill out one of the following:
+
+- [Form T1287, Application by a Non-Resident of Canada (Individual) for a Reduction in the Amount of Non-Resident Tax Required to be Withheld on Income Earned from Acting in a Film or Video Production](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1287.html)
+
+- [Form T1288, Application by a Non-Resident of Canada (Corporation) for a Reduction in the Amount of Non-Resident Tax Required to be Withheld on Income Earned from Acting in a Film or Video Production](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1288.html)
+
+When these forms are processed, the CRA will send a letter to the non-resident and the Canadian payer stating any payments to which a tax reduction applies.
+
+A non-resident actor who resides in the United States, and makes less than $15,000 CAD from acting services performed in Canada, in the calendar year, may be eligible for an exemption from tax under Article XVI of the Canada – United States Tax Convention. The non-resident actor can apply for a reduction of the non-resident tax that you have to withhold, as stated above.
+
+**You may not apply a tax reduction unless**you receive written authorization from the CRA. If you do receive this authorization, you must report the amounts paid or credited on an NR4 slip and**use exemption code "J**.**"**
+
+For more information, go to [Non-resident actors](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/film-media-tax-credits/non-resident-actors.html).
+
+### Mutual fund investment distributions
+
+#### Taxable Canadian property gains distributions
+
+Non-residents who invest in Canadian mutual fund investments may be taxable on capital gains distributions made by mutual fund trusts and on capital gains dividends paid by mutual fund corporations from the disposition of taxable Canadian property (TCP). TCP includes real property in Canada, Canadian resource properties, and Canadian timber resource properties.
+
+This non-resident tax applicable to TCP gains distributions only applies if more than 5% of the total capital gains dividend paid by a mutual fund corporation and more than 5% of the total capital gains distribution paid by a mutual fund trust are paid or designated for non-resident persons. Mutual fund trusts and mutual fund corporations have to maintain a separate TCP gains distribution account to track all capital gains for the disposition of TCP. The mutual fund has to report these amounts and the withholding tax on an NR4 slip.
+
+#### Assessable distributions
+
+Non-residents who invest in Canadian property mutual fund investments are taxable at a rate of 15% on any amount not otherwise taxed that the mutual fund pays or credits them. A Canadian property mutual fund investment is an exchange-listed mutual fund that derives more than 50% of its unit or share value from real property in Canada, Canadian resource properties, or Canadian timber resource properties. The mutual fund has to report these amounts, called assessable distributions, and the withholding tax on an NR4 slip.
+
+Generally, the 15% tax withheld on the assessable distributions is considered the final tax obligation to Canada on that income.
+
+A non-resident investor may apply any loss realized on the disposition of a Canadian property mutual fund investment against assessable distributions received, up to the amount of the total assessable distributions paid or credited on the investment. The non-resident investor applies the loss and can claim any resulting refund by filing [Form T1262, Part XIII.2 Tax Return for Non-Resident's Investments in Canadian Mutual Funds](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1262.html). Unused amounts of this special Form of capital loss, which can be used only for this purpose, may be carried back three tax years or carried forward indefinitely.
+
+## Remitting deductions
+
+### When to remit
+
+You have to remit your non-resident tax deductions so that the CRA receives them on or before the 15th day of the month **following** the month the amount was paid or credited to the non-resident. The CRA considers the remittance to be received on the date it is received at your Canadian financial institution or at the CRA.
+
+When a due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day. For more information, go to [Due dates and payment dates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html).
+
+If your business or activity ceases during the year, you have to remit your non-resident tax deductions so that the CRA receives them no later than seven days after the day your business or activity ceases.
+
+### Are you a new remitter
+
+If you have never remitted non-resident income tax deductions, you can open a non-resident tax account online through [My Account for individuals](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html), or [Represent a client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).Once you have logged in, select "Open a non-resident tax account" from the menu. You can also contact the CRA at the numbers listed at the end of this guide. The CRA will give you a non-resident account number and tell you how to remit your deductions. The CRA will mail you Form NR75, Non-Resident Tax Account Information, which will show the information you gave the CRA when you opened your non-resident account number and which includes a non-resident tax remittance voucher that you should return with your first remittance.
+
+If you have not received Form NR75 in time to make your first payment, prepare a letter that states:
+
+- the name under which your account was opened, as well as your address and telephone number
+
+- the year and month your payment covers
+
+- your non-resident account number
+
+Make your payment payable to the Receiver General. Send your payment and letter to the following address:
+
+Canada Revenue Agency Post Office Box 3800, Station A Sudbury ON P3A 0C3 Canada
+
+After you make your first remittance, the CRA will send you Form NR76, Non-Resident Tax Statement of Account, which includes a non-resident tax remittance voucher that you can use for your next remittance.
+
+If you make a payment that your financial institution does not honour (including a payment on which you put a “stop-payment”), the CRA will charge you a fee.
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+#### Online payment methods
+
+##### Online, mobile app, or telephone service banking
+
+Banks and credit unions let you set up payments to be sent to the CRA on pre-set dates. Businesses have to make their remittances using a business bank account. If you are remitting, your options will display according to the business number provided. For example, corporation tax, GST/HST, payroll deductions, non-residents.
+
+Make sure you correctly enter your non-resident account number and the period the remittance covers. For help remitting your non-resident deductions through online banking, please contact your financial institution.
+
+##### Non-Resident Withholding Tax portal
+
+The Non-Resident Withholding Tax portal allows you to make remittances of tax or payments of balances owing using the “Proceed to pay” button on the “View and pay account balance” page and other pages within Non-Resident Withholding Tax.
+
+##### My Payment
+
+My Payment is an electronic payment service offered by the CRA that allows individuals and businesses to make payments online directly to the CRA using their bank access cards with a Visa Debit or Debit MasterCard logo.
+
+Use this service to make a payment to one or more CRA accounts in one simple transaction.
+
+For more information, go to [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html).
+
+##### Pre-authorized debit
+
+Pre-authorized debit is an secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize the CRA to withdraw a pre-set payment from your bank account to remit tax on one or more dates. You can set up a pre-authorized debit agreement using the CRA’s secure [My Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html).
+
+For more information, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+##### Third-party service provider
+
+You may be able to make your payments through a third-party service provider. The third-party service provider will send your Part XIII tax deductions and remittance details to the CRA electronically.
+
+For more information, go to [Pay through a third-party service provider](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-credit-card.html).
+
+You are responsible for making sure the CRA receives your payment by the payment due date. If you are using a third-party service provider, you must clearly understand the terms and conditions of the services you are using. The CRA does not endorse these products, services, or publications.
+
+#### Other payment methods
+
+##### Wire transfers
+
+Non-residents who do not have a Canadian bank account can pay using wire transfers. For more information, go to [Pay at a foreign bank or credit union through wire transfer](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-wire-transfer-non-residents.html).
+
+##### Pay at your Canadian bank or credit union
+
+You can make your payment at your bank or credit union in Canada. To do so, you need a personalized [remittance vouchers and payment forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html).
+
+### Non-Resident TeleReply
+
+If you are reporting a nil remittance of non-resident withholding tax on your account or you are no longer making payments and would like to permanently discontinue the account, you can call Non-Resident TeleReply at **1-866-971-4644**.
+
+### Missing or lost remittance voucher
+
+Even if you do not have a [remittance vouchers and payment forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/request-payment-forms-remittance-vouchers.html), you still have to send the CRA your payment by the due date. If you do not receive a remittance voucher in time to make your next remittance, or if you have misplaced it, send your payment payable to the Receiver General. Include a short note that states your name, address, and non-resident account number, and the year and month covered by the payment.
+
+To order Form NR93, Non-Resident Tax Remittance Voucher, call the CRA at **1-855-284-5946**from anywhere in Canada and the United States or at **613-940-8499**from outside of Canada and the United States. The CRA accepts collect calls by automated response. You may hear a beep and experience a normal connection delay.
+
+### Non-resident tax notice of assessment, notice of reassessment, or notice of collection
+
+If you receive Form NR81, Non-Resident Tax – Notice of Assessment, Form NR82, Non-Resident Tax – Notice of Reassessment, or Form NR83, Non-Resident Tax – Notice of Collection, use only the remittance vouchers attached to these forms to make your payment for any balance owing.
+
+### Applying for a refund of tax overpayments
+
+To get a refund of excess or incorrectly withheld Part XIII tax, a non-resident has to fill out and send [Form NR7-R, Application for Refund of Part XIII Tax Withheld](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr7-r.html). The CRA has to receive this Form no later than two years from the end of the calendar year in which the tax was sent to the CRA.
+
+You may be a non-resident of Canada filing Form NR7-R. If so, you can ask the CRA to deposit your refund directly into your bank account at a Canadian financial institution by filling out and attaching [Form NR304, Direct Deposit for Non-Resident Tax Refunds](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr304.html). The name on the account must match the name of the applicant or the authorized person who signs the certification section on Form NR7-R. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html).
+
+Residents of Canada who receive an NR4 slip with non-resident tax withheld can get a credit for the amount withheld by including the slip with their Canadian income tax return.
+
+## NR4 slips
+
+### When to fill out the NR4 slip
+
+You have to fill out an [NR4 slip](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/nr4/nr4-slip.html) for every non-resident to whom you paid or credited amounts described under Part XIII of the Income Tax Act, even if you are not required to deduct any tax. See [Appendix B](#P1072_47237) for a list of types of income.
+
+You also have to fill out an NR4 slip if you are considered, under Part I or Part XIII of the Income Tax Act, to have paid or credited amounts. You have to fill out an NR4 slip even if you did not withhold tax on these amounts, or you did not have to withhold tax on these amounts due to an exemption under the Income Tax Act or a bilateral tax treaty.
+
+#### Reporting limits
+
+You have to report amounts on an NR4 slip if the gross income paid or credited during the year is $50 or more. However, if you paid less than $50 and you still withheld tax under Part XIII, you have to report the gross income and the tax withheld on an NR4 slip.
+
+| Total gross income paid or credited | Tax | Report amounts on NR4 slip |
+
+| --- | --- | --- |
+
+| Less than $50 | Tax withheld | Yes |
+
+| Less than $50 | No tax withheld | No |
+
+| $50 or more | Tax withheld **or** no tax withheld | Yes |
+
+#### Customized NR4 slips
+
+For those who fill out a large number of slips, the CRA accepts certain slips other than its own. For help on how to fill out the slips accurately, consult the guidelines for the production of customized forms at [customized forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/customized-forms.html) or see the current version of [Information Circular IC97-2R20, Customized Forms](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic97-2.html).
+
+### Filling out the NR4 slip
+
+Follow the instructions in this section carefully. The CRA may have to return incorrectly completed NR4 slips to you for corrections:
+
+- Make sure your NR4 slips are easy to read. To help the CRA process your returns quickly and accurately, type or machine-print your information slips
+
+- Do not change the headings of any of the boxes
+
+- Prepare separate [NR4 slips](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/nr4/nr4-slip.html) whenever non-residents change their country of residence for tax purposes during the year
+
+- Report gross income (box 16 or 26) in Canadian funds
+
+- Report the tax withheld (box 17 or 27) in Canadian funds
+
+- Use separate lines when you report income that is partially exempt. For example, if you are paying interest to a client and a part of the gross income is exempt from Part XIII tax, report the taxable income on one line with the withholding tax and the exempt income on another line, with the correct exemption code stated in box 18 or 28
+
+- Report income on line 1 before you report income on line 2
+
+#### Filling out the boxes
+
+##### Box 10 – Year
+
+Enter the four digits of the calendar year in which you made the payment to the recipient. For estates and trusts, enter the four digits of the tax year-end in which they made the payment to the recipient.
+
+##### Box 11 – Recipient code
+
+Enter the appropriate code from the list of non-resident recipient types:
+
+| Recipient code | Type of recipient |
+
+| --- | --- |
+
+| **1** | individual |
+
+| **2** | joint account |
+
+| **3** | corporation |
+
+| **4** | other (for example, association, trust, including fiduciary-trustee, nominee, estate, or partnership) |
+
+| **5** | government, government enterprise, or international organizations and agencies prescribed by regulation |
+
+The prescribed international organizations and agencies are:
+
+- Bank for International Settlements
+
+- European Fund
+
+- International Bank for Reconstruction and Development
+
+- International Development Association
+
+- International Finance Corporation
+
+- International Monetary Fund
+
+- European Bank for Reconstruction and Development
+
+##### Box 12 – Country code for tax purposes
+
+From the list in [Appendix A](#P482_43418), enter the **three-letter code** for the country in which the recipient is a resident for tax purposes. **Only use the codes listed in Appendix A**. Generally, the recipient's country for tax and mailing purposes will be the same. If they are different, **you must always enter the country of residency for tax purposes in Box 12**. For more information about residency and tax treaty benefits, see the procedures listed under [Beneficial ownership and tax treaty benefits](#P178_9950).
+
+##### Payer or agent identification number
+
+Enter the number your organization assigns to non-resident payees. For example, if you are a financial institution, enter the number assigned to your client (such as an annuitant number or client number) in this box. If you do not use such a number, leave this area blank.
+
+For income codes 74 and 76 when reported for the holder enter the “FHSA contract number” in this field.
+
+For income codes 75 and 76 when reported for the beneficiary enter the “deceased holder FHSA contract number” in this field.
+
+##### Box 13 – Canadian tax identification number
+
+Enter the Canadian identification number assigned to the non-resident for tax purposes such as: a social insurance number (SIN), an individual tax number (ITN), a temporary tax number (TTN) or a payroll program account number (15 characters). If a non-resident does not give you a Canadian identification number, ask if an identification number is available from their country of residence. If no number is available, leave the area blank.
+
+##### Box 14 or 24 – Income code
+
+Enter the appropriate numeric income code from the list in [Appendix B](#P1072_47237). For example, enter income code "31" to identify a lump-sum payment from a deferred profit sharing plan.
+
+Use the proper two-digit code. For example, copyright royalties should be reported using "05" not "5."
+
+##### Box 15 or 25 – Currency code
+
+All income and withholding tax should be reported in Canadian funds. Enter currency code CAD. If you cannot report the amounts in Canadian funds, enter the **three-letter code** of the currency for the amounts reported as gross income (box 16 or 26) and non-resident tax withheld (box 17 or 27). See [Appendix D](#P1389_60669) for a list of the currency codes.
+
+If you cannot convert gross income and tax withheld, the CRA will convert **both** amounts to Canadian funds, based on the currency code and the average annual exchange rate as published by the Bank of Canada on December 31 of each year. Report the amounts of gross income **and**tax withheld **in the same** currency as stated by the currency code.
+
+##### Box 16 or 26 – Gross income
+
+Enter in Canadian funds the gross income you paid or credited to non-residents of Canada if one of the following applies:
+
+- the amount paid or credited, or deemed paid or credited under Part I or Part XIII of the Income Tax Act is $50 or more
+
+- **any** amount of Part XIII tax has been withheld
+
+In addition, payers of rental income have to enter the **gross** rental income, and film industry payers have to enter the **gross** income for acting services, even if no tax was withheld on some or all of the income.
+
+See the Note under [Box 15 or 25 – Currency code](#cCode).
+
+##### Box 17 or 27 – Non-resident tax withheld
+
+Enter in Canadian funds the amount of non-resident tax you withheld. If you cannot convert foreign funds to Canadian currency, fill in box 15 or 25 (currency code), in order to clearly show on the NR4 slip the currency of the tax you withheld. This will help the CRA and the non-resident.
+
+See the Note under [Box 15 or 25 – Currency code](#cCode).
+
+For box 16 or 26 (Gross income), and box 17 or 27 (Non-resident tax withheld), individuals and corporations report income based on the calendar year and estates and trusts report income based on the fiscal year-end.
+
+##### Box 18 or 28 – Exemption code
+
+Enter the exemption code that applies from the list in [Appendix C](#P1269_50798). This code identifies the section of the Income Tax Act or a bilateral tax treaty that gives the authority to exempt the amount from Part XIII withholding tax, or to apply a reduced withholding rate, as a result of certain elections.
+
+If no tax is withheld, the correct exemption code must be included. Exemption codes are only valid if they are used with the correct income type as shown in Appendix C.
+
+##### Non-resident recipient's name and address
+
+If you are preparing the NR4 slip for an individual, enter their last name, followed by the first name and initial. Otherwise, enter the name of the corporation, organization, association, trust, or institution.
+
+If applicable, enter the second recipient's name. If this is not a joint account or there is only one recipient, leave this line blank.
+
+Do not enter the name of the secretary-treasurer or any other individual who has signing authority.
+
+Enter the recipient's full mailing address as follows:
+
+**Lines 1 and 2** – Enter the street address (civic number, street name, and post office box number or rural route number).
+
+**Line 3** –
+
+- For Canadian addresses, enter the city, two-letter provincial or territorial code (as found in [Appendix E](#P1522_62568)), and the postal code
+
+- For U.S. addresses, enter the city, two-letter state, territory or possession code (as found in Appendix E), and the zip code
+
+- For addresses **outside Canada and the United States**,enter the postal code and then the city name
+
+**Line 4** – Enter the full country name (if Canada, leave blank but enter CAN in the country code box).
+
+**Country code** – Enter the three-letter country code from [Appendix A](#P482_43418) that corresponds to the country you entered on line 4. This country code is for mailing purposes only.
+
+##### Name and address of payer or agent
+
+Enter your full name and address using the same format as the non-resident’s address described above.
+
+##### Non-resident account number
+
+Enter the account number under which you remit your non-resident tax deductions to the CRA. This number has to match the account number shown on the remittance part of Form NR76, Non-Resident Tax – Statement of Account.
+
+### Distributing copies of the NR4 slips
+
+You must give recipients their NR4 slips on or before the **last day of March after the calendar year the slips apply to**. For estates or trusts, give the copies no later than 90 days after the end of the estate’s or trust’s tax year. If you do not, the CRA may assess you a penalty. The penalty for failing to distribute NR4 slips to recipients is $25 per day for each such failure with a minimum penalty of $100 and a maximum of $2,500.
+
+Print the two NR4 slips that you have to give to each recipient on one sheet.
+
+Give each of your recipients their NR4 slip in one of the following ways:
+
+- one copy sent electronically (for example, by e-mail) if you have the recipient’s written consent on paper or in electronic format to send the NR4 slip electronically
+
+- two copies, sent by mail to the recipient’s last known address **Notes** If NR4 slip copies are not deliverable, you may want to keep the copies with the recipient’s file. If you know that the address you have for a recipient is not correct, do not send the recipient’s NR4 slip copies to that address. Document why the copies were not sent and your efforts to get the correct address. Keep this information with the NR4 slips copies in the recipient’s file. You still have to include that NR4 slip information in your NR4 information return when you file it.
+
+- two copies, delivered in person
+
+Keep the information from the NR4 slips in your records.
+
+## NR4 Summary
+
+The [NR4 Summary](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/nr4/nr4-summary.html) records the totals of amounts that you report on [NR4 slips](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents/nr4-part-xiii-tax/nr4/nr4-slip.html) and on [Form NR601, Non-Resident Ownership Certificate – Withholding Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr601.html), and [Form NR602, Non-Resident Ownership Certificate – No Withholding Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr602.html).
+
+### Filling out the NR4 Summary
+
+Use the information on the NR4 slips, Forms NR601, and NR602 to fill out the NR4 Summary, as described below. All amounts should be entered in Canadian funds.
+
+#### Year-end
+
+Enter the four digits of the calendar year to which the information return relates. In the case of an estate or trust, enter the four digits of the fiscal year-end.
+
+#### Line 1 – Non-resident account number
+
+Enter the account number under which you remit your non-resident tax deductions to the CRA. This number has to match the account number shown on the remittance part of Form NR76, Non-Resident Tax – Statement of Account.
+
+#### Name and address of payer or agent
+
+Enter your full name and address using the same format as the non-resident's address described above. Your name has to match the one shown on the remittance part of Form NR76, Non-Resident Tax – Statement of Account.
+
+#### Line 88 – Total number of NR4 slips filed
+
+Enter the total number of all the slips included with this summary.
+
+#### Lines 18 and 22 – Amounts reported on NR4 slips
+
+Add the amounts in boxes 16 and 26 from all slips. Enter the total on line 18.
+
+Add the amounts in boxes 17 and 27 from all slips. Enter the total on line 22.
+
+#### Lines 26 and 28 – Amounts reported on forms NR601 and NR602
+
+Add the gross income you reported on forms NR601 and NR602. Enter the total on line 26.
+
+Add the non-resident tax withheld you reported on forms NR601. Enter the total on line 28.
+
+#### Line 30 – Total
+
+Add the amounts reported on lines 18 and 26. Enter the total on line 30.
+
+#### Line 32 – Total non-resident tax withheld
+
+Add the amounts reported on lines 22 and 28. Enter the total on line 32.
+
+#### Line 82 – Minus: Total remittances for the year
+
+Enter the total you remitted to your non-resident tax account for the applicable tax year.
+
+#### Difference
+
+Subtract line 82 from line 32. Enter the difference in the space given. If there is no difference between the total non-resident tax withheld and the remittances for the year, enter "nil" on line 86. Generally, the CRA does not charge or refund a difference of $2 or less.
+
+##### Line 84 – Overpayment
+
+If the amount from line 82 is more than the amount on line 32 (and you do not have to file another return for this account number), enter the difference on line 84. Send a note giving the reason for the overpayment and whether you want the CRA to transfer this amount to another account or another year, or refund the overpayment to you.
+
+Direct deposit is available for refunds of non-resident tax. To register, send the CRA a completed [Form NR304, Direct Deposit for Non-Resident Tax Refunds](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr304.html). For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html).
+
+##### Line 86 – Balance due
+
+If the amount on line 32 is more than the amount on line 82, enter the difference on line 86. If you have a balance due, attach a payment to your NR4 Summary or send your payment separately for the balance owing. If you remit your payment late, any balance due may be assessed penalties and interest at the prescribed rate.
+
+To help the CRA process your payment correctly, write your non-resident account number on it.
+
+##### Lines 76 and 78 – Person to contact about this return
+
+Enter the name and telephone number of a person that the CRA can contact for more information.
+
+##### Certification
+
+An authorized officer has to sign the NR4 Summary to confirm that the information is correct and complete.
+
+## NR4 information return
+
+The NR4 information return is due on or before **the last day of March** following the calendar year to which the information return applies, or in the case of an estate or trust, no later than 90 days after the end of the estate’s or trust’s tax year.
+
+### Loss restriction event
+
+A tax year of a trust or an estate may end early because of a loss restriction event (LRE). The CRA calls this a “pre-LRE year-end.” When the pre-LRE year-end is in the same calendar year as the trust’s or the estate’s ordinary tax year-end, the NR4 information return must be filed within 90 days of the trust’s or the estate’s ordinary tax year-end.
+
+When the pre-LRE year-end is not in the same calendar year as the trust’s or the estate’s ordinary tax year-end, there are two scenarios:
+
+- for mutual fund trusts that filed an election to have a tax year-end of December 15 and the pre-LRE year-end is after December 15 of that calendar year, the NR4 information return must be filed within 90 days of that December 15 tax year-end
+
+- in any other case, the NR4 information return must be filed within 90 days of the end of the calendar year the pre-LRE year-end is in
+
+For more information about loss restriction events, see “Loss trading – Rules for trusts” in [Guide T4013, T3 Trust Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4013.html).
+
+When the due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your information return is considered on time if the CRA receives it or if it is postmarked on or before the next business day.
+
+If you fail to file it on time, the CRA can assess a penalty. See [Penalties, interest and other consequences](#P148_5528).
+
+An NR4 information return must be completed even if any of the forms NR5, NR6, T1287, T1288 or an actor election has been filed.
+
+If your business or activity ceases during the year, you have to file an NR4 information return within 30 days of ending your business or stopping your activity.
+
+### Requirement to report the Fair market value (FMV) amount of Registered Retirement Savings Plan (RRSP) and Registered Retirement Income Fund (RRIF)
+
+Payers (issuers or carriers) have to file an information return to report the total FMV at the end of the year of all property held by the RRSP or RRIF for 2023 and subsequent taxation years. The FMV can only be filed by Internet file transfer (XML) or Web Forms. The FMV must be reported in the T4RSP or T4RIF XML file regardless of the residency of the tax recipient or annuitant. For more information on FMV reporting of RRSPs and RRIFs, refer to T4079, Filing the T4RSP and T4RIF information returns.
+
+### Electronic filing methods
+
+Internet filing will be available starting January 12, 2026.
+
+You **must** file electronically **if you have more than 5 information returns** of the same type.
+
+#### Filing by Web Forms
+
+The CRA’s [Web Forms](https://apps.cra-arc.gc.ca/ebci/nkca/Webforms/ng/disclaimer) application is free and secure. To use it, all you need is access to the Internet. With Web Forms you can file an information return easily, following the step-by-step instructions.
+
+[Web Forms](https://apps.cra-arc.gc.ca/ebci/nkca/Webforms/ng/disclaimer) lets you:
+
+- file **up to 100 slips** (original, additional, amended, or cancelled) from the [CRA’s website](https://www.canada.ca/en/revenue-agency.html)
+
+- calculate all of the totals for the summary
+
+- create an electronic information return containing slips and a summary, which you can save and import at a later date
+
+- print all your slips and your summary
+
+- validate data in real time
+
+After you submit your information return, you will receive a confirmation number that will be your proof that the CRA received it.
+
+To use the Web Forms application, you must have a web access code. If you do not have a web access code, you can easily get one online or by calling the CRA. For more information, see [Web access code (WAC)](#wac) on this page.
+
+To start using this application or to get more information about Web Forms, go to [File Information Returns Electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Filing by Internet file transfer (XML)
+
+[Internet file transfer](https://apps.cra-arc.gc.ca/ebci/njfs/ext/disclaimer) allows you to transmit an original or amended return with a maximum file size of **150 MB**. All you need is a web browser to connect to the Internet, and your software will create, print, and save your electronic information return in XML format.
+
+If you use commercial or in-house developed software to manage your business, you can file up to**150 MB** by Internet file transfer. For example, a service bureau can file multiple returns in one submission, provided the total submission does not exceed the 150 MB restriction.
+
+If your return is more than 150 MB, you can either compress your return or divide it so that each submission is no more than 150 MB.
+
+If you are filing multiple slips electronically for the same return type, tax year and account number, group all slips together under one summary and file as one return. File original and amended slips in separate returns. For more information on filing information returns using the Internet, go to [File Information Returns Electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+#### Web access code (WAC)
+
+To file your return over the Internet using the Internet file transfer or Web Forms service, you will need an account number and its associated WAC, unless you are filing through a Non-Resident Withholding Tax portal, [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) or [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). WAC digital service has been enhanced to allow information return filers to create, view, replace, or deactivate their web access code. For more information about these services or if you have misplaced or do not have a WAC, go to [File Information Returns Electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html) and click on “What you should know before” to access our web access code online service. If you cannot get your WAC online or would like to change it, call **1-800-959-5525**or**1-613-940-8497** for Outside Canada/U.S. call collect.
+
+### Filing on paper
+
+You can still file up to 5 slips on paper. However, the CRA strongly encourages you to file online using Internet File Transfer or Web Forms. The CRA explains these options under [Electronic filing methods](#P401_35662).
+
+If you need more paper copies, you can order **up to 9** single-page slips at [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) or by calling **1-800-959-5525**. There are two slips per page intended to be printed, typed, or filled out by hand.
+
+If you choose to file your return on paper, mail it to this address:
+
+NR4 Program Jonquière Tax Centre Post Office Box 1300 LCD Jonquière Jonquière QC G7S 0L5 Canada
+
+Fill out **one copy**of the NR4 slip for each non-resident and send them to the CRA with your NR4 Summary. Enter the information for two different non-residents on one sheet. You must keep the information from the NR4 slips and the NR4 Summary or a copy of these forms for your files.
+
+Unlike agents or payers who prepare the NR4 information return on behalf of the non-resident, non-resident payees **do** **not** issue their own NR4. They must send the request in writing for an NR4 proforma, by mail or fax, to the Non-Resident Withholding Section (NRWS).
+
+## After you file
+
+When the CRA receives your information return, the CRA checks it to see if you have prepared it correctly. After an initial review, the CRA enters your return into its processing system, which captures the information and performs various validity and balancing checks. If there are problems, the CRA may contact you.
+
+After filing your information return, you may notice that you made an error on an NR4 slip. If so, you will have to prepare an amended slip to correct the information.
+
+You are **not allowed** to file an amended slip, or cancel a slip in the following situations:
+
+- Part XIII tax was deducted in error from amounts paid to a Canadian resident
+
+- excessive Part XIII tax was deducted from amounts paid or credited to a non-resident
+
+For more information about these situations, see [Applying for a refund of tax overpayments](#P242_22777).
+
+### Amending or cancelling slips over the Internet
+
+To amend a slip over the Internet, change only the information that is incorrect and retain all of the remaining information that was originally submitted. Use summary report type code "A" and slip report type code "A."
+
+To cancel a slip, do not change any information that was contained on the original slip. Use summary report type code "A" and slip report type code "C."
+
+For more information about amending or cancelling information returns using the Internet, go to [File Information Returns Electronically (tax slips and summaries)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If you amend or cancel slips using the Internet, the CRA may contact you to find out why.
+
+### Amending or cancelling slips on paper
+
+If you choose to file your amended return on paper, clearly identify the slips as amended or cancelled by writing "AMENDED" or "CANCELLED" at the top of each slip. Make sure you fill out all the necessary boxes, including the information that was correct on the original slip. Send two copies of the amended slips to the non-resident.
+
+If you have to change financial data on the amended slips, prepare and file an amended NR4 Summary showing the revised totals. Clearly write "AMENDED" at the top of the summary.
+
+Send one copy of the amended or cancelled slips and NR4 Summary, along with a letter explaining the reason for the amendment, to the Sudbury Tax Centre listed at the end of this guide.
+
+Any address change **cannot** be made by using an NR4 Summary. To change your address, contact the Sudbury Tax Centre listed at the end of the guide.
+
+#### Adding slips
+
+After you file your information return, you may discover that you need to send additional slips. If you have original slips that were not filed with your return, file them separately either electronically or on paper.
+
+To file additional slips electronically, see [Electronic filing methods](#P401_35662).
+
+When submitting additional slips on paper, clearly identify the new slips by writing "ADDITIONAL" at the top of each slip.
+
+File an NR4 Summary for the additional slips showing the revised totals. Clearly write "ADDITIONAL" at the top of the summary.
+
+Send one copy of the additional slips and NR4 Summary, along with a letter explaining the reason for the addition, to the Sudbury Tax Centre. The address is at the end of this guide.
+
+#### Replacing slips
+
+If you issue NR4 slips to replace copies the non-residents lost or destroyed, do not send copies of these slips. Clearly identify them as "DUPLICATE" copies, and keep them with your records.
+
+## Special reporting situations
+
+### Non-resident ownership certificates
+
+If you are an agent or another person who pays interest or dividends when bearer coupons or warrants are redeemed for a non-resident, you have to fill out one of the following forms:
+
+- [Form NR601, Non-Resident Ownership Certificate – Withholding Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr601.html), if you withheld non-resident tax
+
+- [Form NR602, Non-Resident Ownership Certificate – No Withholding Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/nr602.html), if you did not withhold non-resident tax
+
+#### Form NR601, Non-Resident Ownership Certificate – Withholding Tax
+
+If you are an encashing agent, use Form NR601 to report interest, dividend coupons, or warrants that require you to withhold Part XIII non-resident tax. Fill out all of the following items on Form NR601:
+
+- name of owner
+
+- description of security
+
+- taxable amount and tax withheld
+
+- beneficial owner’s name and country of residence
+
+- encashing agent’s name, address, telephone number, and non-resident account number
+
+#### Form NR602, Non-Resident Ownership Certificate – No Withholding Tax
+
+If you are an encashing agent, use Form NR602 to report interest, dividend coupons, or warrants that do not require you to withhold Part XIII non-resident tax. Fill out all of the following items on Form NR602:
+
+- beneficial owner’s name and address
+
+- encashing agent’s name, address, telephone number, and non-resident account number
+
+- description of security
+
+- total amount received in Canadian funds
+
+- certification (the reason a payment is exempt from Part XIII withholding tax)
+
+The owner or agent has to certify that the information given on Form NR601 or Form NR602 is true and correct.
+
+### Distributing copies
+
+**Send** one copy of Form NR601 or Form NR602 (or both) to the Sudbury Tax Centre, at the address listed at the end of this guide. You have to do this no later than the 15th day of the month following the cashing of the interest coupons or dividend warrants.
+
+**Give** one copy of Form NR601 or Form NR602 to the non-resident owner or agent at the time of the cashing.
+
+**Keep** one copy of Form NR601 or Form NR602 for your records. The information on these forms will help you fill out lines 26 and 28 of your NR4 Summary.
+
+## Appendix A – Country codes for tax purposes
+
+Enter the appropriate three-letter code in box 12 of the NR4 slip. Please note that these codes should also be used in the address portion of the NR4 slip.
+
+For more information, refer to the International organization for standardization ISO 3166 codes called Codes for the representation of names of countries and their subdivisions.
+
+| **Codes** | **Countries** |
+
+| --- | --- |
+
+| **AFG** | Afghanistan |
+
+| **ALA** | Åland Islands |
+
+| **ALB** | Albania |
+
+| **DZA** | Algeria |
+
+| **ASM** | American Samoa |
+
+| **AND** | Andorra |
+
+| **AGO** | Angola |
+
+| **AIA** | Anguilla |
+
+| **ATA** | Antarctica |
+
+| **ATG** | Antigua and Barbuda |
+
+| **ARG** | Argentina |
+
+| **ARM** | Armenia |
+
+| **ABW** | Aruba |
+
+| **AUS** | Australia |
+
+| **AUT** | Austria |
+
+| **AZE** | Azerbaijan |
+
+| **BHS** | Bahamas (the) |
+
+| **BHR** | Bahrain |
+
+| **BGD** | Bangladesh |
+
+| **BRB** | Barbados |
+
+| **BLR** | Belarus |
+
+| **BEL** | Belgium |
+
+| **BLZ** | Belize |
+
+| **BEN** | Benin |
+
+| **BMU** | Bermuda |
+
+| **BTN** | Bhutan |
+
+| **BOL** | Bolivia (Plurinational State of) |
+
+| **BES** | Bonaire, Sint Eustatius and Saba |
+
+| **BIH** | Bosnia and Herzegovina |
+
+| **BWA** | Botswana |
+
+| **BVT** | Bouvet Island |
+
+| **BRA** | Brazil |
+
+| **IOT** | British Indian Ocean Territory (the) |
+
+| **BRN** | Brunei Darussalam |
+
+| **BGR** | Bulgaria |
+
+| **BFA** | Burkina Faso (Upper Volta) |
+
+| **BDI** | Burundi |
+
+| **KHM** | Cambodia (Kampuchea) |
+
+| **CMR** | Cameroon |
+
+| **CPV** | Cabo Verde |
+
+| **CYM** | Cayman Islands (the) |
+
+| **CAF** | Central African Republic (the) |
+
+| **TCD** | Chad |
+
+| **CHL** | Chile |
+
+| **CHN** | China (mainland) |
+
+| **CXR** | Christmas Island (Australia) |
+
+| **CCK** | Cocos (Keeling) Islands (the) |
+
+| **COL** | Colombia |
+
+| **COM** | Comoros (the) |
+
+| **COG** | Congo (the) |
+
+| **COD** | Congo (the Democratic Republic of the) (formerly Zaire) |
+
+| **COK** | Cook Islands (the) |
+
+| **CRI** | Costa Rica |
+
+| **CIV** | Côte d'Ivoire (Ivory Coast) |
+
+| **HRV** | Croatia |
+
+| **CUB** | Cuba |
+
+| **CUW** | Curaçao |
+
+| **CYP** | Cyprus |
+
+| **CZE** | Czechia |
+
+| **DNK** | Denmark |
+
+| **DJI** | Djibouti |
+
+| **DMA** | Dominica |
+
+| **DOM** | Dominican Republic (the) |
+
+| **ECU** | Ecuador |
+
+| **EGY** | Egypt |
+
+| **SLV** | El Salvador |
+
+| **GNQ** | Equatorial Guinea |
+
+| **ERI** | Eritrea |
+
+| **EST** | Estonia |
+
+| **SWZ** | Eswatini |
+
+| **ETH** | Ethiopia |
+
+| **FLK** | Falkland Islands (the) (Malvinas) |
+
+| **FRO** | Faroe Islands (the) |
+
+| **FJI** | Fiji |
+
+| **FIN** | Finland |
+
+| **FRA** | France |
+
+| **GUF** | French Guiana |
+
+| **PYF** | French Polynesia |
+
+| **ATF** | French Southern Territories (the) |
+
+| **GAB** | Gabon |
+
+| **GMB** | Gambia (the) |
+
+| **GEO** | Georgia |
+
+| **DEU** | Germany |
+
+| **GHA** | Ghana |
+
+| **GIB** | Gibraltar |
+
+| **GRC** | Greece |
+
+| **GRL** | Greenland |
+
+| **GRD** | Grenada |
+
+| **GLP** | Guadeloupe |
+
+| **GUM** | Guam |
+
+| **GTM** | Guatemala |
+
+| **GGY** | Guernsey |
+
+| **GIN** | Guinea |
+
+| **GNB** | Guinea-Bissau |
+
+| **GUY** | Guyana |
+
+| **HTI** | Haiti |
+
+| **HMD** | Heard Island and McDonald Islands |
+
+| **VAT** | Holy See (the) |
+
+| **HND** | Honduras |
+
+| **HKG** | Hong Kong |
+
+| **HUN** | Hungary |
+
+| **ISL** | Iceland |
+
+| **IND** | India |
+
+| **IDN** | Indonesia |
+
+| **IRN** | Iran (Islamic Republic of) |
+
+| **IRQ** | Iraq |
+
+| **IRL** | Ireland |
+
+| **IMN** | Isle of Man |
+
+| **ISR** | Israel |
+
+| **ITA** | Italy |
+
+| **JAM** | Jamaica |
+
+| **JPN** | Japan |
+
+| **JEY** | Jersey |
+
+| **JOR** | Jordan |
+
+| **KAZ** | Kazakhstan |
+
+| **KEN** | Kenya |
+
+| **KIR** | Kiribati |
+
+| **PRK** | Korea (the Democratic People's Republic of) (North) |
+
+| **KOR** | Korea (the Republic of) (South) |
+
+| **KWT** | Kuwait |
+
+| **KGZ** | Kyrgyzstan |
+
+| **LAO** | Lao People's Democratic Republic (the) |
+
+| **LVA** | Latvia |
+
+| **LBN** | Lebanon |
+
+| **LSO** | Lesotho |
+
+| **LBR** | Liberia |
+
+| **LBY** | Libya |
+
+| **LIE** | Liechtenstein |
+
+| **LTU** | Lithuania |
+
+| **LUX** | Luxembourg |
+
+| **MAC** | Macao |
+
+| **MDG** | Madagascar |
+
+| **MWI** | Malawi |
+
+| **MYS** | Malaysia |
+
+| **MDV** | Maldives |
+
+| **MLI** | Mali |
+
+| **MLT** | Malta |
+
+| **MHL** | Marshall Islands (the) |
+
+| **MTQ** | Martinique |
+
+| **MRT** | Mauritania |
+
+| **MUS** | Mauritius |
+
+| **MYT** | Mayotte |
+
+| **MEX** | Mexico |
+
+| **FSM** | Micronesia (Federated States of) |
+
+| **MDA** | Moldova (the Republic of) |
+
+| **MCO** | Monaco |
+
+| **MNG** | Mongolia |
+
+| **MNE** | Montenegro |
+
+| **MSR** | Montserrat |
+
+| **MAR** | Morocco |
+
+| **MOZ** | Mozambique |
+
+| **MMR** | Myanmar (Burma) |
+
+| **NAM** | Namibia |
+
+| **NRU** | Nauru |
+
+| **NPL** | Nepal |
+
+| **NLD** | Netherlands (the) |
+
+| **NCL** | New Caledonia |
+
+| **NZL** | New Zealand |
+
+| **NIC** | Nicaragua |
+
+| **NER** | Niger (the) |
+
+| **NGA** | Nigeria |
+
+| **NIU** | Niue |
+
+| **NFK** | Norfolk Island |
+
+| **MKD** | North Macedonia |
+
+| **GBR** | Northern Ireland and the United Kingdom of Great Britain |
+
+| **MNP** | Northern Mariana Islands (the) |
+
+| **NOR** | Norway |
+
+| **OMN** | Oman |
+
+| **PAK** | Pakistan |
+
+| **PLW** | Palau |
+
+| **PAN** | Panama |
+
+| **PNG** | Papua New Guinea |
+
+| **PRY** | Paraguay |
+
+| **PER** | Peru |
+
+| **PHL** | Philippines (the) |
+
+| **PCN** | Pitcairn |
+
+| **POL** | Poland |
+
+| **PRT** | Portugal |
+
+| **PRI** | Puerto Rico |
+
+| **QAT** | Qatar |
+
+| **REU** | Réunion |
+
+| **ROU** | Romania |
+
+| **RUS** | Russian Federation (the) |
+
+| **RWA** | Rwanda |
+
+| **BLM** | Saint Barthélemy |
+
+| **SHN** | Saint Helena, Ascension and Tristan da Cunha |
+
+| **KNA** | Saint Kitts and Nevis |
+
+| **LCA** | Saint Lucia |
+
+| **MAF** | Saint Martin (French part) |
+
+| **SPM** | Saint Pierre and Miquelon |
+
+| **VCT** | Saint Vincent and the Grenadines |
+
+| **WSM** | Samoa |
+
+| **SMR** | San Marino |
+
+| **STP** | Sao Tome and Principe |
+
+| **SAU** | Saudi Arabia |
+
+| **SEN** | Senegal |
+
+| **SRB** | Serbia |
+
+| **SYC** | Seychelles |
+
+| **SLE** | Sierra Leone |
+
+| **SGP** | Singapore |
+
+| **SXM** | Saint Maarten (Dutch part) |
+
+| **SVK** | Slovakia (Slovak Republic) |
+
+| **SVN** | Slovenia |
+
+| **SLB** | Solomon Islands |
+
+| **SOM** | Somalia |
+
+| **ZAF** | South Africa |
+
+| **SGS** | South Georgia and the South Sandwich Islands |
+
+| **SSD** | South Sudan |
+
+| **ESP** | Spain |
+
+| **LKA** | Sri Lanka |
+
+| **SDN** | Sudan (the) |
+
+| **SUR** | Suriname |
+
+| **SJM** | Svalbard and Jan Mayen |
+
+| **SWE** | Sweden |
+
+| **CHE** | Switzerland |
+
+| **SYR** | Syrian Arab Republic (the) |
+
+| **TWN** | Taiwan |
+
+| **TJK** | Tajikistan |
+
+| **TZA** | Tanzania, the United Republic of |
+
+| **THA** | Thailand |
+
+| **TLS** | Timor-Leste |
+
+| **TGO** | Togo |
+
+| **TKL** | Tokelau |
+
+| **TON** | Tonga |
+
+| **TTO** | Trinidad and Tobago |
+
+| **TUN** | Tunisia |
+
+| **TUR** | Türkiye |
+
+| **TKM** | Turkmenistan |
+
+| **TCA** | Turks and Caicos Islands (the) |
+
+| **TUV** | Tuvalu |
+
+| **UGA** | Uganda |
+
+| **UKR** | Ukraine |
+
+| **ARE** | United Arab Emirates (the) |
+
+| **GBR** | United Kingdom of Great Britain and Northern Ireland (the) |
+
+| **USA** | United States of America (the) |
+
+| **UMI** | United States Minor Outlying Islands (the) |
+
+| **URY** | Uruguay |
+
+| **UZB** | Uzbekistan |
+
+| **VUT** | Vanuatu (New Hebrides) |
+
+| **VEN** | Venezuela (Bolivarian Republic of) |
+
+| **VNM** | Viet Nam |
+
+| **VGB** | Virgin Islands (British) |
+
+| **VIR** | Virgin Islands (U.S.) |
+
+| **WLF** | Wallis and Futuna |
+
+| **PSE** | West Bank and Gaza Strip |
+
+| **ESH** | Western Sahara |
+
+| **YEM** | Yemen |
+
+| **ZMB** | Zambia |
+
+| **ZWE** | Zimbabwe |
+
+## Appendix B – Income codes
+
+Enter the appropriate income code in box 14 or 24 of the NR4 slip. Use the correct two-digit code. For example, for copyright royalties, use code "05", **not** "5."
+
+### Pension and similar payments
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 07 | DPSP – Periodic payments |
+
+| 31 | DPSP – Lump-sum payments |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 63 | RDSP |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 74 | Taxable FHSA withdrawals |
+
+| 75 | FHSA beneficiary distributions received |
+
+| 76 | Amount deemed received on FHSA cessation |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 64 | TFSA – taxable amount |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 65 | PRPP – Periodic payments |
+
+| 66 | PRPP – Lump-sum payments |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 26 | RRIF – Periodic payments [Footnote1](#fn1) |
+
+| 27 | RRIF – Lump-sum payments [Footnote1](#fn1) |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 28 | RRSP – Periodic payments |
+
+| 29 | RRSP – Refund of premiums |
+
+| 30 | RRSP – Refund of excess amounts |
+
+| 32 | RRSP – Amounts deemed received on deregistration |
+
+| 33 | RRSP – Amounts deemed received on death |
+
+| 43 | RRSP – Lump-sum payments |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 39 | Superannuation or pension benefits – Periodic payments |
+
+| 40 | Superannuation or pension benefits – Lump-sum payments |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 02 | Other – Periodic payments |
+
+| 03 | Other – Lump-sum payments |
+
+| 04 | Automotive products – Assistance benefits |
+
+| 06 | Death benefit (other than Canada Pension Plan or Quebec Pension Plan) |
+
+| 14 | Income-averaging annuity contracts – Report all benefits including lump-sum payments on proceeds of disposition of these contracts |
+
+| 34 | Registered supplementary unemployment benefits |
+
+| 36 | Retiring allowance |
+
+| 37 | Retirement compensation arrangements |
+
+| 41 | Textile, clothing, and leather goods – Assistance and superannuation or pension benefits |
+
+### Social security benefits
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 44 | Old Age Security payments (regular benefits) aids [Footnote2](#fn2) |
+
+| 45 | Net federal (guaranteed income) supplement [Footnote2](#fn2) |
+
+| 46 | Canada Pension Plan (CPP) benefits |
+
+| 47 | Canada Pension Plan (CPP) – Disability benefits |
+
+| 48 | CPP death benefits – Lump-sum payments |
+
+| 49 | Quebec Pension Plan (QPP) benefits |
+
+| 50 | Quebec Pension Plan (QPP) – Disability benefits |
+
+| 51 | QPP death benefits – Lump-sum payments |
+
+| 88 | Old Age Security recovery tax |
+
+### Mutual fund investment distributions
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 57 | TCP gains distribution – Capital gains dividends paid by mutual fund corporations |
+
+| 58 | TCP gains distribution – Capital gains distributions made by mutual fund trusts |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 59 | Assessable distributions paid or credited by a Canadian property mutual fund investment corporation |
+
+| 60 | Assessable distributions paid or credited by a Canadian property mutual fund investment trust |
+
+### Interest and dividends
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 61 | Arm's length interest payments |
+
+| 62 | Non-arm's length interest payments |
+
+| 67 | Arm’s length interest coupon stripping arrangement (ICSA) payments |
+
+| 68 | Non-arm’s length interest coupon stripping arrangement (ICSA) payments |
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 08 | Dividends paid by Canadian subsidiaries to foreign parent corporations |
+
+| 09 | Dividends – Other |
+
+| 85 | Dividend compensation payments made under a security lending arrangement (SLA) |
+
+### Rents, royalties, and franchise payments
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 05 | Copyright royalties |
+
+| 12 | Franchise and similar rights |
+
+| 13 | Gross rents from real property |
+
+| 23 | Natural resource royalties |
+
+| 35 | Research and development royalties |
+
+| 38 | Royalties and similar payments for the use of, or the right to use, other properties |
+
+| 52 | Timber royalties |
+
+### Miscellaneous payments
+
+| Income Code | Description |
+
+| --- | --- |
+
+| 10 | Energy conversion grants |
+
+| 11 | Estate and trust income |
+
+| 21 | Management or administrative fee or charge |
+
+| 22 | Motion picture films and films or videotape, etc. for TV use |
+
+| 24 | Registered education savings plan |
+
+| 53 | Eligible funeral arrangements |
+
+| 54 | Film and video acting services |
+
+| 55 | Film and video acting services – Contingent compensation |
+
+| 56 | Film and video acting services – Residuals |
+
+## Appendix C – Exemption codes
+
+### Exemptions applicable to dividends only
+
+| Code | Description | References |
+
+| --- | --- | --- |
+
+| **M** | **Capital gains dividends and dividends from a foreign business corporation:** Exemption for capital gains dividends described in any of subsections 130.1(4), 131(1), or 133(7.1) of the Income Tax Act. This exemption does not apply to the portion of a capital gains dividend described in subsection 131(1) that represents a taxable Canadian property (TCP) gains distribution. The TCP gains distribution is considered a taxable dividend to which withholding tax applies. Exemption for certain dividends paid for a share of the capital stock of a foreign business corporation. Exemption code M is invalid if the dividend is reflected on a T3 as in that case it is considered trust income. Use code S if applicable. | Income Tax Act, subsections 212(2) and 131(5.1) Income Tax Act, section 213 |
+
+### Exemptions applicable to rents, royalties, and similar payments only
+
+| Code | Description | References |
+
+| --- | --- | --- |
+
+| **G** | **Copyright royalties**: Exemption for a royalty or a similar payment, if the payment is made on, or for, a copyright for the production or reproduction of any literary, dramatic, musical, or artistic work. | Income Tax Act, subparagraph 212(1)(d)(vi) |
+
+| **N** | **Certain rental and leasing payments**: Exemption for payments made under certain leasing arrangements involving railway rolling stock, corporeal property used outside Canada, and aircraft. | Income Tax Act, subparagraphs 212(1)(d)(vii), 212(1)(d)(ix) and 212(1)(d)(xi) |
+
+| **O** | **Cost-sharing arrangements**: Exemption for payments made under a bona fide cost-sharing arrangement for research and development expenses. | Income Tax Act, subparagraph 212(1)(d)(viii) |
+
+### Authorization to apply a reduced rate of withholding
+
+| Code | Description | References |
+
+| --- | --- | --- |
+
+| **H** | **Rents from real property and timber royalties**: A reduction was approved by the Canada Revenue Agency allowing Canadian agents who receive rent from real property or timber royalties for non-residents to withhold tax on the net rental income rather than on the gross rental income. | Income Tax Act, section 216 |
+
+| **J** | **Pension and similar payments, and acting services**: A reduction was approved by the Canada Revenue Agency allowing payers to withhold tax at a lower rate on certain pensions and similar payments, or on payments made for the acting services of a non-resident actor in a film or video production. | Income Tax Act, section 217 and subsection 212(5.3) |
+
+### Exemptions applicable to management or administration fees or charges
+
+| Code | Description | References |
+
+| --- | --- | --- |
+
+| **P** | **Management or administration fees or charges**: Exemption under a tax convention between Canada and another country (business profits article) or in the Income Tax Act on management or administration fees or charges. | Income Tax Act, subsection 212(4) or business profits article of a tax convention signed by Canada |
+
+### Exemptions for payments made to non-resident tax-exempt persons
+
+| Code | Description | References |
+
+| --- | --- | --- |
+
+| **I** | **Article XXI of the Canada − United States Tax Convention**: Exemption for organizations that have received a letter of exemption under Article XXI of the Canada – United States Tax Convention. The letter must be in force when the amount is paid or credited. | [Exempt U.S. Organizations - Under Article XXI of the Canada - United States Tax Convention](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4016/exempt-s-organizations-under-article-xxi-canada-united-states-tax-convention.html) |
+
+### Other exemptions
+
+| Code | Description | References |
+
+| --- | --- | --- |
+
+| **Q** | **Payments to a non-resident that carries on a business in Canada through a permanent establishment in Canada**: Exemption under a tax convention between Canada and another country on dividend, interest, and royalty payments. For example, under the Canada – United States Tax Convention, these payments may be exempt if the beneficial owner of the payments carries on a business in Canada through a permanent establishment in Canada, or performs independent personal services from a fixed base in Canada, and if the holding, debt-claim, or property or right for which the payment is made is effectively connected with the permanent establishment or fixed base. | Dividend, interest, or royalties article of a tax convention signed by Canada |
+
+| **R** | **Payments made for a business carried on in a country other than Canada**: Exemption on certain arm’s length royalty payments to the extent that the amounts are deductible in calculating the income of the payer under Part I from a business carried on by the payer in a country other than Canada. Exemption under a tax convention between Canada and another country (for example, under the Canada – United States Tax Convention) if the payer has, in a country other than Canada, a permanent establishment or fixed base in connection with which the obligation to pay the interest or royalty was incurred, and the payments are deducted against the income of the permanent establishment or fixed base. | Income Tax Act, subparagraph 212(1)(d)(x) Interest and royalties article of a tax convention signed by Canada |
+
+| **S** | **Other exempting provisions – Income Tax Act**: Exemption from withholding tax as a result of other exempting provisions in the Income Tax Act, other than those given above in code **G**, **M** through **P**, **R**, and **U**. |  |
+
+| **T** | **Other exempting provisions**: Exemption from withholding tax as a result of other exempting provisions of a tax convention, other than those given above in codes **I**, and **P** through **R**. |  |
+
+| **U** | Exemption from withholding tax on payments of certain reasonable travel expenses and per diem amounts reimbursed to a non-resident actor. | Income Tax Act, subsection 212(5.1) |
+
+| **W** | **Dividend compensation payments made under a Securities Lending Arrangement (SLA)**: A compensation payment made by a Canadian resident to a non-resident under a SLA, if the SLA is a “fully collateralized arrangement” and the lent security is a foreign share (shares issued by **non-resident corporations**). | Income Tax Act, subsection 212(2.1) |
+
+## Appendix D – Currency codes
+
+Use the correct three-letter code in box 15 or 25 of the NR4 slips. The amounts entered for gross income and tax withheld are reported in the same currency as stated by the currency code. The CRA will only convert amounts reported in foreign currency to Canadian funds based on the average annual exchange rate published by the Bank of Canada.
+
+| Currency | Currency code |
+
+| --- | --- |
+
+| Canadian dollar | **CAD** |
+
+| United States dollar [Footnote3](#fn3) | **USD** |
+
+| Australian dollar [Footnote3](#fn3) | **AUD** |
+
+| European euro [Footnote3](#fn3) | **EUR** |
+
+| Hong Kong dollar | **HKD** |
+
+| United Kingdom pound sterling [Footnote3](#fn3) | **GBP** |
+
+| Currency | Currency code |
+
+| --- | --- |
+
+| Brazilian real | **BRL** |
+
+| Chinese renminbi | **CNY** |
+
+| Indian rupee [Footnote4](#fn4) | **INR** |
+
+| Indonesian rupiah | **IDR** |
+
+| Japanese yen | **JPY** |
+
+| Mexican peso | **MXN** |
+
+| New Zealand dollar [Footnote4](#fn4) | **NZD** |
+
+| Norwegian krone [Footnote4](#fn4) | **NOK** |
+
+| Peruvian nuevo sol | **PEN** |
+
+| Russian ruble | **RUB** |
+
+| Saudi riyal | **SAR** |
+
+| Singapore dollar | **SGD** |
+
+| South African rand | **ZAR** |
+
+| South Korean won | **KRW** |
+
+| Swedish krona | **SEK** |
+
+| Swiss franc [Footnote4](#fn4) | **CHF** |
+
+| Taiwanese dollar | **TWD** |
+
+| Turkish lira | **TRY** |
+
+## Appendix E – Canadian province or territory or U.S. state, territory or possession codes
+
+Use the following abbreviations when you enter the Canadian province or territory, or U.S. state, territory or possession on the slip and summary.
+
+### Canada
+
+| Province or territory | Code |
+
+| --- | --- |
+
+| Alberta | **AB** |
+
+| British Columbia | **BC** |
+
+| Manitoba | **MB** |
+
+| New Brunswick | **NB** |
+
+| Newfoundland and Labrador | **NL** |
+
+| Northwest Territories | **NT** |
+
+| Nova Scotia | **NS** |
+
+| Nunavut | **NU** |
+
+| Ontario | **ON** |
+
+| Prince Edward Island | **PE** |
+
+| Québec | **QC** |
+
+| Saskatchewan | **SK** |
+
+| Yukon | **YT** |
+
+### United States
+
+| State, territory or possession | Code |
+
+| --- | --- |
+
+| Alabama | **AL** |
+
+| Alaska | **AK** |
+
+| American Samoa | **AS** |
+
+| Arizona | **AZ** |
+
+| Arkansas | **AR** |
+
+| Armed Forces Americas (except Canada) | **AA** |
+
+| Armed Forces Africa Armed Forces Canada Armed Forces Europe Armed Forces Middle East | **AE** |
+
+| Armed Forces Pacific | **AP** |
+
+| California | **CA** |
+
+| Colorado | **CO** |
+
+| Connecticut | **CT** |
+
+| Delaware | **DE** |
+
+| District of Columbia | **DC** |
+
+| Florida | **FL** |
+
+| Georgia | **GA** |
+
+| Guam | **GU** |
+
+| Hawaii | **HI** |
+
+| Idaho | **ID** |
+
+| Illinois | **IL** |
+
+| Indiana | **IN** |
+
+| Iowa | **IA** |
+
+| Kansas | **KS** |
+
+| Kentucky | **KY** |
+
+| Louisiana | **LA** |
+
+| Maine | **ME** |
+
+| Marshall Islands | **MH** |
+
+| Maryland | **MD** |
+
+| Massachusetts | **MA** |
+
+| Michigan | **MI** |
+
+| Micronesia (Federated States of) | **FM** |
+
+| Minnesota | **MN** |
+
+| Minor Outlying Islands | **UM** |
+
+| Mississippi | **MS** |
+
+| Missouri | **MO** |
+
+| Montana | **MT** |
+
+| Nebraska | **NE** |
+
+| Nevada | **NV** |
+
+| New Hampshire | **NH** |
+
+| New Jersey | **NJ** |
+
+| New Mexico | **NM** |
+
+| New York | **NY** |
+
+| North Carolina | **NC** |
+
+| North Dakota | **ND** |
+
+| Northern Mariana Islands | **MP** |
+
+| Ohio | **OH** |
+
+| Oklahoma | **OK** |
+
+| Oregon | **OR** |
+
+| Palau | **PW** |
+
+| Pennsylvania | **PA** |
+
+| Puerto Rico | **PR** |
+
+| Rhode Island | **RI** |
+
+| South Carolina | **SC** |
+
+| South Dakota | **SD** |
+
+| Tennessee | **TN** |
+
+| Texas | **TX** |
+
+| Utah | **UT** |
+
+| Vermont | **VT** |
+
+| Virgin Islands | **VI** |
+
+| Virginia | **VA** |
+
+| Washington | **WA** |
+
+| West Virginia | **WV** |
+
+| Wisconsin | **WI** |
+
+| Wyoming | **WY** |
+
+## Digital services
+
+### Create a pre-authorized debit agreement for payments from your Canadian chequing account
+
+A pre-authorized debit (PAD) is a secure online self-service payment option for individuals and businesses to pay their taxes. A PAD lets you authorize withdrawals from your Canadian chequing account to pay the CRA. You can set the payment dates and amounts of your PAD agreement using the CRA’s My Business Account service at [Sign in to your CRA account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html). PADs are flexible and managed by you. You can use My Business Account to view your account history and modify, cancel, or skip a payment. For more information, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html).
+
+### Electronic payments
+
+Make your payment using:
+
+- your Canadian bank or credit union’s online banking, mobile app, or telephone service
+
+- the CRA’s My Payment service at [Pay with a debit card through the CRA's My Payment service](https://www.canada.ca/en/revenue-agency/services/e-services/payment-save-time-pay-online.html) with your activated debit card from a participating Canadian bank or credit union with a Visa Debit or Debit Mastercard logo (does not include credit cards)
+
+- pre-authorized debit (PAD) at [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html) which lets you:
+
+    - set up payments to the CRA from a Canadian chequing account on pre-set dates starting in five or more business days
+
+    - pay an amount due, repay overpaid amounts or make instalment payments
+
+    - view your account history and modify, cancel, or skip a payment (for more information on PAD, go to [Pay by scheduled pre-authorized debit (PAD) through CRA online services](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/pay-authorized-debit.html))
+
+- the “Proceed to pay” button on the “View and pay account balance” page and other pages within My Business Account
+
+- your credit card, Interac e-Transfer or PayPal through one of the third-party service providers for a fee
+
+For more information, go to [Payments to the CRA](https://www.canada.ca/en/revenue-agency/services/payments/payments-cra.html).
+
+## For more information
+
+### If you need help
+
+For help with common topics, current contact centre wait times, and links to online self-serve options, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+### Direct deposit
+
+Direct deposit is a fast, convenient, and secure way to receive your CRA payments directly in your account at a financial institution in Canada. For more information, go to [Direct deposit](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/direct-deposit.html) or contact your financial institution.
+
+### Forms and publications
+
+The CRA encourages you to file your return electronically. If you need a paper version of the CRA's forms and publications, go to [Forms and publications - CRA](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Electronic mailing lists
+
+The CRA can send you an email when new information on a subject of interest is available on its website. To subscribe, go to [Canada Revenue Agency electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+### Teletypewriter (TTY) and Video Relay Service (VRS) users
+
+If you use a TTY for a hearing or speech impairment, call **1-800-665-0354**.
+
+Register with Canada VRS to download the app, by going to [Get started with Canada VRS](https://srvcanadavrs.ca/en/get-the-app/), and call the VRS line.
+
+If you use another **operator-assisted relay service**, call the CRA’s regular telephone numbers instead of the TTY number or VRS line.
+
+### Addresses
+
+Jonquière Tax Centre Post Office Box 1300 LCD Jonquière Jonquière QC G7S 0L5 Canada
+
+Sudbury Tax Centre Post Office Box 20000, Station A Sudbury ON P3A 5C1 Canada
+
+### Formal disputes (objections and appeals)
+
+You have the right to file an objection or an appeal if you disagree with an assessment, a determination, or a decision. For more information, go to [File an objection](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/file-objection-cppei-appeal-minister.html).
+
+### CRA service feedback program
+
+#### Service complaints
+
+You can expect to be treated fairly and to receive a high level of service every time you interact with the CRA.
+
+You can provide compliments or suggestions; however, if you are not satisfied with the service you received:
+
+- You may save time by calling the CRA first depending on your situation. You can call the telephone number provided in your CRA correspondence or discuss your concerns with the employee you have been dealing with. If you do not have a contact number, go to [Contact the Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html)
+
+- You can ask to discuss the matter with the employee’s supervisor if you have not been able to resolve your service issue
+
+- You can submit feedback by filling out [Form RC193, Service Feedback](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html), if the issue remains unresolved. For more information, go to [Send feedback about CRA service](https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html)
+
+- You may contact the [Office of the Taxpayers’ Ombudsperson (OTO)](https://www.canada.ca/en/taxpayers-ombudsperson.html) if you are not satisfied with the response you have received. The Ombudsperson will only respond to complaints that the CRA has already tried to address
+
+For more information about the Taxpayer Bill of Rights, go to [Taxpayer Bill of Rights](https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra/taxpayer-bill-rights.html).
+
+#### Reprisal complaints
+
+If you received a response about a previously submitted service complaint or formal review of a CRA decision and felt that you were not treated fairly by a CRA employee, you can submit a reprisal complaint by filling out [Form RC459, Reprisal Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc459.html).
+
+For more information about, go to [Reprisal Complaints](https://www.canada.ca/en/revenue-agency/services/about-canada-revenue-agency-cra/complaints-disputes/reprisal-complaints.html).
+
+### Reporting foreign income and other foreign amounts
+
+Report, in Canadian dollars, your foreign income and other foreign currency amounts (such as expenses and foreign taxes paid).
+
+In general, the foreign currency amount should be converted using the Bank of Canada exchange rate in effect on the day that the amount arises. In certain situations, the CRA will accept an exchange rate quoted by a source other than the Bank of Canada if the rate is:
+
+- widely available
+
+- verifiable
+
+- published by an independent provider on an ongoing basis
+
+- recognized by the market
+
+- used in accordance with well-accepted business principles
+
+- used to prepare financial statements (if any)
+
+- used consistently from year to year
+
+Each of the conditions above must be met for the rate to be accepted. Other sources of foreign exchange rates that the CRA generally accepts include Bloomberg L.P., Thomson Reuters Corporation, and OANDA Corporation.
+
+In certain circumstances, an average of exchange rates over the relevant period of time may be used to convert foreign currency amounts. See [Income Tax Folio S5-F4-C1, Income Tax Reporting Currency](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/series-5-international-residency-folio-4-foreign-currency/income-tax-folio-s5-f4-c1-income-tax-reporting-currency.html), and refer to this folio for information about converting foreign amounts generally.
+
+For more information about converting foreign income taxes paid, see [Income Tax Folio S5-F2-C1, Foreign Tax Credit](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-5-international-residency/folio-2-foreign-tax-credits-deductions/income-tax-folio-s5-f2-c1-foreign-tax-credit.html).

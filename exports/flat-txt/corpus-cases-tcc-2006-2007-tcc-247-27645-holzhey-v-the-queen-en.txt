@@ -1,0 +1,181 @@
+Title: Holzhey v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27645/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-247-27645-holzhey-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-08-25
+
+# Holzhey v. The Queen
+
+- Citation: 2007 TCC 247
+- Decision date: 2006-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 401, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Holzhey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-25
+Neutral citation
+2007 TCC 247
+File numbers
+2004-1892(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1892(IT)G
+BETWEEN:
+MICHAEL HOLZHEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 25, 2006, at Vancouver, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+David E. Graham
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of May 2007.
+“Brent Paris”
+Paris J.
+Citation: 2007TCC247
+Date: 20070509
+Docket: 2004-1892(IT)G
+BETWEEN:
+MICHAEL HOLZHEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant ceased to be a resident of Canada on November 30, 2000 and was therefore deemed by paragraph 128.1(4)(b) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) the (“Act”) to have disposed of each property he owned at that time for proceeds equal to their fair market value[1]. One of the properties the Appellant owned was a loan which he had made to a non-resident corporation Interest had accrued on the loan up to November 30, 2000 but was not yet payable.
+[2] This appeal deals with the tax consequences of the deemed disposition of the Appellant’s right to receive the accrued interest on the loan.
+[3] The Appellant reported the proceeds from that deemed disposition as a capital gain. By reassessment, the Minister of National Revenue (the “Minister”) included the amount in the Appellant’s income pursuant to paragraph 12(1)(c) of the Act as an amount received in lieu of interest. The Appellant is appealing from that reassessment.
+Facts
+[4] The relevant facts are contained in an Agreed Statement of Facts, filed by the parties, which reads as follows:
+Agreed Statement of Facts
+1. The Appellant ceased to be a resident of Canada on November 30, 2000.
+2. The Appellant became a resident of Germany on December 1, 2000.
+3. The Appellant was a minor shareholder in G. Haindl'sche Papierfabriken KGaA ("Haindl") a large German corporation.
+4. Over the years, the Appellant had lent various amounts to Haindl (the "Loans").
+5. The Loans were denominated in Euros.
+6. The Loans were interest bearing.
+7. The terms of the Loans provided that interest accruing during the course of a particular calendar year was payable in December of that year.
+8. The Appellant still held the Loans when he ceased to be a resident of Canada.
+9. The interest received on the Loans in all prior years in which the Appellant was a resident of Canada was correctly reported by the Appellant in his income tax returns as income in the year the interest was received.
+10. From January 1, 2000 until November 30, 2000, no interest was paid on the Loans.
+11. On November 30, 2000, no interest was receivable on the Loans.
+12. From January 1, 2000 until November 30, 2000, interest of $125,816 CDN accrued on the Loans (the "Accrued Interest").
+13. The Appellant did not report the Accrued Interest as interest income in his 2000 taxation year since he had not received any interest before he ceased to be a resident on November 30, 2000.
+14. The Appellant did, however, report all of the Accrued Interest as a capital gain arising from a deemed disposition of the Accrued Interest on November 30, 2000 in his 2000 tax return.
+15. The Minister of National Revenue (the "Minister") reassessed the Appellant on December 2, 2002 (the "Reassessment") on the basis that the Accrued Interest was taxable as interest income under section 12(1)(c) of the Income Tax Act (the "Act").
+16. The Appellant objected to the Reassessment within the time required for doing so under the Act.
+17. By Notification of Confirmation dated January 28, 2004, the Minister confirmed the Reassessment on the basis that the Accrued Interest was taxable as interest income under section 12(1)(c).
+18. The Appellant Reported the Accrued Interest in his tax return in Germany.
+19. The Appellant became a resident of Canada again in January 2004.
+Issues
+[5] The first issue in this appeal is whether the deemed proceeds from the deemed disposition of the right to receive the accrued interest were received by the Appellant “in lieu of interest” within the meaning of paragraph 12(1)(c).The relevant portions of that provision read:
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+(c) Interest – … any amount received or receivable by the taxpayer in the year (depending on the method regularly followed by the taxpayer in computing the taxpayer’s income) as, on account of, in lieu of payment of or in satisfaction of, interest to the extent that the interest was not included in computing the taxpayer’s income for a preceding taxation year;
+[6] Alternatively, the Respondent contends that the proceeds were income from property and required to be included in the Appellant’s income by virtue of sections 3 and 9 of the Act which read in part as follows:
+3. The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer's income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer's income for the year from each office, employment, business and property,
+…
+9(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+[7] The Appellant maintains that he correctly reported the proceeds as a capital gain
+[8] In the reply to notice of appeal, the Respondent had also put forward an argument based on subsection 20(14) of the Act, but withdrew that argument at the hearing
+Appellant’s arguments
+[9] Counsel for the Appellant contends that proceeds from the disposition of a right to receive accrued interest at a future date are neither interest nor an amount received in lieu of interest, but are, instead, a capital receipt. Therefore the proceeds are not taxable under paragraph 12(1)(c).
+[10] In support of this proposition, he relies on the decision of the Federal Court Trial Division in The Queen v. Immobilière Canada Ltd.[2], which held that the disposition of a right to a future payment of accrued interest was a disposition on capital account.
+[11] In Immobilière, the taxpayer had been assessed withholding tax on amounts it paid to purchase certain bonds from its non-resident parent corporation. The price paid by the Appellant for the bonds included an amount equal to the interest which had accrued on the bonds but which was not yet payable as of the date of sale. The issue before the Court was whether the amount paid in respect of the accrued interest was an amount paid as interest or in lieu of interest within the meaning of section 106(1)(b) of the Act (now subsection 212(1)(b)). The Court held at page 5334 that:
+The word "interest" in that section means interest owing on the bonds, charge, debt or obligation and not that part of the purchase price paid by a third party to the holder of same for a transfer of the right to the accrued interest…
+The Court also stated that:
+…where a person purchases a debt or obligation from a creditor on which there is accrued interest owing, the payment to the transferor of an amount required to purchase the right to the accrued interest does not constitute payment of interest to a transferor because the transferee is purchasing an expectancy to receive interest and not interest.
+[12] Counsel for the Appellant argues that the deemed disposition in this case was a disposition of “an expectancy to receive interest” and therefore that the proceeds received by the Appellant cannot be characterized as interest or as an amount received in lieu of interest.
+[13] Counsel further contends that the reassessment constitutes the taxation of accrued interest, which is contrary to the scheme of the Act. He says that in those cases where Parliament wishes to tax interest on an accrual basis, it does so explicitly rather than through paragraph 12(1)(c). He referred to subsections 12(3) and (4) which require certain taxpayers to report interest income on an accrual basis in certain circumstances, to subsection 20(14) which requires accrued interest to be included income where a debt is transferred or assigned to another person, and to paragraph 70(1)(a) which includes interest which has accrued up to the date of death of a taxpayer in the taxpayer’s income.
+[14] Counsel also referred to the decision of this Court in David Grant and Catherine Grant v. The Queen[3]. In that case, the taxpayers entered into a series of transactions known as a “departure trade” in anticipation of their ceasing to be resident in Canada. Prior to leaving Canada, they borrowed money on which interest was payable and used the borrowed money to purchase interest-bearing notes. They paid the interest on the borrowed money and received the interest on the notes after leaving Canada. The taxpayers did not include any of the interest received on the notes after their departure in their income, which was consistent with the accounting method with they normally followed. (The judge noted that the Respondent did not challenge this aspect of the transaction.) However, the taxpayers sought a deduction under paragraph 114(c) of the Act for the portion of the interest that accrued on the borrowed money before they left Canada but which was not paid until after their departure. The issue in the appeal was whether paragraph 114(c) permitted that deduction.
+[15] This Court held that paragraph 114(c) dealt only with deductions available in Division C of the Act for computing taxable income and could not be interpreted so as to permit the deduction of interest. The Court determined that any interest deduction to which a taxpayer might be entitled formed part of the computation of income made under paragraph 114(a) using Division B of the Act. Division B includes subsection 20(1)(c) which deals with the deduction of interest.
+[16] In coming to this conclusion, the judge said:
+If Parliament had intended that cash basis taxpayers like the appellant be allowed to deduct interest on an accrual basis, which is what the appellants are effectively suggesting, it is likely that Parliament would have enacted a specific provision that modified paragraph 114(a) to explicitly give that result, rather than grafting on an overlapping provision in paragraph 114(c).
+And that:
+... the interpretation suggested by the appellants would have the result that cash basis taxpayers could claim interest expense on an accrual basis and yet report the related interest income on a cash basis ... An interpretation that gives this result should not be preferred over another interpretation unless it is clear that parliament intends this result.
+[17] In this case, counsel for the Appellant suggests that the Respondent’s interpretation of paragraph 12(1)(c) would result in cash basis taxpayers being required to report interest on an accrual basis, and says that, in the absence of clear language to that effect, the Respondent's interpretation should be rejected.
+[18] Counsel also submitted that the Respondent’s interpretation of paragraph 12(1)(c) could lead to double taxation in certain circumstances. He provided two hypothetical situations, each quite different from the facts of this case.
+[19] The first example involved a person who both ceased to be a resident of Canada and then returned to Canada in the same taxation year. That person had made a loan prior to leaving Canada. Accrued interest was outstanding on the loan at the time the taxpayer left Canada and is not paid until after returning to Canada.
+[20] In the second example, interest on a loan becomes receivable by the taxpayer prior to his leaving Canada. The interest is not paid on time and is still owing to the taxpayer when he leaves the country. The taxpayer normally follows the accrual method of accounting in calculating his income from property.
+[21] The Appellant’s counsel contends that the amount of accrued interest would be included twice in income in each of these cases if the deemed disposition of the amounts receivable by the taxpayers are considered to give rise to a receipt of an amount in lieu of interest.
+Respondent’s arguments
+[22] Counsel for the Respondent submits that the proceeds in this case were received by the Appellant in lieu of interest due to him, and therefore fall clearly within the wording of paragraph 12(1)(c).
+[23] Counsel relies on the Federal Court of Appeal decision in Transocean Offshore Ltd. v. The Queen[4], where the Court considered the meaning of the phrase “in lieu of” in the context of paragraph 212(1)(d) of the Act.
+[24] In Transocean, the taxpayer received a payment from a group of Canadian co‑venturers as compensation for an anticipatory breach of an agreement under which rent would have been payable to the taxpayer for the use of an offshore drilling rig. The Minister assessed the taxpayer pursuant to paragraph 212(1)(d) on the basis that the payment was made in lieu of rent.
+[25] The relevant portions of paragraph 212(1)(d) read as follows:
+212. (1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays . . . to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+. . .
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+[26] The taxpayer in Transocean contended that since the rental agreement was repudiated before the commencement of the rental term, the property was never used and no amount of rent ever became payable, and therefore no amount could be said to have been paid in lieu of rent. The taxpayer relied on the Exchequer Court decision in Puder v. The Minister of National Revenue[5], which held that a payment that is made “in lieu of interest” is an amount that serves the same function as interest.
+[27] In Puder, the taxpayer had loaned money on the security of the mortgage which was repayable with interest. The borrower repaid the entire mortgage prior to the end of its term and was required to pay the taxpayer a “bonus” representing the interest that would have become payable for the remainder of the mortgage term. The question before the Court was whether this amount was received by the taxpayer as interest or as an amount paid in lieu of interest. The Court held that since the principal of the loan had been repaid, the bonus was not interest because it could not be related to the period when the mortgage was outstanding nor could it be related to the use of the money during the remainder of the mortgage term. The Court also found that the amount was not received in lieu of interest “since no part of the amount ever accrued as interest and no part of it was paid in lieu of or in satisfaction of any amount that ever accrued as interest.”
+[28] The Court of Appeal said in Transocean that Puder imposed “an unjustifiably narrow meaning on the phrase “in lieu of” and stated that:
+… the ordinary meaning of that phrase connotes something that takes the place of something else or as a substitute for something else. Theoretically, a thing may take the place of another thing if it performs exactly the same function as that other thing, or if it performs a function that is not exactly the same but is a reasonable substitute. Puder recognizes the first possibility but rejects the second, without suggesting any justification for doing so.
+[29] Counsel for the Respondent submits that the Immobilière decision also involves an unjustifiably narrow interpretation of the phrase “in lieu of”, similar to that found in Puder, and that Immobilière, therefore, should not be followed.
+[30] The Respondent says that by using the words “in lieu of” Parliament intended to expand the scope of paragraph 12(1)(c) to include payments other than payments that have the legal character of interest and that since the Appellant’s gain on the deemed disposition resulted from his lending money to Haindl and from earning interest thereon, the gain was a payment in lieu of interest.
+[31] Finally, counsel submitted that, if the gain is found not to have been received in lieu of interest, it should be included in the Appellant’s income as income from property. The gain was generated from property and was a direct result of the Appellant’s ownership of property. Therefore, the gain represents income earned from a source that is property and must be included by the Appellant in his income pursuant to paragraph 3(a) of the Act.
+Analysis
+[32] In my view, the decision of the Federal Court of Appeal in Transocean is determinative of the question of whether the deemed proceeds from the deemed disposition of the right to the accrued interest in this case was received “in lieu of” interest. Paragraph 12(1)(c) uses language that is substantially similar to the language of paragraph 212(1)(d) considered by the Court in Transocean.
+[33] Paragraph 12(1)(c) requires a taxpayer to include in income any amount received or receivable by the taxpayer in the year “as, on account of, in lieu of payment of or in satisfaction of, interest”, whereas paragraph 212(1)(d), applies to amounts paid “as, on account of or in lieu of payment of, or in satisfaction of, ... rent, royalty or similar payment ...”
+[34] In Transocean, the Federal Court of Appeal observed at paragraph 47 that:
+An amount that is paid instead of a payment of a particular legal character, or in the place of such a payment, does not have that same legal character. Parliament, in using the words “in lieu of” in paragraph 212(1)(d) must have intended to expand the scope of paragraph 212(1)(d) to include payments other than payments that have the legal character of rent.
+The Court went on to say that:
+“a thing may take the place of another if it performs exactly the same function as that other thing, or if it performs a function that is not exactly the same but is a reasonable substitute.”
+[35] The particular question that must be answered is whether the deemed proceeds in this case were a reasonable substitute for the interest earned on the loan to Haindl which were not yet payable.
+[36] In Transocean, the Federal Court of Appeal found that the amount paid in respect of the anticipatory breach of the rental agreement was a reasonable substitute for rent payable under the agreement. In this case the link between the deemed proceeds and the accrued interest is, in my view, even stronger since the loan had already been made to Haindl and interest had already accrued before the deemed disposition occurred
+[37] The amount of interest which accrued in respect of the period up to November 30, 2000, could be precisely calculated pursuant to the loan agreement, and, according to the agreed statement of facts, the fair market value of the right to receive this accrued interest was the same amount as the interest which had accrued on the loan from January 1, 2000 until November 30, 2000. On this basis it can readily be seen that the deemed proceeds were a reasonable substitute for the accrued interest.
+[38] I agree with counsel for the Respondent that the Immobilière decision can no longer be relied upon in light of the decision of the Federal Court of Appeal in Transocean. While the Court in Transocean did not refer to Immobilière, it is indistiguishable from the Exchequer Court decision in Puder, and Puder was found in Transocean to have placed “an unjustifiably narrow meaning on the phrase “in lieu of”. Therefore, in my view, proceeds received from a disposition of the “expectancy to receive interest” are a reasonable substitute for interest and therefore would be received in lieu of interest within the meaning of paragraph 12(1)(c) of the Act.
+[39] I am not convinced that the Appellant has shown any reason that I should not follow the Federal Court of Appeal’s interpretation of the phrase “in lieu of” in Transocean.
+[40] I disagree with the Appellant’s argument that the scheme of the Act regarding accrued interest would support a narrow interpretation of that phrase. I do not believe that the manner in which the Act treats accrued interest that has not been received or become receivable is relevant to the issue in this appeal. The Minister in this case is not attempting to tax accrued interest. The amount sought to be included in income is the proceeds from the deemed disposition of property. The deemed receipt of the proceeds triggers the inclusion in income. As with any amount received by a taxpayer, the nature of the receipt determines whether it is required to be included in income or not. In this case, the payment was received “in lieu of interest” and is required to be added to the Appellant’s income.
+[41] The Grant case cited by counsel for the Appellant also only dealt with interest which had accrued but which had not been paid or become payable at the relevant time and can be distinguished on that basis from the case before me. Interestingly, it appears that in Grant neither the taxpayers, in reporting their income, nor the Minister, in assessing, included the proceeds from the deemed disposition of the accrued interest at the time they left Canada. The judge in Grant noted that the Respondent did not take issue with the fact that the taxpayers did not include in computing income any amount in respect of the interest they received on the notes, and paragraph 128.1(4) was seemingly not relied on in assessing.
+[42] Finally, the Appellant does not allege that double taxation arises in this case, only that in certain hypothetical circumstances the Respondent’s interpretation of paragraph 12(1)(c) could possibly have this result. This factor, alone, is not a sufficient basis for interpreting the phrase “in lieu of” in the manner suggested by the Appellant.
+[43] In light of my conclusion that the proceeds from the deemed disposition of the Appellant's right to the accrued interest in this case were properly included in his income pursuant to paragraph 12(1)(c) of the Act as an amount received in lieu of interest, it is not necessary for me to deal with the Respondent's alternative submission that the amounts were income from property.
+[44] For all of these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of May 2007.
+“Brent Paris”
+Paris J.
+CITATION: 2007TCC247
+COURT FILE NO.: 2004-1892(IT)G
+STYLE OF CAUSE: MICHAEL HOLZHEY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: August 25, 2006.
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 9, 2007
+APPEARANCES:
+Counsel for the Appellant:
+David E. Graham
+Counsel for the Respondent:
+Eric Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David E. Graham
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 128.1(4) Emigration – for the purposes of this Act, where at any particular time a taxpayer ceases to be resident in Canada,
+. . .
+(b) the taxpayer is deemed to have disposed (…) of each property owned by the taxpayer…for proceeds equal to its fair market value at the time of disposition, which proceeds are deemed to have become receivable and to have been received by the taxpayer at the time of the disposition;
+[2] 77 D.T.C. 5332
+[3] 2006 D.T.C. 3071
+[4] 2005 D.T.C. 5201
+[5] 63 D.T.C. 1282

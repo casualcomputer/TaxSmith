@@ -1,0 +1,499 @@
+Title: Emergis Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/494559/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-23-494559-emergis-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-03-19
+
+# Emergis Inc. c. La Reine
+
+- Citation: 2021 CCI 23
+- Decision date: 2021-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4622, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emergis Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-03-19
+Référence neutre
+2021 CCI 23
+Numéro de dossier
+2017-1901(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1901(IT)G
+ENTRE :
+EMERGIS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 octobre 2019, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Ian J. Gamble
+Avocats de l’intimée :
+Me Lynn M. Burch
+Me Christa Akey
+JUGEMENT
+L’appel des nouvelles cotisations établies le 2 février 2012 sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 de l’appelante est rejeté, avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 19e jour de mars 2021.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 8e jour de novembre 2021.
+François Brunet, réviseur
+Référence : 2021 CCI 23
+Date : 20210319
+Dossier : 2017-1901(IT)G
+ENTRE :
+EMERGIS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La question en litige dans le présent appel consiste à déterminer si Emergis Inc. (« Emergis ») a droit à la déduction demandée au titre du paragraphe 20(12) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), et ses modifications (la « Loi »), pour chacune de ses années d’imposition prenant fin le 31 décembre 2000 et le 31 décembre 2001, relativement aux retenues d’impôt des États-Unis de sommes équivalant à 3 808 456 $ et à 5 051 276 $ CA, respectivement, à l’égard du revenu d’intérêts versé par BCE Emergis General Partnership (« USGP »), une société de personnes américaine constituée sous le régime des lois de l’État du Delaware et dans laquelle Emergis détenait une participation de 99,9 %. Les déductions demandées par Emergis au titre du paragraphe 20(12) de la Loi ont été refusées, en application des nouvelles cotisations établies le 2 février 2012 par le ministre du Revenu national (le « ministre »), aux termes de la Loi.
+[2] Le paragraphe 20(12) autorise une déduction à l’égard de l’impôt sur le revenu ne provenant pas d’une entreprise qui a été payé au gouvernement d’un pays autre que le Canada. Cette déduction peut être prise en compte dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien.
+[3] Le paragraphe 20(12) énonce une série de conditions à respecter pour que la déduction s’applique. Les conditions pertinentes aux fins du présent appel sont que l’impôt étranger doit avoir été payé à l’égard du revenu que le contribuable a tiré d’une entreprise ou d’un bien et, dans le cas d’une société, l’impôt ne peut raisonnablement être considéré comme ayant été payé à l’égard du revenu tiré d’une action du capital-actions d’une société étrangère affiliée de la société.
+[4] Le paragraphe 20(12) est rédigé comme suit dans la version applicable aux années 2000 et 2001 :
+Impôt étranger sur le revenu ne provenant pas d’une entreprise
+20(12) Est déductible dans le calcul du revenu d’un contribuable pour une année d’imposition tiré d’une entreprise ou d’un bien le montant que le contribuable demande, ne dépassant pas l’impôt sur le revenu ne provenant pas d’une entreprise (au sens de la définition de impôt sur le revenu ne provenant pas d’une entreprise au paragraphe 126(7), compte non tenu des alinéas c) et e) de celle-ci) qu’il a payé pour l’année à un pays étranger au titre de ce revenu, à l’exception de tout ou partie d’un tel impôt qu’il est raisonnable de considérer comme payé par une société à l’égard du revenu tiré d’une action du capital-actions d’une société étrangère affiliée de la société.
+[5] Vu qu’il est constant que les retenues d’impôt des États-Unis de 3 808 456 $ CA et 5 051 276 $ CA, qu’Emergis a payées pour ses années d’imposition 2000 et 2001, respectivement, représentaient l’impôt sur le revenu ne provenant pas d’une entreprise qu’Emergis a payé au gouvernement américain à l’égard du revenu qu’Emergis a tiré du prêt consenti à USGP, la première condition du paragraphe 20(12) est satisfaite.
+[6] Par conséquent, la seule question en litige dans le présent appel est de déterminer si la deuxième condition du paragraphe 20(12) est elle aussi satisfaite, c’est-à-dire si l’impôt retenu aux États-Unis de 3 808 456 $ CA et de 5 051 276 $ CA, ou tout ou partie de ces sommes, pourrait raisonnablement être considéré comme étant un impôt payé par Emergis à l’égard du revenu tiré d’une action du capital-actions d’une société étrangère affiliée d’Emergis. Si cette deuxième condition est satisfaite, Emergis n’a pas droit à la déduction précitée, demandée au titre du paragraphe 20(12). Si, en revanche, la deuxième condition n’est pas satisfaite, Emergis a droit à la déduction précitée, demandée au titre du paragraphe 20(12).
+Aperçu général
+[7] Durant toute la période pertinente aux fins du présent appel, Emergis était une société ouverte canadienne détenue à 65 % par BCE Inc., une autre société ouverte canadienne.
+[8] Durant son année d’imposition 2000, Emergis a fait l’acquisition d’une société en exploitation américaine sans lien de dépendance (« UP&UP ») et, à cette fin, a établi une structure de financement transfrontalière, connue dans le milieu fiscal sous le nom de « structure étagée ».
+[9] Une structure étagée consiste généralement en une chaîne d’entités (personnes morales ou sociétés de personnes) qu’une société établit pour lui permettre de financer des filiales américaines d’une manière efficiente sur le plan fiscal. On parvient à l’efficience fiscale, du moins en partie, en utilisant ce que l’on qualifie de « double » déduction pour les intérêts payés par la société mère canadienne sur les sommes empruntées pour financer ses filiales américaines. On atteint cette efficience fiscale en ayant recours à des entités qui sont classées différemment selon le droit fiscal canadien et américain. Ces entités sont qualifiées d’« entités hybrides » car, aux fins fisacales, un pays traite l’entité à titre de véhicule intermédiaire, comme une société de personnes, alors que l’autre pays la traite comme une personne morale qui est assujettie à l’impôt à part entière.
+[10] Selon la structure mise en place par Emergis, le revenu d’USGP était constitué, aux fins de l’impôt aux États-Unis, des revenus d’intérêts tirés d’une personne morale américaine, alors qu’il était constitué, aux fins de l’impôt au Canada, des revenus de dividendes d’une personne morale canadienne. Ce traitement différent n’a aucune incidence en ce qui concerne la première condition énoncée au paragraphe 20(12), car il est clair que l’impôt payé aux États-Unis sur le revenu d’intérêts versé à Emergis était à l’égard d’un revenu provenant d’un bien aux termes de la Loi, étant donné qu’Emergis a consenti un prêt direct de 266 670 000 $ US à USGP (le « premier prêt »).
+[11] La question précise qui se pose dans le présent appel vient de ce que l’entité qui a versé le revenu d’intérêts à USGP était une société étrangère affiliée d’Emergis. Cela soulève la question de savoir si l’impôt payé par Emergis aux États-Unis peut raisonnablement être considéré comme ayant été payé à l’égard du revenu tiré d’une action d’une société étrangère affiliée.
+[12] La structure utilisée par Emergis est très comparable à celle qui a été mise en place par la société québécoise Groupe Laperrière & Verreault Inc. en 1998, et qui est décrite dans un jugement rendu par la Cour canadienne de l’impôt, FLSmidth Ltd. c. La Reine, 2012 CCI 3, conf. par 2013 CAF 160 (FLSmidth).
+[13] L’appel devant de notre Cour était fondé sur un exposé conjoint partiel détaillé des faits et de la question en litige dont les parties ont convenu avant l’instruction. L’exposé conjoint partiel des faits et de la question en litige est reproduit en intégralité à la fin du présent jugement.
+Faits
+[14] Les entités suivantes font partie de la structure d’Emergis :
+- BCE Emergis General Partnership (USGP), une société de personnes constituée sous le régime des lois de l’État du Delaware (États-Unis), dans laquelle Emergis Inc. détient une participation de 99,9 % et 3701123 Canada Inc. (filiale canadienne ou FilialeCan), une nouvelle filiale canadienne d’Emergis, détient une participation de 0,1 %.
+- 3040697 Nova Scotia Unlimited Liability Company (SRINE) a été constituée en personne morale, avec USGP comme seul actionnaire.
+- BCE Emergis LCC (LCC), une société à responsabilité limitée constituée sous le régime des lois du Delaware (États-Unis) par la société à responsabilité illimitée de la Nouvelle-Écosse (SRINE).
+- BCE Emergis US Holdings Inc. (US Holdco), une société nouvellement constituée au Delaware, dans laquelle Emergis a souscrit 100 actions.
+- Acquisitionco, une filiale américaine nouvellement constituée, dans laquelle US Holdco a souscrit 100 actions.
+- Jetco Inc. (Jetco), une personne morale constituée sous le régime des lois du Delaware (États-Unis), dans laquelle Emergis a souscrit 100 actions. Les actions qu’Emergis détenait dans Jetco ont été transférées à US Holdco, en contrepartie de 100 actions ordinaires de US Holdco, puis elles ont été transférées à Acquisitionco en contrepartie de 100 actions ordinaires d’Acquisitionco.
+[15] Emergis a utilisé la structure transfrontalière pour financer son acquisition de la société en exploitation américaine sans lien de dépendance (UP&UP) de la manière suivante :
+Emergis a souscrit des actions de FilialeCan pour une somme de 34 400 $ US;
+Emergis et FilialeCan ont versé des apports en capital à USGP, établis selon leurs pourcentages de participation respectifs, pour une somme totalisant 33 385 535 $ US;
+Emergis a consenti à USGP un prêt de 266 670 000 $ US, au taux d’intérêt annuel de 12,25 % sur dix ans, taux qui a été réduit à 12,127 % après le 1er octobre 2000 à la suite de la modification du calendrier des paiements d’intérêts, qui est passé d’un calendrier trimestriel à mensuel (le « premier prêt »);
+USGP a utilisé les fonds provenant du premier prêt, ainsi que les apports en capital de l’appelante et de FilialeCan, pour souscrire des actions du capital-actions de la SRINE pour une somme de 300 002 000 $ US;
+USGP a souscrit une action de la société à responsabilité limitée (SRL) à 100 $ US;
+La SRINE a souscrit des actions de la SRL, pour une somme de 300 001 000 $ US;
+Emergis a souscrit 2 424 720 actions de US Holdco, pour une somme de 242 472 050 $ US;
+US Holdco a souscrit 2 424 710 actions d’Acquisitionco, pour une somme de 242 471 050 $ US;
+La SRL a consenti à Acquisitionco un prêt de 300 000 000 $ US, au taux d’intérêt annuel de 12,5 % sur dix ans, taux qui a été réduit à 12,372 % après le 27 septembre 2000 à la suite de la modification du calendrier des paiements d’intérêts, qui est passé d’un calendrier trimestriel à mensuel (le « deuxième prêt »);
+Jetco et UP&UP ont fusionné pour former une nouvelle société américaine (US Mergco);
+Acquisitionco a été fusionnée avec US Mergco pour former US Amalco et, aux termes de cette fusion, US Amalco a assumé la responsabilité du deuxième prêt.
+[16] Durant toute la période pertinente aux fins du présent appel, USGP, la SRINE et la SRL étaient des « entités hybrides », ce qui signifie qu’elles étaient traitées différemment selon le droit fiscal canadien et américain. Ces entités formaient la structure étagée. Plus précisément :
+USGP était considérée comme une société de personnes aux fins de la Loi, mais a choisi d’être traitée comme une société résidant aux États-Unis aux fins de l’impôt dans ce pays;
+La SRINE était traitée à titre de société canadienne imposable selon la Loi, mais à titre d’entité « transparente » aux fins de l’impôt aux États-Unis (ce qui signifiait qu’elle n’était pas considérée comme ayant une existence distincte de celle de son propriétaire);
+La SRL était traitée comme une société non résidente et une société étrangère affiliée de la SRINE et d’Emergis selon la Loi, mais comme une entité transparente aux fins de l’impôt aux États-Unis.
+[17] US Holdco était une société résidant aux États-Unis et une société étrangère affiliée en propriété directe d’Emergis aux fins de l’impôt canadien. Il s’agissait d’une société résidant aux États-Unis aux fins de l’impôt américain.
+[18] US Amalco était une société résidant aux États-Unis et une société étrangère affiliée d’Emergis aux fins de l’impôt canadien. Il s’agissait d’une société résidant aux États-Unis aux fins de l’impôt américain et des traités.
+[19] Aux fins de l’impôt canadien, durant les années d’imposition 2000 et 2001 d’Emergis :
+US Amalco a payé à la SRL des intérêts sur le deuxième prêt.
+En 2000 et 2001, la SRINE a reçu des revenus de dividendes (libellés en dollars américains) provenant de ses actions de la SRL, de sommes équivalant à 42 940 070 $ CA et à 58 467 044 $ CA, respectivement; la SRINE a inclus ces sommes dans son revenu au titre du paragraphe 90(1) et a demandé une déduction compensatoire à l’égard de cette somme dans le calcul de son revenu imposable au titre de l’alinéa 113(1)a), car les dividendes reçus sur ses actions d’une société étrangère affiliée (SRL) étaient considérés comme ayant été prélevés sur le surplus exonéré de la société affiliée.
+USGP devait calculer son revenu (net) tiré de chacune des sources énoncées à l’alinéa 96(1)c) et, à cette fin, USGP a déclaré un revenu de dividendes provenant de ses actions de la SRINE aux termes du paragraphe 82(1) (28 758 167 $ US en 2000 et 37 759 263 $ US en 2001) et a demandé une déduction largement compensatoire au titre de l’alinéa 20(1)c) à l’égard des intérêts qu’elle a payés à Emergis sur le premier prêt (25 506 296 $ US en 2000 et 32 622 207 $ US).
+Le revenu (net) précité d’USGP, calculé conformément à l’alinéa 96(1)c), a ensuite été attribué à Emergis et à FilialeCan en application de l’alinéa 96(1)f), en fonction de leurs parts respectives à titre d’associées dans USGP; à cet égard, Emergis a déclaré à l’annexe 1 de sa déclaration de revenus T2 sa part de 99,9 % du revenu d’USGP.
+Emergis a inclus dans son revenu au titre du paragraphe 12(3) les intérêts que lui avait payés USGP sur le premier prêt et a déclaré cette somme à l’annexe 1 de sa déclaration de revenus T2.
+Dans le calcul de son revenu imposable au titre du paragraphe 112(1), Emergis a demandé, à la page 3 de sa déclaration de revenus T2, une déduction à l’égard de sa part (99,9 %) du revenu de dividendes que la SRINE a versé à USGP.
+[20] Durant ses années d’imposition 2000 et 2001, Emergis a payé en impôt aux États-Unis des sommes équivalant à 3 808 456 $ CA et à 5 051 276 $ CA, respectivement, au titre des revenus d’intérêts versés par USGP sur le premier prêt.
+[21] Lors de la production de ses déclarations de revenus en application de la Loi, Emergis a déduit l’impôt retenu aux États-Unis du calcul de son revenu provenant d’une entreprise ou d’un bien au titre du paragraphe 20(12), au motif que cette somme représentait l’impôt sur le revenu ne provenant pas d’une entreprise qu’Emergis avait payé au gouvernement américain à l’égard de ce revenu, c’est-à-dire le revenu tiré du premier prêt : 3 808 456 $ pour son année d’imposition 2000 et 5 051 276 $ pour son année d’imposition 2001.
+[22] Conformément aux règles fiscales américaines, les paiements de dividendes versés par la SRL à la SRINE, ainsi que les paiements de dividendes versés par la SRINE à USGP, n’ont pas été pris en compte, car la SRL et la SRINE étaient toutes deux des entités dont il était fait abstraction aux fins de l’impôt aux États-Unis. Par conséquent, aucun impôt n’était exigible aux États-Unis sur les dividendes payés par la SRL à la SRINE, ou sur les dividendes payés par la SRINE à USGP en 2000 et 2001.
+Les thèses des parties
+[23] Bien que soient constants tous les faits pertinents en l’espèce, il y a controverses sur chacun des aspects de l’interprétation du paragraphe 20(12) (le texte, le contexte et l’objet) et il y a controverse sur le poids à accorder aux motifs de notre Cour (2012 CCI 3) ni à ceux de la Cour d’appel fédérale (2013 CAF 163) dans l’arrêt FLSmidth.
+Thèse de l’appelante
+a. FLSmidth
+[24] Les motifs énoncés dans l’arrêt FLSmidth ne permettent pas de trancher la question en litige dans le présent appel, car les faits et les questions en appel diffèrent. Les faits de l’affaire FLSmidth sont dans une large mesure comparables à la structure étagée décrite précédemment, à deux différences importantes près. Premièrement, dans l’affaire FLSmidth, la déduction demandée aux termes du paragraphe 20(12) portait sur l’impôt sur le revenu payé aux États-Unis par la société de personnes à titre de contribuable théorique selon le paragraphe 96(1) de la Loi. Dans le présent appel, la société de personnes (USGP) n’a pas déduit l’impôt sur le revenu qu’elle a payé aux États-Unis. Deuxièmement, aucune retenue d’impôt n’a été payée par la personne morale associée dans l’arrêt FLSmidth. Aucune déduction aux termes du paragraphe 20(12) n’a donc été examinée à l’égard de ce type d’impôt sur le revenu payé aux États-Unis dans l’arrêt FLSmidth. Dans le présent appel, la seule question en litige porte sur la déduction demandée aux termes du paragraphe 20(12) relativement aux retenues d’impôt payées directement par Emergis aux États-Unis.
+b. Le texte
+[25] Selon l’appelante, il est essentiel que le sens des mots et des expressions du paragraphe 20(12) puissent s’adapter au contexte et que l’on fasse une interprétation restrictive, et non large, des mots « à l’égard du » qui figurent dans l’exclusion du paragraphe 20(12). L’appelante affirme en outre que l’expression « il est raisonnable de considérer » ne constitue pas réellement une notion de la théorie de la réalité économique.
+[26] L’appelante soutient que, pour déterminer si un allègement pour impôt étranger peut lui être accordé, la seule source de revenu qui doit être prise en compte est le premier prêt, car l’impôt a été prélevé aux États-Unis sur le revenu tiré du premier prêt et non sur le revenu tiré d’une action du capital-actions d’une société étrangère affiliée.
+[27] Bien que le revenu de la SRINE provenant des actions de la SRL constitue indéniablement un « revenu tiré d’une action du capital-actions d’une société étrangère affiliée », la SRINE est une filiale d’Emergis; son revenu est donc celui d’un contribuable distinct, de sorte qu’il ne peut pas s’agir du revenu sur lequel un impôt a été payé aux États-Unis.
+c. Le contexte
+[28] Dans ses arguments contextuels, Emergis réaffirme que seules les propres sources de revenu d’Emergis (à titre de bénéficiaire des intérêts) peuvent être prises en compte dans l’interprétation de l’exclusion et du renvoi au « revenu tiré d’une action du capital-actions d’une société étrangère affiliée ». À l’appui de sa thèse, elle soutient qu’il resort de l’économie générale de la Loi dans son ensemble, plus précisément la sous-section B de la section B – « Revenu ou perte provenant d’une entreprise ou d’un bien », que l’imposition est toujours établie en fonction de contribuables distincts, de sorte que le revenu de dividendes reçu par une filiale (SRINE) n’entre pas en compte dans le calcul des propres sources de revenu d’Emergis. De plus, comme la société de personnes est considérée comme un contribuable distinct aux fins du calcul du revenu imposable d’Emergis selon la Loi, il ne peut pas être dit que les sources de revenu de la société de personnes sont celles d’Emergis.
+[29] Emergis renvoie également au paragraphe 126(1) – la disposition prévoyant un crédit pour impôt étranger pour l’impôt payé sur le revenu ne provenant pas d’entreprises – pour souligner le fait que cette disposition, tout comme le paragraphe 20(12), prévoit une exclusion pour tout « revenu tiré d’une action du capital-actions d’une société étrangère ». Aux fins du présent appel, les sections pertinentes du paragraphe 126(1) sont les suivantes :
+Déduction pour impôt étranger (crédit pour impôt étranger)
+126 (1) Le contribuable qui résidait au Canada à un moment donné d’une année d’imposition peut déduire de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d’entreprises qu’il a payé pour l’année au gouvernement d’un pays étranger (sauf, lorsque le contribuable est une société, tout impôt, ou toute partie d’impôt, de ce genre qu’il est raisonnable de considérer comme ayant été payé par le contribuable relativement au revenu qu’il a tiré d’une action du capital-actions d’une société étrangère affiliée lui appartenant) dont il peut demander la déduction;
+cette somme ne peut toutefois dépasser :
+b) la fraction de l’impôt payable par ailleurs par lui pour l’année [...]
+[...]
+à supposer :
+(D) lorsque le contribuable est une société, qu’il n’ait tiré aucun revenu d’actions du capital-actions d’une société étrangère affiliée lui appartenant,
+[...]
+[30] La thèse d’Emergis concernant le paragraphe 126(1) et son lien avec le paragraphe 20(12) est la suivante : comme le crédit pour impôt étranger se limite au revenu reçu par le contribuable qui a directement payé l’impôt, cela appelle une interprétation comparable du paragraphe 20(12), et le ministre ne peut prendre en compte le revenu de dividendes d’un autre contribuable en aval pour restreindre la déduction prévue au paragraphe 20(12).
+d. L’objet
+[31] L’appelante insiste sur ce que le paragraphe 20(12) a pour seul but d’offrir un autre allègement pour l’impôt payé sur le revenu ne provenant pas d’une entreprise, rien de plus. Quant à l’exclusion, elle n’est censée viser que les contribuables qui ont reçu des dividendes directement de sociétés étrangères affiliées. Le principe de l’imposition distincte des entités signifie qu’on ne doit pas tenir compte du type de revenu qui a été reçu par un contribuable pour conclure que l’impôt a été payé à l’égard d’une action d’un autre contribuable situé en aval dans la chaîne de sociétés.
+[32] L’appelante reconnaît que les paiements d’intérêts (et les dividendes de la SRINE) reçus par Emergis n’étaient, au final, pas imposables au Canada. Cependant, la raison pour laquelle ces deux revenus n’étaient pas imposables réside dans la déduction prévue par le paragraphe 112(1) et non par l’article 113. Par conséquent, même si les dividendes de la SRINE peuvent être considérés comme un « revenu tiré d’une action », il ne s’agit pas d’un revenu tiré d’une action d’une société étrangère affiliée, étant donné la réputée participation d’Emergis dans la SRINE.
+[33] Selon l’appelante, on ne peut se fonder sur ce qu’aucun impôt n’était exigible au Canada pour refuser la déduction au titre du paragraphe 20(12). Contrairement au crédit pour impôt étranger prévu au paragraphe 126(1), la déduction prevue par le paragraphe 20(12) n’exige pas qu’un impôt sur le revenu soit payable au Canada. Le rejet de l’appel pour ce motif équivaudrait à attribuer une intention non exprimée par le législateur sous couvert d’une interprétation fondée sur l’objet, une chose que la Cour suprême du Canada dans l’arrêt Shell Canada Ltée c. Canada (1999) 3 R.C.S. 622, par. 43 à 46, et la Cour d’appel fédérale dans l’arrêt FLSmidth ont déconseillé à notre Cour de faire. L’appelante a formulé les observations suivantes sur ce point :
+[traduction]
+Le crédit pour impôt étranger a été introduit dans la Loi, car la jurisprudence enseignait que l’impôt sur le revenu – qu’il soit provincial ou étranger – ne pouvait être déduit à titre de dépenses générales d’entreprise dans le calcul des bénéfices.
+Le paragraphe 20(12) a été adopté en 1978 pour combler certaines lacunes du paragraphe 126(1). Le crédit pour impôt étranger prévu par le paragraphe 126(1) se limitait (et se limite toujours) à l’impôt payable par ailleurs au Canada pour l’année – s’il y a lieu – sur le revenu net du contribuable provenant de sources déterminées dans le pays étranger selon la Loi. […] La déduction dans le calcul du revenu (et non de l’impôt) au paragraphe 20(12), à l’égard de l’impôt sur le revenu ne provenant pas d’entreprises, a été dans une large mesure introduite pour s’attaquer à ces problèmes, car elle n’exige pas que le contribuable ait une source de revenu dans le pays étranger (encore moins un revenu net provenant de cette source) ou ait quelque impôt par ailleurs payable au Canada (par. 53 et 54).
+Thèse de l’intimée
+a. FLSmidth
+[34] L’intimée soutient que la jurisprudence FLSmidth est déterminante dans le présent appel.
+[35] Les faits de ces deux affaires sont dans une large mesure comparables. La structure organisationnelle d’Emergis est pratiquement l’image-miroir de celle du contribuable, Dorr-Oliver, dans l’affaire FLSmidth.
+[36] La structure transfrontalière de la société et son efficience fiscale sont identiques. Dans les deux affaires, une « structure étagée » est utilisée pour financer l’acquisition d’une entreprise en exploitation aux États-Unis. Dans les deux « structures étagées », trois différentes « entités hybrides », c’est-à-dire des entités traitées différemment selon le droit fiscal canadien et américain, sont utilisées. L’association d’entités hybrides permet d’obtenir un résultat efficient sur le plan fiscal, car cela permet de déduire dans les deux pays les paiements d’intérêt sur le même flux de revenus (« double » déduction des intérêts).
+[37] Dans les deux appels, celui d’Emergis et celui de l’affaire FLSmidth, l’impôt étranger à l’égard duquel une déduction était demandée a été payé par une entité située à l’intérieur de cette structure étagée. Dans les deux affaires, l’intimée s’est fondée, du moins en partie, sur l’exclusion, en tenant pour acquis que l’impôt avait été payé sur « le revenu tiré d’une action de la SRL », pour refuser la déduction prévue au paragraphe 20(12).
+b. Le texte
+[38] L’intimée se fonde essentiellement sur une jurisprudence de la Cour canadienne de l’impôt (CCI), FLSmidth pour soutenir que les mots « à l’égard du », dans l’exclusion du paragraphe 20(12), doivent être interprétés largement. L’intimée affirme que, vu les faits en l’espèce, les intérêts ont été payés à même les fonds provenant des dividendes de la SRL, de sorte que l’on peut conclure qu’il existait un certain [TRADUCTION] « rapport ou lien » entre l’impôt retenu aux États-Unis sur les paiements d’intérêts et les dividendes que la SRL a versés à la SRINE. Le caractère général des mots « à l’égard du » permettrait d’envisager un lien indirect entre l’appelante et les dividendes reçus en aval par une société affiliée.
+[39] En détaillant ce « rapport ou lien » apparent entre l’impôt retenu et les dividendes reçus par la SRINE, l’intimée se fonde sur le paragraphe 93.1(1) de la Loi pour dire que la SRINE était détenue directement par Emergis, de sorte que le revenu de la société de personnes provenant des dividendes (bien que nul, puisque la société de personnes américaine a demandé une déduction au titre de l’alinéa 20(1)c)) peut être considéré comme le revenu à l’égard duquel l’impôt a été payé aux États-Unis.
+[40] Toujours à l’appui de sa thèse, l’intimée affirme que l’expression « il est raisonnable de considérer » a été incluse pour une raison précise, à savoir pour permettre une approche fondée sur la réalité économique. Il existe une présomption d’absence de tautologie dans l’interprétation de la loi dont il ressortirait que ces mots permettent en fait de faire abstraction de la SRINE pour établir le revenu provenant de la SRL. Il est clair que l’intimée accorde beaucoup de poids aux motifs formulés par la Cour canadienne de l’impôt dans le jugement FLSmidth.
+c. Le contexte
+[41] L’intimée invoque le paragraphe 113(1) pour soutenir que, lorsqu’une exemption pour dividendes a été accordée en aval dans la chaîne, le régime applicable aux sociétés étrangères affiliées prévoit un allègement global, de sorte que la déduction prévue par le paragraphe 20(12) ne doit pas s’appliquer lorsque l’impôt aux États-Unis est payé en amont dans la chaîne. Dans le jugement FLSmidth, la Cour de l’impôt a indiqué que l’exclusion figurait au paragraphe 20(12) « parce que l’allègement en ce qui concerne l’imposition dans un pays étranger de dividendes provenant de sociétés étrangères affiliées est traité d’une façon exhaustive ailleurs dans la Loi ». La Cour d’appel fédérale (CAF), en revanche, a conclu que l’exemption prévue par l’article 113 n’exclut pas dans tous les cas la déduction prévue au paragraphe 20(12).
+[42] L’intimée soutient que les observations de la CAF dans l’arrêt FLSmidth constituaient uniquement des remarques incidentes et que, quoi qu’il en soit, selon les faits en l’espèce, le régime applicable aux sociétés étrangères affiliées offrait un allègement suffisant pour que la déduction prévue par le paragraphe 20(12) ne soit pas elle aussi autorisée. L’intimée affirme en outre que l’allégement prévu par le paragraphe 20(12) ne s’applique que dans le contexte d’une société affiliée non étrangère.
+[43] Bien que les dividendes payés par la SRINE à la société de personnes et attribués à Emergis aient fait l’objet d’une déduction au titre de l’article 112 (et non de l’article 113), l’intimée soutient que le résultat est le même, car ces deux dispositions ont le même objectif et résultat de sorte que [traduction] « les dividendes intersociétés sont éliminés du revenu imposable de la société bénéficiaire ». Il est vrai que l’impôt sur le revenu tiré de dividendes a déjà été prépayé, ce qui expliquerait pourquoi le bénéficiaire des dividendes n’est pas assujetti à l’impôt sur cette somme.
+[44] De plus, l’intimée note que, selon le droit fiscal américain, les sommes à recevoir par la société de personnes américaine l’ont été au titre des paiements d’intérêts versés par US Amalco. Ce point est pertinent car, selon le droit fiscal canadien, les intérêts à payer par US Amalco ont bénéficié d’une requalification à titre de revenu provenant d’une entreprise exploitée activement aux termes du sous-alinéa 95(2)a)(ii), de sorte qu’il est inclus dans le « surplus exonéré » de la SRL. Cela explique également pourquoi la SRINE a pu demander une exemption au titre de l’article 113, après avoir reçu les dividendes de la SRL. Les paiements d’intérêt versés par US Amalco ont donc bénéficié d’une déduction totale dans le calcul de l’impôt à payer au Canada, conformément à l’alinéa 113(1)a). L’intimée signale en outre qu’il s’agit du « même revenu d’intérêts » à l’égard duquel USGP a été imposée aux États-Unis, de sorte que le Canada a déjà accordé un allègement sur ce revenu étranger et qu’il ne doit donc pas en accorder un autre au titre du paragraphe 20(12).
+d. L’objet
+[45] L’intimée soutient que le but des dispositions de la Loi qui prévoient un allègement pour l’impôt étranger (notamment l’article 113 et les paragraphes 126(1) et 20(12)) est de reconnaître qu’un contribuable pourrait faire l’objet d’une double imposition internationale et, par conséquent, lui éviter de payer des impôts dans deux pays. En l’espèce, la combinaison des deux formes d’allègement, en l’occurrence ceux prévus par l’article 113 et par le paragraphe 20(12), équivaudrait à une double prise en compte par le Canada des impôts étrangers payés sur le même revenu, ce qui n’était pas l’intention du législateur. L’exclusion au paragraphe 20(12) a été expressément prévue pour éviter les chevauchements entre les deux systèmes : elle vise à éviter que le contribuable profite d’un crédit ou d’une déduction lorsqu’il a déjà bénéficié d’un allègement pour impôt étranger au titre d’autres dispositions de la Loi.
+[46] Selon l’intimée, la non-imposition des revenus d’intérêts au Canada doit signifier qu’aucune déduction ne doit être accordée à l’égard de l’impôt payé aux États-Unis, car cela permettrait au contribuable de réduire son revenu par ailleurs imposable qui provient d’autres sources. Les intérêts versés à Emergis ne sont pas imposables au Canada. En l’absence de risque de double imposition, l’allègement pour l’impôt étranger payé sur des paiements d’intérêt qui ne sont même pas imposables ne doit pas être offert.
+Discussion
+[47] La présente affaire porte sur une question d’interprétation des lois, qui appelle une analyse textuelle, contextuelle et téléologique du paragraphe 20(12), conformément aux lignes directrices consacrées par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54.
+[48] Bien que la structure organisationnelle d’Emergis soit pratiquement une image-miroir de celle en cause dans l’affaire FLSmidth, il existe des différences significatives à la fois dans les faits et les questions en litige en appel, qui ne peuvent mener qu’à une seule conclusion : les motifs formulés par la Cour canadienne de l’impôt et la Cour d’appel fédérale à l’occasion de l’affaire FLSmidth ne dictent pas la solution à retenir en l’espèce.
+[49] Les principales différences résultent de ce que les impôts à l’égard desquels une déduction a été demandée diffèrent, en ce qu’ils n’ont pas été payés par la même entité ni à l’égard du même type de revenu.
+[50] Dans l’affaire FLSmidth, la déduction était demandée à l’égard de l’impôt payé aux États-Unis par la société de personnes américaine, dans le calcul de son revenu imposable net. Bien que, du point de vue des États-Unis, les sociétés de personnes américaines dans ces deux affaires aient reçu des paiements d’intérêts de sociétés de portefeuille américaines, les intérêts à payer par la société de personnes américaine dans FLSmidth ne représentaient pas la totalité du revenu de la société, de sorte qu’il restait un revenu net sur lequel la société de personnes a dû payer de l’impôt aux États-Unis. Cela signifiait également qu’une question se posait au sujet de la première condition énoncée au paragraphe 20(12), quant à savoir si les impôts avaient été payés à l’égard du revenu du contribuable Dorr-Oliver (l’entité qui a payé l’impôt n’était pas en fait le contribuable canadien, mais la société en commandite GL&V). Voilà une autre différence notable entre les deux affaires puisque, dans l’appel interjeté par Emergis, seule la deuxième condition énoncée au paragraphe 20(12) prête à controverse.
+[51] Dans l’affaire FLSmidth, la société de personnes américaine bénéficiait également de facilités de crédit sur lesquelles elle a payé des intérêts (à peu près tout comme USGP a payé des intérêts à Emergis) qui ont réduit son revenu imposable net. Dans l’affaire FLSmidth, toutefois, aucun impôt n’a été retenu, et aucune déduction n’a été demandée aux termes de la Loi, à l’égard des paiements d’intérêt sur le premier prêt.
+[52] Dans l’appel interjeté par Emergis, la société mère contribuable, Emergis, a fourni la totalité du financement (aucune facilité de crédit n’a été nécessaire). Cette affaire comporte donc un prêt supplémentaire ou différent [le « premier prêt »], à l’égard duquel les intérêts à payer suffisent à réduire à zéro le revenu net de la société de personnes américaine. Par consequent, la société de personnes américaine n’a eu aucun impôt net à payer au Canada, d’après le calcul de l’impôt payable selon la partie I.
+[53] Ces paiements d’intérêts à la société mère (Emergis) constituent une différence fondamentale, car c’est à l’égard de ces paiements d’intérêts que les États-Unis ont fait des retenues d’impôt que la société cherche maintenant à déduire au titre du paragraphe 20(12). L’imposition a donc été basée sur le revenu brut du bénéficiaire des paiements transfrontaliers, Emergis. On peut supposer que telle est la raison pour laquelle l’intimée ne conteste pas l’applicabilité de la première condition du paragraphe 20(12).
+[54] Emergis, à titre de membre de la société de personnes américaine, doit également payer de l’impôt sur le revenu de la société de personnes qui lui a été attribué. En l’espèce, toutefois, en raison de l’utilisation des paiements d’intérêt, la structure de financement d’Emergis a eu pour effet de modifier la nature de la somme incluse dans son revenu, même si la somme à inclure reste inchangée (intérêts plutôt que dividendes). La répartition des revenus de la société de personnes est inversement proportionnelle aux intérêts à recevoir par Emergis (plus les paiements d’intérêt reçus sont élevés, plus le revenu réparti de la société de personnes est faible). Aux fins du droit fiscal canadien, toutefois, le premier prêt est clairement distinct des dividendes provenant des actions de la SRINE. Comme la question en appel est de déterminer si l’impôt payé sur les intérêts peut raisonnablement être considéré comme un impôt payé à l’égard des dividendes, il est essentiel de tenir compte du fait que ces paiements sont inversement proportionnels pour déterminer s’il existe un lien entre eux.
+[55] De plus, dans l’affaire FLSmidth, l’impôt aux États-Unis a été payé sur des revenus d’intérêts versés à la société de personnes américaine. En ce qui concerne Emergis, l’impôt est perçu sur les intérêts payés par la société de personnes américaine (et reçus par le contribuable Emergis).Une différence importante est que, aux fins de l’impôt au Canada, le premier est requalifié à titre de revenu provenant d’une entreprise exploitée activement, tandis que le dernier est caractérisé comme un prêt portant intérêt. Les intérêts payés par la société de personnes américaine ne constituent pas, au sens de la Loi, un revenu tiré d’une action, mais cela ne répond pas à la question. La question est de savoir s’il peut être dit que l’impôt des États-Unis a été payé à l’égard d’un revenu tiré d’une action.
+[56] Les conclusions pertinentes formulées par la Cour canadienne de l’impôt (la « CCI ») et la Cour d’appel fédérale (la « CAF ») à l’occasion de l’affaire FLSmidth, au sujet de l’exclusion prévue au paragraphe 20(12), sont résumées ci-après :
+a. CCI
+[57] La Cour a fait état de trois motifs différents à l’appui de sa conclusion finale selon laquelle l’impôt des États-Unis pouvait véritablement être considéré comme ayant été payé à l’égard d’un revenu provenant d’actions de la SRL (par. 65).
+[58] Premièrement, la Cour a dit que les impôts avaient été payés en aval de la chaîne, ce qui signifiait qu’ils avaient influé sur le flux de revenus et sur le montant des dividendes versés au final à la société de personnes américaine (par. 57 et 58) :
+[57] En l’espèce, l’impôt était lié ou se rapportait au revenu de dividende que la SRL avait versé à la SRINE, parce qu’il avait été versé sur un revenu qui servait à financer le versement des dividendes. Il a été admis que les dividendes que la SRL avait versés à la SRINE provenaient des intérêts que Holdings avait versés à la SRL, et que les dividendes de la SRL servaient à financer les dividendes que la SRINE versait à la société en commandite.
+[58] Quant à la première question soulevée en l’espèce, l’appelante a fait valoir, et j’ai retenu son argument, que l’impôt des États‑Unis avait été payé par la société de personnes à l’égard du revenu de dividende que cette dernière avait reçu de la SRINE, quoiqu’il n’ait pas été versé sur ce revenu. L’appelante a maintenu que [traduction] « lorsque les impôts influent sur un flux de revenu provenant d’une source, de sorte que le profit économique tiré de cette source est réduit, il est raisonnable de conclure que ces impôts sont payés “à l’égard de” cette source ». Je souscris à ce raisonnement et je conclus qu’il s’applique également au revenu de dividende que la SRL a versé à la SRINE. L’impôt des États‑Unis que la société de personnes a payé sur le revenu d’intérêts que Holdings a versé à la SRL réduisait le profit économique tiré de cette source qui pouvait ensuite être versé à la SRINE et, par extension, il réduisait le montant que la SRINE pouvait verser à la société de personnes. Le paiement de l’impôt influait ainsi sur le flux de revenu à chaque stade, depuis la SRL, en passant par la SRINE, jusqu’à la société de personnes. Par conséquent, je conclus que l’impôt des États‑Unis se rapportait ou était lié au revenu de dividende que la SRINE avait reçu de la SRL puisque les deux faisaient partie du flux de fonds qui provenait de Holdings et qui s’est trouvé finalement entre les mains de la société de personnes.
+[59] Deuxièmement, le juge Paris a examiné le texte du paragraphe 20(12) et a conclu que les mots « il est raisonnable de considérer » permettait « au ministre de faire abstraction de la SRINE » pour établir un lien entre les dividendes de la SRL et le revenu reçu par la société de personnes des États-Unis. Par conséquent, comme les dividendes avaient servi à financer le revenu que la société de personnes des États-Unis avait reçu, il existait un lien suffisant.
+[60] Enfin, le juge a conclu que l’objet de l’exclusion allait dans le sens de sa conclusion selon laquelle les mots « à l’égard du » devaient être interprétés largement :
+[67] […] [l]a restriction au paragraphe 20(12), se rapportant à l’impôt étranger payé à l’égard du revenu tiré des actions d’une société étrangère affiliée du contribuable, y soit incluse parce que l’allègement en ce qui concerne l’imposition dans un pays étranger de dividendes provenant de sociétés étrangères affiliées est traité d’une façon exhaustive ailleurs dans la Loi.
+[68] La Loi prévoit, au paragraphe 113(1), des mesures permettant d’éviter la double imposition sur les dividendes reçus d’une société étrangère affiliée : l’alinéa 113(1)a) exempte les dividendes de l’impôt lorsqu’ils sont prélevés sur le surplus exonéré, et les alinéas 113(1)b) et c) permettent une déduction à l’égard de l’impôt étranger sous‑jacent attribuable au montant des dividendes lorsque ceux‑ci sont prélevés sur le surplus imposable (additionner 113a), b) + c)). Il est raisonnable de conclure qu’en adoptant ces règles précises à l’égard de l’impôt étranger payé sur les dividendes reçus de sociétés étrangères affiliées le législateur voulait traiter d’une façon exhaustive la question de l’allègement en ce qui concerne l’impôt étranger sur pareils dividendes et qu’il ne voulait pas permettre une déduction additionnelle en vertu du paragraphe 20(12).
+b. CAF
+[61] La question dont la CAF était saisie se rapproche davantage de celle qui se pose en l’espèce, car la CAF n’a eu à statuer que sur la deuxième condition (clause d’exclusion). Cela n’a toutefois pas empêché la CAF de rejeter l’appel selon sa lecture des deux conditions, car la CAF a conclu que, peu importe que le juge ait ou non interprété correctement les mots « à l’égard du » (en faisant une interprétation large ou non), l’appel ne pouvait être accueilli (par. 45). Car, si une interprétation large de ces mots était une erreur, alors la première condition n’aurait pas été satisfaite, de sorte qu’il était impossible que la jurisprudence FLSmidth réponde à la première condition sans que la deuxième condition s’applique.
+[62] La CAF a insisté sur ce que la conclusion du juge de la Cour de l’impôt, relativement à la deuxième condition, « repos[ait] entièrement sur le sens large que le juge de la Cour de l’impôt a attribué aux mots « in respect of » [« à l’égard du »] » (par. 35). Fait intéressant à souligner, la CAF a rejeté l’appel sans souscrire de manière explicite à aucune des trois conclusions formulées par le juge de la Cour de l’impôt à l’appui de l’application de l’exclusion.
+[63] Au sujet du premier motif, la CAF a rejeté la conclusion de la CCI selon laquelle l’impôt des États-Unis avait eu une incidence sur le flux de revenus. En effet, la CAF a convenu avec l’appelante que l’impôt des États-Unis dans cette affaire n’avait pas réduit le montant des dividendes versés par la SRL à la SRINE (par. 38). Quoi qu’il en soit, la CAF a dit que l’utilisation faite des dividendes après qu’ils eurent été versés à la SRINE (par exemple, pour effectuer les paiements d’intérêts) n’a pas eu pour effet de réduire les dividendes à payer, calculés dans le revenu de la société de personnes des États-Unis aux termes de la Loi (par. 42).
+[64] En ce qui a trait au deuxième motif formulé par le juge de la CCI, la CAF a refusé de dire si l’interprétation que le juge avait faite des mots « il est raisonnable de considérer » était erronée, car cela n’aurait pas eu d’incidence sur l’issue de l’appel (par. 34 et 35).
+[65] Quant au troisième motif, la conclusion du juge Paris selon laquelle l’intention du législateur était d’exclure l’application du paragraphe 20(12) lorsque l’allègement est accordé au titre de l’article 113, la CAF a déclaré qu’« il ne ressort pas clairement du régime applicable aux sociétés étrangères affiliées qu’il assure une solution exhaustive relativement à l’impôt étranger payé sur des dividendes provenant d’une société étrangère affiliée » et, donc, qu’elle « n’irai[t] pas jusqu’à dire que le paragraphe 113(1) exclut la déduction prévue au paragraphe 20(12) dans tous les cas où il joue » (par. 51 à 53).
+[66] En résumé, la jurisprudence de la CAF ne nous aide pas dans la présente affaire. Elle ne fait que souligner le fait que les motifs du juge de la CCI étaient fondés sur une interprétation large des mots « à l’égard du » qui figurent dans la deuxième condition du paragraphe 20(12). La CAF a simplement conclu que, même si le juge avait commis en erreur en faisant une interprétation aussi large de cette disposition, l’appelante n’aurait pu avoir gain de cause, car les mots « in respect of » [« au titre de » et « à l’égard du » dans la version française], qui figurent à deux reprises dans le paragraphe 20(12), doivent être interprétés de la même manière.
+[67] En l’espèce, il importe maintenant directement de savoir si l’on doit faire une interprétation large ou restrictive de ces mots. Par conséquent, la doctrine professée par la CAF à l’occasion de l’affaire FLSmidth ne règle pas la question que nous devons trancher, et notre Cour doit maintenant examiner le texte, le contexte et l’objet de la disposition en cause pour déterminer si l’exclusion doit être interprétée aussi largement que l’a fait la CCI à l’occasion de l’affaire FLSmidth.
+Analyse textuelle
+[68] Bien que les arguments d’Emergis soient en partie fondés, je ne suis pas convaincu que je doive m’écarter de l’interprétation qu’a faite le juge Paris du paragraphe 20(12). Je conviens avec l’intimée que les mots « à l’égard du » ont un sens très large et que le législateur aurait pu simplement utiliser les expressions impôt étranger « payé sur ce revenu » plutôt que « payé au titre ou à l’égard de ce revenu » pour lui donner un sens plus restreint. La Cour suprême du Canada a décrit les mots « in respect of » (traduits dans cet arrêt par les mots « quant à ») comme étant probablement l’expression la plus large servant à évoquer un lien quelconque entre deux affaires connexes (voir Nowegijick c. La Reine, (1983) 1 R.C.S. 29).
+[69] Cependant, comme l’a souligné l’intimée, il demeure nécessaire d’établir un lien entre l’impôt payé aux États-Unis et le revenu de dividendes reçu. Les mots « à l’égard du ou au titre de » n’ont pas, en soi, un sens suffisamment large pour créer un lien lorsqu’il n’en existe pas.
+[70] Dans l’affaire FLSmidth, ce lien a été clairement établi : parce que le revenu reçu par l’entité qui avait, concrètement, payé les impôts (la société de personnes américaine) a été requalifié à titre de revenu provenant d’une entreprise exploitée activement aux termes de la Loi et qu’il constituait, selon le droit fiscal canadien, un revenu reçu par la société de personnes sous la forme de dividendes. On ne peut en dire autant dans le présent appel. La situation en l’espèce est différente, parce que le contribuable qui a finalement payé l’impôt des États-Unis [Emergis] n’a pas directement reçu de dividendes de la société de personnes. L’impôt des États-Unis a plutôt été perçu sur les paiements d’intérêts reçus par Emergis, et non sur la part des dividendes de la SRINE attribuée à Emergis.
+[71] Cependant, il ressort clairement du renvoi dans le paragraphe 20(12) à l’impôt des États-Unis « qu’il est raisonnable de considérer comme payé par une société à l’égard du revenu tiré d’une action du capital-actions d’une société étrangère affiliée de la société » que l’on doit déterminer si le revenu tiré des actions, reçu par une personne morale autre que le contribuable, peut raisonnablement être considéré comme étant le revenu à l’égard duquel l’impôt des États-Unis a été payé par le contribuable qui demande la déduction.
+[72] À cette fin, il convient de prendre en compte le fait que les dividendes de la SRL ont servi, en partie ou en tout, à financer les paiements d’intérêts sur le premier prêt, pour déterminer s’il existe un lien important entre l’impôt des États-Unis qui a été payé et les dividendes de la SRL.
+[73] Comme les parties reconnaissent qu’USGP a utilisé le revenu de dividendes provenant des actions qu’elle détenait dans la SRINE pour verser à Emergis des paiements d’intérêts de 32 622 207 $ US sur le premier prêt (calculés avant l’impôt des États-Unis retenu sur ces paiements), on peut raisonnablement considérer que l’impôt retenu aux États-Unis sur le revenu d’intérêts payé par USGP à Emergis a « un lien ou un rapport » avec le revenu de dividendes versé par la SRL à la SRINE.
+[74] Selon le paragraphe 93.1(1) de la Loi, Emergis est réputée détenir une part des actions de la SRINE détenues par USGP qui est proportionnelle à sa participation dans la société de personnes, de sorte qu’Emergis détenait un pourcentage d’intérêt de 99,9 % dans la SRL, il existe donc un « autre lien distinct » qui montre que, si Emergis n’avait pas détenu les actions de la SRINE, elle n’aurait pas reçu les revenus de dividendes qui ont servi à payer les intérêts. En raison du flux de fonds à l’intérieur de cette structure étagée, il existe un certain lien entre le revenu d’intérêts payé par USGP et les dividendes versés par la SRL à USGP qui ont été récupérés et déclarés par Emergis au titre de sa participation dans USGP.
+[75] La formulation générale figurant au paragraphe 20(12) visait clairement à englober les flux indirects de revenus, étant donné que les structures organisationnelles qui intègrent des sociétés étrangères affiliées comportent souvent plusieurs niveaux.
+[76] Tant la Cour canadienne de l’impôt que la Cour d’appel fédérale ont conclu, à l’occasion de l’affaire FLSmidth, qu’il est possible de « faire abstraction » des entités créées par un contribuable pour évaluer la réalité économique d’une opération, quelle que soit sa forme juridique.
+Analyse contextuelle
+[77] Les deux parties ont fait valoir que d’autres dispositions de la Loi portant sur les allègements pour impôt étranger doivent être prises en compte. L’intimée invoque principalement l’exemption pour les dividendes reçus de sociétés étrangères affiliées (paragraphe 113(1)), alors que l’appelante mentionne le crédit pour impôt étranger au titre de l’impôt sur le revenu ne provenant pas d’entreprise (paragraphe 126(1)). J’abonde dans leur sens : toutes ces dispositions sont pertinentes.
+[78] Dans le contexte général de la Loi, il existe trois moyens par lesquels un allègement pour impôt sur le revenu étranger est accordé : au titre d’une exemption (article 113), d’un crédit (article 126) ou d’une déduction (paragraphe 20(12)). Il n’est pas controversé entre les parties qu’une seule de ces trois mesures peut s’appliquer à chacun des postes du revenu reçu par le contribuable canadien et à l’égard duquel un impôt étranger sur le revenu a été payé. Cela va de soi dans le cas de l’article 126 et du paragraphe 20(12), car ces dispositions sont mutuellement exclusives. Le contribuable ne peut demander un crédit au titre du paragraphe 126(1) si l’impôt étranger a été déduit « en vertu du paragraphe 20(12) dans le calcul de son revenu pour l’année » (voir la définition d’« impôt sur le revenu ne provenant pas d’une entreprise » au paragraphe 126(7)). Quant à la différence entre exemption et déduction, ces deux mesures sont elles aussi mutuellement exclusives, ce qui est précisément la raison pour laquelle une exclusion a été ajoutée à la déduction prévue au paragraphe 20(12), et pour laquelle aucune déduction ni aucun crédit n’est accordé au titre du paragraphe 126(1) si l’impôt a été payé « à l’égard » du revenu tiré d’actions d’une société étrangère affiliée. Le renvoi précis au revenu tiré d’une action d’une société étrangère affiliée signifie que l’impôt étranger a déjà été pris en compte par le Canada ailleurs dans la Loi.
+[79] Le traitement fiscal qui a été fait du flux de revenus dans la présente affaire se résume comme suit :
+(i) aux fins du droit fiscal canadien, la SRL a invoqué l’alinéa 95(2)a) pour requalifier le revenu d’intérêts provenant du revenu étranger accumulé tiré de biens (REATB) en un revenu provenant d’une entreprise exploitée activement et a, de ce fait, inclus le revenu dans le surplus exonéré de la SRL;
+(ii) la SRINE pouvait déduire la totalité des dividendes prélevés sur le surplus exonéré de la SRL qu’elle avait reçus, au titre de l’alinéa 113(1)a) de la Loi (le « régime du surplus »);
+(iii) les dividendes versés par la SRINE à USGP ont été attribués aux associés en application de l’article 96, lesquels ont eu droit à une déduction totale en application du paragraphe 112(1) de la Loi;
+(iv) USGP a payé à Emergis un revenu d’intérêts sur le premier prêt. L’impôt des États-Unis a été retenu sur ce revenu d’intérêts. Emergis a inclus dans son revenu sa part de 99,9 % du revenu net d’USGP, mais a aussi demandé une déduction au titre du paragraphe 112(1) à l’égard des dividendes de la SRINE, d’une somme équivalant au revenu inclus.
+[80] Emergis n’a donc payé aucun impôt au Canada, parce que le revenu d’intérêts que la SRL a reçu de US Amalco a été distribué à la SRINE à titre de dividende non imposable prélevé sur le surplus exonéré de la SRL, puis a été distribué à titre de dividende non imposable de la SRINE à Emergis par l’intermédiaire d’USGP, puis par USGP à Emergis à titre d’intérêts sur le premier prêt. Cependant, ce revenu d’intérêts a simultanément été annulé par la participation de 99,9 % d’Emergis aux charges d’intérêts d’USGP, puisqu’Emergis détenait une participation de 99,9 % dans USGP (autrement dit, Emergis se situe des deux côtés de la même opération, étant à la fois celle qui paie et reçoit les intérêts). De ce fait, Emergis n’a payé aucun impôt au Canada sur le revenu d’intérêts. Non seulement aucun impôt n’a-t-il été payé au Canada sur les revenus d’intérêts mais, si l’on présume que les revenus d’intérêts et de dividendes ont été les seules opérations pertinentes durant les années 2000 et 2001, alors la déduction demandée par Emergis au titre du paragraphe 20(12) générerait des pertes autres qu’en capital de 3 770 372 $ US et 5 002 325 $ US, respectivement, qui peuvent être imputées sur d’autres revenus. Autoriser la déduction au titre du paragraphe 20(12) donne en fait ouverture à une déduction applicable à d’autres revenus d’Emergis, et non au revenu d’intérêts d’USGP, car ce revenu a été entièrement compensé par les charges d’intérêts à l’égard des mêmes opérations, la déduction d’USGP au titre de l’alinéa 20(1)c) de la Loi, par l’intermédiaire d’Emergis.
+Analyse téléologique
+[81] En ce qui concerne l’objet de la disposition et de l’exclusion, je retiens les observations des deux parties. La déduction est une autre forme d’allègement lorsque le crédit prévu au paragraphe 126(1) ne peut être appliqué. Cependant, l’exclusion vise également à restreindre l’application des allègements pour impôt étranger, lorsqu’on juge que les dispositions qui portent sur les sociétés étrangères affiliées offrent un allègement suffisant. Autrement dit, la déduction vise à alléger le fardeau fiscal international, alors que l’exclusion a pour but d’éviter qu’un contribuable demande deux fois un allègement à l’égard de la même source de revenu. De toute évidence, deux types d’allègements ont été obtenus en l’espèce, mais la question qui se pose est de déterminer si les déductions demandées au titre du paragraphe 20(12) et de l’article 113 portaient sur la même source de revenu.
+[82] Je constate bel et bien un lien entre les dividendes et les paiements d’intérêts, car Emergis a pu demander à la fois l’inclusion de ces paiements d’intérêts et une déduction à leur égard. Comme une partie de ce revenu d’intérêts n’est pas reconnu au Canada, on peut théoriquement considérer que l’impôt a été perçu sur le revenu reconnu au Canada, c’est-à-dire le revenu provenant d’une action.
+[83] Le lien résulte du fait que les intérêts ne sont pas imposables au Canada pour la seule raison que les dividendes de la SRL étaient exonérés. Le fait qu’aucun impôt ne soit exigible au Canada à l’égard des paiements d’intérêt n’est pas nécessairement pertinent en soi. Cependant, l’exemption applicable aux sociétés étrangères affiliées est la raison pour laquelle le revenu d’intérêts (ou d’autre source de revenu) n’est pas reconnu ni imposable aux termes de la partie I de la Loi. En l’espèce, la participation de 99,9 % a été déduite et n’était pas imposable aux termes de la Loi parce que le revenu du contribuable provenait d’une action d’une société étrangère affiliée. La déduction pour intérêts est tributaire d’un objectif de gagner un revenu lequel, en l’espèce, est le dividende provenant de la SRL, puis de la SRINE.
+[84] Bien que la déduction demandée par la société de personnes au titre de l’article 112 ne concerne pas un revenu de dividendes provenant d’une société étrangère affiliée (la SRINE est une société canadienne), la seule raison pour laquelle cette déduction peut être demandée est que USGP est une entité hybride. Si USGP n’avait pas fait l’objet d’un traitement fiscal différent dans les deux pays, Emergis n’aurait pas pu demander la déduction au titre de l’article 112 (qui ne s’applique qu’aux dividendes entre sociétés canadiennes). Il n’y a donc aucune composante étrangère dans les dividendes de la SRINE. Mais comme un impôt étranger a été payé, il doit exister un lien entre la composante étrangère et les dividendes de la SRL lesquels, dans le contexte de la Loi, constituent en fait la seule opération transfrontalière.
+[85] Lorsque deux allègements sont demandés à l’égard d’une même structure transfrontalière, il est logique que le Canada n’en accorde qu’un seul, s’il n’existe selon la Loi qu’une seule source de revenu étranger. En l’espèce, la seule source transfrontalière de revenu reconnue par la Loi est le revenu tiré d’une action de la SRL, laquelle source peut raisonnablement être considérée comme le revenu à l’égard duquel l’impôt étranger a été perçu, puisque le revenu d’intérêts est considéré comme un revenu payé par un résident canadien à un autre.
+[86] Le Canada ne reconnaîtra pas la composante étrangère de l’opération si, de son point de vue, cette composante a déjà été reconnue sous la forme d’un revenu provenant d’une action. Voilà précisément la raison pour laquelle les mots « à l’égard du » doivent être interprétés dans un sens large : non pas pour établir un lien entre deux opérations différentes, mais plutôt pour déterminer si seulement une des deux opérations doit donner droit à l’allègement fiscal sous-jacent.
+[87] L’exclusion s’applique, non pas parce que les paiements d’intérêts n’étaient pas imposables au Canada, mais parce que les dividendes de la SRL, combinés au caractère hybride de la société de personnes américaine, n’ont donné lieu qu’à une seule opération transfrontalière entrante reconnue par le Canada : les dividendes de la SRL. Autrement dit, le Canada ne reconnaît qu’une seule opération transfrontalière : les dividendes de la SRL. Le Canada exonère complètement ce revenu au titre du paragraphe 113(1). Le paiement d’intérêts transfrontalier finalement reçu par Emergis, bien qu’il s’agisse du revenu à l’égard duquel l’impôt a été payé aux États-Unis, est en partie un paiement fait par Emergis elle-même. On peut raisonnablement considérer que les dividendes de la SRL ont été la source étrangère de revenu de 99,9 % des paiements d’intérêts reçus par Emergis, de sorte que tout impôt étranger payé sur ces intérêts, le cas échéant, doit être considéré comme ayant été payé à l’égard de cette source de revenu étrangère.
+[88] Il était essentiel qu’USGP soit une entité hybride pour que les intérêts ne soient pas inclus dans le revenu imposable d’Emergis. Sans la répartition des dividendes et la déduction pour intérêts demandée par la société de personnes et attribuée à Emergis, les paiements d’intérêts auraient été entièrement imposables.
+[89] Le Canada subventionne déjà les revenus gagnés à l’étranger en permettant à ses résidants de déduire les intérêts sur les sommes empruntées pour gagner les dividendes exonérés. Accorder une déduction supplémentaire dans les circonstances de l’espèce, en plus de celle demandée au titre de l’alinéa 20(1)c) pour réduire à zéro le revenu tiré des paiements d’intérêts, équivaudrait, pour le Canada, à subventionner le gouvernement d’un autre pays lorsqu’il impose un impôt que le Canada ne reconnaît (en partie) même pas.
+Conclusion
+[90] En résumé, les mots « à l’égard du » doivent être interprétés largement. Le revenu provenant d’une action d’une personne morale autre que le contribuable doit être pris en compte. Dans la présente affaire, bien que le paragraphe 20(12) n’exige pas que le revenu à l’égard duquel l’impôt a été payé soit imposable au Canada, l’exemption obtenue par la SRINE pour les dividendes de la SRL est la raison pour laquelle Emergis n’est, au final, pas imposée sur cette somme. L’exemption au titre de l’article 113 est donc liée à la déduction prévue à l’alinéa 20(1)c) qu’Emergis a pu demander pour le revenu d’intérêts à l’égard duquel l’impôt a été payé aux États-Unis.
+[91] Autant le droit fiscal canadien que le droit fiscal américain considèrent que 99,9 % du revenu de la société de personnes n’« a franchi la frontière » qu’une seule fois avant d’être reçu par Emergis. Bien que les États-Unis fiscalisent ce qu’ils considèrent comme étant des paiements d’intérêts transfrontaliers, le Canada ne considère qu’un revenu étranger a franchi la frontière que lorsque ce revenu est reçu par un résident canadien, sous la forme d’un dividende d’une société étrangère affiliée. Dans la mesure où le revenu d’intérêts n’est, au final, pas imposable au Canada vu l’exemption prévue à l’article 113, l’impôt payé aux États-Unis peut raisonnablement être considéré comme ayant été payé à l’égard des dividendes versés par la SRL, car il s’agit de la source étrangère de revenu reconnue par le Canada.
+[92] Pour les motifs qui précèdent, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Montréal (Québec), ce 19e jour de mars 2021.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 8e jour de novembre 2021.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 23
+NO DU DOSSIER DE LA COUR :
+2017-1901(IT)G
+INTITULÉ :
+EMERGIS INC. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 16 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 19 mars 2021
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ian J. Gamble
+Avocats de l’intimée :
+Me Lynn M. Burch
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Ian J. Gamble
+Cabinet :
+Thorsteinssons LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+No du dossier de la Cour : 2017-1901(IT)G
+PROCÉDURE GÉNÉRALE
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+EMERGIS INC.
+appelante
+et
+SA MAJESTÉ LA REINE
+intimée
+EXPOSÉ CONJOINT PARTIEL DES FAITS ET QUESTION EN LITIGE
+L’appelante et l’intimée conviennent, aux fins du présent appel et de tout appel subséquent, que les faits énoncés ci-après sont vrais. Les parties peuvent présenter d’autres éléments de preuve à condition que ces éléments ne contredisent pas ces faits. Les parties sont libres de présenter des observations relativement au degré de pertinence ou au poids devant être attribué à ces faits, mais ce n’est pas à dire qu’elles souscrivent à ce degré de pertinence ou à ce poids.
+Partie A – L’appelante
+Durant toute la période pertinente aux fins du présent appel, l’appelante (Emergis) était une société ouverte canadienne détenue à 65 % par BCE Inc. (une autre société ouverte canadienne) et dont l’exercice financier se terminait le 31 décembre.
+Partie B – L’acquisition de UP&UP et la structure étagée
+Durant son année d’imposition 2000, Emergis a fait indirectement l’acquisition d’une société en exploitation américaine sans lien de dépendance (UP&UP) et, à cette fin, a établi une structure de financement transfrontalière, connue dans le milieu fiscal sous le nom de « structure étagée ». L’acquisition, notamment la structure étagée, se sont déroulées selon les étapes décrites ci-dessous.
+Le 3 février 2000, Emergis a constitué en personne morale Jetco Inc. (Jetco) sous le régime des lois du Delaware, aux États-Unis.
+Le 15 mars 2000 :
+a) 3701123 Canada Inc. (FilialeCan) a été constituée en personne morale par Emergis;
+b) BCE Emergis General Partnership (USGP) a été constituée par Emergis et FilialeCan sous le régime des lois du Delaware, aux États-Unis, Emergis détenant une participation de 99,9 % et FilialeCan, une participation de 0,1 %.
+Le 16 mars 2000, 3040697 Nova Scotia Unlimited Liability Company (SRINE) a été constituée en personne morale, avec USGP comme actionnaire unique.
+Le 17 mars 2000 :
+a) BCE Emergis LLC (SRL) a été constituée à titre de société à responsabilité limitée sous le régime des lois du Delaware (États-Unis) par la SRINE et USGP;
+b) Emergis a souscrit 100 actions de BCE Emergis US Holdings Inc. (US Holdco), une société nouvellement constituée au Delaware.
+Le 22 mars 2000 :
+a) US Holdco a souscrit 100 actions d’une filiale américaine indirecte d’Emergis (Acquisitionco);
+b) US Holdco a acquis la totalité des actions émises de Jetco que détenait Emergis, en contrepartie de 100 actions ordinaires de US Holdco.
+Le 24 mars 2000, US Holdco a transféré la totalité des actions de Jetco à Acquisitionco, en contrepartie de 100 actions ordinaires d’Acquisitionco.
+La figure 1 ci-dessous présente une représentation graphique de la structure juridique alors en place. (La caractérisation fiscale de ces entités, aux fins de l’impôt au Canada et aux États-Unis, est décrite ci-après à la Partie C – Caractérisation fiscale des entités.)
+Figure 1 – Structure juridique avant l’acquisition
+Emergis
+FilialeCan
+SRINE
+SRL
+USGP
+US Holdco
+Acquisitionco
+Jetco
+Légende
+= société de personnes = personne morale
+Également le 24 mars 2000 :
+a) Emergis a souscrit des actions de FilialeCan pour une somme de 34 400 $ US;
+b) Emergis et FilialeCan ont versé des apports en capital à USGP, établis selon leurs pourcentages de participation respectifs, pour une somme totalisant 33 385 535 $ US;
+c) Emergis a consenti à USGP un prêt de 266 670 000 $ US, au taux d’intérêt annuel de 12,25 % sur dix ans, taux qui a été réduit à 12,127 % après le 1er octobre 2000 à la suite de la modification du calendrier des paiements d’intérêts, qui est passé d’un calendrier trimestriel à mensuel (le premier prêt);
+d) USGP a utilisé les fonds provenant du premier prêt, ainsi que les apports en capital de l’appelante et de FilialeCan, pour souscrire des actions du capital-actions de la SRINE pour une somme de 300 002 000 $ US;
+e) USGP a souscrit une action de la société à responsabilité limitée (SRL) à 100 $ US;
+f) La SRINE a souscrit des actions de la SRL, pour une somme de 300 001 000 $ US;
+g) Emergis a souscrit 2 424 720 actions de US Holdco, pour la somme de 242 472 050 $ US;
+h) US Holdco a souscrit 2 424 710 actions d’Acquisitionco, pour une somme de 242 471 050 $ US;
+i) La SRL a consenti à Acquisitionco un prêt de 300 000 000 $ US, au taux d’intérêt annuel de 12,5 % sur dix ans, taux qui a été réduit à 12,372 % après le 27 septembre 2000 à la suite de la modification du calendrier des paiements d’intérêts, qui est passé d’un calendrier trimestriel à mensuel (le deuxième prêt);
+Le 28 mars 2000, Jetco et UP&UP ont fusionné pour former une nouvelle société américaine (US Mergco);
+Le 29 mars 2000, Acquisitionco a été fusionnée avec US Mergco pour former US Amalco et, aux termes de cette fusion, US Amalco a assumé la responsabilité du deuxième prêt.
+US Amalco est une société résidant aux États-Unis aux fins de l’impôt et du traité.
+À ce stade, l’acquisition de UP&UP était terminée et la structure juridique pouvait être représentée graphiquement par la figure 2 ci-dessous. (La caractérisation fiscale de ces entités, aux fins de l’impôt au Canada et aux États-Unis, est décrite ci-après à la Partie C – Caractérisation fiscale des entités.)
+Figure 2 – Structure juridique après l’acquisition
+Deuxième prêt
+Premier prêt
+US Amalco
+US Holdco
+SRL
+SRINE
+USGP
+FilialeCan
+Emergis
+Légende
+= société de personnes
+= personne morale
+Partie C – Caractérisation fiscale des entités
+Durant toute la période pertinente aux fins du présent appel, USGP, la SRINE et la SRL étaient des « entités hybrides », ce qui signifie qu’elles étaient traitées différemment selon le droit fiscal canadien et américain. Ces entités formaient la structure étagée. Plus précisément :
+a) USGP était considérée comme une société de personnes aux fins de la Loi [1] , mais a choisi d’être traitée comme société résidant aux États-Unis aux fins de l’impôt dans ce pays;
+b) La SRINE était traitée à titre de société canadienne imposable selon la Loi, mais à titre d’entité « transparente » aux fins de l’impôt aux États-Unis (ce qui signifiait qu’elle n’était pas considérée comme ayant une existence distincte de celle de son propriétaire);
+c) La SRL était traitée comme société non résidente et société étrangère affiliée de la SRINE et d’Emergis selon la Loi, mais comme entité transparente aux fins de l’impôt aux États-Unis.
+US Holdco était une société résidant aux États-Unis et une société étrangère affiliée en propriété directe d’Emergis aux fins de l’impôt canadien. Il s’agissait d’une société résidant aux États-Unis aux fins de l’impôt américain.
+US Amalco était une société résidant aux États-Unis et une société étrangère affiliée d’Emergis aux fins de l’impôt canadien. Il s’agissait d’une société résidant aux États-Unis aux fins de l’impôt américain.
+La figure 3 qui suit présente une représentation graphique, selon le droit fiscal canadien et américain, des portions pertinentes de la structure juridique établie à partir des renseignements qui précèdent.
+Le diagramme présenté à l’annexe A donne une autre représentation graphique de la structure complète.
+Figure 3 – Structure fiscale
+Droit fiscal canadien Droit fiscal américain
+Deuxième prêt
+Premier prêt
+Deuxième prêt
+SRL
+US Amalco
+US Holdco
+USGP
+Premier prêt
+FilialeCan
+Emergis
+FilialeCan
+US Amalco
+US Holdco
+SRINE
+USGP
+Emergis
+Légende
+= société de personnes
+= personne morale
+Partie D – Les dividendes, les intérêts et les retenues d’impôt aux États-Unis
+Aux fins de l’impôt canadien, durant les années d’imposition 2000 et 2001 d’Emergis :
+a) US Amalco a payé à la SRL des intérêts sur le deuxième prêt.
+b) En 2000 et 2001, la SRINE a reçu des revenus de dividendes (libellés en dollars américains) provenant de ses actions de la SRL de sommes équivalant à 42 940 070 $ CA et 58 467 044 $ CA, respectivement. La SRINE a inclus ces sommes dans son revenu au titre du paragraphe 90(1) et a demandé une déduction compensatoire à l’égard de cette somme dans le calcul de son revenu imposable au titre de l’alinéa 113(1)a), car les dividendes reçus sur ses actions d’une société étrangère affiliée (SRL) étaient considérés comme ayant été prélevés sur le surplus exonéré de la société affiliée.
+c) USGP devait calculer son revenu (net) provenant de chacune des sources énoncées à l’alinéa 96(1)c) et, à cette fin, USGP a reconnu le revenu de dividendes provenant de ses actions de la SRINE aux termes du paragraphe 82(1) et a demandé une déduction largement compensatoire au titre de l’alinéa 20(1)c) à l’égard des intérêts qu’elle a payés à Emergis sur le premier prêt.
+d) Le revenu (net) précité d’USGP, calculé conformément à l’alinéa 96(1)c), a ensuite été attribué à Emergis et FilialeCan en application de l’alinéa 96(1)f), en fonction de leurs parts respectives à titre d’associées dans USGP; à cet égard, Emergis a déclaré à l’annexe 1 de sa déclaration de revenus T2 sa part de 99,9 % du revenu d’USGP.
+e) Emergis a inclus dans son revenu au titre du paragraphe 12(3) les intérêts que lui avait payés USGP sur le premier prêt et a déclaré cette somme à l’annexe 1 de sa déclaration de revenus T2.
+f) Dans le calcul de son revenu imposable au titre du paragraphe 112(1), Emergis a demandé, à la page 3 de sa déclaration de revenus T2, une déduction à l’égard de sa part (99,9 %) du revenu de dividendes que la SRINE a versé à USGP.
+Durant ses années d’imposition 2000 et 2001, Emergis a payé en impôt aux États-Unis des sommes équivalant à 3 808 456 $ CA et à 5 051 276 $ CA, respectivement, au titre des revenus d’intérêts que USGP lui a versés sur le premier prêt.
+Lors de la production de ses déclarations de revenus en application de la Loi, Emergis a déduit l’impôt retenu aux États-Unis du calcul de son revenu provenant d’une entreprise ou d’un bien au titre du paragraphe 20(12), au motif que cette somme représentait l’impôt sur le revenu ne provenant pas d’une entreprise qu’Emergis avait payé au gouvernement américain à l’égard de ce revenu, c’est-à-dire le revenu tiré du premier prêt : 3 808 456 $ pour son année d’imposition 2000 et 5 051 276 $ pour son année d’imposition 2001.
+Conformément aux règles fiscales américaines, les paiements de dividendes versés par la SRL à la SRINE, ainsi que les paiements de dividendes versés par la SRINE à USGP, n’ont pas été pris en compte, car la SRL et la SRINE étaient toutes deux des entités dont il était fait abstraction aux fins de l’impôt aux États-Unis. Par conséquent, aucun impôt n’était exigible aux États-Unis sur les dividendes payés par la SRL à la SRINE, ou sur les dividendes payés par la SRINE à USGP en 2000 et 2001.
+Ainsi qu’il est exposé au paragraphe 10d) qui précède, USGP a utilisé les fonds provenant du premier prêt pour acquérir son seul actif, des actions de la SRINE. USGP a utilisé le revenu de dividendes provenant de ses actions de la SRINE pour payer les intérêts qu’elle devait à Emergis à l’égard du premier prêt.
+Plus précisément, en 2000, dans l’ordre suivant :
+a) La SRL a versé des dividendes à la SRINE, libellés en dollars américains, d’une somme équivalant à 42 940 070 $ CA;
+b) La SRINE a utilisé le revenu de dividendes tiré de ses actions de la SRL pour verser des dividendes de 28 758 167 $ US à USGP;
+c) USGP a utilisé le revenu de dividendes provenant de ses actions de la SRINE pour verser à Emergis des intérêts de 25 506 296 $ US sur le premier prêt (calculés avant l’impôt des États-Unis retenu sur ces intérêts);
+d) Emergis a payé les impôts retenus aux États-Unis, libellés en dollars américains, d’une somme équivalant à 3 808 456 $ CA sur son revenu d’intérêts de 25 506 296 $ US provenant du premier prêt.
+Plus précisément, en 2001, dans l’ordre suivant :
+a) La SRL a versé des dividendes à la SRINE, libellés en dollars américains, d’une somme équivalant à 58 467 044 $ CA;
+b) La SRINE a utilisé le revenu de dividendes tiré de ses actions de la SRL pour verser des dividendes de 37 759 263 $ US à USGP;
+c) USGP a utilisé le revenu de dividendes provenant de ses actions de la SRINE pour verser à Emergis des intérêts de 32 622 207 $ US sur le premier prêt (calculés avant l’impôt des États-Unis retenu sur ces intérêts);
+d) Emergis a payé des impôts retenus aux États-Unis, libellés en dollars américains, d’une somme équivalant à 5 051 276 $ CA sur son revenu d’intérêts de 32 622 207 $ US provenant du premier prêt.
+Si l’on présume que les opérations précitées ont été les seules opérations pertinentes durant les années d’imposition 2000 et 2001 d’Emergis, et qu’une déduction au titre du paragraphe 20(12) était admissible à l’égard de l’impôt payé aux États-Unis, le calcul du revenu d’Emergis provenant d’une entreprise ou d’un bien, selon l’article 3 de la section B de la partie I de la Loi et le calcul de son revenu imposable selon la section C, partie I, de la Loi se feraient conformément au tableau qui suit :
+Poste
+Emergis
+Année d’imposition 2000
+Année d’imposition 2001
+SECTION B – CALCUL DU REVENU D’EMERGIS
+Sommes à inclure
+I
+Al. 12(1)c), par. 12(3) – Revenus d’intérêts reçus d’USGP sur le premier prêt
+38 084 560 $
+50 512 758 $
+II.a.
+II.b
+Attribution à Emergis du revenu d’USGP :
+Revenu total d’USGP :
+Revenu de dividendes (de la SRINE à USGP)
+Frais d’intérêt (premier prêt)
+Autres postes
+Revenu net d’USGP aux fins de l’impôt
+Participation de 99,9 % d’Emergis – par. 12(1)(1) et al. 96(1)c)
+42 940 193 $
+-38 084 471 $
+-5 599 $
+4 850 123 $
+x 99,9 %
+4 845 060 $
+58 467 059 $
+-50 512 75 $
+-44 179 $
+7 910 122 $
+x 99,9 %
+7 902 212 $
+III
+Déductions
+Par. 20(12) – Impôt étranger sur le revenu ne provenant pas d’une entreprise
+-3 808 456 $
+-5 051 276 $
+IV
+Revenu pour l’année
+Art. 3 – Revenu net d’Emergis pour l’année
+39 121 164 $
+53 406 267 $
+SECTION C – CALCUL DU REVENU IMPOSABLE D’EMERGIS
+Déductions
+Par. 112(1) – Dividendes de la SRINE (99,9 %)
+-42 897 130 $
+-58 408 592 $
+Somme reportée
+Par. 111(8) – « Perte autre qu’une perte en capital » pour l’année
+-3 770 372 $
+-5 002 325 $
+SECTION A – ASSUJETTISSEMENT À L’IMPÔT D’EMERGIS
+Par. 2(2) – Revenu imposable d’Emergis pour l’année
+Nul
+Nul
+Les postes I et II.b se compensent.
+Les postes IV et II.a se compensent.
+Emergis a déclaré son revenu d’intérêts provenant du premier prêt aux termes du paragraphe 12(3), la répartition de sa part de 99,9 % du revenu (net) d’USGP provenant des actions détenues par USGP dans la SRINE aux termes de l’alinéa 96(l)f), et sa déduction au titre du paragraphe 112(1) relativement à sa part de 99,9 % des dividendes d’USGP reçus de la SRINE – tout cela conformément au paragraphe 27 précité [2] .
+En 2000 et 2001, le seul actif de la SRINE était les actions qu’elle détenait dans la SRL et le revenu de dividendes provenant de ces actions, alors que le seul actif important d’USGP était les actions qu’elle détenait dans la SRINE et le revenu de dividendes provenant de ces actions.
+L’impôt sur le revenu payé aux États-Unis par USGP, à titre de société résidant aux États-Unis, sur son revenu net aux fins de l’impôt des États-Unis sur le deuxième prêt, n’est pas pertinent aux fins du présent appel, car Emergis n’a pas demandé de déductions au titre du paragraphe 20(12) à l’égard de quelque impôt sur le revenu payé aux États-Unis par USGP.
+Partie E – Dénouement de la structure étagée
+Emergis a mis fin à la structure étagée durant son année d’imposition 2002, à la suite de modifications apportées au droit fiscal américain qui ont rendu la structure peu favorable aux fins de l’impôt aux États-Unis. Après juillet 2002, Emergis a penché plutôt vers une structure de financement hongroise.
+Partie F – Question en litige
+Il est constant que les retenues d’impôt aux États-Unis de 3 808 456 $ CA et 5 051 276 $ CA, payées par Emergis pour ses années d’imposition 2000 et 2001, respectivement, représentaient l’impôt sur le revenu ne provenant pas d’une entreprise qu’Emergis a payé au gouvernement américain à l’égard du revenu tiré par Emergis du premier prêt. Il n’est donc pas controversé entre les parties que la première condition du paragraphe 20(12) est satisfaite.
+La question en litige dans le présent appel est de déterminer si la deuxième condition énoncée au paragraphe 20(12) est elle aussi satisfaite, autrement dit, si les retenues d’impôt par les États-Unis de 3 808 456 $ CA et 5 051 276 $ CA, ou tout ou partie de ces sommes, peuvent raisonnablement être considérées comme étant un impôt payé par Emergis à l’égard du revenu tiré d’une action du capital-actions d’une société étrangère affiliée d’Emergis.
+Si cette deuxième condition est satisfaite, Emergis n’a pas droit à la déduction précitée, demandée au titre du paragraphe 20(12). Si, en revanche, la deuxième condition ne s’applique pas, Emergis a droit à la déduction précitée, demandée au titre du paragraphe 20(12).
+DATÉ à Vancouver (Colombie-Britannique), ce 19e jour de février 2019.
+THORSTEINSSONS LLP
+Avocats fiscalistes
+C.P. 49123, 27e étage
+595, rue Burrard
+Vancouver (Colombie-Britannique) V7X 1J2
+Télécopieur : 604-688-4711
+Par : Me Ian J. Gamble
+Avocat de l’appelante
+PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice
+Bureau régional de la Colombie-Britannique
+840, rue Howe, bureau 900
+Vancouver (Colombie-Britannique) V6Z 2S9
+Télécopieur : 604-666-2214
+Par : Me Lynn M. Burch / Me Christa Akey
+Avocats de l’intimée
+Emergis Inc. c. SMR
+Cour canadienne de l’impôt Appel no 2017-190l(IT)G
+Exposé conjoint des faits Annexe A
+SRINE
+(É.-U. = entité intermédiaire)
+(Can. = société résidant au Canada)
+Environ 35 %
+Capitaux propres émis à BCE
+SRL
+(É.-U. = entité intermédiaire)
+(Can. = société étrangère affiliée contrôlée)
+USGP
+(É.-U. = personne morale)
+(Can. = société en nom collectif)
+Prêt à USGP à un taux d’intérêt de 12,26 % exigible en 2010 (266 670 000 $ US)
+Apports en capital totalisant 33 330 000 $ US
+Capitaux propres 300 000 000 $ US
+Prêt sur 10 ans de la SRL à USCO – 300 000 000 $ US à un taux d’intérêt de 12,372 %
+Capitaux propres 300 000 000 $ US
+Capitaux propres 242 millions $ US
+Capitaux propres 242 millions $ US
+Environ 85 %
+Prêt de BCE à Emergis – 150 000 000 $ CA au moyen de débentures convertibles
+Reste du financement – 650 000 000 $ CA
+USCO Holding de sociétés en exploitation des É.-U.
+FilialeCan
+US Holdco (Delaware)
+Emergis (société ouverte can.)
+Société ouverte
+BCE (Canada – société ouverte)
+[1] Les articles renvoient à la Loi de l’impôt sur le revenu canadienne (la Loi) sauf indications contraires.
+[2] Les sommes déclarées par Emergis en 2000 et 2001 ne diffèrent que légèrement des sommes indiquées précédemment au paragraphe 27. La différence résulte uniquement de l’arrondissement et de l’application des taux de change pour convertir les dollars américains en dollars canadiens. Cette différence n’a pas d’incidence sur la question en litige dans le présent appel.

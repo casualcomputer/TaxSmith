@@ -1,0 +1,194 @@
+Title: Mignardi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31115/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-67-31115-mignardi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-03-06
+
+# Mignardi v. The Queen
+
+- Citation: 2013 TCC 67
+- Decision date: 2013-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4764, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mignardi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-03-06
+Neutral citation
+2013 TCC 67
+File numbers
+2011-1462(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1462(GST)I
+BETWEEN:
+STEVEN MIGNARDI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 21, 2012 and on October 24, 2012,
+at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+William Kelly
+Counsel for the Respondent:
+Alisa Apostle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 323 of the Excise Tax Act, notice of which is dated November 15, 2006, for the period May 1, 2000 to October 31, 2002, is allowed, without costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 6th day of March 2013.
+“B.Paris”
+Paris J.
+Citation: 2013 TCC 67
+Date: 20130306
+Docket: 2011-1462(GST)I
+BETWEEN:
+STEVEN MIGNARDI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Mignardi is appealing an assessment made under section 323 of the Excise Tax Act[1] (“ETA”) for Goods and Services Tax (“GST”) which a company of which he was a director, 1313448 Ontario Ltd., (1313) allegedly failed to remit. The assessment also includes interest and penalties on the unremitted tax.
+[2] Subsection 323(1) of the ETA reads:
+If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[3] Mr. Mignardi raises three defences to the assessment.
+[4] First, Mr. Mignardi says that he last ceased to be a director of 1313 more than two years before the assessment against him was made and therefore the assessment is precluded by subsection 323(5) of the ETA, which reads:
+An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[5] Second, he says that in these proceedings the respondent has the onus to prove the amount of the underlying corporate GST liability, and that she has failed to meet this onus.
+[6] Finally, Mr. Mignardi contends that if the assessment is found to have been made within time, he is not liable for any failure to remit that occurred after October 1, 2001, when control over the financial affairs of 1313 was taken away from him by a creditor of 1313.
+Facts
+[7] In late 1997, Mr. Mignardi and a friend, Bob Bedard, decided to open a comedy club in Ajax, Ontario. They formed a company called Mignardi Group Inc. (“MGI”) which entered into a franchise agreement with Yuk Yuk’s International Inc. (“Yuk Yuk’s”) to operate a Yuk Yuk’s comedy club, in exchange for the payment of a license fee and royalties. Mr. Mignardi held 75 shares in MGI and Mr. Bedard held 25 shares.
+[8] For some reason that Mr. Mignardi and Mr. Bedard were unable to recall, it was decided that another company should be incorporated to operate the club, and 1313 was set up for that purpose. MGI held 80 shares in 1313. Keith Wilson, a third investor in the club, held 20 shares.
+[9] Mr. Mignardi, Mr. Bedard and Mr. Bedard’s girlfriend, Janice French, were appointed directors of 1313. It was agreed that Mr. Mignardi would be responsible for the daily operations and financial management of the club and that Mr. Bedard and Mr. Wilson would be passive investors.
+[10] The club opened in 1998 and operated successfully for an initial period. However, by October 2001 it had fallen behind in paying its rent and in paying royalties due to Yuk Yuk’s. At that point Yuk Yuk’s insisted that 1313 turn over all financial management of the club to an outside firm called “Paul Simmons Management” (“Simmons”). Mr. Mignardi and Mr. Bedard both testified that they felt they had no choice but to acquiesce to this demand because they understood that if they did not agree, Yuk Yuk’s would terminate their franchise agreement.
+[11] According to Mr. Bedard’s testimony, from October 2001 to July 29, 2002 Mr. Mignardi continued to manage the club except for the financial aspects of the business. During this period, Mr. Mignardi deposited the revenue from the club into a bank account controlled by Simmons and sent weekly sales summaries to Simmons. Simmons then paid the club’s bills from the bank account.
+[12] Mr. Bedard said that in 2002 Yuk Yuk’s became concerned that Mr. Mignardi was not depositing all of the revenue from the club into the bank account as had been agreed. Yuk Yuk’s held a meeting on July 29, 2002 with Mr. Mignardi, Mr. Bedard, and staff from Simmons at which it demanded that Mr. Mignardi give up all control over the operation of the club and that an appointee of Yuk Yuk’s take over from him.
+[13] Mr. Mignardi’s recollection of the timing of that meeting differed from Mr. Bedard’s. Mr. Mignardi testified that the meeting took place in May 2002 rather than in July 2002. Although little turns on the timing of the meeting, I accept Mr. Bedard’s evidence concerning these events because it is corroborated by two documents that were prepared during the relevant period. The first was a “Notice of Default” prepared by Yuk Yuk’s dated July 30, 2002 which set out the details of the meeting of July 29, 2002, including that Mr. Mignardi “would stop managing the financial and operational aspects of the club effective immediately.” The second document was a weekly summary of revenue for the club prepared and signed by Mr. Mignardi for the week ending July 28, 2002, which shows that Mr. Mignardi had continued to run the club up to that point.
+[14] Mr. Mignardi did not return to the club after the meeting and said that he had nothing more to do with its operation. Mr. Bedard, who took on a larger role in running the club after Mr. Mignardi’s departure, confirmed that Mr. Mignardi was not involved in the club after July 29, 2002. However, he did say that Mr. Mignardi gave him a cheque for $2,500 in late 2002 or early 2003 to put towards 1313’s GST liability once it became known that 1313 was in arrears with its GST remittances. It appears that 1313 was audited for GST and it was determined that the company had failed to remit net tax for the periods ending July 31, 2000 to July 31, 2002.
+[15] In 2003, Mr. Bedard started a new company and entered into a new franchise agreement with Yuk Yuk’s to operate a comedy club at the same location as 1313 had operated.
+[16] In March 2003, Mr. Mignardi was contacted by a collections officer from the Canada Revenue Agency (“CRA”) about possible liability as a director of 1313 for unremitted GST. Mr. Bedard was also contacted by the CRA, and resigned as a director of 1313 in 2004. Mr. Mignardi said he never resigned because he felt that he had been “fired” as a manager and a director at the July 29, 2002 meeting.
+[17] On March 15, 2004, a different CRA collections officer wrote Mr. Mignardi to advise him that he could be held liable for the outstanding GST debt of 1313.
+[18] On April 7, 2004, Mr. Mignardi’s counsel wrote to the collections officer and asked for a detailed breakdown of how the amount owing by 1313 had been arrived at. No answer to that request was received. Another CRA collections officer wrote to Mr. Mignardi on January 16, 2006 to again advise him that he could be held liable for the outstanding GST debt of 1313. On January 26, 2006, Mr, Mignardi’s counsel responded, noting that the previously requested breakdown had not been provided and reiterating his request. Again, no answer was received.
+[19] Mr. Mignardi was assessed on November 15, 2006 for $72,357 in respect of failures by 1313 to remit net GST and for penalties and interest under the ETA. On December 7, 2006 counsel followed up with another request to the collections officer for details of 1313’s liability. Mr. Mignardi testified that no response to that request was received either. Counsel then filed an objection to the assessment. Mr. Mignardi’s counsel wrote to Simmons on two occasions in 2008 seeking financial records for 1313, but nothing was received back. On August 12, 2008, counsel wrote to the appeals officer handling the objection and asked for copies of the returns that had been filed by 1313 for all of the periods covered by the assessment and up until it ceased operating. Mr. Mignardi testified that no copies of these documents were provided. None of this evidence was challenged by the respondent.
+[20] The assumptions in the Reply to the Notice of Appeal set out that:
+(i) 1313 failed to remit net GST of $44,328.17;
+(ii) on January 13, 2006 a certificate was registered in the Federal Court under section 316 of the ETA certifying that 1313 had failed to remit net tax, interest and penalties of $66,545.07;
+(iii) a writ of seizure and sale was issued by the Federal Court; and
+(iv) the writ was returned wholly unsatisfied and marked “nulla bona” by the sheriff on July 4, 2006. The certificate, writ and nulla bona return were entered as exhibits at the hearing.
+1st issue: Did Mr. Mignardi cease to be a director on July 29, 2002?
+[21] Counsel submitted that Mr. Mignardi ceased to be a director of 1313 as a result of being excluded from the activities of the corporation at the meeting which I have found to have been held on July 29, 2002. Counsel argued that at the meeting Mr. Mignardi was removed as a director of the company in accordance with article 2.06 of the Bylaws of 1313, [2] which provided that:
+2.06 Removal:--The shareholder(s) may, by ordinary resolution passed at a meeting of shareholders, remove any director or directors from office before the expiration of his or their respective terms and may, by a majority of the votes cast at the meeting, elect any person in his place for the remainder of his term.
+[22] Counsel invited the Court to find that, since Mr. Mignardi and Mr. Bedard held the majority of the shares of 1313 and were both present at the meeting on July 29, 2002, the meeting was a shareholders’ meeting and Mr. Mignardi’s and Mr. Bedard’s agreement to Yuk Yuk’s demand that Mr. Mignardi no longer participate in running the club amounted to a majority vote in favour of his removal as director of 1313.
+[23] Counsel relied on the decision in Perricelli v. The Queen,[3] in which C. Miller J. of this Court held that a director had effectively resigned as director by verbally advising the remaining two directors at a meeting that he was leaving the company. C. Miller J. wrote:
+I am satisfied Mr. Perricelli resigned in the summer of 1990. He did so when the three directors and shareholder were all together. It is a matter of whether this resignation was effective in accordance with the laws of Ontario. Did any one of the three men utter the words: “Notice of this meeting is waived”? Unlikely. Did Mr. Curthbert and Mr. Lishman say: “We accept Mr. Perricelli’s resignation and hereby elect the two of us as ongoing directors”? Again, unlikely. But did all three leave the meeting with an understanding that Mr. Perricelli would no longer serve in his capacity as a director? Absolutely.[4]
+[24] C. Miller J. went on to find that subsection 121(2) of the Ontario Business Corporations Act[5] was ambiguous as to whether a resignation of a director is required to be in writing. Subsection 121(2) reads:
+A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+C. Miller J. said:
+Certainly if there is a written resignation, the time of its effectiveness is governed by subsection 121(2). I do not interpret that provision as precluding the possibility of a valid resignation in circumstances such as this where all the shareholders, who also happened to constitute all the directors, meet and agree that one of their number is no longer to continue as a director. The wording of subsection 121(2) is sufficiently ambiguous. I was not referred to any case in which the provision has been interpreted to read that the only legally effective way to resign is in writing, and that consequently, an oral resignation in the presence of all the directors and shareholders is ineffective.[6]
+[25] Counsel maintained that, like in Perricelli, Mr. Bedard and Mr. Mignardi did not hold formal directors’ or shareholders’ meetings to discuss business, and that because of the looseness of the manner in which they conducted the affairs of 1313, it would be reasonable to characterize the May 2002 meeting as a shareholders’ meeting, and to characterize the removal of Mr. Mignardi from the running of the club as his removal as director.
+[26] I do not agree that the July 29, 2002 meeting was a shareholders’ meeting or that the events that transpired at that meeting amounted to the removal of Mr. Mignardi as a director of 1313.
+[27] There is no evidence to show that notice of the July 29, 2002 meeting was given in accordance with section 6.02 of the company’s bylaws, which reads:
+6.02 Notice of Meetings –Notice of the time and place of each meeting of shareholder(s) shall be sent not less than (10) days and not more than fifty (50) days before the date of the meeting to the auditor of the Corporation, to each director, and to each person whose name appears on the records of the Corporation at the close of business on the day next preceding the giving of the notice as a shareholder entitled to vote at the meeting. [7]
+[28] Notice is also required by subsection 96(1) of the Ontario Business Corporations Act[8]:
+Notice of shareholders’ meetings
+96. (1) Notice of the time and place of a meeting of shareholders shall be sent, in the case of an offering corporation, not less than twenty-one days and, in the case of any other corporation, not less than ten days, but, in either case, not more than fifty days, before the meeting,
+(a) to each shareholder entitled to vote at the meeting;
+(b) to each director; and
+(c) to the auditor of the corporation.
+[29] Since there is no evidence that Keith Wilson, a 20% shareholder in 1313, was ever notified of the meeting, I am unable to conclude that the meeting on July 29, 2002 at Yuk Yuk’s was a meeting of the shareholders of 1313. I am also unable to equate the demand by Yuk Yuk’s at the meeting that Mr. Mignardi be removed from running the club to a resolution for his removal as director or to construe Mr. Mignardi’s and Mr. Bedard’s agreement to this demand as a vote of the shareholders. For these reasons I find that this case is readily distinguishable from the Perricelli case and that Mr. Mignardi has not shown that he ceased to be a director of 1313 on July 29, 2002.
+2nd issue: Does the respondent have the onus to prove 1313’s debt and, if so, has it discharged that onus?
+[30] The appellant’s counsel argued that the onus of proof of the underlying tax liability of 1313 falls upon the respondent, and since the respondent has not presented any evidence of how that liability was determined, the appeal must be allowed.
+[31] The appellant relies on the decision of this Court in Gestion Yvan Drouin Inc. v. The Queen,[9] in which the taxpayer was appealing an assessment made under subsection 160(1) of the Income Tax Act in respect of taxes owing by a related company which had transferred property to the taxpayer by way of dividends. At the time the dividends were paid to the taxpayer, the related company was allegedly indebted for tax in an amount in excess of the amount of the dividends. In that case, Archambault J. accepted the taxpayer’s argument that the respondent had the onus of establishing the existence of the tax liability of the related company. Archambault J. wrote:
+113 In the case at bar, Gestion is not in a position to produce, without difficulty, the relevant opposing evidence to attack the validity of the assessment of DPCI since it relates not to its taxes but to those of a third party in which it holds no interest. Gestion does not have access to DPCI’s tax return and notice of assessment, nor to the accounting records, to supporting documents or to other similar documents of DPCI to prove that the assessment is incorrect. To place the burden of proving this on Gestion would put that corporation in a completely unfair situation.
+114 Since it is the Minister who takes measures against a third party to recover the tax owed to him by the tax debtor, it seems entirely reasonable to me that it should be incumbent on the Minister to provide prima facie evidence of the existence of the tax liability. To do this, the Minister usually has in his possession the tax debtor’s tax return and, if he has carried out an audit, he may have copies of the source documents or other relevant documents supporting his assessment. He is therefore the one who is in the best position to establish the quantum of the tax liability. I thus conclude that the onus of providing prima facie evidence of the tax liability where an assessment has been made under subsection 160(1) of the Act generally falls on the Minister.
+115 In my opinion, it is not enough to produce the tax debtor's notice of assessment, unless the amount established by the Minister in the assessment corresponds to that indicated by the tax debtor in his tax return. . . .
+[Emphasis added.]
+[32] In Simon v. The Queen,[10] Archambault J. reached the same conclusion in an appeal from a director’s liability assessment in respect of unremitted source deductions of the taxpayer’s corporation.
+[33] The decision in Gestion Yvan Drouin Inc. was also followed in Cappadoro v. The Queen,[11] in which a director’s liability assessment for unremitted GST was being appealed. In that case, Lamarre J. found that the respondent had produced sufficient evidence of the tax liability of the corporation to make out a prima facie case.
+[34] The appellant also relies on the case of Lavie v. The Queen.[12] There, the taxpayer had been assessed for unremitted GST on alleged sales of cocaine. Lamarre J. found that the Minister had the onus to show that the taxpayer was the person identified in the records seized from the Hells Angels which the Minister was relying on to show that the taxpayer had purchased large quantities of cocaine. She concluded that the evidence was insufficient to tie the taxpayer to a code-name that appeared in the records, and dismissed the appeal.
+[35] Mr. Mignardi’s counsel submitted that since Mr. Mignardi had no involvement in the financial affairs of 1313 after October 2001, and since he was no longer involved in 1313 when the GST returns in question were filed and the audit occurred, and since the returns were in the Minister’s possession, the facts concerning the tax liability are exclusively within the knowledge of the Minister, and that on this basis it would be appropriate to place the onus on the Minister to prove 1313’s tax liability.
+[36] He also submitted that the evidence falls far short of establishing 1313's tax liability. The only witness called by the respondent was the CRA appeals officer, who had no direct knowledge of how 1313’s liability was determined.
+[37] For the following reasons, I agree that the respondent should bear the onus of proving the underlying tax liability of 1313.
+[38] The ordinary rule with respect to onus of proof in tax appeals was set out by the Supreme Court of Canada in Hickman Motors Ltd. v. Canada,[13] where L’Heureux-Dubé J. said:
+92… The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to "demolish" the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Kennedy v. M.N.R., 73 D.T.C. 5359 (F.C.A.), at p. 5361). The initial burden is only to "demolish" the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340.
+[39] In Transocean Offshore Ltd. v. The Queen,[14] the Federal Court of Appeal stated that there may be exceptions to the general principle that, in a tax appeal, the Crown’s factual assumptions are taken as true unless they are rebutted. The Court said that there may be situations where fairness would require that no onus be placed on a taxpayer to rebut a specific factual assumption made by the Crown and gave as an example a fact that is solely within the knowledge of the Crown.
+[40] In Anchor Pointe Energy Ltd. v. The Queen,[15] and in Les Voitures Orly Inc./Orly Automobiles Inc. v. The Queen,[16] the Federal Court of Appeal again accepted that shifting the burden of proof may be warranted in certain cases. In Anchor Pointe the Federal Court of Appeal said:
+35 It is trite law that, barring exceptions, the initial onus of proof with respect to assumptions of fact made by the Minister in assessing a taxpayer's tax liability and quantum rests with the taxpayer. In Les Voitures Orly Inc./Orly Automobiles Inc. v. The Queen, [2005] F.C.J. No. 2116, 2005 FCA 425, 2006 D.T.C. 1114, at paragraph 20, this Court reasserted the importance of the rule in the following terms:
+To sum up, we see no merit in the submissions of the appellant that it no longer had the burden of disproving the assumptions made by the Minister. We want to firmly and strongly reassert the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted. There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see Anderson Logging Co. v. British Columbia, (1925) S.C.R. 45, Pollock v. Canada (Minister of National Revenue) (1993), 161 N.R. 232 (F.C.A.), Vacation Villas of Collingwood Inc. v. Canada (1996) 133 D.L.R. (4th) 374 (F.C.A.), Anchor Pointe Energy Ltd. v. Canada, 2003 FCA 294. It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self-reporting system. Any shifting of the taxpayer's burden to provide and to report information that he knows or controls can compromise the integrity, enforceability and, therefore, the credibility of the system. That being said, we recognize that there are instances where the shifting of the burden may be warranted. This is simply not one of those cases.
+36 I agree with Bowman A.C.J.T.C., as he then was, that there may be instances where the pleaded assumptions of facts are exclusively or peculiarly within the Minister's knowledge and that the rule as to the onus of proof may work so unfairly as to require a corrective measure: see Holm et al. v. The Queen, supra at paragraph 20.
+[Emphasis added.]
+[41] I return now to the proposition that appears to flow from the Gestion Yvan Drouin Inc. case that the Minister bears the onus to prove the underlying tax liability in every appeal from a derivative liability assessment under subsection 160(1) or section 227.1 of the ITA or sections 323 or 325 of the ETA. I agree with respondent’s counsel that such a conclusion is inconsistent with the decisions of the Supreme Court and Federal Court of Appeal to which I have referred. It is only where the facts concerning the underlying tax debt are exclusively or peculiarly within the knowledge of the Minister that the burden will be shifted. Each case will turn on its own facts. Although there may be situations where the tax liability of the original tax debtor is something that is solely within the knowledge of the Crown, more often a taxpayer will have access to that information from the original tax debtor. It should be recalled that one of the bases on which a person is assessed under those provisions is his or her relationship with the tax debtor, either as in this case as a director of the debtor corporation or as a party not dealing at arm’s length with the tax debtor. As a result of this relationship, a taxpayer may very well already have or be able to obtain the information required to verify the existence or amount of the underlying liability.
+[42] I believe that the facts of this case warrant a reversal of the onus of proof regarding the correctness of the liability of 1313 for unremitted GST.
+[43] According to the director's liability notice of assessment issued to Mr. Mignardi on November 15, 2006,[17] 1313's GST liability was established by notices of assessment issued on May 9, 2003. Mr. Bedard testified that the GST was assessed after an audit of 1313 conducted by the CRA at the premises of Simmons. He also said 1313 made some monthly payments of $2,500 towards the debt and that Mr. Mignardi himself paid $2,500 towards the arrears. For reasons unexplained, those payments are not reflected in the assessment made against Mr. Mignardi.
+[44] As indicated earlier in these reasons, Mr. Mignardi, through his counsel, made repeated requests for particulars of the assessments against 1313. I am satisfied that despite these timely and repeated requests, the Minister failed to provide sufficient information concerning the audit and assessments of 1313 to allow him to adequately respond to the director's liability assessment that was proposed in March 2004 and ultimately made in November 2006. The failure to provide any information also left him unable to effectively challenge the underlying liability at the hearing. Given that 1313 ceased operating in early 2003 and given the Minister’s failure to provide copies of the returns or details of the audit or corporate assessments to Mr. Mignardi, I believe that the facts concerning the assessments against 1313 are at this stage are peculiarly within the Minister's knowledge and that fairness dictates the onus of proof be reversed.
+[45] The Respondent's counsel maintains that the onus to prove the amount of the underlying liability has been met by producing a copy of the notice of assessment against Mr. Mignardi, and by producing a copy of the certificate issued by the Federal Court under section 316 of the ETA stating that the amount of $66,545.07 had not been paid by 1313. Neither of these documents in my view affords Mr. Mignardi any reasonable opportunity to understand or challenge the basis of 1313's liability and do not raise a prima facie case of the correctness of the underlying assessments. I therefore find that a prima facie case has not been made out. The Minister’s failure to respond to Mr. Mignardi’s repeated requests for information and the failure of the respondent to produce any audit materials or returns at the hearing warrants this conclusion.
+3rd issue: Due diligence
+[46] The last issue before me is whether Mr. Mignardi exercised due diligence to prevent the failure by the company to remit the net GST due after October 1, 2001. Although in light of my conclusion on the second issue it is not strictly necessary for me to make a determination concerning due diligence, I believe it may be helpful to do so.
+[47] Counsel for Mr. Mignardi submitted that from the date that the financial management of the club was taken over by Simmons, Mr. Mignardi had no control over the payment of the liabilities of the club and should therefore be relieved of liability for the amounts of net tax that Simmons failed to remit on behalf of 1313. Furthermore, counsel says it was reasonable for Mr. Mignardi to rely on Simmons to carry out the financial management of the club because Simmons was a professional management firm.
+[48] The following legal framework for the due diligence defence under subsection 323(5) of the ETA, was set out by the Federal Court of Appeal in The Queen v. Buckingham,[18] and summarized in Balthazard v. The Queen[19] at paragraph 32:
+a. The standard of care, skill and diligence required under subsection 323(3) of the Excise Tax Act is an objective standard as set out by the Supreme Court of Canada in Peoples Department Stores Inc.(Trustee of) v. Wise, 2004 SCC 68 (CanLII), 2004 SCC 68, [2004] 3 S.C.R. 461. This objective standard has set aside the common law principle that a director’s management of a corporation is to be judged according to his or her own personal skills, knowledge, abilities and capacities. However, an objective standard does not mean that a director’s particular circumstances are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard.
+b. The assessment of the director’s conduct, for the purposes of this objective standard, begins when it becomes apparent to the director, acting reasonably and with due care, diligence and skill, that the corporation is entering a period of financial difficulties.
+c. In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuity of the operations of the corporation. That is precisely the situation which section 323 of the Excise Tax Act seeks to avoid. The defence under subsection 323(3) of the Excise Tax Act must not be used to encourage such failures by allowing a care, diligence and skill defence for directors who finance the activities of their corporation with Crown monies, whether or not they expect to make good on these failures to remit at a later date.
+d. Since the liability of directors in these respects is not absolute, it is possible for a corporation to fail to make remissions to the Crown without the joint and several, or solidary, liability of its directors being engaged.
+e. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the amounts at issue.
+[49] As set out in paragraph (b) of this summary, the starting point for the assessment of a director’s conduct begins when it becomes apparent that the corporation is having financial difficulties. In this case, it is clear that by October 1, 2001, 1313 was in financial difficulties. In those circumstances, a reasonably prudent person acting as a director would have been concerned whether the corporation was meeting its financial obligations including tax remittances. As a result, after the appointment of Simmons, one would have expected the directors of 1313 to make some effort to determine whether Simmons was succeeding in extricating the club from its financial difficulties and to find out in particular whether Simmons was making the required remittances on behalf of 1313. An additional concern would have been that Simmons might be representing Yuk Yuk’s interests rather than 1313’s and that its decisions concerning the application of funds might favour Yuk Yuk’s to the detriment of other creditors. There is no evidence, however, that Mr. Mignardi took any steps to monitor the actions of Simmons in any way.
+[50] Mr. Mignardi says that he “lost control” of 1313’s finances to Simmons. It appears to me, however, that he in fact acquiesced to the arrangement. It was not shown that Yuk Yuk’s had any power to appoint a manager or receiver to operate the club, only that it used its leverage to obtain the consent of Mr. Mignardi and Mr. Bedard to have Simmons brought in. I am not satisfied that Simmons or Yuk Yuk’s prevented Mr. Mignardi from exercising his powers as a director to supervise the financial management of the club, only that Mr. Mignardi agreed to refrain from exercising those powers in order to keep the club operating. In those circumstances, I am unable to find that Mr. Mignardi was specifically concerned with the tax remittances after October 1, 2001 or that he exercised due diligence to prevent the failures to remit that occurred after that point.
+Conclusion
+[51] The appeal is allowed and the assessment against Mr. Mignardi is vacated. Since the amount in dispute exceeds $7,000, no costs are awarded.
+Signed at Ottawa, Canada, this 6th day of March 2013.
+“B.Paris”
+Paris J.
+CITATION: 2013 TCC 67
+COURT FILE NO.: 2011-1462(GST)I
+STYLE OF CAUSE: STEVEN MIGNARDI V. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 21, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: March 6, 2013
+APPEARANCES:
+Counsel for the Appellant:
+William Kelly
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name: William Kelly
+Firm: Kelly Barrister and Solicitor
+Oshawa, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. , 1985, c. E-15.
+[2] Exhibit A-2, Bylaws, p. 3.
+[3] [2002] G.S.T.C. 71.
+[4] Supra, at note 3, para 32.
+[5] R.S.O. 1990, c. B.16.
+[6] Supra, at note 3, para 35.
+[7] supra, note 2, p. 7.
+[8] supra, note 5
+[9] [2000] T.C.J. No. 872.
+[10] [2001] T.C.J. No. 526.
+[11] [2012] T.C.J. No. 211.
+[12] [2006] T.C.J. No. 521.
+[13] [1997] 2.S.C.R. 336.
+[14] 2005 FCA 104.
+[15] 2007 FCA 188.
+[16] [2005] F.C.J. No. 2116.
+[17] Exhibit R-1, tab 8.
+[18] 2011 FCA 142.
+[19] 2011 FCA 331.

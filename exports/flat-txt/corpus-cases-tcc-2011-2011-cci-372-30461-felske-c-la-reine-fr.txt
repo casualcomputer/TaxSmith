@@ -1,0 +1,138 @@
+Title: Felske c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30461/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-372-30461-felske-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-07-29
+
+# Felske c. La Reine
+
+- Citation: 2011 CCI 372
+- Decision date: 2011-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Felske c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-29
+Référence neutre
+2011 CCI 372
+Numéro de dossier
+2010-2525(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2525(IT)I
+ENTRE :
+GORDON G. FELSKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 27 juin 2011, à Cranbrook (Colombie-Britannique)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Rob R.A. Whittaker
+__________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels interjetés à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 de l’appelant sont accueillis sans frais et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+Pour l’année 2004 :
+1. le revenu d’entreprise brut de l’appelant s’établissait à 60 170 $ et son revenu professionnel était égal à zéro;
+2. l’appelant a engagé des dépenses d’entreprise correspondant à 30 p. 100 de son revenu d’entreprise brut;
+3. l’appelant a droit à une déduction pour amortissement de 18 507 $.
+Pour l’année 2005 :
+1. le revenu d’entreprise brut de l’appelant s’établissait à 61 367 $ et son revenu professionnel était égal à zéro;
+2. l’appelant a engagé des dépenses d’entreprise correspondant à 30 p. 100 de son revenu d’entreprise brut;
+3. l’appelant a droit à une déduction pour amortissement de 20 710 $.
+Signé à Ottawa, Canada, ce 29e jour de juillet 2011.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Ce 16e jour de septembre 2011
+Christiane Bélanger, LL.L.
+Référence : 2011CCI372
+Date : 20110729
+Dossier : 2010-2525(IT)I
+ENTRE :
+GORDON G. FELSKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Gordon Feske, interjette appel de la nouvelle cotisation établie par le ministre du Revenu national pour ses années d’imposition 2004 et 2005. Au cours de chacune des années en question, l’appelant n’a pas produit de déclaration de revenus et, par conséquent, en septembre 2007, des cotisations arbitraires ont été établies en application du paragraphe 152(7) de la Loi de l’impôt sur le revenu (la « Loi »). L’appelant a subséquemment produit des déclarations pour 2004[1] et 2005[2]. Étant donné que l’appelant n’avait pas fourni de documentation à l’appui des déductions qu’il avait demandées dans ses déclarations, les montants initialement déterminés au titre du revenu d’entreprise et du revenu professionnel bruts, des dépenses d’entreprise et de la déduction pour amortissement ont finalement été confirmés. L’appelant interjette appel de ces déterminations.
+[2] En 2004 et 2005, l’appelant était le seul propriétaire d’une entreprise qui poursuivait des activités dans le domaine de la construction générale et du déneigement sous le nom de Rocky Mountain Construction. Au cours des années en question, l’appelant était également le mandant de plusieurs sociétés à dénomination numérique constituées pour différents objets, y compris la société 581488 B.C. Ltd., qui était spécialisée dans la fabrication de fermes de bois. Toutes ces entreprises semblent avoir été exploitées dans les mêmes locaux.
+[3] L’appelant se représentait lui-même et lui seul a témoigné pour son compte. Comme c’était le cas à l’étape de l’opposition, la grande faiblesse de la preuve de l’appelant résidait dans l’absence de pièces justificatives. Il a attribué cette lacune en grande partie à la faute du shérif qui, en janvier 2009, a effectué une saisie de biens pour le compte du Service de recouvrement de l’Agence du revenu du Canada[3]. L’appelant a également souligné que le mauvais travail des conseillers fiscaux dont il avait retenu les services pour le représenter avait nui à ses rapports avec les représentants du ministre.
+[4] La tenue de registres est très importante, surtout lorsque, comme c’était le cas pour l’appelant, le contribuable exerce différentes activités tant personnellement qu’en qualité d’âme dirigeante de nombreuses personnes morales. Même si j’accepte le témoignage de l’appelant quant à la possibilité que des reçus et factures aient été perdus au cours de la saisie, il n’en demeure pas moins que l’appelant n’a généralement pas accordé beaucoup d’attention à la tenue de registres; surtout, il n’a tenu aucun livre ou registre à l’égard de ses activités commerciales. Cependant, dans la mesure où des registres existaient avant la saisie de biens, l’appelant n’a pu expliquer valablement pourquoi il ne les avait pas remis à l’intimée lorsqu’il a produit ses déclarations ou encore lors de la vérification ou à l’étape de l’opposition.
+[5] En tout état de cause, à l’audition de ses appels, l’appelant n’avait guère plus que des relevés bancaires[4] à fournir au soutien de sa position. En l’absence des documents originaux, il est difficile de vérifier à l’aide des relevés à quoi les montants correspondaient. Lorsqu’il s’est fait demander en contre-interrogatoire pourquoi il n’avait pas tenté d’obtenir des copies des factures relatives aux dépenses des professionnels et fournisseurs locaux, l’appelant a répondu qu’il était trop difficile de retracer ces documents après tant de temps passé, ce qui illustre parfaitement la raison pour laquelle la Loi oblige le contribuable à tenir lui-même ces registres.
+[6] L’appelant s’est comporté de la même façon qu’il l’avait fait pour la tenue de registres en ce qui a trait à la déclaration de son revenu. En plus de produire ses déclarations en retard et uniquement après avoir reçu un avis de cotisation aux termes du paragraphe 152(7), l’appelant a refusé de signer ses déclarations et ne les a pas remplies en entier. L’appelant m’a semblé être un homme intelligent qui n’a pas soutenu être totalement ignorant des questions d’ordre fiscal. Compte tenu de l’ensemble des circonstances, la conduite de l’appelant m’a donné l’impression que l’omission de sa part de tenir ses livres en ordre relevait davantage d’une stratégie délibérée que de la simple insouciance. Pour lui et pour sa famille, j’espère que l’appelant agira de façon plus sage à l’avenir.
+[7] L’intimée a fait témoigner Cindy Yip, l’agente des appels affectée à l’opposition de l’appelant aux nouvelles cotisations relatives aux années 2004 et 2005. À mon avis, Mme Yip a donné des explications claires et concises au sujet de l’analyse qu’elle avait menée relativement aux allégations formulées par l’appelant lors de l’opposition.
+[8] À l’audition de l’appel, après avoir reçu des documents qui n’avaient pas été précédemment communiqués, l’avocat de l’intimée a informé la Cour que le ministre admettait les déductions pour amortissement que l’appelant avait demandées dans ses déclarations de revenus pour les années 2004 et 2005, soit des montants s’élevant respectivement à 18 507 $ et à 20 710 $. La seule question que la Cour devait encore trancher se limitait donc à la détermination du revenu d’entreprise et du revenu professionnel de l’appelant ainsi qu’à celle de ses dépenses d’entreprise; chacune de ces questions est commentée à tour de rôle ci‑dessous.
+Revenu d’entreprise
+[9] En 2004, l’appelant a déclaré un montant de 60 170 $ au titre du revenu provenant de son entreprise individuelle ainsi que des dépenses d’entreprise de 31 625 $. Il a soutenu qu’en raison de la saisie effectuée par le shérif, il n’avait aucun document montrant la provenance de son revenu, à l’exception des relevés bancaires de l’entreprise individuelle pour l’année 2004[5].
+[10] En 2005, l’appelant a déclaré un revenu d’entreprise de 35 000 $ et n’a réclamé aucun montant au titre des dépenses d’entreprise. Il a expliqué que le revenu provenait en entier de 581488 B.C. Ltd., société qui appartenait auparavant à son père et qui se spécialisait dans la fabrication de fermes de bois pour la construction domiciliaire. L’appelant a reçu le montant de 35 000 $ non pas à titre de sommes facturées à l’égard de travaux exécutés pour l’entreprise, mais plutôt à titre d’avances qui lui ont été versées pendant l’année. L’appelant en est arrivé au montant de 35 000 $ en examinant les relevés bancaires de 581488 B.C. Ltd. pour l’année 2005[6] et en attribuant différentes sommes à des retraits d’argent pour son usage personnel et à des paiements que la société avait effectués pour acquitter ses frais de carte de crédit personnelle et des autres frais qu’il avait engagés personnellement, notamment des frais d’essence, de réparations et de loisirs. L’appelant n’a pu expliquer pourquoi il n’avait aucun relevé bancaire à l’égard de l’entreprise individuelle pour l’année 2005. Il n’a déduit aucune dépense lorsqu’il a produit sa déclaration pour l’année 2005, parce qu’il s’est senti obligé de la produire rapidement et que la déduction pour amortissement suffisait en soi pour réduire son revenu imposable.
+[11] Malgré le caractère insuffisant des documents qu’il a produits, après avoir entendu le témoignage de l’appelant au sujet de la nature de son entreprise, des montants qu’il a gagnés pour les années 2003, 2004 et 2005 et des difficultés qu’il a éprouvées au cours des années en question, je suis convaincue selon la prépondérance des probabilités que son revenu d’entreprise en 2004 et 2005 aurait été sensiblement le même que le montant déclaré en 2003, soit la somme de 62 563 $. Je conclus que son revenu d’entreprise brut pour l’année 2004 s’élevait à 60 170 $ et que, pour l’année 2005, ce montant s’établissait à 61 367 $, soit la moyenne de son revenu d’entreprise brut pour les années 2003 et 2004.
+Dépenses d’entreprise
+[12] Étant donné que l’appelant ne lui a pas fourni le moindre reçu pour les dépenses qu’il avait déduites dans sa déclaration de 2004, le ministre a évalué celles-ci à 30 p. 100 du revenu d’entreprise brut déterminé pour chacune des années d’imposition. Tel qu’il est mentionné plus haut, l’appelant a soutenu que le manque de documentation qui lui était reproché était imputable à la saisie et au mauvais travail effectué par ses conseillers fiscaux. De l’avis de l’appelant, en l’absence de documents, le ministre aurait dû évaluer son revenu pour les années 2004 et 2005 en se fondant sur les revenus habituellement gagnés dans le domaine ainsi que sur le revenu que l’appelant avait déclaré en 2003 et qui avait été accepté[7].
+[13] La Loi oblige les contribuables à tenir des livres et registres suffisamment détaillés. Comme l’appelant n’a pas rempli cette obligation, il ne pouvait étayer les dépenses précises qu’il a demandées. Dans ces circonstances, je ne vois aucune raison de modifier la décision par laquelle le ministre a évalué les dépenses d’entreprise de l’appelant à 30 p. 100 du revenu d’entreprise brut de celui-ci pour chacune des années d’imposition.
+Revenu professionnel
+[14] Au cours de son témoignage, Mme Yip a expliqué que le ministre avait imputé à l’appelant un revenu professionnel de 10 000 $ pour chacune des années 2004 et 2005, étant donné que l’appelant avait déclaré ce montant en 2003. Aucune dépense d’entreprise n’a été autorisée, l’appelant n’ayant déduit aucun montant à ce titre, puisqu’il soutenait qu’il n’avait touché aucun revenu professionnel pendant les années en question.
+[15] J’accepte le témoignage de l’appelant selon lequel le montant déduit en 2003 constituait effectivement un « retrait » unique du compte de l’une de ses sociétés, montant qu’il a décrit à titre de « revenu professionnel », faute de qualificatif plus approprié. Je suis d’avis que l’appelant n’a touché aucun revenu professionnel au cours de l’une ou l’autre des années d’imposition visées par l’appel.
+Conclusion
+L’appel est accueilli et les nouvelles cotisations établies pour les années d’imposition 2004 et 2005 sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+Pour l’année 2004 :
+1. le revenu d’entreprise brut de l’appelant s’établissait à 60 170 $ et son revenu professionnel était égal à zéro;
+2. l’appelant a engagé des dépenses d’entreprise correspondant à 30 p. 100 de son revenu d’entreprise brut;
+3. l’appelant a droit à une déduction pour amortissement de 18 507 $.
+Pour l’année 2005 :
+1. le revenu d’entreprise brut de l’appelant s’établissait à 61 367 $ et son revenu professionnel était égal à zéro;
+2. l’appelant a engagé des dépenses d’entreprise correspondant à 30 p. 100 de son revenu d’entreprise brut;
+3. l’appelant a droit à une déduction pour amortissement de 20 710 $.
+Signé à Ottawa, Canada, ce 29e jour de juillet 2011.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+Ce 16e jour de septembre 2011
+Christiane Bélanger, LL.L.
+RÉFÉRENCE : 2011CCI372
+No DU DOSSIER DE LA COUR : 2010-2525(IT)I
+INTITULÉ : GORDON G. FELSKE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Cranbrook (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 27 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 29 juillet 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Rob R.A. Whittaker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1, onglet 3.
+[2] Pièce R-1, onglet 4.
+[3] Affidavit de David Boulter, pièce R-2.
+[4] Pièce R-1, onglet 8; pièce A-9.
+[5] Pièce R-1, onglet 3.
+[6] Pièce A-9.
+[7] Pièce R-1, onglet 15.

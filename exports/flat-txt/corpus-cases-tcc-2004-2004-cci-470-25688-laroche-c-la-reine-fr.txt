@@ -1,0 +1,239 @@
+Title: Laroche c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25688/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-470-25688-laroche-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-07-16
+
+# Laroche c. La Reine
+
+- Citation: 2004 CCI 470
+- Decision date: 2004-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3846, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laroche c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-16
+Référence neutre
+2004 CCI 470
+Numéro de dossier
+2003-2596(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2596(IT)I
+ENTRE :
+CHRISTINE LAROCHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 mai 2004, à New Carlisle (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Léonel Tremblay
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les dépenses s'élevant à 4 744 $ ont été engagées en vue de tirer un revenu du bien et que le montant de 1 795,40 $ est également une dépense d'intérêts admissible effectuée de tirer un revenu d'un bien, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI470
+Date : 20040716
+Dossier : 2003-2596(IT)I
+ENTRE :
+CHRISTINE LAROCHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) relative à l'année d'imposition 2001.
+[2] L'intimée, dans la cotisation qu'elle a établie a rejeté certaines dépenses s'élevant à 4 744 $ et un déboursé d'intérêts se chiffrant à 1 795,40 $. En d'autres termes, l'intimée avait-elle raison de rejeter les dépenses déduites par l'appelante pour le motif qu'elle avait mis un terme à son entreprise qui consistait à louer un local commercial à son conjoint? Les dépenses déduites furent rejetées au motif que l'appelante avait cessé d'exploiter son entreprise.
+[3] En réponse à l'avis d'appel, l'intimée a énuméré les hypothèses de fait sur lesquelles elle s'est fondée pour établir et ratifier la cotisation. Ces hypothèses sont énumérées au paragraphe 5 de la Réponse à l'avis d'appel.
+a) au cours de l'année d'imposition en litige, l'appelante était à l'emploi du Centre Hospitalier Baie-des-Chaleurs;
+b) dans ses déclarations de revenus pour les années d'imposition 1990 à 2001, l'appelante a déclaré les montants suivants à titre de revenus bruts et dépenses de location, relativement à un immeuble sis au 208 Narcisse, New Richmond :
+Année
+Revenus bruts
+Dépenses
+Revenus nets
+(Pertes nettes)
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+548 $
+12 000 $
+7 000 $
+6 000 $
+6 000 $
+5 750 $
+5 100 $
+4 500 $
+0 $
+0 $
+0 $
+0 $
+548 $
+5 844 $
+4 383 $
+4 799 $
+4 413 $
+3 515 $
+3 306 $
+2 915 $
+3 758 $
+5 275 $
+4 980 $
+4 744 $
+0 $
+6 156 $
+2 617 $
+1 201 $
+1 587 $
+2 235 $
+1 794 $
+1 585 $
+(3 758 $)
+(5 275 $)
+(4 980 $)
+(4 744 $)
+c) la nature des dépenses de location réclamées par l'appelante pour son année d'imposition 2001, se composait comme suit :
+Description
+Montant
+Intérêts
+Entretien et réparations
+Frais de gestion et d'administration
+Impôts fonciers
+Électricité, chauffage, etc.
+Total
+1 795,40 $
+1 115,23 $
+259,61 $
+636,39 $
+938,05 $
+4 744,68 $
+d) dans le cadre de sa vérification, le Ministre a eu quelques entretiens téléphoniques avec le conjoint de l'appelante qui agissait comme représentant de celle-ci;
+e) lors de ces entretiens téléphoniques, le conjoint a mentionné que :
+i) l'appelante a acquis l'immeuble pour la somme de 28 000 $;
+ii) l'immeuble était anciennement un bureau de poste;
+iii) le conjoint occupait l'ensemble des locaux de l'immeuble pour son occupation d'ingénieur;
+iv) l'appelante louait l'immeuble à son conjoint pour un coût de 500 $ par mois;
+f) dans une lettre adressée au Ministre le 3 décembre 2002, l'appelante a mentionné que :
+i) le seul et unique but de l'achat de l'immeuble, était de fournir à son conjoint alors travailleur autonome, un lieu de travail adéquat;
+ii) en 1997, à la suite de problèmes de santé, le conjoint de l'appelante a cessé d'exercer sa profession;
+iii) dès lors, elle désirait vendre le bâtiment à une tierce partie et non le louer;
+iv) le bâtiment fut mis en vente par l'entremise d'un agent immobilier et par eux-mêmes;
+g) en tout temps pertinent, l'appelante a témoigné son intention de vendre l'immeuble.
+h) aucun revenu de location n'a été perçu depuis 1998;
+i) aucun effort n'a été effectué pour louer l'immeuble; ce n'est qu'à la fin de l'année 2001 que l'appelante a apposé une affiche « À LOUER » devant l'immeuble;
+j) de plus, le Ministre a vérifié les dépenses réclamées par l'appelante relativement à l'immeuble;
+k) lors de la vérification des dépenses réclamées, le Ministre a constaté que les dépenses d'intérêts au montant total de 1 795,40 $ n'étaient pas reliées à l'immeuble.
+[4] L'appelante, bien que présente à l'audience, n'a pas témoigné. Monsieur Léonel Tremblay, son conjoint, la représentait.
+[5] Après avoir informé l'appelante d'une pratique de la Cour qui consistait à vérifier si les faits sur lesquels l'intimée s'est fondée lors de l'établissement de la cotisation étaient véridiques, son représentant a indiqué que la très grande majorité des faits en question étaient exacts et conformes à la vérité.
+[6] Il a cependant apporté quelques précisions, notamment au paragraphe e) iii, en indiquant que le coût du loyer des locaux était généralement de 500 $ par mois, mais qu'il avait pu varier eu égard à ses propres revenus. Il est utile de rappeler que le locataire du local commercial, propriété de l'appelante, était le conjoint de cette dernière.
+[7] Quant au paragraphe f) iv), il a indiqué que le bâtiment avait été mis en vente par l'entremise de deux agents immobiliers l'un à la suite de l'autre.
+[8] Finalement, il a exprimé son désaccord total avec la décision relative aux intérêts. Il a repris dans le cadre de son témoignage, tous les faits sur lesquels l'intimée s'est fondée sans rien y apporter de nouveau, à l'exception des frais d'intérêts qu'il a justifiés au moyen d'explications écrites, bien préparées et très claires.
+[9] Il a ainsi fait la lumière sur l'aspect un peu nébuleux des intérêts ayant été payés sur une marge de crédit, étant donné qu'une marge de crédit sert généralement à de multiples usages. Il est rarement possible de déterminer très précisément ce à quoi ont servi les intérêts payés sur une marge de crédit. L'appelante, avec la collaboration de son conjoint, a fait cet exercice et a établi d'une manière vraisemblable et raisonnable le bien-fondé de ses prétentions quant au montant d'intérêts déboursé et déduit.
+[10] Il y a cohérence entre les arguments de l'appelante et le contenu de l'avis d'appel. Il y a lieu de reproduire le contenu de ces arguments : (pièce I-1)
+[...]
+Agence des douanes et du revenu du Canada
+Division de la vérification
+Bureau des services fiscaux de Rimouski
+180 rue de la Cathédrale
+Rimouski, QC G5L 5H9
+Att. : Diane Tremblay
+Réf. : NAS xxx xxx xxx - Déclaration d'impôt 2001
+Bâtiment 208 Narcissse, New Richmond
+Madame,
+La présente est en réponse à votre lettre du 13 novembre dernier dans laquelle vous mentionnez avoir décidé d'annuler les dépenses de location pour l'année 2001. Je suis en désaccord avec cette décision pour les raisons qui suivent.
+1. Utilisation du bâtiment
+Le bâtiment en question fut acheté en décembre 1990 dans le seul but de fournir à mon conjoint, alors travailleur autonome, un lieu de travail adéquat. De 1991 à 1997, le bâtiment ainsi que l'entreprise de mon conjoint ont généré des profits et créé des emplois sur lesquels Revenu Canada a retiré sa part d'impôts. En 1997, à la suite de problèmes de santé, il a dû cesser d'opérer son entreprise. Désirant vendre et non louer à une tierce partie, le bâtiment fut mis en vente par l'entremise d'un agent immobilier. En fait, depuis la mise en vente initiale, deux agents immobiliers en plus de nous-mêmes ont essayé de vendre. À l'automne 2001, après avoir repeint l'extérieur, le bâtiment n'étant toujours pas vendu et représentant une charge financière importante, nous avons décidé d'essayer de louer en plus de vendre.
+2. Taxes
+Le bâtiment étant considéré commercial advenant la vente, il nous faudra charger la TPS et la TVQ; ceci qui rend la vente beaucoup plus difficile en ajoutant 15 % au prix. Pour un acheteur commercial, pas de problème, il récupère les taxes. Par contre, pour un acheteur cherchant une résidence, les taxes s'ajoutent au prix d'achat. Jusqu'à maintenant, la majorité des parties démontrant un certain intérêt ont été des personnes privées désirant convertir l'édifice en résidence.
+Donc, le gouvernement fédéral entre autres nuit à la vente en augmentant le prix; lors d'une disposition, il encaissera une part des profits si c'est le cas. Et malgré cela, il ne veut rien savoir de partager les frais de maintien du bâtiment! Est-ce là votre conception de justice!
+3. Taille du marché
+Les difficultés pour vendre le bien immobilier en question sont dues à un marché restreint combiné à une faible demande. Des entreprises laissent la Ville pour se relocaliser. Le marché immobilier, mauvais en 1997 lors de la mise en vente ne semble pas s'être amélioré depuis: beaucoup de maisons sont à vendre, plusieurs locaux commerciaux à louer ou à vendre. En limitant la période pour la déduction des frais de vente tel que suggéré par l'interprétation du paragraphe 18(1)(a) dont vous nous avez fait parvenir copie et sur lequel vous fondez votre décision, vous pénalisez les investisseurs en région pour la dimension restreinte de leur marché. En fait, vous découragez les investissements. Le marché étant particulièrement limité en région, les investissements sont plus risqués. Dans un tel contexte, il est beaucoup plus difficile de se départir de biens acquis pour le fonctionnement d'une entreprise.
+Est-ce le message que le gouvernement fédéral veut envoyer aux régions?
+Nous espérions que ces quelques points pourront vous inciter à reconsidérer votre décision. La solution à notre problème n'est pas évidente. Vendre à rabais et encaisser une perte ? Laisser saisir le bâtiment par la Ville pour non-paiement des taxes ?
+[...]
+Christine Laroche
+[...]
+[11] Monsieur Tremblay a indiqué qu'à cause de son état de santé il a cessé d'exploiter son entreprise à titre d'ingénieur-conseil et, dès lors, son épouse a également voulu cesser toute activité commerciale relativement à l'immeuble dont elle était propriétaire et qu'elle lui louait pour l'exercice de sa profession d'ingénieur.
+[12] En substance, il a indiqué que l'on avait cessé de louer l'immeuble après avoir reçu des conseils unanimes de personnes ayant une expertise dans le domaine immobilier à l'effet qu'il serait beaucoup plus difficile de vendre un immeuble déjà loué, eu égard au fait que les options d'utilisation de l'immeuble en question d'un éventuel acquéreur seraient limitées.
+[13] Il s'agit là d'une explication fort plausible et tout à fait raisonnable. Cette préoccupation était d'autant plus importante que le marché immobilier était, semble-t-il, assez tranquille; les acheteurs éventuels n'étant pas légion, l'appelante avait intérêt à tout faire pour attirer le nombre maximal d'acheteurs possibles.
+[14] La preuve a démontré que l'appelante avait réellement déployé beaucoup d'efforts pour vendre son immeuble. Après avoir maximisé les efforts pour effectuer une vente pure et simple, elle a révisé son projet et était disposée à louer l'immeuble, faute de pouvoir le vendre. C'est en 2003 qu'elle est parvenue à le vendre.
+[15] Madame Tremblay, responsable de la vérification du dossier de l'appelante, a indiqué, lors de son témoignage, qu'elle avait rejeté les dépenses au motif que l'appelante avait cessé d'exploiter son entreprise et ce, selon l'aveu de l'appelante elle-même.
+[16] Après avoir conclu ainsi, madame Tremblay a reconnu que la question des intérêts n'avait pas fait l'objet d'une analyse en profondeur; d'autre part, le fait que ces intérêts découlaient en majeure partie d'une marge de crédit, n'était pas de nature à l'inciter à examiner cet aspect du dossier.
+[17] Sa première décision étant à l'effet que l'appelante n'exploitait plus une entreprise, il devenait donc inutile de procéder à une évaluation minutieuse des dépenses d'intérêts. Conclure que l'entreprise n'existait plus était raisonnable dans les circonstances, d'autant plus qu'une telle conclusion était conforme à ce que l'appelante avait elle-même déclaré et même indiqué dans son avis d'appel.
+[18] La fiscalité n'est pas une matière facile et, malheureusement, les interprétations, les notions et les perceptions que les citoyens ont ne sont pas nécessairement conformes à la Loi.
+[19] Quand une entreprise cesse-t-elle ses activités? Pour le commun des mortels, le moment peut correspondre au jour où le service téléphonique cesse, au jour de la fermeture du local, au jour où il n'y a plus d'employés, etc.
+[20] Qu'advient-il des dossiers où des mois sont nécessaires pour fermer les livres, à des années sont nécessaires pour percevoir les comptes à recevoir, où il reste des mois à la durée d'un bail, à la disposition des inventaires, à la vente des actifs, etc.? Ce sont là des hypothèses qui montrent qu'il n'est pas facile de déterminer le moment où l'exploitation d'une entreprise ou d'un bien prend fin.
+[21] Pour répondre aux questions en litige, doit-on considérer comme fatales les explications de l'appelante dans sa lettre à l'effet qu'elle avait mis fin aux activités de location? Certes, elle a reconnu avoir interrompu ses activités locatives. Par contre, il a été mis en preuve qu'il s'agissait-là d'une décision qu'elle était obligée de prendre, eu égard au projet de vendre l'immeuble. D'ailleurs, cette interprétation est explicitement exprimée à la fin du paragraphe 1 de l'Avis d'appel où il est indiqué ce qui suit :
+« Désirant vendre et non louer à une tierce partie, le bâtiment fut mis en vente par l'entremise d'un agent immobilier. En fait, depuis la mise en vente initiale, deux agents immobiliers en plus de nous-mêmes ont essayé de vendre. À l'automne 2001, après avoir repeint l'extérieur, le bâtiment n'étant toujours pas vendu et représentant une charge financière importante, nous avons décidé d'essayer de louer en plus de vendre. »
+[Je souligne.]
+[22] Les extraits de la législation pertinente de la Loi sont cités aux paragraphes 18(1) et 20(1) comme suit :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+c) la moins élevée d'une somme payée au cours de l'année ou payable pour l'année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d'une somme raisonnable à cet égard, en exécution d'une obligation légale de verser des intérêts sur :
+(i) de l'argent emprunté et utilisé en vue de tirer un revenu d'une entreprise ou d'un bien (autre que l'argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d'assurance-vie),
+[23] Le sort de l'appel de l'appelante dépend de la question de savoir si elle a mis fin aux activités de l'entreprise ou à l'exploitation de son bien. Déterminer si une entreprise a cessé ou non ses activités ou si un bien a cessé d'être exploité est essentiellement une question de faits.
+[24] En l'espèce, l'activité génératrice de revenus n'était-elle pas essentiellement liée à l'exploitation du bien, soit un immeuble?
+[25] À ce sujet, je reproduis un extrait de l'ouvrage de J. Durnford, intitulé « The Distinction Between Income from Business and Income from Property, and the Concept of Carrying on Business » (1991) 39 Can. T. Found. 1131 aux pp. 1161-62.
+There are many judgments to the effect that rentals from real estate held by individuals constitute income from property.
+An occasional significant exception to the foregoing exists where there are commercial tenants. In M. Ginsberg v. MNR , [(1953), 9 Tax ABC 321 (Mr. Fordham)] an individual taxpayer's income by way of rentals was held to constitute income from a business. No special services were supplied to the tenants, but the latter included a restaurant on the ground floor, and all the other tenants rented their premises for business purposes. Ginsberg accordingly did not apply the criteria laid down in the leading case of Walsh and Micay, where it was held that the deciding factor was the range of the services supplied to the tenants. This does not mean that Ginsberg was wrongly decided. That judgment does not stand alone. What the courts have done is to introduce, but with little discussion, another criterion. The additional factor seems to be that where a high degree of commerciality is to be found in connection with the premises (such as there being stores and offices), the rentals received will be treated as income from a business without regard to the level of services offered and without regard to the fact that the landlord is an individual rather than a corporation. [Nos caractères gras]
+[26] Afin de déterminer si le revenu de l'appelante provenait d'une entreprise ou d'un bien, il faut évaluer le degré de commercialisation du bien. En l'espèce, il est vrai que le conjoint de l'appelante a loué l'immeuble afin d'y exploiter une entreprise. Cependant, il s'agit d'une situation où l'appelante a essentiellement loué l'immeuble à son conjoint. Conséquemment, le degré de commercialisation était très marginal. Il est donc raisonnable de conclure que l'appelante a tiré son revenu d'un bien.
+Dépenses engagées en vue de tirer un revenu du bien
+[27] En l'espèce, l'appelante a cessé la location dans un but très spécifique, soit dans le but de vendre l'immeuble le plus rapidement possible. Les circonstances l'ont amenée à réviser sa décision, après l'écoulement d'un délai raisonnable; elle a donc remis l'immeuble sur le marché locatif. Ainsi, l'appelante n'avait pas renoncé de façon définitive à son intention de tirer un revenu de l'immeuble. De plus, il est clair que les dépenses sont liées à l'immeuble de l'appelante. Ainsi, nous pouvons conclure que l'appelante a engagé les dépenses en vue de tirer un revenu du bien.
+[28] L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que les dépenses s'élevant à 4 744 $ ont été engagées en vue de tirer un revenu du bien et que le montant de 1 795,40 $ est également une dépense d'intérêts admissible effectuée en vue de tirer un revenu d'un bien.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI470
+No DU DOSSIER DE LA COUR :
+2003-2596(IT)I
+INTITULÉ DE LA CAUSE :
+Christine Laroche et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+New Carlisle (Québec)
+DATE DE L'AUDIENCE :
+le 20 mai 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 16 juillet 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Léonel Tremblay
+Avocate de l'intimée:
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Pour l'intimée:
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

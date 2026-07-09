@@ -1,0 +1,343 @@
+---
+title: "Leng c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27468/index.do"
+last_modified: "2007-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 59"
+citation2: ""
+neutral_citation: "2007 CCI 59"
+decision_date: "2007-01-24"
+language: "fr"
+item_id: "27468"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 224
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:00:56.188000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "289b92467bfa3ffe968b71ea2ea2b0ac432feaa973d47830cdaa45f25450792a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leng c. La Reine
+
+- Citation: 2007 CCI 59
+- Decision date: 2007-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 224, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leng c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-24
+Référence neutre
+2007 CCI 59
+Numéro de dossier
+2006-513(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-513(IT)I
+ENTRE :
+ROGER LENG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 9 janvier 2007 à Toronto (Ontario).
+Devant : L’honorable juge en chef adjoint Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Josh Hunter
+____________________________________________________________________
+JUGEMENT
+Les appels à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa (Canada) ce 24e jour de janvier 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2007CCI59
+Date : 20070124
+Dossier : 2006-513(IT)I
+ENTRE :
+ROGER LENG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rip.
+[1] Le docteur Roger Leng interjette appel des cotisations d’impôt sur le revenu établies à son égard pour les années 2001 et 2002, dans lesquelles le ministre du Revenu national a considéré l’achat et la vente d’actions de sociétés ouvertes, surtout de sociétés du domaine des « hautes technologies », comme des activités dont les résultats sont imputables au capital plutôt qu’au revenu.
+[2] Le docteur Leng est actuellement professeur adjoint de pathologie, spécialiste de la recherche sur le cancer, à l’Université de l’Alberta à Edmonton. Le docteur Leng a un cheminement professionnel intéressant : en 1992, il a quitté la Chine – où il avait obtenu un doctorat et des diplômes en médecine – pour les Etats-Unis; il est ensuite allé en Écosse en 1995 et y a obtenu un deuxième doctorat. Alors qu’il était en Écosse, il a suivi un cours portant sur l’achat et la vente d’actions chez un courtier. En avril 1999, il a immigré à Toronto, où, durant les années visées par les appels, il a fait des recherches post-doctorales au Princess Margaret Hospital, où il était boursier. Son horaire de travail à l’hôpital était variable : il pouvait aller et venir comme bon lui semblait à condition de faire son travail et d’accomplir ses tâches de rédaction. Il travaillait principalement le soir.
+[3] Le docteur Leng ne se considère pas comme un négociateur professionnel, mais il affirme être un [TRADUCTION] « bon négociateur ». Lors de son séjour en Écosse, il a acheté et vendu des actions à profit, découvrant ainsi les avantages de l’achat de titres à leur plus bas prix et de leur revente à leur prix le plus haut. Une fois rendu à Toronto, il a voulu augmenter ses revenus en gagnant plus d’argent. C’est pourquoi, en 2000, il a commencé à effectuer des transactions sur des actions sur Internet au moyen d’un compte chez Services Investisseurs CIBC Inc. qu’il partageait avec son épouse. Il achetait habituellement de 200 à 300 actions d’une société par transaction.
+[4] Si le cours d’une action grimpait, disons de 1 $ ou 2 $ pour une action acquise à 10 $, il la vendait, même s’il l’avait achetée la journée même. Si le cours de l’action chutait, il la gardait en espérant un revirement de situation. Si la valeur de l’action atteignait 50 % de son prix d’achat, il la vendait.
+[5] Le docteur Leng réalisait normalement ses transactions en matinée. Il suivait les informations sur les marchés en fin d’après-midi, et s’il trouvait les nouvelles [traduction] « intéressantes », il achetait des actions le lendemain. Sinon, il ne faisait aucune transaction.
+[6] En 2000 et en 2001, le docteur Leng a acheté et vendu des actions de sociétés américaines. En 2002, il a acheté en vendu des actions de deux sociétés canadiennes, Corporation Nortel Networks et Q.L.T. Inc.
+[7] Dans ses états des résultats des activités d’une entreprise pour les années d’imposition pertinentes, le docteur Leng déclare une participation de 50 % dans une société de personnes portant le nom de Roger’s Bioinformation Consultation. Lors du procès, il a affirmé que son épouse était propriétaire de l’autre 50 % des parts dans la société de personnes. Les bénéfices réalisés et les pertes subies au moment de la disposition des actions étaient inclus dans les résultats de la société de personnes. Les avis d’exécution relatifs aux achats et aux ventes d’actions portaient les noms du docteur Leng et de son épouse. Je prends note du fait que l’épouse de l’appelant n’a déclaré aucune perte résultant de la disposition d’actions.
+[8] Les transactions sur les actions en cause, de même que les prix et dates de ces transactions sont décrits à l’annexe « A » des présents motifs.
+[9] Pour une raison quelconque, l’Agence du revenu du Canada a inclus les pertes subies par le docteur Leng au cours de l’année 2000 dans les pertes totales relatives à la vente d’actions pour l’année 2001. L’avocat de la Couronne a déclaré que cette dernière est précluse de demander que les pertes subies en 2000 soient effacées du calcul de 2001 et ajoutées à celui de 2000.
+[10] La question en litige est de savoir si, durant les années visées par les appels, les activités du docteur Leng étaient imputables au capital ou au revenu. Rien dans la preuve ne me permet de croire que le docteur Leng exploitait une entreprise d’achat et de vente d’actions. Au cours des années 2000, 2001 et 2002, il a effectué environ 17 transactions. Il a acheté puis revendu des actions d’une société à quelques jours d’intervalle à quatre reprises. À d’autres moments, il a acheté des actions puis attendu une semaine ou même plusieurs mois avant de les revendre.
+[11] Je ne doute pas que le docteur Leng ait pris des cours portant sur l’achat et la vente d’actions, qu’il avait le temps d’étudier les marchés et qu’il estimait avoir de bonnes connaissances en la matière. Il n’était pas un « initié » et ne possédait aucun savoir spécialisé quant aux actions qu’il achetait. Il ne prétend pas être un professionnel.
+[12] J’ai examiné la jurisprudence citée par la Couronne lors du procès[1]. Je n’ai trouvé aucune décision qui serait venue appuyer l’affirmation de l’appelant voulant qu’il soit un négociateur. Le docteur Leng a acheté des actions – tout comme le font des milliers de Canadiens – afin de réaliser un profit, mais il n’exploitait pas une entreprise à cette fin. Le fait qu’une personne achète et revende des actions dans un court laps de temps ne signifie pas, à lui seul, qu’elle est un négociateur ou qu’il s’agit d’une affaire de caractère commercial. Rien ne permet de croire que les activités d’investissement du docteur Leng constituaient une entreprise.
+[13] Les appels sont rejetés.
+Signé à Ottawa (Canada) ce 24e jour de janvier 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 30e jour de janvier 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2007CCI59
+Nº DU DOSSIER DE LA COUR :
+2006-513(IT)I
+INTITULÉ :
+Roger Leng et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 janvier 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef adjoint Gerald J. Rip
+DATE DU JUGEMENT :
+Le 24 janvier 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Josh Hunter
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+Annexe A
+Roger Leng
+Ventes d’actions en 2000-2002
+Ventes d’actions : 2000 et 2001
+Action
+Quantité Achetée
+Coût ($US)
+$US/$CAN
+Coût ($CAN) Vendue
+Produits ($US) $US/$CAN Produits ($CAN) Durée Gain (Perte)
+Alpha Industries Inc.
+200 07-Nov-00
+8 078,00
+1,5316
+12 372,26 6-Déc-00
+9 971,66
+1,5321
+15 277,58
+29
+2 905,32
+Alpha Industries Inc.
+300 18-Jan-01
+9 590,50
+1,5160
+14 539,20 24-Juil-01
+10 771,64
+1,5381
+16 567,86
+187
+2 028,66
+Alpha Industries Inc.
+300 29-Août-01
+9 835,00
+1,5460
+15 204,91 Déc-01
+5 012,00
+1,5774
+7 905,93
+94
+-7 298,98
+Atmel Corp.
+600 20-Oct-00
+8 953,00
+1,5129
+13 544,99 20-Oct-00
+9 422,00
+1,5129
+14 254,54
+0
+709,55
+Atmel Corp.
+600 31-Oct-00
+8 990,50
+1,5271
+13 729,39 8-Déc-00
+7 172,00
+1,5193
+10 896,42
+38
+-2 832,97
+Broadvision Inc.
+200 26-Oct-00
+5 090,50
+1,5185
+7 729,92 27-Oct-00
+5 371,82
+1,5272
+8 203,84
+1
+473,92
+Cypress Semiconductor Corp.
+200 17-Oct-00
+7 378,00
+1,5188
+11 205,71 19-Oct-00
+7 971,73
+1,5109
+12 044,49
+2
+838,78
+Elantec Semiconductor Inc.
+300 24-Juil-01
+9 328,00
+1,5381
+14 347,40 24-Août-01
+11 974,60
+1,5410
+18 452,86
+31
+4 105,46
+Exodus Communications Inc.
+300 20-Oct-00
+10 518,63
+1,5129
+15 913,64 31-Oct-00
+8 971,70
+1,5271
+13 700,68
+11
+-2 212,95
+Inktomi Corp.
+100 18-Oct-00
+7 328,00
+1,5200
+11 138,56 8-Déc-00
+4 171,86
+1,5193
+6 338,31
+51
+-4 800,25
+Inktorni Corp.
+100 08-Déc-00
+4 028,00
+1,5193
+6 119,74 Déc-01
+420,00
+1,5774
+662,51
+358
+-5 457,23
+Lattice Semicondutor Corp.
+300 17-Oct-00
+7 153,00
+1,5188
+10 863,98 19-Oct-00
+7 509,24
+1,5109
+11 345,71
+2
+481,73
+Micrel Inc.
+300 11-Déc-00
+12 928,00
+1,5222
+19 679,00 17-Jan-01
+14 071,52
+1,5121
+21 277,55
+37
+1 598,54
+Rambus Inc.
+100 23-Oct-00
+6 315,50
+1,5083
+9 525,67 6-Nov-00
+7 071,76
+1,5298
+10 818,38
+14
+1 292,71
+Sun Microsystems Inc.
+200 12-Déc-00
+6 621,75
+1,5247
+10 096,18 Déc-01
+1 800,50
+1,5774
+2 840,11
+354
+-7 256,07
+Total
+122 136,38
+186 010,55
+111 684,03
+170 586,76
+-15423,79
+Part du contribuable (50 %)
+-7 711,89
+Montant réclamé
+-16 533,67
+Part du contribuable (50 %)
+-8 266,84
+Notes.
+Aucun reçu n’a été fourni pour les ventes de décembre 2001.
+L’ARC a permis à M. Leng d’inscrire les ventes de 2000 dans son rapport de 2001 parce que l’année d’imposition 2000 était prescrite au moment de l’ at' [sic]
+Les taux de change indiqués sont les cours du change de clôture du site Internet de la Banque du Canada (www.bankofcanada.ca)
+Ventes d’actions : 2002
+Action Quantité Achetée
+Coût ($CAN) Vendue
+Produit ($CAN) Gain (Perte)
+Corporation Nortel Networks 160 22-Fév-02
+1 349,80
+20-Déc-02
+403,80
+-946,00
+QLT Inc. 100 22-Fév-02
+2 875,00
+20-Déc-02
+1 253,00
+-1 622
+Total
+4 224,80
+1 656,80
+-2 56F
+Part du contribuable (50 %)
+-1,2£
+Montant réclamé (seule la part de 50 % du contribuable est réclamée)
+-1 307,10
+[1] Irrigation Industries Ltd. v. M.N.R., [1962] S.C.R. 346, Vancouver Art Metal Works Ltd. c. R., [1993] 2 C.F. 179 (C.A.F.), Rajchgot c. R., 2004 CCI 548, Corvalan c. R., 2006 CCI 200, Woods (L.E.) v. Canada, [1995] 2 C.T.C. 2084, McNeil c. La Reine, 2005 CCI 124, Funk v. M.N.R. 1965 CarswellNat 90.

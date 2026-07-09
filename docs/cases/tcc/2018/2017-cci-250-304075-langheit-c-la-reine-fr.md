@@ -1,0 +1,393 @@
+---
+title: "Langheit c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304075/index.do"
+last_modified: "2018-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 250"
+citation2: ""
+neutral_citation: "2017 CCI 250"
+decision_date: "2018-02-06"
+language: "fr"
+item_id: "304075"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7899
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:01:19.632000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02cb31ea9bcebbcb43e058983e4d7dae179c3396bef364f711f5064830848d14"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langheit c. La Reine
+
+- Citation: 2017 CCI 250
+- Decision date: 2018-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7899, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langheit c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-02-06
+Référence neutre
+2017 CCI 250
+Numéro de dossier
+2014-820(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Notes
+Une correction fut apportée le 8 février 2018.
+Contenu de la décision
+Référence : 2017 CCI 250
+Date : 20180206
+Dossier : 2014-820(GST)G
+ENTRE :
+CHARLES LANGHEIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge D’Auray
+I. Contexte [1] L’appelant exploite une entreprise individuelle, un restaurant, sous la raison sociale « Café de l’Apothicaire ».
+[2] En date du 14 mars 2013, une cotisation est établie à l’égard de l’appelant, par le ministre du Revenu du Québec (« le ministre »), à titre de mandataire du ministre du Revenu national, sur la base que l’appelant n’a pas comptabilisé toutes les fournitures taxables effectuées par son restaurant. Selon le ministre, l’appelant a omis de percevoir et/ou de remettre un montant de 33 077,37 $ à titre de taxe sur les produits et services (« TPS »). Le ministre a aussi imposé une pénalité de 4 478,10 $ selon l’article 285 de la Loi sur la taxe d’accise (« LTA »).
+[3] Considérant l’absence de documents pouvant justifier les fournitures taxables du restaurant, le ministre a établi la cotisation en utilisant une méthode de vérification alternative (« méthode alternative »). En l’espèce, le ministre s’est appuyé sur les salaires versés aux employés du restaurant afin de reconstituer les fournitures taxables et déterminer les montants de TPS payables pour les périodes couvrant le 1er janvier 2009 au 30 septembre 2012.
+[4] L’appelant reconnaît que le ministre était justifié d’utiliser une méthode alternative pour établir une cotisation, eu égard à ses registres comptables inadéquats et l’absence de preuve justifiant les fournitures taxables. Cependant, l’appelant fait valoir qu’en l’espèce la méthode alternative choisie par le ministre n’est pas fiable et ne reflète pas la réalité du contribuable. De plus, il fait valoir que certaines informations utilisées par le vérificateur de l’Agence du revenu du Québec (l’« ARQ ») afin de déterminer les fournitures taxables sont erronées, ce qui a pour effet de surestimer les fournitures taxables du restaurant.
+II. Faits [5] Les faits au paragraphe 32 de la Réponse à l’avis d’appel énoncent de manière détaillée les faits qui sont à l’origine du débat. J’ai donc décidé de les reprendre. Il va de soi cependant que ces faits ne sont pas tous admis par l’appelant. Ce sont les faits sur lesquels le ministre s’est appuyé pour établir une cotisation à l’égard de l’appelant :
+a) Les faits admis ci-dessus;
+b) L’Appelant est un inscrit aux fins de la Partie IX de la L.T.A. depuis le 28 avril 1994;
+c) L’Appelant est un particulier en affaires opérant sous la raison sociale « le Café de l’Apothicaire », soit un café-restaurant sans permis d’alcool, situé au 1106 rue Beaubien Est à Montréal, offrant le service aux tables (environ 30 places assises) et des repas pour emporter;
+d) Le café-restaurant offre plusieurs produits de breuvage et sert des déjeuners et des dîners;
+e) Tous les déjeuners sont servis avec des pommes de terre rissolées, des fruits et du café et ils sont servis en tout temps;
+f) Le total des heures d’ouverture par semaine est de 62 heures;
+g) Selon l’Appelant, le café-restaurant est fermé tous les jours fériés de l’année et de sept à dix jours pendant la période de fêtes;
+h) L’exercice financier de l’Appelant, pendant la période visée, correspond à l’année civile (1er janvier au 31 décembre) et les déclarations de taxes sont trimestrielles;
+i) L’Appelant a produit ses déclarations de taxe nette de TPS trimestriellement pendant la période visée, sauf du 1er janvier au 31 décembre 2011, où aucune déclaration de taxe n’a été produite;
+j) Plusieurs déclarations produites l’ont été avec plusieurs jours de retard;
+k) Toutes les fournitures effectuées par l’Appelant dans le cadre de l’exploitation du café-restaurant, soit une activité commerciale, pendant la période visée, constituent des fournitures taxables pour lesquelles une taxe, soit la TPS, au taux prescrit sur la valeur de la contrepartie de la fourniture, était payable par les acquéreurs à l’Appelant, lequel devait la percevoir;
+l) La comptabilité de l’entreprise est très pauvre et presque inexistante, l’Appelant n’ayant remis pour la vérification qu’un livre des ventes et un livre des salaires tenus de façon manuelle;
+m) Lors d’une visite surprise et lors d’une autre visite sur les lieux faite par le vérificateur (deux personnes étant présentes à chacune des occasions), une facture produite par le module d’enregistrement des ventes (ci-après « MEV ») a été remise à la première personne ayant payé en argent comptant, mais ce ne fût [sic] pas le cas pour la deuxième personne qui s’est vue remettre uniquement sa monnaie, alors que la caisse enregistreuse était demeurée ouverte après le paiement effectué par la première personne;
+n) Lors de la visite sur les lieux faite par le vérificateur, une serveuse s’étant présentée comme étant en charge des lieux, Madame Marie-Pier Lebel, à qui le vérificateur s’était identifié, a saisi un paquet de 29 notes de repas de style « blueline » et l’a jeté dans une boite de récupération, lesquelles notes ont par la suite été récupérées par le vérificateur;
+o) Il fût [sic] constaté que sur les 29 notes de repas, il y avait un montant de taxes incluses d’inscrit et d’encerclé sur 17 d’entre elles;
+p) Le montant total, taxes incluses, inscrit sur ces 17 notes de repas était de 436,30 $, alors que les notes de repas récupérées et enregistrées au MEV totalisaient 128,57 $ taxes incluses;
+q) D’autre part, l’analyse des déclarations de revenus de l’Appelant et des ratios démontre que les montants inscrits dans les déclarations de revenus ne sont pas cohérents avec le livre de ventes manuel, qu’il y a des variations importantes au niveau des coûts des marchandises vendues et qu’il y a un écart important en ce qui concerne le pourcentage d’utilisation des services publics et de télécommunications;
+r) L’analyse des reçus de paiement par cartes permet de constater que 65 % desdits paiements n’ont pas été enregistrés au MEV;
+s) L’analyse des dépôts aux comptes bancaires de « Café de l’Apothicaire » et de l’Appelant amène un questionnement sur le sort des ventes effectuées en argent comptant;
+t) Un manque de fiabilité et d’intégrité des données enregistrées sur la caisse enregistreuse a été constaté;
+u) L’analyse des achats a permis de constater que des achats sont payés en argent comptant et que les montants d’achats déclarés sur les déclarations de revenus de l’Appelant ne sont pas représentatifs de la réalité;
+v) L’analyse des salaires déclarés sur les déclarations de revenus de l’Appelant donne des salaires moyens versés par heure de travail entre 1,63$ et 3,49$, ce qui laisse croire qu’une partie des salaires est payée en argent comptant et non déclarée;
+w) En raison de tous ces faits, le Ministre était bien fondé de reconstituer le montant total des fournitures effectuées par l’Appelant par une méthode indirecte ou alternative de vérification pour la période visée, et ce, afin de reconstituer les ventes et de s’assurer que toutes les taxes avaient été bien perçues et déclarées;
+x) La méthode utilisée par le Ministre a consisté à reconstituer les ventes à partir des salaires, en fonction du secteur d’activités des données publiées par Statistique Canada, et plus spécifiquement des données des restaurants à service complet, soit un établissement dont l’activité principale consiste à fournir des services de restauration à des clients qui commandent et sont servis aux tables et qui règlent l’addition après avoir mangé, ces établissements pouvant vendre des boissons alcoolisées, préparer des mets à emporter, exploiter un bar ou présenter des spectacles sur scène, en plus de servir des repas et des boissons;
+y) Plusieurs données utilisées pour établir les revenus, à partir de la méthode des salaires, proviennent des informations fournies par l’Appelant et Madame Marie-Pier Lebel;
+z) La méthode alternative utilisée, soit la reconstitution des ventes à partir des salaires, a permis de constater que des écarts existaient entre les ventes calculées selon la méthode alternative et les ventes déclarées par l’Appelant;
+aa) Le montant total des fournitures taxables effectuées par l’Appelant ainsi reconstitué par le Ministre pour la période visée est de 885 967,18 $, soit un montant 215 484,74 $ pour la période du 1er janvier au 31 décembre 2009, soit un montant de 238 661,39 $ pour la période du 1er janvier au 31 décembre 2010, soit un montant de 244 496,41 $ pour la période du 1er janvier au 31 décembre 2011 et finalement un montant de 187 324,64 $ pour la période du 1er janvier au 30 septembre 2012;
+bb) L’Appelant a déclaré un montant global de TPS perçue ou percevable, dans le calcul de sa taxe nette pour la période visée, de 11 221,03 $, ce qui représente un montant de 160 300,42 $ de fournitures taxables;
+cc) En fonction des ventes reconstituées, l’Appelant aurait dû déclarer dans le calcul de sa taxe nette, pendant la période visée, un montant de 44 298,36 $, à titre de TPS perçue ou percevable;
+dd) L’Appelant est donc redevable au Ministre du montant des ajustements apportés à sa taxe nette déclarée pour la période visée, plus les intérêts et la pénalité;
+ee) L’Appelant est également redevable d’un montant de 3 264,09 $ de TPS perçu et non remis;
+III. Méthode alternative [6] Lors de l’audience, M. Dominic Delambre, comptable professionnel agréé, a témoigné à titre d’expert pour l’appelant. Ce dernier a admis, qu’à la lumière de la tenue de livres inadéquate et l’absence de preuve justifiant les fournitures taxables du restaurant, le ministre était justifié de procéder par voie de méthode alternative[1].
+[7] L’avocate de l’appelant a aussi admis à plus d’une reprise durant sa plaidoirie que le ministre ne pouvait pas déterminer les ventes avec l’information disponible. À cet effet, elle a indiqué que « c’est pas nié que l’information était pas disponible pour être capable d’aller retracer les ventes de façon claire et précise. »
+[8] Par conséquent, je ne juge pas nécessaire de réviser dans ces motifs tous les éléments qui ont mené le ministre à utiliser une méthode alternative. Il suffit de dire qu’après avoir entendu la preuve, je suis d’avis que le ministre était justifié de procéder par voie de méthode alternative pour établir une cotisation à l’égard de l’appelant. Sommairement, à titre d’exemple, l’appelant tenait un registre de ventes pour la période du 1er janvier 2009 au 24 avril 2012. Dans ce registre, l’appelant inscrivait manuellement la date et le montant des ventes pour cette journée, sans aucune ventilation. L’appelant ne gardait aucune pièce justificative. Les rouleaux de la caisse enregistreuse, les rapports de fermeture de la caisse enregistreuse, soit les rubans « Z », ou les notes de repas qui auraient pu justifier les ventes du restaurant n’étaient pas conservés par l’appelant.
+[9] Les horaires des employés n’étaient également pas conservés par l’appelant ni la copie des talons de chèque des salaires. En ce qui a trait aux achats pour l’exploitation de son restaurant, l’appelant n’était pas plus prudent. Il a indiqué qu’il payait plusieurs de ses fournisseurs en argent comptant et que parfois il n’obtenait pas de factures ou que certaines étaient égarées. L’appelant n’avait donc pas de système de tenue de livres adéquat et fiable lui permettant de justifier autant les ventes que les dépenses du restaurant.
+(1) Méthode alternative utilisée par le ministre [10] Depuis le 1er novembre 2011, les restaurateurs doivent installer le module d’enregistrement des ventes, soit le MEV. Ce système est obligatoire et force le restaurateur à remettre une facture au client. Cependant le MEV n’est pas parfait, si le tiroir-caisse reste ouvert, le restaurateur peut, sans poinçonner, faire payer un client pour son repas sans lui remettre une facture. Ainsi, la valeur du repas n’est pas enregistrée par le MEV. Pour les raisons qui suivent, M. Ibarissen, le vérificateur à l’ARQ responsable du dossier de l’appelant, a expliqué que pour les périodes après le 1er novembre 2011, il n’a pas pu se fier aux données du MEV pour comptabiliser les ventes du restaurant de l’appelant.
+[11] À cet effet, Mme Marchand de l’ARQ a témoigné que généralement, dans les dossiers relatifs à la restauration, des agents de l’ARQ vont anonymement consommer un repas afin d’observer le fonctionnement du restaurant. Lors d’une visite anonyme au restaurant de l’appelant avec une collègue de l’ARQ, Mme Marchand a noté que lors du paiement des factures, l’appelant a gardé le tiroir-caisse ouvert entre le paiement en argent comptant de sa collègue et le paiement en argent comptant de son repas. Ainsi, si Mme Marchand n’avait pas demandé à l’appelant d’obtenir une facture, le montant de la facture pour son repas n’aurait pas été enregistré par le MEV. C’est seulement à la suite de sa demande de facture que l’appelant a fermé le tiroir-caisse afin de poinçonner le montant du repas et a remis une facture à Mme Marchand.
+[12] De plus, lors de leur visite initiale au restaurant de l’appelant, le 26 avril 2012, M. Ibarissen et sa collègue Mme Coulombe, se sont présentés en tant que vérificateurs de l’ARQ à la serveuse présente au restaurant. Incapable de rejoindre l’appelant, la serveuse a permis aux deux vérificateurs de visiter le restaurant. Lors de la visite du restaurant, Mme Coulombe a noté que la serveuse a jeté le calepin « Blue Line » de ses notes de repas au recyclage. Mme Coulombe a récupéré les notes de repas du recyclage.
+[13] M. Ibarissen a été incapable de concilier les notes de repas avec les enregistrements faits au MEV pour cette journée. Il est important de noter que ces exercices n’ont pas servi à établir la cotisation; l’intimée n’a utilisé ces trames factuelles que pour établir que M. Ibarissen ne pouvait pas se fier au MEV pour tenter d’établir les ventes du restaurant pour les périodes en litige après la mise en place du MEV.
+[14] Donc, c’est à la lumière de ces faits, mais surtout parce que la tenue de livres des opérations du restaurant était inadéquate et non fiable pour toutes les périodes en litige, et cela autant les périodes avant l’installation du MEV qu’après l’installation du MEV, que M. Ibarissen a décidé d’utiliser une méthode alternative.
+[15] M. Ibarissen a expliqué qu’il a choisi la méthode alternative basée sur les salaires afin de reconstituer les fournitures taxables, car en l’espèce, les seules données réelles et vérifiables portaient sur les heures travaillées par les employés du restaurant.
+[16] M. Ibarissen a indiqué qu’il ne pouvait pas utiliser la méthode basée sur les achats tel que préconisé par l’expert, M. Delambre, parce qu’il était impossible de confirmer l’entièreté des achats effectués par le restaurant, l’appelant n’ayant pas obtenu ou égaré certaines de ses factures.
+[17] M. Ibarissen a expliqué que la méthode alternative de reconstitution des ventes basée sur les salaires est effectuée en fonction du secteur d’activité des données publiées par Statistique Canada et plus spécifiquement aux données des restaurants, selon le Bulletin de service, service de restauration et de débit de boissons [63-243-X] Canada, 2010. Selon cette méthode, des ratios portant sur les salaires, traitements et avantages sociaux permettent de reconstituer les ventes annuelles avant taxes, à partir des heures travaillées et des taux horaires des employés.
+[18] Cependant, le ratio pertinent doit être appliqué. Les ratios des salaires, traitements et avantages sociaux sont différents s’il s’agit d’un restaurant à service complet ou un restaurant à service restreint. Le Bulletin de Statistique Canada définit ces deux types de restaurants de la manière suivante :
+722511 – Restaurants à service complet
+Cette classe canadienne comprend les établissements dont l’activité principale consiste à fournir des services de restauration à des clients qui commandent et sont servis aux tables et qui règlent l’addition après avoir mangé. Ces établissements peuvent vendre des boissons alcoolisées, préparer des mets pour emporter, exploiter un bar ou présenter des spectacles sur scène en plus de servir des repas et des boissons. Sont aussi compris les débits de boissons alcoolisées qui servent principalement des repas.
+Exemple(s) illustratif(s) : restaurant familial (p. ex., petit restaurant), restaurants haute cuisine […][2]
+722512 – Établissements de restauration à service restreint
+Cette classe canadienne comprend les établissements dont l’activité principale consiste à fournir des services de restauration à des clients qui commandent ou choisissent les produits à un comptoir de service ou de cafétéria (ou par téléphone) et qui paient avant de manger. Les aliments et les boissons sont pris par le client en vue d’être consommés sur place ou à l’extérieur de l’établissement, ou sont livrés chez le client. Ces établissements peuvent offrir une diversité de produits alimentaires, des collations spéciales ou des boissons non alcoolisées.
+Exemple(s) illustratif(s)
+bar à crème glacée
+beigneries
+café-restaurant
+comptoir pour soupe et sandwich
+restaurant, mets pour emporter
+restaurant de service rapide
+restauvolants […][3]
+[19] M. Ibarissen a déterminé que le restaurant de l’appelant en était un à service complet, car le restaurant offrait à sa clientèle un service aux tables pour les petits-déjeuners et les déjeuners.
+[20] Afin de reconstituer les fournitures taxables du restaurant, M. Ibarissen a analysé le nombre d’heures travaillées par année fiscale par catégorie d’emploi par le salaire minimum à partir des taux en vigueur en vertu de la Loi sur les Normes du Travail selon chaque poste de travail qu’il soit avec ou sans pourboire. Pour déterminer les heures travaillées, il s’est appuyé sur les réponses données par l’appelant dans un questionnaire de l’ARQ en date du 9 mai 2012. Par la suite, il a divisé le montant des salaires qui devrait être payé par le ratio des salaires, traitements et avantages sociaux établi par Statistique Canada pour un restaurant à service complet.
+[21] Selon sa compréhension des réponses de l’appelant au questionnaire de l’ARQ, M. Ibarissen a déterminé le nombre de personnes et les heures travaillées par ces dernières au restaurant de l’appelant :
+Serveuses
+Cuisiniers/Plongeurs
+Jour
+Employée(s)
+Heures
+Jour
+Employé(s)
+Heures
+Lundi
+1
+9
+Lundi
+1
+9
+Mardi
+1
+9
+Mardi
+1
+9
+Mercredi
+1
+9
+Mercredi
+1
+9
+Jeudi
+1
+9
+Jeudi
+1
+9
+Vendredi
+2
+9
+Vendredi
+3
+9
+Samedi
+2
+8
+Samedi
+3
+8
+Dimanche
+2
+8
+Dimanche
+3
+8
+Total
+86 heures
+Total
+111 heures
+[22] M. Ibarissen a aussi estimé que le restaurant exerçait ses activités pendant 49,29 semaines. À partir de ce chiffre, il a estimé les salaires gagnés par les personnes travaillant au restaurant :
+Période
+2009-01-01 au 2009-12-31
+2010-01-01 au 2010-12-31
+2011-01-01 au 2011-12-31
+2012-01-01 au 2012-09-30
+Nombre d’heures par année pour serveuses
+4 239
+4 239
+4 239
+3 179
+Nombre d’heures par année pour cuisiniers/plongeurs
+5 471
+5 471
+5 471
+4 103
+Salaire horaire minimum moyen pour serveuses
+7,92 $
+8,17 $
+8,32 $
+8,48 $
+Salaire horaire minimum moyen pour cuisiniers/plongeurs
+8,83 $
+9,33 $
+9,60 $
+9,82 $
+Salaires totaux
+81 884,20$
+85 679,44$
+87 774,21$
+67 249,55 $
+[23] Pour reconstituer les ventes du restaurant, M. Ibarissen a appliqué le ratio de Statistique Canada pour un restaurant à service complet aux salaires totaux estimés :
+Période
+2009-01-01 au 2009-12-31
+2010-01-01 au 2010-12-31
+2011-01-01 au 2011-12-31
+2012-01-01 au 2012-09-30
+Ratio de l’industrie pour restaurant à service complet
+38%
+35,9%
+35,9%
+35,9%
+Ventes reconstituées
+215 484,74 $
+238 661,39 $
+244 496,41 $
+187 324,64 $
+Ventes déclarées
+70 912,00 $
+66 958,00 $
+67 406,00 $
+20 803,00 $
+Écart
+144 572,74 $
+171 703,39 $
+177 090,41 $
+166 521,64 $
+[24] À la suite de ces calculs, le ministre a établi une cotisation en date du 14 mars 2013, dans laquelle le ministre réclame à l’appelant les montants suivants:
+Taxe perçue, mais non remise (reconstitution des ventes)
+33 077,38 $
+Taxe perçue, mais non remise (aucune déclaration)
+3 264,09 $
+Pénalité (négligence flagrante)
+4 478,10 $
+Intérêts sur arriéré
+4 195,62 $
+Pénalité pour défaut de produire
+855,48 $
+(2) Témoignage de l’expert de l’appelant quant à la méthode alternative utilisée par le ministre [25] M. Delambre est un comptable professionnel agréé. Il a œuvré dans différents cabinets comptables depuis 1995. Depuis 2002, il dirige sa propre pratique. Je l’ai qualifié à titre d’expert. M. Delambre n’est pas et n’a jamais été le comptable de l’appelant. Le mandat de M. Delambre était d’analyser la méthode alternative utilisée par le vérificateur de l’ARC.
+[26] Il ressort du témoignage de M. Delambre que l’appelant n’a pas déclaré toutes les fournitures taxables du restaurant. À la lumière de la tenue de livres de l’appelant, il a indiqué qu’une méthode alternative s’imposait pour déterminer les ventes du restaurant.
+[27] Cependant, selon M. Delambre, les ventes additionnelles calculées par le vérificateur de l’ARQ sont surestimées. M. Delambre a indiqué avoir choisi de procéder par une autre méthode alternative, soit celle basée sur les achats, non pas pour contester la méthode choisie par le vérificateur, mais seulement pour déterminer s’il obtiendrait des résultats semblables à ceux du vérificateur de l’ARQ. À cet effet, M. Delambre a admis que la méthode basée sur les salaires était une méthode adéquate à condition que les données utilisées ne soient pas erronées.
+[28] Ainsi, après avoir déterminé les ventes du restaurant en utilisant la méthode alternative basée sur les achats, M. Delambre a expliqué qu’en tenant compte des dépenses de salaires utilisées par le vérificateur et les autres dépenses telles qu’énoncées aux déclarations de revenus de l’appelant, la marge bénéficiaire d’exploitation selon la méthode des salaires est de 40,62% pour 2009, 39,27% pour 2010 et 31,02% pour 2011. Alors que selon la méthode des achats, en utilisant les mêmes données sauf nécessairement pour le montant des ventes reconstituées, la marge bénéficiaire d’exploitation du restaurant est de 11,59% pour 2009, 13,43% pour 2010 et de 13,28% pour 2011.
+[29] Selon M. Delambre, ses calculs démontrent que les marges bénéficiaires d’exploitation selon la méthode de M. Ibarissen sont nettement exagérées pour ce type de restaurant. À cet égard, il réfère aux marges bénéficiaires d’exploitation publiées par Statistique Canada pour ce type de restaurant, soit de 5,80% pour 2009, 5,90% pour 2010 et de 4,80% pour 2011.
+[30] De plus, la méthode alternative basée sur les achats résulte en un écart de fournitures taxables de 129 977 $ pour les trois années en litige, alors que selon la méthode alternative basée sur les salaires, l’écart est de 307 000 $. Selon M. Delambre, l’écart et les marges bénéficiaires d’exploitation démontrent que la méthode alternative basée sur les salaires ne donne pas des résultats fiables et de qualité.
+[31] M. Delambre a aussi indiqué que certaines informations utilisées par le vérificateur, M. Ibarissen, tel que les heures et les journées travaillées étaient erronées.
+IV. Analyse [32] En l’espèce, compte tenu de la preuve présentée, je suis d’avis que le ministre était justifié d’utiliser une méthode alternative afin de reconstituer les ventes générées par le restaurant. L’appelant n’effectuait pas une tenue de livres adéquate et fiable. Bien que l’appelant exploitait une entreprise individuelle et qu’il n’avait pas à produire des états financiers, il avait l’obligation selon l’article 286 de la LTA, de tenir des registres fiables.
+[33] Le registre dans lequel l’appelant comptabilisait manuellement le salaire des employés n’était pas fiable. Les années ne sont pas précisées ainsi que les taux horaires. Son registre des ventes tenu manuellement n’est également pas fiable. Par exemple, il a indiqué à cette Cour que le restaurant était fermé le lundi alors que selon ce livre, ce serait plutôt certains dimanches que le restaurant serait fermé et il semble que certains lundis le restaurant serait ouvert. De plus, on n’y retrouve que la date et le montant de vente pour la journée sans aucune ventilation. L’appelant ne conservait aucun document pour justifier ses données. Il jetait tous les rubans « Z » dès qu’il inscrivait le montant des ventes dans le registre. Il jetait également les rubans de caisse, les listes des heures travaillées par les employés, les notes de repas prises par les serveuses. De plus, il payait la plupart des fournisseurs au comptant sans souvent obtenir des factures et/ou en les égarant. L’appelant ne se versait pas de salaire, il prenait de l’argent dans la caisse du restaurant au besoin, mais sans noter combien il prenait. Lors de son témoignage, il a été incapable de préciser les montants qu’il soutirait de la caisse du restaurant.
+[34] Les méthodes alternatives s’appuient sur des estimations et donnent des résultats approximatifs qui ne reflètent pas nécessairement la réalité. Ce sont des méthodes de derniers recours. Cependant, en l’espèce, le ministre n’avait pas d’autre choix que de procéder par une méthode alternative. D’ailleurs, l’expert de l’appelant, M. Delambre, a aussi recouru à une méthode alternative afin de reconstituer les ventes du restaurant.
+[35] À cet effet, l’appelant fait valoir que la méthode alternative utilisée par le vérificateur n’est pas fiable et que la méthode utilisée par son expert est plus fiable et plus proche de la réalité de son entreprise. À mon avis cet argument de l’appelant ne tient pas. Il ne revient pas au contribuable de choisir la méthode alternative. Le choix de la méthode alternative est une prérogative du ministre. Je ne peux donc pas me prononcer sur la méthode alternative basée sur les achats, utilisée par M. Delambre. De toute manière, comme l’a fait valoir l’intimée, il est difficile de comparer les marges bénéficiaires d’exploitation d’une entreprise dans un dossier où le but est de déterminer les fournitures taxables et non pas les profits pour fins d’impôt et au surplus, quand la preuve relative aux dépenses n’est pas fiable.
+[36] La méthode alternative basée sur les salaires est une méthode alternative reconnue. De plus, la jurisprudence est constante; lorsque la cotisation est fondée sur une méthode alternative, la question n’est pas tellement de déterminer si une façon de procéder est préférable à l’autre, mais si le résultat est fiable pour atteindre la qualité requise[4].
+[37] À cet égard, l’appelant cite le juge Dussault dans la décision Brasserie Futuriste de Laval[5] et fait valoir que l’appel devrait être accueilli, car la méthode alternative utilisée par le vérificateur, M. Ibarissen, n’est pas fiable et n’atteint pas la qualité requise.
+[38] Dans cette décision, le juge Dussault indique que ce n’est pas parce qu’un contribuable manque à ses obligations ou qu’il a une comptabilité déficiente ou a détruit des documents, que le ministre peut se réfugier derrière la présomption de validité d’une cotisation et de s’abstenir de faire une preuve. Sinon, le ministre pourrait s’appuyer sur des présomptions arbitraires que le contribuable ne serait pas en mesure de réfuter. À cet effet, le juge Dussault écrit ce qui suit au paragraphe 148 de sa décision :
+[…] En un mot, lorsqu’un contribuable peut soulever un doute sérieux, il s’agit de démontrer que la majoration retenue n’est pas une norme purement subjective, mais une norme objective, fiable et acceptable dans les circonstances. On ne peut se réfugier derrière la présomption de validité de la cotisation pour s’abstenir de faire cette preuve. Prétendre le contraire, c’est donner ouverture à l’arbitraire en permettant aux autorités fiscales de formuler n’importe quelle hypothèse, qui serait toujours réputée valide. Ce n’est pas parce qu’un contribuable manque à ses obligations, qu’il a une comptabilité déficiente ou qu’il n’a pas les documents appropriés ou qu’il les a détruits qu’on peut supposer n’importe quoi et prétendre que ces suppositions sont tout simplement réputées valides en toutes circonstances. En matière d’impôt sur le revenu, lorsque l’on établit une cotisation à l’égard d’un contribuable par la méthode indirecte de l’avoir net et que, faute de mieux, l’on établit le montant de ses dépenses personnelles en formulant des hypothèses, on le fait en utilisant des normes objectives minimales tirées des statistiques officielles publiées par Statistique Canada sur le coût de la vie des individus et des ménages dans les différentes régions du pays et non en s’appuyant sur des chiffres qui sont le produit des impressions du vérificateur. À mon avis, cette façon de faire est également applicable en matière de TPS. Pour résumer, dire « mon équipe et moi appliquons une majoration minimale de 200 % moins 5 % pour les pertes », n’est pas suffisant pour faire porter au contribuable le fardeau entier de démolir cette hypothèse lorsque des doutes sérieux peuvent être exprimés à l’égard de celle-ci. Un minimum de preuve est requis pour démontrer qu’une telle majoration constitue une norme reconnue, fiable et raisonnablement applicable dans les circonstances.
+[39] Cependant, le commentaire du juge Dussault ne s’applique pas en l’espèce. Le vérificateur, M. Ibarissen, ne s’est pas appuyé sur de l’information arbitraire pour établir une cotisation à l’égard de l’appelant. M. Ibarissen a utilisé les réponses données par l’appelant au questionnaire daté du 9 mai 2012, notamment les informations relatives au nombre d’employés, les heures travaillées par ces derniers, les heures d’ouverture et de fermeture du restaurant.
+[40] Lors de l’audience, l’appelant a fait valoir que certaines de ces réponses étaient erronées parce qu’au moment de répondre au questionnaire il n’avait pas saisi la portée de toutes les questions. À cet effet, l’appelant met en doute le nombre de journées où le restaurant était ouvert pendant les périodes en litige, les heures d’ouverture et de fermeture, le nombre d’employés du restaurant et le nombre d’heures que ces derniers y travaillaient.
+(1) Nombre de journées où le restaurant était ouvert durant la période en litige [41] Selon les informations fournies à M. Ibarissen dans le questionnaire du 9 mai 2012, le restaurant était ouvert 7 jours par semaine. Cependant, lors de l’audience, l’appelant a indiqué qu’il a répondu en fonction des opérations du restaurant en date du questionnaire, soit le 9 mai 2012. De plus, l’appelant a indiqué puisqu’à cette époque il ne savait pas pour quelles fins le questionnaire serait utilisé, que ses réponses reflètent l’opération du restaurant en mai 2012 et non pas pour les années précédentes.
+[42] L’appelant a témoigné que le restaurant n’était ouvert que six jours par semaine pour la période du 1er janvier 2010 jusqu’au 1er octobre 2011. À cet effet, l’appelant a référé à son registre des ventes dans lequel on note que le restaurant est fermé tous les lundis pour ladite période.
+[43] Cependant, j’ai constaté que certaines dates aux registres des ventes où le restaurant était fermé s’avèrent être un dimanche plutôt qu’un lundi. Cela étant dit, il est possible que ce soit une erreur cléricale quant à la date. Aucune des parties ne l’ayant soulevé, j’ai décidé de ne pas mettre en doute la version de l’appelant à l’audience et d’accepter que pour la période du 1er janvier 2010 au 1er octobre 2011, le restaurant était ouvert six jours par semaine. Ainsi, la cotisation devra être modifiée pour refléter ce changement.
+(2) Heures d’ouverture et de fermeture du restaurant durant la période en litige [44] Selon les réponses données par l’appelant dans le questionnaire daté du 9 mai 2012, les heures d’ouverture du restaurant étaient de 7h30 à 16h30 durant la semaine et de 8h30 à 16h30 la fin de semaine.
+[45] Dans le cadre d’une vérification en impôt, on note dans le questionnaire initial de l’ARQ, en date du 3 mai 2013, que l’appelant répond que les heures d’opération du restaurant sont de 8h30 à 16h30.
+[46] Cependant, le 26 juin 2013, l’appelant fait parvenir une lettre à M. Roosevelt Moïse, vérificateur en impôt de l’ARQ, dans laquelle il énonce qu’il a commis une erreur en répondant aux questions le 3 mai 2013. L’appelant écrit que les heures d’ouverture du restaurant étaient de 8h à 15h et que c’est seulement à partir du mois de septembre 2012 que le restaurant a changé ses heures d’ouverture pour 8h à 16h30. Il n’y aucune mention par l’appelant, autant dans les réponses du questionnaire que dans sa lettre du 26 juin 2013, que les heures d’ouverture et de fermeture de restaurant étaient différentes pour les fins de semaine.
+[47] Lors de l’audience l’appelant a fait valoir que le vérificateur, M. Ibarissen, en se fiant au questionnaire du 9 mai 2012, a surévalué les heures d’exploitation du restaurant. L’appelant a réitéré qu’il a répondu au questionnaire du 9 mai 2012 en référant aux heures d’opération du restaurant en mai 2012 et non pas aux heures d’opération du restaurant en vertu des années précédentes. Cela a pour effet de surestimer les ventes du restaurant.
+[48] Le témoignage de l’appelant ne tient pas. Si, comme il le fait valoir, il a répondu en fonction des opérations ponctuelles du restaurant au mois de mai 2012 date du questionnaire et que c’est seulement en septembre 2012 que le restaurant a modifié ses heures d’opération de 8h à 15h à 8h à 16h30, il est difficile de comprendre pourquoi en mai 2012, il n’a pas répondu que les heures d’opération du restaurant étaient de 8h à 15h.
+[49] De plus, selon les données du MEV en activation depuis novembre 2011, des transactions sont enregistrées après 15 heures et cela avant le mois de septembre 2012, notamment aux heures suivantes :
+Journée
+Dernière transaction
+30 octobre 2011
+16h08
+17 novembre 2011
+16h57
+9 décembre 2011
+16h07
+7 janvier 2012
+17h08
+21 février 2012 [prise de repas]
+16h36
+10 mars 2012
+16h42
+29 avril 2012
+16h18
+6 mai 2012
+16h21
+[50] La preuve ne laisse aucun doute, le témoignage de l’appelant quant aux heures d’ouverture et de fermeture du restaurant ne tient pas la route.
+[51] Par conséquent, je suis d’avis que le vérificateur, à la lumière de cette preuve, était justifié de prendre en compte que les heures d’opération du restaurant étaient de 7h30 à 16h30 la semaine et de 8h à 16h les fins de semaine. Par conséquent, il n’y a pas d’ajustement quant aux heures d’ouverture et de fermeture du restaurant.
+(3) Nombre d’employés et heures travaillées par ces derniers [52] L’appelant fait valoir que les heures prises en compte par le vérificateur M. Ibarissen quant aux serveuses et cuisiniers étaient surestimées, ce qui faussait les ventes reconstituées par le ministre.
+[53] À cet égard, l’appelant fait valoir que durant la semaine, la serveuse et le cuisiner quittaient tôt et qu’il cumulait les fonctions de serveur et de cuisiner. L’appelant fait valoir que ses heures de travail au restaurant ne devraient pas être comptabilisées dans la reconstitution des ventes du restaurant, car il ne recevait aucune rémunération pour les heures qu’il y travaillait.
+[54] L’appelant a également fait valoir que les fins de semaine, il n’y avait pas deux serveuses et deux cuisiniers pendant huit heures. Selon son témoignage, il y avait un chevauchement de trois heures quant aux serveuses et un chevauchement de deux heures quant aux cuisiniers.
+[55] De plus, il a fait valoir que les ventes ont aussi été surestimées, car le vérificateur a traité le vendredi comme une journée de la fin de semaine.
+[56] Quant au dernier point, je suis d’accord avec l’appelant que le vendredi n’aurait pas dû être considéré comme une journée de la fin de semaine, le restaurant n’étant ouvert que pour les petits-déjeuners et les déjeuners. Par conséquent, le vendredi devrait être traité comme les autres journées de la semaine, c’est-à-dire un seul serveur et un seul cuisinier pour une période de neuf heures chacun.
+[57] Quant au chevauchement du personnel, je suis d’avis que le témoignage de l’appelant à cet égard est crédible. Le chevauchement du personnel m’apparaît raisonnable, eu égard au type de restaurant, soit d’une capacité d’environ trente personnes. Selon le témoignage de l’appelant, la première serveuse commençait à 8h et terminait à 13h (soit cinq heures), la deuxième serveuse commençait à 11h et terminait à 16h (soit six heures). Ainsi, les heures totales travaillées par les deux serveuses les samedis et dimanches étaient de onze heures, au lieu des seize heures considérées par M. Ibarissen[6]. Par conséquent, un ajustement devra être effectué afin de refléter que les heures travaillées par les serveuses étaient de onze heures les samedis et dimanches.
+[58] Le même raisonnement s’applique pour les cuisiniers. Les samedis et dimanches, le premier cuisinier commençait à 8h et terminait à 13h (soit cinq heures), alors que le deuxième cuisinier commençait à 11h et terminait à 15h (soit quatre heures). Ainsi les heures totales travaillées par les deux cuisiniers étaient de neuf heures les samedis et dimanches au lieu des seize heures considérées par M. Ibarissen[7].
+[59] Quant au plongeur, le vérificateur a pris pour acquis que ce dernier travaillait huit heures les samedis et dimanches. L’appelant, lors de son témoignage, a indiqué que le plongeur travaillait environ que trois ou quatre heures les samedis et dimanches. À mon avis, cela devrait être aussi reflété dans les heures qui ont servi pour la reconstitution des ventes. Par conséquent, pour le plongeur, le vérificateur aurait dû utiliser quatre heures pour les samedis et les dimanches.
+[60] Je tiens à souligner que le vérificateur n’a pas tenu compte du chevauchement des heures du personnel, car le chevauchement des heures a été soulevé pour la première fois par l’appelant lors de l’audience.
+[61] Cependant, l’argument de l’appelant que les heures utilisées par le vérificateur pour reconstituer les ventes devraient être également réduites par les heures où l’appelant remplaçait la serveuse ou le cuisiner ne tient pas. L’appelant fait valoir que souvent la serveuse et/ou le cuisinier partaient plus tôt la semaine et qu’il effectuait leur travail et comme il n’était pas rémunéré, ces heures ne devraient pas être incluses dans les heures utilisées pour reconstituer les ventes du restaurant. Aucune preuve pertinente n’a été présentée à cet effet. De toute manière, cet argument ne tient pas. Pour les fins de reconstitution des ventes en matière de TPS, les heures travaillées par l’appelant en effectuant des tâches de serveur ou de cuisinier au restaurant génèrent des fournitures taxables, peu importe que ce dernier soit rémunéré ou pas.
+(4) Restaurant à service complet ou restaurant à service restreint
+[62] Lors de l’audience, il y a eu un débat à savoir si le restaurant exploité par l’appelant en était un à service complet ou à service restreint. L’appelant faisait valoir que le restaurant en était un à service restreint. L’intimée faisait valoir que le restaurant en était un à service complet. Les ratios salaires, traitements et avantages sociaux de Statistique Canada utilisés pour un restaurant à service complet sont plus faibles, ainsi l’appelant est favorisé par le choix de l’intimée. De toute manière, je suis d’avis que le restaurant de l’appelant en est un à service complet. Par conséquent, je suis satisfaite des ratios utilisés par le ministre relativement aux salaires, traitements et avantages sociaux.
+(5) Montant concédé par l’appelant
+[63] Lors de l’audience, l’intimée a fait valoir que dans la taxe cotisée au montant de 36 341,47 $, il y a un montant de 3 264,09 $ qui est relatif aux taxes perçues, mais non remises. Ce montant est le résultat des retards des déclarations de TPS par l’appelant. L’avocate de l’appelante a concédé que ce montant n’était pas en litige.
+V. Pénalités selon l’article 285 de la LTA
+[64] L’article 285 LTA impose une pénalité à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration :
+285.-Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse—appelés «déclaration» au présent article—établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité de 250 $ ou, s’il est plus élevé, d’un montant égal à 25 % de la somme des montants suivants:
+a) si le faux énoncé ou l’omission a trait au calcul de la taxe nette de la personne pour une période de déclaration, le montant obtenu par la formule suivante:
+A – B où:
+A représente la taxe nette de la personne pour la période,
+B le montant qui correspondrait à la taxe nette de la personne pour la période si elle était déterminée d’après les renseignements indiqués dans la déclaration;
+b) si le faux énoncé ou l’omission a trait au calcul de la taxe payable par la personne, l’excédent éventuel de cette taxe sur le montant qui correspondrait à cette taxe si elle était déterminée d’après les renseignements indiqués dans la déclaration;
+c) si le faux énoncé ou l’omission a trait au calcul d’un remboursement prévu par la présente partie, l’excédent éventuel du remboursement qui serait payable à la personne s’il était déterminé d’après les renseignements indiqués dans la déclaration sur le remboursement payable à la personne.
+[...]
+[65] Le fardeau de prouver que l’appelant a sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration incombe à l’intimée. À cet effet, le paragraphe 285.1(16) de la LTA énonce ce qui suit :
+285.1(16)-Dans tout appel interjeté en vertu de la présente partie au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 285, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[66] En l’espèce, pour qu’une pénalité soit imposée à l’appelant, l’intimée doit établir que dans sa déclaration de TPS:
+− l’appelant savait qu’il faisait un faux énoncé quant aux montants des fournitures taxables du restaurant, ou
+− dans des circonstances équivalant à une faute lourde, l’appelant a omis de déclarer toutes les fournitures taxables du restaurant dans sa déclaration de TPS.
+[67] À mon avis, dans le cas en l’espèce, l’appelant savait qu’il ne déclarait pas toutes ses fournitures taxables. À cet effet, lors de son témoignage il a indiqué qu’il lui arrivait de ne pas toujours fermer le tiroir de la caisse enregistreuse entre deux fournitures taxables. L’expert de l’appelant, M. Delambre, a aussi admis que l’appelant n’avait pas déclaré toutes ses fournitures taxables.
+[68] Si je m’étais trompée quant au premier volet de l’article 285 de la LTA, je suis également d’avis que les pénalités sur le deuxième volet de l’article 285 de la LTA sont justifiées, c’est-à-dire que l’appelant dans des circonstances équivalant à une faute lourde a omis d’inclure toutes ses fournitures taxables pour les périodes en litige dans ses déclarations de TPS.
+[69] La décision phare en matière de pénalité relativement à ce qui constitue une faute lourde est la décision du juge Strayer dans Venne[8]. Le juge Strayer énonce ce qui suit:
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[70] Je suis d’avis qu’en l’espèce, le comportement de l’appelant correspond à une action délibérée, une indifférence au respect de la Loi. Sans répéter tous les faits, il suffit de dire que l’appelant, malgré les exigences de l’article 286 de la LTA, ne tenait pas des registres adéquats pour établir ses ventes. Qui plus est, l’appelant jetait toutes les pièces qui auraient pu justifier ses ventes. Je suis d’accord avec l’intimée que l’appelant agissait ainsi, car en détruisant toutes les preuves pouvant justifier ses ventes l’appelant pensait se protéger. L’appelant exploitait son restaurant depuis le milieu des années 1990; on ne peut pas dire que dans les années relatives à la vérification soit les périodes de 2010 à 2011 que l’appelant était un néophyte. Il ressort de la preuve que l’appelant savait que s’il ne fermait pas le tiroir-caisse entre deux clients, le MEV ne pouvait tenir compte de transactions non poinçonnées. De plus, l’écart entre les ventes déclarées et les ventes reconstituées est important, et cela, malgré les ajustements que j’ai proposés.
+[71] À la lumière de faits que j’ai énoncés, je suis d’avis que le ministre était justifié d’imposer des pénalités pour les périodes en litige.
+VI. Disposition
+[72] L’appel est accueilli sur la base suivante :
+− un ajustement devra être effectué afin de refléter que pour la période du 1er janvier 2010 au 1er octobre 2011, le restaurant était ouvert six jours par semaine;
+Pour la période du 1er janvier 2009 au 30 septembre 2012 :
+− le vendredi devrait être traité comme les autres journées de la semaine, c’est-à-dire un seul serveur et un seul cuisinier pour une période de neuf heures;
+− les heures travaillées par les serveuses étaient de onze heures les samedis et dimanches;
+− les heures travaillées par les deux cuisiniers étaient de neuf heures les samedis et dimanches au lieu de seize heures;
+− les heures travaillées par le plongeur étaient de quatre heures les samedis et les dimanches.
+[73] À tous autres égards, la cotisation dont l’avis est daté du 14 mars 2013 demeure inchangée.
+[74] Le tout avec frais, en faveur de l’intimée.
+Ces motifs de jugement modifiés sont émis en remplacement des motifs du jugement datés du 15 décembre 2017.
+Signé à Ottawa, Canada, ce 6e jour de février 2018.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2017 CCI 250
+Nº DU DOSSIER DE LA COUR :
+2014-820(GST)G
+INTITULÉ DE LA CAUSE :
+CHARLES LANGHEIT c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 6 octobre 2015 et les 20 et 21 juin 2017
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DES MOTIFS DU JUGEMENT :
+Le 6 février 2018
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Julie Gaudreault-Martel
+Avocate de l’intimée :
+Me Christine Labbé
+AVOCATES INSCRITES AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Julie Gaudreault-Martel
+Cabinet :
+BCF s.e.n.c.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la transcription du 6 octobre 2015, volume 1, témoignage de M. Delambre, p 71, lignes 22 à 28, p 72, lignes 10 à 12, p 86, lignes 8 et 9 et lignes 15 à 17.
+[2] Pièce A-2, p. 38-39.
+[3] Pièce A-2, p. 39.
+[4] 125319 Canada Ltée c La Reine, 2013 CCI 368, au paragraphe 34; Landry c ARQ, 2014 QCCQ 5538, au paragraphe 18; 9091-2239 Québec inc. c La Reine, 2016 CCI 198, au paragraphe 58.
+[5] Brasserie Futuriste de Laval c La Reine, 2006 CCI 503.
+[6] Voir : Cahier de l’intimée, pièce I-1, onglet 6.
+[7] Ibid.
+[8] Venne c La Reine, [1984] ACF no 314 (CF, 1ère instance.)

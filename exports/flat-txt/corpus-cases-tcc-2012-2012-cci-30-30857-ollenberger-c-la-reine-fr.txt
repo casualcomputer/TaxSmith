@@ -1,0 +1,147 @@
+Title: Ollenberger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30857/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-30-30857-ollenberger-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-16
+
+# Ollenberger c. La Reine
+
+- Citation: 2012 CCI 30
+- Decision date: 2012-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7354, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ollenberger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-16
+Référence neutre
+2012 CCI 30
+Numéro de dossier
+2009-3877(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3877(IT)G
+ENTRE :
+RANDY J. OLLENBERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 octobre 2011, à Calgary (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelant :
+Me Jean-Philippe Couture
+Me Pat Lindsay
+Avocate de l’intimée :
+Me Cynthia L. Isenor
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté conformément aux motifs du jugement ci-joints.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 16e jour de février 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 15e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 30
+Date : 20120216
+Dossier : 2009-3877(IT)G
+ENTRE :
+RANDY J. OLLENBERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] En septembre 2007, l’appelant a prêté une somme de 600 000 $ à la société AEF (« AEF »). Le prêt n’a pas été remboursé dans le délai exigé et, dans sa déclaration de revenus pour l’année 2007, l’appelant a déclaré une perte au titre d’un placement d’entreprise (« PTPE ») de 613 772 $ à l’égard de ce prêt. Le ministre du Revenu national (le « ministre ») a reconnu que l’appelant avait le droit de déduire une perte en capital. Toutefois, le ministre ne l’a pas autorisé à déduire une PTPE compte tenu du fait qu’AEF n’est pas une « société exploitant une petite entreprise » parce qu’elle n’exploitait pas activement une entreprise en 2007 ou dans les 12 mois précédents.
+[2] La seule question en litige dans le présent appel est de savoir si AEF était une « entreprise exploitée activement » pendant la période pertinente.
+[3] Ont témoigné à l’audience, Doug Djan, pour le compte de l’appelant, et Karla MacDonald, une agente des appels de l’Agence du revenu du Canada (l’« ARC »), pour le compte de l’intimée.
+[4] L’appelant dirige BMO Marchés des capitaux, Amérique du Nord. À ce titre, il gère un groupe de 22 professionnels qui analysent les sociétés pétrolières et gazières au Canada et aux États-Unis afin de déterminer les sociétés qui constituent de bonnes occasions d’investissement pour les investisseurs professionnels.
+[5] Doug Djan a déclaré que Scott Kisk et lui-même ont créé AEF, une entreprise dont les fins commerciales étaient d’acheter des champs pétrolifères et gaziers en difficulté, mais en production, et d’exploiter ces biens ou de les vendre, selon l’option la plus rentable.
+[6] L’appelant n’avait pas de connaissance indépendante des activités d’AEF et, dans son témoignage, il a décrit les événements ayant mené à l’octroi d’un prêt à AEF et à la déduction d’une PTPE dans sa déclaration de revenus de 2007. Voici une description de ces événements.
+[7] L’appelant a déclaré que Doug Djan a communiqué avec lui le 8 septembre 2007 relativement à une occasion d’investissement. M. Djan s’est présenté comme étant le président d’AEF. Selon l’appelant, M. Djan a expliqué qu’AEF avait fait une offre de 11 875 750 $ en vue de l’acquisition des actifs pétrolifères et gaziers en production de Vanquish Oil & Gas Corporation et de King Energy Inc. (les « biens de Vanquish ») d’Ernst & Young Inc. (le « séquestre »), qui agissait comme administrateur-séquestre provisoire pour les biens de Vanquish. Afin de signer la convention d’achat-vente visant les biens de Vanquish, AEF devait verser au séquestre un dépôt de 10 % au plus tard le 10 septembre 2007. AEF a informé l’appelant qu’une partie du financement pour le dépôt avait échoué et qu’un montant supplémentaire de 600 000 $ devait être versé au plus tard le 10 septembre 2007.
+[8] L’appelant, après s’est assuré de l’exactitude des affirmations de M. Djan, a prêté le montant de 600 000 $ à AEF, le 10 septembre. En contrepartie du prêt, AEF et M. Djan ont convenu de payer à l’appelant une commission de 100 000 $. Le prêt devait être entièrement remboursé au plus tard le 4 octobre 2007.
+[9] À un moment entre le 10 septembre et le 21 septembre, AEF a découvert des vices dans le titre des biens de Vanquish. Il y a eu désaccord sur le coût pour remédier à ces vices et, le 10 octobre 2007, le séquestre a envoyé une lettre à AEF résiliant la convention d’achat-vente. Le dépôt a été saisi conformément à la convention d’achat-vente. L’appelant a alors tenté de déclarer une PTPE pour le montant du dépôt.
+[10] Dans son témoignage, M. Djan a déclaré qu’AEF a produit le document intitulé « sommaire des activités de l’entreprise » (pièce 1, onglet 35) en vue de réunir des fonds pour acheter les biens de Vanquish. Le paragraphe suivant se trouve à la page 5 de ce document :
+[traduction]
+AEF offre jusqu’à concurrence de 75 % d’actions ordinaires de la société et une représentation au conseil pour 50 millions de dollars. L’équipe de direction actuelle conservera 25 % des actions ordinaires et une représentation au conseil. À titre subsidiaire, AEF considérera ... (sic)
+[11] AEF était située dans des locaux qu’elle partageait avec d’autres entreprises détenues par Scott Kisk. M. Djan a déclaré qu’AEF avait des bureaux, des ordinateurs, son propre numéro de téléphone et ses propres articles de bureau. Toutes les dépenses étaient payées par M. Djan et Scott Kisk.
+[12] M. Djan a déclaré que Scott Kisk et lui-même travaillaient à temps plein pour AEF en 2006 et en 2007 en vue de la réalisation de ses fins commerciales. Ils ont mené des recherches pour trouver des biens pouvant être achetés et des investisseurs et ont pris des arrangements avec Provident Group Asset Management relativement à une lettre d’engagement pour l’achat des biens de Vanquish.
+[13] M. Djan et Scott Kisk n’ont jamais touché une rétribution parce qu’AEF n’avait aucun revenu.
+[14] M. Djan a déclaré qu’AEF avait une équipe de direction et que les noms des membres de l’équipe étaient indiqués dans le sommaire des activités de l’entreprise, ainsi que leur expérience.
+[15] Les trois définitions pertinentes pour rendre une décision se trouvent à l’article 248 de la Loi et peuvent se résumer ainsi :
+a) « société exploitant une petite entreprise » s’entend d’une « société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont […] soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada ».
+b) « entreprise exploitée activement » s’entend de « […] toute entreprise exploitée par le contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels ». AEF n’était ni une entreprise de placement déterminée, ni une entreprise de prestation de services personnels.
+c) « entreprise » s’entend des « professions, métiers, commerces, industries ou activités de quelque genre que ce soit […] à l’exclusion toutefois d’une charge ou d’un emploi ».
+[16] Dans ses observations écrites, l’avocat de l’appelant a écrit ce qui suit :
+[TRADUCTION]
+70b) Le terme défini « entreprise exploitée activement » a seulement pour effet d’exclure une « entreprise de placement déterminée » et une « entreprise de prestation de services personnels ». Ces concepts ne sont pas en litige et, à ce titre, « entreprise exploitée activement » signifie seulement « entreprise » en l’espèce.
+[17] Je ne souscris pas à l’affirmation de l’appelant selon laquelle la définition d’« entreprise exploitée activement » signifie seulement « entreprise ». Les termes « exploitée activement » sont utilisés comme qualificatifs du mot « entreprise ». Ils servent à en modifier le sens et agissent comme descriptifs, ce qui ne devrait pas être négligé. Voir Pierre-André Côté, Interprétation des lois, 4e éd. (Scarborough, Canada, 2011) à la page 295 (version anglaise).
+[18] En lisant la définition dans son ensemble, je conclus qu’une « entreprise exploitée activement » doit être « exploitée ». Par conséquent, la question est de savoir si je dispose d’une preuve suffisante pour conclure qu’AEF exploitait une telle entreprise.
+[19] La seule preuve dont je disposais en ce qui a trait aux activités d’AEF était le document [traduction] « Sommaire des activités de l’entreprise » (ci‑après « sommaire des activités de l’entreprise », ainsi que le témoignage de M. Djan. Compte tenu de l’ensemble de la preuve, ainsi que des incohérences dans le témoignage de M. Djan et des inexactitudes contenues dans le document, je dois conclure que la preuve dans son ensemble n’est pas crédible.
+[20] Les incohérences suivantes ont été relevées.
+[21] Selon le sommaire des activités de l’entreprise, M. Djan était détenteur d’un baccalauréat en droit, en marketing et en affaires de l’Université Pepperdine et de l’Université de Calgary. Cependant, M. Djan a déclaré, lors de son témoignage, qu’il avait un baccalauréat en science politique de l’Université de la Saskatchewan et un baccalauréat en marketing de la l’Université Pepperdine. Bien qu’il s’agisse d’une incohérence anodine, elle illustre le manque de véracité qui se retrouve dans l’ensemble de sa preuve.
+[22] Même la première ligne du sommaire des activités de l’entreprise était inexacte. En effet, il y est indiqué que la société AEF a été créée en 2005, alors qu’AEF a été constituée en société le 27 avril 2006.
+[23] AEF n’a jamais été détentrice d’un bien immobilier et pourtant le sommaire des activités de l’entreprise contient le paragraphe suivant :
+[traduction]
+Jusqu’à maintenant, AEF a acquis cinq biens en production dans le bassin sédimentaire de l’Ouest canadien, à savoir Provost, Coronation, Lochend, Stanmore et Viewfield. AEF a actuellement 41 puits produisant du pétrole et quatre puits produisant du gaz situés sur ces terres. Ces puits produisent environ 350 bep/jour, et nous planifions en optimiser la production pour qu’elle passe à 525 bep/jour d’ici la fin de l’année. AEF est en voie d’acquérir un autre actif de Flagship Energy, ce qui représentera cinq nouveaux biens produisant 426 bep/jour. Ces terres sont prêtes pour notre programme élargi de forage d’exploration. Environ 20 possibilités de forage, de remise en production et de raccordement sont étayées par plus de 50 km de données sismiques en 2D et 3D. Des lignes sismiques ont été tracées pour les puits qui sont en attente d’un raccordement, et les probabilités de succès des forages sont très élevées le long de ces lignes sismiques. Ceci est confirmé par la production des puits situés sur les lignes sismiques existantes, ainsi que des puits existants sur les terres adjacentes à ces lignes.
+[24] Lors du contre-interrogatoire, M. Djan a admis qu’AEF ne possédait pas de biens immobiliers et que les biens Provost, Coronation, Lochend, Stanmore et Viewfield, auxquels renvoyait le sommaire des activités de l’entreprise, étaient détenus par Troy Bilon.
+[25] Le libellé du sommaire des activités de l’entreprise induisait le lecteur en erreur en lui faisant croire qu’AEF avait une équipe de direction et que les membres de cette équipe étaient des actionnaires d’AEF.
+[26] M. Djan a également déclaré qu’AEF comptait plusieurs actionnaires. Or, le certificat de conformité du Alberta Corporate Registration System n’indique qu’un seul nom d’actionnaire pour AEF, celui de Scott Kish. Son nom n’apparaissait pas dans le sommaire des activités de l’entreprise, ni comme faisant partie de l’équipe de direction, ni comme actionnaire d’AEF.
+[27] Lorsque M. Djan a été questionné au sujet de l’absence du nom de Scott Kish dans le sommaire des activités de l’entreprise, il a déclaré qu’en 2009 le nom Scott Kish avait été supprimé lors d’une révision du sommaire des activités de l’entreprise. Cela me semble difficile à croire et soulève plusieurs questions auxquelles la preuve m’ayant été présentée ne répond pas. Si M. Djan avait modifié le document, pourquoi avoir laissé la date de juillet 2007 sur la page couverture? Pourquoi a-t-il révisé le sommaire des activités de l’entreprise lorsque l’objectif était de réunir des fonds pour acheter les biens de Vanquish? (La possibilité d’acquérir ces biens n’existait plus.) Pourquoi aurait-il laissé les noms des membres allégués de l’équipe de direction dans le sommaire des activités de l’entreprise, alors que, selon la preuve, ces personnes avaient demandé, le 10 octobre 2007, que leurs noms soient retirés de toute participation à l’AEF?
+[28] Rien dans la preuve dont je dispose ne me permettrait de croire que les personnes nommées dans le sommaire des activités de l’entreprise ont participé à la gestion d’AEF. Aucune de ces personnes n’a été appelée à témoigner.
+[29] L’appelant a soutenu que, dans le cadre du contrôle préalable, il avait parlé à Rick Johnson, qui était désigné dans le sommaire des activités de l’entreprise comme étant le responsable financier. L’appelant n’a pas donné un compte rendu de sa conversation avec Rick Johnson et ne l’a pas appelé à témoigner.
+[30] Troy Bilon était désigné dans le sommaire des activités de l’entreprise comme étant le directeur de la géologie. Cependant, dans son témoignage, M. Djan a déclaré que Troy Bilon se joindrait à AEF seulement après l’acquisition des biens de Vanquish. Il a affirmé ce qui suit : [traduction] « nous avions conclu une entente de principe selon laquelle Troy Bilon et Core Exploration devaient se joindre à notre société à la date de clôture de l’achat de l’actif de Vanquish ».
+[31] La convention d’achat-vente conclue avec le séquestre et signée par M. Djan, le 10 septembre 2007, indiquait un numéro d’inscription aux fins de la TPS pour AEF. Je présume que c’est M. Djan qui a donné ce numéro au séquestre. Cependant, la preuve a révélé qu’AEF n’était pas inscrite aux fins de la TPS.
+[32] L’avocate de l’intimée a demandé à M. Djan si AEF avait des fournitures de bureau. Voici ce qu’il a répondu :
+[traduction]
+Les articles de bureau, les cartes professionnelles et le papier en-tête portaient tous la bannière d’AEF, ainsi que nos prospectus, nos bulletins, notre site Web – ce qui indique clairement que nous sommes une entreprise de – je veux simplement dire que, lorsque vous demandez 50 millions de dollars à quelqu’un, madame la juge, vous devez en quelque sorte vous appuyer sur plus que simplement du vent. Vous avez besoin d’un attirail, si vous voulez, vous permettant d’être légitime, j’imagine, dans ce secteur d’activités, donc –
+[33] L’avocate de l’intimée a résumé avec justesse la preuve de M. Djan :
+[traduction]
+M. Djan semblait sous-entendre qu’il avait tout l’attirail commercial, selon le terme qu’il a utilisé, et qu’il devait donner aux investisseurs potentiels quelque chose de plus que du vent. Alors qu’en réalité, c’est exactement cela qu’il leur a donné. Je peux décider demain de créer de très jolies cartes professionnelles. Je peux préparer un sommaire des activités de l’entreprise. Je peux faire toutes ces choses, cela ne fait pas en sorte de créer une entreprise, et c’est ce que nous ne voyons pas ici.
+[34] Il incombait à l’appelant de produire une preuve crédible à l’appui de sa thèse selon laquelle AEF était une entreprise exploitée activement et qu’il avait le droit de déduire une PTPE. Il ne l’a pas fait.
+[35] L’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 16e jour de février 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 15e jour de juin 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 30
+No DU DOSSIER DE LA COUR : 2009-3877(IT)G
+INTITULÉ : RANDY J. OLLENBERGER c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : CALGARY (ALBERTA)
+DATE DE L’AUDIENCE : Le 24 octobre 2011
+MOTIFS DE JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 16 février 2012
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jean-Philippe Couture
+Me Pat Lindsay
+Avocate de l’intimée :
+Me Cynthia L. Isenor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Jean-Philippe Couture
+Pat Lindsay
+Cabinet : Borden Ladner Gervais
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

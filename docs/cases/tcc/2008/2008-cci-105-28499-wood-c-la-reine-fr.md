@@ -1,0 +1,150 @@
+---
+title: "Wood c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28499/index.do"
+last_modified: "2008-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 105"
+citation2: ""
+neutral_citation: "2008 CCI 105"
+decision_date: "2008-02-22"
+language: "fr"
+item_id: "28499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1296
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:08:02.116000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "113283016033fdaddcaa75f3a7a20c6c6b5e552f0602f5173d1697fc2deeeaca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wood c. La Reine
+
+- Citation: 2008 CCI 105
+- Decision date: 2008-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1296, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wood c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-22
+Référence neutre
+2008 CCI 105
+Numéro de dossier
+2007-1964(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1964(IT)I
+ENTRE :
+HEATHER M. WOOD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 15 février 2008 à Ottawa (Canada)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Représentant de l’appelante :
+Ronald J. Wood
+Avocats de l’intimée :
+Tanis Halpape (stagiaire en droit)
+Me Marie-Eve Aubry
+____________________________________________________________________
+JUGEMENT
+L’appel à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli, sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa (Canada) ce 22e jour de février 2008.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI105
+Date : 20080222
+Dossier : 2007-1964(IT)I
+ENTRE :
+HEATHER M. WOOD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] Comme je l’ai mentionné lors de l’audience, l’appel est accueilli pour le motif que l’intimée n’a présenté aucune preuve qui aurait permis à la Couronne `de se décharger du fardeau qui lui incombait. Je tiens à noter dès le début des présents motifs que l’appelante a été représentée par son époux.
+[2] La décision d’accueillir l’appel consignée dans les présents motifs est fondée sur les conclusions tirées par la Cour lors de l’audience sans qu’aucune preuve ait été présentée.
+[3] L’appel porte sur le retrait de fonds d’un REER effectué en 2004. L’appelante a soutenu que ce retrait constituait un retrait exclu aux termes de l’article 146.02 de la Loi de l’impôt sur le revenu. Le retrait effectué par l’appelante a servi à financer la participation de son époux à un programme d’études. La réponse à l’avis d’appel indiquait expressément que la raison de la nouvelle cotisation et de la ratification refusant la demande de l’appelante était que le collège qui offrait le programme particulier auquel participait l’époux de l’appelante (le « collège ») n’était pas un établissement d’enseignement agréé. Cette affirmation était qualifiée d’hypothèse.
+[4] Lors de l’audience, l’intimée a voulu modifier la réponse. Puisque l’appelante n’a pas consenti à cette modification, il fallait obtenir l’autorisation de la Cour. Cette autorisation n’a pas été accordée. La modification proposée (dont le premier avis n’avait été donné à l’appelante que quelques semaines avant l’audience) avait pour but de remplacer les hypothèses initiales du ministre par des hypothèses relatives à d’autres exigences de la disposition applicable, selon lesquelles le programme en cause n’était pas un programme à temps plein et l’époux de l’appelante n’était pas un étudiant à temps plein. Il était dès lors admis que le collège était un établissement d’enseignement agréé.
+[5] L’intimée n’a appelé aucun témoin pouvant confirmer les hypothèses initiales et expliquer les fondements de la nouvelle cotisation et de la ratification. Elle a affirmé être en possession d’une lettre écrite par le vérificateur. J’ai refusé d’admettre cette lettre en preuve puisqu’il ne s’agit pas de la meilleure preuve et que son auteur n’aurait pas pu être contre-interrogé. Les circonstances de la présente affaire ne justifient pas que l’on assouplisse l’application des règles de la preuve à cet égard. La substitution d’un fondement complètement nouveau au fondement initial de la cotisation, et ce, à la dernière minute et dans une affaire où l’appelante n’est pas représentée par un avocat, rend nécessaire la présence du mandataire du ministre afin que celui-ci puisse régler des questions et des inquiétudes évidentes.
+[6] Puisque j’ai rejeté la demande de modification de la réponse, c’est à la Couronne qu’incombe le fardeau de preuve quant aux nouvelles questions soulevées en l’espèce.
+[7] L’intimée n’a pas demandé d’ajournement. La Cour s’est toutefois demandé si elle devait en accorder un. Aucun ajournement n’a été accordé. L’ajournement aurait été grandement préjudiciable à l’appelante, puisqu’il aurait permis à la Couronne de mieux se préparer à plaider une cause qu’elle devait déjà être prête à plaider ce jour‑là.
+[8] La Cour a expliqué à l’appelante qu’elle n’avait rien à prouver, car le fardeau de la preuve incombait à l’intimée. La Cour a demandé à l’intimée comment elle souhaitait agir. L’intimée ne pouvait plus contre-interroger les témoins appelés par l’appelante et elle n’avait convoqué aucune personne pouvant témoigner pour son compte. Cependant, comme elle voulait faire admettre en preuve certains documents, l’intimée a donc cherché à faire témoigner l’appelante (et aussi, sans doute, son époux).
+[9] La présente affaire soulève une question à laquelle la Cour doit souvent faire face : jusqu’où le juge du procès doit-il aller pour aider un appelant qui n’est pas représenté par un avocat? À mon avis, le représentant de l’appelante n’était pas un témoin contraignable. On ne lui avait pas signifié de subpoena ou d’avis d’intention de l’appeler à témoigner. Il était libre de partir. On n’avait pas obtenu sa présence. S’il avait eu un avocat, ce dernier aurait simplement pu lui suggérer de partir si sa présence n’avait pas été obtenue. L’article 146 des Règles de la Cour canadienne de l’impôt (procédure générale) permet d’obtenir la présence d’une personne uniquement si celle-ci est une partie opposée (cela n’est pas le cas en l’espèce) ou si un subpoena ou un avis d’intention de l’appeler à témoigner lui a été signifié. Compte tenu de ces critères, la présence du représentant de l’appelante n’a pas été obtenue et l’intimée ne pouvait pas le contraindre à témoigner. Il n’est pas tenu d’aider l’intimée. Si son témoignage était nécessaire, il aurait fallu lui signifier un avis. En règle générale, les témoins doivent avoir le temps de préparer leur témoignage et de rassembler des dossiers et des documents pour pouvoir s’assurer de la fiabilité de leur déposition; il faut aussi, lorsque les circonstances l’exigent, leur verser une indemnité de présence avant le procès.
+[10] L’appelante, en tant que partie opposée, aurait pu être contrainte à témoigner. Il est cependant évident qu’elle n’aurait pas pu attester la fiabilité des documents de l’intimée. L’appelante ne pouvait pas fournir la meilleure preuve quant aux questions en litige. Pour que des documents portant sur la nature du programme puissent être admis en preuve, un témoin doit attester leur véracité. Le vérificateur de l’Agence du revenu du Canada, qui s’est apparemment fondé sur ces documents à un moment donné, aurait dû être présent pour les faire admettre. Sinon, un représentant du collège aurait dû être appelé pour fournir la meilleure preuve quant à la nature du programme en cause. L’appelante, qui n’a pas fréquenté le collège, ne devrait pas être contrainte à témoigner étant donné que la Couronne aurait pu obtenir une meilleure preuve.
+[11] Dans ce contexte, le fait de contraindre l’appelante à témoigner sans l’aide d’un avocat encouragerait la transgression des exigences de preuve applicables à l’ensemble de l’instance. Je crois que l’application de la règle permettant à une partie d’obtenir la présence d’une personne à titre de témoin implique une certaine discrétion, surtout dans une instance qui est régie par la procédure informelle et où l’équité procédurale et l’intérêt de la justice ne seraient pas favorisés par son application[1]. C’est la partie sur laquelle repose le fardeau de la preuve qui doit tenir compte des exigences raisonnables quant à la preuve et respecter ces dernières, surtout lorsqu’il s’agit de la Couronne et qu’elle est représentée par un avocat alors que la partie adverse ne l’est pas.
+[12] Comme je l’ai déjà expliqué, c’est l’intimée, qui a soulevé une nouvelle question de fait à la dernière minute, qui est tenue de présenter des éléments de preuve. Les documents portant sur le programme d’études, les heures de cours et d’autres sujets semblables, sur lesquels l’intimée s’était vraisemblablement fondée avant l’audience, auraient dû être présentés en preuve par le truchement des témoignages des personnes qui les ont étudiés et s’y sont fiées, et non pas en faisant témoigner l’épouse d’un étudiant, même s’il s’agit de la partie adverse. Le témoignage pertinent aurait été celui de la personne qui connaît la source de ces documents et les raisons pour lesquelles on devrait s’y fier et y donner de l’importance. On peut présumer que cette personne est le vérificateur. En effet, comme je l’ai précédemment suggéré, un représentant du collège – une personne ayant une connaissance de première main des nouveaux faits en litige – aurait pu être appelé à témoigner. En autorisant l’intimée à interroger l’appelante, je lui aurais permis une dernière, et vaine, tentative pour échapper aux conséquences inévitables de son manque de préparation face à une décision qui a renversé le fardeau de la preuve. À mon avis, l’intimée n’aurait pas pu procéder à l’interrogatoire de l’appelante, qui n’a que peu de connaissances en droit et qui n’est pas représentée par un avocat, sans l’intervention de la Cour. La Cour ne devrait pas avaliser l’application d’une règle qui aurait permis à l’intimée de tenter de faire confirmer sa preuve par l’appelante. C’est pour ces raisons que je n’ai pas permis à l’intimée d’appeler l’appelante à témoigner.
+[13] À mon avis, l’intimée a porté un coup fatal à sa position en omettant de convoquer pour son propre compte une personne qui aurait pu témoigner quant à l’hypothèse en cause et aux faits dont la Couronne aurait dû avoir connaissance (par exemple, la nature des programmes offerts par le collège). En l’espèce, l’intérêt de la justice est mieux servi par la décision de refuser la présentation de preuves qui ne sont pas conformes, à mon avis, à la règle de la meilleure preuve, laquelle a pour but d’assurer la fiabilité des conclusions. La Couronne n’a pas réussi, en l’espèce, à se conformer à cette règle, et un assouplissement de cette règle n’a pas été permis.
+[14] Par conséquent, l’audience a pris fin sans que l’intimée – la partie ayant le fardeau de présenter des preuves pour soutenir ses nouvelles hypothèses – ait présenté de preuve. Les parties ont été informées que l’appel allait donc être accueilli.
+[15] L’appel est accueilli sans dépens. Le ministre agira comme si le programme d’études en cause était conforme aux exigences de l’article 146.02 de la Loi de l’impôt sur le revenu.
+Signé à Ottawa (Canada) ce 22e jour de février 2008.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 7e jour d’avril 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI105
+Nº DU DOSSIER DE LA COUR :
+2007-1964(IT)I
+INTITULÉ :
+Heather M. Wood et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+Le 15 février 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 22 février 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Ronald J. Wood
+Avocats de l’intimée :
+Tanis Halpape (stagiaire en droit)
+Me Marie-Eve Aubry
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Ce pouvoir discrétionnaire est incorporé aux règles de la Cour par l’article 9 des Règles de la Cour canadienne de l’impôt (procédure générale) et par le paragraphe 21(3) des Règles de la Cour canadienne de l’impôt (procédure informelle).

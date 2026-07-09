@@ -1,0 +1,238 @@
+---
+title: "Hazan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29006/index.do"
+last_modified: "2008-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 485"
+citation2: ""
+neutral_citation: "2008 TCC 485"
+decision_date: "2008-08-29"
+language: "en"
+item_id: "29006"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6754
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:53:06.514000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "017eddd8a2a47adfc199799f6975d3ddb083b071eaf9782be844be86f2a73e12"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hazan v. The Queen
+
+- Citation: 2008 TCC 485
+- Decision date: 2008-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6754, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hazan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-29
+Neutral citation
+2008 TCC 485
+File numbers
+2006-3177(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3177(IT)G
+BETWEEN:
+DANIEL HAZAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on August 25, 2008, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Henri Simon
+Émilie-Rachel Bannon
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act ("the Act") for the 2001 and 2002 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amounts of C$365,887 and C$199,434, which the Appellant received from Triweb Trading Corporation Inc. ("Triweb") and which were added to his income for those respective years, were not investment income from Triweb and should not have been included as such in the Appellant's income under sections 3 and 9 of the Act.
+The penalties imposed under subsection 163(2) of the Act are accordingly set aside.
+The Appellant shall be entitled to costs.
+Signed at Montréal, Quebec, this 29th day of August 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 7th day of October 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 485
+Date: 20080829
+Docket: 2006-3177(IT)G
+BETWEEN:
+DANIEL HAZAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from two assessments made by the Minister of National Revenue ("the Minister") for the 2001 and 2002 taxation years. By those assessments, C$365,887 (US$236,300) was added to the Appellant's income for 2001 and C$199,434 (US$127,004) was added to his income for 2002. The Minister also imposed a penalty under subsection 163(2) of the Income Tax Act ("the Act") for failure to report this additional income.
+[2] At the hearing, counsel for the Respondent stated that he was relying solely on sections 3 and 9 of the Act as the basis for taxing the amounts in issue.
+[3] According to the pleadings, the Appellant received the amounts in issue from Triweb Trading Corporation Inc. ("Triweb"), which operated a securities brokerage. Consequently, it is the Respondent's position that the impugned amounts thereby received constitute investment income that was earned by the Appellant in the course of the years 2001 and 2002.
+[4] As for the Appellant, in his Notice of Appeal he alleges he was acting as an intermediary for Contact Development Inc. ("Contact"), which, through another intermediary of no significance to the instant case, gave Triweb US$470,000 to invest. The Notice of Appeal states that since Triweb was unable to achieve the desired return on the investment, Contact demanded the complete reimbursement of the amount by means of a remittance to the Appellant. It is alleged that the Appellant accordingly received the assessed amounts from Triweb, without interest. Consequently, the Appellant submits that these amounts do not constitute income, but rather the reimbursement of an amount invested with Triweb.
+[5] During the preliminary remarks, each party acknowledged that Contact did not legally exist and that the Appellant acted and signed all documents on its behalf. Moreover, neither counsel saw fit to call the Appellant or Triweb representative Daniel Zini as a witness, even though both were available to testify.
+[6] Counsel for the Respondent adduced a series of documents in evidence with the consent of the Appellant's counsel. The documents were either issued by, or pertained to, the Appellant or Triweb. Counsel for the Appellant submits that the documents adduced by the Respondent's counsel establish, in and of themselves, that the amounts that Triweb transferred to the Appellant were a loan repayment, or, quite simply, the reimbursement of a loss incurred by Triweb on the amounts invested by the Appellant through Contact. In the submission of counsel for the Appellant, the Appellant is personally bound by any document signed on behalf of Contact because it has been determined that Contact does not exist. In this regard, he cites the decision of the Quebec Court of Appeal in Investissement Ponari Mondial Inc. v. Mordehay, 2007 QCCA 892 (CanLII). Thus, he submits that it was unnecessary to call the Appellant or Mr. Zini as a witness. Counsel for the Respondent is of the opinion that it was not up to him to summon the Appellant or the Triweb representative because the Appellant bears the burden of proof with respect to the taxability of the amounts received. In this regard, he relies on remarks made in the treatise by Sopinka and Lederman, The Law of Evidence in Civil Cases, cited by our Court in Enns v. Minister of National Revenue, 1987 CarswellNat 397, [1987] 1 C.T.C. 2256, 87 D.T.C. 208.
+[7] In the Reply to the Notice of Appeal, the Respondent primarily questions the origin of the funds invested with Triweb. The Respondent says that the Appellant first claimed that the amounts remitted by Triweb belonged to his father. She says that, in his notice of objection, the Appellant changed his story and said that the amounts in question belonged to his sister Marie Hazan Fabrega. The Respondent also notes that the Appellant made a proposal in bankruptcy in 1998, at which time his sister Marie filed a $125,000 proof of claim with the trustee, which the Minister successfully contested. Based on all this, the Minister concluded that the amounts that the Appellant received from Triweb in 2001 and 2002 were unreported income. Counsel for the Respondent specifies that the Minister considers the funds to be investment income that comes from Triweb and is attributable to the Appellant.
+The facts disclosed by the evidence
+[8] The documentary evidence in the record includes an acknowledgment of debt, signed on August 14, 2001, in which Triweb and its representatives acknowledge having paid the Appellant US$200,000, that very day, to be applied against the US$470,000 debt contracted by Triweb (the debt "that was incurred trading his account (Contacts Development No. 56566928)") (Exhibit I-2). In the same document, the Appellant acknowledges that he received US$200,000 of the US$470,000 debt due from Triweb and its representatives. The document also sets out the payment terms and the interest on the outstanding balance.
+[9] The account referred to in Exhibit I‑2 is at tab 14 of Exhibit I‑1. The account is under the name Contact Development Ltd., and reports all transactions dating from June 1, 2000, to July 31, 2001. It shows that, during this period, several amounts, totalling approximately $500,000, were invested at great risk by Triweb, resulting in roughly equal net losses. Although the currency is not specified, I presume that U.S. dollars were involved.
+[10] In her 2004‑2005 audit, Dawn Fequiere, who worked for the Canada Revenue Agency, explained that she contacted the people from Triweb. They told her that the account was actually the Appellant's. It appears that she personally disallowed the loss claimed by Triweb in respect of the amounts paid to the Appellant, on the ground that the loss was incurred by the Appellant, not Triweb.
+[11] Another document, an agreement dated May 9, 2002, was tendered as Exhibit I‑1, tab 7. In it, Triweb and its representatives acknowledge owing Contact and the Appellant the sum of US$225,713.92, representing the balance of the initial debt of US$470,000. The Appellant signed the document personally and on behalf of Contact.
+[12] In addition, the auditor had access to Triweb's general ledger, which showed that Triweb made loan repayments to the Appellant (Exhibit I‑1, page 8). Specifically, in 2001, under the heading "Loan Dan Hazan USD", there are payments to the Appellant characterized as "Loss, ZZ Dan Hazan" or as "Loss/Repay, ZZ Dan Hazan". In 2002, under the same heading ("Loan Dan Hazan USD"), the payments to the Appellant are simply referenced as "ZZ Dan Hazan".
+[13] Lastly, in the year-end books, the auditor noticed that Triweb made adjusting entries containing the Appellant's name. For example, the Appellant's trading loss account was debited and the account for loans payable to the Appellant ("Loan Dan Hazan USD") was credited, with the remarks "to record trading loss for Dan Hazan" and "to adjust loan to Dan Hazan"(see Exhibit I-3).
+[14] However, the auditor did not agree to consider these payments to the Appellant as loan repayments, because, based on the amount of income reported by the Appellant for 2001 and 2002 (i.e. gross income of $20,000 and net income of approximately $9,700 for each of the years, according to Exhibit I-1, tabs 1 and 2), he did not have the wherewithal to make such a loan to Triweb. The Appellant's spouse apparently reported the same amount of income in 2002 (Exhibit I-1, tab 13). Since she was unable to trace the source of the money that the Appellant invested in Triweb, the auditor determined that, in the absence of better evidence, the amounts that the Appellant received from Triweb constituted investment (trading) income and were not a loan repayment.
+[15] Counsel for the Respondent adduced an excerpt from the Appellant's examination for discovery (Exhibit I-6) in which the Appellant explained that he had no major occupation and no stable income in 2001 and 2002. He said that he had been counselled by a lawyer to report some minimum income, which explains the arbitrary amount of $20,000 entered in his tax return and that of his spouse.
+[16] Lastly, it was shown that, on January 15, 2007, the Appellant and Contact filed a motion to institute proceedings in the Quebec Superior Court (Exhibit I-1, tab 15), claiming from Triweb and its representatives the sum of US$225,713.92 allegedly still owed him under the aforementioned agreement of May 9, 2002 (Exhibit I-1, tab 7) and representing the outstanding balance of the initial loan of $470,000. Paragraph 1 of the motion to institute proceedings reads:
+[TRANSLATION]
+1. The parties signed a contract in which the Defendants acknowledge their solidary indebtedness to the Plaintiffs in the amount of US$225,713.92, as stated in Exhibit P-1, a copy of the Agreement signed on May 9, 2002.[1]
+[17] In their defence ("Plea") to that claim, Triweb's representatives acknowledged that the Appellant invested "several hundred thousand's [sic] of dollars (USD) of his personal monies to trade electronic shares with Defendant, Triweb Trading Corporation Inc." (paragraph 6 of the Plea) and that the Appellant incurred losses of roughly US$420,000 for which Triweb agreed to reimburse the Appellant (paragraph 10 of the Plea).The portions of the defence that are relevant to the period in issue can be found in the Plea, at tab 15 of Exhibit I-1, and they read:[2]
+CANADA S U P E R I O R C O UR T
+(CIVIL DIVISION)
+PROVINCE OF QUEBEC
+DISTRICT OF MONTREAL
+No. 500-17-034910-078 DANIEL HAZAN
+Plaintiff
+-vs-
+DANIEL ZINI,
+and
+SIMON LIBRATI
+Defendants
+P L E A
+FOR DEFENCE TO PLAINTIFF'S ACTION, DEFNDANTS STATE:
+1. THAT they admit the allegations contained in paragraphs 1 of Plaintiff's Motion in Institution of Proceedings, however the context in which P-1 it was signed and the actual reasons behind P-1 will be reflected further in their Plea;
+2. THAT they deny the allegations contained in paragraphs 2 through 16 of Plaintiff's Motion in Institution of Proceedings;
+AND FOR FURTHER DEFENCE TO PLAINTIFF'S ACTION, DEFENDANTS STATE THE FOLLOWING:
+3. THAT Defendants were involved in the business of Day Trading via their company Triweb Trading Corporation Inc. also doing business as Swifttrade Securities Inc., the whole as more fully appears from a copy of the CIDREQ report filed as Exhibit D-1;
+4. THAT Defendants were officers and administrators of Triweb Trading Corporation Inc. until its bankruptcy in October 2005;
+5. THAT Plaintiff, Dan Hazan, is brother's with Albert Hazan, former “behind the scenes” officer and shareholder of Triweb Trading Corporation Inc, the whole as per Exhibit D-1;
+6. THAT during the course of the years 2000 and 2001, Plaintiff invested several hundred thousand's of dollars (USD) of his personal monies to trade electronic shares with Defendant, Triweb Trading Corporation Inc.;
+7. THAT Plaintiff's monies were traded by himself and Defendants' independent traders, as per Plaintiff's request;
+8. THAT Plaintiff as well as Defendants' traders took on positions and caused Plaintiff to incur a loss of $420,000 (USD);
+9. THAT Plaintiff refused to assume the losses from his positions and insisted Defendants reimburse Plaintiff all of his losses plus interest, failing which Plaintiff would advise Swifttrade Securities Inc. head office in Toronto that Defendants were trading Plaintiff's monies without his consent;
+10. THAT out of good faith, and in light of the fact that Plaintiff was Albert Hazan's brother, an officer, administrator and shareholder of the Defendant, Triweb Trading Corporation Inc., Defendants agreed to reimburse Plaintiff his losses in the sum of $420,000 (USD) without additional interest;
+11. THAT the current monies requested by Plaintiff is not a debt per se, but rather a trading loss that Defendants' via Triweb Trading Corporation Inc. agreed to reimburse to keep the peace;
+12. THAT as of July 2001, Triweb Trading Corporation Inc. began to issue payments to Plaintiff, Dan Hazan, in his personal name, as following:
+1. The first payment being a bank wire in the sum of: $200 000(USD);
+2. Cheque #8 dated August 30th, 2001 in the sum of: $12 000(USD);
+3. Cheque #26 dated Oct. 15th, 2001 in the sum of $1 300(USD);
+4. Cheque #71 dated Nov. 7th, 2001 in the sum of: $3 000(USD);
+5. Cheque #80 dated Dec.3rd, 2001 in the sum of: $5 000(USD);
+6. Cheque #81 dated Dec.17th, 2001 in the sum of: $15 000(USD);
+7. Cheque #96 dated January 16th, 2002 in the sum of $10 000(USD);
+8. Cheque #103 dated February 16th, 2002 in the sum of $10,000(USD);
+9. Cheque #113 dated March 17th, 2002 in the sum of: $10 000(USD);
+___________________________________________________________
+TOTAL: $266 300(USD)
+The whole as more fully appears from a copy of the cancelled cheques produced herewith as Exhibit D-2 en liasse;
+13. THAT on or about April 2002, Plaintiff requested that an agreement be signed by Defendants and Plaintiff's company, Contact Development Inc., for the sum of $225,712.93 USD to reflect a debt solely for income tax purposes seeing that Plaintiff had to justify the monies received in his personal name to the tax authorities;
+14. THAT Defendants signed the agreement as it never was intended to be used against them as a tool to extort additional monies;
+15. THAT during the course of July 2001 through to March 2002, Defendants paid consistently without any default;
+16. THAT it was clearly understood that any previous amount paid prior to the signing of Exhibit P-1 had to be imputed to the trading loss that Defendants were willing to reimburse;
+17. THAT in fact Exhibit P-1 mentions at paragraph 1.1 that the amount owing is the remainder of a larger sum owing in the amount of $470,000, the whole without admission by Defendants;
+18. THAT pursuant to April 2002, Defendant, Triweb Trading Corporation Inc., immediately issued the following payments as per the schedule to Plaintiff, Dan Hazan, in his personal name:
+1. May 9th, 2002, bank draft in the sum of : $17 000(USD);
+2. May 16th, 2002 cheque #17 in the sum of: $17 000(USD);
+3. June 15th, 2002, , cheque #18 in the sum of: $15 000(USD);
+4. July 15th, 2002, cheque #52 in the sum of: $15 000(USD);
+5. August 15th, 2002, cheque #56 in the sum of: $15 000(USD);
+6. September 15th, 2002, cheque #63 in the sum of: $15 000(USD);
+7. November 15th, 2002, cheque #69 in the sum of: $18 000(USD);
+8. May 28th, 2003, cheque #138 in the sum of: $5 000(USD);
+9. July 23rd, 2003, cheque #143 in the sum of: $5 000(USD);
+10. August 25th, 2003, cheque #144 in the sum of: $5 000(USD);
+11. Sept.22nd, 2003, cheque #145 in the sum of: $5 000(USD);
+12. Oct.23rd, 2003, , cheque #168 in the sum of: $5 000(USD);
+13. Nov. 23rd, 2003, , cheque #170 in the sum of: $3 100(USD);
+14. Dec. 26th, 2003, , cheque #175 in the sum of: $5 000(USD);
+15. Jan. 26th, 2004, cheque #176 in the sum of: $5 000(USD);
+16. Feb.26th, 2004, , cheque #177 in the sum of: $5 000(USD);
+17. April 26th, 2004, cheque #183 in the sum of: $5 000(USD);
+_______________________________________________________________
+TOTAL: $160 100(USD)
+. . .
+19. THAT to date a total sum of $426 400 (USD) has been paid by Defendant, Triweb Trading Corporation Inc., to Plaintiff, Dan Hazan;
+. . .
+23. THAT it was agreed that Defendants would cease all payments since, according to Defendants, Plaintiff's losses had been reimbursed. Plaintiff's agreed under the condition that Defendant would allow Plaintiff to justify a financial transaction between Defendant, Triweb Trading Corporation Inc. and Plaintiff's Company, Contact Development Inc., for the purposes of tax justification.
+[18] Moreover, in his "examination after plea" in the Superior Court proceedings, Daniel Zini acknowledged that the amounts that Triweb paid the Appellant were compensation for the "trading loss" that the Appellant had incurred. During the examination, Mr. Zini said, several times, that he had agreed to sign an agreement (presumably the agreement of May 9, 2002) in order to help the Appellant "on the fiscal side" (Exhibit I‑1, tab 15). In one excerpt from the examination after plea, Mr. Zini answered a question as follows (Exhibit I-1, tab 15, Examination after Plea, Deposition of Daniel Zini, September 25, 2007, page 45):
+Page 45
+247Q-Could you explain to the Court for which reasons this agreement was signed?
+A-Well, the reason we signed this agreement, again, was to accommodate Mr. Hazan for…for him so that he can show that it was a loan agreement when in fact it was a trading loss.
+248Q-Could you explain that to the Court? When you talk about a trading loss, what do you mean?
+A-Well, Mr. Hazan had opened an account with our firm and basically the monies that were in the account were traded and losses were incurred in that account.
+And at the time Mr. Hazan's brother Albert Hazan was also a shareholder of the company.
+249Q-Of your company?
+A-Yes. And we…Mr.Librati and myself agreed that we would pay off the loss that was incurred in Mr. Hazan's account.
+Further on, at page 49:
+Page 49
+A-I think that we could have just paid off Mr. Hazan month by month whenever we had money. And we agreed to sign an agreement that could or should have helped him by showing the tax authorities that it is a loan and perhaps it could help him. That's it.
+Analysis
+[19] The foregoing does not really explain why it was decided to consider Triweb's payments to the Appellants as a loan repayment rather than a reimbursement of a loss. In my opinion, the tax consequences for the Appellant would be the same regardless. The fact that the Appellant negotiated with Triweb for a reimbursement of his loss would not mean that he earned income.
+[20] When a taxpayer invests money with a brokerage firm, he normally assumes the risks on that investment. He might make a profit on his investment, just as he might incur a loss. It is rather unusual for a brokerage firm to agree to reimburse an investor for his losses, since the losses are his to bear. In the instant case, Triweb appears to have agreed, for unknown reasons, to reimburse at least part of the loss incurred on the money that the Appellant invested. However, this does not mean that the money was income in the Appellant's hands.
+[21] The Respondent is quite concerned about the fact that the Appellant was unable to account for the source of the funds thereby invested. It is true that the Appellant's story about this appears to have changed, and that his testimony at trial could have been more informative on this point. However, I do not believe that this would have resolved the issue as framed by the Respondent. The bulk of the funds in issue appear to have been invested by the Appellant under the guise of a fictitious company named Contact prior to the taxation years in issue. And even the funds that may have been invested in 2001 (because it does not look as though there were any transactions in 2002) do not appear to come from the profits made though Triweb, because the documents adduced in evidence actually show net losses.
+[22] In the Reply to the Notice of Appeal, the Respondent notes that the amounts received from Triweb were unreported income. Counsel for the Respondent submitted that the amounts in issue were investment income in the Appellant's hands. I am unable to come to such a conclusion based on the evidence in the record. It was the Respondent's counsel who adduced a whole series of documents that show that Triweb was reimbursing the Appellant, either for a loan or for the losses incurred on the money invested. If he did not agree with either of these theories, he should not have tendered those documents in the Appellant's absence. He criticizes the Appellant for failing to testify, but he nonetheless adduced documents supporting the Appellant's position. I agree with counsel for the Appellant that all the documentation tendered in evidence by the Respondent establishes, on its face, that the amounts received from Triweb were not investment income earned through Triweb. On the contrary, the documentary evidence, confirmed by the auditor, shows conclusively that the Appellant did not earn money, but lost money, through Triweb.
+[23] Since the Appellant has shown conclusively that the amounts received from Triweb were not investment income, the onus is on the Respondent to prove that those amounts could have been income from another source (see Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at paragraphs 91 et seq.). Since this issue was not raised, it is not up to me to decide it.
+[24] For these reasons, I am required to allow the appeals on the ground that the amounts that Triweb paid the Appellant were not income from his investments with Triweb, as counsel for the Respondent submits. Consequently, the amounts are not taxable on that basis under sections 3 and 9 of the Act, and, as a result, the penalties imposed under subsection 163(2) of the Act are cancelled.
+[25] The Appellant is entitled to costs.
+Signed at Montréal, Quebec, this 29th day of August 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 7th day of October 2008.
+Brian McCordick, Translator
+CITATION 2008 TCC 485
+COURT FILE NO.: 2006-3177(IT)G
+STYLE OF CAUSE: DANIEL HAZAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: August 29, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Henri Simon
+Émilie-Rachel Bannon
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Henri Simon
+Émilie-Rachel Bannon
+Firm: Simon & Associés
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the instant proceedings, the Agreement can be found at tab 7 of Exhibit I-1.
+[2] The document entitled "Plea" is reproduced here, without changes.

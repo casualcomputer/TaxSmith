@@ -1,0 +1,328 @@
+---
+title: "Mullen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30787/index.do"
+last_modified: "2012-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 139"
+citation2: ""
+neutral_citation: "2012 TCC 139"
+decision_date: "2012-04-30"
+language: "en"
+item_id: "30787"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7590
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:26:59.517000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c0f7c70602bf63ef12018686169f9669e9c90042837938dfd94805179f4e6c5e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mullen v. The Queen
+
+- Citation: 2012 TCC 139
+- Decision date: 2012-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mullen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-30
+Neutral citation
+2012 TCC 139
+File numbers
+2009-1944(IT)I, 2009-2337(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2337(IT)G
+BETWEEN:
+JAMES G. MULLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of James G. Mullen (2009-1944(IT)I)) on November 7-8-9, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Stephen S. Du
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 and 2001 years is dismissed in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 30th day of April 2012.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2009-1944(IT)I
+BETWEEN:
+JAMES G. MULLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of James G. Mullen (2009-2337(IT)G)) on November 7-8-9, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Stephen S. Du
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of April 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC139
+Date: 20120430
+Docket: 2009-2337(IT)G
+BETWEEN:
+JAMES G. MULLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] In 1997, 1999 and 2001, the Appellant received the amounts of $43,740, $1,952,540 and $472,177, respectively, from the exercise of stock options which had been granted to him by his employer, Bristol-Myers Squibb Co. (“BMS”). The Minister of National Revenue (the “Minister”) determined that the Appellant had received a benefit by virtue of his employment and included the above amounts in the Appellant’s income. In accordance with paragraph 110(1)(d.1) of the Income Tax Act (the “Act”), the Appellant was allowed stock option deductions in the amount of $10,935, $488,135 and $236,089 in 1997, 1999 and 2001 respectively and the benefit included in his income was reduced to $32,805, $1,464,405 and $236,089 respectively. The Appellant had not filed income tax returns for 1997 and 2001 and the Minister assessed him pursuant to subsection 152(7) of the Act. With respect to the 1999 taxation year, the Minister assessed the Appellant beyond the normal limitation period in accordance with subsection 152(4) and he applied penalties pursuant to subsection 163(2) of the Act. The Appellant appealed from those assessments.
+[2] Late filing penalties were assessed for 1997 and 2001 but the Appellant has only appealed the imposition of the late filing penalty for 2001.
+[3] These appeals were heard on common evidence.
+[4] The witnesses at the hearing were the Appellant and Paul Murphy, an international tax auditor with the Canada Revenue Agency (“CRA”).
+[5] The question in the 1997 taxation year is whether the Appellant is taxable on the net amount of $32,805 despite the fact that he was not resident in Canada in that year.
+[6] The question in the 1999 and 2001 taxation years is whether the Appellant was ordinarily resident in Canada in those years.
+1997
+[7] I will first address the issue raised for the 1997 year because the facts for this year are generally agreed on by the parties. The parties disagreed on the application of the law to those facts.
+[8] The Appellant is a Canadian citizen.
+[9] He was employed from 1980 to 1993, inclusive, by Mead-Johnson Canada, a subsidiary of BMS, at its factory in Belleville, Ontario. During this period, the Appellant was promoted several times and, by December 1993, he was the Director of Operations at the factory.
+[10] In 1987, the Appellant was nominated to receive stock options from BMS; and, on April 5, 1988, he was granted 1,683 stock options which vested 25% each year and expired 10 years from the date they were granted. The grant price was US$9.5683 per share and there was no cost to the Appellant.
+[11] In 1993, BMS offered the Appellant an assignment as the Director of Operations to supervise the construction of its plant in Guangzhou, China. The assignment was expected to last approximately three years.[1] The Appellant accepted the assignment and travelled to China in January 1994. His spouse joined him in China in August 1994.
+[12] On January 22, 1997, the Appellant exercised the stock options which had been granted in 1988 when he was employed and resident in Canada. He received CDN$43,740.
+[13] The Appellant has not disputed any of the calculations associated with the value of the benefit included in his income. It is his position however that the amount of the benefit should not be taxable in Canada because he was not resident in Canada in 1997.
+[14] The Minister has conceded that the Appellant was not resident in Canada in 1997.
+[15] The relevant statutory provisions of the Act are:
+2(3) Tax payable by non-resident persons -- Where a person who is not taxable under subsection (1) for a taxation year
+(a) was employed in Canada,
+(b) carried on a business in Canada, or
+(c) disposed of a taxable Canadian property,
+at any time in the year or a previous year, an income tax shall be paid, as required by this Act, on the person's taxable income earned in Canada for the year determined in accordance with Division D.
+7(1) Agreement to issue securities to employees [stock options] -- Subject to subsection (1.1), where a particular qualifying person has agreed to sell or issue securities of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm's length) to an employee of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm's length),
+(a) if the employee has acquired securities under the agreement, a benefit equal to the amount, if any, by which
+(i) the value of the securities at the time the employee acquired them exceeds the total of
+(ii) the amount paid or to be paid to the particular qualifying person by the employee for the securities, and
+(iii) the amount, if any, paid by the employee to acquire the right to acquire the securities
+is deemed to have been received, in the taxation year in which the employee acquired the securities, by the employee because of the employee's employment;
+115(1) Non-resident's taxable income [earned] in Canada -- For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person's income for the year under section 3 if
+(a) the non-resident person had no income other than
+(i) incomes from the duties of offices and employments performed by the non-resident person in Canada and, if the person was resident in Canada at the time the person performed the duties, outside Canada,
+[16] In accordance with subsection 7(1), when the Appellant exercised his rights under the stock options in 1997, he was deemed to have received a benefit in 1997 because of his employment. That employment refers to the employment which the Appellant had at the time the option was granted in 1988. (See Hurd v. The Queen, [1982] 1 F.C. 554 (FCA) at paragraph 5).
+[17] Although the Appellant was not resident in Canada in 1997, for the purposes of section 115, the benefit he received is taxable income earned in Canada in 1997 from the duties of employment performed by him at the time when he was resident in Canada.
+[18] By virtue of subsection 2(3), the Appellant is subject to tax in 1997 on the taxable income he earned in Canada as determined by section 115 because he was employed in Canada in a previous year.
+[19] A similar situation existed in Hurd v. The Queen (supra) where Mr. Hurd had been granted options to purchase shares of his employer. These options were granted while Mr. Hurd was resident in Canada and employed in Canada. He exercised the options after he left Canada and was no longer employed by the corporation which had granted the options. Urie J. stated the following:
+9 Bearing all those factors in mind it is abundantly clear to me that the grant of the option arose only because of the appellant's employment with the Company. It is equally clear that if he had been a Canadian resident when he acquired the shares the benefit derived therefrom would have been taxable in his hands in the year of acquisition by virtue of subsection 7(1), paragraph (a). Moreover, in such a case the benefit would still have been taxable in his hands even if he had left the employ of the Company as a result of the operation of subsection 7(4) because it continues the application of subsection 7(1) as though the appellant were still an employee and as though the employment were still in existence.
+10 I have earlier pointed out that for the reasons there given, I agree with the learned trial judge that performance of the duties of the employment in Canada during the taxation year in which the benefit sought to be taxed is received is not essential. Therefore, I must conclude that the fact that the appellant was not a resident of Canada in 1973 when he acquired the shares does not differentiate his position from that of a resident of Canada who acquired the shares in similar circumstances. For this reason I am of the opinion that the appellant must fail on this branch of his appeal.
+[20] The decision in Hurd was confirmed by the Federal Court of Appeal in Hale v. The Queen, [1992] 2C.T.C. 379. In the present appeal, the Appellant was not resident in Canada when he exercised his options but he continued to be an employee of BMS. The effect of the combined application of subsection 2(3), paragraph 7(1)(a) and subparagraph 115(1)(a)(i) is that in 1997 the Appellant was in the same position as “a resident of Canada who acquired the shares in similar circumstances”.
+[21] Counsel for the Appellant tried to distinguish the decision in Hale from the present appeal on the basis that in this appeal the Minister did not rely on subsection 7(4) when he made his assessment. However, the Minister did not have to rely on subsection 7(4) in the present appeal because in 1997 the Appellant continued to be an employee of BMS.
+[22] The appeal for the 1997 taxation year is therefore dismissed.
+Residency in 1999 and 2001
+[23] The issue for the 1999 and 2001 taxation years is whether the Appellant was ordinarily resident in Canada in those years in accordance with subsection 250(3) of the Act.
+[24] It was the Respondent’s alternative position that, if I found the Appellant was not resident in Canada in 1999, then he received a benefit in the amount of $851,035.89 when he exercised the stock options which he received while he was employed and resident in Canada. The details with respect to the grant and exercise of all the stock options are given in the charts in Appendix A attached to my reasons.
+[25] This is the second appeal which the Appellant has had before this court involving the issue of residency. In Mullen v. Canada, 2008 TCC 294, Justice Sheridan found that the Appellant was ordinarily resident in Canada for the period January 1 to 7, 2002, the only period at issue in the appeal before her.
+[26] As previously stated, the Appellant travelled to China in January 1994 to take up the position of Director of Operations for the plant being constructed by BMS. His spouse joined him in August 1994.
+[27] Prior to going to China, the Appellant was advised to sever his ties with Canada so that he would not be considered a resident and would not be taxable in Canada. The Appellant and his spouse sold their home and moved some of their furniture into their cottage located on Old Highway #2 in Belleville, Ontario (the “Belleville Property”). They sold their cars and purchased a car for each of their children who were attending university. They rented apartments for their son and daughter and leased their Belleville Property to teachers at the local college from August 1994 until August 1996 for $1200 monthly.
+[28] It was the Appellant’s evidence that he was advised to lease the Belleville Property to arm’s length individuals so that it would not be available to him on a continuing basis and CRA could not use its availability to say that he was resident in Canada. However, when he was unable to lease the Belleville Property to an arm’s length party in September 1996, the Appellant’s son, with one of his friends, moved into the property. His daughter also moved into the Belleville Property after she graduated from university in Ottawa.
+[29] While in China, the Appellant and his spouse lived in a large furnished suite in the Pearl Ramada Inn (the “Hotel”) which was paid for by his employer. The Appellant paid monthly income tax in China on the wages he earned while he was there. BMS had his returns prepared and filed on his behalf. The Appellant had bank accounts in New York as well as an account in Canada with the Royal Bank of Canada (“RBC”). In China, he and his spouse bought antique Chinese furniture and slowly replaced some of the hotel furniture with their own furniture. The Appellant worked long hours and was successful. He was first promoted to acting general manager and then to general manager.
+[30] Nonetheless, in 1997, the Appellant was informed that he was “not the future for the company” in Asia. He was offered a position with BMS in the United States but, according to the Appellant, he liked the life and benefits of an expatriate, and he refused the offer to work in the United States. His employment was terminated effective April 1998.
+[31] His Entrance Visa to China expired in early March 1998, so the Appellant left China on March 2, 1998. He shipped his antique Chinese furniture to the Belleville Property; he gave away some personal items and he stored some books and records with the Hotel. It was his evidence that he stored items at the Hotel because he intended to continue his residency in China. As he gave his evidence, the number of boxes that he said he stored with the Hotel increased from 3 to 4 to 5 to 6.
+[32] It was the Appellant’s evidence that he negotiated an arrangement with the Hotel so that there would be a small suite available to him in the Hotel at no cost until April 1999. He had a “Foreigner Residence Permit” (the “Residence Permit”) from the Chinese government which allowed him to travel within China once he had a valid Entrance Visa to enter the country. The Residence Permit was valid until the end of November 1999.
+[33] When the Appellant and his spouse left China, they immediately returned to the Belleville Property in Canada where both his son and daughter were now residing. He purchased two vehicles, one for himself and one for his spouse. He financed the purchase of a home for each of his children and he took a non-interest bearing charge on the properties. In his words the charge was to prevent his son from selling the home and “walking away” with his money.
+[34] Aware that the stock options which had been granted to him by BMS were increasing in value, the Appellant said that he sought advice on “how to maximize his income while mitigating the taxes” when he exercised the stock options. According to his evidence, he was told that he should not exercise the options when he was in Canada or while he could be considered a resident of Canada.
+[35] In 1999, the Appellant and his spouse undertook a series of transactions to divest themselves of the Belleville Property and the vehicles which had been purchased on their return from China. Those transactions were as follows.
+[36] On March 18, 1999, the Appellant transferred his share of the Belleville Property to his spouse for $2. She, in turn transferred it, on September 7, 1999, to their son and daughter, as joint tenants, in exchange for a demand mortgage in the amount of $300,000 with an interest rate of 5% per annum. Both the Appellant and his spouse were listed as the mortgagees even though the Appellant no longer had an interest in the Belleville Property. No payment of either principal or interest was ever demanded by the Appellant or his spouse and none was paid by their children. I note that at this time the Appellant’s son and daughter each had their own homes in the Belleville area.
+[37] Prior to receiving title to the Belleville Property and its contents, the Appellant’s son and daughter, on August 31, 1999, granted their parents a security interest of $100,000 in the contents and furnishings in the property.
+[38] It was the Appellant’s evidence that he wanted to transfer the vehicles belonging to him and his spouse to his children. To avoid paying $1500 in provincial taxes on the transfer to his children, he caused 1361272 Ontario Limited (the “corporation”) to be incorporated on August 25, 1999 with his spouse, his daughter, his son, a third party and himself as equal shareholders. He and his spouse then transferred their vehicles into the corporation. The corporation owned no other property and it carried on no business. It had its head office at the Belleville Property.
+[39] On March 27, 1999, the Appellant was issued an Entrance Visa to China with an expiry date of June 27, 1999. It was his evidence that he returned to China with the intention that he would resume his residence there. He paid for the rental of a suite at the Hotel and he looked for a job. However, his job search was in vain because he was not able to get any interviews.
+[40] The Appellant testified that during the period April 1999 to September 15, 1999 he travelled throughout Asia on several occasions. He travelled to Canada in July and December 1999. Each time that he returned to China he rented a suite at the Hotel. In Canada, he lived in the Belleville Property.
+[41] I am not sure when the Appellant decided that he would give up his attempt to get a job in China; but, on May 22, 1999 he signed a sale and purchase agreement for a furnished condominium unit in Kamala Beach, Phuket, Thailand with a closing date of August 30, 1999. It was his evidence that his spouse joined him in Thailand in September 1999 and they were resident there for the rest of 1999 all of 2000 and 2001.
+[42] In Thailand, the Appellant upgraded their condominium unit, subscribed to a local newspaper and arranged for phone and internet connection. The Appellant registered for membership at a local hospital and opened a bank account in Singapore and Malaysia. In 1999, 2000 and 2001 during the periods December/January and March/April, the Appellant rented out the condominium unit to vacationers through the condominium administration who withheld the tax on the rental income. They also prepared and filed the necessary returns on behalf of the Appellant.
+[43] Sometime in 2001, the Appellant decided that the political situation in Thailand was not stable and in June, 2001, he purchased a condominium in Costa Rica with the intention of residing there. The Appellant and his spouse obtained temporary residence status from Costa Rica’s tourism department. However, in January 2002, his father-in-law became ill and he and his spouse returned to Canada to live. The Appellant owned the condominium in Thailand until 2006.
+Analysis
+[44] Subsection 2(1) of the Act provides that income tax shall be paid on taxable income for each taxation year of every person resident in Canada at any time in the year. Pursuant to subsection 250(3), a person resident in Canada includes a person who was, at the relevant time, ordinarily resident in Canada.
+[45] The question of residency is a factual finding. The seminal decision on residence of an individual is the decision of the Supreme Court of Canada in Thomson v. Minister of National Revenue, [1946] C.T.C. 51 (S.C.C.) and the most quoted portions of that decision are the following observations of Rand J.:
+47 The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance “residing” is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+48 The expression “ordinarily resident” carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+49 For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+50 But in the different situation of so-called “permanent residence,” “temporary residence,” “ordinary residence,” “principal residence” and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place.
+[46] In The Queen v. Reeder, [1975] C.T.C. 256 (F.C.T.D.), Mahoney J. listed some of the factors which have been found to be material in determining the question of residence as follows:
+13 While the defendant here is far removed from the jet set, including any possible imputation of a preconceived effort to avoid taxation, the factors which have been found in those cases to be material in determining the pure question of fact of fiscal residence are as valid in his case as in theirs. While the list does not purport to be exhaustive, material factors include:
+(a) past and present habits of life;
+(b) regularity and length of visits in the jurisdiction asserting residence;
+(c) ties within that jurisdiction;
+(d) ties elsewhere;
+(e) permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual's connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[47] It was the Appellant’s position that even though he was physically located at the Belleville Property from March 1998 until March 1999 he did not intend to become a resident of Canada nor did he re-establish residency in Canada. He was simply sojourning as he searched on the internet for positions in China. He stated that he resumed his residency in China when he returned there in March 1999. In September 1999 he became a resident of Thailand and he continued to be resident there in 2000 and 2001.
+[48] However, the Appellant’s actions in 1998 and 1999 do not support his stated intention. According to the testimony of Paul Murphy, the Appellant filed income tax returns in Canada for the 1998 and 1999 years as a resident of Canada[2]. The Appellant is now saying that those returns were incorrect. At any rate, a taxpayer’s intention may help to determine the “settled routine” of his life but it is not determinative of his residency[3].
+[49] Unlike the situation in Reeder, I have concluded that the Appellant was jet setting to avoid paying taxes in Canada. After reviewing the evidence in this appeal, I find that the Appellant was resident in Canada in 1999 and 2001. In reaching this conclusion I have considered the following.
+[50] There are some factors which supported the Appellant’s position. During the period, he did not use OHIP; he paid for his own private health insurance. He paid for internet at the Hotel in China when he was there. He owned a condominium unit in Thailand which he insured privately. In Thailand, he paid for internet connection in his condominium unit; he had a membership card with the Phuket International Hospital, a subscription with the Phuket Gazette and a Shopper Card from the Phuket Gazette. The Appellant had bank accounts in New York, Singapore and Malaysia. While his investment broker was located in Belleville, Ontario, I note that the statement for his Trading Summary contained his mailing address in Thailand.
+[51] However, there was no evidence that would lead me to find that the Appellant’s mode of living was centered in either China or Thailand. When he returned to China in 1999, he took with him only his clothes and personal belongings. He rented a suite in the Hotel and his family, including his spouse, remained in Canada. It was his evidence that he travelled from China to Malaysia to Thailand on several occasions and I infer from his evidence that, when he travelled, the suite he rented in the Hotel would be rented out to others. It was not for his exclusive use. The only portion of his passport which was tendered as evidence showed that the Appellant had an Entry Visa to China which was issued on March 27, 1999 and expired on June 27, 1999. It also showed that he was admitted to Thailand on May 15, 1999 as a visitor who could remain only until June 13, 1999. The purchase agreement for the condominium unit in Thailand identified the Appellant as a Canadian national who was resident at the Belleville Property. This agreement was dated May 22, 1999. The Appellant has not established that he had any ties to China in 1999 and I find that he was not resident in China in 1999.
+[52] According to the Appellant’s estimate he spent 77 days in Thailand in 1999 and 140 days there in 2001. The majority of these years was spent travelling and when asked about his social ties in Thailand, the Appellant only spoke of helping others pick up the trash on the beach in front of the condominium complex. As an owner of the condominium unit he was automatically a member of the golf club attached to the complex. Aside from the purchase of the condominium, there was no evidence that the Appellant had established ties in Thailand beyond those which were necessary to allow him and his spouse to enjoy a certain lifestyle while there.
+[53] During the years in question, the Appellant’s ties with Canada were extensive. He had a joint bank account with his spouse at RBC in Belleville and he had a RBC Visa card. He had a Canadian driver’s licence, a Canadian passport, a Sears account which had been opened since 1979 and an American Express Card which he had received in 1982. In March 1999, he opened a $50,000 line of credit with the RBC in Belleville. An Equifax Consumer Report dated April 7, 2005 indicated that his address for his credit cards and line of credit was the Belleville Property. It also indicated that the Appellant had reported the Belleville Property as his address since March 1998. He used his Canadian passport to travel and he kept his Ontario health card even though he did not use it. In 2001, his investment broker was ScotiaMcLeod in Belleville, Ontario and the Appellant made trades while he was in Canada.
+[54] In 1999 and 2001, the Appellant received interest income from Citibank and dividends from BMS through Chasemellon Shareholder Services. Each of these companies had the Belleville Property as the Appellant’s mailing address. BMS considered the Appellant to be a resident of Canada and no tax was withheld in the United States when he exercised his stock options.
+[55] It was the Appellant’s evidence that his son moved into the Belleville Property in 1999 and the telephone was listed in his son’s name. This testimony was self serving and was not supported by the evidence. His son, Jeff, had his own home at Colonial Road during this time and, according to Paul Murphy’s testimony, he reported Colonial Road as his residence when he filed his income tax returns.
+[56] The Appellant tried to demonstrate that he was seldom in Canada during 1999 and 2001 and he gave a list of the dates and places[4] to which he and his spouse travelled in 1998 to 2001. These dates indicated that the Appellant was in Canada approximately 180 days over the three year period from 1999 to 2001 inclusive. The dates were not supported by any documentary evidence as it was the Appellant’s evidence that his passport for this period was lost when the tsunami struck in Thailand. During cross examination, counsel for the Respondent was able to show that on certain occasions the Appellant was in Canada longer than his evidence respecting the dates had indicated.
+[57] By divesting himself of his real property and vehicles, the Appellant attempted to give the impression that he had severed his ties with Canada and was no longer a resident in this country. However, the ownership of both the Belleville Property and the vehicles was always kept within the family unit and was continuously available to him when he returned to Canada. He testified that he returned to Canada for Christmas, New Years and during the summer to meet with family and friends as his emotional ties were in Canada. I find that this was the only “settled routine” in the Appellant’s life during this period. I believe that the Appellant never severed his ties with Canada nor did he actually intend to sever the ties. He had the Belleville Property transferred to his children but he ensured that he continued to exercise control over it. He held a demand mortgage on the property and a security interest in its contents and he never demanded payment of either the principal or the interest on the mortgage. The Appellant’s ties with Canada did not just consist of physical ties. He had both social and emotional ties with Canada and they could not be severed. Considering all of the above, I find that the Appellant ordinarily resided in Canada in 1999 and 2001.
+[58] Counsel for the Appellant argued that since the Appellant was in Canada only 60 days each year, he should not be considered a resident. Although one of the factors which must be considered is the regularity and length of time the Appellant spent in Canada, it is nevertheless only one of many factors which must be considered. In Johnson v. The Queen, 2007 TCC 288, Paris J was also faced with a situation where the taxpayer had returned to Canada only three or four times each year for a period of two years. He found that the taxpayer had not severed his ties with Canada when he went to work in the United Arab Emirates because he maintained his houses, which he rented, his RRSPs, his driver’s licence, his credit cards and his investments. The taxpayer in Johnson was found to be ordinarily resident in Canada..
+[59] The Appellant had reached a stage in life where he had the ability to be mobile. His children were adults and he was no longer employed. He had decided to retire. However, the comments of Mahoney J in Reeder are applicable:
+15 The defendant was at a stage in life when he was highly mobile. He was able, willing, even eager, to travel. In that, he was not atypical of his contemporaries and the relevant factors must be considered in that context. It is not contested that he was, before March 29, 1972, and has, since December 1, 1972, been resident in Canada. Throughout, his ties of whatever description have all been with Canada, save only those ties, undertaken during the term of his absence, which were necessary to permit him and his family to enjoy an acceptable and expected lifestyle while in France. That absence was temporary even though, strictly speaking, indeterminate in length. The ties in France were temporarily undertaken and abandoned on his return to Canada.
+16 I am satisfied that had the defendant been asked, while in France, where he regularly, normally or customarily lived, Canada must have been the answer. I find that the defendant was resident in Canada throughout all of 1972.
+[60] In the present appeal, when the Appellant purchased the condominium unit in 1999 in Thailand he was asked where he lived and he gave the Belleville Property in Canada as his address.
+Subsections 152(4) and 163(2)
+[61] Is 1999 statute-barred because the Minister reassessed the Appellant beyond the normal assessment period? Subparagraph 152(4)(a)(i) provides that the Minister may reassess at any time if the taxpayer filing the return has made any misrepresentation which is attributable to neglect, carelessness or wilful default. The onus is on the Minister to establish the conditions in subparagraph 152(4)(a)(i).
+[62] In paragraph 22 of Nesbitt v. R. (1996), 105 F.T.R.(FCTD), Heald J defined misrepresentation as follows:
+It was the submission of counsel for the Defendant that any incorrect statement amounts to a “misrepresentation” as that term is used in paragraph 152(4)(a)(i), supra. I agree with that view of the matter.
+[63] In 1999, the Appellant failed to report any of his gains from the exercise of his stock options, even those gains from options which had been granted to him when he was employed and resident in Canada. Those gains totalled $851,035.89 and were taxable in Canada even if the Appellant was not resident in Canada.
+[64] The Appellant testified that he sought advice from various accountants with respect to his exercise of the stock options. He said that he had an honest belief that he was not a resident in Canada in 1999. It was his evidence that Price Waterhouse had been responsible for preparing and filing his 1997 income tax return and they did not file his 1997 return when he was not resident in Canada. Their failure led him to believe that the gain from those options which had been granted to him when he was employed and resident in Canada were not taxable if he was not a resident in Canada.
+[65] In spite of the Appellant’s evidence, I have concluded that the Appellant did make a misrepresentation in his 1999 tax return.
+[66] Was the misrepresentation attributable to neglect, carelessness or wilful default? I find that it was attributable to wilful default and the Minister has met his onus to reassess the Appellant beyond the normal reassessment period. According to the Appellant he asked many accountants and read numerous documents about how he could exercise his stock options without paying tax on the sale of the shares he received. He said that the advice he received was to establish himself as a non-resident of Canada when he exercised the options. The evidence does not reveal the facts the Appellant gave these accountants nor does it reveal if he consulted anyone with respect to the steps he should take to become a non-resident of Canada. The Appellant’s testimony was self serving and was not corroborated. Suffice it to say that the question posed by the Appellant and the actions taken by him demonstrate that he never intended to report any of the amounts he received from his exercise of the options. His actions also demonstrate that he did not really intend to sever his relations with Canada. He intended to maximize his income by not paying taxes on his gains from the exercise of his stock options. He arranged his affairs to give the impression that he had severed his ties in Canada. In my view, the act of creating the impression that he was a non-resident demonstrates wilful default. In spite of the Appellant’s evidence that he had an honest belief that he was not resident in Canada in 1999 and 2001, I conclude that he knew he did not sever his ties with Canada. When he was interviewed by Paul Murphy, why would he tell Paul Murphy that he had sold the Belleville Property and the vehicles but not tell him to whom they were sold? The Appellant told Paul Murphy that he had no documentation with respect to the stock options and that he could not obtain any of the documentation from BMS because they had had a fire. Mr. Murphy however had no problems getting the documentation from BMS. All it took was a phone call and a letter. The Appellant was not forthright or cooperative with the auditor and I have drawn a negative inference from his actions.
+[67] The Minister also imposed penalties pursuant to subsection 163(2) of the Act and the onus was on the Minister to show, on a balance of probabilities, that the Appellant knowingly, or under circumstances amounting to gross negligence, made a false statement or omission in his tax return for 1999. Based on my statements above, I find that the Minister has satisfied this onus and that the Appellant knowingly made an omission when he filed his 1999 tax return.
+[68] The Appellant did not provide a due diligence defence for his failure to file his 2001 income tax return.
+[69] Neither counsel made a treaty argument before me.
+[70] The appeals are dismissed with costs to the Respondent in appeal 2009-2337(IT)G.
+Signed at Ottawa, Canada, this 30th day of April 2012.
+“V.A. Miller”
+V.A. Miller J.
+Appendix A
+Stock options exercised
+1999
+Date Granted
+Date Exercised
+# of shares
+Price/Share (US$)
+Strike Price (US$)
+Conversion Rate
+Canadian Income $
+Mar 18/91
+Apr 5/99
+2,314
+61.1837
+18.1561
+1.4990
+149,249.23
+Mar 18/91
+Apr 19/99
+2,313
+56.6670
+18.1561
+1.4826
+132,063.65
+Mar 16/93
+May 19/99
+3,155
+65.7895
+13.4462
+1.4659
+242,083.29
+Mar 16/93
+Aug 30/99
+3,996
+68.3748
+13.4462
+1.4927
+327,639.72
+Apr 5/94
+May 19/99
+7,151
+65.7895
+12.2724
+1.4659
+561,001.08
+Mar 7/95
+Aug 30/99
+7,151
+65.3748
+14.7388
+1.4927
+540,503.74
+26,080
+$1,952,540
+2001
+Date Granted
+Date Exercised
+# of shares
+Price/Share (US$)
+Strike Price (US$)
+Conversion Rate
+Canadian Income $
+Mar 5/96
+July 17/01
+7,151
+50.0642
+20.7412
+1.5403
+322,983.62
+Mar 4/97
+Jul 17/01
+5,363
+50.0642
+32.0034
+1.5403
+149,193.57
+12,514
+$472,144.18
+CITATION: 2012TCC139
+COURT FILE NO.: 2009-2337(IT)G
+STYLE OF CAUSE: JAMES G. MULLEN AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 7, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: April 30, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Stephen S. Du
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Stephen S. Du
+1650 Jin Xiu Rd, Ste 14-2803
+Shanghai, China 200127
+Tel: +86 18930016562
+Fax: +1 4165901700
+E-Mail stephensdu@gmail.com
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tab 1, Letter of Offer
+[2] Transcript , November 9, 2011, page 69, line 10
+[3] Snow v. Canada, [2004] T.C.J. No.267 at paragraph 18
+[4] Exhibit R-1, Tab 16

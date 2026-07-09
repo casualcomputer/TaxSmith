@@ -1,0 +1,187 @@
+---
+title: "Kirschke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/366251/index.do"
+last_modified: "2019-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 68"
+citation2: ""
+neutral_citation: "2019 CCI 68"
+decision_date: "2019-03-29"
+language: "fr"
+item_id: "366251"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4328
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:22:46.655000+00:00"
+cases_cited_count: 11
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4298e7484c5c0e2a98228fa7e05b03fd21531ef58cffaf36faf5cc47ce500923"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kirschke c. La Reine
+
+- Citation: 2019 CCI 68
+- Decision date: 2019-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4328, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirschke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-29
+Référence neutre
+2019 CCI 68
+Numéro de dossier
+2018-2718(GST)APP
+Juges et Officiers taxateurs
+Siobhan Monaghan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-2718(GST)APP
+ENTRE :
+RUTH KIRSCHKE,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 3 décembre 2018, à Hamilton (Ontario)
+Devant : L’honorable juge K.A. Siobhan Monaghan
+Comparutions :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat de la défenderesse :
+Me Kevin Hong
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints :
+La demande de prorogation du délai pour signifier un avis d’opposition aux nouvelles cotisations établies aux termes de la Loi sur la taxe d’accise pour les périodes de déclaration se terminant les 31 décembre 2010, 31 décembre 2011, 31 décembre 2012, 31 décembre 2013 et 31 décembre 2014 est rejetée au motif qu’aucune prorogation du délai n’est nécessaire puisque l’avis d’opposition a été déposé en temps opportun par la demanderesse.
+Signé à Ottawa, Canada, ce 29e jour de mars 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+Référence : 2019 CCI 68
+Date : 20190329
+Dossier : 2018-2718(GST)APP
+ENTRE :
+RUTH KIRSCHKE,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Monaghan
+I. INTRODUCTION
+[1] La demanderesse, Ruth Kirschke, demande une prorogation du délai pour signifier un avis d’opposition aux nouvelles cotisations établies par le ministre le 14 juin 2016 pour les périodes de déclaration se terminant les 31 décembre 2010, 31 décembre 2011, 31 décembre 2012, 31 décembre 2013 et 31 décembre 2014. Elle a signifié un avis d’opposition à ces nouvelles cotisations le 24 mai 2016, presque deux ans après leur date d’établissement.
+[2] La défenderesse soutient que la demande de la demanderesse doit être rejetée, parce que les conditions préalables à la demande, précisées dans la Loi sur la taxe d’accise (la LTA) n’ont pas été remplies. Plus précisément, la Cour ne peut pas proroger le délai de dépôt d’une opposition, à moins que le contribuable ait signifié au ministre une demande visant à proroger ce délai dans le délai d’un an suivant le délai applicable au dépôt d’un avis d’opposition. La défenderesse soutient que la demanderesse n’a pas présenté une telle demande.
+[3] Toutefois, en l’espèce, Mme Kirschke affirme qu’elle n’a jamais reçu les nouvelles cotisations, puisqu’elles ont été postées à la mauvaise adresse, et qu’elles ne lui ont donc pas été envoyées en bonne et due forme. Par conséquent, la question à trancher dans la présente demande est de savoir si les avis de nouvelles cotisations de la défenderesse ont été dûment envoyés à Mme Kirschke, de sorte que son avis d’opposition n’a pas été signifié au ministre en temps opportun.
+II. RÉSUMÉ DES FAITS
+[4] Avant 2010, la demanderesse exploitait un restaurant en Ontario en tant que propriétaire unique. En tant que propriétaire de cette entreprise, la demanderesse était inscrite aux fins de la LTA et était tenue de percevoir la taxe de vente harmonisée (TVH).
+[5] Même si Mme Kirschke ne connaissait pas la date exacte à laquelle elle a cessé d’exploiter le restaurant, elle a déclaré que c’était quelque temps avant 2010. Elle a néanmoins décidé de ne pas fermer le compte de TVH, parce qu’elle pensait pouvoir relancer cette entreprise à un autre endroit. Mme Kirschke a mentionné qu’à cette époque, elle a parlé à un représentant de l’Agence du revenu du Canada (ARC). Elle a indiqué lui avoir expliqué la nature de ses activités en cours dans le domaine du financement immobilier, en mentionnant qu’elle projetait tirer ses revenus des prêts hypothécaires, des placements et de l’assurance. Elle a affirmé qu’il lui aurait dit que, pourvu qu’elle continue à produire ses déclarations de TVH portant la mention néant, elle pouvait laisser le compte de TVH ouvert. Le représentant de l’ARC lui a mentionné qu’il était très important qu’elle continue à produire ses déclarations de TVH et que, tant et aussi longtemps qu’elle le ferait, il n’y avait aucun problème à garder le compte ouvert. De plus, il lui a dit que le compte de TVH était rattaché à son numéro d’assurance sociale et à son profil. C’était logique parce qu’elle avait exploité personnellement le restaurant, et non par l’intermédiaire d’une société.
+[6] Selon les conseils reçus, Mme Kirschke a produit les déclarations de TVH portant la mention néant pour chacune des périodes de déclaration de 2010, 2011, 2012, 2013 et 2014. Chaque déclaration a d’abord donné lieu à des cotisations selon les déclarations produites. Mme Kirschke n’a pas produit la déclaration de TVH pour la période de déclaration de 2015.
+[7] Au début de 2015, Mme Kirschke a déménagé de la rue Rosette (l’ancienne adresse) à la rue Blue Springs (la nouvelle adresse). Elle a informé l’ARC de sa nouvelle adresse aux alentours du 26 mars 2015, en produisant sa déclaration de revenus de 2014 en utilisant sa nouvelle adresse. Mme Kirschke reconnaît ne pas avoir avisé séparément l’ARC de sa nouvelle adresse aux fins de la TVH, car on lui avait dit que ses deux comptes étaient rattachés à son profil. Elle ne savait pas qu’elle devait mettre à jour son adresse séparément aux fins de la TVH.
+[8] Les dossiers de l’ARC concernant le compte d’impôt sur le revenu de la demanderesse montrent que la nouvelle adresse est en vigueur depuis le 26 mars 2015, mais l’adresse aux fins de la TVH n’a pas été mise à jour avant le 6 mars 2018. Comme Mme Kirschke n’a pas produit de déclarations de TVH pour toute période de déclaration suivant celle se terminant le 31 décembre 2014, elle n’a produit aucune déclaration de TVH en utilisant la nouvelle adresse [1] . Elle a dit que le compte de TVH était fermé depuis le 6 mars 2018, moment où elle a autorisé verbalement l’ARC à fermer ce compte au cours d’un entretien téléphonique avec l’Agence après avoir reçu une lettre de recouvrement, comme il est décrit ci-dessous.
+[9] En 2016, il semblerait que la défenderesse ait remarqué que Mme Kirschke avait déclaré des revenus d’entreprise dans ses déclarations de revenus des années 2010 à 2014, malgré le fait qu’elle produisait des déclarations de TVH portant la mention néant. Cela semble faire partie de ce que l’on appelle le « National Reversal Review Project » de l’ARC.
+[10] Aucun représentant de l’ARC n’a témoigné, mais la défenderesse a déposé deux affidavits. La pièce « D » jointe à l’affidavit de Sarah Faria est décrite comme étant une copie papier des discussions entre le ministre, Mme Kirschke et le représentant de Mme Kirschke (son comptable), qui ont été enregistrées électroniquement dans le système du ministre sous le nom de « Notes pour l’entreprise ». La première partie du contenu de ce document peut être ainsi résumée :
+L’ARC a téléphoné à Mme Kirschke le 24 mars 2016 et lui a laissé un message vocal. Le 29 mars 2016, l’ARC a joint Mme Kirschke par téléphone et lui a demandé pourquoi elle produisait des déclarations de TVH portant la mention néant, mais qu’elle déclarait également du revenu d’entreprise brut dans ses déclarations TI. Mme Kirschke a expliqué qu’elle touchait des commissions de courtage [2] ; l’agent de l’ARC lui a expliqué que le revenu était néanmoins imposable, mais comme Mme Kirschke n’était pas sûre de comprendre, elle a proposé au représentant de l’ARC de parler avec son comptable, Jose Callejas. Bien que le comptable de Mme Kirschke ne faisait pas l’objet d’une autorisation au dossier, se fondant sur l’autorisation verbale de Mme Kirschke, le représentant de l’ARC a communiqué avec M. Callejas. M. Callejas a informé le représentant de l’ARC qu’il ne faisait que produire les déclarations de revenus de Mme Kirschke, et qu’il n’était pas familier avec le compte de TVH. Le représentant de l’ARC a proposé au comptable de communiquer avec sa cliente pour examiner la question, en lui accordant une semaine pour le faire. N’ayant pas eu de nouvelles de lui, le représentant de l’ARC a effectué un suivi auprès du comptable qui lui a déclaré ne pas avoir été en mesure de joindre sa cliente [3] . La note au dossier mentionne : [traduction] « J’ai accordé une autre semaine. Si je n’ai pas de réponse, j’enverrai une lettre ». Le comptable n’ayant pas répondu, une lettre en date du 19 avril 2016 a été envoyée à Mme Kirschke avec une date de rappel fixée à 35 jours.
+[11] La lettre du 19 avril 2016 (la lettre d’avis de 30 jours) était adressée à l’ancienne adresse – celle qu’elle a utilisée aux fins de l’impôt avant le 26 mars 2015. Dans la lettre, on lui demandait de fournir des renseignements relatifs à son revenu d’entreprise ou son revenu professionnel dans un délai de 30 jours, à défaut de quoi l’ARC établirait de nouvelles cotisations à la lumière des renseignements dont elle disposait. Mme Kirschke a déclaré n’avoir jamais reçu cette lettre et de n’y avoir par conséquent jamais répondue.
+[12] Le document « Notes pour l’entreprise » de l’ARC décrit d’autres mesures qui peuvent se résumer ainsi :
+Le 24 mai 2016, le représentant de l’ARC a téléphoné au comptable, mais n’a pas été en mesure de le joindre. Ils ont pu enfin se parler le 30 mai 2016, lorsque le comptable a informé le représentant de l’ARC que le compte de TVH aurait dû être fermé, mais qu’il ne l’était pas. Le représentant de l’ARC a indiqué au comptable que la fermeture du compte pourrait être envisagée après la fin de l’examen, mais que dans l’immédiat, la question était de savoir s’il y avait des divergences entre les déclarations de TVH et le revenu d’entreprise brut dans les déclarations TI. Le comptable a mentionné qu’il ne le savait pas. Le représentant de l’ARC lui a dit qu’une lettre avait été envoyée à Mme Kirschke lui accordant 30 jours pour répondre, mais qu’il était sans nouvelles. L’ARC a accordé une semaine supplémentaire pour obtenir une réponse, à défaut de quoi une cotisation serait établie à la lumière des renseignements dont l’ARC disposait. Le comptable a dit qu’il communiquerait avec Mme Kirschke et qu’il lui demanderait d’appeler l’ARC. Le dossier renferme une date de rappel fixé à une semaine. Le 6 juin 2016, la note mentionne [traduction] « Reçu aucune réponse. Cotisations établies pour les années 2010 à 2014 selon le revenu d’entreprise brut indiqué dans la déclaration T1 ».
+[13] Par conséquent, les nouvelles cotisations en date du 14 juin 2016 ont été établies à l’égard des périodes de déclaration de 2010, 2011, 2012, 2013 et 2014. Une nouvelle cotisation en date du 1er septembre 2016 a été établie à l’égard de la période de déclaration de 2015. Ces nouvelles cotisations ont été postées à l’ancienne adresse de Mme Kirschke. Le ministre a par la suite établi une nouvelle cotisation à l’égard de la période de déclaration de 2015 au moyen d’un avis de nouvelle cotisation daté du 7 mars 2018 qui indique que la contribuable n’était pas tenue de la verser. Toutefois, aucune autre nouvelle cotisation à l’égard des périodes de déclaration de 2010 à 2014 n’a été établie. Mme Kirschke a déclaré n’avoir pris connaissance des nouvelles cotisations qu’au moment où elle a reçu les lettres de recouvrement de l’ARC, en 2018, adressées à sa nouvelle adresse [4] . À ce moment-là, elle a immédiatement communiqué avec le représentant de l’ARC qui lui avait donné des conseils sur les nouvelles cotisations.
+[14] Mme Kirschke s’oppose aux nouvelles cotisations établies le 14 juin 2016, au motif que les périodes de déclaration de 2010 à 2014 devraient être traitées de la même manière que la période de déclaration se terminant le 31 décembre 2015 a été traitée dans le cadre de la nouvelle cotisation du 7 mars 2018.
+[15] Il semblerait que l’ARC n’ait pas tenté de joindre directement Mme Kirschke par téléphone après le 29 mars 2016, malgré le fait que les « Notes pour l’entreprise » confirment que son comptable a informé l’ARC qu’il n’était pas familier avec les déclarations de TVH, et qu’il ignorait la raison pour laquelle il y avait des divergences entre les déclarations de TVH et les déclarations TI de Mme Kirschke.
+[16] Mme Kirschke a mentionné n’avoir aucun souvenir de l’appel téléphonique du 29 mars 2016 décrit dans les « Notes pour l’entreprise » de l’ARC, mais a également indiqué que si elle avait reçu un appel téléphonique de l’ARC, elle n’y aurait peut-être pas porté attention, parce qu’elle croyait que l’ARC ne traitait que par écrit avec les contribuables. Elle a fait référence à la publicité sur les escroqueries par téléphone dans laquelle les contribuables reçoivent des appels de personnes qui prétendent être de l’ARC. Mme Kirschke a déclaré que, si elle avait reçu une lettre de l’ARC, elle y aurait immédiatement répondu.
+[17] Elle a ajouté qu’elle n’aurait jamais décrit son entreprise comme générant des commissions de courtage. Elle est courtière en prêts hypothécaires, et les commissions de courtage sont exonérées de la TVH. Je peux toutefois comprendre qu’une personne qui prend note d’un appel, qui a entendu « courtier en prêts hypothécaires » ait pu écrire « courtier immobilier ».
+[18] Mme Kirschke a déclaré que son comptable ne s’occupait que de ses déclarations de revenus, et non de ses déclarations de TVH. Elle produisait elle‑même ses déclarations de TVH, et, conformément aux conseils du représentant de l’ARC, elle a produit des déclarations de TVH portant la mention néant pour les périodes de déclaration de 2010, 2011, 2012, 2013 et 2014.
+[19] Quant à la question de son compte de TVH qui n’a pas été fermé avant 2018 [5] , Mme Kirshke a déclaré qu’elle croyait que le compte avait été fermé, c’est pourquoi elle a arrêté de produire des déclarations portant la mention néant. Elle a mentionné avoir demandé à son comptable de fermer le compte. Les « Notes pour l’entreprise » mentionnent également que le comptable de Mme Kirschke a dit à l’ARC que le compte de TVH était censé avoir été fermé.
+[20] J’ai trouvé que Mme Kirschke était un témoin très crédible et que les documents déposés en preuve, y compris les « Notes pour l’entreprise » de l’ARC, concordaient avec son témoignage. Elle n’a pas hésité en contre-interrogatoire; ses réponses étaient simples et franches. Par conséquent, je crois que Mme Kirschke n’a pas reçu la lettre d’avis de 30 jours ni les avis de nouvelle cotisation adressés à son ancienne adresse, soit celle qu’elle avait quittée plus d’un an avant que l’un ou l’autre des documents ne lui aient été postés. Je conclus également que, si elle avait reçu ces documents, elle aurait produit immédiatement son avis d’opposition. Mme Kirschke a immédiatement communiqué avec l’ARC après avoir reçu la première lettre de recouvrement, et a par la suite rapidement signifié un avis d’opposition.
+[21] Comme je l’ai déjà mentionné, la défenderesse a déposé deux affidavits. L’affidavit de Joanne Myers concernant la mise à la poste des nouvelles cotisations n’est pas vraiment pertinent pour la demande, parce que Mme Kirschke ne soutient pas que les nouvelles cotisations n’ont pas été postées, mais plutôt qu’elle ne les a pas reçues puisqu’elles ont été envoyées à l’ancienne adresse. La seule déclaration pertinente de cet affidavit est la suivante : [traduction] « L’Agence [ARC] a pour pratique d’adresser automatiquement un avis de cotisation à l’adresse qui figure dans sa base de données électronique. » Il ne mentionne pas l’adresse à laquelle les avis de nouvelles cotisations ont été envoyés ni si les avis ont été retournés comme non distribuables. L’affidavit est complètement silencieux quant à ces questions de fait. En outre, il n’explique nullement quelle est [traduction] « l’adresse qui figure dans la base de données électronique de l’Agence » ni à quel moment et de quelle façon ces adresses sont saisies ou devraient être mises à jour dans cette base de données.
+[22] Les pièces « A » et « B », les copies des nouvelles cotisations, sont jointes à l’affidavit de Mme Faira. Ces nouvelles cotisations portent l’ancienne adresse, dont la déposante a affirmé sous serment qu’elle était [traduction] « l’adresse postale inscrite au dossier du compte de TPS/TVH » de Mme Kirschke. Dans son affidavit, Mme Faira déclare également que l’adresse postale inscrite au dossier de Mme Kirschke pour sa déclaration TI a été changée le 26 mars 2015 pour la nouvelle adresse. La page intitulée [traduction] « Récupération de l’historique des adresses du système de numéros d’entreprise » contenue dans la pièce « C » de l’affidavit de Mme Faira, décrit comme étant un imprimé électronique de l’historique des adresses de Mme Kirschke, comprend la mention « O » à côté du champ de l’« indicateur de courrier retourné » pour l’adresse à laquelle les nouvelles cotisations ont été postées. Cela soulève la question de savoir si la lettre d’avis de 30 jours ou les avis de nouvelles cotisations ont été retournés à l’ARC. L’affidavit de Mme Faira n’aborde pas cette question; il est complètement silencieux sur cette question.
+[23] À l’instar de l’affidavit de Mme Myers, l’affidavit de Mme Fairas n’explique pas à quel moment et de quelle façon les adresses figurant dans la base de données de l’ARC sont ou devraient être mises à jour ou si les comptes de TVH ou le dossier fiscal d’un contribuable unique sont rattachés ou la façon dont ils interagissent entre eux, le cas échéant. La défenderesse n’a fourni aucun élément de preuve sur l’obligation du contribuable de mettre à jour séparément ses adresses aux fins de l’impôt sur le revenu et de la TVH ou même en quoi consiste la politique de l’ARC à cet égard.
+[24] Je ne dispose d’aucun élément de preuve de la part de la défenderesse pouvant réfuter la prétention de Mme Kirschke voulant qu’on lui ait dit que les comptes étaient rattachés. Je ne dispose d’aucun élément de preuve de la part de la défenderesse concernant le caractère raisonnable de l’hypothèse formulée par Mme Kirschke selon laquelle la mise à jour de son adresse auprès de l’ARC une seule fois suffisait à mettre à jour tout son dossier fiscal. Comme je l’ai déjà mentionné, la lettre de recouvrement de l’ARC contenant son numéro d’entreprise de TVH a été adressée à la nouvelle adresse, malgré le fait que cette lettre était datée avant que cette adresse figure comme nouvelle adresse dans la base de données électronique de l’ARC à l’égard de son compte de TVH. Ce qui sème chez moi un doute quant à la pratique de l’ARC. Pourquoi l’ARC a-t-elle choisi d’utiliser cette adresse même si cette adresse n’était pas l’adresse postale dans sa base de données électronique aux fins de la TVH?
+[25] J’avoue que je suis également préoccupée par le fait qu’après le 29 mars 2016, l’ARC n’a jamais tenté d’appeler Mme Kirschke, mais a plutôt continué à parler exclusivement à son comptable, même si ce dernier a informé le représentant de l’ARC qu’il n’était pas responsable des déclarations de TVH de Mme Kirschke ni familier avec ces dernières. Et en dépit de ce fait, l’ARC a envoyé la lettre d’avis de 30 jours ainsi que les avis de nouvelles cotisations à Mme Kirschke seulement, sans transmettre une copie de ces documents à son comptable. Bien que l’ARC ait avisé le comptable de cette correspondance, rien n’indique que l’ARC lui a remis des copies (ni même offert de le faire) ou lui a demandé de confirmer l’adresse de Mme Kirschke. Pourtant, il semblerait que l’ARC s’en soit remise entièrement à lui pour qu’il communique avec Mme Kirschke au sujet de cette correspondance, puis il y a cette mention « O » à côté du champ de l’indicateur de courrier retourné qui me préoccupe.
+III. ANALYSE
+[26] Il ne suffit pas que Mme Kirschke établisse qu’elle n’a pas reçu les avis de nouvelles cotisations en 2016. Le paragraphe 334(1) de la LTA énonce que « tout envoi en première classe ou l’équivalent est réputé reçu par le destinataire à la date de sa mise à la poste ». Cette disposition crée une présomption irréfragable. Autrement dit, le ministre doit établir que les avis de nouvelles cotisations ont été envoyés au contribuable, et non qu’ils ont été reçus par le contribuable [6] .
+[27] Toutefois, en l’espèce, ce n’est pas la mise à la poste des nouvelles cotisations qui est en doute, mais plutôt la question de savoir si l’adresse à laquelle ces avis ont été envoyés est la bonne. Pour que la présomption du paragraphe 334(1) de la LTA s’applique, l’adresse utilisée par l’ARC doit être la bonne. Un avis de nouvelle cotisation envoyée à une mauvaise adresse n’est pas réputé avoir été reçu.
+[28] Dans la décision Scott v. M.N.R. [7] , le juge Thurlow a déclaré ce qui suit :
+[traduction] « [...] le législateur n’a jamais voulu qu’un tel avis puisse être effectivement donné au moyen de son « envoi par la poste » au contribuable à une mauvaise adresse ou à une adresse fictive et je ne trouve rien dans la loi rien qui donne à entendre que le législateur ait voulu que le contribuable soit lié par un avis de cotisation au moment de la mise à la poste d’un avis y afférent qui lui est adressé ailleurs qu’à sa véritable adresse ou à une adresse qu’il a d’une façon ou d’une autre autorisée ou adoptée comme adresse à cette fin. […] En l’espèce, l’avis de nouvelle cotisation qui a été mis à la poste le 28 mai 1957, tout en étant adressé à l’appelant, n’avait pas été envoyé à la véritable adresse de celui-ci et n’avait pas non plus été envoyé à l’une ou l’autre des adresses indiquées dans sa déclaration de revenus de 1952. »
+[29] Si le contribuable affirme que l’avis de cotisation a été envoyé à la mauvaise adresse, autrement qu’en raison d’une quelconque omission de sa part, la défenderesse doit produire suffisamment d’éléments de preuve pour montrer, selon la prépondérance des probabilités, qu’un avis de cotisation a été envoyé à l’adresse que l’ARC possédait légitimement au dossier [8] . L’ancienne adresse était-elle celle que l’ARC possédait légitimement à son dossier ou la nouvelle adresse était-elle la bonne adresse au dossier?
+[30] Dans le jugement Carvalho c. M.R.N. [9] , la Cour a avisé les contribuables qu’ils ont l’obligation de s’assurer que leur bonne adresse est connue des autorités fiscales. Mais comment cela trouve-t-il application en l’espèce, où la contribuable a informé l’ARC de sa nouvelle adresse, mais que la modification n’a été enregistrée par l’ARC dans sa base de données électronique qu’à l’égard de son compte d’impôt sur le revenu, et non de son compte de TVH? L’ARC avait avisé Mme Kirschke que ses deux comptes fiscaux étaient rattachés à son profil. À la suite de son déménagement à la nouvelle adresse, elle n’a produit aucune autre déclaration de TVH et n’a donc « forcément » effectué aucun dépôt en utilisant sa nouvelle adresse.
+[31] De plus, je ne peux pas m’empêcher de me demander ce que l’ARC aurait fait si Mme Kirschke avait fermé son compte de TVH en 2015, avant son déménagement, comme elle était censée le faire. Il ne semblerait pas raisonnable d’exiger d’un contribuable qui a fermé son compte de TVH de continuer à informer séparément l’ARC de sa nouvelle adresse à l’égard de ce compte. Dans un tel cas, je suis d’avis que le contribuable conclurait tout à fait raisonnablement que l’ARC chercherait l’adresse la plus récente dans le dossier d’ouverture du compte d’impôt du contribuable. C’est également ce que l’ARC semble avoir fait au moment d’envoyer une lettre de recouvrement à Mme Kirschke.
+[32] Dans un certain nombre de décisions, il a été question de se demander si l’adresse sur l’avis de cotisation d’un contribuable était la bonne adresse, mais aucune d’entre elles ne s’applique en l’espèce. [10] Dans l’affaire Bhatti v. MNR [11] , une nouvelle cotisation postée à l’ancienne adresse du contribuable a été déclarée invalide, puisque le contribuable avait mis à jour son adresse dans sa déclaration de revenus la plus récente. Toutefois, cette affaire ne traitait que d’un type de compte fiscal. En revanche, dans le jugement Austin c. La Reine [12] , le contribuable n’avait pas fourni une adresse à jour pour lui-même, mais l’avait fait pour la société dont il était l’unique propriétaire. Comme on pouvait s’y attendre, cela n’a pas suffi, parce que M. Austin et sa société étaient deux contribuables différents et non un seul et même contribuable avec plus d’un type de compte fiscal [13] . En l’espèce, il s’agit d’un contribuable unique. Dans l’arrêt Schafer [14] , le ministre s’est servi de l’adresse figurant dans les livres et registres du contribuable plutôt que de l’adresse postale, et il a été déterminé que cette adresse n’était pas la bonne.
+[33] Je suis d’avis que, compte tenu de la conversation que Mme Kirschke a eue avec le représentant de l’ARC qui l’a assurée que son compte d’impôt sur le revenu et son compte de TVH étaient rattachés à son profil, il était raisonnable pour elle d’avoir présumé qu’une fois son adresse à jour auprès de l’ARC, cette mise à jour s’appliquerait à tous les comptes rattachés à son profil. En fait, c’est en raison de la production de ses déclarations de revenus (déclaration du revenu d’entreprise brut) que l’ARC a jugé nécessaire d’examiner ses déclarations de TVH. Autrement dit, c’est son compte d’impôt sur le revenu – qui portait la nouvelle adresse – qui a suscité l’intérêt de l’ARC pour son compte de TVH.
+[34] La défenderesse n’a présenté aucun élément de preuve concernant les moyens par lesquels les comptes fiscaux de contribuables uniques sont rattachés ou la façon dont les mises à jour des adresses sont ou devraient figurer dans la base de données électronique de l’ARC. Je ne dispose d’aucun élément de preuve sur la pratique de l’ARC en matière de mise à jour des adresses dans sa base de données électronique.
+[35] Par conséquent, je conclus que les nouvelles cotisations postées à Mme Kirschke en 2016 n’ont pas été postées à une bonne adresse postale. Elles ont été envoyées à une adresse dont Mme Kirsche avait informé l’ARC, plus d’un an auparavant et dans un contexte fiscal, qu’elle n’était plus son adresse.
+[36] Toutefois, le fait qu’un avis de cotisation soit posté à une mauvaise adresse ne clôt pas l’affaire. Une communication supplémentaire d’un avis de nouvelle cotisation peut constituer une communication suffisante de la cotisation [15] . Les éléments de preuve indiquent que Mme Kirschke a appris l’existence des nouvelles cotisations à la fin de février ou au début de mars 2018. Mme Kirschke a présenté à la Cour une copie de la lettre de recouvrement de l’ARC datée du 26 février 2018 sur laquelle elle a pris des notes au sujet d’une conversation téléphonique qu’elle a eue avec un représentant de l’ARC. Ces notes indiquent que l’appel a eu lieu le 6 mars 2018. Je conclus donc qu’elle a eu une connaissance effective de l’avis de nouvelles cotisations du 14 juin 2016 au plus tard le 6 mars 2018, date à laquelle elle a parlé avec un représentant de l’ARC, et qu’il est même possible qu’elle en ait pris connaissance avant le 26 février 2018. [16] Selon l’affidavit de Mme Faria, l’avis d’opposition aux nouvelles cotisations de Mme Kirschke a été signifié le 24 mai 2018, soit moins de 90 jours après le 26 février 2018. J’estime donc que son avis d’opposition a été déposé dans les 90 jours de l’envoi valide des nouvelles cotisations (communiquées) à Mme Kirschke.
+[37] Le paragraphe 298(1) de la LTA exige qu’une cotisation à l’égard d’une période de déclaration soit établie dans les quatre ans au plus tard le dernier jour en date du jour où la déclaration pour la période a été produite ou devait être produite, sauf si une exception s’applique à ce délai de prescription. Ni Mme Kirschke ni la défenderesse n’ont présenté d’éléments de preuve concernant la date à laquelle Mme Kirschke a produit ses déclarations de TVH pour les périodes de déclaration de 2010 à 2014. Par conséquent, je ne me prononcerai pas sur la question de savoir si le 26 février 2018 est une date comprise dans la période dans laquelle le ministre a le droit d’établir une nouvelle cotisation pour l’ensemble ou une des cinq périodes de déclaration. Cependant, puisque j’ai déterminé que son avis d’opposition avait été déposé en temps opportun, cette question, s’il y a lieu, peut être abordée dans le cadre de son opposition aux nouvelles cotisations.
+[38] Par conséquent, la demande de prorogation du délai dans lequel Mme Kirschke peut signifier un avis d’opposition aux nouvelles cotisations établies en date du 14 juin 2016 pour les périodes de déclaration se terminant les 31 décembre 2010, 2011, 2012, 2013 et 2014 est rejetée au motif qu’aucune prorogation du délai n’est nécessaire puisque Mme Kirschke a déposé l’avis d’opposition en temps opportun.
+[39] Aucuns dépens ne seront adjugés à l’une ou l’autre des parties.
+Signé à Ottawa, Canada, ce 29e jour de mars 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+RÉFÉRENCE :
+2019 CCI 68
+NO DU DOSSIER DE LA COUR :
+2018-2718(GST)APP
+INTITULÉ :
+RUTH KIRSCHKE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 décembre 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge K.A. Siobhan Monaghan
+DATE DE L’ORDONNANCE :
+Le 29 mars 2019
+COMPARUTIONS :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat de la défenderesse :
+Me Kevin Hong
+AVOCATS INSCRITS AU DOSSIER :
+Pour la demanderesse :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour la défenderesse :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Elle soutient que sa déclaration de TVH portant la mention néant pour 2014 avait été produite avant le 26 mars 2015. La défenderesse n’a présenté aucun élément de preuve pertinent à cet égard, et j’admets donc la véracité de l’affirmation de Mme Kirschke. Si elle avait produit la déclaration après avoir déménagé, je suis certaine qu’elle aurait utilisé la nouvelle adresse.
+[2] Comme il sera discuté ultérieurement dans les présents motifs, Mme Kirschke soutient qu’elle n’aurait jamais dit cela, parce que ce n’est pas la nature de son revenu d’entreprise.
+[3] La date à laquelle cette conversation de suivi a eu lieu n’est pas indiquée dans le document « Notes pour l’entreprise ».
+[4] La première de ces lettres était datée du 26 février 2018, plus d’une semaine avant la mise à jour de son adresse dans la base de données électronique de l’ARC relativement à son compte de TPS/TVH. La défenderesse n’a présenté aucune explication quant à la raison pour laquelle une lettre concernant la TVH avait été envoyée à sa nouvelle adresse avant que cette adresse soit mise à jour dans la base de données électronique de l’ARC.
+[5] Selon les dossiers de l’ARC, le compte a été fermé le 6 mars 2018, rétroactivement au 31 décembre 2017. Comme il a été souligné précédemment, la date du 6 mars 2018 est également la date de mise en vigueur de la nouvelle adresse relative au compte de TPS/TVH de la demanderesse dans la base de données électronique de l’ARC.
+[6] Schafer c. Canada, 2000 D.T.C. 6542 (C.A.F.).
+[7] Scott v. M.N.R., 60 D.T.C. 1273 (Cour de l’Échiquier du Canada)
+[8] Mpamugo c. La Reine, 2016 CCI 215, conf. par 2017 CAF 136.
+[9] 2007 CCI 209. Voir aussi Bowen v. MNR, 91 D.T.C. 5594 (C.A.F.) et Doncaster c. La Reine, 2015 CCI 127 (procédure informelle).
+[10] Voir, par exemple Le sage au piano c. La Reine, 2014 CCI 319; Canada c. 236130 British Columbia Ltd., 2006 CAF 352 et Katepwa Park Golf Partnership c. La Reine, [2000] 3 C.T.C. 2043. L’affaire qui se rapproche le plus des faits en l’espèce est le jugement Gyimah c. La Reine, 2010 CCI 621.
+[11] [1981] C.T.C. 2555 (C.R.I.).
+[12] 2010 CCI 452.
+[13] Je reconnais que dans le jugement Newell c. La Reine, 2010 CCI 196, la Cour a déclaré que la TPS et l’impôt sur le revenu étaient deux questions distinctes et qu’il fallait, dans les deux cas, donner un avis de changement d’adresse. Dans cette affaire cependant, les éléments de preuve présentés par le contribuable selon lesquels il avait avisé l’ARC de son changement n’étaient pas convaincants. En outre, il s’agissait d’un jugement rendu suivant les règles régissant la procédure informelle.
+[14] Précité, note 6.
+[15] Grunwald c. Canada, 2005 CAF 421, [2005] G.S.T.C. 192, 2006 D.T.C. 6016 (F.C.A.); Universal Aide Society c. Canada (Revenu national), 2009 CAF 107, 2009 D.T.C. 5084 (C.A.F.); Austin c. La Reine, 2010 CCI 452.
+[16] Paragraphe 334(1) de la LTA. L’objet de la lettre est le suivant : [traduction] « Avertissement au sujet de votre dette de TPS/TVH au montant de 17 648,85 $ », mais n’explique pas l’origine de la dette.

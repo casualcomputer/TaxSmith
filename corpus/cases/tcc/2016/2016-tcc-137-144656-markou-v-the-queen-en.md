@@ -1,0 +1,462 @@
+---
+title: "Markou v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144656/index.do"
+last_modified: "2016-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 137"
+citation2: ""
+neutral_citation: "2016 TCC 137"
+decision_date: "2016-06-01"
+language: "en"
+item_id: "144656"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3093
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:49:11.719000+00:00"
+cases_cited_count: 11
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b3872e62ad856fc553cb1df8b0d29602c07bae688acd0499e4bb9227ce1457a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Markou v. The Queen
+
+- Citation: 2016 TCC 137
+- Decision date: 2016-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3093, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Markou v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-01
+Neutral citation
+2016 TCC 137
+File numbers
+2012-1995(IT)G, 2012-423(IT)G, 2012-562(IT)G, 2013-36(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-423(IT)G
+2012-562(IT)G
+2013-36(IT)G
+2012-1995(IT)G
+BETWEEN:
+GEORGE MARKOU
+WILLIAM HENDERSON
+SIMONETTA OLIVANTI
+GERRY PETRIELLO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Justice Campbell J. Miller
+DETERMINATION PURSUANT TO RULE 58(1) OF THE
+TAX COURT OF CANADA RULES (GENERAL PROCEDURE)
+IT IS HEREBY DETERMINED that:
+1. The Court has the jurisdiction to determine whether proceeds (“Proceeds”) obtained by the Appellants pursuant to certain Loan Agreements, as more particularly described in the Reasons attached hereto, are subject to a Quistclose trust.
+2. The Proceeds were not subject to a Quistclose trust.
+Signed at Ottawa, Canada, this 1st day of June 2016.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2016 TCC 137
+Date: 20160601
+Dockets: 2012-423(IT)G
+2012-562(IT)G
+2013-36(IT)G
+2012-1995(IT)G
+BETWEEN:
+GEORGE MARKOU
+WILLIAM HENDERSON
+SIMONETTA OLIVANTI
+GERRY PETRIELLO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR DETERMINATION
+(Determination heard on May 5 and 6, 2016, in Toronto, Ontario.)
+C. Miller J.
+[1] This is a Determination pursuant to Rule 58(1) of the Tax Court of Canada Rules (General Procedure) (“Rules”) addressing four Appellants’ Appeals. These Appellants are representatives of many other Appeals from Appellants represented by Davies, Ward, Phillips and Vineberg LLP.
+[2] The Parties framed the Determination as follows:
+1. The determination of the following questions of law and mixed questions of fact and law, pursuant to rule 58(1) of the Tax Court of Canada (General Procedure) (“Rules”):
+a) in respect of a purported donation made to the John McKellar Charitable Foundation (the “Foundation”) in 2001 by William Henderson (“Henderson”), who resided outside Quebec at the time he made the purported donation:
+i. does this Court have the jurisdiction to determine whether the proceeds that Henderson obtained in accordance with the Loan Application, Agreement and Power of Attorney, dated December 17, 2001 (a copy of which is attached as Schedule A) were subject to a Quistclose trust?
+ii. if so, were the proceeds that Henderson contracted in accordance with the Loan subject to a Quistclose trust?
+b) in respect of a purported donation made to the Foundation in 2001 by Simonetta Olivanti (“Olivanti”), who resided in Quebec at the time she made the purported donation:
+i. does this Court have the jurisdiction to determine whether the proceeds that Olivanti obtained in accordance with the Loan, dated December 3, 2001 (a copy of which is attached as Schedule B) were subject to a Quistclose trust under the law of Ontario?
+ii. if so, were the proceeds that Olivanti contracted in accordance with the Loan subject to a Quistclose trust?
+c) in respect of a purported donation made to the Foundation in 2002 by George Markou (“Markou”), who resided outside Quebec at the time he made the purported donation:
+i. does this Court have the jurisdiction to determine whether the proceeds that Markou obtained in accordance with the Loan, dated November 27, 2002 (a copy of which is attached as Schedule C), subject to a Quistclose trust?
+ii. if so, were the proceeds that Markou contracted in accordance with the Loan subject to a Quistclose trust?
+d) in respect of a purported donation made to the Foundation in 2002 by Gerry Petriello (“Petriello”), who resided outside Quebec at the time he made the purported donation:
+i. does this Court have the jurisdiction to determine whether the proceeds that Petriello obtained in accordance with the Loan, dated November 27, 2002 (a copy of which is attached as Schedule C), subject to a Quistclose trust?
+ii. if so, were the proceeds that Petriello contracted in accordance with the Loan subject to a Quistclose trust?
+[3] I have attached as Exhibit A the Partial Agreed Statement of Facts provided by the Parties. Although there is considerably more background than is necessary for the purposes of this Determination it is expedient to attach the Partial Agreed Statement of Facts in their entirety. I have used the defined terms in the Partial Agreed Statement of Facts in my Reasons.
+[4] As well as the Partial Agreed Statement of Facts, two of the four Appellants testified, and the Parties agreed that the answers obtained would be substantively similar to the other two Appellants. The gist of the testimony was that they were not aware of the many preordained arrangements, but simply believed they were making a donation using borrowed funds. They also admitted they were not involved in any negotiations but were aware or indeed had reviewed the lengthy opinions provided by Fraser, Milner, Casgrain LLP (“FMC”) and BDO Dunwoody. They were introduced to the donation programs by financial advisors, from whom they obtained packaged materials with respect to the program.
+[5] I also produce excerpts from the Loan Agreement:[1]
+AND WHEREAS the Borrower has by instrument of pledge of even date (the “Pledge”) pledged a donation of the sum of $11,000,000 (the “Donation”) to the Charity, has delivered to the Solicitors for Trinity, Fraser, Milner, Casgrain LLP, in Trust the sum of $3,520,000 (32% of the Donation) (the “Pledge Deposit”) and wishes to borrow the balance of $7,480,000 (68% of the Donation) together with the additional sum of $1,870,000 (17% of the Donation) (the “Expense Deposit”) (collectively, the “Loan Amount”) from the Lender in order to fulfill the Pledge;
+AND WHEREAS the Borrower by this Agreement will authorize and direct the Lender to make an application on behalf of the Borrower for an insurance policy which will, inter alia, insure the risk that the Security Deposit (as hereinafter defined) does not increase in value to equal the Loan Amount on the Due Date, as hereinafter defined (the “Policy”);
+…
+2.2 If this Loan Application is not accepted, the Pledge Deposit shall be immediately returned to the Borrower, without interest or deduction. If this Loan Application is accepted, then the Lender agrees to advance the Loan Amount to the Borrower and the Borrower hereby irrevocably authorizes and directs the immediate delivery of the Loan Amount (less the Expense Deposit, which shall be disbursed in accordance with Section 2.3 hereafter) and the Pledge Deposit to or to the order of the Charity on behalf of the Borrower, and upon such deliveries the Lender will be deemed to have advanced to the Borrower the Loan Amount, and Fraser, Milner, Casgrain LLP will be deemed to have thereby fully discharged its obligations regarding the Pledge Deposit.
+2.3 In the event that this Loan Application is accepted, the Borrower hereby irrevocably authorizes and directs Fraser, Milner, Casgrain LLP to make disbursement of the Expense Deposit in accordance with the provisions of the fourth recital above, and Fraser, Milner, Casgrain LLP will be deemed to have thereby fully discharged its obligations regarding the Expense Deposit.
+[6] Finally, I include an excerpt from a letter from FMC to one of the Appellants dated February 5, 2003:
+We advanced, on your behalf, the sum of $11,000,000.00 as a donation to the Foundation pursuant to your Pledge. The balance of the funds in the amount of $1,870,000.00 was disbursed in accordance with your direction in the Loan Agreement as follows:
+A. Does the Court have jurisdiction? [7] The first issue that the Parties ask me to determine is whether this Court has the jurisdiction to find there is or is not a Quistclose Trust. The Respondent argues that the Quistclose Trust is an equitable remedy only available to a lender in a court of equity, which the Tax Court of Canada is not. The Quistclose Trust evolved to provide a priority to a lender over other creditors. This Court cannot make such an order. I am not, however, being asked to invoke such a remedy. I am simply being asked if the circumstances are such that that equitable remedy would have been available to the lender, Capital, as the Appellants are of the view that such a finding would impact on the issue of whether or not they received any benefit vitiating a finding of gift.
+[8] The Respondent argues that by making such a finding, I am in fact making a declaration providing the equitable remedy itself. The Respondent’s view is that equity does not need to be invoked nor was intended to be invoked in these circumstances. There was no injustice that needs addressing; certainly, no injustice to the lender, who is the only proper Party to seek this remedy. The Respondent referred me to different lines of authority on this issue of jurisdiction, including my decision in the case of Warren v The Queen,[2] former Chief Justice Bowman’s decision in the case of Savoie v R,[3] Justice Webb’s decision in the case of Darte v R,[4] and this Court’s and the Federal Court of Appeal’s decisions in case of Hardtke v R.[5] There are other cases following one or other of these lines of authority, but I will address these lead cases only.
+[9] In the Warren decision, in which I relied to some extent on Justice Bowman’s decision in Savoie, I decided that it is open to this Court to address both the legalities and the equities arising from a certain set of facts. Surely that is our role if we are to correctly assess tax that is exigible based on those circumstances. If the circumstances suggest a trust, and that finding is necessary to get to a correct assessment, it would be strange indeed if the Court was precluded from making such a finding. The Respondent admits that if it were an express trust only, then I am correct in that thinking, but if it is the equitable remedy of a resulting trust or constructive trust, I am incorrect in that thinking.
+[10] The Respondent’s counsel referred to Justice Webb’s decision in Darte as being the leading case in the line of authority suggesting this Court does not have jurisdiction to make findings of resulting or constructive trust. Justice Webb went through a detailed review of the constructive trust, concluding that there had been no finding by a court of equity that, in the case before him, there was a constructive trust. He rightly indicated that the Tax Court of Canada is not a court of equity and, therefore, an equitable remedy of constructive trust could not be granted. However, he reached an equitable result. In his decision, he made the following statement:
+It would be unfair to not recognize her rights to an interest in the property.
+So, without declaring a constructive trust as such, Justice Webb found the Appellant had a right to apply to a court of equity for such a declaration and that right had a value for purposes of the application of section 160 of the Income Tax Act (the “Act”). In my decision in Warren I called this an end around: indeed, a clever way of achieving a correct assessment without, in Justice Webb’s view, doing something he believed this court had no authority to do.
+[11] With respect, I do not believe it should require such legal gymnastics.
+[12] In Huppe v R,[6] Justice Webb again had an opportunity to address this Court’s jurisdiction with respect to equitable remedies. In that case, he was dealing with the possible equitable remedy of specific performance. He again confirmed that this Court is not a court of equity and, therefore, absent some specific authority “cannot grant the remedy of specific performance”. But Justice Webb again finds a way to make this right. He indicates:
+18. Therefore this Court has been granted the jurisdiction to determine appeals under the Act and in relation to such appeals has been granted the power to allow an appeal and to grant the remedies provided in paragraph 171(1)(b) of the Act including the power to vary the assessment or refer the assessment back to the Minister for reconsideration and reassessment. Since the remedy that the Appellant would be seeking (since the Appellant indicated that the matter was settled) would be to vary the assessment or to refer the matter back to the Minister for reconsideration and reassessment, and since this Court has been specifically granted the power to order this remedy in disposing of an appeal, it seems to me that this Court does have the jurisdiction to enforce the agreement (by allowing the appeal and varying the assessment or referring the assessment back to the Minister for reconsideration and reassessment), if the Appellant can establish that such an agreement was made in this case. For any of the remedies as provided in paragraph 171(1)(b) of the Act, this Court does not need to be a court of equity to grant such remedy as this Court has been granted the power to grant these specific remedies. If, however, specific performance of the contract would require the granting of any remedy other than one of the remedies as provided in paragraph 171(1)(b) of the Act, then this Court would not have the jurisdiction to grant such remedy.
+[13] This hits the nail on the head. This Court’s role is to determine a correct assessment. As a court of equity, it cannot order property be delivered to one creditor over another arising from a constructive trust: it cannot order one spouse to pay another spouse arising from a resulting trust: it cannot order specific performance. Those are the remedies courts of equity can grant and this Court cannot.
+[14] The Respondent points to jurisprudence in courts of equity that refer to a resulting trust as an equitable remedy. It is not surprising that in a court of equity the jurisprudence refers to the resulting trust itself as an equitable remedy as it leads to the type of order I have just described. Frankly, that is not helpful in the context of this Court. Acknowledging the existence of a resulting or constructive trust in this Court, cannot lead to the order a court of equity could grant, but it can and it should allow this Court to determine the correctness of the assessment, with its eyes wide open to all the circumstances, factual, legal and equitable.
+[15] Respondent’s counsel suggested, albeit respectfully, that Justice Bowman’s decision in Savoie lacked detailed analysis of this important issue and that my decision in Warren should be rethought, and that this was my opportunity to recant. I do not. Justice Webb’s conclusion in Darte and in Huppe and my conclusion in Warren are not at odds. Perhaps, he was more circumspect.
+[16] I cannot, nor would I ever be so presumptuous as to speak for the former Chief Justice. But perhaps the reason he and I did not go through an extensive analysis that the Respondent seeks, is because, frankly, it is so apparent that we can consider a taxpayer’s rights, legal, contractual and equitable in assisting us get to a correct assessment. I am confirmed in this view by the Federal Court of Appeal’s comment in Hardtke. At trial, Justice Valerie Miller wrote the following in her decision:
+57. Counsel for the Appellant has requested that I declare that prior to the transfer, the Appellant held 50% of the Property by way of a constructive trust. It is my opinion that this court does not have the jurisdiction to grant the equitable remedy of constructive trust. Although the Tax Court is a superior court, it was created by statute and unlike the provincial superior courts it does not have inherent equitable jurisdiction. I agree with Webb J., as he then was, that the Tax Court is not a court of equity and cannot grant or declare the equitable remedy of a constructive trust: Darte (supra) at paragraph 21.
+58. Even if I had the jurisdiction to declare a constructive trust, this would require an analysis of the entire relationship between the Appellant and her spouse; the contributions each made to their assets and their liabilities; whether there were any agreements, marriage contracts, separation agreements or in general, any factors the parties would utilize in arguing for the division of their property rights: Kardaras v Canada, 2014 TCC 135. That analysis would have been impossible to make in the present case because the spouse was not a witness at the hearing and the evidence was lacking.
+[17] At the Federal Court of Appeal, Chief Justice Noël stated:
+It suffices to say in this regard that the question whether the evidence establishes the existence of a constructive trust is one of fact which must be established on a balance of probabilities (Hickman Motors Ltd. v. Canada, [1997] S.C.R. 336 at para. 92), and that no error of a palpable and overriding nature has been demonstrated with regard to the Tax Court judge’s conclusion that the evidence fell short of establishing the existence of a constructive trust (reasons, paras. 58 and 60).
+[18] Respondent’s counsel suggested that the Chief Justice could not have been addressing this important issue so lightly, and indicated that he only referred to paragraph 58 and not paragraph 57 of the trial decision. I do not believe that Chief Justice Noël would have read paragraph 58 in a vacuum. The issue was squarely before him. The other possibility is that because the Federal Court of Appeal is a court of equity (see the Federal Court Act) that the Federal Court of Appeal could make this determination so it is simply not an issue. That would result in the unsatisfactory position that a taxpayer could only obtain a thorough review of its circumstances leading to a correct assessment at an appeal court, and not at the very court set up to provide it at first instance.
+[19] The Respondent suggests that being a court of equity must mean something. I agree. She seeks a bright line as to what this court can and cannot do vis-à-vis equitable remedies. The Tax Court of Canada can look at a taxpayer’s circumstances and make a determination as to what facts are true and what legal and equitable rights are available to the taxpayer where such findings will assist the court deciding the correctness of the assessment. The Tax Court of Canada cannot order what a court of equity can order as a result of finding an equitable trust exists. For example, the Tax Court of Canada cannot order property be paid to one creditor over another and it cannot order property be paid from one spouse to another. It can, however, analyze the correctness of an assessment acknowledging any and all rights a taxpayer may have. Frankly, that is exactly what Justice Webb did in Darte.
+[20] Perhaps, the question on this Determination would have created less jurisdictional controversy if it had been framed in terms of what interest, if any, did the Appellants’ have in the funds prior to delivery to the charity. The Respondent would allow me to take into account an express trust in making that finding, but not a constructive or resulting trust. With respect, that amplifies the absurdity of extending the limitations on this Court of not being a court of equity to cover a simple acknowledgment of the circumstances of a resulting or constructive trust.
+[21] My answer to the first issue is yes: this Court has jurisdiction to determine if there was a Quistclose trust.
+B. In the circumstances before me, was there a Quistclose trust? [22] I could write a lengthy treatise on what is a Quistclose trust in Canadian law. I see no need to do that. I recognize considerable work has gone into arguing this issue and it has, with respect, been somewhat confusing due to the disagreement between the Parties as to the true nature of the trust (intentional, constructive, resulting) and whether the law is settled in Ontario on this point. I conclude this is simply not a Quistclose situation so I will be relatively brief in examining the many twists and turns in the development of the so-called Quistclose trust.
+[23] The birth of this concept and its evolution originated with the Barclays Bank Ltd v Quistclose Investments Ltd.[7] case itself followed by the case of Twinsectra v Yardley.[8] Reading those cases and the Canadian jurisprudence following in both British Columbia and Ontario,[9] and in reviewing the considerable academic commentary from experts[10] in the trust area, I conclude that the Quistclose trust is a concept known to Ontario law. It provides a right to a lender to an equitable remedy in situations where the lender has loaned funds to a borrower for a specific purpose, and where the lender is exposed to the risk of other creditors swooping in and snatching those funds from the borrower before the borrower uses them for the intended purpose. As put succinctly in Twinsectra, the trust “is essentially a security device to protect the lender against other creditors of the borrower pending the application for the money for the stated purposes”. The underlying rationale being explained by Lord Millett in Twinsectra is that equity intervenes because “it is unconscionable for a man to obtain money on terms to its application and then disregard the terms on which he received it”. In fact, notwithstanding all the commentary written about this concept, it is relatively straightforward.
+[24] I find, however, that the Appellants and more appropriately the lender, in this situation, are not in a Quistclose arrangement. They are in a contractual arrangement where, in Mr. Henderson’s case for example, on one day a lender puts funds into its law firm’s trust account, with the lender holding an irrevocable authority and direction from a borrower to immediately deliver funds to a charity. The funds do not vest in the borrower prior to delivery to the charity, permitting any possibility of the funds being held by the borrower in any trust, resulting, constructive or otherwise. The lender is in no need of the protection of a Quistclose trust, but is protected by the contractual arrangement already in place and by the fact the funds never leave its control. They go into their lawyer’s trust account, not into the borrower’s trust account as was the case in Twinsectra.
+[25] The loan agreement itself deems the loan only to have taken place upon delivery to the charity. I note specifically in paragraph 32 of the Partial Agreed Statement Facts that it is the lender, Capital, who directs the law firm to pay the funds to the charity’s law firm, WeirFoulds. I conclude FMC was never holding funds in trust for the borrower but for Capital, who was consequently never exposed to risk from the borrowers’ creditors, the circumstances necessary to give rise to a Quistclose trust in Ontario.
+[26] I acknowledge paragraph 2.3 of the loan agreement provides power to the borrowers to direct FMC to disburse funds but that is with respect to the Expense Deposit not the loan amount itself. FMC were never the Appellants’ lawyers.
+[27] The situation is not unlike the credit card arrangement Mr. Lubetsky described. For example, a Bank of Montreal Mastercard holder uses its credit card to donate to a charity. The charity looks to the Bank of Montreal for payment. The Bank of Montreal and the cardholder have an agreement which effectively has the cardholder directing the Bank of Montreal to make the payment. At that point, the time of delivery of funds by the Bank of Montreal to the charity, there is a loan between the Bank of Montreal and the cardholder.
+[28] I believe there are parallels to the situation before me, with the only distinction being the lender puts funds into its solicitors trust account. That, I conclude, is the only trust, an express trust or, as Mr. Lubetsky’s preference is, an intentional trust. But, to be clear, FMC does not hold the funds as any type of purpose trust. The law firm holds the funds at the direction of its client, the lender, not the borrower. The borrower and Capital have an agreement that the borrower may direct Capital. FMC is not part of that loan agreement. It simply gets its client’s money and waits for its client’s direction, notwithstanding what the agreement between its client, (the lender) and the taxpayer might say.
+[29] A Quistclose trust requires several elements, but essential to it, and to any trust, is that property is vested somewhere: someone has legal title. With the Quistclose trust, the property is vested with the borrower who has a fiduciary obligation to use funds for a specific purpose or return the funds to the lender. In cases cited to me, the property, usually money, vested with the borrower or the borrower’s agent, such as Mr. Sims in Twinsectra acting for Mr. Yardley.
+[30] Put simply, Capital does not need to turn to the equitable remedy of a Quistclose trust as I find it never divested itself of control of the funds. It could always say to FMC give me my money back based on the terms upon which it deposited funds to FMC’s account, being, hold the money until I direct you where to send it. Until the funds were delivered to the charity, or the charity’s lawyers, did the Appellants hold an interest in the funds? This raises a curious point: was there an instant, a nanosecond perhaps, before the funds vested with the charity that the funds were beneficially held by the borrower?
+[31] Dennis Klink in an article, “Recharacterizing the Quistclose trust: Lord Millett’s obiter dicta in Twinsectra”[11] provided an intriguing approach to this legally awkward situation. Clearly, to fulfill the raison d’être of this donation program, the Appellants had to have something to donate. They entered a loan agreement to be put in funds to complete their donation. Through the auspices of the FMC trust account and the construction and operation of the loan agreement itself, funds did not pass through the Appellants’ or their agents’ hands.
+[32] Although he was addressing parties’ respective interests in a Quistclose trust, Professor Klink did raise the possibility of what he called a contingent beneficial interest (in the borrower) that does not “preclude the presence of the beneficial interest in the lender”. Could that, however, still be the situation in the case before me where legal title has not transferred to the Appellants but they have some type of interest in the funds held by FMC? The loan agreement (paragraph 2.2) would suggest that at the very least the Appellants had a power to direct where funds are to go. Does this power, even if this situation is not considered a Quistclose trust situation (as legal title is not held by the Appellants), give the Appellants some contingent beneficial interest in the express trust upon which the funds were held by FMC? I am struck by Professor Klink’s comment that a “loan for a specific purpose is really a trust, or at least can be partnered with a trust, as a way of manipulating legal concepts so as to reach some results”. Is that not what lawyers do?
+[33] Let us step back for a moment, put aside legal manipulations and attempt to clearly identify what is truly going on:
+1. The Appellants and Capital have an agreement in which Capital agrees to lend money to the Appellants.
+2. In that very agreement, the Appellants direct Capital to deliver the loan funds to a charity on the Appellants’ behalf.
+3. Capital delivered funds to its parent’s law firm (FMC).
+4. Capital directs FMC to deliver the funds to the charity’s law firm, and, according to the agreement, this triggers the debt relationship between Capital and the Appellants.
+5. FMC confirms funds were delivered to the charity on the Appellants’ behalf.
+[34] I have concluded that no legal title ever vested in the Appellants that would give rise to the protective Quistclose trust in Capital’s favour. And, notwithstanding the attractiveness of Professor Klink’s contingent beneficial interest approach, I have not been referred to any jurisprudence suggesting such a notion and frankly, it does not make sense to rely on such a concept in the fact situation before me. The Appellants, in granting an irrevocable authority to Capital to deliver monies to the charity, had exhausted any power they might have had while the funds were held by FMC. Capital, and only Capital, could direct FMC: the Appellants could not, once the funds were delivered to FMC, direct otherwise. They had no further power at that stage. There was simply no beneficial interests by the Appellants in the money held by FMC. What the Appellants had was a right to sue Capital for breach of contract should Capital have directed FMC not to deliver the funds to the charity.
+[35] It was discussed at the hearing whether the Appellants, at the instant funds were delivered to the charity, held an interest in the funds. This is a beat your head against a brick wall discussion, which I consider unnecessary. I have concluded that until the funds were delivered to the charity’s lawyers, the Appellants had no legal or beneficial interest in the funds. Once delivered to the charity’s lawyers, the Appellants had a debtor/creditor relationship with Capital. That is all.
+[36] In answer to the questions for the Determination, I find that yes this Court has authority to consider whether or not there is a Quistclose trust situation, and no there was no Quistclose trust in the circumstances before me.
+[37] If the Parties wish to make any submissions on costs, they shall do so within 30 days of these Reasons, otherwise I make no award of costs.
+Signed at Ottawa, Canada, this 1st day of June 2016.
+“Campbell J. Miller”
+C. Miller J.
+EXHIBIT A
+SCHEDULE E
+20 l 4-423(IT)G
+TAX COURT OF CANADA
+BETWEEN :
+GEORGE MARKOU, ET AL.
+Appellants
+and
+HER MAJESTY THE QUEEN
+Respondent
+PARTIAL AGREED STATEMENT OF FACTS
+For the purposes of the appeals involving purported donations to the John McKellar Charitable Foundation (the "Foundation"), where the appellants are currently represented by Davies Phillips Ward & Vineberg LLP (the "McKellar Appellants"), the parties admit the truth of the facts set out in paragraphs 1 and following of this Partial Agreed Statement of Facts and agree that they are not precluded, at the hearing of the motion or at trial, if there is a trial, from calling evidence to supplement these facts as long as this evidence does not contradict these facts and as long as, at the hearing of the motion, the evidence is relevant to the questions to be determined.
+For the purposes of these appeals, except as specifically noted, the parties also agree that the documents referred to in this Partial Agreed Statement of Facts may be accepted for their truth2 and that the copies of the documents appended in tabs to this Partial Agreed
+2 In respect of the documents, the respondent does not admit that the McKellar Appellants made donations to the Foundation or that their Pledges reflected an intention to make donations to the Foundation regardless of whether they received proceeds from lenders or that their Pledges were legally valid or intended as anything other than window dressing.
+Statement of Facts are authentic within the meaning of rule 129 of the Tax Court of Canada Rules (General Procedure).3
+A. The leveraged-donation program
+1. From 2001 to 2003, Trinity Capital Corporation ("Trinity") promoted and operated a leveraged-donation program through which participants obtained charitable donation tax receipts from the Foundation (the "Program").
+2. In 2001 and 2002, the Program was known as The Donation Program for Medical Science and Technology.
+3. Trinity was incorporated in 1982 pursuant to the laws of Canada by James Beatty ("Beatty"), and ultimately dissolved in 2013. A copy of an extract from the website of Industry Canada is attached as tab Al .
+4. The Foundation is a charity first registered with the CRA in 1987. A copy of the CRA's Canadian registered charities -detail page for the Foundation, printed from the CRA's website on November 27, 2015 is attached as tab A2.
+5. John McKellar, CM, QC, a lawyer with WeirFoulds LLP ("WeirFoulds"), established the Foundation, and the initial directors were John D. McKellar, Marjorie McKellar and Barbara McKellar. The copies of the T3010 Registered Charity Information Form, including financial statements, filed by the Foundation with the CRA for 2001 is attached as tab A3.
+6. In its Registered Charities Information Return for the fiscal period ended December 31, 2002, the Foundation reported having received for that period $106,207,809 in tax-receipted gifts (i.e., not received from other charities) and reported having made
+Nor does the respondent agree with the legal opinions found in the promotional material for the leveraged-donation program in issue in these appeals.
+3 Apart from hand-written marks and notes found on some copies of the documents.
+for that same period gifts to qualified donees of $103,693,534 as set out in the two tables found in tab A4.4
+7. The Foundation remains a registered charity and is located in Toronto, Ontario.
+8. Through the Program, Trinity facilitated the transfer of funds from the participants to the Foundation.
+B. The 2001 Program
+9. The Foundation issued 118 charitable donation tax receipts to participants in this Program in the 2001 year (the "2001 Program").
+10. Generally speaking, Trinity or its agent would contact a potential participant to make a donation to the Foundation.
+11. The 2001 Program required participants to pledge an·amount to the Foundation, called the Pledge Amount.
+12. Trinity arranged for the entering into a loan5 for all the participants in the 2001 Program to borrow funds for a substantial portion of their Pledge Amount from Capital Structures Ltd. ("Capital"), a subsidiary of Trinity.
+13. Capital was created for the sole purpose of providing loans for the Program. Attached as tab B1 is a photocopy of the promotional material that outlines the 2001 Program.
+4 The use to which one of the qualified donees, The McKenzie Institute, put the funds that it received from the Foundation is an issue for trial. The reason the Foundation made the reported gift to the McKenzie Institute is an issue for trial.
+5 With respect to the Quebec appellants, it is not admitted that the contracts entered into are characterized as loans pursuant to Quebec civil law, despite how the contracts were initially named. The Quebec appellants reserve the right to argue the characterization of such contracts under Quebec law.
+14. Capital was incorporated pursuant to the laws of Ontario on October 12, 2001. Previously named 1496490 Ontario Inc., then Trinity Capital Debt Corp., it was renamed as Capital by Articles of Amendment, dated December 28, 2001.
+15. Where the participant chose to participate in the 2001 Program:
+a) the participant completed a Loan Application, Agreement, and Power of Attorney;6
+b) the participant issued a cheque for an amount equal to his or her 30% contribution toward the Pledge Amount, called the Pledge Deposit, to Fraser Milner Casgrain LLP ("Fraser Milner"), in trust;
+c) the participant obtained proceeds in accordance with a Loan for the remaining 70% of the Pledge Amount and an additional 10% of the Pledge Amount, for a total equal to 80% of the Pledge Amount; 7
+d) the Loan had a term of 20-years and was interest-free;
+e) the additional 10% of the Pledge Amount, which the participant borrowed, went toward an Expense Deposit;
+f) part of the Expense Deposit was paid to Capital as a Security Deposit (an amount equal to 8% of the Pledge Amount);
+6 In the interest of simplicity, this type of contract shall hereinafter be referred to as a
+"Loan".
+7 Originally, Trinity permitted all participants to borrow 80% of their Pledge from Capital by way of non-interest bearing loan with a 20-year term, open to pre-payment at any time after January 15, 2002. Participants were to pay the remaining 20% of their Pledge with their own resources, and also were to pay an amount equal to 10% of their Pledge to Capital for fees, insurance and a Security Deposit. Attached as marked as tab B2 is a photocopy of the promotional material that outlines the 2001 Program once the original terms of the 2001 Program were altered.
+g) the rest of the Expense Deposit (2% of the Pledge Amount) was applied toward a loan transaction fee (1.2% of the Pledge Amount), charged by Capital, and a premium for an insurance policy, called a Deposit Accretion Insurance policy, for the participant for which Capital would apply (0.8% of the Pledge Amount); and,
+h) the participant provided a Promissory Note as evidence of the Loan.
+16. The insurer was Gettysburg National Indemnity (SAC) Ltd. ("Gettysburg"),
+having an address in Bermuda.
+17. The 2001 Program provided that all participants could assign the Deposit Accretion Insurance policy and the Security Deposit to Capital as full payment of the Loan at any time after January 15, 2002, and Capital was obligated to accept the assignment of the Security Deposit and the Deposit Accretion Insurance Policy as payment in full of the Loan.
+18. The Pledge Deposit and the borrowed 70% of the Pledge Amount would be directed to or to the order of the Foundation.
+19. The Foundation would issue a tax receipt to the participant for the full Pledge Amount.
+20. From the 2001 Program, and through lawyer's trust accounts, the Foundation recorded receipt of $18,305,000 of Pledge Amounts from 118 participants in 2001, of which approximately 70% represented the Loan amounts. Marked as tab B3 is a copy of the Foundation's record showing payments received.
+21. The Foundation directed substantially all of these funds to: the Mackenzie Institute for the Study of Terrorism ("Mackenzie"), a Canadian registered charity; and Cornell University ("Cornell"), a University in the United States of America which is a prescribed university under Schedule VIII, s 1(s 3503) of the Income Tax Regulations.
+22. The Foundation directed $12,479,024 to Mackenzie and $5,643,000 to Cornell. It received $182,976 for its own purposes. Marked as tab B4 is a photocopy of the Foundation's record showing the directed funds recorded in 2001.
+23. In 2001 Trinity also acted as a fundraising agent for Mackenzie. Marked as tab B5 is a photocopy of the Fundraising Agreement.
+24. Pursuant to an Exclusive License Agreement, dated December 31, 2001, and an Amending Agreement dated January 15, 2002, Charterbridge Holdings International Ltd. ("Charterbridge"), a British Virgin Islands corporation, acquired from Osteopharm Inc. ("Osteopharm"), a Canadian corporation, an exclusive license to discover, develop, obtain regulatory approval for, manufacture and sell certain products described in the license agreement (the "Osteopharm Intellectual Property"). Marked as tabs B6 and B7 are copies of the Agreement and Amending Agreement.
+25. Trinity arranged for Mackenzie to be the recipient of $12,479,024 of the Pledge Amounts from the Foundation, and so Mackenzie agreed to enter into an Agreement of Purchase and Sale, dated December 31, 2001, to purchase from Charterbridge a 5% interest in the commercial exploitation of the Osteopharm Intellectual Property for
+$65,000,000. Pursuant to its Agreement, Mackenzie agreed to direct $11,628,887 of the Pledge Amounts receivable from the Foundation to Charterbridge for a 0.9% interest in the commercial exploitation of the Osteopharm Intellectual Property. Marked as tabs BS, B9 and B 10 are photocopies of the Purchase Agreement between Mackenzie and Charterbridge, a Direction from The Foundation to WeirFoulds to pay
+$11,628,887 to Charterbridge, and an acknowledgment letter from Charterbridge.
+26. Mackenzie also had $725,274 of the funds receivable from the Foundation directed to Charterbridge. The amount of $748,741 was then directed by Charterbridge, on Mackenzie's instructions, to Trinity as per Mackenzie's Fundraising Agreement.
+27. LifeTech Corporation ("LifeTech") is a public Canadian biotechnology company, whose chairman of the board is Beatty, which was subsequently renamed IATRA Life Sciences Corporation.
+28. Pursuant to an Agreement dated December 31, 2001, Charterbridge acquired from LifeTech two level III biocontainment laboratories (the "Laboratories"), together with all relevant patents and all the intellectual property relating to the inventions of an ozone generator and a bolus flow apparatus, and a number of working models of such inventions (the "LifeTech Intellectual Property"). The consideration for this transaction included the payment of $600,000 to LifeTech, and the provision to LifeTech of the exclusive right to develop and commercialize in Canada a proprietary diagnostic test for kidney disease (which was later changed to the exclusive right to develop and commercialize a proprietary diagnostic test for osteoporosis) upon the acquisition by Charterbridge, if any, of such a right. Marked as tab B11 is a photocopy of the Agreement along with associated documentation including press releases.
+29. Trinity arranged for Cornell to be the recipient of $5,643,000 of the Pledge Amounts from the Foundation, and so Cornell agreed to enter into two Agreements, both dated December 31, 2001, to acquire the Laboratories and the LifeTech Intellectual Property from Charterbridge, all for the purchase price of $5,643,000, and to direct all of the funds receivable from the Foundation to Charterbridge. Marked as tabs B12 and B13 are photocopies of the Agreements.
+30. Capital did not have sufficient funds to make Loans to the participants in the combined amounts of $14,644,000, and so it borrowed the sum of $14,052,000 from Trilon Financial Corporation ("Trilon"), a Canadian financial services corporation, by way of daylight loan, and $592,000 from Trinity. Marked as tabs B14, B15 and Bl6 are the promissory note, the General Security Agreement, and a Direction from Capital to Trinity.
+31. Capital directed Trilon and Trinity to pay the amounts it borrowed from them to the order of Fraser Milner, in Trust (see, e.g., tab B16).
+32. Capital directed Fraser Milner, in Trust, to pay a portion of the Loan proceeds, representing 70% of the purported donation, to WeirFoulds, in Trust for the credit of the Foundation (in the case of the amount borrowed from Trilon) or to the Foundation directly (in the case of the amount borrowed from Trinity).
+33. Charterbridge directed at least $14,052,000 of the $17,997,161 receivable from Mackenzie and Cornell, to Capital, on the terms and conditions set out in a promissory note dated December 31, 2009, provided by Capital to Charterbridge. Marked as tab B 17 is a photocopy of the promissory note from Capital to Charterbridge.
+34. Capital directed the $14,052,000 receivable from Charterbridge to Trilon, to repay the daylight loan used to finance the loans.
+35. The transfer of funds between the relevant entities occurred on the following dates:
+Transaction Date
+Trilon, via daylight loan, provided December 31, 2001
+Capital with $14,052,000 of the Loan funds
+Trinity provided Capital with December 31, 2001
+$592,000 of the Loan funds
+Capital directed the Loan funds to the December 31, 2001
+Foundation (as per the participant’s Pledge)
+The Foundation directed the payments, December 31, 2001
+less than an amount retained by it, to Cornell and Mackenzie
+Cornell and Mackenzie directed
+$14,052,000 of the Loan funds from the Foundation to Charterbridge
+December 31, 2001
+Charterbridge directed $14,052,000 of December 31, 2001
+the Loan funds from Cornell and Mackenzie to Capital
+Capital used the funds from Charterbridge to repay the daylight loan to Trilon
+December 31, 2001
+36. Most of the participants in the 2001 Program assigned their Security Deposits and Deposit Accretion Insurance policies to Capital in full satisfaction of their Loan in 2002.
+37. Pursuant to the loan agreement between Capital and Charterbridge, the funds were repaid over a period of time by Capital assigning to Charterbridge the Security Deposits and Deposit Accretion Insurance policies it received from the participants.
+38. All of the above steps, including the disputed Loans to the participants, the purchase of the Laboratory Equipment and LifeTech Intellectual Property, and the flow of funds in the series of transactions that occurred in the 2001 Program, were pre­ determined and interconnected.
+39. Gettysburg consented to the assignment of the Deposit Accretion Insurance policies to Capital.
+40. Most of the participants in the 2001 Program claimed charitable donation tax credits for their 2001 taxation year using the receipts issued by the Foundation.
+C. The 2002 Program
+41. There were over 400 individuals who participated in the Program in 2002 (the
+"2002 Program").
+42. Generally speaking, Trinity or its agent would contact a potential participant to make a donation to the Foundation.
+43. The 2002 Program required that a participant sign a Pledge for the total amount of the donation, also called the Pledge Amount.
+44. Trinity arranged for the entering into a Loan for all the participants in the 2002 Program to borrow funds for a substantial portion of their Pledge Amounts from one of a number of subsidiaries of Trinity, including Capital Structures 2002 Ltd. (the "Lender" or in referring to more than one of these subsidiaries, the "Lenders").
+45. Capital Structures 2002 Ltd. was incorporated pursuant to the laws of Ontario on February 14, 2002.
+46. Where the participant chose to participate in the 2002 Program:
+a) the participant completed a Loan;
+b) the participant issued a cheque for an amount equal to his or her 32% contribution toward the Pledge Amount, called the Pledge Deposit, to Fraser Milner, in trust;
+c) the participant obtained proceeds in accordance with a Loan for the remaining 68% of the Pledge Amount and an additional 17% of the Pledge Amount, for a total equal to 85% of the Pledge Amount;
+d) the Loan had a term of 25-years and was interest-free;
+e) the additional 17% of the Pledge Amount, which the participant borrowed, went toward an Expense Deposit;
+f) part of the Expense Deposit was paid to Capital Structures 2002 Ltd. as a Security Deposit (an amount equal to 12% of the Pledge Amount);
+g) the rest of the Expense Deposit (5% of the Pledge Amount) was applied toward a loan transaction fee (2.4% of the Pledge Amount), charged by Capital Structures 2002 Ltd., and a premium for an insurance policy, called a Deposit Accretion Insurance policy, for the participant for which Capital Structures 2002 Ltd. would apply (2.6% of the Pledge Amount); and,
+h) the participant provided a Promissory Note as evidence of the Loan.
+47. The insurer was British Indemnity Corporation ("British Indemnity"), having an address in Bermuda.
+48. Generally speaking, the Lender borrowed the funds needed to make the Loans to the participants in the 2002 Program and directed that those borrowed funds be paid to the order of Fraser Milner, in Trust.
+49. Generally speaking, if the Lender approved the Loan to a participant, the Lender directed Fraser Milner, in Trust, to pay a portion of these funds, representing 68% of the purported donations, to WeirFoulds, in Trust, for the credit of the Foundation. 8
+50. The Pledge Deposit and the borrowed 68% of the Pledge Amount would be directed to or to the order of the Foundation.
+51. The Foundation would issue a tax receipt to the participant for the full Pledge Amount.
+52. Most of the participants in the 2002 Program assigned their Security Deposits and Deposit Accretion Insurance policies to the Lenders in full satisfaction of their Loan.
+53. British Indemnity consented to the assignments of the Deposit Accretion Insurance policies to the Lenders.
+C. The circular flow of funds
+54. In the 2001 and 2002 Programs, the lender to the participant, whether Capital, Capital Structures 2002 Ltd. or another Lender, knew in advance of entering into the Loan with each participant that, through a series of directions and pre-arranged transactions with third parties (i.e., including the Foundation but not the
+8 This applies to the Loans into which George Markou and Gerry Petriello entered.
+)
+participants 9 , the proceeds advanced to the participant would be returned to it on the same day, or shortly thereafter.
+D. William Henderson ("Henderson")
+1) Transactions involving Henderson
+55. Henderson participated in the 2001 Program by making a purported donation of
+$100,000 to the Foundation.
+56. Henderson did so by:
+a) signing a Pledge, dated December 17, 2001, to donate $100,000 to the Foundation. A copy of the Pledge is found in tab D1 ;
+b) providing $30,000 (equal to 30% of his purported donation) to Fraser Milner, in Trust. A copy of a cheque, dated December 21, 2001, in this amount is found in tab D2;
+c) signing a Loan, dated December 17, 2001, to and in favour of Capital for proceeds of $80,000 (equal to 80% of his purported donation). A copy of this document is found in tab D3. The copy is not signed by Capital, but the parties agree that the Loan was approved by Capital;
+d) signing a Non-Negotiable Promissory Note, dated December 14, 2001, to pay to or to the order of Capital the amount of $80,000. A copy of this Promissory Note is found in tab D4; and,
+e) obtaining a Deposit Accretion Insurance policy from Gettysburg. The insurance policy is substantially in the form found in tab D5.
+57. Henderson did not deposit the proceeds obtained in accordance with the Loan to a personal bank account.
+9 There are some exceptions. Those participants are not McKellar Appellants.
+58. Henderson's purported donation to the Foundation was made on December 31, 2001.
+59. On January 21, 2002, the Foundation issued a charitable donation tax receipt to Henderson in the amount of $100,000. A copy of the tax receipt is found in tab D6.
+60. Henderson assigned his Security Deposit and Deposit Accretion Insurance policy to Capital in full satisfaction of his Loan.
+61. To this end, Henderson and Capital signed the following undated documents:
+a) a Quit Claim, in respect of the Security Deposit; and,
+b) an Assignment, in respect of the Deposit Accretion Insurance policy.
+A copy of the Quit Claim is found in tab D7 and a copy of the Assignment is found in tab D8.
+62. Henderson's Pledge was not made under seal.
+63. At the time of making the purported donation, Henderson resided in Mississauga, Ontario.
+2) Filing and assessing history for Henderson
+64. In his return of income for the 2001 taxation year, Henderson claimed a federal charitable donation tax credit of $29,000 in respect of a purported donation of
+$100,000 to the Foundation.
+65. In his return of income for the 2001 taxation year, Henderson also claimed a provincial charitable donation tax credit of $11, 160 in respect of his purported donation to the Foundation. This had the effect of reducing Henderson's Ontario tax payable by $17,409.
+66. The Minister of National Revenue (the "Minister") reassessed Henderson and denied the entire tax credit claimed. Notice of this reassessment was dated May 20,
+2005. In reassessing Henderson, the Minister took the position that Henderson had not made a gift to the Foundation; that the loan Henderson had received was not bona fide; and that the general anti-avoidance rule ("GAAR") applied in the circumstances.
+67. On August 1, 2005, Henderson served a notice of objection in respect of the reassessment.
+68. The Minister confirmed this reassessment on November 8, 2011 on the basis that there was no gift.
+69. In her Reply, the Minister takes the position that, if the purported donation were a valid gift, then the GAAR applied to deny the charitable donation tax credit.
+E. Simonetta Olivanti ("Olivanti")
+1) Transactions involving Olivanti
+70. Olivanti participated in the 2001 Program by making a purported donation of
+$50,000 to the Foundation.
+71. Olivanti did so by:
+a) signing a Pledge, dated December 3, 2001, to donate $50,000 to the Foundation. A copy of the Pledge is found in tab El ;
+b) issuing a cheque, dated December 3, 2001, in the amount of $15,000 (or 30% of her purported donation) to Fraser Milner, in Trust. A copy of the cheque in this amount is found in tab E2;
+c) signing a Loan, dated December 3, 2001, to and in favour of Capital for proceeds of $40,000 (equal to 80% of her purported donation). A copy of this document is found in tab E3. The copy is not signed by Capital, but the parties agree that the Loan was approved by Capital;
+d) signing a Non-Negotiable Promissory Note, dated December 3, 2001, to pay to or to the order of Capital the amount of $40,000. A copy of the Promissory Note in this amount is found in tab E4; and,
+e) obtaining a Deposit Accretion Insurance policy from Gettysburg. The insurance policy is substantially in the form found in tab D5.
+72. Olivanti did not deposit the proceeds obtained in accordance with the Loan to a personal bank account.
+73. Olivanti's purported donation to the Foundation was made on December 31, 2001.
+74. On January 21, 2002, the Foundation issued a charitable donation tax receipt to Olivanti in the amount of $50,000. A copy of the tax receipt is found in tab E5.
+75. Olivanti assigned her Security Deposit and insurance policy to Capital in full satisfaction of her Loan.
+76. To this end, Olivanti and Capital signed two documents dated January 16, 2002:
+a) a Quit Claim, in respect of the Security Deposit, and
+b) an Assignment, in respect of the Deposit Accretion Insurance policy.
+A copy of the Quit Claim is found in tab E6 and a copy of the Assignment (without Schedule A) is found in tab E7.
+77. Olivanti's Pledge was not made under seal.
+78. At the time of making the purported donation, Olivanti resided in Laval, Quebec.
+2) Filing and assessing history for Olivanti
+79. In her return of income for the 2001 taxation year, Olivanti claimed a federal charitable donation tax credit of $11,979.23 in respect of $41,397.34 of her purported donation of $50,000 to the Foundation, and transferred the rest to her spouse.
+80. Olivanti also claimed a provincial charitable donation tax credit in respect of her purported donation for the 2001 taxation year.
+81. The Minister reassessed Olivanti and denied the entire tax credit claimed. Notice of this reassessment was dated May 2, 2005. In reassessing Olivanti, the Minister took the position that Olivanti had not made a gift to the Foundation; that the loan Olivanti had received was not bona fide; and that the GAAR applied in the circumstances.
+82. On July 15, 2005, Olivanti served a notice of objection in respect of the reassessment.
+83. On October 11, 2012, the Minister confirmed the reassessment on the basis that there was no gift.
+84. In her Reply, the Minister takes the position that, if the purported donation were a valid gift, then the GAAR applied to deny the charitable donation tax credit.
+F. George Markou ("Markou")
+1) Transactions involving Markou
+85. Markou participated in the 2002 Program by making a purported donation of
+$11,000,000 to the Foundation.
+86. Markou did so by:
+a) signing a Pledge to donate $11,000,000 to the Foundation, dated November 27, 2002. A copy of the Pledge is found in tab F1 ;
+b) providing a bank draft, dated November 28, 2002, for $3,520,000 (equal to 32% of his purported donation) to Fraser Milner, in Trust. A copy of the bank draft is found in tab F2;
+c) signing a Loan dated November 27, 2002, to and in favour of Capital Structures 2002 Ltd. for a proceeds of $9,350,000 (equal to 85% of his purported donation). A copy of this document is found in tab F3;
+d) signing a Non-Negotiable Promissory Note, dated November 27, 2002, to pay to or to the order of Capital Structures 2002 Ltd. the amount of
+$9,350,000. A copy of the Promissory Note is found in tab F4; and,
+e) obtaining a Deposit Accretion Insurance policy, dated December 12, 2002, from British Indemnity. A copy of the insurance policy is found in tab F5.
+87. Markou did not deposit the proceeds obtained in accordance with the Loan to a personal bank account.
+88. Markou's purported donation to the Foundation was made on December 5, 2002.
+89. On December 11, 2002, the Foundation issued a charitable donation tax receipt to Markou in the amount of $11,000,000. A copy of the tax receipt is found in tab F6.
+90. By letter dated February 5, 2003, Fraser Milner reported to Markou on his transactions. A copy of the letter is found in tab F7.
+91. On March 16, 2003, Markou assigned his Security Deposit and Deposit Accretion Insurance policy to Capital Structures 2002 in full satisfaction of his Loan.
+92. To this end, Markou and Capital Structures 2002 signed the following two documents dated March 16, 2003:
+a) a Quit Claim, in respect of the Security Deposit, and
+b) an Assignment, in respect of the Deposit Accretion Insurance policy.
+A copy of the Quit Claim is found in tab F8 and a copy of the Assignment (without Schedule A) is found in tab F9.
+93. Markou's Pledge was not made under seal.
+94. At the time of making the purported donation, Markou resided in Unionville, Ontario.
+2) Filing and assessing history for Markou
+95. In his return of income for the 2002 taxation year, Markou claimed a federal charitable donation tax credit of $3,192,900 in respect of a purported donation of
+$11,000,000 to the Foundation.
+96. In his return of income for the 2002 taxation year, Markou also claimed a provincial charitable donation tax credit of $1,227,600 in respect of his purported donation to the Foundation. This had the effect of reducing Markou's Ontario tax payable by
+$1,915,055.
+97. The Minister reassessed Markou and denied the entire tax credit claimed. Notice of this reassessment was dated May 5, 2006. In reassessing Markou, the Minister took the position that Markou had not made a gift to the Foundation; that the loan Markou had received was not bona fide; and, that the GAAR applied in the circumstances.
+98. On May 23, 2006, Markou served a notice of objection m respect of the reassessment.
+99. The Minister confirmed this reassessment on October 24, 2011 on the basis that there was no gift.
+100. In her Reply, the Minister takes the position that, if the purported donation were a valid gift, then the GAAR applied to deny the charitable donation tax credit.
+G. Gerry Petriello ("Petriello")
+1) Transactions involving Petriello
+101 . Petriello participated in the Program by making a purported donation of $50,000 to the Foundation.
+102. Petriello did so by:
+a) signing a Pledge, dated December 16, 2002, to donate $50,000 to the Foundation. A copy of this document is found in tab G1;
+b) providing a certified cheque or bank draft for $16,000 to Fraser Milner, in Trust (32% of his purported donation);
+c) signing a Loan to and in favour of Capital Structures 2002 Ltd. for a proceeds of $42,500 (equal to 85% of his purported donation);
+d) signing a Non-Negotiable Promissory Note (to pay to or to the order of Capital Structures 2002 Ltd. the amount of) $42,500; and,
+e) obtaining a Deposit Accretion Insurance policy from British Indemnity that would insure the risk that his Security Deposit failed to grow in value, over the term of the Loan, to an amount equal to the principal of the proceeds.
+103. Some of the documents described in the preceding paragraph have not been produced. However:
+a) his Loan is substantially in the form of Markou's Loan found in tab F3;
+b) his Non-Negotiable Promissory Note is substantially in the form of Markou's Promissory Note found in tab F4; and,
+c) his Deposit Accretion Insurance policy is substantially in the form of Markou's Deposit Accretion Insurance policy found in tab F5.
+104. The Loan of $42,500 had a 25-year term, was interest free and was extinguishable by the assignment of the Deposit Accretion Insurance policy and the Security Deposit to Capital Structures 2002 Ltd.
+105. A portion of the proceeds obtained in accordance with the Loan, equal to 17% of the purported donation, covered the Expense Deposit and went toward the Security Deposit, insurance premium and "loan transaction fee".
+106. Petriello's Security Deposit was $6,000 (equal to 12% of the purported donation).
+107. Petriello did not deposit the proceeds obtained in accordance with the Loan to a personal bank account.
+108. Petriello's purported donation to the Foundation was made on December 20, 2002.
+109. On January 6, 2003, the Foundation issued a charitable donation tax receipt to Petriello in the amount of $50,000. A copy of the tax receipt is found in tab G2.
+110. Petriello entered into the Loan in return for making his purported donation to the Foundation.
+111. Petriello assigned his Security Deposit and Deposit Accretion Insurance policy to Capital Structures 2002 Ltd. in full satisfaction of his Loan.
+112. To this end, Petriello and Capital Structures 2002 Ltd. signed the following two documents:
+a) a Quit Claim, in respect of the Security Deposit, and
+b) an Assignment, in respect of the Deposit Accretion Insurance policy.
+Petriello has not produced these documents. His Quit Claim is substantially in the form of Markou' s Quit Claim found in tab F8 and his Assignment is substantially in the form of Markou's Assignment found in tab F9.
+113. Petriello's Pledge was not made under seal.
+114. At the time of making the purported donation, Petriello resided in Dollard-Des­ Ormeaux, Quebec.
+2) Filing and assessing history for Petriello
+115. In his return of income for the 2002 taxation year, Petriello claimed a federal charitable donation tax credit of $14,499 in respect of a purported donation of
+$50,000 to the Foundation.
+-- 30 --
+116. Petriello claimed a provincial charitable donation tax credit in respect of his purported donation for the 2002 taxation year.
+117. The Minister reassessed Petriello and denied the entire tax credit claimed. Notice of this reassessment was dated April 13, 2006. In reassessing Petriello, the Minister took the position that Petriello had not made a gift to the Foundation; that the loan Petriello had received was not bona fide; and that the GAAR applied in the circumstances.
+118. Petriello served a notice of objection in respect of the reassessment on July 4, 2006.
+119. The Minister confirmed this reassessment on February 23, 2012 on the basis that there was no gift.
+120. In her Reply, the Minister takes the position that, if the purported donation were a valid gift, then the GAAR applied to deny the charitable donation tax. credit.
+H. Additional matters
+121. The law of Ontario applies to the question of whether the proceeds that Olivanti and Petriello obtained in accordance with each of the Loans to which they were a party were subject to a Quistclose trust.
+CITATION:
+2016 TCC 137
+COURT FILE NOS.:
+2012-423(IT)G, 2012-562(IT)G,
+2013-36(IT)G, 2012-1995(IT)G
+STYLE OF CAUSE:
+GEORGE MARKOU,
+WILLIAM HENDERSON,
+SIMONETTA OLIVANTI,
+GERRY PETRIELLO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 5 and 6, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+June 1, 2016
+APPEARANCES:
+Counsel for the Appellants:
+Guy Du Pont, Michael H. Lubetsky, Paul Prokos, Reuben Abithol (May 5 only)
+Counsel for the Respondent:
+Lorraine Edinboro, John Grant, Arnold H. Bornstein
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Guy Du Pont, Michael H. Lubetsky,
+Paul Prokos, Reuben Abithol (May 5 only)
+Firm:
+Davies, Ward, Phillips & Vineberg LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The excerpts are from the Loan Application, Agreement and Power of Attorney signed by George Markou dated November 27, 2002. The provisions are substantially similar to such agreements for the other Appellants.
+[2] 2008 TCC 674.
+[3] 1993 CarswellNat 1015(TCC).
+[4] 2008 TCC 66.
+[5] 2015 TCC 135.
+[6] 2010 TCC 644.
+[7] [1968] 3 All ER 651 (HL).
+[8] [2002] UKHL 2, [2002] All ER 377.
+[9] Westar Mining Ltd. (Re), 2003 BCCA 11, 39 CBR (4th) 313. Cliffs Over Maple Bay Investments (Re), 2011 BCCA 180, 77 CBR (5th) 1. Right Business Ltd v Affluent Public Ltd, 2012 BCCA 375, 96 CBR (5th) 268. Ontario (Training, Colleges and Universities) v Two Feathers Forest Products LP, 2013 ONCA 598. 962789 Ontario Ltd v Newmarket Plaza Limited. 2014 ONSC 2254, 119 O.R. (3rd) 610 (Div Ct). Redstone Investment Corp, Re, 2015 ONSC 533, 26 CBR (6th) 272.
+[10] A.H. Oosterhoff et al., Oosterhoff on Trusts: Text, Commentary and Materials, 8th ed (Toronto: Thomson Reuters Canada, 2014). Donovan W.M. Waters, ed in chief, Waters' Law of Trusts in Canada, 4th ed (United States: Thomson Reuters, 2012). Andrew Nathanson and Jennifer Francis, “Remedies for Misapplication of Funds Based on Quistclose Trust Principles” (2005) 2 Commercial Litigation 612. Michael Smolyansky, “Reining in the Quistclose Trust: a Response to Twinsectra v Yardley” (2010) 16 Trusts & Trustees 558.
+[11] Dennis Klink, “Re-characterizing the Quistclose Trust: Lord Millett’s Obiter Dicta in Twinsectra” (2005) 42 Can Bus LJ 427.

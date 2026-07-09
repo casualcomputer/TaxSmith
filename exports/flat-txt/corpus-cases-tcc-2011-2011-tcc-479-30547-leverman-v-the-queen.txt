@@ -1,0 +1,144 @@
+Title: Leverman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30547/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-479-30547-leverman-v-the-queen.md
+Document type: case_law
+Last modified: 2011-10-13
+
+# Leverman v. The Queen
+
+- Citation: 2011 TCC 479
+- Decision date: 2011-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7321, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leverman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-13
+Neutral citation
+2011 TCC 479
+File numbers
+2009-3654(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3654(IT)G
+BETWEEN:
+John Robert Leverman,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 27, 2011 at Nanaimo, British Columbia.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+ORDER
+Upon motion by the appellant for:
+1. an order for oral examination for discovery at the cost of the respondent;
+2. in the alternative, an order requiring answers to questions asked on written examination for discovery, appellant’s questions that is, the 5(d), 12, 13, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 29, 33, 34, 38, 39, 40, 41, 42, 43, 44, 45, 46, 50, 52, 53, 54, and 55 in Exhibit “L” to the affidavit of Dianne Leverman;
+3. an order that the respondent produce the Daytimer document and any other documents in which the expense receipts requested by the auditors are noted or referred to;
+4. an order that a settlement conference be held and prescribing any conditions thereof;
+5. costs;
+And upon having heard the allegations of the parties;
+It is ordered as follows:
+The request for oral examination for discovery is dismissed;
+The request for additional answers by the respondent to the specific questions on written examination for discovery is dismissed;
+The request that the respondent produce the Daytimer document or any document in which the expense receipts requested by the auditor are noted is dismissed;
+The request for a settlement conference is granted and a settlement conference shall be held in Vancouver before a judge of this Court at the first available sitting following the date of this order, upon consultation with the parties.
+Costs shall be in the cause.
+Signed at Ottawa, Canada, this 13th day of October 2011.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2011 TCC 479
+Date: 20111013
+Docket: 2009-3654(IT)G
+BETWEEN:
+John Robert Leverman,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre J.
+Request for oral examination for discovery
+[1] Section 17.3 of the Tax Court of Canada Act (Act) reads as follows:
+17.3 (1) Examinations for discovery ‑ Where the aggregate of all amounts in issue in an appeal under the Income Tax Act is $25,000 or less, or where the amount of the loss that is determined under subsection 152(1.1) of that Act and that is in issue is $50,000 or less, an oral examination for discovery shall not be held unless the parties consent thereto or unless one of the parties applies therefor and the Court is of the opinion that the case could not properly be conducted without that examination for discovery.
+(2) Consideration on application ‑ In considering an application under subsection (1), the Court may consider the extent to which the appeal is likely to affect any other appeal of the party who instituted the appeal or relates to an issue that is common to a group or class of persons.
+(3) Mandatory examination ‑ The Court shall order an oral examination for discovery in an appeal referred to in subsection (1), on the request of one of the parties, where the party making the request agrees to submit to an oral examination for discovery by the other party and to pay the costs in respect of that examination for discovery of that other party in accordance with the tariff of costs set out in the rules of Court.
+[2] Section 2.1 of the Act defines the expression “the aggregate of all amounts” and reads as follows:
+2.1 Interpretation ‑ For the purposes of this Act, "the aggregate of all amounts" means the total of all amounts assessed or determined by the Minister of National Revenue under the Income Tax Act, but does not include any amount of interest or any amount of loss determined by that Minister.
+[3] In Maier v. R., 1994 CarswellNat 3242, at paragraphs 5 and 6, judge Garon (as he then was) of this Court stated that the “aggregate of all amounts” refers to the total of all amounts in issue in a single assessment, not to the total of all amounts at issue for all of the years under appeal.
+[4] In the present appeals, the amounts at issue for each of the taxation years under appeal are as follows (see affidavit of Barbara Harvey of the Canada Revenue Agency (CRA)):
+a. $ 11,291 of federal tax for the 2002 taxation year (affidavit of Barbara Harvey, paragraph 5);
+b. $ 1,259 of non-capital losses (as determined under subsection 152(1.1) of the Income Tax Act) (affidavit of Barbara Harvey, paragraphs 7 and 8); and
+c. $ 5,357.50 of federal tax for the 2005 taxation year (affidavit of Barbara Harvey, paragraph 10).
+[5] The amounts at issue for each taxation year are well below the threshold amounts specified in the Act.
+[6] Furthermore, the matter under appeal (disallowance of business expenses) is relatively simple. The appellant has already proceeded with a written discovery pursuant to section 113 of the Tax Court of Canada Rules (General Procedure) (Rules) and the auditor provided him with her audit report.
+[7] There is no evidence that the appeals before the Court will likely affect any other appeal of the appellant or that they relate to an issue that is common to a group or class of persons.
+[8] In light of the above, I do not see the necessity of proceeding with an oral examination for discovery that would lengthen the process unnecessarily.
+Answers to specific questions on written examination for discovery
+[9] The majority of the questions which the respondent objected to answering, and which the appellant seeks to require her to answer through this motion, address the conduct of the auditor during the audit. In Main Rehabilitation Co. v. The Queen, 2004 FCA 403, the Federal Court of Appeal made the following comments at paragraphs 6,7 and 8:
+[6] In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+[7] As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. Canada, 1999 D.T.C. 5133 (F.C.A.)), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers' Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[10] In Simard v. The Queen., 2009 FCA 379, Létourneau J.A. stated the following at paragraph 12:
+[12] First, the Tax Court of Canada's jurisdiction in an appeal of an assessment is limited to "deciding whether the assessment complies with the law, based on the facts and the applicable legislation": see Lassonde v. Canada, 2005 FCA 323. It does not, as the appellant would have it, have the power to set itself up as critic of the conduct of the Minister or his staff responsible for collecting taxes in the public interest. As the appellant takes the view that he has been wronged by the process that was followed, his remedy lies elsewhere than in vacating an assessment that complies with the Act.
+[11] Questions related to the audit process would not be part of a proper train of inquiry during the examination for discovery as it is the validity of the assessment that is in issue, not the process by which it is established (see Haniff v. The Queen, 2010 TCC 380 at paragraph 12).
+[12] The appellant argued before me that the auditor’s conduct during the audit may be relevant to costs and that is why he contends that he has the right to ask questions relating thereto during the examination for discovery. Subsection 95(1) of the Rules reads as follows:
+95. Scope of Examination ‑ (1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+[13] This subsection provides that a person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding. Thus, only questions relevant to a matter in issue in the proceeding may be asked.
+[14] In A.I. MacFarlane & Associates Ltd. v. Delong, [1986] O.J. n° 605(QL), (1986), 55 O.R. (2d) 89, 10 C.P.C. (2d) 25. par.#6, Mcrae J. wrote:
+It seems to me that to permit a pleading which is only relevant to the issue of costs, whether it be solicitor-and-client costs, or party-and-party costs, would be a dangerous precedent. Costs are not an issue and are not part of the lis between the parties but are a separate matter to be decided after all of the issues have been settled. If a party is allowed to plead factors which are only relevant to the issue of costs pleadings could conceivably become, to a large degree, involved with that issue.
+[15] This position was taken by, among others, the Federal Court in Eli Lilly & Co. v. Apotex Inc., 2003 FC 978 at paragraphs 24, 25, and 26, where it is stated:
+[24] Costs are typically awarded to compensate parties for the costs of the litigation. As with Rule 57.01(1) of the Ontario Rules of Civil Procedure, referred to by Master Donkin in Delray Development Corp.,Rule 400(3) of the Federal Court Rules, describes the factors to be taken into consideration by the Court in awarding costs. They include, "the result of the proceeding", "the amounts claimed and the amounts recovered" and "the apportionment of liability" - matters that can only be determined when the substantive part of the trial is over. This fortifies the presumption against pleadings relating exclusively to costs, in that these are not matters for trial, but are properly dealt with in the aftermath of the adjudication of the substantive allegations on their merits.
+[25] Considering these authorities in their totality, and being mindful of the specific context of the Federal Court Rules and the broader principles governing their practice, I conclude that the judgment in A.I. MacFarlane is the prevailing and correct view of the law, and that allegations of facts that are relevant only to costs, and are immaterial to the substantive issues in dispute, are not appropriate for pleading. Indeed while cases still reference Bonner, and the conflicting opinions expressed in Royal Bank of Canada and A.I. MacFarlane, the preponderance have resoundingly resolved the conflict in favour of the latter.
+[26] I share the view that it is not procedurally just or expedient to allow matters unrelated to the lis, and going exclusively to an entitlement of costs to detract from the substantive issues to be decided at trial. To allow such pleading to stand, is to invite grievances as to a party’s conduct, to become a basis to amend allegations of fact, as these grievances arise, thereby engendering delays and potentially, needlessly, expanding the ambit of discoveries.
+[16] I agree with that decision, and even though the auditor’s conduct might be relevant to costs in that it might be a factor to consider under subsection 147(3) of the Rules (a matter on which I do not wish to comment here), I conclude that the respondent cannot be forced to answer the appellant’s questions relating to the auditor’s conduct at the discovery level.
+[17] This conclusion, in my view, settles the other argument raised by the appellant, namely, that the respondent joined issue with the appellant on the question of the auditor’s conduct. The respondent states that she has not raised the auditor’s conduct as an issue in her reply to the amended notices of appeal, but even if she had, the parties cannot agree to extend the jurisdiction of the Court (see Canada v. Krahenbil, [2000] F.C.J. n° 801 (QL), 2000 CarswellNat 1038, 258 N.R. 87 (FCA)).
+[18] Finally, the few other questions to which the appellant is seeking answers in this motion either relate to matters that are not at issue or not relevant or to expenses that have already been conceded by the respondent, or were, in my view, answered by the respondent.
+[19] I therefore conclude that the written examination for discovery is closed.
+Auditor’s Daytimer
+[20] The appellant is asking this Court to order the auditor to produce a copy of the Daytimer in which she made a note of the receipts she requested during the audit. The Appellant was informed by counsel for the respondent that the auditor’s Daytimer had been destroyed (see paragraph 20 in the affidavit of Diane L. Leverman).
+[21] My understanding of the appellant’s request for the Daytimer is that he wants to establish that the auditor did not analyze all the documentation provided to her. The fact is that, according to counsel for the respondent, the Daytimer does not exist anymore. I therefore cannot force the respondent to produce it. In any event, this case is now pending before this Court. The fact that the auditor did not go through all the receipts, as the appellant claims, does not change the issue, which is whether the expenses claimed should be allowed. It is now for a judge of this Court to decide that issue on the merits, in light of the evidence that will be provided by the parties.
+Request for a settlement conference
+[22] The policy of this Court, as set out in its Practice Note No. 17, which has been in force since January 18, 2010, is to direct that a settlement conference be held at the request of either party for the purpose of exploring the possibility of settlement of some or all of the issues.
+[23] The appellant specifically requests such a conference and he has the right to do so. I had the impression during the presentation of his motion that, during the audit, there were some misunderstandings between the appellant and the auditors representing the CRA. I find that a settlement conference may be particularly helpful here in that the parties may need some kind of mediation with the help of a judge in order to, one would hope, reach an amicable settlement.
+Signed at Ottawa, Canada, this 13th day of October 2011.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2011 TCC 479
+COURT FILE NO.: 2009-3654(IT)G
+STYLE OF CAUSE: John Robert Leverman v. THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: September 27, 2011
+REASONS FOR ORDER BY: The Honourable Justice Lucie Lamarre
+DATE OF ORDER: October 13, 2011
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

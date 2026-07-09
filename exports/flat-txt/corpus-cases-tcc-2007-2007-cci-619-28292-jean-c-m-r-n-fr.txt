@@ -1,0 +1,111 @@
+Title: Jean c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28292/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-619-28292-jean-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-10-26
+
+# Jean c. M.R.N.
+
+- Citation: 2007 CCI 619
+- Decision date: 2007-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1876, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-26
+Référence neutre
+2007 CCI 619
+Numéro de dossier
+2006-1167(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-1167(EI)
+ENTRE :
+GILLES JEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimé.
+____________________________________________________________________
+Appel entendu le 11 septembre 2007, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Yvon Chouinard
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+ORDONNANCE
+La demande de remise est accordée mais l’appelant devra payer 1 000 $, à titre de frais pour abus de procédure, lequel montant devra être payé le ou avant le 7 décembre 2007, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 26e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI619
+Date : 20071026
+Dossier : 2006-1167(EI)
+ENTRE :
+GILLES JEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimé.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Il s’agit d’un appel en matière d’assurabilité d’un travail effectué par l’appelant.
+[2] Dans un premier temps, le dossier avait été fixé pour audition à Percé le 16 mai 2007. À la suite d’une demande de remise, le dossier fut à nouveau fixé pour audition le 11 septembre 2007, mais à Québec cette fois.
+[3] Le matin du 11 septembre, l’avocat de l’appelant déposait un certificat médical reçu le matin même ou la veille, puisque la date du 10 septembre figure sur ledit certificat, à l’appui d’une nouvelle demande de remise.
+[4] Le certificat médical émis au nom de l’appelant fait état d’un problème de diabète hors contrôle et prévoit une période indéterminée quant à la durée de l'incapacité.
+[5] L’intimé a dû se rendre à l’évidence qu’il était impossible de procéder, se pressant d'ajouter toutefois, qu’il y avait là un comportement abusif justifiant l'obtention de frais compensatoire de l'ordre de 1 000 $.
+[6] Elle appuie sa requête, quant aux frais demandés sur trois décisions de la Cour d’appel fédérale, soit les arrêts :
+· Fournier c. Canada [2005] A.C.F. no 606, 2005 CAF 131 A‑677‑04;
+· Yacyshyn c. Canada [1999] A.C.F. no 196, A‑416‑98; et
+· Sherman c. Canada (Ministre du Revenu national‑MNR) [2003] 4.C.F. 865, [2003] A.C.F. no 710, 2003 CAF 202 et A‑387‑02.
+[7] Depuis sa création, la Cour canadienne de l’impôt a toujours prise en très haute considération l’objectif de simplifier au maximum la procédure, mais aussi et surtout la mise en œuvre pour que les appelants soient entendus le plus rapidement et à un endroit le plus rapproché possible de leur résidence, et cela, dans le but de réduire notamment les coûts requis pour l’audition de leur dossier.
+[8] La Cour canadienne de l’impôt se déplace et siège à de multiples endroits et très souvent, ailleurs que dans les palais de justice le tout pour permettre les auditions dans les meilleurs délais, étant donné que les dossiers ont souvent un impact financier important chez les justifiables.
+[9] Cette façon de faire entraîne des coûts faramineux puisque les procureurs de l'intimé et tous les témoins doivent se déplacer et qui, la plupart du temps, viennent des grands centres urbains.
+[10] Ce sont là des réalités qui doivent être saluées et encouragées; toutefois, cela requiert de toutes les parties impliquées dans un dossier la bonne foi et collaboration pour maintenir la bonne marche du système.
+[11] Malheureusement, force est de constater qu’un nombre impressionnant de dossiers ne procède pas et cela, pour différentes raisons; des règlements, les désistements, les remises surviennent dans la semaine précédant l’audition ou dans la semaine prévue pour l’audition ou même, comme c’est le cas en l’espèce, le matin même de l’audition.
+[12] Résultats : des dépenses importantes doivent être assumées par la partie qui subit le contretemps; si le règlement, la demande de remise, ou le désistement intervenait plutôt, il pourrait être alors possible de fixer d’autres dossiers pour occuper l’espace devenue disponible, tout en évitant les nombreux déplacements de témoins.
+[13] Je comprends et accepte volontiers que ce scénario idéal n’est pas toujours possible, et cela, pour différentes raisons notamment pour cause de maladie et accident, situations totalement imprévues et incontrôlables.
+[14] Les abus, le laxisme, la négligence, l'absence de planification sont cependant trop souvent à l'origine de l'empêchement de procéder.
+[15] En l’espèce, l'intimé reproche d'avoir été négligeant au point de constituer un abus qu'elle veut voir sanctionner par l'imposition de frais au montant de 1 000 $.
+[16] Dans un premier temps, le dossier de l'appelant devait être entendu à Percé. L'avocate représentant l'intimé et les témoins s'y sont rendus pour l'audition qui n'a pas eu lieu, l'appelant ayant demandé et obtenu une remise.
+[17] Une nouvelle date de procès fut arrêtée pour le procès à Québec cette fois. Or, la veille, sinon le matin de l'audition, le procureur de l'appelant reçoit par télécopieur un certificat médical à l'effet, que l'appelant ne peut pas se rendre à Québec pour son procès.
+[18] Or, l'intimé et ses témoins sont présents et apprennent en même temps que le Tribunal que l'appelant brillera par son absence. Le même scénario s'était produit, lors de la première date du procès à Percé, où, encore là, les témoins s'étaient déplacés de Québec.
+[19] La preuve circonstancielle m’apparaît suffisamment convaincante pour conclure à un véritable abus de la part de l’appelant, qui s’imagine tout permis, comportement qui m’apparaît tout à fait inacceptable et totalement contraire à une saine administration des affaires de la compétence de la Cour canadienne de l’impôt.
+[20] À cet égard, j'invite les parties à prendre connaissance de la décision Jangir Sidhu c. Canada (ministre du Revenu national M.R.N), [1994] A.C.F. no 2028, no de greffe A‑679‑93.
+[21] La demande de remise est accordée et l’appelant devra payer 1 000 $, à titre de frais pour abus de procédure, lequel montant devra être payé le ou avant le 7 décembre 2007.
+Signé à Ottawa, Canada, ce 26e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI619
+Nº DU DOSSIER DE LA COUR : 2006-1167(EI)
+INTITULÉ DE LA CAUSE : GILLES JEAN ET LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec )
+DATE DE L’AUDIENCE : le 11 septembre 2007
+MOTIFS DE L'ORDONNANCE PAR : L'honorable juge Alain Tardif
+DATE DE L'ORDONNANCE : le 26 octobre 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Yvon Chouinard
+Avocate de l'intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Yvon Chouinard
+Cabinet : Chouinard Cardinal
+Ville : Québec, QC
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

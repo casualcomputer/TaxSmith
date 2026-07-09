@@ -1,0 +1,335 @@
+---
+title: "Windsor v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27083/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 835"
+citation2: ""
+neutral_citation: "2004 TCC 835"
+decision_date: "2004-12-21"
+language: "en"
+item_id: "27083"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 953
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:43:24.680000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0e9e79e6e970b2e0eaef8f9e4d83afcfb51d0f6a64f849c5fe1e0c83903bca2d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Windsor v. The Queen
+
+- Citation: 2004 TCC 835
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 953, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Windsor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-21
+Neutral citation
+2004 TCC 835
+File numbers
+2003-3586(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3586(IT)I
+BETWEEN:
+FREDERICK WILLIAM WINDSOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 29, 2004 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Daniel Bourgeois
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed with the exception that, as conceded by the Respondent, the Appellant shall be entitled to additional purchases in respect to his business of $362.86 in the year 1999 and $32.50 in the year 2000 in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of December, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation:2004TCC835
+Date: 20041221
+Docket: 2003-3586(IT)I
+BETWEEN:
+FREDERICK WILLIAM WINDSOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal relates to whether the Appellant is entitled to certain business expenses in the years 1999 and 2000.
+[2] The material facts may be summarized as follows:
+a) The Appellant was employed full-time as a fleet mechanic with Hydro One for the years 1999 and 2000;
+b) The Appellant operates an auto repair service operating as M & W Enterprises (M & W);
+c) The Appellant has operated M & W since 1985;
+d) The Appellant is also involved in a venture operating as Windsor's Antique Auto Restoration (WAAR) to restore vehicles for resale. This venture started in 1998 but although some vehicles and parts had been acquired no sales had occurred in any year prior to 2001 and quite possibly later;
+e) The Appellant owns 23 vehicles. Of these, 10 are plated and 13 are not plated.
+[3] With respect to M & W the Appellant reported revenues from only two jobs in each taxation year, (i) in 1999 the jobs were performed for L. Ellis and S. Ellis, friends of the Appellant; (ii) in 2000, the jobs were performed for L. Ellis and M. Thompkins, friends of the Appellant. L. Ellis is a lady who lives next door to the Appellant and S. Ellis and M. Thompkins are related to L. Ellis.
+[4] The Notice of Appeal dated October 3, 2003 simply states as follows:
+I wish to object the audit of 1999 and 2000 taxation years. I object to all revisions of 1999 and 2000 income tax returns including expenses of my business and will prove these changes to be incorrect in court.
+[5] The Reply to the Notice of Appeal ("Reply") attempts to set forth the facts in greater detail and the two Schedules attached to the Reply give the following details of the Appellant's income and expenses for 1999 and 2000:
+1999 Summary of Business Income
+Amount
+Assessed
+May 8, 2000
+Adjustment
+Revised
+Amount
+July 29, 2002
+Revenue
+$
+1,069.49
+$
+0.00
+$
+1,069.49
+Opening Inventory
+0
+0
+0
+Purchases
+362.86
+(362.86)
+0
+Closing Inventory
+0
+0
+0
+Cost of Sales
+362.86
+(362.86)
+0
+Gross Profit
+706.63
+362.86
+0
+Vehicle
+4,374.67
+(3,471.36)
+903.31
+Supplies
+287.39
+(287.39)
+0
+Telephone
+863.41
+(752.43)
+110.98
+CCA
+105.46
+0
+105.46
+Total Expenses
+5,630.93
+(4,511.18)
+1,119.75
+Net Income/(Loss)
+$
+(4,924.30)
+$
+4,874.04
+$
+(50.26)
+2000 Summary of Business Income
+Amount
+Assessed
+April 26, 2001
+Adjustment
+Revised
+Amount
+July 29, 2002
+Revenue
+$
+1,242.63
+$
+0.00
+$
+1,242.63
+Opening Inventory
+0
+0
+0
+Purchases
+612.34
+(32.50)
+579.84
+Closing Inventory
+0
+0
+0
+Cost of Sales
+612.34
+(32.50)
+579.84
+Gross Profit
+630.29
+32.50
+662.79
+Dues
+100.00
+(100.00)
+0
+Repairs
+542.60
+(542.60)
+0
+Vehicle
+5,399.82
+(4,899.82)
+500.00
+Supplies
+465.72
+(315.27)
+150.45
+Telephone
+1,143.62
+(1,042.63)
+100.99
+CCA
+77.33
+0
+77.33
+Total Expenses
+7,729.09
+(6,900.32)
+828.77
+Net Income/(Loss)
+$
+(7,098.80)
+$
+6,932.82
+$
+(165.98)
+[6] As appears from these Schedules, the Respondent is allowing deductions of business losses of $50.26 for 1999 and $165.98 for 2000. Paragraph 7 of the Reply allows the Appellant additional purchases of $362.86 for 1999 and $32.50 for 2000, thereby increasing the deductions of business losses to $413.12 for 1999 and $198.48 for 2000.
+[7] With respect to business use of home, the details of which are also included in the said Schedules, it was explained to the Appellant and accepted by him that considering subsection 18(12) of the Income Tax Act ("Act") the Appellant could not use expenses from the business use of his home to increase the business losses which he had experienced in 1999 and 2000. It was agreed by the Respondent and the Appellant that, as contemplated in paragraph 18(12)(c) of the Act, whatever final expenses were eventually determined with respect to business use of home, they were to be carried-forward to a future year when they could be used and were not to be determined by or ruled upon in this judgment.
+[8] Counsel for the Respondent submitted that the following details and calculations in the Reply to the Notice of Appeal were correct:
+..
+Purchases
+i) The Appellant provided invoices totalling $2,628.37 and $2,816.12 for the 1999 and 2000 taxation years respectively;
+j) The Appellant claimed $362.86 and $612.34 as purchases for the 1999 and 2000 taxation years respectively;
+k) Of the invoices provided for the 2000 taxation year, the Minister disallowed $6.15 and $132.22 for a total of $138.37, but allowed these amounts in the expense category for supplies;
+l) The Appellant did not identify the purpose of each purchase as being for M & W, for WAAR, or for personal vehicles;
+Vehicle
+m) The Appellant did not keep a log of business use for vehicles used;
+n) For the 1999 taxation year, the Appellant included in vehicle expense $4,017.67 for gas, $280 for insurance and $77 for plates for a total of $4,374.67;
+o) For the 1999 taxation year, the Appellant provided evidence to support $4,892.25 in vehicle expense for gas and insurance for three vehicles as follows:
+taped gas receipts
+$3,214.15
+91 Chevrolet Lumina
+322.00
+86 Ford F150 Pick-up
+548.00
+86 Mercury Grand Marcuis
+808.00
+$4,892.25
+p) For the 1999 taxation year, the Minister allowed 25% of $3,214.25 for gas, 25% of $322 for the Lumina for insurance and 25% of $77 for plates for a total allowed of $903.31;
+q) For the 2000 taxation year, the Appellant claimed vehicle expense of $5,399.82;
+r) For the 2000 taxation year, the Appellant provided evidence to support $4,131.11 in vehicle expense for gas and insurance for three vehicles as follows:
+taped gas receipts
+$3,202.11
+91 Chevrolet Lumina
+337.00
+86 Ford F150 Pick-up
+251.00
+78 Empress 26' Motor Home
+341.00
+$4,131.11
+s) For the 2000 taxation year, the Minister allowed $500 calculated as approximately 1250 kilometres at $0.405 per kilometre;
+Telephone
+t) The Appellant provided telephone bills totalling $712.01 and $646.52 for the 1999 and 2000 taxation years respectively;
+u) The Appellant claimed telephone expense of $863.41 and $1,143.62 for the 1999 and 2000 taxation years respectively;
+v) The Appellant had only one telephone for both personal and business use;
+w) The Minister allowed 50% of the long distance charges as follows:
+Taxation Year
+Total Long Distance
+50% Allowed
+1999
+$221.96
+$110.98
+2000
+$201.99
+$100.99
+Supplies
+x) For the 1999 taxation year, the Appellant did not provide documentation to support the amount claimed;
+y) The Appellant claimed supplies expenses of $287.39 and $465.72 for the 1999 and 2000 taxation years respectively;
+z) The Minister did not allow an amount for the 1999 taxation year;
+[Although not mentioned here the Schedule indicates that the Minister allowed $150.45 for the 2000 taxation year].
+Dues
+bb) The Appellant did not provide documentation to support the $100.00 claimed for the 2000 taxation year;
+cc) The Minister did not allow an amount for the 2000 taxation year;
+Repairs
+dd) The Appellant did not provide documentation to support the $542.60 claimed for the 2000 taxation year;
+ee) The Minister did not allow an amount for the 2000 taxation year;
+...
+[9] Counsel for the Respondent also submitted generally that:
+a) There was a total absence of adequate receipts to justify the expenses and to distinguish business expenses from personal expenses. Moreover, no logs were kept with respect to the various vehicles that were used, apparently both in the business of M & W and that of WAAR.
+b) Some expenses were not in fact expenses but rather represent items to be capitalized and only to be taken in as expenses when sales occur. This was mainly applicable to the renovation business where no sales had occurred.
+c) The renovation activity was not really a business but rather was more of a hobby. This was more or less admitted by the Appellant who explained that when he retired from his every day work at Hydro One he would get more involved in the renovation venture.
+d) The Respondent could have taken the position that there was no expectation of profit, considering the nature of both businesses (one with minimal sales to friends and the other a hobby) and thus allowed no expenses and that the Minister in allowing some expenses was in effect "taking the high road" or being generous.
+e) The Appellant had been working for Hydro One Inc. for approximately 10 years, 5 days per week, and that routine continued in the years 1999 and 2000, that the Appellant used his personal vehicle at one time, a Grand Marquis, until October 1999 and thereafter a Lumina which he purchased in October 1999. These vehicles were used to go to and from work, a distance of approximately 20 miles. The inference is that gasoline was consumed in that manner, further gasoline was consumed with respect to at least one of the antique vehicles retained for eventual completion and ultimate sale and gasoline was also consumed by the pick-up vehicle in rounding-up antique vehicles.
+[10] The Appellant's main concern related to vehicle expenses and that items dealing with gasoline consumed by the vehicles used to pick up antique automobiles, parts and other items and repairs to those vehicles should have been expensed in the year the amounts were expended and allowed as expenses. The Appellant appeared concerned that the principal reason for him being assessed related to correspondence from CCRA where there was an indication that many invoices had been billed to Hydro One Inc. (where the Appellant worked) and indicating that that was not reasonable proof that an expenditure for the business was actually incurred.
+Conclusion
+[11] I reviewed Exhibit A-1 and various receipts submitted en masse as Exhibit A-2 which total approximately $400.00 and I have come to the conclusion that it is not because expenses were shown as billed to Hydro One Inc. or Ontario Hydro Services that caused the Minister to deny the expenses. In other words the Minister appears to have accepted certain expenses notwithstanding the fact that they were billed to Hydro One Inc. or Ontario Hydro Services. The Appellant also referred to Exhibit A-3 being a letter to the Appellant dated October 22, 2002 from William V. Baker, Assistant Commissioner, Compliance Programs Branch of CCRA, which contains certain general comments with respect to why certain expenses were not allowed and why others should be capitalized. This letter also refers to the invoices billed to Hydro One and attempted to explain that that was not the sole reason for disallowing certain expenses. The letter advised that the Appellant should have declared a separate business for the car restoration activities such that they could be distinguished from car repair expenses. The Appellant points to that statement as leaving him with the impression that 'no log was absolutely required' and consequently he did not retain a log. The difficulty is that the Appellant has not succeeded in presenting evidence that would establish what expenses related to the car repair business, what related to the car restoration venture and what related to personal expenditures. The conclusion from this is that the CCRA auditor in charge of the audit was put in the impossible position of attempting to allocate the various expenses claimed. In my view the auditor did the best he could in the circumstances and, if anything, was generous in allowing the expenses he did.
+[12] In conclusion, all matters considered, I find that the Minister's reassessments were reasonable, correct and in accordance with the Act and sound accounting principles for the calculation of profits and losses from a business. Consequently, the appeals from the reassessments made under the Act for the 1999 and 2000 taxation years are dismissed with the exception that, as conceded by the Minister, the Appellant shall be entitled to additional purchases in respect to his business of $362.86 in the year 1999 and $32.50 in the year 2000.
+Signed at Ottawa, Canada, this 21st day of December, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC835
+COURT FILE NO.:
+2003-3586(IT)I
+STYLE OF CAUSE:
+Frederick William Windsor v. H.M.Q.
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+November 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+December 21, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Daniel Bourgeois
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims
+Deputy Attorney General of Canada
+Ottawa, Canada

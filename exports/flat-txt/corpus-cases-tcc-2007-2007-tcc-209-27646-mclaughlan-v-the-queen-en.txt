@@ -1,0 +1,147 @@
+Title: McLaughlan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27646/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-209-27646-mclaughlan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-05
+
+# McLaughlan v. The Queen
+
+- Citation: 2007 TCC 209
+- Decision date: 2007-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 402, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLaughlan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-05
+Neutral citation
+2007 TCC 209
+File numbers
+2006-2048(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2048(IT)I
+BETWEEN:
+STUART M. MCLAUGHLAN
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 5, 2007 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 8th day of May 2007.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2007TCC209
+Date: 20070508
+Docket: 2006-2048(IT)I
+BETWEEN:
+STUART M. MCLAUGHLAN
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on May, 4, 2007 at Toronto, Ontario)
+Hershfield J.
+[1] The Appellant appeals reassessments in respect of his 2002, 2003 and 2004 taxation years which disallowed the deduction of child support payments made by him in the respective amounts of $11,343.00, $11,400.00, and $9,840.00.
+[2] The Appellant and his wife have been living separate and apart since October 1, 1994 because of the breakdown of their marriage. They are the parents of two children, one born September 1, 1987 and the other born April 27, 1991. At all relevant times the children resided with the Appellant’s wife after the marriage breakdown.
+[3] A document titled a “Financial Agreement” was executed on October 1, 1994, pursuant to which the Appellant was required to pay to his wife for support of the children an unallocated total amount of $820.00 per month payable in bi-monthly amounts commencing October 16, 1994.
+[4] It is the Respondent’s position that the 1994 Financial Agreement was amended on January 1, 1999, to increase support for the children to $850.00 per month so as to create a “commencement day” as defined in subsection 56.1(4) of the Income Tax Act (“Act”). A change on the face of the Financial Agreement was marked by hand by crossing out the number $820.00 and inserting $850.00. The change was initialled and dated 1-1-99. If this handwritten notation creates a “commencement day” as asserted by the Respondent, all of the payments made on or after that day, January 1, 1999, are “child support amounts” as defined in that subsection and are not deductible pursuant to paragraph (60)(b) of the Act.
+[5] The Appellant acknowledged that the notations referred to were made on January 1, 1999, but testified that they reflected a change made to his support payment obligations in January 1997. The evidence supporting this testimony is uncontested and more than sufficient to support a finding that the notations on the Financial Agreement reflected a change in support obligations agreed to in January 1997. Actual payments increased at this time as confirmed by the Appellant’s wife who also appeared as a witness and gave testimony. She confirmed as well that by oral agreement she and her husband changed the support amount payable in January 1997, not January 1999. As well, a 2005 letter signed by both the Appellant and his wife confirmed that the increase in child support was agreed to in January 1997, that the Appellant’s wife had included the increased amounts in her income from that time forward, and, that the handwritten date of January 1, 1999 on the Financial Agreement was only a confirmation of the child support obligation and did not constitute an effective date of a change in the support amount payable.
+[6] It is clear that the Appellant and his spouse did not change the amount of support payable in 1999. The change had already been made at the beginning of 1997. However, by the end of 1998 they became aware that the support payments actually being made would not be deductible, at least as to the $30.00 per month increase, since that amount was not paid pursuant to a written agreement or order as required in the definition of “support amount” in subsection 56.1(4) of the Act. Believing that the deduction of the full amount being paid would be allowed if the Financial Agreement was changed to reflect the prior oral agreement, they made the notation on that agreement as referred to above. That change was not meant as a change in the support payable. The obligation to pay $850.00 already existed. The change to that amount had been made in January 1997 under an oral agreement. Under common law principles, the 1999 amendment had no legal impact – any consideration between the parties was past consideration, which is no consideration at all. That is, it appears open to the Appellant to argue that there was no new contract made in 1999 pursuant to or under which a payment can be made. However, unless the 1999 amendment is set aside, its existence underlines that there has been a change in the form of the agreement (oral versus written). Clearly the Act puts emphasis on form and to suggest that changes in form have no effect for tax purposes in the context of subsection 60(b) would cut at the very heart of that provision.
+[7] Further, citing Nanci Pach v. Her Majesty the Queen and Bruce Rosenberg[1] as authority, the Respondent argues that an amendment to a “support amount” can only be made in writing and that, accordingly, the 1999 amendment was the first amending agreement between the parties, not a second redundant agreement. If that is the case, the variation in the support amount, for tax purposes, according to Pach, did not occur until 1999 regardless that the change did in fact occur at an earlier date as intended by the parties.
+[8] The Pach decision is based on the application of a common law principle as well as on a factual finding that the change in child support in that case was unilaterally imposed and therefore could not be found to be a variation of the agreement. The common law principle applied was that a contract that varies an earlier agreement must be reduced to writing if the original contract had to be in writing.
+[9] That decision however does not fully explore the statutory context in which an amending agreement might be analyzed and, in particular, does not expressly address the question as to the effective date of a change made in writing. In the case at bar the January 1997 change was reduced to writing in 1999 with a common intention that the writing reflect the 1997 change. In such case, where the intended effective date of the written change corresponds with the date the parties agreed to the change and with the date the change was acted on, it might be open to find that the effective date of the written change was when the change was agreed to, even though the written form requirement was only met after that time. This is essentially the argument that the Appellant makes.
+[10] Whether that argument can succeed depends on whether the statutory provisions leave room to give effect to the party’s intentions.
+[11] With this in mind the definition of “commencement day” requires close scrutiny. The definition reads as follows:
+56.1(4)
+…
+“commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[12] The date prescribed by paragraph (a) is not expressly dictated by a reference to written agreements. In the case at bar there is an agreement, albeit oral, to pay $850.00 per month made before May 1997. Hence no “commencement day” is created on the express terms of that paragraph.
+[13] The preamble to the dates prescribed by paragraph (b) does not expressly refer to only written agreements made before May 1997 so the dates prescribed in the subparagraphs following paragraph (b) are not yet at least expressly dictated by a reference to written agreements.
+[14] Of the subparagraphs following paragraph (b), it appears that the Respondent relies on subparagraphs (ii) and/or (iii). The date prescribed by these subparagraphs is not expressly dictated by a reference to written agreements. However, the wording in both subparagraphs does refer to a variation or change in the “child support amount” and a “child support amount” only exists if there is a written agreement setting out the amount.[2] The “child support amount” at December 31, 1998, was $820.00 per month. That is the only amount set out in a written agreement. It was changed on January 1, 1999. The “child support amount” became $850.00 per month on that date. That is, even if the handwritten change was only to recognize a prior change in the agreed payment obligation, such prior obligation of $850.00 did not become a “child support amount” until rendered to written form. Upon being rendered to writing on January 1, 1999, the “child support amount” as defined in the Act changed so as to create a “commencement day”. Neither the actual date of the change nor the intended effective date of rendering the agreed change to writing, technically at least, change this result. Parties to an agreement cannot by agreement change the reality of when an agreement is rendered to written form. This does mean that there is no other recourse available that would change this result.
+[15] One such recourse is to have the Appellant seek a rectification order or an order to have the 1999 amending agreement set aside. The order needed to achieve the result intended by the parties would be one that pronounced that the child support payments are $850.00 per month and that it, the order, was retroactive to and effective on January 1997. Such order would give effect to the intentions and actions of the parties, and to the legally binding oral agreement entered into between them on that date.
+[16] While I have said that parties to an agreement cannot by agreement change the reality of when an agreement is rendered to written form, a Court order can create any reality it deems justifiable to create. That is, the record of a superior Court is to be treated as an absolute verity so long as it stands unreversed.[3] A discussion of this principle can be found in John Dunfield v. Her Majesty the Queen.[4] In that case Justice Bell gave effect to a retroactive order in respect of a support payment that could only be deducted if paid under an order. Payments made before the order were found to be deductible nonetheless as the order was retroactive to an earlier date.
+[17] The Appellant in the case at bar has not sought or obtained a rectification order. This leaves me with four alternatives to consider: I can allow the appeal as if the required rectification order had been obtained; I can dismiss the appeal on the basis that no rectification order exists and that I am without jurisdiction to rectify the documentation in issue; I can afford the Appellant time to seek the necessary rectification order; or, I can recognize that the 1999 amendment is of no legal effect and set it aside or treat it as having been set aside. There is precedent for each of the last three alternatives and an argument for the first.
+[18] Given that this is an appeal under the Informal Procedure, I am hesitant to go into an in-depth analysis of the issues surrounding rectification. I am equally hesitant to attempt to reconcile this Court’s position on the alternative approaches taken to situations where a rectification remedy has been considered. Still some background is necessary.
+[19] In Attorney General of Canada v. Paul Juliar, Karen Juliar and Juliar Holdings Ltd.[5] a contract calling for the issuance of debt on a transfer of assets to a corporation was rectified to reflect and give effect to the intentions of the parties, which was to ensure that the transaction did not give rise to an immediate income tax consequence. The rectification remedy allowed the issuance of debt to be effectively set aside and replaced with the issuance of shares, which would give effect to the intentions of the parties. In that case the Ontario Court of Appeal applied an equitable remedy which was to rectify a written instrument so as to enable the parties to obtain a legitimate fiscal advantage that they both sought to achieve. The intended transaction was, in effect, found to be that assets were being transferred for the form of consideration necessary to have the intended tax result.
+[20] While this Court is not a Court of equity, there is little to distinguish equitable remedies in Canada from common law in general. This Court must recognize common law (see Will-Kare Paving & Contracting Limited v. Her Majesty the Queen[6]) and if rectification or an order setting aside a document or transaction is available in these circumstances from an Ontario Superior Court in order to give effect to the intentions of the parties, this Court, arguably at least, need not sit idly by and not recognize the law that provides for such result.
+[21] In his article “Many Questions (and a Few Possible Answers) about the Application of Rectification in Tax Law”,[7] Joel Nitikman, an author on tax topics, suggests, notwithstanding authorities to the contrary,[8] the following:
+Can the Tax Court rectify an instrument? Not in the usual sense: the Tax Court is not a court of equity [See section 12 of the Tax Court of Canada Act RSC 1985 c. T-2, as amended.], and in general only one of the parties to a contract will be a party before the Tax Court; the other party to the contract will not have been assessed and will not be seeking rectification. In my view, however, the Tax Court can decide a case as if the instrument had been rectified: the Tax Court has the implied jurisdiction to decide provincial legal matters in the course of exercising its exclusive jurisdiction to decide tax cases [ITO Ltd. v. Miida Electronics Inc. (1986), 28 D.L.R. (4th) 641, at 662 (S.C.C.)]. The Tax Court often applies equitable principles in the course of deciding a tax matter [See, for example, Datacalc Research Corporation v. The Queen, 2002 D.T.C. 1479 at paragraph 58 (T.C.C.)].
+[22] Mr. Nitikman goes on to recognize that while it seems that this Court may (and perhaps should) decide whether to treat a document as having been rectified in the course of deciding a tax case, the Court has expressed the preference that taxpayers apply first to the provincial Superior Court for rectification. However, that is not always the case. In Zdislav Kovarik v. Her Majesty the Queen,[9] Chief Justice Bowman (as he is now) not only did not treat a document as rectified but refused to grant time for the Appellant to seek a rectification order from a provincial Superior Court. That case dealt with a commencement day issue, but there the Appellant was in an adverse position to his former spouse which is not the case in the current appeal. In the case at bar the parties to the document in question are in total agreement as to the mistake made and they can, in my view, rely on Juliar.
+[23] Such reliance begs the question as to what this Court should do in these circumstances. In David A. Lloyd v. Her Majesty the Queen[10] Chief Justice Bowman acknowledged that this Court had no jurisdiction or power to rectify transactions but nonetheless relying in part on the Federal Court of Appeal decision in Her Majesty the Queen v. Jerrold D. Paxton[11] he observed at paragraph 19 that it was open for this Court to treat an instrument as ineffective:
+Obviously this court cannot make declarations that bind the parties to a transaction, or set aside or rectify transactions as between parties. That is a matter for the courts of the provinces or territories. Nonetheless, this does not mean that this court must, where the validity of a transaction is relevant to the determination of a tax dispute between a taxpayer and the Government of Canada, stand impotently by and decline to make a determination that is essential to the exercise of its jurisdiction. Clearly our court must decide the validity or legal effect of a transaction between subjects in the context of a determination of its tax consequences.
+[24] In Lloyd it was recognized that a legally ineffective document can be recognized as such by this Court without going to a provincial Superior Court to have the document set aside. He treated the document in question as if it was set aside. I do not agree that this principle goes so far as to suggest that this Court has jurisdiction to re-write history in the sense done in Juliar. Further, Lloyd would not be authority for me to give effect to the intentions of the parties by dealing with this appeal as if a retroactive order had been issued by the appropriate Court changing support payments from $820.00 per month to $850.00 per month effective January 1, 1997. This would attribute a wider jurisdiction to this Court than recognized in Lloyd.
+[25] However applying the principle in Lloyd to the case at bar, this Court has jurisdiction to recognize that the 1999 amending document was not legally effective and thereby treat it as set aside. To confirm the 1997 oral agreement in writing in 1999 is not a contract. That the oral agreement is not a change in the “child support amount” under the Act does not change the contract law consequence that the 1999 confirmation adds nothing to the legal obligations between the parties even though the form of the confirmation creates a new “child support amount” under the Act. As noted earlier there is no fresh consideration between the parties in respect of the 1999 notation. As a contract, it is ineffective. Setting aside the “written form” leaves the 1994 Financial Agreement as the only written source of a payment obligation – that obligation being $820.00 per month. As per Pach, that there is an overriding oral agreement to pay an additional $30 does not change the tax result that the “child support amount” under the Act is that shown on the 1994 Financial Agreement.
+[26] Considering the alternatives mentioned above, in the circumstances of this case, I find that holding this appeal in abeyance to permit the Appellant an opportunity to seek a rectification remedy that might arguably permit the deduction of the $850.00 per month is not warranted. On this point, I am inclined to agree with the reasoning in Kovarik, which is that this Court cannot defer making a decision and grant a stay every time a taxpayer expects that he might get a better tax result if afforded the chance to seek a particular type of rectification order from another Court. The Appellant has cast his lot in this Court and the best this Court can do is recognize that the 1999 agreement is not legally effective and thereby treat it as having been set aside. In my view this is in accord with the principle applied in Lloyd. The result of that is that there is no commencement day created.
+[27] Setting aside the 1999 agreement, or more particularly, treating it as set aside, simply recognizes its ineffectiveness as a matter of contract law. Setting it aside does not re-write history. This is not what has been referred to as fiscal revisionism as discussed in Dunfield. Furthermore, there appears to be a double tax consequence if the appeal is not allowed.[12] Both parties to all the agreements in question challenge the effect of the 1999 document. They appeared in Court and are in agreement. They did not have a Court order or a properly drawn amending agreement in January 1997 because they were not at each others throats. Not to give the Appellant the benefit of any doubt as to the application of a principle that at least restores the parties to the position they were in before their ill-fated attempt to formalize a prior change in support obligations, embarked on under a mutual mistake as to the consequences of their actions, is to penalize harmonious separations that should be applauded for their civility and respect for the best interests of their children.
+[28] For these reasons the appeals are allowed on the basis that no commencement day has been created by the notations made in 1999 on the 1994 Financial Agreement. The only agreement under which deductible “child support amounts” could have been made was the 1994 Financial Agreement. Payments under that agreement were $820.00 per month. Accordingly, the deductible “child support amount” in each of the subject years is $820.00 per month, or $9,840.00 in each such year.
+Signed at Ottawa, Canada this 8th day of May 2007.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2007TCC209
+COURT FILE NO.:
+2006-2048(IT)I
+STYLE OF CAUSE:
+Stuart M. McLaughlan and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 5, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+May 8, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Cited by the Respondent as Rosenberg v. Canada 2003 F.C.J. No. 1427; 2003 DTC 5634 (FCA).
+[2] A “child support amount” as defined in subsection 56.1(4) must be a “support amount” and a “support amount” is an amount receivable under a written agreement.
+[3] R. v. Wilson, [1983] 2 S.C.R. 594 at page 599. Unless there are exceptional circumstances, there is, however, other authority to suggest that this court may not be bound by judicial pronouncements that re-write history if same amounts to fiscal revisionism. See Dunfield, supra.
+[4] 2001 4 C.T.C. 2518 (T.C.C.).
+[5] 2000 DTC 6589 (Ont. C.A.).
+[6] 2000 DTC 6467 at paragraphs 35 and 37.
+[7] (2005) vol. 53, no. 4 Canadian Tax Journal, 941-973.
+[8] In GLP NT Corporation v. The Attorney General of Canada, 2003 DTC 5654 (Ont. S.C.J.), it is suggested the Tax Court had no power to rectify a document. While acknowledging that this was technically correct, Mr. Nitikman suggested that it was wrong to say that the Tax Court could not treat an instrument as having been rectified. In making this suggestion he relies on St. Ives Resources Ltd. v. M.N.R., [1990] 1 C.T.C. 2539 (T.C.C.), aff’d on other grounds 92 DTC 6223 (F.C.T.D.).
+[9] [2001] 2 C.T.C. 2503 (T.C.C.).
+[10] 2002 DTC 1493, at paragraphs 18-19.
+[11] 1997 DTC 5012.
+[12] I am told that the Appellant’s wife was not reassessed to remove the support payments from her income and that at least one year under appeal is beyond the normal reassessment period applicable to his wife.

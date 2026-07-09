@@ -1,0 +1,269 @@
+Title: Xue v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483046/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-72-483046-xue-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-07-27
+
+# Xue v. The Queen
+
+- Citation: 2020 TCC 72
+- Decision date: 2020-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4602, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xue v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-27
+Neutral citation
+2020 TCC 72
+File numbers
+2015-5443(GST)G, 2016-4824(IT)G, 2016-4826(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4824(IT)G
+BETWEEN:
+STUART XUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2016-4826(IT)G
+BETWEEN:
+STEPHANIE XUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2015-5443(GST)G
+BETWEEN:
+COASTRIDGE ENTERPRISES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence on September 3, 4, 5 and 6, 2019 and January 24, 2020, at Vancouver, British Columbia
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellants:
+G. Douvelos
+Counsel for the Respondent:
+R.D.F. Wilhelm
+R. Whittaker
+AMENDED JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act for Appellants Stuart Xue and Stephanie Xue for their 2007, 2008, 2009 and 2010 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellants Stuart Xue and Stephanie Xue each had unreported shareholder benefits in the years before the Court as follows:
+In 2007 $83,301.27
+In 2008 $114,684.94
+In 2009 $116,596.44
+In 2010 $97,796.48
+The Appeal from the reassessment made under the Excise Tax Act for the Appellant Coastridge Enterprises Ltd. for the 2007, 2008, 2009 and 2010 taxation years is allowed on the basis that Coastridge Enterprises Ltd. unremitted GST/HST shall be reduced from $52,575.96 to $50,273.86.
+The penalties pursuant to subsection 163(2) of the Act were properly applied by the Minister. The calculation of penalties shall be reduced according to the adjustments made in this Judgment.
+The parties shall have until August 26, 2020, to arrive at an agreement on costs, failing which they are directed to file written submissions on costs by September 25, 2020. Such submissions shall not exceed 15 pages. If the parties fail to reach an agreement on costs and no written submissions are filed, costs shall be awarded to the Respondent pursuant to the Tariff.
+This Amended Judgment is issued in substitution of the Judgment dated July 27th 2020.
+Signed at Ottawa, Canada, this 8th day of August 2020.
+“R. MacPhee”
+MacPhee
+Citation: 2020 TCC 72
+Date: 20200827
+Docket: 2016-4824(IT)G
+BETWEEN:
+STUART XUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2016-4826(IT)G
+BETWEEN:
+STEPHANIE XUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2015-5443(GST)G
+BETWEEN:
+COASTRIDGE ENTERPRISES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+MacPhee J.
+I. INTRODUCTION:
+[1] These Appeals concern the reassessments of two individuals and a corporation, namely Stuart Xue (“Mr. Xue”), Stephanie Xue ( “Mrs. Xue” ) and Coastridge Enterprises Ltd. (“Coastridge”). All reassessments relate to the operation of a restaurant in Burnaby, British Columbia.
+[2] The parties were assessed as follows:
+Coastridge was reassessed for remitted net GST/HST for the periods between 2007‑01‑31 to 2010-10-31 of $52,575.94.
+Mr. Xue and Mrs. Xue were each reassessed shareholder benefits pursuant to subsection 15(1) of the Income Tax Act (the “Act”) for the following amounts: $84,735, $118,464, $122, 634 and $105, 752 for the 2007, 2008, 2009 and 2010 years. Also both were assessed gross negligence penalties for each of those years.
+[3] In order to determine whether the reassessments should stand in its entirety, be amended, or be set aside, the question before the Court for each Appeal is as follows:
+i) Did Coastridge collect and fail to report and remit GST/HST in the amount of $52,575.94.
+ii) Did Mr. and Mrs. Xue receive shareholder benefits, taxable pursuant to subsection15(1) of the Act, and if so, in what amounts.
+iii) Finally, were Mr. and Mrs. Xue properly assessed gross negligence penalties pursuant to subsection 163(2) of the Act.
+II. FACTS:
+[4] The Agreed Statement of Facts entered into by the parties are attached as Appendix “A”. While I have relied upon the Agreed Statement of Facts in their entirety, I will only reference a portion of these facts in my decision.
+[5] Coastridge is an incorporated company that began operations on November 1, 2001. Coastridge was dissolved in September 2005 and restarted in April 2006.
+[6] In 2006, Coastridge purchased Tomoya Japenese Restaurant (“Tomoya”), a restaurant which operated in Burnaby, British Columbia. Coastridge has reported financial losses in all the years before the Court.
+[7] Each of Mr. and Mrs. Xue own 50% of the shares of Coastridge and both are directors of the corporation. During the years before the Court the Xues ran the Tomoya restaurant. Mrs. Xue’s involvement was in a much more hands on way than Mr. Xue. She managed the Tomoya restaurant. Mr. Xue’s involvement was composed mainly of preparing T4 slips and remittances, and dealing with the government. He also purchased the point of sale system (the “POS”) used by the restaurant, called Profitek. The Profitek software was purchased by Mr. Xue second hand [1] . At the time of purchase Mr Xue tested it, and was involved somewhat in its continued use at the restaurant. It was on the Profitek system that the daily transactions of Tomaya were recorded. Mr. Xue also prepared spreadsheets which amended the data from the POS system. He delivered these spreadsheets to the company’s accountants.
+[8] The Profitek system operated on one cash register in the Tomoya restaurant. Mr. Xue testified that at the time the Profiteck system was purchased (done so at a fraction of the cost to buy a new system) the system was functional. It worked, but was flawed. The evidence on its flaws, provided only by Mr. and Mrs. Xue, was limited and at times inconsistent. I will point out these inconsistencies later in the Judgment.
+[9] On a daily basis the the Profitek system was closed out, and daily sales reports were generated. These sales reports contained the following:
+Food sales.
+GST/HST received
+Cash received
+Mastercard received
+Visa received
+Interac received.
+[10] These daily sales reports, generated by Profitek, were amended by the Xues, also on an almost daily basis. Mrs. Xue did daily reports as part of the nightly closing of the restaurant. In these reports the cash figure obtained from Profitek was almost always reduced by Mrs. Xue, with a handwritten number put in its place. In the vast majority of instances it was reduced by round numbers. An example would be as follows. On January 30, 2009 the Profitek system indicated cash sales of $2,158.98. This amount was changed by Mrs. Xue to $1,158.98, a reduction of $1,000. In total, over the years being appealed, these changes amounted to a reduction in cash sales of $696,349.
+[11] The other POS system calculations, such as Mastercard received, Visa received and Interac received were unchanged. No explanation was given as to why cash had to be changed daily, or why it was almost always in rounded number amounts such as $1000.
+[12] Secondly, there were 9715 no sale entries recorded on the POS system in the period before the Court [2] . The Minister of National Revenue (the “Minister”), in the reassessment before the Court takes the position that these were all cash sales that were deleted by the Appellant, with vast sums of unreported sales money removed by the Appellants. These amounted to a total of $92,000 in deleted lunch sales and $74,616 in deleted supper sales in the years before the Court.
+[13] Of the 9715 deleted sales, 971 indicate that they were open and closed in a matter of seconds and 2213 were open for 5 minutes or less.
+[14] The Respondent acknowledges that some of these deletions probably were legitimate deletions that occurred in the normal course of business. The Respondent furthermore argues that it is impossible to calculate how many deletions were legitimate because the Appellants have not been truthful in either the audit of this matter nor during the litigation of this matter, and have not provided a viable explanations as to what occurred.
+A. Position of the Parties:
+[15] The Respondent’s position is that Mr. and Mrs. Xue both actively and purposely tried to avoid reporting GST/HST on behalf of Coastridge. They also argue that the Appellants concealed the income of Coastridge by way of two methods. They then paid themselves this concealed income for their own benefit, without remitting the correct taxes on this revenue.
+[16] The methods of concealing income (already described above) alleged by the Minister are as follows:
+- The first method involved arbitrarily reducing the daily cash sales reported by the restaurant’s POS system. The Xues then provided the accountants for Coastridge incorrect daily tallies of cash sales. The Minister reassessed the reduced cash sales under this method as $696,349 for the years before the Court. This would be, in simplest terms, an allegation that the Xues pocketed cash sales on a nightly basis.
+- The second method alleged by the Respondent is a bit more intricate. They argue that the Appellant, by recording 9,715 legitimate sales and then subsequently deleting these sales in the POS data, were able to collect the cash and GST without recording these sales. This portion of the reassessments relies on the assumption by the Minister that the average cash transaction for lunch was $14.97. It was further assumed that lunch ran from opening until 5 p.m. After 5 p.m. the assumption made by the Minister was that the average transaction was $22.98 for dinner. This would be per bill, so these bills may contain more than one person’s meal [3] . The total lunch sales revenue that the Minister says was not reported was $92,000 for the 2007 through 2010 years. The total dinner sales that the Minister states was unreported, for the same period, was $74,616.
+[17] Concerning the average cash transaction calculations described in the paragraph above, the Xues’ testimony made it clear that they did not accept the amounts assumed by the Minister for the average cost of a meal. Unfortunately, the evidence of the Appellants at best seemed to be a guess as to what the revenue figure was that should have been used for the calculation of the average lunch and supper transactions. Frankly, I am surprised by the lack of evidence by the Xues in this regard. This is an area in which Mrs. Xue, given her experience on a daily basis in Tomoya, could easily have challenged the Respondent’s assumptions concerning the cost of a meal if either was incorrect. This was not done effectively. The Appellants provided neither a menu nor any sort of review of sales invoices to dispute the Minister’s assumptions concerning the costs of each meal. I therefore will accept these average amounts calculated by the Minister as correct and apply them in the decision.
+[18] The Minister also contends that the Xues used the cash from the unreported sales for their own personal use. This results in the 15(1) reassessment. As the Xues were both 50% owners of the restaurant, the Minister divided the amounts in issue between the parties. No evidence nor arguments were lead by the Appellants to contest the 50-50 split applied by the Minister concerning unreported income.
+[19] Furthermore, the Minister alleged that Coastridge, as a result of the steps taken by the Appellants, failed to remit GST/HST on the sales that were unreported.
+[20] The Respondent states that both the Xues knowingly made or participated in, assented to or acquiesced in the making of false statements or omissions in their 2007 to 2010 tax returns and are liable to gross negligence penalties under subsection 163(2) of the Income Tax Act.
+(1) Appellant’s position:
+[21] The Appellants’ position is that the Minister determined projected sales and unreported income based on data that is incorrect or data that was incorrectly interpreted. Simply put, the Appellants claim that the Minister performed a serious of calculations that were wrong.
+[22] They also argued, but lead very little evidence in this regard, that the quantum assessed makes no sense, claiming that a restaurant with 25 seats, (as testified by Ms. Xue) could not earn the income that has been allocated.
+[23] In submissions, the Appellants initially took the position that there was some unreported cash sales. I understood part of this concession to be based on the fact that the Appellants used some of the cash from Tomoya’s daily revenue to purchase further inventory before it was reported in the sales totals. This was the evidence of Ms. Xue. Ultimately, the Appellant backed away from this position and took the position that the entirety of their filings for the years in issue were correct.
+[24] At the conclusion of trial, the Appellants’ counsel indicated that he wanted the Court to make an adverse inference concerning the evidence of the Minister. I will deal with this issue first.
+[25] The adverse inference requested concerned the work that the Canada Revenue Agency (the “CRA” ) auditor, Mr. Terry Condia carried out. Specifically, as part of his audit Mr. Condia attended at the restaurant Tomoya and downloaded the POS information from the Profitek software. Mr. Condia did not testify at trial.
+[26] The data Mr. Condia obtained from the Appellants’ computer was relied upon by the other auditors with the CRA, ultimately leading to the reassessments before the Court. The Appellants’ counsel in submissions did not go as far as to say that Mr. Condia likely changed the relevant data from the POS system to the detriment of the Appellants. He did argue that Mr. Condia might have done this. Upon this basis the Appellants’ counsel states that the POS data used by the CRA cannot be relied upon. This is because Mr. Condia could not be crossed-examined at trial so as to determine whether he made any changes to the data downloaded at Tomoya.
+[27] I have a few comments to make in dismissing the Appellants’ request that I make an adverse inference concerning this evidence. First, when I look to the Appellants’ pleadings in all three matters, they do not raise this issue. The Appellants did not plead, with any specificity, that Mr. Condia’s work was in doubt, nor was fraud alleged. [4] Pleadings are to set out the position a party has to meet. They can be amended after discoveries, and in rare instances, even as late as during the trial.
+[28] Nothing in the pleadings would lead the Respondent to anticipate Mr. Condia’s involvement in the audit, downloading the POS system, was a live issue for trial. I also note that the Appellants neither subpoenaed Mr. Condia, nor provided the Court with any record of attempts to have the Respondent bring him as a witness. No evidence was lead that Mr. Condia was under the exclusive control of the Respondent.
+[29] Secondly, the role of assumptions in tax litigation have been set out in many decisions. While I do not feel the need to summarize the case law in this area, suffice it to say that the Respondent can rely upon the assumptions of the Minister without calling evidence to support the assumptions. The Appellants must call evidence to destroy the assumptions that are detrimental to their case in order to be successful. This did not occur.
+[30] Finally, I do not find anything in the evidence that would lead me to believe the Appellants were prejudiced by Mr. Condia’s non-attendance at trial. I repeatedly asked the Appellants’ counsel to describe the concerns he had with Mr. Condia’s work. The description of the Appellants’ concerns was minimal at best. I believe it involved a working paper, prepared by CRA, having Tomoya as the party named, as opposed to Hot Road Prime Rib Restuarant, which was the name that Profitek software generated. This caused me no concern at all about the veracity of the downloaded data.
+[31] Appellants’ counsel hypothesized as to other reasons why he may have been prejudiced by Mr. Condia’s non-attendance. Counsel was free to pursue these theories through the evidence of his own clients, the potential evidence of a third party, even an expert who had reviewed the software, or through cross‑examination. If done so effectively, the Minister’s assumptions concerning the unreported revenues of Tomoya would have been destroyed. None of this occurred. I further note that the Respondent called evidence by another CRA employee, who reviewed both the Profitek data and the working paper prepared in the course of the audit, and corroborated the data that Mr. Condia gathered. I have no reason to believe the data from Profitek was corrupted in any way.
+[32] The Appellants rely upon the British Columbia Court Appeal case of Singh v Reddy (2019 BCCA 79) in their submissions on adverse inference. The Appellants, in part, relied upon the following quote cited by that Court “The inference should only be drawn in circumstances where the evidence of the person who was not called would have been superior to similar evidence”. [5]
+[33] I do not come to this conclusion. Neither the Appellants’ case, nor my review of the Respondent’s case leads me to believe that Mr. Condia’s evidence was necessary. I also note again that the Appellants provided no evidence that Mr. Condia could not be called as a witness. Finally, I note that the Respondent has no obligation to call evidence to support the assumptions they have made. Therefore, I will not make a finding of adverse inference concerning the records gathered at the Appellants’ business.
+[34] I will now deal with each of the two allegations made by the Minister that led to the reassessment.
+[35] In coming to my decision, I feel it necessary to point out the following reservations I have concerning the evidence of Mr. and Mrs. Xue.
+a) The Appellants’ testimony was not clear. At the end of trial, and having reviewed the transcripts, I am still not sure as to what the Appellants say was wrong with the POS data, and how one could determine the proper revenue amounts for Tomoya if not by the POS data. The best I can determine is that the Appellants are asking that I accept the spreadsheets prepared by Mr. Xue as correct, with no clear explanation as to why the Profitek data, concerning cash sales, was wrong on an almost daily basis.
+b) The repeating theme in the Appellants’ evidence is that the POS data is wrong for a couple of reasons. The main reason being as follows: often times customers came in and asked for the prices of different dishes. In order to answer these questions, the server would open up a new table in the POS system and enter orders to obtain their prices. This action would cause problems with the POS data. For some reason it only effected cash sales, and it caused them to be overstated in even dollar amounts. This evidence does not have an air of reality.
+c) There was only one cash register in the restaurant. The description provided of a server punching in an order to get a price for a potential customer, thousands of times, as opposed to simply looking at a menu, defies common sense. The Appellants also claimed that the POS system was corrupted through training new staff. This seems to be a more believable explanation, although I was provided almost no details as to how often these occurences would affect the sales calculations.
+d) Concerning the 9715 deleted tables in the POS system, many of the tables that were deleted had been open for a prolonged period, meaning over a half hour, leading one to believe it was so because someone had sat down to eat.
+e) Furthermore, the Appellants claim that they did not allow staff to void or delete errors in the system. This makes no sense. The system allowed this to be done and it was far simpler than what was described to have been done, which was the closing out of the table with the error and the re-entry of the order. I also note that Mrs. Xue did admit that she would herself void orders that were made in error.
+f) The errors described above only occurred with cash transactions and not with credit card or debit card transactions.
+g) No corroboration was provided from other wait staff witnesses concerning this convoluted method of correcting errors.
+h) I acknowledge that in training staff and as a result of human error, and perhaps for other reasons, tables may have been open that brought no revenue, and then closed. I will take this into consideration in my judgment.
+i) Mr. Xue testified there was not a “no sale” button in the Profitek system. Mrs. Xue eventually confirmed there was a button for voiding and a button for deletions in the system.
+j) Mrs. Xue also admits there was a void button in the system, but did not want wait staff to use as it would potentially allow them to steal cash transactions.
+k) Mrs. Xue stated that if a waitress did prepare a mistaken order, she would sign the receipt and it would be kept as a record. These receipts were not introduced as evidence at trial.
+l) The parties also differed on whether the POS was accurate. Ms. Xue testified that it was not accurate at all. This begs the question as to why the Appellants bought the system and used it for numerous years. Mr. Xue testified that it was accurate, but not for cash transactions [6] . Cross-examination by the Respondent showed no changes were made by the Appellants to the credit card results or the interact results, only to cash sales.
+m) There were instances in which the daily food sales, as recorded in the POS system, were more than the daily claimed total credit card amounts, debit card amount and cash revenue that would have paid for these sales.
+n) The Appellants did not explain why the cash sales were consistently recorded incorrectly in the POS system, by rounded numbers.
+o) Mrs. Xue reported the following net incomes in her filed tax returns:
+2007 $16,057
+2008 $24,637
+2009 $28,230
+2010 $0
+p) Mr. Xue, who had a job working in high tech, reported the following net incomes in his tax returns:
+2007 $58,413
+2008 $68,807
+2009 $119,839
+2010 $40,280
+In all these years, Coastridge reported significant losses.
+q) With these claimed income amounts, the Xues purchased a townhome in 2009 for $538,000 which included a $134,500 down payment, with the bank providing a mortgage of $403,500. They also leased and purchased a 2004 Lexus. They made an investment in another restaurant called Swish Swish, which cost them between $60,000 to $90,000.
+r) These occurrences corroborate the Respondent’s theory of the case that Mr. and Mrs. Xue were in possession of substantial unreported income
+III. ANALYSIS:
+[36] In Eisbrenner v. Canada (2020 FCA 93), the Federal Court of Appeal recently reviewed, the burden of proof upon an Appellant before the Tax Court. A taxpayer has the burden to prove any facts that are alleged by that taxpayer in their Notice of Appeal and that are denied by the Respondent.
+[37] Particular to tax appeals is the ability of the Respondent to plead and rely upon the assumptions made by the Minister. When this occurs, the taxpayer in order to be successful in their appeal, needs to demolish the properly plead assumptions that are detrimental to the appeal. In the Reply filed in this matter, several key assumptions were set and relied upon by the Respondent as part of their evidence. Few, if any, of the assumptions were specifically dealt with in the evidence lead by the Appellants.
+[38] Furthermore, the Appellants plead that the Minister incorrectly interpreted the POS system data. The Respondent’s pleadings denied this to be correct. The Appellants did not provide evidence, on a balance of probabilities that support this position.
+[39] As a trial judge, I have certain expectations as to the evidence that would destroy assumptions. These expectations are not requirements of an Appellant. In many cases an Appellant can destroy assumptions through evidence not anticipated by the trial judge. It is trite to say that of the parties in Court, the Appellants best know their own business. At trial the Appellants only provided viva voce self-serving evidence, without corroboration. Their evidence was often contradicted by the various business records that were before the Court, and as noted above, did not have an air of reality.
+[40] The evidence lead by the Appellants, as well as the cross-examination by the Appellants’ counsel, was not effective in destroying the assumptions plead in the Replies [7] . Even if the assumptions did not exist, I would have come to the same final conclusions that I have ultimately reached concerning unreported income. This conclusion is based on the evidence lead by the Respondent at trial, obtained most often through the business records as prepared in the Profitek system.
+[41] I would have expected the Appellants to, at the very least, call clear evidence concerning what the Profitek system in use could and could not do. I would have expected to see the menus and prices that were in existence for the years before the Court. I would have liked to hear from other wait staff to support the claim of incorrectly entered orders, amounting to over 9700 incidents. Instead, the Appellants only put themselves, Mr. and Mrs. Xue, on the stand. Their evidence had numerous inconsistencies and often an overall lack of logic. These flaws make the evidence far less compelling. In stating this, I rely upon the various examples previously set out in this decision.
+[42] Furthermore, it was necessary for the Appellants to provide an explanation concerning why adjustments were made to reduce cash sales, and why they were almost always in even dollar amounts, and done almost daily. Both Mr. and Mrs. Xue were crossed examined on this issue. Neither could explain why the changes were necessary. The cash sales adjustment were prepared by Mrs. Xue. Surely if Mrs. Xue had to reduce the cash sales recorded on the POS system by round amounts on a daily basis, for legitimate reasons, she should be able to explain why the POS system was continually wrong.
+[43] The taxpayers have not met their onus. The Appellants have not lead prima facie evidence to show that on the balance of probabilities, the reassessments are wrong. Furthermore, the Appellants have not lead evidence to demolish the assumptions made by the Minister. On this basis alone, I deny the majority of the Appeal. In particular, the portion of the shareholder benefit reassessments that relates to the understatement of sales on a nightly basis, which amounts to $696,349, shall not be amended in any way as a result of this judgment.
+[44] With that said, the Appellants shall have some partial success in this matter. I have concluded that the reassessments overstates the amount of undeclared shareholder benefits of the Xues. The overstatement of income relates specifically to the calculations and assumptions applied to the deleted sales in the POS system.
+[45] Specific to the deletions found by the CRA in the POS system, 2213 of the tables were open for 5 minutes or less on the system. It is my conclusion that this is too short a period for a customer to order and receive their food. These instances were most likely the correction of errors. I will give the Appellant the benefit of the doubt and find that the reassessment calculations related to the deletions found in the POS system should be reduced. This reduction amounts to 23% of the deleted transactions. I will therefore reduce this component of the reassessment by 23% for each year. I realize this is a very rough calculation, and I would have preferred some guidance from the Appellants on this adjustment. But I do accept that the deleted transactions, as applied by the Minister, overstate the proper reassessment. Therefore, this component of the reassessment will be reduced by 23%.
+[46] For further clarification, I find the amount of undeclared sales from lunch should be reduced from a sum total of $92,200 to $70,994 [8] for the years before the Court. I further find that the amount of undeclared sales from dinners should be reduced from a sum total of $74,616 to $57,454 [9] for the years before the Court.
+A. GST/HST Reassessment Coastridge:
+[47] Concerning the reassessment of the Minister against Coastridge for collecting and failing to remit net GST of $52,575.94 for the period before the Court, this amount must be adjusted as a result of my findings above. Specifically, there should be a 23% reduction in a portion of the revenue amounts upon which the GST owing was calculated pertaining to the deleted lunch and deleted dinner sales. This is a result of the reduction of the reassessed amount of the total of undeclared sales from lunch from $92,200 to $70,994 and the reduction of the undeclared dinners from $74,616 to $57,454.
+[48] The applicable GST/HST rates for the years in question were:
+A. 6% from November 1, 2006 to December 31, 2007
+B. 5% from January 1, 2008 to June 30, 2010
+C. 12% thereafter
+[49] I will apply a 6% rate in this calculation. The amount of GST owing attributable to undeclared lunch sales shall be reduced by $1,272.36. [10]
+[50] The amount of the GST attributable to undeclared dinners sales shall be reduced by $1,029.72. [11]
+[51] This amounts to a reduction of $2,302.08 of the amount of GST owing. It is therefore my finding that Coastridge failed to remit net GST in the amount of $50,273.86 for the years before the Court.
+B. Gross Negligence Penalties:
+[52] Penalties have been assessed against both Mr. and Mrs. Xue under subsection 163(2) of the Income Tax Act (the “ITA” ), the preamble of which reads as follows:
+163(2) False statements or omissions
+—Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act ...
+[53] Subsection 163(3) of the ITA provides that the burden of establishing the circumstances that give rise to the application of the penalty is on the Minister. In this instance, to meet the burden the Respondent must provide evidence, on the balance of probabilities, that Mr. Xue and Mrs. Xue both made a false statement in their return, and knowingly made the false statement or were grossly negligent in their filing with the Minister.
+[54] As noted by Strayer J., in Venne v. R. (1984), 84 D.T.C. 6247 (Fed. T.D.)
+[...] “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not [...]
+[...] By virtue of sub-section 163(3) “the burden of establishing the facts justifying the assessment of the penalty is on the Minister”. It will be noted that for the penalty to be applicable there appears to be a higher degree of culpability required, involving either actual knowledge or gross negligence, than is the case under sub-section 152(4) for reopening assessments more than four years old where mere negligence seems to be sufficient [...]
+[55] Mr. and Mrs. Xue took steps to receive undeclared income from their restaurant business and undertook overt acts, such as the deletion of sales records and amending the cash sales records in the POS system so that their income would be understated. These amended records were then provided to their accountants to prepare their tax returns.
+[56] I further note that both parties are well educated and have experience in the restaurant business. Mr. Xue worked full time in the IT industry. He helped set up the Profitek system. It is my finding that Mr. Xue manipulated the POS system, so as to facilitate the understatement of income. Mrs. Xue has an accounting background, as well as years of experience in the restaurant business. She was present at the restaurant on a daily basis I find that Mrs. Xue removed cash from Tomoya’s revenue daily, and facilitated in the hiding this in amending the POS data. The Xues’ income tax returns were reviewed and signed by them knowing that the filings were incorrect and understated their income.
+[57] I further note that the additional income not declared was exceptionally large, especially in comparison to the income the Xues declared.
+[58] My finding is therefore that both Mr. Xue and Mrs. Xue knowingly attempted to deceive in the filing of their income tax return for each of the 2007, 2008, 2009 and 2010 taxation years. The evidence overwhelmingly supports the 163(2) reassessment applied against each Mr. and Mrs. Xue.
+IV. CONCLUSION:
+[59] The reassessment against Coastridge for unremitted GST/HST shall be reduced from $52,575.96 to $50,273.86.
+[60] Mr. and Mrs. Xue each had unreported shareholder benefits in the years before the Court as follows:
+In 2007 $83,301.27 [12]
+In 2008 $114,684.94 [13]
+In 2009 $116,596.44 [14]
+In 2010 $97,796.48 [15]
+[61] The penalties pursuant to subsection 163(2) of the Act were properly applied by the Minister, and shall be reduced according to the adjustments made in this Judgment.
+[62] The parties shall have until August 26, 2020, to arrive at an agreement on costs, failing which they are directed to file written submissions on costs by September 25, 2020. Such submissions shall not exceed 15 pages. If the parties fail to reach an agreement on costs and no written submissions are filed, costs shall be awarded to the Respondent pursuant to the Tariff.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated July 27th 2020.
+Signed at Ottawa, Canada, this 8th day of August 2020.
+“R. MacPhee”
+MacPhee J
+Appendix “A”
+CITATION:
+2020 TCC 72
+COURT FILE NO.:
+2016-4824(IT)G; 2016-4826(IT)G; 2015-5443(GST)G
+STYLE OF CAUSE:
+STUART XUE AND HER MAJESTY THE QUEEN and STEPHANIE XUE AND HER MAJESTY THE QUEEN and COASTRIDGE ENTERPRISES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 3, 4, 5 and 6, 2019 and January 24, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+July 27, 2020
+APPEARANCES:
+Counsel for the Appellants: G. Douvelos
+Counsel for the Respondent: R.D.F. Wilhelm
+R. Whittaker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+Fore the Respondent: Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Because it was purchased second hand, the Profitek system did not identify Tomoya in its header in the various reports it created, but instead identified Hot Rod Prime Rib Restaurant as the business.
+[2] The CRA, in their audit, accepted 370 voided transactions recorded in the POS system on the basis that they were legitimate employee errors being corrected, and no revenues were received as a result of these transactions.
+[3] At trial, the Respondent called evidence as to how the average bill estimate was arrived at. This evidence included a working paper summarizing various invoice amounts for both types of meals.
+[4] The Notices of Appeal states that the CRA auditor did not have an understanding of the POS system. Furthermore, the Appeal states, inconsistent with the Appellants’ arguments at trial, that the POS system accurately reported Tomoya’s sales revenue.
+[5] At page 4 citing from A. W. Bryant and M. K. Fuerst, The Law of Evidence in Canada (2018 5th ed.) at subsection 6.471, which provided a fulsome description as to when a finding of adverse inference may be made.
+[6] The Appellants’ pleading state the POS system did accurately record the Tomoya’s restaurant’s sales revenue.
+[7] All three Replies relied upon the same assumptions.
+[8] The amount of undeclared cash sales from deleted lunch sales shall be amended for each year as follows: in 2007 an amount of $5,083.54; in 2008 an amount of $13,762.98; in 2009 an amount of $23,399.50 and in 2010 an amount of $28,747.95.
+[9] The amount of undeclared cash sales from deleted dinners sales shall be amended for each year as follows: in 2007 an amount of $4,512.20; in 2008 an amount of $11,536.91; in 2009 an amount of $17,022.39 and in 2010 an amount of $24,344.32. This calculation is based on the assumption found at 7(jj) in Mr. Xue’s pleading. The total in the final column in the Reply amounts to $74,616. A review of the table indicates that this appears to be overstated by $50. As a result, the math is not exact in the table and the discrepancy shall be applied to the benefit of the Appellants.
+[10] ($92,200-$70,994)*6%=$1,272.36
+[11] ($74,616-$57,454)*6%=$1,029.72
+[12] $157,007+$5,083.54+$4,512=$166,602.52*.5=$83,301
+[13] $204,070+$13,762.98+$11,536.91=$229,369.88*.5=$114,684.94
+[14] $192,771+$23,399.50+$17,022.39=$233,192.89*.5=$116,596.44
+[15] $142,501+$28,747.95+$24,344=$195,592.95*.5=$97,796.48

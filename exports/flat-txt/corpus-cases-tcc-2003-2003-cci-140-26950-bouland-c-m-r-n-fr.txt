@@ -1,0 +1,180 @@
+Title: Bouland c. M.R.N
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26950/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-140-26950-bouland-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-03-19
+
+# Bouland c. M.R.N
+
+- Citation: 2003 CCI 140
+- Decision date: 2003-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 560, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouland c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-19
+Référence neutre
+2003 CCI 140
+Numéro de dossier
+2002-3929(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-3929(EI)
+ENTRE :
+FRANÇOISE BOULAND,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé,
+et
+INFOSPA INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 28 février 2003 à Montréal (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Représentant de l'intervenante :
+Me Marie-Aimée Cantin
+René G. Hébert
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI140
+Date : 20030319
+Dossier : 2002-3929(EI)
+ENTRE :
+FRANÇOISE BOULAND,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé,
+et
+INFOSPA INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu, à Montréal (Québec), le 28 février 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le « Ministre » ) selon laquelle l'emploi exercé au cours de la période en cause, soit du 6 août au 28 décembre 2001, auprès de Infospa Inc., le payeur, est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi au motif qu'il existait un lien de dépendance entre elle et le payeur.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] Les paragraphes 5(2) et 5(3) de la Loi sur l'assurance-emploi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i):
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[5] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de lien « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[6] L'alinéa 252(4)a) de la Loi de l'impôt sur le revenu se lit comme suit :
+a) les mots se rapportant au conjoint d'un contribuable à un moment donné visent également la personne de sexe opposé qui, à ce moment, vit avec le contribuable en union conjugale et a vécu ainsi durant une période de douze mois se terminant avant ce moment ou qui, à ce moment, vit avec le contribuable en union conjugale et est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu de l'allinéa (1)e) et du sous sous-alinéa (2)a)(iii); pour l'application du présent alinéa, les personnes qui, à un moment quelconque, vivent ensemble en union conjugale sont réputées vivre ainsi à un moment donné après ce moment, sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur union, pendant une période d'au moins 90 jours qui comprend le moment donné;
+[7] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[8] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par l'appelante :
+a) Le payeur, constitué en société le 7 août 2001, offre un service de consultation et de conception de projets pour spas; il en fait aussi la réparation et la vente de pièces. (admis)
+b) L'unique actionnaire du payeur était M. René Hébert, conjoint de fait de l'appelante. (admis)
+c) M. Hébert et l'appelante avaient tous les deux travaillé chez piscines Trévi et avaient acquis de l'expérience dans le domaine des spas. (admis)
+d) Le payeur en était à sa première année d'exploitation. (admis)
+e) Le payeur exploite une entreprise saisonnière dont les activités se répartissent habituellement en avril et mai pour l'ouverture de spas et de la fin septembre à la fin novembre pour la fermeture des spas. (admis)
+f) M. Hébert et l'appelante étaient les seuls employés du payeur. (admis)
+g) Le payeur exploitait son entreprise de la résidence personnelle de l'appelante et de M. Hébert. (admis)
+h) M. Hébert s'occupait de la consultation et de la conception des projets et faisait de la réparation de spas. (admis)
+i) Durant la période en litige, l'appelante s'est occupée de la vidange et de la fermeture des spas. (nié)
+j) Du début de la période jusqu'à la mi-septembre, l'appelante a préparé une liste de clients potentiels et leur a acheminé des circulaires d'information. (admis)
+k) M. Hébert louait personnellement 2 véhicules : une Eurovan contenant toutes les pièces ainsi que l'équipement qu'il utilisait et une Suzuki utilisée principalement par l'appelante. (admis)
+l) M. Hébert se faisait rembourser par le payeur le coût de l'essence utilisée par les 2 véhicules. (admis)
+m) Le payeur a prétendu que l'appelante faisait entre 500 et 600 kilomètres par jour alors que les relevés du millage parcouru par la Suzuki, en novembre et décembre, démontrent, respectivement, 997 kilomètres et 3 435 kilomètres par mois. (nié)
+n) Le payeur a précisé que l'appelante rendait principalement des services le samedi, le dimanche et le lundi alors que l'appelante a mentionné qu'elle travaillait du lundi au samedi et très rarement le dimanche. (nié)
+o) Le payeur a prétendu que l'appelante faisait environ 60 heures par semaine alors que l'appelante a mentionné qu'elle faisait entre 38 et 40 heures par semaine. (nié)
+p) L'appelante recevait une rémunération hebdomadaire de 300 $ brut et ce, sans aucun contrôle du payeur sur ses heures réellement travaillées. (nié)
+q) L'appelante était rémunérée par chèque à chaque semaine sauf pour les semaines de décembre 2001, pour lesquelles elle n'a pas reçu de rémunération du payeur. (nié)
+r) En 2001, la majorité des revenus du payeur provenaient de la fermeture des spas et rien n'indique le temps consacré par M. Hébert ou par l'appelante à cette activité. (nié)
+s) Le payeur n'a soumis aucune liste des contrats de services effectués par M. Hébert durant la période en litige. (nié)
+t) Étant donné le peu de clients (une centaine) et le peu de revenus (21 524 $) engendrés en 2001, rien ne justifie l'embauche à plein temps de l'appelante durant la période en litige. (nié)
+[9] Le payeur constitué en société le 7 août 2001, exploite depuis cette date un service de consultation et de conception de projets pour spas, il en fait aussi fait de la réparation et la vente de pièces. Le bureau du payeur est situé dans la résidence personnelle de René Hébert et de l'appelante.
+[10] L'unique actionnaire du payeur était René Hébert conjoint de fait de l'appelante. René Hébert et l'appelante étaient les deux seuls employés du payeur; il existait donc un lien de dépendance entre eux. Ceux-ci ont acquis de l'expérience dans le domaine des spas dans le cadre d'emplois antérieurs.
+[11] Les périodes les plus achalandées du payeur étaient habituellement avril et mai pour l'ouverture de spas et de la fin septembre à la fin novembre pour leur fermeture.
+[12] Monsieur René Hébert s'occupait de la consultation et de la conception des projets faisait la réparation de spas et vendait des pièces pour ceux-ci.
+[13] Durant la période en litige, l'appelante, selon son témoignage, nettoyait les spas, vérifiait la qualité de l'eau et la mécanique et portait à l'attention à René Hébert, tout problème qui survenait.
+[14] L'appelante s'occupait également de la promotion des spas. Du début de la période en litige jusqu'à la mi-septembre, l'appelante a préparé une liste de clients potentiels et leur a acheminé des circulaires d'information.
+[15] Le payeur avait à sa disposition deux véhicules, une Eurovan contenant toutes les pièces ainsi que l'équipement et une Suzuki utilisée principalement par l'appelante. Le payeur assumait le coût de l'essence utilisée par les deux véhicules.
+[16] L'appelante a témoigné qu'elle parcourait entre 300 et 400 kilomètres par jour avec son véhicule, et parfois jusqu'à 500 ou 600 kilomètres; la province de Québec était le territoire à couvrir. Pour se rendre chez les clients elle devait parfois circuler environ deux heures et passait deux heures chez le client.
+[17] Elle a affirmé qu'elle travaillait du lundi au vendredi de chaque semaine et souvent le samedi et parfois le dimanche et oeuvrait de 38 à 40 heures et souvent 50 à 60 heures par semaine. Monsieur Hébert a témoigné qu'elle travaillait de 20 à 60 heures par semaine, du lundi au vendredi et parfois le dimanche en travaillant également au bureau de l'entreprise, lequel est équipé de deux ordinateurs. Sa rémunération était établie à 300 $ par semaine.
+[18] L'appelante a affirmé qu'elle était rémunérée chaque semaine sauf pour les semaines du mois de décembre 2001, pour lesquelles elle n'a pas été payée.
+[19] Les services de réparations étaient basés sur des factures et non pas sur des contrats écrits; cependant des contrats écrits étaient établis pour la fermeture des spas.
+[20] M. Hébert reconnaît la liste des clients pour les mois d'octobre et novembre 2001, tel qu'il apparaît à la pièce I-2. Il reconnaît également que les revenus pour les mois d'août à décembre 2001 s'élevaient à $21,524.00, tel qu'indiqué à la pièce I-3.
+[21] Dans l'arrêt Procureur général du Canada c. Jencan Ltd., [1997] A.C.F. 876, le juge en chef Isaac de la Cour d'appel fédérale s'est exprimé en ces termes au paragraphe 37 de sa décision :
+...La Cour de l'impôt est justifiée de modifier la décision rendue par le ministre en vertu du sous-alinéa 3(2)c)(ii) - en examinant le bien-fondé de cette dernière - lorsqu'il est établi, selon le cas, que le ministre : (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent.
+L'alinéa 5(3)b) de la Loi sur l'assurance-emploi est au même effet que le sous-alinéa 3(2)c)(ii) de la Loi sur l'assurance-chômage.
+[22] L'appelante n'a pas été rémunérée pour le mois de décembre 2001. Une personne sans lien de dépendance avec le payeur, n'aurait pas travaillé sans rémunération.
+[23] Le relevé d'emploi de l'appelante (pièce I-1) ne reflète pas la réalité. Il est évidement, d'après la preuve présentée, que l'appelante ne travaillait pas 40 heures par semaine à toutes les semaines pendant la période en litige.
+[24] Si l'on considère le secteur d'activités pour lequel la travailleuse a été embauchée, la période de travail de l'appelante qui se termine à la fin décembre 2001 ne coïncide pas avec les besoins réels du payeur.
+[25] Les revenus de 21 524 $ engendrés pour l'année 2001 ne justifiaient pas l'embauche à plein temps de l'appelante pour la période en litige.
+[26] Compte tenu de toutes les circonstances de l'espèce, la Cour est convaincue que l'appelante n'a pas réussi à établir selon la prépondérance de la preuve que le Ministre a agi d'une façon capricieuse ou arbitraire.
+[27] Les conditions de travail n'auraient pas été semblables si l'appelante et le payeur n'avaient pas eu entre eux de lien de dépendance.
+[28] L'emploi de l'appelante est exclu des emplois assurables selon l'alinéa 5(2)(i) et le paragraphe 5(3) de la Loi sur l'assurance-emploi.
+[29] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Jurisprudence consultée
+Procureur général du Canada c. Jencan Ltd. la Cour d'appel fédérale, [1997] A.C.F. 876
+Ferme Émile Richard et Fils Inc. et le Ministre du Revenu national (1er décembre 1994, 178 N.R. 361
+RÉFÉRENCE :
+2003CCI140
+No DU DOSSIER DE LA COUR :
+2002-3929(EI)
+INTITULÉ DE LA CAUSE :
+Françoise Bouland et M.R.N.
+et Infospa Inc.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE
+Le 28 février 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge suppléant
+J.F. Somers
+DATE DU JUGEMENT :
+le 19 mars 2003
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Marie-Aimée Cantin
+Pour l'intervenante :
+René G. Hébert (représentant)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant :
+Nom :
+Étude :

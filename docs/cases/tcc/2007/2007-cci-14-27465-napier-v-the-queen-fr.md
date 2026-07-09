@@ -1,0 +1,157 @@
+---
+title: "Napier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27465/index.do"
+last_modified: "2007-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 14"
+citation2: ""
+neutral_citation: "2007 CCI 14"
+decision_date: "2007-01-11"
+language: "fr"
+item_id: "27465"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 221
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:03:59.029000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f95636486678ac1f33ffd14bb40c64e439bee665fd2e10193bf6c6b045a6d7dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Napier v. The Queen
+
+- Citation: 2007 CCI 14
+- Decision date: 2007-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 221, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Napier v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-11
+Référence neutre
+2007 CCI 14
+Numéro de dossier
+2005-3931(IT)I
+Juges et Officiers taxateurs
+Dwayne W. Rowe
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3931(IT)I
+ENTRE :
+BRENT P. NAPIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 octobre 2006, à Ottawa, Canada.
+Devant : L’honorable juge suppléant D.W. Rowe
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Daniel Bourgeois
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli, sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Edmonton (Alberta), ce 11e jour de janvier 2007.
+« D.W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 14e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI14
+Date : 20070111
+Dossier : 2005-3931(EI)
+ENTRE :
+BRENT P. NAPIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Rowe
+[1] L’appelant interjette appel d’une cotisation fiscale visant l’année d’imposition 2002. Dans le calcul de ses crédits d’impôt non remboursables, l’appelant a déduit une somme de 4 399,03 $ au titre de l’intérêt payé sur des prêts étudiants. Lorsqu’il a établi la cotisation d’impôt sur le revenu de l’appelant, le ministre du Revenu national (le « ministre ») n’a accepté qu’une partie de cette déduction, soit 310,00 $, parce que le reste de l’intérêt déduit par l’appelant ne visait pas des prêts consentis en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[2] Il s’agit de savoir si l’appelant peut, en application de l’article 118.62 de la Loi de l’impôt sur le revenu (la « Loi »), déduire l’intérêt s’élevant à 4 089 $ qu’il a payé sur des billets à ordre, dans le calcul de ses crédits non remboursables et de l’impôt à payer pour l’année d’imposition 2002.
+[3] Dans son témoignage, l’appelant (M. Napier) a déclaré qu’il s’était inscrit à l’Université d’Ottawa (l’« Université ») en 1994 et qu’il avait payé les frais de scolarité pour ses deux premiers semestres d’études en sciences politiques. Cependant, il a eu besoin d’aide financière pour poursuivre ses études en deuxième année et il a présenté une demande à la section de l’administration financière de l’Université d’Ottawa, laquelle avait pour mandat d’offrir aux étudiants un financement provisoire afin de combler la période entre le début du semestre et la remise anticipée des fonds provenant du Régime d’aide financière aux étudiantes et étudiants de l’Ontario (RAFEO). Il a présenté une demande de prêt étudiant au RAFEO en septembre 1995. Il s’attendait à recevoir les fonds vers la mi‑octobre, mais le RAFEO a refusé sa demande et l’appelant a donc informé l’Université de la situation. Celle-ci a alors consenti à prolonger le billet à ordre du 8 septembre 1995, à la condition que l’appelant s’engage à payer l’intérêt au taux courant conformément aux modalités du billet. Les documents relatifs à cette opération n’ont pas été mis en preuve. Le 14 mars 1996, l’appelant et l’Université ont conclu une entente (pièce A‑1) et il a reçu la somme de 3 900,15 $, qui a directement été affectée au paiement de ses frais de scolarité à cet établissement. Selon l’intitulé de la formule – [TRADUCTION] « Paiement différé » –, l’Université avait l’intention de prêter ces fonds à l’appelant jusqu’à ce qu’il reçoive une aide financière du RAFEO, au plus tard le 30 avril 1996. Lorsque le RAFEO a refusé la demande de l’appelant, ce dernier a discuté de la situation avec le directeur de la section de l’administration financière de l’Université, lequel a consenti à prolonger les billets à ordre signés par M. Napier à la condition qu’il tente de trouver une autre source de financement pour rembourser les prêts consentis par l’Université. L’appelant n’ayant pas réussi à obtenir du financement d’une autre source, la totalité de ses études a été financée au moyen d’emprunts à l’Université sous forme de billets à ordre de septembre 1995 à septembre 1997. Dans son témoignage, M. Napier a mentionné que les frais de scolarité ont augmenté à tous les semestres de sorte qu’au moment de recevoir son baccalauréat en sciences sociales le 25 mai 1998, sa dette envers l’Université s’élevait à près de 9 000 $. Selon les conditions de l’entente (pièce A‑1), la somme de 3 900,15 $ devait être remboursée en un seul versement mais, dans l’éventualité où elle ne serait pas payée au plus tard le 30 avril 1996, des intérêts au taux préférentiel de la Banque Nationale du Canada, à Montréal, majoré de 2 pour 100, seraient exigés. M. Napier a déclaré qu’il avait reçu un état de compte (pièce A‑2) de l’Université montrant un solde dû de 8 388,62 $ au 14 juin 2001. L’Université lui avait antérieurement envoyé un autre état de compte (pièce A‑3) montrant qu’au 25 février 2003 il devait la somme de 5 895,32 $. Sur ce document figuraient en outre les avances qui lui avaient été faites au titre des billets à ordre, d’autres frais liés à sa participation à un régime d’assurance‑maladie pour étudiants ainsi que des mentions relatives à des intérêts débiteurs et aux paiements qu’il avait effectués en 2001 et en 2002 au moyen d’une série de chèques postdatés. M. Napier a ajouté qu’il a fait parvenir un courriel à l’Université pour s’enquérir du pouvoir ou du fondement qui autorisait cette dernière à lui prêter les sommes nécessaires pour payer ses frais de scolarité au moyen de billets à ordre. Il a reçu comme réponse (pièce A‑4) ce qui paraît être un extrait tiré du site Web de l’Université touchant l’administration et la gouvernance ainsi que le pouvoir du Bureau des gouverneurs (le « Bureau »). M. Napier a affirmé qu’il a obtenu un historique de son compte (pièce A‑5) et qu’il s’est assuré que ce document ne mentionnait pas que l’Université avait nécessairement réparti les paiements entre le capital et les intérêts, comme le ferait normalement une banque ou un autre établissement de crédit. Comme il n’a pu commencer à rembourser l’Université qu’en 2000, après avoir obtenu un emploi dans la fonction publique fédérale, à Pêches et Océans Canada, on ne lui a pas réellement remis son diplôme (pièce A‑6) avant 2005 en raison de sa dette en souffrance. Dans l’intervalle, l’Université l’avait autorisé à affirmer aux parties intéressées qu’il avait obtenu son diplôme en date du 25 mai 1998, mais il n’avait pas en sa possession un diplôme qu’il pouvait montrer à d’éventuels employeurs. C’est néanmoins cette date précise que l’Université a inscrite sur le diplôme lorsque celui‑ci a finalement été délivré, après le remboursement de la dette. Les conditions énoncées dans l’entente signée par l’appelant (pièce A‑1 ) permettaient à l’Université de retenir son relevé de notes ou son diplôme tant que son compte n’aurait pas été remboursé intégralement. Dans son témoignage, M. Napier a mentionné qu’au moment de produire ses déclarations de revenus pour les années d’imposition 1999, 2000 et 2001, il a déduit de faibles montants d’intérêt payés sur ces prêts de l’Université, principalement parce que ses documents ne permettaient pas d’étayer une déduction plus importante. Lorsqu’il a reçu l’état de compte (pièce A‑5 ), il a jugé que celui‑ci renfermait des précisions suffisantes pour justifier une déduction de 4 399 $ au titre de l’intérêt payé sur les prêts étudiants pendant une période de cinq ans, conformément à la Loi. M. Napier a ajouté que la ligne de conduite suivie par lui et l’Université s’était révélée nécessaire, car les politiques relatives au RAFEO en 1997, lesquelles ont été modifiées depuis, tenaient notamment compte du revenu de sa famille parce qu’il était âgé de moins de 25 ans, même s’il ne vivait pas à la maison au moment où il a présenté sa demande de financement.
+[4] L’avocat de l’intimée a contre‑interrogé l’appelant. M. Napier a reconnu sa déclaration de revenus de 2002 (pièce R‑1). Il a admis qu’il avait fondé sa déduction (annexe 1) sur les mentions figurant à l’état de compte (pièce A‑5) pour arriver à la somme de 4 399,03 $ et qu’au verso de ce document (pièce A‑3), une mention faisait état [TRADUCTION] d’« intérêts sur le billet à ordre » s’élevant à 1 472,90 $.
+[5] Compte tenu des difficultés occasionnées par le calcul de l’intérêt sur les billets à ordre au fil des ans, par le petit nombre de paiements effectués par l’appelant et par la façon dont l’Université a réparti les paiements au titre de la dette, l’appelant et l’avocat de l’intimée ont convenu que, si je concluais que l’appelant avait le droit de déduire les intérêts dans le calcul de ses crédits d’impôt non remboursables, une somme équivalant à 50 pour 100 des déductions demandées serait appropriée.
+[6] Selon la thèse de l’appelant, les objets visés par l’Université ont été remplis et l’établissement pouvait, suivant les lois de la province d’Ontario, lui prêter de l’argent au moyen de billets à ordre. L’appelant soutient que les fonds ont été utilisés pour acquitter ses frais de scolarité et d’autres frais connexes directement liés aux cours qu’il suivait à l’Université en vue d’obtenir son diplôme.
+[7] L’avocat de l’intimée avance que la disposition applicable de la Loi appelle une interprétation compatible avec le principe de conformité et que, même si l’alinéa 11(f) de la Loi concernant l’Université d’Ottawa – texte législatif de l’Ontario – autorisait le Bureau des gouverneurs de l’Université d’Ottawa à « […] émettre, tirer et endosser des billets à ordre ou des lettres de change », ce pouvoir ne faisait nullement mention d’étudiants, de prêts, de frais de scolarité ou du financement d’études, quelles qu’elles soient. L’avocat prétend que l’Université est une personne morale au sens de la loi provinciale – Loi sur les personnes morales, L.R.O. 1990, ch. C.38 – et que, selon l’alinéa 23(1)l), elle avait le pouvoir de « tirer, rédiger, accepter, endosser, escompter, exécuter et délivrer des […] billets […] et autres effets négociables ou transférables ». Il reconnaît que l’Université était habilitée à délivrer les billets à ordre et à emprunter de l’argent sur son crédit aux conditions fixées par le Bureau. Il soutient toutefois que le législateur provincial n’avait nullement l’intention que l’Université devienne un établissement ayant pour objet d’octroyer une aide financière aux étudiants. Selon lui, les règles ordinaires d’interprétation législative empêchent de conclure que les opérations inhabituelles intervenues entre l’Université et l’appelant – uniquement en raison du refus par le RAFEO, à deux occasions distinctes, d’accorder une aide financière – constituaient un ou plusieurs prêts étudiants au sens envisagé par le libellé clair de la disposition applicable de la Loi.
+[8] La disposition pertinente de la Loi prévoit ce qui suit :
+[…] un prêt consenti au particulier, ou tout autre montant dont il est débiteur, en vertu de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire. [Ni souligné ni en italique dans l’original.]
+[9] Dans la décision Renz v. Canada, [2002] A.C.I. no 358, 2001-1890(IT)I, la Cour canadienne de l’impôt a rejeté l’appel d’un contribuable qui demandait une déduction au titre d’un crédit pour intérêts courus sur des prêts consentis par des sociétés de prêts étudiants américaines. Lorsqu’elle a statué sur cette affaire, la Cour a conclu que le libellé de l’article 118.62 était clair, sans ambiguïté, et que les faits ne pouvaient permettre de conclure que l’appelant avait rempli les exigences prévues par cette disposition.
+[10] Dans la décision Vilenski v. Canada, [2003] A.C.I. no 418, la Cour canadienne de l’impôt avait à se prononcer sur le cas d’un contribuable qui avait obtenu un prêt étudiant consenti en vertu de la Loi fédérale sur les prêts aux étudiants, mais qui avait choisi de bénéficier d’un taux d’intérêt plus avantageux et de recourir à une ligne de crédit pour rembourser le prêt initial. Au paragraphe 11 de ses motifs, Mme la juge Woods a conclu que, même si l’argent obtenu au moyen de la ligne de crédit constituait fondamentalement le même argent que le prêt admissible initial, il ne s’agissait pas d’un prêt visé à l’article 118.62 puisque le terme « en vertu » signifie « assujetti à; régi ou restreint par ». Comme la ligne de crédit n’était pas « assujettie » aux dispositions de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’une « loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire », l’appel a été rejeté.
+[11] Dans le présent appel, l’appelant a utilisé le mode de financement offert par l’Université conformément aux politiques établies par cette dernière quant à l’octroi d’un délai de grâce aux étudiants ayant demandé une aide financière de prêteurs admissibles aux termes de la disposition pertinente. En réalité, l’Université offrait un financement provisoire au moyen de prêts – garantis par des billets à ordre – aux étudiants qui n’étaient pas en mesure d’acquitter leurs frais de scolarité à l’échéance parce qu’ils attendaient une réponse à leur demande d’aide financière. Dans l’éventualité où les fonds n’étaient pas disponibles à l’échéance prévue dans l’entente de paiement différé, des intérêts au taux préférentiel majoré de 2 pour 100 étaient exigés sur le montant du prêt. Dans la pièce A‑1, soit le document pertinent en l’espèce, l’avance d’une somme de 3 900,15 $ à l’appelant est clairement qualifiée de [TRADUCTION] « prêt ». Au bout du compte, l’Université a décidé, pour des raisons pratiques, de continuer à financer les études de l’appelant et, pendant toute la durée de ses études à cet établissement, ce dernier n’a jamais été admissible à un prêt dans le cadre du RAFEO ou d’un autre programme classique de prêts aux étudiants.
+[12] Comme l’a admis l’avocat de l’intimée, l’article 11 de la Loi concernant l’Université d’Ottawa, S.O. 1965, ch. 137, conférait à l’Université le pouvoir d’émettre un billet à ordre.
+L’article 25 de ce texte législatif intéresse le placement de fonds. Il est ainsi rédigé :
+Les fonds de l’Université qui ne sont pas immédiatement requis pour les fins de celle-ci ainsi que les revenus de tout bien en la possession du Bureau, pourront être investis ou réinvestis dans tels placements que le Bureau estimera convenables, compte tenu des fiducies qui pourront concerner ces biens.
+Le texte de l’article 24 est libellé comme suit :
+Les biens et les loyers, revenus, produits et profits provenant de tous biens possédés par l'Université devront être affectés exclusivement aux objectifs et fins de l'Université.
+Enfin, l’article 4 prévoit que les objets et fins de l’Université sont les suivants :
+(a) Favoriser le développement des connaissances et la diffusion du savoir […]
+[13] À ce stade‑ci, je suis convaincu que les prêts consentis par l’Université à l’appelant et garantis par les billets à ordre étaient autorisés par le Bureau, lequel détient son pouvoir aux termes de la Loi concernant l’Université d’Ottawa. Toutefois, la question à trancher est celle de savoir si les prêts consentis par l’Université dans le respect des pouvoirs du Bureau constituaient des prêts consentis « en vertu » d’une loi provinciale « régissant » l’octroi d’aide financière aux étudiants de niveau postsecondaire.
+[14] L’avocat de l’intimée fait valoir que la règle ejusdem generis, ou règle des choses du même ordre, doit s’appliquer à l’interprétation de l’article 118.62 car, selon lui, il était manifestement dans l’intention du législateur qu’une loi provinciale constitue un texte législatif ayant pour objet précis d’établir et de régir les modalités d’octroi d’une aide financière aux étudiants dans un cadre identique ou analogue à celui du financement accordé sous le régime de la Loi fédérale sur les prêts aux étudiants, de la Loi fédérale sur l’aide financière aux étudiants ou d’un programme provincial, comme le RAFEO, créé par un texte législatif distinct pour atteindre cet objectif.
+[15] La lecture du chapitre 9 de l’ouvrage Driedger on the Construction of Statutes, troisième édition, de Ruth Sullivan, professeure agrégée de droit à l’Université d’Ottawa, permet de conclure qu’à la lumière d’un certain nombre de règles d’interprétation législative différentes, il n’existe pas de façon unique de classer ces règles par ordre d’importance ou d’application. Selon l’analyse téléologique, le terme ou l’expression doit être interprété d’une manière compatible avec l’objet de la disposition et du texte législatif dans son ensemble. Selon la règle du sens ordinaire, c’est le sens ordinaire qui l’emporte, sauf s’il existe une raison de le modifier ou de l’écarter. C’est l’approche qu’a suivie la Cour canadienne de l’impôt dans les décisions Renz et Vilenski, précitées. L’expression « une loi provinciale » employée à l’article 118.62 ne renvoie pas à une loi précise ni à un organisme particulier investi de pouvoirs conférés par une loi. Dans l’ouvrage The Dictionary of Canadian Law, 3e éd., le terme « loi » est ainsi défini :
+[TRADUCTION]
+Règle visant à régir les actes; texte législatif; loi du Parlement du Canada ou de l’assemblée législative, notamment une proclamation, un règlement, un décret ou une ordonnance rendue en vertu d’une loi; et, dans son sens général, renvoie à toutes les règles qui régissent la société et qui sont exécutoires par le truchement de l’appareil judiciaire ou du système administratif. Dans ce sens général, « loi » englobe les principes constitutionnels écrits et non écrits, les textes législatifs fédéraux et provinciaux ainsi que la common law et l’equity.
+[16] Comme les rédacteurs ont employé les termes « une loi provinciale », il est raisonnable de supposer qu’ils souhaitaient favoriser une interprétation large et libérale susceptible d’englober une disposition particulière de l’ensemble plus large des règles de droit d’une province, plutôt que d’un texte législatif donné, puisqu’ils n’ont pas employé l’expression « en vertu de » en corrélation avec les termes [TRADUCTION] « un texte législatif provincial » [« an Act of a province »]. Dans sa version anglaise, la Loi comporte des dispositions où figure l’expression « Act of a Province » [sous‑alinéa 60o)(i) et alinéa 223(1)d)] [« une loi provinciale » en français] et d’autres [alinéa 118(8)a) et sous‑alinéa 241(4)d)(iii)] où l’on emploie les termes « a law of a province » [également « une loi provinciale » en français]. L’emploi d’expressions différentes dans la version anglaise ne paraît pas dénoter une distinction claire, mais il tend à montrer une préférence pour le terme anglais « Act » lorsque le législateur veut renvoyer à un texte législatif dans son entier. Le sous‑alinéa 60o)(i) précise comment déduire du revenu les frais judiciaires et extrajudiciaires, et l’alinéa 223(1)d) énonce des directives pour l’interprétation du paragraphe 223(2), lequel intéresse le recouvrement. L’expression « a law of a province » [« une loi provinciale » en français] est employée à l’alinéa 118(8)a) en corrélation avec des directives touchant l’interprétation de l’application du crédit relatif à une pension prévu au paragraphe 118(3) tandis que le sous‑alinéa 241(4)d)(iii) fait état des situations dans lesquelles des renseignements sur le contribuable peuvent être fournis « à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution d’une loi provinciale ». À mon sens, il est raisonnable de déduire que, lorsqu’une disposition de la Loi comporte l’expression anglaise « a law of a province », cette expression peut viser à la fois une disposition particulière et un texte législatif dans son entier. Si l’on considère que le terme anglais « law » vise un ensemble de règles régissant une province, il englobe alors chacun des éléments composant ce système collectif.
+[17] Le terme « régissant » ne semble pas avoir fait l’objet d’une jurisprudence abondante, mais on peut s’en rapporter à son sens ordinaire par l’examen de sa racine, soit le terme « régir », lequel est défini de la manière suivante dans l’ouvrage The Canadian Oxford Dictionary, 1re éd. :
+[TRADUCTION]
+gouverner ou maîtriser (un État, un sujet, etc.) avec autorité; diriger la politique et les activités (d’un organisme, etc.); faire partie du gouvernement; exercer un contrôle ou une influence (sur une personne, une fonction, le cours des événements, etc.); être l’influence prédominante; constituer une norme ou un principe applicable; constituer une loi applicable; servir à trancher (une affaire); contenir ou maîtriser (en particulier les passions); fait (en particulier pour un verbe ou une préposition) d’avoir (un nom ou un pronom ou une désinence) qui en dépend; avoir le contrôle militaire (d’un gué, d’une ville).
+[18] Toutes ces définitions sont compatibles, en ce sens que chacune d’elles renvoie à l’application d’une règle ou à l’exercice d’un contrôle ou d’une influence. Dans le présent appel, l’Université a consenti un prêt à l’appelant conformément à l’une de ses politiques qui a été autorisée par son Bureau des gouverneurs et mise en œuvre par ses administrateurs pour offrir un financement provisoire à ses étudiants de niveau postsecondaire qui ne sont pas en mesure d’obtenir, au plus tard à l’échéance fixée pour le paiement des frais de scolarité, l’aide financière habituellement accordée aux étudiants. Lorsque le RAFEO a refusé la demande d’aide de l’appelant, l’Université a choisi de ne pas recouvrer immédiatement le montant des billets à ordre et d’accepter que la dette demeure non réglée au taux d’intérêt préférentiel majoré de 2 pour 100, comme il est précisé dans le texte du billet et en conformité avec l’entente conclue (pièce A‑1). Le prêt ne visait pas à permettre à l’appelant d’acheter un lecteur MP3. Il ne s’agissait pas d’un prêt que lui aurait consenti un magasin de fournitures électroniques et qui lui aurait permis de suivre ses cours à l’Université. Même si elle n’a pas pour objet d’administrer un programme complet d’aide financière à l’intention de ses étudiants, l’Université a constaté qu’il était nécessaire d’offrir un financement provisoire et – comme ce fut le cas en l’espèce –elle a conclu qu’elle avait le droit de résoudre l’épineuse situation occasionnée par le refus du RAFEO d’octroyer une aide financière à l’appelant sous forme d’un prêt étudiant. Les prêts consentis par l’Université tombaient sous le coup des pouvoirs qui lui sont conférés par la loi et des règles régissant ces opérations. L’Université pouvait donc octroyer une aide financière à l’appelant à des conditions compatibles avec ses politiques établies par le directeur de la section de l’administration financière.
+[19] À la lumière de l’analyse qui précède, j’arrive à la conclusion que les faits du présent appel satisfont aux exigences fixées à l’article 118.62 de la Loi.
+[20] L’appel est accueilli et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant peut déduire des intérêts de 2 044,50 $ payés sur les billets à ordre dans le calcul de ses crédits d’impôt non remboursables et de l’impôt à payer pour l’année d’imposition 2002.
+[21] Compte tenu de l’entente conclue entre les parties voulant que, dans l’éventualité où j’accueille l’appel, l’appelant puisse déduire seulement 50 pour 100 de la somme en litige en raison de l’impossibilité de calculer la somme précise en cause avec les renseignements disponibles, l’appelant n’a obtenu gain de cause que dans une mesure d’au plus 50 pour 100. Il n’a donc pas droit aux dépens.
+Signé à Edmonton (Alberta), ce 11e jour de janvier 2007.
+« D.W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 14e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI14
+NO DU DOSSIER DE LA COUR : 2005-3931(IT)I
+INTITULÉ DE LA CAUSE : BRENT P. NAPIER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 17 octobre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge suppléant D.W. Rowe
+DATE DU JUGEMENT : Le 11 janvier 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Daniel Bourgeois
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

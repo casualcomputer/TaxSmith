@@ -1,0 +1,188 @@
+Title: Gendron v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405689/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-100-405689-gendron-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2019-05-03
+
+# Gendron v. M.N.R.
+
+- Citation: 2019 TCC 100
+- Decision date: 2019-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4408, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gendron v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-03
+Neutral citation
+2019 TCC 100
+File numbers
+2018-1532(EI)
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2018-1532(EI)
+BETWEEN:
+DENIS GENDRON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on April 2, 2019 at Calgary, Alberta
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Keelan Sinnott
+JUDGMENT
+In accordance with the attached reasons for judgment:
+The appeal from a decision of the Minister of National Revenue dated February 15, 2018, made under the Employment Insurance Act, is dismissed, without costs.
+Signed at Ottawa, Canada, this 3rd day of May 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2019 TCC 100
+Date: 20190503
+Docket: 2018-1532(EI)
+BETWEEN:
+DENIS GENDRON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Monaghan J.
+I. INTRODUCTION
+[1] Denis Gendron is appealing a determination by the Minister of National Revenue that his employment during the period May 1, 2016 to June 30, 2017 (the “relevant period”) was not insurable employment for the purposes of the Employment Insurance Act (Canada) (the “EIA”). The parties agree that during that time Mr. Gendron worked in the Netherlands under a secondment arrangement, as described in more detail below.
+II. ISSUE
+[2] Insurable employment is defined in section 5 of the EIA. [1] With narrow and limited exceptions, only employment in Canada qualifies as insurable employment. During the relevant period Mr. Gendron was not employed in Canada. Thus, absent an applicable exception from the requirement that the employment be in Canada, Mr. Gendron’s employment in the relevant period will not be insurable employment and his appeal must be dismissed.
+[3] Paragraph 5(1)(d) and subsection 5(4)(a) of the EIA operate together to permit the Canada Employment Insurance Commission (the “Commission” ) to make regulations under the EIA to include employment outside Canada within the scope of “insurable employment”. Regulation 5 under the EIA was made pursuant to those provisions and is the exception that Mr. Gendron seeks to rely on in this case.
+[4] Regulation 5 provides that employment outside Canada is insurable employment only if four conditions are satisfied:
+a) the person so employed ordinarily resides in Canada;
+b) the employment is outside Canada or partly outside Canada by an employer who is resident or has a place of business in Canada;
+c) the employment would be insurable employment if it were in Canada; and
+d) the employment is not insurable employment under the laws of the country in which it takes place.
+[5] The parties agree that Mr. Gendron ordinarily resides in Canada, that he was employed outside Canada during the relevant period and that, had the employment been in Canada, it would have been insurable employment. Thus the remaining issues to be considered are:
+Was the employment insurable employment under the laws of the Netherlands, the place where the employment took place?
+Was Mr. Gendron’s employment in the Netherlands by an employer who is resident or has a place of business in Canada?
+[6] If the answer to the first question is yes, or the answer to the second question is no, Mr. Gendron’s appeal must be dismissed.
+III. BACKGROUND FACTS
+[7] Although Mr. Gendron had been employed by Shell Canada Ltd. (“Shell”) in Canada for many years, in early 2016 he and Shell Canada entered into an agreement, called a LNN [2] Employment Contract (the “LNN Contract”), under which Mr. Gendron was seconded to Shell Nederland Verkoopmaatschappij BV (“SNV”) in the Netherlands. The secondment was initiated by Mr. Gendron who was concerned that a project he had been working on for Shell in Canada would be suspended because of the declining price of oil. Were it suspended, Mr. Gendron was concerned that his position would become redundant and his employment with Shell terminated. He saw the secondment as an opportunity to remain within the same multinational group while applying his skills elsewhere in the organization.
+[8] The only parties to the LNN Contract were Mr. Gendron and Shell. The LNN Contract describes Mr. Gendron as being employed by Shell for the purpose of the secondment. It states in part:
+. . . [T]his LNN Employment Contract sets out all the terms and conditions of your employment with the Employing Company [Shell] for the purpose of your LNN Assignment, and . . . will supersede and replace any previous term and conditions of your employment with the Employing Company [Shell], Base Company [Shell] and Affiliate [Royal Dutch Shell plc and any entity other than Shell which Royal Dutch Shell plc directly or indirectly controls]. [3]
+[Emphasis added.]
+[9] The LNN Contract describes the possibility that Mr. Gendron would be required to enter into a supplementary local employment contract directly with SNV. However, any such agreement would not terminate the LNN Contract and, to the extent of any conflict between the LNN Contract and any local contract, the LNN Contract provided that its terms would prevail. However, Mr. Gendron was not asked to enter a supplementary employment agreement with SNV. Thus, the only written employment agreement was with Shell.
+[10] The LNN Contract sets out many of the conditions relevant to the secondment, including hours of work, job title, salary, place of work, process for making expense claims, and benefits. The LNN Contract specifies that vacation and sickness absences would be governed by SNV policies. Mr. Gendron’s salary was paid by SNV and he was under SNV’s direction and control.
+[11] The several provisions governing termination of the LNN Contract make clear that it and the secondment were tied together very closely. If the secondment terminates, the LNN Contract terminates and if the LNN Contract terminates, the secondment terminates. Section 23.4 of the LNN Contract provides:
+For clarity, if you or [Shell] terminate either your employment or your associated secondment under this contract, it will have the effect of terminating both your employment and your associated secondment on the same date.
+[12] The LNN Contract contemplates that Mr. Gendron might return to Shell following termination of the secondment – called a repatriation. In this regard, section 24.4 of the LNN Contract provides in part:
+On repatriating, . . . you will be offered a new employment contract with [Shell] on local terms for the purpose of it consulting with you about finding alternative employment, or if none is available, about potentially terminating your employment with it by reason of redundancy in the event that no suitable alternative employment can be found for you.
+[13] In fact this is precisely what happened. Although it was initially expected that Mr. Gendron would remain in the Netherlands for up to four years under the secondment arrangement, personal matters relating to Mr. Gendron’s extended family in Calgary arose. Consequently, he and his family decided that they needed to return to Canada. Mr. Gendron’s spouse and children returned relatively quickly and Mr. Gendron commenced negotiating a termination of the secondment and a repatriation with SNV and Shell. As a result, his secondment was terminated effective June 30, 2017 and he was re-employed by Shell in Canada effective July 1, 2017. However, he was immediately given 3 months’ notice that his employment with Shell would be terminated because of redundancy. Therefore, his employment with Shell terminated on September 30, 2017.
+A. WAS THE EMPLOYMENT IN THE NETHERLANDS INSURABLE EMPLOYMENT UNDER THE LAWS OF THE NETHERLANDS?
+[14] The LNN Contract expressly contemplates that contributions might be required to be made by Mr. Gendron or SNV in respect of the Netherlands social security regime. In particular, section 17.1 of the LNN Contract provides:
+It may be necessary for you and/or SNV B.V. to make contributions to [the Netherlands] social security or retirement benefit arrangement in line with the laws of the [Netherlands]. If this is the case, you agree to such contributions and to provide [Shell] and/or SNV B.V., in a timely manner, all information and copies of documentation as it may request from you to enable such contributions.
+[15] Mr. Gendron explained that the Netherlands social security arrangement consists of two programs. He helpfully submitted to the Court a letter dated March 18, 2019 from Shell International B.V’s global employment tax group (the “Letter”) which explains the two separate Netherlands social security programs and corroborates Mr. Gendron’s oral testimony regarding the two programs.
+[16] One is what is described as the general social security program. It provides financial support on retirement, or death of a partner, and long-term illness/disablement. Mr. Gendron was obligated to pay the premiums for this scheme and did so through withholding from his salary. This first program is of no relevance to this appeal.
+[17] The second program provides coverage to persons who are employed and provides protection for financial consequences of becoming sick, disabled or unemployed. Accordingly, among the benefits provided under this program are unemployment benefits. The premiums for this coverage are paid by the employer, which, in Mr. Gendron’s case, was SNV.
+[18] Mr. Gendron also submitted to the Court a booklet entitled “Working in the Netherlands” which similarly describes the two programs. Mr. Gendron described the booklet as a publicly available document he printed from a Netherlands Government website and suggested that it applies to him. Based on my review, the booklet appears irrelevant to his circumstances because, under the heading “Working in the Netherlands,” on page 3, it states the following:
+This booklet is designed for employees in the following situations:
+- You are staying and working in the Netherlands temporarily, and you live in another country of the EU, EEA or Switzerland (part 1).
+- You are staying in the Netherlands temporarily, and are working for an employer from another country of the EU, EEA or Switzerland (part 2a).
+- You live in the Netherlands and work for an employer from another country of the EU, EEA or Switzerland (part 2b).
+[19] Although Mr. Gendron was staying and working in the Netherlands temporarily, he did not live in Switzerland or another country in the European Union (EU) or European Economic Area (EEA). [4] Therefore, part 1 would seem inapplicable to him. Moreover, he did not work in the Netherlands for an employer from Switzerland or another country of the EU or EEA. He worked for an employer in the Netherlands. [5] Therefore, neither part 2a nor part 2b appears applicable to him.
+[20] With regard to the unemployment program, the booklet states (at page 11):
+All employees are covered under employee insurance schemes. Your employer pays all contributions for unemployment insurance (WW) and incapacity insurance (WIA). These contributions will probably not be stated on your pay slip.
+[Emphasis added.]
+[21] Because of the limited application of the booklet, the underlined statement may not apply to Mr. Gendron, notwithstanding the reference to all employees being covered. However, I do not have any way of knowing whether it does. Accordingly, notwithstanding that Mr. Gendron presented the booklet as applicable, I do not give any weight to that statement in determining whether Mr. Gendron’s employment in the Netherlands was insurable employment under the Netherlands law.
+[22] The Respondent has assumed, in determining that Mr. Gendron’s employment with SNV was not insurable employment, that SNV paid employer premiums to the Netherlands’ social insurance program in respect of Mr. Gendron’s employment with SNV. Mr. Gendron admits that this assumption is true. The Letter also confirms this fact. Nonetheless, Mr. Gendron disputes that his employment was insurable employment under that program.
+[23] Mr. Gendron’s argument is that if he was never entitled to benefits under the Netherlands unemployment insurance scheme, his employment in the Netherlands was not, and cannot be, insurable employment under the laws of the Netherlands.
+[24] In this regard, the Letter expressly states:
+A person not having Dutch nationality, may be entitled to Dutch unemployment benefits, if the conditions are met. Generally speaking, a person can claim Dutch unemployment benefits if:
+- he/she is covered by the Dutch social security system,
+- becomes unemployed for a reason beyond the control of the employee, and
+- having worked at least 26 weeks out of 32 weeks preceding the unemployment, and
+- is immediately available to work.
+Only in exceptional cases a person can export the unemployment benefits to another country. Although the Netherlands and Canada do have a treaty regarding social security regulations, there are no provisions in the treaty regarding unemployment benefits.
+[Emphasis added.]
+[25] In making his argument, Mr. Gendron focuses on these conditions outlined in the Letter. He explains that he could not be immediately available to work because he was not entitled to remain in the Netherlands once his secondment terminated. He explains his work permit was tied to that secondment. The Letter states his position well:
+Despite the fact that Denis Gendron was covered by the Dutch social security rules in accordance with Dutch legislation during his secondment, he was never in a position to claim unemployment benefits in the Netherlands. His residency permit was directly linked to the work permit. Once the secondment with [SNV] ended, Denis Gendron was no longer allowed to stay in the Netherlands and consequently would never be granted Dutch unemployment benefits.
+[Emphasis added.]
+[26] To reiterate, Mr. Gendron’s position is that if he is never able to claim benefits, his employment in the Netherlands cannot be insurable employment in the Netherlands. Unfortunately I do not agree.
+[27] As an initial observation, an obligation to make contributions to the program, by virtue of Mr. Gendron’s employment, by itself suggests he would be covered by the program. Why else would the premiums be payable? However, I do not rely on that inference alone.
+[28] The focus of Mr. Gendron’s statements, and the corresponding statements in the Letter, is the entitlement to receive unemployment benefits, not insurable employment. The focus of the exception in Regulation 5 to the EIA is whether the employment is insurable under the Netherlands unemployment scheme. Entitlement to benefits is a determination that is quite separate from insurability and the obligation to pay premiums. This is quite clear under the EIA.
+[29] Any employment in Canada - whether by one or more employers, whether the earnings of the employee are received from the employer or someone else, and whether earnings are calculated by time, by piece, by some combination or otherwise – is insurable employment [6] unless that employment is expressly excluded. Any individual employed in insurable employment is an insured person [7] for purposes of the EIA and is required to pay premiums in respect of employment insurance. If an individual is employed in insurable employment, the employer must withhold the employee’s premium from the employee’s pay and remit that premium, together with the employer premium, to the Canada Revenue Agency. [8]
+[30] However, while only an insured person may claim unemployment benefits, the mere fact that an individual is an insured person does not mean that the individual is entitled to those benefits. Put another way, insurable employment is a precondition to being an insured person and so to benefit entitlement, but insurable employment by itself is not sufficient to entitle the insured person to benefits.
+[31] The conditions under which an insured person qualifies for benefits under section 7 [9] of the EIA are as follows:
+(1) Unemployment benefits are payable as provided in the Part to an insured person who qualifies to receive them.
+(2) An insured person qualifies if the person:
+(a) has had an interruption of earnings from employment; and
+(b) has had during their qualifying period at least the number of hours of insurable employment set out . . .
+[Emphasis added.]
+[32] Thus, a claimant is not entitled to benefits solely because of contributions to the employment insurance scheme. To qualify for benefits, he or she must also have had an interruption of earnings from employment and have worked a minimum number of hours in the qualifying period. [10] An individual who does not meet these conditions is not entitled to benefits notwithstanding that he or she may well have been employed in insurable employment and have paid premiums under the EIA.
+[33] Moreover, counsel for the Respondent points out that the EIA provides that the Commission, with approval of the Governor in Council, may make regulations excluding any employment from insurable employment, if it appears a duplication of contributions or benefits will result because of the laws of another country. [11] Again the distinction between contributions (based on insurable employment) and benefits (based on additional qualifications) is clear.
+[34] The evidence suggests that Dutch legislation draws a similar distinction. The Letter states that during the relevant period Mr. Gendron is “covered by the Dutch social security rules in accordance with Dutch legislation”. This is consistent with a conclusion that his employment in the Netherlands is insurable employment under Dutch law. Contributions were made to the program by SNV because of his employment, also supporting the conclusion that his employment was insurable under the Dutch law.
+[35] Benefit entitlement in the Netherlands, as in Canada, is based on another set of conditions as described in the Letter. One of those is focused on the number of weeks worked, a condition similar to one of the Canadian qualifications. Another is availability to work (presumably in the Netherlands, although the Letter does not state that). I accept that, having terminated his secondment, Denis Gendron may have been obliged to leave the Netherlands [12] and so was unavailable to work there, but the evidence is that the requirement that he be available for work goes to benefit entitlement, not insurability.
+[36] Therefore, in my view, the first question must be answered yes. That is, I have determined that Mr. Gendron’s employment in the Netherlands was insurable employment under the laws of the Netherlands, the place where the employment took place. Accordingly, he does not meet the condition in Regulation 5(d) and, on that basis, his appeal must be dismissed.
+B. WAS THE EMPLOYMENT IN THE NETHERLANDS BY AN EMPLOYER RESIDENT OR WITH A PLACE OF BUSINESS IN CANADA?
+[37] All four conditions in Regulation 5 to the EIA must be satisfied for the employment to be insurable employment. The Respondent’s counsel did not concede that the employment in the Netherlands was by an employer resident or with a place of business in Canada. The Minister’s determination was based on the assumption that the conditions of Regulation 5 were not all met. Nonetheless, the arguments presented by Mr. Gendron and counsel for the Respondent focus almost exclusively on the first question.
+[38] Left with the question whether Mr. Gendron’s employment in the Netherlands was by an employer who is resident or has a place of business in Canada, the best answer I can provide, based on the evidence I have, is “It depends”.
+[39] During the relevant period, Mr. Gendron’s salary was paid by SNV, he was under the direction and control of SNV, SNV provided the tools he needed, he reported for work at the SNV offices, and he was subject to SNV policies. Although he was not a party to any written employment contract with SNV, this evidence satisfies me that he was an employee of SNV during the relevant period. This employment does not satisfy the condition in Regulation 5(b) because SNV is not resident in Canada and does not have a place of business in Canada.
+[40] However, Mr. Gendron was party to an employment agreement with Shell (the LNN Contract), the terms of which governed virtually all key features of the terms of his secondment to SNV. Moreover, under the LNN Contract, he remained an employee of Shell with rights against and obligations to Shell. It seems to me that Shell is an employer as defined in the EIA. [13] Shell is both resident in Canada and has a place of business in Canada. Thus, if it can be said that Mr. Gendron’s employment in the Netherlands was by Shell, as well as by SNV, Mr. Gendron may have established that he satisfied the condition in paragraph 5(b) of the Regulation.
+[41] In view of my determination that Mr. Gendron’s employment in the Netherlands was insurable employment under the laws of the Netherlands, I do not need to answer this second question and, in the absence of appropriate argument, I decline to do so.
+IV. CONCLUSION
+[42] In conclusion, Mr. Gendron’s appeal is dismissed and the Minister’s determination that Mr. Gendron’s employment in the Netherlands is not insurable employment for purposes of the EIA is confirmed on the basis that Mr. Gendron did not satisfy the condition in paragraph 5(d) of Regulation 5 under the EIA.
+[43] Each party will bear their own costs.
+Signed at Ottawa, Canada, this 3rd day of May 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2019 TCC 100
+COURT FILE NO.:
+2018-1532(EI)
+STYLE OF CAUSE:
+Denis Gendron v. The Minister of National Revenue
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+April 2, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF JUDGMENT:
+May 3, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Keelan Sinnott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 5(1) describes what insurable employment is; subsection 5(2) describes what is excluded from insurable employment.
+[2] LNN is the acronym for local non-national.
+[3] Thus, Affiliate would include SNV.
+[4] The booklet identifies Norway, Iceland and Liechtenstein as EEA countries.
+[5] I do not discount that he might also be said to work for Shell, but Shell is not an employer from Switzerland or another country in the EU or EEA.
+[6] See subsection 5(1) of the EIA and in particular paragraph 5(1)(a).
+[7] See subsection 2(1) of the EIA.
+[8] See subsection 82(1) of the EIA.
+[9] As modified by section 7.1 of the EIA.
+[10] Qualifying period is defined in section 8 of the EIA.
+[11] For example, while employment in Canada typically is insurable employment, it is not where the person resides in another country and premiums are payable in respect of services performed in Canada under the unemployment insurance laws of another country. This exclusion focuses on liability to pay premiums, not entitlement to benefits; the distinction is clear. It is irrelevant to this exception whether benefits are payable in the other country. See section 7(c) of the Regulations to the EIA.
+[12] It may have been possible for him to find other employment in the Netherlands and thereby extend or amend his work permit although, given his personal circumstances and desire to return to Canada, presumably that was not an option he would have considered pursuing.
+[13] Employer is defined in the EIA as including a person who has been an employer. See subsection 2(1).

@@ -1,0 +1,171 @@
+Title: Girard v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28181/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-864-28181-girard-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-12-09
+
+# Girard v. M.N.R.
+
+- Citation: 2003 TCC 864
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1962, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girard v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-09
+Neutral citation
+2003 TCC 864
+File numbers
+2002-3405(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+File: 2002-3405(EI)
+BETWEEN:
+MURIELLE GIRARD,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MATÉRIAUX ST-FÉLICIEN INC.,
+Intervener.
+____________________________________________________________________
+Appeal heard on August 21, 2003, at Roberval, Quebec
+Before: The Honourable S.J. Savoie, Deputy Tax Court Judge
+Appearances
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Julie David
+Representing the intervener:
+Guy Bonneau
+________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is affirmed, in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois (New Brunswick), this 9th day of December, 2003.
+"S.J. Savoie"
+Deputy Tax Court Judge Savoie
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC864
+Date: 20031209
+File: 2002-3405(EI)
+BETWEEN:
+MURIELLE GIRARD,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MATÉRIAUX ST-FÉLICIEN INC.,
+Intervener.
+REASONS FOR JUDGMENT
+Deputy Tax Court Judge Savoie
+[1] This appeal was heard at Roberval, Quebec, on August 21, 2003.
+[2] This is an appeal regarding the insurability of the appellant's employment with Matériaux St-Félicien Inc., the payer, during the period at issue, from March 25, 2001 to February 9, 2002.
+[3] On July 4, 2002, the Minister of National Revenue (the "Minister") informed the appellant of his decision to the effect that this employment was not insurable on the grounds that they would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[4] In reaching his decision, the Minister based his argument on the following assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal, which have been either admitted or denied by the appellant.
+a) The payer, who was incorporated on September 27, 1996, operated a hardware store under the Home Hardware name. (Admitted)
+b) Mr. Guy Bonneau, the husband of the appellant, holds 85% of the shares in the payer and the appellant holds 15% of the shares. (Admitted)
+c) The payer operates his business on a year-round basis, from Monday to Saturday, and employs between 6 and 10 people, depending on the season. (Admitted)
+d) The appellant has been working for the payer only since 1998, and previously worked for a law office. (Admitted)
+e) All the payer's accounting is computerized and the appellant primarily looked after checking all the entries in the accounting records and keeping the payer's standing inventory up-to-date. (Admitted)
+f) Specifically, the appellant was responsible for the following tasks:
+- She checked the inventory purchase orders, the outstanding receiving slips and the slips in the system with the invoices for merchandise received during the month.
+- She looked after the aggregate sales record, the reconciliation of bank statements, quarterly reports, and paying invoices.
+- She prepared the payer's monthly statements of results. (Admitted)
+g) The appellant generally worked two weeks a month and received employment insurance benefits during the weeks when she was not entered on the payer's pay ledger. (Admitted)
+h) When she was not at work, the purchase orders and the daily sales records were deposited in her office on a daily basis by the cashiers and sales staff. (Admitted)
+i) The appellant herself estimated the work to be done and came in only when there was enough work to keep her occupied during an entire week, amounting to some 30 hours of work. (Denied)
+j) During the 2002, the appellant accumulated 23 weeks of work with the payer. (Admitted)
+k) During the weeks when she was entered on the payer's pay ledger, the appellant received a fixed salary of $600 a week, regardless of how many hours she had actually worked. (Denied)
+l) During the same period, Mr. Dominique Turcotte, the manager of the hardware store, earned $616 per week for 40 hours work. (Admitted)
+m) The number of weeks worked by the appellant is not influenced by the amount of sales, or by the volume of purchases or by the number of employees working for the payer. (Denied)
+n) The appellant issued herself a record of employment showing February 9, 2002, as her last day of work and giving as the reason: "lack of work", whereas in fact there was no lack of work and she was the one who decided on her work weeks. (Denied)
+o) The organization of the appellant's periods of work was based on the appellant's needs and on the needs of the payer. (Denied)
+[5] Sub-section 5(1) of the Employment Insurance Act (the "Act") reads in part as follows:
+Subject to sub-section (2), insurable employment is:
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[…]
+[6] Sub-section 5(2) and (3) of the Act read in part as follows:
+5(2) Insurable employment does not include
+[...]
+i) employment if the employer and employee are not dealing with each other at arm's length
+[...]
+(3) For the purposes of paragraph (2)i):
+a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act, and
+b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[7] Section 251 of the Income Tax Act reads as follows:
+251. Arm's length relationship
+(1) For the purposes of this Act:
+a) related persons shall be deemed not to deal with each other at arm's length;
+[...]
+(2) For the purposes of this Act, "related persons", or persons related to each other, are:
+a) individuals connected by blood relationship, marriage or adoption;
+[...]
+[8] The burden of proof lies with the appellant. She must establish, according to the balance of the evidence, that the Minister's decision is not well founded in fact and in law. Each case is specific.
+[9] With regard to sub-section 5 i) of the Reply to the Notice of Appeal, the evidence revealed that Guy Bonneau, the main shareholder of the payer, had stated to investigators from the Minister that the appellant "would return to work depending on the amount of work to be done; she had the experience and knew when to come in". He also added: "she checks that the discounts have been properly applied to the sales and corrects mistakes".
+[10] The appellant told the investigators that she had "sufficient work experience to know when to come in". She accordingly let the work accumulate and, when she thought that the volume was sufficient to keep her busy for an entire week, she would come in to work. She knew, for example, that they received the Home Hardware invoices every 7 days.
+[11] The appellant denied that she received a fixed remuneration of $600 per week regardless of the hours actually worked. However, the payer's pay ledger indicates that she received a set remuneration of $600 per week when she was registered. It has been established, moreover, that she worked between 30 and 35 hours per week.
+[12] The documents provided by the payer enabled the investigators to collate, in a descriptive table for 2000, 2001 and 2002, the monthly data from the sales record, the record of receiving slips and the pay ledger.
+[13] In 2001, sales declined by approximately $300,000 compared to 2000. From January to November 2001, the turnover fluctuated from $118,000 to $200,000, and amounted to $58,403 in December 2001. Purchases fluctuated between $80,000 and $100,000 between March and December, dropping to $35,000 in December.
+[14] The number of weeks worked by the appellant during a month varies from one to four weeks and does not appear to be influenced either by the amount of sales or by the volume of purchases.
+[15] Thus, the appellant worked only one week in January 2001, where sales were $171,309 and purchases were $68,508.46 and also one week in November 2001, during which sales were $135,910 and purchases were $101,000, while she appears in the pay ledger for two weeks in February 2001, at which time sales were $178,155 and purchases were $17,577, and for three weeks in March during which sales were $122,000 and purchases $88,000.
+[16] The appellant is the wife of Guy Bonneau, the majority shareholder of the payer. In accordance with sub-paragraph 251(2)b)(ii) of the Income Tax Act, this means that the appellant and the payer do not deal with each other at arm's length.
+[17] The appellant is asking the Court to set aside the decision of the Minister. However, the powers of this Court in a case such as the one before us have been circumscribed by the case law.
+[18] In this instance, the Minister cited Canada (Attorney General) v. Jencan Ltd. (C.A.), [1998] 1 F.C. 187 and, in particular, the following excerpts from that decision, as handed down by the Federal Court of Appeal:
+The decision of this Court in Tignish, supra, required that the Tax Court undertake a two-stage enquiry when hearing an appeal from a determination by the Minister under sub-paragraph 3(2)c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold enquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under sub-paragraph 3(2)c)(ii) are reviewed on appeal ...
+[...]
+...Because it is a decision made pursuant to a discretionary power, as opposed to a quasi-judicial decision, it follows that the Tax Court must show judicial deference to the Minister's determination when he exercises that power. Thus, when Décary J.A. stated in Ferme Émile, supra, that such an appeal to the Tax Court "more closely resemble an application for judicial review", he merely intended, in my respectful view, to emphasize that judicial deference must be accorded to a determination by the Minister under this provision unless and until the Tax Court finds that the Minister has exercised his discretion in a manner contrary to law.
+[...]
+Thus, by limiting the first stage of the Tax Court's enquiry to a review of the legality of Ministerial determinations under sub-paragraph 3(2)c)(ii), this Court has merely applied accepted judicial principles in order to strike the proper balance between the claimant's statutory right to have a determination by the Minister reviewed and the need for judicial deference in recognition of the fact that Parliament has entrusted a discretionary authority under this provision to the Minister.
+On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister's determination under sub-paragraph 3(2)c)(ii) only if it was established that the Minister exercises his discretion in a manner that was contrary to law. And, as I already said, there are specific grounds for interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister's determination under sub-paragraph 3(2)c)(ii) "by proceeding to review the merits of the Minister's determination" where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)c)(ii); or (iii) took into account an irrelevant factor.
+[19] The evidence supplied by the appellant was not successful in proving that the assumptions stated by the Minister in his response to the Notice of Appeal was not well founded.
+[20] It is true, however, that the evidence revealed that the duties performed by the appellant since 1998 were previously performed by Jacques Leclair, an individual who had an arms' length relationship, under the same conditions. This is the argument put forward by the appellant against the Minister’s assertion that substantially similar conditions would not exist in a contract of employment between parties dealing with each other at arms' length. Undoubtedly, this evidence supports the appellant's position, but it remains to be seen whether it alone is sufficient to establish that in making his determination the Minister, first, acted in bad faith or for an improper motive; second, failed to take into account all the relevant circumstances, as specifically required by sub-paragraph 3(2)c)(ii) of the Unemployment Insurance Act, now paragraph 5(3)b) of the Employment Insurance Act; or lastly, took into account an irrelevant factor, under the terms used by the Federal Court of Appeal in Jencan, supra.
+[21] In a case where the circumstances are similar, Tardif J. of this Court, in Huard v. Canada (Minister of National Revenue - M.N.R.), [2003] T.C.J. no. 435, wrote as follows:
+[unofficial translation]
+There must be considerations of economic nature at work when a worker is laid off, such as surplus inventory, economic slowdown, mechanical breakdown, a drop in demand, the impact of competition, plan closure, bankruptcy, etc. The same holds true for the return to work [increased demand, economic upturn, increased demand, etc.].
+[...]
+It is not a matter of fraud. The legislator has excluded from insurable employment the work of persons who are not dealing at arm’s length, but has nonetheless made provision for work initially excluded to become insurable, if the work is performed under conditions and methods comparable to those that would have prevailed in the same circumstances between third parties.
+Such provisions are not elastic to the point of conferring eligibility upon employment that is excluded from insurable employment, solely because it is an appealing case. The legislator has provided specific criteria for determining whether the contract of employment has been shaped or affected by the fact that the parties to the contract are not dealing with each other at arm’s length.
+[22] In order to justify her part-time job, the appellant pointed to the installation of a highly specialized computer system which resulted in a substantial reduction in her duties. However, if it is true that her duties were reduced, her salary remained high, the highest in the entire company, even higher than that of the manager who had a comparable salary but worked full time.
+[23] Since the appellant and the payer are not at arms' length, according to the Income Tax Act, the exercise of the Minister provided for in subsection 5(3) of the Act must be assessed in accordance with the established criteria.
+[24] The data obtained by the investigators and the documents provided by the payer have established the following facts.
+1) The conditions of employment
+[25] The weekly pay of the payer and the SD are recorded in a pay system; the manager of the hardware store adds up the number of hours worked by the employees and forwards them to the appellant, who in turn forwards them to the bank, i.e., to the pay system. Since the pay is weekly and the number of hours worked by some workers varies from week to week, the report of hours to the pay system must be prepared weekly.
+[26] Since 1998, the appellant has generally worked one or two weeks a month and between her weeks listed in the payer's pay register, she receives insurance benefits. The number of weeks worked is influenced neither by the amount of sales, nor by the volume of purchases, nor by the number of employees. When she is not at work, the inventory coupons and the daily sales records are placed on her desk every day and accumulate.
+[27] However, in view of the computerized operations, if the system "goes down" or the employees have problems with the computer system, no operations are possible. The appellant is then recalled and returns to work.
+[28] It is appropriate to note that, with regard to one week of work in July 2001 and four weeks of work in August 2001, the appellant explained that her husband closes his construction company and that she coordinates her work weeks so as also to be able to take her vacation starting in July.
+[29] The conditions set out above have led the Minister to conclude that they would not be offered to a worker at arm's length, since they are more advantageous to the appellant's personal needs and interests than to those of the payer.
+2) Compensation paid
+[30] According to the pay ledger, the manager of the hardware store, who works full time for the payer, is paid at a rate of $15.40 an hour, which amounts to a weekly salary of $616 for 60 hours of work. The appellant, however, has a salary of $600 a week for 34 to 35 hours of work, i.e., a rate of $17.14 an hour. This is the highest hourly rate paid by the payer, and it is paid to a part time worker. The Minister accordingly concluded that it is unreasonable to believe that such a salary, under such conditions, would be paid to a person at arms' length.
+3) Duration of employment
+[31] The appellant worked one to two weeks a month. During 2001, she accordingly worked 23 weeks; she prepared her own record of employment, showing February 9, 2002 as her last day of work. The reason given for the layoff was lack of work.
+[32] The facts have, however, shown that there was no lack of work, since the appellant was herself the one who decided the time, length and organization of her work weeks. Furthermore, the appellant received employment insurance benefits between February 18, 2001, and February 17, 2002 and in order to receive new benefits, she was obliged to submit a new record of employment and a new claim for benefits. She returned to work, moreover, two weeks after her layoff, thereby complying with her weeks of waiting for benefits and worked three weeks subsequently, since the work had accumulated during her absence. The result was that the accumulation of work had enabled the worker, in other words the appellant, to work full weeks, thereby allowing her to qualify for employment insurance benefits for the weeks that were not paid by the payer.
+[33] In light of these facts, the Minister concluded that it was not reasonable to believe that such consideration would be granted to an employee dealing at arms' length.
+4) Nature and scope of the work
+[34] It was established that the services performed by the appellant were essential to the smooth conduct of the payer's business. She detected errors, balanced the results, and made sure that the discounts on purchases were correctly applied.
+[35] The payer could have benefited from the worker's presence for one or two days a week, but by working only a few hours each week, the appellant would not have been affected by a stoppage of work and consequently would not have been able to claim employment insurance benefits.
+[36] The circumstances described above are clearly more advantageous to the appellant than to the payer.
+[37] The Minister accordingly concluded that it was unreasonable to believe, in light of the volume of work and the payer's turnover, that the payer would have hired a stranger under those conditions and at that salary.
+[38] This Court is of the opinion that the Minister exercised his discretionary power as required by the Act and the case law, specifically the principles set out in Jencan, supra, by concluding that it was not reasonable to believe, in light of all the circumstances, specifically the compensation paid, the conditions of employment and its duration, the nature and scope of the work performed, that the appellant and the payer would have concluded a substantially similar contract of work between themselves if they had been dealing at arms' length.
+[39] The appellant accordingly has not succeeded in proving that this Court would be justified in intervening in the Minister's decision under the circumstances.
+[40] The appeal is therefore dismissed and the Minister's decision is affirmed.
+Signed at Grand-Barachois, New Brunswick, this
+"S.J. Savoie"
+Deputy Tax Court Judge Savoie
+Certified true translation
+Colette Beaulne

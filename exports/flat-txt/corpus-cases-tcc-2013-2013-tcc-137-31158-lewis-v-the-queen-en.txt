@@ -1,0 +1,121 @@
+Title: Lewis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31158/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-137-31158-lewis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-04-08
+
+# Lewis v. The Queen
+
+- Citation: 2013 TCC 137
+- Decision date: 2013-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4747, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-08
+Neutral citation
+2013 TCC 137
+File numbers
+2012-1805(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1805(IT)I
+BETWEEN:
+LINDSAY LEWIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 8, 2013 at Montréal, Québec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agents for the Appellant:
+Lisa Moncalieri
+Farid Muttalib
+Counsel for the Respondent:
+Me Anne Marie-Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Appellant’s 2010 taxation year is dismissed, without costs, in accordance with the attached reasons delivered orally at the hearing.
+Signed at Ottawa, Canada this 1st day of May 2013.
+"Patrick Boyle"
+Boyle J.
+Docket: 2012-1805(IT)I
+BETWEEN:
+lindsay lewis,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Montréal, Québec on April 8, 2013 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada this 1st day of May 2013.
+"Patrick Boyle"
+Boyle J.
+Citation: 2013 TCC 137
+Date: 20130501
+Docket: 2012-1805(IT)I
+BETWEEN:
+LINDSAY LEWIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Appeal heard and decision rendered orally from the Bench
+on April 8, 2013 at Montréal, Québec)
+Boyle J.
+[1] These are my reasons in the Lindsay Lewis appeal of this morning in Montréal, heard under the Court’s informal procedure.
+[2] Her appeal concerns her stipend received for her post-doctoral fellowship research work in 2010 at McGill University.
+[3] Dr. Lewis worked as a post-doctoral scholar in 2009 and 2010 at McGill. She received an annual stipend of $39,500. The research project on which she was engaged was in the area of functional neuroimaging of the visual cortex. Her supervisor was Professor Mendola.
+[4] Prior to taking this research position, the taxpayer had obtained her PhD. In her post-doctoral scholar position, she was not pursuing credits, a certificate or a degree from McGill to which her research work related. She did take some unrelated French courses at McGill.
+[5] Prior to coming to McGill, the taxpayer was in the United States. In order to take her position in Canada, she was required to obtain a work permit. The Canadian permit she obtained was not a student or study permit.
+[6] The March, 2010, Budget announced that a legislative change was to be made to the taxation of amounts received by post-doctoral fellows. The legislative amendment was enacted to make it clear that a qualifying educational program for tax-exempt scholarships only includes university research programs if the program leads to a degree. This amendment, when enacted, applied to the 2010 and later years.
+[7] According to the evidence presented, prior to starting work, Dr. Lewis had been informed by McGill University that her stipend qualified for the scholarship exemption. McGill did not advise her or other post-doctoral fellows that there was any uncertainty regarding that nor did the university inform them of the Budget change when announced in March, 2010. The university informed post-doctoral fellows of this change only in October, 2010, at which time it also started making tax withholdings.
+[8] In filing her 2010 tax return in 2011, the taxpayer reported it as scholarship income. This was consistent with how McGill issued her 2010 T4. The taxpayer was initially assessed on this basis. She was reassessed in late 2011 to deny her the tax exemption for scholarships on her post-doctoral research stipend.
+[9] The taxpayer’s position, in her appeal in this Court, is that the 2010 change should not apply retroactively and, as a matter of fairness, it should only apply to her as of October 2010, when McGill commenced withholding tax from payments to her.
+[10] It is clear from the amended definition of “qualified educational program” that Dr. Lewis’ post-doctoral research work cannot qualify. It is not disputed that her work was at least primarily research, nor is it disputed that her research work could not lead to a diploma or degree.
+[11] These amendments apply to the 2010 taxation year and for this reason, the taxpayer’s appeal cannot succeed.
+[12] When the Canadian legislature enacted the March 21, 2011 Budget announcements, they were made applicable to the 2010 and later taxation years. They applied to all of 2010, not just after the announcement in the March 2010 Budget.
+[13] Parliament does have the power in Canada to pass retroactive legislation and it has clearly done so in this case. There is no ambiguity or uncertainty in what the legislature has chosen to do and it is within their power to do it. There is no basis for this Court not to apply properly enacted law on grounds of equity or fairness. The taxpayer’s argument based on retroactivity cannot succeed.
+[14] Similarly, because this is a court of law with no power to depart from the law as clearly written on grounds of fairness or equity, this Court cannot delay the application of the law to the date when McGill informed its post-doctoral researchers or when it began to withhold from them.
+[15] If the taxpayer feels wronged by McGill, she must take that up with the university. This Court would not have any jurisdiction over such a grievance and it would have to be pursued in the courts of the Province of Québec.
+[16] With respect to the taxpayer’s complaint that it seems particularly unfair that she should be charged interest on the tax debt before McGill began withholding, again this Court has no jurisdiction to waive interest. It follows tax automatically under the law. She may, however, wish to pursue interest relief administratively with the Canada Revenue Agency under its Fairness Program. If she remains unsatisfied, CRA’s decision would be appealable to the Federal Court, not to this Court in any event.
+[17] Finally, I should note that the Respondent asked me to find that Dr. Lewis’ stipend was not only not scholarship income but was employment income. This case was not assessed on that basis. It is not necessary in this case to decide that further question to dispose of the appeal. The Court was not presented with sufficient evidence in this case to make an informed decision on that point in any event. It does not at all necessarily follow that because post-doctoral research is not a qualifying educational program that amounts paid to post-doctoral fellows is employment income. If the Government seeks to tax post-doctoral fellows’ income as employment income, that will have to await a different case.
+[18] For these reasons, the appeal is dismissed. Thank you very much Dr. Lewis, Ms. Moncalieri, Mr. Muttalib, Me Boutin and Mr. Registrar. We are adjourned.
+Boyle J.
+CITATION: 2013 TCC 137
+COURT FILE NO.: 2012-1805(IT)I
+STYLE OF CAUSE: LINDSAY LEWIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: April 8, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: May 1, 2013
+DATE OF ORAL REASONS
+FOR JUDGMENT: April 8, 2013
+APPEARANCES:
+Agents for the Appellant:
+Lisa Moncalieri
+Farid Muttalib
+Counsel for the Respondent:
+Me Anne Marie-Boutin
+COUNSEL OF RECORD:
+For the Appellant: N/A
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,291 @@
+---
+title: "Qureshi v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521627/index.do"
+last_modified: "2026-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 87"
+citation2: ""
+neutral_citation: "2026 TCC 87"
+decision_date: "2026-05-19"
+language: "en"
+item_id: "521627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5573
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-22T09:00:42.144000+00:00"
+cases_cited_count: 13
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39733a23de58f5502cf104f66e13c89fc1334649d5d4619069ab06ccc7398fa7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Qureshi v. The King
+
+- Citation: 2026 TCC 87
+- Decision date: 2026-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5573, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Qureshi v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-19
+Neutral citation
+2026 TCC 87
+File numbers
+2022-2466(IT)G, 2023-136(GST)G
+Judges and Taxing Officers
+Perry Derksen
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2022-2466(IT)G
+2023-136(GST)G
+BETWEEN:
+MICHELLE QURESHI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard, on common evidence, on February 23, 24, and 25, 2026
+at Toronto, Ontario
+Before: The Honourable Justice Perry Derksen
+Appearances:
+Counsel for the Appellant:
+Matthew Pollock
+Bavika Chadha
+Alessandra Tuzi
+James Pendergast
+Counsel for the Respondent:
+Vameesha Patel
+JUDGMENT
+In accordance with the attached Reasons for Judgment;
+The appeal from the reassessment made under the Income Tax Act in respect of the appellant’s 2018 taxation year is dismissed;
+The appeals from reassessments, notices of which are dated April 1, 2022 and April 5, 2022, made under the Excise Tax Act in respect of the appellant’s reporting period between June 1, 2018 and June 30, 2018 are dismissed.
+Costs are awarded to the Crown for both appeals. The parties shall have until June 19, 2026, to reach an agreement on costs, failing which the Crown shall have until July 17, 2026, to serve and file written submissions on costs and the appellant shall have until August 14, 2026, to serve and file written response submissions on costs. Any submissions shall not exceed five pages. If the parties do not advise the Court that they have reached an agreement on costs and no submissions are received, costs shall be awarded to the Crown as set out in the Tariff, but there should be no duplication of counsel fees as between both appeals.
+Signed this 19th day of May 2026.
+“Perry Derksen”
+Derksen J.
+Citation: 2026 TCC 87
+Date: 20260519
+Dockets: 2022-2466(IT)G
+2023-136(GST)G
+BETWEEN:
+MICHELLE QURESHI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Derksen J.
+I. Overview [1] These appeals concern the appellant’s purchase of a pre-construction condominium unit in 2015 and the disposition of it in 2018. The appellant did not report the gain because she presumed the property would qualify as her principal residence under the Income Tax Act, R.S.C., 1985 c. 1 (5th Supp.) (ITA). The Minister of National Revenue disagreed and reassessed the appellant for the 2018 taxation year to include the full amount of the gain in her income on the basis that she was engaged in an adventure or concern in the nature of trade.
+[2] The Minister also considered the appellant to be a “builder” under s. 123(1) of the Excise Tax Act, R.S.C., 1985 c. E-15 (ETA) in respect of her acquisition of the interest in the condominium and concluded that she did not occupy it as a place of residence after construction was completed and the purchase closed in October 2017. And so, the Minister assessed on the basis that the appellant made a taxable supply on the sale in 2018 and was required to collect the GST.
+[3] The parties introduced a Partial Agreed Statement of Facts (PASF). Three witnesses testified: the appellant, her former husband Murtaza (Monty) Qureshi, and a GST auditor with the Canada Revenue Agency.
+[4] For the reasons set out below, both appeals must be dismissed.
+II. Additional Factual Context [5] The following provides context for the statutory scheme and the issues to be considered.
+[6] On February 21, 2015, the appellant entered into a pre-construction contract with Polygon West Quay Homes Ltd. (Polygon) for the purchase of a proposed strata unit i.e., a condominium located at 255 West 1st Street, North Vancouver, British Columbia, for $659,900 (the Property). Construction was completed and the appellant’s purchase closed on October 25, 2017. She took possession on October 26, 2017.
+[7] The appellant listed the Property for sale on December 6, 2017, and—again with a different agent—on February 21, 2018.
+[8] On March 22, 2018, the appellant entered into an agreement to sell the Property for $1,161,000. The sale closed on June 28, 2018.
+[9] The appellant’s total costs associated with her purchase and disposition of the Property were $704,093, resulting in a gain or profit of $456,907. She also paid GST of $32,995 on the purchase.
+[10] The appellant treated the Property as her principal residence and did not report the gain. The Minister disagreed and reassessed the appellant for the 2018 taxation year on the basis that she was engaged in a business or an adventure or concern in the nature of trade. The Minister included the $456,907 in the appellant’s income as business income.
+[11] The Minister also assessed under the ETA for the reporting period ending June 30, 2018, on the basis that the appellant was a builder who made a taxable supply on the sale and was liable to collect the GST.
+[12] Specifically, the Minister assessed the appellant on the basis that GST was collectible under s. 221 of the ETA, computed at 5% of the sale price, resulting in a liability for net tax of $58,050, arrears interest and a failure to file penalty. The Minister had earlier allowed a rebate of $33,045.24 under s. 257 of the ETA for the GST the appellant paid on the acquisition of the Property, which was later credited to the balance owing. The Minister subsequently reassessed to reduce the failure to file penalty. I am proceeding on the assumption that the assessment under the ETA dated April 5, 2022, only adjusted the failure to fail penalty and otherwise left the assessment dated April 1, 2022 (in respect of net tax) intact. The assessment notices are not in evidence.
+III. Applicable Statutory Scheme, Issues and Legal Tests to be Considered A. The ITA Appeal [13] A reduction in a gain realized on a disposition of a principal residence by a taxpayer under s. 40(2)(b) of the ITA is only available if the property is a capital property. If the property is not a capital property, it is not relevant whether the property could satisfy the definition of a “principal residence” in s. 54. Stated another way, there is no principal residence exemption where a house or condominium is sold by an individual in the course of a business or an adventure or concern in the nature of trade: Wall v. Canada, 2021 FCA 132, (Wall) at para. 15.
+[14] Thus, the question in the appeal under the ITA is whether the appellant was carrying on a business or an adventure or concern in the nature of trade in respect of her purchase and sale of the Property. If so, the appellant’s profit is on income account; it would be treated as business income under s. 9(1) and included in income under s. 3.
+B. The ETA Appeal [15] The key question in the appeal under the ETA is whether the appellant was a builder in respect of her acquisition of the interest in the Property. However, a brief outline of the statutory scheme is helpful considering the appellant’s alternative argument based on the self-supply rules in s. 191 of the ETA.
+[16] I begin with s. 165(1) of the ETA: GST is payable by the recipient of a taxable supply made in Canada at 5% of the consideration for the supply. Although GST is imposed on the recipient (i.e., the purchaser), the person who makes the taxable supply is required to collect the tax as agent of the Crown: s. 221(1) of the ETA.
+[17] A “taxable supply” is defined as a supply that is made in the course of a commercial activity and “commercial activity” is in turn defined as a business, an adventure or concern in the nature of trade, or the supply of real property, except to the extent that it is an exempt supply: see s. 123(1) of the ETA. This means that a supply of real property is subject to GST unless it is exempt.
+[18] An “exempt supply” is defined in s. 123(1) of the ETA to mean a supply included in Schedule V. Part I of Schedule V sets out rules for exempt supplies in respect of real property. Most sales of used—i.e., previously occupied—residential housing are exempt under s. 2 of Part I of Schedule V provided the supply is made by a person who is not a builder.
+[19] Where a supply by way of sale of a residential complex—such as a sale of a residential condominium unit—is made by an individual who is a builder, then s. 3 of Part I of Schedule V may come into play to determine whether the supply is exempt. One condition is that, after construction is completed, the property must be used “primarily as a place of residence of the individual [i.e., the builder], an individual related to the individual or a former spouse or common-law partner of the individual.” And so, this is how the key question of whether the appellant was a builder arises.
+[20] One could think that the expression “builder” might only apply to a person who constructs residential housing or hires another person to do the construction. In other words, one readily imagines hard-hats, lumber, hammers, and nails.
+[21] But the ETA has an extended definition of a “builder” in s. 123(1). Under the extended definition, a builder of a residential complex can include a person who:
+a) in the case of acquires an interest in the complex at a time when the complex is under construction or substantial renovation (see para. (b) of the definition); or
+b) acquires an interest in the residential complex,
+i) a condominium complex or a residential condominium unit, at a time when the complex is not registered as a condominium, or
+ii) in any case, before it has been occupied by an individual as a place of residence or lodging,
+for the primary purpose of making one or more supplies of the complex by way of sale (see para. (d) of the definition).
+[22] However, the definition of builder has an important carve-out or exclusion where the person acquiring the interest is an individual: if the individual does not acquire the interest in the course of a business or an adventure or concern in the nature of trade, the individual is not a builder (see para. (f) of the definition).
+[23] In this case, the relevant parts of the definition are set out in paragraphs (b), (d) and (f):
+123(1) …
+“builder” of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) …
+(b) acquires an interest in the complex at a time when
+(i) …
+(ii) in any other case, the complex is under construction or substantial renovation,
+…
+(d) acquires an interest in the complex
+(i) in the case of a condominium complex or residential condominium unit, at a time when the complex is not registered as a condominium, or
+(ii) in any case, before it has been occupied by an individual as a place of residence or lodging,
+for the primary purpose of
+(iii) making one or more supplies of the complex or parts thereof or interests therein by way of sale, or …
+…
+but does not include
+(f) an individual described by paragraph (a), (b) or (d) who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade,
+…
+[24] Both parties focused on the exclusion in paragraph (f) of the definition of builder, accepting without first delineating whether the appellant otherwise satisfies the conditions in paragraph (b) or (d). As such, the parties agree that if the appellant did not acquire her interest in the Property in the course of a business or an adventure or concern in the nature of trade, she is excluded from the definition of a builder. If she did, she comes within the definition.
+[25] In the circumstances, I will proceed on the assumption that the conditions in either paragraph (b) or (d) of the definition of builder are satisfied. I note also that the appellant argued the appeal on the basis that the appellant acquired her interest in the Property upon entering into the contract of purchase and sale with Polygon on February 21, 2015. The agreement contemplated a proposed strata and included a condition that completion would be after title to the home was created in the Land Title Office. The evidence is also clear that the Property had never been occupied before the appellant’s purchase closed.
+[26] The term “builder” is also relevant to the self-supply rules in s. 191 of the ETA. The appellant argues in the alternative that, if she was a builder, then the exception in s. 191(5) applies because she used the Property primarily as a place of residence.
+[27] Implicit in the appellant’s argument is that the Minister assessed under the self-supply deeming rule in s. 191(1) of the ETA. But that is not so. The Minister assumed that the appellant never occupied the Property and assessed on the basis that she was a builder and had made a taxable supply on the sale in June 2018. An assessment under s. 191(1) would have been made for an earlier reporting period. In any event, I will turn to the appellant’s alternative argument later.
+C. Applicable Tests [28] The parties agree that the tests or factors to be considered in the appeal under the ITA are set out in Happy Valley Farms Limited v. Minister of National Revenue, [1986] 2 CTC 259 (FCTD) (Happy Valley Farms) (affirmed in Wall at para. 24). The same factors are considered in determining whether an individual acquired an interest in a residential complex in the course of a business or an adventure or concern in the nature of trade under the definition of a builder in s. 123(1) of the ETA.
+[29] The Happy Valley Farms tests consider:
+the nature of the property sold;
+the length of period of ownership;
+the frequency or number of other similar transactions;
+work expended on or in connection with the property;
+the circumstances that were responsible for the sale of the property; and
+motive.
+[30] These tests or factors are all based on the facts of the particular case and directly or indirectly lead back to the intention of the taxpayer: Wall at para. 25.
+[31] I turn now to their application.
+IV. Analysis A. The nature of the property sold [32] This test can be dealt with in short order. The appellant acquired an interest in a pre-construction condominium (a two-bedroom, two-bathroom unit totalling about 1,058 square feet) and then resold it after construction was completed and the purchase had closed. A condominium unit may be either a long-term capital asset or a short-term asset acquired for resale. I view this factor as neutral.
+B. The length of period of ownership [33] The appellant acquired her interest in the Property on February 21, 2015. Construction was expected to be completed by August 18, 2017, but was in fact completed in October 2017. The purchase closed on October 25, 2017, and the appellant took possession the following day. The Property was then sold under an agreement dated March 22, 2018. The sale was initially scheduled to close on May 30, 2018, but closed on June 28, 2018, after an extension.
+[34] The period of ownership was fairly short, particularly if completion of construction is also considered. This factor points toward an adventure or concern in the nature of trade.
+C. The frequency or number of other similar transactions [35] This factor also points toward a finding that the appellant acquired and sold the Property in the course of an adventure or concern in the nature of trade, as discussed next.
+[36] The appellant and Mr. Qureshi married in November 1997. They separated in June 2008 and entered into a formal separation agreement in March 2012. Together, and in other capacities, they were involved in a number of real estate transactions. Several are notable.
+[37] In October 2005, they jointly acquired a property on Spencer Drive in West Vancouver (the Spencer Drive Property) for $4,176,589 and spent additional amounts on upgrades. The property was sold in July 2010 for what appears to be a loss. The appellant and Mr. Qureshi accept that this transaction was a business venture. The disposition was apparently reported in Mr. Qureshi’s tax return, presumably because the resulting business loss was more advantageously claimed by him alone.
+[38] They also jointly acquired a condominium unit on West Cordova Street in Vancouver (the Cordova Property) in April 2006 for about $1.9 million. Their interest was initially acquired under a purchase agreement signed in July 2003, which suggests that this too was a pre-construction transaction. Under their separation agreement, the property was valued at $3.7 million and the appellant agreed to transfer her interest to Mr. Qureshi.
+[39] The appellant and Mr. Qureshi were also trustees of a family trust. According to their separation agreement, both were beneficiaries. Upon signing the agreement, the appellant was to resign as trustee and disclaim any interest in the trust. The PASF states that the beneficiaries included their daughters AQ and TQ, and the appellant’s sister.
+[40] The trust acquired a property on Spencer Place in West Vancouver in June 2006 and held it for about one year. The trust acquired another property on Clovelly Walk in Vancouver in May 2007, which was sold in November 2011. I refer to these transactions only to note that the appellant and Mr. Qureshi engaged in real estate transactions in various capacities.
+[41] In June 2008, the appellant also purchased a condominium unit on Argyle Avenue in West Vancouver (the Argyle Property) with a friend on a 50-50 basis for approximately $698,000. The property was listed for sale a few weeks later when the appellant’s friend became uncomfortable with the venture. It was sold in June 2009 for gross proceeds of $620,000 and net proceeds of $588,616, resulting in a loss.
+[42] The disposition of the Argyle Property creates a wrinkle. The appellant sought to adjust her 2009 income tax return to treat her share of the loss as a business loss, which prompted inquiries from the CRA.
+[43] In a letter dated May 16, 2011, the appellant responded to the CRA. At the time, she was living in a home on The Dale in West Vancouver (the Dale Property) purchased in October 2007. The Dale Property was located just steps away from the well-known Lighthouse Park overlooking the Burrard Inlet.
+[44] In that letter, the appellant stated that she had obtained a credit facility secured by the Dale Property to pursue small-scale property refurbishment projects to generate a source of income, and that the Argyle Property was to be the first such project. She also stated that she had “plenty of experience owning and refurbishing properties” and that, after relocating to Vancouver, real estate “seemed like a logical sector to be making investments.” Referring to the Spencer Drive Property, she explained that “we unfortunately got caught in a very challenging market for high-end homes over the listing period, were overextended on financing our loan facilities secured by our portfolio of properties and had to continuously lower the price to achieve the final sale.”
+[45] The appellant’s letter shows that she had previously acknowledged engaging in real estate transactions on income account and had asserted experience in that regard, at least when seeking a business loss. This does not mean that a taxpayer who has acquired property on income account cannot later acquire another on capital account. But the evidence, including the appellant’s prior statements, indicates that she was keenly aware of the upward trend in the Greater Vancouver real estate market, notwithstanding the brief interruption during the financial crisis when the Argyle Property was sold, and that she had some risk tolerance for speculative real estate transactions undertaken with the view to resale.
+D. Work expended on or in connection with the property [46] This factor is neutral. There is no suggestion that the appellant expended any meaningful work on the Property.
+E. The circumstances that were responsible for the sale [47] The appellant testified that she moved a few items into the Property around November 3, 2017, after taking possession. She also testified that she booked an elevator for November 23, 2017, and moved in additional items on that day, including two couches, a chest of drawers, bedside tables, a bed in the main bedroom, and a sofa bed in the second bedroom. Her evidence was that she lived at the Property from November 23, 2017, to June 2018.
+[48] The appellant also testified that she found the Property different from what she had expected. She said it was initially quiet, but after spending time there she noticed a lot of activity in the corridors, noises, and parties in the building. She said the walls were thin and that she “came to realize that it wasn’t for me.”
+[49] I do not accept this evidence. I will explain my reasons below when addressing motive. For present purposes, the evidence does not support a finding that the sale resulted from frustration or an unforeseen change of circumstances.
+F. Motive [50] An adventure or concern in the nature of trade involves a scheme for profit making, usually in an isolated transaction. A taxpayer must have a legitimate intention of gaining a profit from the transaction: Friesen v. Canada, [1995] 3 SCR 103, at para. 16. A taxpayer’s intention is a factor of utmost importance: Cardella v. Canada, 2001 FCA 39 at para. 26; and Wall at para. 26.
+[51] In considering a person’s intention or purpose, the person’s conduct is generally more revealing than “ex post facto declarations” (see generally MacDonald v. Canada, 2020 SCC 6 at para. 22). Courts are, therefore, not guided only by a person’s subjective statements of purpose and instead look for objective manifestations of purpose (Symes v. Canada, [1993] 4 SCR 695 at p. 736) and examine the surrounding factual circumstances (see also Charlebois v. The King, 2025 TCC 76 at para. 12).
+[52] As such, a person’s intention at the time of acquiring an asset is often inferred from the surrounding circumstances: Happy Valley Farms at para. 14(6). This necessarily requires a highly factually infused determination.
+[53] For a transaction to constitute an adventure or concern in the nature of trade, the possibility of resale as an operating motivation for the purchase must have been in the purchaser’s mind or the purchaser must have a “secondary intention” at the time of acquisition to sell the property at a profit should a suitable opportunity present itself, and this too must have been an important consideration or an operating motivation in the decision to acquire the property (Canada Safeway Ltd. v. Canada, 2008 FCA 24 at para. 61; and see Procon Mining and Tunnelling Ltd. v. Canada, 2024 FCA 1 at para. 17).
+[54] With these principles in mind, I turn to the appellant’s motive in light of the surrounding circumstances. I begin with her situation around when she entered into the pre-construction agreement with Polygon on February 21, 2015.
+[55] Since her informal separation from Mr. Qureshi, the appellant had been living with her daughters at the Dale Property. The house had four bedrooms and four bathrooms. Both daughters attended the Rockridge Secondary School on Headland Drive in West Vancouver, about two kilometres away. The appellant sold the Dale Property because she wanted something different. The sale closed on or about March 3, 2015.
+[56] When the Dale Property was for sale, the appellant saw a rental listing for a house near the Rockridge Secondary School and thought it would suit her daughters. She rented the property on Rockridge Road in West Vancouver (the Rockridge Rental). From there, her daughters could walk to school without dealing with a steep hill, and another plus was that the property had a swimming pool. The Rockridge Rental was just over one kilometre from the school. I also note that the appellant pleaded that students were required to reside within the catchment district.
+[57] The appellant testified that she moved into the Rockridge Rental while the Dale Property was on the market because her realtor felt it would be easy, or easier with the mess around, to sell. The rent was $7,500 per month, excluding utilities.
+[58] The appellant also testified that she decided to purchase the Property under the pre-construction agreement because she would be living in it for a long time, felt that her daughters would go to university and, thus, she did not need a big house. She also testified that she wanted to live in the more vibrant Lower Lonsdale area, closer to her sister, and in a place where she could walk around. The appellant also said she expected construction to take about two years and that since AQ was born in 1999 and TQ in 2000, her younger daughter would be finishing high school around that time.
+[59] The pre-construction agreement with Polygon required a deposit totalling $65,990 by February 28, 2015, and another deposit of $65,990 by August 20, 2015, representing in total 20% of the purchase price. The deposits were paid out of the appellant’s savings.
+[60] The agreement also contained an addendum stating that Polygon would credit the purchaser nil for the GST new housing rebate. It included a statement requiring the purchaser to indicate whether, at the time of entering into the contract, the home was intended to be used as the purchaser’s or a relation’s primary place of residence. Here, the answer marked was “no”, and the appellant signed the document.
+[61] The Crown placed considerable weight on that answer. I do not. Under s. 254(2) of the ETA, the GST new housing rebate is fully phased out where the purchase price exceeds $450,000, as it did here. The appellant could, therefore, have answered “yes” and still have received no rebate credit from Polygon.
+[62] I next turn to the appellant’s purchase of another home on Gallagher Place in West Vancouver (the Gallagher Property). In my view, that purchase strongly supports the inference that the appellant acquired the condominium with resale in mind, or at least with a secondary intention to sell it at a profit should a suitable opportunity arise and that this was an important consideration at the time of acquisition.
+[63] The appellant testified that she was originally going to rent the Rockridge Rental for a short time, and she had gone beyond that, plus the landlord wanted to increase the rent from $7,500 to $8,000 per month. The appellant received a call from Robert Alexander, a real estate agent, who thought she might like the Gallagher Property and took her to see it. After viewing the property, the appellant thought it was beautiful, but it needed landscaping, decks, and a few other things. She decided to purchase it rather than continue renting. In her words:
+… in my mind, I thought well, this is a good choice to have that home; it's my own now; I'm not paying away all my money in rent because I was already stressing about that. And I thought I'll hold onto that until the condo is ready to move in, because it was still two years from that -- it was still being built, and they kept delaying the timelines all the time. And it also had a mortgage suite downstairs, so it -- I was thinking well, I'll get money from that; it'll help me with that. [Transcript, February 23, 2026, p. 38]
+[64] On December 9, 2015, the appellant entered into an agreement to purchase the Gallagher Property for $2.2 million. It was a four-bedroom house with an additional two-bedroom rental suite, totaling 3,700 square feet—a large home. The purchase closed and the appellant took possession on February 27, 2016. The property was also only a short drive from the Rockridge Secondary School, about 3.5 kilometres away.
+[65] The evidence is not entirely clear whether the house on the Gallagher Property was new. The purchase agreement required the seller to provide an occupancy certificate before closing, or other evidence satisfactory to the buyer that construction was complete.
+[66] The sellers of the Gallagher Property had the option to remain in the basement suite rent free until May 2016.
+[67] The appellant financed the purchase of the Gallagher Property with a $750,000 mortgage, having used $1,450,000 from the proceeds of sale of the Dale Property as a downpayment. The mortgage was a five-year fixed closed mortgage. The lender reserved the right to cancel or amend the commitment if the property was not occupied as the borrower’s principal residence and required a statutory declaration that it would be so occupied. The mortgage also imposed an early payment penalty equal to 1% of the outstanding balance plus three months’ interest.
+[68] The five-year fixed closed mortgage on the Gallagher Property is inconsistent with the idea that the Property was purchased to be the appellant’s residence and that she was not motivated, at the time of acquiring her interest, by an opportunity for resale at a profit.
+[69] The appellant later rented out the suite located at the Gallagher Property in or about September 2016 for approximately $2,250 per month.
+[70] Turning to the closing of the appellant’s purchase of the Property, a further $573,832.94 was required in October 2017. So how did the appellant come up with the closing balance? I examine this question in some detail, especially because the parties agree that, at all material times, the appellant reported an annual income of between $17,000 and $40,000 and was not working fulltime in 2017.
+[71] The appellant testified that in September 2017 she was considering selling the Gallagher Property and had Robert Alexander prepare a market analysis. According to the appellant, the analysis suggested a listing price between $2.6 million to $2.65 million, although the study itself was not admitted for the truth of its contents. The appellant said she was disappointed by that estimate.
+[72] I do not accept that the appellant was seriously considering selling the Gallagher Property in the fall of 2017. By then, the summer selling season had passed. And more importantly, the Gallagher Property was never listed until February 2019.
+[73] In any event, when it came time to close on the purchase of the Property, the appellant testified that she could not borrow additional funds because her income was insufficient to support another mortgage. In other words, she could not obtain conventional mortgage financing for the balance of the purchase price. There is no suggestion that this came as a surprise, and I cannot see how it would have been; when considered in the context of the purchase of the Gallagher Property, the appellant had not set herself up for longer term mortgage financing for the Property.
+[74] Instead, she obtained from Mr. Qureshi an unsecured short-term loan of $524,000 at 3.75% interest, repayable within 12 months. In an email to his banker dated October 23, 2017, Mr. Qureshi requested a bank draft for $573,832.93 to be drawn on his credit facility and wrote: “I am giving Michelle a temporary loan to close on the acquisition of her investment property.”
+[75] In a further email sent on October 24, 2017, to the law firm reviewing the written loan agreement, Mr. Qureshi stated that the appellant intended to repay the loan through the sale of one of her properties or by refinancing through a bank.
+[76] The appellant denies telling Mr. Qureshi that the Property was an investment property. And Mr. Qureshi attempted to explain his reference to the “acquisition of [the appellant’s] investment property” as generic language. He testified: “To me, a property, at the end of the day, is one of the biggest investments you will ever make as an individual, and that’s kind of what my mind was, where my mind was going, that she was investing in this particular property” (Transcript, February 24, 2026, at p. 79).
+[77] I have difficulty accepting the appellant’s and Mr. Qureshi’s evidence on this point. I also note that earlier in his direct evidence, Mr. Qureshi used similar language when describing his experience with investment properties. He stated: “… Investing in real estate, if it’s done purely for investment, I’d say it’s a little bit limited. I tried it once or twice, but that was about it” (Transcript, February 24, 2026, at p. 59).
+[78] Both the appellant and Mr. Qureshi also used similar language previously (see the appellant’s letter to the CRA dated May 16, 2011, regarding the Argyle Property and the attached email from Mr. Qureshi to his banker in June 2008).
+[79] Putting semantics aside, the communications on October 23 and 24, 2017, nevertheless leave a strong impression that the Property was going to be sold after the closing.
+[80] Earlier I stated that the evidence does not support a finding that the sale resulted from frustration or an unforeseen change of circumstances. With that now in mind, I return to the events at hand and also consider the appellant’s testimony that she lived at the Property from November 23, 2017, to June 2018. This is because occupancy, or the lack of it, may reveal important clues about the appellant’s motive.
+[81] The appellant arranged for an orientation at the Property on October 25, 2017. During the walk through, a Polygon representative noticed an area of the floor was uneven and required repair.
+[82] As noted, the appellant testified that she moved some items into the Property around November 3, 2017. On the same day, she exchanged emails with a real estate agent named Thyra. That correspondence is relevant to the timeline.
+[83] Thyra wrote, “Sale of a 3 bedrm in your building, reported today, just fyi” The appellant responded, “Very interesting. I’m glad my instincts paid off and I didn’t take that deal.” That exchange was not otherwise explained, but it suggests that the appellant may have been contemplating an earlier transaction. In the same email chain, the appellant advised Thyra that she would be away on vacation until November 16 and then would be away again in the U.K. until December 6. She also referred to possibly selling the Gallagher Property after Christmas for a minimum of $2.880 million. It is unclear whether that statement was merely posturing to a real estate agent.
+[84] The appellant did go away on vacation. On November 18, 2017—after her return—she sent an email to a Polygon representative, copying Mr. Qureshi and the solicitor who assisted with the closing. In the email, the appellant described viewing the suite on the completion date and said everything was fine but that the representative had noticed the floor was slightly uneven and that it would be rectified immediately. She wrote that she believed work had commenced shortly thereafter to correct the flooring, that she had visited several times during the process, and that the work must have stopped while she was away. The appellant stated that she attended the unit on November 18 and was mortified to find that the suite was a “complete bomb site.”
+[85] Frustrated, the appellant noted in the same email that she had booked the elevator to move furniture on November 23 and stated that she “expect(s) everything to be ready and perfect for that.” Referring to another Polygon representative named Jennifer, she then wrote:
+I was very upset and expressed this to Jennifer earlier as we will be moving in on Saturday coming and have friends and family staying there too. If the suite is not perfect I will be forced to book the Pinnacle hotel for the next two weeks or something else suitable for myself and family close by.
+[86] The appellant introduced the November 18, 2017, email into evidence. The difficulty is that her suggestion that she would be forced to secure accommodation for herself if the repairs were not completed by November 23 was not true as she still had the Gallagher Property available. I accept that she was frustrated with the condition of the floor repair and that some degree of bluster may have been involved. But the email goes further and indicates a willingness to bend the truth to advance her objectives. This gives me pause, even though neither party addressed the point. The document is in evidence, it is a prior statement of the appellant, and I will not ignore it.
+[87] Continuing the timeline, the appellant travelled to England at some point before December 6, 2017. On that date, the Property was listed with Kate Jackson for $1,189,000. No evidence was introduced about whether Ms. Jackson received any offers. My impression is that the appellant wished to skate over this listing.
+[88] What is important is that, by December 6, 2017, and given her prior travel, there was no meaningful opportunity for the appellant to spend time at the Property before it was first listed so as to “realize that it wasn’t for me” (see Transcript, February 23, 2026, at p. 73). Her evidence is implausible; it is undermined by the quick listing.
+[89] The Property was relisted with another real estate agent, Brooke Alexander, on February 21, 2018, for $1,139,900. This listing described it as a “brand-new” fourth floor suite (Ex. R-1, Tab 26). The appellant testified that Ms. Alexander brought in some staging furniture from another unit that she had sold in the building.
+[90] As mentioned, the appellant entered into an agreement to sell the Property on March 22, 2018, and the transaction closed on June 28, 2018. The purchase and sale agreement included a property disclosure statement dated February 20, 2018. The disclosure statement included the following question: has the unit been previously occupied? The question was left unanswered, although other responses were completed and initialed by the appellant.
+[91] I note also that, in assessing under the ETA, the Minister assumed that the Property was listed as “vacant” and “brand new” and that the appellant never occupied it.
+[92] I admitted into evidence as Ex. R-3 another listing for the Property that seemingly contains additional post-sale information from the MLS database, including the name of the buyer’s agent, commission, acceptance date, and completion date. This information is similar to the MLS listing the appellant provided to the CRA regarding the Argyle Property at Ex. R-2. In any event, the listing at Ex. R-3 describes the Property as never lived in and vacant. I do not give weight to these statements. Instead, I consider the Minister’s assumptions of fact and ask whether the appellant has provided credible and reliable evidence to rebut them, including the assumption that she never occupied the Property. She has not.
+[93] As stated, the appellant testified that she was living at the Property with her two daughters from November 23, 2017, until June 2018. I do not accept her evidence. Important is that occupancy involves more than simply moving a few items into the premises. To the extent that the appellant might have moved a few items into the Property, I find that this is more consistent with staging it for sale. It seems illogical that she would list the Property on December 6, 2017, and—while at the same time—move in and begin occupying the property primarily as a place of residence.
+[94] The appellant also testified that she moved a sofa-bed into the second bedroom and that her daughters shared that room. I do not accept that evidence either. The Gallagher Property remained available, and that is where the appellant and her daughters had been residing when the daughters were not with Mr. Qureshi. It is highly improbable that AQ, then 18, and TQ, then 17, would have moved into a smaller condominium and shared a bedroom after having separate bedrooms at the Gallagher Property, the Rockridge Rental, and the Dale Property.
+[95] As noted, the Gallagher Property was not listed for sale until February 2019. The main unit was not rented out until after the appellant was unable to sell it.
+[96] I also find it implausible that the appellant would have moved with her daughters to Lower Londsdale in North Vancouver while TQ was still attending Rockridge Secondary School in West Vancouver, especially when the Gallagher Property was a short drive away and in the school catchment area.
+[97] Further, the appellant did not bother to install Wi-Fi at the Property. Yet she maintained and paid for Wi-Fi at the Gallagher Property. This too suggests that she did not occupy the condominium. Nor did she change the address on her driver’s licence with ICBC or update her address with the CRA. These points might be insignificant in a different case, but they cannot be ignored here.
+[98] Common sense also indicates that a “brand new” condominium, as advertised in the second listing would have been more saleable (see Ex. R-1, Tab 26).
+[99] Neither the two screenshots, taken around February 2018, showing two couches in the Property, nor the two screenshots showing hydro account balances, satisfy me on a balance of probabilities that the appellant occupied the Property. The screenshots of the couches appear more like staging for a sale.
+[100] Mr. Qureshi testified that he believed the appellant had moved some furniture into the Property and understood that she intended to move in, but as for dates he did not know when she lived there or left. As for his daughters, he testified that he did not personally see them living there but knew they had stayed there. His evidence lacked detail and firsthand knowledge and is equally consistent with the possibility that the appellant or her daughters might have stayed at the condominium a few times out of novelty.
+[101] Sometimes proving a fact on a balance of probabilities is not an easy task. The appellant must adduce clear and convincing evidence of its existence, and the fact sought to be proved must not only be possible, but probable: Riddle v. ivari, 2026 SCC 9 at para 89.
+[102] Here, on a balance of probabilities, and considering the totality of the evidence adduced together with common sense, I am unable to find that the appellant occupied the Property as a place of residence. And it certainly was not used primarily as a place of residence. Instead, it is more probable that the appellant and her daughters continued to reside primarily at the Gallagher Property.
+[103] I return to the question of the appellant’s motive in acquiring the Property. The surrounding circumstances, including the purchase of the Gallagher Property, the lack of planning for longer term financing to close on the Property and the quick listing after construction was completed and the purchase had closed, the relisting with another real estate agent, and the absence of credible evidence of occupancy, all point toward a finding that the appellant acquired her interest in the Property in the course of an adventure or concern in the nature of trade.
+[104] Both parties say that I may take judicial notice of conditions in the Greater Vancouver real estate market during the relevant period. Neither party referred to the amendments by the Legislature of the Province of British Columbia to enact what is known as the “foreign buyers’ tax” in the Property Transfer Tax Act, RSBC, 1996, c. 378.
+[105] More specifically, on July 25, 2016, Bill 28 was introduced in the B.C. Legislature to enact the foreign buyers’ tax to address a housing affordability problem and the run up of the price of homes and condominiums in the Greater Vancouver area. The legislative amendments were reviewed in Li v. British Columbia, 2019 BCSC 1819, aff’d at 2021 BCCA 256, and were brought into force in August 2016. The affordability problem and the run-up in prices was not a new issue that first emerged in 2016.
+[106] Moreover, neither party referred to the enactment by the B.C. Legislature in late 2018 of what is referred to as the vacant homes tax (see the Speculation and Vacancy Tax Act, SBC 2018, c. 46) to discourage housing speculation and people from leaving homes vacant in urban areas (see also Bacon v. British Columbia, 2020 BCSC 578, and see 2020 BCCA 218). I acknowledge that the vacant homes tax was enacted after the events in issue.
+[107] In any event, these legislative responses were enacted during a period of perceived speculation in real estate in the Greater Vancouver area. It is therefore hardly necessary to take independent judicial notice of the fact that there was significant price appreciation in the real estate market. Also notable is that the Bank of Canada lowered the overnight interest rate and bank rate in January 2015 to 3/4 percent and 1 percent, respectively. I consider myself free to take judicial notice of this readily confirmable fact (see R. v. Find, 2001 SCC 32 at para. 48; and see Bank of Canada news release dated January 21, 2015, (online: https://www.bankofcanada.ca/2015/01/fad-press-release-2015-01-21)). Common sense indicates that real estate price appreciation often goes hand and hand with a low-interest rate environment.
+[108] The appellant and Mr. Qureshi, who seemed particularly involved with the appellant’s real estate transactions, could not have been oblivious to these realities in 2015, and in particular to the significant price appreciation and demand in the real estate market. The appellant had also demonstrated some tolerance for risk based on her prior experiences in real estate transactions.
+[109] In the end, the surrounding circumstances and the objective manifestations of purpose lead me to conclude that the appellant acquired her interest in the Property with a speculative intent. I find that she was motivated primarily by the possibility of resale at a profit.
+[110] In light of this finding, and having considered the other Happy Valley Farms factors, I have no hesitation in concluding that the appellant acquired and disposed of her interest in the Property in the course of an adventure or concern in the nature of trade. During argument, the appellant tried to distinguish her circumstances from other cases where this Court considered somewhat similar issues, such as in Caddell v. The King, 2026 TCC 27. But such cases turn heavily on their particular facts.
+[111] In the circumstances, the appellant’s profit on the sale of the Property was on income account and must be included in her income as income from a business under s. 9 of the ITA: see the definition of “business” in s. 248(1) of the ITA. Accordingly, the appeal under the ITA must be dismissed.
+[112] Moreover, I conclude that the appellant was a “builder” within the meaning of s. 123(1) of the ETA in respect of the acquisition of her interest in the Property. I turn next to the appellant’s arguments under s. 191 of the ETA.
+G. The self-supply rules in s. 191 of the ETA [113] Where construction of a residential condominium unit is substantially completed and a builder who is an individual occupies the unit as a place of residence, the self-supply rule in s. 191(1) of the ETA may apply. In simple terms, where the conditions in s. 191(1) are met, the builder is deemed to have made a taxable supply.
+[114] I reiterate that the Minister did not assess the appellant under the deeming rule in s. 191(1) of the ETA because the Minister did not consider the appellant to have occupied the Property as a place of residence.
+[115] Nevertheless, the appellant argues that if she was a builder in respect of her interest in the Property, then the self-supply rules do not apply because the conditions in s. 191(5) of the ETA are satisfied. One of those conditions is that the residential complex must be “used primarily as a place of residence of the individual, an individual related to the individual or a former spouse or common-law partners of the individual.”
+[116] In light my findings above, I conclude that the appellant did not come within s. 191(1) of the ETA because she did not occupy the Property as a place of residence. And, in any event, neither the appellant nor her daughters used the Property primarily as a place of residence. Accordingly, even if s. 191(1) applied, the appellant would not meet the conditions for the s. 191(5)(b) exception.
+[117] Fundamental to the Minister’s assessment under the ETA is that the appellant, as a builder, made a taxable supply on the sale of the Property and was therefore required to collect the GST payable by the purchaser and to remit the net tax: see s. 221(1) and s. 228 of the ETA.
+[118] The appellant has not argued that s. 3 of Part I of Schedule V applies to exempt the sale. As noted earlier, one of the conditions in that provision is the same as the condition in s. 191(5): the residential complex must be “used primarily as a place of residence of the individual, an individual related to the individual or a former spouse or common-law partner of the individual” (see also Wall at para. 50).
+[119] Based on my previous findings, that condition is not met.
+[120] In the end, I conclude that the appellant was required to collect the GST on the sale of the Property. Thus, the appeal under the ETA must also be dismissed.
+V. Conclusion [121] The appeals are dismissed with costs payable to the Crown. The parties shall have until June 19, 2026, to reach an agreement on costs, failing which the Crown shall have until July 17, 2026, to serve and file written submissions on costs and the appellant shall have until August 14, 2026, to serve and file written response submissions on costs. Any submissions shall not exceed five pages. If the parties do not advise the Court that they have reached an agreement on costs and no submissions are received, costs shall be awarded to the Crown as set out in the Tariff, but there should be no duplication of counsel fees as between both appeals.
+Signed this 19th day of May 2026.
+“Perry Derksen”
+Derksen J.
+CITATION:
+2026 TCC 87
+COURT FILE NOS.:
+2022-2466(IT)G
+2023-136(GST)G
+STYLE OF CAUSE:
+MICHELLE QURESHI v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 23, 24, and 25, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Perry Derksen
+DATE OF JUDGMENT:
+May 19, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Pollock
+Bavika Chadha
+Alessandra Tuzi
+James Pendergast
+Counsel for the Respondent:
+Vameesha Patel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jason C. Rosen
+Firm:
+Rosen & Associates Tax Law
+Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

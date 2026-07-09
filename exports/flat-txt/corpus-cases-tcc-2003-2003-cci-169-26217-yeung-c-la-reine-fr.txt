@@ -1,0 +1,116 @@
+Title: Yeung c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26217/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-169-26217-yeung-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-03-31
+
+# Yeung c. La Reine
+
+- Citation: 2003 CCI 169
+- Decision date: 2003-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3981, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yeung c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-31
+Référence neutre
+2003 CCI 169
+Numéro de dossier
+2002-2721(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-2721(GST)I
+ENTRE :
+JUN MING YEUNG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 février 2003, à Kelowna (Colombie-Britannique)
+Devant : l'honorable juge L. M. Little
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Nadine Taylor Pickering
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 11 avril 2002 et porte le numéro 64761, est accueilli, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 31e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI169
+Date: 20030331
+Dossier: 2002-2721(GST)I
+ENTRE :
+JUN MING YEUNG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelante travaille comme couturière chez Far West Industries Ltd.
+[2] Elle s'est mariée avec Victor York Fong Yeung ( « conjoint » ) à Vernon, en Colombie-Britannique, le 12 septembre 1992.
+[3] Village Garden Restaurant Ltd. ( « Village Garden » ) a été constituée en société sous le régime des lois de la province de Colombie-Britannique, le 15 août 1995.
+[4] L'activité principale de Village Garden consistait à exploiter, à titre de propriétaire, un restaurant situé à Vernon qui servait des plats chinois.
+[5] Village Garden était inscrite aux termes de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) et devait produire des déclarations de taxe sur les produits et services ( « TPS » ) chaque trimestre.
+[6] Le ou vers le 15 août 1995, l'appelante et son conjoint ont été nommés administrateurs et dirigeants de Village Garden.
+[7] Le ou vers le 1er juin 1999, l'appelante et son conjoint se sont séparés.
+[8] Le 14 octobre 2000, le locateur a saisi les biens meubles qui appartenaient à Village Garden pour couvrir les arriérés de loyer. Village Garden a mis fin à ses activités à la suite de la saisie de ses biens.
+[9] Le ministre du Revenu national (le « ministre » ) n'était pas en mesure d'obtenir la TPS de la part de Village Garden puisque cette dernière n'avait pas de bien.
+[10] Le 3 octobre 2001, le ministre a établi une cotisation à l'égard de l'appelante en vertu de l'article 323 de la Loi par suite de l'omission de Village Garden de verser un montant de taxe nette au receveur général conformément au paragraphe 228(2) de la Loi, en plus des intérêts et des pénalités.
+[11] Le 16 novembre 2001, l'appelante a produit des déclarations de TPS à la demande d'un agent de l'Agence des douanes et du revenu du Canada pour la période de déclaration du 1er mars 1998 au 31 juillet 1999 (la « période » ), déclarant un montant de TPS de 11 972,77 $, des crédits de taxe sur les intrants( « CTI » ) d'un montant de 3 504,72 $ et une taxe nette de 8 468,05 $.
+[12] Par avis de décision et avis de cotisation (mise en cause) datés du 11 avril 2002, une nouvelle cotisation a été établie à l'égard de l'appelante pour le montant de 7 578,15 $ représentant la taxe nette, les intérêts et les pénalités relativement à l'omission de Village Garden de verser la taxe conformément au paragraphe 228(2) de la Loi. Les montants en cause sont comme suit :
+Taxe nette
+5 772,99 $
+Intérêts
+820,62 $
+Pénalité
+984,54 $
+Total
+7 578,15 $
+B. QUESTIONS EN LITIGE
+[13] Il s'agit de savoir si :
+(a) le ministre a établi la cotisation à l'égard de l'appelante dans le délai prescrit en vertu du paragraphe 323(5) de la Loi relativement à son omission de verser la TPS conformément au paragraphe 228(2) de la Loi;
+(b) le ministre a dûment répondu aux conditions du paragraphe 323(2) de la Loi;
+(c) l'appelante a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement à faire le versement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+C. ANALYSE
+[14] (1) L'avis de nouvelle cotisation a-t-il été établi dans le délai prévu par la Loi?
+Le paragraphe 323(1) de la Loi se lit comme suit :
+323. (1) Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette comme l'exigent les paragraphes 228(2) ou (2.3), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités y afférents.
+Le paragraphe 323(5) se lit comme suit :
+323. (5) L'établissement d'une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu'il a cessé pour la dernière fois d'être administrateur.
+Selon le registre des administrateurs, l'appelante a démissionné de son poste d'administratrice de Village Garden le 30 novembre 1999. L'avis de cotisation a été établi le 3 octobre 2001. En d'autres termes, il a été établi dans le délai de deux ans prévu par la Loi.
+(2) L'appelante était-elle tenue de payer la taxe en vertu de la Loi, conformément au libellé du paragraphe 323(1)?
+[15] Comme je l'ai déjà mentionné, l'appelante était une administratrice de Village Garden au cours de la période pertinente, donc elle est assujettie à l'obligation fiscale imposée aux administrateurs en vertu du paragraphe 323(1).
+[16] L'appelante a fait remarquer au cours de son témoignage que le restaurant dont Village Garden était le propriétaire exploitant n'a pas réussi parce qu'il avait perdu de l'argent au jeu.
+[17] L'appelant a dûment collaboré avec les agents de l'ADRC lorsqu'on l'a informée que son conjoint a fait défaut de s'assurer que la TPS soit payée par Village Garden.
+[18] Les faits susmentionnés indiquent que le ministre a établi une nouvelle cotisation à l'égard de l'appelante (une administratrice passive) parce que son conjoint a fait défaut de s'assurer que la TPS soit payée par Village Garden. L'appelante est donc visée par une disposition formelle de la Loi qui rend les administrateurs responsables du paiement de la TPS établie par cotisation à l'encontre d'une société.
+[19] À mon avis, il ne s'agit pas d'une situation où il faut imposer une pénalité. J'estime donc que la pénalité de 984,54 $ doit être annulée.
+[20] Je n'ai pas le pouvoir d'annuler les intérêts qui ont été imposés. Toutefois, le ministre a ce pouvoir et, dans cette situation regrettable, je lui recommande d'exercer son pouvoir discrétionnaire pour les annuler.
+[21] L'appel est accueilli, sans frais, de manière à permettre au ministre d'annuler la pénalité de 984,54 $. À tous les autres égards, l'appel est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 31e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2005.
+Sophie Debbané, réviseure

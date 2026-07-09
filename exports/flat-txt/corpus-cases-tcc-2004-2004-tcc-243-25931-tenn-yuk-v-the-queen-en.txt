@@ -1,0 +1,121 @@
+Title: Tenn-Yuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25931/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-243-25931-tenn-yuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-25
+
+# Tenn-Yuk v. The Queen
+
+- Citation: 2004 TCC 243
+- Decision date: 2004-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3664, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tenn-Yuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-25
+Neutral citation
+2004 TCC 243
+File numbers
+2003-3327(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3327(IT)I
+BETWEEN:
+MICHAEL TENN-YUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 23, 2004, at Toronto, Ontario,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+Ernie Singer
+Counsel for the Respondent:
+Brent Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under subsection 227.1(1) of the Income Tax Act, notice of which is dated April 29, 2003, and bears number 20571 is dismissed.
+Signed at Ottawa, Canada, this 25th day of March, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2004TCC243
+Date: 20040325
+Docket: 2003-3327(IT)I
+BETWEEN:
+MICHAEL TENN-YUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] This is an appeal by Michael Tenn-Yuk from an assessment by the Minister of National Revenue, notice of which is dated April 29, 2003 and bears number 20571, made pursuant to sections 227 and 227.1 of the Income Tax Act (the Act) for the failure of 839399 Ontario Limited (839399) to remit to the Receiver General the amount of federal income tax with penalties and interest thereon as required by section 153 of the Act.
+Background
+[2] In or about 1978, the Appellant and Cecil Thomas began to operate an automobile repair shop, Tryman's Transmissions ("Tryman's"). The Appellant, in addition to removing and installing transmissions, was responsible for the day-to-day office obligations which included the keeping of relevant records, payment of accounts and remittances. Thomas' responsibilities were related primarily to transmission repairs and management of the shop. At some point of time after Tryman's commenced business, Brian Caffrey was hired as an apprentice. In due course, he became a licensed transmission mechanic and continued to be employed in that capacity for approximately five years, at which time he indicated that he wished to go out on his own. The issue was discussed and the Appellant, Thomas and Caffrey agreed to incorporate a new company, 839399, to carry on a transmission business operating under the same name (Tryman's), but from different premises at a new location. All three were named directors with Caffrey being the president, Thomas the vice-president and the Appellant, the secretary-treasurer. From inception, the arrangement was that Caffrey would be in charge of 839399 and handle the day-to-day activities while the Appellant and Thomas remained at the existing location. The new business was funded by way of a loan in the amount of $60,000 from their current banking institution. Each partner signed for this loan and the funds were deposited directly into the 839399 account. Caffrey was to use these funds to purchase all of the equipment, tools and other material required.
+[3] The Appellant considered himself to be an experienced businessman. At Tryman's, in addition to his other duties, he took responsibility for and attended to its financial statements and books on a regular basis, made all of the deductions and remitted all of the payroll and sales taxes. Although Caffrey had no similar experience, the Appellant said he had no concerns about going into business with him and leaving him with the responsibility to run it. This certainty was premised almost solely on his personal relationship with Caffrey and his family. They lived in the same neighbourhood and in the Appellant's words "got to know him quite well, I know his family, I know his parents. I knew his fiancée at the time and her family. I even went to his wedding, so it was pretty close." As a result when the new business commenced, he assumed that Caffrey would carry out the same responsibilities that he attended to at Tryman's. It would appear that the only involvement by the Appellant was that when 839399 began operation he arranged to have Tryman's accountants put in place a bookkeeping system for it and Francis Rodriguez, the individual attending to Tryman's books was assigned to do so. He agreed that as a director, he should have checked its books but, notwithstanding that he was aware of Caffrey's lack of experience, he simply "left that to the accountant, you know". It is a fact that during the nine or ten years that 839399 was operating he had no discussions with Rodriguez about the books and records other than asking "is everything OK" and receiving the answer "yes".
+[4] According to the Appellant, the goal set for the new business was to produce an additional financial return to the partners. Although it took approximately six years for the bank loan to be repaid and there had been no distribution of any profits in any of the years that the business was carried on, the Appellant says he believed 839399 was doing well. Thus, he said, it came as a surprise to him when in 1999, Caffrey called to say he intended to close the business, as he was "getting himself in a hole" and for that reason "found a buyer" and had received an offer of $70,000 for it including all equipment and customers. These negotiations had taken place without the Appellant's knowledge. Caffrey also said that the lease termination date was coming due and that he had no intention of renewing it but would rather let the purchaser enter into a lease. Faced with what appears to have been a fait accompli, he made but one stipulation which was that the name, Tryman's, would not be included in the sale. As it turned out, this transaction did not go through, the lease was permitted to terminate, and Caffrey removed and stored all of the equipment. The Appellant says he was not informed as to where that was.
+[5] In the fall of 2002, the Appellant was contacted by Sandra Shaw of the Collections Division, Canada Customs and Revenue Agency, with what she described as "a pre-proposal assessment to a director's liability letter", and he learned that she was investigating the non-remittance of GST by 839399. Shaw had a further conversation with the Appellant after she raised the assessment on April 29, 2003 during which the Appellant acknowledged that he received it and indicated that while he was a director, he had not taken part in the business affairs and believed that the assessment should not have been raised against him.
+Conclusion
+[6] Section 227.1 of the Income Tax Act reads in part as follows:
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest or penalties relating thereto.
+(2) ...
+(3) A director is not liable for a failure under subsection (1) where he exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[7] The Appellant is a well-educated individual having earned a B.Sc. in chemical engineering and worked as such as a consultant. He was also employed for several years at the Bank of Montreal. In the 25 years he was with Tryman's, he was the individual responsible for all of its business affairs. Although it would not be correct to describe the Appellant as an inside director since he was not involved in the day-to-day management of 839399, the fact that he was the only director who was experienced in both business and financial matters must be taken into consideration in determining what standard of care can logically be expected from him in these circumstances. As previously noted, the Appellant's testimony was that when 839399 commenced operation, Caffrey was mandated to attend to all aspects of its business. It is evident from his testimony that although he must have been aware of Caffrey's total lack of management experience, he provided him with absolutely no advice, assistance, or direction of any kind. His approach appears to have been:
+"The concern was - if there was a problem I would hear about it. That's how I looked at it. If everything is running smoothly, I don't hear from the accountant, I don't hear from the government, I have to assume ... you know when you're running one company, it's hard, you know, to try to - if you didn't trust that person, you couldn't have him. That's how I look at it. A handshake, and that's how I looked at it."
+[8] In Gordon E. Smith v. The Queen,[1] the Federal Court of Appeal observed:
+10 The subjective aspect of the standard of care applicable to a particular director will depend on the director's personal attributes, including knowledge and experience. Generally, a person who is experienced in business and financial matters is likely to be held to a higher standard than a person with no business acumen or experience whose presence on the board of directors reflects nothing more, for example, than a family connection. However, the due diligence defence probably will not assist a director who is oblivious to the statutory obligations of directors, or who ignores a problem that was apparent to the director or should have been apparent to a reasonably prudent person in comparable circumstances (Hanson v. Canada (2000) 260 N.R. 79, [2001] 4 C.T.C. 215, 2000 DTC 6564 (F.C.A.).
+[9] As a director of both Tryman's and 839399, he knew that his obligations included assuring that the appropriate tax and GST remittances were made to the Government. He conceded that with respect to 839399, directors' meetings should have been held but in fact not one had ever taken place. He also testified that at Tryman's he looked at the financial statements and the books on a regular basis since he considered that to be his responsibility, but at no time during the years that 839399 carried on business had he ever received any financial statements or drafts thereof and, more to the point, had never asked for them. His reliance on the accountant, Rodriguez, was also misplaced in that that firm's engagement was limited.
+[10] In Soper v. The Queen,[2] the Court noted that a director is not obliged to give continuous attention to the affairs of the company, nor is he or she even bound to attend all meetings of the board. However, the Court also went on to say:
+... Notwithstanding such authorities, it would be silly to pretend that the common law would stand still and permit directors to adhere to a standard of total passivity and irresponsibility. At the risk of getting ahead of myself, it should be noted here that the law today can scarcely be said to embrace the principle that the less a director does or knows or cares, the less likely it is that he or she will be held liable. Further to this point, the statutory standard of care will surely be interpreted and applied in a manner which encourages responsibility. Accordingly, the director who acts irresponsibly, for example, by failing to attend all board meetings now does so at this own peril: See McCandless v. M.N.R., 95 DTC 484 (T.C.C.). That being said, the matter of director passivity will have to re-evaluated in light of the statutory standard discussed below.
+With respect to the standard of care which may reasonably be expected from a person having the skill and knowledge and experience that this Appellant had, I adopt the following comments of Marceau J.A. in Soper:
+Subsection 227.1(1) makes a director liable for the failure of his or her corporation to remit the monies withheld as taxes and other source deductions from its employees' salaries, and subsection 227.1(3) relieves a director of his or her liability if he or she can show that he or she exercised a certain degree of care, diligence and skill to prevent such failure. By these provisions, Parliament, I think, has imposed on a director of a corporation a completely new, separate and positive duty. Such duty is owed not to the corporation but to the Crown, and consists of an obligation to do what one reasonably can to prevent such failure from occurring. I simply cannot imagine that such a duty may ever be seen as having been fulfilled by a director who, as here, has never put his or her mind to the requirement and has remained completely uninterested and passive with respect to it.
+[11] In my view, the Appellant, knowing the nature and extent of his duty as a director, totally failed to fulfil it. Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of March, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC243
+COURT FILE NO.:
+2003-3327(IT)I
+STYLE OF CAUSE:
+Michael Tenn-Yuk and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+March 25, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Ernie Singer
+Counsel for the Respondent:
+Brent Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ernie Singer
+Firm:
+Neinstein, Singer
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+2001FCA84.
+[2] 97 DTC 5407.

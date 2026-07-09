@@ -1,0 +1,132 @@
+Title: Allen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27339/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-598-27339-allen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-02
+
+# Allen v. The Queen
+
+- Citation: 2006 TCC 598
+- Decision date: 2006-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 348, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-02
+Neutral citation
+2006 TCC 598
+File numbers
+2006-1216(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1216(IT)I
+BETWEEN:
+PETER ALLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 27, 2006, at Hamilton, Ontario, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 2004 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of November 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC598
+Date: 20061102
+Docket: 2006-1216(IT)I
+BETWEEN:
+PETER ALLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Peter Allen appeals by way of the Informal Procedure the reassessment of his 2004 taxation year by the Minister of National Revenue (the Minister). The Minister included in Mr. Allen's income the amount of US$3,879.87 as a dividend from a distribution of shares of a United States (U.S.) company, First National Bankshares. The Minister determined that Mr. Allen could not avail himself of the relief provided in section 86.1 of the Income Tax Act (the Act), which does not include in income an eligible distribution. Mr. Allen wishes me to deem section 86.1 to apply, and find that the distribution of 189 shares of First National Bankshares was an eligible distribution. Alternatively, he argues that the distribution is simply not income. The only basis upon which he could make that argument is that the distribution did not constitute a dividend. Unfortunately, this is a completely contradictory position from his first position, which requires a finding that there was a dividend; that is, a distribution by one U.S. company (in this case FNB Corp.) of shares held by it in another U.S.company (First National Bankshares). The arguments presented by Mr. Allen hinge on my finding of the facts of the distribution.
+[2] Regrettably, there are few facts presented by Mr. Allen, and few assumed by the Minister. The Minister assumed:
+10. In confirming the reassessment of tax for the 2004 taxation year, the Minister assumed the following facts:
+(a) as at January 1, 2004, the Appellant owned 189 shares of a US corporation, namely FNB Corp.;
+(b) on January 2, 2004, FNB Corp. became two separate corporations, namely, FNB Corp. and First National Bankshares (the "new corporation"), which was also a US corporation;
+(c) as a result of subparagraph 10(b) above, on January 2, 2004, the Appellant received a stock distribution, whereby he also received 189 shares of the new corporation;
+(d) the value of the stock distribution, noted in subparagraph 10(c) above, that the Appellant received, totalled US$3,879.87 (C$5,050), which the Appellant failed to include in his income for the 2004 taxation year, and which was identified as a stock dividend on documents the Appellant received from the TD; and
+(e) the distribution of shares has not been identified as an "eligible distribution" as defined in subsection 86.1(2) of the Act.
+These assumptions do not shed much light on the nature of the reorganization of the two U.S. companies. Mr. Allen testified that FNB Corp. wished to separate its retail banking business from its insurance and real estate business, to achieve greater stock appreciation. He gave no further evidence as to exactly how this was achieved, other than to note that as part of the reorganization, he received an equivalent number of shares (189) in First National Bankshares as he held in FNB Corp. At the end of 2003, a statement from TD Waterhouse indicated the value of Mr. Allen's 189 FNB Corp. shares at $6,700. One month later, at the end of January 2004, after the reorganization, the TD Waterhouse statement showed 189 FNB Corp. shares with a value of $3,902, and 189 shares of First National Bankshares with a value of $3,289 for a total of approximately $7,192. FNB Corp. did not file any report of the reorganization with the Minister of National Revenue in Canada.
+[3] TD Waterhouse provided Mr. Allen with a T5 Statement of Investment Income, showing a dividend of US$3,879.87, which included a stock dividend of $3,541.86 (being the distribution of 189 shares of First National Bankshares). Mr. Allen inquired with Canada Revenue Agency (CRA) as to how to deal with the T5 form, as he felt he had not received any taxable income on this transaction. After discussing the matter with a CRA official, he submitted the T5 form to CRA with his tax return along with an explanatory note. He did not include the amount in income. He was initially assessed as filed. He was later reassessed, on the basis that he had received dividend income. He owed $2,000, which he borrowed to pay CRA, and he then proceeded with this appeal.
+[4] Mr. Allen was eloquent in his presentation. He feels he has been let down by FNB Corp., as the company did not provide CRA with the appropriate information. I completely understand his position. However, he wants me to simply make it right by deeming the distribution to be an eligible distribution in accordance with the relief provided by section 86.1 of the Act. Unfortunately, this would be turning a blind eye to the very specific requirements of section 86.1
+[5] As I indicated at the outset, section 86.1 only comes into play if there has been a distribution of shares of a company "that were owned by the particular corporation immediately before their distribution". So, did FNB Corp. own shares in First National Bankshares before distributing them to Mr. Allen. I have little evidence to assist me on this. The Crown's assumptions simply state: "FNB Corp. became two separate corporations". Mr. Allen never got share certificates, but in testimony he stated that he received the shares of First National Bankshares by virtue of owning FNB Corp. shares. Again, this is not enlightening as to the nature of the transaction. TD Waterhouse certainly reported the shares as a stock dividend, though a stock dividend usually means stock of the issuing corporation (i.e. FNB Corp. issuing FNB Corp. shares) as opposed to a dividend in kind (i.e. FNB Corp. paying a dividend by transferring stock it owns in a subsidiary). I found in a similar case, Morasse v. The Queen[1] that a brokerage firm's reporting is not determinative of this issue. However, in this case there is no evidence to refute TD Waterhouse's reporting of a dividend.
+[6] I am swayed by a couple of factors in finding that the spin-off in this case was most likely in the form of a dividend by FNB Corp. by the distribution of shares of First National Bankshares. First, that is Mr. Allen's primary position. He believes the conditions of section 86.1 are met, a primary condition being the ownership by FNB Corp. of the shares of First National Bankshares just before their distribution. Second, if I am to find otherwise, as I did in Morasse, that there was no such distribution by way of dividend, and consequently no income, then it is up to Mr. Allen to prove such to me. He has been unable to do so. As indicated above the only evidence of the nature of the transaction is reference to a dividend by TD Waterhouse. I therefore conclude that there was a distribution of the type contemplated by section 86.1, and that if Mr. Allen is to obtain relief, it must be found in that section.
+[7] Sections 86.1(1) and (2) read, in part, as follows:
+86.1(1) Notwithstanding any other provision of this Part,
+(a) the amount of an eligible distribution received by a taxpayer shall not be included in computing the income of the taxpayer; and
+(b) subsection 52(2) does not apply to the eligible distribution received by the taxpayer.
+(2) For the purposes of this section and Part XI, a distribution by a particular corporation that is received by a taxpayer is an eligible distribution if
+(a) the distribution is with respect to all of the taxpayer's common shares of the capital stock of the particular corporation (in this section referred to as the "original shares");
+(b) the distribution consists solely of common shares of the capital stock of another corporation that were owned by the particular corporation immediately before their distribution to the taxpayer (in this section referred to as the "spin-off shares");
+(c) in the case of a distribution that is not prescribed,
+(i) at the time of the distribution, both corporations are resident in the United States and were never resident in Canada,
+(ii) at the time of the distribution, the shares of the class that includes the original shares are widely held and actively traded on a prescribed stock exchange in the United States, and
+(iii) under the United States Internal Revenue Code applicable to the distribution, the shareholders of the particular corporation who are resident in the United States are not taxable in respect of the distribution;
+...
+(e) before the end of the sixth month following the day on which the particular corporation first distributes a spin-off share in respect of the distribution, the particular corporation provides to the Minister information satisfactory to the Minister ...
+(f) except where Part XI applies in respect of the taxpayer, the taxpayer elects in writing filed with the taxpayer's return of income for the taxation year in which the distribution occurs (or, in the case of a distribution received before October 18, 2000, filed with the Minister before July 2001) that this section apply to the distribution and provides information satisfactory to the Minister
+...
+[8] The following then are the necessary elements for Mr. Allen's receipt of 189 shares of First National Bankshares to qualify as a section 86.1 eligible distribution, not to be included in income:
+(i) The distribution is with respect to all of Mr. Allen's shares in FNB Corp. This has been proven.
+(ii) The distribution consists solely of the shares of First National Bankshares held by FNB Corp. before the distribution.
+As discussed earlier I have concluded, on balance, this condition has been met.
+(iii) Both companies were resident in United States, and never resident in Canada.
+I am satisfied this was the case.
+(iv) FNB Corp. shares were widely held and actively traded on a prescribed U.S.stock exchange.
+There was no evidence before me to prove this fact.
+(v) Under the U.S. Internal Revenue Code, U.S.residents of FNB Corp. shares were not taxable on this distribution.
+Again, there was no evidence before me to prove this fact.
+(vi) Within six months of the distribution, FNB Corp. provided the Minister with certain information regarding the distribution.
+That did not happen and lies at the root of Mr. Allen's problem.
+(vii) Mr. Allen elected in writing at the time of filing his 2004 return that section 86.1 should apply to the distribution.
+Mr. Allen testified that at the time of filing he included the TD Waterhouse T5 form, along with an explanatory note, and that he did not include the amount shown on the T5 form in income. As I do not know what information Mr. Allen provided in his note, I am unable to conclude he provided the information called for in paragraph 86.1(2)(f), and therefore this condition has not been met.
+[9] Mr. Allen has not qualified the distribution of the shares in First National Bankshares as an eligible distribution, given the failure to meet a number of the conditions just reviewed. This is unfortunate, as the distribution may very well have been one that could have qualified had FNB Corp. reported to CRA that all the requirements had been met, and had Mr. Allen filed an election with the requisite information. But on the evidence before me, I cannot pretend that happened, or, as Mr. Allen suggested deem the distribution to be eligible. That would be rendering the legislation meaningless.
+[10] I appreciate that from Mr. Allen's perspective, the value of his holdings after the distribution has not increased, so how can he have received income subject to tax? No doubt this was the very rationale for section 86.1. This was certainly a consideration in Morasse. The result seems unfair to Mr. Allen. The answer however does not lie in ignoring legislative requirements. It best lies with diligent reporting by U.S. companies with foreign investors, seeking professional advice when in doubt, and maintaining accurate and complete records of all transactions - all three elements lacking in Mr. Allen's appeal, leading to this unfortunate costly lesson.
+[11] The appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of November 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC598
+COURT FILE NO.: 2006-1216(IT)I
+STYLE OF CAUSE: Peter Allen and Her Majesty The Queen
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: October 27, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: November 2, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004TCC239.

@@ -1,0 +1,146 @@
+---
+title: "Mercier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30570/index.do"
+last_modified: "2011-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 427"
+citation2: ""
+neutral_citation: "2011 CCI 427"
+decision_date: "2011-10-28"
+language: "fr"
+item_id: "30570"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7311
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:30:30.169000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "330ef7441fb4a31837f4dcb56f517c8b889e54bf928a8de25507b79447add409"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mercier c. La Reine
+
+- Citation: 2011 CCI 427
+- Decision date: 2011-10-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7311, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-28
+Référence neutre
+2011 CCI 427
+Numéro de dossier
+2010-2063(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2063(IT)I
+ENTRE :
+MONIQUE MERCIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 juillet 2011, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée:
+Me Sara Jahanbakhsh
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2006 et 2007 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+Référence : 2011 CCI 427
+Date : 20111028
+Dossier : 2010-2063(IT)I
+ENTRE :
+MONIQUE MERCIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’une nouvelle cotisation datée du 19 mars 2009 par laquelle le ministre du Revenu national (le "ministre") a refusé d’accorder à l’appelante les déductions pour frais juridiques de 12 000 $ pour l’année d’imposition 2006 et de 30 025 $ pour l’année d’imposition 2007 qu’elle avait réclamées.
+[2] L’appelante et son ex-conjoint ont cessé de faire vie commune le 30 mai 2006. À cette époque, le couple avait trois enfants âgés de 22, de 18 et de 14 ans. L’appelante a retenu les services d’un bureau d’avocats le 4 juillet 2006 dans le but de discuter de la situation et, particulièrement, du règlement des intérêts financiers des parties.
+[3] Le 2 août 2006, l’appelante a reçu une mise en demeure visant une demande en divorce et de pension alimentaire pour enfants. La mise en demeure fut suivie d'une demande en divorce faite par son ex-conjoint en date du 17 août 2006 et comprenant une demande de mesures accessoires visant, entre autres, la garde des enfants et la pension alimentaire des enfants, celle-ci étant à être établie sur la base de la garde exclusive de l’ex-conjoint depuis le 30 mai 2006 jusqu'au 21 août 2006 et sur la base de la garde partagée à partir du 21 août 2006.
+[4] La demande en divorce était aussi accompagnée d’une requête en mesures provisoires. L’ex-conjoint réitérait, entre autres, sa demande de pension alimentaire pour les deux plus jeunes enfants sur les mêmes bases que celles décrites ci-dessus. L'audition de la requête était prévue pour le 28 septembre 2006. Elle a dû cependant être reportée puisque l’appelante a déposé en Cour supérieure du Québec une requête demandant à cette dernière de se dessaisir de la demande en divorce et de la requête en mesures provisoires. Cette requête de l'appelante fut entendue le 19 septembre 2006 et rejetée le 4 octobre 2006.
+[5] Selon l’appelante, du 20 septembre au 19 décembre 2006, il y a eu de nombreux échanges de communications entre avocats pour préparer l’audition de la requête en mesures provisoires, qui était maintenant prévue pour le 19 décembre 2006. L’audition de la requête en mesures provisoires a eu lieu comme prévu, mais la décision a consisté à entériner et à rendre exécutoire une entente provisoire intervenue entre les parties à la même date que celle de l’audition et déposée au dossier de la Cour.
+[6] L'entente provisoire porte sur une pension alimentaire pour les deux enfants les plus jeunes puisqu'ils sont des enfants à charge au sens de la Loi sur le divorce. Les parties ont convenu de partager la garde et d'exercer en alternance leur droit de garde. Ils se sont entendus concernant le calcul de leurs revenus respectifs et ont accepté le calcul l'un de l'autre, avec le résultat que les revenus de l’appelante se sont révélés supérieurs à ceux de l’ex‑conjoint de plus de 150 000 $ annuellement. L’appelante a donc convenu à l’amiable de verser à son ex-conjoint une pension alimentaire de 400 $ par mois à compter du 1er septembre 2006 pour les deux enfants à charge et 450 $ par mois, au titre de l'arriéré, pour les mois de juin, de juillet et d'août 2006 pendant lesquels son ex‑conjoint avait assumé la garde des enfants. Ils ont aussi convenu de partager certains frais pour les enfants dans une proportion de 62 % pour l’appelante et de 38 % pour l’ex-conjoint. Ils se sont également entendus sur des estimations de leurs revenus pour l’année 2007.
+[7] En 2007, il y a eu certaines factures de conseillers juridiques relatives à la préparation d’un projet de défense et de demande reconventionnelle dans la procédure de divorce. L’appelante réclame la déduction d'une partie des frais juridiques qui, selon elle, ont été payés dans le but d’aller chercher une pension alimentaire. Elle réclame entre autres, à son ex-conjoint, une pension alimentaire à être fixée selon les règles de fixation de pensions alimentaires pour enfants, mais en conformité avec la réalité en ce qui concerne le partage du temps passé avec les enfants et de la vie des enfants, et ce, rétroactivement au 1er janvier 2007, car elle allègue que sa fille aînée demeurait avec elle à temps plein depuis plusieurs mois.
+[8] La demande en divorce a été entendue le 6 novembre 2007 et la cour a, entre autres, entériné et rendu exécutoire une convention sur mesures accessoires que les parties avaient signée les 10 et 12 octobre 2007. Sous la rubrique "soutien alimentaire", les parties ont convenu que le soutien alimentaire de base payable au bénéfice des enfants serait fixé selon le Règlement sur la détermination des pensions alimentaires pour enfants, en fonction du revenu annuel de chaque parent et selon la réalité quant aux modalités de garde des enfants et/ou quant à leur résidence. Les parties convenaient de réviser la pension alimentaire si l’un des enfants décidait de rester à temps plein chez l'une d'elles.
+[9] La méthode de calcul de leurs revenus respectifs demeure la même que celle prévue dans leur entente sur mesures provisoires entérinée par la Cour supérieure. Chacune des parties a révélé ses revenus pour 2006 et ses revenus prévus pour 2007. L’écart entre leurs revenus en 2006 était toujours le même et il était encore plus grand pour l’année 2007. Cette situation favorisait l’ex-conjoint, qui devenait par conséquent celui qui recevait la pension alimentaire pour enfants. Les parties ont convenu, finalement, qu’advenant des changements significatifs de leurs revenus, elles s’en aviseraient afin d’effectuer des modifications et, au plus tard le 15 mai de l'année 2008 et des années subséquentes, elles confirmeraient leurs revenus imposables respectifs afin de recalculer la pension alimentaire à payer et le partage des frais particuliers, et ce, avec effet rétroactif.
+[10] Cette entente visant la pension alimentaire était donc basée, selon l'appelante, sur le revenu réel de chacune des parties et sur le lieu de résidence des enfants à charge.
+[11] Après l’année 2007, l’appelante a fait auprès de son ex-conjoint des demandes de modification de la pension alimentaire dans le but de devenir la personne qui recevrait une pension alimentaire. Cette démarche ne s’est pas avérée fructueuse et l’appelante n’a pas encore entamé de procédure judiciaire pour faire modifier la pension alimentaire qu’elle a versée en 2006, en 2007 et en 2008.
+[12] De son coté, l’ex-conjoint a expliqué qu'il avait entamé en août 2006 une procédure en divorce par laquelle il cherchait à obtenir une pension alimentaire pour les trois enfants, qui résidaient chez lui. Il a déclaré avoir fait une demande à l’appelante à cet effet, mais elle refusait. Ce n’est finalement qu’après avoir entrepris sa démarche et assigné plusieurs témoins pour l'audition de la requête en mesures provisoires qu’il a réussi à en venir à une entente avec l’appelante, sans la présence de leur avocat respectif, le 19 décembre 2006. Dans cette entente, l'appelante acceptait de lui verser une pension alimentaire de 400 $ par mois à compter du 1er septembre 2006 et 450 $ par mois au titre de l'arriéré de pension alimentaire depuis juin 2006.
+[13] Au moment de l’audience relative à la requête en divorce, qui a eu lieu le 31 août 2007, les parties avaient déjà convenu, et ce, depuis le 12 octobre, que l’appelante verserait à son ex-conjoint une pension alimentaire de 408,40 $ par mois au bénéfice des deux enfants à charge. Il s’agit, selon l'ex-conjoint, d’une pension de base et il dit qu’il faudra finalement régler tout cela.
+[14] Il s’agit donc de déterminer si les frais juridiques de 12 000 $ pour l’année d’imposition 2006 et de 30 025 $ pour l’année d’imposition 2007, dont la déduction a été réclamée par l'appelante, sont effectivement déductibles de son revenu pour chacune de ces années d’imposition.
+[15] Dans l’état actuel du droit, les frais juridiques engagés pour l’obtention d’une pension alimentaire au profit d’un enfant sont déductibles dans le calcul du revenu. Voir Wakeman c. Canada, [1996] A.C.I. no 477 (QL), [1996] 3 C.T.C. 2165 et McColl c. Canada, [2000] A.C.I. no 335 (QL), 2000 DTC 2148. Ce principe a aussi été reconnu par l’Agence du revenu du Canada dans son bulletin d’interprétation IT-99R5 au paragraphe 17, dont le passage pertinent est le suivant :
+[…] Toutefois, comme les enfants ont un droit acquis, en vertu d’une législation, à une prestation alimentaire, les frais juridiques engagés en vue d’obtenir une ordonnance alimentaire au profit d’un enfant sont déductibles. […]
+[16] La Cour d’appel fédérale dans l’arrêt Nadeau c. M.R.N., 2003 CAF 400, [2004] R.C.F. 587, 2003 DTC 5736, a d’ailleurs dit qu’un revenu issu d’une pension alimentaire est un revenu de bien et qu’à ce titre, les dépenses engagées pour en obtenir le paiement peuvent être déduites en vertu des règles énoncées à la sous-section b (voir les paragraphes 29 et 34).
+[17] C’est d’ailleurs sur l’arrêt Nadeau que l’intimée fonde son argument voulant qu’il faille d’abord et avant tout avoir un revenu provenant d'un bien avant de pouvoir déduire les frais juridiques engagés pour obtenir ce revenu. En d’autres mots, seule la personne qui reçoit la pension alimentaire pour enfants a le droit de déduire ses frais juridiques.
+[18] Quoiqu'il puisse en être ainsi dans la très grande majorité des cas, il n’en demeure pas moins que, dans des situations où les parties engagées dans un processus de divorce ont des revenus comparables et où elles réclament chacune la garde des enfants et une pension alimentaire, ayant chacune une attente raisonnable de se les voir accorder, il est tout à fait justifié, me semble-t-il de permettre la déduction aux deux parties, et ce, même si une des parties fait sa demande dans une défense et une demande reconventionnelle, ou même si elle retire sa demande avant le prononcé du jugement, pour autant, qu’il soit possible de démontrer qu’au moment où la demande a été présentée, la partie avait une attente raisonnable de tirer un revenu d’un bien.
+[19] La Cour canadienne de l’impôt a d’ailleurs accepté cette position dans la décision Trignani c. La Reine., 2010 CCI 209, 2010 DTC 1153, où la juge Woods répondait à l’argument de l’intimée selon lequel le contribuable avait abandonné sa demande de pension alimentaire pour enfants et n’avait donc pas droit à la déduction. La juge Woods a rejeté cet argument au motif que la preuve n’avait pas établi ce fait, et elle a conclu ainsi aux paragraphes 27 et 28 de sa décision:
+[27] Au cours du contre-interrogatoire, l’appelant a reconnu que la demande de pension alimentaire pour enfants avait été abandonnée, comme en témoigne une clause de l’ordonnance de la cour de 2006. Je ne suis pas prête à admettre que la demande a été abandonnée avant la prestation des services juridiques concernés. Il est fort possible que la demande ait été abandonnée à la signature du procès‑verbal de transaction qui est vraisemblablement intervenue après la prestation de la plupart des services juridiques.
+[28] La preuve dans son ensemble constitue un argument solide selon lequel la demande de garde d’enfant (et par conséquent de pension alimentaire pour enfants) en 2001 a été faite de bonne foi, n’était pas frivole et avait une chance raisonnable de succès. En l’absence d’une preuve contraire, je ne suis pas disposée à présumer que la présente demande n’avait pas été poursuivie activement en 2006.
+[Je souligne.]
+[20] L’appelante soutient que tous les frais juridiques qu’elle a engagés à partir de juillet 2006 jusqu’à janvier 2007 se rapportaient à la fixation de la pension alimentaire pour enfants et à l'établissement du cadre juridique qui devait s’appliquer pour déterminer qui serait le payeur de la pension alimentaire, soit 41 265,63 $. Elle soutient aussi que les factures en date du 14 juin 2007 et du 17 juillet 2007, pour des montants de 1 334,13 $ et de 6 423,63 $ respectivement, concernent la préparation d’un projet de défense et de demande reconventionnelle. Étant donné que la demande reconventionnelle traitait également d’autres questions, l’appelante n’a réclamé la déduction que de 30 % de ces factures, soit le pourcentage se rapportant à la question de la pension alimentaire. Elle ajoute aussi les factures du 10 septembre, du 10 octobre et du 5 novembre 2007, dont les montants sont de 440,24 $, de 1 116,17 $ et de 215,98 $ respectivement, et elle le fait dans la même proportion de 30 %, qu’elle relie au cadre juridique pour le paiement de la pension alimentaire par elle ou par son ex-conjoint. C'est l’établissement de ce cadre juridique qui a entraîné pour l’appelante la grande majorité des dépenses qu’elle a engagées.
+[21] Je ne peux cependant pas souscrire à l’argument de l’appelante voulant que leur cas soit un cas d’espèce et qu’il lui a fallu engager des frais juridiques faramineux pour établir le cadre juridique qui servirait à déterminer qui serait le payeur de la pension alimentaire pour enfants. Cette question est une question de base: une pension alimentaire est payée en fonction de qui a la garde des enfants et en fonction de la capacité de payer de chacun des parents une fois qu'il est établi qui aura la garde.
+[22] Ce que je retiens des faits particuliers de l’espèce est que l’appelante et son ex-conjoint ont cessé de faire vie commune en mai 2006. Les enfants du couple ont continué à résider avec leur père, et en août 2006 il était question de garde partagée des deux enfants à charge, qui allaient donc alterner leur résidence.
+[23] L’ex-conjoint de l’appelante aurait fait des demandes à l’appelante de lui verser une pension alimentaire et, vu le refus de cette dernière, il a déposé une demande en divorce et une requête pour mesures provisoires le 17 août 2006. À mon avis, les efforts de l’appelante en août et en septembre 2006 ont été davantage concentrés sur la procédure pour dessaisissement de la Cour supérieure du Québec de l’instance en divorce que sur une demande visant à obtenir de son ex‑conjoint une pension alimentaire pour les enfants. Les détails des factures des avocats de l’appelante durant tout l’automne 2006 reflètent davantage des efforts déployés par ces derniers pour poursuivre la requête en dessaisissement que des démarches faites relativement à une demande de pension alimentaire. En fait, ce n’est qu’au début de décembre que les factures commencent à faire référence à l’audition de la requête en mesures provisoires et à la préparation à cette audition. Il n’y a dans tout cela aucune demande de pension alimentaire pour enfants faites par l’appelante à l'endroit de son ex-conjoint. Il n’y a eu, en fait, aucune demande de pension alimentaire pour enfants de la part de l’appelante avant le dépôt de sa défense et de sa demande reconventionnelle le 11 juillet 2007. Il me paraît donc évident que l’appelante ne faisait que se défendre contre la demande de pension alimentaire pendant la majeure partie du processus judiciaire.
+[24] Il me paraît aussi très évident que, selon les modalités énoncées dans le jugement sur requête provisoire, qui entérinait l'entente à l’amiable intervenue entre les parties, ainsi que dans le jugement définitif sur la requête en divorce, qui lui aussi entérinait une entente à l'amiable entre les parties, il existait un écart important entre le salaire de l’appelante et celui de son ex-conjoint pendant toute la période pertinente. Cela laisse clairement voir que, compte tenu de l’âge des enfants et la garde partagée de ceux-ci, l’appelante serait la payeuse d’une pension alimentaire pour enfants et ce, malgré sa demande reconventionnelle de juillet 2007.
+[25] Quant à l’argument de l’appelante selon lequel elle croyait qu'elle devait recevoir une pension alimentaire étant donné que sa fille aînée passait 65 % de son temps avec elle, soulignons que l’appelante n’a pas poursuivi ses démarches et, plus précisément, elle ne l’a pas fait dans les années suivant l’année 2007.
+[26] Devant cet état de choses, il m’est impossible de conclure que, dans les présentes circonstances, l’appelante a pu avoir engagé des frais juridiques croyant sincèrement et de bonne foi qu’elle avait une chance raisonnable de succès en ce qu'elle puisse tirer un revenu d'un bien.
+[27] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2011 CCI 427
+Nº DU DOSSIER DE LA COUR : 2010-2063(IT)I
+INTITULÉ DE LA CAUSE : Monique Mercier c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 13 juillet 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 28 octobre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l'intimée :
+Me Sara Jahanbakhsh
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

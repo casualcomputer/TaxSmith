@@ -1,0 +1,176 @@
+---
+title: "Tallon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71876/index.do"
+last_modified: "2014-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 193"
+citation2: ""
+neutral_citation: "2014 CCI 193"
+decision_date: "2014-05-10"
+language: "fr"
+item_id: "71876"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5390
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:57:20.031000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2070b88b80cba2fffa1af3f43eb81806421cd93ed978bc288ab0a80f6644b40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tallon c. La Reine
+
+- Citation: 2014 CCI 193
+- Decision date: 2014-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5390, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tallon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-10
+Référence neutre
+2014 CCI 193
+Numéro de dossier
+2012-3549(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3549(IT)I
+ENTRE :
+TRUDY TALLON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 juin 2014 à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. David Bullough
+Avocat de l’intimée :
+Me Ryan Gellings
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, en tenant compte du fait que l’appelante a droit à un crédit d’impôt pour frais médicaux à l’égard de dépenses supplémentaires de 17 494,50 $.
+Les dépens sont adjugés à l’appelante conformément au tarif, sauf toute dépense supplémentaire encourue pour assister à l’audience à Toronto.
+Signé à Toronto (Ontario), ce 10e jour de juin 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour de juillet 2014.
+C. Laroche
+Référence : 2014 CCI 193
+Date : 20140610
+Dossier : 2012-3549(IT)I
+ENTRE :
+TRUDY TALLON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel est interjeté par Trudy Tallon à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu (la « Loi ») et dans laquelle le ministre refusait une partie du crédit d’impôt pour frais médicaux (« CIFM ») demandé à l’égard de frais de déplacement engagés dans l’année d’imposition 2009. Des frais analogues engagés par Mme Tallon ont été refusés pour l’année d’imposition 2008 et Mme Tallon a obtenu que la cotisation établie pour 2008 soit infirmée par la Cour lors d’un appel antérieur (2010-3659(IT)I).
+[2] Mme Tallon, qui réside à Thunder Bay, en Ontario, souffre de douleurs chroniques sévères. Sur la recommandation de son médecin, il y a bien des années, elle passe l’hiver dans des climats chauds pour soulager son état. Lors du contre‑interrogatoire, la Cour a appris que son époux et elle avaient visité des endroits comme la Thaïlande, l’Indonésie, le Cambodge, le Vietnam, la Malaysie, les Philippines, le Myanmar, l’Équateur, le Venezuela, le Honduras, le Mexique, le Costa Rica et l’Inde. Ils ne passent pas l’hiver aux États-Unis, parce qu’il n’y fait pas assez chaud et que les frais médicaux y sont trop élevés.
+[3] Au cours de l’année d’imposition visée, soit 2009, le couple avait fait le projet de passer l’hiver en République dominicaine, mais le climat s’était avéré contre‑indiqué, compte tenu de l’état de Mme Tallon, et d’autres dispositions ont dû être prises au dernier moment. Ils ont fini par passer plusieurs semaines en Thaïlande et le reste de l’hiver en Indonésie, après l’expiration de leur visa en Thaïlande.
+[4] Les frais en litige comportent les vols par avion, l’hébergement et les repas pour le voyage en Thaïlande/Indonésie qui a eu lieu entre le 2 janvier et le 4 mai 2009. Le montant total de la demande contestée est de 17 494,50 $ (ce qui exclut un montant de 36,02 $ concédé par Mme Tallon à l’audience).
+Les dispositions législatives
+[5] Les dispositions législatives applicables dans le présent appel se trouvent aux alinéas 118.2(2)g) et h) de la Loi et sont ainsi libellées :
+(2) Frais médicaux – Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+g) [transport] à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu — situé à 40 kilomètres au moins de cette localité — où des services médicaux sont habituellement dispensés, ou vice‑versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+(ii) un seul particulier accompagnant le particulier, l’époux ou le conjoint de fait ou la personne à charge, si ceux-ci sont, d’après l’attestation écrite d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux-mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+h) [frais de déplacement] pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou du conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux-ci sont, d’après l’attestation écrite d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou le conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+Les positions des parties
+[6] La Couronne affirme qu’il ne peut y avoir de CIFM pour ces frais de déplacement, parce que Mme Tallon n’a pas engagé ces frais pour obtenir des services médicaux comme le précise le sous-alinéa 118.2(2)g)(v).
+[7] La Couronne s’appuie sur le raisonnement formulé dans Goodwin v The Queen, [2001] 4 CTC 2906 (CCI), soit un appel entendu sous le régime de la procédure informelle, dans lequel on a refusé un CIFM à l’égard de frais engagés pour de courts déplacements dans le Sud des États-Unis pour soulager les symptômes d’un psoriasis grave. En décidant que ces déplacements ne visaient pas à obtenir des services médicaux, le juge Teskey a déclaré :
+[26] Pour qu’un contribuable puisse déduire les frais de déplacement en application de l’un ou l’autre de ces alinéas, il doit se déplacer pour recevoir un service médical d’une personne qui œuvre dans le domaine de la santé. Il va sans dire qu’il faut aussi satisfaire à l’autre condition énoncée dans les alinéas en question.
+[27] L’exposition au soleil n’est pas un service médical même si elle peut soulager le patient. On peut en dire autant du fait de perdre du poids, de réduire l’ingestion de caféine, de faire plus d’exercice ou d’arrêter de fumer. Aucun de ces cas ne requiert qu’un professionnel de la santé fasse quoi que ce soit pour le patient.
+[8] Mme Tallon fonde son argumentation sur une décision de la Cour canadienne de l’impôt rendue en sa faveur à l’égard de l’année d’imposition 2008. Sa position, telle que précisée dans l’avis d’appel, est celle‑ci :
+[traduction]
+Les frais de déplacement de la contribuable pour frais médicaux hors du pays en 2008 ont été refusés. Elle a porté l’affaire devant la Cour canadienne de l’impôt et a eu gain de cause. La Cour canadienne de l’impôt a conclu, à l’instar de la contribuable, que ces voyages pour soins médicaux étaient nécessaires et a rétabli la totalité des frais de déplacement à des fins médicales refusés antérieurement pour 2008. Vous trouverez copie de ce jugement en annexe pour votre information. Par conséquent, puisque la contribuable souffrait du même problème médical en 2009 qu’en 2008, les frais de déplacement à des fins médicales pour 2009 devraient être entièrement accordés.
+[9] En plus de cette question, la Couronne affirme que les frais de l’époux ne sont pas admissibles aux fins du CIFM, l’attestation requise à l’alinéa 118.2(2)h) n’ayant pas été produit. Même si Mme Tallon a obtenu une attestation d’un médecin, la Couronne affirme qu’il comporte des lacunes. La question n’a pas été soulevée lors de l’appel précédent concernant l’année d’imposition 2008.
+Analyse
+[10] Le présent appel a trait aux exigences législatives concernant l’obtention d’un CIFM à l’égard de frais de voyage engagés pour obtenir des services médicaux. Pour être admissibles, les services médicaux ne doivent pas être dispensés localement, l’itinéraire doit être raisonnablement direct et il doit être raisonnable, compte tenu des circonstances, que le contribuable s’y rende pour obtenir les services.
+[11] La demande peut comprendre les dépenses d’une personne préposée à ses soins si le contribuable est incapable de voyager par lui-même et qu’il a obtenu une attestation d’un médecin à cette fin.
+[12] La Couronne reconnaît que des frais analogues à ceux visés aux présentes ont été autorisées par la Cour à l’égard de Mme Tallon pour son année d’imposition 2008. La juge Lamarre a fait droit à l’appel pour les motifs prononcés oralement à l’audience à Thunder Bay. Selon le jugement écrit daté du 4 mai 2011, des frais de 22 509,77 $ ont été admis.
+[13] Cette décision n’a pas fait l’objet d’un appel, mais le ministre ne s’y est pas tenu pour établir la cotisation de l’année d’imposition suivante.
+[14] L’avocat de la Couronne m’a informée que la juge Lamarre n’a pas fait sien le raisonnement tenu dans l’affaire Goodwin, précitée, parce que les décisions subséquentes de la Cour ont élargi le sens du terme « services médicaux ». L’avocat m’a remis copie de ces affaires et a affirmé que les décisions ultérieures ne vont pas jusqu’à confirmer que l’exposition à un climat chaud constitue un service médical.
+[15] J’ai de la difficulté à accepter la position prise par la Couronne dans le présent appel. Celle-ci demande à la Cour de ne pas souscrire à une décision d’un autre juge concernant le même contribuable et sur la même question, dans une année immédiatement subséquente. Il n’y aurait aucun reproche à formuler à cela si les motifs de la juge Lamarre m’avaient été communiqués afin que je puisse les examiner. Par contre, tel n’a pas été le cas et aucune explication ne m’a été fournie pour le défaut de produire la transcription des motifs.
+[16] À mon avis, la situation est très injuste pour la contribuable. Si Mme Tallon doit être privée de l’avantage d’une décision antérieure à l’égard d’une année subséquente, il n’est que juste que la Cour considère soigneusement les motifs invoqués dans l’affaire précédente. Je n’ai pu le faire.
+[17] L’avocat de la Couronne a tenté, au cours de l’audience, de communiquer à la Cour de façon générale les motifs prononcés oralement par la juge Lamarre, mais il ne m’a pas beaucoup éclairée.
+[18] L’avocat a également offert d’obtenir une transcription des motifs prononcés oralement après l’audience. Dans bien des cas, cela conviendrait, mais en l’espèce, le délai et les coûts supplémentaires ne justifient pas cette façon de procéder (voir Burton c. La Reine, 2006 CAF 67).
+[19] Si la transcription est obtenue après l’audience, non seulement cela entraînerait un retard à rendre ma décision dans cet appel entendu sous le régime de la procédure informelle, mais cela nécessiterait du temps et des frais afin de prendre les dispositions pour que la Cour entende les observations des parties concernant la transcription. Je relève également que l’audience a été inscrite au rôle à Toronto plutôt qu’à Thunder Bay, parce que Mme Tallon souhaitait une audience rapide et était disposée à se rendre dans une autre ville à cette fin.
+[20] Pour ce motif, il me semble approprié de suivre la décision de la juge Lamarre. Je conclurais que les frais de déplacement engagés par Mme Tallon en 2009 visaient à obtenir des services médicaux aux fins des alinéas 118.2(2)g) et h).
+[21] Il existe un autre point à aborder, qui n’a pas été soulevé dans l’appel concernant l’année d’imposition 2008. La question est de savoir si Mme Tallon dispose d’une attestation d’un médecin qui soit satisfaisante pour ce qui est de son besoin d’être accompagné par un préposé à ses soins qui, en l’espèce, était son époux.
+[22] La Couronne affirme que l’attestation du médecin ne remplit pas cette exigence, parce qu’elle n’est pas établie expressément pour l’année d’imposition 2009 et n’indique pas clairement que Mme Tallon est incapable de voyager seule.
+[23] L’avocat a également soutenu à l’audience que, peu importe l’attestation, Mme Tallon n’avait pas besoin d’un préposé. Pour appuyer son argument, il a souligné que Mme Tallon s’est rendue au Texas par ses propres moyens pour une consultation médicale.
+[24] En ce qui a trait à l’exigence de l’attestation, je suis convaincue que cette exigence est remplie par une lettre établie par le médecin de Mme Tallon le 12 août 2013 (Pièce A-4). La lettre ne vise pas expressément l’année 2009, mais semble avoir été obtenue dès que Mme Tallon en a constaté la nécessité. De plus, il est précisé dans la lettre que voyager non accompagnée serait [traduction] « extrêmement difficile […] voire impossible ». Cela remplit, à mon avis, l’exigence législative voulant qu’un préposé soit nécessaire.
+[25] En ce qui a trait à l’argument formulé par la Couronne à l’audience et selon lequel Mme Tallon pouvait voyager seule, parce qu’elle est allée au Texas sans aide pour une consultation médicale, cet argument n’a pas été soulevé dans la réponse, et il est trop tard pour en faire une première mention dans la plaidoirie. Quoi qu’il en soit, la preuve m’a convaincue que Mme Tallon serait incapable de voyager pendant une longue période par ses propres moyens. Un court voyage au Texas pour une consultation médicale est quelque chose de totalement différent d’un séjour durant tout un hiver.
+[26] J’estime que les exigences concernant les frais d’un préposé sont par conséquent remplies.
+[27] Avant de conclure, je mentionnerais que je suis perplexe à propos du nombre de pays et des endroits que Mme Tallon et son époux ont visités au fil des ans et mentionnés précédemment. Cela me laisse l’impression que ces endroits n’ont pas été choisis que pour des raisons médicales. Je laisse la question ouverte pour une autre occasion, parce que la Couronne n’a pas fait valoir que l’exigence du caractère raisonnable mentionné au sous-alinéa 118.2(2)g)(v) n’était pas remplie.
+[28] Par conséquent, j’accueillerai l’appel, sauf en ce qui a trait à des frais de 36,12 $.
+[29] En ce qui a trait aux dépens, ils sont adjugés à Mme Tallon conformément au tarif, sauf pour tous les frais supplémentaires engagés pour assister à l’audience à Toronto, car c’était à la demande de Mme Tallon.
+Signé à Toronto (Ontario), ce 10e jour de juin 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 23e jour de juillet 2014.
+C. Laroche
+RÉFÉRENCE :
+2014 CCI 193
+NO DU DOSSIER DE LA COUR :
+2012-3549(IT)I
+INTITULÉ :
+TRUDY TALLON et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 juin 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Woods
+DATE DU JUGEMENT :
+Le 10 juin 2014
+COMPARUTIONS :
+Représentant de l’appelante :
+M. David Bullough
+Avocat de l’intimée :
+Me Ryan Gellings
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

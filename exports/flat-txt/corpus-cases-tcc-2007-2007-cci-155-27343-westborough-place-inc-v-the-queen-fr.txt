@@ -1,0 +1,174 @@
+Title: Westborough Place Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27343/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-155-27343-westborough-place-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-03-19
+
+# Westborough Place Inc. v. The Queen
+
+- Citation: 2007 CCI 155
+- Decision date: 2007-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 164, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Westborough Place Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-19
+Référence neutre
+2007 CCI 155
+Numéro de dossier
+2006-476(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2006-476(GST)I
+ENTRE :
+WESTBOROUGH PLACE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu par le juge B. Paris le 2 février 2007
+à Edmonton (Alberta).
+Comparutions
+Avocat de l’appelante :
+Gordon D. Beck
+Avocat de l’intimée :
+Chang Du
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise portant le numéro 10BT‑GB0425‑1175‑8423 et datée du 18 novembre 2005 est accueilli, sans dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu des motifs du jugement ci‑joints.
+Signé à Ottawa (Canada), ce 19e jour de mars 2007.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+Claude Leclerc, LL.B., trad. a.
+Référence : 2007TCC155
+Date : 20070319
+Dossier : 2006-476(GST)I
+ENTRE :
+WESTBOROUGH PLACE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante fait appel d’une nouvelle cotisation datée du 23 janvier 2004, établie en vertu de la Partie IX de la Loi sur la taxe d’accise (la « Loi »), aux termes de laquelle le ministre du Revenu national (le « Ministre ») a procédé à certains ajustements à la TPS payable selon la déclaration de l’appelante pour les périodes se terminant entre le 1er juillet 2000 et le 28 février 2003. Parmi les ajustements, le Ministre a rejeté un montant de 41 361 $ crédits de taxe sur les intrants (CTI) au motif que l’appelante n’a pas produit les documents exigibles en vertu du paragraphe 169(4) de la Loi à l’appui de la demande de remboursement.
+[2] L’appelante allègue qu’elle a produit les documents exigibles en vertu du paragraphe 169(4) et qu’elle a droit aux CTI tels qu’ils ont été déclarés.
+Les faits
+[3] L’appelante a été constituée en société pour faire office de fiduciaire chargée de détenir certains biens immobiliers pour le compte de ses deux actionnaires en parts égales, à savoir Parkside Homes Ltd. (« Parkside ») et Baywood Property Management (« Baywood »), et de gérer la mise en valeur et la vente de ces biens immobiliers.
+[4] Parkside et Baywood ont signé une entente de participation avec l’appelante et Winalta Ltd. le 31 juillet 2000 pour créer une subdivision de « Westborough Lands » à Fort McMurray (Alberta). Parkside et Baywood ont convenu d’acheter Westborough Lands et d’inscrire le titre foncier au nom de l’appelante à titre de fiduciaire, chacune des parties ayant un intérêt indivis égal sur les terres. Le paragraphe 4.01 de l’entente prévoit ce qui suit :
+[TRADUCTION]
+Les affaires des copropriétaires concernant Westborough Lands et le contrat d’achat seront gérés par le fiduciaire, lequel achètera Westborough Lands, le lotira, le viabilisera, le mettra en valeur et le commercialisera dans l’intérêt des copropriétaires.
+Dans la même entente, Winalta a convenu de fournir des maisons préfabriquées qui seront installées sur les lots de Westborough Lands.
+[5] Le 1er août 2000, Winalta a conclu une entente (« entente de services ») avec Pethridge Holdings Inc. (« Pethridge »), entreprise non affiliée, aux termes de laquelle Pethridge convenait de mettre en marché les maisons installées sur Westborough Lands moyennant une commission de 2 500 $ pour chaque maison vendue.
+[6] Au cours des deux années et demie suivantes, Pethridge a mis en marché et vendu les maisons et a reçu ses commissions, mais celles-ci ont été versées par l’appelante et non pas Winalta.
+[7] Bernie Walsh, administrateur de l’appelante et directeur de Parkside, a déclaré à la Cour que l’appelante était responsable, aux termes de l’entente de participation, de la mise en marché des maisons. Il a ajouté que c’était sur la recommandation de Winalta que l’appelante avait chargé Pethridge de mettre les unités de logement sur le marché. L’entente de services avec Pethridge, a‑t‑il précisé, a été conclue par Winalta et non par l’appelante parce que la première connaissait mieux le volet commercialisation de l’affaire et qu’elle avait recommandé de faire appel à Pethridge. M. Walsh a déclaré qu’il estimait que l’appelante était liée par l’entente de services conclue entre Winalta et Pethridge et il a confirmé que l’appelante avait payé les commissions à Pethridge. Son témoignage n’a pas été contredit en contre‑interrogatoire, et j’estime qu’il est digne de foi.
+[8] Jusqu’au début de septembre 2002, Pethridge n’a facturé aucune TPS sur les commissions. Puis, elle a adressé une note de service à la comptable de l’appelante pour lui faire part qu’elle souhaitait recueillir la TPS sur les commissions déjà touchées. Elle a établi à l’intention de l’appelante une facture datée du 30 septembre 2002 au montant de 39 641 $ au titre de la TPS payable sur les commissions antérieures, qui s’élevaient à 566 300 $. La facture de Pethridge ne portait aucun numéro de TPS, mais un numéro avait été communiqué par télécopieur à l’appelante le 11 septembre 2002.
+[9] Pethridge a également adressé à l’appelante une facture datée du 16 septembre 2002 pour l’utilisation d’une camionnette : la facture comportait un montant de 247,05 $ au titre de la TPS. Pethridge a envoyé deux autres factures, toutes deux datées du 17 janvier 2003 pour des commissions de 22 500 $ et 1 575 $ de TPS sur la vente de neuf maisons. Ces deux dernières factures figuraient sur le numéro de TPS que Pethridge avait fourni à l’appelante le 11 septembre 2002.
+[10] Toute la TPS facturée par Pethridge à l’appelante a été payée à la réception des factures. La comptable de l’appelante, Carol Marsh, a déclaré que, lorsqu’elle avait reçu la facture du 30 septembre 2002, elle a vérifié dans les documents comptables de l’appelante que les commissions déjà versées à Pethridge s’élevaient effectivement à 566 300 $. Elle a également produit une copie d’une feuille de calcul tenue par l’appelante correspondant à la période au cours de laquelle avait été inscrite la vente de chaque maison de Westborough Lands. La feuille de calcul figurant sur les numéros d’unité correspondant à chaque maison à vendre et le montant payé à Pethridge pour chaque unité. Mme Marsh a précisé que ces montants ont été versés à Pethridge entre la fin de l’automne 2000 et l’automne 2002. Le total des commissions inscrites sur la feuille de calcul s’élève à 566 300 $.
+[11] Mme Marsh a également déclaré qu’elle avait appelé le guichet d’affaires de l’Agence du revenu du Canada (ARC) au printemps 2005, pendant la procédure d’appel, et qu’on lui avait dit que le numéro de TPS de Pethridge était valide.
+[12] Candy Ng, agent d’appel pour la TPS à l’ARC, a répondu à l’objection de l’appelante concernant la nouvelle cotisation en litige. Elle a déclaré que les CTI de 39 641 $ (au titre de la TPS versée sur les commissions antérieures de 566 300 $) ont été refusés au stade de la vérification parce qu’aucun numéro de TPS n’était inscrit sur la facture de Pethridge datée du 30 septembre 2002. Elle n’a pas expliqué pourquoi les CTI relatifs à la TPS inscrite sur les factures du 17 janvier 2003 ont été refusés.
+[13] Au stade de l’objection, Mme Ng a conclu que le numéro de TPS original fourni par Pethridge à l’appelante le 11 septembre 2002 n’était pas valide. Elle a obtenu cette information en examiner certains dossiers informatiques de l’ARC concernant Pethridge. Des imprimés des dossiers en question ont été produits en preuve. Selon Mme Ng, ces imprimés indiquaient que, le 23 décembre 2005, le Ministre avait fermé le compte TPS de Pethridge et annulé son numéro de TPS, rétroactivement au 30 juin 2001.
+[14] Mme Ng a également renvoyé à un imprimé des documents relatifs à certains appels téléphoniques faits ou reçus par l’ARC au sujet de Pethridge. Elle a déclaré qu’elle avait vérifié le relevé de tous les appels téléphoniques faits par Pethridge figurant dans les dossiers de l’ARC et qu’elle ne se rappelait pas y avoir vu un appel fait par Mme Marsh au printemps 2005. Le relevé complet des appels téléphoniques concernant Pethridge n’a cependant pas été produit en preuve.
+[15] Mme Ng a confirmé les nouvelles cotisations établies à l’égard de l’appelante compte tenu du fait que le numéro de TPS fourni par Pethridge n’était pas valide au moment où les factures en question ont été dressées. Elle a également déclaré qu’elle avait estimé que les factures de Pethridge ne fournissaient pas suffisamment de détails quant aux services fournis par Pethridge à l’appelante.
+Les questions en litige
+[16] L’alinéa 169(4)a) de la Loi énonce les conditions permettant de demander des CTI en vertu de la Loi :
+(4) Documents -- L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[17] L’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le « Règlement ») prévoit les renseignements exigibles en vertu de l’alinéa 169(4)a) pour demander des CTI. Les passages utiles de cette disposition se lisent comme suit :
+3. Les renseignements visés à l'alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n'a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire et le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l'intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n'est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d'elles, […]
+[…]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[Non souligné dans l’original]
+[18] Comme le total versé pour chaque service en question était supérieur à 150 $, les renseignements exigibles pour demander les CTI sont énoncés à l’alinéa 3c) du Règlement. L’appelante était tenue d’avoir ces renseignements en main au moment où elle a demandé les CTI.
+[19] En l’espèce, l’intimée estime que l’appelante n’a pas obtenu le numéro d’inscription attribué à Pethridge en vertu du paragraphe 241(1) de la Loi ni fourni une description suffisante de chaque service fourni.
+[20] Concernant le premier point, l’intimée allègue que le numéro d’inscription à la TPS que l’appelante a demandé à Pethridge avant de demander des CTI n’était pas valide puisqu’il avait été annulé rétroactivement au 30 juin 2001 et que les conditions prévues à l’article 3 du Règlement n’étaient donc pas remplies.
+[21] Concernant le deuxième point, l’intimée fait valoir que les documents à l’appui obtenus par l’appelante avant de demander des CTI ne contenaient pas de description suffisante des services fournis par Pethridge. L’avocat a fait remarquer que la facture du 30 septembre 2002 indique simplement « [TRADUCTION] montant de TPS concernant Westborough Place sur un total de 566 300 $ », sans aucune description et sans mention des dates des services fournis. Les deux factures du 17 janvier 2003 font état des numéros d’unité, des noms des clients et des montants (2 500 $) ainsi que d’un numéro de série et d’un numéro de modèle, mais l’intimée estime que la nature du service fourni par Pethridge à l’appelante n’est pas évidente. Aucun argument n’a été formulé quant à la facture du 16 septembre 2002.
+[22] L’appelante fait valoir que les dossiers de l’ARC indiquent que le numéro de TPS de Pethridge n’a pas été annulé avant le 23 décembre 2005 et qu’il était donc valide jusqu’à ce moment‑là. Selon elle, le Ministre n’avait pas le droit d’annuler le numéro de TPS rétroactivement au 30 juin 2001 puisque Pethridge a été en exploitation jusqu’à la fin de 2003 et qu’elle a eu besoin de son numéro d’inscription à la TPS au moins jusque‑là. Il renvoie au paragraphe 242(1) de la Loi, qui a trait à l’annulation des inscriptions à la TPS :
+242(1) Annulation [d’inscription] -- Après préavis écrit suffisant donné à la personne inscrite aux termes de la présente sous-section, le ministre peut annuler son inscription s’il est convaincu qu’elle n’est pas nécessaire pour l’application de la présente partie. [Non souligné dans l’original]
+[23] L’appelante soutient également que, au moment où elle a demandé les CTI, elle avait en sa possession des documents, autres que ces factures, permettant de donner une description suffisante des services fournis par Pethridge. Elle fait valoir que l’entente de services conclue entre Pethridge et Winalta indique que Pethridge fournira des services de mise en marché et de vente pour Westborough, et l’entente de participation indique que l’appelante était chargée d’organiser ces services. En outre, la feuille de calcul produite par l’appelante fait état des ventes effectuées par Pethridge et de la commission gagnée sur chaque vente.
+Analyse
+[24] Comme le Ministre n’a pas présumé que l’appelante n’avait pas obtenu de numéro de TPS valide pour Pethridge avant le stade de confirmation et que ce n’était pas le cas au moment de l’établissement de la nouvelle cotisation, c’est à l’intimée qu’il revient de prouver l’invalidité du numéro de TPS. Même si le Ministre avait formulé cette hypothèse au stade de l’établissement de la nouvelle cotisation, j’aurais tout de même conclu que l’intimée doit s’acquitter du fardeau de la preuve en l’espèce, puisque la validité du numéro d’inscription à la TPS est une affaire qui relève du Ministre et non pas, en général, du contribuable. Il s’agirait donc d’une exception à la règle générale concernant le fardeau de la preuve dans les affaires fiscales. (Voir Redash Trading Inc. v. The Queen, [2004] GSTC 82 et Calistar Construction Services Ltd v. The Queen, [2004] GSTC 88 (par. 8)).
+[25] En l’espèce, je ne suis pas convaincu que l’intimée ait prouvé, selon la prépondérance des probabilités, que le numéro de TPS attribué à Pethridge était invalide au moment où l’appelante a envoyé sa déclaration de TPS dans laquelle elle demande les CTI en question.
+[26] Le témoin présenté par l’intimée, Mme Ng, n’avait rien à voir avec l’annulation de l’inscription de Pethridge et elle ne travaillait pas dans le domaine de l’inscription à la TPS à l’ARC. Sa connaissance des faits se limitait à ce qu’elle avait trouvé dans certains dossiers informatiques de l’ARC, et rien n’indique qu’elle ait pris des mesures pour vérifier l’exactitude des renseignements figurant dans ces dossiers.
+[27] Les éléments suivants m’amènent à contester soit l’exactitude des renseignements contenus dans les imprimés d’ordinateur, soit l’aptitude de Mme Ng à interpréter ces renseignements.
+[28] Selon l’examen des imprimés d’ordinateur effectué par Mme Ng, l’ARC aurait reçu un appel d’une personne du nom de Shaun Hodgson concernant le numéro de compte TPS de Pethridge le 10 avril 2002. Le relevé de l’appel mentionne ce qui suit :
+[TRADUCTION]
+Le client déclare qu’il a vendu l’entreprise, mais qu’il désire garder le compte ouvert parce qu’il pourrait créer une nouvelle entreprise.
+[29] Il me semble que cet extrait pourrait bien renvoyer à un autre compte TPS, puisque, ailleurs dans l’imprimé, seul le nom d’Arlene Roth, administratrice chez Pethridge, figure personne‑ressource pour Pethridge. M. Hodgson n’est pas une personne‑ressource de l’entreprise, et son nom n’apparaît nulle part ailleurs dans les imprimés d’ordinateur. Par ailleurs, Pethridge n’a pas cessé ses activités en 2002 : elle est restée au service de l’appelante jusqu’au début de 2003.
+[30] Mme Ng a également déclaré qu’elle n’avait relevé aucun appel effectué par Mme Marsh dans les relevés téléphoniques du guichet d’affaires de l’ARC au sujet du compte TPS de Pethridge. Pourtant, le témoignage de Mme Marsh, comme quoi elle a appelé au début de 2005, n’a pas été contredit, et son appel aurait dû figurer dans les relevés dont Mme Ng a fait des imprimés en janvier 2007.
+[31] Même si les imprimés d’ordinateur produits en preuve étaient exacts, rien ne permet de penser que le Ministre avait des raisons de conclure que l’inscription de Pethridge n’était plus nécessaire après le 30 juin 2001, et qu’il avait le droit d’annuler rétroactivement l’inscription de cette dernière date. Les éléments de preuve indiquent que, en fait, Pethridge n’a pas cessé ses activités et a continué à percevoir de la TPS jusqu’en 2003 et qu’elle avait donc besoin de cette inscription aux fins de la Loi au moins jusqu'à cette date. L’ARC savait que Pethridge avait poursuivi ses activités après 2001, lorsque, en 2004, Mme Ng a procédé à l’examen de l’objection de l’appelante. On a donc des raisons de se demander comment l’intimée peut adopter la position que la désincription rétroactive présumée de Pethridge était raisonnable ou justifiée ou que le Ministre aurait pu être convaincu que l’inscription, au sens du paragraphe 242(1) de la Loi, n’était plus nécessaire après le 30 juin 2001.
+[32] L’autre question à trancher est celle qui consiste à savoir si tous les documents d’appui obtenus par l’appelante contenaient une description suffisante des services fournis par Pethridge (l’avocat de l’intimée a concédé que les renseignements exigibles pourraient figurer collectivement dans plus d’un document).
+[33] La définition de « pièce justificative » figurant dans le Règlement est la suivante :
+« Pièce justificative » Document qui contient les renseignements exigés à l'article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d'un système de recherche documentaire informatisé ou électronique ou d'une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu'il a effectuée et à l'égard de laquelle il y a une taxe payée ou payable.
+[34] La définition de « pièce justificative » n’est pas exhaustive, comme l’exprime l’adverbe « notamment » avant l’énumération des divers types de documents aux alinéas a) à h). Cependant, la mention, à l’alinéa h) de « tout autre document signé ou délivré en bonne et due forme par un inscrit » atteste que, pour être admissible, le document doit être signé par l’inscrit ou provenir de lui.
+[35] La feuille de calcul établie par les comptables de l’appelante pour enregistrer les ventes effectuées par Pethridge et les commissions versées ne constitue pas une pièce justificative au sens du Règlement, et les renseignements qui y figurent ne peuvent servir à déterminer si l’appelante disposait suffisamment de renseignements pour identifier chaque service fourni par Pethridge.
+[36] Par contre, j’estime que, en l’espèce, l’entente de services conclue entre Winalta et Pethridge constitue une pièce justificative. Même si l’appelante n’a pas explicitement fait valoir que Winalta était son représentant lorsque celle‑ci a conclu une entente avec Pethridge, je pense que c’est la seule conclusion logique que l’on peut tirer à partir des éléments de preuve. Winalta et Pethridge ont signé une entente de services le 1er août 2000, le lendemain du jour où Winalta a signé l’entente de participation. Selon l’entente de participation, l’appelante était seule responsable de la mise en marché des maisons de Westborough Lands. Winalta savait que l’entente de services avait trait à des questions relevant de la responsabilité de l’appelante. De plus, c’est celle‑ci qui a versé à Pethridge tous les paiements découlant de l’entente de services, conformément à ses obligations prévues dans l’entente de participation. Les paiements versés à Pethridge l’ont été aux taux prévus dans l’entente. Enfin, selon le témoignage de M. Walsh, l’appelante se considérait liée par les termes de l’entente. Dans l’ensemble, il est raisonnable de conclure que l’appelante a consenti à ce que Winalta la représente dans le cadre de l’entente conclue avec Pethridge et que cette entente touchait aux relations juridiques de l’appelante. La nature de la relation existant entre l’appelante et Winalta à cet égard relève de la définition de « mandat » figurant dans Bowstead and Reynolds on Agency (16th éd. 1999) :
+[TRADUCTION] […] le lien fiduciaire qui existe entre deux personnes, dont l’une consent expressément ou implicitement à ce que l’autre agisse en son nom dans le cadre de ses relations avec des tiers, et dont l’autre consent pareillement à jouer ce rôle.
+[37] Le fait que l’appelante ait pu ultérieurement décider de traiter directement avec Pethridge ne contredit pas le fait que Winalta ait tout d’abord été le représentant de l’appelante dans le cadre de la signature de l’entente de services.
+[38] L’entente de services est donc « un document signé ou délivré en bonne et due forme par un inscrit (Pethridge) pour une fourniture qu'il a effectuée et à l'égard de laquelle il y a une taxe payée ou payable », comme le prévoit l’alinéa h) de la définition de « pièce justificative » reproduite plus haut dans les présents motifs.
+[39] J’accepte également que la note de service adressée par Pethridge à l’appelante au début de septembre 2002 pour lui mentionner que la TPS est payable sur les commissions, ainsi que la note de service indiquant le numéro de TPS de Pethridge sont des pièces justificatives fournies par Pethridge à l’appelante concernant les services fournies par Pethridge.
+[40] Enfin, il est évident que les factures adressées par Pethridge à l’appelante sont également des pièces justificatives au sens du Règlement.
+[41] J’estime que les pièces justificatives considérées conjointement fournissent une description suffisante de chacun des services fournis par Pethridge à l’appelante. Ces documents indiquent que Pethridge a fourni des services de vente et de marketing à l’appelante au titre de la subdivision de Westborough Lands faisant l’objet de l’entente de services. Il est également clair que les services fournis par Pethridge avaient trait au marketing et à la vente d’unités faisant partie du projet. Cela, à mes yeux, constitue une description suffisante des services fournis par Pethridge.
+[42] Les autres factures comprennent des renseignements plus détaillés que ceux figurant dans la facture du 30 septembre 2002, et c’est pourquoi j’estime que, elles également, donnent une description suffisante des services fournis par Pethridge.
+[43] Pour ces motifs, l’appel est accueilli. Comme le montant en litige en l’espèce est supérieur à 7 000 $, je n’accorde pas de dépens.
+Signé à Ottawa (Canada), ce 19e jour de mars 2007.
+« Brent Paris »
+Juge
+Traduction certifiée conforme
+Claude Leclerc, LL.B., trad. a.
+RÉFÉRENCE : 2007TCC155
+NO DU DOSSIER DE LA COUR : 2006-476(GST)I
+INTITULÉ : Westborough Place Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : 2 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : 19 mars 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Gordon D. Beck
+Avocat de l’intimée :
+Chang Du
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Gordon D. Beck
+Cabinet : MacPherson Leslie & Tyerman, LLP
+Edmonton (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Canada)

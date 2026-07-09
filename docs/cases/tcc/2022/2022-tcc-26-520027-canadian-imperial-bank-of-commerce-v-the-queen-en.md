@@ -1,0 +1,314 @@
+---
+title: "Canadian Imperial Bank of Commerce v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520027/index.do"
+last_modified: "2022-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 26"
+citation2: ""
+neutral_citation: "2022 TCC 26"
+decision_date: "2022-01-25"
+language: "en"
+item_id: "520027"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4432
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:39:00.389000+00:00"
+cases_cited_count: 14
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ffd3444378cc5feafe01b92ae54968b7689697ba38dabb7b0a290d9169dee443"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Imperial Bank of Commerce v. The Queen
+
+- Citation: 2022 TCC 26
+- Decision date: 2022-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4432, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Imperial Bank of Commerce v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-01-25
+Neutral citation
+2022 TCC 26
+File numbers
+2019-3197(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-3197(GST)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard virtually on January 24, 2022 at Ottawa, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Al-Nawaz Nanji
+Alexander Cobb
+Counsel for the Respondent:
+Justine Malone
+Lindsay Tohn
+ORDER
+The Appellant’s motion is dismissed in accordance with the attached Reasons for Order. Costs shall be determined in the cause.
+Signed at Ottawa, Canada, this 25th day of January 2022.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2022 TCC 26
+Date: 20220125
+Docket: 2019-3197(GST)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+I. INTRODUCTION
+[1] Canadian Imperial Bank of Commerce (“CIBC” or the “Appellant”) and Loblaw Companies Limited (“Loblaw”) entered into two agreements, the Financial Services Agreement (the “FSA”) and the Loyalty Services Agreement (the “LSA”). The FSA and the LSA (collectively, the “PCF Agreement”) were assigned by Loblaw to its indirectly wholly‑owned subsidiary President’s Choice Bank (“PC Bank”). Initially, PC Bank did not charge CIBC GST on the consideration that it received for the supplies it made under the PCF Agreement. PC Bank believed that the supplies were exempt from GST on the basis that they were the supply of financial service under subsection 123(1) of Part IX of the Excise Tax Act [1] (the “ETA”). PC Bank was subsequently reassessed GST by the Minister of National Revenue (the “Minister”) for failure to collect and remit GST on the basis that the supplies were taxable in nature. While PC Bank appealed the Minister’s reassessments to this Court, it began to collect and remit GST on behalf of CIBC. Following PC Bank’s success in President’s Choice Bank v The Queen [2] (the “2009 Decision”), the definition of “financial service” in subsection 123(1) of the ETA was amended to add paragraphs (r.4) and (r.5). These new paragraphs were enacted with retroactive effect to December 17, 1990 and expanded the types of supplies that are excluded from the “financial service” definition.
+[2] CIBC applied for a refund of the GST that it paid on the basis that the supplies it received from PC Bank remained supplies of exempt financial services notwithstanding the expansion of the exclusions. CIBC’s rebate claims were denied by the Minister. In addition, the Minister assessed PC Bank in respect of certain periods on the basis that PC Bank failed to collect and remit some of the GST on the consideration that it received from CIBC. PC Bank appealed the Minister’s reassessments. PC Bank has two separate appeals regarding the Minister’s reassessments (the “PC Bank Appeals”). CIBC’s Appeal and the PC Bank Appeals will be heard together because the appeals raise a common issue: the characterization of a supply made by PC Bank to CIBC.
+[3] CIBC brought this motion at the outset of the hearing asking me to:
+a) allow its appeal on the basis that the substance of the supply was already determined in the 2009 Decision; or
+b) issue an order precluding the Respondent from introducing evidence inconsistent with the 2009 Decision regarding the substance of the supply; and
+c) award CIBC costs on this motion and the appeal.
+II. PRELIMINARY MATTER
+[4] During a litigation management conference, I agreed with the parties that the Appellant should bring its motion at the outset of this hearing which is scheduled for five days. I did so because if I rule in favour of the Appellant, this would dispense of the need for a hearing of evidence. On the other hand, if I dismiss the motion, the Appellant would know the case that it would have to address within the timeframe scheduled to hear this matter.
+[5] Both parties provided me with excellent written submissions prior to the hearing. While I have just released written reasons on why I have decided to dismiss the Appellant’s motion, I reserve the right to provide supplemental reasons either orally or in writing at the same time as or before I issue my final Judgment on the common question. Such additional reasons, if any, shall be considered as forming part of these reasons as if incorporated herein.
+III. POSITION OF THE PARTIES
+A. Appellant’s Position
+[6] The Appellant framed the issue to be decided as follows:
+. . . whether the supply to CIBC under the PCF Agreement, which was determined in the 2009 Decision to be an exempt supply of a financial service of arranging for the granting of credit or banking facilities, lost that exempt status, and became a taxable supply, by virtue of paragraph (r.4) or (r.5) of the Financial Service Definition.
+[7] The crux of the Appellant’s argument is that I must apply the earlier factual findings holus-bolus to determine the outcome of the issue common to both appeals. In this regard, the Appellant argues that the doctrine of res judicata or the doctrine of abuse of process applies to preclude a re-litigation of the nature, essence or substance of the supplies as previously determined by the Court. Specifically, the Appellant argues that it would be abusive to allow the character of the supplies to be determined through a hearing of the appeal that would allow for a new factual matrix to be determined by me after hearing full evidence on the issue. The Appellant alleges that nothing material has changed that affects the nature of the Appellant’s dealings with PC Bank. Therefore, the outcome of the appeal should be determined by reference to the factual findings made by this Court in the 2009 Decision. According to the Appellant, if this is done the appeal should be allowed.
+B. Respondent’s Position
+[8] The Respondent views the issue in the appeal more broadly. In short, the Respondent argues that the factual and legal framework of the appeal is different from the factual and legal framework of the 2009 Decision. The Respondent observes that the GST at issue here is in respect of different taxation years. According to the Respondent, in order for this Court to determine whether the Appellant is entitled to claim a rebate of the GST that it has paid, this Court must examine the PCF Agreement as amended by the parties subsequent to the tax periods addressed in the 2009 Decision (the “PCF Amended Agreement”). In addition, this Court must examine the circumstances surrounding the implementation of the PCF Amended Agreements and the mechanics of the business in the taxation periods at issue here. The motion record shows that PC Bank (and previously Loblaw) and CIBC have entered into six amending agreements subsequent to the taxation years addressed in the 2009 Decision. The Respondent submits that paragraphs (r.4) and (r.5) were added to the definition of “financial service” in subsection 123(1) of the ETA and are applicable for the supplies now under review. These provisions exclude from paragraph (l) of the definition of “financial service” in subsection 123(1) supplies that otherwise may have fallen within the scope of that provision prior to the legislative amendments. That issue was not adjudicated by this Court in the 2009 Decision.
+IV. RES JUDICATA / ABUSE OF PROCESS
+A. The Doctrine of Res Judicata
+[9] Res judicata is a common law doctrine and fundamentally a rule of evidence. Consequently, if the requirements for res judicata are satisfied, the parties cannot proffer any evidence with respect to the issues that were decided in an earlier proceeding. In C.U.P.E., Local 1394 v Extendicare Health Services Inc., [3] Justice Doherty of the Ontario Court of Appeal made the following observations about the doctrine of res judicata:
+. . . Looked at from the vantage point of the successful litigant in the earlier proceedings, the doctrine operates to admit into evidence at the second proceeding, the judicial determination of the relevant issue at the earlier proceeding. Not only is that earlier determination rendered admissible, it is also declared to be conclusive with respect to that issue. . . [4]
+[10] That said, courts have suggested that res judicata is more substantial than a formal rule of evidence because it goes directly to the parties’ ability to present substantial arguments. [5] Accordingly, the court’s application of the doctrine must be guided by the underlying policy principles that res judicata is concerned with.
+[11] The doctrine of res judicata refers to a variety of legal concepts developed entirely by courts that have common principles. [6] In The Doctrine of Res Judicata, Bower and Handley define the two policy considerations that support the doctrine of res judicata as the following: “. . . the interest of the community in the termination of disputes and the finality and conclusiveness of judicial decisions; and the interest of an individual in being protected from repeated suits and prosecutions for the same cause.” [7]
+[12] Although res judicata has undergone significant development, the doctrine is primarily concerned with the attempt of courts to achieve finality and predictability in litigation. [8]
+[13] In Canada, the doctrine of res judicata takes two forms: cause of action estoppel and issue estoppel. [9] I will discuss each form later.
+[14] The abuse of process doctrine relates to res judicata, in that both doctrines share the same concerns and underlying principles. However, the abuse of process doctrine is more flexible and courts have of a higher degree of discretion when applying it.
+Cause of Action Estoppel
+[15] Cause of action estoppel bars re-litigation of an action by either party against the other on grounds that were not raised when the matter was decided in an earlier proceeding. [10] This principle is well developed in common law.
+[16] Vice-Chancellor Wigram’s statement in Henderson v Henderson [11] is generally cited as a foundational authority on cause of action estoppel:
+In trying this question I believe I state the rule of the Court correctly when I say that, where a given matter becomes the subject of litigation in, and of adjudication by, a Court of competent jurisdiction, the Court requires the parties to that litigation to bring forward their whole case, and will not (except under special circumstances) permit the same parties to open the same subject of litigation in respect of matter which might have been brought forward as part of the subject in contest, but which was not brought forward, only because they have, from negligence, inadvertence, or even accident, omitted part of their case. The plea of res judicata applies, except in special cases, not only to points upon which the Court was actually required by the parties to form an opinion and pronounce a judgment, but to every point which properly belonged to the subject of litigation, and which the parties, exercising reasonable diligence, might have brought forward at the time. [12]
+[Emphasis added.]
+[17] The Supreme Court of Canada’s decision in Doering v Grandview (Town) [13] is the leading case on cause of action estoppel. In Bjarnarson v Manitoba, [14] the Manitoba Court of Queen’s Bench summarized the criteria identified in Doering as follows:
+1. There must be a final decision of a court of competent jurisdiction in the prior action;
+2. The parties to the subsequent litigation must have been parties to or in privy with the parties to the prior action (mutuality);
+3. The cause of action in the prior action must not be separate and distinct, and
+4. The basis of the cause of action and the subsequent action was argued or could have been argued in the prior action if the parties had exercised reasonable diligence. [15]
+[18] In McFadyen v The Queen, [16] Chief Justice Rip (as he then was) made the following observations in regard to the application of the doctrine of cause of action estoppel in the context of tax litigation: “the appeal of the same assessment of tax liability for the same taxation years constitutes the same cause of action”. [17]
+[19] Accordingly, cause of action estoppel does not apply to an appeal of a tax assessment arising from two different taxation years even if the facts, parties and issues are substantially the same. For this reason, cause of action estoppel does not apply in the present case.
+Issue Estoppel
+[20] Issue estoppel bars re-litigation of an issue that was decided in a previous proceeding between the same parties “. . . notwithstanding that the cause of action is different”. [18] The Supreme Court of Canada’s decision Danyluk v Ainsworth Technologies Inc. [19] is the leading case on issue estoppel.
+[21] In Angle v Minister of National Revenue, [20] the Supreme Court of Canada, distinguished issue estoppel from cause of action estoppel as follows:
+The second species of estoppel per rem judicatam is known as “issue estoppel”, a phrase coined by Higgins J. of the High Court of Australia in Hoystead [sic] v. Federal Commissioner of Taxation, at p. 561:
+I fully recognize the distinction between the doctrine of res judicata where another action is brought for the same cause of action as has been the subject of previous adjudication, and the doctrine of estoppel where, the cause of action being different, some point or issue of fact has already been decided (I may call it "issue‑estoppel"). [21]
+[22] To apply issue estoppel, three requirements must be met. [22] The Supreme Court in Angle adopted the following three requirements per Lord Guest in Carl Zeiss Stiftung v Rayner & Keeler Ltd., [23] who “defined the requirements of issue estoppel as”:
+. . . (1) that the same question has been decided; (2) that the judicial decision which is said to create the estoppel was final; and, (3) that the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies. . . [24]
+[23] Typically, when a party pleads issue estoppel, the first requirement is the most difficult to satisfy. To satisfy the first requirement, it is not sufficient that the question was incidental in the previous proceeding. [25] As Angle instructs us, “[t]he question out of which the estoppel is said to arise must have been “fundamental to the decision arrived at in the earlier proceedings.” [26] [Emphasis added.]
+[24] The second requirement, the finality of the decision, is usually satisfied when all reviews or appeals pertaining to a decision have been exhausted. In Régie des rentes du Québec v Canada Bread Company Ltd., [27] the Supreme Court of Canada supported this definition of the finality of a decision, explaining that “only cases in which judgments have definitively determined the parties’ rights and obligations are no longer pending [and are final].” [28] Therefore, in tax matters, a decision from the Tax Court is final at the expiration of the deadline to file an appeal to the Federal Court of Appeal and, if applicable, at the expiration of the deadline to file an appeal to the Supreme Court of Canada. A refusal from the Supreme Court to grant leave to appeal would characterize the Federal Court of Appeal’s judgment as final.
+[25] The third requirement, mutuality of the parties, was confirmed as an essential part of the test in determining whether issue estoppel applies. In Toronto (City) v Canadian Union of Public Employees, Local 79, [29] the Supreme Court of Canada stated:
+[25] . . . In my view, however, appropriate guidance is available in our law without the modification to the mutuality requirement that this case would necessitate.
+. . .
+[29] It is clear from the above that American non‑mutual issue estoppel is not a mechanical, self‑applying rule as evidenced by the discretionary elements which may militate against granting the estoppel. What emerges from the American experience with the abandonment of mutuality is a twofold concern: (1) the application of the estoppel must be sufficiently principled and predictable to promote efficiency; and (2) it must contain sufficient flexibility to prevent unfairness. . . [30]
+[Emphasis added.]
+[26] The Supreme Court of Canada rejected counsel’s plea to abolish the mutuality requirement.
+[27] Following Toronto (City), it is clear that failing to meet the mutuality requirement precludes the application of issue estoppel.
+[28] Once the three requirements are satisfied, the court must ask whether issue estoppel ought to be applied. [31] The Supreme Court of Canada has ruled that courts possess a degree of discretion in applying issue estoppel, whereby they must “balance the public interest in the finality of litigation with the public interest in ensuring that justice is done on the facts of a particular case.” [32] Although the court’s discretion is limited in the context of a court proceeding, as an equitable doctrine, “exercise of a judicial discretion [is inevitable] to achieve fairness.” [33] Essentially, the court’s exercise of discretion either to apply or not to apply issue estoppel with respect to a given case, once all three formal requirements are satisfied, must be guided by the underlying policy concerns of res judicata and good sense.
+Abuse of Process
+[29] The leading case for the application of the abuse of process doctrine is Toronto (City). The abuse of process doctrine is related to both cause of action estoppel and issue estoppel in that all three doctrines are concerned with similar policy principles. However, abuse of process is characterized by its flexibility in comparison to cause of action estoppel and issue estoppel, as it is unencumbered by specific requirements. [34] In this light, it has been observed that abuse of process is “meant to do justice and not be an instrument for injustice”. [35]
+[30] Lange summarizes the Supreme Court of Canada’s analysis in Toronto (City) regarding the abuse of process doctrine as follows:
+1. The doctrine is not encumbered by the specific requirements of res judicata.
+2. The proper focus for the application of the doctrine is the integrity of the judicial decision-making process.
+3. Relitigation may be necessary to enhance the credibility and effectiveness of judicial decision-making when, for example, there are special circumstances.
+4. The interests of the parties, who may be twice vexed by relitigation, are not a decisive factor.
+5. The motive of a party in relitigating a previous court decision for a purpose other than undermining the validity of the decision is of little import in the application of the doctrine.
+6. The status of a party, as a plaintiff of defendant, in the relitigation proceeding is not a relevant factor.
+7. The discretionary factors that are considered in the operation of the doctrine of issue estoppel are equally applicable to the doctrine of abuse of process by relitigation. [36]
+[31] Citing Justice McLachlin (as she then was) in R v Scott, [37] the Supreme Court of Canada states in Toronto (City) that “abuse of process may be established where: (1) the proceedings are oppressive or vexatious; and, (2) violate the fundamental principles of justice underlying the community’s sense of fair play and decency.” [38]
+[32] In Golden v The Queen, [39] Justice Boyle distinguished the abuse of process doctrine from issue estoppel as follows:
+[28] The principal difference between issue estoppel and abuse of process to prevent relitigation is with respect to the question of mutuality of parties and privity. Abuse of process does not require that the preconditions of issue estoppel be met. Abuse of process can therefore be applied when the parties are not the same but it would nonetheless be inappropriate to allow litigation on the same question to proceed in order to preserve the courts’ integrity.
+[29] Abuse of process is also a doctrine that should only be applied in the Court’s discretion and requires a judicial balancing with a view to deciding a question of fairness. However, it differs somewhat from a consideration of the possible application of issue estoppel in that the consideration is focused on preserving the integrity of the adjudicative process more so than on the status, motive or rights of the parties. [40]
+[Emphasis added.]
+V. ANALYSIS
+Application of the Preconditions
+[33] I will first deal with the second and third requirements of the doctrine of issue estoppel because, generally speaking, they are preconditions that are the easiest to satisfy. The third requirement of issue estoppel, mutuality of the parties and their privies, in my opinion is satisfied. Although CIBC in the present appeal is not the same appellant as in the 2009 Decision, I am satisfied that CIBC is a privy of PC Bank. PC Bank was reassessed for failure to collect GST from the Appellant and remit it on its behalf. The finality condition is not disputed between the parties.
+Are the Preconditions of Issue Estoppel or Abuse of Process Satisfied?
+[34] The voluminous body of case law on the “same question” precondition illustrates that the devil is in the details regarding whether or not this requirement is satisfied. The exercise that I will now undertake requires me to examine the question of mixed fact and law adjudicated upon by this Court in the 2009 Decision and determine whether it is the same question of mixed fact and law set down before me.
+[35] For the reasons that follow, I agree with the Respondent’s submission that this is not the case.
+[36] It is widely acknowledged by the tax bar that the assessments at issue in the present matter originate from legislative action undertaken by Parliament to overturn the precedent established by the 2009 Decision and other decisions of this Court viewed unfavourably by Parliament. [41]
+[37] The language used in paragraph (l) of the definition of a “financial service” in subsection 123(1) of the ETA before and after the amendments is key to understanding the purpose of the amendments. Before the amendments the relevant part of paragraph (l) read as follows:
+(l) the agreeing to provide or the arranging for, a service referred to in any of paragraphs (a) to (l)
+[38] The term “arranging for” was construed expansively in a number of court decisions. [42] In some cases, a supplier to a financial services provider could be considered as arranging for a “financial service” without playing a direct intermediary role in the delivering of a financial service to a client of a financial institution. [43] For example, a supplier to a financial institution that performs a credit check or promotes the sale of a financial service or participates in its design might fall within the ambit of that language. [44] Parliament was unhappy with this expansive interpretation of the provision. This is apparent from the changes made to paragraph (l) of the definition of “financial services” and the additions of the new exclusions provided for, inter alia, in new paragraphs (r.4) and (r.5).
+[39] The amendment to the concept of “arranging for a financial service” is provided for in the new text of paragraph (l), which now reads as follows:
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (l) and
+(ii) not referred to in any of paragraphs (n) to (t).
+[40] Before the amendments, particular services described in the exclusions provided for in paragraphs (n) through (t) were not excluded under paragraph (l) although surprisingly these exclusions applied to the other types of financial services included in the definition.
+[41] The new exclusions to paragraph (l) which are relevant to the outcome of the common issue read as follows:
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+(r.5) property (other than a financial instrument or prescribed property) that is delivered or made available to a person in conjunction with the rendering by the person of a service referred to in any of paragraphs (a) to (i) and (l).
+[42] In the 2009 Decision, this Court did not have to consider the scope of application of new paragraph (r.4) which excludes, inter alia, from the ambit of paragraph (l) services that are preparatory to the provision of or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l) of the “financial service” definition in subsection 123(1) of the ETA.
+[43] Equally, this Court did not have to determine whether for the purpose of new paragraph (r.5) the supplies made by PC Bank in the period now under review constituted the supply of property that is delivered or made available to CIBC in conjunction with the rendering by CIBC of a service referred to in any of paragraphs 123(1)(a) to (i) and (l).
+[44] It is clear from the Respondent’s Reply to the Notice of Appeal that the Respondent’s position is that the PC Bank supplies are excluded, by virtue of paragraphs (r.4) and or (r.5), from the definition of “financial service” in subsection 123(1) of the ETA. [45]
+[45] The Respondent states that these two exclusions have broad implications for the determination of this appeal. The Respondent says that paragraph (l) as previously applied by this Court in the 2009 Decision has been narrowed.
+[46] In this context, according to the Respondent, new factual findings must be made to determine whether or not the exclusions apply. I agree with the Respondent’s submissions in this regard.
+[47] It is widely recognized that Parliament has the authority to adopt retroactive amendments to tax law to counter the effects of a court decision that Parliament wishes to nullify as a precedent.
+[48] It is clear from the foregoing that Parliament intended to narrow the scope of application of paragraph (l) of the “financial service” definition in subsection 123(1). Once it is established that an amendment has been validly adopted, the court is then required to determine how a retroactive amendment affects the situation of parties that could have been advantaged by an earlier decision based on a more favourable version of the law.
+[49] Therefore, I agree with the Respondent’s submission that the legal norm that I am tasked to apply in the present appeal is different than that applied by this Court in 2009 Decision. The provisions relied on by the Court in the 2009 Decision appears to have been narrowed by virtue of these new exclusions. I fail to see how the doctrine of res judicata can apply when the provision of the law previously considered in an earlier decision no longer applies.
+[50] I will now deal with the factual findings that I am called upon to make in the present appeal and compare my task in this regard to the task undertaken by the Court in 2009 Decision.
+[51] In the present appeal, from a factual standpoint, I am tasked with determining the nature of the supply that PC Bank provided CIBC during the periods at issue for the fees that it earned.
+[52] On this point, the Appellant says that the Respondent cannot re-litigate the substance, nature, or essence of the supplies at issue in the present appeal because the Respondent acknowledges that the amendments to the key agreements did not change the nature of the supplies for the purposes of paragraphs (l),(r.4) and (r.5) of the definition of “financial service” in subsection 123(1). The Appellant argues that the crux of the Respondent’s argument is that the factual findings made by the Court in the 2009 Decision are simply wrong. In addition, the Appellant argues that the Respondent admitted on discovery that the nature of the supplies determined by this Court in the 2009 Decision is the same as the nature of the supplies made by PC Bank to CIBC in the present matter.
+[53] In my opinion, the Appellant’s formulation of the Respondent’s position is not accurate.
+[54] In discovery, contrary to the Appellant’s allegation, the Respondent said the following:
+242. BY MR. NANJI: Q. In terms of the supply, are we in agreement that the supply is under the FSA and the LSA?
+MS. MALONE: There is a subsequent agreement in 2014, there is an additional supply – well, the supply is under the FSA, the LSA, and all amending agreements. It’s not just under those two supplies [sic], there are many amending agreements that sometimes added to or removed from elements of the supply. [46]
+[Emphasis added.]
+[55] The transcript for discovery shows that the Appellant took the position that the amending agreements are relevant to determining the nature of the supply. Its nominee states:
+203. Q. If you look at Tab 1 again, the FSA, page 11, at paragraph (d)(i) it says: “CIBC shall, in its sole discretion, after consultation with Loblaw determine all attributes of PCF Products which are provided by any member of the CIBC Group of Companies including contractual terms, fees, service charges, prices and interest rates.” So that’s what I conclude from the agreement, that it was ultimately CIBC’s responsibility and ultimate decision. Are you saying that the agreement is incorrect?
+A. No, I’m saying that page 11, page 11 of – page 11 of a 51-page agreement that has – that you’ve read one sentence and that it is completely unfair and unreasonable to accept one sentence and to take and conclude that that in and of itself is the agreement between Loblaws and CIBC. That is an unfair characterization and, in fact, the Tax Court of Canada did not feel that way, that that’s the only sentence that they should look at in order to make a determination on the tax status of the arranging for service provided by PC Bank and that there are multiple agreements on Tabs 2, 3, 4, 5, 6, 7, 8, 9 that one needs to consider for the commercial relationship between the two parties that has evolved over the period of time from – I go back – the first day of November 1997, all the way up until October 8, 2014. [47]
+[Emphasis and double emphasis added.]
+[56] The motion record shows that the Respondent’s position is that the amended FSA and the amended LSA are relevant to determining the nature of the supply in the present appeal. These amended agreements were not considered by this Court in the 2009 Decision.
+[57] In reading the hearing transcript and the 2009 Decision, I was struck by the presentation of a considerable amount of parol evidence presented by PC Bank to establish the context surrounding the implementation of the PCF Agreement that was in effect for the periods addressed in the 2009 Decision. Much of the viva voce evidence dealt with how the key agreements were implemented in practice. The Respondent objected to this parol evidence on the basis that parol evidence should not be allowed to interpret agreements. PC Bank’s counsel opposed the objection on the grounds that the witness from PC Bank was called to explain how the agreements were implemented from an operational and practical standpoint. This is what counsel for PC Bank said in opposition to the objection:
+“My friend has just told you that the contract was the basis of the assessment, which is not entirely correct, but we concede that the assessment was based partly on the reading of the contract. What is happening here is . . . that the parol evidence rule does not require this taxpayer not to speak to the surrounding circumstances and to explain the agreement, even though, I will note for the record, I am not asking him to interpret the contract.” [48]
+“We are here to explain some of the mechanics of this business as it is described in the contract.” [49]
+[58] PC Bank’s counsel’s representations on this point are shared by D’Arcy Schieman in “Advanced Commodity Tax Issues for the Financial Services Sector” who quoted from the Canada Revenue’s Agency’s GST/HST Policy Statement P- 077R2 as follows:
+Moreover, when examining an agreement, it should not be viewed in isolation. Rather, it must be examined in the context of other factors such as the intent of the parties, the circumstances surrounding the transaction, and the supplier’s usual business practices. [50]
+[59] In the 2009 Decision, this Court sided with the PC Bank’s counsel and overruled the objection.
+[60] At paragraphs 27 to 29 of its written submissions, the Appellant alleges that the Respondent has failed to plead any new or additional facts in its Reply that are in any way inconsistent with the facts of the 2009 Decision. In my opinion, this allegation is inaccurate. For example, at paragraph 13(r) of its Reply, the Respondent alleges as part of the Minister’s assumptions of fact that “PCB was to provide access (…) to its customer base and provide a channel of distribution through its stores’ facilities to CIBC.”
+[61] In summary, the factual context in the present appeal is different than that considered by this Court in the 2009 Decision.
+[62] Considering all of this, I am of the view that the question of mixed fact and law, which I am tasked to decide in the present matter is different than the question of mixed fact and law adjudicated upon by this Court in the 2009 Decision. On the basis of all of this, I am of the opinion that the so‑called “same question” requirement is not satisfied. As a result, the doctrine of issue estoppel does not apply.
+[63] The Appellant, in the alternative, contends that the doctrine of abuse of process applies to the present appeal. As indicated by Justice Boyle in Golden, the only difference between abuse of process and issue estoppel is the lack of the mutuality of parties requirement. For the reasons noted earlier, I believe that the so‑called “same question” condition is not satisfied.
+[64] I am not surprised by this result. I believe that the doctrines of issue estoppel and abuse of process will rarely find application with respect to transactions or arrangements carried out in different taxation years. This is particularly true when a provision of the law has been amended in an attempt to nullify the impact of a precedent which the government has taken issue with. Income and value‑added taxes are imposed in respect of a tax period. The circumstances surrounding the parties’ agreement often change when key agreements have been amended.
+[65] As a final observation, in the event I am wrong on the above, I believe that it is in the public’s interest that I exercise my residual discretion not to give effect to the doctrines relied on by the Appellant assuming that they otherwise apply. According to the Supreme Court of Canada in Danyluk, if a moving party establishes the preconditions to the operation of issue estoppel, the court “must still determine, whether as a matter of discretion, issue estoppel ought to be applied.” [51] Based on the principles stated in Danyluk, the Court has discretion to refuse the application of issue estoppel, particularly where its application may give rise to an injustice, and “particularly in relation to allowing the parties to be heard.” [52] The determination of whether or not the application of issue estoppel in the particular case would work an injustice, must take into account the entirety of the circumstances of the particular case. [53]
+[66] In this case, there are competing public interest that must be weighed. On the one hand the finality of litigation is in the public interest. On the other hand it is in the public interest that the Court respect Parliament’s authority to enact retroactive legislation. I do not believe it is in the public interest that I decide on an issue without hearing evidence that is relevant to the determination as to whether or not the exclusions apply. While some may view retroactive legislation as being manifestly unfair, it is not the court’s role to limit Parliament’s legislative authority to adopt retroactive legislation that is validly enacted. [54]
+[67] In the instant case, at best, we are left to speculate on what Justice Lamarre would have decided if she had been tasked to consider the scope of application of the new provisions. The judgment that she has rendered now hangs by a thread because of the new financial services definition. This is hardly a case where the principle of finality requires me to give effect to the issue estoppel and/or abuse of process doctrines.
+[68] Considering all of the above, this Court is not bound to apply the factual findings of this Court in the 2009 Decision, to determine the outcome of the underlying appeals.
+[69] Therefore, the Appellant’s motion is dismissed with costs to be determined in the cause. Both parties are now free to present their evidence that is admissible with respect to the determination of the common issue.
+Signed at Ottawa, Canada, this 25th day of January 2022.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2022 TCC 26
+COURT FILE NO.:
+2019-3197(GST)G
+STYLE OF CAUSE:
+CANADIAN IMPERIAL BANK OF COMMERCE v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+January 24, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+January 25, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Al-Nawaz Nanji
+Alexander Cobb
+Counsel for the Respondent:
+Justine Malone
+Lindsay Tohn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Firm:
+Osler, Hoskin & Harcourt LLP
+100 King Street West
+1 First Canadian Place
+Suite 6200, P.O. Box 50
+Toronto, Ontario M5X 1B8
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excise Tax Act, R.S.C. 1985, c E-15.
+[2] 2009 TCC 170.
+[3] 1993 CarswellOnt 887 (Ont. C.A.) [C.U.P.E. Local 1394].
+[4] Ibid at para 60.
+[5] Donald J. Lange, The Doctrine of Res Judicata in Canada, 5th ed (Markham: LexisNexis Canada Inc., 2021), ch 1 at §4 (Lexis e-book) [Lange].
+[6] Emms v Canada (Deputy Minister of Indian Affairs and Northern Development), [1979] 2 SCR 1148 at p. 1160.
+[7] Spender Bower & K. R. Handley, Spencer Bower and Handley: Res Judicata, 5th ed (London: LexisNexis, 2019) at para 1.10 [Handley].
+[8] Ibid at para 1.11.
+[9] Lange, supra note 5, ch 1 at §1.
+[10] Handley, supra note 7 at para 7.03.
+[11] (1843) 3 Hare 100 at 319, 67 ER 313 [Henderson].
+[12] Ibid.
+[13] [1976] 2 SCR 621 [Doering].
+[14] 38 DLR (4th) 32 (affirmed by the Manitoba Court of Appeal in Bjarnarson v Manitoba, 45 DLR (4th) 766) [Bjarnarson].
+[15] Ibid at 3-4.
+[16] 2008 TCC 441.
+[17] Ibid at para 27 (emphasis added).
+[18] David Jacyk, “Res Judicata and Issue Estoppel: The Reduction of Recycling and Reusing in Tax Cases” in Tax Dispute Resolution, Compliance, and Administration Conference Report (Canadian Tax Foundation, 2012) 3:1 at 3:6.
+[19] 2001 SCC 44, [2001] 2 SCR 460 [Danyluk].
+[20] [1975] 2 SCR 248 [Angle].
+[21] Ibid at 254.
+[22] Ibid.
+[23] Carl Zeiss Stiftung v Rayner & Keeler Ltd. (No.2), [1967] 1 AC 853 at 935 [Carl Zeiss].
+[24] Angle, supra note 20 at 254. See also: Carl Zeiss, ibid at 935.
+[25] Angle, supra note 20 at 255.
+[26] Ibid at 254 (per Lord Shaw in Hoysted v Commissioner of Taxation).
+[27] 2013 SCC 46 [Régie des rentes].
+[28] Ibid at para 32.
+[29] 2003 SCC 63 [Toronto (City)].
+[30] Ibid at paras 25, 29, 32.
+[31] Danyluk, supra note 19 at para 33.
+[32] Ibid.
+[33] Ibid at paras 62–63.
+[34] Behn v Moulton Contracting Ltd., 2013 SCC 26 at para 40 [Behn].
+[35] Lange, supra note 5, ch 4 at §2 (quoting from Engels v Merit Insurance Brokers Inc., 84 OR (3d) 647, [2007] OJ No 807 (SCJ) at para 38).
+[36] Lange, supra note 5, ch 4 at §2.
+[37] R v Scott, [1990] 3 SCR at 979.
+[38] Toronto (City), supra note 29 at para 35.
+[39] 2008 TCC 173 [Golden].
+[40] Ibid at paras 28–30.
+[41] See Danny Cisterna, “Financial Services, GST/HST Issues–What A Year It Has Been!” Report of Proceedings of Sixty-Second Tax Conference, 2010 Conference Report (Toronto: Canadian Tax Foundation, 2011) 12.1–59 at 12.1–59; D’Arcy Schieman, “Advanced Commodity Tax Issues for the Financial Services Sector,” Report of Proceedings of Sixty-First Tax Conference, 2009 Conference Report (Toronto: Canadian Tax Foundation, 2010), 27:1–18 [Schieman].
+[42] See Canadian Medical Protective Assn v R, 2009 FCA 115 at para 56, 63-64 (The Federal Court of Appeal found that the services performed by investment managers was to “cause to occur a transfer of ownership … of a financial instrument” and fell within paragraph 123(1)(d) and (l) of the Act. The Federal Court of Appeal noted: “The skill shown in the pick, i.e., the research necessary for the preparation of the buying or selling order, is the core of the investment managers’ activity and the raison d’être of their being hired. The quality of the pick is the trademark of their profession”).
+[43] See Skylink Voyages Inc. v Canada 1999 CarswellNat 2983, 1999 CarswellNat 1256, [1999] G.S.T.C. 119 (Eng.), [1999] G.S.T.C. 43 (Fr.), [1999] T.C.J. No. 159, 2000 G.T.C. 732 (Eng.), 99 G.T.C. 3096 (Fr.) (The taxpayer operated a wholesale travel agency, essentially acting as an intermediary between airlines and retail travel agencies (The Court found that the collection services provided to the retail agencies by the taxpayer constituted financial services, which were exempt supplies).
+[44] See Promotions DND Inc c R, 2006 TCC 63 at paras 12-13, 36-37 (The Court found that the taxpayer was an intermediary between the financial institution and the purchaser in the supply of a financial service. The taxpayer’s business was promoting credit cards in public spaces such as shopping centres, fairs and exhibition sites. The taxpayer’s employees would revise the applications and send them to the credit card company).
+[45] See Respondent Reply to the Amended Notice of Appeal (dated November 22, 2019) at paras 19–21.
+[46] Respondent’s Written Submissions, Res Judicata and Abuse of Process (dated April 13, 2021), Tab 1 at para 16 [Respondent’s Submissions].
+[47] Respondent’s Motion Record, Res Judicata and Abuse of Process [Respondent’s Motion Record], Tab A at 37–38.
+[48] Appellant’s Motion Record, Moving Party on Issue Estoppel/Abuse of Process Motion [Appellant’s Motion Record], Tab C at 111, Transcription of the Hearing from the 2009 Decision at 41, lines 10–22.
+[49] Appellant’s Motion Record, Tab C at 112, Transcription of the Hearing from the 2009 Decision at 42, lines 16–19.
+[50] Schieman, supra note 41 at 27:5.
+[51] Danyluk, supra note 19 at para 33 (emphasis added).
+[52] Ibid.
+[53] Ibid.
+[54] The Appellant filed a supplemental book of authorities containing six cases that the Appellant is relying on in urging me not to exercise my residual discretion in this matter. For the record, I point out that none of these cases deal with the impact of a retroactive ??? enacted by Parliament in circumstances similar to those described above. The cases are: Canada v. Costco Wholesale Canada Ltd., 2012 FCA 160; General Motors of Canada Ltd. v. Naken, [1983] 1 S.C.R. 72; Pharmascience Inc. v. Canada (Health), 2007 FCA 140; Procter & Gamble Pharmaceuticals Canada, Inc. v. Canada (Minister of Health), [2003] F.C.J. No. 1805 (FCA); Sanofi-Aventis Canada Inc. v. Pharmacience Inc., 2007 FC 1057; aff’d 2008 FCA 213; Subramaniam v. Canada (Citizenship and Immigration), 2020 FCAC 202.

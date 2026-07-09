@@ -1,0 +1,284 @@
+---
+title: "Filiatrault v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301442/index.do"
+last_modified: "2017-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 232"
+citation2: ""
+neutral_citation: "2017 TCC 232"
+decision_date: "2017-11-22"
+language: "en"
+item_id: "301442"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7782
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:06:22.837000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "296d0397bd46ba7bc9a350daf4c99f99b88af3c6e6aefe74d2c6537fa2e4cb23"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Filiatrault v. The Queen
+
+- Citation: 2017 TCC 232
+- Decision date: 2017-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7782, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Filiatrault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-22
+Neutral citation
+2017 TCC 232
+File numbers
+2016-2566(GST)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-2566(GST)I
+Between:
+MARC FILIATRAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 20, 2017, at Montréal, Quebec.
+Before: The Honourable Mr. Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant and
+The Appellant:
+Anne-Marie Veilleux and
+Marc Filiatrault (The Appellant)
+Counsel for the Respondent:
+Christian Lemay
+JUDGMENT
+The appeals of the assessments made under the Excise Tax Act dated June 5, 2015, for the period from February 1, 2013, to December 31, 2013, and dated May 27, 2015, for the period from January 1, 2014 to December 31, 2014, are allowed to vacate the penalties but the assessment stands.
+Signed at Ottawa, Canada, this 22nd day of November, 2017.
+“Guy Smith”
+Smith J.
+Citation: 2017 TCC 232
+Date: 20171122
+Docket: 2016-2566(GST)I
+Between:
+MARC FILIATRAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+INTRODUCTION [1] Marc Filiatrault, the appellant in this proceeding, is appealing a decision by the Minister of National Revenue (the “Minister”) under the Excise Tax Act, R.S.C., 1985, c. E-15 (the “ETA” or “Act”) dated March 24, 2016, that confirms the notices of assessment and adjusts the amount of his net tax, plus interest and penalties for failure to file.
+[2] The notices of assessment were established on June 5, 2015, for the period from February 1, 2013 to December 31, 2013, and on May 27, 2015, for the period from January 1, 2014 to December 31, 2014, (“the period in question”).
+[3] The ETA provides that certain health care services are exempt, i.e. that the Goods and Services Tax (“GST”) does not have to be collected. The services that benefit from this particular treatment are set out in Part II of Schedule V of the ETA. Therefore, any services not mentioned there are excluded and therefore subject to the GST.
+[4] The Minister alleges that the appellant failed to collect and remit the GST when he was required to do so, since psychotherapy services rendered by an orientation counsellor are taxable supplies and are therefore not exempted under the ETA.
+[5] With regard to the interest and penalties, the Minister submits that the appellant did not demonstrate that he exercised due diligence to discharge the amounts imposed on him pursuant to section 280 of the ETA.
+THE ISSUES [6] The issues are the following:
+i) Could the Court find that the services offered by the appellant are psychotherapy services?
+ii) Are these services “a qualifying health care supply” within the meaning of the ETA and, if so, does the appellant render “psychological services” as a “practitioner” within the meaning of the ETA?
+iii) Was the Minister correct to impose penalties for the failure to file a GST return pursuant to section 280 of the ETA?
+SUMMARY OF THE FACTS [7] The appellant has been an orientation counsellor since 1985.
+[8] In 1989, he decided to reorient his career and began training to become a psychotherapist. In 1990, he began to work in a psychiatric hospital as a counsellor in orientation and rehabilitation. In 1995, he was accredited by his professional order to practice psychotherapy. In 2012, a psychotherapist’s permit was issued to him by the Ordre des psychologues du Québec. Since then, according to his testimony, he no longer offers any services as an orientation and rehabilitation counsellor because he essentially only offers psychotherapy services in private practice.
+[9] When he was accredited by his professional order in 1995, psychotherapy was not a professional activity that was regulated at the provincial level. However, in 2012, the province of Quebec amended the Professional Code, RSQ, c C-26 (the “Code”) and, following these amendments, the Ordre des psychologues du Québec had the power to issue psychotherapist’s permits. The appellant’s competence was recognized by this Ordre and a psychotherapist’s permit was issued to him on September 26, 2012.
+[10] The Code states that psychologists and physicians have the capacity to practise psychotherapy as well as, since 2012, members of the Ordre professionnel des conseillers et conseillères d’orientation, and psychotherapist permit holders, among others, as set out in section 187.1 of the Code.
+[11] In his testimony, the appellant states that his patients are referred to him by physicians or colleagues in the health care network, for treatment of various symptoms, through psychotherapy services. Indeed, the appellant developed a particular expertise in the treatment of psychotic disorders, in the course of his experience in a hospital setting at the Institut universitaire en santé mentale Louis H. Lafontaine.
+[12] On cross-examination, the appellant acknowledged that he also had training as a somatic instructor, which is an educational approach to movement, similar to practising yoga. He tried to develop a practice in this field, but was not very successful. During the period from 2014 to 2015, he had only a few clients who solicited his services in that field. According to his testimony, he indeed included the amounts received for those services in his income tax return.
+[13] According to the appellant, the parties and various professionals in his field that were aware he had a permit from the Ordre des psychologues du Québec, led him to believe that psychotherapy was a service exempt from the GST.
+[14] Indeed, in 2013, he questioned his accountant on the subject of collecting GST, and she told him that he was not required to collect the tax given that his psychotherapist’s permit had been issued by the Ordre des psychologues du Québec.
+[15] It was not until a conference in 2015 that a colleague informed him that if he was a psychotherapist, he had to collect and remit the tax, because the ETA did not exempt psychotherapy services. After that, he took steps with the Ordre des psychologues du Québec and with the Ordre des conseillers et conseillères en orientation, and they were not able to give him a specific answer on the subject. He also tried to communicate with Revenu Québec for advice on the issue.
+STATUTORY FRAMEWORK [16] With regard to the statutory framework, subsection 165(1) of the ETA sets out the basic rule for imposing GST, stating that every recipient of a taxable supply made in Canada must pay tax calculated at the rate of 5%.
+[17] Subsection 123(1) of the ETA defines the expression “taxable supply” as a supply that is made in the course of a commercial activity. On that point, the definition of commercial activity in the ETA specifically excludes “exempt supplies”. Subsection 123(1) states that an “exempt supply” means a supply listed in Schedule V of the ETA, which includes nine categories, one of which is “health care services”, in Part II.
+[18] For the purposes of the health care services supply exemption, sections 1.1 and 1.2 refer to restrictions on the application of Part II of Schedule V. Supplies from certain services that are not done for medical or reconstructive purposes are specifically excluded. Also excluded from the application of this Part, with the exception of some articles, are supplies that are not admissible health care supplies.
+[19] Therefore, at the first stage of the analysis, we have to see whether the services rendered could be qualified as a “qualifying health care supply”, in order to be exempt:
+Excise Tax Act
+Loi sur la taxe d’accise
+PART II
+Health Care Services
+PARTIE II
+Services de santé
+1 In this Part,
+1 Les définitions qui suivent s’appliquent à la présente partie.
+[…]
+[…]
+qualifying health care supply means a supply of property or a service that is made for the purpose of
+fourniture admissible de soins de santé Fourniture d’un bien ou d’un service qui est effectuée dans le but :
+(a) maintaining health,
+a) de maintenir la santé;
+(b) preventing disease,
+b) de prévenir la maladie;
+(c) treating, relieving or remediating an injury, illness, disorder or disability,
+c) de traiter ou de soulager une blessure, une maladie, un trouble ou une invalidité, ou d’y remédier;
+(d) assisting (other than financially) an individual in coping with an injury, illness, disorder or disability, or
+d) d’aider un particulier (autrement que financièrement) à composer avec une blessure, une maladie, un trouble ou une invalidité;
+(e) providing palliative health care.
+e) d’offrir des soins palliatifs.
+[20] Once it is established that a service meets the definition of “qualifying health care supply”, it is necessary to determine whether a specific section of Part II of Schedule V exempts that service. Section 7 provides an exemption for health care services that are specifically named, rendered by a practitioner, including psychological services:
+Excise Tax Act
+Loi sur la taxe d’accise
+PART II
+Health Care Services
+PARTIE II
+Services de santé
+7 A supply of any of the following services if the service is rendered to an individual by a practitioner of the service:
+7 La fourniture d’un des services ci‑après rendu par un praticien du service à un particulier :
+(a) optometric services;
+a) services d’optométrie;
+(b) chiropractic services;
+b) services de chiropratique;
+(c) physiotherapy services;
+c) services de physiothérapie;
+(d) chiropodic services;
+d) services de chiropodie;
+(e) podiatric services;
+e) services de podiatrie;
+(f) osteopathic services;
+f) services d’ostéopathie;
+(g) audiological services;
+g) services d’audiologie;
+(h) speech‑language pathology services;
+h) services d’orthophonie;
+(i) occupational therapy services;
+i) services d’ergothérapie;
+(j) psychological services;
+j) services de psychologie;
+(k) midwifery services;
+k) services de sage-femme;
+(l) acupuncture services; and
+l) services d’acupuncture;
+(m) naturopathic services.
+m) services de naturopathie.
+[Emphasis added.]
+[21] It is noted that paragraph 7(j) of Part II of Schedule V of the ETA recognizes that the supply of a psychological service is exempt from the GST. However, the section requires that these services be provided by a “practitioner” within the meaning of the definition given under section 1 of Part II of Schedule V of the ETA:
+Excise Tax Act
+Loi sur la taxe d’accise
+PART II
+Health Care Services
+PARTIE II
+Services de santé
+Services de santé
+1 Les définitions qui suivent s’appliquent à la présente partie.
+practitioner, in respect of a supply of optometric, chiropractic, physiotherapy, chiropodic, podiatric, osteopathic, audiological, speech-language pathology, occupational therapy, psychological, midwifery, dietetic, acupuncture or naturopathic services, means a person who
+praticien Quant à la fourniture de services d’optométrie, de chiropraxie, de physiothérapie, de chiropodie, de podiatrie, d’ostéopathie, d’audiologie, d’orthophonie, d’ergothérapie, de psychologie, de sage‑femme, de diététique, d’acupuncture ou de naturopathie, personne qui répond aux conditions suivantes :
+(a) practises the profession of optometry, chiropractic, physiotherapy, chiropody, podiatry, osteopathy, audiology, speech-language pathology, occupational therapy, psychology, midwifery, dietetics, acupuncture or naturopathy as a naturopathic doctor, as the case may be,
+a) elle exerce l’optométrie, la chiropraxie, la physiothérapie, la chiropodie, la podiatrie, l’ostéopathie, l’audiologie, l’orthophonie, l’ergothérapie, la psychologie, la profession de sage-femme, la diététique, l’acupuncture ou la naturopathie à titre de docteur en naturopathie, selon le cas;
+(b) where the person is required to be licensed or otherwise certified to practise the profession in the province in which the service is supplied, is so licensed or certified, and
+b) si elle est tenue d’être titulaire d’un permis ou d’être autrement autorisée à exercer sa profession dans la province où elle fournit ses services, elle est ainsi titulaire ou autorisée;
+(c) where the person is not required to be licensed or otherwise certified to practise the profession in that province, has the qualifications equivalent to those necessary to be so licensed or otherwise certified in another province.
+c) sinon, elle a les qualités équivalentes à celles requises pour obtenir un permis ou être autrement autorisée à exercer sa profession dans une autre province.
+[Emphasis added.]
+[22] Given that the ETA does not define the term “psychology”, we have to review the legislation of Quebec in order to define this term and, more specifically, to determine whether the term “psychology” includes “psychotherapy”. The Code provides the following:
+187.1. With the exception of physicians and psychologists, no person shall practise psychotherapy or use the title of “Psychotherapist” or any other title or abbreviation which may lead to the belief that he is a psychotherapist, unless he holds a psychotherapist’s permit and is a member of the Ordre professionnel des conseillers et conseillères d’orientation et des psychoéducateurs et psychoéducatrices du Québec, the Ordre professionnel des ergothérapeutes du Québec, the Ordre professionnel des infirmières et infirmiers du Québec or the Ordre professionnel des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec. (See notes 1 and 2 above)
+Psychotherapy is psychological treatment for a mental disorder, behavioural disturbance or other problem resulting in psychological suffering or distress, and has as its purpose to foster significant changes in the client’s cognitive, emotional or behavioural functioning, his interpersonal relations, his personality or his health. Such treatment goes beyond help aimed at dealing with everyday difficulties and beyond a support or counselling role.
+The Office shall establish by regulation a list of actions which relate to psychotherapy but do not constitute psychotherapy within the meaning of the second paragraph, and shall define those actions.
+[Emphasis added.]
+[23] As stated above, the ETA at Part II of Schedule V, exempts many health care services, but psychotherapy services rendered by an orientation counsellor holding a psychotherapist’s permit are not specifically mentioned.
+ANALYSIS AND CONCLUSION A. The nature of the services rendered [24] In this matter, the Court must determine whether the psychotherapy services provided by the appellant are services exempt from the Goods and Services Tax under Part II of Schedule V of the ETA.
+[25] However, the respondent submits that before addressing the issue of law and interpretation on the taxation of psychotherapy services, the appellant must demonstrate that he rendered those services. Therefore, the Court must first determine whether the appellant discharged his burden of establishing that he performs psychotherapy services.
+[26] On that point, the respondent submits that the nature of the services rendered by the appellant is too broad and vague to establish the nature. He submits in particular that the Court should draw a negative inference from the fact that there is no documentary evidence that corroborates the appellant’s testimony. The appellant points out that his client files are confidential and that he cannot simply file them in Court.
+[27] Certainly, the appellant did not file any documentary evidence that specifically describes the services that he offers. However, in my opinion the testimonial evidence provided by the appellant was credible and he discharged his burden to demonstrate the nature of the services rendered as a psychotherapist.
+B. Qualifying health care services? [28] In the context of the analysis of this case, it is important to note, first, that even if the ETA is a taxation statute that is intended to increase the government’s revenues, it also includes political taxation objectives, namely that taxpayers have access to health care services. To do so, as described above, it provides that some of these services are exempt from the GST.
+[29] First, to determine whether the services offered by the appellant are health care services within the meaning of the ETA, it is necessary to determine whether they qualify as a “qualifying health care supply” within the meaning of the definition identified above.
+[30] In that respect, having found, above, that the appellant offered psychotherapy services, it is my opinion that these services were for “treating, relieving or remediating ... a disorder” within the meaning of the definition. Therefore, these services may qualify as qualifying health care supplies within the meaning of the ETA.
+C. Psychological services practitioner? [31] Paragraph 7(j) of Part II of Schedule V of the ETA then provides that the supply of any health care services, including “psychological services”, must be provided by a “practitioner” who dispenses these services. Since the respondent admits that psychotherapy, as it is defined in section 187.1 of the Code, is included in “psychological services” within the meaning of paragraph 7(j) of the ETA, the Court need not analyze this issue.
+[32] The Court must still determine whether the appellant, an orientation counsellor who holds a psychotherapist’s permit issued by the Ordre des psychologues du Québec, is a “practitioner” within the meaning of section 1 of Part II of Schedule V of the ETA.
+[33] The appellant submits that he qualifies as a practitioner within the meaning of the ETA. Indeed, he refers to the term “profession” in the definition of practitioner. On that point, he submits that this term does not refer to professions governed by a professional order, but rather that it lists disciplines. Then, he argues that the nature of the services dispensed must prevail, and not the person’s prior training. The Court does not accept this interpretation.
+[34] The ETA is published in both official languages and it is well established that we have to give them the same legal authority (section 13 of the Official Languages Act, R.S.C., 1985, c. 31 (4th Suppl.) and section 7 of the Charter of the French Language, CQLR, c. C-11).
+[35] We observe, first, on reading the definition of “practitioner” at section 1 of Part II of the ETA, that the legislator did not provide for practising psychotherapy at paragraph (a). Further, with regard to the definition of “practitioner” in the English and French versions, we note a discrepancy. In the English version, it states that a person is a practitioner within the meaning of the ETA if that person “practises the profession of … psychology”, whereas in the French version, a person qualifies as a practitioner if that person “elle exerce … la psychologie”.
+[36] In the event of a discrepancy between the two versions, the rules of interpretation indicate that a two-tier test is necessary. First, we have to find the common meaning between the two versions and then determine whether this meaning is consistent with the legislator’s intent: Pierre-André Côté, Interprétation des lois, 4e éd., Montréal Thémis, 2009, pp. 371 to 381.
+[37] In my opinion, the result of the common meaning of these two versions is that to qualify as a practitioner offering psychological services, that person must practise the profession of psychology.
+[38] We must therefore determine whether a psychotherapist is a practitioner, namely a person practising the profession who offers psychological services and, second, whether the person authorized to offer psychological services as a psychotherapist is practising the profession of psychology? I would answer both these questions in the negative.
+[39] As provided in the Professional Code at section 187.1, psychologists and physicians can practise psychotherapy and, since June 21, 2012, psychotherapy may also be practised by a person holding a psychotherapist’s permit, with some conditions. Certainly, psychotherapy is a service that falls within the scope of psychology, which the respondent accepts. However, in my opinion, a psychotherapist cannot claim to practise the profession of psychology.
+[40] In other words, even if the services offered by a psychotherapist are psychological in nature, the ETA requires that the person be a “practitioner”. In order to qualify in that respect, the requirement is not only to offer psychological services, but to practise the profession of psychology, which is reserved to psychologists who are members of the Ordre des psychologues du Québec.
+[41] Therefore, even if the member of an order specifically listed in section 187.1 of the Code is issued a psychotherapist’s permit, that does not confer to that member the title of psychologist, as required by the definition of “practitioner” within the meaning of the ETA.
+[42] Further, I would add that this interpretation of the definition of “practitioner” is consistent with the legislator’s intent. In fact, in the wording of Part II of Schedule V, the legislator made a very specific list of the health care services that are exempt from the GST and, based on this wording, it is my opinion that these provisions should be narrowly interpreted.
+[43] The provisions of Part II of Schedule V do not expressly provide for an exemption from the GST for psychotherapy services rendered by a psychotherapist, even if that psychotherapist holds a permit and supplies a service in a province that regulates the psychotherapy profession. The legislator’s omission is not without significance. A narrow interpretation of the provisions leads us to conclude that if the legislator had wanted to exempt these services, the legislator would have done so.
+[44] Accordingly, in my opinion, the interpretation of the ETA does not support a finding that the services of a psychotherapist rendered by an orientation counsellor, who holds a permit issued by the Ordre des psychologues du Québec, are exempt within the meaning of the ETA. It follows from this finding that these services are taxable.
+[45] In a similar matter, Williams‑Keeler v. Her Majesty the Queen, 2013 TCC 28 (an informal proceeding), the issue was whether the therapy services for trauma treatment that were provided by the appellant were exempt services within the meaning of the ETA.
+[46] When the decision was rendered, the authorization of the province of Ontario was not required to practise the trade in question. The appellant, however, was certified by the Ontario Association of Consultants, Counsellors, Psychometrists and Psychotherapists: paragraph 11.
+[47] Woods J. (as he then was) found that, although the ETA provides an exemption for the health care services listed in Part II of Schedule V, “[s]ervices by trauma therapists” are not specifically listed. She adds the following:
+[25] It may be the case that Ms. Williams‑Keeler’s services are properly described as psychological in nature, however, that is not sufficient for the services to qualify for this exemption. The exemption also requires that the services be provided by a practitioner, as that term is defined in section 1.
+1. [...] 1. […] “practitioner”, in respect of a supply of optometric, chiropractic, physiotherapy, chiropodic, podiatric, osteopathic, audiological, speech therapy, occupational therapy, psychological or dietetic services, means a person who
+(a) practises the profession of optometry, chiropractic, physiotherapy, chiropody, podiatry, osteopathy, audiology, speech therapy, occupational therapy, psychology or dietetics, as the case may be,
+(b) where the person is required to be licensed or otherwise certified to practice the profession in the province in which the service is supplied, is so licensed or certified, and
+(c) where the person is not required to be licensed or otherwise certified to practice the profession in that province, has the qualifications equivalent to those necessary to be so licensed or otherwise certified in another province.
+[26] Ms. Williams‑Keeler is not a practitioner, as defined, because no licensing or certification was required to practice in the area of trauma therapy in any province during the period at issue.
+[27] The representative for Ms. Williams‑Keeler submits that she qualifies by virtue of her certification by the Association of Consultants, Counsellors, Psychometrists and Psychotherapists. He suggests that it is not necessary under the definition of “practitioner” that certification be a requirement to practice. He submits that the word “required” in paragraphs (b) and (c) above only applies to licenses and not certifications.
+[28] I disagree with this interpretation. In my view, the term “required” in the phrase “required to be licensed or otherwise certified to practice the profession” is intended to apply to both licensing and certification. It makes no sense for there to be a different test for licensing and certification.
+[48] She makes the following finding:
+[33] I would conclude that the exemptions relied on by Ms. Williams‑Keeler do not include the trauma therapy services that she provides. Although there may be good policy arguments in favour of exempting these services, this is a matter for Parliament and not the courts. The appeal will be dismissed.
+[49] Except for the conclusion stated at para 26 of the decision, I agree with this analysis and find that the legislator intended that persons who are practitioners, i.e. who practise one of the professions listed, are also required to be members in good standing of their profession in accordance with paragraph (b) of the definition of “practitioner”.
+[50] In this proceeding, the province of Quebec decided to legislate and to make it so that a person who is not a psychologist who offers psychotherapy services must obtain a psychotherapist’s permit — which was not the case in the Williams-Keeler decision referred to above. In my opinion, this does not change my finding that the appellant in this proceeding was not practising one of the professions listed in section 7 of Part II, of Schedule V.
+D. The penalties [51] In light of the finding stated above, it is necessary to determine whether the Court can relieve the taxpayer of the penalties imposed by the Minister under section 280 of the ETA, which applies automatically when a tax report is not filed.
+[52] This provision reads as follows:
+Interest
+280(1) Subject to this section and section 281, if a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay interest at the prescribed rate on the amount, computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[53] In the respondent’s pleadings, the respondent argues that only the Minister has the power to waive these penalties under the provisions of section 281.1 of the ETA. Accordingly, he argues that this Court does not have the jurisdiction to set them aside. I do not agree with this argument.
+[54] In fact, the Federal Court of Appeal in Corporation de l’École polytechnique v. Her Majesty The Queen, 2004 FCA 127, confirms that the reasonable diligence defence can be used against an administrative penalty established under the scheme of section 280 of the ETA. The Court defines the reasonable diligence defence as follows:
+[27] This Court has held that there is no bar to the defence argument of due diligence, which a person may rely on against charges involving strict liability, being put forward in opposition to administrative penalties.: In particular, it has held that section 280 of the Excise Tax Act, by its wording and content, gives rise to that defence: Canada (A.G.) v. Consolidated Canadian Contractors Inc., [1999] 1 F.C. 209 (F.C.A.). It may be worth reviewing the principles governing the defence of due diligence before applying them to the facts of the case at bar.
+[28] The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste-Marie, 1978 CanLII 11 (SCC), [1978] 2 S.C.R. 1299; The Queen v. Chapin, 1979 CanLII 33 (SCC), [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+[…]
+[Emphasis added.]
+[55] I find based on this, that “in order to establish a due diligence defence to a penalty an appellant must show he either (a) made a reasonable error in his or her understanding of the facts, or (b) took reasonable precautions to avoid the event leading to the penalty”: Comtronic Computer Inc. v. The Queen, 2010 TCC 55, paragraph 35.
+[56] On this subject, the respondent submits to the Court that the appellant did not discharge his burden of proof with respect to the penalties and that he did not prove the relevant facts justifying his error. She submits that the appellant admitted that he learned, by chance, that he had to collect the taxes from his patients and that it was only then that he tried to obtain information.
+[57] According to the appellant, he contacted his accountant in 2013 to see whether he had to collect GST for his psychotherapy services and she told him that his services were exempt because he had a psychotherapist’s permit from the Ordre des psychologues du Québec. He was also misled by professionals in the health care network who told him that psychotherapy services were exempt. It was not until 2015, at a psychotherapy conference, that a colleague informed him that, even though he was a psychotherapist, he had to collect the tax.
+[58] To summarize, in my opinion, the steps taken by the appellant clearly show that he wanted to comply with the ETA. He therefore showed reasonable diligence and for that reason the penalties at issue should be vacated.
+[59] The appeal is allowed to vacate the penalties but the assessment stands.
+Signed at Ottawa, Canada, this 22nd day of November 2017.
+“Guy Smith”
+Smith J.
+CITATION
+2017 TCC 232
+COURT FILE NO.:
+2016-2566(GST)I
+STYLE OF CAUSE:
+MARC FILIATRAULT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+June 20, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Guy R. Smith
+DATED:
+November 22, 2017
+APPEARANCES:
+Counsel for the Appellant and
+The Appellant:
+Anne-Marie Veilleux
+Marc Filiatrault
+Counsel for the Respondent:
+Christian Lemay
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK / EN BLANC]
+Firm:
+[BLANK / EN BLANC]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

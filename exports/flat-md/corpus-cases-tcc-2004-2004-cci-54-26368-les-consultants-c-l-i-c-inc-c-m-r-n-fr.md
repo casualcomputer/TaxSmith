@@ -1,0 +1,282 @@
+---
+title: "Les Consultants C.L.I.C. Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26368/index.do"
+last_modified: "2004-01-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 54"
+citation2: ""
+neutral_citation: "2004 CCI 54"
+decision_date: "2004-01-14"
+language: "fr"
+item_id: "26368"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3381
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:06:54.181000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ea77ea9bd535f42b625b282c36038e0ac22a714d77a6583264bdeef98468b797"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Consultants C.L.I.C. Inc. c. M.R.N.
+
+- Citation: 2004 CCI 54
+- Decision date: 2004-01-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3381, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Consultants C.L.I.C. Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-14
+Référence neutre
+2004 CCI 54
+Numéro de dossier
+2002-1538(EI), 2003-2338(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers: 2002-1538(EI) et 2003-2338(EI)
+ENTRE :
+LES CONSULTANTS CLIC INC.
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Johanne Lelièvre,
+intervenante.
+____________________________________________________________________
+Appels entendus sur preuve commune avec l'appel de Le Réseau CLIC Inc. (2003-2336(EI)) le 8 octobre 2003 à Sherbrooke (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Charles Ouellet
+assisté de Me Richard Généreux
+Avocat de l'intimée :
+Me Alain Gareau
+Pour l'intervenante :
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+Les appels en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant les décisions du ministre du Revenu national en date du 25 janvier 2002 et du 27 mars 2003 sont accordés et les cotisations sont annulées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de janvier 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier: 2003-2336(EI)
+ENTRE :
+LE RÉSEAU CLIC INC.
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Les Consultants CLIC Inc. (2002-1538(EI) et 2003-2338(EI)) le 8 octobre 2003 à Sherbrooke (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Charles Ouellet
+assisté de Me Richard Généreux
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national en date du 27 mars 2003 est accordé et la cotisation est annulée, sauf à l'égard de M. Alain Gamache, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de janvier 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI54
+Date : 20040114
+Dossiers: 2002-1538(EI)
+2003-2338(EI)
+ENTRE :
+LES CONSULTANTS CLIC INC.
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et
+JOHANNE LELIÈVRE,
+intervenante.
+Dossier : 2003-2336(EI)
+ENTRE :
+LE RÉSEAU CLIC INC.
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Ces appels ont été entendus sur preuve commune. L'appel portant le numéro 2002-1538(EI) concerne la décision du ministre du Revenu national (le « Ministre » ) en date du 25 janvier 2002. La travailleuse en question est madame Cara Webb, la période en litige est du 1er janvier 2000 au 26 juillet 2001, et la partie appelante est Les Consultants CLIC Inc.
+[2] En ce qui concerne le dossier portant le numéro 2003-2336(EI), l'appelante est Le Réseau CLIC Inc. et la décision du Ministre est en date du 27 mars 2003. Elle concerne la cotisation d'assurance-emploi en date du 4 juillet 2002 relativement aux travailleurs dont les noms sont donnés à l'annexe à la Réponse à l'avis d'appel (la « Réponse » ). Les années en cause sont 2000 à 2002.
+[3] L'appel portant le numéro 2003-2338(EI) concerne Les Consultants CLIC Inc. et la décision du Ministre est en date du 27 mars 2003. Elle concerne la cotisation d'assurance-emploi à l'égard de travailleurs pour les années 2000 à 2002 dont la liste est annexée à la Réponse. Dans cette liste des travailleurs, il y a madame Johanne Lelièvre, qui est une intervenante à cet appel.
+[4] Par la suite, les parties appelantes seront collectivement appelées les appelantes. Au cours de l'audience, les témoins réfèreront souvent aux appelantes en utilisant le terme CLIC.
+[5] L'avocat des appelantes a informé le tribunal que dans le dossier 2003-2336(EI), à la liste annexée à la Réponse, paraît le nom de monsieur Alain Gamache. L'assurabilité de l'emploi de cette personne n'est plus remise en cause par les appelantes.
+[6] L'avocat a aussi expliqué que toutes les personnes concernées par les cotisations sont des professeurs de la région de Montréal ou d'autres régions où il n'y a pas d'écoles CLIC. Le siège social des appelantes est à Sherbrooke.
+[7] L'intervenante madame Johanne Lelièvre a été la première à témoigner. Elle travaille maintenant à titre de conseiller financier.
+[8] Dans l'année 2001, l'intervenante a été professeur pour une des appelantes. Elle relate qu'elle a répondu à une annonce dans le journal demandant des professeurs d'anglais. Elle a suivi une journée de formation et d'évaluation. Par la suite, elle a été informée qu'elle rencontrait les critères d'évaluation. Quelques semaines après, l'appelante a communiqué avec elle pour lui proposer un travail dans la région de Boucherville. L'intervenante a téléphoné au client et ils se sont entendus sur les heures et les jours. Elle a donné environ 80 heures de cours.
+[9] Elle explique que la rémunération était en fonction du nombre d'heures passées avec les élèves. Dans chaque contrat, il y avait un nombre fixe d'heures. C'était à elle de définir avec le client à quelle fréquence elle devait le rencontrer. Ce client était celui de CLIC.
+[10] Au début, elle ne demandait pas de paiement pour ses dépenses de voiture. Par la suite, elle a demandé 10 $ par client par semaine.
+[11] C'était à elle d'évaluer le niveau de connaissance des étudiants. Elle devait créer le contenu du cours en fonction de l'évaluation qu'elle avait faite. CLIC fournissait bien des manuels mais cela exigeait beaucoup d'ajustements. Une fois la session terminée, elle faisait une évaluation du niveau que les étudiants avaient atteint et en informait CLIC.
+[12] Elle utilisait trois méthodes. Le livre fourni par l'appelante pour quelques exercices ainsi que des tableaux et des vidéos qu'elle avait montés. Elle préparait ses présentations dans le bureau de sa maison. En aucun temps, CLIC n'a demandé à voir le plan de cours, à le vérifier et à l'approuver. En aucun temps, elle n'a été supervisée dans sa salle de cours par quelqu'un de chez CLIC.
+[13] Elle avait tout de même des instructions ou les grandes lignes à suivre de la part de l'appelante. L'appelante habituellement faisait la première entrevue avec le client, discutait avec ce dernier de ce qu'il souhaitait et en informait l'intervenante.
+[14] L'entente de services entre l'intervenante et Les Consultants CLIC se trouve à l'onglet 7 de la pièce A-1. Le tarif était de 16 $ l'heure. Elle ne facturait pas la TPS ni la TVQ, tout en étant inscrite, parce qu'on lui avait dit qu'elle pouvait attendre jusqu'à faire 30 000 $ par année avant de facturer la taxe.
+[15] Elle pouvait refuser les mandats. Elle n'aurait pas pu se faire remplacer par un autre professeur sans avoir eu l'autorisation de CLIC.
+[16] Elle travaillait en même temps pour d'autres sociétés à titre de consultante dans des champs divers.
+[17] Le premier témoin des appelantes a été madame Mignon-Martel qui est un professeur d'anglais au secondaire et au primaire à Baie Trinité à Godbout. Elle enseigne l'anglais depuis 40 ans.
+[18] Une de ses amies a donné son nom à CLIC qui avait besoin de professeurs d'anglais à Baie Comeau. L'appelante n'a pas de bureau à Baie Comeau. L'appelante lui a confié un employé du gouvernement qui désirait obtenir le statut de bilingue. CLIC lui a fait parvenir des livres soit le livre de l'étudiant et le livre du maître et lui a dit qu'elle devait commencer à enseigner le lundi matin.
+[19] Le premier jour, le cours s'est donné chez elle parce qu'elle n'avait pas de local. Ensuite, le cours s'est donné au ministère des Pêcheries à Baie Comeau.
+[20] Elle n'a eu aucune formation de la part de CLIC. Elle n'a que très rarement utilisé leurs livres. Elle a structuré un cours pour son élève au moyen de son ordinateur et d'audio-cassettes. Elle n'était pas payée pour la préparation des cours. Personne de chez CLIC n'est venu assister à ses cours.
+[21] Elle était payée 15 $ de l'heure. Les factures indiquaient les heures de travail et les étudiants signaient. Elle envoyait sa facture toutes les deux semaines par télécopieur.
+[22] En contre-interrogatoire, elle a admis qu'une personne était venue faire passer un test à un élève pendant le mandat. C'est la seule fois qu'elle a vu quelqu'un de CLIC.
+[23] Elle se considérait comme employée autonome. C'était elle qui décidait ce qu'elle enseignait. Elle a enseigné 37,5 heures par semaine pendant dix semaines, 375 heures, et elle a enseigné 16 heures à une autre personne. Cette année-là, elle a fait tout son enseignement pour CLIC, mais l'année suivante ça été 21 heures pour trois jours.
+[24] Le prochain témoin a été monsieur Brian Colwell. Il a une maîtrise en langues et littérature française et un diplôme en éducation pour le français langue seconde. Cela fait bientôt quatre ans qu'il travaille auprès de CLIC. Au mois de février 2004, cela fera quatre ans.
+[25] Il n'y a pas de nombre de contrats garantis. Les cours sont donnés dans les entreprises où travaillent les étudiants. Lui aussi se sert des manuels de CLIC comme matériel de base, mais ces livres doivent être enrichis. Il a lui aussi son propre ordinateur. Personne n'est jamais allé dans ses cours pour vérifier son travail. C'est lui qui décide de quelle façon, quand et comment il se servira du matériel.
+[26] Au début, il y a un horaire de départ, mais des changements peuvent se faire selon les contraintes des étudiants. La facturation se fait de la même façon que déjà décrite.
+[27] À une question de la Cour à savoir s'il avait d'autres occupations à part celles d'être enseignant pour CLIC, il répond que depuis à peu près 13 mois, il fait un peu de traduction du français à l'anglais le soir et en fin de semaine. Autrement, il est occupé entièrement par CLIC. Il est disponible pour donner des cours de 7 h 30 à 18 h. Il peut travailler entre quatre heures une journée et huit heures une autre journée.
+[28] Quand on lui envoie son horaire, CLIC a préalablement vérifié sa disponibilité. Il n'a pas de carte d'affaires l'identifiant comme professeur de langues. Il n'a pas tenté de recruter des clients. Il ne l'a pas fait non plus pour la traduction, bien que des travaux lui soient arrivés.
+[29] Le prochain témoin a été monsieur Martin Chênevert, professeur de français. Il a une maîtrise en littérature française avec spécialisation en linguistique. Il explique qu'il a eu un contrat avec l'appelante pour enseigner le français. Il monte son programme sur son ordinateur. Ces programmes diffèrent selon le milieu de travail des étudiants.
+[30] La description de ses conditions de travail a été essentiellement semblable à celle des témoins précédents. Il n'a pas reçu de formation de CLIC. Il se considérait comme un travailleur autonome. Il n'avait pas de raison sociale en 2001.
+[31] Madame Michèle Leduc est vice-présidente au crédit, Banque Nationale. Elle est à cet emploi depuis 1989. Son employeur l'a incité à suivre une formation en langue anglaise. L'entreprise retenue par son employeur est CLIC. À Jonquière et à Sherbrooke, les étudiants suivent leur cours dans les locaux de CLIC. À Montréal, les cours se donnent dans les bureaux des étudiants. À Sherbrooke, on colle beaucoup aux livres de CLIC.
+[32] À quelques reprises, soit madame Morrissette ou madame Charpentier sont venues pendant qu'elle suivait les cours, visite de courtoisie ou de contrôle. Cela ne se passe jamais à Montréal. À Montréal, le livre de CLIC est utilisé comme support.
+[33] Madame Line Charpentier est la présidente des sociétés appelantes. Elle a commencé par décrire l'historique des activités des appelantes dans la région métropolitaine de Montréal. Jusqu'en 1987, les appelantes ont eu des installations sur le boulevard de Maisonneuve ouest. Il s'agissait d'une belle école avec un directeur pédagogique, mais les cours ne se prenaient pas dans les locaux de l'école. Les clients demandaient de prendre leur cours dans leurs propres locaux. Le coût de location était très élevé, 75 000 $ comme prix de location et 25 000 $ en taxes d'affaires. Cette école a été fermée en 1987 mais l'entreprise a continué son enseignement avec des employés.
+[34] Toutefois, selon elle, le contrôle d'employés dans des locaux qui ne sont pas les siens n'est pas possible.
+[35] Elle explique que CLIC fonctionne soit avec des franchises, soit avec ses propres écoles ou encore à contrat. Il y a des franchises à Hull, Saint-Jean sur le Richelieu, Granby, Trois-Rivières, Drummondville, Rimouski et Rivière-du-Loup. Ce sont tous des endroits où les professeurs sont traités comme des salariés.
+[36] La survie de l'entreprise a exigé une autre structure soit des consultants, des travailleurs autonomes. Les employés sont payés à l'heure, on leur assigne des classes, on les forme au départ, une formation qui est continue. On les recrute, on les forme, on valide ce qu'ils font en rencontrant les clients.
+[37] L'appelante a commencé à utiliser l'entente produite à l'onglet 7 de la pièce A-1 à partir de 1999. Elle recrute ses professeurs auprès des universités de Montréal.
+[38] À l'onglet 1 de la pièce A-1 se trouve le document qui a été préparé par madame Cara Webb. Cela a été envoyé à madame Charpentier par télécopieur. Elle voulait vendre ce document sur lequel elle a gardé des droits. Elle enseignait à Montréal. C'était un document qui se voulait destiné aux enseignants de Montréal. Cela visait à expliquer comment un travailleur autonome devait s'organiser. Elle n'a pas acheté le document parce que les consultants de Montréal savent comment s'organiser. Lors de la première rencontre avec eux, on leur explique tout ce qu'ils ont à faire, ce n'était pas nécessaire d'acheter le document.
+[39] Madame Charpentier relate que sur 91 consultants, elle en a perdu 81 quand le statut a été changé de travailleur autonome à employé. Il y a un départ naturel qui se fait d'environ 25 à 30 p. 100 par année, mais 81 sur 91, cela a carrément mis l'entreprise de Montréal en péril.
+[40] Les consultants de Montréal indiquent leur disponibilité à l'entreprise qui, elle, leur donne des contrats. Ces gens viennent d'abord à Sherbrooke pour des entrevues. Il faut valider la compétence des gens, il faut s'assurer de la connaissance de la langue et de la compétence à l'écrire. Elle enseigne toutes les langues vivantes, allemand, russe, espagnol, portugais et japonais. Chaque professeur monte son programme. Il y a du matériel surtout pour l'anglais, également pour le français et il y en a un peu pour l'espagnol, mais pour les autres langues, il n'y a rien.
+[41] À l'onglet 10, il y a une décision en date du 15 octobre 2001 concernant un consultant de CLIC et pour lequel le Ministre a décidé qu'il ne s'agissait pas d'un emploi assurable.
+Arguments
+[42] L'avocat des appelantes fait valoir qu'il n'y a pas de contrôle exercé sur les consultants à Montréal, contrairement à ce qui se passait à Sherbrooke.
+[43] Il se réfère au manuel d'exploitation (onglet 9) qui précise qu'un professeur débutant se fait assister par un professeur senior. Il indique que ce sont les mesures appliquées dans les écoles des appelantes ou dans celles des concessionnaires de franchises. Ce n'est pas le cas à Montréal. Les professeurs de Montréal peuvent utiliser le matériel de l'appelante mais, habituellement, ils utilisent leur propre matériel. Les professeurs assument eux-mêmes leurs frais de transport. Parfois, ils demandent un certain paiement à l'appelante concernant ces frais de transport. Cela n'empêche pas le professeur d'avoir à sa charge ses frais de transport. Si un professeur ne donne pas ses cours, il n'est pas payé. En ce qui concerne l'évaluation du professeur, c'est l'élève qui la fait.
+[44] L'avocat des appelantes se réfère à la décision de la Cour d'appel fédérale dans Charbonneau c. Canada (ministre du Revenu national), [1996] A.C.F. no 1337 (Q.L.), et plus particulièrement au paragraphe 10 :
+La surveillance des travaux aux deux jours et le mesurage du volume aux quinze jours ne créent pas en l'espèce de lien de subordination et sont tout à fait compatibles avec les exigences d'un contrat d'entreprise. Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[45] Il se réfère également à la décision de la Cour d'appel fédérale dans Vulcain Alarme Inc. c. Canada (ministre du Revenu national), [1999] A.C.F. no 749 (Q.L.) et plus particulièrement aux paragraphes 4, 5 et 7 :
+4 À notre avis, toutes ces données factuelles sont aussi compatibles avec un contrat d'entreprise. Un entrepreneur par exemple qui travaille en sous-traitance sur un chantier ne dessert pas ses clients, mais ceux du payeur, i.e., l'entrepreneur général qui a retenu ses services. Le fait que M. Blouin ait dû se présenter chez la demanderesse une fois par mois pour prendre ses feuilles de service et ainsi connaître la liste des clients à servir et, conséquemment, le lieu d'exécution de la prestation de ses services n'en fait pas pour autant un employé. L'entrepreneur qui exécute des tâches pour une entreprise, tout comme l'employé dans un contrat de travail, doit connaître les lieux où ses services sont requis et leur fréquence. La priorité d'exécution des travaux requise d'un travailleur n'est pas l'apanage d'un contrat de travail. Les entrepreneurs ou sous-entrepreneurs sont aussi souvent sollicités par divers clients influents qui les forcent à établir des priorités quant à leur prestation de services ou à se conformer à celles qu'ils dictent.
+5 En ce qui a trait à la rémunération et au système de facturation, il y a lieu de réitérer les propos de notre collègue le juge Hugessen dans l'arrêt Canada (Procureur général) c. Rousselle et al. [(1990) 124 N.R. 339 à la p. 344.] où il concluait que le juge n'avait de toute évidence pas compris le sens du mot contrôle :
+Ce n'est pas de contrôler un travail que de fixer la valeur de la rémunération ou de définir le but recherché. Le contrat d'entreprise comporte ces éléments aussi bien que le contrat de louage de services. À plus forte raison, le contrôle ne réside pas dans l'acte de paiement, que ce soit par chèque ou autrement.
+...
+7 Dans le cas présent, la preuve ne révèle pas que la demanderesse contrôlait M. Blouin en lui donnant des ordres et des instructions quant à la manière d'accomplir son travail. Au contraire, ce dernier était totalement maître de la façon dont il pouvait fournir ses services, sauf qu'il devait les rendre dans les 30 jours. Personne ne lui imposait de contrôle ou n'exerçait de supervision sur sa prestation de services et M. Blouin fixait son propre horaire. Nous reviendrons d'ailleurs sur cette notion de contrôle au cours de l'analyse qui suit de la notion de propriété des outils.
+[46] L'avocat fait valoir qu'il en était de même à l'égard des professeurs de Montréal. Les professeurs demeuraient maîtres de la façon dont ils fournissaient leurs services. Il fait aussi valoir que si l'on regarde la liste des professeurs qui ont été déclarés employés par le Ministre, on voit pour plusieurs professeurs de biens petits montants au cours d'une année. Ce qui montre que c'était les professeurs qui déterminaient l'usage de leur temps.
+[47] L'intervenante s'est référée à la décision Le Collège d'Extension Cartier Ltée c. Canada (Ministre du Revenu National - M.R.N.), [2003] A.C.I. no 71 (Q.L.). Dans cette affaire les travailleurs recrutés pour donner des sessions de formation ont été considérés par un juge suppléant de cette Cour comme des travailleurs autonomes et non des employés.
+[48] L'avocat de l'intimé s'est référé à la décision de la Cour d'appel fédérale dans Wiebe Door Services Ltd. c. M.N.R., et pose la question à savoir s'agit-il de l'entreprise des professeurs ou de celle des appelantes? Il fait valoir que la preuve démontre clairement que les élèves sont des clients de CLIC, que la publicité se fait par CLIC, que le recrutement de la clientèle se fait par CLIC et que même un des professeurs a demandé des cartes d'affaires au nom de CLIC et non à son propre nom.
+[49] L'avocat se réfère à la décision du juge Tardif dans Centre de Langues de Trois-Rivières Inc. c. Canada (ministre du Revenu national), [2003] A.C.I. no 191 (Q.L.). Dans ce cas-là, les cours pouvaient se donner soit à l'école même soit à l'extérieur au choix du client de l'école de langue. Les professeurs ont été considérés comme des employés. L'avocat se réfère plus particulièrement aux paragraphes 9, 10, 15, 22 et 25 :
+9 La règle était à l'effet que tous y trouvaient leur profit en ce que rien n'était imposé et tous et toutes étaient mis à contribution; il était ainsi tenu compte de la disponibilité, du goût et des affinités des chargés de cours. Les chargés de cours pouvaient manifester leurs contraintes et réserves quant au choix des étudiants à qui ils voulaient enseigner.
+10 Cette liberté et grande latitude se manifestaient également au niveau de l'endroit où se donnaient les cours privés et quant aux outils de travail nécessaires. Les professeurs pouvaient utiliser leur propre matériel ou prendre celui disponible et offert par l'appelante. Les enseignants pouvaient également s'entendre avec leurs étudiants, lors des cours privés, sur l'endroit de la rencontre.
+...
+15 En l'espèce, la compagnie appelante pratiquait une politique de respect, de collaboration et de concertation. Par contre, rien de la preuve dont l'appelante avait le fardeau n'a établi qu'elle n'avait aucun pouvoir de contrôle ou qu'elle avait renoncé à ce pouvoir sur les personnes qu'elle rétribuait.
+...
+22 Globalement, il n'y a aucun doute que l'appelante avait la main mise sur la planification et le développement de l'entreprise. Les enseignants étaient étroitement associés à sa bonne marche, mais ils n'en constituaient pas un maillon indépendant.
+...
+25 Les frais de déplacement étaient également remboursés dépendamment des endroits où se donnaient les cours.
+[50] Il se réfère aussi à la décision du juge Somers dans Centre du Clavier Allard Inc. c. Canada (ministre du Revenu national), [2001] A.C.I. no 144 (Q.L.), qui a décidé que les travailleurs étaient des employés. Dans cette affaire, l'appelante fournissait le local pour donner les leçons de musique. L'avocat se réfère au paragraphe 20 :
+a) le degré de contrôle
+20 L'appelante retenait les services de professeurs avec certaines contraintes : ceux-ci devaient donner les leçons dans les locaux de l'appelante et devaient donner et respecter leur temps de disponibilité. Par contre, il y avait une certaine flexibilité pour les professeurs de changer l'horaire à l'occasion mais tout changement devait être fait de consentement avec le client et l'appelante. C'est l'appelante qui finalement établissait l'horaire des cours. Le fait que les professeurs aient une certaine discrétion sur la méthode à suivre n'affecte en rien le contrôle de l'appelante sur les professeurs. C'est le droit d'exercer un contrôle et non pas l'exercice réel de contrôle qui est pertinent. Suivant l'ensemble de la preuve, selon cet élément il y avait un contrat de louage de services.
+Conclusion
+[51] À mon avis, la preuve a révélé assez clairement qu'il s'agit d'un cas où les travailleurs sont des travailleurs autonomes et non des employés. Les récentes décisions de la Cour d'appel fédérale nous montrent la voie à suivre dans les cas où les critères habituels de la jurisprudence ne révèlent pas clairement une situation d'emploi ou d'entreprise. L'intention des parties devient alors déterminante.
+[52] Je me réfère à la décision de la Cour d'appel fédérale dans Wolf c. Canada, [2002] A.C.F. no 375 (Q.L.), paragraphes 64, 67, 94 120 et 124 :
+64 L'appelant soutient qu'il appartient à une catégorie de travailleurs temporaires, espèce de plus en plus courante au Canada et dans le monde et qui inclut des travailleurs engagés pour des affectations de courte durée par le biais d'agences de placement temporaire et des travailleurs autonomes à leur compte comme les consultants, les pigistes et les entrepreneurs indépendants. Ce type de travail est parfois désigné comme étant un emploi atypique ou temporaire...
+67 L'appelant soutient que s'il n'y a pas de manoeuvre frauduleuse, de maquillage ou toute autre circonstance de vice, ce qui n'est pas le cas d'après les allégations, en l'espèce, son statut est régi par son contrat où il est décrit comme un consultant et un entrepreneur indépendant.
+120 De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+...
+124 Ce n'est pas un cas où les parties qualifiaient leur relation d'une façon telle que cela leur procure un avantage fiscal. Aucune manoeuvre frauduleuse ou aucun maquillage de quelque sorte n'est allégué. Il s'ensuit que la manière dont les parties ont pu voir leur entente doit l'emporter à moins qu'elles ne se soient trompées sur la véritable nature de leur relation. À cet égard, la preuve, lorsqu'elle est évaluée à la lumière des critères juridiques pertinents, est pour le moins neutre. Comme les parties ont estimé qu'elles se trouvaient dans une relation d'entrepreneur indépendant et qu'elles ont agi d'une façon conforme à cette relation, je n'estime pas que la juge de la Cour de l'impôt avait le loisir de ne pas tenir compte de cette entente...
+[53] Je me réfère à une autre décision de la Cour d'appel fédérale dans D & J Driveway Inc. c. Le Ministre du Revenu National, 2003CAF453, et plus particulièrement aux paragraphes 7, 9, 10, 11, 12 et 15 :
+7 Les livreurs n'ont ni feu ni lieu chez la demanderesse. Leurs services sont retenus et fournis sur appel. Ils sont tout à fait libres de refuser l'offre qui leur est faite de conduire un camion, par exemple, à Halifax, Québec ou Montréal. Les livraisons se font à partir de Saint-Jacques, au Nouveau-Brunswick. Les livreurs reçoivent un montant fixe déterminé en fonction de la distance à parcourir.
+...
+9 Un contrat de travail requiert l'existence d'un lien de subordination entre le payeur et les salariés. La notion de contrôle est le critère déterminant qui sert à mesurer la présence ou l'étendue de ce lien. Mais comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.F. no. 1337, (1996), 207 N.R. 299, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 1454, 2002 FCA 394, il ne faut pas confondre le contrôle du résultat et le contrôle du travailleur. Au paragraphe 10 de la décision, il écrit :
+Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur
+10 Il est bien sûr qu'en l'espèce, la demanderesse contrôlait les résultats. Elle s'assurait que les camions seraient livrés aux bons destinataires en temps opportun ou convenu. Mais là s'arrêtait son contrôle.
+11 De fait, les livreurs pouvaient accepter ou refuser de faire une livraison lorsqu'appelés par la demanderesse, ce qui n'est certes pas le propre d'une personne liée par un contrat de travail. Ils n'occupaient aucun emplacement à la place d'affaires de la demanderesse et ils n'étaient pas contraints d'y être disponibles. Ils ne s'y présentaient que pour prendre possession du camion qu'ils avaient accepté de livrer.
+...
+15 Nous croyons qu'il est légalement erroné de conclure à l'existence d'un lien de subordination et, en conséquence, à l'existence d'un contrat de travail, lorsque la relation entre les parties consiste en des appels sporadiques aux services de personnes qui ne sont aucunement tenues de les pourvoir et peuvent les refuser à leur guise...
+[54] Je me réfère également à une autre décision de la Cour d'appel fédérale soit Poulin c. Canada, [2003] A.C.F. no 141 (Q.L.), où cette dernière Cour a renversé ma décision dans Poulin c. Canada [2001] A.C.I. no 546. Dans cette affaire, j'avais tranché en faveur de l'intimé ayant trouvé qu'un préposé aux bénéficiaires travaillant à l'année, cinq jours par semaine pour un total de 40 heures par semaine, pour un paraplégique, selon l'horaire déterminé par ce dernier et à qui des vacances étaient accordées, était un employé. La personne handicapée recevait tous les fonds pour payer les travailleurs de la Société d'assurance automobile du Québec.
+[55] La Cour d'appel fédérale a décidé qu'il s'agissait d'un travailleur autonome au motif que les services rendus à la personne handicapée et les conditions dans lesquelles ils furent rendus révélaient une fourniture de services aussi compatibles avec celles découlant d'un contrat de services ou d'entreprise que celles émanant d'un contrat de travail. Elle a conclu que dans les cas où les critères d'analyse d'un contrat de travail versus un contrat d'entreprise révèlent une image neutre, il faut se référer à l'intention des parties.
+[56] Je cite les paragraphes 27 à 29 :
+27 En conclusion, les critères développés par la jurisprudence pour différencier un contrat de travail d'un contrat de services ne s'avèrent pas d'une grande utilité dans le contexte particulier de la présente affaire. Les services rendus au demandeur au cours de l'année 1999 et les conditions dans lesquelles ils furent rendus révèlent une fourniture de services aussi compatible avec celle découlant d'un contrat de services ou d'entreprise que celle émanant d'un contrat de travail. Ceci dit, comme le rappelait notre collègue, le juge Décary, dans l'affaire Wolf, précitée, au paragraphe 117, ces critères ne sont que des facteurs à considérer dans la détermination de ce « qui est l'essence même d'une relation contractuelle, à savoir l'intention des parties » . Et d'ajouter le juge Décary, « en fin de compte, on finit par faire, en droit civil comme en common law, un examen des termes des conventions pertinentes et des circonstances pour découvrir la véritable réalité contractuelle des parties » : ibid., au paragraphe 113.
+28 Ceci m'amène à examiner l'intention des parties afin de déterminer la relation globale qu'elles désiraient entretenir entre elles.
+d) l'intention des parties
+29 Il n'y a pas en l'espèce, comme c'est souvent le cas en semblables matières, de convention écrite, ce qui, de toute évidence, rend la recherche de l'intention plus difficile, mais pas nécessairement impossible.
+[57] Au paragraphe 11 de cette décision, la Cour d'appel fédérale a indiqué qu'il ne fallait pas conclure à l'existence quasi-automatique d'un lien de subordination ou contrôle du fait qu'une personne soit recrutée pour effectuer certaines tâches selon un horaire et une rémunération déterminés.
+[58] Je cite une partie du paragraphe 11 ainsi que les paragraphes 13, 14, 15 et 16 de cette décision :
+...
+La Cour canadienne de l'impôt a également retenu la notion de contrôle et a justifié sa conclusion en référant avec approbation aux faits invoqués par le ministre. En outre, elle a conclu à l'existence quasi-automatique d'un lien de subordination entre une personne handicapée et la personne recrutée pour effectuer certaines tâches du fait que ces tâches sont accomplies selon un horaire et une rémunération déterminés. ...
+...
+a) l'existence d'un contrôle et d'un lien de subordination
+13 Il s'agit, en vertu de ce critère, de se demander si, à partir de l'ensemble de la preuve, il y a contrôle du côté de l'un, i.e., le demandeur, et subordination de l'autre, soit les travailleurs : Wolf c. Sa Majesté la Reine, A-563-00, No. de référence neutre, [2002] A.C.F. no 375, 2002 FCA 96, 15 mars 2002, paragraphe 117, par le juge Décary. En principe, ces deux notions définissent un élément important du contrat de travail par opposition au contrat de services. L'article 2085 du Code civil du Québec, qui détermine le droit applicable en l'espèce puisque le contrat doit être interprété conformément aux lois de la province de Québec (voir la Loi d'harmonisation no. 1 du droit fédéral avec le droit civil, L.C. 2001, ch. 4), énonce :
+Art. 2085
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+14 À l'inverse, le contrat de services ou d'entreprise n'implique aucun lien de subordination quant à son exécution et laisse au prestataire de services le libre choix des moyens d'exécution : article 2099 du Code civil du Québec. Le prestataire qui soit exploite une entreprise, soit fournit simplement des services, le fait alors pour son propre compte.
+15 Ce qu'il faut retenir de ces définitions des deux contrats, c'est que la notion de contrôle est un élément important de la détermination juridique de la nature des relations entre les parties. Cependant, cette notion de contrôle n'est pas toujours en soi concluante malgré l'importance qu'il faut lui prêter. Comme le disait notre collègue, Madame le juge Desjardins, dans l'affaire Wolf, précitée, au paragraphe 76, "bien que le critère de contrôle soit le critère traditionnel de l'emploi en droit civil, il est souvent inadéquat à cause de la spécialisation accrue de la main d'oeuvre" : voir aussi Wiebe Door Services Ltd., précitée, aux pages 558-559 où notre collègue, le juge MacGuigan, indique que le critère s'est révélé tout à fait inapplicable pour les professionnels et travailleurs hautement qualifiés qui possèdent des aptitudes supérieures à la capacité de leur employeur à les diriger.
+16 Au surplus, la notion de contrôle n'est pas nécessairement absente du contrat de services. Elle y apparaît généralement quoique, un peu d'ailleurs comme dans le contrat de travail, à des degrés variables, qui peuvent être toutefois surprenants en terme d'ampleur, sans que le contrat d'entreprise ne soit dénaturé pour autant. Par exemple, un contrôle quant aux lieux en général et quant aux endroits spécifiques où les travaux doivent être exécutés s'exerce sur les entrepreneurs généraux et leurs sous-traitants. Ces derniers se voient également remettre des spécifications quant aux matériaux ainsi que des plans et devis auxquels ils doivent se conformer. Les heures et horaires de travail des uns par rapport aux autres sont aussi souvent contrôlées et déterminées afin d'assurer une progression efficace et harmonieuse du chantier. Les travaux effectués par contrat de services sont aussi soumis à des contrôles d'exécution, de productivité et de qualité.
+[59] J'ai cité une grande partie de cette décision pour montrer qu'il faut être très prudent quand il s'agit de modifier l'entente conclue librement par les parties à un contrat de travail ou d'entreprise, dans des circonstances qui peuvent vraisemblablement relever de la nature d'un de ces contrats.
+[60] Ici, à l'instar des travailleurs chez J & D Driveway (supra), les travailleurs n'avaient ni feu ni lieu chez les appelantes. Les travailleurs pouvaient accepter ou refuser de faire une session d'enseignement. Ils informaient les appelantes de leur disponibilité et celles-ci leur offraient des contrats. Il s'agissait dans l'ensemble de relations contractuelles sporadiques.
+[61] Les professeurs faisaient en grande partie le montage des cours à donner. La supervision des professeurs par les appelantes était inexistante. Le contrôle de la qualité du service se faisait par l'évaluation des élèves. Il s'agissait d'un contrôle afférent au contrat d'entreprise.
+[62] En fait, dans la présente affaire les critères d'analyse relatifs aux contrats de travail et d'entreprise révèlent à peine une image neutre. Il s'agit de circonstances beaucoup plus indicatives d'un contrat d'entreprise que celles d'un contrat de travail.
+[63] Regardons tout de même l'intention des parties. Selon les témoignages, l'intention des parties n'était pas d'établir entre elles un contrat de travail mais un contrat d'entreprise. En ce qui concerne l'entreprise, ce choix de procéder par mode de contrat d'entreprise s'est fait en fonction des exigences économiques et organisationnelles relatives à son exploitation dans la région de Montréal. En ce qui concerne les travailleurs, la seule travailleuse qui ait demandé le statut d'employé et au sujet de laquelle une décision a été rendue, n'a pas jugé bon de venir témoigner. Il me faut penser que son témoignage n'aurait pas été différent de celui des autres professeurs entendus qui souhaitaient la flexibilité relative à l'acceptation des contrats et à leur autonomie de professeur.
+[64] Il est vrai qu'il s'agissait dans l'ensemble de jeunes recrues et que dans ces cas, leur marge de manoeuvre dans la passation d'entente de travail ou d'entreprise est plus restreinte. Il peut parfois s'agir de consentement vicié à la base. Pour obtenir une occupation rémunérée, le jeune travailleur se soumettra aux conditions de l'entreprise. Mais, il arrive aussi que le jeune professionnel souhaite sincèrement le statut de travailleur autonome pour l'indépendance que cela lui confère ou encore qu'il accepte librement ces contrats d'entreprise en attendant un contrat de travail.
+[65] Dans la présente affaire, il n'y a pas d'éléments qui me portent à croire qu'il y ait eu maquillage des intentions véritables des parties sur la nature du contrat d'entreprise.
+[66] En conséquence, à l'exception du travailleur mentionné au paragraphe 5 de ces motifs, les cotisations sont annulées. Les appels sont accordés.
+Signé à Ottawa, Canada, ce 14e jour de janvier 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI54
+Nos DES DOSSIERS DE LA COUR :
+2002-1538(EI), 2003-2338(EI)
+et 2003-2336(EI)
+INTITULÉS DES CAUSES :
+Les Consultants CLIC Inc. et M.R.N.
+et Johanne Lelièvre
+et Le Réseau CLIC Inc. et M.R.N.
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 8 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+L'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 14 janvier 2004
+COMPARUTIONS :
+Avocat des appelantes :
+Me Charles Ouellet
+assisté de Me Richard Généreux
+Avocat de l'intimé :
+Me Alain Gareau
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelantes :
+Nom :
+Me Charles Ouellet
+Étude :
+Monty Coulombe
+Sherbrooke (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

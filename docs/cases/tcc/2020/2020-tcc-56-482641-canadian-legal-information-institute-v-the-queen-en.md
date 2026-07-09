@@ -1,0 +1,283 @@
+---
+title: "Canadian Legal Information Institute v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482641/index.do"
+last_modified: "2020-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 56"
+citation2: ""
+neutral_citation: "2020 TCC 56"
+decision_date: "2020-07-17"
+language: "en"
+item_id: "482641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4590
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:07:55.726000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01def2a8c5caa390f3d84aedfd0333732076836c6778726af89083ccad5be86f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Legal Information Institute v. The Queen
+
+- Citation: 2020 TCC 56
+- Decision date: 2020-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Legal Information Institute v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-17
+Neutral citation
+2020 TCC 56
+File numbers
+2015-5163(GST)G, 2017-2344(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-5163(GST)G
+2017-2344(GST)G
+BETWEEN:
+THE CANADIAN LEGAL INFORMATION INSTITUTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 20, 2019, at Toronto, Ontario and post‑trial management conference call held on March 4, 2020
+Before: The Honourable Lucie Lamarre, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Ron Choudhury
+David W. Chodikoff
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+Frédéric Morand
+JUDGMENT
+The appeals from the assessments made under the Excise Tax Act, notices of which are dated November 29, 2013, June 6, 2014, August 26, 2014, November 26, 2014, February 12, 2015, November 30, 2015 and May 24, 2016 are allowed, with costs, in accordance with my Reasons for Judgment, and the assessments are therefore referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant made a taxable supply and is entitled to claim a total amount of input tax credits of $745,690.89 for the quarterly reporting periods ending between April 1, 2013 and June 30, 2015 as per the chart below and as agreed upon by the parties.
+Reporting periods
+Input tax credit
+April 1 to June 30, 2013
+$75,398.87
+July 1 to September 30, 2013
+$78,360.63
+October 1 to December 31, 2013
+$88,803.68
+January 1 to March 31, 2014
+$78,987.95
+April 1 to June 30, 2014
+$94,231.79
+July 1 to September 30, 2014
+$81,656.91
+October 1 to December 31, 2014
+$86,301.19
+January 1 to March 31, 2015
+$75,465.10
+April 1 to June 30, 2015
+$86,484.77
+Total
+$745,690.89
+Signed at Ottawa, Canada, this 17th day of July 2020.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2020 TCC 56
+Date: 20200717
+Docket: 2015-5163(GST)G
+2017-2344(GST)G
+BETWEEN:
+THE CANADIAN LEGAL INFORMATION INSTITUTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] These are appeals from assessments made by the Minister of National Revenue (Minister) under the Excise Tax Act (ETA). The Minister disallowed input tax credits (ITCs) in the amounts set out in the Partial Agreed Statement of Facts (attached as Annex A to these Reasons) claimed by the appellant (referred to as CanLII in these reasons) for its quarterly reporting periods ending between April 1, 2013 and June 30, 2015.
+[2] The Minister denied the ITCs on the basis that CanLII provided a service for no consideration and therefore provided an exempt supply pursuant to section 10 of Part VI of Schedule V of the ETA. Exempt supplies do not give rise to ITCs under subsection 169(1) of the ETA.
+[3] Section 10 of Part VI of Schedule V of the ETA reads as follows:
+SCHEDULE V
+Exempt Supplies
+10. A supply made by a public sector body of any property or service if all or substantially all of the supplies of the property or service by the body are made for no consideration, but not including a supply of
+(a) blood or blood derivatives; or
+(b) a parking space if the supply is made for consideration by way of lease, licence or similar arrangement in the course of a business carried on by the body.
+[4] The respondent argues that CanLII, a non-profit organization, gave the general public free access to its virtual library and therefore received no consideration for the supply.
+[5] CanLII, on the other hand, argues that it did receive consideration for the supply of the virtual library, even though the public had free access to it, and that section 10 is not at play here. CanLII argues that it received the consideration from the Federation of Law Societies of Canada (Federation) and therefore made a taxable supply to the Federation. The Federation paid an annual levy to CanLII pursuant to the CanLII Governance Agreement entered into on July 19, 2010 between each provincial and territorial law society (the Members) and the Federation (Governance Agreement) (Joint Book of Documents, Tab 17).
+The facts
+[6] CanLII is a not-for-profit corporation that operates an open-access virtual law library. CanLII’s sole member is the Federation, which funds CanLII by collecting fees from 14 law societies in Canada.
+[7] According to the president and chief executive officer (CEO) of CanLII, Mr. Xavier Beauchamp-Tremblay, the Federation created CanLII in 2001 to increase access to legal information for members of the legal profession. According to the CanLII Strategic Plan 2006-2009 (Joint Book of Documents, Tab 40, p. 8), CanLII is intended for legal professionals; serving the public is a secondary concern (Transcript, p. 42). Thus, CanLII was responding to requests from members of the legal profession for more commentary and more historical case law (Transcript, p. 18). In 2013, CanLII started to add secondary sources such as CanLII Connects, which was established in 2014 to provide headnotes created by the legal profession for legal decisions in the CanLII database (Transcript, pp. 17‑18).
+[8] CanLII has four employees and seven board members appointed by the Federation.
+[9] CanLII is regulated by By-law No.1-2 (Joint Book of Documents, Tab 16) and governed by the Governance Agreement referred to above. CanLII was not a party to the Agreement during the relevant years, but has subsequently become a party and has signed it (Joint Book of Documents, Tab 47, p. 55).
+[10] Each fall, CanLII’s CEO makes a report to the Federation and includes with that report a draft budget stating the amount of revenue needed to operate CanLII for the upcoming year. The CEO recommends an amount per licensed legal professional of each law society to help the Federation divide the bill fairly among the various law societies. The Federation then determines the amount it will pay CanLII for the upcoming year.
+[11] Following this determination, CanLII invoices the Federation quarterly for its services. In the relevant years, the Federation paid CanLII between $2.8 and $3.1 million per year (Joint Book of Documents, Tab 47, p. 22).
+[12] CanLII’s operational budget is solely financed by fees from the law societies. Although CanLII sometimes receives grants from law foundations during the year for specific projects, these grants are uncertain and thus not factored into the budget (Transcript, pp. 82-83).
+[13] CanLII could not operate without funding from the law societies (Transcript, p. 80). Furthermore, CanLII could not survive on advertising revenue alone (Transcript, pp. 83-84).
+[14] CanLII identified some users as being its biggest users in terms of downloads in the fall of 2014 (Joint Book of Documents, Tab 25). The list of frequent users shows that the top 1000 were all legal service providers. Among the roughly 300,000 IP addresses that access CanLII monthly, those for the top 1000 users were downloading half of the traffic in terms of megabytes (Transcript, pp .25‑26). Further, a national survey done in 2012 (Joint Book of Documents, Tab 22) (some 4000 responses) revealed that 90% of Canadian legal professionals (including those in the province of Quebec) use CanLII (Transcript, pp.19-20).
+[15] CanLII incurred various expenses to operate its virtual library. On those expenses CanLII claimed the ITCs which are at issue in these appeals for the GST paid to the third-party service providers. The expenses in question include payments to:
+- Lexum (a technology firm in Montreal and now a subsidiary of CanLII) for operating and maintaining the CanLII website (Joint Book of Documents, Tab 38, p. 157).
+- Functional Imperative (a technological firm in Toronto) for operating and maintaining the CanLII Connects website (Joint Book of Documents, Tab 39, p. 105).
+- SOQUIJ for access to Quebec case law (Joint Book of Documents, Tab 39, p. 112).
+- Iron Mountain for the storage of a copy of CanLII’s computer code (Joint Book of Documents, Tab 39, p. 139).
+- Fulcrum Group, an executive compensation specialist, for consultation with respect to developing key performance indicators (Joint Book of Documents, Tab 38, p. 82).
+[16] CanLII was registered for the purposes of the ETA (Partial Agreed Statement of Facts, para. 11). It appears that CanLII collected and remitted GST on the payments from the Federation during the relevant periods.
+Issue
+[17] The issue is whether CanLII may claim under subsection 169(3) of the ETA ITCs for the GST that it paid to third-party service providers.
+[18] The first question that I have to determine in these appeals is whether CanLII made a taxable supply in operating its virtual library. To answer this first question, I must decide whether CanLII made a supply for consideration or for no consideration. In the latter case, the supply would be an exempt supply and CanLII would not be entitled to any ITCs.
+[19] The second question, if I conclude that CanLII made a taxable supply, is whether CanLII met the documentary requirements for claiming ITCs stated in subsection 169(4) of the ETA and the Input Tax Credit Information (GST/HST) Regulations.
+I.Did CanLII make a taxable supply or an exempt supply?
+[20] The arguments of each party depend on that party’s interpretation of the definition of “consideration” in the ETA.
+[21] “Consideration” is defined as follows in subsection 123(1) of the ETA:
+consideration includes any amount that is payable for a supply by operation of law
+Arguments of the parties
+[22] The respondent argues that the definition of consideration requires that there be an enforceable legal obligation to pay for a supply. Counsel for the respondent bases his argument on the wording of the definition, which refers to an “amount … payable for a supply by operation of law”.
+[23] Counsel relied on the decision of the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, 2011 SCC 36, [2011] 2 S.C.R. 635, in which the word “payable” was analyzed by McLachlin C.J. (as she then was), in her dissenting reasons, in the context of section 224 of the Income Tax Act. Section 224 requires a person who is liable to make a payment to another person (the tax debtor) to pay the moneys otherwise payable to the tax debtor to the Receiver General on account of the tax debtor’s liability. At paragraph 64 of her dissenting reasons, McLachlin C.J. refers to the Federal Court of Appeal’s analysis of the word “payable” in National Trust Co. v. Canada, (1998), 162 D.L.R. (4th) 704, at paragraphs 61-62, which concludes that “[vacation pay] is payable when a claimant is in a position at law to enforce payment”.
+[24] Now the respondent argues that CanLII was not in a position to enforce payment by the Federation. Counsel says that according to the By-law, the Federation’s payments were discretionary as it could decide the amount of the annual payment regardless of the recommendation of CanLII’s CEO. In the respondent’s view, the By-law and the Governance Agreement (to which latter CanLII was not a signatory in the periods at issue) were simply a framework for the administration of the funding payments. These documents did not create an enforceable obligation on the Federation to pay for the supply.
+[25] Further, should this Court find that the Federation had a legal obligation to pay CanLII, the respondent argues, there was no direct link tying the payments to the supply because the recipient of the supply was the public.
+[26] CanLII on the other hand argues that the Court should adopt the broad common law meaning given in County of Lethbridge v. The Queen, 2005 TCC 809 to the definition of “consideration”. At paragraph 95 of that decision, Bell J. stated the following:
+[95] Respecting the second question, the definition of "consideration" is:
+"consideration" includes any amount that is payable for a supply by operation of law
+This definition, not being exclusive, includes any amount that would be consideration under common law. In Dunlop Pneumatic Tyre Co. Ltd. v. Selfridge & Co. Ltd. [1915] AC 847 at 855, HL, Lord Dunedin wrote:
+I am content to adopt from a work of Sir Frederick Pollock ... the following words as to consideration:
+An act or forbearance of one party, or the promise thereof, is the price for which the promise of the other is bought, and the promise thus given for value is enforceable.
+[27] In CanLII’s view, consideration is any payment for a supply or any payment made in order to facilitate a supply. There is no requirement that there be a legal obligation to pay. Here, the Federation paid CanLII in order to enable the making of the supply. CanLII could not have used the payments for any other purpose since it did nothing other than operate the virtual library. That said, CanLII does not agree with the respondent that there was no obligation to pay. In its view, the Federation was obliged to pay under the Governance Agreement, and this obligation is reflected in CanLII’s income statement filed with the Canada Revenue Agency (Joint Book of Documents, Tab 33, page 5).
+[28] CanLII also discussed the decision by the Federal Court of Appeal in Commission scolaire Des Chênes v. The Queen, 2001 FCA 264, a case heard in the province of Quebec. The Court considered the matter of when a payment constituted consideration under the ETA. It stated at paragraph 19 that, under the ETA, in order for a payment to constitute consideration, it must have been made pursuant to a legal obligation (contractual or otherwise) and must be closely enough linked to a supply that it may be regarded as having been made “for” that supply (under the definition of consideration in section 123). In CanLII’s view, this is why the Court said, in the same paragraph, that a direct link is required. The Court further stated at paragraph 20 that a payment constitutes consideration only where it is made “for” or in return for the supply.
+[29] CanLII argues that we do not find the direct link test in section 10 of Part VI of Schedule V of the ETA, and therefore it cannot be factored into the analysis. Nevertheless, CanLII argues, even though the public has free access to the library, a direct link tied the payments to the supply, as the payments from the Federation were the library’s sole source of funding, without which it could not have operated. Those payments directly benefited the payor, as they enabled increased access to legal information for legal practitioners.
+[30] CanLII refers to the decision of the Supreme Court of Canada in Calgary (City) v. Canada, 2012 SCC 20, at paragraphs 29, 62 and 64, where the Court ruled that a supply can have multiple recipients, and the identity of the recipient may not necessarily determine whether a supply is exempt.
+Analysis
+[31] The parties both agree that CanLII made a supply in providing a virtual library. They do not agree on whether it was a taxable or an exempt supply.
+[32] Indeed, the issue before the Court is whether CanLII is entitled, pursuant to subsection 169(1) of the ETA, to claim ITCs in respect of the GST it paid to the third-party service providers.
+[33] Subsection 169(1) reads as follows:
+Input Tax Credits
+General rule for credits
+169 (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[34] Therefore, CanLII will be entitled to ITCs if it acquired property or a service for consumption, use or supply in the course of its commercial activities.
+[35] Commercial activity is defined in subsection 123(1) as follows:
+commercial activity of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[36] In the present case, the respondent argues that by virtue of section 10 of Part VI of Schedule V of the ETA (which section is reproduced above in paragraph 3 of my Reasons) CanLII’s business involved the making of exempt supplies.
+[37] The respondent is of the view that all or substantially all the services supplied by CanLII were supplies made for no consideration.
+[38] In the respondent’s oral argument, counsel stated that the Federation made discretionary payments that did not fall within the definition of “consideration”, as they were not made pursuant to a legal obligation. The respondent relied on the definition given to the word “payable” by the Supreme Court of Canada in Canada Trustco, supra, for the purpose of the application of section 224 of the Income Tax Act.
+[39] First, I note that the definition of “consideration” in the ETA reproduced above states that consideration “includes” any amount that is payable for a supply by operation of law. The word “include” means “to contain something as a part of something else” (Cambridge Dictionary). It is not a restrictive or exclusive definition.
+[40] Therefore, I do not read the definition as imposing a requirement for an enforceable legal obligation to pay as argued by the respondent.
+[41] Further, counsel for the respondent relied on the technical notes to which the Court referred in Commission scolaire des Découvreurs v.The Queen, 2003 TCC 295, [2004] G.S.T.C. 49, to justify his theory that there is consideration only if there is an enforceable legal obligation to make a payment. In that decision, the Court referred, at paragraphs 54 and 55, to the technical notes issued regarding the definition of “consideration” in the ETA, which paragraphs I reproduce hereunder:
+[54] In the explanatory notes, this provision is explained as follows:
+The definition "consideration" is being added so as to remove any doubt that such amounts that clearly would be consideration for a supply if there were a contract, are treated as consideration for purposes of Part IX and Schedules V, VI and VII to the Act. This would address, for example, situations where services are rendered to a person without having been contracted for and the person is required, by law, to pay fair value for the service received. The amount so required to be paid would be treated as consideration. In all cases, in order to be consideration, the amount must be payable "for a supply". Therefore, amounts that are paid, for example, as taxes, fines or gifts from governments or other persons, whether payable by operation of law or under an agreement, will continue not to be treated as consideration since these amounts are not payable for a supply.
+[55] Thus what is involved is not a definition of the term "consideration" but a clarification in the case of a non-contractual situation. In such a situation, this term must be given its normal legal meaning. In Vocabulaire Juridique, 2nd edition, Presses Universitaires de France (PUF), 1990, Gérard Cornu states that in a synallagmatic contract this term is synonymous with valuable consideration. If we refer to the definition of that term in this same reference work, we read:
+[TRANSLATION]
+Consideration provided by the person who receives a benefit in the synallagmatic contract; reciprocal benefit (perceived as equal) charged to a party to a contract, for example, wages in consideration for work, or the price in consideration for the article sold.
+[42] I do not read the technical notes as introducing or imposing a requirement of an enforceable legal obligation to pay as argued by the respondent. They clearly differentiate between an amount payable “for a supply”, whether there is a contract or not, which amount would be treated as consideration for the purposes of the ETA, and an amount, such as taxes, fines or gifts, payable by operation of law or under an agreement (i.e., not payable for a supply). The emphasis is not on the word “payable” but on “consideration” provided “for a supply”.
+[43] The Federal Court of Appeal in Commission scolaire Des Chênes, supra, at paragraphs 19-20, stated that in order for a payment to constitute consideration, it had to have been made pursuant to a legal obligation (contractual or otherwise). A payment will constitute consideration only where it is made “for” or in return for the supply. The Court does not say that the obligation has to be enforceable.
+[44] In Invesco Canada Ltd. v. The Queen, 2014 TCC 375, at paragraphs 33-35, the Court referred to Des Chênes, and, as in Lethbridge, supra, to the definition of consideration under the common law, and stated at paragraphs 35 that all that would be required in order for a fee to constitute consideration for the taxable supply of the services would be a contractual obligation. I should add here that in Des Chênes the Court referred to a legal obligation (contractual or otherwise).
+[45] Further, section 123 of the ETA refers to an amount payable by “operation of law”. This expression is defined in Black’s Law Dictionary as “[t]he means by which a right or a liability is created for a party regardless of the party’s actual intent”.
+[46] In the present case, the payments by the Federation were made pursuant to the By-law and the Governance Agreement (Joint Book of Documents, Tabs 16‑17).
+[47] Article 14 of the By-law reads in part as follows:
+. . . Following receipt of the recommendation of the Board of Directors [of CanLII], the [Federation] shall determine, in its discretion, the amount of the annual levy that the [Federation] shall pay to [CanLII]. . . .
+[48] Article 5.1 of the Governance Agreement states in part:
+. . . The Federation shall . . . determine on an annual basis the amount of the levy that the Federation shall pay to CanLII for the upcoming year. . . .
+[49] Article 5.2 of the Governance Agreement states in part:
+. . . In addition the Council shall determine the amount that each [law society] shall pay of any such levy . . . Once the Council . . . has made its determination . . . the Federation and each of the [law societies] shall act strictly in accordance, and otherwise comply, with such determination.
+[50] Thus, although the Federation (through its council composed of representatives of each of the 14 law societies in Canada) determined the amount of the levy to be paid on an annual basis to CanLII on the latter’s recommendation, once that amount was in fact determined, the Federation had an obligation to pay such amount to CanLII. Further, the Council determined under the Governance Agreement the amount that each law society had to pay toward any such levy. The Federation only had discretion to determine the amount of the levy. Once established, the levy was payable to CanLII for the supply of the virtual library.
+[51] Therefore, I find that, by virtue of article 14 of the By-law and article 15 of the Governance Agreement, once the Federation had determined the amount of the annual levy, the levy was paid by operation of law for the supply of the virtual library. There was an obligation on the Federation to pay and payment was not discretionary as argued by the respondent.
+[52] The respondent further argued that, even if there was a legal obligation to pay, there was no direct link between the payment and the supply made by CanLII, as required in Des Chênes. Counsel referred to paragraph 20 of that decision to emphasize the fact that, when a payment is made otherwise than under a contract, the purpose of the payment and the circumstances in which it is made must be carefully analyzed to determine whether there is a link with the supply. Counsel for the respondent then argued that the onus is on the appellant to adduce evidence regarding the purpose and the circumstances of the payment, which in his view CanLII did not do. According to the respondent, the purpose of the funding payments was to allow CanLII to fulfil its mandate to provide free access to the law; it was not to provide a service to the Federation.
+[53] CanLII says that the purpose of the funding was to enable it make the sole supply that CanLII makes. The By-law and the Governance Agreement between the Federation and the law societies provide the surrounding circumstances of, and authority for, the payment. CanLII argues that no evidence has been presented that would suggest that the payments were made for anything other than the supply of the virtual library.
+[54] I agree with CanLII that a direct link exists between the payment of the levy by the Federation and the supply of the virtual library. The funds flow from the Federation to CanLII for a single purpose. Without those funds, there would be no virtual library. CanLII’s operational budget is financed solely through the payments from the Federation, which amounted to $2.8-$3.1 million per year (as per the “Copy of FTE [full-time equivalent] members breakdown”, Joint Book of Documents, Tab 46, p. 1).
+[55] Further, the CEO of CanLII testified that the sole purpose for which CanLII was incorporated was the creation and production of the virtual library. CanLII would simply not survive and no one would have access to that library without the Federation and the law societies.
+[56] Further, the evidence showed that the top 1000 users were all providers of legal services. These users were making half of the downloads in terms of megabytes. The figures show that the members of the Federation, and thus the Federation, greatly benefited from the virtual library for which they paid. Nevertheless, that the virtual library was freely accessible to the public at large (and not just the Federation and the members of the law societies) does not alter the fact that without the Federation and its members CanLII would not be supplying anything at all. In Des Chênes, at paragraph 33, the Federal Court of Appeal stated that even though someone who pays a consideration might be seeking to benefit someone else, the payment is just as much consideration.
+[57] Finally, in Calgary (City), supra, the Supreme Court of Canada said that nothing in the ETA requires a supply to have only one recipient (para. 62). The Court then went on to say that even if the public remained a recipient of the supply, the identity of the recipient might not determine whether the supply is taxable or exempt (paras. 63-64).
+[58] Therefore, as long as the payment constitutes a consideration, the identity of the recipient of the supply is not determinative as to whether the supply is taxable or exempt.
+[59] I find that CanLII adduced sufficient evidence to establish that a direct link existed between the levy paid by the Federation and the supply by CanLII of the virtual library. I am satisfied that the funding provided by the Federation to CanLII was not intended for multiple uses: it was intended to enable CanLII to achieve its sole goal of operating a virtual library in a business like manner. Using that funding, CanLII contracted with third-party suppliers to maintain and improve the website, developed and implemented detailed strategic plans, and drafted budget recommendations for the Federation.
+[60] I am satisfied that CanLII made a supply to the Federation for a consideration in the course of a commercial activity and thus made a taxable supply. Section 10 of Part VI of Schedule V does not apply here as the sole supply, the virtual library, was made for consideration.
+II.Documentary requirements pursuant to subsection 169(4) of the ETA
+[61] The second question is whether CanLII met the documentary requirements for claiming ITCs pursuant to subsection 169(4) of the ETA and in accordance with the Input Tax Credit Information (GST/HST) Regulations.
+[62] At the hearing, the parties agreed to communicate with the Court regarding the amount of ITCs to which the Appellant would be entitled if successful. Since the parties were unable to reach an agreement on the quantum, a post-trial management conference was held before me on March 4, 2020 and it was ordered that counsel for the Appellant produce to counsel for the Respondent by March 25, 2020 the invoices and the ITC calculations for the periods at issue.
+[63] On March 23, 2020, counsel for the Respondent received the documentation. Upon review, and by letter sent to the Appellant on May 8, 2020, the Respondent agreed that should the Appellant be successful in arguing that the supplies at issue are not exempt supplies, it would be entitled to ITCs as follows:
+Reporting Periods
+ITCs
+April 1 to June 30, 2013
+$75,398.87
+July 1 to September 30, 2013
+$78,360.63
+October 1 to December 31, 2013
+$88,803.68
+January 1 to March 31, 2014
+$78,987.95
+April 1 to June 30, 2014
+$94,231.79
+July 1 to September 30, 2014
+$81,656.91
+October 1 to December 31, 2014
+$86,301.19
+January 1 to March 31, 2015
+$75,465.10
+April 1 to June 30, 2015
+$86,484.77
+Total
+$745,690.89
+[64] By letter sent to the Registry on July 16, 2020, counsel for the Appellant consented to the ITC amounts agreed to by the Respondent.
+Decision
+[65] The appeals from the assessments made under the ETA are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant made a taxable supply and is entitled to claim a total amount of ITCs of $745,690.89 for the quarterly reporting periods ending between April 1, 2013 and June 30, 2015 as per the chart reproduced above.
+Signed at Ottawa, Canada, this 17th day of July 2020.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2020 TCC 56
+COURT FILE NO.:
+2015-5163(GST)G, 2017-2344(GST)G
+STYLE OF CAUSE:
+THE CANADIAN LEGAL INFORMATION INSTITUTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 20, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Lucie Lamarre, Associate Chief Justice
+DATE OF JUDGMENT:
+July 17, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Ron Choudhury
+David W. Chodikoff
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant: Ron Choudhury
+David W. Chodikoff
+Firm:
+Miller Thomson LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+ANNEX “A”

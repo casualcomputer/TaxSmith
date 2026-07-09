@@ -1,0 +1,278 @@
+---
+title: "Harmonized Sales Tax for Ontario - Point-of-Sale Rebate on Newspapers"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-060/harmonized-sales-tax-ontario-point-sale-rebate-on-newspapers.html
+last_modified: 2021-09-22
+---
+# Harmonized Sales Tax for Ontario - Point-of-Sale Rebate on Newspapers
+
+GST/HST Info Sheet GI-060 February 2010
+
+The Government of Ontario has proposed a harmonized sales tax (HST) which will come into effect on July 1, 2010. The HST rate will be 13% of which 5% will represent the federal part and 8% the provincial part.
+
+This info sheet reflects proposed tax changes announced in the 2009 Ontario Budget and the document, *Ontario's Tax Plan for Jobs and Growth: Cutting Personal and Corporate Taxes and Harmonizing Sales Taxes,*released by the Government of Ontario on November 16, 2009.
+
+Any commentary in this info sheet should not be taken as a statement by the Canada Revenue Agency (CRA) that the proposed point-of-sale rebate will be enacted in its current form.
+
+The Government of Ontario has announced that it will provide a point-of-sale rebate of the provincial part of the HST payable on qualifying newspapers. The CRA and the Canada Border Services Agency (CBSA) will administer the rebate on behalf of the Government of Ontario.
+
+Please refer to the following info sheets for information on point-of-sale rebates on other qualifying goods in Ontario.
+
+- [Harmonized Sales Tax for Ontario and British Columbia – Point-of-Sale Rebate on Feminine Hygiene Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-062.html) (GI-062);
+
+- [Harmonized Sales Tax for Ontario and British Columbia – Point-of-Sale Rebate on Children's Goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-063.html) (GI-063);
+
+- [Harmonized Sales Tax for Ontario – Point-of-Sale Rebate on Prepared Food and Beverages](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064.html) (GI-064);
+
+- [Harmonized Sales Tax for Ontario and British Columbia – Point-of-Sale Rebate on Books](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-065.html) (GI-065).
+
+In this publication:
+
+"Consumer" means an individual who acquires or imports qualifying newspapers for the individual's personal consumption or use, or for the personal consumption or use of another individual.
+
+"Provincial part of the HST" means the 8% Ontario part of the HST.
+
+"Qualifying newspaper" means goods designated by the Government of Ontario as qualifying newspapers and satisfying prescribed conditions. More information is available under the heading "Goods qualifying for the rebate".
+
+"Rebate" means the point-of-sale rebate of the provincial part of the HST payable on qualifying newspapers, which will be provided by the Government of Ontario.
+
+"Recipient" of qualifying newspapers means the person who is liable to pay for the newspapers. When no amount is due, it means the person to whom the newspapers are delivered or made available. A recipient could be a wholesaler, retailer or consumer.
+
+"Registrant" means a person who is registered, or is required to be registered, for GST/HST purposes.
+
+## Who will be eligible for the rebate
+
+The rebate will be available to all persons that:
+
+- are recipients of qualifying newspapers sold in Ontario;
+
+- are resident in Ontario and that import qualifying newspapers in circumstances where the provincial part of the HST will be payable on the importation; and
+
+- receive delivery or possession of qualifying newspapers in, or bring qualifying newspapers into, Ontario in circumstances where the provincial part of the HST will be payable on the newspapers.
+
+The rebate will be available at any point in the distribution chain of the qualifying newspapers. For example, the rebate will be available to persons that are wholesalers, retailers or consumers of qualifying newspapers.
+
+If you are not sure whether you are eligible for a rebate, you may ask for a written ruling or interpretation, or call a GST/HST rulings centre at 1-800-959-8287. See GST/HST Memorandum 1.4, [Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), for more information.
+
+## Goods qualifying for the rebate
+
+The following goods will be qualifying newspapers for purposes of the rebate:
+
+- print newspapers that contain news, editorials, feature stories, or other information of interest to the general public and that are published at regular intervals, typically on a daily, weekly or monthly basis.
+
+The following goods will **not** be qualifying newspapers for purposes of the rebate, and therefore, no rebate will be available in respect of the provincial part of the HST payable on these goods:
+
+- electronic and digital publications;
+
+- flyers;
+
+- inserts;
+
+- magazines;
+
+- periodicals; and
+
+- shoppers.
+
+Magazines and periodicals that are qualifying books may qualify for a rebate. See GST/HST Info Sheet GI-065, *Harmonized Sales Tax for Ontario and British Columbia – Point-of-Sale Rebate on Books*, for more information.
+
+## How to claim the rebate
+
+Recipients of qualifying newspapers sold in Ontario will receive their rebate by:
+
+- being paid or credited the rebate amount by the registrant supplier (e.g., a newspaper publisher, wholesaler or retailer) at the point of sale; or
+
+- filing a rebate claim with the CRA.
+
+### Rebate amount paid or credited by registrant suppliers
+
+Generally, recipients of qualifying newspapers sold in Ontario will automatically have their rebate paid or credited to them at the point of sale by the registrant supplier that sold the newspapers to them.
+
+The rebate amount that a registrant supplier pays or credits to the recipient will be equal to the amount of the provincial part of the HST payable by the recipient on the sale of the qualifying newspapers.
+
+A registrant supplier that pays or credits the rebate amount at the point of sale will collect only the 5% federal part of the HST on the sale of the qualifying newspapers. Information on how a registrant supplier discloses the rebate amount paid or credited is available under the heading "How registrant suppliers show the rebate on their invoices".
+
+A retailer in Ontario sells a copy of the metro edition of a daily print newspaper to a consumer. The newspaper contains news, editorials, feature stories, and other information of interest to the general public.
+
+The newspaper will be a qualifying newspaper for purposes of the rebate. As a result, the retailer will collect only the 5% federal part of the HST and pay or credit the rebate of the 8% provincial part of the HST to the consumer at the point of sale.
+
+#### Example 2
+
+A community association in Ontario publishes a monthly print newspaper. The newspaper contains news, editorials, feature stories, and other information of interest to the general public. The community association sells subscriptions to the newspaper to subscribers in the community.
+
+The newspaper will be a qualifying newspaper for purposes of the rebate. As a result, the community association will collect only the 5% federal part of the HST on the sale of the subscription and pay or credit the rebate of the 8% provincial part of the HST to the subscriber at the point of sale.
+
+#### Example 3
+
+A publisher in Ontario publishes a daily print newspaper. The newspaper contains news, editorials, feature stories, and other information of interest to the general public. The publisher sells subscriptions to the newspaper to subscribers in Ontario, and sells subscriptions to a digital version of the printed newspaper to subscribers in Ontario.
+
+The print newspaper will be a qualifying newspaper for purposes of the rebate. As a result, the publisher will collect only the 5% federal part of the HST on the sale of the subscription and pay or credit the rebate of the 8% provincial part of the HST to the subscriber at the point of sale.
+
+The digital version of the print newspaper will not be a qualifying newspaper for purposes of the rebate. As a result, the publisher will collect the 13% HST on the subscription to the digital version and not pay or credit the 8% provincial part of the HST to the subscriber of the digital version.
+
+#### Example 4
+
+A retailer in Ontario sells a copy of a weekly print news magazine to a consumer. The news magazine contains news, editorials, feature stories, and other information of interest to the general public.
+
+The news magazine will not be a qualifying newspaper for purposes of the rebate. As a result, the retailer will collect the 13% HST and not pay or credit the 8% provincial part of the HST to the consumer.
+
+#### Example 5
+
+A retailer in Ontario sells a copy of a weekly print celebrity news magazine to a consumer. The celebrity news magazine contains news, gossip, astrology, and sensational stories about celebrities.
+
+The celebrity news magazine will not be a qualifying newspaper for the purposes of the rebate. As a result, the retailer will collect the 13% HST and not pay or credit the 8% provincial part of the HST to the consumer.
+
+#### Example 6
+
+A wholesaler in Ontario sells a number of copies of the Sunday edition of a major US daily print newspaper to a retailer in Ontario. The newspaper contains news, editorials, feature stories, and other information of interest to the general public.
+
+The newspaper will be a qualifying newspaper for purposes of the rebate. Because the rebate will apply to sales at any point in the distribution chain, the wholesaler will collect only the 5% federal part of the HST and pay or credit the rebate of the 8% provincial part of the HST to the retailer at the point of sale.
+
+### Filing rebate claims with the CRA
+
+If the registrant supplier does not pay or credit the rebate amount at the point of sale, then the recipient of the qualifying newspaper sold in Ontario will be able to file a rebate claim with the CRA using Form GST189, [General Application for Rebate of GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst189.html).
+
+The rebate amount that the CRA will pay to the recipient will equal the amount of the provincial part of the HST that the recipient paid on the sale of the qualifying newspapers. The recipient will have to file Form GST189 within four years after the day the provincial part of the HST became payable.
+
+If the registrant supplier does not pay or credit the rebate amount at the point of sale and the recipient of the qualifying newspapers sold in Ontario is a registrant acquiring the newspapers for use or supply in the course of a commercial activity, then the recipient will be able to claim an input tax credit (ITC) to recover the 5% federal part of the HST paid. The recipient will have to file a rebate claim, using Form GST189, to recover the 8% provincial part of the HST paid. The recipient will have to file this form within four years after the day the provincial part of the HST became payable.
+
+On December 15, 2010, a publisher in Ontario sells an annual subscription to its weekly regional print newspaper to a subscriber in Ontario. The newspaper contains news, editorials, feature stories, and other information of interest to the general public and will be a qualifying newspaper for purposes of the rebate.
+
+The publisher collects the 13% HST and does not pay or credit the rebate of the 8% provincial part of the HST at the point of sale. The subscriber will be able to file a rebate claim with the CRA for the 8% provincial part of the HST paid to the publisher. The subscriber will have until December 15, 2014, to file this rebate claim.
+
+#### Example 8
+
+On August 1, 2010, a wholesaler in Ontario sells 50 copies of a daily print newspaper to a retailer in Ontario. Both the wholesaler and retailer are registrants. The daily print newspaper contains news, editorials, feature stories, and other information of interest to the general public and will be a qualifying newspaper for purposes of the rebate.
+
+The wholesaler collects the 13% HST and does not pay or credit the rebate of the 8% provincial part of the HST at the point of sale. The retailer will be able to claim an ITC to recover the 5% federal part of the HST paid to the wholesaler. The retailer will also be able to file a rebate claim with the CRA for the 8% provincial part of the HST paid to the wholesaler. The retailer will have until August 1, 2014, to file this rebate claim.
+
+## Residents importing qualifying newspapers
+
+Generally, persons that are resident in Ontario and that import qualifying newspapers in circumstances where the provincial part of the HST will be payable on the importation will automatically have their rebate deducted by the CBSA from the HST payable.
+
+The rebate amount that the CBSA will deduct will equal the amount of the provincial part of the HST payable by the person on the imported qualifying newspaper. The CBSA will, therefore, collect only the 5% federal part of the HST on the imported qualifying newspaper.
+
+Similarly, where a non-resident supplier (e.g., a non-resident publisher, wholesaler or retailer) that is not registered for GST/HST purposes sends qualifying newspapers by mail or courier to an address in Ontario, the CBSA will automatically deduct the rebate amount from the HST payable on the importation and collect only the 5% federal part of the HST.
+
+A small newspaper publisher located in China mails its monthly print newspaper to a consumer who is resident in Ontario. The publisher does not solicit orders in Canada for the newspaper and is not registered for GST/HST purposes. The newspaper contains news, editorials, feature stories, and other information of interest to the general public and will be a qualifying newspaper for purposes of the rebate.
+
+If the consumer is the importer of the newspaper, the consumer will have to pay the 5% federal part of the HST on the importation of the newspaper. The CBSA will automatically deduct the rebate of the 8% provincial part of the HST on the imported newspaper.
+
+## Persons bringing qualifying newspapers into Ontario
+
+In certain circumstances, a person that brings qualifying newspapers into Ontario will have to self-assess the provincial part of the HST on these newspapers. Generally, the person will be eligible for a rebate equal to the amount of the provincial part of the HST that will be payable by the person on the qualifying newspapers.
+
+### Rebate for registrants
+
+If the person is a registrant, the person will account for the provincial part of the HST self-assessed on the qualifying newspapers brought into Ontario on its regular GST/HST return for the reporting period in which the tax became payable.
+
+The person will receive the rebate by claiming a deduction for the rebate amount on the return for the reporting period in which the tax became payable.
+
+### Rebate for non-registrants
+
+If the person is not a registrant, the person would normally account for the provincial part of the HST self-assessed on the qualifying newspapers brought into Ontario on Form GST489, *Return for Self-Assessment of the Provincial Portion of the Harmonized Sales Tax (HST)*, no later than the last day of the month after the calendar month in which the tax became payable.
+
+However, the person will receive the rebate by deducting the rebate amount from the self-assessed provincial part of the HST. The person will not have to file Form GST489 where the resulting amount is nil.
+
+## How registrant suppliers show the rebate on their invoices
+
+When disclosing the HST on an invoice or receipt issued in respect of a sale of qualifying newspapers to which the registrant supplier has paid or credited the rebate amount at the point of sale, the registrant supplier may show:
+
+- the total amount of the HST payable (or the total HST rate) with the rebate amount paid or credited shown separately;
+
+- the total HST payable as an amount net of the rebate amount paid or credited; or
+
+- the total price of the qualifying newspapers that includes HST at a net rate of 5%.
+
+A retailer in Ontario sells a qualifying newspaper for $2.00 and pays or credits the rebate amount of $0.16 ($2.00 × 8% = $0.16) at the point of sale. The retailer will have the following three options for disclosing the total HST payable and the rebate amount paid or credited:
+
+| Price of newspaper | $2.00 |
+
+| --- | --- |
+
+| HST @ 13% | $0.26 |
+
+| Subtotal | $2.26 |
+
+| Rebate @ 8% | $0.16 |
+
+| Amount due | $2.10 |
+
+or
+
+| Price of newspaper | $2.00 |
+
+| --- | --- |
+
+| HST | $0.10 |
+
+| Amount due | $2.10 |
+
+or
+
+| Price of newspaper | $2.10 |
+
+| --- | --- |
+
+| 5% HST included |  |
+
+If the recipient in the above example were a registrant that would be eligible to claim an ITC to recover the tax paid or payable on the purchase of the newspaper, the maximum ITC available would be $0.10 (i.e., the 5% federal part of the HST). This amount appears only on the second invoice. In the case of the first and third invoices, the recipient will have to calculate 5% of $2.00 ($2.00 × 5% = $0.10), or 5/105 of $2.10 ($2.10 × 5/105 = $0.10), respectively, to determine the amount that may be claimed as an ITC.
+
+For information on invoicing requirements for registrants, see Guide RC4022, [General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst489.html).
+
+## How registrant suppliers account for the rebate on their GST/HST returns
+
+A registrant supplier that pays or credits the rebate amount at the point of sale will have two options for accounting for the rebate amount on its GST/HST return.
+
+First, the registrant supplier may account for the total HST collected or collectible (i.e., 13% for Ontario) on line 103 of the return, and claim an adjustment for the rebate amount paid or credited on line 107.
+
+Second, the registrant supplier may show the net amount as the HST collected or collectible (i.e., 5%) on line 103, and not claim an adjustment for the rebate amount paid or credited on line 107.
+
+A publisher in Ontario sells a subscription to a qualifying newspaper for $50.00 and credits the rebate amount of $4.00 ($50.00 × 8% = $4.00) at the point of sale. The publisher collects the 5% federal part of the HST of $2.50 ($50.00 × 5% = $2.50) payable on the sale.
+
+With respect to accounting for this particular sale on its GST/HST return, the publisher may show the 13% HST collectible of $6.50 ($50.00 × 13% = $6.50) on line 103, and claim an adjustment for the rebate amount credited ($4.00) on line 107, as follows:
+
+| Sales and other revenue (line 101): | $50.00 |  |
+
+| --- | --- | --- |
+
+| GST/HST collected or collectible (line 103) | $6.50 |  |
+
+| Adjustments (line 104) | 0 |  |
+
+| Total GST/HST/adjustments (line 105) |  | $6.50 |
+
+| ITCs (line 106) | 0 |  |
+
+| Adjustment (line 107) | $4.00 |  |
+
+| Total ITCs /adjustments (line 108) |  | $4.00 |
+
+| Net tax (line 109) |  | $2.50 |
+
+Or, the retailer may show the net amount collectible ($6.50 – $4.00 = $2.50) on line 103, and not claim an adjustment for the rebate amount credited on line 107, as follows:
+
+| Sales and other revenue (line 101): | $50.00 |  |
+
+| --- | --- | --- |
+
+| GST/HST collected or collectible (line 103) | $2.50 |  |
+
+| Adjustments (line 104) | 0 |  |
+
+| Total GST/HST/adjustments (line 105) |  | $2.50 |
+
+| ITCs (line 106) | 0 |  |
+
+| Adjustment (line 107) | 0 |  |
+
+| Total ITCs /adjustments (line 108) |  | 0 |
+
+| Net tax (line 109) |  | $2.50 |
+
+For information on completing a GST/HST return, see Guide RC4022, [General Information for GST/HST Registrants](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html).
+
+This info sheet does not replace the law found in *the Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST rulings office for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. Pamphlet RC4405, [GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html), explains how to obtain a ruling and lists the GST/HST rulings offices. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec by calling 1-800-567-4692. You may also visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

@@ -1,0 +1,116 @@
+Title: Nesbitt c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25598/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-942-25598-nesbitt-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-30
+
+# Nesbitt c. La Reine
+
+- Citation: 2003 CCI 942
+- Decision date: 2003-12-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2472, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nesbitt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-30
+Référence neutre
+2003 CCI 942
+Numéro de dossier
+2003-863(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑863(IT)I
+ENTRE :
+DENISE RAE NESBITT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 28 octobre 2003 à Saskatoon (Saskatchewan)
+Devant : L'honorable juge Georgette Sheridan
+Comparutions :
+Avocat de l'appelante :
+Me Andrew Mason
+Avocate de l'intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2001 est admis, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Ottawa, Canada, ce 30e jour de décembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour de mai 2004.
+Daniel E. Renaud, traducteur
+Référence : 2003CCI942
+Date : 20031230
+Dossier : 2003‑863(IT)I
+ENTRE :
+DENISE RAE NESBITT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+QUESTION EN LITIGE
+[1] La question est celle de savoir si la condition médicale dont l’appelante, Denise Nesbitt, est atteinte limite à tel point sa capacité de percevoir, de réfléchir et de se souvenir qu’elle puisse avoir droit de demander un crédit d’impôt pour personnes handicapées en vertu de l’article 118.4 de la Loi de l'impôt sur le revenu (la « Loi »).
+FAITS
+[2] En 1992, Denise Nesbitt, épouse et mère de deux petites filles, a été dans un accident de véhicule automobile dont les séquelles font qu’elle souffre de douleurs chroniques. À ce jour, aucun traitement médical n’a réussi à soulager celles‑ci. Bref, Mme Nesbitt a un mal de tête permanent. Elle vie sa vie au rythme des aléas de ce mal de tête.
+[3] Depuis septembre 1994, Mme Nesbitt est sous les soins de son médecin de famille, le Dr Vassos. Ayant épuisé les recours médicaux qui lui sont alors connus, ce dernier a dirigé l’appelante à la Rothbart Pain Clinic, une clinique médicale de Toronto spécialisée dans le traitement des douleurs chroniques. Le rapport du spécialiste est venu confirmer le diagnostic du Dr Vassos : les douleurs dont souffre Mme Nesbitt, à la tête, dans le cou et dans le bas du dos, réduisent sa capacité de concentration et provoquent, par conséquent, la dégradation de sa mémoire à court terme. La clinique Rothbart lui a donné peu d’espoir de guérison, outre le recours possible à une intervention spécialisée visant à désensibiliser les nerfs du cou et du bas du dos.
+[4] Comme l’exige la Loi[1], Mme Nesbitt a déposé un Certificat pour le crédit d’impôt pour personnes handicapées auprès de l’Agence des douanes et du revenu du Canada (ADRC). Le certificat est le formulaire T2201 de l’ADRC. Il renferme une liste de questions normalisées auxquelles doit répondre le médecin du contribuable, en cochant, selon le cas, la case « oui » ou la case « non ». En réponse à la question de savoir si son patient peut « percevoir, réfléchir et se souvenir », le Dr Vassos a répondu en cochant la case « non ». Insatisfait des réponses données dans le certificat par le Dr Vassos, l’ADRC a fait parvenir un autre de ses formulaires types, soit un questionnaire demandant des renseignements supplémentaires au sujet de l’état de Mme Nesbitt. Les instructions qui suivent figurent au premier paragraphe dudit questionnaire :
+[traduction]
+[...] Dans le formulaire T2201 ci‑joint, « Certificat pour le crédit d’impôt pour personnes handicapées », vous avez indiqué que depuis 1999 les capacités de « percevoir, réfléchir et se souvenir » de votre patiente étaient limitées de façon marquée. Veuillez répondre aux questions qui suivent en fondant vos réponses sur votre opinion professionnelle et sur votre connaissance de l’état médical de votre patiente.
+[5] Le Dr Vassos a décrit l’état médical de sa patiente comme caractérisé par [traduction] « des douleurs et des maux de tête chroniques » et précise que « [les activités courantes de la vie quotidienne de Mme Nesbitt] sont limitées en raison de ses maux de tête chroniques; la garde de son enfant est confiée à une garderie; ses maux de tête provoquent une labilité émotionnelle et la dégradation de sa mémoire à court terme ».
+[6] Après avoir reçu les renseignements supplémentaires demandés, le ministre a rejeté la demande formulée par Mme Nesbitt en ce qui a trait au crédit d’impôt pour personnes handicapées.
+ANALYSE
+[7] Si elle veut obtenir gain de cause, Mme Nesbitt doit apporter la preuve que sa situation particulière est visée par les articles 118.3 et 118.4. Ces dispositions sont fort complexes et empruntent de nombreux termes et syntagmes définis par la loi :
+118.3. (1) [...] si les conditions suivantes sont réunies :
+a) le particulier a une déficience [...] physique grave et prolongée;
+a.1) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée :
+[...]
+b) le particulier présente au ministre l'attestation visée à l'alinéa a.2) pour une année d'imposition;
+[…]
+118.4 (1) Pour l'application [...], des articles [...] 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, [...] il est toujours ou presque toujours [...] incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+[…]
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+[8] Mme Nesbitt doit, pour paraphraser ces dispositions et les appliquer aux faits de l’espèce, établir selon la prépondérance des probabilités qu’elle souffre, depuis une période continue d’au moins douze mois, d’une déficience grave qui l’empêche de percevoir, de réfléchir et de se souvenir, toujours ou presque toujours. Selon le ministre, Mme Nesbitt ne s’est pas acquittée du fardeau qui lui incombait. Bien qu’il reconnaisse que les douleurs chroniques que ressent Mme Nesbitt persistent depuis plus de douze mois, il est d’avis qu’elle n’a pas démontré effectivement que ces douleurs l’empêchent de façon marquée de percevoir, de réfléchir et de se souvenir, toujours ou presque toujours.
+[9] À l'appui de cette prétention, le ministre souligne le témoignage du Dr Vassos, lors du contre‑interrogatoire, en ce qui a trait aux renseignements que ce dernier a fournis à l’ADRC en réponse aux questions du questionnaire supplémentaire. À chacune des questions qui suivent, le Dr Vassos avait coché la case « oui » :
+[traduction]
+Votre patiente était‑elle orientée aux trois sphères (la personne, le lieu et le moment)? Votre patiente comprenait‑elle la notion du danger? Votre patiente pouvait‑elle fonctionner seule dans la collectivité? Votre patiente pouvait‑elle se souvenir des directives ou des renseignements qui lui avaient été donnés lors de consultations à votre bureau? Votre patiente pouvait‑elle s’occuper (seule ou sans supervision) de son hygiène personnelle? Votre patiente pouvait‑elle faire un achat simple de façon autonome?
+[10] Le ministre fait valoir que les réponses formulées par le Dr Vassos à ces questions viennent contredire la conclusion initiale qu’il avait tirée en remplissant le formulaire T2201. Il avait alors indiqué que Mme Nesbitt était limitée de façon marquée dans sa capacité de « percevoir, réfléchir et se souvenir ». Selon ce raisonnement, son diagnostic initial ne peut pas être maintenu et, par conséquent, la demande de Mme Nesbitt doit être rejetée. Le ministre fait en outre valoir qu’une réponse affirmative à ces questions confirme que la capacité de Mme Nesbitt de « percevoir, réfléchir et se souvenir » n’est pas toujours ou presque toujours limitée de façon marquée.
+[11] En commençant d’abord par le second argument, la question de savoir si Mme Nesbitt est limitée au sens de la Loi constitue une question de fait fondée sur toutes les circonstances de l'espèce. Les réponses du Dr Vassos au questionnaire font partie du processus d'établissement des faits, mais ne sont pas en elles‑mêmes des éléments qui permettent de déterminer si Mme Nesbitt peut « percevoir, réfléchir et se souvenir ». Les questions figurant dans le questionnaire sont simplement fournies par le ministère pour servir de guide à l’évaluation du niveau de l’incapacité; elles ne sont pas des conditions prévues par la Loi. Elles n’ont certes pas pour effet d’exclure toute autre preuve relative à l’état médical du patient.
+[12] Le questionnaire demande au médecin qui le remplit de fournir des renseignements supplémentaires [traduction] « en fondant [ses] réponses sur [son] opinion professionnelle et sur [sa] connaissance de l’état médical de [sa] patiente ». C était dans cette optique, et non dans celle d’un exercice d'interprétation législative, que le Dr Vassos a fourni, dans la mesure que le lui permettait le formulaire type présenté, des détails à l’égard de l’état médical de Mme Nesbitt.
+[13] Ses réponses sont‑elles incompatibles avec celles du Certificat T2201? Dans le questionnaire, le Dr Vassos a noté que les maux de tête et les douleurs chroniques dont souffre Mme Nesbitt étaient la cause de sa déficience, et limitaient sa capacité de percevoir, de réfléchir et de se souvenir, ce qui rejoint la réponse du T2201. Il a approfondi son explication en soulignant que [traduction] « de nombreux analgésiques » et d’autres médicaments n’avaient rien fait pour améliorer l’état médical de Mme Nesbitt et a affirmé que la sévérité de limitations fonctionnelles de celle-ci ne serait diminuée qu’au moyen d’une intervention chirurgicale, ce qui rejoint sa réponse du T2201, selon laquelle il était peu probable que la situation de Mme Nesbitt s’améliore. Enfin, l’affirmation du Dr Vassos que [traduction] « la cognition [de Mme Nesbitt] est limitée (attention, concentration et mémoire à court terme) » rejoint son diagnostic initial selon lequel « des douleurs chroniques et de graves maux de tête limitent la fonction cognitive ». Lors du contre‑interrogatoire, le Dr Vassos a maintenu l’opinion qu’il avait préalablement exprimée, et a défendu les réponses qu’il avait fournies. Il n'appartient pas à la Cour de substituer son opinion à l’avis médical professionnel du Dr Vassos. Il s’agit plutôt de déterminer si son diagnostic est visé par les dispositions de la Loi.
+[14] Le ministre estime qu’en l’espèce, tel n’est pas le cas. Il souligne qu’en vertu de l’alinéa 118.4(1)d), le travail, les travaux ménagers et les activités sociales ou récréatives sont expressément exclus de la définition d’une « activité courante de la vie quotidienne ». C’est pour cette raison que le ministre fait valoir que même si Mme Nesbitt est atteinte d’une déficience, cette déficience ne limite pas de façon marquée une « activité courante de la vie quotidienne », tel que le définit la Loi.
+[15] Le principe voulant que la Cour adopte une [traduction] « approche humaine et compatissante » de l’interprétation des articles 118.3 et 118.4 comme l’a d’abord suggéré le juge en chef adjoint Bowman[2] a reçu l’aval de la Cour fédérale du Canada[3]. Cependant, cela ne veut pas pour autant dire que la Cour peut faire fi des conditions d’exclusion de l’article 118.4d) selon lequel « il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne ». [Je souligne.]
+[16] Selon la preuve qu’elle a fournie, Mme Nesbitt a dû quitter le poste qu’elle occupait à la banque; elle ne peut désormais plus s’occuper des travaux ménagers; elle ne s’adonne plus avec son époux à quelconque activité sociale. L’alinéa 118.4(1)d) est rédigé de façon disjonctive. Si Mme Nesbitt avait simplement fondé sa demande de crédit d’impôt pour personnes handicapées sur son incapacité à travailler ou à s’occuper des travaux ménagers ou à s’adonner à des activités sociales, la disposition d’exclusion aurait clairement eu pour effet d’invalider chacune de ces demandes. Cependant, ce n'est pas là le fondement de sa prétention. Son incapacité de [traduction] « percevoir, réfléchir et se souvenir », tel que le prévoit le sous‑alinéa 118.4(1)c)(i), a bouleversé sa vie tout entière. La preuve présentée par Mme Nesbitt démontre que cette douleur, en raison de ses effets importants, se répercute sur toutes les facettes de sa vie. Nécessairement, cela comprend sa capacité à travailler, à s’occuper des travaux ménagers et à s’adonner à des activités sociales. Et même plus, elle se voit nier par cette douleur son rôle de mère. Les simples plaisirs que sont la lecture et la marche lui sont interdits. Cette douleur la dépossède des innombrables aptitudes cognitives qu’en santé nous tenons pour acquis, mais sans lesquelles nous ne pourrions pas fonctionner normalement.
+[17] Dans les paroles de Mme Nesbitt, [traduction] « Ce n’est pas clair […] c’est douteux. Je ne réussis pas à me souvenir des choses que je dois faire. Toujours, j’ai toujours mes maux de tête. » La Cour est convaincue que la preuve est suffisante pour lui permettre de conclure que la capacité de percevoir, de réfléchir et de se souvenir de Mme Nesbitt est limitée au sens de l’article 118.4 pour ouvrir à cette dernière le droit au crédit d’impôt pour personnes handicapées.
+[18] L’appel est donc accueilli.
+Signé à Ottawa, Canada, ce 30e jour de décembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour de mai 2004.
+Daniel E. Renaud, traducteur
+[1] Alinéa 118.3(1)a.2).
+[2] Noseworthy, C.C.I., no 95‑1862(IT)I, 10 janvier 1996 ([1996] 2 C.T.C. 2006), Cotterell, [1996] A.C.I. no 1781 (Q.L.), Radage, C.C.I., no 95‑1014(IT)I, 12 juillet 1996 (96 DTC 1615) et Lawlor, C.C.I., no 95‑1585(IT)I, 10 janvier 1996 ([1996] 2 C.T.C. 2005).
+[3] Johnston c. Canada, [1998] A.C.F. no 169 (C.A.F.); Radage c. La Reine, C.C.I., no 95‑1014(IT)I, 12 juillet 1996 ([1996] 3 C.T.C. 2510 (C.C.I.)).

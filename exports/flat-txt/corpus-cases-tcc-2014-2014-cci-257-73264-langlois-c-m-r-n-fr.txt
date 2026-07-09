@@ -1,0 +1,166 @@
+Title: Langlois c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73264/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-257-73264-langlois-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-08-25
+
+# Langlois c. M.R.N.
+
+- Citation: 2014 CCI 257
+- Decision date: 2014-08-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5206, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langlois c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-08-25
+Référence neutre
+2014 CCI 257
+Numéro de dossier
+2009-1951(EI), 2009-2146(EI), 2009-2147(CPP)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2009-1951(EI)
+2009-2146(EI)
+2009-2147(CPP)
+ENTRE :
+GUY LANGLOIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune les 8 et 10 octobre 2013,
+à New Carlisle (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Avocate de l’appelant :
+Me Andrée Rioux
+Avocate de l’intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi et de l’alinéa 6(1)a) du Régime de pensions du Canada sont rejetés et les décisions du ministre du Revenu national sont confirmées.
+Signé à Ottawa, Canada, ce 25e jour d’août 2014.
+« Alain Tardif »
+Juge Tardif
+Référence : 2014 CCI 257
+Date : 20140825
+Dossiers : 2009-1951(EI)
+2009-2146(EI)
+2009-2147(CPP)
+ENTRE :
+GUY LANGLOIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] L’appelant fait appel de deux déterminations en vertu desquelles le travail qu’il a exécuté a été déclaré non assurable. Le travail sur lequel porte les litiges a été exécuté pour le compte et le bénéfice de deux employeurs différents, soit R. Bossé & Fils inc. et 6302629 Canada inc.
+[2] Les périodes visées sont, dans un premier temps, du 20 septembre 2004 au 20 novembre 2004, pour le dossier 2009-1951(EI) et, dans un deuxième temps, du 4 juillet 2005 au 15 octobre 2005, pour le dossier 2009-2146(EI) au sens de la Loi sur l’assurance-emploi (« LAE ») ainsi que le dossier 2009‑2147(CPP) au sens de l’alinéa 6(1)a) du Régime de pensions du Canada (« RPC »).
+[3] L’appelant fait également appel d’une décision relative à son droit à la pension aux termes de l’article 2 et de l’alinéa 6(1)a) du RPC. Comme il s’agit là d’un litige directement lié ou non à l’assurabilité du travail litigieux, les parties ont convenu de joindre cet appel aux deux dossiers dont l’objet est spécifiquement l’assurabilité du travail en question. Ainsi, le sort de l’appel du dossier 2009‑2147(CPP) repose sur la décision dans les dossiers 2009‑1951(EI) et 2009‑2146(EI).
+[4] Dans un tel contexte, il a été convenu par les parties de procéder au moyen d’une preuve commune pour les trois dossiers.
+[5] L’appelant a expliqué et décrit ses aptitudes et compétences en matière de foresterie ainsi que sa qualité de technicien forestier diplômé.
+[6] Il a expliqué et décrit le genre de travail qu’il avait exécuté pour le compte des deux employeurs qui ont préparé les relevés d’emploi à l’origine des périodes du travail litigieux.
+[7] Très qualifié en matière de foresterie tant en théorie qu’en pratique, l’appelant avait toutes les qualifications requises pour évaluer la valeur d’un boisé. Il avait l’expertise et l’expérience pour surveiller l’exécution du travail d’une coupe sélective, dont notamment la planification requise pour la coupe, le ramassage et la sortie du bois.
+[8] En d’autres termes, l’appelant avait l’expertise suffisante et adéquate en matière de foresterie pour surveiller et superviser l’exécution de ce travail dont les exigences environnementales sont nombreuses et exigeantes. De plus, il avait les connaissances et l’expérience pour remédier aux graves lacunes, voire à l’irresponsabilité des entreprises qui ont retenu ses services et émis les relevés d’emploi litigieux.
+[9] L’appelant a expliqué que les entreprises émettrices des relevés d’emploi litigieux avaient eu plusieurs problèmes avec les municipalités régionales de comté (« MRC ») responsables de la réglementation en matière de protection de l’environnement.
+[10] L’appelant a également expliqué que les dirigeants de ces mêmes entreprises avaient des connaissances très réduites en matière de foresterie. Il a indiqué que le travail de coupe du bois sélectionné et de sortie de ce même bois était généralement exécuté par des sous-traitants qui possédaient et qui utilisaient leur propre équipement pour l’exécution du travail.
+[11] Dans un premier temps, le travail de l’appelant consistait principalement à rencontrer et à discuter avec des propriétaires de boisés; il marchait les terres à bois et évaluait la valeur du boisé pouvant faire l’objet d’une coupe sélective en termes de qualité et de quantité.
+[12] Il évaluait également la nature des problèmes potentiels, déterminait les contraintes telles que la qualité portante du sol sec ou humide et l’accès; il tenait compte de la proximité de cours d’eau, de marécages, de la dénivellation du terrain, etc.
+[13] À la suite de la visite des lieux, de l’évaluation du boisé, des conditions et des contraintes pour sortir le bois coupé, il soumettait un rapport à l’entreprise qui présentait une offre au propriétaire et/ou gestionnaire du boisé.
+[14] L’appelant n’était pas partie aux négociations et ne connaissait pas la nature de l’offre entre les propriétaires et/ou gestionnaires des boisés et les compagnies émettrices des relevés d’emploi. Il était essentiellement informé du résultat.
+[15] Dans un second temps, si une transaction était complétée, il en était avisé et se rendait alors sur les lieux pour s’assurer que le travail serait exécuté selon les normes tout en respectant la réglementation environnementale.
+[16] Pour confirmer et valider ses prétentions, l’appelant a fait intervenir deux témoins, l’un en qualité de propriétaire, et l’autre en tant que gestionnaire dûment mandaté, lesquels ont fait état qu’ils avaient bel et bien vu l’appelant, à quelques reprises, sur les terrains qui faisaient l’objet de la coupe sélective. De plus, l’appelant a déposé, avec le consentement de l’intimé, des affidavits au soutien de sa preuve.
+[17] L’appelant a concentré la presque totalité de ses efforts et de ses énergies à démontrer qu’il avait travaillé comme s’il s’était agi du seul élément requis pour avoir gain de cause.
+[18] Il n’y a aucun doute que l’appelant a bel et bien effectué du travail pour des entreprises qu’il a décrites comme ses employeurs. Par contre, la relation entre ces supposés employeurs et lui était-elle celle qu’il voudrait que le tribunal retienne?
+[19] Pour ce qui est des périodes de travail où les heures de travail auraient été effectuées, la preuve est plutôt circonstancielle; cette preuve est principalement constituée des témoignages de messieurs Lajule et Horth auxquels s’ajoute le contenu des affidavits. Ces deux témoins ont essentiellement relaté avoir vu d’une façon ponctuelle l’appelant sur le chantier situé sur les terrains dont ils avaient la responsabilité. Ces témoignages valident simplement l’évidence de l’exécution ponctuelle du travail exécuté par l’appelant.
+[20] Quant à l’affidavit de Jacques Francoeur, il affirme avoir vu l’appelant chaque jour du 4 juillet 2005 au 15 octobre 2005. Or, le reste est imprécis, voire un peu confus.
+[21] Dans ce cas, la précision a plutôt pour effet de discréditer la fiabilité de l’information; en effet, l’élément le plus important, soit la durée du travail, est très précis et sans équivoque; tout le reste est vague et incertain.
+[22] Sur la preuve de présence de l’appelant sur les chantiers, le contenu de l’affidavit signé par Danny Hudon est assez révélateur quant à l’absence totale de crédibilité du témoignage de l’appelant quant à sa présence continue sur les chantiers. Je fais notamment référence à la cédule de travail de M. Hudon qui affirme dans l’affidavit avoir travaillé à raison de sept jours consécutifs par semaine toutes les deux semaines.
+[23] À une question précise du tribunal, à savoir si M. Hudon, signataire d’un affidavit, était présent d’une façon continue sur les lieux de travail, l’appelant a affirmé qu’effectivement ce dernier était toujours présent sauf les congés de fin de semaine.
+[24] Or, le signataire de l’affidavit affirme au paragraphe 11 ce qui suit :
+Je travaillais avec une autre équipe, nous partagions le travail de sorte que je me trouvais sur les lieux pendant 7 jours et que j’avais un congé de la même durée par la suite alors que j’étais remplacé par une autre équipe et ainsi de suite.
+[25] Si M. Hudon avait été aussi présent, il n’y a aucun doute qu’il se serait développé peut-être non pas une amitié, mais très certainement une relation qui aurait permis à l’appelant de savoir et de se rappeler que M. Hudon travaillait très différemment de ce qu’il a affirmé. Il s’agit là d’un élément fort important pour l’appréciation de la crédibilité.
+[26] Cet élément s’est d’ailleurs complété par les réponses de l’appelant lors des divers interrogatoires effectués par les enquêteurs et les réponses données, à partir de chez lui, à des questionnaires qu’il a lui-même remplis, plus spécifiquement quant aux divers endroits où il a travaillé.
+[27] La preuve incomplète de l’appelant ne permet pas de conclure que le travail en question a été effectué dans le cadre d’un contrat de louage de services. En effet, les explications de l’appelant sont à l’effet que les négociations relatives à la rémunération se sont plutôt déroulées sur une base d’égal à égal. D’ailleurs, les parties au contrat avaient besoin l’une de l’autre : l’exploitation forestière pour poursuivre ses activités, et l’appelant qui voulait se qualifier pour les prestations d’assurance-emploi.
+[28] À la lumière des faits tenus pour acquis pour expliquer et justifier les déterminations, à savoir qu’il ne s’agissait pas d’un travail assurable, l’appelant se devait certes d’insister sur le volet travail.
+[29] La preuve de l’appelant a longuement fait état du travail exécuté, le tout découlant sans doute du paragraphe r) dans les trois dossiers 2009-2146(EI), 2009‑1951(EI) et 2009-2147(CPP) des réponses aux avis d’appel où il est écrit ce qui suit : « pendant la période en litige, l’appelant n’a rendu aucun service à la payeuse ».
+[30] En effet, à la lecture des allégations dans les réponses aux avis d’appel, manifestement rédigées dans le contexte d’une énorme fraude relative à des relevés d’emploi fictifs, il appert que l’appelant se devait d’insister sur le volet « travail fait » étant donné que, dans un grand nombre de dossiers, il s’agissait essentiellement de relevés d’emploi de complaisance.
+[31] Pour éviter que l’appelant soit privé ou pénalisé par le contenu très généraliste des allégués mentionnés aux avis d’appel, je suis souvent intervenu pour que le débat soit limité à la question fondamentale suivante : s’agissait-il d’un travail assurable?
+[32] Malgré les rappels, l’appelant n’a fourni aucun élément de preuve quant à un quelconque lien de subordination. Une rémunération versée sous forme de salaire, l’exécution de travail et la présence ponctuelle sur un chantier sont des éléments fort importants dans une relation de travail.
+[33] Par contre, ils ne sont pas suffisants pour conclure à l’existence d’un contrat de louage de services; ce sont là des caractéristiques tout aussi essentielles en matière de contrat d’entreprise.
+[34] La distinction entre les deux contrats est l’existence du lien de subordination où une partie a l’autorité sur l’autre, le pouvoir de contrôle et la capacité de surveiller, d’intervenir et de sanctionner le travail exécuté par l’autre partie.
+[35] Par opposition, le contrat d’entreprise suppose que les parties au contrat négocié transigent et communiquent d’égales à égales et où le travail est plutôt apprécié en termes d’attentes et de résultats.
+[36] En l’espèce, le travail a été exécuté, mais je suis convaincu qu’il l’a été à la convenance et suivant la disponibilité de l’appelant. Chose certaine, la preuve est totalement insuffisante pour conclure que le travail a été exécuté selon les descriptions indiquées aux relevés d’emploi litigieux.
+[37] Il est très difficile de démontrer l’existence d’un lien de subordination sans la présence des deux parties au contrat. Or, les explications de l’appelant quant à l’absence de ses supposés employeurs et/ou compagnons de travail ne sont pas convaincantes.
+[38] En effet, il a affirmé qu’il préférait se tenir loin de personnes potentiellement dangereuses, et ce, bien qu’il a semblé, tant par son langage et certaines observations, avoir eu des relations plutôt amicales avec ces dernières.
+[39] Dans de telles circonstances, je crois plutôt que leur absence était justifiée par la crainte très réelle que les personnes en question valident la thèse de l’intimé par leurs explications quant à leur relation avec l’appelant.
+[40] En l’espèce, il n’y avait aucun lien de subordination entre les deux parties. Le mandat confié à l’appelant en était un de résultat. Pour arriver à ce résultat, l’appelant avait toute latitude et liberté, il n’était assujetti à aucune autorité. En d’autres termes, la preuve soumise ne permet pas de conclure à l’existence d’un contrat de louage de services.
+[41] Certes, il s’agit là d’une interprétation à partir de la preuve présentée. Par contre, il s’agit d’une interprétation validée par un certain nombre d’éléments qui la rendent probante.
+[42] Je fais notamment référence aux éléments suivants :
+• absence des représentants des deux entreprises,
+• la nature du travail,
+• circonstance quant à la fixation de la rémunération,
+• présence sur les lieux du travail,
+• l’appelant avait lui-même une entreprise,
+• explications incomplètes, mais révélatrices du contenu de l’affidavit de M. Hudon,
+• l’absolue nécessité pour les entreprises de retenir les services de l’appelant.
+[43] Le travail de l’appelant a été fait pour le compte et le bénéfice de deux entreprises qui n’avaient, semble-t-il, aucun respect ou connaissance en matière de réglementation environnementale.
+[44] Les entreprises en question étaient connues comme des délinquantes, n’ayant aucune préoccupation face aux exigences commandées par le respect de la protection de l’environnement.
+[45] Les entreprises en question étaient à ce point irresponsables qu’elles auraient de toute évidence dû quitter la région n’eût été de la venue de l’appelant qui, de par ses connaissances, ses qualifications et sa réputation, a en quelque sorte accrédité les entreprises en question auprès des autorités dont notamment les MRC.
+[46] L’appelant a expliqué avoir exigé une rémunération qui correspondait au montant maximum assurable, ce qui lui fut accordé. Il a affirmé dans un premier temps qu’il marchait les terres à bois susceptibles de faire l’objet d’une coupe pour évaluer la quantité et la qualité du bois. Il estimait également les contraintes possibles pour sortir le bois de la forêt. À cet égard, il traçait les endroits appropriés pour qu’un chemin soit fait pour permettre la sortie du bois toujours en conformité avec les lois et règlements prévus pour le respect de l’environnement.
+[47] Toutes les explications fournies par l’appelant ont été très générales et peu précises si ce n’est quant aux endroits, lesquels ont été validés et confirmés par deux personnes propriétaires et/ou responsables des lieux où a été effectué le travail de coupe de bois.
+[48] La description du travail exécuté et des jours véritables où ce travail fut exécuté a été faite dans des termes très généraux, un peu confus et imprécis quant au travail. Chose certaine, la prépondérance de la preuve ne permet pas de conclure que l’appelant a travaillé le nombre d’heures et les périodes mentionnées aux relevés d’emploi, l’objet fondamental des deux dossiers relatifs à l’assurabilité.
+[49] L’appelant a fait référence à « Pierre » pour parler de monsieur Pierre Bossé lors de son témoignage, démontrant ainsi qu’il le connaissait très bien. Il a affirmé que M. Bossé avait peu, sinon aucune connaissance du domaine de la foresterie et avait acquis une très mauvaise réputation au point que les autorités avaient dû initier des procédures judiciaires pour faire cesser le massacre forestier.
+[50] Il avait donc besoin de l’appelant qui évaluait et qui chiffrait les inventaires du bois qui pouvait être cueilli. Il délimitait les territoires ciblés par la coupe et décrivait la qualité du bois, des sols, permettant ainsi de prévoir les contraintes et les exigences en termes de matériel et de machinerie pour sortir le bois à être coupé sur les divers sites.
+[51] La preuve de l’appelant a fait ressortir un seul élément important susceptible de valider ses prétentions; il s’agit de son relevé bancaire démontrant que les dépôts de paye étaient conformes aux relevés d’emploi. Certes, il s’agit d’un élément pertinent, mais certainement non déterminant pour prouver l’existence d’un lien de subordination; il s’agissait sans doute d’une simple entente sur les modalités de paiement.
+[52] L’employeur et/ou l’auteur des relevés d’emploi n’ont pas témoigné.
+[53] De son côté, l’intimé a fait ressortir que les deux employeurs en question avaient fait l’objet d’une importante enquête ayant notamment permis de constater d’une manière non équivoque les faits décrits aux paragraphes 8d) et e) dans le dossier 2009-1951(EI) et 7k) et l) dans les dossiers 2009-2146(EI) et 2009‑2147(CPP) des réponses aux avis d’appel :
+d)/k) la payeuse fait partie d’un groupe de sociétés qui furent l’objet d’une enquête majeure menée par la Commission de l’assurance-emploi;
+e)/l) l’enquête majeure a révélé que ces sociétés, dont la payeuse, étaient impliquées dans des stratagèmes avec des individus comme l’appelant, visant à leur émettre de faux relevés d’emploi dans le but de les qualifier à des prestations d’assurance-emploi auxquelles ils n’auraient pas eu droit;
+[54] Le fardeau de la preuve incombe à l’appelant. Il a choisi de ne pas faire intervenir les deux employeurs, dont l’un qu’il connaissait particulièrement bien puisque, lors de son témoignage, il a constamment fait référence à « Pierre » pour parler de M. Bossé. Il aurait été important que ce dernier vienne valider, confirmer et corroborer les divers faits relatés par l’appelant. La preuve de l’appelant est essentiellement circonstancielle.
+[55] Il n’y a pas de doute que l’appelant a bel et bien exécuté du travail pour les sociétés R. Bossé & Fils inc. et 6302629 Canada inc.
+[56] Par contre, bien que la preuve ait établi l’exécution de travail par l’appelant, cela fait-il en sorte que ce travail a été exécuté dans le cadre d’un contrat de louage de services?
+[57] La réponse est évidemment négative puisque le travail a manifestement été exécuté dans le cadre d’un contrat d’entreprise pour un montant dont les paiements ont été établis d’une manière à créer une sorte de présomption qu’il s’agissait d’un contrat de louage de services; or, l’appelant était plutôt un entrepreneur ou un travailleur autonome.
+[58] Il s’agit d’un dossier où le contrat d’entreprise a été maquillé en contrat de louage de services. En matière d’assurance-emploi, la forme a certes une importance, mais le fond est tout aussi essentiel et doit s’arrimer avec la forme.
+[59] Au moment de la préparation de son dossier, l’appelant savait et connaissait très bien les faits et circonstances à l’origine de la décision qui fait l’objet de ses trois appels.
+[60] Malgré cette réalité, l’appelant a choisi de soumettre une preuve assez générale et peu précise quant aux éléments essentiels. Il a mentionné que le salaire réclamé était fonction du montant maximum assurable pour la période requise pour se qualifier aux prestations d’assurance-emploi et du RPC.
+[61] L’appelant a également choisi de ne pas faire témoigner les deux employeurs en question, et ce, sachant très bien leur peu de scrupules à donner, à vendre ou à falsifier plusieurs relevés d’emploi. Cette réalité aurait dû faire en sorte qu’il ne néglige, ni n’omette certains éléments de preuve.
+[62] À la lumière de la preuve soumise, de part et d’autre, la preuve essentiellement circonstancielle de l’appelant ne permet pas de conclure à une prépondérance selon laquelle l’entente quant au travail bel et bien exécuté l’ait été en vertu d’un contrat de louage de services.
+[63] Pour ces raisons, les appels en vertu de la LAE et du RPC de l’appelant sont rejetés.
+Signé à Ottawa, Canada, ce 25e jour d’août 2014.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2014 CCI 257
+Nos DES DOSSIERS DE LA COUR : 2009-1951(EI)
+2009-2146(EI)
+2009-2147(CPP)
+INTITULÉ DE LA CAUSE : GUY LANGLOIS c. M.R.N.
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATES DE L’AUDIENCE : Les 8 et 10 octobre 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 25 août 2014
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Andrée Rioux
+Avocate de l’intimé :
+Me Stéphanie Côté
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour l’appelant :
+Nom : Me Andrée Rioux
+Cabinet : New Richmond (Québec)
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

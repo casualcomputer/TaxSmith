@@ -1,0 +1,204 @@
+---
+title: "Sylvie Vallée et Louis Bouchard s/n Fiducie Sylvie Vallée c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26918/index.do"
+last_modified: "2004-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 320"
+citation2: ""
+neutral_citation: "2004 CCI 320"
+decision_date: "2004-04-30"
+language: "fr"
+item_id: "26918"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 724
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:32:10.009000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "582c8a0249a2e200be2bab499131907db1747b2dafc178db9ff44e27682373c4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sylvie Vallée et Louis Bouchard s/n Fiducie Sylvie Vallée c. La Reine
+
+- Citation: 2004 CCI 320
+- Decision date: 2004-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 724, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sylvie Vallée et Louis Bouchard s/n Fiducie Sylvie Vallée c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-30
+Référence neutre
+2004 CCI 320
+Numéro de dossier
+2003-114(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-114(GST)I
+ENTRE :
+SYLVIE VALLÉE ET LOUIS BOUCHARD
+s/n FIDUCIE SYLVIE VALLÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 10 février 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelante :
+Me Andrée-Claude Harvey
+Avocate de l'intimée :
+Me Ghislaine Thériault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation relativement à la taxe sur les produits et services établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 5 février 2002 et porte le numéro 013310013229G005 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI320
+Date : 20040430
+Dossier : 2003-114(GST)I
+ENTRE :
+SYLVIE VALLÉE ET LOUIS BOUCHARD
+s/n FIDUCIE SYLVIE VALLÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision de l'intimée refusant une demande de remboursement en vertu des paragraphes 123(1) et 256(2) de la Loi sur la taxe d'accise ( « LTA » ).
+[2] Les hypothèses de fait sur lesquelles l'intimée s'est appuyée pour refuser le remboursement de la taxe sur les produits et services ( « TPS » ) pour habitation neuve sont énumérées aux paragraphes 14 a) à d) inclusivement de la Réponse à l'avis d'appel et se lisent comme suit :
+a) Sylvie Vallée et Louis Bouchard ont formé le 21 juillet 2000 une fiducie appelée Fiducie Sylvie Vallée, tel qu'il appert de la pièce I-4;
+b) Le 29 juillet 2000, la Fiducie Sylvie Vallée acquérait de Excavation R.S.R. inc. un terrain connu et désigné comme étant les subdivisions 919-38 et 920.641 du cadastre officiel de la Paroisse de Beauport, tel qu'il appert de la pièce I-5;
+c) Dans cette transaction, l'acquéreur s'engageait à construire une résidence, ce qu'il fit, tel qu'il appert de l'hypothèque enregistrée à l'index aux immeubles apparaissant à la pièce I-6;
+d) Le 12 octobre 2001, la Fiducie Sylvie Vallée demandait à l'intimée un remboursement de TPS pour habitation neuve, tel qu'il appert de la pièce I-7;
+[3] La question en litige consiste à savoir si l'appelante, Fiducie Sylvie Vallée, a droit à un remboursement pour habitation neuve en vertu au paragraphe 256(2) de la LTA, qui se lit comme suit :
+(2) Remboursement - Habitation construite par soi-même - Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d'habitation - immeuble d'habitation à logement unique ou logement en copropriété - ou y fait des rénovations majeures, pour qu'il lui serve de résidence habituelle ou serve ainsi à son proche;
+b) la juste valeur marchande de l'immeuble, au moment où les travaux sont achevés en grande partie, est inférieure à 450 000 $;
+c) le particulier a payé la taxe prévue à la section II relativement à la fourniture par vente, effectuée à son profit, du fonds qui fait partie de l'immeuble ou d'un droit sur ce fonds, ou relativement à la fourniture effectuée à son profit, ou à l'importation par lui, d'améliorations à ce fonds ou, dans le cas d'une maison mobile ou d'une maison flottante, de l'immeuble (le total de cette taxe prévue au paragraphe 165(1) et aux articles 212 et 218 étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+[...]
+[4] En d'autres termes, une fiducie personnelle constitue-t-elle un « particulier » en vertu de la LTA?
+[5] Les parties ont plaidé à l'appui de leurs prétentions respectives; toutes les hypothèses de fait ont été admises.
+[6] L'appelante a soutenu être une « fiducie de protection d'actif » et ne pas avoir de personnalité juridique distincte, contrairement à ce qu'il en est dans le cas d'un « trust » en common law.
+[7] En effet, la notion de la fiducie en droit québécois est juridiquement différente de celle du « trust » en common law, bien qu'ils soient semblables à certains égards. La doctrine et la jurisprudence pertinente au trust n'est donc pas nécessairement valable dans un dossier où il est question de fiducie.
+[8] Le professeur Jacques Beaulne a discuté de l'importante distinction entre les deux concepts dans son traité Droit des fiducies, Montréal, Wilson & Lafleur, 1998, pp. 29 à 35 :
+Par ailleurs, afin d'éviter toute importation de la common law, l'Office de révision du Code civil s'empressait d'ajouter que les nouvelles règles devaient se limiter aux fiducies explicites (express trust) et qu'elles n'auraient pas pour effet d'introduire dans le droit du Québec la théorie du droit anglais des resulting trust et constructive trust. Les nouvelles assises juridiques de la fiducie ont recours à la notion civiliste de patrimoine, en évitant la notion de propriété fiduciaire de common law ou la constitution d'une fiducie en véritable personne morale. Bien qu'elle se détache des théories classiques de la propriété, en permettant qu'un patrimoine ne soit pas rattaché à une personne physique ou morale, la doctrine s'harmonise néanmoins avec les concepts généraux du droit civil.
+[...]
+Sur le plan du droit interne, le concept de fiducie fondé sur la notion de patrimoine d'affectation a donc les avantages suivants : tout d'abord, on évite d'avoir à recourir à la notion de « propriété fiduciaire » de la common law en intégrant globalement le concept de patrimoine d'affectation dans le cadre de la théorie moderne civiliste du patrimoine. Ensuite, il n'est pas nécessaire de constituer la fiducie en personne morale, ni de lui donner la personnalité juridique pour fonctionner, car la fiducie n'est pas un sujet de droit (au sens de la théorie classique du patrimoine).
+[...]
+On le constate, les obstacles que le Québec a à surmonter en regard de la common law sont donc essentiellement liés à une compréhension de la fiducie par ceux qui connaissent seulement le trust, avec son dédoublement de la propriété. En effet, le fait que le patrimoine fiduciaire soit indépendant du fiduciaire lui-même fait en sorte que le « titre » du fiduciaire dans les biens qu'il administre n'est pas aussi complet que celui du trustee de la common law : le fait d'accorder un « titre » ou un droit d'administration au fiduciaire sur les biens n'en fait pas le propriétaire, mais seulement le gestionnaire. À ce titre se greffent tous les pouvoirs qui sont nécessaires pour lui permettre d'administrer le plus efficacement possible les biens fiduciaires.
+Au paragraphe 24 de son avis d'appel, l'appelante s'exprime comme suit :
+24. Ainsi, elle n'appartient pas à cette catégorie de « fiducie » distinguée spécifiquement de « particulier » dans l'énumération que l'on retrouve à l'article 123 de la Loi et à laquelle il est fait référence au paragraphe 8 des présents motifs;
+[9] De son côté, l'intimée a essentiellement plaidé qu'une fiducie ne peut être un particulier au sens de la LTA.
+[10] Le paragraphe 123(1) de la LTA se lit comme suit :
+Définitions
+123(1) « acquéreur »
+a) Personne qui est tenue, aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu'aux termes d'une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n'est payable pour une fourniture :
+(i) personne à qui un bien, fourni par vente, est livré ou mis à sa disposition;
+(ii) personne à qui la possession ou l'utilisation d'un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+(iii) personne à qui un service est rendu.
+Par ailleurs, la mention d'une personne au profit de laquelle une fourniture est effectuée vaut mention de l'acquéreur de la fourniture.
+[...]
+« personne » Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l'organisme qui est un syndicat, un club, une association, une commission ou autre organisation; ces notions sont visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
+[11] L'appelante a créé une fiducie personnelle dont le but est de procurer un avantage à une personne déterminée ou qui peut l'être, le tout conformément à l'article 1267 du Code civil du Québec ( « C.c.Q. » ), qui se lit comme suit :
+1267.La fiducie personnelle est constituée à titre gratuit, dans le but de procurer un avantage à une personne déterminée ou qui peut l'être.
+[12] L'appelante a raison de prétendre que la fiducie dont il est question en l'espèce n'a pas de personnalité juridique. Peut-on conclure pour autant au bien-fondé de l'appel de l'appelante?
+[13] La loi applicable dans le présent dossier est une loi fédérale qui doit être appliquée de la même manière à l'échelle du pays. À cet égard, je rappelle certaines dispositions de la Loi d'interprétation L.R. ch. I-21 ( « LI » ) :
+8. (1) Sauf disposition contraire y figurant, un texte s'applique à l'ensemble du pays.
+8.2 Sauf règle de droit s'y opposant, est entendu dans un sens compatible avec le système juridique de la province d'application le texte qui emploie à la fois des termes propres au droit civil de la province de Québec et des termes propres à la common law des autres provinces, ou qui emploie des termes qui ont un sens différent dans l'un et l'autre de ces systèmes.
+[14] Que l'on soit en présence d'une fiducie prévue par le C.c.Q. ou d'un trust en vertu de la common law, dans un cas comme dans l'autre, il s'agit d'une personne au sens de la LTA.
+[15] Ce constat n'est cependant pas suffisant pour statuer sur l'appel, dont le fondement est la question de savoir si une fiducie est un particulier.
+[16] La LTA ne définit pas le mot particulier. Pour avoir une définition du terme particulier, il faut avoir recours au paragraphe 248(1) de la Loi de l'impôt sur le revenu ( « LIR » ).
+« particulier » Personne autre qu'une société.
+« personne » Sont comprises parmi les personnes tant les sociétés que les entités exonérées de l'impôt prévu à la partie I sur tout ou partie de leur revenu imposable par l'effet du paragraphe 149(1), ainsi que les héritiers, liquidateurs de succession, exécuteurs testamentaires, administrateurs ou autres représentants légaux d'une personne, selon la loi de la partie du Canada visée par le contexte. La notion est visée dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
+« société » Sauf dans l'expression « société de personnes » , s'entend d'une personne morale, y compris une compagnie.
+[17] La LTA définit le mot personne au paragraphe 123(1) comme suit :
+« personne » Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l'organisme qui est un syndicat, un club, une association, une commission ou autre organisation; ces notions sont visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
+[18] La LTA ne définit pas le terme « particulier » . Il faut donc s'en remettre aux règles générales d'interprétation. Dans une décision récente, l'affaire CCH Canadienne Ltée c. Barreau du Haut-Canada, [2004] A.C.S. no 12, par. 9 (Q.L.), la Cour suprême du Canada rappelait que « les tribunaux doivent recourir à l'approche moderne en matière d'interprétation législative selon laquelle « il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur » : Bell ExpressVu Limited Partnership c. Rex, [2002] 2 R.C.S. 559, 2002 CSC 42, par. 26, où notre Cour cite E. A. Driedger, Construction of Statutes (2e ed. 1983), p. 87. »
+[19] DansWill-Kare Paving & Contracting Ltd. c. Canada, [2000] 1 R.C.S. 915, le juge Binnie affirmait aux paragraphes 53-55 :
+La première règle dégagée dans le résumé figurant à la p. 20 de l'arrêt Notre-Dame de Bon-Secours est que « [l]'interprétation des lois fiscales devrait obéir aux règles ordinaires d'interprétation » . Les « règles ordinaires » comprennent la règle moderne du sens ordinaire, comme le fait observer J. E. Fulcher, conseiller fiscal au ministère de la Justice, dans « The Income Tax Act: The Rules of Interpretation and Tax Avoidance. Purpose vs. Plain Meaning: Which, When and Why? » (1995), 74 R. du B. can. 563. Commentant (à la p. 578) l'arrêt ultérieur Canada c. Antosko, [1994] 2 R.C.S. 312, il dit ceci :
+[TRADUCTION] [L']affaire n'a jamais dépassé la première règle énoncée dans Bon-Secours. La règle ordinaire d'interprétation dans ce cas est que les dispositions non équivoques doivent être interprétées comme elles sont écrites et, le constat d'ambiguïté relevant d'une certaine subjectivité, pourquoi venir à la rescousse du ministère des Finances quand la disposition est parfaitement claire?
+La première règle dans l'interprétation des lois est qu'il faut déterminer l'intention du législateur. Quand le sens des mots utilisés est clair et que le contexte ne crée pas d'ambiguïté, les mots sont alors les meilleurs indicateurs de l'intention du législateur : R. c. McIntosh, [1995] 1 R.C.S. 686, à la p. 697, le juge en chef Lamer, et à la p. 712, le juge McLachlin dissidente. Certes, l'affirmation que les mots ont un « sens ordinaire » est en soi une conclusion fondée sur une analyse contextuelle. Toutefois, une fois qu'on a eu recours aux outils d'interprétation et qu'on a examiné la question sous les différents angles identifiés par le professeur Driedger, s'il ressort de cet exercice que le sens des termes utilisés par le législateur est manifeste, il faut leur donner effet. Les commentaires de Stubart Investments sur la notion de « sens ordinaire » sont ainsi réitérés par le juge Major dans Friesen, précité, au par. 10. Si, dit-il, après avoir examiné le contexte et l'objet de la disposition fiscale, le tribunal conclut néanmoins qu' « une disposition est rédigée dans des termes précis qui n'admettent aucun doute ni aucune ambiguïté quant à son application aux faits, elle doit être appliquée nonobstant son objet » : Friesen, précité, au par. 11, citant P. W. Hogg et J. E. Magee, Principles of Canadian Income Tax Law (1995), p. 454.
+La force de la règle du « sens ordinaire » réside dans la reconnaissance que les termes de la disposition sont eux-mêmes le véhicule par lequel le législateur transmet son intention aux personnes qui tentent de déterminer leurs droits et leurs obligations fiscales au titre de la Loi. Comme la Cour le dit dans l'arrêt Antosko, précité (aux pp. 326 et 327) :
+Même si les tribunaux doivent examiner un article de la Loi de l'impôt sur le revenu à la lumière des autres dispositions de la Loi et de son objet, et qu'ils doivent analyser une opération donnée en fonction de la réalité économique et commerciale, ces techniques ne sauraient altérer le résultat lorsque les termes de la Loi sont clairs et nets et que l'effet juridique et pratique de l'opération est incontesté...
+[20] Le dictionnaire Le Robert définit un « particulier » comme une « personne privée, un simple citoyen, un individu » . De plus, la version anglaise du paragraphe 256(2) de la LTA fait référence à un « particular individual » . Bien que la version anglaise de la LTA ne définit pas l'expression « particular individual » , les termes anglais « person » et « individual » y sont définis comme suit, au paragraphe 123(1) :
+« person » means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;
+« individual » means a natural person;
+[21] La notion d'individu est donc la caractéristique commune des termes « particulier » , « particular individual » , « individual » et « person » . Malheureusement, la version française de la LTA ne dit rien à l'égard de la signification du terme « individu » . Le Robert [Le Robert électronique] définit le terme « individu » comme suit :
+I
+- 1. (Sens large). Sc. être* formant une unité distincte, dans une série hiérarchique formée de genres* (II., 1.) et d'espèces (III., 1.).
+- 2. (1738, D'Argens in T.L.F.). Biol., cour. Corps organisé vivant d'une existence propre et qui ne saurait être divisé sans être détruit.
+- 3. (1680). Relativement à l'espèce humaine. - Homme (I., cit. 17, 87, 88), humain.
+-II. (1751). Sc. Unité élémentaire (d'une société).
+-III. (1791, Robespierre, in T.L.F.). Cour. (Souvent péj.). Personne, être humain* quelconque, que l'on ne peut ou que l'on ne veut pas nommer.
+[22] En common law, de façon générale, on peut affirmer qu'un trust a sa propre personnalité juridique et, par voie de conséquence, un patrimoine autonome et distinct; par contre, en droit civil québécois, le législateur a voulu qu'il en soit autrement pour la fiducie, en ce qu'elle a son propre patrimoine sans pour autant avoir une personnalité juridique distincte.
+[23] Même s'il n'y a pas de doute que la fiducie, création du droit civil québécois, peut être considérée comme une personne en vertu de la LTA, il n'est cependant pas possible de conclure pour autant que cette personne est aussi un particulier au sens de la même loi, puisqu'il ne s'agit pas d'une personne physique.
+[24] Or, il n'y a aucun doute que les dispositions de la LTA quant au sujet dont il est question en l'instance visent essentiellement les personnes physiques, les êtres humains en d'autres termes.
+[25] Il existe toute une panoplie de créations juridiques, notamment les sociétés, les associations, les coopératives, les personnes morales, les fiducies, etc. Toutes ces créations ont certaines caractéristiques communes entre elles, mais ne sont pas et ne peuvent pas être des personnes humaines, seule qualification possible pour faire partie de la définition de particulier.
+[26] Un particulier peut donc être une personne au sens large, mais aussi un être humain, et surtout une personne physique, ce qui exclut totalement toute créature juridique, à moins que le législateur le prévoit expressément, ce qui n'est pas le cas en l'espèce.
+[27] Pour ces motifs, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI320
+No DU DOSSIER DE LA COUR :
+2003-114(GST)I
+INTITULÉ DE LA CAUSE :
+Sylvie Vallée et Louis Bouchard s/n
+Fiducie Sylvie Vallée et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE de l'audience :
+le 10 février 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 30 avril 2004
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Andrée-Claude Harvey
+Avocate de l'intimée :
+Me Ghislaine Thériault
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Andrée-Claude Harvey
+Étude :
+Gravel Bédard Vaillancourt
+Ville :
+Sainte-Foy (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,176 @@
+---
+title: "Perron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/236778/index.do"
+last_modified: "2017-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 220"
+citation2: ""
+neutral_citation: "2017 CCI 220"
+decision_date: "2017-11-01"
+language: "fr"
+item_id: "236778"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2167
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:19:31.448000+00:00"
+cases_cited_count: 4
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e43a6dd050ea9d929fc1cbf26afc8039770434515355373539213e7db9360707"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perron c. La Reine
+
+- Citation: 2017 CCI 220
+- Decision date: 2017-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2167, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-01
+Référence neutre
+2017 CCI 220
+Numéro de dossier
+2016-1744(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1744(IT)I
+ENTRE :
+CHANTAL PERRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 mars 2017, à Edmonton (Alberta)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+JUGEMENT
+L’appel découlant de nouvelles déterminations établies le 19 février et le 4 mars 2016 aux termes de la Loi de l’impôt sur le revenu relativement à la Prestation fiscale canadienne pour enfants et au crédit pour la taxe sur les produits et services/taxe de vente harmonisée pour la période de juillet 2013 à juin 2016, inclusivement, est rejeté sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2017.
+« B. Russell »
+Le juge Russell
+Référence : 2017 CCI 220
+Date : 20171101
+Dossier : 2016-1744(IT)I
+ENTRE :
+CHANTAL PERRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+INTRODUCTION
+[1] Mme Chantal Perron interjette appel des nouvelles déterminations établies par le ministre du Revenu national (« ministre ») le 19 février et le 4 mars 2016 aux termes de la Loi de l’impôt sur le revenu fédérale, modifiée le 1er juillet 2016 (Loi). Dans le cadre de ces nouvelles déterminations, le ministre a refusé d’accorder à l’appelante une partie de la Prestation fiscale canadienne pour enfants (PFCE) et du crédit pour la taxe sur les produits et services/taxe de vente harmonisée (crédit pour la TPS/TVH) conformément aux articles 122.6 et 122.5 de la Loi, pour la période de prestations de juillet 2013 à juin 2016 relativement à la PFCE, et pour les périodes de juillet 2013 à avril 2014, de juillet 2014 à avril 2015 et de juillet 2015 à janvier 2016 relativement au crédit pour la TPS/TVH.
+[2] Les nouvelles déterminations portées en appel avaient essentiellement pour effet de réduire de moitié les montants que Mme Perron avait le droit de recevoir au titre de la PFCE et du crédit pour la TPS/TVH pour les périodes applicables. Ce résultat découle de la présomption du ministre selon laquelle, pendant la période de prestations, Mme Perron était un « parent ayant la garde partagée » au sens de l’article 122.6 aux fins de la PFCE, et du paragraphe 122.5(3.01) aux fins du crédit pour la TPS/TVH.
+[3] Lors d’une requête entendue au début de l’audience, l’intimée a été autorisée à déposer une réponse modifiée. Toutes les modifications ont fait en sorte de priver la Cour de sa compétence dans la mesure où Mme Perron, par ses énoncés dans l’avis d’appel, avait également cherché à interjeter appel de la décision du ministre de refuser sa demande de prestations universelles pour la garde d’enfants (PUGE) et de crédit d’impôt à l’emploi familial de l’Alberta (CIEFA). Mme Perron a reçu signification de l’avis de requête et d’une copie de la réponse modifiée proposée quelques jours avant. Évidemment, pour déterminer si une question de compétence a été plaidée ou soulevée ou non par l’une ou l’autre des parties n’a de toute façon aucune incidence sur la compétence même de la Cour.
+[4] Je conviens avec l’intimée que la Cour n’a pas compétence pour entendre les appels interjetés contre l’exclusion à la PUGE et au CIEFA. La PUGE est prévue dans la Loi sur la prestation universelle pour la garde d’enfants fédérale, mais ni cette loi ni toute autre loi ne confèrent à la Cour la compétence en matière de PUGE. Le jugement Goldstein c. La Reine, 2013 CCI 165 (inf.), confirme cette conclusion. Le CIEFA est prévu dans la Alberta Personal Income Tax Act, qui est une loi provinciale. La Cour n’a aucune compétence à l’égard des lois provinciales. De plus, la loi de l’Alberta qui a été citée confère à la Cour du Banc de la Reine de l’Alberta la compétence pour entendre les appels des déterminations relatives au CIEFA.
+RÉSUMÉ DES FAITS
+[5] Mme Perron a été mariée à M. H., mais le couple s’est séparé définitivement en juin 2003 et a divorcé en avril 2007. Des triplés sont issus du mariage du couple (deux filles et un garçon) nés en décembre 2001 (les « enfants »). Les parties aux présentes s’entendent pour convenir que, pendant toute la période pertinente, les enfants étaient des « personnes à charge admissibles » au sens du paragraphe 122.5(1) et de l’article 122.6 de la Loi aux fins du crédit pour la TPS/TVH et de la PFCE, respectivement.
+[6] La Cour du Banc de la Reine de l’Alberta a rendu une ordonnance de divorce en avril 2007, accordant aux ex-époux la garde partagée des enfants.
+[7] Comme en témoigne la réponse de l’intimée, le ministre a formulé certaines hypothèses concernant ces nouvelles déterminations portées en appel, y compris principalement que tout au long de la période de prestations, les enfants résidaient avec Mme Perron et M. H., aux résidences respectives de ces derniers; Mme Perron et M. H. participaient de façon égale aux soins et à l’éducation des enfants; les enfants résidaient, de façon égale ou quasi égale et à tour de rôle avec Mme Perron et M. H.; les enfants étaient à la charge de leurs deux parents, Mme Perron et M. H.; au moment où les enfants vivaient avec M. H., ce dernier était le principal responsable des soins et de l’éducation des enfants.
+[8] La première partie de l’ordonnance de divorce rendue en avril 2007 contient la déclaration suivante :
+[traduction]
+Attendu que les parties reconnaissent que chacune d’entre elles pourrait à juste titre établir la résidence principale pour les enfants aux fins de la prestation fiscale pour enfants, mais que la demanderesse [l’appelante en l’espèce] réclamera pour les trois enfants [sic] le crédit d’impôt pour enfants et recevra la prestation fiscale pour enfants.
+[9] L’avis d’appel, les déclarations de Mme Perron ainsi que le point central de l’audience ont clairement indiqué que le problème de Mme Perron était le fait que son ex-mari, M. H., avait maintenant demandé un crédit d’impôt pour enfants (expression mentionnée dans l’ordonnance de divorce), malgré le fait qu’ils avaient convenu qu’il ne le ferait pas, comme semble le confirmer l’extrait de l’ordonnance de divorce ci-dessus. Tout au long de l’audience, Mme Perron a déclaré qu’elle et M. H. avaient conjointement convenu que les références dans l’ordonnance de divorce et ailleurs aux expressions « crédit d’impôt pour enfants » et « prestation fiscale pour enfants » étaient censés inclure les crédits prévus dans les versions antérieures et subséquentes de ce qui est maintenant la PFCE et le crédit pour la TPS/TVH.
+[10] Mme Perron n’a pas contesté le fait que M. H. avait droit à de tels crédits dans le cadre de l’examen du bien-fondé. Mais elle a déclaré qu’il avait convenu de ne pas demander ces crédits. Même si le revenu de M. H. est nettement plus élevé que celui de Mme Perron, il a été en mesure de demander un crédit à l’égard d’autres dépenses, plus précisément un crédit d’impôt pour personnes handicapées pour un des enfants, et dont le montant était plus élevé que ne l’aurait été le montant de sa part de crédit d’impôt pour enfants, ainsi qu’en fait état l’ordonnance de divorce de 2007.
+[11] Mme Perron a signifié son opposition aux nouvelles déterminations dans un avis d’opposition en date du 15 mars 2016. Le ministre a confirmé les nouvelles déterminations dans un avis en date du 21 avril 2016, ce qui a donné lieu au présent appel.
+QUESTIONS EN LITIGE
+[12] La question en litige dans le présent appel est de savoir si les nouvelles déterminations portées en appel sont erronées parce que le ministre n’a pas pris en compte l’existence d’une prétendue entente entre Mme Perron et M. H. selon laquelle Mme Perron serait la seule à réclamer la PFCE et le crédit pour la TPS/TVH à l’égard des enfants.
+Thèse de l’appelante
+[13] Mme Perron soutient que les nouvelles déterminations portées en appel sont erronées, puisqu’en les soulevant, le ministre a omis de prendre en compte l’entente qu’elle avait conclue avec M. H., comme en fait état l’ordonnance de divorce rendue en 2007, entente selon laquelle elle seule réclamerait la PFCE et le crédit pour la TPS/TVH à l’égard des enfants.
+[14] En outre, Mme Perron demande à la Cour de tenir compte de l’article 20 des Lignes directrices fédérales sur les pensions alimentaires pour enfants (DORS/97‑175) et de l’article 10 de l’Alberta Child Support Guidelines (Alta Reg 147/2005), et d’accueillir l’appel au motif qu’elle subirait des difficultés excessives en l’absence des crédits d’impôt refusés.
+[15] Je dois décliner cette invitation. L’examen de ces dispositions ne relève pas de la compétence de la Cour. En l’espèce, la compétence de la Cour consiste simplement à trancher la question de savoir si les nouvelles déterminations établies par le ministre au sujet de la PFCE et du crédit pour la TPS/TVH sont bien fondées ou non. Aucune disposition de la Loi ne permet au ministre ou à la Cour d’examiner le facteur des difficultés excessives si le présent appel quant auxdits crédits d’impôt n’était par ailleurs pas accueilli. Ce serait plutôt à la Cour du Banc de la Reine de l’Alberta d’examiner ce facteur dans l’exercice de sa compétence générale consistant à fixer des paiements de pension alimentaire appropriés dans le contexte global du droit de la famille.
+Thèse de l’intimée
+[16] L’intimée soutient que, pendant la période de prestations, Mme Perron était un parent ayant la garde partagée au sens du paragraphe122.5(3.01) et de l’article 122.6 à l’égard des enfants. Dans les nouvelles déterminations établies par le ministre et portées en appel, le ministre a à juste titre refusé d’accorder à Mme Perron la totalité des montants de la PFCE et du crédit pour la TPS/TVH, conformément aux paragraphes 122.61(1.1) et 122.5(3.01) de la Loi. Le ministre affirme en outre que l’entente conclue entre Mme Perron et son ex-mari prévoyant qu’elle seule pourrait réclamer la PFCE et le crédit pour la TPS/TVH ne se révélait pas pertinente pour la détermination de son droit à ces crédits.
+DROIT ET ANALYSE
+[17] Il semble évident qu’entre ex-époux, les deux parents peuvent demander une PFCE à l’égard d’un enfant en particulier. Une entente qui prévoit que l’un d’eux seulement réclamera ce crédit n’a aucune incidence sur la détermination du droit à la PFCE en vertu de la Loi. Le droit à la PFCE est plutôt strictement déterminé en fonction des facteurs précisés dans la Loi, y compris si la personne qui demande une PFCE est un « parent ayant la garde partagée ».
+[18] Dans le jugement Ross c. Sa Majesté la Reine, 2011 CCI 515 (inf.), le juge Jorré, au nom de la Cour, a déclaré ce qui suit à la note de bas de page no 6 :
+Je signale qu’il est bien établi que les stipulations d’un accord conclu entre les parties au sujet de celle des deux qui recevra la PFCE ne peuvent avoir préséance sur les dispositions de la Loi; il est nécessaire d’appliquer ces dernières aux faits de l’affaire. Pour ce qui est du crédit pour TPS, ce sont des règles différentes qui s’appliquent [.]
+[19] Dans le même sens, dans le jugement Desmarais c. La Reine, 2013 CCI 83 (inf.), la juge V. Miller, au nom de la Cour, a déclaré ce qui suit au paragraphe 24 des motifs du jugement :
+Je suis également d’avis que l’appelante et M. Desmarais s’étaient entendus pour que l’appelante reçoive la PFCE et le CTPS au lieu d’une pension alimentaire pour conjoint. Néanmoins, l’article 122.6 ne comporte aucune disposition permettant aux parties de conclure une entente qui l’emporterait sur une conclusion relative à l’admissibilité à la PFCE.
+[20] J’ajouterais à cela la question de l’interprétation législative, à savoir que bien que le législateur, à l’article 122.6, ne mentionnait pas que les ententes conclues entre ex-époux constituent un facteur à prendre en compte dans les déterminations relatives à la PFCE, à l’alinéa 122.5(6)a), le législateur a mentionné expressément ces ententes dans le cadre de la détermination relative au crédit pour la TPS/TVH. Le paragraphe 122.5(6) est libellé ainsi :
+Exception portant sur la personne à charge admissible
+(6) La personne qui, en l’absence du présent paragraphe, serait la personne à charge admissible de plusieurs particuliers par rapport à un mois déterminé d’une année d’imposition est réputée être la personne à charge admissible par rapport à ce mois :
+a) soit de celui parmi ces particuliers sur lequel ceux-ci se sont mis d’accord;
+b) soit, en l’absence d’accord, des particuliers qui, au début de ce mois, sont des particuliers admissibles (au sens de l’article 122.6, le terme « personne à charge admissible » à cet article s’entendant au sens du paragraphe (1)) à son égard;
+c) soit, dans les autres cas, de nul autre que le particulier désigné par le ministre.
+[21] Si de telles ententes avaient voulu être pertinentes aux fins de la PFCE, le législateur l’aurait certainement mentionné à l’article 122.6, tout comme il l’a fait à l’alinéa 122.5(6)a) dans le contexte du crédit pour la TPS/TVH.
+[22] Autrement, en ce qui concerne l’élément de la PFCE du présent appel, aucune autre question en litige ne semble avoir été soulevée. À l’audience et au cours de ses plaidoiries, Mme Perron a essentiellement refusé de contester la conclusion du ministre selon laquelle elle était un parent ayant la garde partagée, ce qui a servi de fondement aux nouvelles déterminations de la PFCE établies par le ministre.
+[23] Je me penche maintenant sur la demande de crédit pour la TPS/TVH. Le présent élément soulève deux questions, soit celle de savoir si la prestation fiscale pour enfants et le crédit d’impôt pour enfants dont fait référence l’ordonnance de divorce de 2007 comprennent le crédit pour la TPS/TVH (thèse de Mme Perron) et, dans l’affirmative, si l’entente conclue entre les ex-époux prévoyant que seule Mme Perron devrait demander ou recevoir le crédit pour la TPS/TVH est pertinente pour déterminer le montant dudit crédit.
+[24] Sur cette question, j’ai de la difficulté à conclure que les références susmentionnées dans l’ordonnance de divorce comprennent le crédit pour la TPS/TVH. Les expressions « prestation fiscale pour enfants » et « crédit d’impôt pour enfants » utilisées dans l’ordonnance de divorce sont quand même assez précises.
+[25] Je renvoie au jugement Ross (précité), au paragraphe 76, dans lequel la Cour a fait remarquer ce qui suit :
+En l’espèce, les parties avaient convenu par l’accord de séparation que l’appelante recevrait « tout crédit d’impôt pour enfants ». Je conclus que les mots « tout crédit d’impôt pour enfants » [non souligné dans l’original] englobent toute fraction du crédit pour TPS accordé à l’égard des enfants.
+[26] En l’espèce, le libellé de l’ordonnance de divorce est même moins inclusif que celui du jugement Ross, soit « tout crédit d’impôt pour enfants ».
+[27] Par conséquent, non sans regret, je ne suis pas en mesure de conclure que le crédit pour la TPS/TVH était censé être inclus dans les expressions « crédit d’impôt pour enfants » et « prestation fiscale pour enfants ».
+[28] Dans l’éventualité où je tirerais une mauvaise conclusion sur cette question, j’examine également l’autre question du crédit pour la TPS/TVH qui se poserait effectivement seulement si j’avais conclu à l’existence d’une entente entre les ex‑époux prévoyant que seule Mme Perron devrait demander le crédit pour la TPS/TVH.
+[29] La question est de savoir si une telle entente aurait un effet juridique dans la détermination du droit de Mme Perron au crédit pour la TPS/TVH.
+[30] Une telle entente s’appliquait dans le jugement Fraser c. La Reine, 2010 CCI 23. Dans ce jugement, la juge Woods, au nom de la Cour, a mentionné le paragraphe 122.5(6) de la Loi au paragraphe 49 de ses motifs. Aux paragraphes 50 et 51, elle a poursuivi en ces termes :
+[50] Le régime législatif qui est envisagé à l’alinéa 122.5(6)a) permet de régler la question de la double résidence au moyen d’un accord conclu entre les parties. Ce n’est qu’en l’absence d’accord que le critère du fournisseur de soins s’applique en vertu de l’alinéa b).
+[51] En l’espèce, le critère du fournisseur de soins ne s’applique pas parce que Mme Fraser et M. Cardin ont tous deux convenu que Mme Fraser recevrait le crédit pour la période pertinente (pièce A‑1).
+[31] Toutefois, le jugement Fraser n’est pas d’un grand secours en l’espèce. Ce jugement est antérieur aux modifications apportées à la notion de « parent ayant la garde partagée » en décembre 2010 et entrées en vigueur en 2011. L’intimée soutient qu’en matière d’interprétation des lois, l’ajout à la Loi du concept de « parent ayant la garde partagée » a écarté l’application de l’alinéa122.5(6)a) dans le contexte de la détermination du droit d’un « parent ayant la garde partagée » au crédit pour la TPS/TVH.
+[32] Là encore, bien qu’à contrecœur, je suis d’accord avec l’intimée. Le texte de la définition contenue à l’article 122.6, soit « parent ayant la garde partagée » semble refléter la situation de Mme Perron, peu importe qu’en vertu de l’alinéa122.5(6)a), elle est présumée être le seul « particulier » relativement à chacune des personnes à charge admissibles, soit les enfants.
+[33] Par conséquent, je dois rejeter l’appel de Mme Perron, sans dépens.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2017.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2017 CCI 220
+NO DU DOSSIER DE LA COUR :
+2016-1744(IT)I
+INTITULÉ :
+CHANTAL PERRON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 27 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable Juge B. Russel
+DATE DU JUGEMENT :
+Le 1er novembre 2017
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

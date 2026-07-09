@@ -1,0 +1,137 @@
+Title: Lopez c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28217/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-127-28217-lopez-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-03-14
+
+# Lopez c. M.R.N.
+
+- Citation: 2007 CCI 127
+- Decision date: 2007-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2064, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lopez c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-14
+Référence neutre
+2007 CCI 127
+Numéro de dossier
+2006-1204(EI)
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Référence : 2007CCI127
+Date : 20070329
+Dossiers : 2006-1204(EI), 2006-1207(CPP)
+ENTRE :
+RAUL S. LOPEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience, le 1er février 2007, à Ottawa, Canada.)
+Le juge Margeson
+[1] La seule question dont doit décider la Cour est de savoir si, durant la période en cause, soit du 1er janvier 2004 au 31 décembre 2004, l’appelant était engagé par le Collège Algonquin (le « Collège ») comme employé ou s’il était entrepreneur indépendant.
+[2] Personne ne conteste les faits quant aux tâches, généralement parlant.
+[3] Il est entendu que, durant la période en cause, il était instructeur à temps partiel au Collège et donnait un cours du soir, qui était en fait un cours à unités.
+[4] Les hypothèses que contient la réponse sont importantes et n’ont pas été réfutées.
+[5] L’appelant avance que Développement des ressources humaines Canada a pris deux décisions différentes à partir des mêmes faits qu’ici. Le ministère a décidé que M. Lopez était entrepreneur indépendant et, en une autre occasion, que lui ou quelqu’un dans des circonstances identiques était entrepreneur indépendant mais aussi employé. C’est pourquoi M. Lopez est ici aujourd’hui.
+[6] Il dit qu’il s’est présenté devant la Cour pour qu’elle décide et se prononce sur son statut.
+[7] L’essentiel de la preuve fournie devant la Cour aujourd’hui, par la bouche de M. Lopez, indique un contrat de louage de services plutôt qu’un contrat d’entreprise. En d’autres termes, il s’agissait d’une relation employeur‑employé.
+[8] Répétons-le : si on prend les hypothèses de fait que contient la réponse, aucune d’elles n’a été réfutée. La seule le moins du monde mise en question est m) :
+[TRADUCTION]
+m) le payeur décidait s’il convenait de refaire le travail et assumait les coûts afférents;
+M. Lopez contestait la partie de la phrase indiquant que le payeur décidait s’il convenait de refaire le travail.
+[9] L’essentiel du travail de M. Lopez était de donner des cours et de noter des examens. Le Collège établissait les examens en conjonction avec le coordonnateur et les professeurs, puis l’appelant les notait. Une fois la note attribuée, un étudiant qui n’était pas d’accord pouvait la contester.
+[10] Toutefois, dans l’ensemble, la preuve montre que le Collège participait beaucoup au travail lui-même, tant pour la composition de l’examen que pour la façon de le noter et le règlement de toute éventuelle contestation.
+[11] Aucun élément de la preuve fournie sur la question m) en date n’indique un contrat d’entreprise.
+[12] Une autre allégation de la réponse a été contestée : celle que l’appelant devait fournir les services en personne. M. Lopez était toutefois la personne chargée du cours; c’est lui qui faisait cours et notait les travaux. La Cour est convaincue qu’il ne pouvait pas fournir de remplaçant.
+[13] Cela reste vrai malgré la partie de son témoignage indiquant que, s’il avait enseigné le nombre maximal d’heures de cours, le Collège s’assurerait alors d’une autre personne pour faire cours. Cela n’a rien à voir avec le travail que M. Lopez devait effectuer. Il devait donner un cours pendant un certain nombre d’heures, était rémunéré un certain montant de l’heure et avait un contrat qui spécifiait le nombre des heures.
+[14] Le fait que le Collège puisse embaucher quelqu’un d’autre pour enseigner, soit autre chose que le cours de M. Lopez soit une partie de son cours parce qu’il avait atteint la limite de ses heures de cours, n’a rien à voir avec l’obligation pour M. Lopez de fournir les services en personne.
+[15] La Cour est amplement convaincue que l’appelant devait fournir les services en personne.
+[16] Voici d’autres hypothèses importantes de la réponse n’ayant pas été réfutées :
+[TRADUCTION]
+d) l’appelant remplissait ses tâches dans ses propres locaux de travail;
+Seule l’action de noter les travaux s’effectuait à la maison.
+[TRADUCTION]
+e) l’appelant fournissait ses services d’instructeur de cours du soir à temps partiel avec un total de 48 heures de classe […]
+La preuve indique clairement qu’il était payé 50 $ de l’heure.
+[TRADUCTION]
+g) l’appelant était rémunéré par dépôt direct dans son compte bancaire personnel;
+h) chaque semaine, l’appelant devait remplir pour le payeur un formulaire officiel intitulé Instructor timesheet [relevé des heures de cours de l’instructeur];
+Ceci montre l’élément de contrôle, de supervision et d’encadrement qu’ont en commun les contrats de louage de services.
+[TRADUCTION]
+i) le payeur payait les cotisations à la CSPAAT;
+j) l’appelant était supervisé dans l’exercice de ses fonctions par son gestionnaire des études;
+k) le payeur fournissait les salles de classe, un ordinateur de bureau, de l’équipement de projection, un amplificateur de magnétoscope à cassettes ou DVD et un système de babillard, sans frais pour le travailleur;
+l) l’appelant fournissait un bureau personnel chez lui, un ordinateur personnel, ainsi que certains outils et des fournitures; [...]
+Il n’en reste pas moins vrai que le Collège Algonquin fournissait l’essentiel des outils et de l’équipement dans ses bureaux, dont les services de photocopie, l’ordinateur, les installations de tableaux noirs et le salon.
+[TRADUCTION]
+n) le payeur payait les primes d’assurance responsabilité civile;
+Il a été établi que l’appelant était sur le registre de paie. Il était payé en tant qu’employé.
+[TRADUCTION]
+o) le payeur était responsable d’apporter une solution aux plaintes d’étudiants;
+Je pense que c’est manifeste. Il est clair aussi que l’appelant aurait eu son mot à dire. Quand un étudiant se plaignait, le Collège entrait en contact avec l’instructeur pour discuter de la question. Au bout du compte, toutefois, c’est le Collège qui décidait si l’étudiant était remboursé ou si la note contestée était changée.
+[TRADUCTION]
+p) l’appelant était tenu de respecter les politiques et procédures établies par le payeur; […]
+r) le payeur avait le droit de mettre fin aux services de l’appelant.
+[17] L’avocat renvoie à différentes décisions montrant que c’est l’ensemble de la relation entre les parties qui compte, dont : Wiebe Door Services Ltd c. Canada[1] et 67112 Ontario Ltd c. Sagaz Industries Canada Inc.[2]
+[18] Comme indiqué, il peut arriver qu’un facteur ait plus d’importance dans une affaire que dans une autre. Même quand un facteur fait pencher lourdement la balance vers une situation d’entrepreneur indépendant, un ensemble d’autres facteurs peut y faire un contrepoids suffisant.
+[19] Quoi qu’il en soit, dans la présente affaire, la Cour ne doute aucunement du résultat final : il s’agissait bien d’une situation d’emploi.
+[20] En envisageant l’arrêt précité, Wiebe Door, et le critère à quatre volets qui y est énoncé – contrôle, propriété des instruments de travail, possibilité de profit ou risque de perte et intégration –, la Cour est absolument convaincue que le Collège Algonquin exerçait suffisamment de supervision et de contrôle sur l’appelant pour satisfaire aux dispositions de l’arrêt Wiebe Door.
+[21] L’application du critère de la propriété des instruments de travail indique clairement un contrat de louage de services, plutôt qu’un contrat d’entreprise. Les outils, fournitures et l’équipement importants étaient fournis par le Collège et non par l’appelant lui-même.
+[22] L’appelant avait bien un bureau à domicile, ainsi que certains outils; il notait peut-être les travaux chez lui; mais il s’agit là d’installations mineures, par rapport à celles fournies par le Collège, notamment la salle de cours.
+[23] L’application du critère de possibilité de profit ou de risque de perte convainc pleinement la Cour que l’appelant n’avait aucune possibilité de profit personnel hormis le montant horaire qui lui était versé pour chaque heure d’enseignement.
+[24] La preuve montre d’ailleurs clairement qu’il devait fournir au Collège un relevé de ses heures et qu’une personne de l’administration du Collège approuvait ce relevé et y apposait ses initiales, avant qu’il puisse être payé.
+[25] Il n’avait pas de possibilité de gagner plus d’argent ni de risque d’en perdre, s’il enseignait le nombre d’heures convenu.
+[26] Il n’y avait pas de bénéfice et de perte au sens commercial envisagé dans les décisions invoquées.
+[27] L’application du critère d’intégration, du point de vue du travailleur, convainc pleinement la Cour que tout le travail de l’appelant était systématiquement intégré au travail du Collège. C’est ce que faisait le Collège : enseigner des cours, fournir des certificats aux gens et les former. L’instruction fournie par l’appelant faisait partie intégrante de ce tout.
+[28] Quant au contrôle, il était particulièrement serré dans l’affaire présente, comme l’a indiqué l’avocat de l’intimé.
+[29] En ce qui concerne les manuels de classe, il y a un flou, mais la Cour est convaincue que, en 2004, le Collège aurait fourni les manuels de classe à l’appelant s’il en avait fait la demande, même si, en 2001, à ses débuts, il avait acheté lui-même les siens.
+[30] Qui plus est, en 2001, à ses débuts, il était peut-être bien entrepreneur indépendant ou considéré comme tel par le Collège; mais la décision de la Cour ne porte pas sur cette année.
+[31] Les documents tels que la pièce A-1 présentés en preuve ne sont pas instructifs, en tout cas pas pour 2004.
+[32] Quand la Cour se pose la question de savoir si M. Lopez travaillait à son compte ou pour le compte de quelqu’un autre, elle est pleinement convaincue qu’il n’était pas à son compte. Il était employé du Collège Algonquin, qui le considérait comme un employé.
+[33] En tenant compte de tous les facteurs examinés, ainsi que de la preuve, de ce qu’ont dit les parties et des documents soumis, la Cour est pleinement convaincue que l’appelant était employé durant la période en cause. Il n’était pas entrepreneur indépendant.
+[34] La Cour rejette l’appel et confirme la décision du ministre.
+Signé à Vancouver (Colombie-Britannique), ce 29e jour de mars 2007.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 18e jour de janvier 2008
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2007CCI127
+No DES DOSSIERS : 2006-1204(EI), 2006-1207(CPP)
+INTITULÉ : Raul S. Lopez et le Ministre du Revenu national
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 1er février 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge T. E. Margeson
+MOTIFS DE JUGEMENT RENDUS :
+Le 29 mars 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Mes Andrew Miller et Carole Benoît
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553 (no de dossier A-531-85).
+[2] [2001] 2 R.C.S. 983.

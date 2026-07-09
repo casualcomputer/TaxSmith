@@ -1,0 +1,151 @@
+---
+title: "Drapeau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29839/index.do"
+last_modified: "2010-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 314"
+citation2: ""
+neutral_citation: "2010 CCI 314"
+decision_date: "2010-06-09"
+language: "fr"
+item_id: "29839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6581
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:54:28.901000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3dff51e309358714cdbc44b729c5ac54b6b7f4814a20b40d379861e1d9d164e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drapeau c. La Reine
+
+- Citation: 2010 CCI 314
+- Decision date: 2010-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6581, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drapeau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-09
+Référence neutre
+2010 CCI 314
+Numéro de dossier
+2008-3959(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3959(IT)G
+ENTRE :
+MARCEL DRAPEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 20 mai 2010, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me Jacques Renaud
+Avocat de l’intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d’imposition 2004 et 2005 sont rejetés, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 9e jour de juin 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2010 CCI 314
+Date : 20100609
+Dossier : 2008-3959(IT)G
+ENTRE :
+MARCEL DRAPEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle de deux cotisations établies par le Ministre du Revenu national (Ministre) en vertu de la Loi de l’impôt sur le revenu (LIR) pour les années d’imposition 2004 et 2005. Par ces cotisations, le Ministre a ajouté au revenu de l’appelant les sommes de 66 432 $ en 2004 et de 52 316 $ en 2005 à titre de revenu d’entreprise provenant de la société SEMV National Inc. (SEMV), et a aussi imposé une pénalité aux termes du paragraphe 163(2) de la LIR.
+[2] L’appelant conteste ces cotisations au motif que les revenus additionnels qu’on lui impute ne lui sont pas attribuables. Il prétend n’avoir jamais bénéficié de ces sommes additionnelles et soutient que ces montants d’argent ont été déposés dans un compte bancaire ouvert à son nom pour le bénéfice d’une tierce personne, André Dagenais.
+[3] L’appelant et André Dagenais ont tous deux témoigné. Il ressort de leurs témoignages que les deux se connaissent depuis plus de 30 ans. L’appelant était l’avocat de M. Dagenais. Ce dernier dit avoir été, dans le passé, administrateur d’une société « Renaissance », qui aurait fait faillite en 2002 ou 2003. Au début de
+l’année 2004, M. Dagenais voulait exploiter une entreprise dans la fourniture d’équipement vétérinaire.
+[4] Il a alors demandé à l’appelant de constituer une société en corporation pour ce faire, ce que l’appelant a fait. Ainsi, fut constituée SEMV le 13 avril 2004 (pièce A-2). M. Dagenais souhaitait que l’appelant se joigne à lui dans cette entreprise. L’appelant a souscrit à 50 pour cent des actions, l’autre 50 pour cent aurait été émis à la conjointe de M. Dagenais. L’appelant était le seul administrateur. Selon le témoignage de l’appelant, il se donnait jusqu’à la fin de décembre 2004 pour décider s’il investirait dans cette entreprise.
+[5] En cour, il a dit qu’il s’était retiré de la société en tant qu’administrateur au début de l’année 2005. Selon la seule déclaration modificative déposée en preuve, celle-ci aurait été enregistrée auprès du Registraire des entreprises de la province de Québec le 1er septembre 2005 (pièce I-1). Confronté à ce document, l’appelant a soutenu qu’il avait fait parvenir une première déclaration modificative au début de l’année 2005, mais qu’elle se serait probablement égarée. Un incident de ce genre serait apparemment fréquent, selon son expérience et sa pratique en droit commercial.
+[6] M. Dagenais a soutenu qu’il exploitait cette entreprise seul, mais que compte tenu de difficultés financières, il aurait tenté d’ouvrir un compte bancaire pour le compte de SEMV, de même qu’un compte bancaire personnel sans succès. Il explique ceci par le fait que la société Renaissance dont il était administrateur, avait fait faillite. Selon l’appelant, l’une des créancières principales à la faillite de Renaissance, était la Banque nationale du Canada (Banque nationale), et celle-ci ne voulait plus ouvrir de compte au nom de M. Dagenais. La preuve ne dit pas si M. Dagenais a essayé d’ouvrir un compte bancaire auprès d’une autre institution financière.
+[7] Devant cette situation, M. Dagenais aurait demandé à l’appelant d’ouvrir un compte bancaire pour SEMV. Ce dernier a acquiescé à cette demande et a ouvert un compte auprès de la Banque nationale pour SEMV, dans lequel il était l’unique signataire. Il aurait ensuite remis des centaines de formules de chèques, signés par lui, à M. Dagenais pour permettre à ce dernier d’exploiter son entreprise.
+[8] Par ailleurs, l’appelant aurait ouvert un autre compte personnel dans une autre succursale de la Banque nationale, dans lequel il aurait signé une procuration en faveur de M. Dagenais, permettant à ce dernier de déposer et retirer des sommes d’argent dans ce compte. L’avocat de l’appelant a déposé en preuve un document émanant de la Banque nationale disant qu’il était impossible de confirmer si ce compte avait eu une procuration puisque ce compte était fermé depuis 2006 et que le service d’archivage n’avait retracé que la carte d’ouverture du compte et que le système informatique n’avait plus rien en mémoire (pièce A-3).
+[9] Selon l’appelant, il ne se serait jamais servi de ce compte personnel puisqu’il avait plusieurs autres comptes bancaires à son nom. M. Dagenais a expliqué que SEMV, par l’intermédiaire du comptable Jean‑Guy Denis, établissait des chèques à l’ordre de l’appelant, que M. Dagenais déposait dans le compte personnel de l’appelant pour lequel il avait une procuration. M. Dagenais retirait ensuite les sommes déposées pour se payer une rémunération de 1 200 $ par semaine et pour payer les différents fournisseurs qui n’acceptaient pas de se faire payer autrement qu’en argent liquide.
+[10] Ainsi en 2004, les chèques tirés du compte de SEMV à l’ordre de l’appelant s’élevaient à 77 067 $. De ce montant, l’appelant soutient que M. Dagenais lui a remis 10 635 $ en honoraires professionnels et le solde de 66 432 $ aurait été conservé par M. Dagenais pour payer ses fournisseurs et se payer lui-même.
+[11] En 2005, le montant tiré du compte de SEMV à l’ordre de l’appelant totalisait 55 656 $, duquel 3 341 $ aurait été remis à l’appelant pour ses honoraires professionnels, et le solde de 52 316 $ aurait été conservé par M. Dagenais (pièce A 1, onglet 7). Ces chèques semblent avoir été déposés au compte personnel de l’appelant.
+[12] Ce sont ces sommes de 66 432 $ en 2004 et de 52 316 $ en 2005, que le Ministre a ajouté au revenu de l’appelant et qui sont contestées devant moi, au motif qu’elles ont été perçues par M. Dagenais.
+[13] Lors du contre-interrogatoire de M. Dagenais, on a demandé à ce dernier pourquoi SEMV ne lui faisait pas de chèques directement. Il a répondu que vu qu’il déposait ses chèques au compte personnel de l’appelant, la banque avait recommandé que SEMV libelle les chèques au nom de l’appelant. On a aussi demandé à M. Dagenais pourquoi il ne faisait tout simplement pas des retraits du compte dans lequel il avait une procuration, au lieu de demander au comptable de faire ces chèques à l’attention de l’appelant, que M. Dagenais déposait au compte personnel de l’appelant.
+[14] M. Dagenais n’a pas su expliquer cette procédure, sauf pour dire qu’il fallait déposer les chèques de SEMV pour mettre de l’argent au compte avant de pouvoir le retirer. Il semble toutefois à la lecture de ce compte (pièce A-1, onglet 5) qu’il n’était pas toujours nécessaire de procéder ainsi puisqu’il semblait y avoir à l’occasion suffisamment de fonds pour faire les retraits.
+[15] Par ailleurs, certaines copies de chèques faits à l’ordre de Petite caisse A.D. et tirés du compte de SEMV ont été produits (pièce I-2). M. Dagenais a dit que ces sommes servaient à payer les différentes dépenses de SEMV. Ces sommes couvrent principalement les mois de septembre à décembre 2005, lesquelles n’apparaissent pas dans le relevé de compte bancaire produits sous la pièce A-1, onglet 5.
+[16] L’appelant s’est dit surpris de voir que SEMV avait fait des chèques à son nom et de se voir imposer sur ces montants. Malgré le fait que les états de compte lui étaient envoyés à son adresse, il a dit ne pas les avoir vus. Il en a pris connaissance après en avoir été avisé par l’Agence du Revenu du Canada. Par ailleurs, il a répété qu’il ne s’est jamais servi de ce compte pour ses fins personnelles.
+[17] Le Ministre met en doute la crédibilité de son témoignage et suggère que les sommes déposées dans son compte personnel lui étaient attribuées personnellement. L’intimée a mis en preuve que l’appelant avait réalisé un revenu net de sa profession de 16 320 $, et des revenus de placement de l’ordre de 6 600 $ en 2004, et qu’il a déclaré un revenu total de 30 035 $ (pièce I‑4). L’intimée a également mis en preuve que l’appelant avait acquis des actions pour une somme globale d’environ 21 000 $ en 2004 (pièce I-5 page 6).
+[18] En 2005, il a déclaré des revenus nets de profession de 31 610 $, il a investi environ 21 000 $ dans un régime enregistré d’épargne retraite (REER), et il a acquis environ 67 000 $ en actions (pièces I‑4 et I-5).
+[19] L’intimée soutient qu’elle était justifiée de penser que les montants provenant de SEMV qui ont été déposés dans le compte personnel de l’appelant, l’ont été à son avantage, ces sommes ayant pu lui permettre de vivre et de faire les investissements qu’il a faits.
+[20] L’appelant rétorque qu’il a accumulé de l’argent au cours des années, et qu’il n’a pas nécessairement investi dans des placements qui rapportent des intérêts. Il souligne qu’en 2005, il a disposé de ses actions pour un produit de disposition total de 101 275 $. Il dit qu’il a réinvesti le produit de vente de ces actions au cours des années.
+[21] L’intimée soutient également que l’appelant n’a pas prouvé la prémisse de départ que le compte bancaire avait été ouvert à son nom personnel au motif que M. Dagenais avait des difficultés financières au point de ne pouvoir s’ouvrir un compte bancaire lui-même. L’intimée soutient que M. Dagenais n’avait pas fait faillite personnellement en 2004 et qu’il n’a pas été établi de façon crédible que la seule solution était de se faire payer en faisant transiter les chèques de SEMV par le compte personnel de l’appelant. Selon l’intimée, si SEMV faisait des chèques à « petite caisse A.D. » pour payer les fournisseurs, SEMV aurait très bien pu payer directement M. Dagenais sans passer par le compte personnel de l’appelant.
+[22] L’appelant répond qu’il n’y avait aucune raison pour M. Dagenais de déposer les revenus de son entreprise dans le compte bancaire de l’appelant, sinon que de se faire payer. M. Dagenais n’aurait pas accepté que l’appelant retire de l’argent de ce compte alors que l’argent qui y était déposé provenait de l’entreprise de M. Dagenais, dans laquelle l’appelant ne participait aucunement.
+[23] À ce sujet, je note qu’en 2004 et 2005, il n’est pas contesté par l’appelant qu’il détenait toujours 50 pour cent des parts dans SEMV. De plus, il en était le seul administrateur jusqu’au 1er septembre 2005 (du moins, l’appelant n’a pas prouvé qu’il ne l’était plus à compter du début 2005) et légalement, il était celui qui contrôlait l’entreprise. Il n’est donc pas illogique de penser que l’appelant pouvait recevoir sa part des profits par le biais de son compte personnel.
+[24] Par ailleurs, je remarque que les chèques déposés sous la pièce A-1, onglet 6, sont signés par M. Dagenais du compte personnel de l’appelant et sont faits soit à André Dagenais, soit à Jean-Guy Denis ou quelques autres personnes. Si l’on analyse les relevés de compte de ce compte personnel (pièce A-1, onglet 5), ces chèques sont bien indiqués. Par contre, il y a plusieurs retraits pour lesquels il est impossible d’identifier le bénéficiaire. L’appelant et M. Dagenais ont tous deux dit que ce dernier recevait 1 200 $ par semaine. J’ai fait l’exercice pour 2004 et 2005. Si l’on additionne les retraits non identifiés et les chèques faits à l’ordre de André Dagenais, cela donne une moyenne de 1 800 $ par semaine en 2004 et de 1 040 $ par semaine en 2005.
+[25] Ceci semble vérifier la thèse d’une paie à M. Dagenais de l’ordre de 1 200 $ par semaine en moyenne, donc un revenu annuel pour ce dernier de 62 400 $ (en présumant que les retraits étaient effectués au bénéfice de ce dernier).
+[26] L’intimée plaide qu’il ne faut pas accorder de crédibilité aux témoins. L’avocat de l’appelant plaide que M. Dagenais n’avait pas le choix de procéder ainsi et qu’il était normal que les fournisseurs réclament de se faire payer en argent comptant puisqu’ils avaient perdu confiance en M. Dagenais.
+[27] Ironiquement, l’appelant aurait, au contraire, fait totalement confiance à M. Dagenais.
+[28] Il aurait été bien utile pour la cause de l’appelant, qui a le fardeau de démontrer qu’il n’a pas reçu les revenus qu’on lui impute, de faire témoigner le comptable, Jean-Guy Denis, qui préparait les chèques de l’entreprise. Il aurait pu me semble-t-il, apporter des éclaircissements de façon objective sur l’exploitation de cette entreprise. Son absence n’a pas été justifiée.
+[29] Je remarque également que personne n’a soulevé la question à savoir si M. Dagenais avait déclaré lui-même ces revenus en 2004 et 2005.
+[30] Il est bien difficile dans ce genre de cause de déceler la vérité. Ce sont dans ces cas où la notion du fardeau de la preuve prend tout particulièrement son importance. À mon avis, l’appelant, avocat de surcroît, aurait dû se protéger davantage par une documentation légale appropriée, si telle était réellement son intention d’agir uniquement comme intermédiaire pour M. Dagenais. La preuve d’une telle intention est, à mon avis, déficiente. Par exemple, même si l’appelant dit que sa démission en tant qu’administrateur a été perdue par le registraire des entreprises au début de l’année 2005, il aurait été plus prudent, et plus plausible en cour, s’il en avait conservé une copie pour ses propres registres, ce qui, semble-t-il, n’a pas été fait. Il en est de même pour la procuration qu’il aurait donnée à M. Dagenais pour lui permettre de faire des dépôts et des retraits de son compte de banque personnel. Il aurait été plus prudent de faire signer lui-même une telle procuration pour ses dossiers personnels, afin d’établir dans quelle mesure M. Dagenais avait le pouvoir de retirer des sommes de ce compte, pour la période en litige. De plus, il n’est pas contesté que l’appelant est demeuré actionnaire de SEMV, jusqu’à concurrence de 50 pour cent en 2004 et 2005, ce qui lui donnait légalement le droit à sa part de profit. Si tel n’était pas effectivement le cas, il aurait dû rédiger une entente afin de se défendre adéquatement vis-à-vis des tiers.
+[31] Si la thèse de l’appelant est réelle, il n’a certainement pas pris les moyens pour la justifier. Il a pris un risque s’il a réellement donné carte blanche à M. Dagenais, et faute de meilleure preuve, il doit maintenant en assumer les conséquences.
+[32] L’appelant devait faire une preuve prima facie qu’il n’a pas retiré les sommes de SEMV pour son propre bénéfice. Une telle preuve doit être « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé ».(Stewart v. Canada (Minister of National Revenue), [2000] T.C.J. No. 53, cité dans Amiante Spec Inc. c. R., 2009 CAF 139 au par. 23).
+[33] J’estime que l’appelant n’a pas fait une telle preuve et à mon avis, n’a pas démontré, selon la prépondérance des probabilités, qu’il n’a pas bénéficié personnellement des sommes qui lui ont été versées par SEMV. Ces sommes qui font l’objet du présent litige, devaient donc être déclarées dans son revenu pour les années d’imposition 2004 et 2005. Le Ministre a considéré ces revenus comme du revenu d’entreprise aux termes du paragraphe 9(1) de la LIR. J’accepte ce traitement comme étant l’hypothèse la plus plausible. À tout le moins, l’appelant ne m’a pas convaincue du contraire.
+[34] Compte tenu de ma conclusion, je considère que les pénalités imposées aux termes du paragraphe 163(2) de la LIR sont également justifiées.(voir Lacroix c. R., 2008 CAF 241)
+[35] Les appels sont donc rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 9e jour de juin 2010.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2010 CCI 314
+Nº DU DOSSIER DE LA COUR : 2008-3959(IT)G
+INTITULÉ DE LA CAUSE : MARCEL DRAPEAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 20 mai 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 9 juin 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jacques Renaud
+Avocat de l’intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jacques Renaud
+Cabinet : Renaud Brodeur
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

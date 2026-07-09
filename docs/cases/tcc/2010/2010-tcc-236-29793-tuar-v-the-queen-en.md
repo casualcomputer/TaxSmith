@@ -1,0 +1,191 @@
+---
+title: "Tuar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29793/index.do"
+last_modified: "2010-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 236"
+citation2: ""
+neutral_citation: "2010 TCC 236"
+decision_date: "2010-03-15"
+language: "en"
+item_id: "29793"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6599
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:33:33.500000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c797f98f65564b05d023975369aa554e8221ff9949432b832c8b5c239ad2315"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tuar v. The Queen
+
+- Citation: 2010 TCC 236
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6599, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-15
+Neutral citation
+2010 TCC 236
+File numbers
+2008-2888(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2888(IT)I
+BETWEEN:
+DOREEN TUAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 18, 2010 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carol Calabrese
+Aleksandrs Zemdegs
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2002, 2003, 2004, 2005 and 2006 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Diane Campbell"
+Campbell J.
+Citation: 2010 TCC 236
+Date: 20100505
+Docket: 2008-2888(IT)I
+BETWEEN:
+DOREEN TUAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals were part of a group of charitable donation appeals involving almost forty different Appellants. By the time they were scheduled for hearing, many of the Appellants had withdrawn their appeals. In the end, only the appeals of Richard Kwame Adomphwe (2008-3722(IT)I), George W. Scott (2008-1657(IT)I), Stephonie Scott (2008-1704(IT)I) and Doreen Tuar (2008-2888(IT)I) proceeded to hearing.
+[2] The appeals of Doreen Tuar involve her 2002, 2003, 2004, 2005 and 2006 taxation years. In computing tax payable in each of these taxation years, the Appellant claimed a gross non-refundable tax credit in respect of charitable donations as follows:
+Year
+Charity
+Amount
+2002
+CanAfrica International Foundation
+(“CanAfrica”)
+$ 8,000.00
+2003
+CanAfrica
+$ 8,350.00
+2004
+CanAfrica
+$ 8,358.00
+2005
+CanAfrica
+$10,025.00
+2006
+PanAfrican Canadian Multicultural Centre
+$ 4,274.00
+2006
+Bible Teaching Ministries
+$ 4,310.00
+[3] The reassessments, in respect to the 2002 and 2003 taxation years, were completed beyond the normal reassessment period pursuant to subsection 152(4) of the Income Tax Act (the “Act”).
+[4] The Appellant testified that she was introduced to a charity, CanAfrica, through a pamphlet that had been delivered to her residence. The pamphlet contained the contact information of Mr. Ambrose Danso-Dapaah, who operated ADD Accounting. Mr. Danso-Dapaah was later criminally charged with fraud in November, 2007 as a result of an investigation by Canada Revenue Agency (“CRA”). In 2008, he entered a guilty plea to fraud charges.
+[5] The Appellant investigated the charity through the internet and since her family had been involved in assisting charities in their homeland, Guyana, since coming to Canada in 1989, they decided to pool their resources and support the charity described in the pamphlet.
+[6] After receipt of the pamphlet, the Appellant met with Mr. Danso-Dapaah in 2002 to obtain more information. Mr. Danso-Dapaah informed her that he was an employee of CRA and that he was also working part-time to support charitable relief in Africa through an organization, CanAfrica. Although the Appellant had donated to charities in her homeland, she never claimed any amounts on her returns prior to doing so in 2002. She stated that even after her return was filed in 2002 by Mr. Danso-Dapaah, she contacted CRA to ensure that the charity was registered and that the receipts were in order.
+[7] Since meeting with Mr. Danso-Dapaah in 2002, the information for her returns, as well as her donations, were either picked up at her home or sent through the mail to ADD Accounting. She did not attend at the tax preparer’s offices. During these years, one of her sisters resided with her. The sister required care and was in and out of the hospital on many occasions. The Appellant and her sister shared a rental unit with their brother, who helped the Appellant to care for the sister while he was trying to commence his own business. The Appellant works at CIBC. In the years under appeal, her gross income ranged between $27,602.00 in 2002 and $35,914.00 in 2006. The Appellant claimed that she also provided tutoring to students but did not charge any fees for the tutoring in these taxation years.
+[8] The Appellant introduced a large number of receipts and various shipping documents for both cash and containers of items sent to Guyana in the years prior to 2002. She claimed that she and her eight siblings pooled their resources to provide these donations to their homeland prior to 2002, as well as to the charities of Ambrose Danso-Dapaah in the years under appeal.
+[9] For the taxation years 2002 to 2005, her returns were completed by ADD Accounting. In 2007, Payless Accounting completed the Appellant’s return for 2006 as she received information of a change of address of ADD Accounting. Ambrose Danso-Dapaah sold his clientele list to George Gudu, who had been employed as a part-time tax preparer for ADD Accounting. Mr. Gudu opened his own tax preparation business at a new location and operated under the name, Payless Tax.
+[10] Although Mr. Gudu did not testify in Ms. Tuar’s appeals, he was called as a witness in the other appeals that proceeded as part of this group of appeals. He apparently was privy to the scheme promoted by Ambrose Danso-Dapaah of issuing false receipts for amounts substantially greater than the amounts paid by the clientele. He continued this practice at Payless Accounting. Mr. Gudu has also been charged and, under a plea agreement with CRA, is to plead guilty some time this spring.
+[11] To support the cash amounts which the Appellant claims she donated, she produced a copy of a cheque dated April 10, 2003 made out to Ambrose Danso‑Dapaah in the amount of $500.00 (Exhibit A-4). She stated that he would not accept this cheque because he told her he was going to Africa to personally deliver money to the charity and it would take too long for her cheque to clear at the bank prior to his departure. She provided him with a money order dated April 15, 2003 for $500.00 (Exhibit A-3) to replace this cheque. This was also evidence, the Appellant claimed, that Ambrose Danso-Dapaah wanted only cash and not other forms of money exchange. She produced her banking passbook showing a cash withdrawal of $800.00 on January 31, 2002 which she claimed she would have given to Ambrose Danso-Dapaah because she never made large cash withdrawals for anything else.
+[12] In every year except 2006, her donation consisted of cash, together with property items, being primarily jewellery. A platinum engagement ring was donated and formed part of the total amount of the $8,000.00 donation in 2002. She estimated this ring would be worth approximately $5,000.00, although it had not been appraised. In 2003, one of the items donated was an 18 carat gold necklace, plus another item for which she had no recollection. In 2004, pieces of gold jewellery, such as rings and broken gold bands, brought with her from her homeland, were donated. In 2005, another ring, from a second broken engagement, was donated. None of the jewellery was appraised and the Appellant had no receipts from Ambrose Danso-Dapaah acknowledging these donations of property.
+[13] Mr. Kofi Debrah, a so-called pastor, testified that he was “involved” with both Ambrose Danso-Dapaah of ADD Accounting and later George Gudu of Payless Tax on behalf of his charity, Bible Teaching Ministries, registered as a charity in 2005. He confirmed his “arrangement” with these two individuals respecting the collection from clients by these tax preparers of 10 per cent of the face value of receipts, which had been issued in blank by Bible Teaching Ministries. This 10 per cent amount was then split between the tax preparers and Mr. Debrah or, if Mr. Debrah is to be believed, his charity. In exchange, he provided booklets of signed but otherwise uncompleted receipts from Bible Teaching Ministries. He identified the receipt dated January 29, 2007, issued to the Appellant for $4,310.00 by Bible Teaching Ministries. He confirmed he received 60 per cent of 10 per cent of the face value listed on the receipt. On cross‑examination, Mr. Debrah, despite his acknowledgement of this arrangement in direct examination and his limitless supply of blank but signed receipts to these tax preparers, surprisingly maintained, under oath, that he was “unaware” of a scheme to defraud both CRA and individuals like the Appellant.
+[14] Deborah Edyvean, the CRA investigator, detailed the information, including the copies of clients’ tax returns, obtained from the CANTAX software program on the computers and equipment seized from the Payless Tax offices, as well as Mr. Gudu’s personal residence and his van. In addition, receipt booklets, from various charities, some completed and some pre-signed and sealed but otherwise in blank, were seized. Letterhead from some charities and correspondence were seized.
+[15] Ms. Edyvean also referred to the invoices attached to the returns in respect to the preparation of the tax returns issued to the Appellant in 2003, 2004 and 2005. The tax preparation fee statement to the Appellant included references to the donation receipt number and the face value amount of the receipt but listing only payment of approximately 10 per cent of that amount made in the year that the return was prepared and filed.
+[16] Both Ms. Edyvean and Barbara Lovie, also a special investigator with CRA, determined that Ambrose Danso-Dapaah and George Gudu were participants in a scheme whereby inflated receipt amounts were being utilized by these tax preparers and purchased by the clientele for 10 per cent of the inflated amount. She confirmed that Ambrose Danso-Dapaah entered a guilty plea in 2008 and that George Gudu, among others, has been charged with fraud. All of the charities involved have now had their charitable registrations revoked. According to the evidence of Ms. Lovie, the quantum of false donation receipts issued by Mr. Danso-Dapaah was approximately $21.6 million with $6.2 million in non‑refundable tax credits claimed.
+[17] The main issue in these appeals is whether the Appellant made any gifts to registered charities that would entitle her to claim non-refundable tax credits pursuant to section 118.1 of the Act. In addition, a second issue arises as to whether the receipts issued by these charities can qualify as validly issued receipts in prescribed form pursuant to subsection 118.1(2) of the Act and Regulations 3500 and 3501(1) of the Income Tax Regulations (the “Regulations”). Since the present appeals involve two taxation years, 2002 and 2003, which were assessed beyond the normal reassessment period, a third issue arises in determining whether the Minister of National Revenue (the “Minister”) was entitled to reassess the Appellant after the normal reassessment period in respect to these two taxation years.
+[18] It is the Respondent’s position that the Appellant did not make a true gift as contemplated by the common law but rather “purchased” donation receipts from her tax preparer which contained grossly inflated face value amounts.
+[19] The leading case on the meaning of “gift” is The Queen v. Friedberg, 92 D.T.C. 6031, where Linden J.A., at page 6032, defined “gift” as:
+… [A] gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor …
+[20] Respondent counsel referred to the case of Coombs et al v. The Queen, 2008 D.T.C. 4004, where Woods J., at paragraph 15, referred to the elements of this definition in the following manner:
+[15] … First, it is necessary that the gifted property be owned by the donor, second that the transfer to the charity be voluntary, third that no consideration flow to the donor in return for the gift, and fourth that the subject of the gift be property, which distinguishes it from providing services to the charity. These elements reflect the general notion that a taxpayer must have a donative intent in regards to the transfer of property to the charity.
+[21] In Webb v. The Queen, 2004 TCC 619, [2004] T.C.J. No. 453, Bowie J., at paragraph 16, described this “donative intent” to transfer property to a charity as follows:
+[16] Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in The Queen v. Friedberg, among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative.
+[22] The reassessments for the 2002 and 2003 taxation years were made outside the normal reassessment period. For these years to be re-opened, the Respondent has the onus of establishing that a misrepresentation occurred in each year that was attributable to neglect, carelessness, wilful default or fraud, in accordance with subparagraph 152(4)(a)(i) of the Act. Both CRA investigators concluded that the information and records obtained from the seized equipment supported the existence of a scheme in which clients of ADD Accounting and Payless Tax were paying only 10 per cent of the face value of donation receipts. The investigators concluded that these receipts were in essence being purchased. Several tax preparers have been charged in this regard. The Appellant’s 2002 and 2003 CANTAX returns were part of the seized records. The 2003 return contained an attached invoice which listed $8,350.00 as being the amount of the receipt which the Appellant claimed as a donation in that year. However, the invoice also reflects that an amount of only 10 per cent or $835.00 was actually paid by the Appellant. Although the 2002 return did not contain an invoice, according to the evidence of Barbara Lovie, it was not unusual to find some returns that did not have an accompanying invoice.
+[23] Both of these returns were E-filed and the Appellant testified that she looked at only the front page of the returns but did not review the information in either return as to accuracy or completeness. In both years, she stated that her donations were partly cash and partly goods-in-kind, being jewellery. She made no effort to have, what appears to be, rather expensive jewellery independently appraised. She simply relied on the tax preparers to establish the values and she did not bother to review her returns. The only evidence of cash donations in 2002 and 2003 that she could provide was a bank passbook showing an $800.00 cash withdrawal in early 2002 and a money order for $500.00 payable to Ambrose Danso-Dapaah. There was nothing except the Appellant’s evidence to show that the $800.00 actually went to Ambrose Danso-Dapaah and if, in fact, it did it is suspicious that it is exactly 10 per cent of the face value amount of the receipt for that year. The $500.00 money order dated in April, 2003 does not support a conclusion that amounts greater than the 10 per cent of the face value of the receipts were being paid to ADD Accounting.
+[24] The Appellant’s actions support a finding of neglect and carelessness, although I will not go so far as to say they constitute wilful blindness or fraud. I must take into account that the Appellant is an employee of a bank and should know the importance of maintaining proper records to support such claims. She would have been well prepared to provide a well-documented paper trail of her donations to Guyana over the years prior to 2002 if those had been at issue, so the idea of supporting records was not a novel concept to her. Although I believe the Appellant made a misrepresentation attributable to neglect and carelessness that enables CRA to reopen these two taxation years, if her argument is that she relied on her tax preparers to properly file these returns and ensure their correctness, I do not believe she can succeed in this regard either. Chief Justice Bowman in Snowball v. The Queen, 97 D.T.C. 512, makes it clear that a taxpayer may not escape the consequences of subparagraph 152(4)(a)(i) by blaming the negligence or carelessness on one’s tax preparer. It is the Appellant’s return and she has a responsibility to review the return for accuracy and completeness. Consequently, the Respondent has satisfied the onus, on a balance of probabilities, that these otherwise statute-barred years should be reopened. This shifts the onus to the Appellant for all of the taxation years under appeal in respect to the remaining issues.
+[25] Unfortunately, the Appellant has provided no proof, except her testimony, that she paid the cash amounts and gifted the property she alleges in the full face value of the receipts. At the very least, some of her family members could have testified on her behalf to corroborate her evidence that they all pooled their cash in these years and that she claimed the donation receipts on her returns. She freely handed over, apparently very valuable, items of jewellery over the years, without receipts, to an individual that introduced himself through a pamphlet dropped off at her house. Although she may have placed some reliance on the fact that Ambrose Danso‑Dapaah was a CRA employee at the time, she came across as an intelligent individual who has a responsible banking position. When I look at all of the circumstances, I simply do not believe she continued to hand over cash and valuable jewellery year after year to an individual whose only credentials were that he was a CRA employee plus ran a business as a tax preparer. She never got receipts throughout the years nor did she obtain any independent advice on the value of the property.
+[26] I must also consider the other factors which came out in evidence. The donation amounts are large considering her income in these years. She was also the caregiver for an apparently very ill sister during all of these years. She recognized the value of maintaining detailed records relating to money transfers and shipments of property to her homeland in years prior to 2002. The $800.00 cash withdrawal appeared to be a guesstimate on the Appellant’s part that it would be for a donation because she otherwise never withdrew large amounts and again, as I have previously concluded, it is highly suspicious that it is exactly 10 per cent of the face value of the 2002 receipt. The money order for $500.00 in April 2003 cannot be considered proof that she donated the full amount of the receipt. If anything, it is evidence only of a payment towards the 10 per cent amount paid about the time her return would have been completed in 2003, when the receipt was being used for the 2002 taxation year. The invoice attached to the 2003 CANTAX return clearly supports the scheme which the investigation uncovered. Similar invoices are attached to the 2004 and 2005 returns. These invoices contradict the testimony of the Appellant and she was unable to provide any credible explanation for their existence.
+[27] When I take all of these factors into consideration and weigh them based on a balance of probability, the evidence adduced by the Respondent supports my conclusion that the Appellant paid no more than 10 per cent in cash or goods in respect to the grossly inflated face value of the receipts that accompany her returns. The so-called essential element of “donative intent”, as described in the caselaw, is not present.
+[28] In respect to the Respondent’s alternative argument, that is, the receipts do not meet the requirements under subsection 118.1(2) of the Act and Regulations 3500 and 3501, the receipts, with the exception of the 2006 receipt to PanAfrican Canadian Multicultural Centre, are deficient as they do not contain the prescribed information.
+[29] According to subsection 118.1(2), a gift is not to be included as a charitable gift unless it is accompanied by a receipt for the gift that contains certain prescribed information. That prescribed information is set out clearly and in specific detail at Regulation 3501(1). In particular, Regulation 3501(1)(h)(i) states that the receipt shall show:
+(h) the amount that is
+(i) the amount of a cash donation, or
+…
+[30] With respect to donations that include gifts of property, other than cash, Regulation 3501(1)(e.1) states that every official receipt shall contain the following:
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+[31] The receipts for the taxation years 2002 to 2005 (Exhibit R-1) are deficient because:
+1. they do not specify the day on which the alleged donation was made; and
+2. they do not contain a brief description of the property, primarily jewellery, that the Appellant allegedly gifted.
+One of the two receipts in the 2006 taxation year, in respect to Bible Teaching Ministries, did not specify the day on which the alleged donation was made.
+[32] This missing receipt information is critical to the success of a taxpayer relying upon receipts to claim a tax credit where gifts of property are made. It is only reasonable that such information be included on this type of receipt in order to prevent taxpayers from donating worthless property or property of a much lesser value while claiming a much greater value in order to obtain a tax benefit. It is also why there is a specific reference to an appraisal of such property. Although it is not a requirement that an appraisal be completed, by incorporating this reference, it implies that where there is doubt of the value of donated property, a taxpayer may be required to produce the proof of such value through an appraisal or by other acceptable means.
+[33] I subscribe to the remarks by Tardif J. of this Court in Plante v. The Queen, [1999] T.C.J. No. 51, on the importance of issuing appropriate receipts. Tardif J. stated at paragraphs 46-48 of his Judgment:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+[48] If the requirements as to the nature of the information that a receipt must contain are not met, the receipt must be rejected, with the result that the holder of the receipt loses tax benefits. Accordingly, even though a taxpayer may have made a gift of a painting, he or she cannot claim the potential deduction if the appraisal and the receipt issued for the gift do not comply with the requirements of the Act and the Regulations made thereunder.
+[34] Most of these receipts are deficient in the requisite information prescribed by the Act and the Regulations and must, therefore, be rejected due to non-compliance.
+[35] For these reasons, the appeals for the 2002, 2003, 2004, 2005 and 2006 taxation years are dismissed without costs.
+Signed at Ottawa, Canada, this 5th day of May 2010.
+"Diane Campbell"
+Campbell J.
+CITATION: 2010 TCC 236
+COURT FILE NO.: 2008-2888(IT)I
+STYLE OF CAUSE: Doreen Tuar and
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: May 5, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carol Calabrese
+Aleksandrs Zemdegs
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

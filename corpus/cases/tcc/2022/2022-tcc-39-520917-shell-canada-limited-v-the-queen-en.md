@@ -1,0 +1,444 @@
+---
+title: "Shell Canada Limited  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520917/index.do"
+last_modified: "2022-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 39"
+citation2: ""
+neutral_citation: "2022 TCC 39"
+decision_date: "2022-03-31"
+language: "en"
+item_id: "520917"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4483
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:37:11.587000+00:00"
+cases_cited_count: 13
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "34f22ad2aec479193d0addc4cc31e72a89208bdd0a6e8c72734ac49b24a86c1e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shell Canada Limited  v. The Queen
+
+- Citation: 2022 TCC 39
+- Decision date: 2022-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4483, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shell Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-03-31
+Neutral citation
+2022 TCC 39
+File numbers
+2019-3605(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+2019-3605(IT)G
+BETWEEN:
+SHELL CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on September 22, 202l at Calgary, Alberta.
+Written submissions received on October 1, 2021.
+By: The Honourable Justice Don R. Sommerfeldt
+Representatives :
+Counsel for the Appellant:
+Peter Rubin
+Robert Kopstein
+Counsel for the Respondent:
+Carla Lamash
+ORDER
+The recitals to this Order are the following:
+The Appellant made this Motion for a confidentiality order, pursuant to section 16.1 of the Tax Court of Canada Rules (General Procedure), in respect of:
+(i) 58 documents (the “Subject Documents”) that are described in the Appellant’s List of Documents and that are also described in the attached Schedule,
+(ii) the affidavit (the “Affidavit”) sworn by Stefan Vos de Wael on March 11, 2021 and filed with this Court on March 30, 2021, and
+(iii) the Appellant’s written submissions (the “Submissions”) dated and filed September 22, 2021.
+The Respondent neither opposed, nor consented to, this Motion insofar as it pertains to the Subject Documents. However, the Respondent submitted that the confidentiality order should not extend to the Affidavit or the Submissions.
+By letter dated October 1, 2021, the Appellant withdrew its request for a confidentiality order in respect of the Affidavit and the Submissions.
+As explained in the attached Reasons, the Appellant has satisfied the criteria for the granting of a confidentiality order in respect of the Subject Documents.
+IT IS ORDERED THAT:
+The Motion is granted, in part, and this Order is issued in respect of the Subject Documents (but not in respect of the Affidavit or the Submissions), subject to the terms and conditions set out in the paragraphs that follow.
+Each of the Subject Documents (and any copies thereof) shall be sealed and treated as confidential, whether in the possession of the Respondent, the Registry of this Court or the staff of this Court. In particular, each such document shall be kept sealed in the Court record, shall be accompanied by a copy of this Order, and shall not be made accessible to anyone other than this Court and its staff.
+No party shall file any copy of any Subject Document, or any part thereof, with this Court, unless the copy of that document or part is filed:
+(a) under seal, and
+(b) in a manner that identifies for the Registry of this Court that the copy of the Subject Document, or part thereof, is filed pursuant to this Order.
+For greater certainty, and without limiting the generality of subsection 241(1) of the Income Tax Act, the Respondent shall not share the Subject Documents (including copies thereof) or use them outside the scope of this Appeal.
+As soon as this Appeal (including any appeals from the ultimate decision of this Court in respect of this Appeal) is disposed of, counsel for the Respondent shall destroy all copies of, and excerpts from, the Subject Documents that are in the Respondent’s possession, and shall promptly thereafter notify this Court and the Appellant of such destruction.
+For greater certainty, this Order does not exclude the public from the courtroom when the trial of this Appeal or any related motion is heard, and does not impose a publication ban in respect of the trial of this Appeal or the hearing of any related motion.
+This Order does not bind the judge who hears the trial, does not restrict the trial judge’s handling or management of the Subject Documents, and does not preclude the trial judge from granting an order that is inconsistent with, or contrary to, this Order.
+No costs are awarded in respect of this Motion.
+Signed at Ottawa, Canada, this 30th day of March 2022.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+SCHEDULE
+The 58 Subject Documents are grouped and listed below. The groups and their headings are explained in the attached Reasons. The number assigned to each Subject Document is the number assigned to that document in the Appellant’s List of Documents.
+Group A: Proprietary Risk Assessment Documents
+16.
+Group Investment Proposal
+117.
+Upstream Americas Onshore Portfolio, Group Investment Proposal
+135.
+Divestment Proposal
+Group B: Proprietary Information on Ongoing Projects
+57.
+Presentation: Recommendations
+58.
+Presentation: CC Update for EC
+59.
+Presentation: Project CC
+60.
+Presentation: CC Opportunities for Phase 2
+61.
+Email: FW: Final PCN LNG, with attachment 61.1
+62.
+Email: Followup: WC LNG export & Dec 16th lease sale, with attachment 62.1
+63.
+Email: Western Canada LNG, with attachments 63.1, 63.2, 63.3, 63.4
+64.
+Presentation: Overview
+67.
+Email: PCI Asset Offer, with attachment 67.1
+71.
+Post Meeting Update to March 12, 2010
+72.
+Project Index, DRB
+74.
+Group Proposal to Commence Negotiations (Project Index – Western Canada Dilution)
+76.
+Memorandum: Project Index Status and Forward Plan
+80.
+Presentation: Project CC, Terms of Reference
+81.
+Email: Index draft pack for 9 June DRB, with attachment 81.1
+90.
+Presentation: Western Canada Gas Opportunities
+93.
+Presentation: Project Index: Bid Review
+94.
+Presentation: INDEX II Kick off
+96.
+Presentation: Project Index Update
+98.
+Email: Index 2 PCN, with attachment 98.1
+99.
+Presentation: Index – offer assessment
+100.
+Email: Index update
+101.
+Presentation: Project Index: DRB #3
+102.
+Presentation: Project Fulcrum DRB
+106.
+Presentation: Shell’s Western Canada sale
+108.
+Index – Considerations on earn-out structure arrangement
+111.
+Presentation: Forward Planning
+112.
+Index and Fulcrum deal structure
+114.
+Meeting Briefing Note
+115.
+Presentation: Groundbirch Dilution BoD
+116.
+Minutes of a Meeting of the Board of Directors
+118.
+Group Divestment Proposal (Project Rabbit)
+119.
+Canada cooperation – Project Fulcrum, Charlie, Index, Groundbirch Opportunity and BC LNG
+Group C: Third-Party Agreements & Correspondence – LNG
+65.
+Joint Study Agreement
+66.
+Secrecy Agreement
+68.
+Letter on Strategic Partnership
+69.
+Western Canada LNG Study Economic Parameters Agreement
+73.
+Letter: Description of Sale Properties and Offering Procedures
+77.
+Letter: Draft of Partnership Interest Sale Agreement
+78.
+Letter: Expression of Interest in Montney
+79.
+Letter: Letter of Intention of Montney Asset Participation
+84.
+Amendment to the Joint Study Agreement of January 18, 2010
+91.
+Confidentiality Agreement
+97.
+New Core Party Agreement
+Group D: Third-Party Agreements & Correspondence – Groundbirch JV
+105.
+Memorandum of Understanding
+107.
+Heads of Agreement Integrated and Strategic Alliance in Western Canada Oil & Gas
+109.
+Letter of Intent for Greater Groundbirch Development Area and Exploration Acreage
+110.
+Letter of Intent for Exchange of Canadian in Situ Oil Sands Assets
+121.
+Groundbirch Gathering System Production Handling Agreement between Shell Canada Energy and Shell Canada Upstream
+123.
+Groundbirch Joint Operating Agreement between Shell Canada Energy and Shell Canada Upstream
+125.
+Partnership Interest Sale Agreement
+127.
+Letter: Partnership Interest Sale Agreement
+129.
+Groundbirch Gathering System, Amended and Restated Production Handling Agreement
+130.
+Amended and Restated Groundbirch Joint Operating Agreement
+134.
+Global Alliance Agreement
+Citation: 2022 TCC 39
+Date: March 31, 2022
+Docket: 2019-3605(IT)G
+BETWEEN:
+SHELL CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to a motion (the “Motion”) made by Shell Canada Limited (“Shell”) for a confidentiality order, pursuant to section 16.1 of the Tax Court of Canada Rules (General Procedure) (the “Rules”). Although the Crown did not, for the most part, oppose Shell’s Motion, the Crown did not consent to it.
+[2] The only evidence presented at the hearing of this Motion was the affidavit (the “Affidavit”) of Stefan Vos de Wael, who is the General Manager Commercial, Shell Canada Integrated Gas. [1] He has been an employee of the Shell organization (as Mr. Vos de Wael described it in the Affidavit) for 24 years. Counsel for the Crown did not cross-examine Mr. Vos de Wael in respect of the Affidavit. I have no reason to doubt the veracity of the statements made by Mr. Vos de Wael in the Affidavit. [2]
+II. FACTUAL BACKGROUND
+[3] Shell and its affiliates (collectively, the “Shell Group”) have established business relationships with other large energy enterprises. In 2012, one or more members of the Shell Group entered into two joint ventures (the “Joint Ventures”), with various other participants, in respect of liquefied natural gas (“LNG”). [3] One of those Joint Ventures, known as the “LNG Canada Project,” pertains to the construction of a natural gas liquefaction facility on the coast of British Columbia, to facilitate the export of LNG, [4] particularly to countries in Asia.
+[4] As the target market was Asia, Shell’s preference was to foster relationships with entities that participate in, and offer access to, the Asian gas markets, that have global LNG and related oil and gas expertise, and that have material financial resources. [5]
+[5] The respective ownership interests of the participants in the LNG Canada Project are:
+(a) a 40% interest owned by Shell Canada Energy, which is a Canadian partnership whose partnership interests or units are wholly owned by entities in the Shell Group; [6]
+(b) a 25% interest owned by one or more Canadian subsidiaries of Petroliam Nasional Berhad (“Petronas”), which is a Malaysian company that is owned and controlled by the Government of Malaysia; [7]
+(c) a 15% interest owned by one or more Canadian subsidiaries of PetroChina Company Limited (“PetroChina”), which is a Chinese public company whose controlling shareholder is China National Petroleum Corporation, a state-owned enterprise of the People’s Republic of China; [8]
+(d) a 15% interest owned by one or more Canadian subsidiaries of Mitsubishi Corporation (“Mitsubishi”), which is a Japanese public company; [9] and
+(e) a 5% interest owned by one or more Canadian subsidiaries of Korea Gas Corporation (“Kogas”), which is a Korean company that is owned and controlled by the Government of the Republic of Korea. [10]
+[6] The LNG Canada Project is a “bring your own gas” project, meaning that each participant is responsible for supplying its own natural gas for processing at the LNG facility. [11] The need to provide their own natural gas prompted Shell and PetroChina to form a second joint venture.
+[7] The second joint venture, known as the “Groundbirch Joint Venture,” which is between Shell and PetroChina (or their respective affiliates or subsidiaries), relates to the development of certain natural gas properties (the “Groundbirch Properties”) in British Columbia, to be used as natural gas feedstock to satisfy the obligations of Shell and PetroChina in respect of the LNG Canada Project. [12] To acquire its interest in the Groundbirch Joint Venture, in January 2012 PetroChina arranged for its wholly owned Canadian subsidiaries to purchase Shell’s interest in a partnership known as Shell Canada Upstream (“SCU”). [13]
+[8] As the five participants in the LNG Canada Project are not only co-venturers in respect of that project, but are also competitors in other respects, they are anxious to keep confidential information secret from one another. In particular, Shell and PetroChina do not want Petronas, Mitsubishi or Kogas to know the details of the Groundbirch Joint Venture. [14] To foster the preservation of confidentiality, the participants in the Joint Ventures have entered into various confidentiality agreements and have included confidentiality clauses or terms in other transactional agreements. [15] In addition, Shell expects and requires that its employees, directors and officers are to maintain the confidentiality of its trade secrets and other confidential information. [16]
+III. PROCEDURAL BACKGROUND
+[9] By reason of the sale of its partnership interest in SCU to PetroChina in the taxation year ended December 31, 2012, Shell realized a capital loss (the “Capital Loss”), which Shell carried back to its taxation year ended December 29, 2009. Relying on the general anti-avoidance rule in section 245 of the Income Tax Act (the “ITA”), [17] the Minister of National Revenue (the “Minister”) reassessed Shell to deny the Capital Loss and the related net capital loss carry-back. [18] The reassessment (the “Reassessment”) that is the subject of this Appeal relates to the 2009 taxation year. [19]
+[10] To satisfy the onus of proving that the realization of the Capital Loss was not an avoidance transaction and to counter the Minister’s argument that the sale of the partnership interest in SCU and the related transactions constituted a misuse of the ITA or resulted directly or indirectly in an abuse, Shell has determined that it will need to disclose documents that are confidential. [20] To ensure that Shell is not in breach of its obligations of confidentiality to the other members of the Joint Ventures and to ensure that confidential information is not disclosed to the competitors of Shell and of the other participants in the Joint Ventures, Shell has brought this Motion to obtain a confidentiality order under section 16.1 of the Rules.
+[11] This Motion seeks an order requiring that 58 documents (the “Subject Documents”), as listed in Appendix A to the Affidavit, be treated as, and kept, confidential. The Subject Documents have been included in Shell’s List of Documents and have been disclosed by Shell to the Crown as part of the discovery process. [21] Shell is not seeking to keep the Subject Documents from the Crown, [22] nor does Shell seek to limit the use of the Subject Documents at the trial of this Appeal. But Shell does want to ensure that a competitor cannot access the Subject Documents by searching at the Registry of this Court.
+[12] Appendix A to the Affidavit organizes the Subject Documents into four groups, as follows:
+(a) Group A, which contains three of the Subject Documents, is entitled “Proprietary Risk Assessment Documents.” The documents in this group are proprietary, and are referred to internally “as ‘group investment proposals’ and ‘group divestment proposals’ that are designed to formalize the Shell Group’s internal governance process for risk management and decision making.” These documents set out the Shell Group’s project evaluation metrics “used to screen, risk, rank, value and reject or recommend business opportunities to senior management and the board of directors for capital, operating and funding approval decisions.” [23]
+(b) Group B, which contains 33 of the Subject Documents, is entitled “Proprietary Information on Ongoing Projects.” The documents in this group contain sensitive and confidential commercial, organizational and financial information pertaining to the other participants in the Joint Ventures and the business arrangements between the Shell Group and those other participants, including marketing efforts made by the Shell Group and the Shell Group’s strategic views in respect of those participants. Some of the documents in this group disclose the economic conditions or contractual terms that were included by the parties in their agreements with one another or were specifically rejected by those parties for such inclusion. If these documents were to become available to competitors of the Shell Group or of the other participants in the Joint Ventures, the Shell Group or those participants would be disadvantaged. [24]
+(c) Group C, which contains 11 of the Subject Documents, is entitled “Third Party Agreements & Correspondence – LNG Canada.” The documents in this group pertain to the relationships between the Shell Group and the participants in the LNG Canada Project and relate not only to that Joint Venture but also to other contractual agreements with those parties. The documents in this group disclose how various economic and commercial issues were negotiated by the parties. If these documents were to be disclosed to competitors, there could be a negative impact on the future negotiating position of Shell or of other participants in the Joint Ventures in their dealings with those or other competitors. [25]
+(d) Group D, which contains 11 of the Subject Documents, is entitled “Third Party Agreements & Correspondence – Groundbirch JV.” The documents in this group relate to the sensitive, confidential and private commercial agreements and correspondence between the Shell Group and PetroChina in respect of the development of the Groundbirch Properties. Given the composition and nature of the two Joint Ventures, it is essential for the Shell Group and PetroChina not to disclose to the other three participants in the LNG Canada Project the rates for services and other information pertaining to the natural gas feedstock derived from the Groundbirch Properties. [26]
+[13] The Notice of Motion filed by Shell indicated that Shell was seeking a confidentiality order in respect of the Subject Documents, the Affidavit and the Applicant’s Written Submissions dated and filed September 22, 2021 (“Shell’s Submissions”). While the Crown does not take a position in respect of Shell’s request for a confidentiality order covering the Subject Documents themselves, the Crown does not go so far as to consent to the Motion. [27] Furthermore, the Crown is of the view that neither the Affidavit nor Shell’s Submissions should be kept confidential. [28] By letter dated October 1, 2021, from counsel for Shell to the Court, Shell withdrew its request for a confidentiality order in respect of the Affidavit and Shell’s Submissions.
+IV. ISSUE
+[14] The issue in respect of this Motion is whether the principles governing the granting of a confidentiality order have been satisfied by Shell in respect of the Subject Documents.
+V. ANALYSIS
+A. Jurisprudential Framework
+[15] The principle of open courts in Canada is connected to the freedom of expression guaranteed by paragraph 2(b) of the Charter of Rights and Freedoms. [29] Not only does the freedom to express ideas or opinions about the courts come within the freedom of expression, but so too does the right of the public to obtain information about the courts. [30]
+[16] One of the foundational cases addressing the principles applicable to the granting of a confidentiality order is the 2002 decision of the Supreme Court of Canada in Sierra Club, which set out a two-step inquiry or test. [31] In Sherman Estate, the Supreme Court recast the two-step test in Sierra Club, without altering its essence, into a three-step test, as follows:
+In order to succeed, the person asking a court to exercise discretion in a way that limits the open court presumption must establish that:
+(1) court openness poses a serious risk to an important public interest;
+(2) the order sought is necessary to prevent this serious risk to the identified interest because reasonably alternative measures will not prevent this risk; and
+(3) as a matter of proportionality, the benefits of the order outweigh its negative effects. [32]
+These three steps are discussed below
+B. Serious Risk to Important Public Interest
+[17] Courts in Canada have recognized several public interests in a commercial or business context. The discussion that follows identifies five public interests that are relevant. There is an element of similarity or overlap among some of those interests. Notwithstanding that similarity or overlap, I have organized the discussion into five categories, as that is the manner in which counsel for Shell organized his submissions, and that manner adopts the terminology used in various cases to describe the public interests.
+1. General Commercial Interest of Preserving Confidential Information
+[18] Confidentiality simpliciter (particularly if the interest in confidentiality is specific to the party seeking the confidentiality order, or if it relates to the disclosure of a contract that is entered into by, and is specific to the commercial interests of, a private company) likely does not constitute an important commercial interest. However, if the exposure of confidential information would cause a breach of a confidentiality agreement, there is a general commercial interest of preserving confidential information. [33] As was expressed elsewhere, there is “a public interest in confidentiality.” [34]
+[19] While the existence, composition and objectives of the two Joint Ventures are public knowledge, [35] there is a significant expectation of confidentiality among the participants of the Joint Ventures, particularly as three of the participants in the LNG Canada Project are not participants in the Groundbirch Joint Venture. [36] In addition, according to Mr. Vos de Wael, the oil and gas industry in general, and the LNG market in particular, are highly competitive. [37]
+[20] Given the high expectation of confidentiality among the participants in the Joint Ventures, those participants have entered into various confidentiality agreements and have inserted confidentiality terms in other agreements pertaining to the Joint Ventures. [38] In addition, the members of the Shell Group have instituted an internal code of conduct that subjects their employees, directors and officers to an obligation of confidentiality. These confidentiality agreements, terms and internal measures have been implemented not only for the benefit of the Shell Group, but also for the benefit of the other participants in the Joint Ventures and their customers and suppliers. [39]
+[21] If Shell were to disclose the Subject Documents, Shell would be in breach of its obligations under the confidentiality agreements into which it has entered, as well as under the confidentiality terms of other agreements into which it has also entered, and there would be a risk of harm to the participants in the Joint Ventures. The interest of preserving commercial and contractual relations will be promoted by the confidentiality order that is sought. [40]
+2. Pursuit of Commercial Litigation without Exposure to Harm
+[22] If a confidentiality order were not to be granted, in pursuing the Appeal from the Reassessment, Shell would face the dilemma of either disclosing the Subject Documents, thus breaching its obligations under the confidentiality agreements and terms, or adhering to the confidentiality agreements and terms, which would necessitate relinquishing the opportunity to put its best foot forward in the Appeal. Based on Sierra Club, the latter alternative would infringe Shell’s right to a fair trial. [41] Not only does this right directly impact Shell, but “there is also a general public interest in protecting the right to a fair trial.” [42]
+[23] In RJG Construction, the Court of Appeal of Newfoundland and Labrador considered an application for a confidentiality order. That Court noted that failing to grant a confidentiality order would provide an advantage to the applicant’s competitors by giving them sensitive commercial and financial information pertaining to the applicant, which they could use to their own advantage and to the applicant’s disadvantage. That Court noted that the “open court principle cannot be blind to this reality, and … cannot be permitted to expose a litigant’s vulnerability in the absence of good reason.” [43] In granting the confidentiality order, that Court noted that “the public interest at stake in cases like this is the ability of commercial litigants to vindicate their legal rights without exposing themselves to the real risk of harm.” [44]
+[24] In keeping with the principle enunciated above, it is my view that Shell should be in a position to disclose the Subject Documents as part of the litigation process pertaining to this Appeal, without incurring a risk of harm, particularly relational harm that would otherwise arise if Shell were to breach its obligations under the confidentiality agreements and terms, and financial harm that would arise if the disclosed information were to be used by Shell’s competitors to the disadvantage of Shell.
+3. Preservation of Confidentiality during Discovery Process
+[25] In the MediaTube case, Justice Locke of the Federal Court identified a public interest that, in my view, is closely related to the above-mentioned public interest in protecting the right to a fair trial, or is perhaps a subset of that interest. Justice Locke stated that “where a party … finds itself involved in litigation … and is compelled by the rules of discovery to divulge sensitive and confidential information, there is a strong public interest in that party being able to maintain the confidentiality of that information.” [45] I accept that the Subject Documents contain sensitive and confidential information. [46]
+[26] Sections 80 through 85 of the Rules contain a detailed set of provisions (including rules for identification, description, inspection and production) pertaining to the discovery of documents that a party intends to use at trial (in the case of partial disclosure) or that the party possesses or controls and that are relevant to any matter in question in the particular appeal (in the case of full disclosure). Based on the principle enunciated in MediaTube, there is a strong public interest in permitting Shell to disclose documents that come within the above-referenced Rules, while maintaining the confidentiality of the information contained in those documents.
+4. Need for Commercial Certainty and Protection of Proprietary Information
+[27] In Medicine Shoppe, the Court of Queen’s Bench of Alberta indicated that, where documents “contain confidential trade secrets that, if released into the public domain, would cause serious harm to” the owner of those secrets, there are “both public and private interests at stake[,] given the need for commercial certainty and protection of proprietary information.” [47]
+[28] As noted above, some of the Subject Documents contain confidential proprietary information, such that, if those documents were to become public, serious harm would be sustained by the owners of that information (be it Shell or the other participants in the Joint Ventures).
+5. Protection of Fair Competition
+[29] In Resolve Business Outsourcing, the Nova Scotia Court of Appeal acknowledged that there is a public interest in fair competition. [48] That Court also observed that having “a specific private interest does not exclude the existence of a concurrent public interest.” [49] The two interests are not mutually exclusive.
+[30] In PearTree Securities, the Ontario Superior Court of Justice framed this particular interest, which it described as an important public interest, as “the protection of fair competition based on equality of treatment regarding disclosure requirements.” [50]
+[31] In the RBC case, the Supreme Court of British Columbia accepted that maintaining the confidentiality of a bank’s rules and policies involves the public interest (as well as the bank’s interest), given that “[t]he public have an interest in maintaining competitiveness within the banking industry and ensuring the reputation of, and public confidence in, its financial institutions.” [51] In a similar vein, given the current importance of the energy industry in Canada, it is my view that there is a public interest in maintaining competitiveness within the energy industry and ensuring the reputation of, and public confidence in, the participants in that industry. [52] This public interest extends to the Subject Documents listed in Group A in the Affidavit.
+6. Summary
+[32] I am satisfied that Shell has established that, if a confidentiality order is not granted, there will be a serious risk to one or more of the following important public interests:
+(a) the general commercial interest of preserving confidential information; [53]
+(b) the general public interest of protecting the right to a fair trial, [54] also described as the public interest of enabling “commercial litigants to vindicate their legal rights without exposing themselves to the real risk of harm”; [55]
+(c) the public interest of enabling a litigant, when “compelled by the rules of discovery to divulge sensitive and confidential information, … to maintain the confidentiality of that information”; [56]
+(d) the public interest of promoting commercial certainty and protecting proprietary information; [57] and
+(e) the public interest of protecting fair competition. [58]
+Necessity
+[33] As noted in Sherman Estate, once an applicant for a confidentiality order has established that court openness poses a serious risk to an important public interest, the applicant must show that the order is necessary to prevent that risk because reasonably alternative measures will not prevent the risk. [59] Reasonably alternative measures include redaction and a publication ban, neither of which was suggested by the Crown. In fact, the Crown’s Submissions do not suggest any alternative measures to granting the confidentiality order requested by Shell.
+[34] Given the nature of the Subject Documents, it is my understanding that redaction of the confidential information contained therein would not be helpful, as the redacted portions of the documents would exceed the unredacted portions, rendering the remaining portions of the documents difficult to read or understand. [60] The Federal Court has acknowledged that extensive redaction could result in a redacted document that is “an empty, incomprehensible shell.” [61] A further difficulty with redaction is that the redacted material would not be available to be used by the Crown in cross-examining Shell’s witnesses. [62] The Courts have acknowledged that, in some circumstances, redaction or expungement might be impractical or unreasonable. [63]
+[35] While the Supreme Court of Canada has noted that a publication ban is less constraining on the open court principle than is a sealing order (i.e., a confidentiality order), [64] Shell is not as concerned about a news story appearing in print or online, as it is about a competitor or one of the other participants in the Joint Ventures, particularly the LNG Canada Project, searching the Court file in respect of this Appeal, obtaining copies of one or more of the Subject Documents, and then using the information contained therein to the commercial or economic disadvantage of Shell or another participant in one of the Joint Ventures.
+[36] This step of the analysis “asks whether there are reasonably alternative measures; it does not require the adoption of the absolutely least restrictive option.” [65] I have concluded that, apart from a confidentiality order, there are no reasonably alternative measures that would prevent a serious risk to the public interests identified above.
+C. Proportionality
+[37] In Sherman Estate, the Supreme Court of Canada reiterated that, as a matter of proportionality, the benefits of the desired confidentiality order must outweigh its negative effects. [66]
+[38] In Sierra Club, the Supreme Court noted that the confidentiality order that was sought in that case related to the public distribution of the particular documents, and would not preclude the trial court and the parties from having access to the confidential documents, nor would the desired confidentiality order impede public access to the legal proceedings. Consequently, the desired order represented “a fairly minimal intrusion into the open court rule, and thus would not have significant deleterious effects on this principle.” [67] Similar circumstances apply here.
+[39] As noted above, Shell is not seeking to preclude the Crown from having access to the Subject Documents. In fact, Shell has already provided copies of those documents to the Crown. Shell is not attempting to exclude the public from the courtroom when the trial of this Appeal (or any interlocutory motion, for that matter) is heard. [68]
+[40] In applying for a confidentiality order, Shell does not seek to impose a publication ban in respect of the hearing of this Appeal. [69] This too is a factor that may be considered in the proportionality analysis. [70]
+[41] The List of Documents filed by Shell makes mention of at least 176 documents. [71] Of that number, the confidentiality order sought by Shell pertains to only 58 of those documents. [72] While many of the documents described in the List of Documents are confidential, [73] Shell has not requested a confidentiality order in respect of all such documents, Rather, Shell seeks a confidentiality order in respect of only 58 of those documents. In determining which documents should be the subject of the desired confidentiality order, Shell undertook the following actions:
+(a) detailed reviews of the non-public documents described in the List of Documents; and
+(b) detailed reviews and discussions to consider various factors, including:
+the degree of confidentiality associated with each document;
+the competitive sensitivity or proprietary nature of the contents of each document;
+the continued relevance or currency of the information contained in each document; and
+the harm or risk of harm that would or could result from disclosure of each document. [74]
+[42] I am satisfied that Shell has been careful in determining which documents require the protection of a confidentiality order. Thus, it does not appear that the desired confidentiality order will seriously impair the open court principle by overreaching. Shell has further restricted the scope of the desired confidentiality order by withdrawing its request that the Affidavit and Shell’s Submissions be protected by the confidentiality order.
+[43] Shell’s main concern is to ensure that any of the Subject Documents that might be filed in the Registry (for instance, as an exhibit to an affidavit in support of some future interlocutory motion) will not be available to a competitor of Shell or of any of the other participants in the Joint Ventures, and will not be accessible in a manner that might cause harm to Shell, Petronas, PetroChina, Mitsubishi or Kogas.
+[44] A further consideration is that Shell is not seeking to tie the hands of the trial judge insofar as the use of the Subject Documents at the trial of this Appeal may be concerned. This is in keeping with the principle enunciated in MediaTube, to the effect that matters dealing with the confidentiality of documents at trial should be left to the trial judge. [75]
+[45] Any confidentiality order will likely have some impact on the open court principle. [76] However, in this situation, given the circumstances described above, the negative or deleterious effect of the confidentiality order sought by Shell is relatively modest.
+[46] If the desired confidentiality order is not granted, Shell will be faced with the following dilemma:
+(a) in order to put its best foot forward in this Appeal, Shell will need to breach the confidentiality agreements and terms into which it has entered, and the Shell employees who are responsible for preserving the confidentiality of the Subject Documents will need to contravene Shell’s policies and protocols requiring them to maintain the confidentiality of its trade secrets and other confidential information; or
+(b) if Shell and its employees choose to abide by the confidentiality agreements, terms, policies and protocols, Shell could be precluded at the trial from presenting evidence that would otherwise assist it in making its case.
+In addition, there is an additional risk that, if the desired confidentiality order is not granted, any of the Subject Documents that might happen to be filed (for instance, as an exhibit to an affidavit) with the Registry before the trial could be accessed by a competitor of Shell or of the other participants in the Joint Ventures, which could have serious adverse consequences, as summarized above.
+[47] In my view, the benefits of the desired confidentiality order significantly outweigh the negative effects of granting the order.
+VI. CONCLUSION
+[48] The Motion is allowed, insofar as it pertains to the Subject Documents. Accordingly, a confidentiality order shall be issued, pursuant to section 16.1 of the Rules, in respect of the Subject Documents (but, for greater certainty, not in respect of the Affidavit or Shell’s Submissions).
+[49] No costs are awarded at this time in respect of this Motion (although the matter of costs may be revisited by the trial judge).
+Signed at Ottawa, Canada, this 30th day of March 2022.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2022 TCC 39
+COURT FILE NO.:
+2019-3605(IT)G
+STYLE OF CAUSE:
+SHELL CANADA LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+DATE OF SUBMISSIONS:
+September 22, 2021
+October 1, 2021
+REASONS FOR ORDER BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF ORDER:
+March 31, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Peter Rubin
+Robert Kopstein
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Peter Rubin
+Firm:
+Name:
+Firm:
+Blake Cassels & Graydon LLP
+Vancouver, BC
+Robert Kopstein [77]
+McCarthy Tétrault LLP
+Calgary, AB
+For the Respondent:
+A. François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Affidavit was sworn March 11, 2021 and filed March 30, 2021.
+[2] See Drouin v. The Queen, 2011 TCC 425, ¶11.
+[3] Affidavit, ¶26.
+[4] Affidavit, ¶3.
+[5] Affidavit, ¶26.
+[6] Affidavit, ¶22.
+[7] Affidavit, ¶23(a).
+[8] Affidavit, ¶23(b).
+[9] Affidavit, ¶23(c).
+[10] Affidavit, ¶23(d).
+[11] Affidavit, ¶28(b) and footnote 11.
+[12] Affidavit, ¶9.
+[13] Affidavit, ¶8-9.
+[14] Affidavit, ¶17 & 24-28.
+[15] Affidavit, ¶6.
+[16] Affidavit, ¶6 & 33-37.
+[17] Income Tax Act, RSC 1985, c. 1 (5th Supplement), as amended.
+[18] Affidavit, ¶9-10. See also Shell’s Notice of Appeal and the Crown’s Reply.
+[19] While this Appeal relates to the 2009 taxation year, the denial of the Capital Loss in the 2012 taxation year is the subject of a different appeal.
+[20] Affidavit, ¶11.
+[21] Although not discussed at the hearing of this Motion, I assume that, in disclosing the Subject Documents to the Crown as part of the discovery process, Shell was relying on the Crown’s and the Minister’s obligations under section 241 of the ITA.
+[22] As indicated, Shell has already provided copies of all of its relevant documents to the Crown; see Shell’s Notice of Motion, dated and filed March 30, 2021, ¶5.
+[23] Affidavit, ¶21(b); and Affidavit, Appendix A, ¶1.
+[24] Affidavit, ¶21(a)(iii); and Affidavit, Appendix A, ¶9-12.
+[25] Affidavit, ¶21(a)(i); and Affidavit, Appendix A, ¶18-20.
+[26] Affidavit, ¶21(a)(ii); and Affidavit, Appendix A, ¶25-27.
+[27] Respondent’s Submissions dated and filed September 22, 2021 (the “Crown’s Submissions”), ¶3.
+[28] Crown’s Submissions, ¶4; and oral submissions made at the hearing of this Motion.
+[29] Sierra Club of Canada v. Canada (Minister of Finance), [2002] 2 SCR 522, 2002 SCC 41, ¶36.
+[30] Canadian Broadcasting Corp. v. New Brunswick (Attorney General), [1996] 3 SCR 480, ¶23.
+[31] Sierra Club, supra note 29, ¶53.
+[32] Sherman Estate v. Donovan, 2021 SCC 25, ¶38. Note that the second step in Sherman Estate (as well as the corresponding phrase in the first step in Sierra Club) uses the phrase reasonably alternative measures, rather than reasonable alternative measures. From a grammatical perspective, the phrase reasonable alternative measures suggests that the alternative measures must be reasonable, and the phrase reasonably alternative measures suggests that the alternativeness (i.e., the alternative nature or quality) of the measures must be reasonable. In paragraph 57 of Sierra Club, the Supreme Court stated that the phrase reasonably alternative measures “requires the judge to consider not only whether reasonable alternatives to a confidentiality order are available, but also to restrict the order as much as is reasonably possible while preserving the commercial interest in question.”
+[33] Sierra Club, supra note 29, ¶55; and Sherman Estate, supra note 32, ¶41.
+[34] Resolve Business Outsourcing Income Fund v. Canadian Financial Wellness Group Inc., 2014 NSCA 98, ¶36. While the CanLII copy of this decision uses the preceding citation, the style of cause shows the respondent as “The Canadian Financial Wellness Group Limited.”
+[35] Affidavit, ¶3-4. See also the press release dated October 2, 2018, as cited in footnote 1 of the Affidavit.
+[36] Affidavit, ¶5 & 9.
+[37] Affidavit, ¶14.
+[38] Affidavit, ¶6.
+[39] Affidavit, ¶6.
+[40] Sierra Club, supra note 29, ¶51.
+[41] Ibid, ¶50-51.
+[42] Ibid, ¶50.
+[43] RJG Construction Limited v. Marine Atlantic Inc., 2018 NLCA 25, ¶27.
+[44] Ibid.
+[45] MediaTube Corp. et al. v. Bell Canada, 2018 FC 355, ¶22.
+[46] Affidavit, ¶21.
+[47] Medicine Shoppe Canada Inc. v. Devchand et al., 2012 ABQB 375, ¶36.
+[48] Resolve Business Outsourcing, supra note 34, ¶31.
+[49] Ibid, ¶30.
+[50] PearTree Securities Inc. v. NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455, ¶12.
+[51] Royal Bank of Canada v. Westech Appraisal Services Ltd., 2017 BCSC 773, ¶12.
+[52] I acknowledge that not all Canadians hold the energy industry, particularly the oil and gas sector, in the same regard. These reasons should not be viewed as a statement for or against any sector of the energy industry. My only purpose in making the above comment is to acknowledge that, at the present time, the oil and gas sector plays an important role in satisfying Canada’s need for fuel, heating and power, and has a significant impact on the Canadian economy, even though the need for fossil fuels may or should decline in the future.
+[53] Sierra Club, supra note 29, ¶55; and Resolve Business Outsourcing, supra note 34, ¶36.
+[54] Sierra Club, supra note 29, ¶50.
+[55] RJG Construction, supra note 43, ¶27.
+[56] MediaTube, supra note 45, ¶22.
+[57] Medicine Shoppe, supra note 47, ¶36.
+[58] PearTree Securities, supra note 50, ¶12; Resolve Business Outsourcing, supra note 34, ¶31; and RBC, supra note 51, ¶12.
+[59] Sherman Estate, supra note 32, ¶38(1)-(2).
+[60] Affidavit, Appendix A, ¶8, 17, 24 and 33.
+[61] Bah v. Canada (Citizenship and Immigration), 2014 FC 693, ¶27.
+[62] Sierra Club, supra note 29, ¶64.
+[63] Osif v. College of Physicians and Surgeons of Nova Scotia, 2008 NSCA 113, ¶27-29; and Patient X v. College of Physicians and Surgeons of Nova Scotia, 2013 NSSC 32, ¶46-47.
+[64] Sherman Estate, supra note 32, ¶105.
+[65] Sierra Club, supra note 29, ¶66 (emphasis in the original).
+[66] Sherman Estate, supra note 32, ¶38(c).
+[67] Sierra Club, supra note 29, ¶79. See also Resolve Business Outsourcing, supra note 34, ¶39; and Drouin, supra note 2, ¶15.
+[68] Shell’s Submissions, ¶2 & 71-73. See Drouin, supra note 2, ¶15.
+[69] Shell’s Notice of Motion, supra note 22, makes no mention of, nor request for, a publication ban.
+[70] See RBC, supra note 51, ¶14.
+[71] Shell’s List of Documents numbers each of the listed documents. The last document in the list is numbered as 155. However, some of the documents, most notably emails and letters, are described as being “with attachment” or something similar. In many of those situations, the attachment or attachments to the particular email or letter are listed below that email or letter and are numbered as 2.1, 2.2, 10.1, 10.2, and so on. There are 13 attachments that are so listed. Documents 48 and 50 refer to related documents that are attached, but those attachments are not listed separately. As well, documents 148, 149 and 150 are described as being an email and two letters respectively, each “with attachments,” but the attachments are not listed. As it appears that documents 48 and 50 each had one attachment, and on the assumption that documents 148, 149 and 150 each had at least two attachments, it appears that there are 8 or more attachments that are not specifically described in the List of Documents. This assumption takes the total number of documents to at least 176 (i.e., 155 + 13 + 8), but the number could be greater if more than two documents were attached to the email and/or the two letters that used the phrase “with attachments.”
+[72] Those 58 documents are the subject of this Motion and these Reasons.
+[73] Affidavit, ¶20.
+[74] Affidavit, ¶19.
+[75] MediaTube, supra note 45, ¶20.
+[76] Sierra Club, supra note 29, ¶74.
+[77] As counsel for the Crown did not raise any concerns about Shell having two counsel of record, I have not thoroughly considered the issues raised in Farmobile, LLC v. Farmers Edge Inc., 2021 FC 1200, or the application of that case to this Appeal.

@@ -1,0 +1,190 @@
+---
+title: "Syspro Software Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27822/index.do"
+last_modified: "2003-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 498"
+citation2: ""
+neutral_citation: "2003 CCI 498"
+decision_date: "2003-07-15"
+language: "fr"
+item_id: "27822"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 362
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:59:06.361000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2dd3481e2c177e88f12206252038f158e56b3480f805af99bf5237f6c7318b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Syspro Software Ltd. c. La Reine
+
+- Citation: 2003 CCI 498
+- Decision date: 2003-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 362, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syspro Software Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-15
+Référence neutre
+2003 CCI 498
+Numéro de dossier
+2002-3112(IT)G
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑3112(IT)G
+ENTRE :
+SYSPRO SOFTWARE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Renvoi entendu le 13 janvier 2003 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge en chef Alban Garon
+Comparutions
+Avocat de l’appelante :
+Me Thomas M. Boddez
+Avocate de l’intimée :
+Me Margaret E. T. Clare
+____________________________________________________________________
+DÉCISION SUR LA QUESTION
+AFFAIRE INTÉRESSANT un accord qu’une question de droit doit être tranchée par cette Cour en vertu de l’article 173 de la Loi de l’impôt sur le revenu (la « Loi »).
+La question de droit à trancher est rédigée en ces termes dans le Renvoi :
+[Traduction]
+Les redevances payées par l’appelante à Encore respectent‑elles l’entente concernant les redevances ou des paiements semblables à l'égard d'un droit d'auteur au titre de la production ou de la reproduction d'une œuvre littéraire au sens du sous‑alinéa 212(1)d)(vi) de la Loi?
+Et après avoir entendu les observations de l’avocat;
+En vertu de l’article 173 de la Loi, je conclus que les redevances payées par l’appelante à Encore Software Systems Limited selon l’entente conclue le 1er juin 1966 entre un prédécesseur de l’appelante et la corporation susmentionnée visent les droits d’auteur au titre de la reproduction d’une œuvre littéraire, et à ce titre, ils sont exempts d’impôt conformément au sous‑alinéa 212(1)d)(vi) de la Loi.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2003.
+« Alban Garon »
+Juge en chef Garon
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Louise‑Marie LeBlanc, traductrice
+Référence : 2003CCI498
+Date : 20030715
+Dossier : 2002‑3112(IT)G
+ENTRE :
+SYSPRO SOFTWARE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA DÉCISION SUR LA QUESTION
+Le juge en chef GARON
+[1] Il s’agit d’une affaire où l’appelante et le ministre du Revenu national ont consenti par écrit qu’une question de droit relativement aux nouvelles cotisations proposées à l’égard des années d’imposition 1996, 1997, 1998, 1999 et 2000 doit être tranchée par cette Cour conformément aux dispositions de l’article 173 de la Loi de l’impôt sur le revenu (la « Loi »). Les nouvelles cotisations ont été établies en appliquant la Partie XIII de la Loi selon laquelle on effectue une retenue d’impôt à la source, selon un taux de 25 p. 100 sur certains paiements faits par des résidents canadiens à des non‑résidents. Dans l’affaire qui nous occupe, les paiements étaient faits par l’appelante à une corporation non résidante connue sous le nom de Encore Software Systems Limited (« Encore ») à l’égard d’un certain logiciel nommé « Impact Encore ». La question de droit à trancher est formulée dans ces termes dans le Renvoi :
+[Traduction]
+Les redevances payées par l’appelante à Encore respectent‑elles l’entente concernant les redevances ou des paiements semblables à l'égard d'un droit d'auteur au titre de la production ou de la reproduction d'une œuvre littéraire au sens du sous‑alinéa 212(1)d)(vi) de la Loi?
+[2] Les faits pertinents sont présentés dans le Renvoi :
+[Traduction]
+FAITS PERTINENTS ADMIS PAR LES PARTIES
+3. Encore Software Systems Limited (« Encore ») constitue une corporation non résidante au Canada qui possède un droit d’auteur sur un certain logiciel nommé « IMPACT Encore ».
+4. Le logiciel IMPACT Encore (le « logiciel ») est une œuvre littéraire au sens utilisé dans le sous‑alinéa 212(1)d)(vi) de la Loi.
+5. Le 1er juin 1996, un prédécesseur de l’appelante et Encore ont conclu une entente en ce qui concerne l’exploitation du logiciel (« l’Entente »).
+6. Les dispositions pertinentes de l’Entente aux fins de ce renvoi sont rédigées en ces termes :
+a) Encore a accordé à l’appelante un permis pour reproduire et distribuer le logiciel selon les dispositions et les conditions établies dans l’Entente (disposition 4.1);
+b) l’appelante a accepté de ne remettre aucune copie du logiciel à un tiers à moins que la personne ne signe tout d’abord une convention de droits d’utilisation de logiciel (disposition 4.4);
+c) Encore a accepté de faire en sorte que l’appelante reçoive une copie maîtresse du logiciel aux fins de reproduction multiple par cette dernière (disposition 4.5);
+d) l’appelante a accepté de ne reproduire le logiciel que selon le format de la copie maîtresse fournie et de ne produire que le nombre de copies nécessaires pour répondre à ses obligations (et un nombre raisonnable de copies aux fins de démonstration, de soutien et de formation) (disposition 4.6);
+e) Encore a accordé à l’appelante le droit d’utiliser la marque de commerce ou l’appellation commerciale de Encore pour la distribution et l’octroi de sous‑licences du logiciel, cette utilisation devant cesser au moment où l’Entente prend fin (dispositions 8.1.14, 18.1.2 et 18.1.6);
+f) Encore a accepté de ne pas approcher les détenteurs de licence, les détenteurs de licence potentiels ou les sous‑distributeurs de l’appelante sans tout d’abord consulter cette dernière, et a accepté de n’accorder à aucune autre personne, entité ou distributeur, le droit de commercialiser ou d’installer le logiciel dans le territoire assigné à l’appelante dans l’Entente (dispositions 9.11 et 9.12);
+g) l’appelante a accepté de payer à Encore des redevances à l’égard de chacune des conventions de droits d’utilisation de logiciel conclue par l’appelante ou ses sous‑distributeurs. La redevance est calculée dans une mesure de 17,5 p. 100 du prix de vente (moins tout rabais et vente de mise à jour avec reprise), augmentée à 20 p. 100 à partir du 1er janvier 1998. Le pourcentage peut être renégocié aux deux ans, mais il ne doit pas dépasser 20 p. 100. De plus, l’appelante doit payer à Encore une redevance d’utilisation annuelle (dispositions 11.2, 11.3 et 11.4).
+7. L’intimée a examiné les années d’imposition de l’appelante de 1996 à 2000 et propose d’établir une nouvelle cotisation en se fondant sur le fait que les redevances versées par l’appelante à Encore en vertu de l’Entente étaient imposables conformément à la Partie XIII de la Loi, et que l’appelante avait omis de déduire et de remettre les montants ainsi établis :
+ANNÉE D’IMPOSITION
+PARTIE XIII DE LA LOI
+1996
+6 197 $
+1997
+109 960 $
+1998
+106 714 $
+1999
+177 182 $
+2000
+184 821 $
+L’argument de l’appelante
+[3] Selon l’avocat de l’appelante, en vertu du sous‑alinéa 212(1)d)(vi) de la Loi, les redevances versées en vertu de l’Entente sont exemptes d’impôts parce qu’elles visent la reproduction du logiciel.
+[4] Il soutient que le droit de reproduction comprend également le droit de distribution et affirme qu’aucune entreprise n’accepterait de payer pour le droit de reproduction sans avoir également le droit de distribution ou pour le droit de distribution sans la possibilité d’avoir accès aux copies.
+[5] Dans les plaidoiries écrites qu’a présentées l’appelante, elle a soutenu que les redevances sont payables pour chaque octroi de sous‑licence accordé par l’appelante et, pour chaque octroi de sous‑licence, l’appelante est autorisée à reproduire aux fins de distribution une copie du logiciel. Dans ces circonstances, les redevances sont, de toute évidence, liées au droit de reproduire le logiciel, de sorte que l’exemption prévue au sous‑alinéa 212(1)d)(vi) de la Loi est applicable.
+[6] L’avocat de l’appelante a également indiqué que l’exemption établie au sous‑alinéa 212(1)d)(vi) de la Loi s’applique dans l’affaire en l’espèce du fait de la relation ou du lien entre les redevances et le droit de faire des copies du logiciel. Pour soutenir cette conclusion, l’avocat de l’appelante s’est fondé sur l’arrêt de la Cour suprême du Canada dans l’affaire Nowegijick c. La Reine et al., [1983] 1 R.C.S. 29 (83 DTC 5041), dans lequel on examine la signification des mots « au titre de » que l’on trouve dans l’exemption prévue au sous‑alinéa 212(1)d)(vi).
+[7] L’avocat de l’appelante a également fait référence à la décision du juge en chef adjoint Bowman de cette Cour dans l’affaire Angoss International Limited c. La Reine, C.C.I., no 97‑819(IT)G, 4 février 1999 (99 DTC 567), dans laquelle le contribuable avait payé 150 000 $US à un non‑résident en vertu d’une convention de droits d’utilisation de code source. Il a signalé que, dans cette affaire, le savant juge avait conclu que l’exemption s’appliquait au montant total d’une redevance même si elle était liée ou associée au droit d’utilisation et au droit de reproduction du logiciel.
+L’argument de l’intimée
+[8] L’intimée a indiqué qu’une interprétation générale de l’exemption révisée de l’impôt prévu dans la Partie XIII serait contraire à l’intention exprimée par le Parlement selon laquelle il faut restreindre la portée de l’exemption établie au sous‑alinéa 212(1)d)(vi) de la Loi. Pour appuyer son observation, l’avocate de l’intimée s’est fondée sur un extrait du livre de Ruth Sullivan, Driedger on the Construction of Statutes, troisième édition, à la page 369, rédigé en ces termes :
+[TRADUCTION]
+Conformément à l’accent mis de nos jours sur l’analyse de l’objet visé, les tribunaux modernes se soucient d’interpréter les exclusions et les exemptions selon les motifs qui les ont inspirées et non afin de contrer l’objectif général de la loi.
+[9] L’intimée à affirmé que, lorsque l’appelante a payé les redevances à l’égard de chacun des permis d’utilisation de logiciel qu’elle avait obtenus, elle a payé les redevances liées à l’utilisation du logiciel et non les redevances liées à la reproduction du logiciel.
+[10] L’intimée estime également que les redevances payées par l’appelante n’était pas liées au droit de reproduction du logiciel ni au nombre de reproductions faites ou utilisées par l’appelante.
+[11] L’intimée a avancé que la portée générale de l’expression « au titre de » ne vise qu’à élargir le sens de « production ou reproduction » puisque ce sont les mots que l’expression modifie. Selon l’intimée, l’expression ne vise pas l’utilisation et la distribution du logiciel.
+Analyse
+[12] Étant donné que les parties s’entendent que le logiciel « Impact Encore » constitue une œuvre littéraire, la question en litige exacte consiste à savoir si les paiements de la redevance effectués par l’appelante à Encore pendant les années pertinentes visent un droit d’auteur au titre de la reproduction d’une œuvre littéraire.
+[13] La Partie XIII de la Loi impose un impôt de 25 p. 100 sur un large éventail de paiements effectués par des résidents canadiens à des non‑résidents. Les redevances font partie de la longue liste de catégories de paiements établie au paragraphe 212(1) de la Loi. Toutefois, il existe une exemption de cet impôt pour une redevance payée à un non‑résident dans les circonstances précisées au sous‑alinéa 212(1)d)(vi). La partie pertinente du paragraphe 212(1) est ainsi formulée :
+(1) Impôt. Toute personne non-résidente doit payer un impôt sur le revenu de 25 % sur toute somme qu'une personne résidant au Canada lui paie ou porte à son crédit, ou est réputée en vertu de la partie I lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel :
+[...]
+d) Loyers, redevances et autres paiements. – du loyer, de la redevance ou d'un paiement semblable, y compris, sans préjudice de la portée générale de ce qui précède, un paiement fait :
+[...]
+mais à l’exclusion :
+(vi) d'une redevance ou d'un paiement semblable à l'égard d'un droit d'auteur au titre de la production ou de la reproduction d'une œuvre littéraire, dramatique, musicale ou artistique,
+[14] Par conséquent, il faut déterminer la nature des droits et des obligations établis dans l’Entente entre un prédécesseur de l’appelante et Encore. Ces droits et obligations auxquels on fait référence au paragraphe 6 du Renvoi sont en général rédigés en ces termes :
+a) l’appelante a obtenu un permis d’utilisation pour reproduire et distribuer le logiciel selon les conditions générales précisées dans l’Entente;
+b) Encore devait fournir à l’appelante une copie maîtresse du logiciel aux fins de reproduction multiple;
+c) l’appelante a accepté de ne remettre aucune copie du logiciel à un tiers à moins que ce dernier ne signe tout d’abord une convention de droits d’utilisation de logiciel;
+d) l’appelante a également accepté de ne reproduire le logiciel que selon le format de la copie maîtresse fournie et de ne produire que le nombre de copies nécessaires pour répondre à ses obligations;
+e) en fin de compte, l’appelante a accepté de verser à Encore des redevances établies selon des pourcentages précis du prix de vente pour chacune des conventions de droits d’utilisation de logiciel conclues par l’appelante ou ses sous‑distributeurs comme cela est indiqué au paragraphe 6g) du Renvoi.
+[15] Selon les dispositions de l’Entente susmentionnées, il est évident que l’on a accordé à l’appelante le droit de reproduire le logiciel et d’en faire des copies tout en respectant certaines restrictions établies dans l’Entente. L’appelante a également le droit de distribuer le logiciel. Elle paie des redevances pour chaque convention de droits d’utilisation de logiciel conclue.
+[16] À mon avis, l’élément fondamental de l’Entente consiste en ce que l’appelante paie les redevances pour chaque convention de droits d’utilisation de logiciel conclue par cette dernière ou ses sous‑distributeurs. Il fallait signer cette Entente pour obtenir une copie du logiciel. C’est grâce à la convention de droits d’utilisation de logiciel que l’appelante pouvait en faire une reproduction. Je ne suis pas d’accord avec l’intimée lorsqu’elle soutient que les redevances ne sont pas établies selon le nombre de copies effectuées par l’appelante. Bien au contraire, chaque fois qu’une convention de droits d’utilisation de logiciel est conclue, cela signifie que l’on a effectué une copie du logiciel et une redevance est versée.
+[17] Selon moi, la formulation du sous‑alinéa 212(1)d)(vi) suppose ou comprend clairement le droit de reproduire le logiciel accordé à l’appelante selon l’Entente liant cette dernière et Encore. C’est précisément pour ce droit que l’appelante payait des redevances à Encore. Je me réfère plus particulièrement à la partie suivante de ce texte de loi « d'une redevance ou d'un paiement semblable à l'égard d'un droit d'auteur au titre de […] la reproduction d'une oeuvre littéraire […] ».
+[18] Il ne serait peut‑être pas inutile d’examiner le contexte historique du sous‑alinéa 212(1)d)(vi) de la Loi. Avant d’être abrogé par l’article 92 du ch. 1 des Lois du Canada, 1977‑78, ce sous‑alinéa était formulé de cette manière :
+(vi) d'une redevance ou d'un semblable paiement afférent à un droit d'auteur,
+On a, par la suite, changé la formulation du sous‑alinéa 212(1)d)(vi) pour celle que l’on trouve aujourd’hui et que j’ai reproduite pour des raisons de commodité :
+(vi) d'une redevance ou d'un paiement semblable à l'égard d'un droit d'auteur au titre de la production ou de la reproduction d'une oeuvre littéraire, dramatique, musicale ou artistique,
+[19] Malgré les dispositions du paragraphe 45(2) de la Loi d’interprétation qui stipule qu’un amendement à un texte législatif ne signifie pas nécessairement une modification de la loi, il semble que, par l’amendement apporté à la loi en 1977, le Parlement désirait restreindre la portée de cette exemption.
+[20] À mon avis, avant 1977, les redevances liées à un droit d’auteur étaient tout à fait exemptées de l’impôt prévu dans la Partie XIII alors que, depuis 1977, non seulement l’exemption vise les œuvres littéraires, dramatiques, musicales et artistiques, mais également le droit de produire ou de reproduire ces œuvres.
+[21] Quelle est la portée de l’exemption présentement?
+[22] La signification de l’expression « in respect of » utilisée deux fois dans la version anglaise du texte législatif pertinent [rendue dans la version française par « à l’egard de » et « au titre de »] a été expliquée par la Cour suprême du Canada [qui fait référence à l’expression « quant à » au lieu de l’expression « à l’égard de » ou « au titre de »] dans l’affaire Nowegijic c. La Reine, [1983] 1 R.C.S. 29, comme on peut le lire à la page 39 de l’arrêt :
+À mon avis, les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c'est probablement l'expression « quant à » qui est la plus large.
+[23] Par conséquent, il faut donner un sens plus large au segment « au titre de la production ou de la reproduction d'une œuvre […] » qui comprendrait, selon moi, tout droit de production ou de reproduction de l’œuvre, y compris le droit d’en faire la distribution. La portée générale de l’expression « au titre de » donne un sens plus large à ce que constitue une « production ou » une « reproduction ».
+[24] De plus, à l’article 3 de la Loi sur le droit d’auteur, il semble que le principal droit accordé par un droit d’auteur est celui de produire ou de reproduire l’œuvre. Ce droit est formulé de cette manière dans la première partie du paragraphe 3(1) de cette Loi :
+Le droit d'auteur sur l'œuvre comporte le droit exclusif de produire ou reproduire la totalité ou une partie importante de l'œuvre, sous une forme matérielle quelconque […]
+Dans ce paragraphe, on ne fait aucune référence au droit de distribuer des copies d’une œuvre. Ce droit peut être considéré comme un élément du droit de reproduction ou y est accessoire.
+[25] Cette conclusion semble correspondre à l’opinion exprimée par le juge en chef adjoint Bowman dans la décision Angoss International Limited, précitée.
+[26] Dans cette affaire, les parties avaient deux ententes distinctes, un contrat de licence de code source et un contrat de licence VAR. Les contrats visaient à permettre au contribuable d’examiner le code source de SmartWare pendant 60 jours. L’un des objectifs du contrat, si l’on décidait de payer 150 000 $US, était d’accorder au signataire l’utilisation du code source dans la fabrication de logiciels qu’il prévoyait vendre. L’une des questions en litige que la Cour devait examiner dans cette affaire visait à savoir si le paiement était exempt en vertu du sous‑alinéa 212(1)d)(vi) de la Loi. Le juge en chef adjoint Bowman s’est exprimé de la manière suivante :
+Il s'ensuit donc qu'un code source d'ordinateur est une œuvre littéraire à laquelle se rattache un droit d'auteur. Il est clair également que le paiement en litige a été fait en vue d'obtenir le droit d'utiliser ou de reproduire le code source et qu'il a par conséquent été fait « à l'égard d'un droit d'auteur au titre de la production ou de la reproduction d'une œuvre littéraire [...] »
+[27] Dans cette affaire, la Cour a donc accordé une exemption pour le montant total de 150 000 $US sans tenir compte du fait qu’une portion de cette somme visait le droit de distribuer des copies de l’œuvre.
+[28] On pourrait examiner la question sous un autre angle. En fait, on pourrait dire que le sous‑alinéa 212(1)d)(vi) de la Loi exempte de la Partie XIII les paiements d’impôt liés au droit de production ou de reproduction entre autres, une œuvre littéraire, mais il ne vise pas le droit, pour le payeur, « d’utiliser » l’œuvre littéraire à ses propres fins internes et non dans le but de vendre le logiciel à un tiers. Dans ce contexte, il est intéressant de constater la différence entre la formulation des sous‑alinéas 212(1)d)(vi), 212(1)d)(i) et 212(1)d)(vii) de la Loi où le droit « d’utiliser » le bien décrit dans ces sous‑alinéas est clairement défini. En d’autres termes, si l’appelante avait utilisé l’œuvre littéraire dans le cadre de ses propres activités internes, elle serait tout probablement imposable conformément au sous‑alinéa 212(1)d)(i) de la Loi qui indique clairement que, si l’on a l’intention « d’utiliser » ou d’obtenir le droit « d’utiliser » tout bien, ledit bien sera visé par l’impôt prévu dans la Partie XIII. Bien que, dans un certain sens, il y ait une forme d’« utilisation » dans la production ou la reproduction de toute œuvre, pour donner un sens au sous‑alinéa 212(1)d)(vi) de la Loi, il faut que la disposition relative à l’exemption l’emporte sur l’alinéa 212(1)d)(i) ou alors l’exemption ne s’appliquera jamais.
+[29] En raison des observations susmentionnées, je crois que les redevances payées par l’appelante à Encore sont exemptes de la Partie XIII de la Loi.
+[30] Pour ces motifs, je conclus que les redevances payées par l’appelante à Encore constituent des redevances ou des paiements semblables au titre de la reproduction d’une œuvre littéraire au sens du sous‑alinéa 212(1)d)(vi) de la Loi et à ce titre, elles sont exemptes d’impôt conformément à ce sous‑alinéa.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2003.
+« Alban Garon »
+Juge en chef Garon
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Louise-Marie LeBlanc, traductrice

@@ -1,0 +1,169 @@
+---
+title: "Office Municipal d'habitation de Sainte-Eustache v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27235/index.do"
+last_modified: "2006-07-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 428"
+citation2: ""
+neutral_citation: "2006 TCC 428"
+decision_date: "2006-07-25"
+language: "en"
+item_id: "27235"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 841
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:53:32.589000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "711204f3766a28991a062f5b4711762dfcc43826c88f03d7755b2e87794b1135"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Office Municipal d'habitation de Sainte-Eustache v. The Queen
+
+- Citation: 2006 TCC 428
+- Decision date: 2006-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 841, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Office Municipal d'habitation de Sainte-Eustache v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-25
+Neutral citation
+2006 TCC 428
+File numbers
+2006-1271(GST)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1271(GST)APP
+BETWEEN:
+OFFICE MUNICIPAL D'HABITATION
+DE SAINTE-EUSTACHE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on July 10, 2006, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Applicant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Mario Laprise
+____________________________________________________________________
+ORDER
+The application for an extension of the time in which to serve the notice of objection to the assessment dated December 24, 2004, and made under the Excise Tax Act, for the period of March 1, 2004, to March 31, 2004, is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 25th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC428
+Date: 20060725
+Docket: 2006-1271(GST)APP
+BETWEEN:
+OFFICE MUNICIPAL D'HABITATION
+DE SAINTE-EUSTACHE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] This is an application for an extension of the time for filing a notice of objection. The Applicant called Nicole Carignan Lefebvre, Monique Ross, Marie‑Christine Tétreault and Chantal Longtin as witnesses. The four witnesses discussed at length the facts and circumstances that arose as the file progressed.
+[2] On December 24, 2004, the Respondent, acting through the Minister of Revenue of Québec (hereinafter "the Minister"), assessed the Applicant for the period from March 1, 2004, to March 31, 2004.
+[3] Under subsection 301(1.1) of the Excise Tax Act ("the Act"), the Applicant had 90 days after the date that the notice of assessment was sent to him, to file his notice of objection to the assessment which, in this instance, was dated December 24, 2004. The application for an extension was filed on September 27, 2005.
+[4] Thus, the time for filing the notice of objection expired on March 24, 2005. The notice of objection and the application for an extension of time were filed on September 27, 2005, more than six months after the expiry of the 90‑day period.
+[5] The relevant statutory provisions are paragraphs 304(5)(b)(i) and (iii) of the Act, which read:
+(5) No application shall be granted under this section unless
+. . .
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting
+(A) the person was unable to act or to give a mandate to act in the person's name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) . . . and,
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+(Emphasis added.)
+[6] The evidence adduced by the Applicant covered a litany of facts and considerations that were of little or no relevance.
+[7] However, I note the following excerpt from Ms. Tétreault's testimony, which is very material to the disposition of this application. I am referring to the testimony of Marie‑Christine Tétreault, who identified herself as a chartered accountant intern and was therefore a qualified person.
+Pages 50 to 53 of the transcript states:
+[TRANSLATION]
+Marie-Christine Tétreault, cross-examined by Mario Laprise:
+I have just one or two brief questions.
+Q. Did you know that . . . did you read the notice of assessment dated December 24, 2004, which is at tab 2…
+A. Yes.
+Q. ... of the book, on the reverse side, where it is clearly stated that a notice of objection must be filed within ninety (90) days after the date on which the notice of reassessment was issued. Were you aware of the existence of this ninety (90) day time limit?
+A. Yes. However, if I might add, upon learning about the file, we tried to move things forward, or at least manage to sit down with her, because there was no one at the Office who could do so. So we tried to meet with her again. And eventually, the time limit elapsed.
+HIS HONOUR: Pardon me! This is very important.
+Q. You were aware of the notice which clearly states ninety (90) days?
+A. Yes.
+Q. Were you still within the time limit when you became aware of it, or had it elapsed?
+A. It was toward the end, but it was...
+Q. Still within the time limit?
+A. Yes.
+Q. So you thought it would be appropriate to have a discussion instead of preparing a notice as stated on the reverse of the document?
+A. Yes, because the . . . How could I phrase this? We did not object to the assessment, the self‑assessment, because it is true that it had to be done. So all we were asking was, at the same time as your self‑assessment, could you kindly include the rebate as provided by law, because these were credits that we were entitled to. So, we were only asking that the rebate be provided as well, which would probably have cancelled a lot of interest and penalties, but would not have netted us funds. So it is what was not ours. The rebate simply cancelled the self-assessment. But at least it would not have resulted in a $100,000 debt of the kind that we have here.
+Q. Why did you not actually send a … say that you were notifying us that you intended to object?
+A. Because we were corresponding frequently with the Ministère. Basically, no, we were objecting, but we were trying, of course, to get explanations about the assessment, because we were pretty much in agreement, but also about the rebate. Essentially, we were just trying to get both — to get both steps done at the same time as is usually done with other organizations, in order to avoid, well, a big assessment like that … a liability that we basically did not owe.
+Q. But the self-assessment that you are referring to is the basis of the assessment?
+A. Yes.
+Q. And you had no objections to that?
+A. No.
+Q. You simply wanted your right to apply the corresponding rebates to be recognized.
+Okay. Do you have any other questions?
+. . .
+[8] Based on the tenor of this testimony, it is clear that the conditions set out in paragraphs 304(5)(b)(i) and (iii) were not met. Accordingly, the application must be dismissed.
+Signed at Ottawa, Canada, this 25th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC428
+COURT FILE NO.: 2006-1271(GST)APP
+STYLE OF CAUSE: Office municipal d'habitation de Sainte-Eustache and The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 10, 2006
+REASONS FOR ORDER BY: The Honourable Justice Alain Tardif
+DATE OF ORDER: July 25, 2006
+APPEARANCES:
+Counsel for the Applicant:
+Louis-Frédérick Côté
+Counsel for the Respondent:
+Mario Laprise
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Josée Massicotte
+Firm: MacMillan Binch Mendelsohn
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

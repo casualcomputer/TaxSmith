@@ -1,0 +1,317 @@
+Title: Gagné Letarte s.e.n.c. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25156/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-489-25156-gagn-letarte-s-e-n-c-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-12
+
+# Gagné Letarte s.e.n.c. v. M.N.R.
+
+- Citation: 2003 TCC 489
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2602, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagné Letarte s.e.n.c. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-12
+Neutral citation
+2003 TCC 489
+File numbers
+2002-2242(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002‑2242(EI)
+BETWEEN:
+RICHARD CANTIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GAGNÉ, LETARTE, s.e.n.c.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Gagné, Letarte, s.e.n.c. (2002‑2137(EI)) on May 9, 2003 at Québec, Quebec.
+Before:
+The Honourable Deputy Judge J. F. Somers
+Appearances:
+Counsel for the Appellant:
+Sarto Veilleux
+Counsel for the Respondent:
+Stéphanie Côté
+Counsel for the Intervener:
+Serge Belleau
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J. F. Somers"
+Somers, D.J.T.C.C.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day‑Savage, Translator
+Docket: 2002‑2137(EI)
+BETWEEN:
+GAGNÉ, LETARTE, s.e.n.c.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Richard Cantin (2002‑2242(EI)) on 9 May 2003 at Québec, Quebec.
+Before:
+The Honourable Deputy Judge J. F. Somers
+Appearances:
+Counsel for the Appellant:
+Serge Belleau
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeal is rejected and the decision of the Minister is upheld in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J. F. Somers"
+Somers, D.J.T.C.C.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day‑Savage, Translator
+Citation: 2003TCC489
+Date: 20030812
+Docket: 2002‑2137(EI)
+BETWEEN:
+GAGNÉ, LETARTE, s.e.n.c.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+AND
+Docket: 2002‑2242(EI)
+BETWEEN:
+RICHARD CANTIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+GAGNÉ, LETARTE, s.e.n.c.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.
+[1] These appeals were heard on common evidence at Québec, Quebec, on May 9, 2003.
+[2] The Appellants are instituting an appeal from the decisions of the Minister of National Revenue (the "Minister") that the employment of Daniel Cantin, Richard Cantin and Louise Letarte, the workers or lawyers, with Gagné, Letarte, s.e.n.c., the Payor or Corporation, was insurable within the meaning of the Employment Insurance Act (the "Act") because it met the requirements of a contract of service; there was an employer‑employee relationship between the Payor and the workers during the periods at issue.
+[3] The periods at issue for each worker are as follows:
+‑ Daniel Cantin, from January 1, 1998 to August 21, 2001,
+‑ Richard Cantin, from January 1, 1998 to October 15, 1999 and from January 14 to September 30, 2000,
+‑ Louise Letarte, from January 1, 1998 to June 30, 2001.
+[4] Paragraph 5(1) of the Act reads in part as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[5] Paragraphs 5(2) and 5(3) of the Act read in part as follows:
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+. . .
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[6] Section 251 of the Income Tax Act reads in part as follows:
+Section 251: Arm’s length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length; and
+(b) it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm’s length.
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other,
+(a) are individuals connected by blood relationship, marriage or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph (i) or (ii); and
+. . .
+[7] The burden of proof is on the Appellants. The Appellants must show, on a balance of evidence, that the Minister's decisions were unfounded in fact and in law. Each case stands on its own merits.
+[8] In making his decisions, the Minister relied upon the following assumptions of fact outlined in paragraph 6 of the Reply to the Notice of Appeal in docket 2002‑2242(EI), which were admitted or denied:
+[translation]
+(a) The Payor is a general partnership of eight lawyers practicing law. (admitted)
+(b) The Payor has a executive committee which, during the periods at issue, included lawyers David Blair, Marc Watters and Serge Belleau who were responsible for daily management of the office. (admitted)
+(c) During the periods at issue, the Appellant was not an associate of the Payor. (admitted)
+(d) During the periods at issue, the Appellant, who was a specialized attorney, provided services to the Payor. (denied)
+(e) The Appellant is a specialized attorney in business (corporate) law who has been working for the Payor since 1995. (denied)
+(f) The Appellant brought approximately 12 clients with him when he began work with the Payor. (admitted)
+(g) His responsibilities toward the Payor included carrying out all the mandates given to him by corporate clients. (admitted)
+(h) The Appellant did not share any chance of profit or risk of loss in the corporation; the Payor assumed all bad debts. (denied)
+(i) The Appellant carried out 40% of his responsibilities at the Payor's offices and worked 60% of the time on the road, in Quebec or in the United States. (admitted)
+(j) The Appellant was not required to work a specific number of hours per week, but he filled out a time sheet that he submitted to the Payor's accounting department for the purpose of billing clients. (admitted)
+(k) The client invoices were made out in the Payor's name. (admitted)
+(l) The Appellant used the services of the Payor (secretary, library, office equipment, etc.) and used the equipment in his personal office at home (portable computer, computer, and furniture) in order to carry out his duties for the Payor. (denied)
+(m) His fees were set by the Payor who negotiated them annually with him, in consideration of his performance during the year. (admitted)
+(n) During the periods at issue, the Appellant received fixed remuneration by cheque every two weeks. This did not take into account the hours actually worked. (denied)
+(o) His travel costs were reimbursed by the Payor if they were billed to the clients. (admitted)
+(p) The Payor could terminate the Appellant's services for lack of performance or on account of his attitude. (denied)
+[9] The witnesses who were heard at this audience were, for the Appellants: Serge Belleau, Daniel Cantin and Richard Cantin, all of whom are lawyers; and for the Respondent: Lucie Dumais, Tax Auditor, and Martin Croteau, Appeals Officer.
+[10] The Payor is a general partnership of eight lawyers practicing the law.
+[11] The Payor has a executive committee which, during the periods at issue, included lawyers David Blair, Marc Watters and Serge Belleau who were responsible for daily management of the office.
+[12] During the periods at issue, Daniel Cantin, Richard Cantin and Louise Letarte were not associates of the Payor.
+[13] According to Serge Belleau, during the periods at issue Daniel Cantin and Richard Cantin provided services to the clients or the lawyers of the Corporation, as well as to their own clients whom they had brought to the Corporation.
+[14] Richard Cantin, a lawyer since 1995 and a specialized attorney in corporate law, brought approximately 12 new clients with him when he joined the Payor.
+[15] Richard Cantin's activities are outlined in Exhibits A‑1 to A‑4, with respect to his billable hours and client billings, either to clients of the Corporation or his former clients, and to other lawyers of the Corporation.
+[16] Richard Cantin met clients at the Corporation offices and also elsewhere. He also met clients at their offices, either in Canada or in the United States.
+[17] The Corporation set an annual goal with respect to the specific number of hours billed to clients. The workers were not required to work a number of hours per week; their time was free as long as they met the annual goal established by the Corporation.
+[18] There is no weekly minimum for billing hours. The workers could be absent as they saw fit.
+[19] According to Serge Belleau, the Corporation did not control the workers' comings and goings; there were no authorized absences or records of these absences.
+[20] The workers could take vacation as they saw fit, as long as the dates were established in advance.
+[21] Richard Cantin was authorized to mandate another lawyer, an accountant or a translator to carry out work, however the services of these individuals were billed to clients. Client billing was centralized and was done in the Corporation's name. There was only one GST and one TVQ number, and only one trust account.
+[22] Richard Cantin used the secretarial services, the library, the offices and all other equipment owned by the Corporation. However, he owned some equipment at his home since he sometimes carried out some tasks there.
+[23] The hourly rate billed to clients was set by the Corporation after consultation with the workers, in consideration of their performance.
+[24] The detailed transactions in the general ledger appear in Exhibit A‑4. All billings arising from Richard Cantin, Exhibit A‑1, could be used in determining this worker's productivity.
+[25] The Corporation paid the worker all of the billings. Richard Cantin was required to refer to a guide to account collection; he was given a bonus to motivate him to collect client accounts.
+[26] Client billings were made in the name of the Corporation. Travel costs were paid by the clients. The Corporation paid the parking fees for the worker's car.
+[27] Richard Cantin's salary was set at one‑third of the income and the two others were retained for uncollected expenses which were the Corporation's responsibility.
+[28] He received fixed pay, by cheque, every two weeks, without consideration of the hours actually worked.
+[29] Daniel Cantin is a specialized attorney in corporate law (tax and bankruptcy in particular); he has worked for the Corporation since 1997.
+[30] Serge Belleau admitted that the same working conditions applied to Daniel Cantin and Richard Cantin.
+[31] Daniel Cantin brought with him all 162 of his clients when he joined the Appellant's office. One file involved 108 doctors.
+[32] Louise Letarte, a lawyer for 20 years, was the daughter of Guy Letarte, an associate of the Corporation. She specializes in labour and commercial law. Her duties were to conduct research, write proceedings and legal opinions for the Corporation lawyers. She acted as a legal adviser and did not have her own clients.
+[33] According to Serge Belleau, she was not required to work a fixed number of hours, but she did have to account for the hours she worked. Her billings were made in the name of the Corporation. She was not supervised, but the lawyer who retained her services examined the proceedings she wrote. She did not generate billings and was not responsible for establishing her own clientele.
+[34] Louise Letarte worked at the Corporation offices and used the Corporation's equipment; the Corporation reimbursed her travel costs. Her fixed remuneration was paid every two weeks and she was entitled to four weeks of paid vacation.
+[35] Serge Belleau admitted that the Corporation was responsible for the following costs for the lawyers: office expenses, fees to the Barreau du Québec, public liability insurance with the Barreau du Québec and public liability insurance to protect all the lawyers. In addition, the Corporation was responsible for 50% of the group medical and dental insurance for the lawyers.
+[36] No evidence was presented to the effect that the lawyers/workers invested in the Corporation office. Serge Belleau confirmed that Richard Cantin and Daniel Cantin invested in the Corporation by bringing their clients, which was to its benefit.
+[37] Serge Belleau admitted that the lawyers made statements in 1999 and 2000 to the Barreau du Québec that they were employed by the Corporation. According to him, these statements did not represent reality.
+[38] On cross‑examination, Serge Belleau explained that the workers were empowered to retain the services of a translator or a consultant and that the costs of these services were paid by the client.
+[39] The corporate structure included an executive committee made up of three associates and this committee held monthly associate meetings.
+[40] The decision to accept a lawyer into the Corporation was the responsibility of the associates. They also were the final authority for establishing the hourly rate when there was a disagreement with the lawyer. However, if a lawyer reduced a client's hourly rate, the Corporation assumed the decrease.
+[41] The lawyer's salaries were set by negotiation; they were paid every two weeks and if they were absent for a short period of time due to illness, their salary was not reduced.
+[42] According to Serge Belleau, the Cantin brothers generated a clientele while they were in the service of the Corporation. Between 1998 and 2001, Daniel Cantin received a salary increase, except for 2000, due to poor performance.
+[43] If there had been an increase in productivity, the Corporation, after verification, re‑assessed the worker's salary, but the Corporation had the final say.
+[44] Richard Cantin explained that he had charged three hours of fees to his client in the United States, although he spent three days there and although Serge Belleau reproached him for this, he did not reduce his salary.
+[45] The goal set by the Corporation for 1998, with respect to the number of billable hours, was 1,300. Richard Cantin billed only 1,062 hours, but was not rebuked for failing to reach the goal.
+[46] In his testimony, Daniel Cantin briefly explained his working conditions while providing service to the Corporation.
+[47] He stated that he had an office at home equipped with a portable computer so that he could work at home and on weekends. He met clients at the office or elsewhere. He recognized that the proceedings undertaken were signed by him, by writing Gagnon, Letarte and their address. He also recognized that he indicated in his statement to the Barreau du Québec (Exhibit I‑2) that he was an employee of Gagné, Letarte; but he added that this statement did not represent reality.
+[48] Lucie Dumais, Tax Auditor, and witness for the Appellant, reviewed the documents from the Corporation. She verified the status of the lawyers who are the parties in this dispute.
+[49] She observed that the associates were recognized by the Corporation as self‑employed workers whereas lawyers Richard Cantin, Daniel Cantin and Louise Letarte were not.
+[50] The Corporation’s lawyers had expense accounts and these costs or gifts in the Corporation's name were paid by the Corporation.
+[51] Expense accounts and gifts for each lawyer were provided for in the budget were approved by the executive. It should be noted (Exhibit I‑3) that the Cantin lawyers received reimbursements for 2000 that led to overruns in their respective budgets. This document explains the hours billed by each lawyer, the hourly rate and all the income generated by each lawyer.
+[52] A document entitled [translation] "Firm Members" (Exhibit I‑4), located in the Corporation waiting room, listed the names and specializations of the member lawyers, including the names of Louise Letarte, Daniel Cantin and Serge Belleau.
+[53] Martin Croteau, Appeals Officer, testified at the request of the Respondent and submitted his report as Exhibit I‑5.
+[54] This witness explained that he had communicated with Daniel Cantin by telephone, that he had met Serge Belleau at his office and that he had also had a telephone conversation with him. He also obtained information from Louise Letarte during a meeting at her office. He also received information from Richard Cantin and his attorney Sarto Veilleux, during an interview at the office of the Appeals Officer.
+[55] The information obtained from the individuals mentioned above confirm all of the evidence collected at this appeal hearing.
+[56] The report of the Appeals Officer summarizes the following relevant facts:
+‑ The workers carried out the same duties during the periods at issue;
+‑ There was no written contract of employment when the lawyers were hired;
+‑ the workers did not conduct business under any business name;
+‑ the office hours were from Monday to Friday, between 8:30 a.m. and 5:30 p.m.; the lawyers sometimes worked in the evening or on weekends and even at home;
+‑ billings were always made in the Corporate name;
+‑ the lawyers did not invest any amounts in the Corporation;
+‑ the workers had no chance of profit or risk of loss;
+‑ the Corporation assumed all bad debts; however, a significant bad debt may have influenced the lawyer's fees for the following year, but this situation never occurred;
+‑ the lawyer's clients almost never came from the firm, the vast majority came from the lawyers who developed their own clientele;
+‑ on an annual basis, the Corporation negotiated salaries with the workers in accordance with their performance, based on paid and unpaid billings, and their fees were paid to them by cheque every two weeks without taking the hours worked into consideration;
+‑ the Corporation was responsible for the office‑related expenses, dues to the Barreau du Québec, public liability insurance premiums and 50% of the group medical insurance;
+‑ the lawyers had no set work schedule;
+‑ there was no immediate supervision of the lawyers' work;
+‑ all the associates decided together whether to hire a lawyer since this kind of decision involved the reputation of the office; the decision to hire a secretary or an accountant could be made by the executive committee;
+‑ the Corporation could terminate the services of a lawyer for poor performance;
+‑ most of the office equipment used by the lawyers was provided by the Corporation;
+‑ lawyers' travel costs were reimbursed if they were billed to the clients;
+‑ expense accounts, including costs for meals, registration for golf games, participation in charity evenings, etc., were granted upon presentation of receipts;
+[57] Richard Cantin testified in cross‑examination. He stated that he provided services to clients of the Corporation. He added that it was possible he had told the Appeals Officer that he had not been able to develop clients outside Gagné, Letarte.
+[58] Richard Cantin also stated that he left Gagné, Letarte on two occasions. The first time, to go into business with a client, and the second time, in 2000, to go to another law firm.
+[59] The point at issue in these appeals is whether the three workers/lawyers were employed, within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, by Gagné, Letarte, s.e.n.c., the Payor, during the periods at issue.
+[60] Jurisprudence has established a series of tests in order to determine whether a contract constitutes a contract of service or a contract for services (self‑employed worker).
+[61] In Weibe Door Services Ltd. v. M.N.R., [1986] F.C. 553, the Federal Court of Appeal listed the four tests that are commonly used:
+(a) The degree or absence of control exercised by the alleged employer;
+(b) Ownership of tools;
+(c) Chance of profit and risks of loss;
+(d) Integration alleged employee's work into the alleged employer's business.
+[62] The degree of control is a very important element in determining whether the parties are bound by a contract of service or a contract for services.
+[63] The Civil Code of Québec recognizes the importance of the idea of control and defines employment contract in section 2085 as follows:
+Article 2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[64] Since 1986, the decision of the Federal Court of Appeal in Wiebe Door (supra) has been a useful guide for determining whether a specific person was an employee or self‑employed. The Supreme Court of Canada examined this same question in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983. Major J for the Court, in Sagaz, often mentioned the Wiebe decision (supra) and while approving it, he summarized the law in the following manner at paragraphs 47 and 48:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[65] The Federal Court of Appeal defined the degree of control by the power of control and not by immediate control over the worker's work.
+[66] In Gallant v. M.N.R. (F.C.A.), [1986] F.C.A. No. 330, the Federal Court of Appeal said the following:
+In the Court's view, . . . is based on the mistaken idea that there cannot be a contract of service unless the employer actually exercises close control over the way the employee does his work. The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. . . .
+[67] With respect to professionals, workers have more freedom to act due to their expertise and they take more personal initiative in carrying out their duties, which is the case in the instances under review. Each lawyer is an expert in a field of law; therefore is not subject to constant supervision by the employer.
+Control
+[68] Société Gagnon, Letarte, by a decision of its associates, hired workers. The selection of lawyers was made taking the reputation of the law firm into account.
+[69] The executive committee may determine the remuneration paid to the lawyers in accordance with their performance.
+[70] A bonus was paid to a lawyer if he successfully collected a specific amount of accounts receivable.
+[71] At the beginning of the year a goal was set by the executive committee with respect to the hours that the lawyers could bill their clients. Even if these hours were not the same every week, the lawyers had substantial freedom of action, although they were required to meet the annual goal set by the committee.
+[72] Bi‑monthly remuneration was determined by the Corporation after consultation with the lawyers concerned; however the executive committee had the final say.
+[73] The lawyers had an expense account or entertainment expenses, the amount of which was determined by the Corporation and they were paid upon presentation of the supporting documentation. The evidence showed that the amounts allocated for each lawyer varied depending upon whether or not they were associates.
+[74] The remuneration was based on the worker's performance during the previous year. When Richard Cantin billed a client in the United States for only three hours because the client thought that the amount was too high, Serge Belleau, a member of the executive committee, asked him for explanation and rebuked him.
+[75] The lawyers can take on external staff, either a translator or an accountant, on the condition that they can bill the clients. Client billing was done by the Corporation.
+[76] The lawyers had permission to take vacation for a certain number of weeks on the condition that they met the goal set by the Corporation.
+[77] Despite the fact that lawyers, because of their professional status, have substantial latitude while managing their daily affairs, they were subject to the goal set by the Corporation.
+[78] In consideration of these factors, the Corporation exercised sufficient power of control over the workers to conclude, based on this test, that there was a contract of service.
+Ownership of tools
+[79] The evidence demonstrated that the Corporation provided office and secretarial services, a library and office equipment. On the other hand, Richard Cantin and Daniel Cantin carried out some of their work at their respective residences, and for this purpose they had a home office with a portable computer and other furniture, but the majority of their work was accomplished at the Corporation or elsewhere. The majority of their tools belonged to the Corporation. This factor favours a contract of service.
+Chance of profit and risks of loss
+[80] The workers/lawyers received a salary every two weeks based on the hours billed to clients and the goal set by the Corporation.
+[81] The Corporation was responsible for bad debts.
+[82] The workers/lawyers were entitled to paid vacations.
+[83] The Corporation allocated entertainment and other expenses to the workers.
+[84] The Corporation paid the parking fees for the workers/lawyers, dues to the Barreau du Québec, public liability insurance and a portion of the group health insurance.
+[85] With prior approval, when the lawyers retained the services of a translator or an accountant, the Corporation assumed the costs.
+[86] The documents submitted as evidence showed that the lawyers in question did not make profits or experience losses. They received their salaries on a regular basis without decreases. A worker could obtain a bonus for a certain year because she or he succeeded in collecting accounts receivable, but generally the workers had the same privileges when carrying out their duties.
+[87] According to facts related with respect to this test, it can be concluded that the lawyers were bound to the Corporation by a contract of service.
+Integration
+[88] A document entitled [translation] "Firm Members", submitted as Exhibit I‑4, obtained in the waiting room of the office, mentions the names of the three lawyers/workers in question.
+[89] As the Supreme Court stated in Sagaz (supra), a significant consideration is "To whom does the business belong?".
+[90] The Payor is a general partnership of eight lawyers practicing law. There was a monthly associates meeting. An associates meeting responsible for hiring lawyers was held every month. Of these associates, three were selected to be members of the executive committee which had the mandate to implement the directives of all associates.
+[91] The three lawyers in question for these appeals were not associates; it can only be concluded that the actual owners of this Firm were the eight associates.
+[92] Client billing is done in the name of the Corporation. The lawyers/workers in question provided services to clients and the clients were billed. Payment was made to the Corporation and the associates experienced either profit or loss.
+[93] The three lawyers/workers in question received their performance‑based salaries on a regular basis, but this did not mean that they participated in the profits or that they experienced losses.
+[94] It was noted that Richard Cantin and Daniel Cantin brought patrons to the Corporation, but if they left the Corporation, they could offer their clients the opportunity to continue to do business with the Corporation or follow them to another office.
+[95] The services of the lawyers were retained by the Corporation in accordance with a verbal contract for an indeterminate period; no more specific mandate was given to them other than the practice of their respective legal specialities.
+[96] In the annual statements to the Barreau du Québec, the lawyers stated they were employees of the Corporation. The simple fact of declaring themselves employees does not necessarily mean they were bound by a contract of service, but the statement itself does indicate the parties' intentions. By declaring themselves employees, the lawyers/workers Cantin deposited the money received into the Corporation's trust account. From all evidence, the lawyers/workers were integrated into the Corporation.
+[97] Upon analysis of these tests, the three lawyers in question are related to the Payor by a contract of service.
+[98] The Corporation invoked the application of paragraph 5(2)(i) and paragraph 5(3) of the Employment Insurance Act with respect to the status of Louise Letarte during the period at issue.
+[99] Louise Letarte is the daughter of lawyer Guy Letarte, an associate member of the general partnership. Under the Income Tax Act, there is not an arm's‑length relationship between Louise Letarte and the Corporation.
+[100] The Corporation asks that Louise Letarte's employment be excluded from insurable employment in accordance with paragraph 5(2)(i) and paragraph 5(3) of the Employment Insurance Act.
+[101] The Respondent claims that this Court cannot address this issue because it is not within its jurisdiction to do so. In the written arguments, the Respondent stated:
+[translation]
+. . . In fact, in Candor Entreprises Ltd. v. Canada Minister of National Revenue ‑ M.N.R., [2000] F.C.J. No. 2110 (Federal Court of Appeal), it was decided that if the Tax Court of Canada concluded there was a contract of service, it cannot address the issue of an arm's‑length relationship without notice from the Minister on this issue. In this case, the Minister's decision under appeal is to the sole effect that Ms. Letarte is employed by the Payor under a contract of service.
+[102] The issue of whether or not this Court has jurisdiction in this matter is purely an academic one. First, Louise Letarte did not testify in this appeal. The only evidence in support of the appeal of her status was the testimony of Serge Belleau and the report of the Appeals Officer. Serge Belleau admitted that Louise Letarte was a specialized attorney in labour and commercial law. Her duties involved conducting research, writing proceedings and legal opinions for the Corporation. She did not have her own clients.
+[103] According to the report (Exhibit I‑5) from the Appeals Officer, Louise Letarte's duties during the period at issue were the same. She was not supervised, but all the documents she wrote were prepared in cooperation with the lawyer who requested them and the requesting lawyer revised the documents after she wrote them. All the other conditions of her employment were the same as those for lawyers Richard Cantin and Daniel Cantin.
+[104] Serge Belleau testified that she did not bring her clients to the law firm and she was not responsible for establishing one; she did not generate any income for the business.
+[105] The Corporation claims that the wage conditions did not take into account the fact that Louise Letarte did not have her own patrons; therefore she was subject to exceptional treatment by the Payor as a result of her non‑arm's‑length relationship with Guy Letarte and her practice of law was different from that of lawyers Richard Cantin and Daniel Cantin. This evidence is not sufficient to exclude Louise Letarte's employment, under paragraph 5(2)(i) and paragraph 5(3) of the Employment Insurance Act.
+[106] Given the lack of evidence that Louise Letarte's working conditions were not reasonable, in light of her non‑arm's‑length relationship with the Payor, her employment is not excluded from insurable employment.
+[107] The Court reviewed the jurisprudence submitted by the attorneys for the parties in this case and it is not relevant to refer to them, other than those already mentioned in these reasons for judgment.
+[108] The evidence has demonstrated that the lawyers in this case were bound by a contract of service with the Payor.
+[109] The appeals are dismissed.
+Signed at Ottawa, Canada, this 12thth day of August 2003.
+"J. F. Somers"
+Somers, D.J.T.C.C.
+Translation certified true
+on this 25th day of March 2004.
+Shulamit Day‑Savage, Translator
+Jurisprudence Consulted
+For the Respondent
+Articles 2186, 2201, 2216, 2218, 2219 and 2221 of the Civil Code of Québec, S.Q., 1991, c. 64.;
+Paragraphs 248(1) and 251(2) of the Income Tax Act, R.S.C. 1985, (5th Supp.), as modified;
+Interpretation Act, R.S.C., c. I‑21, section 35;
+By‑law respecting accounting and trust accounts of advocates, R.R.Q. 1981, c. B‑1, r.3.;
+Standing v. Canada (Minister of National Revenue – M.N.R.), [1992] F.C.J. No. 890;
+671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983;
+Gallant v. M.R.N. (F.C.A.), [1986] F.C.J. No. 330.
+For the Appellants
+Québec (Sous‑ministre du revenu) c. Paul, [1997] R.D.F.Q. 175, CS;
+Holding action sociale Engelmajer inc. c. Coopérants, société mutuelle d’assurance‑vie (liquidateur de), [2002] J.Q. no 194, C.A.;
+Breau c. Gagnon Sénéchal Coulombe & Ass., [1999] J.Q. no 4240, C.S.;
+671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983;
+Weibe Door Services Ltd. v. M.N.R., [1986] F.C. 553;
+Productions Petit Bonhomme Inc. et al. v. M.N.R., judgment delivered by the Tax Court of Canada on November 6, 2002 on the appeals 2000‑3683(EI), 2000‑4198(EI), 2000‑4917(EI) and 2000‑4918(EI);
+Shaw Communications Inc. and M.N.R., judgment of the Tax Court of Canada delivered on June 1, 2002 in the case of 2000‑1446(EI);
+Stages Performing Arts School Ltd. v. M.N.R., judgment delivered by the Tax Court of Canada on June 4, 2002 on the appeal 2000‑4255(EI);
+Marcel Bérard c. Sous‑ministre du Revenu du Québec, judgment delivered by the Court of Quebec on October 29, 1998 and reported at REJB 1998‑10011;
+Seitz c. Entraide populaire de Lanaudière inc., judgment of the Court of Quebec delivered on November 16, 1001 and reported at REJB 2001‑27917;
+Sous‑ministre du Revenu du Québec c. Lacasse, Lebel, Notaires, judgment of the Court of Quebec delivered on June 15, 2000 and reported at REJB 2000‑19331.

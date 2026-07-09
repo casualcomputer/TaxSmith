@@ -1,0 +1,176 @@
+Title: Systematix Technology Consultants Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27214/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-277-27214-systematix-technology-consultants-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-01
+
+# Systematix Technology Consultants Inc. v. The Queen
+
+- Citation: 2006 CCI 277
+- Decision date: 2006-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Systematix Technology Consultants Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-01
+Référence neutre
+2006 CCI 277
+Numéro de dossier
+2005-2925(GST)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2006CCI277
+Date : 20060901
+Dossier : 2005-2925(GST)I
+ENTRE :
+SYSTEMATIX TECHNOLOGY CONSULTANTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(rendus oralement à l’audience le 17 mars 2006, à Edmondon (Alberta)
+et modifiés par souci de clarté et de précision.)
+Le juge Archambault
+[1] Systematix Technology Consultants Inc. (la société « Systematix ») interjette appel à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») en application de la Loi sur la taxe d’accise (la « Loi »). Lorsqu’il a établi la cotisation en cause, le ministre a refusé une partie des crédits de taxe sur les intrants (les « CTI ») demandés par Systematix pour la période du 1er juillet 2001 au 31 décembre 2003 (la « période en cause »).
+[2] Le ministre a refusé les CTI en partant du principe que les factures présentées par les fournisseurs de Systematix ne contenaient pas tous les renseignements nécessaires visés au paragraphe 169(4) de la Loi et au sous‑alinéa 3b)(i) du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le « Règlement »). Les parties s’accordent pour reconnaître que la seule question en litige est de savoir si les factures comportaient un numéro d’inscription aux fins de la TPS en bonne et due forme.
+[3] D’entrée de jeu, l’avocate de l’intimée a avisé la Cour que sa cliente avait convenu d’accorder un CTI de 8 621,73 $ demandé pour du matériel fourni par Compasyst Inc. Les réponses de l’avocat de Systematix aux faits énoncés au paragraphe 11 de la réponse à l’avis d’appel sont indiquées entre parenthèses ci‑dessous :
+[TRADUCTION]
+a) pendant toute la période en cause, l’appelante était un inscrit; (admis)
+b) l’appelante était tenue de produire ses déclarations chaque mois; (admis)
+c) pendant toute la période en cause, l’appelante fournissait des services de conseils en informatique à des entreprises et à des organismes gouvernementaux à l’échelle du Canada (l’« activité »); (admis)
+d) pendant toute la période en cause, les services fournis par l’appelante étaient taxables; (admis)
+e) afin d’exercer l’activité, l’appelante avait recours aux services d'employés et de sous‑traitants; (nié)
+f) l’appelante avait des bureaux à Kelowna, à Calgary, à Edmonton et à Toronto; (admis)
+g) le comptable de l’appelante, dont le bureau se trouvait en Colombie Britannique, était chargé d’entrer toutes les données comptables de tous les bureaux dans le grand livre général; (admis)
+h) l’appelante a demandé des crédits de taxe sur les intrants s’élevant à 1 526 158,03 $ dans les déclarations qu’elle a produites pour les périodes de déclaration se terminant pendant la période en cause (les « crédits de taxe sur les intrants demandés »); (admis)
+i) l’appelante a demandé des crédits de taxe sur les intrants s’élevant à 19 083,95 $ relativement à des biens et à des services fournis par les personnes dont le nom figure à l’annexe B; (admis)
+j) 1 561,16 $ des crédits de taxe sur les intrants demandés concernaient des biens et des services fournis par Infinet Solutions; (admis)
+k) le numéro d’inscription que l’appelante a indiqué pour Infinet Solutions était le 898003264; (nié)
+l) à aucun moment pendant la période en cause Infinet Solutions ne s’est vue attribuer le numéro d’inscription 898003264; (aucune connaissance)
+m) pendant toute la période en cause, aucun numéro d’inscription n’a été attribué à Infinet Solutions; (aucune connaissance)
+n) 5 396,16 $ des crédits de taxe sur les intrants demandés concernaient des biens et des services fournis par Frederick Gele; (admis)
+o) l’inscription de Frederick Gele avait été annulée en date du 31 décembre 2002; (aucune connaissance)
+p) aucun numéro d’inscription n’avait été attribué à Frederick Gele pendant l’année 2003; (aucune connaissance)
+[…]
+(v) 735 $ des crédits de taxe sur les intrants demandés concernaient des biens et des services fournis par PPJ Consulting Inc. ou Philip Pryce‑Jones; (admis)
+w) le numéro d’inscription que l’appelante a indiqué pour PPJ Consulting Inc. ou Philip Pryce‑Jones était le 895036606; (aucune connaissance)
+x) à aucun moment pendant la période en cause PPJ Consulting Inc. ne s’est vue attribuer le numéro d’inscription 895036606; (aucune connaissance)
+y) à aucun moment pendant la période en cause Philip Pryce‑Jones ne s’est vue attribuer le numéro d’inscription 895036606; (aucune connaissance)
+z) pendant toute la période en cause, aucun numéro d’inscription n’a été attribué à PPJ Consulting Inc.; (aucune connaissance)
+aa) pendant toute la période en cause, aucun numéro d’inscription n’a été attribué à Philip Pryce-Jones Consulting Inc.; (aucune connaissance)
+bb) 140 $ des crédits de taxe sur les intrants demandés concernaient des biens et des services fournis par Cap Gemini Ernst & Young US LLC; (admis)
+cc) l’appelante n’a pas indiqué de numéro d’inscription pour Cap Gemini Ernst & Young US LLC; (nié)
+dd) pendant toute la période en cause, aucun numéro d’inscription n’a été attribué à Cap Gemini Ernst & Young US LLC; (nié)
+ee) 2 629,90 $ des crédits de taxe sur les intrants demandés concernaient des biens et des services fournis par The Fergusons Consulting Inc. ou F Squared Consulting Inc.; (admis)
+ff) le numéro d’inscription que l’appelante a indiqué pour The Fergusons Consulting Inc. ou F Squared Consulting Inc. était le 865813505; (aucune connaissance)
+gg) à aucun moment pendant la période en cause The Fergusons Consulting Inc. ne s’est vue attribuer le numéro d’inscription 865813505; (aucune connaissance)
+hh) à aucun moment pendant la période en cause F Squared Consulting Inc. ne s’est vue attribuer le numéro d’inscription 865813505; (aucune connaissance)
+ii) pendant toute la période en cause, aucun numéro d’inscription n’a été attribué à The Fergusons Consulting Inc.; (aucune connaissance)
+jj) pendant toute la période en cause, aucun numéro d’inscription n’a été attribué à F Squared Consulting Inc.; (aucune connaissance)
+kk) l’appelante n’a pas reçu ni conservé assez de documents, notamment les renseignements nécessaires à une demande de crédit de taxe sur les intrants, pour étayer son argument selon lequel elle avait droit aux crédits demandés, qui sont énoncés à l’annexe B. (nié)
+Faits
+[4] Systematix fournit des services informatiques à ses clients par l’intermédiaire d’experts-conseils sous-traitants. La plupart des factures qui sont en litige proviennent de ces sous-traitants. Elles se divisent en deux catégories, même si, dans leur argumentation, les parties n’ont pas défini ces catégories de la même façon. La première catégorie compte une ou plusieurs factures qui représentent un CTI s’élevant à 140 $ et sur lesquelles ne figure aucun numéro d’inscription aux fins de la TPS. Un seul fournisseur tombe dans cette catégorie, il s’agit de Cap Gemini Ernst & Young US LLC. Même si aucune facture n’a été présentée en preuve, l’agent des appels chargé du dossier a affirmé dans son témoignage que les factures ne comportaient pas de numéro d’inscription. Je crois qu’il incombait à Systematix de présenter des factures comportant un numéro d’inscription. Quoi qu’il en soit, selon le témoignage de l’agent des appels, la base de données du ministre indiquait qu’aucun numéro d’inscription n’avait été attribué à ce fournisseur‑là.
+[5] Les factures dans la deuxième catégorie comportent bel et bien un numéro d’inscription, mais il s’agit d’un numéro qui n’était pas valide pendant la période en cause. Cette catégorie peut être divisée en trois sous-catégories. Dans la première, les factures comportent un numéro d’inscription qui n’était valide qu’avant la période en cause parce qu’il avait été révoqué par le ministre avant cette période. Les factures émises par Infinet et par Frederick Gele tombent dans cette sous-catégorie. Dans le cas de Frederick Gele, un numéro d’inscription valide lui avait été attribué, mais avait été révoqué le 31 décembre 2002, avant la fourniture de matériel effectuée en 2003. En ce qui concerne le numéro d’inscription figurant sur les factures d’Infinet, non seulement était-il valide strictement pour une période antérieure, mais il avait été attribué à un autre fournisseur. Il semble que ce numéro avait été attribué à un moment donné en 1995 et qu’il avait été révoqué la même journée. Infinet n’avait donc pas de numéro d’inscription aux fins de la TPS qui était valide pendant la période en cause.
+[6] Dans la deuxième sous-catégorie, les factures comportent un numéro d’inscription au nom du fournisseur qui était bel et bien valide, mais la date de validité est subséquente à la période en cause. Les factures de F Squared Consulting Inc. tombent dans cette sous-catégorie. Dans ce cas-ci, le numéro d’inscription n’entrait en vigueur qu’après 2003. Avant 2003, ce fournisseur n’avait pas de numéro d’inscription aux fins de la TPS.
+[7] Dans la troisième sous-catégorie, le numéro d’inscription indiqué sur les factures n’est pas valide parce qu’il n’est pas répertorié dans la base de données du ministre et que la preuve ne permet pas de conclure qu’un numéro d’inscription valide avait été attribué au fournisseur PPJ Consulting Inc.
+Analyse
+[8] La disposition de la Loi qui s’applique l’espèce est à l’alinéa 169(4)a), qui est rédigé en ces termes :
+169(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement [...]
+[Non souligné dans l’original.]
+[9] Le Règlement fournit, au sous-alinéa 3b)(i), une définition des renseignements visés :
+3. Les renseignements visés à l'alinéa 169(4)a) de la Loi, sont les suivants :
+[…]
+b) lorsque le montant total payé ou payable, selon la pièce justificative[1], à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $[2] :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire et le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l'intermédiaire, selon le cas,
+[…]
+[Non souligné dans l’original.]
+[10] À mon avis, ces dispositions stipulent clairement qu’un inscrit ne peut pas demander de CTI à moins d’avoir obtenu, avant de produire sa déclaration, les renseignements visés, ce qui comprend le numéro d’inscription du fournisseur. Un grand nombre de mes collègues ont d’ailleurs adopté cette interprétation. Dans la décision Helsi Construction Management Inc. v. R., [2001] G.T.C. 396, le juge en chef adjoint Bowman (maintenant juge en chef), soulignant le fait que les numéros d’inscription aux fins de la TPS n’avaient pas été inscrits sur les factures en cause, a indiqué ce qui suit au paragraphe 11 :
+[...] Il s'agit d'une condition prévue par l'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Bien qu'il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu'obligatoires (par exemple l'affaire Senger-Hammond c. R., C.C.I., no 96-1117(IT)I, 6 décembre 1996, [1997] 1 C.T.C. 2728), ce n'est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d'accise.
+[Non souligné dans l’original.]
+[11] Au paragraphe 6 de la décision Alexander Nix Group Inc. v. R., [2002] G.T.C. 334, [2002] G.S.T.C. 100, le juge McArthur, au fond, a affirmé qu’il acquiesçait à cette conclusion. Il a d’ailleurs cité cette autre partie de la décision précitée rendue par le juge en chef adjoint Bowman, tirée du paragraphe 13 : « En outre, il s'agit là [soit le fait de répondre aux conditions techniques] du fondement d'un régime d'autocotisation visant le monde du commerce ».
+[12] En l’espèce, l’issue de l’appel repose sur le sens à donner au libellé : « le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur » (non souligné dans l’original) au sous‑alinéa 3b)(i) du Règlement. L’avocat de Systematix adopte la position énoncée par David Sherman dans son commentaire portant sur la décision Alexander Nix Group :
+[TRADUCTION]
+Dans cette cause-ci, il existait une solution technique à laquelle le juge McArthur aurait pu recourir. Le Règlement stipule que l’acquéreur doit avoir « le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur » . Le mot « attribué » ici est un verbe et non un adjectif. Le numéro donné par le fournisseur lui avait en effet été attribué conformément au paragraphe 241(1). Il avait aussi été annulé. Toutefois, ceci ne signifie pas qu’il ne lui avait jamais été attribué.
+Le juge McArthur a mentionné ce critère et a affirmé ce qui suit (au paragraphe 1) : « Je considère que cela emporte que le numéro d'inscription doit être valide ». Il a cependant ajouté un mot (« valide ») qui n’est pas édicté. La Cour suprême du Canada a déjà critiqué une telle pratique (voir la décision Friesen, [1995] 2 C.T.C., 369 à 378). On peut faire valoir que le Règlement aurait pu préciser « attribué au fournisseur et non annulé », ou tout autre libellé du genre, et qu’à défaut de comporter un tel libellé, la Cour ne devrait pas considérer la disposition comme si elle contenait ces quelques mots de plus.
+[Non souligné dans l’original.]
+[13] Je tiens à souligner qu’en plus de la décision Friesen, la Cour suprême du Canada a rendu la décision Shell Canada Limited v. The Queen, 99 DTC 5669, dans laquelle, au paragraphe 40, madame la juge McLachlin indique :
+[40] Deuxièmement, la jurisprudence fiscale de notre Cour est bien établie : l’examen de la « réalité économique » d’une opération donnée ou de l’objet général et de l’esprit de la disposition en cause ne peut jamais soustraire le tribunal à l’obligation d’appliquer une disposition non équivoque de la Loi à une opération du contribuable. Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée […]
+[Non souligné dans l’original.]
+[14] Dans ses motifs, la juge McLachlin cite la décision notoire de la Cour suprême du Canada : Antosko et al. v. The Queen, 94 DTC 6314.
+[15] Il est vrai que le mot « valide » ne figure pas à l’article 3 du Règlement. La règle générale veut qu’il ne doit pas non plus y être ajouté comme une condition implicite. Toutefois, la question qui se pose est de savoir si la disposition est « claire et non équivoque », pour reprendre les paroles de la juge McLachlin. La solution au problème qu’entraîne cette question nécessite une application stricte du sous‑alinéa 3b)(i) du Règlement. D’abord, la question n’est pas de savoir si un « numéro d’inscription [a été] attribué », mais plutôt de savoir si un « numéro d’inscription [a été] attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur » (en anglais « registration number assigned under subsection 241(1) of the Act to the supplier »). À mon avis, le terme clé de cette disposition, dans la version anglaise, est « under ». Cette préposition a différents sens, mais je pense que les sens qui s’appliquent ici sont les suivants, issus du The New Shorter Oxford Dictionary, vol. 2, page 3470 : [traduction] « 16 a) autorisé ou certifié par; b) conformément à ».
+[16] À mon avis, il semble que le sens b) donne lieu à une exigence plus marquée. La nécessité de fournir un numéro d’inscription attribué « en fonction de l’autorité » de l’article 241 n’est pas une exigence très stricte par rapport à la nécessité de fournir un numéro d’inscription attribué « conformément » au paragraphe 241. Afin de trancher la question et de déterminer le sens le plus approprié, je pense qu’il serait utile, sinon obligatoire, d’examiner la version française du sous‑alinéa 3b)(i) du Règlement, qui fait autorité au même titre que la version anglaise. La version française est rédigée en ces termes : « […] le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur […] » (non souligné dans l’original). L’expression « conformément au » signifie « in conformity with » ou « in accordance with » en anglais. Dans Le Petit Robert, édition 2002, l’expression « conformément à » est définie en ces termes : « d'une manière conforme à […] Conformément à la loi ». Donc, à mon avis, un numéro d’inscription doit être attribué, conformément au (« in conformity with » en anglais) paragraphe 241(1), au fournisseur.
+[17] Il faut aussi se poser la question de savoir de quel moment il faut tenir compte pour conclure qu’il existe ou non un numéro d’inscription attribué conformément à l’article 241. Le Règlement n’indique pas de moment visé. S’agit‑il du moment où le numéro a été attribué initialement ou bien du moment où la fourniture a été effectuée? Il convient de souligner que le libellé du Règlement ne contient pas le mot « initialement », et ne précise pas « a été » attribué, comme le fait valoir M. Sherman. Le libellé du Règlement ne précise pas non plus « et qui est toujours valide au moment où la TPS est payée au fournisseur ». Par conséquent, à mon avis, il est question ici d’une disposition qui n’est pas claire et non équivoque et qui pourrait être interprétée de différentes façons.
+[18] À mon avis, on peut donner de nombreuses interprétations à cette disposition. En plus des deux interprétations indiquées ci‑dessus, on pourrait faire valoir que le moment visé est le moment où la déclaration de TPS est produite. Pour trancher, il faut adopter une interprétation fondée sur l’objet visé, qui tient compte de l’objet général et de l’esprit de la disposition et qui correspond à l’économie générale de la Loi. Est-ce possible que l’intention du Parlement ait été de permettre à l’acheteur de recevoir un CTI si un numéro d’inscription avait été attribué conformément à l’article 241 au fournisseur, à un moment donné, et aurait été révoqué depuis? Il me semble qu’une telle interprétation donne un curieux résultat et ne devrait pas être adoptée. Il serait plus logique de considérer le moment où la fourniture est effectuée, lequel devrait correspondre au moment où la TPS est perçue, comme le moment visé servant à établir si un numéro d’inscription a bel et bien été attribué conformément à la Loi. Il serait aussi possible de tenir pour acquis que le moment visé est le moment où la déclaration de TPS est produite, parce que c’est à ce moment‑là qu’on doit obtenir tous les renseignements nécessaires. Cependant, une chose est claire : si le numéro d’inscription a été attribué après que la déclaration de TPS a été produite, le critère énoncé au paragraphe 169(4) de la Loi voulant que l’inscrit obtienne tous les renseignements nécessaires « avant de produire la déclaration [visant à demander le CTI] » n’a pas été respecté. Donc, il faut rejeter toute interprétation donnant à penser qu’un numéro d’inscription valide attribué après la production de la déclaration de TPS constitue une circonstance répondant au critère précité.
+[19] Dans la décision Joseph Ribkoff Inc. c. La Reine, 2003 CCI 397, [2003] G.T.C. 845, [2003] G.S.T.C. 104, de nombreuses analogies ont été présentées pour aider à trancher la question en litige. Je vais donc présenter ma propre analogie. Quelqu’un veut téléphoner à une certaine personne et doit chercher son numéro de téléphone dans l’annuaire téléphonique. Ce ne serait pas très utile si la personne en question s’était vue attribuer un numéro de téléphone en bonne et due forme par la compagnie de téléphone, mais que cette dernière aurait depuis interrompu le service pour ce numéro. À mon avis, le moment où le numéro de téléphone attribué est utile est le moment où l’appel est effectué. Par conséquent, je conclus que, pour ce qui est du respect du paragraphe 169(4) de la Loi et des dispositions pertinentes du Règlement, le moment où le fournisseur doit s’être vu attribuer un numéro d’inscription conformément au paragraphe 241(1) est le moment où la fourniture est effectuée ou bien, au plus tard, le moment où la déclaration est produite[3]. Lorsque le ministre reçoit la déclaration de TPS, il doit avoir tous les renseignements nécessaires permettant de prouver que la TPS a été payée, perçue par le fournisseur, et, j’ose espérer, versée au mandant du fournisseur, soit au ministre.
+[20] Avant de conclure, je souhaite souligner que je partage l’avis exprimé par David Sherman voulant que la situation soit inéquitable au détriment de l’acquéreur des fournitures qui a payé la TPS en toute bonne foi. Cependant, la Loi doit être appliquée de façon stricte et ne peut pas être distendue dans le but d’éviter ce que certains pourraient percevoir comme une iniquité. En fait, il semble que M. Sherman rende compte de cela dans son commentaire sur la décision Alexander Nix Group : [traduction] « Ce serait de recourir à une interprétation un peu large, mais ceci donnerait des résultats équitables dans les cas où l’acquéreur, en toute bonne foi, se fonde sur un numéro d’inscription invalide » (non souligné dans l’original). Il donne alors ce précieux conseil à suivre en attendant qu’une jurisprudence considérable soient établie sur la question :
+[TRADUCTION]
+[…] Pour éviter de se voir refuser leurs demandes de CTI, les entreprises devront peut-être apprendre à inonder d’appels le guichet d’affaires de l’ADRC pour confirmer le numéro figurant sur chacune des factures qu’elles recevront d’un nouveau fournisseur – ou même d’anciens fournisseurs dont le numéro d’inscription aurait récemment été annulé.
+[21] De surcroît, il convient de souligner que Systematix avait laissé entendre dans les contrats conclus avec les experts-conseils qu’elle avait le droit d’intenter une action contre eux pour recouvrer des taxes qu’elle leur aurait payées et qui n’auraient pas été versées au ministre. Systematix n’est donc pas sans recours! De toute évidence, une telle clause n’est pas très utile dans les cas où on perd toute trace du fournisseur ou où le fournisseur éprouve des difficultés financières.
+[22] J’applique donc ici les principes précités aux faits du présent appel. La société Systematix avait-elle obtenu tous les renseignements nécessaires – comme les numéros d’inscription de ses fournisseurs – avant de produire sa déclaration de TPS? Pour ce qui est des factures correspondant à la première catégorie, aucune preuve ne m’a été présentée indiquant que Cap Gemini avait fourni ces renseignements. Je conclus donc que concernant cette catégorie, Systematix n’a pas satisfait cette exigence. Quant aux factures correspondant à la deuxième catégorie, le cas le mieux étayé par Systematix, à mon avis, concernait les factures comportant un numéro d’inscription valide qui avait été attribué au fournisseur, mais qui avait été annulé avant la période en cause. Pour les raisons énoncées ci‑dessus, cela ne suffit pas pour conclure que Systematix a satisfait aux exigences énoncées au paragraphe 169(4) de la Loi. Aucun des numéros d’inscription figurant sur les factures en cause n’était donc attribué aux fournisseurs et valide aux moments visés pendant la période en cause.
+[23] Je tiens à ajouter une dernière chose concernant la décision Ribkoff sur laquelle s’est fondé Systematix. Compte tenu du paragraphe 77, la question en litige dans cette affaire-là semble concerner davantage le nom du fournisseur que le numéro d’inscription. Je ne vois donc pas en quoi cette décision peut venir appuyer la position de l’appelante.
+[24] Subsidiairement, l’avocat de Systematix a présenté deux autres arguments. Ils sont essentiellement de même nature et sont fondés sur les paragraphes 296(2.1) et 296(2) de la Loi. La première de ces deux dispositions est rédigée en ces termes :
+(2.1) Le ministre, s’il constate les faits suivants relativement à un montant (appelé « montant de remboursement déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne en vertu de la présente partie, applique, sauf demande contraire de la personne, tout ou partie du montant de remboursement déductible en réduction de la taxe nette ou du montant impayé comme si la personne avait payé ou versé, à la date visée aux sous-alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de la taxe nette ou du montant impayé :
+a) le montant de remboursement déductible aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la présente partie à la date suivante et si, dans le cas où le remboursement vise un montant qui fait l’objet d’une cotisation, la personne avait payé ou versé ce montant :
+(i) si la cotisation concerne la taxe nette pour la période de déclaration, la date limite de production de la déclaration aux termes de la section V pour la période,
+(ii) si la cotisation concerne un montant impayé, la date à laquelle ce montant est devenu payable par la personne;
+b) le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+c) le montant de remboursement déductible serait payable à la personne s’il faisait l’objet d’une demande produite aux termes de la présente partie le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[Non souligné dans l’original.]
+[25] Pour étayer son point de vue selon lequel un montant de remboursement aurait été payable, l’avocat de Systematix m’a renvoyé au paragraphe 261(1) de la Loi, qui concerne les remboursements de montants payés par erreur. Le paragraphe en question est rédigé en ces termes :
+261(1) Remboursement d’un montant payé par erreur – Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d’une autre obligation selon la présente partie alors qu’elle n’avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu’il ait été payé par erreur ou autrement.
+[26] L’avocat de Systematix semblait croire que le fait de payer la TPS à un fournisseur non inscrit était non seulement imprudent, mais que ce n’était pas nécessaire. Lors du contre-interrogatoire de l’agent des appels, il a laissé entendre que ce ne serait pas une très bonne idée de payer la TPS à un fournisseur non inscrit. Pendant son plaidoyer, il a affirmé que la TPS payée à un tel fournisseur constituerait un montant payé par erreur et que, par ce fait, elle devrait être remboursable au moyen du mécanisme de remboursement. Au cours de l’audience, je l’ai renvoyé au paragraphe subsection 165(1), soit la principale disposition de la Loi qui impose une responsabilité en matière de TPS :
+165(1) Taux de la taxe sur les produits et services – Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[27] De surcroît, le paragraphe 221(1) de la Loi prévoit ce qui suit :
+221(1) Perception – La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+[Non souligné dans l’original.]
+[28] Donc, on peut constater que les dispositions portant sur le prélèvement et la perception n’ont rien à voir avec le statut d’inscrit du fournisseur. Alors, à mon avis, que le fournisseur soit inscrit ou non, il doit tout de même percevoir la TPS. Je conclus que l’avocat de l’appelante avait tort de laisser entendre à l’agent des appels qu’il aurait été imprudent de payer la TPS à un fournisseur non inscrit. Un tel fournisseur aurait été obligé de percevoir la TPS et de la verser au ministre. J’estime que l’argument de l’avocat selon lequel la TPS payée à un fournisseur non inscrit devrait être remboursée au titre de montant payé par erreur est non fondé. De plus, je ne dispose d’aucune preuve me permettant de conclure que les fournisseurs en l’espèce étaient des « petits fournisseurs » au sens de la Loi et qu’aucune TPS ne devait être payée. En résumé, aucun élément de preuve n’établit que la TPS a été payée par erreur.
+[29] Le deuxième argument de l’avocat de l’appelante, fondé sur le paragraphe 296(2) de la Loi, semble lui aussi injustifié. Le paragraphe en question est rédigé en ces termes :
+296(2) Application d’un crédit non demandé – Le ministre, s’il constate les faits suivants relativement à un montant (appelé « crédit déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration donnée de celle‑ci, prend en compte, sauf demande contraire de la personne, le crédit déductible dans l’établissement de la taxe nette pour cette période comme si la personne avait demandé le crédit déductible dans une déclaration produite pour cette période :
+a) le crédit déductible aurait été accordé à titre de crédit de taxe sur les intrants pour la période donnée ou à titre de déduction dans le calcul de la taxe nette pour cette période s’il avait été demandé dans une déclaration produite aux termes de la section V pour cette période à la date limite où la déclaration pour cette période était à produire et si les exigences en matière de documentation, énoncées aux paragraphes 169(4) ou 234(1), qui s’appliquent au crédit avaient été remplies;
+b) le crédit déductible n’a pas été demandé par la personne dans une déclaration produite avant le jour où l’avis de cotisation lui est envoyé ou, s’il l’a été, a été refusé par le ministre;
+c) le crédit déductible serait accordé à titre de crédit de taxe sur les intrants ou de déduction dans le calcul de la taxe nette de la personne pour une de ses périodes de déclaration s’il était demandé dans une déclaration produite aux termes de la section V le jour où l’avis de cotisation est envoyé à la personne, ou serait refusé s’il était demandé dans cette déclaration du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[30] Il me semble que pour appliquer cette disposition, il faut tout de même remplir l’exigence concernant les renseignements nécessaires. Je ne vois donc pas comment ces dispositions peuvent appuyer la position de Systematix.
+[31] Pour tous ces motifs, je conclus que l’appel doit être accueilli et que la cotisation doit être déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe que Systematix a droit à un crédit de taxe sur les intrants supplémentaire s’élevant à 8 621,73 $ à l’égard de services fournis par Compasyst Inc.
+Signé à Montréal (Québec), ce 1er jour de septembre 2006.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 10e jour d’août 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI277
+N° DE DOSSIER : 2005-2925(GST)I
+INTITULÉ : SYSTEMATIX TECHNOLOGY CONSULTANTS INC. c. LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Les 15 et 17 mars 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 1er septembre 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gordon. D. Beck
+Avocate de l’intimée :
+Me Marla N. Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Gordon D. Beck
+Cabinet : Field LLP
+Edmonton (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il convient de souligner que dans le Règlement, le terme « pièce justificative » comprend tout document qui contient les renseignements exigés à l’article 3, notamment une facture.
+[2] Pour ce qui est des montants de plus de 150 $, le sous-alinéa 3c)(i) renvoie au sous‑alinéa 3b)(i) du Règlement.
+[3] De ces deux moments, je n’ai pas encore tranché lequel est le moment visé parce que la question n’a pas encore été plaidée devant moi et on ne m’a pas encore présenté d’analyse exhaustive sur la question. En outre, il n’est pas essentiel en l’espèce de trancher cette question. Toutefois, je suis tenté de penser que le moment visé est le moment où on paie la TPS au fournisseur. C’est à ce moment-là qu’on doit vérifier si le fournisseur est bel et bien un inscrit. Si c’est le cas, l’acquéreur devrait avoir droit au CTI, même si le numéro d’inscription est annulé la journée suivante, à condition que les autres critères établis dans la Loi soient respectés.

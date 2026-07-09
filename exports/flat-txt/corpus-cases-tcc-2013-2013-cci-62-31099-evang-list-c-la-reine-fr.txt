@@ -1,0 +1,115 @@
+Title: Evangélist c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31099/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-62-31099-evang-list-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-12
+
+# Evangélist c. La Reine
+
+- Citation: 2013 CCI 62
+- Decision date: 2013-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4685, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evangélist c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-12
+Référence neutre
+2013 CCI 62
+Numéro de dossier
+2012-3135(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3135(IT)I
+ENTRE :
+JEAN-PIERRE EVANGÉLIST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 février 2013, à Sherbrooke (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2010 est rejeté, mais l’appelant pourra réclamer ses frais de déménagement, tels qu’amendés, à compter de l’année d’imposition 2012.
+Signé à Ottawa, Canada, ce 20e jour de février 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2013 CCI 62
+Date : 20130220
+Dossier : 2012-3135(IT)I
+ENTRE :
+JEAN-PIERRE EVANGÉLIST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (LIR) pour l’année d’imposition 2010 par laquelle le ministre du Revenu national (ministre) a refusé la déduction pour frais de déménagement réclamée pour un montant de 8 695,43 $.
+[2] L’appelant avait déménagé de Montréal à Rivière-du-Loup au début janvier 2009 pour occuper un nouvel emploi auprès de l’entreprise Premier Tech, en tant que directeur principal, services administratifs. Cette dernière a avisé l’appelant à la fin du mois d’avril 2010 qu’elle devait mettre fin à son emploi.
+[3] Tout en se mettant immédiatement à la recherche d’un nouvel emploi, l’appelant est resté à l’emploi de Premier Tech pendant quelques mois. Une entente fut signée le 26 mai 2010 par laquelle Premier Tech s’engageait entre autres, à payer tous les frais de relocalisation et de transport à son point d’origine, le cas échéant.
+[4] L’entente du 26 mai 2010 a été modifiée par une nouvelle entente signée le 20 août 2010, de sorte qu’au lieu de payer les frais de déménagement, Premier Tech s’engageait plutôt à lui verser un salaire additionnel de 5 000 $ réparti sur cinq (5) semaines.
+[5] L’appelant a fait plusieurs démarches pour se retrouver du travail et a dû se résoudre à déménager ses biens à la fin de l’année 2010 pour les entreposer à Sherbrooke chez une amie. C’est alors qu’il a engagé les frais réclamés pour son déménagement. Il reconnaît que ces frais cumulent deux fois une dépense de 650 $ et il concède qu’une partie du kilométrage réclamé avait été effectué pour se trouver un emploi à Montréal. Il est donc prêt à réduire de moitié le kilométrage réclamé (il demandait 1000 kilomètres, et il en demande maintenant 500 kilomètres pour le déménagement), et à déduire le 650 $ réclamé deux fois par erreur.
+[6] Malgré toutes ses démarches, ce n’est qu’en octobre 2012 qu’il a pu enfin se trouver un emploi permanent. Il s’est fait embaucher par la ville de Sherbrooke comme adjoint au vérificateur général.
+[7] L’intimée a refusé les frais de déménagement réclamés en se fondant sur l’article 62 et sur la définition de « réinstallation admissible » au paragraphe 248(1) de la LIR.
+[8] Le paragraphe 62(1) et la définition de « réinstallation admissible » au paragraphe 248(1) de la LIR se lisent comme suit :
+Loi de l’impôt sur le revenu
+62. (1) Frais de déménagement — Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous-alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+[…]
+Partie xv11 — Interprétation
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+[9] Il est clair à la lecture du sous-alinéa 62(1)c)(i) que l’appelant ne peut déduire ses frais de déménagement au cours de l’année d’imposition 2010, puisqu’il ne peut déduire un montant plus élevé que le montant de son revenu pour l’année tiré de son emploi au nouveau lieu de travail.
+[10] En 2010, l’appelant n’a tiré aucun revenu d’un nouvel emploi. Toutefois, en 2012, après plusieurs démarches, il a réussi à se retrouver un emploi duquel il a tiré des revenus. En 2013, il occupe toujours ce nouvel emploi.
+[11] À mon avis, et tel que suggéré par l’avocat de l’intimée, la définition de « réinstallation admissible » est suffisamment large pour permettre à l’appelant de considérer que les frais de déménagement engagés en 2010 constituent des frais engagés relativement à une réinstallation admissible.
+[12] En effet, rien n’impose que le nouvel emploi soit occupé dans l’année où les frais ont été engagés. La réinstallation doit être effectuée afin de permettre au contribuable d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada appelé nouveau lieu de travail.
+[13] Par ailleurs, l’article 62 n’exige pas que les frais de déménagement soient engagés dans l’année où le contribuable veut les déduire. Si le nouvel emploi est trouvé dans un délai raisonnable après le déménagement, le contribuable peut déduire ses frais de déménagement à compter de l’année où il a commencé à tirer un revenu de son nouvel emploi (voir Roald K. Abrahamsen c. La Reine, 2007 CCI 95).
+[14] Ici l’appelant a commencé à recevoir des revenus de son nouvel emploi en 2012 et c’est à partir de 2012 qu’il peut déduire ses frais de déménagement.
+[15] Le montant soumis par l’appelant dans sa déclaration de revenus de 2010 était de 8 695,43 $. Ce montant doit être réduit de la somme de 650 $ réclamé deux fois.
+[16] Ces frais incluaient également un montant pour le kilométrage parcouru. L’appelant avait attribué 0,565 $ du kilomètre pour 1000 kilomètres. Les parties conviennent que 500 kilomètres seulement sont attribuables à la relocalisation admissible.
+[17] Pour ces raisons, l’appel de la nouvelle cotisation établie pour l’année 2010 est rejeté, mais l’appelant pourra réclamer ses frais de déménagement, tels qu’amendés, à compter de l’année d’imposition 2012.
+Signé à Ottawa, Canada, ce 20e jour de février 2013.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2013 CCI 62
+Nº DU DOSSIER DE LA COUR : 2012-3135(IT)I
+INTITULÉ DE LA CAUSE : JEAN-PIERRE EVANGÉLIST c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : Le 12 février 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 20 février 2013
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,119 @@
+Title: Bernatchez c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26378/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-53-26378-bernatchez-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-01-30
+
+# Bernatchez c. M.R.N.
+
+- Citation: 2004 TCC 53
+- Decision date: 2004-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3391, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernatchez c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-30
+Neutral citation
+2004 TCC 53
+File numbers
+2003-1952(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-1952(EI)
+BETWEEN:
+LUCIENNE BERNATCHEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 9, 2003, at Québec, Quebec.
+Before: The Honourable Judge Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of January 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Manon Boucher
+[OFFICIAL ENGLISH TRANSLATION]
+Reference: 2004TCC53
+Date: 20040130
+Docket: 2003-1952(EI)
+BETWEEN:
+LUCIENNE BERNATCHEZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from the Respondent's decision of February 20, 2003, according to which the Appellant's employment met the requirements of a contract of services because there was an employer-employee relationship. Moreover, it established that the amount of insurable earnings from this employment during the period at issue from July 1 to December 31, 2001 (the "period at issue") totalled $8,914.40.
+[2] The Respondent primarily relied on paragraph 5(1)(a) and subsection 93(3) of the Employment Insurance Act, S.C. (1996), c. 23 (the "Act") and on section 3 of the Insurable Earnings and Collection of Premiums Regulations (the "Regulations")
+[3] In rendering his decision, the Minister of National Revenue (the "Minister") primarily relied on the following assumptions of fact set out in paragraph 6 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The main activity of the Payer, Les Immeubles G. Gagné Inc., is managing residential buildings and construction.
+(b) The payer owns about 30 buildings with about 300 rental units.
+(c) The payer hired the Appellant as a rental agent.
+(d) The Appellant has worked for the payer since March 1997.
+(e) Her duties consist primarily of renting out the units, which involves showing the units to potential renters, conducting credit checks, preparing leases, managing building maintenance and repairs and preparing bids to that effect.
+(f) From January to July, the Appellant worked full-time for the payer at 40-80 hours a week.
+(g) During slower periods from August to December, the Appellant's work hours were reduced to 10 hours a week.
+(h) The payer submitted a record of employment to the Appellant indicating that the last payday was July 28, 2001, even though she continued to work for the payer and continued to be paid after this period.
+(i) The records of wages and of hours worked submitted by the payer indicate that during the period at issue, the Appellant worked 10 hours a week and that she was paid an hourly wage of $9.50.
+(j) The records also indicate that the Appellant did not do any work for the payer and did not receive any pay for the pay periods ending August 9 and 16, 2001.
+(k) During the period at issue, the Appellant received a $2,000 rental bonus.
+(l) From January 1 to June 30, 2001, the employee paid her own monthly expenses for her lodging at 1-235 des Bouleaux in Québec.
+(m) From July 1 to December 31, 2001, the payer provided her with free lodging at 4-690 Des Groseilles in Québec.
+(n) The payer determined the value of the lodging benefit provided to the Appellant to be $300 a month.
+(o) During the period at issue, the insurable earnings totalled $8,914.40 and were broken down as follows:
+Wages from July-December 2001: $5,114.40
+Lodging taxable benefit (6 X $300): $1,800.00
+Rental bonus: $2,000.00
+Total:
+$8,914.40.
+[4] However, the insurable earnings of $8,914.40 were adjusted to $8,794.40 in order to take into account a lodging taxable benefit which had a value of $1,680 instead of $1,800 because no cash remuneration was paid to the Appellant for the pay periods ending on August 9 and 16, 2001.
+[5] In fact, the only issue raised by the Appellant is the following. She argued that the lodging benefit which she enjoyed during the period at issue should have been added to her insurable earnings for the period of January-July 2001 (first period) and not to the insurable earnings for the period at issue.
+[6] The Appellant testified that her verbal employment contract with Les Immeubles G. Gagné Inc. stipulated that it had to provide her with free lodging during the first period and that it was unable to honour its commitment because all of its units were rented. The Appellant added that she should have rented a third party's unit and should have paid the costs during the first period. The Appellant argued that her employer instead provided her with free lodging for the period at issue as compensation for not fulfilling its contractual obligation to provide her with free lodging during the first period, and not because of her employment during the period at issue.
+[7] Mr. Gagné, a shareholder and administrator for the employer, confirmed the Appellant's version in all respects in his testimony.
+Analysis
+[8] I will therefore have to determine whether the value of the lodging benefit received by the Appellant during the period at issue must be added to her insurable earnings for that period. The provisions of the Regulations that address this issue are set out in section 2 as follows:
+(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is:
+(a) the total of all amounts, whether wholly or partially pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+(2) For the purposes of this Part, the total amount of earnings that an insured person has from insurable employment includes the portion of any amount of such earnings that remains unpaid because of the employer's bankruptcy, receivership, impending receivership or non-payment of remuneration for which the person has filed a complaint with the federal or provincial labour authorities, except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+(3) For the purposes of subsections (1) and (2), "earnings" does not include:
+(a) any non-cash benefit, other than the value of either or both of any board or lodging enjoyed by a person in a pay period in respect of their employment if cash remuneration is paid to the person by their employer in respect of the pay period;
+(a.1) any amount excluded as income under paragraph 6(1)(a) or (b) or subsection 6(6) or (16) of the Income Tax Act;
+(b) a retiring allowance;
+(c) a supplement paid to a person by the person's employer to increase worker's compensation paid to the person by a provincial authority;
+(d) a supplement paid to a person by the person's employer to increase a wage loss indemnity payment made to the person by a party other than the employer under a wage loss indemnity plan;
+(e) a supplemental unemployment benefit payment made under a supplemental unemployment benefit plan as described in subsection 37(2) of the Employment Insurance Regulations; and
+(f) a payment made to a person by the person's employer to cover the waiting period referred to in section 13 of the Act, or to increase the pregnancy, parental or compassionate care benefits payable to the person under section 22, 23 or 23.1 of the Act if the payment meets the criteria set out in section 38 of the Employment Insurance Regulations.
+[9] Even though the Appellant received this benefit as compensation for the payer not executing a previous obligation, I believe that under paragraph 3(2)(a) of the Regulations, the value of the lodging enjoyed by the Appellant during this period when she was paid as an employee must be added to her insurable earnings.
+[10] I believe that for the purposes of the Regulations, the benefit received as compensation must be treated in the same way as would be treated the benefit that she would have received under the previous obligation. Moreover, even if this benefit was received as compensation for the payer not fulfilling a previous obligation, it must be added to the Appellant's insurable earnings upon receipt.
+[11] It is certain that the employer, by not fulfilling its obligation, may have personally caused the Appellant harm. However, that does not mean that I have to compensate the Appellant for harm caused by the employer by rendering a favourable decision for the Appellant which would be contrary to the Act as it must be interpreted.
+[12] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of January 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Manon Boucher

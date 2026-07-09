@@ -1,0 +1,130 @@
+Title: Casavant v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25166/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-614-25166-casavant-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-04
+
+# Casavant v. The Queen
+
+- Citation: 2003 TCC 614
+- Decision date: 2003-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2546, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Casavant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-04
+Neutral citation
+2003 TCC 614
+File numbers
+2003-733(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-733(IT)I
+BETWEEN:
+ROBERT CASAVANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on August 13, 2003, at Montréal, Quebec.
+Before: The Honourable Justice P.R. Dussault
+Appearances:
+Agent for the Appellant:
+Bertrand Desrosiers
+Counsel for the Respondent:
+Antonia Paraherakis
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant the Income Tax Act for the 2001 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of September 2003.
+“P.R. Dussault”
+Dussault J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2003TCC614
+Date: 20030904
+Docket: 2003-733(IT)I
+BETWEEN:
+ROBERT CASAVANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] This is an appeal under the Informal Procedure from the assessment for the 2001 taxation year in which the Minister of National Revenue disallowed the Appellant’s tax credit for an impairment in mental or physical functions, pursuant to sections 118.3 and 118.4 of the Income Tax Act (the Act).
+[2] The Appellant, who has held jobs in the past for limited periods of time, no longer works and receives $9,000 in disability pension per year from the Régie des rentes du Québec.
+[3] According to Hélène Vallée, the Appeals Officer, in 2000, the Canada Customs and Revenue Agency established a national program for verifying claims for credits for an impairment in mental or physical functions to ensure the most effective application of the Act.
+[4] As part of this verification, the Appellant was asked to file the certification required by paragraph 118.3(1)(a.2) of the Act on the prescribed form (T-2201). Dr. Patrick Laplante completed the form on November 20, 2001. Dr. Laplante’s diagnosis is as follows:
+[TRANSLATION]
+Slight mental impairment, very emotional, very impulsive, easily stressed and frustrated, very little physical endurance. Never able to get and keep a job.
+[5] However, Dr. Laplante does not in any way certify that this is a serious and prolonged impairment in mental or physical functions the effects of which are such that the Appellant’s ability to perform a basic activity of daily living is markedly restricted, as required by paragraph 118.3(1)(a.2) of the Act (Exhibit I-1).
+[6] A supplementary questionnaire was completed by a Dr. Larose. The answers provided did not contradict the answers supplied by Dr. Laplante on the prescribed form in any way.
+[7] The agent for the Appellant stressed the fact that the Appellant had received the credit in the past, that he currently does not work and that he has a very modest income from the Régie des rentes du Québec. According to the agent, for the Appellant to lose the benefits of the credit would only aggravate his situation.
+[8] I think it is important to refer to subsection 118.4(1) of the Act, which states the following:
+118.4 Nature of impairment
+(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living;
+[9] We note that “working” is not considered a basic activity of daily living and that the fact that it cannot be done cannot be taken into consideration.
+[10] The Federal Court of Appeal clearly indicated that the medical or other certification, pursuant to paragraph 118.3(1)(a.2) of the Act constitues a mandatory requirement. In Buchanan v. Canada, [2002] F.C.J. No. 838 (Q.L.), which counsel for the Respondent referred to, Rothstein J. expressed the following at paragraph 8:
+The requirement for a medical certificate was addressed in the decision of this Court in Attorney General v. McIsaac, [2000] D.T.C. 412. In that case, it was determined that paragraph 118.3(1)(a.2) was mandatory and not directory and that a certificate by a doctor that the individual suffers impairment in the language of the section was a requirement. At paragraph 5, Sexton J.A. stated:
+Section 118.3(1)(a.2) of the Income Tax Act is not merely directory. It is mandatory. Simply put, there must be a certificate by the doctor that the individual suffers impairments in the language of these subsections. This Court held to the same effect in Partanen v. Canada, [1999] F.C.J. 751, and we feel bound by this decision.
+[11] While cognizant of the Appellant’s problems in his daily life and the extremely vulnerable state of his financial situation, it is not my place to change the requirements established by Parliament.
+[12] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of September 2003.
+“P.R. Dussault”
+Dussault J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2003TCC614
+COURT FILE NO.:
+2003-733(IT)I
+STYLE OF CAUSE:
+Robert Casavant and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+August 14, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice P.R. Dussault
+DATE OF JUDGMENT:
+September 4, 2003
+APPEARANCES:
+Agent for the Appellant:
+Bertrand Desrosiers
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

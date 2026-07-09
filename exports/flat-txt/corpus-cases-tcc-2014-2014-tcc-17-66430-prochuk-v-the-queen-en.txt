@@ -1,0 +1,181 @@
+Title: Prochuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66430/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-17-66430-prochuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-01-16
+
+# Prochuk v. The Queen
+
+- Citation: 2014 TCC 17
+- Decision date: 2014-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5995, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prochuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-16
+Neutral citation
+2014 TCC 17
+File numbers
+2011-2341(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2341(IT)G
+BETWEEN:
+ALLAN O. PROCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 11, 2013, at Vancouver, British Columbia
+and on June 13, 2013 by conference call at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is dismissed, with costs, on the basis that the appellant is not entitled to claim a non-capital loss since he was not in the business of trading and he was not engaged in an adventure or concern in the nature of trade.
+Signed at Ottawa, Canada, this 16th day of January 2014.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2014 TCC 17
+Date: 20140116
+Docket: 2011-2341(IT)G
+BETWEEN:
+ALLAN O. PROCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Auray J.
+Introduction
+[1] In 2005, Mr. Prochuk invested $250,000 in a foreign exchange currency fund with the Sabourin and Sun Group of Companies (“SSGC”).
+[2] According to the parties, the SSGC investment fund turned out to be a fraudulent investment scheme.
+[3] As a result, Mr. Prochuk claimed a business loss of $186,250 for his 2007 taxation year, namely the difference between the $250,000 he invested and the $63,750, he received from SSGC.
+[4] The respondent’s position is that Mr. Prochuk is not entitled to claim a business loss since he was not in the business of trading and the SSGC investment was not an adventure or concern in the nature of trade. She submitted that the loss incurred by Mr. Prochuk was a capital loss.
+Evidence
+[5] Mr. Prochuk is a civil engineer. Until 1985, he worked for BC Hydro. In 1985, BC Hydro decided to postpone the development of major hydro projects and, as a consequence, Mr. Prochuk was laid off. He was given severance pay that he rolled into his registered retirement savings plan (“RRSP”).
+[6] Mr. Prochuk always had an interest in the financial field. After he left BC Hydro, he took financial courses to satisfy licensing requirements and started working for investment companies.
+[7] From 1986 to approximately 1999, he worked in the financial field. In 1986, he worked for Evergreen Futures, and later for Mustard Seed Capital and then Yaletown Futures Group. Mr. Prochuk stated that working for these companies gave him great exposure to the financial field. However, for one reason or another, he was not successful at it, and since he was doing well with his RRSP investments, he decided to stop working for others and to take care of his own finances. He stated that from 1987 to 1999, he managed to increase the capital in his RRSP by a factor of eight.
+[8] Mr. Prochuk stated that starting in 2000, he made his livelihood from gains made with his RRSP. The evidence showed that he withdrew $250,000 from his RRSP in the 2005 taxation year, $100,000 in each of the 2006, 2007, 2008, 2009 taxation years, and $95,000 and $70,000 in the taxation years 2010 and 2011 respectively.
+[9] From 2000 onwards, Mr. Prochuk’s reported income consisted of the amounts he withdrew from his RRSP and amounts received under the Canada Pension Plan and old age security (since 2006). In his income tax return for the 2007 taxation year as well as for the other taxation years, Mr. Prochuk did not report any income from business or property.
+[10] In 2003, Mr. Prochuk met Mr. Len Zielke (“Zielke”) and Mr. Shane Smith (“Smith”). They promoted different investment strategies, which they called “reduction strategies”.
+[11] On the advice of Zielke and Smith, Mr. Prochuk contributed $20,000 to the Global Learning Systems Donation and received a donation receipt for $120,000. The Minister of National Revenue (the “Minister”) denied the donation claimed by Mr. Prochuk. At the time of the hearing, the issue had been settled.
+[12] In 2004, again on the advice of Zielke and Smith, Mr. Prochuk invested in a business loss strategy. Under this strategy, Mr. Prochuk claimed business losses of $220,000 and $210,000 for the 2004 and 2005 taxation years respectively, although he was out of pocket for the amounts of $42,000 and $44,000. The Minister denied these losses. At the time of the hearing, the issue was still under appeal at the Canada Revenue Agency (“CRA”).
+[13] It was Zielke and Smith, who introduced Mr. Prochuk to SSGC. In his testimony, Mr. Prochuk, stated:
+. . . the promoters of this were the same people who got me into some very bad tax avoidance deals, or I don’t know, “reduction strategies” they called them . . .
+[14] In 2005, after having been introduced by Zielke and Smith to SSGC’s representatives and learning of the type of investment SSGC made, Mr. Prochuk decided to invest with SSGC. Accordingly, he withdrew $250,000 from his RRSP to invest.
+[15] On January 6, 2005, Mr. Prochuk and his spouse, Mrs. Prochuk, signed an application for service with the Investment Management Division (British Virgin Islands) of SSGC. Under the application, the Prochuks agreed to invest $250,000 in a foreign exchange currency fund. The issue date was January 7, 2005 and the maturity date was May 7, 2007.
+[16] By a letter dated January 31, 2005 to the Prochuks, SSGC confirmed that the principal amount of $250,000 and the return on investment (“ROI”)/Interest of 17.52 % per annum paid twice a year, were both guaranteed by SSGC.
+[17] The Prochuks received three payments from SSGC totaling $63,750 namely, $18,750 on August 4, 2005 and $22,500 on both February 7, 2006 and September 13, 2006. The Prochuks did not receive any further payments from SSGC.
+[18] Mr. Prochuk testified that he could not tell that the investment promoted by SSGC was fraudulent. The presentation to investors was slick and the list of clients allegedly dealing with them was quite impressive. He stated that he undertook a due diligence examination on them and was convinced that he was investing with a reputable Toronto firm.
+[19] On February 10, 2011, the Prochuks received a letter from the Anti-Racket Division of the Ontario Provincial Police informing them that Sabourin was under criminal investigation regarding his investment practices. In fact, Sabourin and his associates failed to appear in various legal proceedings.
+[20] In filing his 2007 income tax return, Mr. Prochuk claimed $186,250 as a capital loss. On April 10, 2010, Mr. Prochuk by way of Notice of Objection characterized his claim as a non-capital loss. Clearly, the Prochuks will never recover the balance of their investment with SSGC.
+Issue to be decided
+[21] The issue to be decided is whether Mr. Prochuk is entitled to claim a business loss in the amount of $186,250 for his 2007 taxation year.
+[22] In order to do so, Mr. Prochuk has to establish either that he was in the business of trading or that he was engaged in an adventure or concern in the nature of trade with respect to the SSGC investment.
+Position of the parties
+Appellant’s position
+[23] Mr. Prochuk argued that the evidence showed that he is in the business of trading. He also argued that his losses should be allowed in any event since he met the criteria listed in the Interpretation Bulletin IT-459, Adventure or Concern in the Nature of Trade.
+[24] He submitted that he had spent his life trading and since 2000, had run a business within his RRSP. His livelihood depended on the profits he made trading within his RRSP. He stated that he had to remit a withholding tax of 30% on the amounts that he withdrew from his RRSP.
+[25] He submitted that his significant gains show that he was an active trader. When he transferred his RRSP from the Royal Bank to Altamira on May 14, 1999, he transferred an amount of $886,000. By the end of May 31, 2004, the RRSP showed an amount of $1,348,636.
+[26] He argued that when SSGC proposed a foreign currency trading fund with a guaranteed principal and a ROI of 17.52% per annum, his intention was to make a profit. He also argued that he acted in the same manner with respect to the SSGC investment as he did with respect to other investments within his RRSP. He would renew the SSGC investment only after being assured of a good return and only if nothing better came along.
+[27] He argued that the 17.52% per annum, approximately 9% of which he was to receive on a semi-annual basis from SSGC, was not interest income but an earning return. He pointed out that the term “interest” is not used in the SSGC contract that he and his spouse signed on January 6, 2005. Instead, the term used is an “ROI” of 17.52% per year. He stated that I should disregard the letter dated January 31, 2005 from SSGC referring to the income as interest since the person who had signed the letter on behalf on SSGC, had made a mistake in referring to the term interest of 17.52%.
+[28] He further argued that he had the “badges of trade” referred to by Justice Campbell in Corvalan v HMQ, 2006 CCI 200, 2006 DTC 2907.
+[29] In any event, he argued that if he was not in the business of trading the motivating factor for buying the SSGC investment was to make a profit. Accordingly, he met the requirements of the Interpretation Bulletin IT-459.
+Respondent’s position
+[30] The respondent’s position is that the Appellant’s loss of $186,250 was a capital loss. She pointed out that the investment was intended to yield income. At paragraphs 11 and 12 of her written submissions, she stated as follows:
+11. The characterization of an item of property as inventory or as capital property is based primarily on the type of income that the property will produce.
+12. Assets with a potential of yielding income are generally seen as investment assets and profits resulting from transactions in these types of assets are generally characterized as capital gains, and correspondingly, losses are generally characterized as capital losses.
+[31] The respondent also submitted that Mr. Prochuk’s income tax returns did not reflect any level of activity that would constitute trading as a business. He never reported income or losses from trading. She further argued that Mr. Prochuk’s goal in any eventual disposition of the SSGC fund was to create a capital gain, and when the gain did not result, he instead reported a non-capital loss.
+[32] She argued that an RRSP is a unique tax-protected vehicle and that trading carried on within an RRSP does not amount to carrying on a business.
+[33] The respondent also argued that Mr. Prochuk did not act as a trader with respect to the $250,000 SSGC investment. He could not sell the investment for at least 28 months. He was a passive participant.
+[34] In addition, the respondent argued that Mr. Prochuk’s intention was to hold the SSGC investment for the long term as an income-producing vehicle to gain guaranteed interest income. She submitted that Mr. Prochuk’s testimony was clear he would have renewed the fund if it had not been a fraudulent transaction at the maturity date. Therefore, he did not have any “badges of trade”.
+[35] The respondent also submitted that Mr. Prochuk was not engaged in an adventure or concern in the nature of trade. She argued that he did not meet the test established in Canada Safeway v HMQ, 2008 FCA 24, 2008 DTC 6074 (FCA) for an adventure or concern in the nature of trade. She submitted that the SSGC investment was acquired with the intention of being held for the purpose of producing income and not to be “flipped”. Therefore, the SSGC investment was capital in nature.
+Analysis
+Was Mr. Prochuk a trader?
+[36] The respondent argued that the nature of the property under litigation is a capital property and the loss claimed by Mr. Prochuk is a capital loss.
+[37] I agree with the respondent that usually an asset that yields income is a capital asset. For example, shares in a corporation yield dividends and the income from the disposition of shares is usually a capital gain. However, shares can also be inventory if the person holding the shares is in the business of buying and selling shares. The nature of the asset is one indicia in deciding as to whether an asset should be characterized as capital or inventory. This is why I need to determine whether Mr. Prochuk is a trader.
+[38] It is a question of fact as to whether Mr. Prochuk was a trader. A number of factors are relevant to this determination.
+[39] In HMQ v Vancouver Art Metal Works Limited, [1993] 2 FC 179, 93 DTC 5516 (FCA), Justice Letourneau in an unanimous decision of the Federal Court of Appeal, listed several factors to be considered in determining if a person is engaged in the business of trading. At page 5519, he states as follows:
+I have no doubt that a taxpayer who makes it a profession or a business of buying and selling securities is a trader or a dealer in securities within the meaning of paragraph 39(5)(a) of the Act. As Cattanach, J., stated in Palmer v. Minister of National Revenue, [1973] C.T.C. 323, 73 D.T.C. 5248 (F.C.T.D.) at 325 (D.T.C. 5249), “it is a badge of trade that a person who habitually does acts capable of producing profits is engaged in a trade or business” (id., at p. 325). It is, however, a question of fact to determine whether one's activities amount to carrying on a trade or business. Each case will stand on its own set of facts. Obviously, factors such as the frequency of the transactions, the duration of the holdings (whether, for instance, it is for a quick profit or a long-term investment), the intention to acquire for resale at a profit, the nature and quantity of the securities held or made the subject matter of the transaction, the time spent on the activity, are all relevant and helpful factors in determining whether one has embarked upon a trading or dealing business.
+[Underlining added.]
+[40] Mr. Prochuk stated that he was an active trader within his RRSP. He pointed out that he made 512 trades within his RRSP in 2007.
+[41] Counsel for the respondent argued that I could not take into account the trades Mr. Prochuk made within his RRSP since it is a unique vehicle under the Income Tax Act (the “Act”). I agree. A person trading within his RRSP cannot be considered to be operating a business. Therefore, the transactions within the RRSP cannot be taken into account. I will explain further later in my reasons why trading within an RRSP cannot be considered a business.
+[42] Looking at the factors established by Justice Letourneau in Vancouver Art Metal Works, I conclude that Mr. Prochuk was not a trader for the following reasons:
+• the frequency of the transactions: since 2000, the only transaction that Mr. Prochuk made outside his RRSP was the SSGC investment;
+• the duration of the holdings: Mr. Prochuk’s investment was locked in for a period of 28 months and could not be sold before the maturity date, namely, May 7, 2007;
+• the intention to acquire for resale at a profit: Mr. Prochuk often stated that the principal motivation for the SSGC investment was the same motivation that he had when trading within his RRSP, namely, the intention to make a profit. If a better investment came along, he would have not renewed the SSGC investment;
+Although, the intention of making a profit is important, it is not sufficient to establish that a person is operating a business since both investors and traders want to make a profit. Here clearly, Mr. Prochuk’s intention, at the time he acquired the investment, was to hold the investment for the long term as an income producing vehicle and to earn a ROI/Interest of 17.52% per annum. Mr. Prochuk’s goal in any eventual disposition of the investment was to create a capital gain;
+• the nature of and the quantity of the securities held or made the subject of the transaction: the SSGC investment was the only transaction Mr. Prochuk made outside his RRSP. It is also important to note that when Mr. Prochuk was trading within his RRSP, except for one investment that he held for four years, the holding time for his investments ranged from one hour to four months. His transactions within his RRSP were therefore different from the SSGC investment which he had to hold for at least 28 months. In addition, the SSGC investment had a high yield; this was not the case for the investments he held within his RRSP. And as I stated earlier, the nature of the fund was that of a capital property;
+• the time spent on the activity: Mr. Prochuk was a passive participant with respect to the SSGC investment. He did not have to do anything in order to receive his ROI/Interest of 17.52% per annum from SSGC. Both his principal and the ROI/Interest were guaranteed by SSGC.
+Trading within an RRSP
+[43] Parliament created the RRSP regime to allow individuals to defer tax and to set aside income in a trust in order to enhance their income upon retirement. The RRSP is a unique regime and the provisions in the Act dealing with the RRSP are specific.
+[44] Contributors to an RRSP benefit from tax incentives. Contributions to an RRSP can be deducted, resulting in a reduction in income tax. Funds can be moved around inside an RRSP without any tax consequences. During the time that funds are held in an RRSP, income can be accumulated without attracting tax.
+[45] Investments within an RRSP have to be “qualified investments” as defined by the Act. In addition, the holder of an RRSP cannot hold security under his or her name, it must be owned by the trustee.
+[46] When an individual withdraws funds from an RRSP, the funds are taxed pursuant to paragraphs 56(1)(t) and 146.3(5) of the Act.
+[47] A person gaining business income from trading has to report all his business income on a yearly basis, and his profit will be determined pursuant to section 9 of the Act. By contrast, since the funds accumulated in an RRSP do not attract tax, an individual is subject to taxation on them only when he withdraws them from the RRSP. Depending on his other income for a taxation year, an individual may chose to withdraw an amount that will keep him or her within a certain level of taxation.
+[48] From the above, it can be seen that the Act treats an individual who trades within his RRSP differently than a taxpayer who is in the business of trading. For this reason, trades within an RRSP are not relevant in deciding whether an individual is in the business of trading.
+[49] Counsel for the respondent pointed to the decision of Justice C. Miller of this Court in Deep v HMQ, 2006 TCC 315, 2006 DTC 3033 in support of the proposition that trading within an RRSP does not amount to business income.
+[50] In Deep, there were a number of questions in issue, including whether Mr. Deep was engaged in the business of trading in stock and financial instruments. With respect to trading within an RRSP, Justice Miller stated as follows at paragraph 51:
+. . . He provided no evidence of any extensive trading activity during those years, nor do his tax returns reflect any level of activity that would constitute trading as a business. Even his own testimony was the trading he carried on was within his RRSP. This is not the carrying on of a business.
+[51] Accordingly, I am satisfied that trading within an RRSP does not amount to carrying on the business of trading.
+[52] As I stated earlier, Mr. Prochuk never reported income from business in any of his tax returns. Mr. Prochuk often stated that his RRSP was his livelihood. In my opinion, this is consistent with why Parliament created RRSP, namely to assist individuals in saving and earning money for retirement.
+Adventure or Concern in the Nature of Trade
+[53] The second issue to decide is whether Mr. Prochuk’s activities amounted to an adventure or concern in the nature of trade.
+[54] There are numerous cases dealing with the concept of an adventure or concern in the nature of trade. One of the leading cases in this area is Canada Safeway Ltd v HMQ, 2008 FCA 24, 2008 DTC 6074, where Justice Nadon, at paragraph 41, states as follows:
+[41] In Friesen v R, [1995] 3 S.C.R. 103, Justice Major writing for the majority of the Supreme Court, remarked, at page 115, that the concept of an adventure in the nature of trade is a judicial creation designed to determine which purchase and sale transactions are of a business nature and which are of a capital nature. Major J. then made the point that for a purchase and sale to constitute an adventure in the nature of trade, there had to be a “scheme for profit-making”. In his view, there was a requirement for the taxpayer to have had an intention of gaining a profit from his transaction and, in that regard, he referred to Interpretation Bulletin IT-459: “Adventure or Concern in the Nature of Trade” (Sept. 8, 1980), which sets out the relevant tests found in the case law for a determination of whether a transaction constitutes an adventure in the nature of trade. Paragraph 4 of IT-459 provides as follows:
+In determining whether a particular transaction is an adventure or concern in the nature of trade the Courts have emphasized that all the circumstances of the transaction must be considered and that no single criterion can be formulated. Generally, however, the principal tests that have been applied are as follows:
+(a) whether the taxpayer dealt with the property acquired by him in the same way as a dealer in such property ordinarily would deal with it;
+(b) whether the nature and quantity of the property excludes the possibility that its sale was the realization of an investment or was otherwise of a capital nature, or that it could have been disposed of other than in a transaction of a trading nature; and
+(c) whether the taxpayer's intention, as established or deduced, is consistent with other evidence pointing to a trading motivation.
+[55] Taking into account the criteria cited in Canada Safeway Ltd for determining if a person is engaged in an adventure or concern in the nature of trade, I am of the view that:
+(a) Mr. Prochuk did not act in the same manner as a person in the business of trading. He was a passive investor and at the time he acquired the SSGC investment, he intended to hold it on a long-term basis. He expected to receive a yield of 17.52% paid semi-annually. Clearly, his intention at the time he purchased the investment was not to resell it promptly for a profit. In any event, he could not sell the investment since it was locked in for 28 months;
+(b) any eventual sale of the SSGC investment would have resulted in a capital gain. In a letter dated October 26, 2006, Mr. Prochuk wrote to CRA questioning the tax treatment if a gain were to occur, he stated at page 2 of his letter as follows:
+. . .
+2. If I receive all my capital back and some gain and this happens sometime in 2007, I/we should report the entire capital gain (all capital received over all years, minus my initial investment) on my/our 2007 tax return. Can either my wife or myself claim the capital gain, sharing it as we wish, or must we share it equally?
+. . .
+(c) Mr. Prochuk’s intention at the time of the purchase of the SSGC investment was to achieve a capital gain and to obtain a return on his investment. He testified that he would have renewed the investment had the terms of the investment contract been respected. In addition, in the same letter dated October 26, 2006 to CRA, he stated that SSGC was in the business of creating capital gains.
+[56] After reviewing these factors and the jurisprudence submitted by the respondent on the concept of adventure or concern in the nature of trade, I am of the opinion that Mr. Prochuk was not engaged in an adventure or concern in the nature of trade.
+Conclusion
+[57] In light of my conclusion that Mr. Prochuk was not in the trading business and that he was not engaged in an adventure or concern in the nature of trade, he is not entitled to claim a non-capital loss for his 2007 taxation year.
+[58] In closing, I would like to state that Mr. Prochuk is sadly another victim of a scheme sold to taxpayers with the promise of a high return on investment.
+[59] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 16th day of January 2014.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2014 TCC 17
+COURT FILE NO.: 2011-2341(IT)G
+STYLE OF CAUSE: ALLAN O. PROCHUK v HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia and
+Ottawa, Ontario
+DATE OF HEARING: March 11, 2013 and June 13, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: January 16, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

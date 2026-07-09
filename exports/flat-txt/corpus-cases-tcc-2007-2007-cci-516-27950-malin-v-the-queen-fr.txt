@@ -1,0 +1,129 @@
+Title: Malin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27950/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-516-27950-malin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-08-31
+
+# Malin v. The Queen
+
+- Citation: 2007 CCI 516
+- Decision date: 2007-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1799, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-31
+Référence neutre
+2007 CCI 516
+Numéro de dossier
+2006-2438(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2438(IT)I
+ENTRE :
+NORMAN MALIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 août 2007, à Montréal (Québec)
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2002 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 31e jour d’août 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 12e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI516
+Date : 20070831
+Dossier : 2006-2438(IT)I
+ENTRE :
+NORMAN MALIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Le présent appel est interjeté à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») dans laquelle la déduction de pertes nettes d’entreprise s’élevant à 24 355,65 $ demandée par l’appelant pour l’année d’imposition 2002 a été refusée. Les déductions demandées et refusées concernaient des dépenses relatives à une voiture, à des déplacements et au domicile, ainsi que des dépenses pour des fournitures. En ce qui concerne les dépenses relatives à la voiture, l’appelant et son comptable ont affirmé dans leurs témoignages que les montants demandés étaient des estimations, étant donné que l’appelant ne tenait pas de registre de son utilisation de la voiture et qu’il n’avait pas conservé de pièce justificative. L’appelant a demandé la déduction d’environ 80 % des dépenses totales relatives à la voiture. Les dépenses relatives aux fournitures étaient elles aussi des estimations et n’étaient appuyées par aucun document.
+[2] Les déductions demandées ont été refusées en partant du principe que l’appelant n’a pas exploité d’entreprise en 2002 et que les dépenses en question étaient de nature personnelle. Subsidiairement, le ministre a observé que l’application du paragraphe 18(12) de la Loi de l’impôt sur le revenu (la « Loi ») restreignait la déduction des dépenses relatives au travail à domicile.
+[3] L’appelant a admis les faits ci‑dessous sur lesquels le ministre s’était fondé :
+- il n’avait enregistré aucune vente et aucun revenu des prétendues activités commerciales;
+- il n’avait pas d’entreprise inscrite aux fins de la TPS;
+- la carte professionnelle indiquait que l’appelant était le président‑directeur général d’Innsbrooke Development Corp. [l’appelant a expliqué lors de l’audience qu’il s’agissait d’une société détenue à cent pour cent par Reevin Pearl, un avocat et un ami de l’appelant avec lequel ce dernier avait l’intention d’exploiter une entreprise dans divers domaines, mais principalement dans le but de mettre en œuvre un système de parité de change à l’intention des sociétés émettrices de cartes de crédit, comme American Express, Visa et Mastercard].
+[4] Dans une entente [traduction] « concernant le système de parité de change » signée par l’appelant et par Reevin Pearl le 8 juillet 2002, laquelle renvoyait à une entente de confidentialité et de non‑divulgation entrant en vigueur à la même date, les parties ont convenu de constituer une société de personnes à parts égales visant la commercialisation d’un nouveau concept selon lequel une société émettrice de cartes de crédit, comme American Express, Visa ou Mastercard, s’associerait par coentreprise à une société que les parties en question contrôleraient éventuellement à parts égales. Je cite ici certains passages de l’entente, qui se trouve d’ailleurs à la page 9 de la pièce R-3 :
+[traduction]
+Concernant le système de parité de change
+4. Nous convenons qu’au moment où une transaction commerciale est conclue avec un tiers, le cas échéant, Innsbrooke Development Corporation est la partie contractante agissant en fiducie à notre avantage mutuel, par quoi nous nous engageons à assumer toutes les dépenses et à répartir les profits à parts égales.
+[. . .]
+7. Par conséquent, nous signons à cette étape‑ci la présente lettre d’entente, dans sa forme la plus simple, pour confirmer les éléments suivants :
+a) toutes les dépenses engagées dans le cadre des efforts de commercialisation du système de parité de change seront assumées à parts égales;
+b) tous les avantages, qu’il s’agisse de revenus ou d’autres avantages, tirés de la commercialisation du système de parité de change seront répartis à parts égales;
+c) toutes les décisions importantes seront prises conjointement, c’est‑à‑dire que les questions de nature importante devront faire l’objet d’un accord mutuel;
+d) nous n’avons pas le droit d’imputer quelque frais que ce soit à notre coentreprise, étant entendu que le travail effectué est en contrepartie de la société de personnes et que les seuls avantages qui seront tirés seront ceux sur lesquels nous nous entendrons à l’avenir, lorsque nous aurons des droits égaux pour ce qui est de la répartition à parts égales des revenus après le remboursement de nos dépenses directes.
+8. Il est entendu que les décisions importantes sont réputées être les ententes conclues avec un tiers qui peuvent avoir des répercussions commerciales sur les droits concernant la commercialisation d’une carte de crédit ou d’un autre instrument à valeur monétaire (comme des chèques émis de la même façon que sont émis actuellement des chèques de voyage) qui peut être utilisé pour obtenir un service ou un produit à un taux de change en parité entre la monnaie canadienne et la monnaie des États‑Unis.
+9. L’objectif visé par notre société de personnes et de conclure une entente avec une société émettrice de cartes de crédit afin qu’elle adhère à une façon de faire et à un programme de commercialisation visant la mise en marché d’une carte de crédit particulière qui permet au consommateur de bénéficier d’une parité de change par rapport à la monnaie de son pays d’origine.
+[. . .]
+12. Nous déploierons tous nos efforts pour commercialiser avec succès notre concept et pour générer des avantages appropriés pour la société de personnes.
+[. . .]
+14. La société de personnes dont il est question s’applique uniquement lorsqu’il est question des dépenses et des avantages qui découleront éventuellement des activités relatives à la commercialisation d’une carte de crédit ou de chèques de voyage à parité de change qui seraient émis à tout consommateur voyageant à l’étranger afin qu’il puisse acheter des biens et des produits et obtenir des services.
+[. . .]
+16. La présente entente lie les personnes soussignées ainsi que leurs représentants et ayants droit légaux, et la société Innsbrooke Development Corporation intervient dans la présente entente après en avoir pris connaissance et convient d’agir en fiducie au bénéfice de la société de personnes jusqu’à ce que les deux personnes soussignées décident qu’une nouvelle entité distincte doit être créée, pour leur avantage commun.
+[5] Dans son témoignage, l’appelant a affirmé que pour faire avancer l’entente, il avait discuté avec diverses personnes, envoyé des lettres à des institutions financières et rencontré quelques personnes. Toutefois, selon les documents présentés en preuve, il semble que même si l’appelant était très motivé, ses efforts n’ont jamais évolué au‑delà de tentatives échouées de convaincre des publications dans le domaine du divertissement et des institutions financières des mérites de son projet.
+[6] À titre d’exemple, il semble que le 18 novembre 2002, ou environ à cette date, l’appelant a envoyé une lettre au président et au président‑directeur général d’Amex au nom de la société Innsbrooke Development Corporation (une copie de la lettre en été présentée en preuve à la pièce R-3). Dans cette lettre, l’appelant affirme qu’il souhaite organiser une rencontre pour pouvoir présenter son projet.
+[7] À ce qu’il paraît, Amex n’était pas disposée à discuter de quoi que ce soit avec l’appelant et M. Pearl, à moins que certaines exigences légales ne soient suivies. Selon ce que j’ai compris des documents fournis par l’appelant à la pièce A‑1, la proposition de l’appelant n’a jamais été examinée par Amex, et les documents légaux demandés n’ont jamais été signés, ni par Amex, ni par l’appelant et M. Pearl.
+[8] Selon l’appelant, M. Pearl a mis fin au projet après que les institutions financières aient refusé de signer l’entente de non-divulgation. Si j’ai bien compris, ceci aurait été fait à la fin de 2003 ou au début de 2004.
+[9] Je crois également comprendre qu’aucune discussion sérieuse n’a en fait eu lieu entre l’appelant et quelque institution financière que ce soit au cours de la période en cause. L’appelant n’a jamais fourni de description détaillée de son concept ou de plan d’activités. Pas plus qu’il n’a produit d’estimation de coûts, d’échéanciers ou de prévisions de revenus potentiels pour son projet. Aucun état financier prévisionnel n’a été fourni, non plus.
+[10] L’appelant avait aussi des idées en vue d’un projet immobilier à Montréal, à l’angle des rues Simpson et Sherbrooke. Bien qu’il ait discuté avec le propriétaire du bien et qu’il ait même rencontré ce dernier, le projet n’a jamais vraiment décollé au‑delà de la simple spéculation. Selon l’appelant, lorsque le propriétaire a décidé qu’il voulait occuper un étage complet de l’immeuble qu’on projetait construire, M. Pearl a décrié le projet et les discussions ont pris fin. Aucun chiffre n’avait été avancé et aucun plan d’activités n’avait été produit concernant ce projet, et M. Pearl n’est pas venu témoigner.
+[11] De plus, l’appelant prétend avoir mené des activités dans le domaine des arts. Il a présenté un témoignage vague au sujet de voyages à New York et à Toronto qu’il aurait effectué pour visiter des galeries et rencontrer des artistes, mais il n’a pas présenté de preuve utile permettant de conclure que son intérêt pour l’art était plus qu’un simple passe-temps.
+[12] Je suis du même avis que l’avocate de l’intimée lorsqu’elle fait valoir que l’appelant, même s’il avait déjà été un homme d’affaires dans le passé, n’avait pas réussi à prouver qu’il exploitait une entreprise pendant l’année en cause. Pour cette année‑là, il était à la retraite et a seulement déclaré des revenus de REER s’élevant à 21 012 $ dans sa déclaration de revenus.
+[13] Lors de l’audience, l’appelant a admis que son épouse n’avait pas déclaré un revenu plus élevé que le sien. Les déductions demandées concernaient principalement des dépenses qu’il aurait faites, peu importe s’il avait exploité ou non une entreprise. Il s’agit‑là de dépenses personnelles. C’est à l’appelant qu’il incombait de prouver que ces dépenses avaient été engagées en partie dans le but de gagner un revenu d’une entreprise. Il n’a pas réussi à me convaincre que ses activités, pendant l’année 2002, étaient autre chose que de simples attentes. Rien de concret n’a jamais été établi. Les projets sont restés à l’étape embryonnaire d’une entreprise, sans jamais décoller.
+[14] L’appelant n’a pas réussi à me convaincre du fait qu’il avait débuté une entreprise avec M. Pearl. Il ne m’a pas convaincue du fait qu’il était allé au‑delà de la simple intention de débuter une entreprise. Comme il est indiqué dans la décision Samson et Frères Ltée c. Canada, [1995] A.C.I. n° 1385 (QL), au paragraphe 22 :
+De cette décision, il m'apparaît clair que pour qu'une entreprise existe et ait débuté, on doit avoir dépassé le simple stade de l'intention de la débuter. Un projet, même articulé, de le faire n'est, à mon avis, que l'expression de cette intention et doit être poussé plus loin. Les éléments essentiels se rattachant à la structure même de l'entreprise, soit le financement, les actifs et la main-d'oeuvre nécessaires doivent avoir été recherchés et réunis avant que l'on puisse affirmer que l'entreprise existe et qu'elle a débuté. J'ajouterai que la décision de débuter l'entreprise telle qu'on peut la déceler par des mesures « importantes » ou « essentielles » prises par le contribuable en vue de l'exploitation même constitue un indice important que l'entreprise a débuté. C'est là, à mon avis, le sens de la décision du juge Bowman de cette cour dans l'affaire Gartry (précitée). Il est en effet assez difficile de concevoir qu'une entreprise ait débuté avant même qu'une décision ferme à cet égard n'ait été prise et que les éléments essentiels se rattachant à la structure même d'une telle entreprise n'aient été réunis.
+[15] Comme il n’existait aucune entreprise en 2002, l’appelant n’a pas droit aux déductions demandées à l’égard des dépenses de cette année‑là. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 31e jour d’août 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 12e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI516
+N° DU DOSSIER : 2006-2438(IT)I
+INTITULÉ : NORMAN MALIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 23 août 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 31 août 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

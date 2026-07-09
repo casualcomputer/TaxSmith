@@ -1,0 +1,157 @@
+---
+title: "Mastracci v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28407/index.do"
+last_modified: "2006-11-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 594"
+citation2: ""
+neutral_citation: "2006 TCC 594"
+decision_date: "2006-11-06"
+language: "en"
+item_id: "28407"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1206
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:36:02.489000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5adfb2a36a045d92f8b148419586ad7ccfb1019587c4c93d619157a40775f030"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mastracci v. The Queen
+
+- Citation: 2006 TCC 594
+- Decision date: 2006-11-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1206, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mastracci v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-06
+Neutral citation
+2006 TCC 594
+File numbers
+2006-442(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-442(IT)I
+BETWEEN:
+ADRIAN MASTRACCI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2006 at Vancouver, British Columbia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. payments from KCM Wealth Management Inc. to HSBC or to the Appellant personally totalling $19,624.09 in 2002 and $28,029.01 in 2003 were made as reimbursement of KCM Wealth Management Inc. expenses incurred by the Appellant or in repayment of the Appellant's shareholder loan advances to KCM;
+2. payments made by KCM Wealth Management Inc. for the Appellant's medical premiums of $1,188 in 2002 and $972 in 2003 were properly included in the Appellant's income for those years as taxable benefits; and
+3. payments made by KCM Wealth Management Inc. for the Appellant's monthly parking fees of $2,052 in 2002 and $2,052 in 2003 were properly included in the Appellant's income for those years as taxable benefits,
+in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of November, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2006TCC594
+Date: 20061106
+Docket: 2006-442(IT)I
+BETWEEN:
+ADRIAN MASTRACCI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Adrian Mastracci, is appealing the reassessments of the Minister of National Revenue of his 2002 and 2003 taxation years. The Appellant represented himself and was the only witness to testify at the Informal Procedure hearing of these appeals.
+[2] In reassessing the Appellant's tax liability, the Minister added amounts for unreported employment income and unreported taxable benefits. Each of these issues is dealt with under the headings below.
+Unreported Employment Income
+[3] Since 1973, the Appellant has worked as a financial investments advisor. In 2000, he established KCM Wealth Management Inc. ("KCM"), a company which provides consulting services in financial planning. To provide such services, KCM is required to be registered with the British Columbia Securities Commission and must file its financial statements with the Commission. The Appellant is the sole director and shareholder of KCM.
+[4] The Appellant is also a director and shareholder of his holding company, Spectrum Financial Inc. ("Spectrum"). In 2002 and 2003, the Appellant reported income[1] earned as an employee of Spectrum. Attached to his income tax returns were T-4's issued by his employer showing employment income of $17,000 in 2002 and $19,500 in 2003. Why the Appellant was paid a salary from Spectrum was not in issue at the hearing.
+[5] The Appellant did not report any employment income from KCM in either of these years; by the same token, KCM did not claim any employee wages as business expenses in its T-2 returns and schedule information[2] for 2002 or 2003.
+[6] In June 2004, pursuant to a Trust Examination, the Appellant was asked to provide an official at Canada Revenue Agency with KCM's bank statements[3] and cancelled cheques for 2002 and 2003. This he did. Nothing more was requested and in due course, he was told he could pick up the documents.
+[7] He heard nothing more until February 25, 2005 when the Appellant received notices of reassessment for, among other things, unreported employment income from KCM of $19,624[4] in 2002 and $28,029[5] in 2003. These amounts represent the totals of amounts made payable to "HSBC" or to the Appellant personally in cheques issued by KCM.
+[8] Dealing first with the amounts payable to HSBC, KCM maintains its business account at HSBC. It does not have and has never had its own corporate credit card; the Appellant, in his personal capacity, has an HSBC Mastercard credit card.
+[9] The Appellant put in evidence his HSBC Mastercard statements[6] for 2002 and 2003 in which is shown the credit card account number which is noted on the memo line of most of the KCM cheques made payable to HSBC; these cheques are, in turn, recorded by number in KCM's bank statements. They correspond in time with the amounts shown as due (with appropriate adjustments for GST) in the Appellant's monthly HSBC Mastercard statements.
+[10] As for the cheques payable to "Adrian Mastracci" personally, there were three: in 2002, for $3,000 and $4,000; in 2003, one for $11,616.37. There is no notation on the memo line of these cheques.
+[11] The Minister's position, as shown by the assumption in paragraph 8(f) of the Reply to the Notice of Appeal, is that "in the 2002 and 2003 taxation years, payments received by the Appellant from KCM were not repayments of his shareholder loan or reimbursement of expenses he paid on behalf of KCM".
+[12] The Appellant has the onus of proving wrong this assumption. His evidence is that the amounts KCM paid to HSBC were reimbursements in respect of business expense purchases he had made using his personal HSBC Mastercard credit card. The reimbursement was achieved by KCM paying directly to HSBC, the amounts due from him personally, as shown in the HSBC Mastercard statements. In support of his position, he points to the direct link between the amounts owing and the payments made: the KCM cheques payable to HSBC for the corresponding amounts made on a timely basis in accordance with the due dates in the HSBC Mastercard monthly statements. In his testimony, he reviewed a sample of the monthly statements, explaining the nature of the purchases which can be generally categorized as office expenses, computer expenses, books and publications, meals and entertainment, travel, marketing and so on. I accept the Appellant's evidence that these purchases were duly entered in their appropriate categories in KCM's accounting journal[7]. A review of the exhibits shows the kinds of purchases listed and their correlation to the cheques, the journal entries and the kinds of business expenses claimed in KCM's T-2 returns. With the possible exception of one purchase of $25.33 from a merchant called "A-Wear"[8] (which according to counsel for the Respondent is a Vancouver clothing store), the Appellant's records support the conclusion that these were the sort of regularly recurring expenditures typically associated with running a business office and serving clients.
+[13] Counsel for the Respondent submitted that the Appellant's evidence was weakened by the fact that he did not have with him receipts for each of the items shown in the HSBC Mastercard statements. In view of the all of the other credible evidence and that his obligation under the Income Tax Act is to maintain adequate, not perfect, books and records, I am not persuaded that this is fatal to his position.
+[14] No doubt the Appellant could have saved himself some trouble if he had avoided using his personal credit card to pay for KCM's purchases. He explained that at the time KCM was set up, a corporate credit card was not an option. In any event, it is a mystery to me how the CRA officials who reviewed the Appellant's documents saw these amounts as "employment income". Perhaps I would have a better understanding of his analysis if the appeals officer had testified; counsel for the Respondent advised the Court following the conclusion of the Appellant's evidence that he was taken ill at the last minute and was not able to be present. No adjournment was requested to permit him to give his evidence at a later date. Thus, if there is more to the story, it is not in the evidence before me. It seems to me, however, that this matter could have been resolved much earlier had the Trust Examiner asked the Appellant not only to provide the bank statements, but also to go through the exercise of explaining and documenting each purchase, its purpose and amount.
+[15] As for the payments to the Appellant personally, I accept his evidence that these were in repayment of the shareholder loan of $100,000. Between 2000 and 2002, he advanced some $100,000 (interest free) in start up funds to KCM; from time to time in those years, when its cash flow permitted, KCM made lump sum repayments to the Appellant. The existence of a shareholder loan pursuant to which KCM was indebted to the Appellant forms part of the assumption in paragraph 8(f). On cross-examination, counsel for the Respondent reviewed with the Appellant the T-2 returns filed by KCM and asked why, if KCM owed the Appellant some $100,000, the amount shown as "Due to Shareholders"[9] was $118 in 2002 and $572 in 2003. I accept the Appellant's explanation that the shareholder loan was actually shown under Item number 3460 as a "Subordinated Debt" in 2002 as $91,223 and $100,000 in 2003. In support, the Appellant put in evidence a photocopy of a page of the Notes to Financial Statements of KCM – May 31, 2003[10] in which the following explanation appears under the heading "Long Term Liability":
+The non-interest bearing advance from shareholder of $100,000 is subject to a subordination agreement, whereby the amount will not be repaid without the permission of the B.C. Securities Commission. Accordingly, this amount has been reflected as a long term liability in these financial statements.
+Certainly, it would have been preferable to have the original of the entire document but I am mindful of the fact that these appeals were brought under the Informal Procedure and that the Appellant was without legal representation. Further, there was no suggestion that the Appellant had fabricated this, or any of the other documents tendered.
+[16] Given that KCM had been operating for only two years in 2002 and the amount of the shareholder loan, I find nothing untoward in the amounts repaid of $3,000 and $4,000 in 2002 and approximately $11,000 in 2003. Nor is it unusual for a small solely held corporation to make such repayments from time to time depending on its financial well being. For all of these reasons, I am satisfied that these amounts were not employment income from KCM but rather, repayments of the shareholder loan.
+Unreported Taxable Benefits
+[17] The Minister assumed and the Appellant does not dispute that in 2002 and 2003, KCM paid the Appellant's medical premiums of $1,188 and $972. The Minister assumed that the Appellant was an "employee" of KCM[11]; while I am not entirely convinced this is so, it was not challenged by the Appellant. On the footing, then, that he was an employee in 2002 and 2003, the payment of his medical premiums by KCM is clearly caught by the broad sweep of "other benefits of any kind whatever"[12] in paragraph 6(1)(a) of the Act. Accordingly, I find that the amounts paid by KCM for the Appellant's medical premiums were properly included as taxable benefits in 2002 and 2003.
+[18] The same logic applies to KCM's payment on his behalf of the parking fees at the Appellant's office. Even though the Appellant's car was used primarily for KCM's business, the fact remains that it was his car, not that of the company. Accordingly, the Appellant had the benefit of a free parking space in downtown Vancouver. The value of that benefit was properly included by the Minister as a taxable benefit in 2002 and 2003.
+[19] The appeals are allowed and in accordance with the attached Reasons for Judgment, the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. payments from KCM Wealth Management Inc. to HSBC or to the Appellant personally totalling $19,624.09 in 2002 and $28,029.01 in 2003 were made as reimbursement of KCM Wealth Management Inc. expenses incurred by the Appellant or in repayment of the Appellant's shareholder loan advances to KCM;
+2. payments made by KCM Wealth Management Inc. for the Appellant's medical premiums of $1,188 in 2002 and $972 in 2003 were properly included in the Appellant's income for those years as taxable benefits; and
+3. payments made by KCM Wealth Management Inc. for the Appellant's monthly parking fees of $2,052 in 2002 and $2,052 in 2003 were properly included in the Appellant's income for those years as taxable benefits.
+Signed at Ottawa, Canada, this 6th day of November, 2006.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2006TCC594
+COURT FILE NO.: 2006-442(IT)I
+STYLE OF CAUSE: ADRIAN MASTRACCI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 3, 2006
+REASONS FOR JUDGMENT: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: November 6, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1 and Exhibit R-2, respectively.
+[2] Exhibit R-5 and R-6, respectively.
+[3] Exhibit R-3.
+[4] Reply to the Notice of Appeal, Schedule "A".
+[5] Reply to the Notice of Appeal, Schedule "B".
+[6] Exhibit A-4.
+[7] Exhibit A-3.
+[8] Exhibit A-4, February 3, 2003.
+[9] Item 2780 according to the CRA Guide to the General Index of Financial Information (GIFI) for Corporations, provided for reference only by counsel for the Respondent.
+[10] Exhibit A-2.
+[11] Paragraph 8(b) of the Reply to the Notice of Appeal.
+[12] The Queen v. Savage, [1983] 2 S.C.R. 428 (S.C.C.).

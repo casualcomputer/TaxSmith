@@ -1,0 +1,172 @@
+Title: Honeywell Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27615/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-327-27615-honeywell-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-26
+
+# Honeywell Limited v. The Queen
+
+- Citation: 2006 CCI 327
+- Decision date: 2006-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 436, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Honeywell Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-26
+Référence neutre
+2006 CCI 327
+Numéro de dossier
+2005-2502(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2502(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante (intimée),
+et
+HONEYWELL LIMITÉE,
+intimée (appelante).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 31 mai 2006 à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Martha MacDonald
+Avocats de l'intimée :
+Me Luther P. Chambers, c.r.
+Me Pascal Tétrault
+ORDONNANCE MODIFIÉE
+Vu la requête présentée par l'avocat de l'intimée en vue d'obtenir une ordonnance l'autorisant à modifier la réponse à l'avis d'appel, ainsi qu'une ordonnance annulant l'ordonnance de la Cour datée du 17 mars 2006 et enjoignant aux parties de communiquer avec la Cour dans les 30 jours suivant le prononcé de l'ordonnance définitive concernant les questions soulevées dans la requête afin d'établir un nouvel échéancier pour la poursuite de l'appel en application du paragraphe 152(9) de la Loi de l'impôt sur le revenu;
+Et vu les affidavits de Gordon Parr et de Marilyn Bartolome-White déposés;
+Et vu les plaidoiries et les observations écrites des avocats des parties;
+Et vu les observations écrites des avocats des parties à la suite d'une demande de nouvel examen par l'avocat de l'intimée visant l'ordonnance de la Cour datée du 22 juin 2006;
+La Cour ordonne que l'intimée soit autorisée à effectuer les modifications demandées dans la mesure indiquée dans les motifs de l'ordonnance et dans les motifs complémentaires de l'ordonnance, que l'ordonnance du 17 mars 2006 dans laquelle la Cour a établi un échéancier pour la poursuite de l'appel soit annulée et que les parties communiquent avec la Cour dans les 30 jours suivant la date du prononcé de la décision définitive sur la présente requête pour établir un nouvel échéancier.
+Les dépens suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 20e jour de mars 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI327
+Date : 20060926
+Dossier : 2005-2502(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante (intimée),
+et
+HONEYWELL LIMITÉE,
+intimée (appelante).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMPLÉMENTAIRES DE L'ORDONNANCE
+Le juge en chef Bowman
+[1] Dans la présente requête, la Couronne demande que la Cour réexamine une ordonnance datée du 22 juin 2006 et qu'elle statue sur certaines modifications à la réponse à l'avis d'appel demandées par l'intimée.
+[2] La requête a été entendue le 31 mai 2006, et l'ordonnance statuant sur cette requête a été signée le 22 juin 2006. La Cour y ordonnait que l'intimée soit autorisée à effectuer les modifications demandées dans la mesure indiquée dans les motifs de l'ordonnance.
+[3] Je n'ai pas traité d'un certain nombre de modifications demandées par l'intimée. J'ai fait cette omission par inadvertance. Selon moi, il s'agit clairement d'un cas où la règle de l'omission s'applique. L'article 168 des Règles de la Cour canadienne de l'impôt (procédure générale) permet à la Cour de corriger un jugement (ce qui comprend une ordonnance) à l'égard d'une question dont elle aurait dû traiter et dont elle a négligé ou accidentellement omis de traiter. Je ne crois pas que le fait que les parties aient porté un appel et un appel incident à l'encontre de l'ordonnance devant la Cour d'appel fédérale empêche la Cour de traiter des questions qui ont été omises.
+[4] La principale question dont ont traité les motifs était celle de savoir si, après avoir obtenu du contribuable une renonciation concernant le délai prescrit pour l'établissement de la cotisation au motif qu'une telle cotisation serait fondée sur la disposition générale anti-évitement (la « DGAÉ » ) et après avoir établi une cotisation fondée sur la DGAÉ conformément à la renonciation, la Couronne a le droit d'invoquer un tout nouveau fondement pour justifier la cotisation (les règles relatives au revenu étranger accumulé tiré de biens(le « RÉATB » )). J'ai conclu que la Couronne n'avait pas le droit de faire une telle chose.
+[5] J'ai toutefois consenti à ce que des modifications soient apportées à certains paragraphes et alinéas de la réponse. Voici une liste des paragraphes et des alinéas de l'ébauche de la réponse modifiée à l'égard desquels des modifications ont été demandées ou bien que l'intimée voulait ajouter, ainsi que la décision que j'ai prise à l'égard de ces demandes.
+5 modification accordée
+8 modification accordée
+8A modification accordée
+13d)(iii)
+13f)
+13g)(i) modification accordée
+(ii) modification accordée
+(iii) modification accordée
+(iv) modification accordée
+13h)(iii)
+13i)
+13k) modification accordée
+13A modification accordée
+15 modification accordée
+16
+17 modification accordée
+18
+18A modification refusée
+21A modification refusée
+21B modification refusée
+21C modification refusée
+21D modification refusée
+21E modification accordée
+22A modification accordée
+23a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+24
+25
+26
+27
+30
+33A
+33B
+34A
+[6] L'avocat de l'intimée souligne que je n'ai pas tenu compte des modifications demandées pour les alinéas 13d), 13f), 13h) et 13i), et pour les paragraphes 16, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 33A, 33B et 34A. Il a tout à fait raison. Je n'ai pas tenu compte de ces modifications et j'aurais dû le faire. Je regrette sincèrement tout inconvénient que cela a pu causer aux parties.
+[7] L'avocat a également souligné que l'appelante a consenti à plusieurs modifications.
+[8] Je commencerai par traiter des modifications que l'avocat ne conteste pas. L'ordonnance sera modifiée afin de permettre à l'intimée d'apporter les modifications suivantes à la réponse en plus des modifications accordées dans l'ordonnance initiale : les alinéas 13f), 13i), 23b), 23c) et 23d), le paragraphe 16, le renvoi à la division 95(2)a)(ii)B dans les alinéas 23e) et 23h) et les renvois au Règlement de l'impôt sur le revenu et à la Convention fiscale entre le Canada et le Royaume des Pays-Bas.
+[9] De plus, même si l'avocat de l'appelante conteste certaines autres modifications, il convient quand même qu'il est conforme à l'ordonnance et aux motifs de l'ordonnance que l'alinéa 23e) de l'ébauche de la réponse modifiée soit modifié afin de permettre un renvoi au paragraphe 91(1) et à l'alinéa 95(1)b) de la Loi de l'impôt sur le revenu, ainsi qu'un renvoi au paragraphe 95(1) dans le paragraphe 24 de l'ébauche de la réponse modifiée. Ces modifications devraient être accordées.
+[10] Je crois également que les modifications proposées aux paragraphes 18, 25, 26, 30 et 33 dans l'ébauche de la réponse modifiée sont conformes à l'ordonnance et aux motifs de l'ordonnance.
+[11] L'avocat de l'appelante accepte la modification au paragraphe 18, et, même s'il conteste les modifications à l'alinéa 23f) et au paragraphe 33, il convient que l'autorisation de ces modifications à l'alinéa 23f) et au paragraphe 33 est conforme à l'ordonnance et aux motifs de l'ordonnance. Ces modifications devraient être accordées.
+[12] Il me reste donc à traiter des alinéas 13d), 13h) et 23a), du renvoi au paragraphe 15(1) dans l'alinéa 23e), de l'alinéa 23g) et des paragraphes 27, 28, 29, 31, 33A, 33B et 34A.
+[13] Parmi ces modifications proposées à la réponse, les seules autres modifications qui, selon moi, ne sont pas conformes à l'ordonnance et aux motifs de l'ordonnance sont celles relatives à l'alinéa 23a) et aux paragraphes 33A et 33B. Ces modifications sont refusées. Les autres sont accordées.
+[14] De façon générale, les modifications que je suis disposé à accorder sont donc celles qui sont conformes à la cotisation fondée sur la DGAÉ. Les modifications que je ne suis pas disposé à accorder sont celles qui concernent la justification de la cotisation au moyen des règles relatives au RÉATB.
+[15] S'il y a d'autres modifications proposées dont j'ai omis de traiter, ou si les parties ont besoin d'autres explications concernant les présents motifs, je demande aux avocats de communiquer avec la Cour.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 20e jour de mars 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI327
+NO DU DOSSIER DE LA COUR :
+2005-2502(IT)G
+INTITULÉ DE LA CAUSE :
+Sa Majesté la Reine c.
+Honeywell Limitée
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 18 septembre 2006
+MOTIFS COMPLÉMENTAIRES DE L'ORDONNANCE PAR :
+L'honorable juge en chef D. G. H. Bowman
+DATE DES MOTIFS COMPLÉMENTAIRES DE L'ORDONNANCE :
+Le 26 septembre 2006
+COMPARUTIONS :
+Avocats de l'appelante
+(intimée dans la requête) :
+Me Al Meghji
+Me Martha MacDonald
+Avocats de l'intimée
+(requérante dans la requête) :
+Me Luther P. Chambers, c.r.
+Me Pascal Tétrault
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Avocat de l'appelante
+(intimée dans la requête) :
+Nom :
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Cabinet :
+Avocats
+1 First Canadian Place
+Toronto (Ontario) M5X 1B8
+Avocat de l'intimée
+(requérante dans la requête) :
+John H. Sims, c.r.
+Sous-procureur général du Canada

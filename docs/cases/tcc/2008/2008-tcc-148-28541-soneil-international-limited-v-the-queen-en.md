@@ -1,0 +1,199 @@
+---
+title: "Soneil International Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28541/index.do"
+last_modified: "2008-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 148"
+citation2: ""
+neutral_citation: "2008 TCC 148"
+decision_date: "2008-03-17"
+language: "en"
+item_id: "28541"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1171
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:26:13.038000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9cc2ee810b126521ba8ce413c0d237853d67dc5a0fdcca3d5267b6bcb1e11835"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soneil International Limited v. The Queen
+
+- Citation: 2008 TCC 148
+- Decision date: 2008-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1171, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soneil International Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-17
+Neutral citation
+2008 TCC 148
+File numbers
+2007-4786(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4786(IT)G
+BETWEEN:
+SONEIL INTERNATIONAL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the Motion of
+Soneil Usha Inc. (2007-4787(IT)G) on
+March 5, 2008 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Sachindra Jain
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an Order entitling Sachindra Jain to represent the Appellant in this appeal;
+And upon hearing from the parties;
+The Motion is granted, without costs, and Sachindra Jain is entitled to represent the Appellant in this appeal.
+The Respondent shall have 60 days from the date of this Order to file a Reply.
+Signed at Halifax, Nova Scotia, this 17th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+Docket: 2007-4787(IT)G
+BETWEEN:
+SONEIL USHA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the Motion of
+Soneil International Limited (2007-4786(IT)G) on
+March 5, 2008 at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Sachindra Jain
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an Order entitling Sachindra Jain to represent the Appellant in this appeal;
+And upon hearing from the parties;
+The Motion is granted, without costs, and Sachindra Jain is entitled to represent the Appellant in this appeal.
+The Respondent shall have 60 days from the date of this Order to file a Reply.
+Signed at Halifax, Nova Scotia, this 17th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC148
+Date: 20080317
+Docket: 2007-4786(IT)G
+BETWEEN:
+SONEIL INTERNATIONAL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2007-4787(IT)G
+AND BETWEEN:
+SONEIL USHA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Appellants, Soneil International Limited and Soneil Usha Inc., have brought a Motion under subsection 30(2) of the Tax Court of Canada Rules (General Procedure) ("Rules") to allow Sachindra Jain, who is not a lawyer, to represent each of them in their appeals.
+[2] Subsection 30(2) of the Rules provides as follows:
+(2) Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+[3] This rule was recently amended by SOR/2007-142 on June 14, 2007. Counsel for the Respondent referred to several cases related to the factors to be examined to determine if “special circumstances” existed to allow a corporation to be represented by someone other than a lawyer in proceedings before the Tax Court. However all of the cases (except for one) related to the wording of this rule prior to the amendment made in 2007. In the one case that was after subsection 30(2) of the Rules was amended, (White Star Copper Mines Limited v. The Queen, [2008] 1 C.T.C. 2365) there is no discussion of the implications arising from the amendment to the rule and the company in that case had 500 to 600 shareholders, which is not the same as the current case.
+[4] Counsel for the Respondent submitted that, notwithstanding the recent amendment to subsection 30(2) of the Rules that deleted the requirement for “special circumstances” to exist to allow a corporation to be represented by someone other than a lawyer in proceedings before the Tax Court, this subsection should be interpreted as if this requirement were still present. In my opinion it is important to review the history of this rule and to interpret it based on its current wording, not as it was worded prior to the amendment.
+[5] Prior to 1993 the rule read as follows:
+(2) Except as expressly provided by or under any enactment, a body corporate may not begin or carry on a proceeding otherwise than by counsel.
+[6] Therefore under the rule, in its original form, a corporation had to be represented by counsel unless it was expressly provided by or under any enactment that someone other than a lawyer could represent the corporation. By SOR/93-96 dated February 23, 1993 this rule was amended, and then read as follows:
+(2) A corporation shall be represented by counsel in all proceedings in the Court, unless the Court, in special circumstances, grants leave to the corporation to be represented by an officer of the corporation.
+[7] From 1993 to 2007 the rule provided that corporations could be represented by someone other than lawyer only "in special circumstances". This requirement that "special circumstances" exist in order for a corporation to be represented by someone other than a lawyer is also in the Federal Court Rules. Section 120 of the Federal Court Rules provides as follows:
+120. A corporation, partnership or unincorporated association shall be represented by a solicitor in all proceedings, unless the Court in special circumstances grants leave to it to be represented by an officer, partner or member, as the case may be.
+[8] In the cases cited by counsel for the Respondent (other than White Star Copper Mines Limited) the Courts were reviewing either the Federal Court Rules or the previous version of subsection 30(2) of the Rules. Both of these required special circumstances in order for a corporation to be represented by a person other than a lawyer. The cases referred directly or indirectly back to the decision of Muldoon J. of the Federal Court in Kobetek Systems Ltd. v. The Queen, [1998] F.C.J. No. 16. In that decision, Justice Muldoon was reviewing Rule 300(2) of the Federal Court Rules and stated as follows:
+3. The pertinent current rule is 300(2), thus:
+300(2) A corporation shall be represented by a solicitor in all proceedings in the Court, unless the Court, in special circumstances, grants leave to the corporation to be represented by an officer of the corporation.
+So, the applicant must demonstrate special circumstances.
+4. The jurisprudence helps to define such special circumstances….
+...
+6. From these cases the following factors appear to be relevant to the determination of whether special circumstances exist: whether the corporation can pay for a lawyer; whether the proposed representative will be required to appear as advocate and as witness; the complexity of the legal issues to be determined (and therefore whether it appears that the representative will be able to handle the legal issues) and whether the action can proceed in an expeditious manner.
+[9] Therefore Justice Muldoon was determining the factors that would be relevant in determining whether special circumstances exist for the purposes of a rule that required special circumstances to exist before a corporation should be permitted to be represented by a person who is not a lawyer. Since subsection 30(2) of the Rules has been amended to delete the requirement for special circumstances, the cases dealing with the meaning of special circumstances and what factors should be examined to determine if special circumstances exist are no longer applicable.
+[10] In my opinion, the cases that should be reviewed are those from a jurisdiction which has a rule which is the same as the current version of subsection 30(2) of the Rules. Rule 15.01(2) of the Ontario Rules of Civil Procedure provides as follows:
+A party to a proceeding that is a corporation shall be represented by a solicitor, except with leave of the court.
+[11] This rule is the same as subsection 30(2) of the Rules, except that subsection 30(2) of the Rules also allows a Judge of this Court to impose additional conditions. Therefore the criteria that are to be examined in determining whether a corporation should be permitted to be represented by someone other than a lawyer under subsection 30(2) of the Rules should be the same as those examined by the Courts of Ontario where Rule 15.01(2) of the Ontario Rules of Civil Procedure has been in effect for more than 20 years.
+[12] In 419212 Ontario Limited v. Astrochrome Crankshaft Toronto Limited, [1991] O.J. No. 918, 3 O.R. (3d) 116, Master Sandler of the Ontario Court (General Division) stated as follows:
+13 One of the factors to be taken into account in deciding whether to grant leave to a corporation to act without a solicitor is the internal situation of the corporation, and whether the person seeking to represent the corporation in court is a senior representative of the corporation who has been duly authorized by the board of directors, who themselves are properly elected. Another is the nature of the action and the issues, and whether it would be seriously unfair to the opposite party to have the case presented or defended by a non-solicitor. Another factor is whether the proposed corporate representative will be able to properly carry out the duties of a litigant under the rules.
+[13] In Lamond v. Smith, [2004] O.J. No. 3255 Justice J. W. Quinn of the Ontario Superior Court of Justice stated as follows:
+9 There are cases holding that granting leave under subrule 15.01(2) should not be encouraged. However, I do not see why such an admonition need apply to small, one-man companies.
+10 Other cases have expressed concern about whether granting leave under subrule 15.01(2) would be unfair to the other party or parties who then would be opposed by a non-solicitor. With respect, I do not consider this to be a material consideration. Invariably, when one of the litigants in a civil action is self-represented, there is a substantially increased burden not only upon the remaining parties but upon the court. This is now a fact of life.
+11 It also has been held that the court should have regard for whether the proposed representative of the corporation will be able to fulfill his or her duties under the Rules of Civil Procedure. I must distance myself from such a proposition. In an era when self-represented litigants abound, it does not make sense to worry whether Mr. Smith is capable of carrying out the responsibilities of a litigant. Absent proven mental incompetence, his intelligence and litigious capabilities, in my view, are quite irrelevant.
+...
+13 Mr. DeLorenzo submits that it has not been suggested that the corporate defendant is unable to pay for a lawyer. This is correct. And, indeed, it appears that a lawyer already is in the picture, so to speak, as evidenced from the quality of the materials filed by Mr. Smith. Mr. DeLorenzo relies upon 92417 Canada Ltd. v. Bank of Montreal et al. (1984), 45 C.P.C. 149, [1984] O.J. No. 2248 (Ont.Mast.), as authority for the proposition that a corporation may be represented by a non-lawyer where it will be unable to seek the remedies to which it is entitled because it is unable to obtain the necessary funds to hire counsel. Impecuniosity may be one reason why leave should be granted in a motion under subrule 15.01(2), but it is not a necessary reason. Frankly, I do not see why the ability or inability to afford a lawyer should be a relevant factor. The court would not question a self-represented individual about his or her finances and I fail to appreciate why the matter should be different with corporations. Some people and companies may think that they have better things to do with their money than to pay lawyers. They may be right; they may be wrong.
+...
+15 The historical reluctance of trial courts to grant leave to a corporation to be represented by a non-lawyer has little merit in the case of a small, one-man company.
+(emphasis added)
+[14] In the case of Mirashrafi v. Circuit Center, [2007] O.J. No. 2373 Master J. Haberman of the Ontario Superior Court of Justice stated as follows after referring to the above decision of Justice Quinn:
+9 Quinn J. concluded by stating that the court's historical reluctance to grant leave to a corporation to be represented by a non-lawyer had little merit in the case of a small, one man-company. While Circuit Centre in a "2-person" company and not particularly small judging by its operating line of credit, I fail to see why the same principles should not apply here. Mr. Javdan's personal interests clearly appear to coincide with those of the corporate defendant and he is in a position to bind Circuit.
+[15] Master J. Haberman also stated that:
+14 On the basis of the foregoing, I find that the financial status of the corporation is not a relevant factor.
+[16] In this particular case Sachindra Jain is the only shareholder and the only director of one of the companies and his wife is the only shareholder and the only director the other company. He is an officer of both companies. I agree with the comments of Justice Quinn and Master Haberman that for closely held companies the owners of the companies should be permitted to represent the companies in proceedings before the Court. I would also extend this to the spouse of the owner as the economic interests of an individual and his or her spouse will generally not be different.
+[17] Justice McLachlin, of the Supreme Court of Canada, in Bracklow v. Bracklow, [1999] 1 S.C.R. 420 stated in paragraph 49 that:
+Marriage, as this Court held in Moge (at p. 870), is a "joint endeavour", a socio‑economic partnership.
+[18] In Moge v. Moge, [1992] 3 S.C.R. 813, Justice L'Heureux-Dubé also stated in paragraph 44 that “marriage is, among other things, an economic unit which generates financial benefits”.
+[19] There was no indication in this case that the economic interest of Sachindra Jain was any different from that of his spouse. Sachindra Jain stated that his wife knew about this Motion and that she consented to his acting on behalf of her corporation. As well the issue in the appeal for both companies is a claim for a scientific research and experimental development tax credit. It would not seem logical to have Sachindra Jain represent one company and to have his wife represent the other company as this would not result in an expeditious and efficient hearing process. The logical alternative would be for Sachindra Jain to represent both companies since the issue is the same for both companies, he has degrees in physics and engineering, he is the individual who is responsible for the research conducted by both companies and his spouse owns all of the shares of the other company. Since Sachindra Jain and his wife are a socio-economic partnership and an economic unit, it seems logical to allow him to represent her company as well as his.
+[20] As well, the financial information for the companies is not relevant. As noted by Justice Quinn, the financial information is not relevant for individuals who are allowed to represent themselves without counsel. If Sachindra Jain would have been carrying on business as a sole proprietor he could represent himself without the necessity of disclosing any of his financial information. So why should this information be relevant for closely held corporations that will be represented by their owners?
+[21] As a result, the Motions are granted and Sachindra Jain is entitled to represent both Soneil International Limited and Soneil Usha Inc. in these appeals. As the Appellants did not ask for costs in these Motions, no costs will be awarded. (Canada (Attorney General) v. Pascal, 2005 F.C.A. 31).
+[22] The Respondent shall have 60 days from the date of this Order to file a Reply.
+Signed at Halifax, Nova Scotia, this 17th day of March 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC148
+COURT FILE NO.: 2007-4786(IT)G and 2007-4787(IT)G
+STYLE OF CAUSE: SONEIL INTERNATIONAL LIMITED AND THE QUEEN and SONEIL USHA INC. AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 5, 2008
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER AND
+REASONSFOR ORDER: March 17, 2008
+APPEARANCES:
+Agent for the Appellants:
+Sachindra Jain
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

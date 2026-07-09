@@ -1,0 +1,96 @@
+Title: Aizenberg c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28403/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-19-28403-aizenberg-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-01-23
+
+# Aizenberg c. La Reine
+
+- Citation: 2008 CCI 19
+- Decision date: 2008-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1566, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aizenberg c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-23
+Référence neutre
+2008 CCI 19
+Numéro de dossier
+2007-3213(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI19
+Date : 20080123
+Dossier : 2007-3213(IT)I
+ENTRE :
+HYMAN M. AIZENBERG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : l’appelant lui-même
+Avocat de l’intimée : Me Simon-Nicolas Crépin
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+le 10 décembre 2007, à Montréal (Québec).)
+Le juge McArthur
+[1] Hyman Aizenberg interjette appel à l’encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de ses années d’imposition 2000, 2001, 2002, 2003 et 2004 en fonction de déclarations arbitraires produites et déposées en preuve par le ministre sous la cote R-1. L'appelant a répondu quelques temps plus tard avec les déclarations qu’il a lui‑même produites et déposées sous la cote R-2.
+[2] Le témoin appelé par l’intimée, Michel Lavigne, un agent des enquêtes à l'Agence du revenu du Canada (l’« ARC »), a expliqué que les cotisations arbitraires constituent une mesure de dernier recours qui n’est appliquée qu’après que toutes les mesures raisonnables visant à ce que l’appelant produise lui‑même ses déclarations ont été épuisées. La réponse à l’avis d’appel présente, au paragraphe 9, les hypothèses de fait formulées par le ministre, dont certaines sont énoncées ci‑dessous et font l’objet de commentaires.
+[traduction]
+a) L’appelant exploitait une entreprise de messagerie et de livraison;
+[3] Ceci soulève la question de savoir si l'appelant était un employé ou un entrepreneur indépendant. Compte tenu du témoignage de l’appelant et de sa demande de déduction de dépenses engagées à titre d'entrepreneur indépendant, je peux facilement conclure qu’il était un entrepreneur indépendant. De plus, une lettre de Richler & Tabasco, les comptables de l'appelant, déposée sous la cote A‑1, confirme que des frais de gestion ont été versés à l'appelant par sa société en 1998 et en 1999. Il se peut que l’appelant ait été un employé de sa propre société pendant ces années‑là, mais pendant les années en cause, il n’exploitait plus la société, et tout ce que nous avons entendu ce matin dans son témoignage me porte à conclure qu'il était un entrepreneur indépendant. Cependant, le témoignage était tellement flou que je ne peux pas dire ce que l’appelant faisait au juste, et rien ne vient prouver qu’il travaillait autrement que pour son propre compte.
+[4] De plus, le ministre a supposé que l'appelant exploitait l’entreprise à partir de son propre domicile. Comme aucune des parties n’a présenté de preuve à cet égard, je vais tenir pour acquis que c’était le cas.
+[traduction]
+c) Le ministre a établi les cotisations pour les années d’imposition en cause en fonction des éléments indiqués dans les feuillets de renseignements dont il disposait et a évalué les revenus d’entreprise pour ces mêmes années d’imposition en fonction du montant de la cotisation établie pour l’année précédant l’année d’imposition 2000. Les détails se trouvent à l’annexe A ci‑jointe;
+[5] Je crois que personne ne conteste le fait que l’appelant a reçu des dividendes ou des intérêts du Royal Canadian Money Market Fund s’élevant à 3 100 $, et, je crois, d’autres revenus. L’appelant a de toute façon convenu que cette partie de ses revenus s’élevait à environ 4 000 $, et ceci n’est pas contesté.
+[traduction]
+d) Dans le calcul des gains en capital imposables à l’égard de la disposition selon le feuillet de renseignements T5008 pour les années d'imposition 2001, 2002 et 2003, le ministre a admis comme prix de base la moitié du produit de la disposition indiqué sur les feuillets de renseignements;
+[6] Bien entendu, ceci était exigé par le paragraphe 67.1(1) de la Loi de l'impôt sur le revenu, et n'a pas été contesté par l'appelant.
+[traduction]
+e) Dans sa déclaration de revenus produite le 24 juillet 2006, l’appelant a déclaré les montants indiqués à l’annexe B pour les années d’imposition en cause.
+L'annexe B est une analyse des déclarations qui ont été enfin produites par l'appelant, après maintes demandes et après l’établissement de cotisations arbitraires. Ces déclarations ont été déposées sous la cote R‑2. Je vais seulement traiter de l'année d'imposition 2000 pour laquelle le ministre a indiqué un revenu imposable de 28 000 $ et l'appelant a déclaré des pertes de 12 000 $. L’écart est d’environ 40 000 $, et la tendance se poursuit d’une année à l’autre. Pour l’année 2001, le ministre a indiqué un revenu net de 38 000 $ et l'appelant a déclaré un revenu net de 9 900 $. Ces montants divergents me portent à remettre en question les cotisations arbitraires établies par le ministre.
+[7] L’intimée a renvoyé aux années antérieures, soit 1998 et 1999, pour lesquelles l’appelant avait produit des déclarations et déclaré des revenus d’environ 17 000 $. En fonction de ce montant, le ministre a conclu que les revenus de l’appelant pour les années visées étaient de 24 000 $, de 26 000 $ et ainsi de suite, avec un accroissement pour chacune des années en cause. Le ministre a fait du mieux qu'il pouvait compte tenu de ce dont disposaient ses représentants et ses agents et en est arrivé à ces montants arbitraires.
+[8] La question des dépenses me dérange. Il ne fait aucun doute, et je crois que tout le monde est du même avis, qu’un montant de dépenses pourrait, de façon réaliste, être déduit des montants de revenus établis arbitrairement. Toutefois, aucun montant n'avait été déduit parce que l'appelant avait été peu coopératif pour ce qui était de présenter ses dépenses. À ce qu’il paraît, il avait des boîtes de reçus, mais a demandé au ministre l’autorisation de présenter ces boîtes une année à la fois pour que le ministre puisse faire des photocopies des factures et des reçus et ensuite lui rendre sa boîte, probablement pendant qu’il attendrait. Bien sûr, cela lui a été refusé et les factures n’ont jamais été examinées.
+[9] À mon avis, l’appelant est une personne honnête et émotive qui a vécu des moments difficiles, notamment en 2002 et en 2003. En effet, il éprouvait des problèmes de santé et sa mère, avec qui il habitait à cette époque, est décédée.
+[10] Le calcul du ministre était assez rudimentaire parce qu’il s’agissait d’une mesure de dernier recours, étant donné que l’appelant n’avait pas produit de déclarations depuis des années. Toutes les mesures raisonnables ont été prises pour que l’appelant produise ses déclarations, mais il ne l’a pas fait avant juillet 2006. Les déclarations produites par l’appelant n’ont pas été acceptées, du moins, le ministre n’a pas accepté les montants déclarés. Le principal souci concernait les dépenses que l’appelant avait indiquées dans sa version des déclarations. Par exemple, pour l’année 2000, il a déclaré des dépenses de 17 192 $ à titre de frais financiers et d’intérêts puis, à la page suivante de la déclaration, il a déclaré le même montant, soit 17 192 $, à titre de créances irrécouvrables. Ce montant est plus élevé que les revenus d’entreprise de 8 234 $ qu’il a déclarés et le montant de 4 000 $ des fonds obtenus du Market Fund de la Banque Royale.
+[11] Je suis dans une position difficile où je dois rendre une décision en tenant compte du fait que les cotisations établies par le ministre étaient arbitraires et relevaient de la conjecture fondée sur les renseignements dont disposait le ministre et sur les déclarations de l’appelant que le ministre jugeait inacceptables. De plus, je peux souligner que l'appelant a établi une liste des frais financiers et des frais d'intérêts (pièce R‑3) qu’un autre témoin de l'intimée, Mme Thiffault, une agente des appels, a jugé incompréhensible et non appuyée parce qu’il n’y avait pas de reçus, pas de distinction entre les dépenses d’entreprise et les dépenses personnelles, et aucune indication de la façon dont les dépenses figurant sur les formulaires électroniques avaient été engagées en vue de gagner un revenu.
+[12] Pour conclure, j'accepte les revenus qui ont été établis par le ministre, mais à l’égard de ces revenus, je suis prêt à accorder arbitrairement à l'appelant la déduction de dépenses de 12 000 $ pour contrebalancer les revenus. Ce montant sera augmenté de 1 500 $ par année pour chacune des années suivantes. Ainsi, les dépenses de 2001 seront de 13 500 $, celles de 2002 seront de 15 000 $, celles de 2003 seront de 16 500 $, et celles de 2004 seront de 18 000 $.
+[13] Les montants des revenus établis par le ministre et figurant à l'annexe A de la réponse à l'avis d'appel demeurent les mêmes, mais l’appelant doit déduire de ces montants les dépenses indiquées ci‑dessus.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 4e jour de février 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2008CCI19
+N° DE DOSSIER : 2007-3213(IT)I
+INTITULÉ : HYMAN M. AIZENBERG et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 10 décembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 21 décembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

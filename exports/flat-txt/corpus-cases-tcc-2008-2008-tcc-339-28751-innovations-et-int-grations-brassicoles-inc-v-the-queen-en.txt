@@ -1,0 +1,140 @@
+Title: Innovations et intégrations brassicoles Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28751/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-339-28751-innovations-et-int-grations-brassicoles-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-03
+
+# Innovations et intégrations brassicoles Inc. v. The Queen
+
+- Citation: 2008 TCC 339
+- Decision date: 2008-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1538, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Innovations et intégrations brassicoles Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-03
+Neutral citation
+2008 TCC 339
+File numbers
+2007-3271(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3271(IT)I
+BETWEEN:
+INNOVATIONS ET INTÉGRATIONS BRASSICOLES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on March 12, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Jean-François Blais
+Counsel for the Respondent:
+Philippe Dupuis
+__________________________________________________________________
+JUDGMENT
+The notice of appeal from the assessment made under the Income Tax Act for the 2001 taxation year is quashed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of July 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 8th day of August 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC339
+Date: 20080703
+Docket: 2007-3271(IT)I
+BETWEEN:
+INNOVATIONS ET INTÉGRATIONS BRASSICOLES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is a rather unusual appeal in that the Appellant was already successful under a judgment rendered on October 25, 2005, and amended on December, 1, 2005, by the Honourable Justice Bédard of this Court.
+[2] Upon enforcing the judgment (Docket 2004‑2805(IT)I) pertaining to the reassessment dated December 9, 2003, in respect of the 2001 taxation year, the Appellant realized that it was being penalized to the extent of $7,000 because the matter had been heard under the Informal Procedure instead of the General Procedure.
+[3] The instant appeal pertains essentially to the $7,000 that the Appellant was unable to recover under the first judgment.
+[4] The parties to the litigation are the same, as are the nature and purpose of the litigation. The judgment rendered on October 25, 2005, and amended on December 1, 2005, was the outcome of a dispute regarding scientific research and experimental development expenses. The Honourable Justice Paul Bédard accepted the Appellant's arguments and allowed its appeal.
+[5] The matter in question was heard under the Informal Procedure contemplated in section 17 of the Tax Court of Canada Rules (Informal Procedure).
+[6] Under that provision, the amount in issue cannot exceed the $12,000 limit. Above that limit, the matter is subject to the General Procedure. In the case at bar, the matter was handled under the Informal Procedure.
+[7] The distinction between the two types of procedure is not trifling in any respect, nor is it without consequences. The differences can be seen not only in the costs, but also, inter alia, in the rules of evidence, which are stricter under the General Procedure than they are under the Informal Procedure.
+[8] Generally, the parties are informed about the limit and the differences between the two procedural schemes, especially when the amount in issue is close to the threshold.
+[9] In fact, in the case at bar, the issue was first raised by the Respondent further to the Appellant's Notice of Appeal, was referred to again in the Reply to the Notice of Appeal, and was cited at the beginning of the hearing before the Honourable Justice Bédard.
+[10] Despite the issue being raised, the matter was never changed over to the General Procedure. The Appellant pleads ignorance, claiming that it would have requested the change if it had obtained all the information needed to make an informed choice.
+[11] Firstly, ignorance is not an excuse, and secondly, the Appellant's agent, a person who has no trouble expressing himself, and who was clearly able to understand and, more importantly, assess and analyze the situation, did not intervene — a fact that could certainly be interpreted as a tacit acceptance of the status quo.
+[12] In other words, the agent for the Appellant might, and I am only saying that he might, have assessed the situation and played the ignorance card on the basis that a loss under the Informal Procedure would have been less onerous with respect to costs, its chances of recovering the full amount in issue in the reverse scenario being equally possible, or even equally probable. Unfortunately for the Appellant, the Respondent refused to grant it the full amount in issue. These remarks obviously have no effect on the instant matter.
+[13] Coming back to the issue at hand, it is clear that the matter should have proceeded under the General Procedure. Who is to blame for this poor choice, or this mistake?
+[14] The question is moot at this level because, unfortunately, judgments are sometimes rendered without basis in law, or on the basis of irrelevant provisions, even though the Court is required to comply with and apply legal rules provided they have not been challenged on the grounds of unconstitutionality or Charter violations.
+[15] The role of the courts is not to make laws, but essentially to apply and comply with the laws enacted by Parliament.
+[16] First of all, a court of first instance renders a decision, and then, at the initiative of one or both of the parties, an appellate court can be seized of the matter. In fact, that is the reason for the existence of appellate courts, whose mandate is, among other things, to quash or vary decisions of the lower courts, or even order a new trial, where the decision at first instance is found to be invalid.
+[17] In the case at bar, the Appellant did not bring an appeal from the judgment within 30 days after December 1, 2005, the date on which the amended judgment was pronounced.
+[18] A party that feels aggrieved after the Court has disposed of a matter and has rendered a judgment has access to a certain number of remedies.
+[19] First of all, the party can take measures to have one or more patent errors, which have no effect on the substance of the judgment, corrected; in fact, the judgment was amended on December 1, 2005, at the Appellant's request.
+[20] Under certain circumstances, and subject to specific conditions, a party may ask that a matter be reopened, especially where new evidence is discovered after the trial and the affected party is above reproach.
+[21] However, the principle of res judicata clearly states that once a matter has been decided, it cannot be decided a second time. The Federal Court of Appeal recently spoke to this point in Armstrong[1]:
+The right of appeal in subsection 169(2) does not displace or diminish the doctrine of res judicata. It was established in Canada v. Chevron Canada Resources Ltd. (1998), [1999] 1 F.C. 349 (Fed. C.A.) that the doctrine of res judicata applies to income tax appeals, notwithstanding the limited right to appeal an assessment following the conclusion of such an appeal. The Tax Court judge was correct to say that Mr. Armstrong should have raised the issue of the 1993 rental losses before the conclusion of his Tax Court appeals for 1991 and 1993. The doctrine of res judicata justified quashing the appeals for both years.
+[22] In fact, the Court held as follows in Grenier[2] with respect to an omission or error that does not warrant the withdrawal of a judgment:
+[W]ithdrawal is an exception to the fundamental rule that judgments are irrevocable, an essential part of the effective administration of justice: a case which has already been decided may be reopened only for persuasive and clearly established reasons; the proceeding and the resulting judgment contribute to protection of the rights of both parties; this is why calling judgments into question remains the exception; an argument dismissed for lack of evidence or after argument and counter-argument in accordance with the settled rules does not meet the requirements for withdrawal; the same is true of an error or omission by a party (see Saywack v. Canada (Minister of Employment and Immigration), [1986] 3 F.C. 189 (C.A.); Rostamian v. Canada (Minister of Employment and Immigration), [1991] F.C.J. No. 525 (F.C.A.) (QL) . . .
+[23] In the case at bar, these remedies were inappropriate given the conditions that must be met in order for them to be available.
+[24] If the Court were to allow the Appellant's appeal, it would be allowing an appeal from a judgment that has already been rendered. Obviously, the Court does not have jurisdiction to do so.
+[25] The decision in Breslaw limits the ability of a judge to "review the merits of a decision of a judge of coordinate jurisdiction . . . . As a result, any proceeding to impeach or set aside an order of the Tax Court of Canada must be taken in the Federal Court of Appeal."[3]
+[26] In light of the facts, the only possible avenue was, quite simply, an appeal to the Federal Court of Appeal.
+[27] In other words, the Appellant would have had to appeal from the judgment within the mandatory time for bringing an appeal.
+[28] Indeed, the appeal to the Federal Court of Appeal was the Appellant's only solution. However, that remedy would have needed to be exercised within 30 days after the pronouncement of the amended judgment on December 1, 2005.
+[29] The relevant provisions of the Federal Courts Act are as follows:
+27 (1.2) An appeal lies to the Federal Court of Appeal from a final judgment of the Tax Court of Canada in respect of which section 18, 18.29, 18.3 or 18.3001 of the Tax Court of Canada Act applies.
+(1.3) The only grounds for an appeal under subsection (1.2) are that the Tax Court of Canada
+(a) acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction;
+(b) failed to observe a principle of natural justice, procedural fairness or other procedure that it was required by law to observe;
+(c) erred in law in making a decision or an order, whether or not the error appears on the face of the record;
+(d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it;
+(e) acted, or failed to act, by reason of fraud or perjured evidence; or
+(f) acted in any other way that was contrary to law.
+(2) An appeal under this section shall be brought by filing a notice of appeal in the Registry of the Federal Court of Appeal
+(a) in the case of an interlocutory judgment, within 10 days after the pronouncement of the judgment or within any further time that a judge of the Federal Court of Appeal may fix or allow before or after the end of those 10 days; and
+(b) in any other case, within 30 days, not including any days in July and August, after the pronouncement of the judgment or determination appealed from or within any further time that a judge of the Federal Court of Appeal may fix or allow before or after the end of those 30 days.[4]
+[30] The Appellant cannot, today, indirectly do what it should have done within the time allotted by the Act. Consequently, the Notice of Appeal is quashed.
+Signed at Ottawa, Canada, this 3rd day of July 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 8th day of August 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC339
+COURT FILE NO.: 2007-3271(IT)I
+STYLE OF CAUSE: Innovations et intégrations brassicoles Inc.
+and Her Majesty the Queen
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 3, 2008
+APPEARANCES:
+Agent for the Appellant:
+Jean-François Blais
+Counsel for the Respondent:
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Armstrong v. Canada, 2006 CarswellNat 2864, 2006 FCA 119, 2006 D.T.C. 6310 (Eng.), [2006] 3 C.T.C. 243, 2006 FCA 119, 350 N.R. 84, at paragraph 28.
+[2] Grenier v. Canada, 2008 FCA 63, at paragraph 6.
+[3] Breslaw v. Canada, 2005 FCA 355, at paragraph 30.
+[4] Federal Courts Act, R.S.C.1985, c. F-7.

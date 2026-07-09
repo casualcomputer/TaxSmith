@@ -1,0 +1,261 @@
+---
+title: "Howdle v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25999/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 354"
+citation2: ""
+neutral_citation: "2003 CCI 354"
+decision_date: "2003-05-20"
+language: "fr"
+item_id: "25999"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3732
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:09:29.990000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b1edfdf8edee81113032cbc0a866abe99723fff0f7854caf7b8a1f431214c48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Howdle v. The Queen
+
+- Citation: 2003 CCI 354
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3732, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Howdle v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-20
+Référence neutre
+2003 CCI 354
+Numéro de dossier
+2002-4789(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-4789(IT)I
+ENTRE :
+KENNETH RONALD HOWDLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 mai 2003 à Saskatoon (Saskatchewan).
+Devant : l'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant en personne
+Avocate de l'intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Les dépens au montant de 100 $ sont adjugés à l'appelant.
+Signé à Ottawa, Canada, le 20 mai 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 30e jour de mars 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI354
+Date: 20030520
+Dossier: 2002-4789(IT)I
+ENTRE :
+KENNETH RONALD HOWDLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été entendu à Saskatoon (Saskatchewan), le 12 mai 2003. L'appelant était le seul témoin.
+[2] Les paragraphes 5 à 10 inclusivement de la réponse à l'avis d'appel se lisent comme suit :
+[TRADUCTION]
+5. Dans le calcul de son revenu pour l'année d'imposition 2000, l'appelant a effectué ceci :
+(a) il a déduit le montant de 2 400 $ à titre de pension alimentaire pour son ex-conjointe, Amy Howdle ( « Amy » );
+(b) il a déduit, dans le calcul de ses crédits d'impôt non remboursables et de son impôt à payer, le montant de 6 140 $ à l'égard d'une personne entièrement à sa charge, nommément son fils Kenneth Howdle Jr.
+6. Par le biais d'un avis de nouvelle cotisation daté du 20 novembre 2001, le ministre du Revenu national (le « ministre » ) a refusé le montant de pension alimentaire ainsi que la déduction relative à la personne entièrement à charge.
+7. L'appelant a déposé un avis d'opposition à la nouvelle cotisation, lequel a été reçu le 30 avril 2002.
+8. Le ministre a ratifié la nouvelle cotisation par le biais d'un avis de ratification daté du 20 septembre 2002.
+9. Dans sa cotisation relative à l'appelant, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+(a) l'appelant s'est séparé d'Amy le 1er mai 1998;
+(b) les trois enfants (les « enfants » ) issus du mariage sont :
+Gregory James, né le 20 avril 1985;
+Kenneth Ronald Jr., né le 10 octobre 1982;
+Christine Amy, née le 2 avril 1981;
+(c) par entente écrite datée du 1er mai 1998 (la « première entente » ), il a été convenu que l'appelant verserait à Amy le montant de 600 $ par mois (200 $ par enfant) à titre de pension alimentaire pour enfants, ainsi que 400 $ par mois à titre de pension alimentaire pour conjoint (la « pension pour conjoint » );
+(d) par entente écrite datée du 28 janvier 2000 et signée le 10 février 2000 (la « deuxième entente » ), l'appelant a convenu :
+(i) à la vente de la maison, de continuer à verser à Amy 600 $ par mois (300 $ par enfant) à titre de pension alimentaire pour enfants à l'égard de Kenneth Jr. et de Gregory;
+(ii) dès le 1er novembre 2000, de verser à Amy 300 $ par mois à titre de pension alimentaire pour enfant à l'égard de Gregory, et ce, jusqu'au 1er mai 2003;
+(e) la maison mentionnée au paragraphe (d) ci-dessus a été vendue en mai 2000;
+(f) en vertu du jugement de divorce daté du 6 novembre 2000 (le « jugement de divorce » ), l'appelant est tenu de verser à Amy le montant de 158 $ par mois à titre de pension alimentaire pour enfant à l'égard de Gregory à compter du 1er octobre 2000, ladite pension étant payable le premier jour de chaque mois tant que l'enfant reste un enfant au sens de la Loi sur le divorce;
+(g) pendant l'année d'imposition 2000, l'appelant a effectué des versements de pension alimentaire totalisant 5 511 $ à Amy en vertu de la première entente, de la deuxième entente et du jugement de divorce, comme suit :
+Mois
+Montant payé
+Janvier 2000
+1 000 $
+Février 2000
+1 000
+Mars 2000
+1 000
+Avril 2000
+1 000
+Mai 2000
+340
+Septembre 2000
+539
+Le 31 octobre 2000
+158
+Le 1er novembre 2000
+158
+Le 15 novembre 2000
+158
+Le 1er décembre 2000
+158
+TOTAL
+5 511 $
+(h) l'appelant devait effectuer des versements de pension alimentaire pour enfant totalisant 5 874 $ au cours de l'année d'imposition 2000, comme suit :
+Mois
+Montant à payer
+Janvier
+600 $
+Février
+600
+Mars
+600
+Avril
+600
+Mai
+600
+Juin
+600
+Juillet
+600
+Août
+600
+Septembre
+600
+Octobre
+158
+Novembre
+158
+Décembre
+158
+TOTAL
+5 874 $
+(i) l'appelant devait effectuer des versements de pension alimentaire pour conjoint totalisant 2 000 $ au cours de l'année d'imposition 2000, comme suit :
+Mois
+Montant à payer
+Janvier
+400 $
+Février
+400 $
+Mars
+400 $
+Avril
+400 $
+Mai
+400 $
+TOTAL
+2 000 $
+(j) les versements de pension alimentaire pour enfant devant être payés par l'appelant au cours de l'année d'imposition 2000 sont en souffrance;
+(k) l'appelant vivait séparé d'Amy au moment où les versements ont été effectués et pendant le reste de l'année; et
+(l) l'appelant devait verser des montants de pension alimentaire à l'égard d'Amy et des enfants pendant l'année d'imposition 2000.
+B. QUESTIONS EN LITIGE
+10. Ces questions sont les suivantes :
+(a) si l'appelant est admissible à la déduction d'un montant de pension alimentaire pour conjoint à l'égard d'Amy pour l'année d'imposition 2000; et
+(b) si l'appelant est admissible à la déduction d'un montant pour personne entièrement à charge à l'égard de Kenneth Jr. en vertu de l'alinéa 118(1)b) de la Loi dans le calcul de ses crédits d'impôt non remboursables pour l'année d'imposition 2000.
+[3] Toutes ces hypothèses, à l'exception de 9 (g) et 9 (j), soit n'ont pas été réfutées, soit ont été confirmées par la preuve. En particulier, la Cour prête foi au témoignage de l'appelant relativement aux reçus et n'accepte pas les références à l' « hypothèque » , et cetera, qui lui ont été présentées par Mme Howdle. Tous les versements correspondaient à des montants de pension alimentaire ou à des avances sur des montants à payer ultérieurement, selon les calculs ci-dessous.
+[4] En ce qui concerne les hypothèses 9 (g) et (j), la Cour émet les conclusions suivantes :
+1. Du mois de janvier au mois d'avril inclusivement, les hypothèses sont confirmées par la preuve.
+2. À partir du mois de mai inclusivement, la Cour conclut comme suit :
+(i)
+Versements effectués par l'appelant du 1er janvier au 1er mars inclusivement et devant, avec l'accord de l'ex-conjointe, être appliqués à des mois ultérieurs
+3 000 $
+(ii)
+Moins le montant suivant appliqué au mois de mai selon la présomption
+-1 000 $
+Solde
+2 000 $
+(iii)
+À payer à titre de pension alimentaire pour enfant, selon les hypothèses, du 1er juin au 1er septembre inclusivement
+2 400 $
+Moins l'excédent antérieur
+-2 000 $
+Solde (négatif)
+-400 $
+(iv)
+Versement « de bonne foi » du mois de septembre (voir la pièce R-2)
+Moins le solde (négatif)
+539 $
+-400 $
+Solde excédentaire
+139 $
+(v)
+Montants à payer à l'égard de Gregory en vertu du jugement du 6 novembre 2000 les 1er octobre, 1er novembre et 1er décembre
+(158 x 3)
+$474 $
+(vi)
+Versé en octobre, novembre et décembre
+(4 x 158)
+632 $
+(vii)
+Aux paragraphes (iv) et (vi)
+Payé
+139 $
++632 $
+771 $
+771 $
+À payer (paragraphe v)
+474 $
+Excédent versé
+294 $
+[5] Il n'existe aucune preuve quant à la source du versement de 340 $ en mai 2000, décrit à l'hypothèse (g), et on n'en a donc pas tenu compte dans les calculs ci-dessus.
+[6] Par conséquent, le montant total à payer qui a été versé par l'appelant en 2000 s'établit comme suit :
+1. Pension alimentaire pour conjoint 2 000 $
+2. Pension alimentaire pour enfant
+de janvier à mai 3 000
+du 1er juin au 1er septembre
+2 400
+(surplus de 139 $)
+du 1er octobre au 1er décembre (158 x 3) 474
+5 874 $
+Montant admissible et admis à l'appel 7 874 $
+[7] L'appelant ne peut faire état de Kenneth Jr. en tant que personne entièrement à charge en 2000, car il a reconnu qu'il vivait en union libre avec quelqu'un quand Kenneth Jr. a emménagé avec lui en octobre 2000.
+[8] L'appel est admis selon les conditions décrites au paragraphe [6], et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément à ces motifs. L'appelant se voit adjuger ses dépens pour les frais de photocopie, de poste, et ainsi de suite, à l'égard du présent appel, lesquels sont fixés à 100 $.
+Signé à Ottawa, Canada, le 20 mai 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 30e jour de mars 2005.
+Mario Lagacé, réviseur

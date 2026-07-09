@@ -1,0 +1,158 @@
+Title: Elash v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25329/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-562-25329-elash-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-08-13
+
+# Elash v. The Queen
+
+- Citation: 2003 TCC 562
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2408, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elash v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-13
+Neutral citation
+2003 TCC 562
+File numbers
+2000-3705(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-3705(IT)G
+BETWEEN:
+JOHANNA ELASH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 2, 2003 at Saskatoon, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Catherine A. Sloan
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995, 1996 and 1997 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Regina, Saskatchewan this 13th day of August 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC562
+Date: 20030813
+Docket: 2000-3705(IT)G
+BETWEEN:
+JOHANNA ELASH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Saskatoon, Saskatchewan on July 2, 2003. The Appellant was the only witness.
+[2] Paragraphs 4 to 11 inclusive of the Reply to the Notice of Appeal read:
+4. The Minister of National Revenue (the "Minister") initially assessed the Appellant by Notice of Assessment dated August 19, 1998 pursuant to subsection 160(1) of the Income Tax Act ("ITA") in the amount of $100,419.27 in respect of transfers of property and cash from Larry Machula ("Machula") to the Appellant between May 1995 and November 1997 ("the period").
+5. By Notice of Objection dated November 16, 1998 the Appellant objected to the subsection 160(1) ITA assessment.
+6. By Notice of Reassessment dated May 25, 2000 the Minister revised the subsection 160(1) ITA assessment and confirmed the assessment in the amount of $70,857.65.
+7. By Notice of Appeal dated August 23, 2000 the Appellant appealed from the Notice of Reassessment.
+8. In so reassessing the Appellant, the Minister relied on the following assumptions of fact:
+a) The facts admitted above are true;
+b) On or about May 7, 1992 Machula was liable to the Department of National Revenue, currently the Canada Customs and Revenue Agency, for outstanding income tax, penalty and interest in the amount of $432,873.43;
+c) On or about May 1, 1996 Machula was liable to the Department of National Revenue, currently the Canada Customs and Revenue Agency, for outstanding income tax, penalty and interest in the amount of $174,066.76;
+d) The Appellant and Machula have lived in a common law relationship since early 1995;
+e) The Appellant and Machula are the parents of three children born as a result of the Appellant and Machula's common law relationship;
+f) On or about May 1, 1996 a 1996 Lexus CS300 automobile ("the Lexus") was purchased from Ens Lexus Toyota and registered in the Appellant's name for a net purchase price of $62,606.90;
+g) The sales contract for the purchase of the Lexus included the following:
+Net Price
+$62,606.90
+Less trade-in
+(25,233.64)
+Net difference
+$37,373.26
+PST
+5,634.62
+GST
+2,616.13
+Total Due
+$45,624.01
+h) Machula made an initial payment in the amount of $25,000 for the purchase of the Lexus;
+i) Machula made a payment upon delivery of the Lexus in the amount of $20,624.01;
+j) The vehicle used as a trade-in for the purchase of the Lexus was a 1992 Lexus ES300 ("the 1992 Lexus") that was registered in the Appellant's name;
+k) Machula provided the funds for the purchase of the 1992 Lexus;
+l) The 1992 Lexus and the Lexus are luxury vehicles;
+m) A luxury vehicle such as a Lexus is not necessary for use as a family vehicle;
+n) The Appellant provided no consideration for the purchase of the 1992 Lexus;
+o) The Appellant provided no consideration for the purchase of the Lexus;
+p) The Appellant was the spouse of Machula at the time of the transfer of the cash and property for the purchase of the Lexus or has since become the spouse of Machula, for the purpose of subsection 160(1) ITA;
+q) The Appellant and Machula were not dealing with each other at arm's length at the time of the transfer of the cash and property for the purchase of the Lexus, for the purpose of subsection 160(1) ITA;
+r) The fair market value of the Lexus at the time of its purchase was at least $70,857.65, including GST and PST; and
+s) Machula was liable to pay the amount of at least $70,857.65 under the ITA at the time of the transfer of the cash and property for the purchase of the Lexus, for the purpose of subsection 160(1) ITA.
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant is liable for transfers of property and cash from Larry Machula to her in respect of the purchase of a 1996 Lexus CS300 vehicle on or about May 1, 1996.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+10. He relies on subsection 160(1) and sections 251 and 252 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended ("ITA").
+11. He respectfully submits that Appellant is liable under subsection 160(1) ITA for the transfers of property and cash in respect of the purchase of the Lexus in the amount of $70.857.65.
+[3] None of the assumptions except subparagraph 8 n) and o) were refuted.
+[4] The original Notice of Assessment dated August 19, 1998 for $100,419.27 was reduced by Notice of Reassessment dated May 25, 2000 to $70,857.65 after the Appellant filed a Notice of Objection (Exhibit R-1) stating that Mr. Machula paid the Appellant $23,561.62 as "contributions toward the charges of the house and family".
+[5] Paragraph 4 of the Reply describes the August 19, 1998 Notice of Assessment to be the result of "transfers of property and cash from Larry Machula ("Machula") to the Appellant between May 1995 and November 1997 (the "period"). However, the 1992 Lexus was given to the Appellant, in her name, in 1992 (Exhibit A-1). The Appellant testified that Mr. Machula traded it in on the Lexus in 1996. Nonetheless, the value of the trade-in of the 1992 Lexus was not a transfer of property and cash in "the period". For this reason the value of the trade-in, $25,233.64, was not a transfer from Mr. Machula in the period. The appeal is therefore allowed respecting the sum of $25,233.64.
+[6] With respect to the remaining $45,624.01, Appellant's counsel made two arguments:
+1. There was no consideration transferred from Mr. Machula to the Appellant because, according to the Guidelines issued pursuant to the Supreme Court of Canada decision respecting family support, it can be assumed from the amount of taxes allegedly owed by Mr. Machula, that he would have been required to pay about $124,000 in support to the Appellant. However the Court finds that there is no evidence of Mr. Machula's income and, further, Ms. Elash never required Mr. Machula to pay support. As a result there is no foundation whereby the Appellant's counsel's argument can be upheld.
+2. Did Mr. Machula owe tax in 1996 and, if so, was the transfer to Ms. Elash part of an avoidance scheme? The Court accepts assumption 8 c), that Mr. Machula was liable for taxes, penalty and interest of $174,066.76 on May 1, 1996 when the Lexus was purchased. On this basis, it is not necessary that the transfer of the $45,624.01 to the Appellant was to avoid paying the taxes. The transfer, by itself, is sufficient to create "liability", and the appeal is dismissed respecting the $45,624.01.
+[7] Therefore, the Court finds that assumption 8 n) is irrelevant for the purposes of the assessment in question. Assumption 8 o) is correct respecting the sum of $45,624.01. The $25,233.64 trade-in value was the property of the Appellant and by accepting the Lexus, she authorized the trade-in of the 1992 Lexus.
+[8] The appeal is allowed and this matter is referred to the Minister of National Revenue for reconsideration and reassessment pursuant to these reasons.
+[9] The Appellant was represented by counsel at the hearing whose address is:
+McKercher, McKercher & Whitmore
+Barristers and Solicitors
+374 - Third Avenue South
+Saskatoon, Saskatchewan
+S7K 1M5
+Tel: (306) 653-2000
+Fax: (306) 244-7335
+Attention: Catherine A. Sloan
+[10] There is no order respecting costs.
+Signed at Regina, Saskatchewan, this 13th day of August 2003.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC562
+COURT FILE NO.:
+2000-3705(IT)G
+STYLE OF CAUSE:
+Johanna Elash v. Her Majesty the Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+July 2, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+August 13, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Catherine A. Sloan
+Counsel for the Respondent:
+Tracey Telford
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Catherine A. Sloan
+Firm:
+McKercher, McKercher & Whitmore
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

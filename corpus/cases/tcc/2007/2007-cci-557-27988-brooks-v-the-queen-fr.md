@@ -1,0 +1,212 @@
+---
+title: "Brooks v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27988/index.do"
+last_modified: "2007-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 557"
+citation2: ""
+neutral_citation: "2007 CCI 557"
+decision_date: "2007-09-12"
+language: "fr"
+item_id: "27988"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1770
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:18:14.439000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e0ed6367749755d36fe816f429ad01e119865e9a874ff648fca37933b6cdbb6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brooks v. The Queen
+
+- Citation: 2007 CCI 557
+- Decision date: 2007-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1770, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brooks v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-12
+Référence neutre
+2007 CCI 557
+Numéro de dossier
+2006-853(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-853(IT)I
+ENTRE :
+JOHN G. BROOKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 septembre 2007 à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelant :
+Révérend Sir David Brooks
+Avocat de l’intimée :
+Laurent Bartleman
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 de l’appelant sont rejetés, sans frais.
+Signé à Halifax (Nouvelle-Écosse), ce 20 septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 2e octobre 2007.
+Mylène Borduas, traductrice
+Référence : 2007CCI557
+Date : 20070920
+Dossier : 2006-853(IT)I
+ENTRE :
+JOHN G. BROOKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige est de savoir si l’appelant disposait d’une source de revenu dont il pouvait déduire certaines dépenses en 2002, 2003 et 2004. Dans son avis d’appel, l’appelant a indiqué qu’il y avait une question distincte à propos de certaines dépenses de location dont la déduction avait été demandée. Toutefois, au début de l’audience, il a été confirmé que l’appelant ne poursuivait pas son appel relativement aux dépenses de location. Les seuls éléments présentés devant la Cour se rapportaient aux pertes d’entreprise qui avaient été déclarées en 2002, 2003 et 2004.
+[2] L’appelant avait une certaine expérience dans le domaine des affaires au début des années 1990 alors qu’il était conducteur pour un vendeur de pièces automobiles. Il ne s’agit pas de l’entreprise visée par le présent appel, mais elle illustre l’expérience antérieure de l’appelant dans le domaine des affaires.
+[3] Les activités pour lesquelles l’appelant demande la déduction des dépenses visées par l’appel ont commencé en 1999. L’appelant estimait qu’il pouvait faire de l’argent en achetant des Beanie Babies sur E-Bay et en les revendant plus tard en vue de réaliser un profit. Il était entendu dans l’esprit de l’appelant que l’entreprise qui faisait les Beanie Babies allait arrêter la production, ce qui entraînerait une augmentation de la demande. Or, l’entreprise a décidé de lancer une ligne distincte de Beanie Babies qui a effectivement inondé le marché et provoqué une baisse des prix. Pendant que l’appelant exerçait cette activité, il a acquis jusqu’à 2 500 Beanie Babies. Le frère de l’appelant habitait avec lui et l’a grandement aidé à exécuter ces activités ainsi que celles décrites ci-dessous.
+[4] L’appelant a aussi acheté d’autres articles sur E-Bay qu’il croyait pouvoir vendre à profit, notamment des souvenirs d’une équipe de soccer dont il était partisan, des souvenirs de la Marine royale ayant trait au porte-avion sur lequel son frère a servi dans la Marine, des cassettes en format VHS de différents spectacles, un modèle réduit d’avion, et d’autres articles qu’il pensait être des articles de collectionneurs pouvant être vendus à profit. La liste des achats incluait également des articles qui n’étaient pas destinés à la vente tels qu’une antenne parabolique orientable, des disques compacts, un disque RAM pour DVD et des cartes vidéos. Même si les activités ont débuté en 1999, l’appelant n’a pas, à la date de l’audience, vendu un seul article. Comme les articles occupaient une bonne partie de sa maison, l’appelant a décidé de les entreposer, mais n’ayant pas payé les frais d’entreposage, ses articles se trouvent toujours à l’entrepôt et il ne peut les récupérer sans payer les frais en retard.
+[5] Les pertes d’entreprise qui sont été déclarées pour chaque année d’imposition visée par l’appel sont résumées à l’annexe A de la réponse de la façon suivante :
+Dépenses
+2002
+2003
+2004
+Stock d’ouverture
+0
+0
+9 269 $
+Achats
+8 356 $
+9 269 $
+9 302 $
+Frais de livraison et de transport
+0
+644 $
+1 525 $
+Impôts, licence, frais, droits
+0
+261 $
+0
+Frais de services publics
+0
+1 050 $
+5 022 $
+Frais de bureau
+632 $
+0
+0
+Déductions pour amortissement
+919 $
+643 $
+450 $
+Dépenses publicitaires
+888 $
+2 337 $
+5 960 $
+Frais de gestion et d’administration
+0
+0
+206 $
+Autres dépenses d’entreprise
+0
+0
+799 $
+Totaux
+10 795 $
+14 204 $
+32 533 $
+[6] L’élément le plus frappant des dépenses déclarées concerne les achats et l’inventaire. Même si aucun article n’a été vendu par l’appelant, la totalité de la somme dépensée pour les achats a été déduite en 2002 et 2003. En 2004, non seulement la totalité de la somme dépensée pour les achats faits en 2004 a été déduite, mais la somme dépensée pour les achats de 2003 l’a été une deuxième fois en 2004. Au cours de ces années, il n’a pas comptabilisé le stock de clôture. L’appelant a affirmé qu’il aurait fallu trop de temps pour faire une évaluation du stock de clôture à quelque moment que ce soit, alors aucune évaluation n’a été effectuée. À supposer que des articles aient été vendus, le coût des marchandises vendues serait déterminé de la façon suivante : stock d’ouverture + achats – stock de clôture = coût des marchandises vendues.
+[7] En n’effectuant pas une retenue pour le stock de clôture, l’appelant a clairement surestimé les dépenses et, en 2004, en présentant 9 269 $ comme stock d’ouverture (dont le coût avait été déduit en entier en 2003), il a déclaré ce montant à deux reprises.
+[8] La preuve relativement aux activités montre que l’appelant essayait au départ de tirer profit de l’engouement de la fin des années 1990 pour les Beanie Babies. Il y a très peu d’éléments de preuve démontrant que l’appelant avait mené une étude de marché et ses efforts pour vendre les articles en stock ont été négligeables. Il a indiqué qu’il avait tenté d’en vendre quelques-uns sur E-Bay, mais qu’il a perdu son compte avec E-Bay parce que différentes personnes avaient déposé des plaintes relatives à ses habitudes de paiement.
+[9] L’appelant a aussi déclaré qu’il avait élaboré des sites Web afin d’essayer de vendre son stock. Il a indiqué qu’il avait eu jusqu’à quatre sites différents. Toutefois, aucun des sites Web n’a attiré de visites. Les montants déclarés par l’appelant à titre de frais publicitaires se rapportaient principalement au travail lié aux sites Web qui ont été élaborés par son beau-frère. Il a également dépensé un peu d’argent pour des dépliants qui ont été distribués.
+[10] La Cour suprême du Canada dans l’arrêt Stewart c. Sa Majesté la Reine, [2002] 2 R.C.S. 645, traitait de la question de savoir si le critère de l’expectative raisonnable de profit est acceptable pour déterminer une source de revenu. Les juges Iacobucci et Bastarache ont déclaré ce qui suit :
+5 Il est incontesté que la notion de « source de revenu » est un élément fondamental du régime fiscal canadien. Cependant, tout critère d’appréciation de l’existence d’une source doit reposer fermement sur le texte et l’économie de la Loi. En conséquence, pour déterminer si une activité particulière constitue une source de revenu, le contribuable doit démontrer qu’il a l’intention d’exercer cette activité en vue de réaliser un profit, et présenter des éléments de preuve étayant cette intention. Ce critère a pour objet de distinguer les activités commerciales des activités personnelles. Lorsqu’une activité exercée dans le but de réaliser un profit ne comporte aucun aspect personnel ou récréatif, cette activité est commerciale et la recherche d’un profit par le contribuable est établie. Cependant, lorsqu’on soupçonne que l’activité du contribuable est un passe-temps ou une démarche personnelle plutôt qu’une entreprise commerciale, la prétendue expectative raisonnable de profit est un facteur parmi d’autres qui peut être pris en considération pour déterminer si le contribuable a l’intention d’exploiter une entreprise commerciale.
+[. . .]
+50 Il est manifeste que, pour que l’art. 9 s’applique, le contribuable doit d’abord déterminer s’il a une source de revenu constituée soit d’une entreprise, soit d’un bien. Comme nous l’avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d’un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d’un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d’entreprise ou de bien.
+51 Assimiler la « source de revenu » à une activité exercée « en vue de réaliser un profit » concorde avec la définition traditionnelle du mot « entreprise » qui est donnée en common law, à savoir [traduction] « tout ce qui occupe le temps, l’attention et les efforts d’un homme et qui a pour objet la réalisation d’un profit » : Smith, précité, p. 258; Terminal Dock, précité. De même, la distinction entre le revenu tiré d’une entreprise et le revenu tiré d’un bien repose généralement sur le fait qu’une entreprise exige un niveau d’activité plus élevé de la part du contribuable : voir Krishna, op. cit., p. 240. Il est donc logique de conclure qu’une activité exercée en vue de réaliser un profit, quel que soit le niveau d’activité du contribuable, sera une source de revenu constituée soit d’une entreprise, soit d’un bien.
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles et, comme nous l’avons vu, il se peut fort bien que telle ait été à l’origine l’intention du juge Dickson lorsqu’il a mentionné l’« expectative raisonnable de profit » dans l’arrêt Moldowan. Vus sous cet angle, les critères énoncés par le juge Dickson représentent une tentative de dresser une liste objective de facteurs permettant de déterminer si l’activité en cause est de nature commerciale ou personnelle. Ces facteurs sont ce que le juge Bowman a qualifié d’« indices de commercialité » ou de « caractéristiques commerciales » : Nichol, précité, par. 13. Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d’application de la Loi.
+53 Nous soulignons que ce critère de l’existence d’une source « en vue de réaliser un profit » ne doit faire l’objet d’une analyse que dans les situations où l’activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l’ERP à des activités comme l’exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. no 483 (QL) (1re inst.). Lorsqu’une activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d’un profit. Il existe donc par définition une source de revenu et il n’est pas nécessaire de pousser l’examen plus loin.
+54 Il y a également lieu de souligner que la détermination de l’existence d’une source de revenu n’est pas un processus purement subjectif. Outre le fait que, pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l’arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+55 Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. Comme nous le concluons plus loin, il n’est pas nécessaire pour les besoins du présent pourvoi d’ajouter d’autres facteurs à cette liste; nous nous abstenons donc de le faire. Nous tenons cependant à réitérer la mise en garde du juge Dickson selon laquelle cette liste ne se veut pas exhaustive et les facteurs diffèrent selon la nature et l’importance de l’entreprise. Nous tenons également à souligner que, même si l’expectative raisonnable de profit constitue un facteur à prendre en considération à ce stade, elle n’est ni le seul facteur, ni un facteur déterminant. Il faut déterminer globalement si le contribuable exerce l’activité d’une manière commerciale. Cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. C’est la nature commerciale de son activité qui doit être évaluée, et non son sens des affaires. […]
+(Je souligne.)
+[11] Dans l’affaire Morris c. Sa Majesté la Reine, 2003 CAF 116, 2003 D.T.C. 5236, [2003] 3 C.T.C. 75, 301 N.R. 327, la Cour d’appel fédérale a déclaré ce qui suit :
+11 La conclusion du juge selon laquelle M. Morris avait un intérêt personnel très important dans la pêche prend une importance particulière parce que la Cour a déclaré dans l'arrêt Stewart que, bien que l'expectative raisonnable de profit ne soit pas une condition nécessaire pour établir une source de revenu pour les fins de l'article 9 de la Loi, quand l'activité est de nature commerciale, s'il y a un aspect personnel ou récréatif dans l'activité en question, il est tout de même pertinent de déterminer s'il y a une expectative raisonnable de profit à l'égard de l'activité afin de décider si le contribuable avait l'intention d'exploiter une entreprise commerciale. Dans ces circonstances, les critères objectifs prescrits dans l'arrêt Moldowan demeurent pertinents, bien que l'existence d'une expectative raisonnable de profit découlant de l'activité ne soit qu'un facteur parmi d'autres qui doivent être examinés pour déterminer si le contribuable avait l'intention d'exploiter une entreprise commerciale : voir l'arrêt Stewart aux paragraphes 5 et 55.
+12 D'après l'arrêt Stewart (au paragraphe 50), pour déterminer l'existence d'une source de revenu, le tribunal doit d'abord se demander : "l'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?". Les facteurs énumérés dans l'arrêt Moldowan fournissent des critères objectifs pour répondre à cette question. Donc, même si le contribuable a un intérêt personnel dans l'activité, si "l'entreprise est exploitée d'une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins de la Loi" : Stewart au paragraphe 52. La Cour ajoute (au paragraphe 54) que, pour établir l'intention du contribuable d'exercer une activité en vue de réaliser un profit, plutôt que par intérêt personnel, cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que l'activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+(Je souligne.)
+[12] En l’espèce, les activités de l’appelant pourraient être un passe-temps ou une démarche personnelle. Plusieurs individus collectionnent des souvenirs et d’autres articles et certains des articles achetés avaient un lien personnel avec l’appelant ou son frère, notamment des souvenirs de l’équipe de soccer dont l’appelant est partisan et des articles se rapportant au porte-avion sur lequel son frère a servi dans la Marine. Plusieurs articles ont été achetés à l’aveuglette sur E-Bay. Par conséquent, les activités étaient peut-être personnelles ou du moins « on soupçonne que l’activité du contribuable est un passe-temps ou une démarche personnelle ». Dans cette situation, il est nécessaire de déterminer si les activités ont été menées de façon suffisamment commerciale pour les rendre commerciales. L’appelant a-t-il mené ses activités « conformément à des normes objectives de comportement d’homme d’affaires sérieux »?
+[13] La Cour suprême du Canada a souligné quatre facteurs objectifs dont il faut tenir compte pour déterminer si l’activité devrait être considérée comme étant de nature commerciale ou personnelle. Ils sont les suivants :
+1. l’état des profits et pertes pour les années antérieures;
+2. la formation du contribuable;
+3. la voie sur laquelle il entend s’engager;
+4. la capacité de l’entreprise de réaliser un profit.
+[14] En l’espèce, l’entreprise présumée a débuté en 1999 et puisque aucun article n’a été vendu, il n’a pu y avoir un profit ni en 1999 ni en 2000. Vu qu’aucun article n’a été vendu en 2002, 2003 et 2004, là encore, il n’y avait évidemment aucun profit durant cet intervalle. Bien que l’appelant ait essayé d’acquérir une certaine formation, il n’existait aucune preuve démontrant une expérience ou une formation antérieure pour l’achat et la vente d’articles en vogue ou de souvenirs ou pour l’exploitation d’un commerce de détail. Auparavant, il était conducteur pour une compagnie de pièces automobiles.
+[15] La voie sur laquelle l’appelant entend s’engager en gardant les articles dans l’espoir qu’ils prennent de la valeur n’indique pas qu’il s’agit d’une activité commerciale. Au cours des années visées par l’appel, il ne semble y avoir eu aucun plan d’action pour liquider l’inventaire. Au contraire, le plan consistait à garder l’inventaire et à espérer que la valeur augmente.
+[16] Dans la présente affaire, il y a très peu d’éléments de preuve au sujet de la publicité réellement faite. Même si le montant consacré à la publicité était important en 2003 et en 2004, la majeure partie a été versée au beau-frère de l’appelant pour son travail lié à la conception d’un site Web pour lequel il n’y a eu aucune visite.
+[17] Le dernier critère établi par la Cour suprême du Canada est la capacité de l’entreprise de réaliser un profit. N’ayant vendu aucun article, l’appelant peut difficilement prouver que l’entreprise avait la capacité de réaliser un profit.
+[18] En l’espèce, on a aussi soulevé la question de la tenue des dossiers et de la détermination du profit. Dans Kaye c. Sa Majesté la Reine, 98 DTC 1659, [1998] 3 C.T.C. 2248, le juge Bowman (maintenant juge en chef) devait se prononcer sur une affaire où une personne déclarait diverses dépenses pour une entreprise présumée. Il s’agissait d’une entreprise présumée d’achat et de vente d’antiquités et d’objets de collection. Même si cette affaire était antérieure à l’arrêt Stewart de la Cour suprême du Canada, le critère appliqué par le juge Bowman porte déjà sur la question de savoir si l’activité avait un caractère commercial et l’affaire a été citée par la Cour suprême du Canada dans l’arrêt Stewart. De plus, le juge en chef adjoint Bowman (maintenant juge en chef) a aussi cité cette affaire dans Martin c. Sa Majesté la Reine, 2003 CCI 155, [2003] 3 C.T.C. 2416, qui était postérieure à l’arrêt Stewart de la Cour suprême du Canada. Dans l’affaire Kaye, les commentaires du juge Bowman (maintenant juge en chef) aux paragraphes 12, 13 et 14 sont particulièrement importants :
+[12] Après que la majeure partie de la preuve eut été présentée, l'avocat a accepté d'abandonner la demande de déduction des autres 6 287 $ et de se limiter à une demande de déduction de 5 523 $. Cette décision découle probablement du fait que bon nombre des dépenses ne pouvaient pas être justifiées. Par exemple, un montant d'environ 3 000 $ a été déclaré à titre de stock d'ouverture bien que l'appelant ait été incapable de préciser ce que comprenait le stock d'ouverture dont une partie, a-t-il soutenu, lui avait été vendu par la femme de son beau-père. J'aurais pensé que, si le stock d'inventaire valait 3 000 $ et que seuls des articles valant au total 150 $ avaient été vendus, le solde plus les achats effectués dans l'année, dont la valeur correspond au moins élevé des deux montants, soit celui du coût ou celui de la valeur marchande, ou suivant toute autre formule jugée plus appropriée, aurait figuré dans le stock de clôture. L'état des revenus et des dépenses de l'entreprise indique que le coût des marchandises vendues a été calculé de la façon suivante : un stock d'ouverture de 3 000 $, plus des achats de 4 300 $, pour un total de 7 300 $, moins un stock de fermeture de 5 500 $, ce qui donne un coût de la marchandise vendue de 1 800 $. Cela veut dire qu'on a attribué aux ventes de 150 $ (deux cartes de hockey) un coût théorique de 1 800 $.
+[13] Je donne cet exemple pour montrer que la méthode utilisée pour calculer le revenu ou les pertes était assez irréaliste. Nombre des autres dépenses semblent avoir été des approximations. Les autres dépenses dont la déduction est demandée sont des chiffres ronds - c'est le cas entre autres des salaires (2 450 $), des frais de voyage (1 500 $) et des frais d'automobile (3 250 $). Il n'y avait pas de compte bancaire distinct pour l'entreprise, et il était impossible de dire, d'après le relevé bancaire déposé en preuve, à quoi avait servi l'argent retiré du compte.
+[14] Dans un tout autre ordre d'idées que celui de la question plutôt fondamentale du montant de la perte, le cas échéant, cette façon plutôt désordonnée de tenir les livres est loin de concorder avec l'affirmation selon laquelle une véritable entreprise était exploitée.
+[19] Dans Kaye, le fait que le contribuable avait déclaré que le coût des marchandises vendues était de 1 800 $ relativement à la vente de deux cartes de hockey, indiquait que la « méthode utilisée pour calculer le revenu ou les pertes était assez irréaliste ». En l’espèce, aucun article n’avait été vendu, et pourtant, le montant total des achats était déduit à chaque année et le montant dépensé pour les achats faits en 2003 était déduit à deux reprises, une fois en 2003 et une autre en 2004. En 2002, le montant déduit à titre de dépenses représentait 77 % de toutes les dépenses déclarées. En 2003, le montant déduit des achats représentait environ 65 % de toutes les dépenses déclarées. En 2004, le montant total déclaré comme déduction du stock d’ouverture et comme déduction des achats représentait environ 57 % de toutes les dépenses déclarées. Comme dans l’affaire Kaye, il s’agit d’une méthode irréaliste pour calculer le revenu. Ainsi je l’ai déjà noté, aucune évaluation de l’inventaire n’a été réalisée et, par conséquent, il est impossible de déterminer quelle réduction de la valeur des biens de l’inventaire, le cas échéant, devrait être examinée pour ces années. Cela confirme également que les activités n’ont pas été exercées pour des motifs d’affaires sérieux.
+[20] Par conséquent, je conclus que les activités de l’appelant en 2002, 2003 et 2004 étaient de nature personnelle et non commerciale et donc qu’il ne pouvait déduire les montants déclarés à titre de dépenses d’entreprise puisqu’il n’avait aucune source de revenu dont il pouvait déduire ces sommes.
+[21] Les appels pour les années d’imposition 2002, 2003 et 2004 sont rejetés, sans frais.
+Signé à Halifax (Nouvelle-Écosse), ce 20 septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 2e jour d’octobre 2007.
+Mylène Borduas, traductrice
+RÉFÉRENCE : 2007CCI557
+NUMÉRO DU DOSSIER
+DE LA COUR : 2006-853(IT)I
+INTITULÉ : JOHN G. BROOKS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 septembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 septembre 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Révérend Sir David Brooks
+Avocat de l’intimée :
+Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

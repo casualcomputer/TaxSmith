@@ -1,0 +1,155 @@
+---
+title: "Solomon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26489/index.do"
+last_modified: "2004-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 774"
+citation2: ""
+neutral_citation: "2004 TCC 774"
+decision_date: "2004-11-24"
+language: "en"
+item_id: "26489"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3237
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:48:46.702000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f77109704318efeaa2574b54212653c6ce4b019614cf2451cc9c5caf90c6d61f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Solomon v. The Queen
+
+- Citation: 2004 TCC 774
+- Decision date: 2004-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3237, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solomon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-24
+Neutral citation
+2004 TCC 774
+File numbers
+2003-2160(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2160(IT)I
+BETWEEN:
+JOE SOLOMON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 20, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+Barbara Shields
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that substantially all of the distance travelled by the 1997 Buick Park Avenue during the days it was available to the Appellant was in connection with the Appellant's employment with Specialty Construction Products Ltd.
+Signed at Ottawa, Canada, this 24th day of November, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2004TCC774
+Date: 20041124
+Docket: 2003-2160(IT)I
+BETWEEN:
+JOE SOLOMON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] On February 1, 2002, the Minister of National Revenue reassessed the Appellant for the 1998 and 1999 taxation years and in so doing, assessed a standby charge in the amount of $7,571 in each year for the use of an employer-leased automobile and added the amounts of $720 and $761 with respect to an employee benefit for the annual fees paid by Specialty Construction Products Ltd. (Specialty) for a membership at the Winnipeg Squash Club (the Club). The Appellant has appealed these reassessments.
+Automobile Standby Charges
+[2] In reassessing the Appellant with respect to this issue, the Minister relied on the following assumptions:
+(h) all or substantially all of the distance travelled by the Vehicle during the days the Vehicle was available to the Appellant were not made in the course of the office or employment with the Specialty;
+(i) the Appellant did not maintain a log book detailing his kilometres for personal and employment use in respect of the Vehicle in the 1998 and 1999 taxation years;
+(j) the Vehicle was driven for 12,000 personal kilometres during the days available to the Appellant in each of the 1998 and 1999 taxation years;
+(k) all the costs of operating the Vehicle were paid for by the Specialty;
+(l) the Appellant did not reimburse the Specialty for any portion of the costs of operating the Vehicle;
+(m) the Specialty did not impose any restrictions with regards to the personal use of the Vehicle;
+[3] The Appellant is the owner and president of Specialty which has carried on business in the construction industry for a substantial period of time. More specifically, it is a wholesale distributor for over 50 manufacturers and primarily deals with government agencies, contractors and supplies them with products for use in concrete construction. This includes items such as forming hardware, waterproofing compounds, reinforcement for concrete, additives for concrete, sealers and curers, grouting compounds, coatings, etc. A wholly-owned subsidiary of Specialty, Concrete Restoration Services Limited (Concrete), is a restoration company which provides services primarily to government agencies on projects throughout Manitoba and northwestern Ontario. Its principal function is the repair of bridges, hydro dams, parking structures and buildings and various other buildings.
+[4] The Appellant described his role as procuring business for the company. This requires him to call on architects, engineers, and to visit government agencies to introduce new products. During the taxation years in issue, he travelled to various construction sites in order to make initial contact with customers, provide estimates for work to be performed, supervise the workers, inspect the quality of work performed, address customer concerns, and for various other purposes related to the completion of the contracts. Since the manufacturers rely on Specialty to ensure that their products are being utilized and applied properly, a further aspect of his role was the need to, from time to time, visit various job sites where those materials were being used to ensure that was being done. All of this required the Appellant to travel extensively throughout Winnipeg and elsewhere on a regular basis. It was primarily for these reasons that for a number of years, Specialty leased the vehicle which the Appellant used in the course of his employment.
+[5] The Appellant contends that during the relevant taxation years, substantially all of the distance travelled by the company vehicle was in connection with or in the course of the performance of his duties as president of Specialty. He testified that a typical workday commences at 6:00 a.m. when he leaves home and that as a rule, he rarely returns before 7:30 or 8:00 p.m. Furthermore, the nature of the business often required him to work "six-plus days a week" and that was particularly so since much of the work that was performed for their clients had to be done on weekends when their plants were not operating. His regular routine began each day with a trip to the Club where, he said, "I get cleaned up and get ready to go to work. In a lot of cases, I meet up with people at the Club that I have a coffee with and we will talk about some upcoming business". Upon leaving the Club, his usual practice was to drive to a job site or sites prior to going to his office. This, he said, was necessary because as a general rule during the summer season, he could have "upwards to a couple of dozen projects going at any one time". Furthermore, although business tended to slow down in the winter season, there would be at least "four or five and in some instances up to a dozen to two dozen in progress". He also observed that during the winter more time was spent promoting products by way of organizing seminars, calling on architects, engineers and others to generate business. In addition, the Appellant spent some time at the office attending to routine business and discussing and reviewing estimates, etc. with his superintendents but implied that these duties did not form a large part of his daily routine.
+[6] The Appellant testified that in 1998 and 1999, he was not aware of the existence of standby charges and that a personal benefit would have to be reported in his return. He said that he:
+A. understood that we had a certain allowance for personal use. And from years back, I believe we allowed maybe 20% for personal use or something like that.
+Q. How did you keep track of that?
+A. I didn't keep track of it. I think we just made that assumption in our expenses.
+(page 47, line 11)
+In July 2001, the Appellant's accountants suggested that he keep a one-month logbook.[1] He did so and the document submitted by him to Revenue Canada indicated that the personal use of the vehicle amounted to approximately 15%. A lengthy cross-examination of the Appellant regarding the accuracy of his record-keeping made it more than evident that the logbook was grossly inadequate in detail. As he himself noted, "I was not keeping an accurate log. You know, our accountants advised us that we should get some information, record some information of what we're doing. So he said, you know, 'record your mileage', and that what's I did". He conceded that it was primarily based on an estimate, as he noted, "in my view it was an average of what I was doing every, every week kind of thing, so that's what I provided". The Appellant went on to say that "as a result of the fiasco" arising out of this 2001 record-keeping, he maintained a more accurate and detailed record of his mileage and use of the vehicle in 2002,[2] the summary sheet of which indicated 7.88% as personal use.
+[7] It is the Appellant's position that "if I'd kept the same logbook in 1998 and 1999, I'd have this back to 1998 and 1999. The same type of log sheet would be, would be very, very comparable. I haven't changed my mode of work. It continues for the last umpteen years of my business". Accordingly, the Appellant maintains that all of the required conditions have been met and he is entitled to a reduced standby charge. Counsel for the Respondent takes issue with that conclusion and in particular argues that although constituting an accurate report for that year, the 2002 logbook which provided the sole basis for the Appellant's submission is neither supportive nor can it be appropriately utilized as an accurate report for the two taxation years in issue.
+[8] The Appellant's testimony on the whole was credible and for the most part uncontroverted. It is clear that his employer required him to use the vehicle in the performance of his duties and that all or substantially all of the distance travelled by that vehicle during the time it was made available to him was in connection with and in the course of his employment. Furthermore, there is no evidence that the vehicle was used at any time by the Appellant's spouse. It is difficult to determine whether the Appellant's failure to maintain a logbook in the taxation years in issue reflected his perception of his accountant's advice as to what the requirements were or whether he simply chose to do so. The latter option seems to be the most likely and as a result, the Appellant has only himself to blame for the conclusion reached by the Respondent's auditors. His problems were no doubt exacerbated by the inappropriate record-keeping of his 2001 mileage which he himself described as a fiasco. Notwithstanding this, it appears as though the message finally penetrated and the records kept in 2002 were detailed and do in fact form an accurate report of the utilization of the vehicle for that year.
+[9] The relevant provision of the Income Tax Act is paragraph 6(1)(e). It provides for a standby charge for an automobile that is made available to a taxpayer by his employer in a given taxation year. The standby charge brings into income the value of the benefit derived by the taxpayer from a company car that is made available for the personal use of that taxpayer. Subsection 6(2) of the Act provides a formula for determining the value of such a benefit, and more specifically, the definition of 'A' found in that subsection provides for a reduction in the standby charge that is to be included in the taxpayer's income if certain conditions are met. In The Queen v. Adams,[3] Robertson J. of the Federal Court of Appeal stated at page 6271:
+15 The so-called "minimal personal use" exception is contained within the definition of "A" set out in subsection 6(2). Essentially, the exception enables an employee to obtain a reduction in the amount of the standby charge, otherwise applicable, if the following conditions precedent are satisfied. First, the employer must require the employee to use the automobile in the performance of his or her duties of employment. Second, "all or substantially all" of the distance traveled by the automobile during the time it was made available to the employee must be in connection with or in the course of his or her employment. In this regard, the Minister has adopted the policy that at least 90% of the automobile's use must be for employment purposes: see IT-63R4. Third, personal use of the automobile must be less than 12,000 km. per year. Thus, employees who use an employer's automobile exclusively for business purposes are not required to include in income a standby charge. This is so because "A" will equal zero. Employees who make personal use of their employer's automobile are entitled to a reduction in the standby charge, provided that such use is minimal; that is to say all three conditions precedent are met. ...
+[10] There are a number of judgments in which it has been held that although the departmental assessing policy may be the "90% rule", the definition of "all or substantially all" in subsection 6(2) of the Act does not specify that 90% or more of the use of the vehicle for employment purposes is mandatory. The subsequent detailed log kept by the Appellant in 2002 demonstrated a 7.88% personal use. Based primarily on the testimony of the Appellant which I accept, I am satisfied that there has been virtually no change in his method of carrying on his business in any of the years referred to. I have therefore concluded that during the taxation years in issue, the company car was used for personal purposes within the range contemplated by the relevant statutory provisions. Thus, the Appellant is entitled to the reduced standby charge and corresponding adjustments to the operating expense benefit assessed.
+Club Expenses
+[11] The second issue relates to the Winnipeg Squash Club membership in respect of which the monthly dues were paid by Specialty. The Appellant asserts that the membership was used to promote new business, entertain clients and for other purposes related to the Specialty's operation. The Respondent's position is that the business-related meetings amounted to less than 5% of the overall use of the club and in assessing, the Minister allowed 25% as business use and on this basis included the employee benefits in issue pursuant to paragraph 6(1)(a) of the Income Tax Act.
+[12] The payment by the Appellant's employer of the annual club dues appears to have been treated by the Appellant's accountants as having been incurred primarily for the benefit of the employer. Although the Appellant's use included a certain degree of business activity, the accountant's conclusion is not supported by the evidence. However, since the use of the Club involved a mixture of business and pleasure an assessment of a taxable benefit to the Appellant was quite appropriate. The sole issue, in my view, is whether the 25% "personal use" assessed was appropriate. I have concluded given the totality of the Appellant's testimony that the Minister's apportionment was more than reasonable.
+[13] The appeals for 1998 and 1999 are allowed, with costs, and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that substantially all of the distance travelled by the automobile in the total available days was in connection with the Appellant's employment.
+Signed at Ottawa, Canada, this 24th day of November, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC774
+COURT FILE NO.:
+2003-2160(IT)I
+STYLE OF CAUSE:
+Joe Solomon and Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+February 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+November 24, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Barbara Shields
+Counsel for the Respondent:
+Penny Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Barbara Shields
+Firm:
+Aikens, MacAulay & Thorvaldson
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The suggestion appears to have originated with the Revenue Canada auditor in the course of his review of the 1998 and 1999 returns.
+[2] Exhibit A-7.
+[3] 98 DTC 6266.

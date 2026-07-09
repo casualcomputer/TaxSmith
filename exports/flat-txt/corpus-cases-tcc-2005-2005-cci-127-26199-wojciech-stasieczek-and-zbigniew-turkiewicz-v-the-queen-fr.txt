@@ -1,0 +1,119 @@
+Title: Wojciech Stasieczek and Zbigniew Turkiewicz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26199/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-127-26199-wojciech-stasieczek-and-zbigniew-turkiewicz-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-02-11
+
+# Wojciech Stasieczek and Zbigniew Turkiewicz v. The Queen
+
+- Citation: 2005 CCI 127
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3930, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wojciech Stasieczek and Zbigniew Turkiewicz v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-11
+Référence neutre
+2005 CCI 127
+Numéro de dossier
+2003-2893(GST)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-2893(GST)I
+ENTRE :
+WOJCIECH STASIECZEK
+et ZBIGNIEW TURKIEWICZ,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 25 octobre 2004, à Toronto (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+____________________________________________________________________
+ORDONNANCE ET JUGEMENT
+Comme il semble que le nom de M. Zbigniew Turkiewicz a, par inadvertance, été omis de l’intitulé de la cause, la Cour ordonne que ce dernier soit ajouté à titre d’appelant.
+Les appels interjetés à l’égard des cotisations de taxe sur les produits et services établies sous le régime de la Loi sur la taxe d’accise, dont les avis sont datés du 23 janvier 2002 et portent respectivement les numéros 56157 et 56156, sont accueillis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 11e jour de février 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 28e jour d’avril 2008.
+Aleksandra Koziorowska
+Référence : 2005CCI127
+Date : 20050211
+Dossier : 2003-2893(GST)I
+ENTRE :
+WOJCIECH STASIECZEK
+et ZBIGNIEW TURKIEWICZ,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les deux particuliers en l’espèce étaient les seuls dirigeants et administrateurs d’une société dénommée City Lights Construction Corp. (« City Lights »). Le 23 janvier 2002, ils ont tous deux fait l’objet d’une cotisation, établie en application du paragraphe 323(1) de la Loi sur la taxe d’accise (la « Loi »), pour un montant total de 23 353,79 $ au titre de la taxe sur les produits et services, de l’intérêt et des pénalités dus par City Lights au moment où elle a fait faillite. Bernard Cooper, à titre de représentant des appelants, a produit un avis d’appel à la Cour le 12 août 2003 relativement à ces cotisations. L’avis d’appel porte les noms de M. Stasieczek et de M. Turkiewicz, mais quelqu’un paraît avoir raturé le nom de ce dernier à un moment ou à un autre. Il est difficile de savoir qui a procédé à cette suppression et pourquoi. Quand la présente affaire m’a initialement été soumise, j’ai ordonné que l’audience soit reportée de sorte que M. Turkiewicz, auquel l’avis d’audience n’avait pas été signifié et qui n’était pas présent, ait l’occasion de comparaître et d’être entendu. Lorsque l’affaire m’a à nouveau été soumise le 25 octobre 2004, M. Turkiewicz a comparu et a participé à l’audience. À cette même date, l’intimée a produit dans le cadre de l’appel de M. Turkiewicz une réponse dont le libellé était analogue à celle produite antérieurement dans le cadre de l’appel de M. Stasieczek. Les deux appelants ont témoigné, tout comme le syndic de faillite de City Lights.
+[2] Les activités de City Lights consistaient en des travaux de construction. Les appelants étaient les directeurs de la société. Selon leur témoignage, que je n’ai aucune raison de mettre en doute, la société a conclu en 1995 trois contrats qui ont en fin de compte mené à sa faillite. La société avait consacré beaucoup de temps et d’argent à exécuter ces contrats, pour lesquels elle n’a jamais pu obtenir paiement. Dans la deuxième moitié de 1996, la société est devenue insolvable et, en novembre de la même année, elle a fait cession de ses biens. Les comptes débiteurs à cette date étaient importants et, évidemment, ils comprenaient la TPS facturée, mais toujours impayée. À la lumière de la preuve, il semble que la société avait déclaré cette TPS au moment où les factures ont été envoyées à ses clients, comme elle était tenue de le faire, mais qu’elle a omis de remettre ces sommes, contrairement à son obligation en ce sens. Le paragraphe 231(1) de la Loi prévoit qu’un inscrit peut demander, relativement à la taxe qui fait partie de la créance irrécouvrable, une déduction au titre de la taxe payable pour une période de déclaration postérieure. Selon la preuve, cela n’a pas été fait en l’espèce et, par conséquent, un montant de TPS de plus de 16 000 $ était exigible au moment où City Lights a fait cession de ses biens. Le syndic n’a pu réaliser aucune partie des comptes débiteurs, et le montant total de TPS, ainsi que la pénalité et l’intérêt, étaient toujours impayés en janvier 2002 lorsque le ministre a établi une cotisation à l’égard des appelants en application de l’article 323 de la Loi.
+[3] Les appelants ont avancé qu’ils ne devaient pas être déclarés responsables du fait d’autrui, à savoir la dette de City Lights, en application de l’article 323 de la Loi puisque City Lights n’a jamais perçu la TPS impayée de ses clients et qu’elle n’a donc jamais été en mesure de la remettre. Cependant, comme je l’ai expliqué dans la décision Zaborniak c. Canada[1], la responsabilité des administrateurs d’une personne morale prévue à l’article 323 de la Loi vise le montant de taxe nette que la société a omis de remettre au receveur général, contrevenant ainsi aux dispositions du paragraphe 228(2) de la Loi. Cette somme constitue une dette de la société envers Sa Majesté la Reine du chef du Canada suivant le paragraphe 313(1), et c’est cette somme non remise que les administrateurs sont tenus de payer en application du paragraphe 323(1). Bien qu’il puisse paraître draconien aux yeux de certains, ce mécanisme résulte des termes clairs employés par le législateur, et les tribunaux n’ont pas compétence pour accorder à cet égard une réparation fondée sur leur conception de la justice ou de l’équité. Les seules réparations possibles sont celles prévues par les dispositions de la Loi elle‑même.
+[4] Cela étant dit, l’article 323 comporte des dispositions d’exception dont les administrateurs d’une personne morale peuvent se prévaloir. Ainsi, le paragraphe (3) soustrait les administrateurs à leur responsabilité s’ils sont en mesure d’établir qu’ils ont agi avec autant de soin, de diligence et de compétence pour prévenir le manquement consistant en l’omission de la société de remettre la taxe exigible que ne l’aurait fait une personne raisonnablement prudente. Malheureusement, la preuve en l’espèce ne permet pas aux appelants de recourir à ce moyen de défense. Paradoxalement, pour faire preuve de diligence raisonnable, ils auraient notamment dû faire en sorte que la société demande la déduction au titre de la taxe en application du paragraphe 231(1), ce que la société, semble‑t‑il, n’a pas fait. Même si j’éprouve une certaine compassion pour les appelants en raison de la situation dans laquelle ils se trouvent, la preuve touchant la façon dont ils exerçaient leurs fonctions n’avait aucun lien convaincant avec la question en litige.
+[5] J’estime néanmoins que je dois admettre les appels pour d’autres motifs. Afin de se prévaloir des dispositions du paragraphe 323(1) de la Loi, le ministre doit se conformer aux paragraphes 323(4) et (5), lesquels sont ainsi rédigés :
+323(4) Le ministre peut établir une cotisation pour un montant payable par une personne aux termes du présent article. Les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance, dès que le ministre envoie l’avis de cotisation applicable.
+323(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[6] Dans leur témoignage, les deux appelants ont affirmé qu’ils avaient signé en 1996 un document par lequel ils démissionnaient de leur poste d’administrateur. M. Stasieczek croyait avoir signé ce document en mai ou en juin 1996; M. Turkiewicz croyait plutôt qu’ils l’avaient tous deux signé en novembre aux bureaux du syndic de faillite au moment de la cession de biens. Cette contradiction dans leur témoignage n’est pas étonnante; après un laps de temps aussi long, il aurait été étonnant qu’ils se souviennent de l’événement davantage que d’une manière vague. Cependant, j’accepte leur témoignage voulant qu’ils aient tous deux effectivement signé un document de cette nature. Que celui‑ci ait été signé en mai ou en novembre, bien plus de cinq années s’étaient écoulées avant que le ministre n’établisse une cotisation relative aux appelants en janvier 2002. Je ne m’étonne pas non plus du fait que les appelants n’aient pas été en mesure de produire un double de leur démission. En effet, pendant la majeure partie de cette période, ils n’exerçaient pas de contrôle sur les documents de la société. Le syndic a témoigné, mais il n’avait pas les documents en sa possession et son témoignage de vive voix était dénué de toute valeur. Il n’avait aucun souvenir précis des événements et je ne pouvais m’attendre à autre chose après toutes ces années. Il est tout à fait compréhensible que l’ensemble des éléments de preuve soit plutôt imprécis en ce qui concerne les détails relatifs à la démission des appelants. Les appels ont été entendus en octobre 2004, soit quelque huit années après les faits. On ne peut pas dire que la qualité de la preuve sot parfaite, mais cela est en grande partie attribuable au retard inexpliqué du ministre à établir les cotisations. J’accepte le témoignage des appelants voulant qu’ils aient tous deux démissionné de leur poste d’administrateur en 1996. Par conséquent, les cotisations sont frappées de prescription.
+[7] Les appels sont accueillis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 11e jour de février 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+Ce 28e jour d’avril 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE :
+2005CCI127
+NO DU DOSSIER DE LA COUR :
+2003-2893(GST)I
+INTITULÉ DE LA CAUSE :
+Wojciech Stasieczek et Zbigniew Turkiewicz et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 octobre 2004
+MOTIFS DE L’ORDONNANCE ET DU JUGEMENT PAR :
+L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE
+ET DU JUGEMENT :
+Le 11 février 2005
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2004CCI560.

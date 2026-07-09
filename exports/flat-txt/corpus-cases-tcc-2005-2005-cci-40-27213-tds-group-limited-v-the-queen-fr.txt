@@ -1,0 +1,243 @@
+Title: TDS Group Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27213/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-40-27213-tds-group-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-05-11
+
+# TDS Group Limited v. The Queen
+
+- Citation: 2005 CCI 40
+- Decision date: 2005-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 819, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+TDS Group Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-11
+Référence neutre
+2005 CCI 40
+Numéro de dossier
+2003-2715(IT)G
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2715(IT)G
+ENTRE :
+TDS GROUP LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée. [TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à London (Ontario), le 14 décembre 2004.
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Avocats de l'appelante :
+Mes Roger Taylor et Michelle Anderson
+Avocats de l'intimée :
+Mes Peter M. Kremer, c.r., et Ifeanyi Nwachukwu
+JUGEMENT
+Les appels des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition qui ont pris fin le 22 août 1996, le 30 septembre 1996 et le 30 septembre 1997 sont admis, avec dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de mai 2005.
+« T. O'Connor »
+Le juge O'Connor
+Traduction certifiée conforme
+ce 14e jour de juillet 2006.
+Yves Bellefeuille, réviseur.
+Référence : 2005CCI40
+Date : 20050511
+Dossier : 2003-2715(IT)G
+ENTRE :
+TDS GROUP LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Les présents appels ont été entendus à London, en Ontario, le 14 décembre 2004.
+[2] Les témoignages ont été présentés, pour le compte de l'appelante, par Andrew Dodd, ancien dirigeant de l'appelante, TDS Group Limited (parfois appelée « TDS » ou l' « appelante » ), et par Mehmet Ali Gencer, qui est ingénieur chimiste et président de Northern Technologies International. Monsieur Dodd était au courant des activités pertinentes de TDS et M. Gencer connaissait également ces activités ainsi que les propriétés d'un processus chimique utilisé dans le cadre de ces activités, lequel est décrit plus à fond ci-dessous, aux paragraphes 15 et 16.
+[3] L'intimée n'a pas cité de témoins.
+La question en litige
+[4] Il s'agit uniquement de savoir si, au cours des années d'imposition qui ont pris fin le 22 août 1996, le 30 septembre 1996 et le 30 septembre 1997 (les « années d'imposition pertinentes » ), les activités de TDS constituaient de la « transformation » au Canada d'articles destinés à la vente au sens du paragraphe 125.1(1) de la Loi de l'impôt sur le revenu (la « Loi » ), de sorte que TDS avait droit à une déduction de 7 p. 100 de l'impôt sur le revenu fédéral payable par ailleurs par la société à l'égard de ses « bénéfices de fabrication et de transformation au Canada » (la « déduction concernant les BFT » ). Ces activités comportaient généralement la réception, l'assemblage et l'emballage spécial de pièces de voitures et de camions reçues par TDS à ses établissements de London et de Tillsonburg, en Ontario, l'application d'une substance spéciale empêchant la corrosion des pièces et l'organisation de leur transport jusqu'aux établissements de sociétés exploitant des usines d'assemblage de véhicules au Venezuela, au Brésil, en Argentine et en Colombie.
+[5] Les avocats de TDS soutiennent que lesdites activités constituent de la « transformation » , alors que ceux de l'intimée affirment le contraire.
+Les faits
+[6] Les faits pertinents sont énoncés dans l'avis d'appel et dans le « mémoire des faits de l'appelante » et sont prouvés au moyen d'admissions ou de la preuve. Ces faits sont les suivants :
+1. Par des avis de nouvelles cotisations datés du 19 juin 2000, le ministre du Revenu national (le « ministre » ) a établi de nouvelles cotisations à l'égard de TDS pour l'impôt sur le revenu fédéral additionnel payable pour le motif que TDS n'avait pas droit à la déduction concernant les BFT pour les années d'imposition pertinentes.
+2. Le 15 septembre 2000, TDS a déposé des avis d'opposition.
+3. Par une lettre datée du 30 avril 2003, TDS a été informée que les nouvelles cotisations avaient été modifiées en vue de permettre la déduction concernant les BFT à l'égard des activités exercées à l'établissement de TDS situé à Hagersville ainsi qu'une autre déduction. Aucune de ces déductions n'est en cause dans ces appels. Le reste des nouvelles cotisations a été ratifié et des avis révisés de nouvelles cotisations en date du 30 avril 2003 ont été délivrés.
+4. Dans les avis révisés de nouvelles cotisations, le ministre a refusé la déduction concernant les BFT à l'égard des activités de TDS à ses établissements de London et de Tillsonburg, laquelle s'élevait aux montants suivants :
+a) 588 475 $ pour l'année d'imposition qui a pris fin le 22 août 1996;
+b) 63 240 $ pour l'année d'imposition qui a pris fin le 30 septembre 1996;
+c) 1 040 412 $ pour l'année d'imposition qui a pris fin le 30 septembre 1997.
+5. Le ministre a refusé la déduction concernant les BFT en se fondant sur le fait que TDS ne s'occupait pas de la fabrication ou de la transformation d'articles destinés à la vente ou à la location au sens de la définition de l'expression « bénéfices de fabrication et de transformation au Canada » figurant au paragraphe 125.1(3) de la Loi.
+6. Pendant les années d'imposition pertinentes, le siège social de TDS était situé au 301, avenue Tillson, à Tillsonburg, en Ontario, et la société exploitait des établissements à London, à Tillsonburg et à Hagersville, en Ontario.
+7. Pendant les années d'imposition pertinentes, TDS assemblait et organisait des pièces de véhicules dans des trousses « complètes, en pièces détachées » ( « CKD » ), expressément destinées aux usines d'assemblage étrangères (les « UAE » ) de Ford, de General Motors et de Chrysler (les « fabricants de voitures » ), à ses établissements de London et de Tillsonburg et fabriquait également des caisses en bois destinées à contenir les trousses CKD à son établissement de Hagersville.
+[Note : Tous les faits susmentionnés aux paragraphes 1 à 7 sont admis par l'intimée dans la réponse à l'avis d'appel (la « réponse » ).]
+8. La preuve établit qu'au cours des années d'imposition pertinentes, TDS était la seule société canadienne qui se livrait à de telles activités, que tous les concurrents de TDS exploitaient leur entreprise depuis les États-Unis et que presque toutes les recettes brutes de TDS tirées de ses entreprises exploitées activement au Canada provenaient des activités commerciales de TDS décrites ci-dessus au paragraphe 7.
+9. Dans les usines de fabrication de voitures nord-américaines, le même modèle de véhicule est assemblé d'une façon continue et presque toutes les pièces sont fabriquées en Amérique du Nord. Les fabricants de pièces de voitures nord-américains livrent les pièces, de façon continue, directement aux usines d'assemblage nord-américaines des fabricants de voitures pour qu'elles soient immédiatement intégrées au cycle de production des véhicules précis qui sont fabriqués dans cette usine. C'est ce qu'on appelle la livraison [TRADUCTION] « juste à temps » des stocks de pièces. Par conséquent, aucune précaution spéciale n'a à être prise pour assurer la protection physique ou chimique de ces pièces.
+10. Les UAE sont différentes des usines d'assemblage nord-américaines, entre autres quant aux aspects suivants :
+a) la livraison « juste à temps » des pièces n'est pas possible, étant donné que les pièces destinées à ces usines proviennent en grande partie de l'Amérique du Nord et qu'elles sont expédiées aux UAE;
+b) les UAE ont des cycles de production pour différents types de véhicules, plutôt que pour un seul type de véhicule.
+11. Par conséquent, la livraison des pièces de voitures aux UAE doit être faite de façon à tenir compte des besoins des UAE en ce qui concerne des pièces :
+a) qui sont assemblées, en ce sens que toutes les pièces nécessaires pour le cycle de production d'un certain nombre de véhicules d'une marque, d'un modèle et d'une couleur donnés sont réunies en fonction du nombre et du type requis pour un cycle de production complet;
+b) qui conviennent à l'assemblage dans le cycle de production précis des véhicules décrits, c'est-à-dire qu'il ne doit y avoir aucune pièce défectueuse et, en particulier, aucune pièce corrodée, étant donné que les UAE ne gardent pas de stocks de pièces et qu'elles n'ont pas facilement accès à la plupart des pièces;
+c) qui sont entreposées sans corrosion jusqu'à leur utilisation, dans un environnement souvent corrosif (par exemple, au Venezuela et en Chine).
+12. Pendant les années d'imposition pertinentes, les fabricants de pièces nord-américains livraient des pièces directement aux établissements de TDS situés à Tillsonburg et à London exactement de la même façon qu'ils expédiaient les pièces aux usines d'assemblage nord-américaines des fabricants de voitures. TDS inspectait les pièces pour déceler les défauts et elle créait ensuite des trousses CKD à l'aide de ces pièces. Chaque trousse CKD contenait de 100 à 250 caisses contenant toutes les pièces de provenance nord-américaine dont les UAE avaient besoin pour assembler un nombre particulier de véhicules d'un type précis.
+13. Chaque trousse CKD était conforme aux instructions du service technique de TDS pour une commande relative à un cycle de production précis et chaque trousse était créée d'une façon qui se prêtait aux installations de déchargement, au système d'entreposage des stocks et au processus d'acheminement vers la chaîne de montage qui était précisé pour le cycle de production d'un certain nombre de véhicules d'un type précis à l'usine d'assemblage étrangère en cause.
+14. Il était absolument nécessaire que les pièces dont était composée chaque trousse CKD arrivent aux UAE sans aucun changement chimique et physique, et ce, malgré l'environnement fort corrosif dans lequel le transport par mer était effectué et, dans une moindre mesure, en dépit des installations d'entreposage des stocks des UAE. Les méthodes anticorrosion traditionnelles (à savoir le trempage dans l'huile) sont coûteuses, en ce sens qu'il faut nettoyer les pièces avant l'assemblage, elles ne sont pas toujours efficaces et elles peuvent présenter des dangers pour les employés ainsi que pour l'environnement.
+15. Auparavant, TDS protégeait les pièces des trousses CKD contre la corrosion attribuable au transport par mer en trempant les pièces dans l'huile. Toutefois, avec le temps, TDS a adopté une méthode plus perfectionnée sur le plan technologique et plus efficace : envelopper les pièces dans un produit anticorrosion à la vapeur (le « PACV » ).
+16. Le PACV est un emballage qui émet des vapeurs chimiques qui revêtent les pièces d'une couche chimique monomoléculaire. Cette couche chimique empêche la corrosion des métaux utilisés dans les pièces de voitures. La vapeur du PACV est plus efficace que le trempage dans l'huile en ce sens qu'elle recouvre toutes les parties des pièces, même celles dont l'accès est normalement difficile (les crevasses et les cavités). Le PACV, bien qu'il soit coûteux, est moins coûteux que le trempage dans l'huile, parce que la couche chimique n'a pas à être enlevée de la pièce avant l'assemblage. La protection fournie par l'emballage PACV protège les pièces contre la corrosion jusqu'à 24 mois même si ces pièces sont déballées et remballées à maintes reprises.
+[Note : Tous les faits susmentionnés aux paragraphes 9 à 16 sont admis par l'intimée dans la réponse.]
+17. [Les UAE]
+a) Les UAE n'étaient pas organisées pour commander ou recevoir d'une façon efficace les pièces de centaines de fabricants de pièces nord-américains.
+b) Les activités de TDS permettaient de faire en sorte que le bon type de pièces parvienne à l'usine en quantité suffisante pour les cycles d'assemblage, d'assurer un contrôle de la qualité quant à la couleur et à l'état physique et de garantir en outre l'absence de corrosion.
+c) Les trousses CKD étaient organisées d'une façon qui était compatible avec les systèmes de déballage des UAE.
+d) Les trousses CKD étaient organisées en vue de faciliter l'alimentation de la chaîne de montage.
+e) Les pièces, telles qu'elles étaient assemblées dans les trousses CKD, pouvaient être entreposées de façon à être faciles à trouver, à économiser de l'espace et à assurer l'absence de corrosion pendant leur entreposage lorsqu'elles n'étaient pas utilisées directement dans les cycles de production.
+[Note : Le paragraphe 17 est admis par l'intimée. Voir le document [TRADUCTION] « Faits admis de l'avis d'appel » présenté à l'audience.]
+[Certains faits additionnels, y compris des éclaircissements et des précisions, sont fournis dans le mémoire des faits de l'appelante, lequel a également été présenté à l'audience. J'ai résumé ces faits additionnels, compte tenu de ce qui, selon moi, a été établi par la preuve. Pour plus de commodité, j'ai numéroté ces faits additionnels aux paragraphes 18 et suivants.]
+18. Les UAE n'étaient pas en mesure de recevoir les pièces de voitures directement des divers fournisseurs nord-américains de TDS et de les assembler; elles avaient plutôt besoin de se faire livrer des pièces non endommagées et non corrodées, dans des trousses CKD contenant le nombre précis de pièces nécessaires pour un cycle particulier de production d'une voiture ou d'une famille particulière de voitures.
+19. L'établissement de Tillsonburg avait une superficie de près de 500 000 pieds carrés et de 200 à 300 personnes en moyenne y travaillaient. L'établissement de London avait une superficie de 220 000 pieds carrés et comptait en moyenne de 75 à 125 employés.
+20. En bref, la trousse CKD permet à l'UAE d'avoir toutes les pièces nécessaires pour assembler un nombre particulier de voitures (habituellement, un multiple de 12). Ainsi, si Chrysler conclut avec une UAE un contrat pour que celle-ci assemble 24 voitures Impala, TDS livre à l'UAE une trousse CKD contenant toutes les pièces fabriquées en Amérique du Nord (représentant environ 90 p. 100 du nombre total de pièces) nécessaires aux fins de l'assemblage de 24 voitures Impala - ni plus, ni moins. Dans cet exemple, une trousse CKD pourrait être composée de 30 à 60 contenants personnalisés.
+21. Avant qu'une trousse CKD soit préparée, plusieurs étapes préliminaires doivent être accomplies. Premièrement, une UAE doit avoir envoyé une commande à l'un des fabricants de voitures pour demander la livraison de trousses CKD contenant le nombre de pièces nécessaires pour être en mesure d'assembler le nombre requis de voitures. Deuxièmement, TDS doit avoir présenté une soumission à l'égard de la création des trousses CKD pour l'UAE, laquelle soumission doit avoir été retenue. Troisièmement, TDS doit avoir identifié les pièces pertinentes dont sont composées les trousses CKD pour lesquelles elle n'a pas déjà conçu d'emballage précis et elle doit avoir déjà communiqué avec les fournisseurs nord-américains de ces pièces et les avoir commandées. Quatrièmement, TDS doit avoir conçu l'emballage précis à utiliser pour ces « nouvelles » pièces.
+22. Une fois ces étapes préliminaires franchies, TDS effectue chacune des activités suivantes afin de créer les trousses CKD pour une UAE particulière :
+(i) elle reçoit les pièces de voitures des fournisseurs nord-américains;
+(ii) elle inspecte, compte et identifie ces pièces;
+(iii) elle compare les pièces à des échantillons certifiés afin d'assurer la concordance exacte;
+(iv) elle assemble le nombre requis de pièces afin de permettre à l'UAE en cause d'assembler un nombre précis de voitures (en multiples de 12);
+(v) elle emballe au préalable les pièces, de façon que celles-ci résistent aux rigueurs du transport outre-mer et de façon à réduire et à optimiser l'espace occupé par ces pièces dans les contenants destinés à l'exportation;
+(vi) elle sépare et identifie les pièces à envoyer à un poste précis sur la chaîne de montage de l'UAE;
+(vii) elle applique un inhibiteur de corrosion, principalement le PACV;
+(viii) elle construit des contenants en bois spéciaux destinés à protéger les pièces contre tout dommage pendant le transport;
+(ix) elle emballe les pièces dans les contenants de façon que les UAE puissent facilement les déballer;
+(x) elle facilite le transport transfrontalier en fonction des lois sur les douanes du pays dans lequel l'UAE est située.
+23. Les UAE ne sont pas en mesure d'assembler des voitures à l'aide de pièces locales, parce qu'en général il n'y a pas de fournisseurs locaux, ou à l'aide de pièces provenant directement de fournisseurs nord-américains (la principale source de pièces de voitures), parce que, contrairement aux usines d'assemblage nord-américaines, les UAE ne possèdent pas, sur le plan technologique, les capacités ainsi que les installations requises et qu'elles ne peuvent pas réaliser d'économies d'échelle.
+24. En l'absence des trousses CKD, une UAE ne possède pas l'infrastructure nécessaire pour recevoir et transformer la multitude de pièces requises aux fins de l'assemblage de voitures. Les trousses CKD contiennent toutes les pièces pertinentes; elles permettent en outre aux UAE d'enlever simplement les pièces des contenants et des emballages protecteurs et de les assembler pour faire des voitures.
+25. Pour toutes ces raisons, les UAE sont différentes des usines d'assemblage nord-américaines en ce sens qu'elles doivent se faire livrer des trousses CKD afin d'assembler des voitures.
+26. TDS était initialement une division de Livingston Industries Limited ( « Livingston » ); de 1973 jusqu'aux années d'imposition pertinentes, Revenu Canada considérait que Livingston et, par la suite, TDS avaient droit à la déduction concernant les BFT. À l'onglet 2 du recueil conjoint de documents se trouve une demande datée du 15 janvier 1973 que Livingston avait faite au ministère du Revenu national afin d'obtenir une décision l'autorisant à effectuer la déduction en question; la pièce figurant à l'onglet 3 du recueil conjoint des documents est rédigée comme suit :
+[TRADUCTION]
+M. G. T. Francolini
+Président
+Livingston Industries Limited
+Tillsonburg (Ontario)
+Le 31 janvier 1973
+Monsieur,
+En réponse à votre lettre du 15 janvier 1973, nous tenons à vous informer que tant qu'une loi semblable à celle qui est proposée dans le projet C-222 n'aura pas été adoptée par le législateur, aucun avis définitif ne peut être exprimé au sujet des questions soulevées dans votre lettre. Toutefois, le point de vue actuel du ministère sur ces questions est énoncé ci-dessous.
+Compte tenu des renseignements donnés dans votre lettre, nous sommes d'avis que Livingston Industries Limited exerce principalement une activité de fabrication ou de transformation pour l'application de l'article 18 du projet de loi C-222. À notre avis, le fait de fractionner les pièces reçues en vrac, de les revêtir ou de les envelopper pour empêcher la rouille, d'enlever certaines pièces de moteur, de modifier des pièces et d'assembler ces pièces en trousses de façon qu'elles puissent être finalement assemblées d'une façon qui se prête aux besoins des installations d'assemblage étrangères des clients constitue une activité de fabrication ou de transformation à laquelle s'applique le taux d'imposition des sociétés moins élevé ainsi que l'amortissement accéléré. Nous joignons une copie du communiqué de presse du ministère des Finances du 28 décembre 1972 traitant des principaux aspects du Règlement que les sociétés utiliseront pour calculer leurs « bénéfices de fabrication et de transformation au Canada » . Le matériel qui est acquis afin de permettre à votre société de réaliser des « bénéfices de fabrication et de transformation au Canada » peut faire l'objet d'un amortissement accéléré, à condition qu'il satisfasse aux exigences énoncées aux alinéas d) à i), aux pages 2 et 3 du communiqué de presse du ministère des Finances en date du 26 juillet 1972 (une copie est jointe pour plus de commodité).
+En ce qui concerne le commentaire que vous avez fait, à savoir que le fait de ne pas être propriétaire du produit fabriqué ou transformé n'est pas un facteur décisif lorsqu'il s'agit de déterminer si une société exerce une activité de fabrication ou de transformation, nous sommes d'accord avec vous, à condition que le produit qui est transformé sur demande soit destiné à la vente ou à la location par une autre personne.
+Nous espérons que les renseignements donnés ci-dessus vous seront utiles.
+Veuillez agréer l'expression de mes meilleurs sentiments.
+Pour le directeur,
+Division des interprétations techniques
+RDW/bg
+Les arguments de l'appelante
+[7] L'avocat de l'appelante invoque les arguments suivants :
+• Contrairement aux prétentions de l'intimée, ce ne sont pas des pièces individuelles sur lesquelles l'appelante travaille ou qui sont vendues, mais plutôt des trousses CKD ou des jeux de meccano.
+• Les documents échangés entre les fabricants de voitures et l'appelante indiquent que, dans la ventilation des coûts, un certain montant est imputé aux matériaux (c'est-à-dire les pièces), alors qu'un autre montant est imputé à ce que les fabricants de voitures appellent la « transformation » ; d'une façon générale, le montant imputé à la « transformation » est environ cinq fois plus élevé que le coût des pièces. À l'onglet 6 du recueil conjoint de documents se trouve un échantillon des documents utilisés au cours des années d'imposition pertinentes.
+• Les activités de l'appelante sont complexes. Il y a 25 étapes distinctes à suivre pour assembler les trousses CKD de la façon appropriée. C'est ce que démontre le document qui se trouve à l'onglet 13 du recueil conjoint de documents. En outre, l'assemblage doit être effectué d'une façon précise, parce que c'est l'appelante plutôt que le fabricant de voitures qui est responsable, sur le plan financier, de toute lacune dans les trousses CKD qui arrivent à l'installation du fabricant étranger.
+• L'appelante ne se contente pas de procéder à l'emballage. L'application du PACV décrit aux paragraphes 15 et 16 des faits le démontre. L'application du PACV constitue en fait un ajout à la pièce et cette application est essentielle pour empêcher la corrosion.
+[8] L'avocat se réfère ensuite à ce qui peut être considéré comme la décision faisant autorité, à savoir Federal Farms Limited v. Minister of National Revenue, 66 D.T.C. 5068 (C. de l'É.), confirmé à 67 D.T.C. 5311. Dans cette affaire, la Cour suprême du Canada a souscrit à la conclusion tirée par le juge Cattanach, de la Cour de l'Échiquier du Canada (qui est par la suite devenue la Cour fédérale du Canada). Cette affaire se rapportait à la « transformation » de pommes de terre et de carottes. La société qui procédait à la transformation, à savoir Federal Farms Limited, choisissait les pommes de terre et les carottes quant à la taille et à l'uniformité, elle les lavait et les brossait pour enlever la terre, elle les arrosait à l'aide d'une solution de chlore en vue d'en prolonger la durée de conservation, elle les asséchait et les triait en sacs de 5, 10 et 20 livres et elle les envoyait aux magasins de détail. La Cour a statué que ces activités constituaient de la « transformation » . Le juge Cattanach a fait les remarques suivantes :
+[TRADUCTION]
+[...]
+Ici, il est clair que l'article 40A de la Loi de l'impôt sur le revenu traite des sociétés de fabrication et de transformation en général et que les mots « fabrication » et « transformation » figurant à l'alinéa 40A(2)a) sont employés sans restriction, dans leur acception usuelle. Si tel n'était pas le cas, et si les termes n'étaient pas employés sans restriction, il serait alors évidemment inutile d'énumérer les activités commerciales de certaines sociétés et de les signaler comme exclues du sens des mots « société de fabrication et de transformation » .
+L'article 40A de la Loi de l'impôt sur le revenu traite de matières touchant les sociétés de fabrication et de transformation en général. L'article n'a pas été adopté pour s'appliquer seulement à une industrie ou à un commerce déterminé; il s'ensuit donc que les mots en question doivent être entendus selon leur sens habituel, et non pas comme ayant un sens particulier pour des personnes versées dans le vocabulaire d'une industrie ou d'un commerce donné. C'est pourquoi je n'accepte pas la définition proposée par M. Long, lorsqu'il dit que la transformation suppose un changement matériel dans la texture et la structure du produit.
+[...]
+L'ouvrage Webster's Third New International Dictionary publié en 1964 définit ainsi le mot « process » (transformation) : [TRADUCTION] « soumettre à une méthode, un système ou une technique de préparation ou de manutention, ou à un autre traitement visant à obtenir un résultat particulier; faire suivre un processus spécial, comme (1) préparer pour la vente, la fabrication ou à une autre fin commerciale en soumettant à un certain procédé [...] »
+[...]
+La preuve produite par l'appelante relativement à ses activités me convainc que celles-ci étaient un procédé ou une série de procédés visant à préparer le produit pour le marché de détail. Incontestablement, et sans parler du fait de classer les légumes en catégories, une apparence propre et attrayante est un facteur important de commercialisation des légumes, surtout aujourd'hui si l'on songe aux méthodes actuelles de vente au détail. Bien que le produit vendu demeure un légume, il ne s'agit plus tout à fait du légume tel qu'il a surgi de la terre. Il a été nettoyé, ses qualités de conservation ont été améliorées; c'est dire qu'il est devenu plus attrayant et plus commode pour le consommateur.
+Les pommes de terre et les carottes étaient donc « transformées » par l'appelante au sens ordinaire et commun du mot qui, comme je l'ai conclu, doit s'appliquer en l'espèce, et au sens donné à ce mot par les dictionnaires susmentionnés, sens que j'ai accepté comme étant le sens ordinaire et commun du mot en question.
+À mon avis, les activités de l'appelante ne constituent pas uniquement de l'emballage, de sorte que l'appelante ne pourrait pas être considérée comme une société de fabrication et de transformation en raison de l'alinéa 3a) de l'article 40A. Selon moi, le mot « emballage » s'applique à l'activité finale de l'appelante, lorsqu'elle place les légumes dans des sacs, mais non aux étapes antérieures qui consistent à laver, à brosser, à arroser le produit, à l'assécher, à le diviser selon la taille, à le trier et à le classer en catégories.
+[9] L'avocat a en outre fait valoir que la décision Federal Farms Limited établit la norme qui a été utilisée dans tous les cas qui ont suivi et décrit ce qui constitue de la « transformation » .
+[10] L'avocat affirme en outre que ce que l'appelante fait constitue exactement ce qui, dans la décision Federal Farms Limited, est décrit comme de la « transformation » . Le marché spécial est constitué d'usines d'assemblage étrangères. Le produit est la trousse CKD et c'est le fait de préparer la trousse, les étapes à suivre pour organiser la trousse, qui constituent une activité de « transformation » de la part de TDS. L'avocat a cité plusieurs autres arrêts, mais il a confirmé que les principes fondamentaux indiquant ce qui constitue de la « transformation » avaient été établis dans la décision Federal Farms Limited.
+[11] L'avocat a également mentionné la décision que j'ai rendue dans l'affaire Cintas Canada Ltd. c. Canada, no 97-953(IT)G, 7 mai 1999, [1999] A.C.I. no 255; il a cité le passage suivant :
+[...]
+Le critère à appliquer pour déterminer s'il y a eu des activités de transformation, c'est-à-dire s'il y a eu un changement dans la forme, l'apparence ou d'autres caractéristiques des marchandises, et si celles-ci deviennent ainsi plus commercialisables, est par conséquent bien établi. L'application de ces principes dans une affaire donnée dépend des faits qui lui sont propres.
+La Cour d'appel fédérale a conclu que la transformation suppose que chaque produit est soumis à un procédé uniforme (Tenneco) ou que le produit est soumis à une méthode, à une technique ou à un système particulier de préparation ou de traitement (Harvey C. Smith). La preuve sur vidéocassette et le témoignage de M. Gedmintas montrent que les uniformes dont l'appelante faisait la location étaient soumis à un procédé uniforme et extrêmement organisé de traitement, c'est-à-dire retouches, adaptations et étiquetage à l'étape de l'apprêtage, du tri, du nettoyage et de la réparation des vêtements portés et salis, et, à la fin du procédé, du tri pour la distribution des vêtements. Le caractère systématique du procédé ou le fait qu'il est uniforme et organisé ne peut, à mon avis, être distingué de quelque façon significative que ce soit des procédés qui s'appliquaient aux légumes dans l'affaire Federal Farms [...]
+[12] L'avocat a en outre cité l'arrêt Harvey C. Smith Drugs Limited c. La Reine, no A-630-92, 9 décembre 1994, 95 D.T.C. 5026. Dans cet arrêt, la Cour d'appel fédérale a statué que les activités de Harvey C. Smith ne constituaient pas de la transformation. Entre autres choses, la Cour a dit ce qui suit :
+De par sa signification, le mot « transformation » employé dans son sens ordinaire ne peut désigner l'action de fournir des médicaments en comprimés ou en capsules lorsque les seuls gestes accomplis par le pharmacien consistent à enlever les comprimés ou les capsules décolorés, brisés, écaillés ou fendus, à compter le nombre de comprimés ou de capsules prescrits par le médecin et à les placer dans une fiole étiquetée et munie d'un bouchon sécuritaire. Les gestes accomplis par le pharmacien ne soumettent pas le produit [TRADUCTION] « à une méthode, à une technique ou à un système particulier de préparation ou de traitement afin d'obtenir un résultat déterminé » . Le produit original ne change pas d'état. [...]
+[13] L'avocat a tenté de faire une distinction avec l'arrêt Harvey C. Smith; voici ce qu'il a dit :
+[TRADUCTION]
+[...] Les activités de TDS consistent au départ à rassembler des pièces provenant de tous les coins de l'Amérique du Nord, de 1 000 fournisseurs différents, ou du moins 1 000 pièces différentes. Il peut y avoir 500 fournisseurs. Et, au bout d'environ six jours, comme nous l'a dit M. Dodd, ces pièces doivent être entièrement prêtes, elles doivent former une trousse CKD destinée à être exportée jusqu'aux usines d'assemblage étrangères.
+[...]
+[...] la différence entre les activités de TDS et celles de Harvey C. Smith Drugs est, de fait, fort importante.
+Les arguments de l'avocat de l'intimée
+[14] Ces arguments figurent aux pages 255 et suivantes de la transcription. Les passages les plus pertinents sont les suivants :
+[TRADUCTION]
+La caractérisation des activités du groupe TDS est cruciale lorsqu'il s'agit de trancher cet appel. Selon nous, malgré l'argumentation fort habile de Me Taylor, les activités auxquelles le groupe TDS se livre en vertu du contrat qu'il a conclu avec General Motors ne comportent que l'emballage aux fins du transport. Il s'agit simplement d'emballage. Et c'est ce que montrent les documents qui ont donné lieu au contrat.
+[...]
+Les faits de l'affaire montrent que General Motors fabrique ses voitures au Venezuela d'une façon différente de la façon dont elle les fabrique au Canada. General Motors fabrique les voitures en lots de 12, de 24, de 48, et elle envoie les pièces au Venezuela en trousses qui sont complètes en ce qui concerne les pièces nord-américaines nécessaires aux fins de la fabrication des voitures. Ces pièces sont toutes fabriquées en Amérique du Nord par des sous-traitants de General Motors ou par des fabricants au sein de General Motors. Ce qui a fait l'objet du contrat, c'est le service qui consiste à rassembler les pièces, à les mettre dans des boîtes et dans des caisses appropriées pour les envoyer au Venezuela dans un conteneur maritime. On ne fait pas d'assemblage. On n'utilise pas ces pièces de façon à contribuer dans la moindre mesure à fabriquer les voitures, soit le produit final que General Motors espère vendre.
+[...]
+La position que nous prenons est simplement la suivante : l'action individuelle qui consiste à prendre quelque chose parmi les pièces en vrac, à emballer un certain nombre d'articles, qu'il s'agisse d'une bouteille de médicaments, d'un sac de plastique, d'une boîte en carton ou d'une caisse en contreplaqué, que cela soit emballé selon le processus de PACV ou qu'on y ajoute des déshydratants, tout cela importe peu. Cette série d'étapes, le fait de compter les pièces, de les mettre dans un sac ou dans un contenant, ne constitue pas de la transformation. Par conséquent, selon nous, en termes simples, la loi établit clairement que l'emballage ne constitue pas de la transformation.
+Et je ne dis pas ici que la décision Federal Farms est erronée, parce que depuis qu'elle a été rendue dans les années soixante, c'est cette décision que tous les tribunaux judiciaires, que cette cour et que la Cour d'appel fédérale ont appliquée lorsqu'il s'agissait de trancher des questions liées à la fabrication et à la transformation. C'est cette décision que les tribunaux judiciaires sont prêts à appliquer. Le critère qui y est énoncé est celui que l'on applique.
+Cependant, selon moi, il n'est pas satisfait dans ce cas-ci au critère énoncé dans la décision Federal Farms. Ce critère comporte deux volets et nous nous entendons sur ce qu'ils sont. Il faut en premier lieu se demander si la forme, l'apparence ou une autre caractéristique des articles en cause est changée. Or, Me Taylor essaie de dire que l'on ne saurait considérer la pièce individuelle pour conclure à la transformation dans ce cas-ci, qu'il faut tenir compte de toutes les pièces ensemble lorsqu'elles sont mises dans des boîtes et que les boîtes sont mises dans trois contenants. Cette trousse CKD composée de 24 pièces constitue de la transformation. Or, ce n'est pas ce qui est visé par la loi.
+La loi vise le fait de prendre un matériau brut et de fabriquer quelque chose à l'aide de ce matériau, de le décomposer ou de prendre quelque chose et d'en changer la forme, la substance, le caractère, l'apparence de façon qu'il soit plus facile à commercialiser. Or, dans ce cas-ci, on ne fait rien qui ait pour effet de faciliter la commercialisation des pièces, que ce soit individuellement ou ensemble.
+Les pièces sont assemblées parce qu'elles ont déjà été vendues. General Motors est prête à vendre 24 voitures Impala en pièces détachées et elle remet les pièces au groupe TDS, elle lui demande de les mettre dans des boîtes selon les besoins de son client. Le client déclare vouloir des pièces qui sont destinées au point numéro 10 de la chaîne de montage, au point numéro 15, au point numéro 20. Nous avons le document qui montre l'importance de la chose. TDS répond donc aux exigences du client, mais elle ne transforme rien.
+On se contente de compter les pièces, de les emballer, de les envelopper pour les protéger contre les conditions auxquelles elles peuvent être exposées pendant qu'elles sont transportées du Canada au Venezuela ou ailleurs. Or, l'arrêt Range Grain nous apprend que le transport en soi ne constitue pas de la fabrication ou de la transformation. Et la protection d'un article aux fins du transport ne constitue pas de la transformation.
+Par conséquent, si l'on examine ce qui se passe réellement dans ce cas-ci, à la lumière des décisions qui ont été rendues et dont Me Taylor a fait mention, on constate qu'il existe une distinction fondamentale entre la présente affaire et ce qui s'est produit dans ces affaires-là, où il y avait un élément d'emballage ou un élément de transport qui était considéré comme faisant partie de la transformation d'un article au Canada. En effet, dans ce cas-ci, il n'y a pas de processus intégré où l'emballage et le transport ont lieu à la toute fin. Dans ce cas-ci, un fournisseur de service se contente d'emballer le produit et d'en faciliter le transport, un point c'est tout.
+[15] L'avocat analyse ensuite l'arrêt Harvey C. Smith, dans lequel il a été statué que l'emballage à lui seul ne doit pas être considéré comme de la « transformation » .
+[16] L'avocat mentionne d'autres arrêts dans lesquels il a été statué que le transport en soi ne constitue pas de la « transformation » .
+[17] L'avocat résume sa position comme suit :
+[TRADUCTION]
+[...]
+Notre position, dans ce cas-ci, est bien simple : ces arrêts étayent également l'affirmation selon laquelle une entreprise de transport ou une entreprise d'emballage qui ne fait rien pour changer la forme, l'apparence ou la caractéristique de l'article ou en vue d'en faciliter la commercialisation n'est pas admissible. C'est aussi simple que cela.
+L'avocat ajoute ce qui suit :
+[TRADUCTION]
+Que fait le groupe TDS ? Il rassemble, compte et emballe des pièces de voitures qui doivent être transportées par mer en vue d'être exportées. Le groupe TDS n'améliore aucunement les pièces. Il ne les transforme pas. Il n'y touche pas sauf pour les mettre dans la boîte ou dans la caisse appropriée.
+[18] L'avocat affirme en outre que l'application du PACV ne veut pas dire qu'il y a eu transformation. Le PACV sert uniquement à protéger les pièces pendant le transport. L'avocat conclut en disant ce qui suit :
+[TRADUCTION]
+Et en fin de compte, il a été conclu que l'utilisation de ce matériel ne donne pas droit à la déduction. En fin de compte, je suppose que nous affirmons que la présente affaire n'est pas compliquée. Les faits ne sont pas contestés. Il s'agit d'examiner les faits tels qu'ils sont, compte tenu du contrat conclu par General Motors et le groupe TDS ou les autres fabricants de voitures, dans la mesure où ils sont similaires. Or, il s'agit d'un contrat d'emballage.
+Le contrat se rapporte à la réception, à l'emballage et à la préparation en vue du transport. Ce n'est pas plus compliqué que cela. Et si le contrat est un contrat de prestation de services d'emballage, il n'y a pas de transformation et la jurisprudence est claire à ce sujet.
+Et je n'ai pas à réinventer ce qui constitue de la transformation, parce qu'il est clair que dans tous les arrêts, il a été statué, dans la mesure où des remarques ont été faites à ce sujet, que l'emballage ou le transport ne doit pas être exclu uniquement si cela fait partie d'une activité intégrée. Or, dans ce cas-ci, il n'y a pas d'activité intégrée.
+Analyse et conclusion
+[19] Je suis arrivé aux conclusions suivantes :
+a) Il est clair que les activités complexes de l'appelante ne consistaient pas simplement à emballer les pièces. L'appelante ne s'occupait pas non plus du transport dans le cadre du service fourni. L'appelante organisait le transport, mais le transport lui-même était assuré par des tiers.
+b) Les articles transformés étaient, comme l'a soutenu l'avocat de l'appelante, les trousses CKD qui étaient vendues au fabricant étranger, et non les pièces ou le produit fini, c'est-à-dire une voiture.
+c) Les activités de l'appelante faisaient au minimum partie du processus complet qui aboutissait, en fin de compte, à la production de voitures. Si l'appelante n'avait pas assemblé les trousses CKD (le jeu de meccano), les fabricants étrangers n'auraient pas pu produire un véhicule. Les activités de l'appelante faisaient partie intégrante de l'ensemble du processus.
+d) Les activités de l'appelante étaient fort différentes de celles auxquelles on se livrait dans l'affaire Harvey C. Smith, où l'on séparait et comptait des comprimés et ainsi de suite.
+e) Il est clair qu'il y avait une valeur ajoutée par l'appelante et que les UAE payaient fort bien l'appelante pour sa contribution. Il est fait mention du fait que les documents pertinents établissent que le plus souvent, le montant imputé à la « transformation » était environ cinq fois plus élevé que le coût des pièces.
+f) La question de la propriété des pièces a été soulevée dans la réponse, mais l'avocat de l'intimée a déclaré que ce point n'était plus en litige. C'est ce qui ressort également clairement du bulletin d'interprétation IT-145R figurant à l'onglet 16 du recueil conjoint de documents. En d'autres termes, le fait que l'appelante n'était pas propriétaire des pièces (qui appartenaient aux fabricants de voitures) ne veut pas pour autant dire que l'appelante ne s'occupait pas de transformation. En outre, la condition voulant qu'une vente ait lieu est remplie, étant donné que les trousses CKD et leur contenu étaient vendus aux UAE.
+g) Dans les cas ambigus, il peut être utile de se reporter à la politique sous-tendant la loi. Or, cette politique visait à encourager l'emploi et le travail au Canada et à permettre aux fabricants et transformateurs canadiens de faire concurrence aux entreprises étrangères. Cette politique s'appliquait tout particulièrement à l'appelante puisqu'elle était la seule société canadienne à exercer les activités en question. De plus, en pareil cas, il peut être utile d'examiner la décision qui a été rendue en 1973 et qui n'a été changée qu'en 1996. La décision ne lie pas le ministre du Revenu national, mais elle indique certes quel a été l'avis du ministre pendant une période fort longue.
+[20] En conclusion, pour les motifs susmentionnés, les activités de l'appelante au cours des années d'imposition pertinentes consistaient à transformer des articles destinés à la vente au sens du paragraphe 125.1(1) de la Loi. Par conséquent, l'appel est admis avec dépens et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations sur cette base.
+Signé à Ottawa, Canada, ce 11e jour de mai 2005.
+« T. O'Connor »
+Le juge O'Connor
+Traduction certifiée conforme
+ce 14e jour de juillet 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI40
+No DU DOSSIER DE LA COUR :
+2003-2715(IT)GI
+INTITULÉ :
+TDS Group Limited c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+London (Ontario)
+DATE DE L'AUDIENCE :
+Le 14 décembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable juge T. O'Connor
+DATE DU JUGEMENT :
+Le 11 mai 2005
+COMPARUTIONS :
+Avocats de l'appelante :
+Mes Roger Taylor et Michelle Anderson
+Avocats de l'intimée :
+Mes Peter M. Kremer, c.r., et Ifeanyi Nwachukwu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Roger Taylor et Michelle Anderson
+Cabinet :
+Couzin Taylor, LLP Ottawa (Ontario)
+Pour l'intimée :
+John H. Sims, c.r. Sous-procureur général du Canada Ottawa (Ontario)

@@ -1,0 +1,133 @@
+Title: Medvedev c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30109/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-629-30109-medvedev-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-12-06
+
+# Medvedev c. La Reine
+
+- Citation: 2010 CCI 629
+- Decision date: 2010-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7639, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Medvedev c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-06
+Référence neutre
+2010 CCI 629
+Numéro de dossier
+2007-4705(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4705(IT)G
+ENTRE :
+MIKHAÏL MEDVEDEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er novembre 2010 à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christina Ham
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est accueilli sans dépens et les nouvelles cotisations sont annulées.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté sans dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 7e jour de février 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 629
+Date : 20101206
+Dossier : 2007-4705(IT)G
+ENTRE :
+MIKHAÏL MEDVEDEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] Par des avis de nouvelles cotisations datés du 9 novembre 2005, le ministre du Revenu national (le « ministre ») a augmenté l’impôt à payer de l’appelant en ajoutant à son revenu les revenus non déclarés ainsi que des intérêts et des pénalités. Le ministre a utilisé la méthode des dépôts pour ajouter 81 570 $, 87 533 $ et 168 403 $ au revenu de l’appelant pour les années d’imposition 2001, 2002 et 2003 respectivement.
+[2] En l’espèce, les questions à trancher sont les suivantes :
+1. L’appelant est‑il redevable de l’impôt sur le revenu additionnel déterminé par le ministre relativement aux revenus non déclarés de 81 570 $ pour 2001, de 87 533 $ pour 2002 et de 168 403 $ pour 2003?
+2. L’appelant est‑il passible de pénalités, en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu, pour les années d’imposition pertinentes?
+Contexte factuel
+[3] L’appelant, Mikhaïl Medvedev, a quitté la Russie pour venir s’installer au Canada en 1991. En Russie, il travaillait comme ingénieur civil. Il n’a pas pu trouver d’emploi similaire au Canada. À l’audience, il a témoigné en russe et son témoignage a été traduit en anglais par un interprète russe qualifié.
+[4] L’appelant a expliqué avoir occupé divers emplois peu spécialisés à son arrivée au Canada en raison de sa capacité limitée de parler en anglais. À la fin des années 1990, il est retourné en Russie pour étudier les possibilités qui s’offraient à lui de démarrer une entreprise d’import‑export entre la Russie et le Canada. À cette époque, l’économie de la Russie affichait une croissance rapide en raison de l’adoption par le gouvernement de mesures de libre marché.
+[5] Les Russes prenaient rapidement goût aux biens de consommation produits en Occident. En tant qu’ingénieur, l’appelant était suffisamment confiant pour lancer une entreprise visant à acheter des voitures d’occasion et des pièces automobiles de rechange au Canada pour les exporter vers la Russie. D’après l’appelant, la concurrence dans ce domaine était féroce puisque ses clients russes pouvaient aussi acheter des voitures d’occasion et des pièces automobiles de rechange auprès de fournisseurs situés aux États-Unis. L’appelant soutient que la marge nette réalisée sur ses ventes n’était que de 4 % à 5 % en raison des conditions du marché concurrentiel dans lequel l’entreprise menait ses activités.
+[6] Initialement, l’appelant menait ses activités sous un nom commercial. Sur les conseils d’un courtier en douane, il a constitué son entreprise en personne morale en juin 2001, sous le nom 9105‑6085 Québec Inc. (la « compagnie ») notamment afin de limiter sa responsabilité à l’égard des défectuosités de produits. Il est devenu le seul actionnaire, dirigeant et employé de la compagnie.
+[7] L’appelant a exprimé sa frustration à l’égard des méthodes de vérification utilisées par Aïcha Hkim, la vérificatrice de l’Agence du revenu du Canada (l’« ARC ») qui, en définitive, a préparé les nouvelles cotisations qui ont été établies à son égard. Selon l’appelant, pendant ou immédiatement après son entrevue initiale, il a expliqué à Mme Hkim qu’il avait reçu de l’aide financière de son beau‑père, un homme d’affaires prospère en Russie. D’après l’appelant, les parents de son épouse comptaient rejoindre leur fille au Canada. Son beau‑père l’a encouragé à acheter une résidence où la famille pourrait vivre.
+[8] En octobre 2001, l’appelant a trouvé une maison en rangée qui avait été mise en vente à la suite de la récente séparation du couple qui en était propriétaire. Puisque la séparation n’était pas amicale, le processus de vente a été retardé. Une ordonnance du tribunal a dû être obtenue pour assurer la poursuite de la vente. Le prix d’achat convenu était de 210 000 $. L’appelant a rapidement appris que son prêteur hypothécaire exigeait un versement comptant de 50 % du prix d’achat pour approuver un prêt hypothécaire de 105 000 $. Il soutient qu’il a fait appel à son beau‑père pour obtenir de l’aide financière. Au début d’octobre 2001, il a ouvert un compte bancaire personnel en dollars américains afin de recevoir des virements de fonds de son beau‑père. Grâce aux virements de fonds en argent américain effectués par son beau‑père, l’appelant a reçu l’équivalent de 105 000 $ canadiens. Lorsque l’appelant a reçu les fonds, il les a retirés immédiatement et a utilisé des courtiers de change indépendants pour obtenir des dollars canadiens, qu’il a ensuite déposés dans son compte en dollars canadiens. Il a procédé de cette manière parce que, selon lui, les courtiers de change indépendants offraient de meilleurs taux de change que les banques.
+[9] L’appelant a déclaré dans son témoignage que la maison en rangée qu’il avait achetée avait été détruite dans un incendie en avril 2002. L’appelant et sa famille avaient été forcés de déménager et de louer un appartement pour 1 500 $ par mois. D’après l’appelant, l’incendie a bouleversé les activités commerciales de la compagnie parce que celles‑ci étaient menées à partir de sa résidence. Tous les livres comptables de la compagnie ont été détruits dans l’incendie. La compagnie d’assurance a retardé le paiement du produit de l’assurance, aggravant ainsi les difficultés financières de l’appelant ainsi que de sa famille. L’intimée n’a pas contesté le fait que les livres comptables de la compagnie jusqu’à la date de l’incendie ont été détruits dans l’incendie en question.
+[10] Selon l’appelant, en 2002 et en 2003, son beau‑père a continué à lui envoyer des fonds qu’il utilisait pour financer les activités de la compagnie. L’argent reçu pendant ces années à servi à acheter des voitures d’occasion et des pièces automobiles de rechange qui étaient vendues à des clients russes. D’après l’appelant, puisque les fonds reçus de son beau‑père étaient utilisés pour acquérir des stocks vendus dans le cours des activités de la compagnie, ils ont été déclarés comme un revenu brut d’entreprise au moment de la vente des biens financés avec l’argent emprunté.
+[11] L’appelant soutient que la vérificatrice de l’ARC a ignoré cette explication et qu’elle a traité tous les fonds déposés dans son compte personnel en dollars américains comme un revenu non déclaré qui aurait été gagné par lui‑même et non par sa compagnie grâce aux ventes de véhicules d’occasion et de pièces automobiles de rechange. L’appelant soutient qu’à l’étape de l’opposition, on lui a demandé d’obtenir des éléments de preuve documentaire démontrant que les virements bancaires vers son compte en dollars américains avaient été faits par son beau‑père. Il a produit une preuve documentaire traduite en anglais qui est censée démontrer que son beau‑père avait vendu au fil des ans suffisamment d’actions d’une société par actions à responsabilité limitée pour financer les avances qu’il avait reçues. En outre, l’appelant a soutenu que la compagnie avait fait l’objet d’une vérification par l’ARC et que seuls des écarts mineurs avaient été trouvés, lesquels ont été résolus à la satisfaction des deux parties.
+[12] Mme Hkim a témoigné pour l’intimée. Elle a expliqué que l’ARC avait sélectionné la compagnie aux fins de vérification, laquelle avait été menée en appliquant des méthodes de vérification indirectes. À la suite de la rencontre initiale entre l’appelant, Mme Hkim et son supérieur immédiat, Mme Hkim a préparé une analyse des sources de revenus combinés et du flux de trésorerie de l’appelant et de son entreprise, ainsi qu’une analyse de leurs décaissements combinés pour 2001, 2002 et 2003.
+[13] Selon Mme Hkim, ces mesures ont été prises en fonction du revenu déclaré aussi bien par la compagnie que par l’appelant, des coûts déclarés par la compagnie dans ses déclarations de revenus, ainsi que du versement comptant pour la maison en rangée et d’une estimation des frais de subsistance. Son analyse documentaire a été déposée sous la cote I‑1. Elle soutient qu’elle a interrogé l’appelant au sujet de l’analyse du flux de trésorerie préliminaire qu’elle avait préparée. Elle affirme que ce n’est qu’après cette deuxième entrevue que l’appelant lui a parlé de son compte bancaire en dollars américains et des fonds reçus par son beau‑père. Elle n’a pas accepté les explications de l’appelant au sujet des écarts constatés. Elle a conclu que tous les fonds déposés par l’appelant dans son compte personnel en dollars américains constituaient des revenus bruts non déclarés.
+[14] Lors du contre‑interrogatoire, Mme Hkim a admis que le revenu brut déclaré par la compagnie pour 2002 et 2003 dépassait le montant des fonds déposés dans le compte bancaire de la compagnie d’environ le même montant qu’elle avait considéré être un revenu non déclaré par l’appelant pour 2002 et 2003. Elle a aussi admis qu’elle savait que, durant les discussions au sujet d’un règlement qui avaient eu lieu avant l’audience, l’appelant avait tenté de convaincre l’avocate de l’intimée que tous les fonds déposés dans ses comptes personnels en 2002 et en 2003 avaient été déclarés comme des revenus de la compagnie. Même si Mme Hkim a admis qu’il était possible que les montants attribués à l’appelant comme étant des revenus non déclarés soient en fait déclarés comme des revenus de la compagnie, elle n’était pas prête à aller plus loin parce qu’il était encore possible que la compagnie ait d’autres sources de revenus non déclarés. Elle n’a pas expliqué pourquoi la compagnie n’avait pas fait l’objet d’une nouvelle cotisation s’il pouvait y avoir d’autres sources de revenus non déclarés.
+[15] Farah De Vito, l’agente de la Division des appels de l’ARC qui a examiné les objections de l’appelant à l’égard des nouvelles cotisations, a déclaré dans son témoignage qu’elle avait rejeté la preuve documentaire produite par l’appelant au sujet des moyens financiers de son beau‑père parce qu’elle ne possédait aucune confirmation directe provenant d’une institution financière indépendante démontrant que les fonds reçus par l’appelant avaient été envoyés par son beau‑père. D’après Mme De Vito, bien que l’appelant puisse avoir établi que son beau‑père avait les moyens de lui prêter les fonds qui ont été transférés dans ses comptes, il n’existait aucune preuve directe démontrant que les virements provenaient de lui.
+Analyse
+[16] La méthode de vérification choisie par l’ARC pour établir de nouvelles cotisations a une incidence directe sur la preuve qui doit être produite par l’appelant pour s’acquitter de son fardeau de la preuve. L’ARC reconnaît cette question en établissant un ordre hiérarchique parmi les trois méthodes indirectes utilisées le plus couramment pour déterminer les écarts entre le revenu déclaré et le revenu non déclaré. Dans son manuel de vérification daté de mars 2008, l’ARC mentionne que la méthode de la valeur nette doit être envisagée et utilisée en premier, à moins qu’il soit impossible d’obtenir les renseignements requis afin d’établir le relevé de la valeur nette démontrant l’évolution de l’actif et du passif du contribuable et des frais de subsistance personnels au cours de la période pertinente. À ce sujet, le manuel est ainsi libellé :
+[traduction]
+13.3.1 – Commentaires généraux
+Les articles qui suivent portent sur la politique de l’ARC à l’égard de l’utilisation de la vérification indirecte du revenu (VIR) comme méthode d’établissement de cotisation lorsqu’un contribuable/inscrit ne possède aucun livre comptable ou lorsque ceux‑ci sont inadéquats, ou alors lorsque les résultats d’une vérification démontrent que le revenu n’a pas été inscrit de manière exacte dans les livres comptables.
+Voici les méthodes de VIR :
+13.4.0 Valeur nette
+13.5.0 Vérification des dépôts bancaires non identifiés
+13.6.0 Cotisation basée sur les projections
+La méthode de VIR utilisée le plus fréquemment est le relevé de la valeur nette et cette méthode est celle qui est utilisée principalement par l’ARC. Les vérificateurs doivent utiliser la méthode de la valeur nette chaque fois que les renseignements disponibles leur permettent de préparer adéquatement le document.
+Dans le cadre du plan de vérification, le chef d’équipe doit être consulté et il doit approuver la méthode de VIR qu’il convient d’utiliser pour la vérification.
+[Non souligné dans l’original.]
+[17] Lors de l’audience, j’ai demandé à Mme Hkim pourquoi elle n’avait pas utilisé la méthode de la valeur nette pour déterminer le revenu non déclaré de l’appelant. Ma question n’a pas entraîné une réponse claire de la part de Mme Hkim. Le manuel de vérification de l’ARC prend 25 pages pour décrire la méthode qui doit être appliquée par le vérificateur de l’ARC pour effectuer une vérification de la valeur nette. Deux pages sont dédiées à la description des techniques de vérification des dépôts. Il est évident que la vérification de la valeur nette donnera une image plus fiable de la situation financière d’un contribuable et des écarts entre son train de vie avec ses habitudes de consommation et son revenu déclaré que ne le permettent les autres méthodes décrites dans le manuel. Puisque l’on n’a pas répondu à ma question, je dois conclure que Mme Hkim a trouvé que la méthode de la valeur nette, qui est plus détaillée, présentait un défi de taille, compte tenu de la capacité limitée de l’appelant de s’exprimer en anglais.
+[18] Le fardeau de la preuve de l’appelant est défini en fonction des hypothèses sur lesquelles le ministre s’est fondé pour établir les nouvelles cotisations. Mme Hkim a déclaré qu’elle avait présumé que tous les fonds déposés dans les comptes bancaires personnels de l’appelant en 2001, en 2002 et en 2003 constituaient un revenu non déclaré. Elle a rejeté l’explication de l’appelant quant au fait qu’il avait reçu des prêts de son beau‑père, qui avaient été utilisés en 2001, en 2002 et en 2003 pour financer les activités commerciales de la compagnie. Cependant, lors du contre‑interrogatoire, elle a admis que le revenu brut déclaré par la compagnie pour 2002 et 2003 équivalait à tous les fonds déposés dans les comptes bancaires de la compagnie et de l’appelant pendant ces années. Bien que la preuve de l’appelant ne soit pas parfaite, je conclus qu’il est plus probable qu’autrement que les fonds ont été utilisés pour financer les activités commerciales de la compagnie et qu’ils ont été déclarés en définitive comme un revenu brut de la compagnie. En d’autres mots, en 2002 et en 2003, l’appelant a reçu des prêts de son beau‑père qui ont été utilisés par la compagnie pour acquérir des stocks et ils ont été déclarés comme revenu brut lorsque le stock a été vendu par la compagnie. Si l’ARC avait basé ses résultats sur une vérification de la valeur nette, il aurait peut‑être été possible de prouver que les fonds avaient été utilisés par l’appelant à d’autres fins.
+[19] L’avocate de l’intimée a affirmé que je devrais écarter le témoignage de l’appelant en raison de la preuve de Mmes Hkim et De Vito, qui démontre que son histoire était incohérente. Je ne crois pas que c’est le cas. À mon avis, les parties éprouvaient d’énormes difficultés à se comprendre en raison des barrières linguistiques importantes qui ont rendu la vérification de l’ARC plus difficile en l’espèce. L’appelant ne doit pas être pénalisé pour cela.
+[20] Cependant, j’arrive à une conclusion différente en ce qui concerne l’explication fournie par l’appelant au sujet des fonds déposés dans son compte en dollars américains en 2001. L’appelant allègue que son beau‑père lui a transféré les fonds requis pour payer le versement comptant de 105 000 $ sur sa maison en rangée. Un examen des relevés bancaires de l’appelant pour 2001 montre que les dépôts effectués pour cette année‑là étaient inégaux et qu’ils ont été reçus tout au long de l’année. Par exemple, des montants de 7 997 $US, de 1 990 $US, de 2 890 $US et de 20 597 $US ont été déposés dans le compte bancaire de l’appelant respectivement le 10 octobre 2001, le 11 octobre 2001, le 18 octobre 2001 et le 26 octobre 2001.
+[21] Pourquoi le beau‑père de l’appelant ferait-il des dépôts de valeur inégale à de nombreuses dates si l’objectif des virements était de financer la somme de 105 000 $ due sur la maison en rangée? La conclusion la plus probable est que ces fonds étaient aussi liés à l’exploitation ou au financement des activités de la compagnie. Puisque l’appelant n’a produit aucune preuve pour démontrer que les fonds avaient effectivement été utilisés et déclarés comme revenu brut par la compagnie, la nouvelle cotisation établie pour 2001 doit être maintenue.
+Conclusion
+[22] Pour les motifs qui précèdent, l’appel à l’égard des années d’imposition 2002 et 2003 est accueilli et les nouvelles cotisations pour ces deux années sont annulées. L’appel relatif à l’année d’imposition 2001 est rejeté et, le résultat étant partagé, il n’y aura pas d’adjudication des dépens.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 7e jour de février 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 629
+NO DU DOSSIER DE LA COUR : 2007-4705(IT)G
+INTITULÉ : MIKHAÏL MEDVEDEV
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 1er novembre 2010
+MOTIFS DU JUGEMENT: L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 6 décembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

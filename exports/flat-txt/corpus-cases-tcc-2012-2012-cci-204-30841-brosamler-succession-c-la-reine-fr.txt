@@ -1,0 +1,155 @@
+Title: Brosamler (Succession) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30841/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-204-30841-brosamler-succession-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-06-12
+
+# Brosamler (Succession) c. La Reine
+
+- Citation: 2012 CCI 204
+- Decision date: 2012-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7400, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brosamler (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-12
+Référence neutre
+2012 CCI 204
+Numéro de dossier
+2011-3192(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011‑3192(IT)I
+ENTRE :
+SUCCESSION DU DÉFUNT GUNNAR BROSAMLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 mai 2012 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocate de l’appelante :
+Me Elizabeth Junkin
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+L’appel visant la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation en tenant compte du fait que, dans le calcul de l’obligation fiscale du défunt Gunnar Brosamler au titre de la Loi pour sa dernière année d’imposition, qui s’est terminée le 8 avril 2008, il y a lieu de soustraire de l’impôt payable le moindre des deux montants suivants :
+a) celui qui serait soustrait du montant d’impôt sur le revenu payable au titre de la Loi pour cette année-là si la somme de 94 038 $ venait s’ajouter aux pertes en capital réalisées par la succession du défunt Gunnar Brosamler dans l’année s’achevant le 8 avril 2009, lesquelles, aux termes de l’alinéa 164(6)c) de la Loi, sont réputées être des pertes en capital du défunt Gunnar Brosamler résultant de la disposition d’immobilisations par celui-ci durant sa dernière année d’imposition, qui s’est achevée le 8 avril 2008;
+b) 12 000 $.
+L’intimée doit verser à l’appelante les dépens, dont le montant est fixé à 1 200 $.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 9e jour d’août 2012
+Mario Lagacé, jurilinguiste
+Référence : 2012CCI204
+Date : 20120612
+Dossier : 2011‑3192(IT)I
+ENTRE :
+SUCCESSION DU DÉFUNT GUNNAR BROSAMLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Cet appel concerne deux contribuables, à savoir le défunt Gunnar Brosamler (qui est représenté par l’exécutrice testamentaire de la succession du défunt Gunnar Brosamler) et la succession du défunt Gunnar Brosamler (qui est représentée par la même exécutrice testamentaire). Par souci de commodité, le défunt Gunnar Brosamler sera ci‑après appelé « M. Brosamler » et sa succession sera ci‑après appelée la « succession ». Cet appel a été interjeté selon la procédure informelle, et l’avocate de l’appelante a confirmé que sa cliente avait décidé de limiter l’appel à 12 000 $ du montant d’impôt visé par la cotisation établie en vertu de la Loi de l’impôt sur le revenu[1] (la « Loi »).
+[2] M. Brosamler est décédé le 8 avril 2008 en Allemagne, pays dont il était alors résident. Il possédait, au moment de son décès, trois immeubles à usage locatif à Vancouver (Colombie-Britannique), qu’il avait acquis plusieurs années auparavant. Le montant des gains en capital réalisés par M. Brosamler du fait de la disposition réputée de ces immeubles aux termes du paragraphe 70(5) de la Loi n’est pas contesté; ces gains en capital sont les suivants :
+Immeuble sur West 3rd
+Immeuble sur West 16th
+Immeuble sur Allison
+Produit de disposition
+(juste valeur marchande en date du 8 avril 2008)
+2 950 000 $
+1 500 000 $
+2 300 000 $
+Prix de base rajusté
+53 000 $
+172 500 $
+145 200 $
+Gain en capital
+2 897 000 $
+1 327 500 $
+2 154 800 $
+Total
+6 379 300 $
+[3] Linda Leonard est la seule exécutrice testamentaire et la seule bénéficiaire aux termes du testament de M. Brosamler. Compte tenu des gains en capital très importants résultant de la disposition réputée des immeubles aux termes de la Loi ainsi que du substantiel impôt sur les successions payable en Allemagne, Mme Leonard a estimé qu’elle devait générer environ trois millions de dollars et qu’il lui fallait donc vendre au moins deux des immeubles. Les immeubles sur West 3rd et West 16th ont été vendus dans l’année qui a suivi le décès de M. Brosamler, ce qui a entraîné dans chaque cas une perte en capital. Lorsque le choix dont il est question à l’alinéa 164(6)c) de la Loi a été fait, les pertes en capital réalisées par la succession ont été réputées représenter des pertes en capital de M. Brosamler résultant de la disposition d’immobilisations au cours de sa dernière année d’imposition, qui s’est achevée le 8 avril 2008. En l’espèce, c’est le montant des pertes en capital qui est en litige.
+[4] Le testament de M. Brosamler a été homologué en Allemagne. Les deux parties ont convenu que la succession ne serait en mesure de vendre les immeubles à un tiers que si l’acte formaliste de transfert de M. Brosamler à la succession était enregistré conformément à la Land Title Act (Colombie‑Britannique), c’est-à-dire si le sceau était réapposé sur les lettres d’homologation en Colombie‑Britannique. Des frais d’homologation au titre de la Probate Fee Act (Colombie‑Britannique) et des frais juridiques ont été engagés pour obtenir des lettres d’homologation auxiliaires en Colombie‑Britannique.
+[5] La succession a ajouté une partie des frais susmentionnés au prix de base rajusté des immeubles (ce qui a eu pour effet d’augmenter le montant des pertes en capital de la succession réalisées à la disposition des immeubles, pertes qui, comme il a été noté précédemment, sont réputées être des pertes en capital réalisées par M. Brosamler au cours de sa dernière année d’imposition). L’Agence du revenu du Canada a soustrait du prix de base rajusté des immeubles le montant ajouté relativement à ces frais juridiques et d’homologation. La question à trancher dans le cadre du présent appel est de savoir si une partie desdits frais peut être ajoutée au prix de base rajusté des immeubles vendus ou, subsidiairement, si elle peut être déduite en tant que dépense liée à la disposition des immeubles.
+[6] La Cour d’appel fédérale a déclaré ce qui suit dans l’arrêt Her Majesty the Queen v. Stirling, [1985] 1 C.T.C. 275, 85 DTC 5199 :
+[...] Sauf erreur, le mot « coût » qu’on trouve dans ces articles signifie le prix que le contribuable a accepté de payer pour obtenir le bien en question; il ne comprend pas les dépenses que le contribuable a pu engager pour être en mesure de payer ce prix ou de conserver le bien par la suite.
+Les dispositions citées précédemment se rapportent au calcul d’un gain en capital.
+[7] L’avocate de l’intimée a fait valoir que, comme la succession avait acquis un intérêt dans les immeubles aux termes de la Estate Administration Act (Colombie‑Britannique), les lettres d’homologation auxiliaires n’étaient pas nécessaires pour l’acquisition de cet intérêt. Le paragraphe 77(1) de la Estate Administration Act (Colombie‑Britannique) prévoit :
+[traduction]
+77(1) Malgré une disposition testamentaire, si des biens immobiliers sont dévolus à une personne sans que quiconque ne puisse se prévaloir d’un droit de survie, au décès de la personne en question, ces biens seront dévolus à ses représentants personnels comme s’il s’agissait d’un chatel réel leur étant dévolu.
+[8] Il semblerait aussi, compte tenu de la décision rendue par la Cour d’appel de Colombie‑Britannique dans Forrest v. Howe, [1952] 1 D.L.R. 717 (C.A.C.-B.), que la succession peut avoir acquis un intérêt dans l’immeuble sans que l’acte formaliste de transfert à la succession n’ait été enregistré. Dans cette affaire, la Cour d’appel de Colombie‑Britannique a déclaré ce qui suit :
+[traduction]
+13 Mais l’avocat du défendeur, s’appuyant sur l’article 35 de la Land Registry Act, R.S.B.C. 1948, e. 171, fait valoir que l’acte formaliste de transfert non enregistré que détient le demandeur ne permet pas de lui transmettre le moindre bien, que ce soit en common law ou en equity. Cependant, j’estime que les précédents établissent clairement qu’un document exécuté par quiconque détient un intérêt ou un titre enregistré dans des biens-fonds, et qui vise à transférer ce titre ou cet intérêt à une autre personne, confère au titulaire des lettres ou au destinataire du transfert un titre ou un intérêt en equity dans les biens-fonds, même si celui‑ci n’est pas enregistré. Par ailleurs, les dispositions de l’article 35 de la Land Registry Act n’empêchent pas l’exécution de droits conférés par un document non enregistré : vide L. & C. Lumber Co. v. Lundgren, [1942] 4 D.L.R. 637, 58 B.C.R. 270; Davidson v. Davidson, [1946], 2 D.L.R. 289, R.C.S. 115; Greveling v. Greveling, [1950] 2 D.L.R. 308.
+[9] Cependant, l’intérêt dans les immeubles vendu par la succession (et qui a entraîné les pertes en capital aux termes de la Loi) ne correspondait pas à l’intérêt que la succession a acquis aux termes du paragraphe 77(1) de la Estate Administration Act (Colombie‑Britannique), pas plus qu’à l’intérêt qu’elle a pu acquérir par l’effet d’un acte formaliste de transfert non enregistré. L’intérêt vendu par la succession visait les immeubles et pouvait être enregistré au titre de la Land Title Act par les acheteurs; pour l’acquérir, la succession a dû engager des frais juridiques et d’homologation. Ce titre, qui pouvait être transféré aux acheteurs et enregistré par ces derniers en vertu de la Land Title Act, ne pouvait être acquis par la succession que si le sceau était réapposé sur les lettres d’homologation en Colombie‑Britannique et que les frais d’homologation indiqués étaient acquittés, conformément aux exigences de cette loi. Une partie des frais juridiques et d’homologation ont donc été engagés pour acquérir le titre à l’égard des immeubles vendus (ce qui a entraîné les pertes en capital réalisées par la succession aux termes de la Loi), et peuvent ainsi être ajoutés au prix de base rajusté des immeubles comme coût de l’intérêt dans les immeubles acquis par la succession.
+[10] Par ailleurs, il paraît évident que, si le montant des frais juridiques et d’homologation ne se rajoute pas au prix de base rajusté des immeubles, il s’agit alors de dépenses liées à la disposition des immeubles. Ces sommes seraient donc déductibles dans le calcul des pertes en capital réalisées par la succession à la disposition de ces immeubles. Que le montant approprié soit inclus dans le calcul du prix de base rajusté des immeubles ou déduit comme dépense liée à leur disposition, le montant des pertes en capital réalisées par la succession (réputées être des pertes en capital de M. Brosamler) sera identique.
+[11] Les frais d’homologation de 101 172 $ reposaient sur la valeur des actifs de M. Brosamler en Colombie‑Britannique. Il me semble que la partie des frais d’homologation pouvant être ajoutée au prix de base rajusté des immeubles vendus devrait être proportionnelle à la valeur de ces immeubles utilisée aux fins d’homologation par rapport à la valeur de l’ensemble des actifs de M. Brosamler en Colombie‑Britannique utilisée aux fins d’homologation. Les frais juridiques de 59 029 $ devraient être attribués au prix de base rajusté des immeubles dans les mêmes proportions. La valeur totale de l’ensemble des actifs en Colombie‑Britannique ayant été utilisée pour l’homologation est de 7 250 373 $. Par conséquent, le montant qui devrait être ajouté au prix de base rajusté des immeubles vendus est le suivant :
+Immeuble sur West 3rd
+Immeuble sur West 16th
+Valeur pour le calcul des frais d’homologation :
+2 836 100 $
+1 421 100 $
+Pourcentage de l’actif total en C.‑B. :
+39,1 %
+19,6 %
+Frais d’homologation attribués au coût :
+39 558 $
+19 830 $
+Frais juridiques attribués au coût :
+23 080 $
+11 570 $
+Montant total ajouté au coût :
+62 638 $
+31 400 $
+[12] Par conséquent, le montant total ajouté au prix de base rajusté (qui correspond au coût de l’immeuble rajusté conformément aux dispositions de la Loi) des deux immeubles vendus est de 94 038 $ (62 638 $ + 31 400 $), et ce montant doit donc s’ajouter au total des pertes en capital réalisées par la succession, mais réputées avoir été réalisées par M. Brosamler au cours de sa dernière année d’imposition.
+[13] Par conséquent, l’appel visant la nouvelle cotisation établie en vertu de la Loi est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation en tenant compte du fait que, dans le calcul de l’obligation fiscale de M. Brosamler au titre de la Loi pour sa dernière année d’imposition, qui s’est terminée le 8 avril 2008, il y a lieu de soustraire de l’impôt payable le moindre des deux montants suivants :
+a) celui qui serait soustrait du montant d’impôt sur le revenu payable au titre de la Loi pour cette année-là si la somme de 94 038 $ venait s’ajouter aux pertes en capital réalisées par la succession dans l’année s’achevant le 8 avril 2009, lesquelles, aux termes de l’alinéa 164(6)c) de la Loi sont réputées être des pertes en capital de M. Brosamler résultant de la disposition d’immobilisations par celui-ci durant sa dernière année d’imposition, qui s’est achevée le 8 avril 2008;
+b) 12 000 $.
+L’intimée doit verser à l’appelante les dépens, dont le montant est fixé à 1 200 $.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 9e jour d’août 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012CCI204
+No DU DOSSIER DE LA COUR : 2011‑3192(IT)I
+INTITULÉ : SUCCESSION DU DÉFUNT GUNNAR BROSAMLER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 2 mai 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 12 juin 2012
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Elizabeth Junkin
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Elizabeth Junkin
+Cabinet : Junkin Law Office
+Vancouver-Nord (Colombie‑Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Canada)
+[1] Aucune pénalité n’avait été imposée en l’espèce.

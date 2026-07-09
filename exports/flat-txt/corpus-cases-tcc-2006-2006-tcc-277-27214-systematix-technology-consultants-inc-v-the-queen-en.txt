@@ -1,0 +1,175 @@
+Title: Systematix Technology Consultants Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27214/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-277-27214-systematix-technology-consultants-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-01
+
+# Systematix Technology Consultants Inc. v. The Queen
+
+- Citation: 2006 TCC 277
+- Decision date: 2006-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 820, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Systematix Technology Consultants Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-01
+Neutral citation
+2006 TCC 277
+File numbers
+2005-2925(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2006TCC277
+Date: 20060901
+Docket: 2005-2925(GST)I
+BETWEEN:
+SYSTEMATIX TECHNOLOGY CONSULTANTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on March 17, 2006, in Edmonton, Alberta
+and modified for clarity and accuracy.)
+Archambault, J.
+[1] Systematix Technology Consultants Inc. (Systematix) is appealing an assessment issued by the Minister of National Revenue (Minister) under the Excise Tax Act (Act). The Minister disallowed a portion of the input tax credits (ITCs) that were claimed by Systematix for the period from July 1, 2001, to December 31, 2003 (relevant period).
+[2] The minister disallowed ITCs on the basis that the invoices provided by Systematix suppliers did not contain all the prescribed information required under subsection 169(4) of the Act and subparagraph 3(b)(i) of the Input Tax Credit Information (GST/HST) Regulations (Regulations). It is common ground between the parties that the only issue before this Court is whether a proper GST registration number was provided on the invoices.
+[3] At the outset of the hearing, counsel for the respondent informed the Court that her client agreed that ITCs of $8,621.73 claimed in connection with supplies provided by Compasyst Inc. should be allowed. Counsel for Systematix responded as hereunder indicated in parentheses to the facts outlined in paragraph 11 of the reply to the notice of appeal:
+(a) at all material times the Appellant was a registrant; (admitted)
+(b) the Appellant was required to file its returns on a monthly basis; (admitted)
+(c) at all material times the Appellant provided computer consulting services to businesses and government bodies across Canada(the "Activity"); (admitted)
+(d) at all material times the supplies made by the Appellant were taxable; (admitted)
+(e) in order to carry on the Activity the Appellant utilized employees and contractors; (denied)
+(f) the appellant had offices in Kelowna, Calgary, Edmonton and Toronto; (admitted)
+(g) the accounting data from all of the offices was entered into the general ledger by the Appellant's accountant, who had an office in British Columbia; (admitted)
+(h) the Appellant claimed input tax credits totalling $1,526,158.03 on the returns that it filed for the reporting periods that ended during the Relevant Period (the "Claimed Input Tax Credits"); (admitted)
+(i) the Appellant claimed input tax credits totalling $19,083.95 with respect to supplies of property and services supplied by the persons identified in Schedule B; (admitted)
+(j) $1,561,16 of the Claimed Input Tax Credits related to supplies of property and services made by Infinet Solutions; (admitted)
+(k) the registration number the Appellant had for Infinet Solutions was 898003264; (denied)
+(l) at all material times Infinet Solutions was not assigned registration number 898003264; (no knowledge)
+(m) at all material times no registration number was assigned to Infinet Solutions; (no knowledge)
+(n) $5,396.16 of the Claimed Input Tax Credits related to supplies of property and services made by Frederick Gele; (admitted)
+(o) Frederick Gele was deregistered effective December 31, 2002;(no knowledge)
+(p) no registration number was assigned to Frederick Gele during 2003; (no knowledge)
+[. . .]
+(v) $735.00 of the Claimed Input Tax Credits related to supplies of property and services made by PPJ Consulting Inc. and/or Philip Pryce-Jones; (admitted)
+(w) the registration number the Appellant had for PPJ Consulting Inc. and/or Philip Pryce-Jones was 895036606; (no knowledge)
+(x) at all material times PPJ Consulting Inc. was not assigned registration number 895036606; (no knowledge)
+(y) at all material times Philip Pryce-Jones was not assigned registration number 895036606; (no knowledge)
+(z) at all material times no registration number was assigned to PPJ Consulting Inc.; (no knowledge)
+(aa) at all material times no registration number was assigned to Philip Pryce-Jones Consulting Inc.; (no knowledge)
+(bb) $140.00 of the Claimed Input Tax Credits related to supplies of property and services made by Cap Gemini Ernst & Young US LLC; (admitted)
+(cc) the Appellant did not have a registration number for Cap Gemini Ernst & Young US LLC; (denied)
+(dd) at all material times no registration number was assigned to Cap Gemini Ernst & Young US LLC; (denied)
+(ee) $2,629.90 of the Claimed Input Tax Credits related to supplies of property and services made by The Fergusons Consulting Inc. and/or F Squared Consulting Inc.; (admitted)
+(ff) the registration number the Appellant had for The Fergusons Consulting Inc. and/or F Squared Consulting Inc. was 865813505; (no knowledge)
+(gg) at all material times The Fergusons Consulting Inc. was not assigned registration number 865813505; (no knowledge)
+(hh) at all material times F Squared Consulting Inc. was not assigned registration number 865813505; (no knowledge)
+(ii) at all material times no registration number was assigned to The Fergusons Consulting Inc.; (no knowledge)
+(jj) at all material times no registration number was assigned to F Squared Consulting Inc.; (no knowledge)
+(kk) the Appellant did not obtain and retain sufficient documentation, which included the prescribed information, to support that it was entitled to the input tax credits set out in the attached Schedule B. (denied)
+Facts
+[4] Systematix provides information technology solutions to its clients through the services of subcontractor consultants. Most of the invoices that are at issue before the Court are from these suppliers. They fall into two different categories, although in their arguments the parties defined their categories differently. In the first category, we have one or more invoices representing a total of $140 in ITCs and on which the GST registration number did not appear. In this category, we have only one supplier, Cap Gemini Ernst & Young US LLC. Although no invoice was produced in evidence, the appeals officer testified that no registration number appeared on the invoices. I believe that the burden of proof was on Systematix to provide invoices showing a registration number. In any event, according to the appeals officer's testimony, the Minister's database did not show any registration number having ever been issued to this particular supplier.
+[5] In the second category, the invoices do provide a registration number but the number was not valid at the relevant time. This category can be divided into three subcategories. In the first of these, a valid registration number appears but only for a period prior to the relevant period because the number had been revoked by the Minister before the relevant period. In this subcategory of invoices we have those issued by Infinet and Frederick Gele. In the latter's case, a valid registration number had been issued to Mr. Gele, but it had been revoked on December 31, 2002, prior to the provision of the supplies in 2003. As for the registration number on Infinet's invoices, not only was it valid for a prior period, but it had been issued to another supplier. Apparently this number had been issued sometime in 1995 and revoked on the same day. So Infinet had no valid registration number during the relevant period.
+[6] The second subcategory of invoices involves a valid registration number for the supplier, but one not valid until after the relevant period. In this category we have the invoices of F Squared Consulting Inc. In this particular case, the registration number took effect only after 2003. Before that, F Squared did not have a registration number.
+[7] In the third subcategory, the registration number shown on the invoices is invalid because it does not appear in the minister's database and the evidence does not show that a valid registration number had been issued to the supplier, PPJ Consulting Inc.
+Analysis
+[8] The relevant provision is paragraph 169(4)(a) of the Act, which provides as follows:
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed . . .
+[My emphasis.]
+[9] Prescribed information is defined in subparagraph 3(b)(i) of the Regulations, which provides:
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+[. . .]
+(b) where the total amount paid or payable shown on the supporting documentation[1] in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,[2]
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+[. . .]
+[My emphasis.]
+[10] In my view, these provisions make it clear that a registrant may not claim an ITC unless, before filing the return, he has obtained the prescribed information, which includes the registration number of the supplier. This interpretation has been adopted by many of my colleagues. In Helsi Construction Management Inc. v. R., [2001] G.T.C. 396, Associate Chief Judge Bowman (as he then was), observing that GST registration numbers were not shown on the invoices, said in paragraph 11:
+[...] This is a requirement under section 3 of the Input Tax Credit Information Regulations. While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory (for example see Senger-Hammond v. R. (1996), [1997] 1 C.T.C. 2728 (T.C.C.) that is not so in the case of the GST provisions of the Excise Tax Act.
+[My emphasis.]
+[11] Judge McArthur in Alexander Nix Group Inc. v. R., [2002] G.T.C. 334, [2002] G.S.T.C. 100, basically stated at paragraph 6 that he agreed with this conclusion. He cited this additional portion of Bowman A.C.J.'s decision, taken from paragraph 13 thereof : "Moreover, it [meeting technical requirements] is the foundation of a self-assessing system that operates in the commercial world."
+[12] Here, the outcome of the appeal depends on the meaning to be assigned to the word "registration number assigned under subsection 241(1) of the Act to the supplier" (My emphasis) found in paragraph 3(b)(i) of the Regulations. Systematix counsel basically adopts the position enunciated by David Sherman as follows in his commentary on the Alexander Nix Group decision:
+In this particular case, there was a technical solution available that Judge McArthur might have considered. The Regulations require that the recipient have on hand "the registration number assigned under subsection 241(1) of the Act to the supplier". "Assigned" here is a verb, not an adjective. The number provided by the supplier had in fact been assigned to it under subsec. 241(1). It had also been cancelled. However, that does not mean it had never been assigned.
+Judge McArthur referred to this requirement and stated (para. 1): "I take that to mean a valid registration number". However, this is adding a word ("valid") which was not enacted, something the Supreme Court of Canada has frowned on (see, e.g., Friesen, [1995] 2 C.T.C. 369 at 378). One can argue that the Regulations could have said "assigned to the supplier and not cancelled", or similar wording, and that in the absence of such language the Court should not "read in" these extra words.
+[My emphasis.]
+[13] I would mention that, in addition to Friesen, there is the other decision of the Supreme Court of Canada in Shell Canada Limited v. The Queen, 99 DTC 5669, where, at paragraph 40, Madam Justice McLachlin writes:
+[40] Second, it is well established in this Court's tax jurisprudence that a searching inquiry for either the "economic realities" of a particular transaction or the general object and spirit of the provision at issue can never supplant a court's duty to apply an unambiguous provision of the Act to a taxpayer's transaction. Where the provision at issue is clear and unambiguous, its terms must simply be applied . . .
+[My emphasis.]
+[14] Justice McLachlin cites in her reasons the well-known decision of the Supreme Court of Canada in Antosko et al. v. The Queen, 94 DTC 6314.
+[15] It is true that the word "valid" is not used in section 3 of the Regulations, and it should not, as a general rule, be added thereto as an implied condition. However, the question is whether the provision is "clear and unambiguous", to use the words of Justice McLachlin. The solution to the problem raised by this question requires a rigorous application of paragraph 3(b)(i) of the Regulations. First, the issue is not whether we have a "registration number assigned", but whether there was a "registration number assigned under subsection 241(1) of the Act to the supplier". In my view, the key word in this provision is "under". That preposition has numerous meanings, but I believe that the most relevant ones are the following that I found in The New Shorter Oxford Dictionary, Vol. 2, page 3470: "16 a Authorized or attested by. arch ME; and b In accordance with".
+[16] It seems to me that the stronger requirement would result from the application of definition 16b. A requirement of a registration number assigned "by the authority of" section 241 is not as demanding as a requirement of a number assigned "in conformity or in compliance with" section 241. To decide which of these definitions is the more appropriate, I think it is useful, if not required, to look at the French version of paragraph 3(b)(i) of the Regulations which is as authoritative as the English version. The French version contains the following: ". . . le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur . . ." (My emphasis.). "Conformément au" means in English "in conformity with", "in accordance with". In Le Petit Robert, 2002, the expression "conformément à" is defined as follows : "d'une manière conforme à . . . Conformément à la loi". So in my view, a registration number must be assigned in conformity with section 241 to the supplier.
+[17] The next question is what point in time is to be considered in determining whether there is a number assigned in conformity with section 241? The Regulations are silent as to the time that is relevant. Is it when the number was assigned originally or when the supply was made? It should be noted that the Regulations do not say assigned "originally" under section 241 or the number "that had been" assigned under section 241, as Sherman argues. Nor does it say the number that has been assigned under section 241 "and is still valid at the time that the GST is being paid to the supplier". Therefore, in my view, we have here a situation where the provision is unclear and ambiguous and several different interpretations could be adopted.
+[18] I think one can interpret this provision in a number of ways. In addition to the two already mentioned, a case could be made that the relevant time is the time of filing the GST return. The decision as to which interpretation should be adopted has to be based on the purposive approach, which takes into account the general object and spirit of the provision that is in keeping with the overall scheme of the Act. Is it possible that Parliament intended that a purchaser could get an ITC if a registration number had at one point been issued in conformity with section 241 but has since been revoked? It seems to me that this interpretation results in a curious outcome and should be rejected. It makes more sense that the relevant time for the purpose of determining whether there is a registration number assigned in conformity with the Act should be the time the supply is being made, which should correspond to the time that the GST is being collected. Another possibility could be the time at which a GST return is filed, because it is at that time that one must have all the relevant and prescribed information. However, one thing is clear: if the registration number was issued after the filing of the GST return, one cannot have met the requirement that the registrant have all the prescribed information "before filing the return in which the credit is claimed" laid down in subsection 169(4) of the Act. So, any interpretation suggesting that a valid registration number issued after the filing of the GST return may meet the requirement must also be rejected.
+[19] In Joseph Ribkoff Inc. v. The Queen, 2003 TCC 397, [2003] G.T.C. 845, [2003] G.S.T.C. 104, a number of analogies were drawn to help in resolving the issue before this Court. So I will venture one of my own. If one wants to make a phone call to a particular person and has to look up the person's number in the phone book, it is not very useful to have an assigned telephone number that has been validly issued to that person by the phone company if the company has since discontinued service for that number. To my mind, the relevant time at which an assigned phone number is useful is the time the phone call is being made. I accordingly conclude that, from the standpoint of compliance with subsection 169(4) of the Act and with the Regulations, the relevant time at which there must be a registration number assigned to the supplier in conformity with subsection 241(1) is the time of the supply or, at the latest, the time of the filing of the return[3]. When the Minister is provided with the GST return, he would have all the relevant information showing that the GST has been paid, collected by the supplier, and hopefully remitted to the supplier's principal, i.e., the Minister.
+[20] Before concluding, I wish to state that I agree with Sherman that the situation is unfair for a recipient of supplies who pays the GST in good faith, but the Act must be applied strictly, and it cannot be stretched to avoid what may be perceived by some as unfairness. Indeed, Sherman seems to acknowledge this fact by stating in his comment on the Alexander Nix Group decision: "This interpretation would be a bit of a stretch, but it would get to a fair result in situations where a purchaser relies in good faith on an invalid GST number." (My emphasis.) He then offers this wise advice until such time as a body of case law developed on this point:
+. . . Perhaps businesses will just have to learn that, for protection against ITCs being denied, they must flood the CCRA with calls to the Business Window to ask for confirmation on every significant invoice they receive from a new supplier -- or even an old supplier which might have recently been deregistered!
+[21] Furthermore, it should be noted that Systematix had stipulated in its contracts with its consultants that it had a right of action against them to recover the taxes paid to them but not remitted to the minister. So Systematix is not without recourse! Obviously, this may not be of much help if the supplier has disappeared or is in financial difficulties.
+[22] So let us apply the aforementioned principles to the facts of this appeal. Did Systematix have all the prescribed information - such as its suppliers' registration numbers - before filing its GST return? For the invoices of the first category, I do not have any evidence that Cap Gemini provided such information. Therefore, with regard to that category this requirement has not been met by Systematix. As for the invoices in the second category, the best case that Systematix had, in my view, was with respect to those showing a valid registration number that had been issued to the supplier but revoked before the relevant time. For the reasons outlined above, this is not sufficient to meet the requirements of subsection 169(4) of the Act. Hence none of the registration numbers for the invoices at issue were validly assigned numbers at the relevant times during the relevant period.
+[23] I would like to add one last comment with respect to the Ribkoff decision relied on by Systematix. I note, in light of paragraph 77, that the issue there seems to have been related more to the name of the supplier than to the registration number. I therefore do not see how this decision can be of any help to Systematix.
+[24] In the alternative, counsel for Systematix made two additional arguments. They are basically of the same nature and are based on subsections 296(2.1) and 296(2) of the Act. The first-mentioned provision reads as follows:
+(2.1) Allowance of unclaimed rebate - Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the "overdue amount") that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable rebate") would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall, unless otherwise requested by the person, apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[My emphasis.]
+[25] In support of his view that an amount of rebate would have been payable, counsel for Systematix referred me to subsection 261(1) of the Act, which deals with a rebate for payments made in error. That subsection provides:
+261(1) Rebate of payment made in error - Where a person has paid an amount
+(a) as or on account of, or
+(b) that was taken into account as,
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+[26] Counsel for Systematix seemed to be under the impression that to pay GST to an unregistered supplier is not only unwise but not required. In cross-examining the appeals officer, he insinuated that it might not be a good idea to pay GST paid to an unregistered supplier, and during his argument, he stated that GST paid to such a supplier would be an amount paid by mistake and should be refundable through the rebate mechanism. In the course of the hearing, I brought to his attention subsection 165(1), the main charging provision of the Act dealing with GST:
+165(1) Imposition of goods and services tax - Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+[27] Furthermore, under subsection 221(1) of the Act:
+221(1) Collection of tax - Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+[My emphasis.]
+[28] Thus, we can see that the charging and the collection provisions have nothing to do with the supplier's status as a registrant. So in my view, whether a supplier is registered or not, he would have to collect the GST. I believe that counsel was wrong in suggesting to the appeals officer that it would be unwise to pay the GST to an unregistered supplier. Such a supplier would have the obligation to collect the tax and to remit it to the minister. In my opinion, counsel's argument that the GST paid to an unregistered supplier could be refunded as a rebate is ill-founded. In addition, there is no evidence to enable me to conclude that the suppliers in the present case were "small suppliers" within the meaning of the Act and that no GST was payable. In summary, there is no evidence that GST was paid in error.
+[29] The other argument, based on subsection 296(2) of the Act, appears equally ill-founded. That provision reads as follows:
+296(2) Allowance of unclaimed credit - Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable credit") would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met,
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+(c) the allowable credit would be allowed, as an input tax credit or deduction in determining the net tax for a reporting period of the person, if it were claimed in a return under Division V filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that return only because the period for claiming the allowable credit expired before that day,
+the Minister shall, unless otherwise requested by the person, take the allowable credit into account in assessing the net tax for the particular reporting period as if the person had claimed the allowable credit in a return filed for the period.
+[30] It seems to me that in order to qualify under this provision you still need to meet the prescribed information requirement. I therefore fail to see how these provisions can help Systematix position.
+[31] For all of these reasons, I come to the conclusion that the appeal will be allowed and that the assessment will be referred back to the minister for reconsideration and reassessment on the basis that Systematix is only entitled to an additional input tax credit of $8,621.73 with respect to services provided by Compasyst Inc.
+Signed at Montreal, Québec, this 1st day of September 2006.
+"Pierre Archambault"
+Archambault J.
+CITATION: 2006TCC277
+COURT FILE NO.: 2005-2925(GST)I
+STYLE OF CAUSE: SYSTEMATIX TECHNOLOGY CONSULTANTS INC. v. THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: March 15 and 17, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: September 1, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gordon. D. Beck
+Counsel for the Respondent:
+Marla N. Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gordon D. Beck
+Firm: Field LLP
+Edmonton, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It should be mentioned that "supporting documentation" in the Regulations means any form on which information prescribed by section 3 is contained, and includes an invoice.
+[2] For amounts over $150, subparagraph 3(c)(i) refers to subparagraph 3(b)(i) of the Regulations.
+[3] I have not decided which of the two times is the relevant time because this issue has not really been argued before me and I have not had the benefit of a comprehensive analysis on the issue. Furthermore, it is not critical here that such a determination be made. However, I am inclined to think that the relevant time is when one pays the GST to the supplier. It is at that time that one should verify if the supplier is registered. If it is, then the purchaser should be entitled to the ITC, even if the registration number is revoked the following day, provided the other requirements of the Act have been met.

@@ -1,0 +1,192 @@
+Title: Inco Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27486/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-1-27486-inco-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-08
+
+# Inco Limited v. The Queen
+
+- Citation: 2007 TCC 1
+- Decision date: 2007-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 45, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inco Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-08
+Neutral citation
+2007 TCC 1
+File numbers
+2005-4283(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4283(IT)G
+2006-177(IT)G
+BETWEEN:
+INCO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 30, 31 and November 3, 2006 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Jacques Bernier
+Counsel for the Respondent:
+Arnold H. Bornstein
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1996, 1997, 1998, 1999 and 2000 taxation years is dismissed.
+The respondent is entitled to costs.
+Signed at Toronto, Ontario, this 8th day of January, 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC1
+Date: 20070108
+Docket: 2005-4283(IT)G
+2006-177(IT)G
+BETWEEN:
+INCO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Inco Ltd. appeals assessments of large corporations tax (LCT) under Part I.3 of the Income Tax Act (the "Act") for the 1996, 1997, 1998, 1999 and 2000 taxation years.
+[2] The question is whether share options issued by the appellant in connection with a corporate acquisition are required to be included in computing capital for purposes of the LCT. Approximately $60,000 of tax is at issue for each taxation year under appeal.
+[3] The respondent is of the view that the share options should be included in capital, either as contributed surplus or another type of surplus pursuant to s. 181.2(3)(a) of the Act. The appellant disagrees.
+I. Background
+[4] The share options that are at issue were granted as part of the appellant's $4 billion acquisition of the shares of Diamond Fields Resources Inc. (DFR). As a result of the takeover, which occurred on August 21, 1996, the appellant acquired a large mineral deposit near Voisey's Bay in Northern Labrador.
+[5] Prior to the acquisition, DFR had issued stock options to some of its employees and executives. The appellant desired to get rid of these options before DFR was taken over in order that it could become the sole shareholder. Accordingly, eight optionholders exchanged their DFR options for share options issued by the appellant (the "Options") and no DFR options remained outstanding after the acquisition.
+[6] The exchange was effected by agreements made with each optionholder which provided that the appellant would grant the Options in consideration for the cancellation of the DFR options.
+[7] At the time of the exchange, the DFR options were "in the money," that is, they could be exercised for a price less than the then market value of the DFR shares to be acquired. The Options had a value equivalent to the DFR options at the time of the exchange.
+[8] Each Option entitled the holder to receive, upon payment of the exercise price, shares in three classes of capital stock of the appellant and shares of a subsidiary of the appellant. The right to acquire the subsidiary's shares was not raised as an issue and I have assumed that it is not relevant to this appeal.
+[9] It is agreed by the parties that the exchange of options was an integral part of the DFR takeover and that the Options were granted as part of the consideration for DFR. Not every person who exchanged options became employed by the appellant and the Options were not issued as a form of executive compensation.
+[10] Because the DFR options were in the money at the time of the exchange, their cancellation logically would have increased the value of the issued and outstanding DFR shares owned by the appellant.
+[11] For purposes of financial statement presentation, the appellant valued the Options at the time of issue at $30,985,727 and this value was reflected on "both" sides of its balance sheet. On the left side, this amount was included in the cost of the DFR shares and, on the right side, the amount representing unexercised Options was treated as equity.
+[12] More particularly, the entries on the balance sheet for each relevant taxation year were:
+(a) the amount of $30,985,727 was included in assets under the line item "Investments in and advances to subsidiaries - Shares, at cost;" and
+(b) the portion of the $30,985,727 that related to unexercised Options was included in shareholders' equity under a line item called "contingently issuable equity." A note to the financial statements described the item in greater detail as being share options issued in connection with the DFR acquisition.
+[13] During the relevant taxation years, the following amounts were reflected as "contingently issuable equity":
+1996
+1997
+1998
+1999
+2000
+$30,406,119
+$30,008,430
+$30,008,430
+$29,235,587
+$27,329,838
+[14] The balance sheet entry for contingently issuable equity was reduced over time as Options were exercised. The evidence does not indicate how the remaining part of the $30,985,727 was reflected on the right side of the balance sheet and it is not relevant to this appeal. I presume that it became part of share capital as Options were exercised so that the entire $30,985,727 was reflected in equity at all times.
+[15] There is no issue in this appeal with how the appellant valued the Options at the time of their issue, nor about how the appellant reflected this value on its financial statements. It is accepted that the financial statement presentation was in accordance with generally accepted accounting principles (GAAP).
+[16] The sole issue for determination is the characterization for LCT purposes of the line item called "contingently issuable equity." Is it contributed surplus or some other type of surplus?
+[17] No evidence was led as to why the appellant used the phrase "contingently issuable equity" to describe the Options on its financial statements. An internal memorandum prepared by the appellant's auditor in 1996 suggests that the technically correct approach is to describe the item in equity as "share options." The memorandum also suggests, though, that this could cause a disclosure problem because the appellant's employee stock options were not recorded this way. Using the phrase "contingently issuable equity" appears to minimize the disclosure problem but I do not know if this played a role in the selection of that term.
+II. Statutory provisions
+[18] Excerpts of the relevant statutory provisions are reproduced below.
+181. (3) For the purposes of determining the carrying value of a corporation's assets or any other amount under this Part in respect of a corporation's capital, investment allowance, taxable capital or taxable capital employed in Canada for a taxation year or in respect of a partnership in which a corporation has an interest,
+(a) the equity and consolidation methods of accounting shall not be used; and
+(b) subject to paragraph 181(3)(a) and except as otherwise provided in this Part, the amounts reflected in the balance sheet
+(i) presented to the shareholders of the corporation (in the case of a corporation that is neither an insurance corporation to which subparagraph 181(3)(b)(ii) applies nor a bank) or the members of the partnership, as the case may be, or, where such a balance sheet was not prepared in accordance with generally accepted accounting principles or no such balance sheet was prepared, the amounts that would be reflected if such a balance sheet had been prepared in accordance with generally accepted accounting principles, [...]
+shall be used.
+181.2. (1) The taxable capital employed in Canada of a corporation for a taxation year (other than a financial institution or a corporation that was throughout the year not resident in Canada) is the prescribed proportion of the corporation's taxable capital for the year.
+(2) The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year.
+(3) The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members' contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+(b) the amount of its reserves for the year, except to the extent that they were deducted in computing its income for the year under Part I,
+(b.1) the amount of its deferred unrealized foreign exchange gains at the end of the year,
+(c) the amount of all loans and advances to the corporation at the end of the year,
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, hypothecary claims, banker's acceptances or similar obligations, [...].
+(4) The investment allowance of a corporation (other than a financial institution) for a taxation year is the total of all amounts each of which is the carrying value at the end of the year of an asset of the corporation that is
+(a) a share of another corporation,
+(b) a loan or advance to another corporation (other than a financial institution), [...]
+other than a share of the capital stock of, a dividend payable by, or indebtedness of, a corporation that is exempt from tax under this Part (otherwise than because of paragraph 181.1(3)(d)).
+(Emphasis added)
+III. Discussion
+[19] The issue can be stated simply. Are the Options included in the appellant's capital for purposes of the LCT, either as "contributed surplus" or "other surpluses" as those terms are used in s. 181.2(3)(a) of the Act?
+[20] The appellant raises two arguments.
+[21] First, it submits that the Options are not taxable because the term "contingently issuable equity" is not listed as an item to be included in capital in s. 181.2(3). According to the appellant, it is the balance sheet presentation that should govern for purposes of determining capital.
+[22] Alternatively, the appellant suggests that under Canadian GAAP at the relevant time, the Options were neither contributed surplus nor any other type of surplus.
+A. Does balance sheet presentation govern?
+[23] The appellant's first argument is that the label attached to an item on a balance sheet is determinative for purposes of LCT. Section 181(3) of the Act as it has been interpreted by judicial authorities supports this approach, it is suggested.
+[24] Section 181(3) is an interpretative rule which requires amounts reflected on a taxpayer's balance sheet to be used in determining capital, provided that the balance sheet has been prepared in accordance with GAAP.
+[25] Section 181(3) does not explicitly provide that the nomenclature used on the balance sheet is to govern. The question, then, is whether this is implied by a contextual and purposive interpretation of the provision.
+[26] It seems to me that unless GAAP requires the use of particular labels on the balance sheet, it is doubtful that Parliament would have intended s. 181(3) to be interpreted in the manner suggested by the appellant because the tax could so readily be avoided.
+[27] The appellant did not lead any evidence as to whether particular labels are required to be used under GAAP, nor any evidence as to why it selected the term "contingently issuable equity" to describe the share options.
+[28] The respondent's accounting expert, Professor Daniel Thornton, testified that the term "contingently issuable equity" did not clearly describe to him what the item represented. He stated that he had to refer to the accompanying notes to understand that it was in fact share options. In his view, the share options constituted contributed surplus but he considered that it was not necessary to use this label on the balance sheet because all of the appellant's equity, other than retained earnings, was contributed surplus and nothing would be gained by the use of the term.
+[29] In my view, it is significant that the appellant did not suggest that GAAP required the use of the terms "surplus" or "contributed surplus" when describing such items on the balance sheet. I conclude that there is no such requirement.
+[30] If taxpayers have the ability to describe items of surplus on the balance sheet in different ways, then the appellant's submission, if accepted, could seriously erode the LCT tax base and for that reason I am reluctant to accept it. The facts of this case highlight in particular why it does not make a lot of sense for labels on the balance sheet to govern because it appears that the appellant selected unusual language to describe the Options.
+[31] In my view, s. 181(3) should not be given the interpretation suggested by the appellant unless the words of the section clearly require it. That is not the case. It would not offend a purposive interpretation of s. 181(3) for the term "surplus" to be given a broader interpretation than that suggested by the appellant.
+[32] Section 181(3) has given rise to difficult issues of interpretation, as evidenced by the number of judicial decisions involving characterization issues. The most recent decision is Ford Credit Canada Limited v. The Queen, 2006 D.T.C. 3424 (T.C.C.), which I understand is under appeal.
+[33] I do not believe that the conclusion that I have reached is inconsistent with any of the decisions that I was referred to, including Ford Credit. The issue in Ford Credit involved the characterization for LCT purposes of shares of the taxpayer that were characterized as debt for accounting purposes. Bowman C.J. reviewed the prior jurisprudence in detail and concluded that the accounting characterization should govern. That is quite different than saying that the particular words used in the balance sheet should govern.
+[34] For these reasons, I reject the argument of the appellant that the Options are excluded from capital solely because they were not called "surplus" or "contributed surplus" on the balance sheet.
+B. What is accounting meaning of surplus?
+[35] The second issue is whether the Options are contributed surplus or any other type of surplus.
+[36] These terms are technical accounting terms which are not defined in the Act. It is clear from prior judicial decisions that they should be given their meaning accepted for accounting purposes and each party properly introduced expert accounting evidence for this purpose.
+[37] The appellant led evidence by Professor Leonard Eckel, a former professor of accounting at the University of Waterloo.
+[38] Professor Eckel was asked for his opinion whether the Options fit the meaning of the terms "contributed surplus" or "other surplus," as they are understood for accounting purposes. He concluded that the Options do not fit either of these terms because the exchange of the options did not give rise to surplus of any kind.
+[39] The professor based his opinion primarily on the commentary in the handbook published by the Canadian Institute of Chartered Accountants (the "Handbook"). The version that he relied on was operative during the taxation years at issue. It has since been revised.
+[40] Professor Eckel relied on section 3250 of the Handbook which defined "surplus" as the excess of net assets (i.e., assets less liabilities) over share capital. In Professor Eckel's view, the Options did not create any such excess.
+[41] Professor Eckel's conclusion is explained in the following excerpt from his report.
+In common use, a surplus means an excess over some base amount. In accounting, surplus has long been used to designate the excess of net assets over the total paid-in or stated value of the shares of the corporation. (Sec 3250, Handbook)
+According to this definition, a transaction will give rise to a surplus only if it will increase this excess of net assets over stated value of the shares of the corporation. In the present case, the exchange of options did not increase this excess of Inco because this was presumably bargained at arms length and settled on the basis of objectively-determined current market value.
+The CIE was not labeled or reported as any kind of surplus because there was no excess/surplus created in the transaction. There was no excess since the original DFR option holders made a satisfactory economic exchange, as did Inco.
+In such a transaction between parties at arms length where market values are used, it is ordinarily presumed, in accordance with GAAP, that there is no recognizable gain on an acquisition, and therefore no addition to surplus.
+[42] Professor Eckel also expressed his view on the meaning of "contributed surplus" but I do not think that it is necessary to discuss this aspect of his report. Whatever conclusion is reached regarding the meaning of "surplus" decides the question before me.
+[43] The respondent led evidence by Professor Daniel B. Thornton, a professor of accounting who currently holds a research professorship at Queen's University. The question put to him was essentially the same as that asked of Professor Eckel.
+[44] At the beginning of his report, Professor Thornton notes that accounting standards have changed since the taxation years at issue and he raises the question of which standards should be looked at. He bases his opinion on current accounting thinking, but he notes that his opinion would be the same regardless of the standards that are looked at because contributed surplus and surplus are fundamental accounting terms whose meaning does not change over time.
+[45] Professor Thornton then expressed the view that the Options are contributed surplus. The following excerpt from his report summarizes his conclusion.
+Positioning Contingently Issuable Equity in the [ ] equity section of the balance sheet is consistent with CICA Section 3251, Equity, which defines "equity" as "...the residual interest in the assets of the enterprise after deducting all of its liabilities["] [3251.03 (a)]. In my opinion, the best label for this account would be "Contributed Surplus-Share Options." (Under US GAAP, it would be "Additional Paid-in Capital-Stock Options.") In Inco's case, however, it would be appropriate to omit "Contributed Surplus" in the account description because, aside from retained earnings, all of the equity on Inco's unconsolidated balance [sheet] was contributed surplus. That is because none of Inco's shares had any par or stated value on the Acquisition date. If they had, the amount of the par or stated value that investors paid for the shares would be labeled as "Share Capital" and any amount that investors paid for the shares in excess of the par or stated value would be "Contributed Surplus." In this case, however, knowledgeable readers of the financial statements would realize that all of the amounts in equity aside from retained earnings represented contributed surplus. This is consistent with the long-accepted idea that equity consists of earned surplus (retained earnings) plus contributed surplus (paid-in capital).
+[46] Although the experts were essentially asked the same question, they took rather different approaches to the problem. In large part, that was because Professor Eckel restricted himself to accounting sources available during the taxation years at issue and Professor Thornton did not.
+[47] The relevant sections of the Handbook changed significantly since the relevant taxation years. First, the definition of "surplus" that Professor Eckel referred to was removed from the Handbook altogether and was replaced by a section titled "Equity." Second, the definition of "contributed surplus" that is currently in the Handbook and to which Professor Thornton referred is quite different from the definition that was operative during the relevant taxation years.
+[48] I have reproduced below the relevant excerpts from the Handbook during both periods, the period encompassing the taxation years at issue (1996-2000) and the period since the Handbook was changed (2005 - present).
+Handbook (1996 - 2000)
+In accounting, 'surplus' has long been used to designate the excess of net assets over the total paid-in par value of the shares of a corporation. This usage is firmly established in company law and finance, and is not likely to be discontinued.
+"Contributed Surplus" has frequently been taken to include only amounts paid in by shareholders. But it may include capital donations from other sources. Contributed Surplus in the form of surplus paid in by shareholders includes premiums on shares issued, any portion of the proceeds of issue of shares without par value not allocated to share capital, proceeds arising from donated shares, credits resulting from redemption or conversion of preferred shares at less than the amount set up as share capital, and any other contribution by shareholders in excess of amounts allocated to share capital.
+Handbook (2005 - present)
+Contributed surplus comprises amounts paid in by equityholders. Contributed surplus in the form of surplus paid in by equityholders includes premiums on shares issued, any portion of the proceeds of issue of shares without par value not allocated to share capital, gain on forfeited shares, proceeds arising from shares donated by equityholders, credits resulting from redemption or conversion of shares at less than the amount set up as share capital, and any other contribution by equityholders in excess of amounts allocated to share capital.
+[49] I will first consider the evidence by the appellant's expert, Professor Eckel. He expressed the view that the exchange of the options did not give rise to surplus because it did not result in an increase in net assets over share capital.
+[50] I do not find this opinion to be persuasive. The transaction by which the options were exchanged clearly results in an excess of net assets over share capital. Although there was no specific evidence on this, the logical inference is that net assets were increased because the cancellation of the DFR options would have resulted in an increase in value of the issued share capital of DFR. That increase was valued at $30,985,727 and there is no dispute about that value. Since no share capital was issued on the transaction, an excess as described above would arise. This reflects the economic reality, and it is consistent with the appellant's balance sheets.
+[51] It is difficult for me to understand the theory behind Professor Eckel's conclusion. His report states that no surplus has been created because the exchange of options was an arm's length transaction, with all parties receiving full consideration for what they gave up. With respect, I fail to understand how the arm's length nature of the transaction is relevant to whether an excess of assets over share capital arises. I would also note that Professor Eckel acknowledges that contributed surplus would arise if the Options were to lapse.
+[52] The report by the respondent's expert, Professor Thornton, only discussed contributed surplus, and not surplus per se, but he was cross-examined at length by the appellant's counsel on whether surplus was created by this transaction. A surplus was crystallized at the time of the DFR acquisition, Professor Thornton stated; there was nothing contingent about the increase. To me, this makes sense.
+[53] Professor Eckel's view might be correct if surplus had been defined as the excess of net assets over equity in general. The Options are an equity instrument, but not share capital. The definition of surplus above, however, clearly refers to share capital and Professor Eckel did not suggest that the Options were share capital.
+[54] In my view, the amount that was reflected as "contingently issuable equity" on the balance sheet clearly fits the definition of "surplus" that was in the Handbook during the relevant taxation years. Accordingly I find that this amount represents surplus for purposes of s. 181.2(3)(a).
+[55] In light of this conclusion, it is not necessary for me to consider Professor Thornton's opinion that the Options represent contributed surplus. I would note, however, that his report was largely based on current accounting thinking and the description of contributed surplus that is currently in the Handbook much more clearly encompasses this transaction than the commentary that was in the Handbook during the relevant period. As a result of the change in the Handbook commentary, it appears that accounting thinking has evolved since the taxation years that are at issue. In my view it would be unfair to impose tax based on accounting principles that were not generally accepted at the relevant time.
+[56] Finally, counsel for the respondent suggested that to exclude the Options from capital would give an "odd" result because the appellant had claimed an investment allowance deduction for the cost of the DFR shares. This might be an odd result, but it has not become necessary to consider whether this is relevant in interpreting the provision at issue, given the conclusion that I have reached.
+[57] The appeal is dismissed, with costs to the respondent.
+Signed at Toronto, Ontario, this 8th day of January, 2007.
+"J. Woods"
+Woods J.
+CITATION: 2007TCC1
+COURT FILE NOS.: 2005-4283(IT)G and 2006-177(IT)G
+STYLE OF CAUSE: Inco Limited and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 30, 31 and November 3, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: January 8, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Bernier
+Counsel for the Respondent:
+Arnold H. Bornstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jacques Bernier
+Firm: Bennett Jones LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

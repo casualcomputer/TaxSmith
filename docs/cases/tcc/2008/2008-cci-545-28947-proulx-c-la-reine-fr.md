@@ -1,0 +1,222 @@
+---
+title: "Proulx c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28947/index.do"
+last_modified: "2008-11-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 545"
+citation2: ""
+neutral_citation: "2008 CCI 545"
+decision_date: "2008-11-06"
+language: "fr"
+item_id: "28947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1387
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:14:12.705000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a308904a960ca2dfef902749906a2dd2a747c74ed6dbb19b6a32792f210162d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Proulx c. La Reine
+
+- Citation: 2008 CCI 545
+- Decision date: 2008-11-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1387, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Proulx c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-06
+Référence neutre
+2008 CCI 545
+Numéro de dossier
+2008-721(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-721(IT)I
+ENTRE :
+DIANE PROULX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 17 septembre 2008, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentante de l'appelante :
+Nicole Rivard
+Avocat de l'intimée :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2000 à 2004 et 2006, sont rejetés;
+L'appel de la cotisation établie en vertu de la Loi pour l'année d'imposition 2005 est accordé et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Le tout selon les motifs du jugement ci‑joint.
+Signé à Ottawa, Canada, ce 6e jour de novembre 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2008 CCI 545
+Date : 20081106
+Dossier : 2008-721(IT)I
+ENTRE :
+DIANE PROULX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] L’appelante interjette appel pour les années 2000 à 2006. Toutefois pour ces années, à l’exception de l’année 2005, il n’y a pas eu signification d’un avis d’opposition au ministre du Revenu national (« Ministre »), conformément à l’article 165 de la Loi de l’impôt sur le revenu (la « Loi ») qui se lit comme suit :
+165(1) Opposition à la cotisation -- Le contribuable qui s'oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d'opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu'il s'agit d'une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d'imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d'échéance de production qui est applicable au contribuable pour l'année,
+(ii) le 90e jour suivant la date de mise à la poste de l'avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l'avis de cotisation.
+[2] L’intimée présente dans la Réponse à l’avis d’appel un moyen préliminaire demandant le rejet des appels pour ces années car les avis d’appel à l’égard de ces années sont irrecevables puisqu’en vertu de l’article 169 de la Loi, un appel ne peut être interjeté auprès de cette Cour que si un avis d’opposition a été signifié. Le paragraphe 169(1) de la Loi se lit comme suit :
+169(1) Appel -- Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[3] À cet égard, la représentante de l’appelante a produit un document émanant de l’Agence du revenu du Canada, (« ARC »), intitulé « Comment faire modifier votre déclaration». Elle se réfère plus particulièrement au passage suivant :
+…
+Nous considérons seulement les demandes pour les années d’imposition se terminant dans une des 10 années civiles qui précèdent l’année où vous faites votre demande. Ainsi, vous pourriez en 2008 demander une modification pour les années 1998 et suivantes.
+…
+[4] Elle fait valoir que selon ce texte informatif, on peut reculer jusqu’à 10 ans pour faire modifier ses déclarations de revenu et que toujours, selon ce texte, il n’est pas nécessaire d’avoir signifié un avis d’opposition. C’est ce que l’appelante demande par son avis d’appel.
+[5] Je dispose immédiatement de ce point préliminaire. La mesure mentionnée dans ce document de l’ARC fait partie des mesures qui sont appelées « Dispositions d’allègement pour les contribuables ». Ces dispositions se retrouvent dans la Loi mais elles font appel à un pouvoir discrétionnaire accordé au Ministre par la Loi. Ces mesures sont décrites et expliquées dans la Circulaire d’information No 07-1. Si un contribuable estime que le pouvoir discrétionnaire du Ministre n’a pas été exercé correctement, c’est devant la Cour fédérale qu’il doit présenter sa demande de contrôle judiciaire.
+[6] L’appel devant notre Cour est en fonction de l’article 169 de la Loi. Selon le paragraphe 169(1) de la Loi, un contribuable peut faire appel d’une cotisation que s’il a d’abord signifié un avis d’opposition auprès du Ministre selon l’article 165. Ce qui n’a été fait que pour l’année 2005. En conséquence, les appels à l’égard des années 2000 à 2004 et celui pour l’année 2006 sont rejetés pour défaut de conformité avec la Loi.
+[7] Je reviens maintenant au point principal de cet appel. Pour l’année 2005, l’appelante demande dans le calcul de son revenu une déduction au titre de résidence pour un membre du clergé selon l’article 8 de la Loi.
+8(1) Éléments déductibles -- Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+...
+c) Résidence des membres du clergé -- lorsque le contribuable, au cours de l'année :
+(i) d'une part, est membre du clergé ou d'un ordre religieux ou est ministre régulier d'une confession religieuse,
+(ii) d'autre part :
+(A) soit dessert un diocèse, une paroisse ou une congrégation,
+(B) soit a la charge d'un diocèse, d'une paroisse ou d'une congrégation,
+(C) soit s'occupe exclusivement et à plein temps du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse,
+le montant, n'excédant pas sa rémunération pour l'année provenant de sa charge ou de son emploi, égal :
+...
+[8] Le paragraphe 10 de la Réponse à l’avis d’appel explique les motifs du refus du Ministre comme suit :
+10. Pour établir et maintenir l’avis de cotisation du 11 mai 2006, pour l’année d’imposition 2005, le ministre a tenu pour acquis les mêmes faits, à savoir,
+a) l’appelante, à l’égard de la période s’échelonnant du 1er août 2003 jusqu’au 31 juillet 2006, occupait auprès des membres de la communauté chrétienne des paroisses de Saint-Augustin et de Sainte-Scholastique un poste d’animatrice de pastorale et d’éducation aux valeurs chrétienne;
+b) l’appelante, à l’égard de la période s’échelonnant du 1er août 2005 jusqu’au 31 juillet 2006, occupait auprès des membres de la communauté chrétienne des paroisses de Saint-Janvier, de Saint-Augustin et de Sainte-Scholastique un poste d’animatrice de pastorale, d’éducation aux valeurs chrétiennes ainsi que membre de l’équipe pastorale des dites paroisses;
+c) les mandats pastoraux et leur durée dont il est question aux alinéas précédents, à l’égard de l’année d’imposition en litige, ont été confiés à l’appelante par l’Évêque de Saint-Jérôme de l’Église catholique romaine et cosignés respectivement le 25 juin 2003 et le 8 juin 2005 par monsieur Claude Massicotte, prêtre chancelier;
+d) en réponse à une demande de redressement, réclamant une déduction au titre de résidence pour un membre du clergé, le ministre le 20 mars 2007 rappelait par écrit à l’appelante, pour qu’un agent de pastorale laïque soit considéré comme un ministre régulier d’une confession religieuse, il doit être habilité ou autorisé à exercer des fonctions spirituelles, célébrer des services religieux, administrer des sacrements et effectuer des fonctions religieuses semblables;
+e) dans la même lettre du 20 mars 2007, le ministre avisait l’appelante qu’il ne le reconnaissait pas comme un ministre régulier, entre autres, pour la raison qu’il n’était pas autorisé à administrer la plupart des sacrements de l’Église catholique romaine;
+f) quant à la question du quantum, à l’égard de la déduction envisagée au titre de résidence pour un membre du clergé, le ministre n’a pas évalué le bien-fondé de la somme réclamée de 10 000 $.
+[9] Le refus du Ministre est fondé sur le fait qu’un agent de pastorale n’est pas habilité à célébrer des services religieux ni à administrer la plupart des sacrements de l’église catholique romaine.
+[10] Pour les fins de son témoignage, l’appelante avait préparé un texte auquel elle s’est référée. J’en cite des extraits :
+Je termine présentement un baccalauréat (63 crédits de complété) à l’Université de Montréal afin d’obtenir un baccalauréat spécialisé en théologie et science des religions.
+J’ai une expérience de 9 ans comme agente de pastorale au diocèse de Saint-Jérôme (depuis décembre 1999).
+J’ai une expérience de 3 ans en tant que présidente de la zone pastorale de Saint-Eustache.
+…
+Animatrice de pastorale paroissiale :
+-Enseignement catéchétique, enseignement auprès des jeunes et adultes, accompagnement et aide spirituelle (baptême, eucharistie, confirmation). Ceci implique un travail de préparation d’accompagnement et d’animation durant la réception du sacrement ainsi qu’un suivi.
+-Relation d’aide. Personnes qui se présentent au presbytère et qui sont souvent en état de crise suite à une épreuve : décès, annonce d’une maladie sérieuse, violence conjugale, etc.
+-Responsabilité de l’organisation des offices religieux – messes familiales, sacrement du pardon, distribution des cendres, retraites paroissiales, etc. (adultes et jeunes).
+-Préparation de la liturgie des offices religieux aux temps forts de l’année liturgique : Avent, Noël, Carême, Pâques.
+-Accompagnement et animation spirituels (maturation de la foi) en groupe ou individuellement pour les adultes.
+-Préparation et animation des célébrations du pardon pour les jeunes adultes.
+-Animation dans les 3 écoles du secteur Saint-Augustin et de Ste-Scholastique à Mirabel depuis 2000 et encore aujourd’hui même si le cour d’enseignement religieux est remplacé par le formation d’éthique et culture religieuse.
+-J’ai démarré et supervisé pendant 7 ans, un groupe d’adolescents (12-17 ans).
+-J’ai bâti et animé pendant 7 ans, l’éveil spirituel des petits (5-8 ans).
+-Mon expérience comme co-auteure de 4 parcours catéchétiques offerts à des jeunes du primaire a été reconnue et validée par notre évêque Mgr Gilles Cazabon, o.m.i.
+-Co-animatrice de la retraite diocésaine juin 2008 pour le personnel pastoral et administratif du diocèse.
+-Mon travail s’effectue aux endroits suivants : Dans les lieux de culte, aux presbytères, aux sous-sols des églises et aux résidences privées, à mon domicile (travail à l’ordinateur, réception d’appels téléphoniques et réception de personnes).
+[11] L’avocat de l’intimée s’est référé au document du Vatican intitulé : Instruction sur quelques questions concernant la collaboration des fidèles laïcs au ministère des prêtes, 1997 (« Instruction »). Il fait valoir que selon cette Instruction, le Vatican établit une nette distinction entre les prêtres, ministres ordonnés et les laïcs, ministres extraordinaires non ordonnés, collaborant par suppléance au ministère des prêtres. Il fait aussi valoir que ces laïcs ne jouissent pas d’un rang supérieur sur le plan spirituel au sein de l’église catholique romaine.
+[12] Pour montrer l’importance de ce rang supérieur dans l’appréciation de la nature d’un ministre régulier, l’avocat se réfère aux paragraphes 19 et 20 de la décision Côté c. Canada, [1998] A.C.I. no 762 :
+19 La signification de « ministre régulier » a été étudiée en profondeur dans la cause de Walsh v. Lord Advocate, [1956] 3 All E.R. 129 (U.K. H.L.). En vertu d'une disposition de la législation sur le service militaire d'Angleterre, un ministre régulier d'une confession religieuse pouvait être exempté du service militaire. Il s'agissait donc de déterminer la signification de ministre régulier. Monsieur Walsh était Témoin de Jehovah. Or, chez les Témoins de Jéhovah tous les membres ont le titre de ministre ou de serviteur de Dieu et de son évangile et il n'y aurait pas dans cette dénomination religieuse une distinction entre le clergé et les laïcs. La Chambre des lords a décidé à l'unanimité comme l'avaient fait les tribunaux inférieurs que ministre régulier au sens de la loi réfère à un membre de la confession religieuse occupant dans cette confession un rang supérieur et distinct au plan spirituel et que si dans une confession religieuse il n'y a pas de distinction entre le clergé et les laïcs, il ne peut y avoir de ministre régulier d'une confession religieuse.
+20 Je cite les extraits suivants des motifs du jugement de lord MacDermott dans l'affaire Walsh (supra) à la page 135:
+D'après moi, les termes « ministre régulier » désignent une classe formant seulement une partie de la confession en question et reconnue par cette confession comme ayant un rang supérieur et distinct sur le plan spirituel ...Lord MacKintosh a très clairement établi cette exigence lorsqu'il a dit, au sujet des « ministres réguliers »:
+...il doit avoir, en vertu de sa qualité de ministre, ce qui pourrait être appelé un « statut d'ecclésiastique » qui le met à part et au-dessus des laïcs de sa confession sur le plan spirituel.
+[13] La représentante de l’appelante admet que les agentes et agents de pastorale ne soient pas membres du clergé mais toutefois elle fait valoir fortement que les agentes et agents de pastorale font partie d’un groupe au sein de l’église catholique romaine qui est reconnu tant par les évêques que par les laïcs comme ayant un rang supérieur sur le plan spirituel.
+[14] La représentante rappelle que depuis quelques décennies le rôle et l’action des agents de pastorale sont devenus essentiels dans l’accomplissement de la mission évangélisatrice de l’Église. Ce sont les évêques qui définissent le rôle et l’action des agents dans leurs mandats pastoraux et exigent également de ces agents un mode de vie conforme aux principes de la religion chrétienne.
+[15] La représentante de l’appelante s’est référée à un document intitulé Agentes et agents de pastorale en milieu paroissial émanant de la Conférence des évêques catholiques de l’Ontario « CECO » en date de septembre 1999. L’avocat de l’intimée s’est opposé à la production de ce document comme pièce au dossier au motif qu’une telle preuve devrait se faire au moyen de témoins experts. J’ai accepté la production du document sujet à cette objection.
+[16] Je suis maintenant d’avis que l’appelante était en droit de déposer ce document. Ce genre de preuve relève du domaine de la connaissance d’office ou connaissance judiciaire et non de la preuve d’experts. Je cite à cet égard le paragraphe 15 de l'article de l’auteur Danielle Pinard intitulé « La notion traditionnelle de connaissance d’office des faits », Revue juridique Thémis (1997) 31 R.J.T. 87-148 :
+15 Selon la théorie classique dont on retrouve la formulation dans les travaux de Sopinka, Lederman et Bryant17, pourront être connus d’office les faits d’une notoriété telle qu’elle les rend raisonnablement incontestables, ou encore ceux qui sont susceptibles de vérification immédiate par le recours à des sources facilement accessibles et indiscutablement fiables18.
+17 John SOPINKA, Sydney N. LEDERMAN et Alan W. BRYANT, The Law of Evidence in Canada, Toronto, Butterworths, 1992.
+18 Id., p. 976 : "Facts which are (a) so notorious as not to be the subject of dispute among reasonable persons, or (b) capable of immediate and accurate demonstration by resorting to readily accessible sources of indisputable accuracy, may be noticed by the court without proof of them by any party." Voir, dans le même sens, la proposition de formulation du GROUPE DE TRAVAIL FÉDÉRAL-PROVINCIAL SUR L'UNIFORMISATION DES RÈGLES DE PREUVE, op. cit., note 16, p. 53 : "Au cours d'une instance, le tribunal peut admettre d'office des faits a) dont la notoriété et l'acceptation sont telles dans la région où a eu lieu l'événement qu'ils ne sauraient raisonnablement être contestés, ou b) dont il est possible d'établir facilement l'exactitude en recourant à des sources dont la fiabilité ne saurait raisonnablement être remise en question".
+[17] Je cite l’article 2808 du Code civil du Québec :
+2808. Le tribunal doit prendre connaissance d'office de tout fait dont la notoriété rend l'existence raisonnablement incontestable.
+[18] Je me réfère au paragraphe 60 des motifs de la Cour Suprême du Canada écrits par le juge Lamer dans R. c. Sioui [1990] 1 R.C.S. 1025 :
+60 Je dois d’abord mentionner que l’admissibilité de certains documents que nous a présentés l’intervenante, la Fraternité des Indiens du Canada/l’Assemblée des premières nations, à l’appui de ses prétentions a fait l’objet de contestation. L’intervenante a en effet invoqué des documents qui ne faisaient pas partie du dossier devant les instances inférieures. L’appelant a accepté que certains de ces documents, soit le Journal de Murray, des lettres et des instructions, soient versés au dossier à condition que cette Cour soit d’avis que leur admissibilité se justifie par la notion de connaissance judiciaire. Je considère que tous les documents auxquels je ferai référence, que mon attention y ait été attiré par l’intervenante ou à la suite de mes recherches personnelles, sont des documents de nature historique sur lesquels je suis autorisé à me fonder en vertu de la notion de connaissance judiciaire. Comme le disait le juge Norris dans White and Bob (à la p. 629) :
+[TRADUCTION] La cour a le droit « de prendre connaissance d’office des faits historiques passé ou contemporains » comme l’a dit lord du parcq dans l’arrêt Monarch Steamship Co., Ltd. v. Karlshamns Oljefabriker (A/B), [1949] A.C. 196, à la p. 234, [1949] 1 All E.R. 1 à la p. 20, et a le droit de se fonder sur sa propre connaissance de l’histoire et sur des recherches, Read v. Bishop of Lincoln, [1892] A.C. 644, le lord chancelier Halsbury, aux pp. 652 à 654.
+Les documents que je cite nous permettent tous, à mon avis, d’identifier avec plus de précision la réalité historique essentielle à la résolution du présent litige.
+[19] Le document en question provient d’une source fiable. Il s’agit d’un document important de la CECO. On lit au début qu’il y a d’abord eu un livre blanc, puis un livre vert avant que l’on arrive à la version finale. Ce livre peut être utile pour comprendre le rôle et la place des agents de pastorale au sein de l’Église. Il ne s’agit pas d’un document dont les propos requièrent les explications d’un expert. Je ne crois pas non plus que les propos tenus soient raisonnablement contestables par l’intimée. En fait, je ne crois pas qu’elle les conteste.
+[20] La représentante de l’appelante s’est référée à plusieurs passages de ce document. J’en citerai quelques-uns :
+...
+Une part de cette reconnaissance comprend aussi une appréciation du rôle croissant de leadership que les femmes peuvent exercer dans l’Église.
+...
+La diminution du nombre de prêtres et leur essoufflement a créé un espace qui a permis à cette transition naturelle de se produire et a servi, dans certains cas, à justifier la présence d’agentes de pastorale dans les paroisses. Pourtant, nous reconnaissons d’une façon plus fondamentale que le concept de prêtre, prophète et roi a fait prendre conscience de la responsabilité que nous avons toutes et tous de construire l’Église. C’est de là aussi que vient le désir de répondre à l’appel d’être vraiment « Peuple de Dieu ». Dans ce contexte ecclésial renouvelé, nous croyons que l’agente et l’agent de pastorale sont appelés à jouer un rôle grandissant mais distinct dans nos paroisses.
+...
+La présence d’hommes et de femmes laïcs comme membres des équipes de pastorale paroissiale permet un véritable partenariat de se forger entre prêtres et laïcs, engendrant une prise de responsabilité à la fois distincte et interdépendante de tous au sein de l’Église.
+...
+Cette reconnaissance de la part du diocèse devrait aussi inclure une démarche de discernement pour s’assurer que les candidates et candidats ont les aptitudes requises pour le service au sein du diocèse. Parmi les éléments que les diocèses voudront prendre en compte dans la démarche de discernement, il faudrait considérer les suivants : l’équilibre humain et la maturité, une foi adulte, un comportement moral et social ainsi qu’un mode de vie qui corresponde aux valeurs évangéliques et à l’enseignement de l’Église, une conscience et une expérience de l’Église marquées au coin de la maturité, une histoire d’engagement dans une communauté chrétienne et une recommandation de la candidate ou du candidat par les membres de cette communauté.
+Analyse et conclusion
+[21] J’ai déjà fait une longue analyse d’une question semblable dans Lefebvre c. Canada, 2008 D.T.C. 4272 (Fr.) Je cite les paragraphes 61 à 73 de cette décision :
+61 Au sujet de cette place des agents de pastorale au sein de l'Église catholique romaine, l'avocat de l'intimée a produit l'Instruction et les représentantes des appelants ont produit des documents émanant de savants auteurs et de l'Église analysant et définissant le rôle des agents de pastorale.
+62 Dans l'Instruction, le Vatican a rappelé que les agents de pastorale sont des ministres extraordinaires par opposition aux membres du clergé, ayant reçu le sacrement de l'Ordre, qui, eux sont, ministres ordinaires. Dans un temps de pénurie de vocations à la prêtrise, que le Vatican souhaite temporaire, il accepte l'action ministérielle des laïcs et établit un encadrement juridique dans lequel les laïcs pourront exercer un rôle ministériel.
+63 Ce cadre juridique est que les agents de pastorale peuvent accomplir certaines charges ou fonctions ecclésiales indispensables pour l'accomplissement de la mission de l'Église. Ces fonctions sont exercées en suppléance de ministres ordonnés et elles ne sont pas toutes celles des ministres ordonnés. L'agent de pastorale tire sa légitimité de la délégation officielle reçue de l'évêque et dans l'exercice de sa fonction, l'agent de pastorale est soumis à la direction ecclésiastique. C'est à l'autorité ecclésiale compétente, soit l'évêque d'un diocèse, de mettre en place les ministères pastoraux et leur régulation. L'évêque diocésain affecte à un ministère pastoral quelqu'un ayant les qualités requises: idonéité, charisme et formation théologique.
+64 Selon les règles de l'Église, les agents de pastorale ne sont pas membres du clergé de l'Église catholique romaine. D'ailleurs, les appelants ne se réclament pas membres du clergé. Ils se réclament toutefois de l'état de ministre régulier de cette église.
+65 La jurisprudence est d'accord pour affirmer que pour être ministre régulier d'une confession religieuse, il faut une nomination par l'autorité légitime de cette église autorisant la personne à exercer un ministère de nature spirituelle d'une façon plutôt continue selon les croyances et dogmes de cette église auprès des fidèles de cette église ou autres personnes selon les termes de la mission ou du mandat reçu.
+66 Cette nomination exige-t-elle une investiture particulière? Je crois qu'il faut comme pour l'investiture des membres du clergé, se reporter aux règles de l'Église. À l'égard, de ces ministres extraordinaires, dans l'Église, c'est le mandat pastoral ou la lettre de mission qui agit comme document d'investiture.
+67 Une personne doit-elle être nommée ministre à la vie pour être ministre régulier d'une église? Une personne doit-elle avoir le droit d'administrer tous les sacrements de son église pour être ministre régulier?
+68 Y-aurait-il un empêchement selon le paragraphe 8(2)c) de la Loi à ce qu'une église puisse avoir des membres du clergé et des ministres réguliers? Je ne lis rien dans cette disposition qui puisse avoir cet effet. Il est vrai que la jurisprudence, à l'occasion, semble avoir fait équivaloir ces deux termes. Mais je préfère m'en tenir au grand principe émanant de cette jurisprudence qui veut que ces termes soient définis selon la structure de l'église sous étude.
+69 C'est à partir de la structure de cette église que l'on peut vérifier si elle permet la co-existence de membres du clergé et ministres réguliers pour les fins de la pastorale de cette église. Nous avons vu que dans l'Église catholique romaine, il y a une telle co-existence, nous avons vu aussi que les prêtres sont ordonnés pour la vie, les ministres extraordinaires sont nommés pour la durée de leur mandat et exercent les ministères pastoraux qui leur sont assignés.
+70 La preuve a révélé que les évêques des deux diocèses en cause suivent l'encadrement juridique mis en place par le Vatican pour cette classe de personnes. En prenant en considération les besoins de la mission de l'Église et les qualités de la personne, (idonéité, charisme et formation), les évêques émettent un mandat décrivant le ministère pastoral assigné à cette personne et la durée de son mandat, normalement un terme de quelques années. Ces mandats sont habituellement renouvelés, ce qui fait que souvent, ils sont exercés au cours de toute la vie active d'une personne. Les agents de pastorale doivent agir en équipe, avec les ministres ordonnés, dans l'oeuvre de l'action pastorale.
+71 La preuve a révélé que les agents de pastorale appelés ministres extraordinaires sont des ministres réguliers de l'Église. Leur action ministérielle est tout à fait intégrée de façon régulière dans l'action pastorale de l'Église notamment le ministère de la parole, la catéchèse, la visite des malades, la pastorale des sacrements, la pastorale des funérailles et des endeuillés, le service de l'accueil, la solidarité avec les pauvres, l'action caritative ou humanitaire. Sans l'action des laïcs ministériels, l'Église ne pourrait continuer. L'évêque du diocèse de Longueuil a affirmé que leur rôle était essentiel et c'est ainsi que s'expriment les différents auteurs cités et c'est également ainsi que s'exprime le Vatican, lui-même, en donnant un cadre juridique à ces laïcs non ordonnés.
+72 On ne peut que constater, pour paraphraser les propos de Lord MacDermot dans l'affaire Walsh v. Lord Advocate, [1956] 3 All E.R. 129 (U.K. H.L.), que dans l'exercice de leur ministère, les agents de pastorale, ont un statut qui les met à part et au-dessus des laïcs de leur confession religieuse. Il s'agit d'une classe formant une partie de la confession en question et reconnue par cette confession comme ayant un rang supérieur et distinct sur le plan spirituel.
+73 Je conclus donc, que selon la structure réglementaire actuelle de l'Église catholique romaine, les agents de pastorale agissent à titre de ministres réguliers au sein de cette église. C'est le mandat pastoral leur assignant un ministère pastoral pour un terme déterminé qui leur confère le statut de ministre régulier. Ils ont donc l'état de ministres réguliers au sens le l'alinéa 8(2)c) de la Loi, durant la durée de ce mandat.
+[22] Je suis du même avis en ce qui concerne l’appelante.
+[23] Il est vrai que le Vatican a voulu réserver aux ministres ordonnés l’administration de la plupart des sacrements et qu’il établit une distinction entre ministres ordonnés et les ministres non ordonnés. Toutefois, je suis d’avis qu’il ne faille pas à partir de cette distinction déclarer que les ministres non ordonnés ne sont pas ministres réguliers de l’Église. Il faut plutôt constater, par les documents émanant du Vatican et ceux émanant des évêques, la compréhension du fait historique contemporain de la pénurie des vocations religieuses et l’acceptation et l’intégration au sein de l’Église des agents de pastorale dans un rôle ministériel essentiel.
+[24] C’est un fait social constaté de tous qu’il y a pénurie des ministres ordonnés. C’est également un fait social constaté de tous que les agents et agentes de pastorale font maintenant partie de la structure de l’Église dans son action ministérielle. Il s’agit d’une catégorie de personnes que par la force des choses et par réalisme, le Vatican et les évêques ont intégrée dans l'action pastorale de l'Église. Cette action pastorale est notamment le ministère de la parole, la catéchèse, l’accompagnement des malades et des endeuillés, la pastorale des sacrements, la pastorale des offices religieux, le service de l'accueil, la solidarité avec les pauvres, l'action caritative et humanitaire. De plus, le mode de vie de ces agents doit être exemplaire.
+[25] Il me semble donc évident que l’appelante fait partie d’une classe des fidèles de l’Église, reconnue par les autorités ecclésiastiques et les fidèles laïcs comme ayant un rang supérieur et distinct sur le plan spirituel. Elle exerce cette fonction de manière régulière selon les termes du mandat pastoral qui lui a été accordé. Je conclus donc qu’elle a le statut et le rôle d’un ministre régulier de l’église catholique romaine.
+[26] L’appel pour l'année 2005 est en conséquence accordé.
+Signé à Ottawa, Canada, ce 6e jour de novembre 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2008 CCI 545
+Nº DU DOSSIER DE LA COUR : 2008-721(IT)I
+INTITULÉ DE LA CAUSE : DIANE PROULX c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 17 septembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 6 novembre 2008
+COMPARUTIONS :
+Représentante de l'appelante :
+Nicole Rivard
+Avocat de l'intimée :
+Me Benoît Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

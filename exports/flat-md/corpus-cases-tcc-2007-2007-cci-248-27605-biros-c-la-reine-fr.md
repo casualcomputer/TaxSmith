@@ -1,0 +1,366 @@
+---
+title: "Biros c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27605/index.do"
+last_modified: "2007-04-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 248"
+citation2: ""
+neutral_citation: "2007 CCI 248"
+decision_date: "2007-04-23"
+language: "fr"
+item_id: "27605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 426
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:44:22.987000+00:00"
+cases_cited_count: 0
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5766bfddcca4a326085287a339bb760bc35ae3ed31da5270ba61e8ee9284d0e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Biros c. La Reine
+
+- Citation: 2007 CCI 248
+- Decision date: 2007-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 426, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biros c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-23
+Référence neutre
+2007 CCI 248
+Numéro de dossier
+2003-1705(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1705(IT)G
+ENTRE :
+LAKIS BIROS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 23, 24, 25 et 26 avril 2007 à Toronto (Ontario).
+Devant : L’honorable juge en chef D. G. H. Bowman
+Comparutions :
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimée : Me Brent E. Cuddy
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1994 et 1995 sont rejetés.
+Aucune ordonnance n’est rendue au sujet des dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2007.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 31e jour d’octobre 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2007CCI248
+Date : 20070522
+Dossier : 2003-1705(IT)G
+ENTRE :
+LAKIS BIROS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Ces appels découlent de nouvelles cotisations concernant les années d’imposition 1994 et 1995 de l’appelant. Les nouvelles cotisations ont été établies en dehors de la « période normale de nouvelle cotisation » définie à l’alinéa 152(3.1)b) de la Loi de l’impôt sur le revenu (trois ans après la date de la première cotisation). Par conséquent, la Couronne a le fardeau d’établir que le contribuable ou la personne ayant produit la déclaration de revenu
+(i) […] a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi
+au sens du sous‑alinéa 152(4)a)(i).
+[2] Le droit, quant au déplacement du fardeau de la preuve dans les affaires fiscales, a évolué quelque peu depuis qu’une décision a été rendue dans l’affaire Farm Business Consultants Inc. v. The Queen, 95 DTC 200, confirmée par 96 DTC 6085 (C.A.F.).
+[3] Le paragraphe 152(4.01) de la Loi a été ajouté en 1998; il est devenu applicable après le 27 avril 1989. Cette disposition est en partie rédigée comme suit :
+Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants:
+a) en cas d’application de l’alinéa (4)a):
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui‑ci pour l’année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi, [...]
+Cette disposition limite les pouvoirs que possède le ministre du Revenu national d’établir une nouvelle cotisation. D’une façon générale, et au risque de trop simplifier les choses, je dirai que, si un contribuable a effectué une présentation erronée des faits, par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise lors de la production de la déclaration, le ministre peut établir une nouvelle cotisation en dehors de la période normale de nouvelle cotisation, mais uniquement dans la mesure où il est raisonnable de considérer que la nouvelle cotisation se rapporte à une présentation erronée des faits du type décrit au sous‑alinéa 152(4.01)a)(i).
+[4] Dans le cours de l’énoncé des présents motifs, j’examinerai le type de restrictions que le paragraphe 152(4.01) impose au ministre lorsque celui‑ci établit une nouvelle cotisation en dehors de la période normale de nouvelle cotisation ainsi que la nature et l’étendue du fardeau auquel le ministre est assujetti en raison du paragraphe 152(4.01).
+[5] Je donnerai d’abord un aperçu général de l’affaire. Il convient de faire quelques observations préliminaires. L’appelant n’était pas représenté par un avocat et sa connaissance de l’anglais est fort restreinte. Un interprète grec l’aidait. La chose a eu pour effet d’imposer à la Cour une obligation encore plus lourde en vue de veiller à ce que l’appelant ne subisse pas de désavantage du fait qu’il ignore complètement les règles de procédure et le droit, en particulier les dispositions plutôt complexes concernant le fardeau de la preuve lorsque la Couronne a le fardeau initial d’établir le droit du ministre de rouvrir les années frappées de prescription.
+[6] La preuve de la Couronne est la suivante : l’appelant, M. Biros, a été impliqué dans une fraude massive dont ont été victimes un certain nombre de banques, principalement la Banque de Montréal (la « BMO »), mais aussi la Banque Canadienne Impériale de Commerce (la « CIBC »), la Banque Royale du Canada (la « BRC »), la Banque de Nouvelle‑Écosse (la « B.N.‑É. »), Canada Trust et la Banque Toronto‑Dominion (« TD »). Le stratagème comportait plusieurs étapes distinctes :
+a) Un individu ou des individus inconnus volaient l’identité d’une personne innocente, habituellement en volant son porte‑monnaie, et notamment des pièces d’identité comme son permis de conduire, sa carte santé ou son acte de naissance.
+b) Cet individu s’adressait ensuite au ministère des Transports et signalait la perte du permis de conduire; il obtenait un nouveau permis en utilisant les pièces d’identité volées (autres que le permis de conduire). Le nouveau permis portait le nom du propriétaire véritable, mais la photo de l’imposteur.
+c) L’imposteur se rendait ensuite à une succursale bancaire et ouvrait un compte en utilisant comme identification le faux permis de conduire sur lequel figurait sa photo ainsi que d’autres pièces d’identité sur lesquelles il n’y avait pas de photo. Un dépôt initial symbolique était effectué et le compte était ouvert au nom de la personne dont les pièces d’identité avaient été volées. Une carte de guichet automatique bancaire était délivrée à l’imposteur, de même qu’un numéro d’identification personnel, permettant l’accès aux guichets automatiques bancaires.
+d) Des chèques volés, habituellement des chèques du gouvernement, étaient déposés dans le compte avec de faux endossements.
+e) Par la suite, l’argent était retiré d’un guichet automatique (pas nécessairement le même que celui dans lequel les chèques étaient déposés). Les montants retirés semblaient relativement peu élevés et il semble que les montants totaux retirés d’un compte étaient inférieurs au montant total déposé.
+[7] En tout, jusqu’à 500 000 $ ont frauduleusement été obtenus de la façon ci‑dessus décrite. L’inspecteur‑détective Thomas, un témoin impressionnant, a décrit le stratagème en détail. Il a déclaré que, par suite du stratagème, un montant de 626 214,59 $ était [traduction] « à risque », entendant par là le montant déposé dans les comptes bancaires frauduleux, mais qu’un montant de 510 890,89 $ seulement avait de fait été retiré. Environ 500 chèques ont été déposés comme suit dans 42 comptes de ce genre qui ont été ouverts aux noms des dix personnes dont les identités avaient été volées :
+BMO
+30
+B.N.-É.
+2
+BRC
+4
+TD
+1
+CIBC
+3
+Canada Trust
+2
+______
+Total:
+42
+[8] L’inspecteur-détective Thomas a déclaré qu’en l’espèce, la Couronne se fondait uniquement sur 29 comptes ouverts aux noms des personnes suivantes :
+Patrick Sun
+3 BMO
+1 CIBC
+Justin Wong
+4 BMO
+John Dawson
+4 BMO
+Donald Belanger
+5 BMO
+Franca Reda
+1 Canada Trust
+1 TD
+1 B.N.-É.
+1 BRC
+James McKeever
+2 BMO
+Merle McBay
+1 BMO
+Robert Vasic
+2 BMO
+Garvin Warner
+2 CIBC
+Spartaco Morassut
+1 CIBC
+[9] De fait, le tableau préparé par le répartiteur, M. Baksh, (pièce A‑41) indique que celui‑ci a établi une cotisation à l’égard de l’appelant pour les montants retirés de 24 comptes seulement.
+[10] La fraude a été découverte lorsque les véritables bénéficiaires ont signalé au gouvernement du Canada qu’ils n’avaient pas reçu leurs chèques (en général, des chèques de pension, d’aide sociale, de pension de retraite ou des remboursements d’impôt) et que le gouvernement du Canada a refusé le paiement et a retourné les chèques à la banque. La banque a signalé l’affaire à la police.
+[11] Lors de l’enquête qui a été menée au sujet de la fraude, la police n’avait pas initialement les empreintes digitales de l’appelant. Toutefois, l’appelant a été arrêté dans une autre affaire et il a été accusé d’avoir reçu des marchandises volées et d’être en possession de matériel permettant de contrefaire des cartes de crédit. Ces accusations ont été abandonnées, selon l’inspecteur-détective Thomas, et l’on craignait que l’entrée initiale dans les locaux de l’appelant constituait une violation des droits reconnus à celui‑ci à l’article 8 de la Charte canadienne des droits et libertés. Toutefois, lorsque l’appelant a été arrêté par suite de ces accusations, des empreintes digitales ont été prises, ce qui a permis à la police de faire la comparaison nécessaire entre ces empreintes et celles qui figuraient sur les chèques. L’appelant a donc été arrêté une seconde fois et il a été accusé de fraude en ce qui concerne la fraude ici en cause dont les banques ont été victimes.
+[12] Ces accusations ont également été abandonnées. Selon l’inspecteur‑détective Thomas, elles ont été abandonnées, non à cause du manque de preuve, mais parce que l’audience préliminaire de l’appelant a dû être ajournée pour une période d’un an afin de faire place à une audience préliminaire pour homicide et parce que le retard violait peut‑être les droits reconnus à l’appelant à l’alinéa 11b) de la Charte compte tenu de l’arrêt R. c. Askov, [1990] 2 R.C.S. 1199 de la Cour suprême du Canada.
+[13] Les motifs invoqués devant la Cour à l’égard de l’abandon des accusations portées au criminel sont bien sûr fondés sur le ouï‑dire, mais de plus ils n’ont rien à voir avec la présente affaire. M. Biros semble avoir cru que le retrait des accusations constituait un moyen de défense complet aux cotisations qui font l’objet des présents appels. Bien sûr, ce n’est pas le cas. La décision rendue par la Cour dans des appels civils doit être fondée sur le droit et sur la preuve qui lui est soumise. Cela n’a rien à avoir avec la question de savoir si un avocat de la Couronne provinciale décide de poursuivre l’instance criminelle ou de l’abandonner.
+[14] La preuve documentaire était principalement composée de documents bancaires de la BMO, de la CIBC, de la BRC et de la B.N.‑É. Ces documents, et notamment des états bancaires et des chèques oblitérés, ont été présentés au moyen d’une preuve par affidavit en vertu de l’article 30 de la Loi sur la preuve au Canada. Je suis convaincu que l’avis approprié a été donné à M. Biros en vertu du paragraphe 30(7).
+[15] Deux facteurs principaux établissaient un lien entre l’appelant et la fraude. En premier lieu, les caméras fixées aux guichets automatiques prenaient des photos des personnes qui déposaient des chèques ou de l’argent ou qui retiraient de l’argent des machines. À ce moment‑là, il y avait un écart d’environ quatre minutes entre l’heure indiquée sur la photo et l’heure de l’opération enregistrée par le guichet automatique. Des photos de l’appelant qui effectuait des opérations aux guichets automatiques figurent à plusieurs reprises dans les trois cahiers de pièces (A‑46, A‑47 et A‑49). Il y a de nombreuses photos sous sept onglets et au moins cinq photos sont clairement des photos de l’appelant, M. Biros. Les photos sous les deux autres onglets sont probablement des photos de M. Biros, mais je tiendrai uniquement compte des cinq photos dont les images sont claires. Je suis convaincu, compte tenu de ma propre observation de l’appelant lui‑même et des photos, qu’il s’agit de photos de l’appelant. M. Biros nie la chose et affirme qu’il est loin d’être tout à fait sûr que ce soit bien lui. Je ne suis pas prêt, en ma qualité de juge des faits, à rejeter une preuve que j’ai sous mes propres yeux et la dénégation plutôt particulière de M. Biros ne me convainc pas. De fait, l’inspecteur‑détective Thomas a témoigné qu’il avait montré à M. Biros l’une des photos prises par la caméra du guichet automatique et que M. Biros avait admis que c’était bien lui. M. Biros nie maintenant la chose.
+[16] En second lieu, il y a les empreintes digitales. Les témoignages de trois experts fort compétents en matière d’empreintes digitales, Debi Gillespie (Mme Klatt), Shane Scott Turnidge et Cynthia Rennie ont été entendus. Mme Klatt a identifié les empreintes digitales de M. Biros sur onze chèques. M. Turnidge a identifié les empreintes digitales de M. Biros sur huit chèques et Mme Rennie a identifié les empreintes digitales de M. Biros sur un chèque. Les rapports de trois autres experts ont été signifiés et déposés, mais ils n’ont pas été soumis en preuve.
+[17] Le système utilisé par les experts en matière d’empreintes digitales était le même : le chèque était immergé dans de la ninhydrine (et dans un cas dans de la trypsine). Cela faisait ressortir les empreintes digitales par ailleurs invisibles (ou latentes). Ces empreintes étaient photographiées et agrandies et elles étaient comparées aux empreintes digitales de M. Biros qui avaient été prises à l’aide d’un rouleau dactyloscopique. Le test qui semble être accepté dans ce domaine de la science légale est le suivant :
+[traduction] L’identité a été établie au moyen de la concordance continue de caractéristiques propres aux lignes se trouvant en ordre, sans différences inexplicables.
+[18] Un lien final, quoique moins concluant, avec l’appelant est que, dans deux ou trois cas, l’imposteur qui avait volé l’identité de Donald Bélanger avait donné à la Banque de Montréal comme adresse et numéro de téléphone d’entreprise l’adresse et le numéro du restaurant de l’appelant, rue Yonge, à Toronto. Je ne considère pas cela comme un élément de preuve particulièrement concluant à l’encontre de l’appelant. Peu importe ce que cela peut par ailleurs prouver, cela démontre certes quelque chose au sujet de l’intelligence de l’auteur de la fraude, l’individu qui a volé l’identité de M. Bélanger.
+[19] Le répartiteur, M. Baksh, a établi comme suit une cotisation à l’égard de l’appelant, de la façon énoncée dans la pièce A‑41 :
+Rapprochement des montants
+Lakis Biros
+Nom/
+Numéro de
+Compte
+Empreintes
+Photos de
+Perte
+No de domiciliation
+compte
+ouvert
+digitales
+la banque
+totale
+Année d’imposition 1994
+Banque de Montréal
+James McKeever
+2974
+7033-475
+1994-12-09
+Oui
+2 815,00 $
+Banque de Nouvelle-Écosse
+Franca Reda
+91132
+409-782
+1994-03-04
+Oui
+2 056,00 $
+Banque Royale du Canada
+Franca Reda
+6722
+500-912-1
+1994-03-03
+Oui
+26 950,00 $
+Banque Canadienne Impériale de Commerce
+Spartaco Morassut
+3732
+771-776-8
+1994-03-11
+Oui
+16 790,00 $
+Canada Trust
+Franca Reda
+318
+517541
+1994-03-04
+Oui
+5 130,00 $
+Garvin Warner
+333
+506011
+1994-03-14
+Oui
+10 960,00 $
+Total obtenu du Canada Trust
+16 090,00 $
+Année d’imposition 1995
+Banque de Montréal
+Donald Belanger
+442
+7051-753
+1995-04-18
+Oui
+29 431,10 $
+440
+5245-370
+1995-04-18
+Oui
+8 360,00 $
+443
+8033-179
+1995-04-13
+Oui
+8 420,00 $
+450
+5179-438
+1995-04-18
+Oui
+25 413,60 $
+425
+5208-397
+1995-04-18
+Oui
+17 110,76 $
+John Dawson
+395
+5149-434
+1995-03-21
+Oui
+3 558,01 $
+421
+7030-006
+1995-03-20
+Oui
+26 713 29 $
+2378
+5104-484
+1995-03-21
+Oui
+38 710,37 $
+441
+5138-579
+1995-03-22
+Oui
+26 005,22 $
+Justin Wong
+367
+5143-281
+1995-05-12
+Oui
+27 443,49 $
+2380
+5405-066
+1995-05-11
+Oui
+20 644,47 $
+419
+7213-461
+1995-05-11
+Oui
+20 917,15 $
+Patrick K. C. Sun
+428
+3069-582
+1995-07-27
+Oui
+14 332,79 $
+2469
+5176-251
+1995-08-18
+Oui
+4 470,00 $
+371
+8113-385
+1995-07-27
+Oui
+16 221,04 $
+Robert Vasic
+371
+3158-055
+1995-05-12
+Oui
+10 900,00 $
+James McKeever
+2974
+8028-408
+1995-03-14
+Oui
+1 608,69 $
+Total obtenu de la Banque de Montréal
+296 369,16 $
+Banque Canadienne Impériale de Commerce
+Patrick Sun
+112
+33-16939
+1995-07-27
+Oui
+11 429,82 $
+[20] Le principe sur lequel M. Baksh s’est fondé est le suivant. Lorsqu’il y avait a) un compte dans lequel un chèque était déposé et sur lequel une empreinte digitale de M. Biros était identifiée ou b) un compte pour lequel la caméra vidéo de surveillance prenait une photo de M. Biros qui était en train de conclure une opération dans ce compte à un guichet automatique, M. Baksh a imposé entre les mains de M. Biros tous les montants retirés de ce compte. Lorsque ni l’une ni l’autre des deux conditions susmentionnées ne s’appliquait à un compte qui avait été utilisé pour commettre la fraude, M. Baksh n’a pas imposé M. Biros à l’égard des montants retirés de ce compte. Il importe de noter que les experts ont convenu qu’une personne (M. Biros ou quelqu’un d’autre) aurait pu manipuler un chèque sans qu’une empreinte digitale y figure. Il serait possible d’affirmer, peut‑être d’une façon quelque peu justifiée, que quelqu’un d’autre aurait pu avoir accès au compte et avoir retiré de l’argent de ce compte. Toutefois, étant donné qu’il est évident que M. Biros doit avoir eu une carte de guichet automatique à un moment donné, même si quelqu’un d’autre l’utilisait, il n’est pas déraisonnable de supposer que M. Biros avait peut‑être remis la carte à cette autre personne. En outre, on n’a présenté aucun élément de preuve montrant quelqu’un d’autre sur les enregistrements de la caméra vidéo de surveillance, sauf dans un cas un homme et, dans deux autres cas, une femme; or, ces personnes étaient accompagnées de M. Biros.
+[21] Où en sommes‑nous donc? Nous avons la preuve d’une fraude d’envergure contre les banques, fraude commise au moyen d’identités volées, de l’ouverture frauduleuse de comptes bancaires et de l’obtention frauduleuse de cartes de guichet automatique. Nous avons la preuve d’un grand nombre de chèques volés qui ont été déposés dans ces comptes de banque au moyen de faux endossements.
+[22] Nous avons la preuve concluante des empreintes digitales de M. Biros sur 20 chèques et une preuve visuelle claire de M. Biros qui était en train de conclure des opérations dans les comptes à un certain nombre de guichets automatiques.
+[23] Il y a un autre élément de preuve qui doit être traité d’une façon plutôt prudente, à savoir la dénégation catégorique complète de M. Biros de toute participation au stratagème. M. Biros nie que ce soit sa photo qui figure sur les enregistrements vidéo des caméras de surveillance et il soutient que la police doit avoir d’une façon ou d’une autre fabriqué ses empreintes digitales sur les chèques. Sa dénégation de la preuve évidente, non réfutée et irréfutable a l’effet de confirmer et de renforcer la conclusion selon laquelle il était fortement impliqué dans la fraude. L’inspecteur‑détective Thomas a déclaré qu’il s’agissait d’une fraude complexe qui exigeait énormément de planification, de coopération et d’organisation. M. Biros ne me donne pas l’impression d’être un génie en matière criminelle comme des génies bien connus. S’il avait admis une participation moindre au stratagème, ou s’il avait dit qu’il jouait en fait un rôle peu important, j’aurais peut‑être conclu à la crédibilité de pareille preuve, mais nier toute participation, quelle qu’elle soit, devant la preuve accablante de sa participation ne me laisse aucun autre choix.
+[24] J’ai déjà mentionné que j’aurais à examiner la nature et l’étendue de l’obligation qui incombe à la Couronne en vertu du paragraphe 152(4.01) et de la restriction à laquelle sont assujettis les pouvoirs du ministre quant aux cotisations. Afin de rouvrir l’année frappée de prescription, le ministre a le fardeau d’établir qu’il y a eu présentation erronée des faits. La norme de preuve est une norme civile, mais elle est relativement plus stricte dans un cas où la fraude est alléguée : Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164, cité dans la note de bas de page 3, page 205 de la décision Farm Business Consultants Inc., précitée.
+[25] En l’espèce, la Couronne a prouvé que M. Biros avait reçu des fonds des banques par suite d’un stratagème frauduleux. M. Biros n’a pas déclaré ces montants à titre de revenu. Il s’agit d’un revenu tiré d’une entreprise. (Neeb v. The Queen, 97 DTC 895, page 897; Svidal v. The Queen, [1995] 1 C.T.C. 2692). L’omission de M. Biros de déclarer ces montants constituait une présentation erronée des faits. L’avocat de l’intimée soutient que l’omission était attribuable à de l’indifférence et qu’elle était délibérée. Je crois qu’il serait faux d’attribuer l’omission de déclarer un revenu tiré d’un crime à une simple insouciance. Cela fait plus probablement partie de la fraude dans son ensemble. Je suppose que les gens qui gagnent un revenu en commettant un crime n’omettent pas par inadvertance ce revenu de leurs déclarations de revenus. Ces gens omettent délibérément de déclarer pareil revenu.
+[26] La Couronne a‑t‑elle à prouver la provenance de chaque dollar gagné par suite d’activités illégales afin de satisfaire aux restrictions imposées au paragraphe 152(4.01)? Cette interprétation ne me semble pas sensée ou ne me semble pas conforme à l’esprit de la Loi dans la mesure où elle se rapporte à l’effet de la présentation erronée des faits sur de nouvelles cotisations prescrites (voir Canada c. Honeywell Ltée, [2007] A.C.F. no 123 (QL)). La façon dont les pouvoirs conférés au ministre d’établir de nouvelles cotisations concernant des années frappées de prescription ont évolué semble étayer mon opinion, à savoir que, lorsque la Couronne établit qu’une présentation erronée des faits a été effectuée à l’égard d’une catégorie ou d’une source particulière de revenu (comme le fait de frauder les banques), elle n’a pas à prouver la provenance de tout le revenu tiré de cette source qui a été omis et le fardeau de la preuve passe au contribuable, qui doit démontrer que le revenu tiré de cette source était inférieur à ce que le ministre a imposé.
+[27] Autrefois le ministre pouvait rouvrir une année frappée de prescription pour quelque fin que ce soit, s’il découvrait qu’une présentation erronée des faits avait été effectuée, peu importante soit‑elle. Le paragraphe 152(5) accordait une certaine mesure de redressement, mais il imposait au contribuable le fardeau d’établir que toute déclaration en moins n’était pas attribuable au type de présentation erronée des faits décrit à l’alinéa 152(5)b). Par la suite, le paragraphe 152(5) a été modifié, le paragraphe 152(4.01) imposant au ministre le fardeau d’établir non seulement qu’il y avait eu présentation erronée des faits, mais aussi que cette présentation erronée avait été effectuée par négligence, inattention ou omission volontaire ou qu’elle était attribuable à quelque fraude. Il s’agit d’un fardeau passablement lourd compte tenu des mots « que dans la mesure », mais cela ne va pas jusqu’à exiger que le ministre établisse le montant précis en cause dans la présentation erronée des faits afin de justifier le montant de la nouvelle cotisation.
+[28] Il est malheureux que M. Biros n’ait pas été représenté. Il est encore plus malheureux que l’avocat de l’intimée ne m’ait presque pas aidé, même si la Couronne a produit d’excellents témoins.
+[29] Eu égard à la preuve, je ne crois pas pouvoir réduire le revenu visé par la cotisation et je ne peux pas non plus justifier l’annulation des pénalités. Si, comme je l’ai conclu, l’appelant était impliqué dans une fraude massive contre les banques, il s’ensuit inéluctablement qu’il a sciemment omis de déclarer le produit de la fraude dans son revenu.
+[30] Les appels sont rejetés. Eu égard aux circonstances, la Couronne n’aura pas droit à ses dépens. Si les avocats veulent que je fournisse des motifs additionnels en vue d’expliquer pourquoi aucuns dépens ne sont adjugés, ils pourront demander que des motifs soient rendus par écrit.
+Signé à Ottawa, Canada, ce 22e jour de mai 2007.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 31e jour d’octobre 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2007CCI248
+No DU DOSSIER DE LA COUR : 2003-1705(IT)G
+INTITULÉ : Lakis Biros
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 23, 24, 25 et 26 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge en chef
+D. G. H. Bowman
+DATE DU JUGEMENT : Le 22 mai 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

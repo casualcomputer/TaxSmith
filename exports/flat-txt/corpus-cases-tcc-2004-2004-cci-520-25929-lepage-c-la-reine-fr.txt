@@ -1,0 +1,150 @@
+Title: Lepage c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25929/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-520-25929-lepage-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-07-23
+
+# Lepage c. La Reine
+
+- Citation: 2004 CCI 520
+- Decision date: 2004-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3662, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lepage c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-23
+Référence neutre
+2004 CCI 520
+Numéro de dossier
+2003-2261(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2261(IT)I
+ENTRE :
+PIERRE LEPAGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 14 juillet 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Alain Tremblay
+Avocat de l'intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI520
+Date : 20040723
+Dossier : 2003-2261(IT)I
+ENTRE :
+PIERRE LEPAGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels par voie de la procédure informelle concernant les années d'imposition 1997 et 1998.
+[2] La question en litige est de savoir si les frais juridiques engagés relativement à des propriétés locatives ont été engagés à titre du revenu ou à titre du capital.
+[3] L'appelant a témoigné. Il a acquis trois immeubles locatifs de six logements dans les années 1985 à 1987. Le prêteur hypothécaire était Fiducie Desjardins Inc. ( « Fiducie Desjardins » ). En 1993, l'appelant a eu des difficultés dans la location de ses logements ce qui a amené des difficultés de paiement des taxes foncières. Vers la fin de l'année 1994, il y a eu une entente avec le prêteur hypothécaire concernant une augmentation des sommes à payer sur les emprunts hypothécaires. Cela ne semble pas avoir suffi.
+[4] Le 28 avril 1995 un Avis de retrait d'autorisation de percevoir les loyers est signifié aux propriétaires ainsi qu'aux locataires (pièce A-2). Le 16 juin 1995, un Préavis d'exercice d'un recours hypothécaire d'une prise de possession pour fins d'administration (art. 2757 et ss. du Code civil du Québec) est signifié (pièce A-1). Le 1er août 1995, il y a un Préavis d'exercice d'un recours hypothécaire de prise de paiement (art. 2757 et ss. du Code civil du Québec) (pièce A-4). Le 22 juin 1995, il y a un jugement ordonnant le délaissement immédiat pour prise en possession provisoire pour fins d'administration jusqu'à ce que jugement final intervienne sur la présente requête (pièce A-5). Le 19 octobre 1995, il y a une Requête en délaissement forcé pour prise en paiement (article 795 du Code de procédure civile) (pièce A-3). Cette requête avait pour but que le tribunal déclare Fiducie Desjardins la seule et unique propriétaire rétroactivement à compter de l'inscription du préavis faite le 10 août 1995.
+[5] Les différents documents de la pièce A-6 sont des lettres du 22 avril 1996 au 11 septembre 1997 entre les avocats de l'appelant et ceux de Fiducie Desjardins. Elles ont comme sujet les possibilités de restructuration des emprunts.
+[6] L'appelant a relaté que pour chacune des années en litige Fiducie Desjardins lui faisait parvenir un état des revenus locatifs qu'il incluait dans sa déclaration de revenu. Il était demeuré propriétaire au cours de ces années. Selon lui, les services d'un avocat ont été requis pour contester l'administration des logements par Fiducie Desjardins. Il a aussi relaté qu'en 1999, lui et son épouse ont décidé de céder les propriétés à Fiducie Desjardins, car la contestation leur coûtait trop cher.
+[7] L'avis d'opposition a été joint à l'avis d'appel et explique ainsi la position de l'appelant au cours de l'audience. Je cite le passage pertinent :
+...
+A - Immeubles Plessis, Cartier et Dorion (Années 1997 et 1998) :
+1. Honoraires d'avocats :
+En août 1995, le créancier hypothécaire a présenté certains documents à la cour Supérieure du Québec afin d'obtenir le droit d'administrer lesdits immeubles. Les contribuables se sont opposés à une telle présentation des faits et ont poursuivi le créancier hypothécaire à cet effet. Durant ces années, les contribuables sont demeurés propriétaires des immeubles, comme en fait foi les déclarations fiscales personnelles, indiquant les revenus et pertes de loyer basés sur les informations fournies par le créancier hypothécaire « Fiducie Desjardins » . À chaque année, Fiducie Desjardins fournissait aux contribuables tous les détails des revenus et dépenses reliées à leur gestion des immeubles.
+Les contribuables ont réclamé des honoraires d'avocats qu'ils avaient mandaté pour contester la saisie de l'administration des immeubles par Fiducie Desjardins. De plus, dans les frais d'administration des immeubles par la Fiducie Desjardins, il y avait des honoraires d'avocats de la Fiducie pour s'opposer à la contestation par les contribuables de l'administration des immeubles par la Fiducie.
+Ces honoraires légaux ont été refusés par le Ministère et ont été ajoutés (ou capitalisés) au prix de base de chacun des immeubles, au pro-rata de leur revenu brut de location.
+Les contribuables s'opposent à un tel refus pour les raisons suivantes :
+Leur dépenses d'honoraires d'avocats sont déductibles dans chacune des années vu que ce sont des honoraires reliés aux opérations normales pour gagner un revenu de loyers. Il arrive souvent que les locateurs rencontrent des problèmes au niveau des créanciers hypothécaires ou autres;
+La poursuite ou contestation concerne la prise en charge indue de l'administration des immeubles et non pour reprendre des immeubles qui ont été saisis. La dépense n'est pas reliée à un bien en capital saisi mais plutôt à des frais d'opérations et d'administration;
+...
+[8] Les motifs invoqués dans l'Avis d'appel sont les suivants :
+...
+Les contribuables s'opposent à un tel refus pour les raisons suivantes :
+Leurs dépenses d'honoraires d'avocats sont déductibles dans chacune des années vu que se sont des honoraires reliés aux opérations normales pour gagner un revenu de loyer. Il arrive souvent que les locateurs rencontrent des problèmes au niveau des créanciers hypothécaires ou autres;
+La poursuite ou contestation concerne la prise en charge indue de l'administration des immeubles et non pour reprendre des immeubles qui ont été saisis. La dépense n'est pas reliée à un bien en capital saisi mais plutôt à des frais d'opérations et d'administration.
+...
+[9] L'avocat de l'appelant a fait valoir que les frais légaux pouvaient être déduits comme des dépenses de nature courante. Il se serait agi de dépenses reliées à l'administration des loyers.
+[10] L'avocat de l'intimée a fait valoir qu'il s'agissait de frais engagés à titre de capital et qu'ils ne pouvaient être déduits vu l'alinéa 18(1)b) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[11] Il s'est référé à la décision de la Cour d'appel fédérale du Canada dans La Reinec. Jager Homes Ltd., A-792-83, le 28 janvier 1988 (C.A.F.), et plus particulièrement aux propos du juge Urie aux pages 16 et 17 de la décision :
+De l'ensemble de la preuve, il apparaît raisonnable de conclure que l'objectif véritable de la demanderesse était d'utiliser la menace de liquidation pour forcer le règlement financier du divorce ou, à défaut de règlement, d'obtenir sa juste part de la liquidation des actifs. C'est clairement pour prévenir cette dernière éventualité qu'il y a eu contestation et c'est avant tout dans ce but que s'est organisée la défense. Aussi, est-ce de façon indirecte et en dernière analyse que la défense pouvait assurer le maintien de la capacité de chacune des sociétés et gagner un revenu. Pour reprendre les mots du juge Dixon dans l'affaire Sun Newspapers, précitée, [Sun Newspapers Limited v. Federal Commissioner of Taxation, (1938) 61 C.L.R. 337] « (i)l s'agit en l'espèce d'une dépense importante et inhabituelle, engagée dans le but d'obtenir un avantage pour le bénéfice durable du commerce des appelantes ... » En d'autres termes, le paiement de frais juridiques a été fait afin de préserver l'entité, la structure ou l'organisation commerciale et non pas afin de tirer des profits de l'exploitation de telles entités commerciales.
+[12] L'avocat de l'appelant a fait remarquer en réplique que la requête dans l'affaire Jager Homes (supra) concernait une requête en liquidation et qu'il est bien mentionné à la page 3 de ce jugement que :
+... Quant à tous les frais juridiques relatifs à l'administration quotidienne des intimées pendant la durée de ces procédures, le ministre du Revenu national en a permis la déduction du revenu à titre de dépenses courantes.
+Conclusion
+[13] Les alinéas 18(1)a) et 18(1)b) de la Loi se lisent comme suit :
+18(1) Exceptions d'ordre général - Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale - les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) Dépense ou perte en capital - une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[14] Je me réfère à la décision de la Cour suprême du Canada dans Farmers Mutual Petroleums v. M.N.R., [1967] C.T.C. 396 et aux propos du juge Martland à la page 400 :
+[TRADUCTION]
+Pour être déductible aux fins de l'impôt, un débours doit satisfaire à au moins deux critères de base :
+1) Il doit être effectué en vue de gagner un revenu (alinéa 12(1)a)).
+2) Il ne doit pas s'agir d'un paiement au titre du capital (alinéa 12(1)b)).
+Il doit être satisfait à ces deux critères pour justifier la déductibilité. Dans l'affaire British Columbia Electric Railway Company v. M.N.R., [1958] R.C.S. 133, [1958] C.T.C. 21, le juge Abbott disait, aux pages 137 et 31 respectivement :
+Comme le principal objet de toute entreprise commerciale est vraisemblablement de réaliser un profit, toute dépense faite en vue de gagner un revenu entre dans le cadre de l'alinéa 12(1)a), qu'elle soit considérée comme des frais d'exploitation ou comme une dépense en capital.
+Une fois déterminé qu'une dépense particulière a été faite en vue de gagner un revenu, il faut, pour calculer l'impôt à payer, déterminer s'il s'agit de frais d'exploitation ou d'une dépense en capital.
+[15] Dans la présente affaire, il n'est pas contesté que les frais juridiques en question ont été engagés pour gagner du revenu d'une entreprise ou d'un bien au sens de l'alinéa 18(1)a) de la Loi. Il s'agit maintenant de savoir s'il s'agit d'une dépense en capital au sens de l'alinéa 18(1)b) de la Loi et alors non déductible dans le calcul du revenu (sauf ce qui est expressément permis par la présente partie).
+[16] Je me reporte à l'affaire Jager Homes (supra), citée par l'avocat de l'intimée. Dans cette affaire, il s'agissait de savoir si les frais juridiques engagés par les contribuables pour contester une action en liquidation avaient été engagés en vue de gagner un revenu ou s'il s'agissait de débours ou paiements au titre du capital. Il a été conclu que les paiements étaient des paiements au titre du capital parce qu'il s'agissait d'une dépense engagée pour obtenir un avantage pour le bénéfice durable du contribuable. Le paiement de frais juridiques avait été fait afin de préserver l'entité, la structure ou l'organisation commerciale et non pas afin de tirer des profits de l'exploitation de l'entité commerciale.
+[17] De cette décision Jager Homes (supra), je cite un passage à la page 9 :
+...
+À la page 359 de son jugement, [Sun Newspapers Limited v. Federal Commissioner of Taxation, (1938) 61 C.L.R. 337] le juge Dixon fait ensuite la déclaration suivante que le président Jackett (tel était alors son titre) a repris à l'appui dans l'arrêt Canada Starch Company Limited v. M.N.R. (68 DTC 5320, 5323) :
+La distinction entre les dépenses à titre de capital et les dépenses à titre de revenu correspond à la distinction entre l'entité, la structure ou l'organisation commerciale établie en vue de réaliser des bénéfices et le mode de fonctionnement auquel elle a recours pour toucher des recettes régulières au moyen de dépenses régulières, la différence entre ces dépenses et ces recettes constituant les bénéfices ou les pertes de cette entité.
+[18] Les frais juridiques ont-ils été engagés à l'égard du fonctionnement de l'entreprise ou à l'égard de sa structure? Je me reporte aux procédures qui ont été à la source des frais juridiques en question.
+[19] Les documents, produits comme pièce A-1 à A-5, sont des procédures prises à l'égard de l'exercice des droits hypothécaires au cours de l'année 1995. Les documents de la pièce A-6 sont en date des années 1996 et 1997. Il s'agit de propositions et réponses ayant comme objet la recherche de moyens pour régler la structure commerciale défaillante des immeubles locatifs. Les frais juridiques réclamés sont pour les années 1997 et 1998. Les factures n'ont pas été produites.
+[20] Ces actes de procédure et cette correspondance n'ont pas comme objet des différends relatifs à l'administration quotidienne ou courante des propriétés locatives tel qu'affirmé par l'appelant. Le litige concernait la propriété des immeubles locatifs et la correspondance avait comme objet la restructuration des emprunts hypothécaires.
+[21] Je ne peux que conclure, selon la preuve présentée, que les frais juridiques ont été engagés pour préserver la propriété des immeubles locatifs et pour la réorganisation de la structure commerciale. Ils n'ont pas été engagés pour les fins de l'exploitation de l'entité commerciale.
+[22] En conséquence, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI520
+No DU DOSSIER DE LA COUR :
+2003-2261(IT)I
+INTITULÉ DE LA CAUSE :
+Pierre Lepage et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+14 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 23 juillet 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Alain Tremblay
+Pour l'intimée :
+Me Simon Petit
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Alain Tremblay
+Étude :
+Ouellet, Nadon et associés
+Montréal (Québejc)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

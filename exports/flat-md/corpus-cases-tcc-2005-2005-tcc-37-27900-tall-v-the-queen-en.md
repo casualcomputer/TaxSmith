@@ -1,0 +1,132 @@
+---
+title: "Tall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27900/index.do"
+last_modified: "2005-01-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 37"
+citation2: ""
+neutral_citation: "2005 TCC 37"
+decision_date: "2005-01-06"
+language: "en"
+item_id: "27900"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1748
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:24:53.752000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cbdcc55425b2ed497c3bb0945c32f3a2c14508b75cdfbb66b70a176b8e09b4b1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tall v. The Queen
+
+- Citation: 2005 TCC 37
+- Decision date: 2005-01-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1748, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-06
+Neutral citation
+2005 TCC 37
+File numbers
+2004-2359(IT)I, 2004-657(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Toronto, Ontario
+--- Upon commencing on Friday, December 3, 2004
+REASONS FOR ORDER
+JUSTICE CAMPBELL: In February, 2004, the Appellant filed a Notice of Appeal under the Informal Procedure in respect to his 2001 taxation year. A Reply to the Notice of Appeal was filed on April 27th, 2004.
+Shortly after this, the Appellant filed a second Notice of Appeal under the Informal Procedure, on May 22nd, 2004, in respect to his 2002 taxation year. A Reply to that Notice of Appeal was filed on August 3rd, 2004.
+The Appellant did not have legal representation when he filed the Notices of Appeal. When the appeal respecting his 2001 taxation year was set for hearing on August 4th, 2004, he decided to consult a solicitor to handle the appeals. Since the appeal for the 2001 taxation year had been set down for hearing, the Appellant instructed his newly appointed solicitor, Scott Simser, to request an adjournment. Consequently, Mr. Simser, on July 26th, 2004, wrote to Respondent counsel requesting that the Respondent consent to an adjournment request and indicating he was also considering a request to the Court to move the appeals from the Informal Procedure to the General Procedure
+With the Respondent consenting to the adjournment request, the Court, on July 28th, 2004, adjourned the 2001 appeal sine die and advised that this appeal, together with the 2002 appeal, would be re-listed for hearing at a later date.
+On September 28th, 2004, a Notice of Hearing was issued in respect to both appeals, setting them down for December 2nd, 2004, yesterday's date, at 9:30 a.m.
+On September 30th, 2004, Mr. Simser wrote to Respondent counsel formally requesting that the Respondent consent to combining the 2001 and 2002 appeals for expediency, moving both matters to the General Procedure and permitting the Appellant to amend both Notices of Appeal in their entirety.
+After the correspondence of September 30th, 2004, there was numerous correspondence back and forth between Respondent and Appellant counsel where, basically, both agreed to disagree. I do not need to review any of this correspondence beyond what I have done. The extent to which I have reviewed some of this correspondence was simply to provide a background to the motion which the Appellant presented on December 2nd, 2004, the date set for the hearing of these appeals.
+On November 22nd, 2004, Appellant counsel filed a Notice of Motion advising that he would make application on December 2nd, 2004 for an order:
+(1) Combining the appeals for the 2001 and 2002 taxation years;
+(2) Moving both appeals from the Informal Procedure to the General Procedure; and
+(3) Amending the two appeals in their entirety.
+In respect to the Appellant's first request, the Respondent did not object to combining the appeals. These appeals are for two separate years, but the primary issue is the same in each appeal, that is, the deductibility of expenses for complementary and alternative medicine together with charter arguments. Therefore, it makes sense that these appeals be joined and set down to be heard together on common evidence.
+Respecting part 2 of the motion, counsel argues that the Appellant was not represented by a solicitor when he filed his Notices of Appeal and did not realize the implications of electing under the Informal Procedure as opposed to the General Procedure. In addition, the Appellant argued that the issues in these appeals involved complex charter issues involving religion, taxation and medicine, that have not been litigated before this Court. He argued that the present appeals constitute a test case because these complex issues affect not only the Appellant's equality rights but a broad group of taxpayers from varying religious and spiritual beliefs, who use alternative and complementary treatments, as opposed to orthodox treatments.
+Appellant counsel filed, as Exhibit A-1, correspondence from the Chinese Canadian National Council advising of their interest in becoming an intervenor if these appeals were moved to the General Procedure. Appellant counsel argued that if he was not permitted to move the appeals to the General Procedure, it would prejudice the Appellant in respect to conducting discoveries, dealing with expert witnesses and generally not allow the Appellant to present his case in the best light.
+Although subsection 18.11(1) refers only to the Attorney General bringing an application to the Court to have the General Procedure apply, the Appellant argued that there is no provision in the Act which would actually prevent an Appellant from bringing such an application.
+And, finally, the Appellant argued that since July 2nd, 2003, this Court has been given Superior Court status and has the right to control its own procedures. The Appellant also used this to argue that the case of Bell v. Canada, [1993] T.C.J. No. 353 could be set aside.
+In respect to the third request, the Appellant argues that there would be no prejudice to the Respondent in amending the Notices of Appeal and, in fact, it would more clearly define the facts and issues for all parties including the Court.
+The Respondent's position respecting the relief sought by the Appellant of having the General Procedure apply, is that the provisions in the Act and the Informal Procedure Rules do not allow the Appellant to apply to have his appeals moved to the General Procedure and that this right resides only with the Attorney General. The Respondent argues that this reflects Parliament's true intention in this area because it is specifically addressed in the legislation. The Respondent relied on the Bell decision, which was quoted with approval in Maier v. Canada, [1994] T.C.J. No. 1260.
+In addition, the Respondent opposed the Appellant's request to amend the Notices of Appeal in their entirety because it was made on the day set aside for the hearing of the appeals and, therefore, not in a timely fashion and in accordance with the Rules.
+Also, the costs related to the Respondent's out-of-town witnesses who attended for the December 2nd, 2004 hearing, could not be compensated by an award of costs pursuant to the Informal Procedure Rules and, therefore, the Respondent suffers an injustice.
+The Appellant has requested that I grant his motion to move the appeals to the General Procedure pursuant to subsection 18.11(5) of the Act, which states that:
+"The Court shall grant an application under subsection (1) where it is of the opinion that the issue that is the subject-matter of the appeal is common to a group or class of persons."
+Subsection 18.11(1) states:
+"The Court may order, on application of the Attorney General of Canada, that sections 17.1 to 17.8 apply in respect of an appeal referred to in section 18."
+I was referred to the case of Bell by both Appellant and Respondent counsel. This is a 1993 decision of this Court under the Informal Procedure. The Court, in Bell, reviewed the scheme of the Act and the Informal Procedure Rules and concluded that once a taxpayer makes an election to have the Informal Procedure apply, it cannot be revoked. The Respondent relied on this decision and argued that there are no provisions in the Act which would allow the Appellant to bring an application requesting that the General Procedure apply once a taxpayer has elected to appeal under the Informal Procedure.
+The Appellant argued that the Bell decision could be distinguished on the basis that it was either wrongly decided or could be set aside as it pre-dates the July 2003 amendments to the Act.
+I am not allowing the Appellant's motion to have these appeals moved to the General Procedure because I have not been persuaded that the issues here are common to a group or class of persons respecting religious affiliation and belief. Therefore, I do not view this as a test case.
+In addition, I have not been persuaded that having the Appellant continue to proceed under the Informal Procedure Rules would negatively affect or prejudice the Appellant's presentation of his appeals in this Court. Although the requirements concerning expert witnesses may be more stringent in the General Procedure, the Appellant is not prohibited from engaging experts if he so chooses. In addition, although there are no discovery requirements under the Informal Procedure, I do not believe this will prohibit the Appellant in any way from fully presenting and arguing his appeals before this Court.
+In coming to this conclusion, I am not agreeing or disagreeing with the Bell decision. I am not completely persuaded by the Respondent's argument that section 18.11 necessarily prohibits a taxpayer from making such an application simply because the provision refers to the Attorney General bringing an application but is silent respecting the taxpayer. In the absence of some specific reference or provision precluding a taxpayer from bringing an application, it may be open for a taxpayer to argue that section 18.11 should not be so narrowly interpreted to conclude that this Court has no jurisdiction to hear a taxpayer's motion to have the appeal moved to the General Procedure.
+The third request by the Appellant concerns amendments to the Notices. The Respondent's argument against amending the Notices is that the Appellant's proposed amendments introduce a new remedy under section 24 of the Canadian Charter of Rights & Freedoms, not previously raised in the original Notices of Appeal. The Respondent also argued this request was not made in a timely fashion and, in support of this, reviewed some of the communications between the parties in the weeks leading up to the December 2nd, 2004 hearing date.
+On reviewing the proposed draft Notice of Appeal, which the Appellant submitted with his motion and comparing it to the Notices drafted by the Appellant himself before benefit of legal counsel, I do not see where permitting the proposed amendments will result in any prejudice or injustice to the Respondent. The Charter violation was raised by the Appellant in the original Notices and the amendments do not raise new facts or issues. I believe the proposed amendments will simply assist in clarifying the issues in these appeals and, therefore, I am prepared to allow the Appellant to amend the two appeals in their entirety.
+In summary, I order that:
+1. The appeals for the 2001 and 2002 taxation years be joined to be heard together on common evidence;
+2. That the Appellant file his amended Notices of Appeal in their entirety on or before Wednesday, December 15th, 2004, and that the Respondent shall file the Replies to the Amended Notices of Appeal on or before February 28th, 2005; and
+3. That the appeals shall remain subject to and proceed pursuant to the Informal Procedure Rules.
+There will be no order respecting costs.
+--- Whereupon the hearing concluded
+CITATION:
+2005TCC37
+COURT FILE NOS.:
+2004-657(IT)I
+2004-2359(IT)I
+STYLE OF CAUSE:
+Franklin D. Tall and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 1 and 2, 2004
+ORAL REASONS FOR ORDER BY:
+The Honourable Justice Diane Campbell
+DATE OF AMENDED ORDER:
+January 6, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Scott I. Simser
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Scott I. Simser
+Firm:
+Simser Sonculting
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

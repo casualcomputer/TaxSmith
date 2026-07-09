@@ -1,0 +1,176 @@
+---
+title: "Ohayon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29605/index.do"
+last_modified: "2010-01-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 25"
+citation2: ""
+neutral_citation: "2010 TCC 25"
+decision_date: "2010-01-14"
+language: "en"
+item_id: "29605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6174
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:44:10.428000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fef79aca85bda8f68c3a3d9b5511c176a979374650a8cea54be2b1ccbae69f41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ohayon v. The Queen
+
+- Citation: 2010 TCC 25
+- Decision date: 2010-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6174, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ohayon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-14
+Neutral citation
+2010 TCC 25
+File numbers
+2006-796(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-796(IT)G
+BETWEEN:
+EDMOND OHAYON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 8, 2009, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellant:
+Amit Thakore
+Counsel for the Respondent:
+Carol Calabrese
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 1996 and 1997 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 14th day of January, 2010.
+“Brent Paris”
+Paris J.
+Citation: 2010 TCC 25
+Date: 20100114
+Docket: 2006-796(IT)G
+BETWEEN:
+EDMOND OHAYON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] These are appeals from reassessments of the Appellant’s 1996 and 1997 taxation years under the Income Tax Act (the Act).[1]
+[2] The Minister of National Revenue reassessed Mr. Ohayon for unreported business income of $71,405 in his 1996 taxation year and $52,346 in his 1997 taxation year and imposed gross negligence penalties under subsection 163(2) of the Act. In addition, the reassessments were made outside the normal statutory reassessment period.
+[3] The Minister arrived at the figures for the unreported business income by means of a net worth audit. This type of audit was described by Bowman J. (as he then was) in Bigayan v. The Queen[2] at paragraph 2:
+2. The net worth method, as observed in Ramey v. The Queen, 93 DTC 791, is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. It is a blunt instrument, accurate within a range of indeterminate magnitude. It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+[4] In this case, the Minister made the following assumptions (set out in paragraph 6 of the Reply to the Notice of Appeal) concerning the Appellant’s net worth:
+k) together with his business assets, the Appellant had total assets in the amounts of not less than $71,690.94, $99,861.56 and $151,627.53 at the end of the years 1995, 1996 and 1997 respectively …
+l) together with his business liabilities, the Appellant had total liabilities in the amounts of not more than $22,423.14, $32,723.78 and $66,439.52 at the end of the years 1995, 1996 and 1997 respectively …
+m) the Appellant’s net worth at the end of the years 1995, 1996 and 1997 were not less than the amounts of $49,266.90, $67,127.77 and $85,188.01 respectively …
+n) at the end of the years 1996 and 1997, the Appellant increased his net worth in the amounts of not less than $17,860.87 and $18,060.24 respectively from the year before …
+[5] The Minister also assumed that the Appellant incurred personal and living expenses of $64,071.91 in 1996 and $65,257.34 in 1997.
+[6] The Minister concluded that in order to generate the increases to his net worth after adjusting for personal and living expenses and for non‑taxable items, the Appellant’s income from business was not less than $91,865.78 in 1996 and $67,230.58 in 1997. In his income tax returns, the Appellant reported business income of $20,461 for 1996 and $14,885 for 1997.
+[7] The Appellant is challenging the assessments on the basis that his income in excess of the amounts he reported in 1996 and 1997 was from non‑taxable sources: gambling and gifts of gold and cash from his father. The Appellant does not take issue with the figures determined by the Minister for personal or living expenses, or any other aspects of the calculation of his income for the years in issue.
+[8] The Appellant also takes the position that the Minister was not entitled to reassess the 1996 and 1997 taxation years beyond the normal statutory reassessment period because he did not make any misrepresentation in filing his returns. He also maintains that there was no basis on which to levy gross negligence penalties.
+Evidence
+[9] Mr. Ohayon and his ex-spouse, Ms. Catherine Raby, gave evidence on Mr. Ohayon’s behalf, and the Canada Revenue Agency auditor, Ms. Christina Peycha, was called by the Respondent.
+[10] Mr. Ohayon testified that he began gambling at a young age and has continued to gamble frequently. At times, he said he has supported himself with his winnings. He said he was very good at gambling and that it was fair to say that it was a career in itself for him. Even after he opened his jewellery business in Toronto in 1986, gambling provided him with a secondary income. According to his testimony, in the early 1990s, when the economy slowed, he earned more money gambling than from his business (and spent more time at it as well). He said he gambled daily, and took trips to gamble in Atlantic City, Las Vegas, Niagara Falls, the Bahamas, Zagreb, Budapest and on cruises departing from Miami. He said he was often invited on expense-paid gambling junkets because he was a regular at certain of these locations.
+[11] Mr. Ohayon testified that he controlled his losses, and sometimes won large amounts such as $10,000 or $15,000. He claimed that once in the Bahamas in 1994 or 1995, he won $68,000, and deposited the money in an account with his spouse at the Royal Bank of Scotland branch in Nassau. The funds were then accessed by means of wire transfers. No records for this account were available, he said, because the branch had been closed in the late 1990s.
+[12] With respect to his jewellery business, Mr. Ohayon said that he “wasn’t open those years” and that he wasn’t in Toronto most of the time. I took this to mean that he did not operate his business in 1996 and 1997, since he had previously testified that he had closed his business and moved to Miami with Ms. Raby around 1994 or 1995, or in 1998, that he was not sure of the year. Later, however, he said that his business was closed for most of 1995 and 1996 and that he was unable to recall if it was open in 1997. Finally, in cross‑examination, when shown accounting records for the business indicating it operated throughout 1996 and 1997, he said that he only left Toronto for short periods during those years, and did not shut his business down.
+[13] Mr. Ohayon also recounted a trip he took to Zagreb and Budapest with acquaintances sometime during the years in issue. Mr. Ohayon testified that all his expenses on the trip were paid by his acquaintances because they were investigating business opportunities there and had invited him along. In Zagreb, he recalled a gambling win of 8,000 Deutsche marks which he said was equivalent to $5,000 Canadian, and in Budapest he said he won 4,000 Deutsche marks at a casino. In cross-examination, though, Mr. Ohayon appeared to say that he may have spent as much as $10,000 of his winnings during the trip, and that he could not recall how much money he brought back with him to Canada.
+[14] Mr. Ohayon also stated that after his mother passed away in Israel in 1994, his father brought close to $200,000 worth of gold jewellery to Toronto and gave it to him for safekeeping. (In redirect, he said the amount of gold received from his father was around $240,000.) He said he sold off small amounts of the gold to jewellers in Toronto at various times in 1996 and 1997, and that in all, he estimated the proceeds of the sales totalled $50,000 to $60,000 US. He had no receipts or other documentation for those sales, but had two receipts for sales of gold for $84,000 and $99,999.98 to two Toronto companies in 1998 and 1999.
+[15] Mr. Ohayon told the Court that he also received a gift of $10,000 from his father when he visited him in Israel in 1993.
+[16] Mr. Ohayon presented a letter dated July 21, 2002 from a person identified as Sigal Shitrit, stating that he was the “Acting Attorney for Mr. Simon Ohayon’s family” and that “due to the best of [his] knowledge”, Mr. Simon Ohayon provided the Appellant with approximately $200,000 to $250,000 in US currency and gold between 1985 and 1997. Mr. Shitrit, in the letter, goes on to say that:
+Mr. Simon Ohayon saved cash and gold as many people from his generation did. His security lied in the fact that he could save money and give it to his oldest son. As Simon Ohayon lived through WW2, where people of Jewish descent were stricken of personal possessions and all bank funds and sent to concentration camps, he felt, as many people of that generation felt, that cash and gold provided him with sense security, when people and the world in which they lived had none.
+Due to this method of Mr. Simon Ohayon’s savings, there is no possibility to provide bank documents of these savings.
+[17] Ms. Raby testified that Mr. Ohayon gambled “a lot” and that she travelled frequently with him on trips on which he gambled. She said that she did not stay and watch him gamble but, according to her, he won more often than he lost. She recalled that on one trip to the Bahamas, he won $70,000 to $80,000 US at a casino and that the money was deposited in an account in both of their names at the branch of the Royal Bank of Scotland in Nassau. She did not recall the year the trip was taken, but said it was before 1998. She did not use the money in the account, but said a large amount was transferred to an account she had at the CIBC in Toronto in 2000. She remembered that there had been problems with the transfer and that the funds had apparently been lost but later recovered. She referred to a letter dated August 20, 2004 from Ms. Kathy Howes, a financial adviser at the CIBC in Toronto, in which Ms. Howes stated as follows:
+Please be advised that we are attempting to obtain a copy of a cable received by Ms. Raby approximately four years ago. We anticipate that this will take a considerable amount of time to locate due to the lack of information supplied and the fact that some records from that time have been destroyed.
+I do recall some of the details of the transaction you are inquiring about. Ms. Raby received a cable of approximately $50,000 USD (exact amount is unknown) from the Royal Bank of Scotland in Nassau. The cable was lost in transit and our branch spent at least one month attempting to locate the funds. We believe this occurred during the first half of 2000, but do not have s specific date. I was able to locate the name and address of the bank in Ms. Raby’s file.
+The Royal Bank of Scotland (Nassau) Ltd.
+[18] Ms. Raby also testified that Mr. Ohayon’s father brought his late wife’s gold jewellery with him to Toronto to distribute to his family. She did not say when this took place.
+Analysis
+[19] The first issue in these appeals is whether the Minister was entitled to reassess the Appellant beyond the normal reassessment period. Subparagraph 152(4)(a)(i) of the Act enables the Minister to do so where:
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default …
+The Respondent bears the onus of proof with respect to the facts justifying a reassessment beyond the normal period.
+[20] The Appellant’s counsel argued that the Respondent has not met this onus, and that the evidence presented to the Court does not show any misrepresentation made by the Appellant in filing his 1996 and 1997 income tax returns. While the Appellant admits that he had the amount of income assumed by the Minister in 1996 and 1997, he submitted that there was no evidence that the increases in the Appellant’s net worth resulted from income earned by the Appellant from his jewellery business or from any other taxable source. The business income reported for 1996 and 1997 was consistent with what was reported in prior and subsequent years. Counsel argued that the Appellant and Ms. Raby were both credible witnesses and that their evidence showed that the increase in the Appellant’s net worth was from gambling winnings and from gold and money received from the Appellant’s father.
+[21] Recently, in the case of Lacroix v. The Queen,[3] the Federal Court of Appeal considered what was required of the Minister in order to discharge the onus with regard to the reassessment beyond the statutory period and the imposition of gross negligence penalties in the case of a net worth assessment. At paragraph 32 Pelletier, J.A. wrote:
+32 What, then, of the burden of proof on the Minister? How does he discharge this burden? There may be circumstances where the Minister would be able to show direct evidence of the taxpayer's state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer's credibility by either adducing evidence or cross-examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3).
+The Court also cited its earlier decision in case, Molenaar v. The Queen,[4] another net worth assessment, where Létourneau J.A. wrote at paragraph 4:
+4. Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer's assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable.
+[22] In this case, I find that Mr. Ohayon has not provided a credible explanation between his income as reported on his income tax returns for his 1996 and 1997 taxation years and the total income he received in those years as revealed by the net worth audit.
+[23] The evidence provided concerning gambling wins is vague and uncorroborated by any documentary proof. In fact, the Appellant’s assertion that he regularly wins more than he loses at gambling was not borne out by the player records kept by two Ontario Casinos: Casino Rama and Casino Niagara. The auditor served those establishments with requirements for information requesting any information or documents showing transactions by the Appellant at the Casinos. Apparently, each of the Casinos had issued a player’s card to Mr. Ohayon and he used it when he gambled there. The player’s card information showed that in 1996, the Appellant had net losses of $1,000 at Casino Niagara and $14,556 at Casino Rama. In 1997, he had net gains of $8,900 at Casino Niagara and a net loss of $4,300 at Casino Rama. Thus, over the two years, the Appellant had net losses from gambling at the two Casinos of roughly $11,000. The Appellant lost roughly twice as much as he won during this period at those two establishments in the course of the recorded gambling activity.
+[24] It is true, as the Appellant’s counsel pointed out, that the Appellant may not have used his player’s card at all times while gambling at Casino Niagara and Casino Rama, and therefore, that not all of his gambling wins and losses may have been recorded, but in the absence of evidence to the contrary, I believe that the results recorded would provide a representative sample of the Appellant’s wins and losses at those two spots. This is especially true of the results for Casino Rama where the results appear to relate to many visits.[5]
+[25] Mr. Ohayon’s evidence that he had large wins in the Bahamas, Croatia and Budapest likewise were not supported by any documentation. I also note that according to the auditor’s testimony, Mr. Ohayon did not disclose to her that he had large gambling wins in any of these locations, nor that he had opened an account with gambling wins at the Royal Bank of Scotland in Nassau. Nor did he mention that he gambled anywhere besides Las Vegas and Atlantic City. The credit card statements for Mr. Ohayon obtained by the auditor do show charges from those cities, as well as charges from a casino in Niagara Falls and at Casino Rama, which to me indicates it is likely that if Mr. Ohayon had travelled to the Bahamas or Europe to gamble, that some record of it would have been available. Finally, if as Mr. Ohayon claims, all of his expenses on the European trip were paid by another party, those facts could have been confirmed by that party or others that Mr. Ohayon said he travelled with.
+[26] Mr. Ohayon’s statement that he was unable to obtain proof of the Royal Bank of Scotland account in Nassau is also problematic. According to a letter from his accountant to the CRA Appeals Division dated April 26, 2004, Mr. Ohayon was advised by the Royal Bank of Scotland that it “does not keep any records from their branch in Nassau that are more than seven years old”. However, according to Ms. Raby’s testimony, the transfer from the Nassau account to the CIBC account in Toronto took place in 2000, only four years before Mr. Ohayon purportedly attempted to obtain records of the account.[6]
+[27] While the existence of the Nassau bank account is corroborated to some extent by the letter from Ms. Howes at the CIBC, there is nothing to show when or from what source funds were deposited to the account. As pointed out by the Respondent’s counsel, even if the account was opened with gambling winnings, these would have arisen prior to the years under appeal, and the bulk of the alleged winnings remained in the account until 2000. This means that little of the funds would have been used to fund the Appellant’s expenditures during the years in issue. Furthermore, the Appellant said that funds were withdrawn from the account when he and Ms. Raby were in Nassau to pay their expenses there. Since those expenses were not taken into account in the net worth audit, the use of previously undisclosed assets to pay them should not be taken into account either.
+[28] Ms. Raby’s evidence concerning Mr. Ohayon’s gambling wins was vague as well. Other than the win in the Bahamas, she could offer no specifics of any gambling wins, either in terms of date, location or amount.
+[29] I also find the Appellant’s evidence that in 1996 and 1997 he received between $50,000 and $60,000 US from sales of gold given to him by his father unconvincing. Once again, the Appellant had no documents or receipts to corroborate this claim, although he had receipts for large sales in two subsequent years. Nor did the Appellant say to whom he sold the gold, other than that it was to jewellers. Given the large amounts involved, I would expect that some record of these transactions, if they had occurred, would have been kept or some witnesses would have been available to confirm the transactions. I draw a negative inference in respect of the Appellant’s failure to call any of the jewellers to whom the gold was allegedly sold to testify at the hearing.
+[30] Ms. Raby’s evidence about the gold was unhelpful. While she said that the Appellant’s father brought gold to Toronto, she did not say how much he brought, and she did not give any evidence relating to actual sales of the gold.
+[31] It is also unclear to me whether the Appellant would have been entitled to the proceeds of the gold sales, if indeed they did take place. He originally said that he was given the gold for safekeeping, to keep it out of the hands of his new stepmother, but later talked of it as an inheritance. However, he testified that he had eight siblings and said at another point that in his family, inheritances were divided equally. If so, the Appellant would have been entitled to only a small portion of it. Ms. Raby confirmed in her evidence that the Appellant’s father brought the gold to distribute among his children. Ms. Raby also said that one of the Appellant’s brothers lives in Toronto which leads me to question why he was not called to testify since he would likely have had material evidence concerning their father bringing their late mother’s gold to Canada.
+[32] I attach no weight to the letter from Mr. Shitrits, as it is not clear how he was aware of any gifts made by Simon Ohayon to the Appellant. Furthermore, the timeframe given by Mr. Shitrits for the gifts (1985 to 1997), renders this information in the letter of no value in explaining any increases in the Appellant’s net worth in 1996 and 1997 in particular.
+[33] I also note that the only cash the Appellant said that he received from his father was in 1993 or 1994, outside the period in issue and, therefore, not relevant in determining the source of the Appellant’s income in the years under appeal.
+[34] Finally, while the Appellant argues that the amounts of income he reported in 1996 and 1997 were generally consistent with the amounts he reported in prior and subsequent years, those other years were not audited, and without further evidence I cannot infer that the reported amounts were correct.
+[35] Having rejected the Appellant’s explanation concerning the origin of the substantial amount of income he admitted having received in 1996 and 1997, and in the absence of any credible evidence that the income was from a non-taxable source or sources, I must conclude that the Appellant omitted to report taxable income in the amounts assessed for his 1996 and 1997 taxation years, and this omission was done knowingly or in circumstances amounting to gross negligence. The comments of the Federal Court of Appeal in Lacroix, to which I referred earlier in these reasons, apply equally to the Respondent’s onus in proving the facts necessary to uphold the imposition of penalties under subsection 163(2) of the Act.
+[36] For these reasons, the appeals are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 14th day of January, 2010.
+“Brent Paris”
+Paris J.
+CITATION: 2010 TCC 25
+COURT FILE NO.: 2006-796(IT)G
+STYLE OF CAUSE: EDMOND OHAYON and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: January 14, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Amit Thakore
+Counsel for the Respondent:
+Carol Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Amit Thakore
+Firm: Lafontaine & Associates
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] 2000 DTC 1619.
+[3] 2008 FCA 241.
+[4] 2004 FCA 349.
+[5] Exhibit R-1, Tab 19. Respondent’s Book of Documents.
+[6] Exhibit A-1, Tab 14.

@@ -1,0 +1,275 @@
+Title: Park Haven Designs Inc. v. The Quenn
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27421/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-685-27421-park-haven-designs-inc-v-the-quenn-en.md
+Document type: case_law
+Last modified: 2006-12-14
+
+# Park Haven Designs Inc. v. The Quenn
+
+- Citation: 2006 TCC 685
+- Decision date: 2006-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 243, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Park Haven Designs Inc. v. The Quenn
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-14
+Neutral citation
+2006 TCC 685
+File numbers
+2005-869(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-869(IT)G
+BETWEEN:
+SHIRLEY-ANNE JAQUES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of David Jaques (2005-870(IT)G) and Park Haven Designs Inc. (2005-871(IT)G),
+(2005-442(GST)I) on December 4, 2006, at Calgary, Alberta, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 1998 taxation year is dismissed.
+The appeal from the reassessment of tax made under the Act for the 1999 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant received a shareholder benefit in 1999 of $438 in connection with the audio equipment.
+Signed at Ottawa, Canada, this 14th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+Docket: 2005-870(IT)G
+BETWEEN:
+DAVID JAQUES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Shirley-Anne Jaques (2005-869(IT)G), and
+Park Haven Designs Inc. (2005-871(IT)G), (2005-442(GST)I)
+on December 4, 2006, at Calgary, Alberta, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant received shareholder benefits in 1998 of $25,929 in connection with the acquisition of the Slopes House, and in 1999 of $438 in connection with the audio equipment.
+Signed at Ottawa, Canada, this 14th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+Docket: 2005-871(IT)G
+BETWEEN:
+PARK HAVEN DESIGNS INC ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Shirley-Anne Jaques (2005-869(IT)G), David Jaques (2005-870(IT)G)
+and Park Haven Designs Inc. (2005-442(GST)I)
+on December 4, 2006, at Calgary, Alberta, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1997 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant had unreported income of $16,664 in 1997, and the Appellant had no unreported income in 1999; also, the Appellant is entitled to the capital cost allowance claimed on the furnishings, other than in respect of 50% of the audio equipment.
+Signed at Ottawa, Canada, this 14th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+Docket: 2005-442(GST)I
+BETWEEN:
+PARK HAVEN DESIGNS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Shirley-Anne Jaques (2005-869(IT)G), David Jaques (2005-869(IT)G) and Park Haven Designs Inc. (2005-871(IT)G)
+on December 4, 2006, at Calgary, Alberta, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated November 5, 2004, and bears number 10CT042891234467 is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that fair market value of Slopes House in October 1998 was $424,000, and that there was a deemed supply of $876 in audio equipment to Shirley-Anne Jaques and David Jaques.
+Signed at Ottawa, Canada, this 14th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC685
+Date: 20061214
+Dockets: 2005-869(IT)G, 2005-870(IT)G,
+2005-871(IT)G, 2005-442(GST)I
+BETWEEN:
+SHIRLEY-ANNE JAQUES, DAVID JAQUES
+and PARK HAVEN DESIGNS INC.
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] These four appeals were heard on common evidence. They concern the relationship between a corporation engaged in the house construction industry and its shareholders. David and Shirley-Anne Jaques own Park Haven Designs Inc. (Park Haven). Park Haven managed the building of custom homes for customers. The construction of one property, 46 Patrick View in Calgary (the Patrick House) was managed in 1996 by Park Haven as a spec home. As Park Haven was unable to sell this property, the Jaques, having financed it through their shareholder loan account, moved into it. A second property, 37 Slopes Road in Calgary(the Slopes House) was built in 1998 especially for the Jaques, who lived in the property and also showed it as a show home. Park Haven acquired some high-end furnishings for this home including a grand piano, pool table, couches (the Furnishings) at a cost of approximately $46,500. The Minister of National Revenue (the Minister) assessed Park Haven under the Excise Tax Act on the basis that:
+(i) the Slopes House had a value of $601,000 in October 1998, and consequently no New Housing Rebate should have been available to the Jaques; and
+(ii) the Furnishings were for the Jaques' personal use and consequently supplied by Park Haven to the Jaques resulting in Park Haven's liability for goods and services tax (GST).
+[2] The Minister assessed Park Haven under the Income Tax Act on the basis that:
+(i) in 1997, Park Haven had income from the disposition of the Patrick House to the Jaques of $55,356, being the difference between the Respondent's determination of fair market value (FMV) of $298,000 and the cost of the property of $242,644;
+(ii) in 1999, Park Haven had income from the disposition of the Slopes House to the Jaques of $210,282, being the difference between the Respondent's determination of FMV of $601,000 and the cost of the property of $390,718; and
+(iii) Park Haven was not entitled to capital cost allowance (CCA) on the Furnishings.
+[3] The Minister assessed Mr. Jaques under the Income Tax Act on the basis that:
+(i) in 1998, he received a shareholder benefit of $210,282 in connection with the Slopes House; and
+(ii) in 1999, he received a shareholder benefit of $23,247 in connection with the Furnishings.
+[4] The Minister assessed Mrs. Jaques under the Income Tax Act on the basis that:
+(i) in 1999 she received a shareholder benefit of $23,247 in connection with the Furnishings.
+[5] The Minister also assessed Park Haven under the Excise Tax Act and the Jacques under the Income Tax Act for GST and automobile benefits respectively, however, those matters were not pursued at trial by the Appellants.
+Facts
+[6] David Jaques and Shirley-Ann Jaques, at all relevant times, held 50% each of Park Haven. Park Haven was in the business of managing, on behalf of customers, the construction of custom new homes in Calgary. According to the Construction Agreement[1] between Park Haven and a customer, the customer agrees to pay Park Haven 10% of the construction cost as a management fee. The Agreement also stipulates a payment schedule requiring certain payments at various stages of construction. The Agreement goes on to state:[2]
+All Construction Costs paid by the Owners to the Contractor shall be held by the Contractor in trust for the benefit of the Owners until such time as the Contractor releases the said Construction Costs to third party trades in satisfaction of any reasonably incurred obligation of the Owners or the Contractor in relation to the construction of the dwelling house.
+Park Haven keeps a separate trust account record for funds that are received from the owners.
+[7] The Agreement also contemplates that the owners will own the land upon which the house will be built. The owners agree that Park Haven can file a caveat against the land to protect its interest. Park Haven, at times, finds the land for the customer and, as Mr. Jaques put it, acquires the land on behalf of the customer using the customer's money held in trust. The title is not transferred from the developer until the customer takes possession, and then title is transferred directly to the customer. There is a provision in Alberta for what is called a Skip Transfer, allowing a transfer directly from a developer to an owner avoiding costs of any intervening title transferee. Mr. Jaques' position was that Park Haven never owned the land but only acted as the owner's representative in acquiring the property and a Skip Transfer was not required.
+Patrick House
+[8] Mr. Jaques testified that Park Haven intended to build Patrick House as a spec home. The Jaques loaned funds to Park Haven so that Park Haven could build the house. Unlike the progressive payments on a normal construction project, the Jaques simply made two payments to Park Haven: $198,000 in August 1996 and $44,800 in October 1996.
+[9] Park Haven made an offer in 1995 to acquire the land for Patrick House. The transfer of the land was registered in April 1996 from the developer, Patterson Hills Development Corp., showing consideration of $76,000. The transfer stated in part:[3]
+... in consideration of the sum of $76,000 paid to it by Park Haven Designs Inc. receipt of which is hereby acknowledged, transfer to David Jaques of P.O. Box 74067 Stratcona Postal Outlet, Calgary, Alberta, T3H 3B6, at the request of Park Haven Designs Inc.
+The construction permit, applied for in October 1995, cited Park Haven as the owner of the property.
+[10] Park Haven paid $166,644 in construction costs for a total cost for the house of $242,644. Park Haven listed the property at $289,000, but was unable to sell it. The Jaques put the home they were living in (the Strathcona home) up for sale as well. As it sold first, the Jaques used that money to fund the Patrick House through advances to their shareholder loan account. In August 1996, the Jaques took possession of the Patrick House as their principal residence. They invested an additional $30,000 to $40,000 on finishing the landscaping. The house was built on a very steep property which required considerable landscaping work.
+[11] The Jaques sold the Patrick House in September 1998 for $359,000.
+[12] Canada Revenue Agency (CRA) attributed a value of $298,000 to Patrick House, and determined that Park Haven had disposed of Patrick House to the Jaques for that amount in August 1996, resulting in unreported income of $55,356.
+Slopes House
+[13] The Slopes area was a new development in Calgaryin the late 1990s. The Jaques were interested in building a deluxe home in this area, to move inventory as Mr. Jaques put it. This was ultimately a successful strategy as they built 28 custom homes in the area. The Jaques believed Park Haven could not afford to build a deluxe home totally on spec, so they determined to have the home built as their principal residence, but also to serve as a home for showing.
+[14] In June 1998, the Jaques acquired the lot for $140,825. The money was paid to Park Haven on the same trust arrangement basis as a regular customer would do. Park Haven in turn transferred the funds to the developer, Amden Investments Ltd. The transfer of land dated June 1998 showed a transfer directly from Amden to Mr. Jaques. The construction permit, however, identified Park Haven as the owner.
+[15] After the land acquisition, the Jaques made progressive payments, through the trust arrangement, of seven payments between June 30, 1998 and April 11, 2000, totalling $249,893. Park Haven insured the property during construction, but again from funds held in trust from the Jaques. The Jaques moved in in October 1998. Mr. Jaques claimed that the delay in making the final payment in April 2000 was that it was only when he went to sell the house that he realized there was an outstanding balance owing. The Jaques sold the Slopes House in February 2000 for $680,000.
+[16] The Minister valued the Slopes House as at October 1998 at $601,000, maintaining that Mr. Jaques received a benefit of, and that Park Haven had unreported income of $601,000 less the cost of $390,718, or $210,282. The Minister did not tender an appraisal report in evidence.
+[17] Mr. Jaques provided costs information for six custom homes built by Park Haven in the Slopes area between September 1998 and June 2002 indicating an average construction cost, not including cost of land, of approximately $250,000. Lot prices varied from $136,000 to $160,000 averaging $144,000. Management fees averaged $30,000. Mr. Jaques did not produce information on the balance of the 28 properties built in the Slopes area.
+Furnishings
+[18] Park Haven acquired the following furnishings:
+Audio Equipment
+$1,752
+Kawaii Grand Piano
+$25,046
+Pool Table
+$3,798
+Living Room Furniture
+$7,401
+Accessories
+$749
+Fish Tank and Office Furniture
+$5,825
+Chair
+$330
+Truck Covers
+$1,800
+Total
+$46,701
+(i) Audio equipment: This included a big screen television and laser disc players. Mr. Jaques testified this was used to demonstrate promotion material.
+(ii) Grand piano: Both Mr. and Mrs. Jaques testified that to show a high-end home, this sort of furnishing was necessary to attract potential buyers. Park Haven hired a pianist to play the piano at weekend showings (12:00 p.m. to 5:00 p.m. on Saturday and Sunday). The piano was displayed in several of the homes built in the Slopes area; it was kept in storage when not on display. The Jaques testified they owned their own piano, but occasionally their children would play the grand piano.
+(iii) Pool table: The pool table was displayed in the basement area of the homes built under the supervision of Park Haven in the Slopes area. Twenty customers requested pool rooms in their homes. Park Haven sold the table in 2000 as part of one of the home sales. It sat in storage when not on display
+(iv) Living room furniture: This consisted primarily of couches for the great room. They were sold when the house was sold.
+(v) Fish tank/Office furniture: The Jaques had office space specifically built in the Slopes House. They had one or two employees working in the office. The fish tank was, according to Mr. Jaques, to create some ambiance in the office space.
+(vi) Truck covers: These were used on the trucks driven by the handyman and supervisor for Park Haven.
+[19] Park Haven paid a percentage of the utilities and maintenance costs of Slopes House. It also looked after security given the expensive contents in the house. Mr. Jaques indicated Park Haven could not get any insurance without security precautions being taken.
+Issue: What was the value of the Slopes House at October 1998?
+[20] Neither party provided an appraisal to assist in determining the FMV in 1998. I am left with the following facts to consider:
+(i) construction of the Slopes House in 1998, including land but not including a management fee, was $391,000;
+(ii) the sale price in 2000 was $680,000;
+(iii) costs of six other custom homes in the Slopes area, built roughly around the same time, averaged $424,000 (including land and management fee). There was no evidence comparing such homes in style and size to the Slopes House though the impression from Mr. Jaques was that the Slopes area was exclusively high-end custom homes; and
+(iv) CRA set the value at $601,000 at October 1998.
+[21] It often occurs to me that litigants presume judges have some innate ability to provide expert opinion on all manner of subjects on the barest of information: determining FMV appears to be a particular favourite. I simply ask - have the Appellants demolished the Minister's assumption of a value of $601,000? I believe they have.
+[22] The thrust of the Minister's argument was that a property that sold for $680,000 in Calgaryin 2000 must have been worth more than $391,000 in 1998. With nothing more, this is completely unsubstantiated. The Respondent did have an appraisal (how else would they have come to a figure of $601,000 as opposed to $600,000?) which they determined not to put into evidence. So, I have no information from the Respondent regarding sales comparables at the time. Indeed, I have nothing other than the ultimate sale price to support the Crown's position. That is simply not enough.
+[23] What I have from the Appellants is somewhat more helpful, though again there is no appraisal. I take from Mr. Jaques' testimony, and particularly his evidence of the costs of building several other homes in the same area, that an interested buyer of a custom home in the Slopes area in 1998 could have had one built for approximately $424,000. While this does not answer the more specific question of the FMV of the Slopes House itself (on the market as a fully constructed house), it offers the best evidence before me as to what a motivated buyer would be prepared to pay to acquire a custom home in the Slopes area at that time. Had I received any evidence that those who built such homes were then turning around and immediately flipping them for $600,000, obviously my view would be quite different. The Jaques lived in the Slopes House for approximately 16 months. Is it feasible a property built for an average of $425,000 can increase to $680,000 in 16 months? No evidence was presented to me regarding the housing market in Calgaryduring that period to suggest this is feasible or not.
+[24] While I am left with some niggling concern that the Jaques may have been able to sell Slopes House in 1998 for something greater than their cost, I have no evidence to suggest what that greater amount might be. I have certainly not been convinced it was $601,000. I believe that number has been demolished by the Jaques' evidence. I therefore fall back on relying on the average cost to a new home buyer building a property in the Slopes area - $424,000.
+Issue: Did Park Haven have unreported income in connection with the Slopes House in 1999, and, if so, how much?
+[25] The Respondent relies on subsection 69(4) in asserting that there was an appropriation of the Slopes House from Park Haven to Mr. Jaques at fair market value in 1998, resulting in income equal to the fair market value less costs. Subsection 69(4) of the Income Tax Act reads:
+Where at any time property of a corporation has been appropriated in any manner whatever to or for the benefit of a shareholder of the corporation for no consideration or for consideration that is less than the property's fair market value and a sale of the property at its fair market value would have increased the corporation's income or reduced a loss of the corporation, the corporation shall be deemed to have disposed of the property, and to have received proceeds of disposition therefor equal to its fair market value, at that time.
+The Respondent took two approaches in invoking subsection 69(4). First, the property of Park Haven appropriated was the actual house itself; second, that the property appropriated was Park Haven's goodwill or ability to produce a house.
+[26] With respect to the first argument, this requires a finding that Park Haven owned the land and building. There can be no disposition, deemed or otherwise, pursuant to subsection 69(4) of the Actunless Park Haven had the property to dispose of. Unlike Patrick House, Slopes House was constructed for the Jaques on the same basis as any customer of Park Haven's, except that the Jaques were not charged a management fee. The Jaques still made the progressive payments, and such payments were dealt with in accordance with the trust arrangement. Title never transferred from the developer to Park Haven; it went directly to David Jaques. The question is - who owns the property while the house is being built?
+[27] Mr. Jaques certainly believes it is not Park Haven, but the ultimate owners. The usual construction agreement relied on by Park Haven contemplates ownership by the owners, not Park Haven. I find that the agreement the Jaques had with Park Haven with respect to the Slopes House was similar to the usual construction agreement, except of course the Jaques were not required to pay a management fee. In such arrangements, Park Haven is not in the business of selling properties, but in the business of providing the service of overseeing the construction of custom homes. While Park Haven may apply for the construction permit, and may, as it did with the Slopes House, accept funds in trust from the "owners" to pay to the developer for the land, this is not determinative that Park Haven therefore owned the property. Park Haven did sign the Offer to Purchase in June 1998, yet the transfer of land reflects the consideration of $140,825 being paid by Mr. Jaques, identified as the transferee. This transfer was registered in October 1998, transferring title from Amden to Mr. Jaques. There is no indication that this was a Skip Transfer. In these circumstances, I conclude that Park Haven was never the owner of the property. Consequently, there could be no disposition of that property by Park Haven that would trigger the operation of subsection 69(4) of the Act.
+[28] With respect then to the Crown's second argument, that the property disposed of was the goodwill of Park Haven in using its contacts and abilities to have the house constructed, I do not find it persuasive. What Park Haven really provided to the Jaques was what it provided to all its customers - a bundle of managing services. Services as such are not property and are not therefore caught by subsection 69(4). I conclude that Park Haven did not have any unreported income in 1999.
+Issue: Did Mr. Jaques receive a benefit in 1999 in connection with the construction of the Slopes House? If so, what was the value of the benefit? Further, was it a shareholder benefit pursuant to subsection 15(1) of the Act or an employee benefit pursuant to paragraph 6(1)(a) of the Act?
+[29] I have no difficulty in deciding that Mr. Jaques received a benefit from Park Haven. How could that not be so? He received a custom built home without having to pay the 10% management fee that any other customer would have had to pay. The benefit is easily determined. It is the 10% management fee, being 10% of construction costs of $259,293 or, $25,929. This is clearly an advantage not available to regular customers and only available to Mr. Jaques due to his position as a shareholder.
+[30] Mr. Dunphy suggested that, as the deal of getting Park Haven's services for nothing was available to all shareholders, being both Mr. and Mrs. Jaques, this rendered the advantage no longer a benefit. He relied on Interpretation Bulletin 470-R, which addressed the non-taxability of benefits in the form of discounts or commissions on sales to employees. The situations are not the same. First, I find the benefit accrued to Mr. Jaques in his position as a shareholder, the co-owner of the company. There was no evidence it had anything to do with his position as an employee. Also, this was a one-off situation, specifically addressed to Mr. Jaques. It was not akin to a blanket discount on merchandise to all employees of a company. Mr. Jaques has benefited from his position as owner and that benefit is clearly identifiable and quantifiable.
+Issue: Did Park Haven have unreported income in 1997 in connection with Patrick House, and if so, how much?
+[31] The Respondent maintained that subsection 69(4) of the Act applies to deem Park Haven to have disposed of Patrick House to the Jaques at the fair market value of $298,000. The circumstances surrounding Patrick House are different from those involving Slopes House. Patrick House was built as a spec house. It was not built as a custom house for the Jaques, though ultimately they did reside in it. The Jaques did not transfer funds in trust on a progressive basis to Park Haven to have Patrick House built: they instead lent money on two occasions so that Park Haven could afford to build that House. The evidence supports the position that Park Haven intended to build a spec home, which Park Haven would eventually sell to a customer. Its income was not to be derived from a management fee, but from the ultimate disposition of the property. Under these circumstances, I find the monies used by Park Haven to buy the land were not trust monies from the Jaques - they were borrowed monies. It was intended that Park Haven acquire the property. Unlike the transfer of land of the Slopes House, which indicated consideration was received from Mr. Jaques, in the transfer of land for Slopes House, from the developer, Patterson Hills Development Corp. to Mr. Jaques, it stated:
+"In consideration of the sum of $76,000.00 paid to it by Park Haven Designs, receipt of which is hereby acknowledged, transfer to David Jaques."
+This is evidence of a Skip Transfer and supports the finding that Park Haven did have the property to dispose of. That being the case, subsection 69(4) does come into play.
+[32] What then is the value for purposes of determining the income Park Haven would have derived from disposition at fair market value? The Respondent assessed on the basis of a value of $298,000. Again, no appraisal was provided in support. The facts the Respondent relied on are:
+(i) costs were $246,244 in 1996;
+(ii) the property was listed for $289,900 in 1995 and 1996; and
+(iii) the property sold in 1998 for $359,000.
+[33] The facts the Appellant relied on to support a lesser value are:
+(i) at the time of the disposition, the property required an additional $30,000 to $40,000 for landscaping; and
+(ii) the property did not sell in 1995 or 1996 at the listed price of $289,900.
+[34] I conclude that the value at the time of the disposition should be something less than the unsuccessful listing of $289,900, and should also take into account that landscaping was needed. This would bring the value down to approximately $259,000. This value can also be reached by adding an amount of 10% of construction costs, or $16,664 to the cost of $242,144 for a total of $259,308. The management fee represents what a third party purchaser would have had to pay. So, from these two different approaches, I arrive at a value of approximately $259,000. I find that, by the application of subsection 69(4), Park Haven is deemed to have disposed of Patrick House for $259,308 resulting in income of $16,664.
+Issue: Is Park Haven entitled to capital cost allowance on the Furnishings? Did the Jaques receive shareholder benefits in 1999 in connection with the Furnishings?
+[35] First, although the Respondent pleaded in the assumptions that Furnishings on which Park Haven claimed capital cost allowance included amounts paid for cleaning and maintaining the Slopes House, the evidence does not support that assumption. I accept the list of Furnishings introduced into evidence as Exhibit A-15 and set out in paragraph 18 above. It is clear that such list does not include any claim for cleaning or maintenance.
+[36] Although the cost of a grand piano and pool table might seem extravagant, I have been satisfied by the Jaques' explanation that it was this very sort of high-end furnishing that helped sell homes as true custom homes. The Jaques did not need a second piano personally. They also did not play pool. These items were not personal assets used incidentally in showing the home, but quite the opposite: business assets with little or no personal use. This is supported by the sale of the pool table with one of the custom houses, as well as the fact that the piano was displayed in a number of houses, and kept in storage when not so displayed. Similarly, Slopes House living room furniture was sold with the house. Indeed, the only item listed in Exhibit A-15 that I have not been convinced was substantially for business purposes was the audio equipment. There was no detailed explanation of the use of this equipment, other than it was occasionally used for showing promotional material. I allow Park Haven's claim for capital cost allowance on the Furnishings, other than 50% of the audio equipment.
+[37] Turning now to the flip side of this issue, I will deal with whether the Jaques received a benefit from having the Furnishings available to them. It is necessary to first determine if there is a benefit, before addressing the value of such benefit. To address the first question, I refer to Justice Cattanach's oft-cited comments in M.N.R. v. Pillsbury Holdings Ltd.,[4] where he states:
+... it is a question of fact whether the corporation's purpose was to confer a benefit or advantage on the shareholders or some purpose having to do with the corporation's business such as inducing the shareholders to patronize the corporation.
+[38] I have little hesitation in finding that Park Haven's sole purpose in acquiring most of the Furnishings was not to bestow any benefit on the shareholders, but to furnish a show home so as to enhance the saleability of custom homes in the area. Where the purpose then is not to bestow or confer a benefit, does any incidental benefit arise simply by the Furnishings being available to the Jaques for use or enjoyment? No, I believe that would be an incorrect interpretation of subsection 15(1) of the Act. If the evidence, however, was clear that in acquiring assets, Park Haven had several purposes, one of which was to benefit the shareholders, then a benefit would be established and the incidental availability of the assets to the shareholders would go to the question of how to value that benefit. Again, the only asset that I find was acquired for such dual purposes was the audio equipment. The evidence from Mr. Jaques that such equipment was to be used for promotional purposes did not suggest that was to be its exclusive use. I determine the value of the benefit of this audio equipment, given it was also intended for business purposes is 50% of its value of $1,752, or $876, resulting in a $438 benefit to each of Mr. and Mrs. Jaques.
+Conclusion
+[39] The Respondent's counsel indicated that at the root of the Government's concern with Park Haven and the Jaques was the suspicion that there was an ongoing arrangement by which the Jacques shifted taxable income from Park Haven's hands to non-taxable receipts in their hands. If the Respondent was of the view that the Jaques were actually trading in houses, then the Respondent could perhaps have pursued a more direct strategy. The Respondent chose not to.
+[40] In summary, I allow the appeals and refer the matter back to the Minister for reconsideration and reassessment on the basis that:
+(i) for Excise Tax Act purposes, the Slopes House had a FMV of $424,000;
+(ii) for Excise Tax Act purposes, there was a deemed supply of $876 of audio equipment to the Jacques;
+(iii) for Income Tax Act purposes, Park Haven had unreported income in 1997 of $16,664;
+(iv) for Income Tax Act purposes, Park Haven had no unreported income in 1999;
+(v) for Income Tax Act purposes, Park Haven is entitled to the CCA claimed on the Furnishings, other than in respect of 50% of the cost of the audio equipment;
+(vi) for Income Tax Act purposes, Mr. Jaques received a shareholder benefit in 1998 of $25,929, and a shareholder benefit in 1999 of $438 in connection with the audio equipment;
+(vii) for Income Tax Act purposes, Mrs. Jaques received a shareholder benefit in 1999 of $438 in connection with the audio equipment.
+[41] The parties requested an opportunity to speak to costs. They shall provide written representations to the Court within one month of the date of this Judgment. If I do not receive any representations within that time, one set of costs are awarded to the Appellants.
+Signed at Ottawa, Canada, this 14th day of December 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC685
+COURT FILE NO.: 2005-869(IT)G
+STYLE OF CAUSE: Shirley-Anne Jaques, David Jaques,
+Park Haven Designs Inc. and
+Her Majesty The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: December 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: December 14, 2006
+APPEARANCES:
+Counsel for the Appellants:
+James W. Dunphy
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellants:
+Name: James W. Dunphy
+Firm: Warren Tettensor Amantea LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-1, page 2, paragraph 6.
+[3] Exhibit A-2.
+[4] 64 DTC 5184 at page 5187.

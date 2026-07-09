@@ -1,0 +1,108 @@
+Title: Wetzel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28860/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-689-28860-wetzel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-10-01
+
+# Wetzel v. The Queen
+
+- Citation: 2007 TCC 689
+- Decision date: 2007-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1318, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wetzel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-01
+Neutral citation
+2007 TCC 689
+File numbers
+2007-1155(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+THE TAX COURT OF CANADA
+IN RE: The Income Tax Act
+Citation: 2007TCC689
+BETWEEN: 2007-1155(IT)G
+MICHAEL G. WETZEL,
+APPELLANT,
+-and-
+HER MAJESTY THE QUEEN,
+RESPONDENT.
+----------
+Held before Madam Justice Campbell of the Tax Court of Canada, sitting in St. John’s, Newfoundland and Labrador on Tuesday, October 1, 2007.
+-----------
+ORAL REASONS FOR JUDGMENT
+-----------
+APPEARANCES:
+Mr. Michael Wetzel (self-represented)...... Appellant
+Ms. Caitlin Ward.......................... Respondent
+Mrs. Paulette Murphy....................... Registrar
+-----------
+Discoveries Unlimited Inc.
+927 Torbay Road
+Torbay, Newfoundland
+A1K 1A2
+2007-1155(IT)G
+Michael Wetzell v. Her Majesty the Queen
+MADAM JUSTICE:
+Q. Let the record show that I am delivering my reasons in respect to the Respondent's motion to quash a Notice of Appeal.
+The Respondent brought a motion requesting that the Notice of Appeal filed by the Appellant on February 28, 2007 be quashed. While the Notice of Appeal referenced tax issues for taxation years prior to 1994, both the Appellant and Respondent agreed that it is only the 1994 and 1995 taxation years that are being appealed. The Respondent bases the request to quash the Notice of Appeal for these two taxation years on the doctrine of res judicata in that the Appellant seeks to raise, in his Notice of Appeal, matters already decided by a judgment of the Federal Court of Appeal. In addition, the Respondent argued that the Appellant's appeal is an abuse of process and that the Appellant does not seek a remedy which this Court can grant pursuant to sub-section 171(1) of the Income Tax Act.
+The Appellant, in responding to this motion, raises several issues including the following:
+(1) that the Respondent did not file a Reply to the Notice of Appeal within the 60 day period prescribed by Rule 44 of the Tax Court of Canada Rules;
+(2) that the Respondent's reliance upon res judicata is inappropriate because in the absence of a Notice of Constitutional Challenge, neither this Court nor the Federal Court had jurisdiction to resolve the Charter issues;
+(3) that it would be unfair and result in an injustice if this Court applied the doctrine of res judicata or an abuse of process argument; and
+(4) that the Respondent has not paid the Appellant his costs as ordered by a 2006 Federal Court decision which has consequently prejudiced the Appellant and his ability to be represented by legal counsel in the present motion, resulting in an abuse of process by the Respondent.
+A history of the treatment of the 1994 and 1995 taxation years and the sequence of events leading up to this motion are important to a discussion and analysis of these issues. The Appellant, according to his Notice of Appeal, is an aboriginal person of North American Ancestry. Throughout the 1970s and early 1980s, the Appellant worked with the community members of Conne River and the Federal and Provincial governments to have the community be recognized as a “Native Community” with registration of its founding members. Eventually, government approved the establishment of the Conne River Band. In the 1980s, the criteria for membership to this Band was changed from North American Indian Ancestry, for which the Appellant qualified, to Canadian Indian Ancestry, for which he did not qualify. The Appellant claims that this change was designed and implemented with the specific intention of denying to him, membership as a founding member of this Band. This rendered him liable to pay income taxes where individuals in similar circumstances were afforded registration in the Band and consequently, exemption from taxes. This is the basis of the Appellant's claim of the Charter breach.
+The current Notice of Appeal is the third step in a series that began with a Tax Court decision in August 2004, in which the Appellant successfully sought and received Charter relief with respect to the 1994 and 1995 taxation years. Justice Margeson determined that the Appellant did not need to submit a Notice of Constitutional Challenge since he was not attacking the validity of any provisions of the Income Tax Act, the Indian Act or the Orders‑in‑Council. He then acknowledged the Section 15 Charter breach and applied subsection 24(1) in an attempt to remedy the situation. Consequently, the assessments for these taxation years were vacated. The Minister of National Revenue (the “Minister”) appealed this decision to the Federal Court and in February 2006, the Federal Court set aside the initial judgment of this Court in favour of the Minister.
+The Federal Court determined that the omission of a Notice of Constitutional Challenge was a fatal blow to Mr. Wetzel's claim and further determined that the differential treatment received by Mr. Wetzel was "not based on personal characteristics … analogous to listed grounds”, so as to violate subsection 15(1). The Federal Court determined that the Tax Court decision found that Mr. Wetzel had been improperly treated, but attributed the fault, at paragraph 23 of the decision, to "… administrative law wrongs … bad‑faith conduct by Department bureaucrats … executive action taken for an improper purpose".
+The Federal Court decision concluded that the Tax Court erred in finding a violation of the Appellant's subsection 15(1) rights because the Order‑in‑Council did not result in the Respondent being treated differently from all other Conne River residents of Indian Ancestry. The criterion of Canadian Indian Ancestry had the same effect on Mr. Wetzel as it did on all those residents of Conne River of non-Canadian Indian Ancestry.
+The Appellant, Mr. Wetzel, sought leave to appeal this decision to the Supreme Court, which was denied. Consequently, the Minister re-assessed and reclaimed approximately $62,000.00 in respect to these taxation years from which the Appellant filed the current Notice of Appeal. The Respondent's position therefore is that the Appellant seeks again to raise issues which were conclusively decided by a Federal Court judgment with leave to appeal to the Supreme Court also denied.
+The essence of the doctrine of res judicata is that there should be finality in the realm of litigation, with no person being subjected to action by the same individual more than once in relation to the same issue. It is also clear from the case law (Chevron Canada Resources Ltd. v. Canada, [1998] F.C.J. No. 1404, which quoted Thomas v. Trinidad and Tobago, (1990) 115 N.R. 313 at 316) that this principle applies not only where the remedy and grounds in both actions are the same, but also applies to those matters of fact or law, relating to the subject matter, which could have been raised in the first action but were not.
+Justice Binnie in the case of Danyluk v. Ainsworth Technology Inc., [2001] S.C.J. No. 46, explained the principles of this doctrine and at paragraph 25 of that decision reviewed the three pre-conditions which must be present for it to apply. Those three pre‑conditions are : (1) that the same question has been decided; (2) that the judicial decision which is said to create the estoppel was final; and,
+(3) that the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies.
+The Respondent submits that all three pre‑conditions are met here. After hearing the submissions of both parties to this motion and after reviewing the decisions of Justice Margeson of this Court and the Federal Court of Appeal decision, together with the Appellant's current Notice of Appeal, I must conclude that the issues which the Appellant seeks to put before this Court are the same issues decided conclusively by the Federal Court decision.
+The Federal Court did not send the matter back to this Court for reconsideration, nor was leave to appeal to the Supreme Court granted. The Federal Court specifically held that the Appellant's subsection 15(1) Charter rights were not violated by the Order-in-Council and his appeal for the 1994 and 1995 taxation years were dismissed. The Appellant's current Notice of Appeal simply restates the matters previously dealt with by the Federal Court of Appeal in 2006. The reformulation of the appeal is simply an attempt to re-litigate issues already dealt with. All preconditions are therefore met and to permit the appeal to proceed would not only be inappropriate in light of the doctrine of estoppel but would result in an abuse of the processes of this Court.
+As I understand it, Mr. Wetzel's argument is that the actual issue is his challenge in respect to the discrimination of senior Crown officials that prevented him from being registered as a Band member and that since the Federal Court decided that this Court had no jurisdiction to hear the argument where there was no Notice of Constitutional question filed, then essentially there is really no decision. Therefore, the merits of his Charter argument have not been dealt with within the arena of a full and fair hearing.
+However, contrary to the Appellant's submissions, the decision of Justice Margeson still exists and is not a nullity, although it may have little precedential value in light of the subsequent Federal Court decision. It appears that all of the facts were presented to Justice Margeson and that the Federal Court had all of the record before it. Consequently the Federal Court had jurisdiction to dispose of the Minister's appeal as it did. The Federal Court decision simply referenced and relied upon the failure to provide the inappropriate Notice. The Appellant's argument appears to be based not on a breach of his Charter Rights due to offensive legislation, but more appropriately that the Crown's actions, in designing and applying an Order‑in‑Council, resulted in the problem with his membership status and therefore, violated his subsection 15(1) rights. As a result he seeks to vacate the Respondent's claim for tax arrears in these years and for repayment of taxes and interest. I am referring to paragraphs 21(a) and 21(b) of his Notice of Appeal. Subsection 171(1) sets out the parameters which this Court has in granting a remedy in an Income Tax appeal. Subsection 24(1) of the Charter does not create courts of competent jurisdiction, but merely vests additional powers in courts independently of the Charter. It is only where a Court has jurisdiction, conferred by statute, over the parties, the issues and the authority to make the Order, that it has the power to grant a remedy pursuant to subsection 24(1) of the Charter. This Court, however, has no jurisdiction to grant a subsection 24(1) remedy on the grounds of a breach of section 15 of the Charter in respect to Cabinet's Order‑in‑Council. Even if there is a breach, this Court has no jurisdiction to remedy it.
+Finally, in respect to the Appellant's argument that the Respondent did not file a Reply to the Notice of Appeal as required by section 44 of the Rules and should be prevented from bringing the within motion, even though the Respondent did not file a Reply within 60 days and instead brought this motion, I conclude that I have inherent jurisdiction to hear and dispose of this motion on its merits, as I have done.
+In summary, the Respondent's motion is granted and the Appellant's Notice of Appeal is quashed. It would appear that on some administrative level, the Appellant suffered wrongdoing, but he has properly accessed the various levels within the Court system and I am simply unable to assist him, although I have sympathy for his position. Neither party addressed the issue of costs during the motion and I therefore make no order in this respect.
+CERTIFIED CORRECT
+CITATION:
+2007TCC689
+COURT FILE NO.:
+2007-1155(IT)G
+STYLE OF CAUSE:
+Michael G. Wetzel and
+Her Majesty the Queen
+PLACE OF HEARING:
+St. John’s, Newfoundland and Labrador
+DATE OF HEARING:
+October 1, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+October 2, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Caitlin Ward
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

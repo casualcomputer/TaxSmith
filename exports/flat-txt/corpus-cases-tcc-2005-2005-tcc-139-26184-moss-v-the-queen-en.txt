@@ -1,0 +1,113 @@
+Title: Moss v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26184/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-139-26184-moss-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-16
+
+# Moss v. The Queen
+
+- Citation: 2005 TCC 139
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3931, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moss v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-16
+Neutral citation
+2005 TCC 139
+File numbers
+2002-4599(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4599(IT)I
+BETWEEN:
+ROCHELLE L. MOSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on February 7, 2005 at Winnipeg, Manitoba
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Agent for the Appellant:
+Danny Moss
+Counsel for the Respondent:
+Tim Doyle
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999, 2000 and 2001 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 16th of February, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation:2005TCC139
+Date: 20050216
+Docket: 2002-4599(IT)I
+BETWEEN:
+ROCHELLE L. MOSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Rochelle Moss, appealed the reassessments made by the Minister of National Revenue of her 1998, 1999, 2000 and 2001 taxation years. An Order of this Court dated June 20, 2003 amending the pleadings had the effect of incorporating into these appeals, two earlier appeals[1] that the Appellant had commenced under the General Procedure in respect of other reassessments of the 1998 and 1999 taxation years.
+[2] The issues under appeal are set out in the Amended Notice of Appeal at paragraph 2:
+2. The issues to be decided are:
+a) Should the appellant be liable for the tax applicable from T3s provided by Manulife and Equitable Life, during the years under appeal, when this tax was forced upon her by CCRA as a result of the freeze on these funds and CCRA not permitting the appellant to transfer her funds to a non-taxable vehicle?
+b) Should CCRA accept legitimate receipts provided by the appellant's lawyer, which were related to the appellant's tax appeals and tax matters? (This issue has been settled.)
+...
+[3] As a preliminary matter to the hearing of these appeals, counsel for the Respondent advised the Court (as earlier agreed with the Appellant and as confirmed at the hearing) that Issue 2(b) was no longer in dispute, having been resolved to the mutual satisfaction of the parties on the following terms:
+a) that the Minister will allow a deduction in respect of $5,765 in respect of legal fees for the 1999 taxation year; and
+b) that the Minister will allow a deduction in respect of $18,200 in respect of legal fees for the 2000 taxation year.
+Accordingly, the only issue before the Court was that set out in paragraph 2(a) of the Amended Notice of Appeal.
+[4] The Appellant was represented at the hearing by her husband, Danny Moss. These appeals are just a small chapter in a long and contentious history of litigation arising out of their respective tax liability for certain ventures, relevant here only by way of background. Briefly summarized, at a certain point, the Minister sought and was granted a so-called "Jeopardy Order" under subsection 225.2 of the Income Tax Act, the effect of which was to prevent the Appellant from dealing in any way with funds held by her in certain insurance policies, pending the satisfaction of the debt owed to Canada Revenue Agency. The insurance companies then issued T3's in respect of these funds which were submitted to CRA with the Appellant's tax return in respect of income, dividends or capital gains for each of the taxation years and her tax liability was assessed accordingly. The Appellant does not dispute the validity of the T3's or the assessments based thereon. Her position is that because of the Minister's actions, she was unable to transfer these funds into another of her insurance policies, which according to Mr. Moss would have reduced her tax liability. He argued that she should not have to suffer the tax consequences triggered by the Minister's actions in relation to the insurance funds, especially since she herself never actually received the amounts shown in the T3's.
+[5] In paragraph 4(a) of the Amended Notice of Appeal, the Appellant seeks the following relief in respect of this issue:
+...
+4. The appellant seeks the following relief:
+a) To reverse all the assessments derived from T3s from Manulife and Equitable for the years 1998 to 2001 inclusive, forced upon the appellant by virtue of CCRA's improper actions.
+...
+In arguing for such relief, Mr. Moss took issue with the findings of the Federal Court of Canada[2] in relation to the Jeopardy Order and, in essence, urged this Court to rehear matters already decided and in any event, not within its jurisdiction. Mr. Moss also cited remarks made by Hershfield, J.[3] when dismissing the Appellant's application to set aside the dismissal of her 1997 appeal for failure to appear. As was explained to Mr. Moss, these appeals must be decided on the evidence presented at the hearing.
+[6] The Appellant did not present any evidence to refute the assumptions upon which the Minister's reassessments were based. The relief sought is based not on the Minister's having misinterpreted or misapplied the Act, but rather on the Appellant's opposition to the manner in which the Minister did what he was lawfully entitled to do. Mr. Moss argued that the Minister's actions were "unfair" to the Appellant and violated the fundamental principle that a taxpayer is entitled to order her affairs so as to minimize the tax payable. As explained at the hearing, this Court has no power to grant equitable relief; any allegations in respect of the Minister's having acted unfairly ought properly to have been brought before the Federal Court of Canada within the time permitted. As for organizing her affairs to minimize tax, the Appellant's right to do so is limited to the extent that her activities are permitted by law. While I do not doubt that living through the events of the last decade has been difficult for the Appellant and her husband, this in itself is not grounds for allowing these appeals. There being no evidence to rebut the assumptions upon which the Minister's assessments were based, these appeals are dismissed.
+Signed at Ottawa, Canada this 16th day of February, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2005TCC139
+COURT FILE NOS.:
+2002-4599(IT)I
+STYLE OF CAUSE:
+Rochelle L. Moss v. HMQ
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+February 7, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+February 16, 2005
+APPEARANCES:
+Agent for the Appellant:
+Danny Moss
+Counsel for the Respondent:
+Tim Doyle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002-4597(IT)I
+[2] Minister of National Revenue v. Moss [1997] F.C.J. No. 1583 (Muldoon, J.)
+[3] Moss v. Canada[2001] T.C.J. No.592

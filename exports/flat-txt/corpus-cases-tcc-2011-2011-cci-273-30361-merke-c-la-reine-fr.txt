@@ -1,0 +1,174 @@
+Title: Merke c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30361/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-273-30361-merke-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-05-20
+
+# Merke c. La Reine
+
+- Citation: 2011 CCI 273
+- Decision date: 2011-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7881, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-20
+Référence neutre
+2011 CCI 273
+Numéro de dossier
+2007-4740(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4740(IT)G
+ENTRE :
+GERALD MERKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 14 mars 2011, à Winnipeg (Manitoba).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Cameron S. Regehr
+Me Brooke Sittler
+__________________________________________________________________
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement modifiés ci‑joints, les appels interjetés relativement aux années d'imposition 2003 et 2004 sont accueillis, sans frais, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en se fondant sur les montants rajustés suivants :
+Pour l'année d'imposition 2003
+Entreprise Merke :
+Stock d'ouverture (déclaré)
+419 440 $
+Achats (admis)
+2 723 382 $
+Stock de clôture (déclaré)
+513 670 $
+Coûts indirects sans DPA (admis)
+118 197 $
+Ferme Merke :
+Dépenses sans DPA (admis)
+158 546 $
+Pour l'année d'imposition 2004
+Entreprise Merke :
+Stock d'ouverture (déclaré)
+513 670 $
+Achats (admis)
+2 033 684 $
+Stock de clôture (déclaré)
+98 680 $
+Coûts indirects sans DPA (admis)
+35 545 $
+Ferme Merke :
+Dépenses sans DPA (admis)
+144 856 $
+Le présent jugement modifié et les motifs du jugement modifiés ci‑joints remplacent le jugement et les motifs du jugement du 20 mai 2011.
+Signé à Ottawa, Canada, ce 22e jour de juin 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 15e jour de juillet 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 273
+Date : 20110520
+Dossier : 2007-4740(IT)G
+ENTRE :
+GERALD MERKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Sheridan
+[1] L'appelant, Gerald Merke, interjette appel des nouvelles cotisations que le ministre du Revenu national a établies pour ses années d'imposition 2003 et 2004 et par lesquelles certaines dépenses d'entreprise et certaines dépenses agricoles ont été refusées.
+[2] En 2003, l'appelant était associé à 50 p. 100 dans une entreprise de production d'engrais connue sous le nom de Merke Bros. (l'« entreprise Merke »); en 2004, il en était l'unique propriétaire. Au cours des deux années en question, l'appelant exploitait également une ferme (la « ferme Merke »). Le ministre a refusé les dépenses réclamées par l'appelant au motif qu'il n'avait fourni aucune pièce justificative. En conséquence, le ministre a considéré comme « nuls » les montants relatifs au stock d'ouverture et au stock de clôture, aux achats de marchandises vendues et aux coûts indirects sans déduction pour amortissement. Les détails des nouvelles cotisations établies par le ministre se trouvent aux annexes A et B de la réponse à l'avis d'appel.
+[3] La seule question à trancher dans les présents appels est celle de savoir si l'appelant peut justifier les dépenses réclamées. L'appelant a comparu en personne et il est la seule personne à avoir témoigné. Comme à l'étape de la vérification fiscale, la faiblesse de la preuve de l'appelant résidait dans le fait qu'il n'a pas réussi à justifier ses réclamations au moyen de pièces justificatives.
+[4] Rappelons quelques faits. L'appelant a fait l'objet d'une vérification fiscale en 2006 et, en 2007, a interjeté appel sous le régime de la procédure informelle de la nouvelle cotisation qui avait été établie par suite de cette vérification. Comme les montants en jeu dépassaient de beaucoup le plafond prévu pour la procédure informelle, la Cour a fait droit à la demande de l'intimée visant à faire passer les appels de la procédure informelle à la procédure générale. En tant que partie qui comparaît en personne, l'appelant a eu un peu de mal à satisfaire aux exigences plus sévères imposées par les règles régissant la procédure générale, en particulier en ce qui concerne les délais procéduraux. Il s'est présenté devant la Cour le matin de l'audience avec une liasse[1] de chèques, de relevés bancaires, d'états financiers et de résumés du contenu de ces documents qu'il avait rédigés à la main[2]. Ces pièces étaient censées constituer les réponses aux engagements pris envers l'intimée lors de l'interrogatoire préalable, pour lesquelles les délais étaient expirés depuis longtemps. Les avocats de l'intimée ont indiqué qu'ils n'avaient pas eu l'occasion d'examiner ces documents, mais l'appelant a fait valoir qu'à tout le moins, bon nombre des chèques et des relevés bancaires avaient déjà été communiqués dans son recueil de documents[3].
+[5] Après avoir entendu les parties au sujet de la meilleure façon de traiter ces documents, la Cour a fait droit à la demande de suspension de l'audience formulée par les avocats de l'intimée pour leur permettre, ainsi qu'au vérificateur de l'Agence du revenu du Canada, d'examiner les divers documents en présence de l'appelant, dans l'espoir de résoudre au moins quelques‑unes des questions en litige. L'audience a repris à 13 h 30. Les avocats de l'intimée ont informé la Cour qu'à la suite de leur examen de la pièce A‑1 avec l'appelant, l'intimée était disposée à accepter que les appels relatifs aux années d'imposition 2003 et 2004 soient accueillis et que les cotisations soient déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations uniquement en ce qui concerne les dépenses qui avaient pu être vérifiées. Ces dépenses étaient résumées dans les notes manuscrites du vérificateur déposées sous la cote A‑4.
+[6] Les appels se sont alors poursuivis sur la question du droit de l'appelant au reste des dépenses refusées. La position de l'appelant était que les appels devaient être accueillis en fonction des montants réclamés dans les états financiers de l'entreprise Merke établis par son expert‑comptable et déclarés avec les dépenses afférentes à la ferme Merke dans les déclarations de revenus de 2003 et de 2004 de l'appelant[4]. Les principaux griefs de l'appelant concernaient, s'agissant de son entreprise, des déductions supplémentaires relatives aux frais bancaires et aux intérêts, des dépenses de gaz et de pétrole et une créance irrécouvrable et, s'agissant de sa ferme, des frais d'intérêts.
+[7] Il incombait à l'appelant de démontrer qu'il avait droit à ces montants supplémentaires. Malheureusement, au lieu de se prévaloir de la possibilité qu'il avait de le faire, l'appelant a consacré une bonne partie de son témoignage à critiquer les lacunes des conclusions du ministre, sans toutefois démontrer en quoi celles‑ci étaient erronées.
+[8] Pour ce qui est tout d'abord de savoir à quel point son témoignage est convaincant, l'appelant a prétendu que la Cour devrait accepter intégralement les dépenses qu'il réclame dans ses déclarations[5] parce qu'elles avaient été préparées par son expert‑comptable, qui s'occupe de sa comptabilité depuis longtemps et qui a fait état avec exactitude des renseignements que l'appelant lui avait fournis. Son expert‑comptable n'a toutefois pas été appelé à témoigner et il n'était pas présent pour aider l'appelant à rassembler ses éléments de preuve à l'audience. L'appelant a répondu à cette critique en disant qu'on devrait lui donner du temps pour consulter son expert‑comptable afin d'examiner les montants admis par l'intimée, ajoutant qu'il reviendrait devant la Cour en temps utile. Même si la Cour avait été disposée à faire droit à une demande aussi déraisonnable, il n'en demeure pas moins qu'il ressort de son propre témoignage qu'il aurait peut‑être eu de la difficulté à réaliser ce projet : l'appelant a d'abord essayé de justifier le fait que certaines pièces justificatives ne pouvaient être produites en expliquant que son expert-comptable avait vendu son cabinet et avait déménagé en Colombie‑Britannique. Il a par la suite déclaré qu'il avait perdu la trace de son expert‑comptable pendant un certain temps, pour ensuite dire qu'il lui avait parlé au téléphone en vue de l'audience.
+[9] L'autre problème que pose le témoignage de l'appelant est son attitude belliqueuse. Il est difficile de savoir si cette attitude s'explique simplement par son caractère ou par les frustrations qu'il a accumulées à l'égard du processus judiciaire et fiscal. Toutefois, préoccupée par l'omission de l'appelant de renvoyer la Cour à des documents précis pour étayer ses prétentions, j'ai examiné attentivement, avant de rédiger les présents motifs du jugement, les documents volumineux contenus aux pièces A‑1 et A‑2 pour voir s'il pouvait y avoir un lien entre le témoignage et les documents en question.
+[10] L'appelant s'occupait lui‑même au jour le jour de la comptabilisation des dépenses de l'entreprise et de la ferme en signant des chèques à ses fournisseurs et à ses créanciers. Au moment de faire sa déclaration de revenus, il remettait à son expert‑comptable les chèques payés et les relevés bancaires en lui précisant comment classer les dépenses correspondant aux chèques. Malheureusement, il ne tenait pas de grand livre ni même de journal informel des dépenses de l'entreprise Merke ou de la ferme Merke.
+[11] Néanmoins, tout comme les pièces versées au recueil de documents, les documents constituant la pièce A‑1 étaient raisonnablement bien organisés par catégorie et par date. La seule exception était une liasse d'enveloppes de la TD Canada Trust endommagées par l'humidité, dont certaines étaient vides, et d'autres contenaient des relevés bancaires de « Merke Bros. Trust ». L'appelant a déclaré que les résumés écrits à la main et les chèques joints à la pièce A‑1 n'étaient que des [TRADUCTION] « exemples » de ses dépenses totales, mais qu'on pouvait trouver des détails supplémentaires dans le recueil de documents. Il soutenait essentiellement que, même si les registres étaient incomplets, on pouvait extrapoler les totaux annuels par un examen de l'ensemble des documents.
+[12] À mon avis, cela exigerait un examen excessivement complaisant de la preuve. Après avoir examiné attentivement les pièces que l'appelant a versées au dossier, je pense que, s'il y avait eu d'autres documents qui appuyaient ses prétentions, l'appelant les aurait produits. Un bon exemple constitue les montants qu'il réclamait au titre des dépenses de gaz et de pétrole pour l'entreprise Merke. En 2003 et 2004, l'entreprise Merke a réclamé respectivement 65 404 $ et 97 370 $[6] en frais de gaz et de pétrole; à l'audience, se fondant sur les chèques produits sous la cote A‑1, l'intimée n'a admis respectivement que 20 534 $ et 32 370 $ pour ces frais. L'appelant soutenait qu'on devait lui accorder le plein montant parce que, pour résumer brièvement ses propos, toute personne sensée saurait qu'il ne pouvait exploiter son entreprise avec les montants peu élevés admis par le ministre.
+[13] Compte tenu de l'importance des activités de l'entreprise Merke, je conviens que l'appelant a peut‑être raison. Le problème réside dans le fait que, bien qu'on lui ait rappelé à de nombreuses reprises qu'il lui incombait d'établir son droit aux montants supplémentaires en question, l'appelant n'a pas soumis à la Cour des preuves suffisantes pour que la Cour puisse lui donner gain de cause. Ainsi, il n'a pas expliqué pourquoi il fallait de telles quantités de gaz et de pétrole pour exploiter l'entreprise Merke. Il n'a pas non plus renvoyé la Cour à des pièces justificatives. Mon examen des chèques relatifs au gaz et au pétrole figurant à la pièce A‑1 (que j'ai rapprochés aux chèques et aux relevés bancaires que l'on trouve dans le recueil de documents) révèle qu'en octobre 2003 et en 2004, l'entreprise Merke a payé un paiement unique à « Merke Bulk Fuels » de 20 000 $ et 30 000 $ respectivement, en plus d'effectuer quelques autres achats dans divers postes d'essence au cours de chacune des années en question. Étant donné le nombre de documents se trouvant à la pièce A‑2 et le bon ordre relatif dans lequel ils sont classés, je ne peux que me demander pourquoi des documents faisant état d'autres achats de gaz et de pétrole suffisants pour combler l'écart entre les montants admis par le ministre et ceux réclamés par l'appelant n'y apparaissent pas, en supposant qu'ils existent. Ou bien, s'ils ont été inclus, je n'arrive pas à les identifier sans explications additionnelles de l'appelant. Et, compte tenu de l'ampleur de l'écart et de la façon dont l'appelant s'occupait lui‑même de faire les chèques, j'aurais pensé que, faute de produire les documents nécessaires, il aurait au moins expliqué dans quelles circonstances l'entreprise Merke avait payé les dépenses supplémentaires, en indiquant par exemple les noms des fournisseurs de carburant, une estimation des montants, et ainsi de suite.
+[14] On peut dire la même chose au sujet des sommes réclamées au titre des « frais et intérêts bancaires » pour la ferme Merke en 2003. Suivant l'annexe A de la réponse, le montant refusé s'élevait à 10 596 $. L'appelant soutenait que ces frais se trouvaient dans les relevés bancaires versés dans son recueil de documents. L'appelant a eu amplement l'occasion à l'audience d'appeler l'attention de la Cour sur les documents appropriés, mais il a préféré dénoncer les méthodes du ministre. Mon examen des relevés bancaires contenus à la pièce A‑2 ne m'a permis de découvrir que des frais de service de 15 $ à 20 $ en moyenne par mois. L'appelant a refusé la proposition que l'intimée lui avait faite lors des observations finales d'accorder un montant supplémentaire pour tenir compte de ces changements mineurs. Pour l'appelant, cette concession était insuffisante.
+[15] L'appelant affirmait également qu'il avait le droit de réclamer une créance irrécouvrable de 9 500 $ se rapportant à l'entreprise Merke qui figurait dans les états financiers. Il n'a toutefois pas fourni de documents pour justifier cette prétention. Il n'a pas non plus expliqué comment cette créance était née.
+[16] Compte tenu du peu d'utilité, dans l'ensemble, du témoignage de l'appelant, de son défaut d'établir un lien entre une dépense donnée et une pièce justificative et de son attitude générale consistant à s'attendre à ce que d'autres fassent ce qu'il aurait lui‑même dû faire, force est de conclure que l'appelant ne s'est pas acquitté du fardeau qui lui incombait de démontrer son droit à quelque montant autre que les dépenses déjà admises par les avocats de l'intimée.
+[17] Conformément aux motifs du jugement modifiés, les appels interjetés relativement aux années d'imposition 2003 et 2004 sont accueillis, sans frais, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en se fondant sur les montants admis par l'intimée[7] à l'audience :
+Pour l'année d'imposition 2003
+Entreprise Merke :
+Stock d'ouverture (déclaré)
+419 440 $
+Achats (admis)
+2 723 382 $
+Stock de clôture (déclaré)
+513 670 $
+Coûts indirects sans DPA (admis)
+118 197 $
+Ferme Merke :
+Dépenses sans DPA (admis)
+158 546 $
+Pour l'année d'imposition 2004
+Entreprise Merke :
+Stock d'ouverture (déclaré)
+513 670 $
+Achats (admis)
+2 033 684 $
+Stock de clôture (déclaré)
+98 680 $
+Coûts indirects sans DPA (admis)
+35 545 $
+Ferme Merke :
+Dépenses sans DPA (admis)
+144 856 $
+Le jugement modifié et les présents motifs du jugement modifiés remplacent le jugement et les motifs du jugement du 20 mai 2011.
+Signé à Ottawa, Canada, ce 22e jour de juin 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 15e jour de juillet 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 273
+No DU DOSSIER DE LA COUR : 2007-4740(IT)G
+INTITULÉ : GERALD MERKE ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L'AUDIENCE : Le 14 mars 2011
+MOTIFS DU JUGEMENT : L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 22 juin 2011
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Cameron S. Regehr
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-3.
+[3] Pièce A-2.
+[4] Les pièces R‑1 et R‑2 sont des reproductions des déclarations de revenus de 2003 et de 2004; les états financiers font partie de la liasse de documents de l'appelant que l'on trouve à la pièce A‑1.
+[5] Pièces R‑1 et R‑2.
+[6] Pièce A‑1, The Taylor Group Tax Consultants/Public Accountants, Annexe des dépenses de Merke Bros. relatives aux engrais pour la période terminée le 31 décembre 2004.
+[7] Pièce A-3.

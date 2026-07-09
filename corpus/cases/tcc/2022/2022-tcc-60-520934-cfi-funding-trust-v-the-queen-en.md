@@ -1,0 +1,294 @@
+---
+title: "CFI Funding Trust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520934/index.do"
+last_modified: "2022-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 60"
+citation2: ""
+neutral_citation: "2022 TCC 60"
+decision_date: "2022-06-09"
+language: "en"
+item_id: "520934"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4527
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:34:36.799000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fcf71c96518aa1f11c34f573b45218ccf762da0bb0b5667ac216d929a50de7c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CFI Funding Trust v. The Queen
+
+- Citation: 2022 TCC 60
+- Decision date: 2022-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4527, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CFI Funding Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-09
+Neutral citation
+2022 TCC 60
+File numbers
+2019-4229(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-4229(GST)G
+BETWEEN:
+CFI FUNDING TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 3, 4 and 5, 2022, at Toronto, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Neil E. Bass
+Josh Kumar
+Counsel for the Respondent:
+Jack Warren
+Dina Elleithy
+JUDGMENT
+The Appellant’s appeal with respect to the reporting periods from December 1, 2013 to December 31, 2018 under Part IX of the Excise Tax Act, RSC 1985, c E-15, as amended, is allowed and the matter is referred back to the Minister for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The parties will have until July 11, 2022 to agree on costs, failing which they are directed to file their written submissions on costs no later than July 11, 2022. Such submissions should not exceed 10 pages.
+Signed at Magog, Québec, this 9th day of June 2022.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2022 TCC 60
+Date: 20220609
+Docket: 2019-4229(GST)G
+BETWEEN:
+CFI FUNDING TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. OVERVIEW
+[1] This is an appeal from assessments by the Minister of National Revenue (the “Minister”) under Part IX of the Excise Tax Act [1] (the “Act”) for the Appellant’s monthly reporting periods between December 1, 2013 and December 31, 2018 (the “Relevant Period”).
+[2] The Appellant claimed input tax credits (“ITCs”) for amounts of prepaid rent and administrative fees under Master Concurrent Lease Agreements (“MCLAs”) that the Appellant entered into with automobile dealers, referred to in the industry as “Originators”.
+[3] The Minister assessed the Appellant in respect of the Relevant Period by denying all the Appellant’s claimed ITCs in the amounts set out below:
+Period
+ITC Disallowed
+December 2013 to May 2014
+$3,700,854.54
+August 2014 to May 2015
+$7,087,338.69
+June 1, 2015 to November 30, 2017
+$21,882,972.20
+December 1, 2017 to January 31, 2018
+$1,145,444.08
+February 1, 2018 to March 31, 2018
+$1,101,748.72
+April 1, 2018 to May 31, 2018
+$1,773,430.53
+June 1, 2018 to June 30, 2018
+$852,169.41
+July 1, 2018 to August 30, 2018
+$1,443,933.51
+September 1, 2018 to October 31, 2018
+$1,235,785.19
+November 1, 2018 to November 30, 2018
+$826,304.28
+December 1, 2018 to December 31, 2018
+$744,216.50
+[4] Following the audit, the Minister disallowed the Appellant’s ITCs on the grounds that the supply made by an Originator was an exempt supply of a “financial service”. On appeal, the Appeals Division of the Canada Revenue Agency (“CRA”) finally accepted that the supplies were taxable. Nonetheless, the assessments were confirmed on the basis that the Appellant’s documentation was insufficient because it did not satisfy the conditions mandated under subsection 169(4) of the Act. The Respondent conceded that the Appellant is entitled to ITCs paid on the administrative fees to Corpfinance International Limited.
+II. FACTUAL BACKGROUND
+[5] The Appellant, CFI Funding Trust (“CFI”), is a trust established under the laws of Alberta.
+[6] The Appellant carries on the business of, inter alia, securitizing automobile dealer leases. During the Relevant Period, the Appellant entered into several substantially identical MCLAs with Originators.
+[7] Under the MCLAs, the Originators grant a concurrent lease (“Concurrent Lease”) of motor vehicles that they have already leased to their customers (hereinafter the “Initial Lease”). These concurrent leases are known as “Designated Eligible Leases”.
+[8] The MCLA defines an eligible lease. To obtain financing, the Originator must send over a package of information, including the Initial Lease with the consumer. The Initial Lease contains the name of the Originator, the name of the lessee, and the HST registration number of the Originator.
+[9] Under the MCLAs, the Originators transfer their rights of possession of the leased automobiles (these rights of possession exist concurrently with the de facto possession by the original lessees of the automobiles) to CFI.
+[10] Each MCLA incorporated by reference a series of schedules, including schedules of the Designated Eligible Leases. These schedules identify the vehicles to be concurrently leased, the relevant amounts on which the Prepaid Rent is calculated and the dates on which such rents are payable.
+[11] Under each MCLA, CFI was required to prepay a portion of the concurrent lease rent (the “Prepaid Rent”) to the Originator. During the Relevant Period, CFI paid all Prepaid Rent as and when due under the MCLAs.
+[12] Where a lease qualifies for funding and all relevant information is provided, the MCLA stipulates that the trust will make a payment based on a calculation under the lease. First, the present value of the future lease payment, which includes the residual purchase price, is determined based on the applicable discount rate. Then, a further discount is applied depending on whether the automobile falls in the (a) or (b) category. This amount is paid to the Originator as the Prepaid Rent.
+[13] Under each MCLA, CFI and the Originator agreed that CFI would claim ITCs in respect of the GST/HST payable on the Prepaid Rent and that CFI would pay over the GST/HST to the Originator once CFI received the benefit of the ITCs. Because the Minister disallowed the Appellant’s ITC claims, the GST/HST payable on the Prepaid Rent was not paid by the Appellant to the Originators, nor was it remitted by the Originators.
+[14] During the Relevant Period, CFI was engaged in MCLAs with 15 different Originators.
+[15] Corpfinance International Limited (“Corpfinance”) provided administrative and management services to CFI. These services related to the acquisition, lease and management of CFI’s assets, including determining the net book value of Designated Eligible Leases, maintaining accounts and banking records, and providing clerical and administration services (the “Administrative Services”).
+[16] Corpfinance charged CFI administrative fees (the “Admin Fees”) for the provision of the Administrative Services. During the Relevant Period, Corpfinance charged to CFI and CFI paid to Corpfinance Admin Fees plus 13% HST.
+[17] Under the MCLAs, a small portion of the Admin Fees together with the applicable GST/HST were re‑charged by CFI to the Originators. These re‑charged Admin Fees and the applicable GST/HST were netted against the Prepaid Rent and the applicable GST/HST payable by CFI to the Originator.
+[18] The Appellant operated in the same manner and maintained the same types of documentation throughout the Relevant Period as the Appellant’s predecessor trust, CFI Trust (the “Predecessor Trust”).
+[19] A majority of the Originators had MCLAs with the Predecessor Trust.
+[20] The Predecessor Trust followed this approach with Concurrent Leases of automobiles and MCLAs for many years. The CRA did not question this approach.
+[21] The Predecessor Trust transferred all of its assets and liabilities to the Appellant immediately prior to the expiration of the 21‑year rule.
+[22] The Appellant followed the same practice as the Predecessor Trust.
+[23] After the Appellant assumed the Predecessor Trust’s assets and liabilities, the CRA conducted an audit and took the position that the supply between the Appellant and the Originators was an exempt supply of a “financial service”. The CRA concluded that no tax was payable on the Prepaid Rent. For that reason, the CRA refused the Appellant’s claim for ITCs.
+[24] As noted above, the CRA’s position changed shortly before it confirmed the assessments.
+III. ANALYSIS
+[25] There is no dispute between the parties that the Appellant carries on a commercial activity in concurrently leasing motor vehicles to consumers under Concurrent Leases established under the MCLAs. The property rights embedded in a Concurrent Lease constitute a taxable supply made by the Originators to the Appellant. In turn, the Appellant uses these rights to make a taxable supply to the lessees under the Initial Leases. With this background in mind, the sole issue in dispute is whether the evidence shows that the Appellant satisfied the documentation requirements mandated by subsection 169(4) of the Act and the Input Tax Credit Information (GST/HST) Regulations (the “Regulations”). [2]
+[26] Paragraph 169(4)(a) of the Act sets out the requirements for claiming ITCs under the Act:
+(4) Required documentation
+A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+[Emphasis added.]
+[27] Section 3 of the Regulations prescribes the information required by paragraph 169(4)(a) for claiming ITCs. The relevant parts of that provision read as follows:
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241 of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies,
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[28] As the total amount paid for each of the supplies in issue was greater than $150, the prescribed information for claiming the ITCs is set out in paragraph 3(c) of the Regulations. The Appellant was required to have obtained this information at the time it applied for the ITCs.
+[29] The definition of “supporting documentation” in the Regulations reads as follows:
+“supporting documentation” means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit‑card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable;
+[Emphasis added.]
+[30] The Respondent’s position is that the Appellant has failed to establish that it had obtained from the Originators the supporting documents mandated under subsection 169(4) of the Act and section 3 of the Regulations. According to the Respondent, the reference in paragraph (h) to “any other document validly issued or signed by a registrant” signifies that in order for a document to qualify as a supporting document, it must originate from or be signed by the Originator. According to the Respondent, the Appellant’s documentary evidence is lacking in this regard because it is based on various spreadsheets prepared by its administrative agent, Corpfinance.
+[31] Unsurprisingly, the Appellant defends the contrary view. First, the Appellant takes issue with the Respondent’s submission that supporting documentation must originate from or be signed by the Originator. The Appellant observes that the preamble to the definition simply requires that supporting documentation be in a form in which the information prescribed by section 3 is contained. For these reasons, the Appellant submits that the definition of “supporting documentation” only requires the document to be issued or signed by the registrant when it does not fit within the preamble of the definition or otherwise fall within one of the document types listed in paragraphs (a) to (g).
+[32] The Respondent relies on Westborough Place Inc [3] , International Hi‑Tech Industries Inc [4] , Vocan Health Assessors Inc [5] , and 1378055 Ontario Limited [6] to support her claim that the supporting documentation must be issued or signed by the supplier.
+[33] Westborough was decided by Justice Paris under the informal procedure. [7] It does not have precedential value.
+[34] More importantly, I note that Justice Paris does not deal with the point raised by the Appellant in the present case that the prescribed information that is contained in digital form on the recipient’s server qualifies under paragraph (g) of the definition of “supporting documentation”. Information on a server is not a document that can be signed or authorized by a supplier. Rather, it represents information obtained by the recipient and stored on a server to allow this information to be consulted by the CRA on an audit of an ITC claim.
+[35] Finally, there is no indication in Justice Paris’s reasons for judgment in Westborough that the parties specifically addressed the meaning to be ascribed to the definition of “supporting documentation”. I suspect that this is why Justice Paris does not explain his cursory conclusion, namely, that a document must be issued or signed by the supplier to constitute “supporting documentation”. Justice Paris’s comment appears to be obiter because it was not material to the outcome of that case.
+[36] In International Hi‑Tech Industries Inc, Vocan Health Assessors Inc and 1378055 Ontario Limited, the judges simply cite Westborough as the authority to their opinion that a supporting document must be issued or signed by the supplier. [8] Like Westborough, these cases do not consider the interpretation of paragraph (g) of the “supporting documentation” definition contained in section 2 of the Regulations.
+[37] It is widely accepted that an enumeration in a definition is not exhaustive when the enumeration is preceded by the word “include”. The meaning that must be ascribed to the words that precede the enumeration is of significant importance. Before the enumeration, the definition provides that supporting documentation means the “form” in which the information prescribed by section 3 of the Regulations is contained.
+[38] I believe that the broad term “form” was used in subsection 169(4) of the Act and section 2 of the Regulations because Parliament was mindful of the benefits of paperless record‑keeping. Suppliers and recipients often share information electronically to avoid paper clutter. Information management and record‑keeping are more efficient when information and records are stored in a data retrieval system. This trend also facilitates tax audits. More often than not, relevant information is obtained by auditors through the examination of information and records stored electronically by a taxpayer subject to an audit.
+[39] Because of privacy requirements, the recipient of a supply does not have access to information stored on the computer servers of the supplier. Moreover, it is the recipient of a taxable supply that bears the burden of proof and the burden of establishing that it had obtained the prescribed information when it applied for an ITC refund.
+[40] As a final observation, I note that David Sherman shares my view that information stored on a registrant’s computer server qualifies as supporting documentation. In his commentary on subsection 169(4), he states: “Note that the word ‘includes’ is not restrictive; thus, any ‘form in which the information prescribed by section 3 is contained’ may qualify as ‘supporting documentation’… . Thus a business that obtains a supplier’s GST registration number and other required information, and stores it electronically anywhere in its records before filing its ITC claim, has sufficient ‘supporting documentation’.” [9]
+[41] Subsection 169(4) simply provides that the registrant must have obtained the prescribed information in a form that will allow the ITCs to be determined. How that information is obtained does not matter. It may be obtained through oral or electronic communication. In addition, the information may be obtained by the recipient from so‑called foundational documents or from other sources that contain the prescribed information.
+[42] As noted by the Appellant, the Respondent’s position contradicts prior public statements made by the CRA on what constitutes “supporting documentation” for the purpose of the Regulations.
+[43] For example, in response to a question posed at the May 2004 Roundtable with the Institute of Chartered Accountants of Alberta, the CRA said:
+There is no provision which requires all requisite information in support of an ITC claim to be presented in a specific kind of document or format or that all required information be contained within a single document, in the Excise Tax Act or in the related regulations. … A “record” is broadly defined under subsection 123(1) and includes, in part, ‘an agreement ... a statement ... and any other thing containing information, whether in writing or in any other form.’ [10]
+[Emphasis added.]
+[44] Similarly, at its annual GST/HST meeting with the Canadian Bar Association Commodity Tax section in March 2005, the CRA endorsed reverse invoicing as follows: [11]
+26. –– ITC Documentation & Reverse Invoicing
+Facts/Background
+Pursuant to subsection 169(4) of the ETA, a registrant is required to obtain “sufficient evidence” so as to enable the amount of its input tax credit to be determined including “any such information as may be prescribed”. The Input Tax Credit Information Regulations prescribe the information which a registrant is required to obtain including, for most supplies, the GST registration number of the supplier.
+Questions
+1. Given that subsection 169(4) only requires the registrant to obtain prescribed information (and, as such, there is no requirement on the part of the registrant to obtain a specific type of supporting document), please confirm that the ITC evidentiary requirements may be satisfied through the issuance of a document by the recipient of the supply (i.e., reverse invoicing). We note that the adequacy of ITC documentation issued by the recipient of a supply is supported by the Tax Court’s decision in Kramer.
+2. Please also confirm that the ITC evidentiary requirements would also be satisfied in situations where an invoice issued by the supplier is deficient (such as where the registration number is missing) but the recipient obtains the requisite “information” separately by (i) telephone or (ii) separate written correspondence and then transcribes the missing information on the document issued by the supplier.
+3. Please also confirm, as alluded to in GST Memorandum 400‑1‑2: Documentary Requirements, that there is no requirement for the “information” to be contained in a single document.
+CRA Comments
+In order to claim an ITC, the documentary requirements in subsection 169(4) should normally be met. Paragraph 169(4)(a) specifies that a registrant wishing to claim an ITC must obtain sufficient evidence in such form, containing such information as will enable the amount of the ITC to be determined, including any such information as may be prescribed. Prescribed information is contained in the Input Tax Credit Information (GST/HST) Regulations.
+1. The CRA accepts that in certain circumstances, with the agreement of both parties, and where there is sufficient information to verify the accuracy of the documentation, the recipient may prepare the documentation. Provided the documentation complies with the documentary requirements and all other requirements for claiming an ITC are met, an ITC may be claimed.
+The supplier is also required to have sufficient documentation to enable the CRA to determine the supplier’s liabilities and obligations for GST/HST.
+2. The ITC documentary requirements would also be satisfied where there is no dispute between the parties to the transaction and the recipient obtains the missing information either by telephone or in writing and then transcribes the missing information on to the document provided by the supplier. If the missing information is provided in writing, the recipient should also retain that document.
+3. The ITC information requirements may be found in more than one document as long as together the documents meet all of the prescribed requirements.
+[Emphasis added.]
+[45] It is impossible to reconcile the Respondent’s stance here with the statements noted above. If the Respondent is correct, then the CRA’s position on reverse billing is incorrect. One should not lose sight of the reasons why the CRA informs taxpayers of its interpretation of the law. The CRA does so to dispel uncertainty on how issues will be dealt with on audit. This practice promotes tax compliance and allows taxpayers to avoid disputes, which is undoubtedly beneficial to both parties. In this context, it is not good practice for the CRA to resile from published positions simply because it may be convenient to do so in a particular case.
+[46] Statutory definitions are either exhaustive or non‑exhaustive. Exhaustive definitions are usually introduced by the word “means”, followed by a definition that comprises the meaning of the word. [12] Non‑exhaustive definitions are introduced by the expression “includes” or “does not include”, followed by a directive which adds to or subtracts from the ordinary or technical meaning of the word. [13]
+[47] As the Supreme Court of Canada emphasized in Canada Trustco Mortgage Co, “when the words of a provision are precise and unequivocal, the ordinary meaning of the words play[s] a dominant role in the interpretive process.” [14]
+[48] Considering all of the above, I conclude that the Regulations do not set out a general requirement for the supporting documentation to be issued or signed by the supplier. The definition of “supporting documentation” only requires the document to be issued or signed by the supplier where the documentation does not fit within one of the document types outlined in paragraphs (a) to (g) or fall within the meaning of “form” as set out in the preamble to the definition. To place this requirement on all supporting documentation would read words into the Regulations where the words of the definition are otherwise precise and unequivocal.
+[49] I will now turn my attention to a review of the evidence.
+[50] The definition of “prescribed information” requires the Appellant to establish that it had obtained (i) the name of the Originator; (ii) the date on which the HST became payable; (iii) the nature of the taxable supply; (iv) the Originator’s HST registration number; and (v) the amount of the Prepaid Rent, when it filed its ITC claims in respect of the Concurrent Leases entered into during the Relevant Period.
+[51] As part of its documentary evidence, the Appellant provided the Court with copies of all of the MCLAs entered into with Originators, except one.
+[52] An agreement between the supplier and a registrant qualifies as a supporting document under paragraph (f) of the definition.
+[53] Section 2.01 of the MCLA entered into between the Appellant and MCLA Leasing provides that the Concurrent Lessee (the Appellant) shall lease from the lessor (the Originator) equipment covered by leases listed in Schedule E and any supplemental Schedule E. Each schedule is defined in the agreement as a “tranche”. [15]
+[54] Section 2.02 of the agreement provides that a Concurrent Lease commences on a date that is acceptable to the lessee once the conditions precedent provided for in the agreement have been satisfied.
+[55] To satisfy the conditions precedent mandated under the agreement, the Originator must provide to the Appellant’s administrator a copy of the Initial Lease that identifies the vehicle to be concurrently leased to the Appellant and the relevant lease payments due under the Initial Lease (including the residual value) so that the Appellant can calculate the Prepaid Rent due thereunder.
+[56] Once the conditions precedent are satisfied, a Concurrent Lease arises and becomes subject to the terms and conditions of the MCLA without the need for the execution of a supplemental agreement.
+[57] Mr. Oliver, the Chief Financial Officer for the Appellant, testified at length on the administrative practices followed by the Appellant in order to give effect to the Concurrent Leases at issue herein. Mr. Oliver explained that the Appellant would not approve a Concurrent Lease until all of the conditions precedent had been satisfied, including receiving a copy of the Initial Lease. The Original Leases contained the HST registration number of the Originator. The Original Leases also included the amount of the lease payments due by the lessee and the residual amount.
+[58] As noted earlier, disclosure of this information was necessary because the Prepaid Rent was calculated based on a discounted value of the lease payment amounts. The interest rate that was used to calculate the Prepaid Rent was known to both parties before the Concurrent Lease was entered into. All of this information was required before the Prepaid Rent was paid under a Concurrent Lease.
+[59] Counsel for the Respondent observed that the Appellant produced only a few copies of the Initial Leases. For this reason, counsel submits that I should draw an adverse inference and find that the administrative practice followed by the Appellant was not as strict as that described by Mr. Oliver.
+[60] I disagree. First, the taxable supply at issue here is the supply made by an Originator under a Concurrent Lease and not under an Initial Lease. The terms and conditions of the Initial Lease had to be shared by the parties to allow them to determine and agree on the Prepaid Rent due under the Concurrent Lease.
+[61] The Respondent does not dispute that the Prepaid Rent was paid in respect of the taxable supplies made by Originators to the Appellant. I infer from the evidence as a whole that the Appellant had all of the information that was necessary to determine the amount of Prepaid Rent due under a Concurrent Lease before it was paid. How else would the Appellant have calculated the amount of the Prepaid Rent? The Respondent also implied that there is no evidence to prove that the Originators knew the amount of the Prepaid Rent before the Concurrent Leases were entered into. This cannot be true, for it would mean that the Originators would invite the Appellant to enter into a Concurrent Lease without knowing the amount that would be paid thereunder. It is common knowledge that automobile leases provide consumers with information surrounding the financing rate used to calculate the lease payments. A lessor cannot do so unless the lessor knows its source and cost of financing.
+[62] Mr. Oliver testified that the Appellant provided each Originator with a monthly financial report on the transactions that it entered into. The evidence shows that the reporting took place before the Appellant filed its monthly claims for ITCs claimed with respect to the HST payable on the Prepaid Rent paid in respect of a Concurrent Lease.
+[63] The Appellant provided a spreadsheet with the total amount of the Prepaid Rent paid to the Originators during the Relevant Period, including the HST due therein. I infer from this evidence that the Appellant had access to this information because it was saved on its computer server. How else would the Appellant have prepared the spreadsheet?
+[64] Mr. Oliver was subject to a lengthy cross‑examination and he did not resile his testimony in chief on these points. I found him to be a very reliable and credible witness. Counsel for the Respondent shared this impression during oral argument.
+[65] A final observation is merited in this matter. The Respondent referred the Court to the following statement made by the Appellant’s tax accountant in a letter addressed to the CRA Appeals Division on June 27, 2019: [16]
+Although CFI was unable to meet the documentary requirements in a manner as prescribed by the Regulations at the time the ITCS were claimed, CFI was able to obtain additional documentation that captures all the information required to substantiate its ITC claim.
+[66] The Respondent suggests this statement acknowledges that the Appellant had failed to satisfy the documentary requirements mandated under the Act when it filed its ITC claim.
+[67] It is apparent that this statement is less than artful. That said, I do not view the statement as fatal to the Appellant’s case. The Respondent fails to take into account the context in which the statement was made. When the letter is read in its entirety, it is clear that the author of the letter believed that the CRA would not be receptive to the arguments put forth by the Appellant’s counsel in the present matter.
+[68] Rather than challenge the CRA on its interpretation of the supporting documentation, a more conciliatory approach was adopted. Reference is made in the letter to the CRA’s administrative practice of accepting certain documents produced after the fact, and judged to be reliable, to justify a taxpayer’s ITC claim. The author asked the CRA to exercise its discretion in this regard. The CRA simply declined to do so.
+[69] I am mindful of the fact that the CRA may face difficulty in collecting the HST that was payable on the consideration paid by the Appellant in respect of the Concurrent Leases at issue herein. In my opinion, the Appellant bears no fault in this regard. From the outset, the Appellant insisted that it was entitled to ITCs because, by virtue of the Concurrent Leases entered into, it was the recipient of a taxable supply. At the audit stage, the CRA disagreed. Because of this, the Appellant did not receive the tax refund that it expected in order to pay to Originators the HST that they were required to collect. The Appellant simply could not afford to do so. I surmise that the Originators did not attempt to collect the tax from the Appellant because the CRA had taken the position that the supply made by them under a Concurrent Lease was not taxable.
+[70] Ultimately, the Appeals Division accepted the Appellant’s position. This was an important turning point. I suspect that the normal limitation period during which the CRA could reassess the Originators for failure to have collected and remitted the HST due on the Prepaid Rent has expired. The Act provides the CRA with many tools to avoid this outcome. The Appellant cannot be faulted for the CRA’s failure to act in this regard. If additional safeguards are required to deal with situations similar to this case, Parliament, in my opinion, is best placed to enact such measures. The difficulty that the CRA may now face in collecting the HST payable in respect of the Concurrent Leases should not affect the outcome of this case. There is no requirement under the Act for the tax to be paid. Subsection 169(4) expressly allows ITCs to be claimed in respect of tax payable under the Act.
+[71] For all of the reasons noted above, the appeal is allowed. This matter is returned to the Minister for reconsideration and reassessment in accordance with these reasons for judgment.
+Signed at Magog, Québec, this 9th day of June 2022.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2022 TCC 60
+COURT FILE NO.:
+2019-4229(GST)G
+STYLE OF CAUSE:
+CFI FUNDING TRUST v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 3, 4 and 5, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 9, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Neil E. Bass
+Josh Kumar
+Counsel for the Respondent:
+Jack Warren
+Dina Elleithy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil E. Bass
+Angelo Gentile
+Firm:
+Aird & Berlis LLP
+Brookfield Place
+181 Bay Street, Suite 1800
+Toronto, Ontario M5J 2T9
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c E-15.
+[2] SOR/91-45.
+[3] Westborough Place Inc v R, 2007 TCC 155.
+[4] International Hi‑Tech Industries Inc v R, 2018 TCC 240.
+[5] Vocan Health Assessors Inc v R, 2021 TCC 49.
+[6] 1378055 Ontario Limited v R, 2019 TCC 149.
+[7] Westborough Place Inc, supra note 3.
+[8] International Hi‑Tech Industries Inc, supra note 4 at para 65; Vocan Health Assessors Inc, supra note 5 at para 177; and 1378055 Ontario Limited, supra note 6 at para 53.
+[9] David Sherman, “169(4) Input Tax Credits – Required Documentation” (last modified 30 April 2022), online: Taxnet Pro.
+[10] Canada Revenue Agency, “May 2004 CRA Roundtable” (January/February 2005 member advisory), online (pdf): Chartered Professional Accountants of Alberta.
+[11] David Sherman, supra note 9.
+[12] Ruth Sullivan, Statutory Interpretation, 3rd ed (Toronto: Irwin Law, 2016) at 79.
+[13] Ibid at 80.
+[14] Canada Trustco Mortgage Co v R, 2005 SCC 54 at para 10.
+[15] All of the MCLAs are substantially similar. Therefore, it is unnecessary to consider each of them in turn.
+[16] Letter from EY LLP to CRA’s Appeals Division, Joint Book of Documents, Tab 17, p. 1‑5.

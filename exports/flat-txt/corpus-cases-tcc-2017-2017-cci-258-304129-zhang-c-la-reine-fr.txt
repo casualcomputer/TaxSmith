@@ -1,0 +1,141 @@
+Title: Zhang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304129/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-258-304129-zhang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-12-27
+
+# Zhang c. La Reine
+
+- Citation: 2017 CCI 258
+- Decision date: 2017-12-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7941, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-27
+Référence neutre
+2017 CCI 258
+Numéro de dossier
+2017-2334(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2334(IT)I
+ENTRE :
+HUI ZHANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 octobre 2017, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Jamie Hansen
+Katherine Shelley
+Stagiaire en droit
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’année d’imposition 2015 de l’appelante est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de décembre 2017.
+« David E. Graham »
+Le juge Graham
+Référence : 2017 CCI 258
+Date : 20171227
+Dossier : 2017-2334(IT)I
+ENTRE :
+HUI ZHANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Mme Hui Zhang est dentiste. De 2009 à 2012, elle a accumulé d’importants crédits d’impôt pour frais de scolarité et pour études. Elle a utilisé une partie de ces crédits pour réduire son impôt payable en 2013. À la fin de 2013, Mme Zhang avait accumulé 52 040 $ en crédits d’impôt pour frais de scolarité et pour études susceptibles d’être reportés à son année d’imposition 2014. Elle a touché un revenu provenant de dividendes en 2014. Lorsqu’elle a produit sa déclaration de revenus pour 2014, elle a demandé un crédit d’impôt pour dividendes. Elle n’a pas utilisé ses crédits d’impôt pour frais de scolarité et pour études susceptibles d’être reportés de l’année 2013. Elle a donc cru que les crédits d’impôt pour frais de scolarité et pour études de 52 040 $ pouvaient être reportés à l’année 2015. Lorsque Mme Zhang a produit sa déclaration de revenus pour 2015, elle a demandé ces crédits. Le ministre du Revenu national a refusé sa demande. Il a soutenu que Mme Zhang n’avait aucun crédit déductible en 2015, puisque tous ces crédits avaient été portés en réduction de l’impôt pour l’année d’imposition 2014. Mme Zhang a porté cette décision en appel.
+[2] La Cour est appelée à décider si les crédits d’impôt pour frais de scolarité et pour études d’un particulier, susceptibles d’être reportés à la fin d’une année d’imposition, sont déduits du montant des crédits que le contribuable aurait pu demander dans l’année, mais qu’il a choisi de ne pas demander.
+[3] Le paragraphe 118.61(1) de la Loi de l’impôt sur le revenu énonce une formule par laquelle est déterminée la somme correspondant à la partie inutilisée des crédits pour frais de scolarité, pour études et pour manuels du particulier à la fin d’une année d’imposition. En 2013, le paragraphe 118.61(1) était libellé comme suit :
+Pour l’application du présent article, la partie inutilisée des crédits d’impôt pour études, pour frais de scolarité et pour manuels d’un particulier à la fin d’une année d’imposition correspond à la somme obtenue par la formule suivante :
+A + (B - C) - (D + E)
+où :
+A représente la somme déterminée selon le présent paragraphe relativement au particulier à la fin de l’année d’imposition précédente;
+B le total des sommes dont chacune est déductible en application des articles 118.5 ou 118.6 dans le calcul de l’impôt à payer par le particulier en vertu de la présente partie pour l’année;
+C la valeur de l’élément B ou, si elle est inférieure, la somme qui correspondrait à l’impôt à payer par le particulier en vertu de la présente partie pour l’année si aucune somme, sauf celles visées au présent article et aux articles 118 à 118.06, 118.3 et 118.7, n’était déductible en application de la présente section;
+D la somme que le particulier peut déduire en application du paragraphe (2) pour l’année;
+E les crédits d’impôt pour études, pour frais de scolarité et pour manuels que le particulier a transférés pour l’année à son époux ou conjoint de fait, son père, sa mère, son grand‑père ou sa grand‑mère.
+[Non souligné dans l’original.]
+[4] Les parties conviennent de la façon dont la valeur de tous les éléments, sauf celle de l’élément « D » de cette formule, doit être calculée à l’égard de l’année d’imposition 2014 de Mme Zhang. Elles conviennent que la valeur de l’élément « A » est de 52 040 $, montant que Mme Zhang pouvait reporter de l’année 2013, et que la valeur des éléments « B », « C » et « E » est de zéro[1]. L’intimée soutient que la valeur de l’élément « D » est de 52 040 $ et que, par conséquent, Mme Zhang n’avait aucun crédit à reporter à son année d’imposition 2015. Mme Zhang fait valoir que la valeur de l’élément « D » est égale à zéro et que, par conséquent, le montant total de 52 040 $ était susceptible d’être reporté.
+[5] La valeur de l’élément « D » correspond au montant que le particulier peut déduire en application du paragraphe 118.61 (2) pour l’année. Le paragraphe 118.61(2) est libellé comme suit :
+Le moins élevé des montants suivants est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) la somme déterminée selon le paragraphe (1) relativement au particulier à la fin de l’année d’imposition précédente;
+b) la somme qui correspondrait à son impôt payable en vertu de la présente partie pour l’année si aucune somme, sauf celles visées au présent article et aux articles 118 à 118.07,118.3 et 118.7, n’était déductible en application de la présente section.
+[Non souligné dans l’original.]
+[6] Dans la version anglaise de la Loi de l’impôt sur le revenu, le terme « may » figure à la fois à l’élément « D » et au paragraphe 118.61(2) (dans la version française, on utilise respectivement les expressions « peut déduire » et « déductible »). Les parties conviennent qu’au paragraphe 118.61(2) de la version anglaise de la Loi, le terme « may » doit être lu comme facultatif. Autrement dit, les parties conviennent qu’un particulier a le choix de décider s’il souhaite ou non demander un crédit en application du paragraphe 118.61(2). Cette interprétation est conforme au sens donné au terme « may » dans la version anglaise de la Loi d’interprétation[2].
+[7] C’est sur le sens du terme « may » de l’élément « D » que les parties ne s’entendent pas. L’élément « D » prévoit que la partie inutilisée des crédits d’impôt pour études, pour frais de scolarité et pour manuels soit déduite du montant que le particulier peut déduire en application du paragraphe (2) pour l’année (dans la version anglaise, « may deduct under subsection (2) for the year »). L’intimée affirme que, dans l’élément « D », l’expression anglaise « may deduct » signifie « est autorisé à déduire ». Par conséquent, l’intimée soutient qu’en raison du fait que Mme Zhang était autorisée à déduire un montant en application du paragraphe 118.61(2), les crédits reportés sont réduits, peu importe si elle a effectivement déduit ce montant ou non. À l’opposé, Mme Zhang prétend que l’expression anglaise « may deduct » de l’élément « D » souligne le fait que le particulier a le choix de déduire ou non le montant, et renvoie donc au choix que le particulier a effectivement fait. Puisque Mme Zhang n’a pas choisi de déduire quelque montant que ce soit en 2014, en application du paragraphe 118.61(2), elle soutient que la valeur de l’élément « D » était égale à zéro.
+[8] Je procéderai à une analyse textuelle, contextuelle et téléologique du paragraphe 118.61(1).
+Analyse textuelle [9] L’analyse textuelle du paragraphe 118.61(1) appuie la thèse de l’intimée selon laquelle l’expression « may deduct » de l’élément « D » signifie « est autorisé à déduire ». La valeur de l’élément « D » correspond à la « somme que le particulier peut déduire en application du paragraphe (2) pour l’année ». Sans l’énoncer expressément de cette façon, Mme Zhang affirme que l’expression « may deduct » signifie « déduit ». Si un particulier a le choix de déduire ou de ne pas déduire un montant en application du paragraphe 118.61(2) pour une année, et qu’il choisit de déduire un certain montant, ce dernier correspond alors à la « somme que le particulier a déduite en application du paragraphe (2) pour l’année ». Cette position pose le problème suivant : la présomption d’absence de tautologie exige que chaque mot d’un texte législatif ait un sens. La thèse de l’intimée donne un sens au mot anglais « may ». Si le législateur avait eu l’intention d’aller dans le sens de l’interprétation donnée par Mme Zhang, il aurait pu simplement remplacer le temps du verbe « deduct » par « deducted ». Le fait qu’il ait choisi d’insérer le mot « may » permet de conclure qu’il essayait de communiquer un sens différent, soit celui avancé par l’intimée.
+Analyse contextuelle [10] L’analyse contextuelle du paragraphe 118.61(1) appuie la thèse de Mme Zhang voulant que l’expression « may deduct » renvoie à la somme que le particulier a effectivement choisi de déduire.
+[11] L’examen d’un élément différent du calcul au paragraphe 118.61(1) révèle une incohérence dans la rédaction de ce paragraphe. Tandis que l’élément « D » dans la version anglaise de la Loi de l’impôt sur le revenu emploie l’expression « that the individual may deduct under subsection (2) » (dans la version française, « que le particulier peut déduire en application du paragraphe (2) », l’élément « B » emploie plutôt l’expression « which may be deducted under section 118.5 or 118.6 » (dans la version française, « est déductible en application de l’article 118.5 ou 118.6 ». De leur côté, les articles 118.5 et 118.6 emploient l’expression anglaise « may be deducted » (dans la version française, « sont déductibles » et « est déductible »). Il y a donc une symétrie entre ces articles et l’élément « B ». Les articles 118.5 et 118.6 prévoient une déduction facultative et, en reprenant le même libellé, l’élément « B », renvoie clairement à la somme que le particulier est autorisé à déduire[3]. Il n’en va pas de même pour le paragraphe 118.61(2) et l’élément « D ». Tout comme les articles 118.5 et 118.6, le paragraphe 118.61(2) emploie l’expression « may be deducted » dans la version anglaise. Toutefois, contrairement à l’élément « B » qui emploie l’expression anglaise « which may be deducted » (« est déductible » en français), l’élément « D » emploie l’expression anglaise « that the individual may deduct » (« que le particulier peut déduire » en français). Je ne vois aucune raison pour laquelle le législateur aurait utilisé un libellé différent dans l’élément « D », sauf s’il avait voulu exprimer un point de vue différent. Il n’y a aucune raison apparente pour laquelle l’expression déjà employée dans l’élément « B » n’aurait pas pu être utilisée dans l’élément « D ». Compte tenu de ce qui précède, l’analyse contextuelle indique que le législateur essayait d’exprimer un point de vue différent dans l’élément « D ». La seule chose logique que le législateur aurait pu tenter d’exprimer est l’interprétation avancée par Mme Zhang. Par conséquent, l’analyse contextuelle révèle l’existence d’une ambiguïté dans l’analyse textuelle. Il y a une différence entre ce que le législateur a exprimé et ce que le législateur tentait d’exprimer, comme l’indique le contexte.
+[12] L’intimée se fonde sur l’ordre d’application des crédits à l’article 118.92 pour appuyer son interprétation de l’élément « D ». Je ne trouve pas cet article pertinent. Il est susceptible d’étayer les deux thèses. L’article 118.92 exige que les crédits d’impôt pour frais de scolarité et pour études soient réclamés avant les crédits d’impôt pour dividendes. L’intimée affirme que le particulier a le choix du montant à déduire en application du paragraphe 118.61(2), mais que s’il ne déduit aucun montant, il ne pourra pas reporter ces montants à l’année suivante. Mme Zhang convient que le particulier a le choix du montant à déduire en application du paragraphe 118.61(2), tout en soutenant que les montants inutilisés seront toujours déductibles l’année suivante. Selon ces deux interprétations, le particulier a le choix du montant à déduire en application du paragraphe 118.61(2) pour une année donnée. Si le particulier a le choix de demander ou non un crédit, je ne vois pas en quoi une disposition qui prévoit un ordre d’application des crédits peut m’aider à comprendre les conséquences de l’omission du particulier de demander un crédit. L’article 118.92 s’applique à tout montant que le particulier choisit de déduire. Il énonce simplement que, peu importe les crédits d’impôt pour frais de scolarité et pour études que le particulier demande, ces crédits doivent être réclamés avant le crédit d’impôt pour dividendes. Je conviens que, si l’interprétation que l’intimée donne à l’élément « D » est juste, l’article 118.92 s’applique en l’espèce et vise à forcer Mme Zhang à utiliser ses crédits d’impôt pour frais de scolarité et pour études déductibles avant ses crédits pour dividendes. Ce fait ne m’aide toutefois pas à évaluer si l’interprétation que l’intimée donne à l’élément « D » est juste ou non.
+Analyse téléologique [13] L’analyse téléologique appuie la thèse de l’intimée. La note explicative du ministère des Finances qui accompagnait le texte législatif de l’article 118.61 était ainsi libellée :
+[traduction] Le nouvel article 118.61 porte sur le report de la partie inutilisée des crédits d’impôt pour frais de scolarité et pour études d’un étudiant. Le paragraphe 118.61(1) permet de déterminer la partie inutilisée des crédits d’impôt pour frais de scolarité et pour études d’un étudiant à la fin d’une année d’imposition qui peut être reportée sur les années d’imposition ultérieures. Ce montant s’obtient par l’addition de [la] partie inutilisée des crédits d’impôt pour frais de scolarité et pour études de l’étudiant à la fin de l’année précédente (qui est postérieure à 1996) à la partie de ces crédits pour l’année en cours qui ne sert pas à réduire à zéro l’impôt payable par l’étudiant pour cette année. Cette somme est ensuite réduite du montant du report de ces crédits qui est déductible pour l’année en cours à savoir, selon le paragraphe 118.61(2), le montant du report de l’année précédente ou, s’il est inférieur, l’impôt qui serait payable par l’étudiant pour l’année si aucun crédit pour frais de scolarité ou pour études n’était accordé). Enfin, la somme est réduite des crédits d’impôt pour frais de scolarité et pour études que l’étudiant transfère pour l’année à son conjoint ou à l’un de ses parents ou grands-parents.
+[Non souligné dans l’original.]
+[14] La partie de la phrase « montant du report de ces crédits qui est déductible pour l’année en cours » sert à décrire l’élément « D ». Il convient de noter l’utilisation, dans la version anglaise, du terme « deductible » (« déductible » en français) plutôt que « deducted » (« déduit » en français). Le terme anglais « deductible » renvoie à un montant susceptible d’être déduit, tandis que le terme anglais « deducted » renvoie à un montant qui a de fait été déduit. Le choix du ministère des Finances d’utiliser le terme anglais « deductible » dans la note appuie fortement la thèse de l’intimée et l’analyse textuelle.
+[15] Le plan budgétaire joint étaye également la thèse de l’intimée. Il énonce ce qui suit :[4]
+[traduction] [...] Afin de permettre aux étudiants de tirer pleinement profit des crédits d’impôt pour frais de scolarité et pour études, il est proposé dans le budget de permettre à l’étudiant de reporter ces crédits pour une période indéfinie, jusqu’à ce qu’il ait suffisamment d’obligations fiscales pour utiliser ces crédits.
+[Non souligné dans l’original.]
+[16] La phrase soulignée ci-dessus indique qu’un étudiant sera forcé d’utiliser les crédits une fois qu’il aura un revenu à l’encontre duquel les crédits pourront être déduits.
+[17] En résumé, l’analyse téléologique ne relève aucune ambiguïté dans l’analyse textuelle. En fait, elle l’appuie.
+Conclusion [18] Puisque l’analyse contextuelle a révélé une ambiguïté dans l’analyse textuelle, je conclus que, d’après l’analyse téléologique, le problème d’ordre contextuel résulte simplement d’une mauvaise rédaction. Je conclus également que l’élément « D » du paragraphe 118.61(1) de la Loi de l’impôt sur le revenu devrait se lire ainsi :
+D la somme déductible en application du paragraphe (2) pour l’année; (en anglais, « D is the amount which may be deducted under subsection (2) for the year; and »)
+Conclusion [19] Compte tenu de tout ce qui précède, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de décembre 2017.
+« David E. Graham »
+Le juge Graham
+RÉFÉRENCE :
+2017 CCI 258
+No DE DOSSIER DE LA COUR :
+2017-2334(IT)I
+INTITULÉ :
+HUI ZHANG c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 25 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 27 décembre 2017
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Jamie Hansen
+Katherine Shelley
+Stagiaire en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L’élément « B » renvoie aux montants que le particulier peut déduire en application des articles 118.5 ou 118.6 pour l’année. Ces articles traitent des montants engagés dans l’année relativement aux frais de scolarité, aux frais d’études et aux manuels. Puisque Mme Zhang n’a pas fréquenté l’école en 2014, les parties conviennent que la valeur de l’élément « B » est égale à zéro. Puisque la valeur de l’élément « C » est égale au moins élevé de deux montants, en l’occurrence la valeur de l’élément « B » et un autre montant, la valeur de l’élément « C » doit elle aussi être égale à zéro. Les parties conviennent que l’élément « E » ne s’applique pas à la situation de Mme Zhang.
+[2] L.R.C. (1985), ch. 1-21, article 11).
+[3] Il serait effectivement absurde d’interpréter l’élément « B » comme se rapportant au montant que le particulier avait effectivement demandé en application de l’article 118.5. Cette interprétation aurait pour conséquence d’empêcher un particulier de reporter tout montant. Un particulier ne demanderait jamais plus que ce qu’il était autorisé à demander en application de l’article 118.5. Les montants non réclamés ne feraient jamais partie de l’élément « B » et demeureraient donc inutilisés.
+[4] Plan budgétaire : comprend les renseignements supplémentaires et les Avis de motions des voies et moyens, à la page 180.

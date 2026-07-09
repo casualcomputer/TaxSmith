@@ -1,0 +1,141 @@
+---
+title: "Goulet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31235/index.do"
+last_modified: "2013-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 225"
+citation2: ""
+neutral_citation: "2013 TCC 225"
+decision_date: "2013-07-09"
+language: "en"
+item_id: "31235"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5140
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:01:02.513000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "beb29e3d723abfb3a679143dfc6136cf88329a8cd13248b0647d32b80eac45ed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goulet v. The Queen
+
+- Citation: 2013 TCC 225
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5140, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goulet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-09
+Neutral citation
+2013 TCC 225
+File numbers
+2012-2016(GST)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-2016(GST)I
+BETWEEN:
+MARK GOULET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 20, 2013, at London, Ontario.
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Tamara Watters
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated June 27, 2011 is dismissed.
+Signed at Winnipeg, Manitoba, this 9th day of July 2013.
+“David E. Graham”
+Graham J.
+Citation: 2013 TCC 225
+Date: 20130709
+Docket: 2012-2016(GST)I
+BETWEEN:
+MARK GOULET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] In 2010, Mark Goulet renovated his house and built an addition onto it. Mr. Goulet claimed a new residential housing rebate under section 256 of the Excise Tax Act in respect of the work on his house. The Minister of National Revenue denied the rebate application. Mr. Goulet has appealed that denial. The quantum of the potential rebate is not in issue.
+Facts:
+[2] Mr. Goulet was the sole witness. I found him to be credible.
+[3] Mr. Goulet purchased his house in 2005. Prior to the renovations, his house consisted of one and a half storeys and an unfinished basement. The main floor contained the kitchen, living room, dining room, bathroom and master bedroom. The second floor contained two bedrooms. The main floor and second floor totalled approximately 1,100 square feet. The garage was attached to the house and was entered through a door from the kitchen.
+[4] In 2010, Mr. Goulet both renovated his existing house and built an addition onto the back of that house. The garage was demolished and a 2 storey addition with an unfinished basement was added in its place. The main floor and second floor of the addition totalled approximately 1,000 square feet. The addition consisted of a great room with a wood stove on the main floor and a master bedroom, ensuite bathroom and walk-in closet on the second floor. The garage was not replaced.
+[5] To accommodate the extension, the existing door from the kitchen to what had been the garage was expanded so that there would be a larger entrance to what was now the great room. The expansion of the doorway involved some related changes to the kitchen wall and ceiling. The rest of the kitchen was not changed. The cabinets, sink, plumbing and floors all remained the same.
+[6] The living room and dining room were not physically altered but their function changed to being an eating area. The existing bathroom was not changed. The windows and door in the master bedroom were replaced and the function of the room changed from a master bedroom to a playroom but the room otherwise remained the same.
+[7] There were more significant changes made to the second floor of the existing house. In order to tie into the extension, a new hallway had to be added to the existing second floor to connect the top of the stairs which were at one end of the house to the extension which was at the other end. The addition of the hallway required altering the walls and ceiling of the existing stairway and landing and moving one wall of one of the existing bedrooms. Connecting to the addition also made it possible to raise part of the roof of the existing house which allowed the ceilings of the bedrooms to be raised. The above changes required a lot of drywall work and changes to the flooring as well as exterior changes to the roof. The bedrooms on the existing second storey changed in size and layout. The function of one of the bedrooms did not change. Following the renovations, the other bedroom was used as an office.
+[8] In order to connect the existing basement to the addition, it was necessary to remove a portion of the existing foundation of the house and to replace the basement stairs with a longer set of stairs that extended into the addition.
+[9] The only significant change to the electrical system in the house was to move from a fuse box to a breaker panel.
+[10] There were also changes made to the exterior of the house. The existing aluminum siding was replaced with board and batten. The entire house was re‑insulated. A new peak was added to the roof to improve the look of the house. A covered porch was added to the addition. The porch wrapped around 3 sides of the addition. The cement stairs at the front of the house were replaced with a small deck and stairs. The tile bed and septic system were also re-done as they no longer met the municipal code requirements. New landscaping was also added.
+Analysis:
+[11] Subsection 256(2) of the Excise Tax Act sets out the requirements that must be met for a taxpayer to claim a new residential housing rebate. The only requirement that is in issue is set out in paragraph 256(2)(a):
+(2) Where
+(a) a particular individual…engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex … for use as the primary place of residence of the particular individual …
+[emphasis added]
+[12] There is no debate that both before and after the changes, Mr. Goulet’s house was a residential complex that was used as his primary residence. The sole issue in this appeal is whether that residential complex was constructed or substantially renovated in 2010.
+[13] It is important to note that paragraph 256(2)(a) makes no reference to the rebate applying to an addition that is built onto an existing residential complex. The issue of how to deal with an addition was thoroughly canvassed by this Court in Erickson v. The Queen, 2001 CarswellNat 92. I agree with Justice Hershfield’s analysis. It is worth repeating:
+14 In supporting its submission that the Appellant did not construct a residential complex (a new residential complex), the Respondent argues that an addition can only be a newly constructed residential complex if the pre-existing unit is incorporated into an addition that is of such size and proportion that negates its being seen as merely an addition to the existing house. The addition should be of such proportion that would make the pre-existing unit, in effect, the “add on”. I agree with this position. The test then, as I would put it, is whether the pre‑existing residence has been incorporated into a new residence or whether an addition has been incorporated into a pre-existing residence. The former (but not the latter) may qualify as the construction of a (new) residential complex. I believe this expression of the test, of when a housing construction project can properly be viewed as one that constructs a new complex versus one that renovates an existing complex by adding to it, is in line with the requirements of the Act in respect of identifying construction that is eligible for the new housing rebate. … I do not agree, however, that an addition, whether one constructs upward or sideways, that simply doubles the square footage of a home, constitutes construction that is sufficient to create a new residential complex even if the character of the home is thereby changed. Changing the character of a home is not only an imprecise and subjective criterion, it is one that the Act does not invite as a factor in permitting a rebate. To say that changing a bungalow to a two-storey home may change the character of the former residence is not sufficient. The character of a home can be easily changed by a variety of renovations. Changing roof lines, enlarging and adding windows or redoing the exterior finishing of a home from, say, stucco to brick and stone could well change the character of a home. However, such changes would not justify a finding that a new residential complex has come into being. Similarly living space modifications can change the character of a home in terms of the way it functions but again such change in character may not be sufficient to support a finding that such modifications have transformed a pre-existing structure into a new residential complex.
+15 Consider that paragraph 256(2)(a) makes no reference to additions. From this it has been found that “additions” per se do not qualify for rebates. Consider also that the Federal Court of Appeal in Sneyd has said that the GST rebate provisions for new housing are a limited and carefully tailored exception to the application of GST to taxable services in relation to house building and house renovations. Since additions are not mentioned in the rebate provisions and since we are to regard the rebate provisions as being carefully crafted exceptions in the application of GST, I must conclude that an addition will not give rise to rebates unless it incorporates (consumes) a pre-existing premises to the point where the addition is essentially the new residential premises and the pre-existing premises, having ceased to exist as a residential unit is essentially reduced to a relatively minor aspect of that new premises. If renovations which are expressly provided for under the Act must be so substantial as to require virtually gutting all of a pre‑existing premises to qualify for a rebate, additions, for which there are no express provisions in the Act, should (if they are to be considered at all) presumably be more substantial yet. An addition that doubles square footage by adding a few rooms in any direction will not qualify for a rebate applying these criterion, even if the character of the residence has been modified in the process.
+[emphasis added; endnotes omitted]
+[14] Mr. Goulet submits the he is entitled to the new housing rebate for two reasons. First Mr. Goulet submits that the existing house was substantially renovated. I do not agree. The term “substantial renovation” is defined in subsection 123(1) of the Excise Tax Act:
+“substantial renovation” of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex;
+[15] Although there were many changes made to the existing house, it was not substantially renovated. The definition essentially requires that the existing house be gutted. Clearly, Mr. Goulet’s existing house was not gutted. Although the use of some of the rooms in the existing house was changed, none of them was removed or replaced. The living room, dining room and bathroom were not altered at all. The changes made to the master bedroom did not result in its being removed or replaced. The doorway from the kitchen to what was the garage and then became the great room was removed and replaced but the kitchen itself was not. The bedrooms on the second floor were altered but they could not be said to have been removed or replaced. The stairway to the basement was changed but the basement itself remained unfinished.
+[16] The basis of Mr. Goulet’s second submission was not entirely clear. He relied on the same cases as the Respondent but it was unclear to me whether he was arguing that the addition to his house met the test for an addition set out in Erickson or whether he was arguing that it was not necessary to meet the test set out in Erickson because he had substantially renovated the existing house and thus any addition would be caught by the substantial renovation. Mr. Goulet cannot succeed on either ground. As set out above, the existing house was not substantially renovated. Furthermore, there is no question that the addition did not meet the test set out in Erickson. The addition did not incorporate Mr. Goulet’s existing house to the point where the addition was essentially the new premises and the existing house was a minor aspect of the total. The existing house (which still included such features as the kitchen, two-thirds of the bedrooms and the only non-ensuite bathroom) clearly continued to play a major role in the overall house.
+[17] Based on all of the foregoing, the Appeal is dismissed.
+Signed at Winnipeg, Manitoba, this 9th of July 2013.
+“David E. Graham”
+Graham J.
+CITATION: 2013 TCC 225
+COURT FILE NO.: 2012-2016(GST)I
+STYLE OF CAUSE: MARK GOULET AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: June 20, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice David E. Graham
+DATE OF JUDGMENT: July 9, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Tamara Watters
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

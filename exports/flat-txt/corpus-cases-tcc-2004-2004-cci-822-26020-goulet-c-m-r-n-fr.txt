@@ -1,0 +1,164 @@
+Title: Goulet c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26020/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-822-26020-goulet-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-12-21
+
+# Goulet c. M.R.N.
+
+- Citation: 2004 CCI 822
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3917, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goulet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-21
+Référence neutre
+2004 CCI 822
+Numéro de dossier
+2003-3244(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3244(EI)
+ENTRE :
+JEAN-FRANÇOIS GOULET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LYNE DAUPHINAIS,
+intervenante.
+____________________________________________________________________
+Appel entendu le 22 novembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+Pour l'intervenante :
+L'intervenante elle-même
+_______________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le Ministre est modifiée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de décembre 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI822
+Date : 20041221
+Dossier : 2003-3244(EI)
+ENTRE :
+JEAN-FRANÇOIS GOULET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LYNE DAUPHINAIS,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 22 novembre 2004.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de Mélanie Demers pour la période du 1er janvier au 31 mars 2001; de Sandrine Abaziou pour la période du 28 mars au 30 septembre 2001; de Muriel Dejean pour la période du 1er janvier 2001 au 25 novembre 2002 et de Lyne Dauphinais pour la période du 1er septembre 2001 au 25 novembre 2002 (les travailleuses), lorsqu'au service de l'appelant, au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Le 17 juin 2003, le ministre du Revenu national (le « Ministre » ) informa l'appelant de sa décision selon laquelle les travailleuses occupaient un emploi assurable puisqu'il y avait une relation employeur-employé entre eux.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées aux paragraphes 14 et 15 de la Réponse à l'avis d'appel, lesquelles ont été admises, niées ou ignorées par l'appelant :
+14.a) l'appelant est avocat; (admis)
+b) l'appelant exploitait une étude légale sur le boulevard Cartier à Ville de Laval; (admis)
+c) l'appelant n'a pas collaboré avec les représentants de l'intimé lors de l'enquête; (nié tel que rédigé)
+d) les travailleuses avaient été engagées par l'appelant comme secrétaires; (admis)
+e) les tâches des travailleuses consistaient à gérer les communications, à faire le suivi des dossiers, à préparer les documents légaux et à effectuer des tâches cléricales; (nié tel que rédigé)
+f) les travailleuses oeuvraient dans les bureaux de l'appelant; (nié tel que rédigé)
+g) les travailleuses devaient respecter l'horaire de travail établi par l'appelant; (nié)
+h) l'appelant assignait les tâches à accomplir aux travailleuses; (admis)
+i) l'appelant assignait les priorités et les échéances aux travailleuses; (admis)
+j) les travailleuses devaient respecter les standards établis par l'appelant pour la qualité, le volume et le délai d'exécution du travail à préparer; (nié tel que rédigé)
+k) les travailleuses devaient remettre des rapports écrits et verbaux d'une façon régulière à l'appelant; (ignoré)
+l) les travailleuses, sauf Sandrine Abaziou, étaient rémunérées à un taux horaire variable entre 12 $ et 15 $; (ignoré)
+m) la travailleuse Sandrine Abaziou était rémunérée au salaire de 100 $ par jour pour un horaire de 8 h 30 à 17 h 00, les journées partielles étaient rémunérées au prorata de ce taux; (nié tel que rédigé)
+n) l'appelant demandait aux travailleuses de lui présenter des factures pour leur rémunération; (admis)
+o) les locaux, les équipements, les fournitures étaient fournis par l'appelant aux travailleuses; (nié)
+p) les clients étaient les clients de l'appelant; (nié tel que rédigé)
+q) l'appelant facturait ses clients et non les travailleuses; (admis)
+r) les travailleuses n'avaient pas de risque de perte financière dans l'exercice de leurs tâches pour l'appelant; (ignoré)
+s) le travail des travailleuses était entièrement intégré aux activités de l'appelant. (admis)
+15. La travailleuse Muriel Dejean et l'appelant sont des personnes liées au sens de la Loi de l'impôt sur le revenu car
+a) l'appelant est le conjoint de Muriel Dejean. (admis)
+[5] Les travailleuses Lyne Dauphinais, Sandrine Abaziou et Mélanie Demers ont témoigné à l'audience ainsi que l'appelant. La travailleuse Muriel Dejean n'a pas comparu à l'audition.
+[6] Les trois travailleuses ont accompli des tâches pour l'appelant, mais leurs conditions de travail n'étaient pas toutes les mêmes. Ainsi, au terme de la présentation de la preuve par les parties, l'appelant, dans sa plaidoirie, a concédé qu'il acceptait la décision du Ministre selon laquelle l'emploi de Mélanie Demers, une des trois travailleuses, était assurable durant la période en litige, soit du 1er janvier au 31 mars 2001.
+Lyne Dauphinais
+[7] La travailleuse Lyne Dauphinais a nié qu'elle s'occupait des communications avec les clients, qu'elle prenait les messages et qu'elle s'occupait de gérer l'agenda de l'appelant. Lors de son témoignage à l'audience, elle a déclaré qu'elle exécutait son travail à partir de sa résidence mais qu'à l'occasion elle oeuvrait au bureau de l'appelant. Elle a estimé à 70 p. cent les tâches qu'elle accomplissait de chez-elle. Lorsque l'appelant avait besoin de ses services, il l'appelait à sa résidence pour lui confier des tâches qu'elle était libre d'accepter ou de refuser. Pour l'exécution de ses tâches, elle utilisait ses propres outils dont son bureau situé dans sa résidence personnelle, son ordinateur, son télécopieur, son téléphone et le papier format légal, le tout à ses frais. Lorsqu'elle travaillait à partir du bureau de l'appelant, que ce dernier partageait avec d'autres avocats, elle utilisait un bureau et l'équipement fourni par l'appelant. À l'occasion, elle préparait des lettres et exécutait d'autres tâches de secrétaire, telles une comparution dans un nouveau dossier et une communication avec le greffier dans un cas urgent.
+[8] La preuve a révélé que la travailleuse avait d'autres clients, autres que l'appelant, à qui elle rendait des services semblables. Son travail terminé, elle remettait une facture à l'appelant.
+[9] La travailleuse a déclaré que parfois l'appelant avait réglé sa facture à la baisse et au taux qu'il décidait en disant que le travail accompli ne valait pas le montant de la facture. Elle facturait l'appelant au taux horaire de 15 $. Elle a précisé qu'elle était payée à l'heure et selon la tâche qui lui était confiée, pourvu que ce soit à la satisfaction de l'appelant. Il lui arrivait de se faire dire par l'appelant que le travail accompli ne valait pas le nombre d'heures prétendu et alors elle acceptait le montant fixé par l'appelant. Il lui est même arrivé de ne recevoir aucune rémunération pour son travail que l'appelant avait refait lui-même. Elle a ajouté qu'ailleurs, à temps plein, elle était toujours payée son salaire, peu importe.
+[10] L'appelant n'a jamais remboursé la travailleuse pour les dépenses effectuées dans le cadre de son travail, ni ne l'a compensée pour ses déplacements. Il a été établi à l'audience que l'appelant n'a jamais fixé l'horaire de la travailleuse et n'a jamais exercé aucune supervision sur elle ou sur son travail.
+[11] La travailleuse a affirmé qu'elle n'a jamais déclaré à l'agent d'assurabilité qu'elle devait respecter un horaire de travail. Elle a ajouté qu'elle n'avait jamais eu à refaire son travail car elle est secrétaire juridique depuis 1989 et connaît très bien son métier. La travailleuse a deux enfants, un de cinq ans avec elle à la maison et l'autre de six ans qui fréquente l'école.
+Sandrine Abaziou
+[12] Cette travailleuse exécutait ses tâches pour l'appelant à partir de son bureau situé dans sa résidence personnelle où était installé son ordinateur. Elle a affirmé qu'elle fixait son propre horaire de travail. Elle se rendait parfois au bureau de l'appelant pour y chercher le travail. Elle soumettait des factures à l'appelant pour le travail accompli. L'appelant réglait, parfois, les factures à la baisse parce qu'il estimait qu'elles étaient trop élevées. Elle a affirmé qu'elle était travailleuse autonome par choix. Étudiante en commerce, elle exécutait certaines tâches pour l'appelant partagés entre son domicile à 60 p. cent et le bureau de l'appelant à 40 p. cent où elle utilisait l'équipement de ce dernier et aux frais de celui-ci. À l'occasion, à la demande de l'appelant, elle devait apporter des corrections à son travail.
+[13] La travailleuse a oeuvré durant une période de trois mois pour l'appelant, principalement à partir de sa résidence personnelle. Elle a affirmé qu'elle pouvait accepter ou refuser les offres de travail. Elle soumettait ses factures à l'appelant pour le travail accompli. Elle avait fixé sa rémunération à 8,50 $ l'heure mais elle a précisé qu'elle était payée également à la pièce. L'appelant lui avait fourni certains modèles à suivre dans la préparation de documents et elle s'était munie, à ses frais, d'un manuel de formulaires à cette fin.
+[14] Pour assigner des tâches à la travailleuse, l'appelant l'appelait et elle se rencontrait à son bureau où il fixait les échéanciers. La travailleuse n'a jamais facturé l'appelant pour les dépenses encourues pour l'usage de son ordinateur. La preuve a établi que la travailleuse aurait pu offrir ses services à d'autres clients. Par ailleurs, elle a nié que son horaire de travail était fixé par l'appelant. Elle était payée au taux horaire de 12 $ ou 12,50 $ ou à raison de 100 $ par jour, elle travaillait habituellement de 8 h 30 à 17 h. Pour des journées partielles elle était rémunérée au prorata du 100 $ par jour.
+Muriel Dejean
+[15] Cette travailleuse ne s'est pas présentée à l'audience. Elle est l'ex-conjointe de l'appelant. À l'audience, l'appelant a témoigné à l'effet que son ex-conjointe, mère de deux enfants, oeuvrait, pendant la période en litige, quand elle le pouvait, pour ne pas dire quand elle le voulait puisqu'elle n'était jamais au bureau. « Elle était entièrement libre » , a-t-il dit. En outre, selon son témoignage, il n'avait aucun contrôle sur elle. Il a ajouté qu'elle n'avait aucune formation de secrétaire et qu'il ne lui aurait pas accordé ces mêmes conditions de travail si elle n'avait pas été sa conjointe.
+[16] L'appelant a admis que les travailleuses avaient été embauchées comme secrétaires, sauf Muriel Dejean, son ex-conjointe. Quant à l'emploi de cette dernière, il a voulu préciser qu'il l'avait embauchée pour aider quelque peu, dont, entre autres, pour faire des courses. Il a ajouté que si elle n'avait pas été sa conjointe, elle n'aurait jamais eu de telles conditions de travail. De plus, selon l'appelant, la travailleuse n'était jamais au bureau, était complètement libre et il n'exerçait aucun contrôle sur elle; d'ailleurs elle était la mère de deux enfants et elle travaillait quand elle le pouvait.
+[17] Dans ses rapports sur un appel (pièces I-2 à I-5), l'agent des appels a reproduit les informations qu'il a reçues des travailleuses. En grande majorité, les informations contenues dans ces rapports sont les mêmes à quelques exceptions près. Par exemple, dans le rapport sur la travailleuse Lyne Dauphinais, l'agent des appels a spécifié que celle-ci oeuvrait entre 15 et 20 heures par semaine. Pour ce qui est de Sandrine Abaziou, il y est spécifié qu'elle avait aussi pour tâche de faire des recherches et qu'elle utilisait son ordinateur personnel à cette fin. Quant à la travailleuse Muriel Dejean, il y est noté que l'appelant ne lui avait pas donné de formation.
+[18] L'avocate du Ministre soutient que la version des faits communiqués par les travailleuses a changé depuis la décision rendue sur l'assurabilité de leur emploi. Pour leur part, elles ont laissé entendre que le compte-rendu de leurs propos aux enquêteurs est inexact. Selon elles, les enquêteurs n'ont pas exprimé leurs questions clairement et n'ont pas rapporté leurs déclarations avec précision.
+[19] Il y a lieu de se demander, d'ailleurs, pourquoi les tâches des travailleuses ont toutes été décrites, par l'agent des appels, de la même façon, peintes avec le même pinceau, sans nuance ou distinction, alors que, comme le soulignait l'appelant, « les sous-traitants travaillent tous de façon différente » .
+[20] Comme on a pu le constater, la preuve présentée à l'audition a prouvé la fausseté des présomptions du Ministre énoncées aux alinéas e), f), g), j), k), l), m), o) et r).
+[21] Il a été démontré que les circonstances entourant l'embauche des travailleuses établissent une entente entre l'appelant et chacune des travailleuses selon laquelle ces dernières ne devenaient pas des employés au sens de la Loi qui reconnaît un lien de subordination entre l'employeur et l'employé.
+[22] En outre, les faits présentés à l'audience et analysés sous les critères énoncés dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, portent à la conclusion qu'il existait entre les parties un degré d'autonomie qui caractérise un contrat d'entreprise.
+[23] La Cour d'appel fédérale dans l'arrêt Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, a statué que les critères énoncés dans l'arrêt Wiebe Door, précité, ne sont que des points de repère. Il faut noter également que les faits, en l'espèce, exhortent l'application du principe établi dans l'arrêt Vulcain Alarme Inc. c. le ministre du Revenu national (A-376-98, C.A.F.), selon lequel il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par le travailleur chargé de les réaliser.
+[24] Une preuve abondante et prépondérante a démontré que les travailleuses avaient la propriété des outils dans l'accomplissement de la majeure partie de leurs tâches pour l'appelant et qu'elles utilisaient leur propre bureau dans leur résidence personnelle ainsi que l'équipement nécessaire, et ce, à leurs frais. Les tâches qu'elles exécutaient pour l'appelant à partir du bureau de ce dernier étaient, selon la preuve, minimes.
+[25] Les travailleuses ont établi que l'appelant réglait souvent leurs factures à la baisse selon son appréciation de leur travail. Cette circonstance n'existe pas quand les parties ont entre eux une relation employeur-employé où l'employé reçoit son salaire, tel que fixé, même si l'employeur n'est pas entièrement satisfait. Ainsi, dans la cause sous étude, les travailleuses se retrouvent parfois dans une situation où elles encourent un risque de perte.
+[26] On peut ajouter que l'analyse de la preuve sous le critère de l'intégration, envisagé selon le point de vue des travailleuses, peut faire pencher la balance aussi bien d'un côté que dans l'autre. Il est vrai que les travailleuses oeuvraient pour l'entreprise de l'appelant, mais ceci est en vertu d'une entente qui les considère autonomes et c'est de cette façon que l'appelant et les travailleuses décrivent cette relation et les faits, en l'espèce, supportent cette conclusion.
+[27] Pour ce qui est de la travailleuse Muriel Dejean, ex-conjointe de l'appelant, ce dernier soutient que l'emploi de cette travailleuse n'est pas assurable et se base sur la lettre qu'il a reçue de madame Francine Saucier, agent de participation, de l'Agence des douanes et du revenu du Canada, en date du 2 décembre 2002 (pièce A-2), l'informant que l'emploi de Muriel Dejean ne pouvait être assurable « étant donné qu'il y a un lien de dépendance entre vous et Muriel Dejean » , quoique l'agent des appels maintient le contraire dans son rapport.
+[28] Quoiqu'il en soit, dans le cas de Muriel Dejean comme pour les deux travailleuses Sandrine Abaziou et Lyne Dauphinais, l'appelant a réussi à prouver la fausseté des présomptions du Ministre.
+[29] En outre, la preuve produite par l'appelant, qui portait sur les conditions de travail de son ex-conjointe, n'a pas été contredite à l'audience. Selon cette preuve, il faut conclure que des conditions de travail à peu près semblables n'auraient pas existé entre l'appelant et la travailleuse si les parties n'avaient pas eu entre elles un lien de dépendance.
+[30] Après analyse, cette Cour doit conclure ce qui suit :
+1. La travailleuse Mélanie Demers pour la période du 1er janvier au 31 mars 2001 occupait un emploi assurable au sens de la Loi. Donc, la décision rendue par le Ministre quant à cette travailleuse, compte tenu de l'assentiment de l'appelant exprimé à l'audition, est confirmée et l'appel est rejeté à cet égard.
+2. Les travailleuses Lyne Dauphinais pour la période du 1er septembre 2001 au 25 novembre 2002 et Sandrine Abaziou, pour la période du 28 mars au 30 septembre 2001, n'occupaient pas un emploi assurable au sens de la Loi. Donc, la décision du Ministre se rapportant à ces deux travailleuses est annulée et l'appel est accueilli à cet égard.
+3. La travailleuse Muriel Dejean, pour la période du 1er janvier 2001 au 25 novembre 2002, n'occupait pas un emploi assurable. Donc la décision rendue par le Ministre est annulée et l'appel est accueilli à cet égard.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de décembre 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI822
+No DU DOSSIER DE LA COUR :
+2003-3244(EI)
+INTITULÉ DE LA CAUSE :
+Jean-François Goulet et M.R.N.
+et Lyne Dauphinais
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 22 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+le 21 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Stéphanie Côté
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :

@@ -1,0 +1,136 @@
+Title: Lowes v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521194/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-174-521194-lowes-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-12-20
+
+# Lowes v. The King
+
+- Citation: 2023 TCC 174
+- Decision date: 2023-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5649, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lowes v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-12-20
+Neutral citation
+2023 TCC 174
+File numbers
+2022-3121(GST)APP
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2022-3121(GST)APP
+BETWEEN:
+BETTY LOWES,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on December 11, 2023, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Eric Myles
+JUDGMENT
+The application for an order under subsection 304(1) of the Excise Tax Act extending time for the Applicant to file a notice of objection with the Minister of National Revenue against assessments for annual reporting periods commencing January 1, 2013 and ending December 31, 2013 and commencing January 1, 2014 and ending December 31, 2014 is dismissed, without costs.
+Signed at Ottawa, Canada, this 20th day of December 2023.
+“David E. Spiro”
+Spiro J.
+Citation: 2023 TCC 174
+Date: 20231220
+Docket: 2022-3121(GST)APP
+BETWEEN:
+BETTY LOWES,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The applicant, Ms. Betty Lowes, seeks an order under subsection 304(1) of the Excise Tax Act (the “ETA”) extending time to file a notice of objection with the Minister of National Revenue (the “Minister”) against assessments for annual reporting periods commencing January 1, 2013 and ending December 31, 2013 and commencing January 1, 2014 and ending December 31, 2014.
+[2] In arriving at my decision, I have relied on the facts set out in the amended affidavit of an officer of the Canada Revenue Agency filed by the Respondent and the oral evidence of Ms. Lowes. I have also read a document that she sent to the Court on December 15, 2023.
+[3] According to the uncontroverted facts set out in the amended affidavit filed by the Respondent, the Minister concluded the assessment process by sending Ms. Lowes a notice of assessment for each of those two reporting periods on December 31, 2015 (the “2015 assessments”).
+[4] Under subsection 301(1.1) of the ETA, Ms. Lowes had 90 days from December 31, 2015 to file a notice of objection with the Minister challenging the 2015 assessments. Subsection 301(1.1) of the ETA provides:
+301(1.1) Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+[emphasis added]
+[5] The 90-day deadline for Ms. Lowes to file a notice of objection against the 2015 assessments was March 30, 2016.
+[6] Although Ms. Lowes had not filed a notice of objection by that date, she still had time to apply to the Minister for an extension of time to file. But she had to apply for that extension of time within one year from March 30, 2016, namely, by March 30, 2017. That requirement is set out in paragraphs 303(7)(a) and 304(5)(a) of the ETA:
+Section 303 - Extension of time by Minister
+303(1) Where no objection to an assessment is filed under section 301 …, within the time limit otherwise provided, a person may make an application to the Minister to extend the time for filing a notice of objection … and the Minister may grant the application.
+***
+303(5) On receipt of an application made under subsection (1), the Minister shall, with all due dispatch, consider the application and grant or refuse it, and shall thereupon notify the person of the decision by registered or certified mail.
+***
+303(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for objecting …; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted it to be made.
+Section 304 - Extension of time by Tax Court
+304(1) A person who has made an application under section 303 may apply to the Tax Court to have the application granted after either
+(a) the Minister has refused the application, or
+(b) ninety days have elapsed after service of the application under subsection 303(1) and the Minister has not notified the person of the Minister’s decision,
+but no application under this section may be made after the expiration of thirty days after the day the decision has been mailed to the person under subsection 303(5).
+***
+304(4) The Tax Court may dispose of an application made under subsection (1) by
+(a) dismissing it, or
+(b) granting it,
+and in granting an application, it may impose such terms as it deems just or order that the notice of objection or the request be deemed to be a valid objection or request as of the date of the order.
+304(5) No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting …; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+[emphasis added]
+[7] Ms. Lowes attempted to file a notice of objection with the Minister on September 14, 2022. The Minister wrote to Ms. Lowes on November 8, 2022 rejecting the notice of objection as late-filed.
+[8] Ms. Lowes filed an application for an extension of time with the Court on December 13, 2022.[1]
+[9] During the course of her argument, Ms. Lowes mentioned that she might have received notices of reassessment for her 2013 and 2014 reporting periods. As that would have extended her deadline to object, and to apply for an extension of time to file a notice of objection, I adjourned the hearing to give her an opportunity to find any such notices. She sent a document to the Court on December 15, 2023. As it turns out, the Minister did not reassess her 2013 or 2014 reporting periods. In that document, however, Ms. Lowes went into detail about numerous conversations she had with CRA officials, all of which occurred after March 30, 2017. Such conversations are irrelevant to the disposition of this application.
+[10] As she did not file an application to extend time to file a notice of objection within the one-year extended period in paragraphs 303(7)(a) and 304(5)(a) of the ETA, I have no choice but to dismiss Ms. Lowe’s application for an extension of time to file a notice of objection against the 2015 assessments.
+Signed at Ottawa, Canada, this 20th day of December 2023.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2023 TCC 174
+COURT FILE NO.:
+2022-3121(GST)APP
+STYLE OF CAUSE:
+BETTY LOWES AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 11, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+December 20, 2023
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Counsel for the Respondent urged me to dismiss the application on the basis that it did not satisfy the 30-day filing requirement in subsection 304(1) of the ETA. Although this argument is not without merit, I prefer to dismiss this application on the basis of the more frequently problematic one-year timing requirement in paragraphs 303(7)(a) and 304(5)(a) of the ETA.

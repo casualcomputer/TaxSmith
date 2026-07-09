@@ -1,0 +1,382 @@
+Title: Lauger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28051/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-650-28051-lauger-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-10-24
+
+# Lauger c. La Reine
+
+- Citation: 2007 TCC 650
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1571, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lauger c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2007 TCC 650
+File numbers
+2004-1450(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2004-1450(IT)I
+98-2962(IT)I
+98-3234(IT)I
+BETWEEN:
+MARJORIE LAUGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Van Chuong Luu (2002‑1753(IT)I) on June 27, 28, 29 and 30
+and October 23, 24, 25 and 26, 2006, at Montréal, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Anne-Marie Boutin and
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1988, 1989, 1990 and 1991 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of October 2007.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 22nd day of January 2008.
+Brian McCordick, Translator
+Docket: 2002‑1753(IT)I
+BETWEEN:
+VAN CHUONG LUU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Marjorie Lauger 2004‑1450(IT)I, 98‑2962(IT)I, 98‑3234(IT)I on June 27, 28, 29 and 30
+and October 23, 24, 25 and 26, 2006, at Montréal, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Boutin and
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1989 and 1990 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of October 2007.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 22nd day of January 2008.
+Brian McCordick, Translator
+Citation: 2007TCC650
+Date: 20071023
+Dockets: 2004-1450(IT)I
+98-2962(IT)I
+98-3234(IT)I
+2002-1753(IT)I
+BETWEEN:
+MARJORIE LAUGER,
+VAN CHUONG LUU,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] These appeals were heard on common evidence. The Appellant Marjorie Lauger is appealing from assessments made for the 1988, 1989, 1990 and 1991 taxation years by the Minister of National Revenue ("the Minister"). The Appellant Van Chuong Luu is appealing from assessments made by the Minister for the 1989 and 1990 taxation years.
+[2] The Appellants claimed business losses and investment tax credits in connection with their investments in two partnerships: E.C.T. Systems ("ECT") and F.T.N. Systems (" FTN"). ECT and FTN allegedly did scientific research and experimental development work through subcontractors. ECT operated in 1989 and 1990, and FTN allegedly operated in 1990, 1991 and 1992.
+[3] Ms. Lauger invested in ECT in 1990 and invested in FTN in 1990 and 1991. Mr. Luu invested in ECT in 1989.
+[4] The amounts invested and claimed in their income tax returns are as follows:
+Marjorie Lauger
+Van Chuong Luu
+E.C.T.
+Systems
+F.T.N.
+Systems
+F.T.N.
+Systems
+E.C.T.
+Systems
+Taxation year
+1990
+1990
+1991
+1989
+Amounts invested
+$1,000
+$10,000
+$5,000
+$10,000
+Amounts claimed
+Business loss
+$962
+$9,692
+$3,904
+$10,037
+Investment tax credit
+$194
+$1,939
+$966
+$1,958
+[5] In addition, Ms. Lauger carried back part of her 1990 investment tax credit claim to 1988 and 1989. These carry-backs amounted to $29 for 1988 and $2,024 for 1989. For the 1990 taxation year, Mr. Luu reported a capital gain from the disposition of his shares in ECT and claimed a capital gains deduction.
+The basis of the assessments
+[6] For ECT, the Minister allowed the business losses claimed in respect of Mr. Luu's 1989 taxation year and Ms. Lauger's 1990 taxation year. However, he disallowed the related investment tax credits in their entirety, on the basis that the Appellants were passive specified members of the two partnerships within the meaning of subsection 248(1) of the Income Tax Act ("the Act") since they were not actively engaged in ECT or FTN's activities on a regular, continuous and substantial basis.
+[7] For Mr. Luu's 1990 taxation year, the Minister made certain adjustments to the capital gains from the sale of his ECT shares.
+[8] For Ms. Lauger's 1990 taxation year, the Minister allowed part of the business loss that she claimed in respect of FTN, and disallowed the related investment tax credit in its entirety, for the following reasons:
+(i) A $1,722,000 expense claimed in calculating the partnership's business loss was a fictitious expense that was not incurred by the partnership for the purposes of scientific research and experimental development or to derive income from a business or property, so this warranted the disallowance of the portion of the business loss that stemmed from this expense, and the disallowance of the related investment tax credit.
+(ii) The members of the partnership were passive specified members because they were not actively engaged in FTN's activities on a regular, continuous and substantial basis, so this warranted the complete disallowance of the investment tax credit claimed by the members of the partnership.
+Consequently, the Minister disallowed the carry-backs of Ms. Lauger's 1990 investment tax credits to the 1988 and 1989 taxation years.
+[9] For Ms. Lauger's 1991 taxation year, the Minister disallowed the entire business loss that she claimed in respect of FTN, and the entire investment tax credit related to that loss, for the following reasons:
+(i) The partnership did not carry on any business, so this warranted the complete disallowance of the partnership's business loss and the related investment tax credit.
+(ii) The partners were limited partners and specified members of the partnership, so this warranted the complete disallowance of the partnership's business loss and of the related investment tax credit.
+(iii) The partners were passive specified members of the partnership because they were not actively engaged in FTN's activities on a regular, continuous and substantial basis, so this warranted the complete disallowance of the investment tax credit claimed by the members of the partnership.
+(iv) The partnership's scientific research and experimental development project was not an eligible scientific research and experimental development project, so this warranted the complete disallowance of the investment tax credit claimed by the members of the partnership.
+Additional arguments
+[10] The Respondent in the instant case is relying on certain additional arguments with regard to Mr. Luu's 1989 taxation year and Ms. Lauger's 1990 and 1991 taxation years. She submits that the Appellants were not members of a genuine partnership in that they had no intention of forming a partnership contract, and this, she submits, warrants the complete disallowance of the business loss that they claimed with respect to the partnerships in issue, and the complete disallowance of the related investment tax credit.
+[11] With respect to Mr. Luu's 1989 taxation year and Ms. Lauger's 1990 taxation year, the Respondent further submits as follows:
+- The partnerships in issue did not carry on any business, so this warrants the complete disallowance of the business loss claimed by the Appellants in respect of the partnerships, and the complete disallowance of the related investment tax credit.
+- If the Appellants were partners, they were specified limited partners of the partnerships in issue, so this warrants the complete disallowance of the business loss that they claimed in respect of these partnerships, and the complete disallowance of the related investment tax credit.
+Both arguments formed part of the basis of Ms. Lauger's 1991 assessment.
+[12] Counsel for the Respondent acknowledges that the burden of proving the facts on which the additional arguments are based is on the Respondent. The right to raise these new arguments is set out in subsection 152(9) of the Act. Counsel for the Respondent also acknowledges that even if the Court accepts these new arguments, the amounts of the assessments cannot increase.
+Facts
+[13] ECT and FTN were among 19 Zuniq Group partnerships that were used as scientific research and experimental development tax shelters between 1986 and 1992. In addition to these partnerships, Zuniq Group, a group of interrelated corporations and partnerships headed by Hien Vohoang, encompassed various associated corporations that supposedly performed research contracts subcontracted out by the partnerships. Hien Vohoang managed Zuniq Group with the help of some of his relatives. Mr. Vohoang died in 1993.
+[14] From 1986 to 1992, Zuniq Group created new partnerships each year to obtain funds to do computer science research. In all, nearly 870 people invested in these partnerships. As I stated, the entire execution of the research and development undertaken by these partnerships was entrusted to subcontractors, all of which were Zuniq Group corporations. The funds raised through the sale of the partnership shares were transferred to the subcontractors in the same year that those shares were sold. The following year, the partners' shares were bought back by a corporation called Glenrock Investments Ltd. for 50% of their price.
+[15] In certain cases, including those of ECT and FTN, the Zuniq Group partnerships operated for more than a year and undertook a scientific research and experimental development program each year in relation to the main project. In those cases, the partnership shares were sold each year and were generally bought back the following year. At the end of that period, the partnerships ceased operations.
+[16] The ECT research project was called "DAMDES" and involved the development of an expert system for the diagnosis and maintenance of avionics systems. ECT had 216 partners in 1989, and, in 1990, 58 people purchased some of its shares.
+[17] The FTN project was called "MEDIA ENGINE" and included the development of a programmable graphical interface system for medical applications. 146 people became partners of FTN in 1990. New shares were sold to 88 of those 146 partners in 1991, and to an unknown number of investors in 1992.
+[18] For the 1989 and 1990 taxation years, the Minister determined that the DAMDES and MEDIA ENGINE projects constituted eligible scientific research and experimental development under section 2900 of the Income Tax Regulations ("the Regulations"). However, in 1991, the Canada Revenue Agency auditor was unable to obtain documentation concerning the work done on the MEDIA ENGINE project, and the work was determined to be ineligible for the purposes of section 2900.
+The Appellants' arguments
+Mr. Luu
+[19] Mr. Luu is not disputing that he was a passive specified member of the ECT partnership, nor is he disputing the merits of the assessment in issue. He feels that he is a victim of a scam made possible by uncertainty in the application of the provisions of the Act governing scientific research and experimental development. He claims that he was in good faith, and asks the Court to take account of this and render a "fair and equitable" decision in his regard.
+[20] Mr. Luu also asks that the Court order the Respondent to permit him to become part of a settlement offer that the Minister proposed to all those who invested in ECT and in the other scientific research and experimental development partnerships that were affected by the reassessments. The investors were given until February 1997 to accept the settlement offer, but Mr. Luu did not do so.
+Ms. Lauger
+[21] Ms. Lauger submits that she was engaged in the activities of both the ECT and FTN partnerships on an active, regular and continuous basis throughout the period in which she was a member thereof. Consequently, she says that she was not a passive specified member within the definition in subsection 248(1) of the Act.
+[22] Mr. Lauger further submits that the Respondent has not proven that FTN did not incur all the research and development expenses claimed in 1990. In her submission, FTN granted research and development projects to subcontractors, and the work was actually done by those subcontractors.
+[23] She also says that the documents that she adduced with respect to the MEDIA ENGINE project, which was developed by FTN, show that the research done by FTN in 1991 was eligible scientific research and experimental development under the Act.
+[24] Ms. Lauger submits that FTN was carrying on a business to develop a graphics card, and that she was personally engaged in that business. She also asserts that the Minister accepted the financial statements of the ECT and FTN partnerships, and that, since the Minister did not go after the partnerships, FTN was carrying on a business that was a source of income under the Act.
+[25] Lastly, Ms. Lauger complains about the lengthy delays in the file, and the fact that she never had the opportunity to meet the Minister's officers to explain her position. Apparently, she did not have the opportunity to explain the circumstances of her involvement in ECT and FTN to the objections officer at Revenue Canada because the letter requesting that information was lost in the mail. She therefore asks that this Court recommend that the Minister reduce the interest and penalties in relation to the assessments.
+Analysis
+[26] The first issue that I propose to address is whether the Appellants were "specified members" of the partnerships in issue, under paragraph (b) of the definition of that term in subsection 248(1) of the Act, which pertains to what are known as "passive specified members". The definition reads, in part, as follows:
+"specified member" of a partnership in a fiscal period or taxation year of the partnership, as the case may be, means
+. . .
+(b) any member of the partnership, other than a member who is
+(i) actively engaged in those activities of the partnership business that are other than the financing of the partnership business, or
+. . .
+on a regular, continuous and substantial basis throughout that part of the period or year during which the business of the partnership is ordinarily carried on and during which the member is a member of the partnership;
+[27] Under subsections 127(8) and (9) of the Act, if a member of the partnership is a specified member, that member is not entitled to an investment tax credit in respect of the scientific research and experimental development expenses.
+Mr. Luu
+[28] Mr. Luu does not dispute that he is a passive specified member, and the evidence shows that his involvement in the activities of the ECT partnership in 1989 was neither active, nor regular, nor continuous, nor substantial.
+[29] Like the other ECT investors, Mr. Luu received certain diskettes from ECT about learning how to use basic software like Excel and MS-DOS, and was asked to do certain exercises on the diskettes and fill out a participation form in that regard. Mr. Luu did not recall the exact nature of these activities, and said that he simply did what he was asked to do.
+[30] Claude Papion, the scientific expert who testified for the Respondent and analyzed ECT and FTN's scientific research and experimental development projects at the Minister's request, concluded that the activities of ECT's partner participation program (and of FTN's, in fact) were not even slightly relevant to the partnerships' research projects, and contributed nothing to their advancement. In short, the participation program merely served to create the illusion that ECT's partners were actively engaged in its activities.
+[31] The evidence shows that Mr. Luu was not actively engaged in ECT's research project or in any other activity of the partnership on a regular, continuous or substantial basis.
+[32] In light of my conclusion, it is not necessary to consider the additional arguments raised by the Respondent with respect to Mr. Luu's assessments.
+[33] Lastly, the Court does not have jurisdiction to order the Respondent to permit Mr. Luu to take part in the settlement that the Minister offered the investors until 1997. Counsel for the Respondent specified at the hearing that the Minister ceased to offer the settlement proposal as of February 1997. I must decide whether the assessments are well-founded or not, and the settlement offer is not one of the elements that I must take into account in doing so.
+Ms. Lauger
+[34] My analysis of Ms. Lauger's involvement in the activities of ECT and FTN must start with an examination of the evidence regarding both partnerships' activities.
+[35] As far as ECT is concerned, that evidence shows that the partnership agreement was executed on October 20, 1989, and that 3,474.9 shares were sold to 216 investors at a price of $1,000 per share, for a total contribution of $3,474,900. On November 20, 1989, ECT entered into a contract with Dias Informatique Inc., a Zuniq Group corporation, under which Dias was to carry out scientific research and experimental development work for ECT for $3,475,000. Dias, in turn, entered into subcontracts with six other Zuniq Group corporations for this research.
+[36] In ECT's financial statements for the period ended on December 31, 1989, there are only three operating expenses:
+Scientific research and
+experimental development expenses:
+$3,477,606.00
+Market research and study[1]
+$5,000.00
+Bank charges
+$63.00
+[37] The research and development expenses were paid to Dias in full in December 1989. In January 1990, the investors received an offer from Glenrock Investments Ltd. to purchase their shares for 50% of the amount originally paid.
+[38] For 1990 in the case of ECT and 1990 and 1991 in the case of FTN, the evidence disclosed no continuous activity other than the raising of funds from investors and the granting of research contracts.
+[39] In 1990, ECT raised $548,000 in contributions from partners and entered into a $548,000 research contract with Dias on November 16, 1990. The only other expenses listed on ECT's financial statements for that year were $224 in bank charges and $2,112 for a market study. Dias entered into research subcontracts with two other Zuniq Group corporations.
+[40] In 1990, FTN raised $3,040,000 in contributions from partners, and paid $3,039,000 under a $6,000,000 research contract with Zuniq Corp. (another Zuniq Group corporation). The only other expense in FTN's financial statements for that year was $52 in bank charges. Zuniq Corp. entrusted the research to five other Zuniq Group corporations.
+[41] In 1991, FTN raised $1,843,500 from its partners and paid the same amount to Zuniq Corp. in respect of a research contract. Once again, its only other expense in 1991 was $100 in bank charges.
+[42] Ms. Lauger confirmed that the FTN and ECT partnerships were started up by Mr. Vohoang to obtain funds for scientific research and experimental development. The plan was to entrust the research to subcontractors.
+[43] All of this leads me to believe that, apart from raising funds from investors and granting research subcontracts to Dias or Zuniq Corp., ECT and FTN had very few activities, and that such activities as did exist were neither regular nor continuous. Thus, the ECT and FTN partners could not possibly have been engaged in the business of the two partnerships on an active, continuous and regular basis.
+[44] This fact is emphasized by the testimony that Ms. Lauger gave upon being cross‑examined about FTN's activities.
+[TRANSLATION]
+Q. Okay. So in 1990, the FTN partnership, aside from raising money and sending it to the subcontractors...
+A. There was research work.
+Q. ...that's all that went on?
+A. With the FTN partnership, there were research contracts, there was research being done.
+Q. Apart from the money that was transferred to the subcontractors...
+A. Yes.
+Q. ...there was nothing done within the partnership?
+A. There was research work...
+Q. By the subcontractors?
+A. ...the subcontractors worked for FTN, the project manager looked after organizing all of that, and gathering the information, precisely in order to conclude the project, that it did not work.
+Q. Was the project manager Mr. Vohoang?
+A. Yes.
+(Transcript, June 29, 2006, at pages 33 and 34)
+[45] Even if, contrary to what I believe, one could consider that there was regular and continuous activity in the ECT and FTN partnerships during the years in issue, the evidence does not disclose active, regular and continuous engagement by Ms. Lauger in the partnerships.
+[46] Ms. Lauger testified that she worked directly with Mr. Vohoang for Zuniq Group from April 1989 to November 1993. She was Mr. Vohoang's executive secretary, and performed the following duties:
+- performing day-to-day administrative tasks to assist Mr. Vohoang
+- coordinating the circulation of information internally and with the research teams
+- preparing and revising correspondence, reports and minutes of the company's meetings
+- doing research of different kinds
+- compiling data
+- preparing documents on computer science
+- organizing Mr. Vohoang's appointments and meetings
+- following up on certain files
+- meeting with people or groups on his behalf to discuss issues related to a variety of research work
+-signing project-related documents under a power of attorney
+[47] After that, Ms. Lauger described her involvement in the ECT and FTN partnerships. According to her testimony, she:
+- verified scientific reports concerning different projects in progress
+- collected analytical data from researchers
+- was involved in progress meetings
+- managed the work timetable
+- analyzed the data compiled by the researchers
+- was involved in making experimental prototypes and analyzing and testing them
+- analyzed the costs associated with project changes proposed by the researchers
+- did computer-aided modelling
+- developed a conclusion concerning the feasibility and technical success of the project
+- compiled test results
+- analyzed time sheets and the log book
+- analyzed the costs associated with the changes proposed by the researchers in order to optimize the outcome of the research
+- made comments on the graphical aspects
+- followed up on the progress and tested the functionalities
+- met with the equipment vendor representatives
+- analyzed benchmarks in order to confirm the technological advancement of the project
+- tabulated the cost of equipment and components necessary for the research work
+- verified whether the projects were on budget
+- attended computer shows
+[48] She said that she always worked under the direction of Mr. Vohoang, who managed all projects undertaken by Zuniq Group partnerships.
+[49] In addition, it appears that Ms. Lauger performed work for ECT under the partner participation program that I described in relation to Mr. Luu, and that she performed work for FTN under a virtually identical program. She tendered a form that she filled out in 1991, setting out the details of her activities under FTN's program for that year. Ms. Lauger spent a total of 35 hours and 15 minutes on these activities.
+[50] As for the documents tendered in evidence, Exhibit I‑4, tab 47 states that Ms. Lauger was appointed director of the ECT project at an unknown date, but she admitted, on cross-examination, that she did not perform the duties of this position, apart from signing certain documents as directed by Mr. Vohoang and answering investors' calls. The fact that Ms. Lauger did not act as a project director in 1990 (the year in issue for Ms. Lauger in relation to ECT) is confirmed by two documents (Exhibit I‑9, tabs 4 and 38) signed by Mr. Vohoang in his capacity as ECT's [TRANSLATION] "project director" in 1989 and 1990. It appears that Ms. Lauger did not sign the contract between ECT and Dias and was not responsible for any financial aspects of the partnership.
+[51] The evidence contains only one ECT document signed by Ms. Lauger in 1990: a letter dated November 8 of that year, certifying that an ECT partner named Daniel Pilon participated in the partnership in 1989.
+[52] In order to create the FTN partnership, Ms. Lauger and two other individuals signed a partnership agreement in late August 1990. The document was provided to her by Mr. Vohoang, who designed the MEDIA ENGINE project. Ms. Lauger says that she became a partner of FTN because the project interested her. She was appointed secretary of FTN in the same agreement.
+[53] On September 27, 1990, at Mr. Vohoang's request, she signed, on behalf of FTN, a $6,000,000 scientific research contract between FTN and Zuniq Corp. She was not involved in negotiating or drafting that contract.
+[54] In addition, toward the end of 1990, Ms. Lauger participated in sessions held to explain the nature of FTN's project to investors with a view to selling FTN shares to them. She accepted enrolment forms filled out by investors in 1990, and did the same thing for several other Zuniq Group partnerships. She also signed the letter accompanying the binders sent to investors that contained the documentation about the participation program. However, she neither drafted the letter nor developed the participation program. Lastly, Ms. Lauger signed a letter addressed to each investor on or about January 31, 1991, attesting to the amount invested by that investor.
+[55] Ms. Lauger says that, in her capacity as secretary of FTN, she was responsible for sending the partners documents about the day-to-day affairs of the partnership. To this end, she says that she signed a May 1991 letter to the investors, asking them to approve a resolution that would permit her to enter into a research contract between FTN and Uniware Inc. (a Zuniq Group corporation). That contract was for the 1991 research project but was never signed. In October 1991, Ms. Lauger signed two other letters to investors regarding the 1991 project; the letters contained the details of certain changes that FTN wished to make to the MEDIA ENGINE project and its budget. Once again, Ms. Lauger was not responsible for these changes and did not write the letters, but simply signed them at Mr. Vohoang's request.
+[56] In May 1992, which is subsequent to the period in issue, Ms. Lauger allegedly signed another letter to the investors, seeking their approval of the resolution concerning the buyback of the investors' shares. She did not write the letter or draft the resolution.
+[57] Ms. Lauger signed some other documents that referred to FTN, but was acting as a representative of other entities when she did so. For example, a tax shelter number application for FTN was made by Les Services Financiers Excelor Inc. and signed by Ms. Lauger as director or representative of Excelor. The "transfer forms" by which the investors sold their interests in FTN to Glenrock Investments Ltd. ("Glenrock") fall under the same category. Ms. Lauger signed them for Glenrock under a power of attorney that she supposedly received from Dzung Tai Nguyen, Mr. Vohoang's brother-in-law, on behalf of Glenrock.
+[58] On cross-examination, Ms. Lauger admitted that she was a full-time employee of Zuniq Group from 1989 to 1993 and that her remuneration was $7,245.35 in 1989, $23,088 in 1990, $27,263 in 1991, $26,925 in 1992 and $29,831 in 1993. Her remuneration was paid by some of the Zuniq Group corporations based on what she was doing with the project, and she received remuneration from the corporation for which she was doing work. As part of her work for Zuniq Group, she was allegedly an authorized representative for several partnerships created by Mr. Vohoang, with the exception of ECT and FTN. The nature of her responsibilities for those other partnerships was similar to what she did for ECT and FTN, but she says that her involvement in ECT and FTN was greater.
+[59] Ms. Huyen‑Anh Nguyen, Mr Vohoang's widow, testified for Ms. Lauger. She worked for Zuniq Group throughout the period during which Ms. Lauger worked there, and recalls Ms. Lauger's presence at the Zuniq Group office. However, she could not recall what tasks Ms. Lauger carried out as a partner of ECT or FTN. She said:
+[TRANSLATION]
+A. How... in reality, Ms. Marjorie did everything that my husband asked her to do, and at the same time, she also helped him in the... a bit with the accounting, not with the administration work with the researchers. She organized conferences and meetings, she helped my husband enormously. Both of them sometimes worked until very late in the evening, and occasionally even Saturdays.
+Q. She did this as an employee of Mr. Vohoang's, correct?
+A. Assistant. Both as an employee and as an assistant.
+(Transcript, June 29, 2006, at p. 208)
+[60] It is clear that Ms. Lauger participated in the Zuniq Group activities, but it is important, in analyzing the evidence, to avoid confusing what Ms. Lauger may have done for Zuniq Group, or any of its corporations or other partnerships, with what she did as a partner of ECT and FTN.
+[61] Based on the evidence provided, it is impossible to determine how much time Ms. Lauger may have devoted to ECT and FTN's business as a partner. She did not specify the amount of time that these activities took, nor did she specify how frequently she performed these tasks. Without such specifics, there is no way to tell whether her engagement was regular and continuous. For the reasons just given, the work on the investor participation programs is unrelated to the subject of the DAMDES or MEDIA ENGINE projects, and should not be considered participation, by Ms. Lauger, in ECT or FTN's activities.
+[62] On the whole, Ms. Lauger's testimony about her activities was rather general in nature. She often described her participation in most of the partnerships created by Mr. Vohoang. In fact, in addition to ECT and FTN, Ms. Lauger was an authorized representative of the following partnerships created by Mr. Vohoang: ARBUS‑486, CID, CTN GET, RTS and TASS. This evidence does not lend itself to the type of analysis that is needed in order to determine the nature of her engagement in the ECT and FTN partnerships.
+[63] In addition, it is difficult to say which tasks and activities were tied to her status as a partner, as opposed to her employment with Zuniq Group. The Respondent submits that since Ms. Lauger performed all her tasks for ECT and FTN on Mr. Vohoang's request, those tasks were part of her employment as an assistant. Since Ms. Lauger was paid for this work, it is submitted that the Court should not take it into account in deciding whether she was actively engaged in ECT's and FTN's activities on a regular, continuous and substantial basis.
+[64] Since Mr. Lauger was a full-time employee of Zuniq Group during the years in issue, it is likely that a good portion of the work that she attributes to ECT and FTN was done in her capacity as an employee of Zuniq Group. This is particularly true of the help that she provided to the scientists, and her research‑related work on the DAMDES and MEDIA ENGINE projects.
+[65] The Zuniq Group subcontractors were responsible for doing all the research for ECT and FTN, and Ms. Lauger was paid by some of those subcontractors. It is reasonable to conclude that the following duties to which Ms. Lauger referred were part of the subcontractors' responsibilities, and that the remuneration received by Ms. Lauger from some of those subcontractors was for the performance of those duties:
+- managed the work timetable
+- analyzed the data compiled by the researchers
+- was involved in making experimental prototypes and in analyzing and testing them
+- analyzed the costs associated with project changes proposed by the researchers
+- did computer-aided modelling
+- developed a conclusion concerning the feasibility and technical success of the project
+- compiled test results
+- analyzed time sheets and the log book
+- analyzed the costs associated with the changes proposed by the researchers in order to optimize the outcome of the research
+- made comments on the graphical aspects
+- followed up on the progress and tested the functionalities
+- analyzed benchmarks in order to confirm the technological advancement of the project
+- tabulated the cost of equipment and components necessary for the research work
+- verified whether the project was on budget
+[66] Given her testimony as a whole, I also doubt whether most of the duties listed above, and those set out in paragraph 48, were part of Ms. Lauger's responsibilities, not Mr. Vohoang's. During her testimony about her role as a manager for ECT, Ms. Lauger made the following clarifications.
+[TRANSLATION]
+Q. Ms. Lauger, you invested in the ECT partnership.
+A. As a partner.
+Q. You were appointed a manager of the partnership.
+A. Yes.
+Q. You must have been aware of what was going on in that partnership, where the money went and why, what work was done for the partnership, and how much it cost?
+A. Here is a service contract that explains the details of the amount.
+Q. Yes.
+A. I am not a scientist, so I cannot tell you exactly what was done. As with all the partnerships that I explained to you, I saw the contract. Hien Vohoang was in charge of that. He was the one who did the big things in the partnerships. I was an employee. I explained that to you. It was like that for all the partnerships. It was the same for this partnership. Personally, I worked for... as I said, as far as the software, the object oriented language, is concerned, I am not a specialist. I worked on the user interface. The work that was done was verified by Hien Vohoang. He is the one who approved that, because he was a scientist and I wasn't.
+(Transcript, June 28, 2006, at pages 186-87)
+[67] It would also appear that Ms. Lauger was not in charge of the accounting work for the two partnerships, and that the verification and tabulation that she was referring to was done by other people.
+[68] As for the meetings held to attract investors, the work of that nature is related to the financing of the partnerships. Thus, it is not taken into account for the purposes of paragraph (b) of the definition of "specified member", which states:
+"specified member" of a partnership in a fiscal period or taxation year of the partnership, as the case may be, means
+. . .
+(b) any member of the partnership, other than a member who is
+(i) actively engaged in those activities of the partnership business that are other than the financing of the partnership business, or
+(ii) carrying on a similar business as that carried on by the partnership in its taxation year, otherwise than as a member of a partnership,
+on a regular, continuous and substantial basis throughout that part of the period or year during which the business of the partnership is ordinarily carried on and during which the member is a member of the partnership;
+[Emphasis added.]
+[69] Lastly, the relatively small number of documents adduced in evidence that were signed by the Appellant on behalf of ECT and FTN does not corroborate Ms. Lauger's testimony that her engagement in the ECT and FTN partnerships in 1990 and 1991 was active, continuous and substantial. In addition, given Ms. Lauger's admission that she signed almost all these documents on Mr. Vohoang's request and was not involved in the drafting or creation of any of these documents, I believe that her role within the two partnerships was limited, and was always under the control of Mr. Vohoang. He was the person who made the decisions in the partnerships, and this was done without Ms. Lauger's participation. Moreover, with respect to the vast majority of the tasks referred to in paragraph 48, the little documentation before me contains no indication that Ms. Lauger performed them.
+[70] All in all, Ms. Lauger has not succeeded in showing, on a balance of probabilities, that she was engaged in the activities at ECT and FTN on a regular, continuous and substantial basis during the periods in issue.
+[71] Since I have found that Ms. Lauger was a passive specified member, it is unnecessary for me to analyze the Respondent's argument that Ms. Lauger was a specified member by virtue of being a limited partner of ECT and FTN.
+[72] The next issue is whether the Minister correctly reduced the business loss claimed by Ms. Lauger in 1990. It bears repeating that the Minister reduced FTN's business loss by $1,722,000 and then proportionately reduced the business loss of each FTN partner accordingly.
+[73] Based on the evidence, the amount of $1,722,000 was paid by Zuniq Corp. to Glenrock Investments Ltd. Zuniq Corp. was the company that received the research subcontract pertaining to MEDIA ENGINE. Zuniq Corp, in turn, contracted out work on the MEDIA ENGINE project to Glenrock. The value of the contract was $1,722,000. The Minister assumed that Glenrock did not exist and that this expense was fictitious. Nonetheless, the Minister disallowed FTN the expense.
+[74] The $1,722,000 expense was apparently made by Zuniq Corp., not FTN, even though Zuniq incurred the expense in performing the research contract that it got from FTN. FTN did not claim this expense in computing its business loss for 1990. All the research expenses that FTN entered in its financial statements for the fiscal year ended December 31, 1990, were in relation to the amounts that Zuniq Corp. was paid under the research contract entered into with Zuniq Corp. on September 27, 1990. These expenses totalled $3,039,000, and the Revenue Canada auditor who audited FTN's activities for 1990 found that FTN issued $3,039,000 in cheques to Zuniq Corp. during the period.
+[75] In light of this, I do not see how the Minister could reduce FTN's operating expenses by an amount which the partnership never claimed and which was claimed by another entity. In order to do so, one would have to lift the corporate veil that separates Zuniq from FTN, but counsel for the Respondent did not put forward any arguments in support of the idea that Zuniq's separate legal existence should not be respected. In my opinion, this aspect of the assessment is not well-founded.
+[76] The next issue is whether FTN was validly formed. The Respondent asserts that FTN, like all Zuniq Group partnerships, was merely an artificial financial construct, and that FTN had absolutely no intention to carry on a business. She submits that FTN had no reason for being, other than to serve as a vehicle to generate tax refunds and a financing tool for the Zuniq Group corporations. Since it did not have the intention of making a profit from the operation of a business, FTN did not, she submits, meet the conditions of partnership formation.
+[77] For the 1990 taxation year, the Minister recognized FTN's existence, and it is only when she came before this Court that the Respondent raised the new argument that the partnership did not exist. Consequently, the Minister has the burden of proof with respect to this issue for the 1990 taxation year.
+[78] In reassessing Ms. Lauger for the 1991 taxation year, the Minister relied on the assumption that FTN had no reason for being, other than to serve as a vehicle to generate tax refunds and a financing tool for the Zuniq Group corporations.[2] He submits that the partners intended to invest an amount equal to 50% of the price originally paid for the shares, obtain financing for the other 50%, get tax deductions and investment tax credits, and, lastly, resell their shares as quickly as possible for an amount equal to the financing obtained at the outset. This ensured that the partners would make a profit from the investment, which profit did not result from the operation of a business.
+[79] It is therefore incumbent on Ms. Lauger to prove, insofar as the 1991 taxation year is concerned, that she intended to derive a profit from the operation of a business in common with the other partners of FTN.
+[80] In Backman v. The Queen, [2001] 1 S.C.R. 367, at paragraph 25, the Supreme Court of Canada held that
+. . . to ascertain the existence of a partnership the courts must inquire into whether the objective, documentary evidence and the surrounding facts, including what the parties actually did, are consistent with a subjective intention to carry on business in common with a view to profit.
+Although the partnership agreement in the case at bar states that the purpose of the FTN partnership is to engage in commercial activity, this is not borne out by the circumstances surrounding the creation and activities of the partnership. In my opinion, as the Respondent submitted, FTN was indeed an artificial financial construct put in place by Mr. Vohoang.
+[81] It is not disputed that Mr. Vohoang controlled FTN's creation and its activities. The partners relied on him to develop and implement the MEDIA ENGINE research and development plan. It is also undisputed that Mr. Vohoang managed the Zuniq Group corporations and was responsible for granting research contracts to those corporations.
+[82] In FTN's case, for the 1990 taxation year, it appears that Mr. Vohoang planned the allocation of MEDIA ENGINE research work among Zuniq Corp. and its subcontractors, namely Dias Informatique Inc., Zuniq Data Corp., Glenrock Investments Ltd, Uniware Inc., Sixgraph informatique Inc. and MicroGraphic Systems Inc., in accordance with the following diagram:
+FTN SYSTEMS PARTNERSHIP
+Zuniq Corp.
+Glenrock Uniware Inc.
+Investment
+Zuniq Data Dias
+Data Corp. Age Corp. Informatique Inc.
+Sixgraph Micro
+Informatique Inc. Graphic Systems
+Zuniq Corp.
+[83] Michel Beaudry, the Revenue Canada auditor, undertook an analysis of these contacts based on the documents obtained from the Zuniq Group corporations. He tried to trace the amount spent by FTN under the contracts granted to the corporations that were mandated to carry out research. In the cases where he received the financial statements of the subcontractor corporations, he noted that the expenses that could conceivably have been related to research were significantly lower than the amounts stated in the corporations' research contracts. For example, Zuniq Corp. apparently received $3,039,000 from FTN and paid $2,345,000 under subcontracts to the aforementioned corporations. Of the $694,000 that remained with Zuniq, it appears that only $95,178 was spent on the salaries of the researchers who worked for Zuniq, and only $17,303 was spent on research equipment purchases. At the same time, Zuniq paid professional fees in the amounts of $102,148 and $61,391, which appear to include commission payments to tax planners for the sale of FTN shares, and fees paid to Zuniq's lawyers and accountants.
+[84] The analysis of the contracts granted by Zuniq in association with the MEDIA ENGINE project revealed similar arrangements. Data Age, which received $178,800 from Zuniq for a MEDIA ENGINE research contract, apparently spent $80,497 on researchers' salaries, nothing on research equipment, but $56,910 on professional fees. These amounts were supposed to include expenses incurred for research work that Data Age was to do on ARBUS‑486, CTN Systems and GET Systems research projects in 1990.
+[85] Strangely, Data Age also appears to have granted a $349,600 subcontract to SixGraph Informatique for work on the MEDIA ENGINE project, even though Data Age received only $178,800 from Zuniq. Even more strangely, the contract between Zuniq and Data Age is dated November 20, 1990, whereas the contract between Data Age and SixGraph is dated September 30, 1990. In other words, Data Age subcontracted MEDIA ENGINE work to SixGraph almost two months before getting the contract from Zuniq.
+[86] The biggest subcontract granted by Zuniq as part of the MEDIA ENGINE project was $1,722,000 to Glenrock Investments Ltd. for [TRANSLATION] "the creation of an internal technical library service specializing in the electronics and computing fields." The reason why an internal library service of this type would be necessary in the context of the MEDIA ENGINE project is unclear.
+[87] When Mr. Beaudry tried to obtain information about Glenrock, Mr. Vohoang said that he could not provide any, because he had no interest in that corporation. Mr. Vohoang said that it was an American corporation, and provided a California address. Enquiries addressed to authorities in the United States disclosed that Glenrock had no existence there.
+[88] However, the evidence shows that Mr. Vohoang opened a bank account under the name Glenrock Investments Ltd. with National Trust using a Calgary corporate address. The signing officers for this account were Mr. Vohoang and Ms. Lauger.
+[89] In addition, it can be seen that Glenrock was incorporated in Dublin, Ireland, in 1988 (Exhibit I-42, tab 40) and that, in 1990, in her capacity as director, Huyen‑Ahn Nguyen, Mr. Vohoang's wife, signed a change of head-office address, though the new address was still in Dublin.
+[90] Lastly, the contract between Zuniq Corp. and Glenrock was signed by Dzung T. Nguyen, Mr. Vohoang's brother-in-law, in his capacity as a representative of Glenrock.
+[91] In my opinion, this shows that Mr. Vohoang did not want to let Mr. Beaudry have access to Glenrock's records to determine what the funds transferred from Zuniq Corp. to Glenrock were used for. It should be recalled that Glenrock was the same company that purchased the shares of the ECT and FTN partners for 50% of the original price. Based on the evidence, I infer that Glenrock was part of the financial scheme put in place by Mr. Vohoang, and that the funds transfers to Glenrock were for purposes other than research, or obtaining library services.
+[92] In sum, it appears that very little of the money raised by FTN in 1990 was used for research and development purposes. I am convinced that Mr. Vohoang established this partnership to obtain financing for the Zuniq Group corporations, not to carry on a business in common with a view to a profit.
+[93] Another consideration that leads me to believe that FTN was not carrying on a business is that FTN does not appear to have kept the benefits stemming from the research work. Based on representations that Sixgraph Informatique made to Revenue Canada in January 1993 (Exhibit I-4, tab 32, at page 8), it appears that the MEDIA ENGINE project was transferred to Sixgraph in 1992. Sixgraph proceeded to market a graphics card called Wizard 924, which is described in the advertising material adduced by Ms. Lauger (Exhibit A-2). Based on the corporate information obtained by Mr. Beaudry, Mr. Vohoang and a corporation that he controlled were the only shareholders of Sixgraph.
+[94] Although FTN spent $4,882,500 on the project in 1990 and 1991, it did not receive any payments from Sixgraph for the use of the research that it carried out. Ms. Lauger confirmed that FTN never earned any income. This is obviously not an indicator that FTN was carrying on a commercial enterprise, and it shows that Mr. Vohoang manipulated FTN for the benefit of his own corporation, namely Sixgraph.
+[95] Ms. Lauger testified that she believed that FTN might eventually make a profit, but she did not say what she did to ensure that a profit would be possible. It appears that she simply took Mr. Vohoang's representations at face value. Based on the evidence before me, those representations were patently false. FTN's activities were not intended to make a profit, and FTN cannot be considered to have been carrying on a business. Given the circumstances, FTN was not a genuine partnership, and its activities were not a source of income within the meaning of the Act.
+[96] Accordingly, I find that Ms. Lauger's assessments for the 1990 and 1991 taxation years are well-founded.
+[97] Lastly, the Court does not have jurisdiction to grant Mr. Luu's and Ms. Lauger's request to reduce the interest that has accrued on the assessments.
+[98] For all these reasons, Mr. Luu's and Ms. Lauger's appeals are dismissed.
+Signed at Ottawa, Canada, this 23rd day of October 2007.
+" B. Paris"
+Paris J.
+Translation certified true
+on this 22nd day of January 2008.
+Brian McCordick, Translator
+CITATION: 2007TCC650
+COURT FILE NOS.: 2004‑1450(IT)I, 98‑2962(IT)I, 98‑3234(IT)I, 2002‑1753(IT)I
+STYLE OF CAUSE: MARJORIE LAUGER v. HER MAJESTY THE QUEEN
+VAN CHUONG LUU v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 27, 28, 29 and 30, 2006, and October 23, 24, 25, and 26, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: October 23, 2007
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Anne-Marie Boutin
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellants:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The stated amount for market research and study was supposedly payable to Système Inar Inc., another Zuniq Group corporation.
+[2] The reason for the dichotomy between the 1990 and 1991 assessments was that the audits of FTN for 1990 and 1991 were done by different Revenue Canada auditors at different times.

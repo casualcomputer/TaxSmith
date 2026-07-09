@@ -1,0 +1,212 @@
+---
+title: "Nault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30500/index.do"
+last_modified: "2011-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 428"
+citation2: ""
+neutral_citation: "2011 CCI 428"
+decision_date: "2011-09-15"
+language: "fr"
+item_id: "30500"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7240
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:38:02.639000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59cb23cb08e266d0296d62a342733d8f9c0b996d0e353c771d343a95fe2f39ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nault c. La Reine
+
+- Citation: 2011 CCI 428
+- Decision date: 2011-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7240, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-15
+Référence neutre
+2011 CCI 428
+Numéro de dossier
+2010-3389(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3389(IT)I
+ENTRE :
+MAURICE NAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 6 septembre 2011, à Winnipeg (Manitoba).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rosanna Slipperjack-Farrell
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour d’octobre 2011.
+Julie Boulanger, LL.M.
+Référence : 2011CCI428
+Date : 20110915
+Dossier : 2010-3389(IT)I
+ENTRE :
+MAURICE NAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit ici de savoir si l’appelant a le droit de demander un crédit d’impôt conformément à l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année 2008 à l’égard de P.N., qui est son fils. Il s’agit en particulier de savoir si l’appelant a établi que lui seul peut demander ce crédit d’impôt à l’égard de P.N. pour l’année en question.
+[2] L’alinéa 118(1)b) de la Loi prévoit notamment ce qui suit :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+[... ]
+b) [... ] si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui‑ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier et d’une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+[3] Dans la décision Geddes v. The Queen, [2000] 2 C.T.C. 2577, le juge Porter a dit ce qui suit :
+24 En fin de compte, je souscris au point de vue exprimé par le juge Hamlyn dans l’affaire George Isaac and Sa Majesté la Reine, 95 DTC 859 :
+Je conclus, à la lumière de la jurisprudence ainsi qu’à la lecture de l’alinéa, que l’expression « à un moment donné de l’année » peut vouloir dire des périodes discontinues au cours de l’année, et que l’expression « entièrement à charge » peut se rapporter à ces périodes discontinues. Ainsi, lorsqu’au cours d’une période de l’année une personne est entièrement à la charge du contribuable et que les autres conditions de l’alinéa 118(1)b) sont réunies, le contribuable a droit au crédit « équivalent à celui d’une personne mariée ».
+25 À mon avis, l’enfant, Kyle, était entièrement à la charge de son père, l’appelant, pendant les périodes qu’il a passées avec lui au cours des années d’imposition 1994, 1995 et 1996. Ces séjours étaient davantage que des visites. L’enfant habitait avec son père au cours de ces périodes. Le père tenait, toute l’année, chez lui, un endroit qui était destiné à l’enfant. Il subvenait à tous les besoins essentiels de l’enfant lorsqu’il était avec lui. L’enfant était entièrement à la charge de l’appelant au cours de ces périodes. La loi ne prévoit aucune limite à la durée de la période. Elle dit « à un moment de l’année ». Donc, l’appelant a droit aux crédits pour les années en question.
+[4] Par conséquent, un enfant peut être entièrement à la charge d’une personne pendant certaines parties de l’année, tout en étant entièrement à la charge d’une autre personne à d’autres moments de la même année. Le paragraphe 118(4) de la Loi prévoit notamment ce qui suit :
+(4) Les règles suivantes s’appliquent aux déductions prévues au paragraphe (1) :
+[…]
+b) un seul particulier a droit pour une année d’imposition à une déduction prévue au paragraphe (1), par application des alinéas (l)b) ou b.l), pour la même personne ou pour le même établissement domestique autonome; dans le cas où plusieurs particuliers auraient droit par ailleurs à cette déduction, mais ne s’entendent pas sur celui d’entre eux qui la fait, elle n’est accordée à aucun d’eux pour l’année;
+[5] Par conséquent, si deux particuliers satisfont aux exigences qui s’appliquent aux demandes de crédit d’impôt, selon l’alinéa 118(1)b) de la Loi, pour une année d’imposition particulière à l’égard d’une personne particulière, ni l’un ni l’autre ne sera autorisé à demander ce crédit, à moins de s’entendre sur celui d’entre eux qui le fera.
+[6] L’appelant et Margaret Bonekamp se sont mariés en 1987. Ils ont eu sept enfants; ils se sont séparés en 1998. Lors de la séparation, Margaret Bonekamp a quitté la maison avec les enfants. Les enfants passaient du temps chez l’appelant, mais ils habitaient principalement avec Margaret Bonekamp. Ni l’une ni l’autre partie n’a contesté ou n’a soulevé la question de savoir si l’appelant ou Margaret Bonekamp remplissaient les conditions énoncées au début de l’alinéa 118(1)b) ou du sous‑alinéa 118(1)b)(i) de la Loi. L’appelant et Margaret Bonekamp remplissaient selon toute vraisemblance ces conditions. L’audience portait principalement sur les conditions énoncées au sous-alinéa 118(1)b)(ii) de la Loi.
+[7] La personne particulière pour laquelle l’appelant tente de demander le crédit prévu à l’alinéa 118(1)b) de la Loi est P.N., qui est un fils de l’appelant et de Margaret Bonekamp. Le fils, P.N., aurait eu 15 ans au début de l’année 2008, qui est l’année d’imposition pertinente dans le présent appel.
+[8] Dans son témoignage, l’appelant a clairement déclaré que P.N. avait vécu avec lui pendant toute l’année 2008. Voici un extrait de son témoignage :
+[traduction]
+L’un des enfants restait avec moi depuis l’an 2000, et les autres sont régulièrement venus rester chez moi, probablement pendant trois ans. Et [P.N.], celui dont il est ici question, est resté chez moi du mois d’octobre 2006 au mois d’octobre 2009, sauf pendant les deux mois, en 2009, au cours desquels il est resté chez ma fille; j’apportais chez elle l’épicerie et tout ce qu’il fallait pour subvenir aux besoins de mon fils. Il est ensuite revenu à la maison, et il s’est ensuite finalement installé chez sa mère.
+[9] Voici un extrait des questions qui ont été posées et des réponses qui ont été données au cours du contre-interrogatoire de l’appelant :
+[traduction]
+Q. Vous dites donc que [P.N.] a quitté Margaret pour aller vivre chez vous en 2006?
+R. Oui.
+Q. Si nous revenons à la question, l’année en litige dont il est aujourd’hui question est l’année 2008.
+R. Oui.
+Q. En 2008, vous dites que [P.N.] a toujours vécu chez vous?
+R. Toute l’année.
+Q. […] [P.N.] a-t-il vécu avec Margaret vers l’année 2008?
+R. Je ne crois pas qu’il y soit retourné, même pendant les fins de semaine. En 2009, cependant, je sais qu’il y est retourné, mais je ne puis – je dirais que non en ce qui concerne l’année 2008, mais étant donné que cela s’est passé il y a assez longtemps, je – je dirais que non. Je ne voudrais pas mentir sous serment, de sorte que –
+[…]
+R. Je dis simplement qu’il vivait avec moi et, à ma connaissance, il avait des liens avec sa mère et ainsi de suite, mais il avait simplement décidé de venir [...] à la maison et d’y vivre.
+Q. Par conséquent, il n’a jamais – il vivait donc avec vous tout le temps, il passait toutes les nuits chez vous?
+R. Oui. Disons que si – je dirais que s’il a dormi chez sa mère en 2008, il ne l’a pas fait plus de cinq fois, si cela est arrivé.
+[10] Selon le témoignage de l’appelant, P.N. a passé au plus cinq nuits chez Margaret Bonekamp, en 2008. Ce témoignage contredit directement celui de Margaret Bonekamp. Voici un extrait des questions qui ont été posées et des réponses qui ont été données au cours de l’interrogatoire principal de Margaret Bonekamp par l’avocate de l’intimée :
+[traduction]
+Q. Encore une fois, nous parlons de l’enfant [P.N.] et de l’année 2008. En 2008, où [P.N.] vivait‑il?
+R. Il vivait chez moi.
+Q. Pouvez-vous expliquer ou –
+R. Au 26, Bay Caron, à St. Georges.
+Q. [P.N.] vivait-il surtout chez vous?
+R. Oui.
+[…]
+Q. Mais pendant l’année scolaire, chez qui, chez qui vivait-il la semaine?
+R. Eh bien, du mois de janvier au mois d’août, il vivait sans aucun doute chez moi, et ensuite du mois d’août au mois de novembre environ, il est resté la plupart du temps chez son père. C’est la saison de chasse.
+Q. D’accord. Vous conviendrez donc qu’il semblait y avoir garde conjointe –
+R. Ouais.
+Q. Un cas de garde conjointe?
+R. Ouais.
+Q. Lorsqu’il était avec vous, aviez-vous la responsabilité de veiller à tous les besoins de [P.N.] lorsqu’il était là?
+R. Tout à fait, oui.
+Q. En ce sens que vous lui fournissiez les repas?
+R. Oui.
+Q. Vous vous occupiez de tout ce dont il avait besoin?
+R. Oui, les repas – pardon.
+[...]
+Q. Pourriez-vous estimer, pour l’année 2008, combien de jours en tout ou combien de temps il passait avec vous et combien de temps il passait avec son père?
+R. Je dirais environ les deux tiers du temps avec moi et l’autre tiers avec son père.
+[11] De toute évidence, il est impossible de concilier les témoignages des deux témoins. Le fils [P.N.] ne peut pas avoir passé au plus cinq nuits chez Margaret Bonekamp en 2008 et, au cours de la même année, avoir également passé les deux tiers de ses journées (et probablement de ses nuits) chez Margaret Bonekamp. L’hypothèse qui a été émise dans la réponse était qu’en 2008, [P.N.] habitait avec son père et avec sa mère.
+[12] Dans la décision Wiens c. La Reine, 2011 CCI 152, j’ai examiné l’arrêt que la juge L’Heureux-Dubé, de la Cour suprême du Canada, avait rendu dans l’affaire Hickman Motors Ltd. c. Sa Majesté la Reine, [1997] A.C.S. no 62, ainsi que l’arrêt ultérieurement rendu par la Cour d’appel de la Colombie-Britannique dans l’affaire Northland Properties Corp. v. British Columbia, 2010 BCCA 177, 319 D.L.R. (4th) 334. Comme je l’ai dit dans la décision Wiens, il me semble que la conclusion à tirer est simplement que l’appelant a l’obligation initiale de prouver selon la prépondérance des probabilités (c’est‑à‑dire selon toute vraisemblance) l’inexactitude de l’une ou l’autre des hypothèses contestées que le ministre a émises en établissant la cotisation (ou la nouvelle cotisation).
+[13] Il incombait donc à l’appelant d’établir selon la prépondérance des probabilités que l’hypothèse selon laquelle P.N . habitait tant chez son père que chez sa mère, en 2008, était inexacte. À mon avis, il ne s’est pas acquitté de cette obligation.
+[14] Le fils P.N. a vécu avec Margaret Bonekamp entre la séparation, en 1998, et l’année 2006. Lors de la séparation, P.N. aurait eu cinq ans. L’appelant n’a pas pu indiquer un changement important ni expliquer pourquoi, en 2006, P.N. aurait cessé de vivre avec sa mère (avec qui il aurait vécu, sans que son père vive dans la même maison, entre l’âge de cinq ans et de treize ans), alors que, pendant les trois années suivantes, il n’aurait vécu qu’avec son père, sauf pour les deux mois, en 2009, au cours desquels il aurait vécu chez sa sœur. En l’absence d’une explication rationnelle, il semble peu probable que cela se soit produit.
+[15] Quant à la charge de la preuve, le juge Rothstein, au nom de la Cour suprême du Canada, a dit ce qui suit dans l’arrêt F.H. c. McDougall, [2008] 3 R.C.S. 41 :
+(4) L’approche qui devrait désormais être celle des cours de justice canadiennes
+[40] Comme l’a fait la Chambre des lords, notre Cour devrait selon moi affirmer une fois pour toutes qu’il n’existe au Canada, en common law, qu’une seule norme de preuve en matière civile, celle de la prépondérance des probabilités. Le contexte constitue évidemment un élément important et le juge ne doit pas faire abstraction, lorsque les circonstances s’y prêtent, de la probabilité ou de l’improbabilité intrinsèque des faits allégués non plus que de la gravité des allégations ou de leurs conséquences. Toutefois, ces considérations ne modifient en rien la norme de preuve. [...]
+[…]
+[44] [...] Comme l’explique lord Hoffmann dans l’arrêt In re B, par. 2 :
+[traduction] Lorsqu’une règle de droit exige la preuve d’un fait (le « fait en litige »), le juge ou le jury doit déterminer si le fait s’est ou non produit. Il ne saurait conclure qu’il a pu se produire. Le droit est un système binaire, les seules valeurs possibles étant zéro et un. Ou bien le fait s’est produit, ou bien il ne s’est pas produit. Lorsqu’un doute subsiste, la règle selon laquelle le fardeau de la preuve incombe à l’une ou l’autre des parties permet de trancher. Lorsque la partie à laquelle incombe la preuve ne s’acquitte pas de son obligation, la valeur est de zéro et le fait est réputé ne pas avoir eu lieu. Lorsqu’elle s’en acquitte, la valeur est de un, et le fait est réputé s’être produit.
+À mon avis, la seule façon possible d’arriver à une conclusion de fait dans une instance civile consiste à déterminer si, selon toute vraisemblance, l’événement a eu lieu.
+[45] Laisser entendre que lorsqu’une allégation formulée dans une affaire civile est grave, la preuve offerte doit être examinée plus attentivement suppose que l’examen peut être moins rigoureux dans le cas d’une allégation moins grave. Je crois qu’il est erroné de dire que notre régime juridique admet différents degrés d’examen de la preuve selon la gravité de l’affaire. Il n’existe qu’une seule règle de droit : le juge du procès doit examiner la preuve attentivement.
+[46] De même, la preuve doit toujours être claire et convaincante pour satisfaire au critère de la prépondérance des probabilités. Mais, je le répète, aucune norme objective ne permet de déterminer qu’elle l’est suffisamment. Dans le cas d’une allégation grave comme celle considérée en l’espèce, le juge peut être appelé à apprécier la preuve de faits qui se seraient produits de nombreuses années auparavant, une preuve constituée essentiellement des témoignages du demandeur et du défendeur. Aussi difficile que puisse être sa tâche, le juge doit trancher. Lorsqu’un juge consciencieux ajoute foi à la thèse du demandeur, il faut tenir pour acquis que la preuve était à ses yeux suffisamment claire et convaincante pour conclure au respect du critère de la prépondérance des probabilités.
+[47] Enfin, il peut arriver que le fait soit intrinsèquement improbable. L’improbabilité intrinsèque dépend toujours des circonstances. Comme le dit la baronne Hale dans l’arrêt In re B, par. 72 :
+[TRADUCTION] Prenons l’exemple bien connu de l’animal aperçu dans Regent’s Park. S’il est vu à l’extérieur du zoo, dans un lieu où l’on promène habituellement son chien, alors il est plus vraisemblable qu’il s’agisse d’un chien que d’un lion. S’il est vu à l’intérieur du zoo, près de l’enclos des lions, dont la porte est ouverte, il se peut fort bien qu’il soit plus vraisemblable qu’il s’agisse d’un lion que d’un chien.
+[48] Un fait allégué peut être très improbable, un autre moins. Il ne saurait y avoir de règle permettant de déterminer dans quelles circonstances et jusqu’à quel point le juge du procès doit tenir compte de l’improbabilité intrinsèque. Dans l’arrêt In re B, lord Hoffmann fait remarquer ce qui suit (par. 15) :
+[traduction] Le sens commun – et non le droit – exige, pour trancher à cet égard, qu’on tienne compte, dans la mesure où cela est indiqué, de la probabilité intrinsèque.
+Il revient au juge du procès de décider dans quelle mesure, le cas échéant, les circonstances donnent à penser que le fait allégué est intrinsèquement improbable et, s’il l’estime indiqué, il peut en tenir compte pour déterminer si la preuve établit que, selon toute vraisemblance, l’événement s’est produit. Or, aucune règle de droit ne saurait le lui imposer.
+(5) Conclusion sur la norme de preuve
+[49] En conséquence, je suis d’avis de confirmer que dans une instance civile, une seule norme de preuve s’applique, celle de la prépondérance des probabilités. Dans toute affaire civile, le juge du procès doit examiner la preuve pertinente attentivement pour déterminer si, selon toute vraisemblance, le fait allégué a eu lieu.
+[Non souligné dans l’original.]
+[16] Il me semble qu’en l’absence d’une explication rationnelle, il était peu probable que P.N. ait cessé de vivre avec Margaret Bonekamp, en 2006, et qu’il ait commencé à vivre exclusivement avec l’appelant pendant les trois années suivantes. Il me semble donc que l’appelant ne doit pas se fonder simplement sur son témoignage, qui contredisait directement celui de Margaret Bonekamp. En particulier, il me semble que P.N., qui aurait eu 15 ans au début de l’année 2008 et 18 ans au moment de l’audience, saurait s’il vivait chez son père ou chez sa mère, ou encore chez les deux, en 2008. L’appelant a décidé de ne pas citer P.N. comme témoin étant donné qu’il ne voulait pas qu’il se retrouve au milieu de ce conflit. Malheureusement, en ne citant pas P.N. pour témoigner, l’appelant ne s’est pas acquitté de l’obligation qui lui incombait d’établir que P.N. vivait uniquement avec lui, en 2008.
+[17] Il me semble que P.N. aurait été entièrement à la charge de l’appelant, au cours de la période où il a vécu chez l’appelant, et qu’il aurait été entièrement à la charge de Margaret Bonekamp au cours de la période où il vivait chez celle‑ci. En 2008, ni le père ni la mère n’ont versé quoi que ce soit à l’ex-époux au titre de pension alimentaire[1]. Étant donné que l’appelant n’a pas établi qu’en 2008, P.N. vivait uniquement chez lui (et qu’il était entièrement à sa charge), il aurait le droit, ainsi que Margaret Bonekamp, de demander le crédit d’impôt à l’égard de P.N. pour l’année 2008. De toute évidence, l’appelant et Margaret Bonekamp ne s’entendaient pas sur la question de savoir lequel des deux allait demander le crédit d’impôt. Par conséquent, ni l’un ni l’autre n’a le droit de demander le crédit d’impôt prévu à l’alinéa 118(1)b) de la Loi pour l’année 2008, et ce, en raison des dispositions de l’alinéa 118(4)b) de la Loi.
+[18] L’appelant avait également demandé un crédit supplémentaire conformément à l’alinéa 118(1)b.1) de la Loi à l’égard de P.N. Toutefois, il pourrait uniquement se prévaloir de ce crédit s’il pouvait également demander le crédit en vertu de l’alinéa 118(1)b) de la Loi à l’égard de P.N. Étant donné qu’il n’a pas droit au crédit prévu à l’alinéa 118(1)b) de la Loi, l’appelant n’a pas non plus le droit de demander le crédit en vertu de l’alinéa 118(1)b.l) de la Loi.
+[19] Par conséquent, l’appel interjeté par l’appelant est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour d’octobre 2011.
+Julie Boulanger, LL.M.
+RÉFÉRENCE : 2011 CCI 428
+No DU DOSSIER DE LA COUR : 2010-3389(IT)I
+INTITULÉ : MAURICE NAULT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 7 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 15 septembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rosanna Slipperjack-Farrell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] À l’alinéa 9e) de la réponse, il est supposé que [traduction] « ni l’appelant ni l’ancienne épouse de l’appelant n’ont versé de pension alimentaire au cours de l’année d’imposition 2008 »; cette hypothèse n’a pas été contestée ni mise en question.

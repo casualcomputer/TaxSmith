@@ -1,0 +1,137 @@
+Title: Dominique Savoie et Linda Létourneau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28997/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-660-28997-dominique-savoie-et-linda-l-tourneau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-12-03
+
+# Dominique Savoie et Linda Létourneau c. M.R.N.
+
+- Citation: 2008 CCI 660
+- Decision date: 2008-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6746, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dominique Savoie et Linda Létourneau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-03
+Référence neutre
+2008 CCI 660
+Numéro de dossier
+2008-1294(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1294(EI)
+ENTRE :
+DOMINIQUE SAVOIE ET LINDA LÉTOURNEAU,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er décembre 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour les appelants :
+les appelants eux-mêmes
+Avocate de l'intimé :
+Me Sarom Bahk
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination établie en vertu de la Loi sur l'assurance‑emploi est rejeté et la détermination du Ministre est confirmée.
+Signé à Montréal, Québec, ce 3e jour de décembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008 CCI 660
+Date : 20081203
+Dossier : 2008-1294(EI)
+ENTRE :
+DOMINIQUE SAVOIE ET LINDA LÉTOURNEAU,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (ministre) dans laquelle on a considéré que M. Benoit Gauvreau avait exercé un emploi assurable aux termes de l'alinéa 5(1)a) de la Loi sur l'assurance‑emploi (Loi) alors qu'il était au service des appelants au cours de la période du 15 septembre 2006 au 15 septembre 2007.
+[2] Les appelants ont acheté en décembre 2005 un immeuble comportant 69 logements résidentiels à Brossard, province de Québec, dont le taux d'occupation se situait autour de 90 pourcent.
+[3] Au moment d'acheter, il existait entre le vendeur et M. Gauvreau une convention d'entretien et de conciergerie qui avait été signée le 15 juillet 2005 (pièce A‑1). Selon les appelants, ils ont accepté verbalement de conserver cette convention, offrant à M. Gauvreau une rémunération fixe plus élevée, soit 550 $ net par quinzaine (au lieu de 400 $ par quinzaine en sus d'un bonus de 10 $ par nouvelle location et 5 $ par renouvellement annuel), en plus de lui offrir un logement gratuit, incluant électricité et téléphone. On lui a également payé deux semaines de vacances.
+[4] Selon le paragraphe 2 de cette entente, M. Gauvreau était engagé comme concierge et devait fournir les services suivants :
+2) Le propriétaire désire retenir les services du concierge, lequel accepte pour :
+− Nettoyage des locaux et espaces communs;
+− Nettoyage des logements;
+− Entretien général de l'immeuble et du terrain qu'il occupe;
+− La location des logements vacants;
+− La perception des loyers;
+− Réparations au besoin, et comptoirs de cuisine et salle de bain;
+− Voir à ce que l'immeuble soit propre en tout temps;
+− Coupe du gazon et l'entretien des bordures;
+− Nettoyage du terrain et du stationnement de tous papiers et détritus etc.
+[5] Les paragraphes 7 à 15 de cette convention stipulent les obligations du concierge comme suit :
+OBLIGATION(S) DU CONCIERGE
+7) Le concierge s'engage à effectuer le nettoyage des couloirs, escaliers, salle de lavage, entrées et sorties de l'immeuble, les vitres de l'entrée et les boîtes aux lettres selon le besoin. Préparer et sortir les vidanges (2) fois par semaine.
+8) À chaque déménagement, le concierge verra à préparer un logement propre et disponible au nouveau locataire (les appareils ménagers et l'appartement lui‑même).
+9) Le concierge verra à l'entretien général de l'immeuble et à cette fin, il y effectuera les travaux mineurs nécessaires de plomberie, de serrurerie, de menuiserie et autres.
+10) Il procédera à l'enlèvement de la neige des entrées et des piétonnières.
+11) Le concierge sera responsable de la location des logements aux termes et conditions stipulés par le propriétaire. Dès qu'un locataire avise de son départ, le concierge prend les mesures nécessaires afin de relouer le logement libéré dans les plus brefs délais. Il recueille les informations relatives à la ou les personnes qui « sédiment louer et les vérifies ». [sic]
+12) Le concierge percevra les loyers chaque mois, les loyers sont dus LE PREMIER JOUR DE CHAQUE MOIS.
+13) Le concierge inscrira les noms des locataires sur les boîtes aux lettres et il verra à les changer au besoin. Le concierge contrôlera la circulation des clefs et de leur emplacement le cas échéant.
+14) Le concierge avisera sans délai le propriétaire [de] tous les travaux à être effectués à l'immeuble qu'ils soient ou non de sa responsabilité. Et sans limiter la généralité de ce qui précède, le concierge veillera au bien‑être des locataires.
+15) Le concierge devra maintenir l'immeuble et le terrain ainsi que les espaces de stationnement en bon état de propriété en tout temps.
+[6] Au paragraphe 16, on prévoit les conditions de travail ainsi :
+CONDITION DE TRAVAIL
+16) En principe, le concierge est toujours en devoir afin de parer aux urgences. S'il doit s'absenter, le concierge avisera le propriétaire autant que possible ainsi qu'un locataire fiable de l'endroit où il peut être rejoint par téléphone.
+[7] La convention prévoit également les spécifications suivantes :
+Selon les spécifications suivantes :
+3) Par les présentes, le propriétaire retient les services du concierge à titre d'entrepreneur général indépendant et le nomme son mandataire pour les fins de nettoyage, entretien, location et perception des loyers de l'immeuble ci‑dessus pour le compte du propriétaire pendant le terme ci‑après mentionné et selon les conditions prévues aux présentes.
+4) La présente convention de service demeurera en vigueur jusqu'à ce qu'une des deux parties aux présentes y mette fin de la façon ci‑après indiquées. La présente convention débute le :
+1er août 2005 .
+5) Les parties conviennent que la présente convention pourra être annulée moyennant un avis écrit de (30) jours de part et d'autre avant la date prévue d'annulation.
+[8] Les appelants ont toutefois mentionné qu'à partir du moment où ils sont devenus propriétaires, ils ne demandaient pas à M. Gauvreau d'être disponible en soirée et lors des week‑ends. M. Gauvreau a témoigné à l'effet contraire.
+[9] Les appelants ont également dit que M. Gauvreau se débrouillait très bien en électricité et en informatique. D'ailleurs, M. Gauvreau aurait installé tout un système de caméras dans la bâtisse sans que les appelants n'aient à payer autre chose que le matériel. En d'autres termes, ils n'ont pas payé un surplus (sauf quelques centaines de dollars et d'autres petits avantages) à M. Gauvreau pour ses services eu égard à l'installation des caméras. Les appelants ont dit que M. Gauvreau avait également rendu des services en électricité pour d'autres. M. Gauvreau a expliqué qu'il avait fait des travaux d'électricité dans l'immeuble voisin avant l'arrivée des appelants comme nouveaux propriétaires, alors que l'ancien propriétaire pour lequel il travaillait possédait les deux immeubles. Une autre fois, il est allé aider le concierge de cet immeuble, qui est un ami, lors d'une urgence. Sinon, M. Gauvreau dit ne pas avoir travaillé pour d'autres que les appelants.
+[10] Quant à l'horaire de travail, les appelants disent qu'il était difficile de dire le nombre d'heures que M. Gauvreau travaillait. Il pouvait faire 20 heures comme 40 heures dans une semaine. Lorsque M. Gauvreau voulait s'absenter, il avisait les appelants. M. Gauvreau dit qu'il travaillait du lundi au vendredi, de 8 h à 17 h. Il exécutait les tâches que lui confiait l'un des appelants, M. Savoie, lequel était toujours présent sur les lieux. M. Gauvreau a mentionné qu'il n'avait pas le temps à consacrer à d'autres clients. Il pouvait tout aussi bien faire des réparations chez les locataires en soirée ou en week‑end, si ces derniers ne pouvaient être présents les jours de semaine.
+[11] La dernière partie de ce témoignage va à l'encontre de celui de M. Savoie. Ce dernier affirme que M. Gauvreau ne travaillait jamais en soirée ou le week‑end. M. Savoie dit également que le travailleur rendait des services en informatique aux locataires contre rémunération. Il dit également que M. Gauvreau pouvait faire appel à d'autres personnes pour l'aider dans son travail. Entre autres, il aurait engagé une autre personne pour la peinture de logements. M. Gauvreau a nié ceci. Il a dit que seule sa femme l'aidait. Il n'aurait jamais engagé personne d'autre à ses frais. Cette dernière version est confirmée par l'agent des appels, M. Elio Palladini, qui affirme que M. Savoie lui a mentionné par téléphone, qu'il n'autorisait pas M. Gauvreau à engager des personnes pour l'aider en le rémunérant sans son approbation formelle.
+[12] Quant aux instruments de travail, cette fois tout le monde dit la même chose. M. Gauvreau possédait un petit coffre à outils mais sinon ce sont les appelants qui fournissaient les plus gros outils. M. Gauvreau n'achetait pratiquement jamais de matériel pour les appelants. Il n'avait aucune dépense.
+[13] Le 1er décembre 2006, M. Savoie avisait M. Gauvreau qu'il ne renouvellerait pas son contrat d'emploi à compter du 1er janvier 2007. Il semble toutefois que M. Gauvreau soit resté au service des appelants pour une plus longue période. Une autre lettre datée du 18 août 2007 avisait à nouveau M. Gauvreau d'une cessation d'emploi et congédiait ce dernier de son logement à compter du 18 septembre 2007. Dans une autre lettre du 10 septembre 2007, M. Savoie confirme la fin de l'emploi de M. Gauvreau au 15 septembre 2007 (pièce I‑1).
+Analyse
+[14] Bien que M. Gauvreau ait signé un contrat à titre de travailleur autonome avec l'ancien propriétaire (pièce A‑1), lequel contrat aurait été reconduit verbalement par les appelants selon ces derniers, M. Gauvreau prétend qu'il était plutôt un employé. Le ministre a accepté la position prise par M. Gauvreau. Bien que les termes du contrat accepté par les parties ne peuvent être ignorés, cela n'empêche en rien le ministre, cependant, d'alléguer que dans les faits le contrat n'est pas tel qu'il paraît être, qu'il n'a pas été exécuté selon les termes ou qu'il ne reflète pas la véritable relation qui s'est établie entre les parties. C'est ce que disait la Cour d'appel fédérale à ce sujet dans l'arrêt 9041‑6868 Québec Inc. c. Canada (Ministre du Revenu national ‑ M.R.N.), [2005] A.C.F. no 1720 (QL) :
+9 Le contrat sur lequel le ministre se fonde ou qu'une partie cherche à lui opposer est certes un fait juridique que le ministre ne peut ignorer même s'il ne produit pas d'effet à son égard (art. 1440 C.c.Q.; Baudouin et Jobin, Les Obligations, Éditions Yvon Blais 1998, 5e édition, p. 377). Cela n'empêche en rien le ministre, cependant, d'alléguer que dans les faits le contrat n'est pas tel qu'il parait être, qu'il n'a pas été exécuté selon ses termes ou qu'il ne reflète pas la véritable relation qui s'est établie entre les parties. Il est permis au ministre, et à la Cour canadienne de l'impôt après lui, de rechercher cette relation véritable, ainsi que le prévoient les articles 1425 et 1426 du Code Civil du Québec, dans la nature du contrat, dans les circonstances dans lesquelles il a été conclu, dans l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que dans les usages. Et parmi ces circonstances dans lesquelles le contrat a été conclu se trouve l'intention légitime déclarée des parties, un facteur important retenu par cette Cour dans un bon nombre d'arrêts (voir Wolf c. Canada (C.A.), [2002] 4 C.F. 396, para. 119 et 122; A.G. Canada c. Les Productions Bibi et Zoé Inc., [2004] A.C.F. no 238, 2004 CAF 54; Le Livreur Plus Inc. c. M.R.N., [2004] A.C.F. no 267, 2004 CAF 68; Poulin c. Canada (M.R.N.), [2003] A.C.F. no 141, 2003 CAF 50; Tremblay c. Canada (M.R.N.), [2004] A.C.F. no 802, 2004 CAF 175.
+10 L'expression « contrat de louage de services » que l'on retrouve dans la Loi sur l'assurance-emploi depuis ses origines et qui reprenait l'expression contenue à l'article 1667 du Code civil du Bas-Canada, est désuète. Le Code civil du Québec, en effet, utilise désormais l'expression « contrat de travail », à l'article 2085, qu'il distingue du « contrat d'entreprise ou de service », à l'article 2098.
+11 Trois éléments constitutifs caractérisent le « contrat de travail » en droit québécois : une prestation de travail, une rémunération et un lien de subordination. C'est ce dernier élément qui est à la source de la plupart des litiges. Pour le définir de façon globale, je m'en remets à ces propos de Robert P. Gagnon, dans Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition, aux pages 66 et 67 :
+90 − Facteur distinctif − L'élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C'est cet élément qui permet de distinguer le contrat de travail d'autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d'une autre personne, moyennant un prix, comme le contrat d'entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l'entrepreneur ou le prestataire de services conserve, selon l'article 2099 C.c.Q., « le libre choix des moyens d'exécution du contrat » et qu'il n'existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l'employeur et dans le cadre établi par ce dernier.
+91 − Appréciation factuelle − La subordination se vérifie dans les faits. À cet égard, la jurisprudence s'est toujours refusée à retenir la qualification donnée au contrat par les parties ... .
+92 − Notion − Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1054 C.c.B.-C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise. (mon soulignement).
+[15] En l'instance, il ressort de la preuve et ce malgré les contradictions que l'on y retrouve, que M. Gauvreau n'avait pas beaucoup de latitude, et qu'il devait exécuter ses tâches sous le contrôle et la supervision de M. Savoie. Ce dernier était toujours présent sur les lieux et il se dégage de son témoignage qu'il portait une attention particulière à tout ce qui se faisait dans son immeuble. Il ne laissait pas M. Gauvreau exécuter des tâches pour lesquelles il avait moins de compétence. Il lui a montré à faire certains travaux et lui faisait en partie confiance pour les tâches qu'il maîtrisait mieux. Tant M. Palladini, qui a noté les propos de M. Savoie recueillis par téléphone, que M. Gauvreau, ont mentionné que ce dernier n'avait pas l'autorisation d'engager du personnel et de le rémunérer sans l'approbation formelle de M. Savoie. Même si M. Gauvreau n'était pas occupé en tout temps, il devait être disponible pour le travail à exécuter. M. Gauvreau a dit qu'il rencontrait M. Savoie tous les jours et que ce dernier lui assignait différentes tâches. M. Savoie en faisait beaucoup lui‑même, ce qui démontre à quel point il était méticuleux pour l'entretien de sa bâtisse. Ceci est d'ailleurs tout à son honneur. Il semble dès lors douteux de dire qu'il ne contrôlait pas le travail de M. Gauvreau. Les lettres de mise à pied sont également un indice que M. Savoie considérait M. Gauvreau plutôt comme un employé (pièce I‑1). Par ailleurs, le fait soulevé par M. Savoie, qu'il n'avait pas des revenus assez élevés pour payer les cotisations d'employé, ne change en rien la relation juridique véritable qui existe entre les parties.
+[16] De la preuve, je conclus que M. Gauvreau était un employé des appelants, en ce que M. Savoie contrôlait le travail qu'il exécutait et exigeait de lui sa présence sur les lieux sauf en cas d'absence justifiée. Il accomplissait ce qu'on lui demandait de faire en tant que concierge. De plus, tel que le révèle la jurisprudence citée, ce n'est pas parce que le contrat indique que M. Gauvreau était un travailleur autonome qu'il en est nécessairement ainsi. C'est la véritable relation entre les parties qu'il faut analyser. Selon la preuve, il ressort de cette relation que M. Gauvreau exécutait le travail assigné par M. Savoie de façon suffisamment encadrée pour qu'il soit considéré un employé.
+[17] Pour ces raisons, je suis d'avis de rejeter l'appel et de confirmer la décision du ministre.
+Signé à Montréal, Québec, ce 3e jour de décembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008 CCI 660
+Nº DU DOSSIER DE LA COUR : 2008-1294(EI)
+INTITULÉ DE LA CAUSE : DOMINIQUE SAVOIE ET LINDA LÉTOURNEAU c. M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 1er décembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 3e décembre 2008
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-mêmes
+Avocate de l'intimé :
+Me Sarom Bahk
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

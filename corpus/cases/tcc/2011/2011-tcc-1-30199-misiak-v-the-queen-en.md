@@ -1,0 +1,239 @@
+---
+title: "Misiak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30199/index.do"
+last_modified: "2011-01-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 1"
+citation2: ""
+neutral_citation: "2011 TCC 1"
+decision_date: "2011-01-04"
+language: "en"
+item_id: "30199"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7722
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:59:28.155000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97bb4b739c2f1be8682f8dd9958f488e22cd14a1544e5cb8e2b0dcc5b5167937"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Misiak v. The Queen
+
+- Citation: 2011 TCC 1
+- Decision date: 2011-01-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7722, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Misiak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-04
+Neutral citation
+2011 TCC 1
+File numbers
+2008-3574(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2008-3574(GST)I
+2008-3575(IT)I
+BETWEEN:
+WALDEMAR MISIAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeal of Independent Construction Business Inc. (2008-3578(IT)I) on
+September 21 and 22, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Costa A. Abinajem
+Counsel for the Respondent:
+Rishma Bhimji
+Alisa Apostle
+AMENDED JUDGMENT
+In accordance with the attached reasons for judgment:
+The appeal from the reassessment made under Part IX of the Excise Tax Act for the period from January 1, 2001 to December 31, 2003, the notice of which is dated April 23, 2008, is allowed and the reassessment is vacated.
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is allowed and the reassessment is vacated.
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed.
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+It is further ordered that the filling fee of $200 be reimbursed to the Appellant.
+In light of the divided result, there is no award of costs.
+This Amended Judgment is issued in substitution of the Judgment dated January 6, 2011.
+Signed at Ottawa, Canada, this 12th day of December 2011.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2008-3578(IT)I
+BETWEEN:
+INDEPENDENT CONSTRUCTION BUSINESS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Waldemar Misiak (2008-3574(GST)I, 2008-3575(IT)I) on
+September 21 and 22, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Appellant:
+Costa A. Abinajem
+Counsel for the Respondent:
+Rishma Bhimji
+Alisa Apostle
+AMENDED JUDGMENT
+In accordance with the attached reasons for judgment:
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed and sent back for reconsideration and reassessment to reduce the amount of unreported income from $53,440 to $30,234.
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed.
+It is further ordered that the filling fee of $100 be reimbursed to the Appellant.
+In light of the divided result, there is no award of costs.
+This Amended Judgment is issued in substitution of the Judgment dated January 6, 2011.
+Signed at Ottawa, Canada, this 12th day of December 2011.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2011 TCC 1
+Date: 20110106
+Dockets: 2008-3574(GST)I, 2008-3575(IT)I
+BETWEEN:
+WALDEMAR MISIAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2008-3578(IT)I
+INDEPENDENT CONSTRUCTION BUSINESS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant Waldemar Misiak operated a business as a sole proprietorship in the construction industry. He installed tiles on floors and walls as an independent subcontractor. He worked alone in the business. On October 16, 2001, Mr. Misiak incorporated the sole proprietorship under the name Independent Construction Business Inc. (the “Corporation”). The Corporation’s fiscal year ends on September 30.
+[2] Following the discovery of a discrepancy between the income reported by the Corporation for its 2002 taxation year and the income paid by general contractors to the Corporation for its installation subcontracts in that year, the Canada Revenue Agency (the “CRA”) undertook a full-scale audits of Mr. Misiak’s 2001, 2002 and 2003 taxation years and the Corporation’s 2002 and 2003 taxation years.
+[3] Following the audits and after taking into account certain of the taxpayers’ representations made following the filing of notices of objection, the Minister of National Revenue (the “Minister”) reassessed the taxpayers as follows:
+2001
+2002
+2003
+Mr. Misiak
+2008-3575(IT)I
+Unreported income
+$25,810.90
+$23,206.00
+$5,935.26
+Gross negligence penalties
+$1,048.48
+$1,078.90
+—
+The Corporation
+2008-3578(IT)I
+Unreported net income
+—
+$30,234.00
+$5,935.26
+Disallowed business expenses
+―
+$10,454.00
+$5,236.00
+January 1, 2001 to December 31, 2003
+Mr. Misiak
+2008-3574(GST)I
+Net GST
+$10,630.51
+$5,429.39
+Penalties and interest
+[4] The appeals were heard on common evidence.
+[5] The reassessments issued against Mr. Misiak were based on the net worth method. The CRA’s net worth calculation reveals a large discrepancy between Mr. Misiak’s reported income and the income estimated to be needed to support his family. Mr. Misiak’s 2001 taxation year can only be reopened if the Respondent demonstrates that Mr. Misiak has misrepresented the amount of income earned in that year and that this misrepresentation is attributable to neglect, carelessness or wilful default on his part. Since Mr. Misiak admitted that he had no income other than that earned indirectly by the Corporation, the Respondent alleges that Mr. Misiak must have appropriated the Corporation’s income to cover the excess of his estimated personal living expenses over his declared income. The Respondent’s estimates of Mr. Misiak’s personal living expenses were determined by reference to the national averages of living expenses calculated by Statistics Canada (“StatsCan”) for a family of five or more persons living in Canada.
+[6] At trial, counsel for the Respondent abandoned for the period from October 16, 2001 to December 31, 2003 the contestation of the appeal filed by Mr. Misiak against the assessment issued under Part IX of the Excise Tax Act (the “ETA”), as the business was carried on by the Corporation and not Mr. Misiak during that period. The goods and services tax assessment remains in dispute for the period from January 1, 2001 to October 15, 2001. The Respondent also conceded that Mr. Misiak and the Corporation did not have unreported income for the 2003 taxation year. Only the disputed business expenses remain an issue for that year.
+[7] The issues for consideration in this appeal, as stated in the Respondent’s written argument, are whether:
+(a) the Minister properly reassessed the appellant Misiak beyond the appellant’s normal reassessment period in respect of his 2001 taxation year pursuant to subparagraph 152(4)(a)(i) of the Income Tax Act and paragraph 298(4)(a) of the Excise Tax Act;
+(b) the appellant, Misiak, understated his income by the amounts of $25,810, and $23,206 in his 2001 and 2002 taxation years respectively;
+(c) the Minister properly reassessed the appellant, Misiak, penalties in the amount of $1,048.48 and $1,078.90 for the 2001 and 2002 taxation years pursuant to subsection 163(2) of the Income Tax Act R.S.C. 1985 c. 1, as amended (the “Act”);
+(d) the Minister properly reassessed the appellant, Misiak, penalties for the period between January 1, 2001 to October 16, 2001 pursuant to section 285 of the Excise Tax Act, R.S., 1985, c. E-15, as amended (the “Excise Tax Act”);
+(e) the Business unreported[sic] its income by $30,234 for the 2002 taxation year;
+(f) the Minister properly reassessed the Business, penalties in the amount of $1,048.48, for the 2002 taxation year pursuant to subsection 163(2) of the Act;
+(g) the disallowed expenses for the 2002 and 2003 taxation years in the amounts of $10,454 and $5,236 respectively were made or incurred by the Business; and
+(h) the expenses for the 2002 and 2003 taxation year[s] were made or incurred for the purpose of gaining or producing income from a business or property.
+Factual Background
+[8] Mr. Misiak testified that he received his work from general contractors. He generally worked six days a week and was paid on a square footage basis. He claims that he was always paid by cheque.
+[9] Mr. Misiak has five boys and lived with his wife at the family home in Mississauga, Ontario, until sometime in 2003, when he moved out to live on his own following a marital breakdown.
+[10] Mr. Misiak explained that he arrived in Canada from Poland in 1999. Life had been difficult in Poland. Mr. Misiak claims that he and his family learned to live frugally. He testified that they purchased second-hand clothes and furniture from local Goodwill stores in the area where they lived. They rarely ate out, and if they did so, it was at McDonald’s. The family spent money only on essential goods and services. According to Mr. Misiak, his family was able to live on the approximately $28,000 of income that he and his wife earned annually plus the child tax benefits of between $9,000 and $10,000 received each year.
+[11] For the purposes of the net worth analysis, the CRA assumed that Mr. Misiak’s personal living expenses were $52,907 and $57,633.19 for the 2001 and 2002 taxation years respectively. Mr. Misiak claims that his living expenses were substantially lower than the national averages calculated by StatsCan for a similarly/sized family. In his testimony, he claimed that for the 2001 and 2002 taxation years respectively his personal living expenses were at least $8,000 and $11,500 lower than the amounts determined by the CRA.
+Analysis
+[12] Subparagraph 152(4)(a)(i) of the Income Tax Act (the “ITA”), which governs time limits for assessments, reads as follows:
+(4) Assessment and reassessment [limitation period] ― The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or . . . .[1]
+[Emphasis added.]
+[13] The reassessment issued in relation to the 2001 taxation year was issued after the expiration of the normal reassessment period. Pursuant to subparagraph 152(4)(a)(i), where the Minister issues a reassessment in relation to a taxation year after the expiration of the normal reassessment period, the Minister has the onus of establishing that the taxpayer has made a misrepresentation and that that misrepresentation was attributable to neglect, carelessness or wilful default or that the taxpayer has committed fraud in filing his tax return or in supplying information under the ITA in relation to that taxation year.[2]
+[14] Mr. Misiak’s position is that the Minister cannot reopen the 2001 taxation year solely on the basis of his net worth analysis. Mr. Misiak relies on the decision of Bowman C.J. in 943372 Ontario Inc. v. The Queen[3] in support of his position. In that case the Minister assessed the corporate taxpayer on alleged unreported sales of about $697,000. The individual appellant was the manager of the corporate taxpayer, which was owned by the individual appellant’s daughter. The individual appellant was reassessed on the $697,000 of alleged unreported sales made by the corporate taxpayer, the reassessment being based on the results of a net worth analysis.
+[15] Owing to his discomfort with the net worth assessment, Bowman C.J. decided the case in favour of the appellant and made the following observations:
+10 There is one other problem about the Crown’s case against Valerie Sr. that I find somewhat troubling. The 2001 assessments against Valerie Sr. are statute-barred and can only be salvaged if the conditions in subsections 152(4) and 152(4.01) are met. The 2001 assessments against Valerie Sr. are net worth assessments. They are arbitrary assessments not specifically based on any particular sources of income. How can a net worth assessment ever meet the conditions set out in subsection 152(4.01)? To conform to subsection 152(4.01) a reassessment under subsection 152(4) must be limited by the words in subsection 152(4.01) “... to the extent that, but only to the extent that, it [the reassessment] can reasonably be regarded as relating to a misrepresentation attributable to neglect, carelessness or wilful default or any fraud ...”. . . .
+[Emphasis added.]
+[16] For taxation years that are not statute-barred, a taxpayer has the burden of demonstrating that his income was less than that determined by a net worth assessment. The taxpayer can discharge his evidentiary burden by showing that he received non-taxable amounts or borrowed money that was not accounted for in the net worth analysis calculations. He can prove that his net assets in the base year were higher than the net assets determined by the Minister for that year. The taxpayer can lead convincing evidence to reconstruct his income. However, when the proverbial shoe is on the other foot and the year is otherwise statute-barred, the Minister faces the very same evidentiary burden: the Minister must lead reliable evidence to establish on a balance of probabilities that the taxpayer has understated his income as a result of neglect, carelessness or wilful default on his part.
+[17] The evidence presented by the Minister in the present situation does not meet this standard. The whole of the Respondent’s case rests on the narrow premise that the net worth analysis establishes a significant discrepancy between Mr. Misiak’s and his wife’s reported income and an estimate of their family’s personal living expenses for the 2001 taxation year. The estimate was established by reference to figures from StatsCan for a family consisting of a husband and wife and three or more children. No one was called to explain how these figures were established. Counsel for the Respondent acknowledges that the figures are national averages. No evidence was led to establish how those averages were determined or to show how they may relate to Mr. Misiak’s earning power in the tile installation trade and his family’s lifestyle in 2001. When a taxation year is statute-barred, the Minister cannot simply assume a figure for a taxpayer’s living expenses and claim victory if the taxpayer does not demolish his assumption. The Minister can only do this if the reassessment has been issued within the normal reassessment period. The ITA does not require taxpayers to keep records of their personal expenditures.
+[18] I can appreciate that Mr. Misiak would have difficulty reconstructing his personal living expenses many years after the fact. However, the burden was on the Minister to lead reliable evidence regarding Mr. Misiak’s personal living expenses. The Respondent failed to do so and, as a result, the 2001 taxation year remains statute-barred.
+[19] I reach an altogether different conclusion with respect to all of the other issues that are in dispute in the present cases. Mr. Misiak admits that the Corporation underreported its income for the 2002 taxation year. The CRA auditor believes that Mr. Misiak appropriated the unreported income to fund his personal living expenses. She relies on the net worth analysis to draw this conclusion. Mr. Misiak has the burden of showing that his personal living expenses were less than those assumed by the Minister because that year is not statute-barred. He and his agent could have put into evidence the books and records of the Corporation to show that no funds were appropriated by Mr. Misiak for his personal benefit. A balance sheet and details concerning the Corporation’s cash flow over the relevant period could have been introduced into evidence by Mr. Misiak to show that all of the Corporation’s net earnings were reinvested in its business. This was not done and I draw a negative inference from that fact. No reliable evidence was led by the Corporation to show that the expenses that were disallowed for the 2002 and 2003 taxation years were expenses incurred for the purpose of earning income from the operation of its business.
+[20] For all these reasons, the appeals are to be dealt with as follows:
+1. Mr. Misiak’s appeal from the reassessment issued under Part IX of the ETA for the period from January 1, 2001 to December 31, 2003 is allowed and the reassessment is vacated.
+2. Mr. Misiak’s appeal from the reassessment issued under the ITA for the 2001 taxation year is allowed and the reassessment is vacated.
+3. Mr. Misiak’s appeal from the reassessment issued under the ITA for the 2002 taxation year is dismissed.
+4. Mr. Misiak’s appeal from the reassessment issued under the ITA for the 2003 taxation year is dismissed.
+5. The Corporation’s appeal from the reassessment issued under the ITA for the 2002 taxation year is allowed and sent back for reconsideration and reassessment to reduce the amount of unreported income from $53,440 to $30,234.
+6. The Corporation’s appeal from the reassessment issued under the ITA for the 2003 taxation year is dismissed.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated January 6, 2011.
+Signed at Ottawa, Canada, this 12th day of December 2011.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2011 TCC 1
+COURT FILE NOS.: 2008-3574(GST)I, 2008-3575(IT)I,
+2008-3578(IT)I
+STYLES OF CAUSE: WALDEMAR MISIAK v.
+HER MAJESTY THE QUEEN, INDEPENDENT CONSTRUCTION BUSINESS INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: September 21 and 22, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF AMENDED JUDGMENT
+AND AMENDED REASONS FOR
+JUDGMENT: December 12, 2011
+APPEARANCES:
+Agent for the Appellants:
+Costa A. Abinajem
+Counsel for the Respondent:
+Rishma Bhimji
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The word “carelessness” typically involves failing to make reasonable efforts to comply with the ITA; see Bérubé v. Canada, [2002] T.C.J. No. 107 (QL). “Neglect” has been defined as action contrary to the reasonable care that is ordinarily or normally exercised by a wise and prudent person in any given circumstance; see Venne v. Canada, [1984] F.C.J. No. 314 (QL).
+[2] See Mensah v. The Queen, 2008 TCC 378.
+[3] 2007 TCC 294.

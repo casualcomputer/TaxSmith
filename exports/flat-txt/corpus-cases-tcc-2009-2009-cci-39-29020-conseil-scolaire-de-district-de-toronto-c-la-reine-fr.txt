@@ -1,0 +1,290 @@
+Title: Conseil Scolaire de District de Toronto c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29020/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-39-29020-conseil-scolaire-de-district-de-toronto-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-20
+
+# Conseil Scolaire de District de Toronto c. La Reine
+
+- Citation: 2009 CCI 39
+- Decision date: 2009-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6768, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Conseil Scolaire de District de Toronto c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-20
+Référence neutre
+2009 CCI 39
+Numéro de dossier
+2006-1432(GST)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006‑1432(GST)G
+ENTRE :
+LE CONSEIL SCOLAIRE DE DISTRICT DE TORONTO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 3 décembre 2008 à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelant :
+Me Salvatore Mirandola
+et Me Jennifer Leve
+Avocat de l’intimée :
+Me Ernest Wheeler
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi sur la taxe d’accise, et dont les avis portent la date du 24 octobre 2005, relativement aux périodes du 27 août 2002 au 31 octobre 2003 et du 1er novembre 2003 au 18 février 2004, respectivement, sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2009
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 3e jour de juin 2009
+François Brunet, réviseur
+Référence : 2009CCI39
+Date : 20090120
+Dossier : 2006‑1432(GST)G
+ENTRE :
+LE CONSEIL SCOLAIRE DE DISTRICT DE TORONTO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Voici une fascinante histoire où se mêlent l'argent, la politique, le monde scolaire, les questions de compétence et de Constitution; cela dit, en fin de compte, il y a une question de droit à trancher.
+[2] Un décret de l’Ontario daté du 27 août 2002, a confié le contrôle de l’administration des affaires du Conseil scolaire de district de Toronto (le « CSDT ») au ministère de l’Éducation de cette province. Ce ministère a nommé un superviseur, M. Christie, qui est demeuré en poste jusqu’à la fin du mois d’octobre 2003. Ce mois‑là, une équipe de cogestion, formée de trois personnes, a été nommée par le ministre de l’Éducation sous le gouvernement libéral nouvellement élu, après la démission de M. Christie. Le décret a été abrogé en février 2004. Le CSDT a demandé le remboursement de 32 % de la taxe sur les produits et les services (la « TPS ») qu’il avait payée au cours de la période visée par le décret (en sus du remboursement de 68 % auquel il avait déjà eu droit), demandant en fait un remboursement de 100 %. La position du CSDT était que, au cours de la période visée par le décret, il était, à toute fin pratique, assimilable à la province de l’Ontario ou mandataire de cette dernière et que, selon l’article 125 de la Loi constitutionnelle de 1867[1] et de l’article 122 de la Loi sur la taxe d’accise[2], il était exonéré du paiement de la TPS.
+[3] L’Agence du revenu du Canada a rejeté la demande de remboursement au motif que le CSDT n’était ni la province de l’Ontario, ni mandataire de cette dernière. Au procès, l’intimée a soutenu que, même si le CSDT était mandataire de l’État, son mandat ne s’étendait pas à l’acquisition de biens et de services pour le compte du ministre. L’intimée a également soutenu que, si le CSDT était mandataire de la province de l’Ontario, il était assujetti à l’accord de réciprocité fiscale conclu entre l’Ontario et le Canada et ne bénéficiait de ce fait d’aucune exonération. Par ailleurs, à titre de mandataire de l’État, le CSDT n’a de toute façon pas qualité pour présenter la demande de remboursement, ni engager la présente action. Enfin, si le CSDT a effectivement qualité pour agir, l’article 262 de la Loi sur la taxe d’accise, qui interdit la présentation d'une seconde demande de remboursement, joue en l’espèce.
+Les faits
+[4] Le CSDT est une société régie par la Loi sur l’éducation[3]. Il est dirigé par un conseil de 22 conseillers élus, qui prennent les décisions concernant les finances, le personnel et les activités du conseil scolaire en général. Le CSDT ne sollicite pas l’autorisation du ministre pour les décisions qu’il prend; il agit plutôt de manière indépendante du ministre, sous réserve des fonds que lui alloue le gouvernement et de l’obligation, imposée par la Loi sur l’éducation, de présenter un budget équilibré. Les fonds que reçoit l’appelant proviennent des recettes tirées de la taxe sur les logements résidentiels et de la taxe sur les biens d’entreprise, de subventions provinciales et d’autres sources, telles que les frais de scolarité perçus auprès des non‑résidents et la location ou la vente de biens excédentaires. L’administrateur général du CSDT est le directeur de l’éducation. Il y a des surintendants administratifs chargés des services commerciaux, des ressources humaines, des installations, des programmes et des services scolaires, des questions juridiques et de l’équité. Il y a aussi 24 surintendants chargés de 24 districts dans la région de Toronto. Le CSDT est un organisme de bienfaisance enregistré et il est inscrit aux fins de la TPS. Il produit des déclarations de TPS mensuelles et a droit à un remboursement de 68 %, conformément à l’article 259 de la Loi sur la taxe d’accise.
+[5] Le CSDT fait l'objet d'un processus budgétaire annuel qui débute à l’automne de chaque année et qui aboutit au dépôt d’un budget équilibré auprès du gouvernement de l’Ontario à la fin du mois de juin suivant. En juin 2002, le Conseil n’a déposé aucun budget, car les conseillers n’avaient pas réussi à s’entendre sur un budget équilibré. En janvier‑février 2002, il est devenu évident aux yeux des conseillers qu’ils étaient aux prises avec un manque à gagner de 90 millions de dollars, mais ils ont refusé de couper une somme équivalente pour produire un budget équilibré. Au mois d’août, le ministre a nommé un enquêteur, qui a recommandé, dans un rapport remis le 20 août 2002, que le contrôle des affaires du CSDT soit attribué au ministère, conformément à la section D de la partie IX de la Loi sur l’éducation. Le ministre a souscrit à cette recommandation et, le 27 août 2002, un décret a été pris, disposant que :
+[traduction]
+POUR CES MOTIFS, en application du par. 257.31(2) de la Loi sur l’éducation, L.R.O. 1990, ch. E.2, le contrôle de l’administration des affaires du Conseil scolaire de district de Toronto est attribué au ministère de l’Éducation[4];
+[6] Le 30 août 2002, le ministre a nommé M. Paul Christie comme superviseur, en vertu du paragraphe 257.48(2) de la Loi sur l’éducation. M. Christie a clairement indiqué qu’il était connu du gouvernement conservateur, et il a reconnu son allégeance au gouvernement de l’époque. Il est important de faire état des attributions dont était assortie la nomination de M. Christie.
+[traduction]
+MISSION CONFIÉE AU
+SUPERVISEUR, CSD DE TORONTO
+Les pouvoirs et les fonctions du superviseur sont conformes à ceux qui sont énoncés dans les dispositions de la partie IX, section D de la Loi sur l’éducation.
+Dans le cadre de ses fonctions, le superviseur est tenu d’établir et de mettre en œuvre un plan visant à rééquilibrer la situation financière du Conseil scolaire de district de Toronto, et ce, en prenant en compte les recommandations et les constatations exposées dans le rapport de l’enquêteur.
+Est déléguée au superviseur le contrôle de l’exercice des pouvoirs et des fonctions et l’exécution des obligations du conseil, relativement à toute question, notamment celles qui sont énoncées à l’article 257.33 de la Loi sur l’éducation.
+À cette fin, le superviseur doit :
+1. établir une stratégie de communication destinée à informer de la situation les parents, les conseillers/membres du personnel du conseil et les membres du grand public, ainsi que de les rassurer au sujet du maintien du Conseil scolaire de district de Toronto et de l’engagement de celui-ci à fournir aux élèves des services d’éducation d’excellente qualité.
+2. veiller à disposer des liquidités nécessaires pour répondre aux obligations financières du conseil;
+3. solliciter l’avis des conseillers, des membres du personnel du conseil et d’autres parties dans le cadre de toute affaire qu’il juge appropriée, ce qui inclut l’établissement de comités du conseil;
+4. dresser un plan stratégique qui rééquilibrera la situation financière du conseil, en tenant compte des recommandations et des constatations énoncées dans le rapport de l’enquêteur; ce plan consiste à relever les mesures précises qui seront mises en application pour atteindre cet objectif.
+5. diriger et superviser la mise en œuvre du plan;
+6. faire état des progrès accomplis au sous‑ministre adjoint, Opérations et finances de l’éducation élémentaire/secondaire[5].
+[7] M. Christie, comme il l’a reconnu, croyait que l'étendue de sa mission était vaste – « l’État, c'est moi ». Je conclus qu’il avait des pouvoirs plus vastes que ceux des conseillers eux‑mêmes.
+[8] Le 17 septembre 2002, M. Christie, avec le concours de M. McVicar, lui aussi nommé par le gouvernement pour l'assister, a publié des lignes directrices sur les rôles ainsi que les règles et les responsabilités des conseillers; en voici quelques-unes :
+[traduction]
+[…]
+2. Tous les comités et toutes les réunions du conseil, y compris les réunions spéciales, sont suspendus pour le mois de septembre.
+3. Les réunions du conseil et des comités reprendront en octobre, comme prévu, pour recevoir des informations, adopter des procès‑verbaux et donner des conseils au superviseur par l’intermédiaire du directeur.
+[…]
+6. La tâche qu’ont les comités d’élaborer des recommandations de principe se limitera aux membres du personnel. Toutes les politiques seront examinées et approuvées par le superviseur, et l'examen complet de l’ensemble des politiques a été entrepris.
+7. Toutes les questions relatives au personnel et tous les changements de personnel seront approuvés par le superviseur ou, sinon, gérés selon le processus que le superviseur aura entériné.
+8. Toutes les initiatives des conseillers appelant des dépenses à partir des ressources du conseil ou à mettre à contribution des membres du personnel seront soumises à l’approbation du superviseur, par l’intermédiaire du directeur.
+9. Les communications écrites des conseillers à la collectivité en général ainsi qu’à des intervenants externes, et qui sont faites au moyen de ressources et aux frais du conseil, y compris les services de messagerie, sont suspendues jusqu’à nouvel ordre.
+[…]
+11. Aucune dépense excédant les allocations et aucune dépense excédant les sommes prévues par la Loi sur l’éducation ne sera payée. Toutes les dépenses relatives aux conférences seront approuvées par le superviseur […][6].
+[9] Cela donne un aperçu de la nature restrictive de ces lignes directrices. M. Christie a convenu que les conseillers les ont mal accueillies. Ces derniers ne pouvaient pas se réunir officiellement, mais ils pouvaient tenir des réunions publiques officieuses ‑ et ils l’ont fait – mais ils n’étaient pas autorisés à mener des activités quelconques.
+[10] En novembre 2002, M. Christie a diffusé une autre note de service, assouplissant quelque peu ces restrictions et laissant entendre que les conseillers pouvaient se réunir pour examiner les questions qu’il leur soumettrait. Il les a aussi autorisés à demander la tenue d’une réunion, tout en indiquant clairement encore qu’ils n’avaient aucun pouvoir à exercer à l’occasion de ces réunions. Même s’ils ont bel et bien donné des conseils, il était évident que M. Christie n’était pas obligé de les suivre, et il ne l’a souvent pas fait. Il se servait du directeur de l’éducation comme tampon entre lui‑même et les conseillers. Il comptait nettement plus sur le personnel du CSDT que sur les conseillers pour prendre ses décisions. D'ailleurs, M. Higgins, le surintendant administratif des finances, a indiqué que M. Christie suivait toujours ses conseils financiers.
+[11] En collaborant principalement avec le personnel, M. Christie a pu présenter un budget équilibré aux médias le 19 novembre 2002 pour l’année 2002‑2003. Il a reconnu que les conseillers, contrairement aux membres du personnel, avaient fort peu contribué à la réalisation de cet objectif. M. Christie rencontrait régulièrement aussi le sous‑ministre adjoint, M. Hartmann, ainsi que le personnel chargé des finances au ministère de l’Éducation. Il rencontrait parfois des gens au cabinet du premier ministre ainsi que des membres du caucus afin de se faire une meilleure idée de la situation politique. Il a été décidé avec le ministère qu’une partie du déficit pourrait être passée en charges à terme.
+[12] En juillet 2003, M. Christie a rendu public le budget de 2003‑2004, après avoir suivi un processus semblable à celui de l’année précédente. Ce budget faisait état d’un déficit de 54 millions de dollars. M. Christie a expliqué que tant qu’il démontrait au ministère que le CSDT avait un plan pour se sortir du financement déficitaire, c’est‑à‑dire un plan de rétablissement étalé sur trois ans, le déficit budgétaire d’un an serait acceptable. Comme l’a indiqué M. Christie, quand il a informé le sous‑ministre adjoint, le cabinet du premier ministre et les membres du caucus des conséquences très sérieuses qu’auraient des réductions additionnelles, les autorités politiques n'avaient aucune envie de forcer la production d'un budget équilibré.
+[13] Durant son mandat de superviseur, M. Christie a documenté 401 décisions prises au cours de 35 réunions décisionnelles. M. Tomczak, le gestionnaire principal des services du conseil, est celui qui a documenté ces décisions, car, durant de nombreux mois, il a rencontré tous les jours M. Christie. Ces réunions décisionnelles avaient principalement lieu en compagnie du directeur de l’éducation et de l’équipe de la haute direction. M. Christie a également tenu de nombreuses réunions officieuses avec les membres du personnel. Les conseillers n’ont pas assisté à ces réunions, mais M. Christie a parfois sollicité leur avis, conformément à sa mission.
+[14] MM. Tomczak et Christie ont passé en revue plusieurs des 401 décisions que M. Christie avait prises, pour me donner une certaine idée de leur nature. Il est évident que M. Christie pouvait prendre des décisions – et il l’a fait – sur les moindres aspects des activités du conseil. M. Tomczak est allé jusqu’à laisser entendre que M. Christie pouvait prendre des décisions sur des éléments d’information, lesquels n’en appelaient aucune. Il a déclaré que jamais les conseillers ne feraient une telle chose – il y avait une démarcation bien nette entre les responsabilités des conseillers et celles des membres du personnel. Ce n’était pas le cas de M. Christie; il pouvait se mêler de tout.
+[15] M. Christie s’est entretenu avec des hauts fonctionnaires du gouvernement pendant toute la durée de sa mission, mais cela a pris subitement fin quand le gouvernement libéral est arrivé au pouvoir à l’automne de 2003. Il était évident aux yeux de M. Christie que ce gouvernement avait un programme différent, et voulait donc revenir à une structure de gouvernance démocratique à base communautaire. Le sous‑ministre adjoint a laissé entendre que M. Christie devait peut‑être être prêt à démissionner incessamment. Celui‑ci l’a fait et sa démission a été acceptée le 31 octobre 2003. M. Christie a résumé de deux façons le temps qu’il a consacré à ses fonctions de superviseur : premièrement, il a changé l’orientation financière du CSDT; deuxièmement, il a toujours agi en présumant qu’il représentait le CSDT avec l’accord du ministre, et qu’il devait rendre des comptes aux élèves et aux parents.
+[16] Entre le 31 octobre 2003 et l'abrogation du décret en février 2004, le nouveau gouvernement a confié le contrôle de l’administration des affaires du CSDT à une équipe de cogestion, formée de M. Hartmann, le sous‑ministre adjoint, de Mme Shelley Laskin, la présidente du conseil d’administration, et de M. David Reid, le directeur de l’éducation. Ces trois personnes ont été chargées des activités quotidiennes du CSDT et étaient habilitées à exercer tous les pouvoirs et à remplir toutes les obligations du ministre sous le régime de la section D de la partie IX de la Loi sur l’éducation. En fin de compte, ils ont repris la mission de M. Christie, la seule différence étant qu’au lieu d’un homme‑orchestre, c’était maintenant un triumvirat qui représentait le gouvernement, les conseillers et les membres du personnel. Selon M. Tomczak, il s’agissait d’une façon de rendre un peu les rênes aux conseillers tout en veillant à ce que le budget ne dérape pas. Durant ces quelques mois, les structures des comités de conseillers ont été restaurées, mais les décisions étaient encore soumises à l’approbation de l’équipe de cogestion. Il y a eu moins d’interaction entre le personnel et l’équipe de cogestion qu’il n’y en avait auparavant entre le personnel et M. Christie. L’équipe de cogestion recevait des conseils des conseillers, mais là encore elle ne les suivait pas toujours.
+[17] M. Tomczak a assisté à toutes les réunions décisionnelles de l’équipe de cogestion. Il a clairement indiqué qu’en cas de désaccord, c’était le sous‑ministre adjoint, M. Hartmann, qui avait le dernier mot.
+[18] Pendant toute la durée de la période de supervision et de la période de cogestion, le CSDT n’a jamais perdu son statut d’entité juridique distincte; il a acheté et vendu des biens en son propre nom, il a établi ses propres états financiers et les employés sont restés les employés du CSDT. Comme l’a résumé M. Higgins, la principale différence était le processus décisionnel, qui était nettement simplifié.
+[19] Par la voie d’un décret daté de février 2004, le décret de 2002 a été abrogé. En mars 2004, le CSDT a présenté sa demande de remboursement de deux sommes d’environ 6 590 000 $ et 1 771 000 $, à titre de remboursements de montants de taxe payés par erreur, conformément aux articles 261 et 262 de la Loi sur la taxe d’accise, durant la période de supervision et la période de cogestion, respectivement. Le ministre a rejeté ces demandes.
+Le cadre législatif
+[20] L’article 125 de la Loi constitutionnelle de 1867 exclut l’imposition de la TPS aux gouvernementaux des provinces ou à leurs mandataires :
+125 Aucune terre ou propriété appartenant au Canada ou à une province ne sera sujette à taxation.
+[21] L’article 122 de la Loi sur la taxe d’accise oblige la province, à titre de fournisseur, à percevoir et à verser la taxe, mais il n’y est pas mentionné que la province est tenue de la payer :
+122 La présente partie lie :
+a) […]
+b) Sa Majesté du chef d’une province en ce qui concerne une obligation à titre de fournisseur de percevoir et de verser la taxe relative aux fournitures taxables qu’elle effectue. […]
+[22] Le paragraphe 259(3) de la Loi sur la taxe d’accise permet au CSDT de demander un remboursement de 68 % :
+259(3) Sous réserve des paragraphes (4.1) à (4.21) et (5), le ministre rembourse la personne (sauf une personne désignée comme municipalité pour l’application du présent article, un inscrit visé par règlement pris en application du paragraphe 188(5) et une institution financière désignée) qui, le dernier jour de sa période de demande ou de son exercice qui comprend cette période, est un organisme déterminé de services publics, un organisme de bienfaisance ou un organisme à but non lucratif admissible. Le montant remboursable est égal au total des montants suivants :
+a) le montant qui correspond au pourcentage établi de la taxe exigée non admise au crédit relativement à un bien ou à un service, sauf un bien ou un service visés par règlement, pour la période de demande;
+b) le montant qui correspond au pourcentage provincial établi de la taxe exigée non admise au crédit relativement à un bien ou à un service, sauf un bien ou un service visés par règlement, pour la période de demande.
+[23] Le paragraphe 261(1) de la Loi sur la taxe d’accise permet à une personne de demander le remboursement d’un montant payé par erreur :
+261(1) Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d’une autre obligation selon la présente partie alors qu’elle n’avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu’il ait été payé par erreur ou autrement.
+[24] Le paragraphe 262(2) de la Loi sur la taxe d’accise n’autorise qu’une seule demande de remboursement dans le cadre de la section VI :
+262(2) L’objet d’un remboursement ne peut être visé par plus d’une demande selon la présente section.
+[25] La section D de la partie IX de la Loi sur l’éducation expose la procédure à suivre pour confier au ministre le contrôle de l’administration des affaires d’un conseil. Les dispositions pertinentes sont jointes ci‑après, à l'annexe « A ».
+[26] Il est utile d’exposer à ce stade‑ci certains éléments de l’accord de réciprocité fiscale du 30 juin 2000[7], qui a été conclu entre l’Ontario et le Canada, et ce, même si cet instrument ne fait pas partie du cadre législatif :
+[traduction]
+1. Les définitions qui suivent s’appliquent au présent accord.
+a) « Loi fédérale » La Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15.
+b) « taxe fédérale » Toute taxe prévue par la Loi fédérale, à l’exception de la taxe à la valeur ajoutée.
+[…]
+f) « taxe à la valeur ajoutée » Toute taxe prévue par la partie IX de la Loi fédérale.
+[…]
+4. Il est entendu que ni le Canada ni la Province ne sont réputés, pour avoir conclu le présent accord, avoir cédé ou abandonné les pouvoirs, droits, privilèges ou attributions qui lui sont conférés par la Constitution du Canada, ou être lésés dans l’un ou l’autre de ces pouvoirs, droits, privilèges ou attributions.
+[…]
+6. La Province convient :
+a) […]
+b) les sociétés ou les organismes d’État provinciaux, autres que les entités énumérées à l’annexe A, paieront la taxe à la valeur ajoutée d’une manière conforme à la Loi fédérale, comme si cette Loi s’appliquait à eux;
+[…]
+ANNEXE A
+[…]
+Ministère de l’Éducation
+Conseil consultatif de l’éducation de l’enfance en difficulté
+Commission des langues d’enseignement de l’Ontario
+Conseil ontarien des parents
+Commission d’appel du Régime d’aide financière aux étudiantes et étudiants de l’Ontario
+Administration des écoles provinciales
+Commission de sélection (Régime de bourses d’études supérieures de l’Ontario)
+[27] Un représentant du ministère des Finances de l’Ontario, M. Goethel, a pris part aux négociations entourant cet accord. Il a déclaré que le but visé était de simplifier les rapports des fournisseurs avec les entités gouvernementales. Il a confirmé que seuls les organismes d’État énumérés à l’annexe A étaient exonérés de taxe. Il a également indiqué que la question des conseils scolaires n’a pas été prise en considération. Les critères suivis pour déterminer quelles entités étaient admises en tant que mandataires de l’État aux fins de l’annexe A ont été les suivants :
+i) il fallait qu’elles soient mandataires de l’État;
+ii) elles ne pouvaient pas se livrer à une concurrence commerciale avec le secteur privé.
+iii) il devait y avoir une uniformité nationale.
+[28] Durant la période de validité de l’accord de réciprocité fiscale, quelques entités ont été ajoutées à la liste de l’annexe A, mais le CSDT n’en faisait pas partie.
+Les questions en litige
+[29] La question primordiale consiste à savoir si, pour la période d’août 2002 à février 2004, le CSDT avait droit à des remboursements de la TPS parce qu’il était exonéré de cette taxe aux termes de l’article 125 de la Loi constitutionnelle de 1867 et de l’article 122 de la Loi sur la taxe d’accise. Pour répondre à cette question, l’appelant a soutenu qu’il me fallait me prononcer sur les questions suivantes :
+i) Pendant la période en cause, le CSDT était‑il une entité ou un mandataire de l’État, ce qui le rendait admissible à l’exonération dont jouit l’État?
+ii) Dans l’affirmative, le CSDT a-t-il qualité pour présenter la demande de remboursement et interjeter le présent appel?
+iii) Dans l’affirmative, a-t-il une incidence sur son exonération?
+iv) Vu l’article 262 de la Loi sur la taxe d’accise, est‑il exclu que le CSDT puisse solliciter le remboursement de paiements faits par erreur, puisqu’il a déjà demandé des remboursements?
+Analyse
+i) Pendant la période en cause, le CSDT était‑il une entité ou un mandataire de l’État, ce qui le rendait admissible à l’exonération dont jouit l’État?
+[30] Avec le respect que je dois aux avocats et à leur excellente argumentation, je suis d’avis qu'il est déplacé de mettre l’accent sur le mandat de l’État. L’article 125 de la Loi constitutionnelle de 1867 exonère expressément de taxe toute « […] terre ou propriété appartenant à […] [une] province ». La question qu’il convient donc de poser n’est pas de savoir s’il existe un mandat de l’État (l’intimée a effectivement reconnu que le gouvernement exerçait un contrôle de droit sur le CSDT), mais si, dans les circonstances, la TPS était une taxe sur une terre ou une propriété appartenant à l’Ontario. En fin de compte, en contrôlant l’administration et les affaires du CSDT, la province de l’Ontario est‑elle devenue la propriétaire de biens appartenant au CSDT? Je réponds par la négative.
+[31] Une question semblable d’exonération (ou d’immunité), mais pas dans le contexte d’une affaire de nature fiscale, a été étudiée par la Cour d’appel de la Colombie‑Britannique dans l’arrêt British Columbia Power Corporation Ltd. v. Attorney General of British Columbia and British Columbia Electric Co. Ltd.[8]. Dans cette affaire, il existait un mandat en vertu du paragraphe 6(1) de la Power Development Act, 1961[9], lequel énonçait : [traduction] « [l]a société est mandataire de Sa Majesté la Reine du chef de la province ». Le juge en chef DesBrisay fait les observations suivantes :
+[traduction]
+7 La loi en cause ne prétend pas faire davantage que désigner Sa Majesté comme le seul actionnaire de la société appelante; elle ne transmet donc pas à Sa Majesté les biens ou les fonds appartenant à l'appelante et ne fait pas de celle‑ci un mandataire de Sa Majesté. Il n'y a aucun doute que tous les biens de la société appelante lui appartiennent et que telle était l'intention du législateur. Les fonds à verser ne sont pas des fonds publics. Ses préposés ne sont pas des fonctionnaires; il ne s'agit pas d'un ministère et ses biens ne sont pas des biens de la Couronne.
+8 À mon avis, les termes « mandataire de Sa Majesté la Reine » au paragraphe 6(1) ne peuvent être interprétés de manière à faire de la société appelante un mandataire de la Couronne, sauf dans les cas où elle exerce une fonction, exécute un ordre ou agit pour le compte de Sa Majesté, ou dans les cas où elle détient ou gère des fonds publics ou des biens de Sa Majesté. À mon sens, il est clair que la société n'agit pas comme mandataire de la Couronne lorsqu'elle exécute les directives de l'Assemblée législative. […]
+[32] Par ailleurs, le juge Sheppard, dans le même arrêt, fait les observations suivantes :
+[traduction]
+16 Quant aux ordonnances en matière d'interrogatoires préalables, la Electric Company allègue qu'elle est mandataire de la Couronne et qu'elle bénéficie donc la prérogative royale et donc de l'immunité contre l'interrogatoire préalable; plus précisément, elle est devenue « préposée de la Couronne de manière à être visée par la prérogative » : Metropolitan Meat Industry Bd. v. Sheedy, [1927] A.C. 899, le vicomte Haldane à la p. 905. À cette fin, la compagnie s'appuie sur le paragraphe 6(1) de la loi, lequel dispose que : « La société est mandataire de Sa Majesté la Reine du chef de la province ». Ce texte n'énonce pas les opérations à l'égard desquelles la relation de mandataire existe ni les pouvoirs du mandataire dans le cadre de ces opérations : la société soutient qu'en vertu du paragraphe 6(1), elle a été désignée mandataire de la Couronne « à toutes fins et avec le pouvoir d'agir uniquement en tant que mandataire ».
+17 Une telle interprétation se heurte à certaines difficultés. Elle sollicite ce texte et, quoi qu'il en soit, la relation de mandataire ainsi définie ne confère pas nécessairement l'immunité au mandataire. […]
+[33] De plus, dans l’arrêt de la Cour suprême du Canada Administration du Pipe‑line du Nord c. Perehinec[10], où la question était de savoir si Pipe‑line du Nord, en tant que mandataire fédéral, ne pouvait être poursuivie que devant la Cour fédérale, le juge Estey fait les observations suivantes :
+Dans leurs plaidoiries, l’appelant et l’intimée ont beaucoup insisté sur la question de savoir si l’appelante est un mandataire de l’État. En fait, les deux cours d’instance inférieure ont répondu par l’affirmative. Pour les motifs que j’énoncerai plus loin, je ne crois pas que la réponse à cette question a pour effet de déterminer l’issue du présent pourvoi.
+[…]
+Si on applique aux dispositions de la loi qui crée l’appelante le principe du contrôle énoncé dans les arrêts précités du Conseil privé et de cette Cour (et appliqué par la Cour d’appel de la Colombie‑Britannique), il semblerait que l’appelante est effectivement un mandataire de l’État, du moins lorsqu’elle s’acquitte de sa fonction première qui est de veiller à la conception, à la construction et à l’installation du pipe‑line. Avec égards, je souscris sur ce point aux conclusions des deux cours d’instance inférieure. Cependant, comme je l’ai fait remarquer au début, la détermination de ce statut ou de ce lien ne règle pas la question soulevée en l’espèce. Pour ce faire, je suis d’avis qu’il nous faut examiner, dans la loi qui crée l’Administration, les dispositions qui lui accordent le pouvoir de conclure les contrats du genre de celui dont il est question au paragraphe 4 précité de la déclaration.
+[…]
+Cela dit, j’estime que le processus nous ramène au principe général énoncé par le juge Duff, alors juge puîné, dans l’arrêt Quebec Liquor Commission, précité. La possibilité de poursuivre en justice un organisme créé par la loi doit être déterminée suivant une interprétation juste de la loi en question. Les cours des provinces ont donné des exemples de ce processus. […]
+[34] Je déduis de ces observations que je me dois d’examiner la loi (la « Loi sur l’éducation ») qui confère juridiquement au gouvernement de l’Ontario le contrôle de l'éducation pour décider s’il s’y trouve un élément susceptible de rattacher l’exonération de taxe à un conseil scolaire administré. Compte tenu du contexte, j’ai affaire à une taxe sur des biens de la Couronne. Il me faut donc trouver quelque chose dans la Loi sur l’éducation qui transfère concrètement à l’État la propriété de biens du CSDT. Je n’y trouve pas une telle disposition, mais plutôt des textes qui vont tout à fait en sens contraire; la propriété demeure entre les mains du CSDT. Il n'en ressort aucune exonération de taxe.
+[35] Le paragraphe 257.38(1) de la Loi sur l’éducation fait état « des sommes d’argent appartenant au conseil ». Il s’agit manifestement de sommes d’argent du CSDT, sur lesquelles la Couronne exerçait un certain contrôle, mais cela n’en fait pas des biens de la Couronne. Cette disposition renforce la position selon laquelle les biens demeurent la propriété du CSDT.
+[36] L’article 257.43 de la Loi sur l’éducation est plus important et il vaut la peine d'en reproduire le texte à ce stade‑ci :
+257.43 Lorsqu’un conseil est assujetti à un décret pris en vertu du paragraphe 257.31 (2) ou (3), les actes accomplis par le ministre ou en son nom en vertu de la présente section, relativement aux affaires du conseil, sont à toutes fins réputés l’avoir été par ce conseil, pour lui et en son nom.
+[Non souligné dans l’original.]
+[37] Il y a deux façons de concevoir l’article 257.33. Premièrement, il peut être conçu comme une disposition reconnaissant qu’il peut y avoir suffisamment de contrôle pour que cela constitue un mandat de l’État en common law, mais que, légalement, ce mandat est limité et n'assimile pas les actes du superviseur à ceux du ministre; le mandat confirme que ces actes sont ceux du conseil. Et, certainement, tout bien acquis au cours de la période de dévolution est un bien du conseil, et non du ministre, et il ne s’agit pas non plus d’un bien acquis au nom de celui-ci. Là encore, les fonds du CSDT n’étaient pas des fonds de l’État, et ce, indépendamment du fait que je conclue ou non à l’existence d’un mandat de l’État en common law.
+[38] On peut aussi concevoir que cette disposition constitue comme un remède général au mandat de l’État en common law, et donc rejeter carrément cette qualification. La même loi qui crée les caractéristiques de contrôle et permet de conclure à l’existence d’un mandat de l’État en common law rejette expressément aussi l’idée d’un mandat de l’État en termes généraux : « les actes accomplis par [le superviseur] sont à toutes fins réputés l’avoir été par ce conseil […] ».
+[39] Même s’il est inutile, vu mon approche, de me prononcer sur la question de l’existence d’un mandat de l’État en common law, je voudrais dire quelques mots à ce sujet, car l’appelant, dans l'exposé de sa thèse, y a consacré un certain temps. Premièrement, rien ne permet de conclure que le CSDT était de quelque façon intégré au ministère de l’Éducation et en était devenu un élément. Cela n’a pas été le cas. La question est de savoir si le CSDT était un mandataire de l’État.
+[40] Une entité peut être mandataire de l’État de deux manières : soit en vertu d’une loi, soit selon la common law. Le CSDT n’a pas été désigné comme un mandataire de l’État par une loi (à vrai dire, comme je l’ai indiqué, c’est plutôt le contraire). Le critère de la common law permettant de déterminer l’existence d’un mandat de l’État (ou de la Couronne) est fondé sur le degré de contrôle juridique. Dans l’arrêt de la Cour suprême du Canada Halifax (City) v. Halifax Harbour Commissioner[11], la Cour fait les observations suivantes à propos des commissaires :
+[traduction]
+[…] les pouvoirs qu’ils détiennent sont tirés d’une loi du Parlement canadien; mais, en exerçant ces pouvoirs, ils sont constamment assujettis au contrôle du gouverneur qui représente Sa Majesté et suivent les conseils du Conseil privé de Sa Majesté pour le Canada […]
+Je ne puis douter que les services envisagés par cette loi sont non seulement des services publics dans le sens général du terme, mais aussi, dans le sens le plus strict, des services gouvernementaux; en outre, l’occupation par le gouvernement du bien qui nous intéresse est une occupation par des personnes qui « utilisent » ces biens « exclusivement au service de la Couronne ».
+[41] En outre, dans l’arrêt R. c. Eldorado Nucléaire Ltée.[12], la Cour fait l'observation suivante :
+En common law, la question de savoir si une personne est un mandataire ou un préposé de l’État dépend du degré de contrôle que l’État, par ses ministres, peut exercer sur l’exécution de ses fonctions. Plus ce contrôle est sévère, plus la personne est susceptible d’être reconnue comme mandataire de l’État. Lorsqu’une personne, physique ou morale, exerce un pouvoir discrétionnaire important non assujetti au contrôle ministériel, la common law lui refuse le statut de mandataire de l’État. Il ne s’agit pas de savoir à quel point la personne est autonome en fait, mais de savoir quelle mesure d’autonomie elle peut revendiquer en raison des conditions de sa nomination et de la nature de ses fonctions […].
+[42] La personne désignée par le ministre de l’Éducation, M. Christie, exerçait manifestement un contrôle de fait sur l’administration et les affaires du CSDT. C’est ce qui ressort de son témoignage, ainsi que de celui de MM. Tomczak et Higgins. Les conseillers n’avaient aucun pouvoir décisionnel, comme l’indiquent clairement deux notes de service dans lesquelles M. Christie précisait les restrictions imposées aux pouvoirs des conseillers. D'ailleurs, M. Christie a pris des décisions que les conseillers eux‑mêmes n’auraient même pas pu prendre, en raison de son pouvoir général et de ses liens étroits avec le gouvernement conservateur; par exemple, les conseillers n’auraient pas pu prendre la décision d’avoir un budget déficitaire en 2003‑2004. M. Christie a également micro‑géré les affaires du CSDT en allant nettement plus loin que ce que les conseillers du CSDT auraient fait. Le superviseur exerçait son contrôle en ce qui concerne à la fois les questions de gouvernance et les questions de gestion. Le contrôle de fait ressort si clairement de la preuve qu’il est inutile, selon moi, d’examiner plus en détail cette question.
+[43] Comme je l’ai indiqué toutefois, il ne s’agit pas d’une affaire de contrôle de fait, mais de contrôle de droit. En l’espèce, je conclus que l’un découlait de l’autre. Comme l’a fait valoir l’appelant, la section D de la partie IX de la Loi sur l’éducation prévoit un degré extraordinaire de contrôle dans les circonstances où une ordonnance de dévolution a été rendue.
+[44] En résumé, le ministre exerçait un contrôle sur tout. Il pouvait faire n’importe quoi et, en fait, par l’entremise de M. Christie, il a tout fait. Là encore, je n’ai pas jugé nécessaire de m’étendre sur cette question de contrôle car, premièrement, je suis d’avis que la loi et les circonstances dénotent clairement l’existence d’un contrôle de droit et d’un contrôle de fait au cours de la période du superviseur et de la période de cogestion, et, deuxièmement, l’intimée a reconnu que : [traduction] « dans la présente affaire, le contrôle de droit exercé sur les affaires de l’appelant en vertu de l’ordonnance de dévolution a été absolu pendant la durée de l’ordonnance […] ».
+[45] Les deux parties conviennent donc de l’existence d’un contrôle de droit. L’appelant soutient que cela suffit pour que le CSDT, en tant qu’élément ou mandataire du gouvernement de l’Ontario, soit exonéré. Comme je l’ai déjà indiqué, je ne saurais dire que ce statut à lui seul exonère le CSDT de la taxe.
+[46] Mon point de vue est étayé non seulement par Loi sur l’éducation elle‑même, comme je l’ai déjà expliqué, mais aussi par la jurisprudence. Ainsi que l’indique la Cour suprême du Canada dans l’arrêt Nova Scotia Power Inc. c. Canada[13] :
+14 L’intimée soutient que, en raison de l’art. 17 de la Loi d’interprétation, la NSPC, à titre de mandataire de l’État, échappe à l’application de la Loi de l’impôt sur le revenu. Or, la jurisprudence prévoit une deuxième condition pour qu’un mandataire de l’État bénéficie d’une telle immunité. L’entité doit agir dans le cadre des objectifs pour lesquels le législateur l’a désignée mandataire de l’État : voir Eldorado Nucléaire, précité; Société Radio‑Canada c. La Reine, [1983] 1 R.C.S. 339; Alberta Government Telephones c. Canada (Conseil de la radiodiffusion et des télécommunications canadiennes), [1989] 2 R.C.S. 225.
+[47] En l'espèce, la raison d’être d’un mandat de l’État était de prendre le contrôle des affaires du conseil – de diriger en fait ce dernier. Il n’avait pas eu pour effet de transformer les biens du conseil en biens de l’État. Le conseil n’avait pas le pouvoir, même sous les ordres du superviseur, d’acquérir des biens au nom de la province de l’Ontario, à titre de mandataire de cette dernière ou autrement. Aucun mandat de l’État n’allait aussi loin que cela. Le CSDT a demandé un remboursement de la TPS mais, en ce faisant, elle ne demandait pas qu’on lui rembourse des fonds de l’État.
+[48] Je me reporte de nouveau à l’arrêt Halifax (City) v. Halifax Harbour Commissioner où il est clairement indiqué que non seulement les commissaires étaient constamment assujettis à un degré de contrôle élevé, mais aussi que les biens gérés étaient des biens du gouvernement, ce qui n’est tout simplement pas le cas en l’espèce. Le juge en chef Duff fait l'observation suivante :
+[traduction]
+Pour décrire encore une fois, de façon plus concise, la nature des pouvoirs et des obligations des intimés : leur fonction est de gérer et d’administrer le port public de Halifax ainsi que les immeubles qui en dépendent, qui sont la propriété de la Couronne; […] [Non souligné dans l’original.]
+[…]
+À l’évidence, il y a peu de similitudes entre un tel organisme et les intimés, dont les fonctions consistent principalement à gérer et à administrer des immeubles qui appartiennent à la Couronne […]. [Non souligné dans l’original.]
+[49] En résumé, le CSDT ne peut pas demander un remboursement d’argent en prétendant qu’à titre de mandataire de l’État il dépensait les fonds de l’État. Ce n’était pas le cas. Il ne se trouvait pas dans la même situation qu’UPS, dans l’affaire United Parcel Service Canada Ltd. c. La Reine[14] où, manifestement, UPS dépensait les fonds de son mandant. L’ordonnance de dévolution n’avait pas pour objet de transférer à l’État la propriété d’un bien quelconque du CSDT : elle avait pour objet de mettre de l’ordre dans les affaires financières du CSDT en conférant le contrôle des affaires de ce dernier à une personne nommée par le gouvernement. Même si cette mesure peut faire du CSDT un mandataire de l’État pendant la durée de l’ordonnance de dévolution, il ne s’agissait pas d’un mandataire s’occupant de biens de l’État. Même s’il n'est pas nécessaire d’examiner la question de la qualité pour agir, l’accord de réciprocité fiscale ou l’article 262 de la Loi sur la taxe d’accise, je tiens quand même à traiter brièvement de ces deux dernières questions.
+[50] En ce qui concerne l’accord de réciprocité fiscale, l’argument des parties donnait un peu l’impression d’avoir été tiré d’« Alice au pays des merveilles ». On m’a produit un contrat passé entre le gouvernement du Canada et la province de l’Ontario qui indiquait clairement que les sociétés ou les organismes d’État provinciaux conviennent de payer la TPS (à l’exception des sociétés et des organismes d’État mentionnés à l’annexe A). Le CSDT n’apparaissait pas dans l’annexe A, malgré l’argument de l’appelant selon lequel il s’agissait d’un type de mandataire de l’État qui aurait dû y figurer (un argument qui, selon moi, n’était pas convaincant). L’accord de réciprocité fiscale m’a semblé être une réponse complète à la position de l’appelant, mais les deux parties ont laissé entendre que la Cour canadienne de l’impôt n’était pas habilitée à sanctionner le contrat passé entre l’Ontario et le Canada, donc que je ne pouvais me fonder sur lui pour rejeter la demande du CSDT. Je présume que les parties estiment que la procédure appropriée, si ma conclusion était que le CSDT était exonéré de la taxe (sans faire référence à l’accord de réciprocité fiscale), serait que les parties soumettent ensuite l’affaire à l’arbitrage en vue d’une interprétation de l’accord de réciprocité fiscale pour décider si celui‑ci excluait une telle exonération pour le CSDT. J’aurais couru avec plaisir le risque d'abréger un contentieux aussi inutile et prolongé en saisissant le contrat par les cornes et en l’interprétant d’une manière qui, selon moi, saute aux yeux : le CSDT n’est pas inscrit à l’annexe A et donc non exonéré de la taxe, et la cotisation était de ce fait correcte.
+[51] Enfin, pour ce qui est de l’article 262 de la Loi sur la taxe d’accise, je n’aurais eu aucune difficulté, malgré l’interprétation qui a été faite de cette disposition en des circonstances tout à fait différentes, dans l’affaire Fanshawe College of Applied Arts & Technology v. R.[15], pour conclure qu’une demande de remboursement de 32 % à la suite d’une erreur est une affaire certainement différente d’une demande de remboursement de 68 % en vertu du paragraphe 259(3) de la Loi sur la taxe d’accise.
+[52] Je conclus donc qu’au cours de la période visée par l’ordonnance de dévolution, le CSDT était un mandataire de l’État, mais que le pouvoir dont bénéficiait le CSDT à ce titre aux termes de la Loi sur l’éducation n’allait pas jusqu’à transformer les biens, y compris les fonds utilisés par lui pour acquérir des biens et des services, en des biens de la province de l’Ontario. Le CSDT est devenu mandataire de l’État non pas pour se départir de l’ensemble de ses biens, mais pour s’assujettir au contrôle, par le gouvernement de l’Ontario, de ses affaires. Cela peut sembler être une distinction subtile, mais il s’agit néanmoins d’une distinction qui mène à l’inévitable conclusion selon laquelle le CSDT n’a pas payé la TPS par erreur. L’affaire est rejetée avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 3e jour de juin 2009.
+François Brunet, Réviseur
+Annexe « A »
+Extraits de la Loi sur l’éducation, section D – partie IX
+257.31(3) Si le ministre l’avise que le conseil ne s’est pas conformé selon lui à une directive donnée en vertu du paragraphe (1), le lieutenant‑gouverneur en conseil peut prendre les décrets qu’il estime nécessaires ou souhaitables afin d’investir le ministère du contrôle de l’administration des affaires du conseil.
+(4) […]
+257.32(1) Si le conseil est assujetti à un décret pris en vertu du paragraphe 257.31(2) ou (3) :
+a) le ministre publie un avis du décret dans la Gazette de l’Ontario;
+b) les personnes auxquelles le ministre enjoint de le faire en donnent avis aux personnes et sous la forme qu’il précise.
+(2) À compter de la publication de l’avis dans la Gazette de l’Ontario prévue à l’alinéa (1)a), il ne peut être fait ce qui suit sans l’autorisation du ministre :
+a) introduire ou poursuivre une instance contre le conseil devant quelque tribunal que ce soit;
+b) exécuter une ordonnance judiciaire à l’encontre du conseil.
+(3) Sous réserve du paragraphe (4), si l’introduction ou la poursuite d’une instance ou l’exécution d’une ordonnance judiciaire est interdite aux termes du présent article :
+a) tout délai de prescription applicable à l’instance ou à l’exécution est suspendu jusqu’à ce que le ministre autorise l’introduction ou la poursuite de l’instance ou l’exécution de l’ordonnance, selon le cas;
+b) la personne qui a le droit d’introduire ou de poursuivre l’instance ou d’exécuter l’ordonnance dispose, dès que l’autorisation est donnée, du même délai pour introduire ou poursuivre l’instance ou pour exécuter l’ordonnance, selon le cas, que celui auquel elle avait droit lorsque l’avis a été publié dans la Gazette de l’Ontario aux termes de l’alinéa (1)a).
+(4) Le paragraphe (3) ne s’applique que si l’intéressé a, dans le délai de prescription pertinent, adressé une demande d’autorisation au ministre pour introduire ou poursuivre l’instance ou pour exécuter l’ordonnance et que le ministre l’a refusée.
+(5) Le paragraphe (2) ne s’applique pas à l’égard du conseil qui est assujetti à un décret pris en vertu du paragraphe 257.31(2) ou (3) après que le ministre prend un arrêté en vertu de l’alinéa 257.34(2)b) ou i) à son égard.
+257.33(1) Si le lieutenant‑gouverneur en conseil a pris un décret en vertu du paragraphe 257.31 (2) ou (3) à l’égard d’un conseil, le ministre a le contrôle de celui‑ci en ce qui concerne toute question ayant quelque incidence que ce soit sur ses affaires.
+(2) Sans préjudice de la portée générale du paragraphe (1), si le lieutenant‑gouverneur en conseil a pris un décret en vertu du paragraphe 257.31(2) ou (3) à l’égard d’un conseil, le ministre a le contrôle de celui‑ci en ce qui concerne l’exercice de ses pouvoirs et fonctions et l’exécution de ses obligations relativement à toutes questions, notamment celles se rapportant à ce qui suit :
+a) la nomination et la destitution de ses agents et employés et leurs pouvoirs, fonctions, salaires et indemnités;
+b) ses recettes et ses dépenses;
+c) ses fonds d’amortissement, ses fonds de remboursement et les fonds prescrits en vertu de l’alinéa 247(3)e), ainsi que les sommes qui s’y trouvent;
+d) ses systèmes de comptabilité et de vérification et les opérations effectuées sur son actif et son passif ainsi que sur ses recettes et ses dépenses;
+e) ses prévisions budgétaires, annuelles ou autres, ses états financiers et ses autres rapports qu’exige le ministre, ainsi que leur forme, la façon de les dresser et les époques auxquelles ils doivent l’être;
+f) les montants qui doivent figurer dans les prévisions budgétaires annuelles ou autres;
+g) les emprunts nécessaires pour faire face à ses dépenses courantes avant la rentrée des recettes courantes;
+h) l’imposition et la perception de tous les droits et autres frais;
+i) la disposition, notamment par vente, de ses éléments d’actif.
+[…]
+257.38(1) Le ministre a le contrôle des sommes d’argent appartenant au conseil qui est assujetti à un décret pris en vertu du paragraphe 257.31(2) ou (3) et reçues par des tiers pour son compte. Ces sommes sont déposées dans un des établissements suivants, selon ce que désigne le conseil ou, à défaut, le ministre :
+1. Une banque mentionnée à l’annexe I ou II de la Loi sur les banques (Canada).
+2. Abrogée : 2002, chap. 8, annexe I, art. 8.
+3. Une société de prêt ou de fiducie inscrite en vertu de la Loi sur les sociétés de prêt et de fiducie.
+4. Une caisse au sens de l’article 1 de la Loi de 1994 sur les caisses populaires et les crédits unions.
+[...]
+257.43 Lorsqu’un conseil est assujetti à un décret pris en vertu du paragraphe 257.31(2) ou (3), les actes accomplis par le ministre ou en son nom en vertu de la présente section, relativement aux affaires du conseil, sont à toutes fins réputés l’avoir été par ce conseil, pour lui et en son nom.
+257.44 Le ministre a le droit de consulter à n’importe quel moment les dossiers du conseil qui est assujetti à un décret pris en vertu du paragraphe 257.31(2) ou (3), notamment les règlements administratifs, rôles d’évaluation, rôles de perception, registres des procès‑verbaux, livres comptables, pièces justificatives et autres dossiers relatifs à ses opérations financières. Il peut en outre les inspecter et en tirer des copies.
+RÉFÉRENCE : 2009CCI39
+NO DU DOSSIER DE LA COUR : 2006‑1432(GST)G
+INTITULÉ : Conseil scolaire de district de Toronto et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 décembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 20 janvier 2009
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Salvatore Mirandola et
+Me Jennifer Leve
+Avocat de l’intimée :
+Me Ernest Wheeler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Salvatore Mirandola
+Cabinet : Borden Ladner Gervais s.r.l.
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Canada)
+[1] (R.‑U.), 30 et 31 Victoria, ch. 3.
+[2] L.R.C. 1985, ch. E‑15, et ses modifications.
+[3] L.R.O. 1990, ch. E.2, et ses modifications.
+[4] Dossier conjoint de documents, pièce A‑1, volume 1, onglet 6.
+[5] Attributions – Superviseur, CSD de Toronto, dossier conjoint de documents, pièce A‑1, volume 1, onglet 7.
+[6] Note de service datée du 17 septembre 2002, dossier conjoint de documents, pièce A‑1, volume 1, onglet 8.
+[7] Dossier conjoint de documents, pièce A‑1, volume 3, onglet 52.
+[8] [1962] B.C.J. no 132 (C.A.C.‑B.).
+[9] Power Development Act, 1961, 1961 (B.C. 2nd Sess.), ch. 4.
+[10] [1983] 2 R.C.S. 513, aux pages 517, 520 et 526.
+[11] [1935] R.C.S. 215, aux paragraphes 8 et 9.
+[12] [1983] 2 R.C.S. 551, à la page 573.
+[13] [2004] 3 R.C.S. 53.
+[14] 2008 CAF 48.
+[15] 2006 CCI 652, 2006 CarswellNat 4124.

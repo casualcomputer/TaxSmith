@@ -1,0 +1,184 @@
+Title: Mader v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/459312/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-289-459312-mader-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-12-31
+
+# Mader v. The Queen
+
+- Citation: 2019 TCC 289
+- Decision date: 2019-12-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4253, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mader v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-31
+Neutral citation
+2019 TCC 289
+File numbers
+2017-4544(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4544(IT)G
+BETWEEN:
+SANDRA LYNN MADER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 21, 2019, at Yarmouth, Nova Scotia
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Devon Peavoy
+AMENDED JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act for the Appellant’s 2013 taxation year is allowed, without costs, on the basis that the Appellant shall be allowed to deduct the additional amount of $24,242.47 as professional expenses in 2013.
+Signed at Ottawa, Canada, this 30th day of January 2020.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 289
+Date: 20191231
+Docket: 2017-4544(IT)G
+BETWEEN:
+SANDRA LYNN MADER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+MacPhee J.
+[1] Sandra Lynn Mader has appealed her reassessment in respect of the 2013 taxation year. Specifically, she is disputing the Minister of National Revenue’s (the “Minister”) disallowance of $73,967.07 deducted in respect of both legal fees and accounting fees.
+FACTS
+[2] The facts of this case focus on professional fees the Appellant paid in the 2013 taxation year in relation to both a corporate breakup, as well as a marriage breakup.
+[3] There are two relevant corporations referred to in evidence. The first is Jaylynn Enterprises Ltd (“JEL”) who was incorporated by the Appellant in 1975 with her then business partner Robin Richards (“Mr. Richards”). Mr. Richards and the Appellant were married in 1976. The second corporation, Holm Realty (“Holm”), was incorporated in 1989. The only shareholders of Holm up to 2010 were the Appellant and Mr. Richards. Both the Appellant and Mr. Richards worked in the daily operations of these businesses.
+[4] Over the years, the Appellant and Mr. Richards had much success in their business endeavors. They also raised three sons together. Unfortunately, their marriage did not enjoy the same success, and they separated in 2010.
+[5] There was a reorganization of the family business in 1993 wherein family trusts were used. This allowed the Appellant and her spouse to share equally in the future growth of the company, lowered their personal taxes, and allowed the couple’s three sons to share in the growth of JEL.
+[6] At the time of the couple’s separation in 2010 the Appellant owned a half interest in the matrimonial property, an RRSP and Class “A” and “C” preference shares in JEL. The Appellant and Mr. Richards had as a main source of income the receipt of dividends from their preference shares in JEL. The dividends were received on a monthly basis. The dividends were paid to a family trust, and then distributed to the parties. Both parties had to consent for the release of these dividends.
+[7] After their breakup, the couple had to somehow untangle their corporate ownership and calculate the division of JEL and Holm. Unable to negotiate a settlement, costly litigation ensued. One unfortunate event, which plays a key role in this decision, is that in May 2010 Mr. Richards refused to consent to the payment of dividends, to either himself or the Appellant. This left the Appellant with no source of income. This lead to the commencement of litigation between the parties.
+[8] The concerns of the Appellant in the various litigation matters were two fold. First, she had to secure a reliable source of income; second, she felt she had to remedy what she believed was continuing unfair treatment in her ownership of the companies. Specifically, she believed that her husband was disregarding her ownership interests.
+[9] A timeline of the ensuing litigation is as follows:
+The Appellant made an Application for interim spousal support in September 2010. This was unsuccessful;
+The above matter was appealed in December 2010. The Appellant was successful before the Nova Scotia Court of Appeal and was awarded both retroactive spousal support and ongoing interim spousal support of $6000 per month;
+The Appellant filed an Oppression Application in April 2012;
+The Appellant brought a Motion as part of the above Application which proceeded December 3-5, 2012, January 31 and February 1, 2013. The Appellant was unsuccessful in obtaining an interlocutory injunction, but did obtain interim financial disclosure. Costs were ordered against the Appellant;
+A Costs Order was issued on the above Motion on August 28, 2013;
+The parties appeared before the Supreme Court of Nova Scotia in 2014, litigating the support entitlements of the Appellant. A decision was provided by the Court on July 16, 2014;
+The parties signed a final agreement dealing with most of the litigation issues in the spring of 2013. The key remaining issues were the outstanding Court decision on costs on the Oppression Motion and the final Spousal Support Order.
+[10] The additional amount of professional fees being claimed by the Appellant in 2013 is $73,579.27. The Appellant’s records are well organized and receipts have been provided. The fees are divided into two categories, those incurred on the Oppression Application (amounting to $65,782.22) and those incurred to obtain support (amounting to $7,797.05).
+[11] It is the Oppression Application, filed on April 17, 2012 against Mr. Richards, JEL, Holm Realty Ltd, Duane Robert Richards, Jay Robert Richards and the Richards Family Trust pursuant to section 5 of the Companies Act, R.S.N.S. 1989, c. 81 where the vast majority of expenses were incurred. Specifically, they come as a result of a Cost Order received as a result of a Motion brought by the Appellant.
+[12] The Appellant’s Motion in the Oppression Application sought an order directing:
+The prohibiting of Mr. Richards and other related parties from contravening a Directors’ Resolution and a Shareholder’ Special Resolution which would ensure that the Appellant provide her consent concerning transactions by JEL for over $50,000;
+An Order from the Court prohibiting Mr. Richards and others from impeding the Appellant’s access to corporate records.
+[13] The Appellant was only partially successful in her Motion for the interlocutory injunction and interim ongoing disclosure. She was ordered to pay the following costs: to Mr. Richards $34,000, to Jay Richards $9,500, to Jaylynn Enterprises Limited and Holm Realty Limited $9500; and $5000 to Duane Richards. These costs comprise the largest amount of fees in issue before this Court.
+[14] The remainder of the legal and accounting fees in relation to the Oppression Motion amounted to $7,782.22
+[15] The Minister did allow a separate amount of $61,998 of the Appellant’s claim to expense professional fees in 2013. These amounts are not in dispute.
+[16] Regarding the Oppression Application, the Appellant has provided the Court with both a copy of her relevant Notice of Application as well as the decision on a related motion provided by the Nova Scotia Supreme Court dated June 10, 2013.
+[17] In her Notice of Application, the Appellant requested many different primary and alternative forms of relief. One of the alternative forms of relief was:
+“m. Directing Richards to declare and cause JEL and Holm to pay dividends to the Applicant on her personally- held share in JEL and Holm;
+[18] The Motions Judge, in summarizing what was argued before him, stated, inter alia, the following:
+[This is] a motion for an interlocutory and interim injunction requiring the Respondents to refrain from contravening the Resolutions and Agreement and for ongoing disclosures of corporate and financial information.
+[19] In the final Judgment delivered on the Motion, these facts made up part of the decision:
+Mr. Richards had stopped payments to the Appellant and himself from JEL and Holm;
+The Appellant’s only source of income was her RRSP’s;
+The Appellant agreed on cross-examination that the main relief she sought was the redemption of her shares;
+The Court acknowledged that there was an Interim Order in place, requiring Mr. Richards to pay the Appellant $6000 per month spousal support and that she is in the matrimonial home. “Therefore her present personal financial pressures have been alleviated”;
+Robert and Sandra …are currently at war over both matrimonial and corporate issues.
+[20] Shortly after the above described Motion, the parties began negotiating a final agreement dealing with almost all matters. Pursuant to the Agreement reached, the Appellant received a dividend payment of $1,533,469.16 as a result of her transferring 237 preferred shares of JEL to Mr. Richards. This amount was included as income in her 2013 taxation return.
+[21] In this Appeal, the Appellant and her accountant, Mr. Jamie Ernst (“Mr. Ernst”), testified. Mr. Ernst spoke about the work he did for the Appellant. In part, he explained a bill he provided to the Appellant amounting to $8,653.75. He testified that half of this amount was billed in relation to assistance he provided concerning the Appellant’s spousal support litigation. The other half of his fees were incurred concerning the Oppression remedy sought.
+ISSUE
+[22] The main issue in this matter is whether the Appellant is entitled to deduct additional professional fees in the amount of $73,579.27 in the 2013 taxation year.
+Position of the parties
+[23] The Respondent takes the position that the entire amount spent on professional expenses by the Appellant in her attempt to obtain support was a total of $61,998, which was allowed as a deduction by the Minister. The remainder amounts which the Appellant seeks to claim as an expense were spent in large part on the Oppression remedy. The Respondent argues that this amount was rightly denied pursuant to paragraph 18(1)(a) of the Income Tax Act ( the “Act”) in that these amounts were not spent to gain or produce income. She further argues that the amounts incurred were either an outlay that was personal or a payment on account of capital in accordance with paragraphs 18(1)(b) and or 18(1)(h) of the Act.
+[24] The Appellant argues that she incurred additional professional fees for the purpose of enforcing pre-existing rights to income, in either the form of spousal support or dividend income. Therefore, these expenses should be deductible from her income.
+ANALYSIS
+LAW
+[25] Pursuant to section 9 of the Act, a taxpayer's income from a business is her profit from that business for the year, subject to various adjustments and limitations provided for under the Act.
+[26] Paragraph 18(1)(a) of the Act provides that no deduction shall be made in respect of an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the taxpayer's business.
+[27] Paragraph 18(1)(b) of the Act provides, in part, that no deduction shall be made in respect of an outlay, loss or replacement of capital or a payment on account of capital.
+[28] It has often been stated that whether an expense was incurred in order to produce income is a question of fact. The key question being was the expense incurred by the taxpayer for the purpose of gaining or producing income.
+[29] Consistent with the legislation, expenses incurred to obtain spousal support are allowed as a deduction. [1] Therefore, any expenses which I find that were incurred to obtain support from Mr. Richards will be allowed as deductions by the Appellant. Furthermore, professional fees incurred to obtain the payment of dividends to the Appellant are also deductible. [2]
+[30] The easiest of the expenses to deal with in this matter, are the accounting fees that Mr. Ernst stated he billed the Appellant in her attempts to obtain spousal support. These amounted to $4,326.87. They will be allowed.
+[31] The Appellant has also provided invoices and testimony concerning other expenses incurred while pursuing her spousal support battle with Mr. Richards. I find her testimony on these issues to be credible, and for the most part, unchallenged in cross-examination. These expenses amount to $3470.10. They will be allowed to be deducted by the Appellant.
+[32] The most difficult item to deal with is the expenses incurred in the pursuit of the Oppression remedy. As part of this analysis I must keep in mind paragraph 18(1)(b) of the Act, which provides that no deduction shall be made in respect of an outlay, loss or replacement of capital or a payment on account of capital.
+[33] Initially, I am inclined to accept the Respondent’s position on these expenses. When I read the applicable pleadings concerning the Oppression Application and the related Notice of Motion, as well as the decision of the Nova Scotia Supreme Court I can understand why the Minister denied the Appellant’s claim to expenses these amounts.
+[34] Yet there is a nexus between the income the Appellant was pursuing, whether it was spousal support from Mr. Richards or dividend income from the corporations, and the Oppression remedy litigation (including the Interim Motion). As Justice Muise of the Nova Scotia Supreme Court stated, the Appellant and Mr. Richards were at war over both matrimonial and corporate issues.
+[35] The evidence provided supports that, overall, professional fees were incurred pursuing the Oppression remedy to accomplish two things. First, there was the protection of the Appellant’s rights in the shares of the Corporations. This clearly was a dominant purpose of many of the professional fees in issue in this Tax Court Appeal. So clearly, a dominant portion of the costs incurred on the Oppression remedy were spent on account of capital, as envisioned under paragraph 18(1)(b) of the Act, and will not be allowed as expenses against income.
+[36] The second reason that professional fees were incurred by the Appellant in pursuing the Oppression Application was to produce income, either through dividend payments from the corporations or through spousal support payments by Mr. Richards.
+[37] In coming to my conclusion that it is reasonable and fair to apportion the professional fees spent on the Oppression Application (and Motion), I rely upon the following analysis.
+[38] Legal expenses incurred for the purpose of preserving capital assets are not deductible. [3]
+[39] The Appellant relies, in part, upon Kruco Inc. v. R. [4] in support of her arguments. In Kruco, the Appellant’s spent over $9 million in legal fees and sought to deduct these fees against income. The majority of these expenses were incurred as a result of an application the Appellant brought in the Quebec Superior Court alleging Oppression within the meaning of (as it was then) section 234 of the Canada Business Corporations Act. The main objective in all the Kruco litigation was to have one of the defendants pay the Applicant a reasonable dividend.
+[40] In his decision, Justice Archambault provided the following useful review of the case law to develop some guidelines and principles in this analysis:
+[25] In dealing with the approach that I should follow in determining whether the legal and other professional fees incurred by Kruco were of a capital nature, a useful guide can be found in British Insulated & Helsby Cables Ltd. v. Atherton (1925), 10 T.C. 155 (U.K. H.L.), wherein Viscount Cave said at p. 192:
+...when an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
+[26] In Minister of National Revenue v. Algoma Central Railway (1967), 67 D.T.C. 5091 (Can. Ex. Ct.), Jackett P. stated at p. 5093:
+The “usual test” applied to determine whether such a payment is one made on account of capital is, “was it made ‘with a view of bringing into existence an advantage for the enduring benefit of the appellant's business’”?
+The question is therefore whether what the appellant in this appeal had in “view” when it made the expenditures in dispute was “an advantage for the enduring benefit” of its business within the meaning of the test as it has been developed by the decisions.
+[27] The Supreme Court of Canada, in Minister of National Revenue v. Algoma Central Railway (1968), 68 D.T.C. 5096 (S.C.C.), confirmed this decision and, at p. 5097, approved the following excerpt from the judgment of the Privy Council in B.P. Australia Ltd. v. Commissioner of Taxation of Australia (1965), [1966] A.C. 224 (Australia P.C.), at p. 264:
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a common sense appreciation of all the guiding features which must provide the ultimate answer
+[Emphasis added.]
+[41] To deny the entirety of the Appellant’s claim to expense professional fees that pertain to the Oppression remedy, on the basis that these amounts were incurred solely or predominantly for the purpose of preserving a capital asset would ignore the unusual facts in this case. Some of these facts are:
+Prior to the breakup Ms. Mader was receiving dividends, through a family trust, paid by JEL;
+These dividends were her main source of income;
+Mr. Richards was able to stop the payment of these dividends and did so in 2010;
+The Appellant accepted the payment of a dividend of $1,533,469 to settle the majority of the litigation with Mr. Richards. This amount was claimed as income on her 2013 tax return;
+The alternative position as set out in her Oppression Application was the Appellant sought an order “Directing Richards to declare and cause JEL and Holm to pay dividends to the Applicant on her personally-held shares in JEL and Holm.”
+[42] These factors support that the professional fees in issue were, at least in part, incurred so that the Appellant may receive income in the form of either spousal support or dividends.
+[43] I also rely upon the following facts to support my conclusion that the majority of the expenses claimed by the Appellant concerning the Oppression Application were capital in nature and not incurred to produce income:
+As part of the Appellant’s Motion in the Oppression Application, the Judgment points out that the main relief she sought was the redemption of her shares (para. 411);
+The Oppression remedy sought an order directing Mr. Richards to purchase the Appellant’s 50 common shares in Holm Realty at fair market value as of May 31, 2010, and to purchase her Class “A” and Class “C” shares in JEL at their respective redemption values;
+Alternatively, an order prohibiting Mr. Richards and others from impeding the Appellant’s access to corporate records and interfering with her participation in the management of the companies;
+The Appellant admitted on cross-examination that the main relief she sought in the motion was the redemption of her shares.
+[44] Applying these factors to the case at hand, I do not accept the entirety of the Appellant’s argument. It is clear to me that the fees incurred pursuing the Oppression litigation had as its dominant purpose, the intention to protect the Appellant’s interest in her shares in the corporations. Therefore, for the majority of the Oppression litigation expenses, I do find they were capital in nature, and therefore not deductible under paragraph 18(1)(b) of the Act.
+[45] But in this very particular fact situation, there is no question that professional fees were incurred seeking both the support and/or the payment of dividends by the corporations and the redemption of the Appellant’s shares. These costs were intermingled. Therefore, I have apportioned the fees in issue. Unfortunately, no effort was made by the Appellant in this regard. Based upon my review of the evidence, I will make an estimate that 25% of amount paid in the Oppression litigation was incurred in order to receive income. This estimate attempts to reflect the fact that the dominant intention of the Appellant in incurring the professional fees related to the Oppression Motion was the protection of her interests in the shares of the corporations.
+[46] For clarification, the Appellant shall be allowed to deduct the additional amount of $24,242.47 as professional expenses in 2013 [5] . The remainder of the professional fees claimed, amounting to $49,336.80 are not allowed to be claimed as expenses incurred to produce income.
+[47] Both parties questioned whether the legal and accounting fees in issue may be added to the adjusted cost base of any shares redeemed in 2013 in their pleadings. Neither party dealt with these issues at trial, and from what I can tell, the application of these sections did not make up part of the assessment before the Court. Therefore, I will not deal with these issues in the Judgement.
+[48] Given the divided success of the parties, each party shall be responsible for their own costs.
+This Amended Judgment and Reasons for Judgment is issued in substitution of the Judgment and Reasons for Judgment dated December 31, 2019.
+Signed at Ottawa, Canada, this 30th day of January 2020.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2019 TCC 289
+COURT FILE NO.:
+2017-4544(IT)G
+STYLE OF CAUSE:
+SANDRA LYNN MADER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Yarmouth, Nova Scotia
+DATE OF HEARING:
+October 21, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+December 31, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Nadeau v R., 2003 FCA 400 at para 34.
+[2] See Kruco Inc. v R., 1998 CarswellNat 629.
+[3] Keating v. R., 2005 Carswell at 1120. Although an informal decision in her analysis, Justice Campbell cites both Hoffman Estate v. Minister of National Revenue (1992), 92 D.T.C 2290 (T.C.C) and Muggli v R., [1994] 1 C.T.C. 2705 (T.C.C) in reaching her conclusion.
+[4] 1998 CarswellNat 628.
+[5] Made up of $58,000 in Oppression Motion Cost order and $7,782( which combines 6 oppression expense items, including $4,326 paid to Jamie Ernst) x .25% = $16,445.50 plus $4326.87 plus $3470.10=$24,242.47.

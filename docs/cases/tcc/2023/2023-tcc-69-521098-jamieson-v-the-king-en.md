@@ -1,0 +1,167 @@
+---
+title: "Jamieson v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521098/index.do"
+last_modified: "2023-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 69"
+citation2: ""
+neutral_citation: "2023 TCC 69"
+decision_date: "2023-05-18"
+language: "en"
+item_id: "521098"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5856
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:21:17.098000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff285cf74424d8d3ef5206d14b370bccbbd39671a66138710a90e76cd8aaa68a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jamieson v. The King
+
+- Citation: 2023 TCC 69
+- Decision date: 2023-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5856, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jamieson v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-18
+Neutral citation
+2023 TCC 69
+File numbers
+2012-3804(IT)G
+Judges and Taxing Officers
+Joanna Hill
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3804(IT)G
+BETWEEN:
+DARREN JAMIESON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 29, 2022, at Windsor, Ontario.
+Before: The Honourable Justice Joanna Hill
+Appearances:
+Counsel for the Appellant:
+Roland P. Schwalm
+Counsel for the Respondent:
+Jason Stober
+JUDGMENT
+The appeal from the Notice of Assessment for the 2009 taxation year, dated August 12, 2011, issued under the Income Tax Act, is dismissed, with Tariff costs payable to the Respondent, in accordance with the Reasons for Judgment below.
+Signed at Toronto, Ontario, this 18th day of May 2023.
+“Joanna Hill”
+Hill J.
+Citation: 2023 TCC 69
+Date: 20230518
+Docket: 2012-3804(IT)G
+BETWEEN:
+DARREN JAMIESON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hill J.
+I. Introduction [1] With the assistance of Fiscal Arbitrators tax preparers, Darren Jamieson claimed almost $400,000 in fictitious business losses to obtain refunds of tax already withheld from his employment income in 2009 and previous taxation years.
+[2] The Minister of National Revenue disallowed the claimed fictitious business losses and assessed Mr. Jamieson a penalty under subsection 163(2) of the Income Tax Act for the false information contained in his income tax return. In the present appeal, the Respondent bears the burden of establishing that the Minister correctly assessed that penalty.
+[3] After considering the facts and evidence presented, I have determined that Mr. Jamieson is liable for the penalty because he was wilfully blind to the false statements in his income tax return. Applying the framework identified by this Court in Torres,[1] the determinative factors in this case are the blatantness of the false statements and the incomprehensible explanations provided by his tax preparers. Mr. Jamieson had sufficient education and experience to heed the warning signs that further, independent inquiries were necessary before signing and filing his income tax return.
+II. Analysis - Wilful blindness under the Torres framework [4] The only issue in this appeal is whether Mr. Jamieson knowingly, or in circumstances amounting to gross negligence, made false statements in his 2009 income tax return. That knowledge can be imputed by wilful blindness, where a taxpayer turns a blind eye to the truth and accuracy of statements in their return.[2]
+[5] Mr. Jamieson was forthcoming in his testimony, and acknowledged that his income tax return contained false statements. However, his evidence was not consistently credible or reliable. He could not explain why he ignored the significant warning signs of the blatant false statements in his income tax return, based on an “alternative tax filing method” that made little sense.
+Education and experience
+[6] Mr. Jamieson had sufficient education and experience to recognize the false statements and understand that further inquiries were necessary.
+[7] He obtained a Bachelor’s degree in Commerce from the University of Windsor in 1994. Shortly thereafter, he began his career with Ford Motor Company as a contract Production Supervisor, then moved on to the position of Maintenance Supervisor. He was promoted to Maintenance Manager in 2002, and held that position for ten years.
+[8] As supervisor, Mr. Jamieson was responsible for approximately seven to twelve employees. As manager, he was responsible for three shift supervisors and their employees. His responsibilities included ensuring that these groups worked within a given budget.
+[9] Mr. Jamieson understood business concepts, including profit and loss. Despite his knowledge and experience, he ignored the clear warning signs of the Fiscal Arbitrators filing method.
+The blatantness of the false statements
+[10] Mr. Jamieson signed his income tax return, with attached Statement of Business or Professional Activities and Request for Loss Carryback forms, containing the following significant and blatant false statements:
+(i)gross business income of $135,537.77 income from “RECEIPTS AS AGENT”;
+(ii)total business expenses of $534,801.89 from “AMT TO PRINCIPAL FR AGENT” expenses;
+(iii)a net business loss of $399,264.12; and
+(iv)a loss of $284,401.60 as total income.
+[11] He signed the income tax return, even though he had never operated a business.
+[12] Mr. Jamieson recalled looking through his income tax return and asking questions about the numbers that were there, but he was satisfied by his contact’s responses that it was part of the Fiscal Arbitrators filing method. He further stated that he believed he understood those numbers at the time.
+Incomprehensible explanations from tax preparers
+[13] Mr. Jamieson outlined how he became involved with his tax preparers and the Fiscal Arbitrators filing method. A colleague introduced him to Bruce Blair, a former Ford Motor Company employee, who left to work with his brother, Roger Blair, at DSC Lifestyle Services (“DSC”).
+[14] Mr. Jamieson was unhappy with his investments and his interest was piqued by Bruce Blair’s presentation on “cash flow liquidity”. He subsequently attended five or six DSC educational meetings and joined the membership to gain access to various investment vehicles.
+[15] DSC also introduced Mr. Jamieson to Fiscal Arbitrators in late 2009. Mr. Jamieson attended a couple of Fiscal Arbitrators presentations before signing on to the filing method.
+[16] He signed a document called “Application and Agreement (Alternative Tax Filing Educational Information)” on November 27, 2009. Although this document referred to “customized educational information, materials, products or services which show alternative tax filing methods”, Mr. Jamieson did not provide the Court with any supporting documentation.
+[17] More importantly, Mr. Jamieson’s explanation for the Fiscal Arbitrators filing method made little sense. He provided the following descriptions at various times during his cross-examination:
+… So the way it was explained to us was this tax model was a reciprocal relationship whereby the taxpayer could recover -- use this filing process to recover -- pay taxes over the four-year period to unlock cash in over short-term debt obligations or investments, but at a future date, it would have to be repaid back to the government.
+…
+This was an article -- it was explained to us that it was an article in the Tax Code that could be used to unlock or get back previous years’ tax income on a short-term basis that would have to be paid back at a later date, almost like -- well I guess you could call it an industry loan back to yourself on your tax money you’d already paid to the government. That was how they -- but they made it clear that at some point, you would have to pay it back.
+…
+So with the way our membership sold us was we would unlock our previous years’ tax dollars and we would use that in investment vehicles, create liquidity and cash flow, and then once we -- you know, assuming those were successful, one way or the other, you’d have to pay the government back in previous tax filings -- or sorry, in future year tax filing.
+…
+No, I mean, yeah, they said -- they said, basically, you know, through the -- your filing process, you’re basically applying for this ability to get your income tax back, but you had to -- based on your income, your age, the amount of dependents you have in your family, that you had to qualify for. So this was a process where you filed -- if you qualified for it, you would get that income tax back. And then you could go back to future years at some point to also apply for that income tax back, but you could use that money for income strategies or short-term debt obligations, but ultimately you would have to pay it back. That’s the way it was explained to us.
+[18] Ultimately, he used the Fiscal Arbitrators filing method to obtain a tax refund of $33,000, to “unlock it as a cashflow strategy to be paid back at a later date.” In doing so, he ignored basic accounting principles and common sense.
+Failure to make proper inquiries
+[19] Mr. Jamieson stated that he told his father and former tax preparer about the Fiscal Arbitrators filing method. Unsurprisingly, he was unable to explain it in a way that they could understand. I agree with counsel for the Respondent that this constituted a red flag.
+[20] Despite the difficulties in understanding and explaining the method, Mr. Jamieson did not contact the Canada Revenue Agency to verify that the Fiscal Arbitrators filing method was in fact based on existing tax provisions. Furthermore, although Mr. Jamieson stated that he received a copy of the “Tax Code article” in question, he did not show it to a lawyer or an accountant.
+[21] Counsel for Mr. Jamieson argued that his client was convinced by the quality sales pitch, made over the course of several meetings and presentations.
+[22] I do not accept that submission. Regardless of how convincing the Fiscal Arbitrators filing method may have been at the outset, what Mr. Jamieson described has no relationship to the false statements in his 2009 income tax return.
+[23] His return does not refer to any government loan program related to taxes already paid. It did not include supporting documentation or forms with respect to any CRA-endorsed program that would allow Mr. Jamieson to borrow against taxes he already paid in 2009 and previous years. Instead, the return referred to a fictitious business, with fictitious income and fictitious losses.
+[24] Mr. Jamieson should have consulted with third parties to determine whether the application of the Fiscal Arbitrators filing method in his 2009 income tax return was valid or accurate. However, he failed to discuss the specific information in his return with accounting or tax professionals, or the CRA.
+[25] His conversations with his father and former tax preparer were not sufficient inquiries. They were not tax professionals,[3] and more importantly, he did not provide them with any written materials to allow them to properly assess the filing method.
+[26] Mr. Jamieson chose not to meaningfully consult tax professionals or the CRA because he did not want to know the truth.
+III. Conclusion [27] Mr. Jamieson is liable for the penalty because he had the knowledge, experience, and resources to know that he was making false statements in filing his 2009 income tax return. He chose to ignore significant warning signs because his objective was to make money through the “cash back process” promoted by Fiscal Arbitrators. In doing so, he disregarded his obligations under our self-assessing tax system.
+[28] The appeal is therefore dismissed, with costs payable to the Respondent in accordance with the Tariff.
+Signed at Toronto, Ontario, this 18th day of May 2023.
+“Joanna Hill”
+Hill J.
+CITATION:
+2023 TCC 69
+COURT FILE NO.:
+2012-3804(IT)G
+STYLE OF CAUSE:
+DARREN JAMIESON v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+November 29, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Joanna Hill
+DATE OF JUDGMENT:
+May 18, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Roland P. Schwalm
+Counsel for the Respondent:
+Jason Stober
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Roland P. Schwalm
+Firm:
+Roland P. Schwalm Barrister & Solicitor
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Torres v HMTQ, 2013 TCC 380, (affirmed in Strachan v HMTQ, 2015 FCA 60), para 65.
+[2] Wynter v HMTQ, 2017 FCA 195, paras 13 and 16.
+[3] Mr. Jamieson’s former tax preparer was a fellow Ford Motor Company employee, who had an accounting degree and prepared taxes on the side. His father was a retired small business owner.

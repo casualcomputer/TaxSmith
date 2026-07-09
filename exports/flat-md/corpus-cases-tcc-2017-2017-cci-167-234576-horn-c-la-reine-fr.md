@@ -1,0 +1,274 @@
+---
+title: "Horn c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234576/index.do"
+last_modified: "2017-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 167"
+citation2: ""
+neutral_citation: "2017 CCI 167"
+decision_date: "2017-09-05"
+language: "fr"
+item_id: "234576"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2191
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:23:18.364000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62977f621a22e5131ed21d8e098d300cda7705e697dab381145745113e5396a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Horn c. La Reine
+
+- Citation: 2017 CCI 167
+- Decision date: 2017-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2191, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Horn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-05
+Référence neutre
+2017 CCI 167
+Numéro de dossier
+2014-2993(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014‑2993(IT)G
+ENTRE :
+KEN HORN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 février 2017, à Edmonton (Alberta).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Robert A. Neilson
+Avocats de l’intimée :
+Me Donna Tomljanovic
+Me Jeff Watson
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints :
+1. L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2005, 2006 et 2009 de l’appelant est rejeté.
+2. Les dépens sont adjugés à l’intimée.
+Signé à Antigonish (Nouvelle‑Écosse), ce 5e jour de septembre 2017.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 10e jour de septembre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 167
+Date : 20170905
+Dossier : 2014‑2993(IT)G
+ENTRE :
+KEN HORN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelant a interjeté appel à l’encontre des nouvelles cotisations établies pour ses années d’imposition 2004, 2005, 2006 et 2009. Plus précisément, l’appelant conteste la décision du ministre de lui refuser la déduction demandée relativement à des frais juridiques qu’il avait déduits dans le calcul de son revenu tiré d’une entreprise pour 2004, 2005 et 2006. Il conteste également la réduction subséquente de la perte autre qu’une perte en capital qu’il avait déduite dans le calcul de son revenu imposable pour 2009.
+[2] J’ai entendu deux témoins : l’appelant et Mme Lynette Radulski, une agente des appels en matière d’impôt sur le revenu de l’Agence du revenu du Canada (l’« ARC »).
+[3] Les parties ont déposé deux recueils conjoints de documents. Elles reconnaissent que les documents contenus dans les recueils sont des copies exactes des documents authentiques [1] . Toutefois, elles ne s’entendent pas sur la véracité du contenu des documents ni sur leur pertinence. Par conséquent, les seuls documents que j’ai considérés sont ceux dont les témoins ont précisément fait mention.
+[4] Les parties ont également produit un court document intitulé [traduction] « Faits admis ». Il s’agit d’un exposé conjoint partiel des faits (l’« ECPF »). Une copie est annexée aux présents motifs en tant que pièce A.
+I. Les faits
+[5] L’appelant est un entrepreneur. Au début des années 1990, il vivait en Arizona, aux États‑Unis, où il exploitait une entreprise de véhicules récréatifs et [traduction] « travaillait un petit peu dans l’immobilier ».
+[6] À un moment donné dans les années 1990, l’appelant et un certain monsieur William Holtz ont commencé à fournir des services à des casinos exploités par des autochtones dans l’Idaho, dans l’État de Washington et en Californie. L’appelant a désigné cette activité comme étant [traduction] l’« entreprise des casinos autochtones ».
+[7] L’appelant a expliqué sa relation d’affaires avec M. Holtz de la manière suivante : l’appelant réalisait le travail et développait des idées concernant l’entreprise des casinos, alors que M. Holtz assurait le financement de l’entreprise, y compris la rémunération de l’appelant. Ils partageaient à parts égales les bénéfices découlant de chacune des activités réalisées aux États‑Unis. L’entreprise semble avoir été extrêmement fructueuse.
+[8] En 2000, l’appelant est retourné en Alberta, sa province d’origine. Il a déclaré dans son témoignage qu’il cherchait des occasions de travailler avec les Premières Nations en Alberta pour faire croître l’industrie du jeu, ce que j’appellerai les « activités de casinos en Alberta ».
+[9] Le 19 janvier 2000, New Buffalo Gaming Inc. (« New Buffalo ») a été constituée en personne morale sous le régime des lois de l’Alberta. L’appelant a témoigné qu’il avait constitué New Buffalo en société dans le but d’exercer les activités de casinos en Alberta.
+[10] Au moment de la constitution de New Buffalo en société, le père de l’appelant, Robert Horn, détenait le titre en common law de 60 000 actions de New Buffalo en tant que simple fiduciaire pour l’appelant (30 000 actions) et pour M. Holtz (30 000 actions). Trois personnes, M. Wyatt McNabb, M. Kevin Markiw et M. George Harder détenaient les 40 000 actions restantes. L’appelant a décrit ces trois personnes comme étant ses autres associés.
+[11] L’appelant a déclaré dans son témoignage que M. Holtz avait reçu ses actions de la société New Buffalo en contrepartie de sa promesse de fournir du financement à la société. Le financement devait permettre à la société d’exercer les activités de casinos en Alberta, notamment de verser une rémunération à l’appelant, à M. McNabb, à M. Markiw et à M. Harder.
+[12] La rémunération proposée figure dans la pièce AR‑30, le procès‑verbal de l’assemblée des actionnaires de New Buffalo du 31 juillet 2001. Il ressort du procès‑verbal que l’appelant devait recevoir une rémunération mensuelle de 14 000 $. L’appelant a déclaré dans son témoignage que le montant devait lui être versé à titre d’honoraires de gestion ou d’expert‑conseil. Toutefois, comme nous le verrons plus loin, New Buffalo n’a pas versé d’honoraires de gestion ou d’expert‑conseil à l’appelant.
+[13] Selon l’appelant, au début de 2000, le gouvernement de l’Alberta n’avait pas de politique sur l’exploitation de casinos par les Premières Nations de la province. L’appelant a ensuite commencé à collaborer avec le gouvernement de l’Alberta sur l’élaboration d’une telle politique, qui a finalement été établie. L’ECPF précise que le gouvernement de l’Alberta a approuvé une politique en matière de jeu pour les Premières Nations le 19 janvier 2001 ou vers cette date. L’appelant a déclaré dans son témoignage qu’une fois la politique approuvée, New Buffalo a conclu des ententes avec les Premières Nations d’Enoch, de Whitecourt et d’Onion Lake.
+[14] M. Holtz n’a pas fourni à New Buffalo le financement promis. Par conséquent, New Buffalo n’avait pas les fonds nécessaires pour rémunérer l’appelant ou les trois autres actionnaires. Il semble qu’au milieu de 2002 M. Holtz ait informé l’appelant qu’il avait obtenu du financement de deux sociétés : Chatelaine Funding Corporation et Beau Park Holdings Ltd. (« Chatelaine » et « Beau Park » respectivement).
+[15] L’appelant, M. Holtz, Chatelaine, Beau Park, New Buffalo, Robert Horn, M. Markiw et un certain monsieur Zimmer ont conclu un accord relativement au financement de New Buffalo (le « protocole d’accord [2] »). Il ressort de l’ECPF que le protocole d’accord est entré en vigueur le 22 juillet 2002.
+[16] Il est précisé au paragraphe 1 du protocole d’accord que l’accord a pour objet de régler les différends entre l’appelant et M. Holtz en ce qui a trait aux finances et à la propriété de New Buffalo ainsi qu’entre l’appelant, M. Holtz et M. Zimmer en ce qui a trait aux finances et à la propriété d’autres entités.
+[17] Le protocole d’accord porte sur un certain nombre de questions, notamment :
+· Le remboursement par New Buffalo d’un prêt d’actionnaire consenti par le père de l’appelant (paragraphes 3 et 4);
+Une entente sur l’élection des administrateurs de New Buffalo (paragraphe 5);
+La conclusion d’une entente de confidentialité et de non‑divulgation ainsi que d’une convention unanime des actionnaires (paragraphes 6 et 7);
+L’approbation d’un budget qui établit les besoins de liquidités de New Buffalo pour les quatre premiers mois de 2002, y compris un salaire de 30 000 $ pour l’appelant. Le budget fait également état du montant des prêts d’actionnaire que chaque actionnaire, y compris l’appelant, doit consentir à New Buffalo (paragraphes 8 et 9; annexe « B »);
+Le consentement de Chatelaine et de Beau Park à fournir une aide financière à M. Holtz et à l’appelant, afin que chacun d’eux puisse consentir le prêt d’actionnaire requis, et à l’appelant [traduction] « pour lui fournir une autre source de rémunération pendant la période au cours de laquelle New Buffalo serait incapable de le rémunérer » (paragraphe 11). Le paragraphe 12 prévoit que la rémunération sera versée à l’appelant ou à sa société. Les conditions du prêt de Chatelaine et de Beau Park à l’appelant sont énoncées à la section F de l’accord;
+Un prêt éventuel par Chatelaine et Beau Park envers la société de gestion de l’appelant. Chatelaine et Beau Park consentiraient le prêt si la société de gestion de l’appelant fournissait des services à New Buffalo [traduction] « à temps plein » sans recevoir de rémunération pour ces services. Le prêt serait de 7 500 $ par mois et serait consenti jusqu’à ce que New Buffalo commence à verser à la société de gestion de l’appelant des honoraires de gestion mensuels d’au moins 7 500 $ (alinéa 15(v) de la section F);
+Une reconnaissance par l’appelant que, à la date de signature de l’accord, Chatelaine et Beau Park lui prêtaient 235 000 $US et que l’appelant fournissait une garantie personnelle de ce montant (alinéa 15(viii) de la section F);
+Le consentement de l’appelant à offrir les actions qu’il détenait dans New Buffalo en garantie des prêts, à céder son prêt d’actionnaire en garantie et à souscrire une assurance‑vie de 1 000 000 $ (alinéa 15(xi) de la section F);
+Une convention concernant la détention d’actions ou de titres de participation d’autres entités. Le protocole d’accord prévoit que Chatelaine et Beau Park consentent un prêt de 15 000 $ à une société (appelée Quickdraw) détenue par l’appelant et M. Holtz à 50 % chacun (paragraphe 16).
+[18] L’appelant a déclaré dans son témoignage qu’il avait conclu le protocole d’accord dans le seul but de se faire payer les honoraires de gestion ou d’expert‑conseil que New Buffalo lui devait. C’est peut‑être vrai, mais le protocole d’accord est manifestement une convention de prêt aux termes de laquelle Chatelaine et Beau Park consentent à prêter de l’argent à M. Holtz, à l’appelant et, éventuellement, à une société de gestion de l’appelant.
+[19] Selon l’appelant, Chatelaine et Beau Park n’ont avancé des fonds que pour un mois. Parce que Chatelaine et Beau Park avaient manqué à leur obligation de fournir des fonds comme le prévoyait le protocole d’accord, l’appelant a intenté une action devant la Cour supérieure de l’Arizona pour obtenir une ordonnance de résiliation de l’accord (l’« action intentée en Arizona »). L’appelant a intenté l’action le 18 juin 2003 contre M. Holtz, Chatelaine, Beau Park et M. Zimmer [3] .
+[20] Le cabinet d’avocats Dillingham & Reynolds LLP a intenté l’action pour le compte de l’appelant.
+[21] Dans la plainte déposée par l’appelant dans le contexte de l’action intentée en Arizona, il est précisé que Chatelaine, Beau Park et M. Holtz [traduction] « n’ont pas fourni le financement convenu [par les parties], ni financé les ‟appels de fondsˮ de M. Horn [l’appelant] effectués par NBG [New Buffalo] et n’ont pas non plus financé la société de gestion de M. Horn [l’appelant] à raison de 7 500 $ par mois [4] […] ».
+[22] L’appelant demande dans sa plainte que le protocole d’accord soit résilié, que M. Holtz transfère les 30 000 actions qu’il détient dans New Buffalo au fiduciaire de l’appelant, que Chatelaine et Beau Park renoncent à leur garantie sur les actions que détient l’appelant dans New Buffalo et que l’appelant soit libéré de la garantie personnelle qu’il avait donnée à Chatelaine et à Beau Park.
+[23] Dans son témoignage principal, l’appelant a déclaré qu’à l’été 2003, il avait intenté une deuxième action. Il a ajouté avoir intenté cette action devant la Cour du Banc de la Reine de l’Alberta afin que des fonds soient versés à New Buffalo pour que celle‑ci puisse payer les services de l’appelant.
+[24] En contre‑interrogatoire, il est devenu évident que l’appelant n’avait pas intenté d’action à l’été 2003. Au contraire, ce sont Chatelaine et Beau Park qui ont intenté une action devant la Cour du Banc de la Reine de l’Alberta contre l’appelant et une société qu’il contrôlait, à savoir 976344 Alberta Ltd., ainsi qu’une action contre l’épouse de l’appelant (les « actions intentées par Chatelaine et Beau Park »). Les documents introductifs d’instance de ces actions ne m’ont pas été fournis.
+[25] Toutefois, les parties ont bel et bien produit l’ordonnance rendue par la Cour du Banc de la Reine de l’Alberta le 8 février 2006 dans les actions intentées par Chatelaine et Beau Park [5] . Il ressort de cette ordonnance que les deux actions portaient sur la garantie fournie par l’appelant au titre du protocole d’accord, le paiement d’argent à l’appelant par New Buffalo et le versement de fonds à Chatelaine et à Beau Park par l’appelant.
+[26] Le témoignage de l’appelant concernant les documents déposés au tribunal à l’été 2003 a affaibli sa crédibilité.
+[27] L’appelant a déclaré dans son témoignage qu’il avait bel et bien, à un moment donné, intenté un recours pour abus devant la Cour du Banc de la Reine de l’Alberta. En contre‑interrogatoire, l’avocat de l’intimée a renvoyé l’appelant à l’avis introductif d’instance que ce dernier avait déposé à la Cour du Banc de la Reine de l’Alberta le 24 juin 2005 [6] (le « recours pour abus »). L’appelant a reconnu qu’il s’agissait du recours pour abus en question [7] .
+[28] La demande de l’appelant était dirigée contre New Buffalo et ses actionnaires — M. Holtz, M. Markiw et M. Harder. Elle visait l’obtention d’un redressement pour abus ou injustice en application de l’article 242 de la Business Corporations Act (Loi sur les sociétés par actions) de l’Alberta.
+[29] Les parties au présent appel ont déposé l’ordonnance rendue par la Cour du Banc de la Reine de l’Alberta le 20 décembre 2005 (l’« ordonnance du 20 décembre 2005 ») à l’égard du recours pour abus. L’ordonnance porte sur la rémunération, l’adoption d’une politique en matière de dépenses, les montants des prêts d’actionnaire et le versement de dividendes [8] .
+[30] En ce qui concerne la rémunération, l’ordonnance du 20 décembre 2005 enjoint à New Buffalo de verser à l’appelant, à M. Markiw, à M. Harder et à M. Holtz les paiements mensuels déterminés, à compter du 1er janvier 2006, et de verser un paiement forfaitaire à chacune de ces personnes pour la rémunération en souffrance [9] .
+[31] Pour ce qui est de l’appelant, l’ordonnance du 20 décembre 2005 enjoint à New Buffalo de lui verser des paiements mensuels pour la période allant du 1er janvier 2006 au 30 juin 2006, et de lui verser ensuite des honoraires mensuels d’expert‑conseil en fonction du temps travaillé, jusqu’à un maximum de 10 000 $ par mois. L’ordonnance précisait que New Buffalo devait verser à l’appelant 882 000 $ pour la rémunération en souffrance.
+[32] Le 7 février 2006, l’appelant a constitué l’entreprise 1221385 Alberta Ltd. en société (« 122 Ltd. »). Il en était l’unique administrateur et actionnaire. L’appelant a déclaré dans son témoignage que 122 Ltd. ne détenait pas d’actions de New Buffalo. Comme le montre la pièce AR‑29, à compter de février 2006, 122 Ltd. a facturé à New Buffalo des services d’expert‑conseil que l’appelant fournissait à celle‑ci. Apparemment, l’appelant a fourni ces services au nom de 122 Ltd.
+[33] L’appelant a laissé entendre qu’une fois que New Buffalo avait payé à 122 Ltd. les honoraires facturés, cette dernière versait des sommes à l’appelant à titre d’honoraires de gestion. Comme nous le verrons plus loin, 122 Ltd. n’a versé à l’appelant qu’une petite partie des honoraires facturés.
+[34] Un des casinos en Alberta faisant partie des projets de New Buffalo a ouvert ses portes en 2006. New Buffalo a ainsi pu recevoir des fonds importants. Par conséquent, New Buffalo a commencé à payer à 122 Ltd. les sommes dues relativement aux factures.
+[35] Le 23 juin 2008, un certain nombre de parties, dont l’appelant et M. Holtz, ont conclu une entente de règlement [10] . L’entente portait sur un certain nombre de différends entre les parties. En particulier, suivant l’entente de règlement, l’appelant, son épouse, 122 Ltd. et une autre société à numéro ont signé une décharge qui mettait fin à toutes les poursuites judiciaires qu’ils avaient intentées auparavant contre Beau Park et Chatelaine en Arizona et en Alberta [11] . Beau Park et Chatelaine ont signé une décharge semblable relativement à toutes les actions qu’elles avaient intentées contre l’appelant, son épouse et les deux sociétés à numéro [12] .
+[36] Il n’est pas contesté que l’appelant avait dû assumer des frais juridiques considérables relativement à l’action intentée en Arizona, aux actions intentées par Chatelaine et Beau Park et au recours pour abus. Comme cela a été souligné aux alinéas k) et n) du paragraphe 12 de la réponse modifiée, lorsque le ministre a établi une cotisation à l’égard de l’appelant, il a supposé que ce dernier avait payé des frais juridiques relativement à la « poursuite » engagée en Alberta et à la « poursuite » engagée en Arizona (les « frais juridiques ») de la manière suivante :
+[EN BLANC]
+Poursuite engagée en Alberta
+Poursuite engagée en Arizona
+Total
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+2004
+40 267 $
+69 054 $
+109 321 $
+2005
+13 362 $
+80 881 $
+94 243 $
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+2006
+50 229 $
+72 755 $
+122 984 $
+[37] L’appelant a reconnu l’exactitude de ces chiffres au paragraphe 21 de ses observations écrites.
+II. Les thèses des parties
+[38] L’appelant a fait valoir qu’il avait payé les frais juridiques en vue de tirer un revenu d’une entreprise.
+[39] L’appelant a également soutenu qu’il avait payé les frais juridiques principalement en vue d’obliger New Buffalo à lui verser les honoraires d’expert‑conseil ou de gestion. Les services fournis par l’appelant en contrepartie des honoraires d’expert‑conseil ou de gestion étaient des activités distinctes de l’appelant.
+[40] Même si le litige concernait également la restitution par les sociétés Chatelaine et Beau Park des actions de New Buffalo qu’avait hypothéquées l’appelant, l’avocat a soutenu qu’il s’agissait d’un but accessoire ou secondaire du litige.
+[41] Le fait qu’une partie des honoraires aient pu être payée par New Buffalo à 122 Ltd., puis par 122 Ltd. à l’appelant, ne rend pas, comme cela a été soutenu, le lien avec les frais juridiques trop indirect pour l’application de l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (Canada) (la « Loi »).
+[42] L’intimée a fait valoir que les frais juridiques n’étaient pas déductibles au motif que l’appelant ne les avait pas payés en vue de tirer un revenu d’une entreprise, mais plutôt pour protéger une immobilisation, soit les actions que l’appelant détenait dans New Buffalo.
+[43] L’intimée a souligné, au paragraphe 22 de son mémoire écrit, qu’il [traduction] « n’y a pas de lien direct entre le revenu que l’appelant a tiré de l’entreprise et les frais juridiques pour lesquels il a demandé une déduction en 2004, en 2005 et en 2006. Ce lien nécessaire est absent; par conséquent, les frais juridiques ne sont pas déductibles au titre de l’alinéa 18(1)a) de la Loi. »
+[44] L’intimée a également fait valoir que les frais juridiques constituent un paiement à titre de capital. L’appelant a payé les frais en vue de se protéger contre la procédure de forclusion injustifiée visant les actions qu’il détenait dans New Buffalo et de mettre fin à cette procédure. L’avocat de l’intimée a soutenu que [traduction] « tout le litige visait en réalité à protéger le capital‑actions et cela en a fait une immobilisation de » l’appelant [13] .
+III. Le droit applicable en résumé
+[45] Selon l’article 9 de la Loi, le revenu qu’un contribuable tire d’une entreprise est le bénéfice qu’il en tire pour l’année, sous réserve des diverses restrictions et des divers rajustements prévus par la Loi.
+[46] La première disposition pertinente est l’alinéa 18(1)a). Celui-ci dispose que les dépenses ne sont pas déductibles, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de son entreprise.
+[47] Dans l’arrêt Symes c. Canada [14] , à la page 376, la Cour suprême du Canada a fait observer que le critère énoncé à l’alinéa 18(1)a) est simple : le contribuable a‑t‑il engagé la dépense en cause en vue de tirer un revenu de l’entreprise ou de faire produire un revenu à l’entreprise?
+[48] La Cour suprême du Canada a souligné l’importance de la preuve objective pour trancher cette question :
+Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances [15] .
+[49] Dans la décision Ironside c. La Reine, ma collègue, la juge Campbell, après avoir renvoyé à l’arrêt Symes de la Cour suprême du Canada, a fait observer que la question de savoir si l’objet d’une dépense est la production d’un revenu ou non est une question de fait. Elle a précisé que la décision relative à l’objet est axée sur la question du « lien » entre le besoin que la dépense satisfait et l’entreprise elle‑même [16] .
+[50] La deuxième disposition pertinente concernant la détermination du bénéfice de l’appelant au titre de l’article 9 est l’alinéa 18(1)b). Celui‑ci dispose, en partie, qu’une dépense en capital, une perte en capital ou un remplacement de capital, ou encore un paiement à titre de capital ne sont pas déductibles.
+[51] Dans l’arrêt Imperial Tobacco Canada Ltd. c. La Reine, la Cour d’appel fédérale a souligné que la Cour devrait aborder l’alinéa 18(1)b) de la manière suivante :
+L’interdiction légale de déduire un paiement à titre de capital requiert d’examiner les principes permettant de faire la distinction entre capital et revenu. La conclusion à laquelle on arrive tient principalement aux faits de l’espèce, la jurisprudence offrant des indications sur les facteurs à prendre en compte [17] .
+IV. Application du droit aux faits
+[52] Je me pencherai d’abord sur les frais juridiques payés en 2004, en 2005 et en 2006 relativement à l’action intentée en Arizona. Il s’agissait d’une poursuite visant la résiliation du protocole d’accord au motif que Chatelaine, Beau Park et M. Holtz n’avaient pas fait les prêts prévus dans l’accord. En particulier, l’appelant a allégué que Chatelaine et Beau Park n’avaient consenti les prêts prévus ni à lui-même ni à sa société de gestion et que M. Horn n’avait pas consenti les prêts d’actionnaire prévus à la société New Buffalo.
+[53] Après examen des éléments de preuve objectifs dont je dispose, du protocole d’accord ainsi que de la plainte déposée par l’appelant dans l’action intentée en Arizona, je conclus que, lorsque l’appelant a intenté l’action en Arizona, son but principal était d’obliger Chatelaine et Beau Park à renoncer à leur garantie sur ses actions dans New Buffalo et à le libérer de sa garantie personnelle. Par conséquent, les frais juridiques payés relativement à l’action intentée en Arizona n’ont pas été payés en vue de tirer un revenu d’une entreprise exploitée par l’appelant. Ils ont été payés afin d’obtenir un titre « libre » sur une immobilisation, soit les actions détenues par l’appelant dans New Buffalo, et de supprimer une garantie personnelle.
+[54] Je vais maintenant examiner les frais juridiques payés relativement aux actions intentées par Chatelaine et Beau Park. À la lumière de l’élément de preuve objectif dont je dispose, c’est‑à‑dire l’ordonnance du 8 février 2006 rendue par la Cour du Banc de la Reine de l’Alberta, je conclus que l’objectif principal de cette poursuite était de faire exécuter la garantie fournie par l’appelant au titre du protocole d’accord. Autrement dit, en contestant l’action, l’appelant protégeait l’intérêt qu’il possédait dans les actions de New Buffalo.
+[55] Par conséquent, les frais juridiques payés relativement aux actions intentées par Chatelaine et Beau Park n’ont pas été payés en vue de tirer un revenu d’une entreprise exploitée par l’appelant. Ils ont été payés pour protéger le titre de l’appelant relatif à une immobilisation, à savoir les actions qu’il détenait dans New Buffalo.
+[56] Le principal objectif du recours pour abus était de protéger les intérêts de l’appelant dans New Buffalo; les frais juridiques qui s’y rapportent n’ont pas été payés dans le but de tirer un revenu de l’entreprise d’experts-conseils exploitée par l’appelant.
+[57] J’admets que l’ordonnance du 20 décembre 2005 enjoint à New Buffalo de verser la rémunération et l’arriéré de la rémunération pour des services fournis par l’appelant. Toutefois, l’appelant a fourni ces services au nom de 122 Ltd. Tout avantage relatif au paiement de ces sommes a été tiré par 122 Ltd. et non par l’appelant. En fait, comme nous le verrons plus loin, en 2006, 122 Ltd. a versé à l’appelant moins de 125 000 $ du montant approximatif de 568 000 $ qu’elle avait facturé à New Buffalo.
+[58] En ce qui concerne l’observation de l’appelant selon laquelle il a engagé les frais juridiques en vue de tirer un revenu d’une entreprise qui offrait des services à New Buffalo, je ne dispose d’aucun élément de preuve établissant qu’il a tiré un revenu d’une telle entreprise.
+[59] Je n’arrive même pas à cerner quelle était la nature des activités que l’appelant a exercées pendant la période pertinente. Pour établir la cotisation à l’égard de l’appelant, le ministre a formulé les hypothèses suivantes sur la source des revenus de l’appelant pendant les années pertinentes :
+- Le seul revenu gagné par l’appelant en 2004 provenait de l’entreprise de vente de véhicules récréatifs.
+- L’appelant n’a tiré aucun revenu de quelque source que ce soit en 2005.
+- En 2006, l’appelant a reçu des honoraires d’expert‑conseil de Voyager RV Ltd. et des honoraires de gestion de 122 Ltd.
+- L’appelant n’a jamais déclaré de revenus provenant de New Buffalo [18] .
+[60] L’appelant a laissé entendre dans son témoignage qu’il avait personnellement fourni des services à New Buffalo en 2004 et en 2005 en contrepartie d’honoraires d’expert‑conseil ou de gestion. Ce témoignage ne concorde pas avec les éléments de preuve dont je dispose. Comme je l’expliquerai plus loin, il ressort de la preuve dont je suis saisi que l’appelant n’a jamais reçu d’honoraires d’expert‑conseil ou de gestion de la part de New Buffalo.
+[61] Le seul revenu que l’appelant a inscrit dans sa déclaration de revenus pour 2004 était un revenu tiré d’une entreprise et un gain en capital provenant de la vente d’actions [19] . L’État des résultats des activités d’une entreprise montre des ventes brutes, commissions ou autres honoraires de 609 500 $, un coût des marchandises vendues de 506 529 $ et de nombreuses dépenses, notamment dans les catégories livraison, transport et messageries, réparation et entretien ainsi que frais de bureau.
+[62] L’appelant a d’abord nié avoir vendu des véhicules récréatifs après son retour au Canada. Toutefois, en contre‑interrogatoire, lorsqu’on a porté à son attention sa déclaration de revenus pour 2004, il a admis qu’il avait exploité en 2004, à titre de propriétaire unique, une entreprise de vente de véhicules récréatifs au Canada [20] . Il a déclaré qu’il avait besoin d’argent pour subvenir aux besoins de sa famille.
+[63] Le témoignage de l’appelant à l’égard des activités qu’il a exercées en 2004 a sérieusement affaibli sa crédibilité. Je n’ai accordé aucun poids à son témoignage en ce qui concerne la source de ses revenus de 2004.
+[64] Je conclus, au vu des éléments de preuve dont je suis saisi, que le seul revenu que l’appelant a inscrit dans sa déclaration de revenus pour 2004 est celui provenant de la vente de véhicules récréatifs et d’un gain en capital.
+[65] Les parties n’ont pas produit la déclaration de revenus pour 2005 de l’appelant. En fait, l’appelant n’a pas présenté d’éléments de preuve pour réfuter, même à première vue, l’hypothèse du ministre selon laquelle il n’avait tiré aucun revenu d’une quelconque source en 2005.
+[66] Les parties ont produit la déclaration de revenus pour 2006 de l’appelant [21] . Le seul revenu (perte) figurant dans la déclaration est une perte de 20 747 $ découlant d’activités commerciales. L’État des résultats des activités d’une entreprise montre un revenu brut de 125 000 $.
+[67] Les éléments de preuve dont je suis saisi n’indiquent pas clairement la source de ce revenu brut. L’appelant a déclaré dans son témoignage qu’au moins une partie du revenu brut provenait d’honoraires d’expert‑conseil que lui avait versés sa société, à savoir 122 Ltd. Toutefois, une partie du revenu pourrait également provenir d’honoraires payés par la société Voyager RV Ltd.
+[68] Comme je l’ai déjà expliqué, au cours de 2006, 122 Ltd. a facturé des services d’expert‑conseil à New Buffalo. Le montant des factures était de plus de 568 000 $. J’ai supposé que 122 Ltd. avait versé une partie du montant de 568 000 $ à l’appelant à titre d’honoraires d’expert‑conseil. Je ne peux établir avec certitude la somme qui a réellement été payée, mais elle était inférieure à 125 000 $, qui est le revenu brut d’entreprise figurant dans la déclaration de revenus pour 2006 de l’appelant.
+[69] En résumé, l’appelant a déclaré en 2004 un revenu provenant de la vente de véhicules récréatifs et en 2006 un revenu provenant de la prestation de services d’expert‑conseil à 122 Ltd. et à Voyager RV Ltd. Il n’a déclaré aucun revenu en 2005. Comme le ministre l’a supposé, l’appelant n’a déclaré aucun revenu provenant de la prestation de services à New Buffalo.
+[70] En outre, la rémunération en souffrance dont fait mention l’ordonnance du 20 décembre 2005 a été payée en 2006 à 122 Ltd. et non à l’appelant [22] .
+[71] Les éléments de preuve objectifs dont je dispose n’étayent pas une conclusion de fait selon laquelle l’appelant a exploité une entreprise qui offrait des services d’expert‑conseil ou de gestion à New Buffalo pendant la période pertinente. L’appelant a peut‑être exploité une entreprise de prestation de services au cours de cette période, mais il ressort des éléments de preuve dont je suis saisi que, lorsque le protocole d’accord a été signé en 2002, il fournissait de tels services à une société de gestion, qui à son tour fournissait les services à New Buffalo, et qu’il travaillait également en tant qu’employé de New Buffalo. À compter de 2006, il a fourni ces services à 122 Ltd., laquelle à son tour les fournissait à New Buffalo.
+[72] Les frais juridiques n’ont pas été payés en vue de tirer un revenu des services fournis par l’appelant à sa société de gestion. L’appelant a engagé les frais juridiques pour protéger les actions qu’il détenait dans New Buffalo et pour tenter d’être libéré de sa garantie personnelle.
+[73] Pour les motifs qui précèdent, l’appel est rejeté, avec dépens à l’intimée.
+Signé à Antigonish (Nouvelle‑Écosse), ce 5e jour de septembre 2017.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 10e jour de septembre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 167
+NO DU DOSSIER DE LA COUR :
+2014‑2993(IT)G
+INTITULÉ :
+KEN HORN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 14 février 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 5 septembre 2017
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Robert A. Neilson
+Avocats de l’intimée :
+Me Donna Tomljanovic
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Robert A. Neilson
+Cabinet :
+Felesky Flynn LLP
+Edmonton (Alberta)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] À l’exception des annotations manuscrites figurant sur les documents, qui ont été ajoutées par le vérificateur de l’Agence du revenu du Canada.
+[2] Pièce AR‑40.
+[3] Pièce AR‑24.
+[4] Pièce AR‑24, clause VII.
+[5] Pièce AR‑28.
+[6] Pièce R‑1.
+[7] Transcription, à la page 103.
+[8] Pièce AR‑26.
+[9] Pièce AR‑26, alinéas b), c) et d).
+[10] Pièce AR‑14.
+[11] Pièce AR‑15.
+[12] Pièce AR‑16.
+[13] Transcription, à la page 190.
+[14] [1993] 4 R.C.S. 695 (« Symes »).
+[15] Symes, à la page 736.
+[16] 2013 CCI 339, aux paragraphes 31 à 33.
+[17] 2011 CAF 308, au paragraphe 21.
+[18] Réponse modifiée, aux alinéas 12b), c), e), g) et o).
+[19] Pièce AR‑1.
+[20] Transcription, aux pages 52 à 56.
+[21] Pièce AR‑2.
+[22] Il n’est pas clair, à mes yeux, comment 122 Ltd. pouvait établir des factures pour des services fournis avant sa création.

@@ -1,0 +1,149 @@
+---
+title: "The Girls Gym of Canada Ltd v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30395/index.do"
+last_modified: "2011-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 312"
+citation2: ""
+neutral_citation: "2011 TCC 312"
+decision_date: "2011-06-21"
+language: "en"
+item_id: "30395"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7868
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:31:01.511000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb9e359c6e7d7ec7d1bb30e947737b5ac0d22c8ba3b454aa4242d9d77f4bced7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Girls Gym of Canada Ltd v. M.N.R.
+
+- Citation: 2011 TCC 312
+- Decision date: 2011-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Girls Gym of Canada Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-21
+Neutral citation
+2011 TCC 312
+File numbers
+2010-2399(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2010-2399(EI)
+2010-2400(CPP)
+BETWEEN:
+THE GIRLS GYM OF CANADA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 8 and 9, 2011 at Sudbury, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Mary Duhaime
+Counsel for the Respondent:
+Ashleigh Akalehiywot
+____________________________________________________________________
+JUDGMENT
+The appeal, with respect to decisions of the Minister of National Revenue made on April 19, 2010 under the Employment Insurance Act and the Canada Pension Plan relating to the insurable and pensionable employment of Ashley Carr-Venhola and Natasha Delaney, is dismissed, and the decisions are confirmed.
+The appeal, with respect to decisions of the Minister of National Revenue made on April 19, 2010 under the Employment Insurance Act and the Canada Pension Plan relating to the insurable and pensionable employment of Renee Fuchs and Ashley Veale, is allowed, and the decisions are vacated.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 21st day of June 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 312
+Date: 20110621
+Dockets: 2010-2399(EI)
+2010-2400(CPP)
+BETWEEN:
+THE GIRLS GYM OF CANADA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The Girls Gym of Canada Ltd. appeals in respect of decisions made by the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan concerning the insurable and pensionable employment of four workers during various periods between August 1, 2006 and March 30, 2008.
+[2] Counsel for the respondent informed the Court at the commencement of the hearing that the respondent consents to the appeals being allowed with respect to two of the workers, Renee Fuchs and Ashley Veale. Those decisions will therefore be vacated.
+[3] The workers whose status is still at issue are Ashley Carr-Venhola and Natasha Delaney (the “Workers”).
+[4] The relevant period for Ms. Carr-Venhola is from August 10, 2006 to February 9, 2007. The relevant period for Ms. Delaney is from February 1, 2007 to March 26, 2008.
+[5] The only question to be determined in this appeal is whether the Workers were engaged as employees or independent contractors during the relevant periods. The decisions of the Minister were that the Workers were employees.
+[6] At all material times, the appellant operated a fitness club for women. The facility is no longer in operation.
+[7] The principals of the appellant were Maria Duhaime and her husband, David Beaudry. Ms. Duhaime was the manager of the business and she represented the appellant at the hearing.
+[8] Ms. Duhaime provided testimony on behalf of the appellant. The respondent called two witnesses, Ms. Delaney and Marlene Cundari. Ms. Cundari was the CRA rulings officer in charge of this matter.
+[9] The applicable principles in a case such as this are well known. The hallmark of being an independent contractor is that the person is in business for herself. The intention of the parties is very relevant, but it is not determinative. The proper approach was described by the Federal Court of Appeal in Royal Winnipeg Ballet v. MNR, 2006 FCA 87, 2006 DTC 6323 in the following manner:
+64 In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the judge to an incorrect conclusion.
+[10] With these principles in mind, I will first consider the intention of the parties.
+[11] The parties’ intention was not entirely clear at the commencement of the relationship. It was agreed that there would be no source deductions and this is often a strong indicator of a mutual intent that the worker be self-employed. The situation was clouded, however, by the use of the term “employment” in the written engagement agreements.
+[12] On balance, I would conclude that there was a mutual intention for the Workers to be self-employed. I find that this is what the appellant intended, and that the use of the term “employment” in the agreements was a casual reference that was not intended to define the relationship. The intention was discussed briefly with Ms. Delaney at the time of her engagement and she agreed to it.
+[13] At the hearing, Ms. Delaney briefly testified that she thought she was an employee. I found this testimony to be too brief to be persuasive.
+[14] The mutual intention of the parties is not the end of the matter, however. Intention is an important factor, but it is not determinative. One must consider whether the parties’ conduct was consistent with this intention. In my view, it was not.
+[15] The Wiebe Door factors to be considered include control, ownership of tools, opportunity for profit, risk of loss and integration.
+[16] In this particular case, as often happens, the factor of “control” is the most important. In determining whether the appellant had control, it is relevant to consider the extent to which the appellant had the ability to control the manner in which the work was performed.
+[17] The Workers were engaged primarily as personal trainers, and their work included general duties related to the operation of the facility as assigned to them by Ms. Duhaime. This strongly suggests that the Workers were not in business for themselves.
+[18] The evidence reveals that the appellant most definitely had the authority to dictate the manner in which the work was performed. This is sufficient to establish control for these purposes, but I would also mention that control was actually exercised in a significant manner. Detailed directions were provided to the Workers and scripts were provided for certain activities such as sales solicitation.
+[19] The other Wiebe Door factors also suggest that the Workers were not in business for themselves.
+[20] As for tools, the tools that were provided by the Workers were minimal, such as personal clothing and occasional transportation to charity events. This factor suggests employment.
+[21] As for the opportunity for profit, the Workers were paid on an hourly basis and received a bonus when a new client was brought in through their efforts.
+[22] Ms. Duhaime suggested that the Workers could earn a profit through their own efforts because the hours assigned to a Worker would depend partly on client requests.
+[23] This is not a strong factor in favour of self-employment, in my view. The key point is that the Workers were paid on an hourly basis, which suggests an employment relationship. The fact that good performance may lead to greater hours is relevant, but not a strong factor. As for the bonuses given for new clients, the evidence did not persuade me that this was a significant factor. On balance, the factor of opportunity for profit is more indicative of employment in this case.
+[24] As for risk of loss, the evidence does not suggest that the Workers were exposed to any significant risk of loss. This also points towards an employment relationship.
+[25] As for integration, the Workers were involved in the general operation of the gym, from soliciting new clients, performing personal training, and looking after the physical facilities. The Workers seemed to be involved in all aspects of the business except management and administration. They were well integrated in the business operation, and this also points towards employment.
+[26] Based on all these factors, the conduct of the parties was inconsistent with an independent contractor relationship in my view. As the Royal Winnipeg Ballet case informs us, the mutual intention of the parties will not govern if the parties’ conduct is not consistent with that intention. Unfortunately for the appellant, it was not in this case.
+[27] The appeal with respect to Ms. Carr-Venhola and Ms. Delaney will be dismissed, and the decisions with respect to them will be confirmed.
+[28] Each party shall bear their own costs.
+Signed at Toronto, Ontario this 21st day of June 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 312
+COURT FILE NOS.: 2010-2399(EI)
+2010-2400(CPP)
+STYLE OF CAUSE: THE GIRLS GYM OF CANADA LTD. and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Sudbury, Ontario
+DATES OF HEARING: June 8 and 9, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: June 21, 2011
+APPEARANCES:
+Agent for the Appellant:
+Mary Duhaime
+Counsel for the Respondent:
+Ashleigh Akalehiywot
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

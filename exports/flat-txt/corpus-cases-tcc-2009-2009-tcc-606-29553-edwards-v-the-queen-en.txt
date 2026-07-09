@@ -1,0 +1,151 @@
+Title: Edwards v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29553/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-606-29553-edwards-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-30
+
+# Edwards v. The Queen
+
+- Citation: 2009 TCC 606
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6371, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Edwards v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-30
+Neutral citation
+2009 TCC 606
+File numbers
+2007-3474(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3474(IT)G
+BETWEEN:
+MICHAEL EDWARDS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 24, 2009, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Ian MacGregor
+Pooja Samtani
+Counsel for the Respondent:
+Martin Hickey
+Devon E. Peavoy
+____________________________________________________________________
+ORDER
+The motion is dismissed with costs in the cause, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 30th day of November 2009.
+"François Angers"
+Angers J.
+Citation: 2009 TCC 606
+Date: 20091130
+Docket: 2007-3474(IT)G
+BETWEEN:
+MICHAEL EDWARDS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Angers J.
+[1] This is a motion for an order of this Court to strike all or part of subparagraphs 13(h) and 13(cc) of the Amended Reply to the Notice of Appeal pursuant to sections 4 and 53 of the Tax Court of Canada Rules (General Procedure) (the "Rules").
+[2] The appellant's appeal is from a reassessment for his 2003 taxation year, the notice of which is dated March 29, 2007. On April 26, 2007, the appellant served on the Minister of National Revenue (the Minister) a Notice of Objection with regard to the reassessment; he filed with this Court on August 1, 2007 a Notice of Appeal concerning the reassessment. The issues in the appeal are whether the Minister properly disallowed the appellant's claim for a charitable donation credit on the basis that the appellant did not make a gift within the meaning of subsection 118.1(1) of the Income Tax Act (the "Act"), and if there was a gift, whether the gift had a fair market value greater than nil, and whether the general anti-avoidance rule (GAAR) is applicable in the circumstances to deny the charitable donation credit with respect to the full amount of the payment made to the charity.
+[3] The two subparagraphs that the appellant seeks to have struck are part of the assumptions relied upon by the Minister in reassessing the appellant and they read as follows:
+13h) The Royalty Agreement had a nominal fair market value;
+13cc) The following parties were willing participants, acting in concert to facilitate execution of the Scheme:
+i) Trafalgar Trading;
+ii) ParkLane;
+iii) Plaza Capital;
+iv) Plaza Capital Finance Corporation ("Plaza Capital Finance");
+v) Specialty Insurance;
+vi) the Designated Associations; and
+vii) the Participant.
+[4] The grounds for the motion are as follows:
+4. the Subject Paragraphs were not assumed by the Minister of National Revenue when making the assessment, as required by paragraph 49(1)(d) of the Rules; the pleading of the Subject Paragraphs therefore constitutes an abuse of process within the meaning of paragraph 53(1)(c) of the Rules;
+5. such further and other grounds as counsel may advise and this Honourable Court may permit.
+[5] Paragraph 53(1)(c) of the Rules reads as follows:
+Striking out a Pleading or other Document
+The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) . . .
+(b) . . .
+(c) is an abuse of the process of the Court.
+[6] The evidence submitted by the appellant is contained in an affidavit to which are attached several letters and memos drafted by Mr. Richard Newson, a tax avoidance auditor with the Canada Revenue Agency (CRA). These letters and memos include among other things:
+(a) Notes of Meeting between the auditor and the Valuations Division in the form of a memo to file;
+(b) a 30‑day notice letter to the appellant dated January 17, 2007 and template similar letter;
+(c) a letter to the promoter, ParkLane Financial Group Ltd., dated February 12, 2007;
+(d) the T-20 Audit Report dated March 2, 2007 and template;
+(e) a position paper on the ParkLane Charitable Donation Program;
+(f) a GAAR referral memo to the GAAR committee issued prior to the January 2007 proposal letter;
+(g) various excerpts from the transcript of the examination for discovery of Mr. Newson held on January 7, 2009 and June 29, 2009.
+[7] The respondent submitted an affidavit of CRA tax avoidance auditor Richard D. Newson.
+[8] The appellant's position is that there is no evidence which supports the two disputed assumptions of fact. It was a long and complex audit in which all assumptions other than the two at issue were meticulously documented with supporting evidence. The appellant cited case law in which it is held that, when pleading assumptions, the Minister must only plead contents that are documented facts and not mere thoughts or musings which have not yet crystallized. He submits that because the audit report made no reference at all to the value of the Royalty Agreement, value could not be the basis of an assumption made during the reassessment.
+[9] With regard to the second disputed assumption, the appellant submits that the wrong wording was used therein. The correct assumption, according to the appellant, should be that the parties named were participants in a "series of transactions" since, in order for them to have acted "in concert", the parties had to be interdependent and act with the same interest.
+[10] The Minister argues that the test for striking pleadings is stringent and should be applied only in the most egregious cases. It is the Minister's position that certain assumptions can be inferred even though documents do not specifically contain a statement such as "the Royalty Agreement had a nominal fair market value". The absence thereof does not mean that the statement is untrue. The Minister is of the opinion that because the Royalty Agreement did not benefit the charity (the designated associations), it is implicit that the agreement had only a nominal value.
+[11] Again, concerning the second assumption at issue, the Minister's position is that "acting in concert" means acting together in "a series of transactions or events" as described in subsection 248(10) of the Act. According to the Minister, since all the parties acted together in this instance to execute the plan, the assumption that they acted in concert is accurate and there is no difference between "acting together in the scheme" and "acting in concert". The Minister submits lastly that if there is an issue with regard to the phraseology used, it may be brought up at trial and dealt with by the trial judge.
+[12] Pleadings in tax litigation are unique in that, when assumptions are pleaded in a tax appeal, the burden of proof is reversed and falls upon the taxpayer, who is then required to disprove on a balance of probabilities the assumptions made by the Minister. Mr. Justice Létourneau, in The Queen v. Anchor Pointe Energy Ltd., 2007 DTC 5379, makes reference to various decisions and sums up well the importance of pleadings in tax cases, at paragraphs 27, 28 and 29.
+In our self-reporting system of taxation, the Minister makes assumptions of fact in determining the tax liability of a taxpayer. As Rothstein, J.A., as he then was, said in Canada v. Anchor Pointe Energy Ltd., supra, "the practice is for the Crown to disclose in its pleadings assumptions of fact made by the Minister upon which his determination of the tax owing is based"; see paragraph 2. In the words of Bowman, A.C.J.T.C., as he then was, these assumptions "are supposed to be a full and honest disclosure of the facts upon which the Minister of National Revenue relied in making the assessment": Holm et al. v. The Queen 2003 DTC 755, at paragraph 9.
+When pleaded, assumptions of fact place on the taxpayers the initial onus of disproving, on a balance of probabilities, the facts that the Minister assumed: see Canada v. Anchor Pointe Energy Ltd., supra, at paragraph 2, Hickman Motors Ltd. v. Canada [97 DTC 5363] [1997] 2 S.C.R. 336, at paragraph 92. Unpleaded assumptions have no effect on the burden of proof one way or the other: see The Queen v. Bowens 96 DTC 6128, at page 6129, Pollock v. The Queen 94 DTC 6050, at page 6053.
+Fairness requires that the facts pleaded as assumptions be complete, precise, accurate and honestly and truthfully stated so that the taxpayer knows exactly the case and the burden that he or she has to meet: Canada v. Anchor Pointe Energy Ltd., supra, at paragraph 23, Holm et al. v. The Queen, supra, Canada v. Lowen [2004 DTC 6321] [2004] 4 F.C.R. 3, at paragraph 9. (F.C.A), Grant v. The Queen et al., 2003 DTC 5160, at page 5163, First Fund Genesis Corporation v. Her Majesty the Queen 90 DTC 6337, at page 6340, Shaughnessy v. Her Majesty the Queen 2002 DTC 1272, at paragraph 13, Stephen v. Canada [2001] T.C.J. No. 250, at paragraph 6.
+[13] In tax litigation, this Court has always stressed the obligation on the Minister to provide full and honest pleadings. In Gould v. Canada, 2005 TCC 556 at paragraph 12, Chief Justice Bowman said the following on this topic.
+One must bear in mind that in tax litigation pleadings serve several functions. For example, the reply should set out fully the respondent's position. It should plead honestly and comprehensively the assumptions upon which the assessment is based. It should be informative to the judge so that he or she will know the Crown's position and the issues that must be decided, matters that are being put in issue and the facts the Crown assumes or intends to prove. It should also inform the appellant of the case that is to be met. The essential and important function that pleadings serve in litigation is a practical one of providing information about the party's case.
+[14] In The Queen v. Loewen, 2004 DTC 6321, it is stated that the Crown's obligation of clarity and accuracy means that it cannot make impossible assumptions, nor can it plead assumptions that were not made until after the assessment. The Crown is further precluded from pleading as assumptions statements or conclusions of law since such is not the purpose of assumptions.
+[15] What is of interest in the present matter is the second limitation, namely that the Crown may not plead assumptions not made at the time of the assessment. In Holm et al v. The Queen, 2003 DTC 755, Chief Justice Bowman said at paragraph 18 that "[i]t is undeniable that there is a strongly held view in this court that to plead as assumptions facts that were not assumed on assessing is improper and reprehensible". Similarly, Judge Rip (as he then was) held as follows in Anchor Pointe Energy Ltd. v. R., [2002] 4 C.T.C. 2633, at paragraph 26:
+The Crown has a serious obligation to set out honestly and fully the actual assumptions upon which the Minister acted in making the assessment, whether they support the assessment or not. Pleading that the Minister assumed facts that he could not possibly have assumed is not a fulfilment of that obligation.
+[16] It is also well established in case law that although the Crown has the burden of ensuring that assumptions are clear and accurate, the onus is on the taxpayer seeking to strike pleadings to prove that the Minister did not make the assumption at the time of reassessment. (See Stanfield v. The Queen, 2007 DTC 1071, Loewen, supra, and Hickman Motors Ltd. v. The Queen, 97 DTC 5363.) It also appears that the threshold for striking assumptions is high.
+[17] In 2003, the appellant made a cash donation of $10,000 to the Canadian Amateur Wrestling Association, and in computing his income for that year, he claimed a charitable donation credit with respect to that donation. The Minister, as we know, denied the deduction and assumed, among other assumptions of fact, that the Canadian Amateur Wrestling Association participated in a donation program promoted by ParkLane Financial Group Limited in 2003 and that it allocated 93% of the donation for the purchase of a 20-year investment contract from Trafalgar Trading Limited, this being the "Royalty Agreement" referred to in the assumptions of fact. In his audit report, and as part of his assumptions, the Minister has also detailed how the flow of the funds through the hands of the various participants identified in subparagraph 13cc) of the Amended Reply, that is, the second subparagraph in issue, constituted the series of transactions assumed.
+[18] A review of the documents submitted, such as the 30-day notice letter to the appellant, the letter to the promoter, the audit report and the position paper, shows that they contain no statement per se that the Royalty Agreement had a nominal fair market value, and that fact was acknowledged by Mr. Newson when questioned on this at his examination for discovery. On the other hand, Mr. Newson maintained during discovery that, notwithstanding the fact that he had had no valuation done of the Royalty Agreement, he did make an assumption of fact that it had a nominal value. He further testified at discovery that in his proposal letter (30‑day notice), he referred to a series of transactions that included the acquisition of the Royalty Agreement as part of the series. In that 30‑day notice, which is one of the earliest pieces of evidence, Mr. Newson wrote on page 5:
+Through a series of transactions and directions signed by all parties involved these funds followed a circular flow and ended up back in the hands of the creditor. This series of transactions was preordained with the result that, for a minimal payment, you would never be held responsible to pay the amount claimed as a donation and that you would claim the donation tax credit that exceeded the cost of participating in this scheme. It is our opinion that you participated in this scheme with full knowledge of this material benefit. Accordingly, it is our opinion that the full amount of the funds transferred to the charities does not represent a gift.
+[19] The 30‑day notice letter to the appellant also describes in clear detail the series of transactions and particularly the circular flow of funds referred to above. In concluding, Mr. Newson wrote:
+It is our opinion that the series of transactions has frustrated the object, spirit and purpose of subsection 118.1(3). This series of transactions was intended to give the illusion that funds have been donated to the charities when in fact this scheme was never intended to enrich the charities. Under this series of transactions the charities were obligated to transfer substantially all of the funds received to specific parties. In addition, although the charity allegedly invested the funds it received in an investment contract, these same funds ended up back in the hands of the creditor the same day. Finally the charities had no recourse to recover any of these funds. As a result the charities did not have unfettered use of the funds nor were any of the funds available to be invested for the benefit of the charities. This circular flow of the funds was preordained with the intended result that the charity would never have use of these funds for its activities. The charities were simply conduits through which the funds were flowed in an attempt to generate the donation tax credit. This is contrary to the intended purpose of subsection 118.1(3) and represents a misuse and abuse of the Act.
+[20] It appears to me that the Minister's position that the funds flowed through the charity, which was used as a conduit, was developed as early as the Valuations Division meeting, although, according to Mr. Newson, there was no discussion of a need to value the charity's investment contract. On the other hand, it would make sense for the Minister to view the entire scheme as a series of transactions in which the charity acted as a mere conduit and, accordingly to implicitly assume that the Royalty Agreement could not have anything other than a nominal value. That, in light of all the circumstances, appears to be a logical conclusion. The Minister's perspective, in my opinion, does have a significant impact on the value of the Royalty Agreement, and I am satisfied that his assumption of fact in this regard was made and relied upon at the time of the reassessment.
+[21] The position of each party concerning the second assumption at issue has been described earlier in these reasons. Suffice it to say that the appellant's position is that the wrong wording was used; rather than "acting in concert", the appellant argues, the words "participated in a series of transactions or events" should have been used because the parties acted independently of each other and had separate interests. The Minister's position is that each party was a willing and necessary participant in the entire scheme, otherwise it would not have worked. He relies on subsection 248(10) of the Act for his argument that "acting in concert" means acting together in a "series of transactions or events". Lastly, the Minister argues that if there is an issue with respect to the terminology used, this should be addressed at trial.
+[22] Mr. Newson conceded in his evidence on examination for discovery that the audit material does not refer to "acting in concert". What he said was that the parties were part of a series of transaction or events as described in subsection 248(10) of the Act. He further said that it was not the Minister’s position that the parties were not acting, or that the transaction did not take place, at arm's length.
+[23] The issue here is whether the right wording was used in the pleadings, and if it was, whether it fails to reflect the conclusions reached by Mr. Newson during the audit. Mr. Newson speaks of "acting together" and the pleadings speak of "acting in concert". It seems obvious that the legal connotation of the words "acting in concert" may not have been in Mr. Newson's mind at the audit level, but whether the facts will support the use of that phrase is, in my opinion, a matter best left to the trial judge.
+[24] The phrase "acting in concert" is part of the legal test for determining whether a transaction between two parties takes place at arm's length. It requires an inquiry into whether or not parties are acting separately and with distinct interests. It has been held that that test is met if a "person merely participates in a transaction, not for his own benefit but for someone else's or, even if he is acting for his own benefit, if he is also acting for someone else in a context of reciprocity. That person is acting without a separate interest and not independently in his own interest." (See Justice Archambault's decision in Gestion Yvan Drouin Inc. v. Canada, [2000] T.C.J. No. 872 at paragraph 75.)
+[25] It could be said -- and I leave it to the trial judge to make his own finding --, that the parties in this case participated in a series of transactions in which they acted for their own benefit, as well as someone else’s, in order to make the entire series of transactions work. "Acting in concert" or "participating in a series of transactions or events" could thus apply to the fact situation here.
+[26] In this case, given the Minister's position that the parties were willing participants in a series of transactions designed to have funds flow through a charity that served as a conduit, it is again logical for the Minister to assume that each party acted in concert with the others. If there are issues with concerning the use of the phrase "acting in concert" in a context where the non‑arms length relationship of the parties is not disputed, these should be addressed at trial, as suggested by the Minister.
+[27] It has been said that an order to strike out pleadings should be granted only where it is clear and obvious that a pleading is an abuse of the process of the court (see Gould, supra, at paragraph 23, referring to Niagara Helicopters Ltd. v. The Queen, 2003 DTC 513). I do not find that such is the case here.
+[28] Considering the fact that this matter has been set down for trial at a later date than that previously set, I do not find it necessary to deal with the Minister's request that this Court deny leave to attach the pleadings on the basis that it was not done within a reasonable time in accordance with the Rules.
+[29] The motion is dismissed with costs in the cause.
+Signed at Ottawa, Canada, this 30th day of November 2009.
+"François Angers"
+Angers J.
+CITATION: 2009 TCC 606
+COURT FILE NO.: 2007-3474(IT)G
+STYLE OF CAUSE: Michael Edwards v. Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 24, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 30, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Ian MacGregor
+Pooja Samtani
+Counsel for the Respondent:
+Martin Hickey
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ian MacGregor
+Pooja Samtani
+Firm: Osler, Hoskin & Harcourt LLB
+Ottawa, Canada
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

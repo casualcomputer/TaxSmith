@@ -1,0 +1,165 @@
+---
+title: "Forcier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25764/index.do"
+last_modified: "2005-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 7"
+citation2: ""
+neutral_citation: "2005 CCI 7"
+decision_date: "2005-01-11"
+language: "fr"
+item_id: "25764"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3792
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:23:23.855000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "356f00813ed8729835b0f4040bda9a1329ad287ef3ba743224e535e770ff7ff2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forcier c. La Reine
+
+- Citation: 2005 CCI 7
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3792, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forcier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-11
+Référence neutre
+2005 CCI 7
+Numéro de dossier
+2002-198(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-198(IT)I
+ENTRE :
+ÉRIC FORCIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 23 novembre 2004 à Chicoutimi (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993, 1994, 1995, 1996 et 1997 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI7
+Date : 20050111
+Dossier : 2002-198(IT)I
+ENTRE :
+ÉRIC FORCIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Dans ces appels, interjetés selon la procédure informelle, il s'agit de déterminer :
+i) si le ministre du Revenu national (le « ministre » ) était en droit d'établir une nouvelle cotisation à l'encontre de l'appelant pour chacune des années d'imposition 1992, 1993, 1994, 1995, 1996 et 1997, malgré l'expiration de la période normale de nouvelle cotisation;
+ii) si l'imposition d'une pénalité, à l'encontre de l'appelant, pour ces mêmes années d'imposition, à l'égard d'une déduction au titre de pertes autres qu'en capital d'autres années pour chacune des années d'imposition concernées, était justifiée.
+Le fait que l'appelant n'était pas en droit de déduire, dans le calcul de son revenu imposable pour les années en cause, les sommes déclarées annuellement au titre de pertes autres qu'en capital d'autres années n'est pas contesté.
+[2] Les faits sur lesquels le ministre s'est fondé pour établir les cotisations pour les années en cause sont énumérés au paragraphe 5 de la Réponse à l'avis d'appel comme suit :
+a) le dossier origine d'une enquête interne concernant certains employés du Centre fiscal de Jonquière qui avaient mis sur pied un stratagème qui consistait à faire bénéficier, à certaines personnes, de remboursements d'impôt frauduleux en contrepartie d'une commission fondée sur un pourcentage des dits remboursements;
+b) par l'émission d'une cotisation à solde nul datée du 21 septembre 1998, pour l'année d'imposition 1992, le ministre alloua, à l'égard de l'appelant, une perte déductible au titre d'un placement d'entreprise totalisant la somme de 112 500 $ (150 000 $ x 3/4), et y accordait à ce titre comme déduction, dans le calcul du revenu,une somme de 20 078 $;
+c) par nouvelles cotisations établies le 21 septembre 1998, le ministre accordait dans le calcul du revenu imposable de l'appelant, pour les années d'imposition 1993, 1994, 1995, 1996 et 1997, les sommes respectives de 13 206 $, de 11 522 $, de 21 477 $, de 19 158 $ et de 19 041 $, à l'égard d'un report d'une perte autre qu'une perte en capital;
+d) suite à ces nouvelles cotisations, le 21 septembre 1998, l'appelant a reçu un remboursement d'impôt totalisant une somme de 17 316,76 $;
+e) les réclamations d'une déduction à l'égard d'une perte au titre d'un placement d'entreprise quant à l'année d'imposition 1992, et par la suite, celle au titre d'un report d'une perte autre qu'une perte en capital, pour les années d'imposition 1993, 1994, 1995, 1996 et 1997, avaient été rendues possible grâce à l'enregistrement frauduleux dans le système informatique du ministère d'une perte au titre d'un placement d'entreprise totalisant une somme brute de 150 000 $, à l'égard de l'année d'imposition 1992;
+f) l'appelant, aux enquêteurs du ministre,a avoué, qu'il avait prêté oreille à une suggestion de monsieur Mario Boucher, une connaissance qui lui offrait de réviser ses déclarations de revenu, et ce fut dans cette optique qu'il lui divulgua son numéro d'assurance sociale;
+g) l'appelant ne connaissait pas la nature de la déduction qui serait réclamée dans ses déclarations de revenu, ni la somme totale du remboursement qui en résulterait;
+h) aux enquêteurs du ministre, l'appelant a soutenu qu'il n'avait jamais exploité une entreprise;
+i) aux enquêteurs du ministre, l'appelant a seulement reconnu qu'après avoir reçu le remboursement totalisant la somme de 17 316,76 $, il a retiré une somme de 5 000 $ pour son usage personnel;
+j) l'appelant n'a entrepris aucune démarche auprès du ministre, à savoir :
+i) communiquer avec les autorités du Centre fiscal de Jonquière, ou
+ii) retourner tout simplement le chèque ou les chèques aux dites autorités;
+k) le ministre est d'avis que la négligence dont l'appelant a fait montre dans cette affaire s'apparente à de la complicité;
+l) à l'égard des années d'imposition 1992, 1993, 1994, 1995 et 1996, l'appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ou a commis quelque fraude en produisant la déclaration pour chacune des dites années ou en fournissant quelque renseignement sous le régime de la présente « Loi » ;
+m) la réclamation d'une déduction fictive, à l'égard de chacune des années d'imposition 1992, 1993, 1994, 1995, 1996 et 1997, porte le ministre à croire que l'appelant a fait sciemment, ou dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans les déclarations de revenus produites pour les années d'imposition 1992, 1993, 1994, 1995, 1996 et 1997, ou a participé, consenti ou acquiescé à ce faux énoncé ou cette omission, d'oů il résulte que l'impôt qu'il aurait été tenu de payer d'après les renseignements fournis dans les déclarations de revenus déposées pour ces années-là était inférieur au montant d'impôt à payer pour ces années-là.
+[3] Les faits que l'appelant n'a pas admis sont ceux énoncés aux alinéas a), k), l) et m) ci-haut.
+Témoignage
+[4] L'appelant a témoigné qu'il était soudeur pendant les années en cause et qu'à ce titre son revenu d'emploi était d'environ 25 000 $ par année. Il a expliqué que ses déclarations fiscales pour les années en cause avaient été préparées par H & R block et par monsieur Carl Thibault. Au début de l'été 1998, il avait réparé la remorque de monsieur Mario Boucher, une connaissance avec qui il avait occasionnellement fait des randonnées de motocyclette; au lieu de payer l'appelant pour ces réparations, monsieur Boucher lui avait offert de réviser ses déclarations fiscales. C'est dans ce contexte que l'appelant avait divulgué son numéro d'assurance sociale à monsieur Boucher. Le 21 septembre 1998, l'appelant avait reçu un remboursement d'impôt de 17 316,76 $. Il a avoué qu'il avait trouvé ça anormal de recevoir un tel chèque. Il avait alors téléphoné à monsieur Boucher pour obtenir des explications au sujet de ce remboursement d'impôt. Les propos de l'appelant à cet égard méritent d'être cités :
+[...] puis j'ai reçu un chèque de 17 000 $. Puis je l'avais rappelé, j'ai dit : Qu'est-ce qui se passe, ça n'a pas de sens 17 000 $? Ah, tu y as droit, j'ai retourné cinq ans en arrière, tu y as droit.[1]
+L'appelant a expliqué qu'il s'était contenté de la réponse de monsieur Boucher parce qu'il était un néophyte en matière de fiscalité et qu'il croyait être en droit de se fier aux explications de ce dernier. Les propos de l'appelant à cet égard méritent aussi d'être cités :
+Pourquoi je n'ai pas été plus loin? Parce que je me suis fié sur sa parole à lui, sur ce qu'il me disait. C'est un travailleur du gouvernement, ça fait qu'il doit... j'imagine qu'ils sont honnêtes. C'est ça que j'ai pensé.[2]
+Pour ces motifs, l'appelant n'avait pas jugé nécessaire de faire d'autres démarches pour comprendre la nature de ce remboursement. Le 24 septembre 1998, il avait déposé le chèque dans son compte de banque. Il avait retiré en espèces de son compte bancaire des sommes de 5 000 $, de 2 000 $ et de 1 700 $, le 28 septembre 1998, le 9 octobre 1998 et le 20 novembre 1998 respectivement. Il a témoigné qu'il avait retiré ces sommes pour son usage personnel et qu'en aucun temps il n'avait versé pour les services ainsi rendus par monsieur Boucher quelque somme que ce soit à ce dernier à titre de commission ou de rémunération.
+[5] Monsieur Roland Pelletier, un agent d'enquêtes spécialisé de l'Agence des douanes et du revenu du Canada a témoigné qu'en mai 1998 un employé de cette agence s'était rendu compte que le ministère avait fait des remboursements d'impôt à des contribuables sans pièces justificatives à leur dossier. Monsieur Pelletier a expliqué qu'il avait, avec d'autres, mené une enquête dans le cadre de cette affaire. Cette enquête a conduit à l'inculpation et à la condamnation de deux employés de l'Agence, dont monsieur Boucher. L'enquête, selon monsieur Pelletier, a révélé qu'environ 45 contribuables avaient été contactés par ces deux employés ou des tiers et que ces derniers avaient reçu environ 50 % à 66.66 % du remboursement d'impôt perçu par les contribuables. Le nom de monsieur Boucher était associé à plusieurs dossiers, dont celui en l'espèce. C'est dans ce contexte que monsieur Pelletier avait rencontré l'appelant et que les déclarations de ce dernier, telles qu'énoncées à la Réponse à l'avis d'appel, lui avaient été faites. Monsieur Pelletier a aussi témoigné que l'appelant avait toujours nié avoir versé une commission ou une autre forme de rémunération à monsieur Boucher et qu'il n'était pas en mesure de prouver le contraire. Toutefois, il a ajouté qu'il était convaincu que l'appelant avait versé une commission à monsieur Boucher, compte tenu des fonds prélevés par l'appelant de son compte bancaire en argent comptant qui correspondent à environ 55 % des remboursements d'impôts obtenus en l'espèce.
+Analyse
+[6] La Cour d'appel fédérale a récemment appliqué le principe d'aveuglement volontaire en matière de pénalité imposée en vertu du paragraphe 163(2) de la Loi dans les affaires Canada (Procureur général) c. Villeneuve, 2004 CAF 20 et Canada (Procureur général) c. Savard, 2004 CAF 150, lorsqu'elle a confirmé les pénalités imposées à d'autres contribuables ayant participé au même stratagème que l'appelant en l'espèce.
+[7] Ceci étant dit, il faut analyser le comportement de l'appelant une fois qu'il a reçu le remboursement de plus de 17 000 $ en septembre 1998. Il fut d'abord surpris par l'importance du montant. Immédiatement, il a communiqué avec monsieur Boucher, ceci avec raison vu l'ampleur du remboursement par rapport à ses revenus. Il croyait donc qu'il y avait quelque chose d'anormal dans tout ça. Il s'est contenté de la réponse tout à fait simpliste de monsieur Boucher. À mon avis, il a alors fait preuve d'aveuglement volontaire. Il a choisi malgré tout d'encaisser ce chèque. L'appelant aurait eu maintes occasions de s'informer auprès de gens responsables sur la démarche à suivre dans une telle situation. Comme le disait mon collègue le juge Angers dans Réjean Gosselin et Sa Majesté la Reine, [2002] A.C.I. no 520, au paragraphe 9 (QL) :
+[...] Il avait, dès la réception du chèque de remboursement, un doute suffisamment grand quant à la légitimité de ce remboursement et aurait dû, dès lors, entreprendre des démarches auprès des autorités pour corriger cet état de chose. L'appelant a choisi de ne rien faire. Cette inaction de sa part démontre son insouciance et son indifférence au respect de la loi. Son comportement, à mon avis, constitue un degré important de négligence que je qualifie de faute lourde. Il a profité de cet argent sachant, qu'il avait été obtenu par des moyens anormaux. Il a donc acquiescé aux faux énoncés faits par les deux amis de monsieur Tuncas pour obtenir le remboursement en omettant d'agir.
+[8] Bien que l'on puisse comprendre des affaires Villeneuve, précitée, au paragraphe 2, et Savard, précitée, aux paragraphes 3 à 7, que tous les contribuables dans ces affaires avaient avoué avoir versé une ristourne en échange du remboursement, il y avait un contribuable qui n'avait pas avoué avoir effectué un tel versement. En effet, la juge Lamarre Proulx écrivait ce qui suit dans l'affaire Robin Villeneuve et Sa Majesté La Reine, [2002] A.C.I. no 666, aux paragraphes 14, 20 et 21 (C.C.I.) :
+[14] L'appelant n'a pas admis avoir versé un paiement à l'auteur du remboursement mais il a admis avoir retiré immédiatement les deux tiers du montant. Il prétend que c'était pour rembourser un emprunt qu'il avait fait auprès d'un ami pour la construction de sa maison.
+[...]
+[20] L'appelant a admis l'alinéa 8c) de la Réponse portant sur le fait que le jour même du dépôt l'appelant a retiré 8 000 $ en argent comptant. Il s'agit là de la procédure usuelle du stratagème. L'affirmation qu'il n'a pas payé une cenne pour le service rendu par l'auteur du remboursement, n'est pas plausible. La preuve du remboursement d'un prêt de 8 000 $ fait par un ami pour la construction de sa maison n'est appuyée d'aucune pièce.
+[21] La conviction que je tire de la déduction rationnelle des faits et des circonstances, soit le retrait immédiat du montant de 8 000 $ correspondant aux deux tiers du montant du remboursement et l'absence de preuve valable du remboursement d'un prêt d'un ami, est que l'appelant n'a pas été une exception au système du paiement des deux tiers du montant reçu en remboursement, stratagème organisé dont l'intimée a fait la preuve.
+[9] Non seulement je ferais miens ces paragraphes, j'ajouterais même que le témoignage de l'appelant dans son ensemble était très peu crédible.
+[10] Je suis donc convaincu que l'intimée a établi, selon la prépondérance des probabilités, qu'elle était justifiée d'imposer à l'appelant une pénalité pour chacune des années en cause.
+[11] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2005CCI7
+No DU DOSSIER DE LA COUR :
+2002-198(IT)I
+INTITULÉ DE LA CAUSE :
+Éric Forcier et S.M.R.
+LIEU DE L'AUDIENCE :
+Le 23 novembre 2004
+DATE DE L'AUDIENCE :
+Chicoutimi (Québec)
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 11 janvier 2005
+COMPARUTIONS :
+Pour l'appelant:
+L'appelant lui-même
+Pour l'intimée :
+Me Annick Provencher
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Page 11 des notes sténographiques.
+[2] Pages 42 et 43 des notes sténographiques.

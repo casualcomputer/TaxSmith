@@ -1,0 +1,113 @@
+Title: Oram's Enterprises Limited v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521546/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-182-521546-oram-s-enterprises-limited-v-the-king.md
+Document type: case_law
+Last modified: 2025-12-08
+
+# Oram's Enterprises Limited v. The King
+
+- Citation: 2025 TCC 182
+- Decision date: 2025-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5592, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oram's Enterprises Limited v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-12-08
+Neutral citation
+2025 TCC 182
+File numbers
+2020-2473(IT)G
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-2473(IT)G
+BETWEEN:
+ORAM’S ENTERPRISES LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Heard on November 13, 2025 at Ottawa, Ontario.
+Before: The Honourable Justice Edward (Ted) Cook
+Appearances:
+Counsel for the Appellant:
+Sarah Dominic
+Counsel for the Respondent:
+Tokunbo Omisade
+ORDER
+Upon hearing from the parties and in accordance with the attached reasons;
+THIS COURT ORDERS THAT:
+The Respondent’s application under subsection 172(1) of the Tax Court of Canada Rules (General Procedure) is dismissed without costs.
+Signed on this 8th day of December 2025.
+“Ted Cook”
+Cook J.
+Citation: 2025 TCC 182
+Date: 20251208
+Docket: 2020-2473(IT)G
+BETWEEN:
+ORAM’S ENTERPRISES LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Cook J.
+[1] Appeals of the reassessments made under the Income Tax Act of the Appellant’s 2013 to 2017 taxation years were scheduled to be heard in January 2025. The parties managed to come to an agreement on the appeals before the hearing and they filed a consent to judgment for all taxation years.
+[2] On January 27, 2025, I rendered a judgment giving effect to the consent to judgment. The appeals for the 2013 and 2014 taxation years were allowed and the reassessments referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the consent to judgment. The consent to judgment allowed the Appellant a $34,035 small business deduction for the 2013 taxation year and a $12,086 small business deduction for the 2014 taxation year.
+[3] Unfortunately, the parties discovered that the small-business-deduction amounts in the consent were wrong. They submit that the amounts should have been $32,701 for the 2013 taxation year and $28,349 for the 2014 taxation year. To remedy the error, the parties prepared an amended consent to judgment with the corrected amounts.
+[4] The Respondent has applied under subsection 172(1) of the Tax Court of Canada Rules (General Procedure) (“Rules”) for an amendment to my judgment to reflect the amended consent to judgment. The Appellant consents to the application.
+[5] Subsection 172(1) states:
+(1) A judgment that,
+(a) contains an error arising from an accidental slip or omission, or
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+[6] The Respondent accepts that paragraph 172(1)(a) of the Rules does not apply. The paragraph has been interpreted as applying to errors by the Court, not those by the parties. For example, see Highway Customs Warehouse Ltd. v The Queen, 2007 TCC 715 at para 12 and Zarich v The King, 2023 TCC 157. The parties, not the Court, made the error in this instance.
+[7] The Respondent submits that paragraph 172(1)(b) of the Rules does apply. The Respondent argues that I did not adjudicate on the small business deduction because there was no trial and I did not hear any evidence. I did not turn my mind to the issue. Therefore, I did not adjudicate on the small business deduction, and I may use paragraph 172(1)(b) to grant the application.
+[8] As a starting point, I bear in mind that using section 172 of the Rules to amend a judgment should not be done lightly. As noted by Justice Monaghan (as she then was) in Supavititpatana v The Queen, 2020 TCC 46 at para 12: “Rule 172 represents an exception to the principle of finality of judgments.” At para 11, in the context of setting aside a judgment pursuant to paragraph 172(2)(a) of the Rules, she stated:
+… regardless of how sympathetic a taxpayer’s circumstances might be, this Court should not exercise this power lightly. As the Federal Court of Appeal has said, “there is more at stake here on this issue than sympathy: finality of decisions and efficiency of the administration of justice. I believe these fundamental concerns relating to a proper administration of justice are reflected in section 16.2 of the [Tax Court of Canada] Act.” [quoting Scarola v The Queen, 2003 FCA 157 at para 13] –and, I would add are reflected in Rule 172.
+[9] The Respondent’s interpretation conflicts with the desirability of finality in litigation and would offer a convenient way to avoid an important limitation in the application of paragraph 172(1)(a).
+[10] The term “adjudicate” was considered in Chao v The Queen, 2018 TCC 202. The Court stated at para 24: “[a]djudicate means to decide judicially.” Similarly, Black’s Law Dictionary (6th ed.) defines adjudicate to mean “[t]o settle in the exercise of judicial authority. To determine finally.”
+[11] My judgment implemented the parties’ consent to judgment and that consent to judgment specifically set out the Appellant’s entitlement to the small business deduction for the 2013 and 2014 taxation years. In doing so, I used my judicial authority to decide the Appellant’s entitlement to the small business deduction.
+[12] It does not matter whether a judgment is given after conducting a full trial or in response to a consent to judgment. In either case, the judgment has the same force and effect. Having entered my judgment, this Court has adjudicated on the Appellant’s entitlement for the purposes of paragraph 172(1)(b) and I am functus officio in respect of the matter.
+[13] This interpretation is consistent with that of the Federal Court of Canada – Appeal Division in Scarola v The Queen, 2003 FCA 157. In that case, the Court held that section 16.2 of the Tax Court of Canada Act turns a discontinuance into a dismissal carrying the same effect as a judgment of dismissal by the Tax Court of Canada (see para 24). At para 21, the Court stated:
+In other words, the discontinuance of an appeal, as a result of that subsection [subsection 16.2(1) of the Tax Court of Canada Act], takes on all of the properties of a dismissal. It produces the same effect as a judgment of dismissal by the Court, albeit that effect is obtained by sheer operation of the legal fiction. In either case, the powers of the Court are spent: the decision maker is functus officio. A dismissal, deemed or actual, is a final determination which closes the matter, barring some vitiating circumstances such as fraud or some statutory authority allowing the decision maker to retain or recapture the lost authority.
+[14] Paragraph 172(1)(b) addresses matters overlooked by the Court (see Catlos (Litigation guardian of) v Barkley, 2012 ONSC 5446 at para 17 taking the same view regarding the equivalent rule – Rule 59.06(1) – in Ontario’s Rules of Civil Procedure). As explained above, the Appellant’s entitlement to the small business deduction was not overlooked in the Court’s judgment.
+[15] The Respondent’s application is dismissed without costs.
+Signed on this 8th day of December 2025.
+“Ted Cook”
+Cook J.
+CITATION:
+2025 TCC 182
+COURT FILE NO.:
+2020-2473(IT)G
+STYLE OF CAUSE:
+ORAM’S ENTERPRISES LIMITED AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 13, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF JUDGMENT:
+December 8, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Sarah Dominic
+Counsel for the Respondent:
+Tokunbo Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Cox & Palmer
+St. John’s, Newfoundland
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Ontario

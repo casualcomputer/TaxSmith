@@ -1,0 +1,175 @@
+Title: Sun Life du Canada, compagnie d’assurance-vie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110631/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-171-110631-sun-life-du-canada-compagnie-d-assurance-vie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-02-16
+
+# Sun Life du Canada, compagnie d’assurance-vie c. La Reine
+
+- Citation: 2015 CCI 171
+- Decision date: 2015-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2665, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sun Life du Canada, compagnie d’assurance-vie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-16
+Référence neutre
+2015 CCI 171
+Numéro de dossier
+2012-481(GST)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2015 CCI 171
+Date : 20150703
+Dossier : 2012-481(GST)G
+ENTRE :
+SUN LIFE DU CANADA, COMPAGNIE D’ASSURANCE-VIE,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS
+Le juge Owen
+[1] À la suite du prononcé de mon jugement dans la décision Sun Life du Canada, compagnie d’assurance-vie c La Reine, 2015 CCI 37, l’appelante dans cette affaire a déposé une requête concernant les dépens, au motif qu’elle avait fait une offre de règlement à l’intimée et avait obtenu un jugement plus favorable que cette offre. La requérante soutient qu’elle a droit à des dépens indemnitaires substantiels en vertu du paragraphe 147(3.1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et des directives sur la procédure no 17 et 18 de la Cour canadienne de l’impôt. Elle demande une adjudication forfaitaire des dépens de 200 000 $, qui correspond à environ 80 % des honoraires d’avocat de 157 430,20 $ établis selon certains taux horaires de facturation, plus 20 465,93 $ de taxes et 21 356,28 $ de débours.
+[2] La requérante affirme qu’elle a effectivement engagé les honoraires et débours suivants relativement à l’appel :
+(a) Honoraires pour les services professionnels de KPMG Law LLP de 319 795,12 $, plus la TVH de 41 573,37 $, pour un total de 361 368,49 $. Les honoraires pour les services professionnels correspondent à un quart des impôts recouvrés, lesquels s’élèvent à 1 279 180,49 $.
+(b) Les frais judiciaires pour le dépôt de l’avis d’appel, de 550,00 $.
+(c) Des débours de 18 068,43 $, TVH comprise, relativement à des dépenses administratives, notamment des frais d’appels téléphoniques interurbains, de photocopies, de télécopieur, d’impression et de poste.
+(d) Des frais de déplacement par avion de 801,58 $, TVH comprise, pour permettre à deux avocats d’assister à la conférence de règlement.
+(e) Des frais d’hôtel de 1 521,92 $, TVH comprise, pour permettre à deux avocats d’assister à la conférence de règlement.
+(f) Des frais de taxi de 307 $, TVH comprise, pour permettre à deux avocats d’assister à la conférence de règlement.
+(g) Les frais de location d’une toge d’avocat de 107,35 $, TVH comprise.
+[3] La demande de dépens indemnitaires substantiels est fondée sur des honoraires pour services professionnels s’élevant à 196 787,75 $, calculés comme suit :
+Justin Kutyan, associé : 108,2 heures à 1130 $ de l’heure = 122 266 $
+Vern Vipul, collaborateur : 56,6 heures à 955 $ de l’heure = 54 053 $
+Thang Trieu, collaborateur : 18,75 heures à 785 $ de l’heure = 14 718,75 $
+Wajiha Khan, technicien judiciaire : 23 heures à 250 $ de l’heure = 5750 $
+[4] La requérante a fait une offre de règlement à l’intimée par lettre datée du 24 avril 2013. La lettre énonçait :
+[TRADUCTION] À la suite de nos récentes discussions, Sun Life du Canada, compagnie d’assurance-vie (« Sun Life ») serait heureuse de présenter une offre de règlement relativement au dossier mentionné en rubrique, s’élevant à 997 171 $, plus les intérêts applicables.
+Nous avons fourni un sommaire de nos calculs pertinents à l’annexe « A » jointe aux présentes.
+Fondement des calculs
+Lorsque vous apprécierez le montant du règlement, veuillez tenir compte de ce qui suit :
+• Des crédits de taxe sur les intrants (« CTI ») devraient être alloués à l’égard de l’espace à bureaux taxable actuellement concédé sous licence aux conseillers (l’« espace à bureaux concédé sous licence »). En fonction de la superficie, 177 706,58 $ devraient être alloués relativement à l’espace à bureaux concédé sous licence.
+• Des CTI devraient être alloués relativement aux aires communes dans la mesure où les aires communes sont connexes à l’espace à bureaux concédé sous licence. En appliquant cette allocation en fonction de la superficie, 477 383,96 $ de CTI devraient être alloués relativement aux aires communes connexes à l’espace à bureaux concédé sous licence.
+• Sun Life est prête à rédiger une offre de règlement relativement à l’espace vacant en allouant des CTI en fonction du pourcentage que l’espace à bureaux concédé sous licence représente de la somme de l’espace à bureaux concédé sous licence et de l’espace à bureaux exonéré (c’est-à-dire, environ 59 % durant les périodes de déclaration)3. En appliquant cette allocation, 342 080,47 $ de CTI devraient être alloués relativement à l’espace vacant (et en incluant les aires communes connexes).
+[Note infrapaginale 3 :] Ce pourcentage est déterminé en divisant la superficie de l’espace à bureaux concédé sous licence par la somme de la superficie de l’espace à bureaux concédé sous licence et de la superficie de l’espace à bureaux exonéré.
+[5] L’annexe « A » jointe à la lettre précitée comportait des calculs détaillés relativement à chaque centre financier en fonction de la surface utile, de même que des plans d’étage à code de couleur de 11 centres financiers.
+[6] La requérante affirme que la presque totalité du temps que les professionnels de KPMG Law ont consacré à l’appel l’a été après l’offre de règlement du 24 avril 2013. Toutefois, la requérante n’a présenté aucun chiffre à cet égard. L’audience, qui a duré une journée, a eu lieu à Toronto en septembre 2014.
+[7] Les paragraphes 147(3.1) à 147(3.8) ont été ajoutés aux Règles et sont entrés en vigueur le 7 février 2014. Avant cela, la pratique de la Cour canadienne de l’impôt avait été alignée sur le texte proposé des nouvelles règles par la directive sur la procédure no 17, qui a pris effet le 18 janvier 2010, et la directive sur la procédure no 18, qui a pris effet le 31 janvier 2011. Les paragraphes des Règles qui sont pertinents au regard de la présente requête sont ainsi rédigés :
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[...]
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+(d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+(a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens « indemnitaires substantiels » correspondent à 80 % des dépens établis sur une base procureur‑client.
+[8] Selon le sens ordinaire du libellé des dispositions précitées, s’il est satisfait aux conditions imposées par les nouvelles règles, la requérante a droit aux dépens indemnitaires substantiels, que fixe la Cour, après la date de l’offre de règlement, sauf directive contraire de la Cour. À mon avis, le paragraphe 147(3.1) est une règle supplétive qui s’applique lorsqu’une offre de règlement conforme aux exigences applicables a été faite, mais a été rejetée et que le requérant a obtenu un jugement qui présente un rapport avec la teneur de l’offre et qui est au moins aussi favorable que l’offre. La règle vise à encourager les parties à en arriver à un règlement dans la mesure du possible[1] en prévoyant un droit par défaut aux dépens indemnitaires substantiels engagés après la date de l’offre. La règle supplétive élimine l’obstacle habituel à l’adjudication de dépens majorés[2]. Il convient de noter en particulier le fait que la règle accorde 80 % des dépens établis sur une base procureur-client sans qu’il soit nécessaire de satisfaire aux conditions auxquelles est habituellement assujettie l’adjudication de dépens sur une base procureur‑client[3].
+[9] En vertu de la nouvelle règle, la Cour a le pouvoir discrétionnaire de déterminer quels sont les dépens indemnitaires substantiels dans chaque cas et le pouvoir discrétionnaire de passer outre à la règle supplétive si la Cour est d’avis que les circonstances le justifient. Les aspects discrétionnaires de la règle s’accordent avec le principe général selon lequel l’adjudication des dépens « est un exemple typique d’une décision discrétionnaire »[4].
+[10] Comme c’est le cas du pouvoir discrétionnaire associé à l’adjudication de dépens en général, le pouvoir discrétionnaire de déterminer quels sont les dépens indemnitaires substantiels dans chaque cas et le pouvoir discrétionnaire de passer outre à la règle supplétive devraient être exercés seulement selon les principes établis : Canada c. Landry, 2010 CAF 135, au paragraphe 22. Cette exigence est implicite dans l’observation de la Cour suprême du Canada dans l’arrêt Sun Indalex Finance, LLC c. Syndicat des Métallos, 2013 CSC 6, [2013] 1 R.C.S. 271, au paragraphe 247 :
+[...]
+L’attribution discrétionnaire de dépens ne doit donc être annulée en appel que si le tribunal inférieur « a commis une erreur de principe ou si cette attribution est nettement erronée » (Hamilton c. Open Window Bakery Ltd., 2004 CSC 9, [2004] 1 R.C.S. 303, par. 27).
+[11] Dans le cas du paragraphe 147(3.1) des Règles, la nécessité de s’appuyer sur les principes établis pour passer outre à la règle supplétive est renforcée par le fait que la règle énonce que « l’appelant a droit » aux dépens indemnitaires substantiels après la date de l’offre. Le droit créé par la nouvelle règle ne devrait pas être retiré à la légère.
+[12] La Cour d’appel fédérale a commenté à titre incident les nouvelles règles relatives aux dépens en cas d’offre de règlement aux paragraphes 30 et 31 de l’arrêt Transalta Corporation c. Canada, 2013 CAF 285 :
+30 Pour les raisons susmentionnées et compte tenu de la jurisprudence antérieure de notre Cour, je ne peux conclure que le juge a commis une erreur justifiant notre intervention en concluant que le ministre avait raison de rejeter l’offre de règlement, comme l’appelante l’avait proposé.
+31 En outre, étant donné que la directive sur la procédure no 18 n’est pas encore en vigueur, elle ne saurait avoir d’incidence sur l’exercice du pouvoir discrétionnaire de la Cour d’accorder des dépens supplémentaires lorsque la situation le justifie ou de refuser de le faire dans le cas contraire. Même si la directive sur la procédure était en vigueur, le paragraphe 147(3.1) proposé reconnaît que les juges de la Cour de l’impôt conservent leur pouvoir discrétionnaire de ne pas adjuger de dépens majorés. Si ce n’était pas le cas, la disposition proposée ferait obstacle à la capacité des juges de la Cour de l’impôt d’accorder des dépens justes et appropriés, qui répondent aux circonstances particulières de chaque cas.
+[13] La Cour a observé que, même si le paragraphe 147(3.1) des Règles avait été en vigueur, la Cour canadienne de l’impôt aurait tout de même conservé le pouvoir discrétionnaire de ne pas accorder de dépens en conformité avec la nouvelle règle. Cela permet aux juges de la Cour canadienne de l’impôt d’adjuger des dépens justes et appropriés en fonction des circonstances propres à chaque affaire prise individuellement. Il ne s’agit pas d’une invitation à passer outre au droit que la nouvelle règle confère par défaut, mais d’une reconnaissance du pouvoir discrétionnaire de le faire. Comme la Cour d’appel fédérale l’a indiqué dans l’arrêt Leuthold c. Société Radio-Canada, 2014 CAF 174, la Cour doit être guidée par le libellé exprès des règles applicables aux dépens :
+[10] Mme Leuthold fait valoir qu’il est clairement établi en droit que les dépens ne peuvent servir à pénaliser une partie, ni être considérés comme étant de nature punitive, voire accablante. Elle soutient qu’une adjudication des dépens se chiffrant à environ 80 000 $ est de nature punitive et équivaut à l’imposition d’une sanction pour une personne dont le revenu annuel brut se situe aux alentours de 20 000 $.
+[11] Je souscris aux déclarations de principes énoncées par Mme Leuthold, mais ces principes doivent être appliqués en tenant compte de l’objectif des dispositions de l’article 420 des Règles, lesquelles visent à dissuader les parties d’engager des frais et de les faire supporter par autrui au moyen d’un incitatif financier pour accepter un montant inférieur à leurs réclamations. En matière de dédoublement des dépens, l’incitatif est d’éviter une pénalité. Je ne crois pas qu’il soit controversé d’affirmer que le dédoublement des dépens qu’une partie serait par ailleurs condamnée à payer, ou le fait de condamner aux dépens une partie ayant obtenu un succès mitigé, équivaut à l’imposition d’une pénalité. Par conséquent, il n’est d’aucune utilité pour Mme Leuthold de soutenir que les dépens ne devraient pas avoir pour effet d’infliger une pénalité. Les dépens ne devraient pas avoir cet effet, à moins que les dispositions des Règles n’aient été conçues pour atteindre précisément cet objectif.
+[Non souligné dans l’original]
+[14] L’intimée ne conteste pas le fait que la requérante a fait une offre qui satisfaisait aux conditions du paragraphe 147(3.3) des Règles, ni le fait qu’il y a un rapport entre la teneur de l’offre et le jugement, ni le fait que la requérante a obtenu un résultat plus favorable que l’offre. Elle soutient cependant qu’elle ne pouvait pas accepter légalement l’offre à cause de la nature de l’appel qui ne lui permettait pas d’accepter de demi-mesures.
+[15] Je ne conteste pas le principe selon lequel l’intimée ne peut pas accepter une offre de règlement qui n’est pas justifiable en fait et en droit. La Cour d’appel fédérale a décrit ce principe comme suit dans l’arrêt CIBC World Markets Inc. c. La Reine, 2012 CAF 3 :
+24 CIBC World Markets invoque le paragraphe 36 de 1390758 Ontario Corporation c. The Queen, 2010 CCI 572, et Smerchanski c. Ministre du Revenu national, [1977] 2 R.C.S. 23, à l’appui de la thèse que les tribunaux judiciaires ont donné effet à des transactions appliquant le droit fiscal à des faits convenus. Cette proposition est vraie. Mais le ministre ne peut convenir de faits que dans les limites du principe de Galway : il ne lui est pas permis de donner son accord à une cotisation injustifiable en fait et en droit. Aucun élément de 1390758 Ontario ni de Smerchanski n’infirme le principe de Galway.
+[16] Toutefois, je ne suis pas d’accord que ce principe s’appliquait à l’offre de règlement que la requérante a faite à l’intimée le 24 avril 2013. La question de droit dont j’étais saisi dans l’appel était celle de savoir si la méthodologie que la requérante avait adoptée pour calculer ses crédits de taxe sur les intrants était juste et raisonnable dans les circonstances, étant donné que l’espace à bureaux loué servait une double fin. En accueillant l’appel, j’ai fait les observations suivantes aux paragraphes 35 et 40 des motifs du jugement :
+[35] Le paragraphe 141.01(5) présuppose qu’une acquisition particulière a plus d’un but et, dans un tel cas, il faut que la personne faisant l’acquisition du bien ou du service détermine la mesure dans laquelle le bien ou le service est acquis afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins. La méthode employée pour effectuer une telle détermination doit être juste et raisonnable et être suivie de tout au long d’un exercice. Le paragraphe 141.01(5) exige donc que Sun Life choisisse une méthode juste et raisonnable pour déterminer la mesure dans laquelle elle acquiert un bien ou un service à double usage en vue d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins.
+[...]
+Je ne vois pas pourquoi l’approche générale visant à déterminer le caractère raisonnable dans ces affaires ne s’appliquerait pas aussi pour décider si une méthode en particulier est juste et raisonnable. En d’autres termes, ce qui est juste et raisonnable est une question de fait et requiert que l’on fasse preuve de jugement et de bon sens. La détermination n’est pas fondée sur l’opinion subjective de l’appelante ou de l’intimée, mais sur l’avis d’un observateur impartial qui aurait une connaissance de tous les faits pertinents. Il est aussi important de reconnaître que le fisc ne peut pas simplement substituer sa méthode à celle de Sun Life et qu’il peut y avoir plus d’une méthode juste et raisonnable dans les circonstances (voir Ville de Magog c. La Reine, précité).
+[17] La question de savoir si la méthode précise que la requérante a employée pour calculer ses CTI était juste et raisonnable appelait peut-être bien une réponse par oui ou par non. Toutefois, il ne s’ensuivait pas qu’une seule méthode de calcul de ces CTI pouvait être considérée comme juste et raisonnable dans les circonstances. Comme la Cour d’appel fédérale l’a reconnu dans l’arrêt Ville de Magog c. La Reine, 2001 CAF 210, la nature du critère est telle qu’il peut y avoir plus d’une méthode de calcul des CTI qui est juste et raisonnable dans les circonstances.
+[18] La requérante a fait une offre de règlement qui réduisait le montant des CTI réclamés dans son appel de 1 279 180,49 $ à 997 171 $ : une réduction de 282 009,49 $, ou 22 %. La requérante a fourni une justification du montant de l’offre et des calculs détaillés fondés sur cette justification. Je ne vois pas quel obstacle juridique a pu empêcher l’intimée de conclure que la méthode que la requérante avait adoptée dans l’offre de règlement était juste et raisonnable dans les circonstances. Dans ses observations écrites, l’avocat de l’intimée n’a fourni aucun motif pour expliquer pourquoi la méthode que la requérante avait adoptée dans l’offre de règlement ne pouvait pas être considérée comme juste et raisonnable pour l’application du paragraphe 141.01(5) de la Loi sur la taxe d’accise.
+[19] L’intimée affirme également que sa conduite a été irréprochable, que sa position se justifiait dans une mesure raisonnable et qu’il n’y avait pas de circonstances inhabituelles qui justifieraient de la condamner à des dépens majorés. Bien que je ne conteste pas ces prétentions, le but du paragraphe 147(3.1) des Règles est de conférer un droit par défaut à des dépens indemnitaires substantiels en rapport avec les offres de règlements conformes aux exigences applicables. Aucun des facteurs évoqués par l’intimée ne m’incite à penser que la règle supplétive ne devrait pas s’appliquer. Conclure autrement diluerait sensiblement, sans justification, le « droit » par ailleurs créé par le libellé clair de la règle – un droit qui s’accorde avec l’objet de la règle et le contexte dans lequel il figure. Si cela se trouve, il faudrait qu’il y ait des circonstances inhabituelles (c’est‑à-dire, exceptionnelles ou extraordinaires) qui m’amènent à conclure que je devrais exercer mon pouvoir discrétionnaire de passer outre à la règle supplétive sur le fondement d’une analyse selon les principes établis. Comme l’avocat de l’intimée l’a affirmé dans ses observations écrites, il n’y a pas de circonstances inhabituelles en l’espèce. Par conséquent, la règle supplétive du paragraphe 147(3.1) devrait s’appliquer en conformité avec ses dispositions.
+[20] Il reste à savoir si la requérante a droit à l’adjudication forfaitaire des dépens de 200 000 $ qu’elle demande en vertu du paragraphe 147(3.1) des Règles. La règle prévoit des dépens entre parties jusqu’à la date de l’offre de règlement, puis 80 % des dépens sur une base procureur-client après la date de l’offre, plus les débours raisonnables et les taxes applicables. La requérante n’a pas ventilé sa demande en fonction des périodes antérieure et postérieure à l’offre, si ce n’est d’affirmer dans un affidavit que la presque totalité du temps que les professionnels de KPMG Law avaient consacré à l’appel l’avait été après le 24 avril 2013. Les avocats devraient fournir plus de précisions concernant le temps consacré et les activités entreprises avant et après l’offre de règlement en cause, afin que la Cour puisse calculer les dépens avec exactitude en vertu du paragraphe 147(3.1) des Règles. L’expression [TRADUCTION] « presque totalité » [« substantially all »] n’est pas précise.
+[21] En ce qui concerne le calcul des dépens sur une base procureur-client, sur lesquels se fondent les dépens indemnitaires substantiels, la règle de base veut que ces dépens procurent une indemnité complète de tous les coûts raisonnablement engagés. Le juge Cattanach a énoncé ce principe comme suit dans la décision Scott Paper Co. v. Minnesota Mining and Manufacturing Co., [1982] F.C.J. No. 917 (QL) :
+[traduction] L’objectif que sous-tend l’adjudication de dépens sur une base procureur-client est de rembourser intégralement les frais, y compris les honoraires et les débours, qui ont été raisonnablement engagés dans le cadre d’une action intentée ou contestée, à l’exclusion des frais afférents à des services supplémentaires qui ne sont pas raisonnablement nécessaires. [5]
+[22] Les dépens accordés en vertu du paragraphe 147(3.1) des Règles correspondent à 80 % des dépens sur une base procureur-client. Étant donné l’escompte automatique de 20 % intégré à la règle, il est approprié d’adopter comme point de départ tous les coûts raisonnablement engagés.
+[23] Il incombe à la Cour d’évaluer si les coûts réclamés ont été raisonnablement engagés, et chaque cas doit être apprécié en fonction des faits qui lui sont propres. Toutefois, il convient de noter deux points. Premièrement, une évaluation du temps consacré à un appel devrait être faite en fonction des circonstances qui prévalaient à l’époque pertinente. Il n’appartient pas à la Cour de profiter du recul pour remettre en question le jugement des avocats quant au temps consacré à un appel. Deuxièmement, la meilleure preuve du taux approprié pour les services juridiques que les avocats ont fournis sera généralement le taux que les avocats auront facturé pour ces services. Autrement dit, il est généralement raisonnable de présumer que les taux qui ont effectivement été facturés étaient le produit du marché dans lequel ils ont été facturés et traduisaient le coût raisonnable des services fournis au client dans ce marché.
+[24] Ce deuxième point appelle toutefois deux mises en garde. Premièrement, il doit être clair que le client a accepté de payer les taux facturés pour les services fournis. Des taux hypothétiques ne satisfont pas à ce critère. Deuxièmement, les arrangements spéciaux, comme une formule de détermination des honoraires en fonction des résultats qui inclut une prime de risque, sont insusceptibles de traduire les taux du marché[6]. Pour citer la Cour suprême du Canada dans l’arrêt Walker c. Ritchie, 2006 CSC 45, [2006] 2 R.C.S. 428, au paragraphe 28 :
+[...]
+Les défendeurs qui succombent doivent pouvoir supposer qu’ils seront condamnés, au titre des dépens, à des sommes similaires à celles accordées dans des litiges analogues montrant des similarités relativement à la conduite des parties et aux avocats en présence, et ce, quels que soient les arrangements conclus par les demandeurs et leurs avocats.
+[25] En l’espèce, la requérante demande 80 % des dépens sur une base procureur‑client qui sont fondés sur le temps total consacré au dossier et sur les taux horaires suivants : Justin Kutyan, associé, 1 130 $ de l’heure; Vern Vipul, collaborateur, 955 $ de l’heure; Thang Trieu, collaborateur, 785 $ de l’heure; et Wajiha Khan, technicien judiciaire, 250 $ de l’heure. Me Kutyan a été admis au barreau en 2007, Me Vipul, en 2004, et Me Trieu, en 2008.
+[26] Je trouve cette réclamation problématique parce qu’il n’y a rien qui prouve que la cliente a accepté de payer ces taux, puisque les honoraires effectivement facturés correspondaient à un pourcentage du montant recouvré. À mon avis, une telle formule de détermination des honoraires en fonction des résultats ne traduit pas les taux du marché pour les services fournis, mais constitue un arrangement spécial négocié par les parties. L’intimée ne saurait être tenue de rembourser à la requérante les coûts engagés en vertu d’un tel arrangement spécial concernant les honoraires, et des taux hypothétiques ne représentent pas convenablement des taux qui auraient été facturés dans le cadre d’un arrangement plus conventionnel concernant les honoraires.
+[27] Dans une situation comme celle-ci, le rôle de la Cour lorsqu’elle applique le paragraphe 147(3.1) des Règles consiste à déterminer les dépens sur une base procureur-client appropriés au regard des circonstances de l’espèce, eu égard à l’expérience générale de la Cour.
+[28] Les trois avocats identifiés par la requérante sont des membres d’un cabinet d’avocats national dont les bureaux sont situés au centre-ville de Toronto. Le marché pertinent est donc le centre-ville de Toronto. L’audience concernait l’interprétation de dispositions de la Loi sur la taxe d’accise que l’on ne saurait, à mon avis, considérer comme simples ou explicites. Le montant en jeu s’élevait à près de 1,3 million de dollars.
+[29] Dans ces circonstances, l’on peut raisonnablement s’attendre à ce que les honoraires d’avocat que la requérante a engagés pour l’appel se situent au haut de l’échelle déterminée d’après l’expérience générale. Autrement dit, dans le cadre d’un litige analogue montrant des similarités relativement à la conduite des parties et aux avocats en présence, les taux horaires se situeraient vraisemblablement au haut de l’échelle.
+[30] Dans la décision Stetson Oil & Gas Ltd. c. Stifel Nicolaus Canada Inc., 2013 ONSC 5213, la Cour supérieure de justice de l’Ontario a indiqué que les taux demandés par les avocats chevronnés de Toronto qui avaient agi dans cette affaire étaient de 880 $ pour l’avocat de la demanderesse et de 700 $ à 800 $ pour l’avocat de la défenderesse. La Cour supérieure de justice de l’Ontario a noté que le taux de 880 $ devait être rajusté à la baisse puisqu’il était improbable qu’un taux constant ait été maintenu tout au long du dossier.
+[31] Un sondage annuel sur les taux horaires des avocats réalisé pour le compte du magazine Canadian Lawyer indique qu’en 2014, les taux horaires moyens au sein des cabinets d’avocats comptant plus de 25 avocats étaient de 280 $ dans le cas d’un avocat admis au barreau depuis un an, de 318 $ dans le cas d’un avocat admis au barreau depuis cinq ans, de 488 $ dans le cas d’un avocat admis au barreau depuis dix ans, de 505 $ dans le cas d’un avocat admis au barreau depuis vingt ans et de 605 $ dans le cas des avocats exerçant leur profession depuis plus de 20 ans.
+[32] Compte tenu de tout ce qui précède, j’ai conclu que les taux horaires suivants étaient raisonnables dans les circonstances de la présente espèce pour déterminer les dépens sur une base procureur-client : Justin Kutyan, associé, 800 $ de l’heure; Vern Vipul, collaborateur, 550 $ de l’heure; Thang Trieu, collaborateur, 400 $ de l’heure; et Wajiha Khan, technicien judiciaire, 100 $ de l’heure. Je n’ai aucune raison de douter du nombre d’heures que chacune de ces personnes a consacré au dossier.
+[33] J’ai déjà commenté le manque de précision relativement à la répartition du temps entre les périodes antérieure et postérieure à l’offre de règlement. Étant donné ce manque de précision, je présumerai que [traduction] « la presque totalité » signifie 90 %, ce qui est un point de référence courant dans le domaine fiscal, que l’Agence du revenu du Canada a d’ailleurs adopté pour interpréter cette expression. Ainsi, 90 % du temps devrait être payé aux taux horaires susmentionnés pour déterminer les dépens sur une base procureur-client. Cela donne les montants suivants (arrondis au dollar près) :
+Justin Kutyan, associé : 108,2 heures fois 0,9 fois 800 $ de l’heure = 77 904 $
+Vern Vipul, collaborateur : 56,6 heures fois 0,9 fois 550 $ de l’heure = 28 017 $
+Thang Trieu, collaborateur : 18,75 heures fois 0,9 fois 400 $ de l’heure = 6 750 $
+Wajiha Khan, technicien judiciaire : 23 heures fois 0,9 fois 100 $ de l’heure = 2 070 $
+[34] La somme de ces montants totalise 114 741 $. Les dépens indemnitaires substantiels correspondent à 80 % des dépens sur une base procureur-client, soit 91 792 $. Je fixe les dépens entre parties à 1 050 $ en fonction du montant alloué pour une action de catégorie C mettant en cause deux avocats en vertu de l’alinéa 1a) du tarif B. Le total est donc de 92 842 $.
+[35] En outre, la requérante a réclamé 21 356,28 $ de débours (TVH comprise, le cas échéant) et la TVH de 13 % sur les honoraires professionnels. L’intimée n’a pas contesté les débours, que j’allouerai en totalité après déduction de la TVH applicable aux débours que la requérante recouvre au moyen de crédits de taxes sur les intrants. La requérante aura également droit à des dépens correspondant à la TVH de 13 % applicable aux honoraires professionnels de 92 842 $, mais, là encore, seulement dans la mesure où la requérante ne recouvre pas la TVH sur ces honoraires professionnels au moyen de crédits de taxe sur les intrants.
+[36] Le recouvrement de crédits de taxe sur les intrants relativement aux honoraires professionnels doit être déterminé en fonction de la proportion appropriée de la TVH que la requérante a effectivement payée sur les honoraires professionnels que KPMG Law a facturés en rapport avec le présent appel.
+[37] Si les parties ne parviennent pas à s’entendre sur le montant de taxe que l’intimée devrait payer à la requérante à titre de dépens, les parties pourront demander à la Cour de trancher la question.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2015.
+« J. R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 21e jour d’octobre 2015
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 171
+NO DU DOSSIER DE LA COUR :
+2012-481(GST)G
+INTITULÉ DE LA CAUSE :
+SUN LIFE DU CANADA, COMPAGNIE D’ASSURANCE-VIE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 22 septembre 2014
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS :
+Le juge John R. Owen
+DATE DU JUGEMENT :
+DATE DES MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS :
+Le 16 février 2015
+Le 3 juillet 2015
+OBSERVATIONS :
+Avocats de la requérante :
+Me Justin Kutyan
+Me Stephanie Dewey
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+Avocats inscrits au dossier :
+Pour la requérante :
+Nom :
+Me Justin Kutyan
+Me Stephanie Dewey
+Cabinet :
+KPMG Law LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le Résumé de l’étude d’impact de la réglementation accompagnant l’introduction des nouvelles règles dans DORS/2014-26 énonce : « Les règles modifiant les Règles de la Cour canadienne de l’impôt (procédure générale) ont comme objectifs principaux : […] (4) d’encourager les parties à régler leurs différends tôt dans le cadre du processus d’appel ». Sous la rubrique « Description et justification », le Résumé énonce ensuite : « Les modifications aux règles concernant les offres de règlement sont apportées afin d’encourager les parties à régler leurs différends tôt au cours du processus d’appel. Un tel règlement a l’avantage de réduire les dépenses des parties au litige et de préserver les ressources judiciaires. Les parties peuvent faire accepter des offres de règlement à tout moment avant qu’un jugement ne soit rendu, et toute offre de règlement peut être prise en considération par la Cour au moment d’adjuger les dépens conformément à l’article 147. Par contre, il est important d’encourager les parties à régler leurs différends le plus tôt possible, idéalement avant la date fixée pour l’audition de l’appel. L’ajout des paragraphes 147(3.1) à (3.8) vise à atteindre cet objectif. » La Cour considère depuis longtemps qu’il est souhaitable que les parties en viennent à un règlement dans la mesure du possible, comme en témoigne la dernière phrase de la directive sur la procédure no 10, qui a pris effet le 23 juillet 1997 : « Cependant, bien qu’une transaction rapide soit préférable, une transaction tardive vaut mieux qu’aucune transaction. »
+[2] L’affaire Lyons c. La Reine, 96 DTC 2004 (CCI) offre un exemple de l’obstacle à l’adjudication de pareils dépens sur le seul fondement d’une offre de règlement.
+[3] Pour des exemples des conditions auxquelles l’adjudication des dépens sur une base procureur-client peut être assujettie, voir les arrêts Young c. Young, [1993] 4 R.C.S. 3, Baker c. Canada (Ministre de la Citoyenneté et de l’Immigration), [1999] 2 R.C.S. 817, Hamilton c. Open Window Bakery Ltd., [2004] 1 R.C.S. 303 et Ministre de la Santé nationale et du Bien-être social c. Apotex (2000), 19 D.L.R. (4th) 483 (C.A.F.).
+[4] Nolan c. Kerry (Canada) Inc., 2009 CSC 39, [2009] 2 R.C.S. 678, au paragraphe 126. Ce pouvoir discrétionnaire remonte à l’époque de la fusion des cours de common law et d’equity au XIXe siècle.
+[5] Pour des descriptions similaires par des cours supérieures provinciales, voir l’arrêt Holloway c. Holloway, 2001 NFCA 17, aux paragraphes 91 et 92, et la décision Apotex Inc. c. Egis Pharmaceuticals, [1991] O.J. No. 1232 (QL), au paragraphe 13.
+[6] Pour les principes généraux qui sous-tendent cette deuxième mise en garde, voir l’arrêt Walker c. Ritchie, 2006 CSC 45.

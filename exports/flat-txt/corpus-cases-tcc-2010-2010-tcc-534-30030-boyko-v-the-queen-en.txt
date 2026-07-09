@@ -1,0 +1,111 @@
+Title: Boyko v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30030/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-534-30030-boyko-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-19
+
+# Boyko v. The Queen
+
+- Citation: 2010 TCC 534
+- Decision date: 2010-10-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7685, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boyko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-19
+Neutral citation
+2010 TCC 534
+File numbers
+2009-3711(IT)APP
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3711(IT)APP
+BETWEEN:
+ZENON TARAS BOYKO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on April 6, 2010 at Winnipeg, Manitoba
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Larissa Benham
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which a notice of objection may be served with respect to the reassessment made under the Income Tax Act for the 2005 taxation year;
+AND UPON reading the materials filed and hearing from the Applicant and counsel for the Respondent;
+THIS COURT ORDERS that the application is dismissed. There is no order as to costs.
+Signed at Calgary, Alberta, this 19th day of October 2010.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2010 TCC 534
+Date: 20101019
+Docket: 2009-3711(IT)APP
+BETWEEN:
+ZENON TARAS BOYKO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Arcy J.
+[1] The Applicant has brought an application, pursuant to section 166.2 of the Income Tax Act (the "Act"), for an order extending the time for the filing of a notice of objection in respect of his 2005 taxation year.
+Background
+[2] The Minister of National Revenue (the “Minister”) reassessed the Applicant for the 2005 taxation year by notice of assessment dated September 18, 2008.
+[3] The Applicant filed with the Court on December 4, 2009, an application made pursuant to section 166.2 of the Act, to have the Minister extend the time for the filing of his notice of objection. Attached to the application was a notice of objection in respect of the Applicant's 2005 taxation year. In the notice of objection the Applicant challenges the Minister's denial of "charitable tax credits" that he claimed in his 2005 taxation year.
+[4] It was clear from the testimony of the Applicant and the affidavit filed by the Respondent that the Applicant never filed a notice of objection for his 2005 taxation year with the Canada Revenue Agency (the "CRA"). The Applicant testified that the CRA reassessed him in respect of the same charitable donation issue for his 2003, 2004 and 2006 taxation years. He filed notices of objection in respect of each of these taxation years.
+[5] The Applicant testified that he was not aware of the reassessment for his 2005 taxation year until sometime in the later half of 2009. Once he became aware of the reassessment, he sought advice from the charity who had issued the charitable receipts. The charity suggested he file an application with the Court for an extension of the time for the filing of his notice of objection.
+The Law
+[6] Subsection 166.2(1) of the Act reads as follows:
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+[7] As this Court noted in McKernan vs R,[1] a taxpayer may not apply to the Court to extend the time for serving a notice of objection unless that taxpayer has first made an application to the Minister under section 166.1 for an extension of time.
+[8] The problem in the current application is that the Applicant did not file an application with the Minister under section 166.1 for an extension of time to file the notice of objection.
+[9] During the hearing, I raised with counsel for the Respondent the issue of whether the Minister could accept the application filed with the Court as an application filed under section 166.1. Counsel noted that it was the Respondent's position that an application filed with the Court should not be considered to be filed with the Minister.
+[10] Based upon my review of the relevant provisions, I agree with counsel for the Respondent.
+[11] Sections 166.1 and 166.2 provide a statutory framework for an application for an extension of the time for the filing of a notice of objection. These provisions provide that the application is first made to the Minister and then, after either 90 days or the refusal by the Minister to grant the application, the taxpayer has the right to bring an application before this Court.
+[12] Subsection 166.1(3) provides that an application under subsection 166.1(1) shall be addressed to the Chief of Appeals in a District Office or a Taxation Centre of the CRA and delivered or mailed to that Office or Centre, accompanied by a copy of the notice of objection.
+[13] The application filed by the Applicant was addressed to the registrar of the Tax Court of Canada and was delivered to the Court. I cannot construe this as an application made to the Chief of Appeals of the CRA.
+[14] Further, the Applicant testified that he believed, at the time he filed the application, that the application should be filed with the Court. In other words, he intended to file the application with the Court. At no time did he intend to file the application with the Chief of Appeals of the CRA.
+[15] For the foregoing reasons, the application is denied. There will be no order with respect to costs. I recognize that my decision leads to a harsh result for the Applicant; however, I am bound by the provisions of the Act.
+Signed at Calgary, Alberta, this 19th day of October 2010.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2010 TCC 534
+COURT FILE NO.: 2009-3711(IT)APP
+STYLE OF CAUSE: ZENON TARAS BOYKO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: April 6, 2010
+REASONS FOR ORDER BY: The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER: October 19, 2010
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Larissa Benham
+COUNSEL OF RECORD:
+For the Applicant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2003] 1 C.T.C. 2275.

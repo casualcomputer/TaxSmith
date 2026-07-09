@@ -1,0 +1,348 @@
+Title: Pelletier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29805/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-224-29805-pelletier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-05-13
+
+# Pelletier v. The Queen
+
+- Citation: 2010 TCC 224
+- Decision date: 2010-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6611, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-13
+Neutral citation
+2010 TCC 224
+File numbers
+2007-4765(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-7465(IT)G
+BETWEEN:
+DONALD PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 13, 2009 and
+March 15 and 16, 2010, at Shawinigan, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+François Daigle
+Counsel for the respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000, 2001, and 2002 taxation years are allowed in part, and the reassessments are referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment. The respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 13th day of May 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of November 2010
+François Brunet, Revisor
+Citation: 2010 TCC 224
+Date: 20100513
+Docket: 2007-4765(IT)G
+BETWEEN:
+DONALD PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing from reassessments made by the Canada Revenue Agency (CRA) in respect of the 2000, 2001 and 2002 taxation years. In the notices of assessment, the Minister of National Revenue (the Minister) revised the appellant's taxable income as follows:
+Taxation year at issue:
+2000
+2001
+2002
+Previous taxable income:
+$82,313
+$11,361
+$14,183
+Add:
+Unreported business income
+established by net worth
+$28,438 P
+$15,268 P
+$6,520 P
+Shareholder benefit – movable purchased by the company
+0
+$5,171
+Shareholder benefit – expenditure by the company
+$1,832
+0
+0
+Sub-contractor expenses disallowed
+$35,046
+0
+0
+Shareholder benefit – use of a cottage
+$22,620
+$22,620
+$20,802
+Differential
+$1,667
+Unreported loss on sale of land
+($666)
+0
+0
+Unreported taxable gain on sale of garage
+0
+0
+$1,975
+Deduct:
+Additional deductions for the QPP
+0
+($657)
+($306)
+Revised taxable income:
+$171,249
+$53,763
+$43,174
+[2] The Minister also imposed a penalty under subsection 163(2) of the Income Tax Act (the Act) on the unreported business income, which was assessed by means of the net worth method for each taxation year to be $28,438, $15,268 and $6,520 respectively.
+[3] At the objection stage, after the appellant's agent made his submissions to the objections officer, the officer reduced the shareholder benefit for the use of a cottage as shown in the table below and cancelled the shareholder benefit with respect to purchases of furniture by the company Domaine Ste-Flore Inc. (Domaine) for a personal‑use cottage. The changes made led to the following results:
+Taxation year at issue:
+2000
+2001
+2002
+Previous taxable income (based on October 18, 2005, assessment):
+$171,249
+$53,763
+$43,174
+Cancel:
+Shareholder benefit - movable purchased by the company
+0
+($5,171)
+($1,484)
+Decrease:
+Decrease the shareholder benefit for use of the cottage
+($13,565)
+($16,103)
+($17,328)
+Revised taxable income:
+$157,684
+$32,489
+$24,362
+[4] The Court must determine whether the Minister correctly added $28,438, $15,268 and $6,520 in unreported taxable income respectively for each of the taxation years in question as well as the penalties on that unreported taxable income in accordance with subsection 163(2) of the Act. It will also have to be determined whether the Minister was warranted in making reassessments for the 2000 and 2001 taxation years outside the normal assessment period and whether the Minister correctly established the amount of the shareholder benefit conferred on the appellant for the personal use of a Domaine cottage during the years in question.
+[5] During the three years in question, the appellant was the president, administrator and sole shareholder of Domaine. He was also the person primarily responsible for the tasks required for successful operation of the business.
+[6] Domaine operates a tourist accommodation business near Ste-Flore de Grand-Mère on lake Chrétien. Eleven cottages with a capacity for 122 people are for rent all year round. Guests can also rent equipment for seasonal activities of their choice.
+[7] The appellant and his spouse are on call to perform tasks necessary to the successful operation of Domaine. Their main responsibilities are to welcome guests, perform customer service and assist with reservations. The appellant maintains the cottages and other areas such as the grounds, paths and skating rink and performs minor repairs. He also sees to the cleaning of the cottages, to accounts payable and receivable, work schedules, etc.
+[8] In order to carry out all those tasks, the appellant, his spouse and their son occupied and still occupy one of the Domaine cottages, which served as reception area for guests, as well as office and storage unit for Domaine’s needs. At the audit stage, the amount of the shareholder benefit for personal use of that cottage was established at $500 per week for the three years in question. At that time, the auditor added household expenses including insurance and school and municipal taxes and subtracted the benefit of $450 per month, as established by the appellant, for a total benefit conferred on the appellant of $22,620 for the 2000 and 2001 taxation years and $23,268 for the 2002 taxation year.
+[9] At the objection stage, the respondent called Nathalie Locas, a property appraisal expert, who also testified at the hearing. Her mandate was to assess the value of the benefit with respect to the appellant's personal use of the cottage in question. Given that it was difficult to estimate a rental value based on comparable data, she established a fair market value (FMV) using a normal rate of return on capital invested. That method could also have been based on the actual cost of the property instead of the FMV. According to her report, it is the principle of anticipation, which states that the value of a property comes from all nature of benefits that the owner expects to reap from it in the future since the purchaser of a property expects a reasonable return on his investment in the form of net annual income.
+[10] Accordingly, she determined the FMV of the cottage in question to be $141,000. She attributed an overall rate of return drawn from an approximation from various markets to it. For the 2000 taxation year, the rate of return by the summation approach was 8.82%. It was 7.02% for the 2001 taxation year and 6.15% for the 2002 taxation year. The value of the benefit is thus $12,436 for 2000, $9,898 for 2001 and $8,672 for 2002. To obtain the total amount of the annual benefit, the household expenses incurred by Domaine such as heating, taxes, insurance, electricity and maintenance must be added.
+[11] In his report and testimony, the expert did not consider part of the cottage in question, namely, the reception, office and storage area that are used by Domaine. According to the expert, it was up to the auditor to calculate that use percentage. The expert also did not take into account for the purposes of calculating the benefit conferred on the appellant the fact that the appellant was on the premises all the time and that the quiet enjoyment of the premises could be disturbed by Domaine's clients who were in the cottage occupied by the appellant and his family on a regular basis. Those are factors that could have been taken into consideration, but it was not part of the expert's mandate.
+[12] For his part, the appellant assessed his benefit to be $450 per month, an amount that he had added to his income for the three taxation years. He explained that Domaine was audited in 1999 and that it was at the suggestion of the auditor at the time that he established the value of the benefit at $450 per month. No other evidence was submitted on that issue, except the municipal assessment of the cottage in question.
+[13] A rather detailed description of the cottage in question as well as the percentage of use for each of the cottage's rooms done by the appellant and Domaine can be found primarily in Exhibit A‑4. There is no doubt that the room called [Translation] "office and reception" is used 100% for the purposes of Domaine. There are also places that are used for storage for Domaine, and surely sometimes guests use the bathroom at reception. There are also places, like the workshop, used by both the appellant and Domaine. The difficulty in this matter is that the use percentages are only estimations or approximations dependent on various factors sometimes impossible to assess.
+[14] The value of the benefit conferred on the appellant in connection with the cottage in question must therefore be determined. In my opinion, each case must be looked at individually and it is important to analyze all the facts and circumstances that led the appellant to obtain a benefit and to determine its value. Some benefits will be more difficult to assess than others depending on the circumstances.
+[15] In this case, the value of the benefit determined by the auditor at the audit stage was calculated on the basis of the fair market rent for such a cottage for business use, taking into account certain factors such as the occupancy rate to arrive at a rate of $500 per week to which household expenses including insurance and school and municipal taxes were added and from which the amount of the benefit that the appellant had assessed himself for was subtracted, which explains the amounts of $22,620 for 2000 and 2001 and $23,268 for 2002.
+[16] In my view, it was warranted to reduce the amount of the benefit at the objection stage. The amount of the benefit as determined could have been considered normal and reasonable in the circumstances if the cottage in question had been put at a shareholder's disposal without any limitations or during a rental period for his vacation. I do not believe that a person would live year-round in a residential unit as described herein at a rental price of $500 per week plus all household expenses. The value of the benefit should be examined in terms of the savings it results in for the person who receives it.
+[17] In this case, we can ask what would be the normal and reasonable rate for a similar residential tenancy for the taxpayer in question and his family when are taken into account all the amenities available to them. At the objection stage, the expert used a formula that, in my opinion, favours Domaine because it is based on an ideal rate of return or on a property value that supports a reasonable return on an investment in the form of annual income. That formula, in my opinion, does not take into account all the factors that could affect an annual return from renting a residential unit. It is sufficient to add the repayment of a loan secured by the property in question to affect its return or to ask whether the property tax on a residential unit or insurance on the rental property are usually the tenant’s responsibility.
+[18] At the objection stage, the value of the benefit was determined by the expert to be $1,204 per month (including household expenses) for the 2000 taxation year, $993.08 per month for 2001 and $945 per month for 2002. She then subtracted the rent that the appellant had reported in his self-assessment.
+[19] In my view, this better reflects the expected return of Domaine or of an owner rather than the value of residential rent for a taxpayer in similar circumstances. It must be taken into account that the appellant does not use the entire cottage for personal needs and that his quiet enjoyment of the premises is disturbed at all hours of the day. I am satisfied that in many cases that could be considered a disadvantage rather than an advantage.
+[20] In the light of the evidence heard, the particular circumstances of the case, the use percentages from both parties, the amenities at the premises and the loss of enjoyment and exclusivity, I would assess the value of the benefit to be $750 per month everything included. The rent that the appellant had reported in his self-assessment must be subtracted from that amount.
+[21] The second issue is in regard to the calculation of the net worth differential. During the audit of Domaine, the auditor, Chantal Pichette, noted that the appellant's bank account had recorded numerous transactions including disbursements of up to $202,000 during the 2000 taxation year. Therefore, she undertook an audit using the net worth method. This method determines the discrepancy between a taxpayer's assets and liabilities taking into account his personal expenses.
+[22] In this case, the auditor testified that she had not used estimates for the purposes of her calculations. The assets and liabilities are corroborated with supporting documents. Personal expenses are a combination of disbursements from all personal bank accounts of the appellant and his spouse corroborated with supporting documents. The auditor testified that she had paid particular attention to ensure that there was no doubling by removing all disbursements involving a purchase found in an asset item and removing all disbursements involving a payment of debt in a liability item.
+[23] She ensured that the appellant confirmed all the documents used to determine his net worth. The total differential for the three taxation years is $160,958. The auditor was then able to make some adjustments to that amount and to identify the sources of a total of $110,773 in expenses for the three years in question, leaving a total of $50,225 in unreported business income for the three taxation years. It was that amount that was used for the determination of the penalty under subsection 163(2) of the Act. For the record, I will reproduce the entire Appendix 1 of the calculations of the net worth differential.
+See the next page for the table entitled [Translation] "Appendix 1".
+[Translation]
+APPENDIX 1 Donald Pelletier Grand-Mère
+Calculation of net worth differential
+for taxation year
+SUMMARY
+2000
+2001
+2002
+Net worth at end of year
+$165,802
+$234,130
+$184,878
+$165,802
+Net worth at start of year
+194,304
+194,304
+234,130
+184,878
+Increase (decrease) in net worth
+($28,503)
+$39,826
+($49,252)
+($19,076)
+Adjustments
+Add:
+Appendix 5
+Personal expenses
+$259,412
+$127,741
+$69,226
+$62,445
+Capital loss (non-deductible portion)
+Shawinigan lot
+333
+333
+-
+-
+Unreported capital gain – St-Flore lot
+-
+-
+-
+Tax – federal and provincial
+35,188
+3,817
+31,135
+236
+Spouse’s tax – federal and provincial
+68
+-
+-
+68
+Donation to David
+48,525
+48,525
+-
+-
+Disbursement for Mario Pelletier
+10,000
+10,000
+-
+-
+Benefit to the shareholder
+68,508
+22,620
+22,620
+23,268
+$422,034
+$213,036
+$122,981
+$86,017
+Deduct:
+Non-taxable capital gain
+Shawinigan building
+$47,619
+$47,619
+$-
+$-
+St-Flore lot
+1,975
+-
+-
+1,975
+Spouse’s fed. and prov. tax refund
+1,690
+328
+108
+1,254
+$51,284
+$47,947
+$108
+$3,229
+Total income by net worth
+$342,248
+$204,915
+$73,621
+$63,712
+Minus: total reported income
+123,853
+97,081
+12,253
+14,519
+Total reported income – spouse’s
+57,437
+19,232
+18,309
+19,896
+Net worth differential
+$160,958
+$88,602
+$43,059
+$29,297
+Minus: known audit adjustments
+Movable purchased by company
+6,655
+5,171
+1,484
+Company expenditures
+1,832
+1,832
+Expenses disallowed – contractor etc.
+35,046
+35,046
+Benefit conferred on shareholder
+68,508
+22,620
+22,620
+23,268
+Loss on unreported land sale
+667
+667
+Unreported taxable gain on sale of garage
+(1,975)
+(1,975)
+$110,733
+$60,165
+$27,791
+$22,777
+Unreported business income subject to penalty
+$50,225
+$28,438
+$15,268
+$6,520
+[24] At the objection stage, the appeals officer disallowed the allotment to the shareholder of movables purchased by Domaine for the personal-use cottage, in the amount of $5,171 in 2001 and $1,484 in 2002, and removed those assets from the appellant's net worth. As mentioned, she also reduced the shareholder benefit with respect to the use of the cottage. All the remaining calculations for the net worth differential were retained.
+[25] According to the auditor and the appeals officer, the appellant and his representatives made few observations about the net worth other than the fact that the appellant received a large sum of money in 2000 as part of an insurance claim settlement after one of the properties he owned was destroyed by fire. Several exchanges and meetings took place between the auditor and the appellant, his accountant and his legal representative at the time. Very little information and very few explanations were given by the appellant and his representatives, which meant that the assessment was issued after the only known changes were made.
+[26] In this case, the appellant had to explain his disbursements ($202,000). Several disbursements were explained with supporting documentation by the fact that he was responsible for building cottages for individuals at Domaine and that he paid for labour and materials. However, he was unable to justify everything and did not provide valid explanations to the auditor. In fact, the appellant was unable to justify numerous disbursements. For example, the appellant and his accountant knew nothing about a disbursement of $21,000 that he had allegedly made in 210 $100 bills.
+[27] The appellant provided a description on paper that could explain the disbursements but did not provide supporting documents. Among those amounts, there is a total of $35,046, which represents salaries and items related to the construction of cottages, I presume. The auditor asked for more details in order to confirm everything, but received nothing. The appellant submitted nothing in support of the disbursements at trial, other than the fact that he paid expenses related to the construction of cottages.
+[28] Several disbursement of $800 accompanied by the letters DO are also found on the description sheets that the appellant gave the auditor. Questioned about it during the audit, he replied that DO stood for Donald (his first name) and that he did not need to report those amounts because he provided services. At the hearing, he explained that he did not remember the answer that he had given to the auditor and added that it was not a payment that he had received. He said that he had probably told her that DO stood for Domaine. He allegedly did some backhoe work for Domaine related to the construction of cottages, and that could have been true. One thing is certain, he admitted that he had not reported those amounts. I counted 5 disbursements of $800, some of which were in cash. Three of those amounts are entered on weekly timesheets, which suggests to me that it was a salary, not backhoe work.
+[29] There is no doubt that, during the taxation years in question, in the light of the evidence heard, the appellant built cottages for individuals who wanted to own a Domaine cottage and to have Domaine rent it out. Notwithstanding the statement of the appellant's representative, the appellant had to keep adequate accounts allowing him to justify the inflow of cash into his personal account and especially the outflow of cash that was used to pay for the expenses related to the construction of cottages, particularly with regard to the years in question. One individual who had the appellant build his cottage testified that he had the appellant supervise the work without remuneration. He had also transferred sums of money to the appellant during the construction, but the amount transferred was a round number, and there is nothing that would lead me to believe that there was an accounting. Everything points to the fact that it was rather a fixed price for the construction, namely $105,000, which did not include the land, according to this witness.
+[30] Indeed, the appellant admitted to the auditor that he was effectively in charge of building the cottages. He bought the materials, hired the workers and worked on the construction himself. He took care of paying the invoices including some that he had drawn up himself such as the invoices for $800 on behalf of DO.
+[31] The construction work undertaken by the appellant as described generated business income, and the appellant had thus a duty to keep sufficiently detailed books and records so that his business could be adequately audited. In this case, the auditor was unable to do an acceptable job on the basis of the information she had, and in my opinion, she was justified in calculating the differential using the net worth method.
+[32] The work done by the auditor in this case is also, in my opinion, above reproach. Other than the adjustments at the objection stage and the stage of determining the shareholder benefit for use of a cottage, the calculation of the net worth differential takes into account all of the allegations raised by the appellant in his arguments, particularly, the allegation that he had received a large sum of money in 2000 following a settlement for the loss of his property in a fire and that that sum of money explains many disbursements.
+[33] There is nothing in the evidence that would allow me to question the results of the net worth calculations done by the auditor. The auditor explained that she had relied on supporting documents to determine all the assets and liabilities, taking into account the adjustments to which she had added personal expenses, which in this case, were the disbursements. During interviews, the appellant confirmed all the elements of the calculations, and the evidence submitted does not allow me to change the data.
+[34] I accept the auditor's testimony stating that she paid particular attention to ensure that there is no doubling by removing all disbursements related to a purchase in asset items and all disbursements related to debt repayment in the liability items.
+[35] Regarding the section "sub-contractor expenses disallowed" and the corresponding amount of $35,046 for the 2000 taxation year, the appellant provided no explanation or supporting documentation that could justify the expenses. It seems evident that several transactions with contractors and workers were done in cash, thus leaving no traces. The appellant never answered the auditor's questions about the recipients of that money. The only change to the net worth calculations will therefore be made to the shareholder benefit section in which the net worth differential will be reduced but without changes to the unreported business income subject to penalty.
+[36] The appellant is an experienced businessman who has managed apartment buildings and who manages Domaine’s daily operations as well as the construction of several cottages. He was not unaware that it was important to keep adequate accounts and that he had to report all of his income. He admitted to the auditor that he had failed to report the amounts of $800 that he had received at least five times during the 2000 taxation year. He later stated that it was possible that those amounts had been for Domaine but said that he was not certain of that. In my view, the appellant knows very well that he received these amounts, and his inability to answer simple questions, whether during his interview with the auditor or at the hearing, shows his intention to feign hesitation and to omit disclosing what he knows. In my view, the appellant provided services for which he was paid or from which he made profits and did not report them. Therefore, the appellant made a misrepresentation of facts by wilful default within the meaning of subsection 152(4) of the Income Tax Act (the Act) by failing to report all of his income for the 2000 and 2001 taxation years. The Minister was thus warranted in issuing reassessments for the 2000 and 2001 taxation years outside the normal assessment period for those years.
+[37] The same is true for the imposition of penalties for the three taxation years. On the basis of the evidence, the Minister was warranted in imposing the penalties on the appellant as there is no doubt that the appellant, knowingly or under circumstances amounting to gross negligence, has made a false statement and omissions within the meaning of subsection 163(2) of the Act when he filed his income tax returns for the three taxation years at issue. (See Lacroix v. Canada, 2008 FCA 241).
+[38] The appeals are allowed in part, and the reassessments are referred back to the Minister for reconsideration and reassessment.
+[39] The respondent is entitled to her expenses.
+Signed at Ottawa, Canada, this 13th day of May 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 18th day of November 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 224
+COURT FILE NUMBER: 2007-4765(IT)G
+STYLE OF CAUSE: Donald Pelletier and Her Majesty the Queen
+PLACE OF HEARING: Shawinigan, Quebec
+DATES OF HEARING: May 13, 2009, and March 15 and 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 13, 2010
+APPEARANCES:
+Counsel for the appellant:
+François Daigle
+Counsel for the respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the appellant:
+Name: François Daigle
+Firm: Heenan Blaikie, S.E.N.C.R.L., SRL
+Trois-Rivières, Quebec
+For the respondent: Myles Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

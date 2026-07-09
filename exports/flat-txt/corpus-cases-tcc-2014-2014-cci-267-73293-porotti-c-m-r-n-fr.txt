@@ -1,0 +1,135 @@
+Title: Porotti c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73293/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-267-73293-porotti-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-09-05
+
+# Porotti c. M.R.N.
+
+- Citation: 2014 CCI 267
+- Decision date: 2014-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5183, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Porotti c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-05
+Référence neutre
+2014 CCI 267
+Numéro de dossier
+2013-2800(CPP), 2013-2801(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2013-2800(CPP)
+2013-2801(EI)
+ENTRE :
+MICHELLE POROTTI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+Appel entendu les 20 mars et 19 juin 2014, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Holly Popenia
+JUGEMENT
+Les appels interjetés à l’égard des décisions rendues par l’intimé en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada portant que l’appelante n’exerçait pas un emploi assurable ou un emploi ouvrant droit à pension auprès de Royal Ascot Care Centre Ltd. pour la période allant du 1er janvier 2012 au 8 août 2012 sont rejetés et les décisions de l’intimé sont confirmées.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2014.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 22e jour de février 2016.
+Maxime Deslippes
+Référence 2014 CCI 267
+Date : 20140905
+Dossiers : 2013-2800(CPP)
+2013-2801(EI)
+ENTRE :
+MICHELLE POROTTI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Michelle Porotti interjette appel de la décision du ministre du Revenu national portant qu’elle avait été embauchée à titre d’entrepreneure indépendante par Royal Ascot Care Centre Ltd. (« Royal Ascot ») et que, par conséquent, elle n’exerçait pas un emploi assurable au titre de la Loi sur l’assurance-emploi ou un emploi ouvrant droit à pension au titre du Régime de pensions du Canada. La période en cause est celle allant du 1er janvier 2012 au 8 août 2012.
+Le contexte [2] Royal Ascot est une entreprise privée qui exploite des installations de soins de longue durée. Mme Porotti a été embauchée par la société en 2007 en vue de mettre en œuvre un système informatisé d’examen des résidents, lequel avait été rendu obligatoire par le gouvernement de la C.‑B. C’est le gouvernement qui finançait le poste de Mme Porotti, qui portait le nom de responsable de clinique et qu’elle devait occuper environ deux ans.
+[3] Le projet a duré une année de plus que ce qui était prévu, mais Mme Porotti est restée au sein de Royal Ascot plus longtemps que cela pour y mettre en œuvre d’autres projets informatiques.
+[4] La relation a abruptement pris fin en 2012, après une mésentente entre Mme Porotti et Royal Ascot en ce qui concerne la perception de la taxe sur les produits et services (la « TPS »).
+Le critère juridique applicable [5] Le critère devant être appliqué pour établir si un travailleur exerce un emploi est résumé dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c M.N.R., 2013 CAF 85, aux paragraphes 38 à 41.
+[38] C’est pourquoi les arrêts Wolf et Royal Winnipeg Ballet exposent une méthode en deux étapes pour l’examen de la question centrale, telle que l’ont définie les arrêts Sagaz et Wiebe Door, qui est d’établir si l’intéressé assure, ou non, les services en tant que personne travaillant à son compte
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leurs rapports. Ainsi qu’il est expliqué au paragraphe 64 de l’arrêt Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère des arrêts Wiebe Door et de Sagaz est, ou non, rempli, c’est‑à‑dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[41] La question centrale à trancher reste celle de savoir si la personne recrutée pour assurer les services le fait, concrètement, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien les arrêts Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule fixe qu’on puisse appliquer, dans l’examen qui permet de répondre à cette question. Les facteurs à prendre en considération varient donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient les arrêts Wiebe Door et Sagaz sont habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui‑même son outillage, engage ses assistants, gère et assume des risques financiers, et peut escompter un profit de l’exécution de ses tâches.
+L’application aux faits a) L’appréciation des témoignages [6] Cinq personnes ayant travaillé au sein de Royal Ascot ont livré un témoignage à l’audience : Mme Porotti, Abigail Hakim, Kelly Rose, Cheryl Scarlett et Jacqueline Orina.
+[7] J’ai conclu, de manière générale, que les témoins étaient crédibles, à l’exception de Mme Porotti. Certaines des circonstances qui m’ont amené à douter de la fiabilité du témoignage de Mme Porotti sont exposées ci‑dessous.
+- Mme Porotti a énoncé dans son curriculum vitæ qu’elle est travailleuse autonome, sous le nom « M. Porotti Office Services » depuis 1993. Lors de l’audience, Mme Porotti a nié être une travailleuse autonome et elle a affirmé qu’elle avait bonifié son curriculum vitæ. Que ce fait soit vrai ou non, il met en doute la crédibilité de Mme Porotti.
+- Dans un courriel envoyé à Joanna Martin et daté du 22 février 2012, Mme Porotti a mentionné qu’elle n’était pas une employée de Royal Ascot et qu’elle était travailleuse autonome. À l’audience, Mme Porotti a mentionné qu’elle ne voulait pas dire la vérité à Mme Martin. Une fois de plus, cette situation donne à penser que la fiabilité du témoignage de Mme Porotti pose problème.
+- À l’audience, Mme Porotti a tenté d’expliquer la raison pour laquelle elle avait déclaré, dans ses déclarations de revenus, un revenu inférieur à celui que lui versait Royal Ascot. Elle a mentionné que l’administratrice de Royal Ascot, Mme Scarlett, lui avait conseillé de faire sa déclaration de revenus à titre de travailleuse autonome, de manière à ce qu’elle puisse obtenir un report d’impôt. Mme Scarlett a nié avec véhémence avoir dit une telle chose, et je conclus que l’explication donnée par Mme Porotti est invraisemblable.
+[8] Par conséquent, dans la mesure où le témoignage de Mme Porotti contredisait le témoignage des autres témoins, j’ai généralement préféré le témoignage de ces derniers.
+b) L’intention [9] La première question à laquelle il faut répondre est celle relative à l’intention des parties. Je conclus que l’intention des parties était clairement d’établir une relation d’entrepreneur indépendant, et ce, malgré le témoignage contraire de Mme Porotti.
+[10] Selon la preuve, les parties ont considéré, de manière continue, leur relation comme une relation d’entrepreneur indépendant, ce qui était aussi compatible avec la politique d’embauche de Royal Ascot relativement au personnel non infirmier. Royal Ascot ne faisait aucune retenue d’impôt, et Mme Porotti fournissait des factures, se décrivait comme une travailleuse autonome dans son curriculum vitæ et a tenté de percevoir la TPS.
+[11] Puisque j’ai conclu que le témoignage de Mme Porotti n’était pas fiable, il est évident que l’intention mutuelle des parties était d’établir une relation d’entrepreneur indépendant. Je peux donc maintenant procéder à l’analyse dégagée dans l’arrêt Wiebe Door pour établir si l’intention des parties est conforme avec la réalité objective.
+c) Le contrôle [12] La capacité du contribuable de contrôler la manière dont le travail est effectué est souvent un critère important pour déterminer la nature de leur relation.
+[13] Il existait à l’égard de cette question un contraste flagrant entre le témoignage de Mme Porotti et celui de Mme Scarlett.
+[14] Mme Porotti a témoigné longuement au sujet des situations dans lesquelles elle exerçait des tâches qui n’étaient pas liées à son rôle principal, lequel se rapportait aux nouveaux systèmes informatiques. Elle a mentionné qu’une grande partie de ces tâches étaient effectuées suivant les consignes de Mme Scarlett.
+[15] Il ne fait aucun doute que Royal Ascot assignait certaines tâches connexes à Mme Porotti, mais je ne crois pas qu’elle effectuait ces tâches suivant les directives de Royal Ascot. Mme Scarlett a déclaré que Mme Porotti excellait dans l’art de mettre en valeur ses aptitudes en matière d’administration, et qu’elle avait beaucoup à offrir à cet égard. D’après moi, Mme Porotti avait une vision très entrepreneuriale de son travail; elle demandait qu’on lui attribue des tâches connexes et elle acceptait de réaliser ces tâches connexes lorsqu’on lui en attribuait. Cependant, je suis d’avis que ces tâches connexes n’étaient pas de nature obligatoire et qu’elles étaient accessoires au rôle principal de Mme Porotti.
+[16] En tirant cette conclusion, j’ai gardé à l’esprit les témoins qui ont mentionné que Mme Scarlett arrivait généralement à ses fins. Cela pourrait être le cas, mais je conclus que Mme Porotti a demandé qu’on lui attribue ces fonctions supplémentaires.
+[17] Globalement, je conclus que Royal Ascot considérait Mme Porotti comme une entrepreneure indépendante qui avait été embauchée pour une tâche bien précise et que Mme Porotti s’occupait principalement de cette tâche, sans directives de la part de Royal Ascot, exception faite des rapports raisonnables que Mme Porotti faisait à Royal Ascot.
+[18] Je conclus que le facteur du contrôle milite fortement en faveur de l’existence d’une relation d’entrepreneur indépendant.
+d) La fourniture de matériel [19] Je conclus qu’en général, Royal Ascot fournissait l’équipement nécessaire pour l’accomplissement du travail (c.‑à‑d., un bureau équipé), exception faite des situations où Mme Porotti utilisait son véhicule personnel pour faire diverses courses pour le compte de l’organisme.
+[20] La fourniture d’équipement de bureau n’est pas rare dans le contexte d’une relation d’entrepreneur indépendant, mais je conclus que ce facteur milite légèrement en faveur de l’existence d’une relation employeur-employé.
+e) La capacité d’embaucher des assistants [21] Il est probable que l’embauche d’assistants par Mme Porotti aurait contrevenu à l’entente intervenue entre les parties. Une telle chose n’est pas rare dans une relation d’entrepreneur indépendant et je conclus que ce facteur n’est pas important.
+f) La gestion et la responsabilité à l’égard des risques financiers [22] Je n’ai attribué aucun poids à ce facteur, étant donné que des parties n’ont pas mis d’accent sur celui‑ci. Puisque les parties avaient l’intention que Mme Porotti soit une entrepreneure indépendante, il est probable que cette dernière ait assumé certains risques dans l’éventualité où elle ne réussissait pas à s’acquitter des tâches qu’elle avait convenu faire de manière adéquate.
+g) La possibilité de profit [23] Mme Porotti était payée selon une rémunération horaire et il était entendu qu’elle travaillerait environ 37,5 heures par semaine. Ce facteur milite généralement en faveur de l’existence d’une relation d’entrepreneur indépendant, la vision entrepreneuriale de Mme Porotti à l’égard de la relation ayant conduit à l’élargissement des tâches qu’elle effectuait pour le compte de Royal Ascot.
+h) Conclusion [24] En l’espèce, la réalité objective appuie l’intention des parties selon laquelle Mme Porotti avait été embauchée à titre d’entrepreneure indépendante. L’appel sera rejeté.
+Signé à Toronto (Ontario), ce 5e jour de septembre 2014.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 22e jour de février 2016.
+Maxime Deslippes
+RÉFÉRENCE :
+2014 CCI 267
+NO DU DOSSIER DE LA COUR :
+2013-2800(CPP)
+2013-2801(EI)
+INTITULÉ :
+MICHELLE POROTTI et LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 20 mars et le 19 juin 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith M. Woods
+DATE DU JUGEMENT :
+Le 5 septembre 2014
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

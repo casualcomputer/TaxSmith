@@ -1,0 +1,162 @@
+Title: Lucas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25803/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-177-25803-lucas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-28
+
+# Lucas v. The Queen
+
+- Citation: 2003 TCC 177
+- Decision date: 2003-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3813, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lucas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-28
+Neutral citation
+2003 TCC 177
+File numbers
+2002-1036(IT)I
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1036(IT)I
+BETWEEN:
+CYNTHIA LUCAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 28, 2003 at St. Catharines, Ontario
+Before: The Honourable Judge R.D. Bell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Joanna Hill and Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 28th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Citation: 2003TCC177
+Date: 20030328
+Docket: 2002-1036(IT)I
+BETWEEN:
+CYNTHIA LUCAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.T.C.C.
+ISSUE:
+[1] The issue is whether the amount of $8,655 included in the Appellant's 1999 taxation year income was properly so included.
+FACTS:
+[2] The Appellant testified that she was separated from her husband, David Kenneth Lucas ("David") in the fall of 1981. She introduced in evidence a document dated September 15, 1988 entitled "Minutes of Settlement" between her and David which provided that David:
+Shall pay to the plaintiff for the support of the child of the marriage, namely, Mark Ashley Lucas, who was born on December 5, 1979, the following amounts:
+i) $125.00 on the 19th and 26th of September, and
+ii) $500.00 per month commencing on October 1, 1988
+and continuing on the first day of each month thereafter.
+iii) The support payment referred to herein shall be indexed in accordance with the provisions of the Family Law Act;
+Although that document refers to a Mastercard account which was in arrears "as at the date of separation" no other reference to the parties living separate and apart was made.
+[3] The Appellant, in her 1999 taxation year, received the amount of $8,655 aforesaid as the result of David's obligation aforesaid to pay for the support of the child.
+[4] Peculiarly, another document dated September 15, 1988, bearing no description as to what it is, contains these three recitals:
+WHEREAS the parties hereto are husband and wife;
+AND WHEREAS the parties have entered into Minutes of Settlement in District Court of Ontario Action No. 3500/87 dated the 15 day of Sept., 1988 ("the Minutes");
+AND WHEREAS the parties are desirous of resolving any other matters in issue between them not otherwise dealt with in the said Minutes;
+No requirement that the parties live separate and apart is included therein. However, it refers to the above Minutes of Settlement which, as above stated, speaks of "the date of separation". An Order of the District Court of Ontario dated September 28, 1988 provides that David shall make the payments described in the Minutes of Settlement. It contains no order that the parties live separate and apart. It does contain a paragraph to the effect that the Appellant shall have custody of the child subject to reasonable access in favour of David, indicating that the Appellant and David were living separate and apart.
+[5] On cross-examination, the Appellant stated that she had not entered into a joint election with David respecting child support payments. She also stated that the aforesaid court order was not varied. She stated further that there was no separation agreement after April, 1997 regarding child support.
+[6] At the hearing I ordered written submissions from the Appellant and Respondent's counsel.
+[7] The Appellant, in her written submissions, said:
+The Income Tax Act prior to 1997 revision required that the separation agreement provides that the parties live separate and apart.
+[8] She referred to paragraph 56(1)(b) of the Income Tax Act ("Act") which, before the 1997 amendments, read as follows:
+any amount received by the taxpayer in the year, pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement, as alimony or other allowance payable on a periodic basis for the maintenance of the recipient thereof, children of the marriage, or both the recipient and children of the marriage, if the recipient was living apart from, and was separated pursuant to a divorce, judicial separation or written separation agreement from the spouse or former spouse required to make the payment at the time the payment was received and throughout the remainder of the year.
+[9] She then referred to The Practitioner's Income Tax Act, 15th Edition 1999 at 305, which states:
+also with respect to marriage breakdowns that occurred before 1993, in order for a recipient to be taxed on support amounts received, the payer and the recipient had to live apart pursuant to their divorce, judicial separation or written separation agreement. The application rules ensure that the new regime does not subject to tax amounts that were exempt because this particular requirement was not met in the hands of the recipients.
+[10] The Appellant then referred to a Canadian Tax Reporter Commentary described as August 2001 Release by CCH Canadian Limited. It reads, in part, as follows;
+Former paragraph 56(1)(b), applicable to amounts received with respect to the breakdown of a marriage before 1993, required that the payments be made pursuant to a divorce, judicial separation or written separation agreement which provided that the parties would live separate and apart. Where an agreement does not provide that the parties live separate and apart, it is not viewed as a separation agreement. Accordingly, it was possible to structure an arrangement such that payment would be non-deductible and non-taxable. Under the new test, the taxpayer must be living separate and apart from his or her spouse "because of the breakdown of the taxpayer's marriage" rather than because of a written separation agreement. This amendment ensures that it is no longer possible to structure the arrangement such that payments are non-taxable and non-deductible.
+RESPONDENT'S SUBMISSIONS:
+[11] The Respondent submitted that it is implicit from the terms of the Order and the Minutes of Settlement and agreement dated September 15, 1988 upon which the Order was made that the parties were living separate and apart. She referred to the specific reference in the Minutes of Settlement to "the date of separation".
+[12] The Respondent submitted, as a result, that although not specifically named as such, the agreement may be considered to be a written separation agreement. Accordingly, she submitted that the aforesaid payments received pursuant to the Order were not exempt from income inclusion under paragraph 56(1)(b) as it applies to pre-1993 agreements. She submitted, in the alternative, that the payments received by the Appellant were taxable under the old regime pursuant to paragraph 56(1)(c) applicable to amounts received after 1996 and paragraph 56(1)(c.1) applicable to pre-1993 agreements. Those provisions read as follows:
+(c) maintenance - an amount received by the taxpayer in the year as an allowance payable on a periodic basis for the maintenance of the taxpayer, children of the taxpayer or both the taxpayer and the children if
+(i) at the time the amount was received and throughout the remainder of the year the taxpayer was living separate and apart from the person who was required to make the payment,
+(ii) the person who was required to make the payment is the natural parent of a child of the taxpayer, and
+(iii) the amount was received under an order made by a competent tribunal in accordance with the laws of a province;
+(c.1) idem - any amount received by the taxpayer in the year, pursuant to an order made by a competent tribunal in accordance with the laws of a province, as an allowance payable on a periodic basis for the maintenance of the taxpayer, the children of the taxpayer or both the taxpayer and the children of the taxpayer if
+(i) the order was made
+(A) after February 10, 1988, or
+(B) before February 11, 1988 and the taxpayer and the person required to pay the amount jointly elected in writing before the end of the year to have this paragraph and paragraph 60(c.1) apply with respect to all those amounts,
+(ii) at the time the amount was received and throughout the remainder of the year, the taxpayer was living apart from the person required to pay the amount, and
+(iii) the person required to pay the amount is a person of the opposite sex who
+(A) before the date of the order cohabited with the taxpayer in a conjugal relationship, or
+(B) is the natural parent of a child of the taxpayer.
+[13] The Respondent submitted that these provisions do not require that the parties live separate and apart pursuant to a divorce, judicial separation or written separation agreement but that the factual situation that they live separate and apart is sufficient for a support amount to be included by those provisions.
+[14] The Respondent then submitted that the definition of "support amount" does not require the Order to stipulate that the Appellant and the payer live separate and apart. It reads as follows:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement;
+[15] She then said that this was a "child support amount" which is defined to mean:
+any support amount that is not that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or former spouse of the payer or who is a parent of a child of whom the parent is a natural parent.
+[16] Counsel then referred to paragraph 56(1)(b) which includes certain payments to be included in income by the recipient, those payments including "Support". It is defined as follows:
+(b) Support -the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+[17] She said, in effect, that the sum of $8,655 is included in A, that the amount in B is zero because there was no "commencement day", that only pertaining to post-April, 1997 periods, and that the amount in C is zero because the support amount of $8,655 had not been included in the Appellant's income for a preceding taxation year. Accordingly, she submits, the sum of $8,655 must be included in the Appellant's 1999 taxation year in accordance with paragraph 56(1)(b) of the Act.
+[18] Respondent's counsel also submitted that she did not agree with the Appellant's submission respecting paragraph 56(1)(b) as it applied to pre-1993 agreements on the basis that that provision did not require a specific clause in a written agreement stipulating that the parties live separate and apart. She referred to Simpson v. Canada, [1996] T.C.J. No. 391 in which Rip, J. stated:
+... I do not agree with my former colleague Goetz T.C.J. that for maintenance payments to be included in income, it is a requirement of paragraph 56(1)(b) that payments must be received pursuant to a written agreement that contains a provision requiring that the parties live separate and apart. ...
+[19] The Respondent submitted that it was implicit from the terms of the Order and the Minutes of Settlement and Agreement dated September 15, 1988 that the parties were living separate and apart and that the agreement may "be considered to be a written separation agreement".
+ANALYSIS AND CONCLUSION:
+[20] I agree with Bowman, A.C.J.T.C. as stated in Kovarik v. Canada, [2001] T.C.J. No. 181 that:
+Under what I may describe as the old régime (pre May 1997) spouses making payments to separated or ex spouses for the support of children could deduct those payments and the recipient had to include them in income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 S.C.R. 627, the legislation changed. So long as a pre May 1997 agreement remained unchanged the deduction/inclusion system under the old régime prevailed.
+If a new agreement were entered into, or an old agreement was changed in a particular way, the deduction/inclusion régime ceased and only payments made up to the "commencement day", as defined, were deductible by the payor and includible by the payee.
+[21] Accordingly if the Appellant is not correct in her submission that the amount of $8,655 is not includable in income because she and David did not live apart pursuant to a "divorce, judicial separation or written separation agreement", her appeal will fail.
+[22] In spite of what the Appellant cited as support for her position I do not accept her submission. I agree with Judge Rip's above quoted statement in Simpson which he expanded as follows:
+I prefer the view of Mogan T.C.J. in Lay v. The Queen, 95 DTC 272 at p. 275 that since:
+...there is no provision in paragraph 60(b) that the written agreement must contain a covenant to live separate and apart, although I would clearly agree with Judge Goetz that it is an essential ingredient that the parties have agreed to live separate and apart. Paragraph 60(b) simply states "... if he was living apart from, and was separated pursuant to a ... written separation agreement from, his spouse ...". In this appeal, it is implicit from the terms of the two written agreements that the Appellant and his wife have agreed to live apart.
+[23] The evidence is clear that the Appellant and David did live apart at the time of the Minutes of Settlement, Court Order and ancillary agreement. No new agreement was entered into, the extant agreements were not changed, no new Court Order was issued and the existing Court Order was not altered.
+[24] Accordingly, amounts received by the Appellant pursuant to the Court Order were, and are, includable in her income. Her appeal is, therefore, dismissed.
+Signed at Ottawa, Canada this 28th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+CITATION:
+2003TCC177
+COURT FILE NO.:
+2002-1036(IT)I
+STYLE OF CAUSE:
+Lucas v. The Queen
+PLACE OF HEARING:
+St. Catharines, Ontario
+DATE OF HEARING:
+January 28, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge R.D. Bell
+DATE OF JUDGMENT:
+March 28, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Joanna Hill and Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

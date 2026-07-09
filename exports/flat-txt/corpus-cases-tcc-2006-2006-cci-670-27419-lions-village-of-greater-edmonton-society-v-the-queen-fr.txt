@@ -1,0 +1,226 @@
+Title: Lions Village of Greater Edmonton Society v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27419/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-670-27419-lions-village-of-greater-edmonton-society-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-12-08
+
+# Lions Village of Greater Edmonton Society v. The Queen
+
+- Citation: 2006 CCI 670
+- Decision date: 2006-12-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 241, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lions Village of Greater Edmonton Society v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-08
+Référence neutre
+2006 CCI 670
+Numéro de dossier
+2003-1778(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1778(GST)I
+ENTRE :
+LIONS VILLAGE OF GREATER EDMONTON SOCIETY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 novembre 2006 à Edmonton (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Gordon Beck
+Avocate de l’intimée :
+Me Leslie Akst
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 26 octobre 2001 et porte le numéro 10BT0104051, est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 2e jour de mai 2008.
+Aleksandra Koziorowska
+Référence : 2006CCI670
+Date : 20061208
+Dossier : 2003-1778(GST)I
+ENTRE :
+LIONS VILLAGE OF GREATER EDMONTON SOCIETY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE JUGEMENT
+Le juge Miller
+[1] La Lions Village of Greater Edmonton Society (ci‑après la « Lions Village ») a construit et exploité deux immeubles d’habitation pour personnes âgées à Edmonton – l’immeuble Castledowns et l’immeuble Railtown. Sur réception d’un avis professionnel concernant les règles applicables à la fourniture à soi‑même contenues à l’article 191 de la Loi sur la taxe d’accise (ci‑après la « Loi »), la Lions Village a retenu les services de deux évaluateurs, fait évaluer les deux immeubles et par la suite versé la taxe exigible en vertu du paragraphe 191(3) de la Loi, calculée en fonction de la juste valeur marchande (ci‑après la « JVM ») évaluée des immeubles. Le ministre du Revenu national (ci‑après le « ministre ») a établi une nouvelle cotisation dans laquelle il a rejeté les valeurs foncières ainsi évaluées et fondé le calcul de la taxe exigible en vertu du paragraphe 191(3) sur le coût réel des deux immeubles. La question en litige est celle de savoir quelle valeur doit être attribuée aux deux immeubles aux fins du calcul de la taxe exigible en vertu du paragraphe 191(3). Je conclus que l’appelante n’a pas réfuté les hypothèses du ministre.
+Faits
+[2] L’ancien trésorier de la Lions Village, M. B. Berlin, a témoigné que le fonds sur lequel l’immeuble Castledowns a été construit a été loué à la Ville d’Edmonton (la « Ville ») pour une période de 40 ans, à laquelle ont été ajoutées deux périodes de prolongation de 10 ans chacune. La Ville a enregistré une opposition à l’égard du fonds afin de faire respecter la clause restrictive selon laquelle celui‑ci ne devait servir qu’au [TRADUCTION] « logement locatif public et sans but lucratif », soit à la [TRADUCTION] « fourniture de locaux d’habitation locatifs et sans but lucratif à des personnes âgées ou atteintes de déficiences et ayant des revenus faibles ou modestes ».
+[3] La Lions Village a conclu une entente de coentreprise avec Christenson Developments Ltd. qui a pris en charge l’aménagement immobilier et la construction ainsi que certaines garanties financières. La construction de l’immeuble Castledowns a été achevée en grande partie en mars ou avril 2000, et tous les logements ont été occupés à la fin de l’été ou au début de l’automne de la même année.
+[4] L’immeuble Railtown a aussi fait l’objet d’une coentreprise avec Christenson Developments Ltd. pour sa construction, mais au contraire de l’immeuble Castledowns, a été construit sur du terrain appartenant à la Lions Village. Sa construction a été achevée en grande partie en 2001.
+[5] La relation entre les résidents des immeubles et la Lions Village était régie par un contrat de bail et une convention de prêt qui, ensemble, ont formé ce que l’on appelle un bail viager. Selon la convention de prêt, les résidents devaient prêter à la Lions Village, sans intérêt, un montant remboursable le premier en date des jours suivants[1] :
+[TRADUCTION]
+4.1 celui de la fin de l’occupation par le prêteur du logement loué, pour quelque raison que ce soit;
+4.2 celui de la faillite ou de la mise sous séquestre de l’emprunteur;
+4.3 celui de la vente ou du transfert du fonds et de l’immeuble par l’emprunteur;
+4.4 celui de la non‑observation de toute condition préalable énoncée dans l’offre de bail faite au locataire à la date qui y est indiquée.
+5. Par dérogation aux dispositions du paragraphe 4.4 ci‑dessus, il est entendu et convenu que si le prêteur décède ou est hospitalisé en permanence ou par ailleurs incapable de prendre possession du logement loué, le montant principal du prêt lui est remboursé dans les quatre‑vingt‑dix (90) jours suivant la date à laquelle la Ville d’Edmonton délivre un permis d’occupation à l’égard du logement loué.
+[6] M. Berlin a témoigné que le montant du prêt a été calculé selon la part proportionnelle du coût de construction de l’immeuble attribuée au logement, présentée comme étant la valeur du logement dans les annexes déposées au procès[2]. Pour l’immeuble Castledowns, la valeur totale des logements indiquée à l’annexe a été fixée à 8 297 206 $. Pour l’immeuble Railtown, la valeur totale des logements indiquée à l’annexe a été fixée à 5 192 871 $.
+[7] Je conclus, par conséquent, que le coût réel des immeubles d’habitation a été d’environ 13 490 077 $.
+[8] Le contrat de bail prévoyait notamment ce qui suit :
+(i) le bail a été conclu pour la durée de la vie du locataire, à moins que ce dernier ne mette fin au contrat par préavis;
+(ii) le résident était tenu de payer une part proportionnelle des charges d’exploitation;
+(iii) le résident était tenu de verser un « loyer », soit un montant égal à la fraction des intérêts et du capital, que la Lions Village devait payer, attribuée à la valeur nette réelle de la part de la Lions Village dans le logement (la valeur nette réelle étant la valeur du logement moins le montant du prêt du résident). Ainsi, si le résident avait prêté le montant de la pleine valeur du logement à la Lions Village, il n’y aurait pas eu de « loyer » à payer.
+La convention de prêt et le contrat de bail avaient pour objet de faire en sorte qu’au décès du résident ou à la résiliation du bail, le prêt soit remboursé et que la Lions Village puisse trouver un autre locataire aux mêmes conditions.
+[9] M. Berlin a indiqué que la Lions Village avait sollicité des avis au sujet de l’application de la Loi aux immeubles Castledowns et Railtown. Elle a été informée qu’en vertu du paragraphe 191(3), le calcul du montant de la taxe relative à la fourniture à soi‑même devait être fait à partir de la JVM du bien. Lorsque la construction des immeubles d’habitation a été en grande partie achevée, la Lions Village a retenu les services de Wall and Associates pour les évaluer. Dans son évaluation de l’immeuble Castledowns, M. G. Downey, de Wall and Associates, a évalué la JVM à 4 100 000 $ en date du 6 mars 2000. Dans son évaluation de l’immeuble Railtown, M. J. Wall, de Wall and Associates, a évalué la JVM à 5 166 000 $ au 1er avril 2001. L’appelante a donc déclaré la taxe calculée au taux de 7 % de 90 % du montant de 4 100 000 $ et de 7 % du montant de 5 166 000 $.
+[10] Le ministre n’a pas présenté de rapport d’évaluation au procès. Le vérificateur de l’Agence du revenu du Canada (ci‑après l’« ARC »), M. C. Antulov, a témoigné que la cotisation du ministre avait été établie en vue de recouvrer les crédits de taxe sur les intrants (ci‑après les « CTI »), au montant de 867 747 $, demandés par Christenson Developments Ltd. Pour simplifier, le vérificateur a extrapolé, à partir des CTI de 867 747 $, le coût réel de construction supporté par Christenson Developments Ltd. pour les deux immeubles et l’a établi à 13 264 146 $. C’est à partir de ce montant que le ministre a établi le montant de taxe exigible de la Lions Village en vertu du paragraphe 191(3), soit 867 747 $, que l’intimée voulait recouvrer. La démarche dans ce cas est semblable à celle prévue à l’article 191.1, qui n’a pas été invoquée dans le présent appel, sans doute parce qu’aucun financement public n’avait été accordé.
+[11] Il n’est pas étonnant de constater que le coût de construction extrapolé de 13 264 146 $ est proche du montant de 13 490 077 $ apparaissant aux annexes susmentionnées des prêts des résidents, qu’a déposées la Lions Village. Cela a confirmé le point de vue de M. Berlin selon lequel le prêt consenti par les résidents devait être utilisé pour payer les coûts de construction des immeubles. Le vérificateur de l’ARC a indiqué qu’il n’a pas obtenu suffisamment de renseignements de Christenson Developments Ltd. pour pouvoir répartir les coûts entre les deux immeubles.
+[12] Au procès, la Lions Village a déposé en preuve l’avis annuel d’évaluation foncière établi par la Ville d’Edmonton pour l’année 2002 concernant l’immeuble Castledowns[3] et indiquant une valeur foncière de 4 424 000 $. Dans l’avis, ce montant y était précédé de la mention suivante :
+[TRADUCTION]
+L’évaluation foncière est établie par la Ville en fonction des conditions du marché. Il s’agit de la valeur de vente la plus probable si votre bien était vendu dans un marché libre.
+[13] Voici des points saillants de l’évaluation de la valeur de l’immeuble Castledowns effectuée par M. Downey, qui l’a établie à 4 100 000 $.
+[TRADUCTION]
+(i) La présente évaluation foncière est fondée sur le fait que le bien est un immeuble d’habitation locatif construit sur un terrain loué à la Ville d’Edmonton. Ni le concept de « bail viager », ni l’investissement financier connexe des résidents ou encore l’opposition enregistrée relativement au titre de propriété portant sur l’utilisation n’ont été pris en compte dans l’évaluation.
+(ii) L’évaluation a été faite sur une base hypothétique aux fins de la TPS. La valeur marchande réelle de l’emplacement serait autre si l’on avait tenu compte de l’opposition enregistrée relativement au titre de propriété qui en restreint l’utilisation à des immeubles d’habitation locatifs sans but lucratif à l’intention des personnes âgées ou atteintes de déficiences et ayant des revenus faibles ou modestes, et aux installations d’appoint pour les sports, le conditionnement physique, les loisirs et les soins de santé connexes. L’utilisateur de l’évaluation ne doit pas se servir du présent rapport à d’autres fins.
+(iii) La valeur marchande a été définie de la manière suivante :
+Le prix de vente le plus probable d’un bien dans un marché concurrentiel et libre, toutes les conditions de vente équitable étant réunies et le vendeur comme l’acheteur agissant de manière prudente et éclairée, sans que des pressions indues ne soient exercées sur le prix. Cette définition suppose implicitement qu’une vente a lieu à une date précise et que le titre de propriété passe du vendeur à l’acheteur dans les conditions suivantes :
+1. le vendeur et l’acheteur étaient normalement intéressés;
+2. les deux parties étaient bien renseignées ou bien conseillées et ont agi selon ce qu’elles estimaient être leur meilleur intérêt;
+3. le bien a été offert à la vente dans un marché libre pendant une période raisonnable;
+4. l’achat a été réglé comptant en devises canadiennes ou selon des dispositions financières comparables;
+5. le prix de vente a constitué une contrepartie normale pour le bien qui a été vendu libre de concessions spéciales ou particulières de financement ou de vente accordées par quiconque a été associé à la vente;
+(iv) Utilisation optimale
+Le principe de l’utilisation optimale est essentiel à la notion de valeur foncière. Il peut être défini ainsi : « l’utilisation qui, au moment où est effectuée l’évaluation, produira le rendement net le plus élevé sur une période donnée ». Le rendement net pourra être pécuniaire ou parfois, prendre la forme d’un agrément. Pour établir l’utilisation optimale, il faut prendre en compte les caractéristiques matérielles et fonctionnelles, les restrictions juridiques et les questions économiques ayant trait aux possibilités de location et à la viabilité financière.
+L’utilisation optimale de l’immeuble, vacant ou tel qu’il a été aménagé, est celle d’un immeuble d’habitation à logements multiples.
+(v) On a fait appel, pour l’évaluation foncière, à la technique du revenu et à celle du coût en privilégiant la première, car c’est la technique employée par la plupart des investisseurs. La technique de la comparaison des ventes a été écartée, car le nombre de ventes d’immeubles semblables est insuffisant pour que l’évaluation foncière soit menée à bien, puisque la majorité des immeubles d’habitation vendus ont été construits il y a 20 ou 30 ans. La construction de nouveaux immeubles locatifs n’a pas été considérée judicieuse au plan économique, car les loyers acceptés par le marché ne permettent pas de payer les coûts de construction.
+(vi) Les coûts de remplacement de l’immeuble ont été calculés en soustrayant, des coûts réels, le coût d’activités de marketing relatif au concept de « bail viager », des honoraires d’architecte pour des travaux préliminaires qui n’ont pas servi à la construction de l’immeuble et les coûts attribuables à la portion du fonds qui sera aménagée ultérieurement. Les coûts de la construction effectuée par Christenson Developments Ltd., promoteur immobilier bien connu dont l’expérience est grande dans ce type d’immeuble, se sont élevés à 5 196 139 $, plus des coûts accessoires de 780 038 $, pour un total de 5 976 177 $.
+(vii) Technique du revenu : Revenu brut 702 107 $
+Dépenses :
+Loyer du terrain
+40 723 $
+Taxes foncières
+77 760 $
+Assurance
+6 912 $
+Services publics
+36 288 $
+Entretien des aires communes
+12 096 $
+Collecte des ordures
+3 456 $
+Frais d’administration et de bureau
+9 504 $
+Gestionnaire sur place
+17 280 $
+Réserve pour l’entretien
+37 152 $
+Gestion (5 % du RBE)
+35 105 $
+Total
+276 276 $
+Revenu d’exploitation net
+425 831 $
+Taux de capitalisation de 10,5 %
+4 055 533 $
+Valeur indiquée, selon la technique de capitalisation globale (arrondie)
+QUATRE MILLIONS CINQUANTE‑CINQ MILLE dollars (4 055 000 $)
+M. Downey a témoigné qu’il a employé un taux de capitalisation supérieur au taux moyen de 9 % pour tenir compte du fait que l’immeuble est situé sur un terrain cédé à bail.
+[TRADUCTION]
+(viii) Les valeurs foncières ont été estimées ainsi :
+· Technique du coût 5 975 000 $
+· Technique du revenu 4 100 000 $
+Le montant établi au moyen de la technique du coût a excédé la valeur marchande, car l’immeuble n’a pas été construit aux fins locatives habituelles, comme on l’a expliqué plus haut dans le rapport. La technique de capitalisation globale et l’analyse des créances hypothécaires, qui fournissent d’excellentes indications de la valeur marchande de l’immeuble, ont servi à calculer le montant établi au moyen de la technique du revenu.
+[14] Voici des faits saillants de l’évaluation de la valeur de l’immeuble Railtown effectuée par M. Wall, qui l’a établie à 5 166 000 $.
+(i) [TRADUCTION] L’évaluation foncière est fondée sur le fait que le bien est un immeuble d’habitation locatif. Ni le concept de bail viager de « maison pour la vie », ni l’investissement financier des locataires n’ont été pris en compte.
+(ii) M. Wall a eu recours à une définition de la valeur marchande semblable à celle qu’a utilisée M. Downey.
+(iii) [TRADUCTION] [À] mon avis, l’utilisation optimale du fonds se répartit entre celle de l’actuel immeuble d’habitation sur la portion de 40 377 pi. ca. la plus au nord et pour la portion restante, celle d’un chemin donnant accès aux améliorations vers le sud.
+(iv) [TRADUCTION] On fera appel, pour l’évaluation foncière, à la technique du coût et à la technique du revenu, en privilégiant la dernière. Une enquête exhaustive n’a pas permis de recenser assez d’immeubles locatifs à logements multiples vraiment comparables qui auraient été vendus et auraient permis de procéder à une évaluation par comparaison directe.
+(v) M. Wall a eu recours à la technique du coût de remplacement et établi que la valeur foncière était de 6 820 000 $.
+(vi) En se fondant sur un revenu annuel brut de 720 528 $ et des dépenses de 232 830 $, ainsi que sur un taux de capitalisation de 8,5 %, M. Wall a estimé que la valeur foncière était de 5 740 000 $ (la somme de 5 166 000 $ équivalant à 90 % de ce montant).
+(vii) [TRADUCTION] L’écart est important entre les valeurs foncières calculées selon les deux techniques (la valeur obtenue si l’on applique la technique du revenu représente environ 84 % du coût), du fait que ce type d’immeuble (à logements multiples) ne permet pas de générer annuellement assez de revenu net pour justifier un investissement dans le fonds et les améliorations. Je suis d’avis qu’un investisseur investissant dans ce type de bien s’intéresserait au revenu et au rendement et ne se préoccuperait pas beaucoup, sinon aucunement, du coût de construction. Par conséquent, la valeur résultant de l’emploi de la technique du revenu servira à établir la valeur marchande de l’immeuble.
+[15] M. Wall a témoigné qu’il avait reçu pour instruction de fonder son évaluation sur le fait qu’il s’agissait d’un immeuble locatif; à son avis, le fait de prendre en compte le concept de bail viager aurait eu pour effet de réduire la valeur foncière associée à un immeuble locatif.
+Question en litige
+[16] L’intimée a formulé la question de la manière suivante : quelle était la juste valeur marchande des immeubles? Comme l’indiqueront clairement les motifs qui suivent, la question aurait pu être mieux formulée de cette façon : l’appelante a‑t‑elle réfuté la présomption du ministre selon laquelle les coûts réels représentent la JVM aux fins de l’application des règles de la fourniture à soi‑même du paragraphe 191(3) de la Loi sur la taxe d’accise?
+Analyse
+[17] Le paragraphe 191(3) de la Loi sur la taxe d’accise est ainsi libellé :
+Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n’est pas l’acheteur en vertu du contrat de vente visant l’immeuble, la possession d’une habitation de celui‑ci aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’habitation à titre résidentiel,
+(i.1) transfère à une personne la possession d’une habitation de l’immeuble aux termes d’une convention prévoyant :
+(A) d’une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l’immeuble,
+(B) d’autre part, la fourniture par bail du fonds faisant partie de l’immeuble ou la fourniture d’un tel bail par cession,
+(ii) étant un particulier, occupe lui‑même à titre résidentiel une habitation de l’immeuble,
+c) le constructeur, la personne ou un particulier locataire de celle‑ci ou titulaire d’un permis de celle‑ci est le premier à occuper à titre résidentiel une habitation de l’immeuble après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où la possession de l’habitation est transférée à la personne ou l’habitation est occupée par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour‑là.
+[18] Il est facile de comprendre la thèse de l’intimée, exposée en termes succincts par le vérificateur : [TRADUCTION] « nous voulions simplement recouvrer les CTI ». Pour ce faire, le paragraphe 191(3) a été appliqué en fondant le calcul sur les coûts engagés. C’est peut‑être ainsi que l’ARC suppose que le mécanisme législatif bien huilé et bien construit de la TPS devrait s’appliquer, et c’est ainsi qu’il s’appliquera si les coûts réels constituent le meilleur indicateur de la JVM. C’est en effet la JVM qui donne naissance à la taxe conformément au paragraphe 191(3). Certes, les coûts réels étaient connus de la Lions Village et en effet, les annexes fournies par la Lions Village indiquaient des coûts proches de ceux sur lesquels s’est fondée l’ARC. Mais les coûts reflètent‑ils la JVM?
+[19] La frustration que suscite le calcul de la JVM dans un cas comme celui‑ci tient à l’absence de marché et à la méconnaissance de l’ensemble de droits qui constituent l’immeuble, ce dernier étant visé par un bail viager. En d’autres termes, l’immeuble est‑il uniquement constitué de briques et de ciment, dont la valeur est établie en fonction de l’utilisation optimale, ou est‑il constitué de briques et de ciment auxquels s’ajoutent les droits et obligations découlant du prêt, du bail et, pour ce qui est de l’immeuble Castledowns, de l’avis d’opposition? Quand on a commercialisé les immeubles, que commercialisait‑on?
+[20] L’ARC a simplement établi la cotisation en fonction des coûts réels, en posant comme hypothèse qu’ils étaient égaux à la JVM aux fins du paragraphe 191(3). Les évaluations foncières menées pour le compte de la Lions Village ont été fondées sur le caractère locatif des immeubles, sans égard à leur nature, et par conséquent, ont été effectuées selon la technique du revenu. Je n’en fais pas reproche aux évaluateurs, qui n’ont fait que suivre les instructions reçues. Ni l’une ni l’autre partie n’a cependant tenté d’établir la JVM en prenant en considération le fait qu’il s’agit d’un immeuble d’habitation sans but lucratif visé par des baux viagers. Comme l’a indiqué le juge Pelletier dans l’arrêt Southpark Estates Inc., S.A.M. (Colorado) Inc., Villa Beliveau Inc., Virden Kin Place Inc. et Sa Majesté la Reine[4] une affaire semblable traitant de la JVM en cas de bail viager :
+Cette abstraction a un effet non négligeable. […]
+La décision des évaluateurs d’évaluer les immeubles en se fondant sur le fief simple, par opposition au fonds affermé, n’a pas été mise en doute dans la présente instance et, de ce fait, nous n’avons pas à décider si elle était justifiée ou non. Par conséquent, je n’exprime aucune opinion sur la question et je laisse à d’autres le soin de la trancher dans une affaire où elle sera plaidée.
+[21] Dans cet arrêt, la Cour d’appel fédérale a accepté les conclusions de la Cour canadienne de l’impôt selon lesquelles l’évaluateur de l’intimée a effectué l’évaluation qui convenait le mieux au moyen de la technique du coût en raison du fait que l’utilisation optimale de l’immeuble était celle d’un immeuble d’habitation visé par des baux viagers. Comme je l’ai clairement indiqué, j’ai des réserves quant aux techniques retenues par les deux parties en l’espèce. J’analyserai l’évaluation foncière produite par l’appelante en premier lieu. Tant M. Downey que M. Wall ont employé la technique du revenu. Cela se comprend puisque leur client avait précisé qu’ils ne devaient pas tenir compte des baux viagers. Il ne reste alors que les briques et le ciment. Les évaluateurs ont ensuite pu suivre les étapes normales d’évaluation de la valeur fondée sur le revenu. Je ne conteste pas la conclusion de M. Wall selon laquelle le montant de 5 740 000 $ est un résultat exact d’évaluation obtenu par la technique du revenu pour l’immeuble évalué, s’il est utilisé comme immeuble locatif. Curieusement, il n’a pas considéré qu’il s’agissait de l’utilisation optimale, puisqu’il a estimé que l’utilisation actuelle constitue l’utilisation optimale. Il faut se demander à quoi peut servir une évaluation foncière qui n’est pas fondée sur l’utilisation optimale.
+[22] M. Wall a également eu recours à la technique du coût et établi la valeur à 6 820 000 $. Ici non plus, je ne conteste pas la méthode, mais je note que l’évaluateur a indiqué qu’il connaissait les coûts réels mais a choisi de fonder son évaluation sur le coût de remplacement, en se reportant au Marshall Costing System.
+[23] La technique du revenu employée par M. Downey convenait mieux, car il a établi que l’utilisation optimale était celle d’un immeuble d’habitation à logements multiples. Or, cela ne tient pas compte du fait qu’une clause restrictive interdit d’utiliser le bien à cette fin. Il n’y a aucune indication permettant de conclure que l’immeuble pouvait être vendu aux fins de le convertir en condominium ou en logements locatifs : en fait, la preuve indique le contraire. Ici encore, il faut poser la question de l’à‑propos d’évaluer au moyen de la technique du revenu un bien qui ne peut servir à générer un revenu. Cela ne nous aide guère.
+[24] À l’égard de la technique du coût employée par M. Downey pour évaluer l’immeuble Castledowns, j’ai de la difficulté à concilier le montant de 5 976 177 $ présenté comme étant le coût de remplacement avec les coûts réels qui sont d’environ 8 200 000 $. L’écart entre les deux est majeur.
+[25] Qu’en est‑il du point de vue de l’intimée, qui s’appuie sur les coûts réels? L’intimée n’a présenté aucun rapport d’évaluation selon lequel les coûts réels constitueraient le critère d’évaluation le plus valable pour un immeuble visé par des baux viagers. Cette dernière s’en est tenue à recouvrer les CTI : s’il en coûte 13 000 000 $ pour construire les immeubles, il s’agit là du montant de la JVM aux fins de l’application du paragraphe 191(3). L’intimée renvoie ensuite à l’arrêt Southpark Estates Inc. et soutient que la technique du coût est la technique acceptée qui convient à l’évaluation de ce type d’immeuble.
+[26] La technique du coût reflète les coûts de construction. Si une autre entité sans but lucratif voulait construite un immeuble visé par des baux viagers, quels seraient les coûts de construction? Cela semble un bon raisonnement à première vue, mais il ne s’applique que si l’immeuble va être vendu pour être converti en condominium ou en habitation à logements locatifs. Dans ces deux cas, le propriétaire n’est assujetti à aucune obligation qui pourrait avoir une incidence sur le prix de vente ou le revenu de location. Par conséquent, les coûts de construction reflètent la somme qu’un investisseur raisonnable s’attend à recouvrer, plus un montant supplémentaire, pour obtenir un rendement raisonnable. Dans ce cas au moins, les coûts ont un certain rapport avec la valeur, car ils forment une partie du montant que le propriétaire a investi et cherche à recouvrer.
+[27] Quel est l’investissement d’un propriétaire, lorsqu’il s’agit de bail viager? Le propriétaire a emprunté une somme aux locataires sans être tenu de la rembourser avant de pouvoir emprunter à une autre personne (le nouveau locataire) un montant suffisant à rembourser l’emprunt contracté auprès de l’ancien locataire. En fait, il en coûte très peu au propriétaire : il n’a pas de coût à recouvrer ou très peu. Une autre entité sans but lucratif intéressée à construire un immeuble semblable n’investirait pas, à proprement parler, des millions de dollars dans sa construction. En fait, elle servirait uniquement d’intermédiaire. Dans de telles circonstances, la question de savoir comment il se peut que les coûts de construction reflètent la JVM qu’un acheteur intéressé serait disposé à payer à la Lions Village pour sa part dans les immeubles se pose. Bref, je doute qu’il soit indiqué de recourir à la technique du coût.
+[28] Ce qui semble manquer à toutes ces techniques, c’est la dimension que je croyais essentielle à l’évaluation foncière : à combien se chiffrerait le montant qu’un acheteur intéressé paierait à la Lions Village pour acquérir les immeubles qui sont assortis des prêts et des baux en cause? Il ne s’agit pas d’un exercice de théorie économique où l’on peut analyser diverses méthodes en commençant par poser comme hypothèse « toutes choses étant égales par ailleurs ». Il n’y a pas égalité. Les immeubles en cause ne sont pas des immeubles à logements locatifs. Les immeubles ne sont pas des condominiums. Ils sont ni chair, ni poisson. Comment se fait‑il que les évaluateurs n’aient pas abordé la situation correctement? Si l’État vise simplement à recouvrer les CTI d’une entité sans but lucratif, comment se fait‑il que le législateur n’ait pas jugé bon d’aller plus loin que ne le fait l’article 191.1?
+[29] Que puis‑je conclure? En premier lieu, en ce qui a trait à l’immeuble Railtown, l’intimée a reconnu que le montant de 5 192 871 $ reflète exactement les coûts de construction d’après les éléments de preuve déposés au procès, et en outre l’évaluateur de la Lions Village a produit une évaluation foncière très semblable totalisant 5 166 000 $, mais j’ai néanmoins des réserves quant aux deux techniques. Je conclus que l’évaluation du ministre n’a pas besoin d’être rajustée dans le cas de l’immeuble Railtown. Je reconnais que le ministre n’a pas ventilé son évaluation entre les deux immeubles.
+[30] En second lieu, pour ce qui est de l’immeuble Castledowns :
+(i) l’utilisation optimale ne peut, comme le proposait l’évaluateur de l’appelante, viser des logements locatifs puisque l’immeuble ne peut pas être utilisé à cette fin; par conséquent, l’emploi de la technique du revenu n’est d’aucun secours;
+(ii) au moyen de la technique du coût, l’appelante a calculé que la JVM s’établissait à 5 975 000 $, en se fondant sur les coûts réels du promoteur immobilier, Christenson Developments Ltd. On trouve à l’annexe R‑1 la liste faisant état de la valeur totale des logements de l’immeuble Castledowns qui s’établit à 8 297 206 $, un montant censé refléter les coûts de construction. Je ne suis tout simplement pas en mesure de concilier le montant de l’évaluation produite par M. Downey, fondée sur des coûts réels de 5 975 000 $, et la liste de l’appelante qui montre que les coûts réels se chiffraient à 8 297 206 $.
+(iii) L’évaluation foncière fondée sur les conditions du marché produite par la Ville d’Edmonton indique une valeur de vente la plus probable de 4 424 000 $, si l’immeuble était vendu dans un marché libre. Rien n’indique sur quelle hypothèse la Ville s’est appuyée pour supposer que l’immeuble pourrait être vendu.
+[31] Selon l’hypothèse implicite du ministre, les coûts réels de construction de l’immeuble Castledowns formaient la base du calcul de la valeur foncière. L’appelante n’a pas réfuté cette présomption, car :
+a) son évaluation a précisément écarté le concept de bail viager;
+b) l’emploi de la technique du revenu ne convenait pas;
+c) la valeur résultant de l’emploi de la technique du coût ne peut être conciliée avec les coûts réels;
+d) l’évaluation foncière de la Ville n’est étayée d’aucune explication ou élément à l’appui.
+En outre, la simple affirmation de M. Wall selon laquelle le bail viager a pour effet de réduire la valeur calculée selon la technique du revenu ne suffit pas pour réfuter l’hypothèse du ministre.
+[32] Je pourrais conjecturer sur une technique plus réaliste d’évaluation d’un immeuble visé par des baux viagers, mais il ne conviendrait pas que je le fasse sans disposer d’un quelconque élément de preuve fourni par l’une ou l’autre partie sur d’autres techniques que les techniques classiques du revenu ou du coût. Je n’ai été saisi d’aucune observation à cet égard. Je partage la frustration qu’exprimait le juge Pelletier dans l’arrêt Southpark Estates Inc. La réponse ne se trouve pas chez les évaluateurs, mais chez le législateur, qui a traité de la question lorsqu’il a adopté l’article 191.1, dont l’application est toutefois restreinte. S’il est vrai, comme l’a prétendu le vérificateur de l’ARC, que la cotisation été établie simplement en vue de recouvrer les CTI, le ministre devrait envisager la possibilité de clarifier la question par voie législative plutôt que d’imposer aux contribuables la charge de calculer la JVM d’un bien qui n’a pas de marché à toutes fins pratiques.
+[33] Je crains que les coûts ne représentent pas la JVM, et c’est avec une certaine réserve que je rejette l’appel. J’espère qu’il est clair que ma décision repose sur le fait que l’appelante ne s’est pas acquittée du fardeau de réfuter les hypothèses de Sa Majesté, et non pas sur la conclusion voulant que la technique d’évaluation des immeubles visés par des baux viagers doive se fonder sur les coûts réels. Je n’ai pas entendu d’argument convaincant à cet égard. L’appel est rejeté sans dépens. Étant donné que la Lions Village a pris les mesures nécessaires pour obtenir des évaluations foncières et versé la taxe calculée à partir de ces évaluations indépendantes, et vu que l’intimée n’a pas fourni de preuve selon laquelle les coûts reflètent véritablement la JVM, je ne suis pas disposé à condamner la Lions Village aux dépens.
+Signé à Ottawa, Canada, le 8e jour de décembre 2006.
+« Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 2e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2006CCI670
+No DE DOSSIER DE LA COUR : 2003-1778(GST)I
+INTITULÉ : Lions Village of Greater Edmonton Society et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 21 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 8 décembre 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gordon Beck
+Avocate de l’intimée :
+Me Leslie Akst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Gordon Beck
+Cabinet : Fieled LLP
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑3.
+[2] Pièces R‑1 et R‑2.
+[3] Pièce A‑6.
+[4] 2006 CAF 153.

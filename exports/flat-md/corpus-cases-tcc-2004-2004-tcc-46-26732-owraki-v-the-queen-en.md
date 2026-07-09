@@ -1,0 +1,175 @@
+---
+title: "Owraki v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26732/index.do"
+last_modified: "2004-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 46"
+citation2: ""
+neutral_citation: "2004 TCC 46"
+decision_date: "2004-01-13"
+language: "en"
+item_id: "26732"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3413
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:55:31.555000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c1762f6c47b577af1e3b48a0cd4f9301a77461b52872894d6a5159217f39943f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Owraki v. The Queen
+
+- Citation: 2004 TCC 46
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3413, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Owraki v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-13
+Neutral citation
+2004 TCC 46
+File numbers
+2002-4935(GST)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-4935(GST)I
+BETWEEN:
+NEHZAT OWRAKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Kehram Owraki 2002-4938(GST)I on December 17, 2003 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+N. Sarkar
+Counsel for the Respondent:
+Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, which bears number 00000100419 and is dated April 29, 2002, is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in the period in question namely April 1, 2000 to June 30, 2001, the Appellant is entitled to the input tax credit claimed of $24,847.88 and the Appellant is not liable for any penalty or interest, the whole for the reasons set forth in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of January 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation:2004TCC46
+Date: 20040113
+Docket: 2002-4935(GST)I
+BETWEEN:
+NEHZAT OWRAKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+2002-4938(GST)I
+KEHRAM OWRAKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] These appeals were heard on common evidence at Toronto, Ontario on December 17, 2003. Testimony was given by Nurool Sarkar, the agent for the Appellants, by Kehram Owraki and by the auditor Mr. Bovell of Canada Customs and Revenue Agency (CCRA). Several exhibits were filed.
+[2] The facts and issues are disclosed in the following paragraphs of the Amended Reply to the Notice of Appeal in Kehram Owraki's appeal.
+...
+8. The Minister of National Revenue (the "Minister") assessed the Appellant for a total amount of $11,573.49 (the "Amount Assessed"), consisting of $10,197.44 in ITCs disallowed, plus $799.81 in penalty and $576.24 in interest.
+9. The Appellant filed a Notice of Objection with respect to the Assessment on June 20, 2002.
+10. A Notice of Decision was issued on November 13, 2002, confirming the assessment.
+11. In so assessing the Appellant, the Minister made the following assumptions of fact:
+(a) at all material times, the Appellant was a GST registrant engaged in the wholesaling of electronic and other products (the "Taxable Supplies");
+(b) during the Period, the ITCs claimed did not correspond to the information made available to the Minister by the Appellant;
+(c) the Appellant failed to obtain sufficient evidence in such form containing such information as would enable the amount of ITC's denied to be allowed;
+(d) the Appellant is not entitled to ITCs denied in the amount of $10,197.44; and
+(e) the Appellant claimed net tax refundable to which he was not entitled.
+B. ISSUE TO BE DECIDED
+12. The issues are whether
+(a) the Minister properly assessed the Appellant as stated in paragraph 8 above; and
+(b) the Minister properly disallowed the $10,197.44 in ITCs claimed by the Appellant.
+...
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+...
+15. He respectfully submits that the Appellant is not entitled to the ITCs claimed and disallowed in the amount of $10,197.44 on the basis that there was insufficient evidence obtained by the Appellant in such form containing such information as would enable the amount of ITCs to be determined, including any such information as may be prescribed, pursuant to section 169 of the Act and Regulations.
+16. He respectfully submits that the Appellant is not entitled to ITCs claimed and disallowed in the amount of $10,197.44 as they did not correspond with the Appellant's books and records.
+17. He respectfully submits that the Appellant failed to remit the net tax as stated in paragraph 7 as and when required by subsections 165(1), 221(1), 225(1) and 228(2) of the Act.
+18. He respectfully submits that due to the Appellant, having claimed net tax refundable to which he was not entitled, corresponding penalty and interest were duly levied pursuant to section 280 of the Act.
+19. He respectfully submits that the Appellant did not act with due diligence in relation to Part IX of the Act.
+...
+[3] The Reply in the appeal of Nehzat Owraki, the wife of Kehram Owraki is substantially the same as the Amended Reply in the appeal of Kehram Owraki with the following exceptions; in Nehzat the amounts involved were $24,847.88 in input tax credits disallowed, plus $1,948.88 in penalty and $1,404.12 in interest; and the "Taxable Supplies" that the Appellant was wholesaling consisted of cosmetics and related products, whereas the "Taxable Supplies" in the appeal of Kehram consisted principally of electronic products.
+[4] The main issue in both appeals is that there was insufficient evidence furnished by the Appellants in such form containing such information as would enable the amount of the ITCs to be determined including any such information as may be prescribed pursuant to section 169 of the Excise Tax Act (the "Act") and the Input Tax Credit Information Regulations (the "Regulations").
+[5] Pursuant to subsection 169(1) of the Act, GST registrants who make "Taxable Supplies" are entitled to input tax credits for the GST they pay on purchases of any property or service for use in the course of their commercial activities. These claims are computed on a self-assessing basis.
+[6] Paragraph 169(4)(a) of the Act requires that registrants, before filing their returns, obtain sufficient evidence to determine the amount of input tax credit allowable. The Regulations[1] set out the required evidence in section 3 and define supporting documentation in section 2 as follows:
+"supporting documentation" means the form in which information prescribed by section 3 is contained and includes:
+a) an invoice
+b) a receipt
+c) a credit-card receipt
+d) a debit note
+e) a book or a ledger of account
+f) a written contract or agreement
+g) any record contained in a computerized or electronic retrieval or data storage system, and
+h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable.
+[7] The Appellants maintain that approximately 70% of their sales consisted of exports to Iran (with a small portion going to Germany and Italy) and 30% of sales in Canada. There is no dispute with respect to the GST on sales in Canada. The dispute relates to the sales made principally in Iran upon which no GST is collectible, yet the Appellants were obliged to pay GST on purchases of goods or services acquired to enable the sales in Iran.
+[8] The main difficulty was the fact that the auditor for CCRA was unable to determine from the books and records submitted by the Appellants the correct percentages of sales and more importantly the exact amount of ITCs. Both counsel for the Respondent and the Appellants through their agent submitted various calculations attempting to establish what were the correct amounts.
+Analysis
+[9] I find the testimony of Kehram Owraki credible. He stated that he was unable to come up with all the necessary documentation because many purchases and sales were made in cash. He further explained the main reason for not being able to furnish all the records required was a loss of a briefcase containing numerous documents, which loss occurred during a taxi ride in Iran. The documents lost consisted of invoices, sales records, a detailed logbook, a checkbook and approximately $20,000 US in cash. Kehram Owraki gave a very detailed account of the circumstances surrounding the loss and has convinced the Court that as a result of the loss it became impossible for the Appellants to prove all the sales and purchases.
+[10] In these very unusual circumstances I find that on a balance of probabilities the ITCs claimed by both Appellants are to be allowed. The testimony of the auditor who admittedly did his best to calculate the sales and purchases was mainly to the effect that cash must come from somewhere. He reviewed two possible sources of cash namely cash sales and cash withdrawals based on bank statements and concluded that the maximum ITCs that could be allowed were what the Minister did allow. On balance however I believe the Appellants and their agent and find that they have established their case.
+[11] Consequently, the appeal of Nehzat Owraki is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in the period in question namely April 1, 2000 to June 30, 2001, she is entitled to the input tax credit claimed of $24,847.88 and further she is not liable for any penalty or interest. Also the appeal of Kehram Owraki is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that he is entitled to input tax credits claimed of $10,197.44 in the period in question namely April 1, 2000 to June 30, 2001 and further that he is not liable for any penalty or interest.
+Signed at Ottawa, Canada, this 13th day of January 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC46
+COURT FILE NO.:
+2002-4935(GST)I and 2002-4938(GST)I
+STYLE OF CAUSE:
+Nehzat Owraki and H.M.Q. and Kehram Owraki and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+January 13, 2004
+APPEARANCES:
+Agent for the Appellant:
+N. Sarkar
+Counsel for the Respondent:
+Eric Sherbert
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Input Tax Credit Information (GST/HST) Regulations. SOR/2000-180, s. 1.

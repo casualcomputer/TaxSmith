@@ -1,0 +1,218 @@
+Title: 407 International Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423885/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-245-423885-407-international-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-10-25
+
+# 407 International Inc. c. La Reine
+
+- Citation: 2019 CCI 245
+- Decision date: 2019-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4237, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+407 International Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-25
+Référence neutre
+2019 CCI 245
+Numéro de dossier
+2018-2037(IT)I
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2037(IT)I
+ENTRE :
+407 INTERNATIONAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Requête entendue le 26 août 2019, à Toronto (Ontario).
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Martha MacDonald et Me Michael Steele
+Avocats de l’intimée :
+Me Jenna Clark et Me Samantha Hurst
+ORDONNANCE
+VU la requête de l’intimée en vue d’obtenir :
+a) une ordonnance exigeant que les appels de la société 407 International Inc. (« la société 407 International ») et de la société 407 ETR Concession Company Limited (« la société 407 ETR ») soient réunis ou entendus de manière simultanée ou consécutive;
+b) une ordonnance exigeant que les appels réunis soient entendus sur preuve commune;
+c) une ordonnance exigeant que les appels de la société 407 International demeurent sous le régime de la procédure informelle, afin que la question qui y est soulevée et qui n’est pas une question commune à ces appels, de même que l’appel de la société 407 ETR, soient entendus sous le régime de la procédure informelle;
+d) une ordonnance exigeant qu’indépendamment du régime de procédure sous lequel les appels seront entendus, les parties se conforment à l’article 145 des Règles de la Cour canadienne de l’impôt (procédure générale) (« les Règles générales ») à l’égard de tout rapport d’expert, rapport en réfutation ou rapport en contre réfutation;
+e) à titre subsidiaire, une ordonnance exigeant que les appels de la société 407 International soient suspendus, en attendant une décision sur une question commune à tous les appels qui devrait être tranchée à l’audition de l’appel de la société 407 ETR;
+f) quoiqu’il en soit, une ordonnance autorisant l’intimée à modifier sa réponse à l’avis d’appel qui figure au dossier de la Cour no 2018-2037(IT)I conformément à l’ébauche qui a été fournie à titre d’annexe A de l’avis de requête modifié qui a été déposé le 13 août 2019;
+ET VU les observations des parties;
+CONFORMÉMENT AUX motifs de l’ordonnance ci-joints, LA COUR ORDONNE CE QUI SUIT :
+a) L’appel de la société 407 ETR et les appels de la société 407 International seront entendus de manière simultanée et sur preuve commune.
+b) L’article 145 des Règles générales s’appliquera à tout témoin expert de l’une ou l’autre des parties aux appels.
+c) L’intimée sera autorisée à modifier sa réponse conformément à l’ébauche qui a été fournie à titre d’annexe A de l’avis de requête modifié qui a été déposé le 13 août 2019.
+d) Chaque partie assumera ses propres dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2019.
+« J.R. Owen »
+Le juge Owen
+Dossier : 2018-2038(IT)G
+ENTRE :
+407 ETR CONCESSION COMPANY LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Requête entendue le 26 août 2019, à Toronto (Ontario).
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Martha MacDonald et Me Michael Steele
+Avocats de l’intimée :
+Me Jenna Clark et Me Samantha Hurst
+ORDONNANCE
+VU la requête de l’intimée en vue d’obtenir :
+a) une ordonnance exigeant que les appels de la société 407 International Inc. (« la société 407 International ») et de la société 407 ETR Concession Company Limited (« la société 407 ETR ») soient réunis ou entendus de manière simultanée ou consécutive;
+b) une ordonnance exigeant que les appels réunis soient entendus sur preuve commune;
+c) une ordonnance exigeant que l’appel de la société 407 International demeure sous le régime de la procédure informelle, afin que la question qui y est soulevée et qui n’est pas une question commune à cet appel et à l’appel de la société 407 ETR, soit entendue sous le régime de la procédure informelle;
+d) une ordonnance exigeant qu’indépendamment du régime de procédure sous lequel les appels seront entendus, les parties se conforment à l’article 145 des Règles de la Cour canadienne de l’impôt (procédure générale) (« les Règles générales ») à l’égard de tout rapport d’expert, rapport en réfutation ou rapport en contre réfutation;
+e) à titre subsidiaire, une ordonnance exigeant que les appels de la société 407 International soient suspendus, en attendant le règlement d’une question commune à tous les appels qui devrait être tranchée à l’audition de l’appel de la société 407 ETR.
+ET VU les observations des parties;
+CONFORMÉMENT AUX motifs de l’ordonnance ci-joints, LA COUR ORDONNE CE QUI SUIT :
+a) L’appel de la société 407 ETR et les appels de la société 407 International seront entendus de manière simultanée et sur preuve commune.
+b) L’article 145 des Règles générales s’appliquera à tout témoin expert de l’une ou l’autre des parties aux appels.
+c) Chaque partie assumera ses propres dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2019.
+« J.R. Owen »
+Le juge Owen
+Référence : 2019 CCI 245
+Date : 20191025
+Dossier : 2018-2037(IT)I
+ENTRE :
+407 INTERNATIONAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2018-2038(IT)G
+ET ENTRE :
+407 ETR CONCESSION COMPANY LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DE L’ORDONNANCE
+Le juge Owen
+I. Introduction
+[1] Il s’agit d’une requête présentée par l’intimée sollicitant :
+a) une ordonnance exigeant que les appels de la société 407 International Inc. (« la société 407 International ») et de la société 407 ETR Concession Company Limited (« la société 407 ETR ») soient réunis ou entendus de manière simultanée ou consécutive;
+b) une ordonnance exigeant que les appels réunis soient entendus sur preuve commune;
+c) une ordonnance exigeant que les appels de la société 407 International demeurent sous le régime de la procédure informelle, afin que la question qui y est soulevée et qui n’est pas une question commune à ces appels, de même que l’appel de la société 407 ETR, soient entendus sous le régime de la procédure informelle;
+d) une ordonnance exigeant qu’indépendamment du régime de procédure sous lequel les appels seront entendus, les parties se conforment à l’article 145 des Règles de la Cour canadienne de l’impôt (procédure générale) [« les Règles générales »] à l’égard de tout rapport d’expert, rapport en réfutation ou rapport en contre réfutation;
+e) à titre subsidiaire, une ordonnance exigeant que l’appel de la société 407 International soit suspendu, en attendant le règlement d’une question commune à tous les appels qui devrait être tranchée à l’audition de l’appel de la société 407 ETR.
+[2] En outre, en ce qui concerne les appels de la société 407 Internationale, l’intimée souhaite modifier sa réponse conformément à l’ébauche qui a été fournie à titre d’annexe A de l’avis de requête modifié qui a été déposé le 13 août 2019. Les appelantes ne contestent pas cette requête.
+[3] Au cours des plaidoiries, les avocats de l’intimée ont affirmé que cette dernière est satisfaite que l’appel de la société 407 ETR soit régi par les Règles générales et que les appels de la société 407 International soient régis par les Règles de la Cour canadienne de l’impôt (procédure informelle), sauf à l’égard de la présentation des éléments de preuve d’expert qui, selon l’intimée, devrait être régie exclusivement par les Règles générales.
+[4] L’appelante ne conteste pas la demande de réunion, mais elle fait valoir qu’une ordonnance de réunion équivaut à une ordonnance exigeant de placer sous le régime de la procédure générale les appels de la société 407 International interjetés sous le régime de la procédure informelle à la demande du procureur général du Canada, de telle sorte que les paragraphes 18.11(3) et (4) de la Loi sur la Cour canadienne de l’impôt (« la LCCI ») ne s’appliquent pas. Par conséquent, si une ordonnance de réunion doit être délivrée, les appelantes demandent une ordonnance en application du paragraphe 18.11(6) de la LCCI exigeant que l’intimée assume tous les dépens pertinents et raisonnables de la société 407 International.
+II. Les faits
+[5] La société 407 ETR est une filiale en propriété exclusive de la société 407 International. Elle interjette appel de sa cotisation à l’égard de l’année d’imposition 2011, tandis que la société 407 International interjette appel de ses cotisations à l’égard des années d’imposition 2010 et 2011. Dans son avis d’appel, la société 407 International a choisi d’appliquer à ses appels les articles 18.1 à 18.28 de la LCCI.
+[6] La question soulevée dans l’appel de la société 407 ETR à l’égard de l’année d’imposition 2011 concerne la qualification d’une perte de 2 549 206 $ subie lors de la disposition de prétendus « véhicules d’actifs cadres », qu’elle avait acquis à l’occasion de la restructuration d’un papier commercial adossé à des actifs acquis antérieurement à la suite de l’effondrement du marché concerné en 2007. La société 407 ETR a déclaré la perte en tant que perte d’entreprise, mais dans la cotisation, le ministre du Revenu national (« le ministre ») l’a qualifiée de perte en capital.
+[7] La même question est soulevée dans les appels de la société 407 International à l’égard des années d’imposition 2010 et 2011, sauf que les montants des pertes en cause pour chacune de ces années s’élèvent à 1 721 213 $ et à 34 886 436 $, respectivement. Par ailleurs, la société 407 International interjette appel du rejet d’une déduction pour frais d’intérêts de 1 381 774 $ [1] à l’égard de l’année d’imposition 2011.
+[8] En dépit du montant important des rajustements pour la société 407 International à l’égard des années d’imposition 2010 et 2011, la société 407 International ayant appliqué des pertes autres qu’en capital découlant d’autres années d’imposition, les cotisations établies pour les années d’imposition en cause s’élèvent à 40,07 $ et à 58,69 $, respectivement. Le ministre n’a établi aucune détermination des pertes pour la société 407 International à l’égard des années d’imposition 2010 et 2011.
+[9] Aux termes d’une ordonnance du juge en chef de la Cour canadienne de l’impôt datant du 5 novembre 2018, les appels de la société 407 ETR et de la société 407 International sont soumis à une gestion des instances dont je suis responsable en application de l’article 126 des Règles générales.
+III. Discussion
+A. Application de la procédure informelle pour la société 407 International
+[10] La société 407 International interjette appel des cotisations d’impôt établies par le ministre à l’égard des années d’imposition 2010 et 2011 et invoque l’alinéa 18(1)a) de la LCCI en vue d’obtenir l’application de la procédure informelle de la Cour à ces appels.
+[11] Aux termes de l’article 18.12 de la LCCI, si la Cour estime que le total de tous les montants en cause est supérieur à 25 000 $, elle peut ordonner l’application de la procédure générale, sauf si l’appelante choisit de restreindre le total des montants en cause à 25 000 $. Compte tenu de cette règle et des rajustements importants apportés par le ministre lors de l’établissement des cotisations de la société 407 International à l’égard des années d’imposition 2010 et 2011, j’ai demandé aux parties de présenter leurs observations écrites quant à la question de savoir si le total de tous les montants en cause pour la société 407 International à l’égard de chacune des deux années d’imposition visées par les appels est ou non inférieur ou égal à 25 000 $.
+[12] Dans leurs observations, les deux parties soutiennent que le total de tous les montants en cause pour la société 407 International à l’égard de chacune des deux années d’imposition est inférieur ou égal à 25 000 $. L’argument central de ces observations est que, selon la formulation claire et non ambiguë des dispositions pertinentes de la LCCI telles qu’elles sont interprétées dans la jurisprudence, le terme « total de tous les montants en cause » englobe seulement les montants qui ont été définis par le ministre ou qui ont fait l’objet d’une cotisation établie par le ministre aux termes de la Loi de l’impôt sur le revenu (autres que le montant d’intérêts ou de toute perte établie par le ministre), et il ne tient pas compte des rajustements tels que l’application de pertes autres qu’en capital contribuant au calcul des montants ainsi définis ou ainsi faisant l’objet d’une cotisation.
+[13] Après un examen minutieux, je conclus que, pour les motifs énoncés dans les observations des parties, le total de tous les montants en cause pour la société 407 International à l’égard de chacune des deux années d’imposition visées par les appels est inférieur à 25 000 $. Par conséquent, aux termes de l’article 18 de la LCCI, les articles 18.1 à 18.28 de la LCCI s’appliquent à ces appels.
+B. Ordonnances demandées par l’intimée
+[14] Les Règles générales ne s’appliquent pas aux appels de la société 407 International [2] . Par conséquent, la question soulevée consiste à savoir si la Cour a néanmoins compétence pour appliquer les Règles générales (ou certaines d’entre elles) aux appels de la société 407 International. Je suis d’avis que la Cour possède cette compétence et que l’application, par le juge en chef, de la règle de gestion des instances aux appels de la société 407 International constitue un exemple de l’exercice de cette compétence. Je m’efforcerai d’expliquer le fondement de cette conclusion.
+[15] La Cour canadienne de l’impôt est une cour supérieure d’archives créée par une loi [3] en application du pouvoir conféré au législateur en vertu de l’article 101 de la Loi constitutionnelle de 1867 [4] . Une cour supérieure créée par une loi diffère d’une cour supérieure provinciale, car la première ne possède pas de compétence inhérente [5] . L’utilisation du mot « supérieure » dans la LCCI renvoie au fait que la Cour canadienne de l’impôt possède un pouvoir de surveillance dans les domaines du droit pour lesquels la LCCI lui confère compétence [6] .
+[16] Même si la Cour canadienne de l’impôt ne possède pas de compétence inhérente, elle possède par implication tous les pouvoirs raisonnablement nécessaires pour s’acquitter de son mandat [7] . Cela comprend la compétence implicite en matière de gestion et de contrôle des instances portées devant la Cour, de manière à veiller au fonctionnement ordonné et efficace des rouages de la Cour et à l’intégrité du système de justice [8] .
+[17] L’article 20 de la LCCI prévoit la création de règles pour la réglementation de la pratique et de la procédure devant la Cour. Dans la plupart des cas, les règles qui sont créées en application de l’article 20 de la LCCI réglementent en effet la pratique et la procédure devant la Cour. Néanmoins, la compétence implicite de la Cour permet à cette dernière de veiller à l’intégrité du système de justice, de même que de gérer et de contrôler les instances portées devant la Cour, afin de veiller au fonctionnement ordonné et efficace des rouages de la Cour d’une manière équitable pour les parties [9] . Ce faisant, la compétence implicite procure nécessairement à la Cour une certaine flexibilité à l’égard des moyens et de la portée d’application à des circonstances particulières les règles créées en application de l’article 20 de la LCCI, sous réserve du respect de l’exigence quant au fait d’exercer cette compétence implicite en faisant preuve de retenue [10] .
+[18] L’intimée fait valoir que les appels ont en commun une question de droit, une question de fait ou une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d’événements, et elle demande que les appels soient réunis ou qu’ils soient entendus sur preuve commune et de manière simultanée ou consécutive. L’intimée demande en outre que les Règles générales s’appliquent à tous les appels à l’égard des experts [11] .
+[19] Seules les Règles générales traitent de la réunion d’appels et de l’audition d’appels de manière simultanée ou consécutive. L’article 26 des Règles générales est rédigé ainsi :
+26. Si, dans le cas où la Cour est saisie de plusieurs instances, il appert :
+a) qu’elles ont en commun une question de droit, une question de fait ou une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d’événements;
+b) que pour toute autre raison, il y a lieu de rendre une directive en application du présent article,
+la Cour peut ordonner :
+c) la réunion de ces instances ou leur instruction simultanée ou consécutive;
+d) l’ajournement de l’une d’entre elles en attendant l’issue de n’importe quelle autre [12] .
+[20] L’alinéa 126(3)b) des Règles générales est rédigé ainsi :
+(3) Le juge chargé de la gestion de l’instance peut se pencher sur toutes les questions qui se posent avant l’audition de l’appel et peut, notamment :
+[...]
+b) donner toute directive nécessaire pour que l’appel soit réglé au fond de façon juste et de la façon la plus expéditive et la moins coûteuse possible, y compris par la réunion de plusieurs appels ou de parties d’appels soulevant des questions communes ou portant sur des faits communs […].
+[21] Dans l’arrêt 3488063 Canada Inc. c. Canada, 2016 CAF 233 [3488063], le juge Webb explique l’effet d’une réunion en application de l’article 26 des Règles générales :
+Comme il a été mentionné précédemment, chaque cotisation qui fait l’objet d’un appel devant la Cour canadienne de l’impôt conserve sa propre identité tout au long de l’instance en ce qui concerne son bien-fondé. Étant donné que chaque cotisation conserve sa propre identité, il me semble que chaque appel interjeté à l’encontre d’une cotisation conserverait également son identité à titre d’appel distinct quant à son bien-fondé. Puisque la Loi prévoit qu’un appel se rapporte à une cotisation particulière, ce rapport un à un entre un appel et une cotisation en ce qui a trait au bien-fondé de la cotisation ou de l’appel ne peut être modifié par les Règles.
+Toutefois, les Règles peuvent avoir pour effet de réunir ou de fusionner les appels pour ce qui est des étapes procédurales qui seront applicables à tous les appels qui font l’objet d’une ordonnance portant réunion d’instances. Par conséquent, les appels qui sont réunis se dérouleront comme s’il s’agissait d’un seul et unique appel aux fins de l’application des Règles et chaque étape procédurale en vertu des Règles s’appliquera également à chaque appel qui fait partie de l’instance réunie, de sorte qu’une liste de documents s’appliquera, par exemple, à l’ensemble de ces appels.
+Cependant, les cotisations sous-jacentes ne sont pas réunies. Par conséquent, chaque appel interjeté à l’encontre d’une cotisation particulière, ou nouvelle cotisation, demeure également un appel distinct en ce qui concerne le bien-fondé de la cotisation, ou de la nouvelle cotisation, bien que les étapes procédurales, comme le prévoient les Règles, s’appliquent simultanément à tous les appels qui sont réunis [13] .
+[22] Même si cela n’est pas expressément prévu dans les règles établies en application de l’article 20 de la LCCI, je suis d’avis que la Cour possède la compétence implicite nécessaire pour ordonner qu’un appel interjeté sous le régime de la procédure informelle et qu’un autre interjeté quant à lui sous le régime la procédure générale soient réunis ou entendus de manière simultanée ou consécutive, dès lors que ces appels ont en commun une question de droit, une question de fait ou une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d’événements, et cette ordonnance n’aura pas pour effet de jeter le discrédit sur l’administration de la justice. En l’espèce, une telle ordonnance est parfaitement cohérente avec la compétence implicite de la Cour de gérer et de contrôler les instances portées devant elle de manière à veiller au fonctionnement ordonné et efficace des rouages de la Cour.
+[23] Compte tenu des commentaires du juge Webb dans l’arrêt 3488063, j’estime, comme l’appelante, qu’une ordonnance exigeant de réunir des appels interjetés sous le régime de la procédure formelle avec un appel interjeté quant à lui sous le régime la procédure générale équivaut à une ordonnance exigeant de placer sous le régime de la procédure générale les appels interjetés sous le régime la procédure informelle. Toutefois, une ordonnance exigeant que les appels soient entendus ensemble et sur preuve commune n’équivaut pas à une ordonnance exigeant que les appels interjetés sous le régime de la procédure informelle soient placés sous le régime de la procédure générale. Puisque je propose d’ordonner cette deuxième option, je ne vois aucune raison d’appliquer les règles en matière de dépens qui sont énoncées au paragraphe 18.11(6) de la LCCI.
+[24] Les actes de procédure indiquent que les appels des sociétés 407 International et 407 ETR ont effectivement en commun une question de droit et de fait, tenant à une même transaction ou à un même événement, ou à une même série de transactions ou d’événements. En outre, la société 407 ETR est une filiale en propriété exclusive de la société 407 International, ce qui sous-entend un intérêt commun à l’égard de l’issue des appels liés à la disposition des véhicules d’actifs cadres. Par conséquent, je suis d’avis que les circonstances sont appropriées pour ordonner que les appels soient entendus de manière simultanée et sur preuve commune.
+[25] Le fait que la société 407 International a soulevé une deuxième question concernant la déduction d’intérêts à l’égard de l’année d’imposition 2011 n’a aucune incidence sur ma conclusion. Compte tenu de l’importance des pertes subies par la société 407 International en 2011, la question des intérêts peut être raisonnablement considérée comme accessoire, de sorte que l’audition simultanée de cette question et de l’appel de la société 407 ETR n’impose aucun fardeau supplémentaire à la société 407 International ou à la société 407 ETR.
+[26] L’audition simultanée et sur preuve commune des appels peut avoir pour effet de retarder l’audition des appels de la société 407 International. Bien que la procédure informelle vise de toute évidence à favoriser l’audition en temps opportun des appels interjetés sous ce régime, je ne crois pas en l’espèce qu’un retard, quel qu’il soit, puisse porter atteinte à la société 407 International de manière substantielle. L’instruction simultanée des appels devrait cependant réduire le temps et les efforts nécessaires pour traiter tous les appels, comme il y aura une audition au lieu de deux. Une seule audition des appels constitue également une utilisation plus efficace et plus productive du temps de la Cour.
+[27] La possibilité de mener un interrogatoire préalable pour l’appel de la société 407 ETR devrait garantir la prise de connaissance, avant l’audition des appels, des éléments de preuve pertinents pour la caractérisation des pertes liées aux véhicules d’actifs cadre, ce qui favorisera une instruction complète et équitable et évitera la possibilité d’un procès par embuscade. Bien que la société 407 International risque de ne pas considérer cet élément comme un avantage tactique, je suis d’avis que l’intérêt de la justice sera mieux servi par la possibilité de mener un interrogatoire préalable, avant l’audition, concernant la question des pertes qui est commune à tous les appels.
+[28] Quant aux éléments de preuve d’expert, je suis d’avis que la demande de l’intimée d’appliquer l’article 145 des Règles générales à tout témoin expert de l’une ou l’autre des parties est raisonnable au vu des circonstances, qu’elle favorise l’équité, qu’elle permet d’éviter un procès par embuscade et qu’elle n’impose aucune contrainte excessive aux appelantes, l’une des deux étant quoi qu’il en soit contrainte de se conformer à ces règles.
+[29] Pour les motifs qui précèdent, la Cour accueille la requête de l’intimée et ordonne ce qui suit :
+a) L’appel de la société 407 ETR et les appels de la société 407 International seront entendus de manière simultanée et sur preuve commune.
+b) L’article 145 des Règles générales s’appliquera à tout témoin expert de l’une ou l’autre des parties aux appels.
+c) L’intimée sera autorisée à modifier sa réponse conformément à l’ébauche qui a été fournie à titre d’annexe A de l’avis de requête modifié qui a été déposé le 13 août 2019.
+[30] À la lumière des questions quelque peu nouvelles qui sont soulevées dans cette requête, chaque partie prendra en charge ses propres dépens à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+Ce 8e jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 245
+NOS DES DOSSIERS DE LA COUR :
+2018-2037(IT)I et 2018-2038(IT)G
+INTITULÉS :
+407 INTERNATIONAL INC. c. SA MAJESTÉ LA REINE
+407 ETR CONCESSION COMPANY LIMITED c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 août 2019
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge John R. Owen
+DATE DE L’ORDONNANCE :
+Le 25 octobre 2019
+COMPARUTIONS :
+Avocats des appelantes :
+Me Martha MacDonald et Me Michael Steele
+Avocats de l’intimée :
+Me Jenna Clark et Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Me Martha MacDonald et Me Michael Steele
+Cabinet :
+Torys LLP
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Dans l’avis de requête modifié, il est indiqué 1 381 744 $ au paragraphe 6, mais 1 381 774 $ au paragraphe 10 et au solde des requêtes déposées.
+[2] Article 17 de la LCCI et article 3 des Règles générales.
+[3] Article 3 de la LCCI.
+[4] Arrêt Windsor (City) c. Canadian Transit Co., 2016 CSC 54, [2016] 2 R.C.S. 617 [Windsor], au paragraphe 31. La Cour suprême examine la compétence de la Cour fédérale, mais cette remarque incidente s’applique tout autant à la compétence de la Cour canadienne de l’impôt.
+[5] Arrêt Windsor, au paragraphe 33.
+[6] Arrêt Commonwealth of Puerto Rico c. Hernandez, [1975] 1 R.C.S. 228, aux pages 232 à 233, et arrêt Windsor, au paragraphe 33 (note de bas de page 2).
+[7] Arrêt R. c. 974649 Ontario Inc., 2001 CSC 81, [2001] 3 RCS 575, au paragraphe 70.
+[8] Windsor, au paragraphe 33 (note de bas de page 1), R. c. Cunningham, 2010 CSC 10, [2010] 1 RCS 331, aux paragraphes 18 et 19, R. c. Anderson, 2014 CSC 41, [2014] 2 RCS 167, au paragraphe 58, et Québec (Directeur des poursuites criminelles et pénales) c. Jodoin, 2017 CSC 26, [2017] 1 RCS 478 [« Jodoin »], aux paragraphes 16 et 17.
+[9] L’article 4 des Règles générales confère un mandat semblable dans le contexte de l’interprétation des Règles générales.
+[10] Arrêt Jodoin, au paragraphe 16.
+[11] L’intimée demande également que les règles en matière d’éléments de preuve s’appliquent à tous les appels, mais puisqu’il appartient au juge qui préside de se prononcer sur cette question, je n’examinerai pas cette demande.
+[12] Aux termes de l’article 27 des Règles générales, lors de l’audience des appels, le juge est investi du pouvoir discrétionnaire de rendre une directive contraire. En d’autres termes, toute ordonnance que j’établis en application de l’article 26 des Règles générales n’est pas contraignante pour le juge qui préside.
+[13] Paragraphes 51 à 53.

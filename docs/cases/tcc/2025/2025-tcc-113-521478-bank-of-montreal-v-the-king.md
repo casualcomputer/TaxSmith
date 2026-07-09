@@ -1,0 +1,418 @@
+---
+title: "Bank of Montreal v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521478/index.do"
+last_modified: "2025-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 113"
+citation2: ""
+neutral_citation: "2025 TCC 113"
+decision_date: "2025-08-13"
+language: "en"
+item_id: "521478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5427
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:18:18.798000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "034ccf80f935566e9804db58435567877ddb2f99116fa5e1625554a43d583501"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bank of Montreal v. The King
+
+- Citation: 2025 TCC 113
+- Decision date: 2025-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5427, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bank of Montreal v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-13
+Neutral citation
+2025 TCC 113
+File numbers
+2022-3210(IT)G, 2023-1128(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-3210(IT)G
+2023-1128(IT)G
+BETWEEN:
+BANK OF MONTREAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on June 13, 2025, at Toronto, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Martha MacDonald
+Jacky Cheung
+Counsel for the Respondent:
+Andrea Jackett
+ORDER
+THIS COURT ORDERS THAT:
+The question put to the Court pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) is answered in the negative. Specifically the interest claimed by the Appellant is not deductible under section 9 of the Income Tax Act (Canada) (1985 c.15 Supp) and is precluded from deduction by subsection 18(1) of the Act.
+Costs are awarded to the Respondent for both stages of the application. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the Respondent shall have a further 30 days to file written submissions on costs and the Appellant shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, one set of costs shall be awarded to the Respondent as set out in the Tariff.
+Signed this 13th day of August 2025.
+“R. MacPhee”
+MacPhee J.
+Citation: 2025 TCC 113
+Date: 20250813
+Docket: 2022-3210(IT)G
+2023-1128(IT)G
+BETWEEN:
+BANK OF MONTREAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+I. Introduction: [1] Pursuant to Rule 58 of the Tax Court of Canada Rules (General Procedure) (“Rule 58”) the parties are asking the Court to decide the following question:
+Whether interest payable by the Appellant to certain foreign tax authorities in the United States of America [the “US”], in respect of overdue tax liabilities payable to those foreign tax authorities, is deductible under section 9 of the Income Tax Act (Canada)(1985 c.15 Supp) (the “Act”) and not precluded from deduction by subsection 18(1) of the Act.
+II. Background: [2] The Appellant is a Canadian chartered bank that conducted business through a branch in the US. For the 1997 to 2001 taxation years, the Appellant was subject to US federal income tax on the business profits attributable to its US permanent establishment, and it was also subject to New York City municipal income tax for the period it had a branch there. The Appellant paid all outstanding balances it believed it owed based on its tax returns as filed by the return-filing deadline.
+[3] In 2004, the US Internal Revenue Service (“IRS”) completed an audit of the Appellant’s US branch operations for its 1997 to 2000 taxation years and assessed the Appellant for additional US federal income tax and interest. The Appellant was also assessed for additional New York City municipal income tax and interest. Similarly, in 2006, the Appellant was assessed for additional US federal income tax and interest with respect to its US branch operations for its 2001 taxation year.
+[4] The total amount of interest owed by the Appellant to the US tax authorities (the “foreign tax authorities”) was $8,975,467 (CAD) in connection with the audit completed in 2004 and $1,829,839 (CAD) in connection with the 2006 audit.
+[5] For Canadian tax purposes, the Appellant claimed the deduction of the interest paid to the foreign tax authorities in the calculation of its income for the 2004 and 2006 taxation years.
+[6] The Minister of National Revenue (the “Minister”) disallowed these deductions pursuant to section 9 and paragraph 18(1)(a) the Income Tax Act[1] (the “Act”). The Appellant appealed to the most recent notices of reassessment dated October 31, 2019, for the 2004 taxation year, and March 6, 2023, for the 2006 taxation year.
+[7] An Agreed Statement of Facts, filed by the parties, sets out the following:
+Bank of Montreal (“BMO”) is a bank named on Schedule 1 of the Bank Act.
+BMO is resident in Canada for purposes of the Income Tax Act (Canada) (the “Act”).
+BMO’s fiscal year-end is October 31.
+Branch Operations in the United States of America
+BMO carries on business in Canada and through branches in other countries, including the United States of America (the “US”).
+BMO has had US branch operations for over a century.
+US Taxation of BMO’s US Branch Operations
+By virtue of its branch operations in the US, BMO has a permanent establishment in the US.
+The US has the right to tax the business profits attributable to BMO’s permanent establishment in the US under Article VII of the Convention Between Canada and the United States of America with Respect to Taxes on Income and on Capital.
+The US federal income tax system is based on the principle of self-assessment and voluntary reporting.
+The US Internal Revenue Service (the “IRS”) audits BMO’s US federal income tax returns.
+One of BMO’s US branches is in New York City.
+By virtue of its branch operations in New York City, BMO was liable to New York City municipal income tax.
+Interest Payable in the 2004 Fiscal Year
+With respect to US branch operations, BMO timely filed its US federal income tax returns for the 1997 to 2000 taxation years and paid any outstanding balances it believed it owed based on its tax returns as filed by the return-filing deadline.
+During the 2004 fiscal year, the IRS completed an audit of BMO’s US branch operations for its 1997 to 2000 taxation years.
+As a result of this audit, the IRS assessed BMO for additional US federal income tax and interest. The amount of interest BMO owed to the IRS was US $6,680,190, equivalent to $8,910,037 Canadian dollars at the time.
+The additional US federal income tax constitutes business-income tax as defined in section 126 of the Act.
+During the 2004 taxation year, BMO was assessed additional New York City municipal income taxes and interest. The amount of interest was US $51,092, equivalent to $65,430 in Canadian dollars at the time.
+The additional New York City municipal income tax constitutes business‑income tax as defined in section 126 of the Act.
+Interest Payable in the 2006 Fiscal Year
+With respect to US branch operations, BMO timely filed its US federal income tax return for the 2001 taxation year and paid any outstanding balance it believed it owed based on its tax returns as filed by the return-filing deadline.
+During the 2006 fiscal year, the IRS completed an audit of BMO’s US branch operations for its 2001 taxation year.
+As a result of this audit, the IRS assessed BMO for additional US federal income tax and interest. The amount of interest BMO owed to the IRS was US $1,416,415, equivalent to $1,829,839 in Canadian dollars at the time.
+The additional US federal income tax constitutes business-income tax as defined in section 126 of the Act.
+III. Position of the Parties [8] Various positions were put forth by the parties in this well-argued matter. The Appellant’s positions were as follows: (i) an analogy must be made between interest on tax arrears and interest on tax refunds, which supports the argument that the interest payment is an allowable expense under section 9 of the Act; (ii) reliance on paragraph 18(1)(t) and ss. 20(11), (12), (12.1) and 126(2) of the Act should be applied in order to interpret paragraph 18(1)(a) of the Act;
+[9] The Respondent’s arguments are as follows: (i) interest expenses incurred after the income-earning process are not deductible pursuant to the Roenisch principle; and (ii) to allow a deduction for the interest expense would result in an inaccurate picture of the Appellant’s income for the relevant taxation years.
+[10] Below I will describe each of the Appellant’s and Respondent’s positions on a point-by-point basis.
+Appellant’s main argument
+An analogy must be made between interest on tax arrears and interest on tax refunds which results in the interest payment being an allowable expense under section 9 of the Act
+[11] At the heart of the Appellant's position is an analogy between the interest that taxpayers pay when they owe taxes to the tax authorities and the interest that taxpayers receive when they have overpaid their taxes.
+[12] Relying on Canada v. Irving Oil Ltd.[2] and Munich Reinsurance Co. v. Canada[3], (discussed in greater detail at Appendix “A”), the Appellant contends that courts have recognized that interest on tax refunds (“refund interest”) constitutes income from a business for the purposes of the Act because it “arises from a business decision on how much to pay in respect of a tax liability pending a final determination.”[4]
+[13] The Appellant’s reliance on Irving Oil[5] and Munich Re[6] is based on the presence of “an unsettled tax liability, a business decision of what amounts to pay in respect of the unsettled tax liability pending a resolution, a final determination of the tax liability, and a consequential adjustment to interest (payable or receivable).”[7]
+[14] According to the Appellant, arrears interest and refund interest are the mirror images of each other: if one is treated as business income because of a business decision that results in an overpayment of taxes, the other should be deductible in computing business income because it flows from the “same decision-making process.”[8]
+[15] With respect to its US tax obligations, the Appellant asserts that it did, in fact, make “a business decision at the relevant time to pay its obligation and no more”[9], since, as noted in the Agreed Statement of Facts, it “timely filed its US federal income tax returns for the 1997 to [2001] taxation years and paid any outstanding balances it believed it owed based on its tax returns as filed by the return-filing deadline.”[10]
+[16] The Appellant states that the factors considered in the decision it made at that time “include[d] other possible uses of funds, and potential consequences for arrears interest or refund interest once relevant tax liabilities are settled.”[11]
+[17] Relying on Jolly Farmer Products Inc. v. The Queen.[12] and Gabco Ltd. v. M.N.R.[13], the Appellant argues that denying a deduction for arrears interest attributable to the business decision described above would be contrary to the principle that the Minister cannot substitute his business judgment for that of a taxpayer.
+Respondent’s counterargument to the Appellant’s main argument
+[18] The Respondent asserts that the Appellant misinterprets the case law and that the decisions cited do not support either the “general proposition that refund interest constitutes business income because it arises from a business decision”[14], or the even broader proposition “that any decision to pay disputed taxes results in an income inclusion or deduction because any such decision is a business decision.”[15]
+[19] The Respondent asserts that whether refund interest constitutes business income is a factual inquiry that depends on the circumstances of a particular taxpayer.[16]
+[20] Even if a decision not to pay disputed tax could be construed as a “business decision” resulting in the deductibility of the related interest on arrears of tax, the Respondent contends that the present case does not involve a “business decision not to pay disputed taxes”, since the interest is simply “the result of a reassessment that increased the taxes beyond [what] the Appellant thought it owed.”[17]
+[21] Therefore, there would be no decision by the Appellant concerning the use of assets, analogous to the decision found to have been made in Munich Re.[18]
+Respondent’s main argument
+Non-deductibility of expenses incurred after the income-earning process; the Roenisch principle
+[22] The Respondent’s main argument relies on the principle that expenses incurred after the completion of the income-earning process are not expenses incurred for the purpose of earning income within the meaning of paragraph 18(1)(a) of the Act.
+[23] The Respondent relies upon two seminal cases on the issue, Roenisch v. Canada,[19] which was reaffirmed in Potash Corporation of Saskatchewan Inc. v. K.[20] In those cases, expenses (provincial income taxes in Roenisch and a tax component based on potash sold in Saskatchewan in Potash Corporation) were held to be non-deductible because those expenses were not incurred by the taxpayers for the purpose of earning income, but rather as a result of the income-earning process.[21] This has often been referred to as the Roenisch principle.
+[24] The Respondent argues that the interest on the unpaid US taxes is an expense that would not have been incurred had the Appellant not earned income attributable to its US branch, and that therefore the interest is not an expenditure to earn income, according to the Roenisch principle.[22] The interest at issue is “an after the fact expense.”[23]
+[25] The Respondent contends that, the interest on the taxes owed to the US tax authorities is “another step further removed from the earning of income, as it is a calculation contingent on the amount of tax owing, and the amount of tax owing is a calculation contingent on the amount of income earned.”[24]
+Appellant’s counterargument
+[26] The Appellant submits that paragraph 18(1)(a) of the Act does not prohibit the deduction of the interest on the income taxes it owed to the foreign authorities.
+[27] The Appellant acknowledges that the interest in question was not incurred because of the income-earning process for the taxation years assessed, 1997-2000 and 2001. The analysis must focus on whether it was deductible in the years the interest was calculated as owing, 2004 and 2006. The Appellant argues that to allow the foreign interest to be deducted in the 2004 and 2006 taxation years produces the most accurate picture of the Appellant’s profit for those years.
+[28] The interest expenses in 2004 and 2006 were incurred because of the Appellant’s previous business decision not to overpay foreign tax authorities while a final determination of its tax liability was pending.
+[29] For this reason, the Appellant asserts that the interest is not precluded from deduction under the Roenisch principle and that the question of whether the interest is deductible must follow the reasoning in Irving Oil[25] and Munich Re[26] for the reasons stated previously.[27]
+[30] Among the reasons given for distinguishing its situation from that in Roenisch[28] and Potash Corporation[29], the Appellant emphasizes that this motion concerns the deductibility of interest, whereas those cases dealt with the deductibility of tax.[30]
+[31] The Appellant adds that the Federal Court’s decision in Frank Arthur Investments Inc. v. Canada[31] confirms that “a taxpayer makes a business decision when choosing to risk incurring arrears interest”[32] and adds also that it is irrelevant to the application of paragraph 18(1)(a) that the interest could have been avoided.[33]
+Appellant’s additional argument
+Reliance should be placed on paragraph 18(1)(t) and subsections 20(11), (12), (12.1) and 126(2) of the Act to interpret paragraph 18(1)(a) of the Act
+[32] The Appellant asserts that Parliament does not speak in vain and that the limitation in paragraph 18(1)(t) of the Act would be “redundant if arrears interest relating to [income] tax liabilities was never deductible in computing income under other provisions, including paragraph 18(1)(a).”[34]
+[33] With respect to the deductibility of foreign taxes under the Act, the Appellant points out that foreign business-income tax is deductible in computing tax payable under subsection 126(2), and that foreign taxes may also be deductible in computing income under subsections 20(11), (12) and (12.1), subject to certain requirements.[35]
+[34] The Appellant argues that when a tax is deductible under the Act, the interest payable on that tax may also be deductible. In this case, the Appellant was entitled to the tax credit provided by subsection 126(2) of the Act for its US income tax.
+[35] In support of this argument, the Appellant relies on what would be the “Minister’s longstanding policy” that interest expense not otherwise covered by the Act “will generally be deductible pursuant to paragraph 18(1)(a) to the extent that they were made or incurred for the purpose of gaining or producing income and are not otherwise capital expenditures described in paragraph 18(1)(b).”[36]
+[36] The Appellant also asserts that the deductibility of the interest at issue would be comparable to the GST/HST sales tax, which is deductible if the taxpayer pays sales tax on business expenses without claiming an input tax credit.[37]
+Respondent’s response
+[37] The Respondent disagrees with the assertion that if the interest on arrears of foreign income tax were not deductible, it would be listed with other tax-related payments in paragraph 18(1)(t) of the Act.[38]
+[38] The Respondent asserts that any of the 18(1) paragraphs can be used to preclude the deduction of an expense, and that the absence of any mention of interest on foreign income tax in paragraph 18(1)(t) should not be construed as an endorsement of its deduction under subsections 9(1) and 18(1). The Respondent relies on the use of the word “and” between the final paragraphs of 18(1)(x) and 18(1)(y) in support of this argument.[39]
+[39] The Respondent points out that their suggested approach to interpreting paragraph 18(1)(a) in conjunction with paragraph 18(1)(t) is supported by the reasoning of the Federal Court of Appeal in Potash Corporation[40], which found that paragraph 18(1)(a) of the Act was sufficient to preclude the deduction of the provincial potash tax, even though it could be argued that paragraph 18(1)(m) also applied to prevent it.
+[40] Also relying on the principle that Parliament does not speak in vain, the Respondent makes an additional argument based on section 126 of the Act, contending that if the absence of a prohibition on the deduction of business income tax in paragraph 18(1)(t) were sufficient to justify its deduction under section 9 and paragraph 18(1)(a), subsection 126(2) of the Act would be “unnecessary to permit [the] deduction of business-income tax amounts”, and similarly, “if interest on foreign business-income [tax] were deductible, one would expect that this would be enumerated in section 126 of the Act, which it is not.”[41]
+Respondent’s additional argument
+The most accurate picture of the Appellant’s income for the relevant taxation years should be applied
+[41] Relying on Canderel Ltd. v. Canada[42], the Respondent argues that section 9 of the Act also precludes the deduction of the interest at issue, as one must follow the method that gives the most accurate picture of its income for each taxation year, and that objective would not be achieved if interest were deducted in this case.[43]
+[42] To reach this conclusion, the Respondent reiterates its argument that the interest on the additional foreign income tax is not part of the income-earning process and submits that the most accurate picture of profit was already determined without allowing the deduction for interest, and the Appellant has been taxed on that profit for the relevant taxation years.[44]
+Appellant’s response
+[43] The Appellant asserts that deducting the interest in the calculation of income for the 2004 and 2006 taxation years gives the most accurate picture of its profits for those years, because those interest expenses were incurred in those years.[45]
+[44] The Appellant also argues that the Respondent is conflating different profit computations, which would lead to an incorrect application of section 9 and the case law. The Appellant’s reasoning is as follows: the interest may have followed the income-earning process for its tax years 1997 to 2001 within the meaning of Potash Corporation[46] and Roenisch[47], but the issue is whether the interest was deductible in the years which it was assessed by the IRS, namely 2004 and 2006.[48]
+[45] In this sense, the Appellant asserts that the interest on arrears assessed by the IRS in 2004 and 2006 is not an expense that arose after the income-earning process for those years, and that the deduction of that expense provides the most accurate picture of the profit for those years because it was incurred during those years.[49]
+[46] According to the Appellant, the issue in this motion involves multiple computations of profits, which would be an additional distinction from Potash Corporation[50] and Roenisch[51] since the Federal Court of Appeal did not have to consider more than one profit computation or the relationship between multiple profit computations.[52]
+IV. Statutory Provisions [47] The following provisions are relied upon by the parties to determine whether the interest at issue in this motion is deductible in calculating the Appellant’s income from its business for the 2004 and 2006 taxation years.
+9. (1) – Income – Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+(2) – Loss – Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+[…]
+18. (1) – General limitations – In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[…]
+(t) any amount paid or payable under this Act (other than tax paid or payable under Part XII.2 or Part XII.6);
+20. (11) – Foreign taxes on income from property exceeding 15% – In computing the income of an individual from a property other than real property for a taxation year after 1975 that is income from a source outside Canada, there may be deducted the amount, if any, by which,
+(a) such part of any income or profits tax paid by the taxpayer to the government of a country other than Canada for the year as may reasonably be regarded as having been paid in respect of an amount that has been included in computing the taxpayer’s income for the year from the property,
+exceeds
+(b) 15% of the amount referred to in paragraph 20(11)(a).
+(12) – Foreign non-business income tax – In computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such amount as the taxpayer claims not exceeding the non-business income tax paid by the taxpayer for the year to the government of a country other than Canada (within the meaning assigned by subsection 126(7) read without reference to paragraphs (c) and (e) of the definition non-business-income tax in that subsection) in respect of that income, other than any such tax, or part thereof, that can reasonably be regarded as having been paid by a corporation in respect of income from a share of the capital stock of a foreign affiliate of the corporation.
+(12.1) – Foreign tax where no economic profit – In computing a taxpayer’s income for a taxation year from a business, there may be deducted the amount that the taxpayer claims not exceeding the lesser of
+(a) the amount of foreign tax (within the meaning assigned by subsection 126(4.1)) that
+(i) is in respect of a property used in the business for a period of ownership by the taxpayer or in respect of a related transaction (as defined in subsection 126(7)),
+(ii) is paid by the taxpayer for the year,
+(iii) is, because of subsection 126(4.1), not included in computing the taxpayer’s business-income tax or non-business-income tax, and
+(iv) where the taxpayer is a corporation, is not an amount that can reasonably be regarded as having been paid in respect of income from a share of the capital stock of a foreign affiliate of the taxpayer, and
+(b) the portion of the taxpayer’s income for the year from the business that is attributable to the property for the period or to a related transaction (as defined in subsection 126(7)).
+126. (1) – Foreign tax deduction – A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada (except, where the taxpayer is a corporation, any such tax or part thereof that may reasonably be regarded as having been paid by the taxpayer in respect of income from a share of the capital stock of a foreign affiliate of the taxpayer) as the taxpayer may claim,
+not exceeding, however, […]
+[…]
+(2) – Idem – Where a taxpayer who was resident in Canada at any time in a taxation year carried on business in the year in a country other than Canada, the taxpayer may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount not exceeding the least of
+(a) such part of the total of the business-income tax paid by the taxpayer for the year in respect of businesses carried on by the taxpayer in that country and the taxpayer’s unused foreign tax credits in respect of that country for the 10 taxation years immediately preceding and the 3 taxation years immediately following the year as the taxpayer may claim,
+(b) the amount determined under subsection 126(2.1) for the year in respect of businesses carried on by the taxpayer in that country, and
+(c) the amount by which
+(i) the tax for the year otherwise payable under this Part by the taxpayer
+Exceeds
+(ii) the amount or the total of amounts, as the case may be, deducted under subsection 126(1) by the taxpayer from the tax for the year otherwise payable under this Part.
+V. Analysis
+Applicable principles
+[48] Section 9 of the Act describes the calculation of income from a business in a taxation year as the profit from that business in that year.
+[49] As stated by the Supreme Court of Canada in Symes v. Canada[53], the concept of profit in subsection 9(1) of the Act is a “net concept”, and a taxpayer can deduct business expenses that are incurred to earn that profit, unless otherwise limited by the Act.[54]
+[50] In Canderel[55], the Supreme Court of Canada outlined the general principles applicable to the calculation of profits under section 9 of the Act:
+(1) The determination of profit is a question of law.
+(2) The profit of a business for a taxation year is to be determined by setting against the revenues from the business for that year the expenses incurred in earning said income: M.N.R. v. Irwin, supra, Associated Investors, supra.
+(3) In seeking to ascertain profit, the goal is to obtain an accurate picture of the taxpayer’s profit for the given year.
+(4) In ascertaining profit, the taxpayer is free to adopt any method which is not inconsistent with
+(a) the provisions of the Income Tax Act;
+(b) established case law principles or “rules of law”; and
+(c) well-accepted business principles.
+(5) Well-accepted business principles, which include but are not limited to the formal codification found in GAAP, are not rules of law but interpretive aids. To the extent that they may influence the calculation of income, they will do so only on a case-by-case basis, depending on the facts of the taxpayer’s financial situation.
+(6) On reassessment, once the taxpayer has shown that he has provided an accurate picture of income for the year, which is consistent with the Act, the case law, and well-accepted business principles, the onus shifts to the Minister to show either that the figure provided does not represent an accurate picture, or that another method of computation would provide a more accurate picture.[56] [Emphasis added]
+[51] Consistent with the framework described above, the Act contains several rules that are designed either to further limit the deductibility of expenses, or to make more explicit the exclusion of expenses that would also not be considered deductible business expenses under subsection 9(1) of the Act.
+[52] These limitations include the items listed in subsection 18(1) of the Act, notably paragraph 18(1)(a), which prohibits the deduction of expenses not incurred for the purpose of earning income, and paragraph 18(1)(t), which applies to any amount paid or payable under the Act (other than taxes under Part XII.2 or Part XII.6).
+[53] The parties have drawn the Court’s attention primarily to four decisions, namely Roenisch[57], Potash Corporation[58], Irving Oil[59] and Munich Re[60]. Appendix “A” briefly summarizes these decisions.
+[54] The Appellant argues that interest can be dissociated from the underlying income tax for the purposes of the still-applicable Roenisch[61] test, and can instead be linked to the decision to pay or not to pay the income tax, as a means of managing assets – a decision that the Appellant characterizes, by analogy with Irving Oil[62] and Munich Re[63], as one made to earn income for the purposes of applying paragraph 18(1)(a) of the Act.
+[55] To accept this argument would require the Court to treat the ordinary tax compliance behavior that we see in this matter, not paying more than the Appellant believed was owing based on the tax return filed for a taxation year, as resulting in a deductible business expense under paragraph 18(1)(a) in the event of an audit revealing errors in the return, merely because one may have invested funds elsewhere for the many years it may take to complete the audit.
+[56] The Irving Oil[64] and Munich Re[65] decisions do not stand for the proposition that every decision to pay or not to pay income tax qualifies as a business decision, let alone that such decisions are made for the purpose of earning income under the principles governing section 9 and paragraph 18(1)(a) of the Act. The analysis in these decisions was very fact specific.
+[57] As the Respondent submitted “Choosing not to make what a taxpayer believes would be an overpayment of tax prior to the conclusion of an audit, which lacks finality as to the quantum of potential disputed tax, is not akin to paying an assessed disputed amount pending final determination as to the validity of an assessment.”[66]
+[58] Even if deferring the payment of overdue income taxes could, in some circumstances, constitute a business decision, the Agreed Statement of Facts does not provide evidence to support the argument that the Appellant made such a decision when it paid the amounts it believed it owed according to the tax returns it filed for 2004 and 2006.[67]
+Non-deductibility of expenses incurred after the income-earning process
+[59] In considering paragraph 18(1)(a), I rely on the test set out in Potash Corporation:
+[34] Therefore, “income”, for the purposes of paragraph 18(1)(a) of the Act, does not mean “profit” or “net income”. Rather, “income”, for the purposes of paragraph 18(1)(a) of the Act, means an amount that would be included in computing income for the purposes of the Act. As a result, in applying the test adopted by the Exchequer Court in Roenisch (“an expenditure which will not be incurred unless there is a profit is not an expenditure in order to earn a profit”) to paragraph 18(1)(a) of the Act, the references to “profit” must be read as “income”. The test would then be:
+“… if there is an expenditure which would be made in any case, from which [income] may accrue, the expenditure may be deducted; but an expenditure which will not be incurred unless there is [income] is not an expenditure in order to earn [income].[68]
+[60] Applying the Roenisch principle (as updated in Potash) to the matter before me leads to the following analysis. The US income tax paid by the Appellant to foreign authorities was not an expense incurred to produce income for the business, but rather was as a consequence of the Bank of Montreal having earned income attributable to its US establishment[69].
+[61] There would be no interest paid by the Appellant without tax arrears, no tax arrears without a tax liability, and no tax liability without taxable income.
+[62] In essence, the interest expense arises because of the underlying tax arrears, which are not deductible pursuant to paragraph 18(1)(a). Therefore, I find that the arrears interest expense is denied pursuant to paragraph 18(1)(a) of the Act. This is an expenditure which would not have been incurred except for the income earned by the Appellant. The interest paid in 2004 and 2006 were not expenditures incurred to earn income in those taxation years.
+[63] I acknowledge that this matter is complicated by the fact that the taxation years assessed are 1997-2000 and 2001 and the interest accrued on these assessments only became known after a lengthy audit, payable in the 2004 and 2006 taxation years. But I do not find that this changes my analysis.
+[64] I will consider the other arguments put forth by the parties, to consider whether my conclusion should be altered.
+Reliance on paragraph 18(1)(t) and subsections 20(11), (12), (12.1) and 126(2) to interpret paragraph 18(1)(a) of the Act
+[65] The Appellant argues that, since paragraph 18(1)(t) refers only to amounts payable under the Act, the interest at issue should be deductible because it is not paid or payable under the Act, nor are the underlying foreign income taxes.
+[66] This raises the question of whether I am limited by paragraph 18(1)(t) in my analysis or if I can apply paragraph 18(1)(a) broadly in asking whether the interest paid would already be excluded by virtue of the principles governing paragraph 18(1)(a) of the Act.
+[67] In Doulis v. The Queen.[70], the taxpayer claimed that “he had opened in the Isle of Man, UK, an investment account from which he received interest and capital gains that he reported to the CRA […] [and] that he financed this investment account with funds that he would have otherwise paid to the CRA for tax owed pursuant to the [Act].”[71]
+[68] The taxpayer argued that the interest on arrears of income taxes was deductible under paragraphs 18(1)(a) and 20(1)(c) of the Act. Justice Lamarre dismissed the taxpayer's claim by applying paragraph 18(1)(t), and she also cited Godsell v. The Queen.[72], which stated that paragraph 18(1)(t) of the Act had simply confirmed long-standing jurisprudence:
+With respect to the second point, that is, the deletion of the interest owed on the income tax, there is no legislative provision in the Act that gives the Court the power to reduce the amount of interest payable. In addition, the payment of such interest cannot be deducted in the calculation of a taxpayer's income. There is long-standing jurisprudence to the effect that an amount paid pursuant to the Income Tax Act cannot be deducted in the calculation of income, and paragraph 18(1)(t) of the Act, which was enacted in 1985, has confirmed this jurisprudential position.”[73] [Emphasis added]
+[69] More fundamentally, the Appellant's argument overlooks the interrelationship between the various provisions dealing with the deductibility of expenses. As the Supreme Court of Canada wrote in Symes, paragraphs 18(1)(a) and (h) of the Act may be “analytically repetitive or confirmatory”[74] of the general principle already embodied in subsection 9(1). Subsection 9(1) would, in most cases, independently deny the deduction of expenses that lack an income-earning purpose or are personal in nature – just as paragraphs 18(1)(a) and (h) expressly do.
+[70] Just as section 9 encompasses concepts expressly addressed in paragraphs 18(1)(a) and (h), there is nothing precluding paragraph 18(1)(a) – as a general-purpose test – from disallowing expenses that may also fall within the more specific prohibition set out in paragraph 18(1)(t) of the Act. This is consistent with the finding by the Federal Court of Appeal in Potash[75].
+[71] Finally, the Appellant argued that the interest paid is deductible because the underlying US taxes gave rise to a foreign tax credit under subsection 126(2) of the Act.[76]
+[72] This argument ignores the fact that section 126 has a different purpose from deductions designed to determine a taxpayer's profit in a taxable year.
+[73] The purpose of “subsection 126(2) is to provide to the taxpayer relief against double taxation in respect of liability for tax in a foreign country.”[77] Section 126 allows a credit for taxes paid to the foreign jurisdiction and the “amount is capped at the maximum otherwise payable in Canada, which the taxpayer would have paid.”[78] Interest owed on foreign income taxes is a separate issue not to be confused with double taxation concerns covered by section 126. This interest expense rather, is an issue related to the taxpayer's compliance with foreign tax liabilities.
+[74] With respect to subsections 20(11), (12) and (12.1) of the Act, they are not relevant to this dispute. These subsections serve an analogous purpose to subsection 126(2) in that they serve to provide relief from double taxation.
+[75] Finally, with respect the Respondent’s counter argument, that to allow a deduction for the interest expense would result in an inaccurate picture of the Appellant’s income for the relevant taxation years, I see no reason to provide analysis on this issue, given my finding that the interest expenses are not deductible pursuant to paragraph 18(1)(a) of the Act.
+[76] I therefore find that the interest paid by the Appellant to certain foreign tax authorities in the US, in respect of overdue tax liabilities paid to those foreign tax authorities, is not deductible under section 9 of the Act and precluded from deduction by subsection 18(1)(a) of the Act.
+[77] Costs are awarded to the Respondent for both stages of the Application.
+Signed this 13th day of August, 2025.
+“R. MacPhee”
+MacPhee J.
+Appendix A
+I will summarize the four main decisions relied upon by the litigants.
+In Roenisch[79], the issue was whether provincial income tax was deductible as a business expense under a predecessor provision to paragraph 18(1)(a) of the Act, namely section 6 of the Income War Tax Act[80] which prohibited, in the computation of “profits or gains to be assessed”, expenses not wholly, exclusively and necessarily incurred for the purpose of earning the income.
+The taxpayer was an individual who, in computing his income for 1927, claimed a deduction for the income taxes paid to the province of British Columbia on income derived from a partnership and whose taxation year ended in the 1927 civil year.
+The Exchequer Court of Canada held that “the word profit is to be understood in its natural and proper sense” and that the payment of income taxes “is not so made to earn the income, it is paid because there is an income showing gain and profit.”[81]The deduction was disallowed.
+In Potash Corporation[82], the taxpayer sought to deduct, in computing its income for the tax years 1999 through 2002, payments of a component of a tax levied by the province of Saskatchewan, referred to as the “base payment”, in respect of potash produced in the province. The amount payable with respect to the base payment was essentially based on the quantity of potash sold during the year.[83]
+The Federal Court of Appeal adopted the test developed in Roenisch[84] and adapted it slightly, as shown in the excerpt below:
+“[34] Therefore, “income”, for the purposes of paragraph 18(1)(a) of the Act, does not mean “profit” or “net income”. Rather, “income”, for the purposes of paragraph 18(1)(a) of the Act, means an amount that would be included in computing income for the purposes of the Act. As a result, in applying the test adopted by the Exchequer Court in Roenisch (“an expenditure which will not be incurred unless there is a profit is not an expenditure in order to earn a profit”) to paragraph 18(1)(a) of the Act, the references to “profit” must be read as “income”. The test would then be:
+… if there is an expenditure which would be made in any case, from which [income] may accrue, the expenditure may be deducted; but an expenditure which will not be incurred unless there is [income] is not an expenditure in order to earn [income].”[85] [Emphasis added]
+Applying the above test, the Federal Court of Appeal held that the base payment was not incurred for the purpose of earning income under paragraph 18(1)(a) of the Act, because it was an expense that “would not have been incurred unless [the taxpayer] sold potash, which produced income.”[86]
+Since paragraph 18(1)(a) of the Act was sufficient to conclude that the base payment was not deductible, it was not necessary to decide whether the expense was also not deductible under paragraph 18(1)(m) of the Act[87], which targeted taxes that can reasonably be regarded as being in relation to mineral production.[88]
+In Irving Oil[89], the dispute was as follows. The taxpayer was a New Brunswick corporation engaged in the business of refining crude oil and marketing refined petroleum products in Canada. In 1978, 1980 and 1984, the Minister reassessed the taxpayer to increase its tax liability for the years 1971 to 1980. The taxpayer contested the reassessments and chose to pay the assessed amounts pending the resolution of its objections and appeals. When the Trial Division decided the appeals in favour of the taxpayer, the Minister issued reassessments in 1992 to give effect to those decisions and refunded the overpayment with interest.
+In its 1992 tax return, the taxpayer characterized the interest as income from its active business, which increased its manufacturing and processing profit tax credit under section 125.1 of the Act. The corresponding portion of the tax credit was disallowed by the Minister on the basis that the interest on an income tax refund can never be business income.
+The Tax Court of Canada allowed the appeal by looking at “the origin of the funds used by the taxpayer to make the overpayment” and the “probable intended uses of that money”. The decision was based on Justice Rip’s reasoning that “once the courts have decided there was an overpayment of tax, the overpayment is no longer a tax but reverts to the time of overpayment to property owned by the taxpayer for use in its business and interest on that property is business income.”[90]
+The Federal Court of Appeal affirmed the decision of the Tax Court of Canada. It concluded that the Roenisch[91] decision was not relevant because the issue was not “whether an amount paid to discharge an income tax liability is an expenditure made for an income earning purpose”, but rather “whether interest on an expenditure made to discharge an income tax liability assessed in respect of its business, which is later found to have been erroneously assessed, is income from the business or income from some other source.”[92]
+With respect to the other arguments raised by the Crown, including the one that a decision to pay a disputed tax is not a business activity at all, or that an advantage derived directly from the provisions of the Act cannot be a business income, the Federal Court of Appeal concluded that the taxpayer in this case had decided to pay “an outstanding tax liability, having determined in the exercise of its business judgment that it would be preferable to pay the tax than to provide security.”[93]
+It was understood that “[t]he provision of security was not an acceptable option for [the taxpayer]”, because “[t]he tax liability represented by the reassessments would continue to exist while the tax was in dispute.” The taxpayer decided to pay the disputed tax based on the consideration that if “the reassessments were ultimately found to be incorrect, [it] would be entitled to a refund of the tax with interest”, while not paying could result in being “obliged to pay the full amount of the assessed tax, plus non-deductible interest” if the reassessments were found to be correct.[94]
+Munich Re[95] involved a non-resident corporation that conducted an insurance business in Canada and elsewhere. For its taxation years 1990 to 1993, the taxpayer had deliberately overpaid its instalments on account of its Part I tax liability on income from its Canadian insurance business to avoid the risk of non-deductible interest costs. Pursuant to section 164 of the Act, the taxpayer was entitled to interest accruing from the tax-filing deadline until the overpayment was refunded.
+The Minister included the interest in the taxpayer’s income under Part I of the Act. The taxpayer argued that the interest was not income from carrying on its insurance business in Canada, and therefore should not be taxed under Part I, but should only be subject to non-resident withholding tax under Part XIII of the Act.
+The characterization of the interest in the circumstances of this case was important, as it would be subject to Part XIII if it were income from a property, and it would be subject to Part I of the Act if it were income from carrying on a business.[96]
+The issue turned on the special rules for non-resident insurers dealing with the allocation of their investment income between their insurance business in Canada and their insurance business elsewhere, in particular subsection 138(9) of the Act and the prescribed rules in paragraph 2400(1)(e) of the Income Tax Regulations.[97]
+Under these rules, the interest would be included in the taxpayer’s insurance business in Canada if the underlying property, i.e., the right to the income tax refund, was not an “investment property”, and was used or held by the taxpayer during the year and in the course of carrying on its insurance business in Canada.[98]
+On the first sub-issue, it was concluded that the taxpayer’s right to a tax refund was not an “investment property” because that would have required the taxpayer to have made the tax overpayments for the purpose of earning interest, which was not the case: the taxpayer had made them “for the purpose of discharging its statutory obligation to pay instalments and avoid any negative consequences of a tax deﬁciency.”[99]
+On the second sub-issue, the Federal Court of Appeal concluded that while it is possible for an insurer to have investments that are not part of its insurance business[100], in the circumstances of this case, the decisions made by the taxpayer to meet its tax obligations in the most advantageous manner were decisions to manage the assets of its insurance business, and in that sense, were decisions made in the course of its business. Therefore, the right to the tax refunds was property held in the course of carrying on its business in Canada and was property within the scope of subsection 138(9) of the Act.[101]
+Thus, according to this analysis, interest on the income tax refund had to be included in the calculation of active income in accordance with the special rules applicable to non-residents carrying on an insurance business in Canada and elsewhere. The Federal Court of Appeal also commented that the Roenisch decision was irrelevant since the issues were completely different[102], as was the case in Irving Oil[103].
+CITATION:
+2025 TCC 113
+COURT FILE NO.:
+2022-3210(IT)G
+2023-1128(IT)G
+STYLE OF CAUSE:
+BANK OF MONTREAL AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 13, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Ronald MacPhee
+DATE OF ORDER:
+August 13, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Martha MacDonald
+Jacky Cheung
+Counsel for the Respondent:
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martha MacDonald
+Jacky Cheung
+Firm:
+Torys LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.).
+[2] Canada v. Irving Oil Ltd., 2001 FCA 364 (“Irving Oil”).
+[3] Munich Reinsurance Co. v. Canada, 2001 FCA 365 (“Munich Re”).Both cases were heard on the same day by the FCA’
+[4] Para. 33 of the Appellant’s submissions.
+[5] Irving Oil, supra note 2.
+[6] Munich Re, supra note 3.
+[7] Para. 54 of the Appellant’s submissions.
+[8] Paras. 5 and 54 of the Appellant’s submissions.
+[9] Para. 22 of the Appellant’s additional submissions.
+[10] Paras. 12 and 18 of the Agreed Statement of Facts.
+[11] Para. 24 of the Appellant’s additional submissions.
+[12] Jolly Farmer Products Inc. v. The Queen., 2008 TCC 409, at para. 24.
+[13] Gabco Ltd. v. M.N.R., [1968] 2 Ex C.R. 511, at p. 522.
+[14] Para. 35 of the Respondent’s submissions.
+[15] Para. 44 of the Respondent’s submissions.
+[16] Para. 37 of the Respondent’s submissions citing Munich Re, supra note 3, at para. 28.
+[17] Para. 47 of the Respondent’s submissions.
+[18] Para. 46 of the Respondent’s submissions, referring to Munich Re, supra note 3, at para. 33.
+[19] Roenisch v. Canada, [1931] Ex C.R. 1 (“Roenisch”).
+[20] Potash Corporation of Saskatchewan Inc. v. K., 2024 FCA 35 (“Potash Corporation”).
+[21] Paras. 18 and 19 of the Respondent’s submissions.
+[22] Para. 27 of the Respondent’s submissions.
+[23] Para. 2 of the Respondent’s submissions.
+[24] Paras. 25 to 27 of the Respondent’s submissions.
+[25] Irving Oil, supra note 2.
+[26] Munich Re, supra note 3.
+[27] Para. 65 of the Appellant’s submissions and para. 24 of the Appellant’s additional submissions.
+[28] Roenisch, supra note 19.
+[29] Potash Corporation, supra note 20.
+[30] Para. 17 of the Appellant’s additional submissions.
+[31] Frank Arthur Investments Inc. v. Canada, 2014 FC 336 (“Frank Arthur”).
+[32] Paras. 68 to 71 of the Appellant’s submissions.
+[33] Para. 73 of the Appellant’s submissions, citing 65302 British Columbia Ltd. v. Canada, [1999] 3 SCR 804, at para. 49 (“65302 British Columbia”).
+[34] Para. 27 of the Appellant’s additional submissions and para. 93 of its initial submissions referring to Canada (Attorney General) v. JTI-MacDonald Corp., 2007 SCC 30, at para. 87.
+[35] Paras. 74 and 75 of the Appellant’s submissions.
+[36] Paras. 76 and 77 of the Appellant’s submissions referring to the following technical interpretations from the CRA: 2001-0065827, “Fines + Penalties - Intérêts et Pénalités”, May 10, 2001, and 2017-0688121E5F, “Déductibilité des intérêts et pénalités imposées sur les taxes foncières”, June 26, 2020.
+[37] Para. 78 of the Appellant’s submissions referring to CRA’s webpage which states the following: “you can deduct any reasonable current expense you incur to earn income. The deductible expenses include any GST/HST you incur on these expenses minus the amount of any input tax credit claimed.”
+[38] Para. 50 of the Respondent’s submissions.
+[39] Paras. 51 to 53 of the Respondent’s submissions.
+[40] Para. 54 of the Respondent’s submissions referring to Potash Corporation, supra note 20, at para. 46.
+[41] Paras. 55 and 56 of the Respondent’s submissions.
+[42] Canderel Ltd. v. Canada, [1998] 1 SCR 147 (“Canderel”).
+[43] Paras. 57 to 59 of the Respondent’s submissions.
+[44] Paras. 60 and 61 of the Respondent’s submissions.
+[45] Para. 9 of the Appellant’s additional submissions.
+[46] Potash Corporation, supra note 20.
+[47] Roenisch, supra note 19.
+[48] Paras. 8 and 9 of the Appellant’s additional submissions.
+[49] Idem.
+[50] Potash Corporation, supra note 20.
+[51] Roenisch, supra note 19.
+[52] Paras. 6 and 7 of the Appellant’s additional submissions.
+[53] Symes v. Canada [1993] 4 S.C.R. 695 (“Symes”).
+[54] Idem, at page 722.
+[55] Canderel, supra note 42, at para. 53.
+[56] Idem.
+[57] Roenisch, supra note 19.
+[58] Potash Corporation, supra note 20.
+[59] Irving Oil, supra note 2.
+[60] Munich Re, supra note 3.
+[61] Roenisch, supra note 19.
+[62] Irving Oil, supra note 2.
+[63] Munich Re, supra note 3.
+[64] Irving Oil, supra note 2.
+[65] Munich Re, supra note 3.
+[66] Respondent’s submissions, para. 48.
+[67] Paras. 12 and 18 of the Agreed Statement of Facts simply state the Appellant paid what they believed they owed.
+[68] Potash Corporation, supra note 20 at para. 34.
+[69]As set out in s. 126(2) of the Act, the Appellant receives a credit for this payment, to avoid double taxation.
+[70] Doulis v. Q., 2014 TCC 26 (“Doulis”).
+[71] Idem, at para. 3.
+[72] Godsell v. Q., [1995] T.C.J. No. 1757 (QL) (“Godsell”), aff’d. in 2001 FCA 196, cited in Doulis, para. 10.
+[73] Godsell, supra note 72 at para.19.
+[74] Symes, supra note 53, at pages 723 and 724.
+[75] Potash Corporation, supra note 21, at para. 46.
+[76] Appellant’s submissions, para. 80.
+[77] The Queen. v. The Bank of Nova Scotia, [1982] 1 FC 311 (FCA), at page 320. See also Justice Lafleur’s analysis in Marin v. The Queen, 2022 TCC 49.
+[78] Vidal v. The Queen., 2022 TCC 54 at para. 36.
+[79] Roenisch, supra note 19.
+[80] The Income War Tax Act, 1917, SC 1917, c. 28.
+[81] Roenisch, supra note 19, at page 4.
+[82] Potash Corporation, supra note 20.
+[83] Idem, at paras. 20 and 45.
+[84] Roenisch, supra note 19.
+[85] Potash Corporation, supra note 20, at para. 34.
+[86] Idem, at para. 35.
+[87] Idem, at para. 46.
+[88] Potash Corporation of Saskatchewan Inc. v. The Queen., 2022 TCC 75, at para. 78 (“Potash Corporation TCC”).
+[89] Irving Oil, supra note 2.
+[90] Idem, at para. 11, citing Irving Oil Ltd. v. The Queen., [2000] 3 CTC 2823 (TCC), at para. 37.
+[91] Roenisch, supra note 19.
+[92] Irving Oil, supra note 2, at para. 13.
+[93] Idem, at paras. 15 to 17.
+[94] Idem, at para. 6.
+[95] Munich Re, supra note 3.
+[96] Idem, at paras. 6 to 11, referring to subsection 2(3) and subparagraph 115(1)(a)(ii) regarding business income for non-residents under Part I, and paragraphs 212(1)(b) and 214(13)(c) for part XIII of the Act.
+[97] Munich Re, supra note 3, at paras. 14 to 17.
+[98] Idem, at para. 18.
+[99] Idem, at para. 19
+[100] Idem, at para. 32.
+[101] Idem, at para. 33.
+[102] Idem, at para. 26, referring to Roenisch, supra note 20.
+[103] Irving Oil, supra note 2.

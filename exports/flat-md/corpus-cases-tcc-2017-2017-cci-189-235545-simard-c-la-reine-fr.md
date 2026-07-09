@@ -1,0 +1,208 @@
+---
+title: "Simard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235545/index.do"
+last_modified: "2017-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 189"
+citation2: ""
+neutral_citation: "2017 CCI 189"
+decision_date: "2017-09-27"
+language: "fr"
+item_id: "235545"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2210
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:21:35.567000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7a374bcd9100834a585a21fccf3b16552c5f59f1953b4d31a02bdf01b423e69"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simard c. La Reine
+
+- Citation: 2017 CCI 189
+- Decision date: 2017-09-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2210, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-27
+Référence neutre
+2017 CCI 189
+Numéro de dossier
+2016-4982(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4982(IT)I
+ENTRE :
+ERIC SIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+NATHALIE GENOIS,
+intervenante.
+Appel entendu le 29 juin 2017, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Avocate de l’intervenante :
+Me Emmanuel Jilwan
+Me Valérie Vaillancourt
+JUGEMENT
+L’appel à l’encontre des nouvelles déterminations établies par le ministre du Revenu national (le « ministre ») à l’égard de la prestation fiscale canadienne pour enfants dont les avis sont datés du 20 juillet 2015 (année de base 2014) et du 20 juillet 2016 (année de base 2015) concernant la fille cadette de l’appelant, née en 2009, est rejeté selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2017.
+« Réal Favreau »
+Juge Favreau
+Référence : 2017 CCI 189
+Date : 20170927
+Dossier : 2016-4982(IT)I
+ENTRE :
+ERIC SIMARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+NATHALIE GENOIS,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre des nouvelles déterminations établies par le ministre du Revenu national (le « ministre ») à l’égard de la prestation fiscale canadienne pour enfants (« PFCE ») maintenant connue comme étant l’allocation canadienne pour enfants, en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, (la « Loi »). Les avis de nouvelle détermination sont datés du 20 juillet 2015 (pour l’année de base 2014) et du 20 juillet 2016 (pour l’année de base 2015) et concernent la fille cadette de l’appelant née en 2009 (« l’enfant M. »).
+[2] En établissant les avis de nouvelle détermination pour les années de base 2014 (juillet 2015 à juin 2016) et 2015 (juillet 2016 à juin 2017), le ministre a déterminé que l’appelant n’était pas un particulier admissible ayant la garde partagée de l’enfant M. au motif qu’il ne résidait pas avec l’enfant sur une base d’égalité ou de quasi-égalité au cours de ladite période conformément à l’article 122.6 de la Loi.
+[3] Pour établir et maintenir les avis de détermination, le ministre a tenu pour acquis les faits suivants :
+a) L’appelant et Mme Nathalie Genois sont les parents des enfants B. et M. nés en 2002 et 2009 respectivement;
+b) L’appelant et Mme Genois vivent séparés l’un de l’autre depuis le 10 avril 2014;
+c) le 4 mai 2015, un Jugement a été émis par la Cour Supérieure du Québec relativement aux modalités de garde des enfants B. et M. en accordant à l’appelant la garde exclusive de l’enfant B. et la garde partagée avec Mme Genois de l’enfant M.;
+d) l’appelant réside avec l’enfant M. pendant une période de 6 jours consécutifs débutant le lundi matin à 8h00 jusqu’au samedi à midi, soit 124 heures sur 336 heures représentant une répartition de la garde partagée de 36.9%;
+e) Mme Genoit [sic] réside avec l’enfant M. pendant une période de 8 jours consécutifs débutant le samedi à midi et se terminant le lundi matin à 8h00, soit 212 heures sur 336 heures représentant une répartition de la garde partagée de 63.10%.
+[4] L’appelant, la mère de l’appelant (madame Gisèle Dubuc Simard), l’intervenante et le colocataire de l’intervenante (monsieur Sébastien Vermette), ont témoigné à l’audience.
+[5] L’appelant a mis en preuve le jugement rendu par le juge Pierre C. Bellavance de la Cour Supérieure du Québec le 4 mai 2015 par lequel il a notamment confié à la mère et au père la garde partagée de l’enfant M., née le 22 octobre 2009, sur la base d’une période de six jours consécutifs au père pour une période de 14 jours, le tout équivalant à 156 jours de garde annuellement, et d’une période de huit jours consécutifs par période de 14 jours, le tout équivalant à 209 jours de garde annuellement. La prise en charge de l’enfant devant se faire de la façon suivante, à moins d’une entente autre entre les parents :
+- pour le père, la période de six jours consécutifs débute le premier lundi matin à la garderie ou à l’école jusqu’à 19h00 le samedi; le père devant reconduire l’enfant au domicile de la mère;
+- pour la mère, de 19h00 le samedi pendant une période consécutive de huit jours jusqu’au lundi matin suivant; la mère devant reconduire l’enfant à la garderie ou à l’école.
+[6] Dans son jugement daté du 4 mai 2015, le juge Bellavance a ordonné le partage égal entre les parents, de l’allocation de soutien à compter du 9 mars 2015 et le droit à chacun des parents de recevoir les prestations fiscales pour une période de six mois; la mère y ayant droit à compter de la demande faite aux autorités concernées pour les premiers six mois, et le père pour les six mois subséquents et ce, d’année en année.
+[7] L’appelant a également mis en preuve le jugement rendu le 12 juillet 2016 par ma collègue, la juge Lafleur de notre Cour, par lequel l’appel interjeté par l’appelant à l’encontre d’une détermination établie par le ministre à l’égard de la prestation fiscale canadienne pour enfants, pour l’année de base 2013 (période d’avril à juin 2015) a été admis du fait que l’appelant était un parent ayant la garde partagée de l’enfant M. au cours de la période en litige.
+[8] Lors de son témoignage, l’appelant a affirmé respecter le jugement de la Cour Supérieure du Québec à la lettre.
+[9] L’appelant est un employé de la ville de Québec et son travail se termine à 16h00 chaque jour. La semaine où il a la garde de sa fille, il va la chercher à la garderie (en juillet et août 2015), à l’école ou au service de garde (à l’école maternelle à compter de septembre 2015 et en première année à compter de septembre 2016) le lundi après son travail. Si, lorsqu’il se présente à la garderie, à l’école ou au service de garde, sa fille n’est pas là, il ne va pas chercher sa fille chez sa mère. Cette situation s’est présentée lorsque les journées pédagogiques du calendrier scolaire 2016-2017 tombent les lundis où l’appelant doit aller chercher sa fille à l’école (les 5 et 19 septembre 2016, les 9 janvier et 17 avril 2017). Dans ces situations, depuis le mois de décembre 2016, l’appelant a pris sa fille à l’école ou au service de garde à 16h00 les mardis suivants. Auparavant, la mère de l’enfant l’amenait chez son père.
+[10] De plus, l’appelant a reconnu que sa fille a passé la semaine de relâche, soit du 6 au 10 mars 2017, chez l’intervenante, même s’il en avait la garde cette semaine-là. L’appelant a expliqué que sa fille faisait de la fièvre et qu’elle a passé deux ou trois jours à l’hôpital.
+[11] L’appelant a de plus expliqué qu’il n’a plus de communication avec son ex-conjointe depuis février 2016 et qu’il est en congé de travail depuis le 26 septembre 2016.
+[12] En contre-interrogatoire, l’appelant a reconnu jouer au casino et participer à des tournois de poker deux ou trois fois et avoir effectué un voyage par année à Las Vegas. Il a également reconnu que c’était l’intervenante qui s’occupait des visites chez le dentiste.
+[13] Lors de son témoignage, l’intervenante a expliqué que, lors de la semaine de relâche du 6 au 10 mars 2017, sa fille voulait voir son père et passer quelques jours avec lui, vu qu’il en avait la garde cette semaine-là. Sa fille lui a demandé de communiquer avec son père pour lui transmettre sa demande. Il a refusé la proposition qu’elle lui a faite et sa fille n’a pu voir son père et a dû se rendre à l’hôpital vendredi le 10 mars 2017 pour une prise de sang. L’intervenante a mis en preuve des extraits de message texto datés du 3, 8 et 10 mars 2017.
+[14] L’intervenante a expliqué qu’elle s’occupait des visites de sa fille chez le médecin et le dentiste, qu’elle s’occupait du suivi scolaire de sa fille auprès des professeurs, qu’elle payait seule le coût du service de garde (Patro) de 7h00 à 7h30 et de 15h30 à 16h00, soit jusqu’à ce que son père puisse aller la chercher après son travail.
+[15] L’intervenante a également expliqué qu’elle préparait la valise de sa fille pour la semaine qu’elle devait passer chez son père et qu’elle lui apportait sa valise à l’école peu de temps avant que son père vienne la chercher. Elle a aussi relaté le fait qu’elle avait l’habitude d’appeler sa fille deux fois par semaine lorsqu’elle était chez son père. Depuis le 12 mai 2017, l’appelant ne veut plus recevoir de texto de la part de son ex-conjointe et ne veut plus qu’elle se présente chez lui. Depuis cette même date, l’appelant a changé son numéro de téléphone à deux reprises pour qu’elle ne puisse plus communiquer avec lui. L’appelant n’appelle jamais sa fille lorsqu’elle est chez sa mère. L’école n’a pas le numéro de téléphone de l’appelant.
+[16] L’intervenante a également invoqué le manque d’hygiène de sa fille quand elle est chez l’appelant. Lors des semaines chez son père, souvent elle ne prend pas de bain et elle garde le même sous-vêtement toute la semaine en plus de ne pas brosser ses dents régulièrement alors qu’elle le fait tous les soirs lorsqu’elle est chez sa mère.
+[17] Selon elle, l’appelant ne respecte pas le jugement de la Cour Supérieure du Québec du 4 mai 2015 puisqu’il refuse de payer sa part des dépenses encourues par l’intervenante pour sa fille. L’appelant n’a commencé à payer des vêtements pour sa fille qu’à compter du mois de mai 2017.
+Dispositions législatives
+[18] En ce qui concerne la PFCE, l’article 122.6 de la Loi définit les termes suivants :
+« particulier admissible » S’agissant à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne—père ou mère de la personne à charge—qui :
+(i) assume principalement la responsabilité pour le soin et l'éducation de la personne à charge et qui n'est pas un parent ayant la garde partagée à l'égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l'égard de la personne à charge;
+[…]
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+« personne à charge admissible » S’agissant de la personne à charge admissible d'un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n'est pas quelqu'un pour qui un montant a été déduit en application de l'alinéa 118(1)a) dans le calcul de l'impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l'année de base se rapportant au mois qui comprend ce moment;
+c) elle n'est pas quelqu'un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+« parent ayant la garde partagée » S’entend, à l'égard d'une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l'alinéa f) de la définition de «particulier admissible» ne s'applique pas à celle-ci, du particulier qui est l'un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l'un par rapport à l'autre;
+b) résident avec la personne à charge sur une base d'égalité ou de quasi-égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l'éducation de celle-ci, ainsi qu'il est déterminé d'après des critères prévus par règlement.
+[19] L’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») énumère les facteurs prescrits à prendre en compte pour déterminer la question de savoir si un parent assure principalement le soin et l’éducation des enfants :
+6302. Pour l'application de l'alinéa h) de la définition de «particulier admissible» à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l’existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+Analyse
+[20] Aux fins de la PFCE, il ne fait pas de doute que l’enfant M. était une personne à charge admissible.
+[21] La présomption en faveur de la mère énoncée dans l’alinéa f) de la définition de « particulier admissible » ne s’applique pas en l’espèce parce que les deux parents ont présenté une demande de PFCE à l’égard de l’enfant M. pour la période de juillet 2015 à juin 2017.
+[22] Pour que l’appelant soit considéré comme un « particulier admissible » à l’égard de l’enfant M. à un moment donné, au cours de la période de juillet 2015 à juin 2017, il faut que l’une des conditions suivantes soient rencontrées :
+a) l’appelant réside avec la personne à charge;
+b) l’appelant est le père de la personne à charge qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de la personne à charge;
+c) l’appelant est un parent ayant la garde partagée de l’enfant M.
+[23] Lorsque les parents de la personne à charge admissible sont des parents ayant la garde partagée, ils doivent se partager le PFCE. La définition de « parent ayant la garde partagée » s’applique à l’un ou l’autre des deux parents de la personne à charge admissible lorsqu’ils :
+a) ne sont pas des époux ou conjoints de fait;
+b) résident avec la personne à charge admissible sur une base d’égalité ou de quasi-égalité; et
+c) assument principalement la responsabilité pour le soin et l’éducation de la personne à charge admissible lorsque celle-ci réside avec eux.
+[24] L’intervenante prétend qu’elle s’est mieux occupée du soin et de l’éducation de l’enfant M. que son ex-conjoint. Même si la preuve semble étayer cette allégation, si on compare les rôles joués par chacun des parents à ce chapitre, je suis convaincu que chaque parent s’est raisonnablement acquitté du rôle de principal responsable du soin et de l’éducation de l’enfant M. pendant la période où celle-ci résidait avec ce parent. À mon avis, l’exigence du soin et de l’éducation de la personne à charge admissible prévue à la définition de « parent ayant la garde partagée » est rencontrée dans le cas en l’espèce.
+[25] La question cruciale pour l’issu de ce litige est la question de savoir si l’enfant M. a résidé avec l’appelant sur une base de quasi-égalité vu que le jugement de la Cour Supérieure du Québec a accordé une garde partagée sur une base inégale, soit 156 jours de garde annuellement au père (42,73%) et 209 jours de garde annuellement à la mère (57,26%).
+[26] L’expression « quasi-égalité » n’est pas définie dans la Loi et les juges qui ont eu à considérer la question, ont adopté une approche quantitative du temps passé avec chaque parent (voir à ce sujet les décisions rendues dans Brady c. La Reine, 2012 CCI 240, Van Boekel c. La Reine, 2013 CCI 132, Fortin c. La Reine, 2014 CCI 2009 et Reynolds c. La Reine, 2015 CCI 109). Dans leur analyse, les juges se sont basés non seulement sur les jours de garde attribués à chacun des parents mais également sur les heures passées avec chacun des parents, en excluant d’abord le temps où la personne à charge admissible est à l’école et ensuite, en attribuant les heures passées à l’école en fonction de qui va conduire ou chercher l’enfant à l’école. L’Agence du Revenu du Canada a fixé un barème variant entre 40% et 60% pour reconnaître l’existence d’une garde partagée à l’égard d’un enfant et les tribunaux ont, de façon générale, appliqué ce barème.
+[27] Si l’on considère les faits dans leur ensemble, il ressort clairement que l’appelant n’est pas un parent ayant la garde partagée puisque l’enfant M. ne résidait pas avec lui sur une base d’égalité ou de quasi-égalité au cours de la période.
+[28] D’abord, il y a lieu de souligner que l’appelant ne respecte pas intégralement le jugement de la Cour Supérieure du Québec du 4 mai 2015 parce qu’il n’a pas pris sa fille lors des journées pédagogiques du calendrier scolaire 2016-2017, les lundis de ses semaines de garde, et lors de la semaine de relâche du 6 au 10 mars 2017.
+[29] Ensuite, même en présumant que les termes du jugement sont respectés, la fille de l’appelant dort neuf nuits chez sa mère et seulement cinq nuits chez son père par période de 14 jours. En termes d’heures, pendant les périodes de garde de chacun des parents, l’enfant M. passe 124 heures sur 336 heures avec son père sur une période de six jours consécutifs débutant à 8h00 le lundi jusqu’à midi le samedi, soit 36,9% de son temps, alors qu’elle passe 212 heures sur 336 heures avec sa mère sur une période de huit jours consécutifs débutant à midi le samedi jusqu’à 8h00 le lundi, soit 63,10% de son temps.
+[30] Si on exclut les heures passées à l’école, les lundis des semaines de garde de l’appelant, parce que c’est la mère de l’enfant qui la reconduit à l’école et parce que l’appelant ne la prend qu’après les heures de classe, le temps de garde du père baisse davantage et, encore plus, si les journées pédagogiques tombent les lundis des semaines de garde de l’appelant et si la semaine de relâche du calendrier scolaire 2016-2017 est attribuée à la mère.
+[31] Compte tenu de ce qui précède, l’appel de l’appelant est rejeté puisqu’il n’était pas le particulier admissible ayant la garde partagée de l’enfant M. pour les années de base 2014 et 2015.
+Signé à Ottawa, Canada, ce 27e jour de septembre 2017.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2017 CCI 189
+Nº DU DOSSIER DE LA COUR :
+2016-4982(IT)I
+INTITULÉ DE LA CAUSE :
+Eric Simard et Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 29 juin 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 27 septembre 2017
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l’intimée :
+Avocate de l'intervenante :
+Me Emmanuel Jilwan
+Me Valérie Vaillancourt
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intervenante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Me Valérie Vaillancourt
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

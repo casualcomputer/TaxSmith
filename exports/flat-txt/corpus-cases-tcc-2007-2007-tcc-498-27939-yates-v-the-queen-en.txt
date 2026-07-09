@@ -1,0 +1,175 @@
+Title: Yates v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27939/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-498-27939-yates-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-27
+
+# Yates v. The Queen
+
+- Citation: 2007 TCC 498
+- Decision date: 2007-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1722, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yates v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-27
+Neutral citation
+2007 TCC 498
+File numbers
+2005-1970(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1970(IT)G
+BETWEEN:
+DEBRA YATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 14, 2007, at Windsor, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant
+David M. McNevin
+Counsel for the Respondent:
+Steven D. Leckie
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under section 160 of the Income Tax Act, notices of which are dated September 13, 2004, and bear numbers 33054, 33055 and 33056 are dismissed, with costs.
+Signed at Ottawa, Canada, this 27th day of August, 2007.
+“C.H. McArthur”
+McArthur J.
+Citation:2007TCC498
+Date: 20070827
+Docket: 2005-1970(IT)G
+BETWEEN:
+DEBRA YATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from three reassessments made by the Minister of National Revenue, pursuant to subsection 160(1) of the Income Tax Act, on September 13, 2004. The issue is whether the Appellant is liable to pay $61,784 of her husband’s income tax liability, and the specific questions to be determined are whether there was a transfer from Mr. Yates, the Appellant’s spouse, to her, and if so, was there adequate consideration rendered by the Appellant to Mr. Yates.
+[2] The three reassessments refer to three bank accounts, and the basic facts, for the most part, are not disputed. The problem arises upon the dealings with three bank accounts.
+[3] Mr. Yates had an outstanding tax liability, at all relevant times, in excess of $485,000. On December 23, 2002, he released his joint interest in two bank accounts to the Appellant. They included what was referred to as a Canadian account and an American account. The Canadian account was used primarily for general day-to-day expenditures, and the American account was used to pay expenses for a Florida condominium. Mr. Yates effectively transferred to the Appellant, $4,972.30 and $2,406.45 being his 50% interest in each account, without regard to his motivation. I have no difficulty finding that there was a transfer without adequate consideration for these two small amounts.
+[4] The primary issue concerns the Canadian account after Mr. Yates transferred his interest. As of December 23, 2002, and throughout 2003, the Appellant was the sole signing authority and owner of the Canadian account. However, from January 2, 2003 to October 9, 2003, Mr. Yates deposited into this account a total of $54,460.20, while he was indebted to Canada Revenue Agency.
+[5] This account had been used by both the Appellant and Mr. Yates to pay their household expenses for many years prior to December 23, 2002. The Appellant customarily took care of these expenses. Between December 23, 2002 and October 31, 2003, the total household expenses set out by the Appellant were as follows:
+(i) mortgage $42,768.00
+(ii) taxes and utilities $24,032.17
+(iii) food $8,141.18
+(iv) other misc. $22,807.18
+(v) VISA bills $1,169.55
+(vi) Cash $21,405.00
+(vii) Transfers to Line $5,725.00
+(viii) GMAC savings $25,200.00
+Total: $151,248.08
+The mortgage amount of $42,768 was for a $600,000 building lot.[1] The $25,200 in savings was for the Appellant for a rainy day.
+[6] Mr. Yates was once the owner of a successful trucking company known as CJ Rush until the fall of 2003. He earned the following income from 1999 to 2002:
+1999
+$469,156
+2000
+$553,751
+2001
+$268,488
+2002
+$963,433
+[7] The Appellant also earned a significant income during this time-frame owning and working for International Tire Corporation which provided services to, among other firms, CJ Rush. Her income in this period was approximately:
+1999
+$56,207
+2000
+$121,116
+2001
+$162,812
+2002
+$131,762
+In effect, the Appellant could have paid the bulk of the household expenses from her own income. She alone has owned the approximately 4,000 square feet matrimonial home since 1989, and she also was the sole owner of the $600,000 property purchased in 2000, upon which she and Mr. Yates intended to build a new “dream home”.
+[8] In October 2003, CJ Rush was petitioned into bankruptcy by the Royal Bank of Canada, one of its largest creditors. Mr. Yates filed a personal assignment in bankruptcy on February 16, 2004. He remains an undischarged bankrupt to the present date.
+[9] The Respondent submits that the removal of Mr. Yates’ name from the two bank accounts and the payment of funds into the Appellant’s Canadian account constitute transfers of property under subsection 160(1) of the Act and the Appellant is liable to pay the transferred amounts to CRA.
+[10] The Appellant’s position is that there was no transfer of funds and that payments made pursuant to a legal obligation of Mr. Yates to support his family are not captured by section 160. Counsel for the Appellant further added that there was no evidence that Mr. Yates or the Appellant knew of any tax liability at the time of the purported transfers.
+[11] Section 160, so far as it is relevant, reads:
+160(1) Where a person has … transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse …
+the following rules apply:
+…
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the aggregate of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[12] Four requirements must be satisfied under subsection 160(1)[2], however, in these appeals, only two are in question:
+(i) There must be a transfer of property; and
+(ii) There must be no or inadequate consideration flowing from the transferee to the transferor.
+[13] The Appellant submits that there was no transfer, but that should I find there was, then there was adequate consideration flowing from the Appellant to Mr. Yates.
+[14] I will first deal with the question of transfer. The word “transfer” was defined in David Fasken Estate v. M.N.R.[3] wherein Thorson P. stated:
+The word “transfer” is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result whether direct or circuitous, may properly be called a transfer.
+This definition has been accepted by this Court in recent years including in the decision in Tetrault v. R.,[4] where at paragraph 39, Archambault, J. stated:
+… in order for there to be a transfer of property for the purposes of the attribution rules, it is essential that the transferor be divested of his ownership and that the property has vested in the transferee.
+[15] With this in mind, I have no difficulty in concluding there was a transfer of the two joint accounts. The uncontradicted evidence was that Mr. Yates divested himself of his one-half interest in the joint accounts when he signed them over to his wife, the Appellant, on December 23, 2002. And from January 2003 to October 2003, Mr. Yates divested himself of his bi-weekly pay cheques to the Appellant. He simply turned over the cheques that were payable to him and they were deposited into his wife’s bank account over which she had complete control.
+[16] The more difficult issue is whether there was consideration rendered by the Appellant for these transfers from Mr. Yates. This boils down to whether these transfers were merely his satisfying his legal obligation to support his wife and family. If so, then the payments in certain restricted circumstances are not subject to section 160 liability. To find in the Appellant’s favour, I must find there was adequate consideration flowing from her to Mr. Yates. I agree with the Appellant that there is a legal obligation for support under the Family Law Act of Ontario. The greatest disparity between the submission of counsel for the Appellant and the present case law is latitude given to the legal obligation.
+[17] There are two lines of authorities in this area of the law. The first, which is the Respondent’s position, concludes that the contributions of spouses to the expenses of the marriage are given without consideration. The second is that some payments made from one spouse to another in satisfaction of a legal obligation to support his or her family are beyond the reach of section 160.
+[18] In Logiudice v. R.[5] Justice Bowie stated at paragraph 16:
+The word consideration, as it is used in the context of section 160 of the Act, in its ordinary sense refers to the consideration given by one party to a contract to the other party, in return for the property transferred. The obvious purpose of section 160 is to prevent taxpayers from escaping their liability for tax, interest and penalties arising under the provisions of the Act by placing their exigible assets in the hands of relatives, or others with whom they are not at arms' length, and thus beyond the immediate reach of the tax collector. The limiting provision in subparagraph 160(1)(e)(i) of the Act is to protect genuine business transactions from the operation of the section, to the extent of the fair market value of the consideration given for the property transferred. It is apparent, therefore, that for a transferee to have the benefit of this saving provision she must be able to prove that the transfer of property to her was made pursuant to the terms of a genuine contractual arrangement. [emphasis added]
+Further, in Tetrault v. Canada,[6] Justice Archambault approved the finding of Justice Bowie in Logiudice, and stated:
+[23] The contribution to the expenses of the marriage is, in my opinion, in the nature of a donation by which property is given without any consideration. This analysis of the domestic obligation concurs with that made by Justice Mogan in the Raphael decision, where he says, [t]hose same domestic obligations, however, cannot be ‘consideration’ within the meaning of section 160 …”. [paragraph 27 of the Raphael decision.].
+[19] I accept the second approach to the effect that certain limited payments made for some household expenses by a spouse, who is obligated to support his or her family, are not subject to subsection 160(1). I believe these expenditures should be for daily living necessities as opposed to permitting an accustomed lavish standard of living. The Appellant cited the following cases which support this: Michaud v. Canada,[7] Ferracuti v. Canada,[8] Laframboise v. Canada[9] and Ducharme v. Canada.[10]
+[20] In Michaud, the Appellant’s former husband made mortgage payments in performance of his legal obligation to provide for his family’s needs. Justice Lamarre Proulx made the narrow finding that when mortgage payments are made by a spouse under legal obligation to provide for the family’s requirements, then that constitutes “consideration” within the meaning of subsection 160(1). She stated in part:
+I consider that when the appellant’s former spouse made the payments on the hypothec on the family house, which was the appellant’s property, he was only performing a legal obligation, that of providing for the needs of his family by obtaining the housing required.
+… a payment of a hypothec on a family residence is not in the nature of a transfer of property made without valuable consideration if the person making it does so in performing the legal obligation to provide for his or her family’s needs.
+[21] In Laframboise, the Appellant was assessed over $160,000 pursuant to section 160, which amount consisted of deposits made by her husband to her bank account. Dussault J. reduced the assessments finding that 28.35% of the deposits were used to pay living expenses which were not subject to an assessment under section 160. The Court found that even though legal ownership of the account changed from joint account of husband and wife to a business account, those payments that were taken from the account to pay household or living expenses were not captured by section 160.
+[22] In Ducharme, the Appellant was assessed $61,878 for transfers of property made to her from her common-law husband. Beaubier, J. allowed the appeal adopting the reasoning in Michaud. The Court found that the spouse’s payments were akin to rent for his use of the matrimonial home. The Federal Court of Appeal upheld this decision without discussion of the various Tax Court positions in previous cases. Recognizing the value of domestic services, the Federal Court of Appeal found, as did the trial judge, that Ms. Ducharme gave more consideration, to her common-law husband than she received.
+[23] In Ferracuti, I followed a more liberal interpretation of subsection 160(1) in finding that a spouse’s legal obligation to make mortgage payments on a family residence, and to pay basic family living expenses, are not subject to the provisions of section 160. These living expenses are not without consideration.
+[24] At the outset, I would like to clarify a comment made in the Ferracuti decision. During argument in these appeals, much was made over my statement at paragraph 18 in Ferracuti, which reads as follows:
+For there to be a transfer within the meaning of section 160 of the Act, there must be a transfer without valuable consideration. There could be a transfer of property but if this transfer is for valuable consideration, then there is not a transfer within the meaning of section 160 of the Act.
+[25] This statement was seized upon by the Appellant as the basis for the argument that where there is any consideration given for the handing over of property, there is no “transfer” as required by section 160. This is not correct. Section 160 is clear that the liability of the transferee is equal to the difference between the value of the property transferred and the fair market value of the consideration given in return. The existence of consideration flowing from the transferee to the transferor does not defeat the operation of section 160 on the basis that no “transfer” can be said to have taken place. Section 160 operates even where consideration has been given, but that the liability is limited to the difference in value.
+[26] In Michaud, the Court was concerned with determining whether section 160 applied to payments made in performing a genuine obligation, such as providing one’s family with a place to live. The Court’s holding in that case was narrow: a payment on a hypothec (mortgage) on a family residence is not in the nature of a transfer of property made without valuable consideration if the person making it does so in performing the legal obligation to provide for his or her family’s needs.
+[27] In Ferracuti, I applied the finding in Michaud to a situation where there had not been a marriage breakdown. In that case, the Appellant was a homemaker with no income. She spent considerable time tending to the needs of their oldest son, who had been severely injured in a car accident. The matrimonial home was in her name. Her husband ran a group of corporations and had transferred to her certain amounts, some which were used to pay the mortgage and utilities for the home. In these ways Michaud and Ferracuti are distinguishable on their facts.
+[28] The Appellant argued that based on my finding in Ferracuti that the household expenses are beyond the reach of a section 160 assessment because such expenses are paid in satisfaction of a legal obligation. The Appellant further claimed that any and all expenses of the household fall into this category and that it is not this Court’s place to consider the reasonableness of those household expenses. The Appellant cited the recent Ontario Court of Appeal decision in Martin v. Martin,[11] in which the Court refused to question the lifestyle choices of high-income earning families in the context of determining spousal support.
+[29] I agree that the function of this Court under section 160 is not to parse a taxpayer’s grocery bills in order to determine which food items are reasonable and which are not. Each case must be considered on its own merits. The Court must examine the evidence of the taxpayer with respect to household expenditures to determine which expenses, if any, are the vital household expenses that may be excluded from the reach of section 160. I say this because section 160 is a far‑reaching collection tool in the Act. It has been described as draconian and Parliament drafted it as such. Accordingly, the exceptions to the reach of this section are narrow. In Ferracuti, I attempted to determine which expenditures were made in satisfaction of the person’s legal obligation to support his family.
+[30] Also, in Ferracuti, I stated that such an obligation did not extend to expenses in respect of phone bills, cable television bills and lawn maintenance. This is important. Presently the Appellant is trying to stretch the policy in the Michaud link of cases far beyond their conclusions. The Appellant presented evidence that the total household expenses for the period of December 23, 2002 to October 31, 2003 amounted to $151,248.08. Of this amount, $42,768 was for mortgage payments on a second property, and $25,200 was for payment into a savings account. These claims are not only unreasonable, but outrageous. They are not the vital household expenses envisaged in the cases quoted. For the balance of the household expenses of $83,280.08, there was evidence that some of it was in fact for phone bills, cable bills, property and lawn maintenance, liquor, spa treatments, utilities for the second property, and various unexplained cash withdrawals, some of which might have been for expenses incurred in respect of a condominium in Florida owned by the Appellant. Perhaps this amount could be said to be for vital household expenses. I do not believe the Appellant was having difficulty meeting such expenses. In 2003, she earned $117,788. I cannot accept that she was unable to pay for the household expenses from her income. The Appellant’s spouse owed CRA a large amount of tax arrears and he had declared bankruptcy, probably eliminating his liability. It is absurd to ignore the Minister of National Revenue to permit a lavish lifestyle. This is not a matrimonial asset division case. For this reason alone, it cannot be said that the pay cheques of Mr. Yates were required for household expenses.
+[31] The appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 27th day of August, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC498
+COURT FILE NO.: 2005-1970(IT)G
+STYLE OF CAUSE: DEBRA YATES and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor , Ontario
+DATE OF HEARING: May 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: August 28, 2007
+APPEARANCES:
+Counsel for the Appellant:
+David M. McNevin
+Counsel for the Respondent:
+Steven D. Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. McNevin
+Firm: ?????
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The lot did have a modest home which was of little value to the Appellant and her spouse.
+[2] Raphael v.Canada, 2002 DTC 6798, F.C.A. para. 4, p. 6800. In setting out the four conditions from section 160 in Raphael, Mogan J. referred to the decision in Doreen Williams v. The Queen, 2000 DTC 2340 wherein the Federal Court of Appeal referred to those four conditions with approval.
+[3] [1948] Ex. Ct. 580.
+[4] 2004DTC 2763.
+[5] 97 DTC 1462.
+[6] [2004] T.C.J. No. 265.
+[7] [1998] T.C.J. 908.
+[8] [1998] T.C.J. 883.
+[9]` [2002] T.C.J. No. 628.
+[10] [2004] T.C.J. No. 284; [2005] F.C.J. No. 713.
+[11] 272 D.L.R. (4th) 666.

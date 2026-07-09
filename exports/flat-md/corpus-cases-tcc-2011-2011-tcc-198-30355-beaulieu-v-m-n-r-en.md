@@ -1,0 +1,207 @@
+---
+title: "Beaulieu v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30355/index.do"
+last_modified: "2011-04-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 198"
+citation2: ""
+neutral_citation: "2011 TCC 198"
+decision_date: "2011-04-06"
+language: "en"
+item_id: "30355"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7876
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:42:05.256000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "80178dd83d974e4c2f1524739c98d0f8f72ca4b92637e47bcec2ca204e7b2a7e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beaulieu v. M.N.R.
+
+- Citation: 2011 TCC 198
+- Decision date: 2011-04-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7876, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaulieu v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-06
+Neutral citation
+2011 TCC 198
+File numbers
+2010-1001(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-1001(EI)
+BETWEEN:
+RITA BEAULIEU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on January 11, 2011, at Québec, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Marie-France Dompierre
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue dated February 10, 2010, made under the Employment Insurance Act is confirmed.
+Signed at Ottawa, Canada, this 6th day of April 2011.
+"B.Paris"
+Paris J.
+Translation certified true
+on this 13th day of May 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 198
+Date: 20110406
+Docket: 2010-1001(EI)
+BETWEEN:
+RITA BEAULIEU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The appellant is appealing from a decision of the Minster of National Revenue (the Minister) stating that the employment she held with Maçonnerie Rivière-du-Loup (1994) Inc. (the payer) from August 4, 2008, to August 7, 2009, was not insurable under paragraph 5(2)(i) of the Employment Insurance Act (the Act) because she was not dealing with the payer at arm's length. The appellant's husband, Jean-Louis Beaulieu, was the payer's sole shareholder.
+[2] Under paragraph 5(3)(b), when an employer and an employee are not dealing with each other at arm's length, the Minister must determine, having regard to all of the circumstances, whether it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. In this case, the Minister determined that it was not reasonable to conclude that the payer and the appellant would have entered into a substantially similar contract.
+[3] The only issue before the Court in this case is whether the Minister's conclusion was reasonable. To determine this, I must "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable".[1]
+[4] The facts on which the Minister relied are found in paragraph 6 of the Reply to the Notice of Appeal, and I will first reproduce those admitted by the appellant:
+[Translation]
+(a) The payor was incorporated on April 18, 1994;
+(b) The payer did only commercial masonry.
+(c) The payer's balance sheets for fiscal years ending on February 28 or 29 contained the following data:
+2004
+$277,559
+$13,607
+2005
+$259,335
+$11,380
+2006
+$251,160
+$21,815
+2007
+$747,525
+$31,392
+2008
+$383,745
+$18,370
+2009
+$1,244,325
+$196,370
+(d) The payer issued 17 T4 slips in 2008 and 16 T4 slips in 2009 including his own and the appellant's.
+(e) From October 2008 to February 2009, the payer had a big contract at the arena in La Pocatière, and in May 2009 it did exterior masonry work.
+(f) For that contract, the payer did business with the supplier Turcotte from Trois‑Pistoles for blocks and with another company from Québec for other materials.
+(g) The payer had other contracts, but it cannot quantify them.
+. . .
+(i) The payer's offices are located in the basement of the appellant's personal residence.
+. . .
+(k) The payer's shareholder uses a cell phone, the number for which is written on the bids, so that he can be contacted right away.
+(l) The appellant has been working for the payer since the payer first started its activity, that is, before its incorporation.
+(m) The appellant has no background in accounting or information technology.
+. . .
+(o) During the period at issue, on average, 70 cheques per month were issued to pay expenses and employee salaries.
+(p) There were 19 invoices in 2008, and 13 invoices in 2009, all handwritten with very little text.
+(q) Since her layoff, the appellant has been accumulating work in order to do it over a few days at the end of the month, though the payer stated that the appellant worked 3 to 4 hours per month.
+. . .
+(s) The appellant was paid for 40 hours per week during the entire period at issue.
+. . .
+(u) The appellant's gross pay during the period at issue was $399.20, that is, 20% lower than in 2004, because, in order to receive her pension from the Régie des Rentes du Québec, the appellant had to reduce her salary by 20%.
+(v) The appellant was paid weekly based on a 40-hour week, that is, at the rate of $10 per hour, while, according to Emploi Québec, the salary for a secretary is set between $12 and $20 per hour.
+(w) During the period at issue, the appellant was the payer's only employee to be paid for 40-hour weeks without interruptions.
+(x) From February 24 to March 29, 2008, the appellant was the only paid employee, except for one week when the shareholder was also paid.
+. . .
+(z) Since her layoff, the appellant received a 40-hour pay on September 20, November 1 and December 13, 2009.
+(aa) The payer earned no revenue in March, April and July 2009, while the appellant's full-time employment had been maintained.
+[5] Now I will list the facts that Ms. Beaulieu did not admit:
+[Translation]
+(h) The payer usually obtains its contracts in January or February by submitting bids although it could also obtain them during other months because there were allegedly 4 or 5 bids during the period at issue.
+According to Ms. Beaulieu, she prepared about 10 bids for the payer during the period at issue, and each one took her 2 to 3 days. The payer obtained 5 of those contracts.
+[Translation]
+(j) The home phone is also used for the payer’s needs: to make telephone calls as well as send faxes.
+Ms. Beaulieu also testified that the payer had its own telephone line.
+[Translation]
+(n) The appellant's tasks were to submit the workers' hours of work to the accountant, who would advise her of their wages so that she could prepare the paycheques. She was present to answer the telephone and prepared bids with the shareholder in the evenings. She also looked through newspapers for invitations to tender in which the payer could participate. She also prepared cheques for suppliers and wrote invoices for clients.
+Ms. Beaulieu said that she had more tasks than just those. In addition to preparing the bids, she personally delivered them to Rimouski, which took three hours return trip. After submitting the bids, she followed up on them and withdrew them if they were too low. At the start of each job, she had to call suppliers to arrange delivery of materials, and at the end she prepared letters of compliance for the CSST and CCQ. She dealt with insurance and permits, answered calls from clients and suppliers and completed bank deposits. Counsel for the respondent did not dispute Ms. Beaulieu's testimony on these points.
+[Translation]
+(r) The appellant usually worked from 8 a.m. to 3 p.m., although her hours were shortened, which made it possible for her to do daily housework, and prepared bids by hand with the shareholder in the evening.
+(s) The appellant was paid for 40 hours per week during the entire period at issue;
+Ms. Beaulieu explained that she had a fixed weekly salary, which was not based on the number of hours worked. Her hours of work varied: sometimes she worked more than 40 hours per week, sometimes less than that and sometimes she worked exactly 40 hours per week.
+However, the payer's payroll journals indicated that she was paid on the basis of a 40-hour week.
+[Translation]
+(t) The appellant received her salary even in March and April 2009, while the payer was inactive.
+(y) For the weeks of December 21 and 28, 2008, the appellant was the only employee on the payroll.
+(aa) The payer had no revenue in March, April and July 2009, while the appellant's full-time employment had been maintained.
+Ms. Beaulieu did not recall the payer's periods of inactivity or the time she was the payer's only employee. However, a summary of the payer's payroll journals, prepared by the appeals officer from the Canada Revenue Agency, showed that, during the weeks of December 21 and 28, Ms. Beaulieu was the only employee, and that, from February 2009 to April 19, 2009, Ms. Beaulieu and Mr. Beaulieu were the only employees. According to the journals, Ms. Beaulieu worked 40 hours per week during those periods, and Mr. Beaulieu worked 20 hours per week. The journals also showed that the payer had no revenue in March, April and June 2009. Mr. Beaulieu testified that he had decided to pay his spouse her full salary during those periods and that she had worked, but he did not specify what work she did.
+Analysis
+[14] The appellant simply stated that she should be entitled to employment insurance benefits because she had worked throughout the entire period at issue. She stated that it was unfair to deprive her of them simply because she had worked for her husband's company.
+[15] Although it may seem unfair, the Employment Insurance Act provides that an employment where the payer and the worker are not dealing with each other at arm's length is excluded from insurable employment unless the Minister is satisfied that the parties would have entered into a substantially similar contract if they had been dealing with each other at arm's length.
+[16] In Pérusse,[2] Justice Marceau wrote the following at paragraph 29:
+I do not think that persons connected by family ties, and so subject to natural and legal obligations to each other, could reasonably be surprised or upset that Parliament felt the need to determine, where a contract of service is concerned, whether such ties, perhaps even without their knowledge, could have influenced the working conditions laid down.
+[17] As I indicated earlier in these reasons, I must decide whether the Minister's decision still seems reasonable in light of all of the facts in evidence.
+[18] First, it seems clear to me that the Minister did not take into account all of the relevant aspects of the appellant's employment with the payer, including her additional tasks stated at paragraph 8 and the fact that she had prepared 10 bids rather than 4 or 5 of them as the Minister claimed.
+[19] According to the appeals officer's report, the appellant's tasks were to be present to answer the phone, prepare around 70 cheques per month, do a little invoicing and prepare several bids, which she completed based on the information provided by her spouse. The officer concluded that [Translation] "those few tasks could not justify employing the appellant full time".
+[20] I accept that the appellant's tasks during her employment were more varied and complex and would take more time to complete than the officer had believed and, thus, that she poorly assessed the importance of the appellant's work. However, even if that is the case, I must still consider whether the remaining facts proved at trial are sufficient in law to support the Minister's determination that the parties would not have entered into a substantially similar contract if they had been at arm's length.
+[22] In deciding whether persons dealing with each other at arm's length would have entered into a substantially similar contract of employment to that existing in this case between the appellant and the payer, a great deal of importance must be attributed to the issue of whether the employment meets a real economic need of the payer. In this case, the Minister assumed precisely that the appellant's employment did not coincide with the payer's needs because the appellant continued working during periods when the payer was inactive. The appellant was unable to show that this was false. The payer's payroll journals showed that she received her full salary during periods totalling over three months per year when there were no other employees or only Mr. Beaulieu, who worked part time. Neither Mr. Beaulieu nor Ms. Beaulieu explained why the payer needed her services full time during those periods. The journals also showed that in September and October 2009, while Ms. Beaulieu worked only 40 hours per month, the payer had between two and four employees, that is, more than it had had in March, April and between mid-July and August 9, when Ms. Beaulieu continued to work full time.
+[23] Thus, although the importance of Ms. Beaulieu’s tasks was underestimated, in light of all of the evidence and circumstances surrounding the appellant’s employment, sufficient facts remain to support the Minister’s decision. For these reasons, I find reasonable the Minister’s determination that the payer would not have hired a person at arm’s length to do the same work as the appellant on the same conditions during the period at issue.
+[24] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 6th day of April 2011.
+"B.Paris"
+Paris J.
+Translation certified true
+on this 13th day of May 2011
+Margarita Gorbounova, Translator
+CITATION: 2011TCC198
+COURT FILE NO.: 2010-1001(EI)
+STYLE OF CAUSE: RITA BEAULIEU AND M.R.N.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 11, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: April 6, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name: N/A
+Firm: N/A
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Per Justice Marceau of the Federal Court of Appeal in Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 (QL), paragraph 4.
+[2] [2000] F.C.J. No. 310 (QL), paragraph 29 (FCA).

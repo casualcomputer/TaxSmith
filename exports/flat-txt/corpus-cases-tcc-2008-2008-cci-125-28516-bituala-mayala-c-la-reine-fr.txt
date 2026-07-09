@@ -1,0 +1,118 @@
+Title: Bituala-Mayala c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28516/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-125-28516-bituala-mayala-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-28
+
+# Bituala-Mayala c. La Reine
+
+- Citation: 2008 CCI 125
+- Decision date: 2008-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1245, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bituala-Mayala c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-28
+Référence neutre
+2008 CCI 125
+Numéro de dossier
+2007-3142(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3142(IT)I
+ENTRE :
+NELLY BITUALA-MAYALA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 février 2008, à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination des prestations fiscales canadiennes pour enfants relativement aux années de base 2003 et 2004 est rejeté, avec dépens en faveur de l'appelante.
+Signé à Ottawa, Canada, ce 28e jour de février 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008CCI125
+Date : 20080228
+Dossier : 2007-3142(IT)I
+ENTRE :
+NELLY BITUALA-MAYALA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Le ministre du Revenu national (« Ministre ») réclame de l'appelante les prestations fiscales canadiennes pour enfant (« PFCE ») qu'on lui a versées suite à une erreur de jugement d'un fonctionnaire de l'Agence du Revenu du Canada (« ARC ») pour l'année de base 2003 (pour les mois de juillet 2004 à juin 2005) et l'année de base 2004 (pour les mois de juillet 2005 à juin 2006). On réclame maintenant de l'appelante, après la découverte de l'erreur du fonctionnaire, un montant de 7 729 $ pour l'année de base 2003 et 8 414 $ pour l'année de base 2004.
+[2] Il ressort du témoignage de l'appelante que cette dernière est arrivée au Canada du Congo avec sa famille, incluant ses trois enfants en bas âge, en octobre 1999. À l'époque, elle était avec le père de ses enfants et c'est sa belle‑mère qui a présenté une demande de statut de réfugié pour toute la famille. Cette demande a été refusée dans un premier temps et le jugement en appel de cette décision a confirmé le refus de leur statut de réfugié. Par la suite, l'appelante s'est séparée de son conjoint et le 23 juin 2004, elle a obtenu un permis de travail du ministre de la Citoyenneté et de l'Immigration du Canada, renouvelable annuellement, lequel spécifiait que cela ne conférait pas à l'appelante le statut de résident temporaire (pièce I‑1). Avec ce permis de travail, elle a trouvé un emploi et a pu présenter une demande à Citoyenneté et Immigration Canada en vertu des dispositions relatives aux circonstances d'ordre humanitaire. Cette demande a été présentée en avril 2005 et à ce jour, le dossier de l'appelante n'a toujours pas été analysé. L'appelante dit que son dossier est toujours sous traitement.
+[3] Alors qu'elle présentait sa demande au bureau de l'immigration canadienne, l'employé qui s'est occupé d'elle lui a dit qu'elle devrait demander des PFCE. Il a communiqué, en sa présence, par téléphone avec un agent de l'ARC qui lui a dit d'envoyer son permis de travail et les certificats de naissance de ses enfants, ce que l'appelante fit.
+[4] Le permis de travail envoyé par l'appelante est celui qui a été déposé en preuve sous la pièce I‑1, qui indiquait clairement que l'appelante n'avait pas le statut de résident temporaire.
+[5] Malgré tout, le fonctionnaire de l'ARC a considéré que l'appelante était éligible et des PFCE lui ont été versées pour les montants mentionnés ci‑haut sur une période de deux ans.
+[6] Le 20 septembre 2006, le Ministre a réalisé que l'appelante n'était pas admissible à recevoir les PFCE pour les années de base 2003 et 2004 et lui a, par conséquent, envoyé un avis de détermination établissant qu'elle avait reçu des paiements en trop de PFCE, pour les montants en cause. Le Ministre s'appuie sur l'article 122.6 de la Loi de l'impôt sur le revenu (« LIR »), qui définit qui est un particulier admissible aux PFCE, ainsi :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge -- qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés.
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[7] De fait, au cours de la période en litige, l'appelante ne remplissait pas les conditions de l'alinéa 122.6 e) de la LIR. Elle n'était ni résidente permanente au sens de la Loi sur l'immigration et la protection des réfugiés (« LIPR »), ni résidente temporaire ou titulaire d'un permis de séjour temporaire selon l'article 24 de la LIPR [1] (pièce I‑1), ni une personne protégée au titre de la LIPR, et ne faisait pas partie d'une catégorie précisée selon les articles 202 et 206 du Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire (« Règlement »)[2] pris en application de la Loi sur l'immigration (aucune décision n'ayant été encore prise à son sujet).
+[8] L'appelante n'était donc pas un particulier admissible et n'avait pas droit aux PFCE. Compte tenu de l'erreur manifeste du fonctionnaire de l'ARC qui a accordé des PFCE à l'appelante, laquelle n'aurait jamais fait les démarches d'elle‑même pour en obtenir sans l'intervention de l'agent d'immigration, je réfère le tout au Ministre afin qu'il considère sérieusement accorder une remise à l'appelante en vertu de l'article 23 de la Loi sur la gestion des finances publiques. Notre Cour n'a pas le pouvoir d'accorder une telle remise. Il m'est toutefois permis de dénoncer une insouciance de la part de certains fonctionnaires de l'ARC, qui commettent des erreurs qui se répercutent sur des personnes non familières avec les lois canadiennes, dans ce cas‑ci une mère monoparentale, ayant peu de ressources financières, et qui ne méritent pas un tel traitement.
+[9] Je note en terminant qu'il ne semble pas s'agir d'un cas isolé. Je me réfère à ce sujet à l'affaire Samayoa v. R., 2006 TCC 469, où l'ARC a reconnu une autre fois son erreur.
+[10] L'appel est rejeté avec dépens en faveur de l'appelante.
+Signé à Ottawa, Canada, ce 28e jour de février 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008CCI125
+Nº DU DOSSIER DE LA COUR : 2007-3142(IT)I
+INTITULÉ DE LA CAUSE : NELLY BITUALA-MAYALA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 27 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 28 février 2008
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Julian Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Permis de séjour temporaire
+24.(1) Devient résident temporaire l'étranger, dont l'agent estime qu'il est interdit de territoire ou ne se conforme pas à la présente loi, à qui il délivre, s'il estime que les circonstances le justifient, un permis de séjour temporaire - titre révocable en tout temps.
+[2] Selon les articles 202 et 206 du Règlement, le permis de travail obtenu par l'appelante ne lui donne pas le statut de résident temporaire. Ces articles se lisent comme suit :
+202. L'étranger qui se voit délivrer un permis de travail au titre de l'article 206 ou des alinéas 207 c) ou d) ne devient pas, de ce seul fait, résident temporaire.
+206. Un permis de travail peut être délivré à l'étranger au Canada en vertu de l'article 200 si celui-ci ne peut subvenir à ses besoins autrement qu'en travaillant et si, selon le cas :
+a) sa demande d'asile a été déférée à la Section de la protection des réfugiés mais n'a pas encore été réglée;
+b) il fait l'objet d'une mesure de renvoi qui n'a pu être exécutée.

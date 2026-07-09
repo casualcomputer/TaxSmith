@@ -1,0 +1,172 @@
+Title: Herchak c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29447/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-486-29447-herchak-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-30
+
+# Herchak c. La Reine
+
+- Citation: 2009 CCI 486
+- Decision date: 2009-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6939, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Herchak c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-30
+Référence neutre
+2009 CCI 486
+Numéro de dossier
+2007-2819(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2819(IT)G
+ENTRE :
+ROMAN HERCHAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 septembre 2009,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Avocat de l’appelant :
+Me Peter Kravchuke
+Avocat de l’intimée :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelant en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2005 est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 30e jour de septembre 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 8e jour de décembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 486
+Date : 20090930
+Dossier : 2007-2819(IT)G
+ENTRE :
+ROMAN HERCHAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] Pendant l’année d’imposition 2005, l’appelant était employé par Chemonics International Incorporated (« Chemonics »).
+[2] La question dont la Cour est saisie est de savoir si l’appelant a le droit de déduire de son revenu un montant de 108 687 $ en vertu du sous‑alinéa 110(1)f)(iii) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Au début de l’audience, les parties ont déposé un exposé conjoint des faits (pièce A-1, onglet 1). Ce document est ainsi rédigé :
+[traduction]
+EXPOSÉ CONJOINT DES FAITS
+1. En 1999, après que le Kosovo eut obtenu son indépendance de la Yougoslavie, le Conseil de sécurité des Nations Unies a adopté la résolution 1244, plaçant le Kosovo sous l’administration des Nations Unies.
+2. Du 10 janvier 2005 au mois de novembre 2005 (l’année d’imposition en cause correspondant à l’année civile 2005), le contribuable Roman Herchak occupait à temps plein le poste de spécialiste des ventes et du marketing dans le cadre du projet de soutien au développement en grappe des entreprises au Kosovo, et ce, en vertu d’un contrat conclu avec Chemonics International Incorporated, entreprise américaine à vocation internationale et à but lucratif.
+3. Chemonics avait elle aussi conclu un contrat avec l’USAID (l’Agence américaine pour le développement international, organisme fédéral indépendant), qui avait à son tour conclu un contrat avec la MINUK (la Mission d’administration intérimaire des Nations Unies au Kosovo) en vue d’administrer le Programme de soutien au développement en grappe des entreprises au Kosovo, programme conçu par l’USAID afin d’atteindre les objectifs des Nations Unies au Kosovo (dans les domaines de la justice, de l’armée, des questions humanitaires et du développement économique).
+4. La MINUK a été placée sous la responsabilité directe du Secrétaire général adjoint des Nations Unies.
+5. Les fruits et légumes, l’élevage et les matériaux de construction ont été définis comme étant les trois « grappes » du développement du Kosovo.
+6. À cette époque, le Kosovo était administré par les Nations Unies.
+7. L’USAID a soumis le Programme de soutien au développement en grappe des entreprises au Kosovo aux Nations Unies, qui l’a approuvé.
+8. M. Herchak était chargé des questions de développement économique et l’USAID a mis ses services à la disposition des Nations Unies.
+9. M. Herchak conseillait les municipalités kosovares (l’ordre de gouvernement le moins élevé) sur les questions de recyclage des déchets et d’utilisation de ces matériaux recyclés aux fins des infrastructures et de la reconstruction des routes, mais ces municipalités ne pouvaient pas contrôler les agissements de M. Herchak. Seule Chemonics le pouvait.
+10. M. Herchak a également travaillé auprès des cinq collectivités régionales du Kosovo.
+11. Pendant l’année 2005, de nombreuses personnes au Kosovo ont été payées directement (autrement dit, elles étaient employées) par les Nations Unies.
+12. M. Herchak était payé par Chemonics uniquement et rendait des comptes à son superviseur, également employé par Chemonics. Avant 2005, tandis qu’il travaillait sur des projets au Kosovo pour le compte d’autres organismes, M. Herchak détenait une carte d’identité des Nations Unies, mais en 2005, il n’avait qu’une carte de l’USAID.
+13. Le superviseur de M. Herchak chez Chemonics rendait des comptes à l’USAID.
+14. Les Nations Unies pouvaient demander à l’USAID d’exiger de Chemonics qu’elle mette fin au contrat de M. Herchak dans le cas où il ne se conduisait pas d’une manière appropriée à la MINUK.
+15. Ni la MINUK ni l’USAID ne supervisaient directement M. Herchak. La MINUK se contentait d’examiner les résultats finaux ou intermédiaires (par étapes) des activités auxquelles M. Herchak se consacrait.
+16. En rémunération du travail accompli pendant la période en cause, Chemonics a directement versé 108 687 $ à M. Herchak.
+17. Au sein du Programme de développement, M. Herchak était chargé des questions ayant trait aux industries agricoles, au développement de la construction et des associations ainsi qu’à l’identification des marchés et des capacités de production en vue de créer des emplois pour les Kosovars.
+18. Pendant la période en cause, tout le monde au Kosovo, y compris les bénévoles, était soumis aux directives de la MINUK. L’application des directives et des structures de la MINUK ne se limitait pas aux seuls employés ou sous‑traitants des Nations Unies.
+19. M. Herchak a déduit de son revenu un montant égal à celui que Chemonics lui a versé pour la période en cause, déduction que l’Agence du revenu du Canada a refusée.
+20. Ni Chemonics ni l’USAID ne sont des divisions ou des organes de l’ONU, pas plus qu’elles ne sont des institutions spécialisées au sens du paragraphe 8900(1) du Règlement de l’impôt sur le revenu. Aussi bien Chemonics que l’USAID sont des organismes de développement international indépendants dont le siège se trouve aux États‑Unis.
+21. Pendant la période en cause, le travail des Nations Unies au Kosovo a été accompli en partie par des personnes directement employées par l’ONU, en partie par des personnes embauchées en vertu de contrats de sous‑traitance par d’autres organismes, tels que l’USAID, et en partie par des organismes tels que l’USAID et Chemonics. Le mandat de reconstruire le Kosovo qui a été confié aux Nations Unies exigeait d’employer des travailleurs directement, mais aussi d’accepter l’aide d’organismes indépendants finançant des projets exigeant de faire appel à la main‑d’œuvre de tierces parties.
+[…]
+B. LES POINTS EN LITIGE
+[4] Les parties ont convenu que la seule question à trancher en l’espèce est de savoir si l’appelant a le droit de déduire 108 687 $ de son revenu pour la période en cause en vertu des articles 3, 5 et 164, du paragraphe 248(1) et du sous‑alinéa 110(1)f)(iii) de la Loi et de l’article 8900 du Règlement de l’impôt sur le revenu (le « Règlement »).
+C. ANALYSE ET DÉCISION
+[5] Le paragraphe 110(1) de la Loi prévoit ce qui suit :
+Déductions
+110(1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[…]
+[6] Le sous‑alinéa 110(1)f)(iii) de la Loi est ainsi rédigé :
+110(1)f) toute prestation d’assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l’alinéa 56(1)u) dans le calcul du revenu du contribuable pour l’année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l’année, représentant, selon le cas :
+[…]
+(iii) un revenu tiré d’un emploi auprès d’une organisation internationale visée par règlement;
+[…]
+[7] L’article 8900 du Règlement de l’impôt sur le revenu est ainsi rédigé :
+8900. (1) Pour l’application du sous-alinéa 110(1)f)(iii) de la Loi, les organisations internationales suivantes sont visées :
+a) les Nations Unies;
+b) toute organisation internationale qui est une institution spécialisée reliée aux Nations Unies conformément à l’article 63 de la Charte des Nations Unies.
+[…]
+[8] L’appelant a été embauché par Chemonics en vertu d’un contrat de travail (le « contrat ») signé le 15 décembre 2004 (pièce A‑1, onglet 3). Le contrat est ainsi rédigé, en partie :
+[traduction]
+11 : L’employé [c’est‑à‑dire l’appelant] fournira des services professionnels à Chemonics ainsi qu’aux autres parties/clients au contrat, tels que ces services sont définis dans la description d’emploi ci‑jointe, correspondant à l’appellation d’emploi. […] L’employé s’engage également à s’acquitter de ses fonctions avec loyauté et de son mieux, de se conformer aux lois et coutumes locales et de se conduire d’une manière appropriée à la MINUK.
+[9] Afin d’obtenir gain de cause, l’appelant doit établir que la somme de 108 687 $ qu’il souhaite déduire de son revenu en vertu du sous‑alinéa 110(1)f)(iii) de la Loi est un montant tiré d’un emploi auprès des Nations Unies.
+[10] La Cour a eu l’occasion de se pencher sur une question semblable à plusieurs reprises.
+[11] La Cour a étudié une question semblable dans la décision Creagh v. Canada, [1997] 1 C.T.C. 2392. Dans cette affaire, l’appelant soutenait qu’il avait droit à la déduction prévue par le sous‑alinéa 110(1)f)(iii) de la Loi parce qu’il était un employé des Nations Unies. Il ressort des faits que l’appelant était employé par Canadian Helicopter, laquelle tirait un revenu de sa participation à une opération de maintien de la paix au Cambodge. Après étude des dispositions en cause, la Cour a déclaré que, pour avoir gain de cause en pareilles circonstances, le contribuable devait établir l’existence d’une relation contractuelle entre lui et les Nations Unies. Il ne suffit pas que le contribuable travaille dans le cadre d’une opération de maintien de la paix, encore faut‑il qu’il soit employé par les Nations Unies. La Cour a conclu que l’appelant n’avait pas droit à l’exonération.
+[12] Dans la décision Godin v. The Queen, [1998] 2 C.T.C. 2853, la Cour a examiné les mêmes dispositions et a clairement déclaré que, pour pouvoir obtenir l’exonération prévue par l’alinéa 110(1)f) de la Loi, le contribuable devait être employé par les Nations Unies.
+[13] L’avocat de l’intimée a affirmé que la décision Godin portait précisément sur la question dont la Cour est saisie en l’espèce. Dans cette affaire, le contribuable avait travaillé en Yougoslavie sous le commandement des Nations Unies. Il avait été embauché en vertu d’un contrat par CARE Canada, qui fournissait des services à la Corporation commerciale canadienne, qui avait à son tour conclu un contrat avec les Nations Unies. Finalement, la Cour a conclu que le contribuable n’était lié aux Nations Unies par aucun contrat et que, par conséquent, il ne pouvait se prévaloir de la déduction prévue par l’alinéa 110(1)f) de la Loi.
+[14] L’avocat de l’intimée a fait valoir qu’il s’agit précisément de la question dont la Cour est saisie en l’espèce. M. Herchak a été embauché en vertu d’un contrat par Chemonics, qui était son employeur, et Chemonics a conclu un contrat avec l’USAID, qui avait elle‑même passé un contrat avec les Nations Unies au Kosovo. Aucune preuve n’indique que l’appelant avait une relation contractuelle avec les Nations Unies. Contrairement à la situation de l’affaire Godin, en l’espèce, l’appelant n’était pas soumis aux ordres des Nations Unies de façon quotidienne. L’avocat de l’intimée a affirmé que les conditions d’emploi de M. Herchak ne militent pas en faveur d’une conclusion voulant qu’il ait été employé par les Nations Unies, et ce, encore moins que les faits de la décision Godin.
+[15] Dans la décision Lalancette v. The Queen, 2001 D.T.C. 352, la Cour s’est penchée sur le cas d’un contribuable qui était policier et qui avait été « prêté » aux Nations Unies dans le cadre d’une mission en Haïti. Dans cette décision, le contribuable était apparemment soumis au commandement et à la supervision quotidienne des Nations Unies. Apparemment, il s’était également vu accorder certains droits et immunités en sa qualité de représentant des Nations Unies. Dans la décision Lalancette, la Cour a déclaré qu’un contribuable ne pouvait s’autoproclamer employé des Nations Unies et qu’afin d’avoir gain de cause, il devait fournir des éléments de preuve provenant des Nations Unies.
+[16] La décision rendue par la Cour dans l’affaire Lalancette a été confirmée par la Cour d’appel fédérale dans l’arrêt Lalancette c. Canada, 2002 CAF 335. La Cour d’appel fédérale a déclaré que le contribuable n’était pas un employé des Nations Unies étant donné que la GRC gardait sur lui le contrôle ultime. Même si les Nations Unies supervisaient quotidiennement l’appelant en Haïti, c’est la GRC qui avait le dernier mot. En l’espèce, il se peut que l’appelant ait travaillé dans un pays placé sous administration des Nations Unies, mais il est clair que Chemonics, qui l’avait embauché, le supervisait et pouvait en tout temps mettre fin à son contrat, gardait sur lui le contrôle ultime.
+[17] Dans la décision Smyth v. The Queen, 2007 D.T.C. 1129, la Cour a étudié l’appel d’un contribuable qui était policier et avait travaillé au Kosovo en 2001 et en 2002. Dans cette affaire, l’appelant prétendait qu’il était employé par les Nations Unies. Toutefois, la Cour a conclu que son salaire lui était versé par le service de police de la ville d’Edmonton, Edmonton Police Service (« EPS »), qu’il était couvert par le régime d’avantages sociaux d’EPS et qu’EPS gardait sur lui tout contrôle dans le cas où il outrepasserait les directives des Nations Unies.
+[18] En l’espèce, l’appelant a été embauché par Chemonics selon les conditions définies dans le contrat qui a été signé le 15 décembre 2004. Ce contrat stipule clairement que l’appelant est un employé de Chemonics.
+[19] L’appelant a travaillé sur un projet appuyant le mandat des Nations Unies au Kosovo. Les Nations Unies ont conclu un contrat avec l’USAID, qui a à son tour conclu un contrat avec Chemonics afin qu’elle fournisse des services en vue d’appuyer le projet proposé par l’USAID. Cette dernière a mis les services de l’appelant à la disposition des Nations Unies, mais aucune preuve n’indique que l’appelant et les Nations Unies étaient liés par une relation employeur-employé.
+[20] La Cour n’est saisie d’aucun élément de preuve indiquant que les Nations Unies considéraient l’appelant comme un employé. En fait, ce serait plutôt le contraire, dans la mesure où l’appelant détenait une carte d’identité des Nations Unies pendant les années précédant la période en cause, mais qu’en 2005, il n’avait qu’une carte de l’USAID.
+[21] L’ensemble de la preuve dont la Cour est saisie en l’espèce tend à démontrer que l’appelant était en fait employé par Chemonics.
+[22] Dans les décisions susmentionnées, la Cour a conclu que, quand une personne est embauchée par une entreprise, laquelle conclut un contrat avec une personne morale, laquelle à son tour conclut un contrat avec les Nations Unies, ladite personne ne peut se prévaloir de la déduction prévue par l’alinéa 110(1)f) de la Loi. L’appelant est resté l’employé de Chemonics en dépit du fait qu’il travaillait à un projet dans un pays placé sous l’administration des Nations Unies.
+[23] Comme la Cour d’appel fédérale l’a déclaré dans l’arrêt Lalancette, afin d’établir si un contribuable est employé par les Nations Unies, la question pertinente est de savoir qui contrôle cet employé. En l’espèce, la preuve indique clairement que les Nations Unies ne contrôlaient pas l’appelant de manière directe de façon quotidienne et que la décision finale au chapitre de la discipline ou de la cessation d’emploi ne leur appartenait pas.
+[24] Avant de conclure, je voudrais dire à quel point j’ai été impressionné par la preuve fournie par l’appelant. Il est évident qu’il a grandement contribué au développement économique du Kosovo. Il convient de le féliciter des efforts qu’il a investis afin d’aider le peuple kosovar.
+[25] L’appel est rejeté et les dépens sont accordés à l’intimée.
+Signé à Vancouver (Colombie-Britannique), ce 30e jour de septembre 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 8e jour de décembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009 CCI 486
+NO DU DOSSIER DE LA COUR :
+2007-2819(IT)G
+INTITULÉ :
+Roman Herchak et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 24 septembre 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge L. M. Little
+DATE DU JUGEMENT :
+Le 30 septembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Peter Kravchuke
+Avocat de l’intimée :
+Me Victor Caux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Peter Kravchuke
+Cabinet :
+Peter Kravchuke
+Barrister & Solicitor
+Fort Langley (Colombie‑Britannique)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,687 @@
+---
+title: "Bousfield v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521036/index.do"
+last_modified: "2022-12-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 169"
+citation2: ""
+neutral_citation: "2022 TCC 169"
+decision_date: "2022-12-28"
+language: "en"
+item_id: "521036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5770
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T09:59:29.012000+00:00"
+cases_cited_count: 16
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0983251b1b5e3e69ad72130ea36d6293671132b06a687e28603e31f55eeac92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bousfield v. The King
+
+- Citation: 2022 TCC 169
+- Decision date: 2022-12-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5770, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bousfield v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-28
+Neutral citation
+2022 TCC 169
+File numbers
+2015-1001(GST)G, 2015-1002(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2015-1001(GST)G 2015-1002(IT)G
+BETWEEN:
+JONATHON BOUSFIELD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard on November 13, 14, 15, 16, 2018 and October 31, November 1, 2, 3, 7, 8 and 9, 2022, at Regina, Saskatchewan
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+The appeals of the Appellant’s 2006, 2007 and 2008 tax years are allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant’s net business income be reduced by $49,211 in 2006;
+(b) the Appellant’s net business income be reduced by $54,668 in 2007;
+(c) the Appellant’s net business income be reduced by $51,485 in 2008; and
+(d) the penalties under subsection 163(2) of the Income Tax Act be deleted for 2006 and 2007.
+The appeals of the Appellant’s reporting periods ending between July 1, 2007 and December 31, 2008 are allowed and referred back to the Minister for reconsideration and reassessment on the basis that net tax be reduced by the following amounts in the following periods:
+Reporting Period
+Reduction in Net Tax
+July 1 to September 30, 2007
+$899.25
+October 1 to December 31, 2007
+$899.25
+January 1 to March 31, 2008
+$650.92
+April 1 to June 30, 2008
+$650.92
+July 1 to September 30, 2008
+$650.92
+October 1 to December 31, 2008
+$650.92
+The parties shall have until January 27, 2023 to reach an agreement on costs, failing which the parties shall have until March 3, 2023 to serve and file written submissions on costs and the parties shall have until March 17, 2023 to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, the parties shall bear their own costs.
+Signed at Ottawa, Canada, this 28th day of December 2022.
+“David E. Graham”
+Graham J.
+Citation: 2022 TCC 169
+Date: 20221228
+Dockets: 2015-1001(GST)G 2015-1002(IT)G
+BETWEEN:
+JONATHON BOUSFIELD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+I. Overview
+[1] In 2006, 2007 and 2008, Jonathan Bousfield operated a taxi and transportation business in Regina. Mr. Bousfield owned a number of vehicles. He used one vehicle as a taxi. He used one or more other vehicles to provide transportation services to a company owned by his brother.
+[2] The Minister of National Revenue reassessed Mr. Bousfield to increase his revenue from the taxi business using a combination of four different alternative assessment techniques. The Minister also increased Mr. Bousfield’s revenue from his transportation business. The Minister further denied various expenses that Mr. Bousfield had claimed on the basis that they had not been incurred or, if incurred, had not been incurred for a business purpose. Finally, the Minister imposed gross negligence penalties.
+[3] The Minister made corresponding adjustments to Mr. Bousfield’s GST reporting periods ending between July 1, 2007 and December 31, 2008.
+[4] Mr. Bousfield has appealed all of the resulting reassessments.
+II. Issues
+[5] The single largest issue in these appeals is the determination of Mr. Bousfield’s revenue from the taxi business.
+[6] I have never seen so many different alternative assessment techniques used for one taxpayer. The Minister calculated Mr. Bousfield’s revenue from the taxi business using the average of four different techniques. Mr. Bousfield has countered with three different techniques. Ultimately, to best determine Mr. Bousfield’s revenue, I have had to create a modified technique of my own.
+[7] These appeals raise interesting issues concerning how alternative assessment techniques can be attacked, the use of industry averages in alternative assessment techniques, the use of assumptions of fact in alternative assessment techniques and the ability of a taxpayer to rely on his or her own alternative assessment techniques.
+[8] After dealing with the revenue from the taxi business, I will turn to the lesser issues of Mr. Bousfield’s revenue from his transportation business, his expenses, the GST impact of any changes that I may make and, finally, the imposition of gross negligence penalties.
+III. Alternative Assessment Techniques
+[9] Alternative assessment techniques are sometimes called “arbitrary assessments” or “net worth assessments”. However, these three terms have very different meanings.
+[10] An arbitrary assessment is an assessment that the Minister issues with little, if any, analysis usually with the goal of prompting a taxpayer who has failed to file a tax return to do so.
+[11] By contrast, an alternative assessment technique involves some level of analysis and calculation (often very detailed) in an attempt to determine the taxpayer’s income or revenue.
+[12] A net worth assessment is one type of alternative assessment technique. While net worth assessments are perhaps the most common form of alternative assessment technique, referring to all alternative assessment techniques as net worth assessments is both inaccurate and potentially confusing.
+[13] These appeals provide an excellent example of the differences among these three terms.
+[14] Mr. Bousfield did not file tax returns for his 2006 and 2007 tax years. In an effort to get him to file, the Minister issued arbitrary assessments. This prompted Mr. Bousfield to provide returns for those years and to file his return for 2008. The Minister then audited Mr. Bousfield. The auditor used alternative assessment techniques in an attempt to more accurately determine Mr. Bousfield’s revenue from the taxi business. The Minister reassessed 2006 and 2007 and assessed 2008 based, in part, on those techniques.
+[15] Mr. Bousfield has responded with three alternative assessment techniques of his own. Two of those techniques attempt to determine his revenue from the taxi business. The third technique is a net worth assessment. It attempts to calculate his total income from all sources.
+A. Use of Alternative Assessment Techniques
+[16] Subsection 152(7) of the Income Tax Act allows the Minister to issue an arbitrary assessment or assess a taxpayer using an alternative assessment technique. [1] The subsection does not establish a specific technique that must be used. [2]
+[17] Alternative assessment techniques should not be the norm. They should be a last resort. [3] That said, although the Minister generally does not use alternative assessment techniques unless a taxpayer’s books and records are an inadequate means of determining the taxpayer’s income or revenue, poor books and records are not a prerequisite to applying an alternative assessment technique.
+[18] The Court does not have to be satisfied that it was necessary for the Minister to use an alternative assessment technique. The Minister can use an alternative assessment technique at any time regardless of the state of the taxpayer’s records. [4]
+[19] Subsection 152(7) specifically states that the Minister is not bound by a return or information supplied by the taxpayer and that the Minister can assess notwithstanding any return or information so supplied. The subsection does not say that the taxpayer’s records have to be inadequate. Once the Minister assesses under subsection 152(7), subsection 152(8) deems the assessment to be correct subject to being vacated or varied on objection or appeal.
+[20] While some cases seem to suggest that unreliable books and records are a prerequisite to a subsection 152(7) assessment, a more accurate description is that reliable books and records are one way that a taxpayer can attack an alternative assessment technique. The five ways of attacking an alternative assessment technique are described below.
+B. Attacking Alternative Assessment Techniques
+[21] When the Minister determines a taxpayer’s income or revenue using an alternative assessment technique, the taxpayer can win:
+(a) by showing that the taxpayer’s income or revenue can be more accurately calculated using the taxpayer’s own books and records; [5]
+(b) by accepting that the alternative assessment technique used by the Minister is appropriate but attacking components of the calculation in an effort to reduce the income or revenue; [6]
+(c) if the year in question is statute barred, by showing that the alternative assessment technique used by the Minister is fundamentally flawed; [7]
+(d) by presenting a different alternative assessment technique that more accurately calculates the taxpayer’s income or revenue; [8] or
+(e) by accepting that the alternative assessment technique used by the Minister was appropriate but showing that the income or revenue calculated by the technique was from a non-taxable source. [9]
+[22] As the third option described above is very important to Mr. Bousfield’s appeals, I will expand on it briefly.
+[23] Unless a year is statute barred, a taxpayer cannot win by simply showing that the Minister’s alternative assessment technique is fundamentally flawed. The Minister will have made assumptions of fact to support her technique, but she will also have made an assumption of fact that the taxpayer earned the income or revenue calculated by that technique. It is up to the taxpayer to demolish that assumption.
+[24] The taxpayer cannot demolish the assumption by simply showing that the alternative assessment technique is fundamentally flawed. The taxpayer can only demolish the assumption by either showing that the assumed revenue or income was from a non-taxable source or presenting the Court with a viable alternative for determining the taxpayer’s revenue or income - be it the taxpayer’s own records or some other technique.
+[25] If that were not the case, consider what would happen to a taxpayer who earned income but had no books and records and had not filed a tax return. If the taxpayer could win by simply showing that the alternative assessment technique the Minister used to assess him or her was fundamentally flawed, the assessment would be vacated and the taxpayer would end up having no income at all for the year. The taxpayer would be rewarded for having failed to comply with his or her obligations under the Income Tax Act.
+[26] The situation is, of course, very different if the year in question is statute barred. In that case, the Respondent would have the burden of proving that the taxpayer had unreported income or revenue. [10] If the Court found the alternative assessment technique that the Minister used to be fundamentally flawed, then the Respondent could not meet that burden. The taxpayer would not have to show that he or she had some other amount of income or revenue.
+C. Mr. Bousfield’s Approach
+[27] In Mr. Bousfield’s case, none of the years in issue is statute barred. Therefore, Mr. Bousfield has to do more than simply show that the Minister’s alternative assessment techniques are fundamentally flawed. He has to turn to one or more of the remaining four methods of attack. He has done so.
+[28] He argues that his books and records are a more accurate means of determining his revenue from the taxi business, that the alternative assessment techniques used by the Minister were flawed and that his own alternative assessment techniques are better. I will address each of these arguments in turn.
+IV. Books and Records Are Inadequate
+[29] Before I review Mr. Bousfield’s books and records, I want to emphasize that the only reason that I am looking at this issue at all is because Mr. Bousfield says that his books and records are a more accurate means of determining his revenue from the taxi business. As discussed above, unreliable books and records are not a prerequisite to an assessment under subsection 152(7).
+[30] Furthermore, I am considering this issue first, not because I have to, but rather because doing so helps to explain Mr. Bousfield’s business in a way that later allows me to more clearly analyze the alternative assessment techniques used by the parties.
+[31] I find that Mr. Bousfield’s books and records from his taxi business are not an adequate means of calculating his revenue. He tracked revenue using different systems but did not follow those systems consistently. He and his taxi drivers either failed to complete the necessary documents or did not retain those documents.
+[32] In order to explain what records Mr. Bousfield should have had, I need to first explain how his taxi business operated.
+A. Taxi Business
+[33] During the years in question, a taxi business in Regina needed four things: a taxi plate issued by the city, a vehicle, a dispatch company and a licenced driver. Mr. Bousfield had a vehicle but did not have a taxi plate. He leased his plate from the owner of the plate through a company called Capital Cabs. Capital Cabs also acted as the dispatcher for the taxi.
+[34] Mr. Bousfield was a licenced taxi driver. Sometimes he drove his taxi himself. However, most of the time, he entered into what he called subleases with various drivers. Under the terms of the subleases, Mr. Bousfield split all taxi fares from a given shift 50/50 with the driver. He and the driver shared the cost of fuel on the same basis.
+[35] Having set out the basics of how Mr. Bousfield’s taxi business operated, I can now describe why his books and records were inadequate.
+B. Taxi Business was Largely Cash-Based
+[36] The vast majority of the revenue earned in Mr. Bousfield’s taxi business was generated in cash. He paid many of his expenses in cash. This included paying his drivers in cash most of the time. There is always an increased risk of under-reporting in cash-based businesses. This makes it all the more important for the business to maintain a reliable system for tracking its revenues.
+[37] Mr. Bousfield primarily used a system of what he called “white envelopes”. Capital Cabs provided him with preprinted envelopes. Mr. Bousfield’s drivers were supposed to write the date, their name and the times of their shifts at the top of the envelopes. They were to then record the pick-up and drop-off points for each fare, the amount of the fare and whether the fare was paid by cash or some non-cash means of payment such as a credit card.
+[38] At the end of the shift, drivers were supposed to use the white envelopes to calculate their 50% share of the fares and their fuel costs. They were to take their share from any cash collected and leave the remaining cash in the envelope for Mr. Bousfield.
+[39] Capital Cabs processed all credit card payments, payments made on corporate accounts, government accounts or school board accounts on behalf of Mr. Bousfield. I will refer to these types of payment as non-cash fares.
+[40] Capital Cabs would send Mr. Bousfield a monthly reconciliation of the non-cash fares they had collected on his behalf and, after deducting Mr. Bousfield’s lease payments to the taxi plate owner and his dispatch fees, would write Mr. Bousfield a cheque.
+[41] In a perfect world, the white envelopes showing the cash and non-cash fares combined with the Capital Cabs monthly statements showing the non-cash fares should have been sufficient to accurately establish what Mr. Bousfield’s revenue from his taxi business was. The Minister could have verified the accuracy of these documents by cross-referencing them against Mr. Bousfield’s bank account deposits and his general ledger. It was not a perfect world.
+C. White Envelopes Were Missing and Incomplete
+[42] Mr. Bousfield could not produce most of the white envelopes. For example, for 2006, he could only produce five envelopes for May, two envelopes for April and November and no envelopes at all for January, March, June, October or December. In total, he produced only 81 envelopes for the entire year. If the taxi were driven two shifts a day, there should be 780 envelopes for the year. Even accounting for days when the taxi might have been being serviced, days when no drivers were available, bad weather days and drivers who filled out envelopes for more than one day, Mr. Bousfield is still dramatically short of envelopes. Without these white envelopes, Mr. Bousfield’s records are not a reliable means of determining his revenue.
+[43] In addition, the white envelopes that Mr. Bousfield did provide were missing many key pieces of information such as the driver’s name, the date and the times of the shift. This makes it difficult, if not impossible, to reconcile these envelopes to the deposits that Mr. Bousfield made to his bank account and entries that he made to his general ledger.
+[44] Furthermore, because Mr. Bousfield paid the drivers in cash rather than by cheque, he did not have any alternative means of proving what their share of revenue was for the missing envelopes.
+D. Other Methods of Tracking Revenue Were Inadequate
+[45] For some unexplained reason, Mr. Bousfield used a different system to track revenue for his main daytime driver. That driver was Ron Hooper. For the most part, Mr. Hooper worked day shifts from Monday to Friday during the school year.
+[46] Mr. Hooper and Mr. Bousfield each used their own systems to track revenue. Neither of these systems involved the white envelopes.
+[47] Mr. Hooper kept a logbook where he recorded his fares. It appears to me that he did not give a copy of that logbook to Mr. Bousfield.
+[48] Mr. Bousfield initially tracked Mr. Hooper’s fares using small slips of paper. He filled out these slips on a monthly basis. They showed no daily details, could not be reconciled to Mr. Hooper’s logbook and did not break out fares into cash or non-cash payments. Mr. Bousfield did not explain how he knew how much to put on the slips each month.
+[49] Towards the end of 2006, Mr. Bousfield abandoned even this slip system and simply used spare scraps of paper. He reverted to the slip system for the first half of 2007. He either used no system at all in the second half of 2007 and all of 2008 or kept no records of the system that he used.
+[50] As set out in more detail below, I find that only a small portion of Mr. Hooper’s cash fares were recorded as revenue on the slips and scraps of paper. This means that only a small portion of those fares were recorded in Mr. Bousfield’s books. This makes this system of recording revenue completely unreliable.
+E. Mr. Bousfield Lacks Bookkeeping Skills
+[51] In the years in question, Mr. Bousfield used QuickBooks to account for his business income. He readily admits to being unfamiliar with the program and unsure how to properly record transactions. Although the entire general ledger was not entered into evidence, it is clear from the portions that were entered that Mr. Bousfield regularly made errors in his entries.
+F. Conclusion
+[52] Based on all of the foregoing, I find that Mr. Bousfield’s books and records are not a reliable way of determining his revenue from the taxi business. The only way to determine Mr. Bousfield’s taxi revenue is through some sort of alternative assessment technique.
+[53] I will now review the techniques used by the Minister, then the techniques proposed by Mr. Bousfield and, finally, the modified technique that I have concluded most accurately captures Mr. Bousfield’s revenue from his taxi business.
+V. Alternative Assessment Techniques Used by the Minister
+[54] The auditor, Sherry Canton, testified about the alternative assessment techniques that she employed to determine Mr. Bousfield’s revenue. I found Ms. Canton to be a credible witness. While I do not necessarily agree with the approaches that she chose, I was impressed by her detailed understanding of the issues at hand.
+[55] Ms. Canton used the average of four different alternative assessment techniques to determine Mr. Bousfield’s taxi revenue. I will review each of those techniques.
+A. Average Daily Revenue Technique
+[56] The first technique that Ms. Canton used to determine Mr. Bousfield’s taxi revenue involved calculating the taxi’s average daily revenue.
+[57] Before considering the technique itself, I first need to address the use of industry averages and the importance of assumptions of fact in alternative assessment techniques.
+(i) Use of Industry Averages and Statistics Canada Figures
+[58] Both parties relied on or attempted to rely on industry averages and Statistics Canada figures in their alternative assessment techniques. These types of averages and figures often appear in alternative assessment techniques. However, it would be extremely unusual for a party to actually call a witness to explain how the averages or figures were determined. In the absence of such a witness, what should the Court do with these types of averages and figures? The answer depends on how they are being used.
+[59] There is nothing wrong with the Minister using an industry average or Statistics Canada figure as the basis for an assumption. In fact, the Minister routinely does so in alternative assessment techniques.
+[60] In Bigayan v. The Queen, Chief Justice Bowman dealt with Statistics Canada figures that had been used to estimate personal expenditures in a net worth assessment. He observed that no one from Statistics Canada had been called as a witness and that he had no evidence of how the figures were arrived at. Yet he concluded that, “[u]nreliable as the StatsCan figures may be they at least represent the Minister’s assumptions that it was the appellant’s onus to demolish.” [11]
+[61] In other words, the Minister does not have to prove that the average or figure is accurate. The Minister simply makes an assumption of fact that the average or figure applied to the taxpayer. It is up to the taxpayer to demolish the assumption.
+[62] By contrast, if either party wants to rely on industry averages or Statistics Canada figures as evidence, that party will need to call a witness to explain how the averages or figures were determined. In the absence of such a witness, such averages and figures should not be admitted into evidence. They are hearsay.
+[63] An example will help to make this distinction clear. As described in Bigayan, when conducting a net worth assessment the Minister sometimes relies on Statistics Canada averages to estimate a taxpayer’s personal expenses. Say that, using those averages, the Minister assumed that a taxpayer spent $1,000 a month on food for himself and his family.
+[64] The Respondent would not have to call a witness from Statistics Canada to explain how that average had been determined. The Minister would simply make the assumption.
+[65] The taxpayer would have to demolish that assumption. He could do that through oral testimony or, better yet, by showing proof of his actual grocery expenditures.
+[66] The taxpayer could not, however, demolish the assumption by pointing to a report from Health Canada that said families spent $700 a month on food unless he called a witness from Health Canada. This is because, unlike the Minister, who relied on the Statistics Canada figures to form the basis of her assumption, the taxpayer would be trying to enter the Health Canada report for the truth of its contents.
+(ii) Assumptions of Fact in Alternative Assessment Techniques
+[67] The Respondent is required to set out in the Reply the assumptions of fact that the Minister made in reassessing. [12] If the Minister made an assumption but the Respondent failed to include it in the Reply, the Respondent does not enjoy the benefit of the assumption being presumed to be true. If the Respondent wants to rely on the unpled assumption, the Respondent must introduce evidence to support it just as the Respondent would if he wanted to rely on a fact that the Minister had not assumed. [13]
+[68] Where the Minister used an alternative assessment technique, the Respondent should not simply plead that that the Minister assumed the taxpayer had $X in income or $Y in revenue. The Respondent should also plead the facts that the Minister assumed in making the calculation that gave rise to that income or revenue. This is true both because the Respondent has a duty to fully disclose to the taxpayer the precise findings of fact which gave rise to the controversy [14] and because, if the Respondent fails to do so and the taxpayer challenges those facts, the Respondent will be left having to prove them.
+(iii) Analysis of the Technique
+[69] Having established the ground rules for industry averages and assumptions of fact, I will now turn to my analysis of Ms. Canton’s average daily revenue technique.
+[70] Ms. Canton reviewed a study on the Regina taxi industry that a consultant had prepared for the City of Regina. Based on her reading of that study, she assumed that Mr. Bousfield’s taxi earned $800 per day.
+[71] Ms. Canton recognized that repairs, driver illness and weather would likely have prevented Mr. Bousfield’s taxi from being on the road every day of the year. She estimated that he drove 343 days of the year. Multiplying her assumed daily revenue figure of $800 by the 343 days, Ms. Canton determined that Mr. Bousfield’s taxi would have had $274,000 in revenue each year.
+[72] I have two concerns with this technique. First, while it is clear to me that Ms. Canton made an assumption of fact that Mr. Bousfield’s taxi earned $800 in revenue per day, 343 days per year, the Respondent did not plead those assumptions of fact in the Reply. This means that the Respondent needed to prove these facts if the Respondent wanted to rely on them. The Respondent failed to do so.
+[73] While I find Ms. Canton’s reasoning for picking 343 days per year to be appealing, in the absence of an assumption, it is nothing more than her opinion.
+[74] As for the $800 in revenue per day, I have no evidence of that figure at all. The Respondent cannot rely on the Regina taxi study. Had the Respondent pled the assumption that Mr. Bousfield earned $800 per day in revenue, Mr. Bousfield would have had to demolish that assumption. Without that assumption being pled, the Respondent cannot use the taxi study as evidence of daily taxi revenues in Regina. [15]
+[75] I understand the difficult position that the Respondent was in when pleading. Because Ms. Canton used the average of four different techniques, the Respondent needed to plead the assumptions of fact relating to each of those techniques. Those assumptions would, in some cases, have been contradictory. That does not, however, relieve the Respondent from his obligations.
+[76] Even if the Respondent had pled Ms. Canton’s assumption that Mr. Bousfield’s taxi had $800 in revenue per day, I would still have had difficulty with this figure. Ms. Canton appears to have accidentally doubled the amount of daily revenue set out in the taxi study. The study states that taxis have revenue ranging “from an average low of $400 per day to an estimated high of $600 per day or greater when these taxis are utilized in a double shift system in peak winter season”. [16]
+[77] Ms. Canton appears to have misunderstood the above quotation to mean that revenue ranged between $400 and $600 per shift as opposed to per day. In an effort to be conservative, she used the $400 figure. However, since Mr. Bousfield ran his taxi over two shifts, she used twice that figure (i.e. $800) as the daily revenues. Using the figures that I understand she intended, the revenue should have been $137,200. [17]
+[78] My second concern with this technique is that it assumes that Mr. Bousfield’s taxi business was operated in the same manner as all of his competitors’ businesses. Where possible, an alternative assessment technique that accounts for the specifics of a taxpayer’s business should be preferred over one that is based purely on industry averages.
+[79] As mentioned above, Mr. Bousfield subleased his taxi to drivers on a 50/50 arrangement. At the time, the rest of the taxis operated through Capital Cabs required drivers to pay a flat fee to rent the taxi for a given shift. Under that system, the driver kept all of the fares. It appears to me that a driver working on a 50/50 split would have less incentive to track down every possible fare than a driver who was going to lose money if he or she did not generate enough fares to cover his or her fixed fee for the shift. Since Mr. Bousfield’s taxi was the only taxi at Capital Cabs that operated on a sublease basis, his revenues may have lagged those of others in the industry.
+[80] For all of the above reasons, I find that the average daily revenue technique is not an appropriate means of determining Mr. Bousfield’s revenue from his taxi business.
+B. Average Trip Revenue Technique
+[81] The second alternative assessment technique that Ms. Canton used involved calculating revenue using an assumed fare for an average trip.
+[82] Ms. Canton assumed that the average taxi trip in Regina took 20 minutes. She divided a 24-hour day by 20 minutes and concluded that there must have been 72 trips per day. She assumed an average fare of $11.40 per trip. That meant that a taxi would have earned $820 per day. She multiplied that figure by the 343 working days that she had used in her average daily revenue technique and concluded that Mr. Bousfield’s taxi had earned $281,260 in revenue each year.
+[83] I have two concerns with this approach. First, while it is clear to me that Ms. Canton made an assumption of fact that Mr. Bousfield’s taxi earned $11.40 per trip, took 72 trips per day and drove 343 days per year, the Respondent did not plead those assumptions of fact in the Reply. This means that the Respondent needed to prove these facts if the Respondent wanted to rely on them. The Respondent failed to do so.
+[84] In the absence of an assumption, the 343 days per year figure is simply Ms. Canton’s opinion. So is the 72 trips per day figure.
+[85] Even if the Minister had assumed that the taxi took 72 trips per day, I would not have found that to be a reasonable approach. Ms. Canton essentially assumed that the trips were continuous. She did not build in time for washroom breaks, coffee breaks, travel in an empty taxi to pick up a customer at a specific location or travel back from a customer’s drop-off in an empty taxi.
+[86] As for the $11.40 per ride, Ms. Canton was unable to recall where she came up with this figure. It was not from the taxi study.
+[87] Mr. Bousfield analyzed figures from Ms. Canton’s summaries of the white envelopes. He determined that the average fare on trips that were reported on his white envelopes was $9.77 in 2006, $10.47 in 2007 and $10.94 in 2008. In the circumstances, this is the best evidence that I have. [18] However, even if I accepted those figures, this technique would still not be useful.
+[88] My second concern with Ms. Canton’s technique is that it assumes that the taxi was driven all night. This conflicts with the Minister’s pled assumptions that the taxi operated during the day and evenings on weekdays and only operated 24 hours a day on weekends. [19] As set out in more detail below, none of the witnesses provided reliable evidence regarding the hours and days that they drove the taxi. However, I am comfortable concluding from their evidence that the taxi was not driven between midnight and 6:00 a.m. on weekdays.
+[89] For all of the above reasons, I find that the average trip revenue technique is not an appropriate means of determining Mr. Bousfield’s revenue from his taxi business.
+C. Industry Cash to Non-Cash Ratio
+[90] The third alternative assessment technique that Ms. Canton used examined the ratio of cash fares to non-cash fares.
+[91] At the time of the audit, Ms. Canton worked in the Canada Revenue Agency’s underground economy unit. Her unit had completed many audits of taxi businesses in Regina. She testified that her unit had determined that, on average, taxis collect 85% of their fares in cash and 15% in non-cash forms of payment.
+[92] As set out above, non-cash fares were run through Capital Cabs. Capital Cabs provides Mr. Bousfield with a monthly accounting of those fares. That accounting is a reliable source.
+[93] Ms. Canton calculated that the total revenue from Mr. Bousfield’s taxi should have been equal to his non-cash payments received through Capital Cabs divided by 15%. This is a reasonable approach but I have two concerns.
+[94] The first concern is that, once again, the Respondent did not plead the relevant assumptions of fact in the Reply. Ms. Canton clearly assumed that 85% of the taxi’s fares were cash fares but this assumption was not pled. This means that the Respondent needed to prove this fact if the Respondent wanted to rely on it. Ms. Canton’s testimony that it came from her unit’s audit experience is not enough.
+[95] My second concern is that the technique assumes that, on average, the mix of cash and non-cash fares would be consistent throughout the day, week and year. That is not an unreasonable assumption if the taxi operates in a consistent manner. However, Mr. Bousfield’s taxi did not operate in a consistent manner.
+[96] During the school year, the Regina public school board used taxi drivers to transport certain children to school. Various government social service bodies also used taxis to transport children. For example, they would use a taxi to transport a child from a foster home to a supervised visit with a parent. For simplicity, I will refer to these types of trips as “child trips”.
+[97] Child trips generally occurred during the daytime, on weekdays, during the school year. Mr. Hooper drove those shifts. He would pick up the children in the morning, transport them to school and then return them home at the end of the school day. In the case of younger children, Mr. Hooper had to return them home around noon.
+[98] While Mr. Hooper was free to pick up normal fares during the parts of the day that he was not making child trips, it was clear that child trips made up a significant part of his day.
+[99] The school board and public service bodies arranged for the child trips through contracts with Capital Cabs. They paid Capital Cabs directly. Therefore, all child trips were non-cash trips.
+[100] Over the course of the entire year, child trips made up more than 75% of all non-cash fares. As a result, they had the potential to significantly skew the ratio of cash to non-cash fares. It would be unreasonable to use an industry average that did not involve child trips to determine the revenue of a taxi that frequently took those trips.
+[101] Overall, while I prefer this technique to the two previous techniques used by Ms. Canton, I have no evidence supporting the ratio of cash to non-cash fares and have serious concerns that the inclusion of the child trips in the non-cash fares may have significantly skewed the results.
+D. Actual Cash to Non-Cash Ratio
+[102] The final technique that Ms. Canton used was the same as the previous technique except, instead of using industry averages, she used the ratio of cash to non-cash fares of Mr. Bousfield’s taxi itself.
+[103] Ms. Canton examined a sample of the white envelopes that Mr. Bousfield had provided to her. She determined what the ratio of cash fares to non-cash fares was on those envelopes. The percentage of cash fares was slightly lower than the ratio that the CRA’s industry average suggested.
+[104] Ms. Canton applied that ratio to the non-cash fares reported by Capital Cabs and determined what the total revenue from Mr. Bousfield’s taxi would have been.
+[105] Since Mr. Hooper did not use white envelopes, the child trips were not included in the ratio that Ms. Canton calculated. However, she did not make any adjustment for the child trips. Instead, she applied the ratio to all non-cash fares. This had the same effect of skewing the outcome described above.
+[106] Of the four techniques used by Ms. Canton, I find this to be the most reliable. It is preferable to the third technique, as it uses data directly from Mr. Bousfield’s business rather than industry averages. Although the Respondent did not plead the assumptions that Ms. Canton made, the evidence underlying those assumptions was entered into evidence.
+[107] However, the technique still does not address the fact that the child trips artificially inflate the non-cash fares against which the ratio is applied. While this technique produced the lowest revenue in each year, that revenue is still, in my view, significantly inflated.
+[108] During the trial, Ms. Canton prepared her own amended version of her actual cash to non-cash ratio technique to try to address the child trip issue. To do so, she reviewed the evidence for Mr. Bousfield’s 2006 tax year on a level of detail that she had not had time to conduct during her audit. In particular, she reviewed every available white envelope for 2006 instead of just a sample and took an in-depth look at Mr. Hooper’s fares.
+[109] I prefer her updated analysis but I still find that it did not capture key aspects of the evidence. In addition, it overlooked the fact that Mr. Bousfield was only entitled to 50% of Mr. Hooper’s cash fares.
+E. Average of Alternative Techniques
+[110] As described above, Ms. Canton ultimately calculated Mr. Bousfield’s taxi business revenue by taking the average of the revenues calculated using the four techniques describe above. She then reduced that revenue by 50% to account for the fact that Mr. Bousfield had to share his revenue with the drivers. The following chart summarizes Ms. Canton’s conclusions:
+2006
+2007
+2008
+Average Daily Revenue
+$274,400
+$274,400
+$274,400
+Average Trip Revenue
+$281,260
+$281,260
+$281,260
+Industry Cash to Non-Cash Ratio
+$257,735
+$335,578
+$353,384
+Actual Cash to Non-Cash Ratio
+$161,084
+$228,803
+$182,785
+Total
+$974,479
+$1,120,041
+$1,091,829
+average of above methods
+$243,620
+$280,010
+$272,957
+Appellant’s 50% share
+$121,810
+$140,005
+$136,479
+reported revenue [20]
+$55,437
+$65,084
+$64,609
+unreported revenue
+$66,373
+$74,921
+$71,870
+F. Conclusion
+[111] In summary, I have not found any of the four alternative assessment techniques used by Ms. Canton to be reliable. In addition, three of the four techniques were neither supported by assumptions of fact nor evidence.
+[112] However, as set out above, Mr. Bousfield must do more than just show me that those techniques are unreliable. The Minister assumed that Mr. Bousfield earned $121,810, $140,005 and $136,479 in revenue from his taxi business in 2006, 2007 and 2008 respectively. [21] In order to demolish those assumptions, Mr. Bousfield must show me how to better calculate his income.
+[113] I will now turn to the three alternative assessment techniques that Mr. Bousfield says do so.
+VI. Alternative Assessment Techniques Proposed by Appellant
+[114] Mr. Bousfield submits that I should determine his income using one of three alternative assessment techniques: a net worth assessment, a calculation based on estimated hourly taxi revenue and a modified version of Ms. Canton’s actual cash to non-cash ratio technique.
+[115] These calculations were prepared by an accountant named Loren Wirth. Mr. Wirth assisted Mr. Bousfield during the audit and his objection.
+[116] Before analyzing these techniques, I would like to quickly address an issue that arose at trial regarding Mr. Wirth’s alternative assessment techniques.
+A. Comments on Expert Evidence
+[117] Counsel for the Respondent objected to Mr. Wirth’s calculations being introduced on the grounds that they amounted to expert evidence. I disagreed.
+[118] It would be grossly unfair for me to allow the Minister to put forward evidence of the alternative assessment techniques that she employed while preventing a taxpayer from doing the same without calling an expert witness.
+[119] As a CPA, Mr. Wirth brought his accounting expertise to bear in preparing his net worth assessment just as Ms. Canton brought her auditing expertise to bear in preparing her calculations. Their respective skills allowed them to perform competent calculations that I would be more likely to accept. But neither of them provided expert evidence.
+[120] I am a judge of the Tax Court of Canada. My role is to determine what Mr. Bousfield’s income was. I do that based on the evidence and the law. Ms. Canton’s and Mr. Wirth’s calculations may assist me by collating and organizing parts of that evidence, but their calculations are not expert evidence. To hold otherwise would be to delegate to them the very task assigned to me—the task of determining Mr. Bousfield’s income.
+[121] Having discussed the introduction of the evidence, I will now move to the first alternative assessment technique proposed by Mr. Wirth.
+B. Net Worth Assessment
+[122] Mr. Bousfield argues that, if an alternative assessment technique must be used, a net worth assessment would be a more accurate technique than any used by Ms. Canton.
+[123] Net worth assessments are one of the most common alternative assessment techniques that the Minister uses. They can be a very useful technique in the appropriate circumstances.
+[124] Mr. Wirth’s net worth assessment indicated that Mr. Bousfield had correctly reported his income from all sources and therefore had no unreported revenue from his taxi business.
+[125] I found Mr. Wirth to be a credible witness. However, for the following reasons, I did not find his calculation to be a reliable method of determining the revenue from Mr. Bousfield’s taxi business.
+[126] The first problem with his net worth assessment was that significant elements of the calculation were not supported by evidence. In net worth assessments, the Respondent will typically attach a copy of the net worth calculation as a schedule to the Reply. This simplifies the assumptions somewhat. Rather than setting out an individual assumption of fact for each asset, liability and expenditure, the Respondent simply refers in the assumptions to the assets, liabilities and expenditures identified in the schedule.
+[127] A taxpayer who argues that his or her income should have been determined using a net worth assessment does not have the luxury of relying on assumptions of fact. He or she has to introduce evidence supporting every element of the calculation.
+[128] Mr. Bousfield represented himself at trial. It was clear that he did not understand how net worth assessments worked. As a result, when he testified about the net worth assessment, I made sure that he had the chance to introduce the evidence needed to support every element of the calculation. However, there were a number of key documents concerning various real estate holdings and loans that he did not have. Due to the non-arm’s length nature of a number of his real estate transactions in the years in question, I was not prepared to simply rely on his oral descriptions of the relevant amounts. I needed to see actual documents. The fact that Mr. Bousfield did not produce such documents significantly reduced the reliability of Mr. Wirth’s calculation.
+[129] The second, and most important, problem with the net worth assessment was the personal expenses. The determination of a taxpayer’s personal expenses is a key part of a net worth assessment. In fact, in many cases, most of the unreported income calculated in the net worth assessment flows from the personal expenses. This is hardly surprising. Many people spend virtually all of their income each year, not on acquiring assets or paying off liabilities, but rather on simply living. They pay rent, buy groceries, take vacations, pay utility bills, purchase new clothes, eat out, go to movies, etcetera. They pay for these expenses with the income they earn. A net worth assessment that did not properly account for these expenses could dramatically under-calculate their income.
+[130] There are a number of different ways that an auditor can determine a taxpayer’s personal expenses. The most common method is known as a withdrawal analysis. In simple terms, the auditor reviews the taxpayer’s bank statements and credit card bills to look for personal expenses. The auditor then adds to those expenses any cash withdrawals from the taxpayer’s bank account and any cash advances from the taxpayer’s credit card on the assumption that they were used to pay for other personal expenses.
+[131] Mr. Wirth did not perform any such analysis. The personal expenses on his net worth assessment are simply estimates. Neither he nor Mr. Bousfield could recall how they arrived at the figures. They appear to be unrealistically low. While Mr. Bousfield did not strike me as someone who was living an extravagant lifestyle, I do not think that he was living on between $15,200 and $16,600 per year.
+[132] Even if Mr. Wirth had conducted a full withdrawal analysis, I would still have had concerns about the reliability of his calculation. Withdrawal analyses work well when a taxpayer deposits his or her revenues into his or her bank account. They tend to underestimate expenses when a taxpayer receives income in cash, keeps the cash in it his or her pocket and then uses the cash to pay for personal expenses.
+[133] The evidence shows that Mr. Bousfield does not deposit the cash he receives from his taxi business and sometimes cashes cheques rather than depositing them. A withdrawal analysis would have missed expenses paid with this cash.
+[134] For all of the above reasons, I find that the net worth assessment performed by Mr. Wirth is not an accurate means of determining Mr. Bousfield’s income.
+C. Average Hourly Revenue
+[135] Mr. Bousfield submits that, if an alternative assessment technique other than the net worth assessment must be used, a calculation based on the taxi’s average hourly revenue would provide a much more accurate picture of his revenue than any of the techniques used by Ms. Canton.
+[136] Mr. Wirth performed this calculation for Mr. Bousfield as well. Mr. Wirth looked at the taxi study relied on by Ms. Canton. That study indicated that a competitor’s taxis earned an average of $25.95 in revenue per hour in 2010. [22] Accounting for some level of inflation, Mr. Wirth projected what the equivalent hourly rate would have been for 2006 to 2008. Mr. Wirth then applied that hourly rate to the hours that Mr. Bousfield told him the drivers had worked during the years in question. His calculations indicated that, if anything, Mr. Bousfield had over-reported his revenue.
+[137] I admitted the taxi study into evidence for the limited purpose of showing where Ms. Canton obtained the figure she used in her average daily revenue technique. I did not allow it in for the truth of its contents. If Mr. Bousfield wanted to rely on the study, he needed to bring it in through the study’s author. Since he did not do so, there is no evidence supporting the $25.95 per hour figure.
+[138] That said, I acknowledge that the technique Mr. Wirth chose is better than Ms. Canton’s average daily revenue and average trip revenue techniques because it is based on the hours that the taxi was actually in operation. However, this strength is also this technique’s greatest weakness.
+[139] None of the drivers recorded their hours on the white envelopes despite there being a clear place for them to do so. Therefore, to accept the revenue calculated under this technique, I have to first accept that Mr. Bousfield accurately described to Mr. Wirth the hours that the taxi was operated. I do not.
+[140] I did not find Mr. Bousfield to be a reliable witness in this regard. His explanation of which driver worked which shifts changed repeatedly both between the audit and the trial and during the trial itself.
+[141] Mr. Bousfield called three of his drivers as witnesses: Sam Bodnar, Alex Blue and Ron Hooper.
+[142] I did not find Sam Bodnar to be a reliable witness. His evidence largely contradicted that of Mr. Bousfield. To be fair, the years in question were at least 14 years ago. It is not surprising that their memories would have faded with time. However, I also question whether Mr. Bodnar was actually as lackadaisical about working as he suggested. He painted a picture of being someone who only worked when he felt like it. I have a hard time picturing why Mr. Bousfield would work with a driver with such a lack of profit motivation on a 50/50 fare split. It seems more likely to me that Mr. Bodnar was playing down the number of hours and days that he worked.
+[143] I did not find Mr. Blue to be either credible or reliable. He had a very poor memory and was easily confused but I also felt that he was trying to hide the amount of work that he did. He testified that he hardly worked in the summer months but the white envelopes entered into evidence show that he worked substantially all of July and August in each of the years in question. He was also evasive when asked if he had reported the income that he earned driving for Mr. Bousfield.
+[144] I found Ron Hooper’s description of the hours that he worked to be both credible and reliable. It matched the documentary evidence. For the most part, it also matched Mr. Bousfield’s description. Mr. Hooper testified that he worked during the December and March school breaks. Mr. Bousfield had earlier testified that he did not. I prefer Mr. Hooper’s evidence.
+[145] Mr. Bousfield had a fourth driver named Lloyd Amniot. Mr. Amniot has since passed away. Mr. Bousfield’s description of Mr. Amniot’s hours was inconsistent. Mr. Bousfield stated variously that Mr. Amniot stopped driving in 2006, [23] that he stopped driving in 2007 [24] and that he drove throughout the years in question. [25]
+[146] In conclusion, I do not have enough reliable evidence of when the taxi was operated to be able to rely on an alternative assessment technique that calculates revenue on an hourly rate.
+D. Modified Actual Cash to Non-Cash Ratio
+[147] Mr. Bousfield submits that, if neither of the above alternative assessment techniques is acceptable, a modified version of Ms. Canton’s actual cash to non-cash ratio technique that accounts for the child trips driven by Mr. Hooper would be appropriate.
+[148] Mr. Bousfield points me to an amended version of Ms. Canton’s calculation that Mr. Wirth prepared. Again, Mr. Wirth’s calculation indicates that, if anything, Mr. Bousfield over-reported his revenue.
+[149] This alternative assessment technique is not an accurate means of determining Mr. Bousfield’s taxi revenue. It fails to take into account key aspects of the evidence. Most importantly, it assumes that Mr. Bousfield properly recorded Mr. Hooper’s cash fares. As set out in detail below, I find that Mr. Bousfield did not properly record those fares.
+VII. Summary of Alternative Assessment Techniques
+[150] In summary, I am not satisfied that any of the alternative assessment techniques proposed by the parties are an appropriate way to determine Mr. Bousfield’s taxi revenue.
+[151] There are serious problems with the Minister’s techniques. However, the Minister assumed that Mr. Bousfield earned certain revenue from his taxi and it is up to him to demolish that assumption by presenting a viable alternative technique. Mr. Bousfield was unable to do so through his own books and records or through any of the three techniques he has put forward.
+[152] Fortunately for Mr. Bousfield, enough evidence was presented that I can make a calculation of my own, one that I am satisfied more accurately calculates Mr. Bousfield’s taxi revenue than any of the parties’ techniques.
+[153] I find that, in the circumstances, the best alternative assessment technique is a modified version of Ms. Canton’s actual cash to non-cash ratio technique. I will first explain this technique and how I have applied it to 2006. Then I will explain how I have modified to work for 2007 and 2008.
+VIII. Modified Alternative Assessment Technique for 2006
+[154] I find that Mr. Bousfield failed to report $20,864 of his taxi revenue in 2006. That conclusion is based on the following key findings.
+A. 45% of Mr. Hooper’s Fares Were Cash Fares
+[155] Mr. Hooper and Mr. Bousfield both testified that Mr. Hooper had very few cash fares. I do not believe them.
+[156] As set out above, Mr. Hooper did not use white envelopes. Instead, he kept a logbook where he recorded his fares. Both parties entered samples of Mr. Hooper’s logbook into evidence. [26] Those samples show two columns of fares. It appears to me that one column is for cash fares and the other for non-cash fares. This would be consistent with the method used on the white envelopes. Unfortunately, Mr. Hooper could not identify which column was which.
+[157] I have reviewed the largest two samples of logbook entries. [27] For the purposes of my review, I have taken the more conservative approach and assumed that the column with the lower total over the entire period covered by the samples was the cash column. This accords with the evidence that most of Mr. Hooper’s fares during the day were child trips. Based on my review, I find that 45% of Mr. Hooper’s fares were cash fares.
+B. Mr. Bousfield Did Not Record Most of Mr. Hooper’s Cash Fares in His Books
+[158] Mr. Bousfield’s books show that he made monthly payments to Mr. Hooper. Mr. Bousfield and Mr. Hooper testified that, unlike other drivers, who were paid daily, Mr. Hooper was paid monthly. I do not believe them.
+[159] I accept that Mr. Bousfield paid Mr. Hooper for the child trips monthly. Those trips were paid through accounts with Capital Cabs. As a result, Mr. Bousfield had to wait for Capital Cabs to pay him before he could pay Mr. Hooper.
+[160] I do not, however, accept that Mr. Hooper was paid his share of the cash fares monthly. I find it far more likely that Mr. Bousfield and Mr. Hooper dealt with Mr. Hooper’s cash fares on a daily basis. It seems very unlikely that Mr. Hooper would have had cash in hand at the end of a shift and been happy to give 100% of it to Mr. Bousfield and then wait at least a month to be paid his 50% share.
+[161] I am also disturbed by an unusual payment process that Mr. Bousfield used to pay Mr. Hooper. Had Mr. Bousfield deposited his Capital Cab cheque into his bank account and then written a cheque to Mr. Hooper for Mr. Hooper’s share of the fares, it would have been relatively easy to trace the payments that Mr. Hooper received and to determine whether those payments were for cash fares or non-cash fares. That is not, however, what Mr. Bousfield did.
+[162] Instead, Mr. Bousfield would take his cheque from Capital Cabs, cash it at the bank, have the bank prepare a bank draft payable to Mr. Hooper out of the proceeds, possibly take some cash for himself and then deposit whatever was remaining in his account. Mr. Bousfield only kept copies of some of the bank drafts.
+[163] This method of depositing cheques suggests that Mr. Bousfield had an intention to either hide his income or assist Mr. Hooper in hiding his income or both. Either way, it made it very difficult for the Minister to verify how much revenue Mr. Bousfield had earned from Mr. Hooper’s work.
+[164] As a result, I have to make assumptions about Mr. Hooper’s cash fares based on the available evidence. Mr. Bousfield has only himself to blame for this. He chose to use record keeping and payment methods that obscured his revenue and expenses. If he wanted his income to be accurately determined, he should have used a system designed for that purpose.
+[165] As set out above, Mr. Bousfield prepared small slips or scraps of paper to track Mr. Hooper’s fares. Ms. Canton’s review found that the slips reported only $906 in cash fares in 2006. I accept her calculation. I find that these slips only recorded a small portion of Mr. Hooper’s cash fares.
+[166] Mr. Hooper had $34,138 in non-cash fares in 2006. [28] If I apply the 45% ratio, that means that he had $27,930 in cash fares. [29] Since only $906 of those fares were reported, [30] I find that he collected $27,025 in cash fares that were not reported.
+C. The Cash to Non-Cash Ratio was 80% to 20%
+[167] Mr. Bousfield neither provided white envelopes for every month nor provided every white envelope for the months where he did provide them. Without white envelopes, there is no way to directly verify the cash fares from the taxi. They have to be estimated through an indirect process.
+[168] I can reasonably assume that the cash to non-cash ratio shown on the white envelopes that were provided would be the same on the white envelopes that were not provided. Based on Ms. Canton’s review of all of the white envelopes provided by Mr. Bousfield for 2006, I find that the ratio was 80% cash to 20% non-cash. [31]
+[169] Since Mr. Hooper’s fares were not accounted for in white envelopes, his child trips have no effect on this ratio.
+D. That Ratio Can Be Applied to Non-Cash Fares Not Already Accounted For
+[170] The Capital Cabs statements show that the taxi had $44,504 in non-cash fares in 2006. [32] Ms. Canton calculated that $34,138 of those fares was Mr. Hooper’s fares from child trips. [33] I accept her calculation.
+[171] Ms. Canton determined that the white envelopes that Mr. Bousfield provided reported $3,875 in non-cash fares for 2006. [34] That means that the missing white envelopes must have reported $6,491 in non-cash fares. [35]
+[172] This information allows me to determine the cash fares from the missing envelopes. By applying the 80% cash ratio to the $6,491 in non-cash fares, I conclude that the missing white envelopes would have contained $25,964 in cash fares. [36]
+E. All Fares Other Than Child Trips Were GST Included
+[173] The taxi meter tracks fares on a GST included basis. This means that I need to back out GST from all fares. Although I was only provided with oral evidence on this point, my understanding is that child trips and certain trips known as “289’s” did not attract GST. Those fares totalled $33,541.35 in 2006. [37] I will accordingly back out GST from any fares above that amount.
+[174] GST was 7% for the first half of 2006 and 6% for the second half. For simplicity, I will use a 6.5% rate in my calculations.
+F. Mr. Bousfield Under-Reported His 2006 Taxi Revenue by $20,864
+[175] All of the foregoing leads me to the conclusion that Mr. Bousfield under-reported his taxi revenue by $20,864. My calculations are set out below in Schedule “A”.
+[176] The Minister assessed Mr. Bousfield on the basis that he had $121,810 in taxi revenue. I have concluded that he had $76,301. I will accordingly reduce his income from the taxi business by $45,509.
+IX. Application of Modified Technique to 2007 and 2008
+[177] I do not have all of the figures that I need to apply the above alternative assessment technique to Mr. Bousfield’s 2007 and 2008 tax years. There were only slips for the first 6 months of Mr. Hooper’s driving in 2007 and no slips at all for 2008. As a result, Ms. Canton was not able to calculate the fares for Mr. Hooper’s child trips.
+[178] In the circumstances, I find that it is more likely than not that Mr. Hooper’s child trips represented a similar percentage of overall non-cash fares in 2007 and 2008 as they did in 2006. If Mr. Bousfield wanted me to reach a different conclusion, he should have provided me with the records and detailed analysis necessary for me to do so.
+[179] By applying this approach and adjusting the percentage of cash fares to the actual percentage shown from the white envelopes in 2007 and 2008, I have calculated that Mr. Bousfield under-reported his taxi revenue by $25,337 in 2007 and $25,605 in 2008. My calculations are set out in Schedule “B”.
+[180] The Minister assessed Mr. Bousfield on the basis that he had $140,005 in taxi revenue in 2007. I have concluded that he had $90,421. I will accordingly reduce his income from the taxi business by $49,584.
+[181] The Minister assessed Mr. Bousfield on the basis that he had $136,479 in taxi revenue in 2008. I have concluded that he had $90,214. I will accordingly reduce his income from the taxi business by $46,265.
+X. Conclusion on Taxi Revenue
+[182] Based on all of the evidence available, I find that the technique most likely to produce a reasonably accurate picture of Mr. Bousfield’s revenue is the one described above. Using that technique, I find that Mr. Bousfield’s taxi income should be reduced by $45,509, $49,584 and $46,265 in 2006, 2007 and 2008 respectively.
+XI. Transportation Business Revenue
+[183] Mr. Bousfield’s brother, Curtis Bousfield, operated a transportation company which carried on business under the name Where 2 Transportation. Mr. Bousfield did not own shares in the company.
+[184] Mr. Bousfield worked as a subcontract driver for Where 2 in 2006, 2007 and the first half of 2008. He had a falling out with his brother in June 2008 and stopped working for him after that.
+[185] Mr. Bousfield also helped his brother with Where 2’s bookkeeping. Given Mr. Bousfield’s challenges with bookkeeping, it is not surprising that his brother was audited at the same time that he was nor is it surprising that the Minister has concerns about the revenue reported by Mr. Bousfield from his subcontracting activities.
+A. Audit Adjustments in Respect of Services
+[186] Mr. Bousfield invoiced Where 2 for his subcontracting services. Ms. Canton added up the amounts that Mr. Bousfield invoiced for services. Those amounts differed slightly from the amounts he had recorded in his books. With one exception, I find that the amounts that Ms. Canton added were more reliable.
+[187] Ms. Canton added $2,464 in revenue from December 2005 to Mr. Bousfield’s 2006 revenue. She initially did this because she believed he was reporting income on a cash basis. She later determined that he was reporting income on an accrual basis but failed to reverse the adjustment. I will reduce Mr. Bousfield’s revenue by that amount.
+B. Audit Adjustments in Respect of Credits
+[188] Mr. Bousfield’s invoices contained a number of what could best be described as credits. The Respondent argues that these credits were actually reimbursements of expenses that Mr. Bousfield incurred providing his services and thus should be included in his revenue.
+[189] Mr. Bousfield testified that the credits were either repayments of amounts that he had lent to his brother or reimbursements of expenses that he had paid on behalf of Where 2. With the exception of a $20 cell phone credit which appeared on most of the invoices, Mr. Bousfield testified that none of the expenses were his personal expenses. I accept Mr. Bousfield’s testimony on this topic.
+[190] The credits were unpredictable. There were credits for fuel in some months but not in many others. If Where 2 had been reimbursing Mr. Bousfield’s expenses, I would have expected to have seen fuel expenses each month and for them to have been in relatively consistent amounts. This was not what the invoices showed.
+[191] There were also credits for office expenses. It seems far more likely that Mr. Bousfield incurred office expenses on behalf of Where 2 and his brother was reimbursing him than that he incurred office expenses in the course of driving a van for Where 2 and was billing the company for it. There was one credit for t-shirts. Again, it seems far more likely that Mr. Bousfield had paid for a large order of t-shirts for Where 2’s business and Where 2 was reimbursing him than that he had personally incurred a significant t-shirt expense in the course of driving for Where 2 and was billing the company for it.
+[192] On the basis of all of the foregoing, I will back out all of the credits other than the cell phones. As a result, I will reduce Mr. Bousfield’s revenue from his transportation business by $291 in 2006, $3,072 in 2007 and $4,440 in 2008.
+C. Summary
+[193] In summary, I will reduce Mr. Bousfield’s revenue from his transportation business by $2,756 in 2006, [38] $3,072 in 2007 and $4,440 in 2008.
+XII. Expenses
+[194] The Minister denied a number of expenses claimed by Mr. Bousfield against his income from his businesses.
+A. Concessions
+[195] During the trial, the Respondent conceded that $946.65, $2,021.22 and $780.51 in expenses should be allowed in Mr. Bousfield’s 2006, 2007 and 2008 tax years respectively.
+[196] This leaves $2,400.00, $2,707.80 and $4,264.79 of expenses still in dispute for those years. For the following reasons, I will not be allowing Mr. Bousfield to deduct any of the remaining expenses.
+B. Payments to Mother
+[197] The largest expense consists of a payment of $200 per month that Mr. Bousfield claims was a subcontract expense he paid to his mother in 2006, 2007 and part of 2008. I accept that he made these payments. I do not accept that there was a business purpose to the payments. Mr. Bousfield’s explanation for these payments made little sense.
+[198] Mr. Bousfield testified that his mother occasionally worked for Where 2. Rather than Where 2 paying her directly for her work, Mr. Bousfield explained that he and his brother agreed that Mr. Bousfield would pay their mother $200 per month (regardless how much or whether she worked) and his brother would cause Where 2 to pay him for the actual work that their mother did. In other words, Mr. Bousfield would effectively retain his mother’s services for $200 per month and subcontract her services to his brother.
+[199] Mr. Bousfield called his brother as a witness. His brother had no recollection of this arrangement and could not really recall what work their mother had done for Where 2.
+[200] Mr. Bousfield’s own submissions to the Minister on this point were inconsistent. He claimed a deduction for payments to his mother from January 2006 to June 2008 yet he described his mother as “a casual sub-contract driver…starting in late 2007 until early 2008”. [39] He then submitted a letter from his mother stating that she worked for him between April 2006 and June 2007. [40]
+[201] During the years in question, Mr. Bousfield lived with his mother. I find it far more likely that his monthly payments to his mother were a form of rent or cost sharing than a fee paid to subcontract her services. I will not allow these expenses.
+C. Interest Expense
+[202] Mr. Bousfield claimed the interest on his credit card as a business expense. While I accept that he did charge business expenses to the card, it appears to me that he paid those expenses off every month. The interest appears to relate to an outstanding balance from before the years in issue. As I have no evidence to show what that balance related to, I will not allow Mr. Bousfield to deduct these interest expenses.
+D. Remaining Expenses
+[203] Mr. Bousfield did not provide me with any documents to show that he had incurred the remaining expenses in dispute. In addition, a number of them, such as a computer and furniture, appear to be capital in nature. I will not allow any of these expenses.
+E. Additional Expenses Related to Additional Revenue
+[204] Mr. Bousfield argues that, if his revenue is going to be increased based on projections, his expenses should be correspondingly increased. I disagree. Mr. Bousfield’s revenue has been increased because he did not report all of it. I have no reason to believe that he did not, however, claim all of his expenses. If Mr. Bousfield wanted his expenses to be more accurately calculated, he should have kept better records, provided me with a full copy of his general ledger and provided me with evidence of additional unclaimed expenses.
+XIII. GST
+[205] The reporting periods covered by the GST audit did not match the tax years covered by the income tax audit. The Minister only reassessed Mr. Bousfield’s reporting periods ending between July 1, 2007 and December 31, 2008.
+[206] All of the adjustments on the GST audit were consequential to the adjustments on the income tax audit.
+A. Audit Mistakes (July 1 to December 31, 2007)
+[207] Ms. Canton did not conduct the GST audit. Her income tax findings were passed to another auditor. That auditor made three mistakes in reassessing Mr. Bousfield’s reporting periods ending between July 1 to December 31, 2007. First, he applied the wrong GST rate. He used 5% instead of 6%.
+[208] The second mistake the GST auditor made relates to the supplies that he taxed. Mr. Bousfield did not file his 2006 or 2007 tax returns. In an effort to get Mr. Bousfield to file, the Minister arbitrarily assessed him. Subsequently, Ms. Canton audited him and reassessed him to increase his income. The auditor only applied GST to the increase in Mr. Bousfield’s supplies above the amount of revenue for which Mr. Bousfield had been arbitrarily assessed for income tax purposes. He should have applied it to all supplies that were not already reported by Mr. Bousfield on his GST returns.
+[209] Third, the auditor added all of the additional GST collectible from his 2007 supplies to Mr. Bousfield’s reporting periods ending September 30 and December 31, 2007 instead of spreading it out over the entire year.
+[210] These mistakes all favoured Mr. Bousfield. They resulted in lower GST reassessments. It is not my role to increase Mr. Bousfield’s taxes. That said, in determining the GST that he should have paid on what I have found was a reduced amount of revenue, I will correct the mistakes made by the auditor. Mr. Bousfield will have his GST reduced to a correct amount, not an artificially low one.
+B. Revenue Related Adjustments
+(i) Reporting Periods from January 1 to December 31, 2007
+[211] As set out above, I find that Mr. Bousfield had unreported taxable supplies of $25,337 in 2007. Assuming the supplies were made equally throughout the year, that would mean Mr. Bousfield had additional GST collectible of $380.05 in each quarter. [41]
+[212] The auditor did not reassess the quarters ending March 30 and June 30, 2007 and it is not my role to do so. Therefore no adjustments are needed for those quarters.
+[213] The auditor assessed $1,218.95 in additional GST collectible in the quarters ending September 30 and December 31, 2007. I will accordingly reduce the net tax in each of those quarters by $838.90.
+(ii) Reporting Periods from January 1 to December 31, 2008
+[214] As set out above, I find that Mr. Bousfield had unreported taxable supplies from his taxi business of $25,605 in 2008. Assuming the supplies were made equally throughout the year, that would mean Mr. Bousfield had additional GST collectible of $320.06 in each quarter. [42]
+[215] The auditor assessed $907.35 in additional GST collectible in each quarter of 2008. I will accordingly reduce the net tax in each of those quarters by $587.28.
+C. Expense-Related Adjustments
+(i) Concessions
+[216] The Respondent conceded that Mr. Bousfield should be allowed additional input tax credits relating to the expenses that the Respondent had conceded should be allowed. The Respondent specified only the years in which the expenses were incurred, not the reporting periods. I will accordingly divide the adjustments equally over the reporting periods in issue. As a result, I will increase Mr. Bousfield’s input tax credits by $60.37 in his reporting periods ending September 30 and December 31, 2007 and by $9.76 in his four reporting periods ending in 2008.
+(ii) ITCs Wrongly Denied
+[217] Ms. Canton denied various expenses in 2008. The GST auditor assumed that those expenses would have attracted GST. Accordingly, he reduced Mr. Bousfield’s input tax credits. Some of the expenses that Ms. Canton denied in 2008 were for insurance and interest. GST auditor reduced Mr. Bousfield’s input tax credits by $215.53 in respect of those expenses. Since insurance and interest would clearly not attract GST, Mr. Bousfield would not have claimed input tax credits in respect of them in the first place. Therefore, the GST auditor should not have reduced them. I will therefore allow Mr. Bousfield an additional $53.88 in input tax credits in each of his four reporting periods in 2008.
+D. Summary
+[218] In summary, I will make the following adjustments to Mr. Bousfield’s net tax in the following reporting periods:
+Reduction in GST collectible
+Conceded ITCs
+Additional ITCs
+Reduction in Net Tax
+Jul 1 to Sep 30, 2007
+$838.90
+$60.37
+-
+$899.25
+Oct 1 to Dec 31, 2007
+$838.90
+$60.37
+-
+$899.25
+Jan 1 to Mar 31, 2008
+$587.28
+$9.76
+$53.88
+$650.92
+Apr 1 to Jun 30, 2008
+$587.28
+$9.76
+$53.88
+$650.92
+Jul 1 to Sep 30, 2008
+$587.28
+$9.76
+$53.88
+$650.92
+Oct 1 to Dec 31, 2008
+$587.28
+$9.76
+$53.88
+$650.92
+XIV. Penalties
+[219] The Minister assessed gross negligence penalties in respect of Mr. Bousfield’s unreported revenue.
+[220] As set out above, Mr. Bousfield did not file tax returns for his 2006 and 2007 tax years. The Minister issued arbitrary assessments. This prompted Mr. Bousfield to file tax returns. Ms. Canton reviewed those returns as part of her audit.
+[221] Oddly, when the reassessments were processed, gross negligence penalties were only applied to the increase in income beyond that assessed in the arbitrary assessments. I would have thought that, at a minimum, the Minister would have applied gross negligence penalties to the difference between the amount of income Mr. Bousfield reported when he filed tax returns after the arbitrary assessments and the amount of income the auditor concluded he had. Since I have found that Mr. Bousfield’s income was lower than that assessed in the arbitrary assessments, I have no choice but to order that the penalties be removed for 2006 and 2007. The income on which they were assessed has been reversed.
+[222] There is a different story for 2008. Mr. Bousfield filed a return for that year. Following Ms. Canton’s audit, penalties were applied to the difference between his income and that reassessed by Ms. Canton. I find that those penalties were appropriate.
+[223] Although Mr. Bousfield has succeeded in reducing the amount of unreported revenue, he still failed to report approximately 23% of his income in 2008. Mr. Bousfield knew the taxi industry. He controlled all aspects of his business. He knew or ought to have known that he was significantly under-reporting his revenue.
+[224] Mr. Bousfield’s poor records, combined with the fact that he did not file his 2006 and 2007 returns until after he was arbitrarily assessed and only filed his 2008 return after he was arbitrarily assessed for 2006 and 2007, suggest that he was, at best, indifferent whether he complied with the Act.
+[225] If I felt that Mr. Bousfield were simply a poor bookkeeper who had failed to track his revenue appropriately, I would be more understanding. However, my conclusion that he and Mr. Hooper worked together to hide the majority of the cash fares from Mr. Hooper’s shifts makes penalties more appropriate.
+[226] Based on all of the foregoing, I will uphold the penalties for 2008 and delete them for 2006 and 2007.
+XV. Conclusion
+[227] Based on all of the foregoing:
+(a) the appeal of Mr. Bousfield’s 2006 tax year is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s business income be reduced by $49,211 and that all gross negligence penalties be deleted; [43]
+(b) the appeal of Mr. Bousfield’s 2007 tax year is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s business income be reduced by $54,668 that all gross negligence penalties be deleted; [44]
+(c) the appeal of Mr. Bousfield’s 2008 tax year is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s business income be reduced by $51,485; [45]
+(d) the appeal of Mr. Bousfield’s reporting period ending September 30, 2007 is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s net tax be reduced by $899.25;
+(e) the appeal of Mr. Bousfield’s reporting period ending December 31, 2007 is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s net tax be reduced by $899.25;
+(f) the appeal of Mr. Bousfield’s reporting period ending March 31, 2008 is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s net tax be reduced by $650.92;
+(g) the appeal of Mr. Bousfield’s reporting period ending June 30, 2008 is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s net tax be reduced by $650.92;
+(h) the appeal of Mr. Bousfield’s reporting period ending September 30, 2008 is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s net tax be reduced by $650.92; and
+(i) the appeal of Mr. Bousfield’s reporting period ending December 31, 2008 is allowed and referred back to the Minister for reconsideration and reassessment on the basis that Mr. Bousfield’s net tax be reduced by $650.92.
+Signed at Ottawa, Canada, this 28th day of December 2022.
+“David E. Graham”
+Graham J.
+Schedule “A”
+2006 Taxi Revenue
+total non-cash fares
+$44,504
+less: Hooper non-cash fares
+($34,138)
+less: white envelope non-cash fares
+($3,875)
+non-cash sales from missing white envelopes
+$6,491
+percentage cash fares
+80%
+cash fares from missing white envelopes
+$25,964
+plus: cash fares from white envelopes [46]
+$15,258
+plus: cash fares included on Hooper slips
+$906
+plus: unreported Hooper cash fares
+$27,025
+total cash fares
+$69,153
+less: driver’s share (50%) [47]
+($34,577)
+Mr. Bousfield’s cash fares
+$34,577
+plus: total non-cash fares [48]
+$44,504
+Mr. Bousfield’s total taxi revenue (incl GST)
+$79,081
+less: revenue not attracting GST
+($33,541)
+revenue attracting GST
+$45,539
+less: GST included in that revenue
+($2,779)
+revenue attracting GST (net of GST)
+$42,760
+plus: revenue not attracting GST
+$33,541
+total revenue (net of GST)
+$76,301
+less: total taxi revenue reported
+($55,437)
+Mr. Bousfield’s unreported taxi revenue
+$20,864
+Schedule “B”
+2007 and 2008 Taxi Revenue
+2007
+2008
+total non-cash fares [49]
+$54,252
+$53,008
+less: Hooper non-cash fares [50]
+($41,615)
+($40,661)
+less: white envelope non-cash fares [51]
+($5,587)
+($7,775)
+non-cash sales from missing white envelopes
+$7,050
+$4,572
+percentage cash fares [52]
+78%
+79%
+cash fares from missing white envelopes
+$24,994
+$17,199
+plus: cash fares from white envelopes [53]
+$19,298
+$28,813
+plus: cash fares included on Hooper slips
+n/a
+n/a
+plus: unreported Hooper cash fares
+$34,049
+$33,268
+total cash fares
+$78,341
+$79,280
+less: driver’s share (50%)
+($39,170)
+($39,640)
+Mr. Bousfield’s cash fares
+$39,170
+$39,640
+plus: total non-cash fares
+$54,252
+$53,008
+Mr. Bousfield’s total taxi revenue (incl GST)
+$93,422
+$92,648
+less: revenue not attracting GST [54]
+($40,404)
+($41,543)
+revenue attracting GST
+$53,018
+$51,105
+less: GST included in that revenue [55]
+($3,001)
+($2,434)
+revenue attracting GST (net of GST)
+$50,017
+$48,672
+plus: revenue not attracting GST
+$40,404
+$41,543
+total revenue (net of GST)
+$90,421
+$90,214
+less: total taxi revenue reported
+($65,084)
+($64,609)
+Mr. Bousfield’s unreported taxi revenue
+$25,337
+$25,605
+CITATION:
+2022 TCC 169
+COURT FILE NOS.:
+2015-1001(GST)G 2015-1002(IT)G
+STYLE OF CAUSE:
+JONATHON BOUSFIELD v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATES OF HEARING:
+November 13, 14, 15, 16, 2018 and October 31, November 1, 2, 3, 7, 8 and 9, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+December 28, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Krowina
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Guibord v. The Queen, 2011 FCA 344, at para. 14; Hsu v. The Queen, 2001 FCA 240, at para. 22.
+[2] Hsu (supra), at para. 24.
+[3] Hsu (supra) at para. 30. Ramey v. The Queen (1993), 93 DTC 791 (TCC), at para. 6.
+[4] Berezuik v. The Queen, 2010 TCC 296, at para. 16; Francisco v. The Queen, [2003] 2 CTC 2378, 2003 DTC 3958 (TCC), at para. 8; Milkowski v. The Queen, 2007 TCC 680, at para. 14.
+[5] Bigayan v. The Queen (1999), 1999 CarswellNat 2288, 2000 DTC 1619 (TCC), at para. 3; Ramey v. The Queen (1993), 93 DTC 791 (TCC), at para. 6; Hong Kong Style Café Ltd. v. The Queen, 2022 TCC 9, at paras. 39, 42 and 43; Mensah v. The Queen, 2008 TCC 378, at paras. 23–26; Golden v. The Queen, 2009 TCC 396, at para. 11; Saini v. The Queen, 2020 TCC 38, at para. 24.
+[6] Bigayan v. The Queen (1999), 1999 CarswellNat 2288, 2000 DTC 1619 (TCC), at para. 3; Francisco v. The Queen, [2003] 2 CTC 2378, 2003 DTC 3958 (TCC), at para. 17; Berezuik v. The Queen, 2010 TCC 296; Golden v. The Queen, 2009 TCC 396, at para. 12; Saini v. The Queen, 2020 TCC 38, at para. 24.
+[7] Berezuik v. The Queen, 2010 TCC 296.
+[8] Golden v. The Queen, 2009 TCC 396, at para. 11; Dionne v. The Queen, 2012 TCC 136, at para. 21.
+[9] Molenaar v. The Queen, 2004 FCA 349 at para. 4, cited with approval in Lacroix v. The Queen, 2008 FCA 241, at para. 34; Truong v. The Queen, 2018 FCA 6, at para. 18; Kozar v. The Queen, 2010 TCC 389, at paras. 55–56.
+[10] Lacroix (supra).
+[11] Bigayan v. The Queen (1999), 1999 CarswellNat 2288, 2000 DTC 1619 (TCC), at paras. 14 and 17.
+[12] Johnston v. M.N.R., [1948] S.C.R. 486; Anchor Pointe Energy Ltd. v. The Queen, 2007 FCA 188.
+[13] Pollock v. The Queen (1993), [1994] 2 C.T.C. 385, 94 DTC 6050 (FCA); Bowens v. The Queen (1996), 96 DTC 6128 (FCA); Anchor Pointe (supra).
+[14] Johnston (supra), at para. 9.
+[15] I allowed the taxi study into evidence simply to show where Ms. Canton had obtained her figure. I did not admit it for the truth of its contents.
+[16] Exhibit A-2, Tab 21, pg. 50.
+[17] A different part of the taxi study the average taxi revenue was $237.75 per day (Exhibit A-2, Tab 21, pg. 30). However, since I did not admit the taxi study for the truth of its contents, this figure is not in evidence.
+[18] The taxi study refers to a fare of $9.60 per trip (Exhibit A-2, Tab 21, pg. 30). However, since I did not admit the taxi study for the truth of its contents, this figure is not in evidence.
+[19] Reply, paras. 6(i.17) and (i.18).
+[20] As set out above, Mr. Bousfield did not file tax returns for 2006 and 2007. In this chart Mr. Bousfield’s “reported revenue” for those years is his revenue from the returns that he eventually provided after the Minister issued arbitrary assessments. In her actual calculation at Exhibit R-1, Tab 35, Ms. Canton erroneously records Mr. Bousfield’s 2007 reported revenue as $66,540. I have corrected the error here.
+[21] Reply, para. 6(i.19).
+[22] Exhibit A-2, Tab 21, pg. 30.
+[23] Notice of Appeal in appeal 2015-1002(IT)G, para. 10(d).
+[24] A-2, Tab 28, pg. 326.
+[25] Exhibit A-2, Tab 28, pg. 294; Exhibit R-2, unnumbered pg. 3.
+[26] Exhibit A-2, Tab 16 and Exhibits R-22, R-23, R-24 and R-25.
+[27] Exhibits R-24 and R-25.
+[28] Exhibit R-28.
+[29] $34,138 in non-cash fares / 55% = $62,069 in total fares. $62,069 in total fares x 45% = $27,931 in cash fares.
+[30] Exhibit R-27.
+[31] Exhibit R-30.
+[32] Exhibit R-27.
+[33] Exhibit R-28.
+[34] Exhibit R-30.
+[35] $44,504 total non-cash fares - $34,138 Hooper non-cash fares - $3,875 non-cash fares reported on white envelopes = $6,491 in non-cash fares from the missing white envelopes.
+[36] $6,491 non-cash fares / 20% non-cash ratio = $32,455 in total fares from missing white envelopes. $32,455 in total fares x 80% cash ratio = $25,964 in cash fares from missing white envelopes.
+[37] Exhibit R-27.
+[38] $2,464 in revenue from 2005 + $291 in credits = $2,756.
+[39] Exhibit R-19.
+[40] Exhibit A-2, Tab 18.
+[41] $25,337 × 6% GST / 4 quarters = $380.05.
+[42] $25,605 × 5% GST / 4 quarters = $320.06.
+[43] $45,509 in reduced taxi revenue + $2,756 in reduced Where 2 revenue + $947 in additional expenses = $49,211.
+[44] $49,584 in reduced taxi revenue + $3,072 in reduced Where 2 revenue + $2,012 in additional expenses = $54,668.
+[45] $46,265 in reduced taxi revenue + $4,440 in reduced Where 2 revenue + $780 in additional expenses = $51,485.
+[46] Exhibit R-30.
+[47] Mr. Bousfield reported only his share of the revenue in his books so I have done the same for consistency.
+[48] This figure accounts for Mr. Bousfield’s share of non-cash fares from white envelopes (both missing and provided) and both his and Mr. Hooper’s share of the non-cash fares from the child trips. Mr. Bousfield deducted Mr. Hooper’s share of the child trips as an expense. That expense has been allowed.
+[49] Exhibits R-38 and R-43.
+[50] Mr. Hooper’s non-cash fares represented 76.8% of all non-cash fares in 2006 ($34,138 / $44,405). Accordingly, the figures in this row are 76.8% of the figures in the row above. I note that the figures I have calculated for Mr. Hooper’s non-cash fares are very similar to the total child trips and 289’s for the same year. This gives me comfort that my calculation is realistic.
+[51] Exhibits R-41 and R-46.
+[52] Exhibits R-41 and R-46.
+[53] Exhibits R-41 and R-46.
+[54] Exhibits R-38 and R-43.
+[55] 6% in 2007 and 5% in 2008.

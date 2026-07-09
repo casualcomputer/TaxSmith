@@ -1,0 +1,143 @@
+---
+title: "Paré v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30600/index.do"
+last_modified: "2011-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 510"
+citation2: ""
+neutral_citation: "2011 TCC 510"
+decision_date: "2011-11-16"
+language: "en"
+item_id: "30600"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7155
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:08:23.857000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "41f60330ca4a9e3b4364258bb49dbb1535ce14b0c14a505d349e4fa761fd688a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paré v. The Queen
+
+- Citation: 2011 TCC 510
+- Decision date: 2011-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7155, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paré v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-16
+Neutral citation
+2011 TCC 510
+File numbers
+2010-1944(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1944(IT)I
+BETWEEN:
+DENIS PARÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on October 24, 2011, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of November 2011.
+“François Angers”
+Angers J.
+Translation certified true
+on this 5th day of December 2011
+Janine Anderson, Translator
+Citation: 2011 TCC 510
+Date: 20111116
+Docket: 2010-1944(IT)I
+BETWEEN:
+DENIS PARÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are appeals concerning the 2004, 2005 and 2006 taxation years. On October 5, 2006, the Minister of National Revenue (the Minister) issued reassessments and added $22,500 to the appellant’s income as employment benefits for the 2004 taxation year. On June 29, 2007, the Minister added $26,000 to the appellant’s income for the same reason, but for the 2005 taxation year.
+[2] On May 29, 2008, the appellant filed an adjustment request for the 2004, 2005 and 2006 taxation years in order for the Minister to allow automobile expenses of $9,917, $13,225 and $15,995 respectively.
+[3] On November 10, 2008, the Minister issued notices of reassessment; he added $17,000 to the appellant’s income for the 2006 taxation year as employment benefits and allowed deductions of $7,316, $11,504 and $8,962 respectively as employment‑related expenses for the 2004, 2005 and 2006 taxation years.
+[4] The late filing penalties of $474.23 and $118.72 were imposed on the appellant for his 2004 and 2005 taxation years respectively. The reassessments were confirmed by the Minister on March 27, 2010.
+[5] At the beginning of the hearing, the appellant informed the Court that he would not be submitting evidence. He presented his evidence during the cross‑examination of the auditor assigned to his file and submitted into evidence the respondent’s documents in support of his appeal.
+[6] According to the Reply to the Notice of Appeal, the appellant was, over the course of the years in question, the sole shareholder of the company Les consultants de la Vallée des Forts inc. (the company), a civil engineering consulting business. The appellant was also an employee of the company and personally owned three vehicles, a Jeep Wrangler, a GMC pickup truck and a Toyota FJ Cruiser.
+[7] The company was audited as the employer and during that audit, no expense record was available. With his adjustment request, the appellant submitted documents as well as the “Statement of Employment Expenses” form for each year in question. The total distance traveled by the three vehicles was 132,310 kilometres for the periods in question.
+[8] According to the documents submitted, the company had paid the appellant a fixed allowance of $22,500 in 2004, $26,000 in 2005 and $22,000 in 2006, but the notice of assessment indicates $17,000 in error. These allowances obviously do not appear in the appellant’s income tax returns for the three years in question, but the Minister found them unreasonable, resulting in unreported employment income.
+[9] The Minister found that, according to the insurance policies, only the Jeep Wrangler was being used for business purposes. According to those policies, no employee was listed as an occasional driver for the appellant’s vehicles. The Minister therefore disallowed the expenses claimed for the GMC and Toyota vehicles and allowed all of the expenses claimed for the Jeep, that is, $7,316, $11,504 and $8,962 respectively for the three taxation years.
+[10] The Reply to the Notice of Appeal and the documentary evidence reveal that the appellant’s income tax return for the 2004 taxation year was filed on May 4, 2006, whereas it should have been filed no later than April 30, 2005, and that the income tax return for the 2005 taxation year was filed on May 18, 2006, whereas it should have been filed no later than April 30, 2006.
+[11] The auditor of the appellant’s file provided a summary of the adjustments made to the appellant’s income tax returns. The auditor allocated amounts as allowances in accordance with subparagraph 6(1)(b)(x) of the Income Tax Act (the Act). Section 6 of the Act identifies the amounts that a taxpayer must include as income from employment. Among the inclusions in a taxpayer’s income from employment are the amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except:
+v) reasonable allowances for travel expenses received by an employee from the employee’s employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee’s employer.
+[12] Therefore, the allowances must be reasonable for them not to be included in income. In the case of motor vehicle expenses, the use of the vehicle must only be assessed according to the number of kilometres driven in the course of employment. If this is not the case, the allowance is deemed unreasonable. I cite the following provision:
+. . . and for the purposes of subparagraphs 6(1)(b)(v), 6(1)(b)(vi) and 6(1)(b)(vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer’s office or employment shall be deemed not to be a reasonable allowance:
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or, . . .
+[13] This is exactly what happened in this case. The company paid the appellant round and fixed amounts almost every month during the three taxation years in question. It is impossible to believe that the appellant drove an exact number of kilometres each month. Furthermore, the documentation he provided to the auditor at the various stages of the audit and of the objection demonstrates that the monthly kilometrage varied and that the kilometres stated in Exhibit A-1, at tabs 13, 15 and 17, were different from those in Exhibit A-2, at tabs 2 and 4. Therefore, there was evidently a difference in the reconstitution of the appellant’s kilometrage. It is also important to note that the appellant’s comments to the auditor on this issue at the beginning of her audit were that he had no evidence and that he could not prove his kilometrage. The appellant also did not submit evidence at the hearing.
+[14] The auditor therefore reviewed the expenses attributed to the use of the appellant’s personal vehicles. However, expenses were allowed for one vehicle only because that vehicle was the only one insured for commercial use. Furthermore, the insurance policies listed the appellant as the primary driver of each vehicle and none of the names of the company’s employees were listed.
+[15] The appellant did not testify. However, I note that he mentioned to the auditor that some of the company’s employees had used his personal vehicles. None of the employees of the company in question were called as witnesses on their use of the appellant’s vehicles and I deduce from that that their testimony would not have been favourable to the appellant.
+[16] The auditor found the appellant’s submissions on the issues relevant to his case unreliable, and I make the same finding. Because he chose to not submit evidence, the appellant did not satisfy the burden of proof and the documentation submitted in the record is insufficient to warrant the Court’s intervention. In my opinion, the late filing penalties are justified in this case.
+[17] The appeals are dismissed.
+Signed at Ottawa, Canada, this 16th day of November 2011.
+“François Angers”
+Angers J.
+Translation certified true
+on this 5th day of December 2011
+Janine Anderson, Translator
+CITATION: 2011 TCC 510
+COURT FILE NO.: 2010-1944(IT)I
+STYLE OF CAUSE: Denis Paré v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 24, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 16, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

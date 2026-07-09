@@ -1,0 +1,254 @@
+Title: Ike Enterprises Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/229837/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-59-229837-ike-enterprises-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-04-12
+
+# Ike Enterprises Inc. c. La Reine
+
+- Citation: 2017 CCI 59
+- Decision date: 2017-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2297, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ike Enterprises Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-04-12
+Référence neutre
+2017 CCI 59
+Numéro de dossier
+2013-4000(GST)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-4000(GST)G
+ENTRE :
+IKE ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 octobre 2016, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocats de l’appelante :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Avocats de l’intimée :
+Me Victor Caux
+Me Matthew Turnell
+JUGEMENT
+L’appel visant la nouvelle cotisation établie sous le régime de la Loi sur la taxe d’accise pour les périodes de déclaration du 1er mai 2009 au 31 décembre 2011, par avis de nouvelle cotisation daté du 26 juillet 2013, est accueilli, et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que les produits alimentaires appelés gingembre enrobé de sucre et granola sont détaxés tandis que les bâtonnets sont exclus, le tout conformément aux motifs du jugement ci-joints.
+L’appelante a droit aux dépens conformément au tarif applicable, lesquels tiendront compte qu’elle a obtenu gain de cause à l’égard de deux des trois produits. Subsidiairement, les parties peuvent décider de répartir les dépens proportionnellement au volume des ventes des produits en cause au cours des périodes de déclaration. Si les parties ne parviennent pas à s’entendre, des observations écrites doivent être présentées à la Cour dans les 60 jours suivant la présente ordonnance.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2017.
+« Guy Smith »
+Juge Smith
+Traduction certifiée conforme
+ce 12e jour de juin 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 59
+Date : 20170412
+Dossier : 2013-4000(GST)G
+ENTRE :
+IKE ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] L’appelante interjette appel d’un avis de nouvelle cotisation établi par le ministre du Revenu national (le « ministre ») sous le régime de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15 (la « Loi »), pour les périodes de déclaration du 1er mai 2009 au 31 décembre 2011.
+I. Aperçu
+[2] La Loi prévoit que les aliments ou les produits alimentaires de base sont détaxés, c’est-à-dire que le taux de la TPS qui leur est applicable est nul. Elle comporte également une liste d’aliments qui sont exclus et, par conséquent, assujettis à la TPS au taux normal.
+[3] Le ministre allègue que l’appelante a omis de percevoir et de remettre la TPS sur la vente de certains produits alimentaires qui sont exclus du fait de l’article 1 de la partie III de l’annexe VI de la Loi. Ces produits alimentaires sont les suivants :
+1. gingembre enrobé de sucre;
+2. bâtonnets (faits de blé, de riz et d’épeautre);
+3. granola.
+[4] Pour les motifs exposés ci-dessous, l’appel devrait être renvoyé au ministre pour nouvel examen et nouvelle cotisation au motif que le gingembre enrobé de sucre et le granola sont détaxés, tandis que les bâtonnets sont exclus et donc taxables.
+II. Les faits pertinents
+[5] L’appelante est un fabricant et un grossiste de produits alimentaires naturels exerçant ses activités sous le nom de Left Coast Naturals. M. Ian Walker a témoigné pour elle. Il en est l’un des fondateurs et le président actuel. Il a déclaré que la philosophie primaire de l’entreprise consistait à distribuer des « aliments sains, naturels et biologiques, fabriqués à partir d’aliments entiers et d’ingrédients naturels ».
+[6] Lorsqu’elle a commencé ses activités en 1997 environ, la société fabriquait et distribuait des produits alimentaires naturels exclusifs, puis elle s’est par la suite mise à fabriquer des produits de marque maison pour des détaillants comme Loblaws, Trader Joe’s et Whole Foods. De là, elle est passée à la distribution d’ingrédients alimentaires naturels en vrac que les clients utilisent pour la préparation des aliments de leur rayon d’épicerie fine ou pour la vente dans leurs rayon d’aliments en vrac. D’autres clients, comme des boulangeries, ont utilisé les ingrédients en vrac directement dans leurs produits de boulangerie-pâtisserie. Les activités de l’appelante se sont également diversifiées pour inclure la distribution de produits alimentaires biologiques pré-emballés faits par divers autres fabricants.
+[7] Les trois produits alimentaires en cause ont tous été vendus en vrac à des détaillants; ils étaient destinés à la vente dans les rayons d’aliments en vrac. Comme on le verra plus loin, certains produits ont également été vendus sous forme préemballée, dans des paquets de diverses tailles.
+Le gingembre enrobé de sucre
+[8] Selon M. Walker, l’appelante est devenue un important distributeur de gingembre enrobé de sucre en vrac provenant d’un fabricant en Chine. Il a expliqué que ce produit était fabriqué à partir de racines de gingembre, lesquelles sont pelées, coupées en cubes et bouillies dans un sirop de sucre afin d’en réduire le piquant naturel, puis enduites de cristaux de sucre pour éviter que les morceaux collent les uns aux autres.
+[9] Le gingembre enrobé de sucre était généralement emballé dans des sacs en plastique transparent et livré aux clients dans des boîtes en carton de dix à vingt‑cinq livres. Il était ensuite placé dans des bacs de vente en vrac, dont l’étiquette portait habituellement les mots [traduction] « gingembre biologique enrobé de sucre », ou utilisé par les clients dans leur rayon d’épicerie fine dans la préparation de produits alimentaires comme des brioches, des scones, des muffins, etc. L’appelante a également vendu ce produit dans des contenants refermables de plastique transparent de 525 grammes.
+[10] En ce qui concerne la classification pour l’application de la TPS, M. Walker a affirmé que la société avait consulté son courtier en douane à l’importation et s’était fiée à lui. La société a également pris en compte l’utilisation que faisaient ses clients du produit et déterminé qu’il servait principalement d’ingrédient pour la boulangerie-pâtisserie, comme on le ferait de fruits séchés. Un client en particulier, Terra Breads, utilisait le gingembre directement dans ses produits de boulangerie-pâtisserie.
+[11] À propos des contenants de 525 grammes, M. Walker a expliqué que le produit était vendu aux magasins d’alimentation naturelle ou aux épiceries et qu’il était parfois offert à la vente dans le rayon des aliments en vrac parce qu’il s’agissait d’un format plus pratique compte tenu des préférences des clients de ces magasins.
+[12] Pour ce qui est de la commercialisation auprès des clients, le gingembre enrobé de sucre, dans les listes de produits et de prix de l’appelante, figurait sous la catégorie [traduction] « Ingrédients pour la boulangerie-pâtisserie » dans les documents de marketing destinés aux boulangeries ou sous la catégorie [traduction] « Fruits séchés biologiques » dans les documents destinés aux clients qui le plaçaient généralement dans le rayon des aliments en vrac.
+[13] Au cours du contre-interrogatoire, M. Walker a reconnu que les emballages de 525 grammes comportaient une étiquette nutritionnelle désignant le produit principal comme étant le gingembre et le second comme étant le sucre. Il a également précisé que chaque portion de 40 grammes contenait 30 grammes de sucre. Il a ajouté que cela incluait le sucre naturel. Le pourcentage réel de sucre ajouté n’y était pas mentionné.
+[14] M. Walker s’est opposé à l’idée que le gingembre enrobé de sucre puisse être utilisé comme friandise ou bonbon à moins qu’il ne s’agisse de gingembre confit, dont l’ingrédient principal est le sucre. Il a déclaré que l’appelante n’avait jamais vendu de gingembre enrobé de sucre comme bonbons et qu’il n’avait jamais vu chez les clients ce produit être vendu dans la section friandises du rayon des aliments en vrac. Il a reconnu qu’avant la période visée dans le présent appel, l’appelante avait également distribué des emballages de 160 grammes de gingembre enrobé de sucre sous la marque « Skeet and Ike’s Snacks », pour lesquels elle a vraisemblablement facturé la TPS. Cet emballage n’est pas en cause dans le présent appel.
+[15] Mme Rebecca Lawrence, agente des appels à l’Agence du revenu du Canada, a témoigné au nom de l’intimée; elle est titulaire d’un diplôme en administration des affaires avec concentration en comptabilité. Elle a dit avoir conclu que le gingembre enrobé de sucre était exclu des fournitures détaxées parce qu’il s’agissait de bonbon ou d’une confiserie pouvant être classée comme bonbon.
+[16] Mme Lawrence a dit avoir goûté au gingembre vendu par l’appelante et l’avoir trouvé « très sucré », à cause du sucre dont il était enduit, mais qu’il avait aussi une saveur légèrement piquante de gingembre. Elle a affirmé que, à son avis, le gingembre enrobé de sucre pouvait être consommé tel quel ou utilisé comme ingrédient dans divers produits de boulangerie-pâtisserie.
+[17] Mme Lawrence a également déclaré avoir acheté du gingembre enrobé de sucre chez un confiseur local, Purdy’s Chocolates. Elle a remarqué qu’il avait la même valeur nutritive ou la même teneur en sucre par portion que le gingembre de l’appelante. Les avocats de l’appelante se sont opposés à ce témoignage au motif, entre autres, qu’il n’était pas pertinent.
+Les bâtonnets (faits de blé, de riz ou d’épeautre)
+[18] L’appelante a également vendu trois variétés de « bâtonnets » que M. Walker a décrits comme étant un [traduction] « produit semblable à un craquelin » à base de blé ayant un goût [traduction] « salé, mais fade ». L’un est fait de blé ordinaire tandis que l’autre est fait d’épeautre, soit une variété ancienne de blé à faible teneur en gluten. La troisième variété, les bâtonnets de riz, a pour ingrédients [traduction] « de la farine de blé non blanchie, de l’huile de canola, du riz sauvage soufflé, du sel et du curcuma ».
+[19] Selon M. Walker, les « bâtonnets » étaient de forme rectangulaire et étaient fabriqués à partir d’une pâte qui était tranchée et dont les morceaux étaient frits. Les trois variétés étaient fabriquées aux États-Unis par une entreprise appelée Old School Snacks.
+[20] Les bâtonnets ont été livrés aux clients dans des sacs de plastique transparent de trois à dix livres emballés dans des boîtes en carton. Un petit contenant refermable de plastique transparent de 150 grammes était préparé dans les installations de l’appelante, lequel comportait une étiquette indiquant « Left Coast Bulk Foods ». La plupart des bâtonnets ont été vendus à des magasins pour leur rayon des aliments en vrac et, selon M. Walker, placés dans des bacs situés près de ceux du mélange du randonneur ou des craquelins de riz. Dans une liste de produits, ils figuraient dans la catégorie [traduction] « Collations biologiques ».
+[21] En contre-interrogatoire, M. Walker a reconnu que ces produits étaient commercialisés sous forme de « bâtonnets », qu’ils étaient consommés tels quels sans autre préparation et vendus comme collation biologique ou naturelle. Pour ce qui est de leur texture, les bâtonnets ont été décrits comme étant « croquants », avec un goût légèrement salé (le curcuma était utilisé comme agent de conservation ou pour accentuer la couleur).
+[22] Mme Lawrence a déclaré que les bâtonnets ont été considérés comme exclus en raison de leurs caractéristiques et de leur étiquetage et, en particulier, parce qu’ils étaient appelés « bâtonnets ». Elle les a décrits comme étant [traduction] « durs, croquants et cassants » avec une texture [traduction] « comme un bretzel » et elle a fait remarquer qu’on en mangeait habituellement quelques poignées ou un bol.
+[23] En contre-interrogatoire, Mme Lawrence a reconnu que la principale raison pour laquelle ils avaient été exclus était l’utilisation du mot « bâtonnets », mais a également admis que la préparation des bâtonnets était semblable à celle des craquelins, qui sont détaxés.
+Le granola
+[24] L’appelante a fabriqué un produit de granola qui était vendu en vrac aux clients pour leur rayon d’aliments en vrac. Bien que le ministre ait d’abord traité ce produit comme étant exclu et donc assujetti à la TPS, il a ensuite accepté la position de l’appelante selon laquelle il était détaxé puisque la plupart des clients le vendaient dans la section des céréales de leur rayon d’aliments en vrac.
+[25] Sont en litige deux produits de granola préemballés, distribués par l’appelante et fabriqués par une entreprise locale de la Colombie-Britannique appelée Martin’s Marvellous Naturals. Ils étaient vendus dans des emballages en carton de 360 grammes de forme rectangulaire (environ trois pouces carrés et huit pouces de haut) et avaient quelques ouvertures, de sorte qu’il était possible de voir le granola enveloppé dans un sac de cellophane. L’emballage comportait la liste des ingrédients, l’information nutritionnelle habituelle et divers autres renseignements (c.-à-d. sans gluten, sans noix, seulement des graines, etc.) ainsi que la mention [traduction] « Merveilleux avec du yogourt à la vanille […] ou en collation, tel quel! »
+[26] Selon M. Walker, ces produits étaient [traduction] « dans tous les magasins, vendus dans la section des céréales, avec les céréales ». Comme ils étaient produits localement, l’appelante n’a pas consulté de courtier en douane, mais elle a souligné que le fabricant les avait vendus comme des produits détaxés.
+[27] M. Walker a dit dans son témoignage que le granola était une [traduction] « céréale granulée » et qu’il était [traduction] « presque impossible de le manger comme collation », c’est-à-dire tel quel, puisqu’il n’y avait pas de morceaux. On la mange habituellement avec du lait ou du yogourt.
+[28] Au cours du contre-interrogatoire, M. Walker a expliqué que, même s’il n’y avait pas de documents de marketing décrivant le produit de granola comme étant une céréale, des listes servant à la promotion de la marque Martin’s Marvellous Naturals comportaient une liste de ses divers produits, notamment les produits de granola en question dans la [traduction] « section des céréales ».
+[29] Mme Lawrence a confirmé que, étant donné qu’il n’y avait pas d’étiquetage pour le granola en vrac vendu dans le rayon des aliments en vrac, le ministre a accepté que le produit soit détaxé puisqu’il était vendu avec d’autres céréales. Sa réticence à traiter ainsi les paquets de granola de Martin’s Marvelous découlait de l’absence d’étiquette ou d’emballage laissant supposer que le produit était vendu comme une céréale. Les mots [traduction] « céréale » ou [traduction] « céréale pour le petit déjeuner » ne figuraient pas sur l’emballage.
+[30] Toutefois, en contre-interrogatoire, lorsqu’on lui a demandé si elle reconnaissait que le granola pré-emballé était vendu dans l’allée des produits de petit déjeuner d’une épicerie classique, Mme Lawrence a admis que [traduction] « oui, il pourrait l’être ».
+III. Le régime législatif et la jurisprudence
+[31] En ce qui concerne le cadre législatif, le paragraphe 165(1) de la Loi énonce la règle de base de l’imposition de la TPS, calculée au taux de 5 %. Toutefois, le paragraphe 165(3) prévoit que le taux de la taxe relative aux produits détaxés est nul.
+[32] Le paragraphe 123(1) dispose que la « fourniture détaxée » (« zero-rated supply ») est un produit figurant à l’annexe VI de la Loi, laquelle comprend dix catégories de base dont l’une s’intitule « Produits alimentaires de base ».
+Produits alimentaires de base
+1 La fourniture d’aliments et de boissons destinés à la consommation humaine (y compris les édulcorants, assaisonnements et autres ingrédients devant être mélangés à ces aliments et boissons ou être utilisés dans leur préparation), sauf les fournitures suivantes :
+a) les vins, spiritueux, bières, liqueurs de malt et autres boissons alcoolisées;
+b) [Abrogé, 1997, ch. 10, art. 137]
+c) les boissons gazeuses;
+d) les boissons de jus de fruit et les boissons à saveur de fruit non gazeuses, sauf les boissons à base de lait, contenant moins de 25 % par volume :
+(i) de jus de fruit naturel ou d’une combinaison de tels jus,
+(ii) de jus de fruit naturel ou d’une combinaison de tels jus, qui ont été reconstitués à l’état initial,
+ainsi que les produits qui, lorsqu’ils sont ajoutés à de l’eau, produisent une boisson figurant au présent alinéa;
+e) les bonbons, les confiseries qui peuvent être classées comme bonbons, ainsi que tous les produits vendus au titre de bonbons, tels la barbe-à-papa, la gomme à mâcher et le chocolat, qu’ils soient naturellement ou artificiellement sucrés, y compris les fruits, graines, noix et maïs soufflé lorsqu’ils sont enduits ou traités avec du sucre candi, du chocolat, du miel, de la mélasse, du sucre, du sirop ou des édulcorants artificiels;
+f) les croustilles, spirales et bâtonnets — tels les croustilles de pommes de terre, les croustilles de maïs, les bâtonnets au fromage, les bâtonnets de pommes de terre ou les pommes de terre juliennes, les croustilles de bacon et les spirales de fromage — et autres grignotines semblables, le maïs soufflé et les bretzels croustillants, à l’exclusion de tout produit vendu principalement comme céréale pour le petit déjeuner;
+g) les noix et les graines salées;
+h) les produits de granola, à l’exclusion des produits vendus principalement comme céréale pour le petit déjeuner;
+i) les mélanges de grignotines contenant des céréales, des noix, des graines, des fruits séchés ou autres produits comestibles, à l’exclusion de tout mélange vendu principalement comme céréale pour le petit déjeuner;
+j) les sucettes glacées, les tablettes glacées au jus de fruit et les friandises glacées, aromatisées, colorées ou sucrées, congelées ou non;
+k) la crème glacée, le lait glacé, le sorbet, le yogourt glacé, la crème-dessert (pouding) glacée, les succédanés de ces produits ou tout produit contenant l’un ou l’autre de ces produits, lorsqu’ils sont emballés ou vendus en portions individuelles;
+l) les tablettes, roulés et pastilles aux fruits et autres grignotines semblables à base de fruits;
+m) les gâteaux, muffins, tartes, pâtisseries, tartelettes, biscuits, beignes, gâteaux au chocolat et aux noix (brownies) et croissants avec garniture sucrée, ou autres produits semblables (à l’exclusion des produits de boulangerie tels les bagels, les muffins anglais, les croissants et les petits pains, sans garniture sucrée) qui :
+(i) sont pré-emballés pour la vente aux consommateurs en paquets de moins de six articles constituant chacun une portion individuelle,
+(ii) ne sont pas pré-emballés pour la vente aux consommateurs et sont vendus en quantités de moins de six portions individuelles;
+n) les boissons, sauf le lait non aromatisé, ou la crème-dessert (pouding) — gélatine aromatisée, mousse, dessert fouetté aromatisé et tout autre produit semblable à la crème-dessert — qui ne sont pas, selon le cas :
+(i) préparés et pré-emballés spécialement pour être consommés par les bébés,
+(ii) vendus en paquets pré-emballés par le fabricant ou le producteur et constitués de plusieurs portions individuelles,
+(iii) vendus en boîte, en bouteille ou autre contenant d’origine, dont le contenu dépasse une portion individuelle;
+o) les aliments ou boissons chauffés pour la consommation;
+o.1) les salades, sauf celles qui sont en conserve ou sous vide;
+o.2) les sandwiches et produits semblables, sauf ceux qui sont congelés;
+o.3) les plateaux de fromage, de charcuteries, de fruits ou de légumes et autres arrangements d’aliments préparés;
+o.4) les boissons servies au point de vente;
+o.5) les aliments ou boissons vendus dans le cadre d’un contrat conclu avec un traiteur;
+p) les aliments et boissons vendus au moyen d’un distributeur automatique;
+q) les aliments et boissons vendus dans un établissement où la totalité, ou presque, des ventes d’aliments et de boissons portent sur des aliments et boissons visés à l’un des alinéas a) à p), sauf si :
+(i) les aliments ou boissons sont vendus sous une forme qui n’en permet pas la consommation immédiate, compte tenu de la nature du produit, de la quantité vendue ou de son emballage,
+(ii) dans le cas d’un produit visé à l’alinéa m), le produit n’est pas vendu pour consommation dans l’établissement et, selon le cas :
+(A) est pré-emballé pour la vente aux consommateurs en quantités de plus de cinq articles dont chacun constitue une portion individuelle,
+(B) n’est pas pré-emballé pour la vente aux consommateurs et est vendu en quantités de plus de cinq portions individuelles;
+r) l’eau non embouteillée, sauf la glace.
+[Non souligné dans l’original.]
+[33] L’expression « produits alimentaires de base » n’est pas elle-même définie dans la Loi, mais l’on peut déduire ce qui suit du passage précédant l’alinéa a) de l’article 1 de la partie III de l’annexe VI :
+i) un aliment ou une boisson doit être destiné à la consommation humaine;
+ii) cela comprend « les édulcorants, assaisonnements et autres ingrédients devant être mélangés à ces aliments et boissons ou être utilisés dans leur préparation ».
+[34] Ainsi, au premier stade de l’analyse, la question sera de savoir si les produits en question sont des aliments ou des boissons destinés à la consommation humaine. Par exemple, dans certaines décisions, il a été conclu que certains produits n’étaient pas des aliments destinés à la consommation humaine : Vincent Chow Crane Martial Arts Ltd. c. La Reine, 1999 CanLII 375 (C.C.I. – procédure générale), et Kandawala c. La Reine, 2004 CCI 659.
+[35] Une fois qu’il a été établi qu’un aliment ou une boisson est destiné à la consommation humaine (y compris les assaisonnements et autres ingrédients devant être mélangés à ces aliments), la question suivante est de savoir si cet article a été expressément exclu. En d’autres termes, le législateur, dans sa sagesse, a-t-il exclu cet aliment ou cette boisson aux alinéas 1a) à r) susmentionnés?
+[36] J’ajouterai qu’une analyse plus poussée pourrait être requise pour déterminer si l’exclusion prévue par la Loi contient une exception prépondérante, comme par exemple les alinéas 1f), h) ou i), qui excluent certains aliments sauf s’ils sont « vendu[s] principalement comme céréale pour le petit déjeuner ». Il existe d’autres exceptions prépondérantes.
+[37] Dans la décision 1146491 Ontario Ltd. c. La Reine, [2002] A.C.I. no 248 (QL), le juge C. Miller devait déterminer si des ensembles pour salade (contenant de la laitue et divers ingrédients emballés dans des sacs de type « Zip-lock ») pour la préparation d’une salade César ou d’une salade grecque étaient détaxés à titre de produits alimentaires de base ou exclus à titre d’aliments préparés. Il a résumé la situation ainsi (au paragraphe 12) :
+[12] Dès les débuts de la taxe sur les produits et les services, le gouvernement a dit clairement que les produits alimentaires de base ne devaient pas être taxés. Plutôt que de tenter de définir ce qui est inclus dans les produits alimentaires de base, l’alinéa 1o.1) de la Partie III de l’Annexe VI établit une liste d’exceptions aux produits alimentaires de base. À l’examen de la liste d’exceptions, il ressort de façon évidente qu’il existe deux catégories de produits qui ne doivent pas être considérés comme des produits alimentaires de base : les collations et les aliments vides, y compris à peu près tout ce que la plupart des gens considèreraient comme des aliments qui ne sont pas très sains; et les aliments à consommer immédiatement une fois l’emballage ouvert ou enlevé […] Si l’on examine particulièrement les aliments visés dans les alinéas 1o.1), o.2), o.3), o.4) et o.5), la meilleure façon de décrire le lien qu’ils ont en commun est probablement de dire qu’il s’agit d’aliments entièrement cuisinés. Ces aliments ne requièrent aucune préparation – tout est fait pour vous. […]
+[38] Le juge Miller a conclu que les ensembles pour salade étaient des produits alimentaires de base puisqu’ils devaient être rapportés à la maison pour être préparés et que, même s’ils étaient certainement plus pratiques qu’une simple laitue, ils n’étaient pas du prêt-à-manger.
+[39] Dans la décision Kandawala c. La Reine, 2004 CCI 659 (C.C.I. – procédure informelle), le juge Rip (tel était alors son titre) a répété que la bonne méthode consistait à examiner si le produit alimentaire en question constitue un aliment destiné à la consommation humaine, et, dans l’affirmative, à déterminer « s’il est visé par une des exceptions prévues » (au paragraphe 6). Il a ensuite énuméré plusieurs facteurs à examiner pour déterminer si un aliment donné est exclu (au paragraphe 14) :
+a) La marchandise en cause fait-elle l’objet d’une exonération expresse de la taxe selon la liste d’exceptions prévues par la partie III de l’annexe VI de la Loi?;
+b) La marchandise peut-elle être légitimement considérée comme un aliment cuisiné?;
+c) La marchandise est-elle destinée à être consommée immédiatement une fois l’emballage ouvert ou enlevé?;
+d) Le consommateur doit-il procéder à une préparation plus poussée de la marchandise avant de la consommer?;
+e) La marchandise est-elle destinée à être consommée (par opposition, par exemple, à un produit nécessitant une application externe)?;
+f) La marchandise est-elle généralement considérée comme un produit alimentaire de base?;
+g) La marchandise présente-t-elle les caractéristiques habituellement associées aux aliments (c.-à-d., a-t-elle bon goût, son emballage comporte-t-il une liste des ingrédients, est-ce qu’elle apaise la faim, etc.)?
+[40] Dans la décision Aliments Koyo Inc. c. La Reine, 2004 CCI 286 (C.C.I. –procédure informelle), la juge Lamarre Proulx devait déterminer si la fourniture de « boissons au soja à saveur de fraise » était « une fourniture détaxée » (au paragraphe 2). Dans cette affaire, l’appelante appelait le produit « lait de soja » et le décrivait comme une « solution de rechange végétarienne, saine et hautement nutritive, au lait de vache » (au paragraphe 5) qui ne figurait pas dans les exclusions prévues par la loi visant les aliments « dépourvus de valeur nutritive » (au paragraphe 9). La juge Lamarre Proulx a rejeté cet argument en concluant que le lait de soya était exclu au titre de l’alinéa 1d) et elle a ajouté ce qui suit :
+[22] Je ne crois pas que la partie III de l’annexe VI impose l’obligation de satisfaire à un critère de salubrité comme condition pour obtenir la détaxation d’une fourniture et je n’ai ni le droit, ni le pouvoir discrétionnaire d’ajouter un tel critère à la partie III. Même si une boisson au soja peut être un produit alimentaire sain, elle ne peut pas être une fourniture détaxée si elle relève de l’une des exceptions.
+[41] Les avocats de l’intimée ont également fait référence à un certain nombre de décisions du Tribunal canadien du commerce extérieur (TCCE), dont General Mills Canada Inc. c. Sous-ministre du Revenu national, 1998 CarswellNat 6116, qui portait sur la classification de marchandises pour l’application de la Loi sur les douanes, L.R.C. 1985, ch. 1 (2e suppl.). Il s’agissait de déterminer si un goûter appelé « roulés aux fruits » était visé par la classification « fruits et autres parties comestibles de plantes, autrement préparés ou conservés avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool […] » ou si, comme l’avait soutenu l’intimé, la « nature des marchandises en cause procède d’une confiserie ». Le tribunal a conclu (au paragraphe 17) :
+[17] […] Les éléments de preuve indiquent que […] [l]es deux principaux ingrédients, en poids, sont la maltodextrine et le sucre. Ces ingrédients font que les marchandises en cause ressemblent davantage à des sucreries qu’à une purée et, en combinaison avec la purée, ils composent le produit final qui, de l’avis du Tribunal, est commercialisé et vendu en tant que sucrerie, comme le reflètent leur emballage et leur description en tant que goûter à mâcher, fait à partir de fruits véritables. Le Tribunal est donc d’avis que les éléments de preuve montrent que les marchandises en cause sont des marchandises présentées sous forme de sucreries […]
+[Non souligné dans l’original.]
+[42] L’intimée a par ailleurs fait référence à la décision du TCCE dans Pfizer Canada Inc. c. Le Commissaire de l’Agence des douanes et du Revenu du Canada, [2003] T.C.C.E. no 86 (QL), dans laquelle le Tribunal devait statuer si les « pastilles contre la toux Halls » étaient un médicament ou une confiserie. Il a conclu que, étant donné « leur commercialisation, leur emballage et leur emploi, à savoir un emploi à des fins médicinales, […] les marchandises en cause n’entrent pas dans la portée de la définition des mots […] “confiseries” ».
+[43] L’intimée a aussi soulevé la question de l’interprétation des lois en ce qui concerne les lois fiscales, invoquant Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] R.C.S. 56 :
+11. […] De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent.
+[…]
+13. La Loi de l’impôt sur le revenu demeure un instrument dominé par des dispositions explicites qui prescrivent des conséquences particulières et commandent une interprétation largement textuelle […]
+[Non souligné dans l’original.]
+[44] Les deux parties ont présenté un certain nombre de définitions du terme « produits alimentaires » tirées de diverses sources. Dans la décision 1146491 Ontario Ltd., précitée, le juge C. Miller a rejeté les diverses définitions tirées de dictionnaires au profit du « sens courant d’un mot » (au paragraphe 10) :
+10. Les avocats s’entendent pour dire que la façon d’aborder correctement cette question d’interprétation se trouve dans la décision Shaklee Canada Inc. c. La Reine, C.A.F., no A-182-95, 19 décembre 1995 ((1995) 191 N.R. 227) où il est mentionné qu’il convient d’examiner le sens courant d’un mot. Une fois cela convenu, les avocats ont produit certaines définitions du mot salade tirées du dictionnaire. À vrai dire, ces définitions sont peu ou pas utiles. […] Je vais cependant déterminer si les ensembles pour salade de Marché Frais sont des produits alimentaires de base ou s’ils entrent dans les exceptions qui s’appliquent dans le cas des produits alimentaires de base.
+[45] Enfin, comme il est souligné dans la décision Aliments Koyo Inc., précitée : « D’après les règles d’interprétation des lois, un mot doit être compris dans son acception courante, à moins que le texte législatif ne donne à ce mot un sens particulier » (au paragraphe 24).
+IV. Analyse
+[46] Comme il est indiqué ci-dessus, il ne fait aucun doute que les produits en question étaient des aliments destinés à la consommation humaine et que la Cour n’a qu’à déterminer s’ils étaient exclus du fait de l’article 1 de la partie III de l’annexe VI de la Loi.
+[47] Dans l’examen de cette question, il est important de garder à l’esprit que, même si la Loi est une loi fiscale générale dont le but est de générer des recettes pour l’État, elle comprend également d’importants objectifs stratégiques, dont l’un est de soustraire les produits alimentaires de base à la TPS. Elle le fait en disposant qu’ils sont détaxés.
+[48] Étant donné que les fournitures énumérées à l’article 1 de la partie III de l’annexe VI visent à exclure certains aliments et boissons destinés à la consommation humaine, je suis d’avis que cet article devrait être interprété de façon restrictive. Adopter une interprétation large de telles exclusions irait à l’encontre de l’objectif énoncé ci-dessus.
+[49] Comme l’a indiqué le juge en chef Bowman (tel était alors son titre) dans la décision United Parcel Service Canada Ltd. c. La Reine, 2006 CCI 450, au paragraphe 23 :
+23. Dans l’interprétation de toute loi, y compris des dispositions sur la TPS de la LTA, de même que de celles de la Loi sur les douanes, il est important d’adopter une démarche qui permette, autant que possible, d’arriver à un résultat rationnel, pratique et raisonnable (Maritime Life Assurance Co. c. La Reine, [1999] G.S.T.C. 1 (C.C.I.), confirmé à [2000] G.S.T.C. 89 (C.A.F.)), et donc à un résultat qui est compatible avec l’esprit de la Loi (Highway Sawmills Ltd. c. M.R.N., 1966 CanLII 49 (SCC), 66 DTC 5116, par le juge Cartwright).
+[Non souligné dans l’original.]
+[50] J’ajouterai que, puisque les aliments et les boissons sont commercialisés et vendus dans une variété infinie de formats, il faudra tenir compte de divers éléments, notamment l’emballage, l’étiquetage et l’emplacement des produits pour déterminer si ces aliments ou boissons peuvent être correctement considérés comme étant des produits alimentaires de base ou s’ils ont été spécifiquement énumérés ou mentionnés dans les exclusions prévues par la loi.
+Le gingembre enrobé de sucre
+[51] L’intimée soutient que le gingembre enrobé de sucre distribué par l’appelante est exclu du fait de l’alinéa 1e) de la partie III de l’annexe VI de la Loi parce qu’il s’agit de « confiseries qui peuvent être classées comme bonbons ». Comme il est indiqué ci-dessus, un certain nombre de définitions de dictionnaires ont été présentées à la Cour, notamment pour les termes [traduction] « confiserie », [traduction] « dragée » et [traduction] « sucrerie », et il a été avancé que, si la Cour concluait qu’il s’agissait d’une confiserie, comme elle le devrait, il serait sans importance que le produit ait été vendu comme fruit séché ou ingrédient de boulangerie-pâtisserie, car il serait exclu. Le produit ne pouvait être à la fois confiserie et fruit séché ou ingrédient de boulangerie-pâtisserie.
+[52] Le témoin de l’intimée a reconnu qu’elle n’avait aucune formation en nutrition alimentaire ou comportement du consommateur, mais a déclaré qu’elle avait à l’occasion mangé du gingembre enrobé de sucre comme collation, ce qui indique qu’il s’agit d’un aliment cuisiné. Elle a également affirmé avoir récemment acheté du gingembre enrobé de sucre chez un confiseur local. J’estime que son témoignage sur cette question a une valeur probante limitée étant donné son manque d’expertise en la matière. En outre, rien n’indiquait si le gingembre enrobé de sucre qu’elle avait acheté était de la variété confite ou non. Quoi qu’il en soit, il a été établi que ce n’était pas le produit de l’appelante.
+[53] L’appelante a soutenu que son gingembre enrobé de sucre était vendu soit comme un [traduction] « ingrédient de boulangerie-pâtisserie », soit comme produit de la catégorie des [traduction] « fruits séchés biologiques » (bien qu’il s’agisse en fait d’une racine). Tout en reconnaissant que le gingembre pouvait effectivement être confit, M. Walker a précisé que la teneur en sucre indiquée sur l’étiquette de l’emballage pour son gingembre enrobé de sucre tenait compte du sucre d’origine naturelle et d’un léger saupoudrage de sucre. Le premier ingrédient demeurait le gingembre.
+[54] La preuve de l’appelante était qu’elle n’avait jamais vendu ce produit comme un bonbon ou une confiserie et qu’elle n’avait jamais vu ses clients le vendre comme tel dans leur rayon d’aliments en vrac.
+[55] En adoptant une interprétation textuelle de l’alinéa 1e), je conclus que les mots « les bonbons, les confiseries qui peuvent être classées comme bonbons, ainsi que tous les produits vendus au titre de bonbons », au début de l’alinéa, donnent clairement à penser que ce dernier a pour but principal d’exclure les aliments qui sont généralement considérés et vendus comme des bonbons, dont le premier ingrédient est en fait du sucre ou un autre édulcorant naturel ou artificiel.
+[56] Comme il est souligné ci-dessus, la Cour doit examiner le sens courant des mots. Je conclus qu’un consommateur moyen conviendrait que de nombreux fruits séchés contiennent du sucre naturel et peuvent être consommés comme collation sans qu’ils puissent se comparer à des produits comme des pommes glacées ou des « roulés aux fruits » (comme le produit en cause dans la décision General Mills Canada, précitée, où l’on a établi que la maltodextrine et le sucre constituaient les deux ingrédients principaux). Bien que la racine de gingembre ne soit pas un fruit séché, je souscris à la thèse de l’appelante selon laquelle ce produit est semblable à un fruit séché et qu’il a été correctement inclus dans une liste d’articles sous la rubrique [traduction] « Fruits séchés biologiques », lesquels sont utilisés principalement comme ingrédients de boulangerie-pâtisserie.
+[57] J’ajouterai que les avocats de l’intimée ont reconnu que les grains de chocolat et le chocolat de cuisson ne sont pas visés par l’alinéa 1e) en raison d’une politique administrative de l’ARC. J’estime qu’il est probable que la plupart des consommateurs seraient étonnés d’apprendre que des produits vendus dans le rayon des produits pour la pâtisserie d’une épicerie pourraient être assujettis à la TPS au motif qu’ils seraient considérés comme des bonbons ou des confiseries. J’aurais pensé que ces articles étaient simplement des ingrédients servant à la boulangerie ou à la pâtisserie et qu’ils étaient donc des fournitures détaxées du fait qu’ils constituent des produits alimentaires de base.
+[58] Bien qu’il y ait peu de doute que les fruits séchés, y compris la racine de gingembre, puissent être confits et vendus par un confiseur ou même achetés et consommés comme collation, je suis convaincu, selon la prépondérance des probabilités, que le gingembre enrobé de sucre vendu par l’appelante n’était ni un bonbon ni une confiserie exclues du fait de l’alinéa 1e). Il a été vendu comme ingrédient de boulangerie-pâtisserie au même titre que des fruits séchés. Partant, je conclus que le gingembre enrobé de sucre de l’appelante est détaxé pour l’application de la Loi.
+Les bâtonnets
+[59] Comme il est souligné ci-dessus, les bâtonnets vendus par l’appelante ont été fabriqués par une entreprise appelée Old School Snacks, et les éléments de preuve ont clairement établi qu’ils étaient vendus comme collations et consommés tels quels sans autre préparation.
+[60] L’intimée fait valoir qu’ils sont visés par l’alinéa 1f) de la partie III de l’annexe VI de la Loi en tant que « croustilles, spirales et bâtonnets » et « autres grignotines semblables ». Elle soutient qu’il s’agit essentiellement d’un aliment cuisiné et que rien ne permet de les qualifier de collation santé.
+[61] L’appelante soutient que les bâtonnets sont des produits à base de blé, semblables à des craquelins, et sont vendus comme « collation biologique ». Il en découlerait qu’ils sont essentiellement un produit de boulangerie qui est à la fois sain et santé. Il faudrait en retenir que, bien que l’alinéa 1m) exclue les « gâteaux, muffins, tartes, pâtisseries (...) » des produits alimentaires de base, elle prévoit une exemption pour les « produits de boulangerie ». En d’autres termes, les produits de boulangerie sont considérés comme des produits alimentaires de base, et cela inclurait vraisemblablement les craquelins ou même les bâtonnets de pain faits en boulangerie. Le témoin de l’intimée a admis que les bâtonnets en question étaient faits comme des craquelins qui sont détaxés.
+[62] La difficulté, bien sûr, provient du fait que les bâtonnets de l’appelante n’étaient pas vendus comme des craquelins ou des « bâtonnets de pain » ni même comme un produit de boulangerie. En outre, bien que le témoin de l’appelante ait expliqué que ces ingrédients provenaient [traduction] « d’une pâte », il a également déclaré que les morceaux étaient ensuite frits. Je pense que la plupart des consommateurs conviendraient que les produits de boulangerie, y compris les craquelins, sont en fait cuits au four, et non pas frits.
+[63] Au bout du compte, j’estime que le fait que les bâtonnets aient été commercialisés comme collation biologique santé importe peu. Dans l’ensemble, je conclus que les bâtonnets sont un aliment cuisiné, visés par les mots « autres grignotines semblables » et plus précisément par le mot « bâtonnets » figurant à l’alinéa 1f).
+Le granola
+[64] Comme il est souligné ci-dessus, bien que le ministre ait initialement exclu tous les produits de granola de l’appelante, elle a ensuite admis que le granola destiné au rayon des aliments en vrac était détaxé.
+[65] Le témoin de l’intimée a mentionné que l’ARC avait accordé à l’appelante le bénéfice du doute puisque le granola n’était ni étiqueté ni emballé. Je suis d’avis que, selon toute probabilité, elle a aussi accepté logiquement la thèse de l’appelante selon laquelle tous ses clients faisant de la vente au détail plaçaient le granola dans la section des céréales de leur rayon d’aliments en vrac.
+[66] Le point en litige concerne les produits de granola préemballés fabriqués par Martin’s Marvellous Naturals. Ce produit pose une difficulté parce que l’emballage de forme irrégulière n’est pas conforme à ce que la plupart des consommateurs considéreraient comme une boîte de céréales normale. Il diffère aussi des boîtes habituelles par les ouvertures ovales qui permettent aux consommateurs de voir le produit et, enfin, par le fait que, outre la liste habituelle des ingrédients et l’information nutritionnelle obligatoire, il porte la mention [traduction] « Merveilleux avec du yogourt à la vanille […] ou en collation, tel quel! » Il est évident que le fabricant avait l’intention de produire un emballage qui, dans le marché, se distinguerait des autres emballages de céréales conventionnels qui sont généralement étiquetés « céréale pour le petit déjeuner ».
+[67] Selon l’intimée, l’étiquetage et l’emballage mènent à la conclusion que le produit n’était pas « vendu principalement comme céréale pour le petit déjeuner » au sens de l’alinéa 1h), mais qu’il était vendu comme collation. De plus, l’intimée a soutenu que le produit figurait sur une liste de produits ou de prix sous la rubrique [traduction] « céréales et granolas », ce qui donne à penser qu’il pourrait s’agir de l’un ou de l’autre.
+[68] L’appelante a affirmé que le produit de Martin’s Marvelous était vendu par les détaillants dans la section des céréales du magasin pour être consommé comme céréale. Le témoin de l’appelante a soutenu que, même si l’emballage laissait entendre que le produit pouvait être consommé [traduction] « tel quel », cela n’était pas vraiment possible étant donné la consistance granulée du produit. Quoi qu’il en soit, je suis d’avis que la plupart des consommateurs conviendraient que de nombreux types de céréales pour le petit déjeuner peuvent être consommées « telles quelles » et le fait que l’emballage vous invite à le faire ne change pas une céréale pour le petit déjeuner en une collation ou un aliment cuisiné.
+[69] Les deux avocats ont donné des définitions de « céréale pour le petit déjeuner », et j’en conclus que le sens courant de cette expression est une céréale ou un produit similaire consommé avec du lait ou de l’eau chaude (comme le gruau), mais aussi avec du yogourt.
+[70] Bien que je convienne que l’emballage et l’étiquetage l’emporteront en règle générale, j’estime que l’endroit où est placé le produit à l’épicerie est tout aussi déterminant. Selon la preuve de l’appelante, les clients de celle‑ci vendaient le produit en question dans l’allée des céréales de l’épicerie, ce que le témoin de l’intimée n’a pas contesté.
+[71] Compte tenu de ce qui précède, je conclus que les produits de granola Martin’s Marvellous ont été vendus principalement comme céréale pour le petit déjeuner. Ils sont donc détaxés en application de l’alinéa 1h) de la partie III de l’annexe VI de la Loi.
+V. Conclusion
+[72] En conclusion, le gingembre enrobé de sucre et les produits de granola sont détaxés et ne sont donc pas assujettis à la TPS, tandis que les bâtonnets sont exclus et par conséquent taxables. J’estime que cette conclusion est conforme à la jurisprudence et souligne l’importance de veiller « à appliquer logiquement et convenablement la politique gouvernementale voulant que les produits alimentaires de base soient détaxés » (1146491 Ontario Ltd., précitée, au paragraphe 11).
+[73] L’appelante a droit aux dépens conformément au tarif applicable, lesquels tiendront compte qu’elle a obtenu gain de cause à l’égard de deux des trois produits. Subsidiairement, les parties peuvent décider de répartir les dépens proportionnellement au volume des ventes des produits en cause au cours des périodes de déclaration. Si les parties ne parviennent pas à s’entendre, des observations écrites doivent être présentées à la Cour dans les 60 jours suivant la date des présents motifs.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2017.
+« Guy Smith »
+Juge Smith
+Traduction certifiée conforme
+ce 12e jour de juin 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 59
+NO DU DOSSIER DE LA COUR :
+2013-4000(GST)G
+INTITULÉ :
+IKE ENTERPRISES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 5 octobre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 12 avril 2017
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Avocats de l’intimée :
+Me Victor Caux
+Me Matthew Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Michel Bourque
+Me Jacqueline A. Fehr
+Cabinet :
+KPMG Law LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

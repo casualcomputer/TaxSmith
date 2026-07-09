@@ -1,0 +1,306 @@
+---
+title: "Nowak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26523/index.do"
+last_modified: "2005-07-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 438"
+citation2: ""
+neutral_citation: "2005 CCI 438"
+decision_date: "2005-07-19"
+language: "fr"
+item_id: "26523"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3206
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:45:02.688000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "665694d6f56b352c1ca3886ed791c688de3a973268c82fd6e38c01e15ba3eec5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nowak v. The Queen
+
+- Citation: 2005 CCI 438
+- Decision date: 2005-07-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3206, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nowak v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-19
+Référence neutre
+2005 CCI 438
+Numéro de dossier
+2004-4007(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4007(IT)I
+ENTRE :
+GEOFFREY P. NOWAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus à Toronto (Ontario) le 8 juillet 2005.
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Lorraine Edinboro
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels interjetés contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont admis sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il les réexamine et qu'il en établisse de nouvelles en application des motifs de jugement ci-annexés.
+Signé à Vancouver (Colombie-Britannique) ce 19e jour de juillet 2005.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 16e jour de janvier 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI438
+Date : 20050719
+Dossier : 2004-4007(IT)I
+ENTRE :
+GEOFFREY P. NOWAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] Au cours de l'année d'imposition 1998 et pour la période allant de janvier à septembre de l'année d'imposition 1999, l'appelant était employé par Prestige Motors, qui l'avait embauché pour vendre des voitures d'occasion.
+[2] Dans ses déclarations de revenus pour les années d'imposition 1998 et 1999, l'appelant a indiqué les montants suivants :
+1998
+1999
+Revenu
+62 894,93 $
+33 024,88 $
+Frais
+17 413 $
+17 868 $
+[3] Dans des avis de nouvelle cotisation datés du 4 septembre 2001, le ministre du Revenu national (ci-après le « ministre » ) a refusé les montants de 15 585 $ pour l'année d'imposition 1998 et de 15 525 $ pour l'année d'imposition 1999.
+[4] Dans des avis de nouvelle cotisation datés du 3 avril 2003, le ministre a admis des montants supplémentaires à titre de frais.
+[5] L'appelant a produit des avis d'opposition.
+[6] Dans un avis de ratification daté du 17 mai 2004, le ministre a confirmé que l'appelant n'avait pas démontré la déductibilité des frais de 12 415 $ et de 13 518 $ qu'il avait déclarés respectivement pour les années d'imposition 1998 et 1999.
+B. QUESTION EN LITIGE
+[7] Il s'agit de déterminer si l'appelant est autorisé à déduire les frais relatifs à son emploi qui excèdent les montants admis par le ministre.
+C. ANALYSE ET CONCLUSION
+[8] Le tableau suivant résume les montants qui font l'objet du litige :
+FRAIS RELATIFS À L'EMPLOI POUR L'ANNÉE 1998
+Frais
+Montant déduit
+Montant admis
+Montant refusé
+Publicité
+750 $
+500 $
+250 $
+Véhicule à moteur
+7 046 $
+4 051,09 $
+2 994,91 $
+Représentation
+1 165 $
+224,33 $
+940,67 $
+Fournitures
+2 297 $
+222,86 $
+2 074,14 $
+Téléphone
+386 $
+0 $
+386 $
+DPA de l'ordinateur
+847 $
+0 $
+847 $
+Vêtements
+2 762 $
+0 $
+2 762 $
+Local de travail à domicile
+2 160 $
+0 $
+2 160 $
+Total
+17 413 $
+4 998,28 $
+12 414,72 $
+FRAIS RELATIFS À L'EMPLOI POUR L'ANNÉE 1999
+Frais
+Montant déduit
+Montant admis
+Montant refusé
+Publicité
+1 488 $
+500 $
+988 $
+Véhicule à moteur
+7 161 $
+3 524,07 $
+2 061,11 $
+Représentation
+1 153 $
+151,08 $
+1 001,92 $
+Fournitures
+2 684 $
+0 $
+2 684 $
+Permis du COCVA
+0 $
+175 $
+0 $
+Téléphone
+530 $
+0 $
+530 $
+Vêtements
+2 692 $
+0 $
+2 692 $
+Local de travail à domicile
+2 160 $
+0 $
+2 160 $
+Total
+17 868 $
+4 350,15 $
+13 517,85 $
+[9] J'ai conclu que l'appelant est autorisé à déduire les montants suivants :
+1. Publicité
+L'appelant a témoigné qu'il avait dû faire davantage de publicité pour attirer de nouveaux clients. Il a aussi témoigné que certains frais de publicité qu'il avait assumés avaient été déclarés dans les catégories « représentation » ou « fournitures » . À mon avis, l'appelant devrait être autorisé à déduire ainsi des montants supplémentaires à titre de frais de publicité :
+Année
+Montant déduit
+Montant admis
+Montant refusé
+Déduction supplémentaire
+1998
+750 $
+500 $
+250 $
+250 $
+1999
+1 488 $
+500 $
+980 $
+* 200 $
+* L'appelant ne travaillait pas pour Prestige Motors en octobre, en novembre et en décembre 1999. J'ai donc réduit le montant admis pour l'année d'imposition 1999 pour tenir compte du fait que l'appelant n'avait été au service de Prestige Motors que neuf mois au cours de cette année.
+2. Frais afférents au véhicule à moteur
+Année
+Montant déduit
+Montant admis
+Montant refusé
+Déduction supplémentaire
+1998
+7 046 $
+4 051,09 $
+2 994,91 $
+800 $
+1999
+7 161 $
+3 524,07 $
+2 061,11 $
+600 $
+Le principal argument de l'appelant est que le ministre a établi de façon erronée la consommation d'essence du véhicule. L'appelant a témoigné qu'il conduisait une Corsica 1989 d'occasion dont la consommation d'essence était élevée. L'appelant a soutenu que le calcul du ministre relativement à la consommation d'essence était irréaliste puisqu'il ne prenait pas en compte le type de véhicule qu'utilisait l'appelant. Je crois que l'argument de l'appelant est en partie fondé. J'ai conclu que l'appelant devrait être autorisé à déduire les montants supplémentaires de 800 $ pour l'année 1998 et de 600 $ pour l'année 1999 en ce qui touche les achats d'essence. (Remarque : le montant moins élevé pour l'année 1999 témoigne du fait que l'appelant n'était au service de l'entreprise que de janvier à septembre 1999.)
+3. Frais de représentation
+L'avocat du ministre a présenté les pièces R-3 et R-4. La pièce R-3 est un document qui énonce les conditions d'emploi pour l'année 1998 et la pièce R-4, celles pour l'année 1999. Ces documents portent la signature du chef d'entreprise de Prestige Motors. Le paragraphe 6 des pièces R-3 et R-4 contient l'énoncé suivant :
+[TRADUCTION]
+6 a) Avez-vous exigé de l'employé qu'il assume des frais supplémentaires pour lesquels il n'a pas reçu d'indemnité ou de remboursement?
+[ √ ] Oui [ ] Non
+b) Dans l'affirmative, veuillez préciser le type de frais. « Représentation, promotion, permis de vente, etc. » .
+L'appelant a témoigné qu'il a consacré beaucoup de temps et d'argent à la prospection de clientèle dans la communauté hispanophone. Il a néanmoins affirmé qu'il n'avait aucun reçu à l'appui des frais de représentation en sus des montants admis par le ministre.
+Le témoignage de l'appelant me persuade qu'il devrait être autorisé à déduire les frais de représentation supplémentaires suivants :
+1998
+800 $
+1999
+600 $
+4. Fournitures
+L'appelant a témoigné qu'il avait demandé la déduction de certains frais liés à des voyages qu'il a faits à Cuba et aux Bahamas. L'appelant a également dit avoir demandé la déduction de frais supplémentaires dans la catégorie « fournitures » .
+Je ne suis pas convaincu que l'appelant ait droit à une déduction à quelque titre que ce soit dans la catégorie « fournitures » .
+5. Téléphone Montant déduit Montant admis
+1998 386 $ 0 $
+1999 530 $ 0 $
+Le ministre n'a rien admis à titre de frais de téléphone dans la maison de l'appelant.
+L'appelant a témoigné qu'il utilisait fréquemment le téléphone de sa maison pour des communications d'affaires et qu'il faisait également des appels interurbains à partir de la maison.
+J'ai conclu que l'appelant devrait avoir droit aux déductions suivantes pour les frais de téléphone :
+Frais déductibles
+Frais non déductibles (dépense personnelle)
+1998
+50 % de 386 $ ou 193 $
+50 % de 386 $ ou 193 $
+1999
+40 % de 530 $ ou 212 $
+60 % de 530 $ ou 318 $
+6. Vêtements Montant déduit Montant admis
+1998 2 762 $ 0 $
+1999 2 692 $ 0 $
+Je ne suis pas disposé à admettre quelque déduction que ce soit dans cette catégorie.
+7. Local de travail à domicile Montant déduit Montant admis
+1998 2 160 $ 0 $
+1999 2 160 $ 0 $
+Je ne suis pas disposé à admettre quelque déduction que ce soit dans cette catégorie.
+[10] Les appels sont admis sans dépens, et il est ordonné au ministre d'établir de nouvelles cotisations selon les indications susmentionnées.
+Signé à Vancouver (Colombie-Britannique) ce 19e jour de juillet 2005.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 16e jour de janvier 2006.
+Joanne Robert, traductrice
+CITATION:
+2005TCC438
+COURT FILE NO.:
+2004-4007(IT)I
+STYLE OF CAUSE:
+Geoffrey P. Nowak and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 8, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+July 19, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

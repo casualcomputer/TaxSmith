@@ -1,0 +1,188 @@
+---
+title: "Zsebok v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30756/index.do"
+last_modified: "2012-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 99"
+citation2: ""
+neutral_citation: "2012 TCC 99"
+decision_date: "2012-03-29"
+language: "en"
+item_id: "30756"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7494
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:30:38.398000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "134f48e0988365175e39d92a8dd924b117c6386f9ad5b2ce49a456ca4a6c8e35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zsebok v. The Queen
+
+- Citation: 2012 TCC 99
+- Decision date: 2012-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7494, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zsebok v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-29
+Neutral citation
+2012 TCC 99
+File numbers
+2008-2035(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2035(IT)G
+BETWEEN:
+JAMES ZSEBOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 11, 12 and 13, 2012 at Windsor, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Roland P. Schwalm
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act of the Appellant’s 2001, 2003 and 2004 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in those years, the losses realized by the Appellant on the disposition of shares were on account of income.
+The appeal from the reassessment made under the Act for the 2002 taxation year is dismissed for not having met the requirements of subsection 169(1) of the Act.
+Signed at Ottawa, Canada this 29th day of March 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012 TCC 99
+Date: 20120329
+Docket: 2008-2035(IT)G
+BETWEEN:
+JAMES ZSEBOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] In 2001, 2002, 2003 and 2004, the Appellant, James Zsebok, claimed business losses resulting from his online share trading activities. The Minister of National Revenue disallowed the losses on the basis they were on account of capital.
+[2] At the hearing, the appeal of the reassessment of the 2002 taxation year was quashed upon the Appellant’s acknowledgement that he had never served a Notice of Objection in respect of it as required by subsection 169(1) of the Income Tax Act. However, the parties requested that evidence pertaining to the 2002 taxation year be taken into consideration in the disposition of the appeals for 2001, 2003 and 2004.
+[3] The Appellant and Loris Macor, the chartered accountant who prepared his 2001 to 2004 income tax returns, were the only witnesses. While there were certain gaps in the Appellant’s evidence it was generally credible; more will be said about specific portions of his testimony during the consideration of the factors set out below.
+[4] As for Mr. Macor, with some 30 years experience as an accountant, he had a clear understanding of the issue under appeal. However, I agree with counsel for the Respondent that not much weight should be given to his testimony. Mr. Macor’s close professional relationship with the Appellant’s employer rendered his testimony less objective than it might otherwise have been. Furthermore, Mr. Macor was not retained by the Appellant until sometime in 2005 so he was in no position to speak to the Appellant’s intentions in respect of his trading activities during the years 2001 to 2004. Whatever he knew about the Appellant’s circumstances, he had gleaned from reviewing the Appellant’s books and records long after the fact. Counsel for the Respondent noted that Mr. Macor was not called as an expert witness; accordingly, his letter to the Canada Revenue Agency dated March 7, 2007[1] in support of the Appellant’s position that he was engaged in a business venture when carrying on his online trading is in no way determinative of the issue before the Court – though I would add, I did not understand counsel for the Appellant to have relied on his evidence for that purpose.
+[5] As is often the case when the issue concerns a determination of capital versus income, it is not so much the facts that are in dispute as how they ought to be interpreted.
+Analysis
+[6] To succeed in his appeals, the Appellant had the onus of proving that he was either a “trader” as defined in subparagraph 39(5)(a) of the Act or alternatively, that he was engaged in an adventure in the nature of trade. That determination will depend on the Appellant’s circumstances considered in light of the factors enumerated by the Federal Court of Appeal in The Queen v. Vancouver Art Metal Works Ltd., 93 D.T.C. 5116 at page 5119:
+… It is, however, a question of fact to determine whether one’s activities amount to carrying on a trade or a business. … Obviously, factors such as the frequency of the transactions, the duration of the holdings (whether, for instance, it is for a quick profit or a long term investment), the intention to acquire for resale at a profit, the nature and quantity of the securities held or made the subject matter of the transaction, the time spent on the activity, are all relevant and helpful factors in determining whether one has embarked upon a trading or dealing business.
+Was the Appellant a “Trader”?
+[7] To qualify as a subsection 39(5) “trader”, the Appellant had to prove, in addition to the above factors, that he had “a particular or special knowledge of the market in which he trades”, Kane v. Canada, [1995] 1 C.T.C. 1 (F.C.T.D.) at paragraph 23. It is this characteristic that distinguishes a trader from one engaged in an adventure in the nature of trade.
+[8] While the Appellant had no professional training in share trading, he did have some education in economics and accounting. After graduating from university, he gained experience in fiscal matters by working his way up through various companies from inventory manager to chief financial officer. During this period, the Appellant also started at least three business ventures of his own: a paint and wallpaper store, a housing construction company and a kind of consultancy intended to assist other businesses to secure financing. Only the housing company ever became fully operational but it put a huge financial burden on the Appellant and his family and ultimately failed. Although none of these ventures was successful, they do demonstrate the Appellant’s tolerance for risk and capacity to work at other endeavours while in full-time employment.
+[9] In 1997, the Appellant opened a trading account (“Margin Account”) and a self-directed retirement savings plan account (“RSP Account”).
+[10] In March, 1998, he began working with the principal of his employer during the years under appeal, Mr. Khan. The Appellant was candid in his admiration of Mr. Khan’s business acumen; indeed, he seems to have served, if not as the Appellant’s mentor, certainly as a role model. In 2001, Mr. Khan asked the Appellant to handle his company’s acquisition of shares in a corporate take-over; he also entrusted the Appellant with conducting the company’s foreign exchange trading. These tasks were in addition to the Appellant’s regular employment duties.
+[11] In all the circumstances, I agree with the submissions of counsel for the Respondent that the Appellant lacked the special knowledge necessary to make him a “trader” as contemplated by Kane. The most that can be taken from the evidence is that his employment duties provided him with some experience in share trading, including exposure to various internet tools that could be used to track the market. But he had no specialized knowledge of the shares traded; as for the internet programs he used, these were available to the general public simply by paying the requisite subscription fee.
+Was the Appellant Engaged in an Adventure in the Nature of Trade?
+[12] More difficult to determine is whether the Appellant was engaged in an adventure in the nature of trade. Faced with the question in Baird v. R., 2010 FCA 35, the Federal Court of Appeal noted:
+28 The present appeal has again highlighted the difficulty of determining … the boundary between income and capital gains and, hence, the difficulty of determining whether a taxpayer is engaged in an adventure in the nature of trade. The taxpayer’s intention, at the time of acquiring the property at issue, is always a highly relevant factor which can only be determined by examining the taxpayer’s entire course of conduct. …
+[13] Turning, then, to the Appellant’s intention, he was adamant that his sole intention in trading between 2001 and 2004 was to make a quick profit. Notwithstanding the care and vigour of counsel for the Respondent’s questioning on cross-examination, the Appellant remained unshaken on this point.
+[14] In argument, counsel for the Respondent characterized the Appellant’s behaviour as “opportunistic retroactive tax planning”. It is true that in not filing returns for 2001 to 2004 until January 27, 2006, the Appellant had the benefit of knowing the overall outcome of his four years of trading activity before committing to a reporting strategy. While I feel there is more to this story than what was revealed at the hearing, the only issue before me is the correctness of the Minister’s determination that the losses were on account of capital. For the reasons set out below, I am satisfied that when considered in light of the factors established in Vancouver Art Metal, the evidence of the Appellant’s overall conduct is consistent with his stated intention to acquire shares for resale at a quick profit. Because of the overlap in the evidence, some of these factors have been dealt with together under one heading.
+1. The frequency of the transactions; duration of the holdings; and the nature and quantity of the securities held or made the subject matter of the transaction
+[15] The Minister made the following assumptions in respect of the frequency of the transactions:
+…
+(g) the total number of days in which the Appellant traded securities was twenty-one days (21) in 2001, twenty-four days (24) in 2003 and eleven days (11) in 2004;
+(h) the Canadian stock exchanges are open for trading activity an average of 255 days per calendar year;
+(i) the number of days for which the Appellant was involved in trading activity represents approximately 5% to 10% of days the stock markets are open and active;
+…
+[16] At the hearing, counsel agreed that for the purposes of calculating the number of trades, a transaction was considered to have occurred where the Appellant had been required to pay a commission on it. On this basis, counsel estimated the number of trades in each year in the Appellant’s Margin Account and RSP Account as follows:
+Year
+Margin Account
+RSP Account
+2001
+23
+9
+2002
+48
+1
+2003
+21
+1
+2004
+1
+1
+[17] However accurate they may be, these dry statistics do not paint a true picture of the flurried nature of the Appellant’s trading behaviour. At the hearing, counsel for the Appellant took the Appellant through over four years of monthly trading reports for both the Margin Account and the RSP Account[2]. He was then cross-examined on the same material. Laborious as it was, this process provided a fuller picture of the Appellant’s trading activities: his strategy was to identify highly volatile shares trading in high volume with a view to maximizing his earnings while playing the range. This objective is consistent with the Minister’s own assumption that “the average duration of the holdings was sixty-two days (62) for 2001, sixty days (60) for 2003 and sixty-two (62) days for 2004”[3]. Indeed, many shares were held for a much shorter than average period, often for only a few days or hours. In these circumstances, there was no hope of earning dividends or waiting for the investment to mature, often one of the indicia of a capital holding.
+[18] The Appellant tended to trade in only three stocks, with an average value of about $10. In 2001, the number of shares purchased was 20,500, the number sold was 32,600. In 2002, 70,800 purchased, 22,700 sold. In 2003, 311,900 purchased, 345,000 sold. In 2004, 151,000 purchased, 66,000 sold.
+[19] Counsel for the Respondent cited Leng v. R., 2007 TCC 59, 2007 D.T.C. 370 for the proposition that “[t]he fact that a person buys and sells shares at a short interval is not, by itself, conclusive that the person is a trader or that the venture was in the nature of trade." [Emphasis added by counsel for the Respondent.] In the present case, however, the Appellant’s conduct in this regard is but one of several other factors supporting this conclusion.
+[20] Whenever the Appellant had enough cash on hand or sufficient borrowing power, he was back in the market, hoping to make a few pennies on each transaction eventually adding up to a big profit. He had seen Mr. Khan use this strategy to great advantage in the company’s foreign exchange trading. The Appellant, however, had nowhere near his employer’s financial resources. He was heavily over-leveraged, a fact often indicative of a speculative intent. Nevertheless, his trading continued apace, until the range flattened or the Appellant’s funds ran out. Oftentimes, what small gains he made during these trading skirmishes were wiped out by commissions and borrowing costs.
+[21] With the possible exception of Nortel, none of the shares traded by the Appellant was of the “blue chip” variety. While acknowledging that dealing in such shares could be consistent with an intention to trade, counsel for the Respondent argued that conclusion was negated by the fact that the Appellant held the same kinds of shares in both his RSP Account and his Margin Account. Because, generally speaking, an RSP account is used for long-term capital investments, counsel argued that it could be inferred that the shares in his Margin Account were also acquired with that intention.
+[22] In my view, this is to look at things from the wrong end of the stick. The fact is the Appellant did not treat his RSP Account the way most investors would. So intent was he on trading that, at one point, he withdrew money from his RSP Account to beef up his Margin Account – with the unhappy result that not only did he lose the money but also had to pay tax on it. During one of his particularly unsuccessful bouts of trading, he had to take funds from his RSP Account to buy groceries and pay the mortgage. However foolishly, the Appellant was essentially using his RSP Account as a branch office of the Margin Account. Both were being used to satisfy the Appellant’s get-rich-quick dreams.
+[23] Counsel for the Respondent further submitted that certain shares traded in 2004, the Dimethaid shares, ought not to be considered in determining whether the Appellant was in the business of trading. Counsel noted the Appellant’s testimony to the effect that, unlike his other share acquisitions, the Dimethaid shares had been purchased “with his heart”. Further, the Appellant purchased 45,000 Dimethaid shares directly through his RSP Account. Finally, the Dimethaid dispositions in his Margin Account were not reported as part of his trading activities for 2004 and were ultimately transferred from the Margin Account to his RSP Account in 2005. In these circumstances, counsel for the Respondent contended it could be inferred that the Appellant intended to keep the Dimethaid shares for the long term.
+[24] First of all, I am not persuaded that the exclusion of the Dimethaid shares from the calculation of the transactions has much impact on the Appellant’s overall course of conduct. Even if I am in error on this point, however, there are other factors militating against the Respondent’s position. First, although the Appellant acknowledged that it was only the involvement of a friend in the company that caused him to buy Dimethaid, he was also clear that he would have disposed of the shares had they suddenly spiked in value. This did not happen.
+[25] The fact that some of the Dimethaid shares were initially purchased through the Appellant’s RSP Account is equally unhelpful to the Respondent’s position. As mentioned above, the Appellant treated both his RSP Account and Margin Account as vehicles for trading. As for the transfer of the Dimethaid shares from the Appellant’s Margin Account to the RSP Account, that had nothing to do with an intention to hold them for the long term. What motivated the transfer in 2005 was the looming shadow of a Requirement to Pay that the Canada Revenue Agency Collections Department had issued to the Appellant’s broker. To prevent the proceeds of any disposition of the Dimethaid shares making their way back to the Minister, the Appellant transferred them to his RSP Account.
+[26] In my view, the telling feature of the Appellant’s conduct is the feverish nature of his trading activities. If the tables were turned and he had managed to make the profits he dreamed of, I cannot for one moment imagine the Minister characterizing his activities as being consistent with an intention to acquire the shares as a long-term capital investment. For the reasons set out above, the evidence in respect of these factors favours the Appellant’s contention that he was engaged in an adventure in the nature of trade.
+2. The time spent on the activity
+[27] The Minister assumed that the Appellant was in full-time employment which required him to travel internationally on a frequent basis[4], the implication being that in these circumstances, he would not have had time to be in the business of share trading. However, the Appellant’s uncontradicted evidence was that his employment duties rarely took him outside of Canada between 2001 and 2004. Even if they had, however, given that all of his transactions were conducted on-line, being out of the country would not have prevented him from carrying on his activities via the internet.
+[28] Counsel for the Respondent also contended that the Appellant over-estimated the amount of time he would have been able to dedicate to his personal trading during his hours of employment. This, I doubt. I accept the Appellant’s evidence that his work duties required him to keep an eye on the stock market and provided him with the tools to do so. He spoke of sitting at his computer, with multiple screens open providing constant updates on the state of the market. Given his access to such tools and his capacity for multi-tasking, the Appellant’s evidence that he could simultaneously monitor employment and personal investment data was convincing. I accept as well that he worked long hours either in the office or at home, in part, to keep abreast of developments in the international market. In these circumstances, I have no hesitation in concluding that the Appellant’s full-time employment was no impediment to his personal trading. Quite the contrary: it not only provided him with the tools and some skills, but also fueled his enthusiasm for the activity.
+[29] While the Minister made no assumptions in this regard, counsel for the Respondent noted that a review of the share transaction history showed long periods of inactivity. When the Appellant did not have sufficient liquidity to trade (for example, if he had exceeded the borrowing limits on his Margin Account or had no cash balance in his RSP Account), no trades were made. From this, counsel contended, it could be inferred that the Appellant was not engaged in the business of trading.
+[30] The counter to this, however, is that whenever the Appellant did have a penny to trade with, he was back online. As soon as he made enough of a profit on his Margin Account to create even a modest cash balance or to reinstate his borrowing power, he was, once again, trading shares. His generous biannual employment bonuses were immediately ploughed into his trading account, usually to his detriment. He did the same with contributions made to his RSP Account. In my view, the Appellant’s periods of inactivity do not signal a lack of intention to trade, simply a temporary lack of means.
+3. Previous Reporting History
+[31] According to the Federal Court of Appeal Rajchgot v. Canada, [2005] 5 C.T.C. 1 (F.C.A.), “a taxpayer who wants to change his reporting status in circumstances where it becomes more tax efficient to do so bears a heavy onus”[5]. The Minister assumed at subparagraph 10(n) of the Reply that for 1999 and 2000, the Appellant reported losses and gains from disposition of securities as being on account of capital.
+[32] This is not, strictly speaking, true. Notwithstanding the above assumption, the Minister does not dispute that the Appellant himself did not file any returns for 1999 and 2000. As a result, in 2002, the Minister arbitrarily assessed the Appellant’s 1999 and 2000 taxation years under subsection 152(7) of the Act. According to the Minister’s records, the reconstructed arbitrary assessment for 1999 shows the Minister assessed in respect of both income and capital gain amounts; there is no clear indication of how the 2000 taxation year was assessed.
+[33] Sometime in 2004, the Appellant asked a local accountant to prepare amended returns for 1999 and 2000. Draft returns were prepared in which the share dispositions were reported on account of capital. These returns, however, were never filed. Instead, in 2005, the Appellant took them to Mr. Macor, the chartered accountant who testified at the hearing. According to Mr. Macor, rather than conducting his own analysis of the Appellant’s books and records, he simply reproduced the information in the original draft returns. He could not explain why he would have taken such an approach to a new client’s returns. He then sent the new draft returns to the Appellant for his review, signature and filing. At the hearing, Mr. Macor expressed surprise upon learning the Appellant had not filed these returns. The Appellant offered no explanation for this failure, other than to say that a protracted dispute with the Canada Revenue Agency over a GST assessment of the 1999 taxation year had initially prevented him from doing so. While I did not find this very convincing, it does not alter the fact that the Appellant had no filing history for 1999 and 2000.
+[34] Counsel for the Respondent urged the Court to draw a negative inference from the fact that the Appellant never objected to the Minister’s treatment of the gains/losses in the arbitrary assessments to conclude that he must have meant to report the transactions on account of capital. Given the insufficiency of the evidence – on both sides of this dispute – regarding the reporting history, this is too much of a stretch. While I do not condone the Appellant’s conduct, in the circumstances, I do not see how a past reporting history can be imputed to the Appellant so as to impose on him the additional onus contemplated by Rajchgot. Thus, the Appellant’s previous reporting history does not detract from the Appellant’s contention that he was engaged in an adventure in the nature of trade.
+Conclusion
+[35] As acknowledged by the Federal Court of Appeal in Baird, above, the boundary between income and capital gains is not easily determined. The present matter is no exception. While left with the uneasy feeling that the evidence does not tell the whole story, based on what was before me, I am satisfied that the balance tips slightly in the Appellant’s favour. As the Appellant has met his onus of showing he was engaged in an adventure in the nature of trade, the appeals of the reassessments of the 2001, 2003 and 2004 taxation years are allowed, with costs, and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, in those years, the losses realized by the Appellant on the disposition of shares were on account of income. The appeal of the 2002 taxation year is dismissed for not having met the requirements of subsection 169(1) of the Act.
+Signed at Ottawa, Canada this 29th day of March 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012 TCC 99
+COURT FILE NO.: 2008-2035(IT)G
+STYLE OF CAUSE: JAMES ZSEBOK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: January 11, 12 and 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: March 29, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Roland P. Schwalm
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roland P. Schwalm
+Firm: Barrister and Solicitor
+518 Victoria Avenue
+Windsor, Ontario
+N9A 4M8
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Respondent’s Book of Documents, Tab 21.
+[2] Exhibit A-4.
+[3] Reply to the Notice of Appeal at subparagraph 10(j).
+[4] Reply to the Notice of Appeal, subparagraphs 10(c) and (f).
+[5] At paragraph 5.

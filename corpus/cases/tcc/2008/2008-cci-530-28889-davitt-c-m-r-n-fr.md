@@ -1,0 +1,241 @@
+---
+title: "Davitt c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28889/index.do"
+last_modified: "2008-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 530"
+citation2: ""
+neutral_citation: "2008 CCI 530"
+decision_date: "2008-09-18"
+language: "fr"
+item_id: "28889"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1332
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:23:07.833000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1e370fe22aa967a8a3ee4f255425d9a7bfb6ae1ba80982b795ba5c46f6c2ee1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davitt c. M.R.N.
+
+- Citation: 2008 CCI 530
+- Decision date: 2008-09-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1332, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davitt c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-18
+Référence neutre
+2008 CCI 530
+Numéro de dossier
+2008-1344(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2008‑1344(EI), 2008‑1345(CPP)
+ENTRE :
+W. SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 9 septembre 2008, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jocelyn Espejo‑Clarke
+ORDONNANCE
+L’intimée ayant présenté une requête en vue d’obtenir une ordonnance de la présente cour radiant deux avis d’appel déposés par l’appelant, l’un ayant été déposé en vertu de la Loi sur l’assurance‑emploi (la « Loi sur l’A‑E ») et l’autre en vertu du Régime de pensions du Canada (le « RPC »);
+L’avocate de l’intimée et l’appelant ayant été entendus;
+La Cour ordonne que la requête de l’intimée soit accueillie avec dépens pour les motifs ci‑joints, ces dépens étant fixés à 1 000 $, et que les appels interjetés par l’appelant en vertu de la Loi sur l’A‑E et du RPC soient annulés.
+Signé à Ottawa, Ontario, ce 18e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2008.
+Sara Tasset
+Référence : 2008CCI530
+Date : 20080918
+Dossiers : 2008‑1344(EI), 2008‑1345(CPP)
+ENTRE :
+W. SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Il s’agit d’une requête que l’intimée a présentée en vue de faire radier deux avis d’appel déposés par l’appelant – l’un de ces avis comportant 119 pages et se rapportant à un appel interjeté en vertu de la Loi sur l’assurance‑emploi (la « Loi sur l’A‑E ») et l’autre comportant 118 pages et se rapportant à un appel interjeté en vertu du Régime de pensions du Canada (le « RPC »).
+[2] Il est déclaré que les avis d’appel sont déposés sous le régime de la « procédure générale ». Au cours de l’audition de la requête, l’appelant a confirmé que l’appel se rapportant à la Loi sur l’A‑E avait été interjeté en vertu de l’article 103 de la Loi sur l’A‑E et que l’appel se rapportant au RPC avait été interjeté en vertu de l’article 28 du RPC. Or, c’est la procédure informelle plutôt que la procédure générale qui s’applique aux appels interjetés en vertu de la Loi sur l’A‑E et aux appels interjetés en vertu du RPC (article 18.29 de la Loi sur la Cour canadienne de l’impôt). Les règles applicables sont les Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance‑emploi pour l’appel interjeté en vertu de l’article 103 de la Loi sur l’A‑E (voir l’article 4 de ces règles) et les Règles de procédure de la Cour canadienne de l’impôt à l’égard du Régime de pensions du Canada pour l’appel interjeté en vertu de l’article 28 de cette loi (voir l’article 4 de ces règles).
+[3] La première partie de l’avis d’appel concernant la Loi sur l’A‑E prévoit ce qui suit :
+[traduction]
+1) L’appelant interjette appel de l’évaluation relative au montant de ses cotisations d’assurance‑emploi à verser pour l’année 2006 pour le motif que les cotisations d’assurance‑emploi exigées pour l’année 2006 conformément à l’article 66 de la Loi sur l’assurance‑emploi :
+a. établissent une discrimination fondée sur l’âge, en violation du paragraphe 15(1) de la Charte canadienne des droits et libertés (la « Charte »);
+b. ne sont pas autorisées par la Loi sur l’assurance‑emploi (c’est‑à‑dire qu’elles sont ultra vires);
+c. sont des cotisations excessives qui sont exigées afin d’encourager l’inconduite criminelle du gouvernement du Canada, à savoir la publication d’états financiers frauduleux, en violation de l’article 399 du Code criminel et de l’article 3 de la Charte.
+Réparations demandées
+2) L’appelant demande :
+‑ la réduction à néant de ses cotisations d’assurance‑emploi à verser pour l’année 2006 et le remboursement de toutes les cotisations d’assurance‑emploi perçues (cotisations ouvrières et cotisations patronales) au cours de l’année 2006 (1 750,32 $);
+‑ des dommages‑intérêts punitifs de 11 000 000 $, conformément à l’article 24 de la Charte;
+‑ les intérêts;
+‑ les dépens;
+‑ toute autre réparation demandée par l’appelant et autorisée par la Cour.
+[4] Dans le reste de l’avis d’appel figurent les faits et arguments soumis par l’appelant dans le cadre de cet appel.
+[5] La première partie de l’avis d’appel déposé dans l’appel interjeté en vertu du Régime de pensions du Canada prévoit ce qui suit :
+[traduction]
+L’appelant interjette appel de l’évaluation relative au montant de ses cotisations au Régime de pensions du Canada (le « RPC ») à verser pour l’année 2006 pour le motif que les taux de cotisation fixés à l’article 11.1 du RPC :
+a. établissent une discrimination fondée sur l’âge, en violation du paragraphe 15(1) de la Charte canadienne des droits et libertés (la « Charte »);
+b. et que le Régime de pensions du Canada est une combine à la Ponzi qui viole l’alinéa 206(1)e) du Code criminel.
+Réparations demandées
+L’appelant demande :
+‑ la réduction à néant de ses cotisations au RPC à verser pour l’année 2006 et le remboursement de toutes les cotisations au RPC perçues (cotisations d’employé et cotisations d’employeur) au cours de l’année 2006 (3 821,40 $);
+‑ des dommages‑intérêts punitifs de 11 000 000 $, conformément à l’article 24 de la Charte;
+‑ les intérêts;
+‑ les dépens;
+‑ toute autre réparation demandée par l’appelant et autorisée par la Cour.
+[6] Dans le reste de l’avis d’appel déposé en vertu du RPC figurent les faits et arguments soumis par l’appelant dans le cadre de cet appel. Sont inclus dans l’avis d’appel déposé en vertu de la Loi sur l’A‑E les faits et moyens se rapportant à l’appel qui a été interjeté en vertu du RPC et vice versa. Les allégations de l’appelant sont fort graves; il est notamment allégué que certains états financiers préparés par le gouvernement du Canada et par un gros cabinet comptable ne sont pas exacts. Toutefois, les faits et arguments ne sont pertinents dans une instance engagée devant la présente cour que si cette dernière a compétence pour examiner le taux de cotisation déterminé conformément à l’article 66 de la Loi sur l’A‑E et le taux de cotisation fixé dans l’annexe jointe au RPC.
+[7] L’un des moyens que l’intimée a invoqué dans sa requête est que la Cour n’a pas compétence pour accorder les réparations demandées par l’appelant. La première réparation sollicitée par l’appelant est une réduction à néant des cotisations à verser en vertu de la Loi sur l’A‑E ainsi que des cotisations à verser en vertu du RPC. L’appelant conteste le taux de cotisation fixé conformément à l’article 66 de la Loi sur l’A‑E et le taux de cotisation établi dans l’annexe jointe au RPC. Il s’agit donc de savoir si la Cour a compétence pour examiner les taux qui ont été fixés en vertu de ces deux lois.
+[8] Des dommages‑intérêts punitifs sont demandés en vertu de l’article 24 de la Charte canadienne des droits et libertés (la « Charte »). Or, la juge en chef McLachlin, de la Cour suprême du Canada, a dit ce qui suit dans l’arrêt R. c. 974649 Ontario Inc., [2001] 3 R.C.S. 575 :
+15 La question fondamentale consiste à déterminer si le juge qui a ordonné à la Couronne de payer les dépens est « un tribunal compétent » au sens du par. 24(1) pour rendre une telle ordonnance. Notre Cour a examiné les attributs d’un « tribunal compétent » à plusieurs reprises depuis son arrêt de principe en la matière, l’arrêt Mills, précité. Dans cette affaire, le juge Lamer (plus tard Juge en chef du Canada), avec l’appui des autres juges sur ce point, a défini un « tribunal compétent » comme étant un tribunal qui a (1) compétence sur l’intéressé, (2) compétence sur l’objet du litige, et (3) compétence pour accorder la réparation demandée (p. 890). Dans des arrêts ultérieurs, notre Cour a confirmé ce critère à trois volets permettant d’identifier les tribunaux judiciaires et administratifs qui sont compétents pour accorder des réparations fondées sur l’art. 24 de la Charte : Weber c. Ontario Hydro, [1995] 2 R.C.S. 929; Mooring c. Canada (Commission nationale des libérations conditionnelles), [1996] 1 R.C.S. 75. Ce n’est que dans les cas où le tribunal judiciaire ou administratif concerné possède les trois attributs qu’il est considéré comme un « tribunal compétent » pour accorder la réparation voulue en vertu de l’art. 24 de la Charte.
+[Je souligne.]
+[9] Par conséquent, à moins d’avoir compétence pour examiner le taux de cotisation fixé en vertu de la Loi sur l’A‑E ainsi que le taux de cotisation fixé en vertu du RPC, la Cour n’a pas compétence pour accorder la réparation demandée par l’appelant en vertu de l’article 24 de la Charte étant donné qu’elle n’a pas compétence sur l’objet du litige. De plus, les autres réparations demandées (intérêts et dépens) dépendent de la question de savoir si la Cour a compétence pour examiner le taux de cotisation déterminé conformément à l’article 66 de la Loi sur l’A‑E et le taux de cotisation fixé en vertu du RPC.
+[10] L’appelant avait antérieurement interjeté appel auprès de la Cour en invoquant l’argument selon lequel la Loi sur l’A‑E et le RPC établissent une discrimination, en violation de l’article 15 de la Charte. Le juge en chef adjoint Bowman (tel était alors son titre) a accueilli la requête présentée par la Couronne et a radié l’avis d’appel de l’appelant, déposé en 2001 ([2001] A.C.I. no 360, [2001] 3 C.T.C. 2324, 2001 DTC 702). Le juge MacArthur a radié un avis d’appel déposé par l’appelant au sujet de la question de savoir si les taux de cotisation prévus par le RPC établissaient une discrimination fondée sur l’âge, en violation du paragraphe 15(1) de la Charte ([2003] A.C.I. no 359). Dans cet avis d’appel, l’argument selon lequel le RPC était une combine à la Ponzi était également invoqué.
+[11] Le juge Little a radié des avis d’appel déposés par l’appelant en 2003 en vertu de la Loi de l’impôt sur le revenu, de la Loi sur l’A‑E et du RPC ([2004] A.C.I. no 72, [2004] 2 C.T.C. 2605, 2004 DTC 2286). Dans les avis d’appel déposés en vertu de la Loi sur l’A‑E et du RPC, l’appelant alléguait que le taux de cotisation prévu par la Loi sur l’A‑E et le taux de cotisation prévu par le RPC établissent une discrimination fondée sur l’âge, en violation de l’article 15 de la Charte.
+[12] En 2006, l’appelant a présenté une requête en vue de faire annuler les ordonnances susmentionnées rendues par le juge en chef adjoint Bowman (tel était alors son titre), par le juge MacArthur et par le juge Little. Le juge Mogan a rejeté la requête ([2006] A.C.I. no 388, [2006] 5 C.T.C. 2285, 2006 DTC 3337). Dans cette décision, le juge Mogan a fait les remarques suivantes :
+11 Si l’appelant a raison d’affirmer que les taux prévus par le Régime de pensions du Canada sont trop élevés, que le Régime est trop bien financé et que l’excédent est ajouté aux recettes générales fédérales; ou s’il a raison de dire que les taux d’assurance‑emploi sont trop élevés et qu’il n’aurait pas dû payer autant qu’il l’a fait pendant les années 1998, 1999 ou 2000; que ces taux soient trop élevés ou non constitue une question qui, elle aussi, déborde la compétence de la Cour. Ces taux sont fixés dans le cadre de débats publics au sein du Parlement, selon le texte législatif particulier à l’étude. Les comités parlementaires tiennent des audiences au cours desquelles différents groupes d’intérêt et divers partis politiques font connaître leur position. Je conclus que la Cour canadienne de l’impôt n’a pas compétence pour intervenir à l’égard de ce genre de législation.
+[13] L’appelant a encore une fois déposé des avis d’appel en vertu de la Loi sur l’A‑E et du RPC, en alléguant que le taux de cotisation fixé en vertu de la Loi sur l’A‑E et le taux de cotisation fixé en vertu du RPC devaient être ramenés à néant. La première question à trancher est de savoir si la Cour a compétence pour examiner le taux de cotisation fixé en vertu de la Loi sur l’A‑E et le taux de cotisation prévu par le RPC.
+[14] La présente cour a été constituée par une loi fédérale, la Loi sur la Cour canadienne de l’impôt. La compétence de la Cour est établie à l’article 12 de cette loi; en particulier, le paragraphe 12(1) prévoit ce qui suit :
+12 (1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance‑emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[Je souligne.]
+[15] Étant donné que cette disposition prévoit que la compétence de la Cour, lorsqu’il s’agit d’entendre les appels portant sur des questions découlant du RPC et de la Loi sur l’A‑E, dépend de la question de savoir si des appels sont prévus par ces lois, les seules questions dont il est possible d’interjeter appel devant la Cour sont celles pour lesquelles un droit d’appel est prévu par ces lois.
+[16] Le droit d’interjeter appel devant la Cour sur des questions découlant de la Loi sur l’A‑E est prévu au paragraphe 103(1) de la Loi sur l’A‑E, qui est rédigé comme suit :
+103 (1) La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre‑vingt‑dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre‑vingt‑dix jours suivant l’expiration de ces quatre‑vingt‑dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[Je souligne.]
+[17] L’article 91 de la Loi sur l’A‑E prévoit ce qui suit :
+91 La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre‑vingt‑dix jours suivant la date à laquelle il reçoit notification de cette décision.
+[18] Le paragraphe 90(1) de la Loi sur l’A‑E prévoit ce qui suit :
+90 (1) La Commission, de même que tout employé, employeur ou personne prétendant être l'un ou l'autre, peut demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+a) le fait qu'un emploi est assurable;
+b) la détermination de la durée d'un emploi assurable, y compris ses dates de début et de fin;
+c) la détermination de la rémunération assurable;
+d) la détermination du nombre d'heures exercées dans le cadre d'un emploi assurable;
+e) l'existence de l'obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+g) l'identité de l'employeur d'un assuré;
+h) le fait qu'un employeur est un employeur associé;
+i) le montant du remboursement prévu à l'un ou l'autre des paragraphes 96(4) à (10).
+[19] Le paragraphe 90(1) de la Loi sur l’A‑E limite les questions qui peuvent faire l’objet d’une décision aux questions qui y sont énumérées; par conséquent, les questions dont il peut être fait appel devant le ministre en vertu de l’article 91, et ensuite devant la Cour en vertu de l’article 103, sont limitées aux mêmes questions.
+[20] L’appelant a soutenu qu’étant donné que l’alinéa 90(1)f) de la Loi sur l’A‑E prévoit qu’une personne peut demander une décision sur [traduction] « le montant des cotisations à verser », cela voudrait dire qu’il aurait le droit de demander une décision non seulement sur la question de savoir si le résultat arithmétique du calcul du montant à verser est exact (et notamment si le bon taux de cotisation a été utilisé, si le montant exact de la rémunération assurable a été utilisé et si le résultat arithmétique est exact), mais aussi sur la question de savoir si les éléments individuels de la formule sont exacts et, en particulier, si le taux de cotisation doit être modifié (y compris une réduction à néant) pour le motif que le taux de cotisation déterminé en vertu de l’article 66 de la Loi sur l’A‑E viole la Charte ou une autre loi.
+[21] Les éléments de la formule permettant de déterminer le montant des cotisations à verser sont énumérés à l’article 67 de la Loi sur l’A‑E, qui est rédigé comme suit :
+67 Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66 ou 66.3, selon le cas.
+[Je souligne.]
+[22] L’article 66 de la Loi sur l’A‑E prévoit ce qui suit :
+66 (1) Sous réserve du paragraphe (2) et des articles 66.1 et 66.3, pour chaque année, la Commission fixe le taux de cotisation en tenant compte :
+a) du principe voulant que celui‑ci, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, soit susceptible de faire en sorte que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année compte tenu, le cas échéant, du changement annoncé par le ministre;
+b) du rapport de l’actuaire en chef pour l’année en question;
+c) des éventuelles observations du public.
+[23] La présente cour a compétence pour examiner le taux de cotisation fixé en vertu de l’article 66 de la Loi sur l’A‑E uniquement s’il s’agit d’une question qui peut faire l’objet d’une demande de décision en vertu du paragraphe 90(1) de la Loi sur l’A‑E.
+[24] Dans l’arrêt La Reine c. Hypothèques Trustco Canada, 2005 CSC 54, 2005 DTC 5523 (ang.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 R.C.S. 601, la Cour suprême du Canada a dit ce qui suit :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[25] Je ne crois pas que le législateur ait voulu que le taux de cotisation fixé par la Commission en vertu de l’article 66 de la Loi sur l’A‑E soit une question qui puisse faire l’objet d’une demande de décision en vertu du paragraphe 90(1) de la Loi sur l’A‑E. Je ne crois pas que le législateur ait voulu conférer à chaque fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre à prendre une décision le droit d’examiner le taux de cotisation fixé par la Commission. Il me semble que la seule question qui puisse à juste titre faire l’objet d’une demande de décision conformément à l’alinéa 90(1)f) de la Loi sur l’A‑E est de savoir si les bons montants ont été utilisés pour le taux de cotisation et la rémunération assurable aux fins de la détermination du montant des cotisations à verser et si le résultat arithmétique est exact.
+[26] Si l’appelant a raison d’affirmer que l’octroi du droit de demander une décision sur [traduction] « le montant des cotisations à verser » comprend le droit d’examiner la détermination des montants utilisés pour les éléments de la formule, pourquoi l’alinéa 90(1)c) de la Loi sur l’A‑E est‑il inclus au paragraphe 90(1) de cette loi? Si l’octroi du droit de demander une décision au sujet du montant des cotisations à verser comprenait le droit d’examiner la détermination de chacun des éléments de la formule, il ne serait pas nécessaire de prévoir un droit distinct lorsqu’il s’agit de demander une décision au sujet du montant de la rémunération assurable. La formule utilisée aux fins de la détermination du montant des cotisations à verser ne comporte que deux éléments – le taux de cotisation et la rémunération assurable. En accordant le droit de demander une décision au sujet du montant de la rémunération assurable, le législateur voulait sans aucun doute que seul cet élément de la formule soit une question qui puisse être examinée par l’agent des décisions. L’examen de l’autre élément de la formule, le taux de cotisation, ne serait donc pas une question susceptible de faire à juste titre l’objet d’une demande de décision en vertu du paragraphe 90(1) de la Loi sur l’A‑E.
+[27] Étant donné qu’à mon avis, le montant du taux de cotisation fixé en vertu de l’article 66 de la Loi sur l’A‑E n’est pas une question susceptible de faire l’objet d’une demande de décision en vertu du paragraphe 90(1) de la Loi sur l’A‑E, le montant du taux de cotisation fixé en vertu de l’article 66 de la Loi sur l’A‑E n’est pas une question dont il peut être fait appel devant la Cour.
+[28] Quant au RPC, je suis arrivé à une conclusion similaire. Le droit d’interjeter appel en vertu du RPC est prévu à l’article 28 de cette loi, qui est rédigé comme suit :
+28 (1) La personne visée par la décision du ministre sur l’appel que prévoit les articles 27 ou 27.1, ou son représentant, peut, dans les quatre‑vingt‑dix jours qui suivent la date à laquelle la décision lui est communiquée, ou dans le délai supplémentaire que la Cour canadienne de l’impôt peut accorder sur demande qui lui est présentée dans les quatre‑vingt‑dix jours suivant l’expiration de ces quatre‑vingt‑dix jours, en appeler de la décision en question auprès de cette Cour en conformité avec la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[Je souligne.]
+[29] L’article 27 du RPC prévoit ce qui suit :
+27 Le ministre du Développement social peut porter la décision en appel devant le ministre à tout moment, tout autre intéressé ne pouvant le faire que dans les quatre‑vingt‑dix jours suivant la date à laquelle il reçoit notification de cette décision.
+[30] De plus, l’article 26.1 du RPC prévoit ce qui suit :
+26.1 Le ministre du Développement social, de même que tout employeur ou employé, ou toute personne prétendant être l’un ou l’autre peut demander à un fonctionnaire de l’Agence revenu du Canada autorisé par le ministre du Revenu national de rendre une décision sur les questions suivantes :
+a) le fait qu’un emploi est un emploi ouvrant ou non droit à pension;
+b) la détermination de la durée d’un emploi, y compris ses dates de début et de fin;
+c) la détermination du montant des gains obtenus au titre d’un emploi ouvrant droit à pension;
+d) l’obligation ou non de verser une cotisation;
+e) la détermination du montant des cotisations à verser;
+f) l’identité de l’employeur d’un employé qui occupe un emploi ouvrant droit à pension.
+[31] Les seules questions dont il peut être fait appel devant la Cour sont donc des questions qui sont à juste titre susceptibles de constituer le fondement d’une demande de décision en vertu de l’article 26.1 du RPC. L’un des éléments énumérés est le montant des cotisations à verser, mais à mon avis, le législateur ne voulait probablement pas que la détermination du taux de cotisation (qui est l’un des éléments de la formule utilisée aux fins de la détermination du montant des cotisations à verser) soit une question susceptible d’être à juste titre incluse dans une demande de décision. Je ne crois pas que le législateur ait voulu conférer à chaque fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre à prendre une décision le droit d’examiner le taux de cotisation prévu par le RPC, lequel est fixé par le gouverneur en conseil conformément à l’article 113.1 du RPC. Il me semble que la seule question susceptible de faire à juste titre l’objet d’une demande de décision conformément à l’alinéa 26.1(1)e) du RPC est de savoir si les montants exacts ont été utilisés pour le taux de cotisation et les gains de l’employé aux fins de la détermination du montant des cotisations à verser conformément à l’article 8 du RPC et la question de savoir si le résultat arithmétique est exact.
+[32] Les éléments de la formule permettant de déterminer le montant des cotisations à verser sont énumérés à l’article 8 du RPC, qui est rédigé comme suit :
+8 (1) Tout employé occupant chez un employeur un emploi ouvrant droit à pension verse, par retenue prévue par la présente loi sur la rémunération que lui paie cet employeur au titre de cet emploi, pour l’année au cours de laquelle cette rémunération lui est payée, une cotisation d’employé égale au produit obtenu par la multiplication du taux de cotisation des employés pour l’année par le plus petit des montants suivants :
+a) les traitement et salaire cotisables de l’employé pour l’année, payés par cet employeur, moins tel montant, au titre de l’exemption de base pour l’année ou à valoir sur cette exemption, qui est prescrit;
+b) le maximum des gains cotisables de l’employé pour l’année, moins le montant, s’il en est, qui est déterminé de la manière prescrite comme étant les traitement et salaire que cet employeur paie à l’employé et sur lesquels une cotisation a été versée pour l’année par l’employé en vertu d’un régime provincial de pensions.
+[33] L’article 11.1 du RPC prévoit ce qui suit :
+11.1 (1) Le taux de cotisation pour les années 1966 à 1986 est :
+a) pour les employés, 1,8 % des traitement et salaire cotisables;
+b) pour les employeurs, 1,8 % des traitement et salaire cotisables;
+c) pour les travailleurs autonomes, 3,6 % des gains cotisables provenant du travail qu’ils exécutent pour leur propre compte.
+(2) Le taux de cotisation pour les employés, employeurs et travailleurs autonomes pour l’année 1987 et les années subséquentes figure à l’annexe, dans sa version modifiée conformément à l’article 113.1.
+[34] L’article 12 du RPC prévoit ce qui suit :
+12 (1) Le montant des traitement et salaire cotisables d’une personne pour une année est le revenu qu’elle retire pour l’année d’un emploi ouvrant droit à pension, calculé en conformité avec la Loi de l’impôt sur le revenu (compte non tenu du paragraphe 7(8) de cette loi), plus les déductions pour l’année, faites en calculant ce revenu autrement que selon les dispositions de l’alinéa 8(1)c) de cette loi, mais ne comprend aucun revenu de cette nature reçu par cette personne :
+a) soit avant qu’elle atteigne l’âge de dix‑huit ans;
+b) soit au cours de tout mois qui, en raison d’une invalidité, n’est pas inclus dans la période cotisable de cette personne conformément à la présente loi ou à un régime provincial de pensions;
+c) soit après avoir atteint l’âge de soixante‑dix ans ou après qu’une pension de retraite lui soit devenue payable en vertu de la présente loi ou selon un régime provincial de pensions.
+[35] L’article 26.1 du RPC fait mention d’un droit distinct aux fins de la détermination du montant des gains obtenus au titre d’un emploi ouvrant droit à pension (lequel serait le revenu tiré d’un emploi ouvrant droit à pension et, par conséquent, les traitement et salaire cotisables, sous réserve des ajustements prévus au paragraphe 12(1) du RPC). Étant donné qu’un élément de la formule utilisée aux fins de la détermination du montant des cotisations à verser est basé sur les gains obtenus au titre d’un emploi ouvrant droit à pension et, puisqu’un droit précis d’interjeter appel de la détermination des gains obtenus au titre d’un emploi ouvrant droit à pension est conféré en vertu de l’alinéa 26.1(1)c), le législateur voulait sans aucun doute que le seul élément de la formule susceptible d’être expressément examiné par un agent des décisions (et par conséquent susceptible d’être porté en appel devant la Cour) soit le montant des gains obtenus au titre d’un emploi ouvrant droit à pension. Le montant du taux de cotisation qui est fixé dans l’annexe jointe au RPC et qui a été déterminé par le gouverneur en conseil, comme le prévoit l’article 113.1 du RPC, ne serait pas une question que le législateur voulait inclure comme question susceptible de faire l’objet d’une décision par un fonctionnaire autorisé de l’Agence du revenu du Canada et, par conséquent, ne serait pas une question susceptible d’être portée en appel devant la Cour.
+[36] À mon avis, la Cour n’a donc pas compétence pour examiner les taux de cotisation qui sont fixés par la Commission en vertu de l’article 66 de la Loi sur l’A‑E et la Cour n’a pas compétence pour examiner les taux de cotisation prévus à l’article 11.1 du RPC et dans l’annexe jointe au RPC.
+[37] Dans l’arrêt Fournier c. La Reine, 2005 CAF 131, la Cour d’appel fédérale a examiné la question de savoir si des dépens pouvaient être accordés dans une instance où les règles applicables ne prévoyaient pas l’adjudication de dépens. Le juge Létourneau a dit ce qui suit :
+11 Le juge s'est dit sans compétence pour imposer des frais à un appelant qui retarde inutilement le déroulement d'un appel intenté dans le cadre de la procédure informelle. Je signale que la Cour canadienne de l'impôt possède le pouvoir inhérent de prévenir et de contrôler un abus de ses procédures : voir Yacyshyn c. Canada, [1999] A.C.F. no. 196 (C.A.F.).
+[12] Or, l'adjudication de frais ou dépens se veut l'un des mécanismes de prévention ou de réparation des abus de délai ou de procédure : voir Blencoe c. Colombie‑Britannique (Human Rights Commission), [2000] 2 R.C.S. 307, aux paragraphes 179 et 183. Dans l'affaire Sherman c. Canada (Ministre du Revenu national ‑ M.R.N.), [2003] 4 C.F. 865, au paragraphe 46, cette Cour écrit en rapport avec la question :
+Il est maintenant généralement reconnu que l'adjudication des dépens peut remplir plus d'une fonction. En vertu des règles contemporaines, l'adjudication des dépens peut servir à réglementer, à indemniser et à dissuader. Elle réglemente en encourageant les plaideurs à en arriver à un règlement tôt dans le processus et à faire preuve de retenue. Elle décourage les comportements et litiges impétueux, futiles et abusifs. Elle vise à indemniser, du moins en partie, la partie qui a eu gain de cause et qui a parfois engagé de grosses dépenses pour faire valoir ses droits.
+[C’est le juge Létourneau qui souligne.]
+[38] Dans cet arrêt, la Cour d’appel fédérale a fixé le montant des dépens à 1 000 $.
+[39] Comme il en a ci‑dessus été fait mention, l’appelant a antérieurement déposé trois avis d’appel qui comportaient des observations au sujet de la question de savoir si le taux de cotisation fixé en vertu du RPC était approprié; dans deux de ces appels, l’appelant a également soumis des observations au sujet de la question de savoir si le taux de cotisation déterminé en vertu de la Loi sur l’A‑E était approprié. Dans la décision par laquelle il rejetait la requête de l’appelant visant l’annulation de trois ordonnances rendues par la Cour, le juge Mogan a dit, comme le montre le passage précité, que la Cour n’a pas compétence pour examiner le taux de cotisation déterminé conformément à la Loi sur l’A‑E et qu’elle n’a pas compétence pour examiner le taux de cotisation fixé en vertu du RPC. Les appels qui font l’objet de la présente requête soulèvent la même question. Le juge Mogan avait accordé des dépens, au montant de 500 $.
+[40] Comme il le déclare dans ses avis d’appel, l’appelant est membre de l’Institut des comptables agréés de l’Ontario et du Barreau du Haut‑Canada. Au cours de l’audience, l’appelant a déclaré être sans argent, mais il n’a pas fourni de détails. De toute évidence, l’appelant exerçait un emploi en 2006, étant donné qu’il interjette appel des cotisations qu’il a versées en vertu de la Loi sur l’A‑E et du RPC. Au cours de l’audience, l’appelant a également déclaré qu’à l’heure actuelle, il exerce un emploi. De plus, comme il en est fait mention dans la demande de décision qu’il a soumise en vertu de la Loi sur l’A‑E et dans la demande de décision qu’il a soumise en vertu du RPC (lesquelles ont toutes deux été produites en preuve au cours de l’audition de la présente requête) son salaire s’élevait, en 2006, à 82 780 $.
+[41] Par conséquent, la requête de l’intimée est accueillie avec dépens, le montant des dépens étant fixé à 1 000 $, et les appels que l’appelant a interjetés en vertu de la Loi sur l’A‑E et du RPC sont annulés.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2008.
+Sara Tasset
+RÉFÉRENCE : 2008CCI530
+Nos DES DOSSIERS DE LA COUR : 2008‑1344(EI), 2008‑1345(CPP)
+INTITULÉ : W. SHAWN DAVITT
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 9 septembre 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 18 septembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jocelyn Espejo‑Clarke
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

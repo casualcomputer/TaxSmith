@@ -1,0 +1,194 @@
+---
+title: "Gauvin v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71765/index.do"
+last_modified: "2014-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 134"
+citation2: ""
+neutral_citation: "2014 TCC 134"
+decision_date: "2014-05-21"
+language: "en"
+item_id: "71765"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5302
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:44:54.804000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13a3c094a656f54d0ba2cb13bdad8692abf8c4221bdadc2757194ee18e80db2b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gauvin v. M.N.R.
+
+- Citation: 2014 TCC 134
+- Decision date: 2014-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5302, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauvin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-21
+Neutral citation
+2014 TCC 134
+File numbers
+2010-3166(EI)
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-3166(EI)
+BETWEEN:
+Solange Gauvin,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 13, 2014, at Montréal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Counsel for the appellant:
+Gibert Nadon
+Counsel for the respondent:
+Ilinca Ghibu
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act (hereinafter the Act) is dismissed and the decision of the Minister of National Revenue is confirmed, on the basis that the appellant did not hold insurable employment when working for Terrassement Sylvain Doucet, during the period from October 19, 2009, to March 26, 2010, under paragraph 5(2)(i) and subsection 5(3) of the Act.
+Signed at Kingston, Ontario, this 21st day of May 2014.
+"Rommel G. Masse"
+Masse D.J.
+Translation certified true
+on this 15th day of July 2014.
+Elizabeth Tan, Translator
+Citation: 2014 TCC 134
+Date: 20140521
+Docket: 2010-3166(EI)
+BETWEEN:
+Solange Gauvin,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from a decision by the Minister of National Revenue (hereinafter the Minister) dated July 28, 2010, pursuant to the Employment Insurance Act, S.C. 1996 c. 23, as amended (hereinafter the Act), regarding the insurability of the appellant's employment with Terrassement Sylvain Doucet (hereinafter Terrassement) for the period from October 19, 2009, to March 26, 2010 (hereinafter the period).
+[2] It is not disputed that the appellant and the payer are related persons within the meaning of subsection 251(2) of the Income Tax Act, R.S.C. (1985), c. 1 (5th Supp.), as amended, because the appellant is Sylvain Doucet's mother and he is the sole owner of Terrassement. Therefore, the appellant and Terrassement do not have an arm's length relationship.
+[3] The Minister found that the appellant's employment with Terrassement for the period was not insurable employment because the Minister was convinced that it was not reasonable to conclude that the appellant and the payer would have entered into a substantially similar contract if they had been dealing with each other at arm's length, having regard to all the circumstances.
+[4] The appellant is appealing from this decision by the Minister.
+Factual background [5] Lyne Courcy is an appeals officer for the Canada Revenue Agency. She was responsible for the present case. She prepared the CPT 110 report (Exhibit I-1, tab 2) after receiving information on the phone from the appellant and Sylvain Doucet on July 13, 2010.
+[6] During her testimony, Ms. Courcy revealed the facts and assumptions on which the Minister relied when making his decision. The key facts can be summarized as follows.
+[7] The appellant is Sylvain Doucet's mother; he operates Terrassement and is the sole owner. Terrassement was registered on September 17, 1996, as a sole proprietorship. For the past 5 or 6 years, Terassement's activity has been snow removal. Terrassement did not have a blower-tractor, so he rented one from Technologies S. M. Doucet Inc. (hereinafter, Technologies); Sylvain Doucet is a shareholder of this company with Mélanie Ouellet, his spouse. Sylvain Doucet operated Terrassement and the appellant did the office work. Sylvain Doucet and his businesses are the only snow removers in the area. In the past, Terrassement did excavation work but not during the period. Therefore, there was no commercial activity during the summer season. Terrassement's office and office equipment are located in a room set up as an office in the appellant's personal residence. Mr. Doucet paid the appellant for part of the electricity and phone expenses. Sylvain Doucet lives in a unit in the same building as the appellant's residence and he does not pay any rent. As Mr. Doucet built and paid for a garage in the residence, when he leaves, he will leave it to his parents as compensation. During the winter of 2009-2010, Sylvain Doucet had financial difficulties. Therefore, the appellant and her husband Denis Doucet loaned Technologies $5,000. Exhibit A-6, dated May 19, 2010, is a record of this loan. There are no repayment conditions or any interest on this loan. The appellant was the sole employee of Terrassement during the period in question.
+[8] Terrassement had between 80 and 100 residential clients during the period. Around 80% to 95% of its clients remained the same from year to year, but there was an increase of around 10 new clients per year. Terrassement hired the appellant as secretary on October 19, 2009. The appellant had done this work voluntarily with no compensation during the previous winters, starting in 1996. The appellant worked until March 26, 2010, at the end of the snow-removal season.
+[9] The few commercial snow-removal contracts were transferred by Terrassement to Technologies, and a Technologies employee did the commercial snow removal.
+[10] Near the end of September or early October, Sylvain Doucet went to bring the new contracts to these clients himself for the snow-removal season that was from November 1, 2009, to April 1, 2010. A sample of this contract was submitted as Exhibit I-1, tab 2-i. This contract provides clients with two payment options, either one single payment on October 9 or three payments on October 9, December 11 and February 12. Those who chose to pay in three instalments were to provide three post-dated cheques upon signing the contract. Usually, these payments were sent by mail. The company also had a [translation] "snow-removal box" located inside the glassed-in porch at the appellant's address, which is also Terrassement's address, in which clients could leave their cheques. Obviously, certain clients did not respect the payment dates and sometimes made their payments late.
+[11] The appellant's duties were to answer phone calls from clients and take care of bookkeeping. Additionally, she served clients who came to the office in her residence to pay their bills. When the appellant had to contact her son during snow removals, she called him on his cell phone. The appellant had to collect unpaid accounts when there were NSF cheques. The appellant prepared her own paycheque and sent the source deductions to the federal and provincial governments. The bookkeeping was done by computer. She had created an Excel page to enter all expenses and income. This document was given to the accountant to complete the payer's income tax returns.
+[12] The appellant informed Ms. Courcy that she worked from 9:00 a.m. to 5:00 p.m. and often evenings and weekends to serve clients who came to pay their bills. The appellant stated she was available 24 hours a day during storms. The appellant's position is that she always had enough work to fill at least 40 hours a week or more. She was paid $11 an hour for 40 hours a week. The appellant is authorized to sign cheques and only one signature is required. The appellant confirmed to Ms. Courcy that she continued to do some bookkeeping for Technologies after she was dismissed.
+[13] Sylvain Doucet informed Ms. Courcy that the appellant took care of all the paperwork while he took care of the business's operations. The income from Mr. Doucet's business for the winter of 2009‑2010 totalled around $30,000. Mr. Doucet indicated to Ms. Courcy that the appellant rendered some services to Technologies, such as paycheques, and she often did so without being paid. It must be noted that Technologies had only one employee.
+[14] In her report, Ms. Courcy provided her analysis. During the period, the appellant allegedly worked 920 hours and therefore, received compensation of $10,524.80 for 23 weeks (see Exhibit I-1, tab 1). This compensation comes to $457.60 per week, specifically $11 x 40 hours plus 4%, at 40 hours per week.
+[15] In 2009, the payer issued only two T4 slips—one for the appellant for $4,576 and one for Sébastien Lalonde for $557.
+[16] Since the appellant did the bookkeeping, Ms. Courcy reviewed the payer's accounting records and noted that there were very few data entries. For example, for the month of November, there were only 13 accounting entries. For the month of December, there were only 31 accounting entries. When Ms. Courcy asked to see the payer's records, the appellant only sent her the records for Terrassement and not for Technologies although she did the bookkeeping for both.
+[17] Ms. Courcy noted that the appellant needed a minimum of 910 hours to be eligible for employment insurance benefits and she received a record of employment from the payer for 920 hours (see Exhibit I-1, tab 1).
+[18] According to Ms. Courcy, the work the appellant performed could not have accounted for 40 hours a week, considering there were weeks with only very few accounting entries and there was no snow. Evidently, Ms. Courcy cannot specify how many hours a week this work might take. Ms. Courcy drew the conclusion that the appellant only worked enough to be eligible for benefits.
+[19] Sylvain Doucet and the appellant testified. They contest Ms. Courcy's analysis and conclusions. The state that the appellant's volume of work justified at least 40 hours a week and even more than that. The appellant and Mr. Doucet provided explanations and clarifications for the facts that are set out in Ms. Courcy's CPT 110 report. They described the appellant's tasks. Mr. Doucet took care of managing his businesses and the appellant took care of the paperwork; she was her son's secretary. Her tasks included answering the phone, serving clients from time to time when they came to deliver their cheques, collect unpaid accounts when they received NSF cheques, prepare her paycheques and remit the source deductions and GST-QST returns to the federal and provincial governments, perform computer data entries for expenses and income. The accounts receivable were calculated by the accountant, but the appellant prepared the income and expenses report for the accountant. She was authorized to sign cheques for Terrassement, and only one signature was required. The appellant told us that she worked at least 40 hours a week, from 9 a.m. to 5 p.m., Monday to Friday, and often evenings and weekends. The appellant told us that she was available 24 hours a day during snowstorms and she often worked until 8 or 9 p.m. and sometimes until 2 or 3 a.m.
+[20] Sylvain Doucet is the owner of Terrassement and co-owner of Technologies with his spouse. His spouse is the owner of Déneigement des Prairies (hereinafter Prairies). In the beginning, it was only Terrassement that paid the appellant, but after the audit, she was also paid by Technologies.
+[21] Mr. Doucet told us that before 2009, Terrassement had 248 commercial and residential clients. In 2007-2008 Terrassement transferred clients to Technologies. In 2009, Technologies was almost solely doing commercial snow removal. Commercial clients were easier and therefore less work, as these clients sent their post-dated cheques by mail. According to the appellant and Mr. Doucet, the appellant took care of the bookkeeping for Technologies and for Terrassement.
+[22] In cross-examination, Mr. Doucet confirmed that Terrassement had 100 residential clients and Technologies had 38 residential and commercial clients. He agreed that during the period in question, the companies Terrassement and Technologies had a total of around 195 clients.
+[23] The business income Sylvain Doucet reported for the taxation years are as follows:
+2007
+2008
+2009
+Gross income
+$33,210
+$28,894
+$28,452
+(Net loss)
+($14,894)
+($2,673)
+($2,244)
+This shows that Sylvain Doucet's sales figures were always in a deficit.
+Appellant's position [24] The appellant submits that during the period, she worked full time for at least 40 hours a week for her son's companies. She alleges that the respondent did not take into consideration that she worked for both Terrassement and Technologies even though she was only paid by Terrassement and not by Technologies. According to the appellant, her employer was her son Sylvain Doucet, regardless of who paid. She alleges that the Minister did not consider all of the work she performed. Although the needs of her son's businesses meant that the work schedule was difficult to establish, in general, the overall work performed warranted the salary he paid her.
+[25] Therefore, the appellant feels that the appeal should be allowed.
+Respondent's position [26] The respondent submits that the contract of service between the appellant and the payer is not insurable, since they were not dealing with each other at arm's length and it is not reasonable to conclude that the appellant and the payer would have entered into a substantially similar contract if they had been dealing with each other at arm's length. The respondent feels that considering all the circumstances, including the additional clarifications provided by the appellant during the hearing, the respondent's decision was reasonable. The respondent alleges that the volume of work performed by the appellant does not justify 40 hours a week.
+[27] The respondent therefore feels the appeal should be dismissed.
+Legislative provisions [28] The relevant provisions of the Employment Insurance Act, S.C. 1996 c. 23 amended, are as follows:
+5(2) Excluded employment — Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) Arm's length dealing — For the purposes of paragraph (2)(i):
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+Analysis [29] It is undisputed that there was a contract of employment between the appellant and the payer. Moreover, it is undisputed that the payer and appellant are not dealing with each other at arm's length. The respondent did not dispute that the rate of pay of $11 an hour is reasonable for secretarial work. However, the respondent feels that the time the appellant spent on the work, 40 hours each week, is not justified considering the appellant's duties and the business's sales figures.
+[30] In general, when there is no arm's length relationship between a worker and a payer, the work is not insurable. However, the worker and the payer are deemed to deal with each other at arm's length if the Minister is satisfied that, having regard to all the circumstances, the worker and the payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[31] In Francine Denis v. Canada (Minister of National Revenue – MNR), 2004 FCA 26, Federal Court of Appeal Chief Justice Richard explained that the role of the Tax Court of Canada judge in an appeal from a determination of the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act as follows:
+[5] The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 10, 2000).
+[32] The burden of proof is on the appellant, who must establish on a balance of probabilities that the Minister's decision is unfounded in fact or in law. It goes without saying that each case is unique.
+[33] In this case, although the appellant contests the Minister's conclusions, she is not challenging the facts the Minister used to make his decision; she offers explanations and clarifications. The appellant alleges that although at the time it was only Terrassement that paid her, she worked for her son. She took care of the bookkeeping and the secretarial work, not only for Terrassement, but also for Technologies. Therefore, the volume of her work was at least 40 hours a week and often went beyond 40 hours a week.
+[34] In light of the testimonial and documentary evidence regarding, in particular, the compensation paid, the employment conditions and duration, the nature and significance of the work performed during the period in question, it seems reasonable to me to conclude that the Minister's determination was reasonable considering all the circumstances. There is nothing that would lead me to think that the facts the Minister had were misinterpreted. Even in light of the additional information and clarifications provided by the appellant, I still feel that the Minister's decision is reasonable.
+[35] An important element the Minister considered was the fact the volume of office work was not sufficient. Even if I consider that the appellant also worked for Technologies, I feel that the commercial clients require less work than residential clients. I feel that even if the Minister had taken into consideration the additional work the appellant did for Technologies, the Minister would have still concluded that the work performed did not justify 40 hours a week.
+[36] The appellant did not convince me that it is reasonable to conclude, having regard to all the circumstances, that the appellant and her son would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. In reaching this conclusion, I considered, among others, the following factors:
+(a) At the time, Sylvain Doucet had financial difficulties to the extent that he thought it was necessary to borrow $5,000 from his parents. He did not pay rent for his business office located in the appellant's residence. He himself lived in the same residence but did not pay his parents any rent. He paid for the construction of a garage at his parents' residence. Additionally, the sales figures of his businesses showed a deficit for 2007 to 2009; I do not know the figures for 2010. Despite Mr. Doucet's financial problems and his business losses, he paid his mother more than his businesses earned. During the period, Sylvain Doucet paid the appellant a total compensation of $10,524.80 for less than six months of work (see Exhibit I-1, tab 1). However, the 2009 sales figures for Sylvain Doucet's businesses was $28,452 and he had a net loss of $2,244. An entrepreneur would not use a third of the total business income to pay a secretary/receptionist's salary, for work done at home, unless the worker was someone with whom the contractor did not have an arm's length relationship, such as his mother. The contract of employment that allegedly existed between the appellant and her son was very beneficial for the appellant and constituted a huge expense for the payer. The appellant was paid full time to stay at home. The work performed does not justify the expense related to the appellant's duties, even if Sylvain Doucet were considered to have 195 clients instead of 80 or 100.
+(b) When the appellant's duties are considered, there is only a small amount of work to be done for the bookkeeping. Even if the amount of data entries were doubled to take into consideration the work allegedly done for Technologies, the volume would still be minimal. She said she served clients at home at any time of day, but the payment method indicated on the contracts was by mail or using the [translation] "snow-removal box" located in the glassed-in porch of the residence. She was not able to state the percentage of clients who used each payment method. I cannot imagine there were many clients who went to the house, despite what the appellant said.
+(c) She was not able to tell us the average number of phone calls made or the amount of time spent on the phone. The number of hours the appellant spent performing all these duties is unknown and difficult to quantify. She merely stated that she worked more than 40 hours a week. However, she did not fill in any time sheets. The payer did not keep any record of the appellant's hours of work. A worker and a payer who have an arm's length relationship would have calculated the hours of work in the case of an employee paid by the hour.
+(d) She worked at home and could therefore take care of all the other activities in the house. She did certain tasks for the payer while taking care of personal tasks. Since the payer's office was located in the appellant's residence, she could attend to her daily chores while waiting for the few calls from clients. It is the appellant's responsibility to convince the Minister that she worked the hours she claimed to have worked.
+(e) She told us she worked 920 hours of work during the period. Coincidentally, she only needed 910 hours of work to be eligible for employment insurance benefits. Coincidence? Maybe so, but it is very easy to assume that the parties came to an agreement that would allow them to take advantage of the Act.
+Conclusion [37] Having reviewed all the evidence, I come to the conclusion that the appellant's employment was not insurable employment considering paragraph 5(2)(i) and subsection 5(3) of the Act, as it is not reasonable to conclude, having regard to all the circumstances, that the appellant and the payer would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[38] For these reasons, the appeal is dismissed.
+Signed at Kingston, Ontario, this 21st day of May 2014.
+"Rommel G. Masse"
+Masse D.J.
+Translation certified true
+on this 15th day of July 2014.
+Elizabeth Tan, translator
+CITATION:
+2014 TCC 134
+COURT FILE NO.:
+2010-3166(EI)
+STYLE OF CAUSE:
+Solange Gauvin v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 13, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+May 21, 2014
+APPEARANCES:
+Counsel for the appellant:
+Gibert Nadon
+Counsel for the respondent:
+Ilinca Ghibu
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Gibert Nadon
+Firm:
+Ouellet, Nadon et Associés
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

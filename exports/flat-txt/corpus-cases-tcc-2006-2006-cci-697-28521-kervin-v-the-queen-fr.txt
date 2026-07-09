@@ -1,0 +1,254 @@
+Title: Kervin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28521/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-697-28521-kervin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-12-29
+
+# Kervin v. The Queen
+
+- Citation: 2006 CCI 697
+- Decision date: 2006-12-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1250, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kervin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-29
+Référence neutre
+2006 CCI 697
+Numéro de dossier
+2006-320(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-320(IT)I
+ENTRE :
+SUSAN KERVIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 décembre 2006, à Kitchener (Ontario)
+Devant : L’honorable juge T. O'Connor
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Ifeanyi Nwachukwu
+Me Ryan Hall
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel est rejeté et l’appelante est tenue de remettre au ministre les paiements en trop suivants qu’elle a reçus :
+Période
+Année de base / année d’impo-sition
+PFCE versée
+Nouvelle détermi-nation de
+la PFCE
+CTPS versé
+Nouvelle cotisation établie au titre du CTPS
+Juillet 2002 – juillet 2003
+2001
+2 110,25 $
+Néant
+s.o.
+s.o.
+Juillet 2003 – juin 2004
+Juillet 2003 – avril 2004
+(CTPS)
+2002
+3 237,75 $
+Néant
+660 $
+330 $
+Juillet 2004 – octobre 2004
+2003
+491,94 $
+Néant
+220,41 $
+85 $
+Signé à Ottawa, Canada, ce 29e jour de décembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de mai 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI697
+Date : 20061229
+Dossier : 2006-320(IT)I
+ENTRE :
+SUSAN KERVIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Les faits à l’origine du litige et les questions en litige sont énoncés dans les paragraphes suivants de la réponse à l’avis d’appel :
+[traduction]
+5. Lorsqu’elle a produit sa déclaration de revenu pour les années d’imposition 2001, 2002 et 2003, l’appelante a indiqué qu’elle était « séparée » dans la section relative à l’état civil.
+6. Pendant la période de juillet 2002 à juillet 2003, l’appelante a reçu 2 110,25 $ au titre de la Prestation fiscale canadienne pour enfants (la « PFCE ») à l’égard de l’« année de base » 2001.
+7. Pendant la période allant de juillet 2003 à juin 2004, l’appelante a reçu 3 237,75 $ au titre de la PFCE à l’égard de l’« année de base » 2002, et, pendant la période de juillet 2003 à avril 2004, elle a touché un crédit pour la taxe sur les produits et services (le « CTPS ») de 660 $ à l’égard de l’année d’imposition 2002.
+8. Pendant la période de juillet 2004 à octobre 2004, l’appelante a reçu 491,94 $ au titre de la PFCE à l’égard de l’« année de base » 2003 et touché un CTPS de 220,41 $ à l’égard de l’année d’imposition 2003.
+9. Conformément à une lettre de l’Agence du revenu du Canada (l’« ARC ») datée du 29 octobre 2004, il a été décidé que l’appelante n’avait pas droit à la PFCE et au CTPS pour la période visée.
+10. Dans des avis de nouvelle détermination datés du 19 novembre 2004, le ministre a informé l’appelante que, pour l’année de base 2001, son admissibilité à la PFCE avait été révisée et qu’elle avait reçu en trop des versements s’élevant à 2 110,25 $, comme il est indiqué au paragraphe 6 ci‑dessus.
+11. Dans des avis de nouvelle détermination datés du 19 novembre 2004 pour la PFCE et du 26 novembre 2004 pour le CTPS, le ministre a informé l’appelante qu’il avait effectué une nouvelle détermination à l’égard de l’année de base 2002 et de l’année d’imposition 2002 parce qu’elle avait reçu en trop des versements de PFCE et de CTPS s’élevant à 3 237,75 $ et à 330 $, respectivement, comme il est indiqué au paragraphe 7 ci‑dessus.
+12. Dans des avis de nouvelle détermination datés du 19 novembre 2004 pour la PFCE et du 26 novembre 2004 pour le CTPS, le ministre a avisé l’appelante qu’il avait effectué une nouvelle détermination à l’égard de l’année de base 2003 et de l’année d’imposition 2003 parce qu’elle avait reçu en trop des versements de PFCE et de CTPS s’élevant à 491,94 $ et à 85 $, respectivement, comme il est indiqué au paragraphe 8 ci‑dessus.
+13. L’appelante a signifié au ministre un avis d’opposition en date du 7 décembre 2004 à l’égard des avis mentionnés aux paragraphes 10, 11 et 12 ci‑dessus.
+14. Dans une lettre datée du 20 octobre 2005, le ministre a avisé l’appelante que les avis de nouvelle détermination mentionnés aux paragraphes 10, 11 et 12 ci‑dessus avaient été ratifiés conformément aux dispositions applicables de la Loi de l’impôt sur le revenu (la « Loi »).
+15. Pour établir les avis de nouvelle détermination de l’appelante concernant la PFCE pour les années de base 2001, 2002 et 2003 et le CTPS pour les années d’imposition 2002 et 2003, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant toute la période pertinente, l’appelante et Kevin Arthur Kervin (l’« ex‑époux ») étaient les parents de deux enfants, soit Jordan Francis Kervin, né le 20 septembre 1985, et Tyler Ross Kervin, né le 26 février 1991 (les « enfants »);
+b) les enfants mentionnés à l’alinéa 15a) ci‑dessus étaient admissibles aux fins de la PFCE et du CTPS;
+c) vers le 26 août 2001, l’appelante a quitté le foyer conjugal situé au 28, rue Mason, Guelph (Ontario);
+d) les enfants sont demeurés au foyer conjugal avec l’ex‑époux suivant le départ de l’appelante de ladite résidence;
+e) les enfants demeuraient avec l’ex‑époux la majeure partie du temps, mais ils restaient chez l’appelante certaines fins de semaine et, parfois, pendant la semaine;
+f) l’appelante assumait la responsabilité de certains aspects des soins et de l'éducation des enfants, elle les amenait notamment chez le dentiste et le médecin;
+g) Jordan F. Kervin a atteint l’âge de 18 ans en septembre 2003 et n’était plus admissible aux fins de la PFCE à partir du mois suivant;
+h) en juin 2004, Jordan F. Kervin est allé vivre chez l’appelante, mais Tyler R. Kervin a continué de demeurer avec l’ex‑époux;
+i) l’appelante n’est jamais retournée vivre au foyer conjugal après août 2001.
+B. POINTS EN LITIGE
+16. Il s’agit de savoir si le ministre a décidé à juste titre que l’appelante n’avait pas le droit de recevoir des versements de PFCE pour les années de base 2001, 2002 et 2003 et de CTPS en sus des sommes [ayant fait l’objet d’une nouvelle détermination par le ministre].
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+17. Il se fonde sur les articles 122.6 et 122.61, et les paragraphes 122.5(1) et 122.5(3) de la Loi.
+18. Il allègue que l’appelante n’a pas le droit de recevoir de versements de PFCE pour la période en litige, c’est‑à‑dire de juillet 2002 à octobre 2004, étant donné que les « personnes à charge admissibles », soit les enfants, vivaient avec l’ex‑époux depuis août 2001 et que, par conséquent, l’appelante n’était pas le « particulier admissible » au sens de la définition figurant à l’alinéa a) de l’article 122.6 de la Loi parce qu’elle ne résidait pas avec les « personnes à charge admissibles ». L’appelante n’a donc pas droit aux versements de PFCE calculés conformément à l’article 122.61 de la Loi pour les enfants à l’égard de ladite période pour les années de base 2001, 2002 et 2003, comme il est indiqué dans les avis de nouvelle détermination de la PFCE datés du 19 novembre 2004.
+19. Il allègue également que l’appelante n’a pas le droit de recevoir de versements de CTPS pour la période en litige, c’est‑à‑dire de juillet 2003 à octobre 2004, étant donné que les « personnes à charge admissibles », soit les enfants, vivaient avec l’ex‑époux depuis août 2001 et que, par conséquent, l’appelante n’était pas le « particulier admissible » au sens de la définition figurant à l’article 122.5 de la Loi parce qu’elle ne résidait pas avec les « personnes à charge admissibles ». L’appelante n’a donc pas droit aux versements de CTPS calculés conformément au paragraphe 122.5(3) de la Loi pour les enfants à l’égard de ladite période pour les années d’imposition 2002 et 2003, comme il est indiqué dans les avis de nouvelle détermination du CTPS datés du 26 novembre 2004.
+[2] L’appelante a déclaré ce qui suit dans son témoignage :
+- elle était une employée d’usine et son niveau de revenu était assez faible pour qu’elle ait droit à la PFCE et au CTPS;
+- l’appelante et l’ex‑époux étaient copropriétaires du foyer conjugal mentionné à l’alinéa 15c) et, après leur divorce, qui est entré en vigueur 31 jours après le 27 mai 2005, il a été décidé que ledit foyer reviendrait à l’ex‑époux;
+- elle passait beaucoup de temps avec les enfants pour les questions de santé, les problèmes dentaires, les activités sportives, les activités sociales, l’école, les repas et d’autres occasions, et les enfants dormaient et restaient parfois chez l’appelante, dans sa résidence distincte qui était située à proximité du foyer conjugal;
+- elle avait de la difficulté à se trouver un logement approprié;
+- les problèmes psychologiques et physiques qu’elle éprouvait avec l’ex‑époux étaient tels qu’elle trouvait qu’il était préférable pour les enfants qu’elle quitte le foyer familial, ce qu’elle a donc fait;
+- elle a tenu un registre détaillé qui couvrait la plupart des jours pour la période allant du 7 février 2002 au 3 juin 2002 (pièce A‑3) et dans lequel elle exposait en détail les activités qu’elle faisait avec les enfants;
+- elle a donné d’autres précisions concernant les activités qu’elle faisait et son engagement auprès des enfants dans un aperçu de ce qui se passait (pièce A‑4);
+- dans la pièce A‑2, qui a été signée un peu après le 25 juin 2004 et qui était adressée [traduction] « À qui de droit », l’appelante a indiqué ce qui suit :
+[traduction]
+J’ai parlé avec Tara Hastoo de votre bureau de Toronto le 25 juin 2004 et je lui ai fait part de mes préoccupations concernant cet examen. J’avais téléphoné en 2002 concernant mon admissibilité à la Prestation fiscale canadienne pour enfants. Je crois que j’avais rempli un questionnaire semblable à ce moment‑là, et ma situation n’a pas changé depuis ce temps, à l’exception du fait que mon fils aîné n’est plus admissible aux fins de la prestation fiscale. Je devais aviser votre bureau en cas de changement. Voici un résumé qui répond à la question figurant dans la partie 1 de votre examen.
+Depuis août 2001, mes enfants et moi n’avons pas d’horaire précis pour ce qui est des conditions de logement. J’ai essayé à plusieurs reprises d’obtenir l’établissement d’une entente par les tribunaux concernant les responsabilités de Kevin, mais celui‑ci n’a pas voulu collaborer. Cette affaire n’est pas encore réglée et elle sera de nouveau présentée devant les tribunaux en septembre. Je m’occupe de la santé et du bien‑être des enfants de façon générale, même s’ils dorment chez leur père. Jordan réside maintenant avec moi en tout temps, mais il va encore à l’école à temps partiel. Tyler dort chez son père parce que sa résidence est située près de son école. Je ne m’y suis pas opposée pour ne pas perturber le train de vie de Tyler ou l’empêcher de garder contact avec ses meilleurs amis. Kevin travaille de longues heures et est à l’extérieur de la maison en moyenne 12 à 14 heures par jour. Je ne travaille que la fin de semaine. J’entretiens des relations avec mes enfants pendant les jours de semaine et je m’assure qu’ils sont en sécurité avec leur père pendant la fin de semaine. Cela me permet de les amener chez le dentiste et le médecin lorsqu’ils ont des rendez‑vous ou de les amener sur les lieux des activités parascolaires auxquelles ils participent.
+J’ai passé de nombreuses heures à l’urgence avec Tyler pour des blessures qu’il a subi lorsqu’il pratiquait des sports. Nous sommes allés à Kitchener afin qu’il puisse avoir une image de son genou grâce à l’IRM. J’ai fait part de mes préoccupations à Kevin, mais il dit qu’il n’avait pas le temps de s’occuper de la santé de Tyler. Lorsque Tyler et Jordan pratiquaient des sports, je prenais des dispositions avec Kevin pour aller porter les enfants et aller les chercher.
+Je suis la seule qui s’occupe des soins dentaires de Tyler et de Jordan. On m’a fortement conseillé de faire porter un appareil orthodontique à Tyler pour sauver ses dents. Je suis donc en train d’économiser l’argent provenant de la Prestation fiscale canadienne pour enfants afin de pouvoir lui acheter un appareil orthodontique. Jordan doit également subir une chirurgie dentaire. Récemment, j’ai dû remplacer la carte santé et le certificat de naissance de Tyler. La carte a été confiée au père de Tyler, mais celui‑ci l’a perdue.
+Je fais du bénévolat à l’école de Tyler et j’ai maintenu la communication pour m’assurer que ses notes sont satisfaisantes.
+Vous trouverez ci‑joint des copies de documents, notamment :
+Lettre du Dr Friars
+Lettre du Dr White
+Lettre de la College Avenue Public School
+Copies d’analyses de rayons X
+Copie des cartes santé
+Estimation de la chirurgie dentaire pour Jordan
+J’ai entrepris, à grands frais, de m’assurer qu’on prend soin de mes enfants. Je ne suis peut‑être pas tout le temps avec mes enfants, mais je fais des pieds et des mains pour m’assurer qu’on s’occupe bien d’eux.
+Pour de plus amples renseignements, n’hésitez pas à communiquer avec moi.
+[3] De plus, il ressort de la pièce A‑5 que l’appelante et l’ex‑époux avaient tous les deux demandé la PFCE et le CTPS.
+[4] L’ex‑époux était présent lors de l’audience, mais il a été exclu et il n’a pas témoigné.
+Analyse
+[5] Les points en litige en l’espèce sont ceux énoncés ci‑dessus. Pour obtenir gain de cause, l’appelante doit démontrer qu’elle est le particulier admissible à l’égard des enfants pour la période en cause, s’il est établi que les enfants étaient les personnes à charge admissibles.
+[6] La partie pertinente de la définition de l’expression « particulier admissible » à l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») est rédigée ainsi :
+Les définitions qui suivent s'appliquent à la présente sous‑section.
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+[...]
+[7] Les articles 122.6 à 122.64 de la Loi ont été adoptés en 1992 afin d’intégrer les prestations existantes offertes à l’égard de certaines personnes. La prestation est payable à l’égard des « personnes à charge admissibles ». Une personne à charge admissible doit être âgée de moins de 18 ans lors de la période pertinente, ce qui était effectivement le cas jusqu’au mois suivant le mois de septembre 2003 où Jordan a eu 18 ans. La prestation est payable à un « particulier admissible ». Pour avoir droit à la prestation en tant que particulier admissible, la personne doit, à ce moment‑là, a) résider avec la personne à charge admissible et b) être la personne – père ou mère de la personne à charge – qui assume principalement la responsabilité pour le soin et l’éducation de l’enfant. En l’espèce, il faut que l’appelante prouve que les deux conditions susmentionnées ont été remplies.
+[8] L’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») énonce les critères dont il faut tenir compte pour déterminer le « particulier admissible ». Il prévoit ce qui suit :
+Critères
+Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[9] Les dispositions de la Loi régissant le CTPS se trouvent à l’article 122.5 et sont expliquées ainsi aux pages 17 675 et suivantes du volume 4 du Canadian Tax Reporter de CCH :
+[traduction]
+À la suite de l’introduction de la taxe sur les produits et services (la « TPS »), l’ancien crédit remboursable pour taxe fédérale sur les ventes a été remplacé par le crédit pour taxe sur les produits et services (le « CTPS »). Tout comme le crédit pour taxe sur les ventes, le CTPS vise à réduire le fardeau de la TPS pour les contribuables à faible revenu […]. Pour demander le crédit, le contribuable doit cocher la case applicable figurant sur la première page du formulaire T1 lorsqu’il produit sa déclaration de revenus pour l’année.
+[…]
+La modalité de paiement du CTPS est unique en son genre. Le crédit est calculé en fonction de l’impôt payable pour une année, puis il est versé sous forme de versements trimestriels au cours de l’année suivante, à compter du mois de juillet. Par exemple, si un contribuable a droit à un CTPS calculé à l’égard de la déclaration de revenus pour 2001, il ne peut pas utiliser le crédit pour réduire son impôt à payer pour l’année 2001. Il doit plutôt accepter le versement du crédit en quatre paiements égaux effectués en juillet et en octobre 2002, puis en janvier et en avril 2003. Les sommes versées en trop sont recouvrées conformément aux modalités normales de nouvelle cotisation applicables à l’année où les crédits ont été demandés. Selon le paragraphe 160.1(1.1), le particulier et son proche admissible sont débiteurs solidaires de tout crédit demandé en trop.
+[…]
+Avant juillet 2002, le CTPS était calculé en fonction du revenu et des renseignements sur la situation familiale fournis dans la déclaration de revenus produite pour l’année précédente. La disposition a été modifiée, la modification devant entrer en vigueur en juillet 2002, afin que l’admissibilité au crédit et le montant versé chaque trimestre reflètent les changements qui se produisent dans la situation familiale avant la fin du trimestre précédent. Par conséquent, à compter de juillet 2002, l’admissibilité au crédit et le montant du versement trimestriel refléteront la situation familiale du contribuable au début de chaque trimestre (p. ex., si le contribuable a un conjoint visé, un enfant mineur, etc. à ce moment‑là). Selon les anciennes règles, on tenait compte de la situation qui existait à la fin de l’année précédente.
+[…]
+Admissibilité au crédit d’impôt pour taxe sur les produits et services. Le paragraphe 122.5(3) prévoit qu’un « particulier admissible » a droit à un crédit d’impôt à l’égard de lui‑même, d’un « proche admissible », d’une personne à l’égard de laquelle il demande l’équivalent du crédit pour conjoint et d’une « personne à charge admissible ». Le calcul du crédit est décrit brièvement dans les commentaires à la page 19 346a.
+Avant juillet 2002, ces définitions étaient fondées sur l’état civil du particulier et ses relations avec les personnes pertinentes à la fin de l’année d’imposition précédente. Depuis juillet 2002, les définitions indiquées ci‑dessous sont fondées sur l’état civil et les relations du contribuable au début de chaque trimestre et, plus particulièrement, au début d’un « mois déterminé » d’une année d’imposition. Les mois déterminés d’une année d’imposition sont définis comme étant les mois de juillet et d’octobre de l’année d’imposition suivante et les mois de janvier et d’avril de la deuxième année d’imposition suivante (paragraphe 122.5(4)).
+Le paragraphe 122.5(1) définit les termes susmentionnés. Par rapport à un mois déterminé pour une année d’imposition, un « particulier admissible » est un particulier (à l’exception d’une fiducie) qui, au début du mois déterminé, a 19 ans ou plus, est marié ou vit en union de fait, ou réside avec un enfant dont il est le père ou la mère.
+Un « proche admissible » est défini comme l’époux ou le conjoint de fait du particulier qui, au début du mois déterminé, vit avec le particulier au sens de l’article 122.6 (prestation fiscale canadienne pour enfants). L’article 122.6 définit un conjoint visé comme la personne qui, à un moment donné, est l’époux ou le conjoint de fait d’un particulier dont il ne vit pas séparé depuis 90 jours ou plus.
+Une « personne à charge admissible » est définie comme une personne qui, au début du mois déterminé, est l’enfant du particulier ou est à sa charge ou à la charge de l’époux ou du conjoint de fait visé du particulier, qui vit avec le particulier et qui est âgée de moins de 19 ans. Une personne n’est pas considérée comme une personne à charge admissible si elle est un particulier admissible ou le proche admissible d’un particulier.
+[…]
+Selon le paragraphe 122.5(5), si un particulier est le proche admissible d’un autre particulier par rapport à un mois déterminé, seulement l’un d’eux peut demander le crédit pour le mois (la personne demandant le crédit peut toutefois demander un montant à l’égard du proche admissible). À compter de juillet 2002, si les deux particuliers demandent le crédit, le ministre désignera le particulier admissible pour le mois déterminé.
+[…]
+Le paragraphe 122.5(6) a pour effet de faire en sorte qu’un seul particulier peut demander un crédit pour une même personne à charge admissible par rapport à un mois déterminé. Notamment, dans les cas où deux particuliers ou plus auraient autrement le droit de demander le crédit, ces derniers doivent se mettre d’accord sur l’identité du particulier qui demandera le crédit à l’égard de la personne à charge admissible pour le mois. Si les particuliers ne se mettent pas d’accord, le crédit sera accordé au particulier qui a droit à la Prestation fiscale canadienne pour enfants (PFCE) à l’égard de la personne à charge admissible. Dans les autres cas, le ministre désignera le particulier qui peut demander le crédit à l’égard de la personne à charge admissible.
+[10] Comme on peut le constater, les conditions pour la PFCE et le CTPS sont très semblables, et si deux personnes sont admissibles, comme un époux et une épouse, elles peuvent se mettre d’accord sur la personne qui recevra le CTPS. Toutefois, si elles ne le font pas, la personne qui reçoit la PFCE recevra également le CTPS.
+[11] L’appelante a longuement témoigné au sujet de l’attention qu’elle accordait aux enfants pour ce qui est de l’école, de la pharmacie, des rendez‑vous chez le médecin et le dentiste et de plusieurs autres questions liées à leur soin. Toutefois, l’ensemble de la preuve montre clairement que les enfants ne résidaient pas avec l’appelante et qu’ils résidaient plutôt avec l’ex‑époux la plupart du temps pendant la période visée.
+[12] Comme le juge Bonner l’a indiqué dans la décision S.R. c. La Reine, dossier 2003‑602(IT)I :
+L'expression « réside avec », telle qu'elle est utilisée dans la définition du terme « particulier admissible » à l'article 122.6, doit être interprétée de manière à tenir compte de l'objet de la loi. Cette loi visait à mettre en œuvre la prestation fiscale pour enfants. Cette prestation avait été mise en place en 1993 en vue de fournir un paiement mensuel unique non imposable aux conjoints ayant la garde d'un enfant. L'enfant devait être le bénéficiaire de ce paiement, lequel était versé au parent assumant principalement la responsabilité pour son soin et son éducation. Le critère est le fait de résider avec le parent. La présence physique d'un enfant qui vient rendre visite à la résidence d'un parent ne permet pas de remplir la condition imposée par la loi. Le verbe « résider », tel qu'il est utilisé à l'article 122.6, a une connotation de résidence établie et habituelle.
+[13] Cet appel est très semblable à la décision Matte c. Canada, [2001] A.C.I. no 886, où le juge suppléant Rowe de la Cour canadienne de l’impôt s’est fondé sur une autre décision, soit Piorkowski v. The Queen, [2000] 2 C.T.C. 2308. Dans Pirokowski, le juge Dussault de la présente Cour a indiqué ce qui suit à la page 2 :
+28. J'ai devant moi deux parties, d'une part la mère des enfants, de l'autre le père (et sa nouvelle conjointe) qui ont tous, à n'en pas douter, fait de leur mieux pour accorder le plus d'attention possible aux soins aux enfants et à l'éducation de ceux-ci dont ils partageaient la garde, une situation en général difficile. Chacun s'est occupé des enfants, chacun a participé aux activités des enfants, chacun a joué son propre rôle selon ses propres moyens.
+29. Lorsque les éléments de preuve dans l'ensemble ne font pas pencher la balance clairement en faveur d'une partie ou de l'autre, on aimerait bien trouver une solution qui répond à la volonté des parties de partager également la garde de leurs enfants, ce dont les parties ont essentiellement convenu et ce qu'elles ont respecté en l'espèce.
+30. Malheureusement, sauf dans le cas où les parties s'entendraient pour partager la prestation fiscale pour enfants sur une base semestrielle, ce que Revenu Canada accepte aux termes d'une de ses pratiques administratives, il n'est pas possible de diviser la prestation comme l'a décidé la Cour d'appel fédérale dans Canada v. Marshall, [1996] 2 C.T.C. 92.
+[14] Compte tenu des faits dans Piorkowski, le juge Dussault a conclu ce qui suit :
+31. Compte tenu des facteurs qui doivent être considérés et qui sont fondés sur le soin, l'attention et la participation, compte tenu des éléments de preuve présentés en l'espèce, je dois conclure que l'appelante n'a pas réussi à démontrer, selon la prépondérance des probabilités, qu'elle respecte la condition établie [à l’alinéa] b) de la définition de « particulier admissible » à l'article 122.6 de la Loi, c'est‑à‑dire qu'elle était, durant les périodes en question, la personne qui s'occupait principalement du soin et de l'éducation des deux enfants.
+[15] Le juge Dussault de la Cour canadienne de l’impôt a ensuite analysé l’ensemble de la preuve et a conclu que la contribution des deux parents était importante, mais s’est fondé sur la détermination effectuée par l’ARC pour ce qui est de choisir lequel des deux parents assumait principalement la responsabilité pour le soin des enfants pendant la période visée.
+[16] En l’espèce, après avoir examiné l’ensemble de la preuve, je ne suis pas convaincu que la décision de l’ARC était incorrecte. Plus particulièrement, l’appelante n’a pas réfuté les hypothèses du ministre qui sont donc présumées exactes.
+[17] Comme je l’ai mentionné, pour être admissible, une personne doit remplir deux conditions : elle doit résider avec la personne à charge admissible et assumer principalement la responsabilité pour le soin de celle‑ci. Même si l’appelante a grandement contribué à ce que les enfants reçoivent une éducation appropriée, ces derniers ne résidaient pas avec elle. Dans certaines circonstances, il peut être possible de considérer que l’appelante assumait principalement la responsabilité pour le soin des enfants, mais, même si c’est le cas, la condition relative à la résidence n’a pas été remplie et l’appelante ne peut donc pas être le particulier admissible. Par conséquent, l’appel est rejeté et l’appelante est tenue de remettre au ministre les paiements en trop suivants qu’elle a reçus :
+Période
+Année de base / année d’impo-sition
+PFCE versée
+Nouvelle détermi-nation de
+la PFCE
+CTPS versé
+Nouvelle cotisation établie au titre du CTPS
+Juillet 2002 – juillet 2003
+2001
+2 110,25 $
+Néant
+s.o.
+s.o.
+Juillet 2003 – juin 2004
+Juillet 2003 – avril 2004
+(CTPS)
+2002
+3 237,75 $
+Néant
+660 $
+330 $
+Juillet 2004 – octobre 2004
+2003
+491,94 $
+Néant
+220,41 $
+85 $
+Signé à Ottawa, Canada, ce 29e jour de décembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de mai 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2006CCI697
+NO DU DOSSIER : 2006-320(IT)I
+INTITULÉ : SUSAN KERVIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kitchener (Ontario)
+DATE DE L’AUDIENCE : Le 13 décembre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge T. O'Connor
+DATE DU JUGEMENT : Le 29 décembre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Ifeanyi Nwachukwu
+Me Ryan Hall
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

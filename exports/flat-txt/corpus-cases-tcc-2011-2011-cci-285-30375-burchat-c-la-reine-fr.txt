@@ -1,0 +1,292 @@
+Title: Burchat c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30375/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-285-30375-burchat-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-02
+
+# Burchat c. La Reine
+
+- Citation: 2011 CCI 285
+- Decision date: 2011-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burchat c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-02
+Référence neutre
+2011 CCI 285
+Numéro de dossier
+2010-3546(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3546(IT)I
+ENTRE :
+ANNE BURCHAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Nelson Burchat (2010-3547(IT)I)
+le 18 mai 2011 à Ottawa, Canada
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Nelson Burchat
+Avocate de l’intimée :
+Me Natasha Wallace
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que le revenu de l’appelante pour l’année 2008 est réduit de 14 227 $, conformément aux motifs du jugement ci‑joints.
+L’intimée doit verser à l’appelante des dépens de 300 $.
+Signé à Halifax (Nouvelle-Écosse), ce 2e jour de juin 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de juillet 2011.
+Marie-Christine Gervais
+Dossier : 2010-3547(IT)I
+ENTRE :
+NELSON BURCHAT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+d’Anne Burchat (2010-3546(IT)I)
+le 18 mai 2011 à Ottawa, Canada
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Natasha Wallace
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que le revenu de l’appelant pour l’année 2008 est réduit de 7 002 $, conformément aux motifs du jugement ci‑joints.
+L’intimée doit verser à l’appelant des dépens de 300 $.
+Signé à Halifax (Nouvelle-Écosse), ce 2e jour de juin 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de juillet 2011.
+Marie-Christine Gervais
+Référence : 2011CCI285
+Date : 20110602
+Dossier : 2010-3546(IT)I
+ENTRE :
+ANNE BURCHAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-3547(IT)I
+ET ENTRE :
+NELSON BURCHAT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Les appelants, qui sont mariés, ont fait l’acquisition de 300 unités dans la Fiducie houillère canadienne Fording (la « Fiducie Fording ») en 2006. Les appelants avaient deux comptes distincts à la TD Waterhouse. Un compte était au nom des deux appelants et l’autre au nom d’Anne Burchat uniquement. Les unités ont été acquises de la manière suivante :
+Compte aux noms de Nelson Burchat et d’Anne Burchat
+Date
+Nombre d’unités
+Prix d’achat (y compris la commission payée)
+8 mai 2006
+100
+4 096 $
+9 août 2006
+100
+3 214 $
+Total :
+200
+7 310 $
+Compte au nom d’Anne Burchat
+Date
+Nombre d’unités
+Prix d’achat (y compris la commission payée)
+8 mai 2006
+100
+4 106 $
+Total :
+100
+4 106 $
+[2] En 2008, Teck Cominco Limited (« Teck Cominco ») a acquis tous les actifs et pris en charge toutes les dettes de la Fiducie Fording. Certains montants ont donc été distribués aux détenteurs d’unités de la Fiducie Fording. Les appelants ont reçu des feuillets T3 indiquant que les montants suivants seraient inclus dans leur revenu :
+Nelson Burchat ou Anne Burchat
+Anne Burchat
+Total
+Montant :
+20 659 $
+10 330 $
+30 989 $
+[3] Lorsqu’ils ont produit leurs déclarations de revenu pour l’année 2008, les appelants ont déclaré les montants suivants à titre d’« autres revenus » à la ligne 130 :
+Nelson Burchat
+Anne Burchat
+Total
+Montant :
+11 165 $
+21 430 $
+32 595 $
+[4] Il y avait également d’autres petits montants qui devaient être inclus en tant qu’ « autres revenus » pour 2008. Il est évident, et cela n’est pas contesté par l’intimée, que les appelants ont déclaré tous les montants de revenu indiqués dans les feuillets T3. Anne Burchat a déclaré la totalité du montant indiqué dans le feuillet T3 au titre de l’investissement dans la Fiducie Fording figurant dans le compte qui était à son nom seulement, ainsi que la moitié du montant de l’investissement figurant dans l’autre compte. Nelson Burchat a déclaré la moitié du montant indiqué dans le feuillet T3 au titre de l’investissement dans la Fiducie Fording figurant dans le compte qui était au nom des deux appelants.
+[5] Les appelants (qui sont âgés de 81 et de 82 ans) ne comprennent pas pourquoi ils n’ont pas le droit de traiter le montant qu’ils ont reçu relativement aux opérations conclues entre la Fiducie Fording et Teck Cominco comme le produit de disposition d’une immobilisation et donc déclarer un gain en capital d’un montant égal à la différence entre le montant qu’ils ont reçu et le montant qu’ils ont payé pour les unités. La moitié du gain en capital serait alors incluse dans leur revenu en tant que gain en capital imposable. Ils ont déposé des avis d’opposition dans lesquels ils soulevaient cette question.
+[6] Dans l’avis de ratification du ministre que les appelants ont reçu en réponse à leurs avis d’opposition, la seule raison qui leur a été fournie pour leur expliquer pourquoi les montants devaient être inclus dans leur revenu est la suivante :
+[traduction]
+[V]ous n’avez pas établi que le montant de 10 329,56 $ est un gain imposable suivant les alinéas 38a), 39(1)a) et 40(1)a). Le montant a été inclus dans votre revenu en application de l’article 3.
+[7] Le fait de mentionner qu’un montant a été inclus dans le revenu en application de l’article 3 de la Loi de l’impôt sur le revenu (la « Loi ») n’est d’aucune utilité pour expliquer pourquoi un montant a été inclus dans le revenu, car l’article 3 est une disposition générale qui établit que le revenu doit être déterminé en application de la Loi.
+[8] À mon avis, les appelants veulent simplement savoir pourquoi un montant reçu relativement à un investissement auquel ils ont mis fin et dans le cadre duquel ils avaient fait l’acquisition d’unités sur le marché boursier doit être déclaré comme un revenu et non comme un gain en capital.
+[9] Pour répondre à la question, il me semble qu’il est très important de comprendre la nature de l’investissement que les appelants ont fait lorsqu’ils ont fait l’acquisition des unités de la Fiducie Fording. Il s’agissait d’unités d’une fiducie et non d’actions d’une société. Sur le plan fiscal, une fiducie est traitée différemment d’une société. Les actifs de la fiducie sont détenus au profit des bénéficiaires, ce qui, dans ce cas‑ci, signifie les détenteurs des unités de la fiducie. Une fiducie est imposée comme un particulier (paragraphe 104(2) de la Loi), ce qui veut dire qu’une fiducie produira sa propre déclaration de revenus et paiera des impôts sur son revenu. Si une partie du revenu gagné par une fiducie doit être versée à un bénéficiaire dans l’année, la fiducie a le droit de déduire le montant de ce revenu dans le calcul de son revenu pour l’application de la Loi (paragraphe 104(6) de la Loi) et le bénéficiaire doit inclure le montant de revenu en question dans son revenu pour l’application de la Loi (paragraphe 104(13) de la Loi).
+[10] Très peu de renseignements ont été présentés à l’audience au sujet des opérations conclues entre la Fiducie Fording et Teck Cominco ou au sujet de la façon dont a été calculé le montant indiqué dans les feuillets T3 qui ont été envoyés aux appelants. Cependant, il semble, compte tenu des renseignements limités qui ont été fournis pendant l’audience, que les principaux actifs de la Fiducie Fording étaient peut‑être des avoirs miniers canadiens au sens du paragraphe 66(15) de la Loi. Plus particulièrement, la définition du terme « avoir minier canadien » est rédigée ainsi :
+« avoir minier canadien » Relativement à un contribuable, bien de celui‑ci qui est :
+[…]
+b) un droit, permis ou privilège afférent :
+[…]
+(ii) soit aux travaux de prospection, d’exploration, de forage ou d’extraction de minéraux d’une ressource minérale au Canada;
+[…]
+f) un bien immeuble (sauf un bien amortissable) situé au Canada et dont la valeur principale dépend de sa teneur en matières minérales);
+[11] Le paragraphe 248(1) de la Loi prévoit que le terme « minéral » comprend le charbon et que le terme « ressource minérale » signifie, entre autres choses, un gisement de charbon. L’alinéa 39(1)a) de la Loi prévoit qu’un contribuable ne peut pas tirer un gain en capital de la vente d’un avoir minier canadien étant donné qu’un tel bien n’est pas un bien, suivant le sous‑alinéa 39(1)a)(ii) de la Loi, qui, s’il était vendu à profit, donnerait lieu à un gain qui serait considéré comme un gain en capital. La disposition d’un avoir minier canadien, dont le produit de la vente est suffisant, entraînera un gain au titre du revenu et non un gain en capital. Tout montant reçu à la vente d’un avoir minier canadien qui est décrit à l’alinéa b) ou f) de la définition du terme « avoir minier canadien » susmentionnée sera déduit dans le calcul des frais cumulatifs d’aménagement au Canada du détenteur du bien, car il sera inclus à l’élément F de la formule énoncée dans la définition de l’expression « frais cumulatifs d’aménagement au Canada » figurant au paragraphe 66.2(5) de la Loi. Si les montants déduits sur une base cumulative dans le calcul des frais cumulatifs d’aménagement au Canada (y compris tout montant pour F) excèdent les montants additionnés sur une base cumulative dans le calcul des frais cumulatifs d’aménagement au Canada, l’excédent obtenu constitue un revenu selon l’alinéa 59(3.2)c) et le paragraphe 66.2(1) de la Loi.
+[12] Il semble que, puisque Teck Cominco a fait l’acquisition des actifs de la Fiducie Fording, cette dernière a réalisé des gains importants lors de la disposition de ses avoirs miniers canadiens et donc des gains importants imposables en tant que revenu. Toute partie du revenu que la Fiducie Fording a gagné en tant que fiducie et qui était payable aux bénéficiaires aurait été déductible par la Fiducie Fording dans le calcul de son revenu pour l’application de la Loi et inclus par les bénéficiaires dans le calcul de leur revenu pour l’application de la Loi. En tant que détenteurs d’unités de fiducie dans la Fiducie Fording, les appelants étaient les bénéficiaires de cette fiducie et ils devaient donc déclarer leur part du revenu que la Fiducie Fording a tiré de la disposition de ses avoirs miniers canadiens. Les feuillets T3 que les appelants ont reçus reflètent simplement le montant de revenu gagné par la Fiducie Fording que cette dernière devait leur payer.
+[13] Les réponses déposées par les appelants sont identiques, sauf pour ce qui est des changements qui étaient requis pour refléter les montants déclarés par chacun des appelants. Au paragraphe 9 de la réponse à l’avis d’appel de Nelson Burchat, il est mentionné ce qui suit :
+[traduction]
+9. Pour déterminer l’obligation fiscale de l’appelant pour l’année d’imposition 2008, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant et son épouse détenaient 300 unités de la Fiducie houillère canadienne Fording (la « Fiducie Fording ») : 200 de ces unités étaient détenues conjointement par l’appelant et son épouse en parts égales, et les 100 autres unités étaient détenues uniquement par l’épouse de l’appelant;
+b) l’appelant et son épouse ont reçu d’autres revenus s’élevant à 30 988,69 $ et un remboursement de capital de 273,71 $ de la Fiducie Fording au cours de l’année d’imposition 2008;
+c) les autres revenus s’élevant à 30 988,69 $ et un remboursement de capital de 273,71 $ distribués par la Fiducie Fording découlaient d’un arrangement ayant pris effet le 30 octobre 2008 qui comportait l’acquisition des actifs et la prise en charge des dettes de la Fiducie Fording par Teck Cominco Limited;
+d) du total des autres revenus distribués, un montant de 20 659,13 $ concernait les 200 unités de la Fiducie Fording, et un autre montant de 10 329,56 $ concernait les 100 unités de la Fiducie Fording;
+e) un feuillet T3 et un Sommaire des revenus de la fiducie faisant état d’autres revenus de 30 988,69 $ et d’un remboursement de capital de 273,71 $ ont été établis par la TD Waterhouse, le conseiller en placements de l’appelante;
+f) le feuillet T3 et le Sommaire des revenus de la fiducie faisaient état d’un montant de 30 988,69 $ au titre d’« autres revenus » à la case 26;
+g) la Fiducie Fording a donné l’ordre à toutes les institutions financières, y compris la TD Waterhouse, d’imposer la contrepartie qu’elle avait versée à ses détenteurs d’unités en déclarant la majeure partie du montant en tant qu’« autres revenus » à la case 26 et une petite partie de celui‑ci en tant que « remboursement de capital » à la case 42;
+h) l’appelant a déclaré 50 % du montant de 20 659,13 $ relatif aux 200 unités de la Fiducie Fording en tant qu’« autres revenus » à la ligne 130 de sa déclaration de revenus pour l’année d’imposition 2008;
+i) le montant de 30 988,69 $ distribué à l’appelant et à son épouse constitue d’« autres revenus », tel que le prescrit la Fiducie Fording.
+[14] Sous la rubrique intitulée [traduction] « DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES » dans la réponse, il est mentionné ce qui suit :
+[traduction]
+11. Il se fonde sur les articles 3, 9, 108, 118 et 126 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, (5e suppl.), dans sa version modifiée (la « Loi »).
+12. Il allègue que le ministre a correctement évalué le revenu de l’appelant pour l’année d’imposition 2008, en application des articles 3, 118 et 126 de la Loi.
+13. Il allègue également que la somme de 30 988,69 distribuée à l’appelant et à son [sic] époux constitue d’« autres revenus » et que le ministre a correctement évalué le revenu que l’appelant a tiré des [sic] unités de la Fiducie Fording de façon que le revenu soit déclaré par la Fiducie Fording au cours de l’année d’imposition 2008.
+[15] Les dispositions législatives mentionnées dans la réponse ne sont pas pertinentes et sont trompeuses dans la présente affaire. Comme je l’ai dit plus haut, il semble que le montant que les appelants auraient dû déclarer, et qu’ils ont déclaré comme revenu, se rapportait aux montants de revenu que la Fiducie Fording devait leur verser en tant que bénéficiaires de la fiducie. Cependant, aucune des dispositions énumérées dans la réponse n’exige que les appelants incluent dans leur revenu quelque montant que ce soit qui leur était payable par la fiducie à titre de bénéficiaires de celle‑ci. L’alinéa 12(1)m) et le paragraphe 104(13) de la Loi exigeraient que de tels montants soient inclus dans le revenu, mais ni l’un ni l’autre ne sont mentionnés dans la réponse. Nulle part dans la réponse il n’est fait mention de l’exigence selon laquelle les bénéficiaires doivent inclure dans leur revenu tout montant de revenu payable aux bénéficiaires par la fiducie. Il est mentionné que la cotisation est fondée sur les articles 3, 118 et 126 de la Loi. Pour ajouter à la confusion, la première fois où l’investissement est mentionné au paragraphe où sont énoncées les hypothèses de fait, l’investissement y est décrit comme des [traduction] « actions de la Fiducie houillère canadienne Fording », et à l’alinéa 9g), on renvoie à la [traduction] « contrepartie versée », ce qui donne à penser que le montant versé était un produit de disposition.
+[16] L’article 3 est une disposition générale de la Loi qui n’aide aucunement les particuliers à savoir pourquoi une somme doit être incluse dans le revenu. L’article 118 de la Loi traite des crédits d’impôt personnels dont peuvent se prévaloir les particuliers. Rien dans l’article 118 n’exige que les montants que les appelants ont reçus de la Fiducie Fording soient inclus dans leur revenu. L’article 126 de la Loi porte sur un crédit pour impôt étranger. Les articles 118 et 126 prévoient tous les deux des crédits dont le montant peut être déduit dans le calcul de l’impôt à payer – ils ne prévoient pas l’inclusion de montants dans le revenu des bénéficiaires d’une fiducie. Les articles 118 et 126 de la Loi n’ont aucune pertinence au regard de la question en litige en l’espèce et induiraient en erreur n’importe quel contribuable qui se représente lui‑même. On a l’impression que des articles qui n’ont aucun lien entre eux ont été cités au hasard pour former en partie le fondement de la cotisation.
+[17] Les renvois aux articles 9 et 108 au paragraphe 11 ne sont également d’aucune utilité à la personne qui lit la réponse. L’article 9 est une disposition générale qui concerne le revenu tiré d’une entreprise ou d’un bien et qui prévoit que le revenu qu’un contribuable tire d’une entreprise ou d’un bien est le bénéfice qu’il en tire. Il est vrai que l’article 108 traite des fiducies, mais il ne fait que donner diverses définitions et comprend d’autres dispositions qui ne sont pas pertinentes en l’espèce.
+[18] L’appel a été entendu un mercredi. Le lundi, la même semaine, l’avocate de l’intimée s’était rendu compte que les dispositions mentionnées dans la réponse n’étaient pas pertinentes en l’espèce et que les dispositions pertinentes ne figuraient pas parmi les dispositions énumérées. Elle a informé les appelants qu’elle demanderait que les réponses soient modifiées. Les appelants n’ont vu les réponses modifiées proposées qu’au début de l’audience, car ils devaient parcourir environ 100 milles pour assister à l’audience et avaient donc quitté leur demeure avant que l’intimée puisse leur envoyer une copie des réponses modifiées proposées. Avant le début de l’audience, l’avocate de l’intimée a présenté une demande de modification des réponses.
+[19] La demande de modification des réponses a été refusée. Dans l’arrêt Burton c. La Reine, 2006 CAF 67, [2006] 2 C.T.C. 286, 2006 DTC 6133, la Cour d’appel fédérale devait examiner un cas où une demande de modification de la réponse avait été présentée au début de l’audience. Aucun préavis de la modification proposée n’avait été donné et aucune requête formelle n’avait été présentée. La Cour d’appel fédérale, sous la plume du juge Rothstein (tel était alors son titre), s’est exprimée ainsi :
+11 Selon l’appelant, la juge de la Cour de l’impôt aurait dû rejeter la demande du ministre sollicitant l’autorisation de déposer une réponse modifiée le matin même de l’audience. Sa décision de ne pas le faire et de lui offrir uniquement le choix entre une brève suspension et un ajournement de l’audience a entraîné un manquement aux règles de l’équité procédurale. L’appelant invoque la décision du juge Bowman (à l’époque juge en chef adjoint de la Cour canadienne de l’impôt) dans Poulton c. R., [2002] 2 C.T.C. 2405. Dans Poulton, après avoir cité des décisions indiquant que la Cour se montre en général libérale en matière de modification des actes de procédure, le juge Bowman a expliqué pourquoi il refusait en l’occurrence d’autoriser la modification.
+12 Si je comprends bien son raisonnement, le juge Bowman estimait que, dans les affaires régies par la procédure informelle, la Cour de l’impôt ne devrait pas invariablement faire droit à une requête par laquelle la Couronne sollicite l’autorisation de « présenter à la dernière minute un tout nouvel argument à l’encontre d’un contribuable » . Lorsque l’ajournement aurait pour effet de retarder indûment le traitement d’appels informels portant sur un litige relativement mineur, le juge de la Cour de l’impôt doit exercer judicieusement son pouvoir discrétionnaire pour décider s’il y a lieu de permettre la modification et l’ajournement pouvant en découler. Le juge Bowman fait remarquer que, lors d’appels informels, le refus de permettre à la Couronne de faire des modifications à la dernière minute n’entraînerait pas de « catastrophe, que ce soit au plan jurisprudentiel ou financier ».
+13 Aux paragraphes 16, 17 et 18, le juge Bowman a écrit ce qui suit :
+16. Pourquoi n’ai-je pas autorisé la modification en l’espèce, comme la Cour fédérale l’avait fait dans les arrêts susmentionnés? En fait, il y a toute une différence entre les grandes sociétés ouvertes et les multinationales qui ont accès aux services d’avocats chevronnés pour les défendre dans des causes mettant en jeu des millions de dollars, et les petits contribuables qui ne sont pas représentés par des avocats et dont le litige porte sur des montants relativement mineurs.
+17. Selon les principes d’équité procédurale, dans les affaires régies par la procédure informelle, la Couronne ne devrait pas être autorisée à présenter à la dernière minute un tout nouvel argument à l’encontre d’un contribuable. Si les appelants avaient su dès le départ ou, à tout le moins, s’ils avaient appris dans un délai raisonnable avant l’instruction, que la Couronne comptait invoquer l’alinéa 6(1)b), ils auraient peut-être agi de façon entièrement différente et auraient pu présenter une preuve visant à réfuter l’allégation selon laquelle les montants constituaient des « allocations » au sens de l’alinéa 6(1)b) ou à démontrer qu’ils étaient soustraits à l’application de cette disposition par le paragraphe 6(6). Si j’avais fait droit aux requêtes de la Couronne et autorisé la modification, les appelants auraient eu parfaitement le droit de demander un ajournement, ce qui aurait retardé indûment le traitement des appels informels en l’espèce, qui portent sur un litige relativement mineur. Je ne saurais trop répéter à quel point il est important que la Cour veille, dans les affaires régies par la procédure informelle, à ce que le contribuable non représenté ne soit pas privé de l’application des principes d’équité procédurale.
+18. J’admets volontiers qu’en rejetant la requête en modification de la Couronne, j’ai peut-être privé celle-ci de la possibilité d’invoquer ce qui pourrait être un argument fort valable. Cependant, le rejet des appels en l’espèce au détriment de la Couronne parce que celle‑ci a commis une erreur et omis de citer une disposition qui aurait pu l’aider n’est pas une catastrophe, que ce soit au plan jurisprudentiel ou financier. Il est beaucoup plus important de veiller à ce que les contribuables non représentés au cours d’une affaire régie par la procédure informelle bénéficient pleinement de l’application des principes d’équité procédurale. Contraindre les appelants à étudier des dispositions aussi complexes que l’alinéa 6(1)b) et le paragraphe 6(6) la veille de l’instruction causerait un tort irréparable à l’administration de la justice.
+14 La question de savoir s’il y a lieu de permettre la modification d’un acte de procédure et s’il convient, en pareil cas, de suspendre l’audience ou de l’ajourner, relève, bien sûr, du pouvoir discrétionnaire de la Cour. D’après moi, le juge Bowman n’entendait pas sur ce point imposer des règles immuables. Je considère, par contre, qu’il précisait les considérations d’ordre pratique dont un juge de la Cour de l’impôt devrait tenir compte dans l’exercice de son pouvoir discrétionnaire en de telles circonstances.
+[…]
+17 Les considérations pertinentes sont, premièrement, que les avantages imposables en cause en l’espèce s’élèvent à 6 348 $ pour l’année 2000 et à 4 801 $ pour l’année 2001. Le montant de l’impôt ne correspond, bien sûr, qu’à un pourcentage de ces sommes, environ 40 p. 100 selon l’appelant. Les sommes en question sont donc relativement peu élevées.
+18 Deuxièmement, les années d’imposition en cause remontaient, à l’époque de l’audience, à environ quatre ou cinq ans.
+19 Troisièmement, l’appelant n’est pas assisté d’un avocat. Il pouvait, à juste titre, s’attendre à ce que la cotisation se fonde effectivement sur la réponse initiale du ministre et limiter par conséquent sa préparation aux dispositions législatives invoquées par le ministre dans cette réponse. L’article 6 de la Loi de l’impôt sur le revenu prévoit un certain nombre d’exceptions ainsi que des exceptions à ces exceptions et le sens de cette disposition n’est donc pas parfaitement évident. L’erreur commise par le ministre en ne citant pas, dans sa réponse initiale, l’alinéa 6(1)l) n’était pas manifeste et l’appelant ne pouvait donc pas prévoir qu’il serait nécessaire d’y apporter une modification.
+[20] En l’espèce, l’avocate de l’intimée a écrit à la Cour le jour avant l’audience pour l’aviser qu’une demande de modification des réponses serait présentée. Les appelants ont cependant reçu les copies des réponses modifiées tout juste avant le début de l’audience.
+[21] Le juge Rothstein a mentionné que les considérations pertinentes dans l’arrêt Burton, précité, étaient les sommes en cause, le temps écoulé entre les années d’imposition en cause et la date de l’audience et le fait que l’appelant n’était pas assisté d’un avocat.
+[22] En l’espèce, les appelants soutiennent qu’ils devraient avoir le droit de déclarer un gain en capital relativement au montant qu’ils ont reçu. Comme il y avait deux comptes distincts, le prix de base rajusté des 100 unités détenues dans le compte au nom d’Anne Burchat sera calculé séparément du prix de base rajusté des 200 unités détenues dans l’autre compte. Le prix de base rajusté des 100 unités détenues dans le compte au nom d’Anne Burchat était de 4 106 $. Le prix de base rajusté des 200 unités détenues dans l’autre compte était de 7 310 $. Par conséquent, le prix de base rajusté de chaque unité détenue dans ce dernier compte était de 7 310 $ / 200 = 36,55 $.
+[23] Anne Burchat a déclaré la totalité du montant reçu relativement aux 100 unités détenues dans le compte à son nom et la moitié du montant reçu relativement aux unités détenues dans l’autre compte. Cette façon de déclarer les montants reçus n’a pas été contestée par l’intimée, quoique cela soit peut‑être attribuable à l’ignorance par l’intimée des faits relatifs aux comptes, qui semblent n’avoir été divulgués qu’à l’audience. Si les montants reçus avaient été le produit de disposition d’une immobilisation, les montants que les appelants auraient déclarés comme les montants devant être inclus dans leur revenu à titre de gain en capital imposable (si on se fonde également sur les deux tiers du montant déclaré par Anne Burchat) auraient été les montants suivants :
+Nelson Burchat
+Anne Burchat
+Produit[1] :
+10 312 $
+20 624 $
+Prix de base rajusté[2] :
+3 655 $
+7 761 $
+Gain en capital :
+6 657 $
+12 863 $
+Gain en capital imposable :
+3 328 $
+6 432 $
+[24] Cela donnerait lieu à un produit total de 30 936 $ (10 312 $ + 20 624 $). Les montants figurant dans les feuillets T3 (et donc les montants déclarés à titre de revenu) étaient un peu plus élevés. Si on se fonde sur les montants indiqués dans les feuillets T3 et qu’on répartit les montants de la même façon, on obtient les montants suivants, qui ont été déclarés par chacun des appelants et utilisés par l’Agence du revenu du Canada pour établir les cotisations :
+Nelson Burchat
+Anne Burchat
+Total
+Montant :
+10 330 $
+20 659 $
+30 989 $
+[25] Par conséquent, les sommes en litige en l’espèce sont les suivantes :
+Nelson Burchat
+Anne Burchat
+Montant de la cotisation :
+10 330 $
+20 659 $
+Gain en capital imposable :
+3 328 $
+6 432 $
+Écart (somme en litige) :
+7 002 $
+14 227 $
+[26] Dans l’arrêt Burton, les montants de revenu en litige s’élevaient à 6 348 $ pour la première année et à 4 801 $ pour l’autre année, ou bien à 11 149 $ pour les deux années pour le contribuable. En l’espèce, il y a deux contribuables et le montant pour le premier appelant est inférieur au montant total en litige dans l’affaire Burton alors que le montant pour l’autre appelant excède de 3 078 $ le montant total en litige dans l’affaire Burton. À mon avis, ce montant plus élevé n’est pas assez important pour qu’une distinction soit établie entre la présente affaire et l’affaire Burton.
+[27] Dans l’affaire Burton, les années d’imposition en cause précédaient de quatre ou cinq ans la date de l’audience. En l’espèce, l’année d’imposition en cause est l’année 2008, soit trois ans avant la date de l’audience. Cela n’est pas suffisant pour distinguer la présente affaire de l’affaire Burton.
+[28] Dans l’affaire Burton comme en l’espèce, les contribuables se représentaient eux‑mêmes. Il me semble qu’il s’agit‑là d’un facteur important. En l’espèce, le fait que, dans les réponses, l’intimée a renvoyé au hasard à des articles qui n’ont aucun lien entre eux ne peut qu’être source de confusion et de frustration pour le plaideur qui se représente lui‑même. Je ne vois pas comment la lecture des articles 118 et 126 de la Loi pourrait aider les appelants dans les présents appels.
+[29] Comme je l’ai mentionné précédemment, la demande de modification des réponses a été refusée. L’avocate de l’intimée a alors demandé un ajournement. Les appelants, je le rappelle, sont âgés de 81 et de 82 ans. Nelson Burchat a mentionné qu’ils avaient dû parcourir environ 100 milles pour assister à l’audience et qu’ils avaient dû arriver la journée précédente. Les réponses dans les présents appels ont été déposées le 31 janvier 2011, approximativement trois mois après le dépôt des avis d’appel le 29 octobre 2010 et plus de trois mois et demi avant la date fixée pour l’audience. L’intimée avait amplement le temps de rédiger et de revoir les réponses. Les montants en litige en l’espèce sont peu élevés. La demande d’ajournement a été refusée.
+[30] Par conséquent, on ne peut pas conserver les cotisations des appelants dont le fondement est formé d’articles cités au hasard qui n’ont aucun lien entre eux. Il faut donc établir de nouvelles cotisations à l’égard des appelants afin que leur revenu corresponde aux montants qui auraient été inclus dans leur revenu si les montants reçus avaient été traités comme le produit de disposition d’une immobilisation entraînant un gain en capital, après prise en compte du montant payé pour les unités.
+[31] Lors de l’audience, Nelson Burchat a mentionné clairement que le compte au nom des deux appelants était son compte et que le nom de son épouse avait été ajouté uniquement afin qu’elle puisse être signataire autorisée pour le compte. Il semble donc qu’elle n’avait pas d’intérêt de propriété dans l’investissement détenu dans le compte, et il ne semble pas y avoir de fondement logique permettant à Anne Burchat de déclarer le revenu qu’elle a tiré de l’investissement dans le compte. Même si elle avait un intérêt de propriété, les règles d’attribution figurant aux articles 74.1 et 74.2 de la Loi peuvent s’appliquer. En l’espèce, l’intimée n’a présenté aucun argument relativement à l’attribution de la moitié du revenu tiré de l’investissement détenu dans le compte au nom des deux appelants et, dans les réponses, l’intimée a tenu pour acquis que l’investissement dans le compte était divisé également entre les deux appelants.
+[32] Dans l’arrêt Pedwell v. The Queen, 2000 DTC 6405, [2000] 3 C.T.C. 246, le juge Rothstein, s’exprimant au nom de la Cour d’appel fédérale, a mentionné ce qui suit :
+15 Quoique les parties aient fait référence à bon nombre de décisions sur la question, l’arrêt Banque Continentale établit maintenant clairement que le ministre est lié par les motifs de sa cotisation (sous réserve du paragraphe 152(9) qui s’applique aux appels pour lesquels une décision a été rendue après le 17 juin 1999 et qui n’est pas pertinent en l’espèce de toute manière). Même si, dans la présente affaire, le ministre n’a pas avancé de motifs différents au soutien de sa cotisation, j’estime que le principe énoncé dans l’arrêt Banque Continentale est applicable à une décision judiciaire rendue pour des motifs différents de ceux figurant dans l’avis de nouvelle cotisation.
+16 Premièrement, si la Couronne ne peut pas modifier les motifs d’une nouvelle cotisation après l’expiration du délai prévu à cette fin, la Cour de l’impôt se trouve dans la même position. Le contribuable subit le même préjudice – la privation de l’avantage tiré de ce délai. Il n’est pas loisible à la Cour de l’impôt ni à la Cour fédérale d’élaborer elles‑mêmes des motifs de cotisation alors que ces motifs ne constituent pas le fondement de la nouvelle cotisation établie par le ministre relativement au contribuable.
+17 Deuxièmement, même s’il est loisible au ministre de modifier les motifs de la cotisation avant l’expiration du délai prévu à cette fin, j’estime que lorsqu’il ne le fait pas, le juge de la Cour de l’impôt doit s’en tenir à la cotisation en litige. L’équité exige que le contribuable ait une possibilité raisonnable de contester de nouveaux motifs de cotisation. Si le juge de la Cour de l’impôt se fonde sur des motifs de cotisation qui ne sont pas en cause dans l’instance, le contribuable est privé de cette possibilité.
+18 Dans sa décision et après la présentation de la preuve et des arguments relatifs aux motifs de cotisation du ministre en l’espèce, le juge de la Cour de l’impôt a pris l’initiative de modifier le fondement de cette cotisation sans que l’appelant ait la possibilité de se faire entendre quant à cette modification. Cela ressort du fait que le jugement de la Cour de l’impôt a accueilli l’appel interjeté par l’appelant, c’est‑à‑dire, qu’il a conclu qu’il n’y avait pas appropriation d’un bien‑fonds, ce qui constituait le fondement de la cotisation du ministre, tout en renvoyant l’affaire au ministre pour qu’il établisse une nouvelle cotisation fondée sur l’appropriation du produit de la vente à Euler et du dépôt versé par Landpark. Ce qui s’est produit équivaut à permettre au ministre d’interjeter appel de sa propre nouvelle cotisation.
+19 Je ne dis pas que le ministre ne peut pas fonder sa cotisation sur des motifs subsidiaires. Cela n’a toutefois pas été fait en l’espèce.
+[33] Le ministre aurait peut-être pu invoquer le paragraphe 152(9) de la Loi (auquel renvoie le juge Rothstein) pour avancer un argument subsidiaire à l’appui de la nouvelle cotisation établie à l’égard de l’appelant, mais ce paragraphe ne peut être invoqué que si le ministre avance un tel argument subsidiaire. Comme le ministre n’a pas fait valoir d’argument subsidiaire pour inclure la totalité du revenu tiré de l’investissement détenu dans le compte qui était au nom des deux appelants dans le revenu de Nelson Burchat, il ne m’est pas permis de le faire. Aucun rajustement ne sera donc apporté quant à la répartition des montants entre les deux appelants.
+[34] Par conséquent, les rajustements suivants seront apportés au revenu des appelants :
+Nelson Burchat
+Anne Burchat
+Montant de la cotisation :
+(10 330 $)
+(20 659 $)
+Gain en capital imposable[3] :
+3 328 $
+6 432 $
+Réduction du revenu :
+7 002 $
+14 227 $
+[35] Les appels sont donc accueillis, et les affaires sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que le revenu d’Anne Burchat pour l’année 2008 est réduit de 14 227 $ et que le revenu de Nelson Burchat pour l’année 2008 est réduit de 7 002 $.
+[36] L’intimée doit verser à chacun des appelants des dépens de 300 $.
+Signé à Halifax (Nouvelle-Écosse), ce 2e jour de juin 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de juillet 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011CCI285
+Nos DES DOSSIERS DE LA COUR : 2010-3546(IT)I
+2010-3547(IT)I
+INTITULÉS : ANNE BURCHAT c. S.M.R. ET ENTRE NELSON BURCHAT c. S.M.R.
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 18 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 2 juin 2011
+COMPARUTIONS :
+Représentant des appelants :
+M. Nelson Burchat
+Avocate de l’intimée :
+Me Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon les montants versés dans les comptes de la TD Waterhouse. Pour Nelson Burchat, la moitié de 20 624 $, et pour Anne Burchat, 10 312 $ + la moitié de 20 624 $.
+[2] Pour Nelson Burchat, 100 unités x 36,55 $ l’unité = 3 655 $. Pour Anne Burchat, 4 106 $ + (100 unités x 36,55 $ l’unité) = 7 761 $.
+[3] Il s’agit du montant qui aurait été un gain en capital imposable si le montant reçu avait été le produit de disposition d’un bien en immobilisation.

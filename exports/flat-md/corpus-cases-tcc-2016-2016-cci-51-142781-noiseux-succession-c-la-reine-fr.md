@@ -1,0 +1,135 @@
+---
+title: "Noiseux (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142781/index.do"
+last_modified: "2016-03-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 51"
+citation2: ""
+neutral_citation: "2016 CCI 51"
+decision_date: "2016-03-01"
+language: "fr"
+item_id: "142781"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3026
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:08:49.611000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1960a33b913c43445f84abc324145e20cb4f0b2e3c2140079ba8b4fedef6cf37"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Noiseux (Succession) c. La Reine
+
+- Citation: 2016 CCI 51
+- Decision date: 2016-03-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3026, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Noiseux (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-03-01
+Référence neutre
+2016 CCI 51
+Numéro de dossier
+2011-1792(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1792(IT)I
+ENTRE :
+SUCCESSION DE GILLES NOISEUX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 27 octobre 2015, à Montréal (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Représentant de l'appelante :
+Sylvain Tessier
+Avocat de l'intimée :
+Me Grégoire Cadieux
+JUGEMENT
+L’appel interjeté d’une nouvelle cotisation en vertu de la Loi de l’impôt sur le revenu concernant l’année d’imposition 2002 est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de mars 2016.
+« B.Paris »
+Juge Paris
+Référence : 2016 CCI 51
+Date : 20160301
+Dossier : 2011-1792(IT)I
+ENTRE :
+SUCCESSION DE GILLES NOISEUX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Notre Cour est saisie d’un appel interjeté selon la procédure informelle d’une nouvelle cotisation pour l’année d’imposition 2002. Les questions en litige sont les suivantes : feu M. Noiseux a-t-il omis d’inclure 27 250 $ dans son revenu et le ministre du Revenu national (le « ministre ») a-t-il correctement émis une nouvelle cotisation malgré l’expiration de la période normale de cotisation?
+[2] L’intimée soutien que l’omission d’inclure ce revenu constitue une présentation erronée des faits par feu M. Noiseux dans sa déclaration due à sa négligence, inattention ou omission volontaire de sorte que le ministre avait le droit d’établir la nouvelle cotisation en vertu du sous-alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (la « Loi »). L’intimée reconnaît qu’elle a la charge d’établir les faits justifiant l’émission de la cotisation en l’espèce.
+[3] Le représentant de l’appelante a choisi de ne citer à témoigner nulle personne lors de l’audition de l’appel et soutient que l’intimée ne s’est pas acquittée du fardeau qui lui incombe de prouver que M. Noiseux a reçu le montant en question. Je rejette cette thèse.
+[4] L’intimée a fait témoigner M. Maurice Paradis, qui a confirmé qu’il avait fait affaire avec M. Noiseux en 2002 et que, celui-ci a investi des fonds puisés dans son compte REER dans les bois précieux. Cet investissement c’est fait par truchement de la Coopérative des producteurs Boix Précieux Québec Forestales (la « Coopérative ») dont le président était M. Michel Maheux. M. Paradis a aussi témoigné que M. Maheux lui avait donné des enveloppes scellées à remettre aux investisseurs et que les enveloppes contenaient des avances sur les rendements de la Coopérative, équivalent à 40 à 50% du montant de l’investissement. Il a dit d’avoir remis au moins une de ces enveloppes à M. Noiseux. Le témoignage de M. Paradis n’a pas été contredit.
+[5] Ensuite, Mme Chantal Petit, vérificatrice à l’Agence du revenu du Canada (l’« ARC »), a témoigné qu’elle avait examiné les investissements de M. Noiseux dans la Coopérative en 2002. Sur la base de documents saisis lors des perquisitions de la Coopérative, de la résidence de son directeur-général et de M. Maheux, elle a pu confirmer l’investissement de M. Noiseux en trois volets, totalisant 54 500 $, par le truchement de son régime enregistré d’épargne retraite auto-géré. Toujours selon ces documents, 50% de chaque investissement fait par M. Noiseux lui a été remis. Ces éléments de son témoignage n’ont pas été contredits.
+[6] Finalement, Mme Jeannette Mercier, vérificatrice d’évitement fiscal à l’ARC, a témoigné que M. Noiseux a admis, lors d’un entretien téléphonique avec elle, avoir reçu de M. Paradis une ou plusieurs enveloppes avec l’argent qui correspondait à 50% des montants qu’il avait investis dans la Coopérative. Cette conversation a eu lieu le lendemain d’une rencontre entre M. Noiseux et l’enquêteur principal du dossier de la Coopérative, à laquelle Mme Mercier avait assisté.
+[7] Bien que le représentant de l’appelante ne se soit pas objecté à ce témoignage ou à la production de la transcription de cette conversation faite par Mme Mercier suite à l’échange, il faut se pencher sur l’admissibilité de ces éléments de preuve parce que ce sont des ouï-dire. Le ouï-dire consiste en l’introduction par un témoin d’une déclaration extrajudiciaire d’un tiers, en son absence, pour établir la véracité de la chose déclarée. Pourtant, selon l’article 2870 du Code civil du Québec, un tribunal peut admettre des ouï-dire s’il est impossible d’obtenir la comparution du déclarant et si la déclaration offre des garanties suffisamment sérieuses pour pouvoir s’y fier. L’article 2870 dispose :
+2870. La déclaration faite par une personne qui ne comparaît pas comme témoin, sur des faits au sujet desquels elle aurait pu légalement déposer, peut être admise à titre de témoignage, pourvu que, sur demande et après qu'avis en ait été donné à la partie adverse, le tribunal l'autorise.
+Celui-ci doit cependant s'assurer qu'il est impossible d'obtenir la comparution du déclarant comme témoin, ou déraisonnable de l'exiger, et que les circonstances entourant la déclaration donnent à celle-ci des garanties suffisamment sérieuses pour pouvoir s'y fier.
+Sont présumés présenter ces garanties, notamment, les documents établis dans le cours des activités d'une entreprise et les documents insérés dans un registre dont la tenue est exigée par la loi, de même que les déclarations spontanées et contemporaines de la survenance des faits.
+[8] L’intimée a avisé l’appelante avant l’audition de son intention de produire cette preuve, remplissant ainsi la condition du préavis prévue à l’article 2870. En l’espèce, je conclus que la déclaration est fiable puisque M. Noiseux l’a faite de façon volontaire à un agent de l’ARC, et la déclaration a été prise en note par l’agent immédiatement par la suite.
+[9] Mme Petit a aussi produit des extraits des systèmes informatiques de l’ARC -qui établissaient les montants de revenu inclus par M. Noiseux dans sa déclaration de revenu pour 2002, qu’il a transmis par voie électronique et qui établissaient également que M. Noiseux n’avait pas déclaré les revenus reçus de la Coopérative.
+[10] À la lumière de tous ces éléments de preuve, et surtout à la lumière de l’admission de M. Noiseux lui-même fait à Mme Mercier, je rejette la thèse de l’appelante portant que l’intimée ne s’est pas acquittée du fardeau de démontrer selon la prépondérance des preuves que M. Noiseux a reçu des revenus de 27 250 $ de la Coopérative en 2002. J’en conclus aussi que M. Noiseux, ancien professeur universitaire, devait savoir que les montants qui provenaient d’une entreprise commerciale étaient imposables, ou, en cas de doute, devait consulter un fiscaliste à ce sujet et que son omission de déclarer ces revenus était due à, au minimum, la négligence.
+[11] Par tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada ce 1er jour de mars 2016.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE :
+2016 CCI 51
+Nº DU DOSSIER DE LA COUR :
+2011-1792(IT)I
+INTITULÉ DE LA CAUSE :
+SUCCESSION DE GILLES NOISEUX ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 27 octobre 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 1er mars 2016
+COMPARUTIONS :
+Représentant de l'appelante :
+Sylvain Tessier
+Avocat de l'intimée :
+Me Grégoire Cadieux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

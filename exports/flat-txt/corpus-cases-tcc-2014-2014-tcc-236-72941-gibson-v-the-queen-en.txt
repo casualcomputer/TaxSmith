@@ -1,0 +1,141 @@
+Title: Gibson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72941/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-236-72941-gibson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-07-23
+
+# Gibson v. The Queen
+
+- Citation: 2014 TCC 236
+- Decision date: 2014-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5357, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gibson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-07-23
+Neutral citation
+2014 TCC 236
+File numbers
+2014-597(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-597(IT)I
+BETWEEN:
+JOAN A. GIBSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 14, 2014, at Edmonton, Alberta
+Before: The Honourable Justice Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Paige MacPherson
+JUDGMENT
+The appeal with respect to a determination made under the Income Tax Act concerning the disability tax credit is allowed, and the determination is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the appellant is entitled to the disability tax credit. The appellant is entitled to costs fixed in the amount of $100.
+Signed at Ottawa, Ontario, this 23rd day of July 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 236
+Date: 20140723
+Docket: 2014-597(IT)I
+BETWEEN:
+JOAN A. GIBSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Background [1] Joan Gibson is a retired psychologist who was diagnosed many years ago with severe chronic fatigue syndrome. In 2012, Ms. Gibson made an application for the disability tax credit under the Income Tax Act, which was denied by notice of determination dated June 14, 2013. The appeal relates to this determination.
+[2] Ms. Gibson represented herself at the hearing and was the only witness. It was clear at the hearing that Ms. Gibson’s disability quite severely hampered her ability to conduct this appeal.
+[3] Counsel for the Crown dealt with this situation commendably. Instead of conducting a lengthy cross-examination of Ms. Gibson, counsel relied on the doctors’ certificates provided to the Canada Revenue Agency (CRA). There were four such documents.
+(a) A certificate dated February 27, 2012 by Ms. Gibson’s family doctor, Dr. Nicholas J. Morison (Exhibit R-1). This certificate did not support Ms. Gibson’s position and was not relied on by either party. It will not be discussed further.
+(b) A certificate dated March 18, 2013 from a psychiatrist, Dr. Flor-Henry (Exhibit R-2).
+(c) A form by Dr. Flor-Henry dated June 4, 2013, which was requested by the CRA (Exhibit R-3).
+(d) A modified version of the above form by Dr. Flor-Henry dated October 29, 2013 (Exhibit R-4).
+II. Legislative requirements [4] In order to claim the disability tax credit, a taxpayer must have:
+(a) a severe and prolonged impairment in physical or mental functions,
+(b) the impairment must result in a “marked” or “significant” restriction in one or more “basic activities of daily life,” as those terms are described in the legislation, and
+(c) a medical practitioner must provide a positive certificate of the impairment in the form prescribed (s. 118.3(1)(a), (a.1) and (a.2) of the Act).
+[5] I would make two observations about the certificate requirement.
+[6] First, a positive certificate by a medical practitioner is not sufficient to satisfy the legislative requirements. If the evidence does not support the doctor’s opinion, the appeal should be dismissed.
+[7] Second, it is not necessarily fatal if a taxpayer did not provide a positive certificate. The Court can take into account viva voce evidence of a medical practitioner, but the Court cannot substitute its own judgment for that of a medical practitioner (The Queen v Buchanan, 2002 FCA 231).
+III. Discussion [8] The Crown does not take issue with the certificate requirement in this case. The only issue raised in the Reply is whether Ms. Gibson actually has the impairments that Dr. Flor-Henry certified.
+[9] I will start with Ms. Gibson’s testimony. Ms. Gibson testified as to having a great many symptoms, including that her brain is often foggy. She also testified that her fatigue is so profound that she is in bed or in a state of inertia most of the time. However, she also testified that the level of severity of her symptoms does fluctuate from time to time.
+[10] Overall, I found that Ms. Gibson’s testimony was not detailed enough to give a good picture of the disability. In particular, I cannot determine how often Ms. Gibson has good periods and how well she functions in these periods. Unfortunately, the impression that I had was that Ms. Gibson did not have the stamina to properly present sufficient detail of her circumstances.
+[11] Counsel for the Crown suggested that the best evidence of Ms. Gibson’s disability is the information provided by the doctors. I agree with this.
+[12] I turn now to Dr. Flor-Henry’s certificate, which was entered into evidence as Exhibit R-2. Dr. Flor-Henry appears to be highly qualified as a medical practitioner knowledgeable about chronic fatigue syndrome. He is a Clinical Professor at the University of Alberta and was a member of a panel that determined a clinical case definition of chronic fatigue syndrome (Attachment to notice of appeal).
+[13] The certificate is a prescribed form requiring that the doctor state:
+(a) whether the patient is markedly restricted in one basic activity of daily living (as defined) and whether this impairment is present all or substantially all of the time, or
+(b) whether the patient is significantly restricted in at least two basic activities of daily living (as defined), and whether these impairments are present all or substantially all of the time and taken together are tantamount to a marked restriction in one basic activity of daily living.
+[14] The certificate by Dr. Flor-Henry gave positive responses to both these categories.
+A. Marked impairment [15] With respect to (a) above, a marked impairment in one basic activity, Dr. Flor-Henry identified the impairment as “mental functions necessary for everyday life.”
+[16] Dr. Flor-Henry also identified “walking” as a marked impairment but he neglected to check the box as to whether this restriction was present all or substantially all of the time, as required by the legislation. This may have been inadvertent and if it were necessary I would give Ms. Gibson time to have this question answered by Dr. Flor-Henry. This type of follow up was specifically sanctioned in the Buchanan case.
+B. Significant impairment [17] With respect to (b) above, significant impairments in at least two basic activities of daily living, Dr. Flor-Henry certified that Ms. Gibson has significant impairments in feeding, walking, elimination, walking and mental functions necessary for everyday life.
+[18] Although Dr. Flor-Henry’s certificate was a positive certificate for purposes of the legislation, it failed to provide details as to the effects of the impairment. This is required information in the prescribed form and would assist the CRA in verifying that the legislative requirements were satisfied.
+[19] Since these details were not provided, the CRA requested that Dr. Flor-Henry fill out another check-the-box form. The evidence from Ms. Gibson was that Dr. Flor-Henry was not happy that the CRA wanted more information. In any event, the answers given by Dr. Flor-Henry in the second form are not helpful to Ms. Gibson (Exhibit R-3). In general, they paint a picture of someone who is functioning well except during “periods of exacerbation or in stressful situations.” This seems to suggest that Ms. Gibson is not severely impaired all or substantially all of the time, as required.
+[20] This is not the end of the matter, however, because Dr. Flor-Henry subsequently filed an amended form (Exhibit R-4). In it, Dr. Flor-Henry changed his answers to two questions and indicated that Ms. Gibson had severe impairment all or substantially all of the time with respect to judgment and ability to plan daily activities.
+[21] The Crown suggests that impairments only with respect to judgment and planning daily activities are not sufficient impairments to qualify for the disability tax credit.
+[22] As I understand it, the Crown relies on the definition in s. 118.4(1)(c.1) of the Act which reads:
+118.4 (1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+[…]
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+[23] The Crown suggests that Ms. Gibson’s disability does not qualify because she has only two of the three disabilities listed in clause (c.1)(ii) above. It is submitted that all three impairments described in (c.1)(ii) must be satisfied. Ms. Gibson is capable of problem-solving, and this is fatal to her claim, according to the Crown.
+[24] I disagree with this view. The phrase “taken together” in clause (c.1)(ii) implies that one look at all three mental functions together and decide whether the combination results in a severe impairment. This is the interpretation that makes the most sense.
+[25] This is sufficient to dispose of this appeal but I would also note that the CRA forms have their shortcomings and it is appropriate to take this into account. For example, the prescribed form is in a check-the-box format. This may be a practical way for the CRA to obtain information, but it does not give a very accurate picture in some cases. Taxpayers should not be denied tax relief simply because the questions in the prescribed form do not neatly fit the circumstances.
+[26] In addition, I have a concern that physicians generally would not have first hand knowledge of a patient’s daily activities. The form, however, requires the doctor to give an opinion on this if the impairment is with respect to mental functions. Since this is the legislative scheme that Parliament has put in place, a physician may have to rely to a certain extent on information provided by the patient. I would imagine that some physicians would be reluctant to give an opinion on this basis, and this is something that should be taken into account.
+[27] In this case, a highly-qualified medical specialist stated an opinion that Ms. Gibson has a disability that severely impacts her ability to perform mental functions necessary for every day life. The disability is present all or substantially all of the time. In my view, the opinions expressed in the forms sent by Dr. Flor-Henry adequately establish that Ms. Gibson satisfies the legislative requirements for the disability tax credit.
+[28] I would also observe that:
+(a) Ms. Gibson has been diagnosed with a severe form of chronic fatigue, which suggests that her symptoms are particularly dehabilitating;
+(b) Ms. Gibson did not call Dr. Flor-Henry to testify, but this should generally not be necessary unless the medical practitioner has not given a positive certificate;
+(c) the severity of Ms. Gibson’s disability was evident at the hearing; and
+(d) the disability tax credit provisions should be interpreted in a compassionate manner.
+[29] For these reasons, the appeal will be allowed.
+Signed at Ottawa, Ontario, this 23rd day of July 2014.
+“J.M. Woods”
+Woods J.
+CITATION:
+2014 TCC 236
+COURT FILE NO.:
+2014-597(IT)I
+STYLE OF CAUSE:
+JOAN A. GIBSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Woods
+DATE OF JUDGMENT:
+July 23, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Paige MacPherson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

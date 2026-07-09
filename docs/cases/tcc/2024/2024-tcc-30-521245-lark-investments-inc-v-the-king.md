@@ -1,0 +1,292 @@
+---
+title: "Lark Investments Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521245/index.do"
+last_modified: "2024-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 30"
+citation2: ""
+neutral_citation: "2024 TCC 30"
+decision_date: "2024-03-28"
+language: "en"
+item_id: "521245"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5747
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:42:29.945000+00:00"
+cases_cited_count: 27
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bbac456d9368079dfa9864927867dc06a9da013eb6c33c2d795863d7e468a362"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lark Investments Inc. v. The King
+
+- Citation: 2024 TCC 30
+- Decision date: 2024-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5747, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lark Investments Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-03-28
+Neutral citation
+2024 TCC 30
+File numbers
+2021-2037(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-2037(IT)G
+BETWEEN:
+LARK INVESTMENTS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on October 30, 2023, at Montreal, Québec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Jonathan Lafrance
+Counsel for the Respondent:
+Christopher M. Bartlett
+ORDER
+UPON reading the Notice of Motion filed by the Appellant on August 22, 2023, and other documentary materials, pursuant to sections 53 and 65 of the Tax Court of Canada Rules (General Procedure) seeking an Order:
+(i) Striking out, without leave to amend, subparagraphs 67 d), e), f), g), h), i), j), k), l) and m) of the Respondent’s Further Amended Reply filed on December 2, 2022;
+(ii) Striking out the Further Amended Reply filed on December 2, 2022 and allowing the appeal; and
+(iii) Awarding costs of this motion.
+AND UPON reading the parties’ written submissions and hearing their representations;
+AND in accordance with the attached reasons;
+IT IS ORDERED THAT:
+Subparagraphs 67d) to m) of the Further Amended Reply are struck with leave to amend;
+The Respondent shall have until May 1, 2024 to serve and file an amended Further Amended Reply;
+An answer, if any, shall be filed and served on or before June 3, 2024;
+The Appellant is entitled to costs of this motion in any event of the cause. The parties shall have 30 days from the date of this Order to reach an agreement on costs for this Motion and to so advise the Court, failing which the Appellant shall have a further 20 days to serve and file written submissions on costs and the Respondent shall have a further 20 days to serve and file a written response. Any such submissions shall not exceed eight (8) pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs for this Motion shall be awarded to the Appellant in accordance with the Tariff.
+Signed at Ottawa, Canada, this 28th day of March 2024.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Citation: 2024 TCC 30
+Date: 20240328
+Docket: 2021-2037(IT)G
+BETWEEN:
+LARK INVESTMENTS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+St-Hilaire J.
+I. Introduction [1] On August 22, 2023, Lark Investments Inc. (Lark or the Appellant) filed a Notice of Motion before this Court pursuant to sections 53 and 65 of the Tax Court of Canada Rules (General Procedure) (Rules) seeking an order:
+(i) Striking out, without leave to amend, subparagraphs 67 d), e), f), g), h), i), j), k), l) and m) of the Respondent’s Further Amended Reply filed on December 2, 2022;
+(ii) Striking out the Further Amended Reply filed on December 2, 2022 and allowing the appeal; and
+(iii) Awarding costs of this motion.
+[2] The Appellant set out the grounds in the Notice of Motion as follows:
+(i) the alleged abuse is dependent on control by Canadian residents, which is totally inconsistent with the unchallenged and uncontradicted facts admitted by the Respondent, and
+(ii) the rationale for the alleged abuse is based on completely different transactions carried out by different taxpayers, unrelated to the Appellant.
+[3] For the reasons below, the Appellant’s Motion is allowed in part such that subparagraphs 67d) to m) of the Further Amended Reply are struck but with leave to amend. The Respondent’s pleadings are deficient but they are not incurable. The Respondent shall have until May 1, 2024 to file and serve an amended Further Amended Reply. The Appellant shall have until June 3, 2024 to file and serve an answer, if any, to the newly amended Further Amended Reply. The Appellant is entitled to costs of this motion in any event of the cause.
+II. Background Facts and Issue in this Appeal [4] The basic facts concerning Lark’s shareholders and the transactions that led to the reassessment do not appear to be disputed.
+[5] Lark is a holding corporation that has continuously been resident in Canada since its incorporation in 2013 under the Business Corporations Act of Ontario (RSO 1990 c B.16). Prior to July 24, 2015, Sajjad Ebrahim was its sole shareholder and Lark was a Canadian-controlled private corporation (CCPC). In 2015, Lark issued preference shares with voting rights to Mr. Ebrahim’s non-resident children. Shares were not issued to Mr. Ebrahim’s resident son.
+[6] After the corporate reorganization, the non-resident children held 50.89% of the voting rights such that Lark no longer met the statutory definition of a CCPC under the Income Tax Act (RSC 1985, c 1 (5th supp)) (ITA).
+[7] On July 31, 2015, Lark disposed of investment property, realized a capital gain of $118,810,035 and declared a taxable capital gain of $59,405,018 for its 2016 taxation year. On October 15, 2015, Lark declared a dividend of $53,943,700 on its common shares and elected that it be treated as a capital dividend pursuant to subsection 83(2) of the ITA.
+[8] In reassessing the Appellant for its taxation year ended on June 30, 2016, the Minister of National Revenue (Minister) imposed tax under section 123.3 and denied the general rate reduction under section 123.4 of the ITA. This resulted in an increase in tax of almost 13 million dollars.
+[9] It bears reminding that a CCPC is subject to a refundable tax on its investment income under section 123.3 of the ITA and is not entitled to the general rate reduction under section 123.4 of the ITA. Conversely, a non-CCPC is not subject to tax under 123.3 and is entitled to the general rate reduction under section 123.4. The non-payment of tax under section 123.3 together with the rate reduction under section 123.4 form the alleged “tax benefit” that is the subject of this appeal.
+[10] Taking the position that there was a misuse of sections 123.3 and 123.4 or an abuse of the ITA read as a whole, the Minister applied the general anti-avoidance rule (GAAR) in section 245 of the ITA to deny the “tax benefit”. Hence, defined broadly, the issue in this appeal is whether GAAR applies to the transactions described above.
+III. Procedural History [11] In light of the parties’ arguments in this motion to strike, it is useful to provide the procedural history of this matter to date. The procedural steps can be summarized as follows:
+(i) The Appellant filed its Notice of Appeal on August 16, 2021;
+(ii) The Respondent filed its Reply on November 19, 2021;
+(iii) The Responded filed an Amended Reply on February 14, 2022;
+(iv) The parties conducted examinations for discovery on June 9 and 10, 2022;
+(v) During examinations for discovery, the Respondent’s counsel objected to its nominee providing the GAAR Committee documents pertaining to a case involving a factual background that was not dissimilar to that of Lark and which played a role in the decision to apply GAAR without the GAAR Committee performing an analysis in the Lark matter;
+(vi) The Respondent filed a Further Amended Reply on December 2, 2022 (this pleading is the subject of this motion);
+(vii) After the Appellant filed a motion to compel the Respondent to provide the GAAR Committee documents on December 8, 2022, but before it was heard, the Respondent produced four GAAR Committee documents on January 27, 2023;
+(viii) On April 17, 2023, the Appellant conducted further examinations for discovery of the auditor; and
+(ix) On August 22, 2023, the Appellant filed this motion to strike.
+IV. Position of the Parties on the Motion to Strike A. The Appellant’s Position
+[12] The Appellant is seeking an order striking subparagraphs 67 d) to m) (impugned paragraphs, reproduced in Schedule A to these reasons) of the Further Amended Reply without leave to amend. In addition, the Appellant submits that as striking the impugned paragraphs results in a reply that does not comply with section 49 of the Rules, the only appropriate remedy is to strike the Further Amended Reply in its entirety and allow the appeal.
+[13] In the Appellant’s view, the Respondent’s rationale in support of the application of GAAR, control of Lark by Canadian residents, is completely inconsistent with the unchallenged facts, mainly that the majority voting power is held by non-residents (Notice of Motion at paras 22-23). That, according to the Appellant, is a sufficient basis to strike the impugned paragraphs.
+[14] Further, the Appellant submits that the decision to apply GAAR in this matter was made without a referral to the GAAR Committee and the rationale for the application of GAAR to the transactions undertaken by Lark is based on completely different transactions involving a different taxpayer. It is not disputed that the GAAR Committee documents disclosed by the Respondent after the first round of examinations for discovery reveal that the analysis focussed on a transaction that did not involve the issuance of shares to non-residents but rather, focussed on the alleged abuse that resulted from the loss of CCPC status through a corporate migration.
+[15] The Appellant asserts that the rationale in support of the application of GAAR, in the case that is the subject of the GAAR Committee documents, is simply not applicable to the circumstances of this case (see Memorandum G04704, Motion Record at p 223). The Appellant submits that allowing the appeal to proceed, where the Respondent’s position is in no conceivable manner connected to the transaction at issue will prejudice the fair hearing of the appeal and constitutes an abuse of process (Notice of Motion at para 41).
+[16] The Appellant did not make a request under Rule 8 for leave of the Court to bring its motion to strike. However, in opposing the Appellant’s motion to strike, the Respondent referenced section 8 of the Rules, a rule often referred to as the fresh step rule. In addressing the Respondent’s arguments on Rule 8 at the hearing, the Appellant submitted that the GAAR Committee documents disclosed on January 27, 2023 and the further examinations for discovery, the need for which resulted from that disclosure and which took place on April 17, 2023, underlie its motion to strike. Therefore, the motion could not have been brought earlier. In addition, the Appellant argued that there were other exceptions to Rule 8 that were applicable to the circumstances of this case.
+[17] And further, based on a recent decision of this Court in Gilchrist Properties Ltd. v The King (2023 TCC 153), the Appellant took the position that the Court can hear the motion to strike without it having to obtain leave prior to the hearing.
+B. The Respondent’s Position
+[18] The Respondent submits that the Appellant cannot bring this motion without leave of the Court pursuant to section 8 of the Rules. The Respondent states that the only amendment to the impugned paragraphs since the initial Reply was filed was to strike the word “actually” and replace it with “directly or indirectly” in paragraph 67g). The Respondent submits that this motion was brought after the expiry of a reasonable time after the Appellant knew or ought to have known of the alleged irregularity.
+[19] The Respondent further observes that the Appellant conducted examinations for discovery after the initial Reply was filed and conducted further examinations for discovery after the Further Amended Reply was filed. Hence, since the Appellant has taken further steps in the proceeding after obtaining knowledge of the irregularity, it cannot bring this motion to strike without leave of the Court.
+[20] Regarding the merits of the motion, the Respondent submits that the Appellant has not met the legal threshold required to strike part or all of a pleading pursuant to subsection 53(1) of the Rules in that it is not plain and obvious that the Reply fails to state a reasonable basis for concluding that the reassessment is correct.
+[21] The Respondent asserts that the grounds in the Further Amended Reply are consistent with the facts set out in the Reply. In support of this position, the Respondent refers to paragraph 67k)i) of the Further Amended Reply which states that “[t]he Transaction may reasonably be considered to have resulted in: i) a misuse of ss. 125(7), 123.3 and 123.4 of the ITA by frustrating and defeating the rationale for these provisions and by allowing for a result which these provisions were not intended”. The Respondent further comments that their nominee confirmed that the non-resident children had de jure control but that at no point, did the Respondent admit that they had de facto control of Lark (Respondent’s written submissions at paras 39 and 40).
+[22] With respect to the Appellant’s submissions on the Minister’s decision to apply GAAR to this case, the Respondent submits that the process by which the reassessment was established is not relevant to its correctness. Further, the Respondent asserts that there is no legislative requirement that the GAAR Committee be consulted before GAAR is applied to a particular situation.
+V. Analysis A. Law Applicable to Striking Pleadings
+[23] As noted earlier, the Appellant seeks to have the impugned paragraphs struck pursuant to section 53 of the Rules, a provision which specifically addresses the striking of pleadings. Subsection 53(1) reads as follows:
+53 (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document:
+(a) peut compromettre ou retarder l’instruction équitable de l’appel;
+(b) est scandaleux, frivole ou vexatoire;
+(c) constitue un recours abusif à la Cour;
+(d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[24] Before reviewing the case law interpreting section 53 of the Rules, it is worth repeating that the purpose of pleadings is “to define the issues in dispute between the parties for the purposes of production, discovery and trial.” (Hillcore Financial Corporation v The King, 2023 TCC 71 at para 12, referring to Zelinski v R, [2002] DTC 1204, [2002] 1 CTC 2422 at para 4 [Zelinski], aff’d 2002 FCA 330; Beima v The Queen, 2016 FCA 205 at para 17 and Husky Oil Operations Limited v The Queen, 2019 TCC 136 at para 11.) The Appellant argues that in GAAR cases, where the Respondent bears the onus on some elements of the test, there should be increased scrutiny on how the Respondent has defined and addressed the issues. Counsel for the Appellant stated “the reply should clearly, cogently, precisely lay out what the Crown’s position is” (Transcript of the hearing at p 47 [Transcript]). And, in their view, failure to do so results in prejudice to the Appellant.
+[25] The courts have consistently asserted that the test for striking a pleading is a stringent one. In the oft-quoted decision of this Court in Sentinel Hill Productions (1999) Corporation v The Queen, (2007 TCC 742 [Sentinel]), Chief Justice Bowman (as he then was) summarized the well-established principles applicable to a motion to strike under section 53 of the Rules as follows:
+[4] ... There are many cases in which the matter has been considered both in this court and the Federal Court of Appeal. It is not necessary to quote from them all as the principles are well established.
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+[26] In Hillcore, supra, Justice Lafleur provides the following very useful summary of the relevant case law regarding the principles applicable to the determination of a motion to strike pleadings or part thereof:
+[24] The test to be applied for the striking out of pleadings or parts of pleadings is whether it is plain and obvious that it discloses no reasonable claim (Main Rehabilitation Co. v. Canada, 2004 FCA 403, at para 3).
+[25] In the context of a motion to strike a reply in an income tax appeal, the motion will be granted only if it is plain and obvious, assuming the facts as pleaded in the reply are true, that the reply fails to state a reasonable basis for concluding that the reassessment under appeal is correct (Canadian Imperial Bank of Commerce v. R, 2013 FCA 122 [CIBC, FCA], at para 7).
+[26] More recently, the Federal Court of Appeal in Ereiser v. Canada, 2013 FCA 20, reviewed those principles:
+[17] There is no dispute as to the test for striking pleadings. It was recently restated by Chief Justice McLachlin, writing for the Supreme Court of Canada in R. v. Imperial Tobacco Canada Ltd., 2011 SCC 42, [2011] 3 S.C.R. 45 at paragraph 17:
+... A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action: Odhavji Estate v. Woodhouse, 2003 SCC 69, [2003] 3 S.C.R. 263, at para. 15; Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, at p. 980. Another way of putting the test is that the claim has no reasonable prospect of success. Where a reasonable prospect of success exists, the matter should be allowed to proceed to trial: see, generally, Syl Apps Secure Treatment Centre v. B.D., 2007 SCC 38, [2007] 3 S.C.R. 83; Odhavji Estate; Hunt; Attorney General of Canada v. Inuit Tapirisat of Canada, [1980] 2 S.C.R. 735.
+…
+[35] The Court may grant all necessary amendment or relief to secure the just determination of the real matters in dispute. To strike a pleading without leave to amend, the defect must be incurable by amendment (see Simon, at para 8). Furthermore, the Federal Court determined that for a claim to be struck without leave to amend, there must not be a “scintilla” of a legitimate cause for action (Riabko v. R, [1999] FCJ No 1289, 173 FTR 239 [Riabko], at para 8).
+[36] When an appellant makes a motion to strike a reply, it has the burden of showing that “it would be impossible for the Respondent to amend to support the reassessment” (see Mont-Bruno C. C. Inc. v. R, 2018 TCC 105, at para 29).
+[37] This burden is a heavy one. As stated by this Court in Zelinski, “[a]mendments to pleadings should generally be permitted, so long as that can be done without causing prejudice to the opposing party that cannot be compensated by an award of costs or other terms, as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties” (at para 4).
+[27] To this summary, I would add the Federal Court of Appeal’s recent decision in Ebert v The King (2024 FCA 27 at para 6) wherein the Court reiterates that “the threshold for striking out pleadings is whether it is ‘plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action’”.
+[28] It should be clear from the above jurisprudential pronouncements that to strike a pleading or part thereof, it must be plain and obvious that there is no reasonable cause of action, that the action has no hope of succeeding, that it has not a scintilla of a legitimate cause of action, that is has no reasonable basis for concluding that the reassessment is correct. To strike a pleading without leave to amend, the defect must be incurable by amendment. The amendment should be allowed if it can be done without causing prejudice that cannot be compensated by an award of costs. The burden on the party making the motion is a heavy one. These are the principles I will keep in mind in considering the merits of this motion.
+B. Striking the Impugned Paragraphs
+[29] The Appellant acknowledges that the threshold for striking a pleading is stringent. The Appellant argues that they meet this heavy burden, including the burden to justify striking out the impugned paragraphs without leave to amend and further, striking out the entire Further Amended Reply and allowing the appeal. I do not agree.
+[30] I hasten to add that the Respondent’s pleading is poor in that it requires a certain amount of reading between the lines so to speak but I find that the deficiencies are not incurable.
+[31] It is useful at this point to review some of the information that was revealed by the GAAR Committee documents. It appears that at some point during the audit stage, the auditor proposed to assess Lark as if it was a CCPC on the basis that the issuance of preference shares did not in fact lead to control by the non-residents as defined in subsection 125(7) of the ITA and further, that the father, Sajjad Ebrahim, a resident of Canada, maintained de facto control of Lark. This was referred to by the Canada Revenue Agency (CRA) as the “technical position” (see Memo dated January 26, 2021, from Ching Yu to Dominic Laroche, Motion Record at pp 187-192 and in particular at p 192). The auditor also wrote that should it be determined that the issuance of the preferred shares resulted in control of Lark by non-residents, it was their position that GAAR applied (see Motion Record at p 192).
+[32] In a subsequent memo, the Tax Avoidance Division states that it continues to support the application of GAAR but recommends not pursuing the application of the technical position, later adding more forcefully that the GAAR position should me maintained as the only assessing position (Memo dated February 3, 2021 from Laurent Richer to Ching Yu, Motion Record at p 207). This, in the Tax Avoidance Division’s view, would resolve the issue created by the assumption that an acquisition of control did not occur for the purposes of the technical position and an assumption that it did occur for the purposes of the GAAR position, positions that are difficult to reconcile (Motion Record at p 210). In reassessing Lark, the Minister applied GAAR.
+[33] The Appellant points out that during the second round of examinations for discovery, the auditor confirmed that Lark was controlled by a Canadian resident before the issuance of the preferred shares but after the issuance of the preferred shares, it was not.
+[34] The Appellant submits that the above-referenced documents show that the Minister had abandoned the technical position in favour of applying GAAR but that the Respondent is now, at this late stage of the proceeding, arguing that the abuse comes from losing de jure control but maintaining de facto control in Canada (Respondent’s Written Submissions at para 37; T p 35). I note that the Respondent admitted, at paragraph 16 of the Further Amended Reply, that the Minister did not pursue the position that Lark was a CCPC under subsection 125(7) of the ITA.
+[35] In the Appellant’s view, this position is flawed, not only because this argument was set aside at the audit stage but also because it engages sections 256(5.1) and 256(5.11) of the ITA and the Further Amended Reply is silent on both counts.
+[36] The Appellant argues that the CRA set aside the de facto control argument and analysis and now wants to argue de facto control, In addition, counsel for the Appellant submitted that he had no grounds to cross-examine on de facto control once the technical position was dropped. At the hearing, counsel for the Appellant stated the following (Transcript at pp 41 and 108-109):
+… de jure control was with a non-resident, and there's absolutely no focus on de facto control. The de facto control analysis and the factual matrix having to do with de facto control is set aside, not in passing, it's -- the decision is made at headquarters. The decision is made at headquarters.
+We are not pursuing the de facto control element. We are not proving de facto control. It's a decision that is made by headquarters, now, five days before the hearing of the motion, the minister's contention is, you know what? It's been -- it's always been the case. We wanted to argue de facto control all along.
+They ignored the fact that it was set aside by headquarters. They ignored the fact that 256(5.1) was not mentioned at paragraph 66 of their reply. They ignored the fact that 256(5.1) is not part of the object, spirit, and purpose that the minister has to disclose and prove. They amend the reply twice. They never disclose it. Five days before the motion, they announce that they're going to argue de facto control. They're not seeking an amendment.
+[…]
+And the technical position -- there was no central issue. De facto control was not the central issue of the technical position. It was the sole issue. So when I cross-examined the auditor and I asked whether the technical position is dropped, and she says, “Yes, the technical position is dropped,” I have no ground to cross-examine on de facto control. I have no ground to explore influence. I have no ground to explore the exceptions to de facto control in 256(5.1). I am simply not allowed to question a CRA nominee on an issue that is no longer debated.
+[37] The Appellant argues that if the Respondent wants to change the basis of its reassessment, which it is entitled to do under subsection 152(9) of the ITA, they would have to make a request to amend their reply. That is not what the Respondent has done. The Appellant cites Aeronautic Development Corporation v The Queen (2017 TCC 39 [Aeronautic]) in support of its position. I note that in Aeronautic, the Respondent advised the Appellant that it intended to pursue a new argument two weeks before the hearing. Justice Hogan refused to consider the new argument because the Respondent had failed to amend her Reply in accordance with the rules of procedure (Aeronautic at para 32). In the present appeal, the proceeding is not yet at the hearing stage and further, in responding to the Appellant’s motion, the Respondent is seeking leave to amend their reply should the Court find that the impugned paragraphs ought to be struck.
+[38] In Polarsat v The King (2023 FCA 247 at para 8 [Polarsat]), the Federal Court of Appeal agreed with the pronouncements of this Court and stated that subsection 152(9) “allows the respondent, subject to certain limitations, to advance an alternative argument in support of an assessment ‘[a]t any time after the normal reassessment period.’” The Federal Court of Appeal also agreed that the Respondent “should not be precluded from adding an alternative argument in a reply because some officers of the CRA, no matter how important they are, have decided not to do so in the pre-trial steps” (Polarsat at para 10).
+[39] The Respondent’s Further Amended Reply is clear that after the issuance of the preference shares, Lark was no longer a CCPC. Paragraph 55 a) of the Further Amended Reply reads as follows: “[t]he Appellant was a private corporation, within the meaning of s. 89(1) of the ITA, but it was no longer a CCPC.” Hence, it cannot be said that the Respondent is now reviving the argument that Lark is a CCPC. What is not explicit in the Further Amended Reply is exactly what the Respondent is arguing, which according to their submissions at the hearing and assuming I have understood them correctly, is as follows: although Lark is no longer a CCPC because the non-resident children have de jure control, there is abuse because de facto control is maintained in Canada. And in the Appellant’s view, the failure to disclose this position is an abuse of process.
+[40] The Appellant further argues that the Minister’s basis for the reassessment is grounded in a decision to apply the analysis that the GAAR Committee applied in another case they described as “not dissimilar” to the present case. In the Appellant’s view, the rationale is completely disconnected from the present case and this represents the absence of a proper abuse analysis applicable to Lark justifying striking the pleadings (Transcript at p 13).
+[41] Clearly, the memoranda sent to the GAAR Committee regarding the “non-dissimilar” case addressed alleged abuse resulting from the loss of CCPC status through a continuance. And clearly, those are not Lark’s circumstances (Memorandum G04704 dated August 21, 2020, Motion Record at p 223; Memorandum dated May 19, 2020, Motion Record at p 230). However, I think it is fair to say the GAAR Committee comments in those memoranda spoke to the specific circumstances of the non-dissimilar case such that, as asserted by the Respondent, it cannot be said that the Minister might not take a different position regarding the application of GAAR to other continuances or to other cases where there is a change in CCPC status because non-residents acquire control of a corporation.
+[42] And further, I am of the view that it was open to the Minister to assert that while there is no continuance in the Appellant’s case, there was a change in CCPC status and it was done to avoid the application of sections 123.3 and 123.4 and that resulted in the alleged abuse. That is a question for the trial judge but nonetheless it is a position that the Respondent is entitled to take. But the Respondent’s position must be clearly set out in the Reply.
+[43] Although the Appellant acknowledged that the GAAR Committee is not a statutory committee but rather an advisory committee, the Appellant appears to complain that there was no GAAR analysis conducted by the GAAR Committee specifically for Lark’s case. Counsel submitted that the analysis in the other case was arguably decisive in the decision to reassess Lark and it reveals that there was no proper abuse analysis applicable to the Appellant.
+[44] Courts have consistently held that the issue in an appeal before this Court is the validity of the assessment and not the process by which it was established and further, the conduct of CRA officials is irrelevant to the determination of the correctness of an assessment (see Main Rehabilitation Co. Ltd. v The Queen, 2004 FCA 403 at para 8; Ereiser v The Queen, 2013 FCA 20 at para 31).
+[45] Regarding more specifically the issue of referral to the GAAR Committee, in Collins & Aikman Canada Inc. v The Queen (2009 TCC 299 at para 33), Justice Boyle commented that he accorded “little or no weight, relevance or significance to the fact that the Crown did not go back to the GAAR Committee on the most important aspect of the determinations, assessments and appeals”. He offered his musings on the effect of the government’s failure to communicate with the GAAR Committee but asserted that this did not in any way affect his analysis of the issues in the case. I adopt Justice Boyle’s view that there is no requirement that the Minister consult the GAAR Committee. I further find that the fact that the Minister decided to apply GAAR because it found the circumstances of Lark to be similar, or not dissimilar, to another case in which a GAAR analysis was conducted is irrelevant to whether the Minister was justified in applying GAAR in reassessing Lark.
+[46] With this background in mind, the Appellant made submissions on each of the grounds justifying the striking of pleadings pursuant to paragraphs 53(1)(a), (b) and (c) of the Rules.
+[47] Firstly, relying on paragraph 53(1)(a) of the Rules, the Appellant argued that the pleading may delay the fair hearing of this matter because the abuse analysis is irrelevant to the facts of this case. The Appellant added that the failure to refer to de facto control may prejudice the fair hearing of the appeal. Counsel for the Appellant stated (Transcript at p 53):
+First is -- well, if the Crown doesn’t argue what's in its reply, because it's unrelated, what are they going to argue at trial?
+Well, we don’t know, and we might only know during trial. That may lead to an adjournment, that may lead us to -- that may lead to the need to bring in counter-evidence that may lead to the need for additional witnesses, and additional representations. And that shouldn't be the case.
+Why? Because the issues and how we deal with the issues at trial should have -- it should all have been done as part of the pre-trial process.
+And when we looked through the prism of this new element of de facto control, which is buried in paragraph 40 of the written reps, well, now that all the pre-trial steps have been done, there is no doubt that it's going to delay the fair hearing of the appeal.
+[48] It has been suggested that a pleading may delay the fair hearing of an appeal if it is plain and obvious that the pleading is irrelevant to the issues to be resolved (see Hillcore, supra at para 27). I find that it cannot be said that the reasons relied on in the Further Amended Reply are irrelevant to the issues. Having said this, the pleading as is fails to clearly articulate the Respondent’s position. The Respondent submits that their position is that the transaction with the surrounding facts is what resulted in the misuse of the provisions, given their object, spirit and purpose (Transcript at p 96). The Respondent acknowledged that the pleading does not explicitly refer to de facto control and added that if that is unclear to the Appellant, it is easily curable.
+[49] Secondly, the Appellant submits that a pleading is scandalous, frivolous or vexatious pursuant to paragraph 53(1)(b) of the Rules when “it was so deficient that the defendant could not have known how to answer the claim. As well the Court would be unable to regulate or manage the proceeding” (Hillcore, supra at para 29, referring to Simon v Canada, 2011 FCA 6 at para 9). The Appellant submits it does not know how to answer the Respondent’s claim because the rationale does not apply to Lark’s situation. I find that the Further Amended Reply, and more specifically the impugned paragraphs, are not scandalous, frivolous or vexatious. The pleading lacks specificity on the Respondent’s position but I am persuaded that this is not what paragraph 53(1)(b) was meant to address. In Sentinel, supra at paragraph 11, Chief Justice Bowman, as he then was, wrote as follows:
+However much jurisprudence may surround the words “scandalous, frivolous or vexatious, or abuse of the process of the Court”, they are nonetheless strong, emotionally charged and derogatory expressions denoting pleading that is patently and flagrantly without merit. Their application should be reserved for the plainest and most egregiously senseless assertions.
+Nothing in the Respondent’s Further Amended Reply rises to the level of “plainest and most egregiously senseless assertions.”
+[50] Thirdly, relying on paragraph 53(1)(c) of the Rules, the Appellant submits that “the lack of transparency, the absence of full and frank disclosure, … and seeing this discrepancy with … the admissions made by the auditor, it is simply an abuse of process for the Crown not to disclose its position. And in the context of a GAAR appeal, I think the abuse is more blatant” (Transcript at p 55). The Appellant relied on this Court’s findings in Adboss, Ltd. v The King (2022 TCC 125 at para 37 [Adboss TCC], aff’d 2023 FCA 201 [Adboss FCA]) wherein Justice Lafleur stated as follows:
+[37] Hence, because the Appellant will have to speculate as to the facts underlying the conclusion of mixed fact and law of the Minister that the “controlling mind and management” of Lowfroc was in Canada, and because the Appellant therefore cannot be properly prepared for and proceed with discoveries, this will prejudice or delay the fair prosecution of the appeal and constitutes an abuse of the Court’s process.
+[51] In confirming this Court’s decision in Adboss TCC, the Federal Court of Appeal referred to its recent decision in Canada v Preston (2023 FCA 178 [Preston]) and reiterated its view that, in certain circumstances, deficient pleadings may be allowed to stand, including when letting the deficient pleadings stand better serves the trial process (Adboss FCA at para 18).
+[52] I reiterate that the Appellant is requesting that the impugned paragraphs be struck without leave to amend because, in their view, the defect is incurable. The Appellant asserts that “[t]he documents disclosed and the transcripts of the discoveries show that the only basis to sustain the abuse analysis (corporate migration to a foreign jurisdiction) is flawed and inconsistent with the underlying facts. There is no alternative position, rationale or realistic argument available to the Respondent” (Appellant’s Written Submissions at para 77). With respect, I find this argument untenable in that it is grounded in the Appellant’s view that in light of the GAAR Committee documents, the Respondent’s application of GAAR to Lark is rooted in the position that the loss of CCPC status following a continuance was abusive. I do not find that to be the case. My view is that the Respondent simply concluded that the loss of CCPC status (by continuance in the not dissimilar case and by issuance of preference shares in Lark’s case) are both alleged to be an abuse of the relevant provisions of the ITA.
+[53] Now, I ask, why are we here? What led to this motion to strike by the Appellant? And the simple answer is: the Respondent’s pleading is poor. The Respondent does not clearly indicate what leads to the submission that there is abuse in this case. In reading the grounds relied on by the Respondent in their Further Amended Reply, I find that the very general statements in paragraphs 67d) to j) read more like notes from a theoretical discussion of the notion of integration and the anti-deferral regime one would find in a law school tax class. I am not suggesting those are irrelevant. On the contrary.
+[54] In the context of a GAAR analysis, the burden is on the Minister to establish that the avoidance transaction, if any, is abusive. In Canada Trustco Mortgage Co. v Canada (2005 SCC 54 at para 55), the Supreme Court of Canada found that the first step of the analytical approach applicable to subsection 245(4) requires a court to determine the object, the spirit and purpose of the provisions of the ITA which are relied on for the tax benefit. Hence, the Respondent cannot be faulted for dedicating several paragraphs of the Reply to put forth their view of the object, spirit and purpose of the relevant provisions, sections 123.3 and 123.4 of the ITA.
+[55] Having said this, if one puts the grounds that relate to the notion of integration, the definition of CCPC and the object, purpose and spirit of the relevant provisions aside for a moment, there is very little left. When I put this to the Respondent’s counsel at the hearing and asked him where I could find their position on the alleged abuse in this case, he simply referred me to subparagraph 67k) and added that the “transaction” with the surrounding facts is what resulted in the misuse of the provisions, given what the object, spirit, and purpose is (Transcript at p 96). It is useful to refer specifically to subparagraph 67k) which reads as follows:
+k) The Transaction may reasonably be considered to have resulted in:
+i) a misuse of ss. 125(7), 123.3 and 123.4 of the ITA by frustrating and defeating the rationale for this provision and by allowing for a result for which these provisions were not intended, and
+ii) an abuse having regard to the ITA read as a whole.
+[56] In my view, the Appellant, the Court and perhaps any interested reader of the Further Amended Reply should be able to know why, in light of the notion of integration and in light of the object, spirit and purpose of sections 123.3 and 123.4, the Respondent alleges that the transaction may reasonably be considered to have resulted in misuse or abuse. I do not see that clearly set out. That is what I meant when I stated earlier that one has to read between the lines, and by looking at the facts assumed, try to determine what exactly the Respondent is arguing. Why is the Respondent’s position not explicitly set out in the pleading? Why is there no mention of de facto control?
+[57] When reviewing the assumptions of fact, it is clear that the Respondent assumed that Lark was a CCPC until it issued preference shares to the non-resident children. It is also clear that the Respondent assumed that Lark was no longer a CCPC after it issued the preference shares (Further Amended Reply at paras 54 and 55). In addition, the Respondent has set out their assumptions regarding who was responsible for decision-making before and after the issuance of the preference shares (Further Amended Reply at paras 35 and 36) as well as what the holders of the different categories of shares were entitled to (Further Amended Reply at paras 41 to 45). Hence, it appears that the factual underpinnings of the Respondent’s argument that the transaction may have resulted in abuse are set out in the Further Amended Reply. At the risk of repeating myself, I would say that the interested reader should not have to trace their own path between the factual underpinnings and paragraph 67k) to know exactly what the Respondent’s position is as to why there is abuse or misuse in this case.
+[58] I must say I find it difficult to accept that the Appellant could have been taken by surprise by the Respondent’s assertion in their written submissions that the non-resident children did not have de facto control of Lark (Respondent’s Written Submissions at para 37). However, I find that the Appellant was entitled to a pleading that clearly set out the Respondent’s position. That is not what can be said of the Further Amended Reply. It is deficient. But it is deficient more for what it does not state than what it does state.
+[59] Counsel for the Respondent looked to subparagraph 67k) of the Further Amended Reply to support their argument that their position is set out in the pleading, because when using the word transaction, “what’s being referred to are the circumstances. The transaction in these circumstances, with these facts, the facts of this case have resulted in a misuse of the provisions listed” (Transcript at pp 87-88). With respect, I find that subparagraph 67k) of the Further Amended Reply does not clearly set out the Respondent’s position.
+[60] I find that part of the pleading in this case may prejudice the fair hearing of the appeal and is an abuse of process. I so find because the Respondent must state the reasons they intend to rely on as required by paragraph 49(1)(h) of the Rules. They did not, at least certainly not clearly and without the Appellant having to forge its own path to get there.
+[61] In my view, it is not up to the Court to tell the Respondent how to “fix” their pleading. I have come to the conclusion that the most appropriate way forward is to strike the impugned paragraphs but with leave to amend. Leaving the pleading as is would not better serve the trial process (Preston, supra). The pleading is deficient but it is not incurable. I agree with the statement made in Mont-Bruno C.C. Inc. v The Queen (2018 TCC 105 at para 18), that “for a pleading to be struck without leave to amend, the defect in the pleading must be one that is not curable by amendment”.
+[62] In its recent decision in Polarsat Inc. v The King (2023 FCA 247 at para 3), the Federal Court of Appeal asserted that “it is trite … that an amendment to a pleading should be allowed if it (i) assists the tribunal in determining the real question in controversy, (ii) does not result in an injustice to the other party not compensable by costs and (iii) serves the interests of justice”. I find that all three of these elements are met in this case. I further note that in The Queen v Pomeroy Acquireco Ltd. (2021 FCA 187 at para 4), the Federal Court of Appeal specified that such an amendment should be allowed at any stage of an action.
+C. The Fresh Step Rule
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity, except with leave of the Court.
+8. La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l’autorisation de la Cour:
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+[63] In Dilalla v The Queen (2020 FCA 39 at para 8), the Federal Court of Appeal stated that “the fresh step rule is designed to ensure the orderly movement of litigation through to trial. The rule is based on the view that if a party pleads over to a pleading, it implies a waiver of any irregularity that might have been attacked”.
+[64] The Respondent stated that the Appellant brings this motion to strike after they have twice amended the reply and conducted two rounds of discovery. The Respondent suggests that the primary ground for the Appellant’s motion refers to facts that have been in their pleading since the initial reply was filed. Hence, the motion is too late.
+[65] In response, the Appellant submits that the triggering point for its motion to strike is the April 17, 2023 re-examination for discovery which followed the disclosure of the GAAR Committee documents on January 27, 2023. It bears repeating that Appellant moved to strike the impugned paragraphs on the basis that (i) the alleged abuse is dependent on control by Canadian residents, which is totally inconsistent with the unchallenged and uncontradicted facts admitted by the Respondent, and (ii) the rationale for the alleged abuse is based on completely different transactions carried out by different taxpayers, unrelated to the Appellant. It is true that almost the entirety of the impugned provisions were in the initial reply or at least in the first amended reply. However, I find that the grounds for the motion, and in particular the second, came to the forefront after the GAAR Committee documents were disclosed such that it cannot be said that more than a reasonable amount of time has passed after the Appellant knew of the irregularities in the Further Amended Reply as provided by paragraph 8(a) of the Rules.
+[66] The Respondent further submits that the Appellant is restricted in bringing this motion by paragraph 8(b) of the Rules which provides that if a party takes fresh steps after obtaining knowledge of the irregularity, it implies a waiver of the irregularity they might otherwise have been able to attack (see Chad v The Queen, 2021 TCC 45 at para 16, referring to Kossow v The Queen, 2008 TCC 422 at para 21). In light of my finding above regarding the timing of the obtaining of the information that grounds the motion, the Appellant is not caught by this restriction.
+[67] I wish to comment on the inclusion of the term “irregularity” in both paragraphs 8(a) and 8(b) of the Rules. The Appellant argued that it was attacking more than an irregularity, that their motion to strike was an attack of the whole appeal itself. I adopt the comments made by A.C.J. Bowman, as he then was, in Imperial Oil Ltd. v The Queen (2003 TCC 46 at para 20) wherein he stated that allegations that the appeals are frivolous, vexatious and an abuse of process is hardly an attack on an irregularity.
+[68] In the exercise of my discretion, I conclude that the Appellant’s motion does not offend paragraphs 8(a) and (b) of the Rules and the Appellant is therefore not barred from bringing its motion to strike without leave of the Court.
+VI. Conclusion [69] For all the reasons above, the Appellant’s motion to strike is granted in part. I find that the Appellant does not meet the stringent test to justify striking the Further Amended Reply in its entirety and allowing the appeal. This is not a case where there is no prospect of success, where the defect is incurable by amendment, or where there is not a scintilla of a legitimate cause of action. It is a case where the pleading is deficient but not incurable. Therefore, subparagraphs 67d) to m) of the Reply are struck with leave to amend. The Respondent shall have until May 1, 2024 to serve and file an amended Further Amended Reply. The Appellant shall have until June 3, 2024 to serve and file an answer, if any, to the newly amended Further Amended Reply.
+[70] The Appellant is entitled to costs of this motion in any event of the cause. The parties shall have 30 days from the date of this Order to reach an agreement on costs for this Motion and to so advise the Court, failing which the Appellant shall have a further 20 days to serve and file written submissions on costs and the Respondent shall have a further 20 days to serve and file a written response. Any such submissions shall not exceed eight (8) pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the applicable time limits, costs for this Motion shall be awarded to the Appellant in accordance with the Tariff.
+Signed at Ottawa, Canada, this 28th day of March 2024.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+SCHEDULE A
+Further Amended Reply – Paragraph 67
+67. The Minister properly applied the GAAR under s. 245 of the ITA because:
+…
+d) The general scheme of the ITA includes:
+i) ensuring integration; i.e., combined corporate and personal tax paid on income earned through a corporation should be equal to the tax that would have been paid on that income had it been earned directly by the Canadian-resident individual, and
+ii) preventing tax deferral where a private corporation earns passive investment income and does not distribute this income to its individual shareholders who are residents of Canada.
+e) The definition of “Canadian-controlled private corporation” in s. 125(7), s. 123.3 and s. 123.4, particularly the “full rate taxable income” definition in s.
+123.4(1), of the ITA are part of this scheme.
+f) Pursuant to the definition of “Canadian-controlled private corporation” in s. 125(7), a private corporation that is a Canadian corporation is a CCPC if, among other things, it is not controlled by one or more non-resident persons.
+g) The object, spirit and purpose of the definition of “Canadian-controlled private corporation” is to ensure that private corporations actually directly or indirectly controlled by Canadian residents are subject to the anti-deferral regime applicable to CCPCs.
+h) The object, spirit and purpose of s. 123.3 is to prevent deferral of tax on investment income earned by a private corporation controlled directly or indirectly in any matter whatever by a Canadian resident.
+i) Section 123.4 provides corporations with a deduction in computing tax payable of 13% (called the “general rate reduction percentage”) of their “full-rate taxable income for the year”. Full-rate taxable income does not include, among other things, the aggregate investment income, within the meaning of s. 129(4), of a CCPC.
+j) The object, spirit and purpose of s. 123.4 is:
+i) to exclude CCPC investment income from the general rate reduction available under that section because such income already benefits from a preferential corporate tax rate if the dividend refund provisions under s. 129 of the ITA are taken into account, and
+ii) to prevent Canadian-resident individual shareholders from benefiting from a tax deferral on passive income earned through a private corporation which they control directly or indirectly in any manner whatever and which they would not benefit from had they earned this income directly.
+k) The Transaction may reasonably be considered to have resulted in:
+i) a misuse of ss. 125(7), 123.3 and 123.4 of the 1TA by frustrating and defeating the rationale for these provision and by allowing for a result for which these provisions were not intended, and
+ii) an abuse having regard to the ITA read as a whole.
+l) Therefore, s. 245(2) requires a determination of the tax consequences that are reasonable in the circumstances to deny the Tax Benefits.
+m) These tax consequences are specifically to:
+i) impose s. 123.3 tax of $5,221,176, and
+ii) deny the general rate reduction under s. 123.4 of $7,722,652.11.
+CITATION:
+2024 TCC 30
+COURT FILE NO.:
+2021-2037(IT)G
+STYLE OF CAUSE:
+LARK INVESTMENTS INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Québec
+DATE OF HEARING:
+October 30, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+March 28, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Jonathan Lafrance
+Counsel for the Respondent:
+Arnold H. Bornstein
+Christopher M. Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dominic C. Belley Jonathan Lafrance
+Firm:
+Norton Rose Fulbright Canada S.E.N.C.R.L., s.r.l. Bureau 2500, 1, Place Ville Marie
+Montréal
+(Québec) H3B 1R1
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

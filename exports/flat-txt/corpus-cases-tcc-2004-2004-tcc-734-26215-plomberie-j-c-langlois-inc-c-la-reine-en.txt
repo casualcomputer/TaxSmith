@@ -1,0 +1,168 @@
+Title: Plomberie J.C. Langlois Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26215/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-734-26215-plomberie-j-c-langlois-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-11-02
+
+# Plomberie J.C. Langlois Inc. c. La Reine
+
+- Citation: 2004 TCC 734
+- Decision date: 2004-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3979, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plomberie J.C. Langlois Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-02
+Neutral citation
+2004 TCC 734
+File numbers
+2001-1569(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1569(IT)G
+BETWEEN:
+PLOMBERIE J.C. LANGLOIS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+______________________________________________________
+Appeal heard on June 30, 2004, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Martin Pichette
+Counsel for the Respondent:
+Marie Bélanger
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1995, 1996, 1997 and 1998 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of November 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 13th day of January 2005.
+Jacques Deschênes, Translator
+Citation: 2004TCC734
+Date: 20041102
+Docket: 2001-1569(IT)G
+BETWEEN:
+PLOMBERIE J.C. LANGLOIS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+LamarreProulx J.
+[1] This appeal pertains to the 1995 to 1998 taxation years.
+[2] The issue is whether the appellant and one or more other corporations were controlled, directly or indirectly, in any manner whatever, by the same person within the meaning of paragraph 256(1)(b) and subsection 256(5.1) of the Income Tax Act (the "Act").
+[3] If so, the appellant and the other corporations would be associated corporations within the meaning of section 256 of the Act. This would entail consequences with respect to the application of section 125 of the Act, a section that pertains to the small business deduction, which the appellant was disallowed.
+[4] It was admitted that the appellant's shareholders were Les Placements René Simoneau Inc. and Richard Hallas, and that each shareholder owned 50% of the shares. René Simoneau holds 100% of the shares in Les Placements René Simoneau Inc. Appendix A of the Reply to the Notice of Appeal describes the organization charts of the various Groupe Simoneau corporations. The description is not contested.
+[5] The respondent submits that René Simoneau is the "controller" who had direct or indirect influence that, when exercised, resulted in the control in fact of the appellant within the meaning of subsection 256(5.1) of the Act. In the Minister's submission, there is control in fact, if not in law. Naturally, the appellant contests the allegation that Mr. Simoneau had control in fact of the appellant. It claims that the two shareholders had equal influence and that any imbalance was in favour of Mr. Hallas.
+[6] In his testimony, René Simoneau discussed the history of the appellant, which is engaged in the business of industrial, commercial and institutional plumbing.
+[7] René Simoneau met Jean-Claude Langlois in 1990 while the first plant of Bouilloire et Soudure Rive-Sud Inc., a company 100% of the shares of which are owned by Les Placements René Simoneau Inc., was being built. Plomberie Roger Langlois obtained the plumbing contract for the construction project. Jean-Claude Langlois was working for the business of his father Roger Langlois. Richard Hallas was carrying out the plumbing work.
+[8] Shortly thereafter, Jean-Claude Langlois asked Mr. Simoneau to start up a plumbing business with him. An agreement was reached: Mr. Simoneau would look after the administration and Jean-Claude Langlois would be responsible for the operational management.
+[9] The business relationship was short-lived. To summarize briefly what followed, Mr. Simoneau repurchased Mr. Langlois' shares and transferred them to Mr. Hallas, whose services he wanted to secure. As of November 30, 1992, Mr. Hallas held 50% of the appellant's shares.
+[10] A book of documents containing nine tabs was tendered as Exhibit A-1. The shareholders' agreement, dated November 30, 1992, is at tab 2. There are three parties to the agreement: the two shareholders, and the appellant corporation, represented by its president René Simoneau, who also signed on behalf of the corporation as its secretary.
+[11] The appellant admits that Mr. Simoneau has always been the corporation's only director and is its chairperson and secretary. The documents produced as Exhibit I-1 also confirm this.
+[12] Mr. Simoneau explained that Mr. Hallas is in charge of the operational management of the appellant, i.e. all plumbing-related business. He makes bids, provides estimates, hires staff and looks after the purchase and maintenance of equipment and tools.
+[13] The appellant has the licences that it needs to carry on business thanks to the special skills of Mr. Hallas.
+[14] Mr. Simoneau is responsible for office management, advertising, wages and invoices, cheque signing, banking matters and the line of credit. Suppliers' invoices are subject to prior approval by Mr. Hallas.
+[15] Mr. Simoneau testified that he was not related to Mr. Hallas, and that Mr. Hallas was not involved in any of the other Groupe Simoneau companies during the years in issue. Today, Mr. Hallas owns 18% of Groupe Simoneau shares.
+[16] Mr. Simoneau concluded his testimony by stating that he does not believe that he controls the appellant because he is not knowledgeable about plumbing, and that Mr. Hallas' function in that area is just as important as his, if not more so.
+[17] Under cross-examination, Mr. Simoneau was shown the business cards of various Groupe Simoneau employees. The names of four companies appear on each card: Bouilloire et Soudure Rive-Sud Inc., Plomberie J.C. Langlois Inc., Les Constructions René Simoneau and Combustion Rive-Sud Ltée. Counsel for the respondent also showed the witness the documents printed from the website, some speeches, and some articles from 1997. All of these documents portray Mr. Simoneau as the "controller." Reference is made to the appellant as a Groupe Simoneau affiliate. The witness responded that all of this was for image. The business cards and other publicity materials were produced as Exhibit I-4.
+[18] The appellant's office is located in the same place as the office of Bouilloire et Soudure Rive Sud Inc., a corporation 100% of the shares of which are owned by Les Placements René Simoneau Inc. The appellant is charged rent. The rent was apparently determined based on its revenues. Secretarial costs were shared on a basis that was not explained. Some employees of Bouilloire et Soudure Rive-Sud Inc. frequently worked for the appellant.
+[19] In this connection, counsel for the respondent produced Exhibit I-7, which consists of invoices from one company to another showing considerable relationships between the appellant and Bouilloire. As another example, she cited the financial statements of April 30, 1998, which were produced along with the other statements as Exhibit I-5. At paragraph 13 of the "Notes complémentaires" (accompanying notes) it is stated that the company entered into the following transactions with related companies: [TRANSLATION] Sales and miscellaneous revenues, $222,517; Purchases and miscellaneous services, $654,053. Mr. Simoneau stated that the shared expenses were apportioned with Mr. Hallas' consent.
+[20] Exhibit I-3 consists of various line of credit authorizations, by the bank, for the appellant and other Groupe Simoneau corporations. These authorizations show that René Simoneau and the other Groupe Simoneau companies gave sureties. For example, on February 9, 1996, a credit line of $345,017 was authorized for the appellant. Sureties were given by Les Placements René Simoneau Inc., Bouilloire et Soudure Rive-Sud Inc., Les Constructions René Simoneau Inc. and René Simoneau personally. Mr. Simoneau signed on behalf of all these entities. A document, dated October 31, 1996, shows that $1,084,000 in financing was authorized for Les Constructions René Simoneau Inc. The credit was secured by Les Placements René Simoneau Inc., Bouilloire et Soudure Rive-Sud Inc., Plomberie J.C. Langlois Inc. (the appellant) and René Simoneau personally. There are a few other documents of the same nature.
+[21] Paragraph 4 of the accompanying notes of the financial statement for the year ending April 30, 1997, is entitled "Placements" (investments). It reads: [TRANSLATION] Advances to private companies without interest or repayment terms: $84,106. Paragraph 12 is entitled "Éventualité" (contingency) and reads: [TRANSLATION] "The company is guaranteeing loans of other private companies. On April 30, 1997, these loans totalled $1,969,707. If the company is obliged to satisfy a claim associated with these guarantees, the amount of which cannot be specified, the resulting loss will be reported in the earnings statement for the fiscal year in progress."
+[22] The next witness was Richard Hallas. He is now construction site director and vice-president of Groupe Simoneau. His testimony did not differ from Mr. Simoneau's. He stated that the agreement between him and Mr. Simoneau was that he would look after the plumbing and that Mr. Simoneau would be the financier and manager. He had seen that Mr. Simoneau was successful in business, and let him take care of administration.
+[23] He never signed any bank sureties for loans, advances or lines of credit. In fact, he joined forces with Mr. Simoneau so that Mr. Simoneau would be the financier. Be that as it may, two indemnification and surety agreements were produced at tabs 6 and 7 of Exhibit A-1. The last agreement produced at tab 6 is dated December 21, 1998, and reads: [TRANSLATION] "Richard Hallas is a personal guarantor exclusively for sureties issued for Plomberie J.C. Langlois Inc."
+[24] However, Mr. Hallas explained that he and Mr. Simoneau spoke about jobs, sales and profits on a daily basis. He said there was no agreement that René Simoneau would be the only de facto directing mind because there was no way that he could be the only directing mind of something that belonged to both of them.
+[25] With respect to the absence of formal shareholders' meetings, he said that such meetings were unnecessary because he and René would see each other daily. However, he admitted that he did not know about the activities of the board of directors because Mr. Simoneau was the sole director.
+[26] Counsel for the respondent tendered Exhibit I-6, which consists of payments by the appellant to Plomberie R.H. Inc., a corporation all of whose shares were held by Mr. Hallas. There was no explanation of the basis on which the claims of Plomberie R.H. Inc. were made. Mr. Simoneau approved all these payments.
+[27] Alain Lafond, an architect in private practice, testified for the respondent. He held 50% of the shares of Les Constructions René Simoneau Inc. and paid nothing for them. Thanks to his shareholding over a three-year period, the company was able to work in the construction field. However, he did not participate in the operations of the business. He did not even have an office there.
+Arguments
+[28] Counsel for the appellant noted that it must be determined whether the relationship between the two shareholders was characterized by the existence of a "controller" who had a direct or indirect influence, which, when exercised, would result in the control in fact of the appellant corporation. He argued that the two shareholders determined the framework of their relationship on the basis of complete equality and that this Court must accept this equality as it did in Multiview Inc. v. The Queen, 97 DTC 1489. He referred to the shareholders' agreement, found at tab 2 of Exhibit A-1. According to that agreement, the shareholders are equal. Moreover, in practice, each of them brings his own qualities and advantages to the table. Mr. Hallas is a nuts-and-bolts man and Mr. Simoneau has the acumen for administration. This, it is alleged, is a situation characterized by interdependence, in which the shareholders communicate with each other daily and give each other information.
+[29] Counsel for the respondent referred to the decision of Bowman T.C.C.J., in Société foncière d'investissement Inc. v. Canada, [1995] T.C.J. No. 1568 (Q.L.), particularly paragraphs 8 and 10 of the decision:
+8 Since these decisions, other words have been added for the clear purpose of broadening the concept of control, in particular the words "directly or indirectly in any manner whatever". So far as I know, the point has not been decided, but I would have thought that it could reasonably be argued that these words necessarily include the idea of de facto control of a corporation in the case of a person who does not hold more than 50 per cent of the shares but has a controlling influence, whether economic, contractual or moral, over a corporation's affairs. It is hard to imagine words with a broader meaning.
+. . .
+10 I am persuaded that the resolutions adopted by the other shareholders had the effect of giving Mr. Allain practically absolute control over the affairs of S.F.I. During the years in which the resolutions were in effect, he had complete authority to manage all aspects of the corporation's commercial and financial dealings. I admit that the other shareholders had the power to divest him of this authority, but as long as he was permitted to exercise it he was in a position of unlimited control.
+[30] She said that she does not intend to do an actual analysis of the shareholders' agreement to determine whether the shareholders were in a situation of equality. But she does argue that, by granting sole directorial authority to one shareholder, the other shareholder was granting him all his authority. She noted that Mr. Hallas has admitted he did not know what Mr. Simoneau was doing as the sole director. The evidence showed that Mr. Simoneau was the one who decided on the allocation of common expenses to the various corporations he managed. For example, he was the one who determined the cost of renting the building in which the appellant carried on business, and the portion of the secretarial costs. He was the one who committed the appellant when financing the other Groupe Simoneau businesses. In sum, he had full power to manage and bind the appellant. Mr. Hellas' operational management cannot, in her submission, amount to control of a corporation.
+[31] In reply, counsel for the appellant argues that the shareholders in Société foncière d'investissement Inc., supra, had given the director carte blanche, which they did not do in the case at bar. He refers to section 11(g) of the shareholders' agreement:
+[TRANSLATION]
+11. Any by-law or resolution of the company's directors that has one of the following direct or indirect purposes or effects shall, to be valid, require ratification by a unanimous resolution of the shareholders:
+...
+(g) any decision other than an administrative decision made in the company's ordinary course of business.
+[32] Counsel for the respondent then referred to sections 5 and 6 of the shareholders' agreement. In her submission, those provisions are very different from what happened in reality and they show how very little importance should be given to the agreement:
+CONTRIBUTION
+5. Any investment which the board of directors, acting in the best interests of the company, determines is necessary from time to time for the proper administration of the Company, shall be invested by the Shareholders in proportion to their holdings of Class "A" shares, at no interest. Should the circumstances require that one of them make an advance greater than the required proportion, the portion of the Shareholder's advance that exceeds that proportion shall bear interest at the rate of certificates of deposit issued for a period of one (1) year by the financial institution with which the company is doing business at that time, such rate being subject to review on an annual basis.
+6. Should personal endorsements and guarantees by the shareholders become necessary to secure the Company's loans or obligations, the shareholders shall provide such an endorsement or guarantee in proportion to their holdings of the Company's Class "A" shares.
+Conclusion
+[33] Paragraph 256(1)(b) and subsection 256(5.1) of the Act reads as follows:
+256(1) Related corporations - For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year
+. . .
+(b) both of the corporations were controlled, directly or indirectly in any manner whatever, by the same person or group of persons
+256(5.1) Control in fact - For the purposes of this Act, where the expression "controlled, directly or indirectly in any manner whatever," is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the "controller") at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm's length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[34] The evidence has disclosed that there were two shareholders, each of whom had an equal number of shares. Thus, neither had de jure control. I quote from Duha Printers v. Canada, [1998] 1 S.C.R. 795, at p. 838, where the Supreme Court of Canada set out the meaning that should be ascribed to de jure control:
+. . .
+(2) The general test for de jure control is that enunciated in Buckerfield's, supra: whether the majority shareholder enjoys "effective control" over the "affairs and fortunes" of the corporation, as manifested in "ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors".
+[35] With respect to the notion of de facto control in section 256 of the Act, I quote from the same decision, at p. 824:
+. . . As such, a simple test such as that which has been followed since Buckerfield's is most desirable. If the distinction between de jure and de facto control is to be eliminated at this time, this should be left to Parliament, not to the courts. In fact, while it is not directly relevant to the outcome of this appeal, I would observe nonetheless that Parliament has now recognized the distinction between de jure and de facto control, adopting the latter as the new standard for the associated corporation rules by means of s. 256(5.1) of the Income Tax Act, enacted in 1988.
+[36] In the case at bar, did one of the shareholders exercise de facto control of the appellant? I must find that there was, during the years in issue, but a single director. Who could exercise control over the appellant, if not this sole director? Counsel for the appellant referred to Multiview, supra, but there, the two equal shareholders were also equal directors, which the shareholders in the instant case are not.
+[37] The powers of the sole director in the instant case are vast. I do not intend to repeat everything that counsel for the respondent said, since she simply restated the facts presented in evidence. I agree with her description of the evidence and would merely add that Mr. Simoneau was the chairperson of the board and it secretary.
+[38] As its principal manager, Mr. Hallas undoubtedly played a very important role in the appellant corporation. However, that role is not associated with the idea of control over a corporation. It is an operational role, not a decision-making role. The decision-making role belongs to the director of a corporation, and it is the one that is associated with the notion of control in fact of a corporation.
+[39] G. Cornu, dir., Vocabulairejuridique, 2d ed. (Paris: Presses universitaires de France, 1990) defines the word "contrôle" in a manner that I find interesting, at p. 207:
+[TRANSLATION]
+• 3 Dominion over the management of a business or organization; power ensuring the one who has it a dominant influence in the direction of a group, a corporation, etc., or the orientation of its future.
+[40] In my opinion, Mr. Simoneau exercised such dominion over the appellant. As the sole director, he had the power that ensured him a dominant influence in the direction of the appellant. The other shareholder, being an equal shareholder, had the power to remove this authority from him, but did not do so during the years in issue. In conclusion, during those years, Mr. Simoneau exercised control in fact of the appellant within the meaning of subsection 256(5.1) of the Act. As far as the parties were concerned, this was the only point that I had to decide in the instant case.
+[41] Consequently, the appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 2nd day of November 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 13th day of January 2005.
+Jacques Deschênes, Translator
+CITATION:
+2004TCC734
+COURT FILE NO.:
+2001-1569(IT)G
+STYLE OF CAUSE:
+Plomberie J.C. Langlois Inc. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+June 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lamarre Proulx
+DATE OF JUDGMENT:
+November 2, 2004
+APPEARANCES:
+For the Appellant:
+Martin Pichette
+For the Respondent:
+Marie Bélanger
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin Pichette
+Firm:
+de Grandpré Chait, LLP
+Montréal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

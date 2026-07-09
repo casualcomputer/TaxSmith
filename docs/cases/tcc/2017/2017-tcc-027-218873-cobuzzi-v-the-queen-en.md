@@ -1,0 +1,251 @@
+---
+title: "Cobuzzi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218873/index.do"
+last_modified: "2017-02-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 027"
+citation2: ""
+neutral_citation: "2017 TCC 027"
+decision_date: "2017-02-15"
+language: "en"
+item_id: "218873"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2257
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:28:15.857000+00:00"
+cases_cited_count: 6
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "123a35e35c778ae9790e866a400caaeec4b7978db51e87a490c0515ce58a8ec7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cobuzzi v. The Queen
+
+- Citation: 2017 TCC 027
+- Decision date: 2017-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2257, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cobuzzi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-02-15
+Neutral citation
+2017 TCC 027
+File numbers
+2014-3936(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3936(IT)G
+BETWEEN:
+ROSA COBUZZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motions disposed of upon consideration of written representations
+By the Honourable Justice Gaston Jorré
+ORDER
+For the attached reasons:
+1. The appellant’s motion is dismissed.
+2. The respondent’s motion is allowed, and the attached Reply to the Notice of Appeal is deemed to have been filed on the date of this order.
+The parties must, no later than 30 days from the date of this order, agree on a timetable for completing the subsequent steps and so advise the Court, or, if they are unable to reach an agreement, ask the Court to schedule a status hearing.
+Given all of the circumstances, no costs will be awarded.
+Signed at Ottawa, Ontario, this 15th day of February 2017.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 26th day of September 2018.
+Janine Anderson, Revisor
+Citation: 2017 TCC 27
+Date: 20170215
+Docket: 2014-3936(IT)G
+BETWEEN:
+ROSA COBUZZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Jorré J.
+Introduction
+[1] I have two motions before me: one from the appellant for default judgment and one from the respondent for an extension of time to file the Reply to the Notice of Appeal.
+[2] The Court asked the parties whether they wanted to have the motions dealt with in writing and whether they wished to make further representations. In letters dated November 7 and 14, 2016, the parties asked that the motions be dealt with in writing and indicated that they had no further representations to make.
+[3] It is helpful to provide some background on this file as found in the Court record. The appeal involves assessments dated October 31, 2011, for the 2005, 2006 and 2007 taxation years. As we will see below, this appeal is proceeding slowly.
+[4] On August 1, 2014, the appellant filed an application for an extension of time to file an appeal with respect to the 2005, 2006, 2007, 2008, 2009 and 2010 taxation years. Following the consent filed by the parties, the Court issued an order on May 19, 2015, granting an extension of time until the date of the order with respect to the 2005, 2006 and 2007 taxation years; the Court also noted the abandonment of the appellant’s application regarding the notices of reassessment for the 2008, 2009 and 2010 taxation years.
+[5] I note, however, that the Notice of Appeal that was filed with the application for an extension of time was not amended to cover only the years 2005, 2006 and 2007.
+[6] Subsection 21(4) of the Tax Court of Canada Rules (General Procedure) (Rules) provides that “[t]he filing fee . . . shall be paid within five days after the receipt of the document by the Registry”.
+[7] Although the order granting an extension of time was dated May 19, 2015, the $400 filing fee was not paid until April 12, 2016, approximately 11 months later. [1]
+[8] Six days later, on April 18, 2016, the Registry sent the Notice of Appeal to the respondent.
+[9] The Court record includes a copy of a letter dated May 2, 2016, addressed to counsel for the appellant, in which counsel for the respondent informs the appellant that she has been mandated to represent the respondent.
+[10] On September 7, 2016, the Registry of the Court wrote to the parties, inviting them to establish a timetable.
+[11] The appellant’s motion for default judgment was filed on September 12, 2016, without an affidavit.
+[12] The respondent’s motion for an extension of time was filed on September 16, 2016, about three months after the deadline for the filing a reply. The respondent’s motion was accompanied by an affidavit in support of the motion and the Reply to the Notice of Appeal that the respondent was proposing to file.
+[13] The affidavit in support of the appellant’s motion was filed on September 20, 2016. The essential facts in that affidavit are among those listed above.
+[14] Apart from certain facts already mentioned above, the most important part of the affidavit filed by the respondent can be summarized as follows: following the order of May 19, 2015, and having not been served the Notice of Appeal, the respondent closed the file. After receiving the Notice of Appeal in April 2016, counsel for the respondent verified and took note of the deadline for filing the Reply to the Notice of Appeal. She also wrote to counsel for the appellant on May 2, 2016, to inform him that she had been mandated to represent the respondent. Despite being aware of the deadline, she mistakenly forgot to file the Reply. The respondent had always intended to file a reply to the Notice of Appeal. There was no contact between counsel for the appellant and counsel for the respondent between service of the Notice of Appeal on April 18, 2016, and service of the motion for default judgment to the respondent on September 9, 2016.
+Motion for default judgment
+[15] I will begin my analysis with the motion for default judgment.
+[16] I must begin by noting that the appellant is applying on motion for judgment in respect of the relief sought in the Notice of Appeal. However, the Notice of Appeal asks that all assessments for the years 2005 to 2010 inclusive be vacated even though, given the abandonment by the appellant at the time of the motion for an extension of time of the years 2008 to 2010 inclusive, this Court’s order granting an extension of time only did so for the years 2005 to 2007 inclusive. No judgment can be rendered with respect to the years that are no longer properly before the Court.
+[17] Section 63 of the Rules provides the following:
+63(1) If a reply to a notice of appeal has not been filed and served within the applicable times specified under section 44, the appellant may apply on motion for judgment in respect of the relief sought in the notice of appeal.
+(2) On the return of the application for judgment, the Court may
+(a) direct that the appeal proceed to hearing; or
+(b) allow the appeal if the facts alleged in the notice of appeal entitle the appellant to the relief sought; and
+(c) give such other direction as is just, including direction regarding the payment of costs.
+(3) The presumption in paragraph (2)(b) is a rebuttable presumption.
+[18] Before the Court can even consider the possibility of rendering a default judgment, paragraph 63(2)(b) imposes two pre-conditions.
+[19] First, subsection 63(1) provides that the motion can only be brought if the respondent has not filed a reply within the time specified under section 44 of the Rules. Therefore, if I allow the respondent’s motion pursuant to paragraph 44(1)(b) of the Rules, there can be no question of default. I will address the motion of the respondent after that of the appellant.
+[20] Second, the facts alleged in the notice of appeal must entitle the appellant to the relief sought. [2]
+[21] When a taxpayer appeals from an assessment, the issue before this Court is whether the assessed tax, interest and penalty amounts are justified. Normally, in the course of an appeal, the appellant attempts to demonstrate through evidence that certain changes made to his or her calculation of income by the Minister of National Revenue are erroneous.
+[22] To take a very simple example, if the Minister reassessed and added $17,000 to an appellant’s income because the Minister concluded that the specific amount of $17,000 deposited in the appellant’s bank account on a given date was income from the appellant’s business that had not been included in the gross income of the business, the appellant could, for example, demonstrate that the $17,000 should not have been added by proving that the $17,000 was a loan made by a person to the appellant’s business.
+[23] In my example, if the issue involving the $17,000 had been the sole issue in the dispute, to meet the pre-condition set out in paragraph 63(2)(b) and obtain a default judgment, on the face of the notice of appeal an allegation would have had to be made concerning the change made by the Minister, namely, the inclusion of the additional income of $17,000, and there would also have had to be an allegation that the amount did not constitute income because it was a loan made by Mr. X to the company.
+[24] The Notice of Appeal at issue contains various allegations regarding what occurred between the appellant and the Minister of National Revenue. The Notice of Appeal does not allege which changes were made by the Minister, nor does it allege facts that, if the Court presumed them to be true, could support a finding that the Minister’s changes were erroneous.
+[25] The only paragraph of the Notice of Appeal that alleges facts related to the assessment that, according to the evidence to be presented at the hearing of the appeal, could potentially have an impact on the assessment is paragraph 23, which reads as follows:
+[TRANSLATION]
+The Taxpayer can demonstrate that the amounts questioned by the tax authorities constitute the following:
+a. a substantial gift from the Taxpayer’s mother in the context of an estate following the death of the Taxpayer’s father;
+b. support payments made by the Taxpayer’s ex-husband for their child [S.];
+c. rental income for which expenses must be considered and applied in the necessary items;
+d. the residue of the sale of a principal residence;
+e. gifts and loans made by the Taxpayer’s adult children.
+[26] An examination of paragraph 23 reveals that the allegations are rather general. For example, it is alleged that the appellant received a substantial gift from her mother. The allegation mentions neither the amount nor the date; it is therefore impossible to know the impact on the Minister’s assessment even if the Notice of Appeal explained the changes made by the Minister in the course of the assessment.
+[27] This particular case is even more complicated because the Notice of Appeal was written with respect to the 2005 to 2010 taxation years inclusive, while only the years 2005 to 2007 inclusive are before this Court.
+[28] For these reasons, the appellant has failed to demonstrate that she meets the condition of paragraph 63(2)(b), and it is not necessary for me to consider whether it would be appropriate to order a default judgment, after having considered the first condition of subsection 63(1) or any other relevant consideration.
+[29] Therefore, I cannot issue such an order.
+Motion for an extension of time to file the Reply to the Notice of Appeal
+[30] Section 44 of the Rules is relevant to this motion. The applicable subsections read as follows:
+44(1) A reply shall be filed in the Registry within 60 days after service of the notice of appeal unless
+(a) the appellant consents, before or after the expiration of the 60-day period, to the filing of that reply after the 60-day period within a specified time; or
+(b) the Court allows, on application made before or after the expiration of the 60-day period, the filing of that reply after the 60-day period within a specified time.
+(2) If a reply is not filed within an applicable period specified under subsection (1), the allegations of fact contained in the notice of appeal are presumed to be true for purposes of the appeal.
+. . .
+[31] In Canada (Attorney General) v. Hennelly, [3] the Federal Court of Appeal describes the criteria that must be considered when dealing with an application for an extension of time. McDonald J.A. states the following:
+3 The proper test is whether the applicant has demonstrated
+1. a continuing intention to pursue his or her application;
+2. that the application has some merit;
+3. that no prejudice to the respondent arises from the delay; and
+4. that a reasonable explanation for the delay exists.
+4 Any determination of whether or not the applicant’s explanation justifies the granting of the necessary extension of time will turn on the facts of each particular case.
+[32] I note that the Court of Appeal also stated the following in these two paragraphs of Hennelly:
+5 We do not understand the Motions Judge to be saying that one of the criteria for granting an extension is whether or not consent has been given.
+6 In this case the Motions Judge found that inadvertence was an insufficient explanation for the appellant’s delay.
+[33] Hennelly is not a tax case, but the same criteria must be considered in various contexts where the courts must rule on an application for an extension of time. [4]
+[34] However, it must be kept in mind: [5]
+(a) that the purpose of these four criteria is to guide the Court “in determining whether the granting of an extension of time is in the interests of justice”,
+(b) that the criteria are not exclusive, and
+(c) that their relative importance is variable and that not all four questions need necessarily be resolved in the moving party’s favour.
+[35] Stratas J.A. explains the following in Canada (Attorney General) v. Larkman, [6] at paragraphs 61 and, especially, 62:
+61 The parties agree that the following questions are relevant to this Court’s exercise of discretion to allow an extension of time:
+(1) Did the moving party have a continuing intention to pursue the application?
+(2) Is there some potential merit to the application?
+(3) Has the Crown been prejudiced from the delay?
+(4) Does the moving party have a reasonable explanation for the delay?
+. . .
+62 These questions guide the Court in determining whether the granting of an extension of time is in the interests of justice: . . . . The importance of each question depends upon the circumstances of each case. Further, not all of these four questions need be resolved in the moving party’s favour. For example, “a compelling explanation for the delay may lead to a positive response even if the case against the judgment appears weak, and equally a strong case may counterbalance a less satisfactory justification for the delay” . . . . In certain cases, particularly in unusual cases, other questions may be relevant. The overriding consideration is that the interests of justice be served. . . . [7]
+[Emphasis added. Citations omitted.]
+[36] It is useful to specify what is meant by “application” in the context of the first two criteria: 1. Did the moving party have a continuing intention to pursue the application? 2. Is there some potential merit to the application?
+[37] In the context of an appeal from an assessment and in this case, the “application” is the respondent’s application for an extension of time.
+[38] However, in other contexts, such as an application for an extension of time for appealing to the Federal Court of Appeal, it could be an application by the appellant or by the respondent. Similarly, depending on the context, the prejudice criterion must be applied to determine whether the party opposing the motion for an extension will suffer prejudice.
+[39] The next step is to apply these principles to the facts of this case.
+[40] Given the facts contained in the respondent’s affidavit, there is no doubt that there was always a continuing intention to pursue the appeal.
+[41] It is also very clear from a reading of the proposed Reply to the Notice of Appeal that there is considerable merit in the respondent’s arguments.
+[42] The appellant has not raised any prejudice and, in the circumstances of this case, where it took the appellant approximately 11 months to pay the filing fee, I have difficulty conceiving that the delay of approximately three months in filing the application for an extension of time would have a significant impact.
+[43] The respondent therefore meets the first three criteria.
+[44] Accordingly, the key issues are as follows:
+1. Does the moving party have a plausible explanation for the delay?
+2. Are there other relevant criteria?
+3. How much weight should be given to the various criteria?
+[45] This evaluation must take into account the fact that “the overriding consideration is that the interests of justice be served”.
+[46] There is jurisprudence, such as Hennelly, [8] in which inadvertence is not considered a sufficient explanation; however, it should be kept in mind that, as we have just seen, all of the circumstances of the case must be considered and the weighing of factors may vary. [9]
+[47] I note that counsel for the respondent wrote to counsel for the appellant two weeks after the Registry sent the Notice of Appeal to the respondent to inform the respondent’s counsel that she was counsel in the case. This is not a situation where counsel for the appellant received no communication from the respondent after the Notice of Appeal was sent by the Court Registry to the respondent.
+[48] Another very important factor is the effect on whether the appeal hearing proceeds smoothly. Given that I have already decided that the appellant cannot obtain a default judgment, if no reply is filed, the conduct of the hearing will be significantly more difficult for the parties and the Court.
+[49] It is apparent from the proposed Reply that the assessment is based on an alternative method for estimating income. [10] It is also clear from the Notice of Appeal that the very basis of the appeal is that the results of the calculation done using the alternative method must be corrected to take the following into account: [11]
+[TRANSLATION]
+a. a substantial gift from the Taxpayer’s mother in the context of an estate following the death of the Taxpayer’s father;
+b. support payments made by the Taxpayer’s ex-husband for their child [S.];
+c. rental income for which expenses must be considered and applied in the necessary items;
+d. the residue of the sale of a principal residence;
+e. gifts and loans made by the Taxpayer’s adult children.
+[50] It would complicate the appeal hearing considerably if the proposed Reply were not filed because, to the extent that the five alleged corrections are proven for certain monetary amounts, their impact on the tax amounts assessed cannot be calculated in the absence of the calculation done using the alternative method, which is the starting point for taking into account the corrections.
+[51] In the particular circumstances of this case, allowing the motion for an extension of time does not seem to have a practical effect on the appellant even if the effect is to deprive the appellant of the benefit of the presumption of the truthfulness of the facts set out in the Notice of Appeal pursuant to subsection 44(2) of the Rules, a rebuttable presumption. [12]
+[52] The alleged facts appear in paragraphs 1 to 23 of the Notice of Appeal. There are two reasons why there is no impact here. First, paragraphs 1 to 22 of the Notice of Appeal address various facts that, even supposing that they are all true, have no impact on the income the appellant had during the years in question and that, accordingly, have no impact on the issue before this Court: [13] was the Minister correct in assessing the tax and penalty amounts at issue, or must these amounts be reduced or cancelled?
+[53] Second, the five facts alleged in paragraph 23 of the Notice of Appeal are certainly relevant to the dispute, but because they have been pleaded in a very general way, they are of no practical use to the appellant unless she provides evidence of the specific amounts and the dates on which they were received. The evidence necessary to prove the details will necessarily prove the existence of such amounts in general.
+[54] The result is that the benefit that the appellant could have under subsection 44(2) of the Rules does not exist on a practical level.
+[55] Having considered all of these elements, particularly the continuing intention to pursue the appeal, the considerable merit in the respondent’s arguments, the absence of prejudice, the 11 months that it took for the appellant to pay the filing fee and the effect of the absence of a reply on the hearing of the appeal, I am satisfied that “the granting of an extension of time is in the interests of justice”.
+Conclusion
+[56] For these reasons:
+1. The appellant’s motion is dismissed.
+2. The respondent’s motion is allowed and the Reply to the Notice of Appeal attached to the motion is deemed to have been filed on the date of this order.
+[57] Section 63 of the Rules also provides that I may direct that the appeal proceed to hearing and give such other direction as is just. In the circumstances, it is just to order that the matter proceed normally. The parties must, no later than 30 days from the date of this order, agree on a timetable for completing the subsequent steps and so advise the Court, or, if they are unable to reach an agreement, ask the Court to schedule a status hearing.
+Signed at Ottawa, Ontario, this 15th day of February 2017.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 26th day of September 2018.
+Janine Anderson, Revisor
+CITATION:
+2017 TCC 27
+COURT FILE NO.:
+2014-3936(IT)G
+STYLE OF CAUSE:
+ROSA COBUZZI v. THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré
+DATE OF ORDER:
+February 15, 2017
+SIGNATORIES OF THE MOTIONS:
+[BLANK]
+Counsel for the Appellant:
+Claude Lévesque
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+[BLANK]
+For the Appellant:
+Claude Lévesque
+Firm:
+Levesque Jurisconsult Inc.
+Montreal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The failure to comply with subsection 21(4) is an irregularity, but given that no motion has been filed with respect to this irregularity, there is no need for me to consider, at this stage, the effect of sections 7, 8 and 9 of the Rules, among other things.
+[2] For these purposes, the Court must presume that the alleged facts are true.
+[3] [1999] F.C.J. No. 846 (QL).
+[4] For example, see paragraphs 9 to 12 of the Federal Court of Appeal’s decision in Tomas v. Canada, 2007 FCA 86, where it is clear that the Hennelly considerations are applicable to section 12 of the Rules. Another example is V.A. Miller J.’s decision in Nicholls v. Canada, [2011] T.C.J. No. 25 (QL), where the Hennelly principles are restated at paragraph 19.
+[5] See the following paragraph.
+[6] 2012 FCA 204.
+[7] See also, for example, paragraphs 8 and 11 of Gascon J.’s decision in MacDonald v. Canada (Attorney General), 2017 FC 2.
+The approach of the Court of Appeal for Ontario is comparable to that of the Federal Court of Appeal in Larkman. In Mountain View Farms Ltd. v. McQueen, 2014 ONCA 194, the Court of Appeal for Ontario considered a motion to have a default judgment set aside. It is interesting to read the criteria that the Court lists (at paragraphs 48 and 49) for consideration: (1) Was the motion brought promptly? (2) Was there a plausible explanation? (3) Was there some merit to the party’s arguments? (4) Was there prejudice to the other party? (5) What is the effect of any order the Court might make on the overall integrity of the administration of justice? At paragraph 50, the Court of Appeal for Ontario added that these are not rigid rules and that it must consider the particular circumstances of the case to decide whether it is just to set aside the judgment. At paragraph 51, the Court of Appeal for Ontario cites the example that if there is some merit to the party’s arguments, setting aside the judgment may be justified, even if the other factors are unsatisfied in whole or in part. The circumstances in Mountain View are very exceptional and are not at all comparable to the circumstances in this case.
+[8] See paragraph 32, supra.
+[9] See paragraph 35, supra. I also note that the shorter the delay, the less important it seems to be; see Boucher v. M.N.R., 2011 TCC 302, at paragraph 8, and Carew v. R, [1993] 1 C.T.C. 1, at paragraphs 4 to 6, as indicated in Taxnet Pro and TaxPartner.
+[10] The original audit was performed by the Minister of Revenue of Quebec; I do not know whether there is another appeal concerning the same facts before the Court of Québec.
+[11] Paragraph 23 of the Notice of Appeal.
+[12] See subsections 44(2) and (4) of the Rules and paragraph 13 of Webb J.A.’s decision in Johnson v. Canada, 2015 FCA 52.
+[13] These paragraphs mainly concern the role of the accountant who was retained by the appellant.

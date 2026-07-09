@@ -1,0 +1,153 @@
+---
+title: "Lund c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29800/index.do"
+last_modified: "2010-05-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 252"
+citation2: ""
+neutral_citation: "2010 CCI 252"
+decision_date: "2010-05-07"
+language: "fr"
+item_id: "29800"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6606
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:00:28.186000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a847c56103ca8cbbc83c2106bc3bbb5f5b9d00c28983b20c43d2e7445b17c064"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lund c. La Reine
+
+- Citation: 2010 CCI 252
+- Decision date: 2010-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6606, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lund c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-07
+Référence neutre
+2010 CCI 252
+Numéro de dossier
+2009-3683(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3683(IT)I
+ENTRE :
+DAVID LUND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 avril 2010, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Mark Tonkovich
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2007 de l’appelant est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de mai 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 18e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 252
+Date : 20100507
+Dossier : 2009-3683(IT)I
+ENTRE :
+DAVID LUND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le Juge Webb
+[1] Une nouvelle cotisation a été établie à l’égard de l’appelant dans laquelle la déduction qu’il avait demandée au titre de frais de déménagement pour les dépenses relatives à son déménagement, en 2007, de Oakville (Ontario) au centre‑ville de Toronto, a été refusée. La seule question à trancher en l’espèce est de savoir si, aux fins de l’application de la définition de « réinstallation admissible » énoncée au paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi »), la distance entre l’ancienne résidence de l’appelant, à Oakville, et son nouveau lieu de travail doit être calculée en fonction de la route proposée par l’appelant (qui est de 53 kilomètres) ou bien en fonction de celle proposée par l’intimée (qui est de 33 kilomètres). Les deux parties conviennent que la distance entre la nouvelle résidence de l’appelant au centre‑ville de Toronto et son nouveau lieu de travail est de 9,8 kilomètres.
+[2] Comme le prévoit le paragraphe 62(1) de la Loi, un contribuable peut déduire dans le calcul de son revenu les sommes qu’il a payées au titre des frais de déménagement (qui n’ont pas été remboursées ou dont le total ne dépasse pas son revenu relativement à son emploi au nouveau lieu de travail) relativement à une réinstallation admissible. Le terme « réinstallation admissible » est défini au paragraphe 248(1) de la Loi, en partie, en ces termes :
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+[…]
+c) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[3] S’il s’avère que la route proposée par l’appelant est celle dont on doit tenir compte, à ce moment‑là, la distance, aux fins de l’application de la définition de « réinstallation admissible », entre l’ancienne résidence et le nouveau lieu de travail de l’appelant est de 53 kilomètres. Elle répond donc au critère énoncé à l’alinéa c) de la définition, étant donné que la distance entre la nouvelle résidence et le nouveau lieu de travail de l’appelant est de 9,8 kilomètres. S’il s’avère plutôt que la route dont on doit tenir compte est celle proposée par l’intimée, à ce moment‑là, la distance entre l’ancienne résidence et le nouveau lieu de travail de l’appelant n’est que de 33 kilomètres, ce qui ne répond pas au critère et fait en sorte que les frais de déménagement ne peuvent pas être déduits dans le calcul du revenu de l’appelant.
+[4] L’appelant a calculé la distance entre son ancienne résidence et son nouveau lieu de travail en fonction de la route qu’il privilégie à l’heure de pointe. L’appelant a décrit sa route ainsi que l’autre route plus courte en ces termes :
+[traduction]
+M. LUND : Pardonnez-moi, je vais revenir en arrière. On arrive sur l’autoroute 403 Nord en passant par le chemin Upper Middle. L’autoroute 403 prend fin et devient la 401, direction est. De l’autoroute 401 Est, je prendrais la 427, direction sud, qui rencontre la route express Gardiner.
+L’autre possibilité serait de prendre le chemin Upper Middle jusqu’à la rue Ford, direction sud, et ensuite de prendre l’autoroute Queen Elizabeth Way (la « QEW »), direction est. La QEW donne directement accès à la route express Gardiner. Personne sur la planète ne remettrait en question le fait qu’il s’agit là du chemin le plus court. Cependant, la QEW est une vieille autoroute. Elle n’a que trois voies. Il n’y a aucune voie réservée aux véhicules à occupation multiple (VOM). S’il y a plus qu’une personne dans le véhicule, vous pouvez emprunter la voie réservée aux VOM. À plusieurs endroits sur cette autoroute, il n’y a pas d’accotement. Il n’y a pas de route collectrice. Les bretelles de convergence sont courtes. La circulation sur cette autoroute devient congestionnée très rapidement.
+Par conséquent, la façon la plus rapide de se rendre à mon lieu de travail dans cette région métropolitaine, si vous habitez dans le nord-est d’Oakville, est de prendre les routes 403, 401 et 427. Il faut passer par Gardiner d’une façon ou d’une autre, alors cet élément n’entre pas vraiment en ligne de compte.
+Après avoir habité à Oakville pendant plus de quatre ans et avoir eu à me rendre au centre‑ville presque chaque jour (je ne m’y rendais pas toujours en voiture, je prenais parfois le train), j’ai conclu que le chemin le plus rapide, le moins demandant et le moins stressant était, la plupart du temps, les routes 403, 401 et 427.
+L’autre option, soit emprunter la QEW, est cauchemardesque. Donc le temps, en vérité…
+[5] L’autoroute Queen Elizabeth Way (la « QEW »), la route mentionnée par l’appelant, est la route que propose l’intimée. Dans la réponse à l’avis d’appel, on mentionne que cette route fait 35,5 kilomètres, de l’ancienne résidence de l’appelant à son nouveau lieu de travail. Dans son témoignage, l’appelant a affirmé que cette route faisait 33 kilomètres, de son ancienne résidence à son nouveau lieu de travail. Pour ce qui est de trancher le présent appel, il importe peu si la route fait 33 kilomètres ou 35,5 kilomètres, étant donné que l’appelant ne peut avoir gain de cause avec ni l’une ni l’autre de ces distances, s’il s’avère que cette route est celle dont on doit tenir compte aux fins de l’application de la définition de « réinstallation admissible » énoncée au paragraphe 248(1) de la Loi.
+[6] L’appelant a affirmé que la route qu’il privilégiait pour se rendre au centre‑ville était plus rapide et qu’il économisait en moyenne dix minutes dans ses déplacements. L’appelant a appelé un témoin dont le travail est de conduire une limousine. Ce témoin a, lui aussi, affirmé que la route qu’il privilégiait pour se rendre d’Oakville au centre‑ville de Toronto était la route proposée par l’appelant. Il a mis l’accent sur le fait que la route proposée par l’appelant comportait des voies réservées aux véhicules, ce qui n’est pas le cas sur la QEW.
+[7] L’appelant a aussi présenté en preuve des copies de diverses pages tirées du site Web du ministère des Transports montrant la densité de la circulation sur chacune des deux routes (celle proposée par l’appelant et celle proposée par l’intimée). Il semble évident que la circulation sur chacune des routes est assez dense, mais comme les autoroutes qui se trouvent sur la route proposée par l’appelant comportent plus de voies que celle de la route proposée par l’intimée, la route de l’appelant est mieux adaptée pour accommoder un plus important volume de circulation.
+[8] La définition de « réinstallation admissible » renvoie à la « distance ». Dans l’arrêt de la Cour d’appel fédérale Giannakopoulos v. Minister of National Revenue, [1995] 2 C.T.C. 316, 95 D.T.C. 5477, 185 N.R. 84, [1995] 3 F.C. 294, le juge Marceau, au nom de la Cour d’appel fédérale, s’est exprimé en ces termes :
+7 En vertu du paragraphe 62(1), le contribuable peut déduire ses frais de déménagement lorsqu’il se rapproche de son nouveau lieu de travail. L’employé doit résider à une distance raisonnable de son travail. Lorsqu’il accepte un nouvel emploi, il peut se voir forcé de déménager afin de demeurer à une distance pratique de son travail. Au paragraphe 62(1), on reconnaît que la réinstallation constitue une dépense légitimement liée au travail. Pour fermer la porte aux tentatives d’un contribuable d’invoquer la disposition lorsqu’il désire simplement changer de résidence, la disposition requiert que le déménagement rapproche le contribuable de son travail d’au moins 40 kilomètres. En temps normal, le contribuable se rend au travail en empruntant les voies publiques normales, c’est-à-dire les routes, les autoroutes et les voies ferrées. Il est donc logique, pour déterminer si, par son déménagement, le contribuable s’est réellement rapproché de 40 kilomètres de son travail, de mesurer la distance en question en utilisant les voies réelles de transport. Pour respecter l’objectif de la disposition, il y a lieu d’adopter une méthode réaliste de calcul du trajet. La méthode de la ligne droite ne tient aucunement compte de la façon dont un employé se rend au travail. Il serait illogique d’appliquer cette méthode dans le cadre d’une disposition dont l’objet est de reconnaître les frais de réinstallation liés au travail. Il en découlerait des absurdités dans les cas où l’ancienne résidence et le nouveau lieu de travail sont séparés par une étendue d’eau. Le contribuable qui déménage d’une rive à l’autre d’un cours d’eau pour se rapprocher de son travail peut ne s’être déplacé que de quelques milles « à vol d’oiseau », alors qu’il peut en fait s’être rapproché de plusieurs douzaines de milles de son travail. C’est en fait exactement ce qui s’est produit dans l’affaire Cameron (D.) c. M.R.N.*, où le contribuable a quitté Aylmer (Québec) pour déménager de l’autre côté de la rivière des Outaouais, à Kars (Ontario). La Cour canadienne de l’impôt a conclu qu’il ne pouvait déduire ses frais de déménagement parce que la distance franchie était inférieure à 40 kilomètres suivant un calcul effectué en ligne droite.
+8 Dans l’affaire Bernier (J.-C.) Succession c. M.R.N.*, le juge Lamarre Proulx de la Cour canadienne de l’impôt s’est estimée liée par les décisions antérieures, mais seulement après avoir exprimé son opinion dissidente :
+À mon sens, la solution de droit que le paragraphe 62(1) apporte doit s’interpréter dans le contexte des travailleurs et la distance dont il y est question doit se mesurer selon la route normale du travailleur ou celle qui devrait être normalement sa route parcourue pour se rendre de sa résidence à son lieu de travail.
+9 Si la notion de route normale est plus réaliste et sert davantage l’objectif de l’article en question, je n’irais pas aussi loin que le juge Lamarre Proulx paraissait disposée à aller, c’est-à-dire jusqu’à accepter un calcul fondé simplement sur la route normale qu’emprunte le travailleur ou celle qu’il emprunterait normalement pour se rendre de sa résidence à son lieu de travail. Une méthode aussi subjective serait source d’incertitude et risquerait ainsi de devenir un « piège à litiges ». C’est exactement la raison que les juges ont invoquée pour expliquer leur adhésion à la méthode de la ligne droite. Il y a lieu de faire davantage preuve d’objectivité. La notion de la route la plus courte que l’employé emprunte pour se rendre au travail devrait être jointe à celle de la route normale pour le voyageur. Par conséquent, le critère de la route normale la plus courte est préférable à la méthode de la ligne droite, puisqu’il est à la fois réaliste et précis. Il sert également l’objectif de la disposition. Suivant ce critère, on ne s’attendrait pas à ce que le contribuable emprunte une route inhabituelle, comme une route non entretenue ou non pavée. Il laisserait également plus de latitude pour considérer le transport non seulement sur les routes, mais également sur les traversiers et les voies ferrées*.
+(L’astérisque (*) signifie qu’une note en bas de page avait été insérée dans l’arrêt rendu par la Cour d’appel fédérale.)
+[9] Dans la décision Nagy c. La Reine, 2007 CCI 394, 2007 D.T.C. 1208, [2007] 5 C.T.C. 2642, après avoir renvoyé à l’arrêt Giannakopoulos, le juge en chef Bowman (tel était alors son titre) a affirmé ce qui suit :
+11 L’avocat m’invite à interpréter le passage tiré de l’arrêt Giannakopoulos comme exigeant que tous les itinéraires possibles soient mesurés machinalement et que l’on choisisse l’itinéraire le plus court, et ce, peu importe qu’une personne raisonnable suive ou non cet itinéraire. Or, l’itinéraire qui, selon l’intimée, est le plus court comporte 18 virages à gauche et 19 virages à droite et exige que l’on emprunte une quarantaine de routes, dont certaines sont des routes rurales, et que l’on passe par la ville de Brampton, où la circulation est intense. Je joins l’annexe A, onglet 4 de la pièce R‑1, qui indique les nombreux zigzags qui devraient être effectués selon la Couronne pour arriver à l’itinéraire [traduction] « le plus court », comme l’exige selon elle la Cour d’appel fédérale. L’approche suivie par l’intimée montre simplement jusqu’à quel point l’irrationalité machinale l’emporte sur le bon sens. Aucune personne rationnelle ne suivrait un tel itinéraire. De fait, quiconque essaierait de suivre ces instructions se perdrait à moins d’avoir dans la voiture un passager qui lui donne des instructions. L’approche préconisée par la Couronne représente une tentative visant à annuler l’effet salutaire de la décision rendue par la Cour d’appel fédérale, qui tente de remplacer l’approche machinale irréfléchie qui l’emportait avant que la décision Giannakopoulos soit rendue par un certain degré de bon sens et de rationalité.
+12 La Cour d’appel fédérale ne propose aucune approche automate de ce genre. Dans ses motifs, le juge Marceau parle d’une « méthode réaliste de calcul du trajet ». Il dit également que « la notion de la route la plus courte que l’employé emprunte pour se rendre au travail devrait être jointe à celle de la route normale pour le voyageur » (Je souligne). Son emploi des mots « réaliste » et « normal » donne à entendre que la raison et le bon sens doivent entrer en ligne de compte dans le calcul de la distance. Les 38 virages sinueux proposés par la Couronne ne sont ni réalistes, ni normaux, ni raisonnables, ni sensés. De certaines façons, cette approche est encore plus insensée que la méthode de la ligne droite. La méthode de la ligne droite serait au moins sensée pour un oiseau. L’approche basée sur 40 routes en zigzag est tout à fait insensée pour qui que ce soit.
+[10] Comme l’a souligné le juge Marceau, précité :
+La notion de la route la plus courte que l’employé emprunte pour se rendre au travail devrait être jointe à celle de la route normale pour le voyageur. Par conséquent, le critère de la route normale la plus courte est préférable à la méthode de la ligne droite, puisqu’il est à la fois réaliste et précis.
+(Non souligné dans l’original.)
+[11] La Cour d’appel fédérale a catégoriquement rejeté la mesure de la route fondée uniquement sur la route normale empruntée par une personne en particulier et a affirmé que le critère devrait être fondé sur la « route normale la plus courte ». En l’espèce, la route proposée par l’intimée (l’autoroute QEW) est clairement plus courte que la route que privilégie l’appelant (comme l’a admis l’appelant), et c’était d’ailleurs cette route qu’empruntait l’appelant pour se rendre au centre‑ville hors des heures de pointe. Il ressort clairement de la carte présentée en preuve et des directions fournies par l’appelant que la route proposée par l’intimée ne comporte pas les mêmes problèmes que celle proposée par la Couronne dans Nagy. Si on se fie à la densité de la circulation, comme l’a souligné l’appelant, il est évident que bon nombre de gens utilisent la QEW. Le problème de l’appelant est que trop de gens utilisent la QEW. Si moins de gens l’utilisaient, l’appelant l’aurait empruntée. Il a d’ailleurs affirmé qu’il l’empruntait parfois pour se rendre au centre‑ville hors des heures de pointe.
+[12] Malheureusement pour l’appelant, le critère est fondé sur la distance de la « route normale la plus courte », non pas sur la route dont le trajet prend moins de temps à parcourir. L’appelant n’a pas établi que la route QEW n’était pas une route normale. À mon avis, on peut considérer les deux routes comme étant des routes normales (étant donné la circulation très dense sur chacune d’entre elles). On applique donc le critère en fonction de la route normale la plus courte, en matière de distance, ce qui s’avère être la QEW.
+[13] Par conséquent, l’appel est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de mai 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 18e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 252
+N° DE DOSSIER : 2009-3683(IT)I
+INTITULÉ : DAVID LUND ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 9 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 7 mai 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Mark Tonkovich
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

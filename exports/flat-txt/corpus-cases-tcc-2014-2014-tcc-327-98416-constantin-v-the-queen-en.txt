@@ -1,0 +1,259 @@
+Title: Constantin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98416/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-327-98416-constantin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-11-06
+
+# Constantin v. The Queen
+
+- Citation: 2014 TCC 327
+- Decision date: 2014-11-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5262, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Constantin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-06
+Neutral citation
+2014 TCC 327
+File numbers
+2013-3528(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2013-3528(IT)I,
+2013-3529(IT)I, 2013-3530(IT)I
+BETWEEN:
+NATHALIE CONSTANTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[UNOFFICIAL ENGLISH TRANSLATION]
+Appeals heard on July 18, 2013, at Sherbrooke, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Christina Ham
+JUDGMENT
+The appeals from reassessments made by the Minister of National Revenue pursuant to the Income Tax Act, notices of which are dated June 13, 2013, concerning the 2007 and 2009 taxation years and May 20, 2011, concerning the 2008 taxation year, are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of November 2014.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 19th day of December 2014
+Mary Jo Egan, LLB.
+Citation: 2014 TCC 327
+Date: 20141106
+Dockets: 2013-3528(IT)I,
+2013-3529(IT)I, 2013-3530(IT)I
+BETWEEN:
+NATHALIE CONSTANTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[UNOFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals from reassessments made by the Minister of National Revenue (the Minister) pursuant to the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act); the notice dated June 13, 2013, concerns the 2007 and 2009 taxation years, and the notice dated May 20, 2011, concerns the 2008 taxation year.
+[2] The issue is the tax treatment of the net profit realized by the appellant on disposition of immovables during each of the taxation years at issue.
+[3] Concerning the 2007 taxation year, the only issue is the net profit of $41,227 that the Minister considered (to be) net business income resulting from the sale of two immovables.
+[4] Concerning the 2008 taxation year, the only issue is the net profit of $9,098 that the Minister considered (to be) net business income resulting from the sale of one immovable.
+[5] Concerning the 2009 taxation year, the only issue is the net profit of $53,486 that the Minister considered to be net business income resulting from the sale of three immovables.
+[6] In setting the tax payable by the appellant, the Minister relied on the following facts set out in the three Replies to the three Notices of Appeal:
+[translation]
+(a) between 2007 and 2010, the appellant, her spouse Patrice Hébert and the Fiducie Hébert Trust (Trust), which she is a co-trustee of with her spouse, entered into 19 separate sale transactions, including six transactions by the appellant as the sole owner;
+(b) in her income tax returns for 2007, 2008 and 2009, the appellant declared the disposition of the following five immovables:
+Immovables
+Acquisition date
+Date of sale
+Period of possession
+75 De l'Érablière, Eastman
+May 2, 2007
+June 28, 2007
+2 months
+3135-3141 Laurier East, Montréal
+April 12, 2006
+March 5, 2007
+11 months
+1460 Cabana Street, Sherbrooke
+May 2, 2007
+June 2, 2008
+11 months
+1591-1595 Montarville, Longueuil
+June 20, 2008
+May 20, 2009
+11 months
+1631 de Lorimier, Longueuil
+August 18, 2008
+May 19, 2009
+9 months
+(c) the average period of possession of these five immovables was 9 months;
+(d) in August 2006, the appellant and her spouse claim that they wanted to move to the Eastern Townships in July 2008 and sell the immovable at 75 De l'Érablière Street in Eastman so that they would not have to manage it from a distance;
+(e) in November 2006, the Trust acquired four rental immovables in the Montréal area;
+(f) in June 2007, the Trust acquired a rental immovable in the Montréal area;
+(g) the pretext related to the expected or unexpected move to the Eastern Townships did not stop the appellant from purchasing and reselling immovables;
+(h) the appellant claims that she wanted to keep the immovables in order to generate rental income and extra income during retirement even though
+(i) her rental losses were $24,734 for 2004 and 2009;
+(ii) the appellant did not keep any immovable for the long term.
+(i) one of the arguments for reselling the immovables within a short time was that the rents were too low even though the appellant
+(i) has a lot of experience and could not have been unaware that the price of income properties is determined on the basis of rents;
+(ii) made a profit on each disposition of the income properties;
+(iii) declared capital gains of $224,858 for the 2005 to 2009 taxation years;
+(j) one of the appellant’s real estate agents was Paul-André Huard, an associate of the appellant’s spouse and of the Trust in a number of real estate transactions;
+(k) Mr. Huard is a real estate negotiator, and the appellant’s spouse is a real estate manager;
+(l) in an interview with the auditor, Mr. Huard acknowledged that his role was to find opportunities for purchasing immovables that had good potential for profit on resale;
+(m) considering the growing market, the intention to resell at a profit played an important role in the appellant’s decision to acquire immovables;
+(n) in light of the foregoing, the Minister determined that the appellant’s real estate transactions were commercial in nature and that the income generated by these transactions was business income.
+75 De l’Érablière Street
+(o) on May 2, 2007, the appellant acquired 50% of a parcel of land in Eastman, Quebec, from the ex-spouse of Vincent Beauregard, who held the other 50%;
+(p) the appellant had a cottage built on the land, and the construction of the cottage ended in May or June 2007;
+(q) the cottage was sold on June 28, 2007;
+(r) the alleged rental advertisements for the cottage appeared in February and May 2007, while the cottage was being built;
+(s) the sale price of the cottage was representative of the sale prices of similar properties in that locality;
+(t) in a meeting with the auditor, Vincent Beauregard said he could not afford to keep the cottage;
+(u) the appellant intended to sell this property at the time the construction of the cottage began;
+(v) as part of the audit, the Minister revised the calculation based on the disposition of the cottage as follows:
+Reported
+Revised
+Proceeds of disposition
+$250,000
+$250,000
+Adjusted cost base
+213,784
+194,739
+Total net business income
+0
+55,261
+Net business income for the appellant
+0
+27,631
+Capital gain
+36,216
+0
+Taxable capital gain
+18,108
+0
+Appellant’s share
+9,504
+0
+(w) at the objection stage, the Minister allowed additional expenses of $18,946 for 75 De l’Érablière Street, representing a decrease in business income of $9,473;
+(x) accordingly, the profit from this immovable was revised to $18,158;
+3135–3141 Laurier East
+(y) on April 12, 2006, the appellant acquired the immovable for $150,000;
+(z) on March 5, 2007, 11 months after the triplex was acquired, the immovable was sold for $255,000;
+(aa) the disposition expenses were $46,175, which included $41,042 for the commissions paid for the purchase and sale of the immovable;
+(bb) at the objection stage, the Minister agreed to reduce the sale price of the immovable by $35,706;
+(cc) accordingly, the profit from this immovable was revised to $23,119;
+1460 Cabana Street
+(o) on May 2, 2007, the appellant and Vincent Beauregard acquired the immovable in equal shares for $194,500;
+(p) on June 2, 2008, 9 months after the acquisition, the immovable was sold for $235,000;
+(q) the disposition expenses were $22,305;
+1591–1595 Montarville
+(o) on June 20, 2008, the appellant became the sole owner of the immovable for $226,500;
+(p) on May 20, 2009, 11 months after the triplex was acquired, the immovable was sold for $329,000;
+(q) the disposition expenses were $15,110;
+(r) at the objection stage, the Minister agreed to decrease the sale price of the immovable by $66,000;
+(s) accordingly, the profit from this immovable was revised to $21,390;
+1631 Delorimier Street
+(t) on August 18, 2008, the appellant and the Trust acquired the immovable in equal shares for $242,500;
+(u) on May 19, 2009, 9 months after the triplex was acquired, the immovable was sold for $359,000;
+(v) the disposition expenses were $21,308;
+(w) at the objection stage, the Minister agreed to decrease the sale price of the immovable by $71,000;
+(x) accordingly, the profit from this immovable was revised to $12,096.
+561–565 Longtin Street, Laprairie
+(y) on February 15, 2008, the appellant and her spouse acquired the immovable in equal shares for $220,000;
+(z) on June 25, 2009, 16 months after the acquisition, the immovable was sold for $292,000;
+(aa) the appellant did not declare any income with respect to the disposition of this immovable;
+(bb) at the objection stage, the Minister calculated business income on the disposition of the immovable as follows:
+Proceeds of disposition
+$292,000
+Less amount remitted to the purchasers
+1,440
+$290,560
+Adjusted cost base
+229,176
+Disposition expenses
+21,383
+250,559
+Total net business income
+40,001
+Net business income for the appellant
+20,000
+(cc) the Minister allowed a rental loss of $1,740 that the appellant claimed at the objection stage;
+(dd) accordingly, the profit from this immovable was $18,260.
+[7] Ms. Constantin testified at the hearing. She has been a co-owner with Vincent Beauregard of a flooring business in Magog since 2011. From 2001 to 2010, Ms. Constantin was a training advisor for Investors Group. She stated that she acquired immovables in order to have an income at retirement and to achieve financial independence. She has been the common‑law spouse of Patrice Hébert for about thirty years. He owned a construction company; part of its activities consisted in purchasing and selling immovables in the Magog region in the Eastern Townships. From 2007 to 2010, Mr. Hébert managed his immovables himself.
+[8] During the years at issue, Ms. Constantin and her spouse lived in Saint‑Lambert. Ms. Constantin’s mother also lived in Saint-Lambert, three minutes from her house. Ms. Constantin said the reason for selling the immovables was that she wanted to move to the Eastern Townships.
+[9] In the fall of 2006, Ms. Constantin and her spouse decided to move to the Eastern Townships by July 2008 at the latest. Following this decision, Ms. Constantin claims to have sold the immovable located at 3135-3141 Laurier Street in Montréal. This immovable, a triplex, had been acquired in April 2006 for $150,000. The immovable required significant renovations, but she did not do them. Instead, she decided to put the immovable up for sale in its current state. The immovable was sold on March 5, 2007, for $255,000. The appellant had to compensate the purchaser for electrical and plumbing work that he had to do after acquiring the immovable. The sale price of the immovable was reduced by $35,706 to take into account the compensation to the purchaser.
+[10] Following the decision to move to the Eastern Townships, Ms. Constantin decided to have a rental cottage built in Domaine Orford-sur-le-lac, at 75 De l'Erablière Street. On May 2, 2007, the appellant acquired from the ex‑spouse of Vincent Beauregard, a family friend, 50% of the land on which a cottage was being built. The construction of the cottage ended in May or June 2007. The cottage was equipped with everything needed for a rental. According to the appellant, only one rental was set up for July 2007, which was only for a two‑week period. The cottage was sold on June 28, 2007, for $250,000 pursuant to an unsolicited offer to purchase from a friend of someone who lived in Domaine.
+[11] On May 2, 2007, the same day that Ms. Constantin acquired a 50% interest in the land in Domaine Orford-sur-le-lac, Ms. Constantin acquired, in equal shares with Vincent Beauregard, an immovable located at 1460 Cabana Street in Sherbrooke. The immovable included four apartments that were rented to students. The price paid to acquire the immovable was $194,500, and it was resold on June 2, 2008, for $235,000. The appellant justified the sale of this immovable and of the cottage by the fact that her mother became seriously ill in October 2007, which resulted in cancelling the decision to move to the Eastern Townships. A real estate agent was given a mandate to sell the immovable located at 1460 Cabana Street in Sherbrooke.
+[12] Following the decision to not move to the Eastern Townships, the appellant decided to rebuild her real estate portfolio on Montréal’s South Shore. In 2008, the appellant purchased two immovables, each with three housing units, located at 1591-1595 and 1597-1601 Montarville Street in Longueuil and two other immovables, one located at 1631 Delorimier Street in Longueuil and the other at 561-565 Longtin Street in Laprairie.
+[13] The appellant acquired the immovables located on Montarville Street on June 20, 2008, for $226,500. They were, in fact, two attached triplexes belonging to the same owner. The triplex at 1591-1595 Montarville Street was resold on May 20, 2009, for $329,000; the sale price was reduced by $66,000. The other triplex was sold in 2010, after the years at issue. A real estate agent was given a mandate to sell both immovables. According to the appellant, the decision to move to the Eastern Townships in 2010 was the reason why she divested herself of her immovables on Montréal’s South Shore.
+[14] The immovable located at 1631 Delorimier Street, a triplex, was acquired on August 18, 2008, for $242,500 by the appellant and the François Hébert Trust in equal shares. Mr. Hébert is a cousin of the appellant’s spouse who handled the appellant’s accounting. The immovable was sold on May 19, 2009, for $359,000; the sale price was reduced by $71,000 at the objection stage. The appellant confirmed that she had given a real estate agent a mandate to sell the immovable.
+[15] The immovable located at 561-564 Longtin Street in Laprairie, a triplex, was acquired on February 15, 2008, for $220,000 by the appellant and François Hébert in equal shares. The immovable was sold on June 25, 2009, for $292,000.
+[16] In her testimony, Ms. Constantin acknowledged that she had used the services of Paul-André Huard to identify potential purchases of immovables and to manage the immovables located on Montréal’s South Shore. Ms. Constantin stated that she did not have a contract with Mr. Huard and that she paid him $3,000 to $4,000 a year per immovable for his management services. Ms. Constantin also paid him a commission (in the order) of 4% to 5% when an immovable was acquired.
+[17] Ms. Constantin also explained that, on acquiring an immovable, she paid at least 25% of the purchase price in cash to avoid having to insure the hypothecary loan with the Canada Mortgage and Housing Corporation and that she preferred a closed one‑year hypothec.
+[18] Ms. Constantin did in fact move to the Eastern Townships in June 2010, despite the fact that her mother did not die until 2011. She stated that in 2010 she sold the house in Saint-Lambert that had been purchased in 1996 as well as the cottage she had owned with her spouse since 2002, located at 18 Du Ruisseau Street in Domaine d'Orford-sur-le-lac and that in the same year she acquired a new house and a rental immovable, both located in Eastman.
+[19] Concerning the Hébert Trust, which she was co‑trustee of with her spouse, Ms. Constantin stated that she had never been involved in managing the trust and did not know about the real estate transactions the trust had engaged in. She was not a beneficiary of the trust and, according to her, her spouse could replace her at will. The respondent filed the following documents in evidence: (a) the deed of gift and the Hébert Trust trust agreement dated May 26, 2000; (b) the power of attorney under private writing dated May 27, 2000, of Nathalie Constantin acting in her capacity as trustee of the Hébert Trust in favour of Patrice Hébert, making him her attorney and mandatary with the power to exercise for her and on her behalf as a trustee all the powers set out in the deed of trust and (c) Nathalie Constantin’s notarized power of attorney as trustee of the Hébert Trust naming and appointing Patrice Hébert as her attorney and mandatary with the power to act for her and on her behalf as a trustee, to sign contracts of purchase or sale of any immovable, hypothecs, credit contracts, acquittances or discharges of hypothec, etc., which power of attorney was dated December 10, 2007.
+Analysis and conclusion [20] As I stated in Ayala v. The Queen, 2010 TCC 206, at paragraphs 9, 10 and 11, the following principles apply when an immovable is sold:
+[9] . . . the Act does not have a criterion that allows for a distinction to be made between capital gain and business income (including income from an adventure in the nature of trade), requiring the Court to refer to the criteria developed in the case law. However, there is no criterion to determine with certainty whether a transaction leads to a capital gain or business income. Each situation is a specific case to be analyzed in light of the facts.
+[10] Among the criteria developed by the case law, the following are of note:
+i. The nature of the property sold;
+ii. The length of time the taxpayer was in possession as owner of the property;
+iii. The frequency and number of operations carried out by the taxpayer;
+iv. The improvements made by the taxpayer to the property;
+v. The circumstances surrounding the sale of the property; and
+vi. The taxpayer’s intention at the time the property was acquired, as indicated by the taxpayer’s actions.
+[11] In addition to these criteria, Canadian courts have developed the "secondary intention" criterion that may apply even when the taxpayer's main intention has been established as making a long-term investment. This criterion applies if, at the time the property was acquired, the taxpayer had considered the possibility of selling the property for a profit if the long-term investment project could not be achieved for whatever reason.
+[21] In this case, the appellant has business experience and a business background. As a training advisor for Investors Group, the appellant dealt with sales techniques, the use of computer equipment, tax and succession planning and the use of marketing tools. The appellant also knew a number of people involved in numerous real estate transactions including her spouse, a building contractor, the Hébert Trust of which she was a co‑trustee, François Hébert, her accountant and her spouse’s cousin, Paul-André Huard, who identified immovables to acquire and managed those immovables, and Vincent Beauregard, her business partner. The appellant conducted transactions with each of these individuals other than the Hébert Trust.
+[22] During the 2007, 2008 and 2009 taxation years, the appellant carried out six transactions, in which the period of possession of the immovables varied from 2 to 16 months. In only one case did the period of possession exceed 11 months. Other than the immovable located at 75 De l'Érablière Street, the immovables were all rental immovables.
+[23] A review of the applicable criteria, indicated above, leads me to conclude that it is much more probable and likely that the appellant acquired the immovables for the purpose of reselling them at a profit at the earliest opportunity rather than considering them as long‑term investments.
+[24] On the facts, I see nothing that would lead me to believe the appellant’s version that she intended to build a diversified retirement portfolio with the assistance of two or three income properties. The facts and the appellant’s actions instead tend to demonstrate that the appellant’s first intention was to make short‑term investments. As a rule, the appellant financed her acquisitions of immovables through a closed one‑year hypothec only.
+[25] The other argument put forward by the appellant that she resigned herself to sell the immovables acquired in the Eastern Townships because of her mother’s illness does not hold up because she was not managing those immovables herself. Vincent Beauregard managed those immovables. The appellant could easily have kept those immovables as she did with her cottage located at 18 Du Ruisseau in Orford-sur-le-Lac that she had owned since 2002.
+[26] For the same reason, I do not believe that the decision made in 2008 to move to the Eastern Townships was the real reason for selling the immovables on Montréal’s South Shore because the appellant was not involved in managing those immovables. The three immovables were managed by Paul‑André Huart.
+[27] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 6th day of November 2014.
+“Judge Favreau”
+Favreau J.
+Translation certified true
+This 19th day of December 2014
+Mary Jo Egan, LLB
+CITATION:
+2014 TCC 327
+COURT FILE NOS.
+2013-3528(IT)I, 2013-3529(IT)I, 2013‑3530(IT)I
+STYLE OF CAUSE:
+Nathalie Constantin and Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+July 18, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 6, 2014
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Christina Ham
+SOLICITOR OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

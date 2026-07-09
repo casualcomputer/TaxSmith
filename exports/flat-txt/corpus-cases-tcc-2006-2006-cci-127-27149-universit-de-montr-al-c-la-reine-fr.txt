@@ -1,0 +1,148 @@
+Title: Université de Montréal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27149/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-127-27149-universit-de-montr-al-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-03-14
+
+# Université de Montréal c. La Reine
+
+- Citation: 2006 CCI 127
+- Decision date: 2006-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1018, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Université de Montréal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-14
+Référence neutre
+2006 CCI 127
+Numéro de dossier
+2005-2965(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2965(GST)G
+ENTRE :
+UNIVERSITÉ DE MONTRÉAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 30 janvier 2006, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Maurice Mongrain
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+ORDONNANCE
+Vu la requête déposée par l'intimée en vertu du paragraphe 58(3) des Règles de la Cour canadienne de l'impôt (procédure générale) demandant à la Cour le rejet, avec dépens, de l'appel de la cotisation établie le 31 janvier 2000 par le ministre du revenu au Québec au nom du ministre du Revenu national à l'égard de l'appelante en vertu de la Partie IX de la Loi sur la taxe d'accise, L.R.C. (1985), ch. E-15, dont l'avis est daté du 31 janvier 2000;
+Et vu les allégations des parties;
+La requête est accueillie, avec dépens, selon les motifs de l'ordonnance ci-joints.
+Signée à Ottawa, Canada, ce 14e jour de mars 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI127
+Date : 20060314
+Dossier : 2005-2965(GST)G
+Référence : 2005CCI212
+Date : 20051220
+ENTRE :
+UNIVERSITÉ DE MONTRÉAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bédard
+[1] Il s'agit d'une requête déposée par l'intimée en vertu du paragraphe 58(3) des Règles de la Cour canadienne de l'impôt (procédure générale) demandant à la Cour le rejet, avec dépens, de l'appel de la cotisation établie le 31 janvier 2000 par le ministre du revenu au Québec (le « Ministre » ) au nom du ministre du Revenu national à l'égard de l'appelante en vertu de la Partie IX de la Loi sur la taxe d'accise, L.R.C. (1985), ch. E-15 (L.T.A.), dont l'avis est daté du 31 janvier 2000.
+Les faits
+[2] Le 14 avril 2000, soit dans le délai prescrit, l'appelante a présenté au Ministre un avis d'opposition à l'encontre de la cotisation en cause. Le 20 avril 2000, le Ministre a accusé réception de l'avis d'opposition. Le 26 avril 2002, en réponse à l'avis d'opposition, le Ministre a, conformément au paragraphe 301(5) de la L.T.A., notifié, par courrier certifié, l'appelante de sa décision de confirmer la cotisation en cause. Toujours le 26 avril 2002, une lettre accompagnée de la décision sur opposition a été expédiée au procureur de l'appelante. Le ou vers le 29 avril 2002, la décision sur opposition a été reçue par l'appelante. Le 19 août 2005, l'appelante a interjeté appel de la cotisation établie à son égard. Le greffe de la Cour a accusé réception de l'avis d'appel et a ouvert le présent dossier. L'appelante n'a jamais déposé une demande de prorogation du délai pour interjeter appel de la cotisation établie à son égard.
+Position de l'appelante
+[3] Au cours de son argumentation, le procureur de l'appelante a expliqué qu'il n'avait pas interjeté appel pour sa cliente de la cotisation en cause dans le délai imparti pour ce faire parce qu'il n'avait pris connaissance que très récemment de la décision du Ministre sur opposition. Il a expliqué qu'il ne pouvait pas savoir qu'une telle décision avait été rendue, non seulement parce qu'il n'avait pas reçu du Ministre la lettre de courtoisie (accompagnée de la décision sur opposition) datée du 26 avril 2002, mais aussi parce que sa cliente ne l'avait avisé que très récemment de la réception en avril 2002 de la décision sur opposition. Il a expliqué que sa cliente n'avait pas jugé bon de l'aviser plus tôt parce que l'avocate interne de cette dernière aurait conclu à la lecture de la décision sur opposition que je reproduis ici comme Annexe A, et plus particulièrement à la lecture des deux derniers paragraphes de la page 2 et du premier paragraphe de la page 3 de la décision, qu'il n'était pas nécessaire d'interjeter appel de la cotisation en cause tant et aussi longtemps que les tribunaux n'auraient pas statué dans une cause semblable (La Corporation de l'École Polytechnique de Montréal c. S.M.R.Q. (500-02-082980-009)) qui avait été portée en appel. Le procureur de l'appelante a soutenu que l'avocate interne de sa cliente avait interprété correctement la décision sur opposition et demande pour tous ces motifs que la requête du Ministre soit rejetée.
+Analyse
+[4] Premièrement, je suis d'avis que la décision sur opposition ne laisse aucune place à l'interprétation. En effet, il est clair à la lecture de la décision que l'appelante devait en appeler de la cotisation dans le délai imparti pour protéger ses droits au cas où la Cour ne renverserait pas la position adoptée par le Ministre dans la cause de laCorporation de l'École Polytechnique de Montréal. Tout au plus, cette décision laisse entendre que les droits de l'appelante seraient protégés au cas où la Cour renverserait la position adoptée par le Ministre dans cette cause.
+[5] Quant aux explications du procureur de l'appelante concernant le fait de ne pas avoir interjeté appel de la cotisation dans le délai imparti, je souligne qu'elles auraient peut-être été suffisantes, si la preuve en avait été faite, pour que la Cour accueille favorablement une demande de prorogation du délai pour interjeter appel de la cotisation en cause. Malheureusement, en vertu de l'alinéa 305(5)a) de la L.T.A. le délai pour déposer une telle demande expirait le 25 juillet 2003.
+[6] Jeudi le 25 juillet 2002, le délai pour interjeter appel de la cotisation en cause expirait, en vertu de l'article 306 in fine de la L.T.A., sans que l'appelante n'ait déposé un avis d'appel à cet effet. Par conséquent, je suis d'avis que, aux termes de l'article 306 de la L.T.A., la Cour n'a tout simplement pas compétence à l'égard de la cotisation en cause puisque l'avis d'appel de la cotisation a été déposé au greffe de la Cour hors du délai, soit plus de trois ans après la date à laquelle le délai échoyait.
+[7] Pour tous ces motifs, la requête est accueillie avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de mars 2006.
+« Paul Bédard »
+Juge Bédard
+ANNEXE A
+CERTIFIÉ LC 034 027 025
+Montréal, le 26 avril 2002
+Université de Montréal
+2900 Boul. Edouard Montpetit
+C.P. 6128 Succ. Centre Ville
+Montréal, (Québec)
+H3G 3J7
+Objet : Avis d'opposition
+N/Réf. : 156619-156620
+Monsieur,
+Comme suite à l'avis d'opposition que vous avez signifié, la décision sur opposition concernant la période de 1994-06-01 au 1997-05-31 est la suivante :
+La cotisation a été établie conformément aux dispositions de la loi notamment, mais sans restreindre la généralité de ce qui précède, en ce que
+LOI SUR LA TAXE D'ACCISE
+-1 º les intérêts et les pénalités ont été calculés conformément aux dispositions de la Loi sur la taxe d'accise.
+2 º la fourniture par l'université de Montréal d'une licence des droits d'exploitation et de commercialisation de la propriété intellectuelle à une « SPEQ » constitue une fourniture exonérée aux termes de l'exonération générale de l'article 2 de la partie VI de l'annexe V de la Loi sur la taxe d'accise. Par conséquent, la taxe payée par l'Université de Montréal lors de l'acquisition des droits de propriété intellectuelle ne donne pas droit à un crédit de taxe sur les intrants. Le rajustement de 1 111 947,44 $ est ainsi cotisé conformément aux dispositions de l'article 169 de la Loi sur la taxe d'accise.
+Cette application de la loi a par ailleurs été portée en appel dans la cause Corporation de l'École Polytechnique de Montréal c. La Reine (2000-386(GST)G).
+Le ministère du Revenu du Québec a adopté une politique administrative qui vous soustrait à l'obligation d'exercer vos recours judiciaires pour protéger vos droits au cas où le tribunal renverserait la position adoptée par le ministère du Revenu du Québec.
+A cet égard, le ministère du Revenu du Québec s'engage à modifier les cotisations faisant l'objet de la présente décision sur opposition en fonction, le cas échéant, des principes qui seront énoncés dans le jugement final à intervenir dans l'affaire Polytechnique.
+LOI SUR LA TAXE DE VENTE DU QUÉBEC
+1 º les intérêts ont été calculés conformément aux dispositions de la Loi sur le ministère du Revenu.
+2 º les droits de 197 610,21 $ cotisés à l'égard des acquisitions de périodiques ont été cotisés conformément aux dispositions des articles 17,81(8) et 81(8.1) de la Loi sur la taxe de vente du Québec.
+3 º la fourniture par l'université de Montréal d'une licence des droits d'exploitation et de commercialisation de la propriété intellectuelle à une « SPEQ » constitue une fourniture exonérée aux termes de l'exonération générale de l'article 141 de la Loi sur la taxe de vente du Québec. De plus, l'acquisition des droits de propriété intellectuelle par l'Université de Montréal ne peut se qualifier de fourniture non taxable tel que défini à l'article 1 de la Loi sur la taxe de vente du Québec avant son abrogation.
+Par conséquent, la taxe payée par l'Université de Montréal lors de l'acquisition des droits de propriété intellectuelle ne donne pas droit à un remboursement de taxe sur les intrants. Les droits de 602 662,98 $ ont donc été cotisés conformément aux dispositions de l'article 199 de la Loi sur la taxe de vente du Québec.
+Cette application de la loi a par ailleurs été portée en appel dans la cause La Corporation de l'École Polytechnique de Montréal c. SMRQ (500-02-082980-009).
+Le ministère du Revenu du Québec a adopté une politique administrative qui vous soustrait à l'obligation d'exercer vos recours judiciaires pour protéger vos droits au cas où le tribunal renverserait la position adoptée par le ministère du Revenu du Québec.
+A cet égard, le ministère du Revenu du Québec s'engage à modifier les cotisations faisant l'objet de la présente décision sur opposition en fonction, le cas échéant, des principes qui seront énoncés dans le jugement final à intervenir dans l'affaire Polytechnique.
+Si vous désirez obtenir des précisions, des renseignements additionnels ou, le cas échéant, une copie du mémoire sur opposition, vous pouvez communiquer avec la soussignée.
+Dans l'éventualité où vous désireriez en appeler de cette décision devant les tribunaux, veuillez vous référer au feuillet intitulé « Renseignements sur les recours judiciaires » et « Appel à la Cour canadienne de l'impôt concernant la TPS/TVH » qui est joint à la présente.
+Veuillez agréer l'expression de nos sentiments les meilleurs.
+Lucie Leduc, avocate
+Direction des oppositions- Montréal
+Dépôt D192LO
+Tél. : (514) 287-8324 ou 1-888-830-8808 (poste 8324)
+/jc
+p.j.
+c.c. Me Maurice Mongrain
+RÉFÉRENCE :
+2006CCI127
+No DU DOSSIER DE LA COUR :
+2005-2965(GST)G
+INTITULÉ DE LA CAUSE :
+Université de Montréal et Sa Majesté la Reine,
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 30 janvier 2006
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Paul Bédard
+DATE DE L'ORDONNANCE :
+Le 14 mars 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Maurice Mongrain
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Maurice Mongrain
+Étude :
+Desjardins Ducharme, s.e.n.c.r.l.
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

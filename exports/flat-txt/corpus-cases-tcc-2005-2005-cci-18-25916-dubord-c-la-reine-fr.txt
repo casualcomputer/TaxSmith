@@ -1,0 +1,113 @@
+Title: Dubord c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25916/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-18-25916-dubord-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-01-11
+
+# Dubord c. La Reine
+
+- Citation: 2005 CCI 18
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3714, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubord c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-11
+Référence neutre
+2005 CCI 18
+Numéro de dossier
+2004-2121(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2121(IT)I
+ENTRE :
+DANIELLE DUBORD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 6 décembre 2004 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI18
+Date : 20050111
+Dossier : 2004-2121(IT)I
+ENTRE :
+DANIELLE DUBORD,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelante interjette appel à l'encontre des nouvelles cotisations en date du 29 août 2003 pour ses années d'imposition 2000 et 2001 et à l'encontre de la nouvelle cotisation en date du 2 octobre 2003 pour son année d'imposition 2002. Dans ces cotisations, le ministre du Revenu national (le « ministre » ) a inclus dans le revenu de l'appelante des montants de pension alimentaire qu'elle a reçus de son ex-conjoint de fait. Ces sommes étaient de 7 996 $ en 2000, de 8 196 $ en 2001 et de 8 196 $ en 2002.
+[2] La question en litige est de savoir si l'appelante a reçu la pension alimentaire en vertu d'un jugement rendu par la Cour supérieure du Québec le 3 avril 1987 ou en vertu d'un deuxième jugement de la même cour en date du 11 octobre 1988.
+[3] Selon l'alinéa 56(1)c.1) de la Loi de l'impôt sur le revenu ( « la Loi » ), les paiements de pension alimentaire reçus en vertu d'une ordonnance rendue par un tribunal compétent après le 10 février 1988 et avant 1993 seraient imposables dans le calcul du revenu de l'appelante. Par contre, les paiements reçus en vertu d'une ordonnance rendue par un tribunal compétent avant le 11 février 1988 seraient imposables seulement si le payeur et le bénéficiaire avaient fait le choix à cet effet, ce qui n'est pas le cas ici.
+[4] Les deux jugements de la Cour supérieure en question ont été produits sous les cotes A-1 et A-4. Une convention conclue par l'appelante et son ex-conjoint de fait le 30 avril 1988 a été aussi produite sous la cote A-4.
+[5] Le premier jugement a établi que l'ex-conjoint de fait de l'appelante avait l'obligation de verser à cette dernière une pension alimentaire de 447,61 $ par mois pour sa fille pour une période d'un an à compter du 1er novembre 1986 et à 385 $ par mois par la suite. En même temps, le jugement établissait de façon provisoire le droit de visite de l'ex-conjoint de fait de l'appelante à l'égard de sa fille.
+[6] Le deuxième jugement entérinait une convention conclue par l'appelante et son ex-conjoint. La partie pertinente du deuxième jugement est rédigée comme suit :
+DONNE ACTE aux parties de leur convention en date du 10 août 1988, L'ENTÉRINE et la DÉCLARE EXÉCUTOIRE pour valoir somme si chacune des clauses en était ici au long récitée et ORDONNE aux parties de s'y conformer;
+[7] La convention même énonce en préambule les circonstances du premier jugement et le fait que les parties avaient eu recours à la conciliation et qu'elles en étaient venues à une entente. La plupart des stipulations de la convention portent sur la question de l'accès qu'aurait l'ex-conjoint de fait de l'appelante à sa fille, mais le paragraphe 2 prévoyait que l'appelante aurait la garde de leur fille et le paragraphe 5 prévoyait que l'ex-conjoint de fait devait remettre à l'appelante la somme de 385 $ par mois comme pension alimentaire.
+[8] L'appelante soutient que le jugement du 3 avril 1987 a fixé son droit de recevoir le pension alimentaire de son ex-conjoint et a aussi déterminé les droits d'accès et de visite de ce dernier à sa fille. Selon elle, l'obligation de payer la pension alimentaire établie par le premier jugement n'a pas été modifiée par le deuxième. Elle soutient que le fait que le préambule de la convention du 30 août 1988 fait référence à l'obligation existante de son ex-conjoint de fait concernant la pension alimentaire et le fait que le préambule était incorporé dans la convention mènent à la conclusion que la source de l'obligation n'a pas changé, que cette source était toujours le premier jugement. L'appelante a prétendu que par la convention du 30 août 1988 les parties entendaient régler seulement la question des droits d'accès et de visite. L'avocat de l'intimée soutient que le jugement du 11 octobre 1988 a fixé l'obligation de l'ex-conjoint de verser la pension alimentaire à l'appelante et a aussi déterminé les droits de visite et d'accès de ce dernier à l'égard de sa fille. Selon lui, ce deuxième jugement a plutôt eu pour effet de remplacer entièrement le premier jugement du 3 avril 1987 que d'y apporter certaines modifications. Il faut remarquer que le premier jugement prévoit que :
+... la présente ordonnance demeurera en vigueur tant et aussi longtemps que les parties n'en seront pas venues à une entente modifiant les modalités ci-haut prévues...
+[9] L'avocat de l'intimée souligne que la convention du 30 août 1988 traite de la question de la pension alimentaire que l'ex-conjoint doit verser, et ce, non seulement dans son préambule mais aussi dans ses conditions mêmes.
+[10] En effet, le paragraphe 5 indique :
+L'intimé remettra à la requérante le premier de chaque mois une rente alimentaire au montant de 385 ,00 $ pour le bénéfice et l'entretien de sa fille mineure Sarah, laquelle rente sera indexable à chaque année suivant la Loi;
+[11] L'avocat de l'intimée a fait référence à la décision de cette cour dans l'affaire Hill c. La Reine, [1993] A.C.I. no 317. Dans cette affaire, l'appelante s'opposait à ce que soient inclus dans son revenu certains montants de pension alimentaire. Jusqu'au 27 juin 1990, l'appelante avait reçu une pension alimentaire de 225 $ par mois qui n'était pas imposable. Au 27 juin 1990, une nouvelle ordonnance a été rendue qui augmentait la pension alimentaire à 450 $ par mois. La Cour dans cette affaire devait décider si l'ordonnance du 27 juin avait eu pour effet de supprimer le droit à la pension alimentaire découlant des ordonnances précédentes ou si elle avait eu pour effet d'augmenter le montant payable, sans changer le fondement des ordonnances antérieures.
+[12] Le juge Rowe, dans l'affaire Hill, précitée, a conclu que, puisque la Cour a rendu une nouvelle ordonnance établissant le paiement d'un certain montant, tout le montant était payable en vertu de la nouvelle ordonnance, non seulement la partie qui représentait une augmentation de la pension. Le fait de fixer le montant dans la nouvelle ordonnance a eu pour effet de créer un nouveau droit et une nouvelle obligation en ce qui concerne le montant indiqué. Une nouvelle ordonnance qui traite du même sujet ou de la même matière qu'une ordonnance antérieure est considéré avoir remplacé l'ordonnance antérieure et devient par la suite le fondement légal de l'obligation.
+[13] L'avocat de l'intimée a aussi fait référence à la décision de cette cour dans la l'affaire Pierre Gagnon c. La Reine, [2004] C.C.I. 551 (2002-2240(IT)I). Dans cette affaire, le ministre avait refusé à monsieur Gagnon (l'ex-conjoint de l'appelante dans la présente cause) la déduction, dans le calcul de son revenu pour les années d'imposition 1998, 1999 et 2000, des montants de pension alimentaire qu'il avait versés à son ex-conjointe (l'appelante dans la présente cause). Ayant devant lui essentiellement les mêmes faits, le juge Paris a conclu que le deuxième jugement de la Cour supérieure représente une nouvelle ordonnance en matière de pension alimentaire, même si le montant de l'obligation est resté au même niveau qu'avant. Selon lui, dès le 11 octobre 1988, la pension alimentaire était payée en vertu de ce jugement. Il ajoutait :
+À mon avis, cette conclusion découle aussi du fait que les parties à la convention du 30 août 1988 ont traité de façon exhaustive des questions de la garde, du droit de visite et de la pension alimentaire au lieu de demander simplement des modifications au jugement antérieur.
+[14] Pour les mêmes motifs que ceux énoncés par le juge Paris dans l'affaire Gagnon, précitée, je suis d'avis que le deuxième jugement de la Cour supérieure représente une nouvelle ordonnance en matière de pension alimentaire et que, dès le 11 octobre 1988, la pension alimentaire était payée en vertu de ce jugement et qu'ainsi les rentes alimentaires mensuelles devaient être incluses dans le calcul du revenu de l'appelante au titre de pension alimentaire en vertu de l'alinéa 56(1)b) de la Loi, et ce, pour les années en cause.
+[15] Pour tous ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 11e jour de janvier 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2005CCI18
+No DU DOSSIER DE LA COUR :
+2004-2121(IT)I
+INTITULÉ DE LA CAUSE :
+Danielle Dubord et S.M.R.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 6 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 11 janvier 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimée :
+Me Benoît Mandeville
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims
+Sous-procureur général du Canada
+Ottawa, Canada

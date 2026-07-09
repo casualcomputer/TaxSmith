@@ -1,0 +1,157 @@
+Title: St-Gelais v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27516/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-571-27516-st-gelais-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-11-08
+
+# St-Gelais v. The Queen
+
+- Citation: 2005 TCC 571
+- Decision date: 2005-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 12, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Gelais v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-08
+Neutral citation
+2005 TCC 571
+File numbers
+2005-835(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-835(IT)I
+BETWEEN:
+ALAIN ST-GELAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 17, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of November 2005.
+"Alain Tardif"
+Tardif J.
+Citation: 2005CCI571
+Date: 20051108
+Docket: 2005-835(IT)I
+BETWEEN:
+ALAIN ST-GELAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal relating to the 2003 taxation year. The issue in dispute is to determine whether the amount of $2,500 paid by the Appellant in accordance with an interim costs order of the Superior Court was deductible on the same basis as the amount expressly awarded as support.
+[2] The Respondent based its position on the following assumptions of fact to establish the Appellant's assessment:
+[translation]
+a) During the year in dispute, the Appellant paid support to his ex-wife for her own benefit and that of her daughter Sophie, according to the divorce judgment of November 25, 2002 and the judgment of March 28, 2003.
+b) Moreover, in accordance with the Superior Court judgment of March 28, 2003, the Appellant paid his ex-wife the sum of $2,500 under an interim costs order;
+c) The Minister determined that, of the amounts paid by the Appellant to his ex-wife, only the sum of $11,495 was paid for her benefit as support.
+[3] All the facts were admitted.
+[4] In support of his arguments, the Appellant produced various documents. First, he produced a copy of the Superior Court judgment rendered by the Honourable Jean Lemelin on March 28, 2003, bearing number 150-12-012248-017 (Exhibit A-1). The relevant part of this judgment reads as follows:
+[translation]
+[12] ORDERS Mr. Alain St-Gelais to pay Ms. Francine Potvin interim costs of $2,500, spread over a period of six months, in installments of $416.66 payable on the 1st of each month or any other terms on which the parties may agree.
+[5] Secondly, the Appellant produced Exhibit A-2, a copy of the cheques attesting that he complied with the judgment. Thirdly, he produced Exhibit A-3, a copy of a letter from the Canada Customs and Revenue Agency regarding the amount of $2,500. Finally, he produced Exhibit A-4, a copy of the receipt signed by the Appellant's ex-wife, the recipient of the interim costs, which reads as follows:
+[translation]
+Received from Alain St-Gelais February 21, 2004 $14,921.89
+the sum of fourteen thousand nine hundred and twenty-one (.89) dollars
+Support Francine Potvin
+27 payments of $460.07 = $12,421.89 (support)
+6 payments of $416.67 = $2,500.00 (for Court costs)
+$14,921.89
+[6] In summary, the Appellant argued that the amount paid as interim costs was deductible because this was an amount that should receive the same treatment as support.
+[7] In support of his arguments, he referred to the opinion of a lawyer employed by the Respondent. He also relied on various excerpts of judgments rendered by courts in civil matters regarding the meaning and scope of the term "Interim costs order". Finally, he referred to Interpretation Bulletin IT-530 dated January 11, 1999.
+[8] According to the Appellant, the treatment of an amount paid as "interim costs" is a grey area because the Income Tax Act (the "Act") contains no provision in this regard.
+[9] He thereupon attempted to establish a connection between this and support based on a text, the precise source of which was not established, but which would be entitled: [translation] "The purpose of the obligation of support", in paragraph [60-470] entitled [translation] "THE INTERIM COSTS ORDER", which reads as follows:
+[translation]
+The purpose of the interim costs order is to ensure that the least affluent party has the possibility of pleading their case, without being limited by insufficient personal income or assets. In other words, this mechanism aims to avoid putting a party in a position of weakness relative to their opponent, due to the weakness of their financial position [Droit de la famille - 1814, 1993 R.D.F. 284 (C.S.)]. However, it must not become an incentive for judicial guerilla warfare [Droit de la famille - 1975, 1994 R.D.F. 271 (C.S.)]. Expressly provided by article 502 C.C.Q. in connection with the proceedings for separation from bed and board and by 588, para. 2 C.C.Q. in general support matters [translation] ("It (the court) may also award a provisional sum to the creditor of support to cover the costs of the proceedings"), the interim costs order is in the nature of support [Droit de la famille - 1931, 1996 R.D.F. 6 (C.A.); Droit de la famille - 1602, 1992 R.J.Q. 1480 (C.A.); Droit de la famille - 1719, J.E. 93-241 (C.A.)] and may be awarded to any creditor of support, not only the spouses [Droit de la famille - 2378, 1996 R.D.F. 519 (C.S.)]. Based on the support nature of the interim costs order, the court concludes, in Droit de la famille - 2999, J.E. 98-1171 (C.S.), that the lack of persistent effort of the creditor of support with a view to achieving autonomy is a factor which can serve in the evaluation of the right and the assessment of the extent of the interim costs order. It is also based on this principle that in Droit de la famille - 3296, 1999 R.D.F. 561 (C.S.), the court decides that the term [translation] "provision for maintenance and support" encompasses the interim costs order, which is thus included in the exceptions to the suspensive effect of appeal from a judgment.
+Section 36 of the Rules of practice of the Superior Court of Québec in family matters stipulates that such an order may be granted in any situation.
+The jurisprudence has considered consistently that the interim costs orders had to be approached broadly and generously [Droit de la famille - 1610, 1992 R.D.F. 366 (C.S.)].
+The questions regarding the interim costs order are set out in detail in para. 32-795. Also see para. 71-550.
+[10] Although this is an interesting thesis and the Appellant has merit with regard to the efforts invested, I believe that he is attempting, which he has a right to do, to take advantage of a situation which seems to have never been the object of a specific decision regarding the tax treatment that must be given to a payment made under an interim costs order.
+[11] For an amount to be considered support within the meaning of subsection 56.1(4) of the Act, R.S.C. 1985 (5th suppl.), ch. 1. and amendments, it must possess the following characteristics:
+· be payable to the recipient,
+· be solely for the support of the recipient, the recipient's children or both the recipient and his or her children,
+· be payable on a periodic basis,
+· be usable at the recipient's discretion.
+DISCRETION
+[12] Interpretation Bulletin IT-530R - Support Payments deals with this question. Among other things, it affirms that:
+20. By virtue of the definition of "support" given in subsection 56.1(4), amounts payable to a recipient where the recipient has no discretion as to the use of the amounts do not qualify as support amounts and thus cannot be used in determining the amount a payer may deduct under paragraph 60(b) (except as discussed below or as provided by subsection 60.1(2) (see ¶ 29).
+[13] In Falardeau v. R.[1], the Superior Court judge had ordered the Appellant to pay support of $200 per week. In a second order, she had ordered him to pay the MasterCard credit card charges, up to a monthly average of $400.
+[14] The honourable judge of the Tax Court of Canada wrote that "[in his] opinion, in reading the second order, it emerges that these payments are not in the nature of support, because this nature is not clearly expressed as it is in the first order"[2]. He added, regarding discretion, that:
+[translation]
+The amount subject to discretion is the amount received. It must therefore be examined at the time it was received and not at the time of creation of the obligation to pay it to determine whether the recipient can use it at her discretion. In this case, at the time the Appellant paid the MasterCard bill, the recipient could not tell him: "give me the money and I will pay MasterCard". The recipient was not entitled to require that the payment be made directly to her instead of MasterCard. What the recipient could do with the MasterCard credit card does not seem relevant to me. For these reasons, I am of the opinion that the Appellant's wife had no discretion regarding the use of the amounts in question[3].
+[15] A few years earlier, before subsection 56(12) of the Act was repealed, the Honourable Judge Garon had made the following remark[4]:
+[translation]
+In interpreting subsection 56(12), it is appropriate to point out that, for amounts received, for example, by a spouse or ex-spouse to constitute an allowance within the meaning of this subsection, it is not important that the person who pays the support not control or attempt to control the use of the funds in question. However, the judgment or the agreement, as the case may be, must not specify how these amounts must be used. If such a specification exists, it follows that if the spouse or the ex-spouse who receives the amounts in question does not use them in the manner prescribed in the judgment or the agreement, this constitutes nonperformance by the recipient of the obligation contained in the judgment or the agreement. It is in this sense that the recipient of the amounts in question cannot legally use the funds thus received at his or her discretion, according to subsection 56(12).
+[16] These are arguments in favour of non-inclusion of the interim costs order in the definition of support.
+[17] On the other hand, a certain number of sources indicate that the interim costs order is in the nature of support. Thus, J.-L. Baudouin[5] and H. Kélada[6] reviewed case law dealing with the interim costs order, in particular, articles 502 and 588 of the Civil Code of Québec[7]. They found the following:
+[translation]
+1) "the interim costs order may be granted only to compensate needs of support and not to encourage the pursuit of a judicial saga pertaining to issues of patrimonial rights"[8];
+2) "the Court has decided that the interim costs order is strictly in the nature of support"[9];
+3) "the interim costs order is in the nature of support"[10].
+[18] In this regard, it is useful to refer to the history presented in this case, which dates back to 1909 and ended with a 1970 decision[11] reaffirming that the interim costs order is in the nature of support and linking it to support:
+[translation]
+"I am of the opinion that, in principle, the support granted during the trial for separation from bed and board should include, in addition to the support, a certain amount to allow the wife to pay the disbursements of the trial, when the husband's means so permit."[12]
+[19] The recipient of support in the Thibaudeau[13]case argued at trial that the use of the amounts paid to the benefit of the children was not left to her discretion, because they had to be used in the children's interest. Given the absence of discretion, an essential element, the amounts were ineligible as taxable support.
+[20] Thus, we went from R. v. Pascoe[14] (free disposal without having to account to anyone), to Gagnon v. The Queen[15] (which substituted the criterion whereby the recipient must be able to dispose of the amount completely to her benefit, regardless of the restrictions imposed on her regarding the manner of disposing of it and benefiting from it) to the adoption of subsection 56(12) of the Act, which reestablished the Pascoe principle, and the repeal of subsection 56(12) of the Act. Despite the repeal of this subsection, the principle remains. Finally, since Serra, child support has been tax exempt, but it is possible to believe that the term "discretion" does not always mean "absolute discretion".
+PERIODIC PAYMENT
+[21] Consideration of another criterion allows a more clear-cut conclusion, however. Indeed, the amount in question in this case is not payable on a periodic basis and: [translation] "a lump sum clearly does not fulfill this condition, even if the terms of payment are such that it must be paid in successive installments"[16].
+[22] Even though, according to some authors, the interim costs order seems to conform to the discretionary nature required by the law, it does not meet the condition of periodic payment.
+[23] In the case at hand, the terms of the judgment are clear and specific. Secondly, the Appellant complied with them. Finally, the recipient of the interim costs order, to avoid any misunderstanding, took the initiative of specifically mentioning the payment she received under the interim costs order.
+[24] On the one hand, the specific indication on the receipt is significant with regard to the distinction the recipient made concerning the amounts the Appellant had to pay her.
+[25] On the other hand, the Appellant explained that the person responsible for his file, following his notice of objection, had suggested that he produce a written document signed by him and his ex-wife regarding the nature of the payment made in accordance with the Superior Court Order, for the purpose of clarifying the intentions of the parties. With all due respect for the contrary opinion, the intention of the parties did not have to be clarified or specified because there was an order by a competent court which, moreover, was unequivocal and did not lend itself to any ambiguity.
+[26] Moreover, the Appellant did not take the very simple step, which certainly would have been just as easy as all the other steps he took, to establish the validity of his arguments. Also, why did he not have his ex-wife testify on the issue of the latitude she had to dispose of the amount obtained under the interim costs order as she saw fit?
+[27] The answer to these two questions is of course very simple: his ex-wife required that the order be strictly observed. The information appearing on the receipt for the payment is very revealing in this regard.
+[28] All the relevant facts are very clear. Indeed, the parties concerned honoured their obligations to the letter, leaving no room for misunderstanding or ambiguity.
+[29] The object of the interim costs order obtained by the ex-wife was to pay the costs required to exercise her rights.
+[30] The purpose of an interim costs order is to enable a party, who does not have the means to do so, to exercise his or her rights. The interim costs order does not involve a discretionary amount made available to the person who requests it.
+[31] This is an amount defined for a specific purpose, which is subject to presentation of proof of a real need. Regarding these elements, I do not believe that it is possible to conclude that this is an amount that gives the recipient the latitude to dispose of it as he or she sees fit.
+[32] Moreover, this is not an amount payable on a repetitive or periodic basis, such as weekly or monthly support.
+[33] These are the two essential conditions for the debtor of support to be able to deduct the amount from his or her income.
+[34] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of November 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 31st day of March 2006.
+Jean Pierre Koch, LL.B., Translator
+[1] 2003 TCC 689 [Translation]
+[2] Id., para. 12. [Translation]
+[3] Id., para. 13. [Translation]
+[4] Assaf v. Canada, [1992] A.C.I. no 46 (QL) [Translation].
+[5] BAUDOUIN, J.-L. and Y. RENAUD, Code civil du Québec annoté, vol. 2, Montréal, Wilson & Lafleur Ltée, 1995.
+[6] KÉLADA, H., Code civil du Québec - texte annoté, vol. 1, Scarborough, Carswell, 1993.
+[7] Civil Code of Québec, S.Q. 1991, c. 64, art. 502, 517 and 588.
+[8] M.B. c. K.H., 2002BE-89 (C.S.).
+[9] D. c. L., [1995] R.L. 2003 (C.S.).
+[10] Droit de la famille - 833, [1990] R.J.Q. 1276 (C.A.).
+[11] Raymond c. Leclerc, [1970] C.A. 671.
+[12] Ibid, 672.
+[13] Thibaudeau v. Canada, [1995] 2 S.C.R. 627, 95 DTC 5273.
+[14] [1976] 1 F.C. 372 (F.C.A.).
+[15] [1986] 1 S.C.R. 264.
+[16] Me Paul Morin, Les incidences du litige conjugal sur le plan du revenu, in PERSONNES, FAMILLE ET SUCCESSIONS, Collection de droits 2003-2004, Cowansville, Les Éditions Yvon Blais Inc., 465pp., 339.

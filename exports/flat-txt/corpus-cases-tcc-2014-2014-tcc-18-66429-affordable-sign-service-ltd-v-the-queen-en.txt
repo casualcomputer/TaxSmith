@@ -1,0 +1,159 @@
+Title: Affordable Sign Service Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66429/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-18-66429-affordable-sign-service-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-01-15
+
+# Affordable Sign Service Ltd v. The Queen
+
+- Citation: 2014 TCC 18
+- Decision date: 2014-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5994, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Affordable Sign Service Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-15
+Neutral citation
+2014 TCC 18
+File numbers
+2013-3045(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3045(IT)I
+BETWEEN:
+AFFORDABLE SIGN SERVICE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 6, 2014 at Vancouver, British Columbia
+By: The Honourable Justice Judith M. Woods
+Appearances:
+Agent for the Appellant:
+Demetre Pomonis
+Counsel for the Respondent:
+Amandeep K. Sandhu
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+Signed at Ottawa, Ontario this 15th day of January 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 18
+Date: 20140115
+Docket: 2013-3045(IT)I
+BETWEEN:
+AFFORDABLE SIGN SERVICE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal under the Income Tax Act concerns an allowable business investment loss (ABIL) claimed by the appellant, Affordable Sign Service Ltd., in its return of income for the 2008 taxation year.
+[2] The appellant submits that it is entitled to a deduction in the amount of $50,000 in respect of the loss of a $100,000 investment in a Canadian-controlled private corporation, Seahorse International Ventures Inc. (“Seahorse”). The respondent submits that the investment does not qualify as an ABIL on several grounds, which are discussed below.
+[3] The only witnesses at the hearing were Demetre Pomonis (“Mr. Pomonis”) and his son, Anthony Pomonis (“Anthony”).
+Background
+[4] The appellant is in the business of installing and maintaining signs. Mr. Pomonis managed the business at the relevant time and is now retired. He is the corporation’s sole shareholder.
+[5] Mr. Pomonis testified that Anthony approached him about an investment opportunity that he was aware of. Since the appellant had excess funds, Mr. Pomonis said that he decided to have the appellant make the investment.
+[6] Mr. Pomonis testified that he knew very little about the investment, that it was done on the basis of a handshake without documentation, and that he was relying entirely on Anthony.
+[7] Mr. Pomonis testified that the investment was made on February 29, 2008 and that the funds were to be returned with 25 percent interest in four months.
+[8] Mr. Pomonis further testified that the funds were not repaid on time and that he asked Anthony to get the money back. However, the money was lost, he said.
+[9] Mr. Pomonis also stated that when he met his accountant in January 2009, the accountant suggested that a deduction for the loss be taken as an ABIL. The accountant arranged for this in the appellant’s tax return, which was electronically filed.
+[10] According to the tax return information that was introduced by the respondent, the appellant claimed a deduction for the loss in the amount of $50,000 which resulted in the appellant claiming a loss for the year in the amount of $402.
+[11] Anthony’s background is as a building contractor. He testified that he heard of the investment through a mutual friend who introduced him to Brent Davis. Apparently, Mr. Davis was promoting investments on behalf of Rodney Koch, who was the sole shareholder of Seahorse.
+[12] In 2009, Mr. Koch was found guilty of securities’ violations by the Alberta Securities Commission (the “Commission”) which resulted in substantial losses by investors. The violations related to transactions undertaken from 2003 to 2007 with Sea Sun Capital Corporation (“Sea Sun”), in which Mr. Koch was a major shareholder. As far as we know, the transactions did not involve Seahorse: 2009 ABASC 256. The findings of the Commission are summarized in the excerpt below from the decision.
+[123] Over the course of several years (at least from 2003 to 2007) Sea Sun raised millions of dollars from investors, including Albertans, through trades and distributions of securities without registration or a prospectus. No registration or prospectus exemptions were available for at least some of this activity. This was illegal activity by Sea Sun and Koch, and conduct contrary to the public interest on the part of all three Respondents.
+[124] The investors were enticed into trades in Sea Sun securities in part by repeated prohibited, or misleading and untrue, statements (written and oral) that Sea Sun was, or would soon become, a quoted or listed public company, something that in fact never happened. This involved breaches of the Act and conduct contrary to the public interest on the part of all three Respondents.
+[125] It appears that the misconduct in this case has resulted in investors losing some, or all, of the money they invested. The effect on those who testified has been serious, even devastating.
+[13] Anthony testified that he met Mr. Koch at his office in Kelowna, British Columbia where Mr. Koch proceeded to lure Anthony and other investors into an investment with Sea Sun.
+[14] Anthony said that he became aware that other investors had made a lot of money with Sea Sun and he decided to recommend it to his father. At some point, Mr. Koch directed that the investment be made in Seahorse instead of Sea Sun. Anthony said that the investors, including himself, were not concerned about this formality.
+[15] Anthony testified that he had an inkling that there had been a fraud as soon as the money was not returned when it was due in four months. He said he was “all over it right away.” Anthony also said that, when he and Mr. Davis contacted Mr. Koch, the answers were vague and he became sure it was a fraud. Soon after, Mr. Koch could not be reached. He said Mr. Koch fled to the United States where he is at the present time.
+Legislative scheme
+[16] An ABIL is a type of capital loss which is given special treatment in that one-half of the loss may be deducted against any source of income. Usually, capital losses may only be deducted against capital gains.
+[17] In order for the appellant to claim this deduction for the investment in Seahorse, the criteria below must be satisfied.
+(a) the investment must be in the form of indebtedness;
+(b) Seahorse must be a Canadian-controlled private corporation;
+(c) Seahorse must carry on an active business;
+(d) the debt must either be disposed of to an arm’s length person or be established by the taxpayer to be a bad debt by the end of the taxation year; and
+(e) if the debt is a bad debt, an election required by subsection 50(1) of the Act must be made.
+The issues
+[18] The issues to be decided are set out in the Reply. They are:
+(a) whether the debtor was a CCPC;
+(b) whether the debtor was engaged in an active business;
+(c) whether the investment was a bad debt in 2008 (or was disposed of to an arm’s length person);
+(d) whether the investment was laid out for the purpose of earning income from a business or property; and
+(e) whether the election required by s. 50(1) of the Act was made.
+[19] There is no dispute about the legislative requirements and therefore I will not reproduce the relevant legislation in these reasons.
+[20] I would also briefly mention that the respondent raised an additional issue during argument, which is whether the investment was in the nature of indebtedness. I have concluded that it would not be fair to decide the appeal on this basis because the issue was not raised in the Reply and was not raised prior to argument. Accordingly, for the purpose of this decision, I have assumed that the Minister correctly assumed that the appellant made a $100,000 advance to Seahorse.
+[21] I now turn to a consideration of the other issues.
+Was Seahorse a CCPC?
+[22] The day before the hearing, the appellant provided the respondent with documents establishing that Seahorse was a Canadian corporation that was wholly-owned by Mr. Koch and that Mr. Koch was a Canadian resident.
+[23] I would conclude that Seahorse was a CCPC, and note that this was conceded by the respondent during argument.
+Was Seahorse engaged in an active business?
+[24] The relevant legislation requires that Seahorse be engaged in an active business. The respondent acknowledges that it has the burden of proof on this issue because it failed to make any assumptions in this regard.
+[25] Very little evidence concerning Seahorse was introduced at the hearing. The respondent suggests that I should make an inference that Seahorse was inactive based on the facts below.
+(a) The Canada Revenue Agency does not have any record of Seahorse filing federal income tax returns.
+(b) Seahorse did not file an Alberta annual corporation return for 2008 or subsequent years. It was struck from the corporate registry in 2009 for failure to file returns.
+(c) According to Anthony’s testimony, the negotiations had been for an investment in, Sea Sun, and at the last minute Mr. Koch requested that the funds be paid to Seahorse.
+(d) The Commission’s decision mentions that Mr. Koch stated that Seahorse was not involved in the securities’ transactions. In an interview that the Commission had with Mr. Koch, he indicated that “Seahorse began the business ultimately assumed by Sea Sun, and claimed that after 2003 he used Seahorse only for a miscellany of other, unrelated, small buying and selling activity.”
+[26] The foregoing evidence is not sufficient to establish that Seahorse was not carrying on an active business.
+[27] The fact that Seahorse did not make appropriate corporate and tax filings is not of much assistance in this particular case. The decision of the Commission makes it clear that Mr. Koch is an individual who has very little regard for legal obligations.
+[28] Second, I do not find it probative of the issue that negotiations may initially have been for an investment in Sea Sun. Mr. Koch may have had very good reasons for not using Sea Sun for this transaction. At the time, it appears that Sea Sun was under a cloud regarding losses incurred by investors. Mr. Koch may have preferred that funds not be transferred to Sea Sun in these circumstances.
+[29] Third, the fact that Mr. Koch indicated during the Commission’s investigation that Seahorse carried on a small buying and selling activity suggests, if anything, that Seahorse did carry on an active business. It does not assist the respondent’s position on this issue.
+[30] Accordingly, I conclude that this evidence does not establish that Seahorse did not carry on an active business.
+[31] I would also mention another document that was not relied on by the respondent. The document is a letter from Mr. Koch dated December 27, 2013 that was provided to the appellant in support of the factual issues in this appeal.
+[32] I agreed to enter the letter into evidence not for the truth of the contents, but for the limited purpose of establishing that Mr. Koch had provided a document that helps establish that Seahorse was a CCPC. The letter was not admitted for the truth of the contents because Mr. Koch was not present to be cross-examined on it. Accordingly, the letter does not assist in proving that Seahorse carried on an active business.
+[33] In light of the above, I find that the respondent has not established that Seahorse did not carry on an active business. The appeal will not be dismissed on this ground.
+Was indebtedness laid out for purpose of earning income and was there a bad debt?
+[34] This section discusses two issues together because much of the analysis is applicable to both.
+[35] One issue is whether there is a loss, either because the debt was disposed of to an arm’s length person or because the debt became a bad debt in the taxation year.
+[36] The other issue is whether the debt was laid out for the purpose of earning income.
+[37] The appellant bears the burden to establish a prima facie case on these issues. For the reasons below, I find that the evidence is not sufficiently reliable to satisfy the burden on either issue.
+[38] First, the relevant evidence consists almost entirely of the testimony of Mr. Pomonis and Anthony. This evidence is self-interested and should be viewed with caution. It is not fatal to rely entirely on self-interested testimony, but the testimony needs to be detailed and cogent to be considered reliable. The testimony was lacking in this respect.
+[39] Second, the appellant did not call an unrelated witness, such as another investor, the promoter Mr. Davis, or the accountant who prepared the income tax return. In addition, there was no written documentation to support the terms of the indebtedness and there was no documentation to support the appellant’s position that Seahorse was not able to repay the debt.
+[40] The appellant did seek to introduce supporting letters by Mr. Koch and Mr. Davis. However, these documents are of no assistance because neither individual was present to be cross-examined.
+[41] Further, I found some of the testimony to be implausible. It would have required much more detail for me to be satisfied that the testimony was reliable. I would mention a few instances where this was a problem.
+[42] First, Mr. Pomonis claims to have very little knowledge of the investment and the attempts to recover the money. I find this odd, especially since the investment appears to be quite large for a company the apparent size of the appellant. I note from the income tax return that the ABIL reduced the appellant’s income to zero and that a small loss was reported. I would have thought that in these circumstances Mr. Pomonis would be more interested in the details of the investment and the attempts to recover the money.
+[43] Anthony testified that in evaluating the investment, he was relying on information that other investors were earning large returns with Mr. Koch. This statement seems odd because Mr. Koch was at the time in trouble with other investors which led to the Commission’s investigation. It seems implausible that Mr. Davis was not aware of these problems. Further, if Mr. Davis was collaborating on a fraud with Mr. Koch, it seems odd that Anthony would remain on friendly terms with Mr. Davis after the debt was purportedly in default.
+[44] Moreover, there were very few details about the attempts to recover the money. It appears from the testimony that Anthony quickly concluded that the investment was fraudulent and it is not clear that he took any significant action after that to recover the money. I would have thought that at the very least Anthony would have worked with other investors to try to recover the money and that Anthony would know what the police were doing regarding this matter.
+[45] I also find it troubling that Anthony was in contact with Mr. Koch, directly or indirectly, in order to obtain a supporting letter for this appeal. If Mr. Koch was the bad guy, why did not Anthony or Mr. Pomonis take further action to recover the debt?
+[46] When the testimony is viewed as a whole, I find that it was not sufficiently detailed to be considered reliable.
+[47] It is not clear from the evidence what the true circumstances of the arrangement are. It is possible that the appellant was the victim of a fraud by Mr. Koch. However, it is also possible that the transaction did not involve a loss at all and that it was set up to enable the appellant to claim a deduction on its tax return. The bottom line is that the appellant has not established a prima facie case that the indebtedness was laid out for the purpose of earning income or that a loss was incurred either through a disposition or a bad debt.
+Conclusion
+[48] In light of these findings, I do not propose to discuss the remaining issue which concerns whether an election under s. 50(1) was made in respect of a bad debt.
+[49] The appeal will be dismissed.
+Signed at Ottawa, Ontario this 15th day of January 2014.
+“J.M. Woods”
+Woods J.
+CITATION: 2014 TCC 18
+COURT FILE NO.: 2013-3045(IT)I
+STYLE OF CAUSE: AFFORDABLE SIGN SERVICE LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 6, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: January 15, 2014
+APPEARANCES:
+Agent for the Appellant:
+Demetre Pomonis
+Counsel for the Respondent:
+Amandeep K. Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

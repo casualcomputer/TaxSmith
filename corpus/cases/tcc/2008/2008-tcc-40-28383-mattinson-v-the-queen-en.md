@@ -1,0 +1,133 @@
+---
+title: "Mattinson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28383/index.do"
+last_modified: "2008-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 40"
+citation2: ""
+neutral_citation: "2008 TCC 40"
+decision_date: "2008-01-17"
+language: "en"
+item_id: "28383"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1902
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:38:30.918000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7cf1e9b9e9c4b9f0b25f8bdf03f43a335d2d0d0d17381e855ce568ee8d6aa353"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mattinson v. The Queen
+
+- Citation: 2008 TCC 40
+- Decision date: 2008-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1902, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mattinson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-17
+Neutral citation
+2008 TCC 40
+File numbers
+2007-732(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-732(IT)I
+BETWEEN:
+M. KEITH MATTINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 25, 2007 at Kentville, Nova Scotia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years is dismissed.
+Signed at Toronto, Ontario this 17th day of January, 2008.
+"J. Woods"
+Woods J.
+Citation: 2008TCC40
+Date: 20080117
+Docket: 2007-732(IT)I
+BETWEEN:
+M. KEITH MATTINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this income tax appeal is whether Keith Mattinson, the appellant, is entitled to a medical expense tax credit for monthly fees paid in respect of an emergency response service known as “Lifeline.”
+[2] Although the appellant’s circumstances are sympathetic, I cannot conclude that the relief that he seeks is permitted by the relevant legislation.
+[3] In reassessments for the 2001, 2002 and 2003 taxation years, the Minister of National Revenue disallowed tax credits claimed by the appellant in respect of expenses totaling $540 for each of the 2001 and 2002 taxation years, and $513 for the 2003 taxation year.
+[4] The Lifeline service was provided to the appellant by Northwood Homecare Limited, a corporation which is part of a large non-profit organization based in Halifax providing services to seniors and disabled persons.
+[5] The Lifeline is essentially an alarm system which is designed to enable persons to call for assistance in their home when they are unable to reach the telephone. A special telephone is installed in the home, which picks up remote signals from a call button that is worn by the user. The telephone can be adapted to provide other uses as well, but the alarm is the essence of the system.
+[6] The call button is worn by the individual while at home, and when it is pressed it triggers a call through the telephone to a representative from Northwood. The responder would then telephone the home and attempt to speak to the user through a speaker system.
+[7] In the majority of cases, users of the system provide names of family or friends for Northwood to contact if assistance is required, but in some cases no contact is provided and the Northwood responder calls 911 if assistance is needed. The appellant is in the latter category.
+[8] Some of the evidence that was led at the hearing related to a system called “Intouch,” which is the system currently used by Northwood in place of Lifeline. It is very similar to Lifeline but has some additional features.
+[9] In the case of the appellant, the Lifeline service was prescribed by his doctor about six years ago after he suffered a devastating heart attack while in his early 50s. Serious damage to the heart resulted and the appellant continues to be severely disabled.
+[10] The question to be determined in this appeal is whether the Lifeline service, comprising the special telephone and related equipment and the monitoring service, qualifies for the medical expense tax credit in subsection 118.2(2) of the Income Tax Act or section 5700 of the Income Tax Regulations.
+[11] In general, the medical expense tax credit is designed to provide some tax relief for special expenses incurred by persons with illness or disability. The list of qualifying expenses is long, and is expanded on a regular basis, which appears to indicate a commitment by the government to be responsive to the medical needs of this particular group of taxpayers.
+[12] The legislation does not provide tax relief for all medically necessary expenses, however, and this Court sometimes is required to disallow the tax credit in very sympathetic circumstances.
+[13] The appellant submits that this type of device is included in subsection 118.2(2) of the Act or section 5700 of the Regulations, although none of these provisions specifically refers to an emergency response service of the type used by the appellant.
+[14] The appellant argues that Parliament intended for this type of device to qualify for the tax credit because it is functionally similar to other devices and services that are listed in the Act and the Regulations.
+[15] I do not agree with this submission.
+[16] While it is true that some of the devices and services that are listed in the legislation provide assistance for the same types of medical problems that the appellant faces, such as a lack of mobility and heart dysfunction, none of the provisions can, in my view, be fairly interpreted to apply to a general emergency response call system. In this regard, I agree with the decision of my colleague, Webb J., in Urdang v. The Queen, 2007 D.T.C. 1439.
+[17] The circumstances of this appeal are certainly sympathetic and the appellant made forceful arguments in support of the tax relief he is seeking. However, I cannot conclude that the relevant provisions can be interpreted to include the Lifeline expenses incurred by him.
+[18] The appeal will accordingly be dismissed.
+[19] Before concluding, I would comment that the appellant invited the Court to comment on the need for an amendment to the legislation to include devices such as Lifeline. This appeal was being pursued not only for the appellant’s own benefit, he suggested, but also for the benefit of the thousands of users of this lifesaving device.
+[20] I do not think that it is appropriate for me to comment on matters of tax policy, but I would note that the appellant’s objective of raising awareness of this issue may have been accomplished by his having brought this appeal.
+Signed at Toronto, Ontario this 17th day of January, 2008.
+"J. Woods"
+Woods J.
+CITATION: 2008TCC40
+COURT FILE NO.: 2007-732(IT)I
+STYLE OF CAUSE: M. KEITH MATTINSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kentville, Nova Scotia
+DATE OF HEARING: October 25, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Woods
+DATE OF JUDGMENT: January 17, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant: n/a
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

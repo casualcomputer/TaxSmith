@@ -1,0 +1,172 @@
+Title: Frobb v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/312184/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-121-312184-frobb-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-06-27
+
+# Frobb v. The Queen
+
+- Citation: 2018 TCC 121
+- Decision date: 2018-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5091, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frobb v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-27
+Neutral citation
+2018 TCC 121
+File numbers
+2016-2786(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2786(IT)I
+BETWEEN:
+FRANCES FROBB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on May 15, 2018, at Nelson, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Spencer Landsiedel
+JUDGMENT
+The appeals are allowed, without costs, on the basis that the Appellant is the primary caregiver who is entitled to receive the Canada Child Tax Benefit and the Goods and Services Tax Credit, in respect to the following periods:
+1) that portion of the 2011 base taxation year from April, 2013 to June, 2013;
+2) the 2012 base taxation year, being the period July, 2013 to June, 2014; and
+2) the 2013 base taxation year, being the period July, 2014 to June, 2015.
+The appeal with respect to the 2014 base taxation year is quashed on consent by the parties.
+Signed at Ottawa, Canada, this 27th day of June 2018.
+“Diane Campbell”
+Campbell J.
+Citation: 2018 TCC 121
+Date: 20180627
+Docket: 2016-2786(IT)I
+BETWEEN:
+FRANCES FROBB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals concern the Appellant’s eligibility for the Canada Child Tax Benefit (the “CCTB”) and the Goods and Services Tax Credit (the “GSTC”) for the 2011, 2012, 2013 and 2014 base taxation years. The Minister of National Revenue (the “Minister”) redetermined the eligibility to both the CCTB and the GSTC resulting in an overpayment to the Appellant with respect to these base taxation years.
+[2] At the commencement of the hearing, the parties advised the Court that the portion of the appeals relating to the 2014 base taxation year, being the period July, 2015 to June, 2016, should be quashed because the Appellant had not filed Notices of Objection to the redeterminations with respect to the CCTB and GSTC and, therefore, the Appellant agreed that it was not properly before this Court. Since objections have not been filed in respect to the 2014 base taxation year, a mandatory precondition to the filing of an appeal has not been complied with. I am therefore quashing the appeal with respect to the 2014 base taxation year.
+[3] The actual timelines that are before me are as follows:
+1) the 2011 base taxation year, being the monthly periods from July, 2012 to June, 2013, in respect to the CCTB and the quarterly periods from July, 2012 to June, 2013, in respect to the GSTC;
+2) the 2012 base taxation year, being the monthly periods from July, 2013 to June, 2014, in respect to the CCTB and the quarterly periods from July, 2013 to June, 2014, in respect to the GSTC; and
+3) the 2013 base taxation year, being the monthly periods from July, 2014 to June, 2015, in respect to the CCTB and the quarterly periods from July, 2014 to June, 2015, in respect to the GSTC.
+[4] The Appellant and her former spouse, Juniper Miller, have three children. They separated the first time in March of 2012 but reconciled for a period of time between September 20, 2012 and March 15, 2013. The Appellant, in both her Notice of Appeal and her testimony, states that, for the period of time in the 2011 base taxation year that they were separated, they had been in a shared parenting arrangement respecting their three children but that she was the primary caregiver. During the summer months of July, 2012 and August, 2012, the Appellant lived with her brother on the coast and shared parenting time of the children with Mr. Miller on a two week on and two week off basis. Mr. Miller did not contradict these facts. During the school year September, 2012 to June, 2013, the children were home schooled by the Appellant. Subsequent to the separation on March 15, 2013, the parties shared the children on a three day off and three day on arrangement according to the Appellant while she continued to home school them. Mr. Miller’s evidence was that he recalled it being two days on and two days off. Mr. Michael Gabriel, who acted throughout much of the periods under appeal as an informal supervisor/mediator between the parties and was a close family friend both before and after the parties separated, recalled that it was close to a 50/50 arrangement. Whether the arrangement was three days on/off or two days on/off, this regimen continued until November 15, 2013.
+[5] The evidence supports that, after the second separation in March of 2013, the Appellant continued to be the parent that did the home schooling. Mr. Miller’s testimony was that he recalled being involved but could offer no specifics. Between March, 2013 and October, 2013, the Appellant testified that she was engaged with Mr. Miller in an ongoing battle to assist financially with the children. When this proved unsuccessful, she was the parent that purchased the spring and summer clothing, footwear and gear that the children required from time to time.
+[6] On November 15, 2013, the Appellant obtained an Ex Parte Order. The Provincial Court of British Columbia ordered that, as a result of an “incident” that had occurred between the parties, Mr. Miller would have supervised visits only with the children. The visits were to be exercised under the supervision of Maureen Miller, Juniper’s mother, or an individual as agreed upon between the parties. Maureen Miller apparently acted as mediator until February, 2014, when it was too stressful for her to continue. It was at this point that Mr. Gabriel took on the role of informal supervisor.
+[7] On December 9, 2013, the Court issued both an Interim Order and a Protection Order. The Protection Order ordered Mr. Miller to refrain from communicating or following the Appellant or attending at her residence and possessing a firearm. The Interim Order adjourned the Appellant’s application for child support to January 23, 2014 and ordered that Mr. Miller would have the following parenting time:
+December 13 to December 15, 2013;
+December 23, 2013 until December 30, 2013; and
+Thereafter, the first three weekends of each month commencing January 3, 2014.
+2. Pick-up and drop-off shall occur at the residence of Juniper Naam Miller’s mother, Maureen Miller.
+[8] During the period November and December 2013, it appears that the Appellant was the primary caregiver, as Mr. Miller had little to no contact with the children due to the incident that precipitated the Protection Order. Thereafter, his access in December 2013 followed the terms of the Interim Order which allowed him access for 9 days in that month.
+[9] Commencing January, 2014, Mr. Miller had the children in his care for the first three weekends of each month pursuant to the Interim Order of December 9, 2013. On March 20, 2014, the Provincial Court of British Columbia issued a Consent Order ordering the following:
+1. The parties shall continue parenting time with the Children, as per the order of December 9, 2013.
+2. The parties shall share the Children’s summer holidays on an equal basis as agreed upon between them, excluding the first five (5) days after school ends and the seven (7) days before school starts, at which times the Children shall be in the respondent, Frances Anne Frobb’s, care.
+[10] According to the evidence, the parenting arrangements, as ordered by the Consent Order, were followed for the most part until November 2014. Mr. Miller cared for the children during the first week of June, 2014, while the Appellant was on holidays with her family. The parents split the summer months of July and August, 2014 equally on a four days on and four days off basis, as per the terms of the Consent Order of March 20, 2014. When school resumed in September, 2014, according to the Appellant’s testimony, they returned to the court ordered schedule with Mr. Miller having the children the first three weekends of each month. This rotation continued for the months of September and October. On October 20, 2014, the Minister notified the Appellant that her entitlement to the CCTB and GSTC had been redetermined and that she had received a deemed overpayment. Since she had already paid Mr. Miller his 50 percent of those amounts and still had no order for support payments, the Appellant, in discussions with Mr. Gabriel, agreed to provide Mr. Miller with an additional night per week with his children in the hope that he would address his financial commitments to the children. Mr. Miller was away during the last week of October and commencing November, 2014, he exercised care of the children the first three weekends of the month and, in addition, every Wednesday night after school until the next morning when the children returned to school. During the month of December, 2014, Mr. Miller had the children from December 14th to December 26th. On December 27th, the Appellant took the children to see their grandmother who was terminally ill. They returned on January 8, 2015 and resumed the same schedule for Mr. Miller of the weekly Wednesday evenings and the first three weekends of each month until the month of March, 2015. Mr. Miller spent that month in India and the children were with the Appellant during the entire month.
+[11] In April, 2015, the Appellant testified that she wanted to resume the court ordered schedule of the first three weekends in each month because the additional Wednesday night visits did not have the result she had hoped for in respect to having Mr. Miller address the financial support issues that remained outstanding. According to the Appellant, Mr. Miller refused to return to the court ordered schedule even though, without her consent in respect to the Wednesday evening visits, he was now in breach of that order. During this period, the children commenced therapy sessions but Mr. Miller refused to attend counselling. The Appellant determined that she would have to continue with the Wednesday night arrangements until such time as she could obtain a court date to have the existing order changed. This arrangement continued until June, 2015, which is the last month of the 2013 base taxation year and the last period that is before this Court.
+[12] During this period, both Mr. Miller and Mr. Gabriel testified that, to the best of their recollection, whenever a month contained a fourth weekend where the Appellant had the children, Mr. Miller would have the children for the week days prior to that fourth weekend. Beyond these vague recollections, neither witness could independently provide any dates, times or other specifics that might persuade me that this occurred.
+[13] On October 8, 2015, another order from the Provincial Court of British Columbia was issued and although it issued subsequent to the June 2015 period, being the last period before me, I conclude that one of the terms of this order is particularly pertinent to the facts before me:
+THIS COURT ORDERS and by CONSENT that:
+1. Frances Anne Frobb shall continue to be the primary care giver of the Children and Juniper Naam Miller’s parenting time shall continue to be that set out in the court order of December 9, 2013…. (Emphasis added)
+[14] The above-noted term references the period prior to the date of the order and in addition, it was by consent of the parties with respect to recognition being given by the Court to the Appellant continuing to be the children’s primary caregiver.
+Analysis
+[15] The Appellant is arguing that she is the parent that primarily fulfills the responsibility for the care and upbringing of the three children, the qualified dependants. The schemes respecting the GSTC under section 122.5 and the CCTB under section 122.6 of the Income Tax Act (the “Act”) are similar with the key difference being the time period for which each calculation is made. The GSTC is determined for an eligible individual in relation only to specified months.
+[16] With respect to the GSTC, subsection 122.5(4) provides:
+For the purposes of this section, the months specified for a taxation year are July and October of the immediately following taxation year and January and April of the second immediately following taxation year.
+[17] Subsection 122.5(6) provides:
+If a person would, if this Act were read without reference to this subsection, be the qualified dependant of two or more individuals, in relation to a month specified for a taxation year,
+(a) the person is deemed to be a qualified dependant, in relation to that month, of the one of those individuals on whom those individuals agree;
+(b) in the absence of an agreement referred to in paragraph (a), the person is deemed to be, in relation to that month, a qualified dependant of the individuals, if any, who are, at the beginning of that month, eligible individuals (within the meaning assigned by section 122.6, but with the words qualified dependant in that section having the meaning assigned by subsection (1)) in respect of that person; and
+(c) in any other case, the person is deemed to be, in relation to that month, a qualified dependant only of the individual that the Minister designates.
+[18] Each of the sections, 122.5 and 122.6, provides definitions for the terms “eligible individual” and “qualified dependant” as it relates to the particular section. The calculation for the GSTC is set out in subsection 122.5(3) and takes into consideration whether the eligible individual that is to receive the credit has any qualified dependants. Pursuant to subsection 122.5(1), a qualified dependant, with respect to a month specified for a taxation year, means a person, who at the beginning of the specified month, is the individual’s child, who is under 19 years of age, resides with the eligible individual and who is not an eligible individual and not a qualified relation. However, if the eligible individual is in a shared custody parent arrangement, then subsection 122.5(3.01) applies despite the general residency requirement in respect to the qualified dependant and eligible individual. It will permit each shared custody parent to claim a partial credit in respect to the qualified dependants. This subsection references the definition of the term “shared custody parent” as contained in section 122.6; Subdivision A.1 ‑ Canada Child Benefit:
+shared-custody parent in respect of a qualified dependant at a particular time means, where the presumption referred to in paragraph (f) of the definition eligible individual does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[19] With respect to the CCTB, the term “eligible individual” is defined in section 122.6 of the Act as the person who resides with and is the parent of the qualified dependant who primarily fulfills the responsibility for the care and upbringing of the qualified dependant or who is a shared custody parent in respect to the qualified dependant. For the purposes of this appeal, the other three relevant paragraphs of this definition of eligible individual are (f), (g) and (h):
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+Subsection 122.6(f) produces a presumption in favour of the qualified dependant’s female parent. However, subsection 122.6(g) states that this presumption contained in paragraph (f) will not apply in prescribed circumstances, which are referenced in Regulation 6301(1):
+6301(1) For the purposes of paragraph (g) of the definition eligible individual in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+[20] Of the four prescribed circumstances set out in Regulation 6301, it is (d) that is applicable in the appeals before me. Mr. Miller’s application for the benefits meant that the presumption in (f) in favour of the female parent no longer applied.
+[21] The definition of shared custody parent references prescribed factors that are to be reviewed and analyzed in determining which parent primarily fulfills the responsibility for the care and upbringing of the qualified dependant. A list of those prescribed factors, which are also referenced in subsection 122.6(h), are contained in Regulation 6302:
+6302 For the purposes of paragraph (h) of the definition eligible individual in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[22] Subsection 122.61(1.1) of the Act deals with the calculation of the CCTB for shared custody parents where both parents may be entitled to the benefit where they equally fulfill the responsibility for the care and upbringing of the qualified dependants in the same month. If they are shared custody parents at the beginning of a month, then the CCTB will be calculated in accordance with this subsection so that it is an equally shared benefit. The amount that is determined in accordance with subsection 122.61(1.1) will replace the amount that otherwise would be deemed to be the overpayment pursuant to subsection 122.61(1).
+[23] The Appellant has the onus of establishing that she and her former spouse are not shared custody parents and that she is entitled to the GSTC and the CCTB in respect to the three children for these periods because she is the sole parent who primarily fulfilled the responsibility for their care and upbringing. She maintained meticulous records and presented a binder containing relevant facts, dates and times of events relevant to each month within each of the base taxation years before me, as well as copies of the relevant court orders, portions of transcripts, financial information, emails, letters from counsellors, a dental clinic, art therapist and community school and services, as well as various affidavits in support of her claim to being the primary caregiver. I recognize that the authors were not present at the hearing to be cross-examined and that this necessarily goes to weight.
+[24] It is apparent that Mr. Miller is an excellent father when the children are in his care. The evidence supports that he deeply cares about their well-being and is heavily engaged in their activities when they are with him. He testified that he takes them camping, biking and hiking not only locally but in other provinces as well. He does yoga with them. He has encouraged them to be involved in artistic endeavours such as painting and music. When the children were in his care they stayed at Mr. Miller’s residence where he has lived for the past decade. He testified that he attended to their needs and hygienic requirements, as well as guidance and companionship, when he had them in his care. There is no doubt that Mr. Miller is a dedicated and caring parent when the children are with him.
+[25] The Appellant has relocated to different residences on several occasions during these periods but the evidence supports that nevertheless the children were always maintained in a secure and stable environment. The evidence also supports that she was the contact person for dental and medical appointments. She was also the contact person for the majority of the time (due to their constantly changing access schedule) in respect to the school, which they attended after she ended home schooling them in June, 2013. Mr. Miller was also an emergency contact person for the school. The Appellant testified that she dropped them off and picked them up and volunteered in various school activities. She is clearly a hands on mother who attends to the daily needs and requirements of the children when they are with her. She home schooled the children from September, 2012 until June, 2013. She has had the three children involved in dance activities since 2012, as well as swimming and skating during 2013 and 2014. She paid for these activities as well as the necessary equipment and clothing that those activities required. In May or June of 2015 she arranged for horseback riding lessons for the children. Many of these activities were arranged as part of school activities.
+[26] The Appellant in cross-examination stated that each parent had agreed to pay one-half of the school’s fee to have the children participate in skiing lessons. However, when Mr. Miller refused to pay his one‑half share, the school financially contributed so that the children could continue with the lessons. According to her evidence she purchased and paid for most of the clothing that the children required. Facebook posts suggest Mr. Miller did purchase some items but some of those posts also point to the numerous requests that were made through the mediator, Michael Gabriel, before the purchase would occur. In one instance, email requests over a two week period went through Mr. Gabriel requesting fall school clothing and items for a wilderness program.
+[27] The Appellant also submitted that she is the parent who attended to ordinary mundane needs such as lice treatment which she continued for a period of three months from September, 2014 to November, 2014 for all three children. She testified that this process took longer than expected as Mr. Miller refused to follow the protocol when he had the children in his care.
+[28] Going back to the definition of shared custody parent, another requirement of the term is contained in subsection (b) where it states that the individual to be considered a shared custody parent must first, reside with the qualified dependant and second, it must be on an “equal or near equal basis”. In his reasons in the decision of Patti D. Campbell v The Queen, 2010 TCC 67, 2010 DTC 1072, Webb J. stated that in determining where a child resides, or is ordinarily resident, the test is whether the child or qualified dependant lived with the parent on a “settled and usual basis”. In coming to this conclusion, respecting the term “reside”, Webb J. relied on the decisions and comments contained in Thomson v MNR, [1946] SCR 209, 2 DTC 812; S.R. v The Queen, 2003 TCC 649 and Lapierre v The Queen, 2005 TCC 720, 2008 DTC 4248. In the decision of Trina Brady v The Queen, 2012 TCC 240, 2012 DTC 1204, I discussed the meaning of “near equal” as referenced in the definition of shared custody parent. In that case, I concluded that a 14 hour difference based on a 55/45 percentage split between the parents would fall within the term “near equal basis”.
+[29] During the periods before me, the Appellant and her former spouse, for the months in the 2011 base taxation year that they were separated, resided with the children on an equal basis of one week on, one week off, in July and August of 2012 and three days on, three days off in March, April, May and June of 2013; during the 2012 base taxation year, each resided with the children on an equal basis of three days on, three days off, in July, August, September and October of 2013. Commencing in November, 2013, Mr. Miller was limited by court order to supervised visits only and in December, 2013, the court ordered that Mr. Miller have parenting time during the first three weekends of each month with summer months of July and August being shared equally. Until November, 2013 the parents each resided with the children on an equal basis but after this the evidence supports that the children were residing with the Appellant the majority of each month. During the 2013 base taxation year, the court ordered schedule continued between July, 2014 to October, 2014. In November of 2014, the Appellant allowed the children to reside with Mr. Miller on Wednesday night of each week, in addition to the court ordered first three weekends of each month. This arrangement continued until June, 2015.
+[30] Although Respondent counsel submitted that an accounting of the hours that each parent had the children with them supported the definition of shared custody parent, I do not agree. While the children were with Mr. Miller on three weekends and on Wednesday evening when they were not in school, the Appellant had the care and supervision during the majority of each month. I do not believe the Appellant abdicates her responsibilities as caregiver during the time they were in her care simply because they are in school. She was the primary contact person and volunteered at the school lunch program, as well as various extracurricular school activities. Based on these facts, in respect to the time that the children resided with each parent, it was on an equal basis for the periods in which they were separated during the 2011 base taxation year and up until and including the month of October 2013 in the 2012 base taxation year. However, commencing in November, 2013 until June, 2015, being the balance of the 2012 base taxation year and the whole of the 2013 base taxation year, the children resided with the Appellant a greater amount of the time than they did with Mr. Miller.
+[31] In summary, based on my review of the time that the children spent with each parent during the three base taxation years that are before me as well as the factors that assist in determining which parent primarily fulfills the responsibility for the childrens’ care and upbringing, I conclude that the shared custody parent arrangement that existed during the 2011 base taxation year only during the months of July and August, 2012. There was an equal sharing of time during these two months and the facts support a finding that the parents were in a shared custody parent arrangement. For the balance of the 2011 base taxation year, commencing April, 2013 and continuing to October, 2013 of the 2012 base taxation year, although the children resided with each parent on an equal or near equal basis, the facts support my conclusion that on balance the Appellant was the parent who primarily fulfilled the responsibility for their care and upbringing. In November, 2013 when that arrangement ceased, the Appellant continued to be the primary caregiver both in respect to the time that the children resided with her and in respect to the applicable prescribed factors. I am supported in this conclusion by the existing court orders and in particular the order dated October 8, 2015 that recognized that the Appellant would continue as the primary caregiver of the children and the Mr. Miller would continue to have the same parenting time of three weekends per month as set out in the order of December 9, 2013. Although Mr. Gabriel supported Mr. Miller’s testimony in a general sense, both were vague on detail and I was left with the impression that Mr. Gabriel was put in a difficult position as he had been friends with both parents. However, he was unable to provide any concrete evidence to support Mr. Miller’s testimony which was sketchy and inconsistent at best.
+[32] The appeals are allowed, without costs, on the basis that it is the Appellant who is the primary caregiver based on the facts presented and it is the Appellant who is entitled to receive the Canada Child Tax Benefit and the Goods and Services Tax Credit, in respect to the following periods:
+1) that portion of the 2011 base taxation year from April, 2013 to June 2013;
+2) the 2012 base taxation year, being the period July, 2013 to June, 2014; and
+2) the 2013 base taxation year, being the period July, 2014 to June, 2015.
+[33] The appeal with respect to the 2014 base taxation year is quashed on consent by the parties.
+Signed at Ottawa, Canada, this 27th day of June 2018.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2018 TCC 121
+COURT FILE NO.:
+2016-2786(IT)I
+STYLE OF CAUSE:
+FRANCES FROBB AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nelson, British Columbia
+DATE OF HEARING:
+May 15, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+June 27, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Spencer Landsiedel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

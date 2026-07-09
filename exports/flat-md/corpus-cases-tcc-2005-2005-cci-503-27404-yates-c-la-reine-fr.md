@@ -1,0 +1,227 @@
+---
+title: "Yates c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27404/index.do"
+last_modified: "2005-08-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 503"
+citation2: ""
+neutral_citation: "2005 CCI 503"
+decision_date: "2005-08-11"
+language: "fr"
+item_id: "27404"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 127
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:39:51.399000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5bb5be486af7db08a3cc12b4d99f253fa55e50ccaa1ba684fb90ff04562fa3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yates c. La Reine
+
+- Citation: 2005 CCI 503
+- Decision date: 2005-08-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 127, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yates c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-11
+Référence neutre
+2005 CCI 503
+Numéro de dossier
+2004-2118(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2118(IT)I
+ENTRE :
+FRANK YATES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues le 27 juin 2005, à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge A.A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gavin Laird
+____________________________________________________________________
+JUGEMENT
+Vu la requête présentée par l'appelant en vue d'obtenir une ordonnance au moyen de l'allégation d'une crainte raisonnable de partialité à l'endroit de la Cour canadienne de l'impôt selon l'article 6 (l'exigence relative à la résidence) de la Loi sur la Cour canadienne de l'impôt;
+Et vu les documents déposés;
+Et vu les arguments présentés par l'appelant et par l'avocat de l'intimée;
+J'ordonne que la requête de l'appelant soit rejetée.
+Et vu la requête présentée par l'intimée en vue d'obtenir une ordonnance ayant pour effet d'annuler l'appel de l'appelant compte tenu du fait que la Cour canadienne de l'impôt n'a pas compétence pour entendre un appel où la décision que souhaite obtenir l'appelant donnerait lieu à une augmentation de son obligation fiscale;
+Et vu les actes de procédure déposés par les parties;
+Et vu les arguments présentés par l'appelant et l'avocat de l'intimée;
+J'ordonne que la requête de l'intimée soit accueillie et que l'appel interjeté contre la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 soit annulé.
+Signé à Ottawa, Canada, ce 11e jour d'août 2005.
+« A.A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme ce 26e jour d'avril 2006.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI503
+Date : 20050811
+Dossier : 2004-2118(IT)I
+ENTRE :
+FRANK YATES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+Contexte
+[1] Dans le calcul de son impôt à payer pour l'année d'imposition 2002, l'appelant a demandé un crédit d'impôt non remboursable de 858 $ au titre de cotisations d'assurance-emploi retenues à la source sur son revenu d'emploi au cours de cette année-là. Le 8 mai 2003, le ministre du Revenu national (le « ministre » ) a établi à l'égard de l'appelant une cotisation dans laquelle le crédit a été accordé. Par la suite, l'appelant a déposé un avis d'opposition à la cotisation en indiquant que le crédit était inexact et illégal, étant donné qu'il contrevenait à l'alinéa 1a) de la Déclaration canadienne des droits et au paragraphe 15(1) de la Charte canadienne des droits et libertés (la « Charte » ), et qu'il était déraisonnable et irrationnel en common law et entraînait un enrichissement injustifié. Le 2 mars 2004, le ministre a ratifié la cotisation.
+[2] Le 7 mai 2004, l'appelant a déposé un avis d'appel. Le motif invoqué était que la cotisation établie pour l'année d'imposition 2002 était inexacte, [TRADUCTION] « car le montant à payer dans le calcul de l'impôt sur le revenu selon l'article 118.7 de la Loi de l'impôt sur le revenu (la « Loi » ) pour les cotisations d'assurance-emploi des employés, un montant de 858 $, [...] est illégal, en ce sens qu'il contrevient à l'alinéa 2b), à l'article 7 et au paragraphe 15(1) de la Charte canadienne des droits et libertés, ainsi qu'à l'article 1 de la Déclaration canadienne des droits » .
+[3] Le 25 février 2005, l'intimée a déposé un avis de requête pour obtenir l'annulation de l'appel au motif que la Cour de l'impôt n'a pas compétence pour entendre un appel où la décision que souhaite obtenir l'appelant aurait pour effet d'augmenter son obligation fiscale. Le juge Rowe a entendu l'affaire le 2 mars 2005, et après avoir examiné la demande que l'appelant a présentée en vue d'obtenir plus de temps pour préparer sa réponse, l'audition de la requête a été ajournée au 27 juin 2005.
+[4] Avant la présente audience, l'appelant a fait savoir à la Cour qu'il soulevait une nouvelle question, soit que l'application et la portée du paragraphe 6(1) de la Loi sur la Cour canadienne de l'impôt à l'égard du défendeur sont inconstitutionnelles, car elles engendrent une crainte raisonnable de partialité et elles ont une incidence sur l'équité et la justice naturelle de l'espèce et vont donc à l'encontre de l'alinéa 2e) de la Déclaration canadienne des droitset du préambule de la Loi constitutionnelle de 1867. Je vais examiner cette question en premier.
+Arguments de l'appelant
+[5] L'appelant a fait remarquer que l'article 2 de la Loi sur le Service administratif des tribunaux judiciaires énonce les raisons pour lesquelles cette loi a été adoptée, soit pour favoriser la coordination et la collaboration entre les cours fédérales, y compris la Cour canadienne de l'impôt, et en particulier pour accroître l'indépendance judiciaire, en chargeant un organisme indépendant du gouvernement du Canada d'assurer les services administratifs des tribunaux, et pour ainsi accroître la responsabilité à l'égard de l'utilisation de fonds publics dans l'administration des tribunaux tout en réitérant le principe de l'indépendance judiciaire. L'appelant a mentionné l'affaire Valente c. La Reine[1] dans laquelle la Cour a établi les trois conditions essentielles de l'indépendance judiciaire, c'est-à-dire l'inamovibilité, la sécurité financière et l'indépendance institutionnelle du tribunal relativement aux questions administratives qui ont directement un effet sur l'exercice de ses fonctions judiciaires.En tenant compte de ces paramètres, l'appelant a fait valoir que même si, selon le paragraphe 6(1) de la Loi sur la Cour canadienne de l'impôt, tous les juges de la Cour canadienne de l'impôt doivent demeurer dans un rayon de 40 kilomètres de la région de la capitale nationale, les cours de l'impôt sont situées dans diverses villes aux quatre coins du Canada et, en raison des dispositions du paragraphe 6(1), les juges doivent se déplacer entre Ottawa et les divers endroits où les cours sont situées afin d'instruire les affaires à l'égard desquelles ils ont compétence. L'appelant a mentionné le Rapport sur la Cour fédérale du Canada et la Cour canadienne de l'impôt[2] et, en particulier, la partie du rapport qui traite de la question de la régionalisation, laquelle comporte la question de savoir si l'on peut permettre aux juges de demeurer à l'extérieur de la région de la capitale nationale et d'instruire la plupart des affaires dans la région où ils demeurent. Il a fait remarquer que dans ce contexte, le rapport comporte un examen de l'incidence de la règle en vigueur relativement à la résidence et traite de la question du stress et de la fatigue causés par les déplacements que les juges doivent faire en raison de l'exigence de résidence dans la région de la capitale nationale. L'appelant a affirmé que l'application du paragraphe 6(1) de la Loi sur la Cour canadienne de l'impôt à l'égard des juges constitue une forme d'abus par le gouvernement fédéral qui :
+[TRADUCTION]
+[...] non seulement a une incidence sur la vie professionnelle quotidienne des juges, mais qui aussi, de par son effet, s'étend aux appels des appelants en ayant éventuellement une incidence directe et indirecte sur les questions d'administration qui touchent directement l'exercice des fonctions judiciaires de la Cour.
+L'appelant a évoqué la décision de la Cour suprême du Canada dans le Renvoi relatif à la rémunération des juges de la Cour provinciale de l'Î.-P.-É.[3] pour appuyer son argument selon lequel la règle relative à la résidence constitue une violation de l'indépendance judiciaire et l'application des dispositions contestées est susceptible d'engendrer une injustice et une atteinte à la justice naturelle envers l'appelant, ce qui, « du point de vue d'une personne raisonnable » , peut engendrer une crainte raisonnable de partialité. Cela contrevient donc à l'alinéa 2e) de la Déclaration canadienne des droits.
+Arguments de l'intimée
+[6] L'avocat a fait remarquer que l'appelant a soulevé la question de la partialité avant que l'audience n'ait effectivement eu lieu. Par conséquent l'allégation relative à la partialité n'a pas été soulevée à l'égard d'un juge en particulier, mais plutôt à l'égard de la Cour de l'impôt en tant qu'institution. Dans ce contexte, l'avocat s'est référé à l'affaire Bennett v. British Columbia (Securities Commission)[4], dans laquelle la Cour d'appel de la Colombie-Britannique, à l'unanimité,a dit ce qui suit :
+[...] la partialité est un état d'esprit particulier à une personne. Une allégation de partialité doit viser une personne particulière qui, à cause des circonstances, ne serait pas capable de faire preuve d'impartialité. Or, dans ce cas-ci, personne n'a été nommément désigné. On affirme plutôt que la conduite du personnel influe sur les membres de la commission qui ont été nommés en vertu de l'art. 4 de la Securities Act, quels qu'ils soient, à un point tel qu'aucun d'entre eux ne sera en mesure d'être un juge impartial. Les avocats n'ont pas pu nous mentionner une seule décision dans laquelle un tribunal composé de membres non nommément désignés avait été rendu inhabile à exercer les fonctions prévues par la loi pour cause de partialité ou de crainte de partialité. À notre avis, cela n'est pas surprenant. Cette thèse est si invraisemblable qu'elle ne mérite pas d'être examinée sérieusement.
+[7] L'avocat a aussi soutenu que le fait que l'appelant ait invoqué le Renvoi relatif à la rémunération des juges ne comble pas les lacunes repérées par la Cour d'appel de la Colombie-Britannique et, fait plus important encore, cela ne permet pas d'étayer la thèse apparente de l'appelant selon laquelle il faut rendre un tribunal au complet inhabile à exercer les responsabilités prévues par la loi pour cause de partialité ou de crainte de partialité. L'avocat a également fait remarquer que le juge qui préside n'est pas en l'espèce une partie au litige. Par conséquent, le Renvoi relatif à la rémunération des juges ne s'applique pas du tout en l'espèce.
+Conclusion
+[8] La position de l'appelant repose principalement sur la décision de la Cour suprême du Canada dans le Renvoi relatif à la rémunération des juges[5]. Dans cette affaire, les allégations de constitutionalité ont été soulevées en raison d'une réduction de 5 % des traitements des juges de la Cour provinciale de l'Alberta découlant du règlement dit Payment to Provincial Amendment Regulation et du paragraphe 17(1) de la loi dite Provincial Court Judges Act. On y contestait aussi les dispositions des alinéas 13(1)a) et b) de la Provincial Court Judges Act, lesquelles accordent le pouvoir de [TRADUCTION] « désigner l'endroit où doivent résider les juges » et de [TRADUCTION] « désigner les jours de session de la cour » . La décision de la Cour suprême était que le paragraphe 17(1) de la Provincial Court Judges Act, qui prévoie que le lieutenant-gouverneur en conseil « peut » fixer les traitements des juges, violait l'alinéa 11d) de la Charte parce que ce paragraphe n'était pas conforme aux exigences en matière de sécurité financière individuelle parce qu'il omettait de préciser qu'il est obligatoire de verser des traitements aux juges de la Cour provinciale. De plus, les alinéas 13(1)a) et b) de la Provincial Court Judges Act, qui confèrent le pouvoir de « désigner l'endroit où doivent résider les juges » et de « désigner les jours de session de la cour » ,étaient inconstitutionnels parce que les deux dispositions conféraient au procureur général le pouvoir de prendre des décisions qui portaient atteinte à l'indépendance administrative de la Cour provinciale.
+[9] Compte tenu de ce qui précède, l'appelant a pris comme position que, étant donné que la désignation du lieu de résidence des juges par le gouvernement empiète sur l'indépendance administrative de la magistrature, il y a eu violation de la Charte, ce qui pourrait engendrer une crainte raisonnable de partialité. Il a également fait observer que dans la décision rendue relativement au Renvoi, on mentionne le fait que la possibilité de continuer de désigner le lieu de résidence des juges pourrait servir à punir les juges dont les décisions ne favorisent pas le gouvernement. Selon lui, cela engendrerait aussi une crainte raisonnable de partialité. La question a été examinée dans le cadre de cet appel parce que, comme la Cour suprême l'a noté :
+[...] Les contestations constitutionnelles semblent avoir été précipitées, dans une large mesure, par des remarques faites par le premier ministre Ralph Klein au cours d'une entrevue radiophonique [où il] a déclaré qu'un juge du tribunal pour adolescents de la province, qui avait indiqué qu'il ne siégerait pas afin de protester contre la réduction de son traitement, devrait être « congédié très, très rapidement » .
+[10] La décision de la Cour suprême selon laquelle les alinéas 13(1)a) et b) de la Provincial Court Judges Act de l'Alberta sont inconstitutionnelsétait fondée principalement sur le langage utilisé dans la loi. Comme le juge en chef Lamer l'a fait remarquer :
+266 L'alinéa 13(1)a) accorde le pouvoir de « désigner l'endroit où doivent résider les juges » . L'avocat de l'appelante a souligné à juste titre qu'il est raisonnable (quoique non nécessaire) d'investir l'exécutif du pouvoir de désigner le lieu de résidence des juges, puisque cette décision concerne l'affectation judicieuse des ressources de la cour. Toutefois, ce qui me préoccupe c'est que, suivant son libellé actuel, cet alinéa fait naître une crainte raisonnable qu'il puisse être utilisé pour punir les juges dont les décisions ne favorisent pas le gouvernement ou, inversement, à récompenser les juges dont les décisions sont favorables au gouvernement. La lacune de l'al. 13(1)a) sur le plan constitutionnel réside dans le fait qu'il ne s'applique pas uniquement à la nomination initiale des juges. L'appelante a tenté de démontrer que, suivant l'interprétation qui doit être donnée de cet alinéa, celui-ci a effectivement cette portée limitée. Toutefois, le texte de cette disposition n'a pas la portée restreinte que l'appelante lui attribue. L'alinéa 13(1)a) autorise le procureur général et ministre de la Justice à désigner le lieu de résidence des juges en tout temps, tant au moment de sa nomination initiale que par la suite. Il viole donc l'al. 11d) de la Charte (je souligne).
+L'alinéa 13(1)a) de la loi de l'Alberta a été jugé inconstitutionnel parce qu'il ne s'appliquait pas uniquement à la nomination initiale des juges. L'alinéa 13(1)a) diffère du paragraphe 6(1) de la Loi sur la Cour canadienne de l'impôt, lequel prévoit que « les juges doivent résider dans la région de la capitale nationale définie à l'annexe de la Loi sur la capitale nationale ou à quarante kilomètres au plus de ses limites » . Je remarque également que le juge en chef Lamer a clairement dit qu'il convenait d'investir l'exécutif du pouvoir de désigner le lieu de résidence des juges parce que cette décision concerne l'affectation appropriée des ressources de la Cour. Compte tenu de tout ce qui précède, j'en arrive à la conclusion que le paragraphe 6(1) de la Loi sur la Cour canadienne de l'impôt n'est pas inconstitutionnel.
+[11] Je constate également que l'appelant ne s'est fondé sur aucun fait pour appuyer la position qu'il a prise qu'une crainte raisonnable de partialité serait engendrée si son appel était entendu par un juge de la Cour canadienne de l'impôt. En l'absence d'indications en ce sens, il ne serait pas raisonnable de conclure que les juges de la Cour de l'impôt seraient influencés par le fait qu'ils doivent se déplacer entre Ottawa et Vancouver pour instruire cette affaire. Par conséquent, la requête de l'appelant est rejetée.
+Requête de l'intimée en vue d'obtenir une ordonnance ayant pour effet d'annuler l'appel
+[12] La présente requête constitue la réponse du ministre à la demande présentée par l'appelant pour que sa cotisation d'impôt pour l'année 2002 soit jugée inexacte. En particulier, l'appelant a fait valoir ce qui suit :
+[TRADUCTION]
+Le total des crédits d'impôt non remboursables fédéraux est inexact [...], car le « montant payable » dans le calcul de [son] impôt à payer selon l'article 118.7 de la Loi de l'impôt sur le revenu pour les cotisations d'assurance-emploi des employés, soit un montant de 858 $ (calculé selon un taux de cotisation des employés de 2,2 % ou de 2,20 $ par tranche de rémunération de 100 $ jusqu'à concurrence de 39 000 $) établi par le gouverneur en conseil, est illégal étant donné qu'il va à l'encontre des dispositions suivantes : les alinéas 2b) et 2d) et l'article 7 de la Charte canadienne des droits et libertés.
+L'intimée fait valoir que l'article 118.7 sert au calcul des crédits d'impôt non remboursables des contribuables. Ces crédits d'impôt permettent de réduire l'impôt que les particuliers doivent payer. Par conséquent, l'article 118.7 est une sorte de disposition relative à des frais et il est avantageux pour les contribuables. L'avocat a affirmé qu'en raison des deux points susmentionnés, même si l'appelant obtenait gain de cause en fin de compte et que, pour une raison ou pour une autre, le montant du crédit était jugé illégal parce qu'il était trop élevé ou simplement illégal, une telle conclusion aurait pour effet une réduction du montant déterminé en vertu de l'article 118.7, laquelle coïnciderait avec une augmentation du montant d'impôt à payer par l'appelant pour ce qui est de la cotisation de 2002. Selon l'avocat, cela ne relève pas de la compétence de la Cour canadienne de l'impôt. Pour appuyer ses affirmations, l'avocat s'est référé à l'affaire Valdis v. R.[6],dans laquelle le juge Hamlyn a dit ce qui suit :
+[...] que l'article 118.7 de la Loi prévoit expressément le calcul de crédits au titre de cotisations d'assurance-emploi et de cotisations au RPC qui réduisent l'impôt exigible d'un contribuable, et que le calcul de ces crédits est donc un des éléments constitutifs d'une cotisation du ministre qui relève à juste titre de la compétence de notre cour.
+Le juge Hamlyn a poursuivi en disant :
+Bien que notre cour ait compétence pour examiner des retenues à la source au titre de l'assurance-emploi et du RPC auxquelles pourrait avoir droit l'appelante, cette dernière cherche à obtenir une décision qui donnerait lieu à une obligation fiscale supérieure, et notre cour n'a pas compétence pour entendre un tel appel. [...]
+L'avocat a fait valoir que l'absence de compétence concernant l'augmentation de l'obligation fiscale des contribuables était délibérée et qu'elle visait clairement à permettre aux contribuables de se présenter devant cette cour et d'avoir la certitude que, quoi qu'il advienne, ils ne peuvent pas se retrouver avec une obligation fiscale supérieure.
+[13] En ce qui concerne le reste des arguments de l'appelant fondés sur la Charte, l'avocat a fait remarquer que l'appelant ne s'est pas fondé sur des faits pour appuyer les violations alléguées.
+Réponse de l'appelant
+[14] L'appelant soutient que cette cour a la compétence initiale exclusive nécessaire pour entendre et juger les appels et les renvois relatifs à des questions découlant de la Loi de l'impôt sur le revenu. Selon lui, cela permet à la Cour de juger un appel à l'égard d'une cotisation d'impôt de l'appelant dans le cadre duquel elle a le droit d'examiner les [TRADUCTION] « questions de droit » . En l'espèce, il conteste la façon dont [TRADUCTION] « le gouvernement » a établi le taux des cotisations d'assurance-emploi pour 2002 en confiant la responsabilité de le faire [TRADUCTION] « au gouverneur en conseil » . Il soutient que cela a été fait sans [TRADUCTION] « déterminer les critères à utiliser » et a donc [TRADUCTION] « engendré un certain manque de précision » , ce qui a fait en sorte que le taux établi [TRADUCTION] « a imposé des cotisations excessives et illégales aux employés aux termes de la Loi sur l'assurance-emploi » . Il a mentionné précisément un commentaire formulé par le vérificateur général, dont la partie pertinente est libellé comme suit :
+[...] Ni la Commission ni le gouvernement n'ont précisé et divulgué ce qui constitue un niveau approprié d'excédent accumulé, le temps requis pour l'atteindre et les facteurs à considérer. Par conséquent, nous ne pouvons conclure que l'esprit de la Loi sur l'assurance-emploi a été respecté lors de l'établissement des taux. Le gouvernement compte revoir le processus d'établissement des taux avant que ne soit fixé le taux de cotisation pour 2004[7].
+L'appelant s'est référé à l'énoncé suivant dans Constitutional Law of Canada[8] : « Les mesures prises en vertu d'un pouvoir statutaire ne sont valides qui si elles se situent à l'intérieur de la portée de ce pouvoir. » Il soutient que lorsque les cotisations d'assurance-emploi des employés ont été établies en 2002, le gouvernement n'a pas agi dans le cadre de ses attributions, car il n'a pas tenu compte de l'objet de la Loi sur l'assurance-emploi, il n'a pas précisé comment il a fait pour calculer le taux de cotisation pour 2002 et il a imposé aux employés des cotisations d'assurance-emploi excessives et illégales. Par conséquent, les cotisations que l'appelant a payées en 2002 étaient inconstitutionnelles, et les crédits d'impôt pour cotisations d'assurance-emploi accordés en application de l'article 118.7 de la Loi de l'impôt sur le revenu sont donc inconstitutionnels et inexacts.
+[15] L'appelant conteste particulièrement la position de l'intimée selon laquelle les questions constitutionnelles soulevées ne devraient pas être examinées à ce moment-ci. Il soutient que, même si le ministre soutient que la Cour canadienne de l'impôt n'a pas compétence pour entendre un appel dont la décision demandée aurait pour effet d'augmenter son obligation fiscale, la validité d'une loi en cause est pertinente en ce qui concerne l'issue de ce litige[9]. En particulier :
+[TRADUCTION]
+[L'appelant] demande qu'une décision d'inconstitutionnalité soit rendue, et qu'une réparation soit accordée à l'égard de la décision en vertu de l'article 24(1) de la Charte, compte tenu du sous-alinéa 171(1)b)(iii) de la Loi de l'impôt sur le revenu, laquelle décision entraînera un nouvel examen de la question de l'inconstitutionnalité par le ministre et non pas par la Cour de l'impôt. Il est évident que le ministre se trompe quand il affirme que si la Cour de l'impôt se penche sur la constitutionalité des questions soulevées par l'appelant et qu'une décision d'inconstitutionnalité est rendue par la suite par la Cour de l'impôt, cela entraînerait une plus grande obligation fiscale pour l'appelant. En fait, il n'y a pas eu d'augmentation de l'impôt de l'appelant, il y a simplement eu une conclusion d'inconstitutionnalité, et l'affaire est renvoyée au ministre, qui a le pouvoir discrétionnaire de réexaminer la décision de la Cour de l'impôt.
+[16] L'appelant soutient également que les diverses décisions de la Cour de l'impôt selon lesquelles la Cour ne peut pas entendre un appel où la décision que l'appelant souhaite obtenir entraînerait une augmentation de l'impôt à payer vont à l'encontre des alinéas 2b) et 2d) et de l'article 7 de la Charte, ainsi que de l'alinéa 2e) de la Déclaration canadienne des droits.
+[17] L'appelant prétend essentiellement que la cotisation de 2002 est inexacte en raison de l'inconstitutionnalité des cotisations d'assurance-emploi. Dans ces conditions, [TRADUCTION] « le résultat est que la somme payée par l'appelant à titre de cotisations d'assurance-emploi peut donc être considérée comme un "paiement en trop" » au sens du paragraphe 164(7) et, à ce titre, le ministre doit lui rembourser cette somme conformément aux dispositions des paragraphes 164(1) et (7) de la Loi de l'impôt sur le revenu. De plus, il soutient qu'il faut considérer qu'un tel remboursement est visé par le paragraphe 152(4.3)[10] et qu'[TRADUCTION] « un remboursement aurait pour effet de réduire la cotisation d'impôt à payer pour cette année-là » .
+Conclusion
+[18] Je vais tout d'abord traiter de la question de compétence soulevée par l'appelant. Il soutient que [TRADUCTION] « l'application et l'adoption de la règle de common law » selon laquelle la Cour canadienne de l'impôt ne peut pas entendre un appel si l'appel peut entraîner une augmentation de l'impôt de l'appelant portent atteinte aux droits constitutionnels de l'appelant prévus aux alinéas 2b) et 2d) et à l'article 7 de la Charte, de même qu'à l'alinéa 2e) de la Déclaration canadienne des droits.
+· Voici le libellé de l'alinéa 2b) de la Charte :
+Chacun a les libertés fondamentales suivantes :
+[...]
+b) liberté de pensée, de croyance, d'opinion et d'expression,
+y compris la liberté de la presse et des autres moyens de communication (l'appelant souligne);
+L'appelant soutient qu'il n'y a pas de disposition dans la Loi de l'impôt sur le revenu qui prévoit que le montant d'impôt à payer déterminé par le ministre doit en fin de compte rester inchangé ou être moins élevé. Il fait valoir qu'il a le droit de savoir [TRADUCTION] « le juste montant d'impôt qu'il doit payer » , peu importe s'il est plus élevé ou moins élevé, et que le refus par le ministre de le faire constitue une violation de l'alinéa 2b) de la Charte.
+· L'appelant se fonde aussi sur l'alinéa 2d), qui est libellé comme suit :
+Chacun a les libertés fondamentales suivantes :
+[...]
+d) liberté d'association.
+Et, il allègue qu'il est un [TRADUCTION] « "travailleur au Canada" et associé avec d'autres travailleurs au Canada, lesquels sont "associés les uns aux autres" et forment donc une association pour l'application de la Loi de l'impôt sur le revenu et de la Loi sur l'assurance-emploi » . Il dit que la cotisation en l'espèce et la façon dont elle a été établie portent atteinte aux droits de cette association étant donné que, si la position du ministre est juste, aucune des personnes faisant partie d'un groupe de travailleurs au Canada aux termes de la Loi sur l'assurance-emploi ne pourrait débattre de questions semblables devant la Cour de l'impôt. Cela imposerait effectivement des restrictions à tous les travailleurs selon la Loi et constituerait une violation de l'alinéa 2d) de la Charte.
+· Il a également mentionné l'article 7 de la Charte, dont voici le libellé :
+Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu'en conformité avec les principes de justice fondamental (l'appelant souligne).
+Il affirme que [TRADUCTION] « la règle de common law contestée constitue une privation de la liberté de l'appelant, car elle intervient dans les affaires qui sont importantes d'un point de vue personnel, comme le fait de chercher à savoir quel est le juste montant d'impôt qu'une personne doit payer » . Ces violations ont lieu parce que le ministre, en soutenant que la Cour canadienne de l'impôt ne peut pas entendre un appel dont le résultat est une augmentation de l'impôt de l'appelant, essaie de limiter le droit à une instruction équitable pour la détermination des droits et des obligations de l'appelant en vertu de la Constitution du Canada. Selon lui, cela entraîne une violation de l'alinéa 2e) de la Déclaration canadienne des droits, qui prévoit, entre autres, que « nulle loi du Canada ne doit s'interpréter ni s'appliquer comme privant une personne du droit à une audition impartiale de sa cause, selon les principes de justice fondamentale, pour la définition de ses droits et obligations » .
+[19] Il m'est impossible d'accepter l'argument de l'appelant selon lequel [TRADUCTION] « on a fait complètement abstraction des questions de constitutionnalité de la Loi de l'impôt sur le revenu, ce qui équivaut à une instruction inéquitable et qui finit par entraîner une violation des droits prévus à l'alinéa 2e) » . L'appelant n'a présenté absolument aucune preuve de fond pouvant appuyer sa position, et ses arguments ne m'ont pas convaincu qu'il y a eu violation de la Charte ou de la Déclaration canadienne des droits. De plus, n'est pas fondé l'argument de l'appelant selon lequel le ministre a mal appliqué la loi et la jurisprudence en soutenant que cette cour n'a pas compétence pour entendre un appel où la décision souhaitée donnerait lieu à une augmentation de l'obligation fiscale.
+[20] Dans ce contexte, je me réfère à l'affaire Cooper v. M.N.R.[11], dans laquelle le juge en chef adjoint Christie a formulé le commentaire suivant concernant la compétence de cette cour :
+[...] Le paragraphe 171(1) de la Loi dispose :
+171(1) La Cour canadienne de l'impôt peut statuer sur un appel
+a) en le rejetant, ou
+b) en l'admettant et
+(i) annulant la cotisation,
+(ii) modifiant la cotisation, ou
+(iii) déférant la cotisation au Ministre pour nouvel examen et nouvelle cotisation.
+Un rejet de l'appel ne permettrait pas d'effectuer l'échange proposé. Par ailleurs, si l'appel était admis pour 1981, étant donné que l'admission d'un appel est obligatoirement liée aux sous-alinéas (i), (ii) ou (iii), il faudrait aller plus loin en annulant, en modifiant ou en déférant à l'intimé les nouvelles cotisations. Il serait contradictoire d'admettre l'appel d'un contribuable pour une année d'imposition et, simultanément, de rendre une ordonnance ayant pour effet d'accroître ses obligations fiscales. Cela ne serait pas conforme à l'interprétation qu'il convient de donner au paragraphe 171(1). On a dit que cela équivaudrait à permettre au Ministre d'en appeler de ses cotisations ou nouvelles cotisations : Louis J. Harris v. M.N.R., 64 DTC 5332 à 5337 (C. É.); Shiewitz v. M.N.R., 79 DTC 340 à 341 (C.R.I.) et Boyko et al. v. M.N.R., 84 DTC 1233 à 1237 (C.C.I.).
+[21] Je vais maintenant me pencher sur la question de fond. L'appelant prétend que, comme sa cotisation pour 2002 est inexacte en raison de l'inconstitutionnalité des cotisations d'assurance-emploi, les sommes qu'il a payées à titre de cotisations n'auraient pas dû être payées. Selon lui, le résultat est que la somme payée à l'égard de ses cotisations doit être considérée comme un paiement en trop selon le paragraphe 164(7) de la Loi. L'appelant soutient également que, selon cette disposition, il a droit à un remboursement des cotisations d'assurance-emploi, ce qui aurait pour effet de réduire la cotisation d'impôt à payer pour l'année 2002.
+[22] L'appelant s'est fondé sur les dispositions relatives au paiement en trop de l'article 164 de la Loi de l'impôt sur le revenu, mais son argumentation à ce sujet n'est pas fondée. L'article 118.7 de la Loi prévoit, en partie, ce qui suit :
+118.7 Le produit de la multiplication du taux de base pour l'année par le total des montants suivants est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+a) le total des montants que le particulier doit payer pour l'année à titre de cotisation ouvrière en application de la Loi sur l'assurance-emploi, à concurrence du maximum payable pour l'année en application de cette loi;
+[...]
+(ii) le montant déductible en application de l'alinéa 60e) dans le calcul de son revenu pour l'année.
+Il n'est pas contesté que, selon l'article 118.7 de la Loi, un crédit d'impôt pour cotisations d'assurance-emploi réduit le montant d'impôt à payer. Toutefois, selon cet article, il est évident que l'obligation relative aux cotisations d'assurance-emploi ne découle pas de cette partie de la Loi, laquelle obligation est mentionnée dans la définition figurant au paragraphe 164(7) et dont voici le libellé :
+164(7) Au présent article, un paiement en trop fait par un contribuable pour une année d'imposition est égal au montant suivant :
+a) si le contribuable n'est pas une société, le total des sommes versées sur les montants dont le contribuable est redevable en vertu de la présente partie pour l'année, moins ces mêmes montants (je souligne) :
+b) [...]
+Selon moi, il n'y a qu'une seule conclusion possible et c'est que les cotisations des employés payables en vertu de la Loi sur l'assurance-emploi ne constituent pas « une somme versée sur les montants dont le contribuable est redevable » pour les besoins du calcul d'un « paiement en trop » effectué par un contribuable pour l'année d'imposition, et ne peuvent pas être ainsi considérées, comme l'appelant l'a fait valoir avec instance. Donc, même si cette cour acceptait la position de l'appelant selon laquelle les cotisations d'assurance-emploi sont inconstitutionnelles, le crédit prévu à l'article 118.7 pour les cotisations d'assurance-emploi serait quand même de zéro. De plus, la disparition du crédit disponible en vertu de l'article 118.7 de la Loi aurait pour effet d'augmenter l'obligation fiscale de l'appelant, ce qui dépasse nettement l'étendue de la compétence de cette cour. Il n'y a pas d'autres conclusions possibles que celle énoncée ci-dessus, peu importe l'interprétation de la loi.
+[23] La requête de l'intimée est accueillie, et l'appel interjeté contre la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est annulé.
+Signé à Ottawa, Canada, ce 11e jour d'août 2005.
+« A.A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme ce 26e jour d'avril 2006.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI503
+NO DU DOSSIER DE LA COUR :
+2004-2118(IT)I
+INTITULÉ DE LA CAUSE :
+Frank Yates c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 27 juin 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge A.A. Sarchuk
+DATE DU JUGEMENT :
+Le 11 août 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gavin Laird
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Étude :
+S/O
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1985] 2 R.C.S. 673.
+[2] Ce document est décrit comme la première vérification de la Cour fédérale et de la Cour de l'impôt réalisée à la demande du ministre de la Justice : Ottawa, le 22 avril 1997.
+[3] [1997] 3 R.C.S. 3.
+[4] [1992] 5 W.W.R., 481, p. 490-491, (B.C.A.).
+[5] Ce renvoi concernait trois appels de la Cour suprême de l'Île-du-Prince-Édouard, de la Cour d'appel de l'Alberta et de la Cour d'appel du Manitoba. En règle générale, dans chaque cas, la question était de savoir si certaines lois provinciales portaient atteinte à l'indépendance judiciaire et, si oui, si l'atteinte était justifiable.
+[6] (2001) 1 C.T.C. 2827.
+[7] Rapport du vérificateur général du Canada à la Chambre des communes, 2002, page 38.
+[8] Peter Hogg, Student Edition, 2002.
+[9] Je suppose que, dans ce contexte, l'appelant parle de la partie de la Loi sur l'assurance-emploi qui concerne l'établissement des taux de cotisation dont il est question.
+[10] Cotisation corrélative.
+[11] 87 DTC 194. Voir aussi Valdis v. R., précitée; et Gardner v. R., (2000) 4 C.T.C. 2531 (C.C.I.), (2002) 1 C.T.C. 302 (C.A.F.).

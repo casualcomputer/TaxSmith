@@ -1,0 +1,99 @@
+Title: Ryan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25162/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-132-25162-ryan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-03-17
+
+# Ryan v. The Queen
+
+- Citation: 2006 CCI 132
+- Decision date: 2006-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2578, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ryan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-17
+Référence neutre
+2006 CCI 132
+Numéro de dossier
+2005-1134(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI132
+Date : 20060317
+Dossier : 2005-1134(IT)I
+ENTRE :
+MARTY RYAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Ottawa (Ontario), le 31 octobre 2005.)
+La juge Lamarre
+[1] L’unique question que je dois trancher est de savoir si l’alinéa 18(12)a) de la Loi de l’impôt sur le revenu (la « Loi ») empêche l’appelant de déduire des frais de travail à domicile pour les années d’imposition 2000, 2001 et 2002.
+[2] L’alinéa 18(12)a) est ainsi rédigé :
+(12) Travail à domicile. Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+[3] Plus précisément, la question est de savoir si le local de travail que l’appelant avait aménagé dans son domicile était son principal lieu d’affaires durant les années en cause. Si tel n’était pas le cas, le local de travail lui servait-il exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise?
+[4] La preuve révèle que l’appelant travaille à temps plein à la Pontiac Physiotherapy Clinic (la « clinique du Pontiac »). Il passe tous les matins à la Wakefield Physiotherapy Clinic (la « clinique de Wakefield ») pour y déposer le linge lavé à son domicile et pour y prendre d’autre linge à laver et les documents nécessaires à la gestion de l’entreprise à partir de son domicile. Les fonctions de gestion de l’appelant comprennent des tâches de comptabilité quotidienne et la planification d’activités pour les patients. La clinique de Wakefield est dotée d’un ordinateur où sont enregistrés les dossiers des patients. La réceptionniste de la clinique et l’appelant se servent de l’ordinateur, mais pas l’autre physiothérapeute qui travaille à la clinique. L’appelant n’a pas de bureau à la clinique de Wakefield.
+[5] À la clinique du Pontiac, la réceptionniste partage un bureau et un ordinateur avec un autre physiothérapeute et un massothérapeute, qui se servent de l’ordinateur pour enregistrer les dossiers de leurs patients. L’appelant fait tous ses traitements de physiothérapie à cette clinique. Il rencontre entre 16 et 20 patients par jour. La réceptionniste fixe les rendez‑vous, accueille les patients, change les draps et perçoit les paiements des patients qui paient immédiatement.
+[6] Toute la facturation est faite par l’appelant, à partir de son domicile. Le numéro de téléphone et l’adresse inscrits sur les factures sont ceux de la clinique. L’appelant accomplit tout son travail de comptabilité à son domicile. Les paiements sont envoyés à une case postale. L’appelant donne suite à tous les appels téléphoniques de ses patients à partir de son bureau à domicile, les soirs et le samedi. L’appelant appelle ses patients à partir de son domicile pour assurer un suivi ou pour leur donner des conseils professionnels. Il a affirmé passer, en moyenne, de trois à cinq appels par soir et le samedi.
+[7] À la demande de ses patients, l’appelant remplit aussi des formulaires d’assurance et de stationnement pour handicapé. Il se fait payer pour effectuer ces tâches, ce qu’il fait à son bureau à domicile. Il fixe aussi des rendez‑vous avec ses patients lorsqu’il leur parle au téléphone à partir de son domicile. Il conserve son calendrier de rendez‑vous chez lui. C’est aussi à son domicile qu’il fait des calculs statistiques relatifs à son travail.
+[8] L’appelant ne traite pas de patients à son domicile, mais plutôt à la clinique. Il n’a pas l’habitude, pour des raisons de sécurité, de donner son numéro de téléphone à domicile à ses patients, mais il lui arrive de le faire avec ceux qu’il connaît bien.
+[9] L’appelant n’a aucune dépense publicitaire. Il a toutefois accepté que le Ottawa Valley Guide et Canada 411 répertorient gratuitement ses services. Ce sont les adresses et les numéros de téléphone des cliniques de Wakefield et du Pontiac qui apparaissent dans ces répertoires. Sur les feuillets T4 qu’il remet à ses employés, les deux cliniques sont désignées comme employeur, et les deux adresses sont indiquées.
+[10] Le ministre a refusé la déduction des frais de local de travail à domicile au motif que le local de travail aménagé par l’appelant dans son domicile n’était pas son principal lieu d’affaires.
+[11] Je suis convaincue que l’appelant effectue la plus grande partie du travail pour la clinique de Wakefield à partir de son domicile. À mon avis, son bureau à domicile est son principal lieu d’affaires quant à cette clinique; il satisfait donc au critère établi par le sous-alinéa 18(12)a)(i) de la Loi.
+[12] Le travail effectué par l’appelant pour la clinique du Pontiac est partagé également entre cet endroit et son domicile. Durant les jours de travail, l’appelant donne des traitements de physiothérapie à ses patients à la clinique. Il assure le suivi de ces traitements à partir de son domicile, le soir et le samedi. Il s’occupe aussi de toutes les tâches administratives à partir de son domicile. Il peut donc être difficile de conclure, à l’égard de la clinique du Pontiac, que le local de travail aménagé dans le domicile de l’appelant est son principal lieu d’affaires. Je suis toutefois convaincue que le local de travail décrit par l’appelant lui sert exclusivement à tirer un revenu d’une entreprise.
+[13] Il reste à savoir si l’appelant se sert du local de travail pour rencontrer des patients sur une base régulière et continue dans le cadre de l’entreprise. Dans Vanka v. R, [2001] 4 C.T.C. 2832, [2001] A.C.I. no 663 (QL), la Cour a conclu que le professionnel rencontrait ses patients, au sens du sous‑alinéa 18(12)a)(ii) de la Loi, en se rendant disponible pour répondre à leurs question par téléphone.
+[14] En l’espèce, je conclus que les appels téléphoniques que l’appelant passe à ses patients le soir et le samedi à partir de son domicile sont comparables à des rencontres avec ses patients ayant lieu chez lui.
+[15] Je considère comme avéré que l’appelant agissait de la sorte pour des raisons de sécurité. L’appelant donnait des traitements, pour ensuite assurer le suivi de ses patients en leur parlant directement, par téléphone, à partir de son bureau à domicile.
+[16] L’appelant passait entre trois et cinq appels par soir, et en passait aussi le samedi. L’intimée n’a pas contesté ce fait. À mon avis, l’appelant se servait du local de travail qu’il avait aménagé dans son domicile pour rencontrer des clients sur une base régulière et continue. Dans le bulletin d’interprétation IT-514, l’Agence du revenu du Canada affirme que l’utilisation par un médecin de son bureau à domicile pour rencontrer cinq patients par jour, cinq jours par semaine, constitue un bon exemple d’un local de travail servant à rencontrer des patients sur une base régulière et continue. Je conclus donc que l’appelant satisfait au critère établi par le sous‑alinéa 18(12)a)(ii) de la Loi, et qu’il a le droit de déduire les frais de local de travail à domicile à l’égard du travail effectué pour la clinique du Pontiac.
+[17] Puisque l’intimée n’a pas contesté le montant des frais, et en raison des mes conclusions quant à chacune des cliniques, les appels sont accueillis avec dépens, et l’appelant à le droit de déduire les frais de local de travail à domicile pour les années d’imposition 2000, 2001 et 2002, en application du paragraphe 18(12) de la Loi.
+Signé à Ottawa (Canada) ce 17e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 5e jour de mai 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2006CCI132
+Nº DU DOSSIER DE LA COUR :
+2006-1134(IT)I
+INTITULÉ :
+Marty Ryan et La Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 31 octobre 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 17 mars 2006
+COMPARUTIONS :
+Représentant de l’appelant :
+Jack R. Bowerman
+Avocate de l’intimée :
+Me April Tate
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

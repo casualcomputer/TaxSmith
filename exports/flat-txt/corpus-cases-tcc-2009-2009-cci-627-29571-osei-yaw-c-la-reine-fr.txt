@@ -1,0 +1,111 @@
+Title: Osei-Yaw c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29571/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-627-29571-osei-yaw-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-12-15
+
+# Osei-Yaw c. La Reine
+
+- Citation: 2009 CCI 627
+- Decision date: 2009-12-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6327, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osei-Yaw c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-15
+Référence neutre
+2009 CCI 627
+Numéro de dossier
+2009-2823(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2823(IT)I
+ENTRE :
+MICHAEL OSEI-YAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 décembre 2009, à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2006 et 2007 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 23e jour de mars 2010.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 627
+Date : 20091215
+Dossier : 2009-2823(IT)I
+ENTRE :
+MICHAEL OSEI-YAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Monsieur Osei-Yaw a interjeté appel, dans le cadre de la procédure informelle de la Cour, des nouvelles cotisations établies relativement à ses années d’imposition 2006 et 2007.
+[2] En 2006, et à nouveau au début de 2007, M. Osei-Yaw a retiré des fonds de son régime enregistré d’épargne‑retraite (« REER »). Il voulait que les retraits soient effectués en application des dispositions relatives au Régime d’accession à la propriété prévues par la Loi de l’impôt sur le revenu (la « Loi »), lesquelles permettent les retraits en franchise d’impôt lorsque certaines conditions sont remplies.
+[3] La seule question soulevée en l’espèce est de savoir M. Osei‑Yaw avait l’intention d’occuper la maison qu’il a achetée au début de 2007, à l’aide du produit du REER, dans l’année suivant les dates des retraits.
+[4] Monsieur Osei-Yaw a retiré environ 20 000 $ de son REER. Il s’est servi de cet argent pour faire un versement comptant au titre d’un triplex locatif situé à l’Île‑Perrot. La vente a été conclue en février 2007 et un avis écrit du changement de propriétaire a alors été donné aux locataires pour faire en sorte que les loyers soient versés à la bonne personne. Aucun avis de résiliation n’a été donné aux locataires à ce moment.
+[5] Monsieur Osei-Yaw et son épouse vivaient alors dans une résidence louée située sur la terrasse St-Roch, à Montréal.
+[6] Dans son témoignage, le contribuable a allégué qu’il avait initialement eu l’intention d’occuper avec sa famille le logement du troisième étage, lequel était le plus grand des trois appartements. Il a affirmé que deux choses l’avaient poussé à changer d’avis peu après l’acquisition. Premièrement, le locataire du troisième étage, étant handicapé, aurait besoin de plus de temps pour trouver un nouvel appartement. Deuxièmement, lorsqu’il a appris à son épouse qu’il avait acheté cette nouvelle demeure, elle lui a déclaré qu’elle ne souhaitait nullement vivre à l’Île‑Perrot.
+[7] Selon M. Osei-Yaw, il aurait alors décidé d’occuper l’appartement situé au sous‑sol. Il a affirmé avoir plusieurs fois demandé de vive voix à Mme McGregor, locataire de cet appartement, de quitter les lieux. Ces demandes auraient été faites à l’occasion de rencontres avec elle. Il a ajouté qu’elle voulait toujours repousser la date de son départ et qu’elle était de toute évidence réticente à quitter l’appartement. Au cours du contre‑interrogatoire, il a mentionné qu’il pensait qu’elle aussi était handicapée, qu’elle avait des troubles mentaux et qu’elle aurait donc également besoin de plus de temps pour déménager.
+[8] En décembre 2008, M. Osei-Yaw a donné à Mme McGregor un dernier avis écrit de résiliation de son bail pour la fin de juin 2009.
+[9] En mars 2009, M. Osei-Yaw a avisé son propriétaire montréalais qu’il n’avait pas l’intention de renouveler son bail. Son épouse continue de vivre à l’appartement de la terrasse St‑Roch dans le cadre d’une entente, conclue avec le propriétaire, qui pourrait ou non viser M. Osei‑Yaw.
+[10] Dans son témoignage, M. Osei‑Yaw a mentionné qu’il avait emménagé dans l’appartement du sous‑sol de son triplex de l’Île‑Perrot au début de juillet 2009, une fois que Mme McGregor eut quitté les lieux. Son épouse vit toujours dans le logement de la terrasse St‑Roch. M. Osei‑Yaw travaille de nuit. Avant d’aller travailler, il se rend au logement de la terrasse St‑Roch, où son épouse aura préparé le souper. Après le travail, selon ses dires, il se rend à son appartement de l’Île‑Perrot pour dormir puisque son épouse a déjà quitté la maison pour aller travailler. Il semble passer ses fins de semaine avec son épouse au logement de la terrasse St‑Roch.
+[11] Madame McGregor a été appelée à témoigner par la Couronne. Elle a catégoriquement nié le fait que, avant de recevoir l’avis écrit de décembre 2008, on lui ait demandé de quitter l’appartement ou l’ait informée que son bail serait résilié. Elle ne paraissait nullement atteinte de déficience mentale ou d’un autre handicap. Elle a affirmé qu’à sa connaissance, aucun des locataires n’était handicapé.
+[12] À la lumière de la preuve qui m’a été présentée, je ne suis pas convaincu qu’au moment où il a retiré les sommes de son REER, M. Osei‑Yaw avait l’intention de commencer à utiliser l’immeuble de l’Île‑Perrot comme lieu de résidence principal au cours de l’année suivante. Je ne suis saisi que du témoignage de M. Osei‑Yaw à cet égard et aucun élément de preuve à l’appui ne permet de corroborer qu’il s’agissait bien de son intention à un quelconque moment avant décembre 2008, lorsqu’il a donné un avis écrit de résiliation du bail.
+[13] Je n’accepte pas la version des faits offerte par M. Osei‑Yaw sur ce point. Dans son témoignage, Mme McGregor a déclaré que ce dernier ne lui avait pas dit avant décembre 2008 qu’il voulait résilier le bail et j’ajoute foi à ses propos. M. Osei‑Yaw avait toujours su qu’il pouvait mettre fin au bail de Mme McGregor en donnant à celle‑ci un avis de six mois. Il n’a pu fournir beaucoup de précisions sur aucune de leurs discussions touchant la résiliation du bail ou l’obligation de Mme McGregor de quitter les lieux. Il a donné l’avis de décembre 2008 après avoir fait l’objet d’une nouvelle cotisation selon laquelle les retraits du REER n’étaient pas admissibles dans le cadre du Régime d’accession à la propriété. Il semble avoir soulevé l’hypothèse de la déficience mentale de Mme McGregor pour mieux faire concorder ses assertions avec les observations écrites antérieures qu’il a présentées à l’Agence du revenu du Canada voulant qu’il ait éprouvé de la compassion envers un locataire handicapé qui, affirmait‑il, vivait dans l’appartement du haut. Il se peut certainement que lui et son épouse aient maintenant des résidences distinctes, mais, on le remarque, cette explication cadre opportunément avec les faits et l’issue souhaitée. Son épouse n’a pas témoigné.
+[14] Toutes ces difficultés quant à l’état de la preuve dont je suis saisi m’empêchent d’être convaincu, même selon la prépondérance des probabilités, que M. Osei‑Yaw avait l’intention de vivre dans l’immeuble de l’Île‑Perrot dans l’année suivant les retraits du REER qu’il a effectués en 2006 et en 2007.
+[15] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 23e jour de mars 2010.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 627
+NO DU DOSSIER DE LA COUR : 2009-2823(IT)I
+INTITULÉ : Michael Osei-Yaw c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 8 décembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 15 décembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Dany Leduc
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

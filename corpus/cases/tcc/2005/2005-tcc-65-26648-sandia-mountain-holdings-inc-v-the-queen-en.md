@@ -1,0 +1,553 @@
+---
+title: "Sandia Mountain Holdings Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26648/index.do"
+last_modified: "2005-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 65"
+citation2: ""
+neutral_citation: "2005 TCC 65"
+decision_date: "2005-01-18"
+language: "en"
+item_id: "26648"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3620
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:08:36.592000+00:00"
+cases_cited_count: 1
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ff013ce09a0d878f33d4822aecf1961442bc77f2158008b6bf0905196edc93b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandia Mountain Holdings Inc. v. The Queen
+
+- Citation: 2005 TCC 65
+- Decision date: 2005-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3620, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandia Mountain Holdings Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-18
+Neutral citation
+2005 TCC 65
+File numbers
+2003-1672(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1672(IT)G
+2003-1686(IT)G
+BETWEEN:
+SANDIA MOUNTAIN HOLDINGS INC.
+and ELIZABETH KULLA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard together on December 14 and 15, 2004, at Toronto, Ontario, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellants:
+Richard Fitzsimmons and
+Greg Baba (Student-at-law)
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+ORDER
+UPON motions by counsel for the Appellants for an Order:
+(a) compelling the Respondent to provide the Appellant with fulfilment of the further undertaking the Respondent's witness gave on discovery examination;
+(b) striking certain passages from the Respondent's Amended Reply;
+(c) the costs of this motion on a solicitor and client scale, plus goods and services tax; and
+(d) such additional relief and directions as this Honourable Court may deem just and necessary to enable the Appellant's appeal to proceed and to secure the just determination of the real matters in dispute;
+AND UPON motions by counsel for the Respondent for an Order pursuant to section 110 of the Tax Court of Canada Rules (General Procedure):
+(a) directing the Appellants to satisfy certain undertakings given by them at their examination for discovery where the answers given were incomplete, non-responsive or otherwise ambiguous, as set out in Schedule "A" attached hereto;
+(b) directing the Appellants to answer certain questions that they refused or failed to answer at their examination for discovery (including questions taken under advisement but subsequently refused) as set out in Schedule "B" attached hereto;
+(c) directing the Appellants to re-attend at their own expense a continuation of the examination for discovery to answer all proper questions that the Appellant previously refused or failed to answer, and to also answer any proper questions arising from those answers;
+(d) directing the Appellants to re-attend at their own expense a continuation of the examination for discovery to answer further questions relating to matters in issue in the within appeals; and
+(e) directing the Appellants to pay forthwith the costs of this motion, costs thrown away and the costs of the continuation of the examination for discovery.
+AND UPON reading the pleadings, transcripts, etc., filed;
+AND UPON hearing counsel for the parties;
+IT IS HEREBY ORDERED THAT:
+1. The Appellants shall provide written answers to Items 2, 4, 5, 6, 7, 11 and 12 of "Schedule "A" - Undertakings" attached hereto, within 30 days of the date of this Order;
+2. The Appellants shall provide written answers to Items 13, 14, 15, 17, 18, 21, 22 (part), 23, 24, 25, 26, 27, 31, 32, 35, 38, 39 (part), 41, 42, 43, 44, 48 and 49 of Schedule "B" - Refusals" attached hereto, within 30 days of the date of this Order;
+3. The Appellant, Elizabeth Kulla, shall re-attend, at the Respondent's expense, a continuation of the examination for discovery, if required, within 60 days of this Order, and written answers to Undertakings arising therefrom, if any, shall be provided to the Respondent within 14 days from the date of the examination for discovery;
+4 The Appellants' motions set out in paragraphs (b), (c) and (d) are denied;
+5. The Appellants' motion with respect to paragraph (a) is adjourned sine die;
+6. Costs of the Appellants' motions to the Respondent; and
+7 Costs of the Respondent's motion to the Respondent in any event of the cause on the basis of one-half of the tariff costs.
+Signed at Ottawa, Canada, this 18th day of January, 2005.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2005TCC65
+Date: 20050118
+Docket: 2003-1672(IT)G
+2003-1686(IT)G
+BETWEEN:
+SANDIA MOUNTAIN HOLDINGS INC.
+and ELIZABETH KULLA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Miller J.
+[1] The Respondent brought a motion for an Order pursuant to section 110 of the Tax Court of Canada Rules (General Procedure) as follows:
+(a) directing the Appellants to satisfy certain undertakings given by them at their examination for discovery where the answers given were incomplete, non-responsive or otherwise ambiguous, as set out in Schedule "A" hereto;
+(b) directing the Appellants to answer certain questions that they refused or failed to answer at their examination for discovery (including questions taken under advisement but subsequently refused) as set out in Schedule "B" hereto;
+(c) directing the Appellants to re-attend at their own expense a continuation of the examination for discovery to answer all proper questions that the Appellants previously refused or failed to answer, and to also answer any proper questions arising from those answers;
+(d) directing the Appellants to re-attend at their own expense a continuation of the examination for discovery to answer further questions relating to matters in issue in the within appeals; and
+(e) directing the Appellants to pay forthwith the costs of this motion, costs thrown away and the costs of the continuation of the examination for discovery.
+[2] Schedule "A" and Schedule "B" referred to in the Motion are attached to these Reasons. Before addressing each of the undertakings and refusals, it is helpful to briefly identify the issues in these two appeals, and provide some background. In the Sandia Mountain Holdings Inc. ("Sandia") appeal there are three issues:
+(i) Did Sandia underreport income in the years 1993 to 1999? This issue arises due to the admitted practice of Sandia in receiving payments throughout a year from a related company, The Shield & Sword Inns Limited ("Shield"), which it identified on receipt as rent, but then year-end adjusting entries were made to identify a lesser amount as the actual rent payment. Sandia alleges the difference was a loan from Shield to Sandia (the "excess amounts").
+(ii) Did Sandia incur interest expenses ("interest expense") in 1994 to 1998, disallowed by the Minister?
+(iii) Can the Minister reassess Sandia's 1993 to 1997 taxation years beyond the normal reassessment period?
+(iv) Is Sandia liable for penalties pursuant to subsections 162(1) and 163(1) or (2) of the Income Tax Act?
+[3] In the Elizabeth Kulla ("Ms. Kulla") appeal the issues are:
+(i) Did Ms. Kulla receive taxable benefits from Sandia in the 1991 to 1999 taxation years equivalent to the sum of the excess amounts and interest expenses?
+(ii) Can the Minister reassess Ms. Kulla's 1991 to 1996 taxation years beyond the normal reassessment period?
+(iii) Is Ms. Kulla liable for penalties pursuant to section 163(2) of the Income Tax Act?
+[4] The Parties set aside two days in June, 2005, for examinations for discovery. The Respondent took two full days to examine Ms. Kulla, who appeared on her own behalf and as the representative of Sandia. Mr. Fitzsimmons, acting for the Appellants, took two and one-half hours one evening to examine the Respondent's witness.
+[5] The following is a transcript of the last few exchanges between counsel on the conclusion of Ms. Kulla's examination:[1]
+Mr. Fitzsimmons: Do not answer that question.
+Mr. Sood:
+Why not?
+Mr. Fitzsimmons: I've stated the reasons why we're not answering any questions about the Notices of Objection. It's irrelevant.
+Mr. Sood: I'm asking her whether at any point in time she took the position that the amounts designated as economic recovery were bad debts. Mrs. Kulla, I'd like an answer.
+Mr. Fitzsimmons: I've instructed the witness not to answer. You have our position. Please don't belabour the point, please don't harass the witness. We've taken the position. If you disagree with that, there is an appropriate remedy for it, but we're not answering any questions about the Notices of Objection.
+Mr. Sood: Mr. Fitzsimmons, I can't help but feel that throughout this discovery, the Appellant has resisted answering proper questions that have been put to her, that we have now reached an impasse. I do not propose to continue wasting time. Instead, what I am going to do is I'm going to adjourn this discovery and you and I will either come to terms as to the continuation of this discovery or we will seek some other recourse.
+Mr. Fitzsimmons: If you have any other proper questions, I encourage you to ask them, but as far as I'm concerned, this discovery is over.
+Mr. Sood: Mr. Fitzsimmons, I do have questions. I am not going to continue to waste my time. Instead, I am adjourning this discovery at this point.
+Mr. Fitzsimmons: We respectfully disagree on that. The Appellant's position is that you have had two full days of opportunity to examine and she will not voluntarily reattend. With that, I think we've stated our respective positions and I would like to proceed now with my examination of Mr. Maciel. Thank you.
+Mr. Sood: Thank you.
+[6] In reviewing the second day of Ms. Kulla's examination, it is clear that her counsel, Mr. Fitzsimmons, interjected on a continuous basis and often provided the answers himself. Mr. Sood, for the Respondent, maintains these interruptions precluded the Respondent from obtaining a full and fair examination. The Respondent relies on Rule 108 to seek directions from the Court to continue the examination. Mr. Sood advised he got through about 80% of the questions he intended to ask Ms. Kulla.
+[7] On August 30, 2004, the Parties exchanged letters purporting to fulfil their respective undertakings. The Appellants served and filed Notices of Motion returnable December 14, 2004, seeking orders, firstly requiring the Respondent to fulfil one undertaking, and secondly, striking portions of the Amended Replies. The Respondent served and filed Notices of Motion for this application on December 8, 2004.
+[8] All the applications were heard on December 14 and 15, 2004. I dismissed the Appellants' motion to strike portions of the Amended Replies on December 15.
+Appellants' Position
+[9] The Appellants provided a number of written points of argument in response to the Respondent's application. As they are not lengthy I will reproduce them:
+1. Tax litigation differs from ordinary litigation in that the Minister has the statutory right to examine a taxpayer's records at any time and has typically exercised that right in depth when auditing a taxpayer, well before the taxpayer commences a tax appeal. Ordinary litigants have no such right to examine their adversaries' records before commencing litigation. The Minister's need for discovery to obtain information from a taxpayer is therefore narrower than an ordinary litigant's need for discovery. This difference should be borne in mind, it is submitted, when considering the proper and fair scope of the Minister's right to examine a taxpayer for discovery.
+2. A fortiori where the Minister has audited the taxpayer and obtained information which sufficed, in the Minister's opinion, to warrant the imposition of penalties. The Minister ought not to be permitted, in the guise of conducting a discovery, to compel a taxpayer to search for and provide information to buttress the Minister's decision to penalize the taxpayer, it is submitted.
+3. A cardinal rule of discovery is that questions are permissible only if relevant to issues pleaded. The Court will not compel a witness to answer a question which is clearly irrelevant.
+Jacksonv. Belzburg, [1981] 6 W.W.R. 273 (BCCA)
+Baxter v. The Queen, 2004 TCC 636, per Bowman, A.C.J.
+4. Generally, the scope of relevance is wide, but not so wide as to permit a fishing expedition.
+Baxter v. The Queen, supra, at p. 6.
+5. It is improper in a discovery examination to ask a witness what facts she will rely on to prove an allegation in her pleadings or to disprove an allegation in the other party's pleadings.
+Can-Air Services Ltd. v. British Aviation Insurance Co. (1988) 91 A.R. 258 (Alta C.A.), at p. 3.
+Taylorv. Canada [1992] 1 F.C. 316 (FCTD) per Jerome, A.C.J. at para. 15.
+6. It is improper to ask a witness for a view on a matter of opinion or on a question of law.
+Baxter v. The Queen, supra, at p. 6.
+7. An examining party is not entitled to an expression of opinion of the party being examined or of her counsel regarding the use to be made of a document produced by the party being examined.
+Smithkline Beecham Animal Health Inc. v. Canada [2001] T.C.J. No. 86, per Bonner T.C.J. at para. 11.
+8. The Minister's discovery questions should be limited to matters which are not already within the Minister's knowledge, it is submitted. A taxpayer should not be put to the trouble and expense of assembling information the Minister already has, it is submitted.
+Andres Wines v. T.G. Bright & Co. Ltd. (1979) 41 C.P.R. (2d) 113 (FCTD), Per Walsh J., at p. 118.
+Respondent's Position
+[10] The Respondent's position is that simply because Canada Revenue Agency (CRA) had dealings with the Appellants prior to the involvement of the Department of Justice, the scope of the discovery should not be limited, as none of that information was provided under oath and none of it is part of the record. Also, clearly the CRA auditor cannot introduce the Appellants' books and records.
+[11] With respect to the Appellants' position that it is improper through examination to require a compulsory self-investigation by the Appellants to determine facts that might support the imposition of penalties by the Minister of National Revenue (the Minister), the Respondent relies on Rule 95 which reads:
+95(1) A person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that,
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party's officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+(Emphasis added)
+[12] Penalties are a "matter in issue" and regardless of who has the burden of proof, facts surrounding that matter are still examinable.
+[13] It was the Respondent's position that the taxpayer has superior access to the facts and if the Appellants deny the Minister's assumption of facts, it is proper for the Respondent to examine the witness on what facts support such denial, regardless of whether it relates to a penalty.
+[14] With respect to relevance, the Respondent cites Justice Bowman's summary in Baxter v. The Queen[2] of the appropriate principles:
+From these and other authorities referred to by counsel, I can summarize the principles that should be applied:
+(a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+(b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+(c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+(d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+[15] With respect to the appropriateness of asking a witness what facts she will rely on to prove or disprove an allegation in the pleadings, the Appellants relied on Can-Air Services Ltd. v. British Aviation Insurance Co. (1988)[3] from the Alberta Court of Appeal to support the position that such questions are improper. The Respondent pointed out that in the 2000 Ontario decision in Six Nations of the Grand RiverBand of Indians v Attorney General of Canada et al.,[4] Justice Campbell stated:
+As for the Can-Air decision of the Alberta Court of Appeal, which is not binding upon us, it was based on rules of procedure different from our own, and involved the determination of issues quite different from those before us. In Can-Air, the court held that a party could not ask on discovery, "On what facts do you rely in support of the allegations at paragraph 'X' of the statement of claim?" That kind of question is commonplace in discoveries in Ontario. Therefore, the decision in Can-Air is of little assistance on the issue before us. We note that the Alberta Court of Appeal said that it would require a fortune-teller to know what legal position a party would take at trial. Counsel for the Attorney General agreed that in this case it would require a fortune-teller to foresee what legal position the Attorney General for Canada would take at trial. We do not consider that to be a position in keeping with our Rules of Civil Procedure.
+[16] Further in SmithKline Beacham Animal Health Inc. v. Canada,[5] in a decision of Justice Bonner of this Court, he cited with approval Justice Hugessen in Montana Band v. Canada:[6]
+The jurisprudence is divided as to "compendious" or "reliance" questions; in Can-Air Services Ltd. v. British Aviation Insurance Co., 91 A.R. 258, it was said to be improper to ask a witness what evidence he had in support of an allegation or how it was to be proved at trial. Such reliance questions do not ask for facts that the witness knows or can learn but rather require the witness to play the part of a lawyer and to select which facts can be relied on to prove a given allegation.
+On the other hand, many experienced trial judges take a broader view. Thus in Rubinoff v. Newton, [1967] 1 O.R. 402, Haines J. said:
+The line of demarcation between disclosure of facts on which a party relies and the evidence in support of the fact may at times be very fine, and when it occurs, the resolution must be fact disclosure. And I can think of no more simple and direct question than, "On what facts do you rely?" ... The opposite party is entitled to know the facts on which the acts of negligence or recovery are alleged but not the evidence to support it. To deny such facts would be to refuse the very purpose of discovery which is to learn the facts, or often equally more important, the absence of facts, pertaining to each and every allegation in the pleadings.
+Likewise in Brennan v. J. Posluns & Co. Ltd., [1959] O.R. 22, McRuer C.J. ordered a witness to state the facts relied on in support of an allegation. In his view a question of this sort asks not so much for a conclusion of law by a witness as for the facts behind such conclusion. Where the witness is a party who is asserting that conclusion it is reasonable to ask for the facts supporting it.
+In my view, the proper approach is to be flexible. Clearly the kinds of questions which were aptly criticized in Can-Air, supra, ..., can easily become abusive. On the other hand, a too rigid adherence to the rules therein laid down is likely to frustrate the very purpose of examination on discovery. While it is not proper to ask a witness what evidence he or she has to support an allegation, it seems to me to be quite a different thing to ask what facts are known to the party being discovered which underlie a particular allegation in the pleadings. While the answer may have a certain element of law in it, it remains in essence a question of fact. Questions of this sort may be essential to a discovery for the purposes of properly defining the issues and avoiding surprise; if the pleadings do not state the facts upon which an allegation is based then the party in whose name that pleading is filed may be required to do so." (emphasis added)
+[17] The Respondent also relied upon Six Nations to argue that it is proper to ask questions regarding the Parties' legal position.
+Canada has pleaded many issues of law or issues of mixed fact and law. This is perfectly appropriate in a case of this nature. Some of these issues are stated vaguely. Canada takes the position that there is no mechanism under the Rules by which the plaintiff can compel Canada to confirm or clarify its legal position in respect of any issue of law prior to trial, that position is not consistent with the policy underlying the Rules which is to encourage full and frank disclosure prior to trial so as to minimize costs and expedite the just resolution of claims. Further, it is not an interpretation of the Rules which is in accordance with their plain and ordinary meaning.
+...
+Canada's argument, that the lay person produced for discovery on behalf of the defendant is unable to answer questions that call for legal conclusions, is without merit. The Rules contemplate that the person being discovered should inform herself as to issues raised (rule 31.06(1) and rule 35.02(1)) and is not expected to have personal knowledge of every issue. There is also specific provision for questions being answered by legal counsel (rule 31.08). Likewise, there is no problem created by the fact that the person being discovered is under oath. She is not required to swear to the truth of the law, but merely to state what the defendant's current legal position is. If that position changes, she is required to advise the plaintiff, as would be the case for any others on discovery
+[18] Justice Campbell reached this conclusion partially based on his interpretation of the term "matter" meaning something more than just "facts". As the Rule 95 refers to examination of any "matter in issue", the Respondent finds Justice Campbell's reasoning particularly pertinent.
+Analysis
+[19] It is clear the Parties have taken significantly different views on what are proper questions on discovery. The following is my view of the appropriate principles:
+(i) Relevancy: I concur with Justice Bowman's summary cited earlier (see paragraph 14);
+(ii) Limited scope of examination in tax cases involving penalties: The shifting of the onus to the Respondent does not impact on the scope of proper questions on examination for discovery. So, for example, if misrepresentation is a matter in issue, questions into the circumstances of the misrepresentation are proper. While acknowledging that in tax cases, the Respondent has already received considerable information, I agree with the Respondent that such information is not part of the record and has not been obtained in the more formal environment of questions on examinations for discovery. This is not to suggest a party can head off on a fishing expedition. Certainly not. Yet I do not accept that examinations in tax cases are somehow to be limited in scope, as the Appellants' counsel argues.
+(iii) Facts relied on to prove or disprove allegations: Justice Campbell in Six Nations confirms that these types of questions are common place in Ontario, notwithstanding the views of the Alberta Court of Appeal in Can-Air. Different rules. Justice Hugessen made a distinction in Montana between improperly asking what evidence a witness has to support an allegation, and properly asking what facts were within the witness's knowledge to underlie a particular allegation. This is a fine distinction. One approach goes to getting the witness to determine what proof is required, which would not be proper. The other approach of asking for facts underlying an allegation is limited solely to fact-gathering and is proper. Semantics may play too significant a role in making this distinction, yet the distinction is real: questions aimed at getting a witness to confirm that certain facts are proof of certain allegations are out; questions arrived at getting the witness to divulge relevant facts in connection with an allegation are in.
+(iv) Conclusions of law: I believe it is proper to ask questions clarifying the other party's legal position; surely, that is a "matter in issue in the proceeding". This, however, does not mean seeking opinion on what the law is: again, perhaps a subtle distinction. An example may help. In this case, Ms. Kulla pleaded the receipt of rent payments by Sandia from Shield. On examination of Ms. Kulla, she put forth the proposition that there was no lease, but the arrangement was a licensee-at-will. It would be improper to ask "what is a licensee-at-will". It would not be improper to ask what is the arrangement between Sandia and Shield vis-à-vis the property. It would also not be improper to confirm that Ms. Kulla's legal position is that the arrangement was a licensee at will. Had she not pleaded or put forth at examination the assertion that there was a licensee-at-will, but simply described the agreement between Shield and Sandia without drawing any conclusion, then it would be improper to ask, "What then is the legal nature of this agreement?"
+(v) Limitations on matters already within the Minister's knowledge: I do not find such limitations are as far reaching as the Appellants, based on the decision in Andres Wines Ltd. v. T.G. Bright & Co.[7] suggests. The proposition from that case is summarized in paragraph 8:
+It appears to me however somewhat abusive of the process for one party to require the other to expend great time and effort to obtain information within his "means of knowledge" which may be useful to the examining party when such information is also readily available to the examining party who is thus relieved of having to do the necessary research himself to produce this evidence as part of his own case at trial, and that it is preferable, as far as possible, to confine questions on matters within the "means of knowledge" of the party being examined to those facts which are within his means of knowledge, but are not within the means of knowledge of the examining party, who must therefore get this information from the party being examined.
+I do not interpret this to mean that because a CRA auditor has obtained information from the Appellants, it is now within the Respondent's "means of knowledge" and that the Respondent is precluded from asking for such information on discovery. That would place an unrealistic limitation on the Respondent to the point that little, if any, discovery of the Appellants would be available. If Ms. Kulla was able to provide information to an auditor, it should not be an onerous task to produce such information on discovery.
+[20] With these general comments as a backdrop, I now turn to the undertakings and refusals set out in Schedules "A" and "B".
+Undertakings (Schedule "A")
+[21] Item 1. Ms. Kulla's response that the 1992 management fees represent management fees is non-responsive and should be answered with greater specificity, as, for example, in answer to undertaking 19. Ms. Kulla's answer with respect to mortgage interest is adequate.
+Item 2. Ms. Kulla's response is inadequate - details of the transaction should be provided.
+Item 3. Resolved.
+Item 4. Ms. Kulla's response is adequate as it relates to income, but inadequate as it relates to expenses. Details of expenses are unclear and elaboration is required.
+Item 5. The undertaking given by Mr. Fitzsimmons was to provide an explanation of the receivable, note payable and loan payable. By just identifying the parties, the undertaking is not answered adequately; details should be provided.
+Item 6. Mr. Fitzsimmons agreed to obtain information requested from Ms. Kulla's accountant.
+Item 7. The response is adequate for 1997 to 1999, but no response was given for 1991 to 1996 on the basis the years were statute-barred. Whether the years are statute-barred is an issue. Ms. Kulla is not relieved from answering questions in relation to those years. Details should be provided for all years requested.
+Item 8. Ms. Kulla has used the best efforts to answer the questions and no further inquiry is necessary.
+Item 9. The undertaking as to how Sandia accounted for expenses charged to Ms. Kulla's credit card has been answered adequately. No undertaking was given to specify amounts.
+Item 10. Resolved.
+Item 11. The first question in Item 11 is adequately answered. With respect to detailing the amounts, it is not an answer to say the auditor has that information. Ms. Kulla should provide such details.
+Item 12. Mr. Fitzsimmons denied the facts in paragraph 15(x) of the Amended Reply to the Notice of Appeal which reads:
+15(x) Sandia initially debited the Appellant's shareholder loan account by the amount of the expenses paid, but, at year-end, credited the Appellant's shareholder loan account by an amount a series of entries equal to the amount of the Economic Recovery in the 1995, 1995, 1997, 1998 and 1999 taxation years, effectively eliminating the shareholder loan receivable previously debited;
+Yet when asked on discovery, "Does the Appellant admit that Sandia initially debited the Appellant's shareholder loan account by the amount of expenses paid in each of the years 1995, 1996, 1997, 1998 and 1999?", Mr. Fitzsimmons responded: "We've given an undertaking to advise you of such amounts, if any." Ms. Kulla should indicate such amounts, if any.
+The undertakings I have identified to be answered, shall be answered in writing.
+Refusals (Schedule "B")
+[22] The Appellants' counsel helpfully divided the Refusals into six categories:
+(i) Non-Refusals (items 16, 25, 31, 32, 35 and 40)
+(ii) Refusals based on improper questions of law or opinion (items 19, 20, 33, 47, 36, 39, 41, 44, 45 and 46).
+(iii) Fishing expeditions (items 21, 22, 26, 27, 28, 38 and 43).
+(iv) Refusals on the basis the Minister already has the information and that the questions relate to self-investigation by the Appellants to support the Respondent's claim of penalties (items 13, 17, 18, 22, 23, 24 and 27).
+(v) Irrelevant (items 14, 15, 30, 42, 48 and 49)
+(vi) Questions about facts to prove or disprove allegations (items 34 and 36).
+[23] (i) Non-Refusals.
+Item 16. There is no refusal to a specific question.
+Item 25. Mr. Fitzsimmons argued these were not refused as they were answered under the answer for undertaking 28. At the examination, Mr. Fitzsimmons argued these questions were irrelevant. I find Mr. Fitzsimmons's answer to undertaking 28 contained in his letter of August 30, 2004, does not answer item 25. I further find that Shields' treatment of payments to Sandia is relevant. This item should be answered.
+Items 31 and 32. Mr. Fitzsimmons maintained that because mortgage documents were part of the Appellants' list of documents and were also on public record, there was no refusal with respect to these two questions. I disagree. Examination should not have one party sending the other off on a scavenger hunt when the information is readily within their knowledge. Ms. Kulla should answer the questions.
+Item 35. For the same reason as items 31 and 32, Ms. Kulla should answer the question.
+Item 40. Ms. Kulla has already answered this by denying the allegation.
+[24] (ii) Questions of law or opinion
+Items 19 and 20. These are not seeking a conclusion of law as such, but they are seeking proof of a legal position and framed as they are, I find them improper.
+Items 33 and 47. Asking Ms. Kulla to calculate penalties is improper. If liability is determined, the penalties will flow from the trial judge's decision.
+Item 36. Ms. Kulla denied any benefit had been conferred on her. Asking for evidence to support no conferral of benefit is improperly framed.
+Item 39. The request for confirmation of credits to the shareholder loan account is not seeking a conclusion of law or accounting opinion - it is simply looking for confirmation of a fact and should be answered. The latter part of the question that such credits effectively eliminate the shareholder loan receivable requires an accounting opinion and is improper to ask Ms. Kulla.
+Items 41 and 44. These are not seeking accounting opinions but facts only and are to be answered by the witness.
+Items 45 and 46. These are seeking accounting opinions and are improper.
+[25] (iii) Fishing expeditions
+Item 21. Given one issue in the appeal is the nature of receipts by Sandia from Shield, this is a proper question and should be answered.
+Item 22. The interest earned by Sandia from Shield and Sweet Emotions Enterprises Ltd. ("SEEL") is a proper question and is to be answered; however, the balance of the question relating to any other loans is too broad and irrelevant and is therefore improper.
+Item 26. The matter of Ms. Kulla's personal expenses paid by Sandia during the relevant years is not overly broad, but is a proper question and should be answered.
+Item 27. Ms. Kulla argues this is not only too broad, but it is information already held by the Minister. These are specific questions: they are not a fishing expedition. Whether the Minister has some or all of the information, it remains information which only Ms. Kulla has first-hand knowledge. These questions should be answered.
+Item 28. While the question is not overly broad, it appears to have been answered in the negative by Ms. Kulla during her examination. Further, there is no allegation by the Respondent of any direct cash benefits to Ms. Kulla. She need not respond to this question.
+Items 38 and 43. Details of Ms. Kulla's personal expenses paid by Sandia in 1991, 1992, 1993 and 1994, and how Sandia accounted for them is not overly broad and must be provided by Ms. Kulla.
+[26] (iv) Refusals on the basis the Minister already has the information and that questions require self investigation by the Appellants to support Respondent's claim for penalties.
+Items 13, 17, 18, 22, 23, 24, 27. Based on principles cited earlier, I find none of these questions improper and should be answered.
+[27] (v) Irrelevancy: (Items 14, 15, 30, 42, 48 and 49)
+Items 14 and 15. Sandia alleged in its Notice of Appeal that it acquired the tavern property from Shield in 1987. This, combined with the ongoing flow of funds between Sandia and Shield during the relevant years, leads me to conclude these questions are relevant. They must be answered.
+Item 30. After being advised of the adjusting entries long after the years in question, Ms. Kulla sought legal advice. I see no relevance in pursuing what other steps she might have taken at that stage.
+Item 42. Management fees claimed by Sandia for 1992 are relevant. The 1991 management fees may be, but that is best left to the trial judge and I am not prepared to exclude this question. Both parts of this question should therefore be answered.
+Items 48 and 49. Both these questions relate to Sandia's Notice of Objection, which are part of the Appellants' List of Documents. Mr. Fitzsimmons argued that what is in the Notice of Objection is irrelevant. Where the Notice of Objection is produced and it contains a different explanation of events from the Appellants' positions at examinations, questions exploring the differences are relevant and proper. Ms. Kulla is directed to answer these questions.
+[28] (vi) Questions about facts to prove or disprove allegations. (Items 34 and 36)
+Item 34. Paragraphs 11 and 12 in Ms. Kulla's Notice of Appeal state the Minister has disclosed nothing to justify a late reassessment and therefore there is no justification for such late reassessments. To ask what facts support no justification is not only seeking proof of the conclusion of law, but is oblique and vague. It is not a proper question.
+Item 36. The question asks Ms. Kulla to disprove the Respondent's allegation that Sandia conferred benefits on her by paying certain expenses. Ms. Kulla denied any benefit was conferred on her. A general question posed in this manner is confusing. How was she to know what facts proved a non-conferral. She need not answer.
+Mr. Fitzsimmons did not address items 29 and 37. With respect to item 29, Ms. Kulla denied the Minister's assumption set out in paragraph 15(u) of the Respondent's Amended Reply as not being true. The Respondent asked what are the true facts. Although this was an awkward way of asking the question, the Respondent clearly sought information as to why adjusting entries were made. Later in her examination, Ms. Kulla made it equally clear she had Mr. Isaacson to prepare returns and statements. No further response is required.
+With respect to item 37, from a review of the transcript, I fail to see an outright refusal. Ms. Kulla simply does not know of any authorization to Sandia. No further response is required.
+The Refusals I have identified to be answered, shall be answered in writing.
+[29] It remains to determine if Ms. Kulla is to be directed to re-attend further examinations for three purposes:
+(a) for follow-up questions on the answers to Undertakings;
+(b) for follow-up questions on the answers to the Refusals; and
+(c) to complete what the Respondent estimates as the remaining 20% of examination questions.
+[30] Rule 110 certainly contemplates further examinations. Mr. Sood also kept the door open in his remarks at the adjournment of the examination. I am, however, concerned, having read the transcript from Ms. Kulla's two-day examination, that her lack of knowledge of the accounting side of her business, her admission of not reviewing relevant documents and her counsel's strategy of answering on her behalf, objecting, or going off the record are factors which do not suggest an expedient conclusion to an already protracted examination. My assessment is that this witness is unlikely to add more to what the Respondent has already obtained, especially if she fully answers the Undertakings and Refusals I have ordered answered. However, I am not privy to what Mr. Sood referred to as the remaining 20% of questions he never got to. In that regard, the examination had not been completed. I do therefore order the resumption of the examination of Ms. Kulla, though not at her own expense, for the purpose of answering further questions relating to matters in issue in the appeals not previously asked.
+[31] If, upon receiving the answers to the Undertakings and Refusals, Mr. Sood is satisfied further examinations are unnecessary, this would be welcome news. The issues do not strike me as complex, and further lengthy examination with the risk of possible further opposing motions may result in an unnecessary procedural quagmire - a state in this Court which is, fortunately, rare.
+[32] To place some time lines on the above, I order that Ms. Kulla provides written answers to the Undertakings and Refusals within 30 days of the date of this Order, and that the resumption of her examination, if necessary, be conducted within 60 days of this Order. Undertakings, if any, from such examination, are to be provided to the Respondent within two weeks of completion of the examination for discovery.
+[33] While the Respondent has achieved some success on this motion, it was not total. Costs of the Appellants' motions are awarded to the Respondent. Costs of the Respondent's motion are awarded to the Respondent in any event of the cause on the basis of one-half of the tariff costs.
+Signed at Ottawa, Canada, this 18th day of January, 2005.
+"CampbellJ. Miller"
+Miller J.
+Schedule "A" - Undertakings
+No.
+UndertakingI
+Reference
+1.
+To explain what the "management fees" and the
+q. 384-388;
+"mortgage interest" that are reflected on the statement of
+p. 76-77
+operations and deficit for Sandia Mountain Holdings Inc. for the year ended July 31, 1992, represent and relate to.
+q. 424-429;
+p. 84-86
+2.
+To detail the transactions giving rise to the loan
+q. 398-416;
+receivable, notes payable, loans payable and accounts
+p. 79-83
+payable reflected on the balance sheet of Sandia Mountain Holdings Inc. for the year ended July 31, 1993.
+3.
+To advise what Sandia Mountain Holdings Inc. used the
+q.430-431;
+proceeds of the mortgage for.
+p. 86
+4.
+To provide an explanation of the transactions underlying
+q. 447-450;
+the computation of reported income and the claim for
+p 89-90
+expenses for each taxation year for Sandia Mountain Holdings Inc. from July 31, 1991 to July 31, 1999.
+5.
+To provide particulars of the underlying transactions
+q. 451; p. 91
+giving rise to the loan receivable of $140,000, the notes payable of $187,000 and the loans payable of $735,000 for each of the years under appeal.
+6.
+With respect to farm rental income, to have the
+q. 499; p. 105
+accountant confirm that year-end adjusting entries were made to the books of Sandia Mountain Holdings Inc. to reflect transactions that concerned property that belonged to Mrs. Kulla personally.
+7.
+To provide details relating to "advances shareholder"
+q. 1168;
+account maintained by Sandia Mountain Holdings Inc.,
+p. 301
+including details of all debits and credits made to such account, for the period 1991 through 1999.
+8.
+In paragraph 22 of the Elizabeth Kulla Notice of Appeal it
+q. 1170-1173;
+is alleged that Mrs. Kulla loaned $35,000 to SMHI, but
+p. 302-303
+that the "amount of this loan was not credited to Holdco's' advances shareholder' account." To provide the particulars of SMHI's accounting treatment of the $35,000 loan from Mrs. Kulla.
+9.
+To explain how SMHI accounted for expenses that were
+q. 1196-1206;
+charged to Mrs. Kulla's personal credit card and then
+p. 307-309
+reimbursed by SMHI. Also, to specify the amounts reimbursed by SMHI in the 1994 - 1998 taxation years.
+10..
+To supply copies of Mrs. Kulla's personal Royal Bank
+q. 1208;
+Visa statements reflecting purchases having been made
+p. 310
+for the hotel for the period 1994 through 1998, inclusive.
+11.
+Further to subparagraph 15(w) of the Amended Reply in
+q. 1292-1295;
+Elizabeth Kulla, does the Appellant admit that SMHI paid
+p. 341-343
+any amounts on account of personal expenses incurred by Mrs. Kulla in 1995 through 1999, including expenses related to other businesses carried on by Mrs. Kulla. Also, to detail how those expenses were accounted for in SMHI's books, including the amounts paid.
+12.
+Further to subparagraph 15(x) of the Amended Reply in
+q. 1297;
+Elizabeth Kulla, does the Appellant admit that SMHI
+p. 343
+initially debited Mrs. Kulla's shareholder loan account by the amount of expenses paid in 1995 though 1999?
+Schedule "B" - Refusals
+No.
+Question / Request for Undertaking
+Reference
+13.
+To confirm the amounts paid towards expenses of "Sandia Mountain Stables" in the 1991 - 1997 taxation years, and to identify who paid those expenses.
+q. 184-186;
+p. 32-33
+14.
+When Sandia Mountain Holdings Inc. acquired title to the real property located at 260 Queen St. East in Brampton from The Shield & Sword Inns Limited, was full consideration paid at that time?
+q. 232; p. 50
+q. 233; p. 51
+15.
+For the Appellant to provide any evidence it may have showing that full consideration was not paid by Sandia Mountain Holdings Inc. for its acquisition of the tavern property, as per the purchase and sale agreement.
+q. 234-236;
+p. 52-53
+16.
+How did the Appellant determine The Shield & Sword's ability to pay rent annually?
+q. 487; p. 102
+17.
+To advise of the particulars of a $100,000 loan made to Sweet Emotions Enterprises.
+q. 566-570;
+p. 119-123
+18.
+To provide evidence of the $100,000 loan initially having been made to Sweet Emotions Enterprises Limited.
+q. 587;
+p. 127-128
+19.
+What evidence / facts does the Appellant rely upon in support of its position that the The Shield was a "licensee at will"?
+q. 827, p. 188
+20.
+Was there at any time during the relevant period an oral agreement between Sandia Mountain Holdings Inc. and The Shield & Sword Inns Limited creating a licensee relationship?
+q. 843; p. 195
+21.
+To provide full particulars of all terms that existed in relationship to the occupancy of the tavern at 260 Queen St. East in Brampton by The Shield & Sword Inns Limited during the relevant period of time.
+q. 872-876;
+p. 202-203
+22.
+To the extent the Appellant does not admit the facts stated in subparagraph 17(j) of the SMHI Amended Reply, then for the Appellant to advise what in fact was the correct amount of interest earned by Sandia Mountain
+q. 905; p. 215
+Holdings Inc. in the 1994, 1996, and 1999 taxation years on account of loans that it made to The Shield and loans that it made to Sweet Emotions Enterprises Limited, and any other loans that it may have made to any other entity during those years.
+23.
+To search for and provide copies of any records that The Shield & Sword kept with respect to loans that it allegedly made to Sandia during the years 1993 to 1999, inclusive.
+q. 936; p. 224
+24.
+How much does the Appellant say was loaned by The Shield & Sword to Sandia for the years ended 1993 to 1999?
+q. 941-947;
+p. 227-230
+25.
+Does the Appellant admit or deny the facts alleged in subparagraphs 17(m), 17(n) and 17(o) in the SMHI Amended Reply?
+q. 948-954;
+p. 230-237
+26.
+For the Appellant to identify exactly what personal expenses of Mrs. Kulla were paid by SMHI, and the quantum of those expenses, for each of the years 1993 to 1999.
+q. 968-976;
+p. 241-246
+27.
+For the Appellant to detail the quantum of expenses paid by SMHI towards the lease payments on a Jaguar car, the farm property mortgage, other costs with respect to the farm property, the expenses of Sandia Mountain Stables, the payment of the National Bank loan, the payment of any TD Bank loans, and the payment of any National Trust loans, for the years 1991 through 1999.
+q. 979-1004;
+p. 247-253
+28.
+To confirm whether or not Mrs. Kulla received any payments of money directly from Sandia Mountain Holdings Inc., during the period 1991 through 1999.
+q. 1005-1011;
+p. 253-254
+29.
+To the extent that the Appellant denies the facts stated in subparagraph 17(u) of the SMHI Amended Reply, for the Appellant to state its position as to what are the true facts.
+q. 1020-1022;
+p. 258-259
+30.
+To the extent that Mrs. Kulla denies that she knowingly authorized the year-end adjusting entries referenced in subparagraph 17(v) of the SMHI Amended Reply, to describe the steps she took after learning that such
+q. 1023-1039;
+p. 259-262
+entries had been made.
+31.
+To the extent that the Appellant denies the fact stated in subparagraph 17(y) of the SMHI Amended Reply, for the Appellant to advise of the date the $225,000 National Bank mortgage was fully satisfied, and to provide evidence of same.
+q. 1097-1112;
+p. 280-285
+32.
+To confirm whether the Appellant alleges that two mortgages concurrently existed on the tavern property at any time between 1993 to 1999; and to provide particulars of the additional mortgage including the date it was fully paid off.
+q. 1117-1122;
+p. 286-287
+33.
+To the extent that the Appellant disputes the correctness of the Minister's computation of s. 163(2) penalties as reflected in subparagraph 18(e) of the SMHI Amended Reply, for the Appellant to state what it alleges is the correct computation of penalty.
+q. 1132-1138;
+p. 290-292
+34.
+For the Appellant to state the facts relied upon in support of the allegations made at paragraphs 11 and 12 in the Elizabeth Kulla Notice of Appeal.
+q. 1139-1160;
+p. 292-298
+35.
+For the Appellant to advise of the amount of rent expense claimed by The Shield for the years 1991 through 1999.
+q. 1164;
+p. 299-300
+36.
+For the Appellant to produce any evidence she has showing that the facts alleged at subparagraph 15(e) of the Amended Reply in Elizabeth Kulla are not correct.
+q. 1218;
+p. 315-316
+37.
+To the extent that the Appellant contests the allegation of fact stated at subparagraph 15(f) of the Amended Reply in Elizabeth Kulla, for the Appellant to state what it alleges are the true facts.
+q. 1221-1222;
+p. 316
+38.
+To provide details of the personal expenses of Mrs. Kulla paid by SMHI in 1991 and 1992 and charged to the shareholder advance account;, and to provide details of the debits and credits to such account.
+q. 1234-1237;
+p. 320
+39.
+Further to subparagraph 15(j) of the Amended Reply in Elizabeth Kulla, for the Appellant to confirm whether credits were made to the shareholder loan account by an amount equal to the Management Fees in the 1991 and
+q. 1238-1240;
+p. 320-322
+1992 taxation years, effectively eliminating the shareholder loan receivable previously debited.
+40.
+Further to subparagraph 15(k) of the, Amended Reply in
+q. 1241-1242;
+Elizabeth Kulla, does the Appellant admit or deny that the
+p. 322
+effect of the year-end entries was to expense Mrs. Kulla's personal expenses in SMHI's books for the 1991 and 1992 taxation years?
+41.
+Further to subparagraph 15(m) of the Amended Reply in
+q. 1245-1246;
+Elizabeth Kulla, does the Appellant admit that in
+p. 323
+computing her income for the 1991 and 1992 taxation years, she did not take into account any amount as having been received by her as a benefit in her capacity as an officer or shareholder of SMHI?
+42.
+Does the Appellant admit or deny the facts alleged at
+q. 1255-1257;
+subparagraph 15(o) of the Amended Reply in Elizabeth
+p. 326-327
+Kulla?
+43.
+Does the Appellant admit that SMHI paid any amount of
+q. 1263-1266;
+Mrs. Kulla's personal expenses in the 1993 and 1994
+p. 330-331
+taxation years; and if so, to specify the amounts paid and to describe SMHI's accounting treatment of those amounts.
+44.
+Further to subparagraph 15(r) of the Amended Reply in
+q. 1272-1273;
+Elizabeth Kulla, to confirm whether SMHI credited Mrs Kulla's
+p. 333-334
+shareholder loan account by a series of entries equal to the amount of the Unrealized Revenue in the 1993 and 1994 taxation years.
+45.
+Further to subparagraph 15(s) of the Amended Reply in
+q. 1283-1284;
+Elizabeth Kulla, does the Appellant admit that the effect of
+p. 338-339
+the year-end entries was to expense Mrs. Kulla's personal expenses in SMHI's books for the 1993 and 1994 taxation years?
+46.
+Further to subparagraph 15(x) of the Amended Reply in
+q. 1300-1301;
+Elizabeth Kulla, does the Appellant admit that the effect of
+p. 344-345
+the 1995 - 1999 year-end entries was to eliminate the shareholder loan receivable previously debited to Mrs. Kulla's shareholder loan account with SMHI?
+47.
+To the extent that the Appellant disputes the correctness
+q. 1312-1318;
+of the Minister's computation of s. 163(2) penalties as
+p. 349-350
+reflected in subparagraph 16(d) of the Amended Reply in Elizabeth Kulla, for the Appellant to state what it alleges is the correct computation of penalty for the years 1991 -1999.
+48.
+The Appellant refused to answer questions about the contents of the Notices of Objection filed by Sandia Mountain Holdings Inc. for the years 1993 - 1999.
+q. 1321;
+p. 352-353
+49.
+For the Appellant to confirm that at some point in time, she took the position that the amounts deducted as "economic recovery" expense in 1993 to 1999, inclusive, were in fact amounts that were uncollectible by Sandia Mountain Holdings Inc. and, therefore, treated as bad debts.
+q. 1324-1326;
+p. 354-356
+CITATION:
+2005TCC65
+COURT FILE NO.:
+2003-1672(IT)G and 2003-1686(IT)G
+STYLE OF CAUSE:
+Sandia Mountain Holdings Inc. and Elizabeth Kulla and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 14 and 15, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+January 18, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Richard Fitzsimmons and
+Greg Baba (Student-at-law)
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard Fitzsimmons
+Firm:
+Fitzsimmons & Company
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+Transcript pages 355 and 356.
+[2]
+2004TCC636.
+[3] 63 Alta. L.R. (2d) 61.
+[4] 48 O.R. (3d) 377.
+[5] [2001] T.C.J. No. 86.
+[6] [2000] 1 F.C. 267.
+[7] [1978] F.C.J. No. 903.

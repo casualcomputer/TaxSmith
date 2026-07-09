@@ -1,0 +1,77 @@
+Title: Tremblay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24998/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-132-24998-tremblay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-17
+
+# Tremblay v. The Queen
+
+- Citation: 2003 TCC 132
+- Decision date: 2003-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2521, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-17
+Neutral citation
+2003 TCC 132
+File numbers
+2002-2910(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2910(IT)I
+BETWEEN:
+EVELYNE TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on March 13, 2003, at Ottawa, Ontario
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination of the Child Tax Benefit made under the Income Tax Act for the months of October 1999 to June 2000 inclusive, with respect to the 1998 base year, and for the months of July 2000 to June 2001 inclusive, with respect to the 1999 base year, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 17th day of March 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Translation certified true
+on this 20th day of April 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC132
+Date: 20031703
+Docket: 2002-2910(IT)I
+BETWEEN:
+EVELYNE TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J.T.C.C.
+[1] The appeal from the determination of the Minister of National Revenue denying the Appellant the Child Tax Benefit for the months of October 1999 to June 2000 inclusive from the 1998 base year, with respect to her son Jérémie, and for the months of July 2000 to June 2001 inclusive from the 1999 base year, with respect to her two sons Jérémie and Maxime, is dismissed on the basis that the Appellant did not qualify as the eligible individual under section 122.6 of the Income Tax Act ("Act"). In order to qualify as an eligible individual for the Child Tax Benefit, the appellant had to show that the children in respect of whom she was seeking this benefit were residing with her during the period in dispute. The appellant admitted that the children did not reside with her during each of the periods in question.
+[2] The fact that the Appellant had an agreement with her ex‑spouse that she would retain the Child Tax Benefit even if the children were not residing with her is not a criteria that I can accept to make changes to the statute (see also on this issue, Gloria Eremity v. The Queen, [2003] T.C.J. No. 53 (Q.L.)).
+Signed at Ottawa, Canada, this 17th day of March 2003.
+"Lucie Lamarre"
+J.T.C.C.
+Translation certified true
+on this 20th day of April 2004.
+Sophie Debbané, Revisor

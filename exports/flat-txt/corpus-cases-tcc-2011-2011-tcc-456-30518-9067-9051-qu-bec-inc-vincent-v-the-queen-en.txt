@@ -1,0 +1,325 @@
+Title: 9067-9051 Québec Inc., Vincent v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30518/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-456-30518-9067-9051-qu-bec-inc-vincent-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-28
+
+# 9067-9051 Québec Inc., Vincent v. The Queen
+
+- Citation: 2011 TCC 456
+- Decision date: 2011-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7290, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9067-9051 Québec Inc., Vincent v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-28
+Neutral citation
+2011 TCC 456
+File numbers
+2007-4430(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007‑4430(IT)G
+BETWEEN:
+9067‑9051 QUEBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Denis Vincent (2007‑4434(IT)G),
+on September 14 and 15 and December 7 and 8, 2010, at Québec, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Jules Turcotte
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The parties have 30 days from the date of this judgment to agree on costs, failing which they will have to file written submissions in that regard.
+Signed at Ottawa, Canada, this 28th day of September 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 12th day of January 2012.
+François Brunet, Revisor
+Docket: 2007‑4434(IT)G
+BETWEEN:
+DENIS VINCENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+9067‑9051 Québec Inc. (2007‑4430(IT)G),
+on September 14 and 15 and December 7 and 8, 2010, at Québec, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Jules Turcotte
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years is allowed, and the reassessments are vacated, in accordance with the attached Reasons for Judgment.
+The appeal for the 2001 taxation year is allowed only to vacate the penalty assessed under subsection 163(2).
+The parties have 30 days from the date of this judgment to agree on costs, failing which they will have to file written submissions in that regard.
+Signed at Ottawa, Canada, this 28th day of September 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 12th day of January 2012.
+François Brunet, Revisor
+Citation: 2011 TCC 456
+Date: 20110928
+Dockets: 2007‑4430(IT)G
+2007‑4434(IT)G
+BETWEEN:
+9067‑9051 QUEBEC INC.,
+DENIS VINCENT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[OFFICIAL ENGLISH TRANSLATION]
+Hogan J.
+I. Introduction
+[1] Denis Vincent ("Appellant") is appealing from reassessments by the Minister of National Revenue ("Minister") for the 1999, 2000 and 2001 taxation years, whereby which the Minister increased the Appellant's income by $30,000 for 1999, $56,400 for 2000 and $17,659 for 2001. The Minister also assessed penalties in respect of the Appellant under subsection 163(2) of the Income Tax Act ("ITA"). 9067‑9051 Quebec Inc. ("Appellant Corporation") is appealing from a reassessment by the Minister, whereby which he increased the Appellant Corporation's net income by $876,769 for the 2001 taxation year. The Minister also assessed penalties in respect of the Appellant Corporation under subsection 163(2) of the ITA.
+[2] This dispute concerns the tax treatment of the Appellant and the Appellant Corporation for insurance benefits of $1,170,800 received following the destruction of a building in the circumstances described below. For this reason, the appeals were heard on common evidence.
+II. Facts
+[3] In the Replies to the Notices of Appeal, the Minister states that the reassessments at issue were made on the basis of the following assumptions of fact:
+[translation]
+Common facts [for all assessments at issue]
+(a) During the years at issue, the Appellant was sole shareholder, secretary and director of [the Appellant Corporation], as he had been since it was incorporated on September 3, 1998.
+(b) On April 1, 1999, [the Appellant Corporation] acquired, for $180,000, the Immovable located at 5055 85th Avenue in Grand‑Mère ("Immovable").
+(c) The Appellant had been living in the Immovable since November 1998.
+(d) On August 24, 1999, the Immovable was destroyed by a fire.
+(e) After the Immovable burned down, [the Appellant Corporation] received a total of $1,170,800 in benefits from Zurich Insurance Company ("Zurich").
+Inclusion of the amounts of $30,000 and [of] $56,400 [in the Appellant's income for the 1999 and 2000 taxation years].
+(f) On September 1, 1999, Zurich issued a cheque for $15,000 in benefits in relation to the destruction of the Immovable.
+(g) On October 14, 1999, Zurich issued a cheque for $15,000 in benefits in relation to the destruction of the Immovable.
+(h) The Appellant deposited both $15,000 cheques in his personal bank account, and this total amount of $30,000 was never credited to the account of [the Appellant Corporation].
+(i) In 1999, the Appellant appropriated, as shareholder of [the Appellant Corporation], the $30,000 paid by Zurich.
+(j) During the taxation year ending on August 31, 2001, [the Appellant Corporation] credited $56,400 under the accounting item [translation] "administrator advances".
+(k) During 2000, the Appellant appropriated, as shareholder of [the Appellant Company], the amount of $56,400 paid by Zurich.
+(i) At the time of settlement on the quantum of benefits owed by Zurich, no amount had been claimed as living expenses.
+(m) No portion of the total amount of $86,400, that is, $30,000 plus $56,400, was paid by Zurich as living expenses.
+(n) The entire amount of $86,400 appropriated by the Appellant was paid by Zurich as compensation for loss of movable property for [the Appellant Corporation].
+(o) Under a renter’s insurance policy, the Appellant received $9,000 paid to him as living expenses.
+Taxation of the amount of $17,659 [included in the Appellant's income for the 2001 taxation year]
+(p) In 2001, Zurich merged with ING Insurance Company of Canada.
+(q) For the fiscal year ending on August 31, 2001, [the Appellant Corporation] credited $17,659 to L'Ami du Camion Inc. ("L'Ami du Camion") and recorded this sum in its books of account as [translation] "vehicle insurance benefits".
+(r) For the fiscal year ending on August 31, 2001, the Appellant and [the Appellant Corporation] each held 50 percent of the shares of L'Ami du Camion.
+(s) No snowmobile or Albany vehicle or was covered under the dwelling policy for the Immovable.
+(t) Neither the appellant nor [the Appellant Corporation] were owners in 1999 of a snowmobile or an Albany vehicle; these were owned by L'Ami du Camion.
+(u) The 1908 Model Illinois Ford automobile was not covered under the dwelling insurance policy on the Immovable.
+(v) The Appellant received $17,659 in 2001.
+(w) The $17,659 are not insurance benefits for the loss of the vehicles, but rather the value of the benefit given to the Appellant in his capacity as shareholder of [the Appellant Corporation].
+. . .
+[The] capital gain [is] business income [of the Appellant Company]
+(e) [The Appellant Corporation] had acquired the Immovable with the intention of reselling it at a profit.
+(f) [The Appellant Corporation] had previously acquired a building from 154230 Canada Inc. ["154230"] and then resold it.
+(g) L'Ami du Camion Inc. (L'Ami du Camion) financed the purchase of the Immovable by advancing $175,000 to the Appellant [Corporation].
+(h) During the years relevant to the dispute, the Appellant [Corporation] and Denis Vincent each held 50 percent of the shares of L'Ami du Camion.
+(i) The purchase of the Immovable for $180,000 was a good business opportunity, since it had an approximate resale value of $2,000,000.
+(j) The purchase of the Immovable by [the Appellant Corporation] is a business deal.
+(k) After the Immovable burned down, [the Appellant Corporation] received a total of $1,170,800 in benefits from Zurich Insurance Company ("Zurich").
+Inclusion of the amounts of $86,400, $17,659 and $575,569 [in the income of the Appellant Corporation]
+(l) From the insurance proceeds of $1,170,800, [the Appellant Corporation] deducted $86,400 as the personal portion of living expenses paid to Denis Vincent.
+(m) The amount of $86,400 was not paid by Zurich as living expenses, but as coverage for movable property.
+(n) For the fiscal year ending on August 31, 2001, [the Appellant Corporation] credited the amount of $17,659 to L'Ami du Camion as [translation] "vehicle insurance benefits" and deducted this amount from the insurance proceeds of $1,170,800.
+(o) The dwelling insurance policy for the Immovable did not cover a snowmobile or an Albany vehicle.
+(p) The 1908 Model Illinois Ford automobile was not covered under the dwelling insurance policy for the Immovable.
+(q) For the fiscal year ending on August 31, 2001, the Appellant [Corporation] deducted $575,569, as sales commission for the Immovable, from the insurance proceeds of $1,170,800.
+(r) The Appellant [Corporation] did not incur any commission expenses in respect of the sale of the Immovable for its fiscal year ending on August 31, 2001.
+(s) The Immovable was not sold after being acquired by the Appellant [Corporation].
+In assessing a penalty [in respect of the Appellant Corporation] under subsection 163(2) of the Act [for the 2001 taxation year], the Minister assumed the following facts:
+(a) Denis Vincent is an experienced businessman and was shareholder and director of a number of corporations during the years at issue.
+(b) Denis Vincent knew that the amount of $86,400 had not been paid to him as living expenses, since he signed the property insurance claim, which contained no claim for living expenses.
+(c) Denis Vincent knew that the amount of $86,400 had not been given to him as living expenses because he had already received a living expenses amount as lessee of the Immovable through another insurance policy contracted personally.
+(d) Denis Vincent knew that the Ford Albany and the snowmobiles did not belong to [the Appellant Corporation], but to L'Ami du Camion, and that they were not covered under the insurance policy for the Immovable.
+(e) Denis Vincent knew that the 1908 Model Illinois Ford automobile was not covered under the insurance policy for the Immovable.
+(f) Denis Vincent knew that the Immovable had not been sold since it had been acquired by the Appellant [Corporation], which he also knew had not incurred sales commission expenses of $575,569.
+(g) By deducting the amounts of $86,400, $17,659 and $575,569 from its insurance proceeds in calculating its capital gain for 2001, the Appellant [Corporation] knowingly, or in circumstances amounting to gross negligence, made false statements in its return for that year.
+By assessing penalties under subsection 163(2) of the Act [for the 1999, 2000 and 2001 taxation years], and assessing the Appellant after the normal assessment period [for the 1999 and 2000 taxation years], the Minister assumed the following facts:
+(a) The Appellant is an experienced businessman.
+(b) The Appellant failed to tell his accountant that he had received the amounts of $30,000, $56,400 and $17,659 during the 1999, 2000 and 2001 taxation years.
+(c) When filing his returns for the 1999 and 2000 taxation years, he Appellant knew that no part of the $86,400 total had been paid as living expenses.
+(d) The Appellant signed the property insurance claim for the fire of the Immovable, stating that no claim was made for living expenses.
+(e) When filing his return for 2001, the Appellant knew that the Ford Albany and the snowmobiles did not belong to [the Appellant Corporation] and were not covered under the insurance policy for the Immovable.
+(f) When filing his return for 2001, the Appellant knew that the 1908 Model Illinois Ford automobile was not covered under the insurance policy for the Immovable.
+(g) By failing to include the amounts of $30,000, $56,400 and $17,659 in his income for 1999, 2000 and 2001, the Appellant knowingly, or in circumstances amounting to gross negligence, made false statements in his returns.
+(h) At the very least, in failing to include the amounts of $30,000, $56,400 and $17,659 in his income for 1999, 2000 and 2001, the Appellant misrepresented his income for those years through neglect, carelessness or wilful default.
+III. Witnesses for the Appellant
+Appellant's testimony
+[4] The Appellant testified that Pierre Filion, whom he knew, suggested that he purchase a 1908 Ford automobile that was in an immovable on Mondor Lake and belonged to a corporate client of Mr. Filion. When the appellant went to the Immovable to inspect the car, Mr. Filion also suggested that he purchase the Immovable for $275,000. The Immovable had seven rooms, eight bathrooms and two fireplaces, and came with a hangar measuring 100 feet by 60 feet, an airstrip and part of the mountain.
+[5] The Appellant alleges that, while he was thinking over Mr. Filion's offer, he asked his brother, who was also in the automobile business, for advice. During a discussion with his brother, the Appellant stated that the Immovable could be useful for lodging his European customers, so as to maintain a good relationship with them.
+[6] The appellant next sought advice from Michel Di Girolamo, a used car salesman in the Montréal area who did business with the Appellant. Mr. Di Girolamo often sold cars to L'Ami du Camion. The Appellant and his brother used this corporation to sell used cars to European customers. The Appellant alleges that he, his brother and Mr. Di Girolamo shared the profits from these sales equally.
+[7] According to the Appellant, the transactions between him and Mr. Di Girolamo always followed the same pattern. Mr. Di Girolamo would advance an amount to the Appellant to enable him to conclude the transaction, and he would give half the profits to Mr. Di Girolamo as commission.
+[8] The Appellant testified that Mr. Di Girolamo advanced him $175,000 to purchase the Immovable. The Appellant states that he then transferred this advance to the Appellant Corporation so that the Immovable would be acquired in its name.
+[9] The Appellant Corporation then offered to purchase the Immovable for $180,000 without legal warranty. The seller accepted the offer and concluded the sale of the Immovable.
+[10] In November 1998, the Appellant moved into the Immovable with his spouse, occupying 25 percent of the floor space. He assumed 25 percent of the current expenses of the Immovable paid by the Appellant Corporation. To enable the Appellant to pay the portion of the costs he shouldered, the Appellant Corporation paid the Appellant dividends in an amount equal to his costs.
+[11] When the Appellant acquired it, the 1908 Ford automobile was in the living room of the Immovable. The Appellant sold it shortly after he purchased it. The appellant explains that, for this reason, he purchased two period cars, one red and the other mauve, through Chaîne Auto, which was owned by his brother. Subsequently, he transferred those two cars to L'Ami du Camion to have the mauve car sold and the red car placed in living room of the Immovable, to replace the one he had sold.
+[12] When the Appellant Corporation acquired the Immovable, the Appellant inquired after the insurance policy contracted by the previous owner of the Immovable to see whether Zurich Insurance Company ("Zurich") would be willing to issue an insurance policy similar to that of the Appellant Corporation. He decided to take out a policy with Zurich having identical coverage and assign it to the Appellant Corporation. The maximum benefit was $1,170,800, or six times the purchase price of the Immovable on Lake Mondor.
+[13] The Immovable was destroyed by a fire, resulting in a total loss. The Appellant then contacted a Zurich agent, who immediately gave him a cheque for $15,000. On October 14, 1999, the Appellant made a second request of Zurich, which gave him a second cheque for $15,000.
+[14] In April 2000, the Appellant filed his return of income for the 1999 taxation year. He testified that he did not include the amount of the two cheques totalling $30,000 because those cheques had been issued to him for his living expenses and that, as a result, those amounts were not taxable.
+[15] On December 27, 2000, Zurich gave the Appellant Corporation a cheque for $1,140,800. The Appellant is of the view that this amount included $17,659 in benefits for an Albany automobile and a snowmobile belonging to L'Ami du Camion. This amount also included $56,400 for living expenses, which was owed to the Appellant because he was the beneficiary of the policy and paid for the occupancy of part of the Immovable.
+[16] When the Appellant filed his income tax return for the 2000 taxation year, he did not include the amount of $56,400. He testified that he did so for the same reasons as those which applied for the 1999 taxation year: he was paid this amount for his living expenses.
+[17] During the fire, the red period car belonging to L'Ami du Camion, which was in the living room of the Immovable, was also destroyed. The Appellant directed the Appellant Corporation to give $17,659 to L'Ami du Camion as reimbursement for the loss of the automobile and for a snowmobile that was also in the Immovable, in the garage.
+[18] The Appellant explains that he wanted to address the situation with Mr. Di Girolamo. According to the Appellant, the Appellant Corporation owed Mr. Di Girolamo $575,569, that is, his share of the proceeds from the insurance claims. The Appellant asked Mr. Di Girolamo to prepare an invoice for 50 percent of the proceeds as supporting documentation for income tax purposes. Mr. Di Girolamo did not comply with this request, so the appellant asked the Appellant Corporation's accountant to prepare this invoice on behalf of 154230 Canada Inc. ("154230"), a corporation belonging to Mr. Di Girolamo. The Appellant Corporation's in‑house accountant therefore prepared an invoice for $575,569, plus tax, on behalf of 154230.
+[19] As soon as the Appellant had given Mr. Di Girolamo a cheque for $662,000, including tax, Mr. Di Girolamo asked him for another cheque of $662,000 to have a proper accounting entry and [translation] "balance everything out".
+[20] In spring 2002, Mr. Di Girolamo died. At that time, the Appellant owed him money. To reimburse Mr. Girolamo for the amounts he was owed, the Appellant Corporation transferred three lots, two in Hemmingford and one in Napierville ("Three Lots"), to Mr. Di Girolamo's estate. These lots were worth $240,000, $125,000 and $50,000, respectively.
+Testimony of Claude Gélinas
+[21] In 2005, Claude Gélinas, a chartered accountant, took over Pierre Drolet's position as accountant for the Appellant and the Appellant Corporation. On examination, Mr. Gélinas explained the contents of the document entitled Récapitulatif des avances de Mike Di Girolamo et 154230 Canada inc. du 31 août, or summary statement of advances made by Mike Di Girolamo and 154230 Canada Inc. as at August 31. He stated that, in 1999, Mr. Di Girolamo had lent the Appellant $200,000 to purchase a lot. At August 31, 2001, the Appellant Corporation also owed Mr. Di Girolamo $575,569 as purchase commission for the Immovable. He also explained that the amounts advanced by the Appellant Corporation to Mr. Di Girolamo and the transfer of the Three Lots reduced the amounts owing to Mr. Di Girolamo for the loans between the Appellant Corporation and 154230.
+Testimony of Gian Di Girolamo, son of Michel Di Girolamo
+[22] Mr. Di Girolamo's son, Gian Di Girolamo, corroborated the Appellant's testimony in that the Appellant and Mr. Di Girolamo were business partners and good friends. When asked about the circumstances surrounding the acquisition of the Immovable, Gian Di Girolamo testified that Mr. Di Girolamo is the one who financed the Immovable's acquisition.
+[23] Gian Di Girolamo testified that, after Mr. Di Girolamo's death in 2002, the Appellant asked him what he should do with the Three Lots, two of which were in Hemmingford and one in Napierville. According to Gian Di Girolamo, those lots belonged to Mr. Di Girolamo and were purchased to be sold or to be leased with an option to purchase. Mr. Di Girolamo kept exotic animals, such as bison and elk, on those lots.
+[24] Gian Di Girolamo alleges that while he was considering the Appellant's question, his friend Ricky Haroon suggested that he ask the Appellant to transfer the lots to his corporation, 9127‑7665 Quebec Inc., and then sell them, which Gian Di Girolamo did.
+[25] On April 30, 2003, the Appellant concluded three sales contracts to transfer the lots to 9127‑7665 Quebec Inc. The selling prices indicated were $240,000 and $125,000 for the two lots in Hemmingford and $50,000 for the one in Napierville. Gian Di Girolamo explained that, despite these contracts, in fact no money changed hands because these lots already belonged to Mr. Di Girolamo.
+[26] Gian Di Girolamo testified that after these lots were transferred, an outstanding debt of $400,000 was still owed to Mr. Di Girolamo's estate. This was an unpaid hypothec on one of the lots.
+[27] When counsel for the Respondent cross‑examined Gian Di Girolamo on how the Appellant did business with Mr. Di Girolamo, Gian Di Girolamo explained that, when he lived with his father, the Appellant was in the habit of calling Mr. Di Girolamo at around 3 or 4 a.m. to talk business. According to Gian Di Girolamo, there were exchanges in writing, and the business relationship between Mr. Di Girolamo and the Appellant was informal, for a number of reasons. First of all, his father was an uneducated man. As well, since Mr. Di Girolamo and the Appellant trusted one another, a simple "handshake" was enough.
+[28] Gian Di Girolamo seems to contradict himself regarding his knowledge of the relationship between the Appellant and Mr. Di Girolamo. According to the Canada Revenue Agency (CRA), Gian Di Girolamo stated in an interview held with ARC in July 2004 that he did not know the Appellant. In his testimony, he admitted that he knew the Appellant and denied having stated that he did not know him. When he was shown the sworn statement he had signed with regard to the interview in July 2004, he admitted knowing the Appellant and being sure of having at least heard his name at the time. He explained that his knowledge had evolved: what he knew at the time of his testimony does not necessarily correspond to what he knew at the time of the interview with CRA. In his testimony, he also admitted to knowing Appellant Corporation, which, he pointed out, was not the case at the time of the interview.
+Testimony of Jacques Vincent, brother of the Appellant
+[29] Jacques Vincent, the Appellant's brother, testified that since 1983 he has been the owner of Chaîné Automobiles, a company that sells used cars. With the Appellant, he was also involved in vehicle exports through L'Ami du Camion. He explained that the profits from sales by L'Ami du Camion were shared equally between himself and the Appellant. At the end of each month, they split the profits. According to Jacques Vincent, there is no written contract attesting to this sharing.
+[30] Jacques Vincent confirmed that Mr. Di Girolamo financed the purchase of the Immovable. He explained that, when he visited the Immovable with the Appellant, he thought it useful to lodge L'Ami du Camion's European customers. After this first visit, the Appellant asked Mr. Di Girolamo to visit the Immovable a second time. On the second visit, Mr. Di Girolamo was also of the opinion that it was a solid purchase. As a result, Mr. Di Girolamo and the Appellant agreed to make an offer for the Immovable, which was accepted. That was how the Immovable was acquired.
+[31] When counsel for the respondent questioned Jacques Vincent about the Appellant's reasons for acquiring the Immovable, he replied that the first reason, above all others, was to house the Appellant. After that, the second reason was to use the Immovable to receive the European customers of L'Ami du Camion to maintain good relations with them, which, he noted, did in fact happen.
+IV. Witnesses for the Respondent
+Testimony of Claude Gingras
+[32] Mr. Gingras, an insurance adjuster, testified that the insurance claim for the Immovable did not include any living expenses because, under the insurance policy, the amounts were owed for [translation] "building and contents". Therefore, Zurich insured the Appellant Corporation for a maximum of $1,170,800, without living expenses. He also explained that for living expenses to be payable, insureds must usually provide evidence of their expenses. For example, if, after a fire, an insured must rent a house, the insured must present the insurer with a copy of the lease to receive reimbursement from the insurer for living expenses. In this case, the Appellant did not submit any evidence of the rent he paid for the lodgings he rented after the Immovable burned down.
+Testimony of Nancy Tremblay
+[33] Ms. Tremblay testified that she was involved in the file as an auditor in the Québec Taxation Services Office. She explained that she was assigned the file in January 2003 as part of a general audit.
+[34] At the beginning of the audit, Ms. Tremblay contacted the Appellant and Mr. Drolet, the Appellant's accountant, to ask them to provide her with certain documents and to set up a first meeting with them. During this interview, the Appellant explained to her that he had created the Appellant Corporation both to put purchasers and sellers of assets in contact with one another, thereby earning commissions, and to separate himself from his partners in other corporations.
+[35] After this interview, Ms. Tremblay examined the books and records of the Appellant Corporation. An entry of $575,569 for [translation] "professional fees" recorded on August 30, 2001, caught her eye. She therefore set up a second meeting with the Appellant and Mr. Drolet to obtain clarifications on this amount.
+[36] Ms. Tremblay, again accompanied by her supervisor, Mr. Simard, met with Mr. Drolet and the Appellant a second time. During this meeting, the Appellant explained that the amount of $575,569 was a commission owing to Mr. Di Girolamo under a verbal agreement the Appellant had reached with him. The Appellant also described Mr. Di Girolamo's role in the Immovable's acquisition: he was the one who advanced the purchase price of $180,000 following negotiations between the Appellant and Mr. Filion. However, the Appellant was not sure whether Mr. Di Girolamo advanced the money personally or whether he had done so through 154230. The Appellant also stated that he had purchased the Immovable with the intention of reselling it. Furthermore, regarding this insurance on the Immovable, the Appellant stated that the 1969 Albany automobile he had replaced was not insured.
+[37] After the second interview, Ms. Tremblay asked Mr. Drolet to provide her with proof of payment of an invoice dated December 31, 2001, for a commission of $662,048.24 owed to 154230 by the Appellant Corporation. Shortly thereafter, Mr. Drolet provided Ms. Tremblay with a copy of a cheque to that effect. When she examined the cheque, Ms. Tremblay noted that it had been deposited in an account at the Caisse populaire Le Rocher‑Grand‑Mère. She therefore contacted Maryse Giguère at this caisse populaire for further information on that account. Ms. Giguère told her that the bank account did not belong to anyone and that the account registration card showed only a telephone number. Ms. Tremblay recognized that telephone number: it was Mr. Di Girolamo's number, given to her by the Appellant at the meeting on February 7, 2003.
+[38] While conducting her research into 154230 and Mr. Di Girolamo, Ms. Tremblay learned that this corporation belonged to Mr. Di Girolamo and had considerable debts, and that Mr. Di Girolamo had declared bankruptcy in December 2000.
+[39] In March 2003, Ms. Tremblay referred the file back to the Criminal Investigations Program, since she was unable to find the source of financing for the purchase of the Immovable. In short, she did not understand how 154230, given its financial situation, could grant a loan to Mr. Di Girolamo. After the file was transferred to the Criminal Investigations Program, it was taken over by Rock Grondin. Ms. Tremblay explained that once the file was transferred, her involvement came to an end. For that reason, she had not written an audit report.
+Testimony of Rock Grondin
+[40] Mr. Grondin testified that he became involved in the file as an investigator with the special investigation department when Ms. Tremblay transferred the file to him in March 2003. He prepared an information and presented it to a judge of the Court of Québec in order to obtain a search warrant, which was granted. Mr. Grondin explained that he had use a [translation] "blanket warrant", and that a letter of requirement was not possible because the investigation was already underway.
+[41] Four searches were performed following the information—specifically, of the premises of the Appellant Corporation; the home of Marina Di Girolamo, sister of Gian Di Girolamo and liquidator of Mr. Di Girolamo's estate; the offices of the Appellant Corporation's accountant, Dessureault Lemire; and the Appellant's place of residence.
+[42] Mr. Grondin explained that three elements drew his attention during the searches. First, on the premises of the Appellant Corporation, he found a hard disk on which he located the invoice dated December 31, 2001, for a commission of $662,048.24 that the Appellant Corporation owed to 154230. After examination, computer technicians determined that this invoice was prepared on January 22, 2002.
+[43] Second, on the premises of the Appellant Corporation, Mr. Grondin found a book of deposit slips belonging to 154230. In this book, he found a deposit for $662,048.24 made to the account of 154230 for the cheque issued by the Appellant Corporation.
+[44] Third, at the Appellant's home, Mr. Grondin's colleagues found four cheques from 154230, signed in blank by Mr. Di Girolamo.
+[45] After the searches, Mr. Grondin met with Gian Di Girolamo. He told Mr. Grondin that he was not aware of the transfer of $662,048.24, did not really know the Appellant and had never spoken with him.
+[46] Some time later, Gian Di Girolamo signed a sworn statement indicating that the Three Lots belonged to his father and had been transferred to the corporation by Mr. Haroon. In spite of those transfers, the lots continued to belong to Mr. Di Girolamo's estate, and Mr. Haroon acted only as a “prête‑nom” or front man. That was when Mr. Grondin first learned that the Three Lots belonged to Mr. Di Girolamo's estate and were transferred to Mr. Haroon.
+[47] During a first meeting with Mr. Doré in April 2005, Mr. Doré explained to him that the Appellant had transferred two immovables and a tractor to Mr. Di Girolamo to reimburse him for an amount of $525,000 and had drawn up an adjusting invoice to balance his book. This was after Mr. Grondin had made the assessments and before the complaints were filed.
+[48] Mr. Grondin contends that, at a second meeting with Mr. Doré in June 2005, Mr. Doré changed his story. He told Mr. Grondin that, in fact, the Appellant had transferred the following property to Mr. Di Girolamo: the immovable on Shields Street, worth $240,000; a cheque for a loan of $200,000; and another cheque for $135,000, for a total of $575,000.
+[49] After the notice of appeal was filed, Mr. Grondin received a third explanation from Mr. Doré: the Appellant had transferred, to Mr. Di Girolamo, the immovable on Shields Street, a cheque for $200,000, and a tractor.
+[50] Mr. Grondin made the assessments without discussing them with Mr. Doré, since he had only discussed the criminal aspect. As for Ms. Tremblay, she was only in charge of auditing, which is the step that precedes assessment.
+[51] Mr. Grondin was the one who decided, before making the assessments, that the gain was declared as income rather than capital. In making his decision, he relied on Ms. Tremblay's notes, which stated that although the Appellant really liked the Immovable, his initial intention was to acquire it to resell it at a profit. Mr. Grondin had therefore decided that the proceeds of the deemed disposition of the Immovable were business income, not a capital gain.
+[52] Regarding the cheque used to pay the invoice of $662,048.24 dated December 31, 2001, and the financial situation of 154230, Mr. Grondin stated the following facts, which were, as he put it, dubious:
+(a) On December 31, 1998, 154230 declared a loss of $252,282.
+(b) On December 31, 1997, 154230 declared a loss of $305,049.
+(c) In 2001, 154230 did not file an income tax return.
+(d) On May 4, 2001, 154230 was officially struck from the register.
+(e) On December 31, 2001, 154230 prepared an invoice bearing that date with regard to $662,048.24 in commission it was owed by the Appellant Corporation.
+(f) On February 7, 2002, the Appellant Corporation issued a cheque for $662,048.24 to pay the invoice of December 31, 2001.
+(g) On March 4, 2002, 154230's deletion from the register was revoked.
+(h) On March 8, 2002, 154230 opened an account at the Caisse populaire Le Rocher‑Grand‑Mère.
+(i) On March 12, 2002, the cheque was deposited in the account opened by 154230 on March 8, 2002.
+(j) That same day, 154230 issued the Appellant Corporation a cheque for $662,048.24.
+[53] Mr. Grondin stated that 154230 was not in operation when the Appellant Corporation issued it the cheque on February 7, 2002. It had been officially struck from the register on May 4, 2001. However, this deletion was revoked on March 4, 2002, for the sole purpose of opening a bank account into which to deposit the cheque dated February 7, 2002. Furthermore, Mr. Grondin explained that no money was deposited because, although 154230 did deposit the cheque in the account, an equivalent amount was withdrawn from the account and given to the Appellant Corporation that same day, on March 12, 2002.
+[54] According to Mr. Grondin, neither Mr. Di Girolamo nor 154230 had drawn up the invoice. It was only a [translation] "sham invoice" that 154230 drew up to avoid paying tax on that amount.
+[55] On the matter of a cheque for $200,000 dated February 7, 2002, issued by National Bank Financial, marked [translation] "loan", Mr. Grondin explained that, according to the Appellant Corporation's books, this loan was related to Location Matawinie. However, Mr. Grondin noted that this loan was paid back in full with interest to Location Haute Matawinie. According to Mr. Grondin, this cheque seemed to represent another sum paid to Mr. Di Girolamo.
+[56] In December 2001, Mr. Di Girolamo declared bankruptcy. His notice of bankruptcy showed assets worth $90,200, an RRSP of $90,000 and a deposit of $200. His liabilities totalled $1,459,000 or $1,460,000. They included following items: GST to Revenu Québec, $500,000; QST to Revenu Québec, $500,000; National Bank, $400,000; tax to Revenu Québec, $59,000; tax to the CRA, $57,000. Mr. Grondin explained that Mr. Di Girolamo had no assets because he did not declare income. Likewise, an RRSP of $90,000 was the only asset that was part of Mr. Di Girolamo's estate. Since, by nature, RRSPs are exempt from seizure, as Mr. Grondin explained, there was no reason to make an assessment for the estate.
+V. Issues
+[57] The issues are the following:
+(a) For the 2001 taxation year, can the Appellant Corporation deduct $575,569 as commission related to the disposition of the Immovable?
+(b) For the 2001 taxation year, did the Appellant Corporation realize capital gains or business income from the disposition of the Immovable?
+(c) For the 2001 taxation year, can the Appellant Corporation deduct $86,400 from its income because this amount was paid to the Appellant as living expenses?
+(d) For the 2001 taxation year, can the Appellant Corporation deduct $17,659 from its income because this amount was paid to the Appellant as a benefit for a period vehicle and a snowmobile destroyed by the fire?
+(e) Is the insurance benefit of $86,400 received by the Appellant taxable income? Are the reassessments of the Appellant concerning this benefit for the 1999 and 2000 taxation years statute‑barred?
+(f) Were the penalties imposed by the Minister on the Appellant and the Appellant Corporation under subsection 163(2) of the ITA warranted?
+VI. Analysis
+Commission owing to Mr. Di Girolamo
+[58] The Appellant Corporation submits that it was entitled to add, to the adjusted cost base of the Immovable, the amount of $575,569 which it alleges was owing to Mr. Di Girolamo and to 154230 or, alternatively, to deduct it as sales commission. I do not share the Appellant Corporation's opinion that it has established, on a balance of probabilities, that there was an obligation towards Mr. Di Girolamo or both Mr. Di Girolamo and 154230. The search conducted by Mr. Grondin uncovered the following facts:
+(a) The invoice for the supposed commission was prepared using a computer on the premises of the Appellant Corporation.
+(b) The invoice was prepared on January 22, not, as stated on the document, December 31, 2001.
+(c) The Appellant Corporation had four [translation] "blank cheques" pre‑signed by Mr. Di Girolamo.
+[59] The evidence shows that 154230 was not in operation, since it had officially been struck from the register at the time the Appellant Corporation gave a cheque to Mr. Di Girolamo. All of these facts suggest that this was a sham invoice drawn up so that the Appellant Corporation could justify the expenditure of $575,569 it is claiming and thus reduce the gain realized through the disposition of the Immovable. The Appellant admitted at trial that he was the one who asked to have the invoice prepared. He states that he did so because Mr. Di Girolamo was not preparing it, despite his numerous requests. I have doubts about the Appellant's good faith as regards that explanation. Instead, I believe that he was forced to provide an explanation after the CRA discovered the sham invoice during the search.
+[60] I also note that the Appellant alleges that Mr. Di Girolamo financed the purchase of the Immovable. The invoice is made out in the name of 154230. The Appellant and the Appellant Corporation have failed to provide a credible explanation as to why the invoice is made out in 154230's name instead of Mr. Di Girolamo's. I suspect that the invoice was issued in the name of 154230 because this corporation had enough losses to compensate for the commission, even though it was not actually owed this commission.
+[61] There are other major contradictions that give cause to doubt that the Appellant Corporation had an obligation to pay commission for the disposition of the Immovable. Neither the Appellant nor the external accountants could explain how the amount of $575,569 was calculated or paid. The Appellant alleges that Mr. Di Girolamo provided all of the financing for the purchase of the Immovable, but was only entitled to half the profits. The amount of $575,569 is 50 percent of the insurance benefit, not 50 percent of the gain realized upon the disposition of the Immovable as calculated by the Appellant Corporation. Half of the profits equals $443,370, after the living expenses and vehicle benefit are deducted.
+[62] The fact that the Appellant Corporation resorted to a sham invoice gives me strong doubts as to the Appellant's credibility regarding an oral agreement with Mr. Di Girolamo. According to the Respondent's witnesses, the Appellant Corporation's representatives provided at least three different explanations to justify its having made a payment to Mr. Di Girolamo.
+[63] I give very little weight to Gian Di Girolamo's testimony that his father and the Appellant Corporation had an agreement concerning the purchase of the Immovable. The evidence shows that his knowledge of the facts surrounding the transaction changed greatly in the interval between his first meeting with CRA auditors and the trial. During his first meeting with the CRA, he alleged that he knew nothing about any arrangement or relationship between the Appellant and his father. Later on, he signed a sworn declaration indicating that the Appellant is a family friend and that he asked to have the Immovables transferred to a new front company held by Mr. Haroon.
+[64] The Appellant did not ask Mr. Haroon to testify as to whether there was a front‑man relationship with Mr. Di Girolamo's estate, and I draw a negative inference from that fact. Given Gian Di Girolamo's lack of credibility in this regard, it would have been useful to hear Mr. Haroon's testimony.
+[65] The Appellant also chose not to have Mr. Drolet or Guylaine Bourgeois testify. Mr. Drolet was in charge of accounting at the Appellant Corporation during the period at issue. It was not until 2005 that Mr. Gélinas began doing the accounting for the Appellant and the Appellant Corporation. It is clear that Mr. Drolet would be in a better position to explain the accounting entries in the records concerned. At trial, the Appellant avoided answering all of the questions about the accounting entries and the way in which the commission owing to Mr. Di Girolamo was set off against the loan he owed to the Appellant Corporation. The Appellant did not explain why the Appellant Corporation had lent money to Mr. Di Girolamo to purchase the lots in Napierville and Hemmingford even before the insurance claim was settled with Zurich. It seems to me that, if commission had actually been owed to Mr. Di Girolamo's estate, Gian Di Girolamo, the estate's liquidator, would have demanded an explanation for the set‑off in the circumstances. Apparently, Mr. Di Girolamo's heirs did not ask the Appellant Corporation for an explanation of the set‑off between the estate and the Appellant Corporation. This attitude is quite curious, given the fact that the estate was in the red.
+[66] Ms. Bourgeois was responsible for the Appellant Corporation's accounting entries. The evidence shows that she is the one who prepared the sham invoice on the Appellant's instructions. There is no explanation for the fact that she did not testify at trial. I suspect that she was not called because her testimony would not have supported the Appellant Corporation's argument.
+[67] For these reasons, I conclude that the Appellant Corporation cannot deduct the amount of $575,569 as commission paid upon the disposition of the Immovable.
+Disposition of the Immovable – capital gains or business income?
+[68] The evidence shows that the Appellant Corporation acquired the Immovable to meet two needs. First, the Immovable was purchased to lodge European customers of the Appellant Corporation. Second, the Immovable was acquired to serve as the Appellant's principal place of residence.
+[69] The premature disposition of the Immovable is not a factor supporting the conclusion that the Appellant Corporation intended to dispose of the Immovable for a profit as part of a project comprising an adventure in the nature of trade. There is no evidence that the fire was anything other than an accident. The fact that the insurance company paid the final benefit confirms that it considered the fire to be accidental. The duration of possession was short, but there is a reason for that. The Immovable was destroyed accidentally by a fire. There is no evidence that the Appellant Corporation's shareholder officer had experience in the purchase and sale of immovables. His expertise lies in the purchase and sale of used vehicles and airplanes.
+[70] Since I have accepted the Respondent's argument that Mr. Di Girolamo did not participate in the financing of the purchase of the Immovable, I must determine the nature of the purchase without taking into account of his role. If I had concluded that he was involved in the purchase, I would have accepted the Respondent's argument because the only motivation for his involvement would have been to make a profit upon the sale of the Immovable. Since the evidence has ruled out his involvement, I must not take it into account.
+[71] The evidence shows that the previous owner of the Immovable had great difficulty selling it. The selling price was lowered several times. I am of the view that the Appellant knew that the Immovable would be difficult to sell and decided to purchase it because he and the Appellant Corporation anticipated using it for a long time. There is no evidence that the Immovable was put up for sale after it was acquired. The opposite was shown, since the Appellant and his spouse moved into the Immovable after it was acquired. For these reasons, I conclude that the gain realized was a capital gain.
+Was the Appellant Corporation entitled to deduct living expenses?
+[72] The Appellant Corporation submits that Zurich paid $86,400 ($30,000 in 1999 and $56,400 in 2000) as a benefit for the living expenses of the Appellant, who occupied the Immovable as a lessee. However, the evidence does not support that submission.
+[73] The Appellant retained Mr. Gingras as an insurance adjuster to file the claim with Zurich. The first benefit claim was for $1,583,981.17 on the basis of the replacement cost guarantee in the insurance policy. After negotiations, the parties agreed on a benefit of $1,170,800, that is, the maximum payable under the insurance policy. Mr. Gingras' testimony was clear and indicates that the $1,170,800 includes no additional amounts for living expenses or benefits for the car and the snowmobile that were in the Immovable at the time of the fire. Mr. Gingras is a disinterested person, and the documentation corroborates his testimony on this point. Consequently, the amount of $86,400 must be included in the calculation of the Appellant Corporation's taxable income.
+Amount of $17,659 deducted in calculating the Appellant Corporation's income
+[74] At paragraphs 71 to 82 of her written submissions, the Respondent set out her position regarding the amount of $17,659[1] deducted by the Appellant Corporation in calculating its income. I agree with the Respondent's submission on this. I conclude that the Appellant Corporation is not entitled to deduct these amounts in the calculation of its income and that the Appellant must also include that amount in calculating his income under subsections 15(1) and 56(2) of the ITA.
+Assessment after the normal reassessment period
+[75] The Appellant submits that, regardless of this finding, the amounts of $30,000 and $56,400 were not taxable in 1999 and 2000. The CRA taxed those amounts held by the Appellant under subsection 15(1) of the ITA as benefits for the shareholder of the Appellant Corporation. According to the Appellant, the Respondent has failed to prove that the conditions authorizing assessment after the normal period have been met. Subparagraph 152(4)(a)(i) of the ITA reads as follows:
+152(4) Assessment and reassessment [limitation period] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if.
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+[Emphasis added.]
+[76] Under subparagraph 152(4)(a)(i), the burden of proof is on the Respondent, who must establish, on a balance of probabilities, that the Appellant's failure to include the amount of $86,400 in his income is attributable to neglect, carelessness or wilful default. The Respondent's position is that the Appellant should have known that the amounts affected were not living expenses. The issue is whether, under subparagraph 152(4)(a)(i), it is proper to make an assessment for a statute‑barred year when the facts are presented incorrectly because the taxpayer interpreted the circumstances to favour non‑taxation and this position is not unreasonable.
+[77] The amount of $30,000 was paid as a temporary insurance benefit. In my view, at that time, the taxpayer could reasonably believe that this amount had been given to him to compensate for the expenditures he had incurred in finding new lodgings. The insurance policy and the correspondence between the broker and the insured both stipulated that living expenses were set at a maximum of $86,400.[2]
+[78] The evidence shows that the insurance adjuster, Mr. Gingras, did not have to resort to a claim for living expenses to secure a final settlement equal to the maximum coverage of $1,170,800. However, the Respondent has not shown that the Appellant was informed of this fact. The fact that an amount of $30,000 was advanced before the final settlement could have led the Appellant to believe that the final benefits included living expenses. The Respondent has not satisfied me that the Appellant had reasons to doubt that this was so. What is more, the Appellant Corporation's and the Appellant's accountants are the ones who decided on the tax treatment for the insurance benefit in the Appellant Corporation's income tax returns.
+Assessment of penalties under subsection 163(2) of the ITA
+[79] Subsection 163(2) of the ITA provides as follows:
+163(2) False statements or omissions ‑ Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . .
+[Emphasis added.]
+[80] The Respondent's burden of proof under subsection 163(2) is higher than the burden for making an assessment after the normal assessment period. Under subsection 163(2), the Respondent must prove that the Appellant Corporation had sufficient knowledge of the omission. As I stated above, the Respondent has failed to show that the Appellant and the Appellant Corporation had sufficient knowledge of the omission in respect of whether the payment of benefits included living expenses. The Respondent has also failed to show that the Appellant Corporation had, by extension, reasons to believe that the amount of $86,400 did not represent living expenses. In addition, the Respondent has failed to show that the Appellant knew or should have known that the final quantum of benefits negotiated with the insurance company did not cover the period car and the snowmobile that were in the Immovable at the time of the fire. In the circumstances, no penalty may be assessed in respect of the Appellant and the Appellant Corporation under subsection 163(2) for these amounts.
+[81] An entirely different conclusion is in order regarding the expense claimed by the Appellant Corporation ostensibly because a commission was owed to Mr. Di Girolamo. The evidence shows that the Appellant participated in the preparation of a sham invoice for $575,569 to justify a debt that was not owed to Mr. Di Girolamo. Accordingly, the Respondent was correct in assessing a penalty under subsection 163(2) of the ITA for this amount.
+VII. Conclusion
+[82] The Appellant's appeal for the 1999 and 2000 taxation years is allowed and the reassessments are vacated. The Appellant's appeal for the 2001 taxation year is allowed only to vacate the penalty assessed under subsection 163(2).
+[83] The Appellant Corporation's appeal is allowed for the 2001 taxation year; it will be taken into account that the gain realized through the disposition of the Immovable on Lake Mondor must be considered a capital gain. The penalty must be assessed only for the commission of $575,569, which is disallowed.
+The other elements of the reassessment are confirmed.
+Signed at Ottawa, Canada, this 28th day of September 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 12th day of January 2012.
+François Brunet, Revisor
+Citation: 2011 TCC 456
+COURT FILE NOS.: 2007‑4430(IT)G
+Docket: 2007‑4434(IT)G
+STYLES OF CAUSE: 9067‑9051 QUEBEC INC. v. THE QUEEN
+DENIS VINCENT v. THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATES OF HEARING: September 14 and 15, and December 7 and 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: September 28, 2011
+APPEARANCES:
+Counsel for the Appellants:
+Jules Turcotte
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Jules Turcotte
+Firm: BCF, LLP
+Québec, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The amount indicated in the Respondent’s written submissions is $17,658, but the actual amount is $17,658.69, rounded to $17,659 in these reasons.
+[2] Exhibit A‑6.

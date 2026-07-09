@@ -1,0 +1,159 @@
+---
+title: "Preugschas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22799/index.do"
+last_modified: "2005-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 567"
+citation2: ""
+neutral_citation: "2005 CCI 567"
+decision_date: "2005-10-11"
+language: "fr"
+item_id: "22799"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2246
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:27:21.869000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e21df208c5cbba469c394668a4ab09836240f4fc1693eb63ed986b02f2c3efb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Preugschas v. The Queen
+
+- Citation: 2005 CCI 567
+- Decision date: 2005-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2246, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preugschas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-11
+Référence neutre
+2005 CCI 567
+Numéro de dossier
+2005-822(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-822(IT)I
+ENTRE :
+WALTER K. PREUGSCHAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Marjorie J. Preugschas (2005-827(IT)I) et de Trina D. Preugschas (2005-826(IT)I) à Edmonton (Alberta), le 16 août 2005.
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour d'octobre 2005.
+Juge Little
+Traduction certifiée conforme
+ce 2e jour d'août 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI567
+Date : 20051011
+Dossier : 2005-822(IT)I
+ENTRE :
+WALTER K. PREUGSCHAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L'appelant détient 50 % des actions émises de Bloomsbury Farms Ltd. ( « Bloomsbury » ). La femme de l'appelant, Marjorie, détient également 50 % des actions de Bloomsbury. Bloomsbury possède et exploite une grosse porcherie près de Barrhead, au nord-ouest de l'Alberta (la « ferme » ). La ferme s'étend sur 700 acres et comporte de 6 000 à 7 000 porcs.
+[2] Trina Preugschas ( « Trina » ) est la fille de Walter et de Marjorie Preugschas.
+[3] La famille Preugschas a eu un accident d'automobile près de Regina, Saskatchewan, en 1997. Le fils aîné, Nolan (18), est décédé des suites de l'accident et Trina (16) a subi des blessures à la colonne vertébrale, au niveau du cou.
+[4] Après l'accident, les médecins ont conclu que Trina avait subi des blessures sérieuses. Il y a eu rupture des disques C4, C5 et C6 situés dans le cou de Trina et elle était considérée comme quadriplégique. Les médecins ont dit qu'il était peu probable que Trina retrouve un jour l'usage de ses bras et de ses mains et qu'il était encore moins probable qu'elle puisse remarcher.
+[5] Les médecins de Trina ont aussi a précisé que les personnes ayant subi des lésions de la moelle épinière avaient souvent des problèmes de santé secondaires, comme des pneumonies, des escarres, des infections urinaires et rénales, des douleurs, des problèmes cardiaques, etc.
+[6] L'appelant a déclaré dans son témoignage qu'après l'accident, la principale préoccupation de Trina était de travailler le plus fort possible pour retrouver une grande partie de ses fonctions motrices, y compris la capacité de marcher.
+[7] L'appelant a également déclaré dans son témoignage que pour aider Trina à atteindre son objectif visant à retrouver une grande partie de ses fonctions motrices, y compris la capacité de marcher, Trina et lui avaient fait des recherches concernant différentes sortes d'appareils d'exercice et un certain nombre de thérapies médicales.
+[8] L'appelant a témoigné qu'en 2002, dans le cadre des recherches qu'ils effectuaient pour trouver des appareils d'exercice qui permettraient d'augmenter les chances de Trina d'améliorer son état, ils avaient découvert que la société Combo, en Suisse, fabriquait des appareils d'exercice utilisés par les personnes ayant subi des lésions de la moelle épinière.
+[9] Après avoir effectué d'autres recherches avec des centres de rétablissement en Europe et discuté avec des personnes en Europe qui avaient subi des lésions de la moelle épinière ainsi qu'avec des médecins praticiens en Europe et aux États-Unis, l'appelant a acheté l'appareil d'exercice Giger MD, qui est fabriqué par Combo. Il a payé le montant suivant pour le Giger MD :
+9 944 $US x 1,58130 = 15 724,45 $
+TPS 1 100,71 $
+Total 16 825,16 $
+[10] Le système Giger MD est un mécanisme thérapeutique révolutionnaire. Ce genre de système permet d'optimiser les fonctions motrices des patients ayant des problèmes d'articulations et de dos, de l'arthrite, des problèmes circulatoires et des troubles complexes de fonctionnement du système nerveux.
+[11] Lorsque l'appelant a produit sa déclaration de revenus pour l'année d'imposition 2002, il a déduit le montant de 16 825,16 $ qui représentait le coût du Giger MD.
+[12] Au moyen d'un avis de nouvelle cotisation daté du 1er décembre 2003, le ministre du Revenu national (le « ministre » ) a établi une nouvelle cotisation à l'égard de l'appelant et a refusé la déduction du montant de 16 825,16 $.
+B. LA QUESTIONS EN LITIGE
+[13] Il s'agit de savoir si l'appelant a le droit de déduire les frais médicaux de 16 825,16 $ selon l'article 118.2 de la Loi de l'impôt sur le revenu (la « Loi » ) pour déterminer son revenu pour l'année d'imposition 2002.
+C. ANALYSE ET CONCLUSION
+[14] La demande d'un crédit d'impôt pour frais médicaux de l'appelant est fondée sur l'alinéa 118.2(2)m) de la Loi qui se lit comme suit :
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+[...]
+m) [dispositifs prescrits] - pour tout dispositif ou équipement destiné à être utilisé par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a) et qui répond aux conditions suivantes, dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l'équipement :
+(i) il est d'un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d'un médecin,
+(iii) il n'est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+[15] En l'espèce, la preuve indique clairement que l'appareil Giger MD que l'appelant a acheté n'avait pas été prescrit par un médecin, tel que l'exige précisément l'alinéa 118.2(2)m).
+[16] La Cour canadienne de l'impôt ne peut pas ne pas tenir compte des exigences contenues dans la Loi. Je conclus donc que l'appelant n'a pas le droit de déduire le montant de 16 825,16 $ à titre de crédit d'impôt pour déterminer son revenu pour l'année d'imposition 2002.
+[17] L'appel est rejeté sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour d'octobre 2005.
+Juge Little
+Traduction certifiée conforme
+ce 2e jour d'août 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI567
+NO DU DOSSIER :
+2005-822(IT)I
+INTITULÉ :
+Walter K. Preugschas c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 16 août 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Dawn Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

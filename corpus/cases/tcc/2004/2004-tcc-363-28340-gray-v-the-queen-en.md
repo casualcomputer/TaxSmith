@@ -1,0 +1,341 @@
+---
+title: "Gray v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28340/index.do"
+last_modified: "2004-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 363"
+citation2: ""
+neutral_citation: "2004 TCC 363"
+decision_date: "2004-05-12"
+language: "en"
+item_id: "28340"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1892
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:01.471000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f881a69e74336eac548d1e1d7457f249a8289b281d9a3a9f8e5fb2b839e01733"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gray v. The Queen
+
+- Citation: 2004 TCC 363
+- Decision date: 2004-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1892, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gray v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-12
+Neutral citation
+2004 TCC 363
+File numbers
+2002-2555(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2555(IT)G
+BETWEEN:
+MICHAEL GRAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Ellen Gray
+(2002-2557(IT)G) at Prince George, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Kenneth R. Hauser
+Counsel for the Respondent:
+Lisa Macdonell
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is awarded its party-and-party costs but only one set of costs is to be taxed respecting the conduct of the hearing itself.
+Signed at Saskatoon, Saskatchewan, this 12th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2002-2557(IT)G
+BETWEEN:
+ELLEN GRAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Michael Gray
+(2002-2555(IT)G) at Prince George, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Kenneth R. Hauser
+Counsel for the Respondent:
+Lisa Macdonell
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is awarded its party-and-party costs but only one set of costs is to be taxed respecting the conduct of the hearing itself.
+Signed at Saskatoon, Saskatchewan, this 12th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC363
+Date: 20040512
+Docket: 2002-2555(IT)G
+BETWEEN:
+MICHAEL GRAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2002-2557(IT)G
+AND BETWEEN:
+ELLEN GRAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals pursuant to the General Procedure were heard together on common evidence at Prince George, British Columbia on May 4, 2004. Michael Gray was the only witness.
+[2] At the outset, the Respondent's counsel filed a copy of a Request to Admit which was admitted by the Appellants. Paragraphs 1 to 3 thereof read:
+1. There is no minimum lot size for land located in the Agricultural Land Reserve (the "ALR") in the Province of British Columbia, in which the property described as NW 1/4 DL 341 CR4, Except Plan 8955 and Plan 9387 purchased by the Appellant and his spouse in 1976 (the "Property"), is located.
+2. With respect to applications for subdivision of land located in the ALR (including the Property), the decision whether an application will be granted is made by the Agricultural Land Commission of the Province of British Columbia.
+3. The process of obtaining permission to subdivide land located in the ALR (including the Property) is as follows:
+a) ALR applications are first submitted to the Regional District, which checks the application for completeness and writes a report on the application;
+b) The Application is then referred to the local Advisory Planning Commission and the Ministry of Agriculture for comment;
+c) The Planning Department also comments on the application and presents the application to the Board of Directors;
+d) The Board of Directors makes a recommendation as to whether the application should be denied, approved or approved with conditions;
+e) The Planning Department then forwards all documents to the Agricultural Land Commission;
+f) The final decision on an application is made by a panel of three Commissioners of the Agricultural Land Commission.
+[3] Paragraphs 4 to 13 of the Reply to the Notice of Appeal of Michael Gray outline the matters in dispute. They read:
+4. With respect to paragraph 4 of the Notice of Appeal, he admits that the property described by the Appellant as "Farm Land" is situated within the British Columbia Agricultural Land Reserve, but he says that it can be subdivided under local regulations.
+5. With respect to paragraph 12 of the Notice of Appeal, he admits that the Appellant reported gross revenues as set out, but further says that the Appellant reported the following:
+Gross Farm Revenue
+Net Farm Income (Loss)
+Employment Income
+1985
+$1,155.00
+($1,381.21)
+$35,767.80
+1986
+1,464.03
+(1,006.15)
+35,982.68
+1987
+1,012.86
+(1,012.86)
+13,543.04
+1988
+641.00
+(612.97)
+44,858.24
+1989
+1,060.00
+Nil
+31,490.02
+He also says that the hay proceeds were the Appellant's crop share from renting the Property to a neighbouring farmer.
+6. The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 1998 taxation year by Notice dated May 13, 1999.
+7. In computing income for the 1998 taxation year, the Appellant reported a taxable gain of $90,701 on a disposition of qualified farm property and claimed a corresponding capital gains exemption.
+8. The Minister reassessed the Appellant for the 1998 taxation year by Notice dated October 29, 2001, disallowing the capital gains exemption and increasing the Appellant's taxable capital gain to $91,149.
+9. In so reassessing the Appellant, the Minister relied on the following assumptions:
+a) The facts stated and admitted above;
+b) In 1977, the Appellant and his spouse, Ellen Gray, purchased 141.23 acres of land located at NW 1/4 DL 341, Except Plan 8955 and Plan 9387 (the "Property");
+c) At the time the Appellant and Ellen Gray purchased the Property, they planned to use the Property as their residence;
+d) The Property contains a 1 1/2 story single family dwelling that the Appellant and his family occupied as their residence (the "Dwelling");
+e) The Property is located in the British Columbia Agricultural Land Reserve, but no zoning or land use has been assigned to the Property because of its rural nature;
+f) Subdivision of the Property is permitted;
+g) That part of the Property exceeding 1 acre contiguous to the Dwelling cannot reasonably be regarded as contributing to the use and enjoyment of the Dwelling as a residence;
+h) Over the period of ownership, the Appellant and his spouse have used the Property for a recreational area for their children, recreational farming and the purpose of earning crop shares from renting out portions of the Property to neighbouring farmers;
+i) Except for the 1989 taxation year, the Appellant and her (sic) spouse rented out the farmed portion of the Property with the rental payment to be 1/3 of the renter's resulting hay crop;
+j) At no time did the Appellant and his spouse principally use the Property in the course of carrying on a business of farming;
+k) Revenue from farming reported by the Appellant in respect of the 1998 taxation year was in respect of a crop share received as a result of renting part of the Property to a neighbouring farmer who farmed the Property;
+l) In 1998, the Appellant and his spouse disposed of certain timber located on the Property;
+m) The Appellant and his spouse received consideration of $330,787 and incurred outlays and expenses of $87,723, for a total gain of $243,064 on the disposition of the timber;
+n) the Appellant's share of the gain in respect of the disposition of the timber was $121,532 and his taxable capital gain was $91,149.
+B. ISSUES TO BE DECIDED
+10. The issues are whether:
+a) the Appellant is entitled to a capital gains exemption with respect the disposition of the timber;
+b) the timber formed part of the principal residence of the Appellant.
+C. STATUTORY PROVISIONS RELIED ON
+11. He relies on sections 3, 9, 54, 110.6, paragraphs 38(a), 30(1)(a), 40(1)(a), 40(2)(b) and (c) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+12. He respectfully submits that the Appellant is not entitled to a capital gains exemption in respect of the gain realized on the disposition of timber for the reasons that:
+a) The property is not a "qualified farm property" within the meaning of section 110.6 of the Act for the reason that neither the Appellant, nor the Appellant's spouse, at any time used the Property principally in the course of carrying on the business of farming; and
+b) Further, any farming activity carried on by the Appellant and his spouse on the Property did not constitute carrying on the business of farming, as it was either recreational farming or merely the receipt of crop shares in respect of the rental of the Property.
+13. He submits that the Appellant is not entitled to the principal residence exemption in respect of the gain realized on the disposition of the timber as neither the timber nor the land on which it was located can reasonably be regarded as contributing to the use and enjoyment of the Dwelling as a residence.
+He requests that the appeal be dismissed with costs.
+[4] Assumptions 13(c), (d), (e), (f), (k), (l), (m) and (n) were not refuted.
+[5] Respecting the assumptions, in particular:
+(b) The land was purchased in 1976 as 150 acres. Pursuant to the vendor's wishes, the Appellants undertook to and sold and subdivided out of the 150 acres, for $1.00 each, a parcel to the Mennonite Church and a squatter's home site to Mr. Schmidt, leaving 141.23 acres in the Appellants' names by about the end of 1977.
+(c) Part of the contest before the Court is whether the Appellant also intended to farm the property.
+(f) Once the Schmidt home site was subdivided out by the Appellants, a further subdivision of this land would, at best, be very difficult to accomplish. The land is remote, hilly, swamp or muskeg like bush land in northern British Columbia in which any municipality would not want to service small holdings.
+(g) and (h) An argument which will turn on the facts.
+(i) Should refer to "his" spouse, and again turns on the facts.
+(j) Turns on the facts.
+[6] The agreement to sell the timber reads as follows:
+SLOCAN GROUP – PLATEAU DIVISION
+LOG PURCHASE AGREEMENT
+DATE: NOVEMBER 5, 1997
+VENDOR: MICHAEL CLARK GRAY & ELLEN VICTORIA GRAY
+PHONE NO.: 692-3312
+ADDRESS: GENERAL DELIVERY, BURNS LAKE, B.C. V0J 1E0
+GST REGISTRATION NUMBER:_______________
+1. Subject to the terms and conditions herein Slocan Group – Plateau Division (the "Company") agrees to purchase from the Vendor and the Vendor agrees to sell to the Company 3,000 m3 of the timber from the Vendor's timberland described as follows:
+Timberbark: NB DNT
+Property Description: NW 1/4, D.L. 341, Range 4, Coast Dist. (Except Plan 9387 and 8955.
+2. The Vendor confirms he owns and/or has the right to sell the logs covered by this agreement. If the Vendor is not the Timber Mark Holder a copy of a letter of authorization from the Timber Mark holder must be attached as an integral part of this agreement.
+3. The Vendor shall not deliver to any other person or company any timber from the said timberland until the Company has received all the timber to be delivered to it as required by paragraph 1.
+4. Delivery of the timber purchased hereunder by the Company shall be delivered by the Vendor to the Company as follows:
+Delivery of ------, m3 (-------per day) or (------ per month).
+Commencing on or about Dec 1997
+Completed no later than March 31/98
+5. All logging truck drivers, either directly employed by the vendor or hired, must have their truck radios equipped with the Slocan Group – Plateau Division yard channel frequency. This facilitates clear communication and direction in the log yard, resulting in a reduction in the average time-in time-out cycle. The Slocan Group – Plateau Division yard channel frequency is 154.920.
+6. Slocan – Plateau Division reserves the right to place a logging contractor if its choice, (for the purpose of harvesting, the contracted volume described in item "4") at any time if any conditions of this agreement are not met. Any cost incurred will be deducted from the price agreed to in Item "9".
+7. Logs delivered to Engen will be processed to Slocan Group – Plateau Division Standards as per specification sheets attached hereto.
+8. The Vendor will at all time indemnify and save harmless, Slocan Group – Plateau Division from and against all penalties, levies, claims, damages, costs, actions and suits arising out of the failure of the vendor; its servants, agents or sub-contractors.
+9. Payments for wood delivered will be made twice monthly as per attached schedule.
+10. The price paid for wood will be as follows:
+BK
+s/m3
+Payment made to
+Address
+Log
+Description
+Deliver
+To
+TOTAL
+90.00
+Vendor
+Above
+Pl, St, Ba
+Engen
+11. Bonus payments will be paid to: Vendor
+12. Stumpage and Royalty will be deducted from ----- at a rate of m3 based on a fixed kg per m3 conversion of 800. Any year end surplus or shortfall in the S&R account shall be for the account of the Company and no adjustment payment shall be made.
+13. Payments will be based on a fixed kg per m3 conversion of 800.
+14. The Vendor will ensure that all of his employees and contractors are adequately covered by the Workers Compensation Board. Slocan Group – Plateau Division reserves the right to deduct such disbursements from the proceeds of this agreement to make WCB payments on behalf of the Vendor.
+Contractor: 478299-141 (Gary Martin)
+15. Slocan Group – Plateau Division reserves the right to withhold 15% of the purchase price for 40 days.
+16. The volume of logs delivered to Slocan Group – Plateau Division may be reduced or curtailed in the event of strikes, lockouts, acts of God, market conditions or other reasons beyond the control of Slocan Group – Plateau Division.
+17. Comments:
+18. The Company and the Vendor have read the above and agree with and accept as binding the provisions contained herein.
+Exhibit A/R-1, Tab 17
+[7] From the gist of the evidence, the Court finds that Slocan did everything, including the accounting and simply paid cheques to the Appellants, so that the sale was in fact a sale of standing timber which Slocan cut from the land.
+[8] The first question is whether the Appellants are entitled to a capital gains exemption with respect to the disposition of the timber. To be entitled, the Appellants must come within the following portions of subsection 110.6(1):
+110.6(1) For the purposes of this section …
+"qualified farm property" of an individual (other than a trust that is not a personal trust) at any particular time means a property owned at that time by the individual, the spouse or common-law partner of the individual or a partnership, an interest in which is an interest in a family farm partnership of the individual or the individual's spouse or common-law partner that is
+(a) real property that was used by
+(i) the individual,
+(ii) where the individual is a personal trust, a beneficiary referred to in paragraph 104(21.2)(b) of the trust,
+(iii) a spouse, common-law partner, child or parent of a person referred to in subparagraph 110.6(1) "qualified farm property" (a)(i) or 110.6(1) "qualified farm property" (a)(ii),
+…
+in the course of carrying on the business of farming in Canada and, for the purpose of this paragraph, property will not be considered to have been used in the course of carrying on the business of farming in Canada unless
+…
+(vii) where the property is a property last acquired by the individual or partnership before June 18, 1987, or after June 17, 1987 under an agreement in writing entered into before that date, the property or property for which the property was substituted (in this subparagraph referred to as "the property") was used by the individual, a beneficiary referred to in subparagraph 110.6(1) "qualified farm property" (a)(ii) or a spouse, common-law partner, child or parent of the individual or of such a beneficiary, a corporation referred to in subparagraph 110.6(1) "qualified farm property" (a)(iv) or a partnership referred to in subparagraph 110.6(1) "qualified farm property" (a)(v) or by a personal trust from which the individual acquired the property principally in the course of carrying on the business of farming in Canada
+…
+(B) in at least 5 years during which the property was owned by the individual, a beneficiary referred to in subparagraph 110.6(1) "qualified farm property" (a)(ii) or a spouse, common-law partner, child or parent of the individual or of such a beneficiary, by a personal trust from which the individual acquired the property or by a partnership referred to in subparagraph 110.6(1) "qualified farm property" (a)(v),
+…
+(d) an eligible capital property used by a person or partnership referred to in any of subparagraphs 110.6(1) "qualified farm property" (a)(i) to 110.6(1) "qualified farm property" (a)(v), or by a personal trust from which the individual acquired the property, in the course of carrying on the business of farming in Canada and, for the purpose of this paragraph, eligible capital property
+(i) will not be considered to have been used in the course of carrying on the business of farming in Canada unless the conditions set out in subparagraph 110.6(1) "qualified farm property" (a)(vi) or 110.6(1) "qualified farm property" (a)(vii), as the case may be, are met, and
+(ii) shall be deemed to include capital property to which paragraph 70(5.1)(b) or 73(3)(d.1) applies;
+[9] In particular, to be entitled to this exemption, this land must have been used by these individuals, or one of them acquired the property principally in the course of carrying on the business of farming in Canada in at least five years during which they owned it. (Subparagraph 110.6(2)(vii)(B))
+[10] To determine this respecting the word "principally", the Court adopts the following dicta of Rothstein, J.A. in Gulf Canada Resources Limited v. The Queen, 93 DTC 5345 at 5348 and 5349 where he stated:
+IT-195R4 also suggests that if more than fifty per cent of a total area is rented, this is an indication that the property is being used principally for the purpose of producing rent. Paragraph 4 of IT-195R4 states in part:
+4. As used in the definition of rental property in subsection 1100(14), the word 'principally' means 'primarily' or 'chiefly'. In establishing whether a property is used principally for a given purpose, ... (an) important factor to be considered is the proportion of the amount of space rented in relation to the total area of the building. Again, if more than 50 per cent of the total area is rented, that is an indication that the property is being used principally for producing rental revenue.
+Subsection 1100(14) in its entirety and IT-195R4 suggest that the words 'used ... principally for the purpose ...' are to be considered having regard to two approaches, one quantitative and the other qualitative. Under the quantitative approach, regard is to be had to the proportion of a building that is used to produce rent. This is essentially the approach referred to in paragraph 4 of IT-195R4. If more than fifty per cent of a building is rented, this is an indication that the building is used by the taxpayer mainly for the purpose of producing rent and it would likely be 'rental property'; if less than fifty per cent is rented, it would likely not be 'rental property'.
+Under the qualitative approach, the owner's main purpose in using the property in the taxation year must be considered; hence, the words following 'but for greater certainty ...' in subsection 1100(14) and the service station example in IT-195R4. Thus, even if a property is leased and rent is collected, if the use of the property is mainly for a purpose other than the producing of rent, e.g., the selling of the owner's goods and services as in the service station example, the property will not be 'rental property'. While each case must be decided on its own facts, I would think that this qualitative assessment requires taking into account evidence as to the owner's business and the business carried out in the rented premises and the relationship between the two. Where there is little or no relationship between the owner's business and the business carried on in rented premises, the presumption would be that the owner was using the rented premises principally for the purpose of producing rent and it would be 'rental property'. Where there is a relationship between the owner's business and the business carried on in the rented premises, the nature of the relationship between the businesses would have to be considered. Where it could be demonstrated that the leasing of the rented premises was for a business purpose other than for producing rent, the property would likely not be 'rental property'.
+[11] In order to qualify for the five year period, the Appellant's evidence was devoted to the time from acquisition in 1976 until 1986, when Mr. Gray ceased his activity respecting the land due to an illness. Nothing was done until 1990 when it was leased to the H&R Ranch.
+[12] In the case of farmland of any size, there is usually, as in this case, some wasteland which may in fact serve some purpose. Trees may shelter animals; a large body of water may not be necessary, but some of that water is necessary. To some extent you accept what you get when you buy land, as was the case here. Thus the quantitative use of the farm property may not be an appropriate measure in determining what is "principal". In this case most of the land was not used for farming. The actual hayland amounted to about 1/4 to 1/3 of the total land area or the 141 acres. The farm yard was very small. Mr. Gray testified that the sheep wandered out of their pasture and over the northerly third of the total area; but their actual grazing area consisted of about 1/6 of the total area, in the pasture or hayland near the buildings. The Appellant husband filed the income tax returns respecting the farm and claimed and was allowed a restricted farm loss each year. They also lived on the farm. Thus quantitatively, based on area or money, the property was not used principally in the course of carrying on the business of farming in Canada. However, 1/3 of the total was wasteland – muskeg and rocky.
+[13] Qualitatively, the Court accepts Mr. Gray's statement in the questions he answered for CCRA in Exhibit A/R-1, Tab 19, question 3 that the property was purchased with the initial intention that it be "used as a home for our family with land for our children to "stretch their legs"." They had set out to buy a home, not 150 acres, but those acres came with the right sized house, at the right financeable price, near the school where Mr. Gray was employed as a teacher through the years in question.
+[14] Mr. Gray deducted all of the interest in the two mortgages as farm expenses although some was attributable to the capital cost of their home; he deducted the property taxes and he deducted all of the feed used for eggs, fowl and lambs including those that they consumed. These constitute a personal interest in the operation of the property. His testimony established that he took great personal enjoyment from just walking through the acres. Except for the hay and the chickens, his remaining alleged farming activities were short-lived and obviously unprofitable and give the impression of something for the children, or for personal consumption or a hobby. These include the acquisition, consumption and sale of a few ducks, geese, bees, rabbits and sheep all small scaled and short-lived. These might be described as small "tryouts" but their sizes are so small that they imply either hobbies or personal consumption.
+[15] Both the hay and egg operations are different. The Appellants grew the hay to sell most of it. They also sold about 1/2 or more of their egg production, on average.
+[16] Hay was being produced before the Appellants purchased the property in 1976 on all the land capable of producing it. The Appellants continued to produce and sell hay. They also continued the previous owner's (Mr. Fehr) arrangement with Mr. Schmidt who, with his equipment cut and baled the hay for a 2/3 share. Contrary to common practice, the Appellants unloaded their share of the hay and stored it in their own shed, from which they sold it. Mr. Gray also recorded Mr. Schmidt's share as hay that he sold to Mr. Schmidt. The normal lease-hay contract is that the harvester (Mr. Schmidt) takes the Gray 1/3 and stores, delivers and sells it for a cheque or cheques for that 1/3, payable to Mr. Gray. The Gray family also cleared the hayland of rocks, fallings and scree. In the Court's view, these actions by Mr. Gray and his family which commenced in 1976 and continued until 1986, constituted a farming activity. They ended in 1986 when Mr. Schmidt retired. The Grays had no expense except their labour respecting the hay since they sold it to people who picked it up at their farm. Thus, practically speaking, the sale price was all profit, although the volume of hay varied from year to year. There was no personal element to the hay production.
+[17] From Mr. Gray's records which are exhibited, it appears that their net proceeds from the sale of hay in each year from 1976 to 1986 are:
+1976
+$267.00
+1977
+490.00
+1978
+686.00
+1979
+652.00
+1980
+397.50
+1981
+262.50
+1982
+551.00
+1983
+524.00
+1984
+366.00
+1985
+300.00
+1986
+367.00
+[18] The Grays began selling eggs and fowl in December, 1976. They continued to do this through 1986. Except respecting rabbit feed in 1977 the feed costs for all animals was claimed as an expense in each year. Moreover, the farm income reported is equally undeterminable because Mr. Gray sometimes recorded "value" rather than sale prices and appears at times (or perhaps always) to have recorded some consumption as sales income from the value recorded. However, so far as can be determined from the records in evidence, and in part because all costs were claimed as expenses, the costs related to fowl and eggs exceed their sales income in each year from 1976 to 1986.
+[19] Mr. Gray testified that the farm had to make money for him to meet the mortgage payments from his income each year. In fact he deducted all of the mortgage interest, apparently all the property taxes, and all the original expenses from the farm income. In addition he recorded all the fowl expenses against the egg income, although their family consumed eggs and fowl from their production. The result was a farming loss each year which he deducted from his teacher's salary as a restricted farm loss. These income tax returns, with a minor irrelevant exception, were assessed as filed and the losses were allowed from 1976 through 1986.
+[20] Mr. Gray did not depreciate the farm buildings, which is an option to the farmer. However there is no evidence that the farm buildings had any real value and in these circumstances, the Court finds that the buildings had no value.
+[21] Mr. Gray prepared and filed his own income tax returns. In the Court's view, his accounting practises described in paragraph [19] hereof describe a personal element to the farm which, under the precedent of Brian J. Stewart v. The Queen, 2002 DTC 6969 (S.C.C.) warrant a determination as to whether the farm business had a reasonable expectation of profit and, in these beginning years, constitute a start up, under the rules set out in Moldowan v. The Queen, 77 DTC 5213 (S.C.C.).
+[22] Using the Moldowan rules, the experience is of losses; Mr. Gray's alleged training consisted of some after-school and weekend experiences on farms in England while he was a schoolboy and several months spent shortly after that with his sheepherder brother herding sheep, Mrs. Gray had no experience; there is no evidence that either Gray had an intention to farm or to develop any kind of a farm or even to make a profit from the farm; and the farm did not, and could not, show a profit on the accounting basis adopted by Mr. Gray or any other basis while the heavy financing remained.
+[23] On this basis, the property was not used by the Appellants or acquired by them principally in the course of carrying on the business of farming. In fact, except for the hay, their activities consisted of personal use and enjoyment of their home and residence. Moreover, neither the timber nor the land on which it was located can be reasonably regarded as contributing to the use and enjoyment of the dwelling as a residence since the timber was not situated near the dwelling.
+[24] For these reasons, the appeals are dismissed. The Respondent is awarded its party-and-party costs but only one set of costs is to be taxed respecting the conduct of the Hearing itself.
+Signed at Saskatoon, Saskatchewan, this 12th day of May 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC363
+COURT FILE NOS.:
+2002-2555(IT)G
+2002-2557(IT)G
+STYLE OF CAUSE:
+Michael Gray v. The Queen
+Ellen Gray v. The Queen
+PLACE OF HEARING:
+Prince George, British Columbia
+DATE OF HEARING:
+May 4, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+May 12, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth R. Hauser
+Counsel for the Respondent:
+Lisa Macdonell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kenneth R. Hauser
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,330 @@
+Title: Al Saunders Contracting & Consulting Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405302/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-86-405302-al-saunders-contracting-consulting-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2019-04-25
+
+# Al Saunders Contracting & Consulting Inc. c. M.R.N.
+
+- Citation: 2019 CCI 86
+- Decision date: 2019-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4393, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Al Saunders Contracting & Consulting Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-25
+Référence neutre
+2019 CCI 86
+Numéro de dossier
+2017-4381(CPP), 2017-4393(EI)
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2017-4393(EI)
+ENTRE :
+AL SAUNDERS CONTRACTING & CONSULTING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel d’Al Saunders Contracting & Consulting Inc. (2017-4381(CPP)) le 22 novembre 2018 à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocats de l’appelante :
+Me Jason Stephan
+Avocat de l’intimé :
+Me Allan Mason
+JUGEMENT
+L’appel interjeté en application du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli et la décision du ministre du Revenu national du 22 août 2017 est modifiée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2019.
+« Susan Wong »
+La juge Wong
+Dossier : 2017-4381(CPP)
+ENTRE :
+AL SAUNDERS CONTRACTING & CONSULTING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel d’Al Saunders Contracting & Consulting Inc. (2017-4393(EI)) le 22 novembre 2018 à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocats de l’appelante :
+Me Jason Stephan
+Avocat de l’intimé :
+Me Allan Mason
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada est accueilli et la décision du ministre du Revenu national du 22 août 2017 est modifiée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2019.
+« Susan Wong »
+La juge Wong
+Référence : 2019 CCI 86
+Date : 20190425
+Dossiers : 2017-4393(EI)
+2017-4381(CPP)
+ENTRE :
+AL SAUNDERS CONTRACTING & CONSULTING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] L’appelante Al Saunders Contracting & Consulting Inc. interjette appel des décisions du ministre du Revenu national (le « ministre ») annoncées le 22 août 2017 par lesquelles le ministre a confirmé le montant des cotisations en application de la Loi sur l’assurance-emploi pour l’année d’imposition 2014 et les cotisations au Régime de pensions du Canada pour les années d’imposition 2013 et 2014.
+[2] Le ministre a déterminé que les montants payés par l’appelante à certains de ses employés en 2013 et 2014 étaient des gains assurables et ouvrant droit à pension. Par conséquent, le ministre a établi une cotisation à l’égard de l’appelante au titre des cotisations d’assurance-emploi (« AE ») et au Régime de pensions du Canada (« RPC ») non déduites et versées à l’égard de ces montants.
+[3] M. Kent Saunders, propriétaire de l’appelante et responsable des opérations, a témoigné au nom de l’appelante. L’intimé a appelé à témoigner Mme Hoa (Tianna) On, une vérificatrice du niveau d’observation des employeurs. Aucun des travailleurs concernés n’a témoigné ni fait d’intervention lors des présents appels.
+Questions en litige
+[4] L’appelante ne conteste pas le fait que les travailleurs en question étaient des employés et non des entrepreneurs indépendants pour les années d’imposition 2013 et 2014.
+[5] Par conséquent, pour déterminer si les cotisations d’AE et de RPC en question devaient être déduites et versées par l’appelante, la Cour doit décider si les indemnités versées étaient imposables en application de la Loi de l’impôt sur le revenu (la « Loi »). Si la réponse est oui, l’appelante a la responsabilité de verser les montants non versés.
+Le droit applicable
+[6] Point de départ juridique, les indemnités versées par un employeur à un employé sont imposables à titre de revenu et assujetties aux déductions à la source pertinentes à moins qu’une exception ne s’applique expressément.
+Cotisations d’assurance-emploi
+[7] L’alinéa 2(3)(a.1) du Règlement sur la rémunération assurable et la perception des cotisations, DORS/97-33, déclare que toute somme qui est exclue du revenu aux termes des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi sont exclus de la rémunération assurable.
+[8] En l’espèce, les dispositions pertinentes sont l’alinéa 6(1)b) et le paragraphe 6(6) de la Loi. Dans les réponses du ministre aux avis d’appel et dans le plaidoyer final de l’intimé, la Couronne emploie le terme [traduction] « avantages imposables » pour parler des sommes en litige tout en invoquant l’alinéa 6(1)b) de la Loi. Les avantages imposables qui sont tirés d’une charge ou d’un emploi font l’objet de l’alinéa 6(1)a), disposition qui ne semble pas intéresser le présent appel.
+[9] L’alinéa 6(1)b), lui, dispose des frais personnels ou de subsistance et ce sont les sous-alinéas (vii), (vii.1), (x) et (xi) qui nous intéressent. Voici le texte de toutes ces dispositions.
+6 (1) Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi — Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) Frais personnels ou de subsistance — les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+( vii ) les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi, à l’extérieur :
+(A) de la municipalité où était situé l’établissement de l’employeur dans lequel l’employé travaillait habituellement ou auquel il adressait ordinairement ses rapports,
+(B) en outre, le cas échéant, de la région métropolitaine où était situé cet établissement,
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[…]
+pour l’application des sous-alinéas (v), (vi) et (vii.1), une allocation reçue au cours de l’année par le contribuable pour l’usage d’un véhicule à moteur dans l’accomplissement des fonctions de sa charge ou de son emploi est réputée ne pas être raisonnable dans les cas suivants :
+(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui-ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+(xi) le contribuable, à la fois, reçoit une allocation pour cet usage et est remboursé de tout ou partie de ses dépenses pour le même usage (sauf s’il s’agit d’un remboursement pour frais d’assurance-automobile commerciale supplémentaire, frais de péage routier ou frais de traversier et si l’allocation a été déterminée compte non tenu des dépenses ainsi remboursées);
+[10] Par conséquent, les sous-alinéas 6(1)b)(vii) et (vii.1) permettent d’exclure du revenu les allocations raisonnables pour frais de déplacement et l’usage d’un véhicule à moteur. Cependant, selon les sous-alinéas 6(1)b)(x) et (xi), une allocation reçue pour l’usage d’un véhicule à moteur est réputée ne pas être raisonnable lorsque l’usage du véhicule n’est pas uniquement évalué par la distance parcourue dans le cadre du travail [sous-alinéa (x)] ou lorsque l’employé reçoit à la fois une allocation et le remboursement de ses dépenses pour le même usage [sous-alinéa (xi)].
+Cotisations au Régime de pensions du Canada
+[11] L’article 12 du Régime de pensions du Canada déclare que le traitement et le salaire cotisables d’une personne pour une année est son revenu pour l’année provenant d’un emploi ouvrant droit à pension, calculé en conformité avec la Loi de l’impôt sur le revenu, plus les déductions. Il existe des exceptions relatives à l’âge, aux invalidités et aux ordres religieux, mais aucune ne s’applique en l’instance.
+[12] Si le texte de cette disposition n’est pas aussi précis que celui de la disposition correspondante en assurance-emploi, l’effet demeure le même.
+Les faits
+L’appelante
+[13] L’appelante est une entreprise générale d’équipement lourd spécialisée dans la construction de concessions pétrolières et la construction et l’entretien de routes. Ses bureaux sont situés à Sundre (Alberta).
+[14] Selon le témoignage de M. Saunders, la majorité des travaux de l’appelante sont exécutés pour le ministère des Transports de l’Alberta, au service des routes. M. Sanders a ajouté que l’appelante effectue des travaux sur la structure des barrages dans toute l’Alberta pour éviter les ruptures de barrage.
+[15] Selon son témoignage, la majorité des travaux de l’appelante dans les années d’imposition 2013 et 2014 ont été effectués au Parc national des Lacs-Waterton, sur la route 93, à la hauteur de la rivière Saskatchewan à mi-chemin entre les parcs nationaux de Banff et de Jasper à Saskatchewan River Crossing et le long de la Kananaskis Trail.
+Les travailleurs
+[16] Voici une présentation des dix travailleurs qui sont l’objet des appels considérés en l’espèce :
+Nom
+2013
+2014
+Tarif fixe/frais de subsistance
+Indemnité pour l’usage d’un camion
+Allocation pour pension et logement/roulotte
+Autre personne
+Colin Averill
+RPC
+RPC
+2013; 2014
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+Rodney Bjorkman
+[EN BLANC]
+RPC, AE
+2014
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+Tammy Borys (McKinnon)
+RPC
+RPC, AE
+2013; 2014
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+Aaron Bosch
+[EN BLANC]
+RPC, AE
+[EN BLANC]
+2014
+[EN BLANC]
+[EN BLANC]
+Ross French
+RPC
+RPC
+[EN BLANC]
+2013; 2014
+2013
+[EN BLANC]
+John Hague
+RPC
+RPC, AE
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+2013; 2014
+Matthew Ingvardsen
+RPC
+RPC, AE
+2013; 2014
+[EN BLANC]
+[EN BLANC]
+[EN BLANC]
+Freddie Powder
+RPC
+[EN BLANC]
+[EN BLANC]
+2013
+[EN BLANC]
+[EN BLANC]
+Terrence Powder
+RPC
+RPC, AE
+[EN BLANC]
+2013; 2014
+2013
+[EN BLANC]
+Caitlin Rankin
+RPC
+[EN BLANC]
+[EN BLANC]
+2013
+[EN BLANC]
+[EN BLANC]
+[17] Dans le cas de John Hague, les revenus présentés sont une rémunération pour l’entretien ménager des roulottes de l’appelante au cours des deux années.
+Les allocations
+[18] Selon le témoignage de M. Saunders, en 2013 et en 2014, les travailleurs, à l’exception de John Hague, ne revenaient pas à leur domicile chaque soir pour des raisons de sécurité. M. Saunders a affirmé que l’exécution des travaux se faisait dans un rayon de 160 km et que si le lieu de travail se trouvait trop loin de la base, il demandait aux travailleurs de passer la nuit au lieu de travail en raison du temps de déplacement. Il a également signalé que la journée de travail typique était de douze heures.
+[19] Selon le témoignage de M. Saunders, les travailleurs assumaient eux-mêmes le coût des repas, de l’essence, des changements d’huile et l’usure de leur véhicule personnel. M. Saunders a affirmé que l’entretien des routes était irrégulier dans la région albertaine des contreforts et qu’il arrivait que la route soit couverte de plus de 30 cm (1 pied) de neige lors des déplacements.
+[20] C’est ce qui explique, selon lui, que les dépenses personnelles des travailleurs étaient importantes. M. Saunders a aussi affirmé que, même si ses employés maîtrisaient la machinerie lourde, la nature même de l’industrie explique que beaucoup de ses travailleurs étaient peu instruits.
+Frais de subsistance
+[21] M. Saunders a affirmé que des frais de subsistance étaient versés lorsque les employés travaillaient en un endroit éloigné. Selon son témoignage, lorsqu’un travailleur utilisait son propre véhicule, ce véhicule devait avoir une bonne capacité en carburant et pour les outils. C’est ce qui explique, selon lui, que certains travailleurs prenaient leur propre véhicule et d’autres, non.
+[22] À titre d’exemple, selon le témoignage de M. Saunders, M. Colin Averill habitait dans le district municipal de Bighorn et faisait beaucoup de travail sur la Powderface Trail à Kananaskis en 2013 et en 2014. M. Saunders a décrit M. Averill comme étant un travailleur polyvalent ayant un permis de conduire de classe 3. Il a affirmé que, pour un contrat de terrassement, M. Averill devait faire des allers-retours à l’endroit où la machinerie lourde était entreposée. Lors du contre-interrogatoire, M. Saunders a dit que l’appelante versait un salaire à M. Averill plutôt que de lui demander, comme c’est le cas pour les autres travailleurs, de remplir une feuille de temps. Selon son témoignage, le niveau de scolarité de M. Averill n’est pas très élevé et il évitait de cette façon de causer de la gêne à M. Averill.
+[23] Selon un autre exemple tiré de son témoignage, Mme Tammy Borys (McKinnon) tenait les livres de l’appelante jusqu’à ce son emploi prenne fin au milieu de 2014. M. Saunders a affirmé que tous ses employés devaient être en mesure de travailler à titre de signaleurs routiers et que Mme Borys, en 2013, a probablement été signaleuse pour le projet du parc national des Lacs-Waterton. Il a affirmé qu’elle devait se déplacer avec son propre véhicule et payer elle-même ses repas. Lors de son témoignage en contre-interrogatoire, il a déclaré que l’appelante a refusé l’augmentation de salaire demandée par Mme Borys et qu’elle lui a versé des frais de subsistance à la place.
+[24] Dans un autre exemple tiré de son témoignage, M. Matthew Ingvardsen, habitant à Leduc, était responsable de la sécurité en région éloignée. M. Saunders a affirmé que M. Ingvardsen payait lui-même son hébergement et ses repas lorsqu’il était en déplacement pour le travail.
+[25] Selon son témoignage, des frais de subsistance étaient versés aux employés lorsque ceux-ci étaient en déplacement pour le travail, alors qu’une indemnité pour l’usage d’un camion était versée aux employés qui se servaient de leur propre véhicule. Il a déclaré que la nature du travail de l’appelante exigeait que les employés s’éloignent de leur famille des jours durant et que les frais de subsistance étaient une sorte de contribution à des dépenses comme des vacances en famille.
+[26] M. Saunders a affirmé, à titre d’analogie, que M. Ross French utilisait toujours son véhicule, de sorte que l’allocation de pension et de logement qu’il lui versait servait la même fonction que des frais de subsistance, c’est-à-dire à payer pour l’hébergement et les repas.
+[27] Selon le témoignage de la vérificatrice, Mme On, M. Saunders lui aurait dit qu’il avait cru à tort que les frais de subsistance n’étaient pas imposables. À la page 4 de son rapport de vérification (pièce R-1), Mme On affirme qu’elle [traduction] « avait conclu que l’entreprise payait un tarif fixe pour les allocations quotidiennes et un tarif au kilomètre pour les allocations pour l’usage d’un camion à certains employés au cours des mêmes périodes. L’entreprise appelait ‘allocation de subsistance’ l’allocation au tarif fixe et ‘indemnité pour l’usage d’un camion’ l’allocation au tarif par kilomètre pendant la même période. »
+[28] Mme On a dit dans son témoignage que, lors de sa vérification, elle a appris que l’appelante appelait parfois les frais de subsistance « indemnité pour l’usage d’un camion ».
+Indemnité pour l’usage d’un camion
+[29] Dans son témoignage, M. Saunders affirme que l’appelante a versé une indemnité pour l’usage d’un camion aux travailleurs qui se sont servis de leur véhicule dans le cadre de leurs fonctions.
+[30] Il a affirmé, par exemple, que M. Ross French a toujours utilisé son propre véhicule et qu’il a donc reçu une indemnité pour l’usage d’un camion.
+[31] M. Saunders a dit dans son témoignage que M. French était conducteur de bulldozer, a travaillé à la Powderface Trail à Kananaskis et a demeuré à Cochrane assez longtemps. M. Saunders a expliqué que le projet visait le prolongement d’un gazoduc et que M. French vivait dans son véhicule récréatif jusqu’à l’arrivée de l’hiver lorsqu’il a travaillé sur ce projet.
+[32] Comme il a été mentionné précédemment, Mme On a dit dans son témoignage que, lors de sa vérification, elle a appris que l’appelante appelait parfois les frais de subsistance « indemnité pour l’usage d’un camion ».
+[33] Dans la feuille de travail (pièce R-2) de sa vérification, elle affirme que l’appelante a payé à la fois un tarif kilométrique de 0,44 $/km et un tarif fixe pour l’indemnité pour l’usage d’un camion aux employés utilisant leur véhicule au travail. Elle a expliqué dans sa feuille de travail que [traduction] « vu que l’entreprise versait à ses employés à la fois une indemnité quotidienne à tarif fixe et une indemnité à tarif variable selon le nombre de kilomètres pour la même journée de travail (même utilisation), tous les montants versés sont réputés ne pas être une allocation raisonnable et sont imposables ».
+Allocation pour pension et logement ou roulotte
+[34] La feuille du travail de vérification qui s’applique (pièce R-4) montre que les montants codifiés [traduction] « location d’équipement » dans le grand livre étaient versés à MM. Terrence Powder et Ross French.
+[35] Mme On a dit dans son témoignage que l’appelante versait 150 $ chaque soir à MM. Powder et French pour remorquer leur roulotte au chantier et y passer la nuit. Elle a précisé que ce montant devait couvrir l’hébergement, sans couvrir les repas.
+[36] Selon son témoignage, elle avait fait une recherche sur le coût des sites de camping offrant un service d’égout, et le tarif habituel était de 60 $ à l’époque. Elle en a conclu que l’allocation de pension et de logement de 150 $ était déraisonnable.
+[37] Comme il a été mentionné précédemment, M. Saunders a dit dans son témoignage que M. French était conducteur de bulldozer, a travaillé à la Powderface Trail à Kananaskis et a demeuré à Cochrane assez longtemps. M. Saunders a expliqué que le projet visait le prolongement d’un gazoduc et que M. French vivait dans son véhicule récréatif jusqu’à l’arrivée de l’hiver lorsqu’il a travaillé sur ce projet.
+Discussion
+[38] Même si j’ai fait mon possible pour établir des distinctions dans ces allocations, les éléments de preuve montrent qu’il existait d’emblée une certaine confusion.
+[39] Certaines dispositions de la Loi de l’impôt sur le revenu et de la Loi sur l’assurance-emploi exigent que les livres et les registres soient tenus de façon à ce que les impôts, les taxes et les cotisations puissent être établis par le régime d’autocotisation du Canada. Cette disposition sur la tenue des livres et des registres fait défaut dans le Régime de pensions du Canada, mais il existe dans le Régime une disposition qui oblige l’employeur à aider le ministre et à répondre aux questions portant sur l’administration et l’application du RPC.
+[40] J’estime que M. Saunders est un témoin très crédible et qu’il est bien intentionné à l’égard de ses employés. Cependant, il est difficile d’établir des corrélations entre son témoignage et la documentation disponible en raison de la tenue des livres de l’appelante.
+[41] D’autre part, la décision du ministre à refuser toutes les allocations en question (y compris celles pour lesquelles il n’existe aucune disposition déterminative) ne peut pas non plus être défendue sur la base des faits.
+Chantier particulier ou endroit éloigné
+[42] L’avocat de l’appelante a demandé à ce que l’appel soit accueilli en conformité avec les montants présentés à l’onglet 5 de la pièce A-1. Dans toute la présentation, il y est fait mention de chantiers particuliers.
+[43] Le paragraphe 6(6) de la Loi de l’impôt sur le revenu dispose ce qui suit :
+6(6) Emploi sur un chantier particulier ou en un endroit éloigné — Malgré le paragraphe (1), un contribuable n’inclut, dans le calcul de son revenu tiré, pour une année d’imposition, d’une charge ou d’un emploi, aucun montant qu’il a reçu, ou dont il a joui, au titre, dans l’occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais – ou une allocation (n’excédant pas un montant raisonnable) se rapportant aux frais – qu’il a supportés pour :
+(a) sa pension et son logement, pendant une période donnée;
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu’il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d’une part, qui est resté à sa disposition pendant toute la période et qu’il n’a pas loué à une autre personne,
+(B) d’autre part, où on ne pouvait raisonnablement s’attendre à ce qu’il retourne quotidiennement étant donné la distance entre l’établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s’attendre à ce qu’il établisse et tienne un établissement domestique autonome, étant donné l’éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l’a obligé à s’absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d’au moins 36 heures;
+(b) le transport, au titre d’une période visée à l’alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l’endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[44] Pour se soustraire à l’application du paragraphe 6(6), l’employeur et l’employé doivent remplir conjointement le formulaire TD4 (« Déclaration d’exemption – Emploi sur un chantier particulier ») et le soumettre au ministre. Il semble que ce n’a pas été le cas en l’espèce pour les années d’imposition 2013 et 2014.
+[45] De plus, les exigences du paragraphe 6(6) sont détaillées. Les éléments de preuve présentés lors de l’audience n’avaient pas le niveau de détail et de précision nécessaire qui aurait permis à la Cour de conclure que ces exigences ont été satisfaites. Par conséquent, je ne puis tenir compte du paragraphe 6(6) dans mes conclusions.
+Frais de subsistance
+[46] Comme il a été mentionné précédemment, l’avocat de l’appelante a présenté un tableau de montants à l’onglet 5 de la pièce A-1. En ce qui concerne les quatre travailleurs dont les frais de subsistance sont en litige dans les présents appels, les montants présentés sont comme suit :
+Nom
+2013
+Jours de travail en déplacement en 2013
+2014
+Jours de travail en déplacement en 2014
+Colin Averill
+10 000 $
+108
+2 700 $
+Non fourni
+Rodney Bjorkman
+S/O
+S/O
+1 800 $
+Non fourni
+Tammy Borys (McKinnon)
+7 300 $
+100
+Nil
+Nil
+Matthew Ingvardsen
+10 950 $
+150
+7 000 $
+150
+[47] Selon le témoignage de M. Saunders, je conclus que les frais de subsistance étaient des frais de déplacement au sens du sous-alinéa 6(1)b)(vii). Ces montants ont été versés aux employés qui étaient en déplacement ou travaillaient dans un endroit éloigné pour couvrir le coût des repas et parfois des hôtels, et les employés pouvaient s’en servir pour se payer des vacances en famille.
+[48] L’avocat de l’intimé a soulevé une question concernant le témoignage de M. Saunders, à savoir que les employés pouvaient utiliser l’allocation versée pour se payer des vacances en famille. Cependant, la possibilité de disposer à sa guise d’une « allocation » constitue le troisième élément définissant l’allocation; voir au paragraphe 11 de la décision Adéquat Service Informatique Inc. c. M.R.N., 2005 CCI 32, [2005] A.C.I. no 48. Par conséquent, aucune conclusion défavorable ne saurait être tirée du fait que les employés de l’appelante peuvent utiliser les allocations comme ils l’entendent.
+[49] Il ressort clairement des éléments de preuve que les employés de l’appelante étaient parfois en déplacement pour le travail, fait non contesté par l’intimé.
+[50] Là où le nombre de jours de travail en déplacement est fourni dans le tableau de l’onglet 5 de la pièce A-1, les allocations proposées varient de 46,67 $ par jour (Matthew Ingvardsen en 2014) à 92,59 $ par jour (Colin Averill en 2013).
+[51] Aucun montant n’a été fourni pour les jours de travail en déplacement de M. Averill en 2014. Cependant, le calendrier et les factures à l’onglet 3 de la pièce A-1 montrent qu’il a travaillé au moins 90 jours en déplacement en 2014. Par conséquent, l’allocation proposée à son endroit en 2014 est d’environ 30 $ par jour.
+[52] Les montants de cette fourchette d’allocations quotidiennes sont inférieurs ou conformes aux frais de déplacement versés aux employés du gouvernement du Canada en 2013 et en 2014. Par conséquent, je conclus que les montants proposés en ce qui concerne M. Averill, Mme Borys (McKinnon) et M. Ingvardsen sont raisonnables. En l’absence de fait probant pour appuyer les montants proposés à l’endroit de M. Bjorkman, je ne peux que conclure que ces montants sont déraisonnables.
+Indemnités pour l’usage d’un camion
+[53] L’indemnité pour l’usage d’un camion était une allocation pour l’usage d’un véhicule à moteur au sens du sous-alinéa 6(1)b)(vii.1). De plus, le tarif au kilomètre que l’appelante appliquait pour cette indemnité versée à ses employés en faisait soit une allocation, soit un remboursement. Comme l’appelante versait une indemnité à ses employés qui comprenait un tarif fixe et un tarif au kilomètre pour le même usage, au moins un des sous-alinéas 6(1)b)(x) ou (xi) s’applique et l’indemnité pour l’usage d’un camion est réputée ne pas être raisonnable.
+[54] Je crois que le ministre a appliqué la disposition déterminative de la bonne façon en concluant que ces indemnités pour l’usage de camions sont réputées ne pas être raisonnables et sont, par conséquent, imposables.
+[55] L’employé dont l’allocation qu’il reçoit est imposable doit voir à l’article 8 de Loi de l’impôt sur le revenu s’il n’y aurait pas des déductions admissibles et l’employeur doit remplir le formulaire T2200 (« Déclaration des conditions de travail ») correspondant.
+Allocations pour pension et logement ou roulotte
+[56] Encore selon le témoignage de M. Saunders, je conclus que les allocations pour roulotte étaient des frais de déplacement au sens du sous-alinéa 6(1)b)(vii). Ces montants ont été versés à MM. Ross French et Terrence Powder pour avoir travaillé en déplacement et en endroit éloigné, alors qu’ils passaient la nuit dans leur roulotte et non à l’hôtel.
+[57] Comme aucun élément n’a été présenté pour soutenir le caractère raisonnable d’un tarif de 150 $ par jour, j’admets en preuve le témoignage de Mme On selon lequel une allocation quotidienne de 60 $ est un tarif raisonnable.
+[58] Selon les livres de l’appelante de la pièce R-4, M. French a reçu cinq fois une allocation pour roulotte en 2013 et M. Powder en a reçu six en 2013. Par conséquent, les allocations s’élèvent à 300 $ pour M. French et à 360 $ pour M. Powder en 2013.
+Montants versés à M. John Hague
+[59] Aucun élément de preuve n’a été produit relativement aux montants de 2 550 $ et de 3 325 $ que l’appelante a versés à M. John Hague pour les années d’imposition 2013 et 2014. Par conséquent, les hypothèses du ministre dans les réponses à l’avis d’appel demeurent valides et ces montants sont réputés être imposables.
+Conclusion
+[60] Les présents appels sont accueillis, sans dépens, et les cotisations que le ministre du Revenu national a confirmées par ses décisions du 22 août 2017 sont renvoyées au ministre pour nouvel examen et pour qu’il établisse de nouvelles cotisations sur les bases suivantes :
+en ce qui a trait à l’appel relatif à l’assurance-emploi :
+(i) en 2014, M. Matthew Ingvardsen a reçu 7 000 $ en allocations pour frais de déplacement, lesquelles sont exclues de son revenu en application du sous-alinéa 6(1)b)(vii) de la Loi de l’impôt sur le revenu;
+en ce qui a trait à l’appel relatif au Régime des pensions du Canada :
+(ii) en 2013 et en 2014, M. Colin Averill a reçu respectivement 10 000 $ et 2 700 $ en allocations pour frais de déplacement, lesquelles sont exclues de son revenu en application du sous-alinéa 6(1)b)(vii) de la Loi de l’impôt sur le revenu;
+(iii) en 2013, Mme Tammy Borys (anciennement McKinnon) a reçu 7 300 $ en allocations pour frais de déplacement, lesquelles sont exclues de son revenu aux termes du sous-alinéa 6(1)b)(vii) de la Loi de l’impôt sur le revenu;
+(iv) en 2013 et en 2014, M. Matthew Ingvardsen a reçu respectivement 10 950 $ et 7 000 $ en allocations pour frais de déplacement, lesquelles sont exclues de son revenu aux termes du sous-alinéa 6(1)b)(vii) de la Loi de l’impôt sur le revenu;
+(v) en 2013, M. Ross French a reçu 300 $ en allocations pour frais de déplacement, lesquelles sont exclues de son revenu en application du sous-alinéa 6(1)b)(vii) de la Loi de l’impôt sur le revenu;
+(vi) en 2013, M. Terrence Powder a reçu 360 $ en allocations pour frais de déplacement, lesquelles sont exclues de son revenu en application du sous-alinéa 6(1)b)(vii) de la Loi de l’impôt sur le revenu;
+Signé à Ottawa, Canada, ce 25e jour d’avril 2019.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2019 CCI 86
+NOS DES DOSSIERS DE LA COUR :
+2017-4393(EI); 2017-4381(CPP)
+INTITULÉ :
+AL SAUNDERS CONTRACTING & CONSULTING INC. et LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 22 novembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 25 avril 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Jason Stephan
+Avocat de l’intimé :
+Me Allan Mason
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jason Stephan
+Cabinet :
+CA Tax Law
+Bureau 107, 4836, 50e rue
+Red Deer (Alberta) T4N 1X4
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

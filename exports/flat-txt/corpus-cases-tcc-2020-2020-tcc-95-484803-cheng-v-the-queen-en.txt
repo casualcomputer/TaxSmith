@@ -1,0 +1,142 @@
+Title: Cheng v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/484803/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-95-484803-cheng-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-09-01
+
+# Cheng v. The Queen
+
+- Citation: 2020 TCC 95
+- Decision date: 2020-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4560, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheng v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-09-01
+Neutral citation
+2020 TCC 95
+File numbers
+2018-4289(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-4289(IT)I
+BETWEEN:
+MAGDALENA CHENG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 16 and 22, 2020, at Vancouver, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Brian Y.K. Cheng
+Counsel for the Respondent:
+Natasha Tso
+Chase Blair
+JUDGMENT
+This appeal of the Appellant’s 2007 to and including 2014 taxation year reassessments, each raised October 26, 2017, is dismissed, without costs. The purported appeal of the Appellant’s 2006 taxation year reassessment raised October 26, 2017 is quashed, as being a nil reassessment.
+Signed at Halifax, Nova Scotia, this 1st day of September 2020.
+“B.Russell”
+Russell J.
+Citation: 2020TCC95
+Date: 20200901
+Docket: 2018-4289(IT)I
+BETWEEN:
+MAGDALENA CHENG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] The appellant in this informal procedure appeal seeks judgment vacating reassessments raised October 26, 2017 by the Minister of National Revenue (Minister) under the federal Income Tax Act (the Act) for each of the appellant's taxation years 2006 to 2014 inclusive.
+[2] On motion of the respondent brought at the hearing's commencement, unopposed by the appellant, the appeal of the 2006 taxation year reassessment was quashed, as the quantum of that reassessment was nil.
+[3] The remaining appealed reassessments, excepting for the 2014 taxation year, were raised beyond their respective three year normal reassessment periods, rendering them potentially invalid for being statute-barred. The respondent's asserted justification for these late reassessments (for taxation years 2007 to 2013 inclusive) is based on subparagraph 152(4)(a)(i) of the Act. That provision permits reassessment beyond the applicable normal reassessment period where in respect of the pertinent taxation year:
+(a) the taxpayer or person filing the return
+has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act…
+[4] The onus of proof is upon the respondent in statute-barred reassessment appeals, to establish on a balance of probabilities that subparagraph 152(4)(a)(i) applies, i.e. that the taxpayer or person filing the return for the particular taxation year made a misrepresentation attributable to neglect, carelessness or wilful default in so filing. In this appeal the respondent asserts per subparagraph 152(4)(a)(i) that in respect of each taxation year at issue the appellant (taxpayer) made a misrepresentation attributable to neglect or carelessness.
+[5] The appealed 2007 through 2013 taxation year reassessments each reversed an RRSP deduction claimed by the appellant in her relevant return and allowed in the initial assessment for such particular taxation year, raised by the Minister more than three years previous to the raising of the particular reassessment.
+[6] At the hearing of this appeal two witnesses testified - the appellant and Ms. T. Richardson, a Canada Revenue Agency (CRA) auditor. As well, documents were entered in evidence.
+I. Facts:
+[7] In summary the evidence established, as set out in several following paragraphs, that as of 2005 the appellant had held employment positions of significant responsibility, most recently then as a hospital's food service supervisor, managing 40 workers. Her work history included earlier positions as a nurse and a dietician.
+[8] In 2006 the Minister assessed the appellant's 2005 taxation year and allowed RRSP contributions of $44,825. The appellant had claimed an RRSP deduction of $24,347 for that year, and according to CRA had left $20,478 (i.e., $44,825 less $24,347) as unused RRSP contributions available to be carried forward and claimed in future years. However, the appellant denies that she reported RRSP contributions of $44,825 in her 2005 taxation year return.
+[9] CRA no longer had the actual filed tax return for the 2005 taxation year, nor a true copy thereof. CRA does not indefinitely retain actual or true copies of tax returns. Instead, CRA's procedure is to have material contents of a tax return transcribed electronically, and as necessary printed as a document referred to as an "Option C". An "Option C" document provides rather cryptic reading for a layperson. Despite prior efforts by respondent's counsel, appellant's counsel did not see CRA's Option C document in respect of his client's 2005 taxation year return until the morning of the hearing. This document was entered into evidence (subject to weight) through testimony of CRA auditor Ms. Richardson, over objections of appellant's counsel. Ms. Richardson testified that this document showed that in her 2005 taxation year return the appellant had reported an RRSP contribution totalling $44,825, although as noted above the appellant testified that she had reported an RRSP contribution of only $24,347 - being $20,478 less in the difference - and had wholly claimed that amount as an RRSP deduction, leaving no unused RRSP contribution for future use.
+[10] Appellant's counsel argued that this Option C document should have been presented through expert evidence explaining the technology that purportedly made this document a faithful transcript of material contents of the 2005 taxation year return. Ms. Richardson, although not qualified as an expert, testified that she had dealt with these types of comments numerous times without any indication or suggestion of error in such documents. When pressed in cross-examination she felt unable to say definitively that they would absolutely always be without error.
+[11] Appellant's counsel relied on the fact that the onus of proof was upon the respondent. The appellant did not call as a witness her own accountant who had prepared the 2005 taxation year return, nor did the appellant produce any copy of the schedule for that return that would be expected to have shown the total amount of RRSP contribution reported. She did produce her copy of her 2005 return itself, absent schedules. Presumably the accountant, with relevant files, could have been subpoenaed by the respondent.
+[12] The appellant's notice of assessment for her 2005 taxation year, dated August 4, 2006 (Ex. A-5), stated under the heading, "2006 RRSP Deduction Statement" that, "You have $20,478 (B) of unused RRSP contributions available for 2006. If this amount is more than amount (A) above, you may have to pay a tax on the excess contributions." Above this on the notice is stated, "Your RRSP deduction limit for 2006…$0 (A)".
+[13] In the following year (2007) the appellant filed her 2006 taxation year return claiming no RRSP deductions. This was consistent with the aforesaid statement in her 2005 notice of assessment that her 2006 RRSP deduction limit was zero.
+[14] As well, the May 5, 2007 notice of assessment for the appellant's 2006 taxation year (Ex. A-6) stated again (under the heading, “2007 RRSP Deduction Limit Statement”) that she had $20,478 of unused RRSP contributions available for 2007 and an RRSP deduction limit for 2007 of $1,160 based on 18% of her 2006 earned income.
+[15] Of note, neither in the year 2006 nor 2007 did the appellant contact the CRA to advise that the statement in each of her 2005 and 2006 notices of assessment that she had $20,478 of unused RRSP contributions, was wrong. This lack of action tends to corroborate that the appellant had reported $20,478 of unused RRSP contributions in her 2005 return, as asserted by the respondent.
+[16] In the following year (2008) the appellant filed her 2007 taxation year return claiming $1,160 of RRSP deductions, consistent with the aforesaid statement in her 2006 taxation year notice of assessment that her 2007 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, apparently relying upon the prior statements that she had unused RRSP contribution room of $20,478 carried forward, against which to claim the said RRSP deduction.
+[17] The June 16, 2008 notice of assessment for her 2007 taxation year (Ex. A-6) stated, under the heading "2008 RRSP Deduction Limit Statement" that she had $19,318 of unused RRSP contributions available for 2008 and an RRSP deduction limit for 2008 of $2,321 based on 18% of her 2007 earned income. The statement of $19,318 of unused RRSP contributions reflects exactly the originally stated $20,478 of unused RRSP contributions less the said $1,160 RRSP deduction reported in the appellant's 2007 return.
+[18] Likewise, in the following year (2009) the appellant filed her return for her 2008 taxation year claiming $2,321 of RRSP deductions, consistent with the aforesaid statement in her 2007 taxation year notice of assessment that her 2008 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[19] The May 28, 2009 notice of assessment for her 2008 taxation year (Ex. A-6) stated, under the heading "2009 RRSP Deduction Limit Statement" that she had $16,997 of unused RRSP contributions for 2009 and an RRSP deduction limit for 2009 of $1,877 based on 18% of her 2008 earned income.
+[20] Likewise, in the following year (2010) the appellant filed her 2009 taxation year return claiming $1,877 of RRSP deductions, consistent with the aforesaid statement in her 2008 taxation year notice of assessment that her 2009 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[21] The June 3, 2010 notice of assessment for her 2009 taxation year (Ex. A-6) stated, under the heading "Your 2010 RRSP Deduction Limit Statement" that she had $15,120 of unused RRSP contributions available for 2010 and an RRSP deduction limit for 2010 of $2,235 based on 18% of her 2009 earned income.
+[22] Likewise, in the following year (2011) the appellant filed her 2010 taxation year return claiming $2,235 of RRSP deductions, consistent with the aforesaid statement in her 2009 taxation year notice of assessment that her 2009 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[23] The May 24, 2011 notice of assessment for her 2010 taxation year (Ex. A-6) stated, under the heading "Your 2011 RRSP Deduction Limit Statement" that she had $12,885 of unused RRSP contributions available for 2011 and an RRSP deduction limit for 2011 of $2,330 based on 18% of her 2010 earned income.
+[24] Likewise, in the following year (2012) the appellant filed her 2011 taxation year return claiming $2,330 of RRSP deductions, consistent with the aforesaid statement in her 2010 taxation year notice of assessment that her 2011 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[25] The May 14, 2012 notice of assessment for her 2011 taxation year (Ex. A-6) stated, under the heading "Your 2012 RRSP Deduction Limit Statement" that she had $10,555 of unused RRSP contributions available for 2012 and an RRSP deduction limit for 2012 of $2,846 based on 18% of her 2011 earned income.
+[26] Likewise, in the following year (2013) the appellant filed her return for her 2012 taxation year claiming $2,846 of RRSP deductions, consistent with the aforesaid statement in her 2011 taxation year notice of assessment that her 2012 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[27] The May 30, 2013 notice of assessment for her 2012 taxation year (Ex. A-6) stated, under the heading "Your 2013 RRSP Deduction Limit Statement" that she had $7,709 of unused RRSP contributions available for 2013 and an RRSP deduction limit for 2013 of $239 based on 18% of her 2012 earned income.
+[28] Likewise, in the following year (2014) the appellant filed her return for her 2013 taxation year claiming $239 of RRSP deductions, consistent with the aforesaid statement in her 2012 taxation year notice of assessment that her 2013 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[29] The June 16, 2014 notice of assessment for her 2013 taxation year (Ex. A-6) stated, under the heading "Your 2014 RRSP/PRPP Deduction Limit Statement" that she had $7,470 of unused RRSP/PRPP contributions available for 2014 and an RRSP/PRPP deduction limit for 2014 of $130 based on 18% of her 2013 earned income.
+[30] Likewise, in the following year (2015) the appellant filed her return for her 2014 taxation year claiming $130 of RRSP deductions, consistent with the aforesaid statement in her 2013 taxation year notice of assessment that her 2014 RRSP deduction limit was that amount. She reported no RRSP contributions as having been made in that year, therefore seemingly relying upon the prior statements that she had unused RRSP contribution room carried forward against which to claim the said RRSP deduction.
+[31] The June 8, 2015 notice of assessment for her 2014 taxation year (Ex. A-6) stated, under the heading "Your 2015 RRSP/PRPP Deduction Limit Statement" that she had $7,340 of unused RRSP/PRPP contributions available for 2015 and an RRSP/PRPP deduction limit for 2015 of $135 based on 18% of her 2014 earned income.
+II. Analysis:
+[32] The respondent asserts that the appellant made a misrepresentation in each of her 2007 to 2013 income tax returns, the misrepresentation in each being the claiming of an RRSP deduction from a quantum of unused RRSP contributions that in actuality did not exist (Reply, para. 17(g)).
+[33] The problem began with the appellant's 2005 taxation year in which the Minister considers that the appellant reported an RRSP contribution of $20,478 against which she did not in that same year claim an RRSP deduction. The appellant denies that she reported any RRSP contribution that was unused in that year.
+[34] I consider that the appellant made a misrepresentation in her 2005 taxation year return to the effect that she had $20,478 of unused RRSP contribution room. In this regard I rely particularly on the statement in each of the appellant's 2005 and 2006 taxation year notices of assessment that she had this quantum of unused RRSP contributions, which statements the appellant took no steps at that time (and not until 2017, well after the taxation years in issue) to correct. I accept that this misstatement in the 2005 taxation year return was not made purposely but rather was attributable to neglect or carelessness.
+[35] In the meantime the appellant claimed deductions annually, drawing upon this supposed unused RRSP contribution quantum that actually was non-existent. An RRSP deduction cannot validly be claimed except against an actual RRSP contribution. Subparagraph 60(i) of the Act permits deduction from income of any amount deductible under section 146 of the Act. Subsection 146(5) permits a deduction to the extent the taxpayer has made an RRSP contribution not less than the intended deduction quantum as otherwise permitted. This relation of deduction and contribution is a basic and not technical concept with which taxpayers with RRSPs are reasonably well familiar. For RRSPs, you cannot deduct what you have not contributed.
+[36] The appellant's position is to the effect that with the Minister stating on the successive notices of assessment that she had unused RRSP contribution room, she was inclined to believe that the Minister must be right, and she claimed RRSP deductions accordingly.
+[37] In my view these annual deduction claims are misrepresentations made by or on behalf of the appellant in her annual tax returns. They are misrepresentations as they were made in respect of what the appellant should have known were non-existent unused RRSP contributions. The appellant is an intelligent and capable individual as demonstrated by the responsible employment positions she has held. I observe that individuals generally are knowledgeable regarding their particular RRSP circumstances. In my view these annual misrepresentations (in addition to the 2005 taxation year misrepresentation) of the appellant were attributable to neglect or carelessness. In accordance with Canada's self-reporting tax system, taxpayers are to bear ultimate responsibility for accuracy in their reporting for tax purposes.
+[38] I note the words of Justice Bowie of this Court in College Park Motors Ltd. v. The Queen, 2009 TCC 409, para.13:
+…it is important to remember that the purpose of subparagraph 152(4)(a)(i) is simply to preserve the Minister's right to reassess a taxpayer in circumstances where the taxpayer has not divulged all that he should have, as accurately as he should have, and has thereby denied the Minister the opportunity to assess correctly all of the appellant's liability under the Act in the first instance. It is not at all concerned with establishing culpability on the part of the taxpayer.
+III. Conclusion:
+[39] I find that the Minister was within the bounds of subparagraph 152(4)(a)(i) of the Act in raising the appealed reassessments for the 2007 to 2013 taxation years beyond their respective normal reassessment periods. Further, I find that the appealed reassessment of the 2014 taxation year is valid. The appellant raised no case to establish otherwise.
+[40] This informal procedure appeal of the appellant's 2006 to 2014 taxation year reassessments, each raised October 26, 2017, is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 1st day of September 2020.
+“B.Russell”
+Russell J.
+CITATION:
+2020 TCC 95
+COURT FILE NO.:
+2018-4289(IT)I
+STYLE OF CAUSE:
+MAGDALENA CHENG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 16 and 22, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+September 1, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Brian Y.K. Cheng
+Counsel for the Respondent:
+Natasha Tso
+Chase Blair
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian Y.K. Cheng
+Firm:
+BLANK
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

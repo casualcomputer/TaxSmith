@@ -1,0 +1,153 @@
+Title: Soucy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25136/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-513-25136-soucy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-31
+
+# Soucy v. The Queen
+
+- Citation: 2003 TCC 513
+- Decision date: 2003-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2592, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soucy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-31
+Neutral citation
+2003 TCC 513
+File numbers
+2003-544(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-544(IT)I
+BETWEEN:
+JACQUES SOUCY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on July 9, 2003 at Sept-Îles, Québec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessments made pursuant to the Income Tax Act for the 1999 and 2000 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 31st day of July 2003.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2003TCC513
+Date: 20030731
+Docket: 2003-544(IT)I
+BETWEEN:
+JACQUES SOUCY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from Notices of Assessment for the 1999 and 2000 taxation years.
+[2] The issue is to determine whether the Minister of National Revenue (the Minister), with respect to the years at issue, correctly added, when calculating the Appellant’s income as a shareholder in the corporation “Pêcheries J.S. inc.”, the amounts of $9,229 and $11,405, respectively, as taxable benefits.
+[3] The assessments were made on the basis of the following assumptions of fact:
+[TRANSLATION]
+a) during the years at issue, the Appellant was a shareholder in the corporation “Pêcheries J.S. inc.”;
+b) the corporation “Pêcheries J.S. inc.” has owned a 1999 Chevrolet 4x4 Truck that cost $44,394 since March 4, 1999;
+c) the vehicle described in the previous paragraph was made available to the Appellant from the day it was purchased on March 4, 1999, until December 31, 2000, that is, 303 days with respect to the 1999 calendar year and 365 days with respect to the 2000 calendar year;
+d) the Appellant did not keep a log to distinguish between the kilometres travelled for personal purposes and those travelled for business purposes during the years at issue;
+e) the Minister calculated that the Appellant used the corporation vehicle for personal purposes 25% of the time;
+f) the taxable benefit, for each year at issue, arises from the use of the vehicle.
+[4] The Appellant, after being sworn in, admitted to the allegations in paragraphs 3 b) and 3 d).
+[5] His testimony essentially consisted in explaining the contents of a portion of his Notice of Appeal with respect to the breakdown of the kilometrage. The breakdown should be reproduced here:
+1999
+2000
+Kilometres travelled during the year
+Travel for business
+Travel Baie-Trinité Factory
+Travel to Iberville
+Travel to Rivière-au-Renard
+Travel in the winter season
+Travel to Baie-Comeau
+Kilometres travelled for personal purposes
+% of personal use
+10,000 km
+(6,000 km)
+(2,800 km)
+(960 km)
+___________
+240 km
+2.4%
+17,000 km
+(6,000 km)
+(2,800 km)
+(4,000 km)
+(1,300 km)
+(1,920 km)
+(920 km)
+60 km
+0.3%
+[6] According to the Notice of Appeal and the testimony, the Appellant allegedly travelled 240 kilometres for personal purposes in 1999 and 60 kilometres in 2000.
+[7] The vehicle in question was a 4x4 truck, which cost $44,394 in 1999. It was a well-equipped and comfortable vehicle, very popular in regions where the climate is difficult and where a significant portion of the local economy depends on commercial fishing.
+[8] Although he has already been audited, the Appellant confirmed not having kept a log to calculate the kilometrage for personal purposes for the truck that the corporation he controlled made available to him.
+[9] He and his spouse have three children; the Appellant confirmed primarily using his personal minivan for family outings.
+[10] The Appellant also confirmed that each time he left his home for work, he used the company truck; he described his job as being responsible for the boat when it was in port and at sea during fishing trips.
+[11] The Appellant had the burden of proof. To discharge such a burden of proof, it would have been necessary for him to provide reasonable and plausible explanations. Instead, he insisted that he only travelled 240 kilometres in 1999 and 60 kilometres in 2000, which seems to me to be entirely implausible; moreover, I have no doubt that during the long and difficult winter season, he used this vehicle so that his family could travel safely.
+[12] Other than his limited travels, the Appellant admitted to systematically travelling from home to the home port, using the company vehicle, and that these trips took place annually, given that the boat required daily care and attention, even when stored during the winter season. This constituted personal use, as the travel between his home and place of work is essentially personal in nature. This personal kilometrage for the two taxation years alone significantly exceeds the evaluation of 300 kilometres submitted by the Appellant.
+[13] The Appellant admitted to not having or completing a log for the purpose of accurately tracking personal use. He also admitted that the corporation he controlled made the vehicle in question available to him.
+[14] The Appellant had the burden of demonstrating the merits of his submissions on a preponderance of evidence. On the contrary, the preponderance of evidence established unequivocally that the Respondent’s evaluation was reasonable and corresponded, without a shadow of a doubt, more to reality than the rather implausible claims of the Appellant.
+[15] The evidence established that the Appellant had every right to use the vehicle of the corporation he controlled without any restrictions and as he saw fit.
+[16] The Appellant in fact used the corporate vehicle for personal purposes in a manner far more substantial than his own evaluation of 300 kilometres for the two taxation years.
+[17] The Appellant recognized that he did not log any data in a special log with respect to his personal use of the corporation vehicle.
+[18] Finally, I find that the evaluations and explanations submitted by the Appellant in support of his submissions were simply unbelievable.
+[19] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 31st day of July 2003.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2003TCC513
+COURT FILE NO.:
+2003-544(IT)I
+STYLE OF CAUSE:
+Jacques Soucy and Her Majesty the Queen
+PLACE OF HEARING:
+Sept-Îles, Quebec
+DATE OF HEARING:
+July 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+July 31, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

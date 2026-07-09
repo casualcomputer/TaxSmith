@@ -1,0 +1,220 @@
+Title: 2536-5412 Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30238/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-97-30238-2536-5412-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-03-01
+
+# 2536-5412 Québec Inc. c. M.R.N.
+
+- Citation: 2011 CCI 97
+- Decision date: 2011-03-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8008, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2536-5412 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-01
+Référence neutre
+2011 CCI 97
+Numéro de dossier
+2010-179(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-179(EI)
+ENTRE :
+2536-5412 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 9 février 2011, à Ottawa (Ontario)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Roger Paradis
+Avocate de l'intimé :
+Me Marie-France Camiré
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de mars 2011.
+« Paul Bédard »
+Juge Bédard
+Référence : 2011 CCI 97
+Date : 20110301
+Dossier : 2010-179(EI)
+ENTRE :
+2536-5412 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelante interjette appel de la décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance‑emploi (la « Loi »). Le ministre a décidé que monsieur Paul Séguin fils (le « travailleur ») n’occupait pas un emploi assurable lorsqu’il était au service de 2536-5412 Québec Inc. (le « payeur ») pendant la période allant du 6 juillet 2008 au 4 juillet 2009 (la « période pertinente »), puisqu’il a conclu qu’il s’agissait d’un emploi exclu, parce qu’un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre le travailleur et le payeur.
+[2] Le ministre a rendu sa décision après avoir déterminé que le travailleur et le payeur étaient des personnes liées au sens de la Loi de l’impôt sur le revenu (la « L.I.R. »). Il est arrivé à cette conclusion en s’appuyant sur les hypothèses de faits suivantes, lesquelles ont été admises :
+a) l’actionnaire unique de l’appelante était Paul Séguin; (admis)
+b) Paul Séguin est le père de Paul Séguin Jr, le travailleur; (admis)
+c) le travailleur est lié à une personne qui contrôle l’appelante; (admis)
+[3] En rendant sa décision, le ministre a aussi déterminé que le travailleur et le payeur « avaient un lien de dépendance entre eux dans le cadre de l’emploi » et qu’il n’était pas raisonnable de conclure que le travailleur et le payeur « auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes » :
+a) l’appelante a été constituée en société le 17 juin 1987;
+b) l’appelante exploitait un bar connu sous le nom Bar La Ronde;
+c) l’actionnaire est le seul signataire des chèques émis par l’appelante;
+d) les actions de l’appelante ont été vendues le 14 juillet 2009;
+e) les heures d’ouverture du bar étaient de 8 h à minuit du lundi au vendredi;
+f) l’appelante engageait 5 employés, soit l’actionnaire, son épouse, le travailleur et 2 autres personnes non liées à l’appelante;
+g) le travailleur travaillait à temps plein pour l’appelante depuis une vingtaine d’années;
+h) le travailleur était gérant du bar et à ce titre il s’occupait du service aux clientes, de l’entretien ménager et des commandes en plus d’être responsable de l’organisation de certaines activités sociales dont le but était d’attirer la clientèle, tels des tournois de golf et de pêche ou des ligues de poche, de billard et de quilles et de la machine vidéo poker;
+i) les heures régulières du travailleur étaient de 8 h à 17 h du lundi au vendredi;
+j) les activités sociales se déroulaient surtout le soir à raison de 3 par semaine;
+k) le travailleur était présent pendant quelques heures lors des activités;
+l) le travailleur et l’actionnaire étaient les seuls autorisés à s’occuper de la machine vidéo poker; elle devait être vidée plusieurs fois par jours et le papier changé autant de fois;
+m) le travailleur se rendait régulièrement au bar en soirée et les fins de semaines pour s’occuper de la machine vidéo poker;
+n) le temps requis pour s’occuper de la machine était d’environ 5 minutes et la résidence du travailleur était à une distance de 2,8 kilomètres du bar;
+o) le travailleur était disponible 24 h sur 24 7 jours sur 7;
+p) aucun des travailleurs n’avaient à inscrire leurs heures travaillées;
+q) le travailleur était payé sur une base hebdomadaire;
+r) le travailleur recevait une rémunération fixe de 650 $ par semaine pour 40 heures de travail;
+s) cette rémunération a été déterminée par l’appelante;
+t) le travailleur conservait ses pourboires qui représentaient 8 % des ventes et étaient estimés à 650 $ par semaine;
+u) le travailleur était payé par chèque chaque semaine comme les autres travailleurs;
+v) en plus de son salaire le travailleur a reçu les bonis suivants :
+2007 :
+35 000 $ versé le 1er avril et 15 000 $ versé le 20 décembre pour un total de 50 000 $
+2008 :
+15 000 $ versé le 1er juin et 2 000 $ versé le 26 décembre pour un total de 17 000 $
+2009 :
+30 000 $ versé en juin lors de la vente des actions de l’appelante;
+w) l’appelante affirme que ces bonis étaient versés au travailleur afin de le récompenser de sa grande disponibilité à travailler les soirs et les fins de semaine et pour s’occuper de la machine à vidéo poker;
+x) aucun des autres travailleurs non liés n’a reçu de bonis aussi élevé ni même de bonis;
+y) aucun autre travailleur ne recevait des bonis, sauf l’épouse de l’actionnaire de l'appelante qui a reçu les montants suivants :
+2007 :
+46 000 $
+2008 :
+15 000 $ versé le 26 décembre
+2009 :
+30 000 $ versé en juin lors de la vente des actions de l’appelante;
+z) l’épouse de l’actionnaire travaillait entre 20 et 25 heures par semaine et recevait une rémunération de 450 $;
+aa) le travailleur était supervisé par l’actionnaire de l’appelante;
+bb) le travailleur devait aviser l’appelante lors d’absence;
+cc) le travailleur bénéficiait de 2 semaines de vacance par année;
+dd) le travailleur était tenu de rendre personnellement les services pour lesquels il avait été engagé.
+[4] Tous les faits (énumérés au paragraphe précédent) sur lesquels le ministre s’est appuyé pour rendre sa décision ont été admis par l’appelante, à l’exception de l’utilisation du mot « bonis ». En effet, l’appelante soutient qu’il ne s’agissait pas de « bonis » mais bien de rajustements de salaire.
+[5] Le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout fait nouveau, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Dans le cadre de cet exercice, la Cour doit accorder une certaine déférence au ministre.
+[6] Le témoignage du travailleur pourrait se résumer ainsi :
+i) En plus d’accomplir les tâches décrites au paragraphe 6h) de la Réponse à l’avis d’appel, le travailleur s’était occupé de l’entretien paysager, de remplir les réfrigérateurs, d’engager et de remplacer les serveurs (et de s’assurer de leur présence), de réparer les améliorations locatives et l’équipement défectueux et de répondre aux alarmes. Le travailleur a ajouté qu’il avait lui‑même construit la terrasse extérieure et rénové entièrement les locaux de l’appelante. Le travailleur a expliqué que seules les tâches administratives ne lui avaient pas été confiées par le payeur. Il convient de souligner que le travailleur a été incapable de préciser le nombre d’heures de travail qu’il avait accumulé en dehors de ses heures régulières de travail qui, je le rappelle, étaient de 8 h à 17 h, du lundi au vendredi;
+ii) N’eût été de sa participation constante, de sa présence assidue, de ses qualités d’animateur et de l’accueil chaleureux qu’il réservait à tous les clients du payeur, la fréquentation du bar du payeur aurait baissé d’au moins de moitié;
+iii) Il méritait amplement les bonis que lui avait versés le payeur, bonis qu’il considérait plutôt comme des rajustements de salaire, compte tenu de sa participation dans l’entreprise du payeur. Il convient de souligner immédiatement que le travailleur n’a pas été en mesure de préciser les bases sur lesquelles le rajustement de salaire (ou les bonis) avait été déterminé.
+[7] Par ailleurs, la preuve a révélé les éléments suivants à l’égard des revenus du payeur, des frais d’exploitation du payeur et des revenus du travailleur, de madame Marguerite Séguin, de monsieur Maxim McDonough et de monsieur Marc Huard pendant qu’ils travaillaient pour le payeur, et ce, en 2007, 2008 et 2009 :
+Total des
+revenus
+du payeur
+Frais
+d’exploitation
+du payeur
+(inclus les
+salaires)
+Pertes de
+l’année
+du payeur
+Revenu
+d’emploi du
+travailleur
+(T4)
+Bonus
+versés au
+travailleur
+2007
+359,552$
+431,279$
+(71,727)$
+93,814$
+50,000$
+2008
+356,495$
+364,126$
+(7,631)$
+60,973$
+17,000$
+2009
+434,047$
+294,524$
+(46,542)$
+55,536$
+30,000$
+Comparatif des salaires annuels des employés du payeur
+Travailleur
+(excluant les
+bonis)
+40H par semaine
+Marguerite Séguin
+(épouse de
+Paul Séguin père)
+20H à 25H par
+semaine
+Maxime
+McDonough
+(sans lien)
+40H par semaine
+Marc Huard
+(sans lien)
+20H à 25H
+par semaine
+2007
+43,814$
+0$ (boni était de
+46,000$)
+20 684$
+10 253$
+2008
+43,973$
+22,950$ (boni
+était de 15,000$)
+21 619$
+10 704$
+2009 (pour
+6 mois)
+25,536$
+42,150$ (boni
+était de 30,000$)
+24 910$
+12 357$
+[8] Je retiens essentiellement du témoignage de monsieur Paul Séguin père, que les tâches de madame Marguerite Séguin (sa conjointe), au sein de l’entreprise du payeur pendant les années concernées, avaient consisté à faire l’entretien ménager des locaux du payeur et qu’elle y avait consacré entre 20 et 25 heures par semaine. Monsieur Séguin a ajouté que le payeur avait versé à madame Séguin un salaire hebdomadaire de 450 $ pendant les années concernées et des bonis de 46 000 $, 15 000 $ et de 30 000 $ en 2007, 2008 et 2009, respectivement. Il est fort intéressant de souligner que monsieur Séguin a précisé que le comptable externe du payeur lui avait conseillé de vider le compte bancaire du payeur avant la vente de ses actions du payeur en juin 2009 en versant notamment un boni de 30 000 $ à madame Séguin. Cet aveu a tout simplement renforcé ma conviction que la décision de verser des bonis au travailleur et à madame Séguin avait été prise par monsieur Séguin de façon purement arbitraire et que le montant de ces bonis avait été déterminé par ce dernier de façon toute aussi arbitraire. Je tiens à préciser que monsieur Séguin a été incapable de préciser sur quelles bases avaient été versés les bonis du travailleur pendant les années concernées.
+Analyse et conclusion
+[9] Il convient de souligner que le débat portait uniquement sur la rémunération du travailleur. Le ministre a admis que la rémunération fixe de 650 $ par semaine (plus les pourboires) pour 40 heures de travail effectuées de 8 h à 17 h, du lundi au vendredi, constituait une rémunération raisonnable dans les circonstances. Toutefois, le ministre soutient que, n’eût été du lien de dépendance entre le payeur et le travailleur, ce dernier n’aurait jamais accepté d’assumer autant de responsabilités et de consacrer autant d’heures et d’énergie au payeur en dehors de ses heures régulières de travail (ces heures étant de 8 h à 17 h, du lundi au vendredi) sans être assuré d’avance d’être rémunéré pour ce faire puisque la décision de verser un boni au travailleur était prise par monsieur Séguin de façon purement arbitraire et puisque le montant du boni était déterminé par ce dernier de façon toute aussi arbitraire.
+[10] La preuve a révélé très clairement que la décision de verser un boni au travailleur avait été prise par monsieur Séguin de façon purement arbitraire et que le montant du boni avait été déterminé par ce dernier de façon toute aussi arbitraire. La preuve a aussi révélé en l’espèce très clairement que le travailleur avait assumé de multiples responsabilités et avait consacré de nombreuses heures à les assumer, et ce, en dehors de sa semaine régulière de travail. Par conséquent, la décision dont le ministre était convaincu à l’effet qu’un tiers non lié au payeur n’aurait jamais accepté d’assumer autant de responsabilités et de consacrer autant d’heures à les assumer, et ce, en dehors de sa semaine régulière de 40 heures, du lundi au vendredi, sans être assuré d’avance d’être rémunéré ou, à tout le moins, sans connaître les objectifs à atteindre pour être rémunéré pour ce faire, me paraît toujours raisonnable compte tenu de la preuve soumise.
+[11] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de mars 2011.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2011 CCI 97
+Nº DU DOSSIER DE LA COUR : 2010-179(EI)
+INTITULÉ DE LA CAUSE : 2536-5412 QUÉBEC INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 9 février 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 1er mars 2011
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Roger Paradis
+Avocate de l'intimé :
+Me Marie-France Camiré
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Roger Paradis
+Cabinet : Legault, Roy
+Gatineau, Québec
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,140 @@
+Title: Shonn's Makeovers & Spa v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30040/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-542-30040-shonn-s-makeovers-spa-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-10-22
+
+# Shonn's Makeovers & Spa v. M.N.R.
+
+- Citation: 2010 TCC 542
+- Decision date: 2010-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7708, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shonn's Makeovers & Spa v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-22
+Neutral citation
+2010 TCC 542
+File numbers
+2009-3517(EI), 2009-3518(CPP)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-3517(EI)
+BETWEEN:
+SHONN’S MAKEOVERS & SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Shonn’s Makeovers & Spa (2009-3518(CPP)), on May 19, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Shawn Bidner
+Counsel for the respondent:
+Natasha Wallace
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act is allowed and the Minister’s decision of August 13, 2009 is vacated in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 22nd day of October 2010.
+"Patrick Boyle"
+Boyle J.
+Docket: 2009-3518(CPP)
+BETWEEN:
+SHONN’S MAKEOVERS & SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Shonn’s Makeovers & Spa (2009-3517(EI)), on May 19, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the appellant:
+Shawn Bidner
+Counsel for the respondent:
+Natasha Wallace
+____________________________________________________________________
+JUDGMENT
+The appeal under the Canada Pension Plan is allowed and the Minister’s decision of August 13, 2009 is vacated in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 22nd day of October 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 542
+Date: 20101022
+Dockets: 2009-3517(EI)
+2009-3518(CPP)
+BETWEEN:
+SHONN’S MAKEOVERS & SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] These appeals were heard in Ottawa in May. The only question before the Court in these Employment Insurance (“EI”) and Canada Pension Plan (“CPP”) appeals is whether Mr. William Hall was an employee or was a self‑employed independent contractor at Shonn’s Makeovers & Spa in 2008 where he worked as a colouring artist. Both surprisingly, and perhaps as a true sign of our times, this ends up turning on his Facebook status. Unfortunately such is the sad state of affairs of this file as presented by all parties and witnesses.
+[2] Shonn’s Makeovers & Spa was a small hair salon on Ottawa’s Rideau Street owned and operated by Shawn Bidner. Mr. Hall worked there for about two years between mid‑2006 and mid‑2008. The Canada Revenue Agency (“CRA”) has ruled that Mr. Hall was an employee and the CRA has upheld its ruling at the CRA administrative appeals stage. It is that CRA decision which has been appealed to this Court.
+[3] In the spa and salon sector, as in many sectors in the Canadian economy, workers and payors have considerable freedom to jointly choose to structure their relationship as either one of employment of the worker or self‑employment by the worker. Provided they do have a shared intention and understanding, do not act in a manner inconsistent with their intended working relationship, and there is no legal or regulatory restriction that would preclude the chosen relationship, the parties’ choice should be respected as the proper characterization of their contractual relationship.
+[4] The tests for a contract of service/employment versus a contract for services/independent contractor are well settled. The issue of employee versus independent contractor for purposes of the definitions of pensionable employment and insurable employment are to be resolved by determining whether the individual is truly operating a business on his or her own account. This is the question set out by the British courts in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), approved by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, for purposes of the Canadian definitions of insurable employment and pensionable employment, and adopted by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983. This question is to be decided having regard to all of the relevant circumstances and having regard to a number of criteria or useful guidelines including: 1) the intent of the parties; 2) control over the work; 3) ownership of tools; 4) chance of profit/risk of loss and 5) what has been referred to as the business integration, association or entrepreneur criteria. There is no predetermined way of applying the relevant factors and their relative importance and their relevance will depend upon the particular facts and circumstances of each case.
+[5] The decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, [2007] 1 F.C.R. 35, highlights the particular importance of the parties’ intentions and the control criterion in these determinations. This is consistent with the Federal Court of Appeal’s later decisions in such cases as National Capital Outaouais Ski Team v. Canada (The Minister of National Revenue), 2008 FCA 132, Combined Insurance Company of America v. Canada (The Minister of National Revenue), 2007 FCA 60, and City Water International Inc. v. Canada (The Minister of National Revenue), 2006 FCA 350. The reasons of this Court in Vida Wellness Corporation (Vida Wellness Spa) v. M.N.R., 2006 TCC 534, also provide a helpful summary of the significance of the Royal Winnipeg Ballet decision.
+[6] Typically, the greatest challenge for this Court in deciding whether a worker is an employee or an independent contractor is applying the pertinent legal considerations of intention, control, ownership of tools, financial participation, etc. to the particular facts of the case. However, in this case, the almost impossible challenge is for the Court to determine what those facts are.
+[7] Mr. Bidner and his spouse Ms. Trudel, who also worked sporadically at the salon doing administrative and clerical type tasks for which she was not trained or paid, each testified for the appellant. Mr. Hall testified for the Crown. No one from the CRA testified. On substantially all of the relevant facts, the appellant’s evidence and Mr. Hall’s evidence conflict. Neither provided much by way of supporting documentation. The difficulty of the task is further compounded by the fact that the CRA did not come to the party. The Court therefore has virtually no information on how the CRA arrived at its initial ruling, what it considered as part of the appeal, whether worker and payor’s interviews and questionnaires were held or obtained, whether Mr. Hall did report his income as employment or self‑employment income or at all, what T4s, if any, were issued by the appellant, or what withholdings and remittances, if any, were made by the appellant. Most of this information should have been foreseen to have been able to help tip the factual balancing of probabilities in one direction or the other by way of corroboration or bringing credibility into question.
+[8] The final challenge is that Mr. Hall very honestly and candidly explained several times that his short‑term memory was not very good and that this related to treatments he was receiving and to his doctor‑ recommended retirement.
+[9] There was no written agreement governing the work relationship. Mr. Bidner said it was agreed at the outset that Mr. Hall would be working as an independent contractor in the salon for a fixed amount each week and, when not servicing the salon’s clients, would be free to independently service his own clients for his own account. According to Mr. Bidner, the fixed amount was agreed to be Mr. Hall’s gross revenue for the work from which the cost of any supplies used for Mr. Hall’s independent clientele was to be, and was, tracked and deducted. Mr. Hall testified that he understood the agreement to be that he was to be an employee, that his net take‑home would be the fixed weekly amount and that the salon would be responsible for determining the correct amounts that should be withheld from his gross salary and remitted to the CRA to arrive at the agreed net take‑home pay. Both versions are possible but they are not reconcilable.
+[10] If the testimony of both Mr. Bidner and Mr. Hall is accepted there was no shared common intention at the outset as to Mr. Hall’s status as either employee or independent contractor because there must have been a failure to properly communicate.
+[11] The testimony regarding the degree of control of Mr. Bidner over Mr. Hall’s work times and how to get the work done also conflicted in very important respects including whether Mr. Hall was required to report for work each morning regardless of whether any appointments were scheduled for that day, and whether Mr. Hall needed approval or merely informed Mr. Bidner of his unavailability for work during the conferences, retreats and treatments he attended. This was not a mere miscommunication; one or both witnesses had to have been wrong. On the evidence presented I cannot decide with any great certainty what the real work arrangements were for Mr. Hall at the salon.
+[12] There is no contradiction in either version that Mr. Bidner was a hair stylist who had some hair colouring skills and that it was Mr. Hall who was the colouring specialist with much greater expertise, skill and talent, and with some renown in those circles among colleagues and clients. It was for these reasons that Mr. Bidner sought to hire Mr. Hall in 2006. Mr. Bidner could not be expected to control the creative and professional aspect of the expert’s work. However, I believe Mr. Hall’s statement that he was required to attend each morning before the salon opened regardless of when or whether appointments were booked for the morning or the day (apparently the clientele was all appointments as the prices for these professionals were not walk‑in friendly) is an example of Mr. Hall’s damaged memory. This is too inconsistent with his evidence that he bought a cell phone in that period in order to allow Mr. Bidner to reach him during the course of the day as he was allowed to come and go during the day for hours at a time when there were no appointments. Also, the idea that a single male hair colourist on Facebook did not have a cell phone in this day and age but got one to permit his employer to reach him when he chose to go out on personal matters and errands also seems unlikely.
+[13] Mr. Bidner testified that Mr. Hall was free to and did schedule his own clients through the course of the day. Further he testified that when Mr. Hall did so, Mr. Hall kept the fee and tips received but reported any use of the salon’s colouring supplies on an honour system which amounts were then deducted from his biweekly paycheque. This would indicate a considerable degree of control by Mr. Hall over his own quite independent activities and be strong evidence of financial upside and chance for profit for Mr. Hall. However, Mr. Hall testified that this only happened with one client when he bartered services from his dentist for colouring appointments and that Mr. Bidner approved the use of the salon’s colouring supplies without charge back to him. Any other colouring services were provided by Mr. Hall to friends and acquaintances outside Mr. Bidner’s salon according to Mr. Hall.
+[14] The two versions are at odds and irreconcilable. There was no corroborating written evidence produced by either witness. Mr. Bidner did not bring a printout of his salon’s computerized appointment book records or his banking documentation, nor did Mr. Hall bring copies of the payslips prepared by the salon he said he received at the times with the cheques or copies of his bank records showing his deposits of the salon’s cheques and any other receipts.
+[15] I can and do conclude from the evidence of the day‑to‑day working relationship with respect to the overall aspects of control over Mr. Hall’s work, that neither version of the evidence would be inconsistent with either an employment or independent contractor arrangement. Since I cannot conclude with any degree of comfort the extent to which Mr. Bidner did or did not control Mr. Hall’s work beyond what I have already said, a consideration of control cannot be very helpful in this case.
+[16] In addition to the irreconcilable inconsistencies mentioned already surrounding the financial arrangements and the extent of Mr. Hall’s financial participation in his overall colouring activities at the salon and elsewhere, there are a few unusual and suspect or inexplicable documents in evidence, each of which was put in by the respondent and had been in the possession of the CRA.
+[17] First, for two pay periods in June 2007, Mr. Hall was placed on the company’s payroll when the company first outsourced its employee payroll to an outside service provider. Following the second pay period Mr. Hall was removed from the payroll service and the other employees were left on it for the several months the business continued to use the service provider. Mr. Bidner and Ms. Trudel both testified this was an inadvertent error in the transition to the new payroll service and was corrected once it was identified. That is certainly a reasonable and understandable explanation but its truthfulness cannot be confirmed or negated absent records from one of Mr. Hall, Mr. Bidner or the CRA, showing whether withholding stopped thereafter or continued to be made and remitted, or if the amounts remitted in error were refunded or credited by the CRA or not, or absent corroborating evidence from the outside service provider. I am left with the appellant’s perfectly reasonable and plausible explanation for the two payslips in evidence prepared by the payroll service provider.
+[18] Secondly, there is a handwritten T4 in evidence that was prepared by Ms. Trudel. Both she and Mr. Bidner said Mr. Bidner agreed to prepare a misleading T4 for 2006 as requested by Mr. Hall as a favour to him in order to allow him to satisfy a prospective lender or landlord. Mr. Hall says he received it in the ordinary course during the tax filing season and did not ask for it. Both explanations are plausible. It seems a bit odd to prepare a T4 for a landlord or a lender as proof of income instead of a straightforward letter confirming employment and income but potential creditors do at times suggest that a copy of a tax return be proof of income. Since the CRA did not testify or introduce documents that confirmed if this T4 was ever filed or when, and importantly whether T4s continued to be filed after 2006, I will never know how this T4 came to be with any degree of comfort.
+[19] Thirdly, a copy of the front page of a record of employment prepared by Ms. Trudel and signed by Mr. Bidner following Mr. Hall’s departure was put in evidence by the respondent. Since I only have the first page, I cannot tell if the amounts reported on it reconciled with the evidence of either the appellant or Mr. Hall as to the amounts Mr. Hall was paid each week. What the witnesses did agree on was that Mr. Hall’s paycheque was based on a fixed round amount of $400 weekly raised to $450 weekly. However, Mr. Hall said that was his net so his gross including withholdings would be more and not likely a round number. Mr. Bidner said from the gross amount of $400 or $450 a week there were regular deductions for the colouring supplies used by Mr. Hall from his clients. If either side produced a typical paycheque, payslip or bank record, it would be apparent which, if either, was correct. The numbers shown on the 2006 T4 cannot be reconciled with either version. The partial record of employment cannot serve this purpose although a complete one might have. In any event, Mr. Bidner did not have any explanation for signing and filing the record of employment beyond saying Ms. Trudel had prepared it in error and he had signed it without further thought. The absence of documents from the appellant and the limited and selective documents of the respondent leaves me quite sure there is much I have not been told.
+[20] Turning to the ownership and use of the salon premises, equipment and supplies, I again have completely contradictory evidence from the two sides. Mr. Bidner says the arrangement provided that Mr. Hall would receive a fixed weekly amount and have complete access to the salon to use in his independent colouring activities provided the colouring needs of the salon’s clients were attended to, and that Mr. Hall had to reimburse the cost of any of the salon’s colouring supplies used in his independent business. On that version Mr. Hall was paying for use of the salon and was paying for his supplies. Mr. Hall says he did not make use of the salon for independent colouring activities except for one bartered client and that he was told by Mr. Bidner that he did not have to reimburse him the cost of the supplies used these times.
+[21] The evidence of the financial arrangements does not usefully point in either particular direction of an employment or independent contractor relationship. Again, neither version of the evidence of the financial arrangements would be entirely inconsistent with either an independent contractor arrangement with the appellant or an employment arrangement with the appellant and an independent business on the side.
+[22] The gaps in the evidence in his case, in particular with respect to documents in the control of the CRA, cannot be filled in by the assumptions set out in the respondent’s reply. They do not in any way address most of the gaps or the assumptions have been the subject of evidence which conflicts with the assumptions. For example, it is assumed that all of the revenue “declared” by Mr. Hall came from the appellant. That does not tell the Court that all of the income earned by him was from the salon. Another example is that the respondent assumed the T4 slips filed with the Minister showed that the appellant made all the deductions at source for all the years for at least the worker. As already discussed, the amounts shown on the only T4 slip in evidence cannot be reconciled to the $400 or $450 the parties agreed was paid or received whether that amount is treated as the net take‑home or the gross pay.
+[23] Importantly, the reason that the facts assumed by the Minister in issuing an assessment are presumed to be correct unless rebutted is because ordinarily most relevant facts will be largely in the particular knowledge and therefore control of the taxpayer not the CRA. That is not the case here. Much of the information and documents that could corroborate one version or the other are in documents filed with or prepared by the CRA.
+[24] This leaves me with the evidence which tips the balance towards the more probable being Mr. Hall’s Facebook status entry. In his objection filed with the Chief of Appeals the appellant included a printout dated April 2009 of Mr. Hall’s Facebook info page. This has been in the Court file since last November when sent as required by CRA Appeals to the Court Registry.
+[25] Mr. Bidner put to Mr. Hall in cross‑examination that Mr. Hall described himself as “self‑employed” from April 2006 to the present on Facebook. Mr. Hall’s response was that you do not have to be honest on Facebook. That is correct, or at least if it is not, it is of no particular importance to this Court for this proceeding. Mr. Bidner then asked why Mr. Hall chose not to be truthful about his self‑employment. Mr. Hall responded that it was to protect his privacy, just as he did not disclose what he did or where he worked. Mr. Bidner then pointed out to him that he did describe himself as a self‑employed hair colourist specialist in Ottawa. The Court asked Mr. Hall if he would like to see a copy of the 2009 Facebook page and he replied that he did not need to.
+[26] Upon later request for clarification by the Court Mr. Hall indicated everything else, his age, his likes and preferences, his hometown, his education, activities and groups were all true and the only thing he misrepresented in his Facebook entry was his self‑employment status. He went on to affirm again that this was because of privacy concerns. He could not explain how being employed versus self‑employed touched on internet‑related or other privacy concerns, especially since he disclosed himself as an Ottawa‑based hair colour specialist and used his real name. In argument, counsel for the respondent was similarly unable to even hypothesize a scenario where one’s employment or self‑employment status alone could be thought to give rise to a privacy concern.
+[27] Mr. Hall described himself on Facebook as a self‑employed hair colour specialist. Everything else about him on his Facebook info page he says is true. This is his own description of his work status made voluntarily, describing his work during the period he worked at the appellant’s salon. It was made in a setting where nothing seemed to turn on it. Though he now says it alone was untrue and dishonest, he cannot explain why this would be the one thing he would choose to lie about on Facebook regarding his personal information.
+[28] In such circumstances, I do not accept Mr. Hall’s explanation that he chose to lie on Facebook about the self‑employment characterization of his hair colouring activities at the salon. To the contrary, I regard it to be evidence that Mr. Hall intended, when he started at the salon, to be self‑employed and that he understood this at least up to the time he created his Facebook entry.
+[29] Further, I find Mr. Hall’s credibility has been damaged by his answers to this line of questioning. It is not that he lied on Facebook, it is that I do not believe he was telling the truth when he said he was lying on Facebook. I certainly do not believe that, if he was lying on Facebook about being self‑employed, it was out of concerns for his privacy.
+[30] For these reasons, I will be allowing the EI and CPP appeals. I am left doubting that I have got this right with any certainty but I was not given the opportunity nor was I given the information available to the respondent to get to the bottom of this. While I conclude on a balance of probabilities that Mr. Hall was not an employee of the salon, I do not have to decide how much he received from his work at the salon or elsewhere, from the salon, from other customers or in tips. I certainly have been given little reason to think that the amounts shown in the few documents I have seen and in the oral evidence I have heard are correct.
+Signed at Ottawa, Canada, this 22nd day of October 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 542
+COURT FILE NOS.: 2009-3517(EI), 2009-3518(CPP)
+STYLE OF CAUSE: SHONN’S MAKEOVERS & SPA v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: May 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: October 22, 2010
+APPEARANCES:
+Agent for the appellant:
+Shawn Bidner
+Counsel for the respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

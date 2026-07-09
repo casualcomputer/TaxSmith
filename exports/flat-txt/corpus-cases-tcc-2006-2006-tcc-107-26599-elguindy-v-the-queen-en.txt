@@ -1,0 +1,151 @@
+Title: Elguindy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26599/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-107-26599-elguindy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-20
+
+# Elguindy v. The Queen
+
+- Citation: 2006 TCC 107
+- Decision date: 2006-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3541, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elguindy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-20
+Neutral citation
+2006 TCC 107
+File numbers
+2005-920(GST)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+2005-920(GST)I
+BETWEEN:
+GAMAL ELGUINDY,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 3, 2005 and January 27, 2006, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Emad Elguindy
+Counsel for the Respondent:
+Meghan Castle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 4, 2004, and bears number 04085519012370001 is dismissed.
+Signed at Toronto, Ontario, this 20th day of February, 2006.
+"E.A Bowie"
+Bowie J.
+Citation: 2006TCC107
+Date: 20060220
+Docket: 2005-920(GST)I
+BETWEEN:
+GAMAL ELGUINDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] Mr. Elguindy appeals from an assessment made under Part IX of the Excise Tax Act[1] (the Act) which had the effect of denying his application for a rebate of goods and services tax (gst). His appeal was heard at Toronto under the Court's informal procedure. The Appellant was represented by his brother, a paralegal, who also gave evidence on his behalf.
+[2] On October 21, 2003 the Appellant purchased a Volkswagen Passat automobile from Queensway Volkswagen Inc. in Toronto for $50,000. He was required to pay gst of $3,500 on the transaction, as well as provincial sales tax of $4,000. The Appellant paid $15,000 cash and took delivery of the vehicle two days later. By that time the contract had been assigned by Queensway to VW Credit Canada Inc. (VW Credit), and the Appellant entered into a conditional sales agreement with that company at the time he took delivery. It is not disputed that the gst formed part of the $15,000 payment, or that it was duly remitted by the vendor to the Receiver General of Canada as the Act requires.
+[3] Approximately 10 days later, a bailiff went to the house where the Appellant and his brother lived and repossessed the vehicle on behalf of the vendor. Although the details are not entirely clear, it appears that Mr. Elguindy took proceedings in the Ontario Court to recover the vehicle, but without success. Exhibit A-5 is a letter from the solicitors for VW Credit to the Appellant. That letter states that the vehicle was repossessed because Mr. Elguindy had transferred ownership of the vehicle to one Emadeldin Elguindy, a resident of Alberta, thereby breaching a condition of the sales contract. The letter goes on to say that if the Appellant does not pay the outstanding balance of the purchase price within a specified time then the vehicle will be sold and the proceeds applied against that balance. One of the remedies available to the vendor under the contract upon a breach by the purchaser is acceleration of the unpaid balance of the purchase price to become due immediately.
+[4] The Appellant in his evidence denied that he had transferred the vehicle as the solicitor's letter alleged. He takes the position that VW Credit had no right to repossess the vehicle. That is not a matter that I can adjudicate. Whether rightly or wrongly, VW Credit has clearly acted on the basis that there was a breach of the conditional sales contract, and the Appellant has not succeeded in establishing otherwise in the Court that has jurisdiction to determine that. What is clear is that the contract was not mutually rescinded.
+[5] The Appellant's agent argued that the contract between the Appellant and VW Credit was revoked by the vendor, and so there was no sales transaction and therefore no gst was exigible. In support of this he points out that the Ontario government refunded the provincial sales tax that had been paid. His submission was that the situation is the same as when a purchaser returns goods to a store and obtains a refund of the purchase price, and of the taxes paid. Finally, he invoked the equitable jurisdiction of the Court, arguing that if the Respondent were permitted to keep the gst paid on the purchase of this vehicle it would amount to unjust enrichment.
+[6] Unfortunately for the Appellant, this Court has no jurisdiction to dispense with the application of the provisions of the Act on grounds of equity. I can only decide whether the provisions of the Act entitle the Appellant to a rebate of the tax in the circumstances revealed by the evidence.
+[7] Exigibility of the tax depends upon the Appellant being the recipient of a taxable supply.[2] By reason of the definitions of "taxable supply" and "supply" found in subsection 123(1) of the Act, the sale of an automobile in the course of a commercial activity is a taxable supply. The position advanced by the Respondent is that subsections 165(1), 168(1) and 152(1) apply to this sale, that the sales contract entered into on October 21, 2003 was an invoice, and that the tax therefore became payable in its entirety on that date. Subsections 165(1), 168(1) and 152(1) read:
+165(1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+168(1) Tax under this Division in respect of a taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+152(1) For the purposes of this Part, the consideration, or a part thereof, for a taxable supply shall be deemed to become due on the earliest of
+(a) the earlier of the day the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice,
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part, and
+(c) the day the recipient is required to pay that consideration or part to the supplier pursuant to an agreement in writing.
+It appears to me, however, that the provision governing the incidence of tax on this transaction, which is by way of a conditional sales contract, is subsection 168(3):
+168(3) Notwithstanding subsections (1) and (2), where all or any part of the consideration for a taxable supply has not been paid or become due on or before the last day of the calendar month immediately following the first calendar month in which
+(a) where the supply is of tangible personal property by way of sale, other than a supply described in paragraph (b) or (c), the ownership or possession of the property is transferred to the recipient,
+(b) [not relevant]
+(c) [not relevant]
+tax under this Division in respect of the supply, calculated on the value of that consideration or part, as the case may be, is payable on that day.
+In either event, tax on the full consideration of $50,000 was payable not later than November 30, 2003.
+[8] Section 232[3] of the Act makes provision for a vendor to refund tax paid to a customer in circumstances where the sales contract is later mutually rescinded, or is adjusted to reduce the price. That section has no application in the present case, however, as the contract has been neither rescinded nor amended. The contract remained in force after the repossession of the vehicle by the vendor; the vendor availed itself of a remedy available to it under the terms of the contract, namely acceleration of the balance of the purchase price, together with repossession and sale of the vehicle when the Appellant failed to pay the accelerated balance due. In other words, there continues to have been a sale of the vehicle at the price agreed upon, notwithstanding the repossession. Section 232 of the Act therefore does not have any application.
+[9] The Appellant's agent relied on subsection 261(1) in support of his argument that the Appellant is entitled to a rebate.
+261(1) Where a person has paid an amount
+(a) as or on account of, or
+(b) that was taken into account as,
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+261(2) A rebate in respect of an amount shall not be paid under subsection (1) to a person to the extent that
+(a) the amount was taken into account as tax or net tax for a reporting period of the person and the Minister has assessed the person for the period under section 296;
+(b) the amount paid was tax, net tax, penalty, interest or any other amount assessed under section 296; or
+(c) a rebate of the amount is payable under subsection 215.1(1) or (2) or 216(6) or a refund of the amount is payable under section 69, 73, 74 or 76 of the Customs Act because of subsection 215.1(3) or 216(7).
+261(3) A rebate in respect of an amount shall not be paid under subsection (1) to a person unless the person files an application for the rebate within two years after the day the amount was paid or remitted by the person.
+It is evident from the foregoing, however, that the tax in this case was not paid "by mistake". Mr. Elguindy therefore focussed his argument on the alternative words "or otherwise" that follow that expression. This argument, however, ignores that an applicant for a rebate must show that the amount was paid as tax "... in circumstances where the amount was not payable or remittable by the person ...", and this the Appellant cannot do, for the reasons that I have given.
+[10] The Appellant's agent argued strenuously that it would be most unfair if the Appellant were required to pay the tax in the present case, as he no longer has the vehicle. However his situation is no different from that of a person whose vehicle has been stolen or destroyed, or who has decided to sell it, immediately after taking delivery. In all these cases the tax is exigible upon the purchase, and it does not become refundable by reason of the subsequent event. In the case of theft or destruction the buyer may be insured against the loss, but his recovery of the tax is the proceeds of insurance, not a rebate.
+[11] Nor is the Appellant's reliance on the fact that the provincial sales tax was refunded to him persuasive. That tax is governed by a different statute. If it provides for a rebate in the circumstances of this case, that is quite irrelevant to the application of the federal statute.
+[12] For the foregoing reasons, the Appellant was liable to pay 7% gst on the purchase price of the vehicle, and he is not entitled to the rebate claimed. The appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of February, 2006.
+"E.A. Bowie"
+Bowie J.
+APPENDIX "A"
+232(1) Where a particular person has charged to, or collected from, another person an amount as or on account of tax under Division II in excess of the tax under that Division that was collectible by the particular person from the other person, the particular person may, within two years after the day the amount was so charged or collected,
+(a) where the excess amount was charged but not collected, adjust the amount of tax charged; and
+(b) where the excess amount was collected, refund or credit the excess amount to that other person.
+232(2) Where a particular person has charged to, or collected from, another person tax under Division II calculated on the consideration or a part thereof for a supply and, for any reason, the consideration or part is subsequently reduced, the particular person may, in or within four years after the end of the reporting period of the particular person in which the consideration was so reduced,
+(a) where tax calculated on the consideration or part was charged but not collected, adjust the amount of tax charged by subtracting the portion of the tax that was calculated on the amount by which the consideration or part was so reduced; and
+(b) where the tax calculated on the consideration or part was collected, refund or credit to that other person the portion of the tax that was calculated on the amount by which the consideration or part was so reduced.
+232(3) Where a particular person adjusts, refunds or credits an amount in favour of, or to, another person in accordance with subsection (1) or (2), the following rules apply:
+(a) the particular person shall, within a reasonable time, issue to the other person a credit note, containing prescribed information, for the amount of the adjustment, refund or credit, unless the other person issues a debit note, containing prescribed information, for the amount;
+(b) the amount may be deducted in determining the net tax of the particular person for the reporting period of the particular person in which the credit note is issued to the other person or the debit note is received by the particular person, to the extent that the amount has been included in determining the net tax for the reporting period or a preceding reporting period of the particular person;
+(c) the amount shall be added in determining the net tax of the other person for the reporting period of the other person in which the debit note is issued to the particular person or the credit note is received by the other person, to the extent that the amount has been included in determining an input tax credit claimed by the other person in a return filed for the reporting period or a preceding reporting period of the other person; and
+(d) if all or part of the amount has been included in determining a rebate under Division VI paid to, or applied to a liability of, the other person before the particular day on which the credit note is received, or the debit note is issued, by the other person and the rebate so paid or applied exceeds the rebate to which the other person would have been entitled if the amount adjusted, refunded or credited by the particular person had never been charged to or collected from the other person, the other person shall pay to the Receiver General under section 264 the excess as if it were an excess amount of that rebate paid to the other person
+(i) if the other person is a registrant, on the day on or before which the other person's return for the reporting period that includes the particular day is required to be filed, and
+(ii) in any other case, on the last day of the calendar month immediately following the calendar month that includes the particular day.
+232(4) This section does not apply in circumstances in which section 161 or 176 applies.
+CITATION:
+2006TCC107
+COURT FILE NOS.:
+2005-920(GST)I
+STYLE OF CAUSE:
+Gamal Elguindy and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 3, 2005 and
+January 27, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+February 20, 2006
+APPEARANCES:
+Agent for the Appellant:
+Emad Elguindy
+Counsel for the Respondent:
+Meghan Castle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.E-15, as amended.
+[2] The Act, s.s. 165(1).
+[3] See Appendix "A".

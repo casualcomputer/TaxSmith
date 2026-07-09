@@ -1,0 +1,103 @@
+Title: Prescott v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25951/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-580-25951-prescott-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-09-30
+
+# Prescott v. M.N.R.
+
+- Citation: 2004 TCC 580
+- Decision date: 2004-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3684, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prescott v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-30
+Neutral citation
+2004 TCC 580
+File numbers
+2004-446(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2004TCC580
+Date: 20040930
+Docket: 2004-446(EI)
+2004-827(EI)
+2004-828(EI)
+BETWEEN:
+STEVEN PRESCOTT,
+EDGAR LAVALLEE,
+KULVINDER S. SANDHU,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NEW SKEENA FOREST PRODUCTS INC.,
+Intervenor.
+___________________________________________________________________
+Agent for the Appellants: Terry Intermela Counsel for the Respondent: Stacey Michael Repas
+Agent for the Intervenor: Lyle McNish
+___________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+July 15, 2004, at Kelowna, British Columbia)
+McArthur J.
+[1] The issue in these appeals is whether the Appellants had insurable hours for the period September 21, 2002 to February 15, 2003. The facts in all three appeals are similar but not identical in dates and amounts. Nothing falls on the differences and all relevant facts are not contested. Argument only was heard.
+[2] In a nutshell, the Appellants were paper mill workers, laid off when the mill shut down, and through an arrangement between their union and the mill, they were paid benefits more than a year after their layoff. They were employees of New Skeena Forest Products Inc. up until July 2001 and Mr. Sandhu, until April 2002, when they were laid off after the mill shut down for financial reasons. They were covered by a union collective agreement which provided that New Skeena would rehire them in the event the mill reopened.[1] They were paid for leave during the period and they received credits including vacation time and personal floater time. They also received a signing bonus when a new collective agreement was signed in 2002.
+[3] Insurable employment is defined in paragraph 5(1)(a) of the Employment Insurance Act. Regulation 9.1 that deals with the methods of determining insurable hours states:
+Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+Also, Regulation 10.1(1) states:
+Where an insured person is remunerated by the employer for a period of paid leave, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked, and for which the person would normally been remunerated during that period.
+[4] The compensation paid to the Appellants does not meet these requirements. They were not remunerated for a period of paid leave, they were laid off permanently. The payments were a negotiated compensation as result of their having been laid off. The mill was shut down indefinitely. There was no work for them.
+[5] The Appellants submit that during the relevant periods, they were still employees of New Skeena having full recall rights. They state that their vacation and floater days should credit them with insurable hours because, although laid off, they were on recall. The Minister admits they had insurable earnings but not insurable hours. The Appellants add that Regulation 10.1(1) specifically accepts that someone not working can still have insurable hours, and they refer to Mulvenna v. the Minister of National Revenue, [2003] T.C.J. No. 352, a judgment of Miller J. of this Court rendered June 16, 2003. In Mulvenna, the employee took pregnancy leave from work for a period of six months. She was in fact paid by her employer during and for her leave. Mrs. Mulvenna's situation differs from the present one. She was on leave at her request for a specific period for the purpose of giving birth. She was not laid off for an indefinite period. She was paid, during her leave, with the anticipation that she would return to her work at St. Mary's hospital. In the present case, the Appellants were laid off by their employer because the mill had closed indefinitely. The Appellants were not on paid leave. They received benefits after a deal was struck between their former employer and their union. It would be stretching the facts too far to find that Regulations 9.1 and 10.1(1) were complied with.
+[6] I agree with the Minister's position that the Appellants had been employed by New Skeena in insurable employment under a contract of service within the meaning of paragraph 5(1)(a) of the Act prior to the period in question. They had insurable earnings but they were in layoff status since July and April of 2001-2002, and did not perform any duties of employment for New Skeena during the period. Therefore, they did not have any insurable hours under Regulations 9(1) and 10.1(1).
+[7] The Appellants' union and Skeena had worked out a system by which all parties believed that the Appellants would have insurable earnings and insurable hours after their layoff which would entitle them to benefits. The plan failed because they had not actually worked during the period (Regulation 9.1) and they were not "remunerated by the employer for a period of paid leave". They cannot benefit from the deeming provisions in Regulation 10.1(1).
+[8] The Appellants were paid leave credits while they were laid off, but on recall status. Accrued leave credits were paid during the May 2002 to April 30, 2003 fiscal period. They were not working, having been released from their employment, and were not paid for their recall status. To repeat, they are not entitled to insurable hours. The deeming provisions of Regulation 10.1 do not apply because the Appellants did not receive payments as a period of paid leave for which they would have been deemed to have worked pursuant to Regulation 10.1. The payments made were not made in relation to continuing employment and they had no employment to return to.
+[9] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 30th day of September, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC580
+COURT FILE NO.:
+2004-446(EI), 2004-827(EI), 2004-828(EI)
+STYLE OF CAUSE:
+Steven Prescott, Edgar Lavallee, Kulvinder S. Sandhu and Minister of National Revenue and New Skeena Forest Products Inc.
+PLACE OF HEARING:
+Prince Rupert, British Columbia
+DATE OF HEARING:
+July 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+July 22, 2004
+APPEARANCES:
+Agent for the Appellants:
+Terry Intermela
+Counsel for the Respondent:
+Stacey Michael Repas
+Agent for the Intervenor
+Lyle McNish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In fact it has never reopened.

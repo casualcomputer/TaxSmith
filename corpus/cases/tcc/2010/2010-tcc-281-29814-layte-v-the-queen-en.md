@@ -1,0 +1,141 @@
+---
+title: "Layte v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29814/index.do"
+last_modified: "2010-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 281"
+citation2: ""
+neutral_citation: "2010 TCC 281"
+decision_date: "2010-05-25"
+language: "en"
+item_id: "29814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6572
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:19:38.573000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "697c94dd51a178657a66d0826b3d4169b5d080b9baa0097ce6c9b8c3bdb8e5ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Layte v. The Queen
+
+- Citation: 2010 TCC 281
+- Decision date: 2010-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6572, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Layte v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-25
+Neutral citation
+2010 TCC 281
+File numbers
+2009-1413(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-1413(GST)I
+BETWEEN:
+HOLLANDER LAYTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 17, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the period from January 1 to December 31, 2004, notice of which is dated February 25, 2008, is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 25th day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 281
+Date: 20100525
+Docket: 2009-1413(GST)I
+BETWEEN:
+HOLLANDER LAYTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Minister of National Revenue (the “Minister”), in assessing the Appellant’s net goods and services tax (“GST”) liability for the period from January 1 to December 31, 2004 (the “relevant period”) on February 25, 2008, disallowed a refund claim with respect to input tax credits (“ITCs”) in the amount of $9,603.50.
+[2] In determining the net tax liability of the Appellant for the relevant period, the Minister made the following assumptions of fact:
+8. a) the appellant and her spouse operated a retail specialty food store under the trade name of L’Ange (the “L’Ange”);
+b) the appellant and her spouse operated another business under the trade name The Marvellous Mustard Shop (the “Mustard”);
+c) the operations of L’Ange and Mustard were in Ottawa, Ontario;
+d) the appellant and her spouse became GST registrants on May 12, 2000;
+e) the appellant filed a GST return on August 28, 2007 claiming a total of $9,603.50 in ITCs;
+f) $8,129.06 of the ITCs claimed relate to expenses that were incurred prior to January 1, 2003;
+g) the appellant did not pay GST in the amount of $123.41 on an expense for insurance;
+h) the appellant paid for chimney services on her personal residence in the amount of $4,322.80 (GST of $282.80);
+i) in relation to paragraph (g) the appellant claimed ITCs in the amount of $282.80, which were not used in the course of commercial activities;
+j) ITCs in the amount of $1,457.43 were already claimed in prior reporting periods and;
+k) the appellant did not incur ITCs in the amount of $0.73.
+[3] The Appellant testified that both businesses opened in September 2001. At that time, they were owned and operated by the Appellant and her husband. The Appellant’s husband died in 2006 and she inherited his interest in the businesses.
+[4] The Appellant testified that the initial start-up cost of both businesses was $275,000, which exceeded the Appellant’s original budget estimate by approximately $250,000.
+[5] The sizeable cost overrun meant that the Appellant did not have sufficient financial resources to hire skilled accounting personnel to help her with the filing of the businesses’ GST and other tax returns. The Appellant advanced other reasons which allegedly led to her filing her request for a GST refund beyond the four‑year time limit provided for by law. During the initial phase, the Appellant devoted all of her working hours to operating the businesses, which she did with reduced staff, to ensure that the businesses did not fail. To make matters worse, the Appellant’s husband was diagnosed with cancer in 2005 and from that point on he could no longer work in the businesses. The Appellant testified that, due to a computer failure, she lost all of the accounting data necessary for filing a return and this obliged her to engage in a lengthy accounting process in order to reconstruct the accounting data necessary for filing the GST refund claim. She also suffered health problems.
+[6] On cross-examination, the Appellant admitted that ITCs in the amount of $1,457.43 had already been claimed by her in a prior reporting period. In addition, she admitted that she did not pay GST in the amount of $123.41 on an insurance expense.
+[7] Both parties agree that an amount of $282.80 of the total ITCs claimed by the Appellant relates to GST paid on expenses for repairs to the chimney on the Appellant’s personal residence. The cost of the repairs was $4,322.80, GST included. It is incontrovertible that these repairs were capital in nature. While the Appellant used the kitchen in her personal residence to prepare some of the food items for her businesses, the repairs related to the upkeep of her personal residence and were not incurred in the course of a commercial activity as required by section 169 of Part IX of the Excise Tax Act (the “ETA”).
+[8] Therefore, the only issue remaining to be decided is whether the Appellant is entitled to a refund with respect to ITCs in the amount of $8,129.06 that relate to expenses incurred prior to 2003. The Respondent argues that this amount was not claimed within the four-year time limit provided for in paragraph 225(4)(b) of the ETA and that, as a result, the Appellant’s appeal should be dismissed. The Appellant is requesting that this Court allow her refund claim on compassionate grounds.
+[9] The relevant portion of subsection 225(4) of the ETA reads as follows:
+225(4) Limitation [period for ITC claims] — An input tax credit of a person for a particular reporting period of the person shall not be claimed by the person unless it is claimed in a return under this Division filed by the person on or before the day that is . . .
+(b) where the person is not a specified person during the particular reporting period, the day on or before which the return under this Division is required to be filed for the last reporting period of the person that ends within four years after the end of the particular reporting period . . .
+[10] Under this rule, ITCs must be claimed by a registrant in a return filed by the registrant on or before the due date of the return for the last reporting period that ends within four years after the end of the period in which the ITCs could have first been claimed. The Appellant filed an amended GST return for the relevant period on August 28, 2007, increasing the amount of ITCs claimed to $9,603.50. When faced with a request for an adjustment to a GST return which pertains to ITCs that are subject to the limitation period provided for in subsection 225(4), the Canada Revenue Agency (the “CRA”) uses for the purpose of computing the limitation period the later of the date on which the request for an adjustment is filed or the date on which the return was due. This practice is consistent with the wording of subsection 225(4), which requires that the ITCs be claimed in a return. Here, the ITCs were not claimed in the original return filed by the Appellant. They were claimed much later, when the amended return was filed. As a result, paragraph 225(4)(b) bars the Appellant from claiming a refund with respect to GST on expenses incurred prior to 2003.
+[11] While I agree that the Appellant’s failure to claim the ITCs was due in large part to circumstances beyond her control, the ETA does not grant the Court the authority to allow a refund for ITCs claimed beyond the four-year limitation period. In Chaya v. The Queen, 2003 TCC 688, the taxpayer was unable to benefit from the wholly dependent person tax credit and requested relief from the Court on compassionate grounds. At paragraph 4, the Court indicates that, while the law may be unfair, it is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity and that, if the appellant considered the law unfair, his remedy lay with Parliament and not with the Court. Applying that principle to the case at bar, I note that Parliament has prescribed a four-year limitation period for claiming ITCs. Presumably, the legislator felt that this period was long enough to deal with any unforeseen events that could cause a registrant to delay filing a claim for ITCs. The ETA confers no discretion on this Court to extend the four-year period.
+[12] It should be noted that the unclaimed ITCs of $8,129.06 could be used by the Appellant to offset any additional GST assessed by the CRA for reporting periods that fall within the four-year limitation period. I suspect, though, that this is small consolation to the Appellant as both businesses were in a refund position over the relevant period.
+[13] For the reasons set out above, the appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 281
+COURT FILE NO.: 2009-1413(GST)I
+STYLE OF CAUSE: HOLLANDER LAYTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: May 25, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Julian Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

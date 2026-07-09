@@ -1,0 +1,235 @@
+Title: Thompson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/422696/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-167-422696-thompson-c-la-reine.md
+Document type: case_law
+Last modified: 2018-08-29
+
+# Thompson c. La Reine
+
+- Citation: 2018 CCI 167
+- Decision date: 2018-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4190, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-29
+Référence neutre
+2018 CCI 167
+Numéro de dossier
+2014-2393(IT)G, 2014-2395(IT)G, 2014-2398(IT)G, 2014-2399(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2014-2398(IT)G
+2014-2399(IT)G
+ENTRE :
+LARRY THOMPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossiers : 2014-2393(IT)G,
+2014-2395(IT)G
+ENTRE :
+THOMPSON BROS (CONSTR.) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues par conférence téléphonique le 5 avril 2018 à Ottawa (Ontario)
+Devant : L’honorable juge Réal Favreau
+Participants :
+Avocat des appelants :
+Me Robert Neilson
+Avocate de l’intimée :
+Me Jasmine Sidhu
+ORDONNANCE
+Les requêtes datées du 5 avril 2018, déposées par l’intimée aux termes de l’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale) et visant à obtenir :
+a) l’autorisation de déposer des réponses modifiées aux avis d’appel;
+b) la prorogation du délai alloué pour signifier et déposer les réponses modifiées aux avis d’appel;
+c) les dépens de la présente requête.
+sont accueillies avec dépens conformément aux motifs de l’ordonnance ci-joints. Par conséquent, l’intimée est autorisée à déposer une réponse modifiée dans chacun des appels en remplissant le formulaire joint aux avis de requête. Les réponses modifiées doivent être déposées et signifiées dans les 30 jours suivant la date de la présente ordonnance. L’intimée a droit à un seul mémoire de frais pour l’audition de ces requêtes, à diviser en parts égales entre les deux appelants.
+Signé à Ottawa, Canada, ce 29e jour d’août 2018.
+« Réal Favreau »
+Le juge Favreau
+Référence : 2018 CCI 167
+Date : 20180829
+Dossiers : 2014-2398(IT)G,
+2014-2399(IT)G
+ENTRE :
+LARRY THOMPSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossiers : 2014-2393(IT)G,
+2014-2395(IT)G
+ENTRE :
+THOMPSON BROS (CONSTR.) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[Larry Thompson et Thompson Bros. (Constr.) Ltd. sont appelés collectivement les « appelants ».]
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] L’unique question à trancher relativement aux requêtes dont il est question est de savoir si l’intimée devrait être autorisée à modifier ses réponses afin d’invoquer des arguments supplémentaires, à savoir que les parts dans LTI Partnership (LTI) et CTR Partnership (CTR) étaient un abri fiscal en 2008 et en 2009, conformément à la définition qui en est donnée à l’article 237.1 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la Loi), et que Tim et John Hodgins étaient les promoteurs de l’abri fiscal.
+Exposé des faits
+[2] Larry Thompson (Larry) est un résident du Canada. Pendant toute la période pertinente, Larry était l’actionnaire majoritaire indirect d’un groupe de sociétés et de sociétés de personnes qui exerçait des activités dans le secteur de la construction et du terrassement et qui était connu sous le nom de « Thompson Bros. Construction » (le groupe de sociétés et de sociétés de personnes est désigné aux présentes par l’appellation « Thompson Group »).
+[3] Thompson Bros. (Constr.) Ltd. (TBCL) était une entité du Thompson Group.
+[4] LTI était une société en nom collectif formée entre Larry et TBCL. En 2008, LTI a ouvert un compte de titres auprès d’ODL Securities Limited (ODL) et a subi des pertes engendrées par des contrats à terme en devises étrangères. Ces pertes ont été imputées à Larry et à TBCL proportionnellement aux intérêts financiers qu’ils avaient injectés dans LTI et ont été déclarées dans leurs déclarations de revenus respectives pour 2008.
+[5] CTR était une société en nom collectif formée entre LTI, le Larry Thompson RCA Trust (le RCA Trust) et l’entreprise 1493311 Alberta Ltd. (l’entreprise 1493311) en octobre 2009. En 2009, CTR a ouvert un compte de titres auprès d’ODL et a subi des pertes engendrées par des contrats à terme en devises étrangères. Ces pertes ont été imputées à LTI, au RCA Trust et à l’entreprise 1493311 proportionnellement aux intérêts financiers qu’ils détenaient dans CTR. Puis, une portion des pertes allouées par CTR à LTI a été imputée aux associés de LTI, proportionnellement aux intérêts financiers qu’ils détenaient dans LTI. La perte qui en a découlé a été déclarée par Larry et TBCL dans leurs déclarations de revenus respectives pour 2009.
+[6] Le ministre du Revenu national (le ministre) a établi en mai 2012, pour les années d’imposition 2008 et 2009 de Larry et de TBCL, de nouvelles cotisations en conséquence desquelles les pertes réclamées relativement aux contrats à terme en devises étrangères conclus avec ODL leur étaient désormais refusées.
+[7] La nouvelle cotisation du ministre se résume ainsi :
+a) En réalité, LTI et CTR n’ont subi aucune perte pendant les années d’imposition 2008 et 2009 puisque les contrats à terme en devises étrangères étaient un subterfuge.
+b) Si LTI et CTR n’étaient pas un subterfuge, les revenus ou les pertes répartis entre LTI, CTR, Larry et TBCL allaient à l’encontre de toute logique.
+[8] Larry et TBCL ont déposé des avis d’objection vers le 13 août 2012, et les avis d’appel ont été déposés en juin 2014. Les réponses aux avis d’appel ont été déposées vers le 12 novembre 2014.
+[9] Par voir d’ordonnance datée du 30 mars 2015, la Cour a fixé les dates à respecter concernant les appels susmentionnés dans le cadre du présent litige (la première ordonnance).
+[10] Le 15 juillet 2015 et le 6 octobre 2015 respectivement, les listes de documents ont été signifiées au ministre et à Larry/TBCL, respectivement.
+[11] Les interrogatoires préalables concernant ces appels se sont tenus les 23 et 24 février 2016.
+[12] Par voie d’ordonnance datée du 9 août 2016, la Cour a modifié les dates à respecter concernant les appels susmentionnés dans le cadre du présent litige (la deuxième ordonnance).
+[13] Par voie d’ordonnance datée du 20 octobre 2016, les dates à respecter concernant les appels susmentionnés ont de nouveau été modifiées (la troisième ordonnance).
+[14] Par voie d’ordonnance datée du 20 mars 2017, les dates à respecter concernant les appels susmentionnés ont de nouveau été modifiées (la quatrième ordonnance).
+[15] Par voie d’ordonnance datée du 15 juin 2017, les dates à respecter concernant les appels susmentionnés ont de nouveau été modifiées (la cinquième ordonnance). La cinquième ordonnance fixait les dernières dates à respecter dans le cadre du présent litige concernant les interrogatoires préalables et, plus précisément, la date butoir pour les réponses de suivi, qui était le 31 janvier 2018. La cinquième ordonnance établissait également que l’intimée devait signifier la version provisoire de ses réponses modifiées au plus tard le 31 juillet 2017.
+[16] Le 31 juillet 2017, l’intimée a fait parvenir par courriel à l’avocat des appelants la version provisoire de sa réponse modifiée dans le cadre de l’un des appels, croyant que des modifications identiques, avec les adaptations nécessaires, s’appliqueraient aux réponses modifiées dans les trois autres appels.
+[17] Au moyen d’un courriel daté du 2 janvier 2018, les appelants ont avisé l’intimée qu’ils refusaient les modifications proposées aux réponses aux avis d’appel.
+Modifications aux réponses
+[18] Dans sa réponse modifiée à l’avis d’appel de Larry Thompson [2014-2398(IT)G], l’intimée indique qu’elle se fonde sur les faits additionnels qui suivent et ajoute la question suivante ainsi qu’un nouvel argument pour refuser la déduction des pertes :
+Faits
+a) ODL et Tim Hodgins et John Hodgins, que ce soit pour leur propre compte ou pour celui d’ODL, (collectivement, les promoteurs) ont mis de l’avant la vente de parts dans LTI et CTR.
+b) Des déclarations et des annonces ont été faites à l’appelant au sujet des parts de LTI qui démontraient que les pertes réalisées sur celles-ci sur une période de quatre ans excéderaient leur coût.
+c) Les montants qui ont été annoncés comme étant déductibles relativement aux parts dans LTI par l’appelant pour le calcul de son revenu, c’est-à-dire les pertes qui lui seraient attribuées par LTI dans les quatre années suivant la date à laquelle l’appelant a fait l’acquisition de ses parts, étaient supérieurs au prix payé pour ces parts. Plus précisément, les annonces démontraient qu’une perte avoisinant 70 millions de dollars serait imputée par la société de personnes LTI à ses associés pour un coût ne dépassant pas 505 000 $.
+d) Les promoteurs n’ont ni demandé ni obtenu un numéro d’inscription d’abri fiscal pour les parts dans LTI et CTR.
+e) Personne, pas même l’appelant, n’a présenté au ministre le formulaire prescrit dont il est fait mention au paragraphe 237.1(6) de la Loi contenant les renseignements requis, incluant le numéro d’inscription attribué à l’abri fiscal pour les parts dans LTI.
+Question en litige
+e) Il s’agit de déterminer si les parts dans LTI étaient un « abri fiscal » au sens où l’entend l’article 237.1 de la Loi et, le cas échéant, si le formulaire prescrit dont il est fait mention au paragraphe 237.1(6) de la Loi contenant les renseignements requis, incluant le numéro d’inscription attribué à l’abri fiscal, a été présenté au ministre par l’appelant ou une autre personne.
+Fondement
+e) Les parts dans LTI étaient un « abri fiscal » au sens où l’entend l’article 237.1 de la Loi et personne, pas même l’appelant, n’a présenté au ministre le formulaire prescrit dont il est fait mention au paragraphe 237.1(6) de la Loi contenant les renseignements requis, incluant le numéro d’inscription attribué à l’abri fiscal pour les parts dans LTI. Cela étant, aucune déduction n’est autorisée en application du paragraphe 237.1(6) concernant les parts dans LTI.
+[19] Les mêmes modifications ont été apportées aux réponses aux avis d’appel de Larry [2014-2399(IT)G] et de Thompson Bros. (Constr.) Ltd [2014-2393(IT)G et 2014-2395(IT)G], avec quelques adaptations mineures.
+Thèses des parties
+A. Les appelants
+[20] L’avocat pour les appelants a cité la décision rendue par la Cour d’appel fédérale dans l’arrêt O’Dwyer c. R., 2013 CAF 200, qui traite du contexte devant être présent au regard des déclarations et des annonces pour que les règles régissant les abris fiscaux énoncées à l’article 237.1 de la Loi s’appliquent. Au regard des pertes à imputer à un associé par une société de personnes, le juge Webb a déclaré que les exigences suivantes doivent être présentes pour les annonces :
+a) les déclarations doivent décrire le montant en pertes que l’acquéreur de l’intérêt dans la société de personnes sera en mesure de déduire dans le calcul de son revenu;
+b) lorsqu’il s’agit de pertes qui seront subies par la société de personnes, les annonces doivent être faites avant l’acquisition d’un bien;
+c) les annonces ont essentiellement pour but d’établir le montant en pertes que l’acquéreur éventuel pourra déduire dans le calcul du revenu au titre de ce bien en indiquant ce qui suit :
+(i) les pertes que devrait subir la société de personnes;
+(ii) les pertes subies par la société de personnes pourront être déduites dans le calcul du revenu de la société de personnes;
+(iii) le revenu anticipé de la société de personnes pour les périodes financières pertinentes;
+(iv) les pertes anticipées qui seront subies aux fins de la Loi;
+(v) si ces pertes pourront être déduites par les détenteurs des parts dans la société de personnes aux fins du calcul de leur revenu;
+d) les annonces doivent être faites au contribuable.
+[21] Au sujet des modifications plus précisément, l’avocat des appelants a cité l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) et le paragraphe 152(9) de la Loi.
+[22] L’article 54 des Règles autorise de façon générale la modification d’un acte de procédure au regard d’une question en particulier avant la clôture des actes de procédure en déposant le consentement de toutes les parties ou avec l’autorisation de la Cour. L’autorisation de modifier un acte de procédure est généralement accordée dans la mesure où cela ne cause à l’autre partie aucun préjudice qu’il serait impossible de réparer par l’octroi de dépens.
+[23] Le paragraphe 152(9) de la Loi prévoit que l’intimée peut avancer un nouvel argument en tout temps après l’expiration de la période normale de nouvelle cotisation à l’appui d’une cotisation actuelle ou d’une nouvelle cotisation, sauf s’il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal et qu’il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[24] L’avocat des appelants a également cité l’affaire Walsh c. Canada, 2007 CAF 222, dans laquelle la Cour d’appel fédérale établit un critère en trois volets qui doit être respecté pour que l’intimée soit autorisée à modifier ses actes de procédure afin d’y ajouter des arguments. Ce critère est le suivant :
+a) le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable;
+b) le droit du ministre de proposer un autre argument à l’appui d’une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable;
+c) le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au‑delà du délai prévu au paragraphe 152(4) ou pour percevoir un impôt dépassant le montant de la cotisation contestée.
+[25] Afin de déterminer si une modification causerait un préjudice à un contribuable, les facteurs suivants devraient être pris en considération d’après la décision rendue par la Cour canadienne de l’impôt dans l’affaire Continental Bank of Canada c. Canada, [1993] C.T.C. 2306, au paragraphe 23 :
+a) le moment auquel est présentée la requête visant la modification;
+b) la mesure dans laquelle les modifications proposées retarderaient l’instruction expéditive de l’affaire;
+c) la mesure dans laquelle la thèse adoptée à l’origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu’il serait difficile, voire impossible, de modifier;
+d) la mesure dans laquelle les modifications demandées faciliteront l’examen par la Cour du véritable fond du différend.
+[26] Pour déterminer si une demande de modification sera autorisée par la Cour, il faut donc examiner les modifications à la lumière de ces facteurs et se demander si les modifications proposées soulèvent une cause d’action valable, conformément à ce qui est énoncé au paragraphe 3 de la décision Loewen c. La Reine, 2007 CCI 703.
+[27] D’après l’avocat des appelants, l’intimée a tardé à déposer les modifications puisque les faits nécessaires pour déterminer si les sociétés de personnes CTR et LTI constituaient bel et bien des abris fiscaux lui étaient connus dès les premières étapes du litige, comme en témoigne l’interrogatoire préalable de M. Paul Stuart qui a eu lieu en février 2016. En effet, les questions posées par l’intimée démontrent que son avocate était au fait de l’argument relatif à l’abri fiscal avant même l’étape de l’interrogatoire préalable. L’avocat des appelants a présenté des extraits de l’interrogatoire préalable qui démontrent que l’avocate de l’intimée cherchait à obtenir des aveux ayant trait aux règles régissant les abris fiscaux. Autrement dit, l’intimée savait avant l’interrogatoire préalable de février 2016 que l’argument relatif à l’abri fiscal était susceptible de s’appliquer en l’espèce, mais elle a attendu que les interrogatoires préalables soient terminés et qu’il s’écoule près d’un an et demi avant d’entreprendre les démarches visant à modifier ses actes de procédure.
+[28] L’avocat des appelants estime que les modifications retarderont inutilement l’instruction étant donné que l’ajout de l’argument relatif à l’abri fiscal nécessitera de nouveaux interrogatoires préalables sur le fond et contraindra les appelants à chercher de nouveaux éléments de preuve qui n’existent peut-être pas pour contrer les allégations de l’intimée. Les transactions en cause dans les présents appels se sont déroulées il y a près de dix ans.
+[29] L’avocat des appelants fait également valoir que les modifications nécessiteront aussi que les appelants revoient complètement leurs thèses puisque, avant les modifications demandées le 31 juillet 2017, la principale thèse du ministre relative à la cotisation était que les contrats à terme en devises étrangères conclus avec ODL n’étaient qu’un [traduction] « subterfuge » et qu’aucun échange de titres n’avait été autorisé ou envisagé ou avait même eu lieu. Cela étant, les appelants se sont concentrés à toutes les étapes du litige à contrer cet argument, c’est-à-dire à démontrer que les transactions réalisées par ODL ont effectivement eu lieu et que les gains ou les pertes déclarés avaient en réalité été réalisés par LTI et CTR, qui les ont ensuite imputés à leurs associés respectifs, conformément aux modalités et conditions de leurs contrats de société. Si l’argument relatif à l’abri fiscal est autorisé, ils devront revoir entièrement leur ligne de défense, ce qui nécessitera le dépôt de tout nouveaux éléments de preuve, dont certains pourraient être difficiles à obtenir.
+[30] De l’avis de l’avocat des appelants, les modifications n’auront pas pour effet de renforcer le bien-fondé du litige, puisqu’il manque une hypothèse de fait primordiale pour conclure à l’existence d’un abri fiscal, soit qu’ODL, Tim ou John ont encouragé la vente de parts dans LTI ou CTR. Aucun élément de preuve n’a encore été présenté par l’intimée qui permet de conclure qu’ODL, Tim ou John ont eu quoi que ce soit à voir avec la création ou la restructuration de LTI ou CTR ou avec la vente de parts dans ces entités.
+[31] Enfin, l’avocat des appelants soutient que le refus des modifications serait conforme à la jurisprudence existante, citant plus précisément l’affaire Drouin c. La Reine, 2011 CCI 519 pour étayer son argument, qui, contrairement à la décision Loewen, précitée, énonce ce qui suit :
+a) la situation actuelle se distingue de l’affaire Loewen, puisque l’intimée disposait de toute la documentation nécessaire pour soulever l’argument relatif à l’abri fiscal avant l’établissement de la nouvelle cotisation et, de toute évidence, avant le dépôt de sa réponse;
+b) toutes les étapes préparatoires en vue de l’instruction des appels ont été franchies, c’est-à-dire que les interrogatoires préalables étaient terminés au moment où la requête en modification a été déposée;
+c) l’intimée savait depuis au moins deux ans que l’argument relatif à l’abri fiscal pouvait être soulevé.
+[32] En l’espèce, l’intimée a su très trop dans le processus de règlement du litige que l’argument relatif à l’abri fiscal pouvait être soulevé et, cherchant un avantage tactique, a délibérément choisi de retarder la requête en modification.
+B. L’intimée
+[33] L’avocate de l’intimée a souligné que le processus au regard des appels n’en est qu’à l’étape des questions de suivi à la suite des interrogatoires préalables et que la demande de modification des réponses découle en partie du témoignage donné par l’un des représentants des appelants, M. Paul Stuart, lors de son interrogatoire préalable tenu le 26 février 2016.
+[34] L’avocate de l’intimée cite l’article 54 des Règles et le paragraphe 152(9) de la Loi, qui s’appliquent selon elle à l’instance.
+[35] L’avocate de l’intimée cite la décision de la Cour d’appel fédérale dans l’affaire Canderel Ltée. c. Canada, 93 DTC 5357, où la Cour établit le critère à respecter pour autoriser la modification d’un acte de procédure. Ce critère est le suivant :
+[...] [l]a règle générale est qu’une modification devrait être autorisée à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer, et qu’elle serve les intérêts de la justice. (au paragraphe 10)
+[36] La Cour d’appel fédérale a affirmé que les facteurs suivants devraient être pris en considération pour déterminer s’il convient, dans un cas donné, d’autoriser une modification :
+a) le moment auquel est présentée la requête visant la modification;
+b) la mesure dans laquelle la thèse adoptée à l’origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu’il serait difficile, voire impossible, de modifier;
+c) la mesure dans laquelle les modifications demandées faciliteront l’examen par la Cour du véritable fond du différend.
+[37] L’avocate de l’intimée cite également à la décision Loewen, précitée, dans laquelle la Cour canadienne de l’impôt a conclu que les facteurs à prendre en compte pour autoriser une modification ont tous trait à l’équité, au sens commun et à l’intérêt de la justice. La Cour, dans cette affaire, était arrivée à la conclusion que le retard de deux ans n’avait causé aux appelants aucun préjudice compte tenu de l’étape à laquelle en était rendu le litige. Elle avait également conclu que l’autorisation des modifications permettrait d’examiner, à l’instruction, toutes les dispositions pertinentes.
+[38] La décision Loewen ayant été portée en appel, la Cour d’appel fédérale a tranché que le droit de Sa Majesté d’avancer un nouvel argument pour justifier l’établissement d’une cotisation est maintenant régi par le paragraphe 152(9) de la Loi. L’expiration du délai normalement prévu pour établir une nouvelle cotisation n’empêche pas Sa Majesté de défendre sa cotisation en invoquant quelque motif que ce soit, sous réserve uniquement des alinéas 152(9)a) et b), lesquels évoquent le préjudice que pourrait subir le contribuable si l’on permettait à Sa Majesté de formuler de nouvelles allégations factuelles de nombreuses années après les faits (2004 DTC 6321).
+[39] De l’avis de l’avocate de l’intimée, l’application du critère énoncé dans l’affaire Canderel, précitée, démontre hors de tout doute que tous les facteurs incitent à autoriser les modifications demandées par l’intimée pour les raisons suivantes :
+a) la requête en modification est présentée tôt dans le litige, puisque nous en sommes seulement à la fin des interrogatoires préalables dans le cadre des présents appels. Cela étant, aucune ligne de conduite n’a encore été prise qui serait difficile à modifier, et les appelants ne subissent aucune injustice qui ne saurait être réparée par l’octroi de dépens;
+b) les modifications proposées découlent en partie du témoignage donné par l’un des représentants des appelants à l’étape des interrogatoires préalables. Pour ces raisons, les modifications sont demandées à un bon moment dans le cadre du litige et suivent le déroulement naturel du processus de règlement;
+c) il ne fait aucun doute que les modifications aideront la Cour à faire en sorte que toutes les dispositions de la Loi susceptibles de s’appliquer lui sont présentées et l’aideront à examiner le véritable fond du litige.
+[40] L’avocate de l’intimée a ajouté que les exceptions prévues au paragraphe 152(9) ne s’appliquent pas et que les critères énoncés dans la décision Walsh sont respectés. Plus précisément, la sous-procureure générale, dans les modifications proposées, inclut des transactions qui ont été comptées dans les cotisations des appelants. Par ailleurs, les appelants n’ont pas démontré que les préjudices énoncés aux alinéas 152(9)a) et b) s’appliquent dans leur cas, comme ils n’ont pas démontré l’existence d’éléments de preuve pertinents qu’ils ne sont plus en mesure de produire sans l’autorisation du tribunal. Enfin, les modifications proposées n’ont pas pour effet d’augmenter le montant d’impôt établi dans la nouvelle cotisation.
+[41] La requête de l’intimée afin de faire modifier ses actes de procédure est présentée au bon moment, soit immédiatement après les interrogatoires préalables ayant mis les faits en lumière pour la Couronne. Lors des interrogatoires préalables, l’intimée cherchait à approfondir sa connaissance de l’affaire et était à la recherche des faits. Or, il s’agit là de l’objet principal d’un interrogatoire préalable, et l’avocat des appelants n’a à aucun moment soulevé d’objection.
+[42] L’avocate de l’intimée a fait valoir que la présente instance se distinguait de l’affaire Drouin, précitée, parce que la question de l’abri fiscal dans cette affaire avait été prise en considération par le ministre du Revenu national au moment d’établir la cotisation du contribuable. La vérificatrice de l’impôt avait soulevé la question, mais le sous-procureur général du Canada, pour des raisons que l’on ignore, avait choisi de la laisser de côté lors de la présentation de son argumentation devant la Cour. La question a finalement été soulevée moins de trois mois avant l’instruction de l’affaire et plus de deux ans après que l’intimée a été mise au courant de l’argument. Les circonstances entourant la présente requête diffèrent de celles de la décision Drouin parce qu’en l’espèce, les faits à l’origine de l’argument relatif à l’abri fiscal ont été mis au jour lors des interrogatoires préalables. Or, la question est directement liée au fond du litige, et il s’agit de l’une des raisons les plus fondamentales et les plus couramment citées par une partie pour demander la modification de ses actes de procédure.
+Cadre législatif
+[43] La disposition pertinente des Règles qui s’applique à la présente instance est l’article 54, libellé ainsi :
+Une partie peut modifier son acte de procédure, en tout temps avant la clôture des actes de procédure, et subséquemment en déposant le consentement de toutes les autres parties, ou avec l’autorisation de la Cour, et la Cour en accordant l’autorisation peut imposer les conditions qui lui paraissent appropriées.
+[44] Les dispositions de la Loi qui sont pertinentes pour se prononcer sur cette requête sont le paragraphe 152(9) et l’article 237.1 (qui définit « abri fiscal »).
+[45] Le paragraphe 152(9) a été modifié le 21 octobre 2016. Comme le paragraphe 152(9) modifié ne s’applique pas aux appels interjetés avant le 21 octobre 2016, les dispositions législatives qui régissent la présente affaire sont la version antérieure du paragraphe 152(9), qui était ainsi libellée :
+Le ministre peut avancer un nouvel argument à l’appui d’une cotisation après l’expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d’une part, il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal;
+b) d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[46] La définition d’« abri fiscal » en 2008 et 2009 était la suivante :
+Les définitions qui suivent s’appliquent au présent article.
+a) « abri fiscal » [s’entend de tout] bien [...] pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement au bien, que, si une personne devait acquérir une part dans le bien, le montant visé [...] serait, à la fin d’une année d’imposition qui se termine dans les quatre ans suivant le jour où [la part a été acquise],
+a) (i) le total des montants représentant chacun :
+(A) [...] une perte qui est annoncé[e] comme étant déductible dans le calcul du revenu de la personne pour l’année ou pour une année d’imposition antérieure au titre [...] de la part dans le bien [...],
+(B) un autre montant qui est déclaré ou annoncé [...] comme étant déductible dans le calcul [des] revenu, revenu imposable ou impôt payable [...] pour l’année ou pour une année d’imposition antérieure au titre [...] de la part dans le bien, à l’exclusion d’un montant ainsi déclaré ou annoncé qui est inclus dans le calcul d’une perte visée à la division (A),
+(ii) l’excédent
+b) éventuel du montant visé à la division (A) sur le total visé à la division (B) :
+(A) le coût, pour la personne, du bien acquis aux termes [...] de la part dans le bien à la fin de l’année [...],
+(B)
+la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre du bien acquis aux termes de l’arrangement ou au titre de la part dans le bien.
+Analyse et conclusion
+[47] Au vu des faits et des circonstances de l’espèce, j’arrive à la conclusion que la réponse modifiée proposée dans chacun des appels satisfait aux critères énoncés à l’article 54 des Règles ainsi qu’au paragraphe 152(9) de la Loi et que les requêtes en modification n’auraient pu être présentées plus tôt, si l’on considère que l’ordonnance de la Cour datée du 15 juin 2017 demandait à l’intimée de signifier la version provisoire de ses réponses modifiées au plus tard le 31 juillet 2017.
+[48] Dans les présents appels, les facteurs énoncés dans l’affaire Canderel, précitée, incitent tous à autoriser les modifications demandées par l’intimée. Les requêtes en modification ont été présentées tôt dans le processus du litige, à savoir à l’issue des interrogatoires préalables, et les modifications proposées découlent en partie du témoignage donné par l’un des représentants des appelants pendant son interrogatoire préalable. Il ne fait aucun doute que les modifications proposées aideront la Cour à s’assurer que toutes les dispositions applicables de la Loi sont prises en considération et faciliteront son examen du véritable fond du différend. Les modifications proposées ne feront pas subir aux appelants une injustice qui ne saurait être réparée par l’octroi de dépens. D’ailleurs, aucune allégation à cet effet n’a été formulée par l’avocat des appelants.
+[49] En outre, les critères énoncés dans la décision Walsh, précitée, concernant les conditions du paragraphe 152(9) sont également respectés, puisque l’intimée ne cherche pas à faire établir une nouvelle cotisation concernant les appelants, à recouvrer un montant plus élevé au titre de l’impôt que celui déjà établi dans la nouvelle cotisation pendant la période normale de nouvelle cotisation, ou à inclure dans son argumentation d’autres transactions que celles déjà prises en compte pour l’établissement des nouvelles cotisations. La condition énoncée aux alinéas a) et b) du paragraphe 152(9) de la Loi n’est pas pertinente à l’affaire, puisque les appelants n’ont pas démontré, à l’aide d’affidavits ou par un autre moyen, qu’ils subiraient l’un ou l’autre des préjudices qui y sont indiqués.
+[50] Certes, les appelants ont avancé qu’ils pourraient avoir besoin de nouveaux éléments qu’ils ne sont plus en mesure de produire à ce stade-ci des procédures et que les modifications proposées se traduiront par une augmentation marquée de leurs dépenses et retarderont inévitablement l’instruction des appels. Je ne suis toutefois pas prêt à dire que ces désagréments empêcheront les appelants d’obtenir une décision équitable et rapide relativement à leurs appels.
+[51] À cette étape-ci, je ne crois pas devoir me prononcer sur le bien-fondé des modifications proposées.
+[52] Pour tous ces motifs, les requêtes sont accueillies avec dépens. Par conséquent, l’intimée est autorisée à déposer une réponse modifiée dans chacun des appels en remplissant le formulaire joint aux avis de requête. Les réponses modifiées doivent être déposées et signifiées au plus tard le 28 septembre 2018. L’intimée a droit à un seul mémoire de frais pour l’audition de ces requêtes, à diviser en parts égales entre les deux appelants.
+Signé à Ottawa, Canada, ce 29e jour d’août 2018.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2018 CCI 167
+NOS DES DOSSIERS DE LA COUR :
+2014-2398(IT)G, 2014-2399(IT)G
+2014-2393(IT)G, 2014-2395(IT)G
+INTITULÉS :
+Larry Thompson c. Sa Majesté la Reine
+Thompson Bros (Constr.) Ltd. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 avril 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Réal Favreau
+DATE DE L’ORDONNANCE :
+Le 29 août 2018
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Robert Neilson
+Avocat de l’intimée :
+Me Jasmine Sidhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Robert Neilson
+Cabinet :
+Felesky Flynn LLP
+Edmonton (Alberta)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

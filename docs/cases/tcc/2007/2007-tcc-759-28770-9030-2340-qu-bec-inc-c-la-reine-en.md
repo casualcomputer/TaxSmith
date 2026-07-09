@@ -1,0 +1,456 @@
+---
+title: "9030-2340 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28770/index.do"
+last_modified: "2007-11-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 759"
+citation2: ""
+neutral_citation: "2007 TCC 759"
+decision_date: "2007-11-06"
+language: "en"
+item_id: "28770"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1557
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:34:40.669000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47e9de3b0dd4978b9d26571eed002941ef57ba1d551cefc14b3a29d07a46dda3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9030-2340 Québec Inc. c. La Reine
+
+- Citation: 2007 TCC 759
+- Decision date: 2007-11-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1557, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9030-2340 Québec Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-06
+Neutral citation
+2007 TCC 759
+File numbers
+2004-1580(GST)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1580(GST)G
+BETWEEN:
+9030-2340 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 5 and 6, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Tetiana Gerych
+Counsel for the Respondent:
+Denis Edmond
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated March 9, 2001, and bears number PA00S0000266, for the period from April 19, 1999 to April 30, 2000 is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of December 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of June 2008.
+Erich Klein, Revisor
+Citation: 2007TCC759
+Date: 20071220
+Docket: 2004-1580(GST)G
+BETWEEN:
+9030-2340 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from a reassessment made for the period from April 19, 1999 to April 30, 2000, under the Excise Tax Act (the Act). The notice of reassessment is dated March 9, 2001, and bears number PA00S0000266.
+[2] The issues concern the determination of the amount of taxable supplies of the appellant from its restaurant and the assessment of the penalty under section 280 of the Act.
+[3] Mr. Stavropoulos, the principal shareholder of the appellant, testified. He explained that, at the time, he was the appellant's operations manager. The appellant operated a restaurant called Le Jardin d’Aphrodite. This 175-seat restaurant offered buffet meals at noon and in the evening. The prices varied depending on whether it was noon or evening or a weekday or weekend.
+[4] Mr. Stavropoulos' partner, Emmanuel Bitsakis, was in charge of accounting. He did not testify. There is apparently at present a disagreement between the two.
+[5] The witness admitted that there was no cash register. He explained that, at the beginning of their shift, the waitresses had a certain amount of money and their order pads. When the bill was paid in cash, they took the money and handed it over. For bills paid by credit card, they used credit card machines. At the end of their shifts, the waitresses themselves added up the total bills, or the take. They put the bills in an envelope with the money and the calculator ribbon.
+[6] Mr. Stavropoulos’ partner, Mr. Bitsakis, made the deposits. There was an accountant who came once a month.
+[7] The witness described certain facts in order to show that the alcohol purchased was not all sold to patrons and that there were significant losses. He stated that, at the end of a workday, he might invite the employees who were there to have some wine with him. There might be breakage of bottles or 20-litre containers. When he could not hold reservations for patrons he sometimes offered them a glass of wine. Sometimes as well he offered patrons a digestif to please them and encourage them to return. With regard to the wine used in the kitchen, he said that at least two 20-litre containers went into the preparation of meals each week.
+[8] The waitresses themselves filled the carafes and wine glasses at one of the two bars.
+[9] At the end of the day, any food that was still good was sent to charities.
+[10] A cook, François Parent, testified that he had worked at the restaurant since 1999. He stated that at least 35 or 40 litres of wine were used in the kitchen every week.
+[11] Annie Perrault is also a cook but is in charge of the buffet staff as well. She confirmed that Mr. Stavropoulos would sometimes offer patrons wine and spirits at the end of the day.
+[12] Nathalie Masse is a waitress. She stated that they always put a little extra wine in the carafes. For example, 1100 millilitres were poured into the one-litre carafes, 600 millilitres into the 500-millilitre carafes and 230 millilitres into the glasses.
+[13] Maurice Mailloux is a tax accountant. He testified as an expert. The important elements in his analysis were two tables. In fact, he used the tables prepared by the auditor and modified them. One table is entitled [TRANSLATION] "Calculation of Sales and Taxes Owing" for the period from April 19, 1999 to March 31, 2000, and the other bears the same title except that it is for the period from April 1 to 30, 2000. Sales and taxes owing were calculated for those two periods because, according to the auditor, at the time of the audit the appellant had not yet decided on its fiscal year.
+[14] I believe that it is essential to the understanding of this case to reproduce the auditor's tables and the corrections made to them by the expert. I will show the corrections in parentheses and in bold. (See Tables 1 and 2, attached hereto.)
+[15] Since the accounting was flawed, the auditor used a survey method. The bookkeeping was more or less non-existent; there was no cash register and no date on the bills; a number of bills were missing and there were errors in the financial statements.
+[16] The auditor first determined the amounts for purchases of beer, wine and spirits using information from the third-party suppliers, namely, brewers and the SAQ, as well as from the appellant's accounts. These purchases were determined by quantity or in dollars. The auditor then established, by means of a survey based on 7,200 bills, average wine sales in relation to food sales. This proportion was 8.25%. From the cost of the wine, she deducted the wine used in the kitchen. She marked up the remaining wine and allowed a percentage for breakage. The resulting figure was considered to represent 8.25% of sales.
+[17] The appellant does not dispute the amount of the purchases. It does challenge the allowance for breakage or other losses and for the volume of wine used in the kitchen; nor does it challenge the mark-up on spirits. On the tables attached hereto, the figures proposed by the appellant’s expert are shown in parentheses and in bold.
+[18] At the hearing there was some discussion on the use of the proportion of alcohol purchased as opposed to the proportion of wine purchased to determine the sales of meals. The auditor explained that she took the percentage of wine because she found this proportion more advantageous for the taxpayer. The proportion of 8.25% (wine) gave $1,733,000 while the 14.07% rate (alcohol) gave $1,794,000. If I understood correctly in the end, there were no longer any submissions being made by the appellant in that respect.
+[19] As the tables show, the first two kinds of sales — of bottled beer and imported beer — were not changed.
+[20] With respect to the next three types of sales — draft beer (glasses), draft beer (half pitchers) and draft beer (pitchers) — the expert changed the amount allowed for breakage or loss from 5% to 10%.
+[21] The auditor explained that she reduced the mark-up determined by the survey, after discussion with Mr. Bitsakis, to take into account a promotional scheme that the appellant said it had put in place at the beginning of its operations. The price for draft beer by the glass was lowered from $2.94 to $2.49, a half-pitcher went from $6.95 to $5.91 and a pitcher from $12.95 to $10.97. According to the auditor, it is therefore not necessary to increase the allowance for breakage since the mark-up has been lowered.
+[22] She admitted at the hearing that now, in light of the case law, the allowance for breakage and loss is set at 8%.
+[23] Taking the statements of wine purchases prepared by the auditor, at the hearing the expert arrived at a unit figure per 20-litre container of wine of $119. The auditor had arrived at a figure of $110. However, there was, at the hearing, no explanation of how the unit price had been determined.
+[24] The expert took 1.75 20-litre containers per week as the quantity of wine used in the kitchen. Since the unit price was changed somewhat at the hearing, the total wine used in the kitchen, in Table 1, would be $10,412.50 and not $10,671.50. The amount indicated by the auditor is $8,250. The auditor had allowed 1.5 20-litre containers at a cost of $110 per container.
+[25] For Table 2, the expert assigned an amount for wine based on his percentage and the unit price.
+[26] The expert proposed a rate of 10% for breakage and loss. The auditor explained that the 219.25% mark-up for the wine was originally 243.57%. She took into account the promotional scheme described by the appellant, a scheme for the existence of which she ultimately never had any evidence. Thus, for the one-month period in Table 2, for which she did not allow anything, the mark-up was in fact 243%.
+[27] With regard to spirits, the expert, relying on an ambiguous note by the auditor to the effect that she had not marked up the spirits, indicated "zero" as the mark-up. The auditor explained what she meant in saying in her report that she had not marked up spirits. She explained that, according to her survey, the mark-up would have been about 400%, but since the volume of spirits was not very great, she accepted the 350% the mark-up indicated by the taxpayer.
+[28] Therefore, in his report, the expert put "zero" as the mark-up for spirits on the two Tables. Furthermore, he replaced the 3% allowance for loss with an allowance of 10%.
+Analysis and conclusion
+[29] I must say at the outset that what the expert witness said in this last regard discredits his report and betrays a misunderstanding of the role of an expert witness in a court of law. An expert must, as far as possible, be an objective and impartial witness because he must enlighten the court with regard to the interpretation of the facts in his area of expertise. The expert based the zero mark-up on an ambiguous comment by the auditor. He should have established the mark-up on the basis of what was done at the restaurant or the mark-up shown on the bills. It is clear that the appellant is in business and does not sell spirits at cost.
+[30] I shall now decide each of the points at issue, beginning with the allowance rates.
+[31] Counsel for the appellant referred to the decision of the Court of Québec in Restaurant Barolo Inc. c. Québec (Sous‑ministre du Revenu), 2007 QCCQ 316, and, in particular, to paragraph 38 of that decision:
+[translation]
+38 In the case at bar, the Court accepts the testimony of Roony Messina, the plaintiff's accountant, that "standard" losses in the restaurant business are on the order of 5% to 8%, which testimony is corroborated by Madeleine Lemire, CA, who has a master's degree in taxation. Ms. Lemire's testimony, supported by an expert's report, was that the method used in California and, in particular, by the State Board in its examinations and its audit manual, permitted an 8% allowance with respect to wine to take account of losses generally, including kitchen use, staff use, gifts to patrons and losses of all kinds.
+[32] According to that decision, an 8% allowance can be used for losses generally, including kitchen use, staff use, gifts to patrons and losses of all kinds. The auditor stated at the hearing that this percentage is the one now used in audits. I find the Barolo decision to be well-founded.
+[33] With respect to Table 1, the auditor has already reduced the mark-up for the various kinds of sales so as to take the promotional schemes into account. There was no conclusive evidence of these schemes. I therefore see no reason to increase the allowance rates. For Table 2, the rate should be 8% for each type of sales, since the use of wine in the kitchen, gifts to patrons and other losses were not taken into account by the auditor in the preparation of this Table.
+[34] What of the proportion of the wine shown in Table 1 that was used in the kitchen? One witness, who had been a cook for a long time, told the Court that 35 to 40 litres of wine were used each week. I therefore accept the proportion proposed by the appellant's expert, namely, 1.75 20-litre containers of wine per week, and I also accept his unit price of $119. Hence, the total amount of wine, which is $78,377.15 in Table 1, should be reduced by $10,452.
+[35] The sales of wine thus determined will be 8.25% of total sales.
+[36] With regard to spirits, the mark-up proposed by the auditor is accepted.
+[37] Concerning the assessment of the penalty under section 280 of the Act, there is really no reason to cancel it. The bookkeeping was such that the Minister of National Revenue could not rely on it to establish the amount of taxable supplies. There is no evidence of due diligence in the circumstances of this case.
+[38] The appeal is allowed, without costs, to the extent indicated above.
+Signed at Ottawa, Canada, this 20th day of December 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of June 2008.
+Erich Klein, Revisor
+TABLE 1
+9030‑2340 Québec Inc.
+Jardin d'Aphrodite
+CALCULATION OF SALES AND TAXES OWING
+PERIOD: 99-04-19 to 00-03-31
+TYPES OF SALES
+PURCHASES
+by Qty or in $$
+SALE in $
+OR
+% MARK-UP
+RECONSTITUTED
+SALES
+% ALLOWANCE
+SALES ESTABLISHED
+G.S.T.
+P.S.T.
+RATE
+TAXES OWING
+RATE
+TAXES OWING
+Bottled beers
+inventory:
+960 bottles
+15,768
+$3.25
+$51,246.00
+3%
+$49,708.62
+7%
+$3,479.60
+7.5%
+$3,989.12
+Imported beer
+(brewers & SAQ)
+1,440
+$4.17
+$6,004.80
+3%
+$5,824.66
+7%
+$407.73
+7.5%
+$467.43$
+Draft beer (glasses)
+Inventory: 480
+9,122
+$2.49
+$22,713.53
+(10%)
+5%
+($20,442.40)
+$21,577.85
+7%
+$1,510.45
+7.5%
+$1,731.62
+Draft beer (half-pitcher)
+Inventory: 37
+705
+$5.91
+$4,165.96
+(10%)
+5%
+($3,749.90)
+$3,957.66
+7%
+$277.04
+7.5%
+$317.60
+Draft beer (pitcher)
+Inventory: 66
+1 250
+$10.97
+($13,712.50 )
+$13,714.69
+(10%)
+5%
+($12,341.25)
+$13,028.96
+7%
+$912.03
+7.5%
+$1,045.57
+Wines ($78,377.15)
+Kitchen wine: $8,250
+Inventory: $2,828.40
+Spirits
+Inventory: $238.75
+($64,877.25)
+$67,298.75
+$5,355.63
+219.25%
+(0.00)
+350.00%
+($142,243.37)
+$147,552.51
+($5,355.63)
+$18,744.71
+(10%)
+5%
+(10%)
+3%
+($128,019.03)
+$140,174.88
+($4,820.07)
+$18,182.36
+7%
+7%
+$9,812.24
+$1,272.77
+7.5%
+7.5%
+$11,249.03
+$1,459.13
+Reconstituted meals
+$1,558,914.62
+$1,558, 914.62
+(10%)
+5%
+($1,101,807.16)
+$1,480,968.89
+7%
+$103,667.82
+7.5%
+$118,847.75
+TOTAL
+$1, 326,713.09
+$1,733,423.89
+$121,339.67
+$139,107.27
+G.S.T.DECLARED
+Q.S.T. DECLARED
+$88,976.75
+$102,005.96
+SALES ON FINANCIAL STATEMENTS
+$1,271,102.35
+$462,321.54
+$32,362.92
+$37,101.31
+WINE
+36.37%
+36.37%
+36.37%
+RECONSTITUTED ALCOHOL SALES
+(according to purchases)
+$140,174.88
+% of wine sales (see survey)
+Total sales according to audit
+8.25%
+$1,699,089.50
+Reconstituted sales of alcohol
+Total sales of meals
+$140,174.88
+$1,558,914.62
+TABLE 2
+9030‑2340 Québec Inc.
+Jardin d'Aphrodite
+CALCULATION OF SALES AND TAXES OWING
+PERIOD: 00-04-01 to 00-04-30
+TYPES OF SALES
+PURCHASES
+by Qty or in $$
+SALES in $
+OR % MARK-UP
+RECONSTITUTED SALES
+% ALLOW-
+ANCE
+SALES ESTABLISHED
+G.S.T.
+Q.S.T.
+RATE
+TAXES OWING
+RATE
+TAXES OWING
+Bottled beer
+1,392
+$3.25
+$4,524.00
+3%
+$4,388.28
+7%
+$307.18
+7.5%
+$352.16
+Imported beer
+(brewers & SAQ)
+120
+$4.17
+$500.40
+3%
+$485.39
+7%
+$33.98
+7.5%
+$38.95
+Draft beer (glasses)
+1,084
+$2.94
+$3,186.96
+(10%)
+5%
+$3,027.61
+7%
+$211.93
+7.5%
+$242.97
+Draft beer (half-pitcher)
+84
+$6.95
+$583.80
+(10%)
+5%
+$554.61
+7%
+$38.82
+7.5%
+$44.51
+Draft beer (pitcher)
+149
+$12.95
+$1,929.55
+(10%)
+5%
+$1,833.07
+7%
+$128.32
+7.5%
+$147.10
+Wines ($853.72)
+$3,755.02
+243.57%
+$9,146.10
+(10%)
+5%
+$8,688.80
+7%
+$608.22
+7.5%
+$697.28
+Spirits
+$208.03
+(0.00)
+350.00%
+$728.11
+(10%)
+3%
+$706.26
+7%
+$49.44
+7.5%
+$56.68
+Reconstituted meals
+$96,629.96
+$96,629.96
+5%
+$91,798.46
+7%
+$6,425.89
+7.5%
+$7,366.83
+TOTAL
+$111,482.48
+$7,803.77
+$8,946.47
+$95,870.15
+$109,971.58
+G.S.T. DECLARED
+Q.S.T. DECLARED
+$6,893.40
+$7,965.62
+SALES ON FINANCIAL STATEMENTS
+$98,477.14
+$13,005.34
+$910.37
+$980.85
+WINE
+13.21%
+13.21%
+12.31%
+RECONSTITUTED ALCOHOL SALES
+(according to purchases)
+$8,688.80
+% of wine sales (see survey)
+Total sales according to audit
+Reconstituted sales of alcohol
+Total sales of meals
+8.25%
+$105,318.75
+$8,688.80
+$96,629.96
+CITATION: 2007TCC759
+COURT FILE NO.: 2004-1580(GST)G
+STYLE OF CAUSE: 9030-2340 QUÉBEC INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 5 and 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: December 20, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Tetiana Gerych
+Counsel for the Respondent:
+Denis Edmond
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Tetiana Gerych
+Firm: Phillips Friedman Kotler
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

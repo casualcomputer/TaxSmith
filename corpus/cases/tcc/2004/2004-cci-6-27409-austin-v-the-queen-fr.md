@@ -1,0 +1,130 @@
+---
+title: "Austin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27409/index.do"
+last_modified: "2004-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 6"
+citation2: ""
+neutral_citation: "2004 CCI 6"
+decision_date: "2004-01-15"
+language: "fr"
+item_id: "27409"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 231
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:06:22.715000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f17192c4cac6efecb38f5e1ea6c6d985a256bbbe3a9c145b091602bc4bae26c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Austin v. The Queen
+
+- Citation: 2004 CCI 6
+- Decision date: 2004-01-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 231, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Austin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-15
+Référence neutre
+2004 CCI 6
+Numéro de dossier
+2000-5077(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-5077(IT)G
+ENTRE :
+KENT AUSTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 4 décembre 2003 et jugement rendu oralement
+le 5 décembre 2003 à Toronto (Ontario)
+par l'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelant :
+Me Thomas McRae
+Avocates de l'intimée :
+Me Andrea Jackett et
+Me Lorraine Edinboro
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations fiscales établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1995 et 1996 sont admis, avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations au motif que la répartition du revenu que l'appelant a gagné aux États-Unis d'Amérique sera déterminée par match pour les années d'imposition 1994 et 1995. En outre, avec le consentement des parties, la gratification à la signature du contrat reçue par l'appelant pendant l'année d'imposition 1996 est imposable au taux de 15 p. 100.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2004CCI6
+Date : 20040115
+Dossier : 2000-5077(IT)G
+ENTRE :
+KENT AUSTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocat de l'appelant : Me Thomas McRae Avocates de l'intimée : Me Andrea Jackett et Me Lorraine Edinboro
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Toronto (Ontario), le 5 décembre 2003.)
+Le juge McArthur
+[1] L'appelant était joueur de football dans la LCF (Ligue canadienne de football) et ne résidait pas au Canada pendant les années d'imposition 1994 et 1995. Sur consentement, l'appel interjeté à l'encontre de l'année d'imposition 1996 est admis. La seule question en litige consiste à savoir si le revenu des É.-U. de l'appelant en 1994 et en 1995 est calculable par jour, tel que le propose le ministre du Revenu national, ou par match, tel que l'affirme l'appelant.
+[2] Dans l'ensemble, les faits ne sont pas en litige. L'appelant a joué au poste de quart dans plusieurs équipes de la LCF de 1987 à 1996 inclusivement. Il a reçu un revenu d'emploi des Lions de la C.-B. d'un montant de 411 640 $ en 1994 et un montant de 104 697 $ en 1995, pendant qu'il jouait pour les Argonauts de Toronto. Y compris les camps d'entraînement d'avant-saison, l'appelant a été employé du 1er juin au 17 novembre pendant 180 jours en 1994, et du 1er juin au 27 octobre pendant 149 jours en 1995. Au cours de ces années, il a joué aux États-Unis trois matches en 1994 et quatre matches en 1995, pendant qu'il était avec les Lions et les Argonauts, respectivement. Les matches interdivisions avec les équipes des É.-U. ne se font plus dans la LCF.
+[3] L'intimée soutient que le revenu d'emploi de 1994 de l'appelant devrait être calculé tel que la cotisation a été établie, selon le rapport suivant : six jours sur 180 au salaire de 411 460 $; et en 1995, huit jours sur 149 au salaire de 104 697 $. L'intimée a réparti le revenu sur six et huit jours en 1994 et en 1995 respectivement, pour les périodes où l'appelant se trouvait aux É.-U. tout en jouant pour les Lions et les Argonauts.
+[4] La position de l'appelant consiste en ce que le revenu d'emploi gagné au Canada et aux É.-U. devrait être calculé selon le rapport des matches joués au Canada et aux É.-U. pour tenir compte du nombre exact de matches joués au Canada et aux É.-U. pendant la saison, par opposition au nombre total de matches dans l'exercice des fonctions de l'athlète. Le différend se résume manifestement à savoir laquelle des deux fractions ou équations il faut utiliser, la méthode du temps ou celle des gains.
+[5] J'accepte la position de l'appelant voulant que les jours d'emploi pendant lesquels il se trouvait aux É.-U. devraient être de trois jours par match, soit neuf jours en 1994 et 12 jours en 1995, bien que cela modifie très peu le résultat final. Le salaire de base prévu dans le contrat de l'appelant avec les Lions de C.-B. lui assurait une indemnisation pour les matches et pour les présentations.
+[6] La position traditionnellement adoptée par le ministre concernant les athlètes non résidents qui fournissent des services au Canada est que le montant de la rémunération imputable au Canada correspond au temps passé au Canada, la formule étant le nombre de jours de présence au Canada pendant la saison de l'équipe, multiplié par le nombre de jours de revenu d'emploi pendant la saison de l'équipe. Cela s'applique particulièrement au hockey et à des sports autres que le football canadien.
+[7] Premièrement, je trouve, comme l'appelant, que le présent appel est une anomalie puisque la LCF ne joue plus aux É.-U. Deuxièmement, le contrat de la LCF que doivent signer les joueurs est différent de ceux de la plupart des autres sports du fait de sa partialité envers les clubs. Cela se doit, je crois, au manque de fonds général de la ligue. Les paragraphes 3, 10 et 11 du contrat de la LCF déposé en preuve sont ainsi rédigés :
+[traduction]
+3. En échange des services du joueur en tant que joueur de football qualifié pendant la durée du présent contrat, de son consentement à ne pas jouer au football ni à se livrer à des activités liées au football pour le compte de toute autre personne, entreprise, organisation ou compagnie pendant la durée du présent contrat, de l'option ci-après donnant au Club le droit de reconduire le présent contrat et des autres engagements ci-inclus du joueur, le Club promet de verser au joueur la somme de 427 500 $CAN, payable de la façon suivante : la totalité de ladite somme divisée en dix-huit (18) versements égaux payés au joueur dans les quarante-huit (48) heures suivant chaque match régulier, chaque fois que le calendrier du Club le permettra. Il est entendu entre les parties aux présentes que le paiement à verser au joueur par le Club pour les parties éliminatoires de la Ligue sera effectué tel qu'il est prévu ci-après.
+10. Le Club aura le droit de résilier le présent contrat sur préavis présenté au joueur si, selon l'entraîneur en chef et/ou le directeur général, a) le joueur ne réussit pas, à tout moment pendant la durée du présent contrat, à faire preuve d'aptitudes et de compétences suffisantes pour se maintenir au calibre requis par le Club, b) le travail ou le comportement du joueur dans l'exécution du présent contrat se révèle peu satisfaisant, c) il existe une limite au nombre permis dans une certaine classe de joueurs et que le joueur, faisant partie de cette classe, ne devrait pas être inclus au nombre permis ou d) la résiliation du présent contrat répond à l'intérêt supérieur du Club en ce qui concerne la compétitivité du Club dans son ensemble ou la formation d'une équipe constituée des meilleurs effectifs possible. Les deux parties conviennent que l'entraîneur en chef et/ou le directeur général du Club, le cas échéant, sera ou seront seuls juges de la compétence et du caractère satisfaisant du joueur et de ses services, en particulier en ce qui concerne les critères présentés aux sous-paragraphes a) à d) du présent paragraphe.
+11. Advenant la résiliation du présent contrat au cours de la saison de football, le joueur n'aura le droit de recevoir, et le Club ne sera tenu de payer au joueur en compensation des services rendus jusqu'alors en vertu des présentes, que la part de la compensation totale de la saison régulière qui est prévue au paragraphe 3 des présentes; puisque le nombre de matches réguliers déjà joués est lié au nombre total de matches prévus au calendrier du Club pour cette saison, advenant une telle résiliation, le Club paiera au joueur le solde de ladite compensation alors due au joueur. La résiliation du présent contrat n'entrera en vigueur que si elle répond aux conditions stipulées dans la Convention collective.
+[8] Ni l'article XV de la Convention Canada-États-Unis en matière d'impôts (1980) ni le sous-alinéa 115(1)a)(i) de la Loi de l'impôt sur le revenu ne fournit beaucoup d'information sur la répartition. Pour obtenir gain de cause, l'appelant doit établir que son approche était plus raisonnable ou appropriée que celle du ministre.
+[9] La position de l'appelant peut se distinguer des décisions invoquées par l'intimée. Le contrat de l'appelant stipulait que ce dernier serait payé seulement pour les matches joués, à moins qu'il ne joue pas à cause d'une blessure reçue pendant un match. Le contrat n'offrait aucune garantie de paiement, ce qui est la norme au hockey, au baseball et dans d'autres sports. J'accepte le témoignage de l'appelant à cet égard. Je ne crois pas que la manière dont le ministre a réparti le revenu de six et de huit jours sur 147 et 180 jours respectivement soit réaliste ou raisonnable parce que l'appelant n'a été payé que pour les matches qu'il a joués, avec les exceptions mentionnées. Il a reçu un montant symbolique d'environ 400 $ par semaine pendant la période d'entraînement, pour lequel je me reporte à la pièce A-3. Son montant du paiement par match surpasse largement le paiement des services, lequel demeure négligeable par comparaison. Il n'est pas raisonnable d'utiliser, comme le ministre, le rapport des jours de présence au Canada contre les jours de présence aux É.-U. Bien que la méthode de l'appelant comporte manifestement des défauts, je conclus qu'elle est plus raisonnable et plus proche de la réalité que celle du ministre.
+[10] La paie de l'appelant était divisée en 18 parties, une pour chaque match, et, comme il l'a déclaré, s'il était exclu ou qu'il ne participait pas à un match pour d'autres raisons qu'une blessure, il n'était pas payé. Il n'y avait pas de paiement garanti comme il était prévu dans les décisions concernant des joueurs de hockey auxquelles nous renvoie l'intimée.
+[11] L'appelant est soumis à l'impôt en vertu de l'article 115 de la Loi quant au revenu imposable gagné au Canada. Il a joué 15 matches sur 18 au Canada en 1994. Son revenu canadien pour 1994 et 1995 doit être calculé par match, soit 15 matches sur 18 dans son revenu total en 1994 et 14 matches sur 18 dans son revenu total en 1995. La répartition du revenu gagné aux É.-U. est bien entendu de trois sur 18 pour le montant total en 1994 et de quatre sur 18 en 1995. Les paiements des quatre ou cinq semaines d'avant-saison sont secondaires au paiement par match.
+[12] La loi citée ne nous est pas très utile. Le contrat de la LCF doit être pris en considération en faisant exclusion des décisions portant sur des contrats de hockey. Comme je l'ai déjà mentionné, l'article XV de la Convention nous aide bien peu. Il prévoit en effet que le revenu de l'appelant provenant des É.-U. n'est imposable qu'aux É.-U. Cela ne nous indique pas comment assurer la répartition du revenu. L'avocat de l'appelant a invoqué la déclaration souvent citée du juge Addy dans l'affaire Gladden Estate c. La Reine, C.F. 1re inst., no T-1425-84, 28 janvier 1985 (85 DTC 5191), selon laquelle toute loi fiscale ou convention fiscale ordinaire doit être interprétée de façon libérale. J'ai adopté cette approche.
+[13] Je considère trop strict de conclure que l'appelant, qui joue trois ou quatre matches sur 18 aux É.-U. dans une période de un an, doive faire calculer son revenu en fonction des six à huit jours qu'il passe aux É.-U. sur le nombre total de jours de la saison. Le rapport de trois sur 18 et de quatre sur 18 est bien plus réaliste. Ce n'est pas parfait, mais c'est plus raisonnable.
+[14] Même si je passe outre à l'observation de l'intimée voulant que l'appelant, s'il était blessé, serait payé dans certaines circonstances même s'il ne jouait pas, cela ne justifie pas le déséquilibre extraordinaire qui découle des rapports appliqués par le ministre. Devant la méthode de répartition du ministre et celle de l'appelant, je conclus que celle de l'appelant est beaucoup plus raisonnable. Je n'avais d'ailleurs pas d'autre formule de compromis.
+[15] Les appels de l'appelant sont admis avec dépens taxés et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, au motif que la répartition du revenu gagné aux É.-U. par l'appelant devrait être déterminée par match pour les années d'imposition 1994 et 1995. En outre, l'appel interjeté à l'encontre de l'année d'imposition 1996 est admis sur consentement des parties.
+Signé à Ottawa, Canada, ce 15e jour de janvier 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Nancy Bouchard, traductrice

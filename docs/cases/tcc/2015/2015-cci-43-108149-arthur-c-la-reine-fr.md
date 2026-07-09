@@ -1,0 +1,194 @@
+---
+title: "Arthur c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108149/index.do"
+last_modified: "2015-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 43"
+citation2: ""
+neutral_citation: "2015 CCI 43"
+decision_date: "2015-02-19"
+language: "fr"
+item_id: "108149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2756
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:41:12.332000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "250b46cd339de0515fbb4b4ebafe23fc26f21ecac8b2319944b8257e10a97137"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arthur c. La Reine
+
+- Citation: 2015 CCI 43
+- Decision date: 2015-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2756, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arthur c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-19
+Référence neutre
+2015 CCI 43
+Numéro de dossier
+2014-1579(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1579(IT)I
+ENTRE :
+Juliet Arthur,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 9 janvier 2015, à Toronto (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Aaron Tallon
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 sont rejetés.
+Signé à Ottawa, Canada, ce 19e jour de février 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 3e jour d’août 2015.
+M.-C. Gervais
+Référence : 2015 CCI 43
+Date : 20150219
+Dossier : 2014-1579(IT)I
+ENTRE :
+Juliet Arthur,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+[1] Les présents appels sont interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») dans lesquelles les demandes de crédit d’impôt pour dons de bienfaisance de l’appelante ont été rejetées pour les années 2006, 2007 et 2008, conformément à l’article 118.1 de la Loi de l’impôt sur le revenu (la « LIR ») et aux articles 3500 et 3501 du Règlement de l’impôt sur le revenu (le « Règlement »).
+2006 Don de bienfaisance de 3 529 $ à Emelia Memorial International Water Development Inc. (« Emelia » )
+[2] L’appelante a déposé un reçu daté du 31 décembre 2006, qui lui a été délivré par Emelia; ce reçu indiquait un don en nature de 1 000 $ et un don en espèces de 2 529 $ (pièce A‑1).
+[3] Elle a affirmé à la Cour qu’elle avait remis le montant en espèces à son comptable lorsqu’il avait rempli sa déclaration de revenus pour 2006. Le comptable avait cessé ses activités en 2010.
+[4] En contre‑interrogatoire, elle a affirmé que le don en nature représentait un don de deux vieux ordinateurs de bureau, de vêtements et de chaussures. Elle ne se souvenait pas de la marque des ordinateurs, et aucune évaluation n’a été effectuée.
+[5] Quant au montant en espèces, elle a affirmé dans son témoignage qu’elle avait retiré l’argent de son compte bancaire, mais pas en un seul retrait, qu’elle ne se souvenait pas combien elle avait retiré chaque fois et qu’elle avait conservé l’argent à la maison. Elle n’a pas fourni de relevés bancaires qui permettraient de corroborer ses retraits.
+[6] Elle a déclaré un revenu net de 22 346 $ pour 2006. Le montant du don qu’elle a effectué pour l’année en cause constituait 16 % de son revenu net déclaré.
+[7] M. Gary Huenemoeder, chef d’équipe de la vérification des organismes de bienfaisance à l’Agence du revenu du Canada (l’« ARC »), a déclaré dans son témoignage que l’enregistrement d’Emelia comme organisme de bienfaisance avait été révoqué pour motif valable par le ministre en date du 29 mars 2008, comme il est précisé dans un avis publié dans la Gazette du Canada, Partie I (pièce R-1). Dans son témoignage, il a déclaré qu’Emelia n’avait pas de registres comptables adéquats et qu’il n’y avait pas de relevés bancaires. Bref, rien ne justifiait le statut d’organisme de bienfaisance d’Emilia.
+[8] Il a également expliqué que le reçu aux fins de l’impôt fourni par l’appelante était incomplet et qu’il n’était pas conforme à l’article 3501 du Règlement. En effet, il ne comportait aucune description du don en nature, aucune évaluation, aucune indication de la date réelle de réception du don ni le nom d’un évaluateur.
+2007 Don de bienfaisance à Revival Time Ministries Int. (« Revival »)
+[9] L’appelante a demandé un crédit d’impôt pour don de bienfaisance de 2 589 $ au titre d’un don en espèces à Revival en 2007. Elle n’avait pas de reçu.
+[10] Elle a déclaré un revenu net de 27 987 $ pour 2007, et le don prétendu représentait 9 % de ce revenu.
+[11] Dans son témoignage, M. Huenemoeder a déclaré que Revival avait été enregistré comme organisme de bienfaisance le 1er juillet 2006. Au cours de la même année, Revival a délivré des reçus pour don de bienfaisance d’un montant total de 830 529 $ ce qui, selon ses dires, était anormalement élevé pour un nouvel organisme de bienfaisance. En 2007, Revival a délivré des reçus officiels de dons d’un montant de 1 680 567 $ et, en 2008, de 981 223 $.
+[12] L’ARC a effectué une vérification de Revival, mais il n’y avait pas de registres comptables. L’ARC a ensuite demandé des registres reconstitués et on lui a remis des relevés bancaires. Ces relevés faisaient état de dépôts de 1,8 million de dollars et de dépenses d’un même montant. L’ARC a découvert par la suite que ces relevés bancaires étaient frauduleux et que l’organisme n’avait pas déposé plus de 3 000 $ dans son compte bancaire.
+[13] Le 8 janvier 2011, l’enregistrement de Revival comme organisme de bienfaisance a été révoqué par le ministre (avis du ministre dans la Gazette du Canada, Partie I, pièce R‑2).
+[14] Apparemment, 920 contribuables avaient participé à ce stratagème. Ils ont tous fait l’objet d’une nouvelle cotisation, étant donné qu’aucun d’entre eux n’avait pu prouver qu’il avait effectué un paiement à Revival. Le représentant de Revival a quitté le pays et fait face à des accusations de fraude fiscale au Canada.
+2008 Dons de bienfaisance à l’Église de la Pentecôte Canada (« Pentecôte ») et à Revival
+[15] L’appelante a affirmé qu’elle fréquentait l’Église de la Pentecôte et qu’elle payait la dime, c’est‑à‑dire qu’elle faisait des dons en espèces à cette église correspondant à environ 10 % de ce qu’elle gagnait.
+[16] Pour 2008, elle prétend avoir fait des dons de bienfaisance en espèces de 3 000 $ au total à Revival et à Pentecôte.
+[17] L’appelante n’a pas fourni de reçus pour 2008. Elle a expliqué qu’elle avait perdu celui qui avait été délivré par Pentecôte et que, lorsqu’elle en avait demandé un autre, le service de comptabilité de Pentecôte lui avait dit qu’aucun don n’était inscrit à son nom. Elle a affirmé qu’elle n’avait pas effectué d’autres dons parce qu’elle avait cessé de fréquenter l’Église de la Pentecôte. Cependant, elle est retournée à cette église en 2010, mais elle n’a pas fait de dons importants même si son revenu avait augmenté.
+[18] M. Huenemoeder a affirmé dans son témoignage que Pentecôte n’était pas un organisme de bienfaisance enregistré auprès de l’ARC.
+Arguments des parties [19] L’intimée a fait valoir que l’appelante n’avait pas établi selon la prépondérance des probabilités qu’elle avait fait les dons en cause.
+[20] L’intimée a également fait valoir que l’appelante avait omis de fournir des reçus pour les dons à Revival et à Pentecôte et que le reçu qui avait été fourni pour le don à Emelia ne satisfaisait pas aux exigences prescrites. Par conséquent, l’appelante ne peut pas demander un crédit d’impôt pour don de bienfaisance au titre du paragraphe 118.1(2) de la LIR et du paragraphe 3501(1) du Règlement.
+[21] L’appelante a tout simplement affirmé qu’elle avait fait les dons.
+Dispositions législatives LOI DE L’IMPÔT SUR LE REVENU
+118.1 (2) Attestation du don — Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+b) s’il s’agit d’un don visé à la définition de « total des dons de biens culturels » au paragraphe (1), le certificat délivré en vertu du paragraphe 33(1) de la Loi sur l’exportation et l’importation de biens culturels;
+c) s’il s’agit d’un don visé à la définition de « total des dons de biens écosensibles » au paragraphe (1), les deux attestations mentionnées à cette définition.
+[Non souligné dans l’original.]
+--------------------------------------
+RÈGLEMENT DE L’IMPÔT SUR LE REVENU
+3501. Contenu des reçus — (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) la date où il a été reçu;
+(ii) une brève description du bien; et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) celle des sommes ci‑après qui est applicable :
+(i) le montant du don en espèces;
+(ii) lorsque le don est un don de biens autres que des espèces, la juste valeur marchande du bien au moment où le don est fait;
+h.1) une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+Analyse [22] Je commencerai mon analyse par les dons en espèces pour lesquels l’appelante n’a pas fourni de reçus, c’est‑à‑dire les dons en espèces pour les années 2007 et 2008.
+[23] Selon le paragraphe 118.1(2) de la LIR, un reçu contenant les renseignements prescrits doit être fourni. Il s’agit d’une condition obligatoire (voir la décision Sowah c. La Reine, 2013 CCI 297, 2013 DTC 1234, au paragraphe 16). Un don en espèces est permis s’il est reconnu dans un reçu officiel aux fins de l’impôt.
+[24] Sans un tel reçu, l’appelante ne peut pas demander de crédit d’impôt pour don de bienfaisance.
+[25] En ce qui a trait au don à Emelia en 2006, l’appelante a fourni un reçu. Ce reçu divise le montant total en deux parties : un don en nature de 1 000 $ et un don en espèces de 2 529 $.
+[26] En ce qui a trait au don en nature, le reçu ne contient pas les renseignements prescrits qui sont exigés aux alinéas 3501(1)e.1) et h) du Règlement (la date de réception du don, une brève description du bien et la juste valeur marchande du bien au moment où le don a été fait).
+[27] En ce qui a trait au don en espèces de 2 529 $, le ministre avait raison de douter de l’authenticité de ce don.
+[28] Comme l’a fait remarquer la juge Sheridan dans la décision Patel c. La Reine, 2011 CCI 555, 2012 DTC 1043 au paragraphe 16, lorsqu’un contribuable choisit d’effectuer ses opérations uniquement en espèces, il s’impose le fardeau de pouvoir justifier des opérations qu’on ne peut pas vérifier autrement.
+[29] L’appelante a le fardeau de prouver selon la prépondérance des probabilités qu’elle a fait les dons en espèces allégués à Emelia. Pour satisfaire à cette norme de preuve, elle doit convaincre la Cour qu’il est plus probable qu’improbable que le don allégué ait eu lieu (voir l’arrêt F.H. c. McDougall, 2008 CSC 53, [2008] 3 R.C.S. 41, aux paragraphes 44 à 49, auquel fait référence le juge Webb, tel était alors son titre, dans la décision Tu Van Le c. La Reine, 2011 CCI 292, 2011 DTC 1223, au paragraphe 7).
+[30] En l’espèce, l’appelante n’a pas effectué le don en espèces directement à Emelia. Elle a reconnu qu’elle avait commis une erreur en remettant le don en espèces à son comptable sans vérifier si ce don serait transmis à l’organisme de bienfaisance enregistré. Elle n’a pas étayé son don en espèces au moyen de relevés bancaires ou de toute autre documentation qui auraient permis de trouver l’origine du don.
+[31] L’intimée a remis en question le montant du don parce qu’il représentait au total (don en nature et en espèces) 16 % de son revenu net déclaré, ce qui constitue un don plutôt important. On pourrait s’attendre à ce qu’une personne qui fait un don d’un montant aussi considérable effectue un suivi et conserve des registres adéquats à l’appui de ce don.
+[32] En outre, l’appelante n’a pas réfuté l’autre allégation du ministre, selon laquelle Emelia n’avait pas reçu de don en espèces de l’appelante (alinéa 7e) de la réponse).
+[33] En fait, M. Huenemoeder a affirmé dans son témoignage qu’Emelia n’avait pas de registres comptables suffisants pour étayer les renseignements fournis dans les formulaires T3010, Déclaration de renseignements des organismes de bienfaisance enregistrés, qui ont été produits; son enregistrement à titre d’organisme de bienfaisance a donc été révoqué.
+[34] Compte tenu de l’examen de l’ensemble de la preuve, je conclus que l’appelante n’a pas démontré selon la prépondérance des probabilités qu’elle avait fait un don de bienfaisance d’un montant total de 3 529 $ à Emilia en 2006, et ce, même si un reçu a été fourni afin d’apparemment démontrer qu’elle avait bel et bien effectué ce don.
+[35] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 19e jour de février 2015.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 3e jour d’août 2015.
+M.C. Gervais
+RÉFÉRENCE :
+2015 CCI 43
+Nº DU DOSSIER DE LA COUR :
+2014-1579(IT)I
+INTITULÉ :
+Juliet Arthur c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 janvier 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef adjointe Lucie Lamarre
+DATE DU JUGEMENT :
+Le 19 février 2015
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Aaron Tallon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

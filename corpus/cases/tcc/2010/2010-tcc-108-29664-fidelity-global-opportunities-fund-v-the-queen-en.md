@@ -1,0 +1,147 @@
+---
+title: "Fidelity Global Opportunities Fund v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29664/index.do"
+last_modified: "2010-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 108"
+citation2: ""
+neutral_citation: "2010 TCC 108"
+decision_date: "2010-02-26"
+language: "en"
+item_id: "29664"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6232
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:36:59.049000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c46213e6be669255b8685132e62704d75f4dcdfce8a7ec14b953d5fdcc3875aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fidelity Global Opportunities Fund v. The Queen
+
+- Citation: 2010 TCC 108
+- Decision date: 2010-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6232, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fidelity Global Opportunities Fund v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-26
+Neutral citation
+2010 TCC 108
+File numbers
+2009-3333(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3333(IT)G
+BETWEEN:
+FIDELITY GLOBAL OPPORTUNITIES FUND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+The Honourable Justice Valerie Miller
+Counsel for the Appellant:
+Salvatore Mirandola
+Counsel for the Respondent:
+Darlene M. Lamey
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for an Order of this Court striking out the Appellant’s Notice of Appeal from the assessment made under the Income Tax Act for the 2006 taxation year;
+The motion is granted and it is ordered that the purported appeal for the 2006 taxation year is quashed.
+The Respondent is awarded costs.
+Signed at Ottawa, Canada, this 26th day of February 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC108
+Date: 20100226
+Docket: 2009-3333(IT)G
+BETWEEN:
+FIDELITY GLOBAL OPPORTUNITIES FUND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] The Respondent has brought a motion for an Order to strike out the Notice of Appeal on the following grounds:
+a) A condition precedent to instituting a valid appeal has not been met (paragraph 58(3)(b) of the Tax Court of Canada Rules (General Procedure) (the Rules));
+b) The Notice of Appeal discloses no reasonable grounds for appeal (paragraph 58(1)(b) of the Rules);
+c) The Notice of Appeal will prejudice or delay the fair hearing of the action (paragraph 53(a) of the Rules);
+d) The Notice of Appeal is scandalous, frivolous or vexatious (paragraph 53(b) of the Rules), or is an abuse of process (paragraph 53(c) of the Rules); and,
+e) This court does not have jurisdiction to hear the appeal as no notice of objection has been filed.
+In support of its motion, the Respondent has filed an affidavit of Vera Compton, Litigation Officer for the Canada Revenue Agency in the Toronto Litigation Division of the Ontario office.
+[2] In its written representations, the Respondent did not rely on ground (c) and I take it that this ground has been abandoned. With respect to ground (d), it is my opinion that the Notice of Appeal is not scandalous, frivolous or vexatious. The appeal involves a claim to carry forward a net capital loss from 2002 to 2006.
+[3] On a motion to strike pleadings on the ground that it discloses no reasonable grounds of appeal, the question faced by the court is: If one assumes that the facts as stated in the Notice of Appeal are true, is it “plain and obvious” that the action cannot succeed?[1] In the circumstances of this motion, this question must be answered in the negative.
+[4] The Respondent’s final grounds for the motion ((a) and (e)) – whether the Appellant filed a notice of objection for its 2006 taxation year – is really the key issue in this motion.
+[5] The Appellant is a mutual fund trust. In its income tax return for its 2006 taxation year, the Appellant carried forward and applied a capital loss from its 2002 taxation year. By assessment dated January 23, 2008 (2006 assessment), the Minister of National Revenue (the “Minister”) reduced the net capital losses which the Appellant could apply in calculating its 2006 taxable income. The Minister denied the Appellant’s claim for a carry forward of a capital loss from 2002.
+[6] In response to the assessment, the Appellant sent a letter dated February 11, 2008 to the Canada Revenue Agency, Ottawa Technology Centre, Ottawa, ON. In its letter, the Appellant stated that it did not agree with the 2006 assessment and it requested two adjustments.
+[7] It is the Appellant’s position that this letter of February 11, 2008 is a notice of objection.
+[8] The relevant portions of section 165 of the Income Tax Act read:
+165. (1) Objections to assessment -- A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+(2) Service -- A notice of objection under this section shall be served by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Revenue Agency and delivered or mailed to that Office or Centre.
+(6) Validity of notice of objection -- The Minister may accept a notice of objection served under this section that was not served in the manner required by subsection (2).
+[9] The Appellant had 90 days after the day of mailing of the notice of assessment to serve a notice of objection on the Minister[2]. It is my opinion that the Appellant’s letter of February 11, 2008 is sufficient to satisfy the conditions in subsection 165(1) of the Act.
+[10] Subsection 165(2) of the Act stipulates that a notice of objection shall be served by being addressed to the Chief of Appeals in a District Office or a Taxation Centre. The language in subsection 165(2) is mandatory[3] and a letter to the Ottawa Technology Centre does not meet the requirements of this subsection[4].
+[11] There are good reasons why subsection 165(2) specifies that a notice of objection shall be served on the Chief of Appeals. It is the Appeals Branch which deals with objections. If objections are not served in accordance with subsection 165(2), then it would be next to impossible for the Canada Revenue Agency to keep proper records and to ensure that the objections are dealt with “with all due dispatch” as is required in subsection 165(3) of the Act.[5]
+[12] I realize that subsection 165(6) gives the Minister the discretion to accept a notice of objection that was not served in accordance with subsection 165(2). However, that discretion lies with the Minister and not this Court.
+[13] For the above reasons, the Respondent’s motion is granted and the Notice of Appeal is quashed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 26th day of February 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC108
+COURT FILE NO.: 2009-3333(IT)G
+STYLE OF CAUSE: FIDELITY GLOBAL OPPORTUNITIES FUND
+AND THE QUEEN
+PLACE OF HEARING: ,
+DATE OF HEARING: ,
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: February 26, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Salvatore Mirandola
+Counsel for the Respondent:
+Darlene M. Lamey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Salvatore Mirandola
+Firm: Borden Ladner Gervais LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Hunt v. Canada Carey Inc., [1990] 2 S.C.R. 959
+[2] Paragraph 165(1)(b)
+[3] Interpretation Act, R.S.C. 1985, c.I-21, s.11
+[4] See McClelland v. R., 2004 FCA 315 at paragraph 5.
+[5] Pereira v. Canada, 2008 TCC 2 at paragraph 15; affirmed 2008 FCA 264

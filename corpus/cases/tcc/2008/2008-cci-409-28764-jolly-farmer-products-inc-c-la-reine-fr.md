@@ -1,0 +1,211 @@
+---
+title: "Jolly Farmer Products Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28764/index.do"
+last_modified: "2008-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 409"
+citation2: ""
+neutral_citation: "2008 CCI 409"
+decision_date: "2008-07-11"
+language: "fr"
+item_id: "28764"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1551
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:34:08.723000+00:00"
+cases_cited_count: 0
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d6aea476331b63ddcadbe7f69ff60774b842cae9bcc133f387d3b5246b059ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jolly Farmer Products Inc. c. La Reine
+
+- Citation: 2008 CCI 409
+- Decision date: 2008-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1551, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jolly Farmer Products Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-11
+Référence neutre
+2008 CCI 409
+Numéro de dossier
+2005-1804(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1804(IT)G
+ENTRE :
+JOLLY FARMER PRODUCTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 23, 24, 25, 26 et 27 juin 2008,
+à Fredericton (Nouveau-Brunswick).
+Devant : L’honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l’appelante :
+Me John D. Townsend
+Me Craig Wilson
+Avocats de l’intimée :
+Me Cecil S. Woon
+Me Lindsay Holland
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999, 2000, 2001, 2002 et 2003 sont accueillis avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci‑joints.
+La nouvelle cotisation concernant l’année 2000, qui est frappée de prescription, est annulée.
+Signé à Ottawa, Canada, ce 11e jour de juillet 2008.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 1er jour de mai 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI409
+Date : 20080711
+Dossier : 2005-1804(IT)G
+ENTRE :
+JOLLY FARMER PRODUCTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’appels de cotisations concernant les années d’imposition 1998, 1999, 2000, 2001, 2002 et 2003 de l’appelante. Il s’agit essentiellement de savoir si l’appelante a le droit de demander une déduction pour amortissement (la « DPA ») à l’égard d’habitations et d’un gros bâtiment appelé les « dépendances » situés dans une ferme qui lui appartenait et qu’elle exploitait. Les habitations (collectivement appelées « le village ») étaient occupées par les employés de l’appelante, qui étaient également actionnaires de celle‑ci. Les dépendances étaient constituées d’un gros bâtiment qui était utilisé, dans une proportion d’environ 25 p. 100, par les employés actionnaires, du moins selon un croquis produit en preuve, le reste, soit 75 p. 100, servant à l’entreposage et à la transformation de produits de viande et de produits laitiers ainsi que d’autres produits de la terre. Ce pourcentage est contesté. L’intimée affirme que le bâtiment servait dans une proportion de 95 p. 100 aux employés actionnaires. Pour les motifs énoncés ci‑dessous, j’ai conclu que le bâtiment au complet a été acquis par l’appelante à des fins commerciales, et ce, peu importe la partie qui était utilisée par les employés actionnaires.
+[2] Le refus d’accorder la DPA pour le village et pour les dépendances, y compris le matériel, est fondé sur une seule hypothèse, à savoir que ces biens n’ont pas été acquis aux fins de gagner ou de produire un revenu. S’ils n’ont pas été acquis aux fins de gagner ou de produire un revenu, ils sont exclus des catégories de biens à l’égard desquelles la déduction pour amortissement peut être demandée. L’alinéa 1102(1)c) du Règlement de l’impôt sur le revenu (le « Règlement ») prévoit ce qui suit :
+1102.(1) Les catégories de biens décrits dans la présente partie et dans l’annexe II sont censées ne pas comprendre les biens [...]
+c) qui n’ont pas été acquis par le contribuable aux fins de gagner ou de produire un revenu;
+[3] Il importe de trancher certains points préliminaires avant d’examiner la principale question en litige :
+a) Il est allégué que la cotisation concernant l’année 1999 a été établie après l’expiration de la période normale de nouvelle cotisation et qu’elle est donc frappée de prescription. L’appelante reconnaît maintenant qu’une renonciation a été signée et que le ministre pouvait donc à bon droit établir une nouvelle cotisation à l’égard de l’année d’imposition 1999 après l’expiration de la période normale de nouvelle cotisation;
+b) Toutefois, l’intimée reconnaît maintenant que la nouvelle cotisation concernant l’année 2000 est frappée de prescription et qu’elle devrait donc être annulée, de sorte que l’une des questions en litige, portant sur la déductibilité des salaires payés à l’égard des dépendances en l’an 2000 ainsi que sur la demande de DPA, n’entre plus en ligne de compte;
+c) Le traitement des frais engagés en 1998 pour le défrichage du terrain sur lequel le bâtiment des dépendances était situé n’est plus contesté. Les parties conviennent que, sur le montant de 85 392 $ dont la déduction est demandée pour cet élément, un montant de 70 392 $ doit être ajouté au coût en capital du bâtiment des dépendances, et que son traitement dépend de la réponse qui sera donnée à la question de savoir si les dépendances constituent un bien amortissable. Les parties s’entendent pour dire que le montant qui reste, soit 15 000 $, pour les frais de défrichage du terrain, fera partie du coût en capital du terrain;
+d) La DPA se rapportant à une habitation appelée la « maison de ferme » a été admise par l’intimée et n’est plus en cause.
+[4] Il reste donc la question de savoir si le village et les dépendances ont été acquis aux fins de gagner ou de produire un revenu au sens de l’alinéa 1102(1)c) du Règlement.
+[5] L’appelante a été constituée en personne morale le 1er décembre 1995 en vertu de la Loi sur les corporations commerciales du Nouveau‑Brunswick. Elle devait exploiter à peu près la même entreprise que celle qui était exploitée au New Hampshire par une « société à but non lucratif » appelée Jolly Farmer Products. Je ne sais pas ce que l’on entend par « société à but non lucratif » en droit américain. M. English, administrateur de l’appelante, a témoigné que cette société était composée de [traduction] « membres » plutôt que d’actionnaires et qu’elle payait les impôts sur le revenu américains. Les membres recevaient des paiements sur lesquels ils payaient des impôts.
+[6] La société américaine s’occupait d’horticulture; elle exerçait des activités d’envergure et réalisait des bénéfices; dans le cadre de cette entreprise, des boutures et des plantes étaient cultivées dans une grosse serre. La société manquait d’espace pour s’agrandir et, après avoir examiné un certain nombre d’emplacements au Maine, au Québec, en Nouvelle‑Écosse et au Nouveau‑Brunswick, les administrateurs ont choisi un emplacement près de Woodstock (Nouveau‑Brunswick).
+[7] Tous les membres initiaux qui exploitaient l’entreprise au New Hampshire, sauf un ou deux membres, se sont installés au Nouveau‑Brunswick.
+[8] L’appelante a acquis deux fermes, la ferme Sud et la ferme Nord. La ferme Sud est composée de la serre, des installations agricoles extérieures, des jardins utilisés par les employés actionnaires et des dépendances. Il s’y trouve maintenant une troisième ferme.
+[9] Depuis 1996, la superficie consacrée à la serre est passée de trois acres à dix acres. Des boutures et des semis en douille sont expédiés partout en Amérique du Nord; il s’agit de la plus grosse entreprise de ce genre au Nouveau‑Brunswick. À part la serre, ses autres activités agricoles continuent à prendre de l’essor et à s’étendre, de sorte qu’elle exploite maintenant une entreprise agricole générale s’occupant de l’élevage de bovins, de porcs, de moutons et de volailles ainsi que de produits laitiers.
+[10] Selon les états financiers de la société pour la période allant du 1er décembre 1995 au 30 avril 2003 qui ont été produits en preuve (pièce A‑1, onglets 8 à 15), le chiffre des ventes est passé de 5 884 $ en 1996 à 25 000 700 $ en 1999 et à 21 677 294 $ en 2003. Il s’agit d’une entreprise d’envergure, qui est rentable et qui connaît beaucoup de succès.
+[11] L’instruction a duré cinq jours. Le principal témoin de l’appelante était M. Robert English, administrateur et vice‑président de l’appelante. De plus, trois témoins experts ont été cités, deux pour l’appelante et un pour l’intimée. L’intimée a également cité Mme Keeler, préposée à la tenue des livres de l’appelante, et M. Leblanc, agent des appels à l’Agence du revenu du Canada (l’« ARC »). Toutefois, la question qui se pose est beaucoup moins complexe que ne le laisse croire la durée de l’instruction. Je crois que le point crucial ressort d’une façon évidente à l’annexe A jointe aux statuts constitutifs de l’appelante, qui est libellée en ces termes :
+[traduction] Les détenteurs de toutes les catégories d’actions seront limités aux personnes qui se soumettent volontairement à la discipline et aux commandements de Jésus‑Christ et qui résideront également en permanence dans l’une des collectivités établies par la société (la « collectivité ») en respectant la discipline susmentionnée. Un actionnaire peut être rejeté s’il ne respecte pas la paix de la collectivité conformément aux commandements de Jésus‑Christ. Après une période d’essai d’au plus trois (3) ans, une personne peut devenir actionnaire sur approbation du conseil d’administration et sur acceptation générale des actionnaires, à la majorité des voix.
+[12] Un grand nombre des paragraphes de la réponse à l’avis d’appel sont consacrés à des hypothèses portant sur les croyances et pratiques religieuses des actionnaires et sur leur désir de mener une vie chrétienne simple dans leur propre collectivité. Le ministre semble considérer les employés actionnaires comme faisant partie d’un genre d’organisation religieuse quasi monastique dont l’objet, en vivant à la ferme, est de promouvoir leurs croyances et pratiques religieuses plutôt que d’avoir un objectif d’ordre commercial. Or, je ne puis voir aucune incompatibilité entre les croyances et pratiques religieuses et un objectif d’ordre commercial.
+[13] M. Leblanc, l’agent des appels que l’intimée a cité comme témoin, a déclaré considérer que les employés actionnaires voulaient vivre [traduction] « dans l’isolement ». Selon moi, cela est beaucoup plus qu’une exagération; cela est tout simplement inexact. Les membres sont fort actifs dans la collectivité. M. Leblanc m’a semblé être un fonctionnaire consciencieux et honnête, mais je crois que son opinion indique une attitude ministérielle qui ne correspond pas à la réalité commerciale. Il est bien établi que la preuve soumise par l’agent des appels constitue du ouï‑dire (parfois, au deuxième ou troisième degré), mais cette preuve est utile lorsqu’il s’agit de comprendre la façon de penser qui a donné lieu à l’établissement et à la ratification de la cotisation. Dans ce cas‑ci, je crois que l’ARC faisait une fixation (l’avocat de l’appelante a parlé d’[traduction] « obsession ») sur deux choses – le fait que les employés sont actionnaires et le fait qu’ils professent certaines croyances chrétiennes fondamentales rappelant l’Église primitive et qu’ils adhèrent à ces croyances. À mon avis, ces faits n’ont aucune importance. Une fois que nous nous débarrassons de ces deux diversions et que nous mettons l’accent sur le fait que l’appelante fournit des habitations et d’autres installations à ses employés, la fourniture de ces installations devient un coût tout à fait normal et ordinaire d’exploitation de l’entreprise de l’appelante.
+[14] Selon moi, l’approche que le ministre a adoptée à l’égard de ce problème résulte de la confusion entre au moins deux concepts (ou peut‑être de leur fusion). Dans le calcul de son revenu, le particulier ne peut pas déduire des « frais personnels ou de subsistance ». Le ministre semble croire, si je comprends bien, que le coût pour un employeur de la fourniture de locaux d’habitation (ou le coût en capital des biens utilisés à cette fin) est également visé par cette interdiction. À partir de cette prémisse fallacieuse et inarticulée, le ministre cherche à contraindre l’employeur à démontrer que la décision commerciale qu’il a prise de fournir le logement à ses employés est justifiable sur le plan commercial, et que cette façon de faire des affaires est préférable à une autre méthode. Le caractère fallacieux de la prémisse initiale est ainsi aggravé et exacerbé par le fait que, pour une raison qui m’échappe, le ministre tient en outre compte du fait que les employés sont également actionnaires et qu’ils ont de fermes croyances religieuses. Puis, même après que l’employeur, Jolly Farmer Products Inc., a démontré d’une façon irréfutable (ce qui était à mon avis inutile) que son entreprise connaît un succès retentissant sur le plan commercial, le ministre tient encore, avec une ténacité féroce, à son erreur initiale et affirme que l’appelante aurait dû adopter des pratiques commerciales qui lui plaisent davantage, même si elles sont moins économiques. Mit der Dummheit kämpfen Götter selbst vergebens.
+[15] Il est vrai que les actionnaires cherchent à mener une vie chrétienne simple, loin du tohu‑bohu de la vie matérialiste. Toutefois, cela ne les empêche pas d’exploiter une entreprise axée sur le commerce qui connaît énormément de succès. L’une des raisons de ce succès tient au fait même que les actionnaires, qui sont tous des employés de l’appelante à qui elle verse des salaires, vivent sur les lieux, où ils peuvent s’occuper de l’entreprise horticole. On peut donner comme exemple évident le fait qu’ils font tous partie du service d’incendie privé, dont le délai d’intervention, en cas d’incendie, représente une fraction du temps qu’il faut au service d’incendie de Woodstock pour répondre à un appel. Au mois de mai 2008, cela a empêché un incendie mineur de se propager d’une façon incontrôlable et de détruire la serre ainsi que du matériel et des plantes valant des millions de dollars dans un incendie semblable à celui qui s’était produit en 1996.
+[16] L’intimée soutient que ce qu’il en coûte pour garder les employés actionnaires sur les lieux et pour leur fournir des habitations et des installations telles qu’une cantine et un gymnase, dans les dépendances, ne constitue pas un coût se rattachant à un bien acquis aux fins de gagner ou de produire un revenu. Avec égards, cette thèse n’est pas valable au point de vue commercial. Les employés actionnaires paient un loyer; ils ont néanmoins fait l’objet de cotisations pour des avantages imposables à l’égard de leurs maisons. L’entreprise connaît clairement plus de succès que celui qu’elle aurait eu si l’appelante avait suivi les conseils non sollicités de l’ARC en matière commerciale, et si elle avait agi comme suit :
+a) si elle n’avait pas fourni de logements et d’autres installations à ses employés actionnaires sur place;
+b) si elle avait embauché des employés de l’extérieur et versé des salaires à une main-d’œuvre beaucoup plus importante, à un taux plus élevé que les salaires versés aux employés actionnaires;
+c) si elle s’était débarrassée du service d’incendie privé sur place et si elle s’en était remise au service d’incendie de Woodstock pour se rendre sur les lieux après que l’incendie se soit propagé aux bâtiments adjacents et à la serre;
+d) si elle avait souscrit à une assurance‑récolte dans l’espoir de récupérer une partie de la valeur des biens et des récoltes qui avaient été détruits.
+Je dois mentionner brièvement le témoignage d’expert de Gary Daneff. M. Daneff est ingénieur de profession et copropriétaire de Point of Origin Consultants Ltd. Il possède une expertise dans le domaine des enquêtes sur les incendies et sur les explosions ainsi que dans le domaine de la protection contre les incendies.
+[17] Les déclarations suivantes figurant dans le rapport de M. Daneff, en ce qui concerne l’incendie qui est survenu dans le laboratoire, le 13 mai 2008, se passent de commentaires :
+[traduction] Les taux de résistance au feu pour les éléments de construction et les charpentes sont déterminés en fonction de leur performance dans des conditions d’exposition au feu en laboratoire. Les essais de réaction au feu suivent une courbe normale temps‑température qui correspond aux températures du compartiment atteintes lorsqu’un incendie n’est pas maîtrisé. La courbe normale temps‑température montre que des températures du compartiment, de 538oC (1000oF), seront atteintes après cinq minutes, de 704oC (1300oF), seront atteintes après dix minutes et de 843oC (1550oF), seront atteintes après 30 minutes. Par contre, l’incendie qui est survenu dans le laboratoire de pédologie le 13 mai 2008 ne s’est pas propagé depuis l’établi aux meubles voisins et n’a pas continué à progresser. Par suite d’une intervention rapide du service d’incendie de Jolly Farmer, et peut‑être d’autres facteurs qui ont limité la progression de l’incendie, comme l’apport d’air, la charge de combustible et la disposition des combustibles, les dommages causés par le feu ont principalement été limités au laboratoire de pédologie.
+[...]
+L’entrée de l’installation de Jolly Farmer Products est située au sud de Woodstock, de l’autre côté du fleuve Saint‑Jean, de sorte que le service d’incendie de Woodstock (le SIW) doit effectuer au moins 14 kilomètres lorsqu’il répond à une alerte sur les terrains de Jolly Farmer Products. Selon le chef Ricky Nicholson, le SIW a reçu un appel directement du personnel de Jolly Farmer Products à 4 h 47, le 13 mai 2008, et le premier appareil du SIW est arrivé sur les lieux à 5 h 04, soit environ 17 minutes plus tard. Selon le registre des incidents tenu par le personnel de Jolly Farmer, le service d’incendie de Jolly Farmer et par la suite le SIW ont été avisés de l’incendie après que celui‑ci a été découvert, à 4 h 41. Le service d’incendie de Jolly Farmer s’est rassemblé sur les lieux entre 4 h 44 et 4 h 54, et la première lance établie a été avancée à 4 h 58, soit environ 17 minutes après que l’incendie a été découvert. Selon les documents de Jolly Farmer, vers 5 h 15, le premier appareil du SIW est arrivé, avec deux hommes à bord, et entre 5 h 20 et 5 h 23, la fourgonnette de service du SIW est arrivée, avec six pompiers. À 5 h 25, le personnel du SIW était prêt à entrer dans le bâtiment, soit environ 44 minutes après la découverte de l’incendie.
+[...]
+Les déclarations suivantes peuvent être faites au sujet de l’intervention rapide du personnel responsable de la lutte contre les incendies :
+1. L’intervention du personnel ayant reçu une formation en matière de lutte contre les incendies est une hypothèse sur laquelle les dispositions du CNB concernant la sécurité de la vie et la protection des biens contre les incendies sont fondées. Le CNB reconnaît qu’un feu de compartiment pleinement développé et associé à des niveaux élevés de rayonnement de l’incendie peut se produire dans les dix minutes qui suivent le début de l’incendie.
+2. Une intervention rapide par un personnel ayant reçu une formation en matière de lutte contre les incendies est essentielle pour empêcher l’incendie de progresser et de se propager.
+3. Pour ce qui est de l’incendie qui est survenu le 13 mai 2008 dans les locaux de Jolly Farmer Products, les heures enregistrées par le personnel de Jolly Farmer indiquent que le service d’incendie de Jolly Farmer a avancé une lance établie dans les 17 minutes qui ont suivi la découverte de l’incendie, avant l’arrivée du personnel du SIW (le service d’incendie de Woodstock).
+4. Lors de l’incendie du 13 mai 2008, l’intervention rapide du service d’incendie de Jolly Farmer a permis de limiter l’incendie au laboratoire de pédologie et, selon toute probabilité, de l’empêcher de se propager de cette salle au reste de l’entrepôt Est.
+[18] Les conclusions tirées par M. Daneff sont irréfutables. À coup sûr, le service d’incendie sur place était une nécessité commerciale. Je ne crois pas que l’appelante doive justifier ses décisions commerciales, mais l’existence du service d’incendie de Jolly Farmer justifie pareille décision.
+[19] Il en va de même pour les rapports d’experts des deux cabinets comptables. L’appelante a produit en preuve le rapport d’expert de Paul Bradley, de PriceWaterhouseCoopers Inc. L’intimée a produit en preuve le rapport de Daniel Jennings, de Deloitte & Touche Inc.
+[20] Je citerai certains passages des deux rapports, et ce, pour les motifs énoncés ci‑dessous, mais je ne les considère pas comme particulièrement utiles lorsqu’il s’agit de répondre à la question dont je suis saisi. Toutefois, étant donné que les avocats des deux parties ont jugé bon de retenir les services d’évaluateurs d’entreprise fort compétents, j’examinerai la preuve qu’ils ont soumise.
+[21] Le rapport de M. Bradley est en partie rédigé en ces termes :
+[traduction]
+1. Vous nous avez demandé, à titre de conseillers professionnels possédant de l’expérience en matière d’enquêtes commerciales et de quantification des pertes, de vous aider à quantifier les avantages économiques estimatifs pour Jolly Farmer Products Inc. (« JFPI » ou « la société ») en ce qui concerne certains actifs appelés le « village » et une partie des « dépendances ».
+2. Nous croyons comprendre ce qui suit :
+• JFPI a été constituée en 1995; l’horticulture et l’agriculture font partie de ses principales activités commerciales;
+• JFPI a construit des habitations (« le village ») et certaines autres structures sur ses terrains, notamment une grange et un bâtiment connu sous le nom de « dépendances »;
+• Le 12 avril 2002, l’Agence du revenu du Canada (l’« ARC ») a informé JFPI qu’une vérification serait effectuée pour les exercices ayant pris fin les 30 juin 2000 et 2001. La période visée par l’examen a été élargie en vue d’inclure les exercices qui ont pris fin les 30 juin 1998 à 2003.
+- Par suite des vérifications, l’ARC a pris la position selon laquelle les dépenses que JFPI avait engagées pour construire le village et les dépendances n’étaient pas liées à la production d’un revenu et elle a donc refusé la déduction de certaines dépenses indiquées dans les déclarations de revenus de la société pour les années en cause au cours de la période allant de 1998 à 2003, notamment la déduction pour amortissement (la « DPA ») se rattachant au village et aux dépendances.
+3. Selon la position prise par JFPI, le village et les dépendances contribuent, sur le plan économique, à l’entreprise de la société. Nous croyons comprendre que vous avez besoin d’aide en ce qui concerne la quantification de certains avantages économiques.
+4. Nous croyons comprendre que l’avocat soutiendra que les avantages économiques que JFPI retire du village et des dépendances comprennent la limitation du manque à gagner possible associé à la perte de clients, qui pourrait se produire si la société devait faire face à une interruption de ses activités commerciales. Nous avons considéré la chose sous l’angle des répercussions possibles pour JFPI de la perte d’un gros client. Toutefois, le manque à gagner possible qui a été calculé n’est pas inclus dans le montant global des avantages économiques qui ont ici été calculés, et nous n’exprimons aucune opinion au sujet de ce manque à gagner possible.
+5. Nous croyons également comprendre que l’avocat soutiendra que les dépenses engagées aux fins de la construction des dépendances et de l’achat du matériel y afférent visaient à assurer la production d’un revenu de la part de la Division agricole de JFPI (les dépendances étant toutefois considérées comme étant utilisées dans une proportion de 25 p. 100 à des fins personnelles par les actionnaires, qui doivent payer un loyer). Nous croyons comprendre que la décision de construire les dépendances a été prise indépendamment de la décision de construire le village, ce dernier assurant principalement le soutien de la Division horticole.
+[...]
+76. Étant donné que l’emplacement de la société est éloigné des gros centres, la direction croit que le fait que les employés résident sur les lieux a des incidences positives sur les coûts suivants associés aux employés :
+- Absentéisme inférieur à la moyenne;
+- Réduction des coûts salariaux pour les heures supplémentaires ou le travail par quart;
+- Roulement de la main-d’œuvre inférieur à la moyenne et réduction des coûts de formation connexes;
+- Amélioration de l’efficacité de l’exploitation, par rapport à l’industrie.
+77. Nous croyons comprendre que le fait que les résidents du village sont à proximité des installations d’exploitation permet à la société d’avoir un réservoir de main-d’œuvre qui est disponible pour fournir les services essentiels en dehors des heures normales d’activité de l’entreprise. Les employés peuvent effectuer des heures supplémentaires et des quarts fractionnés, ou avoir des horaires de travail inhabituels (notamment en ce qui concerne les congés fériés et les remplacements au cours des congés annuels) en vue d’assurer les services essentiels tels que le soin des cultures, les obligations agricoles et les expéditions en dehors des heures normales d’activité.
+78. Nous croyons comprendre que tous les employés qui ne sont pas des actionnaires sont rémunérés de la façon prévue par la Loi sur les normes d’emploi du Nouveau‑Brunswick et par son règlement d’application, alors que les employés qui sont également actionnaires (« les employés actionnaires ») ne bénéficient pas des mêmes droits. Par conséquent, le salaire de certains employés actionnaires est fixé en fonction d’une semaine de travail normale, mais ces employés participent à des activités non prévues dans leur description de travail, leurs services étant offerts sans qu’il en coûte quoi que ce soit de plus à JFPI.
+79. Ce calcul est fondé sur le fait que, si les employés actionnaires n’assuraient pas leur participation, les employés de la société seraient obligés de se placer en disponibilité et d’effectuer des quarts fractionnés ou recevraient une prime de surtemps pour compenser les frais de transport et les inconvénients subis du fait qu’ils sont en disponibilité, qu’ils effectuent des quarts fractionnés, qu’ils sont éloignés de leur famille, notamment en fin de semaine ou pendant des congés fériés. En outre, il faudrait prévoir des quarts à l’horaire pour des services qui, à l’heure actuelle, sont fournis par des employés en disponibilité qui résident sur les lieux, par exemple en ce qui concerne le contremaître responsable des activités agricoles et les postes des préposés à l’entretien.
+80. Nous avons reçu de la direction de JFPI des renseignements au sujet de la paie et de l’établissement des horaires et nous avons obtenu, de sources tant privées que publiques, des renseignements sur les salaires offerts dans l’industrie, nous permettant de calculer ce qu’il en coûterait pour combler les postes qui exigent une présence en dehors des heures normales d’activité, postes qui, selon ce que nous croyons comprendre, sont comblés à l’heure actuelle par des employés salariés sur place.
+[...]
+86. Compte tenu des renseignements que nous avons examinés et sur lesquels nous nous sommes fondés, et sous réserve des hypothèses et des restrictions qui sont ici énoncées, nous avons conclu que l’avantage économique estimatif associé aux dépenses en cause, tel qu’il a été calculé, se situait dans les fourchettes indiquées ci‑dessous, comme il en est fait état à l’annexe 1 :
+Avantage économique estimatif attribuable aux éléments suivants :
+Assurance et sécurité 807 072 $ à 964 225 $
+Coûts salariaux évités
+(heures supplémentaires – quarts) 1 596 972 $ 1 596 972 $
+Total 2 404 044 $ à 2 561 197 $
+87. Compte tenu des calculs que nous avons effectués sur les points précis dont il a été tenu compte pour les besoins de la présente analyse, les avantages économiques qui sont ici quantifiés représentent environ 81 p. 100 des déductions nettes du coût en capital qui ont été refusées selon la ligne 9 de l’annexe 1.
+[22] M. Jennings n’est pas d’accord avec M. Bradley; voici ce qu’il dit :
+[traduction] À notre avis, PWC a omis d’inclure, dans leur analyse des acquisitions d’immobilisations refusées, un montant de 322 061 $ se rapportant aux frais de rénovation du village en 2001. Ce changement entraînerait une diminution des avantages économiques quantifiés qui, selon la conclusion tirée par PWC, représentent 81 p. 100 de la déduction pour amortissement qui a été refusée.
+À notre avis, les taux d’actualisation et de capitalisation de 18/15 % (par opposition à 14/11 % selon PWC) correspondent mieux aux risques associés au flux des coûts évités par la société. Ce changement entraîne une diminution du montant se rattachant à l’avantage économique auquel est arrivé PWC.
+À notre avis, étant donné que les actionnaires ont décidé de ne pas toucher de salaires, PWC n’aurait pas dû supposer que l’affirmation de la direction en ce qui concerne les coûts salariaux supplémentaires évités grâce à l’existence du village et des dépendances était exacte. Ce changement entraînerait une diminution du montant se rattachant à l’avantage économique auquel est arrivé PWC.
+À notre avis, le fait que le montant auquel est arrivé PWC au sujet de l’avantage économique est inférieur à la totalité des coûts en capital refusés donne à entendre que la société peut avoir adopté la solution de rechange la moins économique en construisant le village et les dépendances (par rapport à la solution consistant à payer les prétendus frais supplémentaires).
+Même si le calcul du manque à gagner attribuable à la perte de clients que PWC a effectué ne fait pas partie de leur conclusion, nos commentaires justifient notre opinion, à savoir que cette quantification n’est pas appropriée dans ce cas‑ci.
+[23] M. Jennings n’a pas précisé jusqu’à quel point sa quantification de l’avantage économique était inférieure à celle de M. Bradley. Toutefois, il croyait clairement que la façon dont l’appelante menait ses affaires comportait un avantage économique. Il importe peu que j’accepte un rapport plutôt que l’autre ou que j’arrive à un chiffre différent de celui qui est indiqué dans les deux rapports. Même en l’absence d’avantage économique – et il existait clairement un avantage économique – j’aurais néanmoins conclu qu’il faut respecter la décision commerciale que l’appelante a prise au sujet de la façon de mener son entreprise. Quoi qu’il en soit, je conclus que le rapport de M. Bradley est plus convaincant. Toutefois, je tiens à répéter qu’il ne s’agit pas ici d’un concours entre deux experts quant à la meilleure façon d’exploiter une entreprise. De toute évidence, l’appelante a choisi une méthode qui porte fruit. Une fois que j’ai conclu que la décision de loger les employés dans des habitations appartenant à la société et de fournir d’autres installations dans les dépendances est une décision commerciale, il ne m’appartient pas, et il n’appartient pas au ministre, de contester cette décision, même si je n’y souscrivais pas, ce qui n’est pas le cas. La fourniture d’installations aux employés actionnaires, comme le logement et une partie des dépendances, était clairement une décision commerciale qui, dans ce cas‑ci, était avantageuse sur le plan commercial.
+[24] Nous avons ici un excellent exemple d’un cas dans lequel l’ARC cherche à substituer son jugement sur le plan des affaires à celui du contribuable. Les solutions de rechange proposées par l’intimée auraient eu pour effet de diminuer la rentabilité de l’entreprise. La façon dont l’appelante choisit d’exercer ses activités commerciales fort rentables est une décision commerciale, et le ministre du Revenu national n’a pas le droit de substituer son jugement à celui de la société et de préconiser d’autres solutions qui lui plaisent davantage. (Voir par exemple Gabco Limited v. M.N.R., 68 DTC 5210.) À coup sûr, la fourniture de logements aux employés actionnaires et d’installations dans les dépendances fait partie intégrante de la façon dont l’appelante exploite son entreprise et de son processus générateur de revenus. Le village et les dépendances au complet ont été acquis aux fins de gagner ou de produire un revenu. Par conséquent, malgré l’argumentation fort complète et sérieuse de Me Woon, j’ai conclu que ces biens ne sont pas exclus, en raison de l’application de l’alinéa 1102(1)c) du Règlement, des catégories de biens amortissables à l’égard desquelles une DPA peut être demandée.
+[25] Les appels sont accueillis avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les présents motifs. La nouvelle cotisation concernant l’année 2000, qui est frappée de prescription, est annulée.
+Signé à Ottawa, Canada, ce 11e jour de juillet 2008.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 1er jour de mai 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008CCI409
+No DU DOSSIER DE LA COUR : 2005-1804(IT)G
+INTITULÉ : Jolly Farmer Products Inc.
+et
+La Reine
+LIEU DE L’AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Les 23, 24, 25, 26 et 27 juin 2008
+MOTIFS DU JUGEMENT : L’honorable juge en chef Bowman
+DATE DU JUGEMENT
+ET DES MOTIFS DU JUGEMENT : Le 11 juillet 2008
+COMPARUTIONS :
+Avocats de l’appelante :
+Me John D. Townsend
+Me Craig Wilson
+Avocats de l’intimée :
+Me Cecil S. Woon
+Me Lindsay Holland
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : John D. Townsend
+Cabinet : Cox & Palmer
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

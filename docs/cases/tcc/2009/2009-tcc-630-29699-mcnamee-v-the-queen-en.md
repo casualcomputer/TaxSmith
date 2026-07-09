@@ -1,0 +1,117 @@
+---
+title: "McNamee v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29699/index.do"
+last_modified: "2009-09-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 630"
+citation2: ""
+neutral_citation: "2009 TCC 630"
+decision_date: "2009-09-24"
+language: "en"
+item_id: "29699"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6204
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:55:19.536000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "577cdc5a71c4cf68a625f3738129849f8b84ac4c1be913661c27c3609011c10b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McNamee v. The Queen
+
+- Citation: 2009 TCC 630
+- Decision date: 2009-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6204, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNamee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-24
+Neutral citation
+2009 TCC 630
+File numbers
+2008-2699(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 630
+Date: 20100105
+Docket: 2008-2699(IT)I
+BETWEEN:
+JOHN C. McNAMEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Sara Chaudhary
+____________________________________________________________________
+AMENDED REASONS FOR JUDGMENT
+(Delivered orally from the bench
+on September 24, 2009, in Kingston, Ontario.)
+McArthur J.
+[1] The Appellant, John McNamee, has been immersed in the complex RRSP legislation with formulas and calculations under the Income Tax Act. The issue arose from an excess contribution he made to his RRSP in 1997 after he was downsized from work with the Town of Napanee. The issue in his appeal narrows down to whether penalties and interest totalling $2,719 had been properly imposed by the Minister of National Revenue. The comprehension of the computations that I will refer to are not only out of reach for most Canadians but to many officers of Canada Revenue Agency.
+[2] The facts are as follows. For 1997, the Appellant made an RRSP contribution of $44,000, and claimed an RRSP deduction of $18,200 and carried forward the excess contribution of $25,800. He did this, I believe, in contemplation of finding new employment which did not happen.
+[3] For the 1998 taxation year, he claimed $2,881 of excess contribution as an RRSP deduction.
+[4] In February 2004, the Appellant filed a T3012A, a deduction waiver on the refund of your undeducted RRSP contributions. This application was rejected by the Minister in March of 2004. In June of 2007, some three years later, the Minister informed the Appellant that the excess contributions would be subject to a 1% tax as they were withdrawn late.
+[5] He was advised to file a T1-OVP, Individual Income Tax Return for RRSP Excess Contributions for 2003 and 2004. He did this forthwith. For the 2004 taxation year he included as income a $24,000 withdrawal from his RRSP and claimed $7,200 as a credit for tax withheld at source for the said withdrawal.
+[6] In September 2007, he was assessed the following; $2,510 in Part X.1 Tax as well as a late filing penalty of $426.73 penalty for the T1-OVP, and applicable interest for the 2003 taxation year, and $209,18 in Part X.1 Tax as well as a $35.56 penalty for the late filed T1-OVP and applicable interest for the 2004 taxation year.
+[7] The Appellant’s position from his Notice of Appeal is that no penalties and interest should apply and that only the $7,200 in withholding tax that has already been paid should remain.
+[8] However, the Minister was correct in denying the Appellant’s T3012A application to withdraw the over-contribution tax free. For the Appellant to recover his over-contribution, paragraph 146(8.2)(c) requires the amount to have been withdrawn in the year it was paid and the year in which the Appellant was assessed or the following year. Since the over-contribution was made in 1997, the latest possible time for filing the T3012A would have been 1999, the year following in which the Appellant was assessed. The Appellant submits that he was only made aware of the deadlines some three years later.
+[9] The statutory provision which imposes a 1% tax on RRSP over contributions is subsection 204.1(2.1), which states in part:
+204.1(2.1) Where, at the end of any month an individual has a cumulative excess amount in respect of Registered Retirement Savings Plans, the individual shall pay a tax under this Part equal to 1% of that cumulative excess amount.
+The term “cumulative excess amount” in respect of RRSPs is defined in subsection 204.2(1.1). For the purposes of this hearing, it is the amount of undeducted RRSP premiums which exceeded the $2,000 allowable over-contribution and a formula follows resulting in the amount of $20,919. I am satisfied that the calculation was done correctly.
+[10] In addition in the Act, an additional penalty for failing to file a T1-OVP on time was applied. The provision imposes a 5% tax payable plus 1% per month to a maximum of 12 months. That is contained in section 162(1), and the calculation by the Minister is correct.
+[11] Again, the Appellant does not contest the $7,200 in tax which he paid. I believe he has done all he could to abide by the provisions of the Act. I found him a sincere and reliable witness. He sought assistance from CRA, receiving little helpful guidance. A letter from the CRA dated February 2004 provided incorrect information.
+[12] Upon a further letter of May 23, 2004, he met with Mrs. Guffy, who he praised as being most helpful, and he acted immediately on her advice.
+[13] I highly recommend that the Minister considers, if it has not been made, a decision to waive the interest and penalties. I find Mr. McNamee to be a very deserving taxpayer. He over-contributed in 1997, and was unaware of the consequences until he heard from CRA in 2003. He innocently over-contributed and upon being advised, he acted immediately. This very complex legislation should not be used to penalize the innocent and the uninformed, which Mr. McNamee and 99% of taxpayers would be.
+[14] I strongly recommend that the Appellant apply under subsection 220(3.1) to the Minister of National Revenue to waive the interest and penalty. He paid the $7,200 upon withdrawal of the overpayment. If a taxpayer is unsuccessful before the Minister, a review can be made to the Federal Court.
+[15] In accordance with the legislation, I must dismiss the appeals.
+Signed at Ottawa, Canada, this 5th day of January 2010.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2009 TCC 630
+COURT FILE NO.: 2008-2699(IT)I
+STYLE OF CAUSE: JOHN C. McNAMEE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: September 23, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF AMENDED JUDGMENT: January 5, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sara Chaudhary
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

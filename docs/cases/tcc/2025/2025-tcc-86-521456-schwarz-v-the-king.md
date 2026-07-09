@@ -1,0 +1,166 @@
+---
+title: "Schwarz v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521456/index.do"
+last_modified: "2025-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 86"
+citation2: ""
+neutral_citation: "2025 TCC 86"
+decision_date: "2025-06-16"
+language: "en"
+item_id: "521456"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5418
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:15:15.117000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e713b5fb4dae5090afb5091939d920b6a363aa0afe465fdceff1e26029a4d273"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schwarz v. The King
+
+- Citation: 2025 TCC 86
+- Decision date: 2025-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5418, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schwarz v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-06-16
+Neutral citation
+2025 TCC 86
+File numbers
+2024-1738(IT)APP
+Judges and Taxing Officers
+Sophie Matte
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1738(IT)APP
+BETWEEN:
+KLAUS SCHWARZ,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on March 31, 2025, at Ottawa, Ontario
+Before: Associate Judge Sophie Matte
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Carl Venne
+JUDGMENT
+UPON hearing the application for an Order extending the time within which the appeal of the reassessments and assessment made under the Income Tax Act of the Applicant’s 2008 to 2014 taxation years may be instituted;
+AND in accordance with the attached Reasons;
+The application is dismissed without costs.
+Signed this 16th day of June 2025.
+“Sophie Matte”
+Matte A.J.
+Citation: 2025 TCC 86
+Date: June 16, 2025
+Docket: 2024-1738(IT)APP
+BETWEEN:
+KLAUS SCHWARZ,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Matte A.J.
+[1] Klaus Schwarz is applying to the Tax Court of Canada (the “Court”) for an extension of time to file an appeal in respect of his 2008 to 2014 taxation years.
+[2] A taxpayer may appeal to the Court within 90 days from the date of the Notice of Confirmation. If the taxpayer is unable to appeal within this 90-day window, he or she has an additional year to file an application to the Court requesting an extension of time to appeal.
+[3] The Respondent’s position is that Mr. Schwarz did not file his application before the expiration of the 90-day plus-one-year deadline. Therefore, the application is late and should be dismissed.
+[4] Mr. Schwarz’s position is that the Canada Revenue Agency’s (the “CRA”) unreasonable delay in sending the notice of confirmation in respect of his 2008 to 2014 taxation years constitutes a procedural unfairness and justifies an extension of time to file his appeal. Mr. Schwarz is seeking to appeal on the grounds that the CRA negotiated a cheque sent by him in full settlement of his outstanding debt and is therefore barred from claiming additional payments. Mr. Schwarz stated that his primary objective before the Court was to establish that he owes no tax.
+[5]
+I. Background [5] Mr. Schwarz objected to the reassessments and one assessment issued by the Minister of National Revenue (the “Minister”) for his 2008 to 2014 taxation years, which disallowed charitable donations that he allegedly made through participation in the Global Learning Gifting Initiative (“GLGI”) scheme. The Minister confirmed the reassessments and assessment by Notice of Confirmation dated April 8, 2021.
+[6] Mr. Schwarz testified that he was contacted by someone from the CRA collections’ department some time in June of 2021. The CRA officer referred to the Notice of Confirmation dated April 8, 2021. Mr. Schwarz said he never received the Notice of Confirmation. After several unsuccessful attempts to reach the CRA Appeals Officer in charge of his file to get more information about his objections, Mr. Schwarz wrote a letter to the Chief of Appeals on July 26, 2021. In his letter, Mr. Schwarz raised what he considered to be the CRA’s continued questionable actions over the past 10 plus years and said he felt that he had not been treated fairly or in a timely manner. He concluded by saying “I am enclosing a cheque for $86,619.66[1] in full fulfillment of his outstanding debt with the CRA”. Mr. Schwarz testified that the amount owed at the time was around $170,000.
+[7] The CRA cashed the cheque on September 21, 2021.
+[8] Mr. Schwarz testified that, since then, he has been trying to get the CRA to remove all outstanding debt from his account based on the CRA’s acceptance of the terms and conditions set out in his letter of July 26, 2021, without involving the Court. He did so, namely through letters sent to the Minister in September 2022, March 2023 and April 2024, but with no success.
+II. The Issue [9] The sole issue before this Court is whether Mr. Schwarz’s application for an extension of time to appeal should be granted.
+III. Analysis [10] The Court can only grant a taxpayer’s application for an extension of time to appeal an assessment if the following conditions are met:
+(a)The taxpayer must make the application within one year after the expiration of the 90-day period for appealing an assessment; and
+(b)The taxpayer must demonstrate that:
+Within the 90-day prescribed period, he or she was unable to act or instruct another to act in the taxpayer’s name, or had a bona fide intention to appeal;
+Given the reasons set out in the application and the circumstances of the case, it would be just an equitable to grant the application;
+The application was made as soon as circumstances permitted; and
+There are reasonable grounds for the appeal.[2]
+[11] The burden is on the taxpayer to prove that these conditions are met. A failure to meet any one of these conditions is fatal to the application.[3]
+[12] I will review these conditions considering the facts in this case, starting with the time when the application was to be filed.
+The application must be filed within one year of the 90-day period to appeal [13] The Notice of Confirmation was deemed to be sent to Mr. Schwarz on April 8, 2021. This means that the deadline to apply for an extension of time to file an appeal expired on July 7, 2022. Mr. Schwarz filed his application on July 30, 2024, well past the deadline.
+[14] Mr. Schwarz claims that he did not receive the Notice of Confirmation dated April 8, 2021, until November 2021, when it was resent to him, at his request, on November 9, 2021, by regular mail.
+[15] There is a four-step analysis set out in Boroumend v the Queen [4] that applies when a taxpayer claims that he or she did not receive the Notice of Confirmation. While I accept Mr. Schwarz testimony that he did not receive the Notice of Confirmation when it was first sent in April 2021, I do not see the need to go through the Boroumend analysis in this case. Instead, I rely on the affidavit evidence from the Respondent[5] which attests that a copy of the Notice of Confirmation was sent to Mr. Schwarz on November 9, 2021, by regular mail, further to service-related feedback filed by Mr. Schwarz in which he requested a copy of the Notice of Confirmation dated April 8, 2021. I also rely on Mr. Schwarz’s own admission that he received this copy of the Notice of Confirmation in November 2021. Mr. Schwarz did not specify which date in November 2021 he received the Notice of Confirmation, but giving him the maximum benefit, it is undisputed that Mr. Schwarz received the Notice of Confirmation by, at the latest, November 30, 2021. This means Mr. Schwarz had until February 28, 2022, to file an appeal and had until February 28, 2023, to file an application to extend the time to appeal.
+[16] Regardless of whether the Notice of Confirmation was sent on April 8, 2021, or on November 9, 2021, it does not change the fact that Mr. Schwarz’s application was filed late.
+[17] Mr. Schwarz’s application states that he is appealing from a decision dated November 7, 2023. The letter, which was not filed into evidence, was a response from the CRA to Mr. Schwarz’s complaint regarding his claims that the CRA was estopped from claiming that amounts were owed, to the timeliness of the Minister’s response to his correspondence and to a privacy breach. Mr. Schwarz cross-examined the CRA Litigation Officer on the fact that the Notices of Objection had different reference numbers (GB numbers) than the number of the case he was appealing to the Court. He made the Officer point out that his appeal did not reference appealing his 2008 to 2014 taxation years.
+[18] As I will further address below, the letter from the CRA is not a decision or a claim that can be appealed to this Court. The date of this letter, November 7, 2023, can therefore not be used as a starting point to calculate the time within which Mr. Schwarz can appeal or apply for an extension of time to appeal to this Court.
+[19] As Mr. Schwarz’s application fails on this first condition, it is not necessary to consider the other conditions stated above. However, I think that it is important that I comment on the last condition, the existence of reasonable grounds for the appeal, as it is highly relevant to the application before me.
+Reasonable grounds for appeal [20] As outlined in Stein v R [6], a taxpayer who seeks relief that the Court does not have jurisdiction to grant, does not have a reasonable ground for appeal. Specifically in Stein, the Court explained that the Court’s jurisdiction is limited to determining whether the Minister has correctly determined the amount of tax payable. Writing off a tax debt is a different matter altogether and it is not the type of relief that is within this Court’s jurisdiction to grant.[7]
+[21] Mr. Schwarz’s written outline of his oral submissions, handed to me at the hearing, states the relief he is seeking from the Tax Court:
+That the Court recognize that the cheque negotiated by the CRA constituted a final settlement of the tax debt under the doctrine of Accord and Satisfaction;
+Find that the CRA is estopped from asserting additional claims due to its acceptance of the payment without objection;
+Find that the CRA’s unreasonable delay constitutes procedural unfairness, and grant the Appellant’s request for either:
+An extension to file the present claim before the Tax Court;
+An order directing the CRA to dismiss all outstanding debt based on Commercial Law Principles.
+[22] At the hearing, I confirmed with Mr. Schwarz that he is not looking to contest the reassessments and assessment of his 2008 and 2014 taxation years. He is instead asking the Court to relieve him from tax debt owed to the CRA. As stated above, Mr. Schwarz’s requested relief is not within the Court’s jurisdiction to grant, and as such it is not a reasonable ground for appeal. Mr. Schwarz alleges no other ground for appeal and therefore his application should fail for this reason also.
+[23] For these reasons, Mr. Schwarz’s application for an extension of time to file an appeal is dismissed without costs.
+Signed this 16th day of June 2025.
+“Sophie Matte”
+Matte A.J.
+CITATION:
+2025 TCC 86
+COURT FILE NO.:
+2024-1738(IT)APP
+STYLE OF CAUSE:
+KLAUS SCHWARZ AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 31, 2025
+REASONS FOR JUDGMENT BY:
+Associate Judge Sophie Matte
+DATE OF JUDGMENT:
+June 16, 2025
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Carl Venne
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] There was no clear evidence as to what this amount represented but it appears that it was tax owing at the time of payment, excluding penalties and interest.
+[2] Income Tax Act, RSC 1985, c 1 (5th Supp), s 167(5).
+[3] Dewey v R, 2004 FCA 82 at para 3.
+[4] 2016 TCC 256, affirmed in 2017 FCA 245.
+[5] Affidavit of Sandeep Bhuttay, Appeals Officer at the CRA, dated November 8, 2024.
+[6] 2013 TCC 345.
+[7] Ibid at para 13.

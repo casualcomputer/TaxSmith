@@ -1,0 +1,174 @@
+Title: Mullen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22830/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-195-22830-mullen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-01
+
+# Mullen v. The Queen
+
+- Citation: 2003 TCC 195
+- Decision date: 2003-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2336, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mullen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-01
+Neutral citation
+2003 TCC 195
+File numbers
+2001-3820(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3820(IT)I
+BETWEEN:
+WILLIAM A. MULLEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 27, 2002, at Edmonton, Alberta,
+Before: The Honourable Judge M.A. Mogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret McCabe
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, with costs, if any, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to a deduction for child support in the amount of $8,000 for 1998 and $1,440 for 1999.
+Signed at Ottawa, Canada, this 1st day of April, 2003.
+"M.A. Mogan"
+J.T.C.C.
+Citation: 2003TCC195
+Date: 20030401
+Docket: 2001-3820(IT)I
+BETWEEN:
+WILLIAM A. MULLEN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The issue in these appeals is whether the Appellant may deduct in computing income certain payments made for the maintenance of a child. The facts are not in dispute. In 1984-1985, the Appellant had a relationship with a woman whom I will call "F". The Appellant was never the spouse or common-law partner of F. After the relationship ended, F gave birth to a child ("J") in December 1985. In February 1986, the Appellant and F signed a "Paternity Agreement" pursuant to certain legislation in the Province of Alberta. Under that agreement, the Appellant was required to pay $120 per month for the maintenance of J.
+[2] In 1992, the Appellant and his wife Barbara were divorced; and he was required to pay to Barbara support with respect to their two daughters born in 1976 and 1978. Those support payments ended in 1998 when the Appellant paid an aggregate amount of $6,560 with respect to the two daughters. In each of 1998 and 1999, the Appellant paid an aggregate amount of $1,440 (12 x $120) for the maintenance of J. When computing his income, the Appellant deducted as maintenance payments the amounts $8,000 ($6,560 plus $1,440) for 1998 and $1,440 for 1999. By Notices of Reassessment, the Minister of National Revenue disallowed the deduction of the $8,000 for 1998 and the $1,440 for 1999. The Appellant has appealed from those assessments and has elected the informal procedure. The only years under appeal are 1998 and 1999.
+[3] In argument, counsel for the Respondent conceded that, for 1998, the amount of $6,560 is deductible as maintenance paid to Barbara for the two daughters. Therefore, the only issue in each year is the amount of $1,440 (12 x $120) paid by the Appellant for the support of J. The basic provision of the Income Tax Act which permits the deduction of support payments is paragraph 60(b):
+60 There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+(a) ...
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+The most important factor in the above formula is "A" because, if a particular taxpayer cannot qualify an amount as falling within "A", there is nothing at all to deduct under paragraph 60(b). The essence of "A" is the total of all amounts each of which is a "support amount". Subsection 60.1(4) incorporates the definitions from subsection 56.1(4) into sections 60 and 60.1. Support amount is defined in subsection 56.1(4) as follows:
+56.1(4) "support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[4] Having regard to the definition of "support amount", the Appellant cannot qualify any amount under paragraph (a) because it is an undisputed fact that F never was the spouse or common-law partner of the Appellant. Under paragraph (b), at first blush, the Appellant cannot qualify the amounts in question because those amounts were payable and receivable under the Paternity Agreement and not under "an order made by a competent tribunal in accordance with the laws of a province". I say at first blush because counsel for the Respondent quite fairly brought to my attention certain provisions of the Parentage and Maintenance Act and the Maintenance Enforcement Act (two Alberta statutes) which seem to favour the Appellant. For convenience, I shall refer to the Parentage and Maintenance Act as the "PMA" and to the Maintenance Enforcement Act as the "MEA".
+[5] In my view, the relevant provisions of the PMA are as follows:
+1 In this Act,
+(a) "agreement" means an agreement under section 6, and includes a variation of the agreement;
+(b) "child" means a child born of parents who are not married to each other;
+(c) "Court" means the Court of Queen's Bench;
+(k) "order" means an order made under this Act, and includes a variation of the order;
+(l) "parent" means a mother or a father.
+6(1) A parent may enter into an agreement in the form prescribed in the regulations with
+(a) the Director,
+(b) the other parent, or
+(c) any other person having the care and control of the parent's child,
+whereby the parent agrees to pay any or all of the expenses referred to in subsection (2).
+6(2) An agreement may refer to any or all of the following expenses:
+(a) reasonable expenses for the maintenance of the mother
+(i) ...
+(b) reasonable expenses for the maintenance of the child before the date of the agreement;
+(c) monthly or periodic payments for the maintenance of the child until the child reaches the age of 18 years;
+(d) ...
+7(1) Subject to subsection (5), an application may be made to the Court for an order
+(a) declaring that the respondent is a parent for the purpose of this Act; and
+(b) directing the payment of any or all of the expenses referred to in section 16(2).
+7(2) An application under subsection (1) may be made by
+(a) a parent,
+(b) a child,
+(c) a person who has the care and control of a child, or
+(d) the Director on behalf of the Government, where the Government has a right of subrogation under section 14 of the Social Development Act.
+The above provisions of the PMA are the source of the Paternity Agreement which was signed in February 1986 and entered as Exhibit R-1. There is a link between the PMA and the MEA. In my view, the relevant provisions of the MEA are as follows:
+1(1) In this Act,
+(d) "maintenance" means maintenance, support or alimony and includes
+(i) an amount payable periodically, whether annually or otherwise and whether for an indefinite or limited period or until the happening of a specified event,
+(ii) ...
+(e) "maintenance order" means an order or interim order of a court in Alberta, a Queen's Bench protection order under the Protection Against Family Violence Act or an order, other than a provisional order that has not been confirmed, registered under the Reciprocal Enforcement of Maintenance Orders Act that has a provision requiring the payment of maintenance.
+1(2) An agreement entered into under section 6 of the Parentage and Maintenance Act or section 51 of the Income Support Recovery Act is deemed to be a maintenance order under this Act.
+12(1) The Director or a creditor may file with the Court of Queen's Bench a maintenance order that is not otherwise filed with the Court and, on being filed, the parts of the maintenance order that relate to maintenance are deemed to be a judgment of the Court of Queen's Bench.
+[6] Although section 7 of the PMA permits a parent to apply to the Court of Queen's Bench (Alberta) for an order declaring a named individual to be a parent and directing the payment of certain expenses, there was no such application to the Court in the circumstances of this case. The child J was born in December 1985 and, in February 1986, the Appellant and F signed the Paternity Agreement (Exhibit R-1) under section 6 of the PMA. According to subsection 1(2) of the MEA, the Paternity Agreement is deemed to be a "maintenance order" under the MEA. The question logically arises whether the deeming provision of subsection 1(2) of the MEA causes the Paternity Agreement (Exhibit R-1) to be regarded as an "order made by a competent tribunal in accordance with the laws of a province" within the meaning of paragraph (b) of the definition of "support amount" in subsection 56.1(4) of the Income Tax Act. See paragraph 3 above. The question has already been considered in other cases before this Court. I will review those other cases in chronological order.
+[7] In Fantini v. M.N.R. (Court File 96-3863I, Judgment December 5, 1997), the taxpayer was the mother of a little girl (T) born in January 1993. Ms. Fantini and SW entered into a maintenance agreement in July 1993 under the Alberta Parentage and Maintenance Act. SW acknowledged that he was the father of T although he had never been the spouse or common-law partner of Ms. Fantini. Under that agreement SW was required to pay $300 per month to Ms. Fantini for the maintenance of T. The amounts paid by SW to Ms. Fantini under the maintenance agreement were included in her income for 1993 and 1994 by Revenue Canada (as it was then known). She appealed under the informal procedure claiming that the maintenance payments should not be taxed in her hands. When allowing the appeal of Ms. Fantini, Judge Bowman stated:
+13 There was in fact no court order that the father make the payments in question. The fact that a provincial statute deems a maintenance agreement to be an order made by court (obviously for the purposes of the Maintenance Enforcement Act) does not make it an order for purposes of the federal Income Tax Act. This is not a constitutional matter of legislative competence. It is a simple matter of statutory construction. As James L.J. said in Ex parte Walton; In re Levy, 17 Ch. D. 746 at 756:
+When a statute enacts that something shall be deemed to have been done, which in fact and truth was not done, the Court is entitled and bound to ascertain for what purposes and between what persons the statutory fiction is to be resorted to.
+14 That observation was made in the context of the interpretation of one statute. It applies a fortiori in this case. Here we have the Minister of National Revenue seeking to transpose a provincial statutory fiction into a federal statute. That cannot be done. Of course Parliament could by appropriate language in a federal statute adopt, for the purposes of that statute, a provincial statutory fiction. That is not however what happened here. The point seems self-evident.
+15 I am not unmindful of the decision of the Federal Court of Appeal in Hillis v. The Queen, 83 DTC 5365 where the effect of a deeming provision in a Saskatchewan statute was considered in relation to when an estate became indefeasibly vested. This I think is an illustration of the principle, as stated in Dale v. The Queen, 97 DTC 5252, that the Minister takes legal relationships between subjects as he finds them and they are in most cases governed by provincial law. It does not follow from that case that something that is deemed to by something that it is not for the purposes of a provincial statute can have that artificial meaning apply for the purposes of the Income Tax Act.
+[8] In Dale v. The Queen, 97 DTC 5252, the case which Judge Bowman referred to, a father and son decided to "roll" certain property into a corporation under section 85 of the Income Tax Act and receive, as consideration, assumption of the mortgage and certain shares of the corporation. The rollover was executed in 1985 but, in 1988, it was discovered that the charter of the corporation had not been amended to permit the issuing of the shares. In 1992, an order was obtained from the Supreme Court of Nova Scotia retroactively confirming the issuance of the shares in question. Revenue Canada assessed tax on the transfer of the property assuming that the section 85 rollover had not been effective because the shares had not been validly issued in 1985. The Federal Court of Appeal, by a majority judgment, allowed the taxpayers' appeal. Robertson J.A. writing for the majority stated in paragraph 18:
+18 On the facts of this appeal, the Nova Scotia court granted the June 25, 1992 order on the basis of section 44 of the Nova Scotia Companies Act. In my view, any objection that the court lacked jurisdiction to issue that order is without foundation. If the legislature of a province authorizes its courts to deem something to have occurred on a date already past, then it is not for the Minister to undermine the legislation by refusing to recognize the clear effect of the deemed event. In any case I am not prepared to concede that section 44 has the revisionist effect advanced by the Minister. This is not a case where a court order deems shares to have been issued when in fact they were not. This is a case where shares were issued, but not validly so until such time as either supplementary letters patent were obtained in Prince Edward Island or the Nova Scotia court granted the June 25, 1992 order. After all, no one has argued that the share issuance constituted a nullity, nor could it be so argued.
+(Emphasis added)
+[9] In Hollands v. The Queen, [2001] 4 C.T.C. 2755, Judge Teskey was faced with a similar fact situation in the Province of Alberta. Mr. Hollands signed a paternity agreement with MM acknowledging that he was the father of MM's child and agreeing to pay a fixed sum per month for the maintenance of the child. When Mr. Hollands deducted the maintenance payments in computing income for 1998 and 1999, Revenue Canada disallowed the deductions. When allowing Mr. Hollands' appeal, Judge Teskey stated:
+12 The Respondent directed the Court to the decision of Fantini v. The Queen, [1998] 2 C.T.C. 2256. The facts in that case are almost identical to the case at hand. In that case my colleague Bowman J. (as he then was) decided that the Alberta statute, which deemed a maintenance agreement to be an order by a court did not make it a court order for the purposes of the Income Tax Act. Bowman J. in his reasons for judgment stated:
+... Here we have the Minister of National Revenue seeking to transpose a provincial statutory fiction into a federal statute. That cannot be done. Of course Parliament could by appropriate language in a federal statute adopt, for the purposes of that statute, a provincial statutory fiction. That is not however what happened here. ...
+13 I respectfully disagree with this position. By using the phrase "an order made by a competent tribunal in accordance with the laws of a province" in paragraph 56.1(4)(b) of the Act, Parliament has decided to transpose the laws of a province concerning orders into a federal statute. If the laws of a province operate to create a statutory fiction then it is not for the Minister to decide otherwise. The agreement therefore is a court order.
+[10] The most recent decisions in this area of the law are Fraser v. The Queen and Hewko v. The Queen, two cases heard by Judge Bowie involving similar fact situations in the province of Alberta. Judge Bowie heard the cases separately but issued his judgments simultaneously, having re-opened the hearing in each case to receive argument on a constitutional point. His decisions are summarized at 2002 DTC 3905 and 3924-3925. Judge Bowie required argument on the constitutional point only because he found against the taxpayers on the interpretation of the Maintenance Enforcement Act ("MEA"). In his decisions delivered on July 2, 2002, Judge Bowie stated:
+5 Counsel for the Respondent referred me to two earlier decision of this Court in which exactly the same issue has been decided. In Fantini v. The Queen, Bowman J. (as he then was) held that the Alberta statute could have no such effect. ...
+6 The same point came before Judge Teskey in Hollands v. The Queen. He took a different view of the matter from Judge Bowman. ...
+7 A provincial legislature may, as to subject matters assigned to the provinces by section 92 of the Constitution Act, 1867, deem a thing to be that which in reality it is not. Provided that deeming is not a colourable intrusion upon the legislative field assigned to Parliament, it can be effective for all purposes, if that is what the legislature intends. In such a case, the legal status of the thing deemed is established by the provincial law, for purposes of both federal and provincial statutes. However, as Bowman A.C.J. pointed out in Fantini, the extent to which the deeming applies must be ascertained as a matter of construction of the provincial legislation. It is quite clear, in my view, from both the context and the language of subsection 1(2) of the MEA, that its operation is limited to the confines of that act. First, it is found in a section which deals with definitions. That suggests that its operation is limited to the act in which it is found. Second, the agreement is deemed to be a maintenance order "under this Act". That, too, suggests that the operation of the deeming provision is limited to the purposes of the MEA. Its purpose is to bring an agreement within the expression "maintenance order", which is defined immediately above to mean one of a number of types of orders there referred to, including orders of courts outside the province that have been registered under the Reciprocal Enforcement of Maintenance Orders Act. The MEA creates an office called the Director of Maintenance Enforcement. Its whole purpose is to provide for the enforcement of certain types of court orders by the Director, for the benefit of children, spouses and former spouses who are the beneficiaries of those orders. For that purpose, the Director is given certain powers, and it is only for that purpose that the agreement here in question, as well as agreements made under the Income Support Recovery Act and the Child Welfare Act, are deemed to be within the expression "maintenance order" when it is used in the MEA.
+8 Does section 12, which deems a maintenance order filed with the Court of Queen's Bench to be a judgment of that Court, have effect beyond the confines of the MEA? I do not believe it does. Standing alone, it might appear to, but it must be read with section 1. If the deeming of the agreement to be a maintenance order is limited to the purposes of the MEA,then the operation of section 12 on that Order must equally be limited. I conclude, therefore, that the agreement pursuant to which the Appellant made the maintenance payments is not "¼ an order made by a competent tribunal in accordance with the laws of a province ¼" for purposes of the Income Tax Act.
+[11] It seems obvious that the purpose of the Maintenance Enforcement Act ("MEA"), as its name implies, is to recognize certain obligations to provide for the maintenance of a parent or child, and to facilitate the enforcement of those obligations. The definition of a "maintenance order" in the MEA includes three different kinds of orders one of which is an order "registered under the Reciprocal Enforcement of Maintenance Orders Act ... requiring the payment of maintenance". Most provinces have legislation with respect to the reciprocal enforcement of maintenance orders so that a maintenance order issued in any one province may be enforced, with a minimum of difficulty, in another province. Having regard to financial obligations in family law, there is a very real and desirable social policy in provincial legislation like the MEA.
+[12] In federal law, the Income Tax Act attempts to encourage the payment of certain financial obligations in family law by permitting a deduction of the amount paid in the income of the payor and requiring an inclusion of the amount paid in the income of the payee on the basis that the payor usually has a higher income than the payee. Those provisions of the Income Tax Act which operate in this area have a purpose similar to provincial legislation like the MEA. I will therefore attempt to construe the relevant provisions of both federal and provincial legislation in a manner which would accommodate what may be broadly perceived as a common purpose.
+[13] In my opinion, the important words to construe are "an order made by a competent tribunal in accordance with the laws of a province" as those words appear in paragraph (b) of the definition of "support amount" in subsection 56.1(4) of the Income Tax Act. See paragraph 3 above. Under paragraph (b), the amount must be receivable under such an order if it is to be a "support amount". Under paragraph (a) of the same definition, the amount may be receivable "under an order of a competent tribunal or under a written agreement" and still be a "support amount".
+[14] If the natural parents of a child have never been spouses or common-law partners, an amount must be paid under an "order" if it is to qualify as a "support amount". An amount paid under a written agreement will not qualify. There is a fundamental difference between an order and a written agreement, particularly in the area of family law. An order has the advantage of reciprocal enforcement among provinces but an agreement, standing alone, does not.
+[15] Returning to the definition of "support amount" in subsection 56.1(4), an amount will qualify under paragraph (b) only if it is "receivable under an order ...". Section 6 of the PMA provides for a paternity agreement like Exhibit R-1. Subsection 1(2) of the MEA states that an agreement entered into under section 6 of the PMA is "deemed to be a maintenance order under this Act". And a "maintenance order" is defined in the MEA to mean, inter alia, "an order ... of a court in Alberta". It is within the competence of the Alberta Legislature to deem a paternity agreement under section 6 of the PMA to be a maintenance order. Indeed, to fulfil the purposes of the PMA and the MEA, it is desirable that a paternity agreement be conclusively regarded as a maintenance order.
+[16] Because a paternity agreement under section 6 of the PMA is deemed to be "an order ... of a court in Alberta" under subsection 1(2) of the MEA, and because the Appellant's payments of $1,440 in 1998 and 1999 were made under such a paternity agreement, I conclude that the amounts in dispute in these appeals were receivable "under an order made by a competent tribunal in accordance with the laws of a province" within the meaning of paragraph (b) of the definition of "support amount" in subsection 56.1(4) of the Income Tax Act. I am encouraged to reach this conclusion by the decision of the Federal Court of Appeal in Dale (see paragraph 8 above) from which I would paraphrase a sentence in the majority judgment as follows: If the legislature of a province deems a particular agreement to be a court order, it is not for the Minister of National Revenue to undermine the provincial legislation by refusing to recognize the agreement as an order of a competent tribunal.
+[17] I am also influenced by an observation of Judge Bowie in his decisions in Fraser and Hewko delivered on October 28, 2002 where he stated at paragraph 6:
+6. ... I cannot help but observe that it is a peculiar legislative policy that leads Parliament to provide a deduction in the computation of income to the non-custodial parents of children, where no spousal relationship is involved, if they resist fulfilling their responsibility and are later required to do so by a court order, while denying the deduction to those who volunteer to carry their share of the financial burden of parenthood by entering into a support agreement. It must be a rare individual who is sufficiently astute, or well advised, to insist upon having a consent order made to implement his voluntarily assumed obligation.
+In my view, it is not a legislative policy of Parliament to grant a deduction to the irresponsible parent who fails to pay maintenance and requires a court order, but to deny a deduction to the parent who honours a written agreement. I would circumvent any such result by accepting for all purposes the Alberta legislation which deems an agreement under section 6 of the PMA to be a court order under the MEA.
+[18] I have read with care the decisions of my colleagues Judge Bowman (as he then was) in Fantini and Judge Bowie in Fraser and Hewko. I regret that I do not view the relevant provincial legislation in the same way as Judge Bowman and Judge Bowie on facts which are so similar to the facts in these appeals. The appeals are allowed with costs (if any).
+Signed at Ottawa, Canada, this 1st day of April, 2003.
+"M.A. Mogan"
+J.T.C.C.
+CITATION:
+2003TCC195
+COURT FILE NO.:
+2001-3820(IT)I
+STYLE OF CAUSE:
+William A. Mullen and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+February 27, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge M.A. Mogan
+DATE OF JUDGMENT:
+April 1, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

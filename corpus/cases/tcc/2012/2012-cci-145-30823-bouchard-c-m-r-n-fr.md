@@ -1,0 +1,237 @@
+---
+title: "Bouchard c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30823/index.do"
+last_modified: "2012-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 145"
+citation2: ""
+neutral_citation: "2012 CCI 145"
+decision_date: "2012-06-05"
+language: "fr"
+item_id: "30823"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7411
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:35:36.474000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f66f61998802ba798ef74fab0a896a737a36bd6bbb34cccc95ea09607f286a88"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard c. M.R.N.
+
+- Citation: 2012 CCI 145
+- Decision date: 2012-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7411, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-05
+Référence neutre
+2012 CCI 145
+Numéro de dossier
+2011-2718(EI), 2011-2719(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-2718(EI)
+ENTRE :
+ODETTE BOUCHARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel
+de Forage Val-Brillant Inc. et Serge Fournier (2011-2719(EI),
+le 1er mars 2012, à Rimouski (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Éric Tremblay
+Avocat de l'intimé :
+Me Gabriel Girouard
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103 de la Loi sur l’assurance‑emploi est accueilli et la décision rendue par le ministre du Revenu national est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de juin 2012.
+« François Angers »
+Juge Angers
+Dossier : 2011-2719(EI)
+ENTRE :
+FORAGE VAL-BRILLANT INC.
+ET SERGE FOURNIER,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel
+d'Odette Bouchard (2011-2718(EI),
+le 1er mars 2012, à Rimouski (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelants :
+Me Éric Tremblay
+Avocat de l'intimé :
+Me Gabriel Girouard
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103 de la Loi sur l’assurance‑emploi est accueilli et la décision rendue par le ministre du Revenu national est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de juin 2012.
+« François Angers »
+Juge Angers
+Référence : 2012 CCI 145
+Date : 20120605
+Dossiers : 2011-2718(EI),
+2011-2719(EI)
+ENTRE :
+ODETTE BOUCHARD,
+FORAGE VAL-BRILLANT INC.
+ET SERGE FOURNIER,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Ces appels ont été entendus sur preuve commune et ils concernent une décision du ministre du Revenu national (le « ministre ») voulant que l'appelante Odette Bouchard n'ait pas occupé un emploi assurable du 1er juin au 22 août 2010 et du 13 septembre au 7 novembre 2010 alors qu'elle était au service de l'appelante Forage Val-Brillant Inc. (le payeur). Le ministre a déterminé que l'appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de cet emploi et qu'il n'était pas raisonnable de conclure, compte tenu des circonstances, que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[2] Il est admis que l'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu. Serge Fournier est l'époux de l'appelante et l'unique actionnaire du payeur. Le ministre a tenu compte des hypothèses de fait suivantes :
+a) l'appelante a été constitué en société le 8 juillet 2004; (admis)
+b) l'appelante exploitait une entreprise spécialisée dans le domaine du forage de puits de tout genre; (admis)
+c) l'unique actionnaire de l'appelante travaille à plein temps pour Béton Provincial du lundi au vendredi de 7 h à 16 h; (nié)
+d) de 2004 à 2009, l'appelante n'a eu aucune activité; (nié)
+e) pendant la période où l'appelante n'avait aucune activité, la travailleuse faisait les rapports d'impôts de l'appelante ainsi que la réponse invariable et mensuelle aux gouvernements à l'effet qu'aucune remise gouvernementale ne serait faite; (admis)
+f) la travailleuse prenait environ 2 semaines pour faire les rapports d'impôt de l'appelante et n'était pas payée pour faire ce travail; (nié)
+g) en 2010, l'appelante a obtenu un contrat avec Marzcorp Oil and Gaz afin d'effectuer le nettoyage d'un puits d'une profondeur de 480 pieds; (nié)
+h) en 2010, l'appelante n'a eu que ce seul contrat qui lui a rapporté la somme de 128 500 $; (nié)
+i) le chantier de ce contrat était situé dans le bois et était accessible par un chemin forestier. Aucune communication téléphonique ou par radio n'était possible; (nié)
+j) pour faire ce contrat, l'appelante avait un loader, des soudeuses, un lift, une génératrice et 2 roulottes; (nié)
+k) pour exécuter ce contrat, l'appelante a embauché 4 employés, soit un contremaître, Régis Sirois, 2 soudeurs, Réjean Sirois et William Angell et la travailleuse; (admis)
+l) Bernard Gagnon, actionnaire de Marzcorp Oil and Gaz inc., se rendait sur les lieux du chantier presqu'à chaque jour et arrêtait le soir à la résidence de Serge Fournier pour parler du travail en cours; (nié)
+m) les bureaux de l'appelante étaient situé à la résidence de l'actionnaire de l'appelante et de la travailleuse; (admis)
+n) avant d'être à l'emploi de l'appelante pendant les périodes en litige, la travailleuse était sans emploi; (admis)
+o) les principales fonctions de la travailleuse étaient liées à des travaux de teneur de livre, car elle devait monter les factures, faire les paies, les remises gouvernementales, les relevés d'emploi, les feuillets T4, les fins de mois, les dépôts bancaires, et à l'occasion elle devait faire l'achat de pièces et transiger avec les 2 fournisseurs du matériel loué et rédiger des comptes rendus aux 15 jours à la demande du client de l'appelante; (nié)
+p) toutes les décisions étaient prises par l'unique actionnaire de l'appelante; (admis)
+q) les heures de travail de la travailleuse étaient de 5 ou 6 heures jusqu'à 16 heures ainsi que les soirs et les fins de semaine au besoin; (nié)
+r) la travailleuse travaillait 8 heures par jour et au minimum 5 jours par semaine; (nié)
+s) les heures travaillées par la travailleuse et par les autres employés de l'appelante n'étaient pas inscrites dans un registre; (admis)
+t) la travailleuse était toujours payée pour 50 heures de travail par semaine peu importe le nombre d'heures réellement travaillées; (admis)
+u) en fait l'appelante respectait les règles établies par la Commission des normes du travail en versant à ses employés leur salaire régulier pour 40 heures et le reste en temps et demi; (admis)
+v) cette façon de faire donnait à la travailleuse un taux horaire de 16,50 $ puisqu'elle recevait toujours le même montant, soit 907,50 $ plus son 4 % de vacance qui pour la première période de travail lui a été versé à la fin de ladite période, alors que pour la deuxième période de travail le 4% de vacance lui était versé à chaque paie; (admis)
+w) les différentes périodes d'embauche en 2010 des travailleurs de l'appelante sont les suivantes : (admis)
+Juin
+Juillet
+Août
+Septembre
+Octobre
+Novembre
+La travailleuse
+X
+X
+Fin le 22
+Début 13
+X
+Fin le 7
+Réjean Sirois
+Du 1er au 27
+Début 21
+Fin le 1er
+Début 13
+X
+Fin le 14
+Régis Sirois
+X
+X
+Fin le 1er
+Début 13
+Fin le 10
+S/O
+William Angell
+X
+Fin le 22
+S/O
+S/O
+S/O
+S/O
+x) du 1er août au 22 août 2010, soit pendant 3 semaines, la travailleuse a été maintenue à l'emploi de l'appelante, alors que l'appelante avait été obligée d'arrêter le chantier dès le 1er août; (admis)
+y) pour se qualifier aux prestations d'assurance-emploi, la travailleuse devait obtenir 910 heures assurables; (admis)
+z) les périodes en litige totalisent exactement 20 semaines d'emploi; (nié)
+aa) si l'appelante avait considéré 40 heures par semaine travaillées par la travailleuse pendant 20 semaines d'emploi, la travailleuse n'aurait pas accumulé suffisamment d'heures de travail pour se qualifier aux prestations d'assurance-emploi; (nié)
+bb) la travailleuse était systématiquement payée pour 10 heures de temps supplémentaire chaque semaine; (admis)
+cc) le 25 août 2010, l'appelante remettait à la travailleuse un relevé d'emploi qui indiquait comme premier jour de travail le 1er juin 2010 et comme dernier jour de travail le 22 août 2010 et le nombre d'heures assurables étaient de 580 et la rémunération assurable était de 10 989,60 $; (admis)
+dd) le 18 novembre 2010, l'appelante remettait à la travailleuse un relevé d'emploi qui indiquait comme premier jour de travail le 13 septembre 2010 et comme dernier jour de travail le 7 novembre 2010 et le nombre d'heures assurables étaient de 400 et la rémunération assurable était de 7 550,40 $; (admis)
+ee) les relevés d'emploi de la travailleuse ne sont pas conformes au besoin opérationnel de l'appelante quant à la première période de travail et à la réalité quant aux heures réellement travaillées; (nié)
+[3] Serge Fournier travaille pour Béton Provincial depuis 22 ans. Résident de Ste-Paule, il doit se rendre à Matane (Québec) où est située l'usine de son employeur. Ses heures de travail sont de 6 h à 16 h et il est presque impossible de le rejoindre lorsqu'il est au travail. Il est aussi actionnaire du payeur.
+[4] Le payeur a eu un contrat en 2004 et ce n'est qu'en 2010 qu'il en a obtenu un autre. Le 30 avril 2010, le payeur a conclu une entente avec Marzcorp Oil & Gas Inc. (« Marzcorp ») dans le but de faire le nettoyage et des travaux d'évaluation d'un puits d'une profondeur de 4 700 pieds, et non de 480 pieds comme l'a supposé le ministre au paragraphe g). Le coût des travaux du contrat s'élevait à 552 003,90 $. Une entente écrite a été produite, mais seul le payeur l'a signée.
+[5] Puisque M. Fournier travaillait à plein temps, le payeur avait besoin de quelqu'un pour s'occuper de l'administration. L'appelante détient un diplôme de technicienne en administration, et puisqu'elle avait déjà fait ce travail pour le payeur en 2004, elle était tout à fait la personne désignée. Sa description de tâches se trouve à la pièce A-3, mais qu'il me suffise de dire qu'elle devait être présente au travail 40 heures par semaine et devait travailler les soirs et les fins de semaine au besoin. Elle était la réceptionniste et devait être le lien entre les travailleurs du chantier et le payeur et faire toute la comptabilité (états, dépôts, etc.). Elle effectuait ce travail dans un bureau situé dans la résidence qu'elle partageait avec M. Fournier. Elle devait aussi rencontrer chaque jour le représentant de Marzcorp.
+[6] Pour effectuer les travaux, le payeur a embauché un contremaître et deux autres hommes à tout faire. Le contremaître était payé 20 $ l'heure pour 60 heures de travail par semaine et les deux hommes, 14,50 $ l'heure pour 72 heures par semaine. Ils recevaient cependant un taux majoré de moitié pour les heures qui excédaient 40 heures par semaine. Le puits en question était situé loin de la civilisation et les employés demeuraient sur place dans des roulottes. Ils n'avaient pas besoin de tenir compte de leurs heures de travail et étaient payés ainsi de façon régulière.
+[7] De son côté, l'appelante, tout comme les autres employés, n'avait pas à tenir compte de ses heures de travail. Elle était rémunérée 16 $ l'heure pour 40 heures et recevait un taux majoré de moitié pour 10 heures supplémentaire chaque semaine. C'était donc le cas donc pour tous les employés. Dans le cas de l'appelante, elle était payée pour 50 heures par semaine peu importe les heures de travail. Le payeur dit avoir suivi la même méthode que son employeur Béton Provincial.
+[8] Les travaux ont commencé au début de juin 2010. On constate l'ampleur des travaux grâce aux photos déposées en preuve. Selon l'entente, Marzcorp devait verser 276 001,95 $, soit la moitié du coût total des travaux, mais ne l'a pas fait. Nonobstant cela, le payeur a commencé les travaux, et les paiements de Marzcorp tardaient à venir ou n'étaient que de petits montants. Devant cet état de choses, le payeur a décidé de mettre fin aux travaux à la fin de juillet et de mettre ses employés à pied. Le travail de l'appelante s'est cependant poursuivi pendant trois semaines afin qu'elle puisse compléter son travail de gestion, et surtout continuer les démarches auprès de Marzcorp pour se faire payer. Elle a été mise à pied trois semaines plus tard, soit le 22 août 2010, et le payeur a retiré le matériel du chantier.
+[9] À la mi-septembre, des représentants de Marzcorp ont convaincu le payeur de reprendre les travaux. Ils ont donc versé des fonds; le chantier a été ouvert de nouveau et les employés ont été embauchés de nouveau. Cela n'a cependant pas duré. Ayant toujours de la difficulté à se faire payer, le payeur a mis fin au contrat. Le chantier a été fermé et ils ont quitté les lieux. L'appelante a terminé son emploi le 7 novembre et le dernier employé, le 14 novembre 2010.
+[10] L'appelante a reçu deux relevés d'emploi qui indiquent en tout 980 heures de travail. N'eût été du fait que le payeur avait mis fin à son contrat avec Marzcorp, l'appelante aurait travaillé plus longtemps.
+[11] Le payeur a reçu 128 500 $ de Marzcorp pour son travail. Il a entamé une poursuite devant les tribunaux contre Marzcorp pour les 140 000 $ qui lui seraient encore dus.
+[12] L'appelante a décrit ses tâches, qui sont beaucoup plus semblables à celles d'un gestionnaire que d'une simple commis. Elle touchait à tout, plus précisément, elle assurait le lien entre le payeur et le représentant de Marzcorp. Ses heures de travail étaient de 7 h à 16 h, et parfois quelques heures plus tard. Le payeur est celui qui a fixé ses heures de travail à 50 heures par semaine et l'appelante en était contente car cela compensait les quelques heures de travail bénévole qu'elle consacrait au payeur chaque année pour faire les déclarations de revenus et d'autres petites tâches administratives. Dans le cas du payeur, cela n'avait rien à voir avec les heures de travail établies.
+[13] Ce qui a aussi retenu l'attention de l'agent des appels est le fait qu'au moment de la mise à pied des employés à la fin juillet, l'appelante était demeurée en poste pour trois semaines additionnelles avant d'être mise à pied, de sorte que ses heures de travail ne correspondent pas à celles des autres travailleurs.
+[14] L'agent des appels a aussi dit dans son rapport que l'entente du payeur avec Marzcorp n'a pas été signée par cette dernière, ce qui laisse entendre que l'entente n'est pas valide, et également que les coûts de main-d'œuvre prévus par le payeur n'incluaient pas le poste d'une secrétaire générale. Il a aussi retenu que l'appelante travaillait pour le payeur à d'autres moments que pendant la période en cause, pendant environ deux semaines par année sans être rémunérée. Il a conclu que le payeur et l'appelante ont décidé de compenser le travail non rémunéré, ce qui expliquerait pourquoi elle était payée pour 50 heures par semaine. Il a également conclu que quoique le taux horaire soit en-dessous des normes, l'appelante a reçu 47 000 $ durant l'année, ce qui est supérieur au salaire de 32 000 $ pour un travail comparable, selon l'Institut de la statistique du Québec.
+[15] Le rôle de la Cour en ce qui concerne la décision du ministre est de vérifier si les faits sur lesquels reposent les hypothèses du ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus et, après cette vérification, la Cour doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable (voir Légaré c. Canada, 1999 CanLII 8105 (CAF)). Le rôle du juge a aussi été défini par la Cour d'appel fédérale dans Pérusse c. Canada, 2000 CanLII 15136, au paragraphe 15, et je cite :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable »" (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[16] Je tiens d'emblée à préciser que la crédibilité de l'appelante et de son conjoint n'est pas en cause. Les deux ont témoigné avec candeur et ont présenté les faits sans nuancer quoi que ce soit.
+[17] Le payeur ayant obtenu un contrat de Marzcorp, il devait respecter les obligations qu'il avait acceptées. En plus des employés nécessaires au chantier, le payeur avait besoin d'un gestionnaire pour voir à l'administration. Monsieur Fournier, le conjoint de l'appelante et l'unique actionnaire du payeur, est, de son propre aveu, inhabile en administration qu'il qualifie de paperasse, et devait avoir recours aux services de quelqu'un pour s'occuper de cet aspect. De plus, il occupait un travail à temps plein qui faisait qu'il était difficile à rejoindre. Il a donc retenu les services de l'appelante, laquelle possédait, de toute évidence, les compétences nécessaires pour effectuer ce travail. Selon le payeur, il lui aurait fallu deux employés pour remplacer l'appelante. Compte tenu des qualités de gestionnaire de l'appelante et du fait que son travail est administratif, l'importance de son travail est évidente.
+[18] Les services de l'appelante étaient rémunérés 16 $ l'heure. L'agent des appels a admis à l'audience que ce taux horaire était inférieur aux normes selon l'institut de la statistique du Québec. Il a cependant dit que puisque l'appelante travaillait pendant 50 heures par semaine, son salaire était de beaucoup supérieur au salaire normal pour un travail comparable. Cela s'explique évidemment par les 10 heures de travail additionnelles par semaine pour lesquelles elle était rémunérée. Il est vrai que ces 50 heures par semaine peuvent être suspectes mais, dans les circonstances, monsieur Fournier a expliqué les conditions d'emploi et celles des travailleurs qui n'avaient pas de lien de dépendance. Il faut aussi reconnaître que ces conditions étaient aussi celles des autres employés du payeur et que personne finalement ne tenait compte de ses heures de travail. On estimait que les heures de travail étaient de 50 par semaine pour l'appelante et de 60 à 72 pour les autres employés, au taux normal pour 40 heures et à un taux majoré de moitié pour les heures supplémentaires. Dans les circonstances, les 50 heures de travail par semaine de l'appelante deviennent moins suspectes.
+[19] J'accepte l'explication de l'appelante lorsqu'elle témoigne que les dix heures supplémentaires par semaine ne visaient pas à compenser le travail bénévole effectué à d'autres moments que pendant la période en cause. Il s'agissait pour elle d'une sorte de compensation, mais ce n'était pas réellement le cas. Monsieur Fournier a d'ailleurs été très clair sur cette question. Le travail effectué à d'autres moments était la préparation de la déclaration de revenus et de la déclaration annuelle de la société; ces tâches n'exigeaient pas deux semaines de travail, comme l'a conclu l'agent des appels. L'appelante a fait ce travail bénévolement.
+[20] Dans son analyse, l'agent des appels a également conclu que les 50 heures par semaine pour lesquelles l'appelante était rémunérée lui ont permis d'avoir droit à l'assurance-emploi. Elle a travaillé pendant 980 heures et avait besoin de 910 heures pour avoir droit à l'assurance-emploi. Si elle avait été rémunérée pour 40 heures par semaine, elle n'y aurait pas eu droit. À mon avis, ce dont l'agent des appels n'a pas tenu compte est le fait que le payeur a dû mettre fin à son contrat à mi-chemin pour non-paiement et que, n'eût été de cette situation, le travail de l'appelante ne se serait pas terminé à ce moment précis car les travaux en vertu du contrat n'étaient pas terminés. Il n'est donc pas exact de conclure que la durée de l'emploi de l'appelante visait à lui permettre d'obtenir l'assurance-emploi.
+[21] L'agent des appels a préparé sur un tableau qui indique les revenus du payeur ainsi que les salaires versés afin de démontrer que le travail de l'appelante n'exigeait pas 50 heures par semaine. À mon avis, il est difficile de faire un lien entre les salaires versés et les revenus du payeur. Il faut se rappeler qu'en l'espèce, le payeur avait beaucoup de difficultés à se faire payer et qu'il devait, malgré tout, payer ses employés en espérant que Marzcorp respecte son engagement. Il faut se rappeler que l'agent des appels a tenu pour acquis que le contrat du payeur avec Marzcorp n'était pas valide parce que Marzcorp ne l'avait pas signé. Il a donc accordé peu d'importance au contrat et semblait comparer les revenus du payeur à des revenus de vente.
+[22] L'agent des appels, à mon avis, a minimisé l'ampleur du contrat du payeur avec Marzcorp. Il y avait beaucoup plus de matériel au chantier qu'il croyait et il s'agissait d'un contrat de 552 003,90 $ et non de 128 500 $ comme l'indique le paragraphe h) des hypothèses de fait. La profondeur du puits est de 4 700 pieds et non de 480 pieds comme l'indique le paragraphe g).
+[23] Après avoir tenu compte des témoignages du payeur et de l'appelante et des faits établis lors de l'audience, j'en arrive à la conclusion, avec déférence que la décision du ministre en l'espèce n'est pas raisonnable. Les modalités de cet emploi, sa durée, sa rémunération, sa nature et son importance font en sorte qu'il est raisonnable de conclure que des conditions semblables auraient existé entre deux parties sans lien de dépendance. L'appel est accueilli.
+Signé à Ottawa, Canada, ce 5e jour de juin 2012.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2012 CCI 145
+Nº DES DOSSIERS DE LA COUR : 2011-2718(EI)
+2011-2719(EI)
+INTITULÉS DES CAUSES : Odette Bouchard c. M.R.N.
+Forage Val-Brillant Inc. & Serge Fournier
+c. M.R.N.
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : le 1er mars 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 5 juin 2012
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Éric Tremblay
+Avocat de l'intimé :
+Me Gabriel Girouard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Éric Tremblay
+Cabinet : Tremblay & Tremblay, avocats
+Matane (Québec)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

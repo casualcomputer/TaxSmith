@@ -1,0 +1,183 @@
+Title: Home Depot of Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29241/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-281-29241-home-depot-of-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-26
+
+# Home Depot of Canada Inc. c. La Reine
+
+- Citation: 2009 CCI 281
+- Decision date: 2009-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7042, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Home Depot of Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-26
+Référence neutre
+2009 CCI 281
+Numéro de dossier
+2008-1491(GST)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1491(GST)G
+ENTRE :
+HOME DEPOT OF CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 avril 2009, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l’appelante :
+Me Jacques Bernier et Me Preet Bell
+Avocates de l’intimée :
+Me Brianna Caryll et Me Sharon Lee
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 19 septembre 2006, relativement aux périodes du 1er novembre 2005 au 30 novembre 2005 et du 1er janvier 2006 au 31 janvier 2006, est accueilli, avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 26e jour de mai 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de juillet 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 281
+Date : 20090526
+Dossier : 2008-1491(GST)G
+ENTRE :
+HOME DEPOT OF CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Home Depot of Canada Inc. (« Home Depot ») perçoit la TPS pour le compte du gouvernement du Canada et la lui reverse. Depuis 2005, Home Depot sous‑traite à Deloitte Tax LLP (« Deloitte Tax ») – entreprise établie aux États‑Unis dont les activités consistent à remplir les déclarations et à verser les paiements de taxes sur les ventes pour des grands organismes dans toute l’Amérique du Nord – la mission de veiller au respect de ses obligations concernant la TPS. Sous réserve de deux exceptions, Home Depot a produit ses déclarations et a versé d’importantes sommes d’argent dans les délais prévus. Les deux exceptions concernent la déclaration de novembre 2005 (laquelle devait être produite à la fin de décembre) et la déclaration de janvier 2006 (laquelle devait être produite à la fin de février). En raison d’une erreur d’écriture, Deloitte Tax a envoyé les déclarations et les versements à l’Agence du revenu du Canada (l’« ARC») à la mauvaise adresse. Lorsque ces erreurs ont été découvertes, en mars et en septembre respectivement, Home Depot a immédiatement pris des mesures pour produire les déclarations et payer les sommes en question, ce qu’elle a fait à la fin mars et à la fin septembre 2006. Le ministre a imposé relativement aux périodes en cause des pénalités de 77 097,76 $ et de 326 223,74 $ pour production tardive en application du paragraphe 280(1) de la Loi sur la taxe d’accise (la « Loi »). Home Depot soutient qu’elle a fait preuve de diligence raisonnable et qu’il n’y a pas lieu de lui imposer des pénalités. Je retiens la thèse de Home Depot.
+Faits
+[2] En décembre 2004, Home Depot a conclu avec Deloitte Tax une entente selon laquelle celle-ci lui assurait des services qui lui permettraient de respecter les exigences relatives à la taxe de vente. Selon M. Tomala, directeur principal des services de conformité aux exigences relatives à la taxe de vente chez Deloitte Tax (maintenant Thompson Reuters), Deloitte Tax est le principal prestataire de ce genre de services en Amérique du Nord. L’entreprise compte parmi sa clientèle 160 sociétés importantes, dont 20 clients canadiens. Elle produit 730 déclarations par mois uniquement pour Home Depot (y compris huit au Canada). Deloitte Tax emploie environ 80 personnes, qui sont réparties en cinq équipes distinctes, chacune se composant d’un cadre supérieur, de quelques cadres supplémentaires, d’un certain nombre de commis et d’autres travailleurs. En 2005‑2006, le personnel était formé sur place à l’aide d’un système de jumelage et par des rencontres mensuelles. Deloitte Tax dispose également d’un manuel de référence.
+[3] Monsieur Tomala a expliqué comment Deloitte Tax avait dû convaincre Home Depot qu’elle disposait des processus, des compétences et des mesures de contrôle nécessaires pour effectuer le travail. Deloitte Tax garantissait à Home Depot que, si celle-ci lui fournissait en temps utile l’ensemble des données requises, Deloitte Tax serait responsable des pénalités et de l’intérêt qui pourraient être imposés à Home Depot si Deloitte Tax, à la suite d’une erreur de sa part, produisait des déclarations tardivement. Home Depot a signé cette entente.
+[4] Dans son témoignage, M. Tomala a affirmé que, comme Home Depot était une cliente très importante, il avait confié le travail à l’équipe la plus expérimentée. Deloitte Tax a commencé au début de 2005 à produire les déclarations pour le compte de Home Depot.
+[5] Selon M. Tomala, Deloitte Tax est une entreprise hautement axée sur les processus. Elle a établi des processus pour recueillir les données brutes de ses clients, les résumer et, lorsque c’est possible, les saisir dans ses propres programmes d’ordinateur, elle produit des déclarations, elle informe les clients de leurs déclarations projetées et des versements nécessaires, elle remplit le bon de livraison, elle établit, à l’intention de son personnel, un échéancier de présentation se terminant au milieu du mois et elle livre les déclarations et les chèques aux autorités canadiennes dans un délai de 24 heures. Il existe certaines différences entre les déclarations produites aux États‑Unis et celles produites au Canada. Premièrement, les formules produites aux États‑Unis peuvent être remplies par ordinateur, tandis que les formules au Canada doivent être remplies à la main. De plus, les versements au Canada sont effectués par chèque tandis qu’aux États‑Unis, la plupart d’entre eux sont faits par voie électronique. Deloitte Tax dispose d’un manuel de référence qui expose ses processus, bien que ce document semble davantage porter sur les processus suivis aux États‑Unis, lesquels sont, dans la plupart des cas, les mêmes que ceux utilisés au Canada.
+[6] Pour veiller à ce que les déclarations de TPS de Home Depot soient produites dans les délais, un membre du personnel de Deloitte Tax devait, si celle-ci ne recevait pas les formules déjà imprimées de l’ARC, faire une copie d’une formule remplie antérieurement et effacer les chiffres à l’aide du correcteur. Plusieurs copies étaient faites en vue d’une utilisation ultérieure. La formule de l’ARC comporte deux pages, mais seule la première page doit être remplie, de sorte que seule cette page est copiée. Au bas de la première page se trouve l’adresse dactylographiée des avocats canadiens de Home Depot : [traduction] « B‑11 Taxe de vente, 250, rue Yonge, bureau 2400, Toronto (Ontario) ». Selon M. Tomala, sur un grand nombre des formules utilisées aux États‑Unis, c’est habituellement l’adresse de versement qui figure à cet endroit. Sur la formule employée au Canada, l’adresse de versement se trouve au verso ou sur la seconde page.
+[7] Deloitte Tax utilise un document interne qui suit les déclarations pendant le processus et qui est coché par un membre du personnel pour montrer que les diverses étapes du processus ont été franchies. En ce qui concerne les déclarations relatives au mois de novembre qui devaient être produites à la fin de décembre, ce document interne précise que le montant du versement était payable le 13 décembre (conformément à une exigence interne prévue afin de ménager suffisamment de temps pour la production). Les déclarations ont en réalité été remplies le 13 décembre et des bons de livraison de DHL Express (« DHL ») ont également été remplis. Le bon de DHL constitue l’élément présenté par Deloitte Tax pour établir qu’elle a produit les déclarations dans les délais. Le bon de DHL était adressé à l’ARC, aux bureaux de Toronto situés à l’adresse mentionnée plus haut. Deloitte Tax avait demandé à DHL de lui fournir des bons de livraison imprimés à l’avance et portant les adresses exactes, mais DHL a refusé de le faire. La formule interne de Deloitte Tax comportait un résumé des sommes dues à chacune des autorités canadiennes compétentes. Le montant du versement payable au Canada pour le mois de novembre s’élevait à 4 904 740,29 $ (celui pour janvier s’élevait à 9 527 344 $).
+[8] Home Depot a produit des copies des chèques à encaisser qui ont été émis pour ces sommes en date du 9 décembre 2005 et du 20 février 2006, respectivement.
+[9] Home Depot a été informée au début du mois de mars que le versement de novembre n’avait pas été fait et elle a envoyé un chèque de remplacement que l’ARC a reçu au début d’avril. En août et en septembre 2006, la section de la perception a demandé à Mme Metella, examinatrice des comptes en fiducie à l’ARC, de vérifier les comptes de Home Depot. On craignait que des sommes avaient été portées sur le mauvais compte. Mme Metella a découvert des déclarations non datées et des sommes incorrectement reportées par l’ARC. Elle a en outre constaté qu’il n’y avait pas eu de déclaration ni de versement pour janvier. Home Depot a remplacé ce paiement à la fin de septembre.
+[10] Depuis la commission de ces erreurs, Deloitte Tax a instauré un deuxième échelon de contrôle, lequel a été confié à un cadre supérieur et consiste notamment à vérifier que le bon de livraison comporte l’adresse exacte. Outre la liste de vérification interne servant au suivi des déclarations, on a ajouté un code de fournisseur aux adresses postales au Canada où le versement doit être effectué.
+Analyse
+[11] Pendant la période en cause, l’article 280 de la Loi se lisait comme suit :
+280(1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+[12] Home Depot peut‑elle se prévaloir du moyen de défense fondé sur la diligence raisonnable? L’intimée soutient que la jurisprudence relative à l’évolution de ce moyen de défense en matière fiscale appelle une interprétation étroite et restrictive de ce moyen. L’intimée s’appuie en grande partie sur les observations formulées en 1998 dans l’arrêt Canada (Procureur général) c. Consolidated Canadian Contractors Inc.[1], où la Cour d’appel fédérale a déclaré que ce moyen de défense peut être invoqué lorsqu’il y a incertitude quant à la somme exacte qu’il faut verser dans le délai prévu. Cette approche paraît avoir été reprise dans l’Énoncé de politique sur la TPS/TVH, P‑237, du 28 juillet 2008[2], lequel mentionne notamment ce qui suit :
+Établissement de diligence raisonnable
+[…]
+L’ARC peut accepter un moyen de défense fondé sur la diligence raisonnable dans n’importe laquelle des situations suivantes :
+· une personne a versé ou payé un montant inférieur à celui réellement dû, qu’elle a obtenu par suite d’une mauvaise supposition qu’elle a faite en se basant sur une partie de la Loi qui a suscité une incertitude véritable;
+· une personne est un acquéreur qui a omis de déclarer et de verser la taxe par autocotisation, et cette omission peut être attribuée à une mauvaise supposition qu’elle a faite en se basant sur une partie de la Loi qui a suscité une incertitude véritable;
+· une personne croyait, pour des motifs raisonnables, à une situation de fait inexistante qui, si elle avait existé, aurait rendu son action ou son omission innocente. En d’autres mots, la personne avait une croyance raisonnable, mais erronée, en une situation de fait.
+Peu importe la situation, pour qu’une personne soit considérée comme ayant fait preuve de diligence raisonnable, il doit être clairement démontré que malgré qu’elle ait fait une mauvaise supposition ou qu’elle ait eu une croyance erronée en une situation de fait, elle a pris toutes les mesures nécessaires raisonnables, du mieux qu’elle peut, pour s’assurer que le montant exact est versé ou payé, ou que la déclaration est produite, dans le délai prévu.
+Restrictions liées à l’application du moyen de défense fondé sur la diligence raisonnable
+[…]
+Versement ou paiement remis en retard
+Si la personne a versé ou payé le montant exact après l’échéance, l’ARC n’acceptera pas en général un moyen de défense fondé sur la diligence raisonnable. Notamment, si l’ARC établit qu’une personne s’est conformée à l’obligation de percevoir le montant exact tel qu’il était exigé, mais qu’elle a omis de verser ce montant dans le délai prévu, le moyen de défense fondé sur la diligence raisonnable ne sera pas accepté. La position de l’ARC est la suivante : si une personne n’a pas pris toutes les mesures nécessaires raisonnables pour s’assurer que le montant exact était payé avant l’échéance, elle n’a pas fait preuve de diligence raisonnable.
+[13] Ces termes sont d’ailleurs repris dans l’avis de ratification envoyé à Home Depot. A mon sens, la jurisprudence n'est pas aussi restrictive que l’avance l’intimée. En 2004, la Cour d’appel fédérale a fait les observations suivantes dans l’arrêt Corporation de l’École Polytechnique c. Canada[3] :
+27 Notre Cour a déjà statué que rien ne s’oppose à ce que le moyen de défense de la diligence raisonnable, dont une personne peut se prévaloir à l’encontre d’infractions de responsabilité stricte, puisse être invoqué à l’encontre de pénalités administratives. Plus spécifiquement, elle a décidé que l’article 280 de la Loi sur la taxe d’accise, par son libellé et son contenu, donne ouverture à cette défense : Canada (P.G.) c. Consolidated Canadian Contractors Inc., [1999] 1 C.F. 209 (C.A.F.). Il n’est peut‑être pas inapproprié de rappeler les principes qui gouvernent la défense de diligence raisonnable avant de les appliquer aux faits de l’espèce.
+28 La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? Voir La Reine c. Sault Ste‑Marie, [1978] 2 R.C.S. 1299; La Reine c. Chapin, [1979] 2 R.C.S. 121. En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+29 La défense de diligence raisonnable ne doit pas être confondue avec la défense de bonne foi qui a cours dans le régime de responsabilité pénale exigeant la preuve d’une intention ou d’une connaissance coupable. La défense de bonne foi permet l’exonération d’une personne qui a commis une erreur de fait de bonne foi, même si celle‑ci est déraisonnable, alors que la défense de diligence raisonnable exige que cette erreur soit raisonnable, c’est‑à‑dire une erreur qu’une personne raisonnable aurait aussi commise dans les mêmes circonstances. La défense de diligence raisonnable qui requiert une croyance raisonnable, mais erronée, en une situation de fait est donc plus exigeante que celle de bonne foi qui se contente d’une croyance honnête, mais tout aussi erronée.
+[14] Le moyen de défense fondé sur la diligence raisonnable ne peut être circonscrit aux seules situations où les parties ne s’entendent pas sur la somme à verser. Il peut également être utilement invoqué dans les cas où, comme en l’espèce, une erreur a été commise. La Cour doit examiner les questions suivantes :
+(i) A-t-on commis une erreur de fait légitime?
+(ii) Dans la négative, Home Depot a-t-elle pris des mesures de précaution raisonnables pour se conformer aux dispositions de la Loi?
+[15] Il est constant qu’il ne suffit pas d’examiner les actes de Home Depot, mais qu’il me faut aussi, pour répondre aux questions susmentionnées, tenir compte des actes de Deloitte Tax. Cette approche a été énoncée sans équivoque par l’ancien juge en chef Bowman dans la décision Roberts c. Canada[4] :
+9 Dans ce cas‑ci, il est vrai que l’appelant a embauché des teneurs de livres pour l’une des périodes en question et qu’il leur a versé des montants qui me semblent excessifs compte tenu du fait qu’ils ont fait preuve d’incompétence et qu’ils n’ont rien fait. Cela pourrait justifier l’introduction d’une action par l’appelant contre eux, mais cela ne veut pas pour autant dire que ce dernier a fait preuve d’une diligence raisonnable. Les comptables sont somme toute des mandataires de l’appelant, et ce dernier est responsable de ce qu’ils ont fait ou de ce qu’ils ont omis de faire. De la même façon que la diligence raisonnable dont font preuve les comptables ou les teneurs de livres d’un contribuable serait imputée à celui‑ci et justifierait le retrait de la pénalité, l’absence de diligence raisonnable de la part des comptables ou des teneurs de livres empêche le contribuable de se prévaloir du recours envisagé dans le jugement Pillar Oilfield.
+[16] Je conclus que, lorsqu’elle a choisi Deloitte Tax, entreprise spécialisée dans le traitement des déclarations de taxe, Home Depot a agi de manière prudente et raisonnable. Il a été nécessaire de la convaincre, ce qu’on a fait, que Deloitte Tax était en mesure de satisfaire aux exigences rigoureuses prévues par la Loi. C’est plutôt les actions de Deloitte Tax que l'on doit examiner de plus près.
+[17] L’intimée soutient que la Cour, laquelle doit dire si des précautions raisonnables ont été prises, doit simplement rechercher si l'on a pris des précautions raisonnables pour veiller à ce que le versement soit posté ou livré à la bonne adresse. Reprenant la formulation de l’article 280, l’appelante soutient que la vraie question en jeu est de portée plus large: il s’agit plutôt de savoir si des précautions raisonnables ont été prises pour qu’une somme soit versée au receveur général dans le délai prévu ou, dans les faits, pour se conformer aux dispositions de la Loi. Je penche en faveur de cette dernière approche, mais je conviens que la remise du chèque constitue un élément fondamental du respect de la Loi de sorte que cette mesure doit aussi être prise en compte, mais à la lumière du système global instauré par Deloitte Tax.
+[18] Monsieur Tomala m’a certainement convaincu que Deloitte Tax, en tant qu’entreprise axée sur les processus et dont la spécialisation consiste à remplir de façon exacte des déclarations de taxe de vente et à veiller à ce que les versements soient effectués dans les délais, avait mis en place des processus et des politiques dont le degré de fiabilité était plus que raisonnable. Il importe de garder à l'esprit qui est, en l’espèce, la personne à laquelle il incombait de prendre des mesures de précaution raisonnables. Cette personne est le gouvernement du Canada. C’est le gouvernement du Canada qui a établi un système de taxe de vente obligeant Home Depot à percevoir la taxe de vente pour le compte du gouvernement du Canada et à la lui remettre. Et que fait Home Depot? Elle confie en sous‑traitance son obligation à cet égard à une entreprise de bonne réputation et elle paye pour ce service afin de répondre aux exigences fixées par le gouvernement du Canada. Deloitte Tax a mis sur pied un processus perfectionné visant à réunir des données brutes, à résumer celles‑ci, à établir un calendrier mensuel, à dresser une liste de points à vérifier qui suit la déclaration à chaque étape, à fixer à l’interne une échéance expirant deux semaines avant le délai prévu, et à réclamer les fonds au plus tard à cette date. L’entreprise s’est également dotée d’un système de formation interne comprenant un manuel de référence détaillé. En outre, comme Home Depot doit produire 730 déclarations par mois et est une cliente importante, Deloitte Tax a confié à son équipe la plus expérimentée le soin de traiter ces déclarations. Il ne s’agissait nullement d’une entreprise irresponsable. Il s’agit plutôt d’un mécanisme bien rodé de versement de la taxe de vente. Mais que s’est‑il passé? Un membre du personnel a posté la déclaration destinée à l’ARC à la mauvaise adresse.
+[19] L’intimée avance que, malgré tous ses processus et tous ses systèmes, Deloitte Tax n'a pas porté une attention directe à ses transactions au Canada et que, comme les déclarations à produire au Canada étaient, en fin de compte, remplies à la main, il était à prévoir que cette erreur se produirait. Plus précisément, selon l’intimée, les éléments suivants donnent à penser qu’on a omis de prendre des précautions raisonnables :
+- le fait que la déclaration et le bon de livraison de DHL ont été remplis à la main en l’absence de surveillance de la part d’un cadre;
+- l’absence d’un processus permettant de veiller à ce que les deux côtés de la formule de l’ARC soient copiés;
+- l’absence d’une observation rigoureuse du manuel de référence et l’élaboration de pratiques non officielles;
+- le fait de permettre à trois membres du personnel différents de remplir les formules.
+Je me pencherai sur chacun de ces éléments.
+Documents remplis à la main sans surveillance par un cadre
+[20] Nul n’a laissé entendre que le calcul de la taxe exigible – que Deloitte Tax a effectué en réunissant et en résumant les données de Home Depot – n’a pas été fait selon les règles. Le problème soulevé par l’intimée touchait à la mauvaise adresse figurant sur la déclaration et au fait que, selon une des formules, le mois de novembre aurait compté 31 jours. Laisser entendre que la surveillance d’un cadre est nécessaire pour l’inscription des adresses et des dates paraît peu sérieux au regard de l’obligation de faire en sorte que le calcul de la taxe exigible soit exact et qu’un chèque de cette somme soit obtenu en temps opportun. Il y avait bel et bien une adresse pour l’ARC dans le système de Deloitte Tax, mais le personnel s’est fié à l’adresse figurant au recto de la formule antérieure, laquelle adresse était inscrite à l’endroit même où la formule employée aux États‑Unis précise l’adresse des bureaux chargés de recevoir les versements dans ce pays. Le personnel a tout simplement commis une erreur. Deloitte Tax a maintenant ajouté à son processus un deuxième niveau de contrôle. Selon moi, par cette démarche, on recherchait la perfection, on allait au-delà du raisonnable. Il importe de reconnaître que, même dans le meilleur des systèmes, l’erreur est humaine. Du fait que Deloitte Tax a pris cette mesure corrective, on ne peut nullement conclure que l’absence d’une telle mesure révélait un manque de diligence raisonnable.
+Copie recto verso de la formule
+[21] Certes, si un membre du personnel avait fait une copie du verso de la formule de l’ARC, c’est la bonne adresse de cet organisme qui aurait figuré sur la déclaration. Mais l'on ne saurait utilement soutenir que l’absence d’un processus ou d’une marche à suivre pour copier les deux côtés d’un document est déraisonnable. C’est une exagération inutile. L'employé a fait une copie de la partie de la formule qui devait être remplie, ce qui était raisonnable. Il n’est pas raisonnable de priver les employés de chaque parcelle de leur pouvoir discrétionnaire pour des tâches aussi simples que la réalisation d’une copie d’une formule et la mise à la poste de celle‑ci.
+Pratiques non officielles
+[22] Selon l’intimée, des pratiques non officielles ont été adoptées à l’extérieur du cadre prévu par le manuel de référence. Cela n’est pas étonnant en ce qui concerne les déclarations produites au Canada puisque, à de nombreux égards, elles n’étaient pas aussi adaptées à un usage informatique que les déclarations utilisées aux États‑Unis. Le manuel se fonde en grande partie sur le traitement électronique des données. M. Tomala a toutefois clairement expliqué que le manuel fait l’objet d’une mise à jour continue. Il est utile de reproduire la partie du manuel[5] qui a trait à la réalisation de copies et la mise à la poste des déclarations pour avoir une idée des particularités dont il traite :
+[traduction]
+COPIES
+Après la signature des chèques, il faut faire des copies. Deux jeux de copies des déclarations sont nécessaires : un pour le client et l’autre pour les dossiers de Deloitte. Si les chèques ont été émis par Deloitte, seule une copie est nécessaire pour le dossier. Si les chèques ont été émis par le client, un deuxième jeu de copies doit être constitué à l’intention de celui-ci.
+Veuillez prêter une attention particulière à la façon dont les formules sont placées dans le photocopieur lorsque vous faites des copies.
+· S’assurer que le dispositif d’alimentation ne tire qu’une seule page à la fois.
+· Placer à la main sur la plaque de verre les formules de dimension moindre que la taille habituelle de 8½ sur 11.
+· Veiller à faire une copie des deux côtés des formules, le cas échéant.
+Signer et dater la liste de vérification relative à la déclaration lorsque les copies sont faites et placer dans les paniers appropriés (qui se trouvent habituellement sur le dessus du classeur dans lequel les déclarations sont classées).
+MISE À LA POSTE
+Une fois les copies terminées, les déclarations et les paiements exigibles peuvent être placés dans des enveloppes. Dans les cas de TEF et de déclarations dont le solde est de zéro, on utilise des enveloppes blanches sans écriture sur lesquelles sont apposées des étiquettes où figurent l’adresse postale du destinataire et l’adresse de l’expéditeur. Les enveloppes à fenêtre sont utilisées pour les déclarations accompagnées d’un chèque, de manière à ce que l’adresse postale et l’adresse de l’expéditeur soient toutes deux visibles.
+Il y a six éléments à vérifier avant de placer le chèque et la déclaration dans une enveloppe :
+1) la date inscrite sur le chèque correspond à celle inscrite sur la déclaration;
+2) le nom du bénéficiaire inscrit sur le chèque est le même que celui inscrit sur la déclaration;
+3) l’adresse inscrite sur le chèque correspond à celle inscrite sur la déclaration;
+4) le montant du chèque correspond à la somme payable suivant la déclaration;
+5) le nom du client figurant sur la note de service est exact;
+6) tant la déclaration que le chèque sont signés.
+L’ordre dans lequel les documents sont placés dans l’enveloppe est toujours le même (soit par ordre alphabétique selon l’État). Veiller à ce que l’adresse postale soit clairement visible par la fenêtre de l’enveloppe.
+Lorsque toutes les déclarations sont placées dans des enveloppes, celles‑ci peuvent être affranchies. La date programmée dans la machine à affranchir doit être remplacée par la date limite de production des déclarations. Prendre bien soin de remettre la date courante une fois l’affranchissement terminé. Toutes les enveloppes contenant plus de deux ou trois pages doivent être pesées pour veiller à ce que le montant exact d’affranchissement soit apposé. La machine à affranchir peut être réglée pour sceller les enveloppes au moment où l’affranchissement est apposé. Cependant, chaque enveloppe doit être vérifiée pour veiller à ce qu’elle soit bien scellée.
+[23] Je ne puis voir comment, même si le commis avait suivi de plus près le manuel, cela aurait pu empêcher l’erreur d’écriture en cause de se produire en l'espèce. Le commis a vérifié l’adresse figurant sur le devant de la déclaration : malheureusement, cette adresse n’était pas la bonne.
+Recours à trois employés
+[24] Enfin, l’intimée allègue que le fait de permettre à trois personnes différentes de remplir les formules, d’y inscrire l’adresse puis de veiller à ce qu’elles soient livrées accompagnées de chèques accroît le risque d’erreur et que, par conséquent, les précautions raisonnables n’ont pas été prises. Je ne puis retenir cette allégation. Il ne s’agit pas d’une tâche compliquée nécessitant des années de formation. Une formation plus que suffisante était assurée aux employés. L’équipe chargée du compte de Home Depot était la plus expérimentée. Il y avait des listes de vérification pour suivre les déclarations. Il n’était pas nécessaire que l’inscription même de l’adresse sur la déclaration et la livraison de cette dernière soient confiée à un employé unique spécialisé dans ces fonctions. Ce n’est pas parce que l’entreprise comptait deux ou trois commis « formés » pour inscrire les adresses sur les enveloppes qu’il était raisonnablement prévisible que l’un d’entre eux soit davantage susceptible de commettre ce genre d’erreur.
+[25] Même conjuguées les unes aux autres, les différentes mesures de précaution qu’on a, selon les allégations formulées, omis de prendre pèsent moins que le soin et l’attention dont Deloitte Tax a globalement fait preuve pour respecter son obligation envers Home Depot et envers d’autres clients de produire les déclarations dans le délai prévu. Deloitte Tax avait les connaissances techniques, les systèmes, les manuels, les examens continus et les processus qui, à mon avis, étaient plus que raisonnables; ils étaient vraiment extraordinaires sous l’angle d'un service de qualité qui ne cesse d’attirer des clients faisant partie des entreprises Fortune 500.
+[26] L’intimée soutient en outre que, si je conclus que Home Depot, par l’entremise de son mandataire, a fait preuve de diligence raisonnable en ce qui concerne la production de la déclaration de novembre, le fait qu’elle n’a pas découvert l’erreur avant quelques mois révèle un manque de diligence tel que la seconde omission ne peut être écartée au moyen de la défense de diligence raisonnable. L’intimée soutient, bien qu’aucun élément de preuve n’ait été produit à ce sujet, que Home Depot ne pouvait avoir effectué une conciliation bancaire ou, dans le cas contraire, ne pouvait y avoir prêté attention puisqu’elle aurait aisément découvert l’existence d’un chèque à encaisser de plusieurs millions de dollars. Et si elle avait découvert cette erreur plus tôt, elle aurait pris les mesures correctives nécessaires pour que la seconde erreur ne se produise pas.
+[27] Cette seconde erreur a eu lieu environ deux mois après la première. En réponse à un engagement pris dans le cadre de la communication préalable[6], Home Depot a déclaré ce qui suit :
+[traduction]
+Les chèques à encaisser sont vérifiés dans le cadre des fonctions de comptabilité et de trésorerie de Home Depot of Canada et de Home Depot U.S. puisque le montant du chèque continue de figurer comme élément de passif dans les états financiers. Cela est conforme aux bonnes pratiques de trésorerie suivies dans l’industrie. Des vérifications précises sont faites dans les cas où des fournisseurs affirment ne pas avoir reçu paiement. Home Depot a en outre mis en place un processus de vérification des chèques à encaisser dans l’éventualité où il y aurait déshérence. […]
+[28] On a également signalé que le chèque lui‑même portait la mention [traduction] « nul après 90 jours ». Je ne vois pas comment le fait de ne pas avoir procédé à une vérification relativement à un chèque de deux mois pourrait constituer un manque de diligence raisonnable à ce point grave qu’il aurait eu pour effet de rendre la seconde erreur d’écriture plus raisonnablement prévisible. Même si je concluais que Home Depot a d’une quelconque façon omis d’agir avec diligence raisonnable lorsqu’elle a fait le suivi du chèque – ce qui n’est pas le cas puisque le seul élément de preuve produit sur ce point tient au fait que la pratique établie consistait à surveiller ce genre d’éléments –, je conclus que le lien entre cette « omission » et l’erreur d’écriture est trop indirect. Je conclus donc que le degré de diligence raisonnable exercé relativement à la seconde erreur est suffisant pour soustraire Home Depot à toute pénalité.
+Conclusion
+[29] Il est facile de critiquer un comportement après qu’une erreur a été commise. Lorsqu’on se demande si le contribuable a fait preuve de diligence raisonnable pour réduire le risque d’erreur, il est toujours possible de concevoir une autre précaution que le contribuable aurait pu prendre. Mais tel n’est pas le critère pertinent. Il s’agit plutôt de savoir si les précautions concrètement prises par le contribuable constituaient étaient raisonnablement suffisantes – et non de savoir si le contribuable a omis d’assister l’employé dans chacune de ses tâches, aussi insignifiante soit‑elle, encore que Deloitte Tax, n'est pas loin de cet objectif. Je conclus que Home Depot a pris toutes les précautions raisonnables et qu’elle peut utilement faire jouer le moyen de défense de diligence raisonnable.
+[30] Je ne peux m'empêcher de faire des observations quant à la façon dont le gouvernement se sert de cette disposition relative aux pénalités. Je présume que la Cour est saisie de cette affaire parce que Home Depot n’a pas obtenu gain de cause dans sa demande fondée sur l’équité laquelle, je le présume aussi, a été rejetée par les fonctionnaires du gouvernement exerçant leur pouvoir discrétionnaire de refuser ce genre de demande. Il faut bien qu’un jour, à un degré ou à un autre, quelqu’un regarde les arbres et finisse par voir la forêt. La société contribuable en l’espèce verse des millions de dollars mensuellement au gouvernement et paye, à cette fin, des experts pour s’assurer du respect, comme doit le faire tout bon citoyen, des obligations de perception que lui impose le gouvernement. Un commis a, par erreur, envoyé deux versements à la mauvaise adresse. Dès qu’elle s’aperçoit de son erreur, Home Depot envoie de nouveaux versements. Elle paye l’intérêt. Que fait l’ARC? Elle impose une pénalité d’un demi‑million de dollars pour ensuite poursuivre l’affaire devant les tribunaux jusqu’au stade de l’instruction. Il n’est pas question en l’espèce de laisser entendre que les fonctionnaires de l’ARC ont fait preuve d’un comportement suffisamment grave pour justifier l’adjudication de dépens sur la base procureur‑client. J’estime néanmoins qu’un peu de recul, un fonctionnaire de l’ARC exerçant une bonne dose de bon sens commercial aurait eu une perspective plus équilibrée et ne se serait pas acharné ainsi à réclamer le versement d’une pénalité d’un demi‑million de dollars. Certes, la Loi prévoit que les contribuables doivent être pénalisés pour les versements tardifs, mais il ne convient pas de s’en prendre à celui dont on tire des bienfaits alors même qu’il s’efforce de manière si diligente à donner satisfaction.
+[31] L’appel est accueilli avec dépens. La cotisation relative aux pénalités est annulée.
+Signé à Ottawa, Canada, ce 26e jour de mai 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de juillet 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 281
+NO DU DOSSIER DE LA COUR : 2008-1491(GST)G
+INTITULÉ : Home Depot of Canada Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 avril 2009
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 26 mai 2009
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Jacques Bernier et Me Preet Bell
+Avocates de l’intimée :
+Me Brianna Caryll et Me Sharon Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Jacques Bernier
+Cabinet : Bennett Jones LLP Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1999] 1 C.F. 209 (C.A.F.).
+[2] Recueil conjoint de jurisprudence et de doctrine, onglet 14.
+[3] 2004 CAF 127.
+[4] [1997] A.C.I. no 771 (QL).
+[5] Pièce A-1, exposé conjoint des faits et recueil conjoint de documents, Sales & Use Tax Center Reference Manual, onglet 18, pages 45 et 46.
+[6] Pièce R-1, éléments consignés en preuve par l’intimée et réponses de l’appelante aux engagements pris dans le cadre de l’interrogatoire préalable de Chet Tomala le 24 novembre 2008, réponse à l’engagement no 14, onglet 2B.

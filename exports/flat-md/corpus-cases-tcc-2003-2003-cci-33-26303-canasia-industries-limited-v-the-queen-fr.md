@@ -1,0 +1,206 @@
+---
+title: "Canasia Industries Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26303/index.do"
+last_modified: "2003-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 33"
+citation2: ""
+neutral_citation: "2003 CCI 33"
+decision_date: "2003-02-10"
+language: "fr"
+item_id: "26303"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3315
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:34:26.750000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b76c112ed65e42260292da2307a6e8a57bb1304c569b7a8a0e26515c512d289"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canasia Industries Limited v. The Queen
+
+- Citation: 2003 CCI 33
+- Decision date: 2003-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3315, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canasia Industries Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-10
+Référence neutre
+2003 CCI 33
+Numéro de dossier
+2000-4186(GST)I
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-4186(GST)I
+ENTRE :
+CANASIA INDUSTRIES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 avril 2002 à Halifax (Nouvelle-Écosse) par conférence téléphonique tenue le 24 mai 2002 à Ottawa (Ontario),
+devant l'honorable juge en chef Alban Garon
+Comparutions :
+Avocat de l'appelante :
+Me Raymond G. Adlington
+Avocat de l'intimée :
+Me Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 16 juin 2000 et porte le numéro 01CB0303919, est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de février 2003.
+« Alban Garon »
+J.C.C.C.I.
+Traduction certifiée conforme
+ce 24e jour de janvier 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI33
+Date: 20030210
+Dossier: 2000-4186(GST)I
+ENTRE :
+CANASIA INDUSTRIES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Garon, C.C.I.
+[1] Il s'agit d'un appel à l'encontre d'une nouvelle cotisation établie le 16 juin 2000 relativement à la taxe sur les produits et services (TPS/TVH) et aux pénalités et intérêts y afférents pour la période du 1er août 1996 au 30 juin 1998, par laquelle le ministre du Revenu national (le « ministre » ) a établi la taxe nette de l'appelante au montant de 28 862,99 $, plus l'intérêt de 1 733,09 $ et les pénalités de 2 550,06 $.
+[2] Un exposé conjoint des faits, daté du 11 avril 2002, a été déposé au dossier de la Cour et est reproduit ci-dessous :
+[traduction]
+PRENEZ AVIS que Canasia Industries Limited et Sa Majesté la Reine, représentée par le ministre du Revenu national, conviennent que les faits du litige s'établissent comme suit :
+1. Canasia Industries Limited ( « Canasia » ) a été constituée en société en vertu de la Nova Scotia Companies Act le 31 août 1993;
+2. les périodes de déclaration en question relatives à la cotisation de taxe sur les produits et services ( « TPS » ) établie par le ministre du Revenu national (le « ministre » ) à l'égard de Canasia en vertu des paragraphes 165(1), 221(1) et de l'article 228 de la Loi sur la taxe d'accise, ont débuté le 1er août 1996 et ont pris fin le 30 juin 1998;
+3. pendant toutes les périodes pertinentes, le seul administrateur et dirigeant de Canasia était Brian Wales;
+4. au cours des périodes de déclaration en question, Canasia était inscrite conformément à l'article 240 de la Loi sur la taxe d'accise et son numéro d'inscription aux fins de la TPS était le 136462579;
+5. au cours des périodes de déclaration en question, une des entreprises de Canasia consistait à revendre des certificats de voyage dont copie conforme d'un échantillon duquel est jointe aux présentes en l'annexe A (les « Certificats » );
+6. Canasia a acheté les Certificats de la société The Travel Card Center, Inc., une personne morale constituée en vertu des lois de l'État du Delaware;
+7. les Certificats ont été vendus par Canasia au moyen de ventes aux enchères de bienfaisance, par écrit et en direct;
+8. Canasia n'avait aucune obligation de rendre compte à The Travel Card Center, Inc. relativement aux produits de la vente aux enchères des Certificats;
+9. les produits de la vente des Certificats par ventes aux enchères de bienfaisance étaient partagés en proportions préétablies entre Canasia et l'oeuvre de bienfaisance en question, lesquelles proportions différaient selon l'oeuvre de bienfaisance;
+10. la publicité de la vente aux enchères indiquait que la meilleure offre dépassant 199 $ recevrait un voyage en avion aller-retour pour deux (2) personnes à Hawaii ou à toute autre destination du choix des plus offrants;
+11. le Certificat offrait une possibilité de vingt (20) destinations aux plus offrants, mais également la possibilité d'autres destinations qui n'étaient pas énumérées sur le Certificat;
+12. dix (10) des destinations énumérées sur le Certificat étaient aux États-Unis ou à d'autres endroits qui relevaient de la compétence des États-Unis, une (1) était à l'extérieur des États-Unis mais en Amérique du Nord, et neuf (9) étaient à l'extérieur de l'Amérique du Nord;
+13. aucune des destinations énumérées sur les Certificats n'est au Canada;
+14. lors de l'échange du Certificat, le plus offrant doit remplir un formulaire de demande de réservation en y indiquant notamment la destination de son choix parmi celles offertes ou une autre destination ne faisant pas partie de celles-ci;
+15. les Certificats prévoyaient que le porteur devait payer des frais d'inscription de 39,95 $ US à The Travel Card Center, Inc.;
+16. le Certificat ne pouvait être transféré par vente;
+17. une des conditions des Certificats était un séjour d'une durée minimale de sept (7) jours, selon la destination;
+18. une des conditions des Certificats était que le porteur devait acheter de The Travel Card Center, Inc. un séjour dans un hôtel sélectionné de la destination choisie;
+19. lorsque les conditions des Certificats étaient respectées, The Travel Card Center, Inc. établissait des billets d'avion pour la destination choisie du porteur;
+20. les Certificats contenaient notamment les conditions suivantes : [traduction] « Le porteur convient que toutes dépenses relatives à un centre de villégiature, à un hôtel ou au déplacement, qui ne sont pas incluses dans la présente offre, afin que le service décrit et proposé puisse être rendu intégralement, sont entièrement à la charge du porteur et des voyageurs qui l'accompagnent, y compris, mais sans limiter la portée générale de ce qui précède, toutes taxes... » ;
+21. les Certificats n'ont aucune valeur nominale;
+22. les Certificats n'ont aucune valeur intrinsèque;
+23. Canasia n'a pas facturé les taxes sur les Certificats aux acheteurs malgré les exigences de la partie IX de la Loi sur la taxe d'accise, et elle n'a pas remis ladite taxe, soit la TPS exigible, au Receveur général du Canada;
+24. en juillet 1998 ou vers ce mois, Canasia a déposé une déclaration de TPS auprès du ministre dans laquelle elle déclarait qu'un remboursement de taxe nette lui était dû en vertu du paragraphe 228(3) de la Loi sur la taxe d'accise;
+25. par avis de cotisation no 01CB0303919 daté du 22 décembre 1998 (la « cotisation » ), le ministre a établi une nouvelle cotisation à l'égard de Canasia établissant la taxe nette au montant de 34 163,17 $, l'intérêt de 1 936,44 $ et les pénalités de 2 842,62 $, soit un montant total de 50 076,44 $;
+26. Canasia a déposé un avis d'opposition à l'encontre de la cotisation;
+27. par avis de décision daté du 16 juin 2000, le ministre a accueilli en partie l'opposition, et par avis de nouvelle cotisation (portant le même numéro 01CB0303919) daté du 16 juin 2000 (la « nouvelle cotisation » ), le ministre a établi une nouvelle cotisation à l'égard de Canasia établissant la taxe nette au montant de 28 862,99 $, les intérêts de 1 733,09 $ et les pénalités de 2 550,06 $, soit un montant total de 44 280,35 $.
+[3] Une copie d'un échantillon de certificat-cadeau a également été déposée au dossier de la Cour.
+[4] Les parties n'ont fourni aucune autre preuve.
+Arguments de l'appelante
+[5] Le principal argument de l'appelante est que la vente d'un certificat de voyage constitue la fourniture d'un certificat-cadeau et est réputée ne pas être une fourniture en vertu de l'article 181.2 de la Loi sur la taxe d'accise. L'avocat de l'appelante a ajouté que l'expression « certificat-cadeau » n'est définie ni dans la législation fédérale ou provinciale ni par la jurisprudence.
+[6] L'avocat de l'appelante s'est reporté à l'énoncé de politique P.202 de l'Agence des douanes et du revenu du Canada (ADRC) le 20 février 1996 et a affirmé qu'il n'était pas d'accord avec certaines parties de la définition de certificat-cadeau. Plus précisément, il a contesté l'exigence contenue dans l'énoncé de politique de l'ADRC à l'effet qu'un certificat-cadeau doit avoir une valeur monétaire nominale et doit tenir lieu de contrepartie pour la valeur qui lui est attribuée.
+[7] À l'appui de son argument que l'expression « certificat-cadeau » doit recevoir une interprétation large, l'avocat de l'appelante a invoqué la décision du juge Mogan de cette cour dans la décision William E. Coutts Co. (s/n Hallmark Cards) c. Sa Majesté la Reine, C.C.I., no 96-4665(GST)G, 17 mai 1999 ([1999] T.C.J. no 278). Il a également soutenu que les certificats-cadeaux sans valeur nominale sont souvent émis par des entreprises.
+[8] L'avocat de l'appelante s'est également appuyé sur un document de l'ADRC daté du 25 juillet 2000, qui traite des [traduction] « Dons de certificats-cadeaux » , aux fins de certaines dispositions de la Loi de l'impôt sur le revenu. La note en fin de texte qui suit a été invoquée :
+[traduction]
+À cet égard, nous rappelons que l'expression « certificat-cadeau » n'est pas un concept juridique défini, mais plutôt une expression familière qui englobe potentiellement tout type de documents attestant de toutes sortes de droits, exécutoires ou autres. Les conditions d'un « certificat-cadeau » doivent être analysées au cas par cas.
+[Recueil de textes de loi et de jurisprudence de l'appelante, onglet 4, page 6.]
+[9] Commentant les définitions figurant dans divers dictionnaires, en réponse au plaidoyer de l'intimée lors de l'audience du présent appel, l'avocat de l'appelante a souligné que ces définitions n'exigeaient aucunement qu'une valeur nominale soit attachée au certificat et il ajoute que l'exigence que le certificat-cadeau puisse être échangé à l'établissement de l'émetteur est satisfaite en l'espèce puisque, selon lui, l'émetteur n'est pas l'appelante mais bien The Travel Card Center, Inc.
+[10] En ce qui a trait à la négociabilité du certificat-cadeau, l'appelante souligne que, bien que le certificat ne puisse être vendu, il peut être donné à quiconque. De plus, elle ajoute que le [traduction] « forfait-vacances est entièrement transférable » , selon les modalités énoncées dans le certificat.
+Arguments de l'intimée
+[11] L'intimée soutient que le bon de voyage en question offrait au porteur un billet d'avion aller-retour gratuit pour deux personnes vers n'importe laquelle des 12 destinations, à condition que le porteur respecte les modalités énoncées sur le bon de voyage.
+[12] Selon l'intimée, cela constitue un droit, un droit éventuel à une portion de voyage faisant partie d'un forfait-vacances global ayant été offert par The Travel Card Center, Inc.
+[13] L'avocat de l'intimée s'est reporté à la définition de l'expression « certificat-cadeau » figurant dans divers dictionnaires et soutient qu'il y a deux caractéristiques. La première est que le certificat-cadeau doit essentiellement avoir une valeur nominale. La seconde caractéristique est que le certificat-cadeau doit pouvoir être échangé auprès de l'établissement émetteur.
+[14] L'avocat de l'intimée a soutenu de plus que l'article 181.2 de la Loi sur la taxe d'accise visait à différer l'exigibilité de la TPS du moment de la vente jusqu'au moment où le certificat est échangé ou, en d'autres termes, jusqu'au moment où il y a effectivement acquisition d'un bien ou d'un service.
+[15] Selon l'intimée, les certificats-cadeaux peuvent normalement être négociés librement et, tel qu'il appert de l'exposé conjoint des faits, les certificats en l'espèce ne peuvent être cédés par vente.
+[16] L'intimée reconnaît que, si le certificat en question constitue un certificat-cadeau, la TPS est exigible au moment où il est échangé. Selon l'article 181.2 de la Loi sur la taxe d'accise, un certificat-cadeau constitue de l'argent au moment où il est échangé. L'article 165.1 de cette même loi est alors applicable, et une taxe calculée au taux de 7 % est applicable sur la valeur de la contrepartie ou, dans les provinces participantes comme en Nouvelle-Écosse, la taxe de vente harmonisée calculée au taux de 15 %. Puisqu'en l'espèce le certificat n'a aucune valeur nominale, la valeur de la contrepartie, selon l'intimée, serait la juste valeur marchande du certificat en question ou la contrepartie que le plus offrant a versée pour le certificat en question.
+[17] L'intimée soutient que ce qui était offert par l'appelante était la partie attribuable aux déplacements par avion d'un forfait-vacances global, partie qui était tributaire de l'obligation du plus offrant d'acheter le reste du forfait.
+[18] L'avocat de l'intimée a poursuivi en ajoutant que Canasia agissait à titre de mandataire de The Travel Card Center, Inc. et que, selon son interprétation du paragraphe 177(1.2) de la Loi sur la taxe d'accise, qui traite d'une fourniture par un encanteur, l'appelante devenait le fournisseur de ce forfait et que, par conséquent, elle était responsable de percevoir la taxe sur les produits et services applicable à cette opération. Ainsi, selon l'intimée, l'appelante doit payer la taxe, à titre de fournisseur, uniquement sur la portion du forfait-vacances qui est assujettie à une taxe au Canada, soit la portion des déplacements par avion. Selon l'intimée, la portion du forfait-vacances qui est fournie à l'extérieur du Canada, notamment les services d'hôtel, n'est pas assujettie à la TPS.
+Analyse
+[19] La question en litige est de savoir si la vente par l'appelante d'un certificat de voyage du type décrit précédemment constitue la fourniture d'un certificat-cadeau au sens de l'article 181.2 de la Loi sur la taxe d'accise.
+[20] L'article 181.2 de la Loi sur la taxe d'accise se lit en anglais comme suit :
+For the purposes of this Part, the issuance or sale of a gift certificate for consideration shall be deemed not to be a supply and, when given as consideration for a supply of property or a service, the gift certificate shall be deemed to be money.
+[21] En interprétant cette disposition, et plus particulièrement l'expression « gift certificate » ( « certificat-cadeau » ), il convient, comme les tribunaux l'ont souligné à plusieurs reprises, de considérer la règle moderne d'interprétation des lois formulée par E. A. Driedger dans l'ouvrage Construction of Statutes (2e éd., 1983), à la page 87 :
+[traduction]
+Aujourd'hui, il n'y a qu'un seul principe ou solution : il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur.
+[22] L'expression « certificat-cadeau » n'est pas définie dans la Loi sur la taxe d'accise. Il est donc nécessaire de se reporter aux définitions figurant dans les dictionnaires.
+[23] Dans le Canadian Oxford Dictionary, Oxford University Press 1998, l'expression « gift certificate » ( « certificat-cadeau » ) est définie comme suit :
+« gift certificate » [Traduction] : « certificat-cadeau : un certificat ou un bon présenté comme un cadeau et échangeable contre des biens d'une valeur nominale, habituellement dans un magasin donné. »
+[24] Dans le Ninth New Collegiate Dictionary, A Merriam-Webster, 1986, la définition de l'expression « gift certificate » ( « certificat-cadeau » ) se lit comme suit :
+« gift certificate » [Traduction] : « certificat-cadeau : une déclaration certifiée donnant droit au porteur de choisir des marchandises dans l'établissement de l'émetteur d'une valeur équivalente, au montant précisé sur le certificat-cadeau. »
+[25] Pour déterminer la signification de l'article 181.2 de la Loi sur la taxe d'accise, il convient de considérer les dispositions de l'article 13 de la Loi sur les langues officielles, qui se lit comme suit :
+Tous les textes qui sont établis, imprimés, publiés ou déposés sous le régime de la présente partie dans les deux langues officielles le sont simultanément, les deux versions ayant également force de loi ou même valeur.
+[Je souligne.]
+[26] Il convient donc d'examiner également la version française de l'article 181.2 de la Loi sur la taxe d'accise qui est formulée dans les termes suivants :
+Pour l'application de la présente partie, la délivrance ou la vente d'un certificat-cadeau à titre onéreux est réputée ne pas être une fourniture. Toutefois, le certificat-cadeau donné en contrepartie de la fourniture d'un bien ou d'un service est réputé être de l'argent.
+[27] Il appert de la version française de l'article 181.2 de la Loi sur la taxe d'accise que l'expression « gift certificate » se traduit par « certificat-cadeau » .
+[28] Les dictionnaires français réputés comme la Grande Encyclopédie Larousse 1971, Quillet 1975, le Grand Larousse Universel 1989, le Nouveau Larousse Encyclopédique 2001 et Le Grand Robert de la langue française 2001 ne contiennent aucune définition de l'expression « certificat-cadeau » . Par ailleurs, dans le Multidictionnaire des difficultés de la langue française, par Marie-Eva de Villers, une publication canadienne, les commentaires suivants sont formulés à l'égard de cette expression : « Calque de l'anglais "gift certificate" pour chèque-cadeau » . Dans le même dictionnaire, « chèque-cadeau » est défini comme suit : « Bon autorisant une personne à recevoir un produit, un service » . Dans le Robert & Collins Super Senior, les expressions « gift token » et « gift voucher » sont traduites par l'expression « chèque-cadeau » .
+[29] Au cours des plaidoyers, les avocats des deux parties ont invoqué plusieurs exemples de situations commerciales où l'expression « certificat-cadeau » est utilisée. Aucune preuve n'a été fournie à l'égard des divers types de certificats-cadeaux. Toutefois, il semble généralement reconnu que « certificat-cadeau » est une expression générale qui englobe un bon qui accorde le droit au détenteur de l'échanger contre des biens ou des services ou contre une valeur applicable au prix d'achat de biens ou de services, conformément aux modalités qui le régissent. Il n'est aucunement contesté que l'expression « certificat-cadeau » est une expression familière qui englobe plusieurs types de documents attestant toutes sortes de droits.
+[30] Les avocats des deux parties semblent convenir qu'il s'agit de certificats-cadeaux dans deux types de scénarios. Dans l'un de ces scénarios, une société fournit à une personne intéressée un bon portant une valeur monétaire nominale, disons 100 $, pour une contrepartie de 100 $. En général, l'acheteur du bon fait ensuite cadeau à un tiers en lui remettant gratuitement le bon. Dans ce scénario, l'article 181.2 de la Loi sur la taxe d'accise a pour effet de différer la TPS jusqu'à la seconde opération dans laquelle le certificat est remis à l'émetteur en échange de biens ou de services. Il est admis que, dans un tel cas, la première opération d'achat d'un certificat pour une contrepartie équivalente à sa valeur nominale n'est pas assujettie à la taxe. Dans le deuxième scénario, l'émetteur du certificat-cadeau remet tout simplement le bon à un client ou à un client potentiel à titre gratuit. Le certificat n'a aucune valeur nominale. Cette opération n'est pas visée par l'article 181.2 de la Loi sur la taxe d'accise car le certificat n'a pas été émis à titre onéreux.
+[31] Nous devons déterminer quels sont les éléments constitutifs d'un certificat-cadeau d'après ces exemples, d'après le libellé de l'article 181.2 de la Loi sur la taxe d'accise et d'après les définitions figurant dans les dictionnaires.
+[32] Comme je viens de le mentionner, un certificat-cadeau doit avoir été émis à titre onéreux, étant donné la condition prévue à l'article 181.2 de la Loi sur la taxe d'accise. Il n'est pas nécessaire que la contrepartie soit équivalente à la valeur nominale si une telle valeur est indiquée sur le certificat puisque cet article exige seulement qu'il doit y avoir une contrepartie.
+[33] L'élément essentiel est que le porteur du certificat, qui pourrait être quiconque à qui le certificat a été transféré par l'acheteur initial du certificat ou par un détenteur ultérieur, a le droit de recevoir gratuitement de l'émetteur du certificat soit un produit ou un service, soit la valeur nominale à l'achat d'un produit ou d'un service. Je ne crois pas qu'il soit important que le porteur du certificat ait ou non versé une contrepartie ou ait offert une contrepartie pour obtenir le certificat-cadeau de l'acheteur initial du certificat ou de n'importe quel intermédiaire ultérieur. À mon avis, le concept de « certificat-cadeau » dans le contexte d'une situation visée par l'article 181.2 de la Loi sur la taxe d'accise implique nécessairement que le produit ou le service mentionné dans le certificat soit fourni gratuitement au porteur du certificat lorsque le certificat est échangé par son émetteur. La partie « cadeau » de l'expression « certificat-cadeau » serait autrement dénuée de sens.
+[34] En l'espèce, le porteur du certificat qui l'a acquis de l'acheteur du certificat ou d'un porteur ultérieur n'a pas le droit de recevoir gratuitement la partie attribuable aux déplacements par avion du certificat de l'émetteur, The Travel Card Center, Inc., car il doit au préalable satisfaire les conditions suivantes :
+1. Il doit payer les frais d'inscription de 39,95 $ US à The Travel Card Center, Inc. Je crois que nous pouvons raisonnablement déduire que ce montant représente en fait le coût du traitement de la demande. De plus, le montant en question est mentionné dans le certificat comme étant des « frais d'inscription » . Cette condition n'a probablement pas pour effet d'exclure le certificat de voyage de la définition de certificat-cadeau. Tout compte fait, je suis disposé à ne pas tenir compte de cette condition.
+2. La deuxième condition est que le porteur du certificat doit, selon la destination, acheter un séjour d'au moins sept jours dans un hôtel sélectionné de la destination de choix de The Travel Card Center, Inc., tel qu'il appert des paragraphes 17 et 18 de l'exposé conjoint des faits. Le porteur du certificat doit payer pour l'hébergement choisi par l'émetteur du certificat.
+[35] Selon moi, la deuxième condition constitue un élément essentiel du forfait-vacances global. De toute évidence, on ne peut affirmer, à cause de la deuxième condition qui oblige le porteur du certificat à engager une dépense substantielle, que le porteur a le droit de recevoir gratuitement de l'émetteur du certificat la portion de déplacement par avion. À cet égard, l'auteur de l'ouvrage Canada GST Service, M. David M. Sherman, semble avoir adopté une approche semblable à l'égard de l'application de l'article 181.2 de la Loi sur la taxe d'accise à une situation factuelle. Ses commentaires relatifs à la distinction entre un coupon de rabais et un certificat-cadeau sont particulièrement riches en enseignement :
+[traduction]
+La distinction entre un coupon et un certificat-cadeau n'est pas toujours claire. Supposons qu'un magasin de vêtements vend à un client régulier, pour une somme de 1 ¢ , un document libellé comme suit : « CERTIFICAT-CADEAU - valeur de 50 $ sur tout achat de 75 $ et plus » . Ce document est-il un certificat-cadeau ou un coupon de rabais? S'il n'y avait pas l'exigence d'un achat de 75 $ ou plus, il s'agirait clairement d'un certificat-cadeau. Si l'exigence d'achat était de, disons 1 000 $, il s'agirait presque certainement d'un coupon de rabais malgré le titre du certificat. Dans ce cas, le certificat a clairement une valeur intrinsèque et n'est pas utilisé uniquement à titre d'instrument de promotion pour vendre des vêtements d'une valeur de 75 $.
+[36] Je conclus par conséquent que le certificat de voyage en l'espèce n'est pas un certificat-cadeau au sens de l'article 181.2 de la Loi sur la taxe d'accise.
+[37] L'avocat de l'appelante n'a pas soutenu que la nouvelle cotisation serait erronée en droit si je concluais que l'article 181.2 de la Loi sur la taxe d'accise n'était pas applicable au certificat de voyage en l'espèce.
+[38] Avant de conclure, j'aimerais formuler quelques commentaires à l'égard de l'application du paragraphe 177(1.2) de la Loi sur la taxe d'accise étant donné les prétentions écrites supplémentaires déposées avec la permission de la Cour par les avocats des deux parties quelque temps après l'audition du présent appel. Le paragraphe 177(1.2) se lit comme suit :
+Lorsqu'un inscrit, qui agit à titre d'encanteur et de mandataire dans le cadre d'une activité commerciale, effectue la fourniture par vente aux enchères d'un bien meuble corporel au profit d'un acquéreur, la fourniture est réputée, pour l'application de la présente partie, être une fourniture taxable effectuée par l'encanteur et non par le mandant et l'encanteur est réputé, pour l'application de la présente partie, sauf l'article 180, ne pas avoir effectué, au profit du mandant, une fourniture de services liée à la fourniture du bien effectuée au profit de l'acquéreur.
+[39] Premièrement, le paragraphe 177(1.2) de la Loi sur la taxe d'accise, dans sa forme actuelle, que je désignerai ci-après la nouvelle disposition, s'applique uniquement à la fourniture par vente aux enchères d'un bien meuble corporel au profit d'un acquéreur. Comme l'a souligné l'avocat de l'appelante, l'expression « bien meuble corporel » n'est pas définie dans la Loi sur la taxe d'accise. À mon avis, l'avocat de l'appelante s'est fié à bon droit à la définition que l'on retrouve dans l'ouvrage de Dukelow & Nuse, The Dictionary of Canadian Law (2e éd.) (Thomson Canada Limited: Barrie: 1995), où l'expression bien meuble corporel est définie comme étant [traduction] « ... un bien meuble qui peut être vu, pesé, mesuré, senti ou touché, ou qui est susceptible d'être perçu par les sens d'une quelconque façon » . Les certificats de voyage en l'espèce sont des biens meubles incorporels puisqu'ils accordent certains droits lorsque certaines conditions précises sont respectées. Par conséquent, la nouvelle disposition ne s'applique pas en l'espèce.
+[40] Le paragraphe 177(1.2) de la Loi sur la taxe d'accise, la nouvelle disposition, a été modifié par L.C. 1997, ch. 10, a. 26. La loi modificatrice a été sanctionnée le 20 mars 1997, soit après le 1er août 1996, le début des périodes visées par le présent appel, tel qu'il appert du paragraphe 2 de l'exposé conjoint des faits. Par conséquent, on doit tenir compte de l'effet rétroactif du paragraphe 177(1.2).
+[41] Le paragraphe 26(2) de la loi modificatrice prévoit que la nouvelle disposition, sauf deux exceptions, « s'applique aux fournitures effectuées après le 23 avril 1996 par un inscrit au profit d'un acquéreur pour le compte d'un tiers ainsi qu'aux fournitures effectuées par l'inscrit au profit du tiers de services liés à la fourniture effectuée au profit de l'acquéreur... » . Par conséquent, sous réserve des deux exceptions dont nous discuterons ci-après, la nouvelle disposition s'applique à la totalité des périodes de déclaration de l'appelante en l'espèce.
+[42] Une des exceptions, qui est prévue à l'alinéa 26(2)a) de la loi modificatrice, n'est pas applicable à l'espèce puisqu'elle vise les fournitures effectuées avant le 1er juillet 1996, donc avant le début des périodes de déclaration en question, soit le 1er août 1996.
+[43] La deuxième exception dont il est question à l'alinéa 26(2)b) de la loi modificatrice s'applique aux fournitures de biens meubles corporels effectuées par vente aux enchères avant avril 1997. La deuxième exception ne s'applique pas à l'espèce, car la vente des certificats de voyage ne constitue pas la fourniture de biens meubles corporels mais plutôt la fourniture de biens meubles incorporels, comme nous l'avons expliqué précédemment.
+[44] Selon ce qui précède, on n'a pas à tenir compte des deux exceptions prévues aux alinéas 26(2)a) et 26(2)b) de la loi modificatrice dans l'application de la nouvelle disposition à la totalité des périodes de déclaration visées par le présent appel.
+[45] De plus, pour que le paragraphe 177(1.2) de la Loi sur la taxe d'accise et le début du paragraphe 26(2) de la loi modificatrice s'appliquent, l'encanteur doit agir à titre de mandataire d'une autre personne. En l'espèce, il ne fait aucun doute que l'appelante, qui était l'encanteur, n'était pas le mandataire de The Travel Card Center, Inc. La justesse de cette conclusion découle de la nature des opérations dont il est question aux paragraphes 5, 6, 7 et 8 de l'exposé conjoint des faits, qui sont reproduits ci-dessous à des fins de commodité :
+[traduction]
+5. au cours des périodes de déclaration en question, une des entreprises de Canasia consistait à revendre des certificats de voyage dont copie conforme d'un échantillon duquel est jointe aux présentes en l'annexe A (les « Certificats » );
+6. Canasia a acheté les Certificats de la société The Travel Card Center, Inc., une personne morale constituée en vertu des lois de l'État du Delaware;
+7. les Certificats ont été vendus par Canasia au moyen de ventes aux enchères de bienfaisance, par écrit et en direct;
+8. Canasia n'avait aucune obligation de rendre compte à The Travel Card Center, Inc. relativement aux produits de la vente aux enchères des Certificats;
+[46] L'appelante achetait et vendait les certificats de voyage en question pour son propre compte. De plus, l'appelante n'avait aucune obligation de rendre compte à The Travel Card Center, Inc. relativement à ces opérations.
+[47] Par conséquent, je conclus que le paragraphe 177(1.2) de la Loi sur la taxe d'accise n'est pas applicable en l'espèce.
+[48] Pour ces motifs, l'appel est rejeté.
+[49] Compte tenu de l'article 18.3007 de la Loi sur la Cour canadienne de l'impôt, je n'adjuge pas de dépens.
+Signé à Ottawa, Canada, ce 10e jour de février 2003.
+« Alban Garon »
+J.C.C.C.I.
+Traduction certifiée conforme
+ce 24e jour de janvier 2005.
+Mario Lagacé, réviseur

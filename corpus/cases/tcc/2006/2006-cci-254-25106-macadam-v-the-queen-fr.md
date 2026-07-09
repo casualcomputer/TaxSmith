@@ -1,0 +1,150 @@
+---
+title: "MacAdam v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25106/index.do"
+last_modified: "2006-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 254"
+citation2: ""
+neutral_citation: "2006 CCI 254"
+decision_date: "2006-05-05"
+language: "fr"
+item_id: "25106"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2542
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:38:10.683000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88dc72a70ca6c6615ce244da736faec95ff223ca9f34800bb321171031a8c62d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacAdam v. The Queen
+
+- Citation: 2006 CCI 254
+- Decision date: 2006-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2542, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacAdam v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-05
+Référence neutre
+2006 CCI 254
+Numéro de dossier
+2004-257(IT)G
+Juges et Officiers taxateurs
+Keith Flanigan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-257(IT)G
+ENTRE :
+PATRICK MACADAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Ottawa, Canada, le 19 avril 2006.
+Devant : l’honorable juge suppléant Keith Flanigan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Ifeanyichukwu Nwachukwu
+____________________________________________________________________
+JUGEMENT
+Les appels visant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1989, 1990 et 1991 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de mai 2006.
+« Keith Flanigan »
+Juge suppléant Flanigan
+Traduction certifiée conforme
+ce 11e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI254
+Date : 20060505
+Dossier : 2004-257(IT)G
+ENTRE :
+PATRICK MACADAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Flanigan
+[1] La Cour est saisie de l’avis d’appel produit par l’appelant relativement à sa dette fiscale pour les années d’imposition 1989, 1990 et 1991. Les faits ne sont pas réellement contestés en ce qui touche les éléments en cause, à l’exception de la nature d’un paiement reçu de 250 000 $, dont il sera fait mention plus loin.
+[2] L’appelant a omis de produire une déclaration de revenu T1 pour les années d’imposition 1989, 1990 et 1991, contrairement aux exigences prévues au paragraphe 150(1) de la Loi de l’impôt sur le revenu (la « Loi »), L.R.C. 1985, chapitre I, 5e suppl., dans sa version modifiée, et à la demande de production faite par le ministre du Revenu national (le « ministre ») en application du paragraphe 150(2) de la Loi. Par des avis de cotisation simultanés datés du 8 mars 1994, le ministre a établi une cotisation relativement à la dette fiscale de l’appelant pour les années d’imposition 1989, 1990 et 1991 en application du paragraphe 152(7) de la Loi. Lorsqu’il a établi cette cotisation, le ministre a conclu que, dans les faits, l’appelant avait omis de déclarer des revenus de 133 506 $, 77 961 $ et 169 451 $ respectivement. Le revenu total non déclaré imposé par le ministre est détaillé de la façon suivante :
+[traduction]
+Description 1989 1990 1991
+GCI Inc. – appropriation, par. 15(1) 46 667 $ 79 999 $ 79 999 $
+Ottawa Sun – appropriation, par. 15(1) 0 $ 2 500 $ 22 000 $
+Pierre Bourque & Sons Ltd. – appr., par. 15(1) 0 $ 0 $ 250 000 $
+Moins : solde du compte Birkenhead le 31 déc. 0 $ ( 6 444 $) (183 330 $)
+Moins : frais de déplacement (7 164 $) 0 $ 0 $
+Total des appropriations à titre
+d’actionnaire, par. 15(1) 39 503 $ 76 056 $ 168 670 $
+Revenu T4 et T4A 92 319 $ 0 $ 0 $
+Revenu T5 1 684 $ 1 905 $ 781 $
+Total du revenu non déclaré 133 506 $ 77 961 $ 169 451 $
+[3] Par des avis d’opposition produits en date du 17 novembre 1994, l’appelant s’est opposé à la cotisation relative à sa dette fiscale pour les années d’imposition 1989, 1990 et 1991 et il a demandé un nouvel examen le 17 février 2003. L’examen de l’opposition de l’appelant a été suspendu pendant huit ans dans l’attente du règlement de la question des accusations au pénal portées contre lui. Par un avis de ratification daté du 30 mai 2003, le ministre a ratifié les cotisations pour les années 1989, 1990 et 1991.
+[4] Lorsqu’il a ratifié ses cotisations pour les années 1989, 1990 et 1991, le ministre s’est appuyé sur plusieurs hypothèses qui sont énoncées aux pages 2, 3 et 4 de la réponse à l’avis d’appel. Ces hypothèses, dont la plupart ont été acceptées par l’appelant, se résument ainsi :
+[traduction]
+1. Pendant les années d’imposition 1989, 1990 et 1991 (les « moments pertinents »), l’appelant était dirigeant, administrateur et actionnaire contrôlant de Birkenhead Group Inc. (« Birkenhead »), entreprise privée constituée en société sous le régime des lois de la province d’Ontario en décembre 1988.
+2. L’appelant détenait à la Banque de Nouvelle‑Écosse un compte bancaire personnel portant le numéro 9758720‑0701 et, pendant les années 1990 et 1991, Birkenhead détenait, à la même banque, un compte bancaire de société portant le numéro 3622‑12. Birkenhead était contrôlée par l’appelant. Cette société exploitait à Ottawa (Ontario) une entreprise d’expert‑conseil qui offrait différents services, notamment du lobbying auprès du gouvernement du Canada pour le compte de clients privés. En outre, pendant les années d’imposition 1990 et 1991, Birkenhead offrait des services de journalisme à la pige par l’entremise de l’appelant. De plus, à tous les moments pertinents, elle rendait des services d’expert‑conseil à Government Consulting International Inc. (« GCI ») et, durant l’année d’imposition 1991, elle offrait également ce genre de services à Pierre Bourque and Sons Ltd. En 1989 et 1990, Birkenhead fournissait aussi des services de journalisme au quotidien Ottawa Sun par l’entremise de l’appelant. À tous les moments pertinents, l’appelant et Birkenhead ont omis de produire des déclarations de revenu auprès du ministre. La liste des fonds reçus par Birkenhead pour les années 1989, 1990 et 1991 figure au paragraphe 5 de la réponse à l’avis d’appel; les sommes qui y sont mentionnées ne sont pas contestées. En 1989, l’appelant a engagé des frais de déplacement se chiffrant à 7 164 $ afin d’obtenir ou de générer un revenu pour Birkenhead, qui ne lui a remboursé aucun de ces frais.
+[5] En ce qui concerne l’année d’imposition 1991, l’appelant nie avoir été payé par Pierre Bourque and Sons Ltd., par l’entremise de Birkenhead, pour des services de lobbying visant à inciter le gouvernement du Canada à prolonger le bail relatif à l’immeuble St‑Laurent situé à Hull (Québec) et appartenant à Pierre Bourque and Sons Ltd. En d’autres termes, et c’est là la question en litige dans la présente affaire, l’appelant nie qu’une quelconque partie des 250 000 $ reçus par Birkenhead ait été versée en contrepartie de services rendus et il affirme qu’il s’agissait d’un don. Le 17 avril 1997, Birkenhead et l’appelant ont été condamnés relativement à deux chefs d’accusation pour s’être sciemment soustraits au fisc, contrairement aux dispositions de la Loi et de la Loi sur la taxe d’accise, y compris d’avoir omis de déclarer un revenu imposable de 250 000 $ au titre de services rendus à Pierre Bourque and Sons Ltd., et donc d’avoir éludé la taxe sur les produits et services à laquelle ces services étaient assujettis. Cette instance pénale n’est pertinente que dans la mesure où elle intéresse l’allégation formulée par le ministre voulant que le moyen fondé sur la préclusion pour même question en litige s’applique en l’espèce. Il importe de signaler que l’instance pénale s’est déroulée devant la Cour provinciale et qu’un premier appel a été interjeté auprès de la Cour supérieure de l’Ontario puis de la Cour d’appel de l’Ontario, ce qui a donné lieu à la confirmation de la condamnation et au rejet d’une demande de pourvoi devant la Cour suprême du Canada. Les questions en litige sont les suivantes : la doctrine de la préclusion pour même question en litige empêche‑t‑elle l’appelant de contester devant la présente cour sa dette fiscale pour les années d’imposition 1989, 1990 et 1991, d’une part, et l’appelant, à titre d’actionnaire, s’est‑il approprié les sommes de 39 503 $, 76 056 $ et 168 670 $ respectivement pendant les années d’imposition pertinentes et ces sommes ont‑elles été incluses comme il se doit dans son revenu à titre d’avantage conféré à un actionnaire en application du paragraphe 15(1) de la Loi, d’autre part. Dans son témoignage, tel qu’il l’a rendu, l’appelant allègue que le paiement de 250 000 $, qui a été fait à Birkenhead et a finalement abouti en grande partie dans son propre compte, est imposable à titre de revenu gagné ou est un don. Il convient ici de renvoyer brièvement à l’avis d’appel. M. MacAdam poursuit son litige avec Revenu Canada, depuis quinze ans environ, afin de déterminer la nature de la somme de 250 000 $ que Pierre Bourque and Sons Ltd. a payée à Birkenhead, comme il est énoncé dans le dossier d’appel A‑1, aux onglets 11 et 12.
+[6] Il ressort de toutes les allégations de M. MacAdam qu’il était un ami de l’ancien premier ministre Brian Mulroney, qu’il a longtemps travaillé avec lui à la société Iron Ore et après l’arrivée de celui-ci à Ottawa. Dans son témoignage, il a affirmé qu’on lui avait promis de le nommer au Sénat et que, dès la fuite de cette nouvelle (ses propres termes) par quelqu’un de Revenu Canada, cette nomination lui a échappé et cette enquête a débuté. Il a également souligné dans son témoignage qu’il faisait preuve d’une totale transparence en ce qui concerne la façon dont il traitait les fonds provenant de ses divers comptes et qu’il n’a jamais tenté de cacher cette somme; il s’est contenté de réitérer à maintes reprises qu’il s’agissait d’un don. Il a également mentionné dans son avis d’appel qu’il présenterait des éléments de preuve établissant le fait qu’avant d’accepter cet argent, il avait demandé des conseils juridiques quant aux conséquences fiscales d’un paiement fait à titre gracieux. Un avocat, Cameron McArthur, maintenant juge à la Cour canadienne de l’impôt, lui aurait dit en 1991 qu’une personne pouvait accepter n’importe quelle somme d’argent libre d’impôt, à la condition que le donateur paye les taxes et la TPS applicables. Je rejette entièrement ce témoignage. À aucun moment Cameron McArthur l’a‑t‑il conseillé autrement que pour lui dire que, oui, les dons sont libres d’impôt au Canada. Cette conversation s’est déroulée autour d’une tasse de café et rien ne permettait de croire que des conseils juridiques étaient demandés quant au paiement particulier en cause. Il s’agissait d’une question au hasard que le juge McArthur a rapidement oubliée. Une personne raisonnable n’aurait en aucune façon anticipé qu’elle donnait des conseils juridiques, en prenant un café, sur une question dont elle ne connaissait rien avant cette rencontre fortuite. L’appelant connaît de longue date Pierre Bourque, principal propriétaire de Pierre Bourque and Sons Ltd. M. MacAdam, l’appelant, a mentionné qu’il avait été nommé responsable des relations publiques, ou attaché de presse au haut‑commissariat de Grande-Bretagne à Londres, mais qu’il avait trouvé cette affectation des plus stressantes. Lui et le haut‑commissaire étaient les seules personnes à ne pas être fonctionnaires et il s’est rendu compte qu’il était écarté de tous les cercles intimes. Son affectation devait durer quatre ans, mais il est revenu au Canada pour des raisons de santé et il a renoncé à sa nomination après un an et demi. Il a été sans emploi pendant environ six mois. Il a ensuite communiqué avec Pierre Bourque, ou ce dernier a communiqué avec lui, et on lui a offert un poste avec une avance sur salaire de 8 000 $ par mois. Il a refusé cette avance parce qu’il ne voulait pas être obligé de s’adresser à ses anciens amis au gouvernement pour qu’ils consentent des concessions à M. Bourque. Petit à petit, la preuve a pourtant révélé que c’est exactement ce que l’appelant a fait par la suite. En outre, M. Bourque n’a jamais mentionné que cette somme de 250 000 $ qu’il versait à l’appelant constituait autre chose que le paiement de frais professionnels. L’appelant a formulé de nombreuses allégations touchant des actes irréguliers et des manquements aux droits garantis par la Charte, etc., mais aucun élément n’a été produit en preuve pour convaincre la Cour qu’une quelconque situation de ce genre se soit produite. Si ses droits avaient été menacés, on en aurait fait état dans le cadre de l’instance judiciaire pénale. Or, la preuve est muette quant à l’existence d’une quelconque conclusion relative à une violation de droits garantis par la Charte. En réalité, le témoignage de Robert Cranford est à l’effet contraire : aussitôt que lui et M. MacAdam ont consenti à faire une déclaration, on l’a averti des complications soulevées relativement à ses droits garantis par la Charte. L’appelant s’est appuyé sur la correspondance qu’il a échangée avec le ministère avec le soutien d’un certain William Moore, comptable agréé de cette ville. M. Moore a déclaré pendant son témoignage qu’il se souvenait vaguement de cette opération, mais que son travail avec l’appelant et les membres de sa famille consistait principalement à rendre des services en matière d’impôt sur le revenu des particuliers. Il a admis qu’il y a environ dix ou douze ans, il avait assisté Ken Radinoff, qui représentait l’appelant à cette époque, à une réunion avec Revenu Canada. Il se souvenait d’avoir rencontré M. Regnier, du cabinet Stikeman Elliot à Montréal. Il se souvenait d’une réunion avec Revenu Canada et du fait que l’appelant et son épouse étaient tous deux malades à ce moment-là. Il s’agissait alors de vérifier auprès du ministère les raisons pour lesquelles le ministre voulait poursuivre l’instance puisqu’il n’y avait pas d’argent et que le ministère refusait quand même les offres de règlement qui lui étaient présentées. M. Cranmore a par la suite affirmé qu’il n’y avait aucun règlement possible. Tout ce dont M. Moore se souvenait, c’était que l’argent n’était pas caché, rien d’autre. Il ne savait pas si Birkenhead avait payé la TPS ou produit une déclaration relative au crédit de taxe sur les intrants, ni pourquoi Pierre Bourque and Sons Ltd. avait déduit la somme en cause à titre de dépense. En d’autres termes, il n’avait rien de vraiment important à déclarer et il n’a révélé aucun fait susceptible d’être accepté comme élément de preuve. M. Peter Wallace s’occupe maintenant des relations avec les clients en matière internationale à la Garde côtière canadienne; entre 1990 et 1993, il était attaché de presse du ministre du Revenu national et, selon son témoignage, il était au courant des problèmes auxquels l’appelant faisait face, mais il n’en avait aucune connaissance particulière. Il se rappelle avoir parlé avec l’appelant et l’avoir informé de la doctrine d’équité qui était mise de l’avant par le gouvernement d’alors pour permettre aux contribuables de bénéficier d’une certaine forme d’amnistie s’ils se présentaient de leur propre initiative et reformulaient leur déclaration d’impôt, ce qui assurerait une certaine équité aux contribuables éprouvant des difficultés à payer leurs impôts. Il a conseillé à l’appelant de se renseigner à ce sujet et, selon son témoignage, soit l’appelant a fait l’objet d’un refus, soit il n’a pas demandé l’amnistie. Dans son témoignage, M. Cranmore a affirmé que l’appelant l’avait rencontré et lui avait posé quelques questions à ce sujet, mais qu’il n’avait jamais présenté une demande en bonne et due forme. M. Bourque a déclaré au cours de son témoignage qu’il avait été un ami de la famille de l’appelant pendant un certain nombre d’années. Dans son témoignage, M. MacAdam a mentionné qu’il ne lui avait jamais envoyé de facture pour les services qu’il avait rendus à M. Bourque ou pour les autres travaux qu’il avait pu faire pour lui. Il a soutenu qu’il n’avait jamais participé aux réunions des travaux publics touchant l’immeuble St‑Laurent à Hull et que M. Bourque avait lui‑même recours à un lobbyiste du nom de Hugh Riopel. Il répète qu’il n’a jamais voulu être lobbyiste, qu’il donnait des conseils dans le cadre des activités de son cabinet. Il reconnaît que M. Bourque lui a dit qu’il ferait quelque chose pour lui. L’appelant affirme dans son témoignage que M. Bourque lui a donné l’argent, qu’il a déposé à la banque sans tenter de le cacher. Il avance ensuite que M. Bourque a tenté de déduire cette somme à titre de frais professionnels et que Revenu Canada a accepté cette déduction. Il formule de vagues allégations selon lesquelles Revenu Canada aurait remis 12 000 $, alors que M. Bourque n’aurait jamais payé cette somme, ce que la Cour a beaucoup de difficulté à croire. À nouveau, dans son témoignage, il mentionne vaguement avoir demandé conseil à M. McArthur concernant l’impôt sur les dons, mais il ne donne aucune explication quant à ce qui aurait pu se passer d’autre lors de cette rencontre. Comme je l’ai mentionné plus haut, je n’ai pas de mal à accepter que les événements exposés par l’appelant n’ont jamais eu lieu, sauf en ce qui concerne le fait qu’il n’y a pas d’impôt sur les dons au Canada. M. Bourque détenait le tiers des parts de BCI et, selon l’appelant, il tentait de racheter sa propre part et croyait alors qu’il obtiendrait un certain nombre d’actions de participation. Rien dans la preuve n’étaye cette assertion. En outre, dans son témoignage, il reconnaît avoir retiré de l’argent de Birkenhead, mais il insiste sur le fait qu’il n’a jamais été lobbyiste. Cette allégation revient encore et encore dans son témoignage. L’intimée a appelé Pierre Bourque à témoigner. Il a déclaré qu’il était expert‑conseil, qu’il avait été président de Pierre Bourque and Sons Ltd. de 1980 à 1990 et qu’il était en réalité propriétaire de nombreux terrains dans la municipalité. Le ministère de la Défense nationale avait conclu avec Pierre Bourque and Sons Ltd. un bail d’une durée de dix ans visant un des immeubles de cette société. M. Bourque avait perdu un contrat lucratif avec le gouvernement, ce qui lui avait occasionné des dépenses considérables. Il a mentionné dans son témoignage, lequel est étayé par l’appelant, que le gouvernement souhaitait redresser la situation. M. MacAdam affirme qu’il ne devait jamais être payé pour les pressions politiques exercées en vue de faire modifier le bail visant l’immeuble St‑Laurent. M. Bourque déclare avoir traité ces dépenses comme des frais professionnels et avoir payé la TPS. Il ne se souvient d’aucune conversation avec M. MacAdam où il aurait été question du fait qu’il s’agissait d’un don et aucun témoin n’a avancé qu’au moment pertinent, il s’agissait d’un don. Je dois préciser à ce stade‑ci que M. Bourque n’a pas été un témoin très coopératif et que ses objections touchaient plus la façon dont l’avocat du ministre menait l’interrogatoire que le fond même des questions posées. Néanmoins, il ne faisait aucun doute qu’il n’appuyait pas la position de M. MacAdam voulant qu’il s’agisse d’un don.
+[7] Le témoin suivant a été Robert Cranford, de Revenu Canada. Il travaille aujourd’hui pour le directeur, principalement dans les domaines du blanchiment d’argent et de la fraude fiscale. En 1993, il était l'enquêteur dans la présente affaire. Les enquêtes touchant la TPS et les fraudes fiscales relevaient de deux directions distinctes à cette époque et une question a porté sur Birkenhead et le paiement de la TPS. Comme aucune déclaration de revenu n’avait été produite pour 1989, 1990 et 1991, on a également procédé à une enquête relative à la fraude fiscale. Les enquêteurs de la TPS et ceux de Revenu Canada ont donc mené une enquête conjointe qui a donné lieu à des accusations contre l’appelant, Birkenhead et le groupe Birkenhead. L’onglet 17 de la pièce A‑1 montre une dénonciation qu’il a préparée en 1995 relativement à la fraude fiscale perpétrée par l’appelant et Birkenhead; cette dénonciation visait également l’année 1992. M. Cranmore a produit des déclarations pour M. MacAdam et Birkenhead en application du paragraphe 152(2) et les calculs effectués dans ces documents n’ont fait l’objet d’aucune contestation. Peu après la délivrance des mandats de perquisition, selon M. MacAdam, une trentaine de personnes étaient concernées en six endroits différents; quoi qu’il en soit, aucune allégation n’a été formulée quant à l’exécution éventuellement fautive de ces mandats. M. MacAdam a convoqué une réunion pour avril 1993. M. Cranmore y était présent de même que Mme Charbonneau et Bruce Findlay; M. Gaétan Charette, patron de M. Cranmore, en était également. M. Cranmore affirme que la réunion a débuté par un compte rendu de la mauvaise santé de l’appelant et de son épouse et du fait que tout l’argent allait aux avocats et que l’appelant était donc sans le sou. Ce dernier a posé à M. Cranmore plusieurs questions qui en réalité s’apparentaient davantage à des réminiscences et à des divagations qu’à des questions intéressant le point en litige. M. Cranmore a renvoyé à la pièce A‑1, et en particulier aux onglets 8 à 12, lesquels présentent un état précis du travail effectué par l’appelant pour le compte de Pierre Bourque and Sons Ltd. en ce qui a trait à l’immeuble Louis St‑Laurent à Hull. Il faut se rappeler que cet immeuble est celui à l’égard duquel M. Bourque tentait d’obtenir une prolongation de bail, ce en quoi il a demandé l’aide de M. MacAdam. De fait, un nouveau bail portant prolongation jusqu’en 2005 a été signé. L’onglet 10 de la pièce A‑1 montre un engagement de payer 500 000 $ débutant vers le 1er octobre 1991 et les chèques relatifs à cette opération ont bien été émis en novembre 1991. Lorsqu’il a contre‑interrogé M. Cranmore, M. MacAdam n’a fait qu’évoquer ce point devant la Cour et il s’est montré beaucoup plus enclin à examiner les questions soulevées dans le cadre de l’instance pénale. Or, ces questions étaient réglées depuis longtemps puisque la Cour suprême du Canada avait refusé la demande de pourvoi. L’appelant a soutenu à plusieurs reprises qu’on avait porté atteinte à ses droits garantis par la Charte, mais il n’a présenté aucun élément de preuve ni posé de questions aux divers témoins quant à la question en litige en l’espèce. Le seul élément de preuve qui me revient à l’esprit est sa dénégation générale du fait d’avoir reçu la somme de 250 000 $ en contrepartie de services rendus, et son assertion voulant qu’il s’agisse plutôt d’un don à titre gracieux. Il s’est en grande partie appuyé sur ses assertions, bien qu’il n’ait produit aucune preuve établissant que Revenu Canada ne disposait d’aucune facture susceptible d’étayer ses conclusions de fait. Et cela, malgré le fait qu’il avait reconnu la véracité de la plupart des hypothèses. À la lumière de la preuve, il est manifeste que toutes les hypothèses ont été prouvées. Il incombe à l’appelant de montrer, selon la prépondérance de la preuve, que les cotisations établies par le ministre sont mal fondées et, à mon avis, il n’a pas réussi, tant s’en faut, à s’acquitter de ce fardeau. En raison de cette totale absence de preuve, l’appel doit être rejeté.
+[8] En outre, l’intimée invoque le moyen fondé sur la préclusion pour même question en litige dans la présente affaire. Compte tenu de mes conclusions de fait selon lesquelles il n’existe aucune preuve, quelle qu’elle soit, pour étayer la demande de l’appelant, je crois qu’il est inutile d’examiner la question de la préclusion. En passant, je dois dire qu’à mon sens M. MacAdam a été traité avec équité et qu’il a eu toutes les occasions possibles de présenter des éléments de preuve au cours des 14 ou 15 dernières années, malgré son omission de le faire.
+[9] Pendant l’audience, les parties ont reconnu que les calculs effectués en l’espèce ne faisaient l’objet d’aucune contestation. Il s’agissait exclusivement de savoir si la somme de 250 000 $ constituait un don ou un revenu. Par conséquent, j’estime inutile d’examiner ces calculs, mais s’ils soulèvent des difficultés, on pourra s’adresser à moi.
+[10] L’intimée n’a pas demandé les dépens afférents au présent litige et aucune ordonnance relative aux dépens ne sera rendue.
+Signé à Ottawa, Canada, ce 5e jour de mai 2006.
+« Keith Flanigan »
+Juge suppléant Flanigan
+Traduction certifiée conforme
+ce 11e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI254
+NO DU DOSSIER DE LA COUR : 2004-257(IT)G
+INTITULÉ DE LA CAUSE: PATRICK MACADAM
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 19 avril 2006
+MOTIFS DU JUGEMENT : L’honorable juge suppléant Keith Flanigan
+DATE DU JUGEMENT : Le 5 mai 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Ifeanyichukwu Nwachukwu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

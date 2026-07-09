@@ -1,0 +1,218 @@
+---
+title: "Roy v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30474/index.do"
+last_modified: "2011-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 384"
+citation2: ""
+neutral_citation: "2011 TCC 384"
+decision_date: "2011-08-23"
+language: "en"
+item_id: "30474"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7270
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:23:25.682000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67b8192189fdf77a8f111085450de7f4fef2cdd4fc3f462cf0c199a7ef3fc868"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roy v. M.N.R.
+
+- Citation: 2011 TCC 384
+- Decision date: 2011-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7270, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-23
+Neutral citation
+2011 TCC 384
+File numbers
+2010-3152(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-3152(EI)
+BETWEEN:
+SHIRLEY ROY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard April 15, 2011, at Québec, Quebec.
+Before: The Honourable Justice Real Favreau
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Ilinca Ghibu
+____________________________________________________________________
+Judgment
+The appeal from the decision of the Minister of National Revenue under the Employment Insurance Act regarding the insurability of the employment of the appellant with Tentes et Chapiteaux S.P. inc. for the period from November 23, 2008, to November 24, 2009, is allowed and the Minister's determination is set aside in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of August 2011.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 14th day of September 2011
+Monica F. Chamberlain, Translator
+Citation: 2011 TCC 384
+Date: 20110823
+Docket: 2010‑3152(EI)
+BETWEEN:
+SHIRLEY ROY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the Minister) under the Employment Insurance Act, S.C. 1996, c. 23, as amended (the Act) regarding the insurability of the employment of the appellant with Tentes et Chapiteaux S.P. inc. (the payer) for the period from November 23, 2008, to November 24, 2009 (the period).
+[2] The appellant and the payer are related within the meaning of subsection 251(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended (the ITA), because, since September 19, 2009, the appellant has been married to Simon Pelchat who controls the payer as he is the sole shareholder of the payer. Since the appellant is related to a person who controls the payer, she is consequently related to the payer. Since under paragraph 251(1)(a) of the ITA, related persons are deemed not to deal with each other at arm's length, the appellant was not dealing with the payer at arm's length.
+[3] For the part of the period prior to September 19, 2009, the appellant was also related to the payer given that she had been Simon Pelchat's common-law partner since November 2007. Thus, she was related to a person who controlled the payer and thereby became related to the payer. As related persons are deemed not to deal with each other at arm's length, the appellant and the payer were not dealing with each other at arm’s length during the entire period.
+[4] In a letter dated April 6, 2010, the Minister informed the appellant that her employment with the payer for the period was not insurable employment because the Minister was satisfied that it was not reasonable to conclude the appellant and the payer would have entered into a substantially similar contract if they had been dealing with each other at arm's length. The Minister based his determination on paragraph 5(2)(i) and subsection 5(3) of the Act and on the following facts and assumptions set out in paragraph 8 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The payer was incorporated on December 28, 2001; (admitted)
+(b) The payer ran a business specialized in renting and installing tents for corporate events and special occasions such as weddings and festivals; (admitted)
+(c) The company operated year-round although the busiest months were June to September; (denied as written)
+(d) The payer's business was open from 8.30 am to 4.30 pm, Monday to Friday; (admitted)
+(e) The shareholder of the payer is the only one who can sign cheques for the payer; (admitted)
+(f) The reported income of the payer for the fiscal years ending
+October 31, 2008: $711,150
+October 31, 2009: $223,611; (neither admitted nor denied)
+(g) On November 23, 2009, the payer filed for bankruptcy with a trustee; (admitted)
+(h) The payer hired 3 full-time office staff year-round, the shareholder, a secretary-receptionist and the appellant, in the winter, the payer hired 2 full‑time and 2 part-time employees solely to wash the tents and in the summer it hired 15 workers for manual labour; (admitted)
+(i) The appellant was not financially involved in the payer’s business, although she had made personal loans to her spouse worth approximately $8,000 to $10,000; (denied)
+(j) The appellant and the shareholder of the payer jointly owned a residence that they bought for $336,000 and sold for $380,000 in the following proportions: 75% for the shareholder and 25% for the appellant; (admitted)
+(k) Before hiring the appellant, the shareholder was responsible for sales and tried having the secretary in this role, but it did not work out, thus he hired the appellant; (denied as written)
+(l) The appellant was hired as a salesperson by the payer on April 1, 2007; (admitted)
+(m) The appellant's duties were mainly, from autumn to spring, to promote the payer to clients, have them sign contracts and follow up with them during the event, which generally occurred in the summer, and in the summer she also dealt with last-minute orders; (admitted)
+(n) The appellant worked during the payer's business hours, 35 hours per week, and 15 additional hours evenings and weekends for a total of 50 hours per week, regardless the time of the year; (admitted but the hours worked evenings and weekends varied depending on the season)
+(o) The appellant did not have to keep track of the number of hours she worked, since she was paid weekly, while the other employees had to fill out time sheets, since they were paid hourly; (denied as written)
+(p) Contrary to a statement made by the parties, the appellant's remuneration did not correspond to 10% of the payer's sales since the appellant received a set weekly salary of $900, or $46,800 for 52 weeks; (denied as written)
+(q) The reported income of the payer for the fiscal years ending on October 31 are:
+2008: $711,150
+2009: $223,611;
+(r) During the summer the appellant worked between 30 and 40 hours a week on tasks other than those for which she had been hired; (denied)
+(s) An unrelated employee would not have agreed to work without remuneration regardless of the duties to be performed; (denied)
+(t) The payer provided the appellant with office equipment, a laptop and cellular telephone; (admitted)
+(u) Moreover, the appellant used a Yaris vehicle belonging to the payer for work-related travel; (admitted)
+(v) The appellant paid for gas for the Yaris and was reimbursed after submitting receipts, whereas the eligibility officer was told that the appellant paid for gasoline for all 4 vehicles belonging to the payer because of the payer’s financial difficulties; (denied as written)
+(w) Some of the appellant’s claims were not reimbursed by the payer, while the payer's other employees were fully reimbursed for expenses incurred in the course of their work; (admitted, but the other employees who had credit cards only used them on rare occasions)
+(x) According to the appellant, some claims for entertainment expenses and stationery of approximately $2,000 had not been reimbursed to her; (admitted, but the precise amount is $1,684.72)
+(y) Following the payer's bankruptcy on November 24, 2009, the appellant made the following claim to the trustee under the Wage Earner Protection Program
+expense account of July 31, 2009 $1,135.24
+expense account of August 31, 2009 377.43
+4% vacation pay 2,008.16
+pay for November 14 to 21, 2000 (sic) 643.79
+total 4,336.67
+(admitted, but includes the last expense account claim of November 19, 2009, in the amount of $172.05)
+(z) The analysis of the supporting documentation for the appellant's claim demonstrates that the expenses incurred by the appellant referred to expenses for gasoline, office supplies, maintenance of the truck, telecommunications, meals, postage, office maintenance, tents; (admitted for cleaning the trucks, purchase of toilet paper for the office and tape for the tents)
+(aa) An unrelated employee would not be financially involved beyond the habitual expenses incurred in the course of his or her employment; (denied)
+[5] Paragraph 8(c) of the Reply to the Notice of Appeal was denied as written because the payer's activities were busier from April to October, whereas the high season was from June to October.
+[6] Paragraph 8(i) of the Reply to the Notice of Appeal was denied because the appellant had made loans to her spouse totalling $11,724.82 of which $5,142 had been reimbursed.
+[7] Paragraph 8(k) of the Reply to the Notice of Appeal was denied as written because the shareholder of the payer tried several people, including the secretary, in the salesperson role but that had not worked out and he therefore decided to hire the appellant.
+[8] Paragraph 8(o) of the Reply to the Notice of Appeal was denied as written because the appellant was at the office during working hours and because her salary corresponded to 10% of the sales she had made for the payer.
+[9] Paragraph 8(p) of the Reply to the Notice of Appeal was denied as written because the appellant’s remuneration was based on a $400,000 sales objective.
+[10] Paragraph 8(r) of the Reply to the Notice of Appeal was denied because the appellant did not work between 30 and 40 hours per week on tasks other than those for which she had been hired. In another version of the Reply to the Notice of Appeal, the respondent claimed that this overtime was worked [Translation] “to help the payer in dealing with employees' repeated absences and without being paid".
+[11] Paragraph 8(s) of the Reply to the Notice of Appeal was denied because it is a hypothetical question.
+[12] Paragraph 8(v) of the Reply to the Notice of Appeal was denied as written because the appellant’s spouse also used the Yaris and could fill up the gas tank.
+[13] Paragraph 8(aa) of the Reply to the Notice of Appeal was denied because the appellant was financially involved beyond the habitual expenses incurred in the course of her employment not as an employee but rather as the spouse of the owner of the payer.
+[14] Shirley Roy testified at the hearing and confirmed that she filed a proof of claim under the Bankruptcy and Insolvency Act, in the amount of $4,336.67 in the matter of the assignment of Tentes et Chapiteaux S.P. inc. of St-Romuald, Quebec. In support of her claim, she acknowledged preparing reports of expenses incurred for the payer and paid by credit card issued in her name. She also prepared a list of loans made to her spouse totalling $11,724.82 and a list of reimbursements made by her spouse totalling $5,142. The loans were made by transfers to the joint account that she shared with her spouse or in cash.
+[15] Ms. Roy confirmed that she did not have a credit card in the payer's name but two other employees of the payer had such credit cards. According to her testimony, the $400,000 sales target for the fiscal year beginning on November 1, 2008, and ending on October 31, 2009, was very realistic since for the fiscal year ending on October 31, 2008, she had made $500,000 in sales and had even received double pay.
+[16] Regarding the overtime hours worked evenings and weekends during the summer, Ms. Roy indicated that she was not required to work them. She did not have the competency cards required to drive the trucks and other vehicles for transporting loads. She worked only in support and client relations roles. She worked a lot fewer hours than the 30 to 40 hours noted at paragraph 8(r) of the Reply to the Notice of Appeal except for long weekends such as Saint-Jean-Baptiste Day and Canada Day. She acknowledged that she did not record her overtime and that she was not paid for these hours.
+[17] Simon Pelchat, the appellant's spouse, also testified at the hearing. He confirmed that he was the sole shareholder of the payer. The business operated year-round, with the exception of a period of two weeks at Christmas. The business' hours of operation were from 8:30 a.m. to 4:30 p.m. He spent about 75% of his time at the office and 25% of his time on the road. The business served the entire province of Quebec. He also confirmed that Ms. Roy was remunerated solely on a commission basis and that she received $900 per week in advances for 35 hours of work. Adjustments to her remuneration were made at the end of September. That is why Ms. Roy received double remuneration in September 2008. He specified that Ms. Roy was not paid for her overtime hours and was the only salesperson but that she was not the only one who could sign contracts; he could also sign them. According to him, the payer's sales for 2008 were in fact $711,000, but for 2009 they were around $430,000 to $450,000 rather than $223,611, as indicated in paragraph 8(q) of the Reply to the Notice of Appeal.
+[18] At the operational level, Mr. Pelchat explained that during the summer he used four to five teams of five people. His workers were primarily male university students. The business operated seven days a week. The tents were set up during the day on Wednesdays, Thursdays, Fridays and Saturdays, while they were normally taken down at the end of the day until 9:00 p.m. on Sundays, Mondays and Tuesdays. The payer could rent up to 67 tents at a time. During the summer, Mr. Pelchat worked 80 to 100 hours per week, including weekends.
+[19] Mr. Pelchat confirmed that Ms. Roy did not have a credit card in the payer's name and that only the warehouse manager had such a credit card. After the bankruptcy in 2009, all of the employees were paid except for the last pay and they did not receive their 4% vacation pay. According to him, Ms. Roy was the only employee who was entitled to seek reimbursement of expenses incurred for the payer.
+[20] Mr. Pelchat further explained that the duties of the appellant when she was hired included the following tasks:
+· communication and meetings with clients;
+· determining their needs and preparing bids;
+· finalizing contracts;
+· preparing fit-up plans for the interior of the tents;
+· follow-up with clients.
+In practice, the appellant was primarily responsible for weddings (maximum of three per week). Her presence where the tents were installed enabled her to ensure that everything was set up as planned and satisfactory to clients. This part of her function was carried out mainly weekday evenings.
+[21] Johanne Potvin, Appeals Officer with the Canada Revenue Agency, also testified at the hearing. First she confirmed that she prepared the report CPT 110 (Exhibit I-4) after meeting with the appellant and her spouse individually on March 9, 2010. During her testimony, the appeals officer revealed a contradiction in the appellant's testimony regarding the hours worked. At the hearing, the appellant stated that she worked considerably less than the 30 to 40 hours noted at paragraph 8(r) of the Reply to the Notice of Appeal. According to paragraphs 16 and 22 of the report, the facts obtained from Simon Pelchat are as follows:
+[Translation]
+16. The worker worked 35 hours a week during the business’ office hours, which were from 8:30 a.m. to 4:30 p.m. from Monday to Friday, and about 15 hours evenings and weekends for a maximum 50 hours per week, regardless of the time of year.
+22. In addition to her tasks, the worker worked between 30 and 40 hours a week during the summer without being paid to help him because there were employees who were absent daily.
+[22] In her report, the appeals officer refers to following fact from the decision-making officer's report:
+[Translation]
+47. Simon Pelchat told the decision-making officer that the worker did not have a specific work schedule, because she worked six to seven days per week and she worked 80 to 90 hours per week, as almost the only thing they did was work and she worked as many hours as he did. He added that during the winter, when they worked a 50-hour week, they were happy because they felt as if they were on vacation.
+[23] Then, the appeals officer reiterated the three reasons why it was not reasonable to believe that the parties would have entered into a substantially similar employment contract if they had been dealing with each other at arm's length, specifically:
+1. the 30 to 40 hours worked during the summer without remuneration on tasks related to all stages of the installation and taking down of tents to replace absent employees;
+2. $8,000 to $10,000 in personal loans made to the appellant’s spouse to help the payer that was having financial difficulties (the spouse did not receive a salary);
+3. the expenses that were not reimbursed to the worker while the other employees who incurred expenses in the course of their employment were reimbursed (expense accounts of July 31 and August 31, 2009, filed with the bankruptcy trustee).
+Statutory Provisions
+[24] Paragraph 5(2)(i)and subsection 5(3) of the Act provide the following:
+5(2) Insurable employment does not include:
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act;
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+Analysis
+[25] Chief Justice Richard of the Federal Court of Appeal explained in Francine Denis v. Canada (Minister of National Revenue - M.N.R.), 2004 FCA 26, the role of the Tax Court of Canada judge in an appeal from a determination by the Minister under the exclusion provisions contained in subsections 5(2) and (3) of the Act:
+[5] The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 10, 2000).
+[26] In light of the documentary and testimonial evidence regarding, in particular, the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that the Minister's determination was not reasonable in the circumstances. The facts inferred or relied on by the Minister were not correctly assessed having regard to the context in which they occurred.
+[27] The appellant’s loans of $8,000 to $10,000 were made to her spouse to enable him to live and pay his personal expenses given that he did not receive a salary from the business. These loans were not made to the payer nor to the business run by the payer. These loans benefitted the payer only indirectly. No evidence has been filed to prove that the money from the appellant’s loans was used in the payer's business.
+[28] The appellant's expense claims for July, August and November 2009 were not reimbursed by the payer because in the three months preceding bankruptcy money cannot be transferred to people who are related or not at arms length to the payer. The payer only declared bankruptcy on November 23, 2009. As the payer was already facing serious financial difficulties in summer 2009, and as it was not possible to predict the exact date of bankruptcy, the payer clearly preferred to not reimburse the appellant’s expense claims for July and August 2009 in order to comply with the requirements of the Bankruptcy and Insolvency Act.
+[29] The allegation accepted by the Minister to the effect that the payer's other employees who incurred expenses in the course of their employment were reimbursed does not seem to be correct since, according to Mr. Pelchat's testimony, no other employee was entitled to be reimbursed for expenses incurred in the course of his or her employment.
+[30] With the exception of the expense accounts that were not reimbursed, the appellant was treated like the other employees in that she was not paid for her last week of work before the bankruptcy and she did not receive her 4% vacation pay.
+[31] The analysis of the appellant's expense account filed with the bankruptcy trustee showed that the expenses incurred by the appellant varied but were generally not incompatible with the functions performed by the appellant for the payer. Furthermore, the amounts of these expenses appear to me to be reasonable in the circumstances.
+[32] The third reason raised by the Minister to justify his determination is that the appellant worked between 30 and 40 hours a week during the summer without being paid on tasks that were normally carried out by manual labourers or foremen, specifically tasks related to all the stages of installing or taking down tents. According to the appeal officer’s report, the appellant daily replaced absent employees and she did it to help the shareholder deal with the repeated absences of his employees.
+[33] Regarding the number of hours worked by the appellant without remuneration, the appeals officer referred to the fact that the exact number of hours worked by the appellant was unknown and that there were contradictions in the information provided by the parties. Furthermore, the payer did not record the hours worked by the appellant. At the hearing, the appellant testified that she worked one evening per week and one day on the weekend, only every two weeks.
+[34] Regarding the tasks carried out, the appellant played down her role at the hearing by raising the fact that she did not have the competency cards required to drive the trucks and use the machinery required to install and take down the tents and the she did not have the physical capacity to replace the payer’s employees who were all men. Moreover, the tasks carried out by the appellant in overtime were in no way related to her duties as a salesperson for the payer.
+[35] Based on the evidence presented, the overtime worked by the appellant was voluntary and done freely in order to accompany and help her spouse. These services were rendered by the appellant as the common-law spouse and wife of the shareholder of the payer and not as the payer’s employee.
+[36] Based on the preceding information, the Minister’s conclusion does not seem reasonable. The facts inferred or relied on by the Minister were not correctly assessed having regard to the context in which they occurred.
+[37] For these reasons, the appeal is allowed and the Minister's determination is set aside.
+Signed at Ottawa, Canada, this 23rd day of August 2011.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 30th day of September 2011
+Monica F. Chamberlain, Translator
+CITATION: 2011 TCC 384
+COURT FILE NO.: 2010-3152(EI)
+STYLE OF CAUSE: Shirley Roy v. M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Real Favreau
+DATE OF JUDGMENT: August 23, 2011
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Ilinca Ghibu
+COUNSEL OF RECORD:
+For the appellant:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+Title: Sister Red Enterprises Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27440/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-54-27440-sister-red-enterprises-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-02-05
+
+# Sister Red Enterprises Inc. c. La Reine
+
+- Citation: 2007 CCI 54
+- Decision date: 2007-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 196, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sister Red Enterprises Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-05
+Référence neutre
+2007 CCI 54
+Numéro de dossier
+2004-4749(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004-4749(IT)I
+2005-3398(IT)I
+ENTRE :
+SISTER RED ENTERPRISES INC.
+et DORIS KERTESZ,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus ensemble le 10 août 2006, à Montréal (Québec).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentant des appelantes :
+M. Sidney Feldhammer
+Avocat de l’intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont accueillis et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de février 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI54
+Date : 20070205
+Dossiers : 2004-4749(IT)I
+2005-3398(IT)I
+ENTRE :
+SISTER RED ENTERPRISES INC.
+et DORIS KERTESZ,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels concernant les années d’imposition 2000 et 2001 se rapportant à Sister Red Enterprises Inc. (la « société ») et à Doris Kertesz (« Doris ») ont été entendus sur preuve commune. Ils portent sur la déductibilité et sur l’inclusion de certaines dépenses. Doris était l’âme dirigeante de la société. La déduction des dépenses suivantes a été refusée au titre des dépenses d’entreprise pour les années pertinentes et le ministre du Revenu national (le « ministre ») a inclus ces dépenses dans le revenu de Doris :
+Description
+2000
+2001
+Automobile et déplacements
+11 197 $
+11 827 $
+Promotion
+4 016 $
+4 058 $
+Intérêts et frais bancaires
+6 295 $
+4 797 $
+Loyer
+1 200 $
+1 200 $
+Total
+22 708 $
+21 882 $
+De plus, le ministre a établi la cotisation de Doris en incluant un avantage réputé au titre des intérêts, de 8 516 $ et de 412 $, pour ses années d’imposition 2000 et 2001 respectivement, et il a ajouté, à titre de gain en capital, un montant de 3 269 $ dans le revenu de Doris pour l’année 2000. Des frais de production tardive imposés à la société ont été concédés par les appelantes, et la question des frais de promotion a été retirée par les deux appelantes. Le ministre a refusé la déduction des dépenses principalement à cause de l’absence de documentation et pour le motif qu’il s’agissait de dépenses personnelles.
+[2] Je conclus que Doris était en fait une employée de la société, qui s’occupait de sous‑traiter des vêtements nouvellement confectionnés. Comme dans l’affaire Kowalchuk v. R.[1], Doris était une employée ainsi qu’un cadre et une administratrice de la société. Dans la décision Kowalchuk, la juge Campbell a examiné la définition des mots « employé » et « cadre » figurant au paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi ») et elle a conclu que l’administrateur d’une société était un « cadre » et par extension qu’il était visé par la définition du mot « employé ». L’unique administrateur, M. Kowalchuk, participait activement aux activités quotidiennes de la société, et il aurait été impossible pour la société, comme c’est le cas pour Sister Red Enterprises, d’exploiter son entreprise sans recourir aux services de M. Kowalchuk à titre d’employé[2]. En outre, la qualité d’employée est étayée par la preuve documentaire, montrant que Doris a reçu de la société un « salaire » de 16 000 $ fixé en l’an 2000 et payé en 2001[3].
+[3] Doris exploitait l’entreprise de la société à domicile, mais elle passait du temps à se déplacer dans son véhicule (une Lexus) pour se rendre à un local d’entreposage loué ainsi qu’aux bureaux de fournisseurs et d’acheteurs. Le ministre a accepté l’allocation par la société de 10 p. 100 aux fins de l’utilisation de la maison de Doris, et de 10 p. 100 à l’égard des frais généraux d’entretien, soit un montant de 2 400 $ à des fins commerciales. Le ministre maintient que le montant de 2 400 $ doit être inclus dans le revenu personnel de Doris conformément au paragraphe 18(12) de la Loi, lequel est rédigé comme suit :
+Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;[4] [Non souligné dans l’original.]
+[4] Dans le bulletin d’interprétation IT‑514, il est déclaré que, pour être admissible à titre de principal lieu d’affaires, le bureau à domicile n’a pas à être utilisé exclusivement à des fins commerciales[5]. Dans le cas de Doris, même si une superficie correspondant à 10 p. 100 seulement de sa résidence était utilisée à titre de bureau à domicile de la société, il s’agissait néanmoins de l’endroit où Doris s’occupait de l’administration, des opérations bancaires et de la planification de l’entreprise. Le bureau à domicile de la société était situé dans la maison de Doris, et l’allégation du ministre selon laquelle Doris accomplissait probablement le reste de ses tâches administratives depuis l’entrepôt n’a pas été prouvée ni examinée à fond. C’était dans le bureau à domicile de la société que les activités commerciales de l’entreprise, pour ce qui est de la sous‑traitance et des vêtements, étaient exercées. Ce bureau remplit les conditions applicables à un principal lieu d’affaires conformément au sous‑alinéa 18(12)a)(i) de la Loi, et la société a le droit de déduire au titre du loyer le montant annuel de 2 400 $, comme elle l’a fait.
+[5] Le loyer mensuel de 200 $ versé à Doris est à juste titre inclus dans le revenu de celle‑ci, mais je suis convaincu que Doris a engagé des dépenses locatives compensatoires, de sorte qu’aucun impôt locatif n’est payable.
+Automobile
+[6] Du point de vue de la société appelante, il s’agit de déterminer la proportion dans laquelle Doris utilisait la Lexus en vue de gagner un revenu d’entreprise par opposition à une utilisation personnelle[6]. M. Hum, vérificateur du ministre, estimait qu’en l’absence de carnets de route, la Lexus était utilisée à des fins personnelles dans une proportion d’au moins 49 p. 100, par rapport à la distance totale parcourue chaque année. Ce calcul était basé sur un chiffre estimatif de 5 895 kilomètres effectués chaque année sur un total de 17 000 kilomètres. Le vérificateur a ensuite, d’une façon plutôt arbitraire, estimé que l’utilisation à des fins commerciales représentait chaque année 5 000 kilomètres seulement.
+[7] L’alinéa 18(1)a) de la Loi empêche expressément la déduction des dépenses sauf dans la mesure où elles ont été engagées ou effectuées en vue de tirer un revenu d’une entreprise ou d’un bien. Il est possible d’appliquer l’article 67 de la Loi pour déterminer le caractère raisonnable de la dépense dans les circonstances, afin de « contrôler les dépenses excessives ou injustifiées »[7].
+[8] Le calcul effectué par le ministre en ce qui concerne la mesure dans laquelle l’automobile était utilisée à des fins personnelles est basé sur la détermination de la distance entre la résidence personnelle de Doris et l’entrepôt. Il a été considéré que 8 595 kilomètres par année se rapportaient à des [traduction] « déplacements effectués par un travailleur entre son lieu de résidence et son lieu de travail, soit des déplacements de nature personnelle, qui ne sont donc pas déductibles ». Ce point de vue ne s’applique pas, étant donné qu’il a été conclu que la maison de l’appelante était le principal lieu d’affaires de la société et que la distance parcourue entre le bureau de la société et l’entrepôt se rapporte à une utilisation commerciale de la Lexus. À tout le moins, les 8 595 kilomètres parcourus chaque année devraient être considérés comme des distances parcourues en vue de tirer un revenu de l’entreprise.
+[9] Il incombe au contribuable de fournir suffisamment d’éléments de preuve en vue d’établir que les hypothèses et cotisations du ministre n’étaient pas justifiées et que les dépenses ont de fait été engagées en vue de tirer un revenu d’une entreprise[8]. Aucun carnet de route n’était tenu, mais je retiens le témoignage de Doris lorsqu’elle déclare qu’elle n’effectuait pas simplement des déplacements pour aller à l’entrepôt aux fins commerciales de la société.
+[10] Eu égard aux circonstances, il est raisonnable d’allouer à la société les montants suivants au titre des dépenses engagées en vue de tirer un revenu d’une entreprise :
+Description
+2000
+2001
+Nombre de kilomètres parcourus chaque année à des fins commerciales
+8 595
+8 595
+Allocations libres d’impôt relatives à une voiture : taux prescrit pour les 5 000 premiers kilomètres, article 7306 du Règlement
+0,37 $
+0,41 $
+Total de l’allocation conformément à l’alinéa 18(1)r) de la Loi
+3 180,15 $
+3 523,95 $
+La société appelante et Doris n’ont pas demandé de déduction pour amortissement. Le ministre avait ratifié les nouvelles cotisations, en admettant un montant de 1 850 $ et de 2 050 $ au titre des dépenses engagées par la société à des fins commerciales pour les années d’imposition 2000 et 2001 respectivement. Selon les motifs que j’ai énoncés, ces montants seront rajustés à la hausse à 3 180,15 $ et à 3 523,95 $ pour les années 2000 et 2001 respectivement. Je ne doute pas que la société utilisait la Lexus à des fins commerciales, afin de permettre à Doris de se rendre chez des fournisseurs et des acheteurs et d’en revenir. En l’absence de factures et d’autres documents pertinents, j’admets un montant additionnel de 5 000 $ par année au titre des frais d’automobile se rattachant à la société. La société utilisait la Lexus de Doris. Un montant mensuel de 400 $ est réputé avoir été versé à Doris par la société au titre des frais de location et ce montant est réputé être inclus dans l’allocation pour usage de l’automobile de la société. Puisque Doris était propriétaire de la Lexus, des frais de location de 400 $ doivent être inclus dans son revenu personnel. Aucun élément de preuve n’établissait que Doris avait engagé des dépenses compensatoires à l’égard de l’automobile. Il s’agit ici d’une audience régie par la procédure informelle. Il ne s’agit pas d’une vérification et je ne suis pas vérificateur. Les montants obtenus, bien qu’ils soient approximatifs, semblent équitables eu égard aux circonstances. De toute évidence, les parties auraient dû régler cette question.
+Intérêts et frais bancaires
+[11] La société a déduit un montant de 6 388 $ et un montant de 5 300 $ pour les années d’imposition 2000 et 2001 respectivement au titre des [traduction] « intérêts et frais bancaires ». Je crois que le représentant de la société, M. Feldhammer, a qualifié la question [traduction] d’« avantage réputé se rattachant au placement ». À l’appui de la déduction, la société a présenté deux lettres de Berkeley Management & Finance Limited[9].
+[12] La première lettre est rédigée comme suit :
+[traduction]
+Le 17 septembre 2003
+Au constituant de Sister Red Trust
+Nous confirmons par les présentes qu’un montant de 95 892,59 € a été reçu le 1er septembre 1999 pour la fiducie susmentionnée. Sur ce montant, un montant de 4 165,58 € (2 700 £) a été transféré aux fiduciaires afin d’être utilisé pour les frais et le solde de 91 727,01 € a été envoyé à Scottish Mutual afin d’être placé dans leur € With Profits Bond.
+Scottish Mutual a reçu 91 673,52 € le 13 septembre et c’est ce montant qui a été placé.
+Si vous avez besoin de précisions, n’hésitez pas à communiquer avec moi.
+Dans la seconde lettre datée du 17 janvier 2001, il est question d’un montant de 1 400 € au titre des frais.
+[13] La Sister Red Trust a envoyé à Berkeley 95 892 €, soit environ 148 000 $ aux fins d’un placement, et elle a engagé des frais de 4 165,58 €, soit environ 6 388 $ en 1999. Il semble que les frais se rapportaient à l’année d’imposition 1999 plutôt qu’aux années ici en cause, soit les années 2000 et 2001 respectivement. Quoi qu’il en soit, le montant du placement, de 95 892 €, appartient apparemment à Sister Red Trust, qui n’est pas partie aux présents appels. Mis à part les témoignages de vive voix présentés par Doris et par M. Feldhammer, aucun élément de preuve n’établit que Sister Red Trust et Sister Red Enterprises Inc. ne forment qu’une seule entité. De toute évidence, on a clairement dit à Berkeley que l’investisseur était Sister Red Trust. M. Feldhammer a expliqué qu’il voulait que Berkeley [traduction] « [leur] envoie les documents nécessaires pour que le placement soit transféré de Sister Red Trust à la société, de façon qu’il fasse partie de la nouvelle société. La vente n’ayant pas eu lieu, les documents en question n’ont jamais été demandés ». Cela ne suffit tout simplement pas, et ce, pour les motifs suivants énoncés par le juge Linden dans l’arrêt Friedberg c. Canada[10] :
+En droit fiscal, la forme a de l’importance. Une simple intention subjective, en l’espèce comme dans d’autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d’une opération aux fins de l’impôt. Lorsqu’un contribuable prend certaines dispositions formelles à l’égard de ses affaires, il peut s’ensuivre d’importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d’éviter des impôts (voir La Reine c. Irving Oil 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S’il n’en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d’amener les contribuables à payer des impôts qu’ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l’intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d’une intention subjective ne peut servir à « rectifier » des documents qui s’orientent clairement vers une direction précise.
+[15] M. Feldhammer a remis au vérificateur du ministre les formulaires intitulés « Relevé de compte » (le « relevé ») et « État de compte » (l’« état ») se rapportant à la taxe sur les produits et services (la « TPS ») et à la taxe de vente du Québec (la « TVQ »). Le relevé, qui était daté du 21 février 2002, comprenait une taxe nette de 3 737,44 $ au titre de la TPS‑TVQ[11]. L’état du 27 février 2002 comprenait une taxe nette de 1 059,50 $[12]. Ces montants ont été perçus par la société pour qu’elle les verse aux gouvernements fédéral et provincial. Le ministre a eu raison de refuser la déduction de ce montant à titre de dépense.
+[16] Quant au gain en capital, il n’en était pas question dans la réponse du ministre et l’avis d’appel n’était absolument pas utile sur ce point.
+[17] En 1999, Sister Red Trust a envoyé un montant d’environ 148 000 $ à Berkeley aux fins d’un placement. Comme il a déjà été conclu, Sister Red Trust n’a pas fait l’objet d’une cotisation. Je ne dispose d’aucun élément de preuve au sujet du statut juridique de Sister Red Trust, et je ne suis pas prêt à faire d’inférence. Il reste que les fonds du placement appartenaient à la fiducie, bien que la société a comptabilisé, je pense, le montant (142 476,39 $) comme ayant été payé en 1999, un montant de 140 000 $ ayant été retourné à la société en l’an 2000.
+[18] M. Feldhammer décrit le placement comme suit[13] :
+[traduction]
+Nous arrivons au point vraiment étrange, à savoir le gain en capital. M. Hum et vous‑même avez déclaré que nous n’avons jamais fourni de documents. Comment M. Hum a‑t‑il pu déterminer la juste valeur marchande si nous n’avons jamais fourni de documents? Il n’y a pas de gain, parce qu’il n’y avait pas d’opération. Le montant de l’opération s’élevait à 148 771 $ en 1999 et nous l’avons annulé au moyen d’une écriture de journal en l’an 2000. Comment peut‑il y avoir un gain en capital, en particulier lorsque vous dites qu’aucun document n’a été fourni? Cela ne peut pas arriver. On a dû fournir quelque chose, que vous n’indiquez pas ici.
+Je retiens cette explication, aussi superficielle soit‑elle. Quoi qu’il en soit, j’ai reconnu que l’argent du placement appartenait à Sister Red Trust, et cette dernière n’a pas fait l’objet d’une cotisation. La question concernant Berkeley Management & Finance Limited n’a pas donné lieu à une cotisation appropriée à l’égard de l’une ou l’autre des deux appelantes désignées.
+[19] En fin de compte, je conclus ce qui suit :
+(i) Location de bureau – société : La société a le droit de déduire un montant de 2 400 $ en tout pour chacune des années 2000 et 2001 au titre des dépenses engagées pour la location d’un local, dans la résidence de Doris, à des fins commerciales.
+(ii) Location de bureau – Doris : Le loyer annuel de 2 400 $ pour les années 2000 et 2001 doit être inclus dans le revenu de Doris, mais cette dernière a le droit de déduire de ce revenu des frais associés à la résidence au même montant.
+(iii) Automobile – société : La société a droit à des montants de 8 180,15 $ et de 8 523,05 $ à l’égard des frais relatifs à l’automobile pour les années d’imposition 2000 et 2001 respectivement.
+(iv) Doris : Seul le prix de location mensuel de 400 $ doit être inclus dans le revenu de Doris pour les frais relatifs à l’automobile et aux déplacements, soit au total un montant de 4 800 $ en l’an 2000 et de 4 800 $ en 2001.
+(v) Promotion : Le montant établi demeure le même pour les deux appelantes.
+(vi) Intérêts et frais bancaires – société : Les montants établis demeurent les mêmes. Le ministre a eu raison de refuser les montants de 6 295 $ et de 4 797 $ pour les années d’imposition 2000 et 2001 respectivement.
+(vii) Frais d’intérêt – Doris : Le montant de 6 295 $ ne doit pas être inclus dans le revenu de Doris pour l’année 2000.
+(viii) Avantage réputé associé aux intérêts – Doris : Aucun montant ne doit être inclus dans le revenu de Doris pour les années 2000 et 2001 à titre [traduction] d’« avantage réputé relatif aux intérêts sur un prêt ou une dette ».
+(ix) Pénalité pour production tardive – société : Le ministre a imposé à la société, d’une façon appropriée, la pénalité pour production tardive prévue au paragraphe 162(1) pour l’année d’imposition 2000.
+Signé à Ottawa, Canada, ce 5e jour de février 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI54
+Nos DES DOSSIERS DE LA COUR : 2004-4749(IT)I et 2005-3398(IT)I
+INTITULÉ : Sister Red Enterprises Inc. et Doris Kertesz
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 10 août 2006
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 5 février 2007
+COMPARUTIONS :
+Représentant des appelantes :
+M. Sidney Feldhammer
+Avocat de l’intimée :
+Me Vlad Zolia
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2005 DTC 1754 (C.C.I.), paragraphe 25.
+[2] Ibid.
+[3] Pièce R-1, précitée, note 4. Voir également les actes de procédure de M. Sidney Feldhammer, page 117.
+[4] Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, dans sa forme modifiée, paragraphe 18(12).
+[5] M.R.N., bulletin d’interprétation IT-514, « Frais de local de travail à domicile » (3 février 1989), paragraphe 2.
+[6] Boury v. R., 2005 DTC 596, paragraphe 4 (C.C.I.).
+[7] Hammill c. R., 2005 CAF 252, paragraphe 52 (C.A.F.), confirmant 2004 DTC 3271 (C.C.I.) [Hammill, cité, C.A.F.].
+[8] Graves v. Canada, 90 DTC 6300, paragraphes 20 à 23 (C.F. 1re inst.).
+[9] Pièce R-1, onglets 15 et 16.
+[10] 92 DTC 6031.
+[11] Pièce R-1, onglet 18.
+[12] Pièce R-1, onglet 19.
+[13] Transcription, page 122, lignes 3 à 13.

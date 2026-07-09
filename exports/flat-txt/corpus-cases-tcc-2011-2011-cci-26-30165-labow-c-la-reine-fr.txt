@@ -1,0 +1,135 @@
+Title: Labow c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30165/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-26-30165-labow-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-01-18
+
+# Labow c. La Reine
+
+- Citation: 2011 CCI 26
+- Decision date: 2011-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7823, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labow c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-18
+Référence neutre
+2011 CCI 26
+Numéro de dossier
+2006-3533(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3533(IT)G
+ENTRE :
+STANLEY LABOW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Demandes présentées en vertu du paragraphe 147(7) et tranchées suivant l'article 69 des Règles de la Cour canadienne de l'impôt (procédure générale).
+Par : L'honorable juge E. A. Bowie
+Comparutions :
+Avocates de l'appelant :
+Me Shelley J. Kamin
+Me Kimberley Cunnington‑Taylor
+Avocats de l'intimée :
+Me Luther P. Chambers, c.r.
+Me Jennifer Neill
+________________________________________________________________
+JUGEMENT SUR LES DÉPENS
+VU la demande de réexamen de l'adjudication des dépens pour le présent appel;
+ET VU les documents présentés par les deux parties;
+LA COUR ORDONNE que l'appelant paie les dépens de l'intimée qui seront taxés suivant le tarif A et le tarif B de l'annexe II des Règles, sous réserve des directives suivantes à l'officier taxateur :
+i) il doit être alloué pour un second avocat une somme correspondant à 50 % des honoraires consentis au premier avocat;
+ii) le coût des transcriptions quotidiennes doit être supporté par la partie qui en a fait la demande.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2011.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 18e jour de mars 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 26
+Date : 20110118
+Dossiers : 2006-3533(IT)G, 2007-2496(IT)G,
+2007-2611(IT)G, 2007-3038(IT)G
+et 2007-3039(IT)G
+ENTRE :
+STANLEY LABOW, DANNY S. TENASCHUK, MARCANTONIO CONSTRUCTORS INC., GIUSEPPE MARCANTONIO et DOMENICO FILOSO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT SUR LES DÉPENS
+Le juge Bowie
+[1] Je dois me prononcer sur une demande de réexamen de l'adjudication des dépens pour trois appels interjetés par Stanley Labow, Danny Tenaschuk et Marcantonio Constructors Inc. (« MCI »). Conformément à mes instructions, les avocats des deux parties ont déposé des observations écrites, notamment à l'égard de l'adjudication des dépens pour les deux appels de Giuseppe Marcantonio et de Domenico Filoso. Ces deux causes ont fait l'objet de jugements sur consentement accueillant les appels et différant la décision relative à l'adjudication des dépens afin qu'elle soit prise en même temps que celle relative à l'adjudication des dépens des trois autres causes.
+[2] À l'origine, ces cinq causes, qui concernent plusieurs questions qui se chevauchent, étaient censées être entendues ensemble, l'une après l'autre, en janvier 2009. La durée totale qui était alors prévue pour les procès était de quatre jours. Quelque dix jours avant la date prévue pour l'audience, l'avocat principal de l'intimée a été hospitalisé d'urgence, le début du procès ayant par la suite été fixé au 5 mai 2009. Le 1er mai 2009, l'avocat principal de l'intimée a écrit aux avocates des appelants pour les informer que le ministre du Revenu national abandonnait maintenant les nouvelles cotisations établies à l'égard de Giuseppe Marcantonio et de Domenico Filoso, et présenterait à la Cour au début du procès une requête afin que les appels soient accueillis et que les nouvelles cotisations soient déférées au ministre pour qu'il rétablisse leurs cotisations précédentes. Le procès des trois causes restantes a eu lieu. Au total, six journées complètes et deux demi‑journées ont été consacrées à la présentation de la preuve et deux journées ont été consacrées à la plaidoirie. Certains éléments de preuve et une importante partie des plaidoiries étaient communs aux trois causes.
+Stanley Labow, Danny Tenaschuk et MCI
+[3] Les appelants soutiennent que même si leurs appels ont été rejetés, la Cour devrait refuser d'adjuger les dépens à l'intimée. L'avocate des appelants invoque plusieurs moyens à l'appui de sa thèse. Je résume :
+a) l'avocate des appelants a dû perdre 42 heures à répondre à cinq demandes d'aveux. Même si elle a admis [TRADUCTION] « près de la moitié » des faits faisant l'objet des demandes, et bien d'autres faits sous certaines conditions, l'avocat de l'intimée a refusé de présenter les aveux à la Cour et il s'est opposé à ce que l'appelante présente à la Cour des résumés à ce sujet;
+b) lors d'une conférence de gestion de l'instance, j'ai demandé aux parties de préparer un énoncé des faits sur lesquels elles pouvaient s'entendre. L'avocate des appelants a passé 33 heures à tenter de se conformer à cette demande, sans succès. Elle impute à l'avocat de l'intimée le fait qu'ils n'ont pas pu conclure une entente;
+c) selon elle, le comportement de l'avocat de l'intimée lors du contre‑interrogatoire des témoins a prolongé inutilement l'audience;
+d) l'avocat de l'intimée a tenu à certaines questions jusqu'au dernier moment, alors qu'il aurait dû les abandonner beaucoup plus tôt, et il ajouté certaines questions entre la fin de la présentation de la preuve et le début des plaidoiries. Maître Kamin a dit qu'il s'agissait d'un [TRADUCTION] « procès‑camouflage »;
+e) l'intimée a inutilement demandé que des transcriptions lui soient envoyées dans un bref délai; les appelants n'ont pas à payer pour ces transcriptions;
+f) les appelants ont fait des offres de règlement par écrit qui ont été rejetées catégoriquement. Même si l'issue de l'affaire était moins favorable aux appelants que les offres de règlement par écrit, l'avocate des appelants soutient que, dans l'exercice de mon pouvoir discrétionnaire en ce qui concerne les dépens, suivant l'article 147 des Règles, je devrais tenir compte du fait que les appelants ont tenté d'en arriver à un règlement et que l'intimée a sèchement refusé leur offre;
+g) les appels font partie d'un grand nombre de causes semblables et, par conséquent, les appelants ne devraient pas être assujettis à la règle générale en matière d'adjudication des dépens.
+Les appelants allèguent aussi que, même si les dépens étaient adjugés à l'intimée, il ne devrait pas y avoir d'honoraires d'avocat relatifs à la seconde avocate parce que sa participation au procès était minime, selon Me Kamin.
+[4] Maître Chambers, au nom de l'intimée, soutient que je devrais adjuger les dépens à l'intimée sur une base procureur‑client. Son argument, formulé sans modération, est que l'avocate des appelants a [TRADUCTION] « présenté de faux éléments de preuve en espérant qu'ils ne soient pas décelés ». Même si je n'ai pas accepté la preuve des appelants quant aux raisons pour lesquelles ils ont fait les dépenses en litige dans ces causes, l'affirmation voulant que l'avocate des appelants présentait donc de faux éléments de preuve n'est nullement justifiée par les faits et elle est inappropriée. Il s'agit là d'un exemple de plus de la regrettable émergence récente du manque de civilité devant le tribunal, ce qui préoccupe grandement la Cour ainsi que d'autres tribunaux au Canada.
+[5] Maître Chambers poursuit en affirmant, à titre subsidiaire, que je devrais augmenter les dépens prévus au tarif B, pour des raisons qui pourraient être résumées de la manière suivante :
+a) la charge de travail était [TRADUCTION] « énorme » pour diverses raisons, notamment l'incapacité des avocats de s'entendre sur quelque fait que ce soit, le nombre [TRADUCTION] « déconcertant » d'actes de fiducie allégués, dont au moins un a été produit pour la première fois durant le procès, ainsi que la nécessité de contre‑interroger un avocat et deux actuaires à fond;
+b) la complexité des questions;
+c) l'ampleur de la preuve présentée au procès;
+d) le temps consacré par l'avocat de l'intimée à rédiger des observations écrites.
+[6] Ni l'un ni l'autre de ces arguments ne m'impressionne beaucoup. Sans doute, il s'agissait d'un groupe de causes qui présentaient certaines difficultés pour les deux avocats. Dans le contexte de la présente demande, il est impossible d'imputer à une partie ou à l'autre l'entière responsabilité de l'échec des avocats à s'entendre avant le procès, ne serait‑ce que sur quelques faits. L'avocat de l'intimée a fait une montagne de certains sujets, ce qui a mené à de longs contre‑interrogatoires qui auraient mieux fait d'être quelque peu écourtés. Il ne fait pas de doute que le procès aurait été plus court (et plus agréable pour toutes les personnes concernées) s'il avait été possible de se concentrer davantage sur les questions et s'il y avait eu plus de courtoisie. Cela dit, rien dans les circonstances ne permet d'appliquer la sanction extrême qui consiste à refuser l'adjudication des dépens à l'intimée, ou la sanction tout aussi rigoureuse d'adjuger les dépens à l'intimée sur la base procureur‑client.
+[7] Je souscris entièrement à ce qu'a dit le juge Bowman, tel était alors son titre, dans RMM Canadian Enterprises Inc. c. La Reine[1] :
+Quant au premier point, je ne puis rien voir qui permette d'allouer aux appelantes une partie de leurs frais. Habituellement, les frais devraient suivre l'issue de la cause et le fait qu'une affaire est difficile ou importante ou qu'elle soulève de nouveaux points de droit ne permet pas pour autant de déroger à cette règle. Les litiges de nature fiscale sont souvent complexes et, compte tenu de la complexité du monde contemporain des affaires et du dédale des modifications qui sont constamment apportées à la législation fiscale canadienne, des questions nouvelles et importantes sont fréquemment soulevées devant les tribunaux.
+Le deuxième argument des avocats était que, de toute façon, les frais et la durée de l'audience ont été accrus du fait que l'avocate de l'intimée a refusé d'admettre certains faits qui auraient dû être admis et qu'en général, compte tenu de l'importance de l'affaire, elle n'a pas lésiné sur les moyens pour atteindre son but. Il a été soutenu que l'affaire aurait pu être simplifiée et abrégée si la Couronne l'avait limitée à l'application des articles 84 et 212 et n'avait pas eu recours à la DGAE, comme il en a été fait mention dans les motifs du jugement.
+Il est vrai que j'ai décidé que les cotisations étaient soutenables sur la seule base des articles 84 et 212, mais il n'était pas déraisonnable pour la Couronne de se fonder sur l'article 245, tant au moment où la cotisation a été établie qu'à l'audience. De fait, dans la décision McNichol et al. v. The Queen, 97 D.T.C. 111, le juge Bonner s'est uniquement fondé sur cette disposition. Il arrive fréquemment, dans un litige, que des arguments soient avancés à l'appui de positions, lesquels considérés après coup, s'avèrent inutiles. À moins que pareils arguments ne soient clairement futiles ou insoutenables, je ne crois pas qu'une partie doive être pénalisée au point de vue des frais simplement parce que son avocat décide de débattre la question à fond, et je ne crois pas non plus qu'il m'incombe de revenir après coup sur la décision de l'avocat, et de dire en fait que s'il avait pu prévoir comment j'allais trancher l'affaire, il aurait été possible d'économiser énormément de temps en s'en tenant à une seule question. En outre, l'avocat est entre autres tenu de constituer un dossier qui permettra à un tribunal d'appel d'examiner toutes les questions en litige.
+[Non souligné dans l'original.]
+[8] Les dépens doivent être adjugés en faveur de l'intimée dans les trois causes, sur la base partie‑partie, sous réserve des directives suivantes établies en application de l'article 150 des Règles.
+[9] L'ampleur, la complexité et l'importance de ces causes justifient des honoraires pour la présence d'un second avocat. Il est ordonné à l'officier taxateur d'allouer des honoraires pour un second avocat qui correspondent à 50 % des honoraires consentis au premier avocat.
+[10] Lorsque, comme c'est le cas en l'espèce, il y a deux avocats au procès, les transcriptions quotidiennes constituent un luxe. Habituellement, lorsqu'une transcription quotidienne est exigée, elle fait suite à une discussion entre les avocats et la Cour qui mène à une entente à l'égard de la répartition des frais. Si aucune discussion n'a lieu et qu'aucune entente n'est conclue, le coût des transcriptions quotidiennes doit être supporté par la partie qui en fait la demande, quelle que soit l'issue de l'affaire. Il est ordonné à l'officier taxateur d'agir en conséquence.
+Giuseppe Marcantonio et Domenico Filoso
+[11] La règle veut qu'en principe, lorsqu'il y a désistement, la partie s'étant désistée est tenue de payer les dépens partie‑partie jusqu'au moment du désistement. Maître Kamin demande les dépens partie‑partie jusqu'au 28 janvier 2009, date à laquelle le procès a été annulé en raison de la maladie de l'avocat, ainsi qu'un montant forfaitaire de 5 000 $ pour chaque cause pour la période suivante, allant jusqu'au désistement en mai. Maître Chambers demande que je limite les montants qui seraient taxables par ailleurs entre parties dans ces deux cas parce que les questions de chaque cause sont essentiellement les mêmes.
+[12] La raison pour laquelle l'intimée a abandonné les cotisations et a consenti au jugement accueillant les appels dans ces cas serait que le ministre ne détenait aucune preuve permettant d'étayer la valeur qu'il avait attribuée dans les cotisations aux avantages qu'aurait conférés MCI aux deux particuliers appelants. Cela a certainement dû être évident pour le ministre et pour l'avocat bien avant le mois de mai 2009. Comme on avait prévu que le procès commencerait le 5 mai, il était injustifiable d'attendre jusqu'au vendredi 1er mai pour informer l'avocat de la partie adverse que l'intimée allait consentir au jugement accueillant les appels. L'officier taxateur a comme directive d'adjuger des dépens de 5 000 $ pour la préparation du procès dans chacune des causes.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2011.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 18e jour de mars 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 26
+Nos DES DOSSIERS DE LA COUR : 2006-3533(IT)G, 2007-2496(IT)G, 2007‑2611(IT)G, 2007-3038(IT)G et 2007‑3039(IT)G
+INTITULÉS : STANLEY LABOW, DANNY S. TENASCHUK, MARCANTONIO CONSTRUCTORS INC., GIUSEPPE MARCANTONIO et DOMENICO FILOSO c. SA MAJESTÉ LA REINE
+MOTIFS DU JUGEMENT
+SUR LES DÉPENS : L'honorable juge E. A. Bowie
+DATE DU JUGEMENT
+SUR LES DÉPENS : Le 18 janvier 2011
+COMPARUTIONS :
+Avocates des appelants :
+Me Shelley J. Kamin
+Me Kimberley Cunnington‑Taylor
+Avocats de l'intimée :
+Me Luther P. Chambers, c.r.
+Me Jennifer Neill
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Shelley J. Kamin
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] no 94‑1732(IT)G, 26 mai 1997, 97 DTC 420; [1997] 3 C.T.C. 2103.

@@ -1,0 +1,290 @@
+---
+title: "Terminal Norco Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27231/index.do"
+last_modified: "2006-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 139"
+citation2: ""
+neutral_citation: "2006 CCI 139"
+decision_date: "2006-05-02"
+language: "fr"
+item_id: "27231"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 837
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:39:21.788000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da240eaaa764d786061b069484a2a26abda0c826516d8bd386dd89dcc12db3b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Terminal Norco Inc. c. La Reine
+
+- Citation: 2006 CCI 139
+- Decision date: 2006-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 837, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Terminal Norco Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-02
+Référence neutre
+2006 CCI 139
+Numéro de dossier
+2002-3588(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2002-3588(IT)G
+ENTRE :
+TERMINAL NORCO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu les 1er, 2 et 3 mars 2006 à Montréal (Québec)
+Devant l'honorable juge Brent Paris
+Avocat de l'appelante :
+Me Aaron Rodgers
+Avocate de l'intimée :
+Me Marie Bélanger
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1993 est rejeté, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+B. Paris
+______________________
+Juge Paris
+Référence : 2006CCI139
+Date : 20060502
+Dossier : 2002-3588(IT)G
+ENTRE :
+TERMINAL NORCO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge Paris
+[1] Il s'agit d'un appel interjeté à l'encontre de la nouvelle cotisation pour l'année d'imposition de l'appelante qui se termine le 30 juin 1993, selon laquelle le ministre du Revenu national (le « ministre » ) a ajouté une somme de 664 593 $ à titre de récupération de la déduction pour amortissement ( « récupération » ) au revenu de l'appelante relativement à la disposition effectuée par l'appelante de tous ses biens amortissables en faveur d'une autre société, Terminal Norcan Inc., au cours de l'année en question.
+[2] En établissant la nouvelle cotisation à l'égard de l'appelante, le ministre a tenu pour acquis que l'appelante contrôlait Terminal Norcan immédiatement après la disposition et, par conséquent, l'alinéa 85(5.1)e) de la Loi de l'impôt sur le revenu (la « Loi » ) a empêché l'appelante de subir des pertes finales sur la disposition de tout bien amortissable qui aurait compensé la récupération supplémentaire.
+[3] L'appelante soutient qu'elle ne contrôlait pas Terminal Norcan immédiatement après la disposition et, par conséquent, l'alinéa 85(5.1)e) ne s'applique pas.
+[4] Subsidiairement, l'appelante prétend qu'elle a le droit de modifier sa déclaration de revenus pour l'année en question de sorte qu'elle peut profiter du choix prévu au paragraphe 1103(1) du Règlement de l'impôt sur le revenu (le « Règlement » ). Ce choix éliminerait l'augmentation de la récupération.
+Faits
+Contexte
+[5] Au cours de la période pertinente, l'appelante était une filiale à cent pour cent de Norco-Calex Ltd. Cette dernière et ses filiales (appelée à l'audience « Norco-Calex Group » ) importaient et vendaient des produits pétroliers. Les entreprises de gros de Group, lesquelles étaient visées par les opérations qui ont donné lieu au présent appel, ont été effectuées en partie par l'entremise de l'appelante, laquelle était propriétaire et exploitante d'un terminal et d'une installation de stockage de produits pétroliers et en partie par Les Pétroles Calex Ltée et Calex Inc. Le terminal et l'installation de stockage de l'appelante consistaient en un bien-fonds ainsi qu'en de biens amortissables, comme une cuve de stockage, des pipelines, des bâtiments et divers équipements.
+[6] Saul Abracen possédait la majorité des actions de Norco-Calex Ltd. et, avec son fils, Jonathan Abracen, et un employé de longue date, Marcel Bergeron, il gérait les entreprises de Norco-Calex Group. Jonathan Abracen et Marcel Bergeron étaient également des actionnaires minoritaires de Norco-Calex Ltd.
+Les opérations
+[7] En juillet 1992, Saul Abracen a offert de vendre les entreprises de gros de Norco-Calex Group à Marcel Bergeron, qui a rassemblé un groupe d'investisseurs ( « le Consortium » ) pour effectuer l'achat.
+[8] Dans une lettre d'intention envoyée à Norco-Calex datée du 6 août 1992, le Consortium a exprimé son intérêt à acheter les entreprises de gros pour une somme de 4,75 millions de dollars. La plus grande partie du prix d'achat, à savoir 4,55 millions de dollars, a été attribuée à l'achat des actifs de l'appelante (les « actifs » ). Le reste du prix d'achat a été réparti entre les actifs de Calex Inc. et les actifs de Les Pétroles Calex Ltée. Une somme en espèces de 4,5 millions de dollars était exigible à la signature, et le solde de 250 000 $ était exigible au cours d'une période de trois ans.
+[9] Le 10 août 1992, Norco-Calex a exprimé son intérêt à la proposition en signant la lettre d'intention et en l'envoyant au Consortium accompagnée d'une lettre provenant de son avocat, Me David Sohmer, de Spiegel Sohmer. La lettre prévoyait certaines conditions supplémentaires et indiquait que la lettre d'intention ne constituait pas une entente exécutoire, mais qu'elle établissait plutôt les paramètres selon lesquels les parties avaient l'intention de négocier.
+[10]Selon la lettre d'intention, le Consortium prévoyait acquérir les actifs par l'intermédiaire d'une nouvelle société qui sera appelée « Terminal Norcan » . On a convenu que Marcel Bergeron prendrait les dispositions nécessaires pour constituer en personne morale Terminal Norcan et que l'appelante possédera, à l'origine, toutes les actions. L'appelante devait transférer les actifs à Terminal Norcan selon leur juste valeur marchande, libres de toute charge et transférerait par la suite les actions de Terminal Norcan à une autre société établie par le Consortium.
+[11]Terminal Norcan a été constituée en personne morale le 19 août 1992 dont l'appelante était son unique actionnaire et Saul Abracen, Jonathan Abracen et Marcel Bergeron étaient ses administrateurs.
+[12]Selon les éléments de preuve, la principale raison pour laquelle Terminal Norcan a été constituée en personne morale était de permettre au Consortium d'obtenir tous les permis et licences d'exploitation nécessaires à l'égard du terminal avant son acquisition. Le Consortium pourrait alors exploiter le terminal dès qu'il acquerrait les actions de Terminal Norcan de l'appelante. Selon Marcel Bergeron, le Consortium n'avait pas les moyens d'acquérir le terminal et de présenter par la suite des demandes de permis car cela aurait entraîné des mois de retard.
+[13]Le Consortium souhaitait que l'appelante possède les actions de Terminal Norcan dès le début, afin d'accélérer le processus de l'obtention des permis. Selon le témoignage de Me David Sohmer, le Consortium croyait que si le transfert du terminal était effectué à une filiale de l'appelante plutôt qu'à un tiers, il serait plus facile à obtenir les permis environnementaux nécessaires.
+[14]Une autre raison pour laquelle le Consortium souhaitait que Terminal Norcan appartienne à l'origine à l'appelante était de permettre au Consortium d'éviter de payer le droit de mutation, lequel est imposé sur le transfert d'immeubles et est payable par l'acquéreur. Selon les lois portant sur le droit de mutation, un transfert d'un bien-fonds d'une société mère à sa filiale à cent pour cent est exonéré.
+[15]La date de clôture des opérations était, à l'origine, prévue pour le 10 septembre 1992, mais a été modifiée à plusieurs reprises, en vue, en partie, de fournir à Marcel Bergeron le temps de prendre les dispositions nécessaires pour obtenir les permis environnementaux. Le Consortium espérait obtenir l'approbation du ministère de l'Environnement du Québec ( « MENVQ » ) de l'exploitation temporaire du terminal par Terminal Norcan sans le certificat d'autorisation nécessaire en vertu de l'article 22 de la Loi sur la qualité de l'environnement ( « LQE » ). L'appelante n'était pas tenue d'avoir ce certificat car elle avait obtenu le terminal avant la mise en vigueur de la LQE et ses activités étaient visées par le principe des droits acquis prévus par la Loi. Tant Norco-Calex que le Consortium souhaitaient éviter que Terminal Norcan soit tenue de présenter une demande de certificat avant le transfert du terminal car le processus d'obtention du certificat nécessitait beaucoup de temps et pourrait avoir entraîné des ordonnances de liquidation coûteuses à l'égard de l'appelante.
+[16]La signature a également été reportée car le Consortium a éprouvé des difficultés à obtenir l'argent pour l'acquisition. En mi-septembre 1992, il a avisé Norco-Calex qu'il ne serait pas en mesure de payer le plein montant de 4,5 millions de dollars requis à la signature. Norco-Calex a par la suite accepté un paiement en espèces réduit de 3,75 millions de dollars à la signature et le solde de 1 million de dollars payable au cours d'une période de six mois, et elle a obtenu une obligation et a grevé le bien-fonds du terminal d'une hypothèque.
+[17]Le 9 octobre 1992, le MENVQ a informé Terminal Norcan qu'elle pourrait exploiter ses activités sans le certificat prévu à l'article 22 après le transfert du terminal pourvu qu'elle en présente une demande au plus tard en décembre 1992. Une fois que cet avis a été reçu, la signature a été prévue pour les 13 et 14 octobre 1992.
+[18] La vente des actifs à Terminal Norcan était prévue pour le 13 octobre. La signature de la vente des actions de Terminal Norcan à la nouvelle société de Consortium, Groupe Pétroles Norcan Inc. ( « GPN » ) et de la vente des actifs de Pétroles Calex et de Calex Inc., étaient les deux prévues pour le 14 octobre. Selon Me Janice Naymark, l'avocate de société de Spiegel Sohmer qui a travaillé à l'entente visant Norco-Calex Group, la vente des actifs a été effectuée avant la vente des actions de Terminal Norcan afin que l'appelante puisse avoir le temps d'enregistrer sa garantie à l'égard de l'obligation d'une somme de 1 million de dollars fournie par Terminal Norcan.
+[19]Le calendrier et le cahier de documents des signatures ont été préparés par McMaster Meighen, les avocats qui représentaient le Consortium. Le libellé suivant figurait à la page couverture du calendrier de signatures :
+[TRADUCTION]
+TOUTES LES OPÉRATIONS AYANT TRAIT À LA SIGNATURE SONT RÉPUTÉES ÊTRE INTERDÉPENDANTES ET AUCUNE OPÉRATION, LIVRASION DE DOCUMENTS OU AUTRE MESURE NE SERA RÉPUTÉE EFFECUTÉE JUSQU'À CE QUE TOUTES CES OPÉRATIONS, LIVRIASONS DE DOCUMENTS OU AUTRES MESURES SOIENT EFFECTUÉES.
+[20]Les cahiers de documents des signatures contenaient toutes les ententes et les documents connexes qui devaient être signés les 13 et 14 octobre 1992.
+[21]La première partie de la signature a eu lieu le 13 octobre 1992, tel que cela avait été prévu. Saul Abracen, pour le compte de l'appelante et de Terminal Norcan, a signé la convention d'achat d'actifs et l'acte de vente qui permettent de transférer les actifs à Terminal Norcan pour une contrepartie de 4 641 500 $ payée au moyen de deux billets à ordre, l'un de 3 641 500 $ et l'autre de 1 million de dollars. Les résolutions connexes de l'actionnaire et de l'administrateur de l'appelante autorisant la vente ont également été signées par Saul Abracen, et les résolutions connexes des actionnaires et des administrateurs de Terminal Norcan autorisant l'achat ont été signées par Saul Abracen, Jonathan Abracen et Marcel Bergeron. Marcel Bergeron, un administrateur autorisé de Terminal Norcan, a signé les deux billets à ordre, l'obligation et l'hypothèque de 1 million de dollars. L'acte de vente et l'hypothèque ont été notariés le 13 octobre 1992.
+[22]Au cours de l'après-midi du 13 octobre 1992, les avocats du Consortium ont avisé Spiegel Sohmer que les fonds nécessaires pour conclure l'entente n'étaient pas disponibles et que la deuxième partie de la signature ne pourrait pas être effectuée le 14 octobre 1992. Apparemment, l'un des membres du Consortium avait des doutes quant à sa participation à l'entente. Sans son apport de fonds, l'achat ne pouvait être effectué. Marcel Bergeron a demandé une brève prorogation, ce qui lui a été accordée, en vue de régler le problème et il a réussi à convaincre le membre de participer. L'argent nécessaire pour conclure l'entente a été versé en fiducie à Spiegel Sohmer le vendredi 16 octobre 1992. Ce même jour, Spiegel Sohmer a enregistré l'acte de vente des actifs et l'hypothèque à l'égard du bien-fond du terminal.
+[23]Selon le témoignage de Me David Sohmer, il a attendu avant d'enregistrer l'acte de vente et l'hypothèque jusqu'à ce que Spiegel Sohmer ait reçu les fonds d'achat du Consortium afin de s'assurer que l'entente sera conclue. Il a indiqué que si les fonds n'avaient pas été reçus au plus tard le 16 octobre 1992, que Norco-Calex aurait mis fin à l'entente et que les documents signés le 13 octobre 1992 auraient été annulés car il n'y aurait eu aucune raison de transférer les actifs à Terminal Norcan, compte tenu de l'absence d'une vente au Consortium. Toutefois, Me Sohmer a en fait admis qu'aucun contrat officiel de dépôt entre les mains d'un tiers n'avait été conclu à l'égard des documents signés le 13 octobre 1992.
+[24]La deuxième partie de la signature a eu lieu le lundi 19 octobre 1992. La convention d'achat d'actions, en vertu de laquelle la société du Consortium, GPN, a acquis les actions de Terminal Norcan de l'appelante, a été signée par Saul Abracen au nom de l'appelante et de Terminal Norcan et par Marcel Bergeron au nom de GPN.
+[25]Les résolutions des actionnaires et des administrateurs requises pour la vente ont été signées, et Saul Abracen et Jonathan Abracen ont démissionné de leur poste d'administrateurs de Terminal Norcan.
+[26]Les autres ententes et résolutions connexes nécessaires pour transférer les actifs de Les Pétroles Calex Ltee. et de Calex Inc. aux sociétés appartenant au Consortium ont également été signées par les parties le 19 octobre 1992.
+[27]La somme de 3,75 millions de dollars qui avait été payée en fiducie aux avocats de Norco-Calex le 16 octobre 1992 avait été versée le 19 octobre 1992 de la façon suivante :
+Une somme de 3 641 500 $ à l'appelante en vue de rembourser le billet à ordre donné par Terminal Norcan à titre de contrepartie partielle de l'achat des actifs du terminal.
+Une somme de 100 000 $ à Les Pétroles Calex Ltée. pour ses actifs.
+Une somme de 8 500 $ à Calex Inc. pour ses actifs.
+[28]Selon le témoignage de Me Janice Naymark, deux étapes indiquées dans le calendrier des signatures dans le cadre du transfert des actifs de l'appelante à Terminal Norcan n'ont pas été effectuées, tel que cela avait été prévu, le 13 octobre 1992. Elle a indiqué que l'affidavit portant sur la vente en bloc, lequel devait être fait sous serment par Saul Abracen conjointement avec la vente des actifs à Terminal Norcan, et la livraison de l'acte de fiducie signé par Terminal Norcan le 13 octobre 1992 relativement à l'obligation de 1 million de dollars, n'ont été effectués que le 19 octobre 1992.
+[29]Me Naymark a également déclaré que certains libellés de l'annexe C de la convention d'achat d'actifs ont été modifiés le 19 octobre 1992. Elle a expliqué que l'appelante n'avait pas été en mesure d'annuler une charge qui grevait le titre du bien-fonds du terminal puisqu'elle n'a pu trouver le bénéficiaire de la charge. L'appelante avait remboursé intégralement la dette garantie par la charge quelques années auparavant, mais la charge n'avait pas été annulée. Le Consortium exigeait que l'appelante l'indemnise pour tous les frais qui pourraient découler de la charge suivant le transfert et, selon Me Naymark, le libellé de l'indemnisation n'était pas encore peaufiné lorsque M. Abracen a signé la convention le 13 octobre 1992. Le libellé a été peaufiné par Me Naymark et McMaster Meighen le 18 octobre 1992 et le libellé modifié a été annexé à la convention d'achat d'actifs.
+[30]Me Naymark a également indiqué que Terminal Norcan ne devait pas exploiter le terminal jusqu'à ce qu'elle ait acquis ses actions par l'intermédiaire de GPN, et pour cette raison, elle n'était pas inscrite aux fins de la taxe de vente et elle n'avait aucun numéro d'employé pour effectuer des déductions à la source pour ses employés.
+Déclaration financière et de l'impôt découlant des opérations
+[31]Selon le témoignage du comptable de l'appelante, Stephen Coplan, aux fins de la déclaration de revenus et des états financiers de l'appelante pour l'exercice se terminant le 30 juin 1993, il a considéré la vente d'actifs à Terminal Norcan comme une vente à une partie n'ayant aucun lien de dépendance. Il a indiqué qu'il estimait que le transfert de ces actifs à Terminal Norcan était [TRADUCTION] « une adaptation d'une seconde » et que « selon eux, la vente a été effectuée directement à un tiers » .
+[32]Les états financiers de l'exercice comportaient la note suivante :
+[TRADUCTION]
+7. Au cours de l'exercice, la société a vendu ses actifs d'exploitation à un tiers. Par conséquent, la société n'exercera plus d'activités au cours des années subséquentes, sauf des activités de placement.
+[33]Dans le cadre de la préparation de la déclaration de revenus de l'appelante, son comptable a réparti les produits de la disposition provenant de la vente des actifs entre le bien-fonds et divers autres biens amortissables qui avaient été vendus. Par la suite, il a réduit la fraction non amortie du coût en capital ( « FNACC » ) à l'égard de chaque catégorie de biens amortissables disposés par l'appelante en répartissant des montants, conformément au paragraphe 13(21) de la Loi. Cela a entraîné un solde négatif de la FNACC dans chaque catégorie. Puisqu'il n'y avait plus de biens dans aucune des catégories, le solde négatif de la FNACC a entraîné une récupération de 895 626 $. Le montant a été inclus dans le revenu de l'appelante, conformément au paragraphe 13(1) de la Loi.
+[34]M. Coplan a également préparé la déclaration de revenus de Terminal Norcan, laquelle indique une année d'imposition commençant et se terminant le 19 octobre 1992. Il a expliqué qu'une déclaration de revenus était nécessaire car le contrôle de Terminal Norcan a été modifié le 19 octobre 1992, ce qui a entraîné la fin d'exercice aux fins de l'impôt. Cette déclaration de revenus indiquait une perte de 478 $ en raison d'une déduction pour amortissement (DPA) effectuée à l'égard des biens amortissables acquis de l'appelante. M. Coplan a déclaré qu'il a préparé la déclaration de revenus selon le fondement que la société n'avait aucune activité et n'exploitait aucune entreprise et que le montant de la DPA a été calculé automatiquement par le logiciel utilisé pour préparer la déclaration de revenus, ce qu'il n'a pas supprimé.
+Vérification de l'appelante
+[35]Au cours de la vérification subséquente de l'appelante, le vérificateur de Revenu Canada a déterminé que la répartition des produits de la disposition des actifs effectuée par l'appelante, entre le bien-fonds et divers biens amortissables, ne correspondait pas à la répartition des produits convenue entre l'appelante et Terminal Norcan dans la convention d'achat d'actifs[1]. Par conséquent, le vérificateur a réparti de nouveau les produits conformément à la convention. L'appelante accepte que cette nouvelle répartition effectuée par le vérificateur soit correcte.
+[36]Le montant des produits de certains des biens amortissables de l'appelante a augmenté et dans certains autre cas, il a diminué. Par conséquent, le vérificateur a calculé de nouveau le solde de la FNACC à la fin de l'exercice pour chacune des catégories de biens amortissables pour tenir compte des produits révisés. Quant aux catégories de biens dont les produits ont augmenté, le solde négatif antérieur de la FNACC a également augmenté, ce qui a entraîné une augmentation de la récupération. Toutefois, lorsque les produits ont diminué, le solde négatif a également diminué, ce qui a entraîné une récupération moins élevée. En ce qui concerne trois catégories de biens, les catégories 1, 2 et 17, le solde de la FNACC est passé d'un solde négatif à un solde positif. Habituellement, lorsqu'il y a un solde positif dans une catégorie après la disposition des biens de cette catégorie, le solde positif entraîne une perte finale à l'égard du contribuable. Toutefois, en l'espèce, le vérificateur a également déterminé que puisque l'appelante contrôlait Terminal Norcan immédiatement après le transfert des actifs, que l'alinéa 85(5.1)e) de la Loi s'applique de façon à empêcher que l'appelante subisse une perte totale. Les parties pertinentes de cette disposition, dans la mesure où elles s'appliquent à l'année en question, sont ainsi rédigées :
+(5.1) Lorsqu'une personne ou une société de personnes (appelée « contribuable » au présent paragraphe) a disposé d'un bien amortissable quelconque d'une catégorie prescrite qui lui appartenait en faveur d'un bénéficiaire du transfert qui était :
+a) soit une société qui, immédiatement après la disposition, était contrôlée directement ou indirectement, de quelque manière que ce soit, par le contribuable, [...]
+et que la juste valeur marchande du bien, au moment de la disposition, est inférieure à la fois au coût du bien pour le contribuable et au montant (appelé le « montant proportionnel » au présent paragraphe) qui représente la partie de la fraction non amortie du coût en capital pour le contribuable, de tous les biens de cette catégorie, immédiatement avant la disposition, représentée par le rapport entre la juste valeur marchande du bien au moment de la disposition et la juste valeur marchande de tous les biens de cette catégorie au moment de la disposition, les règles suivantes s'appliquent :
+[...]
+e) le moins élevé du coût du bien pour le contribuable ou du montant proportionnel à l'égard du bien est réputé être le produit que le contribuable a tiré de la disposition du bien et le coût du bien pour le bénéficiaire du transfert[2];
+[...]
+[37]Par conséquent, le résultat global de la nouvelle répartition des produits provenant de la vente des biens amortissables était d'augmenter la récupération de 664 593 $, montant qui a été ajouté au revenu de l'appelante pour son année d'imposition qui se termine le 30 juin 1992.
+[38]Le 28 février 1996, avant que le ministre établisse la nouvelle cotisation en question, l'appelante prétend avoir exercé un choix conformément au paragraphe 1103(1) du Règlement en vue d'inclure tous ses biens amortissables dans la catégorie 1, à compter du début de son année d'imposition qui se termine le 30 juin 1992[3]. Le paragraphe 1103(1) est ainsi rédigé :
+Le contribuable peut choisir d'inclure dans la catégorie 1 de l'annexe II les biens autrement compris dans l'une des catégories 2 à 10, 11 et 12 de l'annexe II qu'il a acquis en vue de tirer un revenu d'une même entreprise.
+[39]Ce choix aurait éliminé la récupération supplémentaire en faisant en sorte que toutes les FNACC des biens amortissables de l'appelante soient regroupées dans une catégorie, desquelles les produits de la disposition reçus par l'appelante aurait été déduits.
+[40]Toutefois, le ministre n'a pas accepté ce choix parce qu'il n'a pas été exercé au plus tard le dernier jour auquel l'appelante pouvait produire sa déclaration de revenus pour l'année, conformément au paragraphe 1103(3) du Règlement, lequel est ainsi rédigé :
+Pour s'appliquer à une année d'imposition, un choix en vertu du présent article doit être exercé au plus tard le dernier jour auquel le contribuable peut produire sa déclaration de revenu pour l'année d'imposition aux termes de l'article 150 de la Loi.
+[41]En novembre 1996, à la suite de l'établissement de la nouvelle cotisation, l'appelante a produit une déclaration de revenus modifiée pour l'année d'imposition en question, laquelle traitait ses biens amortissables comme ayant été tous transférés à la catégorie 1, comme si le choix exercé en vertu du paragraphe 1103(1) du Règlement avait été exercé à temps. Le ministre n'a pris aucune mesure à l'égard de la déclaration de revenus modifiée.
+Position de l'appelante
+[42]L'avocat de l'appelante a soutenu que l'alinéa 85(5.1)e) de la Loi ne s'applique pas aux circonstances de l'espèce parce que Terminal Norcan n'était pas contrôlée par l'appelante immédiatement après qu'elle a acquis les biens de l'appelante. Il soutient que la vente des actifs à Terminal Norcan a eu lieu en même temps que le transfert des actions de Terminal Norcan à GPN le 19 octobre 1992. Il a déclaré que l'opération dans laquelle Norco-Calex Group a disposé de ses entreprises de gros [TRADUCTION] « doit être traitée comme ayant été effectuée à un moment donné dont chaque élément dépend de l'autre élément et qu'aucune partie de l'opération n'a été effectuée avant que toutes les parties de l'opération soient effectuées » , et en outre, cela était l'intention des parties.
+[43]À l'appui de cette position, l'avocat s'est fondé sur ce qui suit :
+(i) le libellé figurant à la page couverture du calendrier des signatures;
+(ii) les témoignages de Me Janice Naymark, de Me David Sohmer et de Jonathan Abracen selon lesquels ils étaient d'avis que le transfert des actifs de Terminal Norcan et la vente des actions de Terminal Norcan aux acquéreurs constituaient tous « un élément » , et que le transfert des actifs de Terminal Norcan a été effectué uniquement pour faire en sorte que les actifs soient transférés aux acquéreurs;
+(iii) le témoignage de Me David Sohmer selon lequel la convention d'achat d'actifs aurait été traitée par l'appelante comme sans effet et que l'acte de transfert et l'hypothèque grevant le bien-fonds du terminal n'auraient pas été enregistrés si le Consortium n'avait pas été en mesure de conclure l'entente.
+[44]L'avocat a également affirmé que le transfert des actifs à Terminal Norcan n'a pas été effectué sur le plan juridique et sans effet jusqu'à ce que l'affidavit de la vente en bloc ayant trait au transfert des actifs à Terminal Norcan soit effectué sous serment par Saul Abracen, que l'acte de fiducie aux fins de l'hypothèque ait été livré au fiduciaire et que l'annexe C de la convention d'achat d'actifs ait été modifiée. Ces mesures n'ont pas été effectuées avant le 19 octobre 1992.
+[45]L'avocat a invoqué la décision de cette Cour rendue dans l'affaire Lloyd v. The Queen, 2002 DTC 1493, pour appuyer la proposition selon laquelle un contribuable, ainsi que le ministre, peut attaquer la validité d'une opération pour indiquer qu'elle est incomplète ou sans effet juridique.
+[46]L'avocat a également mentionné la décision rendue par la Cour d'appel fédérale (CAF) dans l'affaire Paxton c. La Reine[4]. Dans cette affaire, le ministre avait établi une nouvelle cotisation à l'égard du contribuable pour un gain réalisé sur la vente de certaines actions à un tiers. Le contribuable avait allégué qu'avant de signer l'entente visant la vente d'actions à un tiers, il avait conclu un contrat oral visant la vente de ces mêmes actions à ses enfants et il agissait à titre de leur mandataire dans le cadre de la vente au tiers. Le contribuable avait transféré les actions à ses enfants sous réserve de la condition que les enfants les transfèrent au tiers le jour suivant. La Cour a conclu que le prétendu contrat oral entre le contribuable et ses enfants était sans effet parce qu'ils n'avaient pas documenté l'opération de façon convenable. La Cour a conclu en outre que le transfert des actions aux enfants ne constituait pas un transfert aux termes du paragraphe 73(5) de la Loi, puisque le droit d'utilisation ou de jouissance des actions n'a pas été transféré aux enfants.
+[47]Il semble que l'avocat ait établi une analogie entre le transfert des actions aux enfants dans l'affaire Paxton et le transfert des actifs par l'appelante à Terminal Norcan. Selon l'argument de l'avocat, Terminal Norcan n'avait pas le droit d'utilisation ou de jouissance des actifs en raison de la vente imminente par l'appelante des actions de Terminal Norcan au Consortium.
+[48]L'avocat a également soutenu que les obligations figurant dans toutes les ententes conclues entre Norco-Calex Group et le Consortium, qui ont été acquittées les 13 et 19 octobre 1992, constituaient une seule « obligation indivisible » aux termes de l'article 1124 du Code civil du Bas-Canada[5] ( « CCBC » ), lequel était en vigueur à ce moment-là. Ces dispositions étaient ainsi rédigées.
+Art. 1124. L'obligation est indivisible :
+1. Lorsqu'elle a pour objet quelque chose qui par sa nature n'est pas susceptible de division soit matérielle ou intellectuelle;
+2. Lorsque l'objet, quoique divisible de sa nature, ne peut cependant être susceptible de division ou d'exécution par parties, à raison du caractère qui lui est donné par le contrat.
+[49]L'avocat a soutenu qu'en l'espèce, la série entière des opérations avait pour objet de transférer les entreprises de gros appartenant à Norco-Calex Group au Consortium et les parties avaient l'intention que cette obligation soit indivisible. Il a également affirmé qu'en l'absence de l'obligation de vendre les actions de Terminal Norcan au Consortium, l'appelante n'était pas tenue de transférer les actifs à Terminal Norcan et, par conséquent, l'obligation de l'appelante de transférer les actifs à Terminal Norcan était indivisible de l'obligation de transférer les actions de Terminal Norcan. Il a indiqué que puisque les opérations distinctes qui composent cette obligation indivisible ne pouvaient être effectuées séparément, le moment où les opérations distinctes ont été effectuées correspondait au moment de la signature de la dernière entente nécessaire pour s'acquitter de la totalité de l'obligation.
+[50]L'appelante a invoqué la décision rendue par la Cour d'appel du Québec dans l'affaire Provigo Inc. c. 9007-7876 Québec Inc. et al., [2004] J.Q. no 13625 (Q.L.), dans laquelle Provigo Inc. avait conclu un contrat avec 9007-7876 visant l'achat d'un certain nombre de supermarchés et d'une entreprise d'alimentation en gros. En raison de nombreuses circonstances, Provigo a refusé de conclure l'achat des supermarchés. 9007-7876 a intenté une action contre Provigo pour bris de contrat en alléguant que l'obligation de Provigo d'acheter l'entreprise en gros était indivisible de son obligation d'acheter les supermarchés.
+[51]Selon l'interprétation de la Cour du contrat conclu entre Provigo et 9007-7876, l'obligation de Provigo d'acheter Aligro était indivisible de son obligation d'acheter les supermarchés et Provigo n'avait pas l'option de s'acquitter seulement de l'une des parties de l'obligation.
+Argument subsidiaire
+[52]L'avocat de l'appelante a soutenu que même si je conclus que l'appelante contrôlait en fait Terminal Norcan immédiatement après le transfert des actifs, l'appel devrait être accueilli parce que le ministre a commis une erreur lorsqu'il n'a pas accepté la déclaration de revenus modifiée de l'appelante dans laquelle cette dernière a déclaré son revenu en fonction du fait qu'elle avait exercé un choix en vertu du paragraphe 1103(1) du Règlement. L'avocat a cité l'affaire Nassau Walnut Investments Inc. c. La Reine[6], et a indiqué ce qui suit :
+[TRADUCTION]
+[...] au cours des années, la jurisprudence a évolué de sorte que l'on permet aux contribuables de produire des déclarations de revenus modifiées en vue de corriger des erreurs figurant dans les déclarations et les tribunaux ont simplement indiqué que, pourvu qu'il ne s'agisse pas d'une planification fiscale rétroactive et qu'il s'agisse d'une erreur commise de bonne foi, il faut le corriger soit au cours d'une vérification après le délai d'appel ou en produisant une déclaration de revenus modifiée et que l'on a le droit d'en faire ainsi.
+[53]L'avocat a affirmé que le défaut de l'appelante de produire un choix en vertu de l'article 1103 est une erreur commise de bonne foi et, par conséquent, elle a le droit de corriger l'erreur en produisant une déclaration de revenus modifiée avant que l'année d'imposition ne soit prescrite.
+Position de l'intimée
+[54]L'avocate de l'intimée a soutenu que l'appelante tentait de requalifier les opérations en question en fonction de leur effet économique. Selon la décision de la Cour suprême du Canada (C.S.C.) rendue dans l'affaire Shell Canada Ltd. c. Canada[7]:
+[...] notre Cour n'a jamais statué que la réalité économique d'une situation pouvait justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Au contraire, nous avons décidé qu'en l'absence d'une disposition expresse contraire de la Loi ou d'une conclusion selon laquelle l'opération en cause est un trompe-l'oeil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale. Une nouvelle qualification n'est possible que lorsque la désignation de l'opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables [...]
+[55]L'avocate de l'intimée a indiqué que chacune des opérations, surtout celle par laquelle l'appelante a transféré des actifs à Terminal Norcan, doivent être données leur effet juridique et, par conséquent, Terminal Norcan était contrôlée par l'appelante immédiatement après la vente.
+[56]En ce qui concerne la question de savoir si l'appelante a le droit de produire une déclaration de revenus modifiée, l'avocate a indiqué que le délai de l'appelante pour produire un choix en vertu du paragraphe 1103(1) était prescrit et que la Loi ne prévoit aucune disposition de production tardive d'un choix.
+[57]L'avocate a également indiqué que les diverses ententes en l'espèce étaient distinctes, dont chacune entraîne des obligations distinctes. La convention d'achat d'actifs a entraîné une obligation complète en soi, de même que la convention d'achat d'actions. De plus, ces ententes n'indiquaient pas que les obligations étaient interdépendantes et, par conséquent, le concept de l'indivisibilité ne s'appliquait pas.
+Analyse
+[58]La première question à trancher est celle de savoir si l'appelante contrôlait Terminal Norcan immédiatement après qu'elle a disposé de ses actifs en faveur de Terminal Norcan, au sens de l'alinéa 85(5.1)e) de la Loi de l'impôt sur le revenu.
+[59]Cette disposition s'applique lorsque l'auteur du transfert contrôle le bénéficiaire du transfert directement ou indirectement de quelque façon que ce soit immédiatement après le transfert du bien. En l'espèce, le ministre supposait que l'appelante, en vertu de sa possession de toutes les actions de Terminal Norcan, avait le contrôle de droit de Terminal Norcan pendant la période pertinente.
+[60]Pour les motifs indiqués ci-dessous, je conclus que l'appelante possédait toutes les actions de Terminal Norcan et, par conséquent, contrôlait Terminal Norcan immédiatement après le transfert des actifs.
+Intention des parties
+[61]En premier lieu, je n'accepte pas l'argument de l'appelante selon lequel l'appelante, Terminal Norcan et GPN avaient toutes l'intention de transférer les actifs simultanément au transfert des actions. Cet argument est principalement fondé sur le libellé de la page couverture du calendrier des signatures qui indique que toutes les opérations étaient réputées être interdépendantes et qu'aucune opération n'était réputée être effectuée jusqu'à ce que toutes les opérations soient effectuées.
+[62]Je n'accepte pas que ce libellé ait l'effet proposé par l'avocat de l'appelante, c'est-à-dire, que toutes les opérations effectuées entre le 13 et le 19 octobre 1992 ont été effectuées simultanément à la date à laquelle la dernière opération a été effectuée. Aucun des contrats signés indiqués dans le cahier des documents des signatures n'adopte expressément le libellé de la page couverture ou n'indique par ailleurs que les obligations qu'il prévoit sont conditionnelles à la conclusion de tous ces contrats. En fait, la convention d'achat d'actifs elle-même indique ce qui suit au paragraphe 18 :
+[TRADUCTION]
+Convention unique
+18. La présente convention constitue la seule convention entre les parties aux présentes en ce qui concerne le présent sujet et a préséance sur toute autre négociation et ententes.
+[63]De plus, l'interprétation du libellé par l'avocat de l'appelante est incompatible avec la prépondérance des éléments de preuve qui indiquent que les parties avaient l'intention que le transfert des actifs soit effectué avant la vente des actions.
+[64] Il n'est pas contesté que les actifs du terminal ont été transférés à Terminal Norcan pour deux raisons, à savoir pour permettre au Consortium d'éviter le paiement du droit de mutation et de faciliter la tâche visant à obtenir les permis nécessaires pour Terminal avant son acquisition.
+[65]Le plan visant à éviter le paiement du droit de mutation était dépendant sur le fait que Terminal Norcan était une filiale de l'appelante au moment où les actifs étaient transférés. Dans l'acte de transfert, l'appelante et Terminal Norcan déclarent ce qui suit :
+[TRADUCTION]
+L'acquéreur [Terminal Norcan] est une filiale du vendeur [l'appelante] et profite, en conséquence, de l'exemption du paiement des droits de transfert en application de l'alinéa 19d) de la [Loi autorisant les municipalités à percevoir un droit sur les mutations immobilières[8]].
+[66]L'acte de vente prévoyait également que le droit de mutation qui aurait par ailleurs été exigible, si Terminal Norcan n'était pas une filiale de l'appelante, s'élevait à 101 423 $.
+[67]Selon le témoignage de Me David Sohmer, le droit de mutation était une considération secondaire au fait que Terminal Norcan appartient à l'appelante. Toutefois, il reconnaît qu'il était bien connu à ce moment-là qu'un acquéreur pourrait éviter de payer le droit de mutation si le bien était d'abord vendu à une filiale du vendeur et que les actions de la filiale étaient par la suite vendues à une partie n'ayant aucun lien de dépendance.
+[68]Il semble également que le transfert des permis d'exploitation repose sur le fait que Terminal Norcan soit une filiale de l'appelante après le transfert des actifs, puisque les parties croyaient qu'elles pourraient plus facilement obtenir des nouveaux permis ou transférer les permis existants, si le nouveau propriétaire du terminal était une filiale de l'appelante.
+[69]En outre, la convention d'achat des actions contenait une représentation selon laquelle Terminal Norcan possédait les actifs. Le paragraphe 4.06 de la convention était ainsi rédigé en partie :
+[TRADUCTION]
+[Terminal Norcan] possède et a le titre valable et marchand de son engagement, de ses biens et de ses actifs [...] ayant acquis ces engagements, biens et actifs au moyen d'une vente en bloc effectuée par [l'appelante];
+[70]La mention de l'expression [TRADUCTION] « actifs acquis au moyen d'une vente en bloc » effectuée par l'appelante est évidemment un renvoi aux actifs de terminal transférés en vertu de la convention d'achat d'actifs. Je remarque également que Terminal Norcan, ainsi que l'appelante, était une partie à la convention d'achat d'actions. La représentation confirme que les parties souhaitaient que Terminal Norcan soit déjà le propriétaire des actifs de terminal au moment où les actions ont été transférées à GPN.
+[71]On peut constater d'autres éléments de preuve selon lesquels les parties souhaitaient que le transfert des actifs à Terminal Norcan soit effectué avant la vente des actions de Terminal Norcan à GPN dans la lettre datée du 24 septembre 1992 à l'intention de Me Janice Naymark, l'une des avocats qui représentaient Marcel Bergeron, dans laquelle ils conviennent d'une nouvelle date de clôture des opérations du 2 octobre 1992. La lettre est rédigée ainsi, en partie :
+[TRADUCTION]
+En ce qui concerne le transfert inter-sociétés avant la signature, nous vous confirmons qu'il sera dans l'intérêt de tout le monde si le même pourrait être effectué le 30 septembre.
+[72]Dans le cadre de son témoignage, Me Janice Naymark a confirmé que le « transfert inter-sociétés » en question était le transfert des actifs par l'appelante en faveur de Terminal Norcan et que le transfert devait être effectué deux jours avant les autres opérations. Cela permettrait à l'appelante d'enregistrer sa garantie de 1 000 000 $ à titre d'une obligation à l'égard de Terminal Norcan, avant de céder le contrôle de Terminal Norcan.
+[73]Bien que la signature ait été retardée, la signature de la convention d'achat d'actifs et l'enregistrement de l'acte de transfert et de l'hypothèque ont en fait eu lieu avant la signature de la convention de vente d'actions conclue entre l'appelante et GPN le 19 octobre 1992.
+[74]L'enregistrement de l'acte de transfert a entraîné le transfert du titre des actifs du terminal en faveur de Terminal Norcan le 16 octobre 1992. À mon avis, il n'y a aucun doute que Terminal Norcan a également acquis la propriété effective des actifs à ce moment-là. Tel que cela a été indiqué ci-dessus, le 19 octobre 1992, Terminal Norcan et l'appelante font remarquer dans la convention d'achat d'actions que Terminal Norcan avait la propriété effective et en common law des actifs. Le fait que Terminal Norcan n'a pas fait l'objet d'une cotisation à l'égard du revenu provenant de l'utilisation des actifs entre le 16 et le 19 octobre 1992 n'est pas important à la détermination des conséquences juridiques des ententes conclues entre l'appelante et Terminal Norcan. Les conséquences fiscales appropriées de ces arrangements à l'égard de Terminal Norcan ne sont pas en question en l'espèce.
+Opération incomplète
+[75]Bien que j'accepte qu'une partie puisse attaquer la validité d'une opération sur le fondement qu'elle est sans effet sur le plan juridique ou est incomplète, je n'accepte pas l'argument de l'appelante selon lequel la convention d'achat d'actifs est demeuré incomplète jusqu'au 19 octobre 1992.
+[76]Rien dans les dispositions du CCBC ayant trait à la vente en bloc qui étaient en vigueur à ce moment-là fait en sorte que le transfert des actifs soit sans effet si l'on n'obtenait pas un affidavit de la vente en bloc[9]. En outre, rien dans les éléments de preuve présentés ne m'amène à conclure que l'appelante et Terminal Norcan souhaitaient que l'affidavit soit livré avant le transfert afin de faire en sorte que le transfert ait ses effets. La convention ne prévoit pas le moment de la livraison de l'affidavit[10], et je déduirais du fait que Terminal Norcan a payé le prix d'achat à l'appelante et du fait que le transfert a été enregistré avant la réception de l'affidavit, que les parties n'avaient pas l'intention que le transfert des actifs soit conditionnel sur la fourniture de l'affidavit par l'appelante.
+[77]De plus, il n'y a aucun élément de preuve qui indique que l'appelante et Terminal Norcan avaient l'intention que le transfert des actifs soit conditionnel sur la livraison de l'acte de fiducie au fiduciaire.
+[78]En dernier lieu, en l'absence de tout élément de preuve contraire, je conclus que la modification de l'annexe C de la convention d'achat d'actifs n'a pas modifié la date d'entrée en vigueur de la convention. Le fait que la convention a été modifiée ne signifie pas qu'elle était incomplète avant que la modification ne lui soit apportée.
+[79]En ce qui concerne la prétention de l'appelante selon laquelle la vente imminente[11] des actions de Terminal Norcan à GPN a empêché le transfert de la propriété effective des actifs à Terminal Norcan le 16 octobre 1992, je ne vois pas comment la vente prévue des actions de Terminal Norcan aurait pu avoir une incidence sur le transfert de l'utilisation et de la jouissance des actifs à Terminal Norcan. Contrairement à la situation dans l'affaire Paxton, les actifs en l'espèce n'étaient pas assujettis à une entente préexistante selon laquelle ils devaient être vendus à un tiers et, par conséquent, cet argument n'est pas fondé.
+Obligation indivisible
+[80]Je rejette également l'argument de l'appelante selon lequel toutes les ententes en vertu desquelles Norco-Calex Group a transféré les entreprises de gros au Consortium ont créé une obligation indivisible au sens de l'article 1124 du CCBC.
+[81] En premier lieu, il semble impossible, sur le plan conceptuel, d'avoir une obligation indivisible créée au moyen de contrats distincts conclus entre différentes parties. Dans l'affaire Provigo, l'achat du supermarché et l'achat de l'entreprise en gros d'alimentation étaient deux éléments d'un seul contrat conclu entre Provigo et 9007-7876. Dans cette affaire, il s'agissait de savoir si les deux obligations prévues dans le même contrat pouvaient être séparées. Cette affaire se distingue du fait que les obligations qui ont été jugées indivisibles devaient toutes être effectuées par Provigo en faveur de la même partie.
+[82] Le concept de l'indivisibilité s'applique aux obligations prévues dans un contrat et ne peut être étendu à des obligations découlant d'un nombre ou d'une série de contrats conclus entre diverses parties. Le simple fait que les obligations sont indiquées dans différents contrats établit de façon concluante que les parties ne considèrent pas ces obligations comme indivisibles.
+Conclusion quant à la première question
+[83] Il est évident que l'appelante n'avait pas l'intention de retenir la propriété des actions de Terminal Norcan plus longtemps qu'il était nécessaire pour permettre au Consortium d'obtenir les permis d'exploitation nécessaires et pour éviter le paiement du droit de mutation. Il est également évident que l'appelante n'a tiré aucun avantage du transfert des actifs à Terminal Norcan. Toutefois, l'appelante a convenu de structurer les opérations de cette façon afin de s'adapter au Consortium, et les contrats en découlant qui ont été conclus ont créé des relations et des obligations juridiques qui doivent être respectées[12].
+[84] Dans l'arrêt Friedberg c. La Reine, la Cour d'appel fédérale a indiqué ce qui suit :
+En droit fiscal, la forme a de l'importance. [...] Lorsqu'un contribuable prend certaines dispositions formelles à l'égard de ses affaires, il peut s'ensuivre d'importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d'éviter des impôts (voir La Reine c. Irving Oil, 91 DTC 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés[13].
+[85] Pour tous les motifs qui précèdent, je conclus que l'appelante a disposé des actifs en faveur de Terminal Norcan le 16 octobre 1992, avant que l'appelante effectue le transfert des actions de Terminal Norcan à GPN. Par conséquent, le ministre a appliqué correctement l'alinéa 85(5.1)e) de la Loi au calcul du revenu de l'appelante.
+Argument subsidiaire
+[86] J'examine maintenant le deuxième argument de l'appelante selon lequel elle avait le droit de produire une déclaration de revenus modifiée qui intègre un choix exercé en vertu du paragraphe 1103(1) du Règlement.
+[87] Cet argument ne saurait être retenu non plus.
+[88] Bien que l'appelante ait représenté cette question en termes de savoir si elle a le droit de modifier sa déclaration de revenus de 1992, en réalité, elle demande de produire tardivement un choix en vertu du paragraphe 1103(1). La « correction » que l'appelante prétend avoir effectuée dans sa déclaration de revenus modifiée consiste à calculer de nouveau son revenu en fonction de ses biens amortissables inclus dans la catégorie 1, ce qui ne serait le cas que si l'appelante avait produit un choix valide en vertu du paragraphe 1103(1). Par conséquent, afin d'accepter l'argument de l'appelante selon lequel elle avait le droit de produire une déclaration de revenus modifiée, je dois nécessairement déterminer si l'appelante avait le droit de produire tardivement un choix.
+[89] La décision rendue par la Cour d'appel fédérale dans l'affaire Nassau Walnut Investments Inc. c. La Reine[14] n'aide pas l'appelante. Dans cette affaire, la Cour a conclu que le contribuable pouvait produire tardivement une désignation de revenu sauf même si l'alinéa 55(5)f) de la Loi exigeait que le contribuable fasse la désignation au moment où il a produit sa déclaration de revenus pour l'année et rien dans la Loi permettait expressément la production tardive d'une désignation. Toutefois, dans cette affaire, la Cour a fait une distinction entre les désignations et les choix exercés en vertu de la Loi. Au nom de la Cour, le juge d'appel Robertson a énoncé ce qui suit au paragraphe 31 :
+Pour faire la distinction avec une désignation, et à titre de proposition générale, disons que, lorsqu'un choix doit être fait, le contribuable doit décider de renoncer à une option en faveur d'une autre en évaluant les conséquences fiscales susceptibles de se produire advenant la concrétisation de certaines éventualités. Outre cette différence, la Loi reconnaît implicitement qu'une désignation et un choix ne sont pas une seule et même chose.
+[90] La Cour a indiqué par la suite que dans les affaires qui comportent une demande de production tardive d'un choix, les tribunaux ont conclu qu'en l'absence d'une disposition expresse au contraire, un contribuable ne peut le faire[15].
+[91] Tel que cela a été noté par l'avocate de l'intimée, ni la Loi ni le Règlement ne prévoient une disposition qui permette à un contribuable de produire tardivement un choix en vertu de paragraphe 1103(1)[16]. En l'absence d'une telle disposition, il faut présumer que le législateur n'avait pas l'intention de conférer ce droit à un contribuable.
+Conclusion quant à l'argument subsidiaire
+[92] Pour les motifs qui précèdent, l'appelante n'a pas le droit de produire tardivement un choix en vertu du paragraphe 1103(1), et sa déclaration de revenus modifiée est donc invalide.
+Conclusion
+[93] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+B. Paris
+________________________
+Juge Paris
+RÉFÉRENCE :
+2006TCC139
+No DU DOSSIER DE LA COUR :
+2002-3588(IT)G
+INTITULÉ DE LA CAUSE :
+Terminal Norco Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Les 1, 2 et 3 mars 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 2 mai 2006
+COMPARUTIONS :
+Pour l'appelante :
+Me Aaron Rodgers
+Pour l'intimée :
+Me Marie Bélanger
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Aaron Rodgers
+Étude :
+Spiegel Sohmer
+Montréal (Québec)
+Pour l'intimé(e) :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Au paragraphe 2 et aux annexes A et B de la convention d'achat d'actifs.
+[2] Le paragraphe 85(5.1) a été abrogé à l'égard des dispositions de biens qui ont été effectuées après le 26 avril 1995.
+[3] Bien que le paragraphe 1103(1) ne s'applique qu'aux biens dans les catégories de 2 à 12 de l'annexe II, l'appelante a demandé d'inclure tous ses biens amortissables dans la catégorie 1 en vertu d'un choix, même les biens dans les catégories 17 et 38. Ce point n'a pas été traité au cours du procès et, compte tenu de ma conclusion relative à cette question, il n'est pas important.
+[4] C.A.F., no A-513-94, 12 décembre 1996 (97 D.T.C. 5012), demande d'autorisation de pourvoi devant la C.S.C. refusée, [1997] S.C.C.A. no 82.
+[5] 2001, ch. 24.
+[6] [1997] 2 C.F. 279 (97 DTC 5051) (C.A.F.).
+[7] [1999] 3 R.C.S. 622 à la page 641.
+[8] Au moment du transfert, l'alinéa 19d) de la Loi autorisant les municipalités à percevoir un droit sur les mutations immobilières R.S.Q. 1977 c. M-39 (tel qu'elle a été modifiée) était ainsi rédigé :
+19. Il y a exonération du paiement du droit de mutation dans les cas suivants, pourvu qu'il soit fait mention à l'acte de transfert du fait que :
+[...]
+(d) le cessionnaire est la corporation-mère du cédant, une filiale du cédant ou une filiale d'une corporation qui est elle-même une filiale du cédant.
+[9] Les articles 1569a à 1569e du Code civil du Bas-Canada, précité. L'économie de la loi portant sur la vente en bloc exigeait qu'un vendeur d'une partie ou de la totalité de son entreprise fournisse à l'acquéreur un affidavit qui indique toutes les revendications de ses créanciers. L'acquéreur était par la suite tenu d'aviser les créanciers au sujet de la vente et de payer le prix de vente à un tiers qui agit à la fois pour le compte du vendeur et de l'acquéreur en ce qui concerne le paiement aux créanciers jusqu'à concurrence de leurs revendications. Si l'acquéreur n'obtenait pas un affidavit de la vente en bloc, il pourrait être tenu responsable auprès des créanciers du vendeur jusqu'à concurrence de la valeur des biens qui ont été acquis. Par conséquent, il était dans l'intérêt de l'acquéreur d'obtenir l'affidavit. Toutefois, rien dans la loi ne faisait en sorte que le transfert des actifs soit sans effet si un affidavit de la vente en bloc n'était pas obtenu.
+[10] Voir le paragraphe 8 de la convention d'achat d'actifs.
+[11] Bien que la vente soit imminente, aucune entente exécutoire visant le transfert des actions n'a été conclue entre l'appelante et GPN avant le 19 octobre 1992. L'appelante et le Consortium avaient convenu que la lettre d'intention qui prévoyait la vente des actions n'était pas exécutoire pour ni l'une ni l'autre des parties.
+[12] Shell Canada Ltd. c. Canada, précité à la page 641.
+[13] C.A.F. no A-65-89, 5 décembre 1991 (92 DTC 6031) , confirmé par [1993] 4 R.C.S. 285 à la page 6032.
+[14] Précité à la note de bas de page no 6.
+[15]Voir les décisions suivantes : Miller v. the Queen, 93 DTC 5035, Loewen v. Minister of National Revenue, 93 DTC 5109 (C.F. 1re inst.), W. Struan Robertson v. The Queen, 97 DTC 449 (C.C.I.); The Queen v. Adelman, 93 DTC 5376 (C.F. 1re inst.). Financial Collection Agencies (Quebec) Inc. v. Minister of National Revenue, 90 DTC 1040 (C.C.I.), Taylor v. Minister of National Revenue, 90 DTC 1917 (C.C.I.), Stuart Estate v. The Queen, 2003 DTC 329 (C.C.I.).
+[16] Toutefois, le paragraphe 220(3.1) confère au ministre une discrétion d'accepter des choix produits tardivement dans le cadre de la série de dispositions d'équité de la Loi.

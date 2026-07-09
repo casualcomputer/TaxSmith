@@ -1,0 +1,161 @@
+Title: Sauvé v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27268/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-528-27268-sauv-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-10-17
+
+# Sauvé v. The Queen
+
+- Citation: 2006 CCI 528
+- Decision date: 2006-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 809, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sauvé v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-17
+Référence neutre
+2006 CCI 528
+Numéro de dossier
+2003-3609(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3609(IT)I
+ENTRE :
+ANTHONY D. SAUVÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 mai et le 8 septembre 2006 à Montréal (Québec).
+Devant : L’honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate de l’appelant :
+Me Isabelle Therrien
+Avocat de l’intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour d’octobre 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 19e jour de novembre 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI528
+Date : 20061017
+Dossier : 2003-3609(IT)I
+ENTRE :
+ANTHONY D. SAUVÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] La Cour est saisie d’un appel visant l’année d’imposition 2001. Il y a trois questions en litige qui concernent le calcul du revenu d’emploi de l’appelant :
+1) Est‑ce que la somme de 22 000 $ payée au titre d’un loyer de bureau est déductible en application du sous‑alinéa 8(1)i)(ii) de la Loi de l’impôt sur le revenu (la « Loi »)?
+2) Est‑ce que la somme de 35 000 $ payée au titre du salaire d’un adjoint est déductible en application du sous‑alinéa 8(1)i)(ii) de la Loi?
+3) Est‑ce que les dépenses de 1 297 $ engagées pour l’accès à Internet sont déductibles en application du sous‑alinéa 8(1)i)(iii) de la Loi?
+[2] Les dispositions susmentionnées sont ainsi rédigées :
+8(1) Éléments déductibles – Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+i) Cotisations et autres dépenses liées à l’exercice des fonctions – dans la mesure où il n’a pas été remboursé et n’a pas le droit d’être remboursé à cet égard, les sommes payées par le contribuable au cours de l’année au titre :
+[...]
+(ii) du loyer de bureau ou du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+(iii) du coût des fournitures qui ont été consommées directement dans l’accomplissement des fonctions de la charge ou de l’emploi et que le contrat d’emploi du cadre ou de l’employé l’obligeait à fournir et à payer,
+[...]
+[3] Le paragraphe 8(10) de la Loi est ainsi libellé :
+(10) Attestation de l’employeur – Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous‑alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[4] L’alinéa 8(1)f) de la Loi est rédigé en ces termes :
+f) Dépenses de vendeurs [travaillant à commission] – lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous‑alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous‑alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+[...]
+[5] En ce qui concerne l’alinéa (8)(1)f) de la Loi, les déductions admises dans le calcul du revenu d’emploi de l’appelant dépassent le total des commissions ou autres rétributions semblables (nous le verrons dans le paragraphe suivant des présents motifs), et, donc, cette disposition ne peut plus s’appliquer en l’espèce. Seul l’alinéa 8(1)i) de la Loi peut maintenant être pris en compte dans l’analyse de la présente affaire.
+[6] Marc‑André Paquin, l’agent des appels chargé du dossier de l’appelant, a expliqué qu’à l’étape de la première vérification la déduction de dépenses totalisant 19 440 $ a été admise dans le calcul du revenu d’emploi de l’appelant. Ce montant dépassait de 7 000 $ les commissions que celui‑ci avait touchées. Le montant de ces commissions se chiffrait à 11 255,88 $ et celui des primes à 388,47 $, ces sommes totalisant 11 644,35 $ selon la pièce I‑4. Les montants déduits peuvent être ventilés ainsi : frais de stationnement, 1 750 $; coût de fournitures de bureau, 4 609 $; frais pour un bureau à domicile, 231 $; dépenses relatives à une voiture, 11 067 $; frais de repas, 1 783 $.
+[7] M. Paquin a produit en preuve l’offre d’emploi (pièce I‑1) de IBM Canada qui a été acceptée par l’appelant. Elle est datée du 11 décembre 2000. Une partie de la déclaration de revenu de l’appelant pour l’année 2001 a été déposée sous la cote I‑2. M. Paquin a expliqué que deux montants importants dont l’appelant avait demandé la déduction, qui avait été refusée par l’Agence des douanes et du revenu du Canada (l’« ADRC »), sont en litige : une somme de 22 000 $ payée au titre du loyer d’un bureau situé à Norwood, en Ontario, bien que le lieu de travail de l’appelant fût situé à Montréal, et une autre somme de 35 000 $ payée au titre du salaire d’un adjoint.
+[8] Une autre somme semble être en cause selon l’avis d’appel, mais, à l’audience, aucune preuve, qu’elle soit orale ou documentaire, n’a été déposée pour permettre de savoir en quoi elle est litigieuse. Cette somme de 1 297 $ aurait été payée pour acquitter des frais d’accès à Internet. Il y a lieu de souligner que la déduction de dépenses de 4 609 $ a été admise au titre du coût de fournitures de bureau à l’étape de la première vérification fiscale, et, comme aucun élément de preuve n’a été déposé par l’appelant à l’audience, je ne m’attarderai pas plus longuement sur cette somme.
+[9] Relativement au bureau de Norwood, l’agent des appels a expliqué qu’il avait examiné le formulaire T2200 intitulé « Déclaration des conditions de travail » (pièce I‑3) produit par l’appelant avec sa déclaration de revenu.
+[10] Sur ce formulaire figurent des réponses affirmatives aux trois parties de la question 9a) et une réponse négative à la question 9b) :
+a) Avez‑vous exigé que cet employé, selon son contrat :
+• loue un bureau hors de votre établissement ou utilise une partie de son domicile?
+• embauche un adjoint ou un remplaçant?
+• achète les fournitures qu’il utilise directement dans l’accomplissement des fonctions de son emploi?
+b) Avez‑vous remboursé ou rembourserez‑vous à cet employé une des dépenses au point 9a)?
+[11] Sur la ligne réservée à la signature figurent les mots : [traduction] « Pour Tim Ross ».
+[12] Après avoir reçu ce formulaire, l’ADRC a envoyé un questionnaire daté du 8 mai 2002 à M. Ross. Le questionnaire (pièce I‑4) a été rempli aux bureaux de IBM Canada et signé par Tim Ross. Les réponses données dans celui‑ci ont été modifiées le 31 octobre 2002 pour clarifier certains points (pièce I‑5). La version modifiée a elle aussi été signée par M. Ross.
+[13] Il convient de signaler, entre autres, que les réponses données dans le questionnaire que je viens de mentionner contredisaient celles qui figuraient dans le formulaire produit par l’appelant avec sa déclaration de revenu. De plus, selon le témoignage de Tim Ross, ce premier formulaire n’avait été ni rempli ni signé par l’employeur.
+[14] M. Paquin a affirmé que l’appelant travaillait à Montréal. La déduction de certaines dépenses a été admise relativement à de l’espace pour un bureau dans la résidence de l’appelant à Montréal. Aucune déduction n’a été admise au titre du bureau situé à Norwood, en Ontario. Selon les réponses modifiées indiquées dans le questionnaire de l’ADRC, l’employeur n’exigeait pas de l’appelant qu’il ait un bureau à la maison à partir du 20 mars 2001.
+[15] Quant au salaire de 35 000 $ pour un adjoint, M. Paquin a affirmé que le contrat d’emploi doit énoncer que l’embauche d’un adjoint est exigée par l’employeur. Le contrat d’emploi de l’appelant ne contient aucune mention au sujet d’un adjoint, et les réponses données dans le questionnaire de l’ADRC n’ont pas confirmé l’existence d’une telle obligation.
+[16] M. Sauvé a témoigné que, le 11 décembre 2000, il avait accepté une offre d’emploi dans laquelle IBM Canada lui proposait un poste permanent de consultant au sein du groupe ERP‑SAP du Québec sous la direction de Claudio Corelli. Le salaire annuel de M. Sauvé était de 125 000 $.
+[17] M. Sauvé a insisté sur le fait qu’il avait été embauché par Claudio Corelli et non pas M. Ross, et que c’était avec M. Corelli qu’il avait débattu les conditions d’emploi. M. Ross est devenu le superviseur de l’appelant le 19 mars 2001. Selon l’appelant, ce dernier ne savait rien de ses conditions d’emploi.
+[18] L’appelant a affirmé que M. Corelli lui aurait conseillé d’engager un adjoint et d’aménager un bureau à la maison. D’après l’appelant, il s’agissait d’un accord verbal complémentaire à l’offre d’emploi signée, qui n’énonce pas toutes les conditions d’emploi.
+[19] L’appelant a prétendu avoir mentionné à M. Corelli qu’il avait deux bureaux et qu’il avait besoin d’un adjoint. L’appelant a allégué que bon nombre de ses homologues employaient leurs épouses comme adjointes. Il a déposé en preuve sous la cote A‑2 les factures de son adjointe.
+[20] Au départ, c’est‑à-dire, du 1er janvier 2001 au 19 mars 2001, il n’y avait aucun espace libre pour l’aménagement d’un bureau à l’intention de l’appelant au lieu d’affaires de l’employeur situé à Montréal. Après que ses fonctions ont changé, un bureau a été mis à sa disposition pour la période allant du 20 mars 2001 jusqu’à la fin de cette année‑là.
+[21] L’appelant a affirmé qu’il avait besoin de deux bureaux, un à son domicile situé à Montréal et un autre au domicile de ses parents, qui se trouve à Norwood, en Ontario. Il a aussi déclaré qu’il lui était nécessaire de retenir les services d’une adjointe, qui était sa conjointe et qui, bien qu’elle ait résidé à Montréal, aurait travaillé au bureau de Norwood. Le travail effectué par l’adjointe aurait consisté à aider à la préparation d’exposés à l’intention des clients.
+[22] L’appelant a aussi allégué qu’il avait loué le bureau de Norwood avant sa mutation à IBM et qu’il s’était engagé à payer le loyer. Il a déposé en preuve sous la cote A‑1 le contrat de location daté du 3 janvier 2001 conclu par lui et ses parents. Un chèque officiel daté du 30 novembre 2001 est joint au document.
+[23] Il a ajouté que la Déclaration des conditions de travail (pièce I‑3) qui avait été imprimée était tirée des documents de l’ADRC qui étaient mis à la disposition du public. Il pensait que le formulaire n’avait pas été signé par M. Ross, mais pour le compte de celui‑ci.
+[24] Tim Ross a témoigné. Il est un associé de IBM au sein de la section d’experts‑conseils en affaires. Il travaille pour IBM depuis vingt ans. En 2001, il dirigeait l’équipe chargée des services SAP pour le Canada. SAP est un logiciel de commerce. M. Ross a affirmé que l’appelant avait été embauché dans l’équipe dont il avait la charge. L’appelant a travaillé initialement sous la supervision d’un des gestionnaires de M. Ross, puis ce dernier est devenu son superviseur immédiat.
+[25] M. Ross a expliqué qu’au départ l’appelant avait été embauché à titre de gestionnaire de projet. Au début, l’objectif de IBM était de charger M. Sauvé d’un projet dans le cadre duquel il travaillerait directement avec le client et de facturer ses services.
+[26] Lorsque M. Sauvé a commencé à travailler sous la supervision de M. Ross après le 19 mars 2001, c’était dans le domaine du développement des marchés. Les entreprises cherchent des moyens d’optimiser la gestion des finances, de l’approvisionnement ou de la production, et le logiciel SAP est un outil qui peut leur permettre de le faire.
+[27] M. Ross a déclaré que les fonctions de l’appelant ne comportaient pas de responsabilités en matière de gestion. Le territoire assigné à l’appelant était la province de Québec, et il était quelquefois tenu de se rendre à Ottawa, à Toronto et au Labrador. L’appelant a demandé le remboursement des dépenses pour tous les déplacements qu’il a faits dans l’exercice de ses fonctions.
+[28] Le formulaire T2200 (pièce I‑3) produit par l’appelant avec sa déclaration de revenu n’avait pas été rempli aux bureaux de IBM Canada ni signé par M. Ross. La signature qui y a été apposée n’est pas la sienne. Les questionnaires (pièces I‑4 et I‑5) avaient, eux, été remplis aux bureaux de IBM Canada, et ils étaient signés par M. Ross.
+[29] Les critères pris en compte dans le calcul des commissions touchées par l’appelant sont ainsi décrits par M. Ross aux pages 59 et 60 de la transcription :
+[traduction]
+R. À ce moment‑là, il y avait plusieurs facteurs. Un de ceux‑là était le rendement des affaires en général, dans notre secteur de l’entreprise, donc l’équipe chargée des services SAP. Un autre facteur était le rendement de IBM, et la troisième composante aurait été le rendement personnel de M. Sauvé.
+[30] M. Ross a affirmé que, à partir du 20 mars 2001, l’appelant n’était pas tenu, aux termes de son contrat d’emploi, d’avoir un bureau ailleurs qu’à son lieu de travail. IBM n’a jamais exigé de l’appelant qu’il loue de l’espace pour un bureau à Norwood, qui est à quatre heures de voiture de Montréal.
+[31] M. Ross a aussi déclaré que M. Sauvé n’était pas tenu d’embaucher un adjoint : [traduction] « Je suis gestionnaire à IBM depuis plusieurs années, et on ne s’attend pas à ce que nos employés doivent embaucher leur propre personnel pour pouvoir réaliser leur travail à IBM. Ils ont déjà les compétences requises pour s’acquitter de leurs tâches et ils les mettent à contribution, sinon, du personnel de soutien de IBM est mis à leur disposition pour les aider à accomplir leur travail » (page 65 de la transcription).
+Analyse et conclusion
+[32] Je vais citer les propos que M. le juge Joyal a tenus dans la décision Canada c. Gilling (C.F.P.I.), [1990] A.C.F. nº 284 (QL), 90 DTC 6274, à la page 6278 :
+Dans les deux causes citées, la Cour d’appel a également reconnu qu’il n’est pas nécessaire que soit clairement énoncée dans un contrat de travail l’obligation explicite pour un employé d’acquitter ses propres dépenses ou d’exercer des fonctions ailleurs qu’au lieu de l’entreprise habituel. Après examen des antécédents de la relation et de toutes les circonstances générales, il se peut qu’un tribunal fasse appel au bon sens et conclue que ce sont en l’occurrence les conditions implicites qui s’appliquent.
+[33] Ce principe semble se dégager de la jurisprudence (voir la décision Schnurr c. Canada, [2004] A.C.I. nº 565 (QL)). L’obligation d’un employé de louer un bureau ou d’embaucher un adjoint peut être considérée comme une clause implicite du contrat d’emploi si les circonstances de celui‑ci étayent l’existence de cette obligation. La relation contractuelle intervenant entre l’employeur et l’employé doit être examinée, de même que la nécessité et l’utilité de louer un bureau et d’embaucher un adjoint.
+[34] Il ressort de la preuve que le formulaire T2200 (pièce I‑3) portant sur les conditions d’emploi n’avait été ni rempli ni signé par l’employeur, contrairement aux apparences. Ce formulaire a été joint à la déclaration de revenu de l’appelant pour l’année 2001. Il s’agit d’un fait qui mine la crédibilité de ce dernier.
+[35] Lorsqu’il a commencé à exercer son emploi, l’appelant n’avait pas de bureau dans les locaux de IBM. Bien qu’il fût censé travailler dans les locaux des clients de cette société, il est acquis aux débats que l’appelant avait peut‑être besoin d’espace pour un bureau à cette époque. Le ministre a admis la déduction des dépenses que l’appelant avait engagées relativement au bureau situé dans son établissement domestique autonome à Montréal pendant la période du 1er janvier 2001 au 19 mars 2001.
+[36] Aucune preuve n’a été fournie pour expliquer quelle était l’utilité d’un bureau situé à quatre heures de voiture du lieu de travail de l’appelant et à l’extérieur du territoire qui lui était confié. M. Corelli, la première personne avec qui l’appelant dit avoir discuté des conditions de son emploi, n’a pas été appelé à témoigner. M. Ross, qui était le superviseur de l’appelant à partir du 19 mars 2001, n’était certainement pas d’accord pour dire qu’il existait une telle obligation.
+[37] La déduction d’une dépense de 22 000 $ qui aurait été engagée pour la location d’un second bureau se trouvant dans la maison des parents de l’appelant, qui est à quatre heures de voiture de Montréal, ville où était situé son lieu de travail, et qui est à l’extérieur du territoire dont il était chargé dans le cadre des fonctions de son emploi, semble pour le moins manifestement déraisonnable. Ce deuxième bureau ne peut pas avoir raisonnablement été exigé par l’employeur, et, effectivement, il n’était pas exigé que l’appelant ait un tel bureau pour exercer ses fonctions. Cette déduction ne peut donc pas être admise.
+[38] La preuve a également révélé que les conditions d’emploi de l’appelant ne l’obligeaient pas explicitement à embaucher un adjoint. Est‑ce qu’elles l’obligeaient implicitement à le faire? Lorsqu’il est question de conditions de travail implicites, il faut examiner l’affaire de plus près. L’aide fournie à l’appelant se rapportait à l’établissement de propositions pour les clients. Le témoignage de M. Ross à cet égard était qu’un employé doit avoir les compétences requises pour accomplir son travail, mais qu’au besoin il peut obtenir de l’aide de cette sorte auprès du personnel de la société. Cette déposition contredit totalement l’affirmation de l’appelant voulant qu’il eût besoin d’avoir un adjoint. Il n’y avait pas non plus d’éléments de preuve qui pouvaient donner à penser qu’un adjoint est ordinairement requis dans l’exercice normal de fonctions d’emploi semblables. De plus, il semble que le montant du salaire payé par l’appelant était nettement disproportionné par rapport aux services fournis et à son propre salaire.
+[39] L’appelant n’a donc pas le droit de déduire 35 000 $ au titre du salaire qu’il prétend avoir payé à un adjoint.
+[40] L’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 17e jour d’octobre 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 19e jour de novembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI528
+Nº DU DOSSIER DE LA COUR : 2003-3609(IT)I
+INTITULÉ : Anthony D. Sauvé c. La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 2 mai et 8 septembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 17 octobre 2006
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Isabelle Therrien
+Avocat de l’intimée :
+Me Simon Petit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Isabelle Therrien
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

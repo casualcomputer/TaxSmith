@@ -1,0 +1,110 @@
+Title: Maass-Howard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31004/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-307-31004-maass-howard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-10-25
+
+# Maass-Howard c. La Reine
+
+- Citation: 2012 CCI 307
+- Decision date: 2012-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4886, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maass-Howard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-25
+Référence neutre
+2012 CCI 307
+Numéro de dossier
+2011-1578(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1578(IT)G
+ENTRE :
+DEBORAH MAASS-HOWARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 20 août 2012, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelante :
+L'appelante elle‑même
+Avocate de l'intimée :
+Me Valerie Messore
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2009 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2012.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 15e jour de janvier 2013.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 307
+Date : 20121025
+Dossier : 2011-1578(IT)G
+ENTRE :
+DEBORAH MAASS-HOWARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] L'appelante, Deborah Maass‑Howard, interjette appel d'une cotisation établie relativement à son année d'imposition 2009.
+[2] La question en litige est de savoir si c'est à tort que le ministre du Revenu national (le « ministre ») a inclus dans le revenu de l'appelante pour son année d'imposition 2009 le montant de 105 000 $ que l'appelante avait retiré de son régime enregistré d'épargne‑retraite (le « REÉR »).
+[3] Au début de l'audience, l'avocate de l'intimée a accepté certaines allégations de fait de l'appelante. L'intimée a admis que l'appelante avait retiré les fonds de son REÉR pour payer des frais relatifs à une opération au dos pratiquée à l'étranger. L'intimée reconnaît qu'il s'agissait là de la seule source d'argent dont disposait l'appelante pour payer les frais de l'opération. L'intimée a également admis, pour les besoins de l'audience, que le système de santé canadien n'avait été d'aucun secours pour l'appelante, étant donné que celle‑ci n'avait pas pu trouver de chirurgien qualifié pour pratiquer l'opération au Québec, où elle résidait.
+[4] Malgré les faits admis par l'intimée, il importe de s'attarder davantage aux circonstances qui ont amené l'appelante à décider de retirer des fonds de son REÉR, parce qu'elles illustrent les difficultés que l'appelante a éprouvées.
+[5] Il ressort de la preuve que l'appelante souffrait d'une hernie discale en 2006. Elle a consulté un certain nombre de médecins pour obtenir un traitement pour son dos. Après une série de consultations infructueuses, l'appelante a été dirigée vers une clinique antidouleur, où les médecins lui ont prescrit des analgésiques. Le neurochirurgien et le chirurgien orthopédiste qui ont examiné l'état de santé de l'appelante ont tous les deux conclu qu'il n'y avait pas lieu de l'opérer. L'état de santé de l'appelante s'est rapidement détérioré par suite de hernies touchant deux autres disques. L'appelante souffrait de perte de mobilité et de douleurs chroniques. Incapable de trouver un traitement adéquat au Canada, l'appelante s'est tournée vers un ancien chirurgien canadien réputé qui exerçait en Suisse. Le but de cette démarche était d'obtenir un deuxième avis sur la question de savoir s'il serait bénéfique pour l'appelante de subir une fusion lombaire et un remplacement discal.
+[6] Le médecin suisse, qui a confirmé qu'il serait bénéfique pour l'appelante de subir une opération, a communiqué avec un ancien collègue qui pratiquait la chirurgie du dos au Québec, dans l'espoir qu'il arriverait à le convaincre de pratiquer l'opération. Pour des raisons que la Cour ignore, ce médecin a refusé, ne laissant à l'appelante d'autre choix que d'être opérée en Suisse à ses propres frais.
+[7] Avant de retirer les fonds de son REÉR, l'appelante a demandé un prêt hypothécaire sur sa résidence. La maison avait une valeur nette positive, mais la banque a refusé la demande d'hypothèque. L'appelante et son père, un banquier à la retraite, ont communiqué avec l'institution financière qui administrait le REÉR autogéré de l'appelante afin de se renseigner sur les possibilités dont disposait l'appelante pour retirer des fonds de son REÉR avec report d'impôt, mais on lui a répondu que cela ne pouvait pas se faire.
+[8] Une demande semblable a été faite par téléphone à l'Agence du revenu du Canada (l'« ARC »). Encore une fois, la réponse a été négative. L'appelante a également consulté les publications de l'ARC sur les REÉR autogérés, mais elle n'a trouvé aucune mention d'un dispositif qui lui aurait permis de retirer les fonds avec report d'impôt. En fait, elle n'a rien trouvé à ce sujet.
+[9] Bien plus tard, après que les fonds avaient été retirés, l'appelante a découvert qu'elle aurait pu retirer de son REÉR autogéré les fonds dont elle avait besoin en tant que prêt hypothécaire. L'appelante affirme qu'elle aurait fait ce choix si elle avait su qu'il s'offrait à elle. La Cour n'a aucun motif de ne pas la croire.
+[10] Il est évident qu'en vertu de l'alinéa 56(1)h) et du paragraphe 146(1) de la Loi de l'impôt sur le revenu (la « Loi »), l'appelante est tenue d'inclure les fonds qu'elle a retirés de son REÉR dans le calcul de son revenu pour l'année d'imposition 2009. En fait, le comptable de l'appelante a bel et bien déclaré le montant reçu à titre de revenu dans la déclaration de revenus de l'appelante pour 2009 pour tenir compte du fait qu'il s'agissait d'un montant imposable. Il est également sans équivoque que le montant qui doit être inclus devrait également comprendre l'impôt retenu à la source par l'administrateur du régime.
+[11] L'appelante a demandé à la Cour d'examiner la question de savoir si un allégement peut être obtenu en vertu de l'alinéa 60(1)l) de la Loi.
+[12] L'appelante souligne qu'en vertu de cette disposition, le ministre peut accorder une déduction pour des montants versés à un REÉR au cours d'une période plus longue que la période de 60 jours suivant la fin de l'année pour laquelle le contribuable demande une déduction, si le ministre estime la période acceptable. La disposition est très complexe. Malheureusement, l'appelante n'a pas droit à l'allégement prévu par cette disposition. Celle‑ci permet, dans certaines circonstances limitées, un report libre d'impôt de montants reçus par une personne et provenant, par exemple, du REÉR d'un conjoint décédé, à condition que les fonds soient transférés à un REÉR établi par le contribuable dans le délai prescrit. La disposition n'autorise pas la déduction du montant que l'appelante retire de son propre REÉR en supposant qu'il serait versé de nouveau plus tard avec le consentement du ministre.
+[13] L'appelante demande à la Cour de lui accorder un allégement fiscal pour des motifs d'équité. Elle a retiré les fonds pour payer des services médicaux qui auraient dû être couverts par le régime des soins de santé du Canada. En agissant de la sorte, l'appelante a épargné aux contribuables canadiens le coût de son traitement, qui était supérieur à l'impôt exigible sur la somme retirée de son REÉR.
+[14] Il est bien établi que les tribunaux n'ont pas le pouvoir de faire des exceptions à l'application de la loi pour des motifs d'équité ou de difficultés excessives. Je ne puis annuler une cotisation si elle a été établie conformément à la loi. La loi m'oblige à rejeter l'appel, bien que ce soit à contrecoeur que je décide ainsi, compte tenu de la situation particulière de l'appelante.
+[15] J'ai également examiné la question de savoir si l'appelante avait reçu un allégement fiscal complet pour les frais médicaux qu'elle avait payés. Je conclus, compte tenu des éléments de preuve présentés à l'audience, qu'elle a obtenu un tel allégement.
+[16] L'appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2012.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 15e jour de janvier 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 307
+No DU DOSSIER DE LA COUR : 2011-1578(IT)G
+INTITULÉ : Deborah Maass‑Howard c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 20 août 2012
+MOTIFS DU JUGEMENT : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 25 octobre 2012
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle‑même
+Avocate de l'intimée :
+Me Valerie Messore
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

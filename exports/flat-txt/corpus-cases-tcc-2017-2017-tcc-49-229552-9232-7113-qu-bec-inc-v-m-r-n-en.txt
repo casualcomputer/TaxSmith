@@ -1,0 +1,255 @@
+Title: 9232-7113 Québec inc. v. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/229552/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-49-229552-9232-7113-qu-bec-inc-v-m-r-n-en.md
+Document type: case_law
+Last modified: 2017-03-28
+
+# 9232-7113 Québec inc. v. M.R.N.
+
+- Citation: 2017 TCC 49
+- Decision date: 2017-03-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2291, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9232-7113 Québec inc. v. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-28
+Neutral citation
+2017 TCC 49
+File numbers
+2015-4349(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2015-4349(EI)
+BETWEEN:
+9232-7113 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NICK KARAMITSOS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 6, 2016, and continued on October 25, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Hubert Martin Cap-Dorcelly
+Counsel for the respondent:
+Amélia Fink
+For the intervener:
+The intervener himself
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue that Mr. Karamitsos held insurable employment with the appellant under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, and that Mr. Karamitsos had accumulated 808 hours in insurable employment under section 9.1 of the Employment Insurance Regulations during the period from September 15, 2013, to February 20, 2014, is allowed on the basis that Mr. Karamitsos did not hold insurable employment with the appellant during that period.
+Signed at Québec, Quebec, this 28th day of March 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 49
+Date: 20170328
+Docket: 2015-4349(EI)
+BETWEEN:
+9232-7113 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+NICK KARAMITSOS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a decision of the Minister of National Revenue that Mr. Karamitsos held insurable employment with the appellant under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23 (the Act), and that Mr. Karamitsos had accumulated 808 hours in insurable employment under section 9.1 of the Employment Insurance Regulations, SOR/96-332 (the Regulations), during the period from September 15, 2013, to February 20, 2014 (the period at issue). Although the Reply to the Notice of Appeal indicates that the period at issue is from September 16, 2013, to February 20, 2014, the parties hereto acknowledged and accepted that the period at issue for present purposes is from September 15, 2013, to February 20, 2014.
+Background to the employment insurance file and the complaint to the Commission des normes du travail
+[2] Following a claim for employment insurance benefits filed by Nick Karamitsos (Mr. Karatmitsos), Service Canada asked the Canada Revenue Agency (CRA) to make a decision on the issue of whether the worker had held insurable employment with the appellant and, if so, what was the number of hours worked in insurable employment during the period at issue.
+[3] In a letter dated April 24, 2015, the CRA informed Service Canada, Mr. Karamitsos and the appellant of its decision, namely, that Mr. Karamitsos had no contract of employment with the appellant and, accordingly, did not hold insurable employment during the period at issue.
+[4] In a letter dated May 4, 2015, Mr. Karamitsos appealed Service Canada’s decision to the respondent.
+[5] In a letter dated June 16, 2015, the respondent informed Service Canada, Mr. Karamitsos and the appellant of his decision, namely, that Mr. Karamitsos’s employment with the appellant was insurable because the requirements for a contract of service had been met and Mr. Karamitsos had accumulated 808 hours in insurable employment during the period at issue.
+[6] In addition to his employment insurance claim, Mr. Karamitsos filed a monetary claim complaint with the Commission des normes du travail on March 18, 2014. In that complaint, Mr. Karamitsos claimed the total amount of $5,296.61 from the appellant, namely, (i) $3,824 for unpaid salary at the rate of $16 per hour for 36 hours per week over 20 weeks, plus the 6 hours worked on September 15, 2013, plus the 32 hours worked the weeks of September 30, 2013, and October 13, 2013, and plus the 24 hours worked the week of February 17, 2014 (thus, 808 hours worked in total); (ii) $351.36 for statutory holidays that were not worked and paid; (iii) $576 for failure to give notice of termination; and (iv) $545.25 for annual leave and vacation (4%). It should be specified here that the total amount of remuneration for the hours worked was $13,024, but that only $9,200 had been paid, hence the difference of $3,824 claimed.
+[7] The Commission des normes du travail investigated and instituted legal proceedings against the appellant claiming the amount of $5,296.91 from it.
+[8] An out-of-court settlement was reached on October 23, 2014, and the appellant paid the Commission des normes du travail the total amount of $1,500, by two cheques, $750 each, dated November 1 and 15, 2014, respectively. In the recitals of the leaving slip transaction concluded as part of the out-of-court settlement, the appellant denied owing any amount at all to Mr. Karamitsos and denied that he had been one of its employees.
+[9] The Commission des normes du travail and the appellant released each other, and Mr. Karamitsos and the appellant did the same with respect to the facts stated in the Court of Québec file opposing the Commission des normes du travail and the appellant.
+Assumptions of fact
+[10] To make his decision, the respondent based himself on the following assumptions of fact set out in paragraph 6 of the Reply to the Notice of Appeal:
+[translation]
+(a) the appellant is an incorporated identity that operates a restaurant, which offers a take-out service (the restaurant);
+(b) the restaurant operates under the name “Village Santé Gourmet”;
+(c) Mr. Karamitsos was hired by the appellant under a verbal contract concluded in the province of Quebec;
+(d) Mr. Karamitsos provided his services to the appellant starting on September 15, 2013;
+(e) Mr. Karamitsos worked for the appellant as a cook;
+(f) Mr. Karamitsos’s tasks for the appellant included:
+(i) making the menus;
+(ii) preparing soups and sandwiches;
+(iii) ordering ingredients or food;
+(iv) making suggestions regarding how the restaurant is operated.
+(g) during the period at issue, Mr. Karamitsos provided his services in the appellant’s restaurant for the following number of hours per week and in total:
+Week ending on
+Number of hours
+Week ending on
+Number of hours
+September 22, 2013
+36
+December 15, 2013
+36
+September 29, 2013
+36
+December 22, 2013
+36
+October 6, 2013
+32
+December 29, 2013
+36
+October 13, 2013
+32
+January 5, 2014
+36
+October 20, 2013
+36
+January 12, 2014
+36
+October 27, 2013
+36
+January 19, 2014
+36
+November 3, 2013
+36
+January 26, 2014
+36
+November 10, 2013
+36
+February 2, 2014
+36
+November 17, 2013
+36
+February 9, 2014
+36
+November 24, 2013
+36
+February 16, 2014
+36
+December 1, 2013
+36
+*February 23, 2014
+24
+December 8, 2013
+36
+Total
+808 hours
+* The last day of work was February 20.
+(h) the appellant paid Mr. Karamitsos for his services on an hourly basis;
+(a) in general, the appellant paid Mr. Karamitsos in cash for the services provided;
+(b) the appellant authorized Mr. Karamitsos to access the restaurant;
+(c) the appellant determined the tasks that Mr. Karamitsos had to do;
+(d) the appellant determined Mr. Karamitsos’s remuneration;
+(e) the appellant determined the ingredients that Mr. Karamitsos could use to prepare the meals; and
+(f) the appellant determined the suppliers from which Mr. Karamitsos could order ingredients and food.
+Summary of the testimony
+Jamaal Mial Tariq
+[11] The first witness was Jamaal Mial Tariq, the spouse of the owner of the appellant and head chef of the Village Santé Gourmet restaurant located in the Galeries Laval mall (the restaurant).
+[12] He explained that the restaurant was the third restaurant where he worked as head chef and that it began its operations on April 2, 2013, after an unspecified period of renovations.
+[13] The restaurant was located in a shopping mall and had seating for 30 to 40 people. The restaurant was a pizzeria offering pasta, salads and hamburgers in addition to pizza.
+[14] The witness had known Mr. Karamitsos for several years while Mr. Karamitsos himself owned a restaurant. He considered Mr. Karamitsos a friend who had experience in the restaurant business. During the renovations at the restaurant, Mr. Karamitsos often came for coffee with him. Mr. Karamitsos made suggestions to him for the menu and sometimes did small services for him like serving food to clients.
+[15] Mr. Tariq testified that Mr. Karamitsos never worked at the restaurant, that he was not an employee of the restaurant and that he had never been paid for his services. He also stated that he had never bought anything from Mr. Karamitsos whose business card indicated that he was a sales representative for Les Aliments Moukas Foods Inc.
+[16] The witness also stated that, like the other employees of the restaurant, Mr. Karamitsos never had the keys to the restaurant and that he had never opened or closed the restaurant.
+Rajkumar Sivaloganathan (Raj)
+[17] Raj began working at the restaurant as a part-time employee at the end of April 2013. He knew how to make pizza. He worked on call from 10 a.m. to 2 p.m. only during the week. He normally worked about 14 to 16 hours every two weeks. He earned $10 per hour and was paid in cash. No pay stub was given to him.
+[18] Raj stated that he had seen Mr. Karamitsos have coffee at the restaurant once every two weeks and he specified that Mr. Karamitsos usually wore a suit. He also said that Mr. Karamitsos never helped him do anything and that he had never seen him preparing food at the restaurant.
+Jessica Capobianco (Jessica)
+[19] Jessica began working at the restaurant on December 23, 2013, as a part‑time hostess and cashier. She worked on call and had no fixed schedule. She normally worked from 2 to 4 or 5 p.m., mostly on Thursdays and Fridays.
+[20] According to her, the spouse of the owner of the appellant and Raj were the restaurant’s cooks. When she was at the restaurant, she saw Mr. Karamitsos two or three times having coffee at the restaurant with the spouse of the owner of the appellant, but she stated that she had never seen Mr. Karamitsos preparing food or delivering goods for the restaurant. She perceived him to be a friend of the spouse of the appellant’s owner.
+[21] According to her, it was the spouse of the owner of the appellant who opened the restaurant in the mornings. He was always on site, while Raj worked part-time. She never had the keys to the restaurant in her possession.
+[22] She was paid in cash and did not receive a pay stub, but was given a T-4 slip.
+Rajaa Chkirate (Rajaa)
+[23] Rajaa is the owner of the appellant. She confirmed that Mr. Karamitsos was considered to be a friend and an advisor and that he came for coffee to the restaurant every time he came to play the races at Kenzo. He came more often during the renovations at the restaurant, and he submitted a proposal to buy the restaurant from a potential buyer.
+[24] She explained that, when her brother’s health deteriorated at the beginning of 2014, she hired Jessica to replace her at the restaurant to enable her to visit her brother in the hospital and to take care of his children.
+[25] She was categorical that Mr. Karamitsos never worked at the restaurant, that she simply did not have the means to pay him $16 per hour as he claims and that there had been no agreement regarding his work at the restaurant.
+[26] She explained that her spouse always opened the restaurant around 9 a.m. and that he remained on site until closing time. From September 2013 to February 2014, the people who worked at the restaurant in addition to herself and her spouse were Raj, Perinda Parminder, who trained Raj in the kitchen, Jessica and certain other people, who worked part-time and on call.
+[27] Despite some contradictions with the information she provided to the Service Canada investigator, which we will see later on, I consider Rajaa’s testimony to be very credible and in line with what she had alleged throughout the review of Mr. Karamitsos’s status.
+Antonio Milo (Mr. Milo)
+[28] Mr. Milo is a manager at the company Les Beaux Gâteaux, which supplied baked goods to the restaurant.
+[29] He explained that clients’ telephone orders were taken by three clerks and that the calls from the restaurant were usually made by Rajaa or her spouse, but that it is possible that orders may have been made by a third person whose name he did not know.
+[30] A statement of the orders made by the appellant and a statement of the amounts billed to the appellant and paid by it for the period from November 27, 2013, to February 17, 2015, were filed in evidence.
+[31] Mr. Milo explained that he visited the restaurant before the restaurant placed its first order for baked goods on November 27, 2013.
+[32] The witness was unable to identify Mr. Karamitsos in the courtroom despite the fact that he claimed to have known Mr. Milo for over 15 years.
+Robert Camplani (Mr. Camplani)
+[33] Mr. Camplani is an inspector-investigator with the Commission des normes du travail, and he was responsible for Mr. Karamitsos’s complaint. He explained the calculations of the amounts claimed from the appellant and the work that he had done in the file.
+[34] He explained that the amount claimed had been established based solely on the verbal information provided by Mr. Karamitsos. According to Mr. Karamitsos, he was paid $16 per hour for his services, that is, $13 paid in cash and $3 retained for income tax.
+[35] He met with Mr. Karamitsos, Rajaa and her spouse and the accountant for Mr. Milo’s business, among others.
+[36] After he noted glaring contradictions between the versions of the owner of the appellant and the appellant’s accountant, he ended his investigation and referred the file to a judge of the Court of Québec to render a judgment. Then, there was mediation and the file was settled out of court.
+Stéphane Nadeau
+[37] The respondent called as witness Stéphane Nadeau, Investigator with Service Canada, who was assigned the appellant’s file and who referred it to the CRA.
+[38] As part of his investigation, he spoke on the telephone with the owner of the appellant and with Mr. Karamitsos, and he interviewed the owner of the appellant, who was very cooperative, at the restaurant.
+[39] Based on the interview report dated March 5, 2015, prepared by the witness, Mr. Karamitsos provided no evidence that he had worked at the restaurant. He never received any pay stubs. He said that he was paid in cash $13 per hour instead of the $16 agreed upon and that he signed a receipt for the business’s accountant to prove that he had been paid. Mr. Karamitsos told him that he did not remember the name of the accountant and that he had never deposited his pay in the bank. Mr. Karamitsos worked as a cook, but he could not name or identify the people he worked with, other than a Jessica and a Jessy, or any of the restaurant’s clients. He had not kept his timesheets and had not received any slips to prepare his taxes.
+[40] In another report on an interview with Mr. Karamitsos, dated March 25, 2015, Mr. Nadeau wrote that Mr. Karamitsos told him that he was penniless, that he had no money to pay his rent, his hydro and for food, that he was ill and had to take medication and that he had been unable to get another job after he had been dismissed from the restaurant. After Mr. Nadeau suggested that he obtain social assistance, he told him that he no longer had a reason to live and that he was considering suicide.
+[41] In his report on the interview with the owner of the appellant taken on March 24, 2015, Mr. Nadeau noted that there had never really been an agreement on Mr. Karamitsos’s work. He was a friend of her spouse who came to the restaurant for coffee with her spouse and to encourage them. They discussed their practices, whether it be the restaurant’s recipes or presentation. According to her, Mr. Karamitsos was never formally hired. She also first denied that he had worked at her restaurant, but then she said that he had worked as an independent contractor apparently on the recommendations of her lawyer and the inspector from the Commission des normes du travail. She did not control his hours and he came when he pleased. He had no fixed schedule and she had no control of his hours. She did not know the number of hours that Mr. Karamitsos worked per week.
+[42] During the same interview, the owner of the appellant explained that she had made an out-of-court settlement with the Commission des normes du travail to close the file. The Labour Standards Officer had allegedly indicated to her that he had the mandate of defending the interests of potentially aggrieved employees and that, since she agreed to have Mr. Karamitsos on the premises of her restaurant, namely, in the kitchen to show how to make the food, the Commission des normes du travail considered that he had worked for her.
+[43] Finally, the owner of the appellant indicated that she did not have the means to pay a $16 hourly wage to Mr. Karamitsos.
+Stephen Thibault
+[44] Mr. Thibault, a complex case officer and resource person for the CRA, testified at the hearing to file in evidence the data extracted from Mr. Karamitsos’s tax returns and from the T-4 and T-4A slips filed by the appellant.
+[45] For the 2013 taxation year, Mr. Karamitsos reported a net income of $0 and for the 2014 taxation year, he declared a total income of $1.
+[46] For the 2013 taxation year, the appellant produced two employment slips (T‑4) showing that it had paid out a total of $10,799 in employment income. For the 2014 taxation year, it produced five employment slips (T-4) showing that it paid out a total of $17,400. The names of the employees to whom those slips were issued for the 2013 and 2014 taxation years were filed in evidence, and Mr. Karamitsos’s name does not appear there. For the 2013 and 2014 taxation years, the appellant did not issue any T-4A slips for independent contractors.
+[47] According to Mr. Thibault, Mr. Karamitsos did not report the income of $1,500 that the Commission des normes du travail paid him by cheque dated December 18, 2014.
+Nick Karamitsos
+[48] Mr. Karamitsos testified at the hearing. He explained that he had worked as a cook at the restaurant and that, when he was at the restaurant, he managed the kitchen by himself because the spouse of the owner of the appellant was never at the restaurant during the day.
+[49] He specified that the spouse of the owner of the appellant bought the food while he placed the baked goods orders with the supplier Les Beaux Gâteaux.
+[50] Regarding his hours of work, he said that he worked seven hours per day, but was paid for only six hours per day. He alleged that he worked from 9 a.m. to 4 p.m. for six weeks and seven days per week for 17 weeks despite his health problems. He stated that he had been the only worker to work full-time, while all the other employees worked part-time.
+[51] Mr. Karamitsos stated that the spouse of the owner of the appellant agreed to pay him $16 per hour and that he gave him $400 as a partial payment every Saturday. The witness indicated that he had not reported the weeks paid by the appellant in his income tax returns for the 2013 and 2014 taxation years because he had not received T-4 slips.
+The issues
+[52] The issue here is to determine whether Mr. Karamitsos indeed worked at the restaurant as an employee and, if so, to determine the number of hours worked in insurable employment during the period at issue.
+Analysis
+[53] Determining the issues is based essentially on the analysis of the facts and the credibility of witnesses.
+[54] Based on the evidence on the record, there is nothing to prove that Mr. Karamitsos actually held employment at the restaurant during the period at issue.
+[55] Neither of the two employees who worked part-time saw him working in the restaurant’s kitchen. The representative of the restaurant’s baked goods supplier was unable to identify Mr. Karamitsos in the courtroom and to confirm that Mr. Karamitsos placed orders on behalf of the restaurant, while Mr. Karamitsos claimed to have known him for 15 years. Mr. Karamitsos was unable to provide the names of employees who worked at the restaurant at the same time as he.
+[56] Mr. Karamitsos’s allegations are based on only his own testimony, which is not credible. Mr. Karamitsos did not file in evidence any record of the hours that he had worked at the restaurant or any document concerning the amounts he allegedly received from the appellant as partial payment for the hours worked. He received no T-4 slip, while it was common practice for the appellant to issue such slips to its other employees, who were also paid in cash. In addition, the owner of the appellant always said during the investigations conducted by Service Canada and the Commission des normes du travail that she was unable to pay a $16 hourly wage to an employee of the restaurant. All other employees of the restaurant were paid minimum wage or $10 per hour.
+[57] The evidence also shows many inconsistencies with respect to the number of hours Mr. Karamitsos supposedly worked at the restaurant. Mr. Karamitsos alleged that he worked fulltime at the restaurant and that he worked seven days per week for 17 weeks without missing a single day despite his health problems and his other family obligations. According to him, he was at the restaurant every day at 9 a.m. even though he did not have the key to the restaurant. I do not believe his testimony to the effect that he was the only employee to work full-time at the restaurant and that the spouse of the owner of the appellant was never at the restaurant during the day.
+[58] The amounts claimed by the Commission des normes du travail were based solely on the information provided by Mr. Karamitsos to the Commission’s investigator with respect to the hours worked. His normal work week was allegedly 36 hours per week, namely six hours per day over six days. According to Mr. Karamitsos, he worked from 9 a.m. to 4 p.m., that is, 7 hours per day, but was only paid for 6 hours per day because the lunch hour was unpaid.
+[59] The respondent did not accept Mr. Karamitsos’s allegations regarding the hours worked because he had reported several times that he worked at the restaurant from 9 a.m. to 3 p.m. That is the case, for example, in his response to a Service Canada questionnaire and in his Notice of Appeal, where he stated that he worked six hours per day, not seven hours per day.
+[60] Mr. Karamitsos’s credibility is also undermined by the fact that he did not report the amounts supposedly received from the appellant for the hours worked at the restaurant and the amount of $1,500 obtained from the Commission des normes du travail in December 2014 in his tax returns for the 2013 and 2014 taxation years.
+[61] If Mr. Karamitsos had worked all the hours he indicated to the Commission des normes du travail, I do not believe that he would have agreed to receive only $1,500 out of the $5,296.61 claimed.
+[62] There were some contradictions in the explanations provided by the owner of the appellant to the Service Canada investigator. For example, in the interview report dated March 24, 2015, she indicated that Mr. Karamitsos was never formally hired and that it was for that reason that she had at first denied that he had worked at her restaurant and that she later said that he worked as an independent contractor. In her view, he was rather an advisor to help the restaurant improve its situation. Despite that statement by the owner of the appellant, the Service Canada investigator still concluded that Mr. Karamitsos did not have a contract of service with the appellant and that his employment was not insurable.
+[63] In my view, that statement by the owner of the appellant seems to correspond to the position that she had adopted in the file before the Commission des normes du travail to reach an out-of-court settlement. The reality is rather found in the document entitled [translation] “Leaving Slip Transaction”, signed as part of the out-of-court settlement of the proceedings of the Commission des normes du travail, in which it is categorically denied that Mr. Karamitsos was an employee of the appellant and that the appellant owed him any amount of money.
+[64] For all of these reasons, the appeal is allowed on the basis that Mr. Karamitsos did not hold insurable employment with the appellant during the period at issue, namely, from September 15, 2013, to February 20, 2014.
+Signed at Québec, Quebec, this 28th day of March 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 49
+COURT FILE NO:
+2015-4349(EI)
+STYLE OF CAUSE:
+9232-7113 Québec Inc. and M.N.R. and Nick Karamitsos
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+October 6 and 25, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+March 28, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Hubert Martin Cap-Dorcelly
+Counsel for the Respondent:
+Amélia Fink
+For the Intervener:
+The intervener himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Hubert Martin Cap-Dorcelly
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

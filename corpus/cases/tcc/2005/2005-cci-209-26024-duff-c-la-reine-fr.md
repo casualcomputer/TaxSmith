@@ -1,0 +1,135 @@
+---
+title: "Duff c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26024/index.do"
+last_modified: "2005-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 209"
+citation2: ""
+neutral_citation: "2005 CCI 209"
+decision_date: "2005-03-29"
+language: "fr"
+item_id: "26024"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4084
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:04:34.040000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1219820781e1337b5a50c567c80c87dce265fb250167501896c75b87e38c44e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duff c. La Reine
+
+- Citation: 2005 CCI 209
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4084, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-29
+Référence neutre
+2005 CCI 209
+Numéro de dossier
+2004-272(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI209
+Date : 20050329
+Dossier : 2004-272(IT)I
+ENTRE :
+BARRY DUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Pour l'appelant : l'appelant lui-même
+Avocat de l'intimée : Me John-Paul Hargrove
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Edmonton (Alberta) le 7 juin 2004.)
+Le juge Miller
+[1] La Cour est saisie d'un appel interjeté sous le régime de la procédure informelle dans le cadre duquel M. Barry Duff cherche à obtenir un crédit d'impôt pour emploi à l'étranger (le « CIEE » ) que l'Agence du revenu du Canada (l' « ARC » ) lui a refusé, pour l'année d'imposition 2000. Il s'agit d'une situation malheureuse où un particulier a fait, en Bosnie, des travaux de soutien pour le gouvernement fédéral après avoir été informé par son employeur qu'il aurait droit à un allégement fiscal, allégement auquel il n'a pas droit en fin de compte.
+[2] M. Duff a accepté un poste auprès de la société ATCO Frontec, et ses fonctions étaient de fournir du soutien logistique aux soldats canadiens en Bosnie en 2000 et en 2001. M. Duff avait déjà travaillé dans le domaine militaire et était donc un très bon candidat pour le poste. Selon M. Duff, le gouvernement fédéral déployait des soldats en Bosnie conformément à son engagement envers l'OTAN. Parmi ses tâches, M. Duff devait veiller à ce que les fournitures reçues au camp canadien principal se rendent aux autres camps canadiens en Bosnie. Il a témoigné que le contrat qu'il a conclu avec la société ATCO Frontec prévoyait qu'il recevrait une rémunération de 50 000 $ par an et que ce montant serait exonéré d'impôt. Lorsqu'il a reçu sa première paie, M. Duff s'est tout de suite rendu compte que de l'impôt avait été retenu, ce qui a été confirmé au moment où il a produit sa déclaration de revenus pour 2000. Sa femme a communiqué avec l'ARC, qui lui a répondu qu'elle pouvait faire une demande de rajustement d'une T1. Les Duff ont fait cette demande et, en septembre 2001, l'ARC leur a accordé le CIEE pour l'année d'imposition 2000.
+[3] En 2001, la société ATCO Frontec a dit à M. Duff qu'elle était en négociation avec l'ARC en vue d'obtenir une dérogation générale. Elle a échoué, car deux ans plus tard, en septembre 2003, une nouvelle cotisation a été établie à l'égard de M. Duff dans laquelle le CIEE accordé pour 2000 lui a été refusé et des intérêts de presque 2 000 $ lui ont été réclamés. C'est à l'égard de cette nouvelle cotisation que M. Duff interjette appel.
+[4] C'est le paragraphe 122.3(1) qui traite du CIEE. Je ne vais pas lire le paragraphe en entier, mais je vais en lire certaines parties :
+122.3 (1) Lorsqu'un particulier réside au Canada au cours d'une année d'imposition et que, tout au long d'une période de plus de six mois consécutifs [...] :
+a) d'une part, il a été employé par une personne qui était un employeur déterminé [...];
+b) d'autre part, il a exercé la totalité, ou presque, des fonctions de son emploi à l'étranger :
+(i) dans le cadre d'un contrat en vertu duquel l'employeur déterminé exploitait une entreprise à l'étranger se rapportant à, selon le cas :
+(A) l'exploration pour la découverte [...] de pétrole [...];
+(B) un projet de construction ou d'installation, ou un projet agricole ou d'ingénierie;
+(C) toute activité visée par règlement [...]
+peut être déduite du montant [...]
+Plus loin, le paragraphe explique comment calculer le crédit. Il est question des activités visées par règlement à l'article 6000 du Règlement de l'impôt sur le revenu, qui prévoit simplement que pour l'application de la disposition que je viens de lire :
+[...] les activités visées sont celles exercées dans le cadre d'un contrat conclu avec l'Organisation des Nations Unies.
+[5] En l'espèce, aucune preuve n'établissait que les activités de M. Duff étaient exercées dans le cadre d'un contrat conclu avec l'ONU. Rien n'établissait non plus que ses fonctions se rapportaient à des projets de construction ou d'installation ou à des projets agricoles ou d'ingénierie. Aucun argument n'a été présenté quant à ce qui pourrait être visé par le mot « installation » , et il ne m'appartient pas de deviner si les activités d'ATCO Frontec rentraient ou non dans la catégorie générale de travaux d'installation. Selon la description de M. Duff, je ne vois pas comment je pourrais conclure que les activités exercées peuvent être considérées comme étant des projets d'installation. Toutefois, mes commentaires ne s'appliquent qu'à la présente affaire.
+[6] Les activités de M. Duff ne lui donnent tout simplement pas droit au CIEE. On pourrait croire que des travaux effectués dans le cadre d'un contrat avec l'OTAN pourraient être considérés comme étant semblables à des travaux effectués dans le cadre d'un contrat avec l'ONU. Toutefois, mon rôle n'est pas de changer la loi. L'article du Règlement est très clair et ne traite que de l'ONU. Je ne peux pas en déduire qu'il vise également l'OTAN. Il ne traite pas de l'OTAN, et je ne peux pas faire une entorse à la loi. Je ne peux pas rédiger les dispositions législatives. Je dois tout simplement faire de mon mieux pour les interpréter. Selon le libellé actuel de la Loi, vous n'avez tout simplement pas droit au crédit.
+[7] Deux choses me préoccupent beaucoup dans la présente affaire : d'abord, il semblerait que M. Duff a été induit en erreur par son employeur. Ses 50 000 $ n'étaient pas exonérés d'impôt. Toutefois, cette question ne concerne ni la Cour ni l'ARC, mais plutôt M. Duff et ATCO Frontec. M. Duff, vous allez devoir penser à ce que vous voulez faire avec cela.
+[8] Ensuite, l'ARC a accordé ce crédit pour deux ans et, après, a établi une nouvelle cotisation dans laquelle elle a refusé le crédit, ce qui, selon moi, est la bonne façon d'interpréter la loi selon les faits qui m'ont été présentés. L'ARC a ensuite demandé à M. Duff de payer des intérêts sur le montant du crédit refusé. La Cour doit statuer sur votre obligation fiscale, soit la question de savoir si vous devez payer de l'impôt ou non. Les intérêts suivent automatiquement, et je n'ai pas compétence pour changer cela. M. Hargrove a mentionné le paragraphe 220(3.1), qui donne au ministre le pouvoir discrétionnaire d'annuler les intérêts. Je ne peux pas obliger le ministre à annuler les intérêts, mais rien ne m'empêche de dire que j'estime qu'il s'agit vraiment d'un cas où ce serait la bonne chose à faire.
+[9] La Canada est bien connu pour son engagement d'aider les pays qui ont été ravagés par la guerre, comme la Bosnie. Il faut absolument avoir des personnes comme M. Duff pour permettre au Canada de respecter son engagement. Je suis certain que, pour M. Duff, le fait d'avoir été traité par son employeur et par le gouvernement, à qui il a fourni des services si importants, d'une telle manière est très frustrant. Je ne peux qu'imaginer comment il se sent, étant donné qu'il n'a absolument rien fait de mal dans cette situation.
+[10] M. Duff, je sais que vous êtes réticent à recommencer à faire des démarches auprès de l'ARC, mais je vous encourage fortement à faire une demande d'annulation des intérêts. ATCO Frontec a pris un engagement qu'elle pensait probablement pouvoir respecter, mais qu'elle n'a malheureusement pas pu respecter. L'ARC a permis la déduction d'un crédit, mais après deux ans, pendant lesquels j'imagine ATCO Frontec et l'ARC ont essayé de régler la question, elle a décidé que les employés d'ATCO Frontec n'y avaient pas droit. Malheureusement, dans ce cas-ci, M. Duff n'était qu'un pion sur l'échiquier.
+[11] Je vous souhaite bonne chance dans vos démarches visant à faire annuler les intérêts, mais je dois malheureusement rejeter votre appel.
+Signé à Ottawa, Canada, ce 29e jour de mars 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 24 septembre 2005.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2005CCI209
+NO DU DOSSIER :
+2004-272(IT)I
+INTITULÉ :
+Barry Duff et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 7 juin 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 28 juin 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me John-Paul Haragrove
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

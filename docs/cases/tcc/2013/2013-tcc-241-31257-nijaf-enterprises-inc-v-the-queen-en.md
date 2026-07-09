@@ -1,0 +1,179 @@
+---
+title: "Nijaf Enterprises Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31257/index.do"
+last_modified: "2013-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 241"
+citation2: ""
+neutral_citation: "2013 TCC 241"
+decision_date: "2013-07-29"
+language: "en"
+item_id: "31257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5099
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:58:41.371000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f830dd1fbaa706ad6cc48a0b95488625406bb51f4b7ab2fb42f5ea62f363d7b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nijaf Enterprises Inc. v. The Queen
+
+- Citation: 2013 TCC 241
+- Decision date: 2013-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5099, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nijaf Enterprises Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-29
+Neutral citation
+2013 TCC 241
+File numbers
+2012-3473(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-3473(GST)I
+BETWEEN:
+NIJAF ENTERPRISES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 17, 2013 at Vancouver, British Columbia
+By: The Honourable Justice Judith M. Woods
+Appearances:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Shankar Kamath
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act by notice dated August 9, 2011 is dismissed.
+Signed at Toronto, Ontario this 29th day of July 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 241
+Date: 20130729
+Docket: 2012-3473(GST)I
+BETWEEN:
+NIJAF ENTERPRISES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Nijaf Enterprises Inc. (Nijaf), purchased nine residential condominium units in a new housing complex on April 17, 2008. Goods and services tax (GST) was payable with respect to the units and Nijaf was also eligible for a partial rebate of the GST pursuant to subsection 256.2(3) of the Excise Tax Act.
+[2] The question in this appeal is whether the Minister of National Revenue correctly assessed Nijaf to deny the rebate on the ground that the rebate application was not submitted within the statutory deadline. The amount of the rebate at issue is $44,728.43.
+[3] The Crown submits that the rebate claim was properly disallowed because Nijaf failed to file the prescribed forms (524 and 525) within the two year deadline set out in s. 256.2(7) of the Act.
+[4] Nijaf submits that it did file one of the prescribed forms within the time limit and that estoppel should apply because Nijaf followed the information provided to it by the Canada Revenue Agency (CRA).
+Assessment history
+[5] Nijaf first claimed the rebate in an annual GST return for 2008 that was filed on March 31, 2009. The rebate was claimed on line 111 in the return as “other credits.” The return states that the rebate form is to be attached, which it was not.
+[6] According to the reply, on September 1, 2009 the Minister assessed Nijaf for the reporting period ending December 31, 2008, so as to assess the net tax that was reported (i.e., GST payable on the condominium units) and to disallow the rebate due to the lack of an application form. This assessment is not at issue in this appeal and there is no indication that Nijaf objected to it.
+[7] After this assessment was issued, Nijaf was contacted by the collections department to pay the outstanding balance owing, which was approximately equal to the disallowed rebate. Nijaf took the position that there should not be any amount owing, and at some point it filed the prescribed forms (524 and 525). The date that these forms were filed with the CRA is in dispute.
+[8] In response to the filing of the prescribed forms, the Minister issued an assessment denying the rebate by notice dated August 9, 2011. It is this assessment that is the subject of this appeal.
+Background
+[9] The statutory provision that provides for the rebate is s. 256.2(3) of the Act, which applies to residential rental accommodation. It is not necessary to reproduce this provision in these reasons.
+[10] The deadline to apply for the rebate, as set out in subparagraph 256.2(7)(a)(iii) of the Act, is two years following the month in which the GST first became payable. The parties agree that the deadline in this case is April 30, 2010.
+[11] Subsection 256.2(7) provides:
+(7) Application for rebate and payment of tax - A rebate shall not be paid to a person under this section unless
+(a) the person files an application for the rebate within two years after
+(i) in the case of a rebate under subsection (5), the end of the month in which the person makes the exempt supply referred to in subparagraph (5)(a)(ii),
+(ii) in the case of a rebate under subsection (6), the end of the month in which the tax referred to in that subsection is deemed to have been paid by the person, and
+(iii) in any other case of a rebate in respect of a residential unit, the end of the month in which tax first becomes payable by the person, or is deemed to have been paid by the person, in respect of the unit or interest in the unit or in respect of the residential complex or addition, or interest therein, in which the unit is situated;
+(b) if the rebate is in respect of a taxable supply received by the person from another person, the person has paid all of the tax payable in respect of that supply; and
+(c) if the rebate is in respect of a taxable supply in respect of which the person is deemed to have collected tax in a reporting period of the person, the person has reported the tax in the person’s return under Division V for the reporting period and has remitted all net tax remittable, if any, as reported in that return.
+(Emphasis added)
+[12] The manner in which a taxpayer applies for the rebate under s. 256.2(3) is set out in subsection 262(1) of the Act. It provides:
+262. (1) Form and filing of [rebate] application - An application for a rebate under this Division (other than section 253) shall be made in prescribed form containing prescribed information and shall be filed with the Minister in prescribed manner.
+[13] The parties agree that the forms that are prescribed in Nijaf’s circumstances are forms 524 (application form) and 525 (form for supplementary information).
+Positions of parties
+[14] The positions of the parties can be briefly summarized.
+[15] Mr. Douvelos, counsel for Nijaf, submits that one of the prescribed forms was sent on April 19, 2010 which is within the two-year limitation period that expired on April 30, 2010. He submits that Nijaf simply filed the forms that the CRA sent to it.
+[16] The Crown submits that Nijaf did not file either of the prescribed forms until after the limitation period had expired. Mr. Kamath, counsel for the Crown, acknowledges that Nijaf did file something on April 19, 2010. He submits, however, that this was not a prescribed form but a copy of the 2008 tax return which makes reference to the rebate. Mr. Kamath submits that the supplementary information form (525) was filed on November 19, 2010 and that the application form (524) was filed on March 3, 2011. Both these filings are beyond the two-year limitation period.
+Discussion
+[17] The central issue in this appeal is whether Nijaf filed either of the prescribed forms by the deadline on April 30, 2010. My conclusion is that it did not.
+[18] Nijaf’s position is based largely on the testimony of Nizar Manji, who is the sole shareholder of Nijaf. He testified that he took care of GST matters for Nijaf, including the rebate filings. In rather vague testimony, he stated that the CRA sent him one of the prescribed forms which he sent back on April 19, 2010. He also stated that he resubmitted the form at the CRA’s request.
+[19] Nijaf submits that this testimony is supported by a cover letter dated April 19, 2010 which is signed by Mr. Manji and addressed to S. Hermuses of the CRA (Ex. A-1, Tab 2, first page). The letter states that the rebate application forms are attached.
+[20] I do not agree that the cover letter supports Mr. Manji’s testimony.
+[21] The problem with Nijaf’s submission is that the address portion of the cover letter contains two dates, November 19, 2010 as well as April 19, 2010. In light of this, it is likely that this particular document was prepared on the later date, November 19, 2010.
+[22] It is not clear why there are two dates in the address portion of the letter. It is possible that the earlier date, April 19, 2010, was a clerical error that arose when the address portion of the letter was copied and pasted from an earlier letter.
+[23] Mr. Manji’s vague testimony as to the dates of the filing of the forms is not sufficient to establish even a prima facie case.
+[24] Other evidence introduced at the hearing strongly suggests that the prescribed forms were sent to the CRA on November 19, 2010 and March 3, 2011, which are both past the deadline of April 30, 2010.
+[25] The Crown introduced into evidence excerpts of a diary prepared by Sharon Hermuses who at the time was a collections officer at the CRA and had carriage of collecting the GST debt owed by Nijaf (Ex. R-3). The relevant diary entries that support the Crown’s version of events are reproduced below.
+19 Apr 2010 - Rec’d call from Nizar Manji re says cannot possibly owe that kind of money. He will look for copy of his return for 2008 and fax to cco.
+19 Apr 2010 - Rec’d working copy of returning [sic] showing 36% rebate on rental property, line 111 for $44,728.43 which was not accepted in the processing of the return as appears he did not send the rebate form with it. Per Business Windows, the form he needs is GST 524. Directed him to the website to complete and fax the form to cco.
+28 April 2010 - Disc w/director how to send in amd’d return with required documentation as cco will be away for 6 wks.
+23 Aug 2010 - GST 524 printed and faxed to director at his request.
+07 Sep 2010 - Nizar Manji called, requires GST 525.
+08 Sep 2010 – faxed GST 525 to Nizar Manji. Once completed debt should be resolved.
+01 Oct 2010 – Rec’d vm from Nizar Manji requesting info in how to fill out forms. CB left business windows tel # with person answering and asked to adv Mr Manji that they can answer his questions.
+01 Nov 2010 – LMTC for Nizar Manji. f/up on GST 525 which should eliminate this debt.
+[26] The Crown also introduced the completed prescribed forms that were sent to the CRA. The facsimile information at the top of the forms supports the Crown’s position.
+[27] The completed application form (form 524) was entered into evidence as Exhibit R-2. The facsimile references at the top of the form suggest that a blank form was sent by the CRA on April 23, 2010 and that Mr. Manji returned a completed form on March 3, 2011.
+[28] The supplementary information form (form 525) was entered into evidence as Exhibit R-1. The facsimile references suggest that the CRA sent a blank form to Mr. Manji on September 8, 2010 and that he returned the completed form on November 19, 2010.
+[29] Lastly, Margaret Chen, the CRA auditor on this file, testified that Mr. Manji told her that he did not know when the forms were filed.
+[30] Based on the evidence as a whole, I have concluded that neither prescribed forms were filed by Nijaf until after the deadline on April 30, 2010. Mr. Manji’s testimony is not supported by the other evidence, and it is lacking in sufficient detail and cogency to be reliable.
+[31] In reaching my conclusion, I have taken the diary notes of Ms. Hermuses into account. Ms. Hermuses was not present to be cross-examined on this document. Nijaf’s counsel did not raise a hearsay objection, but it is relevant to consider whether this document should be admitted, and if so, how much weight should be given to it.
+[32] Mr. Kamath informed the Court that he recently took carriage of this file on behalf of the Crown and it was his understanding that Ms. Hermuses was no longer with the CRA and that she was not able to testify because of illness.
+[33] The applicable principle regarding the admission of hearsay evidence in informal procedure appeals was recently summarized in Madison v The Queen, 2012 FCA 80. The question is whether the document is “sufficiently reliable and probative to justify its admission, taking into account the need for a fair and expeditious hearing” (Madison, at para 14).
+[34] In my view, the relevant parts of the diary notes appear on their face to be reliable. The notes are detailed, and were not made in the context of an audit. In addition, the diary notes are corroborated by the facsimile information on Exhibits R-1 and R-2. The notes should be admitted and given significant weight.
+[35] Based on the evidence as a whole, I find that neither of the relevant prescribed forms was filed with the CRA by the deadline of April 30, 2010.
+[36] Mr. Douvelos also submits that the principle of estoppel should apply because Mr. Manji followed the representations of the CRA. The problem with this submission is that the evidence as a whole does not support that Mr. Manji followed the representations of the CRA.
+[37] This is sufficient to dispose of the submissions made on behalf of Nijaf.
+[38] At the hearing, I asked both counsel to address whether the 2008 tax return that was filed on March 31, 2009 could be considered an application for the rebate for purposes of subsection 256.2(3). Mr. Kamath submitted that the application had to be on the prescribed forms as required by the legislation under subsection 262(1). Mr. Douvelos did not disagree with this.
+[39] Based on a review of the relevant case law, I would conclude that for purposes of an application of a rebate under s. 256.2(3), it is not sufficient to claim a rebate on a line in the tax return. It is necessary that the Minister have sufficient information to properly consider the rebate application, which information is provided in forms 524 and 525 (Systematix Technology Consultants Inc v The Queen, 2007 FCA 226).
+[40] Finally, I would comment that neither party mentioned the potential application of subsection 296(2.1) of the Act. This provision requires the Minister to apply certain rebates against net tax. I have concluded that it is not necessary for me to consider this provision because the assessment of net tax made on September 1, 2009 is not the subject of this appeal. (See Peach Hill Management Ltd v The Queen, [1999] GSTC 11 (TCC), aff’d [2000] GSTC 45 (FCA).)
+[41] In the result, the appeal will be dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 29th day of July 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 241
+COURT FILE NO.: 2012-3473(GST)I
+STYLE OF CAUSE: NIJAF ENTERPRISES INC. and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 17, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: July 29, 2013
+APPEARANCES:
+Counsel for the Appellant:
+George Douvelos
+Counsel for the Respondent:
+Shankar Kamath
+COUNSEL OF RECORD:
+For the Appellant:
+Name: George Douvelos
+Firm: Wiebe Douvelos Wittmann LLP
+Vancouver, British Columbia
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,136 @@
+---
+title: "Fitzgerald v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28218/index.do"
+last_modified: "2007-11-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 665"
+citation2: ""
+neutral_citation: "2007 TCC 665"
+decision_date: "2007-11-09"
+language: "en"
+item_id: "28218"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2065
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:33:48.772000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa33c1daf09d3bd3512e87d22dfb82cddcbe518264f1e4eda4690250a9cae207"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fitzgerald v. M.N.R.
+
+- Citation: 2007 TCC 665
+- Decision date: 2007-11-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2065, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzgerald v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-09
+Neutral citation
+2007 TCC 665
+File numbers
+2007-1477(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2007-1477(EI), 2007-2675(EI)
+BETWEEN:
+BETTY FITZGERALD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on October 30, 2007,
+at St. John's, Newfoundland and Labrador
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Francis Fitzgerald
+Counsel for the Respondent:
+Devon Peavoy
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeals under the Employment Insurance Act ("Act") from the decisions of the Respondent that the employment of the Appellant was not insurable employment within the meaning of section 5 of the Act during the periods from May 29, 2005 to October 29, 2005 and from May 16, 2006 to September 9, 2006 are dismissed.
+Signed at Ottawa, Ontario, this 9th day of November 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC665
+Date: 20071109
+Dockets: 2007-1477(EI), 2007-2675(EI)
+BETWEEN:
+BETTY FITZGERALD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in these appeals is whether the decision of the Respondent that the employment of Betty Fitzgerald by Fitzgerald’s Convenience Limited (“Company”) during the periods from May 29, 2005 to October 29, 2005 and from May 16, 2006 to September 9, 2006 was not insurable employment for purposes of the Employment Insurance Act ("Act") was reasonable.
+[2] Subsection 5(2) of the Act provides in part that:
+Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[3] Subsection 5(3) of the Act provides that:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] In this case the shares of the Company were held equally by Reginald and Mildred Fitzgerald. The Appellant is married to Francis Fitzgerald who is Reginald Fitzgerald’s brother. The Appellant and the Company were therefore related for the purposes of the Income Tax Act as a result of the provisions of paragraph 251(2)(b) of that Act and are deemed to not be dealing with each other at arm’s length under paragraph 251(1)(a) of the Income Tax Act. As a result the issue in this case is whether the decision of the Minister of National Revenue that the Appellant and the Company would not have entered into a substantially similar contract of employment during the periods in question if they would have been dealing with each other at arm’s length, is reasonable.
+[5] In the case of Porter v. M.N.R. 2005 TCC 364, Justice Campbell of this Court reviewed the decisions of this Court and the Federal Court of Appeal in relation to the role of the Tax Court in appeals of this nature. In paragraph 13 of this decision Justice Campbell stated as follows:
+In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[6] The facts in this case are not in dispute. The Company operated a gas bar, convenience store and liquor store. The business is open for approximately 364 days per year and is open for 14 hours each day.
+[7] The Appellant and her husband were living in Toronto when they were approached by Reginald and Mildred Fitzgerald to see if they would return to Newfoundland and Labrador to work in the business. The Appellant stated that her rate of pay was set by Reginald and Mildred Fitzgerald at $16 per hour. She indicated that Reginald and Mildred Fitzgerald were looking for people that they could trust. The Appellant was employed as a cashier/store clerk. She would also look after the automated teller machine (“ATM”) in the business and each night would balance the cash. As part of her duties she would also replenish the stock on the store shelves, pump gas, check the fuel levels in the underground fuel storage tanks and clean the premises. She would also order, price and store merchandise for the store.
+[8] The Company also had other workers who were dealing at arm’s length with the Company and who performed the same duties as the Appellant except that the other workers would not be involved in balancing the cash or attending to the ATM. The other workers were paid $6.75 to $7.75 per hour in one year and $7 to $8 per hour in the other year.
+[9] The main issue in this case relates to the amount that the Appellant was paid in relation to the amounts paid to the other employees who were dealing at arm’s length with the Company. The extra duties that the Appellant performed related mainly to handling the cash for the ATM and balancing the cash at the end of the day. The Appellant stated that she did not have any say in determining the amount that was paid to her but that is not the relevant issue. The relevant issue is whether the decision of the Minister that the Appellant would not have had a substantially similar contract of employment if she would have been dealing with the Company at arm’s length, is reasonable, in light of the facts that were presented.
+[10] The Appellant’s husband testified that he would not have moved back from Toronto if they would have been offered anything less than $16 per hour. However the test is whether they would have reached substantially the same terms and conditions if they would have been dealing at arm’s length; not whether he personally would have agreed to move if the amount would have been less. The Appellant and her husband both emphasized that security of the premises was very important to the owners of the Company. They have now moved into the apartment above the convenience store and as a result their rate of pay has dropped from $16 per hour to $12 per hour. The reduction was in recognition of the fact that they were not paying rent for this apartment. However this did not occur until 2007.
+[11] During the periods under appeal the Appellant testified that they would be looking after the business and the security for the business while the owners were away. However the owners were away for only three weeks in 2005 and only for very brief periods of time in 2006. Their rate of pay did not change during the periods of time the owners were away.
+[12] There was nothing in the facts that were presented that would suggest that the Minister’s decision was unreasonable in determining that the terms and conditions of employment would not have been substantially similar if they would have been dealing at arm’s length. In particular because there were employees who were dealing at arm’s length with the Company and who were performing substantially similar work for significantly less pay without an adequate explanation for the difference in pay, it does not seem that the Minister’s decision was unreasonable.
+[13] As a result, I am unable to conclude that the decision of the Minister was unreasonable and therefore the appeals are dismissed.
+Signed at Ottawa, Ontario, this 9th day of November 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC665
+COURT FILE NOS.: 2007-1477(EI), 2007-2675(EI)
+STYLE OF CAUSE: BETTY FITZGERALD AND M.N.R.
+PLACE OF HEARING: St. John's, Newfoundland and Labrador
+DATE OF HEARING: October 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 9, 2007
+APPEARANCES:
+Agent for the Appellant:
+Francis Fitzgerald
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

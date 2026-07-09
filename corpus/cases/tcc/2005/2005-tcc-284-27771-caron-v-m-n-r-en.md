@@ -1,0 +1,152 @@
+---
+title: "Caron v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27771/index.do"
+last_modified: "2005-05-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 284"
+citation2: ""
+neutral_citation: "2005 TCC 284"
+decision_date: "2005-05-24"
+language: "en"
+item_id: "27771"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 273
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:41:27.517000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58be9f1a04931bbcfde28be783bb9779f0fcdde79e2603a787f71c25285dbb86"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caron v. M.N.R.
+
+- Citation: 2005 TCC 284
+- Decision date: 2005-05-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 273, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caron v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-24
+Neutral citation
+2005 TCC 284
+File numbers
+2004-3288(EI)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3288(EI)
+BETWEEN:
+JEAN-LUC CARON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 21, 2005, at Montréal, Quebec
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The Appeal is dismissed and the decision of the Minister of National Revenue is affirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of May 2005.
+Gerald J. Rip
+Rip J.
+Translation certified true
+on this 10th day of May 2005
+Aveta Graham, Translator
+Citation: 2005TCC284
+Date: 20050524
+Docket: 2004-3288(EI)
+BETWEEN:
+JEAN-LUC CARON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+[1] The appeal involves determining whether the Appellant, Jean-Luc Caron, ("Jean-Luc") was employed in insurable employment, under subsections 5(1) and 5(3) and paragraph 5(2)(i) of the Employment Insurance Act (the "Act"), for the periods from May 15, 2000, to October 27, 2000, and from May 15, 2001, to October 12, 2001, when working for 9049-3214 Québec Inc. (the "Payor"). The Appellant claims he was employed in insurable employment during these periods. Canada Customs and Revenue Agency ("CCRA") determined that his employment was not insurable because Jean-Luc Caron was not dealing at arms length with the Payor: paragraph 5(2)(i) of the Act.
+[2] There is no dispute that during the periods in issue Martin Caron ("Martin"), the brother of Jean‑Luc, was the sole shareholder of the Payor. Therefore, for purposes of this appeal, the Appellant is related to the person who controls the Payor and the Payor and the Appellant do not deal with each other at arm's length.
+[3] The Payor operated a business providing landscaping and snow clearance services in the winter under the corporate name "Paysagiste Nord Est."
+[4] The Appellant was the sole shareholder of the Payor when the Payor was incorporated on April 22, 1997. Unfortunately, the Appellant declared bankruptcy on February 16, 1999. Nevertheless, his brother Martin had purchased the Payor's assets from the trustee including a tractor and two old pickups. Martin also became the sole shareholder of the Payor.
+[5] Jean-Luc agreed that he worked for the Payor doing landscaping. He was remunerated for the work. He was one of three employees and he supervised other employees. He explained that his brother was employed as a teacher and required someone whom he could trust to work for the Payor. He, himself, could not own the Payor. He referred to a contract with the Ville de Mirabel which stated that in the event the contractor committed an act of bankruptcy, made a proposal in bankruptcy or became insolvent, the contract would be cancelled. He also complained that he received employment insurance benefits in an earlier year and queried why the government changed its mind for the periods in issue.
+[6] The Appellant declared that the Minister of National Revenue erred; he did not use a F-350 truck owned by the Payor to clear snow; he said he used the truck only during the summer when he worked for the Payor, never during the winter. He also denied that he cleared snow for the Payor. He was not paid during the winter.
+[7] The Appellant acknowledged that he maintained the Payor's books of account and made bank deposits on behalf of the Payor. However, he explained, this took up only one or two hours a week. He also stated that he frequently helped out his brother for no remuneration, "a decent thing to do" for one's brother.
+[8] Finally, Jean‑Luc testified that when he worked during the summer, he worked 40 hours per week and had no advantages other employees of the Payor did not have.
+[9] Respondent's counsel questioned the Appellant concerning a declaration he made to an employee of the Department of Human Resources Development Canada on September 11, 2003. He declared, among other things, that
+[translation]
+My brother did not work for the company. He was only a backer. In fact, I was the one who had managed this business from its opening . . . I am the one who kept the books, made the bank deposits. My brother wrote the cheques because I was not entitled to sign until about 2 years after my bankruptcy . . . .
+[10] At trial, the Appellant said he was intimidated into signing the declaration and eventually refused to sign any other documents. The Respondent also produced copies of snow clearing contracts, some of which were renewals, for the winter 2000-2001 which were signed by Jean‑Luc on behalf of the Payor.
+[11] Martin testified on behalf of his brother. He is a school teacher. In 1999, he stated, he was not a permanent teacher and thought he could operate a small business in his spare time. He therefore acquired the business from the trustee in bankruptcy. He said that during the winter he cleared snow himself for about four to five hours, when necessary, and used only one truck.
+[12] Martin was also asked by HRDC officials to make a declaration. Guy Dion of HRDC transcribed Martin's purported declaration but Martin refused to sign; he, too, said he was intimidated, he felt like a suspect, he recalled.
+[13] Mr. Dion, who also testified, is an investigator with HRDC. He said he met with Jean‑Luc on two occasions and with Martin. He insisted that there was no intimidation; people are free to leave the office at HRDC.
+[14] Sylvain Archimbault of HRDC was present with Mr. Dion at the time Martin purported to make his declaration. He said there was a good exchange between the two parties and that although Martin did not sign the declaration he did say that he agreed with its contents.
+[15] According to Mr. Dion's draft of Martin's declaration, Martin worked full‑time, 40 hours per week, as a teacher. He stated he had no employees during the winter, that Jean‑Luc kept the Payor's F‑350 truck at his home and that Jean‑Luc had possession of the company's cell phone. At trial, Martin said there was a relationship between the company's customers and his brother which was maintained after the latter's bankruptcy.
+[16] Mr. Dion prepared a spreadsheet showing deposits of cheques by Jean‑Luc and cheques paid by customers for snow clearance and landscaping from January 1999 to April 2002. These cheques indicate that the Payor was active throughout the year and that Jean‑Luc was working for the Payor during the winter as well as the summer.
+[17] Mr. Dion also produced copies of service station receipts showing that the Payor was operating with at least two trucks during February 2001. For example, a truck was filled with gasoline at 20:41 hours on February 19 and then again at 21:33 hours. This does not agree with Martin's evidence that only one truck was used by the Payor to clear snow. CCRA assumed Jean‑Luc was using the second truck and I believe the assumption was correct.
+[18] Also, all orders or receipts for trucks, or towing equipment repairs or purchases were signed by Jean‑Luc. Jean‑Luc appears to have been responsible for the maintenance of the trucks and machinery owned by the Payor.
+[19] On April 30, 2002, Martin transferred all the shares of the Payor to Jean‑Luc without valuable consideration.
+[20] In exercising his discretion under paragraph 5(3)(b) of the Act, the Minister considered that during the periods in issue, in addition to his work for the Payor, the Appellant was the sole owner a landscaping business that he operated under the corporate name "Multi-Services des Moulins" and he subcontracted contracts signed by Multi-Services des Moulins to the Payor. There was no evidence to the contrary.
+[21] The Appellant says that he did not work during the winter and therefore was not paid during the winter. I note that the winter months are not included in the periods under appeal. The Respondent states that Jean-Luc performed services for the Payor during the winter without being on the Payor's payroll.
+[22] The Minister concluded that persons not related to the Payor would not have worked for the Payor during the winter for no pay.
+[23] On November 8, 2000, the Payor gave the Appellant a record of employment that listed the first day of work as May 15, 2000, and the last day of work as October 29, 2000, and indicated 960 insurable hours and $10,800 in insurable earnings. On October 19, 2001, the Payor gave the Appellant a record of employment that listed the first day of work as May 15, 2001, and the last day of work as October 12, 2001, and indicated 1,040 insurable hours and $11,566 in insurable earnings. The Respondent states that the hours did not correspond to the hours actually worked.
+[24] The Minister determined that an unrelated person would not have received the same pay, conditions of employment or period of employment as the appellant received.
+[25] I agree with the decision of the Minister that Jean‑Luc was an employee of the Payor during the periods in issue but that his relationship with the Payor was not that of an employee who dealt with the Payor at arm's length as contemplated by paragraph 5(3)(b) of the Act.
+[26] I observed both Jean‑Luc and Martin. I doubt whether Jean‑Luc would be intimidated by any government official. I question his interpretation of events; his evidence was at odds with documents produced at trial. In truth, he ran the company and he controlled the business operations of the company. He determined when he would work, how he would work, when he would get paid and when he would not get paid. Indeed, except for the change of the registered shareholder of the company's shares, nothing, it appears, was different from before Jean‑Luc's bankruptcy. Indeed, while this is not relevant to this appeal, the attitude of Jean‑Luc suggests that Martin was only a "prête‑nom" for Jean‑Luc, so that Jean‑Luc could continue to operate the business after he became bankrupt. That Martin transferred the shares of the company to Jean‑Luc for no consideration strongly indicates this to be the case.
+[27] There is no credible evidence that the Minister did not properly exercise his discretion under paragraph 5(3)(b) or that his conclusion in the exercise of his discretion was wrong.
+[28] The appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of May 2005.
+"Gerald J. Rip"
+Rip J.
+Translation certified true
+on this 10th day of May 2005
+Aveta Graham, Translator
+CITATION: 2005TCC284
+COURT FILE NO.: 2004-3288(EI)
+STYLE OF CAUSE: Jean-Luc Caron v. H.M.Q.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 21, 2005
+REASONS FOR JUDGMENT BY: Gerald J. Rip
+DATE OF JUDGMENT: May 24, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

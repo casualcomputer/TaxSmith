@@ -1,0 +1,166 @@
+---
+title: "Pouzar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28090/index.do"
+last_modified: "2007-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 325"
+citation2: ""
+neutral_citation: "2007 TCC 325"
+decision_date: "2007-06-08"
+language: "en"
+item_id: "28090"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1675
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:02:30.807000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b5f11b3b212610c96eea32d2d5653117773f9275bafcacaf99370e26822b2b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pouzar v. The Queen
+
+- Citation: 2007 TCC 325
+- Decision date: 2007-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1675, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pouzar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-08
+Neutral citation
+2007 TCC 325
+File numbers
+2006-2088(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2088(IT)I
+BETWEEN:
+MIROSLAV POUZAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 14, 2007 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Josh Hunter
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. Costs, if any, are awarded to the Appellant.
+Signed at Ottawa, Canada this 8th day of June, 2007.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2007TCC325
+Date: 20070608
+Docket: 2006-2088(IT)I
+BETWEEN:
+MIROSLAV POUZAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in these appeals is whether in each of the 2002, 2003 and 2004 taxation years the Appellant is entitled to a deduction of $12,000 as spousal support payments.
+[2] By a Decree Absolute of the Supreme Court of Ontario signed December 15, 1978, the Appellant was divorced from Magda Pouzar (“Magda”). This Decree contained several property provisions including an Order that the Appellant pay Magda $450 per month commencing November 3, 1978.
+[3] By an Order of the Ontario Superior Court of Justice dated July 26, 2000 (“Order”), the following, inter alia, was provided:
+1. THIS COURT ORDERS that effective August 1, 2000 and on the first day of each subsequent month, the Respondent, MIREK POUZAR, shall pay to the Applicant, MAGDA POUZAR the sum of $1,000.00 per month as spousal support until the Applicant’s death.
+…
+3. THIS COURT ORDERS that the Petitioner, MAGDA POUZAR, shall provide the Respondent, MIREK POUZAR, with a receipt for all payments for each calendar year by December 31 of that year.
+4. THIS COURT ORDERS that the Respondent, MIREK POUZAR, shall maintain a life annuity with Sun Life Assurance Company of Canada with the Petitioner, MAGDA POUZAR, as annuitant and payee. Effective October 1, 2000 and on the first day of each subsequent month, the Respondent shall satisfy his support obligation under paragraph 1 of this Order through the life annuity. If the Petitioner predeceases the Respondent, the residual of the annuity shall revert to the Respondent.
+5. THIS COURT ORDERS that the Respondent, MIREK POUZAR, shall maintain the annuity in good standing and shall provide proof of the annuity to the Petitioner, MAGDA POUZAR, on an annual basis each October 1.
+[4] Paragraph 7 of the Reply to the Notice of Appeal refers to the above provisions of the Order and sub-paragraphs (a), (g) and (h) of paragraph 7 provide as follows:
+(a) at all material times, the Appellant and his former spouse, namely Magda Pouzar, (the “Former Spouse”) were living separate and apart from one another;
+(g) on or about August 14, 2000, the Appellant paid $129,463.00 to purchase the annuity in the name of the Former Spouse;
+(h) the amount of $129,463.00 referred to in subparagraph 7(g) herein was paid in a single lump sum by means of cheque transferred from Norek Investments & Management Inc. to Sun Life Assurance Co.;
+[5] The Reply states further in paragraph 10 as follows:
+10. … the Appellant is not entitled to deduct the amount of $12,000.00 yearly in computing his income for the 2002, 2003 and 2004 taxation years, as the said amounts were not an allowance paid on a periodic basis for the support of the Former Spouse within the meaning of paragraph 60(b) of the Act but rather was part of a single lump sum payment that was not a payment with respect of amounts paid periodically.
+There appears to be no doubt that the amount paid to Sun Life by Norek’s cheque represented a payment by the Appellant to Sun Life for the purchase of the annuity in question. The Crown has made no submission to that effect, no evidence was led and none of the Reply, the reassessment nor any correspondence related to the reassessment addressed that concern. Moreover, the Reply, in paragraph 7(g), acknowledges that the Appellant paid the amount. I conclude therefore that the said payment of $129,463 is to be treated as having been made by the Appellant.
+The Applicable Provisions of the Income Tax Act:
+[6] The following summarizes the applicable provisions of the Income Tax Act:
+Paragraph 60(b) provides the formula for determining the amount a payer may deduct for support amounts paid in a taxation year and subsection 56.1(4) defines “support amount”.
+In general, as applicable to the facts in this appeal, the payer may deduct a support amount paid to his divorced wife if:
+· the amount is payable to the recipient;
+· the amount is payable as an allowance for the maintenance of the recipient, …
+· the amount is payable on a periodic basis;
+· the recipient has discretion as to the use of the amount; and
+· where the recipient is the payer's former spouse, the amount is payable under an order of a competent tribunal or under a written agreement and the payer and recipient are living separate and apart because of the breakdown of their marriage …
+[7] The position of the Appellant is essentially set forth in the Notice of Objection dated July 25, 2001 and the Addendum to Notice of Objection dated November 19, 2005. The main thrust of these documents is that the Appellant was making the $1,000 monthly payments pursuant to the Order. With respect to the involvement of Sun Life, the Notice of Objection states:
+5.) As ordered by the Court … I have to guarantee the support payments through Life Annuity contract with Sun Life Financial, in case my death precedes my ex-spouse Magda Pouzar. I had to buy this annuity which pays $1000.00 on the first of each and every month as long as she lives. …
+The Addendum to the Notice of Objection states as follows:
+…
+4) As far as the method of payment for spousal support is concerned, a mutual agreement was reached by the lawyers and respondents in this matter. The main concern, because of my age, was a guaranteed lifetime payment to Magda Pouzar. The court could not order my heirs or estate to maintain the support payments as this matter had nothing to do with either the estate or heirs. I was not the owner of any life insurance that could have been paid upon my death, and because of less than desirable health, life insurance could not be purchased. Furthermore, if Magda would die for instance three months after my death, a windfall from life insurance would have fallen to her estate which was not in the spirit of the court order. Therefore, the annuity with Sunlife was the only viable method to ensure lifetime spousal support payments for Magda Pouzar. The argument by CRA is that the payments are not coming directly from the taxpayer, but in fact, I prepaid the support in the amount of $129,463 in 2000 using Sunlife as my conduit to deposit $1000 monthly into Magda Pouzar’s bank account as per the court order. Furthermore, as per Ms. Gainer’s letter of September 21, 2005, she states “In order for amounts to be considered support amounts one of the requirements is that the $1000.00 payments received by Ms. Pouzar must be paid by you. However, in this case, Mrs. Pouzar received the monthly amount from Sun Life”, however, as per the enclosed letter from the Ministry of the Attorney General, Family Responsibility Office, apparently a third party is permitted to be the conduit so how does CRA explain this misstatement. It would also therefore appear that according to Ms. Gainer, any persons using this method would have no tax deduction. Ms. Gainer also states in her letter “It appears that you made a lump sum payment of $129,464 to purchase the annuity. Your former spouse did not have discretion over the money as it was paid directly to the insurance company” Why should she have discretion over the lump sum? She certainly has discretion over the monthly amount of $1000 which is what the court order dictates.
+5) The court and lawyers agreed that Magda Pouzar should own the contract and also be the annuitant so that there was no opportunity except for her opportunity to redirect the payments. In other words, if I owned the annuity and was passed onto the estate on my own death, my estate would have been in a position to redirect such funds.
+6) I am therefore asking CRA to cancel the reassessment and consider Sun Life monthly payments as my spousal support payments are ordered by the court.
+[8] The position of the Crown essentially is that, to the extent that the $129,463 might be an issue, it is a lump sum payment and does not qualify as a periodic payment.
+[9] As to the $1,000 monthly payment, the further position of the Crown is that the payment is not being made by the Appellant to his former wife but is rather being made through the annuity by Sun Life or since, as will be discussed later, the apparent owner of the annuity contract was Magda, she was in effect paying herself with the result that the Appellant is not the payer and therefore not entitled to the deduction.
+[10] The Crown has also submitted considerable authority with respect to the concepts of a prescribed annuity and insurance policies and the taxation thereof. I do not think these submissions are relevant in this appeal. The only question is whether the $12,000 annual payments in the three years in question are deductible. How annuities or life insurance are taxed generally is not the issue here. For the same reason I do not think it relevant that any residual value left in the annuity after the death of Magda reverts to the Appellant. Once again, the issue is whether the $12,000 annual amounts in question paid to Magda during the three years in question are deductible to the Appellant.
+[11] I have been referred to several authorities, including McKimmon v. Canada (Minister of National Revenue – M.N.R.) (C.A.), [1990] 1 F.C. 600 and Ostrowski v. R., 2002 FCA 299 and certain other authorities. These cases have some bearing on the question at issue but the facts and nature of the cases are considerably different and do not specifically address the problem that arises in this appeal. Notwithstanding those differences, the following comments of Sharlow, J.A., in Ostrowski are helpful:
+22 The Tax Court Judge concluded that this case was similar to McKimmon. He said this at paragraphs 11 and 12 of his reasons:
+[11] The Appellant's situation is similar to that of the husband's in McKimmon. One lump sum was transferred outright to his wife's lawyer from the house proceeds; it was very substantial; it was paid by Court Order; it was from capital and the amount in dispute was not respecting arrears; it was a one time payment; the wife could dispose of it as she wished; and it released the Appellant from future payments to the total of the lump sum.
+[12] As in McKimmon, most of the indications point strongly to the payment being a lump sum settlement and virtually none point the other way.
+23 I am unable to agree with this analysis. In my view, despite the similarities noted by the Tax Court Judge, the facts in McKimmon are quite different from the facts in this case.
+24 The fundamental distinction, which the Tax Court Judge did not recognize, is that in McKimmon, the foundation of the payment obligation was the consent decree, which established simultaneously the payment obligation and the terms and conditions under which it would be paid. Thus, the nature of the payment and its existence depended upon the same decree. In this case, the foundation of the payment obligation was the O'Connell order, which clearly was an order for the payment of maintenance on a monthly basis The O'Connell order was never amended. It remained in force throughout all of the subsequent proceedings, until the maintenance obligation was finally terminated by the Melvin order as of September 30, 1997.
+25 All of the orders made after the O'Connell order were intended to enforce the maintenance obligation imposed by the O'Connell order because Mr. Ostrowski had proven to be unreliable in meeting that obligation. The Clarke order and the Drake order in particular dictated a practical solution to the problem of unreliability. That solution was made possible because both judges had it within their power to dictate the disposition of certain funds then being held in court. Does the character of Mr. Ostrowski's maintenance obligation change merely because, by virtue of the Drake order and the Clarke order, the monthly maintenance was required to be paid in advance? I do not think so.
+26 The Court was referred to only one reported case dealing with an advance payment of maintenance: Sanders v. R. (2001), 22 R.F.L. (5th) 207, [2001] T.C.J. No. 704 (T.C.C. [Informal Procedure]). In that case a judge of the Ontario Court of Justice, General Division had rendered an order on October 8, 1996 providing for the sale of the matrimonial home. The order included this provision:
+4. THIS COURT ORDERS THAT, in the meantime, a lump sum payment on account of support shall be made by the Husband to the Wife in the amount of $3,500.00 within two weeks hereof to cover the period October 8, 1996 to December 9, 1996.
+27 On December 20, 1996, a further order was made for child and spousal support of $1,750 per month, effective December 9, 1996. Judge Bonner held that the $3,500 referred to in the October 8, 1996 order was paid as an allowance payable on a periodic basis, notwithstanding the use of the term "lump sum", which he said was neither conclusive nor an accurate description of the nature of the payment. The Crown has not sought judicial review of this decision, and in my view it is based on sound reasoning.
+28 As this Court pointed out in R. v. Sills (1984), [1985] 2 F.C. 200, [1985] 1 C.T.C. 49, 85 D.T.C. 5096 (Fed. C.A.), maintenance that is payable on a periodic basis does not cease to be payable on a periodic basis merely because it is paid in arrears. Similarly, where there is an existing obligation to pay maintenance on a periodic basis, and a judge is satisfied on the evidence that there is a serious risk of non-payment in the future, an order that accelerates the payment obligation for a stipulated period does not by itself change the nature of the underlying obligation.
+29 There are situations where a single payment represents a commutation or replacement of all future maintenance obligations, as in Minister of National Revenue v. Armstrong, [1956] S.C.R. 446, [1956] C.T.C. 93, 56 D.T.C. 1044, 3 D.L.R. (2d) 140 (S.C.C.) or Trottier v. Minister of National Revenue, [1968] S.C.R. 728, [1968] C.T.C. 324, 68 D.T.C. 5216, 69 D.L.R. (2d) 132 (S.C.C.). Such a payment is not within the scope of paragraph 60(b) because it is not payable on a periodic basis. However, this case is quite different from Armstrong and Trottier. Here, Mr. Ostrowski's maintenance obligations were established in 1994 at $3,700 per month and never changed during the period covered by the prepayment. Justice Drake's order recognized that obligation without altering it, and required twenty-four such payments to be made in advance while ready cash was at hand. Similarly, the payment required by the Clarke order was simply an advance payment of maintenance for three months.
+30 I conclude, therefore, that the $88,800 payment referred to in paragraph (3) of the Drake order and the $11,100 payment referred to in the Clarke order are deductible as maintenance payable on a periodic basis. It remains only to consider how much the deduction should be in each of the two years under appeal. Paragraph 60(b) permits a deduction in any year only for amounts paid in that year.
+[12] I believe the reasoning in Ostrowski can be applied in this appeal. Paragraph 1 of the Order orders the Appellant to make periodic support payments. That is the underlying obligation. The securing of that obligation by way of the annuity does not change the nature of that underlying obligation. Paragraph 4 of the Order is very clear. It states: “the Respondent shall satisfy his support obligation under paragraph 1 of this Order through the life annuity.”
+[13] There was considerable discussion in this appeal as to who was the “owner” of the annuity; was it Magda who appears as “owner” on the actual annuity contract or was it the Appellant who applied for the annuity and paid for it. The Crown argues it was Magda and therefore she was merely paying herself. This is totally inconsistent with the fact that the Appellant put up the money to purchase the annuity. In any event, it became clear that Magda’s rights to receive the annuity could not be altered without her consent. Her rights were vested and she cannot be considered as paying herself.
+[14] In my opinion, the Appellant has conformed with the Order with respect to the payment of the $1,000 per month ($12,000 per year). Paragraph 1 of the Order orders the Appellant to pay to Magda $1,000 per month as spousal support. That is clearly an obligation on the Appellant to make a periodic payment for maintenance to Magda. The subsequent paragraph 4 simply provides a method to ensure the amounts are paid, thus the annuity. That does not change the underlying obligation provided for in paragraph 1 and the method of conduiting or securing that payment by the purchase of the annuity. Consequently, in my opinion, for all of the above the reasons, the Appellant is entitled to the deductions claimed by him.
+[15] Therefore, the appeal is allowed with costs, if any, to the Appellant.
+Signed at Ottawa, Canada this 8th day of June, 2007.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2007TCC325
+COURT FILE NO.: 2006-2088(IT)I
+STYLE OF CAUSE: Miroslav Pouzar v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: June 8, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Josh Hunter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,134 @@
+---
+title: "Majewski c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29263/index.do"
+last_modified: "2009-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 317"
+citation2: ""
+neutral_citation: "2009 CCI 317"
+decision_date: "2009-04-15"
+language: "fr"
+item_id: "29263"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7003
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:59:02.817000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72f1cfd089c0e4d03685d092127a963d56dc673610f93eb203f8a52ed6b8b4f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Majewski c. La Reine
+
+- Citation: 2009 CCI 317
+- Decision date: 2009-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7003, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Majewski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-15
+Référence neutre
+2009 CCI 317
+Numéro de dossier
+2008-3652(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3652(IT)I
+ENTRE :
+W. ADDY MAJEWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 avril 2009, à Toronto (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Diana Aird
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté conformément aux présents motifs du jugement.
+Signé à Ottawa, Canada, ce 11e jour de juin 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d’août 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 317
+Date : 20090611
+Dossier : 2008-3652(IT)I
+ENTRE :
+W. ADDY MAJEWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant interjette appel de la nouvelle cotisation que le ministre du Revenu national (le « ministre ») a établie à son égard pour l’année d’imposition 2006, refusant de lui accorder le crédit d’impôt pour frais médicaux qu’il avait demandé en application du paragraphe 118.2(1) de la Loi de l’impôt sur le revenu (la « Loi »). Le paragraphe 118.2(2) de la Loi définit le terme « frais médicaux ». En 2006, l’appelant a rénové la résidence familiale où lui et sa femme demeuraient en compagnie de leur fille (alors) âgée de 22 ans, « personne à charge »[1] ayant « un handicap moteur grave et prolongé » au sens de l’alinéa 118.2(2)l.2) de la Loi. L’appelant a agi pour son propre compte à l’audience et était le seul témoin. Ses déclarations au sujet de la nature et de l’objectif des diverses rénovations et transformations que le ministre a remises en question étaient claires et crédibles.
+[2] Toutefois, en l’espèce, la décision repose sur les conditions d’application de la limite monétaire à la formule permettant de calculer le montant déductible en vertu du paragraphe 118.2(1). Les dispositions pertinentes de la formule sont les éléments D, E et F, qui, si on les résume succinctement, permettent au contribuable de déduire de son revenu 10 000 $ ou, si elle est moins élevée, la somme obtenue en calculant les frais médicaux du particulier attestés par des reçus moins un montant fixe lié au revenu de la personne à charge.
+[3] Le contexte est le suivant. À l’origine, l’appelant avait demandé un crédit d’impôt pour frais médicaux pour des frais de rénovation s’élevant à 47 948 $; après plusieurs conversations avec des représentants de l’Agence du revenu du Canada, il s’est finalement vu accorder un crédit d’impôt non remboursable de 32 816 $. Pour des raisons qui n’étaient pas claires à l’audience, ce montant lui a été accordé en dépit du fait qu’il dépassait largement la limite de 10 000 $ que l’intimée veut maintenant voir imposée en application du paragraphe 118.2(1). Toutefois, vu que le ministre ne peut faire appel de la nouvelle cotisation qu’il a lui même établie[2], l’intimée n’a ni pu ni voulu faire en sorte que le crédit d’impôt non remboursable de 32 816 $ soit réduit de manière à être conforme à la limitation monétaire prévue par le paragraphe 118.2(1). Ainsi, le présent appel porte sur le droit de l’appelant à un crédit d’impôt relativement au solde de 15 132 $.
+[4] L’intimée est d’avis que, dans la mesure où l’appelant s’est déjà vu accorder un montant supérieur à 10 000 $, le paragraphe 118.2(1) l’empêche d’accorder quelque autre montant que ce soit.
+[5] Si je me fie à mon interprétation du paragraphe 118.2(1), le ministre a correctement appliqué la disposition en refusant d’accorder à l’appelant la déduction du solde de 15 132 $ en cause. Compte tenu de cette conclusion, il n’est pas très utile d’examiner en détail les déclarations que l’appelant a faites au sujet de l’argument subsidiaire de l’intimée, selon lequel l’appelant ne répondait pas aux conditions requises pour se voir accorder une déduction en vertu des sous‑alinéas 118.2(2)l.2)(i) et (ii) de la Loi :
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l’habitation du particulier […] ayant un handicap moteur grave et prolongé […] pour lui permettre d’avoir accès à son habitation, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+(i) ne soient pas d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation,
+(ii) soient d’un type que n’engagerait pas normalement la personne […] n’ayant pas un handicap moteur grave et prolongé;
+[6] Par conséquent, l’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 11e jour de juin 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d’août 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 317
+NO DU DOSSIER DE LA COUR : 2008-3652(IT)I
+INTITULÉ : W. Addy Majewski et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 avril 2009
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 11 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 118(6).
+[2] Harris v. Minister of National Revenue, [1964] C.T.C 562 (C. de l’É.), confirmé pour d’autres motifs, [1966] C.T.C 226 (C.S.C.).

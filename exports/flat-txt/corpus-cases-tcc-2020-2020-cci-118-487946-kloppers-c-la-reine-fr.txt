@@ -1,0 +1,263 @@
+Title: Kloppers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/487946/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-118-487946-kloppers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-10-29
+
+# Kloppers c. La Reine
+
+- Citation: 2020 CCI 118
+- Decision date: 2020-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4638, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kloppers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-10-29
+Référence neutre
+2020 CCI 118
+Numéro de dossier
+2017-2636(IT)G, 2017-3970(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2636(IT)G
+ENTRE :
+NICOLINE KLOPPERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par téléconférence le 17 septembre 2020, à Ottawa (Ontario)
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Avocats de l'appelante :
+Me Jeff D. Pniowsky
+Me Matthew Dalloo
+Avocats de l'intimée :
+Me John Chapman
+Me Jenna Clark
+ORDONNANCE
+La requête de l'appelante est rejetée.
+L'intimée a droit à un seul mémoire des dépens de 350 $ pour la présente requête et la requête connexe de Drahoslav Jez (2017‑3970(IT)G). L'appelante et M. Jez sont solidairement responsables des dépens.
+Les parties devront, au plus tard le 11 décembre 2020, fournir à la Cour l'échéancier pour les étapes restantes de l'instance, notamment le dépôt possible d'un avis d'appel modifié et d'une réponse modifiée.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2020.
+« David E. Graham »
+Le juge Graham
+Dossier : 2017-3970(IT)G
+ENTRE :
+DRAHOSLAV JEZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par téléconférence le 17 septembre 2020, à Ottawa (Ontario)
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Avocats de l'appelant :
+Me Jeff D. Pniowsky
+Me Matthew Dalloo
+Avocats de l'intimée :
+Me John Chapman
+Me Jenna Clark
+ORDONNANCE
+La requête de l'appelant est rejetée.
+L'intimée a droit à un seul mémoire des dépens de 350 $ pour la présente requête et la requête connexe de Nicoline Kloppers (2017‑2636(IT)G). L'appelant et Mme Kloppers sont solidairement responsables des dépens.
+Les parties devront, au plus tard le 11 décembre 2020, fournir à la Cour l'échéancier pour les étapes restantes de l'instance, notamment le dépôt possible d'un avis d'appel modifié et d'une réponse modifiée.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2020.
+« David E. Graham »
+Le juge Graham
+Référence : 2020 CCI 118
+Date : 20201029
+Dossier : 2017-2636(IT)G
+ENTRE :
+NICOLINE KLOPPERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3970(IT)G
+ET ENTRE :
+DRAHOSLAV JEZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Graham
+[1] Drahoslav Jez et Nicoline Kloppers (les appelants) ont demandé des crédits d'impôt pour les dons qu'ils affirment avoir faits à un abri fiscal dénommé Global Learning Gifting Initiative (GLGI). Le ministre du Revenu national a établi de nouvelles cotisations pour les deux appelants leur refusant ces crédits. Les appelants ont interjeté appel de ces refus.
+[2] Les appelants demandent une ordonnance accueillant leurs appels pour cause d'abus de procédure. Les appelants demandent également l'adjudication des dépens procureur‑client en leur faveur.
+A. Résumé des faits
+[3] Des dizaines de milliers d'autres contribuables ont également demandé des crédits d'impôt pour des dons prétendument faits à la GLGI. La Couronne a présenté deux causes types. Les appelants ont choisi de ne pas être liés par ces deux causes types. Dans la décision Mariano c. La Reine [1] , le juge Pizzitelli a rejeté les appels. Il a notamment conclu « que les appelants n'avaient pas l'intention libérale de faire leurs dons, qu'ils n'ont pas possédé ou transféré les biens qui étaient l'objet du don en nature [...] et que le programme était un trompe‑l'œil » [2] .
+[4] Environ 17 000 contribuables ont reçu une nouvelle cotisation liée à la GLGI, se sont opposés à cette nouvelle cotisation, n'ont pas accepté d'être liés par le résultat de la décision Mariano et n'ont pas encore obtenu d'avis de ratification du ministre du Revenu national [3] . J'appellerai ces oppositions les « oppositions liées à la GLGI » et les nouvelles cotisations qui les sous‑tendent les « nouvelles cotisations liées à la GLGI ».
+B. Abus allégués
+[5] Les appelants allèguent ce qui suit [4] :
+[TRADUCTION]
+L'intimée cherche à limiter à tort les pouvoirs de la Cour pour permettre à l'intimée d'abuser des pouvoirs que lui confère la Loi de l'impôt sur le revenu (la Loi), à savoir :
+a) en violant délibérément son obligation de faire avancer la procédure d'appel avec diligence, comme l'exige la Loi;
+b) en ne ratifiant stratégiquement qu'un petit nombre [des nouvelles cotisations liées à la GLGI] dans le but de « diviser pour régner » en utilisant son vaste avantage en matière de ressources contre les contribuables particuliers;
+c) en faisant délibérément traîner le processus pour épuiser les contribuables particuliers sous le poids des litiges et les préoccupations liées aux coûts, de sorte qu'ils abandonnent plutôt que d'exercer les droits d'appel que leur accorde la Loi, tout en surveillant cyniquement le taux d'abandon.
+[6] Les appelants font valoir que ces allégations prouvent l'existence d'un abus de procédure et que leurs appels devraient par conséquent être accueillis. Les allégations des appelants peuvent utilement être réparties en deux groupes, soit celles qui portent sur leurs appels et celles qui portent sur les autres contribuables.
+C. Allégations relatives aux appels des appelants
+[7] Les appelants font valoir que plusieurs déclarations fallacieuses faites par l'intimée dans leurs appels ainsi que les actions du ministre qui sous‑tendent ces déclarations constituent un abus de la procédure de la Cour. Je ne suis pas d'accord.
+Le ministre ratifie lentement les nouvelles cotisations liées à la GLGI
+[8] Comme il est indiqué précédemment, la décision Mariano était une cause type. Le ministre a obtenu gain de cause dans cet appel pour plusieurs motifs. On pourrait s'attendre à ce que le ministre, ayant obtenu gain de cause, ratifie assez rapidement les nouvelles cotisations liées à la GLGI. Or, cela n'a pas été le cas. Au contraire, le ministre ratifie les nouvelles cotisations liées à la GLGI très lentement.
+[9] Le ministre a ratifié 170 des nouvelles cotisations liées à la GLGI du 25 juin 2019 au 12 septembre 2019 [5] . Rien n'indique que d'autres nouvelles cotisations aient été ratifiées du 13 septembre 2019 au 30 janvier 2020. Par conséquent, pendant environ sept mois, le ministre n'a ratifié que 1 % des nouvelles cotisations liées à la GLGI en suspens. À ce rythme, le ministre ratifiera encore les nouvelles cotisations liées à la GLGI dans 58 ans [6] . Dans ses observations écrites déposées le 30 janvier 2020, l'intimée a indiqué que le ministre avait l'intention [TRADUCTION] « d'examiner les oppositions d'environ 300 contribuables dans les mois à venir » [7] . Même si le ministre ratifiait 300 nouvelles cotisations liées à la GLGI tous les trois mois, il lui faudrait encore 14 ans pour toutes les ratifier [8] .
+L'intimée n'a pas été franche au sujet des intentions du ministre
+[10] L'intimée a d'abord fait valoir que les ratifications se produisaient lentement parce que le ministre voulait délivrer 170 ratifications et ensuite [TRADUCTION] « utiliser les données recueillies de cet échantillon, y compris le taux d'appel des contribuables à la [Cour], afin de préparer un projet pour examiner les avis d'opposition restants de ce groupe » [9] . Cette explication laissait entendre que le rythme lent initial des ratifications serait remplacé par un rythme plus rapide une fois qu'on aurait davantage de renseignements.
+[11] Lors d'une conférence téléphonique en décembre 2019, l'avocat de l'intimée a indiqué que jusqu'alors, 10 des 170 contribuables dont les nouvelles cotisations liées à la GLGI avaient été ratifiées avaient fait appel à la Cour et que trois d'entre eux avaient un avocat. L'avocat a précisé que l'intention du ministre n'était pas de continuer à ratifier les nouvelles cotisations liées à la GLGI par groupes de 170, mais plutôt d'évaluer le taux d'appel, de déterminer si les appelants avaient des avocats, de déterminer s'il y avait des éléments communs aux appelants et ensuite de formuler un plan pour poursuivre le traitement du reste des oppositions liées à la GLGI. L'avocat a précisé que ce n'était pas que le ministre n'avait pas décidé s'il allait ratifier, mais plutôt qu'il déterminait la meilleure façon d'aller de l'avant compte tenu du grand nombre d'appels en cause et des ressources correspondantes requises [10] .
+[12] La position de l'intimée a considérablement changé lorsqu'elle a déposé ses observations écrites le 30 janvier 2020. Elle a expliqué que le ministre doit examiner attentivement le bien‑fondé de chaque opposition et qu'elle ne peut donc pas indiquer à la Cour combien de nouvelles cotisations liées à la GLGI seront ratifiées [11] . Cette explication était difficile à croire.
+[13] La tâche de la Division des appels de l'Agence du revenu du Canada est de s'occuper du traitement des oppositions. Le traitement de chaque opposition prend du temps. Une opposition concernant une question qui a déjà été tranchée par notre Cour dans une cause type devrait être plus facile à traiter. Le traitement d'un grand nombre d'oppositions pratiquement identiques devrait permettre de réaliser des économies d'échelle [12] . Le ministre pensait clairement que les nouvelles cotisations liées à la GLGI tenaient « à une même opération, à un même événement ou à une même série d'opérations ou d'événement », ou il n'aurait pas tenté de lier les contribuables s'opposant aux cotisations liées à la GLGI au moyen d'une demande aux termes de l'article 174 de la Loi.
+[14] Les observations écrites de l'intimée comprenaient des platitudes telles que l'affirmation que le ministre [TRADUCTION] « s'engage à ratifier ou à modifier les nouvelles cotisations, ou à établir de nouvelles cotisations, à l'égard de toutes les oppositions en suspens aussi rapidement qu'il est prudent et possible » et qu'il [TRADUCTION] « recherche activement des options pour déterminer la manière la plus appropriée d'aller de l'avant compte tenu du nombre important d'oppositions en suspens et des ressources nécessaires pour mener des évaluations individuelles de chaque opposition » [13] . Ces déclarations ne transmettent en réalité aucune information réelle aux appelants ou à la Cour. Elles sont empreintes d'un discours bureaucratique qui n'engage à rien.
+[15] Les informations que l'intimée a fournies à la Cour de juin 2019 à décembre 2019 ont mené la Cour et les appelants à croire que le ministre avait l'intention d'aller de l'avant de manière significative et qu'il avait un plan pour le faire. Ce n'était clairement pas le cas.
+[16] Comme il est mentionné précédemment, dans ses observations écrites de janvier, l'intimée a également indiqué que le ministre avait l'intention de ratifier 300 nouvelles cotisations supplémentaires liées à la GLGI [TRADUCTION] « dans les mois à venir » [14] . Il est difficile de comprendre pourquoi, vu les données qui indiquent que moins de 6 % des contribuables dont les nouvelles cotisations étaient ratifiées interjetteraient effectivement appel à notre Cour, le ministre choisirait de ne ratifier que 300 nouvelles cotisations supplémentaires sur une période de plusieurs mois. Cela ne correspond pas au degré d'activité que le ministre avait présenté à la Cour.
+[17] Le ministre peut examiner lentement les nouvelles cotisations liées à la GLGI. Je ne peux pas lui ordonner d'agir rapidement et je ne peux pas lui dire ce qu'il doit faire d'une opposition. Néanmoins, lorsque je demande à l'intimée de me dire comment le ministre prévoit procéder afin que je puisse déterminer comment gérer les affaires actuellement devant la Cour et que les appelants puissent déterminer comment ils veulent procéder, je m'attends à recevoir davantage que des explications et des platitudes changeantes.
+[18] J'ai fait part de ces préoccupations à l'avocat de l'intimée lors de l'audience. L'avocat de l'intimée a assuré la Cour que l'intimée n'avait pas l'intention de faire valoir qu'il existe des questions juridiques ou factuelles compliquées qui obligeraient le ministre à examiner intégralement chaque opposition liée à la GLGI depuis le début. L'avocat a précisé que le ministre s'attend à ce que toutes les oppositions liées à la GLGI seront traitées conformément à la décision Mariano. L'avocat a expliqué que le traitement de 17 000 oppositions nécessitera des ressources et que le ministre doit répartir les ressources entre des besoins concurrents. Ces explications correspondent à celles fournies précédemment par l'avocat de l'intimée lors de la conférence de gestion de l'instance de décembre. Je les accepte.
+[19] Les avocats n'ont pas voulu reconnaître que le ministre choisissait de ratifier les nouvelles cotisations liées à la GLGI lentement. Je peux comprendre leur réticence. Une telle déclaration peut avoir des répercussions pour le ministre qui excèdent les présents appels. Quoi qu'il en soit, je n'ai pas besoin de cette reconnaissance. C'est l'évidence même. Le ministre choisit la manière dont il répartit ses ressources. Il choisit actuellement de ne pas affecter ces ressources à la ratification des nouvelles cotisations liées à la GLGI. En conséquence, seules quelques‑unes d'entre elles sont ratifiées. Peu importe les motifs du ministre, le résultat demeure le même.
+[20] La question demeure de savoir si les actions de l'intimée visant à induire la Cour en erreur constituent un abus de procédure. Bien que je ne prenne pas les actions de l'intimée à la légère, je ne pense pas qu'elles soient assez graves pour être un abus de procédure. Elles ne contreviennent pas « à l'intérêt du public à un régime de procès justes et équitables et à la bonne administration de la justice » [15] et n'entraînent pas d'injustice qui déconsidérerait l'administration de la justice. Ces actions ont entraîné un retard dans la procédure, mais il ne s'agit pas d'un retard ayant causé un préjudice grave aux appelants. À mon avis, le retard causé par les actions de l'intimée peut être traité de manière adéquate par l'adjudication de dépens.
+[21] Lors de la conférence téléphonique de gestion de l'instance de décembre 2019, j'ai fait part à l'intimée de mes inquiétudes quant à ce retard possible. J'ai indiqué aux appelants que s'ils voulaient demander des dépens relatifs au retard, ils pourraient le faire au moment de présenter leurs requêtes. Les appelants n'ont pas demandé ces dépens dans leurs requêtes. J'ai soulevé la question des dépens relatifs au retard avec les parties lors de l'audience. Bien que l'avocat des appelants ait convenu que les appelants devraient recevoir des dépens, la somme qu'il a demandée et les motifs qu'il a donnés indiquent que ce qu'il demandait réellement était l'adjudication de dépens relativement à l'abus de procédure allégué plutôt qu'au retard. L'avocat a indiqué que les dépens devraient se chiffrer en centaines de milliers de dollars. Pour justifier cette somme, il s'est concentré sur le comportement prétendument abusif de l'intimée plutôt que sur les coûts réels — comme les frais de participation à des conférences supplémentaires de gestion de l'instance ou les frais liés à la correspondance supplémentaire envoyée à la Cour — que le retard a causés aux appelants. En fin de compte, j'ai eu l'impression de pousser presque l'avocat à demander le redressement. Mon rôle n'est pas d'adjuger des dépens qu'une partie ne demande pas [16] . J'estime que les appelants ne demandent pas réellement des dépens relativement au retard. En conséquence, je n'adjugerai pas de dépens pour le retard. Les appelants sont libres de réclamer ces dépens au juge qui entendra finalement leurs appels.
+La lenteur du processus de ratification pour obtenir un avantage stratégique constitue‑t‑elle un abus?
+[22] Les appelants se plaignent principalement du fait que le ministre ratifie délibérément les nouvelles cotisations liées à la GLGI à un rythme lent dans le but de diviser les contribuables pour régner. Les appelants souhaitent que le ministre ratifie rapidement ces nouvelles cotisations afin qu'ils puissent rassembler d'autres contribuables et partager les coûts du litige. Les appelants affirment que limiter le nombre d'appels afin de diviser les contribuables pour régner est un abus de la procédure de la Cour.
+[23] Je ne suis pas persuadé que le ministre ratifie lentement les nouvelles cotisations liées à la GLGI pour diviser pour régner, mais même si c'était le cas, je ne conclurais pas que ses actions constituent un abus de procédure dans les appels des appelants.
+[24] Comme il est mentionné précédemment, la Cour s'est déjà penchée sur le programme de la GLGI dans la décision Mariano. Le juge Pizzitelli l'a examiné en profondeur et a conclu à l'existence de nombreuses failles. Les appelants auraient pu accepter d'être liés par la décision Mariano. Ils auraient pu accepter l'offre de règlement faite par le ministre, une offre qui les aurait laissés en meilleure posture que l'issue dans la décision Mariano. Ils ont choisi de ne faire aucune de ces choses. En faisant ce choix, ils ont pris le risque de se retrouver exactement dans la situation dans laquelle ils se trouvent aujourd'hui. En réalité, ils se trouvent dans la même position que tout autre contribuable devant notre Cour. Comme tous les autres contribuables, ils doivent financer leurs propres litiges. Le coût possible de leur litige est certes plus élevé que celui de la plupart des appels, mais il en est ainsi parce qu'ils ont choisi de participer à un abri fiscal très complexe et de ne pas prendre part à la cause type qui le défendait.
+[25] Le rôle du juge chargé de la gestion de l'instance n'est pas de s'assurer que les contribuables soient en mesure de financer convenablement leurs litiges en regroupant leurs ressources avec celles d'autres contribuables. Le rôle du juge chargé de la gestion de l'instance est de veiller à ce que l'appel soit traité sur le fond de manière équitable et efficace. Parfois, cela signifie qu'il faut regrouper les contribuables selon les règles sur les causes types prévues à l'article 146.1 des Règles de la Cour canadienne de l'impôt (procédure générale). La Cour tire parti des règles afin d'utiliser le mieux possible les ressources judiciaires et d'éviter les décisions contradictoires. Comme l'a affirmé le juge Pizzitelli : « La Cour, par le contrôle de sa procédure, peut recourir à cette disposition pour entendre des affaires sélectionnées vraisemblablement pour leur valeur jurisprudentielle importante, dans l'espoir que celle-ci permette de régler au moins la majorité des appels potentiels, sinon tous, afin [que] la Cour ne se retrouve pas submergée par possiblement des milliers de cas semblables, de même que par les coûts et les ressources nécessaires s'y rattachant [17] . »
+[26] Bien que le recours aux règles relatives aux causes types puisse entraîner le partage des coûts entre les contribuables, ce n'est pas la raison pour laquelle on y a recours. La Cour peut certainement prendre en compte les coûts liés à une cause type lorsqu'elle examine s'il conviendrait d'utiliser ces règles ou lorsqu'elle examine la façon de gérer les causes types. Il n'y a aucun gain d'efficacité à faire avancer une cause type si l'appelant doit l'abandonner avant le procès parce qu'il n'a pas les moyens de la poursuivre. Toutefois, cela ne signifie pas qu'un contribuable a un droit procédural à se joindre à un groupe de contribuables avec lequel partager les coûts ou que le défaut de lui fournir l'accès à un tel groupe constitue un abus de la procédure de la Cour.
+D. Allégations relatives à d'autres contribuables
+[27] Mis à part ce qui précède, les appelants ne prétendent pas que l'intimée ait pris, dans leurs appels, des mesures qui abusent de la procédure de la Cour. Les appelants se plaignent du comportement du ministre ou de l'intimée à l'égard de contribuables différents ayant fait l'objet de nouvelles cotisations liées à la GLGI.
+[28] Je ne sais pas si les appelants soutiennent que chacune des choses dont ils se plaignent est en soi un abus de procédure ou si ces choses sont collectivement la preuve d'un abus de procédure. En conséquence, j'examinerai chaque préoccupation séparément, en supposant que les appelants considèrent qu'il s'agit d'un abus de procédure, et j'examinerai ensuite toutes les préoccupations collectivement.
+Le défaut de ratifier les nouvelles cotisations liées à la GLGI avec diligence
+[29] Le paragraphe 165(3) de la Loi dispose que, lorsqu'un contribuable dépose un avis d'opposition à une cotisation, le ministre, avec diligence, examine de nouveau la cotisation et l'annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Les appelants font valoir que, peu importe s'il le fait ou non pour obtenir un avantage envers les appelants, le simple fait que le ministre ne ratifie pas les nouvelles cotisations liées à la GLGI avec diligence constitue un abus de procédure.
+[30] Cet abus présumé est un abus de la procédure d'opposition et non de la procédure de la Cour. Même si je concluais que le ministre abusait de sa propre procédure, la Cour n'a pas compétence pour accueillir l'appel en raison de cet abus [18] .
+[31] La Cour n'a pas non plus la compétence pour rendre une ordonnance de mandamus obligeant le ministre à ratifier la cotisation d'un contribuable [19] . Cette compétence revient à la Cour fédérale [20] .
+[32] Si un contribuable estime que le ministre ne traite pas son opposition avec diligence, il a deux choix. Si plus de 90 jours se sont écoulés depuis que le contribuable a déposé son opposition et que le ministre n'a ni ratifié la cotisation ni établi de nouvelle cotisation, le contribuable peut interjeter appel directement à notre Cour aux termes de l'alinéa 169(1)b) de la Loi. Subsidiairement, le contribuable peut demander une ordonnance de mandamus à la Cour fédérale obligeant le ministre à examiner son opposition. Il s'agit de deux actions que le contribuable doit entreprendre lui‑même. Ce sont des actions que les contribuables ayant présenté des oppositions liées à la GLGI n'ont pas entreprises [21] .
+[33] En somme, les appelants me demandent de conclure que l'inaction du ministre quant à d'autres contribuables, qui peuvent ou non vouloir que le ministre agisse, dans un processus sur lequel je n'ai aucune compétence et qui se déroule entièrement en dehors de la procédure de la Cour, est, en soi, un abus de la procédure de la Cour dans les appels des appelants. Je ne le ferai pas.
+[34] Je ne peux pas accueillir l'appel d'un contribuable au motif que le ministre n'a pas examiné l'opposition avec diligence [22] . De même, le comportement du ministre lors de la vérification ou de l'opposition d'un contribuable n'est pas un motif justifiant d'accueillir l'appel du contribuable [23] . Si je ne peux pas accueillir l'appel d'un contribuable en raison du retard ou de la conduite du ministre dans le traitement de l'opposition du contribuable, comment pourrais‑je alors accueillir les appels des appelants au motif que le ministre a omis de ratifier les nouvelles cotisations liées à la GLGI d'autres contribuables?
+Présentation de la demande en application de l'article 174
+[35] En 2016, le ministre a présenté une demande en application de l'article 174 de la Loi. Le paragraphe 174(1) dispose que le ministre peut demander à la Cour de se prononcer sur une question s'il est d'avis qu'elle se rapporte à des cotisations relatives à plusieurs contribuables et qu'il s'agit d'une question tenant à des opérations sensiblement semblables. Conformément au paragraphe 174(2), la demande présentée en application du paragraphe 174(1) comporte notamment la question au sujet de laquelle le ministre demande une décision et le nom des contribuables qu'il souhaite voir liés par la décision. La demande nommait certains contribuables qui avaient déjà interjeté appel à la Cour. Elle cherchait également à inclure tous les contribuables ayant déposé des oppositions liées à la GLGI.
+[36] Les appelants font valoir qu'en incluant dans la demande les contribuables ayant déposé des oppositions liées à la GLGI, le ministre a accepté que la Cour ait compétence à l'égard de ces contribuables. Je suis d'accord, mais pas de la façon dont les appelants le voudraient.
+[37] Une demande déposée en application de l'article 174 est une instance devant notre Cour [24] . Il ne fait aucun doute que la Cour avait compétence à l'égard de tout contribuable nommé dans la demande, mais cette compétence se limitait à la demande elle‑même. La Cour n'a pas obtenu indirectement la compétence sur les oppositions de ces contribuables ou sur le traitement de ces oppositions par le ministre.
+[38] Les appelants soutiennent également que le ministre a présenté la demande de mauvaise foi. Dans une décision récente portant sur l'adjudication de dépens relativement à la demande, j'ai conclu que la décision du ministre de présenter la demande était fondée sur une interprétation erronée de l'article 174 [25] . Rien dans les actions du ministre en présentant la demande ou en s'en désistant n'indique un abus de la procédure de la Cour.
+[39] Dans l'ensemble, je ne vois rien dans la demande qui permettrait de conclure à un abus de la procédure dans les appels des appelants.
+Allègement quant aux intérêts
+[40] Le ministre a récemment informé les appelants qu'il renoncerait à tout intérêt accumulé durant la période du dépôt de la demande au désistement. Les appelants soulignent que le ministre n'a pas fait cette offre aux contribuables ayant déposé des oppositions liées à la GLGI. Cela n'est guère surprenant, car ces contribuables n'ont pas présenté d'appels qui ont été en suspens pendant la demande.
+[41] Les appelants font valoir que le ministre procède à ce que les appelants estiment être des renonciations sélectives aux intérêts afin d'encourager les contribuables tels que les appelants, dont le litige est plus avancé, à se désister de leurs appels. Il s'agit là d'une pure spéculation de la part des appelants. Quoi qu'il en soit, une renonciation aux intérêts qui pourrait peut‑être encourager les appelants à se désister de leurs appels pourrait difficilement être considérée comme un abus de la procédure dans ces appels.
+Contribuables ayant accepté ou prétendument accepté d'être liés
+[42] De nombreux contribuables ont accepté d'être liés par l'issue dans la décision Mariano. Après la décision, le ministre a ratifié les nouvelles cotisations liées à la GLGI de ces contribuables. Certains de ces contribuables ont soutenu qu'ils n'étaient pas liés par leurs consentements à être liés. Ils ont interjeté appel de leurs ratifications à notre Cour. L'intimée a présenté une requête visant à faire annuler les appels de certains de ces contribuables. Dans la décision Abdalla c. La Reine, la requête a été accueillie et les appels ont été annulés [26] .
+[43] Les avocats des appelants ont tenté de faire ajouter certains de leurs clients comme parties à la requête Abdalla, et l'intimée s'y est opposée. Les appelants y voient un abus de la procédure dans leurs appels. Je ne suis pas d'accord.
+[44] Tout au plus, la plainte soulevée par les appelants est que l'intimée est allée de l'avant à l'égard de plusieurs contribuables n'ayant pas d'avocat dans Abdalla et non à l'égard de contribuables dont la situation serait semblable et qui sont représentés par l'avocat des appelants afin que l'intimée puisse facilement obtenir gain de cause et créer un précédent. Je ne vois pas en quoi cela pourrait constituer un abus de la procédure de la Cour dans les appels des appelants. Les appelants n'ont pas signé d'ententes d'être liés par l'issue de la décision Mariano. Ils n'étaient pas parties à la requête présentée dans Abdalla et ne sont pas non plus parties à des requêtes en annulation similaires présentées par l'intimée contre plusieurs autres contribuables représentés par les avocats des appelants. Ces requêtes n'ont rien à voir avec leurs appels [27] .
+Procédures de faillite
+[45] Certains contribuables ayant des oppositions liées à la GLGI ont déclaré faillite. Les appelants y voient là la preuve de l'objectif du ministre de gagner par attrition. J'y vois la preuve que ces contribuables étaient insolvables. Le ministre ne les a pas forcés à déclarer faillite, pas plus qu'il les a forcés à participer à l'abri fiscal lié à la GLGI.
+[46] Les appelants prétendent également que, dans les procédures de faillite, le ministre a fait valoir que les dettes découlant des nouvelles cotisations liées à la GLGI ne sont pas conditionnelles et qu'il fallait plutôt les traiter comme si le ministre avait ratifié les nouvelles cotisations. Les appelants estiment qu'il s'agit d'un abus de procédure.
+[47] La Cour de l'impôt n'a pas compétence sur les procédures en faillite. Cette compétence appartient aux cours supérieures des provinces [28] . Le fait que le ministre participe en tant que créancier à une procédure de faillite engagée par un contribuable et fait valoir que la nouvelle cotisation liée à la GLGI du contribuable est exacte ne semble guère abusif. Même si c'était le cas, il ne s'agirait pas d'un abus de la procédure de notre Cour, et encore moins d'un abus de la procédure dans les appels des appelants.
+Application des remboursements
+[48] Les appelants soutiennent que l'application par le ministre des remboursements et des prestations sociales aux dettes impayées des contribuables ayant déposé des oppositions liées à la GLGI constitue une preuve supplémentaire d'abus de procédure. La Cour n'a pas compétence relativement aux mesures de recouvrement prises par le ministre. Cette compétence revient à la Cour fédérale [29] . L'application des remboursements et des prestations en question a vraisemblablement eu lieu en vertu des pouvoirs du ministre au titre du paragraphe 164(2). Je ne vois pas en quoi ces actions constitueraient un abus de la procédure de la Cour, et encore moins un abus de la procédure dans les appels des appelants. Le ministre prend des mesures de recouvrement contre d'autres contribuables qui ne sont pas devant notre Cour.
+Nouvelles questions en litige
+[49] Dans la décision Sweetman c. La Reine [30] , j'ai accueilli la requête en cautionnement pour dépens présentée par l'intimée contre un contribuable non résident dans un appel lié à la GLGI. L'un des facteurs que j'ai pris en compte pour parvenir à cette décision était la probabilité que M. Sweetman obtienne gain de cause. J'ai conclu que l'intimée était fortement susceptible d'obtenir gain de cause, car M. Sweetman n'avait fourni aucun fondement me permettant de conclure que l'issue de son appel serait différente de celle dans Mariano [31] .
+[50] Les appelants soutiennent que l'intimée a abusé de la procédure de notre Cour parce qu'elle n'a informé ni moi‑même ni M. Sweetman des observations que feront les appelants en l'espèce. Les appelants affirment que ces observations portent sur de nouvelles questions qui n'ont pas été examinées dans la décision Mariano. Les appelants soutiennent également que l'intimée a abusé de la procédure de notre Cour en n'informant pas les autres contribuables sans avocat dont les appels ont été entendus par notre Cour depuis la décision Mariano de ces nouvelles questions en litige.
+[51] En somme, les appelants estiment que l'intimée abuse des procédures de la Cour si elle n'aide pas les contribuables à monter leur dossier. Je ne suis pas d'accord. L'intimée n'a pas l'obligation d'informer un contribuable (qu'il ait un avocat ou non) des nouvelles questions qui peuvent être soulevées par d'autres contribuables. De même, l'intimée n'a pas l'obligation d'informer la Cour de ces questions.
+[52] Même si j'avais été au courant de ces nouvelles questions, je n'en aurais pas tenu compte pour déterminer les chances de succès de M. Sweetman. L'avocat des appelants ne représente pas M. Sweetman [32] . La décision dans l'appel de M. Sweetman sera fondée sur les observations qu'il présente, et non sur celles que les appelants ont l'intention de présenter. De même, je ne me serais pas attendu à ce que les juges des appels liés à la GLGI tranchés depuis la décision Mariano aient tenu compte de questions que les appelants qui ont comparu devant eux n'ont pas soulevées.
+[53] En fin de compte, même si l'intimée avait le devoir que les appelants prétendent, je ne vois pas comment les actions de l'intimée dans la décision Sweetman ou dans tout appel tranché depuis la décision Mariano pourraient être de quelque manière que ce soit un abus de la procédure dans les appels des appelants.
+[54] Je tiens à souligner que les avis d'appel des appelants ne renvoient à aucune nouvelle question qui, selon eux, n'a pas été soulevée dans la décision Mariano. Les appelants semblent simplement supposer que l'intimée sait que les appelants soulèveront des questions identiques ou semblables à celles soulevées par l'avocat des appelants lorsqu'il représentait un contribuable différent dans une demande d'intervention dans l'appel d'un autre contribuable à la Cour suprême du Canada à l'égard d'un stratagème de dons différent [33] . Si les appelants ont l'intention de se fonder sur des questions autres que celles indiquées dans leurs avis d'appel, ils doivent modifier leurs actes de procédure.
+E. Abus en général
+[55] Après avoir conclu qu'aucune des actions dont les appelants se plaignent n'est en soi un abus de la procédure de la Cour, je dois maintenant examiner si les actions, prises dans leur ensemble, démontrent un tel abus.
+[56] Les appelants font valoir que ces actions montrent collectivement que le ministre et l'intimée ont agi de mauvaise foi dans le but d'éliminer les appels des contribuables par attrition et qu'ils ont adopté dans les litiges une stratégie visant à diviser pour mieux régner. Les appelants affirment ce qui suit :
+a) le ministre ratifie les nouvelles cotisations liées à la GLGI lentement afin de forcer les contribuables à se débrouiller seuls;
+b) l'intimée a mal décrit la raison pour laquelle le ministre ratifie lentement les nouvelles cotisations liées à la GLGI, parce que l'intimée veut cacher les intentions réelles du ministre;
+c) le ministre a présenté la demande afin de priver les contribuables ayant déposé des oppositions liées à la GLGI de leur droit de plaider leur cause;
+d) l'intimée a tenté d'empêcher les contribuables sans avocat qui avaient accepté d'être liés par la décision Mariano de bénéficier des observations présentées par l'avocat des appelants afin que leurs arguments soient rejetés et leurs appels, annulés;
+e) le ministre pousse les contribuables à la faillite pour les empêcher de faire valoir leurs droits;
+f) le ministre abuse des dispositions d'allègement pour les contribuables dans le but d'écarter les appels les plus solides;
+g) l'intimée cache les observations gagnantes aux contribuables sans avocat et à la Cour.
+[57] Les appelants font valoir que, dans les circonstances, ces actions du ministre et de l'intimée constituent collectivement un abus de la procédure de la Cour.
+[58] Les appelants parviennent à cette conclusion par un processus de raisonnement circulaire. Ils partent du principe que le ministre et l'intimée sont de mauvaise foi. Ils n'envisagent pas d'autres explications possibles pour les mesures prises par le ministre et l'intimée. Cela conduit les appelants à la conclusion inévitable qu'une action donnée a été entreprise de mauvaise foi, ce qui, à son tour, confirme leur conviction selon laquelle le ministre et l'intimée sont de mauvaise foi. Cette affirmation assombrit la lentille à travers laquelle la prochaine action est perçue, et le processus s'emballe jusqu'à ce qu'il y ait, selon les appelants, des éléments de preuve accablants que le ministre et l'intimée abusent du processus de la Cour par leurs actions de mauvaise foi.
+[59] La suggestion absurde des appelants selon laquelle le ministre ratifie lentement les oppositions liées à la GLGI dans l'espoir que les contribuables mourront avant que leurs oppositions ne soient résolues montre à quel point les appelants ont été entraînés dans leur propre raisonnement circulaire.
+[60] Je ne retiens pas ce raisonnement circulaire. Si, au lieu de partir de l'hypothèse selon laquelle le ministre et l'intimée sont de mauvaise foi, je pars d'un esprit ouvert, il m'est difficile de conclure que les diverses actions dont les appelants se plaignent équivalent collectivement à quoi que ce soit. Dans chaque cas, il existe une ou plusieurs explications plausibles de l'action voulant que le ministre et l'intimée aient agi de bonne foi.
+[61] Même si j'acceptais le raisonnement circulaire des appelants, je ne vois toujours pas en quoi les actions dont ils se plaignent abusent collectivement de la procédure de notre Cour. Les appelants semblent croire que s'ils signalent suffisamment d'abus présumés, je conclurai qu'il doit y avoir un abus de procédure dans leurs appels, même si tous les abus allégués, sauf un, n'ont rien à voir avec les procédures de notre Cour ou avec les appels des appelants. Ils ont tort. J'ai examiné les abus allégués qui se rapportent en fait aux appels des appelants et j'ai conclu qu'il n'y a pas d'abus de procédure. Le fait d'accumuler une collection d'autres abus allégués ne change rien.
+F. Conclusion
+[62] Compte tenu de tout ce qui précède, les requêtes des appelants visant à faire accueillir leurs appels pour abus de procédure sont rejetées.
+G. La compétence d'accueillir les appels pour abus de procédure
+[63] Si j'avais conclu à l'existence d'un abus de procédure, les appelants voulaient que j'accueille leurs appels. Compte tenu de ma conclusion, il n'est pas nécessaire que je détermine si notre Cour a la compétence d'accueillir un appel si elle estime que l'intimée a abusé de sa procédure. Je refuse expressément d'examiner cette question.
+H. Les dépens de la requête
+[64] Les dépens relatifs aux requêtes des appelants sont adjugés à l'intimée. L'intimée demande les dépens conformément au tarif établi pour un appel de la catégorie A. Cela semble raisonnable dans les circonstances. Les questions en litige dans la requête n'étaient ni complexes ni nouvelles. Les deux parties se sont conduites de manière efficace. L'intimée a droit à un seul mémoire des dépens de 350 $, payables immédiatement. Les appelants sont solidairement responsables du paiement des dépens.
+I. Les prochaines étapes
+[65] Compte tenu de tout ce qui précède, je ne vois pas pourquoi les appels des appelants ne devraient pas aller de l'avant. La Cour ordonne à chacune des parties de lui fournir l'échéancier pour les étapes restantes de l'instance au plus tard le 11 décembre 2020.
+[66] Les appelants ont indiqué qu'ils avaient l'intention de soulever de nouvelles questions. Comme il est indiqué précédemment, ces questions ne semblent pas avoir été soulevées dans les avis d'appel des appelants. Si les appelants veulent déposer des avis d'appel modifiés, alors, lorsque les parties fourniront leurs échéanciers, les parties doivent inclure des délais appropriés pour la signification et le dépôt des avis d'appel modifiés et des réponses modifiées.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2020.
+« David E. Graham »
+Le juge Graham
+RÉFÉRENCE :
+2020 CCI 118
+NOS DES DOSSIERS DE LA COUR :
+2017-2636(IT)G 2017-3970(IT)G
+INTITULÉS :
+NICOLINE KLOPPERS c. LA REINE
+DRAHOSLAV JEZ c. LA REINE
+DATE DE L'AUDIENCE :
+Requêtes entendues par téléconférence le 17 septembre 2020
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge David E. Graham
+DATE DE L'ORDONNANCE :
+Le 29 octobre 2020
+COMPARUTIONS :
+Avocats des appelants :
+Me Jeff D. Pniowsky
+Me Matthew Dalloo
+Avocats de l'intimée :
+Me John Chapman
+Me Jenna Clark
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Jeff D. Pniowsky
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2015 CCI 244.
+[2] Mariano, au paragraphe 146.
+[3] Observations écrites de l'intimée du 30 janvier 2020, au paragraphe 6.
+[4] Avis de requête, paragraphe 12.
+[5] Observations écrites de l'intimée du 30 janvier 2020, au paragraphe 20.
+[6] 170 oppositions en 7 mois = 24,285 71 oppositions par mois. À ce rythme, il faudra 700 mois pour traiter l'ensemble des 17 000 oppositions.
+[7] Observations écrites de l'intimée du 30 janvier 2020, au paragraphe 29.
+[8] 300 oppositions en 3 mois = 100 oppositions par mois. À ce rythme, il faudra 170 mois pour traiter l'ensemble des 17 000 oppositions.
+[9] Lettre de l'intimée à la Cour du 26 septembre 2019.
+[10] Transcription de la conférence téléphonique de gestion de l'instance tenue le 17 décembre 2019, p. 1, ligne 28, p. 2, lignes 1 à 11, p. 8, lignes 3 à 9, et p. 9, lignes 15 à 22.
+[11] Observations écrites de l'intimée du 30 janvier 2020, au paragraphe 27.
+[12] Je reconnais que certains contribuables ayant des oppositions liées à la GLGI peuvent également s'opposer à d'autres éléments et que ces oppositions peuvent prendre plus de temps à traiter, mais les difficultés de ces oppositions découlent d'autres éléments que ceux liés à la GLGI.
+[13] Observations écrites de l'intimée du 30 janvier 2020, aux paragraphes 28 et 29.
+[14] Observations écrites de l'intimée du 30 janvier 2020, au paragraphe 29.
+[15] R. c. Scott, [1990] 3 R.C.S. 979, p. 1007.
+[16] Kibalian c. La Reine, 2019 CAF 160.
+[17] Mariano c. La Reine, 2016 CCI 161, au paragraphe 53.
+[18] Main Rehabilitation Co. Ltd. c. La Reine, 2004 CAF 403 (autorisation d'interjeter appel à la CSC refusée, [2005] S.C.C.A. no 37 (QL)).
+[19] Markman v. Minister of National Revenue, 89 D.T.C. 253.
+[20] Loi sur les Cours fédérales, alinéa 18(1)a).
+[21] Dans la décision Foroglou c. La Reine, 2020 CCI 117, aux paragraphes 24 à 28, j'ai énoncé plusieurs raisons pour lesquelles un contribuable pourrait choisir de ne pas exercer ses droits aux termes de l'alinéa 169(1)b).
+[22] Bolton c. La Reine, [1996] A.C.F. no 820 (QL), et Ford c. La Reine, 2014 CAF 257.
+[23] Ereiser c. Canada, 2013 CAF 20, [2013] 2 R.C.F. F‑9, JP Morgan Asset Management (Canada) Inc. c. Canada (Revenu national), 2013 CAF 250, [2014] 2 R.C.F. 557, Addison & Leyen Ltd. c. Canada, 2006 CAF 107, [2006] 4 R.C.F. 532 (appel accueilli pour d'autres motifs, 2007 CSC 33, [2007] 2 R.C.S. 793), et Main Rehabilitation Co. Ltd. c. La Reine, précité (autorisation d'interjeter appel refusée, [2005] S.C.C.A. no 37 (QL)).
+[24] Loi sur la Cour canadienne de l'impôt, paragraphe 12(3).
+[25] Ministre du Revenu national c. McMahon, 2020 CCI 104, aux paragraphes 42 à 45 et 49.
+[26] 2017 CCI 222, conf. par 2019 CAF 5, autorisation d'interjeter appel à la CSC refusée, no 38543.
+[27] Lorsque les requêtes portant sur les autres contribuables seront entendues, ces contribuables pourront demander des dépens relativement aux retards ou au préjudice qu'ils estiment avoir été causés par les actions de l'intimée dans Abdalla. Cela n'a rien à voir avec les appelants.
+[28] Loi sur la faillite et l'insolvabilité, L.R.C. 1985, ch. B‑3, article 183.
+[29] Johnson c. La Reine, 2015 CAF 51.
+[30] 2020 CCI 36.
+[31] Sweetman, au paragraphe 9.
+[32] L'avocat mentionné au paragraphe 17 de la décision Sweetman est un autre avocat.
+[33] Les observations écrites des appelants du 21 septembre 2020 mentionnent une contribuable nommée Shirley Alexander qui a tenté d'intervenir dans la décision Markou c. La Reine, CSC, no 39050 (une demande d'autorisation d'interjeter appel de la décision 2019 CAF 299).

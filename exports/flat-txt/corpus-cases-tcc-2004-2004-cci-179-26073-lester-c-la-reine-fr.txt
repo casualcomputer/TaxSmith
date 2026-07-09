@@ -1,0 +1,109 @@
+Title: Lester c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26073/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-179-26073-lester-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-24
+
+# Lester c. La Reine
+
+- Citation: 2004 CCI 179
+- Decision date: 2004-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4068, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lester c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-24
+Référence neutre
+2004 CCI 179
+Numéro de dossier
+2003-1680(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1680(IT)I
+ENTRE :
+HAROLD G. LESTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 21 novembre 2003 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Martin Fortier
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l'avocate de l'intimée afin d’obtenir une ordonnance rejetant l'appel de l'appelant pour défaut de juridiction de la Cour;
+Vu la déclaration sous serment d'Alain Solliec, déposée;
+Et vu les allégations des parties;
+La requête est rejetée et une prolongation de délai de 30 jours est accordée (de la signature de l'Ordonnance) à l'intimée pour déposer et signifier une réponse à l'avis d'appel selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de février 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI179
+Date : 20040224
+Dossier : 2003-1680(IT)I
+ENTRE :
+HAROLD G. LESTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bédard
+[1] L'intimée demande l'annulation de l'appel en l'instance, interjeté à l'encontre d'une cotisation établie à l'égard de monsieur Harold G. Lester pour l'année d'imposition 2001, pour le motif que, monsieur Lester ayant omis de signifier un avis d'opposition à la cotisation comme il est tenu de le faire en vertu de l'article 165 de la Loi de l'impôt sur le revenu (la « Loi »), il ne peut interjeter appel en vertu de l'article 169 de la Loi.
+[2] Le 2 décembre 2002, le ministre du Revenu national (le « Ministre ») émet une cotisation à l'égard de monsieur Lester pour l'année d'imposition 2001.
+[3] Le 27 décembre 2002, l'avocat de monsieur Lester signifie par huissier une lettre datée du 20 décembre 2002 à l'Agence des douanes et du revenu du Canada par laquelle il demande de réviser la cotisation du 2 décembre 2002. La lettre expose les motifs d'opposition à la cotisation et est signifiée au 2251, boulevard René Lévesque, ville de Saguenay, arrondissement Jonquière (Québec).
+[4] Le Ministre a nécessairement pris connaissance de la lettre du 20 décembre 2002 puisqu'un de ses représentants avise, dans une lettre datée du 24 janvier 2003, monsieur Lester qu'il lui accorde une déduction pour pension alimentaire au montant de 3 655 $ mais qu'il refuse une déduction supplémentaire de 14 000 $, au motif qu'un paiement forfaitaire n'est pas considéré comme une pension alimentaire en vertu de la Loi.
+[5] Le 31 janvier 2003, le Ministre émet une nouvelle cotisation à l'égard de monsieur Lester pour l'année d'imposition 2001 lui accordant une déduction de 3 655 $ au titre de déduction pour pension alimentaire.
+[6] Le 29 avril 2003, monsieur Lester interjette appel auprès de la Cour pour faire annuler la nouvelle cotisation du 31 janvier 2003.
+[7] Le Ministre demande l'annulation de l'appel en l'instance au motif que monsieur Lester n'a pas signifié un avis d'opposition en vertu du paragraphe 165(1) de la Loi. En fait, le Ministre soutient que la lettre du 20 décembre 2002 n'est pas un avis d'opposition au sens du paragraphe 165(1) de la Loi.
+[8] Avec le plus grand respect pour l'opinion contraire, je suis d'avis qu'en signifiant sa lettre du 20 décembre 2002 qui demande la révision de la cotisation et expose les motifs de son opposition, monsieur Lester a respecté l'esprit des dispositions prévues à l'article 165 de la Loi. Comme le démontre la lettre du représentant du Ministre et la nouvelle cotisation, il est indéniable que le Ministre a pris connaissance de la lettre du 20 décembre et l'a traitée comme il se doit.
+[9] Pour ces motifs, la requête de l'intimée est rejetée. Toutefois, j'accorde une prolongation de délai de 30 jours (de la signature de l'Ordonnance) à l'intimée pour déposer et signifier une réponse à l'avis d'appel.
+Signé à Ottawa, Canada, ce 24e jour de février 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI179
+No DU DOSSIER DE LA COUR :
+2003-1680(IT)I
+INTITULÉ DE LA CAUSE :
+Harold G. Lester et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 21 novembre 2003
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Paul Bédard
+DATE DE L'ORDONNANCE :
+Le 24 février 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Martin Fortier
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Martin Fortier
+Étude :
+De Chantal, D'Amour, Fortier
+Longueuil (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

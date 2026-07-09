@@ -1,0 +1,230 @@
+Title: Cogema Resources Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28456/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-750-28456-cogema-resources-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-11-09
+
+# Cogema Resources Inc. c. La Reine
+
+- Citation: 2004 CCI 750
+- Decision date: 2004-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1189, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cogema Resources Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-09
+Référence neutre
+2004 CCI 750
+Numéro de dossier
+2002-2640(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-2640(IT)G
+ENTRE :
+COGEMA RESOURCES INC. (SOCIÉTÉ REMPLAÇANTE DE 3326110 CANADA LTD., ANCIENNEMENT CORONA GRANDE EXPLORATION CORPORATION),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Cogema Resources Inc. (2002-3762(IT)G et 2002-4062(IT)G), le 1er novembre 2004, à Saskatoon (Saskatchewan)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante :
+Me Kurt Wintermute
+Avocat de l'intimée :
+Me Gerald Chartier
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1994, 1995 et 1996 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L'appelante se voit accorder les dépens entre parties, mais un seul mémoire de frais doit être taxé en ce qui a trait à l'audience.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2004.
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-3762(IT)G
+ENTRE :
+COGEMA RESOURCES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Cogema Resources Inc. (société remplaçante de 3326110 Canada Ltd., anciennement Corona Grande Exploration Corporation) (2002-2640(IT)G) et de Cogema Resources Inc.
+(2002-4062(IT)G), le 1er novembre 2004, à Saskatoon (Saskatchewan)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante :
+Me Kurt Wintermute
+Avocat de l'intimée :
+Me Gerald Chartier
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1994 et 1995 sont admis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L'appelante se voit accorder les dépens entre parties, mais un seul mémoire de frais doit être taxé en ce qui a trait à l'audience.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2004.
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-4062(IT)G
+ENTRE :
+COGEMA RESOURCES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Cogema Resources Inc. (société remplaçante de 3326110 Canada Ltd., anciennement Corona Grande Exploration Corporation) (2002-2640(IT)G) et de Cogema Resources Inc.
+(2002-3762(IT)G), le 1er novembre 2004, à Saskatoon (Saskatchewan)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelante :
+Me Kurt Wintermute
+Avocat de l'intimée :
+Me Gerald Chartier
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1996 est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L'appelante se voit accorder les dépens entre parties, mais un seul mémoire de frais doit être taxé en ce qui a trait à l'audience.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2004.
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI750
+Date : 20041109
+Dossier : 2002-2640(IT)G
+ENTRE :
+COGEMA RESOURCES INC. (SOCIÉTÉ REMPLAÇANTE DE 3326110 CANADA LTD., ANCIENNEMENT CORONA GRANDE EXPLORATION CORPORATION),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2002-3762(IT)G
+2002-4062(IT)G
+ENTRE :
+COGEMA RESOURCES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les appels interjetés à l'égard des années d'imposition 1994, 1995 et 1996 ont été entendus ensemble sur preuve commune à Saskatoon (Saskatchewan) le 1er novembre 2004. L'appelante a appelé à témoigner son vice‑président directeur et son dirigeant financier, Gerald Sherman, C.A., et a consigné en preuve une partie de l'interrogatoire préalable du vérificateur de l'intimée dans cette affaire, Patrick Robert Saint Pierre. L'avocat de l'intimée a présenté divers documents, sans que l'appelante ne s'y oppose.
+[2] Au début de l'audience, les parties ont présenté la pièce AR‑1 selon laquelle elles consentent à jugement, à une question près. Les questions sont tranchées en conséquence. Le document se lit comme suit :
+[TRADUCTION]
+QUESTIONS EN LITIGE ADMISES PAR L'INTIMÉE
+2002-2640(IT)G
+Cogema Resources Inc. (société remplaçante de 3326110 Canada Ltd., anciennement Corona Grande Exploration Corporation) c. Le ministre du Revenu national
+1. À l'égard de l'année d'imposition 1994 de l'appelante, permettre une déduction à la société de personnes Cluff Mining pour le loyer payé, en fonction du bail de surface, d'un montant de 528 179,25 $ en tant que dépense déductible à juste titre pour 1994, ce qui donne lieu à la réduction du revenu de société de personnes de la société remplacée par l'appelante, soit la société Corona Grande Exploration Corporation, d'un montant de 105 635 $.
+2. À l'égard de l'année d'imposition 1995 de l'appelante, permettre une déduction à la société de personnes Cluff Mining pour le loyer payé, en fonction du bail de surface, d'un montant de 528 179,25 $ en tant que dépense déductible à juste titre pour 1995, ce qui donne lieu à la réduction du revenu de société de personnes de la société remplacée par l'appelante, soit la société Corona Grande Exploration Corporation, d'un montant de 105 635 $.
+3. À l'égard de l'année d'imposition 1996 de l'appelante, permettre une déduction à la société de personnes Cluff Mining pour le loyer payé, en fonction du bail de surface, d'un montant de 504 300,25 $ en tant que dépense déductible à juste titre pour 1996, ce qui donne lieu à la réduction du revenu de société de personnes de la société remplacée par l'appelante, soit la société Corona Grande Exploration Corporation, d'un montant de 100 860,05 $.
+2002-3762(IT)G
+Cogema Resources Inc. c. Le ministre du Revenu national
+1. À l'égard de l'année d'imposition 1994 de l'appelante, permettre la déduction d'intérêts additionnels d'un montant de 28 005 $ en tant que dépense déductible à juste titre pour 1994.
+2. À l'égard de l'année d'imposition 1994 de l'appelante, permettre la déduction pour le loyer payé d'un montant de 528 179 $ en tant que dépense déductible à juste titre pour 1994, ce qui donne lieu à la réduction du revenu de société de personnes de l'appelante d'un montant de 422 543 $.
+3. À l'égard de l'année d'imposition 1995 de l'appelante, permettre la déduction d'intérêts d'un montant de 104 269 $ en tant que dépense déductible à juste titre pour 1995.
+4. À l'égard de l'année d'imposition 1995 de l'appelante, permettre à la société de personnes Cluff Mining de déduire le loyer payé d'un montant de 528 179 $ en tant que dépense déductible à juste titre pour 1995, ce qui donne lieu à la réduction du revenu de société de personnes de l'appelante d'un montant de 422 543 $.
+2002-4062(IT)G
+Cogema Resources Inc. c. Le ministre du Revenu national
+1. À l'égard de l'année d'imposition 1996 de l'appelante, permettre la déduction de frais d'intérêts d'un montant de 979 901 $.
+2. À l'égard de l'année d'imposition 1996 de l'appelante, permettre à la société de personnes Cluff Mining de déduire le loyer payé d'un montant 504 300 $ en tant que dépense déductible à juste titre pour 1996, ce qui donne lieu à la réduction du revenu de société de personnes de l'appelante d'un montant de 403 440 $.
+[3] L'appelante (« Cogema ») faisait l'extraction de minerai d'uranium en Saskatchewan. Elle déduisait une surtaxe sur les ressources qu'elle payait relativement au yellow cake d'uranium (U3 O8) en application de la loi intitulée Corporation Capital Tax Act (Saskatchewan) (Loi de l'impôt sur le capital des sociétés), S.S. 1979‑80, c. C‑38.1 (la « loi de la Saskatchewan »). À l'audience, la principale question en litige était de savoir si la surtaxe était une taxe payée rattachée à la production au Canada d'une ressource minérale située au Canada, et si la déduction de cette surtaxe devait être refusée en application de l'alinéa 18(1)m) de la Loi de l'impôt sur le revenu.
+[4] La division 18(1)(m)(v)(B) de la Loi de l'impôt sur le revenu visant les années 1994 à 1996, se lit comme suit :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles : […]
+m) Redevances, etc. — toute somme (autre qu'une somme prescrite) payée ou payable en vertu d'une obligation imposée par une loi ou d'une obligation contractuelle qui remplace une obligation imposée par une loi :
+(i) à Sa Majesté du chef du Canada ou d'une province,
+(ii) à un mandataire de Sa Majesté du chef du Canada ou d'une province,
+(iii) à une société, une commission ou une association contrôlée par Sa Majesté du chef du Canada ou d'une province ou par un mandataire de Sa Majesté du chef du Canada ou d'une province,
+à titre de redevance, de taxe (autre qu'une taxe ou fraction de taxe qu'il est raisonnable de considérer comme une taxe municipale ou scolaire), de loyer ou de prime, ou à titre de somme, quelle que soit la façon dont elle est désignée, qu'il est raisonnable de considérer comme tenant lieu d'une telle somme, qu'il est raisonnable de considérer comme rattachée :
+(iv) soit à l'acquisition, à l'aménagement ou à la propriété d'un avoir minier canadien,
+(v) soit à la production au Canada :
+[…]
+(B) de métaux, de minéraux, à l'exclusion du fer, du pétrole et des hydrocarbures connexes, ou de charbon tirés de ressources minérales situées au Canada, jusqu'à un stade qui ne dépasse pas celui du métal primaire ou de son équivalent,
+[…]
+[5] Les déductions demandées par Cogema pour la surtaxe payée en application de la loi de la Saskatchewan sont les suivantes :
+1994 2 020 888 $
+1995 1 612 637 $
+1996 1 879 699 $
+La surtaxe a été payée en application de l'article 13.1 de la loi de la Saskatchewan, qui, pour les années en litige, se lisait comme suit :
+[TRADUCTION]
+13.1 Outre l'impôt payable en application du paragraphe 13(1), une société d'exploitation de ressources doit, pour chacun de ses exercices, payer un impôt d'un montant équivalant à l'écart positif entre :
+a) le total de :
+[…]
+(iii) si un exercice, ou une partie d'un exercice, commence au plus tôt le 1er avril 1993, 3,6 % de la valeur des ventes de ressources enregistrées par la société pour cet exercice ou pour la partie de cet exercice,
+b) l'impôt payable, s'il y a lieu, par la société d'exploitation de ressources en application de la présente loi et déterminé en fonction du paragraphe 13(1) pour l'exercice correspondant mentionné à l'alinéa a).
+[6] La surtaxe n'a pas été payée au moment de la production du minerai ou du yellow cake. Elle a été payée au moment de la vente du yellow cake. Deux problèmes sont survenus concernant la vente.
+Le premier est survenu en 1995. Cogema a vendu du yellow cake qu'elle avait échangé et reçu de Denison. Monsieur Sherman « pensait » que le yellow cake de Denison n'était pas tiré entièrement de ressources situées en Saskatchewan. Le fait de « penser » n'est pas le fait de « savoir », et le fait de « penser » ne suffit pas pour réfuter les hypothèses de l'intimée voulant que tout le minerai en question provenait de la mine de Cluff Lake en Saskatchewan, qui était louée de la Saskatchewan. Monsieur Sherman a affirmé franchement et honnêtement ce qu'il pensait.
+[7] Le deuxième problème était que l'article 13.1 de la loi de la Saskatchewan prévoit l'imposition de la surtaxe sur la vente de la ressource, ce qui, à l'époque, était interprété par la Saskatchewan comme correspondant à la définition des « ventes brutes » donnée dans la partie III de la Crown Mineral Royalty Schedule, 1986 (Annexe de 1986 sur les redevances minières à la Couronne), en vertu des règlements intitulés Mineral Disposition Regulations, 1986) (Règlements de 1986 sur la disposition de minerai). La définition se lit comme suit :
+[TRADUCTION]
+15(1)n) « ventes brutes » — Total des prix de vente et de tous les autres montants payés ou payables au payeur de redevances, ou au profit de ce dernier, à l'égard du minerai d'uranium ou du concentré d'uranium qui est le produit d'une concession publique. Pour le calcul des ventes brutes, les règles établies à l'article 19 s'appliquent.
+Soit dit en passant, pour les besoins de la question en litige, les articles 19 et 32 des règlements font en sorte que la surtaxe sur l'échange est imposée au moment où Cogema vend les matériaux échangés, même s'ils ont été produits à l'extérieur du Canada. S'il n'était de ces dispositions, la Cour aurait conclu que la vente des matériaux échangés a eu lieu au moment où Cogema les a transférés à Denison. Donc, les articles 19 et 32 des règlements reportent l'imposition de la surtaxe.
+[8] L'alinéa 18(1)m) de la Loi de l'impôt sur le revenu interdit la déduction […] de toute somme payée […] [à la Saskatchewan] à titre de redevance, de taxe […] qu'il est raisonnable de considérer comme rattachée […] v) […] à la production au Canada […] (B) […] de minéraux […].
+[9] La preuve indique que le minerai ou le yellow cake produit ou en stock n'est pas assujetti à la surtaxe. La surtaxe est plutôt imposée au moment de la vente. Selon ce que soutient l'appelante, c'est pourquoi la surtaxe est essentiellement une taxe de vente et, par conséquent, est déductible. Afin d'interdire la déduction de la surtaxe, il aurait fallu que l'alinéa 18(1)m) mentionne le « produit de la vente ou de la disposition de la production ».
+[10] Selon ses arguments, l'intimée reconnaît que la surtaxe n'est pas imposée sur la production annuelle lorsque le yellow cake est produit par Cogema. La surtaxe est plutôt imposée lorsque les conditions présentées à l'article 13.1 de la loi de la Saskatchewan s'appliquent. Essentiellement, la valeur de la production, pour l'application de la surtaxe, est établie au moment de la vente, tel qu'il est indiqué dans la loi de la Saskatchewan.
+[11] En ce qui a trait à l'alinéa 18(1)m) de la Loi de l'impôt sur le revenu, le juge Sharlow, au nom de la Cour d'appel fédérale, a affirmé ce qui suit aux paragraphes 20 à 25 inclusivement de l'arrêt Mobil Oil Canada Ltd. c. La Reine, no A‑694‑99, 5 novembre 2001, 2001 D.T.C. 5668 :
+[20] À mon avis, la définition que propose Mobil implique à tort que le terme « redevance », tel qu'il est employé à l'alinéa 18(1)m), se limite au sens qu'il possède dans un contexte commercial. Il faut avoir à l'esprit que l'alinéa 18(1)m) porte essentiellement sur les paiements faits à la Couronne. Il est donc indiqué de se rappeler que le terme « redevance », dans son acception originale, renvoie aux prérogatives ou aux droits de la Couronne. Ce sens de « redevance » a été appliqué, dans le jugement Attorney-General of Ontario c. Mercer (1883), 8 App. Cas. 767 (P.C.), à l'interprétation de l'article 109 de ce qui est maintenant la Loi constitutionnelle de 1867, qui dispose :
+Toutes les terres, mines, minéraux et réserves royales appartenant aux différentes provinces du Canada, de la Nouvelle-Écosse et du Nouveau-Brunswick lors de l'union, et toutes les sommes d'argent alors dues ou payables pour ces terres, mines, minéraux et réserves royales, appartiendront aux différentes provinces d'Ontario, Québec, la Nouvelle-Écosse et le Nouveau-Brunswick, dans lesquelles ils sont sis et situés, ou exigibles, restant toujours soumis aux charges dont ils sont grevés, ainsi qu'à tous intérêts autres que ceux que peut y avoir la province.
+All Lands, Mines, Minerals, and Royalties belonging to the several Provinces of Canada, Nova Scotia, and New Brunswick at the Union, and all Sums then due or payable for such Lands, Mines, Minerals, or Royalties, shall belong to the several Provinces of Ontario, Quebec, Nova Scotia, and New Brunswick in which the same are situate or arise, subject to any Trusts existing in respect thereof, and to any Interest other than that of the Province in the same.
+[21] Le mot « redevance » est encore utilisé au Canada pour décrire un paiement prévu par une loi provinciale qui doit être fait à la province à titre de part prise dans la production d'une ressource. En général, quand il s'agit d'une ressource dont la province est propriétaire, il existe une loi provinciale autorisant les baux sous réserve du paiement de redevances. Le Mineral Resources Act, R.S.S. 1978, ch. M‑16 de la Saskatchewan fournit un exemple de ce type de loi. Toutefois, il n'existe pas de jurisprudence laissant entendre que le terme « redevance » se limite aux sommes payées en vertu d'un tel arrangement. Dans le contexte des paiements faits à une province, le mot « redevance » peut décrire toute part prise à la production de la ressource qui est payée à la province eu égard au droit de la province sur cette ressource.
+[22] En vertu du Road Allowances Crown Oil Act, Mobil avait le droit de vendre la totalité de sa production de pétrole des années visées par l'appel, y compris la part de 1,88 % de la province, sous réserve de payer à la province une somme correspondant à 1 % de la valeur totale de la production. À mes yeux, ce paiement de 1 % constitue une redevance même si c'est le Road Allowances Crown Oil Act lui-même qui a créé ce droit de propriété de 1,88 % accordé à la province. Je conclus par conséquent que les paiements en cause sont des « redevances » au sens de l'alinéa 18(1)m) de la Loi de l'impôt sur le revenu.
+Seconde condition : À quoi s'appliquent ces paiements?
+[23] S'agissant de la seconde condition, seul le sous-alinéa 18(1)m)(v) doit être pris en considération. À l'appui de sa position que les paiements n'entrent pas sous le champ d'application du sous-alinéa 18(1)m)(v), Mobil fait valoir que les paiements représentent la part nette de la province de son droit de propriété de 1,88 % dans le pétrole produit et que Mobil n'avait pas de droit à l'égard de la part de 1,88 % de la province.
+[24] Je n'interprète pas le sous-alinéa 18(1)m)(v) comme imposant quelque condition au droit de propriété sur le pétrole visé par les paiements. À mon avis, deux seules questions se posent. La première est de savoir si Mobil avait le droit d'extraire du pétrole provenant des terrains. La réponse à cette question est incontestablement oui. Mobil était titulaire de baux qui constituaient la source légale de son droit d'extraction du pétrole. Le fait que la production du pétrole entraînait certaines obligations au titre du Road Allowances Crown Oil Act ne changeait rien aux droits consentis à Mobil par les baux d'extraire du pétrole des terrains. La seconde question est de savoir si les paiements peuvent raisonnablement être considérés comme reliés à l'exercice du droit de Mobil d'extraire du pétrole des terrains. La réponse à cette question est également affirmative. L'article 4 du Road Allowances Crown Oil Act lie expressément l'exercice du droit à l'obligation d'effectuer les paiements. Il s'ensuit que les paiements tombent sous le régime du sous-alinéa 18(1)m)(v).
+Conclusion
+[25] Le juge de première instance a conclu avec raison que, dans le calcul du revenu de Mobil pour les années 1977, 1978, 1979 et 1980, l'alinéa 18(1)m) de la Loi de l'impôt sur le revenu interdit la déduction de paiements faits à la province de Saskatchewan en vertu de l'article 4 du Road Allowances Crown Oil Act. Ces appels devraient être rejetés avec dépens.
+[12] En fin de compte, la question suivante se pose en ce qui a trait à la surtaxe :
+La surtaxe serait-elle imposée à l'appelante si le yellow cake n'était pas vendu par l'appelante et qu'il était plutôt utilisé par celle-ci pour fabriquer un produit, comme des barres de combustible d'uranium, qu'elle utiliserait elle‑même?
+[13] Selon l'alinéa 15(1)n) (voir le paragraphe [7]), la réponse est :
+Non.
+Il n'y aurait pas de prix de vente […] payés […] au payeur de redevances […] à l'égard du minerai d'uranium ou du concentré d'uranium.
+[14] La réponse négative serait correcte, même si les barres de combustible d'uranium ne dépassaient pas le stade du métal primaire ou de son équivalent (division 18(1)n)(v)(B)), parce qu'en application de la loi de la Saskatchewan et des règlements, elles doivent être vendues pour que la surtaxe soit appliquée.
+[15] Autrement dit, la seconde question à laquelle a répondu le juge Sharlow au paragraphe [24] de l'arrêt Mobil doit recevoir ici une réponse négative, étant donné que la surtaxe était liée à la vente réelle du minerai par Cogema et non au droit de Cogema d'extraire le minerai du sol. La surtaxe était une taxe de vente et était associée à la vente de minerai, et non à la production de minerai.
+[16] Les appels sont admis et les affaires sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-dessus.
+[17] L'appelante se voit accorder les dépens entre parties, mais un seul mémoire de frais doit être taxé en ce qui a trait à l'audience.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2004CCI750
+No DES DOSSIERS DE LA COUR :
+2002-2640(IT)G, 2002-4062(IT)G, 2002-3762(IT)G
+INTITULÉ DE LA CAUSE :
+Cogema Resources Inc. c. La Reine
+LIEU DE L'AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L'AUDIENCE :
+Le 1er novembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 9 novembre 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Kurt Wintermute
+Avocat de l'intimée :
+Me Gerald Chartier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Kurt Wintermute
+Cabinet :
+MacPherson Leslie & Tyerman
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

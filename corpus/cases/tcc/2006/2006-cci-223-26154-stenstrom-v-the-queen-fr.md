@@ -1,0 +1,140 @@
+---
+title: "Stenstrom v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26154/index.do"
+last_modified: "2006-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 223"
+citation2: ""
+neutral_citation: "2006 CCI 223"
+decision_date: "2006-04-10"
+language: "fr"
+item_id: "26154"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3952
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:42:39.162000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d629294dc86ab6f76ede66dbe3825d83b968dd5c88a863b1c001a6af82a81ae6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stenstrom v. The Queen
+
+- Citation: 2006 CCI 223
+- Decision date: 2006-04-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3952, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stenstrom v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-10
+Référence neutre
+2006 CCI 223
+Numéro de dossier
+2005-1556(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005‑1556(IT)I ENTRE :
+LENA STENSTROM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 avril 2006 à Regina (Saskatchewan)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Représentant de l’appelante :
+Lee C. Merriman
+Avocate de l’intimée :
+Me Sharlene Telles‑Langdon
+____________________________________________________________________
+JUGEMENT
+La demande de l’intimée visant à faire annuler les prétendus appels interjetés par l’appelante à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001 et 2002 est accueillie, et les prétendus appels sont annulés.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour d’avril 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 20e jour de juin 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI223
+Date : 20060410
+Dossier : 2005‑1556(IT)I
+ENTRE :
+LENA STENSTROM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel visant les années 1985 à 2003 a été entendu à Regina en Saskatchewan le 4 avril 2006. L’appelante a témoigné. L’intimée a cité le Dr Suresh Kasset, le médecin de famille de l’appelante. L’appelante et son médecin de famille habitaient tous deux à Herbert en Saskatchewan pendant toute la période pertinente et y habitent toujours.
+[2] D'entrée de jeu, l’intimée a demandé à la Cour d’annuler les appels visant les années 1985 à 2002 inclusivement au motif qu’aucun avis d’opposition pour les années en question n’avait été déposé en temps opportun. La réponse à l’avis d’appel décrit précisément les dates et les événements relatifs à cette demande, lesquels sont confirmés par l’information présentée à la page deux de l’avis d’appel. Aucune preuve n’a réfuté cette description. L’exposé des observations des deux parties corrobore lui aussi les précisions formulées dans la réponse à l’avis d’appel. Par conséquent, les appels visant les années 1985 à 2002 inclusivement sont annulés au motif qu’aucun avis d’opposition n’a été déposé en temps opportun à l’égard de ces années-là par l’appelante.
+[3] L’avocate de l’intimée a reconnu que la Cour était régulièrement saisie de l’appel visant l’année 2003, et l’appel en question a été entendu.
+[4] Le présent appel porte sur le refus d’une demande de crédit d'impôt pour personnes handicapées présentée par l’appelante pour l’année 2003. Le paragraphe 26 de la réponse à l’avis d’appel est ainsi rédigé :
+[traduction]
+26. La cotisation que le ministre a établie à l’égard de l’appelante repose sur les hypothèses de fait suivantes :
+a) l’appelante souffre de douleurs et d’inflammation;
+b) pendant toute la période pertinente, l’appelante était capable de marcher sans l’aide d’un fauteuil roulant ou d’un autre appareil de marche;
+c) l’appelante n’a pas de déficience mentale ou physique grave et prolongée;
+d) les effets de la déficience de l’appelante ne sont pas tels que la capacité de l’appelante d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée.
+[5] L’appelante a reconnu qu’en 2003 elle faisait 100 mètres à pied sans assistance ou aide à la marche. Elle a affirmé que, à cause de douleurs ou d’essoufflement, il était probable qu’elle devait interrompre sa marche de 100 mètres pour s’arrêter pendant un moment ou pour s’asseoir. Cependant, quoi qu’il en soit, le temps dont elle avait besoin pour parcourir 100 mètres à pied était supérieur d’environ vingt pour cent au temps dont aurait besoin normalement une personne de son âge. Elle a aussi déclaré que son état s’était détérioré en 2005 par rapport à 2003, mais qu’en 2005 elle était capable de tondre sa pelouse et le faisait.
+[6] Son médecin, Dr Kasset, a rempli la pièce A-1, le Certificat pour le crédit d'impôt pour personnes handicapées, le 5 mai 2004. Il a indiqué à la page deux que la capacité de l’appelante à marcher était limitée de façon marquée et il a ajouté :
+[traduction]
+Douleurs et inflammation de la peau et des articulations. Cette patiente ne travaille pas depuis 1985 à cause de sa déficience, mais elle est capable de faire 100 mètres à pied sans utiliser un fauteuil roulant ou un autre appareil de marche.
+[7] Herbert a une population d’environ 1 000 habitants, et le Dr Kassett y rencontre Mme Stenstrom à l’occasion. Le Dr Kassett a aussi estimé que le temps dont elle avait besoin pour parcourir 100 mètres à pied était supérieur d’environ vingt pour cent au temps dont aurait besoin normalement une personne de son âge.
+[8] L’appelante a témoigné que, lorsqu’elle magasine dans un centre commercial, elle prend un chariot pour s’y appuyer. Elle prend appui sur sa tondeuse lorsqu’elle tond sa pelouse.
+[9] L’appelante souffre depuis 1985 de sclérodermie et du phénomène de Raynaud, maladies pour lesquelles elle prend des médicaments toxiques.
+[10] Cependant, compte tenu de la preuve présentée devant la Cour, l’appelante était capable, en 2003, de marcher sans y consacrer un temps excessif aux termes du paragraphe 118.4(1) de la Loi de l’impôt sur le revenu. Ses symptômes sont permanents et douloureux, et sa maladie est évolutive, mais, en 2003, la gravité de sa déficience, caractérisée par la douleur et l’essoufflement, n’était pas telle qu’elle était incapable de marcher sans y consacrer un temps excessif.
+[11] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour d’avril 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 20e jour de juin 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI223
+Nº DU DOSSIER DE LA COUR : 2005‑1556(IT)I
+INTITULÉ : Lena Stenstrom et La Reine
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 3 avril 2006
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 10 avril 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Lee C. Merriman
+Avocate de l’intimée :
+Me Sharlene Telles‑Langdon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

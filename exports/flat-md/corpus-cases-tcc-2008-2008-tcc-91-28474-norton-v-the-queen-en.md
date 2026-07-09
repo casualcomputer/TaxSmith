@@ -1,0 +1,253 @@
+---
+title: "Norton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28474/index.do"
+last_modified: "2008-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 91"
+citation2: ""
+neutral_citation: "2008 TCC 91"
+decision_date: "2008-02-08"
+language: "en"
+item_id: "28474"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1272
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:33:15.491000+00:00"
+cases_cited_count: 8
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c93bc611ec8cc401b2a9b9dcf2c9b0be9ed73e2e71f4b3b0c7a437cf849e204"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Norton v. The Queen
+
+- Citation: 2008 TCC 91
+- Decision date: 2008-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1272, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-08
+Neutral citation
+2008 TCC 91
+File numbers
+2004-396(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC91
+Date: 20080208
+Docket: 2004‑396(IT)G
+BETWEEN:
+PATRICIA NORTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on August 3, 2007,
+in Vancouver, British Columbia, and modified for clarity and accuracy.)
+Archambault J.
+[1] Mrs. Patricia Norton is appealing income tax assessments issued by the Minister of National Revenue (Minister) with respect to the 1996 and 1997 taxation years. The issue is whether Mrs. Norton is entitled to an income tax credit in respect of a donation of $20,000 made in 1996 to the Association for the Betterment of Literacy and Education (ABLE). She claimed $6,049 in 1996 and, as a carry-over from 1996, $6,747 in 1997.
+[2] During the course of his argument, counsel for the respondent submitted to the Court written argument in which he presented an overview of the case and a statement of the facts starting at paragraph 11, both of which I reproduce hereunder. The comments in the footnotes are mine.
+OVERVIEW
+1. This appeal concerns whether a $20,000 payment by the Appellant to The Association for the Betterment of Literacy and Education ("A.B.L.E.") was a 'gift' giving rise to a charitable donation tax deduction pursuant to section 118.1 of the Income Tax Act (the "Act").
+2. The Appellant's 'donation' was on December 30, 1996. Her check was cashed on January 7, 1997, and on January 14, 1997 she received a payment of 75% of her donation ($15,000).
+3. The Respondent characterizes the $15,000 payment as a kickback[1] and says that the receipt of a kickback is consideration that vitiates a gift.
+4. Further, the Respondent has proof that of the 101 participants in the 'kickback' variant of the scheme 100 got the kickback of 75% of their 'donation' (the remaining 'donor', Mr. Richard Coglon was not audited but received payments form [sic] the Appellant's husband's company.[2])
+5. The Respondent's [sic] assumed that A.B.L.E. operated in 1993, 1994 and 1995 to operate tax schemes where 'donors' received inflated receipts worth four times their actual cash outlay. These assumptions were not demolished.
+6. In documents written prior to trial, the Appellant characterized the $15,000 kickback as a 'gift' but then during trial, the Appellant's evidence was that she simply won a lottery organized by the promoter of the charity, J.I.T. Fundraising Corp. ("J.I.T.").
+7. J.I.T. was owned and operated by William ('Bill') Norton, the Appellant's husband. J.I.T. raised $3,129,290 for A.B.L.E. during the last quarter of 1996 and was paid $163,015 by A.B.L.E.
+8. Bill Norton gave extensive evidence that the charitable lottery idea was his and that he wanted to develop the business plan. He also testified that the 'odds of winning' were 1 in 3.
+9. Not one single document created in 1996 or before referenced a lottery or odds of winning.
+. . .
+PART II – FACTS
+11. The Respondent submits that assumption 10(a), 10(b)(i) and 10(b)(ii) [of the Reply to the Notice of Appeal] were not rebutted:
+10(a) A.B.L.E. was organized and promoted as a tax shelter by Henry N. Thill.
+10(b) The mechanics of the A.B.L.E. tax shelter varied from year to year and from investor to investor:
+i)
+In 1993 and 1994 it was promoted primarily as the Funded Charitable Donation Program (the "FCDP") in which a Taxpayer:
+(a)
+Decided the amount for which it wanted a charitable receipt;
+(b)
+Paid 25% of that amount as 'insurance premiums';
+(c)
+Used the 'insurance' to secure and, eventually, satisfy a 30 year 'loan' from a British Virgin Islands company;
+(d)
+Used the 'proceeds' of the 'loan' to make the 'contribution' to A.B.L.E.; and
+(e)
+Received a charitable receipt from A.B.L.E. for the entire 100% 'loan' amount and thus realized a high overall rate of return on the 25% invested.
+[the "Fake Loan Variant"]
+(ii)
+In 1995 the tax shelter was promoted as the Publishers' Philanthropic Fund of Bermuda (the "PPF") and, to a lesser extent, as the Gift Provider's Fund. The PPF was described as a group of "Publishers, royalty rights holders and producers of intellectual properties [that] have over many years profited enormously through their individual and collective enterprise" and have decided "to give some of this wealth back to society" through contributions piggy-backed onto Taxpayers' contributions in a ratio of 3:1, while remaining anonymous, and allowing the 'select' Taxpayers to receive the entire charitable receipt amount. Thus, in this variant, the Taxpayer:
+(a)
+Decided the amount for which it wanted a charitable receipt;
+(b)
+Contributed 25% of that amount;
+(c)
+Received a top-up 'contribution' equal to three times the size of the initial contribution through the anonymous benevolence of the PPF; and
+(d)
+Received a charitable receipt for A.B.L.E. for the entire amount and thus realized a high overall rate of return on the 25% invested.
+[The "Top-Up Variant"]
+12. In short, prior to 1996, A.B.L.E. had a three year track record of promoting tax schemes where donors received inflated charitable donation receipts for four times the 'donors' [sic] actual cash outlay.[3]
+13. On September 19, 1996, Bill Norton formed J.I.T. to promote A.B.L.E.[4] [Evidence of Mr. Norton, R1 Volume 1, Tab 7, page 214, 219, R2 draft affidavit, paragraph 5].
+14. On October 18, 1996, J.I.T. signed a contract with A.B.L.E. to promote A.B.L.E. J.I.T. was entitled to commissions of 5% of all donations raised.[5] [R3, paragraph 2.2(h)].
+15. Between October 18, 1996 and December 31, 1996, J.I.T. raised $3,129,290 of 'donations' for A.B.L.E. [R1, Volume 1, Tab 7, page 229, and the oral evidence of Mr. Norton, in cross‑examination, admitting that the February 21, 1996 date was a typographical error and should have read February 21, 1997].
+16. In return for raising $3,129,290 for A.B.L.E., J.I.T. was paid gross commissions of $163,015.92. [R1, Volume 1, Tab 7, page 229].
+17. Using the gross commissions, J.I.T. issued cheques for $50,000 and $92,000 signed by Mr. Norton to one of Mr. Norton's other companies "Barely Legal". [R1, Volume 1, Tab 7, page 243 and 244, and the oral evidence of Mr. Norton acknowledging that 'Barely Legal' was his company].
+18. Mrs. Norton's tax returns confirm that she received payments from Barely Legal.
+19. Mr. Kuhn testified that in 1996 A.B.L.E. issued receipts for 235 'donors'. Mr. Kuhn's full breakdown of every 1996 donor was entered as evidence.[6] [R1, Volume 1, Tab 9.]
+20. Of the 235 1996 A.B.L.E. 'donors', 134 participated in the Top‑Up Variant of the scheme that had been running since 1995.
+21. Of the remaining 101 1996 'donors':
+a) Mr. Kuhn found that 91 received cheques for 75% of their 'donation'[7] (the "Kickback Cheques"). [Volume 1, Tab 9 summary, with every source cheque copied front and back and entered as evidence with in [sic] Volume 2, Tab 14].
+b) Mrs. Norton was one of the individuals who received a Kickback Cheque. [Volume 1, Tab 9, page 335‑336, and Volume 2, Tab 14, page 579‑580].
+c) For nine of the remaining 'donors' Mr. Kuhn found that there was a pattern of wire transfers from the same bank account that issued the Kickback Cheques. Although the wires went to countries with secrecy laws that prevented Mr. Kuhn from further tracing, Mr. Kuhn analysed the pattern of wire transfers and found that there was a striking pattern of wire transfers matching 75% of the amounts donated by the donors who had not received a Kickback Cheque. [R1, Volume 1, Tab 9, pages 341‑343].
+d) One of the taxpayers who Mr. Kuhn believed received a kickback by way of wire transfer was Mr. McPherson, who was the subject of a Tax Court of Canada case that found he had indeed received a kickback of 75% of his donation. [McPherson v. The Queen, 2006 TCC 648].
+e) The remaining taxpayer, Mr. Coglon, was not audited because his donation receipt was disallowed at the initial assessment stage. [Oral Evidence of Larry Kuhn].
+22. J.I.T. issued a cheque to Mr. Coglon on January 17, 1997. [R1, Volume 1, Tab 7, page 244].
+23. J.I.T. not only received commissions for the Wire‑Transfer Donors but went so far as to loan some of them the money for their donations. For example, Mr. Norton admitted that J.I.T. loaned Conrad Clemiss, $50,000 to make his donation. [Oral evidence of Bill Norton on cross‑examination, R1, Volume 1, Tab 7, page 243, and see also R1, Volume 1, Tab 11 documents from the trust accounts of James Comperelli].
+24. Every donor in 1993, 1994, and 1995 received a receipt with a face value of four times the cash the donor paid. [Undemolished assumptions].
+25. Mr. Norton's evidence was that he promoted A.B.L.E. based upon his 'lottery' idea where charitable donors could 'win' a lottery – thus making the charity he promoted more competitive and allowing him to realize a profit in commissions or other "revenue streams" such as "shared advertising".
+26. Although Mr. Norton provided two lottery style tickets for years after 1996 [A1(b) and (c) – the glossy tickets], the ticket he provided for 1996 [A1(a) – the non glossy ticket] makes no mention of a lottery but rather refers to a 'gift' from the PPF. [8]
+27. Not one single document corroborates Mr. Norton's evidence that he promoted A.B.L.E. in 1996 as a lottery. He admitted this fact under cross examination.[9]
+28. Mr. Norton testified that the 'odds of winning' in 1996 were 1 in 3. Not one single document corroborates his evidence and he admitted this fact under cross examination.
+29. Mr. Norton described attending one 'reverse draw' and speculated on multiple other draws for 'winners' in his 1996 'lottery'. Not one single document, not even an airline ticket, corroborates this evidence.[10]
+30. Mrs. Norton's evidence was that she relied upon and "trusted" her husband.[11]
+31. Mrs. Norton's evidence was that she could not remember how she decided to donate $20,000.
+32. Mr. Norton's evidence was that he was the person who picked the amount of $20,000.[12]
+33. Mrs. Norton was one [sic] the board of directors of A.B.L.E. in 1993.[13]
+34. Mrs. Norton's evidence was that she had never made any other charitable donation to A.B.L.E. or any other charity before or after the donation at issue in this appeal.[14]
+35. Prior to Mrs. Norton's December 30, 1996 donation, kickback cheques had already been issued to numerous (approximately 40) donors.[15]
+36. Mr. and Mrs. Norton disavowed knowledge of the references to an 'Educational Gift' in the promotional materials. [R1, Volume 1, Tab 5(a), page 60, Tab 5(b) page 77].
+37. Both Mr. and Mrs. Norton's evidence was that Mrs. Norton relied upon the 'promotional package' entered as Exhibit A5 that included A2, A3, and A4. [Oral evidence of Bill Norton] [16]
+38. A2 is identical (other than the exclusion of the legal opinion) to the document disavowed by the Norton's [sic] at R1, Volume 1, Tab 5(b).[17]
+39. A2 contains references to an educational gift.
+40. The Bennett Jones opinion relied upon by the Appellants assumes as a fact that donors may receive an education gift and that the determination of who shall receive a gift rests at the discretion of the PPF based upon the recommendations of fundraisers − such as JIT. [18] [See paragraph 6 of the Bennett Jones opinion, page 2].
+41. Mr. Norton testified that the PPF actually existed and that he had met its members: Henri, Nicolas Thil, and Don Fraser.
+42. Mr. Norton testified that Don Fraser was chairman of Eurobank.
+43. Mrs. Norton received her cheque from a Eurobank account. [R1, Volume 2, 594].
+44. Mr. Kuhn testified that at the conclusion of his 2‑3 year audit of over 594 A.B.L.E. donors he could find no evidence that the PPF actually existed. [19] Rather, his evidence was that it seemed to be just a 'circular flow of funds' skimming money off of inflated prices for the Speed Reading kits to, in essence, use the same money.[20]
+45. The Speed Reading kits given out by A.B.L.E. were the same speed reading kits used for over thirty years in various Thill schemes. [Oral evidence of Bill Norton and Larry Kuhn].
+[3] To these facts, I would add the following. In 1996, Mr. Norton wanted to create, with a business partner in Houston, Texas, a fundraising corporation that would use the sweepstakes technique and earn commission fees and possibly fees from the use of co‑operative advertising on the Internet. He said that in 1996 he met Mr. Thill's daughter-in-law, Ms. Marie Peters, who was at that time ABLE's president, for the purpose of discussing the charity’s fundraising.
+[4] Prior to committing to an agreement with ABLE, Mr. Norton did some due diligence. He checked to see whether ABLE was a duly registered charity for tax purposes. In the spring and summer of 1996, he also met a lawyer from the BJV firm to get a legal opinion on the arrangement (the donation program) to be used in connection with the raising of funds for ABLE. He also stated that he had the reading kit evaluated by a University of Toronto professor and by another professor from a U.S. education institution.
+[5] He was able to obtain from BJV a legal opinion which is dated September 25, 1996. However, I would stress that there is no mention in this opinion of the fact that the education gift would amount to 75% of the donation and that all people making a donation would be getting the education gift. The opinion also assumes that the donation is a "voluntary, unconditional and gratuitous transfer of property . . . made without the material expectation of receiving the [Education] Gift or any other benefit or consideration" (page 15 of Exhibit A‑2). It also states that, should there be such a material expectation, the donor would "likely not be entitled to [the] tax credit" for the donations (Ibid., page 19).
+[6] So the difficult issue facing Mr. Norton was whether the ABLE donation program involved a material expectation of receiving a benefit or consideration. He said that he discussed this issue with the BJV lawyer and explored the possibility that the so‑called education gift would be given in the context of a sweepstake mechanism where only one out of three donors would be entitled to receive the award, the gift or the winnings, depending on which version was used. He wanted, as I understand it, to deal with the issue of material expectation by creating uncertainty through having the draw combined with the raising of funds. However, his solution of paying the so‑called education gift ‑ which I call a partial reimbursement ‑ in such circumstances was not dealt with in the BJV written opinion for the reason that there were apparently some concerns about the issue of receiving a consideration for the donation and about the British Columbia legislation concerning “vice and gaming”, to use the words of Mr. Norton.
+Respondent's position
+[7] The respondent's position is outlined at paragraphs 46 to 60 of the respondent's written argument:
+PART III – LAW
+46. Section 118.1 of the Act provides for a charitable donation deduction that may be claimed by individuals who make charitable donations, gifts to the Crown and certain gifts of cultural property and ecologically sensitive land.
+47. Among the requirements for eligibility for the deduction is the requirement that the taxpayer make a "gift".
+48. The term "gift" is not defined in the Act so general principles of law govern with regard to gifts.
+The Queen v. Friedberg, 92 D.T.C. 6031 (FCA) at 6032.
+49. The Federal Court of Appeal in Friedberg went on to define "gift" as:
+a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (see Heald, J. in The Queen v. Zandstra [74 DTC 6416] [1974] 2 F.C. 254, at p. 261)
+50. The Respondent submits that, although a payment was made to A.B.L.E. by the Appellant during her 1996 taxation year, it did not qualify as a "gift".
+51. The Respondent submits that, on a balance of probabilities, the Court must find as a fact that the Appellant both anticipated and received the 75% kickback.
+52. It is trite law (and common sense) that the anticipation and receipt of a cash kickback of 75 % vitiates a gift. This has also been the recent finding of the Tax Court of Canada in a case with much weaker evidence.
+The Queen v. Friedberg, 92 D.T.C. 6031 (FCA) at 6032.
+McPherson v. HMTQ, 2006 TCC 648.
+53. It is submitted that this case turns on its facts.
+54. Mrs. Norton is married to the promoter of the 1996 Kickback Variant of the A.B.L.E. scheme.
+55. Not only is there a compelling pattern of similar fact evidence that suggests that A.B.L.E. always operated on the basis of providing inflated receipts in a ratio of 1:4, but the evidence is that is exactly what happened in Mrs. Norton's case ($20,000 in, $15,000 back).
+56. Further, the evidence is that every person audited in the Kickback Variant received a kickback. In Mrs. Norton's case, the government actually has the 'smoking gun' cheque.
+57. Mrs. Norton relies upon the lottery explanation of her husband. No documentary evidence supports this position despite the fact that her husband would be in a unique position to obtain documents as the promoter of the scheme.
+58. It is reasonable to infer that Mrs. Norton knew she would be getting the $15,000 kickback both because everyone else did and also because many donors before her had already gotten their cheques.
+59. A.B.L.E. has already been the subject of several decisions by the Tax Court of Canada and one decision by the Federal Court of Appeal.
+Doubinin v. H.M.T.Q., 2005 FCA 298; 2004 TCC 438.
+Webb v. Her Majesty the Queen, 2004 TCC 619 (TCC).
+Julian v. H.M.T.Q., 2004 TCC 330.
+McPherson v. The Queen, 2006 TCC 648.
+60 In no decision has an Appellant ever previously claimed to have paid the full donation and been successful in their appeal.
+[8] Mrs. Norton relied upon her husband's argument that there was no material expectation of receiving a gift because of the lottery mechanism. The only evidence to support her position was the two tickets that were filed as Exhibit A‑1 (the B and C portions).
+[9] As I pointed out during argument, the lottery ticket filed as Exhibit A‑1 B, is a ticket for the U.S. market and does not refer to ABLE; it refers rather to "A.B.L.E. ‑ Americans for the Betterment of Literacy and Education" (ABLE Americans). The address given for ABLE Americans is in Bellingham, Washington, and a Houston telephone number is provided. The evidence also established that these tickets were not available in 1996, but came out in subsequent years.
+Analysis
+[10] To the comments made by counsel for the Minister, I would add the following. I would start with the statement made by Justice Bowie in the Webb decision, which I think is also applicable here. At paragraph 17 he said:
+The circumstances that I have referred to lead me to conclude that there was nothing donative at all about Mr. Webb's payment to ABLE. His intention was to receive a tax credit for a charitable donation, as well as a substantial refund of the amount he had given, such that when the two were aggregated they would exceed the $30,000 for which he wrote the cheque.
+[11] I believe that this conclusion applies in Mrs. Norton's case. Even though Mr. Norton claims she did not know that she would receive the education gift, he was the fundraiser through JIT and knew — or ought to have known — that she would be receiving this education gift. He acknowledged that he may have been involved in determining the amount of $20,000 that was given by Mrs. Norton to ABLE. On a balance of probabilities, I conclude that he was the one who got her to make the $20,000 donation to ABLE. She relied on him in tax matters. She could hardly provide any information during her testimony without turning to her husband. Even when testifying about her own tax returns, she consulted him.
+[12] Moreover, she did not remember that she had communicated with the Department of National Revenue on the question of the $15,000 refund, but, after having been shown the statement (Exhibit R‑8) that she had sent to the Minister, she acknowledged having done so. However, I have reason to believe that the statement was not drafted by her, but by her husband. She stated that the date of March 10, 1998, was not written by her and, in my opinion, the person who wrote the handwritten statement is also the person who wrote the date of March 10, 1998. So it is not surprising that she would not remember having communicated with the Department.
+[13] I repeat that she stated, during the course of her testimony, that she had trusted her husband, and I believe that she did not know anything about the business model and knew nothing of the various details of the donation program: she completely relied on him to make the contribution. In my view, it is fair to conclude that Mr. Norton was the mastermind behind the payment of the $20,000 to ABLE given that he was the person in charge of raising funds for that organization, and that he could see, although he denies it, that the donors were paid the 75% reimbursement within a 15‑ to 60‑day period. In any event, he ought to have known that this was being done. He stated that it was important not to have too many losers in the draw in order to be in a position to raise funds. I would also mention again that there was an incentive for JIT to obtain as many donations as possible because its commissions depended upon it and the duration of its agreement also was dependent upon the amount of money being raised for the benefit of the charity.
+[14] I also believe that the record speaks for itself. In all previous years, the donors had been paid the refund or been getting the top-up contribution, although there was no guarantee that this would take place. In my view, the statements found in the documentation provided to donors — including the acknowledgement form on which each donor acknowledged that the donation was being made without any material expectation of receiving a gift — are only window dressing or self‑serving statements. The reality is that every donor in 1996 received a partial reimbursement of their contributions, and it is fair to assume that they expected to receive it.
+[15] I should point out that there is a credibility issue with respect to Mr. and Mrs. Norton's testimony. Although she believed that ABLE was a worthy cause, Mrs. Norton had never given any money to this charity from 1993, when she was on its board of directors, until 1996, when she made the $20,000 donation. The only other donation that she ever made from 1990 to 1998 was an amount of $30.
+[16] With respect to the funds that he raised from October 1996 to December 1996, Mr. Norton's testimony was that the donors’ receipt of the education gift would be entirely subject to the lottery mechanism, i.e. they had only a 1 in 3 chance of getting it. Unfortunately, his testimony is contradicted by that of the auditor, whose audit revealed that the donors were all receiving the reimbursement, and if there ever was any lottery mechanism such as that described by Mr. Norton, it certainly was not in place in 1996.
+[17] I should also state that both Mr. and Mrs. Norton were pretty evasive when they had to discuss what took place when Mrs. Norton’s contribution was made. Mr. Norton was, moreover, very reticent or evasive in recognizing that the documentation that was being used during the fall of 1996 did not refer to a lottery mechanism, and that the education gift arrangement was still being used at that time.
+[18] In his testimony, he said that people could win up to 75% of their contribution to ABLE when in reality they all got 75%. It is my opinion that he was in a position to know that each donor would be getting this refund, that his wife knew about it, and that, if she did not know, he was the one guiding her in making the contribution and, therefore, he knew about the refund when she made the contribution to the charity.
+[19] In my view, Doubinin v. R, 2005 CarswellNat 2814, 2005 FCA 298, although Mr. Norton did not refer to it in his argument, is the only decision that could have lent any support to his position. In my view, that decision is of no help to him because there are substantial differences between that case and the facts of this particular case. The Federal Court of Appeal stated in Doubinin at paragraph 8:
+The Tax Court judge allowed the Respondent's appeal. In so doing the Tax Court Judge found that the Respondent was entitled to a tax credit in the amount of $6,887.[21] The Tax Court Judge accepted the Respondent's evidence that he had the requisite intent to establish that his donation of $6,887 was a charitable donation to a registered charity. The Tax Court Judge said “It was a genuine gift and not given with the expectation of receiving a material benefit or any other type of consideration from PPF. The PPF donation was a mere possibility…”.
+[20] It should be stressed that what was involved in Doubinin was the top‑up contribution arrangement, and the "Tax Court Judge accepted the . . . evidence that [the taxpayer] had the requisite intent to establish that his donation of $6,887 was a charitable donation". The taxpayer had actually made the "donation of $6,887", and it was only after being told by ABLE that PPF had made the top-up that he claimed a tax credit in respect of an amount of $27,548. Then, upon learning from the Minister prior to the hearing before the Tax Court that PPF had not made the top‑up contribution, the appellant reduced his tax credit claim to $6,887 (par. 6 of the Federal Court of Appeal decision).
+[21] In my view, the donation program that was marketed in the fall of 1996 by JIT is typical of the numerous aggressive tax shelters that attempt to leverage tax deductions or credits. There are many examples of this. There is the gifting of art to charities in a scheme that has been referred to as “art flipping” (for an example, see Dutil v. The Queen, 95 DTC 281). There is the buying of false charitable tax receipts as in Abouantoun v. The Queen, 2002 DTC 3811 (case summary), a decision that I rendered. The same technique of leveraging tax deductions was in widespread use in tax shelters for research and development in Quebec, as in McKeown v. The Queen, 2001 DTC 511. The same technique has been used with seismic data, for example, in Global Communications Limited v. The Queen, 99 DTC 5377. A similar technique was likewise used in marketing softwares in Morley v.The Queen, 2004 DTC 2604, another decision of mine. The technique in all these tax shelters is the same: you write off more than the amount you have paid or are liable to pay. In this fashion, you make a profit with the tax benefit alone, so no one cares how the money is being spent.
+[22] For all these reasons the appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada this 8th day of February 2008.
+"Pierre Archambault"
+Archambault J.
+CITATION: 2008TCC91
+COURT FILE NO.: 2004-396(IT)G
+STYLE OF CAUSE: PATRICIA NORTON v. THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: August 2 and 3, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: February 8, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gavin Laird and Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I would prefer to characterize the payment received by Mrs. Norton from the Publisher’s Philanthropic Fund of Bermuda (PPF) as a partial reimbursement of the payment she made to ABLE, instead of a kickback.
+[2] I would add that the mention of GST seems to suggest that the payments may have been in respect of services.
+[3] I do take into account some of the changes that were made by counsel during the course of his oral argument. For example, here at paragraph 12, he said: "by 1996" as opposed to "prior to". But I will not necessarily mention all of such changes. I will only make reference to the more important ones.
+[4] Mr. Bill Norton, who testified, said that he knew Mr. Thill from the 1970s and 1980s when he was a professional athlete and was buying tax shelters, although he did not at that time buy any from Mr. Thill. He was involved in 1991 in only one with Mr. Thill, who was a promoter of a number of tax shelters and was the author of a reading kit that he had marketed through tax shelters over many years.
+[5] This contract contains a clause dealing with the duration of the agreement, which depended upon the amount raised by JIT. If two million was raised, the contract would be extended to December 1997. If up to ten million dollars was raised, this exclusive agreement for earning commissions would be extended to December 2001.
+[6] I think what Justice Bowie said in Webb v. R., 2004 TCC 619, [2005] 3 C.T.C. 2068, applies here to describe what took place. He referred to Mr. Kuhn's testimony in the following manner at paragraphs 11 and 12:
+11 Mr. Kuhn testified that during his time investigating the operations of ABLE and assessing donors to it he had disallowed the tax credits claimed by each and every one of 550 [actually, before me, Mr. Kuhn said 449] so‑called donors whom he had audited. In no case did he find a donor to ABLE who had paid more than 25% of the value of the receipt obtained. Either they paid 25% of the face amount of the receipt, or they paid 100% of the face amount of the receipt and received a 75% rebate in one form or another.
+12 Mr. Kuhn also identified a series of purchase orders by which ABLE purchased what may be called “reading kits”, or packages to be distributed by it to various schools in British Columbia, as well as the invoices by which its supplier obtained these packages. Without going into all the details of these transactions, it is obvious from the magnitude of the markups that these are not normal business transactions, but that, as Mr. Kuhn testified was the usual case, much of the money simply was circulated through the printing and distributing companies before being returned to the original donors.
+[7] Described as an "education gift".
+[8] I would add that one of the two types of tickets that were used in years subsequent to 1996 related to a U.S. charity.
+[9] I would add that Mr. Kuhn, in his testimony, stated there was no evidence of the advertisement of any lottery feature to the raising of funds for ABLE from 1993 to 1996.
+[10] I would add that the meeting which he attended when the reverse draw took place was, according to Mr. Norton, during the 1997 New Year celebrations. According to Mr. Norton, a draw took place with respect to the donations made from October 16, 1996, and only one out of three donors won the right to the education gift. He stated that it was important that there not be too many losers, as that would have hurt his efforts to raise funds for ABLE.
+[11] I would replace this paragraph with the following: "Mrs. Norton stated that she made the $20,000 payment to ABLE because she liked this charity. However, she also recognized that she had relied upon and trusted her husband."
+[12] Mr. Norton's evidence was that he may have been the person who picked the amount of $20,000.
+[13] In his testimony, Mr. Norton said that his wife was a member of ABLE's board of directors for two weeks; however, in his affidavit dated October 1998 (Exhibit R-2), he states that she was on the board for three to four weeks.
+[14] Mrs. Norton's evidence was that she had never made any other charitable donation to ABLE. In his testimony, Mr. Kuhn stated that his review of Department of National Revenue records for the 1990 to 1998 taxation years revealed that Mrs. Norton did not make any other donation except for one of $30 to School District Number 43, which she claimed in her 1996 tax return (Exhibit R-5).
+[15] I would add that generally these payments were made within a two-week to two-month period, especially in the case of wire transfers.
+[16] According to the documentation given to Mrs. Norton in 1996 (Exhibit A2) at page 8:
+There is no guarantee, express or implied, that the Donor will receive any gift and the Donor acknowledges that the Donation to A.B.L.E. Association for the Betterment of Literacy and Education is made voluntarily and without any such expectation.
+[17] The information in Exhibit A2 resembles the information package appearing in Tab 5A of Exhibit R1; however some of the information contained in this package is not found in A2. In particular, at page 61, we have a description of the tax incentive to get people into the donation program. The example specifically assumes that the donor is recommended for and receives the maximum education gift of 75%. It also assumes that the donor wishes to donate the maximum allowed of 50% of his net income. The document goes on to explain that if a donor (with net taxable income of $50,000) makes a contribution of $25,000, the income tax payable after deducting the donation is $2,562.55, representing a saving of $11,236.35 as compared to the tax otherwise payable of $13,798.85.
+In addition to quantifying the reduction in tax, the document explains that if the donor receives the education gift of $18,750, his cash position after taxes is $41,187.50 (50,000 − 2,562.50 − 25,000 + 18,750), which means a saving (a return) for the donor of $4,986.35 (− 25,000 + 18,750 + 11,236). At page 65, there is also a statement of the benefits to the donor, which include the following:
+Your personal income is not depleted. Your disposable income after taxes is significantly increased. You will have extra money to spend or invest as you wish.
+Finally, at page 64, there is a statement as to the circumstances under which one would expect to receive the donation:
+. . . In practice it is usual for the recipient to be an active member of a charity of his or her choice and to be a contributor of time and or money. There is no required amount of participation imposed on selected recipients and the income of those selected is not a factor in the administration of the fund. Gifts, given to individuals by the Publisher's Philanthropic Fund, are based on recommendations received from fund‑raisers and members of the community at large.
+[18] I would add the following: Mr. Norton denied having told his wife that she would be getting the education gift because that would have been contrary to the opinion given by Bennett Jones Verchere (BJV) and it would not have made any sense to spend all that money on legal fees and then not act in accordance with that opinion. In addition, the promotional document given to Mrs. Norton includes the BJV tax opinion, which stresses that there can be no material expectation of receiving the gift. The document also specifies that ABLE does not represent that the gift will be made by PPF or by any other third party. The only reason being given by Mrs. Norton for making the donation is that she liked the charity and its cause, and she maintains that she was not told she would be getting the gift.
+[19] Either in Bermuda or in the Grand Cayman Islands.
+[20] I would add the following statement describing the PPF philosophy, which appears in Exhibit R1, Tab 5A, at page 64: "The Publishers’ Philanthropic Fund is specifically instructed to endow individuals who have been selected on the basis of an interest and concern for charitable works in education. The Publishers' Philanthropic Fund does not donate directly to any charity. The founders believe that by selecting individual recipients the monies will be put to the best use in keeping with the spirit and goals of the fund."
+I fail to see what benefit there could have been in this philanthropic organization, if it did exist, giving money (the education gift) to a person such as Mrs. Norton, who has a university degree and training in psychology and sociology.
+[21] There seems to be some confusion about the amount of the gift tax credit and the amount of the gift. The first is a fraction of the second. (See subsection 118.1(3) of the Income Tax Act.)

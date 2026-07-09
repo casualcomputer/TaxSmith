@@ -1,0 +1,163 @@
+---
+title: "Commission Scolaire des Patriotes et al. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28763/index.do"
+last_modified: "2006-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 8"
+citation2: ""
+neutral_citation: "2006 CCI 8"
+decision_date: "2006-01-16"
+language: "fr"
+item_id: "28763"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1550
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:58:30.968000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe9643f2b3547b35cbd5487e931c490952be287f41319c6262ea6b37551a0200"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Commission Scolaire des Patriotes et al. c. La Reine
+
+- Citation: 2006 CCI 8
+- Decision date: 2006-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1550, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Commission Scolaire des Patriotes et al. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-16
+Référence neutre
+2006 CCI 8
+Numéro de dossier
+2005-1163(GST)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2005-1160(GST)G, 2005-1161(GST)G, 2005-1162(GST)G,
+2005-1163(GST)G, 2005-1166(GST)G, 2005-1168(GST)G,
+2005-1170(GST)G, 2005-1171(GST)G, 2005-1172(GST)G,
+2005-1173(GST)G, 2005-1176(GST)G, 2005-1177(GST)G,
+2005-1178(GST)G, 2005-1179(GST)G, 2005-1180(GST)G,
+2005-1181(GST)G, 2005-1182(GST)G, 2005-1183(GST)G,
+2005-1184(GST)G, 2005-1185(GST)G, 2005-1187(GST)G,
+2005-1190(GST)G, 2005-1191(GST)G, 2005-1192(GST)G,
+2005-1193(GST)G, 2005-1194(GST)G, 2005-1195(GST)G,
+2005-1196(GST)G, 2005-1197(GST)G, 2005-1198(GST)G,
+2005-1199(GST)G, 2005-1201(GST)G, 2005-1203(GST)G
+ENTRE :
+COMMISSION SCOLAIRE DE VICTORIAVILLE,
+COMMISSION SCOLAIRE DE L'ÉNERGIE,
+COMMISSION SCOLAIRE DE COATICOOK,
+COMMISSION SCOLAIRE DES PATRIOTES,
+COMMISSION SCOLAIRE DU VAL-DES-CERFS,
+COMMISSION SCOLAIRE DES HAUTES-RIVIÈRES,
+COMMISSION SCOLAIRE DE LAVAL,
+COMMISSION SCOLAIRE DES LAURENTIDES,
+COMMISSION SCOLAIRE SIR-WILFRID-LAURIER,
+COMMISSION SCOLAIRE PIERRE NEVEU,
+COMMISSION SCOLAIRE DE LA RIVIÈRE DU NORD,
+COMMISSION SCOLAIRE DES CHÊNES,
+COMMISSION SCOLAIRE DES HAUTS-CANTONS,
+COMMISSION SCOLAIRE DES BOIS-FRANCS,
+COMMISSION SCOLAIRE DES SOMMETS,
+COMMISSION SCOLAIRE DES GRANDES-SEIGNEURIES,
+COMMISSION SCOLAIRE DE L'OR-ET-DES-BOIS,
+COMMISSION SCOLAIRE DES HAUTS-BOIS-DE-L'OUTAOUAIS,
+COMMISSION SCOLAIRE DE L'AMIANTE,
+COMMISSION SCOLAIRE AU CŒUR-DES-VALLÉES,
+COMMISSION SCOLAIRE DU LAC SAINT-JEAN,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+(Rendus oralement à l'audience à Montréal (Québec), le 2 décembre 2005
+Le juge McArthur
+[1] La requête de l'intimée vise à obtenir la production de précisions relatives à certaines allégations contenues dans les avis d'appel en vertu de l'article 52 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») et une ordonnance prorogeant la date de dépôt des réponses de l'intimée à quarante‑cinq jours de la date de l'ordonnance de cette cour.
+[2] Pour les raisons qui suivent, la requête est rejetée. Je crois que la requête est prématurée à ce moment-ci.
+[3] Alors, pas de suspense. Les appelantes ont refusé les demandes de l'intimée en disant que les allégations contenues dans les avis d'appel sont assez précises pour permettre à l'intimée de déterminer le débat réel à trancher.
+[4] Il n'y a pas nécessairement d'article que l'on peut identifier. Dans certains cas, il s'agit de conventions constitutionnelles qui sont généralement admises et sur la base desquelles on peut déclarer un article inconstitutionnel ou on peut déclarer que son application est inconstitutionnelle.
+[5] Dans le deuxième cas, c'est que la pratique ne l'exige pas. Je ne vois pas pourquoi nous devrions le faire à ce stade‑ci, alors que nous n'avons pas le bénéfice des hypothèses du ministre, nous n'avons le bénéfice d'aucun des arguments du ministre. Nous ne savons même pas qui seront les témoins.
+[6] Pour donner du contexte, dans une autre instance, à la suite d'une cotisation en vertu de la Loi sur la taxe d'accise concernant un remboursement réclamé par les appelantes à titre de crédit de taxe sur les intrants (CTI), un jugement sur consentement a été rendu en faveur des appelantes. La Cour canadienne de l'impôt a rendu un jugement en faveur des appelantes conformément au consentement à jugement produit devant la Cour. La disposition législative qui avait fait l'objet de la contestation a été amendée de façon rétroactive à l'instauration du régime de la taxe sur les produits et services. Dans les notes explicatives de cette disposition, on peut lire ce qui suit :
+Les dispositions législatives confèrent au ministre du Revenu national le pouvoir exprès d'établir une nouvelle cotisation [...] pour une période de déclaration qui a déjà fait l'objet d'une cotisation. [...] Le ministre peut donc établir la nouvelle cotisation même si la période normale prévue par la Loi pour son établissement est expirée et malgré toute décision judiciaire [...].
+[7] En mai 2004, le ministre a émis un nouvel avis de cotisation par lequel il refusait le remboursement à titre de CTI que l'intimée avait elle-même consenti à verser aux appelantes et contrairement au jugement de notre Cour. Les appelantes en appellent de cette nouvelle cotisation devant la Cour de l'impôt.
+[8] Je répète que la question en litige est de savoir si la requête pour des précisions doit être accordée, et dans quelle mesure elle doit être accordée.
+[9] L'article 52 des Règles se lit, en partie :
+52 Si une partie demande des précisions sur un fait allégué [...]
+et en anglais :
+52 Where a party demands particulars of an allegation [...]
+Comme on peut le voir, les deux textes ne sont pas identiques. Le texte français fait référence à une demande de précisions sur un fait allégué, alors que le texte anglais renvoie uniquement à une allégation.
+[10] Dans l'arrêt Sero c. La Reine, [2004] 2 R.C.F. 613, [2005] 2 C.T.C. 248 (CAF), la Cour d'appel fédérale nous réfère à l'arrêt de la Cour suprême dans Schreiber c. Canada, [2002] 3 R.C.S. 269, où le juge LeBel a dit au paragraphe 56 :
+Selon un principe d'interprétation des lois bilingues, lorsqu'une version est ambiguë tandis que l'autre est claire et sans équivoque, il faut privilégier a priori le sens commun aux deux versions […]. De plus, lorsqu'une des deux versions possède un sens plus large que l'autre, le sens commun aux deux favorise le sens le plus restreint […]
+[11] Je renvoie également à l'affaire Baxter c. La Reine, 2004 CCI 636, à l'onglet 3 des documents des appelantes, p. 2009, où le juge en chef adjoint Bowman affirme qu'il n'est pas nécessaire de répondre à une question de droit.
+[12] En appliquant ces principes à l'espèce, la version anglaise est en apparence susceptible de plus d'un sens, parce qu'elle peut renvoyer à une allégation de fait ou de droit, alors que la version française renvoie uniquement à une allégation de fait. Par conséquent, la version française doit être préférée à la version anglaise, qui est plus ambiguë. De plus, la version anglaise a un sens plus large, puisqu'elle renvoie à la fois à une allégation de fait et de droit, tandis que la version française renvoie seulement à une allégation de fait. Par conséquent, la version plus précise doit être préférée.
+[13] Donc, la demande de précisions devrait viser seulement des allégations de fait et non des allégations de droit. L'intimée réfère à la décision Six Nations of the Grand River Indian Band c. Canada, Cour div. Ont., no 690/99, 12 avril 2000, [2000] O.J. no 1431. Cette affaire a été entendue en vertu des Règles de procédure civile de l'Ontario, R.R.O. 1990, Règlement 194, où les deux versions anglaise et française réfèrent à une allégation. Donc, aucun conflit entre les deux versions n'existait lors de cette décision. Par conséquent, le jugement Six Nations ne peut s'appliquer à notre cause.
+[14] La jurisprudence indique qu'il n'est pas approprié d'ordonner la production de précisions relatives à la position juridique sur laquelle une partie entend se fonder, les demandes de précisions étant limitées aux seules questions de fait.
+[15] Donc, après avoir établi que seulement les allégations de faits sont visées par une demande de précisions, il faut regarder le but d'une telle requête. Les demandes de précisions sont régies par le principe selon lequel il est du ressort des plaidoiries de délimiter les points en litige et d'empêcher que ceux-ci soient élargis au point où les parties ne puissent déterminer, avant de procéder à l'audience, le débat réel à trancher, tel qu'établi dans la décision Gulf Canada Limited c. Le remorqueur Mary Mackin et Sea-West Holdings Ltd., [1984] 1 C.F. 884.
+[16] Dans l'affaire Gulf Canada, la Cour énumère les objectifs de la production de précisions, et il y en a six. L'intimée soutient que dans le présent cas, il est juste et raisonnable d'ordonner la production de précisions quant à l'allégation des appelantes qu'un article de la LTA ou une loi est inconstitutionnel. L'allégation telle que formulée est tellement large que l'intimée ne peut raisonnablement y répondre ou se préparer à l'instruction sans risquer de se faire prendre par surprise.
+[17] Dans l'affaire Satin Finish Hardwood Flooring, C.C.I., no 95-30(IT)G, 27 mars 1995, le juge Bowman a dit au paragraphe 16 :
+Les actes de procédure ont pour objet de définir les questions devant être tranchées par le tribunal et non de fournir une description détaillée de la preuve que la partie entend présenter au procès.
+Dans le cas qui nous occupe, l'avis d'appel est adéquat; il soulève la question de fait à trancher et permet à l'intimée de formuler une défense. Il est clair que l'appelante n'a aucune obligation de fournir les arguments qu'elle entend utiliser lors du procès au stade des actes de procédure. Tout ce qu'elle doit fournir sont les allégations de fait qu'elle entend utiliser afin de faire son argumentation lors du procès. La Cour devrait déterminer en regardant l'avis d'appel si d'autres précisions sont nécessaires.
+[18] Or, en l'espèce, il semble clair, en regardant l'avis d'appel, quels sont les faits sur lesquels l'appelante s'appuiera afin de défendre sa position. Pour conclure, j'accepte l'argument des appelantes et la requête est rejetée. Merci.
+Me JUSTINE MALONE : Pardon. Il n'y a aucune ordonnance relativement au délai pour déposer les réponses?
+MONSIEUR LE JUGE : Et vous avez demandé combien de jours? Quarante-cinq?
+Me JUSTINE MALONE : Je ne m'en souviens plus, c'est dans la requête.
+MONSIEUR LE JUGE : Je l'ai devant moi, ici, quelque part. Oui. Une ordonnance prorogeant à quarante-cinq jours. Alors, c'est accordé.
+Signé à Ottawa, Canada, le 16e jour de janvier 2006.
+« C. H. McArthur »
+Juge McArthur
+RÉFÉRENCE :
+2006CCI8
+No DOSSIER DE LA COUR :
+2005-1163(GST)G et al.
+INTITULÉS DES CAUSES :
+Commission Scolaire des Patriotes et al. et Sa Majesté La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 2 janvier 2006
+MOTIFS DE L'ORDONNANCE PAR :
+l'honorable juge C. H. McArthur
+DATE De L'ORDONNANCE :
+Le 9 décembre 2005
+COMPARUTIONS :
+Pour les appelantes :
+Me Dominic Belley
+Pour l'intimée :
+Me Justine Malone
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelantes :
+Nom :
+Me Dominic Belley
+Étude :
+Ogilvy Renault
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

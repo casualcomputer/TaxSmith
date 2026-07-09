@@ -1,0 +1,145 @@
+---
+title: "Seewalt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25794/index.do"
+last_modified: "2003-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 586"
+citation2: ""
+neutral_citation: "2003 TCC 586"
+decision_date: "2003-08-14"
+language: "en"
+item_id: "25794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3804
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:50:41.954000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89ae30e3b13f3824cbdf0b50c6673272005e68fef1fec6bcd03efae8bf9c5d83"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Seewalt v. The Queen
+
+- Citation: 2003 TCC 586
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3804, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seewalt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-14
+Neutral citation
+2003 TCC 586
+File numbers
+2003-579(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-579(IT)I
+BETWEEN:
+BRENDA J. SEEWALT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 5, 2003 at Calgary, Alberta
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, this 14th day of August, 2003.
+"Gerald J. Rip"
+J.T.C.C.
+Citation: 2003TCC586
+Date: 20030814
+Docket: 2003-579(IT)I
+BETWEEN:
+BRENDA J. SEEWALT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Brenda Seewalt appeals her income tax assessment for 2001 by which the Minister of National Revenue denied her claim for a disability tax credit ("DTC") available by virtue of section 118.3 of the Income Tax Act.
+[2] Ms. Seewalt has suffered from Crohn's disease since 1973 and from Multiple Schlerosis ("MS") since 1999. The respondent agrees that Ms. Seewalt's disabilities from these diseases are prolonged and have endured more than 12 months.
+[3] A Disability Tax Credit Certificate request by Ms. Seewalt's physician, Dr. Vervaeck, on April 24, 2002, was filed with Ms. Seewalt's 2001 tax return. In the certificate Dr. Vervaeck acknowledged that Ms. Seewalt could see, walk, speak, perceive, think and remember, hear, feed and dress herself and personally manage bowel and bladder functions. However, Dr. Vervaeck certified that Ms. Seewalt required life-sustaining therapy to support at least a vital function such as "clapping" therapy to help in breathing and kidney dialysis to filter blood at least three times a week, to an average of 14 hours per week: s.s. 118.3(1). The therapies, Ms. Seewalt required, Dr. Vervaeck wrote, were a drug and maintenance.
+[4] Ms. Seewalt described this therapy as "life-sustaining". The drug Ms. Seewalt was prescribed in 2001 was Dexedrin for MS; she took one tablet, twice a day. She also was injected with vitamin B12 once a month. The duration of the administration of this therapy averaged less than 14 hours per week. The "maintenance" included rest, proper nutrition and attending at a physician's office periodically. Ms. Seewalt declared she was required to follow a rigid maintenance program so that she could work full-time, which she did and continues to do.
+[5] About ninety to one hundred percent of the time, Ms. Seewalt explained, MS subjects her to depression, anemia and, in particular, fatigue. Fatigue, she explained, is a major factor in her life caused by MS. On two occasions after 2001, she suffered attacks of blindness in one eye, which lasted for a week to two weeks. Most of the time Ms. Seewalt can walk, but she frequently experiences pain in her leg and cannot walk more than a block; she sometimes stumbles and falls.
+[6] Her life is manageable, Ms. Seewalt volunteered, but she has had to make serious adjustments in her lifestyle to meet the demands of her disability, so that she could enjoy her family and continue her employment.
+[7] Crohn's disease and MS, Ms. Seewalt declared, have markedly restricted her activities of daily living. She complained that at times she has had to cancel normal activities such as shopping and social outings because she is too tired or sick. She has to conserve her energy. She has given up hobbies she enjoyed. When she returns home from work, she often has to take a nap.
+[8] As a result of Crohn's disease, Ms. Seewalt testified she must always be near a bathroom or at least know where it is located.
+[9] Ms. Seewalt referred me to Watkin v. Canada[1], in which, on the facts of that case, I considered chronic fatigue syndrome to have caused a taxpayer's basic activities of daily living to have become markedly restricted and allowed the appeal. Ms. Seewalt's main disability is fatique. However, Ms. Watkin's disability was more severe than Ms. Seewalt's: Ms. Watkin had to give up work, she spent much of the time in bed, she had to have meals prepared for her and had difficulty speaking.
+[10] Ms. Seewalt no doubt has chronic, lingering and distressing illnesses. By grit she is able to raise a family and be gainfully employed. Based on the DTC certificate of Dr. Vervaeck and my observation of Ms. Seewalt at trial, at a time when her condition would have deteriorated since 2001, she observed, her illnesses appear not to have markedly restricted her ability in 2001 to perform a basic activity of daily living. Also, the therapy for her illnesses did not amount to at least 14 hours per week, as required by section 118.3 of the Act.
+[11] The purpose of sections 118.3 and 118.4 is not to indemnify the taxpayer solely for the reason he or she suffers from severe illness; it is to financially assist her or him in bearing the additional costs of living and working generated by the impairment.[2] Nevertheless, these provisions must be interpreted so as to achieve a human and compassionate construction.[3]
+[12] The test to be met by the taxpayers claiming a DTC is to establish that the impairment markedly restricts the person's ability to perform a basic activity of daily living, as defined in the Act; perceiving, thinking and remembering, feeding and dressing oneself, speaking, hearing, eliminating body waste and walking. The effects of the impairment are markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is unable to perform a basic activity of daily living or requires an inordinate amount of time to do so.[4]
+[13] An activity such as work, housekeeping or a social or recreational activity is not considered by the Act as a basic activity of daily living. However, as Létourneau, J. A. stated in Johnston[5], simply because a taxpayer, notwithstanding a severe impairment, manages to participate in social and recreational activities, or work, the taxpayer cannot be penalized and disallowed the DTC.
+[14] But Létourneau, J.A. adds, the social or recreational activities of a claimant for a DTC may be of such a nature as to evidence an ability that is not markedly restricted. The nature and frequency of any other activity performed by the claimant may contribute to establish that the performance of the basic activities of the claimant's daily living is not markedly restricted.[6]
+[15] In the appeal at bar I cannot not find any evidence that Ms. Seewalt's performance of any basic activity of daily living was markedly restricted because of one or the combination of more than one disability. Ms. Seewalt's inability to walk, for example, was not restricted as was the taxpayer's in Johnston, supra,for example.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of August, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION NO:
+2003TCC586
+COURT FILE NO.:
+2003-579(IT)I
+STYLE OF CAUSE:
+Brenda J. Seewalt v. Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+August 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+August 14, 2003
+APPEARANCES:
+For the Appellants:
+The Appellant herself
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] T.C.J. No. 547
+[2] Johnston v. The Queen, 98 DTC 6169, (F.C.A.) per Létourneau, J. at 6171
+[3] Radage v. The Queen, 96 DTC 1615 (T.C.C.) per Bowman, J., at p. 1625, approved in Johnston, supra.
+[4] Paragraph 118.4(1)(b) of the Act.
+[5] supra, p. 6172
+[6] Johnston, supra, p. 6172.

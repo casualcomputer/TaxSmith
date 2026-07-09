@@ -1,0 +1,158 @@
+---
+title: "Lee c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30958/index.do"
+last_modified: "2012-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 335"
+citation2: ""
+neutral_citation: "2012 CCI 335"
+decision_date: "2012-09-21"
+language: "fr"
+item_id: "30958"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4832
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:24:19.649000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d5cea8384153eff5057c213b769fcb6693e1bbcd0ca3394613d134472eb93dd4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lee c. La Reine
+
+- Citation: 2012 CCI 335
+- Decision date: 2012-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4832, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-21
+Référence neutre
+2012 CCI 335
+Numéro de dossier
+2012-1662(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-1662(GST)I
+ENTRE :
+BRADMAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 28 août 2012, à Toronto (Ontario).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Vu la requête présentée par l’intimée en vue d’obtenir une ordonnance annulant l’appel de l’appelant interjeté au moyen de l’avis d’appel déposé le 30 avril 2012,
+La Cour ordonne que l’appel interjeté à l’égard de la cotisation établie à l’endroit de l’appelant en vertu de la Loi sur la taxe d’accise pour les années d’imposition 1999, 2000, 2001 et 2002 soit rejeté. Chaque partie assumera ses propres dépens.
+Le présent jugement modifié remplace le jugement daté du 21 septembre 2012.
+Signé à Ottawa (Ontario), ce 25e jour d’octobre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour d’octobre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI335
+Date : 20120921
+Dossier : 2012-1662(GST)I
+ENTRE :
+BRADMAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge Woods
+[1] La Couronne a déposé une requête en annulation de l’appel que Bradman Lee a interjeté par avis d’appel déposé à la Cour le 30 avril 2012.
+[2] L’appel porte sur une nouvelle cotisation établie à l’égard de l’appelant en vertu de la Loi sur la taxe d’accise (la « Loi ») par suite d’un jugement de la Cour. La Couronne soutient que, dans la mesure où la cause d’action et la question en litige ont déjà fait l’objet de procédures, l’appel de M. Lee devrait être jugé irrecevable pour cause de préclusion.
+Résumé des procédures antérieures
+[3] La question qui fait l’objet du présent appel est la taxe nette payable par M. Lee en vertu de la Loi relativement à ses activités de vendeur d’immeubles à commission en 1999, en 2000, en 2001 et en 2002.
+[4] Plusieurs procédures judiciaires ont été intentées relativement aux activités professionnelles de l’appelant pour ces mêmes années.
+[5] Premièrement, des poursuites au criminel ont été intentées contre M. Lee devant la Cour de justice de l’Ontario. À l’issue de cette procédure, M. Lee a été reconnu coupable d’infractions en matière d’impôt sur le revenu en application des alinéas 239(1)a) et d) de la Loi de l’impôt sur le revenu et de l’alinéa 327(1)c) de la Loi : R. v Lee, [2008] GSTC 65; [2008] 5 CTC 117 (CJO) (pièce R-2, onglet 14). Les motifs de la déclaration de culpabilité ont été prononcés oralement et rendus le 23 novembre 2007. Les appels que M. Lee a ensuite interjetés à l’égard de cette décision ont été rejetés.
+[6] Deuxièmement, M. Lee a, devant la Cour, interjeté appel (l’« appel en matière de TPS ») d’une cotisation (la « cotisation pour 2005 ») établie à son égard en vertu de la Loi par un avis daté du 17 février 2005. L’appel a été instruit sous le régime de la procédure informelle et je l’ai entendu pendant quatre jours sur une période de huit mois. Le 28 juillet 2010, j’ai accueilli en partie l’appel de M. Lee. Ce dernier a vu un autre de ses appels rejeté.
+[7] M. Lee a également interjeté appel de cotisations établies à son égard en vertu de la Loi de l’impôt sur le revenu. Son appel en matière d’impôt sur le revenu est en cours d’instruction.
+Historique de la procédure du présent appel
+[8] En l’espèce, il est question d’une nouvelle cotisation qui a été établie sur ordre de la Cour à l’issue de l’appel en matière de TPS. Étant donné que la Cour a en partie accueilli l’appel en matière de TPS de M. Lee, il a été ordonné au ministre d’établir une nouvelle cotisation compte tenu de ce qui suit :
+1) dans le calcul de la taxe nette, les crédits de taxe sur les intrants devaient être accordés dans la même mesure qu’ils l’ont été dans le contexte de la déclaration de culpabilité,
+2) les pénalités fondées sur l’article 285 de la Loi devaient être annulées.
+[9] Après que l’appel que M. Lee a interjeté à l’égard de cette décision a été rejeté, une nouvelle cotisation a été établie à son endroit, faisant suite au jugement. L’avis de nouvelle cotisation est daté du 7 juin 2011 (la « nouvelle cotisation de 2011 »).
+[10] M. Lee a ensuite interjeté le présent appel à l’égard de la nouvelle cotisation de 2011. Avant de déposer sa réponse à l’avis d’appel, la Couronne a déposé la présente requête en annulation de l’appel.
+Analyse
+[11] En l’espèce, la Couronne fait valoir qu’il y a lieu d’appliquer la doctrine de l’autorité de la chose jugée pour annuler l’appel interjeté à l’égard de la cotisation de 2011. Le Comité judiciaire du Conseil privé a décrit les principes applicables dans la décision Thomas v Trinidad and Tobago, (1990) 115 NR 313, à la page 316.
+[traduction]
+[…] Il est dans l’intérêt public que les jugements aient un caractère définitif et qu’une personne n’intente pas une action contre une autre plus d’une fois pour le même motif. […]
+[12] La chose jugée est une forme de préclusion reconnue par les tribunaux, laquelle préclusion revêt deux formes : la préclusion pour même question en litige (issue estoppel) et la préclusion pour même action (cause of action estoppel). Dans l’arrêt Angle c Ministre du Revenu national, [1975] 2 RCS 248 (CSC), le juge Laskin a décrit la raison d’être de la doctrine de la manière suivante :
+Le fondement de l’issue estoppel aussi bien que du cause of action estoppel a reçu diverses explications; par exemple, qu’il est [traduction] « fondé sur des considérations de justice et de bon sens » (voir New Brunswick Railway Co. v. British and French Trust Corp. Ltd., à la p. 19); qu’il est [traduction] « fondé sur les principes jumeaux si fréquemment exprimés en latin selon lesquels tout litige doit avoir une fin et la justice exige que la même partie ne soit pas harassée [sic] deux fois pour la même cause » (affaire Carl Zeiss, d’après Lord Upjohn, p. 946, d’après Lord Guest, p. 933); qu’il est fondé sur [traduction] « l’intérêt général de la collectivité à ce que les différends prennent fin, et à ce que les décisions judiciaires aient un caractère final et concluant, et […] sur le droit de l’individu à être protégé d’une multiplicité vexatoire de demandes et de poursuites […] » (Spencer-Bower et Turner, Res Judicata (2e éd. 1969), p. 10). […]
+[13] Ce principe a déjà été appliqué dans le cadre d’appels interjetés en vertu de la Loi de l’impôt sur le revenu dans des circonstances similaires à celles qui prévalent en l’espèce : The Queen v Chevron Canada Resources Limited, 98 DTC 6570 (CAF), aux paragraphes 36 à 41; Armstrong v The Queen, 2006 DTC 6310 (CAF), au paragraphe 28; et McFadyen c La Reine, 2008 CCI 441, 2008 DTC 4513.
+[14] On ne m’a pas renvoyée à des précédents jurisprudentiels de l’application de ce principe dans le cadre d’appels interjetés en vertu de la Loi, mais il n’y a pas de raison de ne pas l’appliquer en l’espèce. En l’absence de circonstances particulières, un contribuable ne devrait pas avoir le droit de remettre en cause les questions déjà tranchées par la Cour.
+[15] Je suis d’avis qu’il faudrait appliquer le principe de l’autorité de la chose jugée relativement à l’appel que l’appelant a interjeté à l’égard de la nouvelle cotisation de 2011. Les questions soulevées dans l’avis d’appel sont des questions que la Cour a déjà tranchées, ou que M. Lee aurait dû soulever à l’occasion de procédures antérieures. Il n’existe pas de motif impératif qui justifierait la réouverture du litige en cause.
+Y a-t-il eu défaut d’aviser l’appelant du dépôt de la requête?
+[16] En réponse à l’argument de la Couronne, M. Lee a affirmé ne pas avoir été au courant de l’existence de la requête ou du fait qu’elle devait être entendue. Il s’est présenté à la Cour parce qu’il s’est trouvé que son appel en matière d’impôt sur le revenu devait être entendu le même jour que la présente requête.
+[17] M. Lee a soutenu n’avoir jamais reçu copie de l’avis de requête. Il a ajouté que bien qu’il ait reçu un recueil de jurisprudence de la Couronne, en l’absence de lettre d’accompagnement ou d’onglets, il ne s’est pas douté que ce recueil contenait des observations écrites relatives à la requête. Il a laissé entendre qu’il avait tenu pour acquis que ce recueil de jurisprudence concernait son appel en matière d’impôt sur le revenu.
+[18] Je ne suis pas convaincue par les affirmations de M. Lee. Plus particulièrement, je ne crois pas qu’il n’a pas reçu copie de l’avis de requête ou qu’il ne s’est pas douté que le recueil de jurisprudence contenait les observations écrites de l’intimée.
+[19] Pour donner foi aux affirmations de M. Lee, il me faudrait conclure que plusieurs problèmes se sont posés relativement aux documents que la Couronne lui a envoyés : 1) la livraison par messagerie de l’avis de requête n’a pas été effectuée, et ce, en dépit du fait que la Couronne a déposé un affidavit de signification, et 2) le recueil de jurisprudence contenant les observations écrites que M. Lee a reçu était incomplet, en ce sens qu’il n’était pas accompagné de la lettre que Me Prevost a lue à l’audience, pas plus que d’une page de couverture ou d’onglets, et ce, en dépit du fait qu’il s’agit là des procédures habituelles et que tous ces éléments avaient été joints au recueil fourni à la Cour. Considérées dans leur ensemble, toutes ces circonstances sont trop improbables pour qu’on puisse croire qu’elles se sont produites.
+[20] Je voudrais également souligner qu’au début de l’audience, j’ai demandé aux parties si elles s’opposaient à ce que j’entende la présente requête avant de continuer à entendre l’appel en matière d’impôt sur le revenu. M. Lee a demandé des éclaircissements au sujet de la requête et je l’ai informé qu’elle avait trait à son appel en matière de TPS. M. Lee a alors affirmé qu’il n’avait aucune objection à ce que la requête soit entendue. Ce n’est qu’après que la Couronne eut présenté ses arguments que M. Lee a déclaré qu’il n’avait pas pris connaissance de la requête.
+[21] Je suis convaincue que M. Lee avait pris connaissance de la requête et que le fait d’entendre cette requête ne constituait pas une injustice.
+Conclusion
+[22] En l’espèce, il convient d’appliquer la doctrine de l’autorité de la chose jugée. L’appel interjeté par l’appelant à l’égard de la nouvelle cotisation établie à son endroit pour 2011 est rejeté.
+[23] La Couronne a demandé à ce que les dépens afférents à la requête lui soient adjugés en partant du principe que l’appel en cause constituait un abus de procédure. Je ne me propose pas d’adjuger des dépens dans la mesure où M. Lee n’était pas représenté par un avocat et où la doctrine de l’autorité de la chose jugée n’est vraisemblablement pas un principe familier aux plaideurs profanes. Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 25e jour d’octobre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour d’octobre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 335
+NO DU DOSSIER DE LA COUR : 2012-1662(GST)I
+INTITULÉ : Bradman Lee c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 28 août 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT MODIFIÉ : Le 25 octobre 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

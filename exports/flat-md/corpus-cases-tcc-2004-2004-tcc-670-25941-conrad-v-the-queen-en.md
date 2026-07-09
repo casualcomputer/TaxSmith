@@ -1,0 +1,119 @@
+---
+title: "Conrad v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25941/index.do"
+last_modified: "2004-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 670"
+citation2: ""
+neutral_citation: "2004 TCC 670"
+decision_date: "2004-10-08"
+language: "en"
+item_id: "25941"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3674
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:56:40.182000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a486df459ac83ce9464727b7002b0424f3f4da6934a89e7461a4d2a66d143f1d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Conrad v. The Queen
+
+- Citation: 2004 TCC 670
+- Decision date: 2004-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3674, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Conrad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-08
+Neutral citation
+2004 TCC 670
+File numbers
+2001-2909(IT)I, 2001-2911(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC670
+Date: 20041008
+Docket: 2001-2909(IT)I, 2001-2911(IT)I
+BETWEEN:
+NANCY JANE CONRAD AND JAMES RALPH CONRAD,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellants: The Appellant themselves
+Counsel for the Respondent: Eric Sherbert and Nimanthika Kaneira
+___________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on June 15, 2002)
+Bowie J.
+[1] These two Appellants claim to be entitled to deduct from their other income in the 1999 taxation year the substantial losses that they say they sustained in a business. They are equal partners in a Quickstar business. Quickstar, I was told, is the new Amway restyled as interactive commerce and consumerism for the 21st Century. The two Appellants are married to each other and they operate in partnership in this endeavour. Each claims a loss of $4,235.76 to be deducted in computing income under section 3 of the Income Tax Act.
+[2] In addition, the Appellant Nancy Jane Conrad appeals from the disallowance of a deduction of $15,000 which she says she contributed to a Registered Retirement Savings Plan. She made two separate contributions of $15,000 each in 1999. The Minister of National Revenue (the Minister) in assessing her allowed one and disallowed the other. The appeals were heard on common evidence under the informal procedure of the Court. I adjourned the hearing of the appeal to enable Ms Conrad to obtain the receipt from London Life to establish the second payment. When the matter came back on, earlier this week, she had obtained that receipt. It was entered in evidence and counsel for the Respondent advised me that her entitlement to the deduction of a second $15,000 contribution is no longer disputed.
+[3] I turn now to the Appellants' business loss claims. Both Appellants gave evidence concerning their activities in connection with Quickstar. Although modernized, this remains a pyramid arrangement for marketing which, to be profitable, depends upon the dealers recruiting a substantial number of other operators who fill in the bottom part of the pyramid. As the Appellants explained it, their business does not involve selling, there is no inventory carried by them as dealers. Instead they can earn commissions and bonus points both on their own purchases of a product and also by signing up other people who will purchase the household products supplied by Quickstar as required for their own use. Those people in their turn also recruit others under them to do the same. The Appellants produced as exhibits certain promotional materials, including a videotaped presentation which they show to potential recruits.
+[4] In their income tax returns for the 1999 taxation year, Mr. and Mrs. Conrad each included a statement of business activity for their partnership. It shows gross income of $1,500 for the year, which is said to consist of "Bonus etc.". Against this are deducted expenses totalling $9,971.53. Most of this amount is comprised of expenses related to their two automobiles, including capital cost allowance on one of them, and the cost of a Y2K compatible computer. With the exception of the computer and the capital cost allowance, and perhaps the expense relating to a cellular telephone, all the expenses are estimated in round numbers. They are based on the assumption that 50% of the automobile use is for business, and on a number of other assumptions as well, I should think. Similarly, the income of $1,500 is, as I understood their evidence, also an estimate. So far as I am aware there are no proper business records kept by these Appellants. At one point in his evidence, Mr. Conrad suggested that the purpose of this appeal is simply to establish as a matter of principle that their activity, which began, as far as I can tell, in late 1997 or 1998, does constitute a business. He suggested that when they achieve substantial income sometime in the future they will keep track of their expenses in greater detail.
+[5] The Minister's Replies to the Notices of Appeal do not assert the position, either in the assumptions, which the Minister is said to have made in assessing these Appellants, or otherwise, that there is no business. Mr. Sherbert, appearing as counsel for the Respondent, conceded in argument that the Appellants' activities are indeed a business. The Minister's case is, as he put it, simply that the purported business expenses claimed in excess of the gross income of $1,500 were unreasonable in the circumstances, and that in any event the amounts of $2,245.38 claimed for the computer and $600 paid for a cellular telephone are capital amounts.
+[6] In my view the Appellants have not established that the expenses they claim are both real and reasonable. Section 230 of the Act requires a person carrying on business to keep books of account and other business records from which their income or loss can be verified. In the present case we have no such books or records. Mr. Conrad states that the amounts are simply estimates. Persons who do not keep records run the risk that they cannot prove either their income or their expenses. Indeed, they cast doubt upon the claim that they have a business at all by failing to keep books and records, and to operate in a businesslike manner.
+[7] In view of the pleadings, and of counsel's concession made during the course of the hearing, I make no finding as to whether the activity carried on by these Appellants is or is not a business. However, I find that their purported business expenses have not been established, nor for that matter has the amount of income of $1,500 been established. They are all, so far as I can tell from the evidence before me, simply estimates made from memory. Without any other substantiation I do not accept these estimates as being accurate.
+[8] The appeal of James Ralph Conrad is dismissed.
+[9] The appeal of Nancy Jane Conrad is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that she is entitled to a further deduction of $15,000 under paragraph 60(j.1) of the Act.
+Signed at Ottawa, Canada, this 8th day of October, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC670
+COURT FILE NO.:
+2002-2909(IT)I and 2001-2911(IT)I
+STYLE OF CAUSE:
+Nancy Jane Conrad and James Ralph Conrad and Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+March 8 and May 13 and 15, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+May 17, 2002
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Eric Sherbert and Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

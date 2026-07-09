@@ -1,0 +1,227 @@
+---
+title: "Benaroch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109093/index.do"
+last_modified: "2015-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 91"
+citation2: ""
+neutral_citation: "2015 TCC 91"
+decision_date: "2015-04-16"
+language: "en"
+item_id: "109093"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2857
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:24:49.933000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e1cfcb828195354c3064445751e4946bd6426348cadcb8c457c7073feb10ee4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benaroch v. The Queen
+
+- Citation: 2015 TCC 91
+- Decision date: 2015-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2857, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benaroch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-16
+Neutral citation
+2015 TCC 91
+File numbers
+2012-4385(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-4385(GST)G
+BETWEEN:
+AMNON BENAROCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion to reopen the hearing and to allow the filing in evidence of documents heard on March 31, 2015, at Montréal, Canada.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Louis P. Bélanger
+Counsel for the respondent:
+Antoine Lamarre
+ORDER
+The motion to reopen a hearing dated October 17, 2014, made under section 138 of the Tax Court of Canada Rules (General Procedure) and to obtain an order from the Court allowing the filing in evidence of documents is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 16th day of April, 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 29th day of May 2015
+Margarita Gorbounova, Translator
+Citation: 2015 TCC 91
+Date: 20150416
+Docket: 2012-4385(GST)G
+BETWEEN:
+AMNON BENAROCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Favreau J.
+[1] In her motion dated October 17, 2014, the respondent sought a reopening of the Court hearing that took place on October 16, 2014, between the same parties under section 138 of the Tax Court of Canada Rules (General Procedure) (the Rules), and a Court order allowing the filing in evidence of the following documents (the Documents) based on an affidavit made under section 71 of the Rules and subsection 335(5) of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the ETA):
+(a) a certificate registered with the Federal Court under section 316 of the ETA;
+(b) a writ of execution dated February 27, 2007; and
+(c) a nulla bona return dated February 28, 2007.
+[2] The respondent requested that this motion be disposed of upon consideration of written representations and without appearance by the parties in accordance with subsection 69(1) of the Rules.
+[3] In support of her motion, the respondent raised the following grounds:
+(a) When the case was heard, the appellant mainly relied on the ground of attack that was not stated in his Notice of Appeal;
+(b) The ground of attack raised for the first time in the appellant’s submissions is the respondent’s failure to file in evidence the certificate and the writ of seizure returned nulla bona in accordance with paragraph 323(2)(a) of the ETA;
+(c) Since the new ground of attack was not raised in the Notice of Appeal, the respondent did not have the opportunity to produce the evidence in her possession that is relevant to the issue, which was detrimental to her.
+[4] The respondent used the following documentary evidence in support of her motion:
+(a) an affidavit by Nicolas C. Ammerlaan dated October 17, 2014, attesting to the exchanges he had had with counsel for the appellant before the case was heard; and
+(b) an affidavit by Catherine Ippersiel of the Agence du revenu du Québec dated October 17, 2014, stating that the Documents are copies of documents made by the Minister or by another person exercising the Minister’s powers.
+[5] Mr. Ammerlaan’s affidavit states the following facts:
+[Translation]
+1. I am counsel for the respondent in this file bearing court file number 2012‑4385(GST)G;
+2. I have read all the documents relevant to this motion that are in the respondent’s possession;
+3. In the weeks before the hearing of this case, scheduled for October 16, 2014, counsel for the appellant informed me that the grounds that would be relied on would be as follows:
+(a) The issue of the timing of events, that is, the chronological sequence of when the various notices of assessment at issue were issued;
+(b) The amendment of subsection 323(1) of the ETA in force on June 29, 2005:
+(c) The concept of consideration for the transfer of ownership by the director to the appellant.
+4. During one of the phone conversations, counsel for the appellant informed me that he was discontinuing to rely on the alleged inaccuracy of the underlying assessment made in respect of 4158831 Canada Inc.;
+5. On September 12, 2014, counsel for the appellant confirmed to me by e-mail that the appellant would not be disputing the assessment mentioned in the previous paragraph;
+6. I then confirmed by e-mail the remaining issues;
+7. Afterwards, counsel for the appellant and I discussed the respondent’s position with regard to the three remaining issues stated at paragraph 3 of my affidavit;
+8. Shortly after, I submitted to counsel for the appellant my case law concerning the three issues stated at paragraph 3 of my affidavit;
+9. On October 14, 2014, counsel for the appellant asked me whether the respondent had based herself on paragraph 323(2)(a) or 323(2)(b) of the ETA in assessing the director and asked me to provide him with the relevant documents, if any;
+10. In an e-mail dated October 14, 2014, I informed counsel for the appellant that the respondent based herself on paragraph 323(2)(a) of the ETA, and I sent him the authorization report to issue an assessment to the director, confirming that a writ of seizure in execution of movables was returned nulla bona on February 27, 2007;
+11. The next morning, October 15, 2014, I sent to counsel for the appellant copies of the following documents:
+(a) certificates
+(b) writs of seizure in execution
+(c) nulla bona return
+12. Around 4 p.m. on October 15, 2014, counsel for the appellant informed me by telephone that the appellant still wished to proceed the next day;
+13. When I asked which ground in particular was going to be raised at the hearing, counsel for the appellant told me that he did not want to [Translation] “show his hand”.
+14. I then specifically asked counsel whether the appellant was going to raise the writs of seizure that I had just provided to him because, if so, I would call as witness the collections officer who works in Québec in order to put the writs in evidence;
+15. Counsel for the appellant replied to me that he was only going to [Translation] “allude” to it and he was wondering if there was any need to have the person mentioned in the previous paragraph of my affidavit travel to the hearing since [Translation] “in any case, the documents on the record at the Federal Court are public documents”.
+[6] The appellant is objecting to the respondent’s motion dated October 17, 2014, in accordance with paragraph 69(3)(a) of the Rules and requesting that a hearing be held to dispose of the respondent’s motion in accordance with paragraph 69(3)(b) of the Rules.
+[7] Counsel for the appellant submits that the Documents are not part of the list of documents filed by the respondent and that, at the hearing on October 16, 2014, the respondent had not yet filed with the Court in this case the evidence needed to meet the conditions set out in section 323 of the ETA even though, at paragraph 36 of the Notice of Appeal, the appellant specifically requested that the respondent provide evidence that the conditions for applying section 323 of the ETA have been met.
+[8] Under the heading “Liability of the director of the Company”, paragraph 36 of the Notice of Appeal reads as follows:
+36. First, the Appellant request that the Respondent provides evidence that the condition for the application of section 323 of the ETA have been met.
+[9] Before the case was heard on October 16, 2014, counsel for the respondent and counsel for the appellant had e-mail and telephone exchanges pertaining to the case. These discussions were as follows:
+(a) On September 12, 2014, during a telephone call, Mr. Ammerlaan and counsel for the appellant, Paul Martel and Mélissa Carew, held preliminary discussions regarding a potential settlement, and, the conduct of the hearing, if it took place;
+(b) In an e-mail dated September 12, 2014, counsel for the appellant confirmed to Mr. Ammerlaan that the assessment dated March 30, 2005, in respect of 4158831 Canada inc. relative to the ETA would not be disputed;
+(c) In an e-mail dated September 17, 2014, Mr. Ammerlaan told counsel for the appellant about his understanding of the issues even though that point was never discussed during the telephone conversation on September 12, 2014;
+(d) In an e-mail dated September 17, 2014, Mr. Martel asked Mr. Ammerlaan to provide him with clarifications as well as with the information requested during the telephone conversation on September 12, 2014;
+(e) On September 29, 2014, Mr. Martel sent Mr. Ammerlaan another e‑mail reiterating the requests made in his e-mail dated September 17, 2014;
+(f) In an e-mail dated September 29, 2014, Mr. Ammerlaan confirmed that he read Mr. Martel’s e-mail and informed him that a reply would follow shortly.
+(g) In an e‑mail dated October 3, 2014, Mr. Ammerlaan replied to Mr. Martel’s e‑mail dated September 17, 2014, and forwarded him a decision of the Court of Québec in Monios dated January 9, 2013, indicating that that decision reflected the respondent’s position in this case, answered Mr. Martel’s questions about the issue of timing and dealt with the concept of partition of family patrimony in relation to the transfer of the family residence;
+(h) On October 9, 2014, during a telephone conversation, counsel for the appellant asked to receive a copy of the audit report concerning the director’s liability;
+(i) In an e-mail dated October 9, 2014, Mr. Ammerlaan replied to the e-mail of counsel for the appellant informing them that there was no audit report as such, but rather an authorization report to issue a third party assessment. Counsel for the appellant then requested a copy of the authorization report;
+(j) On October 10, 2014, during a telephone conversation, counsel for the appellant asked Mr. Ammerlaan what evidence he was planning to rely on in order to meet the burden of proof with respect to the conditions in subsection 323(2) of the ETA, and, more specifically, Mr. Martel asked Mr. Ammerlaan whether he had the Documents;
+(k) In an e-mail dated October 10, 2014, Mr. Ammerlaan sent to counsel for the appellant a memorandum on objection and also stated that, if the corporation had been dissolved or liquidated, he would not need the writ of seizure;
+(l) On October 14, 2014, in an e-mail containing several pieces of information, Mr. Ammerlaan sent to counsel for the appellant the unsigned authorization report for the issuing of an administrative assessment and stated that he had called two witnesses, namely, the auditor of 4158831 Canada inc. and the collections officer who had authorized the issuing of the transfer assessment;
+(m) On October 15, 2014, during another telephone conversation, counsel for the appellant again asked counsel for the respondent whether he had the Documents;
+(n) On October 15, 2014, Mr. Ammerlaan e-mailed a copy of the Documents to counsel for the appellant;
+(o) On October 15, 2014, another telephone conversation was held between the parties’ counsel, and counsel for the appellant confirmed at that time that the hearing of October 16, 2014, would take place, and he would definitely refer to the Documents, which had been requested several times.
+[10] At the motion hearing, counsel for the respondent filed with the Court Mr. Ammerlaan’s cross-examination on his detailed affidavit, which is relevant only with respect to the questions of fact stated by Mr. Ammerlaan. The list of documents that was filed and served by the respondent on September 11, 2013, was filed again to fulfill an undertaking made in cross-examination.
+[11] Paul Martel testified at the hearing and confirmed the telephone and e-mail exchanges with Mr. Ammerlaan before the hearing of October 16, 2014. Mr. Martel explained that, during the telephone call on October 10, 2014, he had raised the following four issues:
+(a) the issue of whether the appellant’s use of the proceeds of sale of Ms. Benaroch’s condominium to purchase a new residence constituted a transfer without consideration (paragraph 47 of the Notice of Appeal, which was denied by the respondent);
+(b) the amendment made to section 323 of the ETA in 2005 to include directors’ liability for input tax credits that were overpaid or paid in error;
+(c) the report on objection;
+(d) the issue of whether the conditions for applying section 323 were those set out in paragraph 323(2)(a) or those set out in paragraph 323(2)(b)?
+[12] Mr. Martel explained that he had received a response from Mr. Ammerlaan on October 14, 2014, by e-mail to the effect that the conditions for applying section 323 were those set out in paragraph 323(2)(a) of the ETA.
+[13] Regarding paragraph 13 of Mr. Ammerlaan’s affidavit, Mr. Martel indicated that his response that he did not want to [Translation] “show his hand” was not accurate. According to Mr. Martel, he had actually said [Translation] “since he is not used to arguing his cases the day before the trial, he would definitely refer to them when talking about the Documents”.
+[14] Mr. Martel also indicated that, during the hearing, the respondent still had not put the Documents in evidence, and the respondent had no witnesses present in the courtroom. When the Court granted a recess to allow counsel for the respondent to consider whether witnesses would be called, Mr. Martel stated that he had not discussed with Mr. Ammerlaan the issue of additional testimony or the production of the Documents. When the hearing resumed, counsel for the respondent confirmed to the Court that he would not have any witnesses.
+[15] Mr. Martel confirmed that he had never made an admission concerning the conditions for applying section 323 of the ETA and that he had never waived any piece of evidence.
+[16] In cross-examination, Mr. Martel acknowledged that, before the arguments at the hearing on October 16, 2014, there was no reference to the Documents by either party. To enable Mr. Martel to properly respond, counsel for the respondent had filed a copy of the transcript of the hearing of October 16, 2014, beforehand. Mr. Martel also confirmed that no facts in the Notice of Appeal referred to the Documents.
+[17] Mélissa Carew also testified at the hearing as counsel for the appellant. She was present during the telephone conversations with Mr. Ammerlaan, and she had seen all of the e-mails exchanged with Mr. Ammerlaan. She confirmed the accuracy of the e-mails and corroborated Mr. Martel’s testimony.
+The law
+[18] Section 323 of the ETA provides the following:
+(1) Liability of directors – If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+(2) Limitations – A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+(3) Diligence – A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) Assessment – The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+(5) Time limit – An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+(6) Amount recoverable – Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+(7) Preference – Where a director of a corporation pays an amount in respect of a corporation’s liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid, and where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director’s payment, which assignment the Minister is empowered to make.
+(8) Contribution – A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+[19] Section 138 of the Rules provides for the reopening of the hearing in the following circumstances:
+(1) The judge may reopen a hearing before judgment has been pronounced for such purposes and upon such terms as are just.
+(2) The judge may, at any time before judgment, draw the attention of the parties to any failure to prove some fact or document material to a party’s case, or to any defect in the proceeding, and permit a party to remedy the failure or defect for such purposes and upon such terms as are just.
+Analysis
+[20] The leading case on the reopening of hearings is 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. 2001 SCC 59, in which the Supreme Court of Canada stated the criteria for reopening a hearing, which were cited by Associate Chief Justice Rossiter (as he then was) in Clyde House, 2009 TCC 245 at paragraph 9:
+(a) Would the new evidence, if presented at trial, probably have changed the result?
+(b) Could the evidence have been obtained before trial through the exercise of reasonable diligence?
+[21] In addition, the Supreme Court of Canada stated that the case law dictates that the trial judge must exercise his discretion to reopen the trial “‘sparingly and with the greatest care’ so that ‘fraud and abuse of the Court’s processes’ do not result” (Sagaz, supra, paragraph 61).
+[22] Regarding the first criterion for reopening a hearing, namely, whether the result of the trial would have changed if the new evidence had been presented at trial, I cannot give a definitive answer to this question. There is no doubt that the Documents should have been filed at the hearing even though they were not part of the respondent’s list of documents. However, I do not believe that filing the Documents would have changed the result of the trial because the bailiff who enforced the writ and who drafted the nulla bona return was not called as witness at the hearing. Mr. Martel knew that the only two witnesses who had been called were the auditor and the collections officer. It is undoubtedly one of the reasons why Mr. Martel insisted that the hearing of October 16, 2014, take place despite receiving the Documents the day before the hearing.
+[23] Regarding the second criterion, namely, whether the evidence could have been obtained before trial through the exercise of reasonable diligence, I must answer yes to that question. The evidence showing the liability of the director of 4158831 Canada Inc. was sent to the appellant’s counsel only on October 15, 2014, that is, the day before the trial, while the seizure in execution was realized on February 27, 2007, the nulla bona return was dated February 28, 2007, the assessments made in respect of Ahuva Benaroch were dated March 28, 2007, and the original assessment in respect of the appellant was dated September 25, 2007, and replaced by a reassessment dated July 13, 2012. Given that the events to which the Documents refer date back to 2007, it seems clear to me that the evidence could have been obtained long before the hearing through the exercise of reasonable diligence.
+[24] Given that the respondent did not meet at least one of the criteria stated by the Supreme Court of Canada in Sagaz, supra, this is not an appropriate case for reopening the hearing under section 138 of the Rules.
+[25] At paragraph 36 of his Notice of Appeal, the appellant requested that the respondent submit the evidence that the conditions for applying section 323 of the ETA have been met. I see nothing in that paragraph that could have misled counsel for the respondent. At paragraph 29 of the Reply to the Notice of Appeal, it is specified with regard to paragraphs 36 to 38 of the Notice of Appeal that the respondent defers to the provisions of section 323 of the ETA. The parties were not taken by surprise, and section 323 must be read in its entirety. The conditions for its application are in subsection 323(2), and the respondent has the burden of showing that the conditions of application are met for the director’s liability to arise.
+[26] The fact that the assessment made in respect of the appellant is a third party assessment or an underlying assessment following the transfer of property between persons not at arm’s length does not change the fact that the respondent must first establish the director’s liability. The burden of proof is the same in all cases.
+[27] In this case, the respondent was not prevented from making her case and the evidence was available. Mr. Martel asked counsel for the respondent to specify which paragraph of subsection 323(2) the respondent wished to use to establish the director’s liability. After receiving the answer that paragraph 323(2)(a) would be used, Mr. Martel asked to be sent a copy of the Documents needed to meet the requirements of the paragraph in question.
+[28] In the interests of justice, the respondent’s motion is dismissed with costs of the motion to the appellant.
+Signed at Montréal, Quebec, this 16th day of April 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 29th day of May 2015
+Margarita Gorbounova, Translator
+CITATION:
+2015 TCC 91
+COURT FILE NO:
+2012-4385(GST)G
+STYLE OF CAUSE:
+AMNON BENAROCH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 31, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice Réal Favreau
+DATE OF ORDER:
+April 16, 2015
+APPEARANCES:
+Counsel for the appellant:
+Louis P. Bélanger
+Counsel for the respondent:
+Antoine Lamarre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Louis Bélanger
+Firm:
+Stikeman Elliot LLP
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

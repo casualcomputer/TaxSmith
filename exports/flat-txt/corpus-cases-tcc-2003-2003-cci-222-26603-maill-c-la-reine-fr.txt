@@ -1,0 +1,239 @@
+Title: Maillé c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26603/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-222-26603-maill-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-06-06
+
+# Maillé c. La Reine
+
+- Citation: 2003 CCI 222
+- Decision date: 2003-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3545, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maillé c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-06
+Référence neutre
+2003 CCI 222
+Numéro de dossier
+2002-1117(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-1117(GST)I
+ENTRE :
+FRANÇOIS MAILLÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 23 octobre 2002 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Jocelyne Mailloux Martin
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 18 décembre 2001 portant le numéro PL2001-378, pour la période du 30 juin 1991 au 31 décembre 1999, est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 6e jour de juin 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI222
+Date : 20030606
+Dossier : 2002-1117(GST)I
+ENTRE :
+FRANÇOIS MAILLÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif, C.C.I.
+[1] Il s'agit d'un appel d'une cotisation établie en vertu du paragraphe 228(2) et de l'article 323 de la Loi sur la taxe d'accise ( « L.T.A. » ).
+[2] Les faits pris pour acquis pour établir la cotisation à l'origine de l'appel sont les suivants :
+a) La COMPAGNIE a été constituée en 1984 en vertu de la Loi sur les compagnies, (L.R.Q. c. C-38);
+b) La COMPAGNIE est inscrite aux fins de la Partie IX de la L.T.A., depuis janvier 1991 et son numéro d'inscription est le 135116309;
+c) La COMPAGNIE pour toute la période pertinente du présent litige n'a jamais produit à l'intimée les déclarations trimestrielles de taxe nette qu'elle devait produire en vertu de la L.T.A.;
+d) Malgré des démarches répétées de production, la COMPAGNIE a refusé et/ou a émis de produire ses déclarations trimestrielles de taxe nette en vertu de la L.T.A.;
+e) Suite à une vérification faite par le Ministre concernant la COMPAGNIE des avis de cotisation ont été établis à son endroit et des avis de cotisation lui ont été envoyés pour toutes et chacune des périodes de déclarations pour lesquelles la société était tenue d'en produite à l'intimée depuis son inscription en 1991;
+f) Que cette vérification a établi le montant de la taxe nette qui aurait dû être versé par la COMPAGNIE à l'intimée sur la base des revenus déclarés aux états financiers;
+g) La COMPAGNIE par avis d'opposition s'est opposée aux cotisations établies en vertu de la L.T.A.;
+h) Les cotisations établies à l'égard de la COMPAGNIE ont été maintenues par l'intimée et ce, le ou vers le 12 avril 2000;
+i) La COMPAGNIE n'a pas logé d'avis d'appel à l'encontre des cotisations établies à son égard pour la période entre le 1er avril 1991 et le 30 juin 1999;
+j) Le 21 janvier 2000, un Certificat était émis par la Cour fédérale, section de première instance, sous l'autorité de l'article 316 de la L.T.A. contre La COMPAGNIE dans le dossier GST.202.00;
+k) Le 18 avril 2000, un bref de saisie exécution était décerné par la Cour fédérale, section de première instance, contre la COMPAGNIE;
+l) Le 29 mai 2000, le bref de saisie exécution fut rapporté insatisfait en totalité;
+m) Depuis la date de la constitution de la COMPAGNIE et durant toute la période pertinente au présent litige, l'appelant était un administrateur de la COMPAGNIE;
+n) Pendant toute la période pertinente au présent litige, l'appelant n'a jamais démissionné, n'a pas été remplacé ou destitué à titre d'administrateur de la COMPAGNIE;
+o) L'appelant n'a pas agi avec le soin, la diligence et la compétence requise ni n'a pris toutes les mesures pour prévenir les manquements de la COMPAGNIE à ses obligations à l'égard de la L.T.A. dont celle mentionnée aux sous-paragraphes c) et d) susmentionnés;
+p) La COMPAGNIE a omis de se conformer, notamment, aux articles 165, 221, 225, 228 de la L.T.A. qui stipulent qu'elle devait percevoir la taxe sur les produits et services sur les fournitures taxables qu'elle a effectuées depuis son inscription, calculer sa taxe nette et verser au Receveur général le montant positif de sa taxe nette;
+q) La COMPAGNIE a omis de produire ses déclarations de taxe nette dans les délais prescrits en vertu de la L.T.A. et ce, depuis son inscription;
+r) L'appelant, en tant qu'administrateur agréé, offrant notamment des services de comptabilité, de financement, de fiscalité et de gestion, était au courant des obligations imposées par la L.T.A.;
+s) Pendant toute la période pertinente, la COMPAGNIE n'a jamais cessé ses activités et n'a jamais annulé son inscription;
+[3] Bien que les faits soient assez bien résumés au paragraphe 15 de la Réponse à l'avis d'appel regroupant les alinéas a) à s) inclusivement, il y a lieu d'ajouter certains éléments.
+[4] La compagnie dont l'appelant était administrateur offrait des services en comptabilité, gestion, tenue de livres et planification fiscale. L'expertise de la compagnie en ces matières provenait des qualifications de l'appelant qui a indiqué avoir une formation en comptabilité découlant d'un diplôme en sciences comptables; administrateur agréé, il avait, selon lui, toutes les compétences et l'expérience en ces matières, d'autant plus qu'il avait débuté des études en droit.
+[5] Inscrite aux fins de la partie IX de la L.T.A., au cours des périodes en litige, soit du 30 juin 1991 au 30 juin 1999, la compagnie dirigée par l'appelant a vendu des fournitures taxables dans le cadre de ses activités commerciales.
+[6] À la suite de nombreux avis, la compagnie, a finalement transmis les déclarations fiscales et tous les états financiers le 17 août 1999 et ce, pour les années 1991 à 1997 inclusivement.
+[7] Les cotisations ont été émises sur la base des revenus bruts déclarés et apparaissant aux exercices financiers de 1991 à 1997 inclusivement. Quant aux exercices financiers 1998 et 1999, l'intimée a pris pour acquis les revenus bruts de la dernière année, soit 1997, et les a pris en compte pour les années 1998 et 1999.
+[8] Ainsi, les cotisations ont été établies à partir du montant des fournitures totalisant 185 444 $, selon la ventilation suivante :
+1) du 30 juin 1991 au 30 juin 1992 : 13 100 $;
+2) du 30 juin 1992 au 30 juin 1993 : 13 179 $;
+3) du 30 juin 1993 au 30 juin 1994 : 21 651 $;
+4) du 30 juin 1994 au 30 juin 1995 : 21 151 $;
+5) du 30 juin 1995 au 30 juin 1996 : 26 630 $;
+6) du 30 juin 1996 au 30 juin 1997 : 29 911 $;
+7) du 30 juin 1997 au 30 juin 1998 : 29 911 $;
+8) du 30 juin 1998 au 30 juin 1999 : 29 911 $.
+[9] Les avis de cotisations ont donc été établis à partir des montants ci-avant reproduits, le tout conformément aux dispositions de l'article 165 de la L.T.A.
+[10] La preuve a également révélé que la compagnie n'avait produit ni ses déclarations fiscales, ni les sommaires relatifs aux déductions à la source sur les salaires des employés, ni les formulaires de déclarations pour la taxe sur les produits et services ( « TPS » ) et la taxe de vente au Québec ( « TVQ » ) pour les périodes de 1991 à 1999.
+[11] L'appelant a systématiquement refusé de donner suite aux nombreux avis que lui a transmis l'intimée. Il a également refusé de signer les déclarations relatives aux taxes sous prétexte que cela pourrait lui faire perdre les bénéfices de la prescription acquise selon lui. Il a, en outre, soutenu que sa signature était susceptible de le rendre responsable ès-qualité d'administrateur.
+[12] Suite aux avis de cotisations, la compagnie a enregistré un avis d'opposition, mais n'a ni collaboré ni soumis de documents pertinents à l'appui de ses prétentions, lesquelles auraient pu permettre de comptabiliser les crédits de taxes sur les intrants ( « CTIs » ) auxquels aurait pu avoir droit la compagnie.
+[13] Au niveau de l'opposition, la compagnie a qualifié la cotisation d'arbitraire. Expliquant le contexte et les circonstances ayant justifié la demande d'inscription, elle a réclamé l'annulation rétroactive de l'inscription en espérant que sa requête annulerait l'avis de cotisation.
+[14] Il m'apparaît important de reproduire un passage fort intéressant de cette lettre de l'appelant en date du 24 novembre 1999, préparée et adressée par ce dernier dans le cadre de l'avis d'opposition pour et au nom de la compagnie « Vallières Bronsard Inc. » qu'il dirigeait seul.
+« Ainsi, nous vous demandons d'annuler les cotisations arbitraires de façon rétroactives et au besoin d'annuler nos numéros de TPS et de TVQ. Nous communiquerons avec le ministère advenant que notre chiffre d'affaires dépasse le 30 000 $ afin d'obtenir de nouveau numéro de taxes. »
+[15] La cotisation a été ratifiée; la compagnie n'a pas cru bon de produire un avis d'appel auprès de la Cour canadienne de l'impôt sous prétexte qu'une compagnie devait être représentée par avocat et que la compagnie n'avait pas les ressources financières pour assumer les déboursés requis dans le cadre d'un tel mandat.
+[16] Des suites de la ratification, le cheminement du dossier est très bien résumé par les alinéas h), i), j), k), l) formulés comme suit :
+h) Les cotisations établies à l'égard de la COMPAGNIE ont été maintenues par l'intimée et ce, le ou vers le 12 avril 2000;
+i) La COMPAGNIE n'a pas logé d'avis d'appel à l'encontre des cotisations établies à son égard pour la période entre le 1er avril 1991 et le 30 juin 1999;
+j) Le 21 janvier 2000, un Certificat était émis par la Cour fédérale, section de première instance, sous l'autorité de l'article 316 de la L.T.A. contre La COMPAGNIE dans le dossier GST.202.00;
+k) Le 18 avril 2000, un bref de saisie exécution était décerné par la Cour fédérale, section de première instance, contre la COMPAGNIE;
+l) Le 29 mai 2000, le bref de saisie exécution fut rapporté insatisfait en totalité;
+[17] En date du 17 août 2000, l'intimée, par le biais du ministre du Revenu du Québec, établissait une cotisation portant le numéro PL-2000-168 sous l'autorité de l'article 323 de la L.T.A. à l'égard de l'appelant, à titre d'administrateur de la compagnie, pour les périodes comprises entre les 30 juin 1991 et 1999, ci-après la « période visée » .
+[18] L'appelant a alors été cotisé pour le montant de la taxe nette impayée par la compagnie, soit un montant de 14 201,73 $ plus les pénalités au montant de 4 977,06 $, les intérêts se chiffrant à 4 001,66 $ pour un total de 23 180,45 $.
+[19] L'appelant s'est objecté à l'avis de cotisation PL-2000-168 le 3 octobre 2000 (pièce I-2). En date du 18 décembre 2001, le ministre du Revenu national (le « Ministre » ) a notifié à l'appelant sa décision de modifier l'avis de cotisation PL-2000-168 et ce, conformément au paragraphe 301(5) de la L.T.A.
+[20] Le Ministre a établi un avis de nouvelle cotisation suite à sa décision sur opposition, lequel avis porte le numéro PL-2001-378 (pièce I-3). Les ajustements faits par le Ministre ont eu pour effet de corriger le montant de la TPS perçue au taux de 7% sur le chiffre d'affaires déclaré par la compagnie relativement à son exercice financier du 30 juin 1993 au 30 juin 1994; le montant n'était pas celui de 21 651 $, tel que retenu lors de l'émission de l'avis de cotisation PL-2000-168 mais plutôt 20 387 $. La taxe nette impayée a été réduite à 14 114,48 $, les pénalités imposées au montant de 6 882,69 $, les intérêts de 5 487,57 $ pour un montant total de 24 398,55 $, ce montant a tenu compte des acomptes versés par l'appelant au montant de 2 286,19 $.
+[21] À l'appui de ses prétentions, l'appelant soumet trois arguments à l'encontre des nouvelles cotisations émises sous l'autorité de l'article 323 de la L.T.A.; deux de ses arguments ont trait à la prescription de l'avis de cotisation en litige.
+[22] Quant à son troisième argument, il est à l'effet que la compagnie n'avait pas l'obligation de percevoir et de remettre la taxe nette positive pour la période visée puisqu'elle était un petit fournisseur au sens de la L.T.A. et qu'elle avait avisé le Ministère du revenu du Québec (le « Ministère » ) par courrier recommandé d'annuler son statut d'inscrit. Il s'agit là du principal argument soumis par l'appelant, les deux premiers n'ayant pas fait l'objet d'une preuve très élaborée.
+[23] Tous les arguments de l'appelant sous-entendaient qu'il pouvait contester la cotisation établie et émise à l'encontre de la compagnie qu'il contrôlait, le tout ayant évidemment des effets directs sur la cotisation à l'origine du présent appel.
+[24] L'appelant pouvait-il attaquer validement le bien-fondé des avis de cotisations émises et ratifiées à l'encontre de la compagnie dont il était le seul administrateur ?
+[25] L'intimée s'est objectée à ce que l'appelant fasse une telle preuve.
+[26] La Cour d'appel fédérale a clairement indiqué qu'un bénéficiaire d'un transfert de biens dans le cadre de l'article 160 de la Loi de l'impôt sur le revenu était pleinement justifiée de contester le bien-fondé de la cotisation émise des suites d'un transfert, aux termes duquel il avait bénéficié d'un enrichissement de son patrimoine sans avoir fourni de contrepartie correspondante.
+[27] Il est facile de comprendre cette logique puisque le contribuable cotisé en vertu de l'article 160 de la Loi de l'impôt sur le revenu, est totalement absent du processus à l'origine de la cotisation émise au nom du cédant. En d'autres termes, le bénéficiaire d'un transfert assujetti aux dispositions de l'article 160 peut questionner le bien-fondé de la cotisation émise à l'endroit du cédant et ce, principalement parce qu'il a été absent du processus ayant conduit à l'émission de la première cotisation.
+[28] En novembre 2000, la Cour d'appel fédérale, sous la plume de l'honorable Juge Rothstein dans l'affaire Gaucher c. Canada, 2000 A.C.F. no 1869 (Q.L.), aux paragraphes 4, 6, 7 et 9 rendait un jugement important quant à l'opposabilité d'une cotisation d'abord émise à un contribuable et par la suite émise à nouveau à l'endroit d'un autre contribuable non partie au dossier de la première cotisation.
+[29] Il s'exprimait comme suit :
+4. L'appelante fait maintenant valoir que le Ministre a établi la nouvelle cotisation relative à son ex-mari après l'expiration du délai de prescription de trois ans prévu au paragraphe 152(3.1). Elle souhaite donc invoquer la prescription comme moyen de défense à l'égard de la cotisation dont elle fait l'objet en application du paragraphe 160(1). Le Ministre soutient que l'appelante ne peut recourir à ce moyen de défense parce que la cotisation visant l'ancien mari, une fois confirmée par la Cour canadienne de l'impôt, ne peut être contestée. Le Ministre prétend que, comme il a établi la cotisation après le délai imparti, on doit présumer qu'il a allégué l'existence d'une présentation erronée des faits, que l'ancien mari de l'appelante n'a pas soulevé de défense fondée sur la prescription lors de son appel et que l'appelante ne peut maintenant invoquer ce moyen dans le cadre de son propre appel.
+...
+6. J'estime pour ma part que le juge de la Cour canadienne de l'impôt a commis une erreur lorsqu'il a tiré cette conclusion. Il existe une règle fondamentale relevant de la justice naturelle selon laquelle, sous réserve d'une disposition législative à l'effet contraire, une personne non partie à une instance ne saurait être liée par le jugement qui y est prononcé à l'égard d'autres parties. L'appelante n'était pas partie à l'instance intervenue entre le Ministre et son ex-mari au sujet de la nouvelle cotisation. Cette instance n'avait aucunement pour objet de lui imposer une obligation fiscale. Bien qu'elle ait pu être témoin dans cette instance, elle n'y était pas partie et ne pouvait donc pas y soulever des moyens de défense à l'égard de la cotisation de son ancien mari.
+7. Lorsque le Ministre établit une cotisation à titre dérivé en application du paragraphe 160(1), il invoque une disposition législative particulière qui l'autorise à demander paiement à une seconde personne pour la cotisation d'impôt visant un premier contribuable. Cette seconde personne doit jouir d'un plein droit de défense pour contester la cotisation établie à son endroit, y compris celui d'attaquer la cotisation primaire sur laquelle se fonde la cotisation touchant la seconde personne.
+...
+9. En outre, comme le second contribuable en l'espèce n'était pas partie à l'instance entre le Ministre et le premier contribuable, il n'est pas lié par la cotisation visant le premier contribuable. Le second contribuable est autorisé à soulever tous les moyens de défense que le premier contribuable aurait pu invoquer à l'égard de la cotisation primaire. Il peut arriver que la cotisation du second contribuable soit annulée ou que le montant de celle-ci soit réduit à une somme moins élevée que celle fixée par la cotisation touchant le premier contribuable, mais ces mesures n'ont évidemment aucune incidence sur la cotisation relative au premier contribuable, à l'égard duquel la cotisation primaire était définitive et exécutoire.
+...
+[30] Voulant contester le bien-fondé de la cotisation émise au nom de la compagnie « Vallières Bronsard Inc. » , et faisant l'objet de l'appel, l'intimée s'y est vigoureusement objectée; elle a soutenu que l'appelant ne pouvait pas contester la validité de la cotisation émise à l'encontre de la compagnie et qu'il devait limiter sa preuve à celle émise en son nom personnel en vertu du paragraphe 228(2) et de l'article 323 de la L.T.A.
+[31] En réplique, l'appelant a fait valoir qu'il n'avait pas pu intervenir personnellement lors des procédures initiales, puisque la compagnie devait être représentée par avocat et qu'elle n'avait pas les ressources financières requises pour mandater un avocat. N'ayant pas interjeté appel de la cotisation, elle fut ratifiée et est devenue définitive.
+[32] Il est important de rappeler que l'appelant était le seul administrateur de la compagnie, et cela, pour toutes les années en cause.
+[33] Peut-on ignorer l'existence des deux personnalités juridiques distinctes ? En l'espèce, l'appel porte sur une cotisation émise au nom de l'appelant personnellement, des suites d'une première cotisation émise au nom de la corporation qu'il dirigeait et contrôlait la compagnie « Vallières Bronsard Inc. » .
+[34] Le fondement de la cotisation est directement lié à la fonction que l'appelant assumait dans la compagnie et, c'est à ce titre, que sa responsabilité a été engagée. L'appelant administrait, gérait et contrôlait la compagnie.
+[35] En sa qualité d'administrateur, il se devait d'être vigilant, responsable et surtout ultra-prudent eu égard aux conséquences qu'une éventuelle cotisation pouvait avoir sur son patrimoine personnel.
+[36] En l'espèce, l'appelant peut-il à partir de ce jugement (Gaucher, précité) attaquer le bien-fondé de la cotisation d'abord émise à l'encontre de la compagnie qu'il dirigeait ?
+[37] Les faits sont fort différents de ceux de l'affaire Gaucher en ce que l'appelant, de par sa fonction d'administrateur avait la capacité et la possibilité de contester le bien-fondé de la cotisation au moment où elle a été émise. Il l'a d'ailleurs fait, mais d'une manière fort discutable et surtout incomplète. Il a même manifesté une certaine indifférence croyant, de toute évidence, que sa responsabilité personnelle ne pouvait être mise en cause.
+[38] La preuve a démontré que l'appelant, ès-qualité d'administrateur, n'avait pas cru bon épuiser tous les moyens à la disposition de la compagnie pour contester le bien-fondé de la cotisation en faisant notamment appel devant la Cour canadienne de l'impôt.
+[39] Dans l'affaire de Karl Schuster c. Sa Majesté la Reine, rapportée à 2001 G.S.T.C. 91, l'honorable juge en chef Garon, dans le cadre d'une demande de précisions, a eu à statuer sur cette question. Après avoir analysé les différences entre l'article 160 (transfert de biens entre personnes ayant un lien de dépendance) et l'article 227.1 (responsabilité des administrateurs) de la Loi de l'impôt sur le revenu et l'article 323 de la L.T.A., la Cour a conclu que l'administrateur ne pouvait être admis à contester la cotisation principale de la personne morale puisque entre autres, l'administrateur participe à la décision de la personne morale de contester ou non le bien-fondé d'un avis de cotisation émis à l'endroit de cette dernière alors que tel n'est pas le cas du bénéficiaire d'un transfert de biens en vertu de l'article 160 de la L.T.A.
+[40] Je souscris totalement au jugement de l'honorable juge en chef Garon. Il était prévisible que la cotisation, au moment où elle fut établie, puisse avoir des conséquences directes sur la responsabilité personnelle de l'appelant. Cette responsabilité fait d'ailleurs l'objet de dispositions légales précises et spécifiques, soit au paragraphe 228(2) et à l'article 323 de la L.T.A. L'appelant, de par sa fonction d'administrateur de la compagnie qui a fait l'objet de la première cotisation, a été impliqué dans le processus; il y a participé d'une façon active et il ne peut invoquer quelque faute ou manquement relatifs à ses droits fondamentaux, dont notamment le droit de faire valoir ses prétentions.
+[41] L'appelant en sa qualité d'administrateur a délibérément choisi d'agir d'une manière désinvolte, voire même frivole lors de l'opposition. Il a même poussé l'indifférence à ne pas produire d'avis d'appel. Il doit en assumer les conséquences et ne peut s'en prendre qu'à lui-même de la situation qui a des effets considérables quant au bien-fondé de son appel.
+[42] Je conclus donc que l'objection de l'intimée, à l'effet que l'appelant ne peut pas questionner le bien-fondé de la cotisation émise au nom de la compagnie « Vallières Bronsard Inc. » , était justifiée.
+[43] Bien que ma décision d'accueillir l'objection de l'intimée ait un impact majeur quant à l'issu de l'appel, j'analyserai tout de même le principal argument soumis par l'appelant à savoir sa demande, au moyen d'une formule requise, pour annuler le statut d'inscrit de la compagnie qui aurait dû avoir pour effet d'empêcher toute cotisation.
+[44] L'appelant a témoigné à l'effet qu'il aurait transmis au Ministère, un formulaire prescrit afin de faire annuler le numéro de compte TPS de la compagnie en date du 22 février 1993, le tout accompagné d'un récépissé du client émanant de Postes Canada portant la date du 23 février 1993, lequel fut produit à la Cour sous la pièce A-1.
+[45] Ce document n'aurait jamais été reçu par le Ministère, selon le témoignage de monsieur Jean-Marc Beaudoin, chef de service à l'inscription et au soutien du Ministère, et, selon l'index informatique de 19 pages, produit sous la pièce I-6, lequel index contient toutes les données concernant le compte TPS de la compagnie.
+[46] De plus, aucun récépissé de réception n'a été produit à la Cour par l'appelant pour démontrer que ladite demande d'annulation d'inscription aurait été reçue par les autorités fiscales en 1993. De plus, selon monsieur Beaudoin, il n'existe, au Ministère, aucun registre ou livre où il serait fait état du courrier reçu par poste recommandée ou certifiée ou par autre mode.
+[47] Il ressort du témoignage de monsieur Beaudoin qu'aucune demande d'annulation n'apparaît au dossier de la compagnie sauf pour la révocation du numéro TPS en date du 31 mars 2000 pour non-production d'un cautionnement à la demande de l'agent de recouvrement du Ministère.
+[48] Monsieur Beaudoin a indiqué, se fiant à l'index informatique, qu'aucune lettre n'avait été transmise à la compagnie confirmant l'annulation du compte TPS au cours de l'année 1993 ou après, comme c'est la pratique, sauf pour une lettre en date du 31 mars 2000 avisant monsieur Maillé de la révocation du numéro TPS en l'an 2000 suite à la demande de révocation émanant du Ministère.
+[49] Monsieur Beaudoin a également témoigné à l'effet que quarante-deux (42) demandes de production de déclaration avaient été transmises à la compagnie et malgré cela, les déclarations n'ont jamais été produites au Ministre.
+[50] Selon le témoin, l'adresse au dossier est celle du 376A, 83e avenue, à Chomedey ainsi que la case postale 68, succursale postale Chomedey. Le courrier était acheminé à cette dernière adresse jusqu'en 1998 où par la suite, il fut acheminé à l'adresse de la 83e avenue. Toujours selon monsieur Beaudoin, aucune autre adresse ne se retrouve à l'index informatique.
+[51] Il y a lieu de souligner que l'index informatique ne fait aucunement mention que certaines des demandes de production n'auraient pas été reçues par la compagnie et retournées au Ministère avec mention « déménagé » ou « inconnu à cette adresse » .
+[52] En ce qui concerne l'appelant, celui-ci nie avoir reçu autant de demandes de production. Son témoignage est à l'effet qu'il en aurait reçu quelques-unes après l'envoi de son formulaire d'annulation en 1993, mais que ces formulaires furent mis à la poubelle, tout comme c'est le cas pour les demandes d'acomptes provisionnels.
+[53] En outre, l'intimée a fait la preuve que l'appelant avait, pour la majeure partie du temps, conservé la même adresse que celle indiquée lors de sa demande d'enregistrement. Je n'accorde aucune crédibilité aux explications soumises par l'appelant; il s'agit de pures inventions.
+[54] D'ailleurs, l'appelant a lui-même fourni la preuve à cet égard. En effet, il est évident que si l'appelant avait fait une telle demande d'annulation du statut d'inscrit de la compagnie qu'il dirigeait, il aurait fait de cette demande d'annulation son principal argument pour soutenir sa contestation au niveau de l'opposition. Or, il écrit et je reproduis, à nouveau, l'extrait de la lettre de l'appelant soumise dans le cadre de l'opposition :
+« Ainsi, nous vous demandons d'annuler les cotisations arbitraires de façon rétroactives et au besoin d'annuler nos numéros de TPS et de TVQ. Nous communiquerons avec le ministère advenant que notre chiffre d'affaires dépasse le 30 000 $ afin d'obtenir de nouveau numéro de taxes. »
+[55] Une personne ayant autant d'expérience, de connaissances et aussi confiante en ses moyens, n'aurait certainement pas formulé ainsi ses prétentions si elle avait, dans le passé, fait une demande formelle d'annulation. Il y a là un élément largement suffisant pour confirmer que l'appelant a inventé, de toute pièce, sa prétention d'avoir demandé qu'on procède à l'annulation du statut d'inscrit de la compagnie « Vallières Bronsard Inc. » ; le tout étant, en outre, corroboré par les explications nombreuses et détaillées de l'intimée à l'effet qu'il n'existait aucune trace d'une telle demande.
+[56] À ce stade, il y a lieu de reproduire le contenu de l'article 323 paragraphes (1), (2), (3), (4) et (5) de la L.T.A. :
+Responsabilité des administrateurs
+323(1) Les administrateurs de la personne morale au moment où elle était tenue de verser une taxe nette comme l'exigent les paragraphes 228(2) ou (2.3), sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer cette taxe ainsi que les intérêts et pénalités y afférents.
+Restrictions
+323(2) L'administrateur n'encourt de responsabilité selon le paragraphe (1) que si :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l'article 316 et il y a eu défaut d'exécution totale ou partielle à l'égard de cette somme;
+b) la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l'objet d'une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le premier en date du début des procédures et de la dissolution;
+c) la personne morale a fait une cession, ou une ordonnance de séquestre a été rendue contre elle en application de la Loi sur la faillite et l'insolvabilité, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l'ordonnance.
+Diligence
+323(3) L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+Cotisation
+323(4) Le ministre peut établir une cotisation pour un montant payable par une personne aux termes du présent article. Les articles 296 à 311 s'appliquent, compte tenu des adaptations de circonstance, dès que le ministre envoie l'avis de cotisation applicable.
+Prescription
+323(5) L'établissement d'une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu'il a cessé pour la dernière fois d'être administrateur.
+[57] La compagnie dirigée par l'appelant a été cotisée en 1999; l'appelant a été cotisé le 17 août 2000. La compagnie a opéré à compter de l'année de son inscription en 1991 et ce jusqu'en 1997; l'appelant a lui-même soumis les états financiers pour cette période au mois d'août 1999 à la suite d'innombrables avis.
+[58] L'appelant a produit un avis d'opposition le 24 novembre 1999, est intervenu dans le cheminement du dossier et a soumis des arguments.
+[59] La compagnie n'a pas fait cession de ses biens ni fait face à une ordonnance de séquestre et n'avait pas initié de procédures de dissolution. L'appelant n'a pas validement démissionné ou n'a pas été démis de ses fonctions.
+[60] L'appelant soutient que la compagnie a opéré de façon illégale du fait d'avoir fait défaut de produire ses rapports annuels auprès de l'inspecteur général des institutions financières (l' « IGIF » ), le dernier rapport remontant à l'année 1993 et que, de plus, la compagnie a omis de s'immatriculer à compter du 1er janvier 1994 en vertu de la Loi sur la publicité légale.
+[61] Il soumet que la compagnie ne pouvait légalement opérer vu la non-conformité aux lois précitées et par conséquent, qu'il ne devrait pas être tenu personnellement responsable des dettes de la compagnie envers le Ministre. Il soumet également que la cotisation est prescrite. Il s'agit là d'arguments tout à fait frivoles, d'autant plus que l'appelant était seul administrateur de la compagnie en question et que le fondement du présent appel concerne sa propre responsabilité.
+[62] En l'instance, le témoignage et l'abondante preuve documentaire produite par la représentante de l'IGIF (pièce I-3) confirment que la société « Vallières Bronsard Inc. » n'a pas été radiée d'office ni dissoute par l'IGIF, et ce malgré les omissions et les nombreux manquements.
+[63] Comme la compagnie n'a jamais produit ses déclarations relatives aux taxes malgré les nombreuses demandes, le Ministre était toujours dans le délai pour émettre les cotisations à l'égard de la compagnie en septembre 1999. Celle-ci était donc toujours redevable du montant cotisé lors de l'émission de l'avis de nouvelle cotisation à l'endroit de l'administrateur de la compagnie, la dette n'étant pas éteinte.
+[64] Bien plus, la dette a été certifiée. Selon le paragraphe 316(2) de la L.T.A., le certificat fait en sorte qu'il s'agit d'un jugement exécutoire contre la débitrice fiscale (la compagnie) pour une créance de Sa Majesté.
+[65] Quant à l'argument prenant son assise dans les dispositions du Code civil du Québec, (le « Code » ) la prescription applicable serait celle de dix (10) ans à cause du titre de créance qu'est le jugement contre cette dernière par application de l'article 2494 du Code, lequel prévoit que « Le droit qui résulte d'un jugement se prescrit par dix ans s'il n'est pas exercé » .
+[66] Les prétentions et arguments de l'appelant sont assez surprenants de la part de quelqu'un qui s'est décrit comme un gestionnaire avisé, un administrateur et un consultant en fiscalité, associé ou impliqué dans différentes sociétés à titre d'administrateur et d'actionnaire unique.
+[67] Il affirme avoir représenté des clients auprès de diverses instances gouvernementales dans des affaires d'impôt, de taxes, etc. Il a même indiqué avoir représenté à quelques reprises certains clients devant la Cour canadienne de l'impôt. Il a en outre suivi des cours en gestion, en administration, en comptabilité et en droit.
+[68] Malgré toutes ses qualités, son expertise et ses connaissances multiples, l'appelant admet n'avoir produit aucun rapport d'impôt puisque selon lui, il n'avait aucun impôt à payer. Il admet avoir délibérément choisi de ne pas donner suite à certaines correspondances jugeant qu'il s'agissait de correspondances farfelues, sans intérêt et inutiles. Malgré les nombreux avis l'enjoignant de donner aux demandes, il n'a pas daigné obtempérer sous prétexte que ce n'était ni pertinent, ni nécessaire.
+[69] Il ressort du témoignage de l'appelant qu'il était un homme d'affaires avisé. Selon lui, il a tout bien fait, avait d'excellentes raisons pour agir comme il l'a fait et n'a strictement rien à se reprocher.
+[70] Pour toute la durée de la période où la compagnie « Vallières Bronsard Inc. » était assujettie aux obligations prévues par la L.T.A., l'appelant était l'unique administrateur. Il a délibérément refusé de respecter les obligations découlant du statut d'inscrit que la compagnie avait elle-même requis à la suite de démarches formelles à cet effet; il dirigeait et contrôlait cette compagnie. Malgré les nombreux avis de se conformer, il a systématiquement et délibérément décidé de ne pas le faire.
+[71] Des suites de son entêtement injustifié et de son arrogance manifeste, l'intimée a établi une cotisation estimative conformément aux dispositions de la L.T.A. Certes, cette façon de faire n'était pas idéale, mais il s'agissait dans les circonstances de la seule avenue disponible pour l'intimée.
+[72] Suites à l'émission de la cotisation d'abord établie d'une manière arbitraire, l'appelant aurait pu corriger la situation par la production des pièces justificatives auprès de la personne responsable de la révision; encore là, l'appelant, ès-qualité d'administrateur a délibérément choisi de ne pas se soumettre à la demande clairement formulée par madame Louise Maurice (pièce I-13).
+[73] Après avoir demandé l'annulation rétroactive de l'enregistrement, il soumet une caisse de factures dans le but de récupérer des CTIs et ce, non pas de la manière exigée, mais toujours selon sa propre façon de voir et de faire.
+[74] Pour ce qui est de la demande d'annulation de l'enregistrement, la preuve a établi que l'intimée a pris connaissance de cet argument très discutable à partir de sa formulation même (voir paragraphe 13) et ce la première fois à l'étape de l'opposition, quoique l'appelant ait fermement affirmé l'avoir communiqué en 1993.
+[75] Après avoir échoué dans la démonstration du bien-fondé de ses prétentions à l'égard de la compagnie « Vallières Bronsard Inc. » , dont il était actionnaire et administrateur unique; l'appelant n'a pas jugé à propos de faire appel auprès de la Cour canadienne de l'impôt sous prétexte qu'une compagnie devait être représentée par avocat et qu'il n'avait pas les moyens de payer les honoraires d'un avocat pour un tel mandat.
+[76] Le dossier a suivi son cours et les procédures d'exécution ont été entamées et ont résulté par le constat d'une absence totale de biens dans le patrimoine de la compagnie. Le dossier a alors fait l'objet d'un réalignement conformément à l'article 323 de la L.T.A.
+[77] Cette fois, l'appelant a choisi d'initier une procédure d'appel devant cette Cour et a déployé toute son énergie pour contester le bien-fondé non pas de la cotisation à l'origine du présent appel, mais celle émise au nom de la compagnie « Vallières Bronsard Inc. » , soulevant du même coup l'objection justifiée de l'intimée quant à la pertinence d'une telle demande.
+[78] Pour ce qui est de sa responsabilité personnelle quant à la cotisation à l'origine du présent appel, l'appelant n'a soumis aucune preuve qui soit de nature à justifier l'annulation de la cotisation. Bien au contraire, la preuve a révélé que l'appelant, a agi d'une manière irresponsable et téméraire.
+[79] L'appelant avait une telle assurance dans ses moyens qu'il se croyait plus compétent que quiconque, y compris les préposés de l'intimée, pour décider ce qu'il devait ou ne devait pas faire dans la gestion tant de ses affaires personnelles que celles de sa société.
+[80] Pour ce qui est des pénalités, elles sont tout à fait justifiées, puisque la prépondérance de la preuve a démontré d'une manière non équivoque que l'appelant a agi d'une manière totalement irresponsable en faisant fi des nombreux avis, en questionnant le bien-fondé d'initiatives pleinement justifiées, à savoir les nombreux avis et rappels de se conformer aux obligations prévues par la L.T.A.
+[81] Le paragraphe 323(3) de la L.T.A. prévoit essentiellement qu'un administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[82] L'appelant a agi avec un degré d'insouciance hors du commun, notamment en ne produisant aucun formulaire de déclaration.
+[83] L'appelant n'a pris aucune mesure pour se soumettre à la Loi, ni entrepris aucune démarche positive pour prévenir les manquements ou les omissions de la compagnie. Sa responsabilité personnelle a été engagée.
+[84] Le fardeau de preuve reposait sur l'appelant puisque la cotisation en litige jouit d'une présomption de validité au sens du paragraphe 299(2) de la L.T.A.
+[85] L'appelant ne s'est pas jamais préoccupé de ses obligations en vertu des lois fiscales, dont la L.T.A., et la seule avenue pour le Ministre a été d'établir le montant de la TPS perçue à partir du montant des revenus bruts finalement déclarés par la compagnie, soit les fournitures effectuées. Vu le refus de l'appelant de collaborer et d'apporter une preuve concernant la dette de la compagnie, le montant de la taxe nette positive, les intérêts et la pénalité sont justifiés et bien fondés. L'avis de la nouvelle cotisation PL-2001-378 est bien fondé en faits et en droit.
+[86] Le Ministre était justifié d'émettre l'avis de nouvelle cotisation en litige au nom de l'appelant, lequel est devenu solidairement responsable avec la compagnie du montant de la taxe nette, des pénalités et des intérêts que cette dernière a omis de verser au Ministre pour toute la période visée, le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada ce 6e jour de juin 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI222
+No DU DOSSIER DE LA COUR :
+2002-1117(GST)I
+INTITULÉ DE LA CAUSE :
+François Maillé et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES
+Audience :
+Arguments de la partie appelante :
+Plaidoirie de l'intimée :
+le 23 octobre 2002
+le 16 décembre 2002
+le 29 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 6 juin 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Jocelyne Mailloux Martin
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

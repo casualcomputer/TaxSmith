@@ -1,0 +1,128 @@
+Title: Abdul c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27855/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-172-27855-abdul-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2005-03-02
+
+# Abdul c. Ressources Humaines
+
+- Citation: 2005 CCI 172
+- Decision date: 2005-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 330, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abdul c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-02
+Référence neutre
+2005 CCI 172
+Numéro de dossier
+2004-3210(OAS)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2004-3210(OAS)
+ENTRE :
+ABDUL RAHIM ABDUL-RAHMAN,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Montréal (Québec), le 14 février 2005
+Devant : l’honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision rendue par le ministre du Développement des ressources humaines Canada, à la suite d’un renvoi fait par un tribunal de révision en application du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mars 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 4e jour d’août 2005.
+Hélène Tremblay, traductrice
+Référence : 2005CCI172
+Date : 20050302
+Dossier : 2004-3210(OAS)
+ENTRE :
+ABDUL RAHIM ABDUL-RAHMAN,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES CANADA,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit ici d’un renvoi fait par un tribunal de révision, en application du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse (la « Loi »), qui vise à obtenir une décision de la Cour sur la question de savoir si un montant de 3 099,30 $, qui est une rente de retraite reçue du Régime de rentes du Québec pour l’année 2002, doit être inclus dans le calcul des revenus de M. Abdul‑Rahman aux fins de l’application de la Loi.
+[2] L’appelant ne conteste pas le fait qu’il a droit à une rente de retraite aux termes de la Loi sur le régime de rentes du Québec (le « Régime de rentes du Québec »). Il soutient que la rente ne doit pas être incluse dans ses revenus parce qu’il ne s’agit pas d’un revenu d’emploi. Il soutient également que dans un dictionnaire, une rente de retraite n’est pas définie comme étant un revenu gagné. À cet égard, il renvoie à la traduction de « rente » qu’il a trouvée dans un dictionnaire de poche français-anglais. Le mot « rente » est traduit par « unearned income, pension » (« revenu non gagné, pension »).
+[3] L’avocat de l’intimé me renvoie aux diverses dispositions législatives qui s’appliquent à la présente affaire.
+Analyse et conclusion
+[4] L’article 2 de la Loi, intitulé « Définitions », définit le revenu comme suit :
+« revenu » Le revenu d’une personne pour une année civile, calculé en conformité avec la Loi de l’impôt sur le revenu, sous réserve de ce qui suit […]
+[5] Les exceptions mentionnées ne sont pas pertinentes en l’espèce.
+[6] La partie de l’alinéa 56(1)a) de la Loi de l’impôt sur le revenu qui s’applique ici se lit comme suit :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) Pensions, prestations d’assurance-chômage, etc. — toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[…]
+(B) une prestation prévue par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l’article 3 de cette Loi,
+[…]
+[7] Cette disposition stipule qu’un montant de n’importe quel type de prestation reçu par un contribuable aux termes d’un régime provincial, au sens de l’article 3 du Régime de pensions du Canada, doit être inclus dans les revenus du contribuable.
+[8] L’article 3 du Régime de pensions du Canada se lit comme suit :
+APPLICATION ET EFFET DE LA LOI
+3(1) Les définitions qui suivent s’appliquent à la présente loi.
+« province instituant un régime général de pensions » Province qui, selon un règlement pris sur la recommandation du ministre du Développement des ressources humaines, est, pour l'application de la présente loi, une province dont le gouvernement a, selon le cas :
+a) au plus tard le 3 mai 1965, signifié l'intention de cette province de procéder à l'établissement et à la mise en oeuvre dans la province, au lieu de l'application de la présente loi, d'un régime de pensions de vieillesse et de prestations supplémentaires prévoyant le versement de cotisations à compter de l'année 1966 et le paiement de prestations comparables à celles qui sont prévues par la présente loi;
+[…]
+« régime provincial de pensions » Régime de pensions de vieillesse et de prestations supplémentaires, pour l'établissement et la mise en vigueur duquel une disposition a été prise, comme l'indique l'alinéa a) ou b) de la définition de «province instituant un régime général de pensions», aux termes d'une loi d'une telle province.
+[9] Le Règlement visant les pensions d’une province désignée prévoit ce qui suit :
+1. Le présent règlement peut être cité sous le titre : Règlement visant les pensions d’une province désignée.
+2. La province de Québec est désignée aux fins du Régime de pensions du Canada, comme une province dont le gouvernement, avant l'expiration du 30e jour suivant le 3 avril 1965, a signifié l'intention de procéder à l'établissement et à la mise en oeuvre dans cette province, au lieu de l'application du Régime de pensions du Canada, d'un régime de pensions de vieillesse et de prestations supplémentaires, prévoyant le versement de cotisations à compter de l'année 1966 et le paiement de prestations comparables à celles qui sont prévues par le Régime de pensions du Canada..
+[10] L’article 105 de la Loi sur le régime des rentes du Québec indique ce qui suit :
+ADMISSIBILITÉ
+105 La Régie doit, selon les règles établies dans la présente loi, payer les rentes et prestations suivantes :
+a) une rente de retraite à un cotisant admissible;
+[…]
+[11] Selon les règles concernant l’interprétation des lois, un tribunal peut consulter un dictionnaire pour comprendre la signification d’un mot seulement si ce mot n’est pas défini dans une loi.
+[12] En l’espèce, l’intention du législateur est très claire. Le terme « revenu » est défini dans la Loi sur la sécurité de la vieillesse comme étant un revenu calculé en conformité avec la Loi de l’impôt sur le revenu. Un tribunal ne peut pas aller au-delà de cette définition. Toutefois, je peux affirmer, en passant, que les définitions que j’ai trouvées dans les dictionnaires concordent avec cette signification.
+[13] En application de l’alinéa 56(1)a) de la Loi de l’impôt sur le revenu, le montant d’une prestation reçue en vertu de la Loi sur le régime de rentes du Québec doit être inclus dans le calcul des revenus.
+[14] Par conséquent, le montant de 3 099,30 $ doit être inclus dans le calcul des revenus aux fins de l’application de la Loi sur la sécurité de la vieillesse.
+Signé à Ottawa, Canada, ce 2e jour de mars 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 4e jour d’août 2005.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2005C.C.1.72
+DOSSIER DE LA COUR : 2004-3210(OAS)
+INTITULÉ : Abdul Rahim Abdul-Rahman c. Le Ministre du développement des ressources humaines Canada
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 14 février 2005
+MOTIFS DU JUGEMENT : L’honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : Le 2 mars 2005
+COMPARUTIONS :
+Pour l’appellant :
+L’appellant lui-même
+Avocat de l’intimé :
+Me Simon Petit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appellant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

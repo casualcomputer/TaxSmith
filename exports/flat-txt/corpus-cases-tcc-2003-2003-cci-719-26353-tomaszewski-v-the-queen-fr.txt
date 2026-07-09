@@ -1,0 +1,165 @@
+Title: Tomaszewski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26353/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-719-26353-tomaszewski-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-05
+
+# Tomaszewski v. The Queen
+
+- Citation: 2003 CCI 719
+- Decision date: 2003-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3366, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tomaszewski v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-05
+Référence neutre
+2003 CCI 719
+Numéro de dossier
+2002-4383(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4383(IT)G
+ENTRE :
+M. W. TOMASZEWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue avec celle de M. W. Tomaszewski (2002-4385(IT)I) le 24 septembre 2003 à Vancouver (Colombie-Britannique)
+Par : L'honorable juge J. M. Woods
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Eric Douglas
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l'intimée visant à obtenir d'une ordonnance annulant l'appel numéro 2000-4383(IT)G, ou subsidiairement, une ordonnance prolongeant le délai accordé à l'intimée pour produire une Réponse à l'avis d'appel et joignant le présent appel à l'appel numéro 2002-4385(IT)I;
+ET APRÈS AVOIR lu la documentation présentée, y compris les affidavits de Tom Chang et de Ron Datta;
+ET APRÈS AVOIR entendu les observations de l'appelant et de l'avocat de l'intimée;
+LA COUR ORDONNE que :
+1. la requête de l'intimée visant à joindre le présent appel à l'appel numéro 2002-4385(IT)I est rejetée;
+2. la requête de l'intimée visant l'annulation de l'appel est rejetée sans dépens;
+3. l'intimée aura 60 jours à compter de la date de la présente ordonnance pour produire une Réponse à l'avis d'appel.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 26e jour de mars 2004.
+Nancy Bouchard, traductrice
+Dossier : 2002-4385(IT)I
+ENTRE :
+M. W. TOMASZEWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue avec celle de M. W. Tomaszewski (2002-4383(IT)G) le 24 septembre 2003 à Vancouver (Colombie-Britannique)
+Par : L'honorable juge J. M. Woods
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Eric Douglas
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l'intimée visant à obtenir une ordonnance annulant l'appel numéro 2000-4385(IT)I, ou subsidiairement, d'une ordonnance prolongeant le délai accordé à l'intimée pour produire une Réponse à l'avis d'appel et joignant le présent appel à l'appel numéro 2002-4383(IT)G;
+ET APRÈS AVOIR lu la documentation présentée, y compris les affidavits de Tom Chang et de Ron Datta;
+ET APRÈS AVOIR entendu les observations de l'appelant et de l'avocat de l'intimée,
+LA COUR ORDONNE que :
+1. la requête de l'intimée visant à joindre le présent appel à l'appel numéro 2002-4383(IT)G est rejetée;
+2. la requête de l'intimée visant l'annulation de l'appel est rejetée sans dépens;
+3. l'intimée aura 60 jours à compter de la date de la présente ordonnance pour produire une Réponse à l'avis d'appel.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« J. M. Woods »
+Le juge J. M. Woods
+Traduction certifiée conforme
+ce 26e jour de mars 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI719
+Date : 20031205
+Dossier : 2002-4383(IT)G
+ENTRE :
+M. W. TOMASZEWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2002-4385(IT)I
+ENTRE :
+M. W. TOMASZEWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Woods
+[1] Dans la présente requête, la Couronne demande une ordonnance visant l'annulation des appels interjetés par Max Tomaszewski au motif que ces appels ont été interjetés plusieurs années après la limite fixée au paragraphe 169(1) de la Loi de l'impôt sur le revenu. M. Tomaszewski a répondu à la requête en soutenant que les appels n'étaient pas en retard parce que les avis de nouvelle cotisation ne lui ont jamais été envoyés par la poste.
+[2] La Couronne soutient que les avis de nouvelle cotisation ont été postés à M. Tomaszewski. Subsidiairement, la Couronne suggère que, si les avis n'ont pas été envoyés par la poste mais communiqués autrement, les appels sont quand même en retard bien que le délai prescrit au paragraphe 169(1) débute à la date de l'envoi par la poste. Cet argument est fondé sur une présumée contradiction dans la formulation des paragraphes 169(1) et 165(3).
+Faits
+[3] Le ministre du Revenu national a délivré des avis de nouvelle cotisation datés du 22 novembre 1996 concernant les années d'imposition 1992, 1993, 1994 et 1995 de M. Tomaszewski. Des avis d'opposition à ces nouvelles cotisations ont été dûment déposés et le 22 août 1997, le ministre a délivré d'autres avis de nouvelle cotisation visant les années d'imposition 1993, 1994 et 1995, ainsi qu'un avis de ratification pour l'année d'imposition 1992 (collectivement, les avis).
+[4] Selon M. Tomaszewski, ni lui ni le cabinet d'expertise comptable qui recevait d'ordinaire sa correspondance fiscale n'a reçu les avis. Cependant, il était au courant de l'existence d'un avis de cotisation non réglé et, au début, il n'avait pas l'intention d'interjeter appel parce que les arriérés n'étaient pas élevés. Pendant un certain temps, il a essayé de résoudre la question du paiement de façon satisfaisante avec le service de la perception de l'Agence des douanes et du revenu du Canada (ADRC). Le service de la perception a fini par entamer des mesures de recouvrement plus énergiques en demandant paiement à des tiers. M. Tomaszewski a donc décidé de voir s'il était encore possible d'interjeter appel à l'encontre des nouvelles cotisations même si plusieurs années s'étaient écoulées. Il a conclu que cela était possible parce qu'il n'avait jamais reçu les avis. Par conséquent, le 4 novembre 2002, M. Tomaszewski a déposé des avis d'appel relativement aux avis du 22 août 1997.
+[5] La Couronne a adopté la position selon laquelle les avis ont été envoyés par la poste le 22 août 1997 et a présenté à l'appui les affidavits d'un agent de perception et d'un fonctionnaire du contentieux des affaires fiscales. L'affidavit de l'agent de perception a été présenté pour établir que M. Tomaszewski était au courant de la dette fiscale non réglée. Un extrait de cet affidavit est ainsi rédigé :
+[traduction]
+Le 3 septembre 2002, au cours d'un appel téléphonique que j'ai reçu de M. Tomaszewski, il a demandé des renseignements sur un Avis d'opposition qui avait été déposé en 1997 et rejeté. Il m'a ensuite questionné sur la possibilité d'en appeler de ce rejet.
+L'affidavit du fonctionnaire du contentieux des affaires fiscales a été présenté pour établir que les avis avaient été postés. La partie pertinente de cet affidavit est formulée de cette façon :
+[traduction]
+2. J'ai la charge des registres appropriés de l'Agence et j'ai connaissance de la pratique de celle-ci. [...]
+5. D'après mon examen des registres de l'Agence, d'autres Avis de nouvelle cotisation pour les années d'imposition 1993 et 1994 ont été expédiés par la poste ou autrement communiquésà l'appelant le 22 août 1997 [...]
+7. À l'époque où l'Agence examinait les Avis d'opposition de l'appelant, l'Agence avait pour politique de poster un Avis de ratification à la même date que l'on envoyait tout Avis de nouvelle cotisation connexe dans les situations où le contribuable avait déposé une opposition à plus d'une année d'imposition.
+(italiques ajoutées)
+[6] Le fonctionnaire du contentieux des affaires fiscalesde l'ADRC a aussi témoigné en personne. Il a expliqué qu'il avait connaissance des avis grâce à l'ordinateur central de l'ADRC, lequel constituait la seule source d'information au sujet des nouvelles cotisations. Même s'il déclarait dans son affidavit que les avis avaient été [traduction] « expédiés par la poste ou autrement communiqués » , il a affirmé que selon lui, ils avaient été postés. Cette affirmation était fondée sur une mention dans l'ordinateur de la date du [traduction] « PNC » (programme des nouvelles cotisations) du 22 août 1997. Le fonctionnaire a parlé de la date du PNC comme de la date de nouvelle cotisation. Tout en reconnaissant qu'il n'y avait dans le dossier à l'ordinateur aucune référence particulière à une date d'envoi postal, il a expliqué la date du [traduction] « PNC » dans les termes suivants :
+[traduction]
+... ce qu'on appelle la date du « PNC » [...] est la date qui apparaît dans le système informatique et selon notre hypothèse, c'est la date à laquelle l'avis de nouvelle cotisation a été envoyé par la poste.
+[7] Lorsqu'on a demandé à l'agent s'il savait comment les avis de ratification et de nouvelle cotisation étaient envoyés par la poste, il a déclaré qu'il savait comment les ratifications étaient postées parce qu'il avait déjà travaillé dans ce service. Cependant, il ignorait tout de l'envoi des avis de nouvelle cotisation. À ce sujet, il a déclaré ceci :
+[traduction]
+Les avis de nouvelle cotisation sont produits par ordinateur, et je suppose qu'ils sont envoyés par la poste ordinaire, à ma connaissance. Je n'ai jamais observé moi-même la production et l'envoi d'un avis de nouvelle cotisation établi par ordinateur. Je ne suis pas certain de la manière dont cela se passe.
+Dispositions législatives
+Le paragraphe 165(3) de la Loi prévoit ce qui suit :
+(3) Sur réception de l'avis d'opposition, le ministre, avec diligence, examine de nouveau la cotisation et l'annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décisionpar écrit.
+(italiques ajoutées)
+Le paragraphe 169(1) de la Loi prévoit ce qui suit :
+(1) Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt [...]
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+(italiques ajoutées)
+Analyse
+[8] Pour que la Couronne obtienne gain de cause dans la présente requête, il lui incombe d'établir que les avis d'appel n'ont pas été déposés, comme l'exige le paragraphe 169(1), dans les 90 jours qui suivent la date où les avis ont été « expédiés par la poste au contribuable, en vertu de l'article 165 » . Si les avis n'ont pas été « expédiés par la poste en vertu de l'article 165 » ,M. Tomaszewski a le droit d'interjeter appel auprès de la Cour canadienne de l'impôtmalgré un si long délai.
+Interprétation de « expédié par la poste »
+[9] La Couronne laisse entendre que l'affidavit du fonctionnaire du contentieux des affaires fiscales est une preuve suffisante que les avis ont été postés le 22 août 1997. L'une des difficultés de cette suggestion consiste en ce que l'affidavit n'affirme pas que les avis de nouvelle cotisation ont été postés. L'expression employée dans l'affidavit est [traduction] « expédiés par la poste ou autrement communiqués » [1]. En réponse à cette difficulté, la Couronne suggère que le délai prévu au paragraphe 169(1) devrait commencer au moment où l'avis de nouvelle cotisation est communiqué et que les mots « expédié par la poste » au paragraphe 169(1) devraient être interprétés en conséquence. Il est suggéré que cette interprétation est nécessaire pour que le délai de 90 jours commence lorsque le ministre s'est acquitté de l'obligation que lui impose le paragraphe 165(3) d'aviser le contribuable par écrit. Je constate qu'il n'est pas nécessaire de trancher cette question parce que je ne suis pas persuadé, d'après l'ensemble de la preuve, que les avis ont été expédiés par la poste ou autrement envoyés à M. Tomaszewski.
+Preuve de l'envoi postal
+[10] Pour établir que des avis de cotisation ont été postés, la Couronne n'a pas à faire comparaître un témoin qui en ait un souvenir direct. Cependant, une certaine connaissance des méthodes d'envoi postal demeure nécessaire. Le juge Bowman (tel était alors son titre) a traité du type de preuve requis dans l'affaire Schafer c. Canada[2] :
+Dans une grande organisation comme un ministère, un cabinet d'avocats ou d'experts-comptables ou une société, où le courrier envoyé chaque jour est volumineux, il est pratiquement impossible de trouver un témoin pouvant jurer qu'il a déposé au bureau de poste une enveloppe adressée à telle ou telle personne. Le mieux qu'on puisse faire est de décrire en détail les étapes suivies, par exemple le fait d'adresser les enveloppes, d'y insérer des documents, d'apporter les enveloppes à la salle du courrier et de livrer le courrier au bureau de poste.
+Le juge d'appel Rothstein a récemment exprimé une opinion semblable dans l'affaire Kovacevic c. Canada[3] :
+Je conviens que lorsque la loi exige qu'un document soit envoyé par courrier ordinaire par une grande organisation comme un ministère, mais qu'elle n'exige pas que ce soit fait par courrier recommandé ou certifié ou qu'il y ait une preuve d'un moyen d'envoi plus formel, la remarque du juge Bowman dans la décision Schafer est raisonnable. En général, il suffit donc d'énoncer dans un affidavit, souscrit par la dernière personne en autorité qui a traité le document avant qu'il soit soumis à la procédure normale d'envoi du bureau, la description de cette procédure.
+[11] En vertu du paragraphe 244(10), l'affidavit du fonctionnaire du contentieux des affaires fiscales est la preuve des énonciations qui y sont renfermées. Il devrait être pris en ligne de compte, en même temps que le témoignage oral du fonctionnaire. Quant à l'envoi postal des avis, le fonctionnaire n'en avait aucune connaissance directe. Son rôle dans la question visait la procédure litigieuse, et non la méthode d'établissement de la nouvelle cotisation. En ce qui concerne les méthodes d'envoi postal de l'ADRC en général, le fonctionnaire a déclaré qu'il supposait que la date du PNC mentionnée dans le dossier de l'ordinateur est la date à laquelle les avis de nouvelle cotisation sont postés. Il n'avait cependant aucune connaissance des pratiques de l'ADRC concernant l'envoi postal des avis de nouvelle cotisation et n'a pas expliqué sur quoi il fondait sa supposition. D'après l'ensemble de son témoignage, je ne suis pas persuadé qu'il comprenait la signification de la date du [traduction] « PNC » . Par conséquent, la preuve ne me suffit pas pour conclure que les avis de nouvelle cotisation pour les années d'imposition 1993, 1994 et 1995 ont été expédiés par la poste ou autrement envoyés le 22 août 1997, ou qu'ils ont même été envoyés.
+[12] En ce qui a trait à l'avis de ratification pour l'année d'imposition 1992, la Couronne n'a pas réussi non plus à établir qu'il a été expédié par la poste ou autrement envoyé à M. Tomaszewski. Le fonctionnaire du contentieux des affaires fiscales a déclaré que selon les méthodes habituelles de l'ADRC, les avis de ratification sont envoyés par courrier recommandé en même temps que les avis de nouvelle cotisation sont postés. Puisque l'envoi postal des avis de nouvelle cotisation pour les années d'imposition 1993, 1994 et 1995 n'a pas été prouvé, l'envoi postal de l'avis de ratification pour l'année d'imposition 1992 n'est pas prouvé non plus.
+[13] En outre, selon la Couronne, le fait que M. Tomaszewski a reconnu la dette fiscale en traitant avec le service de la perception implique que les avis avaient été postés. D'après l'affidavit de l'agent du recouvrement, M. Tomaszewski savait que ses Avis d'opposition avaient été rejetés. Cela ne permet pas d'établir que M. Tomaszewski avait reçu les avis et ne constitue certainement pas une preuve d'envoi postal. L'argument de la Couronne a été examiné et rejeté par la Cour d'appel fédérale dans la décision Aztec Industries Inc. c. Canada[4], où le juge d'appel Hugessen s'est exprimé en ces termes :
+La fait que le ministre fait valoir une demande, dont une partie a été payée par la contribuable, directement ou par personne interposée, ne constituent pas la preuve de l'existence ou de l'envoi par la poste de ces avis de cotisation.
+[14] La preuve de l'envoi postal dans la présente requête ne suffit pas à établir que les avis ont été expédiés par la poste ou autrement envoyés à M. Tomaszewski ou à son représentant autorisé. La requête visant l'annulation des appels est rejetée. L'intimée aura 60 jours à compter de la date de l'ordonnance pour produire une réponse à chaque avis d'appel.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 26e jour de mars 2004.
+Nancy Bouchard, traductrice
+[1] Cette expression semble provenir du paragraphe 244(1), qui permet d'utiliser l'affidavit comme preuve de l'envoi postal.
+[2] C.C.I, no APP-478-96-GST, 3 juin 1998 ([1998] G.S.T.C. 60).
+[3] [2003] A.C.F. no 1044).
+[4] C.A.F., no A-405-94, 6 avril 1995 (95 DTC 5235).

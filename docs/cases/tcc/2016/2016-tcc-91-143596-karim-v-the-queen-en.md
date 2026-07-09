@@ -1,0 +1,185 @@
+---
+title: "Karim v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143596/index.do"
+last_modified: "2016-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 91"
+citation2: ""
+neutral_citation: "2016 TCC 91"
+decision_date: "2016-04-13"
+language: "en"
+item_id: "143596"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3120
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:53:47.166000+00:00"
+cases_cited_count: 9
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3c3ece795f2e08ba87c9625db1305b5cf7a8e7b8b782ba1e7e29b0aef7cdb77"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Karim v. The Queen
+
+- Citation: 2016 TCC 91
+- Decision date: 2016-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3120, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Karim v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-13
+Neutral citation
+2016 TCC 91
+File numbers
+2015-4881(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-4881(IT)I
+BETWEEN:
+REZAUL KARIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 15, 2016, at Ottawa, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Romina Raeisi
+David Perron
+Counsel for the Respondent:
+Marissa Figlarz
+Ryan Hall
+JUDGMENT
+The appeal from the Re-Determinations made for the 2011, 2012, and 2013 base taxation years and the Notice of Reassessment for the 2013 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of April 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC91
+Date: 20160413
+Docket: 2015-4881(IT)I
+BETWEEN:
+REZAUL KARIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Minister of National Revenue (the “Minister”) issued Notices of Re-Determination to the Appellant for the 2011, 2012, and 2013 base taxation years in which he was denied the Canada Child Tax Benefit (“CCTB”), the Goods and Services Tax Credit (“GSTC”) and several Ontario tax credits. The Minister determined that the Appellant was not the “eligible individual” with respect to his daughter to receive the CCTB and she was not his “qualified dependant” for the purposes of the GSTC. The Re-Determinations were made on the basis that the Appellant’s daughter did not reside with him after March, 2013.
+[2] The Minister also reassessed the Appellant’s 2013 taxation year (“the 2013 Reassessment”) on the basis that he was not entitled to claim the credit for a wholly dependent person and the credit for an eligible child (collectively, “the Credits”) under paragraphs 118(1)(b) and 118(1)(b.1), respectively, of the Income Tax Act (“the Act”).
+[3] The witnesses at the hearing were the Appellant; Havzeta Kadric, who is a friend of the Appellant; Sajeda Zaman, the Appellant’s former spouse (“former spouse”); and, Heather Johnston, an Appeals Officer with the Canada Revenue Agency (“CRA”).
+Preliminary Objections [4] The Respondent argued that this Court has no jurisdiction over certain amounts in the Re-Determinations because they arise under Ontario statutes. I agree. This Court does not have jurisdiction to make a decision with respect to provincial statutes. Consequently, the only amounts properly before me are the CCTB, the GSTC, and the Credits.
+[5] The parties did not agree which periods were under appeal with respect to the CCTB and GSTC. The Appellant’s position was that the relevant period was from March 2013 to December 2013. This would mean that he appealed from the Re-Determinations for the 2011 and 2012 base taxation years only. The Minister’s position was that the period under appeal was actually March 2013 to November 2014, meaning that the Appellant appealed from the Re-Determinations for all three base taxation years.
+[6] The Notice of Appeal did not state which Re-Determinations were being appealed. The Appellant used the Notice of Objection form as his Notice of Appeal. Under the space marked “Tax Year”, the Appellant wrote “2013”.
+[7] However, there was evidence that the Appellant objected to more than just the 2013 Reassessment and two of the three Re-Determinations. The Notice of Confirmation dated August 26, 2015 (Exhibit R-5) stated that in the Notice of Objection, the Appellant objected to the Re-Determinations for all three base taxation years. It also stated that the basis of the Appellant’s objection was that he should be entitled to these amounts for the period from March 2013 to November 2014. I note that the Notice of Confirmation was also attached to the Appellant’s Notice of Appeal.
+[8] Moreover, the CRA Appeals Working Papers-T2020 (Exhibit R-4) showed that on August 20, 2015, Heather Johnston explained to the Appellant that the period under review was March 2013 to November 2014. This entry in Exhibit R-4 was confirmed by Ms. Johnston at the hearing.
+[9] I have concluded that the Appellant objected and appealed from all three Re-Determinations so that, consequently, the relevant period for the CCTB and GSTC is March 2013 to November 2014.
+Facts [10] The Appellant and his former spouse have one daughter who was 13 years old at the start of the relevant period. The Appellant testified that he, his former spouse and his daughter lived together at his apartment until March 2013. After March, the former spouse and his daughter moved out. The Appellant stated that he thought it would be good for his daughter, who was a teenager, to sleep at her mother’s place.
+[11] A Divorce Order, dated December 12, 2013 was tendered as Exhibit A-1. It did not set out any parameters for custody.
+[12] The former spouse testified that in March 2013, she and her daughter moved to a two-bedroom apartment in a building which was several blocks from the Appellant. In 2014, they moved to a one-bedroom apartment in the same building.
+[13] Despite the move, the Appellant was still very involved in his daughter’s life. On school days, he drove her to and from school and her mother’s place. He drove her to extracurricular activities, and volunteered at her school. He submitted letters from the school and called a witness, Ms. Kadric, to corroborate this. He arranged his work hours to accommodate his daughter’s activities. The Appellant also drove his daughter to medical appointments. On school days, the Appellant brought lunch to his daughter. However, the daughter ate dinner at her mother’s place.
+[14] The Appellant submitted evidence that his daughter still used his address on some medical and school forms. The parties to the appeal agreed that the daughter communicated her daily needs to the Appellant and received emotional support from him. According to the former spouse, when her daughter fell ill, she stayed with the former spouse’s mother or other relatives.
+[15] The Appellant testified that he always reserved a room in his apartment for his daughter so that, if she wanted, she could stay with him. However, the Appellant agreed that his daughter has not actually slept there since March 2013. Moreover, his daughter’s furniture, including her bed, had all been moved to her mother’s home. The Appellant’s daughter sometimes did her homework at the Appellant’s apartment.
+[16] The Appellant testified that he paid for his daughter’s glasses and medical needs, and he submitted invoices to support his testimony (Exhibits A-4 and A-6). However, the former spouse testified that, while the Appellant paid for the glasses upfront, she paid him back when she was reimbursed by her insurance company.
+[17] I should also briefly mention a letter tendered as Exhibit R-3. Purportedly from the former spouse, this letter stated that the daughter spends most of her time with the Appellant and that the “child support money” should go to him. However, I cannot attribute any weight to this letter. It was unclear whether this letter was sent to the CRA. More importantly, this letter was written by the Appellant (as was the practice between him and his former spouse) and was not signed by his former spouse. In contrast, a different letter authorizing the Appellant to act on behalf of his former spouse in tax matters was signed by the former spouse. See Exhibit R-2.
+Issues [18] The issues are whether the Appellant is entitled to the CCTB, GSTC, and the Credits.
+Analysis A. The CCTB and GSTC [19] To qualify for the CCTB, the Appellant must be an “eligible individual” under section 122.6 in respect of his daughter, who is a qualified dependant under this section. The relevant requirements are that he:
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant,…
+[…]
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[20] To be entitled to receive the GSTC, the Appellant’s daughter must be his “qualified dependant” under section 122.5. Paragraph (b) of that definition requires that she reside with the Appellant.
+[21] Consequently, to qualify for both the CCTB and GSTC, the daughter must have resided with the Appellant during the relevant period. I find that she did not.
+[22] The Appellant argued that the concept of residence in this context should be interpreted flexibly. He put forth that, because his daughter had a room in his apartment available to her at all times, the Court can find that she resided with him. He also contended that because his former spouse’s residence was only several blocks away from his own, the Court should not require or focus too heavily on the fact that his daughter did not sleep at his apartment. He noted that it is possible for his daughter to have had two residences: one with him and one with his former spouse.
+[23] The Respondent argued that the concept of residence here required, or should require, the Appellant’s daughter to have actually slept at the Appellant’s home.
+[24] The Appellant brought to my attention cases in which a child resided with his or her parent despite not living under the same roof: Grenier v The Queen, 2010 TCC 234 and Penner v The Queen, 2006 TCC 413.
+[25] In Grenier, the taxpayer’s son lived with another party, at first to help babysit, and afterward so he could attend a particular school. The son moved back to live with the taxpayer after about 5 months. In Penner, the taxpayer paid expenses akin to room and board fees for his daughter to stay with another family during the school year so she could attend a particular school. She lived with the taxpayer at all other times. I would also mention Bouchard v R, 2009 TCC 38, where the residence requirement was met despite the child living with other families for 20 months while her father was incarcerated. Her father paid rent and other expenses to these families. Taxpayers have also been successful, despite not living with their children, in extraordinary circumstances: see Jhanji v R, 2014 TCC 126 and Charafeddine v R, 2010 TCC 417.
+[26] In my view, the Grenier, Penner, and Bouchard cases are distinguishable from the present case. In these cases, there was an understanding at all times that the separation was a temporary measure, possibly imposed for reasons outside the taxpayer’s control. It could still be said that the child’s “settled and usual abode” was at the parent’s residence: R(S) v R, 2003 TCC 649. In the case at bar, the evidence suggested that the family as a whole agreed that the Appellant’s daughter would live with her mother permanently.
+[27] Ultimately, the interpretation of “reside” should further the purpose of the CCTB. In R(S), Bonner J. said that the purpose of the CCTB is to provide a single non-taxable monthly payment to the custodial parent of a child. In Bouchard, Woods J. wrote that the legislation imposes a residence requirement in addition to a care requirement to clarify that the benefit is intended for the custodial parent in a divorce situation. Although, in this case, the Divorce Order does not address custody, it is my view that the former spouse is the party envisioned by the legislation to satisfy the residence requirement.
+[28] While the Appellant was a significant part of his daughter’s life and supported her greatly, for example by transporting her on a daily basis, these factors go towards the care requirement, not the residence requirement: Weidenfeld v The Queen, 2010 FCA 333.
+[29] While I agree with the Appellant that a child can simultaneously reside with both parents separately, that was not the case here. The Appellant’s daughter resided only with his former spouse.
+[30] Though this finding disposes of the CCTB and GSTC issues, I will say a few words about whether the Appellant was the primary caregiver since the parties argued this point before me.
+[31] Firstly, I note that paragraph (f) of the definition of “eligible individual” applies, meaning the former spouse is presumed to be the primary caregiver. Although subsection 6301(1) of the Income Tax Regulations (“the Regulations”) enumerates four circumstances in which this presumption does not apply, none of these circumstances are found in the present case.
+[32] However, this presumption is rebuttable: Cabot v R, [1998] 4 CTC 2893, [1998] TCJ No 725 (TCC). In determining who is the primary caregiver, the Court must consider, though is not limited to, the factors in section 6302 of the Regulations: Pollak v R, [1999] 2 CTC 2225, 48 RFL (4th) 441 (TCC). These factors are:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[33] I find that the Appellant, rather than his former spouse, provided the care referred to in (c) and (d). However, the former spouse provided the care in factor (b) and likely provided the care in factor (f). Factors (a), (e), and (g) appear to be balanced between the Appellant and his former spouse. Factor (h) is inapplicable.
+[34] On the whole, I find that these factors and the evidence do not point clearly to either the Appellant or his former spouse as the primary caregiver. The difficulty in this analysis is that it requires a comparative assessment of the care and upbringing offered by each parent, but care and upbringing are not quantifiable values.
+[35] While I have no doubt that the Appellant is a committed and loving father, and that he rebutted many of the Minister’s assumptions, he has not rebutted the statutory presumption that his former spouse was the primary caregiver.
+B. The Credits [36] The credit for a wholly dependent person under paragraph 118(1)(b) requires, among other things, that the Appellant has actually supported his daughter in the Appellant’s self-contained domestic establishment, and for his daughter to have been wholly dependent on him for support. The legislative provision requires that the Appellant:
+(b)(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+[…]
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+[37] In Narsing v R, [1998] FCJ No 156 (FCA), the Federal Court of Appeal found that, in order for someone to be “wholly dependent” on the taxpayer, both parties should live in the same establishment. This was applied by our Court in Pascual v R, 2008 TCC 41. However, Rossiter J. (as he then was) in Bruno v R, 2007 TCC 360, found that the supporting party (a father) met this requirement even though his son did not sleep at his self-contained domestic establishment. However, I note that the facts in Bruno are readily distinguished from ours. In that case, the taxpayer and his spouse, though undergoing a marriage breakdown, resided in different portions of the same matrimonial home. The evidence showed that the taxpayer essentially did everything for his son, including dressing him, cooking all meals, and doing his laundry, and that at night, the son would merely sleep in the portion of the house occupied by the spouse.
+[38] In my view, the question of whether the Appellant’s daughter slept at his domestic establishment (i.e. his apartment) is not the proper question under this statutory provision. Instead, the question is whether he supported her in that establishment. This would, in my view, require the daughter to do more than just occasionally visit at the Appellant’s apartment. Although the Appellant’s daughter did sometimes do her homework at his apartment or visit on the weekends, this is insufficient for me to find that he supported her in that apartment.
+[39] The credit for an eligible child under paragraph 118(1)(b.1) is available if either subparagraphs 118(1)(b.1)(i) or 118(1)(b.1)(ii) is satisfied. Subparagraph 118(1)(b.1)(i) does not apply because it requires the child to ordinarily reside throughout the year with the claimant of the credit together with another parent of the child. Subparagraph (ii) only applies if the claimant is entitled to the credit for a wholly dependent person under paragraph 118(1)(b), which the Appellant is not. Therefore, the credit for an eligible child is also unavailable.
+[40] I note that, in respect of the Credits, the Respondent also pled paragraphs 118(4)(b) and (b.1) of the Act. These paragraphs limit the Credits where two individuals who are both entitled to the Credits fail to agree as to who will get the Credits. In that scenario, neither party gets the Credits. It was unclear to me whether the former spouse claimed the Credits. The Minister’s assumptions only state that the former spouse applied for the CCTB starting March 1, 2013. In any event, it is moot whether these limitations apply because I have found that the Appellant was not otherwise eligible for the Credits.
+[41] In conclusion, the Appellant has not shown that the Minister’s Re-Determinations and Reassessment were incorrect. The appeal is dismissed.
+Signed at Ottawa, Canada, this 13th day of April 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC91
+COURT FILE NO.:
+2015-4881(IT)I
+STYLE OF CAUSE:
+REZAUL KARIM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 15, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+April 13, 2016
+APPEARANCES:
+Agent for the Appellant:
+Romina Raeisi
+David Perron
+Counsel for the Respondent:
+Marissa Figlarz
+Ryan Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

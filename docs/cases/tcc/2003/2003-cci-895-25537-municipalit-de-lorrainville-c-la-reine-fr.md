@@ -1,0 +1,207 @@
+---
+title: "Municipalité de Lorrainville c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25537/index.do"
+last_modified: "2003-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 895"
+citation2: ""
+neutral_citation: "2003 CCI 895"
+decision_date: "2003-12-02"
+language: "fr"
+item_id: "25537"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2377
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:27:24.004000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55fdab074cdece405517433658df6fed3ac3c996805ae25e0c9bb8ff4cd5b498"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Municipalité de Lorrainville c. La Reine
+
+- Citation: 2003 CCI 895
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2377, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité de Lorrainville c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-02
+Référence neutre
+2003 CCI 895
+Numéro de dossier
+2001-1779(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-1779(GST)I
+ENTRE :
+MUNICIPALITÉ DE LORRAINVILLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 30 mai 2003 à Rouyn-Noranda (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Louis-René Breault (Stagiaire en droit)
+Avocat de l'intimée :
+Me Benoit Denis
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation de la taxe sur les produits et services établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 25 août 2000 et qui porte le numéro 22GG0200300, est accordé, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI895
+Date : 20031202
+Dossier : 2001-1779(GST)I
+ENTRE :
+MUNICIPALITÉ DE LORRAINVILLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Il s'agit d'un appel par voie de la procédure informelle d'une cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi » ) pour la période du 1er juillet 1996 au 30 juin 2000. L'avis de cette cotisation porte le numéro 22GG0200300 et est daté du 25 août 2000.
+[2] La question en litige est de savoir si la vente de terrains à des particuliers était une fourniture unique au sens de l'alinéa 25c) de la Partie VI de l'annexe V de la Loi ou si elle comprenait également une fourniture d'un service au sens de l'article 22 de la même partie.
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est fondé pour établir la cotisation sont décrits au paragraphe 10 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) l'Appelante est une municipalité telle que définie au paragraphe 123(1) de L.T.A.;
+b) l'Appelante est un inscrit aux fins de la Partie IX de la L.T.A.;
+c) l'Appelante a acquis en 1992 une terre de 75 acres au prix de 60 000,00 $ afin de la subdiviser en 36 parcelles pour la construction résidentielle répartie en trois phases;
+d) une première phase consistant à la création de 16 parcelles de terrain plus l'aménagement des infrastructures municipales (rue, trottoir, aqueduc, égout, etc.) a été complété par l'Appelante avant la période visée, soit la rue Bellehumeur;
+e) le coût de l'aménagement des infrastructures municipales de la rue Bellehumeur est évalué approximativement à un montant de 92 000,00 $;
+f) l'Appelante a demandé et obtenu, en vertu de l'article 259 de la L.T.A., le remboursement partiel de la TPS qu'elle a payée relativement à l'acquisition de biens et de services pour l'aménagement des infrastructures municipales de la rue Bellehumeur;
+g) pendant la période visée, l'Appelante a effectué la fourniture par vente à des particuliers de huit (8) parcelles de terrain viabilisé pour une contrepartie de 10 000,00 $ pour chacun desdites parcelles de terrain;
+h) l'Appelante a ventilé la contrepartie due de 10 000,00 $ pour chacune des fournitures effectuées de la façon suivante, à savoir :
+fonds de terre
+600,00 $
+aménagements des infrastructures
+9 400,00 $
+total
+10 000,00 $
+i) l'Appelante a perçu la TPS payable par les acquéreurs uniquement sur la valeur de la contrepartie du fonds de terre, soit un montant de 84,00 $ (7% de la 600,00 $);
+j) la fourniture par vente d'une parcelle de terrain viabilisé effectuée par l'Appelante constitue une fourniture unique et non des fournitures multiples de biens et de services;
+k) l'Appelante n'effectue pas la fourniture par vente des infrastructures municipales aux particuliers-acquéreurs des parcelles de terrain, ces infrastructures demeurant la propriété de l'Appelante;
+l) la fourniture par vente des parcelles de terrain viabilisé est taxable dans sa totalité et la TPS est exigible sur la totalité de la contrepartie due, soit un montant de 700,00 $ (7% de 10 000,00 $);
+m) l'Appelante a omis de percevoir la TPS au montant de 658,00 $ (7% de 9 400,00 $) lors de la fourniture par vente de chacune des huit (8) parcelles de terrain viabilisé qu'elle a effectuée pour un montant total de 5 264,00 $ ( 8 x 658,00 $).
+[4] À quelques détails près, la Réponse décrit correctement les faits selon la preuve présentée et qui est par la suite rapportée.
+[5] Le premier témoin de l'appelante a été monsieur Philippe Boutin, maire de la Municipalité de Lorrainville. Il a admis les alinéas 10 a) à 10 d), 10 f) et 10 i) de la Réponse. L'alinéa 10 e) a été admis en inscrivant comme coût de l'aménagement des infrastructures un montant de 218 600 $. Ce montant a également été admis par l'intimée.
+[6] Monsieur le maire explique que l'appelante a jugé important pour stimuler le développement domiciliaire d'adopter un règlement qui lui permettait d'emprunter 218 600 $ pour développer 16 terrains. Le règlement d'emprunt adopté le 26 avril 1994 a été déposé comme pièce A-3.
+[7] Les travaux d'aménagement des infrastructures municipales ont commencé en 1996. Ces travaux concernaient les services d'aqueduc et d'égout ainsi que des travaux de voirie.
+[8] Monsieur le maire a expliqué que la municipalité ne pouvait vendre que le terrain. Les infrastructures installées dans les rues demeurent la propriété de la municipalité. À partir de la ligne de lot du propriétaire privé, c'est le propriétaire privé qui assume le coût du raccordement qui ne fait pas partie du coût du contrat.
+[9] C'est le service aux infrastructures municipales qui a été fourni et non leur vente. Cela explique pourquoi, selon le témoin, que le prix indiqué au contrat de vente a toujours été réparti entre le prix relatif au fonds de terre et celui relatif aux services municipaux.
+[10] Le témoin affirme que la municipalité voulait s'assurer d'obtenir immédiatement le paiement de l'installation de ces infrastructures. C'est la raison pour laquelle ce montant devait être payé lors de l'achat du terrain. Ce montant était cependant inscrit de façon distinctive dans le contrat comme étant « pour les services municipaux » .
+[11] Les contrats d'achat des terrains ont été déposés comme pièces I-2 à I-7.
+[12] La clause concernant le prix se lit ainsi à la pièce I-2 :
+PRIX
+Cette vente est faite pour le prix de vingt mille dollars (20 000,00 $) soit mille deux cents dollars (1 200,00 $) pour le fonds de terre et dix-huit mille huit cents dollars (18 800,00 $) pour les services municipaux, payé par l'acquéreur, dont quittance finale de la part du vendeur.
+[13] Le deuxième témoin a été monsieur Denis Champagne. Monsieur Champagne est un comptable général licencié (CGA) et vérificateur à l'externe de la municipalité depuis 25 ans. Il a relaté que la municipalité souhaitait vendre les fonds de terre au prix coûtant et charger une partie du coût de l'installation des infrastructures à l'acquéreur de ces fonds. Il a donné l'avis à la municipalité que la fourniture des services municipaux d'égout, d'aqueduc et de voirie était une fourniture exonérée en se fondant sur la lecture des textes explicatifs des autorités fiscales.
+[14] Il produit à cet effet comme pièce A-1, un document extrait de la Collection fiscale du Québec - Taxe à la consommation - Mai 2003, comme pièce A-1. Il lit, au paragraphe 3 :
+... Si une municipalité effectue une vente d'un terrain vacant et que les infrastructures font l'objet d'une disposition distincte ou que la contrepartie qui leur est afférente est montrée séparément au contrat, la fourniture des infrastructures peut être exonérée lorsque les conditions de l'article 164 et/ou de l'article 165 (voir commentaires sous ces articles) sont respectées.
+[15] L'avocat de l'intimée lui fait remarquer la date du document. Le témoin répond qu'il n'a pas retrouvé celui de 1994. Le témoin relate qu'il a également demandé l'avis d'une firme de fiscaliste de Québec qui a confirmé l'interprétation qu'il a donnée à la municipalité.
+[16] L'avocat de l'intimée indique à la Cour que le document qui a été présenté comme pièce A-1 concerne l'article 168 de la loi du Québec. La concordance avec la Loi est indiquée comme étant : article 25, Partie VI de l'Annexe V.
+[17] La pièce A-2 est le schéma des 16 terrains. Au centre il y a la rue et huit terrains sur un côté et huit terrains sur l'autre.
+[18] L'avocat de l'intimée n'a fait témoigner personne car l'appelante a admis, relativement à l'alinéa 10 m) de la Réponse, que si l'intimée a raison et que la fourniture des huit terrains était des fournitures uniques et non pas distinctes, le montant total qu'elle n'a pas perçu serait de 5 264 $.
+Arguments
+[19] Le représentant de l'appelante fait valoir que la vente d'un immeuble en faveur d'un particulier n'est pas une fourniture exonérée selon l'alinéa 25c) de la Partie VI de l'Annexe V, mais que les articles 21.1 et 22 de cette même partie prévoient que les fournitures de services de voirie, d'aqueduc et d'égout sont des fournitures exonérées.
+[20] Le représentant fait valoir que le législateur ne parle pas pour ne rien dire et qu'il faut prendre acte de son intention qui veut que ces fournitures soient des fournitures exonérées.
+[21] Le représentant fait aussi état que les pénalités en tout état de cause devraient être annulées parce qu'il y a eu diligence de la part de la municipalité.
+[22] Le représentant demande si la Cour vient à la conclusion qu'il n'y a qu'une fourniture unique et non deux fournitures disctinctes, que l'appelante ait droit au remboursement de la totalité des crédits sur intrants. L'appelante a demandé un remboursement partiel parce qu'elle croyait qu'il s'agissait d'une fourniture exonérée. S'il s'agit d'une fourniture taxable, elle souhaite obtenir la totalité des intrants.
+[23] Pour l'avocat de l'intimée, il s'agit de savoir si l'appelante devait percevoir la TPS sur la totalité de la contrepartie exigée des acquéreurs des terrains.
+[24] L'avocat de l'intimée ne conteste pas qu'il y a eu diligence de la part de l'appelante qui a eu recours à des professionnels.
+[25] L'avocat fait valoir que l'article 25 de l'Annexe V prévoit que la fourniture d'immeuble par un organisme de services publics est une fourniture exonérée à l'exclusion des fournitures suivantes, notamment l'alinéa c) : les immeubles fournis par vente à un particulier.
+[26] L'installation du système d'égout et d'aqueduc a été effectuée par la municipalité avant que les lots ne soient vendus. Il s'agit d'une plus value ajoutée au terrain. La fourniture par vente du terrain inclut la valeur du service d'aqueduc. La contrepartie contient essentiellement les deux éléments qui ne peuvent être dissociés.
+[27] L'avocat de l'intimée s'est référé notamment à la décision de la Cour d'appel fédérale dans Hidden Valley Golf Resort Association c. Canada, [2000] A.C.F. no 869 (Q.L.) et à la décision du juge Sarchuk de cette Cour dans Winnipeg Livestock Sales Ltd. c. Canada, [1998] A.C.I. no 681 (Q.L.).
+Analyse et conclusion
+[28] L'article 22 de l'Annexe V, annexe qui a pour titre : « Fournitures exonérées » , se lit ainsi :
+22 [Installation ou réparation d'un réseau de distribution d'eau ou d'un système d'égouts ou de drainage] - La fourniture d'un service, effectuée par une municipalité ou par une administration qui exploite un réseau de distribution d'eau ou un système d'égouts ou de drainage et que le ministre désigne comme municipalité pour l'application du présent article, qui consiste à installer, à réparer ou à entretenir un tel réseau ou système ou à en interrompre le fonctionnement.
+[29] Avant 1997, cette disposition se lisait ainsi :
+22 La fourniture d'un service effectuée par une municipalité ou par une administration qui exploite un réseau de distribution d'eau ou un système d'égouts ou de drainage et que le ministre désigne comme municipalité pour l'application du présent article, qui consiste à installer, à réparer ou à entretenir un tel réseau ou système à l'usage des occupants et des propriétaires d'immeubles situés dans une région géographique donnée. N'est pas exonérée la fourniture d'un service, facturée exclusivement à l'acquéreur, qui consiste à réparer ou à entretenir une partie d'un tel réseau ou système, dans le cas où l'acquéreur est le propriétaire ou l'occupant d'une parcelle d'immeuble située dans la région géographique donnée et où les occupants et les propriétaires de cette parcelle sont les utilisateurs exclusifs de la partie de réseau ou de système en question.
+[30] La modification n'a pas d'impact sur la présente affaire puisqu'il ne s'agit pas d'une réparation ou d'un entretien du réseau d'aqueduc ou d'égout mais de son installation. Cependant, elle montre quand même l'intention du législateur d'exonérer la fourniture de ces services même dans les circonstances où le service n'est fourni qu'à l'égard de propriétaires spécifiques.
+[31] L'alinéa 25c) de l'Annexe V se lit ainsi pour sa partie pertinente :
+25 [Immeubles] - La fourniture d'immeubles par un organisme de services publics (sauf une institution financière ou un gouvernement), à l'exclusion des fournitures suivantes :
+. . .
+c) les immeubles fournis par vente à un particulier ...
+. . .
+[32] Je me réfère aux mêmes décisions que l'avocat de l'intimée mais avec égard j'en viens à une appréciation différente des faits. Je cite le paragraphe 17 de la décision de la Cour d'appel fédérale dans Hidden Valley Golf Resort Association c. Canada (supra) :
+17 L'analyse du juge Rip dans l'affaire O.A. Brown (aux pages 40-6 à 40-9) mérite d'être répétée :
+En tranchant cette question, il est d'abord nécessaire de décider ce qui a été fourni en contrepartie du paiement. Il faut alors se demander si la fourniture globale est composée d'une seule fourniture ou de plus d'une fourniture. Le critère qui ressort de la jurisprudence anglaise est de savoir si, au fond et en réalité, la présumée fourniture séparée fait partie intégrante ou est un élément constitutif de la fourniture globale. Il faut examiner la nature véritable de l'opération pour en déterminer les attributs fiscaux. Le critère a été énoncé par le Value Added Tax Tribunal de la façon suivante [Dyrham Park Country Club v. Customs and Excise Commissioners, [1978] V.A.T.T.R 244, (U.K.) à la p. 252] :
+À notre avis, lorsque les parties concluent une opération en vertu de la laquelle une partie remet une fourniture à l'autre, la taxe (le cas échéant) exigible à cet égard doit être déterminée par rapport au fond de l'opération, mais le fond de l'opération doit être déterminé par rapport au caractère réel des accords conclus entre les parties.
+Un facteur à prendre en considération est de savoir s'il est possible, en réalité, d'enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n'est pas concluant, mais il aide à déterminer le fond de l'opération. Cette position a été formulée dans les termes suivants [Mercantile Contracts Ltd. v. Customs & Excise Commissioners, LON/88/786, U.K., inédit] :
+Ce qui devrait constituer une fourniture unique de services, par opposition à deux fournitures séparées, n'est pas établi expressément par les textes législatifs concernant la taxe sur la valeur ajoutée. Il serait donc erroné de tenter de proposer une définition stricte et précise non fondée sur la loi. Il nous semble qu'il faut simplement appliquer le libellé de la loi, en interprétant les termes qui y sont employés, dans la mesure où le sens ordinaire des mots le permet, de façon à faire du régime légal de la taxe sur la valeur ajoutée un régime pratique qui fonctionne bien. À cette fin, il faudrait se demander dans quelle mesure les services qui constitueraient apparemment une fourniture unique sont liés les uns aux autres, quelle est l'étendue de leur interdépendance et de leur enchevêtrement, et si chaque service fait partie intégrante d'un ensemble complet ou en constitue un élément. Il faut se demander si les services sont rendus en vertu d'un seul contrat, ou pour une seule contrepartie non divisée, mais, pour les motifs susmentionnés, ce facteur n'est pas concluant. Compte tenu de la nature, du contenu et de la méthode d'exécution des services, et de toutes les circonstances, par rapport à l'historique du régime de la taxe sur la valeur ajoutée et, en particulier, des méthodes employées pour comptabiliser et payer la taxe, s'il est jugé que les services sont si interdépendants et si enchevêtrés qu'ils font partie intégrante d'un ensemble complet ou en constituent de simples éléments ou composantes à un point tel qu'ils ne peuvent pas, aux fins de la taxe sur la valeur ajoutée, être raisonnablement considérés comme des fournitures séparées de services, il faut considérer qu'en adoptant le régime de la taxe sur la valeur ajoutée, le Parlement a voulu le traiter comme un régime unique; autrement, ces services devraient être considérés, aux fins de la taxe sur la valeur ajoutée, comme des fournitures séparées.
+Le fait que des frais sont exigés séparément à l'égard d'un élément d'une fourniture mixte ne modifie pas les attributs fiscaux de celui-ci. La question de savoir si la taxe est exigée est régie par la nature de la fourniture. Dans chaque cas, il est utile de se demander s'il serait possible d'acheter chacun des divers éléments séparément et d'obtenir néanmoins un article ou service utile. Car si cela n'est pas possible, il faut alors nécessairement conclure qu'une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause.
+...
+Lord Widgery, C.J., a déclaré "qu'il est à espérer qu'en répondant à la question de lord Denning, M.R., à l'avenir, dans ce type d'affaire, les gens abordent le problème compte tenu du fond et de la réalité". Il a ajouté ceci [à la p. 195] :
+[TRADUCTION] [...] je crois qu'il serait fort malheureux qu'on laisse ce sujet devenir trop légaliste et trop encombré d'arrêts lorsque, à mon avis, une fois qu'on s'est posé la question, il est possible d'y répondre en faisant appel à un petit peu de sens commun et en se préoccupant de ce qui se passe en réalité [...].
+[33] De la décision Winnipeg Livestock Sales Ltd. c. Canada, [1998] A.C.I. no 681 (Q.L.), je désire me reporter au paragraphe 13 :
+13 Pour déterminer s'il y avait des fournitures taxables séparées ou une seule et unique fourniture, le critère approprié est celui qui consiste à se demander si la prétendue fourniture séparée faisait partie intégrante de la fourniture globale. Comme l'a fait remarquer le juge Rip dans l'affaire O.A. Brown :
+Un facteur à prendre en considération est de savoir s'il est possible, en réalité, d'enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n'est pas concluant, mais il aide à déterminer le fond de l'opération. [...]
+Le fait que des frais sont exigés séparément à l'égard d'un élément d'une fourniture mixte ne modifie pas les attributs fiscaux de celui-ci. La question de savoir si la taxe est exigée est régie par la nature de la fourniture. Dans chaque cas, il est utile de se demander s'il serait possible d'acheter chacun des divers éléments séparément et d'obtenir néanmoins un article ou service utile. Car si cela n'est pas possible, il faut alors nécessairement conclure qu'une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause.
+[34] Je tire de cet enseignement que la nature de l'opération est importante et que cette nature est déterminée en fonction du caractère réel des accords conclus entre les parties.
+[35] Ce qui constitue une fourniture unique de services par opposition à des fournitures distinctes de services dépend de l'interdépendance des services relativement à l'opération en cause. Les services font-ils partie d'un ensemble complet ou en constituent-ils des éléments distinctifs? Dans chaque cas il est utile de se demander s'il est possible d'acquérir chacun des divers éléments séparément et d'obtenir néanmoins un service utile relativement à l'opération en cause. Il faut aborder le problème compte tenu du fond et de la réalité des choses.
+[36] Dans la présente affaire, relativement à l'opération qui était de vendre des terrains viabilisés par une municipalité soucieuse d'agrandir le nombre de ses résidants, il est admis de part et d'autre que la municipalité aurait pu passer avec les acquéreurs deux contrats distincts. Dans ce cas-ci, la municipalité a choisi de récupérer les coûts de l'installation de l'infrastructure municipale à l'intérieur du contrat de vente des terrains. Elle a considéré qu'il était plus efficace de procéder de la manière dont elle a fait plutôt que de percevoir le montant dans un document parallèle ou par l'imposition d'une taxe. Le fait qu'elle n'ait passé qu'un seul contrat fait-il qu'il ne s'agit que d'une fourniture unique? Je ne le crois pas.
+[37] Il s'agit d'une municipalité et non d'un promoteur privé. Les infrastructures ne sont pas vendues. Ce sont leur coût qui est inclus dans le contrat de vente. Les contrats passés entre la municipalité et les particuliers acquéreurs montrent clairement que le prix de vente est réparti entre le fonds de terre et les services municipaux. Toute l'entente est fondée sur cette répartition incluant notamment le montant du droit de mutation qui a été établi à 3 $.
+[38] La situation n'est pas la même que dans les cas d'hébergement d'animaux ou de loyers dans des endroits de villégiature où relativement à la nature de l'opération ou de l'entente conclue entre les parties, les services ne peuvent utilement être acquis de façon distincte.
+[39] Une vente de terrains peut se faire indépendamment de l'installation ou de la réparation des systèmes d'égout et d'aqueduc. La fourniture d'un service d'aqueduc et d'égout par une municipalité est un service qui normalement est fourni séparément à un propriétaire foncier. Une municipalité procède constamment à des travaux d'installation ou d'entretien des infrastructures d'égout ou d'aqueduc.
+[40] En tenant compte de la nature de l'entente et de la réalité des choses, dans les circonstances comme celles qui nous occupent, où le montant du prix de vente a été de manière authentique réparti entre deux fournitures, l'une de bien, l'autre de service, et que ces fournitures peuvent être fournies de façon distincte, je conclus qu'il s'agit de deux contreparties distinctes pour des fournitures distinctes, l'une étant la vente d'un terrain et l'autre, la fourniture d'un service municipal d'aqueduc et d'égout.
+[41] L'appel est accordé avec dépens.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI895
+No DU DOSSIER DE LA COUR :
+2001-1779(GST)I
+INTITULÉ DE LA CAUSE :
+Municipalité de Lorrainville et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE :
+30 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 2 décembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+Louis-René Breault (Stagaire en droit)
+Pour l'intimée :
+Me Benoit Denis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

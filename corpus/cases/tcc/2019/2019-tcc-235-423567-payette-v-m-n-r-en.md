@@ -1,0 +1,260 @@
+---
+title: "Payette v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/423567/index.do"
+last_modified: "2019-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 235"
+citation2: ""
+neutral_citation: "2019 TCC 235"
+decision_date: "2019-10-22"
+language: "en"
+item_id: "423567"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4203
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:01:27.229000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e1539b81e16c1904c6aecde4edf1e57846e763881ea1790e8b2d79985e976dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Payette v. M.N.R.
+
+- Citation: 2019 TCC 235
+- Decision date: 2019-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4203, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Payette v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-10-22
+Neutral citation
+2019 TCC 235
+File numbers
+2018-1773(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2018-1773(EI)
+BETWEEN:
+SOPHIE PAYETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FÉDÉRATION DES CAISSES DESJARDINS DU QUÉBEC,
+Intervener.
+[UNREVISED OFFICIAL CERTIFIED ENGLISH TRANSLATION]
+Appeal heard on February 25 and April 30, 2019,
+at Montreal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the appellant:
+Mercedes Diaz
+Counsel for the respondent:
+Julien Dubé-Sénécal
+Counsel for the intervener:
+Simon-Pierre Hébert
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision made by the Minister is dismissed with regard to the work performed by the appellant during the period at issue, for the account and benefit of the intervener, constituting a contract of service and, consequently, insurable employment, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of October 2019.
+“Alain Tardif”
+Tardif J.
+Citation: 2019 TCC 235
+Date: 20191022
+Docket: 2018-1773(EI)
+BETWEEN:
+SOPHIE PAYETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FÉDÉRATION DES CAISSES DESJARDINS DU QUÉBEC,
+Intervener.
+[UNREVISED OFFICIAL CERTIFIED ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a case regarding the insurability of work performed by the appellant for the account and benefit of the intervener.
+[2] The appellant argues that she performed the work of a mortgage representative for the benefit of the intervener under a contract of service.
+[3] For their part, the respondent and the intervener maintain that the work performed by the appellant was done under a contract for services and/or as a self-employed worker.
+[4] Both interpretations were supported by various testimonies and documentary evidence including a hiring contract signed repeatedly year after year.
+[5] The appellant explained that she had been initially employed by a credit union for a long time, doing various types of jobs. At that time, she was working as an employee, which is not disputed.
+[6] At a certain point, during an organizational restructuring, the Federation decided to change the approach for setting up a specific new structure for the “mortgage loan” component, an essential source of revenue to its operations, all of the foregoing with the ultimate goal of growing and developing the mortgage market.
+[7] The authorities therefore structured a component to include specific people with very specific responsibilities. Many of the individuals in question came from credit unions as employees, but who had, over the years, acquired expertise in the field of mortgage loans.
+[8] With regard to the job description and what concerns her, the appellant had to sign a very detailed contract, which was renewed every year. The appellant said the contract had to be re-signed. Only the intervener could make changes or amendments. Otherwise, she would lose her job as the intervener’s mortgage representative.
+[9] The preponderance of the evidence indicated that any person interested in becoming a mortgage representative had to sign the contract dictated and imposed by the intervener. In other words, it was a take it or leave it contract. However, the respondent’s representatives pointed out that there could be discussions. The evidence did not establish or highlight a single instance where the intervener had approved a significant change or addition, proposed or required to perform the mortgage representative’s work.
+[10] A very clear preponderance of the evidence showed that the intervener worked hard to find an ideal formula that would allow it to take advantage of both possible contracts, i.e. the contractor agreement and the employee agreement. In other words, the intervener wanted to treat mortgage representatives as employees while enjoying the rights and benefits provided under a contract for services.
+[11] From the outset, the appellant firmly and calmly stated that she clearly had no choice, otherwise she would have to find another job. There is no doubt about this in my mind. Moreover, certain clauses of the contract at issue provide compelling support for this interpretation.
+[12] I am referring to the following elements in particular:
+[translation] DESJARDINS MORTGAGE REPRESENTATIVE AGREEMENT
+. . .
+3. MORTGAGE REPRESENTATIVE’S OBLIGATION
+THE MORTGAGE REPRESENTATIVE AGREES TO:
+Mortgage financing
+3.1 Meet with Clients and offer them a personalized mortgage financing package that meets their needs.
+3.2 Submit applications for mortgage financing to Desjardins Mortgage Financing Services (DMFS) for review and follow-up on these applications in conjunction with the Caisse until disbursement. It is understood that the Mortgage Representative must clearly indicate to any Client that he cannot in any way bind the Federation or the Caisse and that his application for mortgage financing must be approved by DMFS or by a Caisse in cases where the application for authorization is referred to such a Caisse. Consequently, the DMFS or a Caisse will be the only ones able to issue the Client a pre-approval letter or a letter providing conditional or final approval of the financing application or a letter denying such an application.
+3.3 Comply with all business and operational procedures described in the DPOA (Direction principale de l’assistance aux opérations) Guide prepared by the Federation which deals with:
+· the quality of documents and information gathered from borrowers and forwarding them to DMFS;
+protection of the borrower’s private information and consent to gathering information about the borrower;
+confidentiality of information relating to the operations of the Federation;
+compliance with rules and laws that apply to the activities of mortgage representatives;
+use of telephone and computer equipment made available to mortgage representatives by the Federation;
+use of the Desjardins logo;
+rules of ethics and probity.
+3.4 Comply with mortgage referral agreements or any other verbal or written agreement entered into between the Federation and market intermediaries.
+3.5 Comply with service agreements entered into between the Federation and the Caisses regarding mortgage financing services.
+3.6 Notify DMFS before hiring any resource, and ensure that DMFS does not delegate the resource’s duties to another person and that the resource complies with all provisions of this agreement and the DPAO Guide. The Mortgage Representative undertakes to have this resource sign the “Confidentiality and Consent Agreement” document reproduced in Appendix “A” herein. The Mortgage Representative also agrees to pay DMFS for the resource’s basic training costs in the amount of seven hundred fifty dollars ($750) as well as any additional training costs for developing the resource at the rate agreed upon by the parties. These fees will be payable as soon as the training has been completed and may be claimed from the Mortgage Representative. It is understood that DMFS may withdraw such sums out of all fees payable under this agreement.
+3.7 Deliver each file and the client group described in the files to the participating Caisse to which the financing has been referred as soon as the fees stipulated herein in respect of the mortgage loan file are paid to it.
+Business development
+3.8 Work closely with the Caisses and DMFS and establish common strategies for achieving reciprocal business targets.
+3.9 As required, represent the Caisses at events organized by market intermediaries and or at local housing market events (booth, trade fair, convention, etc.)
+3.10 Establish solicitation strategies to develop the prospective client group and potential client groups of Caisses identified by DMFS.
+3.11 Use all the tools at her disposal to meet and even exceed the business targets of Caisses identified by DMFS.
+3.12 Work with any mortgage representative and, when necessary, help process any application for mortgage financing. In this regard, the Mortgage Representative acknowledges that, at DMFS’s request, she may occasionally process applications for mortgage financing from some Caisses or market intermediaries.
+3.13 Meet periodically with her manager, as often as required by the manager, to report on work that DMFS has done with the Caisses, based on the objectives that have been agreed upon. The Mortgage Representative will also be required to participate in activities identified by DMFS, including two mandatory provincial resourcing activities available to Desjardins Mortgage Representatives.
+Special provisions for Desjardins Bank business development
+Unless otherwise stipulated in this Agreement, for any mortgage financing to be provided by Desjardins Bank, the Mortgage Representative who is accredited by Desjardins Bank agrees to:
+3.14 Solicit consumers likely to acquire a building in Florida in the area(s) that will have been agreed upon with DMFS in order to pre-approve the Client and enable Desjardins Bank to send him a mortgage financing offer.
+3.15 Clearly indicate to the Client that his financing application must be reviewed by Desjardins Bank after it has pre-approved the application, which will be the only entity that can approve the financing application. As a result, Desjardins Bank will be the only entity able to issue the Client a pre-approval letter or a letter providing conditional or final approval of the financing application or a letter denying such an application.
+. . .
+5. EXCLUSIVE SERVICES – NON-COMPETE CLAUSE – NO CUSTOMER SOLICITATION
+5.1 Throughout the term of this Agreement, the Mortgage Representative agrees to provide the Federation and the Caisses with exclusive services for processing and referring real estate mortgages. She will therefore be unable, throughout the duration of the agreement, to cooperate in any way with another person performing mortgage credit activities, unless otherwise authorized by the Federation. Without limiting the generality of the foregoing, the Mortgage Representative may not under any circumstances refer a Client or a financing application to an agency, mortgage broker, financial institution or competing lender, and may not receive any remuneration from any of these persons. The Mortgage Representative expressly acknowledges that a breach of any of the obligations described above will entitle the Federation to terminate this Agreement immediately upon notice of termination.
+5.2 For the duration of this agreement, the Mortgage Representative undertakes not to engage in any activity that could compromise the existing business relationship between the Federation and the Caisses, or between the Federation and a market intermediary with whom an agreement has been entered into in connection with mortgage referrals, or prejudice the interests of the Federation and/or the Caisses. Without limiting the generality of the foregoing, the Mortgage Representative will not carry on a business or hold a position or employment with a competitor, if that may put her in a position to harm the interests of the Federation or a Caisse.
+5.3 For a period of twelve (12) months from the date of termination of this Agreement, the Mortgage Representative undertakes not to directly or indirectly solicit in any way a Client who has submitted a financing application during the term of this agreement and not to perform activities similar to those that she performed as a Desjardins Mortgage Representative. Without limiting the generality of the foregoing, during the same period, the Mortgage Representative will not solicit mortgage applications within the territory of Caisses in the area that has been assigned by DMFS, for the purpose of referring them to a competitor, except with the prior written consent of the Federation.
+. . .
+[13] The intervener uses a so-called “coaching” approach to supervise the mortgage representatives, including the appellant. It periodically and repeatedly calls the representatives, including the appellant, to meetings clearly focused on improving performance. In addition to these ad hoc and structured meetings, there are other specific meetings held for various reasons involving ethics, productivity, work quality issues, etc.
+[14] The intervener collects all kinds of data relating to the work of the representatives, including the appellant, i.e. tables showing actual productivity versus target productivity, according to the appellant. The intervener indicated that these targets are freely agreed upon. These are findings and not interpretations based on the appellant’s testimony.
+[15] The intervener says the framework and all parameters related to the appellant’s work are very flexible. However, according to the intervener, it is not a matter of policy, control or authority. In her view, these are essentially supportive, collaborative measures that do not involve any constraints or disciplinary measures.
+[16] Even under a contract for services, the payer has the power and right to verify the quality of the product or service that he is paying for. However, this contract of employment must be entered into pursuant to discussions between equal persons where one or both of them have the right, choice, and freedom to establish the content of the agreement. This choice and freedom should not be theoretical but real.
+[17] In the case at bar, can we say or claim that the appellant had that capacity, choice, and freedom? In theory, yes. In practice, absolutely not. She had to sign the contract prepared and submitted by the intervener or lose her job. This is very obviously a situation where one party is in a position of authority, which clearly negates the right or ability to discuss and negotiate on equal grounds.
+[18] The main argument of the respondent and the intervener is that the appellant, an intelligent and mature adult, understood or ought to have understood the document she signed, year after year. The respondent and the intervener maintain that this argument is supported by the fact that the appellant considered herself self-employed with Revenue Canada when she filed her annual tax return.
+[19] Therefore, the fundamental issue is whether the long and detailed contract of employment is largely in keeping with the facts and circumstances surrounding the performance of commission work.
+[20] To this question, I would answer “no”, based on the following elements established by the evidence.
+[21] I am referring to the following elements in particular:
+1. The exclusivity clauses to which the appellant was subject;
+2. Some tools provided by the payer – Formula – Telephone;
+3. Statutory and ad hoc meetings;
+4. Obligations under a code of ethics;
+5. Numerous requirements to obtain approvals (e.g. business card);
+6. Work quality assessment reports;
+7. Work output assessment reports;
+8. Territorial limit and occasional limits on client groups; and
+9. Productivity and effectiveness targets.
+[22] The appellant is an intelligent, mature person who is responsible for her actions. These qualities are not in doubt.
+[23] However, can we say the parties to the contract were free to sign without any undue influence, in a context where the appellant absolutely wanted the job? Were both parties equal in this situation?
+[24] The answer to both questions is unequivocally “no”. There was a concept of clear authority, obvious ascendancy and power of control, which was not theoretical but real and factual.
+[25] These are preconditions for performing the work, but they are also very revealing as to the outcome. Moreover, the outcome validated, confirmed and corroborated this interpretation. There is no doubt in my mind that the work performed by the appellant was under a contract of service.
+[26] The contract signed by the parties was prepared by the intervener with the ultimate objective of sealing the nature of the employment contract in advance. This lengthy and nuanced document provides irrefutable answers to potential questions regarding of the nature of the contract of employment.
+[27] Prepared by specialists, it is clear that the contract is an answer to all questions or indications that must be taken into account in the context of determining the nature of the employment contract.
+[28] And what about the appellant’s argument that if she did not sign the document in its present form, she would not get the job? There is no doubt that if she signed, she had the job. If she refused to sign or wanted to add or remove one or more clauses, she did not get the job.
+[29] The intervener clearly establish that the appellant knew or ought to have known the difference between the two statuses, i.e. self-employed worker or commission worker.
+[30] Ultimately, although the reality of the contract agreed upon by the parties is a useful and relevant element, the facts and actions of both parties when the work is performed must be consistent and not contradict the agreed upon legal framework, especially if it was the result of a “take it or leave it” formula.
+[31] In determining whether the performance of work should be classified as a contract of service or a contract for services or self-employment, case law is a key work tool.
+[32] Jurisprudential decisions have stated and issued several criteria. Although still relevant, they must take into account a new reality that is changing very quickly.
+[33] This new reality is the new organization of work. In general, salaried or self-employed workers demand better working conditions, greater autonomy, better work environments, more flexibility, greater respect; in other words, a better quality of life.
+[34] As a result, the authority role is diminishing and working from home is a new formula. Workers are increasingly valued in terms of costs and results.
+[35] The concepts of authority and penalties are slowly fading away. At least they are not as apparent. It is now more appropriate to refer to productivity and efficiency in a context of dialogue, collaboration and quality of life.
+[36] In addition to this new reality, there is a shortage of workers in all areas of economic activity. Employers are introducing multiple initiatives, experiments and formulas, often to the detriment of the authoritarian approach. There are real bidding wars everywhere to attract new recruits and above all to ensure their loyalty.
+[37] As a result of this new reality, concepts of tolerance are becoming increasingly popular and widespread.
+[38] For some time now, there seems to be an approach that significantly limits the scope and extent of the concept of subordinate relationship. This is undoubtedly attributable to the new labour market approach where employers’ ability to exercise authority and control is gradually decreasing. On the other hand, employee rights are increasingly binding upon employers.
+[39] Because employee benefits are costly and complex, employers are finding increasingly creative ways to structure new forms of employment.
+[40] It seems fundamental to me that the courts should not take over the legislature’s exclusive role. The decision to be made by this Court must be based on the laws governing the nature of a contract of employment.
+[41] In the current formula, the law is simple, clear and unambiguous, particularly in Quebec. The legislature has specifically stipulated that a working relationship between two persons is a contract of service when there are three elements:
+1. Provision of work;
+2. Remuneration as consideration for provision of work; and
+3. Subordinate relationship between the payer and the person providing the work.
+In terms of the provision of work and remuneration, it is seldom difficult to determine whether the work has been performed and remunerated.
+[42] However, it is much more difficult to determine whether there is a subordinate relationship, which, unfortunately for the persons involved, can, based on the same facts, give rise to contradictory conclusions or interpretations.
+[43] Several principles are involved in such an analysis.
+[44] First, when a statute is clear, it is imperative to comply with it.
+[45] However, it seems obvious to me that the concept of subordinate relationship confers a degree of authority, a power to intervene, and an ability to guide the execution of work where there is very little room and/or space for peer-to-peer discussion.
+[46] Time and time again, no doubt to avoid abuses and exaggerations, the courts have affirmed and reiterated that the nature of a contract of employment is essentially determined by the facts and not by documents very often dictated and shaped by the sole and exclusive will of the payers.
+[47] Documents are relevant and useful for confirming doubt, clarifying ambiguity or simply for confirming whether facts are real and not theoretical.
+[48] In this case, the intervener prepared a BOILERPLATE contract of employment and stated that because the appellant is an intelligent, experienced adult, she essentially only had to honour the contract.
+[49] But an intelligent, experienced adult is also able to appreciate the consequences of challenging an authority figure. Even the intervener’s representatives acknowledged and admitted that the contract had been drafted solely by the intervener and that it was a “take it or leave it package”.
+[50] In other words, the appellant, a former credit union employee with mortgage experience and expertise, believed that she could improve her financial situation, particularly because she would not be supervised as closely, and her efforts were likely to generate a substantial increase in salary.
+[51] In return, she had to accept and blindly submit to all terms and conditions without any right or ability to attempt to negotiate any details whatsoever. It was a document prepared by experts hired to leave nothing open to interpretation and to prevent anyone from claiming that the agreement was a contract of service.
+[52] What about the real circumstances in which the work was performed?
+[53] The work was performed for a commission, to which could be added several bonuses if a prospect opened a new account, entered into a disability insurance or salary insurance contract, etc.
+[54] The prospecting territory was very clearly defined. However, it was also reduced in the case of certain potential corporate clients. For example, the appellant could work with very specific developers or real estate agencies. She was certainly not free to knock on every door.
+[55] Because she represented the credit unions’ exclusive brand, the appellant would be penalized if she failed to comply with certain rules of ethics, and her business cards were subject to approval.
+[56] The appellant said she was called to ad hoc meetings. The evidence revealed that these were generally monthly meetings, which were not mandatory, according to the intervener. It seems that the representatives never dared to enquire or question whether they had to attend such meetings.
+[57] Performance, satisfaction, and perception reports were exchanged. According to the intervener, the sole purpose of these non-statutory initiatives was to assist the mortgage representatives.
+[58] According to the intervener, there were no directives, sanctions, controls, or obligations. They were held basically to provide support, facilitation, etc.
+[59] The only elements that support the intervener’s position are:
+— the existence of a very detailed contract of employment signed by a person with the knowledge to tell the difference between a contract for services and a contract of service.
+All the facts, circumstances and conditions relating to the performance of commission work support the existence of a true contract of service.
+[60] In essence, the relevant facts are essentially the result of the lengthy contract, which was renewed and signed year after year. Of course, the parties made observations and comments about how it was really enforced.
+[61] Overall, there is one indisputable fact. At a given moment, the intervener decided to restructure its department to develop the mortgage component, by achieving a larger market share through greater productivity and efficiency.
+[62] In this context, it is very surprising that the intervener maintains that its representatives, including the appellant, were completely free to manage their work. These two realities are contradictory and completely irreconcilable.
+[63] The many explanations regarding the intervener’s ubiquity, multiple meetings, various reports etc. validate and fully confirm the appellant’s position that she worked under very close supervision in a context where the intervener supervised and controlled the work.
+[64] In closing, I would point out that the case law has repeatedly stated that the subordinate relationship emanates from one party’s (employer) power to exercise control over the other (salaried employee). However, it has often been said that it is not imperative to provide evidence that control was exercised. Essentially, it is sufficient for the payer to have this fundamental power.
+[65] In this case, the evidence of this is clearly preponderant. The Fédération des Caisses populaires entered into an agreement with the appellant. The status of the contracting parties was far from equal. The intervener had real and powerful “ubiquitous” ascendancy over the appellant who had only one choice: unconditionally accept the proposed contract. In other words, if she accepted, she had a job. If she refused, she was unemployed.
+[66] For all these reasons, the appellant performed the work under a contract of service. She did not perform it as a self-employed worker. The appeal is therefore allowed.
+Signed at Ottawa, Canada, this 22nd day of October 2019.
+“Alain Tardif”
+Tardif J.
+Certified true translation
+This 8th day of November 2019
+Lionbridge
+CITATION:
+2019 TCC 235
+COURT FILE NO.:
+2018-1773(EI)
+STYLE OF CAUSE:
+SOPHIE PAYETTE v. M.N.R. and FÉDÉRATION DES CAISSES DESJARDINS DU QUÉBEC
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+February 25, 2019 and April 30, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+October 22, 2019
+APPEARANCES:
+Agent for the appellant:
+Mercedes Diaz
+Counsel for the respondent:
+Julien Dubé-Sénécal
+Counsel for the intervener:
+Simon-Pierre Hébert
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the intervener:
+Simon-Pierre Hébert
+BCF LLP
+Quebec City, Quebec

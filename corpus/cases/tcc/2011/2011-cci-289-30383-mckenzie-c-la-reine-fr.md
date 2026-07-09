@@ -1,0 +1,242 @@
+---
+title: "McKenzie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30383/index.do"
+last_modified: "2011-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 289"
+citation2: ""
+neutral_citation: "2011 CCI 289"
+decision_date: "2011-06-09"
+language: "fr"
+item_id: "30383"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7854
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:49:05.008000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "367dfcc518c0964e1ddf050b496bfdf7ec945086b53abb3a2e777b5ddcd374cd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKenzie c. La Reine
+
+- Citation: 2011 CCI 289
+- Decision date: 2011-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7854, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-09
+Référence neutre
+2011 CCI 289
+Numéro de dossier
+2009-2898(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009‑2898(IT)G
+ENTRE :
+SHIRLEY PATRICIA MCKENZIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 27 avril 2011, à Toronto (Ontario)
+Devant : l'honorable juge Patrick Boyle
+Comparutions :
+Avocats de l'appelante :
+Me David C. Nathanson, c.r.
+Me Adrienne K. Woodyard
+Avocats de l'intimée :
+Me Donna Dorosh
+Me Darren Prevost
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2006 de l'appelante est accueilli, avec dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte des motifs du jugement joints aux présentes.
+Signé à Ottawa, Canada, ce 9e jour de juin 2011.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 27e jour de juillet 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 289
+Date : 20110609
+Dossier : 2009‑2898(IT)G
+ENTRE :
+SHIRLEY PATRICIA MCKENZIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La seule question à trancher dans la présente affaire est de savoir si, aux fins des paragraphes 106(2) et 106(3) de la Loi de l'impôt sur le revenu (la Loi), un bien appartenant à une fiducie a été remis à une bénéficiaire du revenu de la fiducie.
+[2] Aucun fait important n'est en litige. Les parties ont déposé un exposé conjoint partiel des faits, dont une copie est jointe en annexe aux présentes. Les parties ont également déposé un recueil conjoint de documents. Trois témoins ont comparu : la contribuable bénéficiaire du revenu et ses deux avocats membres d'un important cabinet national, dont l'une était une spécialiste réputée en droit des successions et des fiducies et l'autre un avocat plaidant en droit commercial qui avait représenté la contribuable lors de l'action qui avait entraîné l'extinction de la fiducie. Les avocats de la contribuable ont également lu des extraits de la transcription de l'interrogatoire préalable du vérificateur de l'Agence du revenu du Canada (ARC). Les avocats de l'intimée n'ont appelé aucun témoin, mais ils ont lu d'autres passages de la transcription de cet interrogatoire. La crédibilité d'aucun témoignage n'a été mise en doute.
+I. Les faits
+[3] La contribuable a travaillé de nombreuses années comme cadre supérieure de Swiss Herbal Remedies Limited (« Swiss Herbal »), un fournisseur canadien bien connu de vitamines, de suppléments nutritifs et d'autres produits de santé naturels. Lorsque la contribuable a commencé à travailler comme aide‑comptable pour la société en 1977, celle‑ci appartenait entièrement à M. Zimmermann. Après une restructuration de la société en 1978, la contribuable est devenue chef de bureau, puis elle a accédé au poste de vice‑présidente, qu'elle a occupé de nombreuses années avant d'être licenciée en novembre 2003.
+[4] Monsieur Zimmermann a fait son testament en 1978. Il a désigné l'une de ses filles, Barbara McKerrell, et son avocat, Me Theodore Herman, fiduciaires et exécuteurs testamentaires ainsi que fiduciaires des fiducies prévues au testament. Les seuls actifs pertinents de M. Zimmermann au moment de son décès, plus tard en 1978, étaient ses actions de Swiss Herbal.
+[5] Aux termes du testament, les actions de M. Zimmermann ont été réparties en cinq parts égales, correspondant chacune à 20 % des actions de Swiss Herbal. Barbara McKerrell, fille de M. Zimmermann, a obtenu une part inconditionnelle. Une deuxième part a été détenue en fiducie pour le compte de l'épouse de M. Zimmermann à titre d'intérêt viager, ce qui comprenait une participation au revenu, la part allant inconditionnellement à Barbara McKerrell au moment du décès de l'épouse. Une troisième part a été détenue en fiducie pour le compte d'une autre fille de M. Zimmermann, toujours à titre d'intérêt viager avec, au décès, remise de la part inconditionnellement à Barbara McKerrell. Une quatrième part a été détenue en fiducie pour le compte de Me Herman, l'avocat de M. Zimmermann, qui était également coexécuteur et cofiduciaire, toujours à titre d'intérêt viager avec remise, au décès, de la part inconditionnellement à Barbara McKerrell.
+[6] Quant à la cinquième part, Mme McKenzie en était bénéficiaire du revenu. Aux termes du testament, cette part était détenue en fiducie pour le compte de la contribuable à titre d'intérêt viager, ce qui comprenait une participation au revenu et le droit de vote, la part devant ensuite aller une fois encore à Barbara McKerrell. Dans le cas de Mme McKenzie, toutefois, l'intérêt viager devait prendre fin au moment où elle cesserait d'être une employée à temps plein de Swiss Herbal, soit du fait qu'elle quitterait l'entreprise ou qu'elle serait congédiée pour un motif valable.
+[7] Monsieur Zimmermann a accordé à Mme McKenzie cette participation de 20 % au revenu de l'entreprise pour qu'elle continue d'y travailler pendant de nombreuses années après son décès. Monsieur Zimmermann voulait garantir que Swiss Herbal demeure entre bonnes mains et continue d'appartenir à sa famille et d'en être le moyen de subsistance après son décès. Monsieur Zimmermann a exprimé sa confiance envers la contribuable, du fait de son travail acharné et de ses aptitudes en matière de finances et de gestion, et il voulait l'inciter, en raison de sa participation de 20 % au revenu, à toujours travailler fort et fructueusement pour sa famille. Monsieur Zimmermann a également dit à Mme McKenzie que sa famille bénéficierait en raison de sa part de 80 %. Cela est compatible avec l'exigence que la contribuable poursuive son emploi pour avoir droit à sa participation au revenu.
+[8] Cette participation au revenu a manifestement été accordée à la contribuable pour l'inciter à demeurer au sein de la société et à la rendre profitable après le décès de son propriétaire et exploitant. Il ressort clairement de la preuve que son emploi chez Swiss Herbal était le seul lien entre la contribuable et M. Zimmermann. Rien n'indique que quiconque se soit demandé si l'avantage consenti constituait un avantage imposable lié à l'emploi lors du décès de M. Zimmermann ou par la suite, ni comment cet avantage devait être évalué. L'intimée ne cherche aucunement à imposer les montants en cause à titre de revenu d'emploi pour l'année 2006.
+[9] Il est juste de dire que la relation entre la bénéficiaire du capital, Barbara McKerrell, et la contribuable a parfois été tendue après le décès de M. Zimmermann. La contribuable a continué à avoir le deuxième poste le plus important chez Swiss Herbal pendant de nombreuses années.
+[10] En 1999, les actions de Swiss Herbal détenues en fiducie ont fait l'objet d'une disposition présumée et d'une réalisation supposée des gains en capital accumulés, conformément à la règle de la disposition présumée après 21 ans prévue par la Loi. Toutefois, la bénéficiaire du capital et la bénéficiaire du revenu ainsi que leurs conseillers n'ont pas pu s'entendre sur la façon de réunir les sommes requises pour payer l'impôt exigé, sur la façon de partager cette dette fiscale entre les bénéficiaires, ou sur la façon de répartir entre elles les intérêts sur les sommes à emprunter pour payer l'impôt. Cette dette, d'un montant de 1,4 million de dollars, est demeurée impayée, et les intérêts et les pénalités se sont accumulés jusqu'à ce qu'elle atteigne 1,7 million de dollars. Des négociations et une tentative de médiation n'ont donné aucun résultat. Le revenu tiré de la fiducie n'a pas été versé à la contribuable après la disposition présumée en raison de la dette fiscale accumulée. En 2002, il a été convenu que la fiducie acquitterait l'impôt à payer grâce aux dividendes non distribués de 2 millions de dollars, et ce, afin que les intérêts composés cessent de croître. On n'a toutefois pu s'entendre sur le mode de répartition du paiement entre les bénéficiaires du capital et du revenu.
+[11] En 2003, la bénéficiaire du capital disposait de suffisamment d'actions pour avoir une participation majoritaire dans Swiss Herbal. La contribuable a été destituée de son poste d'administratrice en février 2003 et on l'a congédiée en novembre de la même année.
+[12] La contribuable a alors intenté une poursuite contre la société, les fiduciaires de sa fiducie, la bénéficiaire du capital de cette fiducie, Barbara McKerrell, ainsi que l'époux de cette dernière. En plus de faire valoir son congédiement injustifié, la contribuable faisait des réclamations quant à son intérêt viager dans la fiducie et quant au revenu de la fiducie — les dividendes sur les actions de Swiss Herbal reçus par la fiducie — qui n'avait pas été versé pendant de nombreuses années, et elle soutenait que l'impôt sur les gains en capital à payer par suite de la disposition présumée de ces actions était à la charge de la bénéficiaire du capital. Entre autres mesures de réparation, la contribuable a demandé un recours en cas d'abus ordonnant la liquidation de Swiss Herbal ainsi que des dommages‑intérêts punitifs de 5 millions de dollars. Pour reprendre les termes de Me Chapman, l'avocat plaidant de droit commercial qui représentait la contribuable, il s'agissait là d'un litige complexe et peu habituel qui mettait en cause de nombreuses questions ardues.
+[13] La poursuite civile de la contribuable n'a jamais été tranchée par un tribunal; un processus de médiation présidé par un juge ontarien à la retraite a permis aux parties d'en arriver à un règlement. Il était convenu dans l'accord de règlement que la fiducie acquerrait de la contribuable, pour la somme de 1,7 million de dollars, la totalité de sa participation au revenu de la fiducie. On prévoyait également dans l'accord de règlement le versement par la fiducie à la contribuable des sommes ayant servi à acquitter l'impôt sur les gains en capital, des dividendes accumulés non encore distribués ainsi que d'une somme en remboursement partiel de ses frais juridiques.
+[14] Le libellé de l'accord de règlement s'inspire manifestement sur ce point des paragraphes 106(2) et 106(3) de la Loi. Les deux parties comptaient se prévaloir de ces dispositions, selon le témoignage de Me Rocchi, compte tenu de l'entente conclue entre les bénéficiaires et de la règle énoncée dans Saunders v. Vautier[1]. Maître Rocchi a également déclaré que c'étaient les avocats de la bénéficiaire du capital qui avaient rédigé l'accord de règlement et qu'elle s'était assurée de la concordance de son libellé avec les paragraphes 106(2) et 106(3).
+[15] Avant de signer l'accord, la contribuable avait fait évaluer son intérêt viager par des professionnels, qui avaient fait état d'une fourchette allant de 4 à 6 millions de dollars. Dans son témoignage, la contribuable a dit que selon ce qu'elle comprenait, la somme à recevoir en vertu de l'accord de règlement serait libre d'impôt dans les circonstances, et le montant prévu de 1,7 million de dollars après impôt équivaudrait donc à la somme minimale de 3 millions de dollars qu'elle tentait d'obtenir compte tenu de l'évaluation de la valeur brute dont on lui avait fait part.
+[16] On a mis en oeuvre l'accord de règlement au moyen d'un accord d'extinction signé par les deux bénéficiaires et les fiduciaires de la fiducie. L'accord d'extinction prévoyait l'extinction de la fiducie après le paiement à la bénéficiaire du revenu d'une somme de 1,7 million de dollars par prélèvement sur le capital de la fiducie.
+[17] À la clôture de ces opérations, la fiducie a vendu ses actions de Swiss Herbal à une société à dénomination numérique dont Barbara McKerrell ou son époux étaient directement ou indirectement propriétaires, en échange d'un billet à ordre de plus de 1,7 million de dollars. Deux grands cabinets d'avocats nationaux ont mené à bien la clôture des opérations prévues dans l'accord d'extinction. La fiducie a ensuite remis à la contribuable un billet à ordre de 1,7 million de dollars. Le cabinet d'avocats représentant la fiducie a remis à la contribuable un chèque certifié de 1,7 million de dollars tiré sur son compte en fiducie pour acquitter et annuler le billet de la fiducie, après quoi Barbara McKerrell, l'unique bénéficiaire restante, a liquidé la fiducie. Toutes ces opérations ont été effectuées sous entiercement, dans l'attente de la réalisation de toutes les étapes requises. Aucun ordre précis n'était prévu pour l'exécution des opérations à faire. Il ressort sans l'ombre d'un doute de la preuve que la fiducie a légalement disposé des actions et est devenue propriétaire du billet à ordre de la société à dénomination numérique acquéresse, et que la fiducie a ensuite remis son billet à ordre à la contribuable, puis, au moyen de directives valables et régulières données à la société à dénomination numérique, a versé 1,7 million de dollars à la contribuable en réduction du montant du billet à ordre de la société à dénomination numérique à la fiducie. Il n'y a absolument aucune preuve quelconque du contraire.
+II. La Loi
+[Loi de l'impôt sur le revenu]
+106(2) Disposition par un contribuable d'une participation au revenu — Lorsque, au cours d'une année d'imposition, un contribuable dispose d'une participation au revenu d'une fiducie, les règles suivantes s'appliquent :
+106(2) Disposition by taxpayer of income interest — Where in a taxation year a taxpayer disposes of an income interest in a trust,
+a) sauf dans le cas où le paragraphe (3) s'applique à la disposition, l'excédent éventuel du montant visé au sous‑alinéa (i) sur le montant visé au sous‑alinéa (ii) doit être inclus dans le calcul du revenu du contribuable pour l'année :
+(i) le produit de disposition,
+(ii) si la participation en question comprend le droit d'exiger de la fiducie le versement d'une somme, le montant relatif à ce droit qui a été inclus dans le calcul du revenu du contribuable pour une année d'imposition par l'effet du paragraphe 104(13);
+(a) except where subsection (3) applies to the disposition, there shall be included in computing the taxpayer's income for the year the amount, if any, by which
+(i) the proceeds of disposition
+exceed
+(ii) where that interest includes a right to enforce payment of an amount by the trust, the amount in respect of that right that has been included in computing the taxpayer's income for a taxation year because of subsection 104(13);
+b) le montant de tout gain en capital imposable et de toute perte en capital déductible du contribuable, provenant de la disposition, est réputé nul;
+(b) any taxable capital gain or allowable capital loss of the taxpayer from the disposition shall be deemed to be nil; and
+c) il est entendu que le coût supporté par le contribuable pour chaque bien qu'il a reçu en contrepartie de la disposition est la juste valeur marchande de chaque bien au moment de la disposition.
+(c) for greater certainty, the cost to the taxpayer of each property received by the taxpayer as consideration for the disposition is the fair market value of the property at the time of the disposition.
+106(3) Produit de disposition d'une participation au revenu — Il est entendu que, lorsque, à un moment donné, un bien appartenant à une fiducie a été attribué par celle-ci à un contribuable qui était bénéficiaire de cette fiducie, à titre de contrepartie totale ou partielle de sa participation au revenu de la fiducie, la fiducie est réputée avoir disposé du bien moyennant un produit égal à la juste valeur marchande du bien à ce moment.
+106(3) Proceeds of disposition of income interest — For greater certainty, where at any time any property of a trust has been distributed by the trust to a taxpayer who was a beneficiary under the trust in satisfaction of all or any part of the taxpayer's income interest in the trust, the trust shall be deemed to have disposed of the property for proceeds of disposition equal to the fair market value of the property at that time.
+III. Les thèses des parties
+[18] La contribuable soutient qu'en l'espèce, l'exception à l'alinéa 106(2)a) s'applique, de sorte que le paragraphe 106(3) s'applique à la disposition par elle de sa participation au revenu. Le paragraphe 106(3) s'applique lorsqu'une fiducie attribue un bien qui lui appartient à un contribuable, à titre de contrepartie totale ou partielle de sa participation au revenu de la fiducie. La contribuable soutient que les trois conditions exigées sont remplies en l'espèce : (i) la somme de 1,7 million de dollars que la fiducie lui a versée était, au moment du paiement, un bien appartenant à celle‑ci; (ii) le paiement était une attribution de ce bien par la fiducie; (iii) le bien a été attribué à titre de contrepartie totale de sa participation au revenu de la fiducie.
+[19] L'intimée soutient pour sa part que (i) la somme de 1,7 million de dollars était, lorsque la contribuable l'a reçue, un bien appartenant à la société à dénomination numérique de la Colombie‑Britannique, puisque la fiducie n'avait jamais détenu ces espèces et avait plutôt donné des directives à leur égard, (ii) la somme de 1,7 million de dollars n'a pas été attribuée à la contribuable, puisque le bien appartenant à la fiducie, soit les actions de Swiss Herbal, a plutôt été attribué en faveur de Barbara McKerrell. À l'appui de cette dernière thèse, l'intimée fait valoir que le bien n'a pas été attribué conformément aux dispositions de la fiducie, et qu'ainsi il n'aurait pu être attribué à titre de contrepartie de la participation de la contribuable au revenu de la fiducie, et que la règle énoncée dans Saunders v. Vautier ne permet pas de modifier la fiducie afin de prévoir pareil droit ou obligation de distribution. En outre, cette règle ne pouvait s'appliquer aux opérations mises en oeuvre en vertu de l'accord d'extinction et de l'accord de règlement, et la fiduciaire de la fiducie n'agissait donc pas en conformité avec ses obligations fiduciaires lorsque la fiducie a versé la somme en question à la contribuable avant la liquidation de la fiducie.
+[20] La Couronne s'appuie très fortement sur l'arrêt Chan c. La Reine, 2001 CAF 302, de la Cour d'appel fédérale, qui confirmait une décision de la Cour canadienne de l'impôt, no 97‑140(IT)G, 6 octobre 1999.
+IV. Analyse
+[21] À mon avis, il ne fait aucun doute, au vu de la preuve, que la somme de 1,7 million de dollars versée à la contribuable par la fiducie était un bien appartenant à celle‑ci. Aucune preuve du contraire n'a été présentée. Il n'y a aucune raison de penser qu'il était nécessaire qu'une partie remette des espèces à l'autre. Il ne s'agit pas d'une opération sans effet ou qui n'a pas été mise en oeuvre. Manifestement, la société à dénomination numérique de la Colombie‑Britannique avait les espèces, le cabinet d'avocats de la fiducie a reçu des fonds et le chèque certifié tiré sur le compte en fiducie du cabinet a été avalisé contre espèces lors de sa présentation. Il est difficile de concevoir comment l'intimée pourrait croire en la nécessité d'une remise réelle d'espèces par la fiducie, ou croire que la remise du billet à ordre de la fiducie à la contribuable différait d'une manière quelconque en l'espèce d'une remise par la fiducie d'un chèque certifié tiré sur sa banque ou d'un mandat émis par celle‑ci : il ne s'agirait pas véritablement d'espèces dans l'un ou dans l'autre cas. À n'en pas douter, l'intimée n'aurait pas sérieusement contesté une lettre de change tirée sur une banque, et on ne m'a soumis aucun argument pouvant me convaincre qu'il y aurait lieu de traiter différemment les billets à ordre exigibles d'entités solvables. Ce premier argument de l'intimée ne peut être admis.
+[22] Quant à savoir si la fiducie a distribué la somme de 1,7 million de dollars à la contribuable, je ne vois pas comment on pourrait considérer qu'elle a agi autrement. Aucun motif n'a été avancé qui permette de croire qu'il ne faudrait pas donner son sens ordinaire au mot « distributed » dans la version anglaise du paragraphe 106(3) (« attribué », dans la version française). Donner ce sens ordinaire est d'autant plus indiqué que, suivant des modifications proposées à la version française de ce paragraphe, le mot « attribué » y sera remplacé par le mot « distribue ». D'ailleurs, selon le texte explicatif, le sens initialement souhaité était celui d'une « distribution ». Le dictionnaire Black's Law Dictionary définit le mot « distribute » (distribuer) comme s'entendant notamment de [TRADUCTION] « remettre », et définit « trust distribution » (distribution par une fiducie) comme des espèces ou d'autres biens donnés en paiement à un bénéficiaire de la fiducie ou portés au crédit de ce bénéficiaire.
+[23] La Couronne s'appuie presque exclusivement sur l'arrêt Chan de la Cour d'appel fédérale, l'affaire alors en cause étant selon elle pratiquement identique à celle de la contribuable. En toute déférence, autant la lecture de la décision du juge de la Cour de l'impôt que de l'arrêt de la Cour d'appel fédérale fait voir que les faits de l'affaire Chan différaient fondamentalement de ceux de la présente affaire.
+[24] L'intimée fait valoir les motifs suivants du juge de première instance dans Chan : « Le terme « distribuer » dans le contexte du paragraphe 107(2) renvoie à une attribution des biens de la fiducie à un bénéficiaire en fonction de la part qui lui revient. Cette distribution, qui est un acte que le fiduciaire accomplit conformément à son devoir de fiduciaire, ne peut donner lieu à une contrepartie, sauf en conformité avec une disposition de l'acte constitutif de fiducie. »
+[25] Ces commentaires peuvent sembler étayer la thèse de l'intimée. Le juge a toutefois ajouté que dans cette affaire, il ne s'agissait pas d'une distribution faite par la fiducie en règlement de la participation au revenu de M. Chan, mais bien plutôt de la vente par celui‑ci de sa participation au revenu à ses parents, en échange d'une contrepartie que son père lui a donnée. Ainsi, la fiducie elle‑même n'avait ni versé l'argent ni mis fin à la participation du bénéficiaire. Les commentaires du juge de la Cour de l'impôt quant à ce qui constitue une distribution faite par la fiducie doivent donc être interprétés compte tenu des faits et des conclusions, qui sont fort différents de ceux dans le cas de Mme McKenzie. Il ressort très clairement du passage suivant de l'arrêt Chan de la Cour d'appel fédérale que les faits et les conclusions en cause dans cette affaire ont constitué le fondement de la décision de la Cour de l'impôt :
+15 Pour que le paragraphe 107(2) s'applique, il nous paraît nécessaire que le contribuable démontre que le bien qui lui a été transféré était effectivement un bien distribué à partir de l'actif de la fiducie. Ce bien peut prendre la forme d'espèces, mais ces espèces doivent provenir de la fiducie.
+16 Aucun élément n'indique que les espèces en question provenaient de la fiducie, ni que celle-ci ait disposé de suffisamment d'argent en espèces pour verser la somme convenue, à l'époque où le versement a été effectué. Il incombe au contribuable de démontrer que l'argent en espèces qu'a reçu l'appelant provenait de la fiducie et celui-ci ne s'est pas acquitté de ce fardeau. Il n'existe par conséquent aucun élément indiquant que le bien de la fiducie a été distribué à l'appelant de façon à ce qu'il puisse invoquer les dispositions du paragraphe 107(2).
+Comme la Cour d'appel fédérale l'avait précédemment écrit dans l'arrêt R. c. Friedberg, no A‑65‑89, 5 décembre 1991, [1991] A.C.F. no 1255 (QL) : « En droit fiscal, la forme a de l'importance. »
+[26] L'intimée soutient en outre que, peu importe le motif du paiement de la somme de 1,7 million de dollars par la fiducie à la contribuable, il ne s'agissait pas là d'une attribution en contrepartie totale ou partielle de la participation de la contribuable au revenu de la fiducie. Le raisonnement suivi par l'intimée veut que la règle énoncée dans Saunders v. Vautier ne permet pas la modification de la fiducie, que les parties ne prétendaient pas y avoir apporté de modification en tout état de cause et que, puisque cette règle n'autorisait que la liquidation de la fiducie, le paiement à la contribuable tout juste avant la liquidation n'avait pas été fait conformément aux dispositions de la fiducie et avait constitué une violation par la fiduciaire de ses obligations fiduciaires.
+[27] Il se dégage clairement de la jurisprudence et de la doctrine citées par l'intimée, et des décisions qui y sont citées, que la règle énoncée dans Saunders v. Vautier ne semble pas autoriser la modification des dispositions d'une fiducie par ses bénéficiaires; elle permet uniquement la liquidation de la fiducie à la demande de l'ensemble des bénéficiaires. L'intimée n'a toutefois cité aucune jurisprudence au soutien de son assertion supplémentaire selon laquelle la règle dans Saunders v. Vautier n'autorisait pas en l'espèce la liquidation de la fiducie en vertu de l'accord d'extinction conclu par les deux bénéficiaires et par la fiducie. Aux termes de l'accord d'extinction, la fiducie a distribué 1,7 million de dollars à la bénéficiaire du revenu et, immédiatement après, la bénéficiaire du capital a reçu le reste des biens de la fiducie. Il était d'ailleurs expressément stipulé dans l'accord d'extinction que Barbara McKerrell enjoignait irrévocablement à la fiduciaire de mettre fin à la fiducie immédiatement une fois effectué son paiement à la bénéficiaire viagère.
+[28] Compte tenu des circonstances de l'espèce, je ne suis disposé ni à forcer le sens ordinaire du libellé de l'article 106, ni à étoffer la règle dans Saunders v. Vautier en l'absence de la moindre jurisprudence, de manière à ce que la Cour canadienne de l'impôt traite de ce qui semble simplement être une question de l'évaluation d'un éventuel avantage passé lié à l'emploi et de l'ordre des événements, pour laquelle la Loi renferme des dispositions d'imposition claires. Le second argument de l'intimée ne peut non plus être admis.
+[29] Mis à part la question d'un éventuel avantage lié à l'emploi, qu'on ne peut examiner ni trancher dans le cadre du présent appel, il est opportun d'accueillir l'appel parce que cette décision concorde avec l'économie de la Loi et la politique fiscale canadienne qu'elle exprime. Le Canada impose les gains en capital sur les biens et le revenu de biens, mais il n'impose pas les dons. Il est manifeste que tous les gains en capital et tout le revenu de dividendes tirés des actions de Swiss Herbal ont été imposés en conformité avec la Loi. L'intimée ne donne pas à entendre le contraire, et elle ne le pourrait pas. Il se dégage clairement du sens ordinaire des paragraphes 106(2) et 106(3) que, de manière générale, la Loi ne vise pas à assujettir à l'impôt un bénéficiaire du revenu dont les droits font l'objet d'une disposition en faveur de la fiducie elle-même, mais impose tout gain pécuniaire que peut réaliser ce bénéficiaire lorsqu'il y a disposition en faveur d'un tiers. Il y a lieu de noter qu'en cas de disposition d'un intérêt viager en faveur d'une fiducie, la distribution faite par la fiducie s'apparente à la réception, par le bénéficiaire du revenu, de la partie correspondant au capital, après impôt, du montant constitutif de la fiducie, que le disposant aurait pu donner au bénéficiaire sans qu'il y ait d'incidence fiscale.
+[30] L'appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 9e jour de juin 2011.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 27e jour de juillet 2011.
+Yves Bellefeuille, réviseur
+ANNEXE
+No du dossier de la Cour : 2009-2898(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+SHIRLEY PATRICIA MCKENZIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Aux fins de l'appel en cause, les parties, par l'entremise de leurs avocats respectifs, conviennent des faits exposés ci‑après. Les parties pourront présenter des éléments de preuve additionnels, à condition qu'ils ne soient pas incompatibles avec les faits dont il est convenu dans les présentes.
+1. Il s'agit d'un appel interjeté à l'encontre d'une nouvelle cotisation (la « nouvelle cotisation ») établie le 5 mars 2009 par le ministre du Revenu national (le « ministre ») pour l'année d'imposition 2006.
+Le contexte
+2. L'appelante, un particulier, est une résidente du Canada.
+3. De 1977 à 2003, l'appelante était une employée de Swiss Herbal Remedies Limited (« Swiss Herbal »).
+4. Swiss Herbal a été fondée par Konrad Gerolf Zimmermann (« M. Zimmermann »).
+5. Monsieur Zimmermann a fait son testament le 10 juin 1978 (le « testament »).
+6. Monsieur Zimmermann a désigné sa fille, Barbara McKerrell (« Mme McKerrell »), et son avocat, Me Theodore Herman (« Me Herman »), comme fiduciaires et exécuteurs testamentaires ainsi que fiduciaires des fiducies établies dans son testament.
+7. Monsieur Zimmermann est décédé le 12 juillet 1978.
+8. Au moment de son décès, M. Zimmermann détenait 300 actions ordinaires de Swiss Herbal, soit la totalité des actions émises et en circulation du capital‑actions de Swiss Herbal.
+9. Les lettres d'homologation du testament ont été accordées le 17 septembre 1979.
+Le testament de M. Zimmermann
+10. En vertu du testament, les actions de Swiss Herbal de M. Zimmermann ont été partagées de la façon suivante :
+a) une part (20 %) a été attribuée à Mme McKerrell, pour son usage exclusif et absolu;
+b) une part (20 %) devait être détenue en fiducie pour Denise Zimmermann, l'épouse de M. Zimmermann;
+c) une part (20 %) devait être détenue en fiducie pour Christina Zimmermann, fille de M. Zimmermann;
+d) une part (20 %) devait être détenue en fiducie pour Me Herman;
+e) une part (20 %) devait être détenue en fiducie pour l'appelante, l'aide‑comptable de M. Zimmermann.
+11. L'intention de M. Zimmermann, telle qu'elle est exprimée dans son testament, était que Denise Zimmermann, Christina Zimmermann, Me Herman et l'appelante ne disposent que d'un intérêt viager, y compris le droit de participer aux bénéfices de Swiss Herbal et le droit de vote aux assemblées des actionnaires. Les actions de chacune de ces personnes devaient aller à leur décès à Mme McKerrell, pour son usage exclusif et absolu.
+12. La donation à l'appelante était assortie d'une autre condition : l'appelante devait continuer de travailler à temps plein pour Swiss Herbal et, si l'appelante devait quitter son emploi ou être congédiée pour un motif valable, la donation deviendrait caduque à compter de la date de la cessation d'emploi.
+13. Les paragraphes 10 à 12 du présent exposé conjoint partiel des faits n'énoncent pas exhaustivement la teneur de l'alinéa 3d) du testament, lequel est reproduit intégralement à l'onglet 2 du recueil conjoint de documents des parties.
+Le congédiement de l'appelante et le litige subséquent
+14. L'appelante a été destituée de ses fonctions d'administratrice de Swiss Herbal en février 2003.
+15. Le 25 novembre 2003, l'appelante a été congédiée de son poste de vice‑présidente de Swiss Herbal, sans motif valable, selon elle.
+16. Le 5 janvier 2004, l'appelante a intenté devant la Cour supérieure de justice (rôle commercial) une action (dossier de la Cour no 04‑CL‑5277) contre Mme McKerrell, son époux Steve McKerrell et Swiss Herbal, et contre Me Herman et Mme McKerrell en leur qualité de fiduciaires de la succession de M. Zimmermann et de fiduciaires de la fiducie en faveur de Patricia McKenzie (l'« action »).
+17. Un accord de règlement a été conclu en décembre 2005 pour mettre fin à l'action (l'« accord de règlement »), mais, par erreur, il a été daté du 16 décembre 2006.
+18. L'accord de règlement prévoyait que la fiducie en faveur de Patricia McKenzie et ses fiduciaires veilleraient à ce que cette fiducie acquière la totalité du droit de l'appelante au revenu de la fiducie, au moyen d'une ou de plusieurs opérations, selon les instructions de Mme McKerrell à son seul gré (notamment par la disposition de tout bien transféré à l'appelante par suite de ces opérations), de telle manière qu'une somme de 1,7 million de dollars, payable le 20 mars 2006, soit versée à l'appelante en règlement de son droit au revenu de la fiducie en faveur de Patricia McKenzie.
+19. En contrepartie du paiement décrit au paragraphe 18 des présentes, l'appelante a convenu de renoncer à tout droit qu'elle avait à l'égard de la fiducie en faveur de Patricia McKenzie, notamment à l'égard des actions de Swiss Herbal détenues par la fiducie.
+20. Les paragraphes 18 et 19 du présent exposé conjoint partiel des faits n'énoncent pas exhaustivement la teneur de l'accord de règlement, lequel est reproduit intégralement à l'onglet 4 du recueil conjoint de documents des parties.
+21. Le 20 mars 2006, les opérations suivantes ont été faites :
+a) Me Herman a démissionné comme cofiduciaire de la fiducie en faveur de Patricia McKenzie, dont Mme McKerrell devenait ainsi la fiduciaire unique;
+b) la fiducie en faveur de Patricia McKenzie a remis à l'appelante un billet de 1,7 million de dollars payable le 20 mars 2006 (le « billet »);
+c) la fiducie en faveur de Patricia McKenzie a transféré, en conformité avec le paragraphe 85(1) de la Loi, les 60 actions de Swiss Herbal qu'elle détenait à 656832 B.C. Ltd., une société dirigée par Mme McKerrell et par son époux Steve (la « société 656832 »);
+d) la fiducie en faveur de Patricia McKenzie a enjoint à la société 656832 de payer 1,7 million de dollars à l'appelante.
+22. Le 22 mars 2006, Cassels Brock & Blackwell LLP, les avocats de Mme McKerrell et de la société 656832, ont fait à l'appelante un chèque de 1,7 million de dollars, et le billet a été annulé.
+23. Immédiatement après, Mme McKerrell, à titre de titulaire du domaine résiduel de la fiducie en faveur de Patricia McKenzie, s'est enjoint à elle‑même, à titre de fiduciaire de la fiducie en faveur de Patricia McKenzie, de liquider cette fiducie.
+La nouvelle cotisation
+24. En établissant la nouvelle cotisation, le ministre a ajouté la somme de 1,7 million de dollars décrite au paragraphe 18 des présentes au revenu précédemment déclaré par l'appelante pour son année d'imposition 2006.
+25. L'appelante s'est opposée à la nouvelle cotisation au moyen d'un avis d'opposition daté du 3 juin 2009.
+FAIT à Toronto (Ontario), ce 27e jour d'avril 2011.
+« David C. Nathanson »
+David C. Nathanson, c.r.
+Davis S.E.N.C.R.L.
+Avocat de l'appelante
+FAIT à Toronto (Ontario), ce 27e jour d'avril 2011.
+« Dona Dorosh »
+Dona Dorosh
+Ministère de la Justice
+Avocate de l'intimée
+RÉFÉRENCE : 2011 CCI 289
+No DU DOSSIER DE LA COUR : 2009‑2898(IT)G
+INTITULÉ : SHIRLEY PATRICIA MCKENZIE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 27 avril 2011
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 9 juin 2011
+COMPARUTIONS :
+Avocats de l'appelante :
+Me David C. Nathanson, c.r.
+Me Adrienne K. Woodyard
+Avocats de l'intimée :
+Me Donna Dorosh
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : David C. Nathanson, c.r.
+Adrienne K. Woodyard
+Cabinet : Davis S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] (1841), 41 E.R. 482.

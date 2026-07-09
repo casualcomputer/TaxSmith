@@ -1,0 +1,173 @@
+Title: 1238167 Ontario Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520940/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-64-520940-1238167-ontario-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-06-17
+
+# 1238167 Ontario Ltd. c. La Reine
+
+- Citation: 2022 CCI 64
+- Decision date: 2022-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4532, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1238167 Ontario Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-17
+Référence neutre
+2022 CCI 64
+Numéro de dossier
+2018-4743(GST)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-4743(GST)I
+ENTRE :
+1238167 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 13 et 14 octobre 2021, à Toronto (Ontario).
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Représentant de l’appelante :
+Verminder Singh
+Avocate de l’intimée :
+Me Acinkoj Magok
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie aux termes de la partie IX de la Loi sur la taxe d’accise pour la période du 1er janvier 2014 au 30 juin 2016, et dont l’avis est daté du 18 septembre 2018, est accueilli, sans dépens.
+L’affaire est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation pour le motif que la TPS/TVH à percevoir pour les périodes de déclaration sera réduite de 8 902,49 $ pour s’établir à 30 096,25 $.
+Signé à Ottawa, Canada, ce 17e jour de juin 2022.
+« Susan Wong »
+La juge Wong
+Référence : 2022 CCI 64
+Date : Le 17 juin 2022
+Dossier : 2018-4743(GST)I
+ENTRE :
+1238167 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction/survol
+[1] Le ministre du Revenu national a établi une cotisation à l’égard de l’appelante concernant la TPS/TVH à percevoir au motif de ventes non déclarées pour les périodes de déclaration allant du 1er janvier 2014 au 30 juin 2016 (les « périodes de déclaration »). Elle a également rejeté certains crédits de taxe sur les intrants qui ne sont pas visés par le présent appel.
+[2] L’appelant affirme que le montant de la taxe imposée est gonflé parce que le ministre a inclus les estimations de services et les dépôts non liés à l’entreprise (à la suite d’une analyse des dépôts des comptes bancaires personnels des deux actionnaires) comme recettes de ventes non déclarées. En opposition, le ministre a convenu que certains dépôts bancaires ne constituaient pas des recettes de ventes non déclarées et a réduit la TPS/TVH à percevoir. L’appelante affirme que le montant impayé restant de l’avis de cotisation de TPS/TVH devrait être supprimé pour les deux mêmes motifs énoncés à l’étape de l’opposition.
+[3] Au cœur du présent appel se trouve l’importance de tenir des livres et registres adéquats à des fins fiscales.
+Question en litige
+[4] La question en litige est de déterminer si le ministre a évalué correctement le montant de TPS/TVH à percevoir de 30 096,25 $ pour les périodes de déclaration.
+Sommes admises au cours de l’appel
+[5] Au cours des observations finales, l’intimée a concédé que la TPS/TVH à percevoir devrait être réduite de 8 902,49 $, comprenant ce qui suit :
+8 134,98 $ – somme fondée sur le calcul suivant : 70 711,74 $ x 13/113 = 8 134,98 $. L’appelante a fourni des renseignements supplémentaires ou nouveaux à l’intimée concernant la date d’audience initiale du présent appel, qui a été ajournée à une date indéterminée au motif d’un temps d’audience insuffisant. La vérificatrice de l’Agence du revenu du Canada a examiné les renseignements avant la présente audience et a témoigné que ce montant supplémentaire de TPS/TVH devrait être supprimé, au motif d’une réduction supplémentaire de 70 711,74 $ des recettes de ventes présumées non déclarées découlant de l’analyse des dépôts bancaires. Des feuilles de calcul préparées par elle détaillant cette concession ont été déposées en preuve par l’intimée [1] ;
+767,51 $ – somme fondée sur le calcul suivant : 6 671,46 $ x 13/113 = 767,51 $. Après la déposition des témoins de l’appelante, l’intimée a reconnu que 6 671,46 $ déposés dans les comptes bancaires personnels des deux actionnaires ne constituaient pas non plus des recettes de ventes non déclarées provenant de l’entreprise des appelants [2] .
+[6] L’intimée a indiqué que, par conséquent, le montant de TPS/TVH à percevoir visé par le présent appel a été réduit, passant à 30 096,26 $, soit 38 998,74 $ [3] moins 8 902,49 $. Je dois avouer que je n’arrive pas à rapprocher mon calcul pour arriver à 30 096,26 $; j’arrive plutôt à 30 096,25 $.
+Faits
+[7] L’appelante est une société à numéro exploitée sous le nom de « Quality Oil Change and Tire Service ». Les activités de son entreprise comprennent la réparation de véhicules, la vente de pièces et de fournitures de véhicules pour effectuer ces réparations ainsi que la vente d’un petit nombre de véhicules. M. Harbans Sohal est un mécanicien et l’unique propriétaire de l’appelante; l’entreprise compte également deux employés. M. Sohal avait auparavant un partenaire commercial nommé M. Deep Manbodh, qui était actionnaire à 30 % [4] et qui a quitté l’entreprise aux alentours de 2017.
+(a) Estimations de services
+[8] Au cours des périodes de déclaration, l’appelante a utilisé un logiciel de gestion d’atelier automobile de point de vente nommé « Invomax » pour faire le suivi de ses ventes. M. Sohal a témoigné que l’appelante utilisait Invomax pour : (1) générer des factures pour les services de garage fournis et payés, et (2) générer des factures qui servaient d’estimations associées au coût d’un service.
+[9] En comparant les factures payées avec les factures d’estimations :
+les factures payées indiquaient un solde à payer de zéro [5] , tandis que les factures d’estimations indiquaient le montant d’argent total dû en tant que solde à payer [6] ;
+les factures payées possédaient des dates de création et des dates d’échéance fixes, tandis que les factures d’estimations semblaient posséder des dates de création fixes, mais des dates d’échéance mobiles. Par exemple, lorsque les factures d’estimations étaient imprimées pour la vérification du ministre, Invomax mettait à jour la date d’échéance afin qu’elle corresponde à la date d’impression [7] . En revanche, la date d’échéance ne changeait pas sur les factures payées qui ont été imprimées pour la vérification [8] ;
+l’appelante distinguait manuellement les factures d’estimations des factures payées en tapant le mot « estimation » dans la partie de commentaires des factures d’estimations [9] ;
+le mode de paiement (p. ex. espèces [10] , chèque [11] , carte de crédit [12] , Visa [13] ) pourrait être saisi manuellement dans le coin supérieur gauche de la facture. M. Sohal a témoigné qu’ils ne le faisaient pas régulièrement et laissaient parfois ce coin en blanc sur les factures payées, c’est-à-dire qu’on voyait que la facture avait été payée, mais pas comment elle l’avait été [14] . M. Sohal a déclaré que l’appelante effectuait un rapprochement manuel à la fin de chaque journée des montants d’argent reçus et des modes de paiement. Il a ajouté que ce n’était pas fastidieux comme tâche, car l’entreprise n’avait que cinq ou six factures à rapprocher par jour;
+le numéro de facture est généré séquentiellement par Invomax et, puisque l’appelante utilisait le logiciel à la fois pour les factures payées et pour les factures d’estimations, ces deux types de factures faisaient partie d’un système de numérotation unique. Lorsqu’on lui a demandé en contre-interrogatoire pourquoi une estimation datée du 8 janvier 2014 et créée à 16 h 51 pouvait être numérotée 33608 [15] , tandis qu’une autre facture d’estimation datée également du 8 janvier 2014 et créée à 21 h 39 portait le numéro 33665 [16] (c’est-à-dire un saut de 57 numéros), M. Sohal a témoigné qu’il ne le savait pas parce qu’ils avaient environ cinq à dix clients par jour. En y regardant de plus près, on peut constater que la facture d’estimation 33608 a été créée à 16 h 51 le 4 janvier 2014 (c’est-à-dire quatre jours plus tôt). Par conséquent, la différence de 57 chiffres est plausible.
+[10] Invomax a généré un résumé mensuel appelé journal des ventes [17] . Le journal des ventes contient, entre autres, les renseignements suivants :
+un tiroir-caisse virtuel décomposant le montant d’argent reçu par chaque mode de paiement (p. ex. espèces, carte de crédit, chèque). M. Sohal a reconnu en contre-interrogatoire que la répartition dans le tiroir-caisse n’était pas exacte, car le mode de paiement n’y était pas systématiquement inscrit;
+le nombre de factures générées chaque jour du mois;
+les totaux quotidiens du revenu brut;
+les ventes taxables quotidiennes;
+les calculs quotidiens de la TPS/TVH;
+les totaux mensuels pour chaque colonne.
+[11] La vérificatrice de l’ARC, Mme Sahra Zaidi, a expliqué que, pour chaque période de déclaration, elle a comparé les recettes de ventes déclarées par l’appelante dans sa déclaration trimestrielle avec le total des revenus trimestriels obtenu en additionnant : (1) les résumés de point de vente/journaux des ventes et (2) les recettes de ventes de véhicules (tirées d’un grand livre des ventes de véhicules). La différence entre les deux totaux des revenus trimestriels serait la variation des ventes. Elle a ensuite répété ce processus avec la TPS/TVH en comparant la TPS/TVH déclarée dans la déclaration trimestrielle de l’appelante avec le montant d’argent calculé à l’aide des résumés de point de vente/journaux des ventes et du grand livre des ventes de véhicules. La différence serait la variation de la TPS/TVH, c’est-à-dire le montant de TPS/TVH à percevoir (s’il y a lieu), devant faire l’objet d’une nouvelle cotisation. Elle a témoigné que la variation était positive certains mois et négative pendant d’autres mois, mais que dans l’ensemble, il en résultait, selon les dossiers de l’appelante, un montant supplémentaire de TPS/TVH de 14 175,13 $ [18] .
+[12] Le comptable de l’appelante, Prithipal Dhillon, a témoigné que son bureau préparait les rapports trimestriels à l’aide de renseignements obtenus par téléphone. Il a affirmé qu’ils présumaient que l’information était correcte parce qu’elle était fournie par les administrateurs de l’appelante. Il a fourni un document de travail montrant que si le total de toutes les factures d’estimations était soustrait du chiffre des données de recettes de ventes du ministre pour les périodes de rapport, la différence entre ses recettes de ventes rajustées et le total des dépôts dans les comptes personnels des actionnaires était de 14 736,23 $, c’est-à-dire plus près du rapprochement qu’avec la méthode utilisée par la vérificatrice [19] . Il a déclaré qu’il croyait que l’écart dans les totaux des recettes de ventes découlait du fait que les factures d’estimations étaient incluses.
+[13] En contre-interrogatoire, il a été démontré à M. Sohal que deux factures d’estimations du 20 février 2015 totalisaient 2 494,15 $ [20] , tandis que le résumé de point de vente/journal des ventes pour la même date indiquait que les ventes brutes totales étaient de 1 952,07 $ [21] . Lorsqu’on lui a demandé comment les ventes brutes de cette journée pouvaient être inférieures aux factures d’estimations si Invomax incluait les estimations dans les revenus (comme l’affirme l’appelante); il a déclaré qu’il ne savait pas pourquoi et qu’ils n’utilisaient pas Invomax à des fins comptables.
+[14] À la suite d’une opposition, le ministre a examiné un échantillon composé de deux mois de factures (janvier 2014 et février 2015) fournies par l’appelante pour appuyer son affirmation selon laquelle des factures d’estimations avaient été incluses dans les recettes de ventes. Cependant, les totaux des factures ne correspondaient pas aux montants d’argent estimatifs fournis par l’appelante, de sorte que le ministre n’a fait aucun rajustement, c’est-à-dire que la TPS/TVH établie selon les registres de l’entreprise est demeurée à 14 175,13 $ [22] .
+(b) Dépôts sur les comptes bancaires personnels des actionnaires
+[15] La vérificatrice a témoigné que l’examen des dépôts effectués sur les comptes bancaires des deux actionnaires a été effectué lors de sa vérification. Elle a déclaré que l’appelante ne lui avait fourni aucune pièce justificative relativement aux comptes bancaires. Elle a donc traité tous les dépôts comme des recettes de ventes non déclarées, puis a calculé la TPS/TVH à percevoir. Cette approche a donné lieu à une autre cotisation de 38 719,94 $ de TPS/TVH à percevoir.
+[16] À la suite d’une opposition, le ministre a examiné les renseignements soumis par l’appelante et a convenu que certains dépôts bancaires ne constituaient pas des recettes de ventes non déclarées. Le ministre a réduit cette partie de la TPS/TVH à percevoir de 13 896,32 $ (c.-à-d. à 24 823,62 $) [23] .
+[17] Des concessions supplémentaires totalisant 8 902,49 $ ont été faites par le ministre à l’audience, tel qu’il est détaillé aux paragraphes 5 et 6 des présents motifs. Des feuilles de calcul préparées par le comptable de l’appelante, M. Dhillon, détaillant les dépôts non liés à l’entreprise sur les comptes bancaires personnels des deux actionnaires, ont été fournies à l’intimée à la date d’audience initiale du présent appel [24] . Par exemple, M. Sohal est un agent immobilier agréé et a reçu des honoraires de courtier en hypothèques ainsi que des revenus de commissions [25] . Autre exemple, le compte personnel de M. Manbodh indiquait des dépôts de prêts d’actionnaires et des salaires reçus par sa femme d’un employeur tiers [26] .
+Cadre législatif
+[18] Le paragraphe 286(1) de la Loi sur la taxe d’accise exige que toute personne qui exploite une entreprise ou qui exerce une activité commerciale tienne des livres et des registres adéquats afin que le ministre puisse déterminer toute somme due à ou par la personne.
+[19] Le ministre n’est pas non plus lié par les déclarations ou les renseignements qui lui sont fournis dans le cadre de son évaluation [27] .
+Discussion
+[20] J’ai reporté le prononcé de ma décision dans le présent appel pour me donner l’occasion d’examiner les recueils de documents des parties, lesquels étaient assez volumineux. En examinant les documents et en considérant les témoignages des témoins, je ne vois aucune raison d’autoriser plus que ce qui a déjà été concédé par le ministre. La tenue des dossiers de l’appelante ne respectait pas la norme établie au paragraphe 286(1).
+[21] En ce qui concerne l’affirmation de l’appelante selon laquelle Invomax a inclus des estimations dans les recettes de ventes (gonflant ainsi le chiffre d’affaires sur lequel s’appuie le ministre), elle n’est pas étayée par les documents. Par exemple, les factures d’estimations datées du 20 février 2015 dépassaient à elles seules les ventes brutes dans le résumé du point de vente/journal des ventes pour ce jour [28] . Si Invomax avait inclus les montants des estimations dans le chiffre d’affaires, on s’attendrait à ce que les ventes brutes dans le résumé du point de vente soient supérieures aux estimations seules.
+[22] Il est difficile de suivre le calcul proposé par le comptable de l’appelante, M. Dhillon, dans lequel il a rajusté les recettes de ventes en soustrayant les factures d’estimations, réduisant ainsi la différence entre le total des recettes de ventes et le total des dépôts effectués dans les comptes bancaires personnels des actionnaires [29] – jusqu’à sa conclusion proposée, selon laquelle l’écart dans les totaux des recettes de ventes était dû à l’inclusion des factures estimations. Son calcul semble comparer les données des recettes de ventes fondées sur les registres commerciaux (c’est-à-dire les résumés de points de vente/journaux des ventes et le grand livre des ventes de véhicules) avec les recettes de ventes fondées sur l’analyse des dépôts bancaires. Le ministre a établi le montant de TPS/TVH à percevoir en additionnant les deux chiffres, de sorte que le calcul de compensation de M. Dhillon est d’une utilité limitée.
+[23] Bien qu’Invomax soit probablement un système imparfait, la pratique de l’appelante consistant à entrer ou à omettre le mode de paiement de manière incohérente et à n’effectuer qu’un rapprochement manuel (sans tenir compte de ses dossiers électroniques) à la fin de chaque journée a probablement exacerbé les lacunes que le logiciel aurait pu avoir.
+[24] La TPS/TVH imposée à la suite de l’analyse des dépôts des comptes bancaires personnels des actionnaires était initialement fondée sur le fait que tous les dépôts étaient traités comme des recettes de ventes non déclarées. Étant donné que des renseignements ont été fournis au ministre par l’appelante pour démontrer que certains dépôts n’étaient pas liés à des activités d’entreprise, les données de recettes et le montant de TPS/TVH correspondants ont diminué. L’appelante a produit suffisamment d’éléments de preuve à l’audience pour étayer la concession supplémentaire faite par l’intimée dans ses observations finales, et je ne vois aucune raison d’autoriser plus que ce qui a déjà été concédé.
+[25] L’appelante a déclaré dans son avis d’appel qu’environ 10 à 20 % de ses ventes étaient payées en espèces et qu’une partie de l’argent était déposée dans le compte de l’appelante, tandis qu’une autre partie de l’argent était déposée dans les comptes personnels des actionnaires. L’appelante a affirmé qu’en conséquence, le ministre avait compté deux fois une partie des recettes de ventes en s’appuyant sur les résumés de point de vente/journaux des ventes et en procédant à une analyse des dépôts des comptes personnels [30] . Bien que cela puisse être le cas, aucun élément de preuve n’a été présenté pour prouver quels montants d’argent avaient été comptés deux fois. De plus, compte tenu de l’état des dossiers commerciaux, je pense qu’il aurait été difficile de le faire.
+Conclusion
+[26] L’appel est accueilli uniquement à l’égard des montants d’argent concédés par l’intimée et sans dépens, pour le motif que la TPS/TVH à percevoir sera réduite de 8 902,49 $ (c.-à-d. à 30 096,25 $) pour les périodes de déclaration visées.
+Signé à Ottawa, Canada, ce 17e jour de juin 2022.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2022 CCI 64
+NO DU DOSSIER DE LA COUR :
+2018-4743(GST)I
+INTITULÉ :
+1238167 ONTARIO LTD., c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 13 et 14 octobre 2021
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 17 juin 2022
+COMPARUTIONS :
+Représentant de l’appelante :
+Verminder Singh
+Avocate de l’intimée :
+Me Acinkoj Magok
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Verminder Singh
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Recueil de documents de l’intimée (pièce R-1) aux onglets 9A et 9B
+[2] Recueil de documents de l’intimé (pièce R-1) à l’onglet 8A aux lignes 53, 57, 111, 115 et à l’onglet 8B aux lignes 1, 29, 60
+[3] Réponse à l’avis d’appel, paragraphe 8(g).
+[4] Réponse à l’avis d’appel, paragraphe 8(h); recueil de documents de l’intimée (pièce R-1) à l’onglet 6, page 278
+[5] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 85
+[6] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 84
+[7] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 84
+[8] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 85
+[9] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 84
+[10] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 87
+[11] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 86
+[12] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 92
+[13] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 88
+[14] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 85
+[15] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 6
+[16] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2A, page 7
+[17] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2C, page 199
+[18] Recueil de documents de l’intimée (pièce R-1) à l’onglet 3, page 246
+[19] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2D, page 238
+[20] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2B, pages 148 et 149
+[21] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2C, page 204
+[22] Recueil de documents de l’intimée (pièce R-1) à l’onglet 7
+[23] Recueil de documents de l’intimée (pièce R-1) à l’onglet 7
+[24] Recueil de documents de l’intimée (pièce R-1) aux onglets 8A et 8B
+[25] Recueil de documents de l’intimée (pièce R-1) à l’onglet 8B, lignes 1, 29 et 60
+[26] Recueil de documents de l’intimée (pièce R-1) à l’onglet 8A, lignes 53, 57, 111 et 115
+[27] Loi sur la taxe d’accise, paragraphe 299(1)
+[28] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2B, pages 148 et 149, et à l’onglet 2C, page 204
+[29] Recueil de documents de l’intimée (pièce R-1) à l’onglet 2D, page 238
+[30] Avis d’appel, page 2

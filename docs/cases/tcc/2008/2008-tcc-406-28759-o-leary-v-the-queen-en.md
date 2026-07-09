@@ -1,0 +1,172 @@
+---
+title: "O'Leary v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28759/index.do"
+last_modified: "2008-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 406"
+citation2: ""
+neutral_citation: "2008 TCC 406"
+decision_date: "2008-07-09"
+language: "en"
+item_id: "28759"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1546
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:01:20.541000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "66dea31e5d67084a124e143a495d49b5864648c2b761ce59ba82cca814973763"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Leary v. The Queen
+
+- Citation: 2008 TCC 406
+- Decision date: 2008-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1546, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Leary v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-09
+Neutral citation
+2008 TCC 406
+File numbers
+2007-3785(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3785(IT)I
+BETWEEN:
+CAROL O'LEARY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 31, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal from the notices of reassessment dated October 30, 2006, for the 2002, 2003 and 2004 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 9th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 21st day of August 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC406
+Date: 20080709
+Docket: 2007-3785(IT)I
+BETWEEN:
+CAROL O'LEARY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the notices of reassessment dated October 30, 2006, for the 2002, 2003 and 2004 taxation years, in which the Minister of National Revenue (the “Minister”) assessed a penalty for gross negligence under subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”), in the amounts of $731.77, $1,512.17 and $2,083.59, respectively.
+[2] The question raised in this appeal is whether the Minister was entitled to assess penalties against the Appellant under subsection 163(2) of the Act because he claimed rental expenses in his income tax returns for the years in issue of which approximately 85 percent were disallowed. More specifically, the overstated rental expenses that were subject to the penalty for gross negligence totalled $7,120 for 2002, $15,435 for 2003 and $24,602 for 2004. The rental expenses that were disallowed totalled $21,992 for 2002, $21,428 for 2003 and $31,703 for 2004, on reported gross rental income of $1,200 in 2002, $3,600 in 2003 and $7,375 in 2004.
+[3] A majority of the overstated rental expenses consisted of personal expenses: the expenses of operating a motor vehicle and expenses associated with the Appellant's personal residence located in Saint‑Mathieu‑de‑Laprairie (telephone, electricity, insurance, cable, property taxes, maintenance and repairs).
+[4] The Minister determined that the Appellant had knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of a false statement or omission in returns filed for the 2002, 2003 and 2004 taxation years, with the result that the tax he would have been required to pay based on the information provided in the income tax returns for the years in issue was lower than the amount of income tax payable for those years, based on the following facts, as set out in paragraph 9 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(i) the Appellant handled the budget and administration of the properties (rentals, taxes, maintenance, insurance, etc.) himself;
+(ii) the Appellant therefore had an idea of the scope of expenses incurred;
+(iii) the overstated rental expenses were personal expenses and it was the Appellant himself who provided the accountant with the invoices or documents;
+(iv) the Minister is of the opinion that the Appellant demonstrated gross negligence in this case: the Appellant should have noticed that the rental expenses established by the accountant were much too high;
+(v) the Appellant signed the tax returns for the taxation years in issue.
+Facts of the Case
+[5] Carol O’Leary comes from Notre-Dame-du-Lac (Témiscouata County) and has been a teacher with the Commission scolaire Marie-Victorin since 1977. He lives at 672 Principale, Saint-Mathieu-de-Laprairie.
+[6] In addition to his residence, the Appellant has owned a cottage at the municipal address 1366 Chemin-du-Lac, Notre-Dame-du-Lac, since 1992. In February 2002, he purchased a property located at 1533 Chemin-du-Lac, Notre-Dame-du-Lac, with the intention of living there when he retired. The property consisted of a century-old home and a 7.5-arpent lot. The interior of the house was in pitiful condition and had to be redone in its entirety, in 2003.
+[7] In June 2004, the Appellant purchased his mother's house at 1364 Chemin-du-Lac, Notre-Dame-du-Lac, on the same lot as the cottage he already owned. The Appellant's brother was living in the addition built onto the house, a sort of summer kitchen renovated as an apartment, and paying rent of $200 per month.
+[8] The Appellant started renting out the house located at 1533 Chemin-du-Lac in the summer of 2002, and his mother's home and the cottage in 2004.
+[9] Before 2002, the Appellant had used specialized agencies such as H & R Block to prepare his income tax returns. For 2002, at the suggestion of a friend and co‑worker, the Appellant retained the services of an accountant, Serge Cloutier, to prepare his tax returns.
+[10] In his testimony, Mr. O’Leary confirmed that he met Mr. Cloutier in February 2003, and that this was when Mr. Cloutier asked him to provide him with all his expense invoices and told him he would add them up. As requested, the Appellant gave Mr. Cloutier the totals of his annual expenses for electricity, telephone, municipal and school taxes, insurance, cable, internet, gas, meals and interest for 2002, for both his personal residence and the residence located at 1533 Chemin‑du‑Lac. The Appellant also provided the residual value of his vehicle, a 1999 Sunfire, which information he had obtained from the Auto Club.
+[11] The scenario was repeated for the 2003 and 2004 taxation years, and the Appellant provided Mr. Cloutier with all his invoices and all the information described in paragraph 10 above. For 2004, the invoices and information provided also included the expenses incurred in relation to the properties located at 1364 and 1366 Chemin-du-Lac.
+[12] In his testimony, Mr. O’Leary acknowledged that he had signed his tax returns for each of the taxation years in issue and had been given a copy of the tax returns filed by Mr. Cloutier. The Appellant also acknowledged that he had been informed by Mr. Cloutier of the amount of the refund he would receive. The Appellant also confirmed that he had not noticed anything unreasonable when he signed his tax returns, having regard to the money he had had to pay out to renovate the various properties in Notre-Dame-du-Lac. The Appellant had confidence in Mr. Cloutier, given his expertise and the amount of the fees Mr. Cloutier charged: $546.37 for each of the 2002 and 2003 taxation years and $2,053.20 for the 2004 taxation year.
+[13] Mr. Cloutier testified; he is an accountant, and he described the procedure followed in all his files. He acknowledged that he had met the Appellant when he was first retained and at that meeting he explained the requirements of the Act regarding the deductibility of rental expenses. Mr. Cloutier also confirmed that he and the Appellant had agreed to the fees to be charged for preparing and filing the tax returns. Mr. Cloutier explained that he had given the invoices provided to him by the Appellant to Johanne Roy, a subcontractor, for her to add up and prepare the large worksheets (green sheets) that were shown to the clients, but were not given to them. According to Mr. Cloutier, Ms. Roy was to contact the clients if there were missing invoices or if additional information needed to be obtained, to ascertain which property the invoices related to. Ms. Roy's worksheets relating to the Appellant were not introduced in evidence, and Ms. Roy did not testify at the hearing. Ms. Roy also prepared the tax returns and gave them to Mr. Cloutier, who had the clients sign them.
+[14] Serge Charron, an investigator with the Canada Revenue Agency, testified and confirmed that a search warrant had been executed at Mr. Cloutier's offices and home on August 26, 2004, and that in the course of the search over 200 client files had been seized, including the Appellant's file. Mr. Charron further explained that Mr. Cloutier had been prosecuted for fraud, but was cleared of those charges on June 11, 2007. Fresh tax fraud charges were recently filed, civil ones this time, against Mr. Cloutier.
+[15] Danielle Lépine of the Canada Revenue Agency also testified, and confirmed that she had reviewed the Appellant's worksheets that were seized from Mr. Cloutier and the invoices submitted by the Appellant. After doing that review, she prepared a draft assessment which she provided to the Appellant. The Appellant then retained Roger Dubé, C.A., to represent him and correct the errors made by Mr. Cloutier. In response to the representations made by Mr. Dubé, Ms. Lépine did a second review and determined that certain expenses were still being claimed twice, $2,402 for 2002 and $917 for 2003, and that the Napoleon stove delivered to the Appellant's personal residence had been claimed again. After the second review was done, changes were nonetheless made to the amounts of the disallowed expenses and notices of reassessment were issued on October 30, 2006.
+Appellant's Position
+[16] The Appellant contends that Mr. Cloutier must be held solely responsible for the errors made in the tax returns filed, because he had access to all the tools and relevant information needed for preparing his tax returns properly.
+[17] The Appellant believes that Mr. Cloutier abused his trust, and alleges that Mr. Cloutier knowingly inflated his expenses to justify the professional fees that an expert would charge.
+[18] The Appellant does acknowledge his own credulity and his unfamiliarity with tax matters and alleges that he has always reported his income and expenses to the best of his knowledge. He also acknowledges that he was negligent but claims that he did not intentionally act fraudulently.
+Respondent's Position
+[19] Counsel for the Respondent submits that the amounts in issue are significant because the rental losses claimed represented more than a third of total gross income for 2002 and 2003 and over 50 percent of total gross income in 2004. Over 60 percent of the expenses claimed were personal expenses.
+[20] Counsel for the Respondent argued that the Appellant is an intelligent person who was thinking about retirement, and that in 2002 he sought information from the Quebec Ministère du Revenu, the Canada Revenue Agency and the Régie du logement du Québec and obtained the relevant guides and forms dealing with rental property. The Appellant was therefore in a position to see the errors in his tax returns. In counsel's submission, the Appellant demonstrated wilful blindness, his vision being clouded by the fine tax refunds he received.
+Analysis
+[21] Subsection 163(2) of the Act provides for a penalty for anyone who, knowingly, or under circumstances amounting to gross negligence, has made or participated in, assented to or acquiesced in the making of, a false statement or omission in a return filed or made in respect of a taxation year. More specifically, the portion of subsection 163(2) of the Act preceding the provisions for calculating the penalty reads as follows:
+163 (2) False statements or omissions
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of:
+...
+[22] Under subsection 163(3) of the Act, the burden of establishing the facts justifying the assessment of the penalty is on the Minister and not on the taxpayer. Subsection 163(3) of the Act reads as follows:
+163(3) Burden of proof in respect of penalties
+Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[23] As Dussault J. said in Prud'homme v. Canada, 2005TCC423, [2005] T.C.J. No. 329 (QL) at paragraph 47:
+... the facts on which the imposition of a penalty for gross negligence under subsection 163(2) of the Act is based must be analysed having regard to their particular context, which means that drawing a comparison with the facts of another situation would be a purely random exercise, if not patently dangerous.
+[24] The concept of "gross negligence" that is applied by the courts is as defined by Strayer J. in Lucien Venne v. Her Majesty the Queen, 84 D.T.C. 6247 at page 6256:
+... “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. ...
+[25] The Federal Court of Appeal further said, in Villeneuve v. Canada, 2004 D.T.C. 6077, [2004] F.C.J. No. 134 (QL), that the expression "gross negligence" could include wilful blindness in addition to an intentional act and wrongful intent. In that decision, Létourneau J.A. stated on this point, at paragraph 6:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[26] The applicability of the concept of "wilful blindness" to tax cases was also confirmed in the recent decision of the Federal Court of Appeal in Panini v. Canada, 2006 FCA 224.
+[27] Although the taxpayer must be given the benefit of the doubt in relation to penalties under subsection 163(2) of the Act, in this case there is no doubt in my mind that the Appellant was guilty of gross negligence within the meaning of subsection 163(2) of the Act.
+[28] Having regard to the facts, it is clear to me that the Appellant in this case knew when he signed his tax returns that the rental expenses claimed had been overstated by the accountant. He in fact confirmed that Mr. Cloutier had told him the amounts of the refunds he should be getting.
+[29] The Appellant is an educated person who had sought information from the tax authorities about the rules that apply in relation to rental properties. When he signed his tax returns, he was in a position to realize that personal expenses had been claimed as deductions. The Appellant did not ask the accountant any questions to ascertain the reasons why the rental losses were so high, and most importantly, he did not check anything after his tax returns were filed.
+[30] The amount of the disallowed rental expenses in relation to the rental income reported, and the fact that this conduct was repeated over three years, clearly shows that the Appellant was involved in putting a scheme in place that goes well beyond mere negligence. In my opinion, this is an indication of wilful blindness, if not intentional conduct, amounting to gross negligence.
+[31] Having regard to the foregoing, the Appellant's appeal is dismissed in respect of the penalties. With respect to interest on the penalties, the Court has no jurisdiction to review the exercise of the Minister's discretion in this regard.
+Signed at Montréal, Quebec, this 9th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 21st day of August 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC406
+COURT FILE NO.: 2007-3785(IT)I
+STYLE OF CAUSE: CAROL O'LEARY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 31, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: July 9, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

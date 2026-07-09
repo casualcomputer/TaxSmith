@@ -1,0 +1,709 @@
+Title: Husky Oil Operations Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417425/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-136-417425-husky-oil-operations-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-06-18
+
+# Husky Oil Operations Limited v. The Queen
+
+- Citation: 2019 TCC 136
+- Decision date: 2019-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4389, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Husky Oil Operations Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-18
+Neutral citation
+2019 TCC 136
+File numbers
+2017-3308(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3308(IT)G
+BETWEEN:
+HUSKY OIL OPERATIONS LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on June 11 and 12, 2018, at Vancouver, British Columbia
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+David Jacyk, Edward Rowe
+Counsel for the Respondent:
+Carla Lamash
+ORDER
+Further to the attached Reasons for Order, the following provisions of the Amended Reply (filed on January 26, 2018) are struck out:
+(a) paragraph 5 and subparagraphs 8(a), 9(a), 9(b), 10(a), 10(c), 13(b), 13(c), 13(c.1), 13(d), 13(f), 13(g), 18(a), 18(b) and 18(c), with leave to amend; and
+(b) subparagraphs 7(b), 9(c), 12(c) and 15(c) and paragraph 26d, without leave to amend.
+In addition to the amendments contemplated by subparagraph (a) above, leave is also granted to the Respondent, if desired:
+(c) to amend paragraph 26 of the Amended Reply so as to add a provision resiling from the assumption of fact in subparagraph 25(ww) of the Amended Reply;
+(d) to delete paragraph 26e of the Amended Reply; and
+(e) to make such ancillary or supplementary amendments as may be desired:
+(i) to ensure that the document containing the contemplated amendments to the Amended Reply reads smoothly after the deletion of the provisions that have been struck out, and
+(ii) to address any other concerns or suggestions noted in the Reasons in respect of which there was no striking out.
+If the Respondent desires to amend the Amended Reply, the document containing such amendments to the Amended Reply shall be filed with the Registry and served on the Appellant no later than 60 days after the date of this Order.
+Costs of this Motion will be costs in the cause.
+Signed at Ottawa, Canada, this 18th day of June 2019.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2019 TCC 136
+Date: 20190618
+Docket: 2017-3308(IT)G
+BETWEEN:
+HUSKY OIL OPERATIONS LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons relate to a Motion brought by Husky Oil Operations Limited (“HOOL”) for an order striking out certain paragraphs of the Amended Reply filed by the Crown on January 26, 2018.
+II. BACKGROUND
+[2] HOOL is a wholly-owned subsidiary of Husky Energy Inc. (“HEI”), which is a publicly traded corporation and the ultimate parent corporation of a group of corporations that conduct an integrated energy business. As pleaded by HOOL in its Notice of Appeal, HOOL’s resource activities are carried out through a partnership, Husky Oil Limited Partnership (“HOLP”), in respect of which HOOL had a 99% partnership interest in 2004 and, according to the Crown’s Amended Reply, HOI Resources Co. (“HOIRC”), a wholly-owned subsidiary of HOOL, had a 1% partnership interest in 2004.
+[3] In 2004, HOOL entered into a number of transactions (the “Transactions”) [1] with various financial institutions for the purpose of hedging the risk of a future fluctuation in the price of crude oil or natural gas. Counsel for HOOL described the Transactions as swap transactions; counsel for the Crown described the Transactions as hedge transactions. For the purposes of these Reasons, I make no determination as to whether the Transactions were swaps or hedges.
+[4] The Transactions were settled for cash (with no physical delivery of crude oil or natural gas) in 2004. HOOL reported losses (the “Losses”) incurred from the Transactions (net of associated foreign-exchange gains and losses) in the aggregate amount of $561,295,272.
+[5] Taking the position that HOOL was not involved in the production of oil and gas, HOOL did not include the Losses in the computation of its resource allowance for the purposes of paragraph 20(1)(v.1) of the Income Tax Act (the “ITA”). The Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”), took the position that the Losses were to be included in computing HOOL’s resource allowance entitlement, and accordingly reduced HOOL’s deduction under paragraph 20(1)(v.1) by $105,242,864 for 2004, as set out in a notice of reassessment dated May 16, 2017 (the “Notice of Reassessment”).
+[6] On or about August 7, 2014, HOOL filed a notice of objection (the “Notice of Objection”) in respect of the reassessment (the “Reassessment”) that was the subject of the Notice of Reassessment. In the context of the Transactions and the resource allowance, HOOL stated the following as being the relevant facts:
+4. HOOL is a taxable Canadian corporation that, among other things, holds a 99% general partnership interest in the Husky Oil Limited Partnership (“HOLP”).
+5. HOLP is a limited partnership formed under the laws of Alberta, with a tax year end of January 31st. HOLP owns and operates all the Western Canadian producing properties of the Husky group of companies.
+6. HOOL did not have any direct crude oil or natural gas production in its taxation year ending December 31, 2004. The only production occurred in HOLP.
+7. In 2003 HOOL, for and on behalf of itself and not in its capacity as a general partner of HOLP, entered into fifty two separate swap transactions (collectively, referred to herein as the “Swaps”) with eight financial institutions. The Swaps became effective during 2004. HOLP did not enter into any Swaps or other similar contracts.
+8. Under the Swaps, HOOL was entitled to receive a fixed price on a notional volume of crude oil or natural gas and HOOL was required to pay to the counterparty the floating price on the same notional volume of crude oil or natural gas as established by market indices.
+9. The Swaps were cash settled transactions and no physical delivery of crude oil or natural gas was required or contemplated by either HOOL or the counterparties.
+10. The amounts owing under the Swaps were calculated daily on the notional volumes and payable monthly by the contracting parties, in cash, to the extent of the net payment owed by either party for a given month.
+11. In aggregate, the index prices of crude oil and natural gas exceeded the fixed prices in 2004 resulting in HOOL making settlement payments totaling $561,295,272 to various counterparties under the Swaps.
+12. These payments were reported in the December 31, 2004 financial statements and tax returns of HOOL as losses from non-resource activities.
+13. The Reassessment incorporates adjustments included in a previous reassessment that was issued by the Minister on November 5, 2009 to include the losses resulting from the settlement of the Swaps in the calculation of gross resource profits, resource profits and adjusted resource profits of HOOL and thereby reducing HOOL’s resource allowance by $105,242,864.
+14. The Reassessment also incorporates adjustments included in the previous November 5, 2009 reassessment that utilized $105,242,864 of tax pools available to HOOL to offset the increase in taxable income arising from the reduction to resource allowance. [2]
+[7] After the Minister confirmed the reassessment, HOOL filed a Notice of Appeal on August 10, 2017. On December 21, 2017, the Attorney General of Canada (the “AGC”) filed a Reply. Subsequently, on January 26, 2018, the AGC filed the Amended Reply, which is the subject of this Motion.
+III. ANALYSIS
+A. Legal Authorities
+(1) Rules
+[8] Subsection 49(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) sets out the requirements to be met by a reply in respect of the facts pleaded in a notice of appeal, the facts assumed by the Minister and other material facts. Paragraphs 49(1)(a) through (e) of the Rules state:
+49(1) Subject to subsection (1.1) [which is not relevant here], every reply shall state
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact….
+To put the above provisions in context, the preceding Rule (i.e., Rule 48) states that every notice of appeal is to be in one of four forms. In the case of a notice of appeal in the General Procedure, that form is Form 21(1)(a). Item (c) of the sample notice of appeal set out in Form 21(1)(a) indicates that the appellant is to relate the material facts relied on. Although paragraphs 49(1)(a), (b) and (c) of the Rules do not expressly state the source of the facts that are to be admitted or denied or put in issue (because the respondent has no knowledge thereof), it is clear from the context that paragraphs 49(1)(a), (b) and (c) are referring to the facts set out in the particular notice of appeal. From this it would follow that, when the AGC is admitting facts, denying facts or stating that the AGC has no knowledge of facts, the admission, denial or statement, as the case may be, should be confined to facts set out in the notice of appeal.
+[9] HOOL’s motion was brought under subsection 53(1) of the Rules, which reads as follows:
+53(1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) Jurisprudence
+[10] I will begin by reviewing the relevant jurisprudence to extract the applicable legal principles, and will then apply those principles to the issues raised in respect of each of the paragraphs of the Amended Reply that are the subject of this Motion.
+(a) Pleadings
+[11] The basic principle applicable to pleadings, which has been stated in Holmested and Watson and which has been applied in this Court, is the following:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form. [3]
+[12] In pleading the assumptions of fact underlying an assessment, the Crown:
+(a) should refrain from the practice of pleading not only the material facts that justified the assessment, but also the evidence that led the auditor or assessor to formulate those assumptions in his or her mind, often accompanied by assumptions of law or of mixed fact and law;
+(b) should plead simply the material facts of the case, i.e., those facts that, if true, justified the Minister in making the assessment on the Minister’s understanding of the law. [4]
+(b) Motion to Strike
+[13] The principles to be applied by the Court in hearing a motion to strike out a pleading, under section 53 of the Rules, were summarized by former Chief Justice Bowman as follows:
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence. [5]
+Although the above statement was made in the context of a motion to strike portions of a notice of appeal, the same principles apply to a motion to strike portions of a reply. [6]
+[14] Concerning the “plain and obvious” test to be applied in considering a motion to strike, the following comments are applicable:
+17. … A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action…. Another way of putting the test is that the claim has no reasonable prospect of success….
+25. … The question is whether, considered in the context of the law and the litigation process, the claim has no reasonable chance of succeeding. [7] [Emphasis in original.]
+[15] Concerning the applicable test, Associate Chief Justice Rossiter (as he then was) stated:
+… Only if the position taken in the Reply is certain to fail because it contains a radical defect should the relevant portions of the Respondent’s Reply be struck. [8]
+[16] Concerning the burden of proof in the context of paragraph 53(1)(b) or (c) of the Rules in a motion to strike, Justice D’Auray stated:
+… in a motion to strike, the burden rests with the party attacking the pleading or portions thereof to show that it is clear and obvious that the pleading is scandalous, frivolous or vexatious, or that it is otherwise an abuse of the process of the Court. [9]
+[17] Also of note is the following comment by Chief Justice Bowman:
+… However much jurisprudence may surround the words “scandalous, frivolous or vexatious, or abuse of the process of the Court”, they are nonetheless strong, emotionally charged and derogatory expressions denoting pleading that is patently and flagrantly without merit. Their application should be reserved for the plainest and most egregiously senseless assertions…. [10]
+[18] The cases referenced above make it clear that the “plain and obvious” test, which is a stringent test, sets a high threshold to be met before a pleading (or portions thereof) will be struck out.
+(c) Overreaching Admissions
+[19] HOOL has submitted that some of the admissions of fact made by the AGC in the Amended Reply purport to admit facts that were not pleaded by HOOL in the Notice of Appeal. Counsel for HOOL described those admissions as “phantom admissions”; in these Reasons, I will call them “overreaching admissions.”
+[20] In Strother, former Chief Justice Rip stated:
+It is poor and improper pleading when a litigant admits or denies a fact in a pleading but couples the admission or denial with a conclusion of law or some extraneous comments that add nothing to the process. [11]
+[21] In Xu, Justice Mogan stated that it is inappropriate in a reply to purport to admit certain facts when those facts were not alleged in the notice of appeal. Even if the notice of appeal uses an imprecise word, it is not permissible in the reply, when purporting to admit the particular fact, to interpret the imprecise word by substituting some other word for it. [12] Justice Mogan stated the following:
+A defendant in civil litigation is permitted to admit only those facts alleged by a plaintiff. The admission should be a “stand alone” event, not clouded by the defendant’s own allegations in the subject area of the admission. [13]
+Even though the above statement was couched in terms relating to civil litigation (such as plaintiff and defendant), it is clear that Justice Mogan intended the principle to apply to tax litigation, if the AGC or the Crown, in a reply, is purporting to admit facts that were not pleaded by the taxpayer in the notice of appeal.
+(d) Denials
+[22] Some of the provisions within the Amended Reply that HOOL seeks to have struck out contain denials of facts pleaded in the Notice of Appeal. Although there have been fewer interlocutory proceedings concerning denials than admissions, the jurisprudence has established several principles. The word “denies” is now viewed as being synonymous with “does not admit.” [14] In other words, a fact pleaded in a notice of appeal and denied in a reply must be proven by the appellant. Paragraph 49(1)(b) of the Rules does not require the Crown to explain the basis for a denial of a fact pleaded in a notice of appeal. [15] The Crown is free to deny the obvious, even if the denial is absurd. [16]
+(e) Pleading “No Knowledge”
+[23] HOOL has submitted that, in some instances, the Amended Reply states that the AGC has no knowledge of a particular fact pleaded in the Notice of Appeal, notwithstanding that the fact pleaded in the Notice of Appeal corresponds very closely to a fact that was assumed by the Minister when making the Reassessment.
+[24] In LBL Holdings, Justice Graham stated that it is not appropriate for the Minister to claim that she has no knowledge of facts that are entirely within the Minister’s knowledge. Similarly, Justice Graham stated that the Minister is not permitted to claim that she has no knowledge of her own knowledge. [17]
+[25] It appears that the Minister and the AGC are now of the view that some of the facts assumed by the Minister when reassessing HOOL were not actually correct. Counsel for HOOL is of the view that the AGC is pleading “no knowledge” as an indirect and inappropriate way of resiling from those assumed facts. More will be said about this below.
+(f) Assumptions: Facts, Not Law
+[26] It is axiomatic that the portion of a reply that sets out the assumptions made by the Minister is to contain facts, not law, as stated by the Federal Court of Appeal in Anchor Pointe:
+25. I agree that legal statements or conclusions have no place in the recitation of the Minister’s factual assumptions….
+26. … The Minister may assume the factual components of a conclusion of mixed fact and law. However, if he wishes to do so, he should extricate the factual components that are being assumed so that the taxpayer is told exactly what factual assumptions it must demolish in order to succeed. It is unsatisfactory that the assumed facts be buried in the conclusion of mixed fact and law. [18]
+(g) Abandoning Assumptions
+[27] The Minister’s assumptions of fact are set out in paragraph 25 of the Amended Reply. HOOL is not seeking to have any of those assumed facts struck from the Amended Reply. However, HOOL has raised concerns that, in other portions of the Amended Reply, the AGC has qualified, reinterpreted or recharacterized some of the assumptions in such a manner as to constitute an inappropriate abandonment of those assumptions. The jurisprudence has established that the AGC is not bound by the assumptions on which the Minister relied. However, to resile from or abandon an assumption, an alternative position must be put forward, as explained by the Federal Court of Appeal in Aventis Pharma:
+3. Both parties agree that these questions [that the AGC hoped to ask at a continuation of the examination for discovery of the taxpayer] pertain to a series of facts that the Minister of National Revenue … relied on and accepted as proven when issuing the assessments under appeal but that were nonetheless denied or ignored by the Crown in its reply to the notice of appeal. Importantly, the Crown did not advance any alternative position to justify the assessments in its reply to the notice of appeal….
+7. According to counsel for the Crown, the Attorney General is not bound by the assumptions of fact that the Minister relied on to issue his assessments. Just as the Attorney General has the obligation to faithfully mirror in his pleadings the facts relied on by the Minister in support of his assessments (since only those facts benefit from the legal presumption in favour of the Minister), he also has the option of calling those facts into question if he is not persuaded of their accuracy….
+9. … It is true that the Attorney General is not bound by the assumptions relied on by the Minister to issue his assessments and is entitled to defend an assessment using one or several alternative bases to those relied on by the Minister.
+10. However, as mentioned above, the Attorney General did not advance an alternative position in the case at hand. From the Attorney General’s perspective, the idea of calling into question the Minister’s assumptions of fact without offering an alternative position is, if the matter were to end there, nonsensical…. [19]
+Thus, to the extent that the AGC desires to resile from, or abandon, any of the assumptions of fact made by the Minister, the AGC should be permitted to do so, provided that he advances an alternative position to justify the particular reassessment.
+[28] In offering an alternative position, the need for clarity, without dissimulation, was explained by Justice Archambault, as follows:
+If the respondent decides to defend an assessment on a basis different from that used when making the assessment, she should frankly acknowledge this, without any dissimulation. Taxpayers are entitled to know clearly who bears the burden of proof before their appeals are heard. [20]
+[29] In deciding a motion in respect of the above-referenced Loewen litigation, Associate Chief Justice Bowman (as he then was) stated:
+Can the Crown plead a fact that is diametrically opposed to what the Minister assumed on assessing? I think it can but it takes on the onus of proving it and it must go further and specifically repudiate the Minister’s assumption…. It is important to emphasize here the necessity of the Minister’s pleading honestly all assumptions made on assessing, including those that assist the taxpayer. [21] [Emphasis in original.]
+Although the Federal Court of Appeal set aside the Order issued by Associate Chief Justice Bowman, the Federal Court of Appeal did not disagree with or otherwise mention his statement to the effect that, if the Crown pleads a fact that is diametrically opposed to a fact assumed by the Minister when assessing, the Crown must specifically repudiate the Minister’s assumption.
+(h) Deliberately Omitting Assumptions
+[30] When pleading the assumed facts on which the Minister based a particular assessment, the AGC has an obligation to plead all of those facts, [22] completely and accurately, [23] even if one or more of those facts may, in the view of the AGC, be considered irrelevant, [24] may not support the assessment, [25] or may assist the appellant. [26] These principles were summarized by former Associate Chief Justice Bowman (as he then was) in Mungovan, as follows:
+The respondent has an obligation to disclose all of the facts upon which the assessment was based. Conceivably some of the facts assumed are wrong or irrelevant. They should still be disclosed. I would not wish to discourage the full disclosure of facts. The mere fact that the lawyer drafting the reply may have thought an assumption was wrong, irrelevant or embarrassing to the Crown’s case is no reason for failing to disclose it. Indeed, in Bowens v The Queen, 94 DTC 1853, aff’d 96 DTC 6128, the effect of failing to plead assumptions that were central to an assessment was discussed. The Federal Court of Appeal at p. 6129 suggested that the Crown’s Reply might have been struck out for failing to plead a fact that was at the basis of the assessment. [27]
+It is improper for the Crown not to plead an assumed fact on which the validity of a particular reassessment depended. [28]
+(i) Repetition and Redundancy
+[31] In Strother, in considering a motion to strike out repetitive and redundant portions of a reply, former Chief Justice Rip quoted the following statement made by Master Haberman of the Ontario Superior Court of Justice in Mudrick:
+Repetition should be avoided. Superfluous detail should be eliminated. Editorialized comments should be removed…. This is not “the last chance” to tell the whole story — it is only an overview of what the case will be about…. [29]
+Former Chief Justice Rip then quoted the passage from Holmested and Watson that is reproduced in paragraph 11 above, and went on to discuss the fourth requirement in that quotation, to the effect that a pleading should state facts concisely in a summary form, after which he stated:
+The fourth requirement is particularly relevant to this appeal. A repetitive pleading is not concise. It does nothing to help in understanding the issues. [30]
+Former Chief Justice Rip then quoted from two other decisions, which respectively stated that “[u]nnecessarily verbose and repetitive pleadings create uncertainty” and that provisions in a pleading may be struck out “on the grounds that they are … tautological, redundant [or] repetitious,” before going on to conclude, in respect of this particular topic, that “excessive repetition within [a pleading] is superfluous and undermines the goals of conciseness and certainty,” such that “repetitive portions [of a pleading] should be struck.” [31]
+(j) Prolixity
+As noted above, a pleading should state facts concisely in a summary form. [32] However, while brevity is to be encouraged, prolixity (in and of itself, and provided that there is no repetition or redundancy) is not necessarily a ground for striking out a pleading, as indicated by the Federal Court of Appeal:
+82. The reply is unusually long….
+83. Pleadings are not necessarily objectionable merely because of their length. In this case, the judge correctly noted that the reply contains unnecessary and repetitious detail, and lengthy references to evidence. [33]
+(k) Inconsistency
+[32] Subsection 51(2) of the Rules confirms that inconsistent allegations may be made in a pleading:
+51(2) A party may make inconsistent allegations in a pleading where the pleading makes it clear that they are being pleaded in the alternative.
+Hence, when making inconsistent allegations in a pleading, it is imperative that the pleading make it clear that those allegations are pleaded in the alternative.
+[33] In Loewen, the Federal Court of Appeal stated:
+The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. [34]
+[34] In 1072174 Ontario, former Chief Justice Bowman made the following comments about inconsistent pleadings:
+16. I agree … that there are inconsistencies in the Crown’s pleading of assumptions…. These are inconsistencies. It is theoretically possible, I suppose, that the assessor or assessors can make inconsistent assumptions. This may well relieve the appellant of the traditional onus. The Crown can assert facts that are inconsistent with assumptions if it is prepared to accept the onus….
+19. … I agree that the Reply contains inconsistencies but then the Crown’s position itself seems to build on the appellant’s alleged inconsistencies. The appellant’s attempt to make capital of the Crown’s perceived inconsistencies creates a procedural anomaly that can, in my view, best be sorted out by a trial judge who hears all of the evidence…. I do not see how the taxpayer can be relieved of the obligation of proving its case or can have the assessment vacated just because the Minister has come up with some new ideas in the Reply that may be inconsistent with the basis on which the assessment was made. Whether the inconsistency changes where the onus of proof lies … is not something that can be dealt with in a motion to strike. It requires a trial. I do not think that a motion to strike is the way to resolve these problems. [35]
+Thus, while some of the concerns or shortcomings discussed in parts (c), (e), (f), (g) and (i) above may be grounds for striking out some or all of a pleading, it seems that, in the case of inconsistencies in a pleading, where it is clear that the inconsistencies are pleaded in the alternative, in many situations the preferred course, particularly in respect of the burden of proof, may be to defer the matter to the trial judge.
+B. Impugned Paragraphs
+[35] HOOL’s Amended Notice of Motion seeks an order striking out paragraphs 5, 7-15, 18-20, 26 and 26d of the Amended Reply. I will consider each of those paragraphs separately.
+(1) Paragraph 5 of the Amended Reply
+[36] Paragraph 5 of the Amended Reply relates to paragraph 7 of HOOL’s Notice of Appeal, which reads as follows:
+7. HOOL’s resource activities are carried out through a partnership, Husky Oil Limited Partnership (“HOLP”).
+Paragraph 5 of the Amended Reply reads as follows:
+5. With respect to paragraph 7 of the Notice of Appeal, the AGC [i.e., the Attorney General of Canada]:
+a) admits only that Husky Oil Operations Ltd. (hereinafter referred to as “HOOL” or the Appellant as the context requires) held a 99% partnership interest in Husky Oil Limited Partnership (“HOLP”);
+b) admits the remaining 1% partnership interest in HOLP was held by HOI Resources Co. (“HOIRC”) which is a wholly-owned subsidiary of HOOL;
+c) denies that in the 2004 Taxation Year any of HOOL’s exploration and development activities were carried out through HOLP;
+d) has no knowledge of what is encompassed in the Appellant’s use of the term “resource activities”; and
+e) as such, the AGC has no knowledge of and puts in issue the remaining allegations of fact in that paragraph. [36]
+[37] To assist in the analysis of paragraph 5 of the Amended Reply, it is helpful to compare that paragraph with some of the assumptions of fact made by the Minister, which are set out in paragraph 25 of the Amended Reply, as follows:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+j) HOOL holds a 99% interest in HOLP.
+k) The remaining 1% interest in HOLP is held by HOIRC, a wholly-owned subsidiary of HOOL….
+p) HOOL’s resource activities on certain producing properties are carried out through HOLP.
+[38] Subparagraphs 5(a) and (b) of the Amended Reply purport to admit facts that go beyond those actually pleaded in paragraph 7 of the Notice of Appeal, such that they contravene the principles enunciated in Xu and Strother. [37] In other words, those subparagraphs purport to admit facts that were not alleged by HOOL in paragraph 7 of the Notice of Appeal. Subject to the next paragraph, it is certainly acceptable for the AGC to plead that HOOL held a 99% partnership interest in HOLP and that HOIRC held the remaining 1% partnership interest in HOLP, but the AGC should not so plead under the guise of admitting some or all of the facts pleaded in paragraph 7 of the Notice of Appeal, as that paragraph simply stated that “HOOL’s resource activities are carried out through a partnership, … HOLP….”
+[39] As indicated above, subparagraphs 5(a) and (b) of the Amended Reply set out the AGC’s understanding of the partnership interests of HOOL and HOIRC in HOLP (99% and 1% respectively). These are repetitive or redundant statements, as the same allegations are contained in subparagraphs 25(j) and (k) of the Amended Reply. [38] Given that paragraph 7 of the Notice of Appeal makes no mention of the respective partnership interests in HOLP, there is no need to include in subparagraphs 5(a) and (b) of the Amended Reply, in the form of an overreaching admission, the same factual statements that are set out in subparagraphs 25(j) and (k).
+[40] Subparagraph 5(c) of the Amended Reply contains a denial by the AGC that in 2004 HOOL’s “exploration and development activities” were carried out through HOLP, but paragraph 7 of the Notice of Appeal actually pleads that HOOL’s “resource activities” are carried out through HOLP. It seems, but is not clear, that the AGC might be taking the position that the term “resource activities” is broader than the term “exploration and development activities” and that only the latter are the subject of that particular denial.
+[41] As noted, in subparagraph 5(c) of the Amended Reply “the AGC … denies that in the 2004 Taxation Year any of HOOL’s exploration and development activities were carried out through HOLP.” That denial should be compared to the assumption of fact made by the Minister in determining HOOL’s tax liability for the 2004 taxation year, as set out in subparagraph 25(p) of the Amended Reply as follows:
+HOOL’s resource activities on certain producing properties are carried out through HOLP.
+If the term “exploration and development activities” comes within the term “resource activities,” the denial in subparagraph 5(c) appears to be inconsistent with the assumption in subparagraph 25(p). This is unacceptable, given that the Amended Reply does not make it clear that subparagraphs 5(c) and 25(p) are being pleaded in the alternative. [39]
+[42] In subparagraph 5(d) of the Amended Reply, the AGC states that he had no knowledge of what is encompassed in HOOL’s use of the term “resource activities”; [40] however, the AGC uses that very term, “resource activities,” in subparagraph 25(p) of the Amended Reply, as quoted above. I acknowledge that perhaps the AGC is of the view that the Minister and HOOL each ascribed different meanings to the term “resource activities”; however, I find the possible inconsistency between subparagraphs 5(d) and 25(p) of the Amended Reply to be confusing, as the Amended Reply does not make it clear that those subparagraphs are being pleaded in the alternative.
+[43] That leaves subparagraph 5(e) of the Amended Reply, in which the AGC states that he “has no knowledge of and puts in issue the remaining allegations of fact in” paragraph 7 of the Notice of Appeal. Collectively, subparagraphs 5(a), (b), (c) and (d) of the Amended Reply specifically address (and, in some cases, go beyond) each of the allegations of fact in paragraph 7 of the Notice of Appeal. Therefore, subparagraph 5(e) of the Amended Reply is redundant.
+[44] To summarize, paragraph 5 of the Amended Reply should be struck out, with leave to amend.
+(2) Paragraph 7 of the Amended Reply
+[45] Paragraph 7 of the Amended Reply relates to paragraph 10 of the Notice of Appeal, which reads as follows:
+10. Although HOOL acquires “Canadian resource properties” (as defined in subsection 66(15) of the Act) and carries out exploration and development activities on such properties, HOOL transfers the properties to HOLP prior to the commencement of any production therefrom.
+Paragraph of 7 of the Amended Reply reads as follows:
+7. With respect to paragraph 10 of the Notice of Appeal, the AGC:
+a) admits that, in its 2004 Taxation Year, HOOL carried out exploration and development activities on properties that fall within the definition of “Canadian resource properties” (as that term is defined in subsection 66(15) of the Act);
+b) admits that, on February 1, 2003, pursuant to a program which the Appellant called “SWIFT”, HOLP transferred (via quitclaim, surrender and assignment of interest agreement) undeveloped properties and leases to HOOL;
+c) states that the remainder of the allegations in this paragraph are vague and uncertain as the Appellant does not set out the time period for which it alleges that HOOL acquired “Canadian resource properties” or transferred them and, as such, the AGC has no knowledge of and puts in issue the remaining allegations of fact; and
+d) for greater certainty, the AGC also has no knowledge of, and puts in issue, what properties or bundle of property rights were transferred, when any property rights were transferred, how they were transferred to HOLP and all other particulars of such transfers.
+[46] To appreciate the concerns raised by HOOL, it is helpful to set out a few other provisions of the Amended Reply. According to HOOL, paragraph 10 of the Notice of Appeal was intended to paraphrase certain of the Minister’s assumptions of fact, which, according to HOOL, were originally stated on pages 2 and 3 of the Report on Objection. [41] Some of those assumed facts were subsequently set out in paragraphs 25(l), (m) and (n) of the Amended Reply, as follows:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+l) HOOL acquired properties that met the definition of “Canadian resource properties” in the Act (the “Properties”).
+m) HOOL conducts the exploration and development activities on the Properties.
+n) Whenever a successful well is drilled, HOOL transfers that property to HOLP so HOOL can have access to the resulting Canadian Exploration Expenses and Canadian Development Expenses (as those terms are used in the Act) in the current year but defer recognizing income for a year.
+When the original Reply was amended, the following provision was inserted as paragraph 26b, under the heading “Other Material Facts”: [42]
+26b. On February 1, 2003, pursuant to a program which the Appellant called “SWIFT”, HOLP transferred (via quitclaim, surrender and assignment of interest agreement) undeveloped properties and leases to HOOL.
+[47] Turning to the analysis of paragraph 7 of the Amended Reply, subparagraph 7(a), in essence, admits the first clause in paragraph 10 of the Notice of Appeal. I see nothing problematic with subparagraph 7(a) of the Amended Reply; therefore, there is no basis for striking out that subparagraph.
+[48] Moving to the next subparagraph in paragraph 7 of the Amended Reply, it appears that there might be a typographical error in subparagraph 7(b), as it is my understanding (based on paragraph 10 of the Notice of Appeal) that, subsequent to the completion of exploration and development activities, the properties were actually transferred by HOOL to HOLP, and not by HOLP to HOOL, as stated in subparagraph 7(b) of the Amended Reply. However, it is possible that the AGC is actually referring to properties that were owned by HOLP and then transferred to HOOL, but, if such is the case, those properties would not be the properties referred to in paragraph 10 of the Notice of Appeal, and, therefore, should not be discussed in paragraph 7 of the Amended Reply, given that paragraph 7 of the Amended Reply is responding to paragraph 10 of the Notice of Appeal.
+[49] At the hearing of this motion, counsel for the Crown stated that she will change the word “admits,” which is the opening word of subparagraph 7(b) of the Amended Reply, to “states.” Without that change, subparagraph 7(b) would be an overreaching admission. However, for the reason stated in the next paragraph of these Reasons, that change will not be necessary.
+[50] The main concern in respect of subparagraph 7(b) of the Amended Reply is its repetitiveness. After the first two words of subparagraph 7(b), that subparagraph and paragraph 26b of the Amended Reply are precisely the same, including the characterization of HOLP as the transferor and HOOL as the transferee of the undeveloped properties and leases. Thus, there is clearly a redundancy. As subparagraph 7(b) is located under the subheading “Facts admitted, denied or of which no knowledge” and paragraph 26b is found under the heading “Other Material Facts,” which is where it properly belongs, subparagraph 7(b) should be struck out.
+[51] HOOL is of the view that subparagraphs 7(c) and (d) of the Amended Reply are an attempt by the Crown to resile from the assumption in subparagraph 25(n) of the Amended Reply, in which the Minister assumed that “Whenever a successful well is drilled, HOOL transfers that property to HOLP….” I do not read subparagraphs 7(c) and (d) in the manner suggested by HOOL; rather, I see those subparagraphs as merely referencing the transfer details of which the AGC has no knowledge.
+[52] To summarize, subparagraph 7(b) of the Amended Reply should be struck out, without leave to amend, given that virtually the same statement is set out in paragraph 26b of the Amended Reply. Subparagraphs 7(a), (c) and (d) of the Amended Reply are not to be struck out.
+(3) Paragraph 8 of the Amended Reply
+[53] Paragraph 8 of the Amended Reply relates to paragraph 11 of the Notice of Appeal, which reads as follows:
+11. HOLP owns and operates all the Western Canadian producing properties of the Husky group of companies.
+Paragraph 8 of the Amended Reply reads as follows:
+8. With respect to paragraph 11 of the Notice of Appeal, the AGC:
+a) admits that the general partner of HOLP operates partnership property; [43]
+b) the question of whether a partner or a partnership owns property transferred to a partnership is a question of law;
+c) the remaining allegations of fact are vague and uncertain as the Appellant has not defined what entities are the “Husky group of companies” or what Western Canadian producing properties are those “of the Husky group of companies”; and
+d) as such, the AGC has no knowledge of and puts in issue the remaining allegations of fact in that paragraph.
+[54] As paragraph 11 of the Notice of Appeal does not allege that the general partner of HOLP operates partnership property, it is an overreaching admission for the AGC, in responding to that paragraph of the Notice of Appeal, to admit in subparagraph 8(a) of the Amended Reply that the general partner of HOLP operates partnership property.
+[55] With respect to subparagraph 8(b) of the Amended Reply, the AGC’s assertion that the question of whether a partner or partnership owns property transferred to a partnership is a question of law, is neither an admission nor a denial of a fact pleaded in paragraph 11 of the Notice of Appeal. However, it is not plain and obvious that subparagraph 8(b) of the Amended Reply comes within any of the criteria described in paragraphs 53(a) to (d) of the Rules.
+[56] Moving to the last two subparagraphs of paragraph 8 of the Amended Reply, I do not consider it to be inappropriate for the AGC to point out that the phrase “Husky group of companies” is not defined in the Notice of Appeal. Accordingly, I do not have any concerns about subparagraphs 8(c) or (d) of the Amended Reply.
+[57] To summarize, subparagraph 8(a) of the Amended Reply should be struck out, with leave to amend. Subparagraphs 8(b), (c) and (d) of the Amended Reply are not to be struck out.
+(4) Paragraph 9 of the Amended Reply
+[58] Paragraph 9 of the Amended Reply relates to paragraph 12 of the Notice of Appeal, which reads as follows:
+12. In the 2004 Year, HOOL did not have any direct crude oil or natural gas production and the only production from the properties of the Husky group of companies occurred in HOLP.
+Paragraph 9 of the Amended Reply reads as follows:
+9. With respect to paragraph 12 of the Notice of Appeal, the AGC:
+a) states that this allegation is vague, contradictory and uncertain as the Appellant does not define what is meant by “direct crude oil or natural gas production”; it does not define what properties are the “properties of the Husky group of companies”; it does not define which companies are the “Husky group of companies” and it does not explain how the production which Appellant states are [sic] “from properties of the Husky group of companies” do [sic] not belong to those companies;
+b) as such, the AGC has no knowledge of and puts in issue the allegations of fact in this paragraph; and
+c) however, for clarity, the AGC states that HOOL, as a member of HOLP, computed its income for tax purposes for its taxation years as required by subsection 96(1) and included its share of income under paragraph 12(1)(l) of the Act.
+[59] By way of context, subparagraphs 25(p) and (q) of the Amended Reply state:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+p) HOOL’s resource activities on certain producing properties are carried out through HOLP.
+q) As a result, HOOL did not have any direct crude oil or natural gas production in its taxation year ending December 31, 2004.
+Thus, subparagraph 25(q) of the Amended Reply, which sets out one of the Minister’s assumed facts, is substantially the same as the first portion of paragraph 12 of the Notice of Appeal.
+[60] By way of further context, subparagraph 26(c) of the Amended Reply states:
+26. The AGC states that the assumptions in subparagraph 25(l), (n), (q), (kk)[,] (xx), (yy), (zz), (aa) [sic], [44] (ccc), (uuu) and (vvv) are not accurately stated, are incomplete or such assumptions must be read in the proper context, as follows:…
+c) With respect to assumption (q), the AGC states that the assumption is not to be taken as a statement other than that HOOL, as a member of HOLP, computes its income for tax purposes for its taxation years as required by subsection 96(1) of the Act and and [sic] included its share of income under paragraph 12(1)(l) of the Act.
+[61] With respect to subparagraph 9(a) of the Amended Reply, it is peculiar that the AGC would point out that HOOL does not define what is meant by the phrase “direct crude oil or natural gas production” when the very same phrase was used by the AGC, in subparagraph 25(q) of the Amended Reply, in enumerating the assumptions of fact made by the Minister. However, I am not convinced that such peculiarity is, in and of itself, an adequate reason for striking out subparagraph 9(a) of the Amended Reply. However, a more significant concern is that subparagraph 9(a) does not contain an admission or denial of, or a statement of no knowledge in respect of, a fact pleaded in paragraph 12 of the Notice of Appeal. Therefore, the substance of subparagraph 9(a) would be better positioned under the heading “Grounds Relied On and Relief Sought.”
+[62] Turning to subparagraph 9(b) of the Amended Reply, I question how the AGC can state that he has no knowledge of the allegations of the fact in paragraph 12 of the Notice of Appeal, given that subparagraph 25(q) of the Amended Reply is substantially the same as the first clause (i.e., the portion before the word “and”) of paragraph 12 of the Notice of Appeal.
+[63] Subparagraph 9(c) of the Amended Reply does not contain an admission or a denial of facts pleaded in paragraph 12 of the Notice of Appeal, and thus (subject to the remainder of this paragraph) would be better positioned under the heading “Other Material Facts.” A greater concern is that, beginning with the words “that HOOL, as member of HOLP,” subparagraph 9(c) of the Amended Reply is substantially the same as the last three and a half lines of subparagraph 26(c) of the same document. This is clearly repetitive and redundant.
+[64] Accordingly, paragraph 9 of the Amended Reply is struck out, with leave to amend, insofar as subparagraphs 9(a) and (b) are concerned.
+(5) Paragraph 10 of the Amended Reply
+[65] Paragraph 10 of the Amended Reply relates to paragraph 13 of the Notice of Appeal, which reads as follows:
+13. In 2003 HOOL entered into fifty-two separate swap transactions (collectively referred to as the “Swaps”) with eight financial institutions.
+Paragraph 10 of the Amended Reply reads as follows:
+10. With respect to paragraph 13 of the Notice of Appeal, the AGC:
+a) admits only that, in 2003, HOOL had a master agreement with CIBC and that HOOL entered into various trade confirmations to hedge oil and natural gas production (the “CIBC Commodity trade confirmations”);
+b) has no knowledge of and puts in issue the Appellant’s use of the term “swap transactions” or the use of the defined term “Swaps”; and
+c) has no knowledge of and puts in issue the remaining allegations of fact in that paragraph.
+[66] Paragraph 10 of the Amended Reply should be read in conjunction with subparagraph 25(kk) of the Amended Reply, which sets out the following fact assumed by the Minister:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+kk) In 2003 HOOL entered into fifty-two to fifty-four separate derivatives transactions with eight financial institutions to hedge the production of oil and gas; (collectively referred to as the “Hedge Transactions”).
+[67] Subparagraph 10(a) of the Amended Reply contains an overreaching admission, given that paragraph 13 of the Notice of Appeal makes no mention of a master agreement between HOOL and the Canadian Imperial Bank of Commerce (“CIBC”), nor does it refer to trade confirmations or the hedging of oil and natural gas production. While those allegations of fact by the AGC may be correct, it is not appropriate to use an admission, supposedly referring to paragraph 13 of the Notice of Appeal, to plead those facts. They should be pleaded elsewhere in the Amended Reply.
+[68] As noted above, it became apparent at the hearing of this Motion that HOOL and the Crown (the “Parties”) used different terminology to describe the 52 to 54 Transactions, with HOOL categorizing them as swap transactions and the Crown categorizing them as derivatives transactions or hedge transactions. With respect to subparagraph 10(b) of the Amended Reply, I have no concerns with the AGC’s statement that he has no knowledge of the manner in which HOOL was using the referenced terms.
+[69] However, regardless of the difference in terminology used by the Parties, I am not convinced that it was correct for the AGC to state, in subparagraph 10(c) of the Amended Reply, that he has no knowledge of the remaining facts alleged by HOOL in paragraph 13 of the Notice of Appeal. While the AGC may not know all the details of the Transactions, it appears, from reading subparagraph 25(kk) of the Amended Reply, that he at least has some knowledge of 52 to 54 derivatives transactions that (apart from terminology) appear to be the same transactions as those to which HOOL is referring in paragraph 13 of the Notice of Appeal.
+[70] Therefore, subparagraphs 10(a) and (c) of the Amended Reply are struck out, with leave to amend. Subparagraph 10(b) of the Amended Reply is not to be struck out.
+(6) Paragraph 11 of the Amended Reply
+[71] Paragraph 11 of the Amended Reply relates to paragraph 14 of the Notice of Appeal, which reads as follows:
+14. The Swaps became effective and were settled during the 2004 Year.
+Paragraph 11 of the Amended Reply reads as follows:
+With respect to paragraph 14 of the Notice of Appeal, the AGC admits only that some of the CIBC Commodity trade confirmations were settled during the 2004 Taxation Year, and the AGC has no knowledge of and puts in issue the remaining allegations of fact in that paragraph.
+[72] The following assumption of fact made by the Minister, as set out in paragraph 25(aaa) of the Amended Reply, as well as the statements made by the AGC in subparagraph 26(e) and paragraph 26d of the Amended Reply, are relevant to the analysis of paragraph 11 of the Amended Reply. Those provisions read as follows:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+aaa) The Hedge Transactions became effective and were settled in 2004….
+26. The AGC states that the assumptions in subparagraph 25(l), (n), (q), (kk)[,] (xx), (yy), (zz), (aa), (ccc), (uuu) and (vvv) are not accurately stated, are incomplete or such assumptions must be read in the proper context, as follows:…
+e) With respect to assumption (aaa), the AGC states that the assumption is inaccurate or incomplete as some of the trade confirmations involving CIBC indicate that they were to be settled in 2005….
+26d. Some of the trade confirmations involving CIBC indicate that they were to settle in 2005.
+It is notable that subparagraph 25(aaa) of the Amended Reply and paragraph 14 of the Notice of Appeal are quite similar (apart from the terms used to describe the Transactions), and that the concluding portion of subparagraph 26(e) of the Amended Reply is substantially the same as paragraph 26d of the Amended Reply.
+[73] By couching paragraph 11 of the Amended Reply as an admission, the AGC seems to acknowledge that the CIBC “Commodity trade confirmations” referred to in that paragraph constituted some of the Transactions [45] referred to by HOOL in paragraph 14 of the Notice of Appeal.
+[74] HOOL is of the view that, in paragraph 11 of the Amended Reply, the AGC is attempting to reject a significant portion of the assumed fact set out in subparagraph 25(aaa) of the Amended Reply, without stating so explicitly. [46] Reading paragraph 11 of the Amended Reply in conjunction with subparagraph 26(e) and paragraph 26d of the Amended Reply, I do not have the same concern as HOOL. It is my view that the AGC has been quite explicit in subparagraph 26(e) and paragraph 26d in repudiating and resiling from a portion of the assumption set out in subparagraph 25(aaa). However, as the substance of paragraph 26d is also contained within subparagraph 26(e), it is my view that paragraph 26d is repetitive and redundant. I will say more about this below.
+[75] I have a concern about the AGC’s statement in paragraph 11 of the Amended Reply to the effect that he has no knowledge of the remaining allegations of fact in paragraph 14 of the Notice of Appeal. A reading of subparagraphs 25(aaa) and 26(e) and paragraph 26d of the Amended Reply suggests that the AGC has some knowledge about the effective dates and the settlement dates of the Transactions, given that he has stated that the Minister assumed that the Transactions became effective and were settled in 2004 and he has indicated that some of the CIBC trade confirmations were to be settled in 2005. However, it is also possible to read paragraph 11 of the Amended Reply as indicating that the AGC has no knowledge of any of the Transactions involving any financial institution other than CIBC. Given the high threshold set by the “plain and obvious” test, I am willing to give the benefit of the doubt to the Crown and adopt this second way of reading paragraph 11, which I consider to be an acceptable form of pleading.
+[76] To summarize, I do not think that paragraph 11 of the Amended Reply comes within the circumstances described in paragraphs 53(a) to (d) of the Rules, and, therefore, is not to be struck out.
+(7) Paragraph 12 of the Amended Reply
+[77] Paragraph 12 of the Amended Reply relates to paragraph 15 of the Notice of Appeal, which reads as follows:
+15. HOLP did not enter into any Swaps or similar contracts, nor were the Swaps entered into on behalf of HOLP.
+Paragraph 12 of the Amended Reply reads as follows:
+12. With respect to paragraph 15 of the Notice of Appeal, the AGC:
+a) admits only that HOLP did not enter into the CIBC Commodity trade confirmations because HOLP would have no legal capacity to enter into any such hedging contracts;
+b) the AGC has no knowledge of and puts in issue the remaining allegations of fact;
+c) however, the AGC states that net commodity losses were recorded for accounting purposes in the determination of production revenue and income of HOLP for its fiscal periods ending January 31, 2004 and January 31, 2005.
+[78] To provide additional context, the following provisions of the Amended Reply are relevant to the analysis of paragraph 12 of the Amended Reply:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+ww) HOLP did not enter into any hedging contracts or other similar contracts….
+ccc) These Hedge Transactions losses, net of the associated foreign exchange gains/losses, were reported in the financial statements and for tax purposes as losses from non-resource activities….
+26. The AGC states that the assumptions in subparagraph 25(l), (n), (q), (kk)[,] (xx), (yy), (zz), (aa), (ccc), (uuu) and (vvv) are not accurately stated, are incomplete or such assumptions must be read in the proper context, as follows:…
+f) With respect to assumption (ccc), the AGC states that the assumption is incomplete or incorrect as the AGC states that net commodity losses were recorded for accounting purposes in the determination of production revenue and income of HOLP for its fiscal periods ending January 31, 2004 and January 31, 2005.
+[79] The admission in subparagraph 12(a) of the Amended Reply is not as broad as the assumption of fact in subparagraph 25(ww) of the Amended Reply. Counsel for HOOL suggested that, in paragraph 12 of the Amended Reply, the AGC is attempting, without doing so explicitly, to reject a portion of the assumption of fact set out in subparagraph 25(ww). [47] There is nothing in paragraph 26 of the Amended Reply that states expressly that the assumption in subparagraph 25(ww) is inaccurate, incomplete or out of context. As the Minister assumed in subparagraph 25(ww) that HOLP did not enter into any hedging contracts or other similar contracts, without stating any qualifications in respect of that assumption, in order for the AGC to resile from that assumption, the AGC should repudiate that assumption and clearly indicate the alternative position that he is taking. [48] However, I do not see that concern as having an adverse impact on the acceptability of subparagraphs 12(a) and (b) of the Amended Reply. Rather, the preferred method of addressing the concern would be to amend paragraph 26 so as to add a provision that repudiates and explicitly narrows or otherwise resiles from the assumption of fact in subparagraph 25(ww) of the Amended Reply.
+[80] The substantive portion of subparagraph 12(c) of the Amended Reply (i.e., the clause that begins with the phrase “the AGC states that net commodity losses …”) is identical to the corresponding portion of subparagraph 26(f) of the Amended Reply. As subparagraph 26(f) is in the portion of the Amended Reply that resiles from some of the Minister’s assumed facts, it is my view that that is the provision that should be retained, and subparagraph 12(c) should be struck out, as it is repetitive and redundant.
+[81] To summarize, subparagraph 12(c) of the Amended Reply is struck out, without leave to amend. Subparagraphs 12(a) and (b) are not to be struck out. If the Crown so desires, leave is granted to amend paragraph 26 of the Amended Reply to add a provision resiling from the assumption of fact in subparagraph 25(ww) of the Amended Reply.
+(8) Paragraph 13 of the Amended Reply
+[82] Paragraph 13 of the Amended Reply relates to paragraphs 16, 18 and 19 of the Notice of Appeal, which read as follows:
+16. Under the Swaps, HOOL was entitled to receive a fixed price on a notional volume of crude oil or natural gas and HOOL was required to pay to the counterparty the floating price on the same notional volume of crude oil or natural gas as established by market indices.
+18. The amounts owing under the Swaps were calculated daily on the notional volumes and payable monthly by the contracting parties, in cash, to the extent of the net payment owed by either party for a given month.
+19. In aggregate, the index prices of crude oil and natural gas exceeded the fixed prices in 2004, resulting in HOOL making net settlement payments to various counterparties under the Swaps.
+Paragraph 13 of the Amended Reply reads as follows:
+13. With respect to paragraphs 16, 18 and 19 of the Notice of Appeal, the AGC states that these allegations seek an interpretation of a contract[,] which is a question of law and not fact; but in any event, if there are any allegations of fact and not law, the AGC:
+a) denies any legal connotation by the use of the of [sic] term “Swaps”;
+b) denies the use of the word “notional”, as the CIBC Commodity trade confirmations were hedges of HOOL’s anticipated production, not to exceed 50% of HOOL’s production;
+c) has no knowledge of and puts in issue what is meant by “HOOL was entitled to receive a fixed price”;
+c.1) he has no knowledge and puts in issue if HOOL received a “fixed price”;
+d) has no knowledge of and puts in issue how HOOL made settlement payments to CIBC; for greater certainty, he has no knowledge of particulars of how settlement was made such as whether HOOL made payments to CIBC every month or whether CIBC made payments to HOOL in certain months and when payments by a party were paid;
+e) admits that the CIBC Commodity trade confirmations were otherwise entered into with CIBC in the manner described;
+f) the AGC has no knowledge of and puts in issue any commodity hedges that were made with counterparties other than CIBC; and
+g) he has no knowledge of and puts in issue the remaining allegations of fact in that paragraph.
+[83] A comparison of paragraphs 16, 18 and 19 of the Notice of Appeal with the Minister’s assumptions of fact set out in subparagraphs 25(xx), (zz) and (bbb) of the Amended Reply is revealing:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+xx) Under the Hedge Transactions, HOOL was entitled to receive a fixed price on a notional volume of crude oil or natural gas and HOOL was required to pay to the counterparty the floating price on the same notional volume of crude oil or natural gas as established by market indices….
+zz) The amounts owing under the Hedge Transactions were calculated daily on the notional volumes and payable monthly by the contracting parties, in cash, to the extent of the net payment owed by either party for a given month….
+bbb) In aggregate, the index prices of crude oil and natural gas exceeded the fixed prices in 2004 resulting in HOOL making settlement payments totalling $561,295,272 to counterparties under the Hedge Transactions.
+Apart from the difference in terminology (i.e, “Swaps” in the Notice of Appeal and “Hedge Transactions” in the Amended Reply), paragraphs 16 and 18 of the Notice of Appeal are identical to subparagraphs 25(xx) and (zz) of the Amended Reply, and paragraph 19 of the Notice of Appeal is very similar to subparagraph 25(bbb) of the Amended Reply, the only differences being the insertion of a comma after “2004” in the Notice of Appeal, the omission of the word “net” in the Amended Reply, the insertion of the total monetary amount of the settlement payments in the Amended Reply, and the omission of the word “various” in the Amended Reply.
+[84] Given that the Minister’s assumed facts set out in subparagraphs 25(xx), (zz) and (bbb) of the Amended Reply are substantially the same as the facts pleaded by HOOL in paragraphs 16, 18 and 19 of the Notice of Appeal, it is disingenuous for the AGC:
+(a) in subparagraph 13(b) of the Amended Reply, to deny the use of the word “notional,” as the AGC used the same word in subparagraph 25(xx) of the Amended Reply;
+(b) in subparagraph 13(c) of the Amended Reply, to state that he has no knowledge of what is meant by the phrase “HOOL was entitled to receive a fixed price,” as the AGC used the same phrase in subparagraph 25(xx) of the Amended Reply;
+(c) in subparagraph 13(c.1) of the Amended Reply, to state that he has no knowledge “if HOOL received a ‘fixed price’,” as the AGC used the phrase “fixed price” in subparagraph 25(xx) of the Amended Reply;
+(d) in subparagraph 13(f) of the Amended Reply, to state that he has no knowledge of “any commodity hedges that were made with counterparties other than CIBC,” as the AGC has stated in subparagraph 25(bbb) of the Amended Reply that HOOL made “settlement payments totalling $561,295,272 to counterparties” (a plural term, which goes beyond CIBC); and
+(e) in subparagraph 13(g) of the Amended Reply, to state that he has no knowledge of the remaining allegations of fact in “that paragraph.” The Amended Reply does not indicate whether the phrase “that paragraph” refers to paragraph 16, 18 or 19 of the Notice of Appeal, but that is of no import, given that subparagraphs 25(xx), (zz) and (bbb) of the Amended Reply are substantially the same as paragraphs 16, 18 and 19 of the Notice of Appeal. Therefore, regardless of the paragraph to which the phrase “that paragraph” is referring, it is improper for the AGC to state that he has no knowledge of facts that the Minister assumed to be true.
+[85] In the opening portion of paragraph 13 of the Amended Reply, the AGC states that paragraphs 16, 18 and 19 of the Notice of Appeal raise a question of law and not fact. This is a peculiar position for the AGC to take, given that he stated essentially the same things in subparagraphs 25(xx), (zz) and (bbb) of the Amended Reply, when setting out the facts assumed by the Minister. It is well established that the Minister’s statement of factual assumptions must contain no statements of law. [49] If the AGC is of the view that paragraphs 16, 18 and 19 of the Notice of Appeal constitute the pleading of legal conclusions, those same legal conclusions should not have been recited in the Minister’s assumptions of fact in subparagraphs 25(xx), (zz) and (bbb) of the Amended Reply. Having said that, I note that, in subparagraph 26(d) of the Amended Reply, the AGC has stated that the assumptions in subparagraphs 25(xx) and (zz), but not (bbb), represent assumptions of law and not fact.
+[86] In subparagraph 13(d) of the Amended Reply, the AGC states that he has no knowledge of how HOOL made settlement payments to CIBC. However, in subparagraph 25(zz) of the Amended Reply the AGC states that the Minister assumed that the payments were made in cash; therefore, it is not proper or correct to say that the AGC has no knowledge in this regard.
+[87] Continuing the analysis of subparagraph 13(d) of the Amended Reply, the AGC goes on to state that he has no knowledge of a number of other details concerning the timing and frequency of the settlement payments. However, in subparagraph 25(zz) of the Amended Reply, the AGC states that the Minister assumed that the amounts were payable monthly. Thus, subparagraph 13(d) of the Amended Reply improperly states that the AGC has no knowledge of certain facts that were actually assumed by the Minister.
+[88] The denial in subparagraph 13(a) of the Amended Reply [50] and the admission in subparagraph 13(e) of the Amended Reply are not problematic.
+[89] To summarize, subparagraphs 13(b), (c), (c.1), (d), (f) and (g) of the Amended Reply are struck out, with leave to amend. Subparagraphs 13(a) and (e) of the Amended Reply are not to be struck out.
+(9) Paragraph 14 of the Amended Reply
+[90] Paragraph 14 of the Amended Reply relates to paragraph 17 of the Notice of Appeal, which reads as follows:
+17. The Swaps were cash settled transactions and no physical delivery of crude oil or natural gas was required or contemplated thereunder by either HOOL or the counterparties.
+Paragraph 14 of the Amended Reply reads as follows:
+14. With respect to paragraph 17 of the Notice of Appeal, the AGC:
+a) denies any legal connotation by the use of the term “Swaps”;
+b) has no knowledge of and puts in issue what HOOL or the counterparties contemplated;
+c) admits the remaining allegations of fact in that paragraph in respect of the CIBC Commodity hedging transactions; and
+d) the AGC has no knowledge of and puts in issue any commodity hedges that were made with counterparties other than CIBC.
+[91] To assist in the analysis of paragraph 14 of the Amended Reply, it is helpful to consider the Minister’s assumption of fact set out in subparagraph 25(yy) of the Amended Reply, as follows:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+yy) The Hedge Transactions were cash settled transactions and no physical delivery of crude oil or natural gas was required by either HOOL or the counterparties.
+[92] It is also helpful to consider subparagraph 26(d) of the Amended Reply, which reads as follows:
+26. The AGC states that the assumptions in subparagraph 25(l), (n), (q), (kk)[,] (xx), (yy), (zz), (aa), (ccc), (uuu) and (vvv) are not accurately stated, are incomplete or such assumptions must be read in the proper context, as follows:…
+d) With respect to assumptions (kk), (xx), (yy) and (zz), the AGC states that those assumptions only relate to the trade confirmations that were entered into under the Master Agreement with CIBC and not to any hedges that were entered into with other counterparties and further assumptions (xx), (yy) and (zz) represent assumptions of law and not fact….
+[93] Apart from the difference in the term used to refer to the Transactions, paragraph 17 of the Notice of Appeal and subparagraph 25(yy) of the Amended Reply are almost the same, the only other difference being that paragraph 17 of the Notice of Appeal adds the phrase “or contemplated thereunder” after the word “required.” Therefore, at first glance, it seems peculiar for the AGC to state in subparagraph 14(d) of the Amended Reply that he has no knowledge of any commodity hedges that were made with counterparties other than CIBC. However, in subparagraph 26(d) of the Amended Reply, the AGC repudiates and qualifies the assumption set out in subparagraph 25(yy) of the Amended Reply in a manner that is consistent with paragraph 14 of the Amended Reply.
+[94] It is not plain and obvious that paragraph 14 of the Amended Reply comes within any of the circumstances described in paragraphs 53(1)(a) through (d) of the Rules. Therefore, paragraph 14 of the Amended Reply is not to be struck out. [51]
+(10) Paragraph 15 of the Amended Reply
+[95] Paragraph 15 of the Amended Reply relates to paragraph 20 of the Notice of Appeal, which reads as follows:
+20. HOOL reported losses incurred from the Swaps, net of associated foreign exchange gains and losses, totalling $561,295,272 (the “Swap Losses”) in its financial statements and for tax purposes as losses from non-resource activities.
+Paragraph 15 of the Amended Reply reads as follows:
+15. With respect to paragraph 20 of the Notice of Appeal, the AGC:
+a) admits that HOOL reported, in its income tax return for its 2004 Taxation Year, losses totalling $561,295,272 in relation to certain hedging contracts (the “Hedging Losses”) and that HOOL reported the Hedging Losses as from non-resource activity;
+b) he has no knowledge of and puts in issue the remaining allegations of fact in that paragraph;
+c) however, the AGC also states that the Hedging Losses were recorded in HOLP in the determination of production revenue and then moved to HOOL and, more specifically:
+i) HOLP is a partner of Husky Terra Nova Partnership (“HTNP”);
+ii) commodity hedge losses for the calendar year 2004, related to production income for HOLP and HTNP, were $562,966,922 and the related foreign exchange gain was $1,673,372, resulting in a net loss of $561,293,551;
+iii) commodity hedge losses for the month of January 2005, related to production income of HOLP, were $951,746 and the related foreign exchange loss was $117,430, resulting in a total loss of $1,069,176;
+iv) the net commodity losses of $561,293,272 were recorded for accounting purposes in the determination of production revenue and income of HOLP for its respective fiscal period ending January 31, 2004 and January 31, 2005; [52]
+v) in calculating income for tax purposes for its 2004 Taxation Year, HOOL deducted those net commodity losses that were recorded as relating to HOLP’s production income; and
+vi) consequently, in the determination of income for tax purposes, HOLP’s income and resource profit were increased for the fiscal period February 1, 2004 to January 31, 2005 by $449,684,500; similarly, in determining HTNP’s income for tax purposes, its production income and resource profits were increased by $92,351,538.
+[96] The assumptions of fact made by the Minister and recited in subparagraphs 25(ccc) and (eee) of the Amended Reply are relevant:
+25. In determining the Appellant’s tax liability for the 2004 taxation year, the Minister made the following assumptions of fact:…
+(ccc) These Hedge Transactions losses, net of the associated foreign exchange gains/losses, were reported in the financial statements and for tax purposes as losses from non-resource activities….
+(eee) Hedging losses of $561,295,272 were deducted by HOOL under Part 1 [sic] of the Act.
+[97] Subparagraphs 15(a) and (b) of the Amended Reply are not, from a pleadings perspective, problematic. However, subparagraph 15(c) of the Amended Reply pleads a significant number of details that are not required in order for the AGC to admit or deny paragraph 20 of the Notice of Appeal. As noted in Strother, it is not appropriate to admit or deny a fact in a pleading and also couple “the admission or denial with … some extraneous comments that add nothing to the process.” [53]
+[98] Furthermore, subparagraph 15(c) of the Amended Reply is substantially the same as the subparagraph 26(g) of the Amended Reply, which is set out in Appendix A. The only differences are found in the first two lines of the respective subparagraphs, in clause (i) of the two provisions (with clause 15(c)(i) giving the full name of Husky Terra Nova Partnership and the defined abbreviation, and subparagraph 26(g) using only the abbreviated definition), and in the middle portion of clause (vi) of the two provisions (with more detail being included in clause 26(g)(vi) than in clause 15(c)(vi)). Accordingly, subparagraph 15(c) is repetitive and redundant.
+[99] As well, subparagraph 15(c) of the Amended Reply is substantially the same as paragraph 26e of the Amended Reply, which is also set out in Appendix A. Subparagraph 26(g) and paragraph 26e are identical, apart from the introduction to subparagraph 26(g) and the formatting of the concluding portion of paragraph 26e. Thus, three provisions of the Amended Reply, i.e., subparagraphs 15(c) and 26(g) and paragraph 26e, say essentially the same thing. It would suffice to say it only once. HOOL did not request that paragraph 26e of the Amended Reply be struck out; therefore, I will not so order. However, I am granting leave to the Crown, if desired, to delete paragraph 26e, which, in my view, is repetitive and redundant.
+[100] To summarize, subparagraph 15(c) of the Amended Reply is struck out, without leave to amend. Subparagraphs 15(a) and (b) of the Amended Reply are not to be struck out.
+(11) Paragraph 18 of the Amended Reply
+[101] Paragraph 18 of the Amended Reply relates to paragraph 23 of the Notice of Appeal, which reads as follows:
+23. In raising the Reassessment, the Minister assumed and relied upon each of the facts described in paragraphs 5 through 20 of this Notice of Appeal.
+Paragraph 18 of the Amended Reply reads as follows:
+18. With respect to paragraph 23 of the Notice of Appeal, the AGC denies the allegation of fact in that paragraph and, for clarity, the AGC states the following:
+a) the AGC admits that the Appellant, in its notice of objection to the Minister’s reassessment dated May 26, 2014, provided a description of facts that contained allegations of facts similar to the alleged facts described in paragraphs 5 through 20 of the Notice of Appeal (the “Notice of Objection Facts”);
+b) the AGC admits that the appeals officer of the Minister who considered the Appellant’s objection did not challenge most of the Notice of Objection Facts to the extent the allegations were facts rather than conclusions of law; and
+c) however, to the extent that any of the statements in the Notice of Objection Facts contain conclusions of law, the AGC states that the appeals officer’s acceptance of those statements are [sic] not an acceptance of those conclusions of law.
+[102] The first two lines of paragraph 18 of the Amended Reply contain a straightforward denial of the facts alleged in paragraph 23 of the Notice of Appeal. While there are similarities between paragraphs 5 through 20 of the Notice of Appeal and many of the subparagraphs in paragraph 25 of the Amended Reply, which set out the Minister’s assumptions of fact, there are several significant differences, as well, such that the AGC’s denial in the first two lines of paragraph 18 of the Amended Reply is appropriate.
+[103] However, paragraph 18 of the Amended Reply then goes on to add clarifying statements in subparagraphs 18(a), (b) and (c), some of which are couched as admissions of facts that are not actually pleaded in paragraph 23 of the Notice of Appeal. In particular, subparagraphs 18(a) and (b) contain overreaching admissions. In my view, subparagraphs 18(a) and (b), as well as subparagraph 18(c), would be better located under the heading “Other Material Facts.” Therefore, those three subparagraphs are struck out of paragraph 18 of the Amended Reply, with leave to amend, so as to plead the contents of those three subparagraphs as other material facts.
+(12) Paragraph 19 of the Amended Reply
+[104] Paragraph 19 of the Amended Reply relates to paragraph 25 of the Notice of Appeal, which reads as follows:
+25. By letter dated April 25, 2017, the Appeals division [sic] provided the following summary of the Minister’s basis for reducing the Appellant’s resource allowance deduction:
+It is Appeal’s position that HOOL’s hedging program was part of its overall risk management strategy and therefore directly connected to HOOL’s business of oil and gas exploration, development and production.
+Therefore, with respect to the narrower definition of “income from production” on which the calculation of Resource allowance is based, HOOL’s hedging losses meet the definition of “Resource Activity” under Regulation 1206(g) because the notional contract volumes can be tied to HOOL’s oil and gas production volumes and therefore are “ancillary to and in support of” production.
+Furthermore, HOOL’s hedging activities are not excluded in the computation of Resource Profits under Regulation 1204(1.1) since the excluded amount (the hedging losses) fail [sic] to meet the criteria outlined in both Regulation 1204(1.1)(v)(A) and (B). [54]
+Paragraph 19 of the Amended Reply reads as follows:
+19. With respect to paragraph 25 of the Notice of Appeal, he states that the Appellant is pleading evidence and the letter dated April 24, 2017 speaks for itself.
+Paragraph 19 of the Amended Reply gives an incorrect date for the letter from the Appeals Division; [55] however, that is not a sufficient reason for striking out paragraph 19.
+[105] I agree with the assertion of the AGC that, in paragraph 25 of the Notice of Appeal, HOOL is pleading evidence. Accordingly, I see no reason for striking out paragraph 19 of the Amended Reply.
+(13) Paragraph 20 of the Amended Reply
+[106] Paragraph 20 of the Amended Reply reads as follows:
+20. The AGC states that any remaining allegations of fact in the Notice of Appeal are administrative or in the nature of argument and do not contain any material facts to which to plead; to the extent there are any remaining allegations of fact, they are denied.
+[107] Paragraph 20 of the Amended Reply is the last paragraph under the heading “Facts admitted, denied or of which no knowledge.” It is an omnibus residual denial, which seems to be common in replies. I do not see anything objectionable in paragraph 20 of the Amended Reply, which was presumably included in the Amended Reply out of an abundance of caution, given that subsection 49(2) of the Rules states:
+All allegations of fact contained in a notice of appeal that are not denied in the reply shall be deemed to be admitted unless it is pleaded that the respondent has no knowledge of the fact.
+(14) Paragraph 26 of the Amended Reply
+[108] Paragraphs 25 and 26 of the Amended Reply are located under the heading “Assumptions.” As has become apparent from the foregoing portion of these Reasons, paragraph 25 contains the assumptions of fact made by the Minister in determining HOOL’s tax liability for the 2004 taxation year. At some point in time, after the Notice of Reassessment was issued, the AGC determined that some of the Minister’s assumptions were inaccurate or incomplete or required contextual clarification. I presume that it was for that reason that paragraph 26 was included in the original Reply and in the Amended Reply (although in the original Reply paragraph 26 was under the heading “Other Material Facts”).
+[109] Paragraph 26 reads as follows:
+26. The AGC states that the assumptions in subparagraph 25(1), (n), (q), (kk), (xx), (yy), (zz), (aa) [sic], (ccc), (uuu) and (vvv) are not accurately stated, are incomplete or such assumptions must be read in the proper context, as follows:
+a) With respect to assumption (l), the AGC states that the assumption must be read in the context of the fact that, on February 1, 2003, pursuant to a program which the Appellant called “SWIFT”, HOLP transferred (via quitclaim, surrender and assignment of interest agreement) undeveloped properties and leases to HOOL.
+b) With respect to assumption (n), the AGC states that the assumption is not to be taken as an admission of law as to whether a partner or a partnership owns property that has been transferred to a partnership.
+c) With respect to assumption (q), the AGC states that the assumption is not to be taken as a statement other than that HOOL, as a member of HOLP, computes its income for tax purposes for its taxation years as required by subsection 96(1) of the Act and included its share of income under paragraph 12(1)(l) of the Act.
+d) With respect to assumptions (kk), (xx), (yy) and (zz), the AGC states that those assumptions only relate to the trade confirmations that were entered into under the Master Agreement with CIBC and not to any hedges that were entered into with other counterparties and further assumptions (xx), (yy) and (zz) represent assumptions of law and not fact;
+e) With respect to assumption (aaa), the AGC states that the assumption is inaccurate or incomplete as some of the trade confirmations involving CIBC indicate that they were to be settled in 2005.
+f) With respect to assumption (ccc), the AGC states that the assumption is incomplete or incorrect as the AGC states that net commodity losses were recorded for accounting purposes in the determination of production revenue and income of HOLP for its fiscal periods ending January 31, 2004 and January 31, 2005.
+g) With respect to assumptions (uuu) and (vvv), those assumptions are incomplete or incorrect as the AGC states that the Hedging Losses were recorded in HOLP in the determination of production revenue and then moved to HOOL and, more specifically:
+i) HOLP is a partner of HTNP;
+ii) commodity hedge losses for the calendar year 2004, related to production income for HOLP and HTNP, were $562,966,922 and the related foreign exchange gain was $1,673,372, resulting in a net loss of $561,293,551;
+iii) commodity hedge losses for the month of January 2005, related to production income of HOLP, were $951,746 and the related foreign exchange loss was $117,430, resulting in a total loss of $1,069,176;
+iv) the net commodity losses of $561,293,272 were recorded for accounting purposes in the determination of production revenue and income of HOLP for its respective fiscal period [sic] ending January 31, 2004 and January 31, 2005;
+v) in calculating income for tax purposes for its 2004 Taxation Year, HOOL deducted those net commodity losses that were recorded as relating to HOLP’s production income; and
+vi) consequently, in the determination of income for income tax purposes, HOLP’s income and resource profit were increased for the fiscal period February 1, 2004 to January 31, 2005 by $449,684,500 to remove the hedge losses previously recorded as reduction of production revenue; similarly, in determining HTNP’s income for tax purposes, its production income and resource profits were increased by $92,351,538.
+[110] As explained above, the AGC is not bound by the assumptions on which the Minister relied, and may resile from or abandon assumptions, provided that an alternative position is advanced. [56] In my view, paragraph 26 of the Amended Reply is the portion of the pleading in which the AGC states which assumptions made by the Minister were inaccurate or incomplete or require contextual clarification. I am also of the view that paragraph 26 specifically repudiates the referenced assumptions, so as to satisfy the requirement set out by Associate Chief Justice Bowman (as he then was) in Loewen. [57]
+[111] It is not plain and obvious that paragraph 26 of the Amended Reply satisfies any of the criteria in Rule 53 for striking out a pleading. In fact, paragraph 26 may require additional provisions to be added to it, so as to put forward with completeness the AGC’s alternative position. In particular, as noted above, [58] leave is granted to the AGC to amend paragraph 26 of the Amended Reply so as to add a provision that explicitly repudiates and resiles from the assumption of fact in subparagraph 25(ww) of Amended Reply.
+(15) Paragraph 26d of the Amended Reply
+[112] Paragraph 26d,which is in the portion of the Amended Reply labelled as “Other Material Facts,” reads as follows:
+26d. Some of the trade confirmations involving CIBC indicate that they were to settle in 2005.
+[113] As noted above, paragraph 26d of the Amended Reply is very similar to subparagraph 26(e) of the Amended Reply. [59] Paragraph 26d is repetitive and redundant; therefore, it is struck out, without leave to amend.
+(16) Paragraph 26e of the Amended Reply
+[114] As noted above, paragraph 26e of the Amended Reply is almost the same as subparagraph 26(g) of the Amended Reply. [60] Paragraph 26e is repetitive and redundant. However, as HOOL did not, in its Notice of Motion, request that paragraph 26e be struck out, I will not so order, but I am granting leave to the Crown to delete paragraph 26e, in the hope that it will do so.
+C. Missing Assumption
+[115] One of HOOL’s complaints is that, when the CRA performed its audit and when the appeals officer reviewed the Reassessment and the Notice of Objection, the auditor and/or the appeals officer (as the Minister’s representatives) assumed various facts, but not all of those assumed facts have been pleaded by the Crown in the Amended Reply. It is HOOL’s position that, when pleading the assumptions of fact on which the Reassessment was based, the Crown failed in its obligation to state all of the assumptions made by the Minister. HOOL is alleging, in particular, that there was a critical assumption made by the CRA at the audit, reassessment and appeals stages that the Crown deliberately left out of its Reply, and then later its Amended Reply.
+[116] By way of background, prior to the hearing of this Motion, HOOL filed the affidavit of Reinard Jiloca, Exhibit “B” of which is a copy of the Report on Objection prepared in April 2007 by the appeals officer or officers who considered HOOL’s Notice of Objection. On page 2 of the Report on Objection, the following series of five headings or subheadings is set out:
+(2) REVIEW OF EACH VALID ISSUE UNDER OBJECTION
+Issue #1 – Derivatives Trading Losses Included in the Calculation of Resource Profits
+(l) BASIS OF (RE)ASSESSMENT (Audit’s Position)
+(a) Facts:
+BACKGROUND
+[117] Below the heading (or subheading) “BACKGROUND”, the appeals officer set out 12 numbered paragraphs, the first ten of which are reproduced in the left-hand column of Appendix B. [61] In the context of this Motion, the notable statement is the last sentence of paragraph 5, which reads, “The only production occurred in HOLP.”
+[118] It is the position of HOOL that the first ten paragraphs under the heading “BACKGROUND” in the Report on Objection formed part of the assumptions made by the Minister in issuing (or perhaps confirming) the Reassessment. [62] Therefore, according to HOOL, the last sentence of paragraph 5, as quoted above, should have been, but was not, pleaded in paragraph 25 of the Amended Reply (which is the paragraph setting out the Minister’s assumptions of fact). In order to analyze HOOL’s complaint, I have, in the right-hand column of Appendix B, also reproduced corresponding excerpts from paragraph 25 of the Amended Reply.
+[119] As discussed above, [63] the Crown has an obligation to disclose all of the facts upon which a particular assessment is based, even if those facts may be wrong, irrelevant or embarrassing to the Crown’s case or may support the taxpayer’s case. The difficulty here is that the Report on Objection does not state that the paragraphs set out under the heading “BACKGROUND” actually constituted the Minister’s assumptions of fact on which the Reassessment was based.
+[120] While there is some similarity between paragraphs 1 through 9 under the heading “BACKGROUND” in the Report on Objection with the subparagraphs of paragraph 25 of the Amended Reply that are reproduced in Appendix A, the similarity is not so close as to enable me to reach the conclusion that the Report on Objection actually reproduced the assumptions of fact made by the Minister. In fact, the Crown has suggested that paragraphs 1 through 9 under the heading “BACKGROUND” in the Report on Objection were copied by the appeals officer from the facts set out by HOOL in its Notice of Objection. [64]
+[121] As I do not have any evidence that clearly establishes that the statement in question, i.e., “The only production occurred in HOLP.”, was actually one of the facts assumed by the Minister, I am not in a position to require that such statement be pleaded by the Crown as an assumed fact. This determination is made without prejudice to HOOL’s right (assuming that examinations for discovery have not been concluded) to examine an officer of the CRA for discovery, with a view to determining the full extent of the assumptions made by the Minister when issuing or confirming the Reassessment.
+IV. CONCLUSION
+[122] As indicated above, the following provisions of the Amended Reply are struck out:
+(a) paragraph 5 and subparagraphs 8(a), 9(a), 9(b), 10(a), 10(c), 13(b), 13(c), 13(c.1), 13(d), 13(f), 13(g), 18(a), 18(b) and 18(c), with leave to amend; and
+(b) subparagraphs 7(b), 9(c), 12(c) and 15(c) and paragraph 26d, without leave to amend.
+In addition to the amendments contemplated by subparagraph 122(a) above, leave is also granted to the Crown, if desired:
+(c) to amend paragraph 26 of the Amended Reply so as to add a provision resiling from the assumption of fact in subparagraph 25(ww) of the Amended Reply;
+(d) to delete paragraph 26e of the Amended Reply; and
+(e) to make such ancillary or supplementary amendments as may be desired:
+(i) to ensure that the document containing the contemplated amendments to the Amended Reply reads smoothly after the deletion of the provisions that have been struck out, and
+(ii) to address any other concerns or suggestions noted above in respect of which there was no striking out.
+[123] If the Crown desires to make any of the amendments contemplated by subparagraphs 122(a), (c), (d) and (e) above, the document containing such amendments to the Amended Reply shall be filed with the Registry and served on HOOL no later than 60 days after the date of the Order accompanying these Reasons.
+[124] Costs of this Motion will be costs in the cause.
+Signed at Ottawa, Canada, this 18th day of June 2019.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+APPENDIX A
+Subparagraph 26(g) of the Amended Reply reads as follows:
+26. The AGC states that the assumptions in subparagraph 25(l), (n), (q), (kk)[,] (xx), (yy), (zz), (aa), (ccc), (uuu) and (vvv) are not accurately stated, are incomplete or such assumptions must be read in the proper context, as follows:…
+g) With respect to assumptions (uuu) and (vvv), those assumptions are incomplete or incorrect as the AGC states that the Hedging Losses were recorded in HOLP in the determination of production revenue and then moved to HOOL and, more specifically:
+i) HOLP is a partner of HTNP;
+ii) commodity hedge losses for the calendar year 2004, related to production income for HOLP and HTNP, were $562,966,922 and the related foreign exchange gain was $1,673,372, resulting in a net loss of $561,293,551;
+iii) commodity hedge losses for the month of January 2005, related to production income of HOLP, were $951,746 and the related foreign exchange loss was $117,430, resulting in a total loss of $1,069,176;
+iv) the net commodity losses of $561,293,272 were recorded for accounting purposes in the determination of production revenue and income of HOLP for its respective fiscal period [sic] ending January 31, 2004 and January 31, 2005;
+v) in calculating income for tax purposes for its 2004 Taxation Year, HOOL deducted those net commodity losses that were recorded as relating to HOLP’s production income; and
+vi) consequently, in the determination of income for income tax purposes, HOLP’s income and resource profit were increased for the fiscal period February 1, 2004 to January 31, 2005 by $449,684,500 to remove the hedge losses previously recorded as reduction of production revenue; similarly, in determining HTNP’s income for tax purposes, its production income and resource profits were increased by $92,351,538.
+Paragraph 26e of the Amended Reply reads as follows:
+26e. The Hedging Losses were recorded in HOLP in the determination of production revenue and then moved to HOOL and, more specifically:
+i) HOLP is a partner of HTNP;
+ii) commodity hedge losses for the calendar year 2004, related to production income for HOLP and HTNP, were $562,966,922 and the related foreign exchange gain was $1,673,372, resulting in a net loss of $561,293,551;
+iii) commodity hedge losses for the month of January 2005, related to production income of HOLP, were $951,746 and the related foreign exchange loss was $117,430, resulting in a total loss of $1,069,176;
+iv) the net commodity losses of $561,293,272 were recorded for accounting purposes in the determination of production revenue and income of HOLP for its respective fiscal period [sic] ending January 31, 2004 and January 31, 2005;
+v) in calculating income for tax purposes for its 2004 Taxation Year, HOOL deducted those net commodity losses that were recorded as relating to HOLP’s production income; and
+consequently, in the determination of income for income tax purposes, HOLP’s income and resource profit were increased for the fiscal period February 1, 2004 to January 31, 2005 by $449,684,500 to remove the hedge losses previously recorded as reduction of production revenue; similarly, in determining HTNP’s income for tax purposes, its production income and resource profits were increased by $92,351,538.
+APPENDIX B
+The purpose of this Appendix is to compare the background statements set out by the CRA in paragraphs 1 through 9 on pages 2 and 3 of the Report on Objection with the corresponding assumptions set out by the Crown in paragraph 25 of the Amended Reply. The italicized sentence in paragraph 5 in the left-hand column indicates the statement that was set out in the Report on Objection but not in the Amended Reply.
+Not all of the assumptions set out in the Amended Reply are shown in the right-hand column below. Assumptions in the Amended Reply which do not have a counterpart in paragraphs 1 through 9 on pages 2 and 3 of the Report on Objection are not shown below.
+Excerpt from Report on Objection
+Excerpt from Amended Reply
+Facts:
+Paragraph 25 - Assumptions
+1. Husky Energy Inc. (HEI) is a publicly traded company and the ultimate parent corporation of an integrated energy business engaged in the upstream exploration and development of crude oil and natural gas, in the midstream upgrading, transportation and marketing of oil and gas products and in the downstream refined products and retail marketing operations.
+c) HOOL is a wholly-owned subsidiary of HEI, a Canadian public company.
+d) HEI is a holding company and does not conduct any oil and gas exploration, development or production activities on its own account.
+2. Husky Oil Operations Limited (HOOL) is a Canadian wholly-owned subsidiary of HEI that produces crude oil and gas commodities in North America. HOOL’s resource activities are carried out through a partnership, Husky Oil Limited Partnership (HOLP). HOOL has a 99% interest in the partnership and is the general partner. The remaining 1% interest is owned by HOI Resources Co., also a member of the Husky Group.
+b) HOOL is a taxable Canadian corporation, with a taxation year ending December 31.
+e) HOOL is in the business of the exploration, development and production of crude oil and natural gas primarily in Canada.
+g) The majority of HOOL’s crude oil and natural gas production is from Canadian domestic production.
+h) HOOL carries on certain aspects of its business in common with HOIRC through HOLP.
+p) HOOL’s resource activities on certain producing properties are carried out through HOLP.
+j) HOOL holds a 99% interest in HOLP.
+k) The remaining 1% interest in HOLP is held by HOIRC, a wholly-owned subsidiary of HOOL.
+3. HOOL acquires Canadian Resource Properties (CRP) and carries out the exploration and development activities on the CRP. Whenever a successful well is drilled, HOOL transfers the property to HOLP prior to any production commencing. The purpose of this is so HOOL can have access to the resulting CEE and CDE in the current year but defer recognizing income for a year.
+l) HOOL acquired properties that met the definition of “Canadian resource properties” in the Act (the “Properties”).
+m) HOOL conducts the exploration and development activities on the Properties.
+n) Whenever a successful well is drilled, HOOL transfers that property to HOLP so HOOL can have access to the resulting Canadian Exploration Expenses and Canadian Development Expenses (as those terms are used in the Act) in the current year but defer recognizing income for a year.
+4. HOLP was formed under the laws of Alberta, with a tax year end of January 31st. HOLP owns and operates all the Western Canadian producing properties of the Husky group of companies.
+i) HOLP was formed under the laws of Alberta, with a fiscal period end of January 31.
+f) HOOL’s principal oil and gas production operations are in Western Canada and offshore Newfoundland.
+5. As a result, HOOL did not have any direct crude oil or natural gas production in its taxation year ending December 31, 2004. The only production occurred in HOLP. [65]
+q) As a result, HOOL did not have any direct crude oil or natural gas production in its taxation year ending December 31, 2004.
+6. In 2003 HOOL entered into fifty two separate swap transactions (collectively referred to as the “Swaps”) with eight financial institutions. The Swaps became effective during 2004. HOLP did not enter into any Swaps or other similar contracts. HOOL claims that the Swaps were entered into for and on behalf of itself and not in its capacity as a general partner of HOLP. [66]
+kk) In 2003 HOOL entered into fifty-two to fifty-four separate derivatives transactions with eight financial institutions to hedge the production of oil and gas; (collectively referred to as the “Hedge Transactions”).
+ww) HOLP did not enter into any hedging contracts or other similar contracts.
+aaa) The Hedge Transactions became effective and were settled in 2004.
+6. [67] Under the Swaps, HOOL was entitled to receive a fixed price on a notional volume of crude oil or natural gas and HOOL was required to pay to the counterparty the floating price on the same notional volume of crude oil or natural gas as established by market indices.
+xx) Under the Hedge Transactions, HOOL was entitled to receive a fixed price on a notional volume of crude oil or natural gas and HOOL was required to pay to the counterparty the floating price on the same notional volume of crude oil or natural gas as established by market indices.
+7. The Swaps were cash settled transactions and no physical delivery of crude oil or natural gas was required by either HOOL or the counterparties.
+yy) The Hedge Transactions were cash settled transactions and no physical delivery of crude oil or natural gas was required by either HOOL or the counterparties.
+8. The amounts owing under the Swaps were calculated daily on the notional volumes and payable monthly by the contracting parties, in cash, to the extent of the net payment owed by either party for a given month.
+zz) The amounts owing under the Hedge Transactions were calculated daily on the notional volumes and payable monthly by the contracting parties, in cash, to the extent of the net payment owed by either party for a given month.
+9. In aggregate, the index prices of crude oil and natural gas exceeded the fixed prices in 2004 resulting in HOOL making settlement payments totalling $561,295,272 to various counterparties under the Swaps. These commodity hedging losses, net of the associated foreign exchange gains/losses, were reported in the financial statements and for tax purposes as losses from non-resource activities. The breakdown of these losses in HOOL’s general ledger was as follows:
+GL34003
+Light Oil Cmdty Hedging
+$173,993,489
+GL34005
+Light Oil FX Hedging
+(386,634)
+GL34025
+Heavy Oil Cmdty Hedging
+385,538,547
+GL34032
+Heavy Oil FX Hedging
+(366,383)
+GL34053
+Gas Cmdty Hedging
+3,436,607
+GL34054
+Gas FX Hedging
+(920,354)
+Total Net Production Commodity Hedging Losses
+$561,295,272
+bbb) In aggregate, the index prices of crude oil and natural gas exceeded the fixed prices in 2004 resulting in HOOL making settlement payments totalling $561,295,272 to counterparties under the Hedge Transactions.
+ccc) These Hedge Transactions losses, net of the associated foreign exchange gains/losses, were reported in the financial statements and for tax purposes as losses from non-resource activities.
+ddd) The breakdown of these losses in HOOL’s general ledger and allocated to upstream revenue accounts were as follows:
+GL
+Account
+Number
+Commodity
+Amount
+34003
+Light Oil Commodity Hedging
+$173,993,489
+34005
+Light Oil FX Hedging
+(386,634)
+34025
+Heavy Oil Commodity Hedging
+385,538,547
+34032
+Heavy Oil FX Hedging
+(366,383)
+34053
+Gas Commodity Hedging
+3,436,607
+34054
+Gas FX Hedging
+(920,354)
+Total Net Production Commodity Hedging Losses
+$561,295,272
+GL34003
+Light Oil Cmdty Hedging
+$173,993,489
+GL34005
+Light Oil FX Hedging
+(386,634)
+GL34025
+Heavy Oil Cmdty Hedging
+385,538,547
+GL34032
+Heavy Oil FX Hedging
+(366,383)
+GL34053
+Gas Cmdty Hedging
+3,436,607
+GL34054
+Gas FX Hedging
+(920,354)
+Total Net Production Commodity Hedging Losses
+$561,295,272
+GL
+Account
+Number
+Commodity
+Amount
+34003
+Light Oil Commodity Hedging
+$173,993,489
+34005
+Light Oil FX Hedging
+(386,634)
+34025
+Heavy Oil Commodity Hedging
+385,538,547
+34032
+Heavy Oil FX Hedging
+(366,383)
+34053
+Gas Commodity Hedging
+3,436,607
+34054
+Gas FX Hedging
+(920,354)
+Total Net Production Commodity Hedging Losses
+$561,295,272
+CITATION:
+2019 TCC 136
+COURT FILE NO.:
+2017-3308(IT)G
+STYLE OF CAUSE:
+HUSKY OIL OPERATIONS LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 11 and 12, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF ORDER:
+June 18, 2019
+APPEARANCES:
+Counsel for the Appellant:
+David Jacyk, Edward Rowe
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Jacyk, Edward Rowe
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The number of Transactions was likely 52 or 54.
+[2] At the hearing of this Motion, counsel for the Crown indicated that the CRA appeals officer, in preparing the T401 Income Tax Report on Objection (the “Report on Objection”), borrowed extensively from the facts set out in the Notice of Objection, as reproduced above. See also subparagraph 18(b) of the Amended Reply and paragraphs 20-21 of the Written Submissions of the Respondent.
+[3] Garry D. Watson, Holmested and Watson: Ontario Civil Procedure, vol. 3, p. 25-20 to 25-21; as quoted in Zelinski v The Queen, [2002] 1 CTC 2422, 2002 DTC 1204, ¶5; aff’d, 2002 FCA 330. See also Globtek v The Queen, 2005 TCC 727, ¶4-5; Foss v The Queen, 2007 TCC 201, ¶6; and Mastronardi v The Queen, 2010 TCC 57, ¶11.
+[4] Foss, supra note 3, ¶8-9.
+[5] Sentinel Hill Productions (1999) Corporation v The Queen, 2007 TCC 742, ¶4.
+[6] Gramiak v The Queen, 2013 TCC 383, ¶30; and Heron v The Queen, 2017 TCC 71, ¶10; aff’d, 2017 FCA 229.
+[7] The Queen v Imperial Tobacco Canada Ltd, 2011 SCC 42, ¶17 & 25 (also known as Knight v Imperial Tobacco Canada Ltd.). See also Gramiak, supra note 6, ¶31; and Heron (TCC), supra note 6, ¶10.
+[8] Canadian Imperial Bank of Commerce v The Queen, 2011 TCC 568, ¶19; affirmed in part and reversed in part, 2013 FCA 122. See also Gramiak, supra note 6, ¶32.
+[9] Heron (TCC), supra note 6, ¶11.
+[10] Sentinel Hill, supra note 5, ¶11. See also CIBC, supra note 8, ¶15 & 19.
+[11] Strother v The Queen, 2011 TCC 251, ¶16.
+[12] Xu v The Queen, 2006 TCC 695, ¶4-7.
+[13] Ibid., ¶5.
+[14] Warner v Sampson, [1959] 1 QB 297 at 319 & 324 (Eng. CA).
+[15] Duquette v The Queen, [1993] 1 CTC 2701 at 2710, 93 DTC 841 at 848 (TCC).
+[16] Loewen v The Queen, 2003 TCC 101, ¶67; rev’d on other grounds, 2004 FCA 146.
+[17] LBL Holdings Limited v The Queen, 2015 TCC 115, ¶18(c) & 21(b). See also LBL Holdings Ltd. v The Queen, 2016 FCA 17, in which the Federal Court of Appeal dismissed the GST registrant’s appeal from Justice Graham’s refusal to strike out other portions of the Crown’s Reply.
+[18] The Queen v Anchor Pointe Energy Ltd., 2003 FCA 294, ¶25-26. See also CIBC (FCA), supra note 8, ¶92, where the Federal Court of Appeal stated, “It is now well established that the statement of factual assumptions must contain no statements of law…, and where the assessment under appeal is based on a conclusion of mixed fact and law, the factual components must be extricated and stated as factual assumptions….”
+[19] The Queen v Aventis Pharma Inc., 2008 FCA 316, ¶3, 7 & 9-10.
+[20] 9000-6560 Québec Inc. v The Queen, [2001] GSTC 31, endnote 18.
+[21] Loewen, supra note 16, ¶69; rev’d on other grounds, 2004 FCA 146. The statement quoted above by Associate Chief Justice Bowman was made in the context of the taxpayer’s motion to strike an arm’s-length defence raised by the Crown in its reply. Associate Chief Justice Bowman dismissed that portion of the taxpayer’s motion, and the Federal Court of Appeal dismissed the taxpayer’s cross appeal in respect of that issue. See also Massicotte et al. v The Queen, 2004 TCC 558, ¶14, which quotes paragraph 69 of Associate Chief Justice Bowman’s reasons in Loewen.
+[22] Jolly Farmer Products Inc. v The Queen, 2008 TCC 124, ¶9; and Payette v The Queen, [2002] 4 CTC 2255, ¶9.
+[23] Morrison et al. v The Queen, 2018 TCC 220, ¶90; and Anchor Pointe Energy Ltd. v The Queen, 2007 FCA 188, ¶29.
+[24] Jolly Farmer Products, supra note 22, ¶9.
+[25] Shaughnessy v The Queen, [2002] 2 CTC 2035, 2002 DTC 1272, ¶13 (TCC).
+[26] Anchor Pointe Energy Ltd. v The Queen, 2006 TCC 424, ¶21; rev’d on other grounds, 2007 FCA 188.
+[27] Mungovan v The Queen, [2001] 3 CTC 2779, 2001 DTC 691, ¶15 (TCC). See also Holm v The Queen, [2003] 2 CTC 2041 at 2054, 2003 DTC 755 at 761 (TCC), where former Associate Chief Justice Bowman (as he then was) stated that: “… the practice of picking and choosing what assumptions to plead and what assumptions to withhold on the basis that they are contradictory to other assumptions or are embarrassing or that they support the appellant’s case is deplorable. If assumptions have any role in income tax appeals it is essential that they be pleaded fully and honestly whether they support the Crown’s case or the appellant’s case.”
+[28] The Queen v Bowens, [1996] 2 CTC 120 at 122, 96 DTC 6128 at 6129 (FCA). See also Grant v The Queen, 2003 FCA 77, ¶18.
+[29] Strother, supra note 11, ¶39, quoting Mudrick v Mississauga Oakville Veterinary Emergency Professional Corporation, [2008] O.J. No. 4512 (QL).
+[30] Strother, supra note 11, ¶40.
+[31] Ibid, ¶41-43, quoting from Duffett v Canada (AG), 2004 NLSCTD 58 at ¶23, 235 Nfld & P.E.I.R. 321; and Robinson v Medtronic Inc., 2010 ONSC 1739, ¶19.
+[32] Holmested and Watson, supra note 3, volume 3, p. 25-21.
+[33] CIBC (FCA), supra note 8, ¶82-83.
+[34] Loewen (FCA), supra note 16, ¶11. See also Shindle v The Queen, 2009 TCC 133, ¶20.
+[35] 1072174 Ontario Ltd. v The Queen, 2008 TCC 129, ¶16 & 19; aff’d, 2008 FCA 407.
+[36] In the Amended Reply, subparagraphs are designated by small letters of the alphabet, with only a closing parenthesis after the letter, but no opening parenthesis before the letter. However, in cross-references in the Amended Reply, both opening and closing parentheses are used. For instance, see the numerous cross-references in section 26 of the Amended Reply. In HOOL’s Written Representations and the Crown’s Written Submissions, opening parentheses, as well as closing parentheses, are used when designating subparagraphs. Accordingly, I will use both opening and closing parentheses in these Reasons to designate subparagraphs of the Amended Reply, except where I am quoting directly from the Amended Reply.
+[37] Xu, supra note 12, ¶4-5; and Strother, supra note 11, ¶16.
+[38] See also paragraph 6 of the Amended Reply, which states “that the remaining 1% partner of HOLP was HOIRC.”
+[39] See subsection 51(2) of the Rules.
+[40] In the Amended Reply, the masculine pronoun is used to refer to the AGC. To be consistent with that terminology, I too will use the masculine pronoun in these Reasons when referring to the AGC, notwithstanding that, when the Amended Reply was filed, the AGC was the Honourable Jody Wilson-Raybould. It is acknowledged that, at the time of issuing these Reasons, the AGC is the Honourable David T. Lametti.
+[41] See footnotes 2 above and 64 below, as well as paragraph 120 below.
+[42] The Amended Reply contains five paragraphs that were not found in the Reply and that were inserted immediately after paragraph 26. The five new paragraphs are designated as 26a, 26b, 26c, 26d and 26e. This is confusing, as paragraph 26 of the Amended Reply contains seven subparagraphs, the first five of which are designated as 26.a), 26.b), 26.c), 26.d) and 26.e). It is my suggestion that, if the Amended Reply is further amended, the designation of the five paragraphs that follow paragraph 26 should be changed to 26.1, 26.2, 26.3, 26.4 and 26.5, or perhaps to 26A, 26B, 26C, 26D and 26E (subject to my decision and the accompanying Order that existing paragraph 26d is to be struck out and the suggestion that paragraph 26e should be deleted).
+[43] To comply with subsection 55(2) of the Rules, some of the provisions of the Amended Reply contain underlining, as well as text with a strike-out line drawn through it. In reproducing certain of those provisions in these Reasons, I have omitted the underlining and the text marked with a strike-out line.
+[44] I think that the reference to subparagraph 25(aa) should be a reference to subparagraph 25(aaa).
+[45] Paragraph 14 of the Notice of Appeal uses the term “Swaps."
+[46] HOOL’s Written Representations, p. 30, ¶87-88.
+[47] HOOL’s Written Representations, p. 31, ¶89-90.
+[48] Loewen (TCC), supra note 16, ¶69; and Aventis Pharma, supra note 19, ¶10. See paragraphs 27-29 above.
+[49] CIBC (FCA), supra note 8, ¶92; and Anchor Pointe, supra note 18, ¶25.
+[50] See paragraph 22 above.
+[51] The first two words (“the AGC”) of subparagraph 14(d) of the Amended Reply are not necessary, as the same words appear immediately before the colon at the end of the first line of paragraph 14. However, this is not a sufficient reason for striking out that subparagraph.
+[52] Paragraph 15 of the Amended Reply contains three amounts which are close to one another, but are not identical. Subparagraph 15(a) indicates that the total losses reported by HOOL for 2004 were $561,295,272. Clause 15(c)(ii) indicates that the net loss for 2004 was $561,293,551. Clause 15(c)(iv) indicates that the net commodity losses were $561,293,272. For the purposes of these Reasons, I have assumed that those three provisions in the Amended Reply are referring to three different categories of losses, such that the three amounts are not intended to be the same.
+[53] Strother, supra note 11, ¶16.
+[54] Paragraph 25 of the Notice of Appeal suggests that the excerpt quoted from the letter dated April 25, 2017 from the Appeals Division was set out in three paragraphs. In actuality, the three sentences quoted above are all part of subparagraph 1) on page 1 of that letter. See Exhibit B to the Affidavit of Maureen Laidlaw, which was filed on February 7, 2018.
+[55] The correct date is April 25, 2017.
+[56] Aventis Pharma, supra note 19, ¶3, 7 & 9-10. See paragraph 27 above.
+[57] Loewen (TCC), supra note 16, ¶69. See paragraph 29 above.
+[58] See paragraphs 79 and 81 above.
+[59] See paragraph 72 above.
+[60] See paragraphs 98-99 above.
+[61] The Report on Objection contains two paragraphs each of which is numbered as 6. For the purposes of these Reasons, I will use the same paragraph numbers as are set out in the Report on Objection, including the use of the number “6” to refer to both the sixth and seventh paragraphs of that document.
+[62] The last of the paragraphs reproduced in the left-hand column of Appendix A is designated as paragraph 9, but there are actually 10 paragraphs, given that, as noted above, two paragraphs in the Report on Objection were both numbered as 6.
+[63] See paragraph 30 above.
+[64] Subparagraph 18(b) of the Amended Reply; and paragraphs 20-21 of the Written Submissions of the Respondent. See also footnote 2 above.
+[65] The sentence that is italicized above in Appendix B was not italicized in the Report on Objection.
+[66] In the Report on Objection, there is a footnote number after the word “transactions” on the second line of the first paragraph 6 above. That footnote number has been omitted in this quotation of that paragraph.
+[67] As noted above, the Report on Objection contains two paragraphs each numbered as 6.

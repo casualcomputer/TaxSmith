@@ -1,0 +1,249 @@
+---
+title: "Caputo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30456/index.do"
+last_modified: "2011-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 364"
+citation2: ""
+neutral_citation: "2011 TCC 364"
+decision_date: "2011-07-22"
+language: "en"
+item_id: "30456"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7925
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:25:04.716000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e14d569bf0b7c063c458b929843c90724e6460be1d57a5d241dc7bff34ac7b8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caputo v. The Queen
+
+- Citation: 2011 TCC 364
+- Decision date: 2011-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7925, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caputo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-22
+Neutral citation
+2011 TCC 364
+File numbers
+2003-1118(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1118(IT)G
+BETWEEN:
+RONALD CAPUTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2004-1460(IT)G
+AND BETWEEN:
+MERVIN FALKENBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2004-1568IT)G
+AND BETWEEN:
+JOHN STORWICK SR.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2004-1650(IT)G
+AND BETWEEN:
+GARRET MADELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appellants’ Motion heard by conference call on May 19, 2011 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellants:
+James G. Shea
+Counsel for the Respondent:
+Chang Du
+____________________________________________________________________
+ORDER
+Whereas a Motion has been brought concerning four appeals in respect of which Judgments dismissing each of them, with costs, were pronounced by Justice Little of this Court on May 2, 2008. Timely appeals in respect of each of these Judgments were filed with the Federal Court of Appeal. One such appeal (Garret Madell v The Queen) was dismissed on June 9, 2009. The three remaining appeals were discontinued on November 13, 2009. A Notice of Appointment for Taxation of Costs was issued on April 6, 2010. A taxation hearing was held on September 28, 2010. On October 7, 2010, a Certificate of Costs was issued by the Taxation Officer approving the costs submitted by the Minister of National Revenue;
+And whereas on November 4, 2010, a Notice of Motion was filed by the Appellants in the said appeals under section 159 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) which provides that the Court may review the taxation on motion of a party dissatisfied with it and give such direction as may be just;
+And whereas the Appellants have brought the Motion within the time limit provided for in section 159 of the Rules and thereby have standing to proceed;
+And whereas, at the hearing of this Motion in Calgary on January 26, 2011, Justice Hershfield ordered the parties to attend at a telephone conference with Justice Little;
+And upon reading the materials filed and hearing the submissions of counsel;
+IT IS ORDERED THAT:
+The Appellants’ Motion is dismissed, without costs, on the grounds that the Appellants are out of time, in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 22nd day of July 2011.
+"L.M. Little"
+Little J.
+Citation: 2011 TCC 364
+Date: July 22, 2011
+Docket: 2003-1118(IT)G
+BETWEEN:
+RONALD CAPUTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2004-1460(IT)G
+AND BETWEEN:
+MERVIN FALKENBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2004-1568IT)G
+AND BETWEEN:
+JOHN STORWICK SR.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2004-1650(IT)G
+AND BETWEEN:
+GARRET MADELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+[1] Counsel for the Appellants filed a Notice of Motion with this Court on November 4, 2010.
+[2] The grounds for the Motion are:
+1. That section 159 of the Tax Court of Canada Rules (General Procedure) (SOR/90‑688a) (“the Rules”) permits a party who is dissatisfied with the taxation to bring a motion within thirty days of the date of a certificate of costs, and the Court may review the taxation and give such direction as may be just;
+2. That section 147 of the Rules grants a presiding Judge broad discretionary powers over payment of the costs of all parties;
+3. The Notice of Discontinuance filed by the Appellants and consented to by the Respondent on November 13, 2009, completely disposes of all matters between the parties including costs at the Federal Court of Appeal and at the Tax Court of Canada;
+4. Pursuant to Rule 154, the Taxing Officer, Bruce Preston, should have considered the amounts in issue, the importance and complexity of the issues, and the volume of work;
+5. The Court ought to take into consideration the efforts of these representative taxpayers to accommodate Canada Revenue Agency and the related importance and complexity of the legal and factual issues and the consequential reduction, the required legal, administrative and judicial time that was accomplished in this matter;
+6. That in addition, the Court ought to assess the efforts of these Representative Taxpayers to accommodate Canada Revenue Agency on their own behalf and that of their representatives. The Respondent got the benefit of saving time, energy and the cost of not dealing with hundreds of applications while these Representative Taxpayers sacrificed their time and resources without benefit from the process. They have not been indemnified by the group of over 300 Stellar Investor Taxpayers; and
+7. This Honourable Court can and with respect should interfere with the Taxation Officer’s discretion with respect to the costs as well as the amounts allowed are inappropriate in light of the exceptional circumstances of these Representative Taxpayers in the case at bar.
+[3] Section 147 of the Rules reads as follows:
+147. (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+[4] Section 159 of the Rules reads as follows:
+Review of Taxation
+159. Upon motion of a party who is dissatisfied with the taxation, made within thirty days of the date of a certificate of costs, the Court may review the taxation and give such direction as may be just.
+[5] The Motion was heard by Justice Hershfield of the Tax Court in Calgary, Alberta on January 26, 2011.
+[6] During that hearing, Mr. Shea, Counsel for the Appellants, said:
+… The only issue we -- we bring before you today is the application -- is to seek to have the Court apply its discretion pursuant to the general procedural rules -- the general practice rules of the -- of the Court, and in particular those that are contained in -- in Section 147. The -- it’s -- it’s clear that we -- the four appellants before you, and it is my friend’s and I’s position is that all matters can be dealt with in the same fashion. There’s nothing that distinguishes Mr. Storwick from Mr. Madell, Mr. Caputo, and Mr. Falkenberg, save and [except] of the fact that Mr. Madell did appeal and was the face of the appeal for the “Group” and that appeal was -- was also eventually dismissed. But today we’re dealing with the Tax Court in the application of the -- the discretion that is available to the Tax Court to deal with its -- its own internal affairs.
+(Transcript, page 3 line 15 to page 4, line 9)
+… in the notice of motion that it -- it sets forth our -- our goals in terms of we perceive that the rules -- the general practice rules -- in particular Section 147 grants the presiding judge broad discretionary powers over the payment of costs of all parties.
+(Transcript, page 4, line 22 to page 5, line 3)
+[7] At page 16 of the transcript, Mr. Shea said:
+… In the course of bringing the matter to this final form of a representative action - - and that’s my word because there is no class procedure, or specific procedure available under the -- the Tax Court and the Income Tax Act, there were numerous status hearing[s] involving counsel for the parties and the Honourable Judge D.G. H. Bowman, then Associate Chief Justice of the -- of the Court. The Court endorsed the representative concept and subsequently in the course of all those status hearings he directed that the 400 plus de facto notices of appeal by taxpayers in the appellant group had their matters held pending the outcome of these representative actions.
+(Transcript, page 16, lines 8 to 23)
+[8] At page 23 of the transcript, Mr. Shea said:
+… What we’re suggesting is that in the circumstances because they came forward as volunteers to assist themselves -- I don’t want to have the Court lose sight of that, but they assisted the system and the Court in allowing the disposition of all these -- all these matters with this four part -- four individual taxpayers presentation on common evidence as was -- as is set forth. And it -- I -- I agree with the general practice of the Court that to the victor go the laurel, and -- and in this case my friend’s client’s clearly was -- to use that term, victorious. All -- all we’re suggesting to the Court is that -- is that the costs -- we don’t challenge the costs that we’re -- the number of the costs that were awarded, nor the disbursements that she has -- she put forward for it. It’s simply put, special circumstances -- special circumstances that support, in our view, the exercise of the Court’s discretion, the special circumstances being the enormous savings of time and effort to dispose of -- to determine the issues that were outlined in Mr. Ho’s proposal letter. I think under the -- under the general practice rules dealing with Section 147, that -- well, they’re replete.
+(Transcript, page 23, line 8 to page 24, line 10)
+[9] Chang Du, Counsel for the Respondent, said:
+With respect to all four matters was that – that we saw as facts was that the appeals from the assessment made under the Income Tax Act for whatever taxation years for each, are dismissed with costs in accordance with the reasons and judgment, so that was with respect to all four test cases, so Justice Little directed that it was with costs.
+(Transcript, page 34, line 18 to page 35, line 1)
+[10] At page 36 of the transcript, Counsel for the Respondent said:
+Yes, sir, and our submission would be that this Court right now is under section 159 of the Tax Court Rules. Section 159 of the Tax Court Rules says, “Upon a motion of a party who is dissatisfied with a taxation,” so it’s taxation of the taxing officer in this case, Bruce Preston (ph), “Made within 30 days of the date of the certificate of costs, the Court may review the taxation and give such direction as may be just.” I believe the crux of this issue is the not towing the line of what is the jurisdiction of each Court. What my friend is asking is for you to stand in the place of Justice Little, who’s the presiding judge, who has the rules -- who has the power and the discretion under Section 147 of the Tax Court General Procedure Rules to make an order. So under Section 147 it states, “That the Court,” and in [this] case this is the Tax Court Judge Justice Little, “May determine the amount of the cost of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.” And subsection 3 talks about all the factors that he can take into account, including any and all of the factors that my friend has just alluded to and subsection 4 says, Justice Little can use schedule B or not, broad -- broad discretion and I apologize to my friend -- is that five? The only limitation of Justice Little is para subsection 7, which states, “That any party may within 30 days after the party has knowledge of the judgment, or after the Court has reached a conclusion as to judgment to -- to be pronounced at the time of the return of the motion for judgment, whether or not the judgment included any direction concerning costs apply to the Court,” and I’m saying that is to trial judge -- to Justice Little to request that directions be given to the taxing officer respecting any matter referred to in this section or in Sections 148 to 152, or that the Court reconsider its award of costs.” So that’s the limitation, Justice Little can make any cost order he deems fit, he was the presiding judge, the trial judge. His only limitation is unless he makes his order of cost[s] -- unless one of the parties within 30 days after that judgment speaks to it, that cost order stands, and even if Justice Little wanted to use the section we’re using right now -- Section 159 to review that order of costs after the 30 days, he cannot, and that is the case of Sports Collection Paris Inc. v. R, and that’s number 3, I think.
+(Transcript, page 36, line 5 to page 38, line 11)
+[11] At page 48 of the transcript, Counsel for the Respondent said:
+Well, I would just like, you know, aside from the jurisdiction, I mean, the rule, Section 159 has broad -- it’s -- it’s quite broad. It says, “The Court may review taxation -- the taxation and give such direction as may be just.” The wording is broad, but the case law is clear, that it is not a hearing de novo, it is not to be exercised with respect to the -- the Tax Court’s power at 147 to 154, it is right now under Section 159 this Court is an appellant court. The tax -- taxing officer, the taxing officer’s powers are limited to, “Were the bill of costs reasonable?” And I make note of this, sir, that my friend today, and at the time of the taxation doesn’t take any issue with the reasonableness of the bills of costs, made no issue with respect to quantum. Those issues could have been brought up at that time …
+(Transcript, page 48, line 11 to page 49, line 5)
+[12] Justice Hershfied issued an Order on January 26, 2011. This Order reads, in part, as follows:
+The motion, filed in this Court on November 4, 2010, is brought by the Appellants in the said appeals under section 159 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) which provides that the Court may review the taxation on motion of a party dissatisfied with it and give such direction as may be just; and
+The Appellants have brought the motion within the time limit provided for in section 159 of the Rules and thereby have standing to proceed;
+IT IS ORDERED THAT:
+1. the parties attend at a telephone conference with Justice Little at a time to be arranged by the Court in consultation with the parties.
+[13] On May 19, 2011, a conference call was heard by me in Vancouver, British Columbia. During the conference call, Mr. James Shea represented the Appellants and Ms. Chang Du represented the Respondent.
+[14] During the conference call, Counsel for the Respondent said:
+MS. DU: However, Justice Hershfield has not responded to the appellant's[s’] and the Crown's written submission with respect to the Section 159 theory. I believe Mr. Shea has mentioned Section 147(7) which is you as the trial judge reviewing your own cost order that was ordered more than three years ago.
+JUSTICE: Yes.
+MS. DU: That one they are totally out of time for, they did not ask for an extension of time. It's already gone to the Federal Court of Appeal and costs were ordered there also. So we are saying, sir, as the trial judge you are functus officio and that nothing has been done with respect to that. So the Crown's submission is, if this is a continuation of the Section 159 hearing, if that is what Justice Hershfield is saying in this order and if that's the way we are proceeding and you are the person who is going to review the appellant's[s’] and the Crown's written submissions with respect to that point, that's what has to occur. But if this is going to morph into a Section 147(7) hearing, we oppose that and that's not what the order says, the January 26th -- I'm sorry, the April –
+(Transcript, page 4, line 25 to page 5, line 21)
+[15] Counsel for the Appellants said:
+MR. SHEA: I guess that is the heavy question, sir, and obviously our position is the opposite of Ms. Du's. We are really seeking the application of the court discretion pursuant to the unusual circumstances of this case. And Ms. Du raises the point, and has raised the point before, that we would be, in her interpretation, out of time. So I don't know what we're -- Ms. Du and I have the same question as to how you are sitting. I think you are sitting dealing with the original issue of costs. But Ms. Du has raised this before and, to be fair, it is what was put before Judge Hershfield and his direction of April 6th is not necessarily totally in answer to her position.
+(Transcript, page 6, lines 1 to 13)
+CONCLUSION
+[16] The Appellants have made a Motion under section 159 of the Rules, but what they are actually asking the Court to do is exercise its discretion under subsection 147(7). Subsection 147(7) requires that a Motion to give directions to a Taxation Officer be brought within 30 days after the party becomes aware of a Judgment.
+[17] Since the Appellants appealed my decision in May 2008 to the Federal Court of Appeal in the same year, it is reasonable to assume the Appellants were aware of that Judgment in 2008. Since it is three years later, they have, long since run out of time to file a motion under section 147. Based on the Courts reasoning found in Sport Collection Paris Inc. v The Queen, 2007 TCC 216, [2007] T.C.J. No. 582, I have no discretion to extend the time limit in the circumstances of this case.
+[18] Further, I wish to note that since the Appellants do not contest the validity of the Taxation Officer's decision on the Certificate of Costs issued October 7, 2010, there are no grounds to issue an order under section 159.
+[19] I have reached this conclusion with some regret because I believe that Mr. Shea and the four Appellants cooperated with officials of the Canada Revenue Agency and the Department of Justice to enable the appeals to proceed with four test cases rather then dealing with approximately 350 appeals. In my opinion, it would be fair, reasonable and proper for the 350 individuals for whom the four test cases were heard to indemnify the four Appellants for their costs. However, I do not have the authority to order the 350 individuals to make such an indemnification. In my view, the Rules of the Court should require that individuals who have agreed to have their appeals heard as test cases should be required to indemnify the Appellants who agreed to this process.
+[20] The Appellants’ Motion is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 22nd day of July 2011.
+"L.M. Little"
+Little J.
+CITATION: 2011 TCC 364
+COURT FILE NO.: 2003-1118(IT)G
+STYLE OF CAUSE: Ronald Caputo,
+Mervin Falkenberg,
+John Storwick Sr.,
+Garret Madell,
+and Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 19, 2011
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: July 22, 2011
+APPEARANCES:
+Counsel for the Appellants:
+James G. Shea
+Counsel for the Respondent:
+Chang Du
+COUNSEL OF RECORD:
+For the Appellants:
+Name: James G. Shea
+Firm: Shea Nerlandcalnan LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

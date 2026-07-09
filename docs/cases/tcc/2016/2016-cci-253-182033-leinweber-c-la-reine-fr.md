@@ -1,0 +1,190 @@
+---
+title: "Leinweber c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/182033/index.do"
+last_modified: "2016-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 253"
+citation2: ""
+neutral_citation: "2016 CCI 253"
+decision_date: "2016-11-07"
+language: "fr"
+item_id: "182033"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2997
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:48:45.484000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f89667d2655fabd4636f2415366a0b3de47982ce72139ac5be2111e4475b4cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leinweber c. La Reine
+
+- Citation: 2016 CCI 253
+- Decision date: 2016-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2997, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leinweber c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-07
+Référence neutre
+2016 CCI 253
+Numéro de dossier
+2015-787(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-787(IT)I
+ENTRE :
+JEFF LEINWEBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 29 septembre 2016, à Winnipeg (Manitoba)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Neil Goodridge
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2016.
+« V.A. Miller »
+La juge V. A. Miller
+Référence : 2016 CCI 253
+Date : 20161107
+Dossier : 2015-787(IT)I
+ENTRE :
+JEFF LEINWEBER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] La question à trancher dans le présent appel consiste à savoir si M. Leinweber a le droit de demander le crédit équivalent pour personne entièrement à charge et le montant pour enfant à l’égard de sa fille « S » pour l’année d’imposition 2012.
+[2] M. Leinweber était le seul à témoigner à l’audience.
+Les faits [3] M. Leinweber et son ex-épouse se sont mariés en 2003 et ont eu deux enfants pendant leur mariage. Ils ont commencé à vivre séparés le 11 décembre 2011, et le 14 décembre 2012, ils ont conclu un accord de séparation.
+[4] Selon l’accord de séparation, M. Leinweber devait payer à son épouse une pension alimentaire pour enfants d’un montant mensuel de 472 $. Le paragraphe 7.01 de l’accord de séparation est libellé comme suit :
+[traduction]
+7.01 À compter du 1er juillet 2012, l’époux devra payer à l’épouse une pension alimentaire pour enfants, conformément aux tables annexées au Règlement concernant les lignes directrices sur les pensions alimentaires pour enfants du Manitoba, d’un montant mensuel de 472 $, payable en versements égaux de 236 $ le premier et le quinzième jour de chaque mois par la suite. Ce montant représente la pension alimentaire pour enfants compensée en fonction des revenus estimatifs des parties pour 2012 selon leurs revenus d’emploi bruts à la 15e période de paye sur 26 périodes de paye en 2012.
+[5] Les parties ont convenu que l’accord de séparation demeurerait en vigueur après la dissolution du mariage et que les conditions de l’accord de séparation [traduction] « demeureront en vigueur nonobstant le prononcé d’un jugement de divorce ».
+[6] En 2012, M. Leinweber a versé 472 $ chaque mois à son ex-épouse conformément à l’accord de séparation.
+[7] M. Leinweber et son ex-épouse ont divorcé le 11 mars 2013 et une ordonnance définitive a été rendue à cette date par la Cour du Banc de la Reine du Manitoba (division de la famille). L’ordonnance définitive a réaffirmé que M. Leinweber devait payer une pension alimentaire mensuelle de 472 $ à son ex‑épouse. Le paragraphe pertinent de l’ordonnance définitive se lit comme suit :
+[traduction]
+7.0.13 JEFFREY PAUL LEINWEBER paye JENNIFER IVY HOLLAND LEINWEBER qui a la garde partagée de « S », née en 2006 et de M, né en 2008, JEFFREY PAUL LEINWEBER verse une pension alimentaire à JENNIFER IVY HOLLAND LEINWEBER d’un montant de 472 $ par mois en versements de 236 $, le premier et le quinzième jour de chaque mois à compter du 15 décembre 2012, jusqu’à ce que la Cour prononce une nouvelle ordonnance[.]
+[8] Dans sa déclaration de revenus pour l’année d’imposition 2012, M. Leinweber a demandé un crédit au titre du montant pour personne à charge de 10 822 $ et un crédit au titre du montant pour enfant de 2 191 $ (les « crédits d’impôt ») à l’égard de l’un de ses enfants.
+[9] Par avis daté du 6 mars 2014, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de la dette fiscale de 2012 de M. Leinweber afin de refuser d’accorder les crédits d’impôt. Le motif invoqué pour justifier la nouvelle cotisation était que M. Leinweber était tenu de payer une pension alimentaire à son ex-épouse.
+[10] Afin de remplir les conditions requises pour demander les crédits d’impôt, M. Leinweber et son ex-épouse ont préparé un addenda à l’accord de séparation (l’« addenda ») le 17 mars 2014. Dans l’addenda, M. Leinweber et son ex-épouse ont convenu de retirer le paragraphe 7.01 de l’accord de séparation. À la place, ils ont convenu des modalités suivantes à l’égard de la pension alimentaire pour enfants :
+[traduction]
+3.02 Les parties ont pris en considération tous les aspects des dispositions relatives à la garde partagée énoncées dans les Lignes directrices sur les pensions alimentaires pour enfants, notamment les niveaux de vie, et qu’afin de se conformer aux dispositions de la Loi de l’impôt sur le revenu visant à permettre à chaque partie de demander un crédit équivalent du montant pour conjoint à l’égard d’un enfant conformément au paragraphe 7.14 de l’accord des parties, JEFFREY est tenu de verser chaque mois à JENNIFER un montant établi selon les principes de compensation qui, à ces fins, sera défini comme JEFFREY versant à JENNIFER une pension alimentaire pour enfants de 1 284 $ par mois pour les deux enfants et JENNIFER versant à JEFFREY une pension alimentaire pour enfants de 812 $ par mois pour les deux enfants, soit un paiement net dû et exigible de 472 $ par mois à JENNIFER, payable en versements mensuels égaux de 236 $ chacun le 1er et le 15e jour du mois, à partir du 1er juillet 2012, jusqu’à ce que les parties concluent un nouvel accord ou que la Cour prononce une nouvelle ordonnance.
+[11] Le ministre a confirmé la nouvelle cotisation pour l’année d’imposition 2012 et s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) l’ex-épouse de M. Leinweber est Jennifer Ivy Holland Leinweber (définie précédemment comme l’ex-épouse);
+b) M. Leinweber et l’ex-épouse sont les parents des enfants;
+c) les enfants sont « S », née en 2006 et « M », né en 2008;
+d) dans sa déclaration de revenus personnelle de 2012, M. Leinweber a demandé les montants à l’égard de « S »;
+e) selon un accord conclu le 14 décembre 2012 (l’« accord »), M. Leinweber était tenu de payer à l’ex-épouse une pension alimentaire pour enfants de 472 $ par mois, à partir du 1er juillet 2012;
+f) l’ex-épouse n’était pas tenue de payer à M. Leinweber une pension alimentaire pour enfants aux termes de cet accord;
+g) aux termes de l’addenda à l’accord conclu le 17 mars 2014 (l’« addenda »), aucune modification n’a été apportée à l’obligation de M. Leinweber de verser à l’ex-épouse une pension alimentaire pour enfants de 472 $ par mois, à partir du 1er juillet 2012;
+h) l’ex-épouse n’était pas tenue de payer à M. Leinweber une pension alimentaire pour enfants aux termes de cet addenda.
+[12] Le 8 septembre 2016, M. Leinweber et son ex-épouse ont présenté une requête en modification d’une ordonnance définitive qui a été prononcée le 11 mars 2013. L’ordonnance de modification a été rendue le 15 septembre 2016, de sorte que le paragraphe 7.0.13 de l’ordonnance définitive a été supprimé et remplacé par ce qui suit :
+[traduction]
+7.0.13 JEFFREY PAUL LEINWEBER paye à JENNIFER IVY HOLLAND LEINWEBER la somme de 1 284 $ par mois pour « S », née en 2006, et « M », né en 2008, et JENNIFER IVY HOLLAND LEINWEBER paye à JEFFREY PAUL LEINWEBER la somme de 812 $ par mois pour « S », née en 2006, et « M », né en 2008, soit un paiement net de 472 $ par mois à JENNIFER IVY HOLLAND LEINWEBER, payable en versements mensuels égaux de 236 $ chacun, le 1er et le 15e jour du mois, à partir du 1er juillet 2012, jusqu’à ce qu’une nouvelle ordonnance soit rendue.
+Loi [13] Aux fins des crédits d’impôt, les termes « personne entièrement à charge » et « montant pour enfant » sont définis comme suit au paragraphe 118(1) de la Loi de l’impôt sur le revenu (« LIR ») :
+118. (1) [...] dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+Crédit équivalent pour personne entièrement à charge
+b) le total de 10 527 $ et de la somme obtenue par la formule ci-après si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i)
+ d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+ (A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+ (B) elle est entièrement à charge soit du particulier, soit du particulier et d’une ou de plusieurs de ces autres personnes,
+ (C) elle est liée au particulier,
+ (D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique,
+[...]
+Montant pour enfant
+b.1) celle des sommes ci-après qui est applicable :
+(i) pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et qui réside habituellement, tout au long de l’année, avec le particulier et un autre parent de l’enfant, le total des sommes suivantes :
+ (A) 2 131 $,
+ (B) 2 000 $, si l’enfant, en raison d’une infirmité mentale ou physique, dépendra vraisemblablement d’autrui, pour une longue période continue d’une durée indéterminée, pour ses besoins et soins personnels, et ce dans une mesure plus importante que d’autres enfants du même âge,
+(ii) sauf en cas d’application du sous-alinéa (i), pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et à l’égard duquel le particulier peut déduire une somme en application de l’alinéa b), ou pourrait déduire une telle somme si l’alinéa (4)a) et le passage « ou pour le même établissement domestique autonome » à l’alinéa (4)b) ne s’appliquaient pas à lui pour l’année et si l’enfant n’avait pas de revenu pour l’année, le total des sommes suivantes : [...]
+(4) Les règles suivantes s’appliquent aux déductions prévues au paragraphe (1) : [...]
+b) un seul particulier a droit pour une année d’imposition à une déduction prévue au paragraphe (1), par application de l’alinéa (1)b), pour la même personne ou pour le même établissement domestique autonome; dans le cas où plusieurs particuliers auraient droit par ailleurs à cette déduction, mais ne s’entendent pas sur celui d’entre eux qui la fait, elle n’est accordée à aucun d’eux pour l’année;
+b.1) un seul particulier a droit pour une année d’imposition à une déduction prévue au paragraphe (1), par application de l’alinéa (1)b.1), pour le même enfant; dans le cas où plusieurs particuliers auraient droit par ailleurs à cette déduction, mais ne s’entendent pas sur celui d’entre eux qui la fait, elle n’est accordée à aucun d’eux pour l’année; [...]
+(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas : [...] [Non souligné dans l’original.]
+Non-application du par. (5)
+(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+[14] Le terme « pension alimentaire » est défini de la façon suivante au paragraphe 56.1(4) de la Loi :
+56.1 (4) [...] pension alimentaire Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province. (support amount)
+Analyse [15] M. Leinweber et son ex-épouse ont tenté d’éviter l’application du paragraphe 118(5) de la Loi afin que le paragraphe 118(5.1) s’applique à leurs circonstances. Ils ont modifié leur accord de séparation en incluant l’addenda, et lorsque cela ne s’est pas avéré efficace pour éviter l’application du paragraphe 118(5), ils ont fait modifier l’ordonnance définitive.
+[16] Je suis d’avis que M. Leinweber n’a pas réussi à éviter l’application du paragraphe 118(5). Ni l’addenda ni l’ordonnance de modification n’obligeaient l’ex-épouse à payer une « pension alimentaire » au sens du paragraphe 56.1(4).
+[17] L’addenda énonçait clairement que M. Leinweber [traduction] « est tenu de verser » à son ex-épouse un montant établi selon le principe de la compensation. Les parties ont défini [traduction] « les principes de compensation » comme étant [traduction] « Jeffrey versant à Jennifer » et [traduction] « Jennifer versant à Jeffrey ». Cela ne suffit pas pour respecter la définition de « pension alimentaire » du paragraphe 56.1(4).
+[18] Le bénéficiaire d’une pension alimentaire doit avoir la discrétion d’utiliser le montant comme bon lui semble. Selon les modalités de l’addenda, seul M. Leinweber versait réellement un montant. Par conséquent, seule Jennifer recevait une pension alimentaire parce qu’elle était la seule à pouvoir utiliser le montant à sa discrétion conformément au paragraphe 56.1(4).
+[19] Même si l’ordonnance de modification obligeait M. Leinweber et son ex‑épouse à payer chacun une pension alimentaire, elle enjoignait M. Leinbake à verser un [traduction] « paiement net » à son ex-épouse. Encore une fois, seul M. Leinweber est tenu de payer une pension alimentaire, et seule son ex-épouse a le pouvoir d’utiliser le montant à sa discrétion conformément au paragraphe 56.1(4).
+[20] En outre, l’ordonnance de modification n’a pas d’effet rétroactif. Elle entre en vigueur à compter de la date de l’ordonnance de modification, soit le 15 septembre 2016. Rien dans l’ordonnance de modification ne prévoit qu’elle s’applique rétroactivement à compter du 1er juillet 2012.
+[21] Tout comme dans l’arrêt Verones c. Canada, 2013 CAF 69, la véritable question en l’espèce ne porte pas sur le principe de la compensation. Il s’agit de savoir si M. Leinweber était le seul parent à effectuer un « paiement de pension alimentaire pour enfants » aux termes « de l’ordonnance d’un tribunal compétent ou d’un accord ». Il est évident qu’il convient de répondre par l’affirmative à cette question. Les deux parents avaient peut-être l’obligation de subvenir aux besoins de leurs enfants, mais selon la formulation de l’addenda et de l’ordonnance de modification, cette obligation se traduisait par le seul paiement de M. Leinweber à son ex-épouse. Il effectuait le paiement net de leurs deux obligations.
+[22] Le paragraphe 118(5.1) ne s’applique pas parce que les deux parents ne consentaient pas à payer une pension alimentaire ou n’étaient pas tenus d’en payer une.
+[23] Malheureusement, je dois rejeter l’appel de M. Leinweber.
+[24] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2016.
+« V.A. Miller »
+La juge V. A. Miller
+RÉFÉRENCE :
+2016 CCI 253
+No DU DOSSIER DE LA COUR :
+2015-787(IT)I
+INTITULÉ :
+JEFF LEINWEBER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 29 septembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 7 novembre 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Neil Goodridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

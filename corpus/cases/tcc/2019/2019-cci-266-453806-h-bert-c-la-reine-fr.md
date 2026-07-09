@@ -1,0 +1,210 @@
+---
+title: "Hébert c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/453806/index.do"
+last_modified: "2019-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 266"
+citation2: ""
+neutral_citation: "2019 CCI 266"
+decision_date: "2019-11-27"
+language: "fr"
+item_id: "453806"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4287
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:05:47.310000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9a578a61bcc8af5edd9bc2dea2fcd3c97bd2e1b8dd82895c2e4ef67d88bc105"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hébert c. La Reine
+
+- Citation: 2019 CCI 266
+- Decision date: 2019-11-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4287, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hébert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-27
+Référence neutre
+2019 CCI 266
+Numéro de dossier
+2019-1671(IT)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1671(IT)I
+ENTRE :
+PAUL HÉBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 31 octobre 2019, à Montréal (Québec)
+Devant : L'Honorable juge Dominique Lafleur
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2014, 2015 et 2016 est admis, sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national (le ministre) pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations en tenant compte de ce qui suit :
+i) Pour l’année d’imposition 2014, l’appelant a droit, dans le calcul de son revenu d’entreprise, à une déduction additionnelle de 1 271 $, à titre de dépenses pour l’entretien du jardin;
+ii) Pour l’année d’imposition 2015, vu les concessions faites par le ministre au début de l’audience, l’appelant a droit, dans le calcul de son revenu d’entreprise, à une déduction additionnelle de 5 616 $, à titre de dépenses pour frais de bureau;
+iii) Pour l’année d’imposition 2016, un montant de 11 123,57 $ doit être ajouté dans le calcul du revenu net d’entreprise de l’appelant, au lieu d’un montant de 14 331 $.
+Signé à Ottawa, Canada, ce 27e jour de novembre 2019.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2019 CCI 266
+Date : 20191127
+Dossier : 2019-1671(IT)I
+ENTRE :
+PAUL HÉBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge Lafleur
+[1] M. Paul Hébert interjette appel à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») au titre de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2014, 2015 et 2016.
+[2] Dans le calcul de son revenu d’entreprise pour les années d’imposition 2014 et 2015, M. Hébert a déduit certaines dépenses, mais les déductions ont été refusées par le ministre. Au début de l’audience, le ministre a concédé que les frais de bureau au montant de 5 616 $, dont la déduction avait été refusée dans le calcul du revenu d’entreprise pour l’année d’imposition 2015, étaient déductibles dans le calcul du revenu d’entreprise de M. Hébert. Ainsi, cette concession par le ministre met fin au débat pour l’année d’imposition 2015.
+[3] En ce qui concerne l’année d’imposition 2016, le ministre a ajouté dans le calcul du revenu net d’entreprise de M. Hébert un montant de 14 331 $. Cette somme représente la somme reçue par celui-ci, nette des honoraires d’avocat et frais juridiques encourus, par suite du recouvrement d’une créance qu’il avait sur la société Robert Hardy Inc. (« Hardy »), laquelle créance était précédemment considérée comme une créance irrécouvrable et avait été déduite en tant que telle dans le calcul du revenu d’entreprise de M. Hébert pour l’année d’imposition 2014.
+[4] Ainsi, seules les questions touchant les nouvelles cotisations établies pour les années d’imposition 2014 et 2016 demeurent en litige devant la Cour, soit :
+a) M. Hébert a-t-il le droit de déduire à titre de dépenses des frais d’utilisation de sa résidence totalisant 8 516 $, qu’il dit avoir engagés en vue de tirer un revenu d’une entreprise au cours de l’année d’imposition 2014?
+b) M. Hébert doit-il inclure dans son revenu d’entreprise pour l’année d’imposition 2016 un montant de 14 331 $ reçu par lui à la suite du règlement intervenu avec Hardy?
+[5] M. Hébert de même que M. Tremblay, vérificateur à l’Agence du revenu du Canada (l’« ARC »), ont témoigné à l’audience.
+[6] Dans ces motifs, toute disposition législative à laquelle il est fait référence est une disposition de la Loi, sauf indication contraire.
+I. LES FAITS
+[7] M. Hébert est membre de l’Ordre des ingénieurs du Québec depuis 1969 et de l’Institut de médiation et d’arbitrage du Québec depuis 1994. Après avoir travaillé de nombreuses années à titre d’ingénieur en génie civil au sein de sa propre entreprise et après avoir vendu celle-ci, M. Hébert a lancé en 2011 son entreprise de consultant, offrant à titre personnel, des services d’expertise et des services d’appoint en génie civil.
+[8] De plus, M. Hébert est chargé de cours à l’École de technologie supérieure. Il y enseigne une journée par semaine à la session d’automne et deux journées par semaine à la session d’hiver.
+Année d’imposition 2014
+[9] Pour l’année d’imposition 2014, M. Hébert a déclaré des revenus d’entreprise de 150 528 $ et il a déduit des dépenses totalisant 113 330 $, pour un revenu net d’entreprise de 37 198 $. Le litige porte sur la déduction de frais d’utilisation de la résidence personnelle totalisant 8 516 $.
+[10] M. Hébert utilise le sous-sol de sa résidence personnelle aux fins de son entreprise. Les parties ont convenu que 35,83 % de la résidence était utilisé aux fins d’affaires.
+[11] M. Hébert a déduit à titre de dépenses d’entreprise des montants totalisant 1 271 $ payés pour l’entretien du jardin, pour la plantation de fleurs annuelles et pour les décorations de Noël (les « dépenses de jardin »); des montants totalisant 1 401 $ payés pour l’entretien de la piscine, y compris l’ouverture et la fermeture de la piscine de même que des réparations à celle-ci (les « dépenses de piscine » ); et des montants totalisant 5 844 $ payés pour l’enlèvement du foyer dans le salon de la résidence et pour des travaux de finition à la suite de l’enlèvement du foyer (les « dépenses de foyer » ). Ces dépenses représentent 35,83 % des dépenses totales effectuées par M. Hébert à cet égard.
+[12] Les dépenses de jardin ont été faites auprès de l’entreprise Art & Jardins, qui fournit à M. Hébert des services d’entretien depuis onze ans.
+[13] Selon M. Hébert, il tenait parfois des séances d’arbitrage au bord de sa piscine, située à l’arrière de la résidence. M. Hébert a témoigné que ni son épouse ni lui n’utilisaient vraiment la piscine, celle-ci étant plutôt utilisée par ses clients. Il a témoigné en outre qu’il encourait également des dépenses d’entretien pour la piscine avant de lancer son entreprise.
+[14] M. Hébert a également produit en preuve des photos de sa résidence. Selon M. Hébert, le salon n’était pas vraiment utilisé par lui et son épouse, puisqu’il ne s’y trouvait pas de téléviseur. À la suite de la démolition du foyer, un second divan a pu être installé dans le salon, ce qui permettait d’y tenir des rencontres d’arbitrage dans le cadre enchanteur de sa résidence avec vue sur la rivière. Il a témoigné que le salon pouvait être utilisé une fois à tous les deux mois environ pour tenir ce genre de rencontres. Ainsi, il pouvait économiser sur les frais qu’il aurait eu à payer au Club Saint-James s’il y avait tenu de telles rencontres. De même, cette démolition lui permettait d’être en règle avec la règlementation de la Ville, qui interdisait l’utilisation des foyers à bois.
+Année d’imposition 2016
+[15] M. Hébert a témoigné que Hardy, une entreprise de maçonnerie, avait été engagée pour réparer la façade d’un immeuble situé à Montréal. Lorsque l’entrepreneur s’est présenté sur le chantier pour faire les travaux, il a remarqué que la façade s’était détachée de l’immeuble et que des travaux en sous-œuvre devaient être effectués avant d’entreprendre la réfection de la façade. Il a donc fait appel aux services d’ingénierie de M. Hébert pour déterminer les travaux à effectuer. Le propriétaire de l’immeuble a toutefois refusé de payer les frais engagés par Hardy. Par la suite, M. Hébert a également été engagé à titre d’expert dans le cadre de la poursuite intentée par Hardy contre le propriétaire de l’immeuble. M. Hébert a témoigné qu’il n’avait pas facturé tous les honoraires qu’il aurait dû demander, vu les énormes pertes subies par l’entrepreneur dans le cadre de ce chantier.
+[16] La copie du grand livre de 2014 pour l’entreprise de M. Hébert, qui a été produite en preuve, démontre que les comptes à recevoir de Hardy totalisaient 24 612,10 $. M. Hébert a dû déposer une requête introductive d’instance pour recouvrer les honoraires dus par l’entrepreneur. À titre de règlement, et selon la Convention de règlement et de transaction intervenue entre M. Hébert et Hardy, la créance a été payée par Hardy en totalité. Toutefois, le cabinet d’avocats retenu par M. Hébert pour le représenter dans cette affaire lui a facturé une somme de 10 282,43 $ à titre d’honoraires d’avocat et frais juridiques. Ainsi, M. Hébert a reçu un montant net de 14 329,67 $.
+[17] Le vérificateur a indiqué que la nouvelle cotisation pour l’année 2016 avait été établie conformément à ce que le comptable de M. Hébert avait indiqué dans une lettre envoyée à l’ARC. En effet, le comptable de M. Hébert avait demandé qu’un montant de 14 331 $ soit ajouté dans le calcul du revenu net d’entreprise de M. Hébert pour l’année 2016 puisqu’une déduction pour créance douteuse avait été accordée par le ministre pour l’année 2014 à l’égard de cette créance.
+II. LA LOI
+[18] Pour l’année d’imposition 2014, les dispositions pertinentes de la Loi sont le paragraphe 9(1), les alinéas 18(1)a) et h), de même que le paragraphe 248(1):
+9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+18(1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[...]
+h) Frais personnels ou de subsistance — le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[…]
+248(1)
+frais personnels ou de subsistance Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+b) les dépenses, primes ou autres frais afférents à une police d’assurance, un contrat de rentes ou à d’autres contrats de ce genre, si le produit de la police ou du contrat est payable au contribuable ou à une personne unie à lui par les liens du sang, du mariage, de l’union de fait ou de l’adoption, ou au profit du contribuable ou de cette personne;
+c) les dépenses inhérentes aux biens entretenus par une succession ou une fiducie au profit du contribuable à titre de bénéficiaire.
+[19] Pour l’année d’imposition 2016, les dispositions pertinentes de la Loi sont les alinéas 12(1)i) et 20(1)p) :
+12 (1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+Créances irrécouvrables
+i) les sommes reçues au cours de l’année — sauf si elles sont visées à l’alinéa i.1) — sur une créance, un prêt ou un titre de crédit qui a fait l’objet d’une déduction pour créance irrécouvrable ou pour prêt ou titre de crédit irrécouvrable dans le calcul du revenu du contribuable pour une année d’imposition antérieure;
+20 (1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenusou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+Créances irrécouvrables
+p) le total des montants suivants :
+(i) les créances du contribuable qu’il a établies comme étant devenues irrécouvrables au cours de l’année et qui sont incluses dans le calcul de son revenu pour l’année ou pour une année d’imposition antérieure,
+(ii) […]
+III. ANALYSE
+Année d’imposition 2014
+[20] Le paragraphe 9(1) prévoit que le revenu qu’un contribuable tire d’une entreprise pour une année d’imposition est le bénéfice qu’il en tire pour cette année. Le terme « bénéfice » n’est pas défini dans la Loi. En vertu du paragraphe 9(1), le contribuable peut déduire les dépenses engagées en vue de réaliser ce bénéfice, sous réserve des restrictions prévues dans la Loi. L’alinéa 18(1)a) énonce une restriction générale applicable aux dépenses déductibles. Selon l’alinéa 18(1)a), un contribuable ne pourra déduire une dépense dans le calcul du revenu tiré d’une entreprise que si elle a été engagée ou effectuée en vue de tirer un revenu de l’entreprise. Également, l’alinéa 18(1)h) prévoit qu’une dépense représentant des frais personnels ou de subsistance ne pourra être déduite dans le calcul du revenu tiré de l’entreprise.
+[21] Selon l’intimée, les dépenses de jardin, les dépenses de piscine et les dépenses de foyer représentent des « frais personnels ou de subsistance » de M. Hébert qui, selon l’alinéa 18(1)h), ne sont pas déductibles dans le calcul du revenu tiré de son entreprise. La question de savoir si le montant des dépenses est raisonnable n’est pas en litige.
+[22] Selon M. Hébert, toutes ces dépenses sont déductibles dans le calcul de son revenu d’entreprise. Les dépenses de jardin et les dépenses de piscine lui ont permis de pouvoir continuer à vaquer à ses activités professionnelles, puisque, autrement, il aurait été obligé de faire lui-même les travaux. M. Hébert a témoigné que sa résidence doit être impeccable parce qu’il y reçoit des clients. Également, il a indiqué que les clients utilisaient la piscine et qu’il a tenu des séances d’arbitrage au bord de celle-ci. Finalement, il a témoigné que l’enlèvement du foyer avait permis de pouvoir tenir des séances d’arbitrage dans le salon de la résidence en plus de respecter la réglementation de la Ville.
+[23] Pour les motifs suivants, les dépenses de jardin sont déductibles dans le calcul du revenu tiré de l’entreprise de M. Hébert puisque ces dépenses ont été engagées par M. Hébert en vue de tirer un revenu de son entreprise. Toutefois, les dépenses de piscine et les dépenses de foyer ne sont pas déductibles dans le calcul du revenu tiré de l’entreprise de M. Hébert puisqu’elles n’ont pas été engagées par M. Hébert en vue de tirer un revenu de son entreprise et elles représentent des frais personnels.
+[24] Le principe applicable pour déterminer la déductibilité d’une dépense comportant à la fois un élément personnel et un élément lié à l’entreprise a été revu par la Cour suprême du Canada dans l’arrêt Symes c. Canada, [1993] 4 R.C.S. 695. Dans cet arrêt, la question était de savoir si les frais de garde d’enfants engagés par une avocate pouvaient faire l’objet d’une déduction dans le calcul du revenu tiré de sa profession.
+[25] Le juge Iacobucci, pour la majorité, a conclu que, même si les frais de garde d’enfants étaient traditionnellement considérés comme des frais personnels et donc non déductibles, il fallait aussi examiner la question de savoir si ces frais étaient cependant déductibles en application de l’exception prévue à l’alinéa 18(1)a).
+[26] En d’autres termes, si un contribuable effectue une dépense en vue de tirer un revenu d’une entreprise, la déduction ne sera pas interdite en vertu de l’alinéa 18(1)h) même si la dépense comporte un élément personnel.
+[27] Le juge Iacobucci a fait les observations suivantes aux pages 735 et 736 :
+[…] ces notions exigent qu’on se demande si la dépense répond à un besoin de l’entreprise ou à un besoin du contribuable […] il y a un grand nombre de dépenses qu’on n’allègue jamais être des « frais personnels ». Pour ce qui les concerne, la méthode est normalement beaucoup plus objective et l’analyse se limite généralement à l’art. 9 de la Loi. Ce n’est que lorsqu’on allègue qu’une dépense constitue des « frais personnels » qu’il faut aller plus loin et se demander ce que signifie la notion de « besoin d’entreprise ».
+En conséquence, à la réflexion, on n’a proposé aucun critère qui améliorerait ou modifierait sensiblement un critère reposant directement sur le libellé de l’al. 18(1)a). L’analyse nous ramène à la source, et je peux simplement me poser la question suivante : l’appelante a-t-elle engagé des frais de garde d’enfants en vue de tirer un revenu de l’entreprise ou de faire produire un revenu à l’entreprise?
+[28] Il faut donc analyser l’objet pour lequel la dépense a été effectuée. Le juge Iacobucci a également énoncé un certain nombre de facteurs à prendre en compte pour décider si une dépense est déductible dans le calcul du revenu d’entreprise, à savoir :
+i) La dépense est-elle habituellement engagée par d’autres personnes dans une entreprise de même nature que celle du contribuable?
+ii) La déduction est‑elle ordinairement acceptée à titre de dépense d’entreprise par les comptables?
+iii) La dépense aurait‑elle été engagée si le contribuable ne visait pas la production d’un revenu d’entreprise?
+[29] Appliquant ces principes, je conclus que les dépenses de jardin sont déductibles dans le calcul du revenu d’entreprise de M. Hébert. En effet, les dépenses de jardin, bien que comportant un élément personnel, visaient à faire en sorte que la résidence, dont une certaine partie était utilisée à des fins d’affaires (35,83 %), fût en parfait état pour recevoir les clients de l’entreprise exploitée par M. Hébert. Ainsi, ces dépenses ont été engagées par M. Hébert en vue de tirer un revenu d’une entreprise. Ces dépenses représentent des dépenses d’entretien qui sont habituellement engagées par une personne exploitant une entreprise de même nature que celle de M. Hébert.
+[30] Selon l’intimée, comme la preuve a démontré un très faible achalandage à la résidence de M. Hébert, il n’y a pas de raison d’accorder la déduction de ces dépenses. Je ne peux retenir cet argument. La preuve a démontré que M. Hébert recevait bel et bien des clients à sa résidence. De plus, l’intimée ne remet pas en cause le fait que 35,83 % de la superficie de la résidence était utilisée aux fins d’affaires. Les dépenses de jardin dont M. Hébert a demandé la déduction représentent effectivement 35,83 % des dépenses totales engagées par celui-ci à cet égard au cours de l’année d’imposition 2014.
+[31] De plus, l’intimée prétend également que M. Hébert aurait engagé de telles dépenses d’entretien du jardin même s’il n’exploitait pas d’entreprise. Conséquemment, ces dépenses ne peuvent faire l’objet d’une déduction dans le calcul du revenu de l’entreprise. Toutefois, ayant conclu que les dépenses ont été engagées par M. Hébert en vue de tirer un revenu d’une entreprise et que ces dépenses représentent des dépenses habituelles d’entretien, je ne retiens pas cet argument.
+[32] Toutefois, les dépenses de piscine et les dépenses de foyer ne peuvent être déduites dans le calcul du revenu d’entreprise de M. Hébert.
+[33] Tout d’abord, en ce qui concerne les dépenses de piscine, le témoignage de M. Hébert ne m’a pas convaincue que ses clients utilisaient la piscine. M. Hébert a indiqué qu’il avait déjà tenu des séances d’arbitrage au bord de la piscine. Le témoignage de M. Hébert à cet égard est assez vague cependant. De plus, le fait que M. Hébert et son épouse n’utilisaient pas la piscine n’est pas pertinent pour décider de la déductibilité de ces dépenses.
+[34] Certains des critères énoncés ci-dessus permettent de répondre négativement à la question de savoir si les dépenses de piscine sont déductibles dans le calcul du revenu tiré de l’entreprise exploitée par M. Hébert. En effet, un contribuable exploitant le même type d’entreprise n’engagera habituellement pas ce type de dépenses. Une piscine n’est pas habituellement utilisée dans l’exploitation d’une entreprise fournissant des services d’ingénierie. Également, la preuve a démontré que ces dépenses auraient été engagées même si M. Hébert ne visait pas la production d’un revenu d’entreprise. Les dépenses de piscine ne sont donc pas déductibles dans le calcul du revenu tiré de l’entreprise de M. Hébert, selon l’alinéa 18(1)a). Ces dépenses constituent également des frais personnels dont la déduction est interdite selon l’alinéa 18(1)h).
+[35] En ce qui concerne les dépenses de foyer, le témoignage de M. Hébert ne m’a pas convaincue qu’il utilisait le salon dans le cadre de l’exploitation de son entreprise. M. Hébert a indiqué qu’il avait déjà fait des séances d’arbitrage dans le salon, et que le fait d’avoir enlevé le foyer avait permis d’y installer un second divan permettant la tenue de telles séances d’arbitrage. Toutefois, M. Hébert a indiqué qu’il ne contestait pas le pourcentage de 35,83 % d’utilisation de la superficie de sa résidence à des fins d’affaires. La preuve a démontré qu’il y avait au sous-sol, pour recevoir les clients, une pièce faisant partie de la superficie de la résidence utilisée aux fins d’affaires. En effet, à l’onglet 6 de la pièce I-1, en réponse à la demande du vérificateur de décrire les pièces de la résidence qui sont utilisées pour exploiter l’entreprise, M. Hébert a indiqué que le sous-sol en entier, qui avait une superficie de 668 pieds carrés et possédait sa propre entrée, était utilisé aux fins de l’entreprise : on y trouve un bureau de 187 pieds carrés, une salle de rencontre de 377 pieds carrés, une salle de bain de 48 pieds carrés et une salle d’entreposage de 56 pieds carrés. La résidence a une superficie totale de 1941 pieds carrés.
+[36] Appliquant les principes de l’arrêt Symes, je ne vois aucun lien entre l’objet des dépenses de foyer et l’exploitation de l’entreprise de M. Hébert. À cet égard, le témoignage de M. Hébert était vague : il a déclaré simplement qu’il avait déjà tenu des séances d’arbitrage dans son salon. Les dépenses de foyer auraient été engagées par M. Hébert même s’il n’exploitait pas une entreprise; et celles-ci n’auraient pas normalement été engagées par une personne exploitant le même type d’entreprise. Dans son témoignage, M. Hébert a également indiqué que cela lui avait permis de respecter la réglementation de la ville qui interdisait l’utilisation des foyers au bois, ce qui n’est pas en lien avec l’entreprise de M. Hébert.
+[37] Les dépenses de foyer ne sont donc pas déductibles dans le calcul du revenu tiré de l’entreprise de M. Hébert, selon l’alinéa 18(1)a). Ces dépenses constituent également des frais personnels dont la déduction est interdite selon l’alinéa 18(1)h).
+Année d’imposition 2016
+[38] Selon M. Hébert, aucune somme ne devrait être ajoutée dans le calcul de son revenu à la suite de la réception de la somme de 24 612,10 $ de Hardy dans le cadre du règlement de l’action sur compte. Tout d’abord, son avocat lui aurait confirmé que la somme reçue de Hardy dans le cadre du règlement n’était pas imposable puisqu’elle visait à compenser les pertes subies par M. Hébert dans le cadre du mandat lui ayant été confié par Hardy. De plus, selon M. Hébert, cette somme devrait recevoir le même traitement que les gains de loterie et donc ne devrait pas être imposable. M. Hébert a également indiqué que le code de déontologie applicable aux ingénieurs l’empêchait de mettre fin au mandat qu’il avait reçu de Hardy.
+[39] Pour les motifs suivants, les arguments de M. Hébert ne peuvent être retenus.
+[40] Les sommes qui ont été payées par Hardy à M. Hébert selon la Convention de règlement et de transaction s’élèvent à 24 612,10 $ et représentent les honoraires dus par Hardy à M. Hébert. Cette somme de 24 612,10 $ représente également le montant des comptes à recevoir indiqué dans le grand livre de l’entreprise de 2014. Cette somme ne peut être considérée comme un gain de loterie non imposable. De même, elle ne peut pas être considérée comme une compensation des pertes subies par M. Hébert dans le cadre du mandat professionnel qu’il a rempli pour Hardy.
+[41] L’alinéa 12(1)i) prévoit expressément que la somme à ajouter dans le calcul du revenu d’entreprise d’un contribuable est la somme reçue au cours de l’année « […] sur une créance […] qui a fait l’objet d’une déduction pour créance irrécouvrable […] ».
+[42] Appliquant l’alinéa 12(1)i), le ministre a considéré que la créance sur Hardy, qui avait fait l’objet d’une déduction pour créance irrécouvrable, était d’un montant total de 25 905 $. Également, le ministre a vraisemblablement considéré que les honoraires d’avocat et frais juridiques payés par M. Hébert dans le cadre de l’action sur compte représentaient des dépenses déductibles dans le calcul du revenu d’entreprise de M. Hébert pour l’année d’imposition 2016. Ainsi, le ministre a ajouté au revenu net d’entreprise de M. Hébert la somme de 14 331 $, soit, approximativement, la différence entre la somme de 24 612,10 $ reçue par M. Hébert et les honoraires d’avocat et frais juridiques de 10 282,43 $ engagés par celui-ci dans le cadre de l’action sur compte. La question de la déductibilité des honoraires d’avocat et frais juridiques n’est pas en litige, le ministre ayant dans les faits accordé une telle déduction en établissant la cotisation à l’égard de M. Hébert pour l’année d’imposition 2016.
+[43] Toutefois, tel qu’il est mentionné ci-dessus, la preuve a démontré que la créance sur Hardy qui a fait l’objet d’une déduction pour créance irrécouvrable selon l’alinéa 20(1)p) se limitait à un montant de 21 406 $ (pièce I-1, onglet 5). Les autres créances ayant fait l’objet d’une déduction pour créance irrécouvrable dans le calcul du revenu d’entreprise de M. Hébert pour l’année d’imposition 2014 sont les créances sur S. Tremblay (2 574 $) et sur PL Legris Maçonnerie (1 925 $).
+[44] Le document intitulé Convention de règlement et de transaction mentionne explicitement la somme due par Hardy à M. Hébert, qui s’élève à 24 612,10 $. Ainsi, les sommes recouvrées par M. Hébert au cours de l’année 2016 ne se rapportent qu’à la créance sur Hardy pour honoraires impayés, et non pas aux créances sur S. Tremblay ou sur PL Legris Maçonnerie.
+[45] En application de l’alinéa 12(1)i), seules les sommes reçues sur une créance ayant fait l’objet d’une déduction pour créance irrécouvrable sont à inclure dans le calcul du revenu d’entreprise dans l’année de réception de telles sommes. En l’espèce, puisque le montant accordé pour 2014 à titre de déduction pour créance irrécouvrable à l’égard de la créance sur Hardy s’élevait à 21 406 $, et non pas à 24 612,10 $, le montant à inclure dans le calcul du revenu d’entreprise de M. Hébert en 2016, selon l’alinéa 12(1)i), ne peut excéder ce montant de 21 406 $.
+[46] Tel qu’il est indiqué ci-dessus, puisque le ministre ne conteste pas la déductibilité des honoraires d’avocat et frais juridiques totalisant 10 282,43 $ engagés par M. Hébert dans le cadre de l’action sur compte, le montant qui doit être ajouté au revenu net d’entreprise de M. Hébert est la différence entre 21 406 $ (somme à inclure dans le calcul du revenu d’entreprise selon l’alinéa 12(1)i)) et 10 282,43 $ (somme déductible dans le calcul du revenu d’entreprise selon les règles générales de calcul du bénéfice selon l’article 9 et l’article 18), soit 11 123,57 $.
+IV. CONCLUSION
+[47] Pour toutes ces raisons, l’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2014, 2015 et 2016 est admis, sans dépens, et les nouvelles cotisations sont déférées au ministre pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations en tenant compte de ce qui suit :
+i) Pour l’année d’imposition 2014, l’appelant a droit, dans le calcul de son revenu d’entreprise, à une déduction additionnelle de 1 271 $ à titre de dépenses pour l’entretien du jardin;
+ii) Pour l’année d’imposition 2015, vu les concessions faites par le ministre au début de l’audience, l’appelant a droit, dans le calcul de son revenu d’entreprise, à une déduction additionnelle de 5 616 $ à titre de dépenses pour frais de bureau;
+iii) Pour l’année d’imposition 2016, un montant de 11 123,57 $ doit être ajouté dans le calcul du revenu net d’entreprise de l’appelant, au lieu d’un montant de 14 331 $.
+Signé à Ottawa, Canada, ce 27e jour de novembre 2019.
+« Dominique Lafleur »
+Juge Lafleur
+RÉFÉRENCE :
+2019 CCI 266
+Nº DU DOSSIER DE LA COUR :
+2019-1671(IT)I
+INTITULÉ DE LA CAUSE :
+PAUL HÉBERT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 31 octobre 2019
+MOTIFS DE JUGEMENT PAR :
+L'Honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 27 novembre 2019
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Julien Dubé-Senécal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+---
+title: "Tacilauskas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30911/index.do"
+last_modified: "2012-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 288"
+citation2: ""
+neutral_citation: "2012 CCI 288"
+decision_date: "2012-07-31"
+language: "fr"
+item_id: "30911"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7468
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:28:08.369000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c2b9bc6e57900254027994457b6fb705fa1ca21979c0fdd12288fa7665e0254"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tacilauskas c. La Reine
+
+- Citation: 2012 CCI 288
+- Decision date: 2012-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7468, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tacilauskas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-31
+Référence neutre
+2012 CCI 288
+Numéro de dossier
+2011-2745(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2745(IT)I
+ENTRE :
+ANDREW TACILAUSKAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 juin 2012 à Vancouver (Colombie‑Britannique).
+(les observations écrites ont été reçues ultérieurement)
+Par : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimée :
+Mme Mika Banerd (stagiaire en droit)
+Me Zachary Froese
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté.
+Signé à Toronto (Ontario), ce 31e jour de juillet 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 18e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 288
+Date : 20120731
+Dossier : 2011-2745(IT)I
+ENTRE :
+ANDREW TACILAUSKAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Lorsqu’Andrew Tacilauskas a omis de déclarer des revenus pour deux années de suite, une cotisation visant des pénalités fédérales et provinciales a été établie à son égard et chaque pénalité consistait en un montant de 13 050 $. La question à trancher est de savoir si la pénalité fédérale devrait être annulée pour des motifs de diligence raisonnable.
+[2] L’appel a été entendu sous le régime de la procédure informelle et l’appelant a accepté que l’allègement soit limité à la pénalité de 12 000 $.
+[3] M. Tacilauskas est un entrepreneur électricien qui fait affaire avec des associés à Whistler, en Colombie‑Britannique, depuis 2003. Les entreprises étaient exploitées par deux sociétés, à savoir West Systems Inc. (la « West Systems ») et Alpine Electric Ltd.(l’« Alpine Electric »)
+[4] Dans sa déclaration de revenus pour 2008, M. Tacilauskas a inclus un revenu total de 269 338 $ qui comprenait des dividendes imposables de 169 420 $ provenant de l’Alpine Electric. La déclaration de revenus ne comportait pas des dividendes imposables de 31 250 $ provenant de la West Systems.
+[5] Dans sa déclaration de revenus pour 2009, M. Tacilauskas a inclus un revenu total de 184 537 $ qui était entièrement constitué d’un revenu d’emploi. La déclaration ne comportait pas des dividendes imposables de 130 500 $ provenant de l’Alpine Electric.
+Analyse
+[6] Le paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « Loi ») impose une pénalité à un contribuable qui omet de déclarer un revenu avec exactitude dans deux déclarations de revenus sur une période de quatre ans. La pénalité est égale à 10 % du montant de la deuxième omission. En l’espèce, la pénalité est de 13 050 $.
+[7] Le paragraphe 163(1) de la Loi est ainsi libellé :
+163(1) Omissions répétées de déclarer un revenu
+Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+[8] Bien que le paragraphe 163(1) de la Loi ne prévoie pas expressément de moyen de défense fondé sur la diligence raisonnable, ce moyen de défense est reconnu par la Cour. De manière générale, si un contribuable a pris toutes les mesures raisonnables pour déclarer son revenu avec exactitude, la pénalité ne devrait pas être imposée. Cela exige habituellement que le contribuable prenne des mesures concrètes pour éviter le défaut de déclaration.
+[9] En l’espèce, la question est de savoir si M. Tacilauskas a pris toutes les mesures raisonnables pour éviter ces omissions de déclaration. J’ai conclu qu’il ne les avait pas prises.
+[10] Le problème découle du fait que les déclarations de revenus personnelles de M. Tacilauskas ont été établies par un autre comptable que celui qui s’occupait des sociétés West Systems et Alpine Electric.
+[11] En ce qui concerne sa déclaration de revenus personnelle pour 2008, M. Tacilauskas a supposé que le comptable avait inclus tous les dividendes qu’il avait reçus. Il s’avère que cela n’était pas correct et qu’un dividende provenant de la West Systems avait été omis. Le dividende était de 25 000 $ et le montant de cette omission était le dividende imposable majoré, soit 31 250 $.
+[12] Pour ce qui est de sa déclaration de revenus pour 2009, M. Tacilauskas n’a inclus qu’un revenu d’emploi et n’a pas inclus un dividende de 90 000 $ reçu de l’Alpine Electric. Le revenu qui avait été omis était le dividende imposable majoré, soit 130 500 $.
+[13] M. Tacilauskas a soutenu qu’en prévision des impôts payables pour 2009, il avait pris des dispositions avec la société Alpine Electric pour qu’elle effectue des retenues à la source supplémentaires de 1000 $ toutes les deux semaines.
+[14] M. Tacilauskas a déclaré que le problème résidait dans le fait que le comptable de l’Alpine Electric n’avait pas passé les écritures concernant les dividendes au moment où la déclaration de revenus personnelle pour 2009 avait été produite. M. Tacilauskas avait cru à tort que le comptable s’occuperait de tous les éléments qu’il fallait déclarer.
+[15] À mon avis, M. Tacilauskas n’a pas agi avec suffisamment de soin dans la production de ses déclarations de revenus pour 2008 et pour 2009 pour éviter que des revenus soient omis. Les dividendes représentaient de gros montants, et il incombait à M. Tacilauskas de prendre les mesures nécessaires pour faire en sorte qu’ils soient déclarés. Le fait de supposer qu’un comptable s’en occuperait n’était pas suffisant.
+[16] La pénalité prévue au paragraphe 163(1) de la Loi est axée sur le défaut d’inclure avec exactitude tous les revenus dans les déclarations. Ni le paiement de l’impôt ni l’établissement de feuillets T5 n’exonèrent le contribuable de cette obligation. Les mesures qui ont été prises n’étaient pas des mesures suffisamment proactives pour faire en sorte que tous les revenus provenant de la West Systems et de l’Alpine Electric soient inclus dans les déclarations de revenus.
+[17] La situation de M. Tacilauskas suscite de la compassion. Les pénalités fédérales et provinciales sont très élevées. J’ai l’impression que la pénalité totale (20 %) peut être semblable à l’impôt payable sur le dividende après qu’il ait été tenu compte du crédit d’impôt pour dividende. Le juge Jorré a récemment fait des observations sur la sévérité de ces pénalités dans la décision Knight c La Reine, 2012 CCI 118.
+[18] Bien que la pénalité soit sévère, ce caractère ne constitue pas un fondement pour accorder un redressement. La prérogative appartient au législateur fédéral et aux assemblées législatives provinciales pour ce qui est d’imposer les pénalités qu’ils estiment appropriées. La seule question à trancher est de savoir si M. Tacilauskas a pris des mesures raisonnables pour prévenir les défauts de déclaration de son revenu. Je conclus qu’il ne les a pas prises.
+[19] La cotisation visant la pénalité fédérale est confirmée et l’appel est rejeté.
+Signé à Toronto (Ontario), ce 31e jour de juillet 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 18e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 288
+No DU DOSSIER DE LA COUR : 2011-2745(IT)I
+INTITULÉ : ANDREW TACILAUSKAS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 18 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 31 juillet 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Pour l’intimée :
+Mme Mika Banerd (stagiaire en droit)
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

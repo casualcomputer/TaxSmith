@@ -1,0 +1,160 @@
+---
+title: "Sarkaria v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/317259/index.do"
+last_modified: "2018-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 159"
+citation2: ""
+neutral_citation: "2018 TCC 159"
+decision_date: "2018-07-31"
+language: "en"
+item_id: "317259"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4924
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:41:30.015000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a7fc292af65a57d92d8453e40cb963876f943c663fa75154903e1089e7257fbd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sarkaria v. The Queen
+
+- Citation: 2018 TCC 159
+- Decision date: 2018-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4924, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarkaria v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-31
+Neutral citation
+2018 TCC 159
+File numbers
+2016-237(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Notes
+A correction was made on August 22, 2018.
+Decision Content
+Docket: 2016-237(IT)G
+BETWEEN:
+SUKHWINDER KAUR SARKARIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 29, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Jason C. Rosen
+Dara Azari
+Counsel for the Respondent:
+John Makine
+David Besler
+AMENDED JUDGMENT
+The appeal from the reassessment raised October 28, 2015 per subsection 160(2) of the Income Tax Act (Canada) is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant gave consideration of $25,000 (forgiveness of a portion of a loan) for the transfer to her of a half interest in the Norpeel Motel.
+This Amended Judgment is issued in substitution for the Judgment dated July 31, 2018.
+Signed at Halifax, Nova Scotia, this 21st day of August 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC159
+Date: 20180821
+Docket: 2016-237(IT)G
+BETWEEN:
+SUKHWINDER KAUR SARKARIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] The Appellant, Ms. Sarkaria, appeals a reassessment raised by the Minister of National Revenue (Minister) October 28, 2015 per subsection 160(2) of the Income Tax Act (Canada) (Act) in respect of a non-arm’s length transfer of property on November 4, 2004.
+Background:
+[2] Evidence adduced at the hearing established, in summary, that in early 1987 Ms. Sarkaria’s husband Karambir Singh Sarkaria (KSS), and her brother Tajindeer Pal Singh (TPS) whose wife was Norind Kaur purchased a motel called Motel Norpeel and accompanying real property, located in Orangeville/Caledon, Ontario. The purchase was largely financed by a bank mortgage.
+[3] It seems that at some point the management of the motel was transferred to a corporation named 116546 Ontario Inc. (Ont. Inc.) of which the four individuals were shareholders. The 1987 conveyance documentation filed at the hearing does not mention this corporation.
+[4] For the first few years the two families lived together at the motel and operated this business. The business was unable to support both families. Consequently in 1990 the Appellant’s brother TPS and spouse moved out, to pursue different business interests. TPS maintained his ownership interest in the motel but no longer received a share of payments from motel earnings (subject to facts below concerning two family borrowings).
+[5] In 1998 brother TPS needed money to recondition a gas station he was operating. He borrowed $50,000 from or through his sister the Appellant. The Appellant, who testified through a Punjabi/English interpreter, stated that, “[t]his money came out of the motel as well as out of our personal savings.” Asked how much came out of the motel, her response was, “[t]hat I don’t remember. It was mostly my personal savings, but then some money came out of the motel account as well.” She then testified that she had no record for this. TPS was expected to pay it back when able. Being a family loan it was not formally documented.
+[6] Also in 1998, with the motel’s business waning, a family friend, N. Singh Bains (NSB), loaned KSS and TPS (with respective spouses consenting) $60,000, secured by a second mortgage on the motel property. The registered “charge/mortgage of land” document shows that this second mortgage loan carried a 9% interest rate and required monthly payments of $496.78. However, the Appellant testified that NSB only expected them to pay what the family members were able to pay.
+[7] A further term of the second mortgage was to the effect that the mortgagors when not in default were permitted to prepay the whole or any part of the principal of the mortgage without interest, bonus or penalty.
+[8] In evidence are copies of several negotiated Ont. Inc./Norpeel Motel cheques signed by KSS payable to NSB in amounts each of $225 per month and $675 for three month periods, variously dated between and including September 1, 2001 and August 10, 2002. No other cancelled cheques payable to NSB including any more recent ones were put in evidence. The Appellant stated that her husband KSS “kept records of mortgages outstanding” and that “he kept all the records because that’s a part of our culture being male-dominated.” In response to a follow-up question she said that KSS did not have any record of the money advanced by NSB.
+[9] Also, the Appellant testified that a further $20,000 was loaned to her brother TPS in April 2002. That money all came from the motel operations, and was paid by a Ont. Inc./Norpeel Motel cheque for that amount signed by KSS.
+[10] Subsequently the Appellant’s brother TPS testified, saying that on November 4, 2004 he transferred his half share in the Norpeel Motel (again no reference to Ont. Inc.) to his sister the Appellant. Entered in evidence was an affidavit TPS had sworn January 25, 2013 saying that he had sold his half interest in the motel to his sister, “for a consideration of $70,000 plus some interest accrued on this account, which I owed her already”.
+[11] There was no evidence contradicting the Respondent’s assumptions that as of November 4, 2004 the motel property had a fair market value of $365,000 and there was a first mortgage of $200,000 remaining on that property, and at that also that TPS had a tax debt of approximately $270,000.
+[12] No one else testified for the Appellant. A Canada Revenue Agency (CRA) officer testified for the Respondent, mostly in cross-examination as to the second mortgage.
+Issues:
+[13] The issues are twofold:
+a) whether the Minister should have included TPS’ half share of the $60,000 second mortgage in calculating the fair market value of TPS’s half share of the motel property conveyed to his sister. In fact the Respondent included nothing of that second mortgage in its fair market value calculations for purposes of the appealed reassessment;
+b) whether forgiveness of all or any part of the $70,000 that TPS had borrowed constituted consideration for the subject November 4, 2004 property transfer to his sister the Appellant.
+Analysis and Decision:
+[14] The first issue is the matter of the $60,000 second mortgage and whether the Minister wrongly excluded it from calculation of the fair market value of the motel property, and hence the fair market value of TPS’s one half interest in same which he transferred to his sister on November 4, 2004. The evidence is that the Minister did not take that into consideration because the Minister felt he/she did not have adequate evidence as to the amount if any outstanding on that mortgage, taken out in 1998, as of November 4, 2004. The Minister was advised by the Appellant’s representative that the entire principal amount remained outstanding as well as some interest. The Appellant considers that this evidence should have been accepted as sufficient, as seemingly the Minister had accepted unsubstantiated oral advice that the first mortgage had approximately $200,000 outstanding as of the transfer date.
+[15] To this I respectfully say that whether or not the Minister at the audit or notice of objection stage possibly acted inconsistently in accepting ‘this’ but not ‘that’ is not a matter for adjudication in this Court. The mandate of this Court is set out at section 12 of the Tax Court of Canada Act (Canada). That mandate is for this Court to determine, in the context of this appeal and generally, whether the appealed reassessment is or is not correct in law. In that regard I must focus on what evidence if any was adduced at the hearing of this matter, that would allow determination as to whether certain amounts that the Minister did not recognize to the satisfaction of the Appellant ought to be recognized, with the appealed reassessment then to be revised accordingly.
+[16] As to the matter of the $60,000 second mortgage, I find that such a mortgage did exist. That is confirmed by the existence of the registered “charge/mortgage of land” document referred to above. And indeed I understand the Respondent to likewise accept that the second mortgage did exist. The issue is what if any of it remained outstanding as of the 2004 transfer date. The evidence was clear that the Appellant’s husband, KSS, was responsible for financial record keeping, which would include for this second mortgage. In fact it is KSS that signed each of the several cheques made out to NSB referred to above. Yet, KSS was not himself called to testify on behalf of the Appellant. He is one of two people that would have first hand knowledge as to the remaining amount if any of this second mortgage as of the transfer date, including possibly whether it had been entirely paid or perhaps fully forgiven. I believe KSS was in the courtroom on the day this matter was heard. Whether he was or not, he did not testify. From this I am left to infer that his evidence would have been unhelpful to his wife’s cause.
+[17] Further, the other of the two persons who would have first hand knowledge as to the outstanding amount if any of this second mortgage as at the 2004 date of transfer is the mortgagee himself; NSB. That gentleman was not called as a witness either. The fact that NSB is a high profile individual does not excuse his not being called to testify. I am left to understand that not even an affidavit or note from him was obtained, which could have clarified this matter at the CRA audit or notice of objection stage and possibly even at this Court stage. Again I am left with no reasonable conclusion other than that evidence from NSB would not have been helpful to the Appellant’s case. I add that there was a suggestion by Appellant’s counsel that the family relationship with NSB had deteriorated. No explanation for this was given or why NSB could not have been subpoenaed if he otherwise refused to assist. Again however NSB was only one of two, the other being KSS, who would be expected to have knowledge and records regarding this matter, but was not called to testify.
+[18] I now turn to the last issue, being whether forgiveness of the allegedly borrowed amounts of $50,000 and $20,000 should be recognized as consideration for the subject property transfer to the Appellant on November 4, 2004. I have to agree with Respondent’s counsel (subject to below) that there has not been adequate proof of the alleged $50,000 loan. No records apparently exist. The Appellant’s husband, KSS, being keeper of financial records for the family, was not called to give evidence. Also it came out that some of the alleged $50,000 and all of the $20,000 was money from the operations of the Norpeel Motel, rather than being from the Appellant herself.
+[19] There was some proof of the $20,000 payment, being the Ont.Inc./Norpeel Motel cheque that KSS had signed in that amount, payable to TPS. Thus it seems that none of that $20,000 came from the Appellant personally.
+[20] After considerable contemplation I am prepared to accept that a $50,000 loan was made to TPS, notwithstanding the lack of documentation as any evidence of same. It was a family loan and so lack of corroborating documentation is not unusual. I believe the Appellant when she testified that a majority portion of this amount was sourced by her and the remainder was sourced through operations of the Norpeel Motel. She was unable to say or recall what was the actual amount of her contribution to this $50,000 loan. Accordingly, accepting and relying upon the Appellant’s testimony on this matter of the $50,000 loan, I am prepared to recognize that $25,000 of that loan was sourced by the Appellant and thus was forgiven by the subsequent conveyance by TPS to her of his interest in the Norpeel Motel.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated July 31, 2018.
+Signed at Halifax, Nova Scotia, this 21st day of August 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC159
+COURT FILE NO.:
+2016-237(IT)G
+STYLE OF CAUSE:
+SUKHWINDER KAUR SARKARIA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 29, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+July 31, 2018
+DATE OF AMENDED August 21, 2018
+JUDGMENT:
+APPEARANCES:
+Counsel for the Appellant:
+Jason C. Rosen
+Dara Azari
+Counsel for the Respondent:
+John Makine
+David Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jason C. Rosen
+Dara Azari
+Firm:
+Rosen Kirshen Tax Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

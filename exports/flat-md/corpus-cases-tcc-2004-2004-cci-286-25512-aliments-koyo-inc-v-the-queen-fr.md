@@ -1,0 +1,168 @@
+---
+title: "Aliments Koyo Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25512/index.do"
+last_modified: "2004-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 286"
+citation2: ""
+neutral_citation: "2004 CCI 286"
+decision_date: "2004-04-08"
+language: "fr"
+item_id: "25512"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2370
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:37:00.607000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39e82849731670622dfff2c4a464be7195c4f7cc58d5b8bc402e1c56fab76753"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aliments Koyo Inc. v. The Queen
+
+- Citation: 2004 CCI 286
+- Decision date: 2004-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2370, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aliments Koyo Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-08
+Référence neutre
+2004 CCI 286
+Numéro de dossier
+2003-1182(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1182(GST)I
+ENTRE :
+ALIMENTS KOYO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 10 décembre 2003 à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Michael Kaylor
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre d'une cotisation, dont l'avis porte le numéro T02-DS2-RO-0015 et est daté du 17 mai 2002, qui est établie en vertu de la Loi sur la taxe d'accise pour la période du 1er août 1998 au 28 février 2002, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8 e jour d'avril 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 7e jour de septembre 2004.
+Nancy Bouchard, traductrice
+Référence : 2004CCI286
+Date : 20040408
+Dossier : 2003-1182(GST)I
+ENTRE :
+ALIMENTS KOYO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Le présent appel est interjeté à l'encontre d'une cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi » ). L'avis de cotisation porte le numéro T02-DS2-RO-0015 et il est daté du 17 mai 2002. La période visée va du 1er août 1998 au 28 février 2002.
+[2] La question en litige est de savoir si la fourniture de boissons au soja à saveur de fraise est une fourniture détaxée.
+[3] Au début de l'audience, un exposé des aveux de faits a été déposé sous la cote R-3. Ces aveux de faits sont les suivants :
+[TRADUCTION]
+1. L'appelante était inscrite aux fins de la partie IX de la Loi sur la taxe d'accise, L.R.C. (1985), chap. E-15 (la « Loi » ) pendant la période visée par la cotisation;
+2. l'appelante est grossiste en produits alimentaires de base divers;
+3. entre autres choses, au cours de la période visée par la cotisation l'appelante a fourni à ses clients des boissons au soja à saveur de fraise vendues dans des contenants de 946 millilitres ou d'un (1) litre, pour un montant de 54 737,12 $;
+4. la boisson au soja à saveur de fraise en question ne contient pas de lait de vache ou d'autre lait sécrété par les glandes mammaires de mammifères femelles;
+5. la boisson au soja à saveur de fraise fournie par l'appelant est une boisson au soja non gazeuse à saveur de fruit qui contient moins de 25 p. 100 de jus de fruit naturel par volume;
+6. l'appelante n'a pas perçu la TPS relativement aux fournitures qu'elle a faites de cette boisson;
+7. le montant de TPS exigible est litige s'élève à 3 831,60 $ (c.-à-d. 7 p. 100 de 54 737,12 $).
+8. Les documents suivants sont reconnus et produits sur consentement :
+a) pièce R-1 : documents du commissaire (paragraphe 308(2) de la L.T.A.) datés du 29 mai 2003;
+b) pièce R-2 : emballage de boisson au soja à saveur de fraise.
+[4] M. Nick Feldman, président de l'appelante et aussi de la société Aliments Nutrisoya Inc., a témoigné. La relation entre Aliments Nutrisoya et l'appelante est la suivante : Aliments Nutrisoya vend à l'appelante du lait de soja pour distribution au Québec et en Ontario.
+[5] M. Feldman a expliqué que le lait de soja est une solution de rechange végétarienne, saine et hautement nutritive, au lait de vache. Il est fabriqué à partir de graines entières de soja et ne contient pas de lactose. Il est destiné aux consommateurs allergiques au lactose ou qui sont végétariens et il constitue une excellente source de calcium, de vitamines et de minéraux.
+[6] M. Feldman a affirmé que le produit en question est composé à quatre-vingt-quinze pour cent de lait de soja. Il y a d'autres ingrédients, tels que de l'huile de tournesol, des vitamines et des minéraux, un colorant naturel, un édulcorant organique naturel et une substance aromatisante naturelle. La substance aromatisante représente moins de 1 % du produit.
+Argumentation
+[7] Selon l'appelante, conformément aux règles d'interprétation des lois, les marchandises en cause sont des boissons destinées à la consommation humaine décrites à la partie générale de l'article 1 de la partie III, de l'annexe VI, et non des « boissons à saveur de fruit » de l'alinéa 1d) de ladite partie III de l'annexe VI.
+[8] Subsidiairement, il a été soutenu (1) que les marchandises sont des « boissons à base de lait » au sens de l'alinéa 1d); et (2) qu'en vertu du sous-alinéa 1n)(iii), en raison de la taille de l'emballage dans lequel elles sont vendues, à savoir des contenants dont le contenu dépasse une portion individuelle, les marchandises en cause relèvent d'une exception visant les marchandises emballées de cette façon.
+[9] L'avocat de l'appelante a soutenu que la lecture de la partie III de l'annexe VI indique clairement qu'en adoptant la partie III, intitulée « Produits alimentaires de base » , le législateur fédéral visait à détaxer les aliments et boissons de base, c'est à dire ceux qui sont nécessaires à une alimentation humaine santé. Les aliments non détaxés sont généralement ceux qui sont dépourvus de valeur nutritive et qu'on peut qualifier de « collation » .
+[10] À cet égard, l'avocat de l'appelant a fait référence à la décision du juge Miller de cette Cour dans l'affaire 1146491 Ontario Ltd. et al. v. The Queen, 2002 GTC 297. L'avocat a cité l'alinéa 12 de cette décision :
+[TRADUCTION]
+[12] Dès les tout premiers jours qui ont suivi la mise en vigueur de la taxe sur les produits et services, le gouvernement a bien fait comprendre que les produits alimentaires de base ne seraient pas inclus dans l'assiette fiscale. Plutôt que de proposer une définition d'ensemble des produits alimentaires de base, l'alinéa 1o.1) de la partie III de l'annexe VI énumère des exceptions aux produits alimentaires de base. À l'examen de la liste, deux thèmes deviennent évidents quant au type d'aliments qui ne doivent pas être considérés comme des produits alimentaires de base : les collations ou la malbouffe, notamment toute chose que les gens ne trouveraient pas particulièrement saine, et les aliments destinés à être consommés immédiatement après avoir été ouverts ou déballés. [...]
+[11] En ce qui concerne la question de l'interprétation des lois, l'avocat a aussi fait référence à l'arrêt de la Cour suprême du Canada dans l'affaire Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, et dont il a cité les paragraphes 21 et 22 :
+21 Bien que l'interprétation législative ait fait couler beaucoup d'encre (voir par ex. Ruth Sullivan, Statutory Interpretation (1997); Ruth Sullivan, Driedger on the Construction of Statutes(3e éd. 1994) (ci-après « Construction of Statutes » ); Pierre-André Côté, Interprétation des lois (2e éd. 1990)), Elmer Driedger dans son ouvrage intitulé Construction of Statutes (2e éd. 1983) résume le mieux la méthode que je privilégie. Il reconnaît que l'interprétation législative ne peut pas être fondée sur le seul libellé du texte de loi. À la p. 87, il dit :
+[TRADUCTION] Aujourd'hui il n'y a qu'un seul principe ou solution : il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur.
+Parmi les arrêts récents qui ont cité le passage ci-dessus en l'approuvant, mentionnons : R. c. Hydro-Québec, [1997] 3 R.C.S. 213; Banque Royale du Canada c. Sparrow Electric Corp., [1997] 1 R.C.S. 411; Verdun c. Banque Toronto-Dominion, [1996] 3 R.C.S. 550; Friesen c. Canada, [1995] 3 R.C.S. 103.
+22 Je m'appuie également sur l'art. 10 de la Loi d'interprétation, L.R.O. 1980, ch. 219, qui prévoit que les lois « sont réputées apporter une solution de droit » et doivent « s'interpréter de la manière la plus équitable et la plus large qui soit pour garantir la réalisation de leur objet selon leurs sens, intention et esprit véritables » .
+[12] L'avocat a fait valoir que selon l'esprit de la partie III, un aliment utile pour la santé est détaxé. La seule raison pour laquelle le ministre a établi une cotisation sur les marchandises en cause est la présence d'une très petite quantité, moins de 1 %, d'aromatisant à la fraise. Cependant, les exceptions mentionnées à l'alinéa 1d) concernent les boissons aromatisées aux fruits qui contiennent moins de 25 % par volume de jus de fruit naturel ou d'une combinaison de jus de fruits naturels. Ces exceptions, a soutenu l'avocat, visent davantage les boissons de type Kool-Aid qu'une boisson saine composée surtout de lait de soja.
+[13] L'avocat de l'appelante a aussi fait référence à la Série des mémorandums sur la TPS/TVH, point 4.3, Produits alimentaires de base, Novembre 1997 (Révisé le 13 mai 1998), dont le paragraphe 38 est ainsi rédigé :
+38. Les fournitures de mélanges en poudre à saveur de fruit qu'il faut mélanger à l'eau et qui ne contiennent pas de vrais fruits ou très peu (à l'exclusion des mélanges pour thé glacé) sont taxables à 7 % ou à 15 %. Cependant, les mélanges pour thé glacé, y compris les mélanges pour thé glacé à saveur de fruits, sont détaxés.
+[14] L'avocat a soutenu que cette qualification des mélanges pour thé glacé, y compris les mélanges pour thé glacé à saveur de fruits, comme fournitures détaxées confirme que la boisson aromatisée aux fruits doit être une boisson dont le goût provient uniquement de jus de fruits naturels ou d'un arôme artificiel à saveur de fruit. Il a conclu en disant que c'est l'essence du produit qui est déterminante.
+[15] L'avocat de l'appelante a soutenu à titre subsidiaire que si le législateur avait souhaité limiter la définition du lait au lait de vache, il aurait employé le terme lait de vache. L'avocat a présenté comme deuxième argumentation subsidiaire le sous-alinéa 1n)(iii) de la partie III de l'annexe VI de la Loi et fait valoir que le produit n'était pas vendu dans des emballages-portions.
+[16] L'avocat de l'intimée a commencé par faire référence à l'aveu selon lequel la boisson au soja à saveur de fraise dont il est question ne contient pas de lait de vache ou d'autre lait sécrété par les glandes mammaires des mammifères femelles. Il a aussi invoqué l'aveu en vertu duquel ladite boisson au soja à saveur de fraise est une boisson non gazeuse au soja, à saveur de fruit, qui contient moins de 25 p. 100 par volume de jus de fruit naturel.
+[17] L'avocat a conclu en disant que ce produit est compris dans la liste des exceptions à la détaxation qui sont énumérées à l'alinéa 1d) de la partie III de l'annexe VI.
+[18] Il a mentionné divers arrêts concernant l'interprétation des lois, à savoir : Hubka c. Canada, [1995] A.C.I. no 1090 (Q.L.); Canada c. Paccar of Canada Ltd., [1998] A.C.F. no 684 (Q.L.); Suntech Optics Inc.c. Canada, [1999] A.C.F. no 67 (Q.L.); et Canadian Occidental U.S. Petroleum Corp. c. La Reine, [2001] A.C.I. no 112 (Q.L.). Dans toutes ces décisions, il a été jugé que si les termes d'une loi ne sont pas ambigus, une cour doit les interpréter conformément à leur acception courante. Une cour doit prendre soin de ne pas légiférer.
+[19] L'avocat a admis que le produit en cause n'est pas vendu dans des emballages-portions. Cependant, en ce qui concerne le sens de l'alinéa 1n), il a fait référence à la Série des mémorandums sur la TPS/TVH, point 4.3, Produits alimentaires de base, Novembre 1997 (Révisé le 13 mai 1998), mais au paragraphe 39, qui est ainsi rédigé :
+39. Les paquets destinés aux consommateurs qui contiennent des portions individuelles multiples de boissons figurant à l'alinéa 1d) de la partie III de l'annexe VI sont taxables à 7 % ou à 15 %. Ces fournitures ne sont pas détaxées en application de l'alinéa 1n) de la partie III de l'annexe VI.
+Conclusion
+[20] La définition d'une fourniture détaxée qui figure à l'article 123 et aux paragraphes 165(1) et (3) de la Loi est ainsi rédigée :
+Fourniture figurant à l'annexe VI.
+165(1) Taux de la taxe sur les produits et services - Sous réserve des autres dispositions de la présente partie, l'acquéreur d'une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+165(3) Fourniture détaxée - Le taux de la taxe relative à une fourniture détaxée est nul.
+[21] Les alinéas 1d) et n) de la partie III de l'annexe VI sont ainsi rédigés :
+1.[Produits alimentaires] - La fourniture d'aliments et de boissons destinés à la consommation humaine (y compris les édulcorants, assaisonnements et autres ingrédients devant être mélangés à ces aliments et boissons ou être utilisés dans leur préparation), sauf les fournitures suivantes :
+[...]
+d) les boissons de jus de fruit et les boissons à saveur de fruit non gazeuses, sauf les boissons à base de lait, contenant moins de 25 % par volume :
+(i) de jus de fruit naturel ou d'une combinaison de tels jus,
+(ii) de jus de fruit naturel ou d'une combinaison de tels jus, qui ont été reconstitués à l'état initial,
+[...]
+n) les boissons, sauf le lait non aromatisé, ou la crème-dessert (pouding) -- gélatine aromatisée, mousse, dessert fouetté aromatisé et tout autre produit semblable à la crème-dessert -- qui ne sont pas, selon le cas :
+(i) préparés et pré-emballés spécialement pour être consommés par les bébés,
+(ii) vendus en paquets pré-emballés par le fabricant ou le producteur et constitués de plusieurs portions individuelles,
+(iii) vendus en boîte, en bouteille ou autre contenant d'origine, dont le contenu dépasse une portion individuelle;
+[...]
+[22] Je ne crois pas que la partie III de l'annexe VI impose l'obligation de satisfaire à un critère de salubrité comme condition pour obtenir la détaxation d'une fourniture et je n'ai ni le droit, ni le pouvoir discrétionnaire d'ajouter un tel critère à la partie III. Même si une boisson au soja peut être un produit alimentaire sain, elle ne peut pas être une fourniture détaxée si elle relève de l'une des exceptions.
+[23] On peut inférer que si le législateur a jugé à propos d'exclure les boissons à base de lait de la définition de boisson aromatisée aux fruits à l'alinéa 1d), les premières boissons auraient autrement été comprises dans cette définition. Par conséquent, je ne suis pas convaincue que le législateur faisait référence uniquement aux boissons à saveur de fruit de type Kool-Aid. Je ne peux pas suivre l'orientation suggérée par l'avocat de l'appelant et conclure que l'alinéa 1d) ne visait pas les boissons composées surtout d'ingrédients sains.
+[24] D'après les règles d'interprétation des lois, un mot doit être compris dans son acception courante, à moins que le texte législatif ne donne à ce mot un sens particulier.
+[25] Selon l'alinéa 1d), la détaxation ne s'applique pas à la fourniture d'une boisson aromatisée aux fruits autre qu'une boisson à base de lait. La boisson en question dans le présent appel est à saveur de fruit. Par conséquent, elle relève de l'exception à la détaxation, à moins que l'on puisse la considérer comme une boisson à base de lait. S'agit-il d'une boisson à base de lait? Tel qu'on le définit dans le dictionnaire, le mot « lait » et son équivalent anglais « milk » désignent un liquide blanc sécrété par les glandes mammaires des mammifères femelles adultes. Il peut aussi désigner un liquide similaire au lait en apparence, par exemple le lait de coco, la sève de l'asclépiade commune ou le latex des plantes.
+[26] J'en conclus donc que selon l'acceptation courante, le lait de soja n'est pas du lait, bien qu'il puisse en avoir l'apparence.
+[27] En vertu du sous-alinéa 1n)(iii) de la partie III de l'annexe VI, les fournitures de boissons autres que le lait non aromatisé qui sont vendues dans un emballage dont le contenu dépasse une portion individuelle sont des fournitures détaxées. Dans la présente affaire, il est admis que l'appelant fabriquait des boissons de soja à saveur de fraise. Il est également admis que l'emballage était d'une dimension dont le contenu dépassait uneportion individuelle. Il pourrait donc sembler que les fournitures des boissons fabriquées par l'appelant doivent être considérées comme des fournitures détaxées en vertu du sous-alinéa 1n)(iii). Toutefois, l'article 1 de la partie III de l'annexe VI prévoit que les fournitures d'aliments ou de boissons destinés à la consommation humaine sont des fournitures détaxées à moins que ces aliments ou boissons ne relèvent des exceptions précisées aux alinéas a) à r) de cet article. Comme il a été constaté que les boissons fabriquées par l'appelant relèvent des exceptions précisées à l'alinéa d) de cet article, la fourniture de ces boissons n'est pas détaxée.
+[28] Le législateur a le privilège exclusif de modifier la partie III de l'annexe VI s'il le juge à propos. Cependant, à la lumière du libellé actuel de cette partie, j'en suis venue à la conclusion que la fourniture de la boisson en question n'est pas une fourniture détaxée pour les raisons exposées ci-dessus.
+[29] L'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 7e jour de septembre 2004.
+Nancy Bouchard, traductrice

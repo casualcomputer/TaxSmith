@@ -1,0 +1,163 @@
+---
+title: "Gautron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26947/index.do"
+last_modified: "2003-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 127"
+citation2: ""
+neutral_citation: "2003 CCI 127"
+decision_date: "2003-03-12"
+language: "fr"
+item_id: "26947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 557
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:28:14.849000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9bfa450050544afd65e4b89d9c8f69e419c987f9bee1cce0a79d37f925a63fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gautron c. La Reine
+
+- Citation: 2003 CCI 127
+- Decision date: 2003-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 557, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gautron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-12
+Référence neutre
+2003 CCI 127
+Numéro de dossier
+2002-2862(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2862(IT)I
+ENTRE :
+DENIS GAUTRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 mars 2003 à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Sylvain Ouimet
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de mars 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Référence : 2003CCI127
+Date : 20030312
+Dossier : 2002-2862(IT)I
+ENTRE :
+DENIS GAUTRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre, C.C.I.
+[1] L'appelant en appelle d'une cotisation établie par le ministre du Revenu national pour l'année d'imposition 2000 par laquelle on lui a refusé le crédit équivalent pour personne entièrement à charge prévu à l'alinéa 118(1)b) de la Loi de l'impôt sur le revenu ( « Loi » ) pour son fils Jérôme Gautron.
+[2] L'intimée s'appuie sur le paragraphe 56.1(4), l'alinéa 118(1)b) et le paragraphe 118(5) de la Loi pour refuser ce crédit. Ces dispositions législatives se lisent comme suit :
+456.1(4)3
+(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« pension alimentaire » - « pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas:
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+ARTICLE 118: Crédits d'impôt personnels.
+(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l'année est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition;
+4118(1)b)3
+b) Crédit équivalent pour personne entièrement à charge - la somme de 7 131 $ et du résultat du calcul suivant:
+6 055 $ - (D - 606 $)
+où:
+D représente 606 $ ou, s'il est plus élevé, le revenu d'une personne à charge pour l'année,
+si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année;
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d'autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d'une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s'il s'agit d'un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d'une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s'il s'agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d'une infirmité mentale ou physique;
+4118(5)3
+(5) Pension alimentaire. Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d'autre part, selon le cas:
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l'année pour cause d'échec de leur mariage ou union de fait;
+b) demande une déduction pour l'année par l'effet de l'article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+[3] L'appelant ne conteste pas que durant l'année d'imposition 2000, il était tenu par jugement de divorce de payer une pension alimentaire à son ex-épouse pour son fils Jérôme et que durant toute cette année il vivait séparé de cette dernière pour cause d'échec de leur mariage.
+[4] Il considère toutefois que le texte du paragraphe 118(5) de la Loi n'est pas adapté aux nouvelles dispositions législatives qui ne permettent plus la déduction d'une pension alimentaire versée pour le bénéfice des enfants. Si une telle déduction n'est plus possible, il considère avoir le droit au crédit pour personne entièrement à charge à l'égard de l'un de ses enfants.
+[5] Dans l'affaire Bermond Lavoie c. La Reine, [2001] A.C.I. no 809 (Q.L.), paragraphe 16, j'ai repris le commentaire éditorial que l'on retrouve dans le Rapport spécial publié par les Publications CCH/FM Ltée, page 85 au paragraphe 25, sur l'article 5 de l'Avis de motion des voies et moyens visant à modifier la Loi de l'impôt sur le revenu, le R.P.C. et la L.A.-C., accompagnant le budget fédéral du 6 mars 1996, portant sur le crédit équivalent pour personnes entièrement à charge. Ce commentaire éditorial se lit comme suit :
+[ ¶ 25] Article 5: Crédit équivalent pour personnes entièrement à charge
+Pour les années d'imposition 1997 et suivantes, le particulier tenu, aux termes d'un accord écrit ou de l'ordonnance d'un tribunal, de faire des paiements au cours de l'année pour subvenir aux besoins d'un enfant n'aura pas droit de demander, relativement à l'enfant, les crédits d'impôt prévus à l'article 118 de la Loi.
+LIR: 118
+Commentaire éditorial de CCH/FM: L'article 118 permet à un particulier de réclamer des crédits d'impôt à l'égard de personnes à charge (cette expression est définie au paragraphe 118(6) afin d'inclure les enfants et petits-enfants).
+Le paragraphe 118(5) prévoit qu'un contribuable qui paie une pension alimentaire pour subvenir aux besoins de son enfant ou de son conjoint et qui déduit ce montant dans le calcul de son revenu, conformément aux alinéas 60b) et c), ne peut réclamer les crédits d'impôt disponibles en vertu de l'article 118. Cette disposition a pour effet d'empêcher la même personne de réclamer, à la fois une déduction pour le paiement de la pension alimentaire et un crédit d'impôt pour personnes à charge à l'égard des personnes bénéficiaires de cette pension.
+Pour les années d'imposition 1997 et suivantes, ces règles demeurent inchangées malgré les modifications apportées au traitement fiscal des pensions alimentaires (la pension alimentaire payée pour les enfants n'est plus déductible dans le calcul du revenu du payeur). Par conséquent, la personne éligible pour réclamer un crédit d'impôt conformément à l'article 118 demeure le contribuable qui est bénéficiaire de la pension alimentaire.
+[6] Il ressort clairement de ces commentaires et du texte énoncé au paragraphe 118(5) de la Loi, que l'appelant n'a pas en l'espèce le droit au crédit équivalent pour personnes entièrement à charge et ce, même par suite des modifications apportées au traitement fiscal des pensions alimentaires. Il n'appartient pas à ce tribunal de changer la teneur d'un texte législatif. Le rôle de cette Cour est d'appliquer la Loi telle qu'elle est écrite et dans la mesure où le texte de loi est clair, il n'y a pas d'autre interprétation à donner que celle qui ressort clairement du texte législatif.
+[7] Ce principe a été à maintes reprises reconnu par les tribunaux. Plus particulièrement, dans l'affaire Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622; [1999] A.C.S. no 30 (Q.L.), la Cour suprême du Canada s'exprimait ainsi sous la plume de la juge McLachlin, aux paragraphes 40 et 43 :
+¶ 40 [...] la jurisprudence fiscale de notre Cour est bien établie: l'examen de la "réalité économique" d'une opération donnée ou de l'objet [...] général et de l'esprit de la disposition en cause ne peut jamais soustraire le tribunal à l'obligation d'appliquer une disposition non équivoque de la Loi à une opération du contribuable. Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée: Continental Bank, précité, au par. 51, le juge Bastarache; Tennant, précité, au par. 16, le juge Iacobucci; Canada c. Antosko, [1994] 2 R.C.S. 312, aux pp. 326, 327 et 330, le juge Iacobucci; Friesen c. Canada, [1995] 3 R.C.S. 103, au par. 11, le juge Major; Alberta (Treasury Branches) c. M.R.N., [1996] 1 R.C.S. 963, au par. 15, le juge Cory.
+[...]
+¶ 43 [...] La Loi est un texte législatif complexe au moyen duquel le législateur tente d'établir un équilibre entre d'innombrables principes. La jurisprudence de notre Cour est constante: les tribunaux doivent par conséquent faire preuve de prudence lorsqu'il s'agit d'attribuer au législateur, à l'égard d'une disposition claire de la Loi, une intention non explicite: Canderel Ltd. c. Canada, [1998] 1 R.C.S. 147, au par. 41, le juge Iacobucci; Banque Royale du Canada c. Sparrow Electric Corp., [1997] 1 R.C.S. 411, au par. 112, le juge Iacobucci; Antosko, précité, à la p. 328, le juge Iacobucci. En concluant à l'existence d'une intention non exprimée par le législateur sous couvert d'une interprétation fondée sur l'objet, l'on risque de rompre l'équilibre que le législateur a tenté d'établir dans la Loi.
+[8] Pour ces raisons, l'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 12e jour de mars 2003.
+« Lucie Lamarre »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI127
+No DU DOSSIER DE LA COUR :
+2002-2862(IT)I
+INTITULÉ DE LA CAUSE :
+Denis Gautron c. La Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+le 10 mars 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 12 mars 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+L'appelant lui-même
+Pour l'intimé(e) :
+Me Sylvain Ouimet
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

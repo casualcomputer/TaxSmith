@@ -1,0 +1,338 @@
+Title: Vicars c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64461/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-329-64461-vicars-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-10-24
+
+# Vicars c. La Reine
+
+- Citation: 2013 CCI 329
+- Decision date: 2013-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5927, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vicars c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-24
+Référence neutre
+2013 CCI 329
+Numéro de dossier
+2010-1910(IT)G, 2010-1911(IT)G, 2010-1912(IT)G, 2010-1913(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1910(IT)G
+ENTRE :
+BERNARD VICARS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Janice Vicars 2010‑1911(IT)G, Bernie’s Service Bay Limited 2010-1912(IT)G et Bernie’s Service Bay Limited 2010-1913(GST)I
+les 4, 5 et 6 juillet 2012 ainsi que les 15 et 16 mai 2013,
+à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Gerard Tompkins, c.r.
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004, 2005 et 2006 est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que la valeur du véhicule Chevrolet Cavalier doit être supprimée de l’actif et du passif personnels dans le calcul de la valeur nette.
+Les parties disposent de soixante jours suivant la date du présent jugement pour produire à la Cour leurs observations écrites concernant les dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+Dossier : 2010-1911(IT)G
+ENTRE :
+JANICE VICARS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Bernard Vicars 2010-1910(IT)G, Bernie’s Service Bay Limited 2010-1912(IT)G et Bernie’s Service Bay Limited 2010-1913(GST)I
+les 4, 5 et 6 juillet 2012 ainsi que les 15 et 16 mai 2013,
+à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Gerard Tompkins, c.r.
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004, 2005 et 2006 est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que la valeur du véhicule Chevrolet Cavalier doit être supprimée de l’actif et du passif personnels dans le calcul de la valeur nette.
+Les parties disposent de soixante jours suivant la date du présent jugement pour produire à la Cour leurs observations écrites concernant les dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+Dossier : 2010-1912(IT)G
+ENTRE :
+BERNIE’S SERVICE BAY LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Bernard Vicars 2010-1910(IT)G, Janice Vicars 2010-1911(IT)G et
+Bernie’s Service Bay Limited 2010-1913(GST)I
+les 4, 5 et 6 juillet 2012 ainsi que les 15 et 16 mai 2013,
+à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Gerard Tompkins, c.r.
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004, 2005 et 2006 est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+(i) un montant de 56 227 $ doit être déduit des investissements non déclarés qui ont été inclus dans le revenu de la société en 2002;
+(ii) le revenu non déclaré selon l’analyse de la valeur nette doit être réduit en fonction des changements apportés au revenu de Bernard Vicars et de Janice Vicars.
+Les parties disposent de soixante jours suivant la date du présent jugement pour produire à la Cour leurs observations écrites concernant les dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+Dossier : 2010-1913(GST)I
+ENTRE :
+BERNIE’S SERVICE BAY LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Bernard Vicars 2010-1910(IT)G, Janice Vicars 2010-1911(IT)G et
+Bernie’s Service Bay Limited 2010-1912(IT)G
+les 4, 5 et 6 juillet 2012 ainsi que les 15 et 16 mai 2013,
+à St. John’s (Terre-Neuve-et-Labrador)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Gerard Tompkins, c.r.
+Avocat de l’intimée :
+Me Marcel Prévost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi sur la taxe d’accise pour les périodes terminées le 31 juillet 2002, le 31 mars 2003, le 31 juillet 2003, le 31 juillet 2004 et le 31 juillet 2005 est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que le montant de la taxe nette doit être réduit en fonction des montants à supprimer de l’analyse de la valeur nette.
+Les parties disposent de soixante jours suivant la date du présent jugement pour produire à la Cour leurs observations écrites concernant les dépens.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+Référence : 2013CCI329
+Date : 20131024
+Dossier : 2010-1910(IT)G
+ENTRE :
+BERNARD VICARS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2010-1911(IT)G
+ET ENTRE :
+JANICE VICARS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2010-1912(IT)G
+ET ENTRE :
+BERNIE’S SERVICE BAY LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2010-1913(GST)I
+ET ENTRE :
+BERNIE’S SERVICE BAY LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les présents appels ont été entendus sur preuve commune. Bernard et Janice Vicars, qui sont mari et femme, détiennent chacun la moitié des actions de Bernie’s Service Bay Limited (la « société »). Les appels de chacun des appelants concernent les années d’imposition allant de 2002 à 2006 inclusivement.
+[2] Lors d’une vérification de la société, les documents de celle-ci ont été jugés peu fiables et en désordre. La vérificatrice, Amanda Langdon, a procédé à une analyse de la valeur nette de Bernard et Janice Vicars et conclu que ceux-ci s’étaient attribué des revenus de la société. Par suite de la vérification, les montants que Bernard et Janice Vicars s’étaient attribués ont été inclus dans leur revenu et la société a fait l’objet d’une nouvelle cotisation dans laquelle les montants en question ont été ajoutés à son revenu. Le ministre du Revenu national (le « ministre ») a apporté d’autres rajustements au revenu des appelants et ces rajustements sont résumés dans les tableaux qui suivent.
+[3] Les montants suivants ont été ajoutés au revenu de Bernard Vicars et à celui de Janice Vicars :
+2002
+2003
+2004
+2005
+2006
+Attributions à un actionnaire selon l’analyse de la valeur nette
+38 896 $
+16 584 $
+18 384 $
+Inclusion dans le revenu 15(2)
+16 117 $
+18 488 $
+15 214 $
+Total
+38 896 $
+16 584 $
+34 501 $
+18 488 $
+15 214 $
+[4] Le ministre a également conclu que Janice Vicars avait reçu un avantage découlant de l’utilisation d’un véhicule automobile qui appartenait à la société et inclus un montant de 7 053 $ à titre de frais pour droit d’usage d’une automobile dans le revenu de Janice Vicars pour les années d’imposition 2003, 2004 et 2005, conformément au paragraphe 15(5) de la Loi de l’impôt sur le revenu (la « LIR »).
+[5] L’exercice financier de la société se termine le 31 juillet. Aux fins de l’impôt sur le revenu, le ministre a établi une nouvelle cotisation à l’encontre de la société afin d’inclure les montants suivants dans le revenu de celle-ci et de refuser la déduction pour amortissement qu’elle avait demandée à l’égard d’un véhicule Chevrolet Cavalier :
+2002
+2003
+2004
+2005
+Revenu non déclaré selon l’analyse de la valeur nette
+39 460 $
+45 010 $
+30 631 $
+13 296 $
+Revenu de placement non déclaré
+75 560 $
+Déduction pour amortissement refusée
+2 783 $
+4 732 $
+3 312 $
+Revenu non déclaré au titre d’un prêt aux actionnaires
+32 063 $
+8 696 $
+Total
+147 083 $
+56 489 $
+35 363 $
+16 608 $
+[6] En ce qui concerne l’appel relatif à la taxe d’accise, le ministre a majoré les montants de TVH à percevoir de la société de 10 728,54 $, 8 922,07 $, 5 460,89 $ et 2 860,52 $ pour les périodes terminées respectivement le 31 juillet 2002, le 31 juillet 2003, le 31 juillet 2004 et le 31 juillet 2005. Le ministre a également refusé le crédit de taxe sur les intrants que la société avait demandé pour la période terminée le 31 mars 2003 relativement à l’achat d’un véhicule Chevrolet Cavalier.
+[7] De plus, le ministre a imposé des pénalités pour faute lourde à chacun des appelants, conformément à la LIR, et des pénalités de même nature à la société conformément à la Loi sur la taxe d’accise. Une nouvelle cotisation a été établie à l’encontre de chacun des appelants après l’expiration du délai de prescription applicable pour les années d’imposition 2002, 2003 et 2004.
+[8] Bernard et Janice Vicars ont témoigné à l’audience, ainsi que leur fille Tara Vicars. Les appelants ont également fait témoigner Bruce Jones, comptable en management accrédité, Sherry Sceviour, commis comptable, et Peter Collens, comptable accrédité, tandis qu’Amanda Langdon, vérificatrice à l’Agence du revenu du Canada (l’« ARC »), a témoigné pour le compte de l’intimée.
+[9] M. Jones a été le comptable des appelants au cours de la période pertinente. Il a préparé les sommaires mensuels, les déclarations de TVH mensuelles, les états financiers et les déclarations de revenus de la société. Il a également préparé les déclarations de revenus de Bernard et Janice Vicars. Sherry Sceviour a travaillé pour M. Jones, tandis que M. Collens a représenté les appelants au cours de l’étape de la vérification et de l’opposition en l’espèce.
+Les faits
+[10] De 1991 à 1996, Bernard Vicars a exploité une entreprise de réparation de véhicules et un poste d’essence en qualité de propriétaire unique. La société a été constituée en 1996 et a cessé de vendre de l’essence en 1997. Au cours de leur témoignage, Bernard et Janice Vicars ont affirmé que la société s’occupait uniquement de réparation et d’entretien de véhicules, en plus de fournir des services de déneigement et de remorquage. Bien que tous les deux aient nié que la société vendait également des véhicules d’occasion dans le cadre de ses activités, j’en suis arrivée à la conclusion contraire, en me fondant sur les déclarations antérieures que Bernard Vicars et son comptable, M. Jones, avaient faites à Amanda Langdon. En effet, le 24 avril 2006, Bernard Vicars a mentionné à Amanda Langdon que la société vendait des véhicules d’occasion et Bruce Jones a confirmé l’affirmation de Bernard Vicars dans une lettre adressée à la vérificatrice le 20 octobre 2006.
+[11] Les rôles que Bernard et Janice Vicars ont joués dans l’entreprise de la société ont été décrits ainsi :
+a) Bernard Vicars est un mécanicien de formation à l’emploi de la société. Au cours de la période allant de 2002 à 2006, la société a également eu deux autres mécaniciens à son emploi.
+b) Bernard Vicars était le seul employé qui s’occupait des ventes de la société.
+c) Chaque soir, Bernard Vicars plaçait les reçus de cartes de crédit, les chèques, l’argent et les rubans de caisse enregistreuse dans un sac qu’il apportait à la maison et remettait à Janice Vicars.
+d) Seuls Janice et Bernard Vicars manipulaient l’argent comptant provenant de la société.
+e) Une ou deux fois par semaine, Janice Vicars déposait l’argent comptant dans le compte bancaire de la société et préparait les sommaires des ventes hebdomadaires sur une feuille que le comptable, Bruce Jones, lui avait fournie. Elle préparait la paie des employés de la société. Chaque mois, elle compilait les sommaires des ventes hebdomadaires, les factures d’éclairage, de téléphone de bureau et de téléphone cellulaire de la société, les reçus relatifs aux achats de matériaux effectués par la société, les relevés de Visa et de Mastercard et les relevés bancaires de la société et remettait ces documents au comptable afin qu’il puisse préparer la déclaration de TVH.
+[12] Au cours de la période, Janice Vicars travaillait pour Wal-Mart, ce qu’elle faisait depuis 1994.
+[13] La société avait son propre compte bancaire, mais elle n’avait pas de carte de crédit à son nom. Pour sa part, Bernard Vicars avait deux cartes de crédit à son nom et les utilisait pour acheter des fournitures pour la société. Janice Vicars avait également une carte de crédit à son nom et s’en servait tant aux fins de l’entreprise qu’à ses propres fins. Elle a affirmé qu’elle achetait des articles chez Wal-Mart pour la société en se servant de sa carte de crédit. Chaque mois, elle analysait son relevé de carte de crédit et payait ses achats personnels à même son propre compte bancaire, tandis que les achats effectués pour l’entreprise étaient payés à partir du compte de celle-ci.
+Analyse
+[14] Dans Hsu c R, 2001 CAF 240, la Cour d’appel fédérale a décrit les évaluations de la valeur nette et le fardeau de la preuve qui incombe au contribuable :
+30 Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu’il a produit une déclaration fort inexacte ou qu’il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law , 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l’obligation ordinaire qui lui incombe de prouver l’existence d’une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d’autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l’augmentation de la richesse du contribuable. Une fois qu’il est démontré qu’il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables ( Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+31 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[15] Dans les présents appels, les appelants n’ont fourni aucun des documents de base de la société. Ils ont plutôt décidé de contester les cotisations pour les motifs suivants, que je commente ci-après.
+a) Il n’était pas nécessaire de procéder à une analyse de la valeur nette.
+[16] Les appelants ont soutenu que les documents de la société étaient complets et en ordre, qu’ils permettaient à l’ARC de mener une vérification et qu’il n’était pas nécessaire, en l’espèce, qu’Amanda Langdon procède à une analyse de la valeur nette de Bernard et Janice Vicars.
+[17] Je ne suis pas d’accord avec les appelants. Il appert de certains éléments de preuve que les sommaires des ventes hebdomadaires préparés par Janice Vicars étaient inexacts, parce qu’ils ne comprenaient pas tous les revenus. Le comptable a dû rajuster les sommaires et faire une estimation du chiffre des ventes. Il a dû apporter des rajustements de fin d’exercice, parce que des registres étaient incomplets. Les registres qu’Amanda Langdon a reçus de Bruce Jones n’étaient nullement fiables.
+[18] Lorsqu’elle a demandé à Bernard Vicars de lui fournir les registres de la société, Amanda Langdon a reçu un sac poubelle et une boîte de documents. Les documents contenus dans le sac poubelle n’étaient pas classés et ceux de la boîte étaient contaminés par des excréments de souris. Quelques-uns des documents contenus dans la boîte avaient été déchirés par les souris. Même si les documents avaient été en bon état, aucun document de base n’a été fourni, de sorte qu’il n’aurait pas été possible de faire le rapprochement avec les revenus déclarés.
+[19] Eu égard à l’état des registres de la société, Amanda Langdon a eu raison de procéder à une analyse de la valeur nette de Bernard et Janice Vicars. À mon avis, même si les registres avaient été complets, mais contaminés par les excréments de souris, Amanda Langdon n’était pas tenue de manipuler les registres et de risquer de compromettre sa santé.
+[20] Bien que les appelants aient affirmé que les registres de la société étaient complets, aucun des documents en question n’a été présenté en preuve avant que je demande si l’un d’eux serait produit comme pièce. Les appelants ont produit en preuve dix sommaires mensuels. Ces sommaires montraient un écart entre les ventes consignées et le revenu pour chaque jour visé par chacun des sommaires.
+b) Les ventes au comptant de la société n’étaient pas suffisamment élevées pour appuyer le revenu non déclaré.
+[21] Les appelants ont également fait valoir que les ventes de la société étaient principalement des ventes par carte de crédit et que les ventes au comptant de l’entreprise n’étaient pas suffisantes pour justifier le montant que la vérificatrice a ajouté au revenu des appelants à titre de revenu non déclaré. À mon avis, cette affirmation n’est pas appuyée par la preuve.
+[22] Aucun des montants utilisés lors de l’analyse de la valeur nette n’était une estimation ou ne reposait sur des données de Statistique Canada. Tous les montants figurant dans l’analyse de la valeur nette au titre de l’actif, du passif et des dépenses ont été tirés des documents et du relevé de dépenses personnelles fournis par les appelants.
+[23] Selon les sommaires mensuels qui ont été produits, les ventes au comptant de la société avaient atteint respectivement 9 632,23 $, 8 119,60 $, 7 175.68 $, 10 828,41 $, 5 903,39 $, 6 472,03 $ et 10 744,41 $ en janvier 2002, juillet 2002, mars 2003, juin 2003, décembre 2003, mai 2004 et novembre 2004. Ces sommaires ne représentaient que six des trente-six mois couverts par l’analyse de la valeur nette. Il a également été établi que les sommes d’argent au comptant déposées dans le compte bancaire de la société étaient plus élevées que les montants correspondants consignés sur les sommaires mensuels.
+[24] Bernard et Janice Vicars détenaient des liquidités de 62 225,30 $ pour rembourser leur prêt hypothécaire en 2002. En 2001, ils avaient un emprunt hypothécaire de 60 751 $ à l’égard de leur résidence principale. Ils ont effectué des paiements au comptant de 43 866,65 $ et 18 358,65 $ en 2002, de sorte que la somme en principal et les intérêts du prêt hypothécaire ont été payés intégralement. Janice Vicars a gagné un revenu attesté par un feuillet T4, et le revenu qu’elle a ainsi déclaré était insuffisant pour lui permettre d’effectuer ces versements en 2002. La seule autre source de revenu déclarée était la société.
+[25] Au cours de la vérification, aucune explication n’a été donnée au sujet de la provenance des fonds ayant servi à rembourser le prêt hypothécaire. Ni Bernard Vicars non plus que Janice Vicars n’ont dit à la vérificatrice qu’ils avaient des liquidités avant la période visée par l’évaluation de la valeur nette ou au début de celle-ci. En contre-interrogatoire, Janice Vicars n’a pu expliquer la provenance des fonds ayant servi à rembourser le prêt hypothécaire. Cependant, Bernard Vicars a mentionné qu’il avait reçu un montant de 20 000 $ de la vente d’essence en 1997 et une somme de 7 000 $ de la vente d’un véhicule automobile en 1996 ou 1997 et qu’il avait conservé cet argent dans un coffre-fort dissimulé dans le plancher du garage. C’est cet argent qui a servi à rembourser le prêt hypothécaire, a-t-il dit. Cependant, même cette explication ne couvre pas la totalité des sommes d’argent ayant servi à rembourser le prêt hypothécaire et l’explication donnée par Bernard Vicars ne m’apparaît pas convaincante.
+[26] Enfin, Peter Collens, Bernard Vicars et Janice Vicars conviennent que le compte de prêt aux actionnaires contenait des sommes d’argent correspondant à des revenus non déclarés de la société.
+[27] Selon les déclarations de revenus produites par la société, les montants figurant au crédit du compte de prêt aux actionnaires étaient les suivants :
+2001
+2002
+2003
+2004
+107 164 $
+186 255 $
+204 378 $
+176 372 $
+[28] Bernard et Janice Vicars ont dit tous les deux qu’ils n’avaient pas investi d’argent dans la société au cours de la période visée par la vérification. Peter Collens a mentionné que Bruce Jones avait consigné à tort des dépôts d’origine inconnue dans le compte bancaire de la société à titre de montants portés au crédit du compte de prêt aux actionnaires, alors que ces montants représentaient en réalité des revenus non déclarés de la société. De l’avis de M. Collens, au lieu de procéder à une évaluation de la valeur nette en l’espèce, la vérificatrice aurait dû abaisser les montants portés au crédit du compte de prêt aux actionnaires et inclure ces montants dans le revenu de la société. Cependant, M. Collens ignorait le montant des crédits portés au compte de prêt aux actionnaires qui représentait des revenus non déclarés de la société, parce qu’il n’avait vu aucun des documents de base.
+c) L’avantage à un actionnaire
+[29] Par suite des observations des appelants et de M. Collens, la vérificatrice a supprimé le compte de prêt aux actionnaires de l’actif dans le calcul de la valeur nette. Elle a apporté des rajustements relatifs au compte de prêt aux actionnaires pour les années 2002 à 2006 en se fondant sur les faits portés à sa connaissance. Elle a ramené à zéro le solde d’ouverture de ce compte et demandé des renseignements sur le prêt aux actionnaires pour les années 2005 et 2006. Les appelants n’ont fourni aucun renseignement, et la vérificatrice a calculé un avantage au titre du paragraphe 15(2) qui a été inclus dans leur revenu.
+[30] À l’audience, l’avocat des appelants a voulu savoir si les données relatives au solde du compte de prêt aux actionnaires étaient totalement erronées et si le solde d’ouverture de celui-ci aurait dû être ramené à zéro. Cependant, il appartenait aux appelants de produire des documents ou de présenter un témoignage indiquant le solde exact du compte de prêt aux actionnaires. Ils ne l’ont pas fait et n’ont présenté aucun document concernant le compte de prêt aux actionnaires.
+[31] De l’avis de M. Collens, aucun montant n’aurait dû être inclus dans le revenu de Bernard et Janice Vicars au titre d’un avantage à un actionnaire, il n’y avait pas lieu d’inclure des frais pour droit d’usage d’une automobile dans le revenu de Janice Vicars et les dépenses provenant de l’un des biens locatifs des Vicars ont été incluses dans le calcul des dépenses personnelles de ceux-ci dans les états de la valeur nette. Je n’ai accordé aucune importance à ces opinions, parce que M. Collens n’a pas été appelé à témoigner comme témoin expert, mais plutôt comme témoin factuel, et qu’il n’a vu aucun document de base. Les connaissances qu’il possédait au sujet du dossier provenaient des renseignements qu’il avait reçus de Bruce Jones ainsi que de l’examen qu’il avait fait des documents produits par l’ARC au sujet de la valeur nette.
+d) Le véhicule Chevrolet Cavalier
+[32] La société avait inclus un véhicule Chevrolet Cavalier (le « Cavalier ») 2003 dans son tableau de la déduction pour amortissement. La vérificatrice a refusé la demande d’amortissement, étant donné que le Cavalier avait été utilisé à 100 p. 100 par Tara Vicars. Le coût de ce véhicule et le solde du prêt s’y rapportant ont été inclus dans le calcul de la valeur nette de Bernard et Janice Vicars. Bien que ceux-ci aient dit à la vérificatrice que Tara Vicars effectuait les versements sur le Cavalier, ils ne lui ont pas donné le moindre document pour appuyer leur position. Ce n’est qu’à l’audition des présents appels qu’ils ont présenté en preuve des relevés bancaires de Tara Vicars montrant qu’un montant de 435,08 $ était prélevé automatiquement chaque mois du compte de Tara pour le paiement du Cavalier.
+[33] Compte tenu de ces relevés de compte bancaire et du témoignage de Tara Vicars, j’en suis arrivée à la conclusion que le Cavalier devrait être supprimé de l’actif et du passif personnels dans le calcul de la valeur nette.
+e) Le revenu de placement non déclaré
+[34] Un montant de 56 227 $ devrait être supprimé des placements non déclarés qui ont été inclus dans le revenu de la société pour l’année 2002, parce que ce montant représentait des placements pour l’année 2001.
+f) Les années prescrites et les pénalités pour faute lourde
+[35] Les nouvelles cotisations relatives aux années d’imposition 2002, 2003 et 2004 ont été établies après l’expiration de la période normale de nouvelle cotisation pour chacun des appels portés devant la Cour canadienne de l’impôt, et il incombe à l’intimée d’établir que les appelants ont fait une présentation erronée des faits effectuée par négligence, inattention ou omission volontaire ou attribuable à une fraude lors de la production de leurs déclarations.
+[36] Les appelants ont déclaré le revenu suivant lorsqu’ils ont produit leurs déclarations de revenus :
+2002
+2003
+2004
+Janice Vicars
+24 919 $
+27 221 $
+29 517 $
+Bernard Vicars
+36 811 $
+23 575 $
+21 302 $
+Revenu net de
+la société
+(4 458 $)
+(1 187 $)
+4 307 $
+[37] À mon avis, le ministre a établi à juste titre des nouvelles cotisations à l’encontre de chacun des appelants après l’expiration du délai de prescription de trois ans. J’en suis arrivée à la conclusion que Bernard et Janice Vicars se sont attribué des fonds provenant de la société. Bernie Vicars était la seule personne qui s’occupait des ventes de la société et seuls son épouse et lui-même manipulaient l’argent comptant provenant de l’entreprise. Je suis d’avis que bon nombre de leurs réponses étaient invraisemblables et qu’ils n’étaient pas crédibles. Ils n’ont fourni aucune explication convaincante relativement à la plus grande partie de l’écart entre le revenu inscrit sur les déclarations de revenus de la société et sur leurs propres déclarations de revenus pour les années d’imposition 2002, 2003 et 2004, comme le montre l’analyse de la valeur nette, et cet écart était important. J’estime aussi que la présentation erronée de faits que les appelants ont effectuée dans leurs déclarations de revenus était attribuable à une omission volontaire. En 2002, ils disposaient d’un montant au comptant de 62 225,30 $ pour rembourser le prêt hypothécaire relatif à leur résidence principale et ils n’ont pu donner aucune explication crédible au sujet de la provenance de cet argent. Ils savaient que le montant porté au crédit du compte de prêt aux actionnaires augmentait chaque année et qu’ils n’avaient pas investi d’argent dans la société. Ils ont dit qu’ils ne comprenaient pas le crédit figurant dans le compte de prêt aux actionnaires et pourtant, ils n’ont posé aucune question à M. Jones.
+[38] Dans chacun des appels, le ministre a imposé des pénalités pour faute lourde aux appelants. Dans Venne v The Queen, 84 DTC 6247 (CF 1re inst), les pénalités pour faute lourde sont définies ainsi :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence normale non raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[39] Pour décider si le ministre a démontré que des pénalités pour faute lourde devaient être imposées, il faut prendre en compte un certain nombre de facteurs, notamment l’importance de l’omission relative au revenu déclaré, la faculté du contribuable de découvrir l’erreur ainsi que le niveau d’instruction du contribuable et son intelligence apparente : DeCosta c La Reine, 2005 CCI 545, au paragraphe 11.
+[40] J’en suis arrivée à la conclusion que la société a gagné un revenu non déclaré que Bernard et Janice Vicars se sont attribué à des fins personnelles. Le revenu non déclaré de chacun des appelants est important lorsqu’il est comparé au revenu qu’ils ont déclaré. Seuls Bernard et Janice Vicars contrôlaient l’argent comptant que la société gagnait. Même s’ils ont préparé des sommaires des ventes mensuels de la société qu’ils ont remis à leur comptable, ces sommaires étaient inexacts, parce qu’ils ne faisaient pas état de la totalité de l’argent comptant gagné par la société. Ils ont demandé à leur comptable de préparer leurs déclarations, mais ils contrôlaient les renseignements qu’ils lui donnaient. Dans ces circonstances, je suis convaincue que le ministre a eu raison d’imposer des pénalités pour faute lourde.
+[41] Les appels sont accueillis.
+[42] Les parties ont demandé la possibilité de commenter la question des dépens et disposent de soixante jours suivant la date des jugements pour produire leurs observations écrites à la Cour canadienne de l’impôt.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013CCI329
+N°s des dossiers de la Cour : 2010-1910(IT)G
+2010-1911(IT)G
+2010-1912(IT)G
+2010-1913(GST)I
+INTITULÉ : BERNARD VICARS
+JANICE VICARS
+BERNIE’S SERVICE BAY LIMITED
+BERNIE’S SERVICE BAY LIMITED
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATES DE L’AUDIENCE : Les 4, 5 et 6 juillet 2012
+ainsi que les 15 et 16 mai 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 24 octobre 2013
+COMPARUTIONS :
+Avocat des appelants :
+Me Gerard Tompkins, c.r.
+Avocat de l’intimée :
+Me Marcel Prévost
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Gerard Tompkins, c.r.
+Cabinet : Patterson Law
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

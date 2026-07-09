@@ -1,0 +1,155 @@
+Title: Michel v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27558/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-278-27558-michel-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# Michel v. M.N.R.
+
+- Citation: 2005 TCC 278
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 120, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Michel v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-05
+Neutral citation
+2005 TCC 278
+File numbers
+2004-2555(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2555(EI)
+BETWEEN:
+GUY MICHEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 22, 2005, at Montréal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Hans Marotte
+Counsel for the Respondent:
+Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 5th day of May, 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 29th day of March, 2006
+Garth McLeod, Translator
+Citation: 2005TCC278
+Date: 20050505
+Docket: 2004-2555(EI)
+BETWEEN:
+GUY MICHEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Montréal, Quebec, on February 22, 2005.
+[2] At issue was whether the Appellant had accumulated hours of insurable employment during the week of March 2 to 8, 2003, the period at issue, while in the service of the Commission scolaire des Grandes Seigneuries, the Payor, from August 23, 2002, until June 27, 2003.
+[3] On March 4, 2004, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that the insurable hours of his employment for the Payor from February 17 to June 27, 2003, totalled 630 hours, that is, he excluded from the insurable hours the week of March 2 to 8, 2003.
+[4] The Minister based his decision on the following presumptions of fact:
+[translation]
+(a) The Appellant is a teacher; (admitted)
+(b) The Payor had hired the Appellant under a written contract of employment; (admitted)
+(c) The contract took effect on August 23, 2002, and ended on June 27, 2003; (admitted)
+(d) It stipulated that the Appellant would be employed on a full-time (100%) basis; (admitted)
+(e) When he signed his contract, the Appellant asked for, and obtained, paternity leave; (admitted)
+(f) He began teaching on February 27, 2003; (admitted)
+(g) The schools were closed during the week of March 2 to 8, 2003; (admitted)
+(h) The Appellant did not teach during that week; (admitted)
+(i) He finished teaching on June 27, 2003; (admitted)
+(j) The Appellant taught for a total of 18 weeks; (admitted)
+(k) The Appellant was covered by the terms of a provincial collective agreement and local arrangements; (admitted)
+(l) The collective agreement stipulates that the working year for teachers comprises 200 days of work; (admitted)
+(m) It stipulates that, unless an agreement to the contrary is reached between the school board (the Commission) and the union, the 200 days were distributed between September 1 and June 3 of the following year; (admitted)
+(n) In Fall 2002, the period of teaching for the Payor began one week before September 1; (admitted)
+(o) The last week of the summer vacation was carried over to the month of March 2003 and became the spring break; (denied)
+(p) The break week was not part of the 200 days of work for the teachers; (admitted)
+(q) The vacation days during the break week are not paid leave; (denied)
+(r) The Appellant had a standard 35-hour work week. (admitted)
+[5] The Appellant admitted all the facts assumed by the Minister, except for those set out at paragraphs 5(o) and 5(q) of the Reply to the Notice of Appeal. It was established that the period at issue, the week of March 2 to 8, 2003, was the week in which the students and teachers were on holiday, the spring break. The teachers do not work.
+[6] At issue in this case is the interpretation based on the statutes and the case law. The Appellant maintains that the break week constitutes a period in which the hours that would normally have been worked should be deemed insurable, pursuant to paragraph 10.1(1) of the Employment Insurance Regulations, even if he did not work during that period. The Minister, for his part, took the contrary position, basing his reasoning on subsection 10.(1) of the Regulations.
+[7] At the hearing, the Appellant produced the contract of employment signed by himself and by the school board, the Commission scolaire des Grandes Seigneuries (Exhibit A-1). The contract took effect on August 24, 2001, and ended on June 28, 2002. This contract is prepared on a form that describes it as a "part-time contract", but the wording of the contract stipulates at paragraph l-B) that the teacher, the Appellant, undertakes that 100% of his duties will consist of teaching.
+[8] The Appellant admitted paragraphs 5(c) and 5(d) of the Reply to the Notice of Appeal, which stipulate that:
+[TRANSLATION]
+c) The contract took effect on August 23, 2002, and ended on June 27, 2003.
+d) It stipulated that the Appellant would be employed on a full-time (100%) basis.
+[9] The Appellant maintains that his case is similar to the one presented in Bruneau v. Unemployment Insurance Commission of Canada and the Deputy Attorney General of Canada, in which Décary J. of the Federal Court of Appeal ruled in favour of the Appellant, but it must be noted that in Bruneau, the Appellant was a part-time teacher.
+[10] Paragraph 5(1) of the Reply to the Notice of Appeal states that the collective agreement stipulates that the teacher's year of work consists of 200 days. This assumption is also admitted by the Appellant. This prompted Counsel for the Minister to state that the position taken by the Appellant would mean that the period at issue would be 207 days, which is contrary to the collective agreement and thus to the contract.
+[11] Counsel for the Minister maintains that the facts in the instant case resemble more closely those presented before this Court in Kuffner v. Canada(Minister of National Revenue - M.N.R.), [2001] T.C.C. No. 23, where Judge MacLatchy rejected the appeal saying:
+This Court has been persuaded that the Appellant should not be credited with insurable hours of employment for the days in issue which included those in the March Break, summer or statutory holidays. The Minister was correct and he cannot credit her with hours of insurable employment for those days. The appeal is dismissed and the decision of the Minister is confirmed.
+[12] In setting out his reasons, Judge MacLatchy in the above-mentioned case stipulated that:
+The Court was referred to the Gauthier v. Board of Referees, September 12, 1994, CUB 26838, Côté v. Board of Referees, March 25, 1998, CUB 41000, et Canada (A.G.) v. Partridge, [1999] F.C.J. No. 974 (C.A.) (Quicklaw) cases as well as Bruneau v. Canada (Employment Insurance Commission) (1998), 171 D.L.R. (4th) 127), (F.C.A.) and Canada (Attorney General) v. Tuomi, [2000] F.C.J. No. 1570 to indicate that the courts have concluded a teacher's salary should be allocated to both the teaching and non-teaching periods. The Appellant draws the conclusion that this Court should credit her with hours of insurable employment for the school holidays and other non-teaching periods, during the period in question, as paid leaves or as non-working days for which she was remunerated in accordance with her annual salary.
+The Respondent argued that the Appellant was not paid for the school holidays or for the summer vacation. The employment insurance regime did not envision such a circumstance. The only way the Appellant could quality for benefits as a claimant major attachment would be if she had the required number of hours of insurable employment pursuant to sections ... 10 and 10.1, [of the Employment Insurance Regulations] which read as follows:
+10. (1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+10.1(1) Where an insured person is remunerated by the employer for a period of paid leave, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked and for which the person would normally have been remunerated during that period.
+[13] In his analysis of the Employment Insurance Regulations, he followed the reasoning of Bonner J. in Franke v. M.N.R., [1999] T.C.C. No. 645, stating as follows:
+[...] Section 55 of the Act authorizes the enactment of subordinate legislation for the establishment of hours of insurable employment. The Employment Insurance Regulations ("Regulations") are intended for use in determining the number of hours of insurable employment where unconventional arrangements such as those now under consideration are present. The statutory scheme cannot work as intended unless the Regulations are construed and applied as attempts to measure in hours the time that the employee "actually worked" and for which the employee was compensated by the employer. ..."
+[14] Since this Court acknowledges that Judge MacLatchy in Kuffner supra, was confronted with a case similar to the case at bar, and that the facts and circumstances submitted for his decision did not escape his subtle analysis, it is appropriate to reproduce below a number of excerpts that are useful in the case before this Court. Here are some of them:
+The issue was once again restated that the core in this appeal is a question of paid leave and/or a remunerated non-working day. There is no presumption that the teachers are paid for those days in issue. The history behind section 33 was outlined and stated to have been passed as a result of decisions of the courts that had concluded that teachers were not paid for those periods of non-teaching otherwise they could qualify for benefits during those periods.
+On examination of section 33, it disentitles teachers to benefits unless their contract of employment is terminated. Many cases were referred to but in the final analysis the argument was that each case depended on its own facts and that a conclusion can only be reached by examining both the legislation and the collective agreement and the contract under which the Appellant was employed. On examination of these items the school year was from September 1 to June 30 in each year and would include 194 school days. School days by agreement would not include school holidays which were, according to a lengthy list, including 14-day Christmas break, 5-day March Break and other specific days such as Good Friday, Easter Monday, Victoria Day, every Saturday and Sunday and Labour Day. The Appellant was a permanent half-time teacher and was paid a "yearly salary" in a defined fashion but did not provide for pay in respect of school holidays or summer vacation nor set out the days in respect of which the salary was payable. Subsection 260(1) of the Education Act did set the days of which a teacher's salary was payable.
+Unless otherwise expressly agreed and subject to subsections (3) to (6), a teacher is entitled to be paid his or her salary in the proportion that the number of school days for which the teacher performs his or her duties in the school year bears to the total number of school days in the school year.
+The exceptions in subsections 260(3) to (6) provided that where a teacher is absent from work for certain reasons listed she was entitled to be paid for sickness, quarantine or jury duty. The collective agreement also provided for other paid leave such as bereavement, court leave, family care, serious illness or a dependant and could have gone further and provided for other paid leave days but did not.
+Further argument was given in regard to the changes in the E.I. Act concerning qualifications for benefits from weeks of employment to hours or employment. The reasons were to recognize changing work patterns, make all work insurable, coverage to multiple-job holders and to provide disincentive to employers to provide less than 15 hours of work to an employee's week. It is a different system from that under the Unemployment Insurance Act. Employees who might not have received benefits under the old system might receive benefits under the new system. It is true that there may be some persons who qualified under the Unemployment Insurance Act who now will not qualify for benefits under the E.I. Act.
+This Court has reached the conclusion that the Appellant should not be credited with insurable hours for non-working days or for summer or other holidays in the period in question.
+[...]
+The non-working days cannot be considered for purposes of insurability as they are not days when work is performed and for which remuneration is paid. The new scheme for calculating eligibility would bring into coverage many persons unable to previously claim benefits. It may also prevent others from coverage who previously may have qualified for benefits under the Unemployment Insurance Act.
+The concept that days in the period in issue are paid leave days is not supported by the working of the E.I. Act or in its Regulations or in other relevant legislation. The jurisprudence reviewed seems to indicate that for leave to be granted with pay the worker would be excused from the requirement of performing work for that period when, otherwise, the worker would be so required to perform. The periods in question were not work days nor were they stated to be such in any legislation or by agreement.
+The Education Act contemplates leave with pay from work for sickness, quarantine and jury duty. It could well have included leave with pay for school holidays and the summer months but it did not. The Collective Agreement contained other kinds of leave such as bereavement, illness of a dependant, etc. but did not provide for the periods in question to be periods of leave.
+Section 33 of the Regulations is particularly to avoid teachers from receiving benefits during non-teaching periods. The Federal Court of Appeal in Canada(Attorney General) v. Donachey, [1997] F.C.J. No. 579 (C.A.) (Quicklaw), at paragraph 5, described the object of the provision as follows:
+The object of section 46.1 of the Regulations is to prevent teachers, whose salary is spread over a twelve-month period but who do not provide services every day, from being able to receive monies which come from two separate sources but which fulfil the same role.
+This section deals with the prohibiting of benefits to persons who work in occupations in which there is a period that occurs annually, at regular or irregular intervals, during which no work is performed by a significant number of persons engaged in that occupation, for any or all weeks in that period. The Regulation deals with payment of benefits, not whether a person's employment is insurable. Many decisions have indicated that teachers were not paid for the non-teaching periods and might be entitled to benefits thus the Regulation was issued to prevent such a flow of benefits.
+[15] Following this analysis, this Court is of the opinion that the Appellant has not succeeded in discharging the burden that was on him, that is, to prove that the facts presumed by the Minister are wrong.
+[16] This Court is further persuaded that the finding by the Minister, as well as that of Judge MacLatchy in Kuffner, supra, is based on an interpretation that is consistent with the legislation and with the case law.
+[17] This Court must accordingly conclude that the days of holiday during the break week are not paid leave within the meaning of subsection 10.1 of the Employment Insurance Regulations and that it is not appropriate to credit the Appellant with hours of insurable employment for the days at issue.
+[18] This Court also concludes that the Appellant exercised 630 hours of insurable employment with the Payor, namely, 18 weeks x 35 hours, in accordance with paragraph 10.(1) of the Employment Insurance Regulations.
+[19] The appeal is accordingly dismissed and the decision of the Minister is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 5th day of May, 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 29th day of March 2006
+Garth McLeod, Translator
+CITATION: 2005TCC278
+DOCKET NO.: 2004-2555(EI)
+STYLE OF CAUSE: GUY MICHEL AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 22, 2005
+REASONS FOR JUDGMENT: The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT: May 5, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Hans Marotte
+Counsel for the Respondent:
+Agathe Cavanagh
+SOLICITOR OF RECORD:
+For the Appellant:
+Name: Hans Marotte
+Firm: Le Mouvement Action-Chômage de Montréal
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

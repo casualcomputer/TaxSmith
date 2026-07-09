@@ -1,0 +1,139 @@
+---
+title: "Saleem v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/362191/index.do"
+last_modified: "2019-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 25"
+citation2: ""
+neutral_citation: "2019 TCC 25"
+decision_date: "2019-01-23"
+language: "en"
+item_id: "362191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4349
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:21:03.164000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "657338ca3b2b97b86c75bae8674f5b08ae8cc4671e621f2be7f3395056b762a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saleem v. The Queen
+
+- Citation: 2019 TCC 25
+- Decision date: 2019-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4349, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saleem v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-23
+Neutral citation
+2019 TCC 25
+File numbers
+2017-2577(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2577(IT)I
+BETWEEN:
+MOHSEN SALEEM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 27, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Hasan Junaid
+JUDGMENT
+The appeal from the reassessment raised August 7, 2015 under the federal Income Tax Act for the Appellant’s 2012 taxation year is allowed, without costs, and the Appellant is entitled to allowance of $3,200 of the $24,200 of expenses claimed.
+Signed at Toronto, Ontario, this 23rd day of January 2019.
+“B. Russell”
+Russell J.
+Citation: 2019TCC25
+Date: 20190123
+Docket: 2017-2577(IT)I
+BETWEEN:
+MOHSEN SALEEM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The Appellant, Mohsen Saleem appeals a reassessment in respect of his 2012 taxation year made August 7, 2015 by the Minister of National Revenue (Minister) pursuant to the federal Income Tax Act (Act). The reassessment denied the Appellant’s claim for deduction of business expenses totalling $24,200 ($24,199.98 rounded). He objected to the reassessment which on March 21, 2017 the Minister confirmed. The Appellant appealed the reassessment to this Court.
+II. Evidence:
+[2] At the hearing of this appeal, only the Appellant testified. His evidence was that at all material times he was employed full time as an information technology (IT) analyst. Outside this employment he did some IT contractual work, with his business partner, A. Siddique. In 2009 they commenced dealings with M&R Property Management (M&R), described in documentary evidence as a “corporate partnership” which carried on a property management business. L. Dinalli and R. Tablada both of M&R were the two main M&R contacts for the Appellant and his business partner. The latter two worked particularly with Mr. Dinalli, in developing property management related software tailored specifically for M&R’s use.
+[3] In February 2010, the Appellant and his business partner agreed they would equally split between them all profits from projects they did together, leading to the equal division of $750 they had charged M&R for the “project survey digitization”. There was no formal agreement underlying this M&R work. The Appellant had anticipated and trusted that this software development work intended for M&R would lead to a formal agreement.
+[4] And it did. In September 2010 the Appellant and his business partner’s jointly held company - Itech Management Inc. (Itech) - signed an agreement with M&R for installation, use and ongoing support of the rental agreement system (RAS) software the Appellant and his business partner had developed for M&R. The several page agreement provided inter alia for payment of a fee plus software support fees; and payment of such fees commenced.
+[5] In 2011 Mr. Sadique left the country. It was unclear whether he retained his interest in Itech. Somewhat previously, likely in late 2010, there was what the Appellant termed, “a shake-up” at M&R. This included departure from M&R of Mr. Dinalli. Mr. Dinalli had been the Appellant’s primary contact at M&R. Subsequently the Appellant discussed with his remaining significant M&R contact Mr. Tablada, that he the Appellant should commence development of a next version of the RAS software. This proposed new version was envisaged as reducing the need and hence cost for ongoing maintenance support related to current operation of the first version of RAS software.
+[6] Mr. Tablada did not commit M&R to this proposal. Neither did he say that the proposed development of a new version of the RAS software M&R was now using should not proceed. Payment of the proposed work was not raised by either party. This basis for proceeding with this new software development was not unlike the situation when the first version of RAS was under development, with nothing more than an optimistic expectation that M&R eventually would commit to it, as in fact did happen with the signing of the September 2010 contract.
+[7] During 2012, development of version two of the RAS software apparently proceeded, through direction of the Appellant. The Appellant in his 2012 taxation year return claimed in relation to this work the $24,200 of deductible expenses here at issue. That amount consists mainly of subcontract work totalling $21,000 for software development. Also it consists of claimed $600 for telephone and utilities, $523 for motor vehicle expenses, capital cost allowance of $157 and $1,928 for convention and training expenses.
+[8] The Appellant testified that his brother, Asim Saleem, did much of this subcontract work for coding the revised software, as well as did another individual, one Z. Khan. Both I believe also participated in Itech’s ongoing maintenance support for the RAS initial version per the 2010 agreement. Neither of these persons testified.
+[9] The Respondent denied the expenses at issue on two bases; first that for the most part these expenses had not been incurred, and second that the Appellant had not carried on any business during his 2012 taxation year in respect of the RAS version two software development work.
+[10] The first such basis (i.e., that for the most part the claimed expenses had not been incurred) is reflected in the following ministerial assumptions pleaded at paragraph 8 of the Respondent’s reply - that there had been no subcontract expenses incurred in 2012 for development of the version two software; nor had any such subcontract payments been made to either of the two said individuals; nor had any training fees for the software development been paid by the Appellant as opposed to his own company, incorporated in late 2012, named Epic Enterprise Inc.
+[11] The second such basis (i.e., that the Appellant did not carry on business during the 2012 taxation year in respect of RAS version 2 development) is reflected in the following ministerial assumptions also pleaded at paragraph 8 of the Respondent’s reply - the Appellant had no clients with respect to this work; nor was the software developed in 2012 ordered by or sold to any client; none of the expenses incurred in 2012 for the further software development was incurred for the purpose of gaining or producing income; and as well none of the claimed expenses re software development in 2012 were incurred for the purpose of gaining or producing income.
+[12] As for the first above stated basis - that most of the subject claimed expenses had not been incurred, including particularly the claimed $21,000 of subcontract payments - I have to say that there was basically no evidence corroborating the Appellant’s assertion that these amounts totaling $21,000 were paid. We saw no invoices, no financial records specifically indicating such payments, and no persons testifying that they had been paid for such work. This is notwithstanding the Respondent’s prominent pleading of the above-noted ministerial assumptions denying that such payments had been made.
+[13] As is well known, pleaded ministerial assumptions of fact, not successfully challenged as to relevance, authenticity or specificity, are presumed proven unless and to the extent evidence has established otherwise on at least a prima facie basis. I have concluded that the evidence was insufficiently specific to establish, particularly in the face of the above-noted ministerial assumptions stating otherwise, that the purported payments of $21,000 to subcontractors for development of version two of the RAS software had been made. While these payments may have been made, this was not proved in this proceeding so as to establish this as a fact for purposes of this appeal.
+[14] However, on the other hand, I do find that the evidence, albeit general and without confirmation by another witness, was sufficient to prove on a balance of probabilities that the remaining $3,200 of the total of $24,200 of claimed expenses, specified above, had been incurred as claimed. In this regard I note the Respondent had made no assumption as to quantum of the training expense mentioned in one of the above-cited ministerial assumptions.
+[15] Also, I find that a business did exist here. The Appellant had worked “on spec” for the benefit of one target client - M&R. That is a risky approach, particularly when the client target is a single, particular entity. However, that same approach had previously worked, culminating in the 2010 contract signed with M&R after completion of development of the initial version RAS software.
+[16] Accordingly the appeal is allowed, to the extent of permitting $3,200 of the denied $24,200 of expenses herein at issue. Both parties having achieved some success, there will be no order as to costs.
+Signed at Toronto, Ontario, this 23rd day of January 2019.
+“B. Russell”
+Russell J.
+CITATION:
+2019TCC25
+COURT FILE NO.:
+2017-2577(IT)I
+STYLE OF CAUSE:
+MOHSEN SALEEM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 27, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+January 23, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Hasan Junaid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

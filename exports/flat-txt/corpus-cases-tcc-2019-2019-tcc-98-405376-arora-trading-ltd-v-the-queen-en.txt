@@ -1,0 +1,370 @@
+Title: Arora Trading Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405376/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-98-405376-arora-trading-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-01
+
+# Arora Trading Ltd. v. The Queen
+
+- Citation: 2019 TCC 98
+- Decision date: 2019-05-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4404, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arora Trading Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-01
+Neutral citation
+2019 TCC 98
+File numbers
+2015-5258(IT)G
+Judges and Taxing Officers
+Henry A. Visser
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5258(IT)G
+BETWEEN:
+ARORA TRADING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 16, 2017, at Ottawa, Ontario
+By: The Honourable Justice Henry A. Visser
+Appearances:
+Counsel for the Appellant:
+Estelle Duez
+Counsel for the Respondent:
+Tanis Halpape
+JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act for the Appellant’s 2009 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Arora was not carrying on a “personal services business” in its 2009 taxation year, and as a result Arora was not thereby precluded from claiming:
+(a) the small business deduction pursuant to subsection 125(1) of the Act in respect of its 2009 taxation year, and
+(b) expenses totalling $7,126 pursuant to paragraph 18(1)(p) of the Act in respect of its 2009 taxation year.
+The Appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is dismissed.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 1st day of May 2019.
+“Henry A. Visser”
+Visser J.
+Citation:2019 TCC 98
+Date: 20190501
+Docket: 2015-5258(IT)G
+BETWEEN:
+ARORA TRADING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+REASONS FOR JUDGMENT
+Visser J.
+[1] This is an appeal by the Appellant, Arora Trading Ltd. (“Arora”), of Notices of Reassessment dated July 19, 2013 (the “Reassessments”), which were issued by the Minister of National Revenue (the “Minister”) under the Income Tax Act (the “Act”) [1] whereby the Minister determined that Arora was carrying on a “personal services business” [2] for its 2009 and 2010 taxation years, and as a result the Minister disallowed:
+(a) certain expenses claimed by Arora totalling $7,126 in 2009 and $9,181 in 2010 pursuant to paragraph 18(1)(p) of the Act; and
+(b) the small business deduction claimed by Arora in the amount of $48,429 for 2009 and $81,919 for 2010 pursuant to subsection 125(1) of the Act. [3]
+ISSUES
+[2] Broadly speaking, the parties agreed that the issues in this Appeal are:
+(a) whether Arora was a corporation carrying on a “personal services business”, as defined by subsection 125(7) of the Act, in its 2009 and 2010 taxation years;
+(b) whether the Minister properly disallowed a portion of the expenses claimed by Arora for its 2009 and 2010 taxation years pursuant to the limitations set out in paragraph 18(1)(p) of the Act; and
+(c) whether Arora was entitled to claim the small business deduction in respect of its 2009 and 2010 taxation years pursuant to subsection 125(1) of the Act.
+[3] As the Minister denied the expenses and small business deductions at issue in this Appeal solely on the basis that Arora was carrying on a “personal services business” in its 2009 and 2010 taxation years, all three of the aforementioned issues can be resolved by determining whether Arora was carrying on a “personal services business” in its 2009 and 2010 taxation years. As discussed further below, the Respondent also raised a procedural issue at the hearing of this Appeal.
+[4] For the reasons that follow, it is my view that:
+(a) Arora was not carrying on a “personal services business” in its 2009 taxation year, and as a result Arora was not thereby precluded from claiming:
+(i) the small business deduction pursuant to subsection 125(1) of the Act in respect of its 2009 taxation year, and
+(ii) expenses totalling $7,126 pursuant to paragraph 18(1)(p) of the Act in respect of its 2009 taxation year; and
+(b) Arora was carrying on a “personal services business” in its 2010 taxation year, and as a result Arora was thereby precluded from claiming:
+(i) the small business deduction pursuant to subsection 125(1) of the Act in respect of its 2010 taxation year, and
+(ii) expenses totalling $9,181 pursuant to paragraph 18(1)(p) of the Act in respect of its 2010 taxation year.
+BACKGROUND FACTS
+[5] Arora is a Canadian-Controlled Private Corporation (“CCPC”), which was formed under the laws of the Province of Ontario on December 18, 2008. [4] Arora was at all material times controlled by Sonia Singh [5] (“Ms. Singh”). Ms. Singh was at all material times married to Goldy Singh (“Mr. Singh”), who controls Econo Petroleum Inc. (“Econo”). Econo operates as a wholesaler of gasoline products, and has been in business since approximately 1994. [6] The parties agreed that Econo and Arora were not associated corporations for the purposes of the Act in 2009 and 2010. [7]
+[6] Ms. Singh did not testify at the hearing of these Appeals on behalf of the Appellant. I have drawn a negative inference from her failure to testify. Rather, Mr. Singh testified at the hearing of these Appeals on behalf of the Appellant. The Appellant also submitted documentary evidence in support of its position in these Appeals. [8] While I generally found Mr. Singh to be a credible witness, I found some of his testimony to be vague due to his lack of memory of events that took place in 2009 and 2010, being the years at issue in these Appeals.
+[7] The Respondent called Anne Kaden (“Ms. Kaden”) to testify. Ms. Kaden is an auditor with the Canada Revenue Agency (the “CRA”) and undertook the Minister’s audit of the Appellant. At the time of trial, Ms. Kaden had been with the CRA for nine years, and had previously worked for nine years as a field auditor for the Province of Ontario, Ministry of Finance, in the Corporations’ Tax Department. At the time of trial, Ms. Kaden was in the CRA’s Offshore Compliance Division as an auditor. I found her to be a credible witness. The Respondent also submitted documentary evidence in support of her position in these Appeals. [9]
+[8] Many of the facts in this case are not in dispute. Based on all of the evidence in this case, including the uncontradicted assumptions set out in the Respondent’s Reply, the testimonies of Mr. Singh and Ms. Kaden and the documentary evidence submitted by the parties, it is my view, on a balance of probabilities, that:
+(a) Econo commenced operations in approximately 1994 and carried on business as a wholesaler of gasoline products. It was at all material times controlled by Mr. Singh.
+(b) Arora was incorporated on December 18, 2008 and was at all material times controlled by Ms. Singh.
+(c) Mr. Singh and Ms. Singh were at all material times married to each other.
+(d) Arora entered into a Management Services Agreement (the “MSA”) with Econo dated December 25, 2008. Section 1 of the MSA provides that Arora will be a non-exclusive independent contractor with Econo commencing on December 25, 2008. Section 2 of the MSA sets out the services to be provided by Arora’s to Econo, including financial and administrative duties, accounting, payroll, billing and collection (collectively, the “Services”). Section 3 of the MSA provides for the payment of fees by Econo to Arora for the Services, but does not specify either the quantum of the fees or how they will be determined. It also requires that Arora issue an invoice on a monthly basis to Econo for such fees. There is no evidence that suggests that Arora ever issued any such invoices in respect of its 2009 and 2010 taxation years. Section 4 of the MSA provides that Arora agrees to hire Econo’s employees.
+(e) Mr. Singh was at all material times an employee of Econo and not an employee of Arora.
+(f) Ms. Singh was a full time employee of Econo in 2009. Econo also had four other full time employees in 2009, namely S. Basaiah, P. Haddad, J. Iyengar, and HN Pakingan (collectively, the “Full Time Employees”).
+(g) Arora had no employees in 2009.
+(h) Arora did not provide any invoices to Econo in 2009 in respect of any Services it may have provided to Econo in that year.
+(i) Ms. Singh did not provide any services on behalf of Arora to Econo in 2009.
+(j) Ms. Singh and the four other Full Time Employees transferred from Econo to Arora in early 2010, such that Arora had five full time employees in 2010, namely S. Basaiah, P. Haddad, J. Iyengar, HN Pakingan and Sonia Singh.
+(k) Arora’s five Full Time Employees were employees of Econo before being transferred to Arora in 2010.
+(m) Arora’s five Full Time Employees continued to work in Econo’s office in 2010 and carried on the same duties that they had performed as employees of Econo in 2009.
+(n) While working for Econo in 2009, Ms. Singh was responsible for the management services of Econo. Ms. Singh carried out the same responsibilities and functions in respect of Econo once she became an employee of Arora in 2010.
+(o) Arora did not pay Econo for the lease, license or other use of Econo’s office facilities, furniture, equipment or supplies in 2009 or 2010. Arora also did not deduct any office rental expenses in either its 2009 or 2010 taxation years.
+(p) Arora engaged the services of an independent contractor, Mr. Shawn Renold (“Mr. Renold”), in 2010. Mr. Renold was not an employee of Arora at any time in 2009 or 2010.
+(q) Arora reported revenue of $330,000 in its 2009 taxation year and $837,622 in its 2010 taxation year.All of that revenue originated from Econo.
+(r) Mr. Singh testified that Arora was paid based on the nature of Econo’s invoices, as the volume and complexity of the invoices were the basis for paying Arora. However, these factors were not always directly proportionate to Econo’s business revenues.
+(s) Arora reported the following expenses in reporting its taxable income for its 2009 and 2010 taxation years:
+(l) In 2010, Econo paid a small percentage (between 3 and 10%) of the total compensation earned by the Full Time Employees (excluding Ms. Singh). Mr. Singh testified that it was likely because the Full Time Employees did work for Econo outside of their capacity as Arora employees.
+Advertising & promotion
+$731
+Total expenses for income tax purposes
+$349,806
+$45,126
+2010
+2009
+Interest & bank charges
+$164
+$20
+Office expenses
+$128
+$1,006
+Professional fees
+$1,140
+$5,500
+Salaries & wages
+$273,906
+$38,000
+Vehicle
+$8,601
+$600
+Commissions
+$66,719
+Less non-deductible expenses
+($1,583)
+($0)
+(t) In issuing the Reassessments, the Minister disallowed the following expenses claimed by Arora in its 2009 and 2010 taxation years:
+2010
+2009
+Advertising & promotion
+$731
+Interest & bank charges
+$164
+$20
+Office expenses
+$128
+$1,006
+Professional fees
+$1,140
+$5,500
+Salaries & wages
+$0
+$0
+Vehicle
+$8,601
+$600
+Commissions
+$0
+Less non-deductible expenses
+($1,583)
+($0)
+Total expenses for income tax purposes
+$9,181
+$7,126
+(u) In issuing the Reassessments, the Minister allowed the following expenses claimed by Arora in its 2009 and 2010 taxation years:
+2010
+2009
+Advertising & promotion
+$0
+Interest & bank charges
+$0
+$0
+Office expenses
+$0
+$0
+Professional fees
+$0
+$0
+Salaries & wages
+$273,906
+$38,000
+Vehicle
+$0
+$0
+Commissions
+$66,719
+Less non-deductible expenses
+($0)
+($0)
+Total expenses for income tax purposes
+$340,625
+$38,000
+LAW AND ANALYSIS
+[9] Subsection 125(1) of the Act [10] provides that a CCPC, in computing its tax payable under the Act, may (in specified circumstances) claim a small business deduction in respect of its income from an “active business carried on in Canada”.
+[10] “Active business carried on by a corporation” [11] is defined in subsection 125(7) as follows:
+“active business carried on by a corporation” means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade;
+[emphasis added]
+[11] “Active business” is also defined in subsection 248(1) as follows:
+“active business”, in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+[emphasis added]
+[12] “Business” is defined broadly in subsection 248(1) as follows:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+[emphasis added]
+[13] As defined, the definition of both “active business” in subsection 248(1) and “active business carried on by a corporation” in subsection 125(7) specifically exclude a “personal services business”, which is defined in subsection 125(7) as follows:
+“personal services business” carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an “incorporated employee”), or
+(b) any person related to the incorporated employee
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+[emphasis added]
+[14] I also note that paragraph 18(1)(p) provides as follows:
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+…
+(p) an outlay or expense to the extent that it was made or incurred by a corporation in a taxation year for the purpose of gaining or producing income from a personal services business, other than
+(i) the salary, wages or other remuneration paid in the year to an incorporated employee of the corporation,
+(ii) the cost to the corporation of any benefit or allowance provided to an incorporated employee in the year,
+(iii) any amount expended by the corporation in connection with the selling of property or the negotiating of contracts by the corporation if the amount would have been deductible in computing the income of an incorporated employee for a taxation year from an office or employment if the amount had been expended by the incorporated employee under a contract of employment that required the employee to pay the amount, and
+(iv) any amount paid by the corporation in the year as or on account of legal expenses incurred by it in collecting amounts owing to it on account of services rendered
+that would, if the income of the corporation were from a business other than a personal services business, be deductible in computing its income;
+[emphasis added]
+[15] Based on the foregoing, it is clear that a corporation which carries on a “personal services business” in a taxation year cannot claim the small business deduction for that taxation year and the expenses which it may claim for that taxation year are restricted to those permitted pursuant to paragraph 18(1)(p).
+[16] As previously noted, in this case the Minister determined that Arora was carrying on a “personal services business” in both its 2009 and 2010 taxation years. As such, the Minister denied the small business deduction and certain expenses claimed by Arora in each of those taxation years. The Minister, however, accepted the revenue reported by the Appellant as well as all of the commission, wage and salary expenses claimed by the Appellant in each of its 2009 and 2010 taxation years. [12] Based on both the Minister’s audit report and the Respondent’s Reply, it is clear that the only basis for the Reassessments was the Minister’s determination that Arora was carrying on a “personal services business” in those taxation years. It is thus necessary to determine if Arora was carrying on a “personal services business” in each of its 2009 and 2010 taxation years.
+[17] The definition of “personal services business” was discussed at length by Justice Owen of this Court in Ivan Cassell Ltd. v. R., 2016 TCC 53, where he noted the following at paragraphs 33-46:
+33 The PSB definition was considered by the Federal Court of Appeal in Dynamic Industries Ltd. v. R., 2005 FCA 211 (F.C.A.) (Dynamic Industries). With respect to the history of the relevant provisions of the ITA, Sharlow J.A. observed (at paragraphs 39 and 44):
+The provisions of the Income Tax Act relating to personal services businesses were enacted to deny certain tax advantages that may be obtained by providing services through a corporation, rather than personally. These provisions are directed primarily at the situation exemplified by Sazio v. Minister of National Revenue ....
+. . .
+The rejection of the business purpose test appeared to make it easier for a person to provide services through a Sazio-type arrangement, rather than personally, thus obtaining the related tax advantages. The government still believed that such a result was not reasonable. The enactment of the definition of “personal services business”, and related provisions such as paragraph 18(1)(p), was intended to deny, in part, the tax advantages of such arrangements...
+34 Sharlow J.A. went on to state that the issue raised by the definition — in this case, whether Mr. Cassell would reasonably be regarded as an officer or employee of WPNL but for the existence of ICL — required consideration of the decisions in Wiebe Door Services and Sagaz Industries (at paragraph 50):
+This case requires consideration of Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553, [1986] 2 C.T.C. 200, 87 D.T.C. 5025 (F.C.A.) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, the leading cases in which the central question is whether an individual is providing services to another person as an employee, or as a person in business on his or her own account. I refer to this as the “Sagaz question” (Sagaz, paragraph 47). The factors to be taken into account in determining the Sagaz question will depend upon the particular case, but normally they will include the level of control the employer has over the worker's activities, whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management undertaken by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+35 For the sake of completeness, I would add to the two cases cited by Sharlow J.A. the subsequent decision of the Federal Court of Appeal in 1392644 Ontario Inc. v. Minister of National Revenue, 2013 FCA 85 (F.C.A.) (Connor Homes).
+36 In Sagaz Industries, the issue was whether Sagaz Industries (SI) was vicariously liable for a bribery scheme perpetrated by a consultant of SI. In the circumstances of the case, this turned on whether the consultant was an employee of SI or an independent contractor.
+37 In considering this issue, Major J. first described the policy basis for imposing vicarious liability on SI for the acts of an employee but not for the acts of an independent contractor:
+... Vicarious liability is fair in principle because the hazards of the business should be borne by the business itself; thus, it does not make sense to anchor liability on an employer for acts of an independent contractor, someone who was in business on his or her own account. In addition, the employer does not have the same control over an independent contractor as over an employee to reduce accidents and intentional wrongs by efficient organization and supervision. Each of these policy justifications is relevant to the ability of the employer to control the activities of the employee, justifications which are generally deficient or missing in the case of an independent contractor.... However, control is not the only factor to consider in determining if a worker is an employee or an independent contractor. For the reasons discussed below, reliance on control alone can be misleading, and there are other relevant factors which should be considered in making this determination.
+38 It is of particular note that, even though Major J. identified control as an important policy basis for the imposition of vicarious liability on employers for the acts of employees, he did not consider control to be the only basis for determining whether an individual was an employee or an independent contractor. In fact, he cautioned that “reliance on control alone can be misleading”. This is particularly so when one is addressing circumstances involving services provided by a professional or by an owner or high-level manager of the business receiving the services.
+39 Major J. then undertook a detailed review of the distinction between an employee and an independent contractor. He started by noting that MacGuigan J.A. thoroughly reviewed the relevant case law in Wiebe Door Services, which decision Major J. cited favourably many times in his consideration of the issue. MacGuigan J.A.'s review identified the various tests that had been adopted by the courts since the mid-nineteenth century: the control test, the entrepreneur test, the organization test and the enterprise risk test. In the end, however, drawing on the analysis of MacGuigan J.A., Major J. concluded that no one test was conclusive:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ...” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[Emphasis added by Owen J.]
+40 More recently, in Connor Homes, the Federal Court of Appeal reaffirmed the correct approach to the employee versus independent contractor analysis, but also addressed the role of common intention:
+The ultimate question to determine if a given individual is working as an employee or as an independent contractor is deceivingly simple. It is whether or not the individual is performing the services as his own business on his own account ....
+. . .
+MacGuigan J.A. redefined the integration test by providing that it applied only from the worker's perspective, and he considerably limited its use. Significantly, however, MacGuigan J.A. established the principle that there are no specific and determinative criteria that can be used, but rather “[w]hat must always remain the essence is the search for the total relationship of the parties”: Wiebe Door at p. 563. He concluded that there is only one test: “I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls ‘the combined force of the whole scheme of operations’, even while the usefulness of the four subordinate criteria is acknowledged”: ibid at p. 562. In essence, the question to be addressed is “[w]hose business is it?”: ibid at p. 563.
+Major J., writing for the Supreme Court of Canada in Sagaz, approved the approach of MacGuigan J.A. in Wiebe Door, and added that the “central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account.”: Sagaz at para. 47. In making this determination, no particular factor is dominant and there is no set formula. The factors to consider may thus vary with the circumstances and should not be closed. Nevertheless, certain factors will usually be relevant, such as the level of control held by the employer over the worker's activities, and whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+. . .
+The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker's activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+41 With respect to common intention, the Court stated:
+... Royal Winnipeg Ballet stands for the proposition that what must first be considered is whether there is a mutual understanding or common intention between the parties regarding their relationship. Where such a common intention is found, be it as independent contractor or employee, the test set out in Wiebe Door is then to be applied by considering the relevant factors in light of that mutual intent for the purpose of determining if, on balance, the relevant facts support and are consistent with the common intent....
+. . .
+... properly understood, the approach set out in Royal Winnipeg Ballet simply emphasises the well-know[n] principle that persons are entitled to organize their affairs and relationships as they best deem fit. The relationship of parties who enter into a contract is generally governed by that contract. Thus the parties may set out in a contract their respective duties and responsibilities, the financial terms of the services provided, and a large variety of other matters governing their relationship. However, the legal effect that results from that relationship, i.e. the legal effect of the contract, as creating an employer-employee or an independent cont[r]actor relationship, is not a matter which the parties can simply stipulate in the contract. In other words, it is insufficient to simply state in a contract that the services are provided as an independent contractor to make it so.
+42 I will first consider the role of common intention in the application of the PSB definition. As observed by Mainville J.A. in Connor Homes, the importance of common intention or mutual understanding is rooted in the principle that parties are entitled to organize their affairs and relationships as they deem fit. Importantly, however, common intention or mutual understanding can only be relevant to the analysis if the parties to the arrangement under scrutiny have an agreement (written or oral) with one another. Here, the relevant agreement is between ICL and WPNL. In circumstances such as these, there can be no mutual understanding or common intent to consider in assessing whether Mr. Cassell would reasonably be regarded as an employee of WPNL but for the existence of ICL. The hypothetical circumstance imposed by the PSB definition in order to achieve its anti-avoidance objective simply precludes any such analysis.
+43 As to whether Mr. Cassell would reasonably be regarded as an officer or employee of WPNL but for the existence of ICL, the above cases make clear the fact that “no particular factor is dominant” and that “there is no set formula”. Instead, the factors to consider are open-ended and vary with the circumstances. This approach is particularly appropriate for the interpretation of the PSB definition, which requires the assessment of the relationship to be made in light of a hypothetical (i.e., the non-existence of ICL). Such a hypothetical situation can only properly be addressed by considering all the facts and circumstances to determine whether the “incorporated employee” was acting in a manner consistent with being an employee of the entity receiving the services or with being an independent contractor.
+44 I also note that while the PSB definition asks whether Mr. Cassell would reasonably be regarded as an officer or employee of WPNL but for the existence of ICL, the base test in the jurisprudence asks whether the individual is performing the services in issue as a person in business on his own account. I believe, however, that it is a simple matter to adapt this test to the language of the PSB definition by asking whether, taking into consideration all the circumstances, Mr. Cassell would reasonably be regarded as carrying on a business on his own account if ICL did not exist.
+45 In this case, the circumstances lead me to the inexorable conclusion that if the existence of ICL were ignored, Mr. Cassell would reasonably be considered to be an employee of WPNL. …
+46 In light of all of these considerations, I have concluded that Mr. Cassell would reasonably be regarded as an employee of WPNL but for the existence of ICL. Stated in the language of the central question identified in Wiebe Door, Sagaz Industries and Connor Homes, I find nothing in the totality of the circumstances to suggest that Mr. Cassell would reasonably be considered to be carrying on a services business on his own account if ICL did not exist. The business that is the focus and raison d'etre of Mr. Cassell's activities is the business of WPNL. If ICL did not exist, the only business to which the services relate would be that of WPNL and Mr. Cassell would reasonably be considered an employee of that business. Accordingly, ICL's business of providing management services to WPNL during its 2008, 2009 and 2010 taxation years was a “personal services business” and the appeal is dismissed with costs to the Respondent.
+[emphasis added]
+[18] In this case, it is clear that Ms. Singh is a specified shareholder of Arora as she owned 76 percent of the Class A common shares in the capital of Arora. The next question therefore is whether Ms. Singh performed services on behalf of Arora in each of 2009 and 2010. If so, it is then necessary to answer the hypothetical question posed by the PSB definition, namely whether Ms. Singh would reasonably be regarded as an officer or employee of Econo but for the existence of Arora. If both of these questions are answered positively in respect of Arora’s 2010 taxation year, it will then be necessary to determine if Arora had more than five full time employees in 2010 and therefore meets the exception set out in paragraph (c) of the PSB definition. [13]
+[19] In this case, the Respondent has argued that Arora was a personal services business in each of its 2009 and 2010 taxation years. In this respect, the Respondent argued that Ms. Singh was the incorporated employee of Arora and, but for the existence of Arora, Ms. Singh would reasonably be regarded as an officer or employee of Econo under a contract of service.
+[20] The Respondent further argued that Arora did not have more than five full time employees throughout 2009 and 2010. In this respect, the Respondent argued that Arora had no employees in 2009 and five full time employees in 2010. The Respondent also took the position that Mr. Renolds was an independent contractor, and not an employee of Arora in either 2009 or 2010.
+[21] At trial, the Appellant argued that:
+(a) Arora did not carry on a personal services business because it was in business on its own account, and that the support it provided to Econo was only one aspect of that business, as it was formed for the purpose of pursuing other business opportunities that Econo could not pursue. Arora also had four other full time employees providing services to Econo, none of whom were specified shareholders;
+(b) Arora did not carry on a personal services business in 2009 because it had no employees in 2009, and therefore could not have had an “incorporated employee” within the meaning of the definition of a personal services business; and
+(c) Arora did not carry on a personal services business in 2010 because it had five full time employees in 2010 and had also engaged the services of an independent contractor in 2010, and therefore it had more than five full time employees in 2010 and therefore met the exception set out in paragraph (c) of the PSB definition.
+[22] The Appellant further argued that the fundamental question to determine was whether the Appellant was in fact in business on its own account. According to the Appellant, the way in which Arora billed Econo resulted in an opportunity of profit or a risk of loss – both of which are important factors to consider when determining whether a person or entity is in business on their own account. In this respect, the Appellant noted that Mr. Singh testified that due to the volatility in the oil market, Arora was incorporated to diversify risk, take advantage of opportunities that Econo could not participate in and to obtain access to pricing formulas that were not offered to Econo.
+[23] The Appellant argued that it is open to this Court to determine whether the presence of any worker performing any services may satisfy the requirement of having more than five full time employees. In this respect, the Appellant stated that although Mr. Renolds may not be anything other than an independent contractor, his relationship with Arora may be sufficient to satisfy Arora having more than five full time employees for the purposes of the exception set out in paragraph (c) of the PSB definition.
+[24] The Respondent objected to the Appellant’s arguments in respect of Arora having no employees in 2009 and the independent contractor satisfying the requirement of Arora having more than five full time employees in 2010. This objection was based on the grounds that these arguments had not been pleaded and were therefore new issues being raised at trial for the first time. However, the Appellant argued that these were not new arguments. In this respect, I asked the parties to provide written submissions on whether I could consider the arguments raised by the Appellant.
+[25] I have reviewed the submissions made by both parties. In my view, the arguments raised by the Appellant at trial were not new arguments, but rather an elaboration of the Appellant’s legal argument already made; namely that Arora was not carrying on a personal services business in its 2009 and 2010 taxation years. [14] The Appellant did not allege any new facts, and in fact relied on the facts assumed and pleaded by the Minister. [15] At trial, the Appellant also did not raise any new sections of the Act, but relied on the sections of the Act set out in the parties’ pleadings. In my view, it is clear that both of the legal arguments raised by the Appellant, which the Respondent opposes, were based on the facts as pleaded by the parties and are based on the wording set out in subsection 125(7) for the definition of “personal services business”. While it would have been preferable for the Appellant to have set them out in more detail in its Notice of Appeal, in my view, they are arguments contemplated by the wording of the Appellant’s Notice of Appeal and the Respondent’s Reply. I also note that the argument regarding the independent contractor was referenced a number of times in the correspondence and other documentation included in both parties’ exhibits, and therefore should not have been a surprise to the Respondent. [16] In addition, based on the facts pleaded by the Respondent (including, in particular, that Arora had no employees in 2009), it is my view that the Respondent’s Reply inherently contemplated that Arora was not carrying on a “personal services business” in 2009 because it could not have met the first part of the definition, and as such that issue would have been considered by this Court in any event. [17] As such, it is my view that these arguments should be considered by this Court in the hearing of this Appeal.
+[26] As previously noted, it is my view, on a balance of probabilities, that Arora had no employees in 2009, and in particular that Ms. Singh was not an employee of Arora in 2009 and did not provide any services on behalf of Arora in 2009. As such, it is my view that Arora could not have been carrying on a personal services business in 2009 because paragraph (a) of the PSB definition was not satisfied with respect to Arora’s 2009 taxation year. In light of the foregoing determination, it is not necessary to consider the PSB hypothetical question in respect of Arora’s 2009 taxation year.
+[27] In 2010, it is clear that Ms. Singh was an employee of, and providing services on behalf of, Arora. As such, it is necessary to answer the hypothetical question posed by the PSB definition, namely whether Ms. Singh would reasonably be regarded as an officer or employee of Econo but for the existence of Arora.
+[28] In this case, I note that Ms. Sing was an employee of Econo in 2009. She carried on the same work in 2010 as an employee of Arora while continuing to work out of Econo’s office and using Econo’s office equipment and supplies. Arora did not pay Econo for the use of its premises or equipment and supplies. All of Arora’s income in 2009 and 2010 came from Econo. In addition, I note that Arora did not provide any invoices to Econo for any of the services Arora provided to Econo in 2010. Both Ms. Singh, as well as the other Full Time Employees, did the same work for Econo in 2009 and 2010, except that in 2010 it was done under the name of Arora. I also note that neither Ms. Singh, nor any of the other Full Time Employees, testified at the hearing of this Appeal. Only Mr. Singh, the controlling shareholder, mind and management of Econo, testified. I have drawn a negative inference from the failure of Arora to call either Ms. Singh or any of the other Full Time Employees to testify at the hearing of this Appeal. Overall, when considering all of the factors summarized by Justice Owen in Ivan Cassell Ltd. as quoted above, it is my view that it is clear that Arora and Ms. Singh were not, in 2010, carrying on a services business on their own account, but rather the business that was the focus and raison d’etre of their activities was the business of Econo. As such, it is my view that, but for the existence of Arora, Ms. Singh would have reasonably been regarded as an employee of Econo in 2010, as she was in 2009.
+[29] In light of my finding regarding the hypothetical question in respect of Arora’s 2010 taxation year, it will next be necessary to determine if Arora had more than five full time employees in 2010 and therefore meets the exception set out in paragraph (c) of the PSB definition.
+[30] In this respect and as previously noted, the Appellant argued that the independent contractor engaged by Arora in 2010 could satisfy the requirement of having more than five full time employees set out in paragraph (c) of the PSB definition. The Respondent argued there is no law to support such a position. I agree. In this respect, it is my view that the Appellant’s argument in respect of its 2010 taxation year must fail because:
+(a) the carve out in paragraph (c) of the definition of “personal services business” clearly requires more than five full time employees;
+(b) Arora only had five full time employees in 2010; and
+(c) an independent contractor cannot be considered in making this determination.
+[31] In my view, there is no law to support the Appellant’s argument. [18] In addition, it is my view that the text of paragraph (c) of the PSB definition is clear that the exception only relates to employees, and not any other form of service provider. It refers to both the words “employs” and “employees”. It is my view that the context and purpose of the PSB definition also supports this position. As such, it is my view that Arora cannot rely on the exception set out in paragraph (c) of the PSB definition in respect of its 2010 taxation year, and accordingly was carrying on a personal services business in its 2010 taxation year.
+[32] Based on the foregoing, it is my view that Arora was not carrying on a personal service business in its 2009 taxation year but was carrying on a personal services business in its 2010 taxation year.
+CONCLUSION
+[33] Based on all of the foregoing, Arora’s Appeal:
+(a) in respect of its 2009 taxation year is allowed, and the reassessment under appeal is referred back to the Minister for reconsideration and reassessment on the basis that Arora was not carrying on a “personal services business” in its 2009 taxation year, and as a result Arora was not thereby precluded from claiming:
+(i) the small business deduction pursuant to subsection 125(1) of the Act in respect of its 2009 taxation year, and
+(ii) expenses totalling $7,126 pursuant to paragraph 18(1)(p) of the Act in respect of its 2009 taxation year; and
+(b) in respect of its 2010 taxation year is dismissed.
+COSTS
+[34] Considering the mixed results, the complexity of the issues, the amounts at issue, the conduct of the parties and the other factors set out in subsection 147(3) of the Tax Court of Canada Rules (General Procedure), I am exercising my discretion not to award costs in this Appeal, and as a result, each party shall bear their own costs.
+Signed at Ottawa, Canada, this 1st day of May 2019.
+“Henry A. Visser”
+Visser J.
+Appendix “A”
+Legislation
+The statutory references in this schedule are to provisions of the Income Tax Act in force for the 2009 and 2010 taxation years.
+18(1) General limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+…
+(p) limitation re personal services business expenses — an outlay or expense to the extent that it was made or incurred by a corporation in a taxation year for the purpose of gaining or producing income from a personal services business, other than
+(i) the salary, wages or other remuneration paid in the year to an incorporated employee of the corporation,
+(ii) the cost to the corporation of any benefit or allowance provided to an incorporated employee in the year,
+(iii) any amount expended by the corporation in connection with the selling of property or the negotiating of contracts by the corporation if the amount would have been deductible in computing the income of an incorporated employee for a taxation year from an office or employment if the amount had been expended by the incorporated employee under a contract of employment that required the employee to pay the amount, and
+(iv) any amount paid by the corporation in the year as or on account of legal expenses incurred by it in collecting amounts owing to it on account of services rendered
+that would, if the income of the corporation were from a business other than a personal services business, be deductible in computing its income;
+125(1) Small business deduction — There may be deducted from the tax otherwise payable under this Part for a taxation year by a corporation that was, throughout the taxation year, a Canadian-controlled private corporation, an amount equal to the corporation’s small business deduction rate for the taxation year multiplied by the least of
+(a) the amount, if any, by which the total of
+(i) the total of all amounts each of which is the income of the corporation for the year from an active business carried on in Canada (other than the income of the corporation for the year from a business carried on by it as a member of a partnership), and
+(ii) the specified partnership income of the corporation for the year
+exceeds the total of
+(iii) the total of all amounts each of which is a loss of the corporation for the year from an active business carried on in Canada (other than a loss of the corporation for the year from a business carried on by it as a member of a partnership), and
+(iv) the specified partnership loss of the corporation for the year,
+(b) the amount, if any, by which the corporation’s taxable income for the year exceeds the total of
+(i) 10/3 of the total of the amounts that would be deductible under subsection 126(1) from the tax for the year otherwise payable under this Part by it if those amounts were determined without reference to sections 123.3 and 123.4,
+(ii) 10/4 of the total of the amounts that would be deductible under subsection 126(2) from the tax for the year otherwise payable under this Part by it if those amounts were determined without reference to section 123.4, and
+(iii) the amount, if any, of the corporation’s taxable income for the year that is not, because of an Act of Parliament, subject to tax under this Part, and
+(c) the corporation’s business limit for the year.
+125(7) Definitions — In this section,
+…
+“active business carried on by a corporation” means any business carried on by the corporation other than a specified investment business or a personal services business and includes an adventure or concern in the nature of trade;
+…
+“personal services business” carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an “incorporated employee”), or
+(b) any person related to the incorporated employee
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+248(1) Definitions — In this Act,
+…
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+CITATION:
+2019 TCC 98
+COURT FILE NO.:
+2015-5258(IT)G
+STYLE OF CAUSE:
+ARORA TRADING LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+May 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Henry A. Visser
+DATE OF JUDGMENT:
+May 1, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Estelle Duez
+Counsel for the Respondent:
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C., 1985, c.1 (5th Supp.), as amended. All statutory references herein are to the
+Act unless specified otherwise.
+[2] As defined in subsection 125(7) of the Act.
+[3] Consequential assessments were also made for provincial tax purposes.
+[4] Arora was incorporated under the name “Arora Consulting Inc.” on December 18, 2008, and changed its name to “Arora Trading Ltd.” on November 5, 2009.
+[5] See paragraph 4 of the Appellant’s Notice of Appeal and paragraphs 12(k) and (l) of the Respondent’s Reply. While paragraph 4 of the Appellant’s Notice of Appeal was not specifically admitted by the Respondent, the assumptions set out in paragraphs 12(k) and (l) of the Respondent’s Reply essentially set out the same facts. Mr. Goldy Singh also testified that Ms. Sing was the controlling shareholder of Arora at all relevant times.
+[6] See paragraph 5 of the Notice of Appeal, which refers to 1992, and was admitted in paragraph 1 of the Reply. In his testimony, Mr. Singh testified Econo was created and has been in business since 1994.
+[7] While not at issue in this Appeal, the parties advised that the two corporations were not associated in 2009 and 2010 for the purposes of the Act based on the lack of cross ownership and the decision of the Federal Court of Appeal in McGillivray Restaurant Ltd. v. R., 2016 FCA 99. I note that Parliament subsequently amended section 256 of the Act in response to McGillivray. As this issue was not raised, I have not considered it further.
+[8] See Exhibit A-1, Appellant’s Book of Documents.
+[9] See Exhibit R-1, Respondent’s Book of Documents.
+[10] Excerpts of the Act relevant to these Appeals are set out in Appendix “A” hereto.
+[11] I note that there is a slight mismatch between the term used in subsection 125(1) and the definition set out in subsection 125(7).
+[12] Ms. Kaden testified that the Minister was generous in allowing Arora to deduct expenses beyond those technically permitted by paragraph 18(1)(p).
+[13] Arora had no employees in its 2009 taxation year, and therefore cannot rely on the exception set out in paragraph (c) of the PSB definition in its 2009 taxation year. The parties agreed that Arora and Econo were not associated for the purposes of the Act, and therefore paragraph (d) of the PSB definition does not apply in the circumstances of this case.
+[14] See paragraphs 23, 26, 27 and 28 of the Appellant’s Notice of Appeal.
+[15] While it is my view that the Appellant did not raise any new legal arguments at trial, I note that the Federal Court of Appeal held in Imperial General Properties Ltd. v. R., [1985] 1 C.T.C. 40 (FCA), at paragraph 9, that a party can argue a new legal result at trial from the facts pleaded. In addition, as noted by the Federal Court of Appeal in Loewen v. R., 2004 FCA 146, at paragraph 8, “It is also open to the taxpayer to attempt to establish by argument that, even if the assumed facts are true, they do not justify the assessment as a matter of law”.
+[16] Based on the evidence submitted by the parties at trial, it would appear that this legal argument was considered by the Minister at both the audit and objection stages.
+[17] In my view, the Respondent’s Reply contained an inherent inconsistency in respect of her position that Arora was carrying on a “personal services business” in its 2009 taxation year. For example, while the Minister pleaded that Arora did not have any employees in its 2009 taxation year, the Minister also accepted both the revenue and salary and wage expenses reported by Arora in respect of its 2009 taxation year. I also note that the Minister did not plead that Arora was not carrying on any business in 2009, and I have therefore not considered that issue. However, I note that at paragraph 21 of the Respondent’s Reply, she pleaded that Arora’s “… income is considered to be ‘active business income’”. The Respondent reiterated this position at trial (see Transcript of Proceedings, at page 110, line 9).
+[18] While 489599 B.C. Ltd. v. R., 2008 TCC 332 held that a part time employee could satisfy the “more than five full-time employees” test in paragraph (c) of the PSB definition (where in that case there were otherwise five full time employees), there is in my view no support in law for the proposition that an independent contractor could be used to satisfy that test.

@@ -1,0 +1,136 @@
+Title: Marshall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30564/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-497-30564-marshall-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-10-21
+
+# Marshall v. The Queen
+
+- Citation: 2011 TCC 497
+- Decision date: 2011-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7318, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marshall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-21
+Neutral citation
+2011 TCC 497
+File numbers
+2009-1446(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1446(IT)G
+BETWEEN:
+GORDON E. MARSHALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 11, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 year is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of October 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC497
+Date: 20111021
+Docket: 2009-1446(IT)G
+BETWEEN:
+GORDON E. MARSHALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether shares distributed to the Appellant by a Bermudan company in 2007 were dividends that had to be included in his income.
+[2] In June 2007, Tyco International Ltd. (“Tyco”), a Bermuda company, reorganized so that two of its wholly-owned subsidiaries, Tyco Electronics Ltd. (“Electronics”) and Covidien Ltd. (“Covidien”), were spun-off to be separate, publicly-traded companies.
+[3] The spin-off was conducted in two steps.
+[4] First, shareholders of Tyco were issued one common share of Electronics and one common share of Covidien for every four common shares of Tyco which they held at close of business on June 18, 2007.
+[5] Second, following the distribution of the spin-off shares, through a reverse stock split, shareholders received one common share of Tyco (“New”) for every four common shares of Tyco (“Old”) which they had held.
+[6] Prior to the reorganization, the Appellant owned 2,679 shares in Tyco (“Old”). As a result of the reorganization, the Appellant received 669 shares of Covidien and 669 shares of Electronics (the spin-off shares). It is these shares that are the subject of this appeal.
+[7] The Appellant also received 669 shares of Tyco (“New”) as a result of the reverse stock split.
+[8] TD Waterhouse issued a T5 slip to the Appellant which indicated that he had received foreign income in the amount of $57,170 for the 2007 taxation year. This amount represented the value of the Covidien and Electronics shares. The Appellant failed to include this amount in his income.
+[9] The question to be decided is the nature of the spin-off shares received by the Appellant. For the reasons that follow, I have concluded that the distribution of the spin-off shares was a dividend in kind and the amount of $57,170 is to be included in the Appellant’s income in 2007.
+[10] This is the fifth appeal before this court which has dealt with the nature of the spin-off shares from the Tyco reorganization; but, it is the first such appeal under the General Procedure. Hershfield J. in Hamley v R.[1], Sheridan J. in Yang v R.[2], and McArthur J. in Rezayat v R[3], each found that the spin-off shares were dividends in kind and the appeals were dismissed. Whereas Bowie J. in Capancini v R.[4] found that the spin-off shares were never owned by Tyco but were created in the course of the reorganization and together with the shares in Tyco (“New”) they make up the original capital of Tyco (“Old”)[5]. Bowie J. found that the spin-off shares were not dividends and he allowed the appeal.
+[11] It was the Appellant’s position that I should follow the decision in Capancini and find that Tyco did not own the spin-off shares prior to the reorganization. However, the Respondent has presented evidence which clearly showed that Electronics[6] and Covidien[7] were incorporated in Bermuda in 2000 as wholly-owned subsidiaries of Tyco (“Old”).
+[12] The Appellant also submitted that Tyco applied for exemptive relief from the various provincial securities regulators, including the Ontario Securities Commission (“OSC”). He referred to the Mutual Reliance Review System (“MRRS”) Decision Document[8] as support for his position that the spin-off shares from the Tyco reorganization were to be distributed tax free and not as a dividend. He stated that OSC had granted the exemption and the provincial portion of his income taxes should be refunded to him.
+[13] The exemption granted by the OSC was not that the distribution of the spin-off shares would be exempt from tax. The OSC did not have the jurisdiction to make this type of decision. Rather, according to the MRRS dated June 29, 2007, the OSC and the other provincial securities regulators agreed that Tyco was exempted from the prospectus and registration requirements of their legislation in respect of the proposed distribution of the spin-off shares. I note as well that in its application to the provincial securities regulators Tyco stated that its distribution of the spin-off shares “to holders of common shares of Tyco resident in Canada” would be “by way of a pro rata dividend in kind”. See paragraphs 1.1 and 1.2 of the MRRS.
+[14] It is the Respondent’s position that the Appellant received foreign dividends as a result of the Tyco reorganization and section 86.1 of the Income Tax Act (the “Act”) does not apply to exempt those dividends from taxation.
+[15] Counsel for the Respondent submitted that the word “dividends” is not defined in the Income Tax Act (“Act”) and it should have its ordinary meaning as found in the dictionary. I agree. Section 248 of the Act reads that “dividends” includes stock dividends but it does not define the word “dividends”.
+[16] In Special Risks Holdings Inc. v. The Queen[9], Muldoon J. accepted that a “dividend” was “any distribution by a corporation of its income or capital gains made pro rata among shareholders”. The Dictionary of Canadian Law defines “dividend as a “payment from profits, whether in cash, specie or the shares of another company”. Black's Law Dictionary defines the word "dividend" as
+A portion of a company's earnings or profits distributed pro rata to its shareholders, usually in the form of cash or additional shares.
+[17] A distribution of the shares of a wholly owned subsidiary by a parent corporation to its shareholders is a dividend in kind[10]. The spin-off shares at issue in this appeal were a pro rata distribution of property and this distribution was a dividend in kind.
+[18] Dividends in kind are specifically contemplated by subsection 52(2) of the Act.
+[19] In this appeal, the dividends are from a non-resident corporation and they are taxable pursuant to paragraph 12(1)(k) and section 90 of the Act.
+[20] Although the Appellant has not relied on section 86.1, I feel that I should speak to it as it is the only section of the Act that could allow the Appellant to exclude the value of the spin-off shares from income. Section 86.1 was included in the Act to address the fact that many Canadian shareholders of foreign corporations were being taxed on the distributions from spin-off transactions while shareholders resident in the foreign country where the transaction occurred were not taxed on the same distributions[11]. Section 86.1 contains a number of conditions. It reads:
+86.1 Foreign spin-offs -- (1) Eligible distribution not included in income -- Notwithstanding any other provision of this Part,
+(a) the amount of an eligible distribution received by a taxpayer shall not be included in computing the income of the taxpayer; and
+(b) subsection 52(2) does not apply to the eligible distribution received by the taxpayer.
+(2) Eligible distribution -- For the purpose of this section, a distribution by a particular corporation that is received by a taxpayer is an eligible distribution if
+(a) the distribution is with respect to all of the taxpayer's common shares of the capital stock of the particular corporation (in this section referred to as the "original shares");
+(b) the distribution consists solely of common shares of the capital stock of another corporation that were owned by the particular corporation immediately before their distribution to the taxpayer (in this section referred to as the "spin-off shares");
+(c) in the case of a distribution that is not prescribed,
+(i) at the time of the distribution, both corporations are resident in the United States and were never resident in Canada,
+(ii) at the time of the distribution, the shares of the class that includes the original shares are widely held and actively traded on a designated stock exchange in the United States, and
+(iii) under the United States Internal Revenue Code applicable to the distribution, the shareholders of the particular corporation who are resident in the United States are not taxable in respect of the distribution;
+(d) in the case of a distribution that is prescribed,
+(i) at the time of the distribution, both corporations are resident in the same country, other than the United States, with which Canada has a tax treaty (in this section referred to as the "foreign country") and were never resident in Canada,
+(ii) at the time of the distribution, the shares of the class that includes the original shares are widely held and actively traded on a designated stock exchange,
+(iii) under the law of the foreign country, those shareholders of the particular corporation who are resident in that country are not taxable in respect of the distribution, and
+(iv) the distribution is prescribed subject to such terms and conditions as are considered appropriate in the circumstances;
+[21] Unfortunately for the Appellant, the spin-off shares were not an eligible distribution because the conditions in subsection 86.1(2) were not met. The corporations involved were not resident in the United States (subparagraph 86.1(2)(c)(i)); and, they were not resident in a country with which Canada has a tax treaty (subparagraph 86.1(2)(d)(i)). As well, the distribution was not prescribed within the meaning of subparagraph 86.1(2)(d)(iv); and, Tyco did not provide information to the Minister as required by paragraph 86.1(e).
+[22] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 21st day of October 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC497
+COURT FILE NO.: 2009-1446(IT)G
+STYLE OF CAUSE: GORDON E. MARSHALL AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 11, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 21, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2010 TCC 459
+[2] 2011 TCC 187
+[3] 2011 TCC 286
+[4] 2010 TCC 581
+[5] Ibid, at paragraph 13
+[6] Exhibit R-1, Tab 10, Tyco Electronics 2007 Annual Report, page 29
+[7] Exhibit R-1, Tab 11, 2007 Form 10-K, page 74
+[8] Exhibit R-1, Tab 2
+[9] [1994] 1 C.T.C. 274 (FCTD) at paragraph 10
+[10] Capancini v. R., 2010 TCC 581 at paragraph 13; Re Canadian Pacific Ltd., [1990] O.J. No. 606 at paragraph 77
+[11] See Daniel Lyons, “Foreign Reorganizations and Canadian Shareholders” 2407 Tax Topics (CCH) 1-4 (June 2, 2011).

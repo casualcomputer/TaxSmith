@@ -1,0 +1,320 @@
+Title: Tele-Mobile Company Partnership v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30883/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-256-30883-tele-mobile-company-partnership-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-07-17
+
+# Tele-Mobile Company Partnership v. The Queen
+
+- Citation: 2012 TCC 256
+- Decision date: 2012-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7413, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tele-Mobile Company Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-17
+Neutral citation
+2012 TCC 256
+File numbers
+2009-2959(GST)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2959(GST)G
+BETWEEN:
+TELE-MOBILE COMPANY PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 27 and 28, 2012, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Kimberley L.D. Cook
+Counsel for the Respondent:
+Victor Caux and Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the reporting period between January 2, 2001 and December 31, 2001, and for the reporting period between January 1, 2002, and December 31, 2002, is dismissed with costs.
+Signed at Ottawa, Canada, this 17th day of July 2012.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2012 TCC 256
+Date: 20120813
+Docket: 2009-2959(GST)G
+BETWEEN:
+TELE-MOBILE COMPANY PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+C. Miller J.
+[1] Tele-Mobile Company Partnership ("TELUS") appeals the assessment by the Minister of National Revenue (the "Minister") denying input tax credits ("ITCs") in 2005 and 2006, which TELUS claims arise as a result of Billing Credits and mail‑in rebates provided to customers in 2001 and 2002.
+Facts
+[2] In 2001 and 2002, TELUS ran a couple of promotional programs to attract subscribers to long-term wireless cellular phone service contracts. One program was a mail-in rebate program, the other a Billing Credit arrangement.
+Billing Credit
+[3] While I heard testimony from Ms. Mellett, a Director of Products and Services for TELUS, who was in charge of phone pricing in 2001 and 2002, and Mr. Doug McCall, a Tax Director of TELUS, regarding the promotional programs, I find the letter from TELUS to Canada Revenue Agency ("CRA") on September 14, 2005 most succinctly describes the Billing Credit arrangement:
+TM Billing credits
+Billing credits are given to customers mainly in respect of contract term discounts. A contract term discount is given by TM in order to persuade the customer to enter into a longer term contract, either at the time of purchase of a new cellular phone or when the customer is switching from a month to month plan to a contract term plan. For example, when a customer purchases a cellular phone and signs up for a three year contract, the customer would receive a discount of $150 off the price of the phone. The discount is sometimes given at point of sale and reduces the price of the phone. Alternatively, a billing credit would be given where:
+· The customer is purchasing the phone at a retail store which cannot sign the customer up to the TM service and therefore cannot give a point of sale discount,
+· The customer renews a contract with TM without purchasing a new phone
+· The customer switches from a month-to-month plan to a contract term
+· Corporate clients receive additional acquisition credits as part of a corporate agreement involving the purchase of handsets for corporate use.
+GST is applied to the invoice charges to the customer without reference to the billing credits. Input tax credits have previously not been claimed on the billing credits.
+[4] TELUS’ witnesses clarified that the discount at the time of sale was a discount towards the price of a phone. Such discounts apply to the price of a phone prior to GST being applied. Such amounts are not at issue before me, only the Billing Credits. I am satisfied that the summary of Billing Credits upon which the ITCs are in dispute, found in Tab 2 of Exhibit A-1, do not include these phone discounts, but only the subsequent Billing Credits which appear on a customer’s first invoice from TELUS, after the contract is entered into or renewed. There is no dispute with respect to the numbers found in Tab 2 of Exhibit A-1.
+[5] The amount of credit will depend on the length of service contract for which the customer subscribes. In this regard, I was referred to a page from TELUS’ website that appears to be dated in 2005: it was unclear whether the website page was available in 2001 and 2002 but Ms. Mellett, who was in charge of promotions in 2001 and 2002, testified that the one, two and three-year credits of $50, $100 and $150, were the same at that time and were widely advertised. The webpage describes the program thus:
+PCS phone discounts*
+1 Year Term 2 Year Term 3 Year Term
+$50 credit $100 credit $150 credit**
+§ FAQ – click here for more information on our PCS term contracts offering
+§ Service terms and conditions
+§ PCS rate plans – click here for more information on our PCS rate plans
+*Above discounts available to new clients activating a PCS term contract account.
+**The lowest price for a PCS handset will be $24.00. (i.e.: a $149.99 retail handset on a 3-year term will receive a maximum discount of $125)
+…
+When will my contract term start?
+Your contract term will commence upon TELUS Mobility’s acceptance of a completed contract form.
+…
+When and how is the phone credit applied?
+Based on the successful activation of a contract term account, you can receive your phone credit through one of two methods:
+§ If you purchase your PCS phone at a TELUS Mobility Independent Dealer, you will receive an instant rebate on the purchase price of your phone.
+§ If your purchase your PCS phone at a TELUS Mobility third party retailer or through any other TELUS Mobility Channel Partner location, you will be charged full price for your PCS phone at time of purchase, but will receive the PCS phone rebate as a credit on your first invoice.
+[6] It is also helpful to reproduce one of the invoices from 2002 which illustrates the application of the Billing Credit (see Appendix A). Note that the credit, described as "Contract Handset Cred 3Yr", in this case $125, is taken off the total amount of charges including the applicable GST and PST, although the credit appears in the invoice before the GST charges. So, all the charges add up to $127.35 plus $8.91 GST and $8.91 PST for a total $145.17. The Billing Credit of $125 is deducted from the $145.17 leaving an amount owing of $20.17. If a phone was bought at the TELUS store, the immediate discount would be applied before GST, but that does not appear to be the case with respect to the Billing Credit. Mr. McCall could not explain why the TELUS in-store discount attached before GST, while a subsequent Billing Credit attached after GST, other than to suggest their system had limitations.
+[7] TELUS did not claim ITCs with respect to these Billing Credits, which related to 2001 and 2002, until reporting periods in 2005 and 2006. No explanation was given for this delay. ITCs claimed for the Billing Credits for 2001 and 2002 were $80,730.63 and $391,175.01 respectively.
+Mail-in Rebates
+[8] Again, it is helpful to reproduce TELUS’ description of this program from the September 14, 2005 letter to CRA:
+…
+Periodically, TM runs a mail-in rebate promotion to rebate a sum of money, for example $50, to purchasers of particular cellular telephones. The phones are sold by TM to the various sales channels from which the customer purchases the phones. The customer can purchase the phones from a TELUS corporate store (part of the TM entity), from a dealer (an independent store affiliated with TM, but not part of the TM entity) or from a retailer, (such as Future Shop or London Drugs).
+The transaction is as follows: The customer purchases the phone, is charged GST on the retail price of the phone, fills out the coupon and mails it to TM. A third‑party, PPFD ensures the customer is eligible based on whether they have signed up for cellular service with TM, and then processes the mail-in rebate by issuing a cheque for $50 to the customer. The rebates processed are aggregated on a monthly basis, and a report and invoice is issued to TM. TM then reimburses PPFD for the mail-in rebate paid, and also pays them a processing fee.
+TM phones are specifically wired for use only with the TM cellular phone network. When a customer purchases one of TM’s phones at a corporate store, dealer ore retailer, the customer can only activate the phone with TM and receive cellular phone service from TM (without internally rewiring the phone).
+…
+Ms. Mellett had a slightly different explanation for one aspect of this arrangement as described in the September 14, 2005 letter. She testified that the third party, PPFD, who actually ensures customer eligibility and then issues a cheque, is fronted with the money from TELUS to pay the rebates, along with a service fee from TELUS.
+[9] Attached as Appendix B to these Reasons is a copy of the mail-in rebate coupon. This coupon relates to the 2004 year, though Ms. Mellett testified that she developed the template for the coupon so it was basically the same in 2001 and 2002.
+[10] I will highlight a few points from the coupon:
+a) it is for new activations of the phone;
+b) the rebate is based on the purchase price of the phone and the term activation;
+c) the rebate arises even if there is no term contract as long as a contract is activated (that is, there could be a month-to–month contract rather than a term contract);
+d) the contract must be activated for a minimum of 31 days;
+e) nothing in the coupon indicates the rebate amount included GST.
+[11] I was provided with a copy of a $50 rebate cheque which was branded "TELUS Mobility" though care of PPFD. There was no reference to GST on the cheque.
+[12] The ITC’s in issue for the mail-in rebate relating to the 2001 and 2002 years are $15,921.10 and $76,063.26 respectively.
+Legislation
+[13] Before identifying the Parties’ positions, I will set out the two pertinent Excise Tax Act ("ETA") provisions:
+181. (1) The definitions in this subsection apply in this section.
+“coupon” includes a voucher, receipt, ticket or other device but does not include a gift certificate or a barter unit (within the meaning of section 181.3).
+“tax fraction” of a coupon value or of the discount or exchange value of a coupon means
+(a) where the coupon is accepted in full or partial consideration for a supply made in a participating province the fraction
+A/B
+where
+A is the total of the rate set out in subsection 165(1) and the tax rate for that participating province, and
+B is the total of 100% and the percentage determined for A; and
+(b) in any other case, the fraction
+C/D
+where
+C is the rate set out in subsection 165(1), and
+D is the total of 100% and the percentage determined for C.
+Acceptance of non-reimbursable coupon
+(3) Where at any time a registrant accepts, in full or partial consideration for a taxable supply of property or a service (other than a zero-rated supply), a coupon that entitles the recipient of the supply to a reduction of the price of the property or service equal to a fixed dollar amount specified in the coupon or a fixed percentage, specified in the coupon, of the price (the amount of which reduction is, in each case, referred to in this subsection as the “coupon value”) and the registrant can reasonably expect not to be paid an amount for the redemption of the coupon by another person,
+(a) the registrant shall, for the purposes of this Part, treat the coupon as
+(i) reducing the value of the consideration for the supply as provided for in subsection (4), or
+(ii) a partial cash payment that does not reduce the value of the consideration for the supply; and
+(b) where the registrant treats the coupon as a partial cash payment that does not reduce the value of the consideration for the supply, paragraphs (2)(a) to (c) apply in respect of the supply and the coupon and the registrant may claim an input tax credit for the registrant's reporting period that includes that time equal to the tax fraction of the coupon value.
+Acceptance of other coupons
+(4) For the purposes of this Part, if a registrant accepts, in full or partial consideration for a supply of property or a service, a coupon that may be exchanged for the property or service or that entitles the recipient of the supply to a reduction of, or a discount on, the price of the property or service and paragraphs (2)(a) to (c) do not apply in respect of the coupon, the value of the consideration for the supply is deemed to be the amount, if any, by which the value of the consideration for the supply as otherwise determined for the purposes of this Part exceeds the discount or exchange value of the coupon.
+Redemption of coupon
+(5) For the purposes of this Part, where, in full or partial consideration for a taxable supply of property or a service, a supplier who is a registrant accepts a coupon that may be exchanged for the property or service or that entitles the recipient of the supply to a reduction of, or a discount on, the price of the property or service and a particular person at any time pays, in the course of a commercial activity of the particular person, an amount to the supplier for the redemption of the coupon, the following rules apply:
+(a) the amount shall be deemed not to be consideration for a supply;
+(b) the payment and receipt of the amount shall be deemed not to be a financial service; and
+(c) if the supply is not a zero-rated supply and the coupon entitled the recipient to a reduction of the price of the property or service equal to a fixed dollar amount specified in the coupon (in this paragraph referred to as the “coupon value”), the particular person, if a registrant (other than a registrant who is a prescribed registrant for the purposes of subsection 188(5)) at that time, may claim an input tax credit for the reporting period of the particular person that includes that time equal to the tax fraction of the coupon value, unless all or part of that coupon value is an amount of an adjustment, refund or credit to which subsection 232(3) applies.
+…
+Rebates
+181. 1 Where
+(a) a registrant makes a taxable supply in Canada of property or a service (other than a zero-rated supply),
+(b) a particular person acquires the property or service, either from the registrant or from another person,
+(c) the registrant pays, at any time, a rebate in respect of the property or service to the particular person and therewith provides written indication that a portion of the rebate is an amount on account of tax, and
+(d) subsection 232(3) does not apply to the rebate,
+the following rules apply:
+(e) the registrant may claim an input tax credit for the reporting period of the registrant that includes that time equal to the product obtained when the amount of the rebate is multiplied by the fraction (in this section referred to as the “tax fraction in respect of the rebate”)
+A/B
+where
+A is
+(i) if tax under subsection 165(2) was payable in respect of the supply of the property or service to the particular person, the total of the rate set out in subsection 165(1) and the tax rate of the participating province in which that supply was made, and
+(ii) in any other case, the rate set out in subsection165(1), and
+B is the total of 100% and the percentage determined for A, and
+(f) where the particular person is a registrant who was entitled to claim an input tax credit, or a rebate under Division VI, in respect of the acquisition of the property or service, the particular person shall be deemed, for the purposes of this Part, to have made a taxable supply and to have collected, at that time, tax in respect of the supply equal to the amount determined by the formula
+A × B/C × D
+where
+A is the tax fraction in respect of the rebate,
+B is the input tax credit or rebate under Division VI that the particular person was entitled to claim in respect of the acquisition of the property or service,
+C is the tax payable by the particular person in respect of the acquisition of the property or service, and
+D is the amount of the rebate paid to the particular person by the registrant.
+Parties’ Positions
+[14] With respect to the ITCs connected to the Billing Credits, the Appellant argues:
+a) The Billing Credit arrangement is a coupon (device) as defined in s.181(1) of the ETA entitling the customer to a reduced price for TELUS’ services equal to a fixed amount specified in the coupon (device) and thus bringing into play s.181(3) of the ETA entitling TELUS to the ITCs (181(3)(b)) of the ETA).
+b) In the alternative, if the Billing Credit arrangement is not a coupon subject to s.181(3) of the ETA then it is a rebate pursuant to s.181.1 of the ETA entitling TELUS to ITCs, as TELUS paid it in respect of its services and there was written indication that a portion of the rebate was an amount on account of tax.
+[15] The Respondent replies to the Appellant’s position with respect to the Billing Credits as follows:
+a) The Billing Credit arrangement is not a coupon that invokes s.181 of the ETA as:
+i) it was a rebate on the price of the phone not a coupon presented to TELUS for its services;
+ii) it does not meet the definition of coupon;
+iii) even if the Billing Credit is considered a coupon, it was not based on "a fixed dollar amount", nor was it in a form that could be "accepted" by TELUS.
+b) In the alternative, s.181.1 of the ETA is not applicable as:
+i) the rebate relates to the supply of the phone (not a supply by TELUS) and not the supply of TELUS’ services; and
+ii) there is no written indication that a portion of the rebate is an amount on account of tax.
+[16] With respect to the ITCs connected to the mail-in coupon or rebate, the Appellant argues that the mail-in coupon constitutes a non-reimbursable coupon for a fixed dollar amount entitling the customer to a reduction of the price for TELUS’ services engaging s.181(3) of the ETA, as TELUS effectively refunded part of the price paid by the customer for TELUS’ services.
+[17] The Appellant does not argue that s.181.1 of the ETA applies.
+[18] The Respondent replies to TELUS’ position vis-à-vis the ITCs in connection with the mail-in coupons by arguing the mail-in coupon was not a coupon as defined, but a rebate on the price of the phone, which was not supplied by TELUS and therefore could not be accepted as consideration for that supply. Even if it was, there was no one fixed price as required by 181(3) of the ETA. The Respondent acknowledged that had the refund cheque indicated that the refund was GST included, the Appellant could have availed itself of s.181.1 of the ETA.
+Analysis
+[19] Before starting my analysis of the ETA, it is not lost on me that TELUS took several years before claiming the ITCs in dispute: as no explanation was put forward as to why, I am left to speculate that someone eventually realized that TELUS had made a mistake. How to rectify it? S.261 of the ETA, at that time (prior to 2007), might have been a route to such a rebate, but TELUS had already passed the two‑year time restriction. S.181 and 181.1 of the ETA offered perhaps the next best solution, but it is clear to me that neither provision provides an elegant solution, but requires some tortured, though maybe not totally unfeasible, interpretive bending of the sections. Do I do that, or do I simply tell TELUS to lick its wounds and get it right going forward?
+A. Billing Credits
+[20] The first hurdle to get over is to determine to which supply the credit attaches. The Respondent says that the Billing Credits are given with respect to the handsets, the phones, while the Appellant claims the Billing Credits are for TELUS’ services. What confuses the issue is the fact that if a customer acquires a handset at a TELUS outlet, the customer will get an immediate reduction on the price of the handset, but if that is not available, the customer gets a credit on the first TELUS invoice, the invoice being for TELUS’ services, not the handset. It is the credits in the latter situation that are at issue.
+[21] The situation is best described by way of example. Assume a customer buys a handset from a non-TELUS outlet and pays $300 plus 5% GST or $315. The customer has either read on TELUS’ website, or is advised by the vendor of the handset, that if you agree to a two-year service contract with TELUS you are entitled to a $100 "phone rebate as a credit" (to make the numbers easier to understand, I will say it was a $105 credit, rather than the $100 credit) on your first TELUS invoice. From a GST perspective this is awkward wording as the first TELUS invoice is not for the phone but for the service contract.
+[22] What happens on that first invoice? Continuing with the example, let us say the first invoice is for $100. Based on the TELUS invoices in evidence, TELUS charges $100, subtracts the $105 credit, calling it "contract handset Cred 2Yr", and applies GST of $5.00. The invoice will show $5 GST to be remitted by TELUS, but $0 for the total current charges owing by the recipient of the services. Using the language and set-up in the TELUS invoice attached as Appendix A, the invoice would look something like this:
+Service Charge $100
+Contract handset
+Cred 2 Yr - $105 -$5
+GST $5
+Total current charge owing 0
+Presume that the first service charge was for $300, rather than $100. The invoice would then look as follows:
+Service Charge $300
+Contract handset
+Cred 2Yr - $105 $195
+GST $ 15
+Total current charge owing $210
+[23] I conclude that, notwithstanding the language in TELUS’ promotional materials that leave an impression the credit applies to the phone or handset, the commercial reality is that it did not apply to the handset, it applied to the TELUS services. This was the only supply referenced on the invoice and it has to have been those services against which the credit was applied.
+i. Billing Credits as a Coupon: Section 181 of the ETA
+[24] I turn now to the application of s.181 of the ETA to these facts. Is the Billing Credit arrangement a coupon? Recall that a coupon includes a device, and in accordance with s.181(3) of the ETA, a device entitling the recipient to a reduction of the price of the service equal to a fixed dollar amount specified in the device, and accepted by TELUS as consideration.
+[25] The Appellant suggests that I take an open-textured approach to the interpretation of coupon, relying on the Supreme Court of Canada’s comments in the case of R. v. Perka[1] which suggested that an open-textured approach supports an interpretation that the statutory categories are to be held to include things unknown when the statute was enacted.
+[26] The Respondent argues that the arrangement lacks any of the characteristics of a coupon and following the ejusdem generis rule, "device" should share similar characteristics to voucher, receipt and ticket. Referring to dictionary definitions, the Respondent concludes that each of voucher, receipt and ticket contemplate some thing used by a customer during the transaction, not after the transaction, entitling the customer to a price reduction. So, if the credit applied to the handset, not the TELUS service, it is more of a rebate than an acceptance of a coupon for a current transaction. But, as I have concluded from the evidence, the credit goes to reduce the TELUS service charge, not the amount paid for the handset. In that respect, the billing credit arrangement does meet the characteristic of immediacy to the transaction shared by a voucher, receipt and ticket in that it is granted simultaneously with the charge of the service, being the first TELUS invoice. What it does not share, however, and basic to the definition, is that it is not some thing entitling the customer to the reduction – it is the reduction itself. This is a significant distinction.
+[27] The generic term "device" defined in Webster’s On-line Dictionary as "a mechanism designed to serve a special purpose or perform a special function…an electronic device" broadens considerably any notion that "coupon" must be limited to any traditional view. The use of device suggests that the legislators acknowledged commerce has entered a technological age where paper may indeed become completely outdated. As the Appellant suggested, the standard commercial practice has evolved with the advent of e-commerce and instead of issuing a paper coupon, a customer’s entitlement to a reduction in purchase price can be effected electronically. I do not see how this approach, however, helps the Appellant, as it has pointed to nothing held by the customer, electronically or otherwise, entitling the customer to the credit. The customer simply gets it.
+[28] The Appellant also argued that the exclusion of a "barter unit" from the definition of coupon suggests a broad sweep of what must be included in a coupon, so broad that it would pick up TELUS’ Billing Credits. I agree with the Appellant that a barter unit is not the traditional view of coupon, but it does still represent some thing, like points, that a customer can take to someone in the barter network to reduce the price of the service or product. It does not broaden the definition to pick up what is just a discount offered by a Registrant.
+[29] The Appellant’s counsel also took me through the general principles of interpretation (the textual, contextual and purposive approach), as well as s.12 of the Interpretation Act to argue that a broader definition of coupon is not just warranted textually and contextually, but also best serves meeting the purpose of the provision. While I agree with this approach, it again does not help the Appellant, as I find the purpose of s.181 relates to the treatment of a coupon not a straightforward discount.
+[30] Once it is accepted the credit relates to the TELUS service, then yes the denial of ITCs result in GST being exigible on the amount of the credit with no offset. This may well breach the spirit of sections such as s.181, 181.1 and 232 of the ETA, which maintain the integrity of a system that imposes tax on a recipient on the value of the consideration for the supply, ensuring tax is exigible on the net consideration an end consumer pays. I am troubled by the result that the Government may have got a windfall in this situation. But the purpose is not met by torturing the language to, as one of my favourite expressions puts it, fit a round peg into a square hole: TELUS cannot make the square hole big enough. S.181 of the ETA is a recognition that while tax is collectible on the price charged by a vendor for a service or supply, if that price is partially covered by the vendor, it would be unreasonable to consider that portion as part of the value of the consideration from the recipient for the supply: but only if the Registrant plays by the rules and can point to a coupon or device. I suggest the Registrant, in this case, is attempting to bend the rules to overcome a result brought on by itself by establishing a program without due consideration of GST ramifications.
+[31] Even if I took an overly expansive view of "coupon", the Respondent goes on to raise two more objections to the application of s.181(3) of the ETA to the Billing Credits. First, that the coupon or device does not have a fixed amount specified in it, and, second, that there was no acceptance as such by TELUS of anything remotely looking like a coupon as partial payment.
+[32] Before exploring these objections, let us be clear what the coupon or device is. Initially, TELUS’ counsel argued that it is the credit itself on the invoice. As I have already indicated this cannot be the coupon, the thing entitling the customer to the reduction, as it is the reduction itself. No, if there is a coupon or device it can only be viewed as the mechanism whereby TELUS promotes to its customers a credit of a certain dollar amount against TELUS service charges, conditional on the activation of a one, two or three-year service contract and realizable upon the issuance of the invoice.
+[33] So, with respect to the requirement for a fixed amount on the coupon the Respondent rightfully asks, where do we look for the fixed amount to ensure this requirement is met. The Appellant relies on the case of President’s Choice Bank v. Her Majesty the Queen[2] to argue that the requirement that the coupon have a fixed value related solely to the time of redemption. It therefore suggests that the invoice showing the credit amount meets this requirement. The President’s Choice case, however, dealt with s.181(5) of the ETA which is worded quite differently from s.181(3) of the ETA. The Appellant quotes Justice Lamarre:
+75. The February 1993 Technical Notes issued by the Department of Finance describe the policy rationale which informs subsection 181(5) of the ETA:
+…
+Subsection 181(5) also entitles the issuer [PC Bank] of a reimbursable, fixed dollar value coupon to claim an input tax credit equal to 7/107ths of that value when the issuer redeems the coupon from the vendor [Loblaw]. By allowing the issuer an input tax credit, subsection 181(5) ensures that the correct overall net amount of GST is remitted to the government in respect of the supply by the vendor…
+76. It can be inferred from these Technical Notes that the fixed dollar value has to be established at the time the issuer (PC Bank) redeems the coupon from the vendor (Loblaw). Even though the respondent is right in saying that the coupon does not have any cash value when it is issued, this is not what is required by subsection 181(5). What we need to determine is whether a fixed dollar value exists at the time of redemption. There is a cash value at that time: there is a paper coupon or an electronic device showing a fixed dollar amount for the points redeemed; that amount is applied as a discount on the price of groceries purchased and is recorded on the customer’s invoice.
+[34] This does not stand for the proposition that a reduction under s.181(3) of the ETA can be considered a fixed amount at the time the credit is granted on the invoice. It stretches Justice Lamarre’s finding well beyond its limited application.
+[35] Yet, even in viewing the device used by TELUS as a combination of the promotion, the activation of the contract and the invoice, it is clear that, apart from the invoice, the only place that clearly shows a fixed credit is the website, and we do not know if that website even existed in 2001 and 2002. I do not read the requirement so narrowly as to require that only if TELUS is presented with a written coupon with a fixed dollar amount on it is the requirement met. In this day and age of electronic commerce and the use of purchase and sale devices not contemplated 20 years ago, I am of the view that where the fixed amount is clearly known to both sides, and is evidenced in writing, as hard copy or electronically, that can be offered by a customer as partial consideration, the requirement has been met. But that is not what happened here. TELUS merely advertised its discount.
+[36] While I need not address the Respondent’s argument that there cannot be options but only a single fixed amount in a coupon, for completeness’ sake I will do so. The Respondent relies on the Government’s Interpretation Bulletin B-002:
+GST-included Coupons
+These are coupons issued by a retailer and for which the retailer is not reimbursed by another person. Retailers will have the option of including GST in the face value of these coupons. However, if this option is chosen, retailers must ensure that all of the coupons they issue include the GST.
+For example, if a retailer issues a coupon worth $10, $0.70 GST ($10 x 7%) will be added so that the face value of the coupon would be $10.70. The coupon must also state that GST has been included in the face value.
+When retailers accept their own GST-included coupons, they will treat them in the same way as coupons that are reimbursable for a specific single monetary discount (i.e., as cash offered by the customer). Refer to EXAMPLE A which illustrates how GST-included coupons will be treated.
+When retailers prepare their GST returns, they will calculate the tax to be collected without taking the value of these coupons into account.
+Retailers will also be able to claim 7/107ths of the face value of these coupons as a tax credit adjustment. This adjustment is claimed when retailers file their GST returns for the reporting period in which they redeemed the coupon.
+…
+Other types of coupons:
+Coupons that are not for a specific single monetary discount will be treated in the same way as coupons that do not include the GST. These coupons will reduce the selling price of an item before the GST is calculated (as illustrated in EXAMPLE B). Therefore, retailers will deduct the value of the coupon from the selling price prior to calculating any GST payable.
+These coupons may:
+· offer a certain percentage off the price of an item (for example, a coupon to receive 10% off the next purchase);
+· offer an item for no charge if another item is purchased (for example, two-for-one coupons);
+· contain more than one monetary discount (for example, 50 cents off a 250 ml bottle of pop, or $1 off a 500 ml bottle of pop); and
+· be used for goods and services that are taxable, as well as zero-rated or exempt.
+[37] While Interpretation Bulletins are not binding on the Court, this illustrates the Government’s thinking and a suggested treatment of the type of offer TELUS is making to its customers, something akin to the different bottles of pop. However, TELUS, rather than following the suggested approach in this Interpretation Bulletin of reducing the price before GST, maintains it reduced the GST included price.
+[38] Does the wording of s.181 of the ETA make it clear there must be a single fixed amount? No. It simply refers to a reduction of a fixed dollar amount of the price of the service. If the service is a two-year contract that fixed dollar amount is $100. At the time TELUS issues the credit both TELUS and the customer know that the service purchased is a two-year term contract, and they both know that the fixed amount attaching to that is $100. I would accept that if the fixed amount varied for the same product or service then a multiple option coupon or device would run afoul of s.181(3) of the ETA, but here the supply being purchased is different – one, two or three-year contracts and the amount attached to each of them is fixed. If I had to decide this question, I would reject the Respondent’s argument that a coupon could not have more than one option, provided each fixed amount applied to a separate supply.
+[39] I turn now to the requirement of "acceptance" of the coupon by TELUS. The opening words of s.181(3) of the ETA require the Registrant to "accept" the coupon or device. The Respondent argues that nothing in the nature of a coupon or device has been presented to TELUS for acceptance. I agree. Certainly there has been no acceptance of the traditional written coupon or voucher. What the customer has given TELUS is a contract on the understanding that, true to its promotion, TELUS will credit the customer with a reduction of its service charge on the first invoice. The contract itself makes no reference to a fixed amount, though does stipulate: "all service use and access fees and other charges, including taxes, are due and payable as specified by TELUS Mobility on invoices to you or the person or company paying the bill or as otherwise arranged with you by TELUS Mobility." I have two points to make on this. First, that this term is under the heading “Service Terms and Conditions”: it represents what TELUS is offering to the customer, not something the customer is offering to TELUS. Second, the reference to the charges to include taxes as specified on invoices is not sufficient to constitute a fixed amount, as I find s.181 of the ETA requires.
+[40] There is simply nothing TELUS has accepted from the customer that entitled the customer to the reduction.
+[41] The Appellant referred me to William E. Coutts Co. (c.o.b. Hallmark Cards) v. Canada[3] as being analogous to the TELUS situation before me. I disagree. There has been no short-circuiting here, as Justice Mogan put it in the Coutts decision, where he found a rebate had been paid. To analogize to the situation before me would truly be writing the term coupon out of s.181(3) of the ETA and interpreting s.181(3) of the ETA to apply to Registrants to allow them to choose a GST included or excluded approach on any discount. That is not the purpose of s.181(3) of the ETA.
+[42] In summary, TELUS offered a discount. You buy a three-year term contract, you get $150 off your charges. That is it. That is the promotion. There was no coupon or device or anything like airline points, for example. It was just a discount on the price of the charges: nothing was presented by the customer and accepted by TELUS in anything that could under even the broadest definition of coupon or device be viewed as such. I agree with the Respondent that if I found this discount offered by TELUS was a coupon, I am in effect writing the word coupon out of the provision. I cannot do that.
+ii. Billing Credits as a Rebate: Section 181.1 of the ETA
+[43] To successfully claim the ITCs under this provision TELUS must show:
+a) it made a taxable supply: yes, as I have already found, TELUS has made a taxable supply of services;
+b) a particular person acquires a service from TELUS (or someone else): yes, a customer acquired TELUS’ services;
+c) TELUS paid, at any time, a rebate in respect of the service: yes, I find the credit in the invoices is equivalent to the payment of a rebate;
+d) with the rebate TELUS provides a written indication that a portion of the rebate is an amount on account of tax. Here, agree the Parties, is the issue.
+[44] TELUS argues that, from a review of its invoice, it is clear the rebate has been paid to cover the price and GST, and this is sufficient to meet the requirement of a written indication. The Respondent argues that a recipient ought not to have to resort to a calculator to be put on notice of the tax consequences of a rebate. The recipient should know there has been a refund of tax: this is especially important if the recipient is a Registrant and has to determine its own GST responsibilities (s.181.1(f) of the ETA).
+[45] The dilemma is best illustrated by my earlier example of the $105 credit on a $100 service charge. Looking at that invoice, I would agree with the Appellant that the $105 rebate appears to cover both price and GST, notwithstanding the offsetting of the credit shown against the price. But what if the credit was only $100, the TELUS invoice would then look like this:
+Service Charge $100
+Credit $100 0
+GST $5
+Current charge owing $5
+[46] To take the Appellant’s view, the $100 credit would represent approximately $4.76 GST and $95.24 service charge, and any Registrant worth its salt could quickly figure that out.
+[47] The Appellant argues that a written indication is something less than a written statement, referring to the use of those words in the Credit Note and Debit Note information (GST/HST) Regulations, s.3 (the "Regulations"):
+3. For the purpose of paragraph 232(3)(a) of the Act, the following information is prescribed information that is to be contained in a credit note or a debit note, as the case may be, relating to one or more supplies:
+(a) a statement or other indication that the document in question is a credit note or a debit note;
+(b) the name of the supplier or an intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be;
+(c) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative;
+(d) the date on which the credit note is issued;
+(e) if the note is issued in respect of a patronage dividend in circumstances in which subsection 233(2) of the Act applies, the amount of the adjustment, refund or credit of tax that the issuer of the dividend is deemed under paragraph 233(2)(b) of the Act to have made in respect of the supplies to which the dividend relates; and
+(f) except when paragraph (e) applies,
+(i) if the note is issued for a total amount that includes the amount by which the consideration for one or more taxable supplies (other than zero-rated supplies), and the tax calculated thereon, have been reduced,
+(A) the amount of the adjustment, refund or credit of tax that is included in that total, or
+(B) all of the following, namely,
+(I) a statement to the effect that that total includes the adjustment, refund or credit of tax,
+(II) the total (in this clause referred to as the “total tax rate”) of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply and for which there is a reduction in tax, and
+(III) either the total reduction of consideration and tax in respect of each such supply or the total reduction of consideration and tax in respect of all such supplies to which the same total tax rate applies, and
+(ii) in any other case, the amount of the adjustment, refund or credit of tax for which the note is issued.
+[48] I agree that a “statement” requires greater specificity, and had Parliament wanted to be specific it would have used language similar to that contained in these Regulations. "Indicate" is defined in Webster On-line Dictionary to mean "to be a sign of, evidence, show". Again, taking an expansive view of "written indication that a portion of the rebate is an amount on account of tax", I find it does not require the specificity of a statement that clearly shows a rebate broken down into its two component parts, reflecting price and GST, as required by the Regulations, but surely it requires some clarity so that the recipient with minimum effort can discern that the rebate must include a GST element. In my earlier example of the $105 credit the math would suggest that the rebate includes an amount of tax and also that the amount is $5, given nothing is left owing. But rarely, if ever, I imagine, will the numbers so readily reflect that position: it is easy to provide theoretical examples.
+[49] So, let us use the $100 credit (not the $105 credit). It is then not nearly as clear that the rebate is actually $95.25 to price and $4.75 to tax. Is there enough written evidence though to realize that the rebate must contain some element of tax? If there is sufficient evidence, then it is simply up to the recipient to figure out the breakdown with or without a calculator. The recipient of concern, of course, is a Registrant recipient who must determine its own GST responsibilities pursuant to s.181.1(f) of the ETA. The end user recipient is not concerned whether the $5 he or she has had to pay is all GST, all price or some combination, although even an unsophisticated (GST-wise) end user might question why one would have to pay $5 GST on something obtained for free. The more knowledgeable Registrant recipient, who must determine the GST impact on the transaction, would realize that it would not make any commercial sense if the $5 charge left owing on the invoice in my example of the $100 credit was as GST. But the positioning of the credit in TELUS’ invoice works greatly against them, and a recipient could be forgiven for thinking that TELUS may have mistakenly charged $5 GST. Had TELUS positioned the credit after all the charges and after the GST had been applied, then I would have less difficulty finding the "written indication" test had been met, but that is not what TELUS did. Their invoice would read:
+Charges $100
+Credit -$100 0
+GST $5
+Amount owing $5
+It did not read:
+Charges $100
+GST $ 5
+Total $105
+Credit $100
+Amount owing $ 5
+[50] The Respondent argues that this section should not require a recipient to have to use a calculator to figure it out. I do not read the requirement as requiring a written indication of the specific breakdown between price and GST, but only that some amount of GST is included in the rebate, and yes it then may well be necessary to take out a calculator. But as long as the invoice is sufficiently clear that the rebate has to have included GST, I believe the "written indication" test has been met. Yet here, the calculator is not necessary to figure out the breakdown, but may be necessary to figure out whether the GST has been included in the rebate or not. One simply has to review Appendix A to appreciate the dilemma. There is not sufficiently clear "written indication".
+[51] What is difficult about determining how clear a "written indication" must be is whether to do so on the basis a recipient has, or has not, an understanding of how the GST legislation is intended to work. I have no doubt the reasonable commuter on the Toronto subway might struggle with sorting out the GST implications of the TELUS invoice but does a Registrant recipient of hundreds of thousands of dollars worth of phone charges also struggle, as it is the Registrant recipient whose view of the invoice should be most relevant for purposes of s.181.1(f) of the ETA. The TELUS invoice is confusing. A "written indication" should be clear. It is not – to anyone. It invites the recipient to assume the credit has been offset against the price, yet then goes on to calculate the GST as though the credit was applied after the GST attached to the price. It takes too much sorting out to figure this out and falls well short, I find, of "written indication".
+[52] I conclude that the invoice, as formatted by TELUS, is insufficient "written indication" and is not therefore covered by s.181.1 of the ETA. This dilemma could have easily been avoided by simply writing "GST included" next to the credit.
+B. Mail-in Rebate Coupons
+[53] To reiterate, the Appellant does not argue that s.181.1 of the ETA, the section that on its face appears to deal with rebates, applies to TELUS mail-in rebate coupons. It relies entirely on s.181(3) of the ETA, that the mail-in rebate coupon is a coupon entitling the customer to a reduction of the price of TELUS services as defined in s.181, bringing that provision into play. Again, the first question to determine is whether the mail-in rebate relates to the handset or to the TELUS service charges. Unlike the Billing Credit, the rebate is a payment by cheque, not shown to be credited against specific service charges. The Appellant argues that TELUS’ business is providing services, not selling phones, so the rebate can only relate to that. I disagree. It is clear from TELUS’ own letter of September 14, 2005, that "the phones are sold by TM (TELUS) to the various sales channels from which the customer purchases the phones". Part of TELUS’ business clearly is a sale of phones to retail suppliers.
+[54] What do customers have to do to get rebate? They must:
+a) buy certain phones and pay GST on the full purchase price;
+b) activate the phones for a minimum 31-day period;
+c) send the coupon and proof of purchase of the phones to TELUS.
+[55] What does TELUS do: it retains PPFD to ensure a customer’s eligibility and send a TELUS branded cheque to the customer. I conclude that the rebate coupon and the process itself can leave no doubt in the customer’s mind that what he or she receives pertains to the phone, not to services. Just as the name of the coupon says, it is a "$50 rebate". It is indeed a classic example of a rebate for something already paid for, and the something paid for can only be the phone.
+[56] The Appellant argues that the 31-day condition in the rebate coupon means that the customer will have to have received at least one invoice from TELUS for service charges, so that it is those charges against which the rebate applies. With respect, this is a stretch, leaving far too much to implication and little to concrete proof.
+[57] So, how would s.181(3) of the ETA apply in these circumstances? The first requirement is that TELUS accept as full and partial consideration for a taxable supply (the phone) a coupon entitling the recipient of the supply to a price reduction of the phone. But the recipient of the supply, the phone, from TELUS is not the ultimate customer holding the coupon, but is the retail supplier of the phone to the customer. The coupon does not entitle the retail supplier to the rebate. This provision simply does not fit.
+[58] Further, the coupon has not been accepted by TELUS as consideration for anything: as indicated in my reasons on the Billing Credits, the coupon, ticket, voucher or device shares the characteristic of immediacy with the purchase transaction; that is, it is presented during the purchase transaction as consideration. That is not the case here: the customer paid full price for the phone and subsequently seeks a rebate. That is not a s.181(3) of the ETA situation, but is a rebate, something that Webster’s On-line Dictionary defines as "money that is paid back".
+[59] I do not find the Appellant’s argument that the words "at any time" in s.181(3) of the ETA, accommodates such a broad interpretation as to bring a classic rebate into its net. The words must be read in context with the words that follow, and in doing so, it is clear a rebate is not what is being addressed, especially as there is specific provision in s.181.1 of the ETA in place to deal with rebates. S. 181(3) of the ETA does not apply.
+Conclusion
+[60] To answer the question I asked at the outset of my analysis, I am left to tell TELUS to lick its wounds. Appellant’s counsel made as strong and well thought out an argument as possible in an effort to save TELUS from its GST fate, but to accept it would do an injustice not only to the words of the provisions but to their particular purpose. I recognize that the result may seem contrary to the spirit of the overarching GST system. Perhaps this is a result of legislation that is too complex combined with marketing promotions that do not sufficiently reflect on those complexities prior to implementation.
+[61] The Appeal is dismissed with costs.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated July 17, 2012.
+Signed at Ottawa, Canada, this 13th day of August 2012.
+"Campbell J. Miller"
+C. Miller J.
+APPENDIX A
+APPENDIX B
+CITATION: 2012 TCC 256
+COURT FILE NO.: 2009-2959(GST)G
+STYLE OF CAUSE: TELE-MOBILE COMPANY PARTNERSHIP AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 27 and 28, 2012
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: July 17, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Victor Caux and Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kimberley L. Cook
+Firm: Thorsteinssons LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1984] 2 S.C.R. 232.
+[2] 2009 TCC 170.
+[3] [1999] T.C.J. No. 278.

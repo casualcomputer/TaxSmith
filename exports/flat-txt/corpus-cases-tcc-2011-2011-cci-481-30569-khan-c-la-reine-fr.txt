@@ -1,0 +1,222 @@
+Title: Khan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30569/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-481-30569-khan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-10-26
+
+# Khan c. La Reine
+
+- Citation: 2011 CCI 481
+- Decision date: 2011-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7310, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-26
+Référence neutre
+2011 CCI 481
+Numéro de dossier
+2010-598(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-598(GST)I
+ENTRE :
+AHMAD A. KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels d’Ahmad A. Khan (2008‑2680(IT)I) le 1er novembre 2010, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (la « LTA »), dont l’avis est daté du 10 février 2006 et porte le numéro 05DP‑GB 0525 1193 5412, pour la période allant du 1er janvier 2001 au 31 décembre 2003 est accueilli, sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a droit à un crédit de taxe sur les intrants supplémentaire de 14,18 $ pour l’année d’imposition 2002 et que les pénalités imposées en vertu de l’article 285 de la LTA doivent être annulées.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de novembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2011 CCI 481
+Date : 20111026
+Dossier : 2010-598(GST)I
+ENTRE :
+AHMAD A. KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appel en cause, instruit sous le régime de la procédure informelle, a été interjeté à l’égard d’une nouvelle cotisation datée du 10 février 2006 (no 05DP‑GB 0525 1193 5412) établie en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, dans sa version modifiée (la « LTA »), pour la période allant du 1er janvier 2001 au 31 décembre 2003 (la « période en cause »). Dans cette nouvelle cotisation, le ministre du Revenu national (le « ministre ») exige que l’appelant paye 7 167,83 $ au titre de la taxe nette, 652,12 $ au titre des intérêts et 3 695,71 $ au titre de pénalités relativement à la taxe sur les produits et services (la « TPS ») non perçue pour la période en cause.
+[2] Pour établir la nouvelle cotisation à l’égard de l’appelant, le ministre s’est fondé sur les hypothèses de fait énoncées au paragraphe 13 de la réponse à l’avis d’appel (la « réponse ») :
+a) les faits énoncés et admis ci-dessus;
+b) l’appelant est un inscrit aux fins de la TPS et son numéro d’inscription, 86480 4893 RT0001, a été délivré le 10 juillet 2000; (niée)
+c) l’appelant n’a produit aucune déclaration de TPS pour la période allant du 1er janvier 2001 au 31 décembre 2003 (la « période en cause »); (admise)
+d) la valeur totale des fournitures effectuées par l’appelant pour chacune des années d’imposition 2001, 2002 et 2003 dépassait 30 000 $; (admise seulement pour 2001 et 2002)
+e) l’appelant exploitait un atelier d’entretien et de réparation d’automobiles (Khan Auto Repairs) et une entreprise de services parajuridiques (Khan and Associates) pendant la période en cause; (admise, sauf pour l’entreprise de réparation automobile, qui n’a pas été exploitée en 2003)
+f) il s’agissait de deux entreprises individuelles qui partageaient le même numéro d’inscription à la TPS; (admise)
+g) l’appelant n’a pas tenu de livres comptables satisfaisants pendant la période en cause; (niée)
+h) l’appelant n’a pas déclaré tous ses revenus d’entreprise et tous ses revenus de profession libérale; (niée)
+i) l’appelant n’a pas conservé de reçus pour les dépenses dont il a demandé la déduction dans les états des résultats des activités d’une entreprise qu’il a présentés; (niée, car toutes les commandes et les factures ont été remises à la vérificatrice)
+Revenus non déclarés provenant de l’entreprise de services parajuridiques
+j) l’appelant n’a conservé aucune facture relativement aux services fournis pendant l’année d’imposition 2001; (niée)
+k) les revenus de l’appelant pour l’année d’imposition 2001 équivalent à la moyenne des revenus obtenus pour les années d’imposition 2002 et 2003; (admise)
+l) l’appelant a tiré un revenu de 7 477 $ de cette entreprise pour l’année d’imposition 2001; (admise)
+m) l’appelant a perçu ou aurait dû percevoir 523 $ au titre de la TPS pour l’année d’imposition 2001 et il a omis de verser cette somme au receveur général; (niée)
+n) l’appelant a conservé des factures pour l’année d’imposition 2002; (admise)
+o) l’appelant a tiré un revenu de 7 654 $ de cette entreprise pour l’année d’imposition 2002 et il n’a pas déclaré ce revenu; (admise seulement en ce qui a trait au montant)
+p) l’appelant a perçu ou aurait dû percevoir 536 $ au titre de la TPS pour l’année d’imposition 2002 et il a omis de verser cette somme au receveur général; (niée, car aucune TPS n’a été perçue)
+q) l’appelant a conservé des factures pour l’année d’imposition 2003; (admise)
+r) l’appelant a tiré un revenu de 9 322 $ de cette entreprise pour l’année d’imposition 2003 et il n’a pas déclaré ce revenu; (admise seulement en ce qui a trait au montant)
+s) l’appelant a perçu ou aurait dû percevoir 653 $ au titre de la TPS pour l’année d’imposition 2003 et il a omis de verser cette somme au receveur général; (niée, car aucune TPS n’a été perçue)
+Revenus non déclarés provenant de l’entreprise de réparation d’automobiles
+t) l’appelant a tiré un revenu de 106 500 $ de cette entreprise pour l’année d’imposition 2001 et il n’a pas déclaré ce revenu; (admise seulement en ce qui a trait au montant)
+u) l’appelant a perçu ou aurait dû percevoir 7 455 $ au titre de la TPS pour l’année d’imposition 2001 et il a omis de verser cette somme au receveur général; (niée, car aucune TPS n’a été perçue)
+v) l’appelant a tiré un revenu de 78 741 $ de cette entreprise pour l’année d’imposition 2002 et il n’a pas déclaré ce revenu; (niée, car le montant exact est 48 191 $)
+w) l’appelant a perçu ou aurait dû percevoir 5 512 $ au titre de la TPS pour l’année d’imposition 2002 et il a omis de verser cette somme au receveur général; (niée, car aucune TPS n’a été perçue)
+TPS au titre des revenus non déclarés provenant des deux entreprises
+x) le tableau ci‑dessous indique la TPS calculée en fonction des revenus non déclarés provenant des deux entreprises pour la période en cause; (niée)
+2001
+2002
+2003
+TPS – Khan and Associates
+523 $
+536 $
+653 $
+TPS – Khan Auto Repairs
+7 455 $
+5 512 $
+0 $
+TPS – TOTAL
+7 978 $
+6 048 $
+653 $
+Crédit de taxe sur les intrants
+y) l’appelant n’a pas conservé tous les reçus pour la période en cause; (niée, car tous les reçus ont été présentés)
+z) pour les reçus fournis par l’appelant, le tableau suivant montre tous les montants de TPS, arrondis à l’entier supérieur, versés par l’appelant pour la période en cause; (admise)
+2001
+2002
+2003
+Pièces pour réparation d’automobiles
+201 $
+233 $
+0 $
+Entretien et réparation
+325 $
+0 $
+0 $
+Frais d’utilisation d’un véhicule à moteur
+256 $
+216 $
+239 $
+Frais de bureau
+78 $
+306 $
+59 $
+Fournitures (Canadian Tire)
+88 $
+0 $
+0 $
+Loyer
+1 480 $
+1 634 $
+1 711 $
+Téléphone et services publics
+288 $
+380 $
+0 $
+Autres dépenses
+0 $
+0 $
+17 $
+Crédit de taxe sur les intrants – Total
+2 716 $
+2 768 $
+2 025 $
+aa) la taxe nette à verser de l’appelant est de 5 262 $ pour 2001, de 3 279 $ pour 2002 et de (1 373 $) pour 2003, ce qui totalise 7 168 $; (niée, car aucune TPS n’a été perçue)
+[3] Pour imposer les pénalités pour faute lourde, le ministre s’est fondé sur les hypothèses de faits supplémentaires suivantes, qui sont énoncées au paragraphe 14 de la réponse :
+a) l’appelant s’est inscrit aux fins de la TPS dès juillet 2000, mais il n’a jamais produit de déclaration de TPS; (admise, car aucune TPS n’a été perçue)
+b) l’appelant était tenu de produire des déclarations de TPS, car il n’était pas un petit fournisseur; (admise, mais l’appelant ne le savait pas à ce moment‑là)
+c) l’appelant s’occupait lui‑même de la tenue des livres comptables; (admise)
+d) l’appelant se présentait au grand public comme une personne expérimentée ayant des connaissances juridiques, car il disait exploiter une entreprise de services parajuridiques; (admise)
+e) comme l’appelant a produit ses déclarations de revenu, il savait ou aurait dû savoir qu’il devait percevoir et verser la TPS relativement à ses revenus; (niée, car l’appelant ne le savait pas à ce moment‑là)
+f) l’appelant n’a pas collaboré avec la vérificatrice, car, au départ, il a refusé de lui fournir les livres comptables; (niée)
+g) l’appelant a refusé de participer à des rencontres avec la vérificatrice; (niée)
+h) l’appelant a refusé de parler au téléphone avec la vérificatrice; (niée)
+[4] Le ministre s’est aussi fondé sur d’autres faits importants, qui sont décrits au paragraphe 15 de la réponse :
+15. Pour l’année 2002, l’appelant a conservé des reçus que le ministre n’a pas pu examiner pendant la vérification. Ces reçus représentent un crédit de taxe sur les intrants supplémentaire de 14,18 $ qui devrait être accordé pour 2002.
+[5] L’appelant a témoigné à l’audience. Il a reconnu que, durant la période en cause, il exploitait un atelier d’entretien et de réparation d’automobiles (« Khan Auto Repairs ») et une entreprise de services parajuridiques (« Khan and Associates »), qu’il s’agissait de deux entreprises individuelles et qu’elles partageaient le même numéro d’inscription aux fins de la TPS. Il a aussi admis que la valeur totale des fournitures effectuées pour chacune des années 2001 et 2002 dépassait 30 000 $ et qu’il n’avait produit aucune déclaration de TPS pour la période en cause.
+[6] La seule explication fournie par l’appelant pour justifier de ne pas avoir perçu la TPS auprès des clients de Khan Auto Repairs est que la TPS avait déjà été payée lors de l’achat des pièces. À l’appui de cet argument, 15 reçus pour des achats de pièces faits en 2001 et en 2002 ont été joints à l’avis d’appel modifié en matière de TPS, daté du 18 février 2010, qui a été déposé auprès de la Cour le 18 mars 2010.
+[7] L’appelant soutient qu’il n’était pas tenu de produire de déclaration de TPS ou de verser de TPS au receveur général parce qu’il n’avait perçu aucune TPS.
+Analyse
+[8] Dans ses déclarations de revenu pour les années d’imposition 1999 et 2000, l’appelant a déclaré des revenus d’entreprise bruts de 48 000 $ et de 122 954 $, respectivement. Dans ses déclarations de revenu pour les années d’imposition 2001, 2002 et 2003, l’appelant a déclaré des revenus d’entreprise bruts de 112 100 $, de 48 191,23 $ et de 0 $, respectivement. Pour les années d’imposition 2002 et 2003, les revenus bruts tirés de l’entreprise de services parajuridiques ont été déclarés à titre de revenus de profession libérale, à hauteur de 4 000 $ et 7 000 $, respectivement. Durant la période en cause, l’appelant n’était pas un « petit fournisseur » au sens du paragraphe 148(1) de la LTA, car il avait effectué des fournitures taxables dépassant 30 000 $ pendant chacune de ces années. L’appelant était obligé de s’inscrire aux fins de la TPS et rien ne démontre que son inscription ait été annulée à quelque moment que ce soit pendant la période en cause.
+[9] Les fournitures effectuées par l’appelant dans l’exploitation de son entreprise d’entretien et de réparation d’automobiles et de son entreprise de services parajuridiques étaient des « fournitures taxables » au sens du paragraphe 123(1) de la LTA (c’est‑à‑dire des fournitures effectuées dans le cadre d’une activité commerciale). En application du paragraphe 165(1) de la LTA, les acquéreurs de ces fournitures taxables devaient payer la TPS sur la valeur de la contrepartie de chaque fourniture, et, en application du paragraphe 221(1) de la LTA, l’appelant était tenu de percevoir la TPS payable par les acquéreurs des fournitures qu’il avait effectuées. Le paragraphe 221(1) de la LTA est ainsi rédigé :
+(1) Perception – La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+[10] En application du paragraphe 245(2) de la LTA, l’appelant était tenu de produire une déclaration de TPS pour chaque période trimestrielle et, en application du paragraphe 228(1) de la LTA, il devait calculer la taxe nette pour la période de déclaration pour laquelle la déclaration devait être produite.
+[11] La taxe nette qui doit être versée au receveur général est calculée conformément au paragraphe 225(1) de la LTA, après déduction des crédits de taxe sur les intrants de la TPS perçue. En l’espèce, le ministre a refusé les demandes de crédit de taxe sur les intrants pour lesquelles des reçus ou des factures n’avaient pas été fournis ou pour lesquelles l’appelant n’avait pas présenté d’éléments de preuve suffisants pour étayer ses demandes, notamment les renseignements décrits dans le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91‑45.
+[12] Suivant l’article 299 de la LTA, une cotisation ou une nouvelle cotisation est réputé valide et exécutoire – l’appelant avait donc le fardeau de démontrer que la cotisation ou la nouvelle cotisation était erronée.
+[13] L’appelant a témoigné à l’audience, mais il n’a donné aucune explication raisonnable et plausible pour justifier le fait qu’il n’avait pas perçu la TPS ou produit de déclaration de TPS. Personne d’autre n’a témoigné pour corroborer la version des faits de l’appelant. Par conséquent, l’appelant ne s’est pas déchargé du fardeau de la preuve et la nouvelle cotisation reste valide.
+[14] Des pénalités pour faute lourde ont été imposées à l’appelant en vertu de l’article 285 de la LTA. Cette disposition prévoit qu’une pénalité de 25 % peut être imposée à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission. Le passage pertinent de l’article 285 est rédigé de la sorte :
+285. [Pénalité pour faute lourde pour des] Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse – appelés « déclaration » au présent article – établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité de 250 $ ou, s’il est plus élevé, d’un montant égal à 25 % de la somme des montants suivants :
+a) si le faux énoncé ou l’omission a trait au calcul de la taxe nette de la personne pour une période de déclaration, le montant obtenu par la formule suivante :
+A - B
+où :
+A représente la taxe nette de la personne pour la période,
+B le montant qui correspondrait à la taxe nette de la personne pour la période si elle était déterminée d’après les renseignements indiqués dans la déclaration;
+[…]
+[15] Compte tenu du libellé de cette disposition, il ne fait aucun doute qu’une pénalité peut seulement être imposée dans le cas où le contribuable a fait un faux énoncé de quelque sorte dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse.
+[16] On peut considérer que la personne qui n’a pas déclaré sa taxe nette en omettant de produire des déclarations de TPS a sciemment éludé le versement de la taxe, mais on ne peut pas dire qu’elle a fait un faux énoncé dans une déclaration (voir les décisions Lee c. La Reine, 2010 CCI 400, 2010 G.S.T.C. 114 (CCI) et Calandra c. La Reine, 2011 CCI 7, 2011 G.S.T.C. 3 (CCI)). Par conséquent, les pénalités imposées en vertu de l’article 285 de la LTA doivent être supprimées de la nouvelle cotisation.
+[17] En raison des conclusions énoncées ci‑dessus, l’appel est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a droit à un crédit de taxe sur les intrants supplémentaire de 14,18 $ pour l’année d’imposition 2002 et que les pénalités imposées en vertu de l’article 285 de la LTA doivent être annulées.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2011.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de novembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2011 CCI 481
+No DU DOSSIER DE LA COUR :
+2010-598(GST)I
+INTITULÉ :
+Ahmad Khan c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er novembre 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 26 octobre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

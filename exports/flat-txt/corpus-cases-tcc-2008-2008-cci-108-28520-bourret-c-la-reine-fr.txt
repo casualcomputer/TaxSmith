@@ -1,0 +1,214 @@
+Title: Bourret c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28520/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-108-28520-bourret-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-03-04
+
+# Bourret c. La Reine
+
+- Citation: 2008 CCI 108
+- Decision date: 2008-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourret c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-04
+Référence neutre
+2008 CCI 108
+Numéro de dossier
+2006-2492(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2492(IT)I
+ENTRE :
+DANIEL BOURRET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+MARJORIE TALBOT,
+tierce partie.
+____________________________________________________________________
+Appel entendu le 29 août 2007, à Sherbrooke (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+Pour la tierce partie :
+Me Kay Falaise
+_______________________________________________________________
+JUGEMENT
+L'appel des déterminations par lesquelles le ministre du Revenu national a refusé à l'appelant la prestation fiscale canadienne pour enfants pour les périodes du 1er juillet 2004 au 30 juin 2005 et du 1er juillet 2005 au 30 juin 2006, pour les années de base 2003 et 2004, est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour de mars 2008.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2006-3334(IT)I
+ENTRE :
+MARJORIE TALBOT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+DANIEL BOURRET,
+tierce partie.
+____________________________________________________________________
+Appel entendu le 29 août 2007, à Sherbrooke (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+Pour la tierce partie :
+Daniel Bourret
+__________________________________________________________________
+JUGEMENT
+L'appel des déterminations par lesquelles le ministre du Revenu national a refusé à l'appelante la prestation fiscale canadienne pour enfants pour les périodes du 1er juillet 2004 au 30 juin 2005 et du 1er juillet 2005 au 30 juin 2006, pour les années de base 2003 et 2004, est admis et les déterminations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles déterminations en tenant compte du fait que l'appelante était le particulier admissible au sens de l'article 122.6 de la Loi de l'impôt sur le revenu, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mars 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI108
+Date : 20080304
+Dossiers : 2006-2492(IT)I
+2006-3334(IT)I
+ENTRE :
+DANIEL BOURRET,
+MARJORIE TALBOT
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+MARJORIE TALBOT,
+DANIEL BOURRET,
+tierces parties.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit des appels relatifs aux prestations fiscales canadiennes pour enfants (la « PFCE ») où les deux parents des trois enfants concernés sont les appelants.
+[2] L'appel a trait aux années de base 2003, 2004 et 2005. Quant aux périodes visées par la prestation fiscale, il s'agit des périodes du 1er juillet 2004 au 30 juin 2005 et du 1er juillet 2005 au 30 juin 2006.
+[3] Madame Talbot a d'abord reçu les prestations pour les périodes comprises entre les mois de juillet 2004 et de juin 2005 pour l'année de base 2003 et pour le mois de juillet 2005 à juin 2006 pour l'année de base 2004.
+[4] À compter du 8 septembre 2006, le ministre du Revenu national (le « ministre ») a cessé de verser les prestations payables eu égard au litige entre les parents quant au droit à recevoir lesdites prestations.
+[5] Lors de l’appel initié par l’appelante, monsieur Daniel Bourret a exprimé son intention d’intervenir. Suite à l’intervention, une ordonnance, en vertu de l’alinéa 174 de la Loi de l’impôt sur le revenu (la « Loi ») a été rendue aux termes de lesquelles les deux parents sont devenus parties aux présents dossiers.
+[6] D'entrée de jeu, je salue la sage décision du ministre de cesser les paiements de prestation fiscale pour le motif de mésentente sur la qualité du parent admissible.
+[7] Les prestations fiscales canadiennes pour enfants sont payables au parent admissible qui s'occupe principalement du soin et de l'éducation et l'endroit où résident les enfants; dans le cas de garde partagée, à celui des deux parents déterminés par convention écrite ou par jugement du tribunal compétent en la matière, soit dans la province de Québec, la Cour Supérieure.
+[8] Depuis quelques années, on assiste à une recrudescence très importante de ces dossiers, dont les effets sont tout simplement catastrophiques tant pour les parents, mais surtout, pour les enfants à l'origine du paiement de telles prestations fiscales.
+[9] Sur le plan pratique et de l'efficacité, pour le plus grand bien des enfants concernés, beaucoup d'énergie, de ressources, de tension pourraient être évités si seulement tous les intervenants collaboraient pour la mise en place d'une pratique empêchant toute mésentente à cet effet et ce, tout en respectant les dispositions de la Loi.
+[10] En effet, lorsque la Cour supérieur est saisie d'un dossier où il y a des enfants mineurs requérant une ordonnance relative à la garde des enfants et à une possible pension alimentaire, les parties conviennent généralement souvent d'une entente sur ces questions.
+[11] Cette entente prévoit évidemment le lieu de résidence des enfants qui, de plus en plus souvent est celui des deux parents en vertu d'une garde partagée. Quant à la pension alimentaire, elle est, en principe, fixée en fonction de l'équilibre entre les besoins et la capacité de payer.
+[12] Or, souvent les prestations fiscales constituent un élément important sur le plan financier; d'ailleurs le but même de leur existence se veut, un soutien financier, une sorte de contribution financière devant aider le parent ou les parents qui doivent voir à leurs soins et éducation dans un contexte du mieux-être possible.
+[13] Or, il semble que le montant des prestations fiscales ne soient pas pris en compte lors des exercices visant à déterminer le montant de la pension alimentaire pour le motif que la Cour supérieure n'a pas la compétence pour déterminer qui des deux parents est le parent admissible au sens de la Loi de l'impôt sur le revenu (la « Loi »)
+[14] Il m'apparaît regrettable qu'à cause de certaines limites quant à la compétence, les parents d'enfants ayant droit à des prestations fiscales pour enfants doivent devoir faire face à d'autres procédures, le plus souvent dommageables au rétablissement de relations idéalement harmonieuses pour le plus grand bien des enfants dont ils ont la responsabilité financière.
+[15] Récemment dans une décision, je m'exprimais quant à la compétence de la Cour supérieure en cette matière. Ce jugement fut d'ailleurs confirmé par la Cour d'appel fédérale, voir Laurin c. Canada, 2007 CAF 44, [2007] A.C.F. no 53.
+[16] Ce dossier illustre bien la nature du problème. En effet, sur le plan strictement économique, il pourrait s'avérer avantageux pour un parent qui se qualifie pour recevoir les prestations fiscales d'y renoncer en faveur de l'autre, ne rencontrant pas les critères prévus par la Loi, étant donné que ses revenus élevés auraient pour effets de réduire jusqu'à néant le montant des prestations payables, eu égard à ses revenus; dans un tel cas, il est facile de comprendre la générosité du bénéficiaire en vertu de la Loi à l'endroit du parent non admissible.
+[17] Dans les faits, le ministre est souvent pris en otage pour des motifs mesquins de la part de l’un ou l’autre des parents. Je fais notamment référence au dossier où l'un des parents initie les démarches dans le but de recevoir les prestations à l'insu du parent qui les reçoit déjà.
+[18] À la suite de telles initiatives, des changements peuvent survenir quant au bénéficiaire. Malheureusement, ces décisions sont souvent prises à partir de dossiers ou d'informations incomplètes ou souvent mensongères, d'où les difficultés à statuer sur le véritable parent admissible.
+[19] Ces initiatives sont prises pour toutes sortes de raisons allant de la vengeance à la mesquinerie ou sur les conseils de différents intervenants, mais rarement pour l'intérêt des enfants. Il arrive que les décisions aient pour effet de générer une réclamation ou cotisation au parent qui a reçu sans droit lesdites prestations.
+[20] Comme ces prestations s'avèrent très souvent un soutien financier essentiel, toute réclamation, à cet effet, a des conséquences tout simplement désastreuses et, ce qui est encore plus tragique, le tout se répercute ou se reflète sur les enfants qui constituent les innocentes victimes.
+[21] Dans le présent dossier, l'avocate représentant l'appelante a fait état que la Cour Supérieure refusait systématiquement d'intervenir et même de ratifier toute entente relative au droit de recevoir les prestations fiscales pour enfants pour le motif de non compétence.
+[22] Effectivement, la détermination du droit de recevoir les prestations fiscales n'est pas de la compétence de la Cour supérieure mais essentiellement de cette Cour, et cela, pour la simple raison de l'impact fiscal sur les revenus de l'un ou l'autre des parents.
+[23] Nous sommes donc en présence d'une situation où faute d'harmonisation, les enfants écopent lourdement d'un programme de soutient financier souvent essentiel à leur bien-être.
+[24] Étant donné la situation, il me semble que le ministre devrait reconnaître la compétence de la Cour Supérieure en cette matière puisque cette Cour a la compétence, l'expertise, les ressources pour trancher toutes les questions reliées à l'intérêt et au bien-être des enfants et surtout, celui qui est le plus apte à assumer l'importante responsabilité de déterminer lequel des parents est le plus qualifié pour voir aux soins et à l'éducation des enfants. Les prestations fiscales sont, pour des milliers de cellules familiales, des revenus d'appoint très importants permettant de répondre à des besoins tout à fait essentiels.
+[25] Une pension alimentaire étant l'équilibre entre les besoins des enfants et la capacité de payer d'autre part, je ne vois pas pourquoi les montants payables à titre de prestations fiscales pour enfants devraient être occultés de l'analyse des données disponibles pour la détermination de la pension alimentaire et cela, à cause d'un problème de juridiction; les critères et conditions pris en compte pour identifier le droit aux prestations sont précis d'où tous les intervenants impliqués au moment de la rupture pourraient le prévoir.
+[26] En l’espèce, je dois déterminer qui des deux parents, dont la garde a été attribuée de façon conjointe, devrait recevoir les prestations fiscales canadiennes pour enfants.
+[27] D’entrée de jeu, il y une évidence incontournable; si le tribunal a accordé une garde conjointe, cela démontre que les deux parents avaient compétence et qualité pour voir au bien-être des enfants faisant l’objet de la garde conjointe.
+[28] La preuve constituée du témoignage des deux parents me permet de conclure d'une manière certaine que les deux parents sont intéressés, préoccupés, sérieux, responsables quant à leur responsabilité pour le bien-être et l'éducation de leurs trois filles.
+[29] Il apparaît évident que le rôle du père et de la mère est assumé d’une manière fort différente. En d’autres termes, chacun des parents vise généralement à obtenir un résultat idéal et un avenir exceptionnel pour son ou ses enfants.
+[30] Pour atteindre l’objectif souhaité, chacun des parents peut avoir un plan ou une stratégie qui lui est propre. Lorsque les parents cohabitent, les discussions voir même les négociations se traduisent le plus souvent par un consensus, situation probablement idéale.
+[31] Par contre, à la suite de rupture, il devient évidemment plus difficile et moins réaliste d’en arriver à un tel consensus d’où souvent les situations conflictuelles.
+[32] Lors d’une telle situation, la Cour canadienne de l’impôt a-t-elle la préparation, les connaissances, d'expertise et surtout les ressources pour décider que l’approche d’un parent est meilleure, voir supérieur à l’autre et particulièrement lorsque les deux parents sont profondément préoccupés par le bien-être de leurs enfants comme c’est le cas en l’espèce. J’en doute.
+[33] En l'espèce, les parents expriment et manifestent un grand et vif intérêt d'une manière fort différente. Je dois décider lequel des deux parents est celui admissible à partir de la question suivante :
+Lequel des deux assume principalement la responsabilité pour le soin et l'éducation?
+[34] Pour m'aider à répondre à la question, le sage législateur propose de prendre en considération les critères énoncés aux articles 6301 et 6302 du Règlement de l'impôt sur le revenu :
+NON-APPLICATION DE LA PRÉSOMPTION
+6301. (1) Pour l'application de l'alinéa g) de la définition de « particulier admissible » à l'article 122.6 de la Loi, la présomption mentionnée à l'alinéa f) de cette définition ne s'applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu'elle réside avec le père de cette personne et qu'il est celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d'un particulier admissible et chacun d'eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d'une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la personne à charge admissible;
+d) plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents.
+(2) Il demeure entendu qu'est assimilée à la personne qui présente un avis visé aux alinéas (1)b), c) ou d) la personne qui, en vertu du paragraphe 122.62(3) de la Loi, est soustraite à l'obligation de présenter un tel avis.
+CRITÈRES
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[35] Dans sa formule formelle, le droit applicable est le suivant :
+« particulier admissible »
+S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge --qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l’époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés.
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[36] En l'espèce, je réitère que les deux parents ont un comportement irréprochable, eu égard à toutes les contraintes auxquelles ils ont confrontées dans leur milieu respectif mais aussi par leur obligations professionnelles, si l'on prend pour acquis que la perfection en cette matière n'existe pas.
+[37] Chacun des parents, à sa façon, avec des personnalités, une disponibilité, des contraintes, des obligations professionnelles très différentes, contribuent aux nombreux besoins de leur trois filles.
+[38] L'appelante est plus disciplinée, plus méticuleuse, plus sensible et peut‑être plus protectrice que l'appelant, qui de son côté, est plus relâché, moins rigide, plus tolérant. Les enfants ont un absolu besoin des deux approches pour développer l'équilibre dont ils auront besoin pour devenir des adultes matures et responsables.
+[39] Si les parties espèrent de ma part une note d'appréciation quant à leur responsabilité de parent, ils seront très déçus, la décision de la garde partagée étant la preuve irréfutable qu’ils ont tous deux de très bonnes notes.
+[40] Je dois cependant prendre une décision de manière à essentiellement libérer certains montants importants retenus pour cause de mésentente. Pour ce faire, je m'en remets strictement à la démarche qu'ont vécue les parents lors des démarches et procédures de divorce.
+[41] Adultes et responsables, ils ont discuté, négocié et en sont arrivés à une entente alors qu'ils étaient tous deux représentés par un avocat. Le résultat de cet exercice a fait en sorte que la mère a reçu les prestations pour une période.
+[42] Suivant le témoignage des parents, il a été question des prestations fiscales au moment des procédures. La mère n’a pas consenti à ce qu’elles soient partagées ce avec quoi le père a dès lors dû composer.
+[43] Ceux-ci étant les parents, tous deux représentés par avocats, ont été associés aux négociations qui ont abouti à une entente.
+[44] Bien que ni écrite, ni prévue, je ne peux faire autrement que de croire que le montant des prestations fiscales représentant un revenu mensuel fort important, eu égard aux trois enfants, a été pris en compte.
+[45] Pour cette raison et cette seule raison, je conclus que la mère était le particulier admissible pour les périodes où le ministre n’a pas versées les prestations.
+[46] L'appel de l'appelante est accueilli et celui de l'appelant est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de mars 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2008CCI108
+Nos DES DOSSIERS DE LA COUR :
+2006-2492(IT)I
+2006-3334(IT)I
+INTITULÉS DES CAUSES :
+Daniel Bourret c. Sa Majesté la Reine
+Marjorie Talbot c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 29 août 2007
+MOTIFS DES JUGEMENTS PAR :
+l'honorable juge Alain Tardif
+DATE DES JUGEMENTS :
+le 4 mars 2008
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+Pour les tierces parties :
+Me Kay Falaise et Daniel Bourret
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Firme :
+Ville :
+Me Kay Falaise Wolfe
+Bergeron Martin Tessier Falaise
+Drummondville (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

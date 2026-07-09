@@ -1,0 +1,138 @@
+Title: Latulippe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30540/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-388-30540-latulippe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-10-11
+
+# Latulippe v. The Queen
+
+- Citation: 2011 TCC 388
+- Decision date: 2011-10-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7341, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Latulippe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-11
+Neutral citation
+2011 TCC 388
+File numbers
+2010-661(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-661(GST)I
+BETWEEN:
+MARIE-ÈVE LATULIPPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 29, 2011, at Ottawa, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Christian-Daniel Landry
+Counsel for the respondent:
+Joëlle Bitton
+____________________________________________________________________
+JUDGMENT
+The appeal of the February 15, 2010, reassessment under Part IX of the Excise Tax Act is dismissed, in accordance with the attached Reasons for Judgment.
+Signed, this 11th day October 2011.
+“François Angers”
+Angers J.
+Translation certified true
+on this 24th day of November 2011.
+Daniela Possamai, Translator
+Citation: 2011 TCC 388
+Date: 20111011
+Docket: 2010-661(GST)I
+BETWEEN:
+MARIE-ÈVE LATULIPPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Angers J.
+[1] This appeal is from a reassessment made under the section 323 of the Excise Tax Act (the Act) against the appellant as director of 6883303 Canada Inc. (hereinafter 688). The onus placed on the appellant stems from the failure of 688 to remit to the Receiver General of Canada the positive amount of the net tax which it calculated in its monthly reports for the periods from December 1, 2008, to March 31, 2009, which were filed late, that is, in March and in April 2009. The amount of the unpaid net tax is $18,436.94 plus penalties and interest, for a total of $19,104.41 as of the date of the assessment, February 15, 2010.
+[2] The appellant has been the wife of Koun Siriphanh since 2008. She met him in 2000 when she got a job as a hostess and waitress in a restaurant operated by her husband at the time. The restaurant in question was owned by 3603580 Canada Inc. and operated as Buffet Dragon.
+[3] During the years of operation of Buffet Dragon by 3603580 Canada Inc., the business experienced a number of financial and other difficulties which resulted in the bankruptcy of the company in question towards the end of 2007 and in the personal bankruptcy of Mr. Siriphanh after being personally assessed as a director for $1.7 million.
+[4] Wanting to make a comeback in the restaurant business, on December 3, 2007, Mr. Siriphanh incorporated 688 in partnership with his chef and his wife. At the time of the incorporation, the chef’s wife, Nadine L’Écuyer, was the sole shareholder and director of 688. With the help of the Chinese community, the restaurant reopened its doors operating under the same name.
+[5] Things did not go as planned, and 688 faced financial difficulties which prevented it from fulfilling its obligations. As a result, they disputes ensued between Mr. Siriphanh, the chef and Ms. L’Écuyer. Ms. L’Écuyer no longer wanted to be director and look after the business. Mr. Siriphanh was an undischarged bankrupt and 688 owed Revenue Canada and Revenu Québec approximately $130,000, not to mention the amounts owed to certain other creditors.
+[6] Despite all these difficulties and after consulting with the accountant of 688, Mr. Siriphanh came to the conclusion that 688 was viable. The accountant therefore suggested presenting a proposal in bankruptcy to the creditors to reimburse the debt in full over a period of five years. He had to, however, replace Ms. L’Écuyer and therefore turned to his wife to assist him in that process.
+[7] It should be noted that the appellant was never employed with 688 and did not work at the restaurant. She became pregnant in 2008 and had her baby in November of that same year. Mr. Siriphanh therefore explained the financial situation of 688 to the appellant, his relaunch plan and the fact that Ms. L’Écuyer and her husband no longer wanted to continue the partnership. He told her that he needed her to transfer the restaurant to her as he no longer had anyone, seeing as he himself was bankrupt. She was his lifeline. The appellant first refused, having already experienced a bankruptcy and the loss of all their property, but the following day, Mr. Siriphanh told her that he would not have asked her had he not been convinced that the restaurant would do well. It was their only livelihood and he was convinced that the proposal in bankruptcy would be accepted. It was therefore obvious that, if he were to lose their business, he would lose everything. She therefore agreed.
+[8] Therefore, the appellant went to see her lawyer on December 30, 2008, to sign the documentation required to complete the transfer from Ms. L’Écuyer to the appellant herself. Her husband explained to her that she would be the new director and she signed the documents without reading them. She recalled that Ms. L’Écuyer had informed the lawyer that December 30, 2008, was not the right date and that the documents had to be dated April 3, 2008, which was done.
+[9] The appellant therefore signed an agreement to purchase and sell the shares dated April 3, 2008 (Exhibit I‑3), in which she undertook to purchase the only shares issued and in circulation of the share capital of 688, that is, 100 Class “A” shares, for the amount of $28,197.79. In order to make the payment, the appellant signed a demand promissory note in favour of Ms. L’Écuyer in the same amount (Exhibit I‑2). However, she did not recall having to pay anything and Ms. L’Écuyer never made a demand for the payment of said note.
+[10] Her share certificate was dated April 3, 2008 (Exhibit A‑2) and resolutions were also signed (Exhibit I‑1). On December 30, 2008, 688 applied for a liquor licence (Exhibit I‑5) and the application was signed by the appellant. On March 24, 2009, she also signed a deposit account agreement for 688 with the Royal Bank (Exhibit I‑6). 688 received a document production requirement on January 22, 2009, at the restaurant’s address, but the appellant stated that she had no knowledge of that letter.
+[11] According to the accountant of 688, the appellant was a nominee. He met with the appellant on several occasions to discuss means of saving the family business. The appellant asked the accountant whether she should make the proposal in bankruptcy and he assured her that it was the right thing to do. She determined that 688 was capable of paying its debts and the trustee also told her that everything would be fine.
+[12] On March 13, 2009, the appellant signed the proposal in bankruptcy and the creditors’ meeting was held on April 3, 2009. The meeting was presided over by the representative of the trustee, Chantal Gingras, and attended by two representatives from Revenu Québec (including René Belisle), the appellant and the accountant of 688, Yves Godin.
+[13] The minutes of the meeting (Exhibit I‑8) tell us that the creditors (actually, Revenu Québec), were against the proposal, and it is noted that the appellant admitted that she acted as a nominee, and that she stated that Sébastien Harvey de Noël and Associates prepared in December the documents dated April and that she did not know what she was signing. The appellant testified that Mr. Belisle told her that he knew she was not the director of 688 and that it was her husband who was behind all this. The accountant confirmed in his testimony the comments of Mr. Belisle and his refusal to accept the proposal. As a result, 688 became bankrupt.
+[14] According to Mr. Siriphanh, the appellant’s appointment as director changed nothing at all with respect to the management of 688. The appellant trusted him to oversee everything and he also told her that he would take care of the rest if she agreed to do what he said.
+[15] The first assessment made against the appellant was $54,145.35 and covered the period from May 31, 2008, to March 31, 2009. After the objection, the Minister of National Revenue (the Minister) amended the assessment made against the appellant by changing the period at issue, which was now that of December 1, 2008, to March 31, 2009. There is no dispute that the Minister established with the bankruptcy trustee, within the period prescribed in paragraph 323(2)(c) of the Act, a claim for the amount of the liability of 688.
+[16] Thus, the issue to be determined is whether the appellant, as director of 688, owes, pursuant to the provisions of section 323 of the Act, the positive amount of the net tax that 688 calculated and indicated in its monthly reports for the period from December 1, 2008, to March 31, 2009, and which it failed to remit to the Receiver General of Canada.
+[17] The obligation of 688 to file a return results from the provisions of subsections 228(1) and (2) of the Act. A director of a corporation is liable under subsection 323(1) of the Act when the corporation fails to remit the amount of the net tax. A director may, however, not be liable where the director can establish applicability of the exceptions set out in subsections 323(2) and (3) of the Act. The relevant provisions are drafted as follows:
+228. (1) Every person who is required to file a return under this Division shall, in the return, calculate the net tax of the person for the reporting period for which the return is required to be filed, except where subsection (2.1) or (2.3) applies in respect of the reporting period.
+Where the net tax for a reporting period of a person is a positive amount, the person shall, except where subsection (2.1) or (2.3) applies in respect of the reporting period, remit that amount to the Receiver General,
+(a) where the person is an individual to whom subparagraph 238(1)(a)(ii) applies in respect of the reporting period, on or before April 30 of the year following the end of the reporting period; and
+(b) in any other case, on or before the day on or before which the return for that period is required to be filed.
+323. (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[18] There is no doubt in the case at bar that the appellant was the de jure director of 688. She agree to assume this role at the request of her husband and, to that end, she purchased the only issued shares of 688 thus becoming the sole director of 688. She subsequently signed all documentation necessary such that her name appears in the minutes, the resolutions, the bank account agreement, the liquor licence application and, particularly, in the proposal in bankruptcy of 688 to the creditors.
+[19] Did the appellant exercise the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances? Does the family situation in which the appellant found herself make it possible to reduce in the present circumstances the required degree of care, diligence and skill ? As for this last question, it is obviously fact-specific.
+[20] I cannot ignore the recent decision of the Federal Court of Appeal rendered in Buckingham v. The Queen, 2011 FCA 142, which sets aside the subjective standard and established that the test should be objective. The application of this more strict standard is such that the arguments based on personal shortcomings should be aside. In that respect, I cite paragraph 38 of the decision:
+This objective standard has set aside the common law principle that a director's management of a corporation is to be judged according to his own personal skills, knowledge, abilities and capacities: Peoples Department Stores at paras. 59 to 62. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director are important as opposed to the subjective motivations of the directors: Peoples Department Stores at para. 63. The emergence of stricter standards puts pressure on corporations to improve the quality of board decisions through the establishment of good corporate governance rules: Peoples Department Stores at para. 64. Stricter standards also discourage the appointment of inactive directors chosen for show or who fail to discharge their duties as director by leaving decisions to the active directors. Consequently, a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction: Kevin P. McGuinness, Canadian Business Corporations Law, 2nd ed. (Markham, Ontario: LexisNexis Canada, 2007) at 11.9.
+[21] The particular circumstances of a director may be taken into account, but only against the objective reasonably prudent person standard, as the Federal Court of Appeal explains in paragraph 39:
+An objective standard does not however entail that the particular circumstances of a director are to be ignored. These circumstances must be taken into account, but must be considered against an objective "reasonably prudent person" standard. As noted in Peoples Department Stores at paragraph 62:
+The statutory duty of care in s. 122(1)(b) of the CBCA emulates but does not replicate the language proposed by the Dickerson Report. The main difference is that the enacted version includes the words "in comparable circumstances", which modifies the statutory standard by requiring the context in which a given decision was made to be taken into account. This is not the introduction of a subjective element relating to the competence of the director, but rather the introduction of a contextual element into the statutory standard of care. It is clear that s. 122(1)(b) requires more of directors and officers than the traditional common law duty of care outlined in, for example, Re City Equitable Fire Insurance, supra [[1925] 1 Ch. 407].
+[22] One last passage reminds us of the intent of Parliament in enacting such a provision. The following was stated at paragraph 52 in Buckingham:
+Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+[23] Counsel for the appellant cited decisions of this Court which are evocative of a lowering of the standard of care and diligence applicable to the person characterized as passive family director as opposed to the person who is truly free to become a director and does so outside a family context (see Bousquet v. Canada, 2003 TCC 109 and Dirienzo v. Canada, [2000] T.C.J. No. 287 (QL).
+[24] However, our Court also rendered decisions in which it was less indulgent with respect to de jure directors, who, considering the family ties, did not assume their responsibilities as directors. Suffice it to refer to Penney v. Canada, [1999] T.C.J. No. 803 (QL), [1999] G.S.T.C. 102, Black v. Canada, [1994] T.C.J. No. 191 (QL), [1994] 1 C.T.C. 2750, Hanson v. Canada, [1996] T.C.J. No. 1392 (QL), [1997] 1 C.T.C 2456 and Western v. Canada, [1999] T.C.J. No. 155 (QL). All of these decisions emphasize that there is nothing in the wording of the relevant provisions that would suggest that Parliament intended to assist directors who failed to act because they ignored their responsibilities and those of the company of which they were the directors. Suffice it to cite paragraph 22 of the decision of Sarchuk J. in Hanson:
+The mere fact that one becomes a director in a family context is not sufficient to permit such director to turn his or her back on the affairs of the company; to ignore it for all practical purposes; to ignore her responsibilities; indeed, to fail to ask even the most rudimentary question as to what those responsibilities are, and thereby to escape liability under the provisions of the Income Tax Act.
+[25] I accept, as I have already mentioned, that each case must be decided on its own merits. In the case at bar, it is obvious that the appellant was aware that she held the position of director of 688. She did not blindly agree to act in that capacity. She took the time to think about it and, in my opinion, she knew the role and responsibilities she had to assume. She also knew very well the reason for the financial troubles of 688 and, particularly, she knew the amount of the only debt mentioned in the proposal in bankruptcy, namely, that resulting from the failure to remit tax on the sales of 688. Her husband was forced to declare personal bankruptcy owing to the same type of debt of the previous company, which also failed to make tax remittances. The appellant was therefore well aware of the importance of making the tax remittances and the consequences of not making them. Indeed, all the measures she took following her appointment as director were for the purpose of making arrangements to pay for the arrears. She herself paid a visit to the notary to purchase all the shares of 688 so as to take care of the proposal in bankruptcy. I have trouble believing that the appellant could have signed resolutions by the board of directors of 688, the documents pertaining to the transfer of the shares of 688, a purchase agreement and especially a demand promissory note in the amount of $28,197.79 without realizing the nature and the importance of all this and of the responsibilities this would entail.
+[26] The appellant’s role did not end there. She subsequently applied for a liquor licence for 688 and opened a bank account. She had a number of meetings alone with the accountant for the purpose of preparing the proposal in bankruptcy. If her role was merely that of nominee, why were such meetings held with her and not with her husband? The same can be said of the meetings with the trustee in bankruptcy who prepared the proposal. By assuming all these responsibilities, she demonstrated that she played an active role, and at no time did she make an effort to prevent the failure of 688 to remit tax during the relevant periods. Long aware of her husband’s weakness with respect to the remittance of the tax collected by 688, she should have ensured tax remittance herself and she did not.
+[27] As for the issue of whether the auditor could have characterized the appellant as nominee at the creditor’s meeting, I would like to point out that the Court is not bound by such an opinion, especially since the auditor was not asked to testify at the hearing. The same goes for that expressed by the accountant.
+[28] The appeal is dismissed.
+Signed, this 11th day October 2011.
+“François Angers”
+Angers J.
+Translation certified true
+on this 24th day of November 2011.
+Daniela Possamai, Translator
+CITATION: 2011 TCC 388
+COURT FILE NO.: 2010-661(GST)I
+STYLE OF CAUSE: Marie-Ève Latulippe v. Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 29, 2011
+REASONS FOR ORDER BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: October 11, 2011
+APPEARANCES:
+Counsel for the appellant:
+Christian-Daniel Landry
+Counsel for the respondent:
+Joëlle Bitton
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christian-Daniel Landry
+Firm: Christian-Daniel Landry, Counsel
+Gatineau (Québec)
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,126 @@
+Title: Stevenson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27580/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-54-27580-stevenson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-20
+
+# Stevenson v. The Queen
+
+- Citation: 2006 TCC 54
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 74, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevenson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-20
+Neutral citation
+2006 TCC 54
+File numbers
+2001-2280(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC54
+Date: 20060720
+Docket: 2001-2280(IT)G
+BETWEEN:
+M. JANET STEVENSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on December 19, 2005
+in Saint John, New Brunswick).
+Margeson J.
+[1] The issue before the Court at this time for decision is whether or not the Minister of National Revenue properly assessed the Appellant for the taxation years 1994, 1995 and 1996 by including in the Appellant's income an indebtedness which the Minister alleges was owed by the Appellant taxpayer to the Carcroft Holdings Inc. ("Corporation"), which was not repaid.
+[2] Further, whether or not the Appellant received an interest benefit in 1994, 1995 and 1996 in the amounts as set out in the Reply.
+[3] There is no issue as far as the Court is concerned about the amounts themselves. The accountant who appeared as a witness on behalf of the Appellant agreed that these amounts were correct.
+[4] The whole matter is whether or not these amounts were properly categorized as a loan or indebtedness so that the Minister is entitled to apply the provisions of subsection 15(2) of the Income Tax Act.
+[5] I might say at the outset that there was no evidence given before the Court whatsoever that would rebut any of the presumptions contained in the Reply.
+[6] Those presumptions, without any more evidence at all, are sufficient to establish a prima facie case that the Appellant has to meet.
+[7] The Minister is entitled to rely on the presumptions contained in the Reply until such time as they are rebutted, and to such an extent that the Court is able to conclude that the Appellant has established on a balance of probabilities that the assessment was incorrect.
+[8] The Appellant seeks to convince the Court that the amounts involved here should not have been assessed to the Appellant because they were not a loan, they were not an indebtedness, and that there was no evidence of a loan or indebtedness.
+[9] On that point, first of all the presumptions contained in the Reply addressed the very issue in many respects, and there was no attempt to rebut the presumptions contained in the Reply by any evidence given. The Appellant was not in Court and did not testify.
+[10] Secondly, there was evidence before the Court given by the witness called on behalf of the Appellant that these amounts were set up in the books of the company as a shareholder's loan.
+[11] That alone is enough to raise a prima facie case against the Appellant that she had a loan.
+[12] The Court refers to the transcript of discovery where the Appellant also had the opportunity to rebut the issue about there being a loan or indebtedness or to explain why these amounts should not have been set up in the books of the company as a loan.
+[13] She could have said: "There was a mistake, they're incorrect, they were monies which I was receiving because they wanted to reduce dividends or capital" as in some of the cases referred to.
+[14] She could have said that: "They were rewards for working for the company for past years and I don't have to claim them under 15(2). I'll suffer the consequences under some other section or subsection if I have to."
+[15] She had sufficient opportunity there to give an explanation, she did not do so. Further, she has not come into Court and given any explanation whatsoever.
+[16] In essence, counsel for the Appellant is asking the Court to conclude that because there was no evidence before the Court of an indebtedness by way of loan or any evidence that the loan had to be repaid, that the Court should presume that this was not a loan, that it was something else. She did not suggest what that should be and nobody has come forward to give the Court any evidence as to what it should be, other than that which it would appear to be, prima facie.
+[17] The Court considers the evidence before it, including the very way that it was worded in the financial statements prepared by the company's accountant.
+[18] It is true that what the accountant said in the statements is not necessarily evidence, but if the accountant prepares a set of financial documents for the "Corporation", relative to the issue herein, referencing the "Corporation", and entitles them "shareholder's loan" or "shareholder's debt", prima facie that would imply to the Court that that was a shareholder's debt.
+[19] If the Appellant wished to contradict that and to show that it was something else and was not a shareholder's debt, then it is incumbent upon the Appellant to come before the Court and to testify as to what it was.
+[20] It was referred to in the company documents as a shareholder's debt or shareholder's loan, and the balance of the shareholder's loan was set out.
+[21] The Appellant was given some opportunity in the transcript during the discovery process to explain what it was if it was anything other than what it was designated to be. The Minister has called to the stand a witness who went through all of the documents that he had and the financial statements prepared by the company's accountant, and from his evidence and all the other evidence before the Court, it can do nothing but conclude that it must have been a shareholder's loan.
+[22] Counsel for the Respondent has rightfully asked the Court to draw an unfavourable inference against the Appellant because she did not testify.
+[23] The other witness who did appear was the accountant's spouse, and she testified ably, fairly and her evidence was straightforward as far as the Court is concerned. Her evidence is "the nail in the coffin of the Appellant" or the Appellant's argument that it was not a loan, because she said that it was scheduled as a loan and set out as a loan.
+[24] If it was not a loan, it was certainly some form of indebtedness as defined by the cases. It is obvious from looking at the sections in the Act that neither 15(1) nor 15(2) define the term loan.
+[25] Subsection 15(1) refers to a benefit conferred on a taxpayer or shareholder.
+[26] Subsection 15(2), it seems to me, is a much broader section and it says:
+Where a person (other than a corporation resident in Canada) or a partnership (other than a partnership each member of which is a corporation resident in Canada) is a shareholder of a particular corporation, is connected with a shareholder of a particular corporation or is a member of a partnership, or a beneficiary of a trust, that is a shareholder of a particular corporation and the person or partnership has in a taxation year received a loan from or has become indebted to the particular corporation ...
+[27] That is very wide terminology, and there is nothing in there which would suggest that what took place in the case at bar was not an indebtedness.
+[28] The Court is satisfied that it was a shareholder's loan.
+[29] There is nothing in subsection 15(1) that says there has to be any intention to defraud or any intention not to pay the money back.
+[30] That is the way the Minister interpreted it. In this particular case apparently he did not apply subsection 15(1) because he did not want to initiate penalties, which he would have had the right to do under subsection 15(1).
+[31] That is the only reason why the Court could conclude that he might not have applied subsection 15(1). It was not because the auditor did not think that there was a loan in place, because he had a document which said they were shareholder's debts or shareholder's loans.
+[32] The Court is satisfied on the basis of the evidence that the Appellant has not rebutted the presumptions contained in the Reply and further, there is positive evidence before the Court from which it could not help but conclude that there was an indebtedness as contemplated by subsection 15(2).
+[33] Counsel referred to the case of Kwong v. Canada, [1993] T.C.J. No. 196 in the Respondent's Book of Authorities, Tab 2.
+[34] More particularly at page 4, Bonner J. talks about:
+Section 15 of the Act focuses on outflows of corporate money and assets ...
+[35] In the case at bar, there is no doubt in the Court's mind that there was an outflow of corporate money and assets.
+[36] That is exactly what took place here. There was an outflow of corporate money, there were assets removed from the corporation without any doubt and they were not replaced. They were replaced by the debt, but they were not repaid.
+[37] There is no evidence that they were intended to be repaid or ever were repaid.
+[38] Bonner J. further stated,
+Thus a shareholder, whether or not intending to avoid taxation on funds received from a corporation is obliged to include in his income the amount of any loan made to him by the company, or indebtedness incurred in its favour.
+[39] The term indebtedness would certainly include the amounts which were transferred from the corporate treasury to the Appellant or to the benefit of the Appellant, and they were either loans or indebtedness. They were probably both.
+[40] They do not have to be indebtedness arising from direct dealings between the corporation and the persons connected with the shareholders. There are all kinds of ways that indebtedness can be created vis-à-vis the taxpayer and the corporation, other than by way of a direct loan, a loan which is intended to be repaid or one which is not intended to be repaid.
+[41] It would not be proper to attach any restriction or limitation to the interpretation of the section which might be what the Appellant's counsel is asking the Court to do in finding that they were really not loans.
+[42] In any event, the Court is satisfied that they were loans, and if they were not loans, they were certainly indebtedness.
+[43] At paragraph 15, Bonner J. said:
+Although it is obvious that the scope of subsection 15(2) is very broad and that it may form a trap for the unwary, ...
+And that is obviously why it was put in there. Then:
+... Parliament has made provision for escape from the trap. In this regard, I refer to paragraph 15(2)(b) which avoidance of the inclusion in income by repayment of the loan within the stated period.
+[44] That would have been a defence for the Appellant in this case to show that they intended to repay and they repaid it during the term that it was supposed to be repaid in or by giving some explanation as to why they did not repay it during the period it was supposed to be repaid.
+[45] The Court is aware that there are cases which say that a taxpayer is not bound by something that is written in a financial statement, nor bound by some decision that the accountant has made. This is quite true. But when you are interpreting a document such as a shareholder's loan statement, when the statements themselves are made by the accountant of the corporation for the purpose of presenting it to the Income Tax Department, and they categorize a transaction as a shareholder's loan or shareholder's loan account and when the Appellant has been given an opportunity to come here today and to explain why it was a mis-categorization, but has not done so, there is no other conclusion that can be reached.
+[46] In this case, at no time did the Appellant come forward to say that the shareholder's loan account so set up was incorrect.
+[47] According to all of the evidence before the Court, there is no doubt in the Court's mind that what happened throughout the period of time that created that shareholder's loan was that the company paid monies to or on behalf of the taxpayer, which was certainly sufficient to create a loan.
+[48] There was no evidence that these transactions were anything else such as advances in contemplation of a reduction in capital. The Court is satisfied that there was no evidence which would indicate that the amounts that were advanced to the Appellant were anything other than loans or indebtedness created by the corporation as against the taxpayer.
+[49] There was no error in the case at bar as far as the Court is concerned regarding the categorizing of the amounts as "shareholder's loans".
+[50] As counsel for the Respondent said, there was an extensive review of the workings of the corporation made over a period of years, not just the years in question, not only by the Appellant's bookkeeper but also by the accountant who testified on behalf of the Canada Revenue Agency here today, and the Court can find no reason for disputing that evidence.
+[51] This evidence was given in a straightforward manner. He showed the Court his working papers and explained to the Court how he came up with the figures that he did. There was no dispute with the figures themselves, and the Court can do nothing but conclude that the Appellant has not rebutted the presumptions contained in the Reply.
+[52] The Appellant has not established on a balance of probabilities that the Minister's assessment was incorrect. Therefore, the Court will have to dismiss the appeal and confirm the Minister's assessments.
+Signed at New Glasgow, Nova Scotia, this 20th day of July 2006.
+"T. E. Margeson"
+Margeson J.
+CITATION: 2006TCC54
+COURT FILE NO.: 2001-2280(IT)G
+STYLE OF CAUSE: M. Janet Stevenson v. Her Majesty the Queen
+PLACE OF HEARING: Saint John, New Brunswick
+DATE OF HEARING: December 19, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF AMENDED
+JUDGMENT: January 27, 2006
+APPEARANCES:
+For the Appellant:
+Nicole Gallant
+Counsel for the Respondent:
+John W. Smithers
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Nicole Gallant
+Firm: Patterson Palmer
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

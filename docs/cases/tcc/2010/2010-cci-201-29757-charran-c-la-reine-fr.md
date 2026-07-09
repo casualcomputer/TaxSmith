@@ -1,0 +1,200 @@
+---
+title: "Charran c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29757/index.do"
+last_modified: "2010-04-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 201"
+citation2: ""
+neutral_citation: "2010 CCI 201"
+decision_date: "2010-04-20"
+language: "fr"
+item_id: "29757"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6503
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:04:25.351000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "610c53497503ec78f433683f7f72d94dbeee77658ee5e45bb399ff895cf10f3d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Charran c. La Reine
+
+- Citation: 2010 CCI 201
+- Decision date: 2010-04-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6503, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charran c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-20
+Référence neutre
+2010 CCI 201
+Numéro de dossier
+2009-3522(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3522(IT)I
+ENTRE :
+DHANWANTTIE CHARRAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 10 mars 2010, à Toronto (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Frank Dimarco
+Avocat de l’intimée :
+Me Amit Ummat
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour de juin 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 201
+Date : 20100420
+Dossier : 2009-3522(IT)I
+ENTRE :
+DHANWANTTIE CHARRAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Dans le présent appel, qui est instruit sous le régime de la procédure informelle, la question est de savoir si l’appelante a droit à une déduction de 47 500 $ au titre de perte déductible au titre d’un placement d’entreprise (la « PDTPE ») pour l’année d’imposition 2004.
+[2] Selon l’alinéa 38c) de la Loi de l’impôt sur le revenu (la « Loi »), la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien. À l’alinéa 39(1)c) de la Loi, la « perte au titre d’un placement d’entreprise » est définie de la façon suivante :
+39(1) Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+d’un bien qui est :
+[…]
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+[…]
+[3] Le terme « société exploitant une petite entreprise » est défini au paragraphe 248(1) de la Loi :
+« société exploitant une petite entreprise » Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d’actions du capital-actions ou de dettes d’une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l’hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+c) soit visés aux alinéas a) et b).
+Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné; par ailleurs, pour l’application de la présente définition, la juste valeur marchande d’un compte de stabilisation du revenu net est réputée nulle.
+[4] L’alinéa 50(1)a) de la Loi est ainsi rédigé :
+50(1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+[…]
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[5] Le sous‑alinéa 40(2)g)(ii) de la Loi prévoit ce qui suit :
+40(1) Sauf indication contraire expresse de la présente partie :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien, dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+[…]
+[6] Dans Rich v. Her Majesty the Queen[1], le juge Rothstein (tel était alors son titre) a expliqué le fonctionnement des dispositions relatives aux PDTPE :
+Les règles relatives à la PD[T]PE
+[4] Dans son ouvrage intitulé Fundamentals of Canadian Income Tax, 6e éd., (Toronto : Carswell, 2000), à la page 423, le professeur Krishna explique qu’une PD[T]PE est un genre spécial de perte en capital qui bénéficie d’un traitement préférentiel aux fins de l’impôt sur le revenu. Une PD[T]PE se produit lorsqu’il est disposé d’actions ou de créances d’une société exploitant une petite entreprise. Une société exploitant une petite entreprise est une société privée sous contrôle canadien qui utilise la totalité ou presque de ses actifs dans une entreprise active au Canada (voir la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, (5e suppl.), paragraphe 248(1)).
+[5] À moins que le prêteur n’ait pour métier de prêter de l’argent, une créance irrécouvrable sera en général considérée comme une perte en capital. Cependant, contrairement aux pertes en capital ordinaires, qui ne peuvent être déduites que de gains en capital, une PD[T]PE peut être déduite du revenu tiré de toutes sources.
+[7] Les parties conviennent que l’appelante n’était pas une prêteuse d’argent et que la société en cause, Ontario Institute of Information Technology Inc. (« OIIT ») était une « société privée sous contrôle canadien » qui exploitait une entreprise d’enseignement dans le domaine des technologies de l’information. Dean Charran était le président et l’unique actionnaire d’OIIT. L’appelante n’a jamais été actionnaire d’OIIT.
+[8] À l’audience, l’appelante était représentée par son comptable, Frank Dimarco. L’appelante et son époux, Dean Charran, ont tous deux témoigné à l’audience. Personne n’a témoigné pour l’intimée.
+[9] En 2001, OIIT a commencé à éprouver des problèmes financiers, vraisemblablement parce qu’elle avait excédé ses capacités financières en achetant du matériel informatique pour son entreprise. Entre août 2001 et mars 2003, pour aider son époux et l’entreprise qui périclitait, l’appelante a fait quatre retraits totalisant 95 000 $ d’une ligne de crédit personnelle dont elle était l’unique titulaire. Chaque fois, l’appelante a déposé la somme retirée dans un compte de chèques dont elle était titulaire conjointement avec M. Charran. Une fois les fonds déposés, M. Charran faisait des chèques à l’ordre d’OIIT et les déposait dans le compte bancaire de la société. Chacun des retraits fait sur la ligne de crédit de l’appelante a été, à un moment donné, décrit dans une lettre de reconnaissance de dette[2] (ensemble, les « lettres de reconnaissance »). Dans ses états financiers[3] pour cette période‑là, OIIT avait inscrit les sommes reçues dans la rubrique « prêts des actionnaires ».
+[10] En fin de compte, en juillet 2003, les problèmes financiers d’OIIT l’avaient forcée à cesser ses activités. En juin 2003, M. Charran avait informé les autorités provinciales compétentes qu’OIIT avait mis fin à ses activités, ce qui a permis à ses étudiants de fréquenter d’autres établissements d’enseignement.
+[11] Finalement, l’appelante n’a jamais récupéré les 95 000 $ qu’elle avait tirés de sa ligne de crédit personnelle, et elle a dû puiser dans ses REER pour rembourser ces emprunts. L’appelante a déclaré comme revenus des retraits dans ses régimes enregistrés d’épargne-retraite (les « REER ») de 63 478 $[4] pour 2003 et de 39 999 $[5] pour 2004. Dans sa déclaration de revenus pour 2004, l’appelante a demandé une déduction de 47 500 $ au titre de PDTPE en affirmant que, pendant cette année‑là, elle avait subi une perte à l’égard des 95 000 $ prêtés à OIIT. Le présent appel porte sur le refus du ministre du Revenu national (le « ministre ») d’accorder cette déduction.
+[12] En comparant la présente affaire à Rich, on se rend compte que les faits sont très semblables. Dans les deux cas, les contribuables ont demandé des déductions au titre de PDTPE à l’égard de prêts non remboursés qui avaient été consentis à des sociétés qui appartenaient à des membres de leurs familles. Cependant, contrairement au contribuable dans Rich, l’appelante n’était pas actionnaire de la société en l’espèce. Pour paraphraser le critère utilisé dans Rich, l’appelante doit satisfaire aux exigences suivantes pour avoir droit à la déduction d’une PDTPE de 47 500 $ :
+1. OIIT avait une dette de 95 000 $ envers l’appelante;
+2. la dette avait été contractée en vue de tirer un revenu;
+3. OIIT était une petite entreprise admissible en 2004;
+4. la dette est devenue irrécouvrable en 2004.
+OIIT avait‑elle une dette envers l’appelante?
+[13] Simplement dit, non. Comme dans tout appel en matière fiscale, c’est l’appelante qui a le fardeau d’infirmer les hypothèses sur lesquelles le ministre s’est fondé pour établir la cotisation. Vu les diverses lacunes et incohérences de la preuve orale et l’absence de preuves documentaires fiables pour étayer la description que l’appelante a faite des transactions, je ne suis pas convaincue qu’OIIT a eu de dettes envers l’appelante. Les éléments de preuve présentés donnent plutôt à penser que les avances que l’appelante avait tirées de sa ligne de crédit ont été prêtées, ou, plus probablement, données à son époux pour qu’il s’en serve.
+[14] Je me pencherai d’abord sur la piètre qualité des livres et registres d’OIIT. L’appelante n’avait pas grand-chose à dire à ce sujet, mais M. Charran a rejeté le blâme sur l’incompétence de l’ancien comptable de la société et sur la confusion générale qui a entouré les difficultés de l’entreprise. Les seuls documents produits au sujet de la dette sont les lettres de reconnaissance relatives aux quatre avances consenties par l’appelante. Comme c’est souvent le cas dans de telles circonstances, l’appelante a dit qu’à cause de leur relation personnelle, elle et son époux n’avaient pas pensé à établir d’accord de prêt écrit entre l’appelante et OIIT.
+[15] L’absence de documents justificatifs n’est pas nécessairement fatale à la position d’un contribuable, mais, dans un tel cas, il faut que les allégations soient étayées par une preuve orale crédible. En l’espèce, bien que l’appelante et M. Charran aient fourni une explication plausible au sujet de l’absence de dossiers fiables lorsqu’ils ont témoigné, cela n’a pas été suffisant pour remédier à l’absence de documents justificatifs. En soi, les lettres de reconnaissance ne sont pas très convaincantes, car elles ne constituent pas une convention obligatoire entre OIIT et l’appelante. Malgré les dates qui y figurent, je ne sais pas vraiment où ni pourquoi elles ont été faites. Les lettres de reconnaissance ne font état d’aucun calendrier de remboursement des sommes prétendument prêtées à l’entreprise, ce qui n’a rien de surprenant, car l’appelante et M. Charran ont expliqué qu’ils n’avaient jamais réfléchi à cette question.
+[16] Vu l’absence de documents justificatifs, que nous apprend la preuve orale au sujet de l’existence d’une dette qu’OIIT aurait eue envers l’appelante? M. Dimarco, le représentant de l’appelante, a rejeté la position de l’intimée selon laquelle OIIT n’avait jamais eu de dette envers l’appelante parce que les retraits faits sur la ligne de crédit de celle‑ci étaient d’abord déposés dans un compte de chèques dont l’appelante et son époux étaient conjointement titulaires. L’appelante a expliqué avoir agi de la sorte parce qu’elle croyait que les modalités de sa ligne de crédit l’empêchaient de déposer les avances directement dans le compte bancaire d’OIIT.
+[17] À première vue, une telle restriction me semble peu plausible. De plus, même si l’appelante le croyait, elle aurait facilement pu s’informer des modalités de sa ligne de crédit. En fait, vu l’importance des sommes en question et l’objet prétendu des avances, l’appelante aurait eu avantage à faire cette vérification.
+[18] Tout compte fait, il semble beaucoup plus probable que les 95 000 $ tirés de la ligne de crédit de l’appelante entre 2001 et 2003 ont été avancés à M. Charran plutôt qu’à OIIT. Même si c’est l’appelante qui avait fourni les fonds et que, à titre de titulaire conjointe du compte de chèques, elle avait le droit de tirer des chèques sur ce compte, c’est M. Charran qui a fait les quatre chèques à l’ordre d’OIIT et qui a fait les dépôts dans le compte de la société. Le dépôt préalable des fonds dans le compte de chèques conjoint les a mis à la disposition de M. Charran, qui, à titre d’unique actionnaire de la société, pouvait faire des chèques pour suivre des paiements qui étaient alors probablement censés être un prêt d’actionnaire à l’OIIT. Les difficultés financières de la société empêchaient M. Charran d’emprunter des fonds supplémentaires à des tiers. M. Charran était l’unique actionnaire d’OIIT, et les livres de la société font seulement état d’un prêt consenti [traduction] « par l’actionnaire » (voir la note 5 de la pièce A‑7).
+[19] De même, je n’ai pas trouvé convaincante l’explication de M. Charran selon laquelle il s’agissait simplement d’une erreur d’écriture commise par l’ancien comptable de la société. Plus tard au cours de son témoignage, alors qu’il cherchait à établir l’existence d’un accord par lequel OIIT s’était engagée à payer à l’appelante des intérêts de 8 % sur les sommes avancées, M. Charran a fait référence à son prêt consenti par un actionnaire. Il a expliqué que le taux de 8 % s’appliquait au prêt qu’il avait consenti à la société. Malgré cette apparente contradiction, M. Charran n’a pas clarifié en quoi les 95 000 $ prétendument avancés à OIIT cadraient avec cette explication‑là.
+[20] À mon avis, les éléments de preuve présentés ne suffisent pas à établir l’existence d’une dette d’OIIT envers l’appelante. Bien que cette conclusion soit suffisante pour trancher l’appel, au cas où je me serais trompée, j’ai soupesé la preuve concernant les autres conditions relatives à la PDTPE en faisant comme si OIIT avait eu une dette envers l’appelante.
+La dette avait‑elle été contractée en vue de tirer un revenu?
+[21] Comme l’appelante n’était pas actionnaire d’OIIT, elle pouvait seulement espérer tirer un revenu des avances de 95 000 $ en recevant des paiements d’intérêts de la société sur ce montant. Même si j’admettais que les lettres de reconnaissance constituaient des accords de prêt, elles ne prévoyaient pas qu’OIIT verse des intérêts à l’appelante. Il n’y avait aucun autre accord écrit prévoyant le paiement d’intérêts à l’appelante, et le témoignage de M. Charran selon lequel il existait un accord oral entre OIIT et l’appelante pour que des intérêts de 8 % soient payés à cette dernière n’était pas du tout convaincant. Pour appuyer son affirmation, M. Charran a expliqué que le taux de 8 % avait été choisi pour deux raisons : parce que c’est le taux que l’appelante devait payer sur les sommes tirées de sa ligne de crédit et parce que c’était le taux appliqué au prêt que M. Charan avait lui‑même consenti à OIIT.
+[22] Si la première de ces deux explications est vraie, l’appelante n’avait donc aucune chance de tirer un revenu d’un prêt de 95 000 $ fait au taux de 8 % – au mieux, elle aurait recouvré ses coûts d’emprunt. Pour ce qui est de la deuxième explication, j’ai déjà parlé de la faiblesse de la preuve à cet égard.
+[23] Dans les circonstances, aucun élément de preuve crédible ne permet de conclure que l’appelante a contracté sa dette en vue de tirer un revenu.
+OIIT était‑elle une petite entreprise admissible en 2004?
+[24] Non. Comme je l’expliquerai au prochain paragraphe, l’appelante et M. Charran ont tous deux témoigné qu’à la mi‑2003, OIIT n’exploitait plus d’entreprise « activement », comme l’exige le paragraphe 248(1) de la Loi. M. Charran a dit qu’aucuns livres et registres n’avaient été tenus en 2004, car la société avait alors déjà cessé ses activités.
+La créance était‑elle devenue irrécouvrable en 2004?
+[25] Pour que la dette d’OIIT envers l’appelante ait constitué une PDTPE en 2004, il faut que la créance soit devenue irrécouvrable pendant cette année d’imposition là. Toutefois, la preuve donne à penser que, si une créance existait, elle serait devenue irrécouvrable en 2003. Les éléments de preuve présentés montrent qu’OIIT a cessé ses activités en 2003, quand, selon le témoignage de l’appelante et de M. Charran, la société est devenue « insolvable ». À ce moment‑là, OIIT avait perdu l’accréditation nécessaire à l’exploitation d’un établissement d’enseignement, ce qui permet de présumer qu’en l’absence d’étudiants, OIIT n’avait aucune source de revenus. De plus, les actifs d’OIIT étaient tellement grevés de sûretés en 2001 qu’ils ne pouvaient servir à garantir les avances de l’appelante ou permettre à M. Charran d’emprunter des fonds à des tiers. Lors de son témoignage, l’appelante a reconnu avec franchise qu’en 2003, au plus tard, elle croyait être incapable de récupérer les 95 000 $ qu’elle avait avancés au moyen de sa ligne de crédit. La conduite de l’appelante vient corroborer ce témoignage. En 2003, l’appelante a retiré quelque 63 000 $ de ses REER pour rembourser les sommes empruntées de sa ligne de crédit. Si l’appelante avait eu le moindre espoir de se faire rembourser en 2003 les sommes avancées à OIIT, il est fort probable qu’elle n’aurait pas pris une mesure aussi drastique. En effet, en agissant de la sorte, l’appelante a non seulement réduit le solde de ses REER, mais elle a aussi dû payer l’impôt sur les sommes retirées. Dans les circonstances, je suis convaincue que la créance est devenue irrécouvrable en 2003.
+[26] Bien qu’il n’y a aucun doute que l’appelante a subi une perte considérable en essayant d’aider son époux, les éléments de preuve présentés ne me permettent pas de conclure que cette perte peut être déduite au tire de PDTPE. Par conséquent, il me faut rejeter l’appel interjeté à l’égard de la nouvelle cotisation établie à l’égard de l’année d’imposition 2004.
+Signé à Ottawa, Canada, ce 20e jour d’avril 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour de juin 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 201
+No DU DOSSIER DE LA COUR :
+2009-3522(IT)I
+INTITULÉ :
+Dhanwanttie Charran c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 mars 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT :
+Le 20 avril 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Frank Dimarco
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2004] 1 C.T.C. 308. (CAF).
+[2] Pièces A-1, A-2, A-3 et A-4.
+[3] Pièce A-7.
+[4] Pièce A-5.
+[5] Pièce A-6.

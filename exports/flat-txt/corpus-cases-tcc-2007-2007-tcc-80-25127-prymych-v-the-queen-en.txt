@@ -1,0 +1,176 @@
+Title: Prymych v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25127/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-80-25127-prymych-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-02-20
+
+# Prymych v. The Queen
+
+- Citation: 2007 TCC 80
+- Decision date: 2007-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2583, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prymych v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-20
+Neutral citation
+2007 TCC 80
+File numbers
+2004-2488(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2488(IT)G
+BETWEEN:
+PAUL PRYMYCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 8 and 9, 2007
+at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Linda L. Bell
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis of the amended net worth described in paragraph [6], item 2 of these Reasons.
+The Appellant shall pay the Respondent its party and party costs.
+Signed at Saskatoon, Saskatchewan this 21st day of February 2007.
+"D.W. Beaubier"
+Beaubier J.
+Citation:2007TCC80
+Date: 20070220
+Docket: 2004-2488(IT)G
+BETWEEN:
+PAUL PRYMYCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Kelowna, British Columbia on February 8 and 9, 2007. The Appellant testified and called Lori Ponton and Ron Egely to testify. Respondent's counsel called David Matheson, the Canada Revenue Agency ("CRA") officer on the file.
+[2] The particulars in dispute in this appeal are set out in paragraphs 1, 6 and 8 to 19 inclusive of the Reply to the Notice of Appeal. They read:
+A. STATEMENT OF FACTS
+1. He admits the allegations of fact stated in paragraphs 1, 6, 7, 8, 11, 13 and 14 under Statement of Material Facts in the Notice of Appeal as follows:
+a) Paul Prymych is an individual resident in Canada for the purposes of the Income Tax Act (Canada);
+b) The Appellant engaged an income tax preparer, North Okanogan Accounting Services of Vernon, B.C., to complete his income tax returns for each taxation year from 1997, 1998 and 1999;
+c) The Appellant did not file an income tax return for 2000;
+d) The Appellant's income tax returns for 1997, 1998, and 1999 were audited;
+e) The Minister assessed penalties in respect of the Appellant's 1997, 1998 and 1999 taxation years pursuant to Subsection 163(2);
+f) The Appellant, by letter from the Appellant's accountant, Lotoski & Company Chartered Accountant (Lotoski & Co.), dated November 27, 2003 filed Notices of Objection; and
+g) On February 27, 2004, the Minister issued and mailed to Lotoski & Co. Notices of Confirmation of the Notices of Assessment and Reassessment described above.
+...
+6. With respect to paragraph 9 under Statement of Material Facts in the Notice of appeal, he admits that the Minister reassessed the Appellant for the 1997, 1998 and 1999 taxation yeas based upon a net worth calculation that was prepared by the Minister. He states that the Minister reassessed the Appellant's 1997, 1998 and 1999 taxation years pursuant to Subsection 152(7) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the "Act") but also relied on Section 3 and Subsection 9(1).
+...
+8. The Minister initially assessed the Appellant for the 1997 and 1998 taxation years by Notices dated January 9, 2001. He initially assessed the Appellant for the 1999 taxation year by Notice dated September 5, 2001. He initially assessed the Appellant for the 2000 taxation year by Notice dated November 25, 2002.
+9. The Appellant declared total income in the following amount:
+Taxation year Amount
+1997 NIL
+1998 $6,653.19
+1999 $4,211
+10. In reassessing the Appellant for the 1997, 1998 and 1999 taxation years, the Minister increased the Appellant's total income by the following amounts:
+1997 $133,374
+1998 $175,809
+1999 $ 96,867
+11. The Minister assessed the Appellant for his 2000 taxation year pursuant to subsection 152(7) for net income in the amount of $113,546.
+12. In so reassessing and assessing the Appellant, the Minister relied on the following assumptions:
+a) In reporting income for the 1997, 1998 and 1999 taxation years the Appellant did not include all of the income received in those years;
+b) The income of the Appellant during the 1997, 1998 and 1999 taxation years was understated by the amount of $133,374, $175,809 and $96,967;
+c) The understated amount was determined by the net worth method as set out in Schedules I, II, III, and IV with notes attached hereto;
+d) The Appellant did not file an income tax return for his 2000 taxation year;
+e) The Appellant's net income in his 2000 taxation year is not less than $113,546 calculated as set out in Schedules I, II, III and IV, with notes, attached hereto.
+13. The Minister assessed the Appellant penalties under subsection 163(2) of the Act for his 1997, 1998 and 1999 taxation in the amounts of $17,584.95, $25,076.10 and $12,291.45, respectively.
+14. In assessing the penalties stated in paragraph 14, the Minister relied on the following facts:
+a) The Appellant filed his 1997, 1998 and 1999 income tax returns and reported nil income in 1997 and net income of $6,653 in 1998 and $4,211 in 1999;
+b) During his 1997, 1998 and 1999 fiscal years the Appellant was involved in the illegal cultivation and distribution of marijuana which generated income;
+c) During the Appellant's 1997, 1998 and 1999 taxation years, he was able to generate significant wealth and acquire assets as evidence by his acquisition of four properties, some without any financing as set out in Schedules I and II with notes attached hereto;
+d) Taking into account the Appellant's liabilities for mortgages in respect of the properties and personal expenses as set out in Schedules II and IV with notes attached hereto, the Appellant's net worth for 1997, 1998 and 1999 increased by $133,374, $175,809 and $96,867, respectively;
+e) Given the significant discrepancy between the Appellant's reported income and his increase in net worth in each taxation year, the Appellant had to have known or ought to have known that his reported income was understated;
+f) The Appellant's tax payable under Subparagraph 163(2)(a)(i) of the Act exceeds the tax that would have been payable under Subparagraph 163(2)(a)(ii) by $34,814 in 1997 and $50,152.20 in 1998 and $24,207.01 in 1999.
+B. ISSUES TO BE DECIDED
+15. The issues are:
+a) Whether the Appellant's income for the 1997, 1998 and 1999 taxation years as reported was understated; and
+b) Whether the Minister properly assessed penalties pursuant to subsection 163(2) of the Act in those years;
+c) Whether the Minister correctly assessed the Appellant net income in respect of his 2000 taxation years.
+C. STATUTORY PROVISIONS RELIED ON
+16. He relies on sections 3, 9 and 152 and subsection 163(2) of the Act.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+17. He respectfully submits that the Appellant understated income for the 1997, 1998 and 1999 taxation years by the amounts of $133,374, $175,809 and $96,967, respectively.
+18. He respectfully submits that the Minister correctly and properly assessed the Appellant for net income in the amount of $113,546 in respect of his 2000 taxation year.
+19. He further submits that the penalties assessed against the Appellant for the 1997, 1998 and 1999 taxation years were properly assessed in accordance with subsection 163(2) of the Act. The Appellant knowingly, or under circumstances amounting to gross negligence in carrying out a duty or obligation imposed under the Act made or participated in, assented to or acquiesced in the making of false statements or omissions in the income tax returns filed for the 1997, 1998 and 1999 taxation years. As a result, the tax that would have been payable, assessed on the information provided in the income tax returns, was less than the tax payable for those years within the meaning of subsection 163(2) of the Act.
+[3] At the opening of the Hearing the parties agreed that the assessment for 2000 could proceed by consent judgment against the Appellant for a total income of $13,223.08. Judgment shall issue accordingly. For the remaining years, they agreed that the amount of total income in dispute is:
+1997
+1998
+1999
+Additional income in dispute
+$115,153
+$36,738.97
+$12,113.18
+Reported
+$ 6,653
+$ 4,211
+Total Income
+$115,153
+$43,392
+$16,324.18
+and the penalties and interest assessed thereon.
+[4] With one exception, the entire appeal turns on the Court accepting the Appellant's statements respecting the sources of money he spent in 1997. He alleges that he saved large amounts of cash in jugs and in his home even though he had a bank account and alleges that he lent money and became involved in real estate transactions. He also admitted that he did not report for income tax purposes the rent that he received from two sources and he did not report the sale and gains or losses from properties in the years in question for income tax purposes.
+[5] The assessments were prepared from documents assembled by CRA and revised based on documents submitted later by the Appellant. The Appellant's evidence consists of his testimony, the approximate statements by Lori Ponton, that she saw that he had about 5 or 6 jugs of coins in about 1997 that may have had $3,000 to $5,000 in each of them and that she had helped him roll some coins from one of the jugs, and some very vague testimony from Ron Egely that the Appellant failed to pay him and his partner $25,000 or $30,000 on a real estate deal for 10 acres of land at 96 Cochrane Road in about 1997. This Court requires a combination of the Appellant's oral testimony either by specific documents or exact credible testimony from third parties in order to refute the assumptions and schedules determined by the assessor in view of the foregoing facts, the fact that he admittedly failed to report rents, the fact that he did not work for third parties in the years under appeal and the fact that the assessments are based on figures calculated from credible records. It is for this reason that the Court accepts the Respondent's counsel's argument with the modest exception described hereafter.
+[6] The Appellant's claims for 1997 are that:
+1. He had cash on hand, and not in a bank, of $40,000 - His verification for this is that Lori Ponton saw 5 or 6 jugs of cash which she guessed contained $3,000 to $5,000 each - a total of $15,000 to $30,000. He stated that he acquired this over several years. There is no corroboration that he accumulated this alleged sum in 1997 or earlier; moreover the amount itself is only a guess by Lori based upon her experience with quarters and $1.00 coins in a casino, whereas these were all kinds of coins. The Appellant also stated that he had bills saved and not just coins. For the foregoing reasons, the allegation of an accumulation of $40,000 cash on hand before or by 1997 is rejected.
+2. The Appellant claims a further reduction for $32,343.10 that he alleges he had in savings and paid in cash towards the purchase of 96 Cochrane Roadin 1997. This allegation is rejected for the foregoing reasons. However, the Court accepts the Appellant's and Mr. Egely's statements, in essence, that the Appellant did not pay a balance of cash which he owed to the Egely partnership after the sale because there was no water on the property. The Court does not accept the handwritten notes on Exhibit R-1 that this amounted to $34,915.18 because there is no evidence as to the source of the handwriting. Rather, it accepts Mr. Matheson's calculations based on an affidavit of Mr. Egely which CRA appears to have accepted. The result is that instead of paying $70,000 gross to the Egely partnership in 1997, the Appellant paid $60,085 gross, including the mortgage funds. This results in the following balances for the years in question based upon the revisions contained in Exhibit A-2, Tab 7, Schedule II, page 40 from the application of the discrepancy of $9,915 to the final results:
+1997
+1998
+1999
+Original net worth
+$103,602.33
+$31,937.05
+$22,903.59
+Revised net worth
+$ 93,687.33
+$31,937.05
+$32,818.59
+The Cochrane property was sold in 1999 and the variation for 1999 was calculated by Mr. Matheson arbitrarily arriving at a distribution of those proceeds; his calculations were not refuted.
+3. Appellant's alleged reduction in the price of 2445 Cedar Ridge by $11,000 and the alleged payment of a cash deposit and further cash sums of $2,500 per month respecting its purchase by the Appellant in 1997 - Mr. Matheson calculated an outlay of $211,000 based upon an additional brokerage fee and net mortgage proceeds calculated on page 019 of Exhibit R-2, Tab 7 respecting two mortgages totalling $150,000 to purchase this property. His calculations are accepted. Moreover, the Appellant's allegation of the sources of his cash down payment of $61,000 are not accepted. Amendment B to the Offer to Purchase (Exhibit A-2) refers to an "attached sealed envelope" which is to be fulfilled within two years. The Appellant never explained this satisfactorily and did not present any corroboration to such explanation. His allegations concerning this transaction are rejected in their entirety.
+4. The Appellant alleged that he made two cash loans to Messrs. Dack and Batton on which there were repayments in cash in 1997 in the amounts of $14,000 and $18,000. There is no corroboration at all for these statements and they are rejected.
+[7] The evidence is that the Appellant deliberately advised his accountant of his income as reported in the years in question. He admits that he failed to report rents received. He did not report his real estate sales that he described in his testimony. His explanations by way of excuse respecting the assessments are not corroborated and are rejected as described herein. The discrepancies as compared between the income reported and that assessed are large. As a result, the Appellant is liable for the penalties.
+[8] Respecting the income to be assessed, the appeal is allowed and this matter is referred to the Minister of National Revenue for reconsideration and reassessment on the basis of the amended net worth described in paragraph [6], item 2 of these Reasons.
+[9] The Respondent is awarded its party and party costs respecting this appeal.
+Signed at Saskatoon, Saskatchewan this 21st day of February 2007.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2007TCC80
+COURT FILE NO.: 2004-2488(IT)G
+STYLE OF CAUSE: Paul Prymych v. The Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: February 8 and 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: February 20, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Linda L. Bell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

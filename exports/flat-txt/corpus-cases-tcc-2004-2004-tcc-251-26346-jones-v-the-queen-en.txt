@@ -1,0 +1,211 @@
+Title: Jones v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26346/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-251-26346-jones-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-04-16
+
+# Jones v. The Queen
+
+- Citation: 2004 TCC 251
+- Decision date: 2004-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3326, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jones v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-16
+Neutral citation
+2004 TCC 251
+File numbers
+2003-1494(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1494(GST)I
+BETWEEN:
+ELLIE JONES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 24, 2004 at Nanaimo, British Columbia,
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Timothy J. Huntsman
+for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated July 5, 2002 and bears number 76697 is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 16th day of April 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC251
+Date: 20040416
+Docket: 2003-1494(GST)I
+BETWEEN:
+ELLIE JONES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Nanaimo, B.C. on March 24, 2004. The Appellant testified as did her husband, Kenneth Jones, and Victor Sweett, an appraiser. The Respondent called Warren Bentley, the collections officer on the file and Parmjeet Uppal, an appraiser.
+[2] Paragraphs 10 to 14 of the Reply to the Notice of Appeal set out the matters in dispute. They read:
+10. On July 5, 2002, the Minister reassessed the Appellant to reduce the amount to $13,845.70 so as to allow the objection in part, and accordingly issue a notice on that date.
+11. In so reassessing the Appellant, the Minister relied on the following assumptions of fact:
+a) the Company was incorporated on March 24, 1994;
+b) the Company operated a Payless gas station;
+c) the Company was registered under Part IX of the Act, effective April 20, 1994, and was assigned Registration number 137756805;
+d) the Company was required to file quarterly GST returns and to make remittances on a quarterly basis;
+e) at all material times, all or substantially all the Company's supplies were taxable at the rate of 7 percent;
+f) for the reporting periods from April 20, 1994 to August 28, 1997 (the "Period"), the Company filed GST returns but failed to remit net tax with them;
+g) during the Period, the Company was required to remit net tax of $26,277.06 respecting GST collected under subsection 228(2) of the Act, but failed to remit that net tax of $26,277.06 plus applicable penalty and interest as required (the "Debt");
+h) on June 7, 2000, the Minister certified the Debt in the Federal Court and the execution of the writ respecting the Debt was returned "unable to locate any exigible assets" on October 3, 2000;
+i) On December 1, 2000, the Minister assessed the Spouse for net tax of $26,277.06, plus penalty of $9,024.88 and interest of $7,073.45; respecting the Company's unremitted GST returns during the Period;
+j) the Spouse was the sole director of the Company at the time the Debt was accrued;
+k) the Spouse is liable under subsection 323(1) of the Act for the Debt of $42,375.39, which includes net tax of $26,277.06, penalty of $9,024.88 and interest of $7,073.45, respecting the Company's failure to remit net tax;
+l) the Spouse did not file a Notice of Objection to the assessment made against him as a director of the Company;
+m) prior to May 28, 1993, the Spouse and the Appellant owned the Property as joint Tenants;
+n) on or about May 28, 1993, a mortgage of $104,000.00 from the Royal Bank of Canada was registered against the Property with the Spouse and the Appellant, as joint Tenants, being the borrowers;
+o) on February 15, 1996, the Spouse transferred to the Appellant his 1/2 interest in the Property for consideration of $1;
+p) the Spouse made an assignment in bankruptcy on March 6, 2001;
+q) at the time that the Spouse transferred his 1/2 interest in the Property to the Appellant, he was aware of his tax liability;
+r) the Spouse's outstanding liability for net tax, penalties and interest at the time of transfer was not less than $13,845.70;
+s) the fair market value of the Property at the time of the transfer, was $140,000.00;
+t) the outstanding balance owed respecting the Royal Bank mortgage against the Property at the time of transfer was $98,883.51; and
+u) the Spouse's 1/2 interest in the equity in the Property at the time of transfer, was not less than $20,558.245 being 50% of $140,000 - $98,883.51.
+B. ISSUE TO BE DECIDED
+12. The issue is whether the Appellant is jointly and severally liable with the Spouse for $13,845.70 plus further assessed interest under subsection 325(1) of the Act.
+C. STATUTORY PROVISIONS RELIED ON
+13. He relies on sections 123, 126, 165, 169, 221, 225, 228, 238, 280, 296, 298, 299, 315, 316, 321, 323 and 325 of the Act and the provisions of the British Columbia Company Act.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+14. He respectfully submits that the Appellant is jointly and severally liable for $13,845.70 plus applicable interest, because her Spouse transferred his 1/2 interest in the Property to her at a time when the fair market value of his equity in the Property exceeded the consideration given by the Appellant by more than that amount.
+[3] The only assumptions refuted were 11(s) and 11(u). In other words, the net value of the Appellant's home at 7465 Andrea Crescent, Lantzville, B.C., a suburb of Nanaimo, on February 14, 1996 when Kenneth transferred his one-half interest to Ellie.
+[4] At the outset, Ellie is believed when she testified that she wanted the house in her name because she was afraid that she would lose it if Kenneth was killed in an accident. She is also believed as to her entire testimony. In particular, she testified that finances were always tight and that once Kenneth took over the business operation in his corporate name, he merely told her that sales were down and there was no money and did not describe all of his developing difficulties. For a long period at the worst of these times, the couple and their three young children dined on macaroni or less and it is clear that Kenneth's parents helped them out as best they could. For a long time at the end, the strain was great and the couple simply weren't speaking to each other. Ellie finally got a job at Wal-Mart to get some money for the family. Within a year or so after the house was transferred, the roof and chimney had to be replaced. Both appraisers testified that the house's condition was "fair" and was not up to the standard on the street. The Court finds that this was also the case at the time of transfer. The couple hadn't the time nor the money to keep it up. Kenneth was working at least ten hours per day, seven days a week at the service station business and Ellie was trying to care for three small children with no money. Kenneth's father paid $4,700 for the new roof to replace a leaking one. The chimney was spouting sparks and flames from their wood burning heating furnace and cost $1,500 to replace. The family consequence of these events is that Kenneth and Ellie are now separated and Ellie lives with their children in the house.
+[5] Both appraisers were credible, but neither saw 7465 Andrea Crescent ("7465") until long after 1996. The Court finds that Mr. Uppal's selection of the house across the street at 7464 Andrea Crescent was the best comparable. It sold for $136,000 in January, 1996. It had a carport; the Appellant's house had a garage. It had a fireplace; the Appellant's house did not. Otherwise, they were similar. A knowledgeable buyer and seller would know about the roof and chimney problems of 7465. From the evidence of the Jones' finances at the time, the Court finds that 7465 was not in good condition at the time of the transfer. For these reasons, the Court finds that the value of 7465 at the time of transfer was Mr. Sweett's figure, $131,000. Mr. Sweett made allowance for the roof replacement, but not the chimney. Therefore, $1,500 is allowed for the chimney, leaving a value of $129,500 as the value of 7465 found by the Court at the date of transfer.
+[6] From this $129,500 the Appellant also claims the value of two mortgages as a further reduction. Both were actually signed after the date of transfer, but Ellie's and Kenneth's guarantees of the $12,000 were executed before that date. They are:
+1. $12,000 - Guarantee to the Royal Bank of Canada in support of a Royal Bank letter of guarantee to Payless when Kenneth started the service station business. This guaranteed was called by Shell, which had bought out Payless, five days after they seized the service station, in February, 1997. At that time the Royal Bank gave Ellie the option - grant the mortgage or they would sell 7465. Ellie gave the mortgage.
+2. $10,000 - This was a loan from the Royal Bank that Kenneth obtained to meet the payroll, but it appears to have occurred after the transfer of the house. It was also secured by a mortgage on 7465.
+[7] When considering these two items, a number of matters arise:
+1. The Appellant never filed copies of the title on the mortgages so the dates could be determined.
+2. Ellie was signing anything she was told to sign, in an effort to hang on to her home.
+3. This Court does not believe that a lawyer acting for Ellie or examining her respecting the $12,000 and $10,000 mortgages would let her sign them in the circumstances unless her guarantees to the Bank required that, or already formed some kind of an encumbrance.
+4. The final consideration is assumption 11(t) that the Royal Bank mortgage at the time of transfer was $98,883.51. But neither appraiser searched the title to 7465.
+[8] The Court accepts the Appellant's various evidence about the $12,000 guarantee granted to the Royal Bank on behalf of Payless and finds that the guarantee was drawn and executed as a form of encumbrance against the house before the time of the transfer on February 14, 1996. Therefore, the total encumbrance against 7465 on February 14, 1996 was:
+$12,000.00
++ $98,883.51
+$110,883.51
+[9] The net value transferred by Kenneth to Ellie on February 14, 1996 was
+$129,500.00
+- $110,883.51
+1/2 x $ 18,616.49 = $9,308.25
+[10] Appellant's counsel raised the issue that Kenneth had been duly diligent in attempting to pay the GST in question. The Court finds that he was not at all diligent when he should have been - at the time the instalments were due. He only paid one instalment when it was due. He never paid another and he commonly filed his quarterly returns late. Respondent's counsel alleged that Kenneth financed the business on GST. The Court finds that that is not clear. Payless and Shell exercised tremendous financial control over the business and it is not clear that Kenneth received much money, outside of cash sales, over which he had any control. He had to buy all of his inventory from them or their related companies and there is no evidence as to how they handled his charges except that, at the end, he was on weekly collection or inspection by Shell. Nonetheless, Kenneth was a hands-on operator of the business and he knew his financial situation from day to day. It was only when it was clear that his corporation was going to lose the business that Kenneth began worrying about overdue GST. By that time it was too late to be "diligent", and the evidence is clear that there was no chance that the business could pay any of the GST due. Even then, he filed the GST returns late.
+[11] Appellant's counsel raised a third issue which deserves consideration. It derives from the following facts in evidence:
+1. May 29, 2000 - Shell Canada Limited was issued two "Requirement to Pay" notices by the Minister respecting moneys payable to Jones Service Station Ltd. (Exhibits A-3 and A-4) One was respecting the GST in question and the other was respecting payroll withholdings.
+2. June 7, 2000 - The Federal Court issued a writ of seizure and sale respecting Jones Service Station Ltd. to the Sheriff of British Columbia. (Exhibit R-6)
+3. October 2, 2000 - The Sheriff returned the writ inscribed "unable to locate any assets exigible to this writ". (Exhibit R-6).
+4. December 1, 2000 - Kenneth Jones was assessed for $42,375.39 under the Excise Tax Act. (Exhibit R-7)
+[12] The evidence before the Court is that the Respondent has no record that Shell Canada Ltd. ever replied respecting either Requirement to Pay, namely Exhibits A-3 and A-4.
+[13] Kenneth Jones testified that when Shell Canada Limited seized the assets of Jones Service Station Limited in February 1997, it had an inventory of $47,000. Shell forced Kenneth out and it audited an inventory of $25,000. Shell would not allow Kenneth or his representatives back in to check Shell's amount. Kenneth then went to a lawyer to sue Shell respecting this matter. The lawyer advised Kenneth that such a lawsuit would take years and very large amounts of money, which Kenneth did not have. The lawyer advised Kenneth to go bankrupt and Kenneth did.
+[14] The result is that, despite the Sheriff's Certificate (Exhibit R-6), the Respondent did not receive a reply from Shell Canada Limited to its Requirements to Pay (Exhibits A-3 and A-4). On Kenneth's evidence, which is not countered in any way, Shell Canada Limited seized inventory and allowed Jones Service Station Limited a credit of $25,000, which is $22,000 less than Jones Service Station Limited's count. That $22,000 is sufficient to pay the original GST claimed by the Respondent and would in turn free the Appellant from any liability as at the date of seizure.
+[15] The GST Requirement to Pay (Exhibit A-3) was issued on May 29, 2000 to Shell Canada Limited pursuant to section 317 of the Excise Tax Act, which reads:
+317. (1) If the Minister has knowledge or suspects that a particular person is, or will be within one year, liable to make a payment to another person who is liable to pay or remit an amount under this Part (in this subsection and subsections (2), (3), (6) and (11) referred to as the "tax debtor"), the Minister may, by notice in writing, require the particular person to pay without delay, if the moneys are payable immediately, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor's liability under this Part.
+(2) Without limiting the generality of subsection (1), where the Minister has knowledge or suspects that within ninety days
+(a) a bank, credit union, trust company or other similar person (in this section referred to as the "institution") will loan or advance moneys to, or make a payment on behalf of, or make a payment in respect of a negotiable instrument issued by, a tax debtor who is indebted to the institution and who has granted security in respect of the indebtedness, or
+(b) a person, other than an institution, will loan or advance moneys to, or make a payment on behalf of, a tax debtor who the Minister knows or suspects
+(i) is employed by, or is engaged in providing services or property to, that person or was or will be, within ninety days, so employed or engaged, or
+(ii) where that person is a corporation, is not dealing at arm's length with that person,
+the Minister may, by notice in writing, require the institution or person, as the case may be, to pay in whole or in part to the Receiver General on account of the tax debtor's liability under this Part the moneys that would otherwise be so loaned, advanced or paid, and any moneys so paid to the Receiver General are deemed to have been loaned, advanced or paid, as the case may be, to the tax debtor.
+(3) Despite any other provision of this Part, any other enactment of Canada other than the Bankruptcy and Insolvency Act, any enactment of a province or any law, if the Minister has knowledge or suspects that a particular person is, or will become within one year, liable to make a payment
+(a) to a tax debtor, or
+(b) to a secured creditor who has a right to receive the payment that, but for a security interest in favour of the secured creditor, would be payable to the tax debtor,
+the Minister may, by notice in writing, require the particular person to pay without delay, if the moneys are payable immediately, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor or the secured creditor in whole or in part to the Receiver General on account of the tax debtor's liability under this Part, and on receipt of that notice by the particular person, the amount of those moneys that is so required to be paid to the Receiver General shall, despite any security interest in those moneys, become the property of Her Majesty in right of Canada to the extent of that liability as assessed by the Minister and shall be paid to the Receiver General in priority to any such security interest.
+(4) [Repealed, 2000, c. 30, s. 95]
+(5) A receipt issued by the Minister for moneys paid as required under this section is a good and sufficient discharge of the original liability to the extent of the payment.
+(6) If the Minister has, under this section, required a person to pay to the Receiver General on account of the liability under this Part of a tax debtor moneys otherwise payable by the person to the tax debtor as interest, rent, remuneration, a dividend, an annuity or other periodic payment, the requirement applies to all such payments to be made by the person to the tax debtor until the liability under this Part is satisfied and operates to require payments to the Receiver General out of each such payment of such amount as is stipulated by the Minister in a notice in writing.
+(7) Every person who fails to comply with a requirement under subsection (1), (3) or (6) is liable to pay to Her Majesty in right of Canada an amount equal to the amount that the person was required under subsection (1), (3) or (6), as the case may be, to pay to the Receiver General.
+(8) Every institution or person that fails to comply with a requirement under subsection (2) with respect to moneys to be loaned, advanced or paid is liable to pay to Her Majesty in right of Canada an amount equal to the lesser of
+(a) the aggregate of moneys so loaned, advanced or paid, and
+(b) the amount that the institution or person was required under that subsection to pay to the Receiver General.
+(9) The Minister may assess any person for any amount payable under this section by the person to the Receiver General and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+(10) An assessment of an amount payable under this section by a person to the Receiver General shall not be made more than four years after the notice from the Minister requiring the payment was received by the person.
+(11) If an amount that would otherwise have been payable to or on behalf of a tax debtor is paid by a person to the Receiver General pursuant to a notice from the Minister issued under this section or pursuant to an assessment under subsection (9), the person is deemed, for all purposes, to have paid the amount to or on behalf of the tax debtor.
+(12) Provisions of this Part that provide that a person who has been required to do so by the Minister must pay to the Receiver General an amount that would otherwise be lent, advanced or paid to a particular person who is liable to make a payment under this Part, or to that particular person's secured creditor, apply to Her Majesty in right of a province.
+[16] Pursuant to subsection 317(3), on receipt of Exhibit A-3 by Shell Canada Limited the amount required to be paid to the Receiver General shall become the property of the Queen and shall be paid to the Receiver General. Subsection 317(7) imposes the liability on Shell Canada Limited if it does not comply with the Requirement to Pay. Thereupon the Minister may assess Shell Canada Limited within four years after it received Exhibit A-3. There is no evidence that Shell Canada limited has been assessed as yet. Rather, the Appellant was assessed. It appears that the Minister has the right to make that choice.
+[17] In his argument, Appellant's counsel also raised the provisions of British Columbia's Court Order Enforcement Act, [RSBC 1996] Chapter 78, as it affects the transfer of the value of $9,308.22 from Kenneth to Ellie on February 14, 1996. Sections 71 to 71.2 of that Act read:
+Personal property of debtor
+71(1) Subject to subsections (2) and (4) of this section and section 71.2, the following goods and chattels of a debtor, at the option of the debtor, are exempt from forced seizure or sale by any process in law or in equity
+(a) necessary clothing of the debtor and the debtor's dependants;
+(b) household furnishings and appliances that are of a value not exceeding a prescribed amount;
+(c) one motor vehicle that is of value not exceeding a prescribed amount;
+(d) tools and other personal property of the debtor, not exceeding in value a prescribed amount, that are used by the debtor to earn income from the debtor's occupation;
+(e) medical and dental aids that are required by the debtor and the debtor's dependants;
+(f) any personal property prescribed by the regulations that is of a value not exceeding a prescribed amount.
+(2) This section must not be construed as exempting any property from seizure in satisfaction of a debt incurred for the purpose of acquiring property otherwise exempt under subsection (1).
+(3) This section must not be construed as permitting a trader to claim as an exemption any of the goods and merchandise which form a part of the stock in trade of his or her business.
+(4) This section does not apply to a corporate debtor.
+Principal residence of debtor
+71.1(1) Subject to section 71.2, the principal residence of a debtor is exempt from forced seizure or sale by any process at law or in equity if the value of the debtor's equity in the principal residence does not exceed a prescribed amount.
+(2) This section does not apply to
+(a) a corporate debtor, or
+(b) a debtor who is party to a proceeding in respect of a mortgage.
+Property exceeding exempted values
+71.2(1) If the value of the property referred to in section 71(1) or 71.1(1) exceeds the prescribed amount of the exemption for the property, that property is subject to seizure and sale under this Act.
+(2) If property to which subsection (1) applies is sold under this Act, a sheriff or other officer must unless otherwise provided by law or by the agreement of all interested parties, distribute any of the proceeds of the sale as follows:
+(a) pay firstly to a secured creditor the amount owed by the debtor to the secured creditor if the secured creditor
+(i) has, at the time of seizure, a financing statement registered under the Personal Property Security Act, or
+(ii) has a charge registered under the Land Title Act;
+(b) pay secondly to the debtor an amount not exceeding the prescribed amount of the exemption.
+(3) The sum received by the debtor under subsection (2)(b) is exempt from attachment.
+(4) This section must not be construed as affecting the priority of a maintenance order the Family Maintenance Enforcement Act.
+(5) The priority of the claim of any person referred to in subsection (2) is not prejudiced by a payment to anyone made in accordance with that subsection.
+The applicable Court Order Enforcement Exemption Regulation (B.C. Reg. 28/98) is subsection 3(b) which prescribes the amount of equity to be $9,000. However, the question of an execution on this judgment and its realization turns on subsection 321(7) of the Excise Tax Act and its application in British Columbia having regard to the Federal Court of Appeal decisions in Marcoux v. Canada [2001] F.C.J. No. 493 (F.C.A.) and Millette v. Canada [2001] F.C.J. No. 492 (F.C.A.).
+[18] In these circumstances, this matter is remitted to the Minister for reconsideration and reassessment of Ellie Jones in the amount of $9,308.25.
+[19] The Appellant is awarded her taxable costs respecting this proceeding. Because the hearing lasted from 9:30 a.m. until approximately 7:07 p.m. the Appellant's hearing costs are to be taxed on the basis that the hearing lasted for one and one-half days.
+Signed at Saskatoon, Saskatchewan this 16th day of April 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC251
+COURT FILE NO.:
+2003-1494(GST)I
+STYLE OF CAUSE:
+Ellie Jones v. Her Majesty the Queen
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+March 24, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable
+Justice D.W. Beaubier
+DATE OF JUDGMENT:
+April 16, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Timothy J. Huntsman
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Timothy J. Huntsman
+Firm:
+Hunter Garrett
+Nanaimo, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

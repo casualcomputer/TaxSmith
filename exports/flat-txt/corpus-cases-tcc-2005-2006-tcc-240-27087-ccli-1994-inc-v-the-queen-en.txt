@@ -1,0 +1,364 @@
+Title: CCLI (1994) Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27087/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-240-27087-ccli-1994-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-21
+
+# CCLI (1994) Inc. v. The Queen
+
+- Citation: 2006 TCC 240
+- Decision date: 2005-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 957, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CCLI (1994) Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-21
+Neutral citation
+2006 TCC 240
+File numbers
+2002-2806(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2806(IT)G
+BETWEEN:
+CCLI (1994) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 8, 2006, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Michael E. Barrack,
+Thomas B. Akin and John Yuan
+Counsel for the Respondent:
+Jag Gill and John R. Shipley
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1989, 1990, and 1993 taxation years and the redeterminations of loss made under the Act for the 1991 and 1992 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of April, 2006.
+"Campbell J. Miller"
+Miller J.
+Citation: 2006TCC240
+Date: 20050421
+Docket: 2002-2806(IT)G
+BETWEEN:
+CCLI (1994) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Appellant is the successor by amalgamation to Citibank Canada Leasing Inc. (CCLI) and Citibank Canada Factors Inc. CCLI carried on a financial leasing business. In accordance with generally accepted accounting principles, it accounted for the financial leases as a type of financing, and not as operating leases. For tax purposes, however, it reported the financial leases on a basis more consistent with the accounting concept of operating leases. It borrowed funds from its parent Citibank Canadain U.S. dollars. It used the borrowed funds to enter an arrangement with customers to acquire major assets from the customers and then lease such assets back to the customers. It reported the foreign exchange losses on the borrowed monies on income account, on the basis that it was in the financing business and that money was its inventory. The Respondent argues that for tax purposes, any foreign exchange gains or losses should be on capital account, on the basis that CCLI did not lend money but borrowed money to acquire capital assets and enter into lease arrangements. The major issue is the characterization of the foreign exchange gains and losses for tax purposes - on income account or on capital account (the "Foreign Exchange Issue"). If I find that foreign exchange gains and losses are on capital account, a second issue arises with respect to the quantum of capital losses eligible for deductibility in the 1993 taxation year (the "Loss Balance Issue").
+[2] This appeal and all three assessments involve reassessments for tax under Part I of the Act issued by the Minister of National Revenue by notices dated April 18, 2002 for CCLI's tax years ending October 31, 1989 (the 1989 reassessment), and October 31, 1990 (the 1990 reassessment) and dated May 6, 2002 for CCLI's tax year ending October 31, 1993 (the 1993 reassessment) and redeterminations of loss issued by the Minister under Part I of the Act by notices dated April 19, 2002 for CCLI's tax years ending October 31, 1991 (the 1991 redetermination) and October 31, 1992 (the 1992 redetermination).
+Facts
+[3] The following facts are gleaned from the Agreed Statement of Facts and the testimony of Mr. Peter Wong, an officer of the Appellant, and Mr. Ralph Selby, an expert in the field of accounting for financial leases.
+[4] CCLI is the successor by amalgamation on November 1, 1988 to Citibank Canada Leasing Inc. and Citibank Leasing Canada Limited, both of which were wholly-owned subsidiaries of Citibank Canada, a Canadian chartered bank governed by the Bank Act.[1] At the relevant time, Citibank Canadawas a wholly-owned subsidiary of Citicorp, a U.S.-resident corporation. Citicorp carried on the banking business either directly or indirectly through its many subsidiaries worldwide.
+[5] While Citibank Canada carries on most aspects of the banking business in Canada, prior to 1992 the applicable provisions of the Bank Act precluded Citibank Canadafrom financing through financial leases and conditional sales agreements except through a subsidiary. The Bank Act also precluded Citibank Canada from holding more than 10% of the voting shares of a corporation that carried on a leasing business unless such corporation qualified as a "leasing corporation" as defined in the Bank Act.
+[6] The Financial Leasing Regulations enacted under the Bank Act imposed numerous restrictions on the conduct of the business carried on by a leasing corporation of a bank. In particular, some of the specific restrictions of the Financial Leasing Regulations included the following:
+(a) the business of the subsidiary must include "the raising of money for the purpose of financing the activities of the leasing corporation";
+(b) the aggregate of the estimated residual values of all leased properties must not exceed 10% of its aggregate acquisition cost (and the estimated residual value of any property must not exceed 20% of its acquisition cost);
+(c) at least 80% of its assets must consist of receivables arising from financial lease agreements or conditional sales agreements;
+(d) the financial lease and conditional sales agreements must be for the purpose of extending credit to the borrower;
+(e) the specific property must be selected by the borrower and acquired at the borrower's request;
+(f) each financial lease must yield a return that compensates for the full investment and must be on a non-operating basis such that the borrower bears full responsibility for insurance, maintenance and servicing; and
+(g) the subsidiary must dispose or release any property within a specified time after maturity or default.
+(h) all financial lease agreements and conditional sales agreements held by the leasing corporation shall be on a non-operating basis and no agreement of the leasing corporation shall entail responsibility of the leasing corporation to install, promote, service, clean, maintain or repair the property that is the subject of the agreement.
+[7] Mr. Wong confirmed that CCLI provided financial leases to corporate clients in compliance with the financial leasing regulations. He described the financial lease as a secured loan whereby the lender takes title and leases the assets back to the customer. He testified that CCLI never took possession of the equipment, but looked on the equipment as collateral. He acknowledged that part of the reason to take title was to claim capital cost allowance. Indeed, financing by way of a direct financing lease was all CCLI was set up to do.
+[8] The Handbook of Canadian Institute of Chartered Accountants, section 3065.09 classifies the financial lease as follows:
+A lease that transfers substantially all of the benefits and risks of ownership related to the leased property from the lessor to the lessee should be accounted for as a capital lease by the lessee and as a sales-type or direct financing lease by the lessor.
+[9] In the course of its business, CCLI entered into leases with arm's length parties for "big ticket" items and the leases often provided for payments to be made by the lessee in either U.S. dollars or another foreign currency. CCLI borrowed funds from Citibank Canadato acquire the assets leased. Such borrowed funds were in U.S.currency to reflect the currency of the payment stream under the particular lease.
+[10] During its 1990 and 1991 tax years, CCLI entered into leases with European lessees for railcars and aircraft (collectively, the "Euroleases") and borrowed funds from Citibank Canadato acquire the assets leased (collectively, the "Eurolease Debt") according to the following table:
+Lessee
+Date
+Lessor's Acquisition Cost (US$)
+Total Rent (US$)
+# semi-annual rents
+Option Price (US$)
+Last Two Rents (US$)
+Corresponding Borrowing (US$)
+Nederlandse Spoorwegen
+12/19/90
+$115,492,549
+$265,124,662
+26
+$46,197,015
+$50,169,958
+$113,182,686
+Citicorp Leasing Nederland1
+06/17/91
+$135,000,000
+$284,256,000
+26
+$54,300,000
+$58,752,000
+$132,100,000
+Cargolux Airlines International
+06/20/91
+$80,000,000
+$139,105,237
+22
+$31,684,625
+$34,016,917
+$77,400,000
+Nederlandse Spoorwegen
+07/12/91
+$105,763,831
+$221,118,658
+26
+$42,305,532
+$45,445,755
+$105,000,000
+Citicorp Leasing Nederland2
+11/08/91
+$37,156,648
+$64,260,861
+22
+$18,578,324
+$19,672,881
+$37,156,648
+1 Subleased on substantially similar terms to Societe Nationale (Belgium).
+2 Subleased on substantially similar terms to Statens Jarnvagar (Sweden).
+[11] All of the Euroleases were of railcars except for the lease to Cargolux Airlines International which was a lease of an aircraft.
+[12] CCLI purchased the underlying equipment for each Eurolease from the party to whom the equipment would be leased under the particular Eurolease. The Euroleases were the only leases of CCLI during the years in question.
+[13] Applicable accounting guidelines require lessors to categorize their leases as either operating leases, direct financing leases or sales-type leases. Under those guidelines, the Euroleases are direct financing leases and CCLI recorded its revenues and expenses in connection with the Euroleases in accordance with the accounting rules for direct financing leases. In a nutshell, the direct financing lease would be treated for accounting purposes as an interest bearing loan. Mr. Selby concluded that for purposes of GAAP the leases in issue were direct financing leases.[2]
+[14] The nature of the accounting rules for direct financing leases is to treat the income from the lease activity as a return on the funds invested by the lessor in the lease rather than a return from the rental of the underlying property that is the subject of the lease. For example, in 1990 the full rental revenue of $100 million was reported as income for tax purposes although CCLI's financial statements recorded income of only $89 million.
+The Foreign Exchange Issue
+[15] In computing its income from the business for both accounting and tax purposes, CCLI included any foreign exchange gain or loss on its borrowings used to fund its leases. At the end of each fiscal year, CCLI recognized any accrued but unrealized foreign exchange gains or losses on such debt in relation to its book value and, upon repayment or other disposition of such debt during the fiscal year, CCLI recognized any foreign exchange gains or losses on such debt in relation to its book value. This approach resulted in significant foreign exchange gains being included in CCLI's income for tax purposes in the 1988, 1989, 1990 and 1991 tax years and significant foreign exchange losses in the 1992, 1993 and 1994 tax years.
+[16] CCLI's foreign exchange gains and losses for the 1991, 1992 and 1993 tax years on Eurolease Debt were, as follows:
+Taxation Year
+Foreign Exchange Gain (Loss) on Eurolease Debt
+Unrealized
+Realized
+1991
+$11,041,509
+$586,075
+1992
+($50,760,845)
+($823,520)
+1993
+($30,173,282)
+($4,001,011)
+The Loss Balance Issue
+[17] As a result of an audit by Revenue Canadaduring the early 1990s, the Minister calculated CCLI's 1991 loss to be $5,839,551, as reflected in a notice of reassessment dated June 8, 1994. On May 4, 1995, the Minister issued a notice of reassessment for CCLI's 1989 tax year under which $5,839,551 of non-capital losses from 1991 and $23,519,626 of non-capital losses from 1992 were deducted in computing CCLI's taxable income (the "Final Valid Reassessment").
+[18] In the course of a subsequent audit, the Minister decided that CCLI's reporting of foreign exchange gains and losses on income account for tax purposes was incorrect. The Minister concluded that such gains and losses should not be included in CCLI's computation of income until realized and then only on capital account. The Minister took the following actions to implement the adjustments on the foreign exchange issue:
+(a) In anticipation of the adjustments described in (b) below to CCLI's losses for the 1991 and 1992 tax years, the Minister issued a notice of reassessment dated June 11, 1997 for CCLI's 1989 tax year. Under the reassessment, the Minister increased CCLI's deduction for 1991 non-capital loss to $21,481,249 from the $5,839,551 amount deducted under the Final Valid Reassessment and decreased CCLI's deduction for 1992 non-capital loss to $7,085,367 from the amount allowed under the Final Valid Reassessment; and
+(b) The Minister issued notices of reassessment dated July 2, 1998 for CCLI's 1991 to 1994 tax years which reflected the reversal of revenues reported by CCLI on account of foreign exchange gains on Eurolease Debt that accrued during the 1991 tax year and the disallowance of deductions on account of CCLI's foreign exchange losses on Eurolease Debt that accrued during the 1992 to 1994 tax years.
+The relevant adjustments made by the Minister under these reassessments are as follows:
+Taxation Year
+Nature of Adjustment
+Increase to Income
+(Decrease to Income)
+1991
+Reversal of revenue
+($11,627,584)
+1992
+Disallowance of deduction
+$51,584,365
+1993
+Disallowance of deduction
+$34,174,293
+1994
+Disallowance of deduction
+$13,398,806
+Net Adjustment:
+$87,529,880
+[19] Pursuant to subsection 152(1.1) of the Income Tax Act, CCLI requested that the Minister issue a loss determination for the 1991 and 1992 tax years. In response, on December 17, 1998 the Minister issued loss determinations for the 1991 and 1992 tax years under which he determined the losses for the 1991 and 1992 taxation years to be $21,481,249 and $7,035,367, respectively.
+[20] The Appellant objected to the June 11, 1997 reassessment for the 1989 tax year on the basis that the time period under the Act for the Minister to issue a reassessment for CCLI's 1989 tax year had expired and also objected to the Minister's loss determinations for CCLI's 1991 and 1992 tax years and the reassessment for the 1993 tax year. In response to the Appellant's objections:
+(a) regarding the 1989 tax year, the Minister advised by letter dated August 26, 1998 that he would be allowing the Appellant's objection to the June 11, 1997 reassessment of CCLI's 1989 tax year on the basis that he was, in fact, statute-barred from issuing a reassessment for the 1989 tax year. However, rather than vacating the June 11, 1997, reassessment or confirming that the June 11, 1997 reassessment was a nullity, the Minister instead issued the 1989 Reassessment under which he increased CCLI's deduction for 1991 non-capital loss from $21,481,249 to $25,824,050 and further decreased the amount allowed as a deduction for its 1992 non-capital loss from $7,035,367 to $3,535,127; and
+(b) regarding the loss determinations for CCLI's 1991 and 1992 tax year and the July 2, 1998 reassessment for the 1993 tax year, the Minister issued the 1991 Redetermination, the 1992 Redetermination and the 1993 Reassessment. In the 1991 Redetermination, the amount of CCLI's loss for the 1991 tax year was increased to $25,824,050 and, in the 1992 Redetermination, the amount of CCLI's loss for the 1992 tax year was determined to be $8,122,335.
+[21] The Minister agrees that both the June 11, 1997 reassessment (referred to in paragraph 20(a) above) and the 1989 reassessment are invalid with the result that the Final Valid Reassessment is the last valid reassessment of the 1989 tax year. Except for the reassessment the notice of which was dated June 11, 1997, which was vacated, all reassessments in respect of the Appellant's 1989 taxation year were "nil" assessments or notifications that no taxes were payable.
+Issues
+[22] The first issue is whether the foreign exchange gains or losses are on income or capital account; the parties agree that with respect to this issue, if I find them to be on income account, the accrual basis is in order; if I find them to be on capital account, the realized basis is applicable.
+[23] The second issue relates to the amount of loss from 1991 available to apply to the 1993 tax year. This only arises if I find the Respondent is correct that the gains or losses are on capital account. In that case, the parties agree that CCLI's loss for the 1991 tax year is the $25,824,050 determined under the 1991 Redetermination. The question then is whether the Respondent can allocate this amount of the 1991 non-capital loss to the statute-barred 1989 tax year as opposed to the $5,839,551 as determined in the Final Valid Reassessment. That decision will impact the amount of loss available to be carried forward from 1991 to the 1993 tax year.
+Analysis - Foreign Exchange Issue
+[24] The Appellant argues that CCLI was in the financing business, that is, money was its business and, therefore, borrowing money was acquiring inventory; consequently, any foreign exchange gains or losses in connection with that underlying borrowing transaction are on income account. The Appellant relies on Justice Major's approach in Gifford v. The Queen[3] specifically:
+39 Under our current Act it is not necessary to determine whether the payment is a capital expenditure but to determine whether the payment is being made "on account of capital". This distinction in terms is particularly important in relation to interest payments, because loan proceeds are seldom retained in the form they are received, unlike other capital assets. This distinction means that under our Act it is only necessary to consider what the proceeds of the loan are to the borrower when they are received, and does not require an examination of what those loan proceeds are spent on. If the money adds to the financial capital then the payment of interest on that loan will be considered to be a payment "on account of capital". If the loan proceeds constitute the inventory of the borrower, as is the case with moneylenders, then the payment of interest would be deductible. Lord Hoffmann in Wharf Properties, supra, discussed how loan proceeds can be different things to the borrower, at p. 339:
+This decision does not seem to their Lordships to help Mr. Gardiner at all. It is directed to a different question, namely whether the sum borrowed constitutes an addition to the company's capital or is a revenue receipt. In other words, it looks at the nature of the loan in the hands of the recipient rather than the question of whether a payment of interest is a capital or revenue expense. It is unusual for a loan of money to constitute a revenue receipt but this can be the case if borrowing money is "part of the ordinary day to day incidence of carrying on the business" (per Lord Templeman in the Beauchamp case, at p. 497) which may be the case in businesses of banking, financing or otherwise dealing in money: see Farmer v. Scottish North American Trust Ltd., [1912] A.C. 118. Ordinarily, however, a loan to a trading company, whatever the purpose for which it is intended to be used, will be an addition to that company's capital. Mr. Gardiner did submit that the shortness of the successive terms of the loans in this case was enough to make them revenue receipts, but their Lordships do not agree. The borrowing did not form part of the company's trading activities. While it or a replacement loan remained in place it was an addition to Wharf's capital: compare European Investment Trust Co. Ltd. v. Jackson (1932), 18 T.C. 1
+[Emphasis added]
+40 As earlier pointed out, loan proceeds are usually thought of as additions to the financial capital of the borrower. This view makes it necessary to deal briefly with the wording at the beginning of both s. 8(1)(f)(v) and s. 18(1)(b) that prohibits the deduction of "outlays ... of capital". A literal reading of this phrase could render every expenditure that could not be directly traced to revenue non-deductible as an outlay of capital. This has not been the approach under these sections in the past, and the analysis should continue to look at what is acquired rather than examining where the money to make the payment originates.
+[25] The Respondent argues that CCLI may well have been in the financial leasing business, but it chose to arrange its affairs in the legal form of a purchase and lease, not a loan. Consequently, no legal relationship of a debtor-creditor is created: CCLI is not a moneylender. The Respondent also relies on the same passage from Gifford, but cautions that it must be read in light of the Supreme Court of Canada decision in Shell Canada Ltd. v. The Queen,[4] which the Respondent argues emphasizes legal form over economic substance.
+[26] This case highlights the difficulty reconciling tax laws to commercial practice. I have attempted on previous occasions to mesh legal and economic realities for the purpose of making sense of our complex tax legislation: this approach has not been universally embraced. Certainty and legal form do trump economic substance, if legal form reflects legal substance. I grapple here with whether a company in the business of financial leasing is, in legal substance, lending money. It is one thing to pit legal form against economic substance, but what if the question is framed as legal form versus legal substance? There are many examples where the courts find the legal form mischaracterizes the legal substance (a common example is a contract between an employer and employee that stipulates the contract is one of an independent contractor). It is necessary to delve more deeply into the legal substance of the CCLI arrangement, as both parties are correct in their premises: the Appellant is correct that CCLI commercially was in the financing business; the Respondent is correct that CCLI did not create the legal form of debtor-creditor.
+[27] What then is the legal substance for tax purposes? Is lease financing in legal substance a loan arrangement?
+[28] The following factors point to the legal substance of the arrangement being that of a capital acquisition and a lease, not a loan:
+(i) CCLI entered purchase agreements to acquire major capital assets;
+(ii) CCLI took title to the assets;
+(iii) CCLI entered formal lease agreements with an option to purchase with its customers, from whom it acquired the assets. The purchase option was not automatic. It was exercisable prior to the requirement for the last two months' rent, and at an amount less than the last two months' rent. While it is easy to assume this made the option very attractive, it remained nonetheless open to the lessee not to exercise it. There is no evidence regarding resale market or disposal costs on which to fully determine exactly how attractive the options were.
+(iv) CCLI reported on its corporate tax return that it was in the business of equipment leasing.
+(v) CCLI reported for tax purposes the full rental revenue as income and took full CCA available on the assets.
+[29] The Respondent makes the point that the legalities of this arrangement are crystal clear, and they are not altered by accounting treatment - it is ordinary commercial principles that govern the computation of profit and not generally accepted accounting principles. It follows, according to the Respondent, that monies borrowed by CCLI to implement the above transactions were borrowed for the purpose of acquiring funds for capital purposes, and therefore, relying on the Supreme Court of Canada's approach in Shell, any foreign exchange gains or losses will likewise be on capital account.
+[30] The following factors point to the economic substance of the transactions as being that of a loan, yet I raise them to consider whether they also reflect the legal substance being that of a loan:
+(i) Financing was CCLI's business implemented through financial leases;
+(ii) The very regulations governing the financial lease industry are drafted in terms of a lender-borrower relationship;
+(iii) As a leasing corporation under the Bank Act, CCLI's activities were limited to financing leasing of personal property or related activities prescribed by regulations: such activities including:
+(a) the entering into and acquiring of conditional sales agreements;
+(b) the administration of financial lease agreements and conditional sales agreements; and
+(c) the raising of money for the purpose of financing the activities of the leasing corporation and the holding and investment in short term securities of any money so raised pending the employment of such money in the activities of the corporation.
+(iv) The representatives of CCLI viewed the arrangement as a loan, the title to the assets representing collateral.
+(v) CCLI did not find equipment to make available to the customer as much as it made money available to the customer, as the customer already owned the equipment that it was going to rely upon to raise funds. The customer raised funds by selling that equipment and leasing it back, without ever giving up possession of the property to CCLI.
+(vi) Financial leasing as a means of financing is consistent with the accounting treatment of it as a form of financing.
+[31] I have no hesitation in concluding that CCLI was in the financing business: CCLI believed so, the banking industry believed so, the accounting industry believed so, the borrower believed so and the governing legislation dictated as much. Is this sufficient to conclude that, for tax purposes, CCLI was a moneylender; that money borrowed by it was inventory? No, says the Respondent, because the form is a purchase of a capital asset and a lease, and that is how the Appellant reported for tax purposes - the Appellant cannot have it both ways.
+[32] According to Justice Major in Gifford, the question is not how was the money spent, but rather what were the loan proceeds to CCLI when they were received? At first blush, it is easy to answer that the funds borrowed by a financing company are inventory. Yet, at the time CCLI borrowed the money it knew exactly where the funds were going. They had been earmarked not just to buy railcars, but specific railcars for a specific customer. And, yes, that is how they were ultimately spent, but that is not the key to determine the nature of the funds; the key is determined at the time borrowed, not when spent.
+[33] A difficulty in distinguishing economic substance from legal substance is having to attach to the concepts of "inventory" and "moneylending" some formal legality. Inventory is defined in the Income Tax Act in a manner not particularly helpful to decide the issue before me. It in fact begs the question. The Appellant referred me to the Australian High Court decision of Avco Financial Services Ltd. v. Federal Commissioner of Taxation[5] in addressing what is legally meant by these terms. The High Court in Avco recognized that a hire purchase agreement is not a moneylending transaction, but held that for purposes of determining the nature of borrowings used to fund such activities, a hire purchase agreement should be treated in the same category as moneylending activities. Without going into great detail of the Australian case, I do note that there is one significant difference from the case before me. In Avco, the High Court found as a fact, that no borrowing by Avco was for the purpose of a specific lending transaction: all were for the general business of the company. This led to the following statement:
+Where a taxpayer carries on the business of borrowing and lending money, the moneys used for that purpose are analogous to trading stock - the taxpayer in effect deals in the money. Exchange gains and losses, regularly and frequently made and incurred, in the course of making repayments of borrowed money which is used by a taxpayer in making loans in the course of its finance business are outgoing made in the day to day conduct of the business and for the purpose of carrying on the business as a going concern. The first matter to be considered, in deciding whether a payment is of a capital or of a revenue nature, is what was the character of the advantage sought by the payment: Sun Newspapers Ltd. and Associated Newspapers Ltd. v FCT, supra, at (AITR) 413; (CLR) 363. The question has to be considered from a practical and business point of view: see FCT v. Southa Australian Battery Makers Pty Ltd. (1978) 8 ATR 879 at 887; 140 CLR 645 at 659, and cases there cited. From that point of view, the additional moneys paid as a result of the unfavourable exchange variations - the exchange losses - were part of the price by which the appellant obtained the money which it used to make a profit - part of the process by which the appellant obtained regular returns. The payments were recurrent and frequent, although irregular, and they involved the exercise of judgment by the officers of the appellant who puts its borrowing policy into effect as part of the conduct of the business. The exchange losses were in my opinion losses on revenue account, and of course the gains have the same character.
+[34] This approach is quite distinct from the manner in which CCLI entered into the borrowing arrangement with its parent, where specific sums were borrowed for specific transactions.
+[35] I have concluded that, notwithstanding the commercial or economic realities that CCLI was, in everyone's eyes, in the financing business, that is not sufficient to overcome the true legal nature of the transaction for tax purposes, which was a sale and a lease with an option which, apparently attractive to exercise, was not automatic. That was the both the legal form, and for tax purposes, the legal substance.
+[36] I retain some niggling concerns that our tax laws have inadequately dealt with financial leases, notwithstanding valiant attempts such as the specified leasing property rules.[6] I do however derive some comfort from my decision on the basis that it maintains consistency in the application of the Act. It is apparent that the Act can oft-times be applied asymmetrically, but hopefully seldom inconsistently. In this case, CCLI reported for tax purposes its revenue as though it was engaged in operating leases: it claimed CCA as though it was engaged in operating leases. For the purpose of applying our existing tax laws, it shall now be left to determine its foreign exchange gains or losses as though it was engaged in operating leases. The foreign exchange gains and losses are on capital account. This finding results in the Parties agreeing that the 1991 loss is $25,824,050, which leads to the second issue.
+The loss balance issue.
+[37] The issue is what amount of the $25,824,050 1991 loss is available for carryforward to 1993. The Respondent posed the issue as follows:
+The second issue is whether the Act requires the Minister to allocate losses to specific taxation years such that, even if the losses have yet to be determined, the Minister is bound by his allocation if the year to which the losses have been applied is statute-barred.
+CCLI contends that the amount available from 1991 to be carried forward to 1993 is the $25,824,050 ultimately determined as the non-capital loss in 1991 less the amount that it deducted in 1989 of $5,839,551. The Minister contends that no amount of the 1991 loss is available, as it was all applied to the 1989 taxation year.
+[38] I shall briefly recap the salient points. As recognized in the Last Valid Reassessment for 1989, CCLI deducted, in 1989, non-capital losses of $29,359,177, allocating all of the 1991 loss of $5,839,551 and the balance of $23,519,626 from 1992. In 1998, CCLI requested a loss determination for 1991 and 1992 which the Minister provided in December 1998. In April 2002, the Minister also provided a loss redetermination indicating that the losses for 1991 were now $25,824,050 and for 1992 were $8,122,335. The Parties agree these latter figures are correct, given the answer to the first issue. It is helpful to refer to the chart attached as Schedule A to this Judgment which sets out the Relevant Reassessments/Loss Determinations.
+[39] The wording of the relevant legislation is critical in tackling this issue. The specific sections are paragraph 111(1)(a) and subsection 111(3).
+111(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer's
+(a) non-capital losses for the 7 taxation years immediately preceding and the 3 taxation years immediately following the year;
+...
+111(3) For the purposes of subsection (1),
+(a) an amount in respect of a non-capital loss, restricted farm loss, farm loss or limited partnership loss, as the case may be, for a taxation year is deductible, and an amount in respect of a net capital loss for a taxation year may be claimed, in computing the taxable income of a taxpayer for a particular taxation year only to the extent that it exceeds the total of
+(i) amounts deducted under this section in respect of that non-capital loss, restricted farm loss, farm loss or limited partnership loss in computing taxable income for taxation years preceding the particular taxation year,
+(i.1) the amount that was claimed under paragraph (1)(b) in respect of that net capital loss for taxation years preceding the particular taxation year, and
+(ii) amounts claimed in respect of that loss under paragraph 186(1)(c) for the year in which the loss was incurred or under paragraph 186(1)(d) for the particular taxation year and taxation years preceding the particular taxation year, and
+(b) no amount is deductible in respect of a non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss, as the case may be, for a taxation year until
+(i) in the case of a non-capital loss, the deductible non-capital losses,
+(ii) in the case of a net capital loss, the deductible net capital losses,
+(iii) in the case of a restricted farm loss, the deductible restricted farm losses,
+(iv) in the case of a farm loss, the deductible farm losses, and
+(v) in the case of a limited partnership loss, the deductible limited partnership losses,
+for preceding taxation years have been deducted.
+[40] The first point which the Appellant wanted me to note is that the deductibility of losses pursuant to section 111 is at the discretion of the taxpayer. So, in 1989 CCLI could claim non-capital losses from 1982 to 1992. It exercised its discretion in claiming $29,359,177 of non-capital losses, allocated between 1991 and 1992.
+[41] Does that discretion apply on a year-by-year basis (Appellant's position) or on a ten-year pooled basis (Respondent's position)? Are there limitations on the discretion to pick and choose amounts from each year in the ten year period? Yes, those limitations are found in subsection 111(3). For example, the taxpayer has no discretion to deduct a 1992 loss before deducting a 1991 loss: the losses must be deducted chronologically. And, when CCLI filed its 1989 return, that is what it did. It exercised its discretion to deduct $29,359,177, and then the rule in subsection 111(3) operated to allocate that total amount appropriately between the 1991 and 1992 years, based on the 1991 and 1992 losses known at that time.
+[42] Fast forward however to 2002, when the Minister redetermines the 1991 and 1992 losses. Subsection 152(1.3) of the Act stipulates:
+152(1.3) For greater certainty, where the Minister makes a determination of the amount of a taxpayer's non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year or makes a determination under subsection (1.11) with respect to a taxpayer, the determination is (subject to the taxpayer's rights of objection and appeal in respect of the determination and to any redetermination by the Minister) binding on both the Minister and the taxpayer for the purpose of calculating the income, taxable income or taxable income earned in Canada of, tax or other amount payable by, or amount refundable to, the taxpayer, as the case may be, for any taxation year.
+How does this section, and the limitations on discretion in subsection 111(3), operate in assessing the 1993 taxation year, as it is the 1993 taxation year that is the year before me on this issue, not the 1989 taxation year?
+[43] The Appellant argues that the words in subsection 111(3) "amounts deducted under this section in respect of that non-capital loss, ... in computing taxable income for taxation years preceding the particular taxation year" are clear and unambiguous, and can only refer to the $5,839,551 allocated by the Appellant, and accepted by the Respondent in the assessment of the 1989 taxation year, now statute-barred. The Respondent argues that the Appellant's discretion relates to the total $29,359,177 deducted, and that the Respondent is not bound to an allocation that is contrary to the losses determined by a redetermination which, according to subsection 152(1.3), is binding on the Minister and the taxpayer. The conundrum arises because it is no longer possible for the Minister to reassess 1989. But, even if 1989 was not statute-barred, what would the Minister reassess? The portion of the non-capital losses determined by the Appellant has not changed - it remains $29,359,177: only the allocation has changed. I do not believe the Minister is bound to issue a new 1989 nil reassessment solely for the purpose of reallocating losses. The taxpayer can request, pursuant to subsection 152(1.1), a loss determination, and this is what CCLI did. This led ultimately to the 1991 non-capital loss redetermination of $25,824,050.
+[44] At first blush, the Appellant's position seems unassailable - it deducted only $5,839,551 of 1991 losses in determining its 1989 taxable income. But, it did not exercise any discretion in allocating that $5,839,551 from 1991. It simply relied upon the rules in subsection 111(3) to deduct all of 1991 and as much of the 1992 losses as needed to reduce the 1989 taxable income to nil. It subsequently requested a determination of losses and received that determination for 1991 and 1992. That redetermination of $25,824,050 non-capital loss from 1991 is not being relied upon to alter taxable income or tax in 1989: the Minister would be statute-barred from doing so. That redetermination, however, is being relied upon by the Minister in determining taxable income in 1993. And I agree, based on subsection 152(1.3) of the Act, that the Minister and taxpayer are bound to use that amount for the purposes of determining the 1993 taxable income.
+[45] In the context then of applying the loss carryfoward rules to the 1993 taxation year, when it is agreed that the 1991 non-capital losses were $25,824,050, it becomes less clear that the "amount deducted", as used in subparagraph 111(3)(a)(i) necessarily means an amount determined that does not reflect the true 1991 non-capital losses. This section refers to amounts deducted in respect of "that non-capital loss": for purposes of the 1993 taxation year, "that non-capital loss" must mean the $25,824,050.
+[46] In applying these rules for the purpose of determining the 1993 taxable income I know a number of things: (i) as a fact, CCLI deducted $29,359,177 for 1991 and 1992 non-capital losses in 1989; (ii) as a fact, non-capital losses in 1991 are $25,824,050; (iii) as a matter of law, I am bound by subsection 152(1.3) of the Act to rely on this amount; (iv) as a matter of law, 1991 non-capital losses must be deducted before 1992 non-capital losses; and (v) as a matter of law, it is too late for the Respondent to reassess 1989. I conclude that relying on the $25,824,050 non-capital losses for purposes of applying the rules in subsections 111(1) and (3) to the 1993 taxation year, is not tantamount to a reassessment of the 1989 taxation year. And, for purposes of determining the amount of the 1991 non-capital losses available in 1993, the rules in section 111 must be applied on the basis that the 1991 non-capital loss of $25,824,050 was the amount available to have been deducted, and therefore, in compliance with the rules in subsection 111(3), it must be considered the amount deducted.
+[47] In summary, once the taxpayer decides an amount of losses to be deducted, the rules in subsection 111(3) sort out what is allocated from which year. In 1993, it is the amount of the redetermination of losses of $25,824,050 that must be subjected to the loss carryfoward rules without impacting on the taxpayer's exercise of discretion to have deducted a total of $29,359,177 million. There is nothing in the Act which binds the Minister to an allocation of losses contrary to what is required by the subsection 111(3) rules. Based on these principles, I reject the Appellant's position that subsections 111(1) and (3), as applied to the 1993 taxation year, yield approximately $20 million of losses available from 1991 to be applied to 1993. I find the full amount of the 1991 non-capital losses have been previously "deducted" for purposes of determining 1993 taxable income.
+[48] The appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of April 2006.
+"Campbell J. Miller"
+Miller J.
+SCHEDULE A
+SCHEDULE OF RELEVANT REASSESSMENTS/LOSS DETERMINATIONS
+Date of
+Minister's Action
+Nature of
+Minister's Action
+1989
+Taxable Income 1991 Loss Applied 1992 Loss Applied
+1990
+Taxable Income
+1991
+Taxable Income
+1992
+Taxable Income
+1993
+Taxable Income
+1994
+Taxable Income
+Notes
+June 8, 1994
+Reassessment
+($5,839,551)
+1
+May 4, 1995
+Reassessment
+nil
+$5,839,551
+$23,519,626
+nil
+2
+June 11, 1997
+Reassessment
+$792,561
+$21,481,249
+$7,085,367
+$7,584,406
+3, 4
+July 2, 1998
+Reassessment
+($21,481,249)
+($7,085,367)
+$18,724,735
+5
+Dec. 17, 1998
+Loss Determination
+($21,481,249)
+($7,085,367)
+$9,756,461
+6
+January 24, 2002
+Reassessment
+7
+April 18, 2002
+Reassessment
+nil
+$25,824,050
+$3,535,127
+$2,997,198
+$18,160,615
+($1,941,420)
+8, 9
+April 19, 2002
+Loss Redetermination
+($25,824,050)
+($8,122,335)
+10
+May 6, 2002
+Reassessment
+$16,219,195
+11
+Notes:
+1. Result of CRA audit.
+2. Last Valid Reassessment (of 1989 tax year).
+3. Minister reassessed to adjust application of losses from the 1991 and 1992 tax year in anticipation of reassessments those losses.
+4. Minister later acknowledged that reassessment for 1989 tax year was statute-barred and that the reassessment was a nullity.
+5. Result of CRA audit which included adjustments to CCLI's income in respect of foreign exchange gains and losses on U.S. dollar debt.
+6. Issued in response to CCLI's request.
+7. Minister's response to CCLI's objections to the July 2, 1998 reassessment of the 1994 tax year.
+8. Minister's response to CCLI's objections to the June 11, 1997 reassessment of the 1989 tax year and the July 2, 1998 reassessment of the 1993 tax year.
+9. Minister has acknowledged that reassessment for 1989 tax year is a nullity.
+10. Minister's responses to CCLI's objections to the December 17, 1998 loss determinations for the 1991 and 1992 tax years.
+11. Applied loss from the 1994 tax year in response to CCLI request.
+CITATION: 2006TCC240
+COURT FILE NO.: 2002-2806(IT)G
+STYLE OF CAUSE: CCLI (1994) Inc. and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 8, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: April 21, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Michael E. Barrack,
+Thomas B. Akin and John Yuan
+Counsel for the Respondent:
+Jag Gill and John R. Shipley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael E. Barrack, Thomas B. Akin
+and John Yuan
+Firm: McCarthy Tétrault LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 1991 ch. 46.
+[2] Pages 6 and 7 of Mr. Selby's expert report (Tab 5) where he indicated: "The leased equipment value would be replaced by a finance receivable equal to the present value of the 'minimum lease payments' (a defined term that includes both minimum lease payments called for by the lease and any residual value guaranteed by the lessee or by a third party unrelated to the lessee), plus any unguaranteed residual value of the leased property accruing to the lessor. The income statement would reflect leasing income, but that would be calculated as the equivalent of interest on a loan amortized to the residual value at the end of the lease. Each lease payment would be split into a principal and an interest element, similar to the payment on a mortgage loan. The remaining finance receivable would be the equivalent to the remaining principal balance on a mortgage loan. This reflects that the accounting treatment of a direct financing lease is the same as an interest-bearing loan. .... The income from leasing would be the equivalent of the interest element of payments on leases.
+[3] 2004 DTC 6120 (S.C.C.).
+[4] (1999) 4 C.T.C. 313 (S.C.C.).
+[5] (1982) 13 A.T.R. 63 (Aust. H.C.).
+[6] I found it interesting that neither party raised in their arguments the specified leasing property rules.

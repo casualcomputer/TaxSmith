@@ -1,0 +1,103 @@
+Title: Payette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24995/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-122-24995-payette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-03-12
+
+# Payette c. La Reine
+
+- Citation: 2003 CCI 122
+- Decision date: 2003-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2520, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Payette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-12
+Référence neutre
+2003 CCI 122
+Numéro de dossier
+2002-978(GST)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-978(GST)I
+ENTRE :
+DIANE PAYETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Je demande que les motifs de la décision prononcés à l'audience à la Cour canadienne de l'impôt, 500 Place d'Armes, Montréal (Québec), le 12 février 2003 et révisés le 12 mars 2003 soient déposés.
+Signée à Ottawa, Canada, ce 12e jour de mars 2003.
+« P.R. Dussault »
+J.C.C.I.
+Date : 20030312
+Référence : 2003CCI122
+Dossier : 2002-978(GST)I
+ENTRE :
+DIANE PAYETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(prononcés oralement à l'audience
+le 12 février 2003 à Montréal (Québec)
+et révisés le 12 mars 2003)
+P.R. Dussault, J.C.C.I.
+[1] Ma décision est d'admettre l'appel pour enlever la pénalité seulement. La taxe sur les produits et services a d'abord été cotisée en application de la présomption de l'article 191 de la Loi sur la taxe d'accise (la « Loi » ), qui est la fourniture à soi-même d'un immeuble d'habitation et ce, en fonction de la juste valeur marchande de l'immeuble, laquelle n'est plus contestée. La cotisation est en fonction également de la réclamation de crédits sur intrants dont une partie a été refusée au motif que les pièces justificatives requises par la Loi et le Règlement n'ont pas été fournies.
+[2] La preuve faite par l'appelante a consisté essentiellement à démontrer les déboursés totaux qui ont été effectués et à affirmer que la taxe a toujours été payée en rapport avec tous ces déboursés. À mon avis, cela n'est pas suffisant au regard de l'article 169(1) de la Loi et des exigences du Règlement concernant les renseignements nécessaires à la demande de crédit pour intrants. Ici, nous ne sommes pas en présence d'une situation où il manquerait certains renseignements précis exigés, mais devant l'absence totale de factures pour des déboursés totalisant quelques 60 000 $ et dont certains auraient été faits pour des achats importants comme la brique, l'aluminium, le vinyle, le bois de structure, et cetera.
+[3] Tel que souligné par l'avocat de l'intimée, la demande est faite en bloc et à partir des déboursés totaux, et sans que l'on puisse déterminer, même d'une façon indirecte et approximative, quel montant a été déboursé en rapport avec quoi. J'estime que les exigences de la Loi et du Règlement n'ont tout simplement pas été remplies.
+[4] Le mari de l'appelante était dans le domaine de la construction et a vu à la construction de l'immeuble. Il ne nous a pas éclairés beaucoup dans son témoignage sur les raisons de l'absence totale de factures à l'égard d'items importants qui auraient été déboursés et à l'égard desquels la taxe aurait été régulièrement payée. La nécessité de conserver les reçus aurait dû apparaître évidente, ne serait-ce que pour faire valoir les garanties applicables, comme l'a souligné l'avocat de l'intimée.
+[5] De plus, dans le contexte, il est difficile de comprendre que tant l'appelante que son mari n'aient pas reconnu cette nécessité aux fins des lois fiscales applicables, que ce soit la TPS, la TVQ ou même, éventuellement, l'impôt sur le revenu, lois fiscales aux termes desquelles la conservation des pièces justificatives m'apparaît être essentielle. Cela est d'autant plus étonnant lorsqu'on est dans le métier, quand on est en affaires dans le domaine de la construction.
+[6] L'appelante a témoigné qu'elle s'est informée à son comptable concernant l'assujettissement à la TPS et a accepté sa réponse qu'elle ne l'était pas, sans fournir plus d'explications. Je remarque ici qu'il a déjà été décidé que le simple fait de s'adresser à un comptable n'est pas nécessairement faire preuve de diligence raisonnable. Si l'appelante s'est adressée à son comptable, on peut au moins en inférer, puisqu'elle a posé la question, qu'elle pouvait penser qu'il était possible qu'elle soit assujettie. Le minimum de précaution aurait, me semble-t-il, exigé qu'elle tienne une comptabilité stricte concernant les coûts de construction de l'immeuble en prenant soin de s'assurer d'obtenir et de conserver toutes les pièces justificatives.
+[7] Malgré cela, comme la taxe réclamée résulte principalement de l'application d'une présomption et qu'elle a été cotisée en fonction de la différence entre les crédits totaux réclamés et ceux refusés, et ce, au motif de l'absence de pièces justificatives, je suis d'avis d'annuler la pénalité puisque l'appelante a quand même affirmé sous serment s'être informée auprès de son comptable quant à ses responsabilités fiscales résultant de la construction de l'immeuble et que le défaut de produire les pièces justificatives, ou du moins certaines, plusieurs années après le fait, ne lui est peut-être pas entièrement imputable.
+[8] Je souligne cependant qu'il est quand même étonnant qu'aucune pièce justificative n'ait pu être retracée auprès de plusieurs fournisseurs pour des sommes quand même très importantes compte tenu de l'obligation de conserver les documents pour une période de six ans prévue au paragraphe 286(3) de la Loi. Enfin, je crois que sur l'aspect de la pénalité c'est à la limite.
+[9] En conséquence de ce qui précède, l'appel est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation aux seules fins d'annuler la pénalité et de rajuster les intérêts en conséquence.
+Signé à Ottawa, Canada, ce 12e jour de mars 2003.
+« P.R. Dussault »
+J.C.C.I.
+NO. DE RÉFÉRENCE :
+2003CCI122
+No DU DOSSIER DE LA COUR :
+2002-978(GST)I
+INTITULÉ DE LA CAUSE :
+Diane Payette et La Reine
+LIEU DE L'AUDIENCE :
+Montréal
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DE L'AUDIENCE :
+le 12 février 2003
+DÉCISION RENDUE ORALEMENT :
+le 12 février 2003
+DATE DU JUGEMENT :
+le 18 février 2003
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 12 mars 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Sylvain Fréchette
+Pour l'intimée :
+Me Mario Laprise
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Sylvain Fréchette
+Étude :
+Fréchette et Bouchard
+Joliette (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

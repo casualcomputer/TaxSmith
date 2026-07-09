@@ -1,0 +1,139 @@
+Title: Déziel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27576/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-257-27576-d-ziel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-04
+
+# Déziel c. La Reine
+
+- Citation: 2006 CCI 257
+- Decision date: 2006-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 71, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Déziel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-04
+Référence neutre
+2006 CCI 257
+Numéro de dossier
+2005-3463(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3463(IT)I
+ENTRE :
+JEAN DÉZIEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 avril 2006, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis, sans frais, et la nouvelle cotisation est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mai 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI257
+Date : 20060504
+Dossier : 2005-3463(IT)I
+ENTRE :
+JEAN DÉZIEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi de l'impôt sur le Revenu (la « Loi » ) par le ministre du Revenu national (le « ministre » ) concernant l'année d'imposition 2003.
+[2] La question en litige consiste à déterminer si le ministre a ajouté à bon droit pour l'année d'imposition 2003, dans le calcul du revenu de l'appelant, la somme de 2 490 $ à titre d'avantage imposable lié à l'utilisation d'un véhicule fourni par la société « 9092-2006 Québec inc. » .
+[3] Pour expliquer et justifier la cotisation, l'intimée a tenu pour acquis les hypothèses de fait suivantes :
+Généralités
+a) la société « 9092-2006 Québec inc. » , pendant la période en litige, exploitait une entreprise dans le domaine de la publicité;
+b) l'exercice financier de la société « 9092-2006 Québec inc. » , à l'égard de la période en litige, s'est terminé le 31 décembre 2003;
+c) les actions ordinaires de la société « 9092-2006 Québec inc. » , pendant la période en litige, étaient détenues par sa conjointe, madame Suzanne Beaudry;
+d) l'appelant, au sein de la société, pendant la période en litige, occupait des postes d'administrateur et d'employé;
+e) l'établissement de commerce de la société « 9092-2006 Québec inc. » est domicilié à la même adresse que celle de l'appelant;
+Avantages imposables
+f) le ministre détermina que l'appelant a tiré de l'utilisation, à des fins personnelles, d'un véhicule fourni par l'employeur, à l'égard de l'année d'imposition 2003, d'un avantage imposable évalué à une somme de 2 490 $, selon les données suivantes :
+i) la société « 9092-2006 Québec inc. » a détenu jusqu'au 23 août 2003 un véhicule Dodge Caravan (2000) dont le coût avait été inscrit aux livres comptables à une somme de 15 023 $,
+ii) la société « 9092-2006 Québec inc. » a fait l'acquisition le 23 août 2003 d'un véhicule neuf Dodge Caravan (2004) dont le coût fut de 31 223 $, la société avait payé en partie la fourgonnette en remettant en échange le véhicule Dodge Caravan (2000),
+iii) la société « 9092-2006 Québec inc. » a mis en tout temps, pendant l'exercice financier, à la disposition de l'appelant les deux véhicules, selon la période de détention,
+iv) aucun registre de la société « 9092-2006 Québec inc. » , à l'égard des déplacements des véhicules pour l'exercice financier se terminant le 31 décembre 2003, n'a été soumis pour fins de vérification,
+v) l'appelant, pendant l'année d'imposition en litige, possédait une moto de marque Harley Davidson (2003) et une automobile de collection datant de 1938,
+vi) la conjointe de l'appelant, pendant l'année d'imposition en litige, était propriétaire d'une automobile de marque Subaru Outback 2003,
+vii) l'appelant a également déclaré que sa fille, pendant l'année d'imposition en litige, possédait sa propre voiture,
+viii) le kilométrage personnel a été établi à 6 000km/année, tandis que le kilométrage total et annuel des véhicules a été évalué à 27 600km pour l'exercice financier se terminant le 31 décembre 2003,
+ix) les avantages reliés à l'utilisation d'un véhicule fournie par l'employeur sont répartis comme suit, selon l'annexe ci-jointe :
+2003
+a)
+droit d'usage
+1 470 $
+b)
+frais de fonctionnement
+1 020 $
+2 490 $.
+[4] Au soutien de la preuve, dont le fardeau lui incombait, l'appelant a présenté une preuve plutôt circonstancielle.
+[5] Avec la collaboration du témoin Benoît Robichaud, il a décrit la nature des activités commerciales auxquelles il était personnellement associé pour la société 9092-2006 Québec inc.
+[6] Monsieur Robichaud a expliqué qu'il connaissait très bien l'appelant, puisque ce dernier se rendait à l'entreprise où il travaillait presque tous les jours pour y placer des commandes, mais aussi pour prendre livraison de commandes, étant donné qu'il se chargeait lui-même de la livraison dans les environs de la ville de Québec.
+[7] Le chiffre d'affaires de la société 9092-2006 Québec inc. était d'environ 500 000 $/année. Il s'agissait d'une entreprise très dynamique et la fidélité des clients était excellente. L'appelant a expliqué et décrit une partie de ses initiatives dont le but était d'augmenter le chiffre d'affaires de la société.
+[8] Il a également expliqué le travail qu'il effectuait avec le véhicule à l'origine de la cotisation. Il était manifestement dynamique et agressif dans ses démarches pour promouvoir l'entreprise propriétaire du camion et satisfaire les clients, aspect essentiel à la volonté de rendre la société plus profitable. Il a expliqué que le véhicule était utilisé presque totalement et exclusivement pour la société.
+[9] Il a décrit le camion comme étant essentiellement un véhicule de service, tant en raison de son genre que de son aménagement et de son apparence extérieure, à cause des inscriptions à l'extérieur. Il a affirmé catégoriquement faire au maximum plus ou moins 100 kilomètres par année, répartis sur une dizaine de sorties, dont la plupart concernaient l'achat et l'épandage d'engrais à sa résidence. Il a également affirmé et répété à plusieurs reprises que le véhicule était peu pratique pour ses besoins personnels et était sans intérêt aucun.
+[10] De plus, la place d'affaires de la société était au même endroit que la résidence familiale; il n'avait donc pas à utiliser le véhicule pour se rendre à son travail et en revenir.
+[11] Il a expliqué qu'il bénéficiait, pour ses besoins personnels, du véhicule de sa conjointe, soit une Subaru Outback, de la voiture de sa fille et d'une moto, mais aussi d'un véhicule d'époque transformé avec des composantes modernes qui le rendaient fonctionnel et agréable au même titre qu'un véhicule récent, d'autant plus qu'il attirait les regards, élément fort intéressant dans le cadre de son travail.
+[12] Le témoignage de monsieur Jocelyn Tendland a établi que l'attribution de 6 000 kilomètres parcourus à titre personnel par l'appelant avait été faite de façon plutôt arbitraire. Monsieur Tendland a tenu pour acquis que le véhicule en question était à la disposition de l'appelant; il a fixé d'une manière fort subjective le nombre de kilomètres parcourus à titre personnel, son évaluation ne reposant sur aucune assise véritable.
+[13] À partir de cette disponibilité qui, en principe et apparence, constituait un avantage imposable, il a tenté d'en évaluer la valeur. Monsieur Tendland a affirmé que les données qu'il avait consultées dans le cadre de son mandat de vérification étaient bien colligées et étaient sans faille; en d'autres termes, les registres comptables de l'entreprise étaient bien tenus.
+[14] Malgré les nombreuses questions visant à obtenir la formule utilisée pour évaluer la partie définie comme correspondant à l'utilisation personnelle, le témoin n'a pas été en mesure de l'expliquer, ni de la décrire d'une façon claire et convaincante.
+[15] Les explications soumises ont toujours été qu'il s'agissait d'un pourcentage fort raisonnable, voire même marginal, le témoin était même un peu surpris que l'appelant mette en doute cet ajout à ses revenus, vu la petitesse du montant en question.
+[16] L'explication donnée n'était pas déraisonnable, mais était-ce suffisant pour justifier le fondement de la cotisation?
+[17] L'appelant, bien préparé, a soutenu énergiquement qu'il avait utilisé le véhicule à des fins personnelles d'une façon très limitée, son évaluation en termes de distance étant d'environ 100 kilomètres.
+[18] Quant au nombre de fois par année, il a indiqué qu'il pouvait s'agir d'une dizaine de fois, en ajoutant pour chacun des deux chiffres qu'il avait utilisé son véhicule personnel à des fins professionnelles plus souvent et pour une distance plus grande, sans pour autant réclamer de dépenses à cet égard.
+[19] Il a insisté également ne pas avoir réclamé de frais de repas, de frais de représentation, etc., en ajoutant que sa comptabilité était sans reproche et qu'il avait toujours assumé toutes ses responsabilités fiscales.
+[20] Je dois disposer de l'appel à partir des seuls faits liés directement au véhicule commercial. Tous les autres aspects, telle l'utilisation de son véhicule personnel à des fins commerciales et non-réclamation de frais de repas, ne sont pas pertinents.
+[21] Le fardeau de la preuve incombait à l'appelant. En cette matière, la meilleure façon de faire la preuve de l'utilisation d'un véhicule est sans aucun doute par le biais d'un registre ou d'un livre de bord où les données qui y sont consignées sont crédibles, fiables et sans reproche.
+[22] Cette façon de faire permet une approche fort intéressante, en ce qu'elle permet une évaluation mathématique et généralement assez fiable pour tirer des conclusions, en autant évidemment que le registre est complété selon les règles de l'art, en ce qu'on fait des entrées véritables au moment pertinent.
+[23] Est-ce absolument essentiel, ou bien est-il possible de contester une cotisation sans l'existence d'un tel registre? Bien qu'il soit plus que préférable d'avoir en sa possession un tel registre, il est possible de faire une contestation sans un tel registre, plus particulièrement si le véhicule est utilisé à des fins exclusivement commerciales. En pareil cas, le registre pourrait servir que pour y décrire les utilisations personnelles.
+[24] En l'espèce, la version de l'appelant est crédible. Il a expliqué au moyen d'une preuve circonstancielle les faits d'une façon cohérente, mais aussi d'une manière raisonnable.
+[25] Les explications soumises sont qu'il parcourait au plus 100 kilomètres par année, ce qui, en soi, serait tout à fait invraisemblable s'il s'était agi d'un véhicule confortable, agréable à conduire, d'une esthétique agréable et d'un modèle intéressant, pouvant également avoir divers autres caractéristiques quant à la puissance et à divers accessoires, tels qu'une chaîne stéréo, la navigation, la tenue de route, et ainsi de suite. La preuve a établi que le véhicule dont l'usage est à l'origine de la cotisation était un tout autre véhicule, c'est-à-dire un véhicule de service avec tous les inconvénients qui s'y rapportent.
+[26] En l'espèce, il s'agissait d'un véhicule de service quant au modèle et à l'aménagement intérieur. De plus, il portait une inscription et était d'une couleur à attirer l'attention de clients potentiels. Globalement, il s'agissait d'un véhicule fort différent de celui que l'usager de la route a envie de conduire durant ses congés ou dans le cadre de ses loisirs.
+[27] Pour toutes ces raisons, je retiens la version des faits soumise par l'appelant, à savoir qu'il n'a tiré aucun avantage imposable de l'utilisation personnelle du véhicule commercial utilisé pour son travail.
+[28] L'appel est admis et la nouvelle cotisation est annulée.
+Signé à Ottawa, Canada, ce 4e jour de mai 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI257
+N º DU DOSSIER DE LA COUR : 2005-3463(IT)I
+INTITULÉ DE LA CAUSE : Jean Déziel et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 18 avril 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 4 mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Martin Gentile
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

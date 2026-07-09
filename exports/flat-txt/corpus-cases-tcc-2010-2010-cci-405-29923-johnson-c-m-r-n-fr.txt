@@ -1,0 +1,146 @@
+Title: Johnson c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29923/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-405-29923-johnson-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-07-28
+
+# Johnson c. M.R.N.
+
+- Citation: 2010 CCI 405
+- Decision date: 2010-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6471, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-28
+Référence neutre
+2010 CCI 405
+Numéro de dossier
+2009-192(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2009-192(EI)
+2009-193(CPP)
+ENTRE :
+ROBERT JOHNSON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juin 2010 à Edmonton (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Wayne Throndson
+Avocates de l’intimé :
+Me Amy Martin-LeBlanc et
+Me Marla Teeling
+____________________________________________________________________
+JUGEMENT
+S’agissant des appels interjetés par Robert Johnson en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada et concernant le recrutement de James Dunn, il est ordonné ce qui suit :
+1. l’appel se rapportant à la confirmation d’une décision du ministre du Revenu national est accueilli, et la décision est modifiée, étant entendu que M. Dunn n’a pas occupé un emploi assurable auprès de l’appelant en 2005 et 2006, et n’a pas occupé un emploi ouvrant droit à pension auprès de l’appelant en 2004, 2005 et 2006;
+2. l’appel se rapportant à la confirmation de cotisations relatives à un emploi assurable pour 2005 et 2006, et à un emploi ouvrant droit à pension pour 2004, 2005 et 2006, est accueilli, et les cotisations sont annulées.
+Chacune des parties supportera ses propres frais.
+Signé à Toronto (Ontario), ce 28e jour de juillet 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de septembre 2010.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2010 CCI 405
+Date : 20100728
+Dossiers: 2009-192(EI)
+2009-193(CPP)
+ENTRE :
+ROBERT JOHNSON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Durant plusieurs années, James Dunn a travaillé dans une ferme appartenant à l’appelant, Robert Johnson. La question soulevée dans les présents appels est de savoir si M. Dunn a été engagé par l’appelant comme employé ou comme entrepreneur indépendant aux fins de la Loi sur l’assurance-emploi et du Régime de pensions du Canada. Selon l’appelant, M. Dunn était un entrepreneur indépendant.
+[2] Les périodes en cause sont les suivantes : (1) 2005 et 2006 pour l’appel se rapportant à la Loi sur l’assurance-emploi, et (2) 2004, 2005 et 2006 pour l’appel se rapportant au Régime de pensions du Canada.
+[3] L’historique de la procédure est quelque peu inusité, au sens où les appels se rapportent à la fois à une décision et à des cotisations. Dans toutes ses conclusions, le ministre du Revenu national a estimé que M. Dunn était un employé.
+[4] M. Johnson et M. Dunn ont chacun produit un témoignage élaboré sur la nature de l’engagement. Tous deux ont semblé des témoins crédibles, mais le témoignage de M. Johnson n’a pas été aussi détaillé que je l’aurais voulu sous certains aspects. À titre d’exemple, les circonstances qui ont conduit à la conclusion de l’entente écrite qui régissait rétroactivement leur relation n’ont pas été pleinement expliquées.
+[5] Mes conclusions de fait sont exposées ci-après.
+[6] M. Dunn a été embauché par M. Johnson en 1997 pour travailler principalement dans son entreprise de transport de bétail. M. Dunn a aussi contribué à l’établissement d’une entreprise d’élevage de porcs qui à cette époque ne faisait que prendre forme.
+[7] Il se trouve que l’entreprise de transport de bétail n’a pas répondu aux espérances et que, après une période relativement brève, M. Dunn a fini par se mettre au service de l’entreprise d’élevage de porcs. Cette activité nécessitait beaucoup de savoir-faire, et M. Dunn n’en manquait pas. M. Johnson se consacrait aux autres activités agricoles.
+[8] La période en cause débute en 2004. À cette époque, M. Dunn s’occupait de la partie de l’exploitation agricole qui concernait l’élevage de porcs, et il apportait parfois son aide dans d’autres travaux lorsqu’il en avait le temps.
+[9] Une entente écrite appelée [traduction] « Contrat de services » a été produite comme preuve par l’avocat de M. Johnson. Elle avait été rédigée par M. Dunn à la demande de M. Johnson. L’entente ne porte aucune date de signature, et j’accepte le témoignage de M. Dunn selon lequel elle avait été établie vers la date où elle avait été transmise à l’Agence du revenu du Canada, en novembre 2001.
+[10] M. Johnson croyait que cette entente avait persuadé l’ARC que M. Dunn avait été engagé comme entrepreneur indépendant. Cela est sans doute vrai, puisqu’il semble que le ministre n’en a décidé autrement qu’en 2004.
+[11] L’entente écrite rend compte fidèlement de la relation, tant pendant la période qu’elle indiquait que par la suite. La période de son application va du 1er janvier 1997 au 31 décembre 2001. Elle a continué de régir la relation, sous réserve des augmentations de la rémunération horaire.
+[12] De manière générale, l’entente prévoit ce qui suit :
+- M. Dunn dirigera les activités liées à l’élevage de porcs;
+- M. Dunn recevra une rémunération horaire et ne sera pas soumis à des heures fixes;
+- il aura droit à deux jours de congé toutes les deux semaines; il aura droit aussi à deux semaines de congés payés;
+- une prime de rendement lui sera payée si le nombre de porcs vendus dépasse un chiffre spécifié.
+[13] M. Dunn ne bénéficiait pas des avantages sociaux habituels, et il devait souscrire lui-même une assurance-invalidité.
+[14] Parfois, lorsqu’une aide additionnelle était requise, M. Dunn prenait des dispositions pour que ses enfants et le fils de M. Johnson donnent un coup de main. Les cas de ce genre étaient approuvés par M. Johnson, qui payait les services fournis par les enfants.
+[15] Aucune retenue à la source n’était pratiquée sur la rémunération horaire versée à M. Dunn.
+[16] M. Johnson a dit qu’il lui avait été impossible de s’occuper de l’exploitation agricole durant d’importantes parties de la période considérée, parce qu’il souffrait des effets d’un traitement contre le cancer. J’accepte ce témoignage, mais j’incline à souscrire au témoignage de M. Dunn selon lequel cela n’a pas eu d’incidence notable sur les activités d’élevage de porcs, au sens où M. Dunn pouvait toujours en référer à M. Johnson. Quoi qu’il en soit, je suis d’avis que la nature fondamentale de la relation ne s’est pas modifiée par suite de la maladie de M. Johnson.
+Analyse
+[17] Les principes juridiques à appliquer dans un cas comme celui-ci sont bien connus. En fait, il faut se demander si M. Dunn travaillait pour son propre compte. Les critères exposés dans l’arrêt Wiebe Door, à savoir le contrôle, les chances de bénéfice et les risques de perte, ainsi que la propriété des instruments de travail, devraient figurer parmi les facteurs à prendre en compte. Par ailleurs, si les parties s’entendent pour que leur relation soit régie par un contrat d’entreprise ou bien par un contrat de louage de services, il en sera ainsi pour autant que la relation effective s’accorde avec cette intention.
+[18] La conclusion à laquelle je suis arrivée, compte tenu de l’ensemble de la preuve, est que M. Dunn a été engagé comme entrepreneur indépendant durant la période en cause.
+[19] Le critère du contrôle est souvent un facteur très important, et la présente affaire ne fait pas exception.
+[20] S’agissant des activités quotidiennes liées à l’élevage de porcs, je suis arrivée à la conclusion que M. Johnson n’intervenait probablement dans ces activités que d’un point de vue stratégique, en exerçant une supervision ultime. Il n’intervenait pas dans les tâches ordinaires, mais M. Dunn le tenait sans doute bien informé de l’évolution des choses.
+[21] Il est probable qu’il y avait très peu de discussions, voire pas du tout, entre M. Johnson et M. Dunn sur le niveau de contrôle que M. Johnson pouvait exercer. Il n’est pas surprenant que M. Dunn ait pu penser que c’est M. Johnson qui menait la barque, puisque c’est à lui qu’appartenait la ferme. M. Johnson, quant à lui, croyait que le contrôle qu’il exerçait était restreint, comme le prévoyait l’entente écrite.
+[22] L’entente écrite semble prévoir que le contrôle exercé par M. Johnson est restreint. Par exemple, on peut y lire que M. Dunn dirigera les activités d’élevage de porcs, à l’exception des dépenses de rénovation, qui requièrent l’approbation de M. Johnson.
+[23] Je suis arrivée à la conclusion, selon la prépondérance de la preuve, que M. Johnson ne devait avoir aucun contrôle sur la manière dont M. Dunn dirigeait les opérations d’élevage de porcs, sauf dans la mesure nécessaire pour protéger l’investissement de M. Johnson. Cela s’accorde avec la conclusion selon laquelle M. Dunn était un entrepreneur indépendant.
+[24] Parmi les autres critères qui signalent un statut d’entrepreneur indépendant en ce qui concerne M. Dunn, il y a le fait que la responsabilité de M. Dunn n’allait pas au-delà des activités d’élevage de porcs. Il apportait occasionnellement une aide dans d’autres aspects de l’exploitation, mais il n’était pas tenu de le faire. En outre, M. Dunn pouvait lui-même établir ses heures de travail, et il pouvait décider quoi acheter, et quelles dépenses engager, à l’exception des dépenses en immobilisations.
+[25] S’agissant des autres critères de l’arrêt Wiebe Door, je suis d’avis qu’ils n’ont pas autant d’importance dans la présente affaire, mais ils permettent de dire, s’agissant de M. Dunn, que son statut était celui d’un entrepreneur indépendant. Plus précisément, M. Dunn avait droit à une prime de rendement, il se servait de son propre véhicule pour faire son travail, sans être remboursé de ses frais, et il devait fournir lui-même les articles personnels tels que bottes, gants, masques et pièces d’habillement.
+[26] Les avocates de l’intimé ont fait valoir que l’équipement agricole était fourni par M. Johnson. Malheureusement, cet argument se focalise sur les mauvais outils.
+[27] Si l’on considère la question des outils, il importe de définir les activités qui sont exercées par l’entrepreneur. En l’espèce, M. Dunn n’était pas propriétaire d’une entreprise d’élevage de porcs. Cette entreprise appartenait à M. Johnson. Les activités de M. Dunn consistaient uniquement à fournir des services de gestion et d’exploitation. Les outils qui intéressent ce genre d’activités sont les outils employés spécifiquement pour fournir de tels services. Le bien-fonds agricole lui-même n’est pas un « outil » nécessaire à cette fin.
+[28] Quant à l’intention des parties, elle est reflétée dans l’entente écrite. Essentiellement, ce document représentait la tentative d’un profane de rédiger un contrat attestant un statut d’entrepreneur indépendant. C’était là manifestement l’intention de M. Johnson. L’intention de M. Dunn est moins évidente, mais, en signant le contrat de services, il reconnaissait implicitement que son statut n’était pas un statut d’employé.
+[29] Compte tenu des facteurs susmentionnés, je suis arrivée à la conclusion que M. Dunn était un entrepreneur indépendant durant les périodes en cause. L’appel sera accueilli sur ce fondement.
+[30] S’agissant des dépens, chacune des parties devra supporter ses propres frais, compte tenu de la jurisprudence sur ce point : arrêt Mid-Canada Rail Contractors Ltd. c. MRN, [1998] A.C.F. n° 344.
+[31] Avant de conclure, je ferai une brève observation sur une question que m’a posée M. Dunn durant l’audience. La question est la suivante : qui a l’obligation de dire si la relation est ou non une relation employeur-employé?
+[32] Aux fins de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, c’est au travailleur et au payeur qu’il appartient de décider si la relation est ou non une relation employeur-employé. Le système est un système d’autocotisation semblable à celui qui est établi dans la Loi de l’impôt sur le revenu.
+[33] L’affaire ne s’arrête pas là, cependant, puisque l’Agence du revenu du Canada peut être en désaccord avec la décision des parties. Pour cette raison, il importe que la décision prise par les parties soit fondée en droit.
+[34] S’il n’est pas possible pour les parties d’obtenir l’avis d’un professionnel, elles peuvent consulter le site Web de l’ARC, et une décision pourrait, en cas de doute, être obtenue de l’ARC.
+[35] En l’espèce, la nature de la relation a suscité beaucoup d’incertitude. Si l’entente écrite avait prévu explicitement que M. Dunn allait être un entrepreneur indépendant, le présent litige aurait sans doute pu être évité.
+Signé à Toronto (Ontario), ce 28e jour de juillet 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de septembre 2010.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2010 CCI 405
+Nos DU DOSSIER DE LA COUR : 2009-192(EI)
+2009-193(CPP)
+INTITULÉ : ROBERT JOHNSON et LE
+MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 22 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 28 juillet 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Wayne Throndson
+Avocates de l’intimé :
+Me Amy Martin-LeBlanc et
+Me Marla Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Wayne Throndson
+Cabinet : Fielding & Company LLP
+Edmonton (Alberta)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

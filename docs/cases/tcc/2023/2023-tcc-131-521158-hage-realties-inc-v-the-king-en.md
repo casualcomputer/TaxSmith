@@ -1,0 +1,339 @@
+---
+title: "Hage Realties Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521158/index.do"
+last_modified: "2023-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 131"
+citation2: ""
+neutral_citation: "2023 TCC 131"
+decision_date: "2023-09-14"
+language: "en"
+item_id: "521158"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5685
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:16:34.302000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b905f6e335c81e1f1bf870bf23d4d7c60f1ed445817b7bde04a9915c220088e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hage Realties Inc. v. The King
+
+- Citation: 2023 TCC 131
+- Decision date: 2023-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5685, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hage Realties Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-09-14
+Neutral citation
+2023 TCC 131
+File numbers
+2020-251(GST)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-251(GST)G
+BETWEEN:
+HAGE REALTIES INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 27, 28 and 29, 2023, at Montreal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the appellant:
+Aaron Rodgers
+Brian Moulaison
+Counsel for the respondent:
+Ryan Allen
+JUDGMENT
+The appeal from the reassessments made under the Excise Tax Act for the quarterly reporting periods from July 1, 2012, to September 30, 2016, is dismissed with costs.
+Signed at Ottawa, Canada, this 14th day of September 2023.
+"Sylvain Ouimet"
+Ouimet J.
+Translation certified true
+on this 5th day of May 2025.
+Vera Roy, Senior Jurilinguist
+Citation: 2023 TCC 131
+Date: 20230914
+Docket: 2020-251(GST)G
+BETWEEN:
+HAGE REALTIES INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION [1] Hage Realties Inc. (the “appellant”) is appealing from notices of reassessment issued by the Minister of National Revenue (the “Minister”) on September 22, 2017, and November 7, 2019, under the Excise Tax Act, R.S.C. 1985, c. E‑15 (the “ETA”). The notices in question cover the appellant's quarterly reporting periods from July 1, 2012, to September 30, 2016. In the notices, the Minister determined under section 191 of the ETA[1] that the appellant, as supplier, is deemed to have collected goods and services tax (“GST”) in the amount of $87,379.58 for the self‑supply of buildings (the “buildings”) located in Schefferville, Quebec.
+[2] Furthermore, the Minister determined that the appellant had claimed in excess, in error or without entitlement input tax credits (“ITCs”) in the amount of $49,564.38 for those same buildings, under section 169 of the ETA.[2] More specifically, the Minister disallowed the ITCs for general expenses directly related to exempt activities. The disallowed ITCs are as follows:
+Disallowed ITCs (exempt activities)
+$21,021.46
+Disallowed ITCs (common expenses)
+$28,269.10
+Disallowed ITCs (cost of buildings)
+$273.82
+Total
+$49,564.38
+[3] The following persons testified for the appellant at the hearing:
+-Steven Roch, lawyer at Sodexo Inc. (Sodexo);
+-Misbah Haque, representative of Tata Steel Minerals Canada Limited (Tata Steel);
+-Yen Bui, the appellant's accountant;
+-Elias Hage, the appellant's president.
+[4] The following persons testified for the respondent at the hearing:
+-Nathalie Bouchard, Revenu Québec auditor.
+II. ISSUES A. Preliminary issue [5] In its notice of appeal, the appellant submits that the percentage of GST‑exempt activities the Minister used is incorrect. The appellant also submits that the interpretation of the phrase [translation] "almost exclusively" as it pertains to the general expenses on which the Minister based his decision to disallow the ITCs is incorrect.[3]
+[6] At trial, counsel for the appellant made no submissions regarding these two issues. Consequently, the Court finds that these two issues are no longer in dispute between the parties.
+B. The issues [7] The first issue is as follows:
+-Was the Minister correct in determining that the appellant was required to remit GST in the amount of $87,379.58 under section 191 of the ETA?
+[8] To respond to that question, and in light of the parties' submissions at the hearing, the Court must answer the following question:
+-Was the Minister correct in determining that the appellant gave use of the buildings to Tata Steel for the purpose of their occupancy as a place of residence?
+[9] The second issue is as follows:
+-Was the Minister correct in determining that the appellant was not entitled to claim ITCs in the amount of $49,564.38 for these buildings under section 169 of the ETA?
+III. RELEVANT STATUTORY PROVISIONS [10] The relevant statutory provisions are as follows:
+PART IX
+123 (1) In section 121, this Part and Schedules V to X,
+. . .
+builder of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+(i) in the case of an addition to a multiple unit residential complex, the construction of the addition to the multiple unit residential complex, and
+(ii) [Repealed, 2014, c. 39, s. 92]
+(iii) in any other case, the construction or substantial renovation of the complex,
+(b) acquires an interest in the complex at a time when
+(i) in the case of an addition to a multiple unit residential complex, the addition is under construction, and
+(ii) in any other case, the complex is under construction or substantial renovation,
+(c) in the case of a mobile home or floating home, makes a supply of the home before the home has been used or occupied by any individual as a place of residence,
+(d) acquires an interest in the complex
+(i) in the case of a condominium complex or residential condominium unit, at a time when the complex is not registered as a condominium, or
+(ii) in any case, before it has been occupied by an individual as a place of residence or lodging, for the primary purpose of
+(iii) making one or more supplies of the complex or parts thereof or interests therein by way of sale, or
+(iv) making one or more supplies of the complex or parts thereof by way of lease, licence or similar arrangement to persons other than to individuals who are acquiring the complex or parts otherwise than in the course of a business or an adventure or concern in the nature of trade, or
+(e) in any case, is deemed under subsection 190(1) to be a builder of the complex,
+but does not include
+(f) an individual described in paragraph (a), (b) or (d) who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it, otherwise than in the course of a business or an adventure or concern in the nature of trade,
+(g) an individual described in paragraph (c) who makes a supply of the mobile home or floating home otherwise than in the course of a business or an adventure or concern in the nature of trade, or
+(h) a person described in any of paragraphs (a) to (c) whose only interest in the complex is a right to purchase the complex or an interest in it from a builder of the complex; (constructeur)
+. . .
+consideration includes any amount that is payable for a supply by operation of law; (contrepartie)
+. . .
+exempt supply means a supply included in Schedule V; (fourniture exonérée).
+. . .
+recipient of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply; (acquéreur)
+. . .
+residential complex means
+(a) that part of a building in which one or more residential units are located, together with
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and
+(ii) that proportion of the land subjacent to the building that that part of the building is of the whole building,
+(b) that part of a building that is
+(i) the whole or part of a semi‑detached house, rowhouse unit, residential condominium unit or other similar premises that is, or is intended to be, a separate parcel or other division of real property owned, or intended to be owned, apart from any other unit in the building, and
+(ii) a residential unit,
+together with that proportion of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is attributable to the unit and that is reasonably necessary for its use and enjoyment as a place of residence for individuals,
+(c) the whole of a building described in paragraph (a), or the whole of a premises described in subparagraph (b)(i), that is owned by or has been supplied by way of sale to an individual and that is used primarily as a place of residence of the individual, an individual related to the individual or a former spouse or common‑law partner of the individual, together with
+(i) in the case of a building described in paragraph (a), any appurtenances to the building, the land subjacent to the building and that part of the land immediately contiguous to the building, that are reasonably necessary for the use and enjoyment of the building, and
+(ii) in the case of a premises described in subparagraph (b)(i), that part of any common areas and other appurtenances to the building and the land subjacent or immediately contiguous to the building that is attributable to the unit and that is reasonably necessary for the use and enjoyment of the unit,
+(d) a mobile home, together with any appurtenances to the home and, where the home is affixed to land (other than a site in a residential trailer park) for the purpose of its use and enjoyment as a place of residence for individuals, the land subjacent or immediately contiguous to the home that is attributable to the home and is reasonably necessary for that purpose, and
+(e) a floating home,
+but does not include a building, or that part of a building, that is a hotel, a motel, an inn, a boarding house, a lodging house or other similar premises, or the land and appurtenances attributable to the building or part, where the building is not described in paragraph (c) and all or substantially all of the leases, licences or similar arrangements, under which residential units in the building or part are supplied, provide, or are expected to provide, for periods of continuous possession or use of less than sixty days; (immeuble d’habitation)
+residential unit means
+(a) a detached house, semi‑detached house, rowhouse unit, condominium unit, mobile home, floating home or apartment,
+(b) a suite or room in a hotel, a motel, an inn, a boarding house or a lodging house or in a residence for students, seniors, individuals with a disability or other individuals, or
+(c) any other similar premises,
+or that part thereof that
+(d) is occupied by an individual as a place of residence or lodging,
+(e) is supplied by way of lease, licence or similar arrangement for the occupancy thereof as a place of residence or lodging for individuals,
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or
+(g) has never been used or occupied for any purpose, but is intended to be used as a place of residence or lodging for individuals; (habitation)
+supply means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition; (fourniture)
+…
+191(3) Self‑supply of multiple unit residential complex
+(3) For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+(b) the builder of the complex
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) gives possession or use of any residential unit in the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof forming part of the complex, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+(ii) where the builder is an individual, occupies any residential unit in the complex as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+Transfer of possession attributed to builder
+(10) For the purposes of this section, if
+(a) a builder of a residential complex or an addition to a multiple unit residential complex makes a supply of the complex or a residential unit in the complex or addition by way of lease, licence or similar arrangement and the supply is an exempt supply included in section 6.1 or 6.11 of Part I of Schedule V,
+(b) the recipient of the supply is acquiring the complex or unit for use or supply in the course of making exempt supplies and, as part of an exempt supply, possession or use of the complex, unit or residential units in the complex is given by the recipient under a lease, licence or similar arrangement under which occupancy of the complex or unit is given to an individual as a place of residence or lodging, and
+(c) the builder at any time gives possession of the complex or unit to the recipient under the arrangement,
+the builder shall be deemed to have at that time given possession of the complex or unit to an individual under a lease, licence or similar arrangement entered into for the purpose of its occupancy by an individual as a place of residence.
+SCHEDULE V – EXEMPT SUPPLIES – PART I – REAL PROPERTY
+6 A supply
+(a) of a residential complex or a residential unit in a residential complex by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the period throughout which continuous occupancy of the complex or unit is given to the same individual under the arrangement is at least one month; or
+(b) of a residential unit by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the consideration for the supply does not exceed $20 for each day of occupancy.
+6.1 A supply of property that is
+(a) land, or
+(b) a building, or that part of a building, that consists solely of residential units
+made by way of lease, licence or similar arrangement to a recipient (in this section referred to as a “lessee”) for a lease interval (within the meaning assigned by subsection 136.1(1) of the Act) throughout which the lessee or any sublessee makes, or holds the property for the purpose of making, one or more supplies of the property, parts of the property or leases, licences or similar arrangements in respect of the property or parts of it and all or substantially all of those supplies
+(c) are exempt supplies included in section 6 or 7, or
+(d) are supplies that are made, or are reasonably expected to be made, to other lessees or sublessees described in this section.
+IV. FACTS A. Mr. Haque's testimony [11] Misbah Haque has been working in the administration of Tata Steel for 10 years. He explained to the Court that Tata Steel extracts and processes iron ore. One of the mines is located at Timmins Lake in Newfoundland and Labrador. The closest airport to the mine is located in Schefferville, Quebec, approximately 20 kilometres from the mine.
+[12] To meet its labour needs, Tata Steel hires workers from across Canada. The workers travel from their residence to the worksite for a period of 14 to 21 consecutive days and work 12‑hour shifts. At the end of a work period, workers return home for a break and are replaced with a new group of workers for a period of the same duration. According to Mr. Haque, it is rare for an employee to work more than 14 or 21 consecutive days. Workers are hired for the duration of a project.
+[13] Tata Steel covers the round‑trip travel of its employees from their residence to Schefferville. When employees are in the Schefferville or Timmins Lake area for work, Tata Steel covers their lodging, meals and round‑trip transportation between the mining site and the lodgings for the duration of their stay. Employees have never had to pay for meals, lodging or transportation.
+[14] According to Mr. Haque, Tata Steel needed about 50 to 70 rooms to accommodate its employees. Tata Steel owned a camp at Timmins Lake to accommodate its employees. In 2012, the camp experienced mould issues and could no longer be used to accommodate employees. Tata Steel consequently contacted Hage to lease buildings to accommodate some of its employees. The buildings supplied by the appellant were located in Schefferville. Once the mould issue was resolved, Tata Steel continued to lease buildings from the appellant to accommodate its employees. Tata Steel's workers were therefore accommodated either at the camp owned by Tata Steel or in buildings owned by the appellant and leased by Tata Steel. Employees were assigned rooms and could not choose them. The rooms were furnished. Employees had to bring only their clothing and personal effects.
+[15] Mr. Haque described the buildings supplied by the appellant. According to Mr. Haque, Hage supplied two types of building: camps and Habitaflex homes. One of the camps has 21 bedrooms and shared "Jack and Jill" bathrooms between the rooms. Habitaflex homes are structures with three or four bedrooms, bathrooms and a kitchenette. However, according to Mr. Haque, the kitchenette was not used because the workers could have their meals at the cafeteria at Timmins Lake, near the mine.
+B. Mr. Hage's testimony [16] Elias Hage is the appellant's president. In 2012, the mine was under construction, and the appellant provided transportation of Tata Steel's materials to Schefferville. According to Mr. Hage, when Tata Steel's workers' camp experienced mould issues, a number of people in the Schefferville region had to find accommodations. There was a lack of accommodations in Schefferville for all the workers present in the region, to the extent that even the Schefferville hotel could no longer accommodate the appellant's employees. Since it had to find somewhere to accommodate its employees, in June 2012, the appellant purchased vacant lots in Schefferville to build residential buildings. That was when Tata Steel contacted the appellant to ask about leasing accommodations for its employees and subcontractors. The appellant agreed to lease accommodations to Tata Steel.
+[17] On the lots it purchased, the appellant installed 13 modular and prefabricated living accommodations that it leased to Tata Steel. Mr. Hage explained that 11 of those living accommodations were "home" style and two were "camp" style. The accommodations could be moved, placed on piles and connected to the city's sewer and electricity systems.
+[18] The homes that Mr. Hage referred to as "Habitaflex" could contain three or four bedrooms. The three-bedroom model was about 760 square feet. He explained that each bedroom contained a bed, linens and a sink. The four-bedroom model contained a kitchenette, two toilets, two showers and a washer and dryer. One of the camps contained 21 bedrooms on two levels, and one toilet for every two bedrooms, as well as a room with a washer and dryer. The other camp contained 16 bedrooms on a single level, and each bedroom had its own bathroom. A photo of one of these bedrooms was entered into evidence. According to Mr. Hage, the bedrooms measured about 100 square feet. They contained a bed with linens, a desk, a chair and a small television. The camps did not have a kitchen or common room.
+[19] The appellant and Tata Steel signed a number of lease agreements. The lease agreements generally covered a period of a few months. Some leases provided for a rate per bedroom per day for the anticipated duration of the agreement. Other leases provided for a rate per building per day for the anticipated duration of the agreement. Under the first lease agreement, the rate for one bedroom was $100. The rate per bedroom subsequently dropped to about $50 to $60.
+[20] Tata Steel was responsible for room reservations and cleaning. The appellant was responsible for building maintenance and repairs.
+C. Mr. Roch's testimony [21] Since 2018, Steven Roch has been general counsel at Sodexo. Mr. Roch explained that Sodexo provided services to Tata Steel. More specifically, Sodexo was responsible for the housekeeping of rooms occupied by Tata Steel's employees and for their catering service.
+D. Ms. Bui's testimony [22] Yen Bui is an accountant and has a Master's degree in taxation. She worked for the accounting firm Nexia Friedman, which the appellant was using during the period at issue.
+[23] Ms. Bui described her role in the appellant's case once Revenu Québec presented the appellant with a draft assessment based on the self‑supply rule applicable to a residential complex.
+E. Ms. Bouchard's testimony [24] Nathalie Bouchard works for Revenu Québec and was involved in the tax audit of the appellant.
+[25] In her testimony, Ms. Bouchard discussed the Revenu Québec working papers and explained to the Court the grounds for the reassessments. She explained that Revenu Québec’s reassessments were based on the self‑supply rule applicable to a residential complex. Revenu Québec disallowed the input tax refunds (ITRs) claimed by the appellant for the exempt buildings, calculated according to the percentage of taxable and exempt activities.
+V. POSITIONS OF THE PARTIES A. Position of the appellant [26] The appellant argues that the adjustments the respondent made to its self‑assessment of the GST for the buildings in Schefferville and the ITCs claimed for those buildings were not in accordance with the ETA. It argues that Tata Steel's employees occupied the accommodations in those buildings as temporary lodgings rather than as a place of residence. Furthermore, the appellant submits that the accommodations were not continuously occupied as habitual residences and that, for those reasons, they are not "residential complexes" within the meaning of the ETA.
+[27] More specifically, the appellant submits that the self‑assessment regime set out in section 191 of the ETA does not apply to the buildings it leases to Tata Steel because the leases with Tata Steel were not signed for the purpose of occupancy of the buildings "as a place of residence", but rather as temporary lodgings. According to the appellant, one of the conditions in subsection 191(3) of the ETA is that the lease between the builder and the person must be entered into for the purpose of occupancy of the building "as a place of residence", under subparagraph 191(3)(b)(i) and paragraph 191(3)(c) of the ETA. The appellant argues that it is necessary to consider the builder's intent regarding the type of occupancy—as a place of residence or lodging—covered by the lease. In this case, because the buildings were leased to accommodate external workers to work during specific periods, the appellant's intention when it entered into the lease was to supply Tata Steel with buildings for the workers to occupy as temporary lodgings, not as a place of residence.[4] Consequently, the appellant argues that subsection 191(3) of the ETA does not apply in this case.
+[28] The appellant also argues that it did not "self‑supply" residential complexes, because the buildings were not used as a place of residence by the Tata Steel employees. According to the appellant, the phrase "place of residence" should be interpreted to mean that the occupants of a room may live, eat and sleep there full‑time, that they can receive their mail or newspaper there, and that they could have their family visit them there. In this case, the employees did not occupy the accommodations as a place of residence, and therefore section 191 of the ETA should not apply.[5]
+[29] The appellant also submits that the consideration it received from Tata Steel in exchange for leasing the accommodations exceeds $20 per day per accommodation. According to the appellant, it did not supply a residential unit under section 6.1 of Part I of Schedule V, because the recipient or lessee, namely Tata Steel, did not in turn make an exempt supply under section 6 of Part I of Schedule V of the ETA. The appellant states that Tata Steel did not make an exempt supply under paragraph 6(b) of Part I of Schedule V of the ETA because the consideration Tata Steel paid to lease the accommodations exceeded $20 per day per accommodation and no consideration or supply exists between Tata Steel and its employees.[6]
+[30] The appellant maintains that the Tata Steel employees were "recipients" within the meaning of paragraph (c) of the definition of this term in subsection 123(1) of the ETA. Although it maintains that the Tata Steel employees were the recipients and occupants of the accommodations, the appellant submits that there was only one supply of a residential unit, which it made to Tata Steel for consideration of an average of $48 per day of occupancy. Given that this consideration exceeds $20 per day of occupancy, one of the conditions in paragraph 6(b) of Part I of Schedule V of the ETA is not met. In other words, according to the appellant, Tata Steel did not make a supply to its employees, and, consequently, no consideration could have been paid to Tata Steel by its employees.[7]
+[31] The appellant argues that if the Court finds that there was a second supply and therefore that Tata Steel subsequently made the supply of a residential unit to its employees, the Court must ask whether consideration was paid for that supply and what value ought to be assigned to that consideration.[8]
+[32] Last, the appellant argues that the same employee did not occupy the buildings as a place of residence or lodging for a period of at least one month. According to the appellant, section 6.1 of Part I of Schedule V of the ETA does not apply because the recipient or lessee, namely Tata Steel, did not also make an exempt supply under paragraph 6(b) of Part I of Schedule V of the ETA, since most of the occupants stayed there for a maximum of three weeks. Therefore, there was no continuous occupancy for a period of at least one month.
+B. Position of the respondent [33] According to the respondent, it is unnecessary to determine whether the employees were occupying the buildings as a place of residence or lodging for subsection 191(3) of the ETA to apply, because of the presumption in subsection 191(10) of the ETA. The respondent argues that, under those provisions, if use of a building is given as a place of residence or lodging, such use is deemed to have been given for the purpose of its occupancy as a place of residence. The respondent submits that all of the conditions set out in subsection 191(10) are met. Consequently, subsection 191(3) applies in this case, regardless of whether the buildings were occupied as a place of residence or lodging.
+[34] The respondent submits that one of the conditions that must be met in subsection 191(10) of the ETA is that the builder must have made an exempt supply pursuant to section 6.1 of Part I of Schedule V of the ETA. The respondent argues that the appellant made an exempt supply pursuant to section 6.1. According to the respondent, there were two supplies of buildings in this case, and it is important to differentiate them.
+[35] The first involved the appellant supplying accommodations in the buildings by way of lease to Tata Steel, the lessee, as the term is used in section 6.1 of Part I of Schedule V of the ETA. The consideration paid by Tata Steel for that supply exceeds $20 per day.
+[36] In the second, which is the important one given the wording of section 6.1 of Part I of Schedule V of the ETA, Tata Steel made, according to the respondent, an exempt supply of the buildings to its employees because, under paragraph 6(b), a supply is exempt if the employees were housed free of charge, meaning at a price lower than $20 per day.
+[37] The respondent also submits that the supply by Tata Steel of the buildings to its employees is an exempt supply under paragraph 6(a) of Part I of Schedule V of the ETA because the same employee could reside continuously in the building for a period of at least one month. The respondent argues that this is the case because the employees’ employment contracts were indeterminate and the employees always returned to the same buildings for the duration of their employment contract.
+[38] Last, according to the respondent, if the Court finds that the supply of the buildings by Tata Steel to its employees is exempt under paragraphs 6(a) or 6(b) of Part I of Schedule V of the ETA, the supply of the buildings by the appellant to Tata Steel is exempt under section 6.1 of Part I of Schedule V of the ETA.
+VI. DISCUSSION A. Was the Minister correct in determining that the appellant was required to remit GST in the amount of $87,379.58 under section 191 of the ETA? [39] The Minister determined that the appellant had failed to remit GST in the amount of $87,379.58 for the buildings leased by Tata Steel to accommodate its employees. The Minister based that determination on subsections 191(3) and 191(10) of the ETA.
+[40] Subsection 191(3) of the ETA pertains to the self‑supply of a multiple unit residential complex. Under that provision, if certain conditions are met, the builder of a complex is deemed to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex. Under that same provision, the builder is deemed to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[41] The conditions that must be met for subsection 191(3) of the ETA to apply are listed in subsection 191(3) and are as follows:
+1-the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+2-the builder of the complex
+-gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+-gives possession or use of any residential unit in the complex to a particular person under an agreement for
+(a)the supply by way of sale of the building or part thereof forming part of the complex, and
+(b)the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+3-the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation.
+[42] The parties admit that the first condition is met and is not at issue in this dispute. In this case, given the facts and the submissions of the parties, it is the first scenario of the second condition that applies because the appellant gave use of the residential units to Tata Steel under a lease agreement. Consequently, to determine whether the second and third conditions are met, the Court must determine only whether the buildings were leased and occupied as a place of residence.
+[43] Under subsection 191(10) of the ETA, a builder is deemed, upon giving use of a complex under a lease agreement, to have done so for the purpose of its occupancy as a place of residence if certain conditions are met. These conditions are as follows:
+1-a builder of a residential complex or an addition to a multiple unit residential complex makes a supply of the complex or a residential unit in the complex or addition by way of lease, licence or similar arrangement and the supply is an exempt supply included in section 6.1 of Part I of Schedule V,
+2-the recipient of the supply is acquiring the complex or unit for use or supply in the course of making exempt supplies and, as part of an exempt supply, possession or use of the complex, unit or residential units in the complex is given by the recipient under a lease, licence or similar arrangement under which occupancy of the complex or unit is given to an individual as a place of residence or lodging, and
+3-the builder at any time gives possession of the complex or unit to the recipient under the arrangement.
+[44] According to the respondent, it is sufficient to prove that the conditions in subsection 191(10) of the ETA are met for subsection 191(3) of the ETA to apply, because the appellant will then be deemed to have given possession of the buildings for the purpose of their occupancy as a place of residence. In this case, the second and third condition necessary for subsection 191(10) of the ETA to apply are not at issue in this dispute.
+[45] The Court agrees with the respondent. Under subsection 191(10) of the ETA, a builder is deemed to have given possession of a building for the purpose of occupancy as a place of residence when the conditions are met. Subsection 191(10) clearly states that subsection 191(3) of the ETA applies to builders who make an exempt supply included in section 6.1 of Part I of Schedule V of the ETA. This creates a presumption that, in the circumstances set out in section 6.1, the builder is deemed to have given possession of a building for the purpose of occupancy as a place of residence.
+[46] Consequently, in this case, to determine whether the appellant is deemed to have given the buildings to Tata Steel for the purpose of their occupancy as a place of residence, the Court must determine whether the first condition of subsection 191(10) of the ETA is met. For that purpose, the Court must determine whether the appellant made an exempt supply included in section 6.1 of Part I of Schedule V of the ETA.
+[47] Section 6.1 of Part I of Schedule V of the ETA pertains to exempt supplies and states:
+6.1 A supply of property that is
+(a) land, or
+(b) a building, or that part of a building, that consists solely of residential units
+made by way of lease, licence or similar arrangement to a recipient (in this section referred to as a “lessee”) for a lease interval (within the meaning assigned by subsection 136.1(1) of the Act) throughout which the lessee or any sublessee makes, or holds the property for the purpose of making, one or more supplies of the property, parts of the property or leases, licences or similar arrangements in respect of the property or parts of it and all or substantially all of those supplies
+(c) are exempt supplies included in section 6 or 7, or
+(d) are supplies that are made, or are reasonably expected to be made, to other lessees or sublessees described in this section.
+[48] Under that provision, a supply is exempt if the conditions set out in paragraphs 6.1(a) and (b) of Part I of Schedule V of the ETA are met. Paragraph 6.1(b) is not at issue in this dispute. Paragraph 6.1(a) makes reference to section 6, which states:
+6 A supply
+(a) of a residential complex or a residential unit in a residential complex by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the period throughout which continuous occupancy of the complex or unit is given to the same individual under the arrangement is at least one month; or
+(b) of a residential unit by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the consideration for the supply does not exceed $20 for each day of occupancy.
+[49] Section 6 describes two scenarios where a supply is exempt. The first is set out in paragraph 6(a) and the second in paragraph 6(b). In both scenarios, an individual must have occupied a residential complex as a place of residence or lodging. In this case, the "individual" is a Tata Steel employee. It is clear that Tata Steel's employees were lodged in the buildings during their stay, which the parties have not disputed. Moreover, the parties have not argued that the employees had not been accommodated in the buildings under a "similar arrangement" to a lease.
+[50] The first scenario pertains to the supply of a residential complex by way of lease, licence or similar arrangement for the purpose of its continuous occupancy as a place of residence or lodging by the same individual for a period of at least one month. In this case, Tata Steel's employees occupied the rooms for a duration of only two to three weeks. Therefore, the same individual did not occupy one of the buildings for a period of at least one month. Consequently, the Court finds that the supply of the rooms is not exempt under this provision.
+[51] The second scenario pertains to the supply of a residential unit by way of lease, licence or similar arrangement for the purpose of its occupancy as a place of residence or lodging by an individual, where the consideration for the supply does not exceed $20 for each day of occupancy. In this case, Tata Steel's employees occupied the rooms free of charge under their employment contract and/or employment conditions. Consequently, the supply of the rooms is exempt under this provision, and the first condition for subsection 191(10) of the ETA to apply is therefore met, meaning that the appellant is deemed, upon giving use of the buildings to Tata Steel, to have done so for the purpose of the occupancy of the buildings as a place of residence pursuant to subsection 191(3) of the ETA. The Court therefore finds that the Minister was correct in determining that the appellant failed to remit GST in the amount of $87,379.58.
+B. Was the Minister correct in determining that the appellant was not entitled to claim ITCs in the amount of $49,564.38 for these buildings under subsection 169(1) of the ETA? [52] No ITCs may be claimed for GST paid on purchases used to make exempt supplies. Subsection 169(1) of the ETA sets out the formula for calculating an ITC. In general, the ITC is calculated by multiplying the GST paid for the property or service by the percentage representing the extent to which the property or service is used in the course of commercial activities.
+[53] The relevant part of subsection 169(1) of the ETA reads as follows:
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and . . . tax in respect of the supply . . . becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service . . .
+A × B
+where
+A is the tax in respect of the supply . . .
+B is
+. . .
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired . . . the property or service . . . for consumption, use or supply in the course of commercial activities of the person.
+[54] To be entitled to ITCs under paragraph 169(1)(c) of the ETA, a person must have acquired the property or services for "consumption, use or supply in the course of commercial activities".
+[55] The term "commercial activity" is defined in subsection 123(1) of the ETA:
+123 (1) commercial activity of a person means
+. . .
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply; (activité commerciale)
+[56] In this case, under these two provisions, and given that the Court has found that the appellant's supply of the buildings is exempt, the appellant is not entitled to claim ITCs for GST paid on the property or services it acquired in order to supply the buildings. Consequently, the Minister was correct in determining that the appellant was not entitled to claim ITCs in the amount of $49,564.38 for the buildings under subsection 169(1) of the ETA.
+VII. CONCLUSION [57] The Court concludes that the appellant's supply of the buildings is exempt under section 6.1 and paragraph 6(b) of Part I of Schedule V of the ETA. Consequently, under subsections 191(3) and 191(10) of the ETA, the Court concludes that the appellant is deemed to have given the buildings to Tata Steel for the purpose of their occupancy as a place of residence. The Minister was therefore correct in determining that the appellant failed to remit GST in the amount of $87,379.58 and that the appellant was not entitled to claim ITCs in the amount of $49,564.38 for the buildings.
+[58] For the reasons set out above, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 14th day of September 2023.
+"Sylvain Ouimet"
+Ouimet J.
+Translation certified true
+on this 5th day of May 2025.
+Vera Roy, Senior Jurilinguist
+CITATION:
+2023 TCC 131
+COURT FILE NO.:
+2020-251(GST)G
+STYLE OF CAUSE:
+HAGE REALTIES INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+March 27, 28 and 29, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+September 14, 2023
+APPEARANCES:
+Counsel for the appellant:
+Aaron Rodgers
+Brian Moulaison
+Counsel for the respondent:
+Ryan Allen
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Aaron Rodgers
+Brian Moulaison
+Firm:
+De Grandpré Chait L.L.P.
+Montreal, Quebec
+For the respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the notice of appeal at para. 30.
+[2] Ibid.
+[3] Notice of appeal at paras. 48 and 49.
+[4] Transcript dated March 29, 2023 at 7, 8 and 39.
+[5] Ibid. at 86.
+[6] Ibid. at 49–55.
+[7] Ibid.
+[8] Ibid. at 62–72.

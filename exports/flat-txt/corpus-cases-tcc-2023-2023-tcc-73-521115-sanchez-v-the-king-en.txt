@@ -1,0 +1,96 @@
+Title: Sanchez v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521115/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-73-521115-sanchez-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-05-25
+
+# Sanchez v. The King
+
+- Citation: 2023 TCC 73
+- Decision date: 2023-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5838, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sanchez v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-25
+Neutral citation
+2023 TCC 73
+File numbers
+2022-2859(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-2859(IT)G
+BETWEEN:
+JEAN NOËL SANCHEZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Before: The Honourable Justice Patrick Boyle
+ORDER
+The motion filed by the respondent on February 10, 2023 to strike the appellant’s Notice of Appeal is granted with costs.
+Signed at Montreal, Canada, this 25th day of May 2023.
+“Patrick Boyle”
+“Boyle J.”
+Translation certified true
+on this 10th day of October 2024.
+Vera Roy, Jurilinguist
+Citation: 2023 TCC 73
+Date: 20230525
+Docket: 2022-2859(IT)G
+BETWEEN:
+JEAN NOËL SANCHEZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Boyle J.
+[1] The respondent has filed a motion to strike the appellant’s Notice of Appeal on the grounds that the Court lacks jurisdiction to hear the appeal and to grant the relief sought.
+[2] The Court’s lack of jurisdiction to hear the appellant’s appeal stems from the fact that the appeal does not involve a tax assessment for which the appellant has filed a Notice of Objection, as required in subsection 165(1) of the Income Tax Act (“ITA”).
+[3] The Court’s lack of jurisdiction to grant the relief sought in the Notice of Appeal flows from the fact that the appellant is seeking relief in damages, judicial declarations and injunctions against the Canada Revenue Agency. However, none of these options fall within the powers conferred on the Court in particular by subsection 171(1) of the ITA or subsection 12(1) of the Tax Court of Canada Act.
+[4] The submissions that the appellant made in response to this motion do not allege the contrary and, furthermore, do not respond to the respondent’s motion.
+[5] The appellant should consider whether some or all of his arguments can be restated to have them fall within the jurisdiction of the Federal Court of Canada.
+[6] The respondent’s motion is allowed with costs.
+Signed at Montreal, Canada, this 25th day of May 2023.
+“Patrick Boyle”
+“Boyle J.”
+Translation certified true
+on this 10th day of October 2024.
+Vera Roy, Jurilinguist
+CITATION:
+2023 TCC 73
+COURT FILE NO.:
+2022-2859(IT)G
+STYLE OF CAUSE:
+JEAN NOËL SANCHEZ AND HIS MAJESTY THE KING
+REASONS FOR ORDER:
+The Honourable Justice Patrick Boyle
+DATED:
+May 25, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant on his own behalf
+Counsel for the Respondent:
+Nancy Azzi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

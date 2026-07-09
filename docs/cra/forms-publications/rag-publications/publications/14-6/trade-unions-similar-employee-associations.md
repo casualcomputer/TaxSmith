@@ -1,0 +1,176 @@
+---
+title: "Trade Unions and Similar Employee Associations"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-6/trade-unions-similar-employee-associations.html
+last_modified: 2019-04-15
+---
+# Trade Unions and Similar Employee Associations
+
+GST/HST memorandum 14.6 March 2017
+
+This version replaces the one dated June 2014.
+
+This memorandum provides an overview of the application of the *Excise Tax Act* to certain supplies made by or to trade unions and similar employee associations. In particular, it focuses on dues in respect of employment, payments made by unions or associations to compensate employers whose employees participate in union activities during normal work hours, and non-profit organizations established primarily for the benefit of organized labour.
+
+For information about professional membership dues paid to an organization to which members are required by law to belong in order to keep their professional status, refer to [Guide RC4081, GST/HST Information for Non-Profit Organizations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081.html) and [Form GST24, Election and Revocation of the Election to Tax Professional Memberships](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst24.html).
+
+All legislative references in this publication are to the *Excise Tax Act* (the Act) unless otherwise specified. The information in this publication does not replace the law found in the Act and its regulations. If this information does not completely address your particular situation, you may wish to refer to the Act or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1.4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST Rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, see [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Dues in respect of employment](#_Toc477248400)
+
+- [Payments by unions or associations](#_Toc477248401)
+
+- [Non-profit organizations established primarily for the benefit of organized labour](#_Toc477248402)
+
+## Dues in respect of employment
+
+1. Section 189 deems an organization to have made an exempt supply and an amount paid by a person to be consideration for that supply where the amount was paid by the person to the organization as:
+
+1. a membership due paid to:
+
+    1. a trade union as defined in section 3 of the *Canada Labour Code*,
+
+    2. a trade union as defined in any provincial act that provides for the investigation, conciliation, or settlement of industrial disputes, or
+
+    3. an association of public servants whose primary object is to promote the improvement of the members’ conditions of employment or work;
+
+2. a due that was, under a collective agreement, retained by the person from an individual’s remuneration and paid to a trade union or association referred to in paragraph (a) of which the individual was not a member; or
+
+3. a due to a parity or advisory committee or similar body, the payment of which was required under the laws of a province in respect of an individual’s employment.
+
+2. Under subsection 123(1), "membership" is defined to include "a right granted by a particular person that entitles another person to services that are provided by, or to the use of facilities that are operated by, the particular person and that are not available, or are not available to the same extent or for the same fee or charge, to persons to whom such a right has not been granted, and also includes such a right that is conditional on the acquisition or ownership of a share, bond, debenture or other security".
+
+3. Section 3 of the *Canada Labour Code* defines "trade union" to mean "any organization of employees, or any branch or local thereof, the purposes of which include the regulation of relations between employers and employees".
+
+4. For the purposes of section 189 of the Act, the CRA considers that:
+
+- A "collective agreement" is an agreement in writing containing the terms or conditions of employment of employees, including provisions with reference to rates of pay and hours of work, between:
+
+    - an employer or an employers’ organization acting on behalf of an employer, and
+
+    - a trade union acting on behalf of the employees in collective bargaining or as a party to an agreement with the employer or employers’ organization.
+
+- A "parity or advisory committee" is a body, usually consisting of representatives of employers and employees, set up under provincial laws to oversee collective agreements.
+
+- A "public servant" is a public servant as defined by any provincial or federal statute.
+
+5. Included in section 189 are membership dues paid to an association of public servants, the primary object of which is to promote the improvement of the members’ conditions of work. Activities that are indicative of this object include negotiation and collective bargaining with employers with respect to salaries, hours of work, job security, pension and other benefits, and other items normally covered by a contract of employment.
+
+An association of public servants established a benevolent fund that is operated by the association on behalf of its members. The primary purpose of the fund is to provide financial assistance to members to cover certain legal or supplementary medical costs, including those due to civil action, work-related disciplinary action, medical emergencies, and terminal illness. Membership in the fund is voluntary, and public servants who choose to participate pay an annual membership fee of $100.
+
+The fund is overseen by a committee of elected representatives, and in order to receive a payment from the fund, a member must complete and submit an application along with the necessary supporting documentation, such as a description of the legal action commenced or a detailed medical statement as well as an estimate of the amount of funding needed.
+
+Although the members of the fund are public servants, the primary object of the fund is to provide financial assistance to its members and not to promote the improvement of their conditions of work. As such, the annual membership fee payable by each fund member is not deemed to be consideration for an exempt supply under section 189.
+
+6. Whether an organization qualifies as a trade union or similar employee association as described in section 189 is a question of fact that must be determined on a case-by-case basis.
+
+7. Dues paid to an organization referred to in section 189 are not subject to GST/HST regardless of whether they are paid directly by an individual or collected by an employer and remitted to the organization on behalf of its employees.
+
+According to the terms of a collective agreement negotiated between an employer and a trade union, the employer is required to deduct a portion of the salaries of each of its employees and to forward those funds to the trade union. This deduction accounts for the membership dues payable by each employee to the trade union.
+
+Under section 189, the union is deemed to be making exempt supplies to its members, and the dues paid to the union by its members—via employer deduction—are deemed to be consideration for those exempt supplies.
+
+8. Under paragraph 189(b), dues that are retained by a person, such as an employer, from an individual’s remuneration under the provisions of a collective agreement and paid to a trade union or association of public servants referred to in paragraph 189(a) of which the individual is not a member also constitute consideration for exempt supplies and are not subject to GST/HST.
+
+An individual is hired by an employer whose workforce is unionized. Although the individual chooses not to become a member of the trade union, the individual nevertheless becomes part of the bargaining unit and benefits from the wages and benefits negotiated in the collective agreement. A provision included in the collective agreement requires the employer to deduct a portion of the salaries of all employees, union members and non-members alike, and to forward those funds to the trade union.
+
+The trade union collects amounts from union members and non-members alike to ensure that it has the financial means to carry out its programs by requiring all those who benefit from the collective agreement to contribute dues even if they are not members of the union. This type of provision is commonly known as the Rand formula.
+
+The amounts retained by the employer from the individual’s paycheques and paid to the trade union under these types of circumstances constitute consideration for exempt supplies under paragraph 189(b) and are not subject to GST/HST.
+
+## Payments by unions or associations
+
+9. Under section 164.2, an amount paid to an employer by a trade union or association of public servants referred to in paragraph 189(a) is deemed not to be consideration for a supply where:
+
+1. an individual, who is a member of the union or association, participates in union/association activities and is, as such, unable to perform duties, under a contract of employment, for their employer during a period during which they would otherwise be obligated to provide such services, and
+
+2. the union or association pays an amount to the employer as compensation for expenses that the employer incurs as a consequence of the individual’s participation in those activities or for remuneration or benefits given by the employer to the individual in respect of that period.
+
+10. The compensation paid by the union or association to the employer might cover salary, benefits, and other costs, such as travel costs, paid by the employer in respect of the time for which the employee was away from their employment duties on union or association business.
+
+An individual in Prince Edward Island, who is a member of a trade union, requests leave to participate in a week-long series of union meetings about upcoming contract negotiations. In accordance with the collective agreement between the trade union and the employer, the employer grants leave with pay to the individual.
+
+The individual ordinarily lives and works in Cavendish and travels to Charlottetown each day to attend the meetings, thereby incurring travel time.
+
+Under the terms of the collective agreement, the employer continues to pay the individual’s salary and benefits, including the travel time associated with the individual’s daily commute to Charlottetown, during the period that the individual is away from work on union business. The employer then submits an invoice for these amounts to the union and is reimbursed accordingly.
+
+Amounts paid by a trade union or association of public servants to an employer as reimbursement of salary and benefits, including travel time, incurred as a result of granting union or association leave under the terms of a collective agreement are deemed not to be consideration for a supply. As such, no HST applies to the amounts reimbursed by the trade union to the employer in this case.
+
+## Non-profit organizations established primarily for the benefit of organized labour
+
+11. Section 26 of Part VI of Schedule V exempts supplies made between a non-profit organization established primarily for the benefit of organized labour and:
+
+- another non-profit organization established primarily for the benefit of organized labour; or
+
+- any of the following that is a member of or affiliated with that non-profit organization:
+
+    - a trade union as defined in section 3 of the *Canada Labour Code*;
+
+    - a trade union as defined in any provincial act that provides for the investigation, conciliation, or settlement of industrial disputes;
+
+    - an association of public servants whose primary object is to promote the improvement of the members’ conditions of employment or work; or
+
+    - a parity or advisory committee or similar body.
+
+12. A "non-profit organization" is defined under subsection 123(1) as "a person (other than an individual, an estate, a trust, a charity, a public institution, a municipality or a government) that was organized and is operated solely for a purpose other than profit, no part of the income of which is payable to, or otherwise available for the personal benefit of, any proprietor, member or shareholder thereof unless the proprietor, member or shareholder is a club, a society or an association the primary purpose and function of which is the promotion of amateur athletics in Canada".
+
+13. An entity must meet all of the conditions set out in this definition to be considered a non-profit organization for the purposes of the Act. For more information on these conditions, refer to [GST/HST Policy Statement P-215, Determination of Whether an Entity is a "Non-Profit Organization" for Purpose of the Excise Tax Act ("ETA")](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-215.html).
+
+14. A non-profit organization is considered to have been "established primarily for the benefit of organized labour" if it was established primarily to provide some advantage to organized labour, such as:
+
+- a trade union as defined in section 3 of the *Canada Labour Code*;
+
+- a trade union as defined in any provincial act that provides for the investigation, conciliation, or settlement of industrial disputes;
+
+- an association of public servants whose primary object is to promote the improvement of the members’ conditions of employment or work; or
+
+- a parity or advisory committee or similar body.
+
+15. The purpose for which a non-profit organization was established is generally set out in the organization’s governing documents. Where these documents are not determinative, the organization’s activities may also provide evidence of the purpose for its establishment.
+
+Trade Union B is a "trade union", as defined in section 3 of the *Canada Labour Code*, and a member of Organization A. Organization A is a non-profit organization that, according to its Letters Patent, was established primarily to:
+
+- promote the interest and well-being of the members of Trade Union B;
+
+- gather and distribute information related to the employment, benefits, and welfare of the members of Trade Union B; and
+
+- engage in such other activities as are complementary to and consistent with the objects noted above.
+
+Therefore, Organization A is considered to have been "established primarily for the benefit of organized labour".
+
+Organization A owns an office building. As part of its activities, Organization A regularly makes long-term leases of office space in the office building to Trade Union B.
+
+The long-term leases of office space made by Organization A to Trade Union B are exempt supplies under section 26 of Part VI of Schedule V because Organization A is a non-profit organization that was established primarily for the benefit of organized labour (that is, Trade Union B), and Trade Union B is a member of Organization A.
+
+Generally, long-term leases of office space made by a non-profit organization are exempt supplies under section 25 of Part VI of Schedule V, unless the non-profit organization files an election under section 211 to treat those supplies as taxable supplies.
+
+However, where long-term leases of office space are made by a non-profit organization that is established primarily for the benefit of organized labour to a person mentioned in paragraph 11 of this memorandum, the long-term leases of office space remain exempt supplies under section 26, even if the non-profit organization files an election under section 211. Therefore, the long-term leases of office space that Organization A makes to Trade Union B are exempt supplies under section 26, regardless of whether Organized A files an election under section 211.
+
+16. Whether a non-profit organization was established primarily for the benefit of organized labour is a question of fact that must be determined on a case-by-case basis. For information on how to request a ruling with respect to a particular organization, refer to [GST/HST Memorandum 1.4](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html).
+
+## Further information
+
+All **GST/HST technical publications** are available on the CRA website at [cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST** **enquiry**by **telephone**:
+
+- for **general GST/HST enquiries,** call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in **Quebec**, call **Revenu Québec** at **1-800-567-4692** or visit their website at [revenuquebec.ca](http://www.revenuquebec.ca).
+
+If you are a **selected listed financial institution**(whether or not you are located in Quebec) and require information on the **GST/HST**or the**QST**, go to [cra.gc.ca/slfi](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for **general GST/HST or QST enquiries**, call **Business Enquiries** at **1-800-959-5525**
+
+- for **technical GST/HST or QST enquiries**, call **GST/HST Rulings** **SLFI** at **1-855-666-5166**

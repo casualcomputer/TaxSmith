@@ -1,0 +1,315 @@
+Title: Rod Roy Ski Schools Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28963/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-600-28963-rod-roy-ski-schools-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-11-14
+
+# Rod Roy Ski Schools Ltd. c. M.R.N.
+
+- Citation: 2008 CCI 600
+- Decision date: 2008-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6773, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rod Roy Ski Schools Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-14
+Référence neutre
+2008 CCI 600
+Numéro de dossier
+2007-2603(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-2603(EI)
+ENTRE :
+ROD ROY SKI SCHOOLS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 16 mai 2008, à Montréal (Québec)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentant de l’appelante :
+Douglas Roy
+Avocat de l’intimé :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT L’appel interjeté en application du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est accueilli et la décision du ministre du Revenu national concernant l’appel porté devant lui en application de l’article 91 de la Loi est annulée.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« C.H. McArthur »
+Juge McArthur
+Référence : 2008 CCI 600
+Date : 20081114
+Dossier : 2007-2603(EI)
+ENTRE :
+ROD ROY SKI SCHOOLS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le présent appel est interjeté à l’encontre d’une décision rendue par le ministre du Revenu national (le « ministre ») selon laquelle dix travailleurs exerçaient auprès de l’appelante un emploi assurable pendant diverses périodes entre le 1er janvier 2004 et le 31 décembre 2005. Un dirigeant de l’appelante, Douglas Roy[1], ainsi que quatre autres personnes ont témoigné pour l’appelante, et le vérificateur, Jean‑Pierre Houle, ainsi que deux autres personnes ont témoigné pour l’intimé. Y compris les dix personnes dont il est question dans le présent appel, je pense que la décision du ministre touche environ 100 travailleurs. Les travailleurs sont désignés comme des instructeurs (moniteurs), des superviseurs, des directeurs ou des chauffeurs. Le présent jugement s’applique de la même façon à chacun d’entre eux, sans égard à leur désignation. De plus, l’appel a été entendu dans les deux langues officielles.
+[2] Douglas Roy, un témoin impressionnant, était le représentant de l’appelante. Son père, Rod Roy, a mis sur pied une école de ski originale au Québec il y a de cela environ 25 ans. À ce moment‑là, Rod Roy était un enseignant à Montréal, ou dans les environs de Montréal, et il a demandé à certains de ses collègues, à des étudiants au cégep et à d’autres férus du ski d’enseigner à des novices, particulièrement à des enfants. C’était une entreprise pour lui et pour sa société. De plus, les travailleurs conviennent qu’ils étaient des bénévoles et qu’on leur remboursait au moins une partie de leurs dépenses. Je pense que l’appelante tirait ses profits principalement du transport en autobus et d’autres préparatifs de voyage. Au fil des ans, tout ceci a toujours très bien fonctionné pour toutes les personnes concernées.
+[3] En 2006, l’appelante a demandé au ministre de décider si les divers travailleurs exerçaient un emploi assurable alors qu’ils travaillaient pour l’appelante. En mars 2007, le ministre a rendu sa décision et a conclu que les travailleurs exerçaient bel et bien un emploi assurable pendant les périodes en cause. L’appelante a porté cette décision en appel, et les deux parties sont d’avis que la question en litige est de savoir si les travailleurs étaient des employés ou bien des bénévoles.
+[4] L’entreprise de l’appelante offrait le transport vers divers centres de ski au Québec et au Vermont ainsi que des leçons de ski. Parmi les travailleurs, il y avait six instructeurs ou moniteurs de ski ainsi que quatre superviseurs ou directeurs. L’entreprise fonctionnait principalement la fin de semaine et les mardis pendant les mois d’hiver. Les travailleurs enseignaient principalement à des enfants recrutés par l’appelante. Cette dernière organisait le transport en autobus des élèves vers les centres de ski. Les travailleurs décidaient du moment et de l’endroit où ils allaient enseigner ou superviser, suivant les besoins de l’appelante. Ils étaient tous très compétents et ne nécessitaient que très peu de supervision, même si les superviseurs de l’appelante encadraient les activités, tant sur les pentes de ski qu’ailleurs. Les témoins de l’appelante ont tous affirmé, sans exception, qu’ils étaient des passionnés de ski et qu’ils participaient aux programmes de l’appelante parce qu’ils appréciaient le faire. Ils profitaient de 1’occasion de faire du ski gratuitement, et les paiements que l’appelante leur versait compensait au moins certaines de leurs dépenses. Ils n’estimaient pas être des employés.
+[5] La position de l’appelante, selon l’avis d’appel, comprend les éléments suivants :
+[traduction]
+L’appelante établit les horaires de travail et les instructeurs décident de leur propre horaire en choisissant de donner des cours d’une durée maximale de quatre heures par jour les samedis, les dimanches ou les mardis.
+Ceux qui travaillent sur les pentes de ski ne reçoivent pas de salaire. Une allocation pour frais est accordée pour les dépenses raisonnables suivantes :
+· Déplacement vers les centres de ski
+· Repas
+· Amortissement pour dépréciation de l’équipement de ski ou de planche à neige
+· Entretien de l’équipement
+· Vêtements et accessoires de ski (casque, lunettes, gants, etc.)
+· Cotisations à l’AMSC ou à l’ACMS
+L’appelante s’occupait de trouver les élèves et de leur fournir le transport en autobus vers l’un des divers centres connus des skieurs de l’Est du Canada, notamment Gray Rocks, Morin Heights, Mont Gabriel, Mont Blanc, Tremblant, Saint‑Sauveur, Sainte-Anne, Jay Peak, Sutton, Sugar Bush et d’autres. On attribuait les groupes aux instructeurs et, de façon générale, les instructeurs étaient seuls avec leur groupe d’élèves.
+[6] Lorsqu’il a rendu sa décision, le ministre s’est fondé sur les hypothèses de fait énoncées dans la réponse à l’avis d’appel. Ces hypothèses sont présentées à l’annexe « A » ci‑jointe. Selon le ministre, les travailleurs exerçaient un emploi en vertu d’un contrat de louage de services, au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi »), et leur emploi était assurable, principalement en raison de l’article 2085 du Code civil du Québec (le « Code civil »).
+[7] Chaque instructeur a convenu de suivre un document intitulé [TRADUCTION] « Énoncé de principes pour les instructeurs » établi par l’appelante. Le document contenait les rubriques ci‑dessous :
+[traduction]
+INTRODUCTION
+RÈGLEMENTS
+Préparation
+Participation
+Ponctualité
+Tâches à effectuer avant les cours
+Cours
+Présence
+Bulletins de rendement
+Tâches de patrouille
+Cours d’après-midi : (Ski junior)
+Politique sur les accidents
+Chaîne de communication
+Allocation pour frais
+Politique sur les déplacements
+Tenue vestimentaire
+Remonte-pente
+Conduite
+[8] La pièce R-1 est la liste des individus et des périodes pendant lesquelles ils ont travaillé auprès de l’appelante. De plus, l’appelante a renvoyé aux montants qu’elle payait aux travailleurs à titre d’allocations pour frais, comme l’énonce la pièce R‑3, reproduite ci‑dessous :
+[traduction]
+RR PLUS, RR MAX et SKI BOOMERS
+4 heures de cours par jour, participation à des séances de formation, tâches administratives (feuilles de présence, bulletins de rendement, etc.)
+Expérience
+Allocation de frais quotidienne
+Aide instructeur
+20 $
+Aucune expérience
+40 $
+1 année d’expérience
+45 $
+2 années d’expérience
+52 $
+3 années d’expérience
+55 $
+AMSC – ACMS, niveau II
+63 $
+AMSC – ACMS, niveau III
+65 $
+SKI JUNIOR
+3 h 30 min de cours, participation à des séances de formation, tâches administratives (feuilles de présence, bulletins de rendement, etc.)
+Expérience
+Allocation de frais quotidienne
+Aide instructeur
+20 $
+Aucune expérience
+40 $
+1 année d’expérience
+44 $
+2 années d’expérience
+50 $
+AMSC – ACMS, niveau II
+60 $
+[9] Il est important d’examiner tous les éléments pertinents, au‑delà des documents, pour bien comprendre la situation. Voici donc un court résumé des témoignages offerts par les témoins qui se sont présentés au nom de l’appelante et au nom de l’intimé.
+Témoins de l’appelante
+[10]Douglas Roy est une des âmes dirigeantes de la société appelante. Il a affirmé que ce que l’appelante payait aux travailleurs représentait un remboursement partiel des dépenses qu’ils avaient dû assumer, et non un salaire. Les travailleurs étaient davantage des bénévoles que des employés. Tous les travailleurs avaient un emploi à temps plein ailleurs ou étaient des étudiants universitaires à temps plein. La participation des travailleurs était d’abord motivée par leur passion du ski et non par l’argent. La plupart d’entre eux, sinon tous, perdaient de l’argent parce que les dépenses raisonnables qu’ils faisaient dépassaient les montants que l’appelante leur payait. Un bon nombre des travailleurs étaient des enseignants et avaient les compétences nécessaires pour communiquer avec les élèves de leurs classes de ski.
+[11]Stephen Southern travaillait comme superviseur auprès de l’appelante. Au cours d’une période de 20 ans, il a été tour à tour élève, instructeur et superviseur auprès de l’appelante. Il a affirmé qu’il a commencé à participer aux activités de l’appelante parce qu’il est [traduction] « un grand passionné de ski ‑ et aime travailler auprès des enfants […] ». Il a parlé du fait qu’il pouvait faire des descentes[2] gratuitement avant et après les cours. Il a répondu comme suit à une question :
+[traduction]
+Q. D’après vous, l’argent reçu de Rod Roy constituait‑il un salaire ou bien représentait‑il le remboursement de certaines des dépenses que vous aviez effectuées?
+R. O.K., si je regarde les dépenses générales faites un samedi, ça s’annule en fin de compte. Après avoir payé le plein d’essence, le repas du midi ou un café le matin et l’après-ski ou le souper en retournant à la maison, ça s’annule. Personnellement, je ne fais pas de ski ou je n’enseigne pas pour faire de l’argent. Je le fais parce que je suis un passionné de ce sport et j’adore le pratiquer. Je ne vois donc pas vraiment ça comme un salaire.
+[…]
+R. Je ne vois certainement pas ça comme un emploi.
+(Transcription, page 56 et 57)
+[12]David Superstein, un directeur d’école secondaire à la retraite, était un chauffeur en disponibilité. Il a décrit son poste en ces termes :
+[traduction]
+En tant que chauffeur en cas d’accident, je dois être sur place au centre de ski avant que l’autobus arrive. S’il y a un accident et que la personne blessée peut être transportée en voiture, c’est moi qui l’amène à l’hôpital et qui l’y accompagne.
+(Transcription, page 61)
+Il a ajouté que l’argent qu’il recevait de l’appelante servait à l’indemniser pour les dépenses qu’il avait faites pour acheter de l’essence et de la nourriture.
+[13]Glen Prunier est un ancien enseignant et il était directeur auprès de l’appelante. Il a expliqué que lui‑même et le père de Douglas Roy étaient amis et enseignants à l’école secondaire au début des années 1980. Il a poursuivi en ces termes :
+[traduction]
+R. […] Mes enfants étaient âgés de 5 ans et 3 ans et j’ai vu ceci comme une bonne occasion de les faire participer à un sport qui aurait autrement été très dispendieux et auquel ils n’auraient pas pu autrement participer. À ce moment‑là, je voyais ça comme donner un peu de mon temps pendant la fin de semaine afin que mes enfants et ma famille puissent faire du ski. Ma famille et moi avions tellement de plaisir que j’ai poursuivi mes activités auprès de l’école de ski à m’acquitter de différentes tâches, parfois à titre d’instructeur, parfois à titre de superviseur ou de directeur de section. Récemment, nous nous sommes parfois occupé de certains voyages, des voyages d’une fin de semaine, et ainsi de suite, et nous avons continué à le faire parce que nous aimons le ski. J’ai pris ma retraite en 2005 ou en 2006, je crois. Je ne suis plus certain. Notre association a duré très longtemps et nous avons eu beaucoup de plaisir.
+[…]
+R. Essentiellement, pendant les voyages, j’étais la personne qui coordonnait le travail des autres sur les pistes. Entre les voyages, j’étais chargé de rédiger un rapport sur les événements, de communiquer avec les travailleurs et les parents des élèves qui étaient les clients, de rédiger quelques notes pour veiller à ce que tout se passe bien en arrivant au centre de ski, de coordonner le transport par autobus, de veiller à ce qu’il y ait assez d’instructeurs ou de superviseurs d’autobus.
+(Transcription, pages 69 et 70)
+Il a aussi ajouté :
+[traduction]
+R. Je n’ai jamais considéré ceci comme un emploi, alors je n’ai jamais considéré l’argent comme un revenu. Chaque fois que j’assumais une nouvelle fonction à l’école de ski, je recevais effectivement plus d’argent, mais c’était seulement parce que j’effectuais plus de tâches. Je voyais ça comme ça. J’ai acheté un ordinateur, par exemple, et j’ai acheté un téléphone cellulaire et je payais la facture mensuelle pour le service de téléphone. Si l’école de ski devait m’indemniser pour ceci, à mon avis, ça me semblait juste. Je voyais ça comme un genre d’échange : mon temps et mon équipement contre certaines tâches que j’acceptais de faire. Comme j’ai dit, je ne voyais pas ça comme un emploi. Je n’ai jamais fait ce travail pour faire de l’argent. Là n’était pas le but. Je pense que je dépensais plus d’argent que je n’en faisais. Les choses que j’ai dû acheter ont coûté plus cher que ce que j’ai reçu. Alors non, ce n’était pas un salaire.
+[…]
+R. […] Je faisais ceci bénévolement, pour le plaisir. Comme je l’ai déjà dit, ce n’était pas un emploi, alors je ne vois pas comment on aurait pu me considérer comme un employé […]
+(Transcription, pages 74 et 75)
+[14]Edward Janiszewski a été le comptable de l’appelante pendant de nombreuses années. Il est actuellement maire de la municipalité de Dollard‑des‑Ormeaux. Dans son témoignage, il a affirmé que les profits de l’appelante venaient surtout du fait qu’elle agissait comme un type d’agent de voyages et qu’elle offrait des billets à prix réduit. Il a ajouté que ceux qui s’occupaient des enfants le faisaient :
+[traduction]
+[…] essentiellement en échange du remboursement d’une partie de leurs dépenses. Nous avons toujours examiné ces dépenses, qui étaient répertoriées dans des formulaires, et j’ai toujours trouvé qu’elles étaient nettement moins élevées que celles que mes sociétés clientes payaient à leurs employés. À mon avis, ces dépenses étaient tout à fait raisonnables en ce qui a trait à ce qui a été calculé et remboursé. Les remboursements étaient vraiment moins élevés que les dépenses. Des fonctionnaires de Revenu Canada avaient déjà mené une vérification et ils avaient jugé que les dépenses étaient raisonnables.
+[…]
+J’ai des amis dont les enfants ont participé aux activités de l’école de ski. C’était plus pour pouvoir aller faire du ski que pour faire de l’argent. Certaines de leurs dépenses étaient remboursées et ils s’amusaient avec les enfants. Ils pouvaient skier un peu seuls. Voilà ce qui, à mon avis, motivait la fille de mon ami. L’école de ski a toujours fonctionné de cette façon et a toujours eu beaucoup de succès.
+[…]
+[…] c’était toujours justifié par le remboursement partiel des dépenses. Du moins, on considérait que c’était une partie et non la totalité des dépenses. Cependant, un certain montant qui était facilement justifiable était remboursé.
+(Transcription, pages 79 et 80)
+Témoins de l’intimé
+[15]Dans son témoignage, Robert Kunanec a affirmé qu’il avait été associé à l’appelante de 1998 à 2004, inclusivement, à titre d’instructeur de ski. Il a affirmé que chaque année, les travailleurs qui revenaient remplissaient des formulaires et payaient entre 40 $ et 60 $ à l’appelante pour des séances de formation. De plus, il a dû payer le droit d’adhésion d’environ 100 $ à l’Alliance des moniteurs de ski du Canada. Il a payé 500 $, je crois, pour un cours de cinq jours et une certification de niveau 2. Il payait son propre transport pour se rendre au centre de ski et en revenir et a aussi payé 300 $ pour un habit de ski portant le logo de l’appelante. Dans son témoignage, il a décrit une journée typique :
+[traduction]
+R. Dans une journée typique, on arrivait au centre de ski un peu avant 8 h 30, on participait à une séance de formation en matinée et ensuite, on enseignait pendant environ quatre heures. Ensuite, il y avait quelques tâches administratives à faire. Le reste de la journée, on était libre de skier tant que les pistes étaient ouvertes.
+[…]
+R. Si le centre était équipé pour le ski de soirée, on pouvait rester sur place peut‑être trois ou quatre heures de plus. Sinon, on avait peut‑être une heure et demie après les cours.
+[…]
+R. L’école de ski payait le laissez-passer de ski pour la journée.
+(Transcription, page 92)
+[16]En 2004, il recevait environ 65 $ à 70 $ par jour. Il a expliqué que selon lui, il était un employé parce qu’il recevait de l’argent en échange de ses services. Il a souligné que l’argent qu’il recevait couvrait ses dépenses :
+[traduction]
+[…] mais à peine. On ne le faisait pas dans le but de gagner de l’argent. C’était plus pour la passion du ski.
+[17] Daniel Couture de la Division de la vérification de l’Agence du revenu du Canada (l’« ARC ») a témoigné en français. Au sujet de M. Roy, il a affirmé que c’était une bonne personne et qu’il n’avait jamais eu de problème dans ses entretiens avec lui. Il a ajouté ce qui suit :
+[traduction]
+R. Il nous a dit qu’en fait, les apprentis instructeurs recevaient un remboursement de dépenses de 20 $ par jour et que les instructeurs sans expérience recevaient 40 $. Un instructeur avec une année d’expérience recevait 45 $, avec deux années d’expérience, 52 $, avec trois années d’expérience, 55 $. Les instructeurs de niveau 2 recevaient 63 $, ceux de niveau 3, 65 $. Il y avait peut‑être aussi une différence si les instructeurs travaillaient exclusivement avec des enfants […]
+(Transcription, page 114)
+Il a affirmé qu’il a passé au moins deux semaines avec l’appelante. Sa vérification lui a permis de conclure que les montants payés aux travailleurs ne constituaient pas des remboursements de dépenses, mais représentaient plutôt des salaires, et que les employés pouvaient déduire certains montants s’ils remplissaient le formulaire T2200[3] et le produisaient avec leur déclaration de revenus.
+[18] Jean‑Pierre Houle était un agent des appels à l’ARC. Lorsqu’il en est arrivé à conclure que les travailleurs exerçaient un emploi assurable, M. Houle a tenu compte des trois critères énoncés dans le Code civil. D’abord, le Code civil prévoit qu’il doit y avoir une prestation de travail. M. Houle a conclu que ces personnes avaient effectivement accompli un travail. Ensuite, il doit y avoir une rémunération. Les instructeurs ont confirmé avoir reçu une rémunération et non le simple remboursement de leurs dépenses. Enfin, M. Houle a examiné le troisième critère qui, selon lui, était le plus important, soit le lien de subordination. Il a conclu qu’il y avait effectivement un lien de subordination. Il soutient que la pièce R‑2, intitulée [TRADUCTION] « Énoncé de principes pour les instructeurs », établie par l’appelante, était d’une grande importance parce qu’elle présentait clairement les attentes de l’appelante. Il s’agit du code de conduite que devaient suivre les instructeurs à la demande de l’appelante. M. Houle a tiré la même conclusion au sujet des superviseurs et des directeurs, qui étaient eux aussi des instructeurs, mais avec plus d’expérience et de tâches à accomplir.
+Analyse
+[19] À mon avis, l’avocat de l’intimé a correctement ciblé la question en litige. En l’espèce, il importe de savoir si les travailleurs participant aux activités de l’école de ski étaient des bénévoles ou bien des employés. Il s’est fondé principalement sur les arrêts 9041-6868 Québec inc. c. Canada[4] et D & J Driveway inc. c. Canada[5] et sur la décision Comité des personnes assistées sociales de Pointe St‑Charles c. Canada[6]. Il a cité les deux arrêts pour illustrer le principe selon lequel le critère à appliquer afin de déterminer si un emploi au Québec est un emploi en vertu d’un contrat de louage de services ou d’un contrat de service est le critère énoncé dans le Code civil et que c’est le Code civil qui régit les contrats conclus au Québec.
+[20]De plus, l’article 2085 du Code civil est rédigé en ces termes :
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+M. Houle a appliqué les critères sous-jacents à cet article et a conclu que les travailleurs : a) étaient rémunérés; b) étaient sous la direction d’une autre personne; c) étaient sous le contrôle d’une autre personne.
+[21]Dans l’arrêt D & J Driveway Inc., le juge Létourneau a affirmé ce qui suit :
+9 Un contrat de travail requiert l'existence d'un lien de subordination entre le payeur et les salariés. La notion de contrôle est le critère déterminant qui sert à mesurer la présence ou l'étendue de ce lien.
+[22]La question du caractère assurable d’un emploi a été l’objet de maintes décisions. En ce qui concerne l’emploi au Québec, certaines décisions sont exclusivement fondées sur l’article 2085 du Code civil. D’autres sont fondées en partie sur la common law et en partie sur le droit civil, et d’autres encore sont uniquement fondées sur les critères établis dans les arrêts Wiebe Door Services Ltd. c. M.R.N.[7] et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[8] Pour être certain de ne rien manquer, un juge de première instance doit tenir compte de tous ces éléments[9], malgré le fait que même si on conclut que la situation des travailleurs répondait aux critères établis dans le Code civil et dans l’arrêt Wiebe Door, cette conclusion est annulée par le fait que les travailleurs étaient des bénévoles. Pour les raisons énoncées ci‑dessous, je ne vois donc pas l’utilité d’appliquer ici ces critères.
+[23]En toute équité, l’avocat de l’intimé a cité la décision Comité. Les faits de cette affaire sont semblables aux faits de l’affaire en l’espèce, et la décision de la juge Lamarre Proulx s’applique également ici. Dans l’affaire Comité, l’appelante avait offert du travail à des bénéficiaires de l’aide sociale et leur versait une compensation qui était considérée comme un dédommagement pour les repas, les billets d’autobus et les vêtements. Dans sa décision, la juge Lamarre Proulx a affirmé ce qui suit :
+21 Les conditions de travail bénévole sont connues de la part de ceux qui acceptent d'être bénévoles. Normalement, les conditions de travail du bénévole, incluant sa supervision ne sont pas les mêmes que celles du travailleur salarié. Toutefois, un travailleur bénévole doit accepter certaines conditions de l'organisme pour lequel il offre ses services. Il doit être fiable et faire le travail qu'il a offert de faire, car autrement il n'est pas utile à l'organisme auprès duquel il agit à titre de bénévole. Il peut même arriver qu'un travailleur bénévole mette plus d'énergie à son travail qu'un travailleur salarié.
+22 Pour connaître la véritable nature d'une entente, il est important de se reporter à l'intention commune. Ici, elle n'est pas à prime abord claire. M. Tourigny procédait aux déductions requises par la Loi, sur les montants de 50 $ qu'il recevait chaque semaine, comme s'il s'était agi de salaire. Cela montre qu'il aurait voulu se considérer comme un employé. Par ailleurs, la présidente de l'appelante mentionne qu'elle n'était pas au courant de ces déductions et qu'elle ne les avait pas autorisées car il n'a jamais été de l'intention de l'appelante de passer un contrat d'emploi.
+23 […] Il savait pertinemment qu'au sein de l'appelante une entente de bénévolat ne pouvait être un contrat d'emploi. Il savait que l'appelante fonctionnait avec l'aide des bénévoles et que ces ententes prévoyaient la description des tâches, les heures et une légère compensation pour les frais que doit engager une personne qui travaille à l'extérieur.
+24 Je suis d'avis que, selon les circonstances de la présente affaire, l'intervenant savait que l'entente qui le liait avec l'appelante, était une entente relative à du travail bénévole et non pas à un travail d'employé et qu'ainsi la commune intention des parties était d'établir entre elles une entente de bénévolat et non un contrat d'emploi.
+[24]En l’espèce, il est clair que la plupart des travailleurs se voyaient comme des bénévoles et non comme des employés. Ils travaillaient pour le plaisir de le faire, sans rémunération, à l’exception du remboursement de certaines de leurs dépenses. Les faits en l’espèce portent davantage à conclure que les travailleurs étaient des bénévoles que les faits dont disposait la juge Lamarre Proulx dans une instance où le seul travailleur qui est venu témoigner se considérait comme un employé.
+[25]Je tiens compte de tous les éléments de preuve dont j’ai été saisi et je conclus que les travailleurs correspondent davantage à la définition de bénévoles qu’à celle d’employés. M. Houle a appliqué les critères établis à l’article 2085 du Code civil et a conclu que les travailleurs étaient des employés. Bien que les critères établis dans le Code civil et dans Wiebe Door peuvent porter à conclure qu’ils étaient des employés, je n’hésite aucunement à conclure qu’ils étaient des bénévoles. Leur situation était semblable à celle de bénévoles à qui on dit quand arriver au travail et quand quitter et à qui on paie le stationnement et les repas.
+[26]La position de l’intimé est essentiellement fondée sur la conclusion selon laquelle les travailleurs étaient payés pour les services rendus. Toutefois, cette conclusion est annulée par ma conclusion de fait selon laquelle les travailleurs n’étaient pas payés pour les services rendus, mais plutôt seulement indemnisés pour les dépenses qu’ils payaient de leur poche. Comme dans la décision Comité, les travailleurs suivaient les conditions précises de l’organisation. Une organisation qui compte sur le travail de bénévoles, comme un hôpital, a tout de même une structure à suivre, et les travailleurs ne sont pas moins des bénévoles si leurs frais de stationnement, de repas et autres leur sont remboursés. Le fait que l’organisation dans la décision Comité était une organisation sans but lucratif ne change en rien les ressemblances entre cette instance‑là et l’appel en l’espèce, comme l’a affirmé l’avocat de l’intimé. Il faut établir la nature du lien entre les deux parties. La question de savoir si l’organisation est à but lucratif ou non n’a rien à voir avec la question dont je suis saisi.
+[27]Comme c’est le cas de la plupart des bénévoles, les travailleurs en l’espèce trouvaient que leur travail était satisfaisant et valorisant. Ils aimaient enseigner aux skieurs, tant aux jeunes qu’aux plus âgés, même si la plupart des élèves étaient des enfants. Le seul témoin de l’intimé qui ne se considérait peut‑être pas comme un bénévole est Robert Kunanec, même s’il n’était pas catégorique d’une façon ou d’une autre. En réponse à la question de l’intimé à savoir s’il était un bénévole ou un entrepreneur indépendant auprès de l’école Rod Roy, il a répondu en ces termes :
+[traduction]
+Je pense que j’étais un employé, parce que je recevais de l’argent pour mes services. Cependant, je peux dire qu’au départ, quand j’ai commencé à travailler, je me considérais plus typiquement comme un bénévole.
+Il a ajouté qu’il pensait que les montants qui lui étaient payés couvraient ses dépenses, mais il a affirmé ce qui suit :
+[traduction]
+Je crois qu’ils les couvraient, mais à peine. On ne le faisait pas dans le but de gagner de l’argent. C’était plus pour la passion du ski.
+Quoi qu’il en soit, c’est au juge de première instance d’établir quel était son statut.
+[28]Le dictionnaire Canadian Oxford Dictionary (édition 1998) définit « volunteer » (« bénévole ») en ces termes :
+[traduction]
+personne qui participe volontairement à une activité ou qui offre gracieusement d’accomplir une tâche;
+personne qui travaille pour une organisation sans obligation et gratuitement […]
+Cette définition s’applique à l’appel en l’espèce, étant donné que les travailleurs se sont portés volontaires pour participer aux activités de l’appelante, et ce, gratuitement, à l’exception des dépenses.
+[29]Les parties conviennent que tous les travailleurs doivent être considérés de la même façon, sans égard à leur titre, qu’il s’agisse d’un instructeur, d’un chauffeur, d’un directeur ou d’un superviseur. L’intimé a accordé beaucoup d’importance au fait que l’appelante [traduction] « avait un revenu d’entreprise annuel d’environ 600 000 $ à 700 000 $ ». Je ne vois pas dans quelle mesure ceci est important. Quoi qu’il en soit, ces montants sont trompeurs parce qu’ils représentent les revenus bruts. Nous ne savons pas si l’appelante a tiré un profit ou a subi des pertes, même si cette question n’a aucune incidence sur l’appel.
+[30]L’avocat de l’intimé a souligné que l’appelante n’a appelé aucun des travailleurs concernés à témoigner. J’accepte l’explication que m’a fournie M. Roy :
+[traduction]
+[…] nous avons choisi au hasard des personnes qui avaient reçu des T4 parce que je ne crois pas qu’il y ait une énorme différence entre n’importe quelle de ces 10 personnes et n’importe quelle autre parmi les 90 autres personnes qui ont reçu un T4. À notre avis, elles sont toutes pareilles. Nous avons peut-être eu tort de penser ainsi, mais si la Cour le souhaite, nous pouvons présenter les T4 qui ont été envoyés. Vous y trouverez le nom des 10 personnes qui sont nommées dans la pièce R‑1 ainsi que le nom des personnes qui sont venues témoigner aujourd’hui. À notre avis, ces personnes sont toutes aussi concernées que ces 10 autres personnes. C’est pourquoi nous avons appelé ces personnes‑là à témoigner.
+(Transcription, pages 166 et 171)
+Conclusion
+[31]Je conclus donc que l’appelante n’a pas fait les retenues qui sont normalement faites lorsqu’il existe un lien employeur‑employé parce que tant l’appelante que les travailleurs avaient l’intention d’entretenir une relation organisateur‑bénévole. De plus, les parties avaient conclu une entente de bénévolat et non un contrat de travail. L’argent payé aux travailleurs représentait seulement le remboursement des dépenses qu’ils payaient de leur poche. Les travailleurs participaient gratuitement aux activités de l’appelante. Le lien entre les parties fait l’affaire de toutes les personnes concernées depuis plus de 25 ans.
+[32]L’appel est accueilli et la décision du ministre est annulée en partant du principe que les travailleurs étaient des bénévoles et qu’ils n’exerçaient pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2008.
+« C.H. McArthur »
+Juge McArthur
+ANNEXE « A »
+Hypothèses énoncées dans la réponse à l’avis d’appel
+[traduction]
+5. […]
+a) l’appelante a été constituée en société le 10 juin 1969;
+b) l’appelante offrait à ses clients des voyages à divers centres de ski du Québec ainsi que des cours de ski;
+c) les voyages aux centres de ski duraient entre un et huit jours;
+d) l’appelante avait un revenu d’entreprise annuel d’environ 600 000 $ à 700 000 $;
+e) l’appelante embauchait des instructeurs, des superviseurs et des directeurs pour la saison de ski;
+f) les instructeurs devaient signer l’« Entente des instructeurs » de l’appelante au début de la saison;
+g) les instructeurs étaient chargés de donner des cours de ski aux clients de l’appelante;
+h) les instructeurs devaient enseigner la technique de ski propre à l’appelante;
+i) les instructeurs donnaient des cours de deux heures le matin et de deux heures en après‑midi;
+j) les instructeurs devaient suivre les directives des superviseurs et des directeurs de l’appelante;
+k) les instructeurs recevaient des directives de l’appelante quant au centre de ski ou ils devaient travailler;
+l) les instructeurs avaient reçu des lignes directrices (« Énoncé de principes pour les instructeurs ») de l’appelante concernant les cours, les rapports à rendre et la politique sur les accidents;
+m) tous les instructeurs recevaient un salaire fixe de 65 $ par jour, montant désigné comme une « allocation pour frais » dans l’« Entente des instructeurs »;
+n) les instructeurs recevaient un montant fixe de l’appelante, peu importe leurs dépenses réelles;
+o) l’appelante payait les frais de remonte‑pente pour les instructeurs;
+p) les instructeurs devaient aviser l’appelante en cas d’absence;
+q) l’appelante avait une police d’assurance couvrant la responsabilité civile des instructeurs;
+r) le travail des instructeurs était encadré par les superviseurs de l’appelante;
+s) les instructeurs devaient porter l’habit de ski logo de l’appelante;
+t) les instructeurs travaillaient avec les clients de l’appelante;
+u) l’appelante avait un droit de congédiement concernant les instructeurs, suivant l’« Entente des instructeurs »;
+v) les instructeurs pensaient qu’ils étaient des employés de l’appelante;
+Robert Sénécal et Jesse Rubenovitch (les superviseurs)
+w) les superviseurs devaient signer l’« Entente des instructeurs » de l’appelante au début de la saison;
+x) les superviseurs étaient chargés d’organiser le cours de ski, de classer les élèves au bon niveau, de donner des séances de formation quotidiennes aux instructeurs, d’évaluer le travail des instructeurs et de remplacer les instructeurs absents;
+y) les superviseurs devaient enseigner la technique de ski propre à l’appelante;
+z) les superviseurs communiquaient quotidiennement avec l’appelante ou avec les directeurs de l’appelante;
+aa) les superviseurs devaient suivre les directives des directeurs de l’appelante;
+bb) les superviseurs recevaient des directives de l’appelante quant au centre de ski où ils devaient travailler;
+cc) les superviseurs avaient reçu des lignes directrices (« Énoncé de principes pour les instructeurs ») de l’appelante concernant les cours, les rapports à rendre et la politique sur les accidents;
+dd) tous les superviseurs recevaient un salaire fixe de 105 $ par jour, montant désigné comme une « allocation pour frais » dans l’« Entente des instructeurs »;
+ee) les superviseurs recevaient un montant fixe de l’appelante, peu importe leurs dépenses réelles;
+ff) l’appelante payait les frais de remonte‑pente pour les superviseurs;
+gg) les superviseurs devaient aviser l’appelante en cas d’absence;
+hh) l’appelante avait une police d’assurance couvrant la responsabilité civile des superviseurs;
+ii) le travail des superviseurs était encadré par les directeurs de l’appelante;
+jj) les superviseurs devaient porter l’habit de ski de l’appelante;
+kk) les superviseurs travaillaient avec les clients de l’appelante;
+ll) l’appelante avait un droit de congédiement concernant les superviseurs, suivant l’« Entente des instructeurs »;
+mm) les superviseurs ne savaient pas s’ils étaient des employés de l’appelante;
+Don Hirsch et Marie Rennie (les directeurs)
+nn) les directeurs avaient conclu des ententes verbales avec l’appelante;
+oo) les directeurs avaient reçu de l’appelante des lignes directrices écrites (« Le chemin critique pour les directeurs de section »);
+pp) les directeurs étaient embauchés en septembre;
+qq) les directeurs communiquaient régulièrement avec l’appelante de septembre à avril;
+rr) les directeurs recevaient des directives de l’appelante quant au à centre de ski où ils devaient travailler;
+ss) les directeurs encadraient le travail des superviseurs et des instructeurs au centre de ski;
+tt) les directeurs devaient suivre les directives de l’appelante;
+uu) l’appelante payait les frais de remonte‑pente pour les directeurs;
+vv) les directeurs recevaient à la fin de la saison un montant désigné comme une allocation pour les déplacements, les pourboires aux chauffeurs d’autobus, les repas, le téléphone, le téléphone cellulaire, les fournitures de bureau, l’ordinateur, le service Internet, les cartouches d’encre, les réunions, l’uniforme, l’équipement, les frais de représentation et autres dépenses;
+ww) Don Hirsch a reçu 3 078 $ de l’appelante pendant la période en cause;
+xx) Marie Rennie a reçu 4 284 $ de l’appelante pendant la période en cause;
+yy) les directeurs devaient aviser l’appelante en cas d’absence;
+zz) l’appelante avait une police d’assurance couvrant la responsabilité civile des directeurs;
+aaa) les directeurs devaient porter l’habit de ski de l’appelante;
+bbb) les directeurs travaillaient avec les clients de l’appelante;
+ccc) les directeurs ne pensaient pas être des employés de l’appelante.
+RÉFÉRENCE : 2008 CCI 600
+No DE DOSSIER : 2007-2603(EI)
+INTITULÉ : ROD ROY SKI SCHOOLS LTD. et
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 16 mai 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 14 novembre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Douglas Roy
+Avocat de l’intimé :
+Me Simon-Nicolas Crepin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Douglas Roy est un des trois membres de la même famille qui sont les âmes dirigeantes de l’appelante.
+[2] Son laissez-passer de remonte-pente lui était fourni par l’appelante.
+[3] Pièce R‑7 – un formulaire T2200 rempli et signé par l’appelante.
+[4] 2005 CAF 334.
+[5] 2003 CAF 453.
+[6] 2004 CCI 55.
+[7] no A-531-85, 18 juin 1986 (C.A.F.).
+[8] [2001] 2 R.C.S. 983.
+[9] Combined Insurance Co. of America c. Canada, 2007 CAF 60.

@@ -1,0 +1,190 @@
+---
+title: "Di Mauro v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521314/index.do"
+last_modified: "2024-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 111"
+citation2: ""
+neutral_citation: "2024 TCC 111"
+decision_date: "2024-08-23"
+language: "en"
+item_id: "521314"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5723
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-09-08T10:18:19.806000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bab813ea9b960081c19c9cd62e0746aa0cad8d24d074b6cc2d238c8060d29d30"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Di Mauro v. The King
+
+- Citation: 2024 TCC 111
+- Decision date: 2024-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5723, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Mauro v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-23
+Neutral citation
+2024 TCC 111
+File numbers
+2012-3399(IT)I, 2012-4035(IT)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-4035(IT)G
+2012-3399(IT)I
+BETWEEN:
+ALEXANDER DI MAURO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 9, 2023, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter Swanstrom
+JUDGMENT
+The appeals are allowed only to the extent conceded by the respondent, as follows:
+1. With respect to the 2006 taxation year, the subsection 163(2) penalty is deleted.
+2. With respect to the 2007 taxation year, the subsection 163(2) penalty shall be recalculated based on the reported net loss of $12,782.39.
+3. Given the substantial success of the respondent, the respondent is entitled to costs.
+4. The parties shall have until November 15, 2024 to reach an agreement as to costs, failing which the respondent shall file written submissions by January 31, 2025, and the appellant shall file a written response by March 3, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 23rd day of August 2024.
+“Susan Wong”
+Wong J.
+Citation: 2024TCC111
+Date: 20240823
+Dockets: 2012-4035(IT)G
+2012-3399(IT)I
+BETWEEN:
+ALEXANDER DI MAURO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction/Overview
+[1] The appellant reported fictitious losses in filing his returns for 2006, 2007, and 2008. He also asked the Minister of National Revenue to adjust his 1998 return to claim a similar fictitious loss.
+[2] The Minister disallowed the claimed losses and assessed gross negligence penalties for each year.
+Procedural history
+[3] These related matters have a lengthy procedural history including two appeals of interlocutory orders to the Federal Court of Appeal. One of these Tax Court orders directed that the appellant’s notices of appeal, fresh notices of appeal, and further fresh notices of appeal be struck without leave to amend.
+[4] On September 29, 2015, the Federal Court of Appeal ordered that these appeals be reinstated but only with respect to the issue of subsection 163(2) penalties.
+Preliminary matters
+[5] At the commencement of hearing, the respondent informed the Court that:
+a. with respect to 2006, the respondent concedes the penalty issue for that year, i.e. the gross negligence penalty should be deleted; and
+b. with respect to 2007, the penalty should be recalculated based on the reported net loss of $12,782.39 rather than the claimed business expense of $55,000[1], i.e. the gross negligence penalty should be reduced.
+Issues
+[6] The remaining issues are whether the appellant was grossly negligent in:
+a. claiming business losses in his returns for the 2007 and 2008 taxation years; and
+b. claiming a business loss in a 2008 T1 adjustment request for the 1998 taxation year.
+Legislative framework
+[7] Subsection 163(2) of the Income Tax Act says that:
+163. (2) False statements or omissions – Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty…
+[8] Gross negligence involves greater neglect than a failure to use reasonable care. It is a high degree of negligence tantamount to intentional acting, i.e. an indifference as to whether the law is complied with or not.[2]
+[9] Wilful blindness can be a circumstance amounting to gross negligence. If a taxpayer is wilfully blind by deliberately disregarding the truth and accuracy of the statements in their return, they are also grossly negligent.[3] In other words, if the wilfully blind taxpayer knew better, the grossly negligent taxpayer should have known better.[4] A taxpayer can be grossly negligent without being wilfully blind.[5]
+Factual background
+[10] In the statement of business activities for his 2007 return, the appellant described his business name as Alexander Di Mauro and his main product or service as “agent in commerce”. He stated that his business income consisted of “receipts collected as agent” totalling $42,217.61 and his business expenses consisted of “subcontracts” totalling $55,000, with the difference being the disallowed loss of $12,782.39.[6]
+[11] Rather than completing a statement of business activities for his 2008 return, he provided a “statement of agent activities” showing his business name to be Alexander Di Mauro and his business service to be “agent”. He stated that his gross receipts consisted of “money collected as agent for principal” totalling $26,060.60 and his expenses consisted of “subcontracts and labour” totalling $22,710.60, with the difference being a gross profit of $3,350.00. He then subtracted all the income reported on various T‑slips to arrive at the disallowed business loss of $20,556.31. He then signed the statement as “principal for the agent”.[7]
+[12] At the end of 2008, the appellant filed a T1 adjustment request for the 1998 taxation year and attached a “statement of agent activities” similar to the one filed for 2008. He stated that his gross receipts consisted of “money collected as agent for principal” totalling $48,000 and his expenses consisted of “subcontracts and direct wage costs” totalling $43,000, with the difference being a gross profit of $5,000. He then subtracted all the income reported on various T‑slips to arrive at the disallowed business loss of $40,000.[8]
+[13] In 2007 and 2008, the appellant received T4 employment income and T4A commission income from various sources, including Canada Protection Plan, American Income Life, Lifetime Water Systems Inc., PWM Capital, Investors Alliance Corporation, and Memorial Gardens Canada Limited.[9] The appellant testified that he worked as an insurance agent, among other things.
+[14] He stated that he met Lawrence (Larry) Watts when they worked together at PWM Capital. He also knew Mr. Watts as the founder of Fiscal Arbitrators, which prepared and/or counselled the preparation of returns for paying clients on the promise of large tax refunds. Fiscal Arbitrators’ approach to tax filing included making false statements on returns and Mr. Watts was criminally convicted and incarcerated for fraud.
+[15] The appellant stated that he shared an office with Fiscal Arbitrators and researched the concepts promoted on the Warman Detax website. At first, he stated that he did this research for himself; however, he was reminded in cross‑examination that during examinations for discovery, he said the research was done for Fiscal Arbitrators.
+[16] He also testified that he had no contact with Fiscal Arbitrators’ clients. However, he was reminded in cross‑examination of instances where he communicated by email with Fiscal Arbitrators’ clients.[10] In addition, the appellant’s name and email address were given as a point of contact for clients wishing to forward their Fiscal Arbitrators’ application package and payment.[11] The appellant also appeared in this Court in 2013 at the hearing of a motion in Mr. Watts’ Tax Court appeal, and sought leave to act as Mr. Watts’ representative.[12]
+[17] The appellant explained some aspects of the Fiscal Arbitrators approach to tax filing during the hearing. For example, he stated that a person is a legal construct who works by providing services to a human being. He also explained that everyone is in business because everyone operates from a profit motive. He stated that even though he was retired, he still had a business because anything he does is a business. He explained that as a result, he is an agent in commerce because any undertaking whatever meets the definition of “business”. He also testified that section 4 of the Income Tax Act appears to be of unknown significance because the section is apparently omitted from some tables of contents.
+[18] He testified that he tried to withdraw from his filing position in about 2009 but then decided to keep going with it when it became clear that Canada Revenue Agency still intended to penalize him. To that end, he wrote a series of letters to CRA in late 2009 and 2010 which used Fiscal Arbitrators’ communications approach, i.e. use of the phrase “notice to principal is notice to agent and notice to agent is notice to principal”, describing Alexander Di Mauro as a fictional entity, using the term “per” before his signature because he was signing on behalf of the fictional entity Alexander Di Mauro, and so on.[13]
+[19] He acknowledged that he overstated his income and expenses, and described the Detax theories as nonsense. He stated that he did not know why he filed as he did, and that he regretted doing so because his income was sufficiently low that he did not have to go to this extent.
+Analysis and discussion
+[20] I found the appellant to be a credible person in expressing regret for having filed the way he did. Unfortunately, gross negligence focuses on the circumstances surrounding the false statement or omission rather than the taxpayer’s subsequent regret after seeing things with greater clarity.
+[21] The appellant had a high level of familiarity with and understanding of the Fiscal Arbitrators’ approach to taxation because he worked with its founder Mr. Watts. The appellant communicated with clients about the program from their initial application and payment, through to their Tax Court appeals.[14]
+[22] He used the Fiscal Arbitrators approach to taxation to claim fictitious losses for 2007 and 2008, plus attempt to claim a fictitious loss for 1998. When CRA advised several times in 2010 that it did not consider his use of the Fiscal Arbitrators approach to taxation and/or Detax concepts to support his claimed losses,[15] he responded using the non‑responsive, circular language of the Detax movement that is meant to obfuscate and confound.[16]
+[23] In claiming fictitious losses in his 2007 and 2008 returns, as well as in submitting a T1 adjustment request to claim a fictitious loss for 1998, the appellant made a false statement in respect to each of those years. The surrounding circumstances and conduct demonstrate an indifference as to whether the law is complied with or not,[17] or a deliberate preference not to comply. The conduct also demonstrates wilful blindness in its deliberate disregard of the truth and accuracy of the statements made in his returns.[18] In other words, the appellant was both wilfully blind in that he knew better, and grossly negligent in that he should have known better.[19]
+Conclusion
+[24] The appeals are allowed only to the extent conceded by the respondent, as follows:
+a. with respect to the 2006 taxation year, the subsection 163(2) penalty is deleted; and
+b. with respect to the 2007 taxation year, the subsection 163(2) penalty shall be recalculated based on the reported net loss of $12,782.39.
+[25] Given the substantial success of the respondent, the respondent is entitled to costs.
+[26] The parties shall have until November 15, 2024 to reach an agreement as to costs, failing which the respondent shall file written submissions by January 31, 2025, and the appellant shall file a written response by March 3, 2025. Any such submissions shall not exceed ten pages in length.
+[27] If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 23rd day of August 2024.
+“Susan Wong”
+Wong J.
+CITATION:
+2024TCC111
+COURT FILE NOS.:
+2012-4035(IT)G
+2012-3399(IT)I
+STYLE OF CAUSE:
+ALEXANDER DI MAURO v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 9, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+August 23, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter Swanstrom
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Reply in 2012-4035(IT)G at paragraph 6
+[2] Venne v. Her Majesty the Queen, 84 DTC 6247 (FC) at paragraph 37; Khanna v. Canada, 2022 FCA 84 at paragraph 7
+[3] Wynter v. Canada, 2017 FCA 195 at paragraph 20
+[4] Wynter v. Canada, 2017 FCA 195 at paragraph 18
+[5] Wynter v. Canada, 2017 FCA 195 at paragraph 20
+[6] Exhibit R-1, Tab 18
+[7] Exhibit R-1, Tab 34
+[8] Exhibit R-1, Tab 3
+[9] Exhibit R-1 , Tabs 18 and 34
+[10] Exhibit R-2, Tabs 1 and 2
+[11] Exhibit R-2, Tab 3
+[12] Exhibit R-2, Tab 6
+[13] Exhibit R-1, Tabs 6, 11, 12, 20, 22, 27, and 36
+[14] Exhibit R-2, Tabs 1 to 3
+[15] Exhibit R-1, Tabs 13, 21, 23, 37, and 38
+[16] Exhibit R-1, Tabs 6, 11, 12, 20, 22, 27, and 36
+[17] Venne v. Her Majesty the Queen, 84 DTC 6247 (FC) at paragraph 37; Khanna v. Canada, 2022 FCA 84 at paragraph 7
+[18] Wynter v. Canada, 2017 FCA 195 at paragraph 20
+[19] Wynter v. Canada, 2017 FCA 195 at paragraph 18

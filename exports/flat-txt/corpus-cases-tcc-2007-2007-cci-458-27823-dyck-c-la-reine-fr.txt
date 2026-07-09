@@ -1,0 +1,166 @@
+Title: Dyck c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27823/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-458-27823-dyck-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-08-08
+
+# Dyck c. La Reine
+
+- Citation: 2007 CCI 458
+- Decision date: 2007-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 363, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dyck c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-08
+Référence neutre
+2007 CCI 458
+Numéro de dossier
+2005-123(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-123(IT)G
+ENTRE :
+ED DYCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Lori Dyck,
+2005-124(IT)G, le 16 octobre 2006, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me David Christian
+Avocate de l’intimée :
+Me Susan Wong
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 1997 est rejeté.
+Sur consentement des parties, l’appel de la nouvelle cotisation établie en vertu de la Loi à l’égard de l’année d’imposition 1998 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelant avait un gain en capital imposable de 37 504,18 $.
+L’intimée a droit à un seul mémoire de frais relativement aux présents appels et aux appels 2007-124(IT)G.
+Signé à Ottawa, Canada, ce 8e jour d’août 2007.
+E.A. Bowie
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour d’août 2007.
+Johanne Brassard, trad. a.
+Dossier : 2005-124(IT)G
+ENTRE :
+LORI DYCK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels d’Ed Dyck,
+2005-123(IT)G, le 16 octobre 2006, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me David Christian
+Avocate de l’intimée :
+Me Susan Wong
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 1997 est rejeté.
+Sur consentement des parties, l’appel de la nouvelle cotisation établie en vertu de la Loi à l’égard de l’année d’imposition 1998 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l’appelante avait un gain en capital imposable de 37 504,18 $.
+L’intimée a droit à un seul mémoire de frais relativement aux présents appels et aux appels 2007-123(IT)G.
+Signé à Ottawa, Canada, ce 8e jour d’août 2007.
+E.A. Bowie
+Juge Bowie
+Traduction certifiée conforme
+ce 29e jour d’août 2007
+Johanne Brassard, trad. a.
+Référence : 2007CCI458
+Date : 20070808
+Dossiers : 2005-123(IT)G
+2005-124(IT)G
+ENTRE :
+ED DYCK et LORI DYCK,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les appels interjetés par les deux appelants à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») ont été entendus ensemble sur preuve commune. Dans chaque cas, le ministre du Revenu national a établi une nouvelle cotisation d’impôt sur le revenu pour 1997 afin d’inclure au titre des revenus un avantage aux actionnaires prévu au paragraphe 15(1) de la Loi dont le montant se chiffrait à 48 107 $, et une nouvelle cotisation pour 1998 afin d’inclure un gain en capital imposable au montant de 67 496 $ relativement à la disposition d’une station‑service dont les appelants étaient copropriétaires. Les appelants étaient d’avis que le montant exact du gain en capital imposable était de 38 906 $. Au procès, les avocats m’ont avisé que les parties convenaient maintenant que le montant du gain en capital imposable devant être attribué à chacun des contribuables s’établissait à 37 504,18 $. Les appels interjetés à l’égard de l’année d’imposition 1998 seront accueillis et les nouvelles cotisations seront renvoyées au ministre pour qu’il procède à l’établissement de nouvelles cotisations en tenant compte de ce montant.
+[2] Il reste la question relative à la cotisation visant l’avantage aux actionnaires pour chacun des appelants. Les appelants sont mari et femme. Ed Dyck a travaillé la majeure partie de sa vie dans le secteur de la vente d’essence au détail, d’abord comme employé et plus tard comme propriétaire et exploitant de stations‑service. Au début des années 1970, il avait bâti une entreprise très florissante et il a décidé que le temps était venu de la constituer en société, ce qu’il a d’ailleurs fait sous la raison sociale Ed Dyck Ltd. (« ED »). Lui et Lori Dyck détenaient chacun 50 p. 100 des actions. L’entreprise a continué de prospérer et, en 1991, une importante société pétrolière a acheté ses actifs et Ed Dyck a pris sa retraite. Celle‑ci s’est révélée être de courte durée, et Ed Dyck est vite revenu exploiter une autre station‑service.
+[3] La question qui se pose dans ces appels concerne l’actif d’ED après la vente de la station‑service. Pendant un certain temps, les appelants détenaient trois comptes de placement auprès de la firme de courtage Nesbitt Burns : un compte de REER pour chacun et un compte conjoint, portant le numéro 805-17361, à leurs deux noms. À la suite de la vente de l’entreprise en 1991, les Dyck ont fermé le compte bancaire d’ED et viré tous les fonds dans un compte de placement, portant le numéro 845‑01468, auprès de Nesbitt Burns.
+[4] Au début de 1997, le comptable d’alors de M. Dyck a informé celui-ci qu’il aurait tout intérêt à regrouper le compte conjoint personnel et le compte d’ED en un seul compte de placement susceptible d’offrir un meilleur rendement sur les fonds combinés. M. Dyck a demandé à son courtier, M. Young, de procéder à ce regroupement. M. Young a considéré les conséquences fiscales de l’opération et a conseillé à M. Dyck de ne pas regrouper les comptes mais, finalement, M. Dyck, pour des motifs qui n’ont jamais été éclaircis devant moi, a préféré s’en tenir à l’avis du comptable et il a insisté pour que M. Young transfère le solde du compte 845-01468 au compte 805-17361. C’est d’ailleurs ce que ce dernier a fait non sans hésitation le 19 février 1997. Le montant du solde s’établissait à 96 245,02 $. M. Dyck n’a donné à M. Young aucune instruction particulière quant au placement de ces fonds, outre le fait qu’ils devaient être ajoutés au solde du compte conjoint.
+[5] Au cours des premiers mois de l’an 2000, le comptable, peut‑être après avoir constaté les conséquences de son avis antérieur, a avisé M. Dyck qu’il serait sage d’annuler le regroupement des comptes. M. Dyck a donc donné des instructions à cet effet à M. Young, qui était heureux d’acquiescer à cette demande en ouvrant un nouveau compte au nom d’ED. Malheureusement, la copie du document se rapportant à ce compte qui a été produite en preuve est totalement illisible, mais il n’est pas contesté que ce nouveau compte a été ouvert le 29 mars 2000 et que des fonds y ont été transférés depuis le compte 805-17361 de manière à rétablir le statu quo antérieur. Les appelants n’ont fait aucun retrait du compte de placement conjoint entre la date du virement initial effectué dans ce compte et celle du virement rétablissant le solde auparavant inscrit dans le compte d’ED. M. Dyck tirait de sa dernière entreprise un revenu suffisant pour satisfaire à ses besoins et à ceux de son épouse, et les fonds déposés dans les comptes de placement s’accumulaient simplement en vue de leur retraite.
+[6] Suivant les nouvelles cotisations portées en appel, le ministre a traité le virement des fonds du compte d’ED au compte conjoint des deux appelants comme un virement de fonds à leur intention qui serait visé par le paragraphe 15(1) de la Loi. Cette disposition est rédigé comme suit :
+15(1) La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l’actionnaire pour l’année — sauf dans la mesure où cette valeur est réputée par l’article 84 constituer un dividende — si cet avantage est conféré autrement que :
+a) par la réduction du capital versé, le rachat, l’annulation ou l’acquisition, par la société, d’actions de son capital‑actions ou à l’occasion de la liquidation, cessation ou réorganisation de son entreprise, ou par une opération à laquelle l’article 88 s’applique;
+b) par le paiement d’un dividende ou d’un dividende en actions;
+c) par l’octroi à tous les propriétaires d’actions ordinaires du capital‑actions de la société à ce moment d’un droit, relatif à chaque action ordinaire et identique à chacun des autres droits conférés à ce moment relativement à chacune des autres semblables actions, d’acquérir d’autres actions du capital‑actions de la société; pour l’application du présent alinéa :
+(i) les actions ordinaires d’une catégorie donnée du capital‑actions d’une société sont réputées être identiques aux actions ordinaires d’une autre catégorie du capital‑actions de la société dans le cas où, à la fois :
+(A) les droits de vote rattachés à la catégorie donnée d’actions diffèrent de ceux rattachés l’autre catégorie d’actions,
+(B) les modalités des catégories d’actions ne présentent pas d’autres différences qui pourraient donner lieu à un important écart entre la juste valeur marchande d’une action de la catégorie donnée et la juste valeur marchande d’une action de l’autre catégorie,
+(ii) des droits ne sont pas considérés comme identiques si leur coût d’acquisition diffère;
+d) par une opération visée à l’alinéa 84(1)c.1), c.2) ou c.3).
+Le ministre s’appuie sur les passages en caractères gras pour justifier les cotisations.
+[7] Aux paragraphes 10 et 11 de leur avis d’appel, les appelants font valoir ce qui suit :
+[traduction]
+10. Il a été déterminé en 1997 que, pour permettre à toutes les parties de tirer un rendement maximal, les fonds du compte de la société devaient être regroupés avec ceux du compte conjoint personnel de l’appelant et de son épouse, à savoir le compte numéro 805‑17361 (le « compte conjoint »).
+11. L’appelant et son épouse ont conclu une entente avec la société suivant laquelle il a été convenu que 98 215 $ des fonds du compte de la société seraient regroupés avec les fonds du compte conjoint et que l’appelant et son épouse agiraient à titre de simples fiduciaires en ce qui concerne les fonds virés dans le compte conjoint depuis le compte de la société.
+Rien dans la preuve présentée devant la Cour ne saurait être invoqué à l’appui de la théorie avancée dans ces paragraphes et je n’en dirai donc pas plus à ce sujet.
+[8] L’avocat des appelants a allégué que je ne devais pas conclure qu’un avantage a été conféré aux appelants par le virement effectué le 19 février 1997, parce qu’ils n’ont retiré ou autrement utilisé aucun montant du compte conjoint et que, par conséquent, ils n’ont tiré aucun avantage de l’accroissement du solde. À l’appui de cet argument, il invoque les décisions rendues dans Franklin v. The Queen[1], Wagar v. The Queen[2], Poushinsky c. La Reine[3], Chopp v. The Queen[4], 9100‑2402 Québec Inc. c. La Reine[5] et The Queen v. Robinson[6]. Chopp illustre une catégorie d’affaires pouvant être décrites comme des cas d’erreur comptable. Dans ces cas, en règle générale, une personne qui ne comprend pas très bien l’opération à enregistrer effectue l’écriture comptable et il en résulte que les documents comptables ne reflètent pas bien l’opération. Généralement, l’erreur donne lieu à une augmentation du solde du compte de prêt de l’actionnaire, parce que la personne chargée des écritures comptables a présumé à tort que c’est ce qui était voulu. Il est évident que, en pareils cas, l’actionnaire a le droit d’obtenir qu’une écriture de correction soit passée pour rétablir le solde du compte de prêt à ce qu’il aurait été si l’écriture erronée n’avait jamais été faite. Les décisions Wagar, 9100-2402 Québec Inc., Robinson et, bien entendu, Chopp sont toutes des affaires de cette catégorie. Dans son argumentation, M. Christian a expliqué clairement qu’il ne s’appuyait pas sur le principe élaboré dans Chopp parce que rien dans la preuve en l’espèce ne permettait de soutenir pareil argument.
+[9] Dans Wagar, la Cour a conclu que les écritures comptables erronées avaient eu pour effet de gonfler le solde créditeur du compte de prêt de l’un des deux actionnaires, absolument sans aucune complicité de l’actionnaire. Le juge, si je comprends bien, a appliqué le principe de Chopp pour conclure qu’aucun avantage n’avait été conféré à l’actionnaire. Dans ses motifs, toutefois, il semblait s’appuyer non seulement sur l’erreur comptable mais aussi sur le fait que l’actionnaire n’avait jamais retiré les fonds en question. Il a dit à propos du solde du compte de prêt :
+[TRADUCTION]
+Il y a eu une écriture comptable et il n’en a jamais retiré un montant jusqu’à ce jour.
+[…]
+Il s’agissait simplement d’entrées comptables qui ne disaient rien aux Wagar.
+[10] Deux ans plus tard, dans Franklin, la Court a conclu qu’il n’y avait aucun avantage conféré à l’actionnaire lorsque le contribuable, encore une fois une personne qui décide des affaires de l’entreprise, vendait un élément d’actif et touchait le produit de la vente pour son propre usage. Étant donné que ce dernier n’a absolument rien dit de cette opération à la personne chargée de la tenue des livres, la baisse de l’actif de l’entreprise n’a pas été enregistrée, pas plus que la diminution de la dette due à l’actionnaire. La décision de la Cour, confirmée à la majorité par la Cour d’appel, semble être fondée sur le motif que l’actionnaire ne se voit conférer aucun avantage en surévaluant la dette qui lui est due par l’entreprise, tant que le solde du compte de prêt demeure créditeur. En confirmant cette décision, le juge Rothstein, en son propre nom et au nom du juge Sexton, a affirmé ce qui suit :
+Le compte d’actif et le compte de prêt dû à un actionnaire de HVSL ne reflétaient pas avec exactitude ces opérations. Toutefois, cela ne signifie pas qu’il faut ignorer le fait qu’aucun avantage n’a été accordé à [l’actionnaire] ni établir une cotisation d’impôt en s’appuyant sur des états financiers erronés.
+Il a été convenu devant le juge de première instance dans cette affaire que les écritures appropriées avaient été faites pour corriger les documents comptables, mais pas avant que les faits aient été mis au jour au cours d’une vérification effectuée par le ministre auprès de l’entreprise. Le principe de Chopp semble donc avoir été étendu pour permettre que les erreurs entraînant la surévaluation du solde créditeur du compte de prêt de l’actionnaire soient inversées en tout temps sans conséquence fiscale défavorable, pourvu que le solde du compte soit demeuré créditeur, même si l’actionnaire était responsable du défaut d’enregistrer l’opération correctement. Ces décisions ont été écartées par le juge Margeson dans Poushinsky, apparemment au motif que le contribuable dans cette affaire avait fait un usage personnel des fonds qui avaient été détournés vers lui.
+[11] S’appuyant sur ces affaires, M. Christian fait valoir qu’il faudrait, aux fins de l’impôt, faire abstraction du virement du solde du compte de la société auprès de Nesbitt Burns au compte conjoint des appelants, parce qu’aucun montant n’a été retiré du compte durant la période allant du 19 février 1997 au 29 mars 2000 et que, par conséquent, les appelants n’ont reçu aucun avantage, allègue M. Christian. Je n’accepte pas cette description des deux opérations qui ont eu lieu grosso modo à trois ans d’intervalle. Il ne s’agit pas d’une affaire où les événements ont été enregistrés incorrectement, comme dans Chopp, ou n’ont pas été enregistrés du tout, comme dans Franklin, jusqu’à ce que, quelque temps plus tard, les livres soient modifiés pour refléter les opérations réelles. Dans la présente affaire, les Dyck, après avoir été tout particulièrement mal conseillés, ont procédé au virement de l’actif de la société à leur compte. L’opération qui a eu lieu était réelle. L’opération de mars 2000 était également une opération réelle. Les contribuables n’ont pas fait ce qu’ils ont fait en 2000 pour refléter convenablement une opération antérieure qui avait été mal enregistrée. Malheureusement, les contribuables ne peuvent effacer le passé, ni le forger après coup, lorsqu’il s’avère qu’ils ont commis une erreur, sauf dans des catégories très restreintes d’affaires où la loi applicable le sanctionne expressément[7]. Lorsque le solde du compte de la société a été viré au compte conjoint des appelants, les fonds sont devenus leur propriété. Le fait qu’ils n’aient retiré aucun montant du compte de placement n’y change rien. Ils en étaient les propriétaires. Les fonds étaient placés auprès de Nesbitt Burns à leur avantage. Toute croissance du compte était à leur avantage. Le cas échéant, ils auraient pu retirer une partie ou la totalité des fonds du compte et les utiliser pour ce qu’ils voulaient.
+[12] Les appels visant l’année 1997 sont rejetés et les appels visant l’année 1998 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que le gain en capital imposable de chaque contribuable est de 37 504,18 $. L’intimée a droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 8e jour d’août 2007.
+E.A. Bowie
+Juge E.A. Bowie
+Traduction certifiée conforme
+ce 29e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI458
+Nos DES DOSSIERS DE LA COUR : 2005-123(IT)G et 2005-124(IT)G
+INTITULÉ : Ed Dyck et Lori Dyck c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 16 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 8 août 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me David Christian
+Avocate de l’intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me David Christian
+Cabinet : Thorsteinssons
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [2000] 4 C.T.C. 2332; conf. par [2002] 2 C.T.C. 88 (C.A.F.).
+[2] 99 DTC 25.
+[3] 2005CCI463.
+[4] 95 DTC 527; conf. par [1998] 1 C.T.C. 407 (C.A.F.).
+[5] 2006CCI302.
+[6] 2000 DTC 6176.
+[7] Voir, par exemple, Dale c. Canada, [1997] 3 C.F. 235 (C.A.F.).

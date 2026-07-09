@@ -1,0 +1,94 @@
+Title: Fisher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26448/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-42-26448-fisher-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-02-14
+
+# Fisher v. The Queen
+
+- Citation: 2003 CCI 42
+- Decision date: 2003-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3164, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fisher v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-14
+Référence neutre
+2003 CCI 42
+Numéro de dossier
+2002-1866(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-1866(IT)I
+ENTRE :
+EDWARD FISHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 29 novembre 2002, à Prince George (Colombie-Britannique)
+Devant : l'honorable juge C. H. McArthur
+Comparutions :
+Représentante de l'appelant :
+Pat Morton
+Avocate de l'intimée :
+Me Jasmine Sidhu
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de février 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI42
+Date: 20030214
+Dossier: 2002-1866(IT)I
+ENTRE :
+EDWARD FISHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Dans le présent appel, la Cour doit déterminer si l'Agence des douanes et du revenu du Canada est liée par une erreur commise dans une cotisation ou, plus exactement, par une erreur de son système informatique. L'appelant soutient que les contribuables doivent pouvoir se fier aux décisions de l'ADRC et aux données provenant de son système informatique. En l'espèce, les parties s'entendent sur le fait que l'ADRC a, par erreur, accordé à l'appelant un crédit d'impôt pour frais de scolarité et pour études auquel il n'avait pas droit.
+[2] L'appelant est pilote d'hélicoptère. Pour l'année d'imposition 1996, il a demandé un crédit d'impôt pour frais de scolarité et pour études qui lui a été accordé. L'appelant n'avait pas droit au report prospectif sur l'année d'imposition 2000 d'une somme au titre de crédits d'impôt pour frais de scolarité et pour études, au sens des paragraphes 118.61(1) et (2) de la Loi de l'impôt sur le revenu. L'appelant ne conteste pas cela. Il avait une représentante, Mme Pat Morton de H & R Block de Quesnel (Colombie-Britannique). L'appelant et Kevin Christieson, directeur de H & R Block, ont témoigné.
+[3] Pour l'année d'imposition 2000, l'ADRC a indiqué par erreur que l'appelant avait droit au report prospectif de frais de scolarité de l'ordre de 18 645 $. L'appelant et ses représentants savaient que cela était incorrect. Les représentants de l'appelant ont téléphone à l'ADRC à trois reprises et ont parlé avec au moins cinq employés de l'ADRC. Ceux-ci ont tous vérifié le bien-fondé du report. L'appelant a accepté leur avis jusqu'à ce qu'il reçoive un avis de nouvelle cotisation, daté du 3 janvier 2002, par lequel le report prospectif était refusé.
+[4] Selon l'appelant, l'erreur a été commise par les fonctionnaires et le système informatique de l'ADRC et la déduction des frais de scolarité, telle que présentée par l'ADRC, devrait être admise.
+[5] La réponse à l'avis d'appel ne mentionne pas la question soulevée par l'appelant dans l'avis d'appel. Selon l'intimée, l'appelant a engagé des frais de scolarité et des frais pour études au sens des paragraphes 118.61(1) et 118.61(2) de la Loi durant l'année d'imposition 1996 et a demandé un crédit d'impôt pour ces frais. Cependant, il n'était pas en droit de reporter prospectivement ces frais sur l'année d'imposition 2000.
+[6] L'appelant admet les hypothèses de fait suivantes, établies par le ministre du Revenu national et figurant au paragraphe 5 de la réponse à l'avis d'appel :
+[traduction]
+(a) l'appelant a engagé des frais de scolarité de 18 245 $ (les « frais de scolarité » ) au cours de l'année d'imposition 1996 en vue d'obtenir sa licence de pilote professionnel;
+(b) l'appelant avait droit à un crédit d'impôt pour études de 400 $ (le « crédit pour études » ) pour l'année d'imposition 1996;
+(c) l'appelant a demandé un crédit pour frais de scolarité et pour études dans sa déclaration de revenus pour l'année d'imposition 1996;
+(d) par un avis de cotisation daté du 24 avril 1997, une cotisation a été établie à l'égard de l'appelant pour l'année d'imposition 1996;
+(e) [...]
+[7] L'intimée soutient que l'article 118.61 de la Loi permet le report prospectif de crédits d'impôt non utilisés pour frais de scolarité et pour études, mais que ledit article n'est entré en vigueur qu'en 1997. L'appelant a engagé des frais de scolarité en 1996 alors que la disposition relative au report prospectif n'existait pas encore.
+[8] Je suis d'accord avec l'avocate de l'intimée. L'appelant n'avait aucun crédit pour frais de scolarité ou pour études au sens des paragraphes 118.61(1) et (2) pouvant être reporté prospectivement sur l'année d'imposition 2000. Je ne crois pas que l'appelant conteste cette conclusion. En fait, il semble affirmer qu'il y a préclusion, laquelle empêche le ministre, en raison de ses actions, de lui refuser le crédit d'impôt qui avait initialement été admis pour l'année d'imposition 2000. L'appelant était catégorique : l'ADRC doit vivre avec son erreur.
+[9] Comme l'a fait remarquer l'avocate de l'intimée, la préclusion ne peut déroger au droit. L'article 118.61 n'existait pas en 1996. L'appelant affirme qu'il savait que le report prospectif des frais de scolarité avait été admis par erreur, mais que, comme le ministre le lui avait accordé, il ne pouvait maintenant le reprendre. Le ministre veut récupérer ce montant. La doctrine de la préclusion n'est ici d'aucune aide à l'appelant.
+[10] Cette cour n'est pas liée par les erreurs de droit de l'ADRC. Les fonctionnaires de l'ADRC et leurs ordinateurs ne font pas la loi. Le litige doit être tranché conformément aux dispositions de la Loi de l'impôt sur le revenu. La meilleure réponse que je puisse offrir à l'appelant est de reprendre les propos du juge Bowman dans la décisionGoldstein c. Canada, [1995] A.C.I. no170 ([1995] 2 C.T.C. 2036) qu'il a lui-même repris dans la décision Moulton c. Canada, [2002] A.C.I. no 80 ([2002] 2 C.T.C. 2395). Il a mis de l'avant des principes qui sont pertinents aux faits de l'espèce. À la page 2402 de la décision Moulton, citant sa propre décision dans le jugement Goldstein, il a déclaré :
+On dit parfois que la préclusion n'est pas recevable contre la Couronne. Cette affirmation n'est pas exacte et semble provenir d'une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d'autres principes de droit. La préclusion du fait du comportement, telle qu'elle s'applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s'est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n'a aucune application lorsqu'une interprétation particulière d'une loi a été communiquée à un sujet par un fonctionnaire de l'État, que le sujet s'est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l'interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n'est pas approprié, non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu'aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[11] Pour les motifs précédents tirés de la décision du juge Bowman, le principe de préclusion n'est pas recevable contre le ministre dans la présente cause puisque le litige doit être tranché conformément à la Loi de l'impôt sur le revenu. Il n'existait pas, en 1996, de disposition permettant le report prospectif de frais de scolarité. L'article 118.61 n'avait pas encore été édicté. Il appert qu'en 1996, l'appelant aurait demandé la déduction de frais de scolarité au montant de 18 245 $. En fait, ses frais de scolarité durant cette année s'élevaient à 35 000 $. En 1996, aucune disposition de la Loi ne permettait de reporter prospectivement la différence de 17 000 $.
+[12] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de février 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de décembre 2004.
+Sophie Debbané, réviseure

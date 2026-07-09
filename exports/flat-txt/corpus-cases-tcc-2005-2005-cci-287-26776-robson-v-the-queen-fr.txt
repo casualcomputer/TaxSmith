@@ -1,0 +1,87 @@
+Title: Robson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26776/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-287-26776-robson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-21
+
+# Robson v. The Queen
+
+- Citation: 2005 CCI 287
+- Decision date: 2005-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3521, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-21
+Référence neutre
+2005 CCI 287
+Numéro de dossier
+2004-95(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-95(IT)I
+ENTRE :
+BARBARA ROBSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 août 2004 à Hamilton (Ontario)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli, sans dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l'appelante a droit à une réduction de 1 060,91 $ en ce qui concerne l'impôt fédéral net à payer pour 2001.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme ce 21e jour d'octobre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI287
+Date : 20050421
+Dossier : 2004-95(IT)I
+ENTRE :
+BARBARA ROBSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Barbara Robson a interjeté appel à l'égard de la cotisation d'impôt établie pour 2001 dans laquelle le ministre du Revenu national a inclus dans son revenu le montant de 24 205 $ qu'elle a reçu de la Financière Manuvie en raison de la demande d'indemnité qu'elle a présentée en vertu d'une police d'assurance qu'elle avait avec Manuvie.
+[2] Mme Robson travaillait chez Hamilton Health Sciences (HHS), et Manuvie était l'émetteur du régime d'assurance-invalidité de longue durée pour les employés de HHS. Pendant toute la période pertinente, HHS a versé toutes les cotisations au régime d'assurance-invalidité de longue durée pour ses employés, y compris Mme Robson.
+[3] Mme Robson a été blessée dans un accident d'automobile en août 1996. Elle a demandé en vertu de la police, entre autres choses, une indemnité de remplacement de revenu pendant les périodes d'invalidité. Les demandes ont été refusées. Elle a intenté une action contre Manuvie devant la Cour de l'Ontario (Division générale) pour les indemnités de remplacement de revenu, les frais médicaux et les frais de réadaptation, et les frais de médiation, entre autres. Finalement, le litige a été réglé et Mme Robson a reçu 24 205,01 $ de Manuvie[1].
+[4] Pour établir la cotisation, le ministre a examiné le formulaire T4ASUM, intitulé Sommaire du revenu de pension, de retraite, de rente ou d'autres sources, envoyé par Manuvie et a noté que le montant de 24 205 $ a été payé à Mme Robson en 2001 et qu'elle n'a pas inclus le montant de 24 205 $ dans sa déclaration de revenus de 2001. Selon le ministre, le montant de 24 205 $ devrait être inclus à juste titre dans le revenu de Mme Robson.
+[5] L'audition de l'appel a eu lieu le 17 août 2004. Après avoir entendu les arguments des parties, j'ai demandé aux parties de me fournir de plus amples renseignements afin de déterminer s'il était possible d'inclure un montant inférieur dans le revenu de Mme Robson selon l'alinéa 6(1)f) de la Loi de l'impôt sur le revenu ou bien s'il y avait des renseignements dont le ministre et moi n'avions pas été saisis et qu'il était possible d'obtenir après l'audition pour aider l'appelant.
+[6] De plus, j'ai laissé en suspens ma décision jusqu'à ce que le jugement de la Cour suprême du Canada soit rendu dans l'affaire Tsiaprailis c. Canada[2], ce qui a eu lieu le 25 février 2005. Une copie des motifs du jugement a été envoyée à Mme Robson pour qu'elle puisse l'examiner.
+[7] Je suis d'accord avec l'avocat de l'intimée pour dire que l'alinéa 6(1)f) de la Loi n'aide pas l'appelante étant donné que, entre autres choses, elle n'a pas personnellement cotisé au régime d'assurance-invalidité de longue durée en 2001, c'est-à-dire l'année où elle a reçu l'argent, ou au cours des années précédentes.
+[8] Je suis aussi d'avis que, selon l'affaire Tsiaprailis, le montant de 24 205 $ était un montant payable de façon périodique. La déclaration contre Manuvie repose sur le fait que l'assureur refuse de payer les indemnités auxquelles Mme Robson a droit en vertu de la police, mais aucun document - ni la déclaration, ni la lettre de l'avocat de Mme Robson - ne décrit quelle partie du paiement concerne les dommages et intérêts et quelle partie concerne les indemnités impayées selon la police. Essentiellement, Mme Robson a reçu un montant assez près des 27 139,83 $ qu'elle aurait reçus de Manuvie si sa première demande avait été acceptée.
+[9] Après l'audition de l'appel, Mme Robson a présenté à l'Agence des douanes et du revenu du Canada ( « ADRC » ) un formulaire T1198, signé par le directeur de Manuvie et daté du 6 octobre 2004, pour que l'Agence puisse déterminer si elle avait droit à une déduction pour paiement forfaitaire calculée selon les articles 110.2 et 120.31 de la Loi relativement au montant de 24 205 $ qu'elle a reçu de Manuvie en 2001. L'avocat a indiqué que l'ADRC a effectué les calculs, et l'intimée reconnaît maintenant que l'appel devrait être accueilli compte tenu du fait que l'appelante a droit à une réduction de l'impôt fédéral net à payer de 1 060,91 $ pour l'année d'imposition 2001 en vertu des articles 110.2 et 120.31 de la Loi.
+[10]Après avoir reçu cet avis de l'avocat de l'intimée, le coordonnateur des rôles de la Cour canadienne de l'impôt à écrit à Mme Robson pour lui demander si elle acceptait les calculs.
+[11]Au moyen d'une télécopie datée du 19 avril 2005, Mme Robson a avisé la Cour qu'elle souhaitait se désister de l'appel devant la Cour. Un désistement dans de telles circonstances serait contraire aux intérêts de l'appelante, compte tenu du fait que l'intimée reconnaît que l'appelante a droit à une réduction de 1 060,91 $ de l'impôt fédéral établi pour 2001. Par conséquent, je n'accepte pas le désistement de Mme Robson.
+[12]L'appel sera accueilli, sans dépens, en vue de réduire le montant d'impôt fédéral que l'appelante doit payer de 1 060,91 $ pour 2001.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2005.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme ce 21e jour d'octobre 2005.
+Marie-Christine Gervais, traductrice
+[1] Le montant réel du règlement était de 35 000 $; le montant de 24 205 $ correspond au montant du règlement moins les honoraires d'avocat et les débours.
+[2] 2005 CSC 8

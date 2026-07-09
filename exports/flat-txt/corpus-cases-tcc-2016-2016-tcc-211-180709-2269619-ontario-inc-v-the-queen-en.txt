@@ -1,0 +1,102 @@
+Title: 2269619 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180709/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-211-180709-2269619-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-07-06
+
+# 2269619 Ontario Inc. v. The Queen
+
+- Citation: 2016 TCC 211
+- Decision date: 2016-07-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2897, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2269619 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-06
+Neutral citation
+2016 TCC 211
+File numbers
+2015-2031(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2016TCC211
+Date: 20160927
+Docket: 2015-2031(GST)I
+BETWEEN:
+2269619 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 22, 2016, in Toronto, Ontario.)
+V.A. Miller J.
+[1] The issues raised in this appeal were whether (1) the Appellant provided a zero-rated freight transportation service during the period January 1, 2012 to December 31, 2013; (2) it was eligible to receive additional Input Tax Credits of $1,245.84 for the period January 1, 2012 to December 31, 2012; (3) it was eligible to receive Input Tax Credits of $6,666.94 for the period January 1, 2013 to December 31, 2013.
+[2] The Appellant was represented by Ranjit Billing who was the only witness at the hearing. Mr. Billing gave his evidence through an interpreter.
+[3] It was clear from Mr. Billing’s evidence that the Appellant did not file a notice of objection for the period January 1, 2013 to December 31, 2013. Consequently, the appeal of the 2013 reporting period is not properly before me and the appeal is quashed.
+Zero-rated Freight Transportation Service [4] Mr. Billing had the Appellant incorporated on January 4, 2011. In January 2011, the Appellant became a GST registrant. On July 2, 2011 the Appellant purchased a truck.
+[5] It was Mr. Billing’s evidence that he was a driver and he worked as a casual employee in 2011. He did not use the Appellant’s truck in 2011 because he could not get a position as an owner/operator of a truck.
+[6] For the period January 1 to July 10, 2012, Mr. Billing was employed as a driver with various companies. It was his evidence that he was employed by these companies as an employee. I note that there are two documents included in exhibit A-10 which are pay statements for the period prior to July 2012. It appears that the Appellant was engaged as a sub-contractor by ASL Global Logistics for the period February 16 to 29, 2012. Mr. Billing and not the Appellant was employed by M&M Carriers for the period June 1 to June 15, 2012. He stated that he was employed as a driver with M&M Carriers.
+[7] On July 10, 2012, the Appellant was engaged as an owner/operator by Sahauli Transport Ltd. (“Sahauli”). According to a letter tendered by Mr. Billing, he worked for Sahauli as an independent contractor during this period July 18, 2012 to December 15, 2012. I note that this letter was dated July 25, 2014; it was addressed “To Whom It May Concern”; and, it was signed by “Manpreet” as Manager. It was written on a plain piece of paper without any letterhead.
+[8] Mr. Billing stated that the Appellant was not paid GST by Sahauli. It was his evidence that only the drivers are paid GST. He stated that the Appellant was paid by Sahauli but this pay did not include GST because the Appellant owned its own truck.
+[9] According to Mr. Billing, he picks up steel or wood or whatever Sahauli tells him to pick up and he transports it to places in the US or in Canada. Mr. Billing submitted documents which detailed the pay received by the Appellant from Sahuali for the periods for July 18, 2012 to December 15, 2012.
+[10] The Minister of National Revenue (the “Minister”) assumed that the Appellant had sales of $97,243 in 2012 and that these sales related to taxable services.
+[11] In its notice of objection, the Appellant took the position that Mr. Billing worked as a driver from January to August 2012 and as an owner/operator from September to December 2012. In its notice of appeal, the Appellant took the position that its services were zero-rated because it only supplied freight transportation services from one carrier to another. These positions are not totally consistent with the position taken by the Appellant at this hearing.
+[12] The conditions that must be satisfied in order for a supply to be considered zero-rated were summarized by David Sherman as follows:
+1) It has to be a “freight transportation service”, which means a service of transporting tangible personal property as defined by subsection 1(1) of Part VII of Schedule VI;
+2) The supply has to be made by a “carrier”, which is a person who supplies a freight transportation service as defined by subsection 123(1) of the Excise Tax Act;
+3) The supply has to be made to a second “carrier”. The second carrier must be the person who is contractually obligated to pay the first carrier;
+4) The service is part of a “continuous freight movement”, which means “the transportation of tangible personal property by one or more carriers to a destination specified by the shipper of the property, where all freight transportation services supplied by the carriers are supplied as a consequence of instructions given by the shipper of the property”;
+5) The second carrier is neither the “shipper”, as defined by subsection 1(1) of Part VII of Schedule VI, nor the “consignee”.
+[13] Mr. Billing’s evidence was vague and inconsistent. The Appellant did not give sufficient evidence for me to conclude that it was an interliner and the services it provided were zero-rated. There was no evidence from which I could conclude that the conditions in number 3, 4 or 5 were satisfied.
+[14] I have concluded from the evidence that the Appellant supplied services from July to December 2012 as an independent contractor.
+[15] I have also concluded that prior to July 2012, Mr. Billing was an employee for all period except February 16 to 29, 2012 when the Appellant was a sub-contractor with ASL Global Logistics. As a result, the Appellant’s sales were not $97,243 in 2012 as assessed by the Minister. I calculate its sales to be $84,324.96 in 2012. See exhibit A-9.
+Input Tax Credits [16] For the period January 1, 2012 to December 31, 2012 (the “2012 reporting period”), the Appellant claimed input tax credits (“ITCs”) which totalled $2,741.32. The Minister allowed ITCs of $1,495.48. Therefore the amount of ITCs in issue was $1,245.84. At the hearing of this appeal, the Appellant tendered invoices which supported that it paid HST of $902.09 in the 2012 reporting period.
+[17] There was no evidence that the amounts of HST on the tendered invoices were included in the ITCs already allowed by the Minister. As a result, it is my view that the Appellant is entitled to additional ITCs of $902.09 for the 2012 reporting period.
+[18] The appeal for the 2012 reporting period is allowed on the basis that:
+a) The Appellant’s sales for 2012 were $84,324.96; and,
+b) The Appellant is entitled to receive additional ITCs in the amount of $902.09
+[19] The appeal for the 2013 reporting period is quashed.
+Signed at Ottawa, Canada, this 27th day of September 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC211
+COURT FILE NO.:
+2015-2031(GST)I
+STYLE OF CAUSE:
+2269619 ONTARIO INC. AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 22, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+July 6, 2016
+DATE OF REASONS FOR JUDGMENT:
+September 27, 2016
+APPEARANCES:
+Agent for the Appellant:
+Ranjit Billing
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

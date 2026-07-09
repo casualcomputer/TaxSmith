@@ -1,0 +1,166 @@
+---
+title: "Théodore c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/305238/index.do"
+last_modified: "2018-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 23"
+citation2: ""
+neutral_citation: "2018 CCI 23"
+decision_date: "2018-01-18"
+language: "fr"
+item_id: "305238"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7326
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:02:32.023000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb2088387938b3fdd51fde9718109fc72cfc3852ef9b2d3832cd89fa99b3d4ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Théodore c. La Reine
+
+- Citation: 2018 CCI 23
+- Decision date: 2018-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7326, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Théodore c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-18
+Référence neutre
+2018 CCI 23
+Numéro de dossier
+2017-1310(IT)I, 2017-854(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2017-854(IT)I
+2017-1310(IT)I
+ENTRE :
+DJIMY THÉODORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus sur preuve commune
+le 14 décembre 2017, à Montréal (Québec)
+et décision rendue oralement sur le banc
+le 16 janvier 2018, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+JUGEMENT
+Pour les motifs ci‑joints rendus oralement, les appels des déterminations établies en vertu de la Loi de l’impôt sur le revenu pour les années de base 2012, 2013, 2014 et 2015 (période de juillet à septembre 2016) sont rejetés, sans frais.
+Signé à Montréal, Québec, ce 18e jour de janvier 2018.
+« Guy Smith »
+Juge Smith
+Référence : 2018 CCI 23
+Date : 20180118
+Dossiers : 2017-854(IT)I
+2017-1310(IT)I
+ENTRE :
+DJIMY THÉODORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Décision rendue oralement sur le banc le
+16 janvier 2018, à Montréal (Québec).
+Le juge Smith
+[1] Djimy Théodore, l’appelant dans cette instance, fait appel en vertu de la procédure informelle, de la détermination du ministre du Revenu national (ci‑après le « ministre ») qu’il n’est pas un particulier admissible ayant la garde partagée des trois enfants mineurs nés de sa relation avec Marie Lousiane Paul (ci‑après la « mère »), puisqu’il ne réside pas avec les enfants sur une base d’égalité ou de quasi‑égalité au cours de la période en question, et ce, au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (ci‑après la « Loi »).
+[2] Ces deux appels ont été entendus sur preuve commune. Le premier porte sur les années de base 2012, 2013 et 2014 et plus précisément sur la période du mois de janvier 2014 au mois de juin 2016. Le deuxième porte sur l’année de base 2015, mais seulement pour la période de juillet à septembre 2016.
+[3] La seule question en litige dans cette instance est de savoir si l’appelant est un particulier admissible ayant la garde partagée de ses trois enfants pendant la période pertinente, soit du mois de janvier 2014 au mois de septembre 2016.
+[4] Il n’est pas contesté que 1) l’appelant et la mère sont les parents de trois enfants nés en 2001, 2004 et 2007 et 2) qu’ils vivent séparés de l’un et l’autre depuis 2007 où que 3) le 16 décembre 2009, la Cour supérieure du Québec a émis un jugement accordant aux parents la garde partagée des trois enfants.
+[5] Une copie de ce jugement a été déposée en preuve. Je note dans le préambule que la mère a demandé la garde exclusive des enfants, ce qui ne lui a pas été accordée. Au paragraphe 20, le juge Déziel a précisé que « les parties devront se consulter pour toutes décisions concernant leur éducation, la santé, la religion, les institutions d’enseignement et les activités sportives ».
+[6] Bien que l’appel porte sur la période débutant au mois de janvier 2014, l’appelant soulève des faits qui ont eu lieu dans les années antérieures.
+[7] Selon son témoignage, il y a eu un conflit entre lui et la mère vers le 20 juin 2012. Suite à l’intervention des forces policières et du bureau du Directeur de la protection de la jeunesse, il a été décidé qu’il devait se retirer de la situation et, conséquemment, il n’a pas revu ses enfants pendant quelque temps. Aucun rapport de police n’a été déposé comme preuve de sorte que la Cour a très peu de détails quant aux circonstances entourant cet incident. Cependant, il ne semble pas être contesté que les forces policières n’ont pas donné suite à l’incident.
+[8] L’appelant a par la suite tenté à plusieurs reprises d’exercer son droit de garde partagée mais sans succès. Après maintes tentatives, il a entamé une procédure devant la Cour supérieure du Québec et le 7 novembre 2013, un jugement interlocutoire a été prononcé indiquant que le jugement du 16 décembre 2009 avait toujours force de loi et que la mère devait s’y conformer. Une copie de cette décision n’a pas été déposée en preuve mais l’intimée ne l’a pas contestée.
+[9] Selon le témoignage de l’appelant, la mère a néanmoins refusé de se conformer à l’ordonnance de garde de sorte que la procédure juridique a été reportée au 24 janvier 2014. Dans le procès‑verbal de l’audience qui a eu lieu ce jour‑là (la pièce A‑2), la juge Devito prend note d’une entente écrite intervenue entre les parties, puis entérine le consentement signé le 23 janvier 2014 et leur ordonne de s’y conformer.
+[10] Le consentement en question, soit la pièce A‑3, prévoit au paragraphe 1 que les parties vont se partager la garde de la façon suivante : a) « les enfants vont habiter principalement avec leur mère » et b) « le père aura accès aux enfants du jeudi après l’école au lundi à l’école en raison de deux fois par mois commençant le 31 janvier 2014 ». Il y a ensuite un partage des vacances de Noël, le congé de la relâche scolaire, les congés scolaires, la période des vacances estivales et le tout se termine avec l’énoncé général « à tout autre moment convenu à l’amiable entre les parties ».
+[11] Au paragraphe 2 du consentement écrit, les parties reconnaissent « que madame a exercé une garde exclusive de juillet 2012 à décembre 2013 », ce qui confirme le témoignage de l’appelant sur cette question. Aucune explication n’est donnée pour cet état de faits.
+[12] Au paragraphe 10, les parties s’engagent à contribuer à certaines dépenses au prorata de leurs revenus conformément au formulaire de fixation des pensions alimentaires, soit 40 % pour le père et 60 % pour la mère. Il s’agit de la pièce A‑4. Il est indiqué sur la page couverture, que ce document a été « produit conjointement » et il est signé par les deux parties. Il s’agit, de plus, d’une déclaration fait sous serment.
+[13] Dans la partie 5 dudit formulaire, il s’agit du « Calcul de la pension alimentaire annuelle selon le temps de garde » et les parties ont choisi la Section 3 intitulée : « garde partagée ». L’explication donnée est que les parties doivent « remplir cette section si chacun des parents assume au moins 40 % du temps de garde à l’égard de tous les enfants ». Dans le facteur de répartition de la garde, il est indiqué que le nombre de jours de garde du père sera de 147 jours ou 40,27 % du temps tandis que la mère aura les enfants 218 jours ou 59,73 % du temps. Je note finalement qu’il est indiqué que ce document est « Retenu par le tribunal » et que le numéro de dossier concorde avec celui du procès‑verbal de l’instance du 24 janvier 2014.
+[14] Au niveau des autres éléments de preuve, l’appelant a notamment présenté un calendrier indiquant ses jours de garde des enfants, soit 135 jours ou l’équivalent de 36,98 % pour l’année 2015 et 143 jours ou 39,18 % pour 2016. Un calendrier incomplet a été déposé pour 2014.
+[15] La mère a aussi déposé un résumé préparé pour les fins du litige pour les années 2014, 2015 et 2016. Elle a indiqué que ces notes manuscrites ont été préparées à partir d’un calendrier à la maison et que, le ratio de temps de garde de l’appelant par année est de 30 % versus 70 % pour elle. Elle indique que l’appelant ne respecte pas toujours son temps de garde, surtout lors des congés scolaires et que parfois il ramène les enfants chez elle le dimanche après‑midi au lieu de les apporter à l’école le lundi matin.
+[16] Les deux parents ont déposé une série de reçus pour les dépenses encourues relativement à la garde des enfants, soit pour les frais de garde, les dîners du midi et les activités scolaires ou sportives. La mère prétend que l’appelant ne rembourse pas les dépenses et que, de plus, c’est elle qui accompagne les enfants pour les rendez-vous chez le médecin ou le dentiste. Elle maintient aussi que c’est elle qui est le « répondant principal » pour l’école des enfants.
+[17] Lors du contre‑interrogatoire, la mère a reconnu que même si elle est le répondant principal, les coordonnées du père sont aussi notées par l’école et qu’un bulletin scolaire lui est destiné. Elle a aussi reconnu qu’elle travaille de nuit et que lorsqu’elle entre à la maison vers 9h du matin, les enfants sont déjà partis pour l’école, ayant pris l’autobus scolaire vers 7h30. Cet arrangement est possible étant donné que ses parents âgés vivent aussi dans la maison.
+[18] L’appelant maintient qu’il a la garde des enfants plus souvent qu’à son tour et qu’il doit parfois aller les ramasser le dimanche matin lorsqu’ils refusent d’accompagner leur mère à une cérémonie religieuse. Selon lui, il est très présent dans leur vie, notamment dans leur vie scolaire et, nonobstant les calendriers déposés en preuve, d’un point de vue qualitatif et quantitatif, son temps de garde dépasse le 40 % et se rapproche d’une garde partagée. Il a aussi ajouté que s’il ne rembourse pas certaines dépenses encourues par la mère, c’est qu’elle ne présente pas les factures pour remboursement et que, de toute façon, il a lui aussi encouru des dépenses.
+Le droit [19] Je me tourne maintenant aux questions de droit. Tel qu’indiqué ci‑haut, la question en litige est de savoir si l’appelant est un particulier admissible ayant la garde partagée de ses enfants.
+[20] Selon la définition prévue par la Loi, deux conditions doivent être satisfaites. Premièrement, les enfants doivent vivre avec lui sur une base d’égalité ou de quasi‑égalité et, deuxièmement, lorsque les enfants vivent avec lui, il doit assumer principalement la responsabilité pour leurs soins et leur éducation selon les critères prévus par règlement.
+[21] Je fais l’observation que le deuxième critère doit être analysé séparément du premier et qu’il n’y a pas nécessairement de lien entre les deux. Le critère est assez restreint et la Cour n’a pas à évaluer, vérifier ou comparer la qualité des soins offerts par un parent ou l’autre.
+[22] Or, ayant revu les critères prescrits à l’article 6302 du Règlement de l’impôt sur le revenu, et ayant pris en note que ni la mère, ni l’intimée n’ont contesté la preuve sur cette question, la Cour conclut que l’appelant satisfait au deuxième critère dans le sens qu’il s’est acquitté de son devoir d’assurer le soin et l’éducation des enfants lorsqu’ils vivent avec lui.
+[23] Je reviens donc au premier critère qui exige que les enfants aient vécu avec l’appelant sur une base d’égalité ou de quasi‑égalité, une expression qui n’est définie dans la Loi.
+[24] Dans la décision Van Boekel c. La Reine, 2013 CCI 132, la juge Woods a revu cette question en indiquant qu’une analyse numérique rigoureuse peut s’avérer insuffisante. Elle a indiqué, au paragraphe 22, que même si l’élément de quasi‑égalité s’adresse au temps passé avec chaque parent, souvent les circonstances ne se prêtent pas à une approche basée sur l’application d’une formule et que, dans de tel cas, il est important d’examiner toutes les circonstances applicables et non d’appliquer simplement une approche mathématique.
+[25] Cette approche a, en partie, été reprise par le juge Boyle dans la décision Zara c. La Reine, 2017 CCI 45, qui a été portée à l’attention de la Cour par l’appelant. Le juge a indiqué au paragraphe 17, et je cite « Lorsque le législateur me demande de décider s’il y a quasi‑égalité, je ne pense pas qu’il faille toujours passer des heures au tribunal à débattre de chaque heure de chaque jour de chaque mois ». Il a ajouté au paragraphe 20 « Le plus important pour moi est de savoir qu’il est clair que la mère et le père ont convenu dans le cadre de leur divorce de partager la responsabilité parentale et d’avoir la garde partagée à 60:40, point final. »
+[26] Dans cette décision-là, les parties ont négocié une entente qui a été entérinée par la Cour supérieure du Québec. Ayant revu la preuve, le juge Boyle a conclu que le partage était bel et bien 60:40, ce qui rencontrait le critère de quasi‑égalité dans la Loi.
+[27] Or, même s’il est permissible de prendre une approche qualitative, la Cour a le plus souvent conclu qu’il est nécessaire d’adopter une approche quantitative du temps passé avec chaque parent. C’est d’ailleurs ce qu’a conclu le juge Sommerfeldt qui a effectué une revue exhaustive de la jurisprudence de la Cour dans Morrissey c. La Reine, 2016 CCI 178. Il a conclu que la Cour doit d’abord et avant tout effectuer une analyse quantitative et que l’expression « quasi‑égalité » porte sur une garde équivalent à environ 60:40 mais pas moins de 40 %.
+[28] Dans cette instance, l’appelant a indiqué qu’il a la garde partagée en vertu du jugement du 16 décembre 2009 et qu’il a exercé son droit de garde jusqu’à ce que se produise l’incident du mois de juin 2012. Suite à ceci, il n’a pu exercer son droit de garde avant la fin de janvier 2014. Certes, la Cour pourrait conclure que cette situation est survenue en raison d’une décision arbitraire de la mère, ce qui pourrait porter la Cour à tirer une inférence négative. Peut‑être était‑ce l’intention de l’appelant en signalant ces faits. Mais il n’a pas cherché à expliquer l’incident, se contentant de dire que les forces policières n’ont pas donné suite à l’incident. Conséquemment, les faits restent incertains, voire même nébuleux et la Cour ne peut en tirer une inférence négative à l’endroit de la mère. En fin de compte, cet incident n’est pas pertinent au présent litige.
+[29] En regardant le jugement du 24 janvier 2014, la Cour est satisfaite que les parties ont conclu une entente écrite qui a été entérinée par la Cour supérieure du Québec. Celle‑ci prévoit que même si les enfants doivent habiter principalement avec leur mère, ils sont aussi d’accord qu’il y aura une garde partagée équivalent à 40,27 % pour le père et 59,74 % pour la mère.
+[30] Cette situation ressemble aux faits dans la décision Zara, précitée. De prime abord, la répartition du temps de garde est, selon la jurisprudence, suffisante pour permettre à la Cour de conclure que l’appelant a un droit de garde sur une base de « quasi‑égalité ».
+[31] Ceci dit, la Cour doit aussi revoir l’ensemble de la preuve afin de déterminer si l’appelant s’est conformé au jugement ou au moins s’il a tenté de s’y conformer.
+[32] Même si la Cour est satisfaite d’un point de vue qualitatif que l’appelant est très présent dans la vie de ses enfants, la preuve qu’il a lui‑même présentée ne permet pas à la Cour de conclure que sa garde des enfants est sur une base d’égalité ou de quasi‑égalité.
+[33] L’appelant a soumis un calendrier pour l’année 2015 et un autre pour 2016. L’intimée conteste l’exactitude de ce tableau puisque l’appelant a inclus les lundis, alors que les enfants sont déposés soit à l’école ou à la garderie le lundi matin. Il n’y a pas lieu d’arriver à une conclusion sur cette question. Même si la Cour accepte l’exactitude des calendriers en question, il est incontestable que la garde ne dépasse pas 37 % pour 2015 et 39 % pour 2016. Les éléments qualitatifs ne peuvent l’emporter sur cette analyse quantitative — et donc, en raison de ce qui précède, les appels sont rejetés.
+Signé à Montréal, Québec, ce 18e jour de janvier 2018.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2018 CCI 23
+Nºs DES DOSSIERS
+DE LA COUR :
+2017-854(IT)I
+2017-1310(IT)I
+INTITULÉ DE LA CAUSE :
+DJIMY THÉODORE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 14 décembre 2017
+MOTIFS DE JUGEMENT
+RENDUS ORALEMENT
+SUR LE BANC PAR :
+L'honorable juge Guy R. Smith
+DATE DE LA DÉCISION RENDUE ORALEMENT
+SUR LE BANC :
+Le 16 janvier 2018
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

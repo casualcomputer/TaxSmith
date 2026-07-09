@@ -1,0 +1,409 @@
+---
+title: "Sherman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28573/index.do"
+last_modified: "2008-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 186"
+citation2: ""
+neutral_citation: "2008 CCI 186"
+decision_date: "2008-04-03"
+language: "fr"
+item_id: "28573"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1074
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:56:53.897000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d522753063ea9a6425ae3c4f480dc967308e6b56f6b580255e17f8985457acf2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sherman c. La Reine
+
+- Citation: 2008 CCI 186
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1074, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sherman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-03
+Référence neutre
+2008 CCI 186
+Numéro de dossier
+2005-1604(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1604(IT)G
+ENTRE :
+SIMONE SHERMAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de David M. Sherman (2005‑1605(IT)G) les 7, 8 et 9 mai, le 21 juin et le 25 septembre 2007,
+à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelante :
+Me Robert McMechan
+Avocat de l’intimée :
+Me Ernest Wheeler
+____________________________________________________________________
+JUGEMENT
+L’appel concernant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1994, 1995, 1996, 1997, 1998, 1999 et 2000 est rejeté.
+L’intimée a droit aux dépens, un seul mémoire de frais pour les honoraires d’avocat étant accordé dans le présent appel et dans l’appel interjeté par David M. Sherman.
+Signé à Toronto (Ontario), ce 3e jour d’avril 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour de février 2009.
+Mario Lagacé, jurilinguiste
+Dossier : 2005-1605(IT)G
+ENTRE :
+DAVID M. SHERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Simone Sherman (2005‑1604(IT)G) les 7, 8 et 9 mai, le 21 juin et le 25 septembre 2007,
+à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Robert McMechan
+Avocat de l’intimée :
+Me Ernest Wheeler
+____________________________________________________________________
+JUGEMENT
+L’appel concernant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1994 et 1995 est rejeté.
+L’intimée a droit aux dépens, un seul mémoire de frais étant accordé pour les honoraires d’avocat dans le présent appel et dans l’appel interjeté par Simone Sherman.
+Signé à Toronto (Ontario), ce 3e jour d’avril 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour de février 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI186
+Date : 20080403
+Dossiers : 2005-1604(IT)G
+2005-1605(IT)G
+ENTRE :
+SIMONE SHERMAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+DAVID M. SHERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Dans les présents appels, interjetés en vertu de la Loi de l’impôt sur le revenu, il s’agit de savoir si les appelants ont droit à la déduction pour amortissement (la « DPA ») à l’égard d’un logiciel qu’ils ont acquis en 1994, et, le cas échéant, dans quelle mesure ils y ont droit.
+[2] Les appelants ont demandé, à l’égard du logiciel, des DPA s’élevant en tout à 900 000 $ pour l’année d’imposition 1994, compte tenu du taux d’amortissement applicable aux biens décrits dans la catégorie 12 de l’annexe II du Règlement de l’impôt sur le revenu (le « Règlement »).
+[3] Le ministre du Revenu national (le « ministre ») a refusé les déductions au complet.
+[4] L’intimée tente de justifier les nouvelles cotisations en invoquant plusieurs motifs, qui sont résumés ci‑dessous :
+a) Selon l’alinéa 1102(1)c) du Règlement, aucune DPA ne peut être demandée parce que le logiciel n’a pas été acquis aux fins de gagner ou de produire un revenu;
+b) Les appelants n’ont pas acquis un « logiciel », selon le sens applicable à ce terme, parce qu’ils ont uniquement acquis un droit de commercialisation, plutôt que des droits de propriété absolus ou même un droit d’utilisation;
+c) Le logiciel n’était pas « prêt à être mis en service », telle que cette expression est définie et, par conséquent, son coût est exclu de l’ensemble des dépenses qui sont admissibles à la DPA en vertu du paragraphe 13(26) de la Loi;
+d) Le prix d’achat du logiciel, de 1 800 000 $, était au moment pertinent une obligation éventuelle et, par conséquent, le logiciel n’avait pas de coût aux fins de la DPA;
+e) L’article 69 de la Loi s’applique, ce qui a pour effet de réduire le coût à zéro parce que le logiciel n’avait aucune valeur et qu’il a été acquis auprès d’une personne avec laquelle les appelants avaient un lien de dépendance.
+[5] Les nouvelles cotisations visées par les appels se rapportent aux années d’imposition 1994 et 1995 de David Sherman, et aux années d’imposition 1994 à 2000 inclusivement de Simone Sherman. Toutefois, la seule question à trancher se rapporte au droit à la DPA pour l’année d’imposition 1994. Les rajustements effectués dans les nouvelles cotisations visant les autres années d’imposition sont corrélatifs à celui qui a été effectué pour 1994.
+[6] Les appels ont été entendus ensemble sur preuve commune sur une période de cinq jours.
+[7] Des témoignages de vive voix pour le compte des appelants ont été présentés par : (1) les appelants eux‑mêmes; (2) Peter Hart, avocat et homme d’affaires qui a vendu le logiciel aux appelants; (3) Brian Bawden, avocat et ancien associé d’Osler, Hoskin & Harcourt; (4) Janet Baccarani, comptable agréée et ancienne vice‑présidente de Carswell, responsable des publications fiscales; (5) Paul Foraker, ingénieur spécialisé dans la mise à l’essai de logiciels, basé à San Jose (Californie); et (6) Dennis Leung et Howard Johnson, évaluateurs commerciaux chez Campbell & Associates.
+[8] L’intimée n’a pas cité de témoins.
+Les faits et la preuve
+[9] Le résumé suivant des faits et de la preuve comprend des conclusions de fait ainsi que des résumés de témoignages et d’autres éléments de preuve.
+[10] Les appelants David et Simone Sherman sont mariés depuis plusieurs années; ils sont tous deux membres d’une profession libérale.
+[11] M. Sherman est un fiscaliste qui est bien connu comme auteur et comme éditeur de publications fiscales chez Carswell Publishing, notamment des versions annotées de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise, des notes techniques du ministère des Finances et d’un service complet concernant la TPS. Il a également de longs antécédents dans le domaine de la conception de logiciels et de la programmation.
+[12] Mme Sherman est comptable agréée; au cours de la période pertinente, elle travaillait à Revenu Canada.
+Développement du logiciel
+[13] Le logiciel qui fait l’objet des présents appels a été imaginé par Peter Hart, qui exerçait autrefois la profession d’avocat, rue Bay, et qui au début de sa carrière s’est orienté vers les affaires. Dans le cadre de ses entreprises commerciales, M. Hart s’intéressait principalement au développement d’applications sur ordinateur à l’intention des juristes.
+[14] Un éditeur de textes juridiques basé aux États‑Unis, Clark Boardman, a fourni énormément de fonds pour les travaux initiaux de développement. Il a par la suite participé aux activités de la maison d’édition Thomson.
+[15] À la fin des années 80, Clark Boardman voulait mettre au point des logiciels qui pourraient mettre ses ouvrages sous forme électronique. L’éditeur a fait appel à M. Hart à cette fin, ce dernier ayant alors mis au point un concept d’organisation de livres électroniques en une forme conviviale semblable à une étagère de bibliothèque.
+[16] Au début du projet, M. Hart a embauché cinq programmeurs, dont M. Sherman, avec qui il avait collaboré lors d’un projet antérieur.
+[17] Clark Boardman a fourni presque tous les fonds, sinon tous les fonds, pendant un certain temps, mais M. Hart est demeuré propriétaire du logiciel par l’entremise d’une société canadienne.
+[18] En 1990, Clark Boardman, qui appartenait alors à Thomson, a cessé de participer au projet parce que Thomson voulait que toute son organisation adopte une approche uniforme en matière d’édition électronique.
+[19] De plus, en 1990, M. Hart a quitté le Canada pour s’installer aux États‑Unis, où il réside encore.
+[20] Après le retrait de Clark Boardman, M. Hart a cherché ailleurs des associés qui financeraient le projet. Pendant quelque temps, il a lui‑même financé le projet, et à la fin de l’année 1990, il a conclu une entente en matière de financement partiel avec le cabinet Osler, Hoskin & Harcourt, qui avait antérieurement participé au projet d’une façon officieuse afin d’exprimer son opinion.
+[21] Ces travaux de développement ont entraîné la création d’un programme d’application logicielle appelé The Compleat Desktop for Lawyers (« Compleat Desktop »).
+[22] Vers la fin de l’année 1991, le Compleat Desktop était prêt à être utilisé par le cabinet d’avocats Osler dans le cadre d’un projet‑pilote. Même si le projet‑pilote s’est avéré fructueux, le cabinet a décidé de mettre fin à l’arrangement conclu avec M. Hart au début de l’année 1992.
+[23] À ce moment, les frais de développement du Compleat Desktop étaient de plus de 1 000 000 $ en tout.
+[24] Après le retrait d’Osler, Hoskin & Harcourt, M. Hart s’est efforcé de commercialiser le logiciel auprès d’un autre cabinet d’avocats ou d’un éditeur. À cette fin, il a simplifié le produit en supprimant certaines applications secondaires et il a changé le nom du logiciel pour adopter le nom : « The Compleat Carrel ».
+[25] Au cours de la période allant de 1992 à 1994, M. Hart a fait au moins 50 démonstrations sérieuses du logiciel, mais aucune n’a porté fruit. Les éditeurs ont à plusieurs reprises presque conclu des marchés, mais aucun marché n’a été mené à bonne fin.
+[26] Le principal concurrent du Compleat Carrel était le « Folio », qui était l’outil de recherche utilisé par certains des principaux éditeurs. Les deux produits logiciels sont similaires, mais ils ne sont pas identiques. Le Compleat Carrel comporte certaines fonctions que le Folio n’a pas.
+[27] Au cours de cette période, M. Hart a appris que des opérations concernant des logiciels étaient commercialisées au Canada auprès de groupes d’investisseurs et il a pensé que le Compleat Carrel pourrait peut‑être bien être commercialisé de cette façon. Il a parlé à M. Sherman, entre autres, de la participation à une telle entreprise.
+[28] Au lieu de faire partie d’un groupe d’investisseurs, M. Sherman a proposé à M. Hart d’acquérir le Compleat Carrel lui‑même, sans la participation de tiers.
+[29] M. Sherman était bien placé pour commercialiser le logiciel parce qu’il le connaissait bien, puisqu’il avait travaillé à sa mise au point et qu’il l’avait lui‑même utilisé comme outil dans les travaux de rédaction et d’édition qu’il exécutait pour Carswell.
+[30] M. Sherman a témoigné que ce qui l’intéressait initialement, c’était de commercialiser le Compleat Carrel avec des textes fiscaux qui étaient déjà disponibles, comme la Loi de l’impôt sur le revenu, la Loi sur la taxe d’accise et les bulletins gouvernementaux. Il a également témoigné qu’il avait conservé des droits d’auteur sur des annotations accompagnant la documentation qu’il avait rédigée pour Carswell.
+[31] En outre, M. Sherman a témoigné qu’il y avait pour le logiciel plusieurs sources potentielles de revenu, notamment les redevances d’utilisation du logiciel, les frais pour chaque livre vendu, les frais payés par les éditeurs pour la commercialisation de leur produit, et les frais de fonctionnement aux fins du maintien de bases de données pour des cabinets de spécialistes.
+[32] M. Hart a accepté l’opération proposée par M. Sherman et, le 31 octobre 1994, les appelants ont acquis certains droits sur le Compleat Carrel. Comme je le mentionnerai ci‑dessous, l’arrangement n’a duré que quelques semaines.
+[33] Les paragraphes suivants traitent brièvement des ententes pertinentes et des événements entourant ces opérations. Des détails concernant les ententes les plus pertinentes seront donnés plus loin.
+Entente de copropriété – 1er décembre 1993
+[34] Les appelants ont témoigné que le fait que le revenu de M. Sherman dépendait énormément de Carswell les préoccupait depuis un certain temps, et que cela préoccupait en particulier Mme Sherman.
+[35] Le 1er décembre 1993, les appelants ont signé une entente de copropriété en vertu de laquelle ils s’engageaient à tenter d’acquérir un ou plusieurs types de logiciels ou de manuscrits pour compléter et éventuellement remplacer leurs sources respectives existantes de revenu (pièce AR‑1, onglet 26). L’entente prévoit que les biens à acquérir pourraient comprendre des éléments rédigés ou créés en totalité ou en partie par les appelants ou par des tiers.
+[36] Les appelants ont acquis le Compleat Carrel à titre de copropriétaires (et non en tant qu’associés) conformément à l’entente.
+Acquisition du logiciel par les appelants – 31 octobre 1994
+[37] Le 31 octobre 1994, M. Hart et les appelants ont conclu une entente en vertu de laquelle les appelants acquéraient des droits sur le Compleat Carrel.
+[38] La contrepartie stipulée pour le logiciel était de 1 800 000 $, somme qui devait être payée au complet au troisième anniversaire. Un billet portant intérêt (le « billet ») faisait foi de l’obligation.
+[39] Aux termes d’une entente de consultation, M. Hart s’engageait à fournir des services de consultation à l’égard du logiciel pour une période de 15 mois moyennant le paiement d’honoraires s’élevant en tout à 105 000 $. Les honoraires, qui devaient être acquittés peu importe que les services de M. Hart aient été utilisés ou non, étaient payables en deux versements, soit 35 000 $ le 1er novembre 1994 et 70 000 $ le 31 octobre 1995.
+Transfert du logiciel à la société – 7 décembre 1994
+[40] Le 7 décembre 1994, soit environ cinq semaines après qu’ils eurent acquis le logiciel, les appelants ont transféré le logiciel à une société qu’ils détenaient en propriété exclusive aux conditions qui s’appliquent normalement aux opérations de transfert libre d’impôt visées à l’article 85 de la Loi.
+[41] Les documents de transfert n’ont pas été produits en preuve, mais il n’est pas contesté que le logiciel a été transféré à 1108025 Ontario Inc. (« Softcorp ») en contrepartie de la prise en charge par Softcorp de l’obligation de payer la moitié du prix d’achat et de l’émission d’actions ordinaires de Softcorp. Les appelants ont été libérés de la partie de l’obligation que Softcorp avait prise en charge et ils sont demeurés personnellement responsables de l’autre partie. M. Sherman a également reçu une licence sans redevance de Softcorp, l’autorisant à utiliser le logiciel dans ses autres activités commerciales.
+[42] M. Sherman a témoigné qu’il avait toujours voulu transférer le logiciel à une société après avoir demandé la DPA pour la première année (transcription, 8 mai, page 283). Cet objectif exigeait qu’il conserve son droit sur le logiciel jusqu’après la fin de son exercice, le 31 octobre 1994, et que Mme Sherman conserve son droit sur le logiciel jusqu’après la fin de son exercice, le 30 novembre 1994.
+Vente des actions de Softcorp à M. Hart – décembre 1994 et janvier 1995
+[43] Dans une lettre que M. Hart a envoyée aux appelants le 15 décembre 1994, soit environ six semaines après que les appelants ont acquis le logiciel, M. Hart a agréé la demande des appelants qui souhaitaient qu’il reprenne le logiciel au moyen d’une acquisition des actions de Softcorp. La lettre indique deux raisons pour lesquelles M. Hart acceptait cette demande – il reconnaissait que la situation des appelants avait changé et il voulait chercher des applications sur Internet du Compleat Carrel. Peu de temps après, les actions de Softcorp ont été transférées à M. Hart.
+[44] Les documents de rétrocession n’ont pas été produits en preuve, mais compte tenu d’autres éléments de preuve, l’opération a été exécutée de la façon prévue à l’article 5.8 de l’entente de garantie du logiciel (reproduit ci‑dessous). Les actions de Softcorp ont donc été transférées à M. Hart en paiement, entre autres choses, de la partie de l’obligation relative au prix d’achat qui incombait encore aux appelants (c’est‑à‑dire le paiement d’un montant de 900 000 $ au bout de trois ans). La vente des actions a été conclue en deux étapes, la première le 28 décembre 1994 et la seconde le 12 janvier 1995.
+[45] Dans le cadre de cet arrangement, M. Hart a également reçu un paiement en argent de 64 000 $, qui a été décrit dans le témoignage comme un paiement anticipé égal à la valeur actualisée du solde dû en vertu du contrat de consultation. Étant donné qu’un montant de 35 000 $ avait déjà été payé aux termes de ce contrat, un montant de 99 000 $ en tout a été versé à M. Hart.
+Opérations ultérieures
+[46] Quelques mois après que les actions de Softcorp ont été acquises par M. Hart, la société a manqué à son obligation, et M. Hart a réalisé sa garantie, qui était composée du logiciel.
+[47] Depuis lors, le logiciel appartient à M. Hart. Il n’a jamais été commercialisé et M. Hart s’est consacré à d’autres activités commerciales. Selon le témoignage de M. Hart, si les possibilités d’affaires qu’offrait le Compleat Carrel n’ont pas été poursuivies, c’était principalement, entre autres, à cause du décès d’une personne avec qui M. Hart avait voulu s’associer dans cette entreprise.
+Déclaration des opérations aux fins de l’impôt
+[48] Les appelants ont déclaré de la manière suivante les opérations ci‑dessus décrites aux fins de l’impôt :
+a) En ce qui concerne l’acquisition du logiciel par les appelants, le 31 octobre 1994, ils ont chacun demandé une DPA de 450 000 $ pour l’année d’imposition 1994. Les déductions globales, de 900 000 $, sont conformes au taux d’amortissement de cent pour cent pour les biens de la catégorie 12 et à la règle de la demi‑année qui s’applique à l’année d’acquisition;
+b) En ce qui concerne le transfert du logiciel en faveur de Softcorp le 7 décembre 1994, les appelants ont appliqué les dispositions de transfert libre d’impôt facultatif de l’article 85 de la Loi afin d’éviter la récupération de la DPA;
+c) En ce qui concerne la vente des actions de Softcorp à M. Hart au mois de décembre 1994 et au mois de janvier 1995, les appelants ont déclaré des gains en capital d’environ 450 000 $ chacun. Toutefois, les gains en capital ont été compensés presque entièrement par l’exemption à vie pour gains en capital, de 500 000 $, qui est prévue à l’article 110.6 de la Loi pour les dispositions d’actions de certaines sociétés privées.
+Détails pertinents concernant les ententes
+[49] L’acquisition du logiciel par les appelants a été mise en œuvre au moyen d’une série d’ententes qui ont toutes été conclues le 31 octobre 1994. Certaines des dispositions saillantes des ententes sont reproduites dans la présente section.
+[50] La principale entente était une entente d’acquisition de logiciel, qui décrivait les droits acquis comme comprenant la propriété du logiciel aux fins de la préparation de renseignements juridiques et de leur utilisation par des avocats, par des comptables et par des experts‑conseils partout en Amérique du Nord. M. Hart conservait des droits résiduels, y compris des droits à l’extérieur de l’Amérique du Nord, et le droit de commercialiser le produit auprès d’autres personnes.
+[51] Le prix d’achat stipulé pour le logiciel était de 1 800 000 $, payable au bout de trois ans, avec intérêts au taux de sept pour cent. Les intérêts étaient payables à chaque trimestre à compter du 31 janvier 1995, mais aucun intérêt n’était payable pour toute partie d’une période de trois mois.
+[52] Conformément à l’entente d’acquisition du logiciel et à une entente de garantie du logiciel, les appelants étaient autorisés à transférer le logiciel à une société leur appartenant à cent pour cent.
+[53] Aux termes d’une entente de sûreté du logiciel, M. Hart se voyait accorder un droit de sûreté sur le logiciel pour garantir l’exécution de l’obligation relative au prix d’achat. Lors du contre‑interrogatoire, M. Hart a reconnu qu’il n’avait pas fait enregistrer ce droit.
+[54] Aux termes d’une entente de garantie du logiciel, M. Hart déclarait et garantissait pour une période d’un an que les appelants pouvaient s’attendre à ce qu’une entreprise génère les recettes prévues dans un plan de commercialisation. À l’audience, le plan de commercialisation a été décrit comme étant un document daté du 30 septembre 1994, intitulé : [traduction] « Le plan de commercialisation du Compleat Carrel » (pièce AR‑1, onglet 35).
+[55] Étant donné que l’entente de garantie du logiciel est pertinente en ce qui concerne les questions qui sont ici en litige, certaines de ses dispositions sont reproduites ci‑dessous. Pour plus de clarté, je précise que la dénomination de « Amanuenses » dans ces extraits se rapporte au nom commercial de M. Hart.
+[traduction]
+ARTICLE 2
+GARANTIE DE LA VALEUR COMMERCIALE
+2.1 RECETTES DE VENTES – Amanuenses déclare et garantit (la « garantie de la valeur commerciale ») que les Sherman peuvent raisonnablement s’attendre à ce qu’une entreprise qui utilise le logiciel comme le prévoit le plan de commercialisation génère les recettes de ventes prévues dans le plan de commercialisation.
+ARTICLE 3
+RECOURS, DROITS ET OBLIGATIONS
+3.1 RECOURS LIMITÉ – Les parties conviennent que si, le 31 octobre 1995 au plus tard, les Sherman ont avisé Amanuenses qu’Amanuenses ne respecte pas la garantie de la valeur commerciale qu’elle a donnée, et si Amanuenses omet ensuite en fait de respecter la garantie de la valeur commerciale qu’elle a donnée, la seule obligation d’Amanuenses et le seul recours des Sherman seront le transfert en faveur d’Amanuenses des droits, titres et intérêts acquis par les Sherman à l’égard du logiciel en paiement du principal et des intérêts qui sont dus en vertu de l’entente d’acquisition du logiciel et la résiliation harmonieuse des ententes principales conformément aux dispositions de la présente entente portant sur la résiliation.
+3.2 AVIS DE RÉSILIATION – Au plus tard le 31 octobre 1995, les Sherman peuvent donner avis (l’« avis de résiliation ») à Amanuenses. L’avis de résiliation doit inclure :
+a) l’allégation de la part des Sherman selon laquelle Amanuenses ne respecte pas la garantie de la valeur commerciale;
+b) les motifs et précisions justifiant l’allégation faite par les Sherman;
+c) l’intention des Sherman de transférer à Amanuenses les droits, titres et intérêts acquis par les Sherman à l’égard du logiciel en paiement du principal et des intérêts qui sont dus en vertu de l’entente d’acquisition du logiciel et de coopérer à la résiliation harmonieuse des ententes principales conformément aux dispositions de la présente entente portant sur la résiliation.
+3.3 EXERCICE D’UN CHOIX PAR AMANUENSES – À la réception de l’avis de résiliation, Amanuenses dispose d’un délai de cinq jours ouvrables pour donner avis aux Sherman de sa décision :
+a) de contester les motifs invoqués par les Sherman, et :
+(i) de demander aux Sherman de retirer l’avis de résiliation, ou
+(ii) d’engager des procédures en vue du règlement du différend;
+ou :
+b) d’accepter l’avis de résiliation et de coopérer avec les Sherman en vue de mettre en œuvre les dispositions énoncées dans la présente entente aux fins du transfert en faveur d’Amanuenses des droits, titres et intérêts acquis par les Sherman à l’égard du logiciel en paiement du principal et des intérêts qui sont dus en vertu de l’entente d’acquisition du logiciel ainsi qu’aux fins de la résiliation des ententes principales.
+ARTICLE 5
+TRANSFERT AUTORISÉ À UNE SOCIÉTÉ
+5.1 TRANSFERT À UNE SOCIÉTÉ – Les Sherman peuvent transférer leurs droits, titres et intérêts à l’égard du logiciel à une société de l’Ontario (« SoftCorp ») leur appartenant à cent pour cent, SoftCorp devant de son côté :
+a) prendre en charge l’obligation de payer tout ou partie du principal et des intérêts qui sont dus en vertu de l’entente d’acquisition du logiciel;
+b) prendre en charge toutes les autres obligations des Sherman prévues dans la présente entente et dans les ententes principales;
+c) reconnaître que le logiciel est assujetti aux sûretés accordées dans l’entente de sûreté.
+5.3 ACCEPTATION – Dès réception de l’avis de transfert, si à la date du transfert, SoftCorp ne possède aucun élément d’actif ni aucun élément de passif important à part les droits et obligations acquis avec le transfert, Amanuenses acceptera le transfert et, dans la mesure où SoftCorp a pris en charge les obligations, Amanuenses libérera les Sherman et s’en remettra à SoftCorp pour exécuter les obligations.
+5.7 AVIS CONJOINT DE RÉSILIATION – Les Sherman, s’ils ont transféré tout le logiciel à SoftCorp et s’ils sont demeurés personnellement responsables du paiement de tout ou partie du principal et des intérêts qui sont dus en vertu de l’entente d’acquisition du logiciel, peuvent se joindre à SoftCorp pour donner un avis conjoint de résiliation (l’« avis conjoint de résiliation »), de la même façon et avec le même effet que lorsqu’un avis de résiliation est donné conformément à l’article 3 de la présente entente.
+5.8 RÉSILIATION COMPORTANT TRANSFERT DES ACTIONS DE SOFTCORP – Si une date de résiliation a été fixée par suite de la signification d’un avis conjoint de résiliation, entre Amanuenses et les Sherman, au plus tard à la date de la résiliation, les Sherman transféreront comme suit toutes les actions de SoftCorp à Amanuenses en paiement du principal et des intérêts qu’ils doivent à Amanuenses à la date de la résiliation :
+a) […] h).
+[56] M. Hart a témoigné que le plan de commercialisation était un remaniement de documents qu’il aurait rédigés pour lui‑même au fil des ans, et qui auraient été adaptés à l’opération conclue avec les appelants (transcription, 9 mai, pages 57 et 58). Le plan prévoit que le logiciel pouvait être commercialisé auprès d’avocats, de comptables et d’experts‑conseils partout en Amérique du Nord, les recettes prévues devant s’élever à 25 200 $US au cours de la première année et atteindre 29 119 800 $US au cours de la huitième année.
+Les relations avec Carswell
+[57] Carswell Publishing (qui fait maintenant partie de Thomson) et la société qu’elle a remplacée (De Boo) ont été, pendant un certain temps, la principale source de revenus de M. Sherman. Par le passé, les relations ont été fort bonnes, et elles ont généré des honoraires élevés pour M. Sherman.
+[58] Le 7 juillet 1994, le contact principal de M. Sherman chez Carswell, Barry Garnet, a fait l’objet d’un congédiement sommaire (pièce AR‑1, onglet 58, page 7). Son supérieur, Gary Rodrigues, a pris la relève par intérim jusqu’à ce qu’un remplaçant soit trouvé.
+[59] À ce moment‑là, M. Rodrigues a conclu que M. Sherman touchait une rémunération beaucoup trop élevée pour le travail qu’il faisait (pièce AR‑1, onglet 28). À la fin du mois de juillet, Carswell a donc informé M. Sherman qu’une décision avait été prise de faire moins appel à ses services et d’utiliser une équipe d’éditeurs pour s’occuper d’une bonne partie du travail.
+[60] Au cours des mois qui ont suivi, M. Sherman a vigoureusement essayé de faire annuler cette décision.
+[61] Le 17 octobre 1994, Carswell a embauché Janet Baccarani, qui devait s’occuper des publications fiscales. Mme Baccarani devait rendre compte à M. Rodrigues jusqu’à ce qu’un nouveau vice‑président soit désigné (pièce AR‑1, onglet 37). Mme Baccarani avait été mise au courant de la possibilité d’emploi chez Carswell par l’entremise de M. Sherman, qu’elle avait rencontré lors de diverses conférences fiscales.
+[62] Mme Baccarani a témoigné qu’après certaines discussions internes chez Carswell, les services d’un éditeur ont été retenus à titre d’essai pour qu’il effectue une partie du travail d’annotation antérieurement accompli par M. Sherman.
+[63] Au bout d’un certain temps, Mme Baccarani a conclu que les services de M. Sherman valaient ce que Carswell payait. Sa conclusion découlait en partie de la rétroaction positive qu’elle avait reçue au sujet du travail de M. Sherman lors d’une conférence fiscale, à la fin du mois de novembre 1994, et en partie des résultats, qui étaient loin d’être brillants, produits par l’éditeur provisoire.
+[64] M. Sherman a témoigné qu’au début du mois de décembre 1994, Mme Baccarani lui avait clairement fait savoir que c’était maintenant elle qui exerçait un contrôle sur le travail qu’il effectuait chez Carswell. Selon le témoignage de M. Sherman, les appelants ont donc décidé de tenter de résilier l’arrangement avec M. Hart, de façon que M. Sherman puisse consacrer presque tout son temps à Carswell. M. Sherman a dit que les discussions avec M. Hart avaient eu lieu entre le début et le milieu du mois de décembre (transcription, 8 mai, pages 130 et 134). Une autre raison qui a été donnée pour le changement d’attitude, une raison qui n’était toutefois pas importante, était que Mme Sherman avait subi une foulure à répétition.
+Valeur du logiciel
+[65] En ratifiant les nouvelles cotisations, le ministre a supposé que la juste valeur marchande du logiciel était nulle au moment où les appelants l’avaient acquis.
+[66] Les appelants ont présenté, au sujet de la valeur du logiciel, les témoignages d’expert de Howard Johnson et de Dennis Leung, qui sont des employés de la maison d’évaluation d’entreprises Campbell & Associates. Selon leurs estimations, la valeur du logiciel au moment pertinent se situait entre 1 300 000 $ et 1 900 000 $.
+[67] Aux dires de l’intimée, cette évaluation n’est pas fiable parce qu’elle est basée dans une large mesure sur l’opinion de M. Sherman lui‑même quant au marché possible pour le logiciel. Je suis complètement d’accord avec l’intimée sur ce point. La question de savoir s’il y a un marché pour le logiciel est un facteur crucial dans l’évaluation du logiciel, et le fait que les évaluateurs s’en sont largement remis aux opinions intéressées de M. Sherman a pour effet, à mon avis, de rendre leur opinion presque sans valeur.
+[68] Les témoignages de M. Bawden et de M. Foraker me convainquent que le logiciel a des fonctions utiles, mais cela ne veut pas pour autant dire qu’il pourrait être commercialisé avec succès auprès de cabinets de spécialistes.
+[69] Je conclus que la preuve dans son ensemble n’est pas suffisante pour réfuter l’hypothèse du ministre, à savoir que la valeur du logiciel au moment pertinent était nulle.
+Analyse
+[70] L’intimée soulève cinq arguments à l’appui des nouvelles cotisations; ces arguments sont brièvement énoncés au début des présents motifs. Dans certains cas, il s’agit de ce que je qualifierais d’arguments techniques, alors que d’autres arguments soulèvent des questions plus fondamentales. Mon analyse se limitera à ces derniers arguments. Si les opérations sont jugées valables à la lumière des questions fondamentales, j’hésite à conclure que les opérations étaient entachées d’un vice de forme, à moins que ce vice ne soit clair, ce qui n’est pas ici le cas.
+Le logiciel a‑t‑il été acquis en vue de gagner un revenu?
+[71] Selon l’intimée, l’acquisition du logiciel ne satisfait pas aux exigences de l’alinéa 1102(1)c) du Règlement, qui prévoit que le bien doit être acquis aux fins de gagner un revenu. La disposition en question est libellée en ces termes :
+1102(1) Les catégories de biens décrits dans la présente partie et dans l’annexe II sont censées ne pas comprendre les biens
+[...]
+c) qui n’ont pas été acquis par le contribuable aux fins de gagner ou de produire un revenu;
+[72] Dans l’arrêt Ludco Enterprises Ltd. et al. v. The Queen, 2001 DTC 5505, la Cour suprême du Canada a examiné un critère similaire concernant la fin consistant à tirer un revenu. Le critère en question est mentionné à l’alinéa 20(1)c) de la Loi, qui porte sur la déduction des intérêts. Je crois que les principes d’interprétation énoncés dans cet arrêt doivent également s’appliquer à l’alinéa 1102(1)c), quoique le libellé des deux dispositions soit légèrement différent.
+[73] La Cour suprême a d’abord dit que la nature de la fin poursuivie par le contribuable doit être déterminée compte tenu de facteurs subjectifs et de facteurs objectifs, et qu’une fin accessoire consistant à tirer un revenu suffira. Les remarques suivantes que le juge Iacobucci a faites sont utiles lorsqu’il s’agit de décider de la façon dont la norme doit être établie :
+[54] Maintenant qu’il a été décidé qu’une fin accessoire consistant à tirer un revenu peut constituer la fin requise pour que les intérêts soient déductibles, il reste encore à se demander de quelle façon les tribunaux doivent déterminer si la fin requise – soit celle de tirer un revenu – est présente. Quelle norme faut‑il appliquer? Dans l’interprétation de la Loi, tout comme dans d’autres domaines du droit, les tribunaux appelés à dégager l’objet d’une mesure ou l’intention de son auteur doivent déterminer objectivement la nature de la fin poursuivie en tenant compte à la fois des éléments subjectifs et objectifs pertinents : voir les arrêts Symes, précité, p. 736; Continental Bank, précité, par. 45; Backman, précité, par. 25; et Spire Freezers, précité, par. 27. Par conséquent, voici le critère applicable pour déterminer la fin visée par l’utilisation des fonds empruntés et décider si l’intérêt est déductible en application du sous‑al. 20(1)c)(i) : Compte tenu de toutes les circonstances, le contribuable avait‑il, au moment de l’investissement, une expectative raisonnable de tirer un revenu?
+[55] Le critère de l’expectative raisonnable est compatible avec la notion de fin telle qu’elle est formulée dans la disposition et il constitue une norme objective, indépendamment de l’intention subjective du contribuable, laquelle est en soi pertinente mais non décisive. Il permet en outre d’éviter bon nombre des écueils inhérents aux autres critères proposés et il contribue à la réalisation de l’objectif de politique générale visé par la disposition relative à la déductibilité des intérêts, savoir l’accumulation des capitaux et l’investissement, comme il est expliqué dans la partie suivante des présents motifs.
+[74] Deuxièmement, la Cour a conclu que le « revenu » doit s’entendre du revenu brut, et que la suffisance du revenu doit entrer en ligne de compte uniquement dans des circonstances restreintes. Voici ce que le juge Iacobucci a dit :
+[59] […] En l’absence d’un trompe-l’œil, d’un artifice ou d’autres circonstances viciant l’opération, les tribunaux ne devraient donc pas se demander si le revenu escompté ou touché a un caractère suffisant.
+[75] Enfin, le juge Iacobucci fait remarquer, au paragraphe 64, que la réalité économique n’est pas pertinente s’il est par ailleurs satisfait aux exigences légales.
+[76] En ce qui concerne la pertinence de l’intention de réaliser une économie d’impôt, l’avocat des appelants fait valoir qu’il importe peu que l’on ait voulu réaliser une économie d’impôt; il invoque sur ce point l’arrêt Hickman Motors Ltd. v. The Queen, 97 DTC 5363 (C.S.C.), page 5364.
+[77] Je souscris à cette déclaration, pour ce qu’elle vaut, mais elle n’aide les appelants que s’il a déjà été établi que la fin de l’opération consistait à gagner un revenu, comme ce fut le cas dans l’arrêt Hickman Motors.
+[78] Il importe de noter que, dans les affaires Hickman Motors et Ludco Enterprises, les contribuables avaient en fait gagné un certain revenu. À mon avis, si aucun revenu n’a été gagné, l’existence de l’intention de réaliser une économie d’impôt peut être pertinente lorsqu’il s’agit de savoir si le contribuable a l’intention requise de gagner un revenu.
+[79] Toutefois, la pertinence de la question de l’intention de réaliser une économie d’impôt dépend des circonstances. Dans l’arrêt Water’s Edge Village Estates (Phase II) Ltd. v. The Queen, 2002 DTC 7172 (C.A.F.), le juge Noël a fait remarquer que l’intention de réaliser une économie d’impôt et la fin qui consiste à gagner un revenu sont souvent compatibles. Voici ce qu’il a dit :
+[17] […] Il sera d’autant plus difficile d’écarter une intention commerciale déclarée lorsque cette intention est compatible avec la réalisation d’une motivation fiscale principale et que cette intention est confirmée par des éléments de preuve objectifs.
+[80] En ce qui concerne les faits et circonstances des présents appels, je conclus que les facteurs subjectifs et objectifs pour ce qui est de l’intention de gagner un revenu jouent dans les deux sens. Il faut donc se demander si, selon toute probabilité, les appelants ont acquis le logiciel dans un but commercial, par opposition à un arrangement purement axé sur des fins fiscales.
+[81] Compte tenu de la preuve dans son ensemble, j’ai conclu que, selon toute probabilité, l’arrangement avait uniquement pour objet de réduire l’impôt, sans aucune fin accessoire consistant à gagner un revenu.
+[82] En particulier, je conclus que les opérations se sont probablement déroulées comme on l’avait prévu, c’est‑à‑dire que le logiciel n’a été possédé que pendant peu de temps, que des avantages fiscaux importants ont été demandés (soit des demandes de DPA s’élevant à 900 000 $) et que peu de dépenses ont été engagées en sus des honoraires de 99 000 $ de M. Hart.
+[83] Certaines constatations se dégagent de ces opérations. Premièrement, le logiciel n’a été possédé que pendant une brève période, six semaines seulement s’étant écoulées entre le moment de l’acquisition et le moment où la rétrocession a été documentée dans la lettre du 15 décembre de M. Hart.
+[84] Deuxièmement, ce qui me frappe dans la preuve, c’est que M. Hart et M. Sherman entretenaient des relations étroites et que les témoignages ne donnaient pas une idée claire de toutes les discussions qui avaient eu lieu entre eux.
+[85] Troisièmement, comme il en a ci‑dessus été fait mention, les appelants ont engagé peu de dépenses en sus des 99 000 $ versés à M. Hart. Je note en particulier que les appelants n’ont pas eu à payer d’intérêts sur le prix d’achat reporté étant donné que les intérêts ne couraient pas lorsqu’une partie seulement d’une période de trois mois était en cause. Les intérêts s’accumulaient uniquement sur les montants impayés le 31 janvier 1995; or, les appelants se sont pleinement acquittés de leur obligation peu de temps auparavant.
+[86] En outre, il ressort de la preuve documentaire que le montant du prix d’achat, soit 1 800 000 $, permettait aux appelants de demander presque toute l’exemption pour gains en capital dont ils disposaient à ce moment‑là.
+[87] De plus, je constate que M. Hart n’avait pas pu commercialiser avec succès le logiciel après que le cabinet d’avocats Osler s’est retiré du projet. En outre, la preuve ne réussit pas à me convaincre que M. Hart a eu l’intention de faire quoi que ce soit avec le logiciel après l’avoir acquis de nouveau.
+[88] Je ferai également remarquer qu’étant donné que les appelants n’avaient pas conclu de contrats de licence avec des tiers, les appelants et M. Hart n’avaient pas assumé d’obligations continues envers des porteurs de licence.
+[89] En ce qui concerne certains des éléments de preuve les plus forts à l’appui de la position des appelants, je tiens à faire les remarques suivantes.
+[90] Premièrement, je reconnais que les appelants ont fait certains efforts de commercialisation au cours de la période où le logiciel leur appartenait. Ces efforts ont été décrits dans les observations suivantes que M. Sherman a soumises à l’Agence du revenu du Canada (l’« ARC ») le 3 août 1996 (pièce AR‑1, onglet 58, pages 15 et 16) :
+[traduction]
+Immédiatement après l’acquisition du logiciel, nous avons commencé à faire des démonstrations et à assurer la commercialisation. Ainsi :
+· J’ai eu une rencontre qui a duré plusieurs heures avec Barry Garnet, qui travaillait alors pour son propre compte et qui cherchait des possibilités de publication et de commercialisation dans le domaine informatique et juridique. Je lui ai montré le logiciel d’une façon détaillée, et nous avons entamé des discussions au sujet de la question de savoir s’il pouvait s’occuper d’une partie du travail de commercialisation auprès de cabinets d’avocats et de cabinets comptables. Nous avons également discuté de l’utilisation du logiciel pour la publication de documents visant à aider les usagers de TaxPrep et d’autres programmes d’établissement de déclarations de revenus, de l’utilisation du logiciel par des cabinets d’avocats pour la publication interne, et de la liaison de la commercialisation avec d’autres produits commerciaux comme le SoftQuad.
+· J’ai eu des discussions préliminaires à Vancouver avec Malcolm Campbell, vice‑président de Dr. Tax, la deuxième entreprise canadienne en importance s’occupant de l’établissement de déclarations de revenus, au sujet de l’utilisation du logiciel pour publier des renseignements parallèles susceptibles d’être utilisés par les usagers de Dr. Tax à des fins de recherche dans le cadre de l’établissement de déclarations de revenus. Ces discussions ont été suivies d’autres discussions qui ont eu lieu par téléphone avec le président de Dr. Tax, George Farkas, qui a pris des dispositions pour venir à Toronto depuis Montréal à la fin du mois de janvier 1995 afin de discuter de ces questions.
+· J’ai organisé une rencontre avec Ron Collins, président de Gavel & Gown Software, pour discuter d’une offre conjointe du Compleat Carrel avec des liens au logiciel de gestion de renseignements personnels de l’avocat « Amicus Attorney » de Gavel & Gown, et pour examiner la possibilité d’avoir accès à la clientèle de Gavel & Gown. La première rencontre, qui devait avoir lieu le 8 décembre 1994, a été reportée deux heures avant l’heure prévue, à sa demande, et la rencontre a eu lieu au mois de janvier 1995.
+· J’ai passé plusieurs heures à montrer le logiciel à Janet Baccarani et à Steven Webb, de Carswell, et nous avons discuté de l’utilisation des éléments de modélisation de documents du logiciel aux fins de la publication de modèles de documents en matière fiscale. La chose devait se faire au moyen de l’utilisation du logiciel comme complément du disque de publications électroniques et des produits CD‑ROM plus conventionnels de Carswell, qui venaient tout juste d’être lancés.
+[91] Je reconnais que M. Sherman a eu des discussions préliminaires avec des clients éventuels, mais il vaut la peine de noter qu’il n’a pas eu de discussions avec la clientèle de base, à savoir les cabinets d’avocats et les cabinets comptables.
+[92] À mon avis, il est également important de noter qu’étant donné que les appelants n’ont été propriétaires de ce logiciel que pendant une brève période, il aurait été facile de mettre fin à ces discussions préliminaires avant qu’elles ne deviennent sérieuses.
+[93] Sur ce point, je remarque l’extrait suivant du contre‑interrogatoire de Mme Baccarani, dans lequel il a été déclaré qu’il n’y a pas eu de suivi après la rencontre au cours de laquelle le logiciel lui avait été montré :
+[traduction]
+Q. Étiez‑vous la personne qui aurait été responsable d’un changement des produits utilisés par Carswell, dans le cas où vous auriez jugé avantageux de le faire?
+R. Cela ne relevait pas de mes responsabilités, mais j’aurais été en mesure de le mettre en contact avec les gens qui en étaient responsables. [...]
+Q. D’accord, mais vous ne l’avez pas fait?
+R. Non.
+Q. Pourquoi pas?
+R. Parce que, au moment où il me l’a montré, comme je l’ai dit, je ne savais réellement pas comment cela allait fonctionner, de sorte que quelques mois plus tard, il n’en a plus parlé.
+Q. Par conséquent, ni lui ni vous n’avez poursuivi l’affaire?
+R. En effet.
+[94] Pour ces motifs, je conclus qu’il faut accorder peu de poids aux réunions d’affaires qui ont été tenues.
+[95] J’ai également tenu compte des relations que M. Sherman entretenait avec Carswell au moment pertinent. Je reconnais que ces relations étaient sur le point d’être rompues pendant l’été 1994 et que M. Sherman aurait vu d’un bon œil d’autres possibilités d’affaires à ce moment‑là. Toutefois, je ne suis pas convaincue qu’une entreprise axée sur le Compleat Carrel était une telle possibilité.
+[96] En l’espèce, il manque une preuve objective qui établit clairement l’existence d’un lien entre le moment où les événements se sont produits chez Carswell et le moment où l’opération concernant le logiciel a été conclue. La preuve sur ce point, mis à part les témoignages des appelants et le témoignage de M. Hart, que je ne considère pas comme un témoin désintéressé, n’était pas convaincante. La preuve dans son ensemble semble plutôt compatible avec la conclusion selon laquelle les événements chez Carswell et l’opération concernant le logiciel étaient deux événements indépendants qui se sont produits au cours de périodes qui se chevauchaient.
+[97] Premièrement, je remarque qu’au moyen de l’entente qu’ils ont conclue le 1er décembre 1993, les appelants envisageaient de chercher une possibilité d’affaires telle que celle‑ci en tant que remplacement possible de leurs sources de revenus existantes. Le contact que M. Sherman avait depuis longtemps chez Carswell, M. Garnet, a fait l’objet d’un congédiement sommaire sept mois après la conclusion de cette entente. Je retiens le témoignage des appelants, lorsqu’ils affirment que le fait que M. Sherman était à la merci de Carswell au point de vue économique les inquiétait, mais je ne comprends pas pourquoi, au 1er décembre 1993, les appelants auraient tous deux envisagé de renoncer à leurs sources existantes de revenu.
+[98] Deuxièmement, le laps de temps nécessaire pour établir un lien entre le changement survenu chez Carswell et l’opération de rétrocession du logiciel est fort court. À mon avis, la preuve ne montrait pas d’une façon suffisamment convaincante que les événements s’étaient déroulés exactement comme les appelants l’ont affirmé.
+[99] Les appelants ont témoigné qu’au début du mois de décembre, ils considéraient la situation chez Carswell comme suffisamment sûre pour décider de mettre fin à l’entreprise se rattachant au logiciel. Ils ont ensuite entamé des discussions avec M. Hart, qui a documenté son acceptation le 15 décembre 1994.
+[100] À mon avis, la preuve objective, et en particulier le témoignage de Mme Baccarani, n’est pas suffisamment détaillée pour corroborer cette chronologie.
+[101] Le témoignage de Mme Baccarani étaye la position des appelants d’une façon générale, mais elle n’étaye pas clairement la chronologie avancée. Mme Baccarani a témoigné avoir évalué la situation pendant un certain temps et avoir ensuite informé M. Rodrigues de ce qu’elle voulait faire. Lors de son interrogatoire principal, voici ce qu’elle a déclaré (transcription, 21 juin, page 12) :
+[traduction]
+Voyons, cela a pris un mois et demi ou peut‑être deux mois, puis j’ai commencé à savoir ce que je voulais faire. Et je l’ai dit à Gary.
+[102] À mon avis, il est important qu’il y ait une preuve claire pour étayer les témoignages que les appelants et M. Hart ont présentés au sujet de ce bref intervalle de temps. Je ne suis pas convaincue que le témoignage de Mme Baccarani réussit à le faire.
+[103] Je tiens également à faire remarquer que le moment où les événements se seraient produits n’est pas corroboré par une note de service pour dossier non signée, qui renferme une évaluation détaillée du travail effectué par l’éditeur provisoire. La note de service est datée du 17 décembre 1994. À mon avis, il est peu probable que Mme Baccarani elle‑même ait procédé à l’évaluation détaillée de ce travail, et je conclus qu’elle a probablement reçu l’évaluation le 17 décembre 1994 ou vers cette date.
+[104] Étant donné que Carswell avait décidé, pendant l’été, d’avoir recours à d’autres éditeurs, que M. Rodrigues croyait fermement que la valeur du travail de M. Sherman était surestimée et que Mme Baccarani a informé M. Rodrigues de ses projets, je crois qu’il est peu probable que Mme Baccarani se soit fait une idée au sujet du travail de M. Sherman avant de recevoir l’évaluation du travail de l’éditeur provisoire.
+[105] Étant donné le laps de temps extrêmement court pendant lequel ces événements se seraient apparemment produits, il est important qu’il y ait une preuve objective à l’appui. Je n’ai pas trouvé la preuve convaincante sur ce point.
+[106] Pour ces motifs, si j’examine la preuve dans son ensemble, je ne suis pas convaincue que les appelants ont acquis le logiciel afin de gagner un revenu.
+[107] À titre d’argument subsidiaire, les appelants soutiennent qu’il est satisfait au critère voulant que la fin qu’ils ont poursuivie ait consisté à gagner un revenu étant donné que M. Sherman utilisait personnellement le logiciel dans son entreprise existante. Il serait possible de soutenir que cette utilisation est suffisante pour constituer une fin accessoire consistant à gagner un revenu, du moins en ce qui concerne la DPA demandée par M. Sherman.
+[108] Cependant, je ne suis pas convaincue que l’utilisation personnelle du logiciel par M. Sherman est liée à l’acquisition du logiciel le 31 octobre 1994. M. Sherman avait conclu un arrangement officieux préexistant afin de pouvoir utiliser le logiciel, et il n’y a pas lieu de croire que l’on estimait nécessaire d’adopter formellement cet arrangement.
+[109] Pour ces motifs, je conclus que les appelants ont acquis le logiciel uniquement pour demander des déductions d’impôt et non pour gagner un revenu. Par conséquent, il n’a pas été satisfait à l’exigence énoncée à l’alinéa 1102(1)c) du Règlement.
+Le prix d’achat était‑il une obligation éventuelle?
+[110] La conclusion qui précède suffit pour statuer sur les appels. Toutefois, étant donné que l’intimée a accordé énormément d’importance à la question de l’obligation éventuelle, je vais également examiner la question. Pour les besoins de la présente section seulement, je suppose que les opérations avaient été conclues dans le but de gagner un revenu.
+[111] Les parties ne sont pas en désaccord au sujet du principe de droit applicable en ce qui concerne les obligations éventuelles et la DPA. Il est reconnu qu’une obligation éventuelle ne fait pas partie du coût du bien pour l’application de la DPA.
+[112] Je suis d’accord, mais je ferai remarquer que dans l’arrêt invoqué par l’intimée, Mandel v. The Queen, 80 DTC 6148 (C.S.C.), aucun avis n’était exprimé au sujet du principe de droit pertinent. Dans une décision fort brève, la Cour suprême a simplement dit qu’elle souscrivait au résultat de la décision de la Cour d’appel fédérale (78 DTC 6518).
+[113] Je note que la décision de la Cour d’appel fédérale semble être fondée sur une preuve d’expert‑comptable par opposition à un principe de droit. À la page 6523, le juge Ryan dit :
+[…] Il ressort des témoignages des experts-comptables, témoignages qui ont été à juste titre admis par le juge de première instance, que la méthode appropriée pour déterminer le coût en capital pour les contribuables consiste à inclure l'acompte et à exclure le passif éventuel, les paiements ultérieurs, le cas échéant, étant comptés quand ils auront été effectués. […]
+[114] Même si, dans l’arrêt Mandel, la Cour suprême n’a pas examiné la question, je souscris au principe de droit énoncé par les parties.
+[115] Le jugement qui fait autorité lorsqu’il s’agit de savoir s’il y a éventualité est l’arrêt Wawang Forest Products Ltd. et al. v. The Queen, [2001] 2 C.T.C. 233 (C.A.F.), dans lequel la juge Sharlow dit ce qui suit :
+[16] […] la question qu’il faut se poser, pour décider du caractère éventuel ou non d’une obligation juridique à un moment précis, est de savoir si l’obligation juridique existe à ce moment précis ou si elle ne naîtra qu’au moment où surviendra un événement, qui pourrait ne pas se produire. […]
+[116] Dans les présents appels, les appelants soutiennent qu’ils avaient une obligation inconditionnelle de verser 1 800 000 $ à M. Hart au bout de trois ans.
+[117] L’intimée fait quant à elle valoir que l’entente de garantie donne aux appelants le droit de renoncer au marché n’importe quand au cours de la première année parce qu’il n’est pas réaliste de s’attendre à ce qu’il soit possible de respecter la garantie. Sur ce point, le plan de commercialisation prévoit que le logiciel pourrait être commercialisé auprès de 135 000 usagers au bout de huit années d’exploitation, les recettes cumulatives devant alors s’élever à plus de 55 000 000 $US.
+[118] Je ferai en premier lieu remarquer que l’obligation qui incombe aux appelants de payer 1 800 000 $ est assujettie non seulement à la garantie, mais aussi à la possibilité de s’en dégager au moyen d’un transfert du logiciel et de l’obligation connexe à une société.
+[119] Le second élément n’a pas été soulevé par l’intimée et je ne fonderai donc pas ma décision sur ce point. Toutefois, je me demande si une obligation absolue de payer 1 800 000 $ a pris naissance dans ces conditions, étant donné en particulier que le bien a une valeur nominale.
+[120] En ce qui concerne la garantie, je suis d’accord avec l’intimée pour dire que cette entente est dépourvue de tout caractère commercial.
+[121] La déclaration figurant dans la garantie est libellée en ces termes (article 2.1 de l’entente de garantie du logiciel) :
+[traduction]
+[…] les Sherman peuvent raisonnablement s’attendre à ce qu’une entreprise qui utilise le logiciel comme le prévoit le plan de commercialisation génère les recettes de ventes prévues dans le plan de commercialisation.
+[122] L’un des problèmes que pose cette clause est qu’il est présumé que les appelants exploiteront une entreprise de la façon qui est décrite dans le plan de commercialisation. Cependant, telle n’était pas l’intention des appelants, du moins aux stades initiaux de l’entreprise, lorsque la garantie devait s’appliquer.
+[123] Le plan de commercialisation prévoit que le logiciel pourrait faire l’objet de licences partout en Amérique du Nord auprès de 135 496 clients au bout de huit années d’exploitation. Cependant, les appelants ont témoigné qu’initialement c’étaient les cabinets de spécialistes au Canada, et en particulier les fiscalistes, qui les intéressaient.
+[124] Selon les appelants, le marché géographique dont il est question dans le plan de commercialisation n’est pas pertinent et il faut uniquement mettre l’accent sur les recettes prévues. Les appelants affirment que les prévisions sont raisonnables s’il est tenu compte de leurs plans d’entreprise pour le marché canadien.
+[125] Je crois que cela constitue une interprétation erronée de l’entente de garantie. Selon l’entente, les appelants ne pouvaient pas s’attendre à invoquer avec succès la garantie à moins que le logiciel ne soit utilisé de la façon prévue dans le plan de commercialisation.
+[126] En outre, même si le logiciel devait être utilisé de la manière prévue dans le plan de commercialisation, les prévisions de ventes sont si peu réalistes que les parties ne pouvaient pas avoir cru qu’il serait possible de donner suite à la déclaration dans un délai d’un an.
+[127] Les recettes prévues s’élevaient à plus de 55 000 000 $US sur une période cumulative de huit ans. Il est invraisemblable que l’une ou l’autre des parties ait pensé que cette entreprise avait le potentiel de générer des recettes de cette importance au cours de la première année, soit la période au cours de laquelle la garantie pouvait être invoquée.
+[128] Le plan de commercialisation lui‑même anticipe un nombre fort restreint de ventes au cours de la première année et prévoit qu’un certain nombre d’activités préliminaires seraient accomplies. Ces activités sont décrites de la manière suivante dans le plan de commercialisation :
+[traduction]
+Plan d’exploitation
+a) embaucher une personne chargée du soutien à la commercialisation et un ingénieur en logiciel pour préparer le logiciel en vue de son installation dans un emplacement d’essai;
+b) obtenir deux ou trois emplacements d’essai, comme les services fiscaux de gros cabinets d’avocats et de gros cabinets comptables, à Toronto;
+c) négocier avec les éditeurs pour obtenir des documents de bibliothèque appropriés;
+d) créer une bibliothèque de référence électronique composée de documents publiés et de documents de travail réutilisables pour les services d’essai;
+e) s’occuper de la formation des avocats et du personnel au premier emplacement d’essai et commencer les essais;
+f) ajouter les deuxième et troisième emplacements d’essai;
+g) obtenir une licence pour un logiciel serveur pour mettre en place un site Web, et prendre des dispositions auprès des propriétaires du contenu afin de publier une bibliothèque d’essai Compleat Carrel sur le Web. Mettre gratuitement un fureteur spécial à la disposition des usagers au cours de la première année en vue de vérifier le degré d’intérêt. Incorporer le logiciel de navigation du Web dans le produit courant Compleat Carrel;
+h) embaucher des ingénieurs en logiciel supplémentaires en vue d’améliorer le logiciel existant et de planifier le développement d’un logiciel multi‑plateforme;
+i) préparer un nouveau plan d’entreprise qui :
+i. assure la mise au point de la génération suivante du logiciel;
+ii. établit de nouveaux débouchés;
+iii. crée des alliances avec des éditeurs et des fournisseurs de renseignements particuliers.
+[129] Pour ces motifs, je ne puis accepter l’assertion selon laquelle les parties ont voulu que cette garantie soit mise en application par M. Hart. La seule interprétation raisonnable est que les parties voulaient que l’entente confère aux appelants le droit de renoncer à l’arrangement n’importe quand au cours de la première année.
+[130] Je ferai remarquer que cette conclusion va un peu plus loin que l’hypothèse émise par le ministre lors de la vérification. Cette hypothèse a été corroborée au cours des interrogatoires préalables lorsque le chef de l’équipe chargée de la vérification a confirmé que l’intimée croyait que les appelants ne pouvaient pas simplement renoncer au marché.
+[131] J’hésite généralement à rejeter les aveux de fait de l’intimée, mais les faits mis à ma disposition m’obligent à le faire. Je tiens également à faire remarquer que l’équipe de vérification n’avait probablement pas à sa disposition la preuve abondante qui a été produite à l’instruction. À mon avis, la seule interprétation sensée de l’entente de garantie, eu égard aux circonstances de l’affaire, est qu’elle devait conférer aux appelants le droit de renoncer à l’arrangement n’importe quand au cours de la première année.
+[132] Où cela nous mène‑t‑il? Cela veut‑il dire que le prix d’achat au complet constitue une obligation éventuelle comme le soutient l’intimée?
+[133] La Cour suprême est à l’heure actuelle saisie d’une question similaire dans un appel interjeté par la Couronne dans l’affaire McLarty v. The Queen, 2006 DTC 6340 (C.A.F.). Les appelants m’ont demandé de ne pas attendre que la Cour suprême se soit prononcée sur la question pour rendre la décision ici en cause, et je souscris à leur approche.
+[134] Eu égard aux faits des présents appels, le montant qui a un caractère éventuel dépend à mon avis de la valeur du logiciel.
+[135] Au moment où le coût du bien devait être déterminé, les appelants disposaient de plusieurs choix. Ils pouvaient conserver le logiciel et payer 1 800 000 $ au bout de trois ans, avec intérêts; ils pouvaient transférer le logiciel à une société et être libérés de tout ou partie de l’obligation relative au prix d’achat; ils pouvaient transférer le logiciel (ou les actions de Softcorp) à M. Hart en paiement du principal et des intérêts qu’ils devaient alors.
+[136] Dans ces conditions, le montant maximum que les appelants se sont engagés à payer pour s’acquitter de l’obligation relative au prix d’achat est le moins élevé des deux montants suivants : 1 800 000 $ ou la valeur du logiciel. Par conséquent, si le logiciel a une valeur nominale, on ne saurait considérer que les appelants ont assumé une obligation absolue de payer 1 800 000 $.
+[137] Au stade de l’opposition, le ministre a supposé que la valeur était nulle et, comme il en a été question dans les présents motifs, la preuve n’est pas suffisante pour qu’il soit possible de réfuter cette présomption.
+[138] Pour ces motifs, je conclus que le prix d’achat au complet est une obligation éventuelle et que le coût du logiciel pour les appelants est nul.
+[139] Avant de terminer cette partie de l’analyse, je ferai également une remarque incidente, à savoir qu’une autre approche aboutissant au même résultat pourrait être prise.
+[140] En l’espèce, le prix d’achat dépasse largement la juste valeur marchande du logiciel. Toutefois, un autre bien a été acquis dans le cadre du même arrangement, et la contrepartie pourrait lui être attribuée en totalité ou en partie. L’entente de garantie permet aux appelants de s’acquitter de l’obligation de payer les 1 800 000 $ en transférant un bien d’une valeur nominale. Dans ce cas‑ci, l’entente de garantie elle‑même doit avoir eu une valeur de près de 1 800 000 $.
+[141] Il est peu sensé d’attribuer la totalité de la contrepartie au logiciel lorsqu’un bien d’une valeur bien supérieure a été acquis. Si la contrepartie est répartie en fonction de la valeur réelle des biens acquis dans le cadre de l’arrangement, le logiciel n’aura pas plus qu’un coût nominal.
+Conclusion
+[142] Compte tenu de ces conclusions, je n’ai pas l’intention d’examiner les autres arguments de l’intimée qui ont été énoncés au début des présents motifs. L’intimée n’a pas fortement insisté sur la chose, avec raison, à mon avis.
+[143] Les appels seront rejetés. L’intimée aura droit aux dépens, mais un seul mémoire de frais pour les honoraires des avocats sera accordé.
+Signé à Toronto (Ontario), ce 3e jour d’avril 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 25e jour de février 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2008CCI186
+Nos DES DOSSIERS DE LA COUR :
+2005-1604(IT)G
+2005-1605(IT)G
+INTITULÉ :
+Simone Sherman et
+Sa Majesté la Reine
+David M. Sherman et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 7, 8 et 9 mai, le 21 juin et le 25 septembre 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge Woods
+DATE DU JUGEMENT:
+Le 3 avril 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Robert McMechan
+Avocat de l’intimée :
+Me Ernest Wheeler
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Robert McMechan
+Cabinet :
+Robert McMechan
+Ottawa, Canada
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

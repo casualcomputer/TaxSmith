@@ -1,0 +1,249 @@
+---
+title: "Yoon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25785/index.do"
+last_modified: "2005-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 366"
+citation2: ""
+neutral_citation: "2005 TCC 366"
+decision_date: "2005-07-22"
+language: "en"
+item_id: "25785"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3795
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:33:31.256000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5729d66bb7413a013d0f7c745a1918357b3d481873e208a8d88bad2f669d3baa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yoon v. The Queen
+
+- Citation: 2005 TCC 366
+- Decision date: 2005-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3795, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yoon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-22
+Neutral citation
+2005 TCC 366
+File numbers
+2004-175(IT)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-175(IT)G
+BETWEEN:
+HAE S. YOON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Matthew Stacey
+Counsel for the Respondent:
+Patricia Babcock
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was not a resident of Canada in the 2001 taxation year.
+Signed at Ottawa, Canada, this 22nd day of July, 2005.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2005TCC366
+Date: 20050722
+Docket: 2004-175(IT)G
+BETWEEN:
+HAE S. YOON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Vancouver, British Columbiaon May 16, 2005. The issue is whether the Appellant ("Mrs. Yoon") was resident in Canadain the 2001 taxation year, such that income tax was payable by her on all of her taxable income for that year. In the pleadings another issue was addressed namely whether if Mrs. Yoon was taxable in Canadain 2001, she was entitled to deduct certain expenses. However, counsel for the Appellant explained at the hearing that that issue was no longer of concern and that the only issue was the question of whether Mrs. Yoon was resident in Canadain 2001.
+Facts
+[2] I find the principal facts to be as follows:
+Mrs. Yoon was born in 1946 in South Korea, grew up in Koreaand attended university there.
+In 1975, Mrs. Yoon moved to Canada, married Ken Yoon there, became a Canadian citizen, had a daughter named Caroline in 1980 and a son named Andrew in 1982.
+In 1984, Mrs. Yoon, her husband, and her children moved back to Korea and rented condominiums in Seoulfrom 1984 to 2002, the third and last of which was rented from 1995 to 2002.
+From 1984 to 2000, Mrs. Yoon visited Canadathree times. The length of her visits were between 10 days and two weeks.
+In 1999, Mrs. Yoon and her husband decided that they would retire in Vancouver, British Columbia in the future and in February, 2000, the Yoons jointly purchased a townhouse in South Surrey.
+In 2000, Mrs. Yoon spent 301 days in Korea, living in her last condominium, and 34 days in Vancouver. Mrs. Yoon's son and daughter continued to live in Koreathroughout 2000.
+On December 7, 2000, Mrs. Yoon signed a contract (the "MBT Contract") with Multimedia Broadband Technologies ("MBT") for a term of two years beginning January 1, 2001. She worked under the MBT Contract from January 2001 to June 30, 2002. The basic terms of the contract were as follows:
+a. Mrs. Yoon was to provide translation of English documents and participate in business meetings with foreigners as an interpreter and render related services;
+b. Mrs. Yoon was obliged to be at the office between 10:00 a.m. and 3:00 p.m. every working day.
+In 2001,
+a. Mrs. Yoon's daughter lived with her throughout 2001 and Mrs. Yoon's son lived with her throughout January and February, 2001. In March, 2001, Mrs. Yoon's son moved to a dormitory on a university campus, but came back home to live with Mrs. Yoon on weekends. In December, 2001, Mrs. Yoon's son visited his father in Vancouver.
+b. Mrs. Yoon owned and used two cars in Korea. She also owned and used a car in Canadaand had bank accounts in Canada.
+c. Mrs. Yoon carried a Korean Health Insurance Card and had four bank accounts in Korea.
+d. Mrs. Yoon spent 135 days in Canada and 224 days in Korea. Her husband spent most of 2001 in Canada.
+Mrs. Yoon's only sources of income in 2001 were the funds paid by MBT under the MBT Contract and interest earned on funds deposited in Canadian banks.
+Mrs. Yoon was engaged in several social cultural and religious activities in Koreain 2000 and 2001.
+Mrs. Yoon filed an income tax return in Canadafor the 2001 taxation year, reporting $63,826.98 in investment income representing interest on deposits in Canadian banks and $72,060.00 in "foreign income" representing funds received under the MBT Contract.
+In 2002, Mrs. Yoon continued to travel back and forth to Korea, gradually spending more and more time in British Columbia than in Korea.
+Submissions of Counsel for the Appellant
+[3] The following is a summary of counsel's submissions.
+After concluding that Mrs. Yoon was not a deemed resident of Canada under subsection 250(1) of the Income Tax Act ("Act"), having not sojourned in Canada for 183 days in 2001 nor attracting any of the other conditions of that subsection and after reviewing some of the jurisprudence relative to determining residence, counsel stated as follows:
+...
+It is settled law that the question of residence must turn on the particular facts of the case. When considering the many factors set out in the jurisprudence the aim is simply to ascertain whether Mrs. Yoon settled into, maintained or centralized an ordinary mode of living in Canada. It is clear that Mrs. Yoon was not resident in Canada prior to 2000 as she only made three short visits to Canada between 1984 and 2000.
+The issue is whether, in 2000 and 2001, Mrs. Yoon became resident in Canada. The following factors suggest that Mrs. Yoon did not become resident in Canada in 2000:
+a. She spent 301 days in Korea and only 34 days in Canada.
+b. Her "past habits" were connected to Korea, as that was the country in which she was born and raised, and that is where she lived for many previous years;
+c. She had extensive social and personal ties to Korea and, except for her husband, she had virtually no social or personal ties to Canada;
+d. She had cultural and religious ties to Korea and no cultural or religious ties to Canada;
+e. Her children, who had been raised in Korea, lived with her throughout 2000;
+f. She took care of her mother in Korea until she passed away in September, 2000;
+g. She signed a contract with MBT to work in Korea for the next two years, evincing an intention to live and work in Korea; and
+h. She did not work in Canada.
+...
+As Mrs. Yoon did not establish residence in Canada in 2000, the issue is whether she became resident in Canada in 2001. The following factors suggest that Mrs. Yoon did not become resident in Canada in 2001:
+a. She spent approximately 224 days in Korea and 135 days in Canada;
+b. Her "past habits" were connected to Korea, as that was the country in which she was born and raised, and that was where she had lived for many previous years;
+c. She had extensive social and personal ties to Korea, and, except for her husband, she had virtually no social or personal ties to Canada;
+d. She had cultural and religious ties to Korea and no cultural or religious ties to Canada;
+e. Her daughter lived with her throughout 2001;
+f. Her son lived with her for the beginning of 2001, and returned home to live with her on the weekends while he was away at university;
+g. She was engaged in an occupation with a Korean company located in Seoul; and;
+h. She did not work in Canada.
+...
+[4] Counsel then analyses Korean law relative to residence and taxation. Counsel also analyses in detail the tie-breaker rules of the Canada-Korean Tax Convention which apply when a person is a resident of both Contracting States.
+Submissions of Counsel for the Respondent
+[5] I quote the following extracts from Respondent counsel's written submission. Some statements have been deleted.
+No proof of Korean residency
+Ms. Yoon is a Canadian citizen and filed her income tax return on that basis. She resided in Canada for 4 1/2 months in 2001. Canadian citizens are taxable on their worldwide income. If she wished to be considered a resident of Korea for tax purposes in 2001 the onus is on her to prove through expert testimony what the law is in Korea with respect to taxation of residents and that she was a resident of Korea for taxation purposes on her worldwide income. There is no evidence before this court that the appellant is considered a resident of a contracting state, Korea, and liable to taxation in Korea on the basis of this residence.
+Ms. Yoon, a Canadian citizen, has not met the onus on her by filing a document prepared by her employer in Korea. It is not an official Korean document. ... It does not prove that she was taxable on her worldwide income, nor does it prove the state of taxation law in Korea. ... There is no expert evidence before this court of what is the basis for taxation in Korea and if the Appellant is caught by the tax regime ... We do know from her testimony that she did not report her Canadian interest income to Korea.
+...
+there is no ... common knowledge available regarding Korea's basis for taxation, thus an expert witness should have been produced by the Appellant. Without expert evidence this court cannot conclude that Mrs. Yoon was a resident of Korea, thus she is subject to taxation in Canada on her worldwide income.
+...
+She had sold her home in Korea some years prior to returning to Canada and purchasing the house at Morgan Creek [Surrey]. In addition, she purchased a suite at Whistler in 2002. Thus during the 2001 taxation she had a permanent home in Canada available to her and a rented apartment in Korea. Her husband was living in the house in Canada during the 2001 year and she was present in Canada for 135 days, of the year. The SCC in [Thomson v. Minister of National Revenue, [1946] C.T.C. 51 (S.C.C.)] considered 'residency' and concluded that "The graduation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance 'residing' is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. ... In one case it is satisfied by certain elements, in another by others, some common, some new". There is nothing of a casual or non-permanent character about owning a residence in Canada.
+...
+Ms. Yoon had her employment in Korea during the 2001 taxation year. She had a one-year employment contract, a rented apartment, a bank account that could be used for day-to-day expenses and a car. She was not a citizen of Korea, but a foreign resident. That is the extent of her economic ties to Korea. Her ties to Canada are ... . She had a Canadian passport that she used for travel to and from Korea, a house, bank accounts at 4 different Canadian banks, deposits generating interest of $60,000, two Visa cards, a car, a driver's license, medical coverage and her newly created company, ANC. In addition, she visited her husband and house for 135 days in 2001. ... She left Korea in May of 2002 and has lived in Canada since. ... that by May she was living fulltime in Canada and had severed her employment relationship with Korea, reinforces that she is a resident of Canada.
+...
+Analysis and Conclusion
+[6] It is well established by the jurisprudence that the question of residency is a question to be determined by the facts of each case. In the present case it is my view that the preponderance of facts leads to the conclusion that in the 2001 taxation year the Appellant was not a resident of Canada. It is true that she had available to her a residence in British Columbia but the time spent in Canada in 2001 was minimal compared to her residential stays in Korea. The length of her stays in Canada versus those in Korea, namely in 2000, 301 days in Korea, 34 days in Canada and in 2001, 224 days in Korea, 135 days in Canada favour a residence in Korea or at least point to a non-residence in Canada. Also her social, cultural and religious connections in Koreawere much more extensive than those in Canada. Most importantly the two-year contract commencing January 1, 2001 with MBT, although terminable on certain notice by MBT, nevertheless, essentially obliged the Appellant to perform her services in Korea. It is difficult to envision how she could be resident in Canadaand still perform her obligations under that contract. Further the fact of the two children residing with her in Korea is another tie of residence in Korea. Her only family tie with respect to Canadawas that of her husband living in the home in Surrey. The factor of her brother also living in Canadais not that important as her relationship with her brother was not close. Also the fact that she filed a return in Canadafor 2001 indicating a Canadian address is not conclusive of a residence in Canada.
+[7] In Shih v. R., 2000 DTC 2072 (T.C.C.), Mogan T.C.J. emphazied the importance of the taxpayer's settled routine and customary mode of life. The taxpayer immigrated to Canada with his wife and three sons, purchased a home in Canada, and returned to Taiwanthat same year to work. He visited Canadaannually to see his family but his stays did not exceed 59 days in any given year. He had several ties to Taiwan: other family members; a job; a house; various memberships, a driver's license and a bank account. The primary reason for the moving of his family to Canadawas so that his children could obtain a western education.
+[8] Based on these facts, Mogan, T.C.J. concluded that the taxpayer was a resident in Taiwan and that the taxpayer's connections with Canadawere not strong enough to make him a resident of Canada. Mogan T.C.J. came to this conclusion despite the fact that:
+a. the taxpayer had investments in Canada;
+b. the taxpayer owned a home in Canada;
+c. the taxpayer's wife and children were in Canada;
+d. the taxpayer frequently visited his wife and children at their home in Canada;
+e. the taxpayer obtained a driver's licence in Canada; and
+f. the taxpayer filed his income tax returns as a Canadian resident.
+[9] Justice Mogan stated the following with respect to dual residency:
+Although an individual may at one time have two or more residences from a taxation point of view, most individuals will have only one residence and, if it is in country A, there would have to be special circumstances for a particular individual to have at the same time a residence in country B.
+[10]This case is also noteworthy because Mogan T.C.J. held that the taxpayer was not bound or estopped by statements in his tax return with respect to residence. Justice Mogan stated that the issue was whether the taxpayer was in fact and law a resident in Canadain the taxation years.
+[11]I thus conclude that the Appellant in 2001 was not resident in Canada. I add that as counsel for the Respondent has argued, since Korean law as to residence and tax has not been proven, it makes it, prima facie impossible to apply that law and conclude therefrom that the Appellant, under Korean law, was resident in Korea and subject to Korean tax. However, I point out that all that is necessary to determine this appeal is to conclude that in the year 2001 the Appellant was not a resident of Canadaand this is the principal conclusion I have reached and upon which this decision is primarily based.
+[12]However, if the foregoing analysis is incorrect and if I were compelled to address the issue of a residence in Korea, I believe that in accordance with principles of private international law, where the foreign law has not been proven, a court may look to the lex fori (in this case to establish residence in Korea) and if the law of the lex fori (Canada) as to residence were applied, I have little difficulty in concluding that the Appellant was a resident of Korea in 2001.
+[13] On this concept of applying the lex fori there is a body of jurisprudence that deals with the effect of the failure to prove the foreign law. The traditional rule requires the court to proceed on the presumption that the foreign law is the same as the lex fori: Helens (falsely called Densmore) v. Densmore, [1957] S.C.R. 768. It has been said, however, that this presumption applies only to the general law and not to specific statutory provisions.
+[14] In The Ship "Mercury Bell" v. Amosin, [1986] 3 F.C. 454 (F.C.A.) a collective agreement failed to comply with Canadian labour legislation. The proper law was the law of Liberia, which was not proven before the court.
+The Federal Court of Appeal set out the traditional rule at page 645:
+If the parties, willfully or inadvertently, fail to bring expert evidence of the foreign law, the court will act as if the foreign law is the same as its own law, it will apply the lex fori.
+The Court went on to make the following comment:
+The problem with this jurisprudential rule is that, however old, basic and simple it may be, its real meaning and scope have never been clearly defined. What is still unclear is whether the lex fori applicable should include the statute law or be limited to the common law.
+[15] The distinction between common law and statutory law was rejected, however. Instead, the Court drew a distinction at page 650 between the general law and laws of a local or regulatory character.
+What has appeared constant to me, however, in reading the cases, is the reluctance of the judges to dispose of litigation involving foreign people and foreign law on the basis of provisions of our legislation peculiar to local situations or linked to local conditions or establishing regulatory requirements. Such reluctance recognizes a distinction between substantive provisions of a general character and others of a localized or regulatory character; this distinction, a distinction, formally endorsed I think by Cartwright J. in the two passages I have just quoted, is wholly rational which is more than can be said of a simple division between common law and statute law. This English jurisprudential rule that, in the absence of proof of the foreign law governing the case, the judge will apply the law of the forum should not and cannot be seen, it seems to me, as a pure abandonment of the rule of conflict, as if a rule of conflict was so unimportant that its application could be left to the whim of the parties. In fact, it is not a genuine rule of conflict; the situation is in no way comparable to that which exists in the case of a renvoi when the foreign law refers back to the law of the forum. It is a rule strictly related to the incidence of evidence. The court does not repudiate the premise that the case is governed by and has to be decided on the basis of the foreign law, but simply says that in so far as it is formally aware the foreign law is similar to its own law. It is, as noted by Castel, a pure rule of convenience, and one which, it seems to me, can be rationally acceptable only when limited to provisions of the law potentially having some degree of universality. In my view, there lies the solution to this case.
+Thus, the "presumption" that the foreign law is the same as the lex fori in the absence of proof of the former is actually, according to the Federal Court of Appeal, a rule of evidence. The domestic law is the only law that the Court can apply.
+[16] This conflict of law rule was applied in the tax context by the Federal Court of Appeal in Backman v. Canada, 99 DTC 5602. In that case, the issue was whether a partnership existed, the significance of which was the taxpayer's entitlement to partnership loss deductions. The taxpayer had argued that the proper law was that of Texas, and that a partnership existed under that law.
+[17] In Backman the Court accepted that the proper law was that of Texas. At trial the taxpayer had presented an expert witness to prove Texan law. However, it was held that the evidence so adduced was inadequate to conclude whether that law required that the business be carried on for profit as one of the necessary components for a partnership. Having found that the law of Texaswas not adequately proven for the purpose of resolving the issue at hand, the Court quoted Professor Castel and a portion of the above passage Mercury Bell case. It was determined that the legislation respecting partnerships was an example of statutory law of general application. The relevant domestic law, Alberta Partnership Act, was applied in the absence of sufficient proof of Texaslaw. In a footnote, the Court clarified that it is not saying that the law of Texasis identical to the law of Alberta in that regard; rather, in the absence of satisfactory evidence, the lex fori is applied. Backman was upheld on appeal to the Supreme Court of Canada (2001 DTC 5149).
+Applying the above jurisprudence to the present appeal, in the absence of proof of Korean law the initial question is whether residency for tax purposes is a general law or a law of a local or regulatory character. In my opinion residency is a fundamental concept in the area of taxation and determination of residency is a question of general law. It is not regulatory in nature. If that is so, the question of whether the Appellant was a resident of Koreamay be determined in accordance with Canadian law in the absence of proof of the foreign law.
+[18]As mentioned, I believe this appeal can be disposed of simply by finding Mrs. Yoon was not resident in Canadain 2001. I have added to this, to the extent necessary, the fact that if I applied the lex fori, I would find she was resident in Koreain 2001. Moreover since both counsel have raised the possibility of dual residence in Korea and Canadain 2001 and have discussed the Tie Breaker Rules in the Canada-Korea Convention, I feel obliged to address that possibility.
+[19]If Mrs. Yoon is found to be resident in both Canadaand Korea, then her case will be decided by the tie-breaker rules in the Canada-Korea Convention. Paragraph 2 of Article IV of the Canada-Korea Convention provides as follows:
+2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then this case shall be determined in accordance with the following rules:
+(a) he shall be deemed to be a resident of the Contracting State in which he has a permanent home available to him. If he has a permanent home available to him in both Contracting States, he shall be deemed to be a resident of the Contracting State with which his personal and economic relations are closest (hereinafter referred to as his "centre of vital interests");
+(b) if the Contracting State in which he has his centre of vital interest cannot be determined, or if he has not a permanent home available to him in either Contracting State, he shall be deemed to be a resident of the Contracting State in which he has an habitual abode;
+(c) if he has an habitual abode in both Contracting States or in neither of them, he shall be deemed to be a resident of the Contracting State of which he is a national;
+(d) if he is a national of both Contracting States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
+...
+[20]It is settled law that bilateral tax conventions should be given a liberal interpretation in light of their object and purpose, rather than a strict and literal interpretation. In that regard, in Crown Forest Industries Ltd., v. Canada, 95 DTC 5389 (SCC), Iaccobucci, J. stated that the OECD Model Tax Convention on Income and on Capital (the "OECD Model Convention:) was of "high persuasive value" in defining the parameters of Canada's various tax treaties. In reviewing the purpose and intentions of the Canada-US Convention, Iaccobucci, J. made extensive use of extrinsic materials:
+... in ascertaining these goals and intentions, a court may refer to extrinsic materials which form part of the legal context (these include accepted model conventions and official commentaries thereon) without the need first to find an ambiguity before turning to such materials.
+The Court went on to consider not only the OECD Model Tax Convention but the commentary to the OECD Model Convention (the "OECD Commentary") as well.
+i. Permanent Home
+[21]The first tie-breaker is whether Mrs. Yoon had a permanent home available to her in Canada or Korea. The OECD Commentary states:
+11. The Article gives preference to the Contracting State in which the individual has a permanent home available to him. This criterion will frequently be sufficient to solve the conflict, e.g. where the individual has a permanent home in one Contracting State and has only made a stay of some length in the other Contracting State.
+12. Subparagraph (a) means, therefore, that in the application of the Convention (that is, where there is a conflict between the laws of the two States) it is considered that the residence is that place where the individual owns or possesses a home; this home must be permanent, that is to say, the individual must have arranged and retained it for his permanent use as opposed to staying at a particular place under such conditions that it is evident that the stay is intended to be of short duration.
+13. As regards the concept of home, it should be observed that any form of home may be taken into account (house or apartment belonging to or rented by the individual, rented furnished room). But the permanence of the home is essential; this means that the individual has arranged to have the dwelling available to him at all times continuously, and not occasionally for the purpose of a stay which, owing to the reasons for it, is necessarily of short duration (travel for pleasure, business travel, educational travel, attending a course at a school, etc.).
+[22]In 2001, Mrs. Yoon lived at the last condominium mentioned earlier in Korea. She had lived there and in two previous condominiums for the previous nine years. It is clear that this was a home arranged and retained for her permanent use and that it was available to her continuously at all times throughout 2001. It is also true that, in 2001, Mrs. Yoon had a permanent home available to her in Canadain addition to her permanent home in Korea.
+ii. Centre of Vital Interests
+The Law
+[23]If the taxpayer has a permanent home available to her in both countries, she will be deemed to be a resident of the country with which her personal and economic relations are closest (her "centre of vital interests"). Paragraph 15 of the OECD Commentary on Article 4 offers the following comments:
+15. If the individual has a permanent home in both Contracting States, it is necessary to look at the facts in order to ascertain with which of the two States his personal and economic relations are closer. Thus, regard will be had to his family and social relations, his occupations, his political, cultural or other activities, his place of business, the place from which he administers his property, etc. The circumstances must be examined as a whole, but it is nevertheless obvious that considerations based on the personal acts of the individual must receive special attention. If a person who has a home in one State sets up a second in the other State where he has always lived, where he has worked, and where he has his family and possessions, these can, together with other elements, go to demonstrate that he has retained his centre of vital interests in the first State.
+[24]The centre of vital interests analysis was considered by Sobier T.C.C.J. in Hertel v. Minister of National Revenue, 93 DTC 721 (TCC). In that case, the taxpayer was born in Germany in 1942 and emigrated to Canadain 1959. He lived in Canadauntil 1970 when he returned to Germanywith his wife. While living in Germany, the taxpayer established a business selling Canadian silver dollars to German banks. As a result, the taxpayer travelled to Canadaas many as 15 times per year to buy coins. In the 1970s the taxpayer purchased several properties in Canada, one of which was used by him and his family when they spent vacations in Canada. The taxpayer testified that he purchased a home in Calgary, where he intended to live at a later date.
+[25]Having found that the taxpayer had a permanent home in each country, Sobier T.C.C.J. conducted an analysis of his centre of vital interests. Justice Sobier emphasized the following:
+In determining his centre of vital interests, it is not enough to simply weigh or count the number of factors or connections on each side. The depth of the roots on one's centre of vital interests is more important than their number.
+[Emphasis Added}
+[26]In determining the taxpayer's interests, Sobier T.C.C.J. considered the location of his wife and children, the fact that his children were attending school in Germany, his community involvement in Germany, his friends in Germany, and the fact that the only relative he had in Canada was his brother, whereas the remainder of his family were in Germany. Based on the depth of his roots in Germany, the Court found that his centre of vital interests lay in Germany, despite the fact the taxpayer owned homes in Canada, intended to live in Canada at a later time and visited Canadafrequently on business.
+[27]In Gaudreau v. R., 2005 DTC 66 (TCC) the taxpayer was a Canadian citizen who left Canadafor four years to work in Egypt. The Court held that he was a resident under the domestic laws of both Canada and Egypt and that the tie-breaker rules in the Canada-Egypt Income Tax Convention would apply to determine his status. Lamarre, T.C.J. noted that the taxpayer had retained substantial ties to Canadaand cited paragraph 15 of the OECD Commentary and stated the following:
+Thus, if a person who has a home in one state sets up a second in the other state while retaining the first, the fact that he retains the first in the environment where he has always lived, where he has worked, and where he has family and possessions, can, together with other elements, go to demonstrate that he has retained his centre of vital interest in the first state.
+[28]The OECD Commentary states that regard must be had to the individual's family and social relations, her occupations, her political, cultural or other activities, her place of business and the place from which she administers her property. Mrs. Yoon's family was split between Canadaand Korea. Her husband lived in Canada but her children lived with her in Korea. Mrs. Yoon's children, however, relied on her considerably for support as they were entering a critical transition phase in their lives.
+[29]In 2001, Mrs. Yoon had extensive family, social and cultural ties to Korea, which are discussed above.
+[30]In contrast, Mrs. Yoon's social life in British Columbiarevolved primarily around her husband as she had not yet established any substantial ties to the community.
+[31]In 2001, Mrs. Yoon's occupation was a translator etc. working for MBT. She did not work in Canada. Her only source of active income was from her employment with MBT in Korea. Mrs. Yoon had bank accounts, credit cards and driver's licences in both Canadaand Korea. Mrs. Yoon also had health insurance in both Canada and Korea.
+[32]Mrs. Yoon's future plans to retire in Canadaare not determinative of where her centre of vital interests lay in 2001. The centre of vital interests test requires an examination of the taxpayer's connections to each country in that specific year. Her intention to retire in Canadais comparable to the taxpayer's intention in Hertel to reside in Canadaat some time in the future. The court in Hertel (supra) did not place great weight on this intention despite the many connections the taxpayer had in Canada. In any event the two year contract that she signed with MBT in late 2000 signified an intention to live and work in Koreain the near future.
+[33]Paragraph 15 of the OECD Commentary, as cited in Gaudreau, supra offers further support for a finding that her centre of vital interests lay in Koreain 2001. Although Mrs. Yoon took preliminary steps to move to Canada, it is clear that in 2001 she retained her home in Korea. She continued to live in the State that she had lived in for the previous nine years, her children continued to live and study in Korea, she continued to take part in the social life that she had established, and she took no steps whatsoever to sever her ties with Korea. In accordance with the OECD Commentary and the Gaudreau decision, the retention of her home in Korea demonstrates that Mrs. Yoon retained her centre of vital interests in Korea.
+iii. Habitual Abode
+[34]In the event that Mrs. Yoon's centre of vital interests cannot be determined, the Canada-Korea Convention will determine her to be resident in the country in which she had an habitual abode.
+[35]In the recent case of Allchin v. Canada, [2005] T.C.J. No. 172 (TCC), the taxpayer had extensive ties to both Canadaand the United States such that her centre of vital interests could not be determined. Although Bell, J. acknowledged the persuasive value of the OECD Commentary, he said that it was not useful in interpreting the meaning of "habitual abode" because the OECD Model Convention differed from the Canada-US Convention in the application of the tie-breaker rules.
+[36]Under the Canada-US Convention, where a person has a permanent home in both states or a permanent home in neither state, the tie-breaker is that person's centre of vital interests. In the event that the person's centre of vital interests cannot be discerned, then the tie-breaker is the person's habitual abode. In contrast, the OECD Model Convention skips the centre of vital interests analysis if the person does not have a permanent home in either state, and the tie-breaker is that person's habitual abode.
+[37]As a result of this distinction, Bell, J. did not consider the OECD Commentary on the meaning of habitual abode. Rather Bell, J. stated that the combination of the evidence describing the nature of the taxpayer's lifestyle and activities in the US and the fact that she spent 265 days in the US and 100 days in Canada made it clear that her habitual abode was in the United States.
+[38]The distinction between the OECD Model Convention and the Canada-US Convention does not exist between the OECD Model Convention and the Canada-Korea Convention. The tie-breaker rules in paragraph 2 of Article IV of the OECD Model Convention are the same as in the Canada-Korea Convention. Therefore, the OECD Commentary is relevant in this case to determine Mrs. Yoon's habitual abode in 2001.
+[39]Paragraph 17 of the OECD Commentary to Article IV states:
+17. In the first situation, the case where the individual has a permanent home available to him in both States, the fact of having an habitual abode in one State rather than in the other appears therefore as the circumstance which, in case of doubt as to where the individual has his centre of vital interests, tips the balance towards the State where he stays more frequently. For this purpose regard must be had to stays made by the individual not only at the permanent home in the State in question but also at any other place in the same State.
+[Emphasis Added]
+[40]Aside from Allchin, supra, there are no Canadian cases that consider the meaning of habitual abode. However, in the American case of Podd v. Commissioner, (1998) Tax Ct.Memo LEXIS 414, Wells J. of the United States Tax Court confirms the meaning of habitual abode enunciated in the OECD Commentary.
+Accordingly, where doubt exists as to an individual's "center of vital interests:, the balance is tipped in favour of the country where the individual stays more frequently.
+[41]The evidence shows that Mrs. Yoon spent more time in Korea than in Canadain 2001. Therefore, her habitual abode was in Koreaand not Canada. If her centre of vital interests cannot be determined, then this tie-breaker definitely provides that Mrs. Yoon was a resident of Koreain 2001.
+[42]For all these reasons the appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was not a resident of Canada in the 2001 taxation year.
+Signed at Ottawa, Canada, this 22nd day of July, 2005.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2005TCC366
+COURT FILE NO.: 2004-175(IT)G
+STYLE OF CAUSE: Hae S. Yoon and H.M.Q.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 16, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: July 22, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Stacey
+Counsel for the Respondent:
+Patricia Babcock
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Matthew Stacey
+Firm: Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,196 @@
+---
+title: "S&S Harvesting Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27963/index.do"
+last_modified: "2003-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 335"
+citation2: ""
+neutral_citation: "2003 TCC 335"
+decision_date: "2003-05-15"
+language: "en"
+item_id: "27963"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1811
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:10:02.172000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f8cb7fbff7926200d369df20350c377921e10ff639578d5d6104d72424a9d72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# S&S Harvesting Ltd. v. The Queen
+
+- Citation: 2003 TCC 335
+- Decision date: 2003-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1811, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+S&S Harvesting Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-15
+Neutral citation
+2003 TCC 335
+File numbers
+2002-1174(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-1174(EI)
+BETWEEN:
+S & S HARVESTING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+SURINDER K. DHANDA, SURJIT K.
+DHALIWAL, TARSEM BEESLA,
+Intervenors.
+____________________________________________________________________
+Motion heard on April 17, 2003 at Vancouver, British Columbia
+Before: The Honourable Judge L.M. Little
+Appearances:
+Counsel for the Appellant:
+Thomas F. Braidwood,
+Michael Carroll, Q.C.
+Counsel for the Respondent:
+Michael Taylor, Victor Caux
+Agent for the Intervenors:
+Surinder K. Dhanda
+____________________________________________________________________
+ORDER
+Upon motion made by the Appellant for directions and an order to split the hearing of this appeal into separate stages to deal with jurisdictional issues, natural justice issues and substantive issues regarding the appeal of the decision of the Minister of National Revenue pursuant to subsection 93(3) of the Employment Insurance Act, and for an order directing the discovery of witnesses and documents of all parties;
+And upon hearing the parties;
+The motion of the Appellant is dismissed, with costs in the cause, in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 15th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC335
+Date: 20030515
+Docket: 2002-1174(EI)
+BETWEEN:
+S & S HARVESTING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+SURINDER K. DHANDA, SURJIT K. DHALIWAL,
+TARSEEM BEESLA,
+Intervenors.
+REASONS FOR ORDER
+Little, J.
+A. FACTS
+[1] The Appellant was incorporated under the laws of the Province of British Columbia.
+[2] In 1997, the Appellant operated a labour contract business. The Appellant also leased over 100 acres of blueberries for harvest and sale.
+[3] In carrying out the labour contract business the Appellant supplied approximately 110 workers to provide services for its clients as required as farm workers, berry pickers and labourers (The individuals supplied by the Appellant to its clients are hereinafter referred to as "Workers").
+[4] The Minister of National Revenue (the "Minister") determined that the Workers were not employed in insurable employment by the Appellant during various periods in 1997. As a result of the decision of the Minister the Workers were denied benefits under the Employment Insurance Act ("EI Act") for the 1997 year.
+[5] Eighty-three of the 110 Workers filed Notices of Appeal to the Tax Court respecting the decision of the Minister.
+[6] The Appellant also filed a Notice of Appeal to the Tax Court.
+B. ISSUE
+[7] On the 4th day of April 2003 the Appellant filed a Notice of Motion to the Court.
+[8] In the Notice of Motion the Appellant asked for a number of directions from the Court including the following:
+The Motion is for directions and an order that:
+1. The issues on this appeal be defined and determined at separate hearings, in the following order: first Jurisdictional issues, second Natural Justice issues, and last the Substantive issues regarding the appeal of the decision of the Minister rendered pursuant to s. 93(3) of the Employment Insurance Act regarding the periods of employment and amounts of insurable hours and earnings of the workers subject to this appeal.
+2. Prior to the hearing of each of the Jurisdictional, Natural Justice and Substantive issues, the Appellant and Respondent be entitled to both discovery of witnesses and documents, each from the other, relevant only to the issues to be determined at those hearings.
+[9] Michael Carroll, Q.C. counsel for the Appellant, said that the reason the Appellant wished to "bifurcate" the issues of this appeal is that the Appellant believes that this would be the most efficient and cost effective way of resolving the appeal. Mr. Carroll said:
+We would suggest that the issues of procedural fairness, jurisdiction and delay be heard first. And if the Appellant was unsuccessful in this phase, then the Court could proceed to hear the evidence and the argument with respect to the merits. (Transcript p. 20, l. 11-15)
+[10] Michael Taylor, counsel for the Respondent, said that the Minister opposes any move to bifurcate or split this matter into separate stages.
+C. ANALYSIS
+[11] In considering this motion I have reviewed the Employment Insurance Act, the Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act, the Tax Court of Canada Rules (General Procedure) and a number of decisions of the Tax Court and the Federal Court.
+[12] The Appellant's appeal was filed under the Employment Insurance Act. Subsection 103(1) of the EI Act reads as follows:
+103. (1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in the prescribed manner within 90 days after the decision is communicated to the person, or within such longer time as the Court may allow on application made to it within those 90 days.
+(Note: Section 91 provides for an appeal of the ruling. Section 92 provides that an employer may appeal to the Minister for a reconsideration of the assessment.)
+Subsection 103(3) of the EI Act reads:
+(3) On an appeal, the Tax Court of Canada
+(a) may vacate, confirm or vary a decision on an appeal under section 91 or an assessment that is the subject of an appeal under section 92.
+Subsection 104(1) of the EI Act reads:
+104. (1) The Tax Court of Canada and the Minister have authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 91 or 103 or to reconsider an assessment under section 92 and to decide whether a person may be or is affected by the decision or assessment.
+Section 105 of the EI Act reads:
+105. The decision of the Tax Court of Canada under section 103 is final and, except for judicial review under the Federal Court Act, is not subject to appeal or to review by any court.
+[13] Rule 3 of the Tax Court of Canada Rules of Procedure respecting the Unemployment Insurance Act (now the Employment Insurance Act) found in the Canada Gazette, Part II, Vol. 124, No. 22, reads:
+3. These rules shall be liberally construed to secure the just, least expensive and most expeditious determination of every appeal on its merits.
+Rule 27(4) reads:
+(4) Where matters are not provided for in these rules, the practice shall be determined by the Court, either on a motion for directions or after the event if no motion is made.
+[14] Mr. Taylor, counsel for the Respondent, said:
+...the Respondent opposes the Appellant's request to bifurcate this matter, to have essentially a round of discoveries devoted to what they call threshold issues, followed by a trial of those issues, ultimately to be followed by another round of discoveries on the actual merits of the employment question, followed by a trial of those issues. (Transcript p. 25, l. 2-8)
+[15] Mr. Taylor outlined three reasons for his position:
+1. The first is that such procedure is unprecedented in the practice of this Court and is not provided for in the applicable rules.
+2. The second reason is that the threshold issues are matters within the jurisdiction of the Federal Court.
+3. The threshold issues will not determine the outcome of the appeal.
+[16] Mr. Taylor said that in his opinion the procedure proposed by the Appellant will create duplications of time and effort.
+[17] Mr. Taylor also pointed out that the Appellant's proposal makes no provision for the interest of the other 83 Workers who have appeals and for the intervenors.
+[18] Mr. Taylor said:
+...the Tax Court is given explicit powers to vary, vacate or confirm the decision of the Minister and to make its own finding on the substance of the appeal. It's not limited to judicial review function.
+(Transcript, p. 34, l. 1-4)
+[19] Mr. Taylor also said:
+And I would also point out that section 104 of the E.I. Act grants the Tax Court the authority to decide any question of fact or law necessary to be decided in the course of an appeal under section 103.
+(Transcript, p. 34, l. 5-8)
+[20] In reviewing the rules outlined in the EI Act and the Rules of the Tax Court of Canada quoted above it will be noted that the rules governing the procedure in this Court are designed to get matters before the Court on their merits because, ultimately, this Court's function is to decide the merits of an appeal. I am not persuaded that the Appellant's motion would assist or simplify the matter. I agree with counsel for the Respondent that the Appellant's proposal would probably create unnecessary delay and additional costs.
+C. CONCLUSION
+[21] Having considered the arguments of counsel for the parties and the relevant case law, I have concluded that the Appellant's motion should be dismissed, with costs in the cause.
+[22] Surinder K. Dhanda appeared as an intervenor. During the hearing the Court asked the following question:
+Q. His Honour:
+Does Surinder Dhanda wish to say anything with respect to this position? (Transcript p. 56, l. 22-23)
+Surinder Dhanda said:
+I'd just want to deal with it, the sooner the better.
+(Transcript p. 57, l. 2-3)
+Signed at Vancouver, British Columbia, this 15th day of May 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC335
+COURT FILE NO.:
+2002-1174(EI)
+STYLE OF CAUSE:
+S & S Harvesting Ltd. and The Minister of National Revenue and
+Surinder K. Dhanda, Surjit K. Dhaliwal, Tarsem Beesla
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 17, 2003
+REASONS FOR ORDER BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT:
+May 15, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Thomas F. Braidwood
+Michael Carroll, Q.C.
+Counsel for the Respondent:
+Michael Taylor
+Victor Caux
+Agent for the Intervenors:
+Surinder K. Dhanda
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

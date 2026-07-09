@@ -1,0 +1,168 @@
+---
+title: "Turcotte v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31238/index.do"
+last_modified: "2013-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 171"
+citation2: ""
+neutral_citation: "2013 TCC 171"
+decision_date: "2013-05-29"
+language: "en"
+item_id: "31238"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5143
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:06:13.576000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "acb0632b7c7873a2c6b91783b0535348891de91cbea7533e8f07289883f28a63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Turcotte v. The Queen
+
+- Citation: 2013 TCC 171
+- Decision date: 2013-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5143, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Turcotte v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-05-29
+Neutral citation
+2013 TCC 171
+File numbers
+2012-1911(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1911(IT)APP
+BETWEEN:
+LAURIE TURCOTTE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 18, 2013 at Hamilton, Ontario
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Counsel for the Applicant:
+G. James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+ORDER
+WHEREAS the Applicant made an application for an Order extending the time within which an appeal from the assessment made under the Income Tax Act for the Applicant’s 2010 taxation year may be instituted;
+And WHEREAS upon reading the material filed, hearing vive voce testimony of the Applicant and receiving submissions from respective counsel for the Applicant and for the Respondent;
+NOW THEREFORE This Court Orders that:
+1. the Application to file a Notice of Appeal is granted on the basis that there are reasonable grounds for the appeal;
+2. the Applicant shall file within 30 days of the date of this Order a fresh Notice of Appeal disclosing particular facts and statutory provisions of her appeal; and
+3. the Respondent, should the Minister elect, may file a fresh Reply within 30 days of the receipt of the fresh Notice of Appeal.
+Signed at Toronto, Ontario, this 29th day of May 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 171
+Date: 20130529
+Docket: 2012-1911(IT)APP
+BETWEEN:
+LAURIE TURCOTTE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Issue
+[1] Taxpayers have an “as of right” prescribed ability to appeal any reassessment to the Tax Court of Canada provided a Notice of Appeal has been filed within 90 days of receipt of a Notice of Confirmation.
+[2] In this case, the Notice of Confirmation was issued on January 26, 2012.
+[3] No Notice of Appeal was received until May 15, 2012. The “as of right” deadline expired on April 28, 2012. Under subsection 167(5) of the Income Tax Act (“Act”), a taxpayer may bring an Application to extend the time to file a Notice of Appeal within one year after the expiration of the 90 day “as of right” Appeal period. The Applicant’s Application for an extension was received on May 15, 2012. In respect of such an Application, this Court may grant such an extension provided certain conditions are met.
+[4] In this Application, the sole objection submitted by the Respondent and also the sole outstanding issue before this Court is whether the final condition in subparagraph 167(5)(b)(iv) of the Act has been satisfied. An excerpt of the condition follows [underscoring added]:
+167(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that […]
+[…]
+(iv) there are reasonable grounds for the appeal.
+II. Proceedings To Date
+[5] The Notice of Application per se is largely absent precise factual particulars specifically relevant to the Application and related Appeal possibly to be heard before the Court. The facts were supplemented at the Application hearing through vive voce testimony and cross-examination of the Applicant, Ms. Turcotte.
+[6] This Application is broadly associated with many appeals brought before the Court by Native Leasing Services (“NLS”), as agent, on behalf of certain status Indians. Each claims exemption from tax assessed on personal property, in the form of employment income, of an Indian pursuant to section 87 of the Indian Act. The Applicant, Ms. Turcotte, has been before the Court before with respect to such an appeal on her employment income, albeit in respect of previous assessment years. The Applicant’s file has now been assumed by legal counsel who has avidly taken up the file and requests a full hearing on the merits of the claim for exemption from tax. Although not determinative, the Application to extend was filed a mere 20 days after the “as of right” appeal period expired.
+III. Facts
+[7] Notwithstanding the non-descript Application and Notice of Appeal, Ms. Turcotte gave viva voce evidence at the Application Hearing. She suitably demonstrated her intention to appeal which caused the Respondent to resile from a previous secondary challenge to the Application for a failure to disclose a bona fide intention to appeal under clause 167(5)(b)(i)(B).
+[8] Ms. Turcotte is a status Indian and member of the Six Nations Band of the Grand River. She resides in Ayr, Ontario, a small town on the banks of the Grand River located between Kitchener and Brantford. She works in Kitchener, Ontario, a major Ontario city which also straddles the banks of the Grand River. Her employment in Kitchener is as an employee of the K-W Urban Native Wigwam Project, a “geared to income” support organization for native families. The organization’s general offices are located on the Six Nations’ Reserve, but its operational offices are located of the Reserve. It is asserted that the personal property of Ms. Turcotte is created on the Reserve for native purposes and for the benefit of natives and their community. If that were the totality of the argument, this Application would likely lack the requisite “reasonable grounds” for granting the Application since those precise legal arguments based upon those precise facts have been heard previously by this Court. Almost factually identical appeals, including the Applicant’s own previous appeal, have been dismissed on such a basis. Aside from the Applicant’s previous case, both counsel referred to many cases before this Court, the Federal Court of Appeal and the Supreme Court of Canada.
+a) Argument Regarding “Disputed Reserve Lands”
+[9] In the present case and in respect of subsequent assessment years, counsel for the Applicant has ably pressed the argument that the location of the Applicant’s residence and workplace are situated within the well publicized pending disputed land claim of the Six Nations known by many names, the most common of which may be the Haldimand Tract land claim. It is well known and observed that the imperial Crown granted title to these lands through a grant of land measuring six miles on either side of the banks of the Grand River from its mouth to its source. Much has been written, alleged and debated, without resolution, about that grant and its related challenged subsequent surrenders. That longstanding confusion aside, what remains clear to this day is that the land claim, its extent and the method of any resolution remain active issues politically, socially and legally both within and beyond the Grand River Valley and various Courts.
+b) Submissions
+[10] Counsel for the Respondent submitted that in the Applicant’s previous appeal the Disputed Reserve Lands argument could easily have been made by the Applicant or her agent. It was an issue at the time, but was neither pleaded nor submitted. Aside from this supposedly now novel argument, the Respondent argues that the Applicant has failed to submit a sufficiently particular Application or Appeal, has not factually (based upon decided authority) advanced reasonable grounds for an Appeal and, lastly, has not demonstrated that the law has sufficiently evolved in regard to the connecting factors test laid down by the Supreme Court of Canada in Williams v. Canada, [1992] 1 S.C.R. 877.
+[11] In the absence of having established any one of the foregoing factors, the statutory pre-condition of presenting “reasonable grounds” for an Appeal has not been met.
+[12] Counsel for the Applicant has stated that recent cases have re-set the framework for the “connecting factors” test. Further, location of property is a legal conclusion to be addressed through the facts properly to be heard and determined by a trial judge. At the very least, these issues are matters presently evolving before the Courts and require and warrant an appeal because the “shifting” nature of the case law expands legal grounds not previously available.
+IV. Analysis
+[13] The matter before this Court is a quasi interlocutory proceeding, but nonetheless has a dispositive effect should the Court not grant the Application and thereby deny that the Appeal be heard. The determination to allow the extension and the Appeal to proceed requires the finding of reasonable grounds. Such a finding is not assisted in this case by the Notice of Application and a Notice of Appeal which have been drafted in a generic, non-descript and formulaic fashion. The Respondent is correct that both issues; namely, the presence of reasonable grounds and sufficiency of pleadings must be satisfied before an Appeal may be heard. The first goes to the jurisdiction of the Court to grant the Application and the second relates to procedural compliance and fairness to the responding party.
+a) Reasonable Grounds
+[14] To proceed with any meaningful analysis of whether reasonable grounds for an Appeal exist, the Court must assume for the moment that the Applicant’s Notice of Appeal would otherwise contain the factual and legal assertions given through vive voce evidence at the hearing of the Application, both in terms of the facts and issues. If such were the case, the issue of the Disputed Reserve Lands would have been present in the Application much in the same clear way that the factual and legal foundations of such an assertion were present in the mind and expressed by plainly spoken words from the mouth of the Applicant.
+[15] A question for the Court is whether the Disputed Reserve Lands issue constitutes reasonable grounds and meets the hurdle of subparagraph 167(5)(b)(iv). To do so, one must ask, what is the meaning in that subparagraph of the phrase “reasonable grounds”?
+[16] In Johnston v. Canada, 2009 TCC 327, 2009 DTC 1198, Justice Webb stated at paragraph 26 as follows:
+26 In my opinion, the statutory requirement that an applicant demonstrate that there are reasonable grounds for the appeal is a condition that must be satisfied in order for this Court to have the jurisdiction to issue the order extending the time within which an appeal may be instituted and it is not a requirement that can be waived by the Respondent. It is not a requirement that is imposed solely for the benefit of the Respondent. The requirement that an applicant demonstrate that there are reasonable grounds for the appeal is a condition precedent to this Court issuing the requested order.
+[17] Although not referenced above, critical to the determination of the absence of reasonable grounds was the decision of the Court that the findings of fact forming the basis of the appeal in Johnston were almost identical when compared to appeals already heard and dismissed by the Court. Moreover, where such facts were different to those in Johnston, they were less compelling than in the matters previously dismissed.
+[18] Not dissimilar to this line of reasoning is that of Justice Woods in Keshane v. Canada, 2010 TCC 651, 2011 DTC 1040, where she states the following at paragraphs 16 and 21:
+16 In light of this background, I would agree with counsel for the respondent that in order to satisfy the Court that there are reasonable grounds for an appeal in these applications, the applicant must present a reasonable argument that the conclusions in Shilling and Horn decisions are not applicable based on their particular facts. None of the applicants have attempted to do this.
+[…]
+21 Although the requirement in s. 167(5)(b)(iv) should be interpreted broadly so as not to foreclose reasonable arguments, none of the applicants have demonstrated that their appeals have any reasonable prospects of success.
+[19] Justice Woods appears to have further raised the bar by implying a prospective analysis of whether the arguments might reasonably prevail. Quite apart from this possibly heightened threshold, it was clear on the facts in both of Johnston and Keshane that the appeals were factually and textually identical, and were presented and argued identically, to appeals previously heard, decided and dismissed by the Court.
+[20] An example of slightly different or novel facts and/or submissions brought before the Court and expressed through otherwise poor pleadings is the case of Rock v. Canada, 2010 TCC 607, 2011 DTC 1006. Specifically paragraphs 35, 36, 38 and 39 enunciate the logical sequence and staging of the “reasonable grounds” threshold where Justice Hershfield states:
+35 I have not requested any submissions on that nor have I ventured off on my own to research this issue. My conclusions are simple and straightforward. They are pragmatic and to my mind, as a matter of common sense, they rely principally on the Applicants’ right to be heard. Simply put, the test in subparagraph 167(5)(b)(iv) is not about the relative chances of success but about having a ground to appeal.
+36 The Applicants have capable counsel, who represent earnest persons seeking to either fit into a box that has excluded them and others, or to have that box expanded by persistently seeking to apply those legal principles and arguments that they hope might yet prove capable of succeeding, in some cases at least. The law is not static, after all, and some circumstances may warrant applying the connecting factors test as urged by counsel in respect of these Applications. However, I specifically note that any pursuit of the application of the section 87 exemption based on anything other than the connecting factors test might be so futile as to warrant a finding that there is no reasonable ground for the appeal. The Federal Court of Appeal has made that much clear. Justice Evans did so at paragraph 5 in Horn and Williams where, as noted above, he concludes that the connecting factors test is the only applicable test. He also concludes that the protection afforded Indians in the Supreme Court case of McDiarmid Lumber Co. v. God’s Lake First Nation of property situated on reserve determined by where the debtor resides, applies only to protection from seizure not protection from taxation.
+38 On balance then, as likely as it is that these cases will fail on appeal, I am going to grant the Applications. […] I have heard six NLS cases this week and there is no hint that adding another year to any of the appeals would have added one extra minute to the proceedings.
+39 Secondly, having heard those six appeals this week, I remain undecided as to their outcome. That is to say, there may well be limited circumstances where the particular facts and surrounding circumstances of an NLS appeal might invoke the section 87 exemption. As noted by Justice Evans in Horn and Williams at paragraph 8, it is the function of the trial judge to assess the relative weight to be given to the constituent elements of a multi-factored test in the particular circumstances of a particular case. Caution must therefore be exercised that an application’s judge not pre-maturely perform that function by categorizing all NLS cases, even those with apparent similar facts with those that have failed, as following into a non-exempt category. Some cases with very similar facts can be presented in a very different light, evidence Robertson et al. v. Her Majesty the Queen versus Ballantyne v. Canada. In those cases, each judge was influenced by different factors based on the evidence presented. And here, I note that in Shilling at paragraphs 40 and 41, absences of evidence were noted. Fuller evidence might have resulted in a different outcome. Hence, the caution not to pre-judge.
+[21] This case relies on the direction of the Federal Court of Appeal, in Horn et al. v. MNR, 2008 FCA 352, 2008 DTC 6743 and Williams, to the trial judge to assess the consistent elements of the test on a case by case basis. The application judge, according to the Federal Court of Appeal, would prevent this critical assessment by prematurely performing that function even where there are almost identical facts.
+(b) Novel Particular Facts to be heard?
+[22] The case before me has a better footing than that of Rock since fuller facts are embedded in the Disputed Reserve Lands issue. There is reason to be applied by the Court to these facts and related arguments. Moreover, some of these facts, although likely existing at the time of the Applicant’s previous appeals, were not marshalled to present the Disputed Reserve Lands issue.
+[23] In light of these additionally adduced facts and potential submitted arguments and the absence of any Court having recently, previously and precisely heard and decided same, the success or failure of the Appeal will not be determined presently by virtue of a dispositive order in a mere Application for extension to file the Notice of Appeal. Instead, they shall see the light of day before a hearing judge of this Court. The granting of this Application is consistent with the preceding cases since the particular facts of this Application, given their highest and best weight at this Application stage, not only afford, but require the mind or “reason” of this Court to be brought to bear upon these facts and related arguments since this has not yet occurred, based upon the authorities submitted, in respect of the Disputed Land Issue.
+[24] The potential existence of such “untried” facts and related argument, once revealed before the application judge gives the Court jurisdiction as mandated by Johnston, and renders the Appeal dissimilar to those previously decided as required by Keshane. Perhaps as importantly, the facts as alleged call for a consideration of the submitted ground of appeal where similar, but not identical facts of this taxpayer require a trial judge to assess and weigh this Applicant’s/Appellant’s particular facts when applying same to “the constituent elements of a multi-factored test in the particular circumstances of a particular case” as described in Rock, which, as noted, references the Federal Court of Appeal in Horn and Williams.
+[25] In short, these alleged facts and submissions of this Applicant warrant a hearing of this case before a trial judge because a ground of appeal susceptible to, and inviting of, reason has been connected to alleged facts and related argument not applicably and previously decided by this Court.
+[26] In order to address the deficiency of the pleadings and to assist the Court and the parties at the hearing, the Applicant, now Appellant, shall be required to file a fresh Notice of Appeal within 30 days in pursuance of the rules by specifically pleading the facts to be brought before the Court and by including the relevant statutory provisions relied upon. The Respondent shall have 30 days after that to file a fresh Reply, should this be desired.
+Signed at Toronto, Ontario, this 29th day of May 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 171
+COURT FILE NO.: 2012-1911(IT)APP
+STYLE OF CAUSE: LAURIE TURCOTTE AND THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: March 18, 2013
+REASONS FOR ORDER BY: The Honourable Mr. Justice Randall Bocock
+DATE OF ORDER: May 29, 2013
+APPEARANCES:
+Counsel for the Applicant:
+G. James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Applicant:
+Name: G. James Fyshe
+Firm: Fyshe, McMahon LLP
+Hamilton, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,252 @@
+---
+title: "Bérubé c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98244/index.do"
+last_modified: "2014-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 304"
+citation2: ""
+neutral_citation: "2014 CCI 304"
+decision_date: "2014-10-24"
+language: "fr"
+item_id: "98244"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5250
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:41:12.604000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "44f654a451d814f691e8b4554b4d678916abfb2a36ab347992ec4790cc1e9c6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bérubé c. La Reine
+
+- Citation: 2014 CCI 304
+- Decision date: 2014-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5250, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bérubé c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-24
+Référence neutre
+2014 CCI 304
+Numéro de dossier
+2013-3194(IT)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3194(IT)APP
+ENTRE :
+JACQUES BÉRUBÉ,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande entendue le 13 juin 2014, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate du requérant :
+Me Chantale Bouchard
+Avocate de l'intimée :
+Me Sara Jahanbakhsh
+JUGEMENT
+Dans un premier temps, le requérant voulait obtenir une ordonnance prolongeant le délai dans lequel un appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d’imposition 2001 et 2004 pourrait être interjeté.
+Dans un second temps, il a amendé sa requête le 27 juin 2014 pour obtenir une ordonnance lui permettant d’obtenir la révision de la cotisation pour l’année d’imposition 2002.
+Après avoir lu les arguments des parties, la demande est rejetée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2014.
+« Alain Tardif »
+Juge Tardif
+Référence : 2014 CCI 304
+Date : 20141024
+Dossier : 2013-3194(IT)APP
+ENTRE :
+JACQUES BÉRUBÉ,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Au départ, il s’agissait d’une requête pour obtenir une prolongation du délai d’appel de manière à obtenir ultimement certaines corrections sur une cotisation pour une année spécifique.
+[2] À l’appui de sa requête, le requérant faisait état de nombreux griefs à l’endroit des représentants de l’intimée.
+[3] Lors de la présentation de la requête, le requérant avait mandaté une avocate très peu de temps avant la date prévue pour l’audition.
+[4] L’intimée a alors soumis au tribunal que la requête devait être rejetée parce qu’elle était irrecevable, et ce, pour deux motifs. Dans un premier temps, elle était hors délai et dans un deuxième temps, la cotisation visée par la requête était néant.
+[5] Le requérant, désormais représenté par une avocate, a alors demandé une remise pour lui permettre d’étudier plus à fond la procédure et possiblement de produire une procédure amendée.
+[6] La remise fut accordée et la Cour canadienne de l’impôt (ci‑après, la « Cour ») a suggéré aux parties de faire valoir leurs arguments par écrit dans un délai accepté par les parties.
+[7] Suite au dépôt des notes écrites, les parties ont soumis qu’elles étaient consentantes à ce que jugement soit rendu à partir des notes écrites.
+[8] Le 18 septembre 2002, le ministre du Revenu national (ci-après, le « ministre ») émet au requérant un avis de cotisation initial pour l’année d’imposition 2001.
+[9] Aucun autre avis n’est émis par la suite pour cette année-là.
+[10] Le 8 mars 2012, le requérant soumet des demandes de redressement afin de réclamer des pertes en capital déductibles au titre de placement d’entreprise de Poutres lamellées Leclerc Inc. (ci-après, « PDTPE ») pour les années d’imposition 2001 et 2004.
+[11] Le 30 mai 2012, la PDTPE pour l’année 2001 est refusée au motif que la demande de redressement était prescrite au moment de son dépôt, selon le paragraphe 152(4.2) de la Loi de l’impôt sur le revenu (ci-après, la « LIR »).
+[12] Le 24 juillet 2013, le requérant demande à la Cour une prolongation de délai pour lui permettre de corriger l’application des PDTPE de 2001, d’une somme de 506 840 $ en rétrospective[1].
+[13] Des cotisations pour les années d’imposition 2002 à 2008 sont émises le 5 octobre 2009. Suite à la production subséquente des déclarations appropriées, un processus de vérification par l’Agence du revenu du Canada s’enclenche pour les années visées.
+[14] De nouvelles cotisations sont ensuite émises au requérant par le ministre pour les années d’imposition 2002, 2003, 2004, 2005 et 2007, et ce, le 19 avril 2012.
+[15] Le 14 mai 2012, le requérant s’oppose aux nouvelles cotisations.
+[16] Le 2 juillet 2013, le ministre rend une décision à l’égard de son opposition aux nouvelles cotisations, selon lequel aucun impôt n’est payable pour les années d’imposition 2002, 2003, 2004, 2005 et 2007.
+[17] Comme mentionné ci-dessus, le requérant soumet, le 8 mars 2012, des demandes de redressement afin de réclamer des PDTPE pour les années d’imposition 2001 et 2004.
+[18] Le 30 mai 2012, une PDTPE est admise pour l’année d’imposition 2004 et appliquée à celle-ci ainsi qu’aux années d’imposition 2002, 2003, 2005 et 2007. Cette répartition entraîne des cotisations à zéro pour les années visées.
+[19] En date du 24 juillet 2013, dans la même demande de prolongation de délai concernant la PDTPE pour l’année d’imposition 2001, le requérant demande à la Cour de corriger également la répartition de la PDTPE pour l’année d’imposition 2004.
+I. Prétentions et arguments du requérant
+[20] Le requérant soumet que son appel devrait être accueilli en raison de l’obtention de nouvelles preuves. Il soutient avoir obtenu « des preuves [ni accessibles ni disponibles au moment de l’analyse de l’intimée] à l’effet que la perte qu’il croyait avoir subie en 2001 s’était plutôt concrétisée en 2002 »[2].
+[21] À cette fin, il soutient avoir obtenu des informations suite au dépôt de son avis d’appel par des individus complices du détournement de ses actifs dans l’entreprise pour laquelle il réclame une PDTPE pour l’année d’imposition 2001. Ils l’ont informé quant aux nouveaux faits; ainsi ce n’est qu’à l’automne 2013 qu’il a obtenu toute l’information pertinente.
+[22] Selon lui, cette nouvelle preuve démontre que la PDTPE prenait effet en 2002 et non en 2001.
+[23] Conséquemment, il a demandé à la Cour, en date du 27 juin 2014, d’ordonner la révision de sa cotisation pour l’année d’imposition 2002, désormais devenue nulle, afin de valider l’admissibilité de la perte initialement soumise pour 2001.
+[24] De plus, il veut avoir la liberté de répartir lui-même la PDTPE admise pour l’année d’imposition 2004 ainsi que pour 2002, dans l’éventualité où sa demande de révision lui serait accordée.
+[25] Il soutient avoir droit à une révision des cotisations pour les années d’imposition 2002, 2003, 2004, 2005 et 2007, tel qu’il appert des conclusions suivantes[3] :
+ACCUEILLIR la demande en application d’appel à la Cour canadienne de l’impôt selon les motifs de l’appelant Jacques Bérubé.
+Corriger l’application des pertes au titre d’un placement admissible d’entreprise de Poutres lamellées Leclerc Inc. en 2002 au montant admissible de 506 840 $ et application en rétrospective de trois (3) années pour les années 2001, 2000, 1999.
+Corriger l’application des pertes au titre d’un placement admissible d’entreprise de Royal UV Inc. en 2004 au montant de 130 000 $.
+II. Prétentions et arguments de l’intimée [26] De son côté, l’intimée plaide que le requérant ne peut s’opposer ni porter en appel la cotisation émise pour l’année d’imposition 2002 puisque la découverte des nouvelles preuves a eu lieu après l’émission de la cotisation néant pour cette année-là, et ce, après le dépôt de sa demande de prolongation de délai auprès de la Cour.
+[27] L’intimée allègue, pour l’année d’imposition 2001, que le requérant est « en dehors de tout délai [pour faire] appel devant cette Cour à l’égard de cette cotisation »[4].
+[28] Puisque le 2 juillet 2013, l’année d’imposition 2002 a fait l’objet d’une notification selon laquelle aucun impôt n’est payable, il s’agit désormais « d’une cotisation néant au sens de la jurisprudence, à laquelle le requérant ne peut ni s’opposer, ni loger un appel »[5].
+[29] Les paragraphes précédents font état de commentaires et d’observations n’ayant pour seul but de situer le dossier dans son contexte global.
+[30] En effet, depuis le 27 juin 2014, la Cour est saisie d’une requête en révision de cotisation, la procédure originale ayant été amendée. Ainsi, il n’y a plus lieu d’étudier la question relative à la prolongation de délai.
+[31] L’intimée affirme qu’il ne s’agit pas ici d’une divergence entre le contribuable et le ministre sur le quantum de la PDTPE, mais plutôt sur son application à l’année d’imposition 2002. Par conséquent, une demande de détermination de pertes par le requérant ne s’applique en l’espèce.
+[32] L’intimée soumet également que le requérant ne peut reprocher au ministre d’avoir appliqué la PDTPE de façon discrétionnaire puisque lui-même aurait découvert les nouvelles preuves qu’après l’émission de la notification selon laquelle aucun impôt n’est payable pour l’année d’imposition 2002.
+[33] Finalement, en ce qui a trait à l’année d’imposition 2004, puisqu’il s’agit d’une cotisation néant et que celle-ci a été émise suite à l’acceptation par le ministre de la PDTPE de 130 000 $ du requérant en 2004, ce dernier ne peut ni s’y opposer ni y loger appel à cause de la prescription.
+III. Questions en litige [34] La requête soulève les questions suivantes :
+a) Est-ce que le requérant a droit de demander la révision d’une cotisation néant pour l’année 2002?
+b) Est-ce que le requérant a droit de voir s’appliquer une perte pour l’année d’imposition 2002 alors qu’elle était initialement requise à être admise pour l’année d’imposition 2001, et ce, suivant l’obtention d’une preuve nouvelle?
+c) Est-ce que le requérant peut choisir à sa discrétion les années d’application des pertes admissibles?
+IV. Appel d’une cotisation néant
+A. Dispositions applicables [35] La disposition générale relative aux appels auprès de la Cour s’applique, soit le paragraphe 169(1) de la LIR :
+169(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[36] Le paragraphe 152(4) de la LIR traite de l’avis à la base d’une cotisation à zéro :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. […]
+[37] Également, les paragraphes 152(1.1) et (1.2) de la LIR sont pertinents puisqu’ils visent une des exceptions au principe suivant lequel aucun appel ne peut être entendu à l’égard d’une cotisation néant :
+152(1.1) Lorsque le ministre établit le montant de la perte autre qu’une perte en capital, de la perte en capital nette, de la perte agricole restreinte, de la perte agricole ou de la perte comme commanditaire subie par un contribuable pour une année d'imposition et que le contribuable n'a pas déclaré ce montant comme perte dans sa déclaration de revenu pour cette année, le ministre doit, à la demande du contribuable et avec diligence, déterminer le montant de cette perte et envoyer un avis de détermination à la personne qui a produit la déclaration.
+[…]
+152(1.2) Les alinéas 56(1)l) et 60o), la présente section et la section J, dans la mesure où ces dispositions portent sur une cotisation ou une nouvelle cotisation ou sur l'établissement d'une cotisation ou d'une nouvelle cotisation concernant l'impôt, s'appliquent, avec les adaptations nécessaires, à toute détermination ou nouvelle détermination effectuée selon le paragraphe (1.01) et aux montants déterminés ou déterminés de nouveau en application de la présente section ou aux montants qui sont réputés par l'article 122.61 être des paiements en trop au titre des sommes dont un contribuable est redevable en vertu de la présente partie. […]
+V. Jurisprudence [38] L’arrêt Okalta Oils Ltd. v. M.N.R.[6] constitue sans contredit le jugement de principe en matière de limitation au droit d’appel d’une cotisation néant. Par jugement unanime, la Cour suprême du Canada a décidé qu’il était impossible pour un contribuable d’appeler d’une cotisation aux termes de laquelle aucun impôt n’est payable.
+[39] Il s’agissait ici d’une cotisation initiale de 1 000 $ pour l’année d’imposition 1946 à laquelle l’appelante s’était opposée. Le ministre, après considération, a émis une nouvelle cotisation selon laquelle aucun impôt n’est payable pour l’année d’imposition 1946 dû au report de pertes subies dans des années antérieures.
+[40] L’appelante a appelé de la décision du ministre devant la Commission d’appel de l’impôt sur le revenu (ci-après, « la Commission »). La Commission a rejeté l’appel et cette décision a été confirmée par la Cour de l’Échiquier.
+[41] Dans cette décision, le juge Fauteux rappelle que le droit d’appel est un droit d’exception qui doit prendre fondement dans la loi. À cette fin, la LIR prévoit qu’on ne peut appeler de la décision du ministre après avis d’opposition qu’afin d’obtenir une diminution de la cotisation ou sa réduction à zéro.
+[42] Il soutient que le mot « cotisation » réfère essentiellement au montant actuel de l’impôt payable par un contribuable de sorte qu’une cotisation nulle n’équivaudrait pas à une « cotisation » au sens de la LIR puisqu’aucun montant n’y est réclamé. Il conclut en affirmant qu’il n’existe par conséquent aucun droit d’appel pour une cotisation nulle.
+[43] L’arrêt Canada c. Consumers’ Gas Co.[7], la Cour d’appel fédérale (ci‑après, la « CAF ») est venue confirmer devant un argument de procédure de l’intimée le principe de la restriction d’appeler d’une cotisation nulle[8] :
+[…] Bien que le terme cotisation puisse être interprété de deux manières différentes, soit comme la procédure au moyen de laquelle l’impôt est évalué, soit comme le produit de cette évaluation, il me semble évident, à la lecture des articles 152 à 177 de la Loi de l’impôt sur le revenu, que le terme y est employé seulement dans son second sens. Cette conclusion découle en particulier du paragraphe 165(1) et du principe bien établi selon lequel un contribuable ne peut ni s’opposer à une cotisation égale à zéro ni interjeter appel contre celle-ci.
+[44] D’ailleurs, ce passage du juge Hugessen a été cité et suivi à de nombreuses reprises par des jugements subséquents, notamment dans les arrêts Bormann c. Canada [9] et Joshi c. La Reine[10].
+[45] L’arrêt Canada c. Interior Savings Credit Union[11] s’agissait d’un appel devant la CAF interjeté à l’égard de l’ordonnance interlocutoire rejetant la requête présentée par la Couronne en vue d’obtenir l’annulation de l’appel de la société Interior Savings Credit Union.
+[46] Dans son avis d’appel, la société ne contestait pas le montant de la cotisation mais bien le rajustement indiqué pour l’un de ses comptes courants. La Couronne invoquait, à l’appui de sa requête de rejet d’appel, que le paragraphe 169(1) de la LIR s’applique uniquement aux contestations visant le montant de la cotisation d’impôt pour l’année. Étant donné que la société ne contestait pas le montant, la Couronne demandait à la Cour de rejeter l’appel.
+[47] Dans ce pourvoi, le juge Noël explique le fondement du principe selon lequel une cotisation néant ne peut faire l’objet d’un appel. Tout d’abord, « l’appel doit viser une cotisation et la cotisation aux termes de laquelle aucun impôt n’est payable n’est pas une cotisation »[12]. Ensuite, il explique que toute opposition autre que celle se rapportant au montant réclamé d’impôt est dépourvue de l’objet dont découle le droit d’appel. Ce faisant, il n’existerait aucun droit d’appeler d’une cotisation portant qu’aucun impôt n’est payable.
+[48] La première précise que le ministre doit déterminer, par voie de cotisation, le montant du remboursement éventuel auquel le contribuable a droit ou de l’impôt réputé payable pour une année d’imposition donnée et prévoit, au paragraphe 152(1.2) de la LIR, que les dispositions portant sur les oppositions et les appels s’appliquent avec les adaptations nécessaires aux montants déterminés.
+[49] La deuxième, quant à elle, prévoit qu’en cas de divergence au sujet du montant de certaines pertes subies par un contribuable, le ministre peut être tenu de déterminer le montant de la perte si le contribuable le lui demande. Dans un tel cas, la procédure prévue pour les oppositions et les appels s’applique également, toujours selon le paragraphe 152(1.2) de la LIR.
+[50] Il est donc clairement établi dans la jurisprudence qu’un contribuable ne peut interjeter appel d’une cotisation néant pour la simple raison qu’une cotisation selon laquelle aucun impôt n’est payable n’est pas une « cotisation » au sens de la LIR.
+[51] De plus, le droit de faire appel d’une cotisation a pour but la réduction de l’impôt payable ou encore son extinction. Contester une cotisation néant reviendrait à ignorer l’objet même du droit d’appel.
+[52] Dans le présent pourvoi, le requérant reconnaît cette règle générale selon laquelle une cotisation néant ne peut faire l’objet d’un appel. Cependant, il soutient être en droit de prétendre à l’application d’exception à cette règle suivant l’arrêt Joshi :
+En effet, la jurisprudence enseigne que dans le cas où une cotisation néant résulte de l’application d’une perte par le ministère et qu’en soit, cette décision d’application est contestée et que nonobstant cette décision, la cotisation aurait été positive, il s’agit là d’une exception à la règle qui permet la révision de ladite cotisation (Réf. : Joshi v. The Queen, 2004 CCI 757);
+[53] Le juge Noël a bien résumé dans Interior Savings Credit Union; le législateur a édicté, au fil des ans, des exceptions au principe qu’aucun droit d’appel n’est permis pour une cotisation à zéro.
+[54] L’objet de la requête en l’espèce concerne des PDTPE. Il nous faut donc écarter d’emblée l’exception applicable par l’alinéa 152(1)a) de la LIR. Également, la détermination relative à l’alinéa 152(1)b) de la LIR ne s’applique pas ici non plus.
+[55] En ce qui a trait au paragraphe 152(1.1) de la LIR, il est reconnu par la CAF que cette disposition établit clairement une procédure comportant une série de mesures ou de faits qui doivent avoir lieu pour qu’il y ait une détermination valide de pertes[13] :
+[…] Ces mesures sont les suivantes : a) le ministre établit le montant de la perte autre qu’en capital du contribuable pour une année d’imposition qui est différent du montant indiqué par ce contribuable dans sa déclaration de revenus; b) le contribuable demande au ministre de déterminer le montant de la perte; c) le ministre détermine à ce moment-là le montant de la perte et délivre un avis de détermination de perte au contribuable. […]
+[56] Ce n’est qu’une fois ces conditions remplies que le régime d’exception du paragraphe 152(1.1) s’applique et qu’ainsi un droit d’appel peut se voir accordé (paragraphe 152(1.2) LIR).
+[57] En l’espèce, il n’y a eu aucune divergence entre le ministre et l’appelante en ce qui concerne le quantum de la PDTPE.
+[58] Le requérant affirme lui-même avoir soumis le 8 mars 2012 une demande d’admissibilité d’une PDTPE pour les années d’imposition 2001 et 2004. Dans sa décision du 30 mai 2012 à l’égard de cette demande, l’intimée traite d’une demande de révision faite par le requérant. Les documents au dossier, quant à eux, traitent d’une demande de redressement d’une T1.
+[59] Ainsi, il appert que le requérant n’a fait aucune demande de détermination au sens du paragraphe 152(1.1) de la LIR. Quoi qu'il en soit, si divergence il y a eu, ce n’était pas sur le montant de la perte mais bien sur son application. Il faut écarter l’application de l’exception au droit d’appel qu’est le paragraphe 152(1.1) de la LIR.
+[60] À l’appui de sa requête ré-amendée, le requérant fait référence à l’arrêt Joshi tel que précédemment mentionné. Nous croyons que cette décision ne s’applique pas en l’espèce pour les motifs ci-dessous.
+[61] Il s’agissait dans cet arrêt de déterminer les montants exacts des déductions applicables aux frais de déménagement de l’appelant pour les années d’imposition 2001 et 2002.
+[62] La Cour canadienne de l’impôt avait été soumise à une question préliminaire soulevée par le ministre selon laquelle l’appel concernant l’année d’imposition 2001 devait être rejeté au motif que la cotisation portait qu’aucun impôt n’était payable.
+[63] Dans son analyse, le juge O’Connor reconnaît que l’année 2001 était une année d’imposition visée par une cotisation néant mais accorde tout de même l’appel pour les motifs suivants :
+[…] À mon avis, l’appel ne doit pas être annulé parce qu’une détermination relative à l’année d’imposition 2001 influe sur l’obligation fiscale de l’appelant à l’égard de l’année d’imposition 2002, et ce, parce que les frais de déménagement sont déductibles dans l’année où ils sont engagés et dans l’année suivante[14].
+[64] Le juge O’Connor cite les arrêts Joshi v. The Queen[15] (ci-après, « Joshi # 2 »), Martens v. M.N.R.[16], Aallcann Wood Suppliers Inc. v. The Queen[17], Liampat Holdings Ltd. v. The Queen[18] et Canada c. Bruner[19].
+[65] Or, la CAF dans Interior Savings Credit Union rejette l’application de l’affaire Joshi # 2 pour invoquer qu’une cotisation néant peut faire l’objet d’un appel. En effet, le juge Noël révèle que cette décision ne semble s’être jamais rendue à l’instruction alors même que le juge à l’instance avait indiqué que sa décision de ne pas annuler un avis d’appel concernant une cotisation néant n’était pas définitive, et que la question sera tranchée à l’instruction[20].
+[66] En ce qui a trait à l’arrêt Martens, il s’agissait essentiellement d’un appel d’une cotisation néant issue de l’exception à la règle générale de l’alinéa 152(1)b) de la LIR. En effet, la Cour avait refusé d’annuler une cotisation nulle mais l’appelant ne disputait pas la cotisation d’impôt, il argumentait plutôt le calcul du crédit d’impôt à l’investissement remboursable.
+[67] En l’espèce, les exceptions ne s’appliquent pas; l’arrêt Martens peut être invoqué pour affirmer qu’une cotisation néant peut faire l’objet d’un appel puisque cet arrêt traite spécifiquement d’une exception statutaire selon laquelle le législateur a explicitement permis à un contribuable de s’opposer ou d’appeler d’une détermination du ministre.
+[68] Il en est ainsi avec la décision Aallcann Wood Suppliers. Le juge O’Connor traite de cette décision dans Joshi mais l’interprète comme permettant que « la détermination des pertes en capital dans une cotisation néant [soit] prise en compte par la Cour si ces pertes influent sur la situation du contribuable au cours d’années ultérieures (c’est-à-dire dans le cas du report prospectif d’une perte) ».
+[69] Or, le juge Noël est venu subséquemment invalider cette interprétation et rétablir le fait que, dans l’arrêt Aallcann Wood Suppliers, « l’année faisant l’objet du litige n’en était pas une où avait été établie une cotisation portant qu’aucun impôt n’est payable ».[21]
+[70] Pour ces raisons, l’arrêt Aallcann Wood Suppliers ne peut servir de fondement en l’espèce au droit d’appel d’une cotisation néant.
+[71] En conclusion, la jurisprudence pertinente ne valide pas les arguments du requérant, en ce qui concerne le droit d’appel à une cotisation néant.
+[72] Le requérant soumet à la Cour l’argument selon lequel il aurait droit de voir appliquer une PDTPE initialement requise à être admise pour l’année d’imposition 2001 pour l’année 2002 suivant l’obtention d’une preuve nouvelle faisant état de fait révélant l’effectivité de cette perte en 2002.
+[73] Le requérant insiste beaucoup sur le fait qu’il détient maintenant des informations qu’il ne pouvait avoir au moment du traitement de son dossier par l’intimée. Souscrire à l’argument du requérant aurait pour effet de lui permettre de faire indirectement ce qu’il ne peut faire directement, c’est-à-dire appeler d’une cotisation néant.
+[74] Le requérant a fait la découverte de ces nouveaux faits après avoir reçu l’avis de cotisation établissant qu’aucun impôt n’est payable pour l’année d’imposition 2002. Cet avis résultait d’ailleurs d’une répartition de la PDTPE subie en 2004 et accordée par l’intimée.
+[75] Il semble que le seul moyen pour le requérant de se voir accorder la PDTPE pour l’année d’imposition 2002 de manière à se retrouver dans le délai de 10 ans (paragraphe 152(4.2) de la LIR) serait de demander une révision de la demande initiale de redressement soumise le 8 mars 2012, et ce, auprès de la CAF, tel que le souligne la juge Woods, dans l’affaire Furlong c. La Reine[22].
+[76] Le requérant ne semble pas soulever cette perspective, du moins tel que formulé dans son avis de requête ré-amendée :
+Ce faisant, l’appelant demande à ce que la Cour ordonne la révision de sa cotisation pour l’année 2002 afin de valider l’admissibilité de la perte initialement soumise pour l’année 2001;
+[Je souligne.]
+[77] Nous croyons donc qu’étant donné que les exceptions au principe voulant qu’aucun appel ne puisse être logé à l’encontre d’une cotisation néant ne s’appliquent pas au requérant, il ne peut appeler de la cotisation néant pour l’année d’imposition 2002.
+[78] Toutefois, il pourra, à l’encontre de véritables cotisations ultérieures (qui ne sont pas réduites à zéro), appeler de celles-ci et soumettre à la Cour lesdites nouvelles preuves afin de pouvoir déduire ses pertes subies en 2002 sur ces années d’imposition ultérieures, et ce, sous réserve évidemment des délais de prescription.
+[79] Quoi qu'il en soit, si la preuve avancée par le requérant est établie, il lui sera également loisible de déduire cette perte à l’égard des années d’imposition 2010 et suivantes, mais à titre de pertes en capital nettes en vertu de l’alinéa 111(1)a) de la LIR[23]. En effet, une PDTPE inutilisée pendant les sept années suivantes devient une perte en capital nette dans la huitième année.
+[80] Dans les circonstances, je n’ai pas à répondre à la question relative à la répartition des pertes à la discrétion du requérant.
+[81] Pour ces raisons, la requête du requérant doit être rejetée étant donné qu’il ne peut pas demander la révision d’une cotisation néant pour l’année 2002. Un contribuable ne peut ni s’opposer ni loger un appel d’une cotisation selon laquelle aucun impôt n’est payable.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2014.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2014 CCI 304
+Nº DU DOSSIER DE LA COUR :
+2013-3194(IT)APP
+INTITULÉ DE LA CAUSE :
+JACQUES BÉRUBÉ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 13 juin 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 24 octobre 2014
+COMPARUTIONS :
+Avocate du requérant :
+Me Chantale Bouchard
+Avocate de l'intimée :
+Me Sara Jahanbakhsh
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant:
+Nom :
+Me Chantale Bouchard
+Cabinet :
+Chantale Bouchard, avocats
+Québec (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Constatant que sa procédure est inappropriée, le requérant fait un amendement à sa procédure pour remplacer sa requête initiale par un avis de requête en révision de cotisation.
+[2] Avis de requête ré-amendée du 27 juin 2014, para. 5.
+[3] Ibid., préambule.
+[4] Représentations écrites de l’intimée du 11 juillet 2014, para. 27.
+[5] Ibid., para. 30.
+[6] [1955] S.C.J. No. 77 (QL), 55 DTC 1176.
+[7] [1986] A.C.F. no 838 (QL), 87 DTC 5008.
+[8] Ibid.
+[9] 2006 CAF 83, para. 8.
+[10] 2004 CCI 757, para. 4.
+[11] 2007 CAF 151, para. 17.
+[12] Ibid., para. 17.
+[13] Inco Limited c. La Reine, 2004 CCI 373, para. 13 (décision confirmée par la Cour d’appel fédérale).
+[14] Précité, note 10.
+[15] 2003 DTC 1550.
+[16] 88 DTC 1382.
+[17] 94 DTC 1475.
+[18] [1995] F.C.J. No. 1621 (QL), 96 DTC 6020.
+[19] 2003 CAF 54.
+[20] Précité note 11.
+[21] Précité note 19.
+[22] 2014 CCI 69, para. 7.
+[23] Il s’agit de la règle applicable pour les pertes autres qu’en capital subies au cours des années d’imposition se terminant avant le 23 mars 2004 : la période de report est alors limitée aux sept années d’imposition subséquentes.

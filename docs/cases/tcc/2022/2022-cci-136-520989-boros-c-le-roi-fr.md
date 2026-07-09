@@ -1,0 +1,189 @@
+---
+title: "Boros c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520989/index.do"
+last_modified: "2022-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 136"
+citation2: ""
+neutral_citation: "2022 CCI 136"
+decision_date: "2022-11-04"
+language: "fr"
+item_id: "520989"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4665
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:02:59.280000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b3f991e717c3676dfd2714fc43f5e68c788de5bc9fa2141ec065a0974861fc9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boros c. Le Roi
+
+- Citation: 2022 CCI 136
+- Decision date: 2022-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4665, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boros c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-04
+Référence neutre
+2022 CCI 136
+Numéro de dossier
+2015-5482(IT)I, 2016-2259(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier: 2016-2259(IT)I
+ENTRE:
+GEORGE L. BOROS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+Appel entendu le 4 mai 2022, à Ottawa (Ontario); transcription reçu le 16 mai 2022
+Devant : L'honorable juge Gaston Jorré, juge suppléant
+Comparutions :
+De l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Andrée-Anne Lavoie
+JUGEMENT
+Conformément aux motifs ci-joints, les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2005, 2006 et 2007 sont rejetés, sans frais.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+Dossier: 2015-5482(IT)I
+ENTRE:
+LOUISE GINGRAS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+Appel entendu le 4 mai 2022, à Ottawa (Ontario); transcription reçu le 16 mai 2022
+Devant : L'honorable juge Gaston Jorré, juge suppléant
+Comparutions :
+Agent de l'appelant :
+George L. Boros
+Avocat de l'intimée :
+Andrée-Anne Lavoie
+JUGEMENT
+Conformément aux motifs ci-joints, les appels à l’encontre de la redétermination du 22 septembre 2015 concernant la prestation fiscale canadienne pour enfants pour les années de base 2006 et 2007 est rejetés, sans frais.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+Citation: 2022 CCI 136
+Date: 20221104
+Dossier: 2016-2259(IT)I
+ENTRE:
+GEORGE L. BOROS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+Dossier: 2015-5482(IT)I
+ENTRE:
+LOUISE GINGRAS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+Aperçu
+[1] Le 9 novembre 2011, l’appelant, Georges Boros, a déposé à cette cour un appel concernant les années d’imposition 2005, 2006 et 2007. [1]
+[2] Le 3 mai 2013, j’ai rendu un jugement accueillant en partie l’avis d’appel. Ce jugement a été porté en appel par l’appelant; la cour d’appel fédérale a rejeté l’appel. [2]
+[3] Monsieur Boros appelle de recotisations découlant du jugement du 3 mai 2013. [3]
+[4] La question dans cet appel est: est-ce que les recotisations en question sont conformes au jugement du 3 mai 2013?
+[5] Madame Gingras appelle de redéterminations du 20 octobre 2015 concernant les années de base 2006 et 2007. Il y a deux aspects à son appel.
+[6] Premièrement, si l’appel de Monsieur Boros est accueilli et le revenu de Monsieur Boros été modifié, il se pourrait que cela ait pour effet de modifier le revenu familial et en conséquence les montants de prestation fiscale canadienne pour enfants payables à Madame Gingras.
+[7] Deuxièmement, l’appelante prétend, qu’en déterminant le montant de la prestation auquel Madame Gingras a droit, le ministre n’a pas tenu compte du fait que l’appelante a la garde partagée de deux enfants, M et W.
+[8] Les appels sont des recotisations et des redéterminations respectivement. Cette cour peut examiner ces recotisations et redéterminations. Les appels tentent également de soulever d’autres questions qui ne relèvent pas de cette cour et je ne vais pas traiter de ces questions. [4]
+Monsieur Boros
+[9] Le jugement du 3 mai 2013 a ordonné deux modifications aux cotisations.
+[10] Premièrement, l’appelant avait une automobile ; 32% de l’utilisation de cette automobile était pour fins d’affaires. Le jugement permettait à l’appelant de réclamer, s’il en faisait la demande, 32% de l’amortissement du véhicule permis par la Loi de l’impôt sur le revenu et le Règlement de l’impôt sur le revenu.
+[11] Deuxièmement, le jugement a ordonné que la pénalité en vertu du paragraphe 163(2) de la loi soit recalculé en tenant compte qu’il fallait réduire les montants auxquels la pénalité a été appliquée de $1,545 en 2005, de $1,518 en 2006 et de $1,776 en 2007.
+[12] Quant au premier changement, le ministre a accordé, une déduction pour amortissement de $2,976 en 2005, de 2293 $ en 2006 et de $1,605 en 2007, un total de $6,874. Vu que l’utilisation pour affaires n’était que 32%, cela implique que le ministre accepte que dans les trois années en question il y’ait eu un amortissement de $21,481.
+[13] Vu que le règlement prévoit un taux d’amortissement de 30% de la fraction non amortie du coût en capital (FNAC), cela implique une FNAC d’environ $30,000 au début de 2005. [5]
+[14] Monsieur Boros a demandé au témoin de l’intimée comment ces montants ont été calculés. Le témoin a expliqué que selon les documents au dossier les montants utilisés ont été fournis par l’appelant.
+[15] L’appelant a témoigné qu’il ne se souvenait pas d’avoir fait cette demande au ministre. Il n’a fait aucune preuve qui pourrait démontrer que le ministre aurait dû accorder un montant d’amortissement plus élevé. Par exemple, il n’a fait aucune preuve quant au prix payé pour la voiture ou l’année d’achat.
+[16] Dans les circonstances, il n’y a aucune raison d’augmenter l’amortissement.
+[17] Quant à la pénalité en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, la preuve est très claire que le résultat de toutes les cotisations est la suivante : la pénalité cotisée dans chacune des années est de 100$. [6]
+[18] Ceci est conforme au jugement du 3 mai 2013, car la loi prévoit une pénalité minime de 100 $.
+[19] Il n’y a donc aucune raison de varier les cotisations de Monsieur Boros et son appel doit être rejeté.
+Madame Gingras
+[20] Il suit que l’appel de Monsieur Boros ne peut avoir d’effet sur le calcul de la prestation fiscale canadienne pour enfants payables à Madame Gingras.
+[21] Il reste la question de la garde partagée.
+[22] La Réponse à l’avis d’appel de l’intimée dit qu’en établissant les nouvelles déterminations le ministre s’est fondé, entre autres, sur le fait suivant: qu’il y avait une garde partagée entre l’appelante est la mère des enfants. [7]
+[23] J’ai demandé au représentant de l’appelante, Monsieur Boros, de m’expliquer pourquoi l’appelante prétendait que le ministre ne tenait pas compte de la garde partagée.
+[24] Je n’ai pas eu de réponse satisfaisante à cette question et la preuve est que le ministre tenu compte de la garde partagée. [8]
+[25] En conséquence, il n’y a aucune raison de modifier les déterminations en question et l’appel de Madame Gingras doit être rejeté.
+Conclusion
+[26] Les appels sont rejetés, sans frais.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+RÉFÉRENCE :
+2022 CCI 136
+Nº DU DOSSIER DE LA COUR :
+2015-5482(IT)I; 2016-2259(IT)I
+INTITULÉ DE LA CAUSE :
+LOUISE GINGRAS ET SA MAJESTÉ LE ROI; GEORGE L. BOROS ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+le 4 mai, 2022
+DATE DE RÉCEPTION DE LA TRANSCRIPTION PAR LA COUR:
+Le 16 mai 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Gaston Jorré, juge suppléant
+DATE DU JUGEMENT :
+le 4 novembre 2022
+COMPARUTIONS :
+Agent de l'appelant :
+George L. Boros
+Avocat de l'intimée :
+Andrée-Anne Lavoie
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Vide
+Cabinet :
+vide
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dossier 2011-3621(IT)I.
+[2] 2014 CAF 147 (CanLII).
+[3] Ces recotisations ont été confirmées par une lettre du 22 septembre 2015.
+[4] Par exemple, les appelants demandent un contrôle judiciaire.
+[5] 30,000$ * 30%= 9,000$ et 9,000$ * 32%= 2,888$ un peu moins que le montant de 2,976$ accordé en 2005.
+[6] Voir, entre autres, les paragraphes 9, 10 et 11 de la déclaration sous serment de Steven Guillemette relatif à l’appel de Monsieur Boros, la pièce A-2.
+[7] Voir les paragraphes 5 a), b), c) de la Réponse à l’avis d’appel.
+[8] Voir première page de la pièce I-2 qui montrent que le ministre a tenu compte de la garde partagée entre Madame Gingras et la mère à partir d’août 2005, avant la période en question, et que le ministre a continué à tenir compte de cette garde partagée après la période qui nous concerne.

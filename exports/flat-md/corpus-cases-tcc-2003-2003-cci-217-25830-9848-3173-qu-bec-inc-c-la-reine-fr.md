@@ -1,0 +1,160 @@
+---
+title: "9848-3173 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25830/index.do"
+last_modified: "2003-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 217"
+citation2: ""
+neutral_citation: "2003 CCI 217"
+decision_date: "2003-04-07"
+language: "fr"
+item_id: "25830"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3901
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:19:34.433000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c08ddf9f4d7b367ed3b8d4546a1ee40f3ea32a0862b2c256a65bbba58cfe49d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9848-3173 Québec Inc. c. La Reine
+
+- Citation: 2003 CCI 217
+- Decision date: 2003-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9848-3173 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-07
+Référence neutre
+2003 CCI 217
+Numéro de dossier
+2002-4314(GST)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-4314(GST)APP
+ENTRE :
+9848-3173 QUÉBEC INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 17 février 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+représentant de la requérante :
+André Cantin
+Avocat de l'intimée :
+Me Danny Galarneau
+____________________________________________________________________
+ORDONNANCE
+VU la demande faite en vue d'obtenir une ordonnance prolongeant le délai dans lequel un appel de la cotisation portant le numéro 02306036 en date du 10 octobre 2001, pour la période du 1er août 1997 au 30 avril 2001, établie en vertu de la Loi sur la taxe d'accise (la « Loi » ), peut être interjeté;
+VU les allégations du procureur de l'intimée s'opposant à cette demande;
+ET VU les dispositions de la Loi concernant les articles 300 (1), 303 (1), 303 (5), 303 (7) et 304 (1);
+La demande de prorogation de délai est rejetée, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada ce 7e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI217
+Date : 20030407
+Dossier : 2002-4314(GST)APP
+ENTRE :
+9848-3173 QUÉBEC INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif, C.C.I.
+[1] Il s'agit d'une demande de prorogation de délai pour interjeter appel d'une cotisation. L'intimée s'est opposée à la demande de prorogation de délai en alléguant ce qui suit :
+1. Le 10 octobre 2001, l'intimée a émis à l'endroit de la requérante un avis de cotisation portant le numéro 02306036 relativement à une demande de remboursement de taxe refusée pour la période du 1er août 1997 au 30 avril 2001;
+2. Le 14 mars 2002, la requérante s'est opposée à l'avis de cotisation ci-avant mentionné;
+3. Étant présentée hors délai, le 24 avril 2002, la requérante produisait auprès de l'intimée une demande de prorogation de délai;
+4. Le 8 octobre 2002, l'intimée refusait la demande de prorogation de délai;
+5. La requérante a omis de loger une demande de prorogation de délai pour signifier un avis d'opposition auprès de la Cour canadienne de l'impôt à l'intérieur de délai de trente (30) jours prévu à l'article 304 de la Loi sur la taxe d'accise;
+6. La demande de prorogation de délai pour déposer un avis d'opposition auprès de la Cour canadienne de l'impôt a été déposée au greffe de la Cour le 8 novembre 2002;
+7. L'intimée soutient que cette demande de prorogation de délai devrait être rejetée pour les motifs suivants :
+a) La demande de prorogation suivant le paragraphe 304 (1) de la Loi n'a pas été présentée dans le délai de trente 930) jours suivant l'envoi par l'intimée de la décision refusant la demande de prorogation de délai, délai par ailleurs imparti et ce, conformément à l'alinéa 2 du paragraphe 304 (1) de la Loi;
+b) Le délai indiqué à l'alinéa 2 du paragraphe 304 (1) de la Loi est un délai de rigueur;
+c) La seule discrétion laissée à la Cour pour proroger un délai pour signifier un avis d'opposition est celle prévue au paragraphe 303 (5) de la Loi, soit le délai de quatre-vingt-dix (90) jours prévu au paragraphe 303 (1.1) de la Loi;
+d) La Cour n'a pas compétence pour donner droit à la demande formulée par la requérante;
+8) L'intimée conclut au rejet de la demande de prorogation de délai qui est mal fondée en faits et en droit;
+[2] Les dispositions de la Loi sur la taxe d'accise sont les suivantes :
+L'article 300 (1) se lit comme suit :
+Opposition à la cotisation La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l'avis de cotisation lui est envoyé présenter au ministre un avis d'opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+L'article 303 (1) se lit comme suit :
+Prorogation du délai par le ministre Le ministre peut proroger le délai pour produite un avis d'opposition dans le cas où la personne qui n'a pas fait opposition à une cotisation en application de l'article 301, ou de requête en application du paragraphe 274(6), dans le délai par ailleurs imparti lui présente une demande à cet effet.
+L'article 303 (5) se lit comme suit :
+Obligations du ministre Sur réception de la demande, le ministre l'examine avec diligence et y fait droit ou la rejette. Dès lors, il avise la personne de sa décision par courrier certifié ou recommandé.
+L'article 303 (7) se lit comme suit :
+Conditions d'acceptation de la demande Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l'année suivant l'expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 264(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai d'opposition par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait l'intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient
+L'article 304 (1) se lit comme suit :
+Prorogation du délai par la Cour canadienne de l'impôt La personne qui a présenté une demande en application de l'article 303 peut demander à la Cour canadienne de l'impôt d'y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l'expiration d'un délai de 90 jours suivant la signification de la demande, si le ministre n'a pas avisé la personne de sa décision.
+Toutefois, une telle demande ne peut-être présentée après l'expiration d'un délai de 30 jours suivant l'envoi de la décision à la personne selon le paragraphe 303 (5).
+[3] À la lecture des dispositions applicables, il n'y a aucun doute que le délai indiqué à l'article 304 (1) deuxième paragraphe, est une disposition qui ne laisse aucune latitude à ce Tribunal; en effet, il s'agit d'un délai de rigueur contre lequel le Tribunal n'a aucune autorité.
+[4] Dans les circonstances, je dois rejeter la demande de prorogation de délai pour le motif de présentation tardive.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI217
+No DU DOSSIER DE LA COUR :
+2002-4314(GST)APP
+INTITULÉ DE LA CAUSE :
+9048-3173 Québec Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+Le 17 février 2003
+MOTIFS DE L'ORDONNANCE PAR :
+l'honorable juge Alain Tardif
+DATE DE L'ORDONNANCE :
+le 7 avril 2003
+COMPARUTIONS :
+Pour l'appelante :
+André Cantin
+Pour l'intimée :
+Me Danny Galarneau
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

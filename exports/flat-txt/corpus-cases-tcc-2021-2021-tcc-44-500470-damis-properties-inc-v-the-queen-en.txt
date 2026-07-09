@@ -1,0 +1,289 @@
+Title: Damis Properties Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/500470/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-44-500470-damis-properties-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-07-14
+
+# Damis Properties Inc. v. The Queen
+
+- Citation: 2021 TCC 44
+- Decision date: 2021-07-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4457, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Damis Properties Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-07-14
+Neutral citation
+2021 TCC 44
+File numbers
+2016-4783(IT)G, 2016-4785(IT)G, 2016-4787(IT)G, 2016-4788(IT)G, 2016-4789(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Notes
+Decision Content
+Docket: 2016-4783(IT)G
+BETWEEN:
+DAMIS PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions Regarding Costs
+Before: The Honourable Justice John R. Owen
+Participants:
+Counsel for the Appellant:
+Yves St-Cyr
+Jacob Yau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+Dominic Bédard-Lapointe
+ORDER
+UPON reading the parties’ written submissions on costs; and
+IN ACCORDANCE with the attached Reasons for Order it is ordered that:
+1. the Appellant is awarded lump sum costs in the amount of $108,781.68 in lieu of taxed costs, being 24% of the aggregate lump sum award of costs to the Appellants of $453,257; and
+subject to taxation in accordance with the Tax Court of Canada Rules (General Procedure) to verify the amounts claimed, which shall not include any GST/HST in respect of which the Appellant claimed an input tax credit, the Appellant is awarded disbursements in the amount of $40,890.43, being 24% of the aggregate award for disbursements of $170,376.79.
+Signed at Ottawa, Canada, this 14th day of July 2021.
+“J.R. Owen”
+Owen J.
+Docket: 2016-4785(IT)G
+BETWEEN:
+SABEL INVESTMENTS II-A LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions Regarding Costs
+Before: The Honourable Justice John R. Owen
+Participants:
+Counsel for the Appellant:
+Yves St-Cyr
+Jacob Yau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+Dominic Bédard-Lapointe
+ORDER
+UPON reading the parties’ written submissions on costs; and
+IN ACCORDANCE with the attached Reasons for Order it is ordered that:
+the Appellant is awarded lump sum costs in the amount of $108,781.68 in lieu of taxed costs, being 24% of the aggregate lump sum award of costs to the Appellants of $453,257; and
+subject to taxation in accordance with the Tax Court of Canada Rules (General Procedure) to verify the amounts claimed, which shall not include any GST/HST in respect of which the Appellant claimed an input tax credit, the Appellant is awarded disbursements in the amount of $40,890.43, being 24% of the aggregate award for disbursements of $170,376.79.
+Signed at Ottawa, Canada, this 14th day of July 2021.
+“J.R. Owen”
+Owen J.
+Docket: 2016-4787(IT)G
+BETWEEN:
+ZAGJO HOLDINGS LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions Regarding Costs
+Before: The Honourable Justice John R. Owen
+Participants:
+Counsel for the Appellant:
+Yves St-Cyr
+Jacob Yau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+Dominic Bédard-Lapointe
+ORDER
+UPON reading the parties’ written submissions on costs; and
+IN ACCORDANCE with the attached Reasons for Order it is ordered that:
+the Appellant is awarded lump sum costs in the amount of $63,455.98 in lieu of taxed costs, being 14% of the aggregate lump sum award of costs to the Appellants of $453,257; and
+subject to taxation in accordance with the Tax Court of Canada Rules (General Procedure) to verify the amounts claimed, which shall not include any GST/HST in respect of which the Appellant claimed an input tax credit, the Appellant is awarded disbursements in the amount of $23,852.75, being 14% of the aggregate award for disbursements of $170,376.79.
+Signed at Ottawa, Canada, this 14th day of July 2021.
+“J.R. Owen”
+Owen J.
+Docket: 2016-4788(IT)G
+BETWEEN:
+DEVAMM INVESTMENTS II-A LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions Regarding Costs
+Before: The Honourable Justice John R. Owen
+Participants:
+Counsel for the Appellant:
+Yves St-Cyr
+Jacob Yau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+Dominic Bédard-Lapointe
+ORDER
+UPON reading the parties’ written submissions on costs; and
+IN ACCORDANCE with the attached Reasons for Order it is ordered that:
+the Appellant is awarded lump sum costs in the amount of $63,455.98 in lieu of taxed costs, being 14% of the aggregate lump sum award of costs to the Appellants of $453,257; and
+subject to taxation in accordance with the Tax Court of Canada Rules (General Procedure) to verify the amounts claimed, which shall not include any GST/HST in respect of which the Appellant claimed an input tax credit, the Appellant is awarded disbursements in the amount of $23,852.75, being 14% of the aggregate award for disbursements of $170,376.79.
+Signed at Ottawa, Canada, this 14th day of July 2021.
+“J.R. Owen”
+Owen J.
+Docket: 2016-4789(IT)G
+BETWEEN:
+MICROBJO PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions Regarding Costs
+Before: The Honourable Justice John R. Owen
+Participants:
+Counsel for the Appellant:
+Yves St-Cyr
+Jacob Yau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+Dominic Bédard-Lapointe
+ORDER
+UPON reading the parties’ written submissions on costs; and
+IN ACCORDANCE with the attached Reasons for Order it is ordered that:
+the Appellant is awarded lump sum costs in the amount of $108,781.68 in lieu of taxed costs, being 24% of the aggregate lump sum award of costs to the Appellants of $453,257; and
+subject to taxation in accordance with the Tax Court of Canada Rules (General Procedure) to verify the amounts claimed, which shall not include any GST/HST in respect of which the Appellant claimed an input tax credit, the Appellant is awarded disbursements in the amount of $40,890.43, being 24% of the aggregate award for disbursements of $170,376.79.
+Signed at Ottawa, Canada, this 14th day of July 2021.
+“J.R. Owen”
+Owen J.
+Citation: 2021 TCC 44
+Date: 20210714
+Docket: 2016-4783(IT)G
+BETWEEN:
+DAMIS PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2016-4785(IT)G
+AND BETWEEN:
+SABEL INVESTMENTS II-A LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2016-4787(IT)G
+AND BETWEEN:
+ZAGJO HOLDINGS LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2016-4788(IT)G
+AND BETWEEN:
+DEVAMM INVESTMENTS II-A LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2016-4789(IT)G
+AND BETWEEN:
+MICROBJO PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Owen J.
+I. Introduction
+[1] In 2006, each of the five Appellants entered into a series of transactions to effect the sale of a newly incorporated subsidiary to Wilshire Technology Corporation (“WTC”). The Minister of National Revenue (the “Minister”) assessed each of the Appellants under subsection 160(2) of the Income Tax Act (Canada) (the “ITA”) and the Appellants appealed those assessments. The Respondent defended the assessments on the basis that subsection 160(1) applied to the Appellants and, in the alternative, that the general anti-avoidance rule (GAAR) in section 245 of the ITA applied. The Appellants were successful in their appeals.
+[2] In response to my request for submissions, the Appellants ask for a lump sum award of costs in the amount of $808,651.68 and disbursements of $170,376.79. The requested award of costs is approximately 62.4% of the $1,295,019.50 of legal fees collectively incurred by the Appellants. [1] The Appellants request that the award of costs and disbursements be allocated as to 24% each to Damis Properties Inc., Sabel Investments II-A Limited and Microbjo Properties Inc. and as to 14% each to Zagjo Holdings Limited and Devamm Investments II-A Limited, which are the proportions in which the legal fees and disbursements were borne by the Appellants.
+[3] The Respondent submits that a lump sum cost award of $431,227.65, which is approximately 33.4% of the total legal fees incurred by the Appellants less previously awarded costs of $4,200, plus disbursements would be fair and reasonable.
+[4] Before beginning my analysis of the cost submissions, I wish to commend counsel for the Appellants and counsel for the Respondent for the well-organized and highly efficient way in which they approached these appeals, including their agreement in advance to the non-contentious facts and their agreement to limit the presentation of evidence to the circumstances of two Appellants that collectively represented the circumstances of all five Appellants.
+II. Analysis
+[5] Section 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) addresses costs in General Procedure income tax appeals. I review the rules in section 147 and set out the general principles applicable to the determination of costs in CIT Group Securities (Canada) Inc. v. R., 2017 TCC 86 and again in Cameco Corporation v. R., 2019 TCC 92. The comments I make in those cases are equally applicable here and I will not repeat them. One particularly important point, however, is that section 147 affords the Tax Court of Canada broad discretion in awarding costs subject always to the requirement that the discretion must be exercised on a principled, rather than an arbitrary, basis. [2]
+[6] Subsection 147(3) of the Rules contains a list of factors for the Court to consider when exercising its discretion to award costs. I note with respect to these factors that while it is necessary to address whether and why a relevant factor supports or does not support an award of costs to a particular party, the quantum of the award should be determined based on an assessment of all the relevant factors (including, if necessary, factors not listed) viewed collectively. An individual factor may be a positive or negative influence on the decision to award costs to a party and on the quantum of such award. However, attempting to parse the degree of influence of each factor runs counter to the objectives of saving the parties time and money and securing the just, most expeditious and least expensive determination of proceedings. [3] Further, as stated by Rothstein JA (as he then was) in Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc. (C.A.), 2002 FCA 417 at paragraph 8:
+An award of party-party costs is not an exercise in exact science. It is only an estimate of the amount the Court considers appropriate as a contribution towards the successful party’s solicitor-client costs (or, in unusual circumstances, the unsuccessful party's solicitor-client costs). . . .
+Identifying whether and why a particular factor supports or does not support an award of costs to a particular party is sufficient to make such a determination based on a collective view of the relevant factors.
+[7] The positions of the Appellants and the Respondent on the factors listed in subsection 147(3) are as follows:
+1. Paragraph 147(3)(a) – The Result of the Proceeding
+[8] The Appellants submit that there were a multitude of issues and of possible outcomes and that the success of the Appellants therefore merits an enhanced award of costs. The Respondent accepts that the success of the Appellants warrants an appropriate award of costs but submits that the merit of the Respondent’s case is not a consideration as the rationale for costs is not to punish the losing party based on an ex post facto analysis of the relative merit of the positions taken.
+[9] The success of the Appellants on all issues warrants an appropriate award of costs to the Appellants.
+2. Paragraph 147(3)(b) – The Amounts in Issue
+[10] The amount in issue for all five appeals was $6,838,072. In my view, even when divided among the Appellants according to their proportionate shares, this amount is material and supports an appropriate award of costs to the Appellants.
+[11] I do not agree with the submission of the Appellants that amounts in issue in the appeals of other taxpayers are relevant. I note that the degree, if any, to which the issues addressed in these appeals are relevant to others is considered under the factor in paragraph 147(3)(c).
+3. Paragraph 147(3)(c) - The Importance of the Issues
+[12] The Appellants submit that the decision in these appeals addresses several important issues that will be of interest to other taxpayers and the Respondent acknowledges that this factor supports an appropriate award of costs to the Appellants. Be that as it may, the statutory interpretation issues raised in these appeals have for the most part been addressed on numerous occasions in other appeals and the outcome in these appeals is largely dependent on the particular facts. While it was necessary to parse certain aspects of subsection 160(1) in these appeals, I am of the view that this in and of itself is not material and therefore that this factor is neutral.
+4. Paragraph 147(3)(d) – Any Offer of Settlement Made in Writing
+[13] The Appellants state that they proposed settlement on the basis that the fair market value of the consideration given by the Appellants was between the value of the after-tax assets of each of the subsidiaries sold to WTC and their pre-tax assets. The Appellants submit that the Respondent’s rejection of the offer warrants an enhanced award of costs.
+[14] The Respondent states that the Appellants made an offer in writing to the Respondent on November 8, 2019, and that the offer expired on November 29, 2019. The Respondent acknowledges that this factor supports an award of costs to the Appellants.
+[15] The offer to settle was a reasonable compromise on a factual issue that limited the consequences of the application of subsection 160(1) in accordance with its terms. Consequently, the offer of settlement supports an appropriate award of costs to the Appellants.
+5. Paragraph 147(3)(e) – The Volume of Work
+[16] The Appellants submit that the volume of work required by these appeals was considerable and that the Respondent contributed to that volume by amending the Replies and alleging sham.
+[17] The Respondent submits that the additional work resulting from the amended Replies would have been avoided if the Appellants had agreed to the amendments and that the allegation of sham was raised only regarding a single transaction in each appeal. The Respondent notes that the volume of work was greatly reduced by agreement to many of the material facts and by the agreement regarding the evidence to be lead at the hearing.
+[18] I do not accept that the Respondent materially contributed to the volume of work. I do accept that the volume of work was considerable because of the need to address both subsection 160(1) and the GAAR. The volume of work supports an appropriate award of costs to the Appellants.
+[19] With respect to the streamlining that resulted from the efforts of counsel for the Appellants and counsel for the Respondent, such efforts benefit both sides including by reducing the legal fees incurred by the parties. A finding that such efforts affect the determination of costs could have the unwanted side-effect of discouraging such efforts. In my view, the better approach is to acknowledge such joint efforts but to treat them as neutral in the determination of costs unless the circumstances are unusual and dictate otherwise. Efforts that are not joint are addressed by the factor in paragraph 147(3)(g).
+6. Paragraph 147(3)(f) – The Complexity of the Issues
+[20] The Appellants submit that the legal issues raised by the appeals were complex and the Respondent acknowledges that complexity. I agree that there were several issues embedded in the interpretation of subsection 160(1) that necessarily required analysis and explanation. However, I do not agree that the issues raised by the appeals were complex either with respect to the determination of the applicable law or with respect to the determination of the facts. The legal issues raised by the appeals have for the most part been addressed before, and the facts were largely agreed upon. Consequently, this factor is neutral with regard to costs.
+7. Paragraph 147(3)(g) - The Conduct of any Party that Tended to Shorten or to Lengthen Unnecessarily the Duration of the Proceeding
+[21] The Appellants submit that former counsel for the Respondent requested two extensions of the time to file Replies to the Notices of Appeal resulting in a delay in the completion of that step of three months. The same counsel requested that the original timetable order be amended resulting in delays of “several additional months”.
+[22] The Respondent submits that the agreements resulting in the shortening of the proceedings should be given significant weight in reducing the costs awarded to the Appellants.
+[23] The delays caused by former counsel for the Respondent are not material and do not factor into an award of costs in these appeals. As stated in the context of the volume of work, the efforts of counsel for both sides to shorten the proceedings is commendable but since such efforts benefitted both sides it is not a factor in the awarding of costs in these appeals. Consequently, this factor is neutral with regard to costs.
+8. Paragraph 147(3)(i.1) - Whether the Expense Required to have an Expert Witness give Evidence was Justified
+[24] The Appellants state that the Minister’s position on the fair market value of the shares in their subsidiaries necessitated the retention of an expert to provide evidence on this issue. The Appellants submit that the “unsubstantiated” position of the Minister regarding value weighs in favour of an enhanced cost award as well as reimbursement of the expert’s fees.
+[25] The Respondent accepts as a disbursement the amount paid to the expert witness but says that this amount should have no bearing on the award of costs.
+[26] I reject the Appellants’ position that the Minister’s “unsubstantiated” position on the value of the shares warrants an enhanced costs award. The Minister is entitled to make assumptions of fact in assessing a taxpayer whether substantiated or not. The Minister assumed that when transferred to WTC the shares in the subsidiaries of the Appellants had a value of nil. There is nothing unusual or untoward about this assumption. As the parties bearing the burden of proof the Appellants were required to address the Minister’s assumption but that in and of itself is not justification for an enhanced award of costs.
+[27] Consequently, this factor is neutral with regard to costs.
+9. Other Factors
+[28] The Appellants and the Respondent do not raise paragraphs 147(3)(h) and (i) and I have no reason to believe they are relevant. I am also not aware of any other factor that requires consideration. I address the absolute quantum of the legal fees in my assessment of appropriate costs below.
+III. Conclusion Regarding the Award of Costs
+[29] The factors in favour of an award of costs to the Appellants are the total success of the Appellants, the material amounts in issue, the offer of settlement by the Appellants and the volume of work required. There are no negative factors. However, I also conclude that the issues addressed in the appeals were neither complex nor materially relevant to others.
+[30] I raise this latter finding here because, while the quantum of the fees and the rates charged must always be considered, this is particularly so when the issues are neither important to others nor complex. The simple reason for this is that fees charged by lawyers and law firms in Canada (hourly or otherwise) vary widely. [4] The Respondent should not be expected to subsidize a choice to use counsel that charge in the upper range without regard to whether the importance and complexity of the issues warrant such fees. In the words of the Supreme Court of Canada in Walker v. Ritchie, 2006 SCC 45 at paragraph 28:
+. . . Unsuccessful defendants should expect to pay similar amounts by way of costs across similar pieces of litigation involving similar conduct and counsel, regardless of what arrangements the particular plaintiff may have concluded with counsel.
+[31] I have considered the factors in the context of the appeals as a whole and the quantum of legal fees incurred by the Appellants and conclude that a lump-sum award of 35% of the legal fees of $1,295,019.50 incurred by the Appellants in lieu of taxed costs, being the amount of $453,257, is reasonable and appropriate as a contribution towards the legal fees incurred by the Appellants. In reaching this number I have taken into consideration the $4,200 of costs previously awarded to the Appellants.
+[32] With respect to disbursements, the Respondent does not challenge the disbursements claimed by the Appellants but does ask that they be subject to verification. I therefore order that subject to taxation in accordance with the Rules to verify the amounts claimed, which shall not include any GST/HST in respect of which the Appellants claimed an input tax credit, the disbursements claimed by the Appellants in the amount of $170,376.79 are allowed.
+Signed at Ottawa, Canada, this 14th day of July 2021.
+“J.R. Owen”
+Owen J.
+CITATION:
+2021 TCC 44
+COURT FILE NOS:
+2016-4783(IT)G
+2016-4785(IT)G
+2016-4787(IT)G
+2016-4788(IT)G
+2016-4789(IT)G
+STYLES OF CAUSE:
+DAMIS PROPERTIES INC. v. HER MAJESTY THE QUEEN
+SABEL INVESTMENTS II-A LIMITED v. HER MAJESTY THE QUEEN
+ZAGJO HOLDINGS LIMITED v. HER MAJESTY THE QUEEN
+DEVAMM INVESTMENTS II-A LIMITED v. HER MAJESTY THE QUEEN
+MICROBJO PROPERTIES INC. v. HER MAJESTY THE QUEEN
+REASONS FOR COSTS ORDER BY:
+The Honourable Justice John R. Owen
+DATE OF COSTS ORDER:
+July 14, 2021
+PARTICIPANTS:
+Counsel for the Appellants:
+Yves St-Cyr
+Jacob Yau
+Counsel for the Respondent:
+Natalie Goulard
+Simon Vincent
+Dominic Bédard-Lapointe
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Yves St-Cyr
+Jacob Yau
+Firm:
+Dentons Canada LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The legal fees and disbursements incurred by the Appellants commencing with the preparation of the Notice of Appeal are described in detail in the Appellants’ Bill of Costs attached as Exhibit A to the Affidavit of Earl Miller sworn on the 23rd day of April 2021. The total stated on page 5 of the Bill of Costs is greater than the $1,244,079.51 of legal fees implied by the statement in paragraph 4 of the Appellants’ submissions that $808,651.68 is 65% of the legal fees incurred by the Appellants. No doubt based on this statement, the Respondent’s submissions assume that the total legal fees incurred by the Appellants were $1,244,079.51.
+[2] R. v. Lau, 2004 FCA 10 at paragraph 5 and R. v. Landry, 2010 FCA 135 at paragraphs 22 and 54.
+[3] Nova Chemicals Corporation v. Dow Chemical Company, 2017 FCA 25 at paragraphs 10 to 13.
+[4] See, for example, the 2019 survey of legal fees by Canadian Lawyer Magazine (“CLM”). The hourly rates charged by the Appellants’ counsel are considerably higher than the average rates stated in the survey. For example, the highest average rate in CLM for counsel in a specialized area with over 20 years’ experience is $593 per hour while senior counsel for the Appellants charged over $900 per hour. I am not, however, suggesting that counsel overcharged - I suspect that the rates charged were typical for large law firms in large urban centres in Canada.

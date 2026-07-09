@@ -1,0 +1,230 @@
+---
+title: "Farhan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126842/index.do"
+last_modified: "2015-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 243"
+citation2: ""
+neutral_citation: "2015 TCC 243"
+decision_date: "2015-11-25"
+language: "en"
+item_id: "126842"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2693
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:05:41.467000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f44fdf90d7bb88bc227b96f68e2a72a3f0d7948ad6c94c4df97e241fc2b8655"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Farhan v. The Queen
+
+- Citation: 2015 TCC 243
+- Decision date: 2015-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2693, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Farhan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-25
+Neutral citation
+2015 TCC 243
+File numbers
+2013-2506(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2506(IT)G
+BETWEEN:
+AHMAD FARHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 26, 2015 at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Anthony Karkar
+Counsel for the Respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments under the Income Tax Act dated June 22, 2011 for the tax years 2003, 2004, 2005, 2006 and 2007 is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 25th day of November 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 20th day of January 2016.
+François Brunet, Revisor
+Citation: 2015 TCC 243
+Date: 20151125
+Docket: 2013-2506(IT)G
+BETWEEN:
+AHMAD FARHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessments dated June 22, 2011 by the Minister of National Revenue (“the Minister”) under the Income Tax Act, R.S.C. (1985) c. 1 (5th suppl.), as amended (“the Act”), for the appellant’s tax years 2003, 2004, 2005, 2006 and 2007.
+[2] With the reassessments dated June 22, 2011, the Minister added amounts of $58,421, $22,853, $28,795, $123,545 and $98,324 to the appellant’s income for the tax years 2003, 2004, 2005, 2006 and 2007, respectively.
+[3] In order to determine the tax payable by the appellant for the tax years 2003 to 2007, the Minister relied on the following facts:
+a) the appellant is a consultant on immigration to Canada. He solicits his clients in Saudi Arabia, where he resides for an average of five months a year;
+b) the appellant is also operating, with his three sons, a car-wash business in Varennes, Quebec;
+c) the appellant is a Canadian resident;
+d) in the years 2003 to 2007, the appellant did not keep the records and account books provided for in the Income Tax Act;
+e) calculated according to the bank deposit analysis method, gross income from the appellant’s activities as an immigration consultant was $81,081 in 2003, $50,784 in 2004, $62,208 in 2005, $166,009 in 2006 and $132,851 in 2007;
+f) in the years in issue, the appellant incurred the following expenses in deriving income from his activities as an immigration consultant:
+2003
+2004
+2005
+2006
+2007
+Accommodation
+$6,731
+$6,398
+$6,460
+$6,427
+$5,517
+Travel
+$2,000
+$2,000
+$2,000
+$2,000
+$1,000
+Lawyers’ fees
+$2,500
+$1,500
+$2,750
+$2,000
+$1,500
+Telecommunications
+$663
+$465
+$354
+$465
+$399
+Government fees
+$8,083
+$70
+$4,357
+$3,824
+$5,096
+Postal services
+$962
+$896
+$837
+$1,203
+$477
+Vehicle
+$1,031
+$960
+$930
+$926
+$794
+Work permit costs
+$687
+$640
+$620
+$617
+$530
+Total
+$22,657
+$12,929
+$18,309
+$17,463
+$15,312
+g) the appellant’s net business income was $58,423 in 2003, $37,855 in 2004, $43,898 in 2005, $148,546 in 2006 and $117,538 in 2007.
+[4] In his notice of appeal, the appellant provided the following explanations with respect to his sources of funds:
+a) a sum of $120,000 was received as a gift from his spouse’s father;
+b) a sum of $115,000 came from loans from acquaintances contracted by the appellant from 2005 to 2007 and deposited in his RBC and CIBC bank accounts;
+c) in 2003, 2004 and 2005, the appellant received a sum of approximately $61,596 as a contract-termination bonus from a company operating in Saudi Arabia for which he worked for 23 years.
+[5] In his notice of appeal, the appellant did not contest the reassessments on the grounds that they, or some of them, were made after the normal reassessment period, nor the fact that penalties under subsection 163(2) of the Act were imposed.
+[6] Mr. Farhan testified at the hearing. He explained that he and his spouse and four children immigrated to Canada in 1999 from Saudi Arabia, and he started his business as a consultant on immigration to Canada in 2003, with a lawyer as his partner. From 2004, he ran his business alone.
+[7] In the 2003 to 2007 tax years, the appellant derived all his income from the operation of his business, except for the contract-termination bonus from the Saudi company for which he worked for 23 years. His business consisted in recruiting individuals living in Saudi Arabia who were interested in immigrating to Canada. In most cases, those people were skilled workers or investors. For his services, the appellant charged his clients amounts that ranged from $3,000 to $4,000 (US), depending on their status: single or with family, investor or skilled worker. The charges included the cost of a Canadian lawyer’s services at $250 for a single person and $500 for a couple, and Canadian government fees of $550 for an adult, $150 for a child and $490 for a permanent resident. Service charges were deposited in a bank account the appellant maintained in Saudi Arabia. According to the appellant, he treated about ten cases a year. Every client had to sign a form in triplicate, of which one copy was forwarded to the bank, one was sent to the Canadian immigration service, and one was kept by the client.
+[8] Mr. Farhan also stated that he spent five months a year in Saudi Arabia, where he maintained an office with a secretary in a furnished apartment in the Al-Khaldia Palace Hotel. He usually rented a car for travel purposes. He promoted his services with advertisements in local newspapers.
+[9] Mr. Farhan was audited in early 2011, and the auditor noted that his books and records were non-existent, or at least deficient, hence the resort to the alternative method of bank deposit analysis. In 2003, Mr. Farhan had two bank accounts, one in Saudi Arabia and the other in Canada. The appellant turned over the statements for these two accounts, and others he opened subsequently, to the Canada Revenue Agency (“the CRA”).
+[10] During the years in issue, Mr. Farhan and his spouse filed tax returns showing annual losses of $2.00 for 2003, $15,002 for 2004, $15,102 for 2005, $25,001 for 2006 and $19,214 for 2007.
+[11] In the absence of accounting records, in 2011 the appellant had one of his sons prepare financial statements for 2003. Deposits in the bank account in Saudi Arabia totalled $98,562.16, whereas expenses incurred in generating this income were reportedly $49,909.12, for total net income of $48,653. Expenses were reconstructed without original invoices having been produced, and were estimated on the basis of average costs for 2005, 2006 and 2007, and in some cases of average costs for 2007 alone, or 2010 alone.
+[12] Under cross-examination, Mr. Farhan admitted he had had a home built in 2007 in the 10-30 neighbourhood in Brossard, at a cost of about $600,000 for construction and about $50,000 for the lot. He went on to explain that one of his sons took care of the payment for the lot, that he had used the $120,000 gift from his spouse’s father to pay a portion of the cost of building the home, and that he had obtained a loan of $115,000 from Mr. Ibrahim Al-Kabsi. In his notices of objection, the appellant produced a sworn statement testifying to the gift of $120,000 and the loan of $115,000 from Mr. Al-Kabsi. He also produced a sworn statement by his spouse confirming the gift, and a sworn statement from his spouse’s sister also confirming the gift. The appellant also filed a sworn statement by Mr. Al-Kabsi confirming the loan. According to the appellant, the $120,000 gift was paid to his spouse by fund transfers using traveller’s cheques at various dates in 2005, 2006 and 2007, and the proceeds were reportedly deposited by his spouse in the appellant’s RBC and CIBC bank accounts.
+[13] Mr. Benjamin Blanchard, the CRA auditor who audited the appellant’s business, also testified at the hearing. He explained that initially, the appellant had stated that he had transferred $120,000 to Canada in 2005, 2006 and 2007 to make a down payment on the construction of the residence located on rue Lafitte in Brossard; these funds came in part from a savings account in Saudi Arabia, and in part from the service contract-termination bonus from the Saudi company for which he worked.
+[14] Mr. Blanchard also explained that the fund transfers from Saudi Arabia were made through wire transfers, traveller’s cheques or cash. These transfer methods cannot provide evidence of sums withdrawn from Saudi Arabia, or purchases of Canadian dollars.
+[15] Mr. Blanchard allowed the appellant 5/12 of the expenses he incurred in Saudi Arabia, because the appellant stated during an initial interview that he spent approximately five months a year there. With respect to the bonus paid to the appellant on termination of his service contract, only 5/23 of the amount received by the appellant was deemed taxable in Canada, because the appellant was a Canadian resident only during the last 5 of the 23 years for which he worked for the Saudi company.
+Analysis [16] Subsection 230(1) of the Act requires that anyone carrying on a business keep records and account books at their place of business or residence in Canada containing information on the basis of which the amount of tax payable can be determined. Subsection 230(1) reads as follows:
+230. (1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+[17] Subsection 152(7) of the Act states that the Minister is not bound by a return or information supplied by a taxpayer and may, notwithstanding such return or information, assess the tax payable. Subsection 152(7) reads as follows:
+(7) The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[18] Under subsection 152(8) of the Act, there is a presumption that the Minister’s assessments are valid, and reads as follows:
+(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[19] It should first be noted that the respondent was not required to set out the facts justifying the application of subparagraph 152(4)(a)(i) of the Act, since the appellant did not challenge them in his notice of appeal or in the examination of the reassessments during the hearing on the grounds that they were established after the expiry of the normal reassessment period. The same applies to the facts justifying the application of penalties under subsection 163(2) of the Act, absent any allegation in the appellant’s notice of appeal or in the examination during the hearing that the respondent had failed to show that he had misrepresented the facts (see Naguib v. The Queen, 2004 FCA 40 and Last v. The Queen, 2014 FCA 129).
+[20] The use of an indirect audit method, namely analysis of bank deposits, was completely justified in this case, given the absence of documents to confirm the appellant’s business activities, the scale of the cash transactions, and the total lack of concern for record-keeping.
+[21] In the circumstances, the burden is therefore on the taxpayer to satisfy the court with reasonably consistent and corroborated credible evidence that his claims and explanations are probable (see Haniff v. The Queen, 2011 TCC 112, at paragraph 14).
+Gift and loans [22] The appellant submits that his wife received a gift of $120,000 from her father, offering as evidence two sworn statements, one signed by his spouse’s two sisters and the other by the appellant’s spouse, referring to the gift of $120,000 made from 2005 to 2008. The appellant’s spouse and her sisters did not testify at the hearing to corroborate the details of the gift. Moreover, the CRA auditor testified that he did not see the bank deposits made following receipt of the gift payments. Consequently, the appellant’s submissions regarding the gift were not corroborated by consistent and credible evidence.
+[23] The appellant submits that he obtained a loan totalling $115,000 from Mr. Ibrahim Al-Kabsi in the form of instalments spread over the years from 2005 to 2007, which was to be repaid in instalments. As proof of that submission, the appellant produced a sworn statement by Mr. Al‑Kabsi, but Mr. Al-Kabsi was not called as a witness at the hearing. The appellant’s submission respecting this loan was not corroborated by consistent and credible evidence. The precise dates of the loan payouts are not known, the transfers of funds into the appellant’s bank accounts were not seen by the auditor, and the terms of the loan (interest rate, maturity, repayment dates) were not provided by the appellant.
+Expenses incurred in Saudi Arabia [24] No invoices or receipts were produced in support of the deductibility of expenses incurred by the appellant in the operation of his business in Saudi Arabia. The auditor allowed the deduction of 5/12 of the expenses, on the basis of the fact that the appellant spent five months of the year in Saudi Arabia, even though many of these expenses (apartment rental, telecommunication costs) could be assimilated to personal or living expenses, which are generally not deductible in calculating a taxpayer’s income. The auditor testified that at no point in his audit was there any question that the appellant maintained an office and used secretarial services in Saudi Arabia. Initially, the appellant did not claim any amount in this respect.
+[25] The cost of airline tickets for flights to or from Saudi Arabia was allowed on the basis of the amounts initially claimed, namely $2,000, because no evidence of the payment of larger amounts was produced. Car rental costs were allowed in part (15%), even though the appellant produced no evidence as to what percentage of use was for business purposes.
+Contract-termination bonus [26] The appellant submits that the bonus paid on termination of his contract with the Saudi company amounted to $78,606, which was deposited in his bank account in Saudi Arabia in instalments: $36,432 in 2003, $23,757 in 2004 and $18,415 in 2005. According to the appellant, the auditor subtracted the non-taxable portion of the bonus, namely 18/23, only from the amount received in 2003. The same rule should have been applied to the amounts received in 2004 and 2005.
+[27] According to the auditor, the reassessments were made on the basis of information provided by the appellant himself concerning the amounts he received as a contract-termination bonus in each of the tax years in dispute. The audit report clearly states that amounts of $26,629, $7,226 and $31,730 were deducted in 2003, 2005 and 2006, respectively. The CRA allowed deductions totalling $65,585 in respect of 2003, 2005 and 2006, whereas the appellant claims deductions totalling $61,517.74 in respect of the 2003, 2004 and 2005 tax years. The CRA thus allowed a larger deduction than was claimed by the appellant, but over a slightly different period.
+[28] The appellant’s submissions were not accepted at the objection stage, because he provided no evidence for the payments received as a contract-termination bonus. In support of his submissions, the appellant provided only a list of deposits into his bank account in Saudi Arabia in 2003, 2004 and 2005, annotated to indicate which deposits supposedly came out of the contract-termination bonus. In my opinion, that evidence is not reliable and is clearly insufficient to justify changes in the reassessments.
+[29] For these reasons, the appeal of the reassessments dated June 22, 2011 for the 2003, 2004, 2005, 2006 and 2007 tax years is dismissed with costs.
+Signed at Ottawa, Canada, this 25th day of November 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 20th day of January 2016.
+François Brunet, Revisor
+CITATION:
+2015 TCC 243
+COURT FILE NO.:
+2013-2506(IT)G
+STYLE OF CAUSE:
+Ahmad Farhan v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+March 26, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 25, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Anthony Karkar
+Counsel for the Respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Anthony Karkar
+City:
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,349 @@
+Title: Adams Dunn c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29017/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-14-29017-adams-dunn-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-01-19
+
+# Adams Dunn c. M.R.N.
+
+- Citation: 2009 CCI 14
+- Decision date: 2009-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6765, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adams Dunn c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-19
+Référence neutre
+2009 CCI 14
+Numéro de dossier
+2008-2027(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-2027(EI)
+ENTRE :
+CEDRICK ADAMS DUNN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 5 novembre 2008, à Percé (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentante de l'appelant :
+Marie-Anne Adams
+Avocat de l'intimé :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 14
+Date : 20090119
+Dossier : 2008-2027(EI)
+ENTRE :
+CEDRICK ADAMS DUNN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le 3 décembre 2007, monsieur Cedrick Adams Dunn (le « travailleur ») a demandé au ministre du Revenu national (le « ministre ») de statuer sur la question de savoir s’il avait occupé un emploi assurable en vertu de la Loi sur l’assurance‑emploi (la « Loi ») lorsqu’il était au service de monsieur Denis Dunn (le « payeur ») durant la période du 17 juin 2007 au 11 août 2007 (la « période pertinente »). Le ministre a décidé que le travailleur avait occupé un emploi assurable durant la période pertinente au cours de laquelle il était au service du payeur et qu’il avait accumulé 692 heures assurables durant cette même période. Le travailleur interjette appel uniquement de la décision du ministre rendue quant aux heures assurables. Il convient aussi de souligner que le payeur demande 10 000 $ en dommages.
+[2] Je souligne immédiatement à l’égard de la demande de 10 000 $ en dommages que la Cour n’a pas juridiction pour statuer sur cette question.
+[3] Pour rendre sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes énoncées au paragraphe 15 de la Réponse à l’avis d’appel :
+a) le payeur est propriétaire d’un bateau de pêche de 40 pieds le Marie‑K‑D; (admis)
+b) le payeur est le père de l’appelant; (admis)
+c) le payeur habitait Rivière-au-Renard; (admis)
+d) le payeur détenait une allocation de pêche au crabe et un quota de pêche de 62 000 livres pour le turbot; (nié tel que rédigé)
+e) le payeur livrait ses prises à la société Les Pêcheries Gaspésiennes; (admis)
+f) Denis Dunn assumait seul les dépenses reliées à son bateau et à la pêche; (admis)
+g) l’appelant n’assumait aucune responsabilité financière pour les dépenses encourues pour la réalisation des prises; (admis)
+h) le 15 juin 2007, la société Les Pêcheries Gaspésiennes avisait le payeur qu’à compter de ce jour, le turbot livré devait être éviscéré et ceci pour le reste de la saison; (admis)
+i) l’appelant allait à l’école en juin 2007; (admis)
+j) le payeur a alors embauché l’appelant comme aide-pêcheur; (admis)
+k) le 28 septembre 2007, le payeur déclarait à un représentant de l’intimé que la pêche se déroulait 7 jours sur 7; (nié tel que rédigé)
+l) le 28 septembre 2007, l’appelant déclarait à un représentant de l’intimé qu’il ne travaillait pas les dimanches durant la pêche sauf une fois que son père notait ses heures de travail; (nié tel que rédigé)
+m) le 9 août 2007, le payeur remettait à l’appelant un relevé d’emploi qui indiquait comme premier jour de travail le 24 juin 2007 et comme dernier jour de travail le 4 août 2007 et le nombre d’heures assurables étaient de 881 et la rémunération assurable totale était de 2 779,69 $; (nié tel que rédigé)
+n) l’appelant était inscrit au journal des salaires du payeur 881 heures pour 6 semaines de pêche avec les heures suivantes :
+date de la fin de la
+1ère semaine
+30 juin
+98 heures
+2ième semaine
+7 juillet
+295 heures
+3ième semaine
+14 juillet
+101 heures
+4ième semaine
+21 juillet
+101 heures
+5ième semaine
+28 juillet
+196 heures
+6ième semaine
+4 août
+90 heures
+(admis)
+o) le 28 septembre 2007, le payeur déclarait à un représentant de l’intimé qu’une journée normale de pêche pouvait être de 15 heures à 20 heures environ; (admis)
+p) 196 heures dans une semaine représentaient une moyenne de 28 heures par jour; (nié tel que rédigé)
+q) les heures des semaines du 7 juillet et du 28 juillet avaient un nombre d’heures exagérées et l’intimé les a établies à une semaine de 101 heures chaque; (nié)
+r) une semaine préparatoire à la pêche de 50 heures et une semaine de remisage suivant la dernière période de pêche de 50 heures étaient ajoutés à la période d’emploi de l’appelant; (admis)
+s) la période d’emploi de l’appelant pour le payeur s’établissait du 17 juin 2007 au 11 août 2007; (nié)
+t) les heures assurables de l’appelant totalisaient 692 heures et s’établissaient comme suit :
+date de la fin
+de la semaine
+23 juin
+semaine préparatoire
+50 heures
+30 juin
+98 heures
+7 juillet
+101 heures
+14 juillet
+101 heures
+21 juillet
+101 heures
+28 juillet
+101 heures
+4 août
+90 heures
+11 août
+semaine remisage
+50 heures
+(nié)
+[4] Le travailleur a témoigné. Le payeur et la conjointe du payeur ont témoigne à l’appui de la position du travailleur. Par ailleurs, madame Louise Dessureault, agente des appels instrumentant dans la présente affaire, a témoigné à l’appui de la position de l’intimé.
+Témoignage du travailleur, du payeur et de la conjointe du payeur
+[5] Le travailleur, le payeur et la conjointe de ce dernier ont essentiellement témoigné que :
+i) Le travailleur avait travaillé 881 heures pendant la période du 4 mars 2007 au 18 avril 2007, et que les 881 heures étaient réparties de la façon suivante :
+Dimanche
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Total
+Semaine du 4 mars au 10 mars 2007
+10
+10
+10
+10
+10
+50
+Semaine du 11 mars au 17 mars 2007
+10
+6
+7
+5
+6
+6
+10
+50
+Semaine du 18 mars au 24 mars 2007
+10
+6
+6
+6
+6
+6
+10
+50
+Semaine du 25 mars au 31 mars 2007
+10
+7
+5
+10
+4
+4
+10
+50
+Semaine du 29 avril au 5 mai 2007
+10
+10
+5
+3
+10
+2
+10
+50
+Semaine du 24 juin au 30 juin 2007
+19
+14
+16
+18
+15
+16
+98
+Semaine du 1 juillet au 7 juillet 2007
+8
+15
+13
+18
+16
+15
+95
+Semaine du 15 juillet au 21 juillet 2007
+7
+18
+13
+15
+19
+14
+15
+101
+Semaine du 8 juillet au 14 juillet 2007
+19
+18
+16
+15
+19
+14
+101
+Semaine du 22 juillet au 28 juillet 2007
+20
+16
+17
+18
+12
+13
+96
+Semaine du 29 juillet au 4 août 2007
+19
+14
+14
+13
+18
+12
+90
+Semaine du 12 août au 18 août 2007
+11
+9
+10
+9
+11
+50
+881
+ii) le travail du travailleur en mars 2007 (représentant 200 heures de travail réparties sur quatre semaines) avait consisté essentiellement à tricoter des filets de pêche, à les réparer, à les monter, à préparer les bras, à vérifier les flottes et les traînants. Je souligne que le payeur possédait 300 filets de pêche. La preuve a révélé par ailleurs que le payeur avait pêché seul jusqu’au 17 juin 2007 et qu’il n’avait utilisé pendant cette période que 50 des 300 filets de pêche qu’il possédait. Toutefois, je souligne que la preuve du travailleur fut silencieuse à l’égard du nombre de filets utilisés par le payeur après le 15 juin 2007 et à l’égard du nombre de filets ayant fait l’objet de travaux de réparation en mars 2007. Le travailleur (qui, je le souligne était un étudiant au secondaire IV en 2007) a expliqué qu’il avait effectué les 200 heures de travail après les classes, lors des congés scolaires et durant les week-ends. Je souligne aussi qu’il ressort du témoignage de ces personnes que le travailleur avait effectué pour son père les mêmes travaux de préparation à la pêche au turbot en 2006, et ce, bénévolement.
+iii) le travail du travailleur pendant la semaine se terminant le 5 mai 2007 (représentant 50 heures de travail) avait consisté à préparer le bateau pour la saison de la pêche au turbot qui, en l’espèce, avait débuté le 20 mai 2007;
+iv) le travail du travailleur pendant la période du 24 juin 2007 au 4 août 2007 (représentant 581 heures de travail réparties sur six semaines) avait consisté à pêcher le turbot sur le bateau de pêche du payeur;
+v) le travail du travailleur pendant la semaine se terminant le 18 août 2007 (représentant 50 heures de travail) avait consisté essentiellement à nettoyer le bateau avant son remisage et à vérifier les filets de pêche avant leur remisage;
+[6] Par ailleurs, le preuve a révélé que :
+i) la saison de pêche du payeur avait débuté le 20 mai 2007 et s’était terminée le 4 août 2007;
+ii) Pendant la période du 20 mai 2007 au 15 juin 2007, le payeur avait livré et vendu à la société Les Pêcheries Gaspésiennes inc. (l’« acheteur ») toutes ses prises de turbots, prises qui étaient alors non éviscérées;
+iii) le 15 juin 2007, l’acheteur avait avisé le payeur que ses prises de turbots devaient désormais être éviscérées avant d’être livrées;
+iv) la nouvelle directive de l’acheteur avait fait en sorte qu’il était devenu impossible par le payeur de pêcher sans l’aide d’un aide-pêcheur;
+v) au cours de la semaine du 20 mai 2007 au 26 mai 2007, le payeur avait réalisé des ventes de 33 228 $;
+vi) au cours de la semaine du 27 mai 2007 au 2 juin 2007, le payeur avait réalisé des ventes de 2 023 $;
+vii) au cours de la semaine du 3 juin 2007 au 9 juin 2007, le payeur avait réalisé des ventes de 40 239 $;
+viii) au cours de la semaine du 10 juin 2007 au 16 juin 2007, le payeur avait réalisé des ventes de 5 940 $;
+ix) au cours de la semaine du 17 juin 2007 au 23 juin 2007, le payeur avait réalisé des ventes de 5 503 $;
+x) au cours de la semaine du 24 juin 2007 au 30 juin 2007, le payeur avait réalisé des ventes de 5 283 $;
+xi) au cours de la semaine du 1 juillet 2007 au 7 juillet 2007, le payeur avait réalisé des ventes de 5 549 $;
+xii) au cours de la semaine du 8 juillet 2007 au 14 juillet 2007, le payeur avait réalisé des ventes de 4 950 $;
+xiii) au cours de la semaine du 15 juillet 2007 au 21 juillet 2007, le payeur avait réalisé des ventes de 2 318 $;
+xiv) au cours de la semaine du 22 juillet 2007 au 28 juillet 2007, le payeur avait réalisé des ventes de 2 256 $;
+xv) le travailleur avait convenu avec le payeur d’une rémunération basée sur un pourcentage des ventes de turbots réalisées par le payeur auprès de l’acheteur pendant la période où le travailleur avait pêché sur le bateau du payeur. En l’espèce, le travailleur avait reçu une rémunération de :
+1) 470,71 $ pour la semaine du 24 juin 2007 au 30 juin 2007, soit 8 % des ventes réalisées par le payeur pendant cette période;
+2) 776,98 $ pour la semaine du 1 juillet 2007 au 7 juillet 2007, soit 14 % des ventes réalisées par le payeur pendant cette période;
+3) 693,14 $ pour la semaine du 8 juillet 2007 au 14 juillet 2007, soit 14 % des ventes réalisées par le payeur pendant cette période;
+4) 324,63 $ pour la semaine du 15 juillet 2007 au 21 juillet 2007, soit 14 % des ventes réalisées par le payeur pendant cette période;
+5) 315,88 $ pour la semaine du 22 juillet 2007 au 28 juillet 2007, soit 14 % des ventes réalisées par le payeur pendant cette période;
+6) 198,35 $ pour la semaine du 29 juillet 2007 au 4 août 2007, soit 14 % des ventes réalisées par le payeur pendant cette période.
+xvi) l’acheteur avait préparé les payes et le relevé d’emploi du travailleur;
+xvii) le relevé d’emploi du travailleur (pièce A-1) rempli par l’acheteur au nom du payeur indique le 24 juin 2007 comme premier jour de travail et le 4 août 2007 comme dernier jour de travail;
+xviii) la demande de prestations d’assurance-emploi remplie par le travailleur (pièce I-2) indique que ce dernier avait travaillé :
+16 heures le 29 juillet 2007
+16 heures le 30 juillet 2007
+16 heures le 31 juillet 2007
+16 heures le 1er août 2007
+16 heures le 2 août 2007
+16 heures le 3 août 2007
+16 heures le 4 août 2007
+Je rappelle les témoignages du travailleur, du payeur et de la conjointe du payeur à l’effet que le travailleur avait travaillé :
+0 heure le 29 juillet 2007
+19 heures le 30 juillet 2007
+14 heures le 31 juillet 2007
+14 heures le 1 août 2007
+13 heures le 2 août 2007
+18 heures le 3 août 2007
+12 heures le 4 août 2007
+xix) le travailleur étant un nouvel arrivant sur le marché du travail, il devait accumuler 840 heures assurables pour devenir admissible aux prestations d’assurance-emploi.
+Analyse et conclusion
+Le droit
+[7] les dispositions pertinentes de la Loi et de ses règlements se lisent comme suit :
+Article 5. (1)a) de la Loi
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+…
+Article 10 du Règlement sur l’assurance-emploi
+(1) Lorsque la rémunération d’une personne est versée sur une base autre que l’heure et que l’employeur fournit la preuve du nombre d’heures effectivement travaillées par elle au cours de la période d’emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+(2) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, si l’employeur ne peut établir avec certitude le nombre d’heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été rémunérés, l’employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d’heures d’emploi assurable.
+(3) Lorsque le nombre d’heures convenu par l’employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n’est pas raisonnable ou qu’ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d’heures d’emploi assurable établi par le ministre du Revenu national d’après l’examen des conditions d’emploi et la comparaison avec le nombre d’heures de travail normalement accomplies par les travailleurs s’acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d’activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, lorsque l’employeur ne peut établir avec certitude ni ne connaît le nombre réel d’heures d’emploi assurable accumulées par une personne pendant sa période d’emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d’emploi le nombre d’heures d’emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l’année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l’absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l’horaire régulier, le nombre maximum d’heures d’emploi assurable qu’une personne est réputée avoir travaillées d’après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+(6) Les paragraphes (1) à (5) s’appliquent sous réserve de l’article 10.1.
+Règlement sur l’assurance-emploi (pêche)
+DÉFINITIONS
+1. (1) Les définitions qui suivent s’appliquent au présent règlement.
+« acheteur » Personne qui achète une prise en vue de la revendre soit sous sa forme originale, soit transformée, et non pour l’utiliser comme aliment, pâture ou appât. ( buyer )
+« employeur » Personne considérée comme l’employeur d’un pêcheur aux termes de l’article 3. ( employer )
+« engins de pêche » Équipement spécialisé, sauf les outils à main et les vêtements, utilisé exclusivement par l’équipage pour faire une prise. ( fishing gear )
+« équipage » Groupe de pêcheurs qui font habituellement des prises ensemble ou qui ont fait ensemble une prise donnée. Dans le cas d’un pêcheur qui travaille seul, «équipage» et «membre de l’équipage» s’entendent de ce seul pêcheur. ( crew )
+« Loi » La Loi sur l’assurance-emploi. ( Act )
+« pêcheur » Travailleur indépendant se livrant à la pêche, y compris toute personne qui, n’étant pas liée par un contrat de louage de services ni ne faisant la pêche pour son divertissement personnel ou celui d’une autre personne, se livre à l’une des activités suivantes :
+a) la réalisation d’une prise;
+b) les travaux se rapportant à la réalisation ou à la manutention d’une prise, qu’il s’agisse de charger, décharger, transporter ou traiter la prise de l’équipage dont elle est membre, ou de préparer, réparer, désarmer ou remiser le bateau de pêche ou les engins de pêche utilisés par cet équipage pour faire ou manutentionner la prise, dans les cas où elle participe également à la réalisation de la prise;
+c) la construction d’un bateau de pêche qu’elle-même ou l’équipage dont elle est membre utilisera pour faire une prise. ( fisher )
+« poisson frais » Poisson qui n’est pas du poisson traité. ( fresh fish )
+« poisson traité » Poisson et produits du poisson suivants :
+a) le poisson de fond salé, le hareng saur, le maquereau saumuré, le turbot saumuré, le hareng saumuré, le gaspareau saumuré ou salé, la truite saumurée et autres produits du poisson saumurés;
+b) l’huile de morue et les foies de morue. ( cured fish )
+« prestataire de la deuxième catégorie » Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a accumulé moins de 3 760 $ de rémunération assurable provenant d’un emploi à titre de pêcheur au cours de sa période de référence. ( minor attachment claimant )
+« prestataire de la première catégorie » Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a accumulé au moins 3 760 $ de rémunération assurable provenant d’un emploi à titre de pêcheur au cours de sa période de référence. ( major attachment claimant )
+« prise » Produit ou sous-produit naturel de la mer ou de toute autre étendue d’eau qui est pêché ou récolté par un équipage, y compris le poisson frais ou traité, la mousse d’Irlande, le varech et les baleines, mais non les écailles de poissons ni les phoques. Sont assimilées à une prise :
+a) soit la partie de celle-ci livrée à un acheteur;
+b) soit les prises ou parties de prises livrées ensemble au même acheteur. ( catch )
+« salaire minimum » À l’égard de la rémunération du pêcheur provenant de la prise de l’équipage, salaire minimum de la province où réside le pêcheur le 1er janvier de l’année au cours de laquelle la prise est vendue. ( minimum wage )
+(2) L’employeur qui se livre à des travaux se rapportant à une prise qui sont généralement exécutés sur la terre ferme n’est pas considéré comme membre de l’équipage ayant réalisé la prise. DORS/2000-394, art. 1; DORS/2001-74, art. 1.
+[8] En l’espèce, le travailleur devait me convaincre que le ministre avait été déraisonnable dans la détermination du nombre d’heures travaillées par le travailleur pendant sa période d’emploi.
+[9] Je souligne dès le départ que le travailleur ne m’a pas convaincu qu’il avait effectué 200 heures de travail en mars 2007. D’abord, il m’apparaît invraisemblable qu’un jeune homme de 16 ans ait pu accumuler autant d’heures de travail (et ce, même en tenant compte qu’il avait bénéficié d’une semaine de relâche en mars 2007) tout en assistant à ses cours et en faisant les travaux scolaires qui normalement en découlent. Il m’apparaît tout aussi invraisemblable que les travaux qui auraient été effectués en mars par le payeur et le travailleur (qui, je le rappelle, auraient consisté essentiellement à tricoter 50 filets de pêche, à les réparer et à les monter, à préparer les bras et à vérifier les flottes et les traînants) avaient nécessité 200 heures de travail de la part des travailleurs et à peu près le même nombre d’heures de travail de la part du payeur. De plus, le fait que les témoignages du travailleur, du payeur et de la conjointe du payeur et la demande de prestations d’assurance-emploi (pièce I-2) diffèrent passablement quant au nombre d’heures travaillées, notamment à l’égard de la semaine se terminant au 4 août 2007, n’a fait qu’ajouter à mes doutes quant au nombre d’heures réellement travaillées en mars 2007.
+[10] Si le travailleur m’avait convaincu qu’il avait réellement effectué 200 heures de travail, ces dernières n’auraient pas été pour autant considérées comme étant des heures assurables puisqu’elles n’auraient pas été effectuées aux termes d’un contrat de louage de services, ce dernier ayant été conclu, à mon avis, le ou après le 15 juin 2007 et non pas en mars 2007 ou avant mars 2007. En effet, il ressort clairement de la preuve qu’avant le 15 juin 2007, le payeur n’avait nullement l’intention de retenir les services de quelque aide-pêcheur que ce soit. D’ailleurs, le payeur n’avait-il pas pêché seul avant le 15 juin 2007 ? Le 15 juin 2007, l’acheteur faisait parvenir au payeur un avis à l’effet que les prises de turbots devaient à partir de cette date être éviscérées avant d’être livrées. Cet avis faisait en sorte que le payeur ne pouvait plus pêcher seul. C’est alors que les services du travailleur ont été retenus et qu’un contrat de louage de service a été conclu.
+[11] Le travailleur ne m’a donc pas convaincu que le ministre avait été déraisonnable dans sa détermination de la période d’emploi et des heures de travail réellement effectuées au cours de cette période.
+[12] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 14
+Nº DU DOSSIER DE LA COUR : 2008-2027(EI)
+INTITULÉ DE LA CAUSE : CEDRICK ADAMS DUNN ET M.R.N.
+LIEU DE L’AUDIENCE : Percé (Québec)
+DATE DE L’AUDIENCE : le 5 novembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 19 janvier 2009
+COMPARUTIONS :
+Représentante de l'appelant :
+Marie-Anne Adams
+Avocat de l'intimé :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

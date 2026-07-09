@@ -1,0 +1,164 @@
+Title: 2405124 Ontario Ltd. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521085/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-57-521085-2405124-ontario-ltd-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-05-05
+
+# 2405124 Ontario Ltd. v. The King
+
+- Citation: 2023 TCC 57
+- Decision date: 2023-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5872, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2405124 Ontario Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-05
+Neutral citation
+2023 TCC 57
+File numbers
+2020-373(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-373(IT)I
+BETWEEN:
+2405124 ONTARIO LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on June 22, 2022, at Thunder Bay, Ontario
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Jessica Alves
+Counsel for the Respondent:
+Allison Lubeck
+JUDGMENT
+The Appellant’s appeal of the assessment raised February 22, 2018 under the federal Income Tax Act is dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2023.
+“B. Russell”
+Russell J.
+Citation: 2023 TCC 57
+Date: May 5, 2023
+Docket: 2020-373(IT)I
+BETWEEN:
+2405124 ONTARIO LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction: [1] This appeal addresses a Requirement to Pay (Requirement), issued per subsection 244(1) of the federal Income Tax Act (Act) - a garnishment provision. It was issued to a corporation wholly owned by the tax debtor identified in the Requirement. Does the Requirement apply respecting cash withdrawals made by that tax debtor from his corporation’s bank account?
+[2] Subsections 244(1) and (4) and paragraph 227(1)(a) of the Act provide:
+Subsection 224(1): [Garnishment] – Where the Minister has knowledge or suspects that a party is, or will be within one year, liable to make a payment to another person who is liable to make a payment under this Act (in this subsection… referred to as the “tax debtor”), the Minister may in writing require the person to pay forthwith, where the monies are immediately payable, and in any other case as and when the monies become payable, the monies otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor’s liability under this Act. (underlining added)
+Subsection 224(4): [Failure to comply with subsection (1), (1.2) or (3) requirement] – Every person who fails to comply with a requirement under subsection 224(1), 224(1.2) or 224(3) is liable to pay to Her Majesty an amount equal to the amount that the person was required under subsection 224(1), 224(1.2) or 224(3), as the case may be, to pay to the Receiver General. (underlining added)
+Paragraph 227(10)(a): [Assessment] - The Minister may at any time assess any amount payable under
+(a) subsection…224(4) or 224(4.1)…by a person…
+[3] The appellant corporation, 2405124 Ontario Ltd. (240 Ontario), has one Ian Bodnar (IB) as its directing mind, being its president, sole shareholder and sole director. Additionally, IB thinks that he is the only person having signing authority re 240 Ontario’s bank account.[1]
+[4] 240 Ontario appeals the assessment of $23,410 that the Minister of National Revenue raised per paragraph 227(10)(a) of the Act (set out above). The respondent Crown contends that 240 Ontario did not comply with a subsection 244(1) Requirement issued May 31, 2017 to 240 Ontario and received June 2, 2017.
+[5] The respondent pleads that the Minister assessed inter alia on the assumption that on fifteen occasions between June 2, 2017 and December 22, 2017 inclusive, with the said Requirement in effect, tax debtor IB withdrew cash totalling $23,410 from 240 Ontario’s bank account, as follows:[2]
+1. June 2, 2017 - $2,000
+2. June 9, 2017 - $2,000
+3. June 30, 2017 - $1,000
+4. July 14, 2017 - $360
+5. July 19, 2017 - $3,000
+6. August 4, 2017 - $500
+7. August 10, 2017 - $300
+8. September 11, 2017 – $500
+9. September 20, 2017 - $200
+10. September 26, 2017 - $200
+11. October 12, 2017 - $4,000
+12. November 21, 2017 - $350
+13. December 14, 2017 - $5,000
+14. December 20, 2017 - $3,000
+15. December 22, 2017 - $1,000
+Total $23,410.
+II. Issue: [6] The issue pleaded by the appellant 240 Ontario[3] is whether $23,410 was payable and ultimately paid by it to the tax debtor IB, for purposes of subsections 224(1) and 224(4). The respondent’s pleaded issue[4] is similarly whether the Minister was justified in assessing $23,410 pursuant to subsection 224(4).
+[7] At the hearing, appellant’s counsel stated that the question was “whether or not the [15] payments of the withdrawals were in fact paid to [IB]” while the Requirement was in effect.[5] Respondent’s counsel identified the issue as, “whether the appellant failed to comply with a requirement to pay issued under subsection 224(1) of the [Act] and as a result was assessed…”[6]
+III. Evidence/Facts: [8] IB was the only witness at the hearing. He did not take issue with the Minister’s assumption that he had a tax liability of $121,116 under the Act when the subject assessment was raised. The notice of assessment provides that the assessment, “is issued in respect of the liability under subsection 224(4) and/or 224(4.1) of the [Act]… for failure to comply with [the said Requirement] re: Ian Bodnar..”.[7]
+[9] The said Requirement inter alia required the following of 240 Ontario:
+You are required to pay to the Receiver General on account of [IB’s tax] liability under [the Act]:
+1) forthwith, the moneys otherwise and immediately payable to the [tax debtor, IB] which you are required to pay;
+2) all other moneys otherwise payable to the [tax debtor, IB] which you will be, within one year, liable to pay, as and when the moneys become payable…
+[10] The legal basis for the first of these two Requirement provisions is subsection 224(1), set out above. Breach of that provision leads to liability to the Crown per subsection 224(4) that may be assessed per paragraph 227(10)(a).
+[11] IB testified that 240 Ontario’s business was real estate purchase and sale. Also, 240 Ontario earned no income in 2017 due to IB’s then significant health situation. IB had no employment relationship with 240 Ontario and it had never paid him remuneration, nor dividends. IB’s sole 2017 income was from CPP and OAS payments. He testified that 240 Ontario’s bank account, in a local credit union, where everyone knew him, was “just used for paying all the expenses of [itself].”[8]
+[12] He testified also that 240 Ontario had expenses including utility invoices (propane gas, water) and upkeep charges (his example was mowing grass) and that because 240 Ontario had no income in 2017 it borrowed funds from another credit union account, this one held in the name of IB’s spouse, Ms. Bodnar.
+[13] Borrowed funds were transferred in 2017 from Ms. Bodnar’s account to 240 Ontario’s account in amounts including $35,617.60 in July, secured by a party ally hand-written demand promissory note signed by IB for both 240 Ontario and himself. He wrote on it that “I have authority to bind the corporation”, meaning 240 Ontario. Other amounts transferred in 2017 from the account held in Ms. Bodnar’s name into 240 Ontario’s account included $10,000 (August), $15,000 (August), $5,000 (October), $5,000 (November) and $79,000 (December).
+[14] The $79,000 was needed for purchase of a property 240 Ontario was obligated to buy.
+[15] IB testified that the above listed fifteen withdrawals from 240 Ontario’s sole bank account were to make payments due on two Canadian Tire MasterCard credit card accounts, both registered in Ms. Bodnar’s name. As well, IB had two credit cards for his use, both of which were registered as sub-accounts of Ms. Bodnar’s two credit card accounts. All the credit card accounts relating to this matter ultimately were registered, whether directly or indirectly, in Ms. Bodnar’s name.
+[16] In redirect examination appellant’s counsel asked IB, “[Y]ou were authorized to use these credit cards [of Ms. Bodnar] for what purposes?” His answer was, “For whatever I needed it for.”[9]
+[17] Essentially the funds that IB withdrew from 240 Ontario’s bank account were used to pay for purchases he (and perhaps also other family members) had made, using credit cards registered to Ms. Bodnar’s Canadian Tire MasterCard accounts.
+[18] Ms. Bodnar was not present to testify regarding any of this. IB said she was home ill that day. According to testimony of IB, Ms. Bodnar was a central player in all this. Respondent’s counsel objected several times as to her non-presence and requested that I presume from her absence that her evidence would not have aided the appellant, 240 Ontario.
+[19] The evidence also was that numerous purchases by IB using the MasterCard credit cards registered to his wife, did not seem as likely business expenses of 240 Ontario. For example, there were charges to various dining establishments shown on the credit card statements. IB was not taken through these statements to explain how individual expenses on the credit card statements were expenses of 240 Ontario.
+[20] Of concern to me, no receipts pertaining to the charges listed on the several credit card statements were put into evidence. Credit card transactional receipts would have much clarified the nature of individual expenses. As it is, I expect there would not be many charges over several months for an inactive corporation such as 240 Ontario, holding real estate.
+[21] Additionally regarding credit card receipts, respondent’s counsel asked IB, “Do you have any detailed receipts here that can indicate what was purchased on the card?” He answered, “No, I don’t, no.”[10]
+[22] Counsel asked, “Your answer that you don’t have any detailed receipts, this applies to both MasterCards?” He answered, “That’s correct, yes.”[11]
+[23] IB testified that he personally made most of the subject fifteen cash withdrawals from 240 Ontario’s account. He testified he would attend at the credit union where that bank account was kept, and at the counter, with his bank card, authorize a withdrawal with consequently a clerk providing to him the quantum of cash that he was withdrawing from 240 Ontario’s account.
+[24] His testimony was that typically he then would attend at the local Canadian Tire location to tender the withdrawn cash as payment against either or both of his wife’s two Canadian Tire Bank credit card accounts, being the principal accounts for credit cards of which he had unrestricted usage. The evidence showed almost completely a match of the respective fifteen withdrawn sums with amounts shortly subsequently tendered to Canadian Tire Bank, during the latter half of 2017 when the Requirement had effect.
+[25] IB testified that due to his health situation (by-pass surgery in early July 2017 in Hamilton and wheelchair bound recovery into August), each of the several subject cash withdrawals during that July – mid-August period were made by his wife or one or other of his children whom I take to be young adults. I understand that each such withdrawal, using IB’s bank card and PIN, would have to have been authorized by him. IB said nothing to indicate otherwise. Again Ms. Bodnar was not there to testify, and neither were either of the young adult children.
+IV. Parties’ Positions: [26] Appellant’s counsel cited Majorca Inc. v. R., 98 DTC 1130 (TCC) in which liability was found where withdrawn corporate funds were used to pay credit card accounts of a tax debtor. Counsel distinguished this from the present case in which funds of the appellant were used to pay credit card accounts of the tax debtor’s spouse Ms. Bodnar, rather than for credit card accounts of the tax debtor IB himself - of which there were none. Counsel noted also that Ms. Bodnar was a creditor of 240 Ontario. Counsel submitted that this strengthened 240 Ontario’s submission that the cash withdrawals from its account were for Ms. Bodnar’s benefit and thus not in breach of the Requirement.
+[27] Respondent’s counsel submitted that subsection 224(1) spoke of a person’s liability to make a payment to another person who was a tax debtor under the Act. She urged that subsection 224(1) be broadly construed, per National Trust Co. v. R., 98 DTC 6409, FCA. It was not just to apply in a debtor‑creditor relationship but to any situation in which there was “a responsibility at law to make a payment to the tax debtor”.[12]
+[28] Respondent’s counsel referenced the numerous credit card purchases at chain restaurants and locations including EB Games, Sports Check, Canadian Tire and Mark’s Warehouse, as well as IB’s statement that he was authorized to use the credit cards authorized under his wife’s accounts for whatever he needed. Counsel submitted that IB used “his spouse’s [credit cards] to make his daily purchases and pay for his activities and other related hobbies.”[13] She submitted also that at least on one occasion the withdrawal amount ($500, August 4, 2017) was not used to pay Ms. Bodnar’s credit card accounts.
+[29] Respondent’s counsel further submitted that 240 Ontario and Ms. Bodnar acted as agents or nominees of the tax debtor IB who was able to use credit cards on his wife’s accounts for his own purposes. His wife’s credit card accounts were reimbursed for this by payments made to those credit card accounts using funds withdrawn from 240 Ontario’s account mostly by IB (and during July to mid‑August withdrawn by wife and/or young adult children on instructions from IB, due to his health situation. It was his bank card and PIN that needed to be used.)
+V. Analysis: [30] I find the appealed assessment to be valid. It was rightly issued per subsection 224(1), set out above. That provision applies in respect of moneys paid by a Requirement recipient (here, 240 Ontario) to a tax debtor identified in the Requirement (here, IB). Subsection 224(1) requires that any money payable to the tax debtor, be instead paid to the Receiver General, on account of the tax debtor’s income tax liability.
+[31] Jurisprudence has established that the subsection 224(1) language “liable to make a payment” applies where there is responsibility at law to make a payment. The provision is not restricted to debtor-creditor relationships. See Discovery Trust Company v. Abbott et al, [1982] B.C.W.L.D. 1454 (B.C.S.C.) and National Trust Co. v. R., [1998] F.C.J. No. 968 (F.C.A.)
+[32] Here, I find that 240 Ontario did have responsibility at law to make payments to IB from available funds, such responsibility arising from IB’s ownership of and authority over 240 Ontario. IB is 240 Ontario’s directing mind, being its sole shareholder, sole director and sole officer (president), as well as sole signing officer.
+[33] This control and authority exists regardless that IB also is the very tax debtor referenced in the subject Requirement issued to 240 Ontario May 31, 2017. If IB requests funds from 240 Ontario, 240 Ontario is compelled to comply given IB’s authority and control over it as its directing mind, sole owner and sole signing officer. There is no exception as to withdrawal of funds.
+[34] On the fifteen occasions the withdrawn funds passed either directly to IB or indirectly to him during the July to mid-August period due to his then temporary health situation. During that said period, the several instances of withdrawn funds occurred on IB’s authority via a family member acting as agent on his behalf, provided with temporary usage of his bank card and PIN to access the account. Interpreting subsection 224(1) broadly, that is sufficient to establish liability for non-compliance with the Requirement, as the withdrawn sums were not remitted to the Receiver General.
+[35] What IB went on to do with the funds (having not remitted same to the Receiver General) is irrelevant to establishment of liability per the Requirement. 240 Ontario paid to him, directly or indirectly, funds on the fifteen noted occasions, totalling the assessed amount of $23,410.
+[36] Parenthetically I note that effectively the appellant 240 Ontario - IB’s own corporation of which he was sole shareholder and director – was used as a conduit to fund payment of IB’s expenses, incurred through unrestricted usage of credit cards registered in his wife’s name. Why otherwise would 240 Ontario be involved in paying off Ms. Bodnar’s monthly credit card statements.
+VI. Conclusion: [37] As stated, I find the appealed assessment to be valid. This informal procedure appeal will be dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2023.
+“B. Russell”
+Russell J.
+CITATION:
+2023 TCC 57
+COURT FILE NO.:
+2020-373(IT)I
+STYLE OF CAUSE:
+2405124 ONTARIO LTD. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+June 22, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+May 5, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Jessica Alves
+Counsel for the Respondent:
+Allison Lubeck
+COUNSEL OF RECORD:
+Name:
+Jessica Alves
+Firm:
+Buset LLP 1121 Barton Street, Thunder Bay, Ontario
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] There was no evidence of anyone else having signing authority.
+[2] Reply, para. 17(h)
+[3] Notice of Appeal, para. 18
+[4] Reply, para. 18
+[5] Transcript, p. 119
+[6] Transcript, p. 124
+[7] Exhibit A-1
+[8] Transcript, p. 16
+[9] Transcript, p. 118
+[10] Transcript, p. 96
+[11] Ibid.
+[12] National Trust Co., para. 47
+[13] Transcript, p. 128

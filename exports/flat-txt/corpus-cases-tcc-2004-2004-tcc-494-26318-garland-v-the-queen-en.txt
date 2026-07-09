@@ -1,0 +1,144 @@
+Title: Garland v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26318/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-494-26318-garland-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-07-09
+
+# Garland v. The Queen
+
+- Citation: 2004 TCC 494
+- Decision date: 2004-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3265, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garland v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-09
+Neutral citation
+2004 TCC 494
+File numbers
+2003-4352(GST)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-4352(GST)I
+BETWEEN:
+CLAUDE JAMES GARLAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 15, 2004, at St. John's, Newfoundland,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Kent Morris
+Counsel for the Respondent:
+Sue McKinney
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Assessment - Third Party made under subsection 323(1) of the Excise Tax Act, notice of which is dated July 19, 2002 and bears number 24601 is dismissed.
+Signed at Ottawa, Canada, this 9th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+Docket: 2003-4575(IT)I
+BETWEEN:
+CLAUDE JAMES GARLAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 15, 2004, at St. John's, Newfoundland,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Kent Morris
+Counsel for the Respondent:
+Sue McKinney
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 227.1(1) of the Income Tax Act, notice of which is dated July 19, 2002 and bears number 11490 is dismissed.
+Signed at Ottawa, Canada, this 9th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+Citation: 2004TCC494
+Date: 20040709
+Docket: 2003-4352(GST)I
+2003-4575(IT)I
+BETWEEN:
+CLAUDE JAMES GARLAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These two appeals are brought from assessments made under section 227.1 of the Income Tax Act (the ITA) and section 323 of the Excise Tax Act (the ETA). Those sections impose personal liability on the directors of a corporation for unpaid income tax withholdings and goods and services tax (GST) owed by the corporation. The appeals were heard together on common evidence under the Court's informal procedure. The assessments hold the Appellant liable as a director of Short Stop Foods (1984) Limited (Short Stop) for source deductions under the ITA of $1,911.23, and for GST of $78,460.00 under the ETA, together with interest and penalties under both statutes.
+[2] Mr. Garland started a grocery and convenience store, with a partner, in the early 1980s. In about 1984, he bought out his partner and from that point forward the newly formed corporation owned and operated the business. Mr. Garland was the only director of Short Stop during the relevant time period, and he managed the business. Over the next eight years or so the business was expanded until there were about five stores, some owned and operated by Short Stop, and some operated under franchises agreements.
+[3] Mr. Garland had no training in business, or in bookkeeping, nor did he have any experience before he opened the Short Stop business. Initially an employee by the name of Judy Payne kept the books. She left in 1992, and the Appellant's wife then took over the bookkeeping function. Her only qualification for that task was that she had taken a secretarial course at a vocational school, which included a bookkeeping session as part of the course. Ms. Payne gave her some instruction in the bookkeeping functions of the business during the two weeks prior to her departure. With this background she assumed responsibility for all the bookkeeping, and the filing of returns for GST and income tax. An accountant, whose qualifications were not made clear in the evidence, prepared the year-end statements. It is not clear from the evidence what other functions he performed, if any.
+[4] The business was required to file GST returns quarterly. Mrs. Garland prepared the returns and prepared a cheque for the amount of tax that was to be remitted. She presented these to the Appellant for his signature. The Appellant had less training and knowledge of the GST system than his wife. After 1992, he depended entirely on her to prepare the returns and compute the company's liability correctly, just as he had relied on Ms. Payne before that.
+[5] Throughout the 1990s, a number of events took place that had serious adverse consequences for Short Stop's business. One of those was the moratorium imposed on the offshore cod fishery, which resulted in a serious decline in the volume of Short Stop's business. Another was the failure of one of Short Stop's major suppliers. Additional losses resulted from pilferage by some of the employees, and errors made by the staff in ringing up merchandise sales, according to the Appellant.
+[6] Eventually, the Canada Customs and Revenue Agency conducted an audit of the company's GST accounts. There soon followed an audit by the provincial sales tax authority. Both these audits resulted in substantial assessments against the company. The Federal Business Development Bank held a mortgage on the company's premises. As the business faltered following these audits, the Bank foreclosed its mortgage and took steps to liquidate the inventory. The Appellant blames all these misfortunes on the fact that the GST auditor produced an assessment that he says was far greater than the facts of the case warranted. Following an objection to the original assessment, the CCRA Appeals Branch reduced it substantially. However the effect of the original assessment, the Appellant says, had been to bring about all the other financial difficulties that eventually caused the company to cease operations. At that time, its substantial liabilities for unremitted GST and unremitted payroll deductions were outstanding, and they gave rise to the derivative assessments against Mr. Garland that are now under appeal.
+[7] The Appellant took the position in giving his evidence that the assessment against Short Stop for unremitted GST, even after it had been reduced by reassessment following the company's objection to it, was not warranted, and that its GST returns had in fact been flawless. However, he conceded that the company had unsuccessfully appealed the reassessment to this Court. In argument his counsel accepted, albeit reluctantly, that it was not open to him in those circumstances to contest the extent of the liability of Short Stop.
+[8] Subsection 227.1(1) of the ITA reads as follows:
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest or penalties relating thereto.
+Subsection 323(1) of the ETA reads:
+323(1) Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+Each of section 227.1 and 323 provides a number of possible defences for a director against whom they have been invoked, but in the present case it is not disputed that all the statutory requirements for liability of the Appellant are satisfied, and that the only defence open to him lies in subsection (3) of each of these sections, commonly called the due diligence defence.
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.[1]
+[9] The jurisprudence surrounding these provisions makes it clear that there are both subjective and objective elements to be considered in deciding the extent of a particular director's obligation of diligence, and that these may vary considerably depending on the extent to which the director in question is active in the management of the affairs of the company, his or her education, training, experience and business acumen, to mention but a few of the relevant factors. In this case Mr. Garland was the only director, and he had complete charge of the company's affairs. He is by no means a sophisticated businessman, but he took it upon himself to run the company, although he must have known that there were financial obligations under the various taxing statutes that had to be complied with. He must have been aware as well when he decided to place such great reliance upon his wife that her knowledge and training were minimal.
+[10] What is required of directors is that they "exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances".[2] The burden of proof is on the Appellant, however, to establish that he has exercised that degree of care diligence and skill.
+[11] Counsel for the Appellant relied on the decision in Lau,[3] but he was able only to refer to a brief summary of the decision. In that case, the wife of one of the directors did the bookkeeping, computed the GST liability and filed the returns. She had no formal training or experience in bookkeeping. Superficially, these facts are similar to the present case. However, it is apparent from the report of that case that the system that she followed had been established by a national firm of chartered accountants, using a computer and appropriate software for the purpose. That firm also trained her to operate it and oversaw her work on a regular basis. Those facts cannot fairly be compared to the present case; Ms. Garland's only training was by someone whose qualifications are completely unknown, and there is no evidence that she was supervised at all.
+[12] Counsel for the Appellant also relied on a brief summary of the judgment of Rowe, D.J. in Cassels v. The Queen.[4] However, that case is totally dissimilar to the case before me. Judge Rowe found there that the Appellant met the due diligence test for part of the time period in issue, because he had an experienced, well trained staff handling the accounting for GST under the supervision of a firm of chartered accountants.
+[13] In Armstrong v. The Queen,[5] a director failed to meet the requirements of due diligence when he simply left the accounting for GST in the hands of an experienced accountant who had a professional designation. As in this case, a chartered accountant was retained to make year-end entries and prepare statements, but apparently had no responsibility for the GST accounting function. Mr. Armstrong was a very experienced businessman, and so a higher standard of care would be required of him than that required of Mr. Garland. Had Mr. Garland left matters in the hands of an accountant with a CGA designation that might well have been sufficient. However, he in fact simply left the matter in his wife's hands, apparently without supervision. Due diligence requires that the director, certainly a director like Mr. Garland who is the sole director and manager, take positive steps to see that the GST and the income tax withholdings are properly calculated and remitted. The director is not an insurer, but he must be able to point to some safeguards that he has put into place. Mr. Garland was not able to do that. While I am sympathetic to the position in which he now finds himself, I have no alternative but to dismiss the appeals.
+Signed at Ottawa, Canada, this 9th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC494
+COURT FILE NO.:
+2003-4352(GST)I and
+2003-4575(IT)I
+STYLE OF CAUSE:
+Claude James Garland and
+Her Majesty the Queen
+PLACE OF HEARING:
+St. John's, Newfoundland
+DATE OF HEARING:
+April 15, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice E.A. Bowie
+DATE OF ORDERS:
+July 9, 2004
+APPEARANCES:
+Counsel for the Applicants:
+Kent Morris
+Counsel for the Respondent:
+Sue McKinney
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+Kent Morris
+Firm:
+Morris Law Firm
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The words in bold type appear in the ETA but not in the ITA. Otherwise, the two provisions are identical.
+[2] Lau v. The Queen, [2003] G.S.T.C. 1, per Bowman A.C.J. at para. 23.
+[3]
+supra.
+[4] [2001] G.S.T.C. 122; aff'd [2002] G.S.T.C. 81 (FCA).
+[5] [2002] G.S.T.C. 78; aff'd [2003] GSTC 64 (FCA)

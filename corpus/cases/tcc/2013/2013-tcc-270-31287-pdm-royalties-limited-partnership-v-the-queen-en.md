@@ -1,0 +1,255 @@
+---
+title: "PDM Royalties Limited Partnership v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31287/index.do"
+last_modified: "2013-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 270"
+citation2: ""
+neutral_citation: "2013 TCC 270"
+decision_date: "2013-08-29"
+language: "en"
+item_id: "31287"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4944
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:54:59.389000+00:00"
+cases_cited_count: 10
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9851a638d60edab28f91ebbb60f57a5dfb2819eb0f8d0565ddf212c0ee770e2e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# PDM Royalties Limited Partnership v. The Queen
+
+- Citation: 2013 TCC 270
+- Decision date: 2013-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4944, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+PDM Royalties Limited Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-29
+Neutral citation
+2013 TCC 270
+File numbers
+2010-314(GST)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-314(GST)G
+BETWEEN:
+PDM ROYALTIES LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 7-8, 2012, at Halifax, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Raymond G. Adlington
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Excise Tax Act, Notices of which are dated February 9, 2006, February 14, 2006 and October 24, 2006 respectively, for the period June 1, 2004 to November 30, 2004, July 1, 2004 to July 31, 2004 and January 1, 2005 to March 31, 2006 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The parties shall have sixty days from the date of this Judgment to make written submissions with respect to costs.
+Signed at Halifax, Nova Scotia, this 29th day of August 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC270
+Date: 20130829
+Docket: 2010-314(GST)G
+BETWEEN:
+PDM ROYALTIES LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to assessments under the Excise Tax Act (“ETA”) for the periods June 1, 2004 to November 30, 2004, July 1, 2004 to July 31, 2004 and January 1, 2005 to March 31, 2006 which disallowed the Appellant’s claim for input tax credits (“ITCs”) in the amounts of $65,719.88, $98,219.15 and $107,621.44 respectively. The majority of the ITCs were with respect to expenses incurred in structuring and selling units of an income fund.
+[2] At the hearing, William R. Lane, Chief Financial Officer, Executive Vice President and Secretary of Pizza Delight Corporation Ltd. testified on behalf of the Appellant; and, Anne Duggan, Appeals Officer with the Canada Revenue Agency (“CRA”), testified on behalf of the Respondent.
+[3] The Appellant, PDM Royalties Limited Partnership, is one party in a complex structure which was arranged with respect to the income fund. A description of the various parties and the structure follows.
+[4] Pizza Delight Corporation Ltd. started doing business in 1968 and is a company continued under the laws of the province of Nova Scotia. By 2004, it operated 218 restaurants under two main brand names: “Pizza Delight” and “Mikes”. Pizza Delight Corporation Ltd. and its subsidiaries (the “Company”) owned the trademarks, trade names, operating procedures and systems, other intellectual property and proprietary rights, and all goodwill used in connection with the restaurants and its franchisees (collectively, the “PDM Rights”).
+[5] The Appellant was formed under the laws of the province of New Brunswick and its general partners are PDM Restaurants GP Incorporated (“PDM GP”) and the Company. The limited partner of the Appellant is PDM Holdings Trust (the “Trust”), a limited purpose trust established under the laws of the province of Ontario.
+[6] PDM Royalties Income Fund (the “Fund”) is an unincorporated open-ended limited purpose trust established under the laws of the province of Ontario. The Fund was created to acquire, indirectly through the Appellant, the PDM Rights. According to its prospectus dated May 28, 2004, the Fund made an initial public offering (the “2004 IPO”) of 5,067,692 units at $10 per unit. The Offering was completed on or about June 8, 2004.
+[7] Prior to the completion of the 2004 IPO, the Company borrowed $30,000,000 (the “PDC Loan”) from a bank as a daylight loan. The proceeds from the 2004 IPO were used by the Fund (i) to acquire the PDC Loan from the bank and (ii) to subscribe for PDM GP shares, Trust units and Series 1 Trust Notes. The Trust used the proceeds from the issuance of the Trust Units and Series 1 Trust Notes to subscribe for LP units in the Appellant. The Appellant used the proceeds from the issuance of the LP Units to pay the cash portion of the purchase price for the PDM Rights; to pay its share of the Underwriters’ fees; and, to pay the expenses of the 2004 IPO.
+[8] On or about August 31, 2005, the Appellant acquired the ownership of the trademarks, trade names, other intellectual property and the goodwill associated with the restaurant chain known as “Scores”. These properties were included in the PDM Rights and their acquisition was funded by the private placement of units of the Fund. The proceeds from this 2005 private placement were approximately $22,100,000 and Mr. Lane testified that at least $20,000,000 of the proceeds went to the Appellant to fund the Scores acquisition.
+[9] The financing process for the 2005 private placement was similar to that used in the 2004 IPO. Monies received from the unit purchasers were used by the Fund to purchase units of the Trust which then paid the proceeds of that sale to the Appellant in exchange for LP units in the Appellant.
+[10] The Appellant’s business is the acquisition, ownership, and exploitation of the PDM Rights.
+[11] On May 28, 2004, the Fund, the Trust, the Appellant, and PDM GP entered into a Financing Agreement in which it was agreed by the parties that all financing expenses related to the 2004 IPO, with the exception of $3 million in underwriters’ fees, were “incurred by or on behalf of” the Appellant. The Financing Agreement further provided that if any of the financing expenses were paid by the Fund, the Appellant would repay and reimburse the Fund for the payment of such financing expenses. The financing expenses were defined as certain fees and other expenses which were incurred in connection with the financing transactions.
+[12] Mr. Lane testified that all of the Fund’s expenses were paid by the Appellant including those related to the private placement which funded the Scores acquisition.
+[13] On May 28, 2004, the Appellant entered into separate Administration Agreements with each of the Fund and the Trust, whereby the Appellant, as Administrator and agent, agreed to assume responsibility for the administration and management of all general and administrative affairs of the Fund and the Trust. The Appellant was required to pay the “remuneration and expenses” of the trustees of both the Trust and the Fund. As Administrator, the Appellant was entitled to annual fees, not to exceed $25,000, from each of the Trust and the Fund. According to Mr. Lane, the Appellant never collected its fees but it complied with all other terms of the Administration Agreements.
+[14] Mr. Lane testified that neither the Fund nor the Trust carried on business and they had no employees. He stated that it would have taken the Appellant only a nominal amount of time to administer the Trust on a monthly basis. However, as a public company, the Fund had to comply with numerous requirements and it would have taken the Appellant a significant amount of time to administer the Fund.
+[15] There are three categories of ITCs at issue in this appeal. The majority of the ITCs at issue are those in respect of expenses for services related to the 2004 IPO and the 2005 private placement of Fund units. ITCs were denied for such expenses as legal and accounting fees, listing and filing fees, remuneration and reimbursement of trustees of the Fund, printing and publishing fees. Other ITCs which were denied were in respect to GST paid by the Appellant for services it personally received. Some of the invoices for these services also contained services provided to other entities and the Appellant failed to quantify the expenses which related to it. Finally, some ITCs were denied because the invoices did not meet the documentary requirements of subsection 169(4) of the ETA.
+[16] This appeal raised the following issues:
+(1) Whether the Appellant is entitled to claim ITCs pursuant to section 169 of the ETA in respect of the GST it paid in accordance with the terms of the Financing Agreement.
+(2) If the answer to the first question is no, did the Appellant provide documents to identify those expenses which apply directly to its commercial activities?
+(1) Whether the Appellant is entitled to claim ITCs pursuant to section 169 of the ETA for those expenses it paid in accordance with the Financing Agreement?
+[17] The general rule for determining if a person is entitled to ITCs is found in subsection 169 which reads in part:
+s.169(1)General rule for [input tax] credits -- Subject to this Part, where a person acquires … property or a service … tax in respect of the supply … becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B where
+A is the tax in respect of the supply … that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+…
+(c) … the extent (expressed as a percentage) to which the person acquired the property or service … for consumption, use or supply in the course of commercial activities of the person
+[18] The three conditions which the Appellant must satisfy to be eligible to claim the GST which it paid in accordance with the Financing Agreement are:
+(i) The Appellant must have acquired the services;
+(ii) The GST must be payable or was paid by the Appellant on the services;
+(iii) The Appellant must have acquired the services for consumption or use in the course of its commercial activity.
+[General Motors of Canada Limited v The Queen, 2008 TCC 117 at paragraph 30; affirmed 2009 FCA 114]
+(i) and (ii) The Appellant must have acquired the services and the GST must be payable or was paid by the Appellant on the services
+[19] In General Motors (supra), Campbell J. found that the meaning of the word “acquired” in subsection 169(1) required a determination as to who was the recipient of the service. She reasoned that the 1997 amendment, which replaced the phrase “supplied to” with the term “acquires”, did not change the focus on the central question of who is liable to pay GST.
+[20] Subsection 123(1) of the ETA defines recipient as:
+“recipient” of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+[21] The recipient is the person who is contractually liable to pay the consideration under the agreements with the suppliers: YSI’S Yacht Sales International Ltd v The Queen, 2007 TCC 306.
+[22] In Immeubles Sansfaçon Inc v R, [2000] GSTC 10, Tardif J. discussed the scope of paragraph 123(1)(b). At paragraph 32 he stated:
+32 If reference is made to the English version of the definition of “recipient”, paragraph (b) can apply only in a case where there is no agreement for a supply. Yet, the French version does not exclude the possibility that paragraph (b) can apply despite the existence of an agreement for a supply. Which interpretation is to be preferred? To better understand and appreciate the scope of paragraph (b), one must refer to the explanatory notes of the Minister of Finance relating to Bill C-112, amending the definition of “recipient” in 1993, so as to better understand the intent of Parliament regarding the proper interpretation of the notion of “recipient”:
+Some questions have arisen in cases where a person pays consideration for a supply for which another person contracted. Often it is the case that an agent pays consideration on behalf of a purchaser who is liable to pay. Where an agent makes a payment on behalf of a purchaser, the purchaser is considered to have paid that consideration and is therefore the only “recipient” of the supply. However, to avoid any ambiguity in this regard, the definition “recipient” is amended by setting out each case under a separate paragraph so as to clarify that each is mutually exclusive.
+[23] It was the Appellant’s position that it was the recipient of all services shown in the invoices because it was required by the Financing Agreement to pay all expenses related to the 2004 IPO and the 2005 private placement. Counsel stated that the Appellant had the legal obligation to pay the fees incurred by the Fund and that the ultimate liability for all fees contained in the invoices was borne by the Appellant. Counsel relied on the decision in Bokrika Inc v R, 2006 TCC 301 to make his submissions.
+[24] In Bokrika Inc, the taxpayer failed to satisfactorily complete its contract to prepare a subdivision for a municipality. The municipality drew on a letter of credit provided by the taxpayer to pay other contractors to rectify or complete the deficient work. These third party contractors entered into agreements directly with the municipality. The court found that the taxpayer was entitled to ITCs on the full amount of the municipality’s draws as it was the person who was ultimately responsible for the payment of the taxable supplies.
+[25] I note that in Bokrika (supra), the court relied on the decision in Bondfield Construction Co. (1983) Ltd v Canada, 2005 TCC 78 as authority for the position that the recipient is the person who actually paid the GST on the supply. However, in General Motors (supra), Campbell J. clarified her statement in Bondfield (supra). At paragraph 55 she stated:
+…[M]y reference to “ultimately liable” in the Bondfield decision should not be taken to mean that the definition of recipient requires a determination of the person who ultimately receives the supply but rather to a determination of the person who is ultimately liable under the agreements, to pay consideration.
+[26] Counsel for the Respondent argued that where the definition of recipient refers to an agreement, it means the agreement for services or supplies. The recipient is the person who is liable to pay the consideration for the service under the agreement for the service. The term “agreement” does not refer to an agreement between related parties such as the Financing Agreement. I agree with this submission.
+[27] The Appellant also relied on this court’s decision in 163410 Canada Inc v Canada, [1999] GSTC 44 for the position that it is the person with the ultimate liability to pay who is the recipient. It is my view that 163410 Canada Inc. (supra) is distinguishable on its facts. In 163410 Canada Inc (supra), the taxpayer was the developer and promoter of a seniors’ residence. Most of the financing came from a project lender and the balance was to come from the taxpayer. The general contractor was unable to complete the project and it and the subcontractors filed construction liens. A rescue agreement was entered into between the project lender, the taxpayer and others so that the remaining funds could be advanced to complete the project. As part of the agreement, the project lender paid the project’s unpaid legal fees, acting as trustee for the taxpayer in advancing the funds. The court found that the taxpayer was the “recipient” of the legal services on the basis that “it was clear that under the agreement for legal services the taxpayer was liable to pay for the supply, although the project lender was instructed to pay for them with the taxpayer’s funds”. In the present case, the Appellant relies on the Financing Agreement between it and the Fund to support its position that it is the recipient. The Financing Agreement was not an agreement for the supply of services.
+[28] Subsequent to the hearing, I asked the parties to address whether the Law of Agency applied to this appeal in light of paragraphs 2.3, 2.6 and 3.1 of the Administration Agreement between the Appellant and the Fund. Those paragraphs read, in part;
+2.3 Power and Authorities of the Administrator
+… the Administrator shall have full right, power and authority to execute and deliver all contracts, leases, licences and other documents and agreements, to make applications and filings with governmental and regulatory authorities and to take such other actions as the Administrator considers appropriate in connection with the Fund in the name of and on behalf of the Fund and no person shall be required to determine the authority of the Administrator to give any undertaking or enter into any commitment on behalf of the Fund, provided that the Administrator shall not have the authority to commit to any transaction which would require the approval of the Unitholders in accordance with the Declaration of Trust, or take any action required to be taken by the Trustees under the Declaration of Trust, or take any action requiring approval of the Trustees without such approval having been given.
+…
+2.6 Execution of Documents
+…
+All reasonable efforts shall be made to ensure that every contract entered into on behalf of the Fund by the Administrator shall (except as the Administrator otherwise expressly agrees in writing with respect to personal liability of the Administrator) include a provision substantially to the following effect:
+“The parties hereto acknowledge that the [Administrator] is entering into this agreement solely on behalf of PDM Royalties Income Fund (the “Fund”) and the obligations of the Fund hereunder shall not be personally binding upon any of the trustees of the Fund, [the Administrator,] any registered or beneficial holder of trust units of the Fund or any beneficiary under a plan of which a holder of such trust units acts as a trustee or carrier, and that resort shall not be had to, nor shall recourse be sought from, any of the foregoing or the private property of any of the foregoing in respect of any indebtedness, obligation or liability of the Fund arising hereunder or arising in connection herewith or from the matters to which this Agreement relates, and recourse shall be limited to, and satisfied only out of, the Trust Assets as defined in the Declaration of Trust made as of the 12th day of April, 2004, as amended, restated or supplemented from time to time.”
+This provision shall be held in trust and enforced by the Administrator for the benefit of the Unitholders and beneficiaries. The omission of such a provision from any such written agreement shall not operate to impose personal liability on the Trustees, the Administrator, any Unitholder or any beneficiary.
+3.1 Payment of Expenses
+As agent of the Fund, the Administrator shall pay for all outlays and expenses to third parties incurred by the Administrator in the administration of the affairs of the Fund and the performance by the Administrator of its duties hereunder (including costs and expenses incurred in calling and convening meetings of Unitholders, in reporting to Unitholders and in making distributions to Unitholders). For greater certainty, the Administrator shall pay the remuneration and expenses of the Trustees as provided in Section 8.9 of the Declaration of Trust. (emphasis added)
+…
+[29] In response to my request, counsel for the Appellant submitted that the agreement is an Administration Agreement and its primary purpose is to make the Appellant the administrator of the Fund and not the agent of the Fund. He wrote that the conduct of the parties evidenced an unwritten agreement between them which superseded the written agreement. The unwritten agreement was that the Appellant would incur the expenses on its own behalf. I do not find the Appellant’s argument persuasive. The Fund and the Appellant executed the Administration Agreement; the Appellant presented it as one of its exhibits at the hearing; and, there was no evidence that it was no longer valid or enforceable between the parties. Moreover, section 6.2 of the Administration Agreement reads: “This Agreement shall not be amended or varied in its terms by oral agreement or by representations or otherwise except by instrument in writing executed by the duly authorized representatives of the parties hereto or their respective successors or assigns.”
+[30] I have concluded that the Appellant was not only the Administrator of the Fund but also the agent for the Fund and that the Law of Agency applies to this appeal. Pursuant to the Law of Agency, the Fund and not the Appellant was liable to pay for the contracts entered into by the Appellant on the Fund’s behalf. See Adams v R, [1998] 2 CTC 333 (FCA) at paragraph 13 where Robertson J.A. observed:
+I take it to be axiomatic that where an agent makes a contract with a third party on behalf of a disclosed principal and that principal has authorized the making of such contract the principal can sue and be sued by the third party on the contract. In other words, a direct contractual relationship is thereby created between principal and third party by the acts of the agent, who does not become a party to the relationship. This is the very purpose and rationale of agency law: see G.H.L. Fridman, Law of Agency, 7d, 1996 at 216.
+[31] It is my view that when the Appellant paid for or contracted for services which were provided to the Fund, it did so as agent for the Fund and it disclosed that it was acting as agent for the Fund. Paragraph 2.6 of the Administration Agreement required the Appellant to disclose that it was entering into contracts “solely on behalf” of the Fund. The acts of the Appellant created direct contractual relationships between the Fund and the service providers whose invoices are at issue. It was the Fund, as principal, who was contractually liable to pay under the agreements with the suppliers and it is the Fund who was the recipient of the services provided and who acquired the services.
+[32] Some of the services provided to the Fund were legal, accounting, assurance services, listing on the TSX, valuation of trademarks and other intellectual properties, printing and publishing. Based on the evidence before me, it is not clear if the Financing Agreement was intended to make a re-supply of these services to the Appellant from the Fund. However, any re-supply of the services was impossible because the services were consumed by the Fund, the original recipient of the services. It is my opinion that the Appellant did not acquire the services which were provided to the Fund even though it paid the expenses for the services. It paid those expenses as agent for the Fund.
+[33] The origin of the payment of the expenses is irrelevant because it is the person who carries the contractual liability to pay who will satisfy the conditions in subsection 169(1): General Motors (supra) at paragraph 57.
+[34] Although my conclusions are sufficient to find that the Appellant is not entitled to claim the ITCs for expenses it paid pursuant to the Financing Agreement, it is also my view that the services were not used by the Appellant in the course of its commercial activity. I will discuss this third condition in subsection 169(1) because the Minister relied on it in denying the claim for the ITCs and both parties addressed it in their pleadings and oral arguments.
+Preliminary Matter
+[35] At both the audit and the objection stage of this case, the Minister found that most of the expenses at issue were not related to the Appellant’s commercial activities but were in respect to exempt financial services of the Fund (namely, the 2004 IPO and the 2005 private placement). The assessments were made on this basis and Ms. Duggan testified that she confirmed the assessments on this basis.
+[36] In the Reply, the Respondent pled that the expenses at issue related to the 2004 IPO and 2005 private placement of the Fund and that these expenses were for goods and services which were not acquired or used by the Appellant in the course of its commercial activities. He failed to plead that the activities of the Fund were exempt financial services. Counsel for the Appellant argued that I should not consider “this exempt supply argument”. It was his position that he had no idea that this would be an issue before the Court and the Appellant had no opportunity to adduce evidence with respect to it.
+[37] The Appellant had notice that the Minister assumed that the activities of the Fund were exempt financial services. The assumption appeared in the audit reports, the Appellant’s notice of objection and the notices of confirmation. All of these documents were in the exhibits filed by the Appellant. Although it was not plead in the Reply that the Fund was involved in exempt financial services, it was plead that the expenses at issue related to the 2004 IPO and 2005 private placement of the Fund. That the activities of the Fund were exempt financial services is a determination I can make from the evidence adduced at the hearing.
+[38] In the present case, there is sufficient evidence for me to determine on the balance of probabilities that most of the Fund’s activities related to exempt financial services. Both Ms. Duggan and Mr. Lane testified that the Fund was not involved in any commercial activities. The opening words of the prospectus for the initial public offering of the Fund described the Fund as an “unincorporated open-ended limited purpose trust”. The Fund declared that it intended to qualify as a mutual fund trust and some of its activities, as listed in the prospectus, were: investing in securities, holding cash and short-term government debt, paying amounts payable by the Fund in connection with the redemption of any Units and making distributions to Unitholders, issuing Units for cash; issuing debt securities, purchasing securities, etc. The Appellant itself has provided evidence from which I can conclude that the Fund’s activities were exempt financial services.
+(iii) …in the course of its commercial activity
+[39] The definition of commercial activity is:
+"commercial activity" of a person means
+· (a)
+a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+…
+[40] Because the Fund did not and could not have commercial activities, it cannot meet the last requirement in subsection 169(1). Consequently, it is not entitled to claim any ITCs.
+[41] However, it was the Appellant’s position that it was the recipient for the purposes of the ETA because it had paid for the services provided to the Fund. Counsel relied on the decision in BJ Services Co v Canada, [2002] TCJ No. 599 to argue that a corporation can still be eligible to claim ITCs for inputs unrelated to its day-to-day activities. However, BJ Services Co is distinguishable from the present appeal. BJ Services Co did not involve expenses paid on behalf of another entity nor were the expenses in respect of exempt financial services.
+[42] Even if the Appellant was the recipient as was argued by counsel, it cannot be said that the expenses were used in the course of its commercial activities. The expenses were incurred so that the Appellant would receive money from the Trust in exchange for partnership units of the Appellant. The issuance of those partnership units also constituted the making of an exempt supply.
+[43] Some of the expenses involved in this appeal were those for preparing the financial statements for the Fund, to make stock exchange applications, to make SEDAR filing, to prepare the prospectus for the Fund and to translate it into French, for the production and layout of the Fund’s 2004 Annual Report etc. The services purchased by these expenses were not used by the Appellant in the course of its commercial activities. They were used by the Fund. I agree with Angers J. that the definition of commercial activity is not broad enough to encompass the payment of fees for services necessary for the creation and maintenance of a distinct legal entity and to permit an ITC in respect of such fees: Scierie St-Elzéar Inc v Canada, 2005 TCC 738.
+[44] Counsel for the Appellant urged that the decision in A&W Trade Marks Inc v Canada, 2005 TCC 493 be followed on the basis that the facts in the present case are similar to those in A&W. In support, he submitted two of the exhibits which had been used at the hearing of A&W, namely, the Prospectus for the A&W Revenue Royalties Income Fund and the Administration Agreement between A&W Revenue Royalties Income Fund and A&W Trade Marks Inc. (the “Administrator”).
+[45] Mr. Lane stated that the A&W Income Fund was one of the first income fund restaurant pools issued and the PDM Royalties Income Fund was modeled after it.
+[46] In my opinion, there is a distinction between A&W and the case at bar. In A&W, it was found that the taxpayer acquired the goods and services. Based on the Administration Agreement between the Appellant and the Fund, I have found that the Fund acquired the goods and services. The Administration Agreement in the case at bar is similar to but not the same as the administration agreement in A&W. In A&W, there is no mention that the administrator is the agent of the fund; there is no section comparable to section 2.6 of the agreement in the present appeal; and, in A&W the administrator was not entitled to a fee for the services it provided to the fund. Also, it is not clear from the decision whether it was argued that the expenses in question were related to the provision of exempt supplies by the income fund. The Court in A&W found that the taxpayer “acquired the goods and services to enable it to borrow money in order to carry on its commercial activities”. In the present case, the Appellant issued partnership units in exchange for financing. It appears that different arguments were considered by the Court in A&W than were made in the present appeal.
+[47] In conclusion, the Appellant is not entitled to claim ITCs for expenses related to the Fund and which the Appellant paid in accordance with the Financing Agreement.
+(2) Did the Appellant provide documents to identify those expenses which apply directly to its commercial activities?
+[48] The Appellant must meet the documentary requirements of subsection 169(4) of the ETA and section 3 of the Input Tax Credit Information (GST/HST) Regulations (the “Regulations”) before it can claim input tax credits. The Regulations read:
+PRESCRIBED INFORMATION
+SECTION 3.
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+· (a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+· (i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+· (ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+· (iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+· (iv) the total amount paid or payable for all of the supplies;
+· (b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+· (i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+· (ii) the information set out in subparagraphs (a)(ii) to (iv),
+· (iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+· (A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+· (B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+· (I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+· (II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+· (iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+· (A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+· (B) the total (referred to in this paragraph as the "total tax rate") of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+· (C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+· (v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+· (c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+· (i) the information set out in paragraphs (a) and (b),
+· (ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+· (iii) the terms of payment, and
+· (iv) a description of each supply sufficient to identify it.
+[49] The Regulations are mandatory: Key Property Management Corp v The Queen, 2004 TCC 210; Davis v The Queen, 2004 TCC 662; affirmed by Systematix Technology Consultants Inc v Canada, 2007 FCA 226.
+[50] Many of the invoices in question were not addressed to the Appellant. They were addressed to the Fund or to a misnamed non-existent party or to a law firm or bank with a member of the PDM group in the “re” line, or to William Lane without referencing the party he represented on that particular account. Some invoices addressed to the Appellant were clearly in respect of work done for the Fund. In one instance, Mr. Lane stated that he had likely directed a printing company to invoice the Appellant instead of the Fund, even though the services (printing preliminary prospectuses) were being provided for the Fund. Mr. Lane explained that he made this direction because the Appellant was required to pay the invoice under the Financing and Administration Agreements.
+[51] Many of the invoices related to several different entities and there was no breakdown of the fees for each entity. For some invoices, Mr. Lane estimated the percentage of the fees which related to the Appellant’s commercial activities. I have not accepted his estimates because according to the Regulations and subsection 169(4) of the ETA, the Appellant is required to have documentation to show the amount of tax paid or payable in respect of each supply (See subclause 3(b)(iii)(A)of the Regulations). I do not have the discretion to waive the documentary requirements or to estimate the tax payable. That discretion is given to the Minister in subsection 169(5). As a result, where an invoice represented services to both the Appellant and the Fund and I could not ascertain the portion payable by the Appellant, I did not allow the ITC involved.
+[52] I have reviewed each invoice in exhibit A-3 which was referenced at the hearing and I have concluded that the Appellant is not entitled to claim an ITC for the following invoices and for the following reasons:
+(a) I could not ascertain the service provided or to whom the service was provided for the invoice at tab 13.
+(b) According to the invoice at tab 3, the services were provided to the Fund and other entities but not the Appellant.
+(c) The invoices at tabs 15, 17, 91, 116 and 143 are for services to the Fund, the Appellant and other entities. There was no allocation of the cost of the services to the various parties.
+(d) Mr. Lane testified that the services shown on the following invoices were provided to the Fund and paid by the Appellant pursuant to the Financing Agreement: Tabs 11, 18, 22, 25, 28, 37, 38, 39, 41, 44, 45, 46, 47, 49, 50, 57, 58, 59, 60, 64, 67, 68, 70, 73, 75, 78, 79, 85, 86, 89, 90, 94, 99, 100, 101, 104, 107, 108, 114, 118, 121, 124, 132, 135, 140, 142, and 149.
+(e) I have concluded from the services listed on the following invoices that the expenses were on behalf of the Fund: Tabs 4, 19, 20, 21, 26, 27, 29, 31, 56, 65, 66, 74, 96, 98, 106, 126, 128, 129, 139, 141, 144 and 168.
+(f) The invoices at tabs 88, 115 and 116 were for services for the Fund by its trustees.
+[53] The auditor allowed a portion of the ITCs contained in the following invoices. For the most part, I agree with his allocation but regardless, it is my opinion that I cannot allow an additional amount unless there is a document to support my finding. I also note that the auditor referred to documents in his report which were not submitted as exhibits at the hearing.
+Tab 123 – the auditor allowed 25% of the ITC claimed.
+Tab 51 – the auditor allowed 50% of the ITC claimed and in my view this was fair. The invoice relates to the tax filings of four entities.
+Tabs 61, 62, 71, 72, 80, 81, 82, 83, 92, 93, 102, 103, 117, 145, 147, 150, 151, 152, 164, 166 and 171 – the auditor allowed 50% of the ITCs claimed which was correct. The invoices were for fees and travel of the trustees/directors. The same individuals were trustees of the Fund and directors of the general partner of the Appellant.
+Tabs 131, 148, 153, 163 and 167 – based on conversations with Mr. Lane, the auditor allowed 80% of the ITCs contained on these invoices.
+Tab 87 – based on the services described on the invoice, the auditor allocated a portion of the ITC to the Appellant. His allocation was fair.
+[54] The ITCs in tabs 33 and 154 are not at issue in this appeal as the auditor allowed the entire amounts.
+[55] The invoices at tabs 122 and 127 are for expenses incurred by the Appellant in the course of its commercial activities. The documents at tabs 122 and 127 did not meet the documentary requirements and the Appellant was asked to provide further invoices. Unfortunately, the new invoices did not contain the GST/HST number of the supplier. See the letter dated September 21, 2006 at exhibit A-3, tab 181 which includes the new invoices.
+[56] It is my opinion that the Appellant can claim an ITC for the invoices at tabs 16 (in light of the comments in the letter at tab 17), 95, 97 and 119. I note that the auditor denied the ITC for the invoice at tab 119 on the basis of a document which was not before the court. In particular, these tabs contain the following invoices:
+(a) Tab 16 - the invoice from Ernst & Young dated June 11, 2004 – ITC $2,452.50;
+(b) Tab 95 - the invoice from KPMG dated August 11, 2005 – ITC $6,000.00;
+(c) Tab 97 - the invoice from RSM Richter Inc. dated August 12, 2005 - ITC $3,510.50;
+(d) Tab 119 – the invoice from KPMG dated September 14, 2005 – ITC $4,500.00.
+[57] For all of these reasons, the appeal is allowed.
+Signed at Halifax, Nova Scotia, this 29th day of August 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC270
+COURT FILE NO.: 2010-314(GST)G
+STYLE OF CAUSE: PDM ROYALTIES LIMITED PARTNERSHIP AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: June 7-8, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: August 29, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Raymond G. Adlington
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Raymond G. Adlington
+Firm: McInnes Cooper
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

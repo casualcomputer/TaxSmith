@@ -1,0 +1,210 @@
+---
+title: "Sarmadi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109993/index.do"
+last_modified: "2015-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 133"
+citation2: ""
+neutral_citation: "2015 TCC 133"
+decision_date: "2015-06-03"
+language: "en"
+item_id: "109993"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2830
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:20:43.892000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b2c877ec0cd41ea5499866f01c71b9870ecef643565a3a87874baa18f3e13e6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sarmadi v. The Queen
+
+- Citation: 2015 TCC 133
+- Decision date: 2015-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2830, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarmadi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-03
+Neutral citation
+2015 TCC 133
+File numbers
+2010-361(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-361(IT)G
+BETWEEN:
+SIROUS SARMADI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on October 27, 2014, at Toronto, Ontario with written representations submitted by the parties on December 11, 2014, January 12, 13, 27 and 28, 2015 and February 5, 2015.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+David A. Seed
+Counsel for the Respondent:
+Rita Araujo
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act dated June 22, 2009 in respect of the 2003 taxation year and December 7, 2009 in respect of the 2004 taxation year are dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 3rd day of June 2015.
+“Réal Favreau”
+Favreau J.
+Citation: 2015 TCC 133
+Date: 20150603
+Docket: 2010-361(IT)G
+BETWEEN:
+SIROUS SARMADI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These appeals, governed by the Tax Court of Canada Rules (General Procedure) (the “Rules”), are from two reassessments made under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the “Act”) in respect of the appellant’s 2003 and 2004 taxation years.
+[2] On November 14, 2006, the Minister of National Revenue (the “Minister”) reassessed the appellant’s 2003 and 2004 taxation years and accordingly, issued notices of reassessment on that date so as to:
+(a) increase rental income by $20,905 and $13,816 for the respective 2003 and 2004 taxation years;
+(b) increase business income by $132,471 and $160,667 for the respective 2003 and 2004 taxation years; and
+(c) levy gross negligence penalties on the underreported income for the 2003 and 2004 taxation years.
+[3] On June 22, 2009, the Minister reassessed the appellant’s 2003 and 2004 taxation years and accordingly, issued notices of reassessment on that date so as to:
+(a) reduce the business income by $83,265 and $86,170 for the respective 2003 and 2004 taxation years; and
+(b) adjust the gross negligence penalties accordingly.
+[4] On December 7, 2009, the Minister again reassessed the appellant’s 2004 taxation year and accordingly, issued another notice of reassessment on that date so as to:
+(a) reduce business income by $5,597; and
+(b) adjust the gross negligence penalties accordingly.
+[5] In determining the appellant’s tax liabilities for the 2003 and 2004 taxation years, the Minister made the following assumptions of fact, described in paragraphs 13(a) to (j) of the reply to the notice of appeal:
+(a) in 2003 and 2004, the Appellant operated a taxi business and had rental properties;
+(b) during the period in issue the Appellant was the owner of six properties;
+(c) the Appellant bought a property located at 34 Plains Road E., Burlington, Ontario for $470,000 in June 2003;
+(d) the Appellant bought a property at 1348 King Street E., Hamilton, Ontario for $185,000 in June 2004;
+(e) the Appellant paid for the Plains Road and King Street properties in cash;
+(f) the Appellant reported total income of $3,857 and $1,807 in the respective 2003 and 2004 taxation years;
+(g) at all material times, the Appellant resided with his spouse and three children;
+(h) in 2003 and 2004, the Appellant’s monthly personal expenditures exceeded $5,000 per month;
+(i) the Appellant failed to report rental income of $20,905 and $13,816 in the respective 2003 and 2004 taxation years; and
+(j) the Appellant failed to report business income of $49,206 and $68,900 in the respective 2003 and 2004 taxation years.
+[6] In determining that the Appellant was liable to penalties under subsection 163(2) of the Act, the Minister relied on the following assumptions of fact:
+(a) the facts stated in paragraphs 13(a) to 13(j);
+(b) the Appellant is a well-educated business man;
+(c) the Appellant knew, or ought to have known, that the income reported by him was insufficient to support his lifestyle; and
+(d) the Appellant made or participated in, assented to or acquiesced in the making of, false statements or omissions in his 2003 and 2004 income tax returns by failing to report all of his business income.
+[7] In paragraphs (d) and (e) of the notice of appeal, the appellant stated that during the course of the objection, evidence was provided to show that about $90,000 was loaned to him by his father in 2003 and 2004. This amount was not taken into account in the net worth calculation prepared by the Canada Revenue Agency’s auditor because the appellant was unable to provide documentation to show that his father loaned him $90,000 in 2003 and 2004. The funds were held by his father in cash, as a result of the sale of his former residence, and were provided to the appellant partly in 2003 ($60,000) and partly in 2004 ($30,000).
+[8] The only issue under appeal is whether the Minister correctly concluded that the appellant’s father did not lend the appellant a total of $90,000 during the 2003 and 2004 taxation years.
+The Appellant’s Evidence
+[9] The appellant and his father, Mr. Mohammad Sarmadi (hereinafter referred to as “Mr. Sarmadi Sr.”), testified at the hearing.
+[10] At the relevant times, the appellant lived in Toronto with his wife, Mijin Park, and three children at 2 Rollins Place. From approximately 1999 or 2000 to 2004, the appellant was studying at a community college to become a denturist.
+[11] The appellant testified that when he married Ms. Park, she already owned properties in Toronto that were subsequently transferred to him by way of gifts from Ms. Park’s family. The following properties were acquired by Ms. Park:
+(a) 11 Parker Avenue, Toronto – 1993, a bungalow transferred to the appellant in 2002;
+(b) 2 Rollins Place, Toronto – 1995, transferred to the appellant in 2002;
+(c) 60 Pavine Linkeway, Toronto – 1992, a three-bedroom condominium transferred to the appellant in 2000;
+(d) 5 Shady Golfway, Don Mills – 1992, a two-bedroom condominium transferred to the appellant in 2000.
+[12] Between 2003 and 2004, the appellant took mortgages on all properties listed in the preceding paragraph and increased business mortgage debts from $131,113 to $440,316 to assist the financing and the acquisition of the properties located at 34 Plains Road East in Burlington (a commercial plaza with four stores and three apartments) in 2003 and at 1348 King Street East in Hamilton (a small commercial plaza) in 2004. The appellant explained that he had hoped to establish his denturist practice in the Hamilton property.
+[13] The appellant has had the amount of approximately $90,000 added to his income because he could not demonstrate a paper trail to show how the cash he received from his father in 2003 and 2004 could be traced to a specific transaction or acquisition or expenditure for renovations. The appellant asserted that the funds from his father were advanced or used in increments and not in a large single transfer that can be easily identified. The cash advanced by the father to the appellant had a legitimate source and was used within the family unit. The appellant stated that he had sponsored his father, mother and sister as immigrants to Canada and had to guarantee that he was financially able to support them for 10 years in Canada. A decision was made for the two families to combine the two households to one shared house, namely the one located at 2 Rollins Place.
+[14] Mr. Sarmadi Sr. testified at trial to corroborate the evidence of the appellant who identified an advance of approximately $90,000 made by his father, as being the source of funds used to purchase the properties acquired in 2003 and 2004. The property located at 34 Plains Road East was purchased in cash on June 12, 2006 for a purchase price of $470,000 and the property located at 1348 King Street East in Hamilton was acquired on June 1, 2004 for a purchase price of $185,000.
+[15] Mr. Sarmadi Sr. was born in Iran and during his working life, he was both a teacher and a university professor. He is entitled to receive a modest pension from the Iranian government which he collects when he returns to Iran each year during the Canadian winters and resides at a property that he continues to own in Iran.
+[16] Mr. Sarmadi Sr., his wife and one daughter immigrated to Canada in 1996, sponsored by the appellant who undertook to financially support them for 10 years. Mr. Sarmadi Sr. has a wife, a son and two daughters and the family was reunited when he was able to come to Canada. Mr. Sarmadi Sr. sold real estate that he owned in Iran to fund the purchase of the property located at 9 Vickson Court in Toronto. He resided on Vickson Court with his spouse and one daughter.
+[17] Mr. Sarmadi Sr. sold the property at 9 Vickson Court in June 2002 and moved his spouse and daughter (who was attending school) into the house of the appellant at 2 Rollins Place. Mr. Sarmadi Sr. used the services of a lawyer, Norman Tomas, to act on the sale of the property at 9 Vickson Court. The net proceeds of the sale were paid by way of a solicitor’s trust cheque made to the order of Mohammad Sarmadi. The net proceeds of the sale were deposited in his CIBC bank account on June 24, 2002. On June 25, 2002, Mr. Sarmadi went alone to the CIBC branch and withdrew $85,000 in cash in $100 bills. Mr. Sarmadi Sr. explained that he had broken down the cash received from the teller into smaller amounts that he placed in envelopes each containing $5,000 to $10,000. He hid the envelopes in various and different pockets on his person for safety reasons and walked home alone. Upon arriving home, he placed these funds in a safe that he kept in his room in the basement of the appellant’s home. These funds were loaned to the appellant over the next 2½ years to assist him with living expenses. He testified that he eventually provided the appellant access to the entire amount as he needed.
+Inconsistencies Between the Evidence of the Appellant and Mr. Sarmadi Sr. Raised by the Respondent
+A. The net proceeds of the sale of 9 Vickson Court kept in a safe
+[18] Mr. Sarmadi Sr. received $85,327.33 from the proceeds of sale of his house which he deposited in his CIBC bank account on June 24, 2002. On June 25, 2002, Mr. Sarmadi Sr. went to his CIBC bank to withdraw $85,000 from his account. He claimed to have walked to the bank alone and to have withdrawn $85,000 in cash in one hundred dollar denomination. According to Mr. Sarmadi Sr., the bank provided him with envelopes that he used to divide the $85,000. Each envelope contained approximately $5,000 to $10,000. He then hid the envelopes into his pockets and walked back home alone.
+[19] Once he arrived home from his walk, Mr. Sarmadi Sr. put the $85,000 in cash in a safe or security box and the money remained there untouched for approximately one year. He stated that he kept the money in a security box because he intended to use the money for a down payment, should he buy another property in the future.
+[20] However, Mr. Sarmadi Sr. was unable to provide the exact location of the safe in the appellant’s home. Initially, he testified that it was not in the basement but he stated later that the safe was in the basement. He could not give the exact location of the safe, only that it was in “a corner downstairs.”
+[21] At trial, the appellant testified that his father received $90,000 in cash from the sale of his principal residence and put all of the money in a heavy safe. However, at examination for discovery, the appellant stated that his father put the money he received from the sale of the house, in GICs. It was invested to get a higher rate of interest. The answer at examination for discovery was not amended.
+[22] When this inconsistency was put to the appellant, he stated that at that time he did not know the money was in the safe – his father subsequently told him. However, the appellant also testified that he himself took money from the safe in 2003 and 2004 with his father’s permission. Therefore, he would have been aware at the time of his examination for discovery that the money was not in a GIC but in a heavy safe in his own home.
+B. The alleged loan
+[23] The appellant testified that his father loaned him approximately $90,000 during the 2003 to 2004 years but contradicted himself on several occasions as to how much he borrowed from his father at a time:
+(a) during the objection stage, the appellant stated that the funds were advanced to him in cash in sums of $5,000 or $6,000 at a time – there was no mention of a safe nor that he would take the money himself from that safe;
+(b) at examination for discovery, he testified under affirmation that his father was giving him $10,000, $15,000 or $20,000 each time. On one occasion, it was $15,000 and on two or three occasions, it was $10,000. But it was usually $10,000 as that amount was much easier to remember. Again, there was no mention of a safe and that he would take the money himself from that safe; and
+(c) at trial, he testified that he got money from his father’s safe himself and was unable to identify the amount of money he took out each time.
+[24] In contrast, Mr. Sarmadi Sr. testified that initially, he personally gave the appellant $5,000 then another $3,000. However, he was unable to identify the date or year those monies were allegedly advanced nor could he recall when he began advancing money to the appellant.
+[25] Mr. Sarmadi Sr. testified that after giving the appellant the initial $5,000 and $3,000 advances, he then gave him the key to the safe so that he would be able to take out money from the safe himself. However, he did not remember when he gave the appellant the safe key.
+C. Amounts of Alleged Loans Unknown
+[26] The appellant testified during his examination for discovery that he kept track of the amounts given to him by his father – he would write the amounts down in a diary and in his accounts. That diary and those accounts were never produced.
+[27] At trial, the appellant painted a different picture; he testified that he did not keep track of the amounts borrowed from his father nor did he keep receipts. The appellant did not even provide the Court with a breakdown of the amounts he supposedly received from his father in 2003 and 2004. He admitted that he had no documentation to support the fact that his father lent him $90,000 during the 2003 and 2004 years.
+[28] Mr. Sarmadi Sr. was also unable to shed light as to how much money he purportedly lent the appellant in 2003 and 2004. In fact, he did not know when the appellant took money from the safe and how much was taken each time. He did not keep a diary of the amounts borrowed and the appellant did not advise him of the dates and amounts, nor did he provide him with receipts.
+[29] In addition, Mr. Sarmadi Sr. was unaware by which date, all of the $90,000 had been taken from the safe and how much of that money was actually taken by the appellant. In fact, he did not even know if there was still money remaining in the safe from the $85,000 from the sale of his residence.
+[30] According to Mr. Sarmadi Sr., the appellant was supposed to repay the money borrowed but to this day, some 10 years later, he has not done so.
+D. Use of Alleged Loans Unknown
+[31] The appellant contradicted himself on numerous occasions as to the use of the approximate $90,000 allegedly borrowed from his father:
+(a) during the objection stage, the appellant initially stated that the funds received from his father were used to pay off his MBNA MasterCard account;
+(b) a few months later, he claimed that the borrowed funds were used from time to time to reduce amounts owing on his credit cards and for general living expenses;
+(c) at examination for discovery, the appellant testified under affirmation that all the $90,000 borrowed from his father was received by June 11, 2003 in order to buy the 34 Plains Road property; and
+(d) at trial, he testified that the monies obtained from his father were used to purchase the 34 Plains Road and 1348 King Street properties as well as to make renovations to those properties, including transforming one of the properties into a denture clinic.
+[32] When confronted with these contradictions on cross-examination, the appellant conceded that he did not remember how he used the money allegedly borrowed from his father. He was unable to remember how much, if any, was used to purchase the 34 Plains Road property and the 1348 King Street property.
+[33] As for Mr. Sarmadi Sr. he had no idea what the alleged loans were financing. He stated that he believed that “it was for his office for the denture” or for the appellant’s business but didn’t know which business. He also admitted that some of the money in the safe was given to his daughter for school tuition and for a private teacher.
+Analysis [34] In this case, the appellant failed to keep proper books and records as required by subsection 230(1) of the Act which reads as follows:
+230. (1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+[35] The information provided during the audit stage was inadequate and incomplete and the Canada Revenue Agency (“CRA”) utilized the net worth method to determine the appellant’s income for the years at issue.
+[36] In tax matters, the initial onus is on the taxpayer to demolish the assumptions on which the Minister based the assessments. The taxpayer meets his burden by presenting a prima facie case. Only if this condition is met, does the onus shift to the Minister, who must then rebut the taxpayer’s evidence and prove on the balance of probabilities, the validity of the assumptions relied upon by the Minister.
+[37] In this case, the Minister assumed that the appellant had unreported rental and business income. The appellant has the onus to satisfy this Court with a degree of specificity that the $90,000 comes from a non-taxable source.
+[38] Evidence considered sufficient to establish a fact until proof of the contrary constitutes prima facie evidence. Although a prima facie case is not conclusive evidence, the burden of proof put on the taxpayer is not to be easily shifted considering that the taxation system is a self-reporting system and that the business carried on by the taxpayer is his own business. The jurisprudence has established that the analysis of the totality of the evidence is relevant when determining whether a prima facie case has been met.
+[39] In this case, the Minister has established from reliable information that there is a discrepancy between the taxpayer’s assets and expenses, and that discrepancy continues to be unexplained which means that the burden of proof imposed on the Minister has been met. Consequently, the appellant has to bring forward credible and reliable evidence that $90,000 of the attributed amount is not income.
+[40] At trial, the appellant has brought forward no coherent, credible or reliable evidence. The explanations presented by the appellant and his father are simply implausible and are riddled with contradictions. Neither the appellant nor his father could provide the Court with a breakdown of the amounts borrowed during the 2003 and 2004 years; no dates or amounts were ever established. No documentation was submitted to support the appellant’s version of events that approximately $90,000 was in fact borrowed. General and vague assertions are not sufficient to set out a prima facie case.
+[41] The testimonies of the appellant and his father were not credible in the context of all the evidence advanced at trial. The appellant’s evidence was self-serving as well as riddled with inconsistencies and weaknesses. His version of events changed throughout the objection stage, discovery and at trial. None of the inconsistencies were explained.
+[42] Mr. Sarmadi Sr. was unable to corroborate much of the appellant’s testimony. During cross-examination, he admitted that he wanted to help his son in any way he could. His testimony was vague and not persuasive about the events that occurred in 2002 and 2004.
+[43] The appellant’s evidence and that of his father are unreliable. Both of them did not know when the appellant started borrowing money, how much was borrowed in 2003 and 2004 or the reasons for the borrowed monies. Mr. Sarmadi Sr didn’t even know how much of the $90,000 was still left in the safe as of the date of trial but he did state that some of those monies went to pay for his daughter’s tuition and a private teacher.
+[44] It is also entirely implausible that the appellant’s father walked to the bank alone at the age of 70 years old to take out $85,000 in cash. Also, it is even more unbelievable that the money remained untouched in the safe for almost a year until June 2003 when the appellant purchased the 34 Plains Road property; especially since the appellant’s father had minimal income, a small pension and required financial assistance from his children.
+[45] Even if Mr. Sarmadi Sr. provided evidence in the form of bank records, a cheque or records created by the lawyer acting on the sale of his house that he sold his house, moved into the appellant’s family home and brought with him in the form of cash, all of the proceeds of sale from the house, all of this evidence is not in itself sufficient for this Court to consider that the funds were actually advanced to the appellant and that the appellant had a source of funds that were not taxable.
+[46] The appellant has failed to provide a credible or reliable explanation for the discrepancy between his reported income and his net worth. His explanations were vague and uncorroborated by any documentary proof. Some corroboration is needed in a prima facie case. No reliable evidence has been produced to counter the Minister’s assumptions. The appellant has failed to shift his onus of proof and the reassessments should stand.
+[47] For these reasons, the appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 3rd day of June 2015.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2015 TCC 133
+COURT FILE NO.:
+2010-361(IT)
+STYLE OF CAUSE:
+Sirous Sarmadi and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 27, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+June 3, 2015
+APPEARANCES:
+Counsel for the Appellant:
+David A. Seed
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David A. Seed
+Firm:
+Borges & Associates
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

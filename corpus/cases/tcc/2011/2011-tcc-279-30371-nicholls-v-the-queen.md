@@ -1,0 +1,179 @@
+---
+title: "Nicholls v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30371/index.do"
+last_modified: "2011-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 279"
+citation2: ""
+neutral_citation: "2011 TCC 279"
+decision_date: "2011-05-19"
+language: "en"
+item_id: "30371"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7889
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:34:26.123000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0705fa3c531f28ca170be512227bb318aa5479d6974c044db4e561986255d77f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nicholls v. The Queen
+
+- Citation: 2011 TCC 279
+- Decision date: 2011-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7889, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicholls v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-19
+Neutral citation
+2011 TCC 279
+File numbers
+2010-1587(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2011 TCC 279
+Date: 20110527
+Docket: 2010-1587(IT)G
+BETWEEN:
+PATRICK E. NICHOLLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+(Amended to change neutral citation)
+Woods J.
+[1] This is an application by the appellant to set aside the Order of Justice V. Miller made on January 21, 2011 (the “January Order”) and to allow the underlying appeal.
+[2] It is the appellant’s submission that, at the hearing which led to the January Order, there was serious misconduct on the part of counsel for the respondent. In particular, it is alleged that the January Order was obtained through fraud.
+[3] This application is brought pursuant to subsection 172(2) of the Tax Court of Canada Rules (General Procedure). The provision is reproduced below, with the relevant part emphasized:
+172. (2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+may make a motion for the relief claimed.
+Background
+[4] On May 17, 2010, the appellant instituted an appeal in respect of a determination of loss for the 1998 taxation year. The substantive issue in the appeal is whether the appellant is entitled to a deduction in the amount of $266,123 as an allowable business investment loss (ABIL) incurred on the sale of shares.
+[5] On December 13, 2010, the appellant brought an application in respect of the appeal which sought a determination of a question of law pursuant to Rule 58(1)(a) of the Tax Court of Canada Rules (General Procedure) (the “December Motion”). It is this application that resulted in the January Order.
+[6] The question which the appellant sought to have decided was whether the ABIL should be disallowed “for reason of non-arm’s length alone.” The appellant submitted that an ABIL should not be disallowed solely on that ground (Appellant’s Factum, December Motion, para 2, 5).
+[7] The January Order dismissed the application for two reasons. First, it was concluded that the application was premature because the Reply had not yet been served in accordance with the Rules (Nicholls v The Queen, 2011 TCC 40, para 6).
+[8] Second, it was concluded that there was a dispute as to material facts in respect of the question of law. The relevant part of the reasons, para 7-10, are reproduced below.
+[7] However, even if the pleadings had been closed, I would have dismissed this application on the basis that the question posed is not one which could appropriately be decided under section 58.
+[8] The procedure under section 58 is a two step process. First the court must determine if the question is one which can appropriately be decided under section 58. If the answer to the first step is positive, then the Court will fix a date for the hearing of the question of law. In making that determination under paragraph 58(1)(a) of the Rules, the Court must be satisfied that there is no dispute as to any fact material to the question of law to be determined.
+[9] The Respondent has opposed the motion on the basis that there are a number of facts in dispute in this appeal. It has listed the following assumptions made by the Minister and additional facts relied on by the Minister as the facts in dispute:
+a) In 1997 the Appellant sold 8,500 shares of Mpact Immedia to an unknown party for an unknown amount;
+b) In 1997 the Appellant transferred 236,211 shares of Mpact Immedia to the Nicholls (Children) Family Trust in exchange for a promissory note valued at $1.45 per share;
+c) The Nicholls (Children) Family Trust was insolvent and the promissory note remained unpaid;
+d) The Appellant claimed a capital loss on the sale of the shares to the Nicholls (Children) Family Trust of $345,830.95 and an ABIL of $266,123.21 on his 1998 T1 General Income Tax and Benefit Return;
+e) The Appellant and the Nicholls (Children) Family Trust were not at arm’s length.
+f) The debt arising from the Appellant’s sale of shares to the Nicholls (Children) Family Trust was not acquired for the purpose of gaining or producing income.
+g) The Notice of Determination dated February 1, 2010, states in error that the net capital loss determined is nil. The Appellant was allowed a capital loss of $354,830 for the 1998 taxation year. The Appellant’s non-capital loss (ABIL) claimed was reduced to nil.
+[10] As there is a dispute as to material facts in respect of the question of law to be determined, it is not appropriate to order the requested determination. For all of the above reasons, the Appellant’s section 58 motion is dismissed.
+[9] In this application, the appellant seeks to have the January Order set aside on the ground that the decision was procured by fraudulent statements made by counsel for the respondent.
+[10] The purported fraudulent statements (“Statements”) concern which facts that the appellant intends to dispute. According to the appellant, the respondent falsely stated that the appellant was disputing several of the facts asserted by the respondent.
+[11] The Statements were set out in the respondent’s written representations filed prior to the hearing of the December Motion. They read:
+4. Here there are a number of facts in dispute and this appeal should properly be heard before a trial judge. The facts in dispute are found at the Respondent’s Reply at paragraphs 20 to 22 and include:
+a) In 1997 the Appellant sold 8,500 shares of MPact Immedia to an unknown party for an unknown amount;
+b) In 1997 the Appellant transferred 236,211 shares of MPact Immedia to the Nicholls (Children) Family Trust in exchange for a promissory note valued at $1.45 per share;
+c) The Nicholls (Children) Family Trust was insolvent and the promissory note remained unpaid;
+d) The Appellant claimed a capital loss on the sale of the shares to the Nicholls (Children) Family Trust of $354,830.95 and an ABIL of $266,123.21 on his 1998 T1 General Income Tax and Benefit Return;
+e) The Appellant and the Nicholls (Children) Family Trust were not at arm’s length.
+f) The debt arising from the Appellant’s sale of shares to the Nicholls (Children) Family Trust was not acquired for the purpose of gaining or producing income.
+g) The Notice of Determination dated February 1, 2010, states in error that the net capital loss determined is nil. The Appellant was allowed a capital loss of $354,830 for the 1998 taxation year. The Appellant’s non-capital loss (ABIL) claimed was reduced to nil.
+[12] The appellant submits that the Statements are fraudulent because they falsely state that a number of facts are in dispute. The appellant informed me that only one paragraph, (f) above, may possibly be in dispute. The facts in the other paragraphs are not disputed.
+[13] Further, the appellant submits that the respondent knew from the history of this matter that paragraphs (a) through (e), above, were not in dispute. I was not referred to any supporting evidence for this submission.
+Discussion
+[14] The allegations that are made against counsel for the respondent at the December Motion are serious. I will first consider the applicable legal principles.
+[15] I was not referred to any judicial decisions of this Court which have considered an application of this type. However, the respondent referred me to a recent decision concerning a similar rule in
+Ontario
+: Robson (Trustee of) v Robson, 2010 ONSC 4391.
+[16] Robson summarizes the relevant principles at paragraphs 23 and 24, and these are reproduced below.
+[23] The factors which must be established to set aside a judgment for fraud under Rule 59.06(2) were set out by Osbourne J. (as he then was) in International Corona Resources Ltd. v. LAC Minerals Ltd. (1988), 66 O.R. (2d) 610 (H.C.). They are:
+1. the fraud alleged must be proven on a reasonable balance of probabilities.
+2. the fraud must be material, that is, it must go to the foundation of the case.
+3. the evidence of fraud must not have been known to the moving party at the time of trial.
+4. the moving party must have exercised reasonable or due diligence at the trial.
+5. if the fraud alleged is that of a non-party, the determination of fraud is subject to greater scrutiny.
+6. the test for due diligence is objective.
+7. delay will defeat a motion under Rule 59.06.
+8. relief under Rule 59.06 is discretionary and the conduct of the moving party is relevant.
+9. at the end of the day, the moving party must show that a judgment was procured by fraud, that there has been a new discovery of something material, in that fresh facts have been found which, by themselves or in combination with previously known facts, would provide a reason for setting aside the judgment.
+[24] Fraud in the context of Rule 59.06 is a fraud on the court. The cases which have considered Rule 59.06 have adopted the definition of fraud set out by the House of Lords in Derry v. Peek (1889), 14 App. Case. 337 (H.L.): “fraud is proved when it is shewn that a false representation has been made (1) knowingly, or (2) without belief in its truth, or (3) recklessly, careless whether it be true or false.” See: Vale v. Sunlife Assurance of Canada Ltd. (1998), 39 O.R. (3d) 444 (Gen. Div.); Gregory v. Jolley, [2001] O.J. No. 2313 (
+C.A.
+); Calabrese v. Weeks, [2003] O.J. No. 4176 (S.C.J.); Granitile Inc. v.
+Canada
+, [2008] O.J. No. 4934 (S.C.J.).
+[17] It makes sense to follow the same principles in considering Rule 172(2) of this Court.
+[18] In applying these principles here, the appellant must show that the January Order was procured by fraud. He has failed to do this.
+[19] First, the Statements were known to the appellant at the time of the December Motion. This alone is fatal to this application based on the third factor set out in Robson.
+[20] Second, the purportedly false information was primarily within the knowledge of the appellant – not the respondent. The appellant knew which facts, if any, he was disputing. I am not satisfied that the appellant exercised reasonable due diligence at the hearing, as required by the fourth factor set out in Robson. I would note that I was not provided with a transcript of the proceedings at the December Motion.
+[21] Third, when the Statements were made by counsel for the respondent, he had every expectation that the appellant would inform the judge as to which facts he intended to dispute. The Statements were not made with the intent to deceive.
+[22] Fourth, it has not been established to my satisfaction by the appellant that the Statements were not reasonable ones for the respondent to make in the circumstances. At the time that the Statements were made, the litigation was at an early stage and the notice of appeal did not clearly state which facts were in dispute.
+[23] Fifth, even if the Statements were false, they did not procure the January Order. The main ground for the decision was that the application was premature.
+[24] This is not a circumstance in which it is appropriate to invoke Rule 172(2).
+[25] The appellant also took issue with several other aspects of the respondent’s conduct. His arguments fall far short of establishing fraud and it is not necessary that I discuss them in these reasons.
+[26] For all of the above reasons, the application will be dismissed.
+[27] As for costs, the respondent sought costs in the amount of $3,000.
+[28] I agree that higher than usual costs is warranted in these circumstances. The making of serious allegations of fraud, where unsubstantiated, should be discouraged by this Court. On the other hand, I am not satisfied that an award of $3,000 is appropriate.
+[29] I have decided to award costs to the respondent in the amount of $1,000. The costs are to be payable forthwith.
+[30] Finally, counsel for the respondent expressed great concern about the large number of proceedings that have been commenced in the past few years by the appellant in reference to this appeal and others. Counsel notes, for instance, that the appellant has already filed four motions in respect of this appeal, including another motion to set aside the January Order.
+[31] The respondent’s concerns are well founded. I would order that the appellant be prohibited from instituting further preliminary applications before this Court in respect of this appeal without leave of the Court. Any request for leave should be made in writing.
+[32] I will also make arrangements for a case management judge to be assigned in this matter.
+Signed at
+Toronto ,
+Ontario
+this 27th day of May 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 279
+COURT FILE NO.: 2010-1587(IT)G
+STYLE OF CAUSE: PATRICK E. NICHOLLS and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto ,
+Ontario
+DATE OF HEARING: May 9, 2011
+AMENDED REASONS FOR Hon. J.M. Woods
+ORDER BY:
+DATE OF AMENDED
+REASONS FOR ORDER: May 27, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa ,
+Ontario

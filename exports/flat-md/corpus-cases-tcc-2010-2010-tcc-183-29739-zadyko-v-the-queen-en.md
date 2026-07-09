@@ -1,0 +1,96 @@
+---
+title: "Zadyko v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29739/index.do"
+last_modified: "2010-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 183"
+citation2: ""
+neutral_citation: "2010 TCC 183"
+decision_date: "2010-03-31"
+language: "en"
+item_id: "29739"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6546
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:29:54.454000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "29fc6a162625b776faeea4e53d5ce55a0b0adfb72e6d754debd0fad9015e92f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zadyko v. The Queen
+
+- Citation: 2010 TCC 183
+- Decision date: 2010-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6546, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zadyko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-31
+Neutral citation
+2010 TCC 183
+File numbers
+2001-4632(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4632(IT)G
+BETWEEN:
+JERRY ZADYKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $3,899.07.
+Signed at Toronto, Ontario, this 31st day of March 2010.
+"Johanne Parent"
+Taxing Officer
+Citation: 2010 TCC 183
+Date: 20100331
+Docket: 2001-4632(IT)G
+BETWEEN:
+JERRY ZADYKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Johanne Parent, Taxing Officer
+[1] This matter came on for hearing by way of a telephone conference call on Friday, March 26, 2010. It follows an Amended Judgment of the Honourable Madam Justice Campbell of this Court issued on May 20, 2005 dismissing the appeals with costs upon granting the Respondent’s motion to dismiss the appeals of Mr. Zadyko along with five other related files.
+[2] The Appellants were then represented by Ms. Julie Amourgis, and the Respondent by Mr. Louis L’Heureux. At the time of the taxation of the Respondent’s costs, the Appellant was self-represented.
+[3] From the evidence on file and the Affidavit of Brittney Allen sworn on August 13, 2009, the Respondent first requested payment of its Bill of Costs by Mr. Zadyko in a letter dated March 6, 2006. Attached to that letter was a copy of the Court’s Amended Judgment along with the Respondent’s Bill of Costs. Similar letters were mailed to the Appellant on May 16, 2006 and April 30, 2009. On July 17, 2009, another letter was sent to the Appellant along with an Amended Bill of Costs, reducing the amount sought.
+[4] The Respondent filed its Amended Bill of Costs with the Tax Court of Canada on August 19, 2009. Upon confirming the availability of counsel for the Appellant and Respondent, a Notice of Appointment setting the date of March 2, 2010 to tax the Respondent’s Bill of Costs was issued and served on both parties on February 9, 2010.
+[5] On February 23, 2010, counsel for the Appellant filed and served a Notice of Cease to Act. As a result, the hearing to tax the Respondent’s Bill of Costs was postponed to a date to be set to allow proper communication with the Appellant. Soon after, the availability of both parties was confirmed for March 25, 2010 and a Notice of Appointment to hear arguments by conference call was issued and served on both parties. On March 15, 2010, the Appellant indicated that he was no longer available on March 25. As a result, both parties confirmed their availability for March 26 and an Amended Notice of Appointment was subsequently issued and served on both parties.
+[6] At the conference call held on March 26, 2010, when counsel for the Respondent was asked if there were any other amendments to its Bill of Costs of July 2009, the Appellant mentioned that he did not have a copy of this document. When referred to the document attached to the Notice of Appointment served upon him, the Appellant confirmed having it and submitted that he had no knowledge of the legal process before the Tax Court of Canada and did not understand the Respondent’s costs. In his view, crucial information was missing on file and Madam Justice Campbell’s decision should be reviewed. The Appellant proceeded to ask questions of the Respondent concerning the services of counsel under sections 1(1)(a) and (b) of Tariff B of the Tax Court of Canada Rules. When the Appellant was asked if he had further submissions, he mentioned not having any other comments with regards to the Tariff or disbursements claimed in the Amended Bill of Costs.
+[7] Prior to the hearing, the Appellant had several discussions with the Taxing Officer concerning scheduling. At no time during those discussions was there mention about reviewing Madam Justice Campbell’s decision, seeking legal advice or a lack of knowledge of the Tax Court of Canada process. The Appellant further agreed to the hearing dates as set in the Notices of Appointment as the initial scheduled date was postponed at his request. At no time during the hearing was there a request to adjourn made by either party.
+[8] I am satisfied that both parties were duly served with the Notices of Appointment and Amended Bill of Costs, that the Appellant had time to seek counsel and to review the documents along with the Tax Court of Canada Rules on taxation. Having reviewed the evidence on file, the applicable rules and tariff and the meagre arguments of the Appellant, I allow the Respondent’s Bill of Costs as presented.
+[9] The Bill of Costs is taxed, and I allow the sum of $3,899.07.
+Signed at Toronto, Ontario, this 31st day of March 2010.
+"Johanne Parent"
+Taxing Officer

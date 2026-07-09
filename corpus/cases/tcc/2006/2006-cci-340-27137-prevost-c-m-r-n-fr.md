@@ -1,0 +1,223 @@
+---
+title: "Prevost c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27137/index.do"
+last_modified: "2006-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 340"
+citation2: ""
+neutral_citation: "2006 CCI 340"
+decision_date: "2006-06-14"
+language: "fr"
+item_id: "27137"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 940
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:32:54.904000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f8730ffcdc3d41211c1f0e5d9bc3bf5784547fa939b26968a3ca8e950988c15"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prevost c. M.R.N.
+
+- Citation: 2006 CCI 340
+- Decision date: 2006-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 940, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prevost c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-14
+Référence neutre
+2006 CCI 340
+Numéro de dossier
+2005-4473(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-4473(EI)
+ENTRE :
+NATHALIE PRÉVOST,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FRÉDÉRIC DORGEBRAY,
+intervenant.
+____________________________________________________________________
+Appel entendu le 11 mai 2006, à Chicoutimi (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Claude Desbiens
+Avocat de l'intimé :
+Me Martin Gentile
+Pour l'intervenant :
+l'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est de la décision du ministre du Revenu national, en date du 5 décembre 2005, est accordé et la décision du ministre est infirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI340
+Date : 20060614
+Dossier : 2005-4473(EI)
+ENTRE :
+NATHALIE PRÉVOST,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FRÉDÉRIC DORGEBRAY,
+intervenant.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « Ministre » ) en date 5 décembre 2005, voulant que l'appelante n'ait pas exercé un emploi assurable auprès de Frédéric Dorgebray, faisant affaires sous la raison sociale « Les Chiens et Gîte du Grand Nord » , pour la période du 20 novembre 2004 au 20 mai 2005.
+[2] L'appelante est la conjointe de monsieur Dorgebray. Les faits sont ainsi décrits aux paragraphes 5 et 6 de la Réponse à l'avis d'appel (la « Réponse » ) :
+5 ...
+a) le payeur exploitait son entreprise sous la raison sociale de « Les chiens et Gîte du Grand Nord » ;
+b) le payeur était le seul propriétaire de l'entreprise;
+c) l'appelante est la conjointe du payeur;
+d) l'appelante est liée à une personne qui contrôle le payeur.
+6.
+a) le payeur offre des séjours avec hébergement en chalets et services de repas au chalet principal;
+b) le payeur prétend qu'il y a peu d'achalandage en dehors des périodes de travail de l'appelante et qu'il s'occupe alors de tout seul;
+c) les principales tâches de l'appelante se résumaient ainsi :
+-
+accueillir la clientèle,
+-
+préparer des forfaits,
+-
+établir l'horaire des guides,
+-
+répondre au téléphone,
+-
+entretenir les chalets,
+-
+préparer des repas,
+-
+s'occuper du contrôle de la qualité pour le bureau de normalisation du Québec;
+d) l'appelante devait faire quotidiennement des comptes rendus de ses activités et tâches au payeur;
+e) elle devait faire approuver par le payeur certains forfaits qu'elle préparait;
+f) contrairement aux autres travailleurs du payeur, les heures de travail de l'appelante n'étaient pas comptabilisées ou enregistrées par le payeur;
+g) l'appelante prétend que durant la période en litige elle travaillait 40 heures par semaine, il nous a été impossible de déterminer un horaire exact de travail considérant les versions différentes tant du payeur que de la travailleuse;
+h) durant la période en litige, l'appelante recevait une rémunération fixe de 400 $ par semaine, payée aux deux semaines (40 heures à 10,00 $ de l'heure);
+i) durant les 3 années précédentes à la période en litige, le payeur précise que l'appelante était rémunérée comme sous-contractante à 20 heures par semaine pour exécuter les mêmes tâches;
+j) le payeur prétend que l'appelante est passé de 20 heures par semaine à 40 heures par semaine dû à l'achalandage alors que le nombre de clients-visiteurs est passé de 160 pour la saison 2003-2004 à 186 personnes pour la saison 2004-2005;
+k) du 5 avril au 20 mai 2005, l'appelante était la seule inscrite au registre des salaires du payeur alors qu'il n'y avait plus aucun achalandage;
+l) durant cette période du 5 avril au 20 mai 2005, l'appelante aurait, avec l'aide de son conjoint, fait le nettoyage de 2 chalets et du restaurant, rangé et nettoyé les vêtements et l'équipement et mis à jour les renseignements sur les tarifs;
+m) l'appelante a continué de recevoir une rémunération fixe de 400 $ par semaine durant cette période; elle n'a encaissé sa dernière paie qu'après la vente du commerce, le 7 juillet 2005;
+n) la convention de vente de l'entreprise du payeur en date du 7 juillet 2005 fait état de plusieurs obligations en faveur de l'appelante et ne fait aucune mention des autres travailleurs (sauf le payeur).
+[3] Les deuxième et troisième paragraphes de l'Avis d'appel se lisent comme suit :
+...
+En effet, mon employeur, Mr. Frédéric Dorgebray, à l'époque de mon emploi était propriétaire de l'entreprise « Les Chiens et Gîte du Grand Nord » et mon conjoint. Mr. Frédéric Dorgebray m'a employé en qualité de secrétaire et responsable Qualité du 29/11/2004 au 20/05/2005 à 40 h par semaine.
+Mme Laberge n'a pas tenu compte d'un fait qui me semble primordial dans ce dossier : Mr. Dorgebray a vendu son entreprise en juin 2005 et les nouveaux propriétaires ont fait appel à mes services à compter du 14 novembre 2005 pour effectuer les mêmes tâches au même salaire et au même nombre d'heures. Cela démontre bien que même sans lien de dépendance entre l'employeur et l'employée, mon contrat de travail a été renouvelé et donc j'estime que la décision de l'Agence des douanes et de Revenu du Canada n'est pas justifiée.
+[4] L'acte de vente de l'entreprise en date du 7 juillet 2005 a été produit comme pièce A-6. L'employeur et l'appelante se sont référés à la clause 4.4.10 de cet acte, où il y a engagement de la part de l'acquéreur de retenir leurs services. Je cite :
+...
+Les acheteurs doivent en priorité faire appel aux services du vendeur et de sa conjointe avant d'engager d'autres employés pour une durée minimale de trois (3) ans et négocier de bonne foi des contrats de travail à durée déterminée (salariés à l'année). ...
+[5] Les nouveaux propriétaires ont signé en date du 14 novembre 2005 une attestation d'emploi, produite comme pièce A-7. L'avocat de l'intimée s'est opposé à la production de cette attestation parce que les signataires n'étaient pas présents pour témoigner. L'opposition a été acceptée pour décision future.
+[6] L'attestation se lit comme suit :
+ATTESTATION D'EMPLOI
+Nous soussignons, Madame Fabienne NOORTS Présidente et Monsieur Dirk SEGERS Vice-Président de l'entreprise « Les Chiens et Gîte du Grand Nord » attestent employer Madame Nathalie PRÉVOST depuis le 14 novembre 2005 et ce jusqu'à fin avril 2006 en qualité de secrétaire et Responsable Qualité et assume les tâches suivantes :
+-
+tenue du programme qualité,
+-
+nettoyage des chalets
+-
+préparation et services des petit-déjeuners,
+-
+travail de bureau
+Fabienne NOORTS
+Dirk SEGERS
+Présidente
+Vice-Président
+(signature)
+(signature)
+[7] Le relevé d'emploi de madame Prévost, émis par les nouveaux propriétaires en date du 20 avril 2006, a été produit comme pièce A-8. Il couvre la période du 14 novembre 2005 au 29 avril 2006. Son travail est décrit comme employée du bureau. Les heures sont au nombre de 880 pour une rémunération de 9 152 $, incluant une paye de vacances de 352 $, ce qui donne comme résultat 22 semaines de 40 heures au taux horaire de 10 $.
+[8] Monsieur Dorgebray a expliqué qu'il a commencé une entreprise de tourisme d'aventure dans les Alpes françaises. En 1994, il a continué le même genre d'entreprise à St-David de Falardeau, Québec. C'est un tourisme axé sur les activités d'hiver comme notamment les randonnées en traîneaux tirés par des chiens, la motoneige et la raquette. En plus des activités d'hiver, il offre l'hébergement et la restauration. La saison commence à la fin novembre et se poursuit jusqu'à la mi-avril. La clientèle est de 80 % de provenance européenne.
+[9] En 2001 et 2002, le chiffre d'affaires progressait. Le 4 février 2004, l'entreprise a obtenu un certificat de conformité du Bureau de normalisation du Québec pour la prestation des services de tourisme de nature et d'aventure.
+[10] Selon monsieur Dorgebray, la normalisation a entraîné plus d'efforts car il fallait suivre les règles relatives à cette normalisation. Le sommaire de ces règles a été produit comme pièce A-3. L'augmentation de la clientèle et les efforts supplémentaires exigés par la normalisation sont les éléments principaux qui auraient amené monsieur Dorgebray à prendre la décision que madame Prévost devrait fournir plus d'heures auprès de l'entreprise et qu'il serait souhaitable qu'elle devienne une employée de l'entreprise plutôt qu'une travailleuse autonome. C'est alors qu'il aurait rédigé le contrat de travail à durée déterminée produit comme pièce A-2. Les tâches décrites à l'article 4 sont les suivantes :
+ARTICLE 4 : FONCTIONS :
+Nathalie PREVOST assumera les tâches suivantes :
+-
+tenue du programme qualité,
+-
+accueil de la clientèle,
+-
+nettoyage des chalets,
+-
+préparation et services des petits-déjeuners,
+-
+préparation des dîners pour les guides,
+-
+préparation des soupers,
+-
+Travail de bureau,
+[11] La durée du contrat est du 29 novembre 2004 au 20 mai 2005.
+[12] Monsieur Dorgebray a relaté que les autres employés sont des guides. Leur taux horaire est de 11,25 $ la première année et 13,00 $ la deuxième année.
+[13] Madame Prévost vient de Nancy, France. Elle y a obtenu un diplôme de secrétaire de direction. Monsieur Dorgebray et madame Prévost se sont mariés le 14 juin 2003. Ils se connaissaient depuis 2001. Les deux époux n'ont pas d'enfants. Monsieur Dorgebray a eu trois enfants d'un mariage précédent, dont les âges s'étendent maintenant de 13 à 20 ans. Il avait la garde partagée des enfants.
+Analyse et conclusion
+[14] L'opposition faite par l'avocat de l'intimée à la production de l'attestation de travail de madame Prévost est valable. Mais je suis d'avis que vu la production du relevé d'emploi de l'appelante émis par les nouveaux propriétaires, je dois accepter l'attestation. Autrement, il faudrait tout nier. Il n'y a pas eu d'opposition de la part de l'intimée concernant le relevé. Les deux documents auraient pu être accompagnés des chèques de paie de madame Prévost. Ce qui aurait fait une preuve d'emploi plus solide. En tout cas, je crois à la bonne foi des signataires, à moins de preuve contraire.
+[15] Un des principaux points de l'intimée est que le dernier client de l'entreprise a été le 5 avril 2005. L'alinéa k) mentionne que du 5 avril au 20 mai 2005, l'appelante était la seule inscrite au registre des salaires du payeur. Le témoignage de l'employeur et de l'employée est à l'effet qu'il a fallu nettoyer les chalets, remettre en état l'équipement et ranger les choses. Cette description est reprise à l'alinéa l) qui ajoute la mise à jour des renseignements sur les tarifs.
+[16] Un autre point est que l'appelante ne travaillait que 20 heures par semaine quand elle était travailleur autonome auprès de l'entreprise de son mari au cours des trois années précédentes. Il s'agit de l'alinéa i) de la Réponse. À cela, les deux répondent que la tâche de travail avait augmenté, tel que décrit à l'alinéa j) de la Réponse. Plus de clients, plus de forfaits à soumettre aux agences, plus de rapports à soumettre au gouvernement.
+[17] Je reprends quelques autres faits sur lesquels le Ministre s'est également fondé pour ne pas lever l'exclusion de l'emploi.
+[18] L'énoncé de l'alinéa f) : contrairement aux autres travailleurs du payeur, les heures de travail de l'appelante n'étaient pas comptabilisées ou enregistrées par le payeur. Ma compréhension des faits est que le travail de l'appelante était différent de celui des guides. Son emploi était à plein temps. Cela explique pourquoi les heures n'étaient pas comptabilisées.
+[19] L'énoncé de l'alinéa m) : l'appelante a continué de recevoir une rémunération fixe de 400 $ par semaine durant cette période; elle n'a encaissé sa dernière paie qu'après la vente du commerce, le 7 juillet 2005. Pour moi, cet énoncé prouve plutôt qu'il s'agissait d'un vrai contrat d'emploi
+[20] L'énoncé de l'alinéa n) :la convention de vente de l'entreprise du payeur en date du 7 juillet 2005 fait état de plusieurs obligations en faveur de l'appelante et ne fait aucune mention des autres travailleurs (sauf le payeur). Je ne comprends pas quel impact négatif cela peut avoir sur l'emploi de l'appelante. L'employeur et l'appelante n'ont pas nié être liés. Je ne vois rien d'anormal à ce que le vendeur veuille protéger ou s'assurer de deux emplois et de deux revenus.
+[21] Je suis d'avis que la preuve a révélé une situation où l'entreprise payait véritablement l'appelante quand elle était travailleur autonome et quand elle a été employée. Il ne s'agit pas d'une affaire où l'entreprise n'avait pas les moyens de payer le salaire de l'employée, ou que, si cette dernière est payée, elle remet le tout dans les fonds de l'entreprise. En fait, c'est ce que confirme l'allégué de l'alinéa m) de la Réponse.
+[22] Dans son avis d'appel, l'appelante a mentionné qu'elle travaillait pour les nouveaux propriétaires au même salaire et pour la même période. Il n'y a pas eu de preuve contraire. Les nouveaux propriétaires ne sont pas venus témoigner mais ils ont signé l'attestation ainsi que le relevé d'emploi.
+[23] Il me faut constater que la rémunération était fort raisonnable. En ce qui concerne la durée : l'appelante a continué à travailler environ un mois après le départ du dernier client. Au départ, le contrat d'emploi mentionnait une certaine durée. De plus, l'entreprise devait être vendue. Il était donc normal de faire un effort spécial pour la mettre en bon état de présentation. Il me faut aussi constater que les versions des faits n'ont pas changé et sont logiques en regard de la nature de l'entreprise.
+[24] En conclusion, je suis d'avis, que l'employeur aurait conclu une entente à peu près semblable avec une autre personne dans les circonstances décrites dans cette affaire.
+[25] L'appel est en conséquence accordé et la décision du ministre est infirmée.
+Signé à Ottawa, Canada, ce 14e jour de juin 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI340
+N º DU DOSSIER DE LA COUR : 2005-4473(EI)
+INTITULÉ DE LA CAUSE : NATHALIE PRÉVOST c. M.R.N. ET FRÉDÉRIC DORGEBRAY
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 11 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 14 juin 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Claude Desbiens
+Avocat de l'intimé :
+Me Martin Gentile
+Pour l'intervenant :
+l'intervenant lui-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Claude Desbiens
+Cabinet : Aubin Girard Côté
+Chicoutimi (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

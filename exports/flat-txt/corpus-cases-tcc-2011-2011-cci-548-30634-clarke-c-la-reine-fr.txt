@@ -1,0 +1,147 @@
+Title: Clarke c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30634/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-548-30634-clarke-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-12-07
+
+# Clarke c. La Reine
+
+- Citation: 2011 CCI 548
+- Decision date: 2011-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7128, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clarke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-07
+Référence neutre
+2011 CCI 548
+Numéro de dossier
+2008-1493(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1493(IT)I
+ENTRE :
+MARCIA CLARKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes préliminaires de l’intimée et
+appels entendus le 24 octobre 2011, à Toronto (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Roxanne Wong
+JUGEMENT
+Requêtes préliminaires
+Conformément aux motifs du jugement ci-joints, la Cour accueille, par les présentes, la requête de l’intimée en annulation des appels interjetés par l’appelante relativement à son droit au supplément de revenu de l’Ontario pour les familles travailleuses ayant des frais de garde d’enfants, son droit à la prestation fiscale canadienne pour enfants pour les années de base 2006 et 2007 et son droit au crédit pour taxe sur les produits et services pour l’année d’imposition 2006.
+Appels
+Conformément aux motifs du jugement ci-joints, les appels interjetés à l’encontre des nouvelles cotisations établies pour les années d’imposition 2001, 2002, 2003, 2004 et 2005 sont accueillis et :
+1. à l’égard des années d’imposition 2001 et 2002, les nouvelles cotisations, y compris les pénalités, sont annulées;
+2. à l’égard des années d’imposition 2003, 2004 et 2005, les pénalités sont annulées;
+3. à l’égard des années d’imposition 2003 et 2004, les nouvelles cotisations sont renvoyées au ministre du Revenu national (le « ministre ») pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a droit aux déductions de frais de garde d’enfants qu’elle a demandées, sous réserve du plafond de 7 000 $ imposé en application de l’article 63 de la Loi de l’impôt sur le revenu;
+4. à l’égard de l’année d’imposition 2005, la nouvelle cotisation est renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit à une déduction pour un don de bienfaisance de 25 $ fait en 2005.
+DE PLUS, LA COUR ORDONNE que le droit de dépôt de 100 $ payé par l’appelante lui soit remboursé.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2011CCI548
+Date : 20111207
+Dossier : 2008-1493(IT)I
+ENTRE :
+MARCIA CLARKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Marcia Clarke, interjette appel de divers aspects des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de ses années d’imposition 2001, 2002, 2003, 2004 et 2005.
+Les requêtes préliminaires de l’intimée
+[2] Au début de l’audience, l’intimée a tout d’abord présenté une requête en annulation des appels de l’appelante concernant son droit au supplément de revenu de l’Ontario pour les familles travailleuses ayant des frais de garde d’enfants. L’avocate de l’intimée a soutenu qu’il s’agissait d’une question de droit fiscal provincial et que la Cour canadienne de l’impôt n’avait donc pas compétence pour connaître de cet aspect de l’appel. C’est un exposé juste du droit applicable, et la requête de l’intimée a été accueillie.
+[3] L’avocate de l’intimée a demandé en outre l’annulation des appels de l’appelante concernant son droit à la prestation fiscale canadienne pour enfants (« PFCE ») pour les années de base 2006 et 2007 (correspondant respectivement aux périodes de juillet 2007 à juin 2008 et de juillet 2008 à juin 2009) et son droit au crédit pour taxe sur les produits et services (« CTPS ») pour l’année d’imposition 2006 (correspondant à la période de juillet 2007 à avril 2008). Au soutien de cette requête, l’intimée a produit l’affidavit de Tracey Cooper qui, j’en suis persuadée, montrait, d’une part, que l’appelante ne s’était pas opposée à juste titre à la détermination du ministre concernant la PFCE et, d’autre part, qu’en ce qui concerne le CTPS, le ministre n’avait pas encore fait de détermination. Bien que je ne sois pas certaine, au vu de l’avis d’appel de l’appelante, que celle-ci entendait interjeter appel à l’égard de ces questions, dans l’hypothèse où elle entendait le faire, les appels sont annulés pour les motifs exposés plus haut.
+Les concessions de l’intimée
+[4] À l’audience, l’avocate de l’intimée a avisé la Cour que le ministre était disposé à faire certaines concessions et que les appels devraient être accueillis pour les motifs suivants:
+1. à l’égard des années d’imposition 2001 et 2002, les nouvelles cotisations, y compris les pénalités, devraient être annulées parce qu’il y avait prescription;
+2. à l’égard des années d’imposition 2003, 2004 et 2005, les pénalités devraient être annulées parce que leur imposition par le ministre n’était pas justifiée;
+3. à l’égard des années d’imposition 2003 et 2004, les nouvelles cotisations sont renvoyées au ministre du Revenu national (le « ministre ») pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a droit aux déductions de frais de garde d’enfants qu’elle a demandées, sous réserve du plafond de 7 000 $ imposé en application de l’article 63 de la Loi de l’impôt sur le revenu;
+4. à l’égard de l’année d’imposition 2005, la nouvelle cotisation est renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit à une déduction pour un don de bienfaisance de 25 $ fait en 2005.
+Questions en litige dans les appels
+[5] Les questions qui subsistent concernent le droit de l’appelante, dans différentes années d’imposition, à des paiements au titre de la PFCE et du CTPS, ainsi que des déductions pour des pertes locatives, des frais de garde d’enfants et un don de bienfaisance.
+[6] Avant de statuer sur ces questions, quelques remarques s’imposent au sujet de la crédibilité de l’appelante et de la fiabilité des documents présentés au soutien de ses prétentions. J’ai le regret de dire que j’ai trouvé son témoignage généralement peu convaincant. L’appelante a souvent allégué ne rien savoir des détails d’événements ou de transactions ou ne pas s’en souvenir, surtout lorsque ces détails étaient susceptibles de nuire à sa cause. Par exemple, lorsqu’on l’a interrogée au sujet de sa situation de famille pour établir son droit à des paiements au titre de la PFCE, l’appelante a affirmé ne pas savoir où son époux avait résidé après leur séparation, une position qu’elle a maintenue même lorsqu’on a plus tard attiré son attention sur des éléments de preuve montrant que son époux utilisait l’adresse du père de l’appelante comme adresse résidentielle dans ses déclarations de revenus. L’appelante a affirmé qu’elle ne se souvenait pas de l’adresse de ses parents et qu’elle n’avait jamais discuté avec ces derniers de sa séparation de son époux, et ce, après qu’elle eut elle‑même affirmé que, durant cette période, elle avait communiqué régulièrement avec son père, qui l’avait aidée financièrement en achetant de la nourriture et des fournitures pour bébés et avait aidé son entreprise de location en effectuant des réparations à la résidence familiale. L’appelante a allégué ne pas savoir que son époux possédait un autre bien qu’il avait loué à d’autres ou dans lequel il avait lui‑même vécu à une certaine époque durant leur séparation alléguée, mais elle a ensuite admis avec réticence qu’elle en avait eu vent [traduction] d’« amis » non nommés quelque temps après le fait.
+[7] En outre, bien que l’appelante ait affirmé ne pas s’y connaître en matière fiscale, ses pratiques ont démontré une certaine perspicacité dans ses transactions financières. Par exemple, l’appelante faisait tous ses achats et ses paiements au comptant et elle ne conservait des documents que lorsque cela pouvait lui être avantageux. Sa conduite s’accorde davantage avec une tentative délibérée d’échapper à l’attention des autorités fiscales qu’avec une ignorance des affaires fiscales. Les quelques documents qu’elle a produits étaient pour la plupart soit des documents intéressés ou des documents auxquels il manquait certains détails essentiels, comme des reçus ne comportant pas le nom complet du payeur ou auxquels il manquait des renseignements aussi élémentaires que l’objet du paiement pour lequel un reçu avait été délivré.
+[8] L’intimée a appelé à témoigner l’agente des litiges Tracey Cooper et l’époux de l’appelante, Wesley Clarke. Mme Cooper a soigneusement présenté tous les renseignements qu’elle avait recueillis lorsqu’elle avait examiné les dossiers fiscaux de l’appelante et de son époux. J’ai n’ai aucune raison de douter du témoignage de Mme Cooper. Quant au témoignage de M. Clarke, il était tout aussi peu persuasif que celui de l’appelante.
+1. Paiements au titre de la PFCE et du CTPS
+[9] La question en litige est celle de savoir si l’appelante et son époux, Wesley Clarke, ont vécu « séparés » de manière à conférer à l’appelante le droit de recevoir des paiements au titre de la PFCE pendant les années de base 2003, 2004 et 2005 ainsi qu’au titre du CTPS pour 2006. L’appelante avait le fardeau de réfuter l’hypothèse du ministre selon laquelle, durant la période pertinente, l’appelante et son époux avaient vécu ensemble dans une relation conjugale avec leurs deux enfants.
+[10] L’appelante a essentiellement demandé à la Cour de la croire sur parole lorsqu’elle a affirmé qu’en raison de l’inconduite de son époux, l’appelante lui avait demandé de quitter la résidence familiale à la fin de 1999 ou au début de 2000 et son époux était seulement revenu lorsqu’ils s’étaient réconciliés à un moment donné en 2006. L’appelante n’a produit aucun témoignage ni aucun document pour corroborer sa prétention selon laquelle elle et son époux avaient vécu séparément durant cette période.
+[11] La cause de l’appelante n’a rien gagné en solidité lors de son contre‑interrogatoire. L’appelante a affirmé n’avoir jamais parlé de la séparation à son père ni à aucun autre membre de sa famille parce qu’il s’agissait d’une affaire privée. Elle a admis qu’après le départ allégué de son époux, elle n’avait exercé aucun recours pour protéger ses droits ou ceux de ses enfants à un soutien financier. Elle n’avait rien fait pour faire cesser la livraison d’une partie du courrier adressé à son époux (dont des relevés T-4 et d’autres documents importants relatifs à son emploi) à l’adresse de la résidence familiale. Elle a affirmé qu’elle n’avait pas cherché à devenir l’unique propriétaire de la résidence familiale – dont elle et son époux étaient copropriétaires – parce que le nom de son époux devait demeurer sur le titre de propriété afin que l’hypothèque soit maintenue, mais l’appelante n’a présenté aucun élément de preuve pour expliquer pourquoi il en était ainsi. L’appelante a prétendu avoir fait tous les paiements hypothécaires elle-même, mais il a par la suite été révélé que les chèques de remboursement d’impôt de M. Clarke avaient été déposés dans un compte conjoint utilisé pour les paiements hypothécaires. L’appelante a tout d’abord affirmé qu’elle avait dû louer le sous-sol de la résidence familiale pour joindre les deux bouts, mais elle a affirmé par la suite que [traduction] « nous » (soit elle et son époux) [traduction] « [avons] toujours loué notre sous‑sol ».
+[12] Dans l’ensemble, l’appelante n’a pas réussi à me convaincre que, de 1999 à 2006, elle et son époux avaient vécu « séparés » pour l’application de la Loi de l’impôt sur le revenu. Dans ces circonstances, il n’y a aucune raison de renvoyer la nouvelle cotisation au ministre à l’égard des années d’imposition en question.
+2. Pertes d’entreprise découlant d’une location immobilière
+[13] La question en litige est celle de savoir si, en 2003, en 2004 et en 2005, l’appelante exploitait une entreprise dans le cadre de laquelle elle louait le sous-sol de la résidence familiale et, le cas échéant, si l’appelante a supporté les dépenses déduites dans ses déclarations pour générer le revenu de location déclaré.
+[14] L’appelante a affirmé qu’elle louait le sous-sol au mois de temps à autre à des étudiants ou à des familles au prix du marché pour les appartements. Elle n’a fourni aucun détail quant à la nature du logement locatif. Elle avait pour pratique de ne pas conclure de contrat écrit avec ses locataires allégués et de n’accepter que de l’argent comptant pour le paiement du loyer. Elle n’a produit que quelques exemples de reçus (pièce A-1). Ces reçus n’avaient pas été délivrés aux personnes dont le nom figurait sur les reçus et au moment où le loyer avait été payé; l’appelante établissait plutôt les reçus annuellement (apparemment à la demande de ses locataires), et à seule fin de permettre à ses locataires de demander des crédits d’impôt provincial au titre du loyer. La plupart des reçus sont incomplets ou comportent des inexactitudes : deux d’entre eux sont simplement délivrés à « Vida »; le reçu no 3440 indique que le montant a été payé par [traduction] « mandat », mais l’appelante a dit que cela était inexact parce que le paiement aurait été fait au comptant. Certains reçus portent la signature « Marcia Clarke », d’autres, « Marcia Ferguson », un n’est pas signé, et un autre porte une signature illisible. Les montants justifiés par des reçus ne correspondent pas au revenu de location déclaré par l’appelante dans sa déclaration de cette année-là. Si l’appelante avait été un témoin plus crédible, il aurait peut-être été moins important qu’elle produise des documents au soutien de ses prétentions. Puisque ce l’était, les éléments de preuve documentaire sur lesquels l’appelante s’est appuyée n’étaient pas plus convaincants que son témoignage.
+[15] Le ministre soutient que l’appelante n’exploitait pas une entreprise dans le cadre de laquelle elle louait son sous-sol et que, par conséquent, aucune perte ne peut être déduite à cet égard. Puisque l’appelante n’a pas réussi à réfuter cette hypothèse, il n’est pas nécessaire d’établir si les dépenses déduites à l’égard de l’entreprise ont été supportées. Toutefois, par souci de prudence, j’ajouterais ceci : l’appelante n’a produit aucun élément de preuve documentaire au soutien de ses prétentions à l’exception d’une carte de visite qui, selon ses dires, provenait d’une personne qui avait fait certaines réparations à un certain moment. L’appelante a également affirmé que son père était charpentier et qu’il avait fait des travaux dans la maison, mais elle n’a fourni aucune preuve des travaux qui auraient été réalisés ni des montants qu’elle aurait payés pour ces travaux, et ce, dans aucune des années d’imposition. L’appelante n’avait aucune facture de services publics ni aucun compte de taxe ni aucune preuve de paiement de pareils comptes ou factures relativement à son bien. Dans ces circonstances, je ne suis pas du tout persuadée que l’une quelconque des dépenses déduites ait effectivement été supportée.
+3. Déductions pour frais de garde d’enfants en 2005
+[16] La question en litige est celle de savoir si, en 2005, l’appelante a supporté des frais de garde d’enfants de 4 000 $, un montant qu’elle dit avoir payé au comptant à sa gardienne, « Lisa ». Au soutien de cette prétention, l’appelante a produit en preuve un reçu supposément obtenu de Lisa (pièce A-4). Le premier problème que pose ce reçu est qu’il a été établi par l’appelante elle-même parce que, comme elle l’a allègrement expliqué, Lisa ne déclarait pas ses revenus de gardiennage et avait donc refusé de fournir à l’appelante le genre de détails qui auraient pu autrement conférer une certaine légitimité au reçu, c’est-à-dire le nom de famille de Lisa, son adresse et son numéro d’assurance sociale.
+[17] Abstraction faite de la non-fiabilité du reçu, j’ai peine à croire que l’appelante aurait laissé son fils avec une gardienne dont elle savait si peu de choses. Là où l’appelante a été crédible, c’est lorsqu’elle a expliqué le soin qu’elle avait mis à trouver des services de garde de qualité pour son petit garçon en 2003 et en 2004. Elle avait pour ces années des reçus de l’école Montessori que le ministre a finalement admis. Je ne parviens tout simplement pas à croire que, l’année suivante, cette même femme aurait laissé son enfant avec une inconnue, à qui elle aurait payé 4 000 $ au comptant sans obtenir aucune preuve de paiement. En conséquence, je doute fort qu’un tel paiement ait été fait. Pour ce motif, il n’y a aucune raison de renvoyer la nouvelle cotisation au ministre en ce qui concerne les frais de garde d’enfants déduits par l’appelante pour l’année en question.
+4. La question du don de bienfaisance
+[18] En 2005, l’appelante a déclaré des dons de bienfaisance totalisant 5 125 $. Tel que je l’ai précédemment mentionné, le ministre a concédé que 25 $ du montant déclaré était un don de bienfaisance valable.
+[19] L’appelante soutenait que les 5 100 $ restants avaient été donnés à un organisme de bienfaisance enregistré connu sous le nom de l’« Organisation de soutien à la subsistance de l’Afrique ». Ce montant représentait la somme de paiements au comptant totalisant 2 000 $ et de dons en nature évalués à 3 100 $. Au soutien de cette prétention, l’appelante a produit en preuve une copie d’un document intitulé [traduction] « Reçu officiel de don de bienfaisance aux fins de l’impôt » (pièce A‑7).
+[20] L’appelante a dit qu’elle avait remis 2 000 $ en argent comptant à son spécialiste en déclarations de revenus pour que celui-ci en fasse don pour son compte, mais que le spécialiste ne lui avait pas donné de reçu pour ce montant. L’appelante a dit que le don en nature avait pour objet le mobilier de chambre à coucher de sa mère décédée, qu’elle entreposait dans son garage et que le spécialiste avait fait ramasser.
+[21] Lors de son contre-interrogatoire, l’appelante a dit que c’était après qu’un ami ou un collègue lui eut parlé de l’Organisation de soutien à la subsistance de l’Afrique qu’elle avait décidé de faire un don. Elle en savait peu au sujet de cet organisme de bienfaisance, mais il était suffisant pour elle de savoir que l’organisme avait quelque chose à voir avec l’Afrique.
+[22] L’appelante a admis qu’après que toutes les déductions eurent été appliquées, il lui restait à peine assez d’argent pour assurer sa subsistance et celle de deux enfants et qu’elle ne recevait aucune aide financière de son époux. Les fonds utilisés pour faire le don à l’Organisation de soutien à la subsistance de l’Afrique provenaient d’une somme d’argent que lui avait léguée sa mère à son décès en 2001. L’appelante a dit qu’elle avait également utilisé cet argent pour payer une partie de ses frais de subsistance, et pourtant, curieusement, elle ne parvenait pas à se rappeler combien elle avait reçu. De plus, elle ne disposait d’aucun document testamentaire pour corroborer ses dires.
+[23] L’intimée a produit en preuve un affidavit souscrit par Michael Scott[1], un administrateur de l’Organisation de soutien à la subsistance de l’Afrique responsable de l’établissement et de la production des états financiers de l’organisme de 2004 à 2007. Lorsqu’on lui a mentionné le paragraphe 5 de la déclaration sous serment de M. Scott selon laquelle [traduction] « l’Organisation de soutien à la subsistance de l’Afrique n’a jamais reçu aucun don et l’organisation n’a jamais délivré aucun reçu de don », l’appelante s’est contenté de répondre qu’elle avait un reçu valide de l’organisme, qui, à l’époque où elle avait remis l’argent comptant et les biens à son spécialiste en déclarations de revenus en 2005, était un organisme de bienfaisance enregistré désigné sur le site Web de l’Agence du revenu du Canada.
+[24] La réponse simple à la prétention de l’appelante est que celle-ci n’a pas droit à la déduction qu’elle a demandée au titre du don qu’elle allègue avoir fait à l’Organisation de soutien à la subsistance de l’Afrique parce que le reçu produit comme pièce A-7 ne satisfait pas aux exigences du paragraphe 118.1(2) de la Loi de l’impôt sur le revenu et de l’article 3500 et du paragraphe 3501(1) du Règlement de l’impôt sur le revenu. La pièce A-7 n’indique pas « le lieu ou l’endroit où le reçu a été délivré », comme l’exige l’alinéa 3501(1)d), ni « une brève description du bien » constituant le don en nature, comme l’exige le sous-alinéa 3501(1)e.1)(ii).
+[25] Même s’il était satisfait à ces exigences, je ne crois tout simplement pas que l’appelante a fait un « don » de 5 100 $ à l’Organisation de soutien à la subsistance de l’Afrique. Le mot « don » n’est pas défini dans la loi, mais, dans l’arrêt The Queen v. Friedberg, 92 DTC 6031, à la page 6032, le juge Linden en donne la définition suivante :
+[…] [U]n don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie. […]
+[26] L’appelante s’est décrite comme une femme au revenu modeste, abandonnée par son époux avec deux enfants à sa charge, forcée de louer son sous-sol, et comptant sur son père pour boucler ses fins de mois. Et pourtant, du même souffle, elle voudrait me faire croire qu’elle a subitement eu le désir de faire un don appréciable à un organisme de bienfaisance dont elle ne savait à peu près rien. Elle n’a indiqué aucune provenance crédible des fonds qu’elle alléguait avoir donnés à l’Organisation de soutien à la subsistance de l’Afrique; et elle n’a produit aucun élément de preuve pour corroborer son estimation, de 3 100 $, pour la valeur du mobilier de chambre à coucher qui avait déjà servi (entreposé dans son garage pendant quatre ans). Non contente de frauder le fisc, l’appelante a essayé de faire croire ce faisant qu’elle avait fait un don de bienfaisance.
+[27] Dans ces circonstances, il n’y a aucune raison d’autoriser plus que le montant de 25 $ que l’intimée a concédé pour l’année d’imposition 2005.
+Conclusion
+[28] Les appels des nouvelles cotisations relatives aux années d’imposition 2001, 2002, 2003, 2004 et 2005 sont accueillis uniquement pour donner effet aux concessions de l’intimée :
+1. à l’égard des années d’imposition 2001 et 2002, les nouvelles cotisations, y compris les pénalités, sont annulées;
+2. à l’égard des années d’imposition 2003, 2004 et 2005, les pénalités sont annulées;
+3. à l’égard des années d’imposition 2003 et 2004, les nouvelles cotisations sont renvoyées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a droit aux déductions de frais de garde d’enfants qu’elle a demandées, sous réserve du plafond de 7 000 $ imposé en application de l’article 63 de la Loi de l’impôt sur le revenu;
+4. à l’égard de l’année d’imposition 2005, la nouvelle cotisation est renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit à une déduction pour un don de bienfaisance de 25 $ fait en 2005.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de janvier 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 548
+NO DU DOSSIER DE LA COUR : 2008-1493(IT)I
+INTITULÉ : MARCIA CLARKE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 octobre 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 7 décembre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Roxanne Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-4.

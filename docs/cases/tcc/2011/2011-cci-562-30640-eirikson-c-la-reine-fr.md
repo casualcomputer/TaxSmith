@@ -1,0 +1,194 @@
+---
+title: "Eirikson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30640/index.do"
+last_modified: "2011-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 562"
+citation2: ""
+neutral_citation: "2011 CCI 562"
+decision_date: "2011-12-09"
+language: "fr"
+item_id: "30640"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7134
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:24:21.061000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "333ee0d14050236feeb448719c47d245d5686c8a6a81c83d9f0a2b20fb5ec7c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eirikson c. La Reine
+
+- Citation: 2011 CCI 562
+- Decision date: 2011-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7134, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eirikson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-09
+Référence neutre
+2011 CCI 562
+Numéro de dossier
+2011-96(GST)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-96(GST)I
+ENTRE :
+LARRY et SUSAN EIRIKSON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 octobre 2011, à Ottawa, Canada.
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Représentant des appelants :
+M. Larry Eirikson
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 24 août 2009 et porte le numéro 09104001012320032, pour la période allant du 7 mars au 31 décembre 2008, est rejeté, et la cotisation établie par le ministre est confirmée.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2011.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 28e jour de février 2012.
+Erich Klein, réviseur
+Référence : 2011 CCI 562
+Date : 20111209
+Dossier : 2011-96(GST)I
+ENTRE :
+LARRY et SUSAN EIRIKSON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période du 7 mars au 31 décembre 2008, dont l’avis porte le numéro 09104001012320032 et la date du 24 août 2009. Au vu de la déclaration de taxe sur les produits et services (« TPS ») produite par les appelants pour la période de déclaration susmentionnée, le ministre a établi une cotisation à leur égard dans laquelle il a fixé à 6 866,67 $ le montant dû au titre de la TPS et à 100,92 $ les intérêts applicables, et a refusé le crédit de taxe sur les intrants demandé par les appelants.
+Éléments de preuve produits devant la Cour
+[2] Selon son témoignage, Larry Eirikson s’est inscrit aux fins de la TPS en 2008 et s’est vu attribuer un numéro de TPS. Citant le paragraphe 7 de la réponse à l’avis d’appel, il a admis l’ensemble des hypothèses de fait dont il est fait état dans ce paragraphe, à l’exception de celles des alinéas h), j), k) et l) et de celles énoncées aux paragraphes 8 et 9.
+[3] Il admet que la somme en cause est de 6 866,67 $.
+[4] Le présent appel concerne la demande d’un crédit de taxe sur les intrants à l’égard de l’achat d’un yacht utilisé par les appelants, au cours de la période en cause, dans une entreprise de location de bateau.
+[5] Il affirme que, depuis 2008, le yacht en question n’a servi à aucune fin personnelle. Le bateau était amarré à plus de huit heures de route de son domicile. Les appelants avaient signé un contrat relatif à l’utilisation du bateau, aux termes duquel ils étaient tenus, s’ils entendaient en faire un usage personnel, le signaler à la société de gestion, Canadian Yacht Charters (« CYC »), et payer pour l’utiliser.
+[6] La manière dont ils ont lancé cette entreprise d’affrètement correspond aux usages dans ce secteur d’activité. Ils font affaire avec la même entreprise d’affrètement depuis l’année 2000.
+[7] Il a reconnu dans l’onglet 1 de la pièce R-1 le contrat que lui et son épouse ont signé avec CYC. Aux termes de cet accord, il est tenu de remettre à CYC 50 % du prix de location.
+[8] Entre 2000 et 2008, les appelants ont été propriétaires de deux yachts différents. Les deux ont été achetés à crédit, les appelants effectuant des versements mensuels et versant parfois en fin d’année une somme forfaitaire en paiement des intérêts.
+[9] Au cours de l’année d’imposition 2009, ils ont, à l’égard du bateau en cause en l’espèce, versé 13 795 $ en intérêts.
+[10] Ils ont, pour l’achat du deuxième bateau, obtenu un crédit de 206 019,48 $ au taux d’intérêt de 3,25 %. Ils n’ont pas été en mesure de ramener à moins de 13 000 $ par an les paiements d’intérêts.
+[11] La saison de location va du 1er mai au 21 octobre, mais la haute saison correspond aux vacances estivales, le bateau pouvant cependant parfois être loué en mai, en septembre et en octobre. Le yacht, entièrement fermé, est équipé d’un dispositif de chauffage.
+[12] Le témoin a reconnu dans la pièce R-2 les états des résultats pour le yacht.
+[13] Le registre d’affrètement du bateau ne révèle qu’un seul affrètement en mai et aucun en octobre. Jamais le bateau n’a été loué pour l’ensemble du mois de septembre. Il arrivait qu’il soit loué pour deux semaines en septembre, mais la location n’était en général que pour une seule semaine.
+[14] Entre 2000 et 2010, l’exploitation du bateau n’a jamais généré de profit.
+[15] Selon l’appelant, les renseignements les plus précis figurent dans les déclarations de revenus. La société d’affrètement ne payait pas certaines dépenses et c’étaient les appelants qui les couvraient.
+[16] Il a témoigné concernant les projections qu’il a faites pour l’année 2009 et qui figurent à l’onglet 5 de la pièce R-1. Ces projections ne tenaient pas compte des intérêts à verser.
+[17] L’appelant reconnaît que pour atteindre, en 2011, les recettes prévues de 42 800 $ indiquées à l’onglet 5 de la pièce R-1, il aurait fallu que les bateaux soient loués pendant tout le mois de juillet et tout le mois août, ainsi que pendant deux semaines en septembre et en octobre. Mais, même le nouveau bateau n’était jamais loué pendant tout le mois de juillet et tout le mois d’août, ni pendant les deux semaines de plus en juin et en septembre. Il reconnaît que les versements d’intérêts rendaient tout bénéfice impossible. Ils auraient pu faire un bénéfice s’ils étaient parvenus à réduire le principal. Il reconnaît également qu’en 10 ans le premier bateau a perdu 34 % de sa valeur et qu’un yacht ne prend jamais de valeur avec les années. La valeur nette du nouveau bateau se situe entre 150 000 $ et 160 000 $. C'est là un élément dont il faut tenir compte.
+[18] Il a affirmé, en réinterrogatoire, que ses projections étaient fondées sur la situation économique de l’époque à laquelle elles ont été établies.
+[19] Son épouse et lui avaient envisagé de réduire la dette et de rentabiliser l’entreprise, mais n’avaient finalement rien fait pour y arriver.
+[20] Jina Choi, agente des litiges à l’Agence du revenu du Canada (l’« ARC »), a été appelée par l’intimée. Elle avait une connaissance personnelle du dossier. Elle a identifié les déclarations de revenus des appelants, produites par Internet, et ces déclarations T1 ont été admises en preuve. Les chiffres qui se trouvent à l’onglet 3 de la pièce R-1 proviennent du rapport des données financières et ce sont les chiffres actuels.
+[21] Elle a identifié le document qui se trouve à l’onglet 13 de la pièce R-1, soit un graphique qui montre la tendance en ce qui concerne le revenu des appelants au cours d'une période de dix ans.
+[22] Lors de son contre-interrogatoire, elle a affirmé s’occuper de ce dossier depuis le mois de mai 2011. Elle n’a pas d’expérience dans le domaine de l’affrètement.
+[23] Elle a dit que l’onglet 8 de la pièce R-1 ne contient pas de données puisqu’il s’agit d’un document produit sur support papier et accepté tel quel. Seule la déclaration de TPS a fait l’objet d’une vérification. Elle ne savait pas pourquoi.
+[24] En faisant le graphique qui figure à l’onglet 13 de la pièce R-1, elle n’a pas pris en compte la déduction pour amortissement (« DPA »). Sans la déduction pour amortissement, l’entreprise aurait généré un profit en 2007.
+Arguments avancés au nom de l’intimée
+[25] Dans ses observations écrites, et dans sa plaidoirie, l’avocat de l’intimée a reconnu que les appelants avaient une certaine expérience des bateaux et des yachts; toutefois, même en faisant abstraction de la DPA, l’entreprise aurait été déficitaire, mis à part un faible bénéfice de 715 $ enregistré en 2005.
+[26] Abstraction faite de l’achat du nouveau yacht, les appelants exploitent depuis l’année 2000 la même entreprise. Comme dans l’affaire Canadian Dredge and Dock Company Limited v. The Minister of National Revenue, 81 DTC 154, il y a lieu de prendre en compte les profits et les pertes de l’entreprise depuis ses débuts. Le graphique montre que les intérêts excluaient constamment toute possibilité de bénéfice. L’entreprise était [traduction] « trop endettée » pour que l’on eût pu raisonnablement s’attendre à ce qu’elle soit rentable. Malgré presque dix ans consécutifs de pertes, rien n’a été fait pour remédier à cet état de choses. Il n’y a eu, en l’occurrence, aucune attente raisonnable de profit. Il ne peut donc pas s’agir d’une activité commerciale, et, par conséquent, les appelants n’étaient pas en droit de demander en vertu de l’article 169 de la Loi un crédit de taxe sur les intrants relativement à l’achat du yacht.
+[27] Lorsque les appelants ont acheté le deuxième bateau, ils avaient en main tous les chiffres relatifs aux revenus, aux dépenses et, en particulier, aux intérêts. Les appelants auraient dû savoir que cette entreprise ne pouvait pas être exploitée avec une « expectative raisonnable de profit », et ne pouvait donc pas constituer une activité commerciale.
+[28] Les projections des appelants étaient, mathématiquement, irréalistes, et les données financières dont ils disposaient ne permettaient aucune attente raisonnable de profit. La part des recettes revenant aux appelants ne suffisait pas à couvrir les charges d’exploitation. La situation en l’espèce est comparable à celle dans les décisions Stacey c. Canada, [1997] A.C.I. no 117 (QL), [1997] 2 C.T.C. 2703, et Dinnall c. Canada, [1995] A.C.I. no 1768 (QL), [1996] 3 C.T.C. 2647.
+[29] L’avocat de l’intimée soutient que, dans une affaire de TPS, on peut recourir au critère défini dans l’arrêt Moldowan[1] pour déterminer s’il y a une expectative raisonnable de profit, parce que dans l’arrêt Bowden c. Canada, 2011 CAF 218, la Cour d’appel a jugé que « […] le droit d’un contribuable aux crédits de taxe sur les intrants ne dépend pas de la question de savoir si le contribuable a payé ou non la TPS relativement à une “entreprise”, mais plutôt de celle de savoir s’il a payé la TPS relativement à une “activité commerciale” ».
+[30] En l’espèce, le contribuable a dépassé ce qui peut être considéré comme une période raisonnable de démarrage et il n’y avait aucune attente raisonnable de profit.
+[31] En ce qui concerne les intentions des contribuables en l’espèce, il leur fallait, pour pouvoir justifier d’une attente raisonnable de profit, démontrer qu’ils avaient l’intention objective de réduire la dette. Or, ils ne l’ont pas fait. Ils n’avaient aucun plan réaliste en vue de réduire la dette peu de temps après l’achat du bateau, afin de pouvoir dégager un bénéfice. En l’espèce, les contribuables ne se sont pas acquittés du fardeau qui leur incombait (voir Klotzin c. Canada, [2000] A.C.I. no 249 (QL), [2000] 3 C.T.C. 2074).
+[32] Les locations ne rapportaient pas assez aux contribuables pour que l’entreprise soit rentable. Même lorsque le yacht était loué pendant des mois au complet, comme c’était le cas en juillet et en août, ils n’arrivaient qu’à couvrir les charges d’exploitation. Leurs projections quant à la réalisation de bénéfices ne tenaient pas compte des versements d’intérêts, mais prenaient uniquement en compte le principal.
+[33] Or, il arrive un moment où le contribuable doit prendre en compte la dépréciation.
+[34] Il y a lieu de rejeter les appels.
+Arguments avancés par les appelants
+[35] Les appelants font valoir qu’ils n’ont fait du yacht aucun usage personnel, et qu’on ne peut pas invoquer l’usage personnel pour leur refuser le crédit de taxe sur les intrants.
+[36] Il y avait une entreprise et une source de revenus. Les appelants ont eu recours aux services d’une entreprise de gestion pour promouvoir l’entreprise et procéder aux investissements qu’exigeait sa viabilité à long terme. L’avocat de l’intimée reconnaît qu’il existait une entreprise; or, s’il y avait une entreprise l’exigence d’une attente raisonnable de profit ne s’applique pas étant donné qu’il ne s’agit pas d’un projet personnel. Ici il n’y a aucun aspect personnel.
+[37] Comme permet de le constater l’onglet 12 de la pièce R-1, l’entreprise a réalisé un bénéfice en 2005 si l’on fait abstraction de la déduction pour amortissement. Il y aurait également eu un bénéfice en 2008 si l’entreprise n’avait pas acheté un autre bateau.
+[38] Comme l’entreprise a presque réalisé un profit en 2008 et compte tenu des conseils reçus de consultants, l’achat d’un nouveau bateau était une bonne idée.
+[39] La DPA est une inscription comptable et ne constitue pas de l’argent. En 2005 et en 2007, si l’on ne prend pas en compte la DPA, l’entreprise a réalisé un bénéfice, ou presque. Les appelants ont réduit de 16 000 $ le capital du prêt.
+[40] Le premier bateau est devenu rentable an 2005. C’est l’âge de ce bateau, et les frais d’entretien qu’il occasionnait qui les ont portés à changer de bateau.
+[41] En 2008, ils ont dû, en raison des règlements, installer sur le bateau pour 4 000 $ de nouveaux équipements. En 2010, ils ont dû faire des dépenses exceptionnelles en remplaçant un canot pneumatique perdu et en effectuant certaines réparations que le vendeur ne pouvait pas payer pour cause de faillite.
+[42] En 2008 et en 2009, toutes les dépenses engagées étaient des dépenses normales qu’il fallait faire en vue de la saison de location. Les dépenses de 2009 étaient d'un genre plus habituel que celles qui avaient été faites en 2008, année de l’achat du bateau.
+[43] Leurs projections auraient dû pouvoir se réaliser dans cinq ans, mais cela n’a pas été le cas en raison de changements apportés à l’entreprise. C’est l’un des risques auxquels on s’expose dans ce secteur d’activité.
+[44] L’entreprise était, en 2008, la même qu’elle avait été en 2000, mais, afin d’accroître les revenus, les appelants y ont apporté un changement en portant à 3 700 $ par semaine le tarif d'affrètement, qui avait été, jusque-là, de 2 500 $.
+[45] Les appelants contestent l’argument avancé par l’intimée selon lequel il était déraisonnable de leur part de lancer une entreprise d’affrètement, car il y en a beaucoup qui exploitent ce genre d’entreprise et cela rapporte gros.
+[46] L’avocat de l’intimée a relevé, lors du réinterrogatoire, le fait que les exigences ne sont pas les mêmes que celles qui s’appliquent sous le régime de la Loi de l’impôt sur le revenu. Les dispositions applicables en matière de TPS exigent en effet une attente raisonnable de profit.
+[47] Il ne peut pas, aux fins de la TPS, y avoir d’entreprise s’il n’y a aucune attente raisonnable de profit. L’avocat de l’intimée ne reconnaît pas avoir qualifié d’« entreprise » les activités des appelants. Il faut, selon lui, s’en remettre à la définition contenue dans la loi.
+[48] Les appelants affirment avoir, en deux ans, remboursé 16 000 $ sur ce qu’ils devaient, mais il est clair qu’ils n’ont pas suffisamment réduit leur endettement pour pouvoir raisonnablement espérer faire un bénéfice dans les quelques années suivant l’achat du bien en question. La feuille de calcul aurait dû être établie en fonction des dépenses effectives et non pas seulement en fonction des reçus.
+[49] Il ne suffit pas de prendre en compte uniquement les frais d’intérêts. Il faut en effet tenir compte de l’ensemble des frais d’exploitation.
+Analyse et décision
+[50] Il ressort de la preuve et des arguments des appelants qu’un article qu’avait lu l’appelant lui avait fait penser que l’attente raisonnable de profit n’entrait pas en ligne de compte pour décider s’ils avaient droit au crédit de taxe sur les intrants qu’ils demandent. L’appelant avait conclu, à la lecture de cet article, que, comme il n’y avait eu aucun usage personnel des yachts en question et comme l’avocat du ministre avait admis qu’il [traduction] « exploitait une entreprise », la seule question était de savoir s’il gérait son entreprise comme le ferait un homme d’affaires sérieux.
+[51] La Cour n’est pas persuadée que, lorsque l’avocat de l’intimée a parlé de l’« entreprise » des appelants, il entendait autre chose qu’une simple « activité ».
+[52] Quoi qu’il en soit, la Cour est convaincue que le principe énoncé dans l’arrêt Moldowan demeure juridiquement valable et que l’expectative raisonnable de profit dont il est traité dans cet arrêt est un élément dont on peut à bon droit tenir compte en examinant si les appelants en l’espèce ont droit à un crédit de taxe sur les intrants en vertu de la Loi sur la taxe d’accise.
+[53] En l’espèce, comme c’était le cas dans l’arrêt Bowden, la restriction apportée par les arrêts Stewart[2] et Walls[3] n’est, pour les appelants, d’aucun secours. Dans l’arrêt Bowden, il est clairement indiqué que « […] le droit d’un contribuable aux crédits de taxe sur les intrants ne dépend pas de la question de savoir si le contribuable a payé ou non la TPS relativement à une “entreprise”, mais plutôt de celle de savoir s’il a payé la TPS relativement à une “activité commerciale” ».
+[54] Dans ce contexte-là, l’expression « activité commerciale » n’a pas son sens ordinaire. Aux fins de la TPS, elle est expressément définie comme signifiant une entreprise exploitée avec une attente raisonnable de profit (voir la définition contenue dans la Loi). Cette définition reconnaît implicitement qu’une entreprise peut exister en l’absence d’une attente raisonnable de profit, mais elle précise qu’une entreprise exploitée sans attente raisonnable de profit ne constitue pas une « activité commerciale ».
+[55] La Cour est convaincue que dans les circonstances existant en l’espèce l’entreprise était trop endettée pour que l’on ait pu raisonnablement s’attendre à un profit.
+[56] Ainsi que l’a fait valoir l’avocat de l’intimée, l’activité en cause a été exercée à perte pendant plus de dix années consécutives. Au cours de cette période, les appelants n’ont pas fait grand-chose pour corriger la situation, si ce n’est d’acheter un nouveau yacht, plus performant, et de modifier leurs tarifs afin d’accroître leurs revenus. Ni l’un ni l’autre de ces changements n’a permis, cependant, d’améliorer sensiblement le résultat net de l’entreprise.
+[57] La feuille de calcul et le graphique figurant à l’onglet 13 de la pièce R-1, qui ont été produits en preuve, montrent clairement que, depuis l’année 2000, l’entreprise a toujours été déficitaire. Même si l’on fait abstraction de la DPA, l’entreprise demeure déficitaire, sauf en 2005, année dans laquelle il y aurait eu un petit bénéfice de 715 $.
+[58] Il ressort clairement du graphique que si les appelants ne font pas de profits c’est à cause des frais d’intérêts. Sans réduction importante de ces frais, il n’y a aucune expectative raisonnable de profit. Il n’y a aucun élément de preuve qui établit que les appelants envisageaient de prendre des mesures en vue d’une telle réduction importante des frais d’intérêts. La seule chose qu’ils aient faite a été de rembourser 16 000 $ sur le principal, mais cela ne leur a guère permis de redresser d’assez lamentables pratiques financières suivies systématiquement depuis le début.
+[59] Ils ont également augmenté le tarif de location du yacht, mais là encore, cela n’a guère eu d’effet sur le résultat net de l’entreprise.
+[60] Il est vrai que les appelants ont eu à faire plusieurs dépenses imprévues, mais ce n'était rien, cependant, que des gens d’affaires raisonnables n’auraient pas pu anticiper. Les appelants n’ont pas obtenu les résultats prévus par leurs propres projections et, sur la foi de l’ensemble de la preuve, la Cour doit conclure que ces projections n’étaient pas raisonnables. La preuve présentée fait clairement ressortir que les seules façons dont les appelants auraient pu parvenir au stade où il y aurait eu une attente raisonnable de profit auraient été d’accroître sensiblement leurs recettes et de réduire sensiblement leurs frais d’intérêts. Or, cela, ils ne l’ont pas fait.
+[61] Il ne leur était pas possible de réduire de façon appréciable leurs frais d’exploitation, car ceux-ci ne varient guère.
+[62] Ainsi que l’a fait valoir l’avocat de l’intimée [traduction] « les contribuables n’ont pas pu établir qu’ils avaient l’intention de rembourser une partie appréciable de la dette […] ni n’ont démontré qu’ils avaient élaboré un plan réaliste pour réduire, dans les quelques années suivant l’achat du yacht, le principal de la somme empruntée, afin de rentabiliser l’entreprise ».
+[63] Les contribuables se sont vu, à n’en pas douter, accorder une période de démarrage raisonnable pour rentabiliser leur entreprise, mais ils n’y sont pas parvenus.
+[64] L’appel est rejeté et la cotisation du ministre est confirmée.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2011.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 28e jour de février 2012.
+Erich Klein, réviseur
+RÉFÉRENCE : 2011 CCI 562
+No DU DOSSIER DE LA COUR : 2011-96(GST)I
+INTITULÉ DE LA CAUSE : LARRY et SUSAN EIRIKSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 19 octobre 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge T.E. Margeson
+DATE DU JUGEMENT : Le 9 décembre 2011
+COMPARUTIONS :
+Représentant des appelants :
+M. Larry Eirikson
+Avocat de l’intimée :
+Me Shane Aikat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Moldowan c. La Reine, [1978] 1 R.C.S. 480.
+[2] Stewart c. Canada, 2002 CSC 46, [2002] 2 R.C.S. 645.
+[3] Walls c. Canada, 2002 CSC 47, [2002] 2 R.C.S. 684.

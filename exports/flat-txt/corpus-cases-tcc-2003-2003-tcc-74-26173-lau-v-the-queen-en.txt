@@ -1,0 +1,150 @@
+Title: Lau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26173/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-74-26173-lau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-01-21
+
+# Lau v. The Queen
+
+- Citation: 2003 TCC 74
+- Decision date: 2003-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3971, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-01-21
+Neutral citation
+2003 TCC 74
+File numbers
+2000-1594(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Date: 20030121
+Docket: 2000-1594(GST)G
+BETWEEN:
+AGATHA KIT CHUN LAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard with the appeal of Patrick Wing Chu Lau (2000-1596(GST)G)
+on September 4 and 5, 2002 and motion with respect to costs heard
+on January 20, 2003 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+Counsel for the Appellant:
+Robert J. Morris, Esq.
+Counsel for the Respondent:
+J. Michelle Farrell
+_______________________________________________________________
+JUDGMENT
+Whereas reasons for judgment were issued on November 25, 2002
+And whereas counsel for the appellant requested an opportunity to address the matter of costs before the issuance of the formal judgment
+And upon hearing the representation of counsel for both parties on the matter of costs on January 20th, 2003
+…/2
+It is ordered that the appeal from the assessment made under subsection 323(1) the Excise Tax Act be allowed with costs and the assessment be vacated.
+It is further ordered that one set of fees, disbursements and the costs of the motion for costs be awarded to the appellant and Patrick Wing Chu Lau in the total lump sum amount of $52,000.
+Signed at Toronto, Ontario, this 21st day of January 2003.
+"D.G.H. Bowman"
+A.C.J.
+Date: 20030121
+Docket: 2000-1596(GST)G
+BETWEEN:
+PATRICK WING CHU LAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard with the appeal of Agatha Kit Chun Lau (2000-1594(GST)G)
+on September 4 and 5, 2002 and motion with respect to costs heard
+on January 20, 2003 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+Counsel for the Appellant:
+Robert J. Morris, Esq.
+Counsel for the Respondent:
+J. Michelle Farrell
+_______________________________________________________________
+JUDGMENT
+Whereas reasons for judgment were issued on November 25, 2002
+And whereas counsel for the appellant requested an opportunity to address the matter of costs before the issuance of the formal judgment
+And upon hearing the representation of counsel for both parties on the matter of costs on January 20th, 2003
+…/2
+It is ordered that the appeal from the assessment made under subsection 323(1) the Excise Tax Act be allowed with costs and the assessment be vacated.
+It is further ordered that one set of fees, disbursements and the costs of the motion for costs be awarded to the appellant and Agatha Kit Chun Lau in the total lump sum amount of $52,000.
+Signed at Toronto, Ontario, this 21st day of January 2003.
+"D.G.H. Bowman"
+A.C.J.
+Dockets: 2000-1594(GST)G
+2000-1596(GST)G
+BETWEEN:
+AGATHA KIT CHUN LAU
+PATRICK WING CHU LAU,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+RULING ON COSTS
+Let the attached certified transcript of my Ruling on Costs delivered orally from the Bench at the Tax Court of Canada, Courtroom No. 1, 9th Floor, Merrill Lynch Canada Tower, 200 King Street West, Toronto, Ontario, on January 20, 2003, be filed.
+Signed at Ottawa, Canada, this 24th day of February 2003.
+"D.G.H. Bowman"
+A.J.C.
+Court File No. 2000‑1594(GST)G
+2000-1596(GST)G
+TAX COURT OF CANADA
+IN RE: The Income Tax Act
+B E T W E E N:
+AGATHA KIT CHUN LAU, PATRICK WING CHU LAU
+Appellants
+‑ and ‑
+MINISTER OF NATIONAL REVENUE
+Respondent
+‑‑‑ Held before The Honourable Associate Chief Judge Bowman of The Tax Court of Canada, in Courtroom Number 1, 9th Floor, 200 King Street West, Toronto, Ontario, on the 20th day of January, 2003.
+RULING ON COSTS
+Delivered Orally from the Bench
+at Toronto, on January 20, 2003.)
+‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑
+APPEARANCES:
+Robert J. Morris For the Appellants
+J. Michelle Farrell For the Respondent
+William O'Brien ‑ Registrar
+Per: Penny Stewart, CSR (Reporter)
+-‑‑ Upon commencing at 3:45 p.m.
+HIS HONOUR: This is a motion for increased costs.
+The appeals of Agatha Kit Chun Lau and her husband Patrick Wing Chu Lau came on before the court. I allowed both appeals and I accepted counsel for the appellant's suggestion that I should reserve the matter of costs until submissions were made, and I was prepared to do so.
+In the case of Agatha Kit Chun Lau I agree with Mr. Morris, I do not think this case should have gone to court. And without being critical at all of counsel, she had to take instructions, at least she thought she had to take instructions from the Department of National Revenue. Nonetheless essentially the Department of National Revenue, or CCRA as it is now called, did not accept Agatha's position that she was never an officer of Nikiko Restaurant Incorporated. They did not accept the evidence of Mr. Hui, the solicitor. I think they should have accepted it at a very early stage in the proceedings.
+Basically, the only people that seemed to look at these appeals in CCRA was a collections officer who is not in my view an appropriate person to be looking at appeals.
+There was, I think, somewhat more merit in the Crown's assessment against Patrick Wing Chu Lau. There were substantial amounts of money involved. The accountants treated a very large part of the amount, against which GST was imposed, as consulting fees. I had to accept that evidence, although, as I indicated to counsel, I had some suspicions on whether these really were consulting fees.
+I have decided to award a lump sum in the amount of $52,000.00 in both cases. I am basing my discretion on several considerations:
+First, the Crown bumped this up into the General Procedure. This put a considerable burden on both appellants. I think the Crown should be obliged to pay for that.
+Secondly, I do not think there was merit in the Crown's assessment against Agatha Lau.
+Thirdly, an offer of settlement was made based on a recommendation of the judge that heard the pretrial. That was rejected. I think the Crown should have been a little more ready to accept the offer. It was not merely an unprincipled saw‑off or compromise. It could have been justified on the basis of the consulting fees which were very doubtful at the best of times.
+Now the tariff would have permitted about $16,000.00 on a party and party basis. The solicitor and client costs prepared by the Lerner firm would have come to $103,157.01. I think this is rather high. I do not question that the hours were spent but I do question whether they really needed to be spent. I think that is rather high.
+I am not awarding solicitor and client costs. I am awarding a lump sum which is, I think, commensurate with the difficulty of the case, the time spent, and the other factors that I have just mentioned.
+Bear in mind that section 147 of the General Procedure Rules provides a large number of criteria on which the court may exercise its discretion and I will read them: the result of the proceeding; the amounts in issue; the importance of the issues; any offer of settlement made in writing.
+Now, pausing there, I think that I must in exercising my discretion at least consider the offer of settlement. I do not think that an offer of settlement which is less than the amount actually achieved at trial justifies an award of solicitor and client costs. That was settled I believe in the decision of Miller by Judge Lamarre. But, nonetheless, it is not a factor that can be ignored completely.
+The volume of work. There was a lot of work involved in this case.
+The complexity of the issues. Well, I am not so sure the issues are all that complex. There has been quite an evolution in these directors liability cases in which I think the Federal Court of Appeal, in my respectful view, correctly has alleviated somewhat the stringent criteria applied by our court.
+There is certainly no suggestion that any party shortened or lengthened the proceedings. There was no impropriety at all in my view here. There were some statements that solicitor and client costs can only be awarded where there is impropriety on the part of one or other of the parties. But I am not awarding solicitor and client costs.
+I think a fair disposition of this matter and one that partially compensates the appellants for their ordeal of having to come to court and justify their position is $52,000.00. That will include disbursements and the costs of this motion.
+‑‑‑ Whereupon concluding at 3:55 p.m.
+I HEREBY CERTIFY THE FOREGOING
+to be a true and accurate
+transcription of my shorthand notes
+to the best of my skill and ability.
+Penny Stewart, CSR
+Chartered Shorthand Reporter

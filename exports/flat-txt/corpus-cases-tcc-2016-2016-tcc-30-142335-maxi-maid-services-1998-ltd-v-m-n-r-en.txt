@@ -1,0 +1,206 @@
+Title: Maxi Maid Services (1998) Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142335/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-30-142335-maxi-maid-services-1998-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2016-02-05
+
+# Maxi Maid Services (1998) Ltd. v. M.N.R.
+
+- Citation: 2016 TCC 30
+- Decision date: 2016-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3008, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maxi Maid Services (1998) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-05
+Neutral citation
+2016 TCC 30
+File numbers
+2014-3581(CPP)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2014-3581(CPP)
+BETWEEN:
+MAXI MAID SERVICES (1998) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on September 23, 2015, at Kelowna, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Darren Umeris
+Counsel for the Respondent:
+Kristian DeJong
+JUDGMENT
+For the attached reasons for judgment, the appeal made under the Canada Pension Plan is allowed, and the assessment of the Appellant in respect of Dora Eytcheson is vacated.
+Signed at Vancouver, British Columbia, this 5th day of February 2016.
+“Patrick Boyle”
+Boyle J.
+Citation: 2016 TCC 30
+Date: 20160205
+Docket: 2014-3581(CPP)
+BETWEEN:
+MAXI MAID SERVICES (1998) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+Introduction [1] This is a Canada Pension Plan (“CPP”) appeal under the Court’s informal procedure. The facts are not in dispute.
+[2] Dora Eytcheson is in her seventies. Her husband died in 2002 at age 58 and she has received a regular CPP pension amount as his survivor since then. She is still working as an employee cleaning other people’s homes. She gets along well with her employer. She has been trying since she turned 65 to receive her own CPP retirement pension and stop paying CPP contributions on her employment income. While she is finally collecting her CPP retirement pension (though it took the better part of six years), she continues to have CPP withheld by her employer.
+[3] Maxi Maid operates an owner-managed small Canadian business. As its name suggests, it carries on a house cleaning business in Kelowna, British Columbia. Mrs. Eytcheson has been an employee for a number of years. Mr. Umeris, the owner-manager of Maxi Maid, and Mrs. Eytcheson have a healthy employment relationship and it is clear that Mr. Umeris has tried to be helpful to Mrs. Eytcheson in her CPP dealings with Service Canada and the Canada Revenue Agency (“CRA”).
+The Evidence [4] The facts in this case are uncontradicted and not in dispute. Mrs. Eytcheson and Mr. Umeris testified for the Appellant. The Respondent’s cross‑examinations were very short and did not challenge any of their testimony. I accept wholeheartedly and unreservedly their testimony as to the facts, noting that with respect to certain portions they made it clear they were not entirely certain. In any event, there was no competing version of their facts.
+[5] The Respondent did not call any witnesses. The Respondent filed an affidavit from Julie Hamelin of the CRA with respect to information in its records. It can be noted that she was also the Litigation Officer in CRA’s CPP/EI Appeals Division who signed and filed the Respondent’s reply to the notice of appeal. The affidavit is of limited usefulness to the Court as it only sets out the information supportive of the Respondent’s position in the litigation — that Mrs. Eytcheson was not receiving her own CPP retirement benefits in certain years. It also says that Mrs. Eytcheson filed an election in 2013 to stop making CPP contributions (the “2013 Election”). The affidavit is silent as to any prior communication or elections being filed. Notwithstanding that the Appellant attached an election dated November 2011 (the “2011 Election”) to its notice of appeal and refers to that 2011 Election in its opening paragraph, the affidavit is silent — it does not say it has no record of the 2011 Election nor does it say that the 2013 Election was the only one received. I will return to this below.
+The Facts [6] Mrs. Eytcheson received a letter from CPP before her sixty‑fifth birthday in April 2009 alerting her to the need to contact them to get the necessary documents if she wished to start receiving her CPP pension at 65.
+[7] Mrs. Eytcheson had started receiving a regular CPP pension amount seven years earlier as survivor to her husband.
+[8] Mrs. Eytcheson’s recollection and understanding of her phone call to get the paperwork needed to collect her own regular CPP pension amounts is that she was told by the lady on the other end of the call that, having called to arrange to receive her CPP pension, no further information was required as they had all of her information already on file, and that her own CPP would start coming after her sixty-fifth birthday.
+[9] She also understood from this call that, once she began receiving her own CPP pension, her survivor’s pension would be reduced in some fashion.
+[10] I do not know anything else about that call. However, Mrs. Eytcheson strikes me as one who is a good communicator. It is apparent from her testimony that she speaks clearly, she listens well, she voices her concerns, and she answers questions clearly. Since Mrs. Eytcheson understood Service Canada’s letter and, in response to it, she telephoned Service Canada to begin receiving her own CPP pension at 65, and she discussed her survivor’s pension in that call, I have no doubt that it was not unreasonable of her to have believed at the end of the call that all was in order for her to get what she had called to ask for.
+[11] When Mrs. Eycheson received her CPP cheque the month after turning 65, it was for a slightly greater amount than then pension amount she had been receiving until that time. She was disappointed it was so little greater, less than one hundred dollars, but assumed that was the result of a claw-back formula for someone receiving two CPP pensions, their own and their deceased spouse’s. She did not question that further.
+[12] Mrs. Eytcheson appears to have assumed at that point that her CPP withholdings on her salary would stop and she took no specific steps at that time to ensure they did.
+[13] In 2011 Mrs. Eytcheson saw that CPP was still being withheld from her paycheques and spoke with Mr. Umeris. Mr. Umeris then contacted Service Canada in respect of Mrs. Eytcheson’s desire to stop contributing and was directed to CRA form CPT30 “Election to Stop Contributing to the Canada Pension Plan or the Revocation of a Prior Election”. Mrs. Eytcheson filled out that form and mailed it to CRA as the form directed. When she told Mr. Umeris that she had filed the necessary form and asked him to stop withholding from her Maxi Maid wages, it turned out she had not kept a copy or made a copy for Maxi Maid. This resulted in the need for a second form being filled in, filed with CRA and a copy provided to Maxi Maid. This second form is the one in evidence that is referred to herein as the “2011 Election”. (Clearly nothing turns on the earlier election in 2011.)
+[14] Following receipt of its copy of the 2011 Election of November 2011, Maxi Maid stopped deducting CPP from Mrs. Eytcheson’s pay cheques.
+[15] In December 2013, just over two years after the time the 2011 Election was filed, Maxi Maid was informed by Service Canada or CRA that Mrs. Eytcheson had not met the statutory preconditions to make an election. CRA decided the correct thing it was required to do under the CPP was to reassess Maxi Maid for failure to remit employer contributions, failure to withhold and remit Mrs. Eytcheson’s contributions, and to assess penalties against it for these failures.
+[16] It turns out that, notwithstanding Mrs. Eytcheson’s bona fide and not unreasonable belief that she had started receiving her own CPP pension in 2009 as well as her survivor’s CPP pension, and notwithstanding her 2009 communications with Service Canada, she in fact continued still only receiving a survivor’s pension. The increased amount starting right after her sixty‑fifth birthday appears to have simply been an adjustment to that survivor’s pension.
+[17] Everyone now recognizes and accepts that Mrs. Eytcheson was not in receipt of her own CPP retirement pension when she filed the 2011 Election but was still only receiving her survivor’s CPP pension.
+[18] No evidence was offered by the Respondent as to why it took CRA over two years from the filing of the 2011 Election to determine whether or not she met the three simple pre-conditions to being legally entitled to file a valid election:
+1. that she was at least 65 years old;
+2. that she was in receipt of a CPP retirement pension (i.e. in her own right) from CRA and;
+3. that she filled out and filed the prescribed form with CRA.
+[19] Similarly, no explanation was offered why CRA would expect Maxi Maid had any ability to ascertain these preconditions, much less be able to do so for Mrs. Eytcheson’s next pay cheque, even though, as described below, CRA instructs employers to stop withholding CPP right away upon receipt of such a form.
+[20] Finally, no evidence was submitted to support any parliamentary legislative intention to make employers strictly liable for their employees’ share of CPP withholdings and for penalties in addition to their employer’s share of CPP contributions in circumstances where an employee has, whether innocently or intentionally, filed a CPT30 election form in circumstances where he or she was not entitled to. Hence, this issue will need to be resolved by a review of the text of the specific provisions of the CPP legislation, informed by the context of the related provisions of the CPP, considered in the context of the administration of those provisions by Service Canada and CRA, and having regard to achieving the purposes of the CPP.
+The Law [21] Sections 8 and 9 of the CPP set out the employee and employer CPP contributions respectively as a function of the employee’s “contributory salary and wages”.
+[22] Section 11.1 of the CPP sets the contribution rate as a percentage function of “contributory wages and salaries [sic]”.[1]
+[23] Section 2 of the CPP defines the term “contributory salary and wages” as an amount calculated in accordance with section 12.
+[24] Section 12 of the CPP legislation provided as follows:
+12(1) The amount of the contributory salary and wages of a person for a year is the person’s income for the year from pensionable employment, computed in accordance with . . . but does not include any such income received by the person
+. . .
+(c) after they reach sixty-five years of age if
+(i) a retirement pension is payable to them under this Act or under a provincial pension plan, and
+(ii) subject to subsection (1.1), they make an election to exclude the income; or
+. . .
+(1.1) An election referred to in subparagraph (1)(c)(ii)
+(a) shall be made or revoked in the prescribed form and manner;
+(b) shall commence to have effect on the first day of the month following the month in which it is made;
+(c) shall cease to have effect on the first day of the month following the month in which it is revoked;
+(d) may be made only once in a year;
+(e) may not be revoked in the year in which it is made;
+(f) may not be made in a year in which an election is revoked; and
+(g) is deemed to be an election in respect of the person’s income from all pensionable employment and in respect of their self-employed earnings.
+(1.2) If a person does not revoke — in respect of an employer — an election in the prescribed form and manner, the contributory salary and wages referred to in paragraphs 8(1)(a) and 9(1)(a) do not, for the purposes of those paragraphs, include income from that employment. . . .
+[25] Section 2 of the CPP also defines a “pension” to mean a pension payable under the CPP Act. Survivor’s pensions are provided for in sections 58 and 72 to 73 of the CPP. Retirement provisions are provided for in sections 46 to 54, and 67 to 68 of the CPP.
+[26] It is clear after reading these legislative provisions that a “survivor’s pension” is a pension under the CPP Act. It also appears clear from reading the provision that a “survivor’s pension” is different from a “retirement pension" in the CPP Act.
+[27] An employer’s obligation to withhold and remit the required employee contributions and to remit the required employer contributions is set out in subsection 21(1) in Division C of the CPP Act.
+[28] Subsection 21(2) provides that an employer is personally liable if he fails to withhold and remit the employee’s contribution.
+[29] Subsection 21(7) provides for a penalty on an employer who fails to remit the required amounts. An automatic penalty of 10% applies if the remittance is more than one week late. This penalty is 20% if the failure to remit was made knowingly or under circumstances amounting to gross negligence.[2]
+[30] Subsection 21(3) provides that an employer is not liable for failure to withhold or remit, nor for penalties, if a ruling is issued that is subsequently determined not to have been properly made, unless the ruling was based on misinformation from the employer.
+[31] The reduction of the CPP pension amounts if one is receiving both a retirement pension and a survivor’s pension is in subsection 46(5) and subsection 58(2).
+[32] Section 60 of the CPP Act provides that no benefit is payable to a person unless an application has been made and approved. Regulation 43 provides that an application “shall” be made in writing at any Human Resources and Skills Development Canada office.
+[33] The section 2 definition of “prescribed” in the case of a form means a form that is authorized by the Minister responsible for the relevant portion of the CPP legislation.
+Election Form CPT30 [34] The 2011 Election is in evidence as Exhibit R‑1. Form CPT30 is a form prescribed by the CPP Act. The information, election, certification and dating are all on one page of the CRA form and only that page is in evidence. It is clear that the form contained more information on the back of it but the second page is not in evidence. The Respondent attached both sides of a blank 2014 version of form CPT30 as Exhibit A to its written submissions.
+[35] The 2011 Election, on the 2011 version of the form, provides, among other things:
+You must provide a copy of this completed form to all current and future employers. Send the original form to the Winnipeg Tax Centre at the address on the back of this form, and keep a copy for yourself.
+If you elect to stop contributing to the CPP, the election takes effect on the first day of the month following the date you gave this form to your employer.
+[36] The language of the election and certification made by Mrs. Eytcheson immediately above her signature on her 2011 Election reads:
+I elect to stop contributing to the CPP. I have demonstrated in Part B that I am eligible to make this election. I will give a copy of this form to my employer or employers, as the case may be, by the end of the month indicated below.
+[37] The 2014 version of the form includes the following on the back of the form only:
+Once you complete this form, promptly give a copy to your employer. The choice you made will apply to all your income from pensionable employment, including self-employment earnings. If you have more than one employer, you must give each of them a copy of the completed form. Send the original completed form to the Winnipeg Tax Centre using the address shown on page two of this form. Keep a copy for your records so that you can give a copy to each of your future employers.
+Election to Stop Contributing to the CPP
+If you want to stop making CPP contributions, fill in parts A and B, and if you are eligible, part C. This election is effective from the first day of the month after you date part C. Your election will stay in effect until you revoke it.
+How do I stop making CPP contributions?
+Complete parts A, B, and C of this form and give a copy of the form to your employer, together with proof of age and proof that you are receiving a CPP or QPP retirement pension. If you are working or will work for more than one employer, give each employer a copy of this completed form. […]
+When Is My Election Effective?
+Your election is effective on the first day of the month after the day you give a copy of this form to your employer. You employer should stop deducting CPP contributions from the first pay in the month after the month you give them a copy of this form.
+Filing Instructions
+Fill out the sections of this form that apply to you. Give a copy to your employer in the same month you sign a date it. If you have more than one employer, give a copy of this form to each employer. Keep a copy of the form for yourself, and send the original to the Canada Revenue Agency at the following address: . . .
+[38] As mentioned, the back page of the 2011 Election form is not in evidence. Given the substantive changes to the election certification language in the 2011 election form and the more recent election forms which are available, it would be inappropriate for the Court to presume or infer that the back pages of these forms read the same in 2011.
+CRA Instructions to Employers [39] The Respondent, in its written submissions to the Court following the hearing, referred to, relied upon, and provided a copy of two pages from an electronic publication currently on CRA’s website. It is clear from the first page of the materials submitted where those pages fit within this electronic publication informing businesses calculating CPP payroll deductions. The Court has therefore reviewed the rest of those CRA instructions. It can also be noted that the pages relied upon by the Respondent come under the heading “Changes for Employers/Changes to the Rules for Deducting Canada Pension Plan (CPP) Contributions”, the first sentence of which reads: “In 2012, the rules for deducting CPP contributions changed.” The Court was not provided with any information on when the rules changed in 2012, nor what rules changed, nor how others parts of this electronic publication may have changed. It is only reasonable to conclude that information under the heading describing changes for 2012 was not available to Maxi Maid in 2011 when Mrs. Eytcheson gave Maxi Maid a copy of her 2011 Election.
+[40] The very first paragraph under the heading “Canada Pension Plan (CPP)” in this electronic publication deals with an employer’s obligation to deduct CPP contributions. It includes the following sentence:
+Exception: Do not deduct CPP if the employee is 65 to 70 years old, and gives you form CPT30, Election to Stop Contributing to the Canada Pension Plan, or Revocation of a Prior Election with parts A, B and C completed.
+Immediately thereunder is a link: “For more information, see Starting and Stopping CPP deductions.”
+[41] Under the heading Starting and Stopping CPP Deductions, special situations are listed. One of those is: “Your employee gives you a completed Form CPT30”. This continues:
+Stopping CPP Contributions
+An employee is eligible to stop his or her CPP contributions under the following conditions:
+• the employee is 65 to 70 years of age;
+• the employee receives a CPP or QPP retirement pension;
+• the employee is receiving, or will receive pensionable employment earnings that require CPP contributions; and,
+• the employee gives you a copy of CPT30 with parts A, B and C completed. By filling out the form in this manner, the employee is making an “election”.
+This “election” is effective the first day of the month following when you receive the completed form. You will deduct CPP contributions, up to and including the last pay dated in the month the employee gives you the form. When you prorate, use the number of months up to and including the month before the election becomes effective (see example 3).
+[42] Example 3 reads as follows:
+Catherine is 64 years old and receives a CPP retirement pension. On July 23, 2015 she turns 65 and elects to stop paying CPP contributions. She gives you a signed and completed form CPT30, Election to Stop Contributing to the Canada Pension Plan, or Revocation of a Prior Election, that same day.
+This example goes on to make it clear that “no CPP contributions” are made for days worked after the election was given to the employer.
+[43] Under the heading “Changes to the Rules for Deducting CPP Contributions”, which addresses 2012 changes, the following appears and is relied upon by the Respondent in its written submissions:
+Before Stopping CPP Contributions — Employee Eligibility
+Before you can stop deducting CPP contributions from an employee’s pensionable earnings, you have to make sure the employee is eligible to make the election to stop contributing. An employee is eligible to file an election to stop paying CPP contributions if he or she:
+• is employed and receiving pensionable earnings;
+• is at least 65 years of age but under 70;
+• is receiving a retirement pension from CPP or QPP; and,
+• has not already completed Form CPT30 . . . and does not have a valid election currently in effect . . .
+You should ask the employee to provide all of the following:
+• proof that he or she is receiving a CPP or QPP retirement pension (for example, a copy of the award letter);
+• proof of age . . .; and,
+• a copy of a signed and completed Form CPT30.
+It can be restated that this would not have been part of this electronic publication in 2011.
+Analysis [44] First, it should be noted that CRA would know readily upon receipt of a CPT30 form if the person certifying and filing it was in fact at least 65 years old and was in receipt of a retirement pension. This is because CRA runs both the tax system and is responsible for CPP pension payments. On the other hand, the employer would have no way of verifying the correctness of such information as provided for by an employee, nor of removing the risk of an employee, innocently or intentionally, providing incorrect information or documents.
+[45] The issue raised by these facts is whether the employer legally bears the risk that an employee file who files a CPT30 election with CRA and provides a copy to the employer, which by its terms certifies that the employee qualifies, is in fact mistaken or otherwise does not in fact qualify to make such an election.
+[46] The issue of whether the employer should also further bear the risk of penalties need not be considered as the Respondent, wisely, conceded that the assessment of a penalty was not appropriate in this case.
+[47] I find on the evidence that Mrs. Eytcheson’s 2009 letter from Service Canada and her 2009 telephone conversation happened as she described. I also find on the evidence that in 2011 she mailed two duly completed CPT30 election forms to CRA, the first 2011 election form (of which she did not keep a copy nor give one to her employer as the form instructed) and the 2011 Election in evidence.
+[48] Given the complete silence of the Hamelin affidavit on the 2009 exchange and on either of the 2011 CPT30 elections described above, and given that when this was pointed out to counsel for the Respondent he neither offered nor asked for the opportunity to supplement the affidavit evidence, the totality of the evidence leads me to the inference that the 2009 communications and the two 2011 elections did indeed occur as Mrs. Eytcheson testified[3]. It follows that this means that the reason for Mrs. Eytcheson not being in receipt of her CPP retirement pension once she turned 65 was at least as much the Respondent’s fault as hers.
+[49] The text of section 21 which imposes liability on the employer for the collection of employee contributions, and the text of section 9 which sets out the employer’s contribution, clearly both impose these obligations with reference to the “contributory salary and wages” of the employee.
+[50] The text of section 12 of the legislation clearly excludes from the amount of “contributory salary and wages” amounts received by a person after they reach 65 if they receive a retirement pension and they make an election to exclude the income. Subsection 12(1.1) provides that the election must be made in prescribed form and has effect on the first day of the month following the month in which it is made. Neither the language of section 12, nor the prescribed form itself, even suggest that an employer is to be responsible for the correctness or accuracy of the certified information in a completed form, nor that an employer is to be provided or obtain any supporting or corroborating documentation or other information.
+[51] The text of subsection 12(1.2) is similarly clear that if a person does not revoke an election in respect of an employer, the contributory salary and wages do not, for purposes of section 8 and 9 dealing with employer and employee contribution amounts, include income from that employment.
+[52] Turning to the context of these provisions of the CPP, it can be noted that the CPT30 prescribed form language (and the website publication language) is replete with unqualified statements that the employer is to stop CPP contributions following receipt of form CPT30. Further, there is no language on the form (nor before some time in 2012 on the website’s electronic publication) suggesting that an employer should obtain supporting documentation from an employee. (It can be noted that even the 2012 changes language is not prominent in the overall scheme of the publication).
+[53] It is evident from subsection 21(3) that the CPP legislation seeks to absolve innocent employers from incorrectly issued ruling determinations that are not based on incorrect information from the employer.
+[54] The general purpose of the CPP is to establish a mandatory pension regime for Canadians providing, among other things, retirement pensions with survivor rights, and to be funded through employer and employee contributions. Clearly one of the objectives of the legislation is to outsource the collection (withholding and remitting) to fund the CPP in large part to Canadian employers. In contrast, nothing suggests the CPP’s purpose or objective is to outsource the audit function to employers of their employees’ CPP rights and obligations.
+Conclusion [55] It makes no sense to interpret the legislation, including the prescribed form thereunder, in a manner that imposes strict liability on an employer for the correctness, accuracy, honesty or integrity of a completed and signed election form CPT30 received from one of its employees. There is no statutory language requiring corroborating documents to support the election, nor did the election form itself suggest there should be.
+[56] It is entirely reasonable to think that, absent a legislative requirement or specific instructions on a prescribed form, Maxi Maid could rely on Mrs. Eytcheson’s detailed and specific certifications that she was at least 65 years old and was in receipt of a CPP retirement pension. That is as reasonable as having to believe an employee who says that they mailed the original of the prescribed form to CRA as required by the form — the Respondent is not going so far as to suggest that it is not reasonable to rely upon an employee telling you they have filed a form, and that it is instead necessary to accompany them to the mailbox or post office.
+[57] Further, an employer has to no power to ascertain the correctness or authenticity of the information in the documents provided by its employee in any event. In contrast, CRA has virtually fingertip access to allow it to verify whether the person who filed the election was at least 65 years old and was receiving a CPP retirement pension since CRA administers CPP payments as well as the tax regime.
+[58] The Court therefore concludes that upon a proper interpretation and application of section 12, for purposes of determining an employer’s CPP obligations to withhold and remit employee contributions, to make employer contributions, or to be subject to penalties under the above referenced provisions of the CPP, the definition of contributory salary and wages does not include amounts in respect of which a copy of a duly completed CPT30 election form certified, signed and dated has been given to the employer by the employee, and which the employee tells the employer he or she has mailed to CRA.
+[59] For the above reasons, the appeal is allowed.
+[60] By way of postscript, it became apparent that Maxi Maid continues to withhold and remit CPP from Mrs. Eytcheson to this time. Since 2013, when a further election was filed with CRA, CRA accepts that Mrs. Eytcheson is no longer subject to CPP in respect of her Maxi Maid income. I assume that amounts withheld and remitted by Maxi Maid are refunded to her as part of the normal tax filing process each year. It is not clear why Maxi Maid continues to withhold; perhaps Mrs. Eytcheson never gave Maxi Maid a copy of the 2013 election, which was not put before the Court. Perhaps Maxi Maid is content to leave the risk for employee withholdings with CRA and Mrs. Eytcheson, adopting an “if in doubt, withhold” approach rather than accept an uncontrollable risk that it also thinks is nonsensical. (The Court does not know if Maxi Maid has continued to make employer contributions, but presumably that is the case. I do not know how or whether those get returned or refunded to Maxi Maid.) I am hoping that, notwithstanding the Appellant’s success in this particular appeal, the government will be able to correctly sort out Mrs. Eytcheson’s CPP contributions on a going forward basis as well as for the period to date.
+Signed at Vancouver, British Columbia, this 5th day of February 2016.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2016 TCC 30
+COURT FILE NO.:
+2014-3581(CPP)
+STYLE OF CAUSE:
+MAXI MAID SERVICES (1998) LTD. v. M.N.R.
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+September 23, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+February 5, 2016
+APPEARANCES:
+Agent for the Appellant:
+Darren Umeris
+Counsel for the Respondent:
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This drafting glitch does not appear in the French version. It does however leave the reader with some concerns about the overall drafting of the CPP. It reminds one of what the Supreme Court of Canada wrote about the CPP’s companion legislation on Employment Insurance in Gagnon v. CEIC, [1998] 2 SCR 29: “the least that can be said is that the Act is not a model of clarity and, consequently, its interpretation is not an easy task”.
+[2] The penalties assessed in this case are not reconcilable in amount to these penalty percentages. Nothing turns on this as, during argument, the Respondent conceded the penalties would be removed.
+[3] Trial judges make inferences based on the totality of the evidence that the parties choose to present. Such an inference, which is invariably adverse to one party and supportive of the other, is by definition not a finding at the level of certainty. It is the trial judge’s conclusion as to what he or she believes is most probable — or more likely than not. A finding grounded in inference from the silence in one party’s evidence could, in reality, be totally wrong and one of the other more favourable, charitable, benign possibilities that seemed less probable to the trial judge could in fact be known to be correct and truthful to an omniscient, all-seeing and all‑knowing observer. Trial judges are not given such powers when they are sworn-in, just, at least in my case, copies of the Income Tax Act and the other Bible upon which I swore my oath, a gavel and the ceremonial pen. Trial judges sleep at night based on probabilities, or lie awake at night considering them.

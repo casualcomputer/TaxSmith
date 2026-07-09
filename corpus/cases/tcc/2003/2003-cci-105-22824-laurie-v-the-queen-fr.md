@@ -1,0 +1,137 @@
+---
+title: "Laurie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22824/index.do"
+last_modified: "2003-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 105"
+citation2: ""
+neutral_citation: "2003 CCI 105"
+decision_date: "2003-04-03"
+language: "fr"
+item_id: "22824"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2330
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:21:18.827000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e13bf7562ee64d82f2c191bcf103064f341d8052ec2334620bed3b2c72a6d4e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laurie v. The Queen
+
+- Citation: 2003 CCI 105
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2330, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laurie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-03
+Référence neutre
+2003 CCI 105
+Numéro de dossier
+2002-2581(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI105
+Date : 20030403
+Dossier : 2002-2581(IT)I
+ENTRE :
+MICHAEL LAURIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Pour l'appelant : L'appelant lui-même Avocat de l'intimée : Me Ifeanyi Nwachukwu
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Halifax (Nouvelle-Écosse) le 13 février 2003.)
+Le juge McArthur
+[1] L'appelant a interjeté appel à l'encontre de la nouvelle cotisation établie par le ministre du Revenu national pour l'année d'imposition 2000, laquelle a refusé la déduction d'un montant déductible de frais médicaux relativement à la massothérapie conformément aux paragraphes 118.2(1) et (2) de la Loi de l'impôt sur le revenu. Ces paragraphes ainsi que le paragraphe 118.4(2) sont ainsi rédigés :
+118.2(1) Le résultat du calcul suivant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[...]
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l'année d'imposition où les frais ont été engagés;
+b) [...]
+118.4(2) Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien ou psychologue visé aux articles 63, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s'il est question de services;
+b) [...]
+[2] L'appel vise à savoir si un massothérapeute en Nouvelle-Écosse est visé par la définition d'un médecin. L'alinéa 7(1)d) de la loi intitulée Interpretation Act, R.S.N.S., ch. 235, prévoit ce qui suit :
+[Traduction]
+7(1) Dans la présente Loi ou tout autre texte législatif,
+d) « Médecin dûment qualifié » , « médecin dûment qualifié pour exercer sa profession » ou toute autre expression indiquant qu'une personne est reconnue conformément à la loi comme médecin ou comme membre de la profession médicale signifie une personne enregistrée sous le régime de la Medical Act;
+La Medical Act de la Nouvelle-Écosse (ch. 10), notamment l'alinéa 2s) et l'article 3 définissent un médecin de la façon suivante :
+[Traduction]
+2 Dans la présente Loi, sauf indication contraire du contexte,
+s) « médecin » s'entend de toute personne inscrite au registre médical, au registre de catégories déterminées, au registre temporaire ou au registre d'éducation médicale;
+3 Les expressions « médecin dûment qualifié » , « praticien dûment qualifié » , « médecin dûment qualifié pour exercer sa profession » , « médecin autorisé » , « médecin » ou toute autre expression indiquant qu'une personne est reconnue conformément à la loi comme médecin ou comme membre de la profession médicale de la province, lorsqu'elles sont utilisées dans tout règlement, article, ordonnance ou règlement municipal adopté en vertu d'une Loi de la Législature adoptée ou élaborée avant, au moment et après l'entrée en vigueur de la présente Loi, ou lorsqu'elles sont utilisées dans un document public, comprennent une personne inscrite au registre médical, au registre temporaire, au registre de catégories déterminées ou au registre d'éducation médicale et qui détient un permis.
+[3] Il est bien établi que les deux massothérapeutes en question qui ont fourni des services au titre desquels l'appelant a demandé une déduction ne sont pas inscrits comme médecins dans la province de la Nouvelle-Écosse. L'appelant a présenté deux arguments fondamentaux, selon lesquels, en premier lieu, le bon sens, l'équité et l'économie dictent que ses frais de massothérapie devraient être déductibles et, en deuxième lieu, les droits qui lui sont reconnus par la Charte canadienne des droits et libertés ont été violés. À cet égard, il déclare que s'il avait habité en Colombie-Britannique ou en Ontario, ses frais de massothérapie auraient été déductibles.
+[4] Les faits ne sont pas contestés et comprennent les suivants qui ont été tirés de l'Avis d'appel de l'appelant. Après avoir été victime d'un grave accident en 1996, l'appelant était blessé et il déclare ce qui suit :
+[traduction]
+[...] Le coup de fouet cervical m'a causé des problèmes de dos et de cou en raison desquels je souffre d'une incapacité permanente partielle et de restrictions relatives au travail. Grâce à la massothérapie et aux soins chiropratiques, j'ai pu me remettre dans un état qui a contribué à apaiser ma douleur et la fréquence et la gravité de mes rechutes.
+Mon assureur de la section B a payé mes frais de massothérapie pendant quatre ans. [...] En 2000, j'ai commencé à payer moi-même les frais de chiropratique et de massothérapie. [...]
+Tous les patients du thérapeute lui sont envoyés par des médecins. Je ne doute aucunement qu'ils sont qualifiés. Dans l'Avis d'appel, l'appelant a ajouté ce qui suit :
+[Traduction]
+Au mois de juillet 2000, [...] mon état s'est détérioré [...] La douleur était intense [...] J'étais immobile pendant deux semaines. Mon médecin de famille m'a conseillé de continuer ma massothérapie et ma chiropratique et de façon plus fréquente. Il s'agit d'un élément de preuve selon lequel un médecin en titre en Nouvelle-Écosse a prescrit la massothérapie comme traitement d'un problème médical aigu.
+Mes séances de massothérapie étaient un peu pénibles et non agréables. Si mon médecin et moi avions été d'avis que je n'en tirais aucun avantage, j'aurais immédiatement arrêté les traitements. Il serait inutile que je consacre tout le temps requis, les déplacements et les frais de séances en 2000 si la massothérapie ne me fournissait aucun soulagement médical.
+L'appelant a déposé une lettre écrite par son médecin en titre, Dr Fay, qui mentionne la massothérapie. Le Dr Fay a écrit ce qui suit :
+[Traduction]
+Il a été envoyé à M. Dusan Moravcik, à la Metro Massage Therapy Clinic, à Bedford, en Nouvelle-Écosse. [...]
+M. Laurie a bénéficié énormément de la massothérapie. Cela a contribué à faire accroître les avantages thérapeutiques de la chiropratique et a réduit la fréquence des séances de chiropratique. [...]
+Il existe des éléments de preuve selon lesquels la massothérapie est efficace. [...]
+Sans cette thérapie, il ne serait pas en mesure d'effectuer son travail de manière efficace et il subirait les conséquences.
+[5] La raison pour laquelle l'appelant continue le présent appel est évidente. En 2000, il a déduit environ 8 000 $ au titre de frais médicaux, dont 1 600 $ ont été refusés. Après l'avoir examiné, l'avocat de l'intimée a cité la décision Pagnotta c. Canada, [2001] A.C.I. no 582 dans laquelle le juge Miller a examiné une situation semblable et a déclaré ce qui suit :
+20 Je traiterai d'abord des frais de massothérapie déduits en vertu de l'alinéa 118.2(2)a). Il s'agit simplement de savoir si Tim McCarty, membre de l'association appelée Association of Massage Therapists and Holistic Practitioners, était en 1998 un « médecin » fournissant des « services médicaux » . Je conclus que non. Comme le confirme le Canadian Oxford Dictionary, les termes anglais « medical practitioner » (le terme équivalent dans la version française de l'alinéa 118.2(2)a) étant « médecin » ) désignent ordinairement un médecin ou un chirurgien. Comme Tim McCarty n'est ni un médecin ni un chirurgien, cela devrait mettre un terme à la question. Cependant, comme l'intimée renvoie à la législation provinciale et que l'appelante me demande de faire preuve de compassion et de compréhension aux fins d'une approche interprétative libérale, j'examinerai davantage la question.
+21 Pour déterminer si un massothérapeute peut être considéré comme un médecin fournissant des services médicaux, je dois, en vertu du paragraphe 118.4(2), examiner la législation qui est applicable là où sont rendus les services, soit en Alberta dans la présente espèce. [...]
+Le juge Miller a ensuite examiné la législation provinciale, comme je l'ai fait au début de la décision. Il a conclu ce qui suit :
+Aucun élément de preuve n'indique que Tim McCarty était un praticien enregistré conformément à ces dispositions. Ainsi, il n'était pas, aux termes de l'article 18, autorisé à pratiquer la profession de médecin en vertu de la loi intitulée Medical Professions Act.
+L'article 18 mentionné ci-dessus provient de la loi de l'Alberta intitulée Medical Professions Act.
+[6] Je suis d'avis que la situation en l'espèce lui est semblable. En ce qui concerne la situation de l'appelant, la législation refuse évidemment une demande bien fondée. Le médecin en titre de l'appelant a, en fait, prescrit la massothérapie qui a apaisé la douleur de l'appelant. Bien que l'appelant puisse avoir un appel bien fondé, je ne peux pas modifier la législation. L'article 118.2 et le paragraphe 118.4(2) sont clairs. Pour avoir gain de cause, le massothérapeute doit être un médecin qui est autorisé à pratiquer sa profession dans la province de la Nouvelle-Écosse, puisque cette dernière constitue la province dans laquelle les services ont été fournis.
+[7] L'appelant a mentionné davantage la décision Pagnottadans laquelle il croyait que les frais des herbes, vitamines et nutraceutiques chinois ont été déduits du revenu. Je ne crois pas que ce soit exact. Le juge Miller a ajouté ce qui suit :
+30 [...] Il est facile de prévoir que, lorsque des herbes, vitamines et nutraceutiques chinois seront réglementés, notre législation fiscale sera modifiée en conséquence. En attendant, je ne peux que conclure que seules les substances obtenues d'un pharmacien peuvent être considérées comme correspondant au sens de l'alinéa 118.2(2)n). Aucune interprétation ne me permet de conclure que les herbes, vitamines et nutraceutiques fournis par le Dr Aung directement ainsi que par Supplements & More sont admissibles en tant que produits enregistrés par un pharmacien. [...]
+[8] Quoi qu'il en soit, une décision récente de la Cour d'appel fédérale (Dunn c. Canada, [2002] A.C.F. no 1816) confirme que les frais de tels médicaments non enregistrés par un pharmacien ne sont pas déductibles selon l'article 118.2 de la Loi. De plus, dans la décision Zack c. Canada, [1997] A.C.I. no 1102, l'appel interjeté par le contribuable a été rejeté en vertu de l'alinéa 118.2(2)a), mais admis en vertu de l'alinéa 118.2(2)e). Les faits se distinguent facilement des faits en l'espèce et l'alinéa 118.2(2)a) est l'alinéa pertinent dans la présente affaire.
+[9] J'aborderai maintenant l'argument de l'appelant portant sur la Charte. Les paragraphes 57(1) et 57(2) de la Loi sur la Cour fédérale prévoient ce qui suit :
+57(1) Les lois fédérales ou provinciales ou leurs textes d'application, dont la validité, l'applicabilité ou l'effet, sur le plan constitutionnel, est en cause devant la Cour ou un office fédéral, sauf s'il s'agit d'un tribunal militaire au sens de la Loi sur la défense nationale, ne peuvent être déclarés invalides, inapplicables ou sans effet, à moins que le procureur général du Canada et ceux des provinces n'aient été avisés conformément au paragraphe (2).
+57(2) L'avis est [...] signifié au moins dix jours avant la date à laquelle la question constitutionnelle qui en fait l'objet doit être débattue.
+En l'espèce, aucun avis au sens du paragraphe 57(2) n'a été signifié. L'avocat de l'intimée a cité des décisions contradictoires de la Cour d'appel fédérale relativement aux procédures à suivre à cet égard. Les décisions sont Canada c. Fisher, [1996] A.C.F. no 427, Nelson c. Canada, [2000] A.C.F no 1613 et Langlois c. Canada, [1999] A.C.F. no 911. En entendant l'appel, j'ai retenu les directives du juge Marceau dans la décision Langlois lorsqu'il a déclaré ce qui suit :
+1 Il a été convenu au début de l'audition que si la Cour en venait à la conclusion que l'attaque constitutionnelle soulevée par l'appel présentait des aspects sérieux, l'affaire serait ajournée pour permettre le respect intégral des dispositions impératives de l'article 57 de la Loi sur la Cour fédérale. En effet, cette Cour ne saurait donner effet à une demande de cette nature sans qu'un avis spécial des procédures n'ait été préalablement signifié aux procureurs-généraux de toutes les provinces. Mais si la Cour ne pouvait voir quelques données de poids dans la prétention de l'appelant, naturellement, elle se devait de rejeter définitivement l'appel.
+L'appelant a soutenu que les droits qui lui sont reconnus par l'article 1 de la Charte ont été violés parce que, s'il avait habité en Colombie-Britannique ou en Ontario, ses paiements auraient été déductibles. Dans ces provinces, les massothérapeutes sont régis par la province. En Nouvelle-Écosse, ils ne le sont pas. L'article de la Charte qui pourrait s'appliquer est l'article 15 ainsi rédigé :
+15(1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+15(2) Le paragraphe (1) n'a pas pour effet d'interdire les lois, programmes ou activités destinés à améliorer la situation d'individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur religion, de leur sexe, de leur âge ou de leurs déficiences mentales ou physiques.
+Pour les motifs qui suivent, je n'accepte pas la position de l'appelant relative à la Charte. Dans l'arrêt Law c Canada, [1999] 1 R.C.S. 497, la Cour suprême du Canada a établi des lignes directrices applicables à l'analyse de l'article 15. Le critère comprend la détermination de savoir si la loi établit une distinction formelle fondée sur des caractéristiques personnelles. Les paragraphes 118.2(1) et 118.2(2) permettent une déduction d'un montant payé à un « médecin » , dont la définition, dans la province de la Nouvelle-Écosse, ne comprend pas un massothérapeute. Aucune différence de traitement fondée sur ses caractéristiques personnelles n'a été imposée à l'appelant. Tous les contribuables en Nouvelle-Écosse sont assujettis au même traitement. L'allégation de discrimination de l'appelant n'est pas fondée.
+[10] Pour les motifs qui précèdent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« Cameron H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de mars 2004.
+Crystal Lefebvre, traductrice

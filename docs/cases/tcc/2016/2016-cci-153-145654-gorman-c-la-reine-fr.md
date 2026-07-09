@@ -1,0 +1,340 @@
+---
+title: "Gorman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/145654/index.do"
+last_modified: "2016-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 153"
+citation2: ""
+neutral_citation: "2016 CCI 153"
+decision_date: "2016-06-22"
+language: "fr"
+item_id: "145654"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2911
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:58:34.908000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e153fb4714652f2bbd816d0ae1effbdb22f49fd3e78bcaad43eb65815be60ef1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gorman c. La Reine
+
+- Citation: 2016 CCI 153
+- Decision date: 2016-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2911, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gorman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-22
+Référence neutre
+2016 CCI 153
+Numéro de dossier
+2011-257(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-257(IT)G
+ENTRE :
+Barbara G. Gorman,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 14 et 15 septembre 2015, à London, en Ontario.
+Devant : L’honorable juge Sylvain Ouimet
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Ron D.F. Wilhelm
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 22e jour de juin 2016.
+« Sylvain Ouimet »
+Le juge Ouimet
+Référence : 2016 CCI 153
+Date : 20160622
+Dossier : 2011-257(IT)G
+ENTRE :
+Barbara G. Gorman,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+I. Introduction [1] Notre cour est saisie de l’appel interjeté par Barbara Gorman (l’appelante) à l’égard de son année d’imposition 2000. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante pour ajouter à son revenu la somme de 52 880,00 $ en vertu des paragraphes 146(1), 146(8), 146(9) et 146(10) de la Loi de l’impôt sur le revenu (la « LIR »). En établissant la nouvelle cotisation de l’appelante pour l’année d’imposition 2000, le ministre a conclu qu’elle était passible de la pénalité prévue par le paragraphe 163(2) de la LIR pour ne pas avoir déclaré la somme de 52 880,00 $ dans sa déclaration pour cette année.
+[2] La somme de 52 880,00 $ constitue la somme utilisée par la fiducie régie par un régime enregistré d’épargne-retraite de l’appelante pour acheter des actions de 629900 Saskatchewan Ltd. (« 629900 ») durant l’année d’imposition 2000.
+II. QUESTIONS EN LITIGE [3] Les questions soulevées dans le présent appel sont les suivantes :
+1. Si le ministre a inclus à bon droit la somme de 52 880,00 $ au revenu de l’appelante pour l’année d’imposition 2000;
+2. Si l’appelante est passible de la pénalité prévue par le paragraphe 163(2) de la LIR;
+3. Si l’appelante est en droit de déduire une perte en capital en vertu des paragraphes 38 et 39 de la LIR.
+III. LES DISPOSITIONS LÉGISLATIVES PERTINENTES [4] Voici les principales dispositions de la LIR :
+38. b) la perte en capital déductible d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale au 3/4 de la perte en capital que le contribuable a subie, pour l’année, à la disposition du bien;
+[...]
+39(1)b) une perte en capital subie par un contribuable, pour une année d’imposition, du fait de la disposition d’un bien quelconque est la perte qu’il a subie au cours de l’année, déterminée conformément à la présente sous‑section (jusqu’à concurrence du montant de cette perte qui ne serait pas déductible, si l’article 3 était lu de la manière indiquée à l’alinéa a) du présent paragraphe et compte non tenu du passage « et des pertes déductibles au titre d’un placement d’entreprise subies par le contribuable pour l’année » à l’alinéa 3d), dans le calcul de son revenu pour l’année ou pour toute autre année d’imposition) du fait de la disposition d’un bien quelconque de ce contribuable, à l’exception :
+(i) d’un bien amortissable,
+(ii) d’un bien visé à l’un des sous-alinéas a)(i), (ii) à (iii) et (v);
+[...]
+40(1)b) la perte d’un contribuable résultant, pour une année d’imposition, de la disposition d’un bien est :
+(i) en cas de disposition du bien au cours de l’année, l’excédent éventuel du total du prix de base rajusté du bien, pour le contribuable, immédiatement avant la disposition, et des dépenses dans la mesure où celles-ci ont été engagées ou effectuées par lui en vue de réaliser la disposition sur le produit de disposition du bien qu’il en a tiré,
+(ii) dans les autres cas, nulle.
+[...]
+146(1) Définitions — Les définitions qui suivent s’appliquent au présent article.
+« prestation » Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+a) de la fraction de cette somme reçue par une personne autre que le rentier et qu’il est raisonnable de considérer comme faisant partie de la somme incluse dans le calcul du revenu d’un rentier en vertu des paragraphes (8.8) et (8.9);
+b) d’une somme reçue à titre de prime en vertu du régime par la personne avec laquelle le rentier a conclu le contrat ou l’arrangement visé à la définition de régime d’épargne-retraite au présent paragraphe;
+c) d’une somme, ou d’une partie de cette somme, reçue relativement au revenu de la fiducie en vertu du régime, pour une année d’imposition, à l’égard de laquelle la fiducie n’était pas exonérée d’impôt en vertu de l’alinéa (4)c);
+c.1) d’un montant libéré d’impôt, visé à l’alinéa b) de la définition de cette expression au présent paragraphe, qui se rapporte à des intérêts ou à un montant inclus dans le calcul du revenu autrement que par l’effet du présent article.
+Sans préjudice de la portée générale de ce qui précède, le terme vise toute somme versée à un rentier en vertu du régime :
+d) soit conformément aux conditions du régime;
+e) soit à la suite d’une modification du régime;
+f) soit à la suite de l’expiration du régime.
+[...]
+« placement admissible » Dans le cas d’une fiducie régie par un régime enregistré d’épargne-retraite :
+a) placement qui serait visé à l’un des alinéas a) à d), f) et g) de la définition de placement admissible à l’article 204 si la mention « fiducie régie par un régime de participation différée aux bénéfices ou un régime dont l’agrément est retiré » à cette définition était remplacée par « fiducie régie par un régime enregistré d’épargne-retraite »,
+[...]
+d) tout autre placement qui peut être prévu par règlement pris par le gouverneur en conseil, sur recommandation du ministre des Finances.
+[...]
+146(8) Prestations imposables — Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+[...]
+146(9) Dispositions de biens par une fiducie — Lorsque, au cours d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne-retraite :
+a) soit dispose de biens en échange d’une contrepartie d’une valeur inférieure à la juste valeur marchande que ces biens avaient au moment de la disposition, ou sans aucune contrepartie;
+b) soit acquiert des biens en échange d’une contrepartie d’une valeur supérieure à la juste valeur marchande que ces biens avaient au moment de l’acquisition,
+toute différence entre cette juste valeur marchande et la contrepartie doit être incluse dans le calcul du revenu, pour l’année d’imposition, du rentier qui bénéficie de ce régime.
+146(10) Acquisition d’un placement non admissible par une fiducie — Lorsque, à un moment donné d’une année d’imposition, une fiducie régie par un régime enregistré d’épargne-retraite :
+a) acquiert un placement non admissible;
+b) utilise à titre de garantie d’un prêt un bien quelconque de la fiducie ou en permet l’utilisation,
+la juste valeur marchande :
+c) du placement non admissible au moment de son acquisition par la fiducie;
+d) du bien utilisé à titre de garantie, au moment où il a commencé à être ainsi utilisé,
+selon le cas, doit être incluse dans le calcul du revenu, pour l’année, du contribuable qui est le rentier en vertu du régime à ce moment.
+[...]
+146(12) Modification du régime après enregistrement — Lorsque, à une date postérieure à l’acceptation aux fins d’enregistrement par le ministre d’un régime d’épargne-retraite pour l’application de la présente loi, le régime est révisé ou modifié ou un nouveau régime lui est substitué — l’un et l’autre étant appelés « régime modifié » au présent paragraphe — et que le régime modifié ne répond pas aux conditions d’enregistrement prévues au présent article, les règles suivantes s’appliquent sous réserve du paragraphe (13.1) :
+[...]
+b) le contribuable qui était rentier du régime avant que celui-ci ne devienne un régime modifié doit ajouter comme revenu reçu à ce moment une somme égale à la juste valeur marchande de tous les biens du régime immédiatement avant ce moment, dans le calcul de son revenu pour l’année d’imposition qui comprend ce moment.
+[...]
+163(2) Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [...].
+[...]
+163(3) Charge de la preuve relativement aux pénalités — Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[...]
+204 Définitions — Les définitions qui suivent s’appliquent à la présente partie.
+« placement admissible » Dans le cas d’une fiducie régie par un régime de participation différée aux bénéfices ou un régime dont l’agrément est retiré :
+a) espèces, sauf celles ayant une valeur numismatique ou celles dont la juste valeur marchande est supérieure à la valeur nominale à titre de cours légal dans le pays d’émission, ainsi que des dépôts (au sens de la Loi sur la Société d’assurance-dépôts du Canada ou auprès d’une succursale au Canada d’une banque) de telles espèces portés au crédit de la fiducie;
+[...]
+d) actions cotées à une bourse de valeurs au Canada visée par règlement;
+[...]
+f) certificats de placement garantis délivrés par une société de fiducie constituée en société selon les lois fédérales ou provinciales;
+g) contrats de placements visés au sous-alinéa b)(ii) de la définition de régime d’épargne-retraite au paragraphe 146(1) et délivrés par une société agréée par le gouverneur en conseil dans le cadre de ce sous-alinéa;
+[5] Les dispositions applicables du Règlement de l’impôt sur le revenu (Règlement) sont les suivantes :
+4900(6) Pour l’application des sous-alinéas 146(1)(g)(iv) et 146.3(1)(d)(iii) de la Loi, sous réserve des paragraphes (8) et (9), un placement admissible pour une fiducie régie par un régime enregistré d’épargne-retraite... à un moment donné si, à ce moment, il est
+a) une action du capital-actions d’une société admissible, au sens du paragraphe 5100(1) [...]
+b) un intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises;
+c) une participation dans une fiducie de placement dans des petites entreprises.
+5100 (1) Les définitions qui suivent s’appliquent à la présente partie.
+« société admissible » Est une société admissible à un moment donné :
+a) une société canadienne imposable dont la totalité ou la presque totalité des biens sont, à ce moment :
+(i) soit des biens utilisés dans le cadre d’une entreprise admissible exploitée activement par elle ou par une société qu’elle contrôle,
+(ii) soit des actions du capital-actions d’une ou de plusieurs sociétés admissibles qui lui sont liées ou des titres de créance émis par de telles sociétés,
+(iii) soit des biens et des actions visés aux sous-alinéas (i) et (ii);
+« entreprise admissible exploitée activement » Entreprise exploitée principalement au Canada par une société à une date quelconque, à l’exclusion :
+a) d’une entreprise (sauf une entreprise de louage de biens qui ne sont pas des biens immeubles) dont l’objet principal est de tirer un revenu de biens (y compris les intérêts, dividendes, loyers et redevances);
+b) d’une entreprise qui consiste à tirer des gains de la disposition de biens, sauf les biens figurant à l’inventaire de l’entreprise);
+par ailleurs, pour l’application de la présente définition, une entreprise exploitée principalement au Canada par une société à une date quelconque comprend une entreprise exploitée par la société, dans l’un ou l’autre des cas suivants :
+c) si, à cette date, au moins 50 pour cent des employés à plein temps de la société et des sociétés liées à celle-ci qui occupent un emploi en rapport avec l’entreprise sont employés au Canada;
+d) si, à cette date, il est raisonnable d’attribuer à des services rendus au Canada au moins 50 pour cent des traitements et salaires versés aux employés de la société et de chaque société liée à celle-ci qui occupent un emploi en rapport avec l’entreprise.
+IV. TÉMOINS À L’AUDIENCE [6] L’appelante a témoigné à l’audience. L’intimée n’a présenté aucun témoin.
+V. LES FAITS PERTINENTS [7] L’appelante a obtenu un baccalauréat en chimie de l’Université de Western Ontario en 1979 et un certificat en santé publique de l’Université de Toronto vers l’année 1983. Elle a dirigé une entreprise avec son mari de 1995 à approximativement 2004 et elle était chargée des achats, du stockage, du nettoyage, de la comptabilité et des impôts de la société. Elle compte une expérience en comptabilité, ayant acheté un logiciel comptable et un logiciel Quicken en 1995 pour l’usage de l’entreprise. Elle a appris d’elle-même à les utiliser. L’appelante a également rendu des services de comptabilité à des tiers à t cette époque. Plus tard, en 2000, elle a été employée par la société Primerica, et elle vendait des régimes enregistrés d’épargne-études dans lesquels des particuliers pouvaient investir de l’argent pour leurs enfants et recevoir des déductions fiscales à peu près comme pour un REER. La même année, l’appelante a suivi chez Primerica un cours dans le but d’obtenir un permis de vente d’assurance dans lequel elle a acquis des connaissances en matière d’assurances-vie, assurances-vie temporaires, de différentes formes de placements possibles au moyen de ces assurances, d’impact fiscal et de déclarations de revenus. L’appelante investit dans son REER depuis les années 1980.
+[8] En 1999, l’appelante voulait obtenir un meilleur rendement de son REER. En novembre 1999, elle a suivi un séminaire d’une journée dans un hôtel à London, en Ontario, sur la manière d’obtenir un meilleur rendement de son REER. Le conférencier, Doug Henderson, évoqué les placements REER dans des projets à caractère humanitaire, et il lui a recommandé de consulter Trevor Chilton, président de 629900 et il lui a remis le numéro de téléphone de M. Chilton. L’appelante a communiqué avec M. Chilton et ils ont eu une brève conversation, à la suite de laquelle elle a décidé d’investir pour l’intermédiaire de celui-ci.
+[9] En novembre ou décembre 1999, l’appelante s’est rendue en voiture à jusqu’à Toronto pour rencontrer M. Chilton. Ils se sont rencontrés dans le hall d’un hôtel, ils ont eu une discussion au cours de laquelle elle a signé les documents pour effectuer son placement. Les documents signés initialement visaient une société à responsabilité limitée de l’Alberta, mais elle a été remplacée par la suite par 629900.
+[10] Vu les éléments de preuve, il n’est clair à quel moment cela s’est produit, mais l’appelante a discuté de son investissement avec Trevor Chilton et Rick Cahill, vice-président et directeur responsable des fonds internationaux de 629900. Durant la ou les discussions, l’appelante a été informée qu’elle pouvait s’attendre à un rendement de 50 % à 100 % sur son placement dans un délai d’un an ou de deux ans. M. Chilton n’a pas indiqué à l’appelante la nature de l’investissement et son lieu si ce n’est que pour dire qu’il visait, en partie, un projet à l’extérieur du Canada et, en partie, des courtiers. L’appelante n’a pas posé de questions à M. Chilton et à M. Cahill sur la manière dont ils pouvaient obtenir des rendements de 50 % à 100 % et elle ne connaissait pas leurs qualifications et leur expérience de travail respectives.
+[11] M. Chilton et M. Cahill n’ont pas remis à l’appelante la moindre information complémentaire ni aucun document financier pertinent concernant son investissement. L’appelante n’a reçu aucun plan d’affaires, prospectus ou renseignement relativement à la nature de l’investissement, ni de renseignements concernant le lieu où les sommes allaient être investies. Elle a entendu ultérieurement que certains des investissements étaient placés dans des projets à caractère humanitaire, même si on ne peut dégager des éléments de preuve le moment exact.
+[12] Quelque temps après avoir rencontré M. Chilton et M. Cahill, l’appelante a rencontré Gary Price. M. Price était le conseiller financier de l’appelante à l’époque et il avait géré le REER de l’appelante depuis les années 1980. L’appelante avait besoin de M. Price pour transférer les sommes de son REER parce que c’était lui qui le gérait. L’appelante a informé M. Price au sujet de l’investissement qu’elle allait faire avec M. Chilton. M. Price lui a dit qu’il était inquiet à propos de cet investissement et qu’elle ne devrait pas y souscrire. Bien que l’appelante a témoigné qu’elle était au courant qu’il y avait une limite relativement au contenu étranger en matière de REER, elle n’a pas demandé à M. Price si l’investissement était admissible aux fins du REER, ni ne lui a-t-elle demandé de conseils à ce sujet. L’appelante n’a obtenu aucun autre conseil d’un tiers indépendant relativement à cet investissement.
+[13] Le 23 novembre 1999, l’appelante a ouvert un compte fiduciaire régi par un régime enregistré d’épargne-retraite avec Canadian Western Trust (« CWT ») parce que M. Chilton lui avait dit de le faire pour effectuer l’investissement. M. Chilton lui avait également dit qu’elle devait ouvrir ce genre de compte, transférer l’argent de son REER, puis damer les directives afin que le REER investisse dans 629900.
+[14] Sur le formulaire de demande que l’appelante a signé pour ouvrir le compte à CWT, elle a reconnu qu’elle était chargée de vérifier l’admissibilité de chaque investissement aux termes de la loi fiscale applicable et qu’elle était consciente de l’impact fiscal défavorable que pourrait avoir l’inclusion dans le compte d’investissements non admissibles à un REER aux termes de cette loi fiscale.
+[15] Du 23 novembre 1999 au 6 décembre 1999, l’appelante a vendu une partie des actifs de son REER personnel, constituée d’un investissement dans les fonds communs de placement AGF Inc, pour la somme de 52 880,00 $. Le 6 décembre 1999, l’appelante a autorisé le transfert de 52 880,00 $ provenant de son REER à sa fiducie régie par un REER à CWT.
+[16] Le 24 décembre 1999, l’appelante a signé une lettre adressée à M. Chilton à laquelle elle y joint le document intitulé Freedom Foundations Inc. (« FFI ») [traduction] « Entente de financement de projet humanitaire » qu’elle a également signée. Par l’entente, l’appelante reconnaissait qu’elle avait été avisée par FFI de consulter et de retenir les services de ses propres experts et représentants pour la conseiller sur les effets juridiques et fiscaux de toute opération faite. Aux termes de cette entente, l’appelante acceptait de placer la somme de 52 880,00 $ aux soins de FFI dans le but de recevoir des bénéfices provenant de projets à caractères humanitaires. L’investissement ne portaient d’intérêts, les fonds demeuraient en tout temps dans le compte bancaire de FFI, totalement sous son contrôle et soumis à son pouvoir de signature. Les bénéfices devaient être déposés dans le compte de FFI à l’étranger à la fin de chaque cycle de 15 à 45 jours et devaient être distribués tous les 30 jours à compter de la date d’entrée en vigueur de l’entente et dans les 10 jours de leur réception dans le compte de FFI. Les bénéfices provenant des investissements étaient versés à l’appelante et non à sa fiducie régie par un REER.
+[17] Le 21 janvier 2000, l’appelante a signé une lettre de garantie pour CWT lui demandant d’investir la somme de 52 880,00 $ dans 5 288 actions de 629900. Par cette lettre, elle confirmait et elle certifiait que ce placement était un « placement admissible » au sens de la LIR, elle reconnaissait qu’elle avait la responsabilité d’évaluer l’investissement et qu’elle avait demandé et obtenu des conseils financiers, des conseils en matière d’investissements, des conseils juridiques et des conseils fiscaux indépendants dans la mesure qu’elle avait jugée nécessaire
+[18] L’appelante a également indiqué dans la lettre de garantie qu’une lettre provenant des dirigeants/comptables/avocats ou autre conseiller professionnel qualifié de 629900 était annexée par laquelle ils déclaraient que l’investissement dans 629900 était un « placement admissible » et affirmaient que la juste valeur marchande actuelle de l’action de 629900 était de 10,00 $. En contre‑interrogatoire, l’appelante a admis que nulle lettre de ce genre n’était jointe à la lettre de garantie et qu’elle n’avait vu nulle lettre de ce genre avant de signer la lettre de garantie. L’appelante a dit qu’elle croyait que la valeur de l’action était de 10,00 $, bien qu’elle n’eut rien fait pour déterminer la juste valeur marchande des actions. Sur la base de cette conviction, elle a ensuite donné des instructions à sa fiducie de REER d’acheter des actions de 629900 au prix de 10,00 $ l’action. Il n’est pas clair, vu les éléments de preuve produits par l’appelante, ni quand ni de qui elle a reçu une copie de la lettre provenant de Blaine Cisna de Cisna Accounting datée du 27 mai 2000, indiquant que, selon lui, la juste valeur marchande des actions était de 10,00 $ l’action et que 629900 était une société admissible aux termes de la LIR. Ce qui ressort clairement du témoignage de l’appelante, c’est qu’elle n’avait pas retenu les services de M. Cisna et qu’elle n’avait eu nul contact avec lui.
+[19] Le 9 février 2000, la fiducie régie par un REER de l’appelante a acheté 5 288 actions de 629900, pour le montant de 52 880,00 $.
+[20] Entre le 9 février 2000 et le 10 avril 2002, moment où l’appelante a signé sa déclaration de revenus de l’année 2000, elle a reçu des courriels de la part de M. Chilton. Par un courriel daté du 7 février 2000, des questions telles que la fraude hypothécaire, la fraude liée aux cartes de crédit, la fraude liée à un prêt fictif et un projet permettant à des gens d’acheter 1 000 $ d’or pour la somme de 1 $ étaient signalés. Le 23 février 2000, M. Chilton remarquait dans un autre courriel que la récupération des sommes investies progressait lentement en raison d’un tiers nommé Louis Grenier qui essayait de gagner du temps. Dans un courriel daté du 2 janvier 2001, M. Chilton indiquait que les lignes téléphoniques de M. Cahill étaient sous surveillance, qu’il ne pouvait parler à personne sans compromettre sécurité et confidentialité et que l’on prévoyait la distribution trimestrielle des bénéfices dès mars 2001. Dans ce courriel, M. Chilton expose également de nombreux projets d’investissement (« PI ») à l’étranger, notamment :
+[traduction]
+Projet no 1
+Bien que j’aimerais beaucoup l’oublier, nous devons néanmoins faire face à ce que nous avons devant nous aujourd’hui. Le 13 décembre, Donald et moi avons rencontré Sam et Larry pour passer en revue avec eux divers projets et diverses questions en cause. D’abord, ils s’occupent de la récupération des sommes investies auprès de Louis Grenier et Steve McKim à partir de la Californie. Certains des participants dans cette entreprise désastreuse ont parlé à Louis, mais n’ont obtenu que d’autres contes de fées, demandes de reports et excuses ridicules. Le fait est que ces idiots ont perdu tout contrôle sur ces sommes d’argent et qu’ils ne font que régurgiter le baratin qu’on leur sert. La bonne nouvelle est que, grâce à nos efforts au Royaume-Uni, les flux financiers ont été répérés et plus encore. Ces efforts ont porté fruit surtout depuis le mois de septembre, lorsque les gens du Royaume-Uni se sont penchés sur notre dossier.
+Ces individus peu scrupuleux qui ont conclu le contrat avec ces deux idiots ont effectivement réussi à en appâter d’autres également. L’approche maintenant consiste à émettre un avis amical aux intéresser au sommet pour qu’ils veuillent bien rendre les sommes d’argent avant qu’une enquête officielle ne soit lancée contre eux. Je suis certain qu’ils souhaitent éviter une enquête officielle, puisqu’elle mènerait fort probablement à la prison en lien avec ces activités commerciales peu scrupuleuses. Cela n’a pas été une expérience agréable, mais elle en a été une des plus éducatives sur ce qui arrive quand on accorde la gestion des fonds à quelqu’un qu’on ne connaît pas. Malheureusement, cette expérience éducative s’est avérée coûteuse pour toutes les parties concernées. Il s’agit toutefois de la seule façon d’apprendre les règles du jeu. A long terme, notre apprentissage sera grandement récompensé une fois que nous aurons surmonté cet obstacle. C’est de cette façon que nous avons appris à reconnaître les alertes et c’est ce que je présente maintenant aux participants à nos séminaires. Ces leçons régissent certainement les questions « comment? » et « qui? » quant au nettoyage interne avec les participants de cette entreprise dès le début de la nouvelle année. Je vous tiendrai au courant de la date. Je crois que nous réussirons cette récupération au cours de la nouvelle année afin de clore cette affaire pour de bon.
+Projet no 2
+Le 4 mars 2000, 249 000 $ US
+Placés en Europe dans un compte de garde autorisé par nous. Ce type de compte porte intérêt à un taux bancaire très élevé par rapport à ici. Il ne s’agit pas d’un programme bancaire, mais plutôt d’une entreprise commerciale visant un secteur de haute technologie : la coupe de diamants par lasers. Il s’agit d’un plan à très long terme qui pourrait porter ses fruits pendant plusieurs années une fois que l’aura pris son envergure. C’est ce qu’ils ont fait cette année en organisant l’entreprise visée et en obtenant les contrats de distribution plus précisément avec l’Orient ainsi que les fournitures ou les matières premières en Afrique du Sud et en Russie. Comme la plupart des entreprises, cela nécessite beaucoup plus de temps qu’un simple programme d’échange bancaire. Je crois que plusieurs n’ont pas le concept complet ici et quelles attentes raisonnables peuvent en découler. Nos partenaires nous assurent que cela sera en effet très lucratif; après tout, la DeBeers est dans ce milieu. Il ne s’agit pas d’une transaction à court terme, mais plutôt d’un rendement à très long terme qui nous profitera pendant des années. Le début des versements de dividendes ne devrait pas tarder maintenant.
+Projet no 3
+Le 4 et le 10 avril 2000, 280 000 $ US
+Le 20 juin 2000, 275 000 $ US
+Investir dans le financement d’un projet d’habitation à caractère humanitaire de grande envergure au Mexique. Il s’agit également d’un projet à très long terme auquel nous pourrions participer avec nos partenaires de cette région pendant 5 à 10 ans facilement. La position minimale pour nous était de doubler notre argent, mais cette région offre de nombreuses occasions qui pourraient nous permettre de dépasser cet objectif. Nous avions prévu les premières opérations sur les instruments pour cet automne, mais les élections au Mexique et le premier changement de parti politique depuis plus de 60 ans ont ralenti la progression du projet auprès des représentants mexicains. On peut repartir; le nouveau gouvernement est entré en fonction le 1er décembre. Sam et Larry viennent tout juste de revenir de là-bas après avoir travaillé sur le projet au début décembre. En 2001, la première phase des projets devrait démarrer et plusieurs autres suivront.
+Projet no 4
+Le 1er août 2000, 200 000 $ US
+Le 1er septembre 2000, 252 000 $ US
+Tous deux placés dans un programme en cours qui offre un rendement de 50 % et de 40 % par mois, respectivement, à la bourse. Cela devait commencer à être déboursé à la fin novembre, mais cela a été reporté pour être versé en trois parties, soit en janvier, en février et en mars. Ce ralentissement a été causé par une ordonnance d’interdiction des opérations émise à la suite d’une enquête non fondée qui a été réglée depuis.
+Projet no 5
+Le 6 décembre 2000, 425 000 $ US
+Investis dans un programme de lettre de crédit qui est également opérationnel sur une base permanente. Arrangement de garantie de banque à banque auprès de banques au Costa Rica et aux Bahamas. Cela procurera une source de revenus constante à long terme, pendant au moins 5 ans et une fois par trimestre au minimum. Grâce à l’accroissement de ces lettres de crédit, nous pourrons accroître ce placement sans risque d’au moins 50 % par année.
+Projet no 6
+Le 29 décembre 2000, 1 048 000 $ US
+Placés à très court terme (moins d’un mois) dans un programme de bons du Trésor américain. Les bénéfices ne sont pas déterminés à ce jour sauf qu’ils seront exceptionnels. Le contrat nous sera remis au début de la nouvelle année. Nous conservons le contrôle de signature en tout temps sur nos sommes d’argent et nous pouvons nous retirer en tout temps. Absolument aucun risque sur les instruments et nous faisons affaire avec des personnes ressources établies que nous connaissons bien[1].
+[21] Le 12 février 2001, l’appelante a envoyé un courriel à M. Cahill à propos des préoccupations qu’elle avait au sujet de l’investissement. M. Cahill a répondu au courriel et il dit qu’entre autres choses, M. Chilton avait pris plus de 2 millions $ US et qu’il avait été démis en tant que président et administrateur de FFI et de 629900 par les autres administrateurs.
+[22] Le 8 mars 2001, Donald Neuls, administrateur de 629900, a envoyé un courriel à l’appelante disant que M. Chilton ne pouvait participer à l’investissement de l’industrie du diamant en raison de son casier judiciaire et de ses relations frauduleuses actuelles, que des bénéfices à la hauteur de 100 % étaient attendus de l’investissement du Mexique, qu’ils avaient réalisé de très bons résultats au Mexique et qu’ils espéraient voir d’ici un mois des bénéfices beaucoup plus élevés que le doublement prévu. Deux programmes de placements privés devaient produire des rendements nets de 50 % et de 40 % par mois, respectivement, qui seraient versés vers le 15 mars 2001 et le 22 mars 2001.
+[23] Le 4 juillet 2001, l’appelante a reçu un autre courriel de M. Neuls dans lequel il mentionnait une lettre provenant de M. Chilton contenant de fausses déclarations. M. Neuls a écrit que les actions de 629900 détenues en fiducie à CWT devaient être restituées et que la détermination d’un prix poserait problème étant donné que M. Chilton avait refusé de remettre les livres comptables. M. Neuls a demandé la coopération des actionnaires pour produire la preuve que des sommes avaient été transférées à CWT pour des actions de 629900.
+[24] Le 10 avril 2002, l’appelante a signé sa déclaration de revenus et ce faisant, elle certifiait que les renseignements donnés étaient exacts, complets et divulguaient la totalité de son revenu.
+[25] Le 31 décembre 2002, 629900 a été radiée du registre des entreprises au motif qu’elle était inactive[2].
+VI. ANALYSE A. Le ministre a-t-il inclus à bon droit la somme de 52 880,00 $ au revenu de l’appelante pour l’année d’imposition 2000? [26] Pour répondre à cette question, je mènerai une analyse pour rechercher si les actions de 629900 acquises par la fiducie régie par un REER de l’appelante est un « placement admissible » dans une « société admissible » au sens des paragraphes 146(1) et (10) de la LIR et des alinéas 4900(6) et 5100(1) du Règlement.
+[27] Si nécessaire, je rechercherai si les actions de 629900 achetées par l’entremise de la fiducie régie par un REER de l’appelante ont été acquises en échange d’une contrepartie plus élevée que leur juste valeur marchande aux termes du paragraphe 146(9) de la LIR et si l’appelante a reçu une prestation au montant 52 880,00 $ conformément au paragraphe 146(8) de la LIR.
+(1) Les actions de 629900 acquises par l’entremise du REER de l’appelante étaient-elles un placement admissible dans une société admissible en vertu de la LIR et du Règlement? [28] Le placement admissible pour une fiducie régie par un REER comprend les placements prescrits par règlement[3]. Selon la réglementation pertinente, un bien est un placement admissible pour une fiducie régie par un REER si, à l’époque pertinente, le bien est une action du capital-actions d’une société admissible, au sens du paragraphe 5100(1), sauf si le souscripteur aux termes du régime est actionnaire désigné de la société[4].
+[29] Une société admissible est définie par réglementation comme étant une société canadienne imposable dont la totalité ou la presque totalité des biens sont, à ce moment, utilisés dans le cadre d’une entreprise admissible exploitée activement par elle ou par une société qu’elle contrôle[5].
+[30] Les mots « entreprise admissible exploitée activement » visent toute entreprise exploitée principalement au Canada par une société[6].
+[31] Selon ces définitions, les actions de 629900 acquises par la fiducie régie par un REER de l’appelante seront qualifiées de placement aux termes de la LIR si, au moment de l’acquisition de ces actions, 629900 était une société canadienne imposable qui utilisait la totalité ou la presque totalité de ses biens dans le cadre d’une entreprise active exploitée principalement au Canada.
+[32] A l’occasion de l’affaire Harquail c. La Reine[7], la Cour d’appel fédérale (« CAF » a fait d’utiles observations sur le sens des mots « société exploitée activement ». La Cour a conclu :
+Il n’est pas facile de circonscrire la teneur du concept d’exploitation d’une entreprise. On peut dégager deux paramètres extrinsèques qui permettent de conclure qu’il n’y a pas d’exploitation : d’une part, lorsqu’une société dûment constituée n’a pas réellement commencé son exploitation et, d’autre part, lorsqu’une société a été mise en veilleuse et se limite à tenir des assemblées annuelles et à produire des déclarations pour éviter sa dissolution. Il y a cependant, entre ces deux extrêmes, certaines activités qui sont les signes d’une société en exploitation et qui devraient être placées dans le spectre du concept de l’exploitation d’une entreprise même si, par exemple, ces activités ont pour but de conclure un accord qui au bout du compte ne l’est pas, ou même si elles n’entraînent pas la production d’un revenu[8].
+[33] Afin de déterminer si 629900 exploitait une entreprise active au Canada au moment où les actions ont été acquises par la fiducie régie par un REER de l’appelante, je dois répondre aux trois questions suivantes :
+1. Quelle était l’activité de 629900?
+2. La société a-t-elle exercé cette activité au Canada?
+3. La société a-t-elle exercé cette activité concrèetement?
+[34] Selon les hypothèses de fait énoncées par le ministre, au moment où la fiducie régie par un REER de l’appelante a acquis les actions de 629900, l’entreprise n’avait pas rempli de déclaration de revenus, elle n’avait produit aucun prospectus pour la distribution des actions et elle n’avait produit aucun plan d’affaires, de budget ou état financier à l’appui des opérations sur l’action. Plus encore, le ministre a présumé que 629900 ne détenait aucun bien, qu’elle n’avait aucun employé, aucun compte bancaire et qu’elle n’exerçait aucune activité commerciale.
+[35] En établissant les cotisations et les nouvelles cotisations, le ministre se fonde sur des présomptions. Le fardeau initial du contribuable est de « démolir » les présomptions exactes du ministre, mais rien de plus. L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente une preuve de prime abord facie[9].
+[36] A l’occasion de l’affaire Amiante Spec Inc. c. Canada[10], la CAF a défini la preuve de prime abord comme suit :
+Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, 2000 CanLII 426 (CCI), [2000] T.C.J. No. 53 au paragraphe 23)[11].
+[37] L’appelante n’a pas rapporté de preuve suffisante pour démolir les hypothèses de fait mentionnées au paragraphe 34 ci-dessus. Aucun élément de preuve ne m’a été produit qui me permettrait d’établir l’activité dans laquelle 629900 participait. Aucun élément de preuve ne m’a été soumis pour établir que 629900 était une société exploitante ou qu’elle n’effectuait toute autre activité que la vente de ses actions. Le simple fait que des actions de l’entreprise étaient vendues ne démontre pas que l’entreprise était une société exploitante et qu’elle était une entreprise active.
+[38] Puisque l’appelante ne s’est pas acquittée de l’obligation qui lui incombait de démolir les hypothèses de fait du ministre, je dois retenir ces hypothèses. Je dois retenir l’idée que 629900 n’avait produit aucune déclaration de revenus, n’avait produit aucun prospectus pour la distribution des actions, n’avait produit aucun plan d’affaires, budget ou état financier à l’appui des opérations sur les actions et qu’elle ne détenait aucun bien, n’avait aucun employé et aucun compte bancaire et surtout, qu’elle n’avait exercé aucune activité commerciale.
+[39] Selon les éléments de preuve qui m’ont été présentés, je conclus que 629900 n’était pas une société active; elle n’exploitait pas une activité commerciale. Dès lors, 629900 n’était pas une entreprise admissible opérant activement aux termes du Règlement et par conséquent, l’acquisition de ses actions par l’entremise de la fiducie régie par un REER de l’appelante constituait un placement non admissible. Compte tenu de cette conclusion, le paragraphe 146(10) joue automatiquement et la juste valeur marchande (« JVM ») des actions au moment de leur acquisition doit être incluse dans le revenu de l’appelante[12].
+(2) Les actions de 629900 ont-elles été acquises par l’entremise de la fiducie régie par un REER de l’appelante pour une contrepartie plus élevée que leur juste valeur marchande? [40] A l’occasion de l’affaire Canada (Procureur Général) c. Nash[13], la CAF a entériné la définition suivante de JVM :
+8. […]
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle-ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble-t-il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble‑t‑il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre.
+[41] Le ministre a tenu pour acquis que la valeur d’une action était de 1,00 $. L’appelante devait présenter une preuve de prime abord pour démontrer la juste valeur marchande des actions. L’appelante ne s’est pas acquittée de son fardeau de démolir la présomption du ministre et n’a pas établi la JVM des actions. Le seul élément de preuve présenté par l’appelante sur ce point était son témoignage portant qu’elle croyait que la valeur de l’action était de 10,00 $ même si elle n’a rien fait pour déterminer la juste valeur marchande des actions. Se fondant sur cette conviction, elle a fourni des instructions à sa fiducie de REER d’acheter les actions de 629900 pour le prix de 10,00 $ l’action.
+[42] À mon avis, cette opération ne tend pas à prouver la JVM d’une action de 629900. Pour qu’une opération tende à prouver la JVM d’une action selon la définition approuvée par la CAF par la jurisprudence Nash, elle doit représenter le prix le plus élevé qu’une action peut raisonnablement obtenir si elle était vendue de façon normale et dans le cours ordinaire des affaires, sur un marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre.
+[43] Il ne m’a été présenté aucun élément de preuve allant dans ce sens. L’opération réalisée par l’appelante ne satisfait pas les critères de la définition consacrée par la jurisprudence Nash. Pour ces motifs, je ne peux conclure que le prix payé pour l’action de 629900 par l’entremise de la fiducie régie par un REER de l’appelante tend à prouver la JVM des actions. L’appelante n’a pas réussi à présenter d’élément tendant à démolir l’hypothèse de fait retenue par le ministre. Je dois par conséquent retenir l’hypothèse de fait du ministre et conclure que la juste valeur marchande de l’action de 629900 était de 1,00 $ comme le ministre l’a présumé. Ayant tiré à cette conclusion, je dois également conclure, aux termes du paragraphe 146(9) de la LIR, que les actions de 629900 ont été achetées par l’entremise de la fiducie régie par un REER de l’appelante pour une contrepartie plus élevée que leur juste valeur marchande.
+[44] Ayant conclu que les actions de 629900 achetées par l’entremise de la fiducie régie par un REER de l’appelante ne constituant pas un « placement admissible » d’une « société admissible » et que ces actions ont été acquises pour une contrepartie plus élevée que leur juste valeur marchande, il n’est pas nécessaire que je recherche si l’appelante a reçu des prestations dans le cadre d’un REER aux termes du paragraphe 146(8) de la LIR pour disposer du présent appel.
+(3) Conclusion [45] La somme de 5 288,00 $ représentant la JVM de 5 288 actions de 629900 achetées par l’entremise de la fiducie de REER de l’appelante durant l’année d’imposition 2000 doit être ajoutée au revenu de l’appelante conformément au paragraphe 146(10) de la LIR. Aux termes du paragraphe 146(9) de la LIR, la différence entre la contrepartie remise pour acquérir les actions (52 880,00 $) et la JVM des actions (5 288,00 $) doit également être ajoutée au revenu de l’appelante pour l’année concernée. Conséquemment, la somme additionnelle de 47 592 $ être ajoutée au revenu de l’appelante.
+B. L’appelante est-elle passible de pénalités aux termes du paragraphe 163(2) de la LIR? [46] Aux termes du paragraphe 163(2) de la LIR, où un contribuable fait, sciemment ou dans des circonstances équivalant à une faute lourde, un faux énoncé ou une omission dans une déclaration, remplie pour une année d’imposition, ou y participe, y consent ou y acquiesce, il est passible d’une pénalité.
+[47] A l’occasion de l’affaire Laplante c. La Reine[14], la Cour a résumé comme suit l’interprétation donnée par la jurisprudence à la notion de faute lourde :
+[11] La notion de « faute lourde » qui est acceptée par la jurisprudence est celle qui a été définie par le juge Strayer dans la décision Venne c. Canada (ministre du Revenu national – M.R.N.) [...]
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[12] Dans Da Costa c. Canada [...], le juge en chef Bowman [...] fit les commentaires suivants :
+[9] [...] Les questions qui se posent dans chaque cas [...] sont les suivantes :
+a) le contribuable a-t-il commis une faute en faisant un faux énoncé ou une omission dans la déclaration de revenus?
+b) la faute était-elle assez grave pour justifier l’utilisation de l’épithète «lourde» qui est quelque peu péjoratif?
+[...]
+11 Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+[...]
+[13] La Cour d’appel fédérale a de plus précisé, dans l’arrêt Villeneuve c. Canada [...] que l’expression « faute lourde » pouvait englober l’aveuglement volontaire en plus de l’acte intentionnel et de l’intention coupable[15].
+[48] La faute lourde comprend le cas où le contribuable fait preuve d’ignorance volontaire au sujet des faits pertinents lorsqu’il ressent le besoin de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité[16].
+[49] La notion d’ignorance volontaire a été discutée en détails par notre Cour à l’occasion de l’affaire Torres c. La Reine[17]; le résumé suivant des principes émergeant de la jurisprudence traitant de cette notion se retrouve au paragraphe 65 de la décision:
+[65] [...]
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire.
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi...
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouge clairs », expression que j’employais à l’occasion de l’affaire Bhatti, comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même[18].
+[50] L’appelante a clairement manifesté son indifférence quant à l’observation de la loi. Sa négligence était telle, à mon avis, qu’elle peut être qualifiée de faute lourde. Vu les circonstances de cette affaire, il y avait amplement de signes précurseurs pour que l’appelante tente, avant de produire sa déclaration pour l’année d’imposition 2000, de rechercher de plus amples renseignements au sujet du placement que sa fiducie régie par un REER effectuait dans 629900 et concernant l’incidence fiscale de cet investissement. À mon avis, l’appelante a délibérément cherché à demeurer ignorante des faits en ne faisant nulle recherche à ce sujet parce qu’elle ne voulait pas connaître la vérité sur son placement dans 629900.
+[51] Je peux résumer les circonstances comme suit :
+1. L’appelante a été informée qu’elle pouvait s’attendre à un rendement de 50 % à 100 % sur son placement dans un délai d’un an ou deux. L’appelante n’a pas demandé à M. Chilton et à M. Cahill de quelle manière ils pouvaient obtenir de tels rendements.
+2. L’appelante n’a pas reçu de renseignement ou de document financier pertinent concernant 629900 ou ses placements futurs.
+3. L’appelante a fait entièrement confiance à M. Henderson, à M. Chilton et à M. Cahill après quelques rencontres seulement. L’appelante ne connaissait rien de M. Henderson, de M. Chilton et de M. Cahill, y compris au sujet de leurs qualifications ou de leur expérience, avant de décider de leur confier ses fonds et ses investissements.
+4. Le conseiller financier de l’appelante, M. Price, lui avait dit que l’investissement le rendait nerveux et il lui a suggéré de ne pas l’effectuer.
+5. L’appelante savait qu’il y avait une limite relativement au contenu étranger permis dans les REER et elle était au courant qu’il y avait au moins six projets étrangers dans le placement.
+6. Entre le 9 février 2000 et le 10 avril 2002, l’appelante a reçu plusieurs courriels dont le contenu, elle l’a admis, l’inquiétait. Parmi ces courriels il y avait ceux de M. Chilton. Les courriels de M. Cahill et de M. Neuls le 12 février 2001 et le 8 mars 2001 respectivement, ont confirmé qu’il y avait de sérieux problèmes avec le placement et avec les personnes qui en faisaient la promotion.
+7. L’appelante possédait d’autres fonds REER pour lesquels elle recevait des états de compte annuels, mais elle n’a pas reçu ce genre d’état de compte pour le placement en cause.
+8. Quand l’appelante a ouvert son compte de fiducie régie par un REER avec la CWT, elle a reconnu sur le formulaire de demande que c’est elle qui était tenue de vérifier l’admissibilité de chaque placement pour son plan, conformément aux dispositions de la loi fiscale applicable, et elle a attesté qu’elle connaissait l’impact fiscal défavorable découlant de l’inclusion de placements non admissibles en vertu de cette loi.
+9. Dans une lettre de garantie à CWT qu’elle a signée, elle a confirmé et certifié que l’investissement en cause était un « placement admissible » comme ces mots sait définis par la LIR, elle a reconnu qu’elle avait recherché et obtenu des conseils financiers, d’investissement, juridiques et fiscaux indépendants dans la mesure qu’elle avait jugé nécessaire, et en outre, elle avait reconnu qu’elle était responsable d’évaluer le placement.
+10. Dans le projet à caractère humanitaire de Freedom Foundations Inc, l’appelante a reconnu qu’il lui avait été conseillé et qu’il lui était alors conseillé de consulter et de retenir les services de ses propres experts et représentants pour la conseiller sur l’impact juridique et fiscal de toute opération qui avait été effectuée.
+[52] En dépit de ces circonstances et des signes d’alarme, l’appelante n’a pas demandé à M. Price, ou à qui que ce soit d’autre, de conseils en bonne et due forme concernant ce placement et concernant son impact fiscal avant de produire sa déclaration de revenus pour l’année d’imposition 2000.
+[53] Je conclus que l’appelante a sciemment, ou dans des circonstances équivalant à faute lourde, fait une fausse déclaration ou une omission dans sa déclaration de revenus de l’année 2000 quand elle a omis d’ajouter à son revenu la somme de 52 880,00 $ utilisée par sa fiducie régie par un REER pour acheter des actions de 629900. Les circonstances de l’affaire sont telles que l’appelante était consciente de la nécessité d’une vérification. Malgré ses connaissances en matière d’investissements et son expérience de travail, elle a choisi de ne rien faire.
+[54] Pour ces motifs, je conclus que l’appelante est passible de la pénalité prévue par le paragraphe 163(2) de la LIR.
+C. L’appelante est-elle en droit de demander la déduction d’une perte en capital pour son année d’imposition 2000? [55] Par ses observations orales, l’appelante a soulevé une question qui n’avait pas été soulevée dans son avis d’appel. L’appelante soutient qu’elle pourrait demander la déduction d’une perte en capital pour l’année d’imposition 2000. Compte tenu du fait que l’appelante n’était pas représentée par un avocat, j’ai consenti à écouter ses observations sur cette question. L’appelante et l’intimée ont eu l’occasion de présenter des observations écrites sur cette question.
+[56] Aux termes du paragraphe 38b) et des paragraphes 39(1)b) et 40(1)b), le contribuable ne peut demander la déduction relative à une perte en capital pour une année d’imposition que s’il y a d’abord disposition du bien. En l’espèce, à la lumière des éléments de preuve dont je suis saisi, la fiducie régie par un REER de l’appelante n’a pas disposé de ses actions de 629900 ou de tout autre bien pendant l’année d’imposition 2000. Comme il n’y a pas eu disposition de bien, nulle perte en capital n’est déductible.
+VII. Conclusion [57] Pour tous ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 22e jour de juin 2016.
+« Sylvain Ouimet »
+Le juge Ouimet
+Traduction certifiée conforme
+ce 07e jour de juillet 2017.
+Francois Brunet, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 153
+NO DU DOSSIER DE LA COUR :
+2011-257(IT)G
+INTITULÉ :
+Barbara G. Gorman c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Les 14 et 15 septembre 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 22 juin 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Ron D.F. Wilhelm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK/ EN BLANC]
+Cabinet :
+[BLANK/ EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Pièce I-1, onglet 26.
+[2] Voir les faits admis, numéros 17 et 23.
+[3] LIR, paragraphe 146(1).
+[4] Règlement, paragraphe 4900(6).
+[5] Ibid, paragraphe 5100(1).
+[6] Ibid.
+[7] Harquail c. La Reine, 2001 CAF 320.
+[8] Ibid, au paragraphe 62.
+[9] Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336, aux paragraphes 92 et 93.
+[10] Amiante Spec Inc. c. Canada, [2009] ACF 603 (QL).
+[11] Ibid, au paragraphe 23.
+[12] Canada c. Nunn, 2006 CAF 403, au paragraphe 22.
+[13] Canada (Procureur Général) c. Nash, 2005 CAF 386.
+[14] Laplante c. La Reine, 2008 CCI 335.
+[15] Ibid, aux paragraphes 11 à 13.
+[16] Torres c. La Reine, 2015 CAF 60, au paragraphe 4.
+[17] Torres c. La Reine, 2013 CCI 380, confirmé par 2015 CAF 60.
+[18] Ibid, au paragraphe 65.

@@ -1,0 +1,223 @@
+---
+title: "Coast Capital Savings Credit Union v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111221/index.do"
+last_modified: "2015-08-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 195"
+citation2: ""
+neutral_citation: "2015 TCC 195"
+decision_date: "2015-08-05"
+language: "en"
+item_id: "111221"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2626
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:14:15.164000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ccfa28addd36eb2b29ed7cd78644cc0de905ab00075fbc5fdb9a0ddb7ec8531e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coast Capital Savings Credit Union v. The Queen
+
+- Citation: 2015 TCC 195
+- Decision date: 2015-08-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2626, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coast Capital Savings Credit Union v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-05
+Neutral citation
+2015 TCC 195
+File numbers
+2013-1860(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1860(IT)G
+BETWEEN:
+COAST CAPITAL SAVINGS CREDIT UNION,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on May 5, 2015 at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Applicant:
+Robert Alan Kopstein
+Counsel for the Respondent:
+Perry Derksen
+ORDER
+WHEREAS the Applicant has brought a motion for an Order seeking leave to file an Amended Notice of Appeal pursuant to Rule 54 of the Tax Court of Canada Rules (General Procedure);
+AND WHEREAS, the Respondent did not oppose the filing of an Amended Notice of Appeal generally;
+AND WHEREAS, the Respondent did not oppose the allegations of fact pled in paragraphs 20A, 20B, 20C, 20D, 20E, 20F, 20G, 20H and 20I;
+AND WHEREAS, it was the Respondent’s position that paragraphs 4A, 23(b), 23(f), 28A, 30A, 33A and 37A in the proposed Amended Notice of Appeal should be struck;
+UPON hearing the representations of the parties and considering their written argument;
+THIS COURT ORDERS that:
+1. Paragraphs 4A, 23(b), 23(f), 28A, 30A, 33A and 37A of the proposed Amended Notice of Appeal do not disclose a cause of action and they are to be struck.
+2. The Appellant can file the Amended Notice of Appeal once the paragraphs listed above have been struck.
+3. The Respondent is entitled to have further discovery on the additional allegations of fact pled in the Amended Notice of Appeal.
+4. The Respondent can file an Amended Reply to address the new allegations of fact in the Amended Notice of Appeal.
+5. The Respondent is entitled to its costs for this motion.
+Signed at Halifax, Nova Scotia, this 5th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC195
+Date: 20150805
+Docket: 2013-1860(IT)G
+BETWEEN:
+COAST CAPITAL SAVINGS CREDIT UNION,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] The Applicant has brought a motion for an Order seeking leave to file an Amended Notice of Appeal (the “Proposed Pleadings”) pursuant to Rule 54 of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+[2] The circumstances which gave rise to this appeal are as follows. The Applicant was the trustee of certain trusts which were self-directed registered retirement savings plans (“RRSPs”) and registered retirement income funds (“RRIFs”). The trustee acquired shares of certain Canadian corporations from a non-resident person which shares, according to the Minister of National Revenue (the “Minister”), were taxable Canadian property of the non-resident person. The Minister assessed the Applicant on the basis that as trustee of the trusts, it was the “purchaser” within the meaning of subsection 116(5) of the Income Tax Act (the “Act”) and the Applicant was liable to pay 25% of the cost of the shares as tax under Part I of the Act. The Applicant was assessed pursuant to subsection 227(10.1) of the Act and a penalty was applied under subsection 227(9).
+[3] In its Notice of Appeal, the Applicant took the position that it was not the “purchaser” of the shares. The Applicant now seeks to file the Proposed Pleadings to plead that it was the victim of an RRSP strip and as such, it was the victim of a sham. It only learned the facts underlying the RRSP strip from the Reply to Notice of Appeal and during the discovery process of its appeal. The Applicant asserts in its Proposed Pleadings that if it is found to be the “purchaser” of the shares, then it should be reassessed on the basis that the transactions involving the sale of the shares were a sham or, alternatively, that the cost of the shares for the purposes of section 116 of the Act was equal to the fair market value of the shares.
+[4] The Respondent does not oppose the additional facts pled in the Proposed Pleadings on the condition that she is entitled to further discovery with respect to those facts. The Respondent also requests the right to file an amended reply in accordance with section 57 of the Rules. However, the Respondent opposes the amendments contained in the Overview, the Grounds section and the Relief Sought section of the Proposed Pleadings. Specifically, it is the Respondent’s position that paragraphs 4A, 23(b), 23(f), 28A, 30A, 33A and 37A should be struck from the Proposed Pleadings. The additional facts and the amendments in the Overview, the Grounds section and the Relief Sought section are listed below in my decision.
+[5] The Applicant does not agree that there should be further discoveries.
+Law A. Amendment to Pleadings [6] Section 54 of the Rules allows amendments to pleadings with consent of the opposing party, or without consent but with leave of the Court. The general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided that the allowance would not result in an injustice to the other party not capable of being compensated by an award of cost: Canderel v R, [1994] 1 FC 3 at paragraph 10.
+[7] In circumstances such as here, where an amendment to pleadings involves the addition of facts, new grounds and new relief on the basis of those additional facts, the Court must assume that the amendments as set out in the Proposed Pleadings are true. The amendments will only be struck if the Court determines that it is “plain and obvious” they disclose “no reasonable cause of action”: Hunt v T & N plc, [1990] 2 SCR 959 at paragraphs 30 and 34.
+[8] On a motion to amend pleadings, it is open to the motions judge to evaluate the fundamentals of the proposed amendment to ensure that the amendment conforms to the minimum requirements of pleadings under the Rules. A proposed amendment to a pleading which, on its face, does not raise a cause of action, should not be allowed. See Canada v Fluevog, 2011 FCA 338.
+[9] In making the decision whether to allow the amendments contained in the Overview, the Grounds section and the Relief Sought section of the Proposed Pleadings, I cannot review any evidence which has been submitted to prove the alleged facts. In Romanuk v The Queen, 2013 FCA 133, Webb, J.A. stated it this way at paragraph 5:
+…Since the facts as pled are to be taken as proven, there is no need for the judge, in deciding whether to allow the amendment, to review any evidence that may be submitted to try to prove the alleged facts. If any such evidence is submitted at such hearing for this purpose, it should not be reviewed by the judge in deciding whether to allow the amendments.
+B. Section 116 [10] Section 116 of the Act provides a mechanism to facilitate the collection of Part I tax from non-residents who dispose of taxable Canadian property (“TCP”). Subsections 116(1), (2) and (3) provide that the non-resident vendor must give notice to the Minister prior to the disposition of TCP or within ten days after the disposition and pay an amount on account of the tax or furnish security in respect of the disposition. Where the non-resident has complied, the Minister will issue a certificate to the non-resident and the purchaser. However, if the non-resident has not complied, the purchaser becomes vicariously liable for the tax. Subsection 116(5) provides that the purchaser of TCP may be liable for tax owed by the non-resident vendor. It is a collection tool and it allows the Minister to collect the non-resident vendor’s tax from the purchaser of TCP. Subsection 116(5) reads:
+Liability of purchaser
+116(5) Where in a taxation year a purchaser has acquired from a non-resident person any taxable Canadian property (other than depreciable property or excluded property) of the non-resident person, the purchaser, unless
+(a) after reasonable inquiry the purchaser had no reason to believe that the non-resident person was not resident in Canada,
+(a.1) subsection (5.01) applies to the acquisition, or
+(b) a certificate under subsection 116(4) has been issued to the purchaser by the Minister in respect of the property,
+is liable to pay, and shall remit to the Receiver General within 30 days after the end of the month in which the purchaser acquired the property, as tax under this Part for the year on behalf of the non-resident person, 25% of the amount, if any, by which
+(c) the cost to the purchaser of the property so acquired
+exceeds
+(d) the certificate limit fixed by the certificate, if any, issued under subsection 116(2) in respect of the disposition of the property by the non-resident person to the purchaser,
+and is entitled to deduct or withhold from any amount paid or credited by the purchaser to the non-resident person or otherwise recover from the non-resident person any amount paid by the purchaser as such a tax.
+[11] According to subsection 116(5), the purchaser may be fully discharged from liability in the following situations:
+a) If after making reasonable inquiry, the purchaser had no reason to believe the vendor was not resident in Canada; or
+b) If the Minister has issued a certificate under subsection 116(4) to the purchaser with respect to the disposition.
+I note that paragraph 116(5)(a.1) applies to acquisitions after 2009 with respect to treaty-protected property. As such, this paragraph does not apply to the circumstances of this appeal.
+Applicant’s Position [12] In its Proposed Pleadings, the Applicant argued that if it is found to be the “purchaser”, then it should be reassessed on the basis that the transactions were a sham. Counsel for the Applicant argued that the transactions which gave rise to its appeal must be viewed in context. Those transactions involved a purchase price for shares which included fees paid to the Promoters of the scheme and funds deposited into an offshore account for the unfettered use and benefit of the Annuitants of the RRSPs and RRIFs. Viewed in this context, the transactions were shams designed to deceive the Applicant. A finding that the transactions were a “sham” will permit the Court to re-characterize the transactions and allow the appeal on the basis that the Applicant should be reassessed in accordance with the transactions.
+[13] Counsel for the Applicant argued that there is no positive statement that only the tax authority may have the benefit of the “sham doctrine”. It is not “plain and obvious” that its sham argument will not succeed and it should not be struck.
+[14] The Applicant argued, in the further alternative, that the cost amount of the shares acquired by the trusts was only equal to the fair market value of the shares at the time of the respective transactions. Therefore, its tax liability should be based on this fair market value.
+Respondent’s Position [15] It was the Respondent’s position that assuming the facts as plead are true, the doctrine of sham has no application to this appeal. In pleading sham, the Applicant is attempting to turn the focus of its appeal from section 116 of the Act to another transaction which the Respondent described as “back-end of the transaction”. Counsel for the Respondent described the “back-end of the transaction” as those facts which are assumed to be true for the purposes of this motion. (I will list those facts later in my decision.) He argued that the back-end of the transaction is irrelevant to the question of whether subsection 116(5) is engaged.
+[16] Counsel further argued that in accordance with the “sham doctrine”, in a tax case, there must be an intention to deceive the Minister. As a result, only the Minister can plead “sham” in a tax case.
+[17] With respect to the Applicant’s alternative argument that that the cost of the shares for the purposes of section 116 of the Act was equal to the fair market value of the shares, the Respondent argued that the word “cost” in paragraph 116(5)(c) means the price that the Appellant gave up in order to get the shares.
+The Proposed Pleadings [18] The facts which the Respondent doesn’t oppose in the Proposed Pleading and which are assumed to be true for the purposes of this application are the following:
+C. The Scheme
+20A. Certain persons, whose identities are not all known to Coast Capital, but including Cameron Claridge, Roy Gallant, Sommerville, the Solicitor, Bruce Frommert, Evan Seys and Peter Khean (the “Promoters”), created a scheme designed to purportedly allow for the tax free withdrawal of RRSP or RRIF funds (the “Scheme”).
+20B. The Promoters entered into arrangements with the Annuitants to implement the Scheme. The Promoters and the Annuitants deliberately deceived Coast Capital. Coast Capital was not aware of the Scheme. Coast Capital was not a Promoter of the Scheme.
+20C. Unbeknownst to Coast Capital, the Scheme involved the purchase of shares of a corporation resident in Canada by a trust governed by an RRSP or RRIF for an amount in excess of the fair market value of the shares by the Annuitants.
+20D. As part of the Scheme, the Annuitant:
+i) opened up a self-directed RRSP or RRIF with Coast Capital;
+ii) if not already in cash, converted part or all of the Annuitant’s pre-existing RRSP or RRIF to cash;
+iii) transferred cash into the newly opened self-directed RRSP or RRIF with Coast Capital; and
+iv) directed Coast Capital as trustee of the RRSP or RRIF to acquire the Shares for an amount in excess of fair market value;
+20E. Unbeknownst to Coast Capital, the Promoters kept a portion of the purchase price of the Shares as fees and transferred the balance of the funds offshore to an international corporation, bank account or other facility to which the Annuitants had access and control, but not direct ownership.
+20F. Unbeknownst to Coast Capital, the funds could then be withdrawn by the Annuitants from the international corporation or bank account by Internet banking, the use of an offshore debit or credit card, or some other hard to trace method.
+20G. The following types of documents were provided to Coast Capital by the Annuitants, the Solicitor and/or Mr. Khean to cause Coast Capital to acquire shares of a corporation for an amount in excess of fair market value:
+i) A letter of direction (“Letter of Direction”) from the Annuitant to Coast Capital directing Coast Capital to transfer funds to the Solicitor in trust for the purchase of shares; and
+ii) A letter from the Solicitor and/or Mr. Khean advising that the shares were a qualified investment and suggesting that the shares had a fair market value equal to the purchase price (“Certification Letter”).
+20H. The Annuitants and the Promoters knew that the Letter of Direction did not represent the true nature of the Scheme. The true nature of the Scheme was not to purchase the Shares for the stated purchase price, but to purchase the Shares for an amount in excess of the fair market value of the Shares, withdraw the difference between the stated purchase price and the fair market value of the Shares from the Annuitants’ RRSPs or RRIFs, and transfer those funds offshore for the use of the Annuitants.
+20I. The Annuitants and the Promoters provided the Letters of Direction and Certification Letters to Coast Capital to cause Coast Capital to provide funds to Mr. Stewart in furtherance of the Scheme.
+[19] The paragraphs in the Proposed Pleadings which the Respondent seeks to strike are the following:
+I. OVERVIEW
+4A. The Appellant further says that the Appellant’s clients, the annuitants under the RRSP’s (the “Annuitants”), and the vendors of the shares and their agents, deliberately misrepresented the true nature of the transactions relied on by the Minister in the documents supplied to Coast Capital and that the transactions were a sham.
+V. ISSUES TO BE DECIDED
+23. (b) whether the transactions relied on by the Minister were a sham.
+(f) whether the cost of the Shares to Coast Capital for the purposes of subsection 116(5) was not the same amount as was assessed by the Minister.
+VII. REASONS COAST CAPITAL RELIES UPON
+28A. Second, the transactions were a sham.
+30A. Fifth, if this Honourable Court finds that Coast Capital is personally liable as the purchaser under subsection 116(5) of the Act, which is not admitted and is specifically denied, Coast Capital did not acquire the shares at a cost amount equal to the amount assessed.
+B. The Transactions were a Sham
+33A. The documents provided to Coast Capital and the other acts of the Annuitants and the Promoters were intended by the Annuitants and the Promoters to give the appearance to Coast Capital of creating the legal rights and obligations of a share transfer transaction at the stated purchase price, but the true intention of the transaction was to transfer the difference between the fair market value of the Shares and the stated purchase price from the Annuitants’ RRSP or RRIF offshore for the benefit and use of the Annuitants. The Annuitants and the Promoters deliberately set out to misrepresent the actual state of affairs to Coast Capital and to intentionally deceive Coast Capital.
+E. Coast Capital Did Not Acquire the Shares at a Cost Amount Equal to the Amount Assessed
+37A. If this Honourable Court finds that Coast Capital is personally liable as the purchaser under subsection 116(5) of the Act, which is not admitted and is specifically denied, it is respectfully submitted that Coast Capital’s cost amount of the Shares is not as assessed by the Minister and the amount assessed under subsection 116(5) of the Act is incorrect. The cost amount of the Shares to Coast Capital is equal to the fair market value of the Shares at the time of the respective transaction.
+The Sham Argument [20] In summary, the Applicant argued that it was the victim of a sham and its appeal should be allowed on this basis. It stated that the Annuitants and Promoters misrepresented the transactions. The Applicant was induced to release funds from the RRSP and RRIF accounts so that the Annuitants could receive control of the funds. The Applicant requested that this Court allow its appeal and vary the assessments or refer the assessments back to the Minister for reconsideration and reassessment on the basis that the transactions should be characterized correctly. That is, the Applicant’s liability under section 116 should be based on the fair market value of the shares.
+[21] In Faraggi v R, 2008 FCA 398, Noel J.A., as he then was, considered the concept of “sham” in Canadian law. He made the following observations:
+57 However, courts have always felt authorized to intervene when confronted with what can properly be labelled as a sham. The classic definition of “sham” is that formulated by Lord Diplock in Snook , supra , and reiterated by the Supreme Court on a number of occasions since. In Stubart Investments Ltd. v. R., [1984] 1 S.C.R. 536 (S.C.C.) , Estey J. said the following (page 545):
+... This expression comes to us from decisions in the United Kingdom, and it has been generally taken to mean (but not without ambiguity) a transaction conducted with an element of deceit so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction; or, simple deception whereby the taxpayer creates a facade of reality quite different from the disguised reality.
+This passage is also quoted with approval in Continental Bank of Canada v. R., [1998] 2 S.C.R. 298 (S.C.C.) , at paragraph 20.
+58 In Cameron , supra , the Supreme Court adopted the following passage from Snook , supra , to define “sham” in Canadian law (page 1068):
+... [I]t means acts done or documents executed by the parties to the “sham” which are intended by them to give to third parties or to the court the appearance of creating between the parties legal rights and obligations different from the actual legal rights and obligations (if any) which the parties intend to create.
+The same excerpt was quoted by Estey J. in Stubart , supra , at page 572.
+59 It follows from the above definitions that the existence of a sham under Canadian law requires an element of deceit which generally manifests itself by a misrepresentation by the parties of the actual transaction taking place between them. When confronted with this situation, courts will consider the real transaction and disregard the one that was represented as being the real one.
+[22] I have concluded from these comments on the concept of “sham” and particularly the Supreme Court’s statements at page 545 of Stubart, that in a tax case, a court will make a finding of “sham”, only when it is the Minister who is deceived.
+[23] In Mc Ewen Brothers Ltd v R, [1999] 3 CTC 373 (FCA), Robertson J.A. quoted from the Stubart decision and stated that “to qualify as a sham, the taxpayer must say one thing to the Minister, and do another in an attempt to avoid its tax obligation”. He also stated:
+27 In the present case, it appears that the taxpayer misled both Manitoba Hydro and the federal Department of Public Works by failing to disclose that the respective bids were being submitted on behalf of partnerships. But, in my view, those distortions of the facts do not support a finding of sham. The fact remains that the undisclosed partnerships may qualify as partnerships. The fact that a contract may have been obtained in circumstances where, had the true circumstances been known, it could have been set aside does not render the underlying agreement to form a partnership invalid. For tax purposes, this type of deception is irrelevant. For example, simply because a taxpayer is a successful con-artist does not mean that a sham has been perpetrated on the Minister of National Revenue. [In an earlier case, I referred to a situation in which a taxpayer was intending to mislead a third party as an “inverse sham”. 6 ] In any event, a partnership could have been formed after the bids were submitted for the purpose of raising needed capital. The only relevant evidence of a sham is that which demonstrates that the taxpayer purposefully or effectively misled the Minister. The typical situation occurs where the taxpayer's documentary evidence says one thing, and the taxpayer does another. (Emphasis added).
+[24] To my mind, in a tax case, if it is the Minister who must be deceived, it is only the Minister who can plead “sham” and rely on the “sham” argument to have the courts disregard a transaction. My opinion is supported by the decision of the Federal Court of Appeal in Bonavia v The Queen, 2010 FCA 129.
+[25] In that case, the taxpayer had made a loan application to NBI and had given NBI a power of attorney to permit it to recover its loan plus interest through NBI’s receipt of monthly payments which were due to the taxpayer from his Registered Retirement Income Fund (RRIF) with the Royal Bank. NBI used the power of attorney and documents created by it to transfer in excess of $118,000 from the taxpayer’s RRIF from the Royal Bank to another entity called CCCC. The Minister added this amount to the taxpayer’s income on the basis that it was a benefit to him out of a RRIF in accordance with subsection 146.3(1) and 56(2) of the Act. The Tax Court judge upheld the assessment. At the Federal Court of Appeal, the taxpayer argued that the documents created by NBI constituted a sham because they contained a fundamental misrepresentation by the principals of NBI about the nature of the transactions and the Minister could not rely on these documents for concluding that the taxpayer’s RRIF was transferred from the Royal Bank. Writing for the court, Evans J.A. disagreed with the taxpayer’s argument. He stated:
+7 We disagree. In our view, this was nothing other man (than) a fraudulent misrepresentation, of which Mr Bonavia, among others, was the victim. Since Mr Bonavia was not a party to the misrepresentation it was not a “sham” within the meaning attributed to that term by the Supreme Court of Canada in Stubart Investments Ltd. v. R., [1984] 1 S.C.R. 536 (S.C.C.) , at 545 and 572, which precluded the Minister from relying upon the documents as effecting a transfer of the funds from RBC to CCCC.
+[26] I have also inferred from the Bonavia decision that the taxpayer, whose appeal is before the court, must have been a party to the “sham”.
+[27] Moreover, in my analysis, the facts as pled by the Applicant in its Proposed Pleadings do not support a finding that the Applicant was the victim of a “sham”. Rather, it appears to me that, as in Bonavia, the Applicant was the victim of fraudulent misrepresentation. In the Proposed Pleadings, the Applicant plead that the Annuitants and the Promoters deliberately set out to misrepresent the transactions to the Applicant. This pleading does not demonstrate that there was a “sham”. There are no facts plead which would demonstrate that the legal rights and obligations created between the Annuitants and the Promoters were other than they intended. It is clear that both the Annuitants and the Promoters intended the purchase price for the shares be the stated purchase price. They set up a plan to withdraw the funds from the Annuitants’ RRSPs so that the Promoters received their fees and the Annuitants received a withdrawal of funds from their RRSPs. They misled the Applicant with respect to the value of the shares purchased by the RRSPs but this is not a “sham” It is fraud.
+[28] Based on my conclusions, it is “plain and obvious” that the Applicant’s “sham argument” does not disclose a cause of action. Paragraphs 4A, 23(b), 28A and 33A shall be struck from the Proposed Pleadings.
+The Cost Argument [29] The RRSPs acquired shares at a price in excess of their fair market value. The Applicant argued, in the alternative, that the cost amount of the shares for the purposes of section 116 of the Act was equal to their fair market value.
+[30] Paragraph 116(5)(c) of the Act reads, in part:
+116(5)….the purchaser…
+…
+is liable to pay, and shall remit to the Receiver General within 30 days after the end of the month in which the purchaser acquired the property, as tax under this Part for the year on behalf of the non-resident person, 25% of the amount, if any, by which
+(c) the cost to the purchaser of the property so acquired
+[31] It is clear that the tax under paragraph 116(5)(c) is assessed on “the cost to the purchaser”. There is no mention in paragraph 116(5)(c) of the fair market value of the property purchased. The words used in the sentence and the sentence itself are not ambiguous. The plain-meaning of the word “cost” in this section means the price that the taxpayer gave up in order to get the property: The Queen v Stirling, [1985] 1 FC 342 (FCA).
+[32] It is my opinion that the Applicant’s alternative argument also does not disclose a cause of action. Paragraphs 23(f), 30A and 37A shall be struck from the Proposed Pleadings.
+[33] The Proposed Pleadings may be filed with the additional facts which were not opposed by the Respondent. The Applicant’s motion, as it relates to the amendments which were opposed, is dismissed with costs to the Respondent.
+[34] The Respondent is entitled to have discovery on the additional allegations of fact pled in the Proposed Pleadings and the Respondent can file an amended Reply in response to the additional allegations of fact in the Proposed Pleadings.
+[35] I have been informed that the Respondent has brought a motion in which she requests leave to examine for discovery a non-party and that the motion is scheduled to be heard on September 25, 2015. As a result, I will not make any Order with respect to the litigation timetable in this appeal.
+Signed at Halifax, Nova Scotia, this 5th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC195
+COURT FILE NO.:
+2013-1860(IT)G
+STYLE OF CAUSE:
+COAST CAPITAL SAVINGS CREDIT UNION AND THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 5, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice Valerie Miller
+DATE OF ORDER:
+August 5, 2015
+APPEARANCES:
+Counsel for the Applicant:
+Robert Alan Kopstein
+Counsel for the Respondent:
+Perry Derksen
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Robert Alan Kopstein
+Firm:
+Blake Cassels & Graydon LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

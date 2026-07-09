@@ -1,0 +1,133 @@
+---
+title: "Wood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28499/index.do"
+last_modified: "2008-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 105"
+citation2: ""
+neutral_citation: "2008 TCC 105"
+decision_date: "2008-02-22"
+language: "en"
+item_id: "28499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1296
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:31:14.257000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d50c204c514b62f422f9f35a4b00d73845e95435b2dde9dc9545874ea140faf3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wood v. The Queen
+
+- Citation: 2008 TCC 105
+- Decision date: 2008-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1296, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-22
+Neutral citation
+2008 TCC 105
+File numbers
+2007-1964(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1964(IT)I
+BETWEEN:
+HEATHER M. WOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 15, 2008, at Ottawa, Canada
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Ronald J. Wood
+Counsel for the Respondent:
+Tanis Halpapi (Student-At-Law)
+Marie-Eve Aubry
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of February, 2008.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2008TCC105
+Date: 20080222
+Docket: 2007-1964(IT)I
+BETWEEN:
+HEATHER M. WOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] As indicated from the Bench on the day of the hearing, the appeal is allowed on the basis that the Respondent brought no evidence in respect of matters that the Crown had a burden to prove. It is noted at the outset of these Reasons that the Appellant was represented by an agent; namely, her husband.
+[2] These Reasons for the allowance reflect the rulings and findings made from the Bench without any evidence having been presented.
+[3] The appeal concerns an RRSP withdrawal in 2004 that was asserted by the Appellant to be an excluded withdrawal pursuant to the requirements of section 146.02. The withdrawal by the Appellant was used to finance an educational program for her husband. The Reply to the Notice of Appeal expressly stated that the reason for the reassessment and confirmation denying the Appellant’s claim was that the College that offered the particular program taken by the Appellant’s husband was not a designated educational institution. This was stated as an assumption.
+[4] At the hearing, the Respondent sought to have the Reply amended. Since the amendment was not consented to, leave of the Court was required. Leave to amend was denied. The proposed amendment (notice of which was first given to the Appellant just weeks before the hearing) purported to change the assumptions made by the Minister to ones that related to other requirements of the subject provision, namely that the program was not a full-time program and the Appellant’s husband was not a full-time student. It was now admitted that the College was a designated educational institution.
+[5] The Respondent had no witness to attest to the assumptions actually made and to the reasons for the reassessment and confirmation. A letter from the auditor was said to be available. I ruled against its admission on the basis that it was hardly the best evidence and it would afford no opportunity for cross-examination. The circumstances of this case do not warrant a relaxation of the rules of evidence on this point. A complete reversal of the basis for an assessment made at the 11th hour in a matter where the Appellant has no legal representation requires the presence of the Minister’s agent to address obvious questions and concerns.
+[6] Having denied the request to amend the Reply, the burden of proof in respect of the new issues in the appeal is on the Crown.
+[7] The Respondent did not ask for an adjournment. Still, the Court considered allowing an adjournment. None was granted. An adjournment would be highly prejudicial to the Appellant in that it would allow the Crown to be better prepared for a case that it was to be fully prepared for that day.
+[8] The Appellant was told by the Court that given that the burden of proof was on the Respondent, the Appellant had no burden to prove anything and the Respondent was asked how it would proceed. Having lost the opportunity to cross-examine any witness called by the Appellant, and having no witnesses of its own, but having documents that needed to be admitted, the Respondent sought to call the Appellant (and presumably her husband).
+[9] This presents an issue that frequently confronts the Court. To what extent does the trial Judge assist an Appellant who is not represented by legal counsel? In my view, the agent was not compellable. He had not been served with a subpoena or notice of intention to be called as a witness. He was free to leave. His attendance had not been secured. Legal counsel could simply have suggested he leave if his presence had not been secured. The Tax Court of Canada Rules (General Procedure), at section 146, provide that the attendance of a person may be secured only if the person is an adverse party (which he is not) or is a person who has been served with a subpoena or with a notice of intention to be called. On that basis his attendance had not been secured and he could not be compelled to testify. He is under no obligation to assist the Respondent. If his testimony was to be relied on, notice should been given. As a general principle, witnesses should be afforded time to prepare and to assemble records or documents in order to give reliable testimony and, where required, they should, prior to the trial, be paid a witness fee and expenses.
+[10] As the adverse party, the Appellant could have been compelled to testify. However, clearly she could not attest to the Respondent’s documents. She could not give the best evidence as to any of the points in issue. Documents as to the nature of the program would have to be admitted through a witness that could attest to them. The Canada Revenue Agency auditor who, at some point, apparently relied on them should have been there to speak to their admission or someone from the College should have been available to give the best evidence of the nature of the program that was at issue. The Appellant who did not attend at the College should not be compelled to give evidence where better evidence was available to the Crown.
+[11] To compel the Appellant to take the witness stand in these circumstances without counsel would be to invite an abuse of the evidentiary requirements of the entire proceeding. There must, in my view, be an element of discretion in the application of the Rule to secure the attendance of a person to testify, particularly in an Informal Procedure case where procedural fairness and the interests of justice are not advanced by applying it.[1] It is incumbent on the party with the onus of proof to consider and meet reasonable evidentiary requirements, particularly where that party is the Crown, acting with counsel, and the other party is not so represented.
+[12] As stated above, it is the Respondent, who now at the 11th hour asserts a new factual issue, that must call evidence. Documentation of the program curriculum, hours and the like, that were presumably relied on by the Respondent at some point prior to the hearing, were for the Respondent to identify at the trial through its witnesses - the persons who examined and relied on such evidence in the first place - not the evidence of a student’s spouse even if she is the adverse party. The relevant testimony would be that of the person, presumably the auditor, who knows the source of the documents and why they should be taken as reliable and given weight. Indeed, as already suggested, someone from the College might have been brought to testify – someone with actual first hand knowledge of the new facts in issue. Allowing the Respondent to examine the Appellant would have the effect of allowing an ill-fated last gasp attempt to avoid the inevitable consequence of being less than fully prepared for a ruling that reversed the burden of proof. Allowing the Respondent to examine the Appellant, who lacked legal sophistication and acumen and was without counsel, would, in my view, have inevitably required the intervention of the Court. Acquiescing to the application of a Rule that would have allowed an attempt to have the Appellant attest to the Respondent’s evidence is not something this Court should encourage. For these reasons, I did not allow the Respondent to call the Appellant.
+[13] The Respondent’s failure to have its own witness available to speak to the assumption issue and to speak to issues that the Crown should have knowledge of (such as the nature of the programs offered by the College) is fatal, in this case, in my view. In this case the interests of justice are better served by disallowing the calling of evidence that in my view could not meet the best evidence standards that are set to help ensure reliable findings. The Crown failed in this case to meet these standards and no relaxation of those standards was allowed.
+[14] Accordingly, the hearing ended without evidence being brought by the Respondent, the party with the burden to bring evidence to support its new assertions. The parties were advised that the appeal would thereby be allowed.
+[15] The Appeal is allowed without costs. The subject educational program shall be treated by the Minister as meeting the requirements of section 146.02 of the Income Tax Act.
+Signed at Ottawa, Canada, this 22nd day of February, 2008.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2008TCC105
+COURT FILE NO.: 2007-1964(IT)I
+STYLE OF CAUSE: HEATHER M. WOOD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: February 22, 2008
+APPEARANCES:
+Agent for the Appellant:
+Ronald J. Wood
+Counsel for the Respondent:
+Tanis Halpapi (Student-At-Law)
+Marie-Eve Aubry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Such discretion is incorporated in the Rules at section 9 of the General Procedure Rules and subsection 21(3) of the Informal Procedure Rules.

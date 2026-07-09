@@ -1,0 +1,179 @@
+---
+title: "Gerrard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31138/index.do"
+last_modified: "2013-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 114"
+citation2: ""
+neutral_citation: "2013 CCI 114"
+decision_date: "2013-04-16"
+language: "fr"
+item_id: "31138"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4758
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:22:31.856000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e58e49ea4034f8bc27fc143a5a53a4ae3625d15c19ed19552eea3a29a2c724d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gerrard c. La Reine
+
+- Citation: 2013 CCI 114
+- Decision date: 2013-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4758, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gerrard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-16
+Référence neutre
+2013 CCI 114
+Numéro de dossier
+2011-2453(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2453(IT)G
+ENTRE :
+PHILIP GERRARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 15 novembre 2012, à Ottawa (Ontario).
+Devant : L’honorable juge T. E. Margeson
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christopher Kitchen
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006, 2007 et 2008 sont rejetés, et les nouvelles cotisations du ministre sont confirmées.
+Les dépens sont adjugés à l’intimée.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour d’avril 2013.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 21e jour de juin 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 114
+Date : 20130416
+Dossier : 2011-2453(IT)G
+ENTRE :
+PHILIP GERRARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] À l’origine, l’appelant avait interjeté appel des nouvelles cotisations établies à son égard pour les années d’imposition 2005, 2006, 2007, 2008 et 2009. Au début de l’audience, l’appelant s’est désisté de son appel relatif à l’année d’imposition 2009.
+[2] Pour les années d’imposition encore en cause, la seule question est de savoir si, dans les nouvelles cotisations qu’il a établies, le ministre du Revenu national a refusé à juste titre la déduction de la pension alimentaire pour enfants que l’appelant aurait payée pour ses trois enfants.
+La preuve
+[3] L’appelant a produit en preuve une entente de séparation datée du 2 novembre 1988 conclue entre lui et Deborah Hossack (l’« entente »), censée constituer le fondement de sa demande visant à obtenir l’autorisation de déduire la pension alimentaire en cause. Ce document, que l’appelant a décrit lors de l’interrogatoire principal, est assez simple. Lors du contre-interrogatoire, l’appelant a déclaré qu’il s’était marié avec Deborah Hossack le 7 septembre 1979 et qu’ils avaient eu trois enfants. L’appelant et Mme Hossack se sont séparés en janvier 1988 et ont conclu l’entente le 2 novembre 1988. L’entente prévoyait que l’appelant verserait 750 $ par mois, soit 250 $ pour chaque enfant, jusqu’à ce qu’au moins une des conditions énoncées au paragraphe 9 de cette entente soit remplie.
+[4] Tous les enfants étaient vivants à la date de l’audience. Un des enfants, Emily, a cessé de résider avec l’appelant le 7 février 1998. Elle est revenue à l’occasion par la suite, mais à compter du 7 février 1998, elle a cessé de résider avec l’appelant de façon permanente. À l’époque, elle ne fréquentait pas d’établissement d’enseignement à temps plein. Le 2 janvier 2001, elle a eu 21 ans, et, dès lors, Deborah Hossack a cessé d’avoir droit à une pension alimentaire à son égard.
+[5] Le fils, James, a cessé de résider avec Mme Hossack le 30 mars 1998, et aux termes de l’entente, Mme Hossack a cessé d’avoir droit à une pension alimentaire pour lui. Deux ou trois fois par la suite, il a recommencé à vivre avec l’un ou l’autre de ses parents, mais à compter du 21 janvier 1999, il a cessé de vivre avec l’un ou l’autre de ses parents.
+[6] Le 5 septembre 2000, James a eu 18 ans.
+[7] Le 24 février 2000, il ne fréquentait pas d’établissement d’enseignement à temps plein, et la situation est demeurée inchangée depuis le 27 mai 1999. Le 5 septembre 2003, il a eu 21 ans.
+[8] Stephany n’a pas cessé de résider avec Mme Hossack, en dépit du fait que Mme Hossack vivait à Toronto en 2004. Stephany a eu 18 ans le 1er septembre 2002, et elle avait alors terminé ses études secondaires. Il se peut qu’elle ait alors fréquenté un établissement d’enseignement à temps plein.
+[9] En 2004, il est possible que Stephany ait fréquenté un établissement d’enseignement à temps partiel.
+[10] Le 1er septembre 2005, Stephany a eu 21 ans. En mai 1999, Mme Hossack n’avait pas droit à une pension alimentaire pour Emily ou James, et au 8 mai 2005, elle n’avait plus droit à une pension alimentaire aux termes de l’entente.
+[11] Le 9 novembre 1993, la Cour a modifié l’entente d’origine et a fixé le montant de la pension alimentaire à 400 $ par mois pour chaque enfant.
+[12] L’appelant a renvoyé à l’entente datée du 21 décembre 2000, qui stipulait qu’il continuerait à payer une pension alimentaire de 1 200 $ par mois jusqu’en décembre 2003. Il a contesté le fait que cette entente prévoyait que ces paiements prendraient fin.
+[13] En décembre 2003, James était âgé de 21 ans et 3 mois et Emily de 24 ans, et Mme Hossack n’avait pas droit à une pension aux termes de l’entente de 1988.
+[14] En 2005 et en 2006, il est possible que James ait fréquenté, à temps plein, un établissement d’enseignement.
+[15] L’intimée n’a présenté aucun élément de preuve.
+La thèse de l’intimée
+[16] L’avocat de l’intimée a soutenu que la seule question dont la Cour était saisie avait trait à la déductibilité de la pension alimentaire pour les années d’imposition 2005, 2006, 2007 et 2008. Il était d’avis que les paiements effectués n’étaient pas déductibles parce qu’une « date d’exécution » avait été instaurée en application du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi ») avant 2005.
+[17] Aux termes de l’entente d’origine datée du 2 novembre 1988, l’exigence de paiement d’une pension alimentaire a pris fin en application du paragraphe 9.
+[18] Le 21 décembre 2000, les parties ont signé une entente, selon laquelle l’appelant continuerait de payer une pension alimentaire de 1 200 $ jusqu’en décembre 2003. En fait, les parties ont décidé de faire fi de l’entente d’origine parce qu’à l’époque, Mme Hossack n’avait pas droit à une pension pour Emily et James.
+[19] Le document qui apparaît sous l’onglet 26 de la pièce A-1 montre que, quand elles ont signé l’entente du 21 décembre 2000, les parties concernées n’avaient pas l’intention de tenir compte de l’entente d’origine. À l’époque, le seul montant dû à Mme Hossack s’élevait à 400 $ par mois pour Stephany. Après avoir signé l’entente datée du 21 décembre 2000, l’appelant devait verser 1 200 $ par mois.
+[20] Il s’agissait d’une toute nouvelle entente. Les paiements de pension alimentaire ont été modifiés de manière à permettre le versement de 400 $ par enfant. L’instauration d’une nouvelle « date d’exécution » en a découlé.
+[21] À titre subsidiaire, pendant les années en cause et avant le 1er janvier 2005, l’appelant n’était pas tenu de verser une pension alimentaire pour Emily et James, étant donné que cette obligation avait pris fin plus tôt. C’est ce qui ressort de l’affidavit de l’appelant, Philip Edgar Gerrard, qui a été fait le 27 mai 1999, comme le montre la pièce A-1, sous l’onglet 24.
+[22] En ce qui concerne Stephany, l’obligation qu’avait l’appelant de payer une pension alimentaire a pris fin avant mai 2005. Il a déjà été admis que Stephany avait plus de 18 ans et qu’elle ne fréquentait plus un établissement d’enseignement à temps plein.
+[23] L’appel devrait être rejeté et les dépens adjugés à l’intimée.
+La thèse de l’appelant
+[24] Dans son argumentation, l’appelant a déclaré qu’en l’espèce, il n’était pas question de savoir si une « date d’exécution » avait été instaurée. À cet égard, il a renvoyé à deux documents : (1) l’entente de séparation de 1988; (2) l’entente conclue entre lui et Mme Hossack le 21 décembre 2000. La question qu’il pose vise à établir si l’entente conclue le 21 décembre 2000 est venue modifier le montant de la pension ou changer ce montant de façon à instaurer une « date d’exécution » au sens du paragraphe 56.1(4) de la Loi.
+[25] L’appelant a soutenu que la Loi et la Loi sur le divorce, L.R.C. 1985, ch. 3 (2e suppl.), abordaient cette question en partant de deux perspectives différentes, à savoir les perspectives sociale et financière. Nous devons distinguer ces deux concepts et nous garder de passer d’une loi à l’autre. Une interprétation valable du paragraphe 56.1(4) de la Loi devrait se limiter à l’examen des paramètres financiers et ne pas s’étendre à l’examen des questions relevant du droit de la famille.
+[26] L’appelant a renvoyé à la décision Newman v. Thompson (1997), 149 D.L.R. (4th) 605, qui offrait une description de l’interprétation appropriée de la situation en application de la Loi sur le divorce. Dans cette décision, il était question du terme « enfant à charge » ainsi que du fait qu’il n’y avait pas d’âge défini arbitrairement auquel un enfant cessait d’être un « enfant à charge » au sens de la Loi sur le divorce; il a été établi que la question de savoir si un enfant est un enfant à charge doit être tranchée au cas par cas.
+[27] La question est de savoir si l’appelant était tenu de payer une pension alimentaire pour ses enfants aux termes de la Loi sur le divorce.
+[28] L’appelant a renvoyé à la décision Mossman v. Canada, [2002] 4 C.T.C. 2101, qui se concentre sur la définition d’un enfant à charge dans les cas où l’enfant est majeur. En pareil cas, la Loi sur le divorce reconnaît qu’il est possible que l’enfant soit encore visé par la définition. Dans cette décision, il a également été conclu qu’il n’y avait pas eu de modification du montant de la pension alimentaire à payer aux termes de l’entente de 1994 ou de 1998, et que le montant à payer aux termes de l’entente de 1998 s’inscrivait dans la continuité de l’entente de 1994.
+[29] L’appelant a également renvoyé à la décision Katsoras v. Canada, [2003] 4 C.T.C. 2247, dans laquelle le juge Bell a déclaré que les avocats des deux parties s’entendaient manifestement sur le fait que les versements de 1 300 $ par mois continuent à être inclus dans le revenu d’une des parties et à être déductibles pour l’autre partie aux termes de l’entente subséquente.
+[30] Dans la décision Whelan c. La Reine, 2004 CCI 680, 2004 DTC 3581, la Cour a conclu que les paiements mensuels pour l’enfant pouvaient varier, mais qu’à la fin de l’année, le total était le même pour chaque enfant; il n’y avait pas de changement.
+[31] L’appelant a renvoyé à l’arrêt Kennedy c. Canada, 2004 CAF 437, 2005 DTC 5039, dans lequel la Cour d’appel fédérale a conclu que le nouveau régime s’appliquait aux ordonnances ou aux accords établis après avril 1997 qui créent effectivement de nouvelles obligations. Les obligations créees sous l’ancien régime demeurent assujetties aux anciennes dispositions.
+[32] La Cour d’appel fédérale a ajouté que le sous‑alinéa 56.1(4)b)(ii) de la Loi qui prévoit que l’accord ou l’ordonnance qui fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants crée une date d’exécution; dans ce cas, une nouvelle obligation est créée par suite de la modification apportée après avril 1997. Il en est de même du sous‑alinéa 56.1(4)b)(iii), qui prévoit qu’un accord ou une ordonnance subséquent établi après avril 1997 et ayant pour effet de changer le total des montants de pension alimentaire pour enfants crée une date d’exécution.
+[33] L’appelant a fait valoir qu’un changement important dans les montants avait pour effet d’instaurer une date d’exécution, concluant vraisemblablement qu’un changement mineur n’aurait pas cet effet.
+[34] Les deux ententes étaient des contrats. En tant que tels, ils doivent être lus conjointement. Quelle était l’intention des parties? En l’espèce, il était clair que les paiements devaient continuer.
+[35] Il n’y a aucune date définie. La date fixée était le premier jour où il était possible de présenter une demande de modification. Il s’agit d’une date charnière.
+[36] Aucune demande n’a encore été présentée en vue de mettre fin aux paiements ». Les dispositions de l’entente conclue en 2000 restent donc en vigueur.
+[37] Le montant total des paiements reste le même, soit 1 200 $. Les enfants sont toujours des enfants à charge au sens de la Loi sur le divorce, qui s’applique donc en l’espèce, au lieu de la Loi. Le montant pour chaque enfant reste le même.
+[38] L’entente subséquente n’a eu aucun effet sur l’entente d’origine. Cette dernière est restée en vigueur.
+[39] Aucune entente n’a été conclue en vue de changer la somme totale due.
+[40] L’appelant a admis qu’au fil du temps, les enfants avaient perdu puis retrouvé leur droit à la pension. Il s’agit de questions relevant de l’application de la Loi, et non de la Loi sur le divorce, qui s’applique relativement à la question de savoir si les enfants de l’appelant sont toujours des enfants à charge.
+Analyse et décision
+[41] Après avoir examiné en toute équité l’ensemble de la preuve et avoir dûment pris en considération les arguments pertinents soulevés par l’intimée et par l’appelant, la Cour doit rejeter l’appel. Cette conclusion s’impose compte tenu des arguments soulevés par les deux parties.
+[42] La Cour est convaincue que les ententes applicables sont les ententes de 1988 et de 2000.
+[43] L’entente de 1988 n’était pas compliquée et elle établit clairement les limites de la responsabilité de l’appelant relative à la pension alimentaire à payer, tout comme les conditions selon lesquelles les paiements doivent être effectués ainsi que le moment où les paiements doivent cesser. La Cour est convaincue que l’entente conclue en 2000 a eu pour effet de modifier le montant total de la pension alimentaire à payer étant donné qu’Emily et James ne résidaient plus avec Mme Hossack. Emily avait 21 ans à la date de l’entente et James avait plus de 18 ans et ne fréquentait plus un établissement d’enseignement à temps plein.
+[44] Aux termes de l’entente de 2000, les paiements devaient être effectués jusqu’en décembre 2003. Il s’agissait clairement d’une modification du montant total dû aux termes de l’entente de 1988, et il ne fait aucun doute qu’il s’agissait d’une modification effectuée conformément aux dispositions des paragraphes 56.1(4), 60.1(4) et de l’alinéa 60b) de la Loi.
+[45] Le résultat est précisément celui qui a été envisagé dans l’arrêt Kennedy, précité, comme l’appelant l’a précisé dans son argumentation.
+[46] L’entente en cause a eu pour effet de créer de nouvelles obligations pour l’appelant, et, par conséquent, d’instaurer une « date d’exécution ».
+[47] Pour ce qui est de la deuxième question en litige, la Cour est convaincue que l’appelant n’avait aucune obligation de payer les montants de pension alimentaire pour enfants aux termes de l’ordonnance incorporant par renvoi l’entente de 1988. Comme il a été précisé ci‑dessus, les conditions d’interruption des paiements avaient été remplies.
+[48] La Cour rejette les arguments pertinents de l’appelant selon lesquels il fallait qu’il y ait eu une modification importante des montants à payer pour donner lieu à une date d’exécution.
+[49] De même, la prétention de l’appelant selon laquelle la Loi sur le divorce et la Loi doivent être lues conjointement ne lui est d’aucun secours.
+[50] En outre, la Cour n’accepte pas la prétention de l’appelant selon laquelle il n’y a pas eu de modification du montant total à payer. Le montant à payer était supérieur aux sommes à payer aux termes de l’entente d’origine et il ne s’agissait pas du maintien de la somme d’origine, même si la somme totale à payer était la même. Aux termes de l’entente d’origine, l’appelant n’avait aucune somme à payer.
+[51] L’appel est rejeté, avec dépens, et les cotisations sont confirmées.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour d’avril 2013.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 21e jour de juin 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 114
+NO DU DOSSIER DE LA COUR : 2011-2453(IT)G
+INTITULÉ : Philip Gerrard c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 15 novembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 16 avril 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christopher Kitchen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

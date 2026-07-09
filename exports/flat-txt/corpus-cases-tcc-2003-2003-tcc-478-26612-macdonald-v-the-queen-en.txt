@@ -1,0 +1,128 @@
+Title: MacDonald v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26612/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-478-26612-macdonald-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-10
+
+# MacDonald v. The Queen
+
+- Citation: 2003 TCC 478
+- Decision date: 2003-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3587, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-10
+Neutral citation
+2003 TCC 478
+File numbers
+2003-487(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-487(IT)I
+BETWEEN:
+KEVIN A. MacDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 7, 2003 at Winnipeg, Manitoba
+Before: The Honourable Associate Chief Justice D.G.H. Bowman
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derwin Petri, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed.
+Signed at Winnipeg, Canada this 10th day of July, 2003.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2003TCC478
+Date: 20030710
+Docket: 2003-487(IT)I
+BETWEEN:
+KEVIN A. MacDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from assessments for the appellant's 1999 and 2000 taxation years. The issue is the deductibility of child support payments made by him to his former spouse in those years.
+[2] The appellant and his wife were married in 1987 and had two children who were born in 1988 and 1992. They separated in 1994 and were divorced in 1997. They entered into a separation agreement on April 10, 1995 under which the appellant was obliged to pay $325 per month to his wife for each child. The children lived with the wife.
+[3] In May, 1998 the older son, Marc, came to live with the appellant and on the advice of his lawyer the appellant stopped making any payments to his wife.
+[4] Upon the Appellant's application, by order dated June 16, 1999 and signed on December 14, 1999, the Ontario Superior Court of Justice ordered that the appellant pay his former spouse $235 per month commencing on May 1, 1998 for the support of the younger son Michael. It also ordered that he pay her arrears of $3,200.
+[5] The Appellant deducted $4,400 and $4,200 in computing his income for 1999 and 2000 respectively. This appears to have been the $2,820 paid under the order signed on December 14, 1999 plus a portion of the $3,200 arrears ordered by the Court.
+[6] Mr. MacDonald testified that he was not informed by either the Canada Customs & Revenue Agency or his own lawyer that under new rules that came into effect on May 1, 1997, payments made after the "commencement day" were not deductible by the payor or taxable in the hands of the recipient. I accept that he was not made aware of the full impact of the rules but this unfortunately does not change the effect of those rules.
+[7] Under paragraph 60(b) the support amounts that are deductible are determined by the formula A-(B+C).
+Paragraph 60(b) reads as follows:
+There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+...
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+Essentially A is the amount paid and B is the amount that became payable under an agreement or order on or after its commencement date. C is not relevant in this case.
+[8] "Commencement day" of an agreement or order is defined in section 56.1 of the Income Tax Act as follows:
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[9] The Order of December 14, 1999 reads as follows:
+This court orders as follows:
+1. The Applicant, Kevin MacDonald the father to pay to the Respondent, Brenda MacDonald, the mother, for support of the child Michael Andrew MacDonald born July 10th, 1992, the sum of $235.00 per month commencing on May 1st, 1998 and the first day of each month thereafter.
+2. Arrears as of June 1st, 1999 are fixed in the amount of $3,200.00 less any additional payments already made through Family Responsibility Office.
+3. The principal residence of the child Marc Allan MacDonald born March 11th, 1988 to be with the Applicant, Kevin MacDonald as of April 1st, 1998 subject to reasonable access to the Respondent Brenda MacDonald on reasonable notice.
+4. No costs.
+5. Unless the support Order is withdrawn from the office of the Director of the Family Responsibility Office, it shall be enforced by the Director and amounts owing under the support Order shall be paid to the Director, who shall pay them to the person to whom they are owed. Support Deduction Order to be issued.
+The question which concerns me is whether we are dealing with a new order to which paragraph (a) of the definition of commencement date applies, in which case the commencement day is either June 16, 1999 or December 14, 1999, or a variation of the 1995 agreement in which case subparagraph 60(b)(ii) of definition would apply. The order makes no reference to the earlier agreement. Nonetheless I think the better view is that we are dealing with a variation of the 1995 agreement. I think this is implicit in the order. For one thing the arrears appear to be calculated on the new amount of $235 per month (14 months x 234 is $3,290, which the Appellant stated was rounded down to $3,200). On this interpretation what then is the commencement day? Counsel for the respondent contended that it was May 1, 1998, the day mentioned in the order.
+[10] If that is the correct interpretation obviously the payments made after that date form part of the B component in the formula and result in no deduction. Let us proceed on the hypothesis that the commencement day is December 14, 1999 either because of paragraph (a) of the definition or because we interpret subparagraph (b)(ii) of the definition to mean that the payments under the order were required to be made upon the date the order was signed. On either hypothesis the payments would nonetheless still not be deductible.
+[11] The appeal is dismissed.
+Signed at Winnipeg, Canada the 10th day of July, 2003.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2003TCC478
+COURT FILE NO.:
+2003-487(IT)I
+STYLE OF CAUSE:
+Kevin A. MacDonald v. The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+July 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Associate Chief Justice D.G.H. Bowman
+DATE OF JUDGMENT:
+July 10, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Derwin Petri, Student-at-Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,191 @@
+---
+title: "Desgagné c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30724/index.do"
+last_modified: "2012-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 63"
+citation2: ""
+neutral_citation: "2012 CCI 63"
+decision_date: "2012-02-24"
+language: "fr"
+item_id: "30724"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7519
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:46:59.837000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d90d8129651384ba49dfe132ade02c934de50bd6cf8ae0d30403bcec1df61fb8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desgagné c. La Reine
+
+- Citation: 2012 CCI 63
+- Decision date: 2012-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7519, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desgagné c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-24
+Référence neutre
+2012 CCI 63
+Numéro de dossier
+2010-595(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-595(IT)I
+ENTRE :
+THÉRÈSE DESGAGNÉ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 avril 2011, à Chicoutimi (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 est accueilli, sans frais, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis ce qui suit :
+1. La toge et les rabats font partie de la catégorie 12 et non de la catégorie 8 et, en conséquence, l’appelante peut, si elle choisit de le faire, déduire de l’amortissement additionnel.
+2. Le montant des dépenses de l’appelante doit être augmenté de 14,70 $ en 2006 et de 1,33 $ en 2007.
+Signé à Ottawa (Ontario), ce 24e jour de février 2012.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2012 CCI 63
+Date : 20120224
+Dossier : 2010-595(IT)I
+ENTRE :
+THÉRÈSE DESGAGNÉ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] L’appelante appelle de nouvelles cotisations en date du 25 août 2008 à l’égard des années d’imposition 2006 et 2007.
+[2] L’appelante est avocate et elle plaide régulièrement des causes civiles devant les tribunaux.
+[3] Je vais examiner séparément la preuve et le droit applicable aux différents points en litige.
+Bénéfices réputés
+[4] L’appelante est actionnaire de la société Gestion R.G.T.L. inc. Les frais d’exploitation collective du cabinet des avocats dans lequel l’appelante rend ses services sont payés par l’entremise de Gestion R.G.T.L.
+[5] Au cours des deux années d’imposition en litige, les comptes à recevoir de l’appelante à Gestion R.G.T.L. étaient de plus de 15 000 $. Aucun intérêt n’a été payé sur cette dette.
+[6] Les faits que je viens de décrire au paragraphe précédent n’ont pas été contestés.
+[7] Dans un contexte commercial, un fournisseur donne souvent aux clients une période de paiement des factures, par exemple, 30 ou 60 jours avant d’exiger de l’intérêt. Toutefois, il n’est pas normal qu’un fournisseur n’exige pas d’intérêt indéfiniment sur un compte à recevoir.
+[8] Le ministre prétend qu’en vertu des paragraphes 15(1) et (9) et du paragraphe 80.4(2) de la Loi de l’impôt sur le revenu il y a un bénéfice réputé. Les détails au sujet du montant du compte à recevoir ainsi que du calcul du bénéfice se retrouvent aux deux dernières pages de l’onglet 6 de la pièce I-1. Le calcul n’a pas été contesté.
+[9] Les dispositions pertinentes de ces paragraphes prévoient ce qui suit :
+15(1) La valeur de l’avantage qu’une société confère […] à un actionnaire […] est incluse dans le calcul du revenu de l’actionnaire pour l’année […].
+[…]
+(9) Pour l’application du paragraphe (1), la somme à l’égard d’un prêt ou d’une dette qui est réputée, en vertu de l’article 80.4, être un avantage reçu par une personne […] est réputée être […] un avantage accordé au cours de l’année à un actionnaire.
+[…]
+80.4(1) […]
+(2) Lorsqu’une personne […] était :
+a) […] un actionnaire d’une société;
+[…]
+et que, à ce titre, la personne […] a reçu un prêt de la société […] ou a par ailleurs contracté une dette en faveur de [la société], la personne […] est réputée avoir reçu, au cours d’une année d’imposition, un avantage égal à l’excédent éventuel du total visé à l’alinéa d) sur le montant visé à l’alinéa e):
+d) le total des intérêts sur tous ces prêts et sur toutes ces dettes, calculés au taux prescrit sur chacun de ces prêts et chacune de ces dettes pour la période de l’année où le prêt ou la dette était impayé;
+e) le montant des intérêts pour l’année versés sur tous ces prêts ou toutes ces dettes au plus tard 30 jours après […] la fin de l’année […].
+[10] Il n’y a aucun doute que ces dispositions s’appliquent ici. L’appelante est actionnaire de Gestion R.G.T.L. et avait une dette envers cette société; aucun intérêt n’a été payé.
+Vêtements
+[11] Cette question est celle que l’appelante considérait comme la plus importante. Elle plaide régulièrement en cour.
+[12] Dans certaines circonstances, elle doit porter la toge.
+[13] Dans d’autres circonstances, quand le port de la toge n’est pas obligatoire l’appelante doit porter des vêtements sobres. Voir, par exemple, le paragraphe 19(2) des Règles de la Cour d’appel du Québec en matière civile, le dernier paragraphe de l’article 36 du Règlement de procédure civile de la Cour supérieure du Québec et l’article 8 du Règlement de la Cour du Québec.
+[14] À ces fins, l’appelante a acheté des vêtements noirs.
+[15] L’appelante a témoigné que ce n’est pas son style de porter de tels vêtements noirs et qu’elle s’en sert pour aller en cour; elle s’en sert également au travail les jours où elle va en cour. Les jours où elle ne va pas en cour, elle ne se sert pas normalement des vêtements en question. Il est rare qu’elle se serve de ces vêtements hors du contexte de son travail.
+[16] Au cours des deux années en question et d’années antérieures, l’appelante a acheté des vêtements noirs, les a ajoutés à la catégorie 8 et a réclamé de l’amortissement relatif à la catégorie 8.
+[17] Au cours d’années antérieures, l’appelante a également acheté d’autres vêtements noirs, des toges, des rabats et de l’ameublement qu’elle a ajoutés à la catégorie 8.
+[18] En établissant les nouvelles cotisations, le ministre a accepté l’inclusion des toges et des rabats dans la catégorie 8; par contre, le ministre a refusé l’inclusion des vêtements noirs.
+[19] Plus particulièrement, il a refusé l’ajout des vêtements achetés pendant les deux années en litige et il a réduit le solde d’ouverture de la catégorie 8 au début de l’année 2006 de façon à exclure l’achat de vêtements avant 2006 et à inclure seulement la valeur amortie des toges et de l’ameublement. (Voir, entre autres, l’onglet 8 de la pièce I-1, notamment la note 1 au bas de la première page.)
+[20] À l’appui de sa demande, l’appelante invoque la cause Charron c. Canada, [1997] A.C.I. no 1181 (QL), une décision de cette cour concernant un avocat qui a réclamé des frais de vêtements. Là aussi on fait référence à la tenue vestimentaire obligatoire selon les règles de pratique de différents tribunaux. Dans Charron, la Cour a accordé la dépense demandée.
+[21] Toutefois, les circonstances dans Charron semblaient être différentes de celles de la présente cause. Dans Charron, il n’y a aucune description des vêtements en question; cependant, les parties des dispositions des règles citées au paragraphe 18 du jugement ne font référence qu’aux situations où le port de la toge est obligatoire, ce qui laisse croire que les vêtements en question étaient des vêtements très spécialisés comme la toge et les rabats qui ne se portent, en pratique, qu’en cour.
+[22] De par leur nature, le coût d’achat de vêtements est généralement une dépense personnelle qui n’est pas déductible en vertu de l’alinéa 18(1)h) de la Loi de l’impôt sur le revenu. Ce n’est que dans des circonstances limitées que l’achat de vêtements n’est pas considéré comme une dépense personnelle. (Voir aussi la décision du juge Paris dans Rupprecht c. La Reine, 2007 CCI 191, aux paragraphes 12, 13 et 17 à 19, décision entérinée par la Cour d’appel fédérale, 2009 CAF 314.)
+[23] Dans la présente affaire, nous ne sommes pas dans l’une de ces situations limitées où le coût de vêtements peut être déduit. Bien qu’il soit question de vêtements sobres, ce sont quand même des vêtements qui peuvent se porter plus généralement au travail ou non. Il ne s’agit pas de vêtements très spécialisés ou d’uniformes.
+[24] Le ministre avait donc raison de ne pas accepter la déduction des frais de vêtements en question.
+Ajustement au solde d’ouverture de la classe 8
+[25] L’appelante prétend que le ministre ne peut ajuster le solde d’ouverture de la classe 8 au début de 2006 parce qu’il s’agit en partie d’un ajustement à des années prescrites.
+[26] Je ne peux retenir cet argument, car il est bien établi que ce que fait une cotisation est de déterminer le montant d’impôt payable pour une année. Une cotisation n’établit pas les faits sous-jacents pour les années à venir, y compris le solde de différents comptes, qui peuvent être pertinents aux fins des futures cotisations.
+[27] Dans la décision Coastal Construction and Excavating Ltd. c. Canada, [1996] A.C.I. no 1102 (QL), le juge Bowman, plus tard juge en chef, explique ceci :
+[…] Le ministre est tenu d’établir la cotisation conformément à la loi. S’il établit une cotisation erronée à l'égard d'une année antérieure et que cette année devienne par la suite prescrite, il ne peut pas établir une nouvelle cotisation pour cette année-là. Cela ne l’empêche toutefois pas de corriger l’erreur dans une année qui n’est pas prescrite, même si cela comporte le rajustement des soldes pouvant être reportés d’années antérieures, et ce, qu’il s’agisse du report prospectif de pertes ou de soldes de crédits d’impôt à l’investissement. New St. James Limited. v. M.N.R., 66 D.T.C. 5241; Allcann Wood Suppliers Inc. v. The Queen, 94 D.T.C. 1475. La question de la préclusion ne se pose pas : Goldstein v. The Queen, 95 D.T.C. 1029.
+(Cette traduction de l’extrait provient du paragraphe 16 de la décision Leola Purdy Sons Ltd. c. La Reine, 2009 CCI 21.)
+[28] Quant au quantum de l’ajustement, j’accepte le témoignage de l’appelante selon lequel elle a acheté l’ameublement de son bureau.
+[29] L’appelante a également témoigné que la réduction du solde d’ouverture doit inclure plus que juste des vêtements. Toutefois, je n’ai entendu aucune preuve spécifique au sujet des acquisitions passées, même pour quelques années avant les années en cause.
+[30] La catégorie 8 permet une déduction à un taux annuel de 20 % selon la méthode d’amortissement dégressif; un tel taux permet d’amortir plus que 60 % après cinq ans. En conséquence, les achats de catégorie 8 au début de la pratique de l’appelante auraient très peu de poids dans le solde d’ouverture en 2006. Par contre, s’il y avait des acquisitions faisant partie de cette catégorie au cours des cinq années précédant les années en appel, ces acquisitions auraient probablement une portée importante sur le solde d’ouverture.
+[31] L’appelante a commencé à pratiquer le droit en 1994. Il est sans doute difficile d’établir le coût d’acquisition original de l’ameublement. Par contre, on s’attendrait à ce que l’appelante puisse fournir une preuve plus détaillée au sujet des soldes et des ajouts à la catégorie 8 pendant au moins quelques années avant les deux années en question, ce qui aurait peut-être permis un début de preuve à l’égard d’un montant différent.
+[32] En l’absence de preuve qui me permettrait de conclure que le solde d’ouverture devrait être un montant plus important que le montant établi par le vérificateur, je n’ai aucun élément qui me permettrait de conclure qu’il y a lieu d’utiliser un solde d’ouverture différent.
+Catégorie 8
+[33] L’appelante a inclus la toge et les rabats dans la catégorie 8, peut-être parce que c’est ce qui a été fait dans la décision Charron. Dans Charron, il ne semble pas avoir eu de discussion relative à la catégorie appropriée, mais je me suis posé cette question en rédigeant les présents motifs.
+[34] La question de savoir si la catégorie 8 est la bonne catégorie ne s’est pas posée au cours de l’audition et, en conséquence, je n’ai pas eu le bénéfice des observations des parties sur cette question. Toutefois, vu le paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt et vu que le montant d’impôt affecté serait très modeste, plutôt que d’inviter les parties à faire des commentaires additionnels, j’ai conclu qu’il serait préférable de décider directement de cette question tout en faisant savoir que je n’avais pas eu le bénéfice des observations des parties.
+[35] La catégorie 12 de l’annexe II du Règlement de l’impôt sur le revenu inclut à l’alinéa i) : « un uniforme ».
+[36] Le Nouveau Petit Robert, 2006, donne comme deuxième définition du mot « uniforme » :
+2. (1831) Habit, vêtement déterminé, obligatoire pour un groupe (professionnel, etc.). Uniforme d’huissier, de contractuelle. « son caricatural uniforme de clergyman, feutre noir et mou, longue redingote noire » (Mirbeau).
+[37] En conséquence, la toge et les rabats que porte un avocat en cour sont des biens visés à l’alinéa i) de la catégorie 12.
+[38] La toge et les rabats font donc partie de la catégorie 12 dont le taux d’amortissement est plus élevé que la catégorie 8.
+Intérêts et frais bancaires
+[39] En 2006 et en 2007, l’appelante a demandé des déductions pour intérêt de 4 649,62 $ et de 4 394,68 $ respectivement. En fait, une portion de ces montants représentait divers frais bancaires et non de l’intérêt.
+[40] Le vérificateur a accepté que les frais bancaires dénommés « facturation mensuelle » étaient à des fins commerciales et a permis la déduction de ces montants.
+[41] Pour ce qui est des autres frais bancaires, le vérificateur a conclu qu’ils étaient liés à la marge de crédit.
+[42] Le vérificateur a constaté que le compte courant de la pratique contenait typiquement peu d’argent et que l’appelante faisait de temps en temps des chèques personnels à son nom ce qui, en général, créait une situation de découvert bancaire. Le découvert était très rapidement comblé par un dépôt provenant de la marge de crédit. On constate également que, lorsque le solde du compte courant est au-delà des besoins immédiats, le surplus est rapidement utilisé pour faire des remboursements à la marge de crédit.
+[43] Ayant donc constaté que la marge de crédit servait en partie à financer des chèques à l’appelante, le vérificateur a conclu que la marge de crédit était utilisée en partie à des fins personnelles; il a évalué ce pourcentage d’utilisation personnelle à 25 %. (Voir, entre autres, les questions 39 à 53 de la transcription et l’onglet 7 de la pièce I-1).
+[44] En preuve, l’appelante a déposé les pièces A-2 à A-4 qui donnent des détails relatifs aux divers frais bancaires. Je suis convaincu que les différents montants de 5,25 $ et de 9,95 $ aux premières pages desdites pièces sont des frais bancaires exclusivement liés à la facturation mensuelle. Quand on ajoute ces montants aux montants de facturation mensuelle calculés par l’appelante, on arrive à un total de 434,70 $ en 2006 et de 421,33 $ en 2007, soit 14,70 $ et 1,33 $, respectivement, de plus que les montants utilisés par l’Agence du revenu du Canada.
+[45] Il faut donc augmenter les dépenses de 14,70 $ en 2006 et de 1,33 $ en 2007.
+[46] L’appelante a également témoigné qu’elle payait personnellement, et non du compte courant de la pratique, certaines dépenses de la pratique, par exemple, l’immatriculation, l’assurance automobile, le permis de conduire et l’entretien de l’automobile ou l’achat des vêtements dont il a été question ci-dessus. En conséquence, elle prétend que même si des chèques personnels faits à son nom ont été financés à partir de la marge de crédit de la pratique, ces chèques servaient à payer des dépenses d’affaires et, en conséquence, représentaient toujours une utilisation commerciale de la marge de crédit.
+[47] J’accepte le témoignage de l’appelante dans la mesure où les chèques personnels ont servi à des dépenses de la pratique.
+[48] Toutefois, la preuve de l’appelante ne fait aucune quantification entre l’utilisation de montants retirés par chèque pour payer des dépenses d’affaires et celle de montants retirés pour payer d’autres dépenses. De plus, une partie des dépenses automobiles était personnelle; les dépenses de vêtements refusées sont également personnelles. Il se peut qu’il y ait eu d’autres dépenses personnelles payées à partir des chèques en question.
+[49] Il n’y a donc aucun doute qu’une partie de l’utilisation de la marge de crédit est de nature personnelle. Cette utilisation est-elle de moins de 25 %? Je ne vois pas quels éléments de preuve me permettraient de conclure à un autre pourcentage spécifique. En conséquence, il n’y aura aucun autre changement quant au montant d’intérêt déductible.
+[50] Il y a aussi un montant de 180 $ de frais de négociation de crédit en 2006 et en 2007. Ces frais sont liés à la marge de crédit. La déductibilité de ces frais doit être établie selon la même proportion que la déductibilité de l’intérêt puisque la marge de crédit sert à des fins commerciales et personnelles. Vu que ces frais sont inclus dans le montant d’intérêt accordé à 75 %, il n’y a pas lieu d’augmenter la proportion déductible de ces deux montants de 180 $.
+Conclusion
+[51] Pour ces motifs, l’appel sera accueilli, sans frais, et le tout sera renvoyé au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis ce qui suit :
+1. La toge et les rabats font partie de la catégorie 12 et non de la catégorie 8 et, en conséquence, l’appelante peut, si elle choisit de le faire, déduire de l’amortissement additionnel.
+2. Le montant des dépenses de l’appelante doit être augmenté de 14,70 $ en 2006 et de 1,33 $ en 2007.
+Signé à Ottawa (Ontario), ce 24e jour de février 2012.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2012 CCI 63
+Nº DU DOSSIER DE LA COUR : 2010-595(IT)I
+INTITULÉ DE LA CAUSE : THÉRÈSE DESGAGNÉ c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Chicoutimi (Québec)
+DATE DE L’AUDIENCE : Le 6 avril 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 24 février 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Simon Vincent
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

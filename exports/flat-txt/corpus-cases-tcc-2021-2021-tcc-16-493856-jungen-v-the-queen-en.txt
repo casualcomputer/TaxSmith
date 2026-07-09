@@ -1,0 +1,158 @@
+Title: Jungen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493856/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-16-493856-jungen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-03-02
+
+# Jungen v. The Queen
+
+- Citation: 2021 TCC 16
+- Decision date: 2021-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4614, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jungen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-02
+Neutral citation
+2021 TCC 16
+File numbers
+2019-3682(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-3682(IT)I
+BETWEEN:
+ELAINE JUNGEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 5, 2020, at Calgary, Alberta
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Matthew Chao
+JUDGMENT
+The appeal of the determination made March 1, 2019 under the federal Income Tax Act by the Minister on National Revenue (Minister) regarding the Appellant’s claim for a disability tax credit for each of her 2013 through 2018 taxation years is allowed, with costs fixed at $700. The determination is referred back to the Minister for reconsideration and redetermination on the basis that the Appellant is entitled to the disability tax credit as claimed for each of her 2013 through 2018 taxation years.
+Signed at Halifax, Nova Scotia, this 2nd day of March 2021.
+“B. Russell”
+Russell J.
+Citation: 2021 TCC 16
+Date: 20210302
+Docket: 2019-3682(IT)I
+BETWEEN:
+ELAINE JUNGEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] The appellant, Elaine Jungen, appeals a determination the Minister of National Revenue (Minister) made March 1, 2019, disallowing her claim for a disability tax credit (DTC) per the federal Income Tax Act (Act) for her respective 2013 through 2018 taxation years (the pertinent period). The claim was made in respect of the appellant’s dependant son (JA), born September, 2003. During the pertinent period JA was 9 through 15 years of age. Statutory references herein are to provisions of the Act.
+[2] During the pertinent period JA had significant behavioural difficulties. In 2013, being the first year of the six year pertinent period, JA was diagnosed with “attention deficit hyperactivity disorder” (ADHD). As pleaded by the appellant in her Notice of Appeal, even with medication respecting the ADHD diagnosis, throughout the pertinent period JA was, “argumentative, aggressive and angry . . . ” She further pleaded in the Notice of Appeal that he, “needs [his mother’s] 100% assistance to help him adapt to social cues and to learn to use correctly the right behaviour in social interactions, with his sibling and peers.”
+[3] A May 31, 2019 letter to the appellant from the Canada Revenue Agency (CRA) Appeals officer (Exhibit A-1) states in part, “We acknowledge that [JA’s] impairment is prolonged and do not question the seriousness of his medical condition. However, based on the examples from Dr. Kardal, [he] is not considered markedly restricted in performing the mental functions necessary for everyday life.”
+[4] Thus the issue in this appeal lies in the “markedly restricted” factor.
+[5] The requirements of the Act for qualifying for a DTC regarding mental functioning are summarized as follow. Per subsection 118.3(1) and paragraph 118.3(1)(a.2), “an individual” must have “one or more severe and prolonged impairments in . . . mental functions . . . the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted . . .” A medical practitioner must so certify in prescribed form.
+[6] Additionally, an impairment is “prolonged” where it has lasted or can be expected to last for a continuous period of at least 12 months (paragraph 118.4(1)(a)). Per paragraph 118.4(1)(b), “an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy . . . and medication, the individual is . . . unable (or requires an inordinate amount of time) to perform a basic activity of daily living”.
+[7] A basic activity of daily living includes, “mental functions necessary for everyday life” subparagraph 118.4(1)(c)(i). Finally, mental functions necessary for everyday life, “include: (i) memory, (ii) problem solving, goal-setting and judgment (taken together) and (iii) adaptive functioning” (subparagraphs 118.4(1)(c.1)(i)(ii)(iii)).
+[8] A fundamental principle in tax litigation is that ministerial assumptions pleaded in the respondent Crown’s Reply are presumed correct unless proven otherwise on a balance of probabilities. In this appeal ministerial assumptions appear at para. 9 of the Reply. Many of these assumptions involve reiterating content of two behavioural assessment reports concerning JA.
+[9] The earlier of these two reports is a psychological assessment report dated March 29, 2017, prepared by registered psychologist Ms. V. Small of the Calgary Board of Education. It includes two paragraphs headed “clinical impression”, wherein psychologist Small recorded that JA:
+. . . meets DSM-V diagnostic criteria for Unspecified Disruptive, Impulse-Control and Conduct Disorder, 312.9 (F91.9). This diagnosis reflects that although his symptoms do not meet the full criteria for any of the disorders in this category, [JA’s] behavioural difficulties appear to significantly affect his day-to-day functioning.
+[10] Psychologist Small wrote also that JA exhibited certain behavioural and emotional difficulties, as follow. (They also are listed in the Reply (para. 9(d)) as ministerial assumptions and the appellant confirmed them in her testimony):
+[JA]…had difficulties managing his emotional and behavioural impulses at home and at school; frequently lost his temper and presented as resentful/angry; intentionally annoyed others; refused to comply with adult requests at school; has bullied, threatened, and intimidated others; and may have been physically aggressive with others.
+[11] The second behavioural report referenced in the Reply is incorporated in the Disability Tax Credit Certificate that paragraph 118.3(1)(a.2) requires, filed with the appellant’s claim. Dated December 30, 2018 (i.e., at the end of the pertinent period), this Certificate was prepared and signed by paediatric physician L. Kardal. JA had been under Dr. Kardal’s care since 2013 (para. 9(b)(i) of the Reply) – that is, entirely throughout the pertinent period.
+[12] In her Certificate, Dr. Kardal records that JA was diagnosed in 2013 (by her, I understand) with ADHD. She notes that in 2017 a “psychoeducational assessment” was carried out due to JA’s ongoing difficulties with learning and behaviour despite ADHD medical treatment. I understand this refers to psychologist Small’s above-noted March 29, 2017 assessment.
+[13] Dr. Kardal notes further that psychologist Small’s assessment regarding JA’s behavioural issues led to her diagnoses of learning disabilities (LD) and Unspecified Disruptive, Impulse-Control and Conduct Disorder. She states in her Certificate that, “[t]he combination of ADHD, LD, conduct disorder and very low intellectual abilities has caused [JA] to have marked restrictions in the mental functions necessary for everyday life.” [my underlining]
+[14] In her Certificate Dr. Kardal also gave examples of the “marked restrictions” she had referred to regarding JA’s conduct, as follow:
+- requires reminders for showering, grooming, wearing deodorant;
+- does not go to a store or out into the community alone;
+- will not look at or speak to store clerks without support from his mother;
+- needs reminders for daily routines and activities;
+- does not interact appropriately with others;
+- says things that are hurtful or disrespectful and is often argumentative and oppositional;
+- deliberately annoys other people;
+- these all have a negative impact on his ability to interact with peers and adults;
+- [d]oes not talk to me [i.e., Dr. Kardal] during visits at my office even though he has known me for many years;
+- requires a specialized educational program;
+- needs support from an adult to follow multi-step instructions;
+- has a weak memory and poor concept of time;
+- lacks the necessary awareness and insight to solve problems;
+- [he] is functioning well below most teenagers his age who are independent in most of these areas.
+[15] Dr. Kardal concluded by certifying that JA, “ . . . was markedly restricted in performing the mental functions necessary for everyday life.”
+[16] Included in the wording of the prescribed form Certificate are examples of the categories of mental functions necessary for everyday life, as follow:
+- adaptive functioning - (for example, abilities related to self-care, health and safety, abilities to initiate and respond to social interactions, and common, simple transactions) . . . [and] . . .
+- problem solving, goal-setting and judgment (taken together) - (for example, the ability to solve problems, set and keep goals, and make appropriate decisions and judgments).
+[17] Dr. Kardal certified further that JA’s marked restriction in performing mental functions necessary for everyday life had existed since 2013 – that is, throughout the entire pertinent period.
+[18] The appellant – JA’s mother – was the sole person testifying at the hearing. Her testimony struck me as forthright, relatively objective, knowledgeable and caring. She is a sole parent – with no financial or parenting assistance from JA’s father. She has to work to pay household expenses for her family of two same-age children being son JA and a daughter. She has full-time employment outside the home Monday to Friday with typical office-type hours and sometimes overtime.
+[19] She affirmed the behavioural problems listed in psychologist Small’s 2017 evaluation. For convenience I repeat them here - he had difficulties managing his emotional and behavioural impulses at home and at school; frequently lost his temper and presented as resentful/angry; intentionally annoyed others; refused to comply with adult requests at school; has bullied, threatened, and intimidated others; and may have been physically aggressive with others.
+[20] She testified that JA struggles to realize the goal of having some friends, in continually failing to understand that actions as identified above repel prospective friends. He is not empathetic, he is rude and abusive, and cannot see others’ points of view. All of this detrimentally impacts his social life including with would-be friends, peers generally and his same-age sister.
+[21] As a situational example she described how JA is physically a good hockey player with Hockey Calgary minor hockey, but on occasion (twice I believe) has been suspended by that organization from play due to entirely inappropriate language and conduct vis-à-vis officials, coaches and teammates. He likes hockey a lot, but has alienated other players, officials and coaches and struggles in his relations with them. He enjoys hockey but is too critical of others.
+[22] She and he have had to meet with Hockey Calgary leadership on more than one occasion regarding his behaviour. She said JA has no ability to stop himself in situations of inappropriate behaviour. At hockey games she has been permitted to sit on the players’ bench to try to control JA in situations of eruption of inappropriate behaviour. She does not regularly attend the two weekly practices but does so when behavioural issues are anticipated. She added that being allowed the claimed DTCs would assist in obtaining for him further professional counselling.
+[23] In cross-examination she further testified that JA had much less individualized support in school than in previous years, due to school board expense cutting. He is encouraged to leave the classroom when he feels actively disruptive. But now there is no person available to support him when he goes to another room.
+[24] He has been in a modified education program for the last several years, which is less demanding academically than the regular stream program. She testified he was put in that modified program primarily due to his disruptive behavioural tendencies rather than due to learning difficulties. This year he is in grade 12 and is in the regular curriculum program, with the exception of one course (English) from the modified program.
+[25] JA, in the past and now to a lesser extent, while at school would telephone and text his mother who would be at work about matters disrupting him at school. Now she is more likely to receive emails from teachers regarding behavioural situations. At times, when he has had behavioural issues at school, she has left work early to pick him up and bring him home and stay with him. She credits an understanding manager at her employment for her flexibility to be able to do this.
+[26] JA has for some years enjoyed video games, but when playing such games with peers he often is rude and abusive to them. He angers or insults them and they no longer wish to play video games with him. He played more video games back in years 2013 and 2014. The appellant somewhat supervised JA during video game sessions by listening in to ensure all was well, and when she heard inappropriate language from JA she would step in. He does not watch much television, basically just sports such as hockey.
+[27] She testified he needs her support 90 to 100% of the time. His inappropriate behavioural impulses impact every aspect of life. He still struggles with being required to take showers after hockey and in the mornings before school. Notwithstanding lengthy and repeated discussions with him about this she still finds she has to basically stand by the bathroom door to best ensure that he carries through with this.
+[28] As well, she testified, his ability to see other points of view is quite limited. His response in explaining why he says insulting things, in one instance for example calling a fellow student “fat”, is that he wanted to motivate her, not upset her. His mother testified that these types of situations continuously require repeated and lengthy discussions by her with him, to try to show him the appropriate social response, and with him argumentatively responding.
+[29] Another example as to JA’s social interaction inabilities that his mother spoke of, was his on occasion wanting to change his bedroom around. She said he will move things in the room and then get angry or upset and requires her support to put the room back together as it was. He gets angry in this type of situation and he has become somewhat physical and has broken a table, yet he does not grasp that the table has to be replaced and how that must be done (through purchasing a new table). The appellant constantly engages in intense discussions with him, repeatedly trying to have him understand the negative impacts of his behavior and so to change accordingly, with him virtually continuously failing to accept and carry forward such guidance.
+[30] The appellant testified that JA needs her support 90% or more of time in the mornings before school and after school upon her return from her employment outside the home. He struggles to recognize that his aggressive attitudes upset people. This impairs his goal of making and keeping friends.
+[31] He does not go out with friends or his sister. He makes friends “mad” so they do not go out with him. He does not drive. He is alone.
+[32] After school while his mother is still at work he comes home on the bus, plays video and makes a snack. He does not eat much during the day because of his medication. He does not know how to cook. He tends to eat yogurt. He has challenges in following instructions. He needs reminders and guidance in following instructions.
+[33] In summing up, JA’s mother testified that his impairment does markedly restrict his ability to perform mental functions necessary for everyday life. He needs her support virtually 100% of the time every day to be successful. She contends that CRA acknowledges JA’s ADHD but not the full extent of his mental struggles, that he lives with every day.
+[34] As stated the respondent Crown does not accept that JA was “markedly restricted” in his ability to perform relevant mental functions. Also as stated, in the context of mental functions, “markedly restricted” means that all or substantially all of the time the individual is unable to or requires an inordinate amount of time to perform mental functions necessary for everyday life - including memory; problem-solving, goal-setting and judgment (taken together); and adaptive functioning.
+[35] Counsel cited Johnston v. R., 1998 CarswellNat 169 (FCA), which addresses the purpose of the DTC provisons - sections 118.3 and 118.4. In Johnston (paragraph 10) the Federal Court of Appeal expressed concurrence with an earlier statement of Bowman, J., as he then was, that these DTC provisons, “ . . . must be given a humane and compassionate construction.” [underlining added]
+[36] Walkowiak v. R., 2012 TCC 453 also was cited. It dealt with a mother of two children, she having been being diagnosed with ADHD and DSM-IV Learning Disability. Here, my colleague Justice Boyle found insufficient evidence that the impairments to her mental functions markedly restricted her ability to perform a basic activity of daily living. The evidence had shown the taxpayer as able to hold a full time job with government as a qualified home-care worker, caring for others’ children, in addition to raising her own children.
+[37] In my view the present facts indicate a significantly greater detrimental effect on daily life.
+[38] McDermid v. Her Majesty, 2014 TCC 264 was also cited. Unlike in the case at bar, McDermid was particularly a memory impairment case respecting a young son (age 9).
+[39] Cited also was Vrantsidis v. Her Majesty, 2017 TCC 204. The appellant in that case had claimed a DTC in respect of her 19 year old son who had been diagnosed with ADHD. He had graduated from high school on time, had a part time job, played guitar and video games, was taking driving lessons and was enrolled in a music and digital media college program. My colleague Justice Favreau found in this situation that the effects of ADHD were not severe enough to be described as “markedly restricted” – thus the claimed DTC was denied. I feel those factual circumstances indicate as well a lesser impairment of ability to perform everyday tasks than in the case of JA. JA does not have a part-time job nor would it seem likely that he could take one on, given his basic deficiencies in social interaction.
+[40] It was argued that the appellant had developed strategies to prompt JA to conduct himself in a more socially appropriate manner. The example offered was JA’s mother, time and time again repeatedly urging JA to shower in the mornings and after hockey games, and ultimately standing at the bathroom door to best ensure the showering occurred. But I must query whether that is really a strategy – as opposed to an action on her part born of exasperation - with the same scene frequently recurring.
+[41] The evidence in this matter has established for me that JA during the pertinent period has had substantial impairment of ability to engage in appropriate social interactions with other persons with whom he comes into contact. They include other students, hockey players, video games players, hockey officials, coaches, his own physician, store clerks and his same – aged sister. He is singularly argumentative, abusive and insulting. He does not learn from or adopt his mother’s constant guidance, which results in these negative scenarios being played out time and time again.
+[42] As noted above, the prescribed form DTC Certificate states some examples re “adaptive functioning” and “problem solving, goal-setting and judgment (taken together)”, identified in the Act as being “mental functions necessary for everyday life”. Examples given for “adaptive functioning” are, “[a]bilities related to self-care, health and safety, abilities to initiate and respond to social interactions, and common, simple transactions”. Examples given re “problem solving, goal-setting and judgment (taken together)” are “the ability to solve problems, set and keep goals, and make appropriate decisions and judgments”.
+[43] The “adaptive functioning” statutory reference to ability re social interactions is particularly relevant. The evidence has established that JA is seriously lacking in ability to engage in social interactions. As referenced above, the written reports of his paediatrician and school psychologist, and the largely unchallenged testimony of his mother, all attest to this. According to his mother’s basically uncontradicted testimony, this was not just from time to time, but rather substantially all of the time. The same is so re his continuing inability to accept regular showering. That difficulty is an element of “self-care” and “health”, also identified as indicative of “adaptive functioning”. Thus, and construing the statutory term “adaptive functioning” on an humane and compassionate basis as directed by jurisprudence, I ultimately accept that JA is markedly restricted in respect of the adaptive functioning aspect of mental functions necessary for everyday life.
+[44] To a lesser extent but still significantly the same evidence established issues JA had with “memory” and “problem solving, goal-setting and judgment (taken together)” as specified in the Act.
+[45] As for the taxation years at issue, I consider that the appellant’s evidence covered the period of 2013 through 2018 taxation years without successful challenge. As well, Dr. Kardal had been treating JA since 2013 and her opinion as expressed in the Disability Tax Credit Certificate was that his behavioural issues did “markedly restrict” as expressed above, going back to 2013. There was little if any evidence that JA’s impairments had significantly altered during the years leading to 2018.
+[46] Accordingly, the appeal of the Minister’s determination made March 1, 2019 respecting the appellant’s 2013 through 2018 taxation years will be allowed and that determination will be referred back to the Minister for reconsideration and re-determination on the basis that the appellant is entitled to the disability tax credit as claimed for each of her 2013 through 2018 taxation years.
+Signed at Halifax, Nova Scotia, this 2nd day of March 2021.
+“B. Russell”
+Russell J.
+CITATION:
+2021 TCC 16
+COURT FILE NO.:
+2019-3682(IT)I
+STYLE OF CAUSE:
+ELAINE JUNGEN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 5, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+March 2, 2021
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Matthew Chao
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[Blank]
+Firm:
+[Blank]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

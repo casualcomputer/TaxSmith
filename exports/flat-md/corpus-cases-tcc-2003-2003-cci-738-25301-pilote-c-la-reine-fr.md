@@ -1,0 +1,141 @@
+---
+title: "Pilote c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25301/index.do"
+last_modified: "2003-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 738"
+citation2: ""
+neutral_citation: "2003 CCI 738"
+decision_date: "2003-10-30"
+language: "fr"
+item_id: "25301"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2406
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:35:33.690000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ab3b31dec58ea06c0755b1ed95c3c59e9b9dc77ed93a7c9e7bed86e6ca9ebee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pilote c. La Reine
+
+- Citation: 2003 CCI 738
+- Decision date: 2003-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2406, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pilote c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-30
+Référence neutre
+2003 CCI 738
+Numéro de dossier
+2003-1713(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1713(IT)I
+ENTRE :
+RÉMI PILOTE
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 29 août 2003 à Chicoutimi (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Yannick Landry
+____________________________________________________________________
+JUGEMENT
+Les prétendus appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu ( « la Loi » ) à l'égard des années d'imposition 1998 et 1999 sont rejetés pour cause de nullité;
+L'appel de la cotisation établie en vertu de la Loi à l'égard de l'année d'imposition 2000 est rejeté, le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+Référence : 2003CCI738
+Date : 20031030
+Dossier : 2003-1713(IT)I
+ENTRE :
+RÉMI PILOTE
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant interjette appel des cotisations établies à son égard pour les années d'imposition 1998, 1999 et 2000. Les cotisations pour les années 1998 et 1999 sont datées du 12 septembre 2000 et celle pour l'année d'imposition 2000 est datée du 21 janvier 2002. L'appelant n'a pas signifié d'avis d'opposition aux cotisations du 12 septembre 2000 visant les années d'imposition 1998 et 1999 ni de demande de prorogation du délai pour présenter un tel avis d'opposition. En ce qui concerne l'année 2000, le litige porte sur le montant de l'indemnité pour accident de travail reçue par l'appelant. L'intimée prétend que cette indemnité s'élevait à 20 082 $ alors que l'appelant prétend qu'elle s'élevait à 33 273 $.
+[2] Je vais tout d'abord traiter de la requête préliminaire de l'appelant visant à obtenir le droit d'interjeter appel des cotisations pour les années d'imposition 1998 et 1999, cotisations dont les avis sont datés du 12 septembre 2000. L'appelant invoque le fait que la cotisation du 21 janvier 2002 peut avoir un impact sur ses revenus de 1998 et de 1999 et qu'il peut en conséquence en appeler des cotisations pour ces deux années, même s'il ne s'y est pas opposé. Le fait que l'appelant ne s'est pas opposé aux cotisations du 12 septembre 2000 est admis.
+[3] Pour qu'un appel soit valide et que cette cour ait la compétence voulue pour l'entendre, un appelant doit satisfaire aux conditions qui se trouvent énoncées aux articles 165 et 169 de la Loi de l'impôt sur le revenu ( « la Loi » ). Il faut donc, tout d'abord, qu'il se soit opposé à la cotisation en signifiant au ministre du Revenu national, par écrit, un avis d'opposition et, lorsqu'il a signifié un tel avis, il peut interjeter appel auprès de cette cour pour faire annuler ou modifier la cotisation après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation, ou après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé or ratifié la cotisation ou procédé à une nouvelle cotisation. Il n'est pas nécessaire de souligner la suite des dispositions de l'article 169. Il suffit ici de dire que l'appelant, n'ayant pas signifié au ministre d'avis d'opposition aux cotisations du 12 septembre 2000 pour les années d'imposition 1998 et 1999 ni présenté de demande de prorogation du délai pour signifier un avis d'opposition à ces mêmes cotisations, ne peut interjeter appel de ces cotisations devant cette Cour. Il s'ensuit que les appels visant ces années doivent être annulés.
+[4] Un des faits sur lesquels le ministre s'est fondé pour établir la cotisation du 21 janvier 2000 est que l'employeur de l'appelant, durant l'année 2000, s'est fait rembourser par la Commission de la santé et de la sécurité du travail une somme de 20 082 $. Le versement de cette somme a été prouvé par le dépôt de deux formulaires T5007 remis par la Commission à l'appelant qui indiquent les sommes qui auraient dû être payées à ce dernier durant les années 1998 et 1999, quand il ne travaillait pas en raison d'un accident, et auxquelles il avait droit. La somme de 20 082 $ selon la preuve, a été versée directement à l'employeur de l'appelant en l'an 2000 et était constituée d'une somme de 3 353 $ pour l'année 1998 et de 16 729 pour l'année 1999.
+[5] Il faut signaler que la Commission de la santé et de la sécurité du travail du Québec est aussi l'employeur de l'appelant. Aux fins des présents motifs, je vais parler de la Commission employeuse ou de la Commission assureur, selon le cas, pour faire la distinction entre ses deux rôles.
+[6] Le commencement de cette affaire remonte à novembre 1998 alors que l'appelant a été victime d'un accident de travail. Au début, la Commission assureur a refusé de lui verser les prestations auxquelles il avait droit, et ce, au motif qu'il ne reconnaissait pas que son accident était relié à son travail. Ce n'est qu'en octobre 2000 que la Commission assureur a reconnu que l'accident était effectivement au travail de l'appelant et c'est à ce moment qu'un remboursement, dont le montant est contesté, a été fait à la Commission employeuse.
+[7] Ce remboursement représente des prestations que l'appelant était en droit de recevoir en raison de son accident de travail et selon la loi qui s'y appliquait. Les T5007 indiquent clairement que la somme y inscrite comprend ce que la Commission employeuse a versé à l'appelant à la suite de la réclamation qu'il avait faite à la Commission assureur.
+[8] Ce qui semble avoir créé une certaine confusion dans cette affaire est le fait que l'intimée a dans un premier temps accordé à l'appelant une déduction de 33 273 $ sur ses revenus pour l'année d'imposition 2000. Lorsque l'intimée a reçu de la Commission assureur une copie des T5007, elle a changé sa position et établi les cotisations qui font l'objet de ces appels en réduisant le montant de la déduction au total indiqué sur les T5007, soit 20 082 $.
+[9] L'appelant a produit en preuve une lettre de la Commission employeuse (celle sur laquelle on s'était fondé pour accorder la première déduction) en date du 2 novembre 2000. L'auteure de la lettre n'a pas témoigné, mais elle semble y indiquer que la somme de 33, 273 $ a été récupérée en l'an 2000 pour corriger la situation - c'est-à-dire la situation où l'on avait refusé d'admettre que l'accident de l'appelant était relié à son travail - qu'une somme de 18 849,60 $ a été versée en 2000 pour corriger la même situation. Les montants de l'indemnité de l'accident de travail indiqués dans cette lettre ne correspondent pas à ceux figurant sur les formulaires T5007 établis par la Commission employeuse. Devant cette anomalie, il m'est difficile d'accepter les chiffres donnés dans la lettre de la Commission employeuse. Je m'en tiens donc aux montants indiqués sur les formulaires T5007 établis par la Commission assureur.
+[10] En l'absence d'explications concernant la modification du traitement du cas de l'appelant à la suite de l'acceptation de son accident comme un accident de travail, je conclus que le remboursement fait à la Commission employeuse pour le compte de l'appelant en l'an 2000 s'est élevé à 20 082 $, chiffre qui représente, à mon avis, les sommes d'argent qu'il aurait reçues dans les années 1998 et 1999 si on avait alors reconnu son accident comme un accident de travail. La cotisation ne vise que le remboursement fait par la Commission assureur à la Commission employeuse. Je ne peux donc pas prendre en considération les autres ajustements qui peuvent avoir été faits entre l'appelant et la Commission employeuse pour la période en 1998 et 1999 où il ne travaillait pas en raison de son accident.
+[11] Dans le calcul du revenu d'un contribuable, on doit inclure, suivant l'alinéa 56(1)(v) de la Loi, toute indemnité reçue en vertu d'une loi sur les accidents du travail du Canada. Par contre, le montant de l'indemnité peut, en vertu de l'alinéa 110(1)f)ii) de la Loi, être déduit dans le calcul du revenu imposable. En l'espèce, si l'appelant avait reçu les sommes en question dans les années 1998 et 1999, elles auraient été traitées de cette façon aux fins de l'impôt. Toutefois, puisque la Commission employeuse a payé à l'appelant son plein salaire durant son absence du travail et en en attendant une décision de la Commission assureur, elle était en droit de recevoir, à titre de remboursement, la somme qu'a versée la Commission assureur une fois que l'accident avait été accepté comme étant relié au travail de l'appelant. À vrai dire, l'appelant est celui qui avait droit à l'indemnité, mais puisqu'il avait été rémunéré par son employeur, l'argent a été versé directement à ce dernier quoique pour le compte de l'appelant.
+[12] L'alinéa 8(1)n) de la Loi permet la déduction suivante dans le calcul du revenu d'un contribuable :
+8.(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant:
+n) une somme payée au cours de l'année par le contribuable ou pour son compte conformément à un arrangement, sauf celui visé au sous-alinéa b)(ii) de la définition de "paiement compensatoire pour invalidité" au paragraphe 6(17), selon lequel le contribuable est tenu de rembourser toute somme qui lui a été versée pour une période tout au long de laquelle il n'exerçait pas les fonctions de sa charge ou de son emploi, dans la mesure où:
+(i) la somme ainsi versée a été incluse dans le calcul de son revenu tiré d'une charge ou d'un emploi,
+(ii) le total des sommes ainsi remboursées ne dépasse pas le total des sommes qu'il a reçues pour la période tout au long de laquelle il n'a pas exercé les fonctions de sa charge ou de son emploi.
+[13] En l'espèce, les 20 082 $ payés au cours de l'année 2000 par la Commission assureur à la Commission employeuse de l'appelant sont une somme qui a été incluse dans le calcul du revenu de l'appelant. Le remboursement ayant été fait pour son compte par la Commission assureur, il a droit à la déduction, ce que le ministre lui a d'ailleurs accordé. Le ministre a donc correctement établi pour l'année d'imposition 2000 le montant de la déduction pour les prestations de la CSST versées à l'employeur de l'appelant à titre de remboursement. Pour ces motifs, l'appel de la cotisation du 21 janvier 2002 est rejeté et les appels relatifs aux années 1998 et 1999 sont annulés.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI738
+No DU DOSSIER DE LA COUR :
+2003-1713(IT)I
+INTITULÉ DE LA CAUSE :
+Rémi Pilote et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Chicoutimi (Québec)
+DATE DE L'AUDIENCE :
+le 29 août 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+le 30 octobre 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Yannick Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

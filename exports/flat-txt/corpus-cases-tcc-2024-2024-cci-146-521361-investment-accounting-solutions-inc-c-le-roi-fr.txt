@@ -1,0 +1,148 @@
+Title: Investment Accounting Solutions Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521361/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-146-521361-investment-accounting-solutions-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-11-18
+
+# Investment Accounting Solutions Inc. c. Le Roi
+
+- Citation: 2024 CCI 146
+- Decision date: 2024-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6059, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Investment Accounting Solutions Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-11-18
+Référence neutre
+2024 CCI 146
+Numéro de dossier
+2023-1412(IT)I
+Juges et Officiers taxateurs
+Joanna Hill
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2023-1412(IT)I
+ENTRE :
+INVESTMENT ACCOUNTING SOLUTIONS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+‎[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 septembre 2024, à Toronto (Ontario).
+Devant : l’honorable juge Joanna Hill
+Comparutions :
+Représentant de l’appelante :
+Musa Suleman
+Avocats de l’intimé :
+Me Hassan Rasmi
+Me Peter Basta
+JUGEMENT
+Conformément aux motifs de jugement ci-joints, les appels des avis de détermination concernant l’admissibilité de l’appelante à la Subvention salariale d’urgence du Canada pour les dix périodes de référence du 15 mars au 19 décembre 2020 sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2024.
+« Joanna Hill »
+La juge Hill
+Référence : 2024 CCI 146
+Date : 20241118
+Dossier : 2023-1412(IT)I
+ENTRE :
+INVESTMENT ACCOUNTING SOLUTIONS INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+‎[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Hill
+A. Introduction
+[1] En réponse à la pandémie de COVID-19, le Parlement a mis en place un certain nombre de mesures d’aide, notamment la Subvention salariale d’urgence du Canada (SSUC). À l’instar de bien d’autres programmes de prestations relevant de la Loi de l’impôt sur le revenu, les conditions d’admissibilité de ce programme sont techniques et complexes, comprenant de nombreuses définitions et des calculs fastidieux.
+[2] Dans la présente affaire, la ministre du Revenu national a déterminé que l’appelante ne remplissait pas les conditions d’admissibilité à la SSUC minimales parce que l’appelante ne pouvait justifier les sommes versées à ses deux employés.
+[3] L’appelante ne s’est pas acquittée de son fardeau de démontrer que la détermination de la ministre était inexacte. L’appelante est une entreprise familiale à actionnariat restreint dont les deux actionnaires sont également les seuls employés. Les actionnaires ont prélevé des fonds de l’appelante selon les besoins, sans se soucier de savoir s’il s’agissait de salaires ou de prêts aux actionnaires. Cette distinction est importante, car la SSUC ne s’applique pas aux sommes qui doivent être remboursées à une entreprise. Finalement, l’appelante n’a pas été en mesure de prouver les sommes précises qu’elle prétendait avoir versées à ses deux actionnaires à titre de salaire.
+B. Contexte
+[4] L’appelante fournit des services de conseils technologiques à des institutions financières telles que des banques et des compagnies d’assurance. Ses actionnaires, Rosemin Mohamed et Bashir Mohamed, sont mariés. Ils sont également les seuls employés de l’appelante.
+[5] L’appelante a demandé la SSUC pour les dix périodes de référence du 15 mars au 19 décembre 2020, soit une somme totale de 44 301 $. L’appelante avait déjà reçu la SSUC pour les périodes de référence antérieures lorsque la ministre a sélectionné leurs demandes pour examen et vérification.
+[6] Dans des avis de détermination datés du 14 juin 2022, la ministre a rejeté les demandes en se fondant sur diverses définitions figurant dans les dispositions de la Loi de l’impôt sur le revenu relatives à la SSUC. Plus précisément, la ministre a déterminé que : a) l’appelante n’était pas une « entité admissible » parce qu’elle n’avait pas connu la diminution de revenus requise; et b) l’appelante ne payait pas une « rémunération admissible » à ses employés.
+[7] Au début de l’audience, l’intimé a admis que l’appelante était une « entité admissible ». Par conséquent, la seule question est de déterminer si l’appelante a versé une « rémunération admissible » au couple Mohamed.
+[8] La ministre a conclu qu’il n’y avait pas de « rémunération admissible » parce que l’appelante n’avait pas fourni d’informations à l’appui des sommes qu’elle prétendait avoir versées au couple Mohamed à titre de salaires. L’appelante a fourni des listes des salaires sans pièces justificatives, comme des talons de chèque ou des chèques. Au lieu de cela, l’appelante s’est appuyée sur des relevés bancaires qui indiquaient des paiements plus importants et irréguliers et des dates qui ne correspondaient pas à la liste des salaires.
+[9] À l’audience liée à l’appel, Rosemin Mohamed a témoigné en faveur de l’appelante. Bien qu’elle soit l’administratrice et la principale employée de l’appelante, elle n’a pas été en mesure de fournir des éléments de preuve fiables et crédibles à l’appui des montants de salaire figurant dans les demandes de SSUC de l’appelante. Elle a plutôt aggravé le problème en fournissant une nouvelle écriture dans le grand livre qui a mis en évidence les incohérences et le manque de fiabilité des livres et des registres de l’appelante.
+C. Analyse
+[10] La SSUC est destinée à aider les employeurs qui ont subi des pertes financières alors qu’ils versaient une rémunération à leurs employés pendant la pandémie de COVID-19. Par conséquent, les demandeurs sont tenus de justifier divers montants, y compris la rémunération versée aux employés.
+[11] Les exigences de la SSUC sont énoncées au paragraphe 125.7(1) de la Loi de l’impôt sur le revenu[1]. Les demandeurs doivent se qualifier en tant qu’« entité admissible » et sont tenus de fournir des montants à l’appui d’une « rémunération de base », à savoir la « rémunération admissible » hebdomadaire moyenne versée aux « employés admissibles »[2]. La « rémunération admissible » comprend les traitements et salaires[3], mais exclut les sommes dont on peut raisonnablement s’attendre à ce qu’elles soient restituées à l’entité admissible[4].
+[12] L’intimé prétend que l’appelante n’a pas démontré qu’elle a payé des salaires au couple Mohamed. L’intimé fait valoir que les seuls paiements qui ont pu faire l’objet d’un rapprochement avec les registres sont des avances aux actionnaires, soit des paiements qui ne sont pas considérés comme une « rémunération admissible » parce qu’ils doivent être remboursés à l’appelante. L’intimé soutient que l’appelante a fourni des informations non corroborées et incohérentes à cet égard.
+[13] Je ne souscris pas à l’argument de l’intimé. Je ne suis pas convaincue, selon la prépondérance des probabilités, que l’appelante a payé au couple Mohamed les sommes indiquées comme des salaires dans ses demandes de SSUC. Bien qu’il soit probable que l’appelante ait versé au couple Mohamed des salaires au cours des périodes en cause, les sommes précises versées doivent être documentées afin de pouvoir bénéficier de la SSUC.
+1. Justification insuffisante des sommes versées à titre de salaires déclarées
+[14] Dans ses demandes de SSUC, l’appelante a fourni des listes des employés indiquant que le salaire aux deux semaines de Rosemin Mohamed était de 2 270 $ brut/1 607,05 $ net, et que le salaire aux deux semaines de Bashir Mohamed était de 1 500 $ brut/1 135,43 $ net[5].
+[15] Lorsque l’Agence du revenu du Canada (ARC) a examiné les demandes, l’appelante n’a pas été en mesure de fournir des informations permettant d’établir qu’elle avait effectivement versé ces sommes au couple Mohamed en tant que salaires.
+[16] L’appelante a plutôt fourni à l’ARC divers documents qui révèlent des divergences dans ses livres et registres. Par exemple, une sortie imprimée de la liste des employés datée du 10 mai 2021(liste des employés de mai 2021) indique que le couple Mohamed a été payé à quatre reprises, soit le 19 janvier 2020, le 2 février 2020, le 16 février 2020 et le 1er mars 2020[6].
+[17] Toutefois, une « liste des [chèques] émis en faveur de Bashir et Rosemin Mohamed » (liste des chèques) ne correspond pas aux montants bruts ou nets pour ces quatre dates[7]. Cette liste énumère plutôt des paiements plus importants, arrondis et irréguliers effectués entre le 3 janvier et le 23 mars 2020[8]. Le 20 janvier 2020, Rosemin a reçu un paiement de 2 000 $; le 5 février 2020, Bashir a reçu un paiement de 1 500 $; le 18 février 2020, Rosemin a reçu un paiement de 2 500 $; et le 2 mars 2020, Bashir a reçu un paiement de 3 500 $ et Rosemin, un paiement de 3 000 $[9].
+[18] Plus important encore, les relevés bancaires montrent que l’appelante a effectué des virements des montants arrondis les plus importants vers le compte bancaire personnel et le compte de carte de crédit du couple Mohamed[10]. Aucun des virements ne correspond aux montants de la paie aux deux semaines indiqués dans les demandes de SSUC ou aux dates figurant dans la liste des employés de mai 2021.
+[19] Le fait que l’appelante s’appuie sur son grand livre n’a pas non plus permis de clarifier ou d’étayer sa position. En règle générale, les états du grand livre ne constituent pas des éléments de preuve directe; il s’agit de résumés dont la fiabilité dépend de l’information (ou de la personne) utilisée pour les générer. Les contribuables doivent disposer des documents sources attestant de l’exactitude de ces documents comptables[11]. En l’espèce, les informations contenues dans le grand livre de l’appelante étaient incohérentes et ne correspondaient pas aux virements figurant dans les relevés bancaires.
+[20] Lors de l’audience portant sur l’appel, Mme Mohamed s’est appuyée sur une écriture du grand livre générée la veille, le 11 septembre 2024, faisant apparaître une nouvelle catégorie « Salaires » dans la liste de 2020[12] :
+« Montants débiteurs »comprenant des montants de paiement plus importants et arrondis semblables à ceux figurant dans la liste des chèques et dans les relevés bancaires de l’appelante totalisant 66 482,76 $; et
+« Montants créditeurs » comprenant des paiements particuliers de 2 742,48 $ correspondant aux montants des salaires aux deux semaines nets fournis dans les demandes de SSUC totalisant 66 219 $.
+[21] Mme Mohamed a déclaré dans son témoignage que la nouvelle catégorie « Salaires » reflète fidèlement les salaires versés. À titre d’exemple, elle a établi une correspondance entre les premiers « montants débiteurs » de salaires et des virements et des paiements effectués du compte bancaire de l’appelante au compte personnel et aux relevés de carte de crédit du couple Mohamed. Elle a reconnu que les virements étaient supérieurs aux montants des salaires nets, mais a expliqué que les différences correspondaient à des prêts aux actionnaires, c’est-à-dire à de l’argent de l’appelante qu’ils utilisaient en cas de besoin.
+[22] Notamment, l’appelante avait déjà fourni à l’ARC un grand livre général complet pour l’année 2020, imprimé le 4 mars 2022. Ce relevé de 2022 ne comportait pas de catégorie « Salaires » et mentionnait plutôt ce qui suit :
+« Salaires des cadres » comprenant des paiements de 3 770 $ correspondant à la plupart, mais pas à la totalité, du montant brut des salaires aux deux semaines combinés figurant dans les demandes de SSUC totalisant 91 130 $[13].
+« Avances aux actionnaires » comprenant des paiements de 2 742,48 $ correspondant à la plupart, mais pas à la totalité, des montants nets des salaires aux deux semaines combinés indiqués dans les demandes de SSUC, ainsi qu’à des montants plus importants pour les dépenses portées à la carte VISA, totalisant 104 502,94 $[14].
+[23] Mme Mohamed a tenté d’expliquer les divergences et les écarts entre les différentes catégories du grand livre en déclarant que le grand livre précédent contenait des classifications erronées. Cependant, elle n’a fourni que la nouvelle catégorie « Salaires » et a omis de démontrer si les autres catégories avaient été révisées ou avaient fait l’objet d’un rapprochement et, le cas échéant, de quelle manière.
+[24] En guise d’explication générale, Mme Mohamed a déclaré que l’appelante effectuait un rapprochement entre les salaires et les avances aux actionnaires à la fin de chaque exercice. Ils ont déterminé le montant définitif des salaires en se basant sur les versements des retenues à la source mensuels transmis à l’ARC pour l’année et ont émis des relevés T4 sur cette base. L’excédent a été considéré comme des avances aux actionnaires.
+[25] Elle a déclaré qu’elle avait le contrôle total des comptes bancaires de l’appelante et qu’elle s’appropriait des fonds quand c’était logique de le faire et quand ils en avaient besoin. Elle n’a pas réalisé qu’elle devait séparer les montants uniquement pour la paie. En contre-interrogatoire, elle a reconnu que les avances aux actionnaires sont des prêts qui doivent être remboursés à l’appelante.
+[26] Mme Mohamed a passé beaucoup de temps à tenter d’effectuer le rapprochement entre les différents montants figurant dans les relevés et les sommaires du grand livre de l’appelante, tant lors de l’interrogatoire principal de son représentant que lors du contre-interrogatoire mené par l’avocat de l’intimé. Cependant, Mme Mohamed n’a pas été en mesure de fournir des éléments de preuve directe permettant d’établir qu’elle et son mari ont reçu les sommes précises déclarées à titre de salaires dans les demandes de SSUC, par opposition aux sommes qu’elle a perçues à titre d’avances aux actionnaires.
+[27] La distinction entre les salaires et les avances aux actionnaires n’est pas une formalité dont on peut faire fi, car les salaires sont considérés comme une « rémunération admissible » aux fins de la SSUC, ce qui n’est pas le cas des avances aux actionnaires.
+[28] Les époux Mohamed ont entremêlé leurs finances personnelles et professionnelles parce qu’il s’agissait de leur entreprise et qu’ils en étaient les seuls employés. Il était pratique et rentable pour eux de renoncer à l’émission de plusieurs chèques. Ils ont donc effectué des virements de sommes importantes à leur bénéfice et ont même effectué des paiements directement sur leur carte de crédit personnelle. Cette confusion financière, associée à l’absence de registres ou de pièces justificatives, n’est pas sans conséquences. Les montants des salaires figurant dans les demandes de SSUC n’ont pas été étayés par des paiements particuliers effectués en faveur du couple Mohamed.
+D. Conclusion
+[29] L’appelante a demandé une subvention de plus de 40 000 $, mais n’a pas fourni des renseignements suffisants au soutien de sa demande. Bien que les conditions d’admissibilité à la SSUC soient complexes, le présent appel porte sur la capacité de l’appelante de justifier les sommes précises qu’elle a déclaré avoir versées à titre de salaires à ses deux employés. L’appelante n’a pas été en mesure de fournir ces informations à l’ARC ou à la Cour au soutien de son appel. Par conséquent, elle n’avait pas de « rémunération admissible » au sens des dispositions de la Loi de l’impôt sur le revenu relatives à la SSUC. Les appels à l’encontre des déterminations de la ministre sont en conséquence rejetés.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2024.
+« Joanna Hill »
+La juge Hill
+RÉFÉRENCE :
+2024 CCI 146
+NO DU DOSSIER DE LA COUR :
+2023-1412(IT)I
+INTITULÉ :
+INVESTMENT ACCOUNTING SOLUTIONS INC. C. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 12 septembre 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge Joanna Hill
+DATE DU JUGEMENT :
+Le 18 novembre 2024
+COMPARUTIONS :
+Représentant de l’appelante :
+Musa Suleman
+Avocats de l’intimé :
+Me Hassan Rasmi
+Me Peter Basta
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée.
+[2] Tous les termes définis au paragraphe 125.7(1).
+[3] La définition incorpore les montants décrits à l’alinéa 153(1)a) de la Loi de l’impôt sur le revenu.
+[4] Conformément au sous-alinéa c)(i) de la définition.
+[5] Pièce « R-2 », pp. 31-57.
+[6] Ibid., p. 30.
+[7] Ibid., pp. 59 et 60.
+[8] Ibid.
+[9] Ibid.
+[10] Ibid., pp. 73-79.
+[11] Nguyen c. La Reine, 2015 CCI 7, par. 16.
+[12] Pièce « A-1 ».
+[13] Pièce « R-3 », pp. 179-180. Ce total correspondait aux montants déclarés dans les relevés T4 que l’appelante avait émis pour le couple Mohamed (voir les sommaires des T4 dans la pièce « R-7 »), mais il ne correspondait pas au montant de 144 780 $ que l’appelante avait déclaré comme dépenses de salaires des cadres dans sa déclaration T2 (voir la capture d’écran dans la pièce « R-8 »).
+[14] Pièce « R-3 », pp. 185 et 186.

@@ -1,0 +1,238 @@
+---
+title: "Biron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25684/index.do"
+last_modified: "2004-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 154"
+citation2: ""
+neutral_citation: "2004 CCI 154"
+decision_date: "2004-02-17"
+language: "fr"
+item_id: "25684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3842
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:47:53.821000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1487a4cb28d46c734efb2fca210f424363ff89bc250cb6f9c587ba9b8dc802ac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Biron c. La Reine
+
+- Citation: 2004 CCI 154
+- Decision date: 2004-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3842, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-17
+Référence neutre
+2004 CCI 154
+Numéro de dossier
+2003-2113(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2113(IT)I
+ENTRE :
+JACQUES BIRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 24 octobre 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2001 sont rejetés, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour de février 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI154
+Date : 20040217
+Dossier : 2003-2113(IT)I
+ENTRE :
+JACQUES BIRON,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels par voie de la procédure informelle concernant les années d'imposition 1999 et 2001. Il y a dans ces appels six questions en litige. Le sort de la sixième question dépend de la réponse à la deuxième question.
+[2] La première question en litige est de savoir si l'appelant a droit de réclamer un crédit d'impôt pour déficience physique grave et prolongée pour les années d'imposition 1999 et 2001.
+[3] La déficience dont souffre l’appelant est l'apnée du sommeil. Il doit pour y remédier utiliser, la nuit, un appareil connu sous le nom de « CPAP», un acronyme signifiant « continuous positive airway pressure ».
+[4] Le Dr Michel Camirand a témoigné à la demande de l'appelant. Il est le médecin qui a signé le « Certificat pour le crédit pour personnes handicapées ». Ce certificat en date du 4 octobre 2001 a été déposé comme pièce A-1.
+[5] En ce qui concerne les activités essentielles de la vie quotidienne qui seraient limitées de façon marquée, le médecin n'en a coché aucune. Il a toutefois inscrit : « L'activité de respirer .»
+[6] À la question 9 : La déficience est-elle suffisamment grave pour limiter en tout temps ou presque, l’activité essentielle de la vie quotidienne même en utilisant des appareils appropriés, des prothèses, en prenant des médicaments ou en suivant une thérapie?, le médecin a coché « non ». Il explique que dans les documents subséquents, il a coché « oui » et que cela devrait être « oui » que l’on y lise maintenant.
+[7] L'appelant souffre de cette condition depuis l'année 1995, selon la pièce A‑3, qui consiste en un rapport d'un médecin spécialiste en oto-rhino- laryngologie et en allergies respiratoires au médecin traitant, le Dr Michel Camirand. C'est également l'année indiquée dans le certificat du médecin traitant produit comme pièce A‑1.
+[8] Le médecin a expliqué que l’appelant souffrait d’une apnée du sommeil sévère qui nécessite le port d’un masque respiratoire lors du sommeil. C’est un appareil constitué d'un masque qui se pose sur le nez du dormeur. Cet appareil donne une pression lorsque la personne inspire ce qui maintient les voies aériennes ouvertes. Il sert à régulariser l’apport de l’oxygène. Le patient qui utilise cet appareil va beaucoup mieux. Cependant, l’usage de cet appareil perturbe la vie quotidienne. Ce n’est pas une vie normale. C’est un appareil difficile à tolérer et qui est rejeté par la plupart des patients.
+[9] Le médecin a expliqué que les personnes qui souffrent d'apnée du sommeil cessent de respirer durant le sommeil et, ainsi, il y a une chute du niveau d'oxygène dans le sang. À long terme, cette condition peut amener des problèmes graves concernant la santé de la personne.
+[10] La deuxième question en litige est de savoir si le ministre du Revenu national (le « Ministre ») a correctement ajouté dans le calcul du revenu de l'appelant à l'égard de l'année d'imposition 1999, une somme de 36 792 $ provenant d'un régime enregistré d'épargne retraite. L’appelant était alors en faillite. Il a fait faillite en 1994 et a été libéré en mars 2001
+[11] La déclaration de revenu de l'appelant pour l'année 1999 a été produite comme pièce I‑1. On y voit la formule T4RSP intitulée « État du revenu provenant d'un REER ». Cet état indique que le payeur est la société L'Industrielle-Alliance, que le bénéficiaire est monsieur Jacques Biron, que le retrait est au montant de 36 792,68 $ et que l'impôt sur le revenu retenu est au montant de 5 518,90 $.
+[12] L'appelant relate que ce montant a été encaissé par le syndic et non par lui car le syndic en avait été déclaré propriétaire. L'appelant a défendu son propre droit de propriété à cet égard même jusqu’à la Cour suprême du Canada.
+[13] L'appelant produit la pièce A‑6 qui est l'« État définitif des recettes et des débours dans l'affaire de la faillite de Jacques Biron ». Ce document est en date du 17 juin 2002. On y voit au titre « Réalisation de l’actif », le remboursement du REER au montant de 36 792,68 $. De ce montant, ont été soustraits les montants relatifs aux impôts fédéral et provincial soit 5 518,90 $ et 8 462,32 $ pour un solde de 22 811,46 $.
+[14] Le syndic n'aurait pas produit de déclaration de revenu à cet égard. En tout cas, l’appelant ne l’a pas obtenue.
+[15] Le troisième point en litige est de savoir si l'appelant est en droit de réclamer, dans le calcul de son impôt fédéral, pour l'année d'imposition 2001, un crédit d'impôt équivalant pour personne entièrement à charge à l'égard de son fils Marc‑Antoine. Il est admis que Marc‑Antoine est âgé de plus de 18 ans et ne souffre pas de déficience mentale ou physique au sens de l'alinéa 118(1)b) de la Loi de l'impôt sur le revenu (la « Loi »).
+[16] Le quatrième point en litige est de savoir si le Ministre a correctement refusé, dans le calcul du revenu de l'appelant à l'égard de l'année d'imposition 2001, une somme de 20 130 $ au titre de frais juridiques. On en trouverait la description dans la déclaration d’impôt, pièce I-2. Il s'agit d'une compilation de frais engagés au cours des années 1996 à 2001, dont certains auraient été payés en 2001. Il n'y a aucune facture ni aucun document de paiement.
+[17] L'avocate de l'intimée produit comme pièce I-6 les différents jugements qui ont été rendus à l'occasion des poursuites judiciaires de l'appelant. Elle fait noter à l'appelant qu'il s'agit de contestations des saisies faites à l'encontre du patrimoine de l'appelant tant par les autorités fiscales que par le syndic. L'appelant répond qu'on l'accusait de fraude et qu'il voulait prouver qu'il avait agi dans la légalité. Ce qui lui permettrait d'exercer sa profession de comptable agréé.
+[18] L'avocate de l'intimée produit comme pièce I-7, le rapport du syndic sur la demande de libération du failli. Il y est indiqué que le failli a multiplié les procédures, contestations, plaintes disciplinaires et requêtes, ce qui a entraîné des débours très importants pour le syndic. Le failli n'a aucunement collaboré avec le syndic pour l'administration de ses actifs.
+[19] La cinquième question en litige est de savoir si le Ministre a correctement refusé d'accorder une somme de 10 046 $ au titre de frais financiers.
+[20] Dans la déclaration de revenu pour l’année 2001, se trouve la formule T4RSP « État du revenu provenant d’un REER ». Le montant retiré est de 188 976,38 $. L'inclusion de ce montant n'est pas contestée par l'appelant car ce montant a été payé au syndic par l'institution financière à sa demande pour régler sa faillite.
+[21] Les documents montrant la transaction de rachat du 14 février 2000 et celle du 19 janvier 2001 ont été déposés comme pièce I-8. Cette pièce montre que pour l'année 2001, le montant brut racheté est de 197 071,44 $. Il y a eu des frais financiers au montant de 8 095,06 $. Le montant brut moins les frais arrive au montant décrit au T4RSP comme montant avant impôt de 188 976,38 $.
+[22] Pour la transaction de l'année 2000, il y a eu aussi des frais. Ils sont au montant de 1 951,62 $. L’addition des deux montants de frais arrive au montant réclamé par l’appelant pour l'année 2001.
+[23] Il s’agirait de frais qui ont été générés du fait que les montants placés dans le REER ont été retirés avant leur terme.
+[24] La sixième question en litige est de déterminer si le Ministre a correctement refusé une somme de 174,83 $ au titre de crédit d'impôt pour frais de scolarité inutilisés à l'égard de l'année d'imposition 2001. Il est accepté de part et d'autre que, si la somme concernant le REER doit être incluse dans le revenu pour l'année 1999, cette question ne se posera pas.
+Arguments
+[25] Pour la première question en litige, l'appelant s'appuie sur la notion des soins thérapeutiques essentiels au maintien de la vie qui a été incluse dans la Loi pour l'année 2000.
+[26] L'avocate de l’intimée ne nie pas le problème médical de l’appelant. Elle fait valoir qu'il n'y a aucune activité essentielle de la vie quotidienne qui est limitée de façon marquée. Elle fait aussi valoir que le port du masque respiratoire ne peut pas être considéré comme un soin thérapeutique qui à la fois est essentiel au maintien d'une fonction vitale de l'appelant et est administré au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine.
+[27] En ce qui concerne la deuxième question en litige, l’appelant fait valoir qu’il n’a pas à inclure le montant de 36 792,68 $ dans le calcul de son revenu pour l’année 1999 puisqu’il a été déclaré ne pas en être propriétaire par la Cour. L'appelant fait aussi valoir qu'il est en comptabilité de caisse et qu'il n'a jamais reçu ce montant.
+[28] L'appelant pourrait toutefois prendre en compte et réclamer tel qu’il a fait à la ligne 437 de sa déclaration pour l’année 1999 le montant d'impôt retenu pour son compte par l'institution financière. De toute façon, ce dernier point n'est pas en litige.
+[29] L’avocate de l'intimée fait valoir que selon l’alinéa 56(1)h) de la Loi, l'appelant doit inclure ce montant dans le calcul de son revenu. Le syndic est saisi des biens du failli et il les gère. Le syndic peut faire une déclaration de revenu en vertu du paragraphe 128(2) de la Loi. Il appartient au contribuable de montrer cette déclaration et s'il ne peut le faire, c'est à lui de déclarer le revenu.
+[30] Pour la troisième question en litige, l'appelant s'appuie sur le fait que son ex‑épouse a pu réclamer ce crédit équivalent pour personne entièrement à charge quand elle avait leur fils à sa charge.
+[31] L'avocate de l'intimée explique que l’alinéa 118(1)b) de la Loi demande que la personne à charge soit âgée de moins de 18 ans à moins qu’elle ne soit à charge en raison d’une infirmité mentale ou physique. Or, l'appelant admet que son fils est âgé de plus de 18 ans et ne souffre pas d’une infirmité mentale ou physique.
+[32] En ce qui concerne la quatrième question soit la déduction des frais juridiques, l'appelant fait valoir qu'ils ont été engagés pour défendre son honneur et ainsi sa capacité de travailler comme comptable agréé. Il était en droit d'exercer à partir du moment où il est devenu un failli libéré. L'appelant s’appuie sur le Bulletin d’interprétation IT 99‑R5, paragraphes 3 et 4 :
+3. Dans des cas bien précis, il a été statué que les frais juridiques sont déductibles lorsqu'ils sont engagés par un contribuable qui doit assurer sa défense contre une accusation d'actes illégaux dans l'exploitation d'une entreprise ou défendre ses méthodes journalières d'exploitation d'une entreprise. Veuillez consulter, par exemple, la décision rendue par la Cour de l'échiquier dans l'affaire Rolland Paper Co. Ltd. c. Le Ministre du Revenu national, [1960] CTC 158, 60 DTC 1095 où il a été conclu que les frais juridiques engagés par la société pour se défendre contre une accusation justifiée de pratiques commerciales anticoncurrentielles étaient déductibles. Dans chaque cas, la question de savoir si le paiement des frais engagés pour la défense relative à une poursuite criminelle satisfait ou non aux conditions d'admissibilité décrites au numéro 1 ci-dessus est une question de faits, qui dépend de la relation entre la conduite en question et les activités que le contribuable mène pour tirer un revenu. (Veuillez aussi consulter les observations au numéro 33 ci-dessous concernant les poursuites pour évasion fiscale.)
+4. En général, les frais juridiques engagés à des fins de poursuite ou de défense dans le cas de la plupart des délits, contrats et autres réclamations de droit civil dans le cours habituel de l'exploitation d'une entreprise sont déductibles. Sous réserve des observations indiquées au numéro 8 ci-dessous, si le contribuable a gain de cause au cours d'une procédure judiciaire, il doit soustraire du montant brut des frais juridiques autrement déductibles les frais juridiques que le tribunal lui a adjugés. Le traitement des dommages et des règlements qu'un contribuable paie est examiné dans la dernière version du bulletin d'interprétation IT-467, Dédommagements, règlements et autres paiements semblables, tandis qu'il est question du traitement des amendes et des pénalités dans la dernière version du bulletin IT‑104, Déductibilité des amendes ou pénalités.
+[33] L'avocate de l'intimée fait valoir qu'en plus du fait que les montants réclamés ne soient pas appuyés de pièces justificatives, les factures n'ayant jamais été soumises, ces frais ont été engagés pour contester les saisies avant jugement des autorités fiscales ainsi que la saisie de certains biens par le syndic à la faillite de l'appelant. Il y a eu sept ans de procédures. La pièce I‑7 fait état des difficultés que le syndic a eu avec M. Biron. Les frais sont reliés au dossier de faillite et ont été engagés pour la défense des biens personnels de l'appelant. Ils n'ont pas été engagés dans le but de tirer un revenu d'une entreprise ou d'un bien, au sens des articles 9 et 18 de la Loi.
+[34] En ce qui concerne la cinquième question celle relative à la déduction des frais financiers, l'appelant admet que le montant du revenu à inclure dans le calcul de son revenu a été diminué de leur montant. Mais il fait valoir qu’il les a payés.
+[35] L'intimée fait valoir que l'appelant ne peut les déduire deux fois. Ces frais n'ont pas été inclus dans son revenu. Pour pouvoir déduire le 10 000 $ dans le calcul de son revenu, il aurait dû ajouter ce montant au montant qui était inscrit par la banque comme étant le montant du retrait.
+[36] Pour les frais de scolarité, si le REER est inclus pour l’année 1999, l’appelant avait un revenu imposable et il peut réclamer la déduction des frais de scolarité pour cette année. Il n’y a plus rien de disponible pour l’année 2001.
+Conclusion
+[37] L'article 118.4 de la Loi se lit comme suit :
+118.4(1) Déficience grave et prolongée — Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affiliée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+(ii) le fait de s'alimenter ou de s'habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d'évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+e) le fait de s'alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l'activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n'y aurait pas été consacré en l'absence d'une restriction ou d'un régime alimentaire;
+f) le fait de s'habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+[38] L'alinéa 118.3 (1)a.1) se lisait comme suit pour l'année 1999 :
+118.3 (1) Crédit d'impôt pour déficience mentale ou physique — Le produit de la multiplication de 4 118 $ par le taux de base pour l'année est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+...
+a.1) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée;
+[39] Ce même alinéa se lit maintenant comme suit depuis l'année 2000 :
+118.3(1) Crédit d'impôt pour déficience mentale ou physique — Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies :
+...
+a.1) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s'attendre, n'ont pas d'effet bénéfique sur des personnes n'ayant pas une telle déficience;
+[40] En ce qui a trait aux activités courantes de la vie quotidienne décrites au paragraphe 118.4(1) de la Loi, la preuve n'a pas révélé que l'appelant était toujours ou presque toujours incapable d'accomplir une de ces activités sans y consacrer un temps excessif. Le masque respiratoire peut l'aider mais cela ne fait pas que la capacité de l'appelant d'accomplir une de ces activités est limitée de façon marquée selon la même disposition de la Loi. En effet, si les soins thérapeutiques et l'aide des appareils et des médicaments indiqués font que la personne ne consacre pas un temps excessif à une activité courante, la disposition veut que la capacité d'un particulier à accomplir une activité courante ne soit pas marquée.
+[41] Le médecin traitant a certifié que la fonction de respirer était mise en cause par l'apnée respiratoire. Respirer est une fonction vitale. Le législateur a légiféré à l'égard des fonctions vitales en modifiant l'alinéa 118.3(1)a.1) de la Loi, modification applicable à partir de l'année 2000. Un particulier a droit au crédit d'impôt pour déficience mentale ou physique si la capacité de ce particulier d'accomplir une activité courante de la vie quotidienne était limitée de façon marquée en l'absence de soins thérapeutiques qui, à la fois sont essentiels au maintien d'une fonction vitale du particulier et qui doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne de 14 heures par semaine.
+[42] Il est intéressant de lire les notes explicatives concernant la modification législative en cause :
+Crédit d'impôt pour personnes handicapées
+Les alinéas 118.3(1)a.1) et (a.2) sont modifiés pour étendre l'admissibilité au CIPH à des particuliers dont les capacités seraient limitées de façon marquée en l'absence de soins thérapeutiques administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine, soins qui sont essentiels au maintien d'une de leurs fonctions vitales. Le crédit est étendu, par exemple, aux contribuables souffrant de maladies rénales graves exigeant des traitements de dialyse et aux personnes gravement atteintes de fibrose kystique qui ont besoin de percussions thoraciques pour bien respirer.
+[43] D'une part, je remarque que l'alinéa 118.3(1)a.1) de la Loi ne réfère qu'aux soins thérapeutiques alors que le paragraphe 118.4(1) de la Loi réfère aux soins thérapeutiques et l'aide d'appareils et de médicaments. Le masque respiratoire est-il inclus dans le sens de soins thérapeutiques? Je pose la question sans y répondre parce qu'il n'y a pas eu de débat judiciaire à cet égard.
+[44] D'après ma lecture des articles que l'on m'a présentés sur l'apnée respiratoire et selon le témoignage même du Dr Camirand, l'usage du masque respiratoire ne me paraît pas tomber dans la catégorie de soins thérapeutiques essentiels au sens de l'alinéa 118.3(1)a.1) de la Loi.
+[45] Le législateur a utilisé le terme « essentiel ». Dans le sens juridique, « essentiel » se rapporte à un élément dont dépend l'existence d'un acte juridique. Dans la même logique, à mon sens, les soins essentiels sont ceux que si le patient cesse de les tolérer, il accepte que ses jours prennent fin à brève échéance. Le port du masque respiratoire ainsi que le nombre de nuits où il est utilisé est quelque peu à la discrétion du patient. S'il ne le porte pas, sa vie n'est pas en danger immédiat ou prochain. À long terme, l'apnée respiratoire peut causer des dommages si une personne ne prend pas des précautions à cet effet : le port du masque, les médicaments, l'exercice physique ou la diète. Il ne s'agit pas des soins essentiels au maintien d'une fonction vitale au sens de l'alinéa 118.3(1)a.1) de la Loi.
+[46] La deuxième question était de savoir si l'appelant devait inclure le montant retiré d'un REER alors que ce montant avait été payé au syndic qui en avait été déclaré propriétaire par les jugements de cour.
+[47] Le paragraphe 128(2) de la Loi se lit ainsi :
+128(2) Faillite d'un particulier — Lorsqu'un particulier est en faillite, les règles suivantes s'appliquent :
+a) pour l'application générale de la présente loi, le syndic de faillite est réputé être le mandataire du failli;
+b) l'actif du failli est, pour l'application de la présente loi, considéré comme ne constituant ni une fiducie ni une succession;
+c) le revenu et le revenu imposable du particulier pour toute année d'imposition au cours de laquelle il était en faillite et pour toute année postérieure doivent être calculés :
+(i) comme si le syndic de faillite n'était ni saisi ni mis en possession des biens du failli dès que l'ordonnance de séquestre est rendue ou que la cession est produite, mais comme si le failli en restait saisi,
+(ii) comme si le syndic accomplissait les opérations portant sur l'actif du failli ou les actes concernant la poursuite des activités de l'entreprise en faillite à titre de mandataire agissant pour le compte du failli et comme si tout revenu du syndic tiré de ces opérations ou actes était le revenu du failli et non du syndic;
+d) sauf pour l'application des paragraphes 146(1), 146.01(4) et 146.02(4) et de la partie X.1 :
+(i) l'année d'imposition du particulier est réputée avoir commencé au début du jour où il est mis en faillite,
+(ii) sa dernière année d'imposition ayant commencé avant ce jour est réputée avoir pris fin immédiatement avant ce jour;
+d.1) ...
+d.2) ...
+e) lorsqu'un particulier était en faillite à un moment donné au cours d'une année civile, le syndic doit, dans les 90 jours qui suivent la fin de l'année, présenter au ministre, pour le compte de ce particulier, une déclaration selon le formulaire prescrit indiquant le revenu du particulier pour toute année d'imposition survenant au cours de l'année civile, calculé :
+(i) comme si le seul revenu du particulier pour une telle année d'imposition était le revenu de l'année éventuellement tiré des opérations portant sur l'actif du failli ou des actes dans le cadre de l'exploitation de l'entreprise du failli, accomplis par le syndic,
+...
+le syndic est en outre tenu d'acquitter tout impôt ainsi déterminé pour l'année d'imposition en question;
+f) malgré l'alinéa e), le particulier doit produire une déclaration distincte de son revenu pour toute année d'imposition durant laquelle il a été en faillite, calculé comme si :
+(i) le revenu que le syndic était tenu de déclarer pour l'année sous le régime de l'alinéa e) n'était pas le revenu du particulier,
+...
+[48] Je me réfère à un article tiré du Colloque de l'Association de planification fiscale et financière de mai 1993, intitulé « L'insolvabilité et la fiscalité » écrit par Marc Robert, CA, M.Fisc., (Conférence #6) :
+6.3. DÉCLARATIONS D'IMPÔT D'UN PARTICULIER AVANT ET PENDANT LA FAILLITE
+Tel qu'il est mentionné précédemment, l'année d'imposition régulière d'un particulier entré en faillite est réputée s'être terminée le jour précédant cette date et une nouvelle année d'imposition est alors réputée commencer le jour d'entrée en faillite. En plus de tenir compte de ces deux années d'imposition (dans la même année civile) au cours desquelles des biens du particulier sont saisis par le syndic, la Loi de l'impôt sur le revenu tient aussi compte que certains revenus, tel un revenu d'emploi, peuvent être gagnés par le particulier pendant le règlement de la faillite sans être sous la gestion du syndic. Il y a donc en conséquence trois déclarations d'impôt qui doivent être produites dans l'année de la faillite, à savoir :
+a) Une déclaration d'impôt pour l'année d'imposition terminée en raison de la mise en faillite (ci-après la première déclaration); cette déclaration doit être produite au plus tard le 30 avril de l'année subséquente.
+b) Une déclaration d'impôt à produire par le syndic pour la période commençant avec la date de la faillite et se terminant soit le 31 décembre soit la date de la libération sans réserve (la première des dates étant à retenir) - (ci-après la seconde déclaration). Cette déclaration n'inclut que les revenus de bien ou d'entreprise relatifs aux éléments d'actif sous le contrôle du syndic. Cette déclaration doit être produite au plus tard au 31 mars de l'année subséquente et ne peut inclure aucune réclamation pour des crédits personnels. Par contre les pertes fiscales accumulées par le particulier avant ou pendant la faillite peuvent être utilisées dans le cadre de cette déclaration.
+N.B. : si le mandat du syndic se poursuit dans une ou plusieurs années civiles suivantes, celui-ci est tenu de produire pour cette ou ces années une déclaration d'impôt suivant les mêmes principes.
+c) Une déclaration d'impôt doit aussi être produite par le particulier à l'égard de tout revenu non inclus dans la déclaration produite par le syndic pour la même période, c'est-à- dire essentiellement les revenus qui ne sont pas sous gestion du syndic (ci-après la troisième déclaration). Dans cette troisième déclaration, le particulier peut réclamer des crédits personnels comme si cette année d'imposition avait douze mois, mais ne peut utiliser les pertes antérieures accumulées.
+Jurisprudence
+La décision Erna A. Davis, the Trustee of the Estate of Donald Martin McLeod, a Bankrupt c. MRN, 92 D.T.C. 1033, constitue un exemple de la nature des revenus qui doivent être inclus dans la déclaration produite par le syndic (la «seconde déclaration») en comparaison avec ceux qui doivent être inclus dans la déclaration produite par le particulier («la troisième déclaration»). Les revenus en question consistaient dans des paiements en vertu d'une rente à versements invariables (« R.V.I. ») émis à l'attention du particulier en faillite et remis à des créanciers puisque assignés à ceux-ci bien avant la faillite.
+Le juge Bowman [Il s'agit en fait du juge Sobier.] a conclu que le syndic n'avait pas à inclure ce revenu dans la seconde déclaration parce que le syndic n'avait aucun contrôle sur ces R.V.I. puisqu'elles étaient déjà assignées. Pour qu'un revenu fasse partie de la «seconde déclaration» en vertu de l'alinéa e), il faut que le revenu découle des agissements du syndic.
+[49] De la décision Sinnott c. Canada, [2000] A.C.I. no 590 (Q.L.), je cite les passages suivants aux paragraphes 13 et 21 des motifs écrits par le juge Bowman :
+13 En vertu de l'alinéa 128(2)f), le failli est la personne qui doit produire une déclaration distincte pour les revenus qui ne sont pas inclus dans la déclaration produite par le syndic. ...
+21 Les mécanismes de la Loi de l'impôt sur le revenu et ceux de la Loi sur la faillite et l'insolvabilité diffèrent et ne sont pas nécessairement conciliables. La première différence est que le syndic est réputé être un mandataire du failli aux fins de la Loi de l'impôt sur le revenu. La Loi sur la faillite et l'insolvabilité ne comporte spécifiquement aucun mandat de la sorte. La deuxième différence est que les biens du failli sont réputés ne constituer ni une succession ni une fiducie aux fins de la Loi de l'impôt sur le revenu tandis qu'ils constituent une succession ou une fiducie aux fins de la Loi sur la faillite et l'insolvabilité telle qu'elle était libellée en 1997. Troisièmement, le salaire et autres rémunérations du failli qui lui sont versés après la faillite ne sont pas dévolus au syndic. Qui plus est, les remboursements de l'impôt sur le revenu concernant ces rémunérations appartiennent au failli et non au syndic.
+[50] Il n'y a pas beaucoup de jurisprudence sur le paragraphe 128(2) de la Loi. Ce qui est à noter en premier lieu est que le législateur dit spécifiquement à l'alinéa 128(2)a) de la Loi que pour l'application de la Loi, le syndic de faillite est réputé être le mandataire du failli. La conséquence de cet énoncé est que la responsabilité première de la déclaration correcte du revenu appartient au contribuable.
+[51] Dans le même sens est l'énoncé de l'alinéa 128(2)e) de la Loi. En vertu de cet alinéa le syndic doit présenter une déclaration indiquant le revenu du particulier relativement au revenu tiré des opérations portant sur l'actif du failli ou des actes dans le cadre de l'exploitation de l'entreprise du failli, accomplis par le syndic. Cette déclaration est présentée pour le compte du particulier.
+[52] L'appelant n'a fait que soumettre que le syndic avait été déclaré propriétaire d'une portion du REER et que c'était à lui de faire la déclaration de revenu.
+[53] Nous voyons de la décision McLeod, citée dans le texte ci-dessus, qu'il n'est pas certain que la saisie d'une portion d'un REER dont le syndic a été déclaré propriétaire soit un revenu tiré d'une opération portant sur l'actif du failli accomplie par le syndic. De plus, je note que l'appelant n'a pas fait modifier le nom du bénéficiaire sur le T4RSP ou encore qu'il n'a pas demandé d'explications à l'institution financière.
+[54] De toute façon, comme le syndic n'agit que comme mandataire du particulier, il appartient au particulier de déclarer le revenu qui doit être déclaré ou de montrer que le syndic l'a fait.
+[55] En ce qui concerne les autres questions en litige, il n'y a pas à dire plus que ce qui a été dit par l'avocate de l'intimée et qui est mentionné aux paragraphes [33] à [36] de ces motifs.
+[56] Les appels sont en conséquence rejetés.
+Signé à Ottawa, Canada, ce 17e jour de février 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI154
+No DU DOSSIER DE LA COUR :
+2003-2113(IT)I
+INTITULÉ DE LA CAUSE :
+Jacques Biron et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 24 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 17 février 2004
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

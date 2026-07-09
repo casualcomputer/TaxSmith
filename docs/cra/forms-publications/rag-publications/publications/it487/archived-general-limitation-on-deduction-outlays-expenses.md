@@ -1,0 +1,40 @@
+---
+title: "ARCHIVED - General Limitation on Deduction of Outlays or Expenses"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it487/archived-general-limitation-on-deduction-outlays-expenses.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - General Limitation on Deduction of Outlays or Expenses
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-487**
+
+DATE: April 26, 1982
+
+SUBJECT: INCOME TAX ACT**General Limitation on Deduction of Outlays or Expenses**
+
+REFERENCE: Paragraph 18(1)(a)
+
+1. Paragraph 18(1)(a) provides a general restraint on the deductions permitted in the computation of income of a taxpayer from a business or property by prohibiting the deduction of an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property.
+
+2. The Department's views may be helpful in the interpretation of certain phrases used in the opening words of subsection 18(1) and in paragraph 18(1)(a), but it should be remembered that these phrases must also be considered in relation to the wording of the paragraph as a whole.
+
+(a) "... of a taxpayer ...". The business or property referred to in the paragraph must be that of the taxpayer himself and not that of some other person. If a son, for example, paid the realty taxes on an apartment building owned and operated by his retired father, those taxes would not be deductible as an expense of the son, because the property is that of the father.
+
+(b) "... for the purpose ...". It is not necessary to show that income actually resulted from the particular outlay or expenditure itself. It is sufficient that the outlay or expense was a part of the income-earning process.
+
+(c) "... gaining or producing income ...". The word "income" refers to income after deductions as computed under Division B of the Income Tax Act. An expense would not be disallowed simply because the income-earning process produced a loss as long as the intention in making the expenditure was to produce income. Outlays or expenses made or incurred to maintain income or to reduce other expenses are also deductible as their purpose would be to increase income, whether or not such an increase resulted.
+
+(d) "... from the business ...". The taxpayer must have been carrying on the business during the fiscal period in which the amount was expended. For comments on when the carrying on of a business may be considered to have commenced see IT-364 - Commencement of Business Operations.
+
+3. Even when an outlay or expense is brought within the wording of paragraph 18(1)(a), it does not necessarily follow that it is deductible. Deduction may still be denied by one of the more specific prohibitions contained in sections 18, 19 or 19.1. For example, the deduction of a capital outlay or loss is denied by paragraph 18(1)(b), reserves by 18(1)(e) and personal or living expenses by 18(1)(h). In addition, section 67 denies a deduction of expenses to the extent that they are unreasonable. In contrast, section 20 specifies a number of items to be deductible in the determination of business or property income notwithstanding paragraphs 18(1)(a), (b) and (h).
+
+4. The Department has issued several interpretation Bulletins dealing with specific types of expenditures which meet the general requirements of paragraph 18(1)(a) (See Sectional Index).

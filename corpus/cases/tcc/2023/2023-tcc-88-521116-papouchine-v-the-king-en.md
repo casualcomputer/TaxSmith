@@ -1,0 +1,191 @@
+---
+title: "Papouchine v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521116/index.do"
+last_modified: "2023-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 88"
+citation2: ""
+neutral_citation: "2023 TCC 88"
+decision_date: "2023-06-01"
+language: "en"
+item_id: "521116"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5840
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:15:40.902000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42acc27f30b3f759510ba3b92d3e620dcf241301672b704474f83e4f1753e1f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Papouchine v. The King
+
+- Citation: 2023 TCC 88
+- Decision date: 2023-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5840, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papouchine v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-06-20
+Neutral citation
+2023 TCC 88
+File numbers
+2017-3375(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3375(IT)I
+BETWEEN:
+ALEXANDRE PAPOUCHINE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on June 1, 2023, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Lin
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT the appeal from the assessment made under the Income Tax Act 2009 taxation year is dismissed, without costs.
+Signed at Toronto, Ontario, this 20th day of June 2023.
+“R.S. Bocock”
+Bocock J.
+Citation: 2023 TCC 88
+Date:06202023
+Docket: 2017-3375(IT)I
+BETWEEN:
+ALEXANDRE PAPOUCHINE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+[1] The Minister assessed the Appellant, Alexandre Papouchine (“Mr. Papouchine”), for his 2009 taxation year on January 11, 2016 (the “assessment”). Mr. Papouchine had not filed a return before that date. As such, the Minister relied on Section 152(7) of the Income Tax Act (the “Act”). On April 11, 2016, Mr. Papouchine filed a notice of objection. On May 24, 2017, the Minister confirmed the assessment.
+[2] Subsequently, on April 25, 2017, Mr. Papouchine filed a 2009 tax return (the “late tax return”). The disparity between the Minister’s 152(7) return from Mr. Papouchine’s own version is illustrated below, save for late filing penalties which the Minister had previously assessed:
+2009 Taxation Year
+Line Item from return
+Minister
+(Jan 11, 2016)
+Mr. Papouchine
+(April 24, 2017)
+Income
+$69,600.00
+(Employment)
+$69,600.00
+(Business)
+Business Expenses
+$0.00
+($63,803.00)
+Income: Employment Ins.
+$805.00
+$805.00
+Interest Income
+$436.00
+$436.00
+Social Benefit Repayment
+($241.00)
+$0.00
+Total Income
+$70,600.00
+$7,037.00
+II. Further Facts
+Preliminary issues [3] On a preliminary issue, Mr. Papouchine requested an adjournment the week prior to the hearing and, then again, at the outset of the hearing itself. He did so on the basis that he suffered from chronic mental stress.
+[4] He further stated that he had not been assigned a Workers’ Safety Insurance Board (“WSIB”) doctor because there was an inordinate delay. His chronic stress condition prevented him from concentrating, reading complex materials and speaking in an organized fashion. He had no third party medical evidence to offer to support his condition. Like the week before, the Court denied the request and proceeded to hear the appeal. Throughout, and notwithstanding his protestations to the contrary, Mr. Papouchine followed along, testified in a forthright manner and marshalled his closing arguments, even without accepting the Court’s suggested break. Further, to ensure Mr. Papouchine’s asserted condition does not interfere with his paced review of these reasons, the Court rejected its usual custom in such appeals to render reasons orally, and renders these reasons for judgment in writing.
+The Minister and Mr. Papouchine disagree on income and expenses [5] Through testimony-in-chief and cross-examination, both the assessment and the subsequent late tax return were reviewed in some detail.
+[6] For the Minister’s subsection 152(7) assessment, the two T4s from Universal Support Systems Ltd. and Emex Systems Inc., respectively, informed Mr. Papouchine’s source of income for 2009. The two T4 amounts yielded the final employment source of income of $70,600.00. As noted, no deductions were allowed.
+[7] In contrast, the late tax return (placed into evidence by the Respondent on cross-examination) categorized the income source as business and offered the following amounts as business income and expenses:
+Business Income
+(AP Technologies)
+$69,600.00
+Motor Vehicle Expenses
+(100% Business Use)
+Fuel & Oil $4,550.00
+Insurance $9,798.00
+Leasing $28, 256.00
+Parking $2,300.00__
+Total : $44,904.00_
+($44, 904.00)
+Sub-contracting
+($12,000.00)
+Interest
+($6,000.00)
+Net Income
+$5,796.00
+Mr. Papouchine’s description of his business and expenses [8] Mr. Papouchine claimed his sole proprietorship, AP Technologies, was an independent contractor providing services to Universal and Emex. He also asserted that the work placements with these two companies were via an “employment agency”.
+[9] On the expense side, Mr. Papouchine acknowledged that certain motor vehicle expenses, insurance and some other expenses accrued in previous years. He simply carried them forward to a year when he had income against which he might deduct such expenses. Further, there were subcontractors paid for whom he was not afforded deductions.
+Absence of receipts, books and documents no impediment [10] Mr. Papouchine had no books, records, receipts, agreements or other documentary evidence to offer the Court. Mr. Papouchine argued this should not cause concern: the business source of income and deductions were claimed in good faith, are reasonable and reflect a business relationship. Further, Mr. Papouchine had no opportunity to prepare documents concerning his 2009 tax return because of his health issue.
+[11] Mr. Papouchine also suggested that the Minister’s agents at the CRA had inappropriately discounted his late tax return contrary to their legal obligation to accept it as accurate and reliable.
+III. Analysis and Decision
+[12] Based upon these facts, the Court concludes the following and renders its decision below.
+[13] Mr. Papouchine failed to file his 2009 tax return when he was lawfully required to do so: the end of April 2010, pursuant to paragraph 150(1)(d) of the Act.
+[14] When he did not file his tax return, the Minister was permitted to assessed a penalty for his failure to file by the due date: every person who fails to file “as and when required”, under subsection (150)(1), may be assessed a penalty pursuant to subsection 162(1) of the Act.
+[15] As a result of not filing for 2009, the Minister exercised her right to assess Mr. Papouchine, pursuant to subsection 152(7) of the Act on January 11, 2016. By the same subsection, the Minister was not bound by the subsequent late tax return, itself filed 7 years after it was legally due. Even if the late tax return had been filed on time, the Minister was not bound by it by virtue of the same subsection.
+[16] Mr. Papouchine is entitled to have this Court consider whether the Minister’s assessment for tax under subsection 152(7) is correct. The conduct of the Minister’s agents, as was alleged in the notice of appeal, has of no bearing on the correctness of assessment, save for errors made in the assessment per se.
+[17] The Minister’s assessment was based upon certain assumptions contained in the reply to the notice of appeal. Two assumptions were key to the 2009 assessment: 12(a); Mr. Papouchine was an employee of Emex and Universal; he earned employment income of $169,900.
+[18] These assumptions, as a matter of law, are reviewed by the Court as a fact unless the taxpayer presents a prima facie case proving otherwise, whereupon the Minister is looked to for facts and evidence which “rebut” the prima facie case: Hickman Motors Ltd. v. HMQ 97 DTC 5363 (SCC). Contrary to Mr. Papouchine’s view, there is no presumption that his return “filed in good faith” should be unquestionably accepted, regardless of any supporting documentation being produced,
+[19] The Minister’s assumptions were before the Court. Mr. Papouchine offered no evidence on any basis concerning his claimed business source of income or claimed business expenses.
+[20] There simply is no documentary or reliable evidence to challenge the assumptions. Aside from Mr. Papouchine’s oral testimony of the existence of a business, subcontractors, an intermediate agent and the incurrence of the expenses, there is no supporting evidence whatsoever. There are no contracts between Universal or Emex and the placement agency or between such agency and Mr. Papouchine or AP Technologies. In such absence of documents or third-party testimony, the Court cannot discard the relevant assumptions of the Minister. Further, the T4s are issued directly to Mr. Papouchine; there is no invoice to an agency and payment record to Mr. Papouchine or his proprietorship from any intermediate agency.
+[21] On the issue of the expenses, even if a business source of income were found to exist, there are no invoices for motor vehicles expenses, insurance or parking. Likewise, evidence of the sub-contracts, invoicing and payments to sub-contractors were not produced. The Act requires every person carrying on business to keep relevant business records: subsection 230(1). There were no such records.
+[22] The absence of any records also prevents the Court from considering allowing any deduction of expenses from employment. Further, Mr. Papouchine specifically resisted such characterization of employment expenses. But again, this does not matter, since evidence of such allowable employment expenses does not exist, whether reasonable, incurred during the year, or for employment purposes. None of the above credibly existed before the Court.
+[23] For all these reasons, delivered in writing given the circumstances, the appeal is dismissed, without costs.
+Signed at Toronto, Ontario, this 20th day of June 2023.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 88
+COURT FILE NO.:
+2017-3375(IT)I
+STYLE OF CAUSE:
+ALEXANDRE PAOUCHINE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 1, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+June 20, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Lin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

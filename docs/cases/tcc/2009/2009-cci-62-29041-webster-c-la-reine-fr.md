@@ -1,0 +1,159 @@
+---
+title: "Webster c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29041/index.do"
+last_modified: "2009-01-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 62"
+citation2: ""
+neutral_citation: "2009 CCI 62"
+decision_date: "2009-01-29"
+language: "fr"
+item_id: "29041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6850
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:14:47.730000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "83efe2fefe928b084d414ece17419131090ccce67501704827e63d56d3555f4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Webster c. La Reine
+
+- Citation: 2009 CCI 62
+- Decision date: 2009-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6850, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Webster c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-29
+Référence neutre
+2009 CCI 62
+Numéro de dossier
+2008-1207(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1207(GST)I
+ENTRE :
+GERALD WEBSTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Fredericton (Nouveau‑Brunswick), le 12 janvier 2009.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Toks C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie pour la période allant du 1er janvier au 31 décembre 2007 en vertu de la partie IX de la Loi sur la taxe d’accise, relativement à l’avis de cotisation daté du 18 janvier 2009 et portant le no 08008003812340026, est rejeté, sans dépens.
+Signé à Toronto (Ontario) ce 29e jour de janvier 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 62
+Date : 20090128
+Dossier : 2008-1207(GST)I
+ENTRE :
+GERALD WEBSTER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question est de savoir si l’appelant était tenu de verser des acomptes provisionnels en application de l’article 237 de la Loi sur la taxe d’accise (la « Loi ») en 2007. Des intérêts ont été imposés à l’appelant en application du paragraphe 280(2) de la Loi parce que l’appelant n’avait versé aucun acompte provisionnel en 2007.
+[2] L’appelant a expliqué que, vers la fin de l’année 2007, le ministre du Revenu national (le « ministre ») avait conclu qu’il était un entrepreneur indépendant et non pas un employé lorsqu’il fournissait ses services à son entreprise. L’appelant a ajouté qu’au même moment, le ministre avait conclu qu’il était un inscrit au sens de la Loi depuis le 1er novembre 2006. La période de déclaration de l’appelant correspond à l’année civile, et l’appelant a produit ses déclarations exigées par la Loi pour 2006 et 2007. Pour l’année 2006 (pour laquelle la période de déclaration de l’appelant allait du 1er novembre au 31 décembre 2006), la taxe nette que l’appelant devait verser était de 2 527,26 $. Pour 2007, la taxe nette de l’appelant s’élevait à 7 174,50 $.
+[3] L’article 237 de la Loi est ainsi rédigé :
+237(1) L’inscrit dont la période de déclaration correspond à un exercice ou à une période déterminée selon le paragraphe 248(3) est tenu de verser au receveur général, au cours du mois qui suit chacun de ses trimestres d’exercice se terminant dans la période de déclaration, un acompte provisionnel égal au montant suivant :
+a) sauf en cas d’application de l’alinéa b), le quart de sa base des acomptes provisionnels pour la période de déclaration;
+b) le montant déterminé selon le paragraphe (5).
+(2) La base des acomptes provisionnels d’un inscrit pour une période de déclaration donnée de celui-ci correspond au moins élevé des sommes suivantes :
+a) le montant suivant :
+[…]
+(ii) dans les autres cas, la taxe nette pour la période de déclaration;
+b) le résultat du calcul suivant :
+C × (365/D)
+où :
+C représente le total des montants représentant chacun la taxe nette pour une période de déclaration de l’inscrit qui prend fin dans les douze mois précédant la période de déclaration donnée,
+D le nombre de jours de la période qui commence le premier jour de la première de ces périodes de déclaration précédentes et qui prend fin le dernier jour de la dernière de ces mêmes périodes.
+[4] Pour qu’une personne soit tenue de verser des acomptes provisionnels, celle‑ci doit être un inscrit. L’article 123 de la Loi défini « inscrit » de la façon suivante :
+« inscrit » Personne inscrite, ou tenue de l’être, aux termes de la sous‑section d de la section V.
+[5] Une personne est un inscrit dès qu’elle est tenue d’être inscrite aux termes de la Loi, si elle n’est pas déjà inscrite. L’appelant a reconnu qu’il était un inscrit au sens de la Loi depuis le 1er novembre 2006. L’inscription de l’appelant a été antidatée d’environ un an, car c’est à l’automne 2007 que le ministre avait conclu qu’il était un entrepreneur indépendant. Il semble que cette conclusion ait été fondée sur la date à laquelle l’appelant a cessé d’être un petit fournisseur – il aurait dès lors été tenu de s’inscrire conformément à la Loi –, ce que l’appelant a confirmé à la conclusion de ses plaidoiries. Par conséquent, l’appelant aurait été un inscrit en 2006 même s’il n’était pas été un inscrit au 1er novembre 2006; l’appelant était donc tenu de verser des acomptes provisionnels en 2007.
+[6] Quoique l’appelant produise seulement des déclarations annuelles, il est quand même tenu de verser des acomptes provisionnels trimestriellement conformément à la Loi. Pour 2007, la base des acomptes provisionnels de l’appelant était le moindre de deux montants : sa taxe nette à payer pour 2007 (7 174,50 $) ou sa taxe nette à payer pour 2006 (ajustée en fonction du nombre de jours dans sa période de déclaration pour 2006). Comme la taxe nette à payer de l’appelant pour 2006 était de 2 527,26 $ et que sa période de déclaration pour cette année‑là comportait 61 jours, le montant pour 2006 s’élevait à 15 122,13 $. La base des acomptes provisionnels de l’appelant pour 2007 était donc 7 174,50 $.
+[7] Le défaut de verser des acomptes provisionnels en 2007 a entraîné l’application du paragraphe 280(2) de la Loi, qui est ainsi rédigé :
+280(2) Malgré le paragraphe (1), la personne qui n’a pas payé la totalité d’un acompte provisionnel payable en application du paragraphe 237(1) dans le délai qui y est précisé est tenue de payer, sur l’acompte impayé, des intérêts calculés au taux réglementaire pour la période commençant le lendemain de l’expiration de ce délai et se terminant au premier en date des jours suivants :
+a) le jour où le total de l’acompte et des intérêts est payé;
+b) le jour où la taxe au titre de laquelle l’acompte est payable est à verser au plus tard.
+[8] Ainsi, puisque l’appelant n’a versé aucun acompte provisionnel en 2007, il est tenu de payer des intérêts sur les acomptes impayés.
+[9] L’appelant a affirmé que les frais qu’il avait dû engager pour se conformer à la Loi étaient excessifs et qu’ils avaient représenté un fardeau financier considérable pour son entreprise. L’appelant a voulu recouvrer ces frais auprès de l’intimée. Cependant, les pouvoirs de la Cour dans le cadre d’un appel interjeté à l’égard d’une cotisation établie en vertu de la Loi se limitent à ce que prévoit l’article 309 de la Loi. Cette disposition est ainsi rédigée :
+309(1) La Cour canadienne de l’impôt peut statuer sur un appel concernant une cotisation en le rejetant ou en l’accueillant. Dans ce dernier cas, elle peut annuler la cotisation ou la renvoyer au ministre pour nouvel examen et nouvelle cotisation.
+[10] Par conséquent, les pouvoirs de la Cour se limitent à ceux qui sont énumérés au paragraphe 309(1) de la Loi, et la Cour n’a pas le pouvoir d’indemniser l’appelant pour les frais qu’il a engagés pour se conformer à la Loi.
+[11] Pour ces motifs, l’appel est rejeté, sans dépens.
+Signé à Toronto (Ontario) ce 29e jour de janvier 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 62
+No DU DOSSIER DE LA COUR :
+2008‑1207(GST)I
+INTITULÉ :
+Gerald Webster et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE :
+Le 12 janvier 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 29 janvier 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Toks Omisade
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,141 @@
+Title: Ehiozomwangie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31169/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-145-31169-ehiozomwangie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-05-06
+
+# Ehiozomwangie c. La Reine
+
+- Citation: 2013 CCI 145
+- Decision date: 2013-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4911, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ehiozomwangie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-06
+Référence neutre
+2013 CCI 145
+Numéro de dossier
+2012-2914(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2914(IT)I
+ENTRE :
+FESTUS EHIOZOMWANGIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 avril 2013 à Toronto (Ontario)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Jill Chisholm
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli, sans frais, mais uniquement pour ce qui est d’accepter la concession faite par l’intimée, soit la reconnaissance d’un don de bienfaisance d’une valeur de 165 $. La nouvelle cotisation est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de mai 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 19e jour de juin 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 145
+Date : 20130506
+Dossier : 2012-2914(IT)I
+ENTRE :
+FESTUS EHIOZOMWANGIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Le 2 octobre 2008, l’appelant a fait l’objet d’une nouvelle cotisation pour l’année d’imposition 2006. Le ministre du Revenu national (le « ministre ») a refusé les crédits d’impôt demandés à l’égard d’un certain nombre de dons de bienfaisance, qui totalisaient 10 198 $.
+[2] Bien que les hypothèses de fait faisaient uniquement référence à des dons au Centre d’alphabetisation multiculturel et documentation (le « Centre multiculturel »), l’appelant a soumis les reçus suivants à l’audience (pièce A-1) :
+a) quatre reçus de la Centenary Hospital Association, correspondant à un montant total de 108 $;
+b) un reçu de 3 425 $ du Centre multiculturel;
+c) un reçu de 4 220 $ de la Metro Street Focus Organization (la « Metro Street »);
+d) un reçu de 2 280 $ de l’Above All Christian Gathering.
+[3] Au total, ces nouveaux reçus s’élèvent à 10 033 $. Au début de l’audience, l’avocate de l’intimée a indiqué que, relativement au montant total de 10 198 $ initialement mis en cause, l’intimée était disposée à reconnaître la validité d’un don de 165 $.
+[4] La question à trancher est de savoir si l’appelant peut demander les crédits d’impôt se rapportant à ces dons prétendus pour l’année d’imposition 2006. Il incombe à l’appelant de prouver, selon la prépondérance des probabilités, qu’il a fait des dons de bienfaisance à ces quatre organisations aux montants indiqués sur les reçus et que les reçus contiennent les renseignements exigés par le Règlement de l’impôt sur le revenu (le « Règlement »).
+[5] L’appelant est infirmier autorisé; de plus, lui et son épouse exploitent un magasin de vêtements et de tissus. D’après le témoignage de l’appelant, un de ses clients est venu au magasin et lui a montré un dépliant au sujet du Centre multiculturel. Aucune copie de ce dépliant n’a été présentée en preuve, et l’appelant ne se souvenait pas du nom du client; cependant, il a affirmé avoir téléphoné au client après leur rencontre initiale pour lui indiquer les articles qu’il était prêt à donner à l’organisation. Ces articles incluaient des vêtements, des tissus, du matériel informatique ainsi qu’un bureau et du mobilier, plus précisément un matelas et un sofa. L’organisation est venue chercher ces articles en janvier ou février 2006.
+[6] En ce qui a trait au reçu de 4 220 $ de la Metro Street, l’appelant a affirmé que ce don, comme celui au Centre multiculturel, était entièrement composé d’articles tels que des vêtements, des articles de toilette et des produits alimentaires. Il avait d’abord eu vent de cette organisation par l’entremise d’un couple qui venait à son magasin. Il ne se souvenait pas de leurs noms et n’était pas certain de la manière dont ils avaient calculé la valeur des articles donnés; toutefois, il pensait que la valeur réelle était probablement supérieure au montant indiqué sur le reçu.
+[7] Le reçu de 2 280 $ provient de l’église de l’appelant, Above All Christian Gathering; ce reçu indique que la somme d’argent a été reçue de l’épouse de l’appelant. L’appelant a affirmé que, chaque fois qu’il se rendait à l’église, il donnait de l’argent comptant, entre 50 $ et 200 $, qu’il insérait dans des enveloppes de l’église sur lesquelles figurait son nom. Il a présenté en preuve deux exemplaires de ces enveloppes : elles portaient le nom de l’église et il y avait un espace prévu pour le nom du donateur et le montant du don. Toutefois, l’appelant n’a présenté aucune des enveloppes qu’il avait prétendument utilisées, de manière à confirmer ses dons en 2006; de plus, il n’a pas appelé de représentant de l’église à témoigner pour corroborer le montant qu’il demande.
+[8] Enfin, pour ce qui est des quatre reçus liés à l’hôpital, l’appelant a affirmé qu’il avait versé une somme mensuelle après avoir été informé que, en échange de ce don, il aurait droit à une place de stationnement sur une base mensuelle.
+[9] Selon le témoignage de la vérificatrice de l’Agence du revenu du Canada (l’« ARC »), on lui avait assigné la vérification du Centre multiculturel et, au terme de cette vérification, le statut d’organisme de bienfaisance accordé au Centre multiculturel a été révoqué. Il n’y avait pas de dossiers à l’appui de son mandat éducatif ou de ses états financiers; les reçus étaient inadéquats et ne pouvaient pas être justifiés; l’organisation avait outrepassé son mandat enregistré en menant des activités à l’extérieur du Canada. Bien que son directeur ait indiqué à la vérificatrice que des [traduction] « dons en nature » avaient été expédiés au Cameroun, il n’y avait pas de documents, tels que des documents d’expédition ou de livraison, à l’appui de cette affirmation. Au total, le Centre multiculturel pouvait identifier 71 reçus pour l’année 2006; de ce nombre, 68 avaient trait à des [traduction] « dons en nature » et 3, à des dons de service. En plus de ces 71 reçus, il y avait des reçus manquants associés à des contribuables qu’il n’était pas possible d’identifier. Le reçu du Centre multiculturel présenté par l’appelant en tant que pièce A-1 était typique des 68 reçus délivrés pour les [traduction] « dons en nature », et, selon le témoignage de la vérificatrice, leur formulation était identique.
+[10] La vérificatrice a également affirmé que l’appelant avait déposé sa déclaration de revenus de 2006 par voie électronique et qu’il avait demandé un total de 10 198 $ en dons, sans soumettre de ventilation. Selon la vérificatrice, avant l’audience, il n’avait jamais fourni les reçus faisant partie de la pièce A-1, malgré les demandes à cet effet; de plus, le reçu du Centre multiculturel avait été obtenu dans le cadre de la vérification.
+Analyse
+[11] Le paragraphe 118.1(1) de la Loi de l’impôt sur le revenu (la « Loi ») donne la définition du « total des dons de bienfaisance » en faisant spécifiquement référence à « la juste valeur marchande d’un don ». Le paragraphe est ainsi libellé en partie :
+« total des dons de bienfaisance » En ce qui concerne un particulier pour une année d’imposition, le total des sommes représentant chacune la juste valeur marchande d’un don […] qu’il a fait au cours de l’année ou d’une des cinq années d’imposition précédentes (mais non au cours d’une année pour laquelle il a demandé une déduction en application du paragraphe 110(2) dans le calcul de son revenu imposable) à un donataire reconnu, […]
+[12] L’alinéa 118.1(2)a) fait référence aux reçus contenant les renseignements prescrits devant servir de preuve du don :
+(2) Pour qu’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, son versement doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[…]
+[13] Un reçu officiel de la part d’une organisation enregistrée doit contenir les renseignements requis par le paragraphe 3501(1) du Règlement :
+3501. (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer que ledit reçu est un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, le jour ou l’année où le don a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa e) ou e.1);
+g) le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait; et
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons.
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+[14] Le témoignage de la vérificatrice et les observations de l’intimée ont mis l’accent sur le fait que les reçus fournis par l’appelant à l’audience ne contenaient pas les renseignements prescrits; toutefois, c’est l’absence de toute indication concernant la juste valeur marchande des dons prétendus qui est fatale à l’appel pour ce qui est du Centre multiculturel et de la Metro Street. Les deux reçus font état de dons en nature, comme des vêtements, du mobilier, du matériel informatique, des produits alimentaires et des articles de toilette. Aux paragraphes 15 et 16 des motifs de la décision Tu Van Le c. La Reine, 2011 CCI 292, [2011] A.C.I. no 233 (« Le »), le juge Webb souligne succinctement l’obligation, imposée à tout contribuable qui demande un crédit d’impôt pour des dons en nature tels que ceux signalés dans les deux reçus, de fournir une preuve relative à la juste valeur marchande des articles. Il découle des conclusions du juge Webb que, même si les reçus d’un contribuable satisfont par ailleurs aux exigences du paragraphe 3501(1) du Règlement, la demande de crédits d’impôt pour des dons de bienfaisance sera rejetée si le contribuable ne présente aucun élément de preuve pour établir la juste valeur marchande de ces dons à la satisfaction du tribunal.
+[15] Ces remarques sont similaires à celles que j’ai formulées au paragraphe 32 de mes motifs, dans la décision Tuar c. La Reine, 2010 CCI 236, 2010 D.T.C. 1173, au sujet de l’exigence de démontrer la juste valeur marchande des biens. D’après les motifs de la décision Le, il incombe au contribuable de présenter une preuve adéquate de la juste valeur marchande, si on le lui demande; faute d’une telle preuve, toutes choses étant égales par ailleurs, aucune demande visant des crédits d’impôt ne peut être faite. Cette exigence découle de la définition du « total des dons de bienfaisance » établie au paragraphe 118.1(1), définition qui est fondée sur la juste valeur marchande d’un don. À la lumière de cette condition préalable à elle seule, l’appelant ne peut pas demander les montants indiqués sur les reçus du Centre multiculturel et de la Metro Street à titre de dons de bienfaisance.
+[16] Toutefois, j’admets le témoignage de la vérificatrice selon lequel ces reçus sont également inadéquats en raison de l’absence de certains des renseignements requis aux termes de la Loi et du Règlement. Aucun des reçus n’indique la date où les articles ont été reçus, ou l’adresse et le site Web de l’ARC. Le reçu de la Metro Street ne comporte aucune signature d’un signataire autorisé de l’organisme, et rien n’indique qu’il s’agit d’un reçu pour les besoins de l’impôt sur le revenu. Comme je l’ai signalé dans mes motifs dans la décision Tuar, pour qu’un appel visant des crédits d’impôt pour dons de bienfaisance soit accueilli, il faut que les reçus contiennent les renseignements exigés par les dispositions pertinentes.
+[17] En ce qui a trait aux quatre reçus totalisant 108 $ de la Centenary Hospital Association, ils indiquent clairement que les sommes ont été versées pour obtenir des permis mensuels ayant une date d’expiration précise. À première vue, ces reçus ont trait à des permis de stationnement d’une durée limitée. Il n’y a aucune preuve indépendante d’une intention libérale de la part de l’appelant, exception faite de son témoignage selon lequel il n’aurait pas payé ces sommes si elles ne pouvaient être considérées comme étant des dons de bienfaisance à l’hôpital. Je rejette ce témoignage parce qu’il est tout simplement invraisemblable. Les reçus sont exactement ce que chacun d’eux indique qu’ils sont : des permis de stationnement à l’hôpital.
+[18] Enfin, en ce qui concerne le reçu de 2 280 $ de l’église de l’appelant, l’Above All Christian Gathering, exception faite du témoignage de l’appelant selon lequel ce montant correspond au total des dons en espèces qu’il a faits au moyen d’enveloppes marquées chaque fois qu’il s’est rendu à l’église, le reçu est inadéquat à plusieurs égards, notamment : le reçu ne précise pas s’il s’agit de dons en espèces ou de dons en nature; l’adresse du donateur ainsi que l’adresse et le site Web de l’ARC ne sont pas indiqués; le reçu comporte un numéro de TPS, plutôt qu’un numéro d’enregistrement d’un organisme de bienfaisance. De plus, le reçu est au nom de l’épouse de l’appelant, et non à celui de l’appelant.
+[19] L’appelant n’a pas présenté d’éléments de preuve indépendants corroborant son témoignage selon lequel il a fait ces dons en espèces à son église. Si, tel que l’a affirmé l’appelant, ces dons avaient été faits au moyen d’enveloppes marquées, similaires aux deux enveloppes vierges qu’il a présentées en preuve, alors il aurait pu présenter ces enveloppes-là pour corroborer son affirmation. Faute de documents vérifiables qui confirment les dons prétendus, l’appelant ne s’est pas acquitté du fardeau qui lui incombe dans le présent appel.
+[20] Toutefois, en plus des lacunes exposées dans les paragraphes qui précèdent, je n’admets pas le témoignage de l’appelant concernant ses dons prétendus. Les renseignements qu’il a fournis en rapport avec ces dons prétendus étaient vagues et imprécis. Il ne pouvait se rappeler les noms des membres de ces organisations, leurs numéros de téléphone, le contenu du dépliant ou les dates. Étant donné qu’une grande partie de son témoignage était vague et qu’une certaine partie était invraisemblable, je ne peux admettre son récit ou les reçus (même si les reçus répondaient aux exigences de la Loi, ce qui n’est pas le cas) sans une preuve indépendante qui corrobore son témoignage. De plus, les résultats de la vérification du Centre multiculturel ne contribuent guère à confirmer les activités que, selon le témoignage de l’appelant, cette organisation réalisait. Il n’y avait pas de dossiers qui confirmaient la livraison de biens ou l’expédition de tels biens à l’étranger. Tout cela jette un doute sur le témoignage de l’appelant et, par conséquent, faute d’une corroboration indépendante, son appel relatif à l’année d’imposition 2006 est accueilli, sans frais, mais uniquement pour ce qui est d’accepter la concession faite par l’intimée visant la reconnaissance d’un don de bienfaisance d’une valeur de 165 $.
+Signé à Ottawa, Canada, ce 6e jour de mai 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 19e jour de juin 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 145
+NO DU DOSSIER DE LA COUR : 2012-2914(IT)I
+INTITULÉ : FESTUS EHIOZOMWANGIE ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 avril 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 6 mai 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

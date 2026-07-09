@@ -1,0 +1,742 @@
+Title: Stark International Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/423894/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-248-423894-stark-international-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-11-01
+
+# Stark International Inc. v. The Queen
+
+- Citation: 2019 TCC 248
+- Decision date: 2019-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4298, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stark International Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-01
+Neutral citation
+2019 TCC 248
+File numbers
+2016-2624(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2624(IT)G
+BETWEEN:
+STARK INTERNATIONAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on February 26 and 27, 2018 and September 18, 2018, at Halifax, Nova Scotia
+Before: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Daniel F. Wallace
+Counsel for the Respondent:
+Devon E. Peavoy
+JUDGMENT
+The Appeals are allowed, without costs, and the reassessments that are the subject of the Appeals are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the oil processing equipment in the Appellant’s mobile transformer maintenance trailers (“TMTs”) designated as TMT 3, TMT 4 and TMT 5 and in a shop at the Appellant’s premises was acquired by the Appellant to be used directly or indirectly by the Appellant in Canada primarily in the processing of oil for sale, and
+(b) the capital cost of the oil processing equipment in each TMT or the shop, as the case may be, was the following:
+TMT 3
+$189,923.93
+TMT 4
+$260,233.76
+TMT 5
+$122,408.29
+Shop
+$207,542.10
+Signed at Ottawa, Canada, this 1st day of November 2019.
+‶Don R. Sommerfeldt″
+Sommerfeldt J.
+Citation: 2019 TCC 248
+Date: 20191101
+Docket: 2016-2624(IT)G
+BETWEEN:
+STARK INTERNATIONAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeals instituted by Stark International Inc. (“Stark”) in respect of reassessments (the “Reassessments”) issued by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”) in respect of the 2009, 2010 and 2011 taxation years, each of which ended on December 31 of the particular calendar year.
+II. ISSUES
+[2] The issues in these Appeals are:
+1) Was Stark entitled to claim investment tax credits (“ITCs”) in respect of certain property (the “Property”) purchased from time to time by Stark in 2009, 2010 and 2011?
+2) For the purposes of capital cost allowance (“CCA”), was the Property to be classified as Class 29 or 43 (as claimed by Stark), or as Class 8 (as reassessed by the CRA)?
+III. FACTS
+A. Background
+[3] In broad terms, the Property consisted of a building and three mobile transformer maintenance trailers (each, a “TMT”). [1] The Appeals relate to ITCs claimed in respect of the Property in 2009, 2010 and 2011. As will be discussed below, at the hearing there was some uncertainty as to the identification of the three TMTs, with some evidence suggesting that they were TMT 3, TMT 4 and TMT 5, and other evidence suggesting that they were TMT 4, TMT 5 and TMT 6. As well, there was uncertainty as to whether the three TMTs were constructed in 2009, 2010 and 2011, or in 2010, 2011 and 2012. Since the evidence concerning the completion dates of the three TMTs was inconclusive, for the purposes of these Reasons, I will refer to the four possible years in question, i.e., 2009, 2010, 2011 and 2012, as the “Particular Period.”
+B. Testimony of Scott MacEachern
+[4] In 2004, Scott MacEachern purchased a corporation known as Stark Oil Purification Systems Limited, which, sometime after 2011, changed its name to Stark International Inc. In these Reasons, the term “Stark” will be used to refer to the Appellant both before and after the change of its name.
+[5] During the Particular Period, Stark carried on a multifaceted business in respect of electrical transformers. A major facet of Stark’s business was to maintain and repair electrical transformers on the premises of its customers. Much of the work done was mechanical, involving the replacement of bushings and other parts in the transformers, repairing oil leaks and repainting the transformers. As well, the work often required purification of the oil in the transformers. If the oil in a particular transformer was not overly dirty, it could be purified at the customer’s premises by using hoses to attach the transformer to a piece of processing equipment in a trailer, and then flowing the oil through the processor to dehydrate it or to perform other simple purification procedures. The revenue from this type of work was categorized by Stark as “Electrical Systems” revenue or as “Mechanical” revenue. The electrical systems revenue constituted the major source of Stark’s revenue during the three years in question.
+[6] The oil purification procedures involved several processes, including dehydrating the oil, degasifying the oil, and removing polychlorinated biphenyls (“PCBs”) and other contaminants from the oil. Some of those processes, such as dehydration, were simpler than others, such as removing PCBs.
+[7] During the Particular Period, in processing a customer’s oil for reuse by the customer and in processing Stark’s own oil for sale, Stark used various pieces of equipment, including vacuum chambers (also known as vacuum pumps, to dehydrate or remove moisture from the oil), booster pumps (to remove additional moisture from the oil), filters (to remove certain contaminants from the oil), fuller’s earth towers (to remove acids and sludge from the oil), degasifiers (to remove various gases from the oil), sodium dispersion units (to remove PCBs from the oil), oil-fired boilers, heat exchangers and other heating devices (to heat the oil), dielectric testers and other testing equipment (to test the oil before, during and after the purification process), control panels and miscellaneous parts (such as hoses, pipes, valves, gauges and other similar items).
+[8] In 2004, Stark had five pieces of oil processing equipment, which were old but proven. After Mr. MacEachern purchased Stark, it began to experiment with newer technologies and began to construct additional pieces of oil processing equipment. Some of Stark’s oil processing equipment was mounted on skids, such that it could be loaded on a truck or in a trailer and taken to a customer’s premises or to a job site. The trailers, once equipped with oil processing equipment, tools and other related equipment, were referred to as mobile transformer maintenance trailers or TMTs, and were 48-foot to 53-foot drop box trailers, with a width of 9.5 feet and standard commercial trailer height, and were designed to be pulled by a transport cab (in essence, the cab and the TMT were an 18-wheel unit). The TMTs had onboard crew housing and utilities (power, water and waste containment) for working at remote locations.
+[9] During the Particular Period, Stark constructed three TMTs, which became the subject of these Appeals. It is my understanding that initially Stark claimed ITCs and accelerated CCA in respect of all or most of the cost of those three TMTs. As will be discussed below, by the conclusion of the hearing of these Appeals, Stark had acknowledged that the cost of certain components of the TMTs did not qualify for ITCs and accelerated CCA.
+[10] The Property that is the subject of the Appeals was referred to, in non-specific terms, under the heading “Qualified Property” in Part 4 of Schedule 31 to Stark’s income tax returns for 2009, 2010 and 2011 as follows: [2]
+Table 1
+2009
+CCA Class
+Description
+Date Available [3]
+Amount
+29
+Oil testing equipment
+2009/10/05
+$4,771
+29
+Oil fired boiler
+2009/01/06
+2,400
+29
+Oil purification equipment
+2009/11/15
+140,777
+[BLANK]
+Total for 2009
+[BLANK]
+$147,948
+2010
+CCA Class
+Description
+Date Available
+Amount
+43
+Production equipment
+2010/09/30
+$243,690
+29
+Processing equipment
+2010/10/31
+45,000
+[BLANK]
+Total for 2010
+[BLANK]
+$288,690
+2011
+CCA Class
+Description
+Date Available [4]
+Amount
+43
+Oil processing equipment
+2011/10/31
+$352,303
+29
+Oil processing equipment
+2011/10/31
+193,470
+1
+Oil processing facility
+2011/10/31
+131,373
+[BLANK]
+Total for 2011
+[BLANK]
+$677,146
+Total for all three years
+$1,113,784
+Each of the corresponding tables in Part 4 of Schedule 31 to each tax return indicated that the location (i.e., province or territory) where the particular Property was used was Nova Scotia.
+[11] About 2009, Stark began to expand another aspect of its business, which was the reclamation and subsequent sale of used transformer oil. The reclamation process was conducted at Stark’s premises at Bailey’s Brook, Nova Scotia. Some of the processing was done in a shop that had been owned by Stark for many years and, according to Mr. MacEachern, some of the processing was done in a building constructed by Stark in 2011. [5] Other processing equipment was located elsewhere at Stark’s premises, particularly before 2011. As well, some of the processing equipment was contained in the three TMTs constructed during the Particular Period.
+[12] Stark sought various sources for the acquisition of contaminated oil. In some cases Stark was paid by the owner of contaminated oil to haul it away, and in other cases Stark paid a modest price for the contaminated oil. Stark had several tanker trucks which it used to pick up the contaminated oil and transport it to its facility at Bailey’s Brook, where the contaminated oil was stored either in a tanker truck or in storage tanks on Stark’s premises, pending receipt of a test report indicating the nature of the contaminants, and pending accumulation of a large enough volume of oil to make a particular reclamation operation worthwhile. After those conditions were satisfied, Stark processed the contaminated oil through its equipment. If it was able to remove essentially all of the contaminants, the reclaimed oil was sold to customers who demanded exacting specifications. If the reclaimed oil met only intermediate standards, it was sold to customers whose standards were not as exacting. In some situations, the reclaimed oil did not meet intermediate standards, so it was sold to customers, such as asphalt producers, for use as fuel. The revenue from the reclamation and sale of oil was characterized by Stark as “Oil Sales” revenue.
+[13] Stark claimed ITCs, but not accelerated CCA, in respect of the building that it constructed in 2011 and that it described in Part IV of Schedule 31 to its 2011 income tax return as an oil processing facility. During his direct examination, Mr. MacEachern stated the following about that building:
+So my plan was to build better oil processors, not only for Stark but to sell them outside of Atlantic Canada, United States, hopefully all around the world. So we built this facility to manufacture oil processing equipment. [6]
+[14] According to Mr. MacEachern, it was the cost of the equipment that was used for the purpose of reclaiming contaminated oil (which had been acquired by Stark and which was subsequently sold by Stark) that was the subject of the claim for both the ITCs and the accelerated CCA.
+C. Testimony of Brad Cameron
+[15] Mr. Cameron, who is now Stark’s transformer supervisor, was hired by Stark in May 2010 and shortly thereafter was appointed as Stark’s maintenance supervisor in the shop located at Bailey’s Brook. When Mr. Cameron began his employment with Stark, it owned two TMTs (“TMT 1” and “TMT 2” respectively) and the construction of a third TMT (“TMT 3”) was approximately 75% completed.
+[16] Mr. Cameron stated that TMT 1 and TMT 2 “were mainly on the road” [7] and were “spread out across the country, … in Ontario or in Alberta.” [8] It is my understanding that TMT 1 and TMT 2 were used primarily to perform jobs at the premises of Stark’s customers.
+[17] Mr. Cameron testified that TMT 3 came into use in November 2010, [9] and that Stark continued to build TMTs, with TMT 4 being completed near the end of 2011 and TMT 5 being completed in mid-2012. [10] Mr. Cameron stated that the TMTs were built to meet the demand for oil processing services. [11]
+[18] On February 11, 2014, while Stark’s Notice of Objection was being considered by the CRA’s Appeals Division, Stark’s then counsel sent a letter [12] to the appeals officer who was considering the objection. Attached to that letter was a three-page chart that had been prepared by Stark’s chief financial officer (the “CFO”). That chart indicated that TMT 4 became available for use on November 15, 2009, TMT 5 became available for use on September 15, 2010 and TMT 6 became available for use on October 31, 2011. When asked about the discrepancy between the identifying TMT numbers in the CFO’s chart and his own testimony (see paragraph 17 above), Mr. Cameron explained that the CFO did not begin to work for Stark until 2012 or perhaps 2013, [13] such that she would not have been with Stark when TMT 3, TMT 4 and TMT 5 were completed. Mr. Cameron stated that he did not know why the CFO referred to TMTs 4, 5 and 6. [14] I accept the submission by counsel for Stark that the CFO was confused in her description of the three TMTs and that the testimony of Mr. MacEachern and Mr. Cameron, as well as many of the invoices, indicate that the TMTs completed during the Particular Period were TMT 3, TMT 4 and TMT 5. [15]
+[19] After each new TMT was constructed, Stark tested it at its own facility, using its own oil. As explained by Mr. Cameron:
+Q. Mr. Cameron, once the TMTs were built, what did Stark do with them?
+A. Once they were built we tested them on our oil... The oil shop at that time did not have its own stand-alone processing unit inside, so all the oil work at the shop had to be done through our TMTs. Our first two original ones were mainly on the road.
+The new ones when they came in -- when they were finished, the extensive testing was done by processing on the oil at the shop with it. And so there would have been probably at least two months of me running at the shop testing it, making sure all the safeties worked, it was doing what it was supposed to. After that there was always one -- at least one at the... TMT-3 would have been at the shop quite a lot of the time. The odd job on the road locally would have been -- it would have went to that, but for the most part with the oil orders, we were still required to hold it near the shop to process that oil until -- until others were built. Even a lot of the times when there was big orders of oil, there would be two machines running at the shop.
+Q. ... Earlier in your answer you said all the oil work in the shop had to be done through the TMTs?
+A. Yes.
+Q. What do you mean by oil work?
+A. The processing of the oil. The degassing, removing the moisture, everything that the -- adding inhibitor, removing the acids, that requires the TMT at the shop at that time.
+Q. And you said there -- TMT-3 was always at the shop except for the odd job on the road locally.
+A. Yeah. Yeah. It was... There was always oil moving at the shop at that time, so … it was mainly used at the shop and in this part of the country….
+Q. And did the shop have the capability of having more than one TMT in action at one time?
+A. Oh yes. Yes, by times there was -- there would be at least two -- two TMTs running down there.
+Q. Okay.
+A. On different -- different oils, different -- doing different processes to an oil. Some oils do not require fuller’s earth removing of acids, so one trailer would be doing just basic dehydration and cleaning of the oil, while another -- the other one would be doing earthing. [16]
+D. Areva / Bruce Power Contract
+[20] In September 2011, Stark obtained a large 10-month contract with Areva Resources Canada Inc. (“Areva”) at the nuclear power facility of Bruce Power in Ontario, [17] which required Stark to send a TMT to Bruce Power’s facility to vacuum fill a new transformer acquired by Bruce Power to replace a transformer that had failed. This was a rush job. Stark sent TMT 4 to Bruce Power’s facility shortly after the testing of TMT 4 had been completed. [18]
+[21] During his cross-examination, Mr. MacEachern stated that TMT 5 was at Bruce Power’s facility for 10 months, starting in September 2011. [19] This answer was given in response to a question relating to an excerpt from a letter sent to the CRA by Stark’s then counsel. [20] That letter was based on the three-page chart prepared by Stark’s CFO. As noted above, that chart mistakenly referred to TMTs 4, 5 and 6, whereas the evidence of both Mr. MacEachern and Mr. Cameron is quite clear that it should have referred to TMTs 3, 4 and 5. Accordingly, I view Mr. MacEachern’s response to the question in cross-examination as an indication that the second of the three TMTs built during the Particular Period was the TMT sent to Bruce Power’s facility for the 10-month duration of the Areva contract. That, of course, was TMT 4.
+[22] Mr. Cameron’s recollection was that TMT 4 was at Bruce Power’s facility on and off for the 10-month duration of the contract, rather than being there “straight through.” [21]
+[23] While TMT 4 was being used at Bruce Power’s facility in Ontario, TMT 5 was in the early-construction phase. Bruce Power requested that Stark make certain modifications to the standard TMT design in order that TMT 5 would be customized for use at Bruce Power’s facility. In particular, Bruce Power requested that special shielding be put around the living quarters in TMT 5 in order to make it safer for occupancy at Bruce Power’s nuclear power facility. [22] This suggests that one of the purposes for the completion of TMT 5 was to enable Stark to fulfill its contract with Areva.
+E. Fabrication Shop
+[24] When Mr. Cameron began his employment at Stark in May 2010, there were two buildings at the Bailey’s Brook facility. One was the oil processing facility, also known as the oil shop, located on Bailey’s Brook Road, and the other was the mechanics shop, located on Brown’s Mountain Road. In late 2011, a new fabrication shop was completed. Before the completion of the fabrication shop, the construction of the TMTs was split between the oil shop and the mechanics shop, given that there was only limited space in those two buildings. [23]
+[25] Mr. Cameron explained the purpose for constructing the fabrication shop in this manner:
+It was built to house our fabricating facility for the TMTs…. There was talk of us eventually getting into building these for −− manufacturing these to sell; that has since fallen through. But we wanted our own stand-alone shop because doing – doing the fabrication work around the oil shop was not particularly safe or helpful to the oil. [24]
+Mr. Cameron stated that the fabrication shop was used to construct TMTs until 2014, when the last TMT was completed. [25] Mr. Cameron stated that the fabrication shop was used only for the construction of TMTs, and that no oil was processed in the fabrication shop. [26]
+[26] Mr. Cameron stated that Stark’s office was located on Archimedes Street in New Glasgow, which is about a 40-kilometre drive from Bailey’s Brook. Mr. MacEachern, the CFO, managers, job planners and office staff worked in New Glasgow. In fact, according to Mr. Cameron, Mr. MacEachern worked mostly in New Glasgow. In other words, on a day-to-day basis, Mr. MacEachern was generally at the office in New Glasgow rather than at the shops at Bailey’s Brook. Given Mr. Cameron’s proximity, and Mr. MacEachern’s lack of proximity, to Stark’s operational and construction premises, it is my view that the testimony of Mr. Cameron concerning the construction of the TMTs and the processing of oil at Bailey’s Brook is more reliable than that of Mr. MacEachern in respect of those matters. Accordingly, to the extent that there is any discrepancy between the testimony of Mr. MacEachern and the testimony of Mr. Cameron concerning Stark’s operations, I generally prefer the testimony of Mr. Cameron.
+F. Transformer Construction / Maintenance and Oil Processing
+[27] Mr. Cameron explained that, when Stark sent a crew and a TMT to a customer’s job site, the processing of the oil in the customer’s transformers represented approximately 20% to 25% of the job. The major aspect of the job was repairing or maintaining the transformers. [27] When building a new transformer, the proportionate amount of time needed to complete the oil processing was even less, as it took approximately two weeks to build the transformer and only two days, using the oil processor, to fill the transformer with oil. [28]
+IV. LEGISLATIVE PROVISIONS
+A. Investment Tax Credit
+[28] During the relevant taxation years (i.e., 2009 through 2011), pursuant to subparagraph 127(5)(a)(i) of the Income Tax Act (the “ITA”), [29] a taxpayer was entitled to deduct from the tax otherwise payable by the taxpayer under Part I of the ITA for the particular taxation year an amount not exceeding the taxpayer’s investment tax credit at the end of the year (subject to various other limitations that are not relevant here). Subsection 127(9) of the ITA defined a taxpayer’s “investment tax credit” at the end of a taxation year as including “the specified percentage of the capital cost to the taxpayer of … qualified property acquired by the taxpayer in the year.” [30] At that time, the applicable portion of the definition of the term “qualified property,” as set out in subsection 127(9) of the ITA, read as follows:
+“qualified property” of a taxpayer means property … that is
+(a) a prescribed building to the extent that it is acquired by the taxpayer after June 23, 1975, or
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer and that is
+(c) to be used by the taxpayer in Canada primarily for the purpose of
+(i) manufacturing or processing goods for sale or lease….
+Subparagraph 127(11)(b)(vi) of the ITA indicated that, for greater certainty, the purposes referred to in paragraph (c) of the definition “qualified property” in subsection 127(9) of the ITA did not include the provision of facilities for employees, including cafeterias, clinics and recreational facilities.
+[29] During the relevant taxation years, paragraph 4600(1)(a) of the Income Tax Regulations (the “ITR”) [31] provided that, for the purposes of the definition “qualified property” in subsection 127(9) of the ITA, a property was a prescribed building if it was depreciable property of the taxpayer that was a building erected on land owned or leased by the taxpayer and if it was included in Class 1 (as well as various other enumerated classes). Subsection 4600(2) of the ITR provided that, for the purposes of the definition “qualified property” in subsection 127(9) of the ITA, a particular property was “prescribed machinery and equipment” if it was depreciable property of the taxpayer and it was a property included in Class 8, [32] Class 29 or Class 43, [33] or various other classes that are not relevant here. There was no dispute, nor submissions by counsel, as to whether the Property came within the term “prescribed building” or the term “prescribed machinery and equipment,” as the case may be.
+B. Accelerated Capital Cost Allowance
+[30] During the relevant taxation years, Class 8 in Schedule II to the ITR, which has a CCA rate of 20%, included (among other things) any of the following:
+(a) a structure that is manufacturing or processing machinery or equipment;
+(b) tangible property attached to a building and acquired solely for the purpose of
+(i) servicing, supporting, or providing access to or egress from, machinery or equipment,
+(ii) manufacturing or processing, or
+(iii) any combination of the functions described in subparagraphs (i) and (ii);
+(i) a tangible capital property that is not included in another class in this Schedule….
+(c) a building that is a kiln, tank or vat, acquired for the purpose of manufacturing or processing; …
+During the relevant taxation years, Class 29 in Schedule II to the ITR, which has a 50% straight-line rate of CCA, included:
+Property … that would otherwise be included in another class in this Schedule
+(a) that is property manufactured by the taxpayer, the manufacture of which was completed by him after May 8, 1972, or other property acquired by the taxpayer after May 8, 1972,
+(i) to be used directly or indirectly by him in Canada primarily in the manufacturing or processing of goods for sale or lease …;
+(i) property that, but for this class, would be included in Class 8 …;
+(b) that is
+and
+(c) that is property acquired by the taxpayer …
+(iii) after March 18, 2007 and before 2014 if the property is machinery, or equipment,
+(A) that would be described in paragraph (a) if subparagraph (a)(ii) [which is not applicable here] were read without reference to [a phrase that is not applicable here], and
+(B) that is described in any of subparagraphs (b)(i) to (iii) and (vi)…. [34]
+The applicable portion of the description of Class 43 in Schedule II to the ITR, which has a CCA rate of 30%, was as follows:
+Property acquired after February 25, 1992, that
+(a) is not included in Class 29, but that would otherwise be included in that Class if that Class were read without reference to subparagraphs (b)(iii) and (v) and paragraph (c) thereof….
+There were no submissions by Stark as to why it is of the view that the Property was included in Class 29 or Class 43, as the case may be, or by the Crown as to why it is of the view that the Property was included in Class 8.
+[31] For the purposes of these Appeals, the distinguishing features of Class 29 and Class 43, as distinct from Class 8, were that the particular property was to be machinery or equipment manufactured or acquired by a taxpayer “to be used directly or indirectly by [the taxpayer] in Canada primarily in the manufacturing or processing of goods for sale…” and there was no requirement that the property be a structure or an attachment to a structure.
+V. JURISPRUDENCE CONCERNING THE MEANING OF “SALE”
+[32] In discussing the meaning of the word “sale” in the context of the above legislative provisions (or their predecessors), the Supreme Court of Canada, in Will-Kare Paving, stated:
+19. Canadian jurisprudence to this point has adopted two divergent interpretations of the activities that constitute manufacturing and processing goods for sale. Without canvassing these authorities exhaustively, it may be helpful to outline briefly those cases which delineate these two distinct approaches.
+20. One point of view is expressed in Crown Tire Service Ltd. v. The Queen, [1984] 2 F.C. 219 (T.D.), where the court imports common law and provincial sale of goods law distinctions in defining the scope of the manufacturing and processing incentives’ application. Only capital property used to manufacture or process goods to be furnished through contracts purely for the sale of such goods qualifies. Property used to manufacture or process goods to be supplied in connection with the provision of a service, namely through a contract for work and materials, is not viewed as being used directly or indirectly in Canada primarily in the manufacturing or processing of goods for sale, and as such, does not qualify for either the accelerated capital cost allowance or the investment tax credit…. [Emphasis in original.]
+22. A second line of authority departs from the point of view in Crown Tire and declines to apply statutory and common law sale of goods rules in delineating that capital property to which the manufacturing and processing incentives apply. Rather, these cases advocate a literal construction of “sale” such that the provision of a service incidental to the supply of a manufactured or processed good does not preclude receiving the benefit of the incentives. Any transfer of property for consideration would suffice. See Halliburton Services Ltd. v. The Queen, 85 D.T.C. 5336 (F.C.T.D.), aff’d 90 D.T.C. 6320 (F.C.A.), and The Queen v. Nowsco Well Service Ltd., 90 D.T.C. 6312 (F.C.A.)….
+28. From the legislative material accompanying the manufacturing and processing incentives, it is clear that Parliament’s objective was to encourage the manufacturing and processing sector’s ability to address foreign competition in the domestic and international markets and foster increased employment in that sector of the Canadian economy. Furthermore, it is clear that Parliament did not wish to define exhaustively the scope of manufacturing or processing, words which do not have distinct legal meanings, but left it to the courts to interpret this language according to common commercial use. The language in Hansard is not helpful as to the meaning which Parliament intended to subscribe to the words “for sale or lease”. It neither dictates, nor precludes, the application of common law sale of goods distinctions.
+29. Notwithstanding this absence of direction, the concepts of a sale or a lease have settled legal definitions. As noted in Crown Tire and Hawboldt Hydraulics, Parliament was cognizant of these meanings and the implication of using such language. It follows that the availability of the manufacturing and processing incentives at issue must be restricted to property utilized in the supply of goods for sale and not extended to property primarily utilized in the supply of goods through contracts for work and materials. [35]
+[33] In the circumstances of these Appeals, when Stark used the oil processing equipment in a TMT at a customer’s premises or job site, the equipment processed the customer’s own oil, such that there was not a sale of oil in that situation. When Stark used the oil processing equipment in a TMT to process oil at its own premises, the oil in question belonged to Stark and, after the processing was completed, was sold by Stark. There was no accompanying or incidental service in respect of Stark’s sale of its own oil, nor was there a contract for work and materials. Therefore, the sale by Stark of processed oil came within the meaning of the word “sale,” as determined by the Supreme Court in Will-Kare Paving.
+VI. ANALYSIS
+A. Deficient Documentation
+[34] One of the difficulties that I have encountered is that Stark did not keep regular records indicating the various locations where the TMTs were used. As those TMTs were housed in semi-trailers, they were intended to be mobile and were used from time to time at the premises of a customer, rather than at Stark’s own premises.
+B. Incorrect Information Provided to the CRA
+[35] While considering Stark’s claim for the ITCs, the CRA requested certain information from Stark concerning, among other things, the qualifying activity for which the Property was primarily used and the physical address where the Property was primarily used. On May 31, 2012, Stark’s bookkeeper sent a letter to the CRA addressing those questions, as well as others, in the context of the 2011 taxation year. The following statements were included in that letter:
+The qualifying activity for which the property is primarily used is Oil Processing….
+The physical address where the property is primarily used varies by job location and can be located anywhere in Canada. The property is mostly used in Alberta, Ontario, Nova Scotia & Newfoundland. [36]
+In the above-mentioned letter, the bookkeeper mentioned that she was still working on gathering the documents for 2009 and 2010. On July 5, 2012, the bookkeeper sent two letters, one dealing with 2009 and the other dealing with 2010, to the CRA. The statements made by the bookkeeper in those letters about the qualifying activity and the physical address in respect of the Property were identical to the corresponding statements in the letter of May 31, 2012. [37] During his testimony at the hearing, Mr. MacEachern stated that the bookkeeper was mistaken when she suggested in her three letters that the Property was primarily used at the customers’ job locations.
+[36] On February 28, 2014, the solicitor whom Stark had retained in respect of its dispute with the CRA wrote a letter to the CRA appeals officer, in which the following was stated:
+The TMTs are used directly in the following areas of the taxpayer’s business – repairs, insulating oil services, transformer commissioning, monitoring and conditioning services. In each of these categories there are a number of different processes that the taxpayer can perform on oil with the TMT. In particular:
+repairs (vacuum fill and oil processing);
+insulating oil services (oil processing, reclamation and re-inhibit);
+transformer commission, vacuum fill; and
+monitoring and control services (re-inhibit, vacuum fill and oil processing).
+The process of cleaning transformer oil is called reclamation. This process involves circulating the oil through towers of fullers earth to remove acid and particulate from the oil. All of the client’s TMTs are equipped with these fullers earth towers and have the ability to perform the oil reclamation process on a customer’s site on the existing oil in their transformer. The other role that the TMT plays in cleaning old oil is at the client’s oil shop facility in Nova Scotia. It can perform the same fullers earth treatment to tanks of oil to clean it for resale as reclaimed oil….
+Please note the enclosed revenue break-down. Kindly note further that in monthly revenue for jobs that we provided previously, we had only picked up the revenue that would have been generated by the TMTs and other revenue had been ignored. In the present chart the TMT revenue would be included in the “Electrical Systems” revenues.
+In your question you ask about total revenue earned from reclaimed oil sales. We clarify that the oil sales you were asking about is the reclaimed oil that the client sells from its shop – although it goes through the same process as the TMTs do on site with oil, this is revenue for used oil that client picked up and the client has reclaimed to resell. The TMTs will process and reclaim oil on site but that is included in the cost of the job and not billed separately so this [sic] reclaimed oil sales has [sic] nothing to do with TMTs that are being discussed herein. [38]
+[37] As indicated above, the Reassessments were issued by the CRA on April 10, 2013. Stark filed Notices of Objection in which it took the position that what was processed by Stark’s use of the Property and then sold was electricity that was generated as an indirect result of transformer oil being processed through the TMTs.
+C. Communication of Corrected Information
+[38] When the Minister confirmed the Reassessments on February 23, 2015, Stark initially refrained from appealing, but subsequently, after further review, applied for an extension of time within which to appeal. In support of that application, Mr. MacEachern swore an affidavit, which was filed with the Court on May 24, 2016 and which contained the following statements:
+5. Stark served notices of objection in response to the said reassessments. At that time it submitted that the “goods for sale or lease” was electricity that was generated as an indirect result of the processing through the TMTs of used oil in electricity transformers.
+6. By notices of confirmation dated February 23, 2015, the objections to Stark’s 2009, 2010 and 2011 taxation years were dismissed and the objected-to reassessments were confirmed.
+7. On the basis of the factual and legal theory supporting its notices of objection, Stark did not appeal to the Tax Court within the applicable 90 day period following the February 23, 2015 date of confirmations.
+8. Recently, within the statutory one year period commencing at the end of the said 90 day period, a further review instigated by Stark of all pertinent facts and legal theory identified that used and new oil was being processed by the TMTs directly for sale to Stark customers. This important fact had not previously been communicated, or sufficiently clearly communicated, to our professional advisors; due it appears to errors in communication between certain administrative staff and our professional advisors.
+9. As President and CEO of Stark, I realized in retrospect that I should have been more directly involved in these previous discussions to ensure their accuracy and comprehensiveness as to the various business endeavours of Stark.
+10. In recent days and weeks we have clearly communicated to our professional advisors the fact, with supporting data, that the subject TMTs were intended primarily for use, and were primarily used for, the processing [of] oil for sale to Stark customers. [39]
+[39] Stark was successful in obtaining an extension of the time within which to appeal. In its Notice of Appeal, Stark stated the following about the ITCs and the TMTs:
+3. In particular the appellant appeals the Minister’s denial by means of the said reassessments of investment tax credits (ITCs) claimed by the appellant for each said taxation year in respect of the appellant’s expenditures in constructing “mobile transformer maintenance trailers” (TMTs), intended to be primarily used in the processing of goods for sale….
+6. The appellant pleads that the TMTs were intended to, and in fact were primarily used in each of the taxation years 2009, 2010 and 2011, to process oil for the purpose of selling such processed oil to customers of the appellant.
+7. In particular the processing involved the degasifying and dehydrating of new and used oil….
+10. The appellant states that in primarily using the subject TMTs to process new and used oil by degasifying and dehydrating such oil for the purpose of selling that processed oil, the appellant was accordingly entitled to the ITCs denied by the Minister for each of the appellant’s 2009, 2010 and 2011 taxation years. [40]
+[40] On September 15, 2017, Stark filed an Amended Notice of Appeal, for the purpose of adding the second issue in these Appeals [41] and for the purpose of broadening the description of the Property. Of the four paragraphs of the original Notice of Appeal quoted above, only paragraphs 3 and 10 were amended. The amendments are shown below:
+3. In particular the Appellant appeals the Minister’s denial by means of the said reassessments of investment tax credits (ITCs) claimed by the Appellant for each said taxation year in respect of the Appellant’s expenditures in constructing “mobile transformer maintenance trailers” and other processing equipment and facilities (TMTs), intended to be primarily used in the processing of goods for sale. The Appellant also appeals the Minister’s decision that the TMTs should be reclassified in the 2011 taxation year as Class 8 property rather than Class 29 and 43 property as reported by the Appellant....
+10. The Appellant states that in primarily using the subject TMTs to process new and used oil by degasifying and dehydrating such oil for the purpose of selling that processed oil, the Appellant was accordingly entitled to the ITCs denied by the Minister for each of the Appellant’s 2009, 2010 and 2011 taxation years. The Appellant states that, for the same reason, the subject TMTs were properly classified in 2011 as Class 29 and 45 [sic] property. [42]
+[41] It was only at the hearing of these Appeals that it became apparent that what was really of significance here was the fabrication shop at Stark’s premises at Bailey’s Brook and the oil processing equipment located at those premises, including the oil processing equipment in the TMTs while the TMTs were parked at those premises.
+D. The CRA’s Initial Position
+[42] Based on its initial understanding that the Property was used in various locations throughout Canada, and not primarily in Atlantic Canada, the CRA denied Stark’s claim for ITCs and accelerated CCA. A further reason given by the CRA for denying Stark’s claim for ITCs was that the definition “qualified property” in subsection 127(9) of the ITA required that such property be used in manufacturing or processing the goods in question. As Stark had told the CRA that it was processing electricity, and as the CRA was aware that the TMTs were not used for the purpose of processing electricity, the CRA denied the claim for ITCs. [43]
+[43] As neither the CRA nor the Crown initially had a full and correct understanding of the material facts, the assumptions of fact, as set out initially in the Reply and later in the Amended Reply, were somewhat limited. In particular, it appears that the Minister, when assessing, did not assume that the TMTs were available for use on dates other than those set out under the heading “Qualified Property” in Part 4 of Schedule 31 to Stark’s income tax returns for 2009, 2010 and 2011, [44] nor did the Minister assume that the TMTs were not used to process oil for sale.
+E. Property that Does Not Qualify
+(1) Used Equipment
+[44] Stark’s initial claim for ITCs and accelerated CCA, as set out in its income tax returns for 2009, 2010 and 2011, appeared to include the cost of all components of the three TMTs in question. As the evidence was presented at the hearing, it became apparent that some of those components had been previously used by someone else before they were acquired by Stark. During the course of the hearing, counsel for Stark acknowledged that any Property that had been previously used when it was acquired by Stark did not qualify for ITCs and accelerated CCA.
+[45] The used Property included the following:
+a) a used 1992 Advanced Tri-Axle Trailer, purchased on August 28, 2009 from Seaboard Liquid Carriers Ltd., at a price of $4,750, for TMT 3; [45]
+b) a used fuel plant (also referred to as a tank farm), consisting of tanks, pumps, piping, a loading rack, electrical components, a building, a fence, gates and an oil-water separator, purchased on April 10, 2010 from Moore Fuels Inc., at a price of $45,000; [46]
+c) a used Bobcat loader/forklift, purchased on June 2, 2011 from Liftow Limited, at a price of $18,700; [47] and
+d) a used piece of equipment described as MCT1600, purchased on December 31, 2010 from Megger Limited (“Megger”) at a price of $13,727.50, for TMT 4. [48]
+(2) Living Quarters
+[46] Each TMT contained a small area that was furnished as living quarters for the crew who operated the TMT. This enabled the TMT to be used in remote locations. The living quarters were not used to process oil. Furthermore, subparagraph 127(11)(b)(vi) of the ITA states that the purposes referred to in paragraph (c) of the definition “qualified property” in subsection 127(9) do not include providing facilities for employees. Therefore, any Property that was acquired by Stark for the purpose of constructing or furnishing the living quarters in a TMT did not qualify for ITCs or accelerated CCA.
+[47] The claimed items that were purchased in respect of the living quarters were:
+a) a valve to drain the grey water tank in the living quarters of one of the TMTs, purchased on November 6, 2009 from Alma Homes & Campers (“Alma Homes”), at a price of $32.57; [49]
+b) a toilet in the living quarters of one of the TMTs, purchased on November 3, 2009 from Alma Homes, at a price of $168; [50]
+c) a water heater and related items for the living quarters in one of the TMTs, purchased on October 27, 2009 from Central Supplies (“Central”), at a price $539.65; [51]
+d) fibreglass to build tanks for clean water and waste water in the living quarters of TMT 3, purchased (with shipping) on October 15, 2009 from East Coast Fibre Glass (“ECFG”), at a price of $258.40; [52] and
+e) primer, paint and painting supplies for the living quarters in TMT 3, purchased on September 30, 2009 from Central, at a price of $295.55. [53]
+(3) Tool Storage
+[48] Mr. Cameron testified that approximately half of each TMT contained oil processing equipment and the other half contained the tools and other equipment used by Stark to maintain, repair and build transformers. [54] It is my understanding that Stark’s claim for ITCs and accelerated CCA did not include the cost of any tools that were contained in the TMTs, but did include the cost of tool rigging and other storage components in the TMTs. [55] The Property that was the subject of those expenditures did not qualify for ITCs or accelerated CCA.
+[49] The tool storage items included:
+a) a tool box, purchased on September 21, 2009 from NAPA Northern Auto Supply (“NAPA”), at price of $999.99; [56]
+b) a nylon sling, purchased on October 19, 2009 from Atlantic Marine & Ind. Rigging Ltd., at a price of $252; [57]
+c) a tool box and related material, purchased on June 2, 2010 from MacGregor’s Custom Machining Ltd. (“MacGregor’s”), at a price of $466.68, for use in TMT 3; [58] and
+d) a cabinet, purchased on October 26, 2011 from Canadian Tire, at a price of $1,085.09, for use in TMT 5. [59]
+(4) Safety Equipment
+[50] One of the invoices included in Exhibit A-2 related to a purchase of safety equipment on July 31, 2011 from Winsafe Corp at a price of $2,255.75, for use in TMT 4. [60] While safety is a commendable and essential objective of any oil processing business, safety equipment is used for the purpose of promoting and ensuring safety, rather than for the purpose of processing oil for sale. Accordingly, the cost of the safety equipment is not to be included in calculating the ITCs and accelerated CCA.
+(5) Snowblower
+[51] On or about November 18, 2011, Stark purchased a snowblower from Proudfoot Motors, at a price of $2,800. [61] Although necessary during Nova Scotia winters, a snowblower is not used for the purpose of processing oil for sale. Therefore, its cost is not a factor in the computation of the available ITCs and accelerated CCA.
+(6) Towing Trailer for TMT 5
+[52] On or about November 24, 2011, Stark paid $7,500 to AA Towing Ltd. for towing a used trailer to Stark’s premises. [62] Although the trailer was used by Stark in constructing TMT 5, [63] the Breakdown Book (as defined below) tabulated $7,000 of the $7,500 towing cost as a TMT 4 expenditure. For the purposes of these Reasons, I will use the same amount and categorization. As a used trailer does not come within the definition of “qualified property,” the cost of towing a used trailer cannot be the basis for claiming an ITC or accelerated CCA.
+(7) Misclassified Expenditures
+[53] Several of the invoices included in Exhibit A-2 (which contains the invoices compiled by Stark in support of its claim for ITCs and accelerated CCA) bore handwritten notations indicating that the items that were the subject of those invoices actually related to TMTs other than TMTs 3, 4 and 5 (which are the only TMTs that are the subject of these Appeals). The misclassified items were the following:
+a) a cooler, purchased on November 18, 2009 from Princess Auto, at a price of $749.99, which was acquired as an addition to TMT 2; [64]
+b) a tank and related items, purchased on or about February 24, 2009 from EMCO Corporation, at a price of $208.09, for use in TMT 1; [65]
+c) various items, purchased on February 24, 2009 from Wolseley Canada Inc., at a price of $590.34, for use in TMT 1; [66] and
+d) pneumatics equipment and related items, purchased on June 18, 2010 from Maritime Blower, at a price of US$7,358 (the Canadian equivalent of which was apparently $7,555.88), for use in TMT 1. [67]
+[54] When Stark was constructing TMT 4, Mr. Cameron was aware that TMT 5 would be constructed shortly thereafter. Accordingly, he obtained approval, when purchasing certain items for TMT 4, to purchase duplicates of those items for TMT 5. The items that were purchased in duplicate were the following:
+a) four filter housings (two housings for each TMT), purchased on November 8, 2010 from MacGregor’s, at an aggregate price of $4,239.68; [68]
+b) two vacuum chamber assemblies, two tower assemblies, two plate rings and two elliptical heads, purchased on December 23, 2010 from R.P. Hawboldt Machining Limited (“Hawboldt”), at an aggregate price of $9,671.24; [69] and
+c) two heat exchangers, purchased on December 27, 2010 from Systems Equipment Corporation (“Systems Equipment”), at an aggregate price of $8,400. [70]
+[55] The aggregate price of the items that were purchased in duplicate should have been allocated between TMT 4 and TMT 5 as follows:
+Table 2
+Supplier
+Aggregate Price
+TMT 4
+TMT 5
+MacGregor’s
+$4,239.68
+$2,119.84
+$2,119.84
+Hawboldt
+9,671.24
+4,835.62
+4,835.62
+Systems Equipment
+8,400.00
+4,200.00
+4,200.00
+Total
+$22,310.92
+$11,155.46
+$11,155.46
+(8) Revised Claim Filed by Stark
+[56] Exhibit A-2, which (as noted) contains copies of the supporting invoices in respect of Stark’s claim for ITCs and accelerated CCA, was organized on the basis of taxation year (i.e., 2009, 2010 and 2011) and, to some extent, general ledger categorization (i.e., oil purification equipment, other equipment and building). On May 11, 2018, counsel for Stark filed a coil-bound book of documents, entitled “Breakdown of Appellant’s Expenses with Receipts” (the “Breakdown Book”), which reorganized those invoices and, in essence, revised the amount of Stark’s claim for ITCs and accelerated CCA. The grouped particulars of the revised claim, as set out in the Breakdown Book, are as follows:
+Table 3
+Tab
+Description
+Amount
+1
+Expenses incurred for TMT 3
+$190,944.56
+2
+Expenses incurred for TMT 4
+294,372.47
+3
+Expenses incurred for TMT 5
+104,804.47
+4
+Expenses incurred for the building
+131,240.40
+5
+Expenses incurred re equipment for the shop
+274,182.54
+[BLANK]
+Total
+$995,544.44
+[57] The Breakdown Book also indicated that Stark was no longer claiming ITCs and accelerated CCA in respect of 14 invoices in the aggregate amount of $81,346.53, which were grouped behind Tab 6. The invoices behind Tab 6 related to many (but not all) of the items discussed above in the context of used property, living quarters, tool storage, the snowblower and the expenditures related to TMT 1 and TMT 2. While Stark is to be commended for removing those items from its claim, as I reviewed the invoices in Exhibit A-2 and compared them with the invoices in the Breakdown Book, I found several expenditures behind Tabs 1 through 5 in the Breakdown Book that, in my view, were not eligible for ITCs and accelerated CCA and that should have been removed by Stark when it revised its claim. In addition to the amounts shown by Stark behind Tab 6 of the Breakdown Book, the following items should also be excluded from the claim for ITCs and accelerated CCA in respect of the TMTs:
+Table 4
+Description
+Supplier
+Reference [71]
+TMT #
+Amount
+MCT 1600
+Megger
+45(d)
+TMT 4
+$13,727.50
+Fibreglass
+ECFG
+47(d)
+TMT 3
+258.40
+Primer, paint, etc.
+Central
+47(e)
+TMT 3
+295.55
+Tool box, etc.
+MacGregor’s
+49(c)
+TMT 3
+466.68
+Cabinet, etc.
+Canadian Tire
+49(d) [72]
+TMT 5
+1,087.08
+Safety Equipment
+Winsafe
+50
+TMT 4
+2,255.75
+Towing
+AA Towing
+52
+TMT 4 [73]
+7,000.00
+Total
+[BLANK]
+$25,090.06
+[58] Thus, the total of the ineligible amounts listed behind Tab 6 in the Breakdown Book should be increased by $25,090.96, allocated among the three TMTs as follows:
+Table 5
+Description
+TMT 3
+TMT 4
+TMT 5
+Aggregation
+MCT 1600
+$13,727.50
+[BLANK]
+$13,727.50
+Fibreglass
+$258.40
+[BLANK]
+[BLANK]
+258.40
+Primer, paint etc.
+295.55
+[BLANK]
+[BLANK]
+295.55
+Tool box, etc.
+466.68
+[BLANK]
+[BLANK]
+466.68
+Cabinet, etc.
+[BLANK]
+[BLANK]
+$1,087.08
+1,087.08
+Safety Equipment
+[BLANK]
+2,255.75
+[BLANK]
+2,255.75
+Towing
+_________
+7,000.00
+_________
+7,000.00
+Total
+$1,020.63
++ $22,983.25
++ $1,087.08
+= $25,090.06
+F. Equipment for the Shop
+[59] As indicated in Table 3 above, the invoices behind Tab 5 of the Breakdown Book are described as relating to expenses incurred in supplying equipment for the shop. There is no indication as to whether the word “shop” referred to the oil shop, the mechanics shop or the fabrication shop. Therefore, I consider the word “shop” in this context as simply being a reference to one of the shops at Stark’s premises at Bailey’s Brook. [74] The invoices behind Tab 5 of the Breakdown Book are tabulated as follows:
+Table 6
+Invoice Date
+Supplier
+Amount
+November 27, 2009
+Stellar Industrial Sales Ltd.
+$542.10
+December 12, 2011
+Grip Safety & Rescue Systems Inc.
+43,000.00
+December 29, 2011
+E-Oil Solutions Inc.
+164,000.00
+December 19, 2011
+Hawboldt
+[7,535.44
+December 30, 2011
+CEDA-Reactor Canada LP
+59,105.00
+Total
+[BLANK]
+$274,182.54
+[60] The invoice in the amount of $542.10 issued by Stellar Industrial Sales Ltd. related to hoses and fittings for Stark’s dehydrator, which was used for dehydrating hydraulic oil, turbine oil and lube oil. [75]
+[61] The invoice in the amount of $43,000 from Grip Safety & Rescue Systems Inc. pertained to a breathing air compressor, which Stark modified to make it into a dry air compressor, also referred to as a dry air generator, that was used for evacuating pipes and tanks of atmospheric air and replacing it with dry air so that the atmospheric moisture in the original air would not recontaminate processed oil. [76]
+[62] The invoice in the amount of $164,000 from E-Oil Solutions Inc. related to the cost of a manual regeneration unit that used a newer technology than a fuller’s earth tower to remove acids and sludge from oil. It was used only at Stark’s premises. It was necessary to use a TMT to supply power to, and to pump oil through, the regeneration unit. [77]
+[63] The invoice in the amount of $7,535.44 from Hawboldt was for two towers and a vacuum chamber that were used in constructing TMT 5. [78] Accordingly, the amount of $7,535.44 should be removed from the cost of the shop equipment and added to the cost of the oil processing equipment in TMT 5.
+[64] The invoice in the amount of $59,105 from CEDA-Reactor Canada LP related to the price of a coated frac tank and a spillguard berm. [79] Mr. Cameron explained that the tank was used to store oil at Bailey’s Brook. [80] The legislative provisions set out above in the context of ITCs and accelerated CCA indicate that, to qualify, property must be, in the context of these Appeals, machinery or equipment used primarily for the purpose of processing oil. As a storage tank and a spillguard berm are not machinery or equipment used to process oil, those items do not qualify for ITCs or accelerated CCA.
+[65] Accordingly, the following amounts qualify as the capital cost of qualified property (as defined in subsection 127(9) of the ITA) used for the purpose of processing oil at Stark’s premises:
+Table 7
+Invoice Date
+Supplier
+Amount
+November 27, 2009
+Stellar Industrial Sales Ltd.
+$542.10
+December 12, 2011
+Grip Safety & Rescue Systems Inc.
+[43,000.00
+December 29, 2011
+E-Oil Solutions Inc.
+164,000.00
+Total
+[BLANK]
+$207,542.10
+G. Further Recomputation for TMT 4 and TMT 5
+[66] As noted in Table 2 above, because some of the components for TMT 5 were purchased at the same time as the corresponding components for TMT 4, the cost of TMT 4 was overstated, and the cost of TMT 5 was understated, by $11,155.46. Therefore, combining this adjustment with the adjustment set out in Table 5 above, the aggregate cost of the oil processing equipment in TMT 4 should be reduced by $34,138.71 (i.e., $22,983.25 + $11,155.46). As the amount calculated behind Tab 2 in the Breakdown Book for TMT 4 is $294,372.47, after taking the $34,138.71 reduction into account, the cost of the oil processing equipment in TMT 4 was $260,233.76 (i.e., $294,372.47 – $34,138.71).
+[67] The cost of the oil processing equipment in TMT 5 should be increased by $11,155.46 (representing the cost of equipment mistakenly allocated to TMT 4, as explained in paragraphs 54 and 55 above) and by $7,535.44 (representing the cost of two towers and a vacuum chamber that were mistakenly allocated to the shop equipment, as explained in paragraph 63 above), and should be decreased by $1,087.08 (representing the cost of the tool storage cabinet, as explained in subparagraph 49(d) and footnote 59 above). As the aggregate cost of the oil processing equipment for TMT 5, as shown behind Tab 3 in the Breakdown Book, was $104,804.47, with these adjustments, the recalculated cost of the oil processing equipment in TMT 5 should be $122,408.29, tabulated as follows:
+Table 8
+Stark’s computation of TMT 5 costs
+$104,804.47
+Costs misallocated to TMT 4
+11,155.46
+Costs misallocated to shop
+7,535.44
+Cost of storage cabinet
+(1,087.08)
+Recalculated cost for TMT 5
+$122,408.29
+H. New Building
+[68] In 2011, Stark constructed the fabrication shop at a cost of $131,240.40. [81] Mr. MacEachern testified that Stark built the fabrication shop to manufacture oil processing equipment. [82] He also testified that it was his plan to build oil processors for sale (as well as for Stark’s own use). [83] However, during cross-examination, Mr. MacEachern stated that during the period 2009 to 2011 Stark did not build any TMTs for sale, [84] and subsequently conceded that Stark had not (as of the date of the hearing) sold any TMTs, [85] although he stated that, at the time of the hearing, TMTs were listed for sale on Stark’s website. [86] When asked during cross-examination whether, during the period from 2009 to 2011, Stark had a business plan for the sale of TMTs, Mr. MacEachern conceded that he did not have physical documents with him, but said that he could find them on his computer (but did not actually do so). [87] No copy of a business plan was produced during Mr. MacEachern’s re-examination or at any time during or after the hearing.
+[69] The document entitled “Stark Equipment Overview,” which was entered as Exhibit A-4 and which appears to be a document prepared for advertising purposes, contains a detailed list of Stark’s equipment, but does not make any mention of that equipment being available for sale. The first three pages of the document describe the equipment that Stark could bring to a customer’s premises. The fourth and last page of the document describes Stark’s storage and transport equipment. Similarly, none of the other documents entered into evidence give any indication that the TMTs were for sale.
+[70] As indicated above, Mr. Cameron testified that the fabrication shop was built to house the fabricating facility for the TMTs and that, although there had been talk of eventually getting into building TMTs for sale, that idea had fallen through. [88] Mr. Cameron also stated that no oil was processed in the fabrication shop; it was used only for the manufacture of TMTs. [89]
+[71] Accordingly, it is my finding that the fabrication shop was not constructed to be used by Stark primarily for the purpose of manufacturing TMTs for sale or for the purpose of processing oil for sale. Rather, the fabrication shop was constructed to be used by Stark primarily for the purpose of building TMTs for Stark’s own use, and not for sale. While there may have been some thought of eventually selling TMTs, that was not the primary purpose for which the fabrication shop was constructed. Accordingly, no ITCs or accelerated CCA are available in respect of the cost of constructing the fabrication shop.
+I. Fundamental Dispute
+[72] As the presentation of evidence progressed during the hearing and as submissions were made by counsel for the Parties, it became apparent that, after excluding the Property that clearly did not qualify for ITCs or accelerated CCA (as described above), the major areas of disagreement between Stark and the Crown related to:
+a) Stark’s intention and purpose in acquiring the Property, i.e., the use to which Stark intended to put the Property;
+b) the primary purpose for which the Property was actually used; and
+c) the ownership of the processed oil, i.e., whether the processed oil belonged to customers of Stark (such that the oil could not have been sold by Stark after it was processed), or belonged to Stark (such that Stark sold its own oil after it was processed).
+J. The CRA’s View
+[73] It is my understanding that the CRA agrees that any new Property that was acquired by Stark in 2009, 2010 or 2011, that was clearly identified, and that was to be used by Stark in Canada primarily for the purpose of processing oil for sale qualified for the ITCs and the accelerated CCA that were claimed by Stark on its respective income tax returns. [90] In fact, during his evidence-in-chief, a CRA appeals officer, David Dalton, stated:
+Q. … Now, in all this correspondence that you and Mr. Bourne [another appeals officer] exchanged with the appellant and the appellant’s representatives, … when, if ever, did the appellant put forward an argument about the TMTs in relation to oil sales?
+A. I’ve never received an argument.
+Q. … So if we circle back to the ultimate conclusions that you drew, the TMTs were not used primarily in oil processing for sale, correct?
+A. That’s correct.
+Q. … And so, now, you were aware that they had an oil resale or sales business, though; I think you’re [sic] talked about that.
+A. Yes….
+Q. … And what, if anything, did you know about the kind of equipment that they used in that part of their business?
+A. I knew that it was reasonable, or logical that equipment had to be used in that process or something maybe similar to it, but I did not receive anything specific to what was used in that side of the business.
+Q. … And did you ask for any information about that equipment?
+A. I did not, as I was told that the expenditures and the ITC at issue was pertaining to the TMTs….
+Q. ... Okay, so let’s assume for the sake of argument that the appellant did use some type of equipment for oil processing at their Nova Scotia location.
+A. Yes.
+Q. And then sold this oil to third party customers.
+A. Yes.
+Q. Could this entitle the appellant to investment tax credits?
+A. Absolutely. [91]
+Mr. Dalton’s initial comments in the above exchange make it clear that, as he reviewed Stark’s objection, Stark had not provided him with a complete description of the various aspects of its business, the nature of its equipment and the manner in which it was using some of that equipment to process oil for sale.
+K. Jurisprudence Concerning Qualifying Criteria
+[74] By the end of the hearing it seemed to me that at least some of Stark’s equipment was actually used by Stark in Canada for the purpose of processing its own oil for sale. Based on the above excerpt from the testimony of Mr. Dalton, it appears that the Crown concedes that, to the extent that Stark acquired new equipment to be used by it in Canada primarily for the purpose of processing oil for sale, it qualified for the ITCs and the accelerated CCA that it had claimed. The unresolved dispute relates to the italicized conditions in the preceding sentence. In other words, the issue is whether that equipment was acquired by Stark with the intention to use the equipment primarily for the purpose of processing oil for sale.
+[75] The Bois Daaquam case indicated that the phrase “to be used by [the taxpayer] in Canada primarily for the purpose of,” as found in paragraph (c) of the definition “qualified property” in subsection 127(9) of the ITA, “sets out a test of intention.” [92] In that case, Justice Tardif stated that, when applying that test, a taxpayer’s intention at the time of deciding to acquire a particular asset must be assessed. Justice Tardif also recognized the inherent difficulties in determining the intention of a business person at any given time, as most people in business continually plan for contingencies and changing circumstances. He expressed it this way:
+23. The facts must be analyzed so as to discover the intention that prevailed when the property was acquired. Trying to determine intention is a difficult exercise that only very rarely allows one to draw any absolute conclusion, especially since an informed business decision generally contemplates various alternatives that may affect or change the nature or focus of the initial intention.
+24. Moreover, economic reality is such that the decision makers and actors who form the intention preceding a decision must deal with changing or constantly evolving realties dictated by the speed of technological developments and by the modern economy. [93]
+[76] Justice Tardif also considered the meaning of the word “primarily,” as used in the phrase “to be used by him [i.e., the taxpayer] in Canada primarily for the purpose of.” Justice Tardif determined that the word “primarily” concerns the nature of a taxpayer’s operations or a business’s field of activity, and not the place of use. [94] Quoting from the Capilano International case, [95] Justice Tardif indicated that the word “primarily” modifies the purpose for which the equipment was to be used. [96]
+[77] In Setrakov Construction, in interpreting the phrase “to be used by him [i.e., the taxpayer],” Justice Teskey stated that “the important element is the intention of the purchaser at the time of purchase.” [97] In a somewhat similar context, Justice Rip (as he then was) indicated in Dragon Construction that the determination of the reasonably expected use of equipment is a question involving “a conclusion as to the future which must be made at the time the equipment is acquired.” [98]
+[78] Dealing with a similar issue, Justice Lamarre Proulx stated:
+… according to [Setrakov Construction and Dragon Construction], it is the purchaser’s intention at the time of acquisition of the property that counts, not the use of that property…. I agree with these decisions of our Court that the actual usage is not a condition set by the Act. What is a condition is that the equipment be acquired for the purposes of use in the context of manufacturing and processing activities. [99]
+[79] There are similarities between certain aspects of the current Appeals and the appeal that was the subject of the Capilano International case. In the latter case, the taxpayer acquired new state-of-the-art telemetric seismic equipment, which had an expected useful life of 10 to 15 years (i.e., while the equipment would not wear out, it would become technologically obsolete as better equipment was developed). The taxpayer purchased the new seismic equipment in order to qualify for a two-year contract in Jordan, after which the taxpayer expected to use the equipment for at least another eight years in Canada. As it turned out, the project in Jordan ended after 21 months, whereupon the taxpayer brought the seismic equipment back to Canada, used it for approximately six months and then, because of a very favourable trade-in offer made by the equipment’s manufacturer, traded in that equipment (for a trade-in value equal to 80% of its cost) in purchasing even newer equipment. The issue was whether the initial seismic equipment was acquired by the taxpayer to be used by it in Canada primarily for the purpose of exploring for petroleum or natural gas. Justice Mogan held that, notwithstanding the initial use of the equipment for 21 months in Jordan, given that the equipment had a working life of at least 10 years, at the time the taxpayer purchased the equipment, the intention was that the equipment “was to be used by the [taxpayer] ‘in Canada primarily for the purpose of exploring for petroleum or natural gas’,” [100] with the result that the ITC was available.
+L. Application of Principles
+[80] In this regard, it is to be noted that, when a TMT was being used at a customer’s job site, the oil processing equipment in the TMT was often idle. Mr. Cameron testified that, on most jobs at customers’ sites, the actual time that the oil processing equipment in a TMT was used represented “only maybe 20 per cent of the job.” [101] The rest of the job involved maintaining, repairing, building or servicing the particular transformer. [102] Elsewhere, Mr. Cameron stated that, on average, it would take two weeks to build and test a new transformer and only two days, using the oil processing equipment in a TMT, to vacuum fill the transformer with oil. [103] Thus, when a TMT was at a customer’s job site, the actual use of the oil processing equipment in the TMT represented no more than 25% (and perhaps significantly less) of the total time that the TMT was at that site.
+[81] On the other hand, when a TMT was at Stark’s premises at Bailey’s Brook, the oil processing equipment in the TMT was being used to process Stark’s oil for sale. During much of the Particular Period, Stark’s oil shop did not have its own stand-alone processing unit inside, with the result that all of the oil processing at Stark’s premises was done through the TMTs. Even when the regeneration unit was eventually acquired, a TMT was required to pump the oil through the unit. As Mr. Cameron put it, “There was always oil moving at the shop at that time,” and “there would be at least … two TMTs running down there [i.e., at the shop].” [104]
+[82] Based on the evidence, it is my finding that TMT 1 and TMT 2 were the TMTs usually sent by Stark to customers’ job sites. It is also my finding that the oil processing equipment in TMT 3 was constructed primarily for the purpose of using it to process Stark’s oil at Stark’s premises at Bailey’s Brook. TMT 3 may have been used on occasion to process oil at a customer’s transformer site, but that was not the primary purpose for which it was constructed. Rather, when Stark constructed TMT 3, Stark’s intention was to use the oil processing equipment in TMT 3 primarily for the purpose of processing its own oil for sale. [105] It is my understanding of the evidence that, as it turned out (although it is not determinative for the resolution of these Appeals), the actual primary use of the oil processing equipment in TMT 3 corresponded with the intended primary use. [106]
+[83] Turning to TMT 4, during the Particular Period, according to Mr. Cameron, a significant amount of oil was being processed at Stark’s premises at Bailey’s Brook, requiring the use of more than one TMT. Based on the evidence, it is my finding that the oil processing equipment in TMT 4 was also constructed to be used by Stark at its premises at Bailey’s Brook primarily for the purpose of processing Stark’s oil for sale. After TMT 4 had been tested and had processed some oil at Bailey’s Brook, Stark sent TMT 4 to Bruce Power’s nuclear power facility to fulfill the contract with Areva. However, as that was expected to be a 10-month contract, the situation was similar to that of the seismic equipment in Capilano International, in that Stark expected to bring TMT 4 back to its premises at Bailey’s Brook and continue primarily to process its own oil for sale, which it did.
+[84] TMT 5 was not in quite the same situation as TMT 4, given that, while TMT 5 was still in the early-construction phase, Bruce Power (or perhaps Areva) requested that the standard TMT design be modified so as to customize TMT 5 for use at a nuclear power facility. This might suggest that Stark intended to use TMT 5 primarily for the purpose of processing oil belonging to customers (particularly Bruce Power) at the customers’ transformer sites. However, given that the contract between Stark and Areva was only for 10 months, and given that the expected working life of TMT 5 would undoubtedly have been far greater than that, I find that the oil processing equipment in TMT 5 also comes within the principle established by Capilano International. In other words, the intention of Stark, in constructing the oil processing equipment in TMT 5, was to use it at its own premises primarily for the purpose of processing its own oil for sale.
+M. Property that Qualifies
+[85] Based on my review of the evidence, it is my understanding that the oil processing equipment in TMT 1 and TMT 2 was used primarily to process customers’ oil at their premises. The oil processing equipment in TMT 3, TMT 4 and TMT 5 was constructed primarily to process Stark’s oil at its premises, with the processed oil then being sold by Stark to various buyers. When TMT 3, TMT 4 or TMT 5 was taken to a job site, the oil processing performed at that site represented no more (and often less) than 20% to 25% of the work performed by the TMT’s crew at the site.
+[86] A distinction must be drawn between a TMT as a whole and the oil processing equipment in the TMT. Only the latter (i.e., the oil processing equipment per se) satisfied the legislative provisions set out above. [107]
+[87] Accordingly, it is my conclusion that the new (as distinct from used) components of TMT 3, TMT 4 and TMT 5 that were to be used for processing oil (and not for living quarters, tool storage, safety, snow removal and other non-qualifying purposes) constituted qualified property, as defined in subsection 127(9) of the ITA, for the purposes of claiming ITCs and accelerated CCA.
+[88] As discussed above, the oil processing equipment that was acquired by Stark in 2009 and 2011 for use in the oil shop or the mechanics shop and that is described behind Tab 5 in the Breakdown Book also constituted qualified property. However, as explained above, two of the items listed behind Tab 5 should not have been so listed. In particular, the storage tank and spillguard berm were not oil processing equipment, and the fuller’s earth towers and vacuum chamber recorded as shop equipment were actually used in TMT 5.
+[89] In tabulated form, the qualifying amounts expended in respect of the oil processing equipment in each of the three TMTs and the shop are shown below:
+Table 9
+Property
+Capital Cost
+as Claimed
+Disallowed
+or Adjusted
+Qualifying
+Capital Cost
+TMT 3
+$190,944.56
+($1,020.63)
+$189,923.93
+TMT 4
+$294,372.47
+($34,138.71)
+$260,233.76
+TMT 5
+$104,804.47
+$17,603.82
+$122,408.29
+Shop
+$274,182.54
+($66,640.44)
+$207,542.10
+N. Classification for CCA Purposes
+[90] Having found that the new oil processing equipment in TMT 3, TMT 4 and TMT 5 and the shop constituted qualified property, i.e., it was acquired by Stark and was to be used by Stark in Canada primarily for the purpose of processing oil for sale, it follows that the classification by Stark of that property as being either Class 29 or Class 43, as the case may be, was correct.
+O. Available-for-Use Rule
+[91] During the hearing, I asked counsel for each of the Parties about the question of when the Property was considered to have become available for use by Stark. [108] In turn, this required a determination of when the Property was first used by Stark for the purpose of earning income. [109]
+[92] It appears that the question of when the Property became available for use was not viewed by the Parties as seriously being in issue. The assumptions of fact set out in paragraph 8 of the Amended Reply do not contain an assumption to the effect that the Property was not available for use on the respective dates set out in Table 1 in paragraph 10 above. At the hearing, counsel for the Crown stated that the CRA and she did not really see the available-for-use question as the primary issue. [110] When I raised the question during the hearing, counsel for Stark stated that it was the first time that it had been raised or considered by either side. [111]
+[93] I have considered the dates stated in the respective income tax returns, as tabulated in paragraph 10 above, indicating when the various components of the Property became available for use, and I have also noted the testimony of Mr. MacEachern confirming those dates in part. [112] As the Minister did not assume that the various components of the Property did not become available for use on the respective dates set out in the income tax returns and as there was no evidence to contradict those dates, I have concluded that the various components of the Property were available for use on the dates stated in the income tax returns.
+P. Chronological Reconciliation
+[94] I encountered a question, in my own mind, in reconciling the available-for-use dates shown in Part 4 of Schedule 31 to Stark’s income tax returns for 2009, 2010 and 2011, as shown in Table 1 above, with the TMT completion dates given in the evidence. As would be expected, all of the available-for-use dates are in 2009, 2010 or 2011. As well, Mr. MacEachern testified that TMT 3, TMT 4 and TMT 5 were built in 2009, 2010 and 2011. [113] On the other hand, Mr. Cameron testified that TMT 3, TMT 4 and TMT 5 came online or were completed in 2010, 2011 and 2012 respectively. [114] This possible discrepancy was not addressed during the hearing.
+[95] What might appear to be a chronological discrepancy may possibly be resolved by noting that each TMT was a semi-trailer outfitted with tool storage containers and fixtures, living quarters and multiple pieces of movable oil processing equipment, such as vacuum chambers, booster pumps, filters, fuller’s earth towers, degasifiers and sodium dispersion units, such that the individual components may have been built and available for use on the dates set out in Table 1, even though the particular TMT, as a whole, may not have been completed until some later date. Furthermore, the individual pieces of oil processing equipment were mounted on separate skids so that they were interchangeable. [115] Thus, Mr. Cameron’s testimony is not necessarily inconsistent with the available-for-use dates reported in the income tax returns for 2009, 2010 and 2011.
+[96] Having found that the oil processing equipment in each of TMT 3, TMT 4 and TMT 5 was qualified property, I do not propose to explore further at this time the taxation years in which the ITCs and accelerated CCA were claimed. If the Parties are unable to resolve any chronological issues that might arise in giving effect to these Reasons and the accompanying Judgment, they may contact the Court to request an opportunity to make further submissions and, if necessary, present additional evidence.
+VII. CONCLUSION
+[97] The Appeals are allowed and the Reassessments are referred back to the Minister for reconsideration and reassessment on the basis that Stark is entitled to ITCs and accelerated CCA in respect of the new oil processing equipment in TMT 3, TMT 4 and TMT 5 and the shop (as described above), but only to the extent permitted by these Reasons. For greater certainty, no ITCs or accelerated CCA are available in respect of the fabrication shop or the components of the TMTs or the shop equipment that were not used for the purpose of processing oil for sale, including living quarters, tool storage, safety equipment, the snowblower, the trailer-towing expenditure and oil storage, as well as any equipment that had been used by a previous owner before being acquired by Stark.
+[98] As success has been divided, I am not inclined to award costs to either Party. In deciding not to award costs in favour of Stark, I also note that, during the early and intermediate stages of the CRA’s consideration of Stark’s claim for ITCs and accelerated CCA, Stark, on more than one occasion, provided incorrect information to the CRA, which misdirected the CRA’s review of the claim.
+Signed at Ottawa, Canada, this 1st day of November 2019.
+‶Don R. Sommerfeldt″
+Sommerfeldt J.
+CITATION:
+2019 TCC 248
+COURT FILE NO.:
+2016-2624(IT)G
+STYLE OF CAUSE:
+STARK INTERNATIONAL INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATES OF HEARING:
+February 26 and 27, 2018 and September 18, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+November 1, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Daniel F. Wallace
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Daniel F. Wallace
+Firm:
+McInnes Cooper
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] “Transformer maintenance trailer” and “TMT” were terms coined by Stark’s employees.
+[2] Exhibit A-1, Tab 1, p. 16; Tab 2, p. 61; and Tab 3, p. 111.
+[3] The full column heading is Date Available for Use.
+[4] The full column heading is Date Available for Use.
+[5] As discussed below, it is my understanding that the building constructed in 2011 was not used to process oil.
+[6] Transcript, February 26, 2018, p. 43, lines 2-6.
+[7] Transcript, February 27, 2018, p. 69, lines 17-18.
+[8] Transcript, February 27, 2018, p. 70, lines 17-19.
+[9] Transcript, February 27, 2018, p. 68, lines 24-28.
+[10] Transcript, February 27, 2018, p. 69, lines 6-11.
+[11] Transcript, February 27, 2018, p. 72, lines 6-14.
+[12] Exhibit R-3.
+[13] Transcript, February 27, 2018, p. 64, line 28 to p. 66, line 17.
+[14] The mistaken reference by the CFO in her chart to TMTs 4, 5 and 6 also resulted in a similar mistake in the corresponding references to the TMTs in the letter sent by Stark’s then counsel, i.e., Exhibit R-3.
+[15] Transcript, February 26, 2018, p. 14, lines 2-4; p. 15, lines 1-2; p. 94, lines 6-10; and p. 115, line 18 to p. 117, line 16; and Transcript, February 27, 2018, p. 68, line 24 to p. 69, line 11.
+[16] Transcript, February 27, 2018, p. 69, line 12 to p. 71, line 11.
+[17] Exhibit R-3, p. 2; and Transcript, February 26, 2018, p. 119, lines 11-25. Notwithstanding that Mr. MacEachern referred to TMT 5 in his testimony, it is my understanding, based on the testimony of Mr. Cameron, that it was actually TMT 4 that was initially sent to Bruce Power’s facility.
+[18] Transcript, February 27, 2018, p. 71, lines 12-27.
+[19] Transcript, February 26, 2018, p. 119, lines 22-25.
+[20] Exhibit R-3.
+[21] Transcript, February 27, 2018, p. 87, lines 14-25.
+[22] Transcript, February 27, 2018, p. 87, lines 3-10.
+[23] Transcript, February 27, 2018, p. 4, lines 11-28.
+[24] Transcript, February 27, 2018, p. 67, line 28 to p. 68, line 6.
+[25] Transcript, February 27, 2018, p. 68, lines 7-13. The TMTs constructed after the Particular Period, i.e., TMT 6, TMT 7 and TMT 8, are not the subject of these Appeals.
+[26] Transcript, February 27, 2018, p. 68, lines 16-22.
+[27] Transcript, February 27, 2018, p. 77, lines 13-23; and p. 78, lines 4-10; and p. 89, lines 1-4.
+[28] Transcript, February 27, 2018, p. 89, lines 4-12.
+[29] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[30] There was no dispute, nor any submissions, concerning the applicable “specified percentage,” which is defined in subsection 127(9) of the ITA.
+[31] Income Tax Regulations, CRC, c. 945.
+[32] See paragraph 4600(2)(c) of the ITR.
+[33] See paragraph 4600(2)(k) of the ITR.
+[34] I have omitted the numerous provisions of the description of Class 29 which are not relevant for the purposes of these Appeals.
+[35] Will-Kare Paving & Contracting Limited v The Queen, [2000] 1 SCR 915, 2000 SCC 36, ¶19, 20, 22, 28 & 29.
+[36] Exhibit R-1, Tab 8, p. 8.
+[37] Exhibit R-1, Tab 8, p. 6-7.
+[38] Exhibit R-1, Tab 7, p. 2-3.
+[39] Affidavit of Scott MacEachern dated and filed May 24, 2016.
+[40] Notice of Appeal attached to the application filed on May 24, 2016. The Order granting the application and confirming that the Notice of Appeal was validly filed was dated August 19, 2016.
+[41] See paragraph 2 above.
+[42] Amended Notice of Appeal, dated and filed September 15, 2017.
+[43] Exhibit R-1, Tab 1.
+[44] See paragraph 10 above.
+[45] Exhibit A-2, Tab 3, p. 40; Transcript, February 27, 2018, p. 31, lines 1-15; p. 50, lines 12-13; and p. 62, lines 15-20. Although all of the trailers used to construct the TMTs were second-hand (Transcript, February 27, 2018, p. 31, lines 10-11), it appears that the cost of only one of those trailers was included in Stark’s claim for ITCs and accelerated CCA (Transcript, February 27, 2018, p. 62, lines 15-20).
+[46] Exhibit A-2, Tab 8, p. 411; Transcript, February 26, 2018, p. 34, line 24 to p. 35, line 21; and Transcript, February 27, 2018, p. 54, lines 3-10.
+[47] Exhibit A-2, Tab 12, p. 447; Transcript, February 26, 2018, p. 42, lines 1-11; and Transcript, February 27, 2018, p. 62, lines 21-23.
+[48] Exhibit A-2, Tab 7, p. 408 & 410; and Transcript, February 27, 2018, p. 53, line 20 to p. 54, line 1.
+[49] Exhibit A-2, Tab 3, p. 23; and Transcript, February 27, 2018, p. 25, lines 26-28.
+[50] Exhibit A-2, Tab 3, p. 25; and Transcript, February 27, 2018, p. 26, lines 20-24.
+[51] Exhibit A-2, Tab 3, p. 30; and Transcript, February 27, 2018, p. 28, line 24 to p. 29, line 1.
+[52] Exhibit A-2, Tab 3, p. 41; and Transcript, February 27, 2018, p. 31, lines 19-28.
+[53] Exhibit A-2, Tab 3, p. 56; and Transcript, February 27, 2018, p. 35, lines 2-5.
+[54] Transcript, February 27, 2018, p. 88, lines 20-25. Mr. Cameron did not indicate how the living quarters factored into the fractional apportionment of the TMTs.
+[55] Transcript, February 27, 2018, p. 87, line 26 to p. 88, line 18.
+[56] Exhibit A-2, Tab 3, p. 70. Another invoice, dated October 22, 2009, from NAPA shows a credit of $999.99 and a quantity of -1, perhaps suggesting a return of a tool box; see Exhibit A-2, Tab 3, p. 35; but see also Transcript, February 27, 2018, p. 29, lines 24-27 (where there is no mention of a tool box being returned).
+[57] Exhibit A-2, Tab 3, p. 38; and Transcript, February 27, 2018, p. 30, lines 14-21.
+[58] Exhibit A-2, Tab 7, p. 355. Here and elsewhere in these Reasons, if the number of a particular TMT was not shown on the particular invoice in Exhibit A-2 and was not given by Mr. Cameron in his testimony, I have sometimes consulted the list of expenses for each TMT, as set out behind the various tabs in the Breakdown Book, as defined below.
+[59] Exhibit A-2, Tab 12, p. 450; and Transcript, February 27, 2018, p. 63, lines 19-25. The Canadian Tire receipt showing the cabinet also showed a diet coke and a bottle deposit at a combined price of $1.99 (i.e., $1.89 + $0.10), which (although minimal) appears to have been improperly included in the claim for ITCs and accelerated CCA. The total of the Canadian Tire receipt (before HST) was $1,087.08, all of which was included by Stark in computing the cost of TMT 5.
+[60] Exhibit A-2, Tab 10, p. 435; and Transcript, February 27, 2018, p. 60, lines 6-8.
+[61] Exhibit A-2, Tab 12, p. 445; and Transcript, February 27, 2018, p. 62, lines 2-6.
+[62] Exhibit A-2, Tab 12, p. 446; and Transcript, February 27, 2018, p. 31, lines 5-11.
+[63] Transcript, February 27, 2018, p. 62, lines 8-13; and p. 62, line 27 to p. 63, line 9.
+[64] Exhibit A-2, Tab 3, p. 12; and Transcript, February 27, 2018, p. 21, lines 6-10.
+[65] Exhibit A-2, Tab 3, p. 136; and Transcript, February 27, 2018, p. 50, lines 13-14.
+[66] Exhibit A-2, Tab 3, p. 137; and Transcript, February 27, 2018, p. 50, lines 13-14.
+[67] Exhibit A-2, Tab 7, p. 370.
+[68] Exhibit A-2, Tab 7, p. 403; and Transcript, February 27, 2018, p. 51, line 13 to p. 52, line 28.
+[69] Exhibit A-2, Tab 7, p. 405; and Transcript, February 27, 2018, p. 53, lines 15-19.
+[70] Exhibit A-2, Tab 7, p. 406; and Transcript, February 27, 2018, p. 53, lines 16-19.
+[71] The references listed in this column are cross-references to paragraphs or subparagraphs of these Reasons, where the particular expenditures are discussed.
+[72] The reader is also referred to footnote 59 above, which explains the reason for which the amount of the reduction is $1,087.08 rather than $1,085.09.
+[73] As noted above, according to the testimony of Mr. Cameron, the towing charge actually related to TMT 5, but, as the Appellant treated $7,000 of the $7,500 towing charge as an expenditure in respect of TMT 4, for the purpose of reducing the total eligible expenditures in respect of TMT 4, I have used the same categorization. As well, I have reduced those expenditures by only $7,000, rather than by $7,500.
+[74] Given that no oil was processed in the fabrication shop (see paragraph 70 below), the shop in question was likely the oil shop or the mechanics shop.
+[75] Transcript, February 27, 2018, p. 19, lines 9-18; and p. 50, lines 4-5.
+[76] Transcript, February 27, 2018, p. 54, line 26 to p. 56, line 4.
+[77] Transcript, February 27, 2018, p. 56, line 6 to p. 57, line 7.
+[78] Transcript, February 27, 2018, p. 57, lines 8-16.
+[79] Exhibit A-2, Tab 12, p. 443.
+[80] Transcript, February 27, 2018, p. 60, line 19 to p. 61, line 18.
+[81] This amount is taken from the table behind Tab 4 in the Breakdown Book. Stark’s general ledger shows that the building cost was $131,373.05 (Exhibit A-2, Tab 13, p. 451), and the amount entered under the heading “Qualified Property” in Part 4 of Schedule 31 to Stark’s income tax return for 2011 was $131,373 (Exhibit A-1, Tab 3, p. 111).
+[82] Transcript, February 26, 2018, p. 43, lines 5-6; and p. 44, lines 11-16.
+[83] Transcript, February 26, 2018, p. 43, lines 2-5.
+[84] Transcript, February 26, 2018, p. 146, lines 13-16.
+[85] Transcript, February 26, 2018, p. 147, lines 5-10.
+[86] Transcript, February 26, 2018, p. 147, lines 12-13.
+[87] Transcript, February 26, 2018, p. 146, line 22 to p. 147, line 4.
+[88] Transcript, February 27, 2018, p. 67, line 25 to p. 68, line 3.
+[89] Transcript, February 27, 2018, p. 68, lines 21-22.
+[90] Respondent’s Written Submissions, p. 10, ¶56-59.
+[91] Transcript, February 27, 2018, p. 128, line 15 to p. 129, line 26.
+[92] Bois Daaquam Inc. v The Queen, 2000 DTC 2452 (Fr.), [2002] 1 CTC 2650 (En.) (TCC), ¶21.
+[93] Ibid., ¶23-24.
+[94] Ibid., ¶29.
+[95] Capilano International Inc. v The Queen, [1996] 1 CTC 2254, 95 DTC 915 (TCC), ¶22.
+[96] Bois Daaquam, supra note 92, ¶29.
+[97] Setrakov Construction Ltd. v MNR, [1989] 2 CTC 2147, 89 DTC 396 (TCC), at CTC 2150, DTC 397, ¶14.
+[98] Dragon Construction Ltd. v MNR, [1989] 2 CTC 2265, 89 DTC 464 (TCC), at CTC 2268, DTC 467, ¶16.
+[99] Produits L.B. (1987) Ltée. v The Queen, [1993] 2 CTC 2625, 93 DTC 1541 (TCC), at CTC 2633, DTC 1547, ¶41.
+[100] Capilano International, supra note 95, ¶23.
+[101] Transcript, February 27, 2018, p. 77, lines 14-15. Later in the same exchange (p. 78, lines 9-10), Mr. Cameron stated “probably about 20, 25 per cent would be actual use, having the machine running.”
+[102] Transcript, February 27, 2018, p. 77, lines 16-23.
+[103] Transcript, February 27, 2018, p. 89, lines 1-12. If, by saying “two weeks,” Mr. Cameron meant 14 working days, the oil processing equipment was used for only 14% of the total job time. If he meant 10 working days, the oil processing equipment was used for 20% of the total job time.
+[104] Transcript, February 27, 2018, p. 69, line 14 to p. 71, line 5. As Mr. Cameron colourfully put it, a “TMT would have touched every –– every drop of that oil…”; Transcript, February 27, 2018, p. 81, lines 21-22.
+[105] Transcript, February 26, 2018, p. 36, lines 14-18; and p. 84, lines 1-19.
+[106] Transcript, February 26, 2017, p. 117, lines 13-15; and Transcript, February 27, 2019, p. 69, line 24 to p. 71, line 11.
+[107] See paragraphs 28-30 above.
+[108] See subsections 13(26) and 127(11.2) of the ITA.
+[109] See paragraph 13(27)(a) of the ITA.
+[110] Transcript, February 27, 2018, p. 42, lines 8-9.
+[111] Transcript, February 27, 2018, p. 43, lines 26-28.
+[112] Transcript, February 26, 2018, p. 26, line 22 to p. 27, line 4. In direct-examination, Mr. MacEachern only confirmed the available-for-use dates for 2009.
+[113] Transcript, February 26, 2018, p. 14, lines 2-3; p. 45, lines 22-24; and p. 94, lines 6-10.
+[114] Transcript, February 27, 2018, p. 68, line 24 to p. 69, line 11.
+[115] Transcript, February 27, 2018, p. 12, lines 15-19.

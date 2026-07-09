@@ -1,0 +1,129 @@
+Title: Allisen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30605/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-508-30605-allisen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-11-18
+
+# Allisen c. La Reine
+
+- Citation: 2011 CCI 508
+- Decision date: 2011-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7160, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allisen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-18
+Référence neutre
+2011 CCI 508
+Numéro de dossier
+2009-3948(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3948(IT)I
+ENTRE :
+BROOKS ALLISEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 6 octobre 2011, à Victoria (Colombie‑Britannique)
+Devant : L’honorable juge François Angers
+Comparutions :
+Représentant de l’appelant :
+R.G. Allen
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2011.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 13e jour de décembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2011 CCI 508
+Date : 2011118
+Dossier : 2009-3948(IT)I
+ENTRE :
+BROOKS ALLISEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appel en cause porte sur l’année d’imposition 2006 de l’appelant. Dans sa déclaration de revenu pour cette année, l’appelant a déclaré et demandé une déduction à l’égard d’une perte au titre d’un placement d’entreprise (la « PTPE ») de 25 000 $. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelant, où il a refusé la déduction demandée pour la PTPE et accordé une déduction pour perte en capital de 25 000 $.
+[2] En octobre 2002, l’appelant est allé à une conférence à Vancouver, où tous les participants ont assisté à une présentation visant à les convaincre d’investir dans une entreprise en tant qu’associés. Cette entreprise avait été désignée par le nom Chivas et, plus précisément, celui de Chivas Growth Fund Limited Partnership (« CGFLP »). La présentation a été donnée par M. Michael Ruge, qui, tout au long de la période pertinente, a été le seul actionnaire d’une société qui était connue sous le nom de Chivas Hedge Fund Ltd., mais qui était effectivement exploitée sous le nom de CGFLP.
+[3] Plus tard, l’appelant a discuté avec M. Ruge quant à la possibilité d’investir dans Chivas. L’appelant a reçu des instructions à ce sujet et il a effectivement reçu une lettre datée du 24 octobre 2002 écrite par M. Ruge, à titre de président de Chivas Growth Fund Inc. – ce qui semble être une deuxième société – où il expliquait que l’appelant avait deux options d’investissement. Cette lettre faisait aussi état d’un cumul annuel du rendement du capital investi fort intéressant.
+[4] L’appelant a reconnu franchement qu’il n’est pas certain de la nature de son placement et, plus précisément, il a dit qu’il ne savait pas s’il achetait des actions d’une société ou des parts d’une société de personnes. De toute manière, les documents déposés en preuve au procès démontrent que, à un moment donné, l’appelant a signé un bulletin de souscription pour acquérir 500 parts de la société en commandite CGFLP, au prix unitaire de 50 $, pour un total de 25 000 $. Le 28 novembre 2002, l’appelant a fait deux chèques totalisant 25 000 $ à l’ordre de CGFLP. Le lendemain, CGFLP a délivré un reçu pour ce montant à l’appelant. Il est intéressant de noter que, dans la lettre datée du 24 octobre 2002 qui avait été envoyée à l’appelant, il était expliqué que, le 1er novembre, le placement minimal allait passer de 25 000 $ à 100 000 $ pour les investisseurs de la Colombie‑Britannique et de l’Alberta. L’appelant réside en Colombie‑Britannique.
+[5] De plus, ces documents établissent clairement que l’entreprise de CGFLP était décrite de la manière suivante (pièce A‑4) :
+[traduction]
+La société en commandite vise à ce que les conseillers fassent l’acquisition et la négociation de titres par diverses techniques de négociation au moyen du produit net du présent placement et des fonds en caisse.
+[6] L’appelant a effectivement reçu des relevés de CGFLP pour une partie de l’année 2003 au sujet de son placement. Les sommes investies par l’appelant ont été converties en devises américaines et des détails ont été donnés quant au rendement de son capital investi. En décembre 2002, la Commission des valeurs mobilières de la Colombie‑Britannique (la « CVMCB ») a ordonné la suspension des opérations sur les titres de CGFLP jusqu’à ce que cette entité dépose une notice d’offre et un rapport sur le placement dans la forme exigée. Cette ordonnance a ensuite été modifiée afin de permettre à CGFLP de rembourser en espèces le prix d’achat de ses titres.
+[7] L’appelant a ensuite cherché à récupérer son argent auprès de M. Ruge, mais ce dernier, qui faisait alors l’objet d’une enquête de la CVMCB, a finalement été mis à l’amende et fait faillite. L’appelant a poursuivi M. Ruge pour 25 000 $ et, le 17 juin 2006, il a obtenu un jugement contre lui pour ce montant, mais il n’a jamais recouvré la somme. Suivant la suggestion de son comptable, l’appelant a demandé la déduction pour PTPE dans sa déclaration de revenu pour l’année 2006.
+[8] À l’étape de la vérification, la vérificatrice de l’Agence du revenu du Canada (l’« ARC ») a examiné les documents que l’appelant avait fournis à ce moment‑là et elle a mené sa propre enquête. Cette vérification visait à établir si la perte constituait une PTPE. La vérificatrice tenait aussi beaucoup à savoir si Chivas Hedge Fund Limited, exploité sous le nom CGFLP, était une société exploitant une petite entreprise au sens de la Loi de l’impôt sur le revenu (la « Loi »). Son enquête a révélé que M. Ruge et Chivas Hedge Fund Ltd. – ou toute autre forme de l’entité Chivas – avaient violé la législation sur les valeurs mobilières en distribuant des parts de CGFLP sans avoir soumis de prospectus ou s’être enregistrés et que M. Ruge avait reconnu avoir fraudé les investisseurs.
+[9] La vérificatrice a aussi réussi à obtenir les renseignements suivants au moyen du système de l’ARC : les activités de Chivas Hedge Fund Inc. étaient décrites comme des services d’investissement; la société n’a déclaré aucun revenu pour les années d’imposition prenant fin les 31 décembre 2001, 2002 et 2003; aucun compte de paye n’avait été signalé; des frais de consultation, de gestion et d’administration de 11 351 $ pour 2002 et d’environ 70 000 $ pour 2003 ont été payés, ce qui donne à penser que la société avait au plus six employés à temps plein. La vérificatrice a aussi pu conclure que Chivas Hedge Fund Ltd. ne semblait être associée à aucune autre société.
+[10] En l’espèce, la Cour doit trancher la question de savoir si l’appelant a droit à une déduction pour PTPE pour l’année d’imposition 2006. Je tiens aussi à souligner que d’autres faits révélés lors du procès auraient pu modifier la manière dont l’intimée avait traité la perte en capital de l’appelant. Toutefois, la Cour n’a pas le pouvoir de rajuster à la hausse la nouvelle cotisation, car l’intimée ne peut pas interjeter appel de sa propre cotisation.
+[11] Quant à la question de savoir si Chivas était une société exploitant une petite entreprise, le représentant de l’appelant a soutenu que l’appelant croyait que Chivas – peu importe sa forme – avait peut‑être des employés, car l’appelant était accompagné d’opérateurs le soir où il avait assisté à la conférence. Malheureusement, les éléments de preuve présentés ne confirment pas le bien‑fondé de cette croyance, et l’appelant ne s’est pas déchargé du fardeau de la preuve à ce sujet.
+[12] Pour décider si Chivas était une société exploitant une petite entreprise, je n’énumérerai pas toutes les exigences prévues par la Loi pour qu’une PTPE soit déductible, mais je mentionnerai seulement que l’alinéa 39(1)c) prévoit notamment ce qui suit :
+c) une perte au titre d’un placement d’entreprise subie par un contribuable […] résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition […] à laquelle le paragraphe 50(1) s’applique […] d’un bien qui est […] une créance du contribuable sur une société privée sous contrôle canadien […] qui est […] une société exploitant une petite entreprise […]
+[13] Le terme « société exploitant une petite entreprise » est défini de la manière suivante au paragraphe 248(1) de la Loi :
+[…] société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable […] à des éléments qui sont […] utilisés principalement dans une entreprise que la société […] exploite activement principalement au Canada […]
+[14] Le terme « entreprise exploitée activement », lui aussi défini au paragraphe 248(1) de la Loi, s’entend de toute entreprise exploitée par un contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels. Le terme « entreprise de placement déterminée » est défini au paragraphe 125(7) :
+« entreprise de placement déterminée » Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l’année, l’entreprise exploitée par une société au cours d’une année d’imposition n’est pas une entreprise de placement déterminée si, selon le cas :
+a) la société emploie dans l’entreprise plus de cinq employés à plein temps tout au long de l’année;
+b) une autre société associée à la société lui fournit au cours de l’année, dans le cadre de l’exploitation active d’une entreprise, des services de gestion ou d’administration, des services financiers, des services d’entretien ou d’autres services semblables et il est raisonnable de considérer que la société aurait eu besoin de plus de cinq employés à plein temps si ces services ne lui avaient pas été fournis.
+[15] Dans les appels en matière d’impôt sur le revenu, c’est l’appelant qui a le fardeau de démontrer, selon la prépondérance des probabilités, que la cotisation établie à son égard est erronée parce que le ministre s’est fondé sur des faits inexacts. Pour ce faire, l’appelant doit présenter des éléments de preuve permettant d’infirmer, à première vue, les hypothèses de fait du ministre.
+[16] En l’espèce, l’appelant devait démontrer, selon la prépondérance des probabilités, qu’il avait droit à une déduction pour PTPE pour son année d’imposition 2006. Les éléments de preuve présentés ne permettent pas vraiment de savoir si l’appelant avait une créance sur une société privée sous contrôle canadien qui était une société exploitant une petite entreprise. L’appelant ne sait pas au juste s’il a investi dans une société de personnes en achetant des parts ou s’il a acheté des actions d’une société. La preuve documentaire démontre que l’appelant a acheté des parts d’une société de personnes et que la somme qu’il a investie a été convertie en devises américaines, ce qui donne à penser que les fonds étaient gérés à partir des États-Unis. Aucun élément de preuve ne vient étayer l’argument selon lequel les exigences permettant de déduire une PTPE ont été remplies en l’espèce.
+[17] L’appelant ne s’est pas déchargé de son fardeau de démontrer qu’il avait le droit de déduire une PTPE pour son année d’imposition 2006.
+[18] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2011.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 13e jour de décembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2011 CCI 508
+No DU DOSSIER DE LA COUR :
+2009-3948(IT)I
+INTITULÉ :
+Brooks Allisen c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 6 octobre 2011
+MOTIFS DU JUGEMENT :
+L’honorable juge François Angers
+DATE DU JUGEMENT :
+Le 18 novembre 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+R.G. Allen
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

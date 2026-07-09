@@ -1,0 +1,225 @@
+Title: Alcala v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29745/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-198-29745-alcala-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-13
+
+# Alcala v. The Queen
+
+- Citation: 2010 TCC 198
+- Decision date: 2010-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6552, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alcala v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-13
+Neutral citation
+2010 TCC 198
+File numbers
+2009-1993(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1993(IT)I
+BETWEEN:
+MICHELLE A. ALCALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 13, 2010, at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Ed Sarmiento
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 13th day of April 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 198
+Date: 20100413
+Docket: 2009-1993(IT)I
+BETWEEN:
+MICHELLE A. ALCALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant currently resides in Markham, Ontario.
+[2] The Appellant immigrated from The Phillipines to Canada in 2005.
+Re: 2006 Taxation Year
+[3] When the Appellant filed her income tax return for the 2006 taxation year, she reported the following amounts as income:
+Pottruff and Smith Travel Insurance Brokers Inc.
+$23,422.50
+Canadian Universities Travel Service Limited
+$15,653.81
+Sequoia Retail Systems Incorporated
+$ 4,266.66
+[4] The Minister of National Revenue (the “Minister”) determined that the Appellant did not report the following amounts in her income for the 2006 taxation year:
+Total Credit Recovery Limited
+$1,788.80
+Portfolio Series Income Fund
+$ 7.06 (taxable amount of $3.53)
+Portfolio Series Income Fund
+$ 2.88
+Portfolio Series Income Fund
+$ 0.22
+[5] The Minister reassessed the Appellant for the 2006 taxation year on October 16, 2007 and the amounts referred to in paragraph [4] above were included in the Appellant’s income for the 2006 taxation year.
+[6] When the Appellant filed her income tax return for the 2007 taxation year, she reported the following amounts as income:
+CGI Information Systems and Management Consultants Inc.
+$23,392.59
+Research House Inc.
+$ 201.24
+The Royal Bank of Canada
+$ 1,623.18
+Canadian Universities Travel Service Limited
+$ 2,115.38
+[7] The Minister determined that the Appellant did not report the following amounts in determining her income for the 2007 taxation year:
+Canadian Universities Travel Service Limited
+$37,616.03
+Portfolio Series Income Fund
+$ 23.34
+Portfolio Series Income Fund
+$ 11.21 (taxable amount of $5.60)
+Portfolio Series Income Fund
+$ 2.84 (taxable amount of $4.12)
+[8] By Notice of Reassessment dated October 27, 2008, the Minister reassessed the Appellant for the 2007 taxation year to include the unreported income referred to in paragraph [7] above and the Minister also assessed a repeat omission penalty in the amount of $3,764.60 under subsection 163(1) of the Income Tax Act (the “Act”).
+B. Issues
+[9] The issues to be decided are:
+a) whether the Appellant exercised due diligence in reporting all amounts required to be included in computing income for the 2007 taxation year; and
+b) whether the Appellant was properly assessed a federal repeat omission penalty in the amount of $3,764.60 for the 2007 taxation year.
+C. Analysis and Decision
+[10] Subsection 163(1) of the Act reads as follows:
+(1) Repeated failures. Every person who (a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and (b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[11] Subsection 163(1) imposes a penalty of 10% of the amount which was not reported in the return of income. In this situation, the penalty that was imposed by the Minister under subsection 163(1) of the Act was $3,764.60.
+[12] Basically, the Minister concluded that the penalty provided by subsection 163(1) should be applied in the 2007 taxation year because the Appellant failed to include the following amounts in her income for the 2006 taxation year:
+Total Credit Recovery Limited
+$1,788.80
+Portfolio Series Income Fund
+$ 7.06 (taxable amount of $3.53)
+Portfolio Series Income Fund
+$ 2.88
+Portfolio Series Income Fund
+$ 0.22
+Total
+$1,795.43
+[13] It will be noted that the “repeat omission penalty” imposed under subsection 163(1) of the Act is in the amount of $3,764.60, whereas the amount which the Appellant failed to report in 2006 was $1,795.43. In other words, the penalty is more than twice as much as the unreported amount which gave rise to the penalty.
+[14] The Appellant was asked to comment on the failure to report all of her income for the 2006 taxation year:
+Q. When did you prepare your tax return for 2006?
+A. In February of 2007.
+(Transcript, page 10, lines 5-7)
+[15] When asked if she had received the T-4 slip issued by Total Credit Recovery Limited, the Appellant said:
+A. … I never received this.
+(Transcript, page 11, lines 7-8)
+[16] When asked if she had received the miscellaneous amounts from the Portfolio Series Income Fund, the Appellant said:
+A. … I never received any money from there.
+(Transcript, page 12, lines 17-18)
+[17] During the hearing, the Appellant was asked the following questions by her Agent:
+Q. Did you understand what this capital gains, other income, eligible dividends, taxable amount?
+…
+A. I never received any money.
+…
+Q. … But you paid the reassessment for 2006 … right?
+A. Yes.
+Q. Even if you did not -- you were not sure on the accuracy of what was in there?
+A. No.
+Q. Why?
+A. I figured I should be paying it, anyways, because I have other matters to deal with, so I just paid the reassessment.
+(Transcript, page 13, lines 8-10, line 15 and lines 22-25;
+Transcript, page 14, lines 1-6)
+…
+Q. Who prepared your 2007 tax return?
+A. I figured I should be having a tax professional, so I hired a tax professional to do my tax for 2007.
+(Transcript, page 14, lines 15-19)
+[18] The Agent for the Appellant asked the Appellant to comment on her 2007 income tax return. The following exchange occurred:
+Q. Did you submit everything, all your documents—
+A. Everything that I had, that all the documents that I had with me, I just gave it to her.
+(Transcript, page 14, lines 20-24)
+[19] The Appellant said that she received a T-4 slip from Canadian University Travel Services after she had filed her 2007 income tax return. The Appellant said:
+A. … I called my accountant and saying, "What should I do with this?", because it was already filed when I received the T4; it came late.
+(Transcript, page 15, lines 13-15)
+[20] The Appellant said:
+…
+A. (Continued) And then she said that you are able to do a matching process, meaning the employers will be already submitted their T4s and there should be a self-correction on it, self-matching process, though. So I believe that should be happen …
+(Transcript, page 15, lines 16-21)
+[21] The agent for the Appellant said:
+…
+Q. Michelle, did you understand what this matching process was all about?
+A. What I understand to be matching process is the -- whatever it is reported, it will be matched against the ones that was submitted by the employers …
+Q. Submitted to who?
+A. To the -- that one that -- whatever it is -- that I reported to the CRA, it will be matched to the ones to -- that was submitted by the employers to CRA.
+(Transcript, page 17, lines 4-14)
+[22] The agent continued:
+…
+Q. She [i.e. the professional tax preparer, Araceli Coria] told you to pay the past amount; how about the penalties?
+A. … I told her that I could not pay for the penalty and -- and also, they already deducted it from my pay cheque, all the taxes. So I felt I don't -- I didn’t need to pay anything. In fact, they already deducted it from my pay cheque. Why should I pay this? And she advised me to appeal.
+(Transcript, page 19, lines 6-15)
+(Emphasis added)
+[23] On cross-examination, the Appellant said that she had received a T-4 from Travel Cuts for the 2007 taxation year but that she received the T-4 slip after she had filed her 2007 income tax return.
+Q. … So when you received your T4, did you contact CRA about that T4 that you got from Travel CUTS?
+A. I contact my accountant to get her advice on what to do.
+Q. I see.
+A. I just rely on her advice.
+(Transcript, page 32, lines 8-14)
+[24] In his argument, the agent for the Appellant said:
+She denies having received the 2006 T4 from Total Credit Recovery. The 2007 T4 was late for inclusion in the original filing, but her tax professional assured her that CRA’s matching process will capture it and will just assess any tax shortfall, if any.
+(Transcript, page 52, lines 11-16)
+[25] After reviewing the Court decisions dealing with subsection 163(1), I concluded that the decision of Justice Mogan in Khalil v. Canada, [2002] T.C.J. No. 538, [2003] 1 C.T.C. 2263, had very similar facts. In that case, Justice Mogan said:
+[12] In my view, having regard to all of the facts in this case, it is not equitable to assess a penalty of $2,794 under subsection 163(1) when the amount of the penalty is almost twice the basic difference ($1,478.99) between the refund which the Appellant claimed in her return ($422) and the increased amount owing ($1,056.99) after giving full credit for the tax deducted at source. The Appellant's case cries out for equity but there is an abundance of law which states that equity has no place in determining a person's liability for tax under a statute. There may, however, be a place for equity or due diligence in the assessment of a penalty.
+[13] I cannot conclude that a person has "failed to report an amount" within the meaning of subsection 163(1) when the person knows (i) that the amount was payable to her as income by a particular payor; (ii) that the payor withheld a certain portion of the amount as income tax to remit to Revenue Canada; (iii) that the payor actually paid to the person only the balance remaining after deducting the tax withheld; and (iv) that the payor was required to report to Revenue Canada on a form prescribed by Revenue Canada the gross amount payable to the person and the portion withheld and remitted as tax. Accordingly, I will allow the appeal. If I should be correct in my interpretation of subsection 163(1), there is no prior "failure to report" with respect to the interest of $320.12 received from the Royal Bank of Canada.
+[14] If I should be wrong in my interpretation of subsection 163(1), then I would respectfully ask the Minister to consider exercising the discretion permitted in subsection 220(3.1) of the Act to waive or cancel all or most of the penalty imposed relating to the Symcor earnings.
+[26] To paraphrase Justice Mogan’s decision from Khalil, I wish to state the following:
+I cannot conclude that the Appellant has “failed to report an amount” within the meaning of subsection 163(1) when the Appellant, Ms. Alcala, knows:
+(a) that the payor (Total Credit Recovery) withheld a certain portion of the amount as income tax to remit to the Canada Revenue Agency (the “CRA”);
+(b) that the payor withheld a certain amount as an Employment Insurance Premium and withheld a certain amount as a Canada Pension Plan deduction and remitted these amounts to the CRA;
+(c) that the payor actually paid to the person only the balance remaining after deducting the tax withheld plus the EI premium and the CPP deduction;
+(d) that the payor was required to report to the CRA on a form prescribed by the CRA the gross amount payable to the person and the amounts withheld and remitted as tax; and
+(e) that the Appellant testified that she had never received the T-4 slip issued by the payor for the 2006 taxation year.
+[27] I also wish to note that the Appellant hired a professional tax preparer to prepare and file her 2007 income tax return.
+[28] Based on the above analysis, I have concluded that there is no prior “failure to report” the amount of $1,788.80 and $7.06, $2.88 and $0.22 (see paragraph [4] above).
+[29] I also wish to state that if I am wrong in my interpretation of subsection 163(1) of the Act, then I would respectfully request that the Minister consider exercising the discretion permitted in subsection 220(3.1) of the Act to waive or cancel the repeat omission penalty.
+[30] In reaching this conclusion, I am aware of and I agree with the conclusion of Justice Woods in Saunders v. The Queen, 2006 TCC 51, 2006 D.T.C. 2267, where she said at paragraph 15:
+… Parliament has enacted subsection 163(1) to ensure the integrity of Canada’s self-reporting system. In my view, a Court should not lightly vacate the penalty provided for in the legislation.
+[31] In my opinion, the special and unique circumstances involving Ms. Alcala justify the conclusion that I have reached involving the penalty.
+[32] The appeal is allowed, without costs.
+Signed at Vancouver, British Columbia, this 13th day of April 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 198
+COURT FILE NO.: 2009-1993(IT)I
+STYLE OF CAUSE: Michelle A. Alcala and
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: April 13, 2010
+APPEARANCES:
+Agent for the Appellant:
+Ed Sarmiento
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

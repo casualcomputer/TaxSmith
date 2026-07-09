@@ -1,0 +1,296 @@
+Title: Poulin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29849/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-313-29849-poulin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-15
+
+# Poulin v. The Queen
+
+- Citation: 2010 TCC 313
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6435, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-15
+Neutral citation
+2010 TCC 313
+File numbers
+2008-514(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-514(IT)G
+BETWEEN:
+RICHARD POULIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Komutel Inc. (2008-515(IT)G), on June 5, 2009, at Quebec City, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jean-François Bertrand
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal of the reassessment made under the Income Tax Act for the 2003 and 2004 taxation years is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of June 2010.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 10th day of November 2010.
+Erich Klein, Revisor
+Citation: 2010 TCC 313
+Date: 20100615
+Docket: 2008-514(IT)G
+BETWEEN:
+RICHARD POULIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The appellant in this appeal is also a concerned party in Komutel Inc. v. The Queen 2008-515(IT)G as the sole shareholder of Komutel. The appeals were heard separately despite being somewhat connected.
+[2] The appellant initiated his appeal by a notice, which contains the following:
+[translation]
+Year 2003
+3. The appellant is the director, president, secretary and majority shareholder of the company 9098‑5854 Québec Inc., as appears from the Enterprise Register statement, Exhibit P‑1;
+4. The appellant is also the director, president, secretary and majority shareholder of the company Komutel Inc., formerly B2C Web Support Inc., as appears from the Enterprise Register statement, Exhibit P‑2;
+5. During the fiscal year of the company 9098‑5854 Québec Inc. ending March 31, 2003, the accountant in charge of the company’s bookkeeping, Pierrot Poulin, made a mistake in the adjusting entry in the accounting records;
+6. Mr. Poulin made the following entry:
+[translation]
+Debit
+Credit
+Capital asset
+$26,835.00
+Advances to a director
+$26,835.00
+7. The purpose of this entry was to record the transfer of certain personal assets by the appellant to his business;
+8. However, contrary to what was recorded in the accounting records, the transfer was made to the company B2C Web Support Inc. Consequently, this transfer entry was also made in B2C Web Support Inc.’s accounting records;
+9. On the basis of this accounting entry, the Agency added to the appellant’s taxable income the amount of twenty‑six thousand eight hundred and thirty‑five dollars ($26,835.00) credited to the advances to a director account.
+Year 2004
+10. The Agency added thirty‑seven thousand seven hundred and thirty‑two dollars ($37,732.00) to the appellant’s taxable income for the year 2004;
+11. The amount thus added corresponded to two adjusting accounting entries recorded in the company 9098‑5854 Québec Inc.’s advances to a director account, namely: an entry for thirteen thousand nine hundred and thirty‑two dollars ($13,932.00) and another for twenty‑three thousand eight hundred dollars ($23,800.00).
+[3] The respondent stated in her reply that the assessment was justified given the following assumptions of fact:
+[translation]
+a) The appellant had an assistive technology product for Web/Internet customer service and was looking for financial partners.
+b) The company Capital Vision (“Capital Vision”) was willing and had the capital to invest in technology.
+c) On April 4, 2001, Capital Vision, represented by its president, Benoît Beaudin, and the appellant, an independent contractor, signed an agreement that included the following provisions:
+i) a contract of employment for Richard Poulin under the terms of the agreement;
+ii) an undertaking from Capital Vision to create a business (and incorporate it under federal law for this purpose) with 51 per cent of the common voting shares to be held by Capital Vision and 49 per cent by Richard Poulin, and 49 per cent of the non‑voting preferred shares to be held by Capital Vision and 51 per cent by Richard Poulin;
+iii) an investment of $350,000 by Capital Vision, namely,
+· $200,000 initial investment in the business according to a timetable extending from April to September 2001;
+· $100,000 paid to the company to be incorporated, in the form of advances reimbursable from profits; and
+· $50,000 in cash paid to Richard Poulin, on terms to be established.
+d) The company 9098‑5854, a management company, was incorporated on December 4, 2000, under Part IA of the Quebec Companies Act.
+e) During the years at issue, the appellant was the sole shareholder, president and director of the company 9098‑5854.
+f) The appellant was also the sole shareholder, president and director of the company B2C WEB Support Inc., now known as Komutel Inc. (hereafter “Komutel”), which was incorporated on April 23, 2001, under the Canada Business Corporations Act.
+g) There was no proper external audit of the financial statements of 9098‑5854 and Komutel for the fiscal years ending March 31, 2003 and 2004.
+h) The financial statements of 9098‑5854 and Komutel for the fiscal year ending March 31, 2004, were prepared by Gestion Zéro Huit, owned by Pierrot Poulin.
+i) Pierrot Poulin is also the accountant who kept the books for 9098‑5854 and Komutel for the fiscal year ending March 31, 2004.
+j) During the fiscal years ending March 31, 2003 and 2004, the company 9098‑5854 made accounting entries recording cash advances by it to the appellant and cash advances by the appellant to it.
+k) The Canada Revenue Agency’s audit included an analysis of the advances from a director account in 9098‑5854’s financial statements and adjusting entries for each of the fiscal years ending March 31, 2003 and 2004 (see Schedule I for details).
+Advance of $26,835
+l) During the fiscal year ending March 31, 2003, 9098‑5854 paid $26,835 for the purchase of office equipment.
+m) An invoice for $26,835 was made out to 9098‑5854, and payment was made by cheque by Komutel.
+n) This equipment was used solely for the operations of Komutel, not those of 9098‑5854.
+o) The value of this equipment was included in the assets of Komutel and 9098‑5854.
+p) The following adjusting entry was made in 9098‑5854’s accounting records for the fiscal year ending March 31, 2003:
+[translation]
+Debit
+Credit
+Capital asset
+$26,835.00
+Advances to a director
+$26,835.00
+q) The company 9098‑5854 claimed $2,684 and $4,830 in depreciation costs related to that equipment for each of the fiscal years ending March 31, 2003 and 2004, respectively.
+r) Even though $26,835 was credited to the advances from directors account in the company’s financial statements, the appellant never paid this amount.
+Advance of $23,800
+s) During the 2004 taxation year, the company 9098‑5854 paid the appellant $23,800.
+t) During the audit, no justification was provided for the $23,800 payment to the appellant.
+u) At the objection stage, the appellant’s agent submitted that the $23,800 represented salary owed to the appellant.
+Advance of $13,392 (sic)
+v) Under an agreement entered into with the appellant, Capital Vision invested money in the companies 9098‑5854 and Komutel.
+w) The company 9098‑5854 owed Capital Vision $13,392 (sic) for the 2004 fiscal year.
+x) The $13,392 (sic) represented the difference between a $130,500 advance by Capital Vision and a $116,568 subscription receivable from Capital Vision.
+y) During the audit, the auditor found that the $13,392 (sic) that 9098‑5854 owed to Capital Vision was included in the amounts debited in the company’s adjusting journal entries as advances from directors.
+z) There is no evidence that the appellant actually advanced $13,392 (sic) to 9098‑5854.
+[4] Essentially, the appellant admitted that, when a furniture purchase invoice was recorded, a mistake was made: $26,835 was entered into both companies’ accounting records. He stated that he had immediately corrected the mistake discovered by the auditor.
+[5] He also asserted that certain accounting changes had been made following the recommendation of an auditor involved in the research and development credit aspect of the case. He confidently stated that some of the amounts assessed had been part of his salary, although these amounts were not actually laid out because the company had been unable to pay him. He added that the taxes on this unpaid salary had nevertheless been paid.
+[6] As for the $13,932, the appellant was unable to provide any explanations.
+[7] With respect to the facts, the reply to the notice of appeal seems to describe them quite well. Just as in the other case, Komutel 2008-515(IT)G, the issue stems from the deficiencies in bookkeeping—the extent of which is viewed differently by the parties—which led the Minister to add certain amounts to the taxpayer’s income as benefits under subsection 15(1) of the Income Tax Act (ITA), namely: $26,835 in 2003 and $37,731.64 in 2004.
+[8] The first dispute arises out of a purchase of furniture pursuant to a deal initiated and planned by Beaudin that generated a very substantial initial investment in the related case. In the appellant’s opinion, the asking price was somewhat excessive.
+[9] The appellant explained that B2C Web Support Inc. (later, Komutel Inc.) had insufficient liquid assets at the time of the purchase. The furniture was therefore billed to and paid for by the company 9098, which was subsequently reimbursed by B2C, thus explaining the erroneous double entry in the records. Consequently, the $26,835 purchase was recorded as an expense for both companies.
+[10] The appellant acknowledged that it was the Canada Revenue Agency auditor who discovered the irregularity. The appellant stated that he had immediately admitted that the expenditure had been recorded in two places and consequently arranged for the appropriate corrections to be made.
+[11] He stated that the mistake was due to the fact that he would put his personal financial information and the financial information for 9098 and B2C in the same box, for the attention of his accountant, who failed to correctly sort that information.
+[12] As for the second dispute, the appellant explained that it had arisen from changes made to maximize research and development credits, following another CRA auditor’s advice. On this point, he submitted that the $33,951 in employment income indicated on his T4 for 2003 included the $25,143.65 benefit taxed in 2004.
+[13] He added that the taxes on this amount had been paid, even though he had not received it as the company had had insufficient funds to pay him, which was why everything had been recorded as an [translation] “advance to the shareholder”.
+[14] The auditor explained why he had assessed the taxpayer $26,835 for 2003 under subsection 15(1) of the ITA. He stated that the furniture purchase invoice had been made out to one company, while the cheque had been issued by the other, thus confirming the appellant’s testimony on this point.
+[15] After having noted that these items appeared in B2C’s and 9098’s financial statements, he stated that the appellant had told him that they would be removed from 9098’s assets, since this did not reflect reality. When asked what he had then done, the auditor answered as follows:
+[translation]
+Q. What did you do at that point to make a correction and delete the purchase of the asset from 9098’s books?
+A. The asset had been advanced to the director, so the asset had to be deleted from the records. Then we eliminated the $26,835 in assets and the “advance to the director” entry. This is an amount that could be taken out by Mr. Poulin afterwards without any tax consequences. That is why we used 15(1) to tax this amount in the year 2003.
+[16] As regards the year 2004, the auditor used his worksheet in explaining that he had found in the taxpayer’s accounting records sizeable sums recorded as unpaid salary, as receipts of funds by the shareholder ($24,000) and as adjusting entries ($45,424.01). The amounts were added to the taxpayer’s income under subsection 15(1) of the ITA, because they [translation] “could be taken out by the shareholder without any tax consequences for future years”, and in the absence of acceptable explanations by Mr. Poulin, he dealt with these amounts to the taxpayer’s disadvantage.
+[17] It is appropriate to reproduce below the excerpt from the analysis document on which the auditor’s testimony was based:
+[translation]
+Date
+F/S
+CRA
+Analysis
+April-04-01
+$0.00
+$0.00
+Start-up of the company
+March-31-02
+$4,323.00
+$4,323.00
+Company’s loss absorbed by the shareholder
+_________________________________________________
+March-31-02
+$4,323.00
+$4,323.00
+Balance on March 31, 2002
+================================================
+March-31-03
+$26,835.00
+$0.00
+Purchase of assets already included in B2C Web Support
+March-31-03
+$1,819.00
+$1,819.00
+Taxes paid by the shareholder and receivable by the company
+March-31-03
+-$12,976.00
+-$12,976.00
+Company’s earnings for the year
+_________________________________________________
+March-31-03
+$20,001.00
+-$6,834.00
+Balance on March 31, 2003
+Difference of $26,835 on March 31, 2003
+================================================
+March-31-04
+$0.00
+$7,492.37
+Shareholder’s advance from B2C Web
+March-31-04
+$25,143.65
+$0.00
+Unpaid salary (missing sales entry)
+March-31-04
+$45,424.01
+$0.00
+Plug confirmed by the accountant
+March-31-04
+$0.00
+$0.00
+Debt to Groupe Capital Vision
+March-31-04
+$712.00
+$712.00
+Tax payment RQ
+March-31-04
+$783.00
+$783.00
+Tax payment RC
+March-31-04
+$73.49
+$73.49
+Tax payment RC
+March-31-04
+$0.00
+$23,800
+Amounts received by the shareholder
+March-31-04
+-$100.00
+-$100.00
+Subscription receivable
+March-31-04
+-$1,726.45
+-$1,726.45
+National Bank reconciliation
+March-31-04
+-$24,000.00
+-$24,000.00
+Received by the shareholder
+March-31-04
+-$1,879.37
+-$1,879.37
+Taxes receivable 2003
+_________________________________________________
+March-31-04
+$64,491.33
+-$1,618.96
+Balance on March 31, 2004
+Difference of $64,566.64 ($26,835 + $13,931.64 + $23,800)
+Conclusion: An additional $64,566.64 could therefore be attributed to the shareholder. This amount could thus be taxed as a taxable benefit under 15(1).[1]
+[18] As for the $24,000, the auditor stated that the appellant had already accounted for this amount. He therefore decided to allow him the amount on the basis that he required a bare minimum on which to live.
+[19] He stated that he had obtained a number of statements from the appellant, but others were non-existent. In the auditor’s opinion, it was not possible, on the basis of the documentary evidence, to establish a link between the salary paid in 2003 and the $23,800. He also claimed that the appellant had never showed him a connection between the 2004 cash receipts and the unpaid salary in 2003.
+[20] The auditor’s testimony is by no means clear and coherent. Among other things, he denied having received and accepted some of the appellant’s explanations. He also stated that he had drawn certain conclusions on the basis of the appeal officer’s file, while his own notes seem to contradict his testimony.
+[21] The respondent acknowledged that the auditor’s notes do not indicate any amount, that they mention only a decrease in the assessment and that, in any event, they are not very clear.
+[22] The auditor’s testimony is not a model of clarity and coherence. To support the validity of the assessment, the auditor seizes on details, namely the fact that the accountant who had allegedly made the mistake failed to testify and that the appellant is the sole shareholder of both companies concerned.
+[23] In the respondent’s opinion, that the appellant was the one who handed over the documents to his accountant precludes characterizing the double entry as an accounting error. It is true that this behaviour may be described as negligent, particularly since it made the accountant’s job more difficult and increased the risk of errors occurring, which is in fact what did happen. However, the appellant spontaneously admitted to the mistake and hastened to correct it.
+[24] The appellant’s explanations, albeit peculiar, seem to be credible and reasonable, especially since the auditor’s testimony was odd, to say the least. At the outset, he stated—and rightly so—that the appellant bore the burden of proof. Would this fact justify rather confused testimony that was incomplete on certain aspects and contradictory as to the other points?
+[25] In support of their respective positions, the parties referred to a number of decisions. Not that these decisions are irrelevant, but I think it is important to note that mere evidence of a mistake does not automatically result in tax consequences. The mistake may be intentional or unintentional. It may be a clerical error. Each case must be the subject of a specific analysis, and so the case law must be considered with some reservation.
+[26] Generally, accountants, like all professionals, must bear the consequences of their mistakes, but still, the error must stem from a failure to follow good practice.
+[27] If the mistake was made because the documents were somewhat disorderly or possibly in a state of confusion, it might be correctable without any tax penalty being incurred.
+[28] Here, the accountant made an unintentional mistake as a result of having been given possibly confusing documents, in my view. In addition, the circumstantial evidence in this case suggests that Mr. Poulin was overwhelmed by the situation, as he had to deal with a number of constraints in the management of a potentially promising project, but one whose progress toward growth and profitability was proving to be slow and difficult.
+[29] The evidence shows that, after having obtained the appellant’s explanations regarding 9098’s purchase of furniture and B2C’s payment for that furniture, the auditor did not investigate beyond this point.
+[30] The purchase of furniture by 9098 led to its resale to B2C. Even though the auditor’s conclusion is justified by the way in which the transaction was carried out and by the entries in the various records, the appellant’s quick and spontaneous explanations should have been taken into account given the context.
+[31] Just as in Komutel’s case, the auditor’s approach was to identify certain facts or points justifying an assessment while assuming that the appellant would merely have to show that the assessment was invalid. Moreover, the auditor seems, for no reason, to have doubted that the appellant had acted in good faith.
+[32] The auditor had every right to require explanations concerning any part of the taxpayer’s accounting and assume that any unexplained disbursements were transfers subject to subsection 15(1) of the ITA, if it was logical to do so. However, in his testimony, the auditor does not even claim that the amounts that remained without explanation and that were used, to Mr. Poulin’s disadvantage, in the computation of his income, had in fact been transferred to Mr. Poulin. Had the auditor requested an explanation, he would have obliged Mr. Poulin to provide justification in order to avoid having this part of the assessment upheld. Once again, he deemed it necessary to include these amounts in Mr. Poulin’s income under subsection 15(1) of the ITA because he claimed that Mr. Poulin could withdraw them.
+[33] Clearly, the auditor was mistrustful and skeptical regarding the appellant’s explanations. The inconsistencies or confused or vague explanations validated this mistrust to such a degree that he found the appellant not to be credible.
+[34] Although the fairly general confusion characterizing both this case and that of Komutel might elicit some mistrust, it would have been preferable that the auditor have put more effort into investigating the case instead of withdrawing from it on the pretext that the appellant bore the burden of proof before the Court.
+[35] Contrary to the auditor’s interpretation, I am of the view that the explanations given spontaneously are credible. If the appellant had wanted to disguise the facts or deliberately hide some of them, obviously he would have behaved differently. Furthermore, he admitted to being unable to explain certain points, including the $13,931 that the respondent in fact referred to in final argument.
+[36] The appellant’s explanations were spontaneous and transparent. The auditor admitted that the appellant had cooperated with him. He interpreted the discrepancies in the explanations given as being attempts to avoid tax liability.
+[37] On a balance of probabilities, the appellant was negligent to some extent with respect to his responsibility to keep clear accounting records supported by appropriate documentary evidence.
+[38] However, he demonstrated his good faith, borne out by irreproachable cooperation. The burden of proof was on the appellant, and while the evidence was far from perfect, it supports the conclusion that the explanations given are credible, so much so that it appears reasonable to me to find them probable.
+[39] Nevertheless, on one point, the respondent’s submissions were correct: the appellant gave no explanation regarding the $13,931.
+[40] For all of these reasons, the appeal is allowed in part, and the case will be referred back to the CRA for reassessment on the basis that the appellant received a
+benefit of $13,931 under subsection 15(1) of the ITA in 9098‑5854’s 2004 taxation year. No costs will be awarded.
+Signed at Ottawa, Canada, this 15th day of June 2010.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 10th day of November 2010.
+Erich Klein, Revisor
+CITATION: 2010 TCC 313
+COURT FILE NO.: 2008-514(IT)G
+STYLE OF CAUSE: RICHARD POULIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: June 15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Jean-François Bertrand
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean-François Bertrand
+Firm: Tassé Avocats
+City: Quebec City, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit I-1, Tab 8, or Schedule 1 to the Reply to the Notice of Appeal.

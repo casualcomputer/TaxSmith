@@ -1,0 +1,569 @@
+Title: Bibby c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29526/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-588-29526-bibby-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-11-13
+
+# Bibby c. La Reine
+
+- Citation: 2009 CCI 588
+- Decision date: 2009-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6373, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bibby c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-13
+Référence neutre
+2009 CCI 588
+Numéro de dossier
+2005-1566(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1566(IT)G
+ENTRE :
+RICHARD BIBBY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 23, 24 et 25 juillet 2008, à Toronto (Ontario).
+Devant : L’honorable juge E. A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me Howard J. Alpert
+Avocate de l’intimée :
+Me H. Annette Evans
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2002 est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le montant de 224 000 $ qui a été inclus dans le revenu de l’appelant et la pénalité qui a été établie en vertu du paragraphe 163(2) de la Loi doivent être retranchés de la cotisation.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2009.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 21e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 588
+Date : 20091113
+Dossier : 2005-1566(IT)G
+ENTRE :
+RICHARD BIBBY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Le juge Bowie
+[1] Richard Bibby interjette appel de la cotisation d’impôt sur le revenu dont il a fait l’objet pour l’année d’imposition 2002. À l’exception de certains montants au titre d’intérêts qui ne sont pas en litige, tout le revenu de M. Bibby pour l’année en question provenait d’une société familiale, Rabco Marketing Ltd. (« Rabco »). Pendant la période pertinente, Rabco exploitait une entreprise dans le cadre de laquelle elle fournissait des produits électroniques à des marchands détaillants. M. Bibby était celui qui tenait les rênes de la société. Il s’occupait des achats et des ventes, et il ressort de la preuve qu’il était l’âme dirigeante de la société. Sa femme, Camille Bibby, dirigeait le bureau et s’occupait de la saisie des données et de la comptabilité pour la société. Leur fils Jason s’occupait des activités se rattachant à la technologie de l’information et au catalogue, et il agissait à titre de directeur du transport. Leur autre fils, Christopher, était responsable des activités liées à l’entrepôt et à l’expédition; des employés temporaires l’aidaient au besoin. Richard Bibby et Camille Bibby possédaient chacun 50 actions ordinaires. Chaque membre de la famille possédait également 50 actions privilégiées; celles de Richard étaient de catégorie A, celles de Camille de catégorie B et celles de leurs fils de catégorie C. M. Bibby était président de la société et sa femme agissait à titre de secrétaire. L’exercice de la société prenait fin le 31 janvier.
+[2] Aucun des membres de la famille n’était rémunéré au moyen d’un salaire. Ils avaient l’habitude de retirer de temps en temps de l’argent tout au long de l’année, et ces prélèvements étaient comptabilisés dans les livres de la société au moyen de débits au compte de prêt d’actionnaire (montants dus aux actionnaires). Un seul compte de prêt d’actionnaire avait été établi dans le grand livre et les prélèvements effectués par les quatre membres de la famille étaient portés au débit de ce compte. À la fin de chaque exercice, une décision était prise au sujet de la rémunération qu’il convenait d’accorder à chaque membre de la famille pour l’année, et les écritures de journal nécessaires de fin d’exercice indiquaient la rémunération des actionnaires. La preuve ne montrait pas clairement la façon dont cette décision était prise, mais il semble que c’était fort probablement l’appelant qui prenait la décision, peut‑être sur les conseils de son comptable.
+[3] L’un des principaux clients de Rabco était la chaîne HMV de magasins de musique, à laquelle Rabco fournissait des écouteurs, des étuis, des bandes vierges et des DVD ainsi que des accessoires similaires. En 1990, Rabco est devenu le fournisseur exclusif de HMV à l’égard des produits de ce genre, initialement aux termes d’un contrat écrit, et ensuite, après 1992, simplement en vertu d’une entente orale. En 2000, HMV représentait 90 p. 100 du chiffre d’affaires de Rabco, et l’entreprise avait pris de l’essor au point qu’elle avait loué un entrepôt de 13 500 pieds carrés et un immeuble à bureaux. Le chiffre d’affaires brut au cours de l’exercice qui a pris fin le 31 janvier 2002 était de plus de 3,5 millions de dollars.
+[4] Les problèmes de M. Bibby ont commencé le 22 octobre 2002. En effet, HMV a informé M. Bibby qu’elle n’achèterait plus de produits de sa société. Or, M. Bibby avait déjà commandé les produits nécessaires pour fournir à HMV la marchandise pour la période des Fêtes, et ces commandes ne pouvaient pas être annulées. M. Bibby a tenté en vain de trouver d’autres clients pour ces stocks. En fin de compte, la marchandise a été vendue à des intermédiaires, à des prix bien inférieurs à leur coût, d’où de grosses pertes. En l’absence d’autres clients, l’entreprise était pratiquement détruite. La société avait été rentable jusqu’à l’exercice qui avait pris fin le 31 janvier 2002 inclusivement, mais des pertes fort élevées ont été subies au cours des exercices qui ont pris fin les 31 janvier 2003 et 2004.
+[5] Au début de l’année 2003, l’appelant a rencontré à deux reprises M. Bruce Davies, le comptable qui agissait pour la société et pour la famille depuis bien des années. M. Davies préparait chaque année les états de la société et il préparait les déclarations de revenus de la société et des membres de la famille. La première réunion a eu lieu au mois de janvier 2003. Lors de la réunion, l’appelant a informé M. Davies que la société ne faisait plus affaire avec HMV, et que, cela étant, elle faisait face à de graves difficultés financières et ne serait plus rentable. La seconde réunion a eu lieu au mois de mars 2003. M. Bibby a encore une fois informé M. Davies des conséquences sérieuses résultant de la perte de HMV comme cliente, et M. Davies lui a alors proposé [traduction] « de modifier la déclaration de revenus de 2002 »[1] de Rabco. Plus précisément, M. Davies a proposé que la déclaration de revenus de Rabco pour l’exercice ayant pris fin le 31 janvier 2002 soit modifiée de façon à diminuer les frais de gestion qui s’étaient accumulés au profit de l’appelant et des membres de sa famille au moyen d’écritures de journal de fin d’exercice, le 31 janvier 2002, [traduction] « parce que la société ne serait pas en mesure d’indiquer un profit permettant de faire face à des montants de ce genre »[2].
+[6] M. Bibby a accepté ce conseil, et M. Davies a préparé une déclaration de revenus T2 modifiée pour Rabco pour l’exercice ayant pris fin le 31 janvier 2002. Une seconde déclaration modifiée pour l’année d’imposition 2002 de Rabco a également été préparée par M. Davies. Malheureusement, un grand nombre de documents que les parties ont produits en preuve sont des copies non datées incomplètes, et M. Bibby et M. Davies ont tous deux présenté un témoignage peu précis au sujet de ce qui avait été fait et du moment où cela l’avait été. Toutefois, il est clair que, grâce aux efforts combinés de M. Bibby et de M. Davies, Rabco a produit, le 7 mai 2002, une déclaration de revenus pour l’année 2002, laquelle montrait que des frais de gestion s’élevant en tout à 322 000 $ avaient été engagés envers les actionnaires et que le revenu net de la société pour l’année était de 152 753 $. Rabco a par la suite produit une déclaration modifiée pour l’année 2002, indiquant des frais de gestion de 98 000 $ et un revenu net de 376 753 $, en réduction duquel était appliquée une perte autre qu’en capital de 132 397 $ reportée rétrospectivement de l’année d’imposition 2003, de sorte qu’il restait un revenu net de 244 356 $[3]. Il semble que M. Davies ait préparé cette déclaration au mois de mars 2003, probablement à peu près au moment où il a préparé les déclarations individuelles de l’appelant et des autres membres de la famille. La preuve est encore une fois vague, mais il semble que cette déclaration modifiée ait été produite par M. Bibby, par courrier recommandé, probablement au mois de novembre 2003. Aucune explication ne figure dans la preuve au sujet de ce retard.
+[7] Rabco a ensuite produit une seconde déclaration modifiée pour l’année 2002, indiquant des frais de gestion qui avaient été ramenés à 71 000 $, et un revenu net de 403 742 $, en réduction duquel étaient appliquées une perte autre qu’en capital de 132 397 $ reportée de l’année d’imposition 2003 et une perte autre qu’en capital de 170 000 $ reportée de l’année d’imposition 2004, de sorte qu’il restait un revenu net de 101 345 $[4]. Selon la preuve soumise par M. Davies, cette seconde déclaration modifiée a été produite le 1er mars 2004 ou à peu près vers cette date.
+[8] Le ministre du Revenu national n’a pas accepté ces déclarations T2 modifiées en ce qui concerne les modifications apportées aux frais de gestion et au bénéfice d’exploitation de Rabco pour l’année 2002. Toutefois, Rabco a fait l’objet d’une nouvelle cotisation pour l’année 2002, le report des pertes des années 2003 et 2004 qui avait été demandé ayant été effectué.
+[9] M. Davies a donné des explications au sujet de la préparation et de la production de ces déclarations T2 modifiées de Rabco. Il a déclaré que, depuis quelques années, la société avait l’habitude d’inscrire les frais de gestion à payer à la fin de l’exercice. La décision, quant au montant des frais de gestion, était mise en œuvre au moyen d’une écriture de journal de fin d’exercice par laquelle la dépense se rattachant aux frais d’administration[5] était débitée, le montant étant porté au crédit du compte de prêt d’actionnaire. Étant donné que la société n’avait qu’un seul compte de prêt d’actionnaire pour les quatre actionnaires, la rémunération des quatre actionnaires était établie au moyen d’une écriture de journal au montant de leur rémunération globale. Au mois de janvier 2002, la société ayant été rentable au cours de l’exercice précédent, il a été décidé d’inscrire des frais de gestion à payer aux quatre membres de la famille s’élevant en tout à 322 000 $[6]. La preuve ne donnait pas à penser que cette décision avait été prise dans l’éventualité où il y aurait des bénéfices futurs suffisants pour payer les montants à payer, et ces montants n’ont pas non plus été comptabilisés à titre de dette éventuelle.
+[10] M. Davies a ensuite expliqué qu’il avait informé M. Bibby des dispositions relatives au report rétrospectif de pertes figurant dans la Loi, et qu’il était possible de produire des déclarations de revenus modifiées. En se fondant sur ce conseil et puisque, de toute évidence, Rabco subirait une perte élevée au cours de son exercice 2003, l’appelant a décidé que Rabco devait produire une déclaration modifiée pour l’année 2002. La première modification visait simplement à réduire les frais de gestion de 322 000 $ à 98 000 $, avec une augmentation concomitante des bénéfices. Le fait que les bénéfices plus élevés étaient plus que compensés par les pertes reportées de l’année 2003, et ensuite de l’année 2004, n’est pas une pure coïncidence. La seconde déclaration modifiée que Rabco a produite pour l’année 2002 visait à réduire la dépense se rattachant aux frais d’administration pour l’année 2002 d’un montant additionnel de 27 000 $. L’explication que M. Davies a donnée au sujet de cette modification était que le montant de 27 000 $ représentait un montant approximatif du revenu réputé attribuable à M. Bibby en 2002 en vertu du paragraphe 15(2) et de l’article 80.4 de la Loi de l’impôt sur le revenu (la « Loi ») par suite des activités associées aux prêts d’actionnaires.
+[11] Les déclarations de revenus T1 de l’appelant et des autres membres de la famille pour l’année 2002 ont été préparées par M. Davies. Les signatures figurant dans ces déclarations sont toutes datées du 28 avril 2003, sauf dans le cas de l’appelant, la signature étant datée du 28 avril 2002. Il s’agissait d’une erreur de sa part, étant donné que le formulaire lui‑même montre clairement qu’il s’agissait de sa déclaration pour l’année 2002. Les quatre membres de la famille ont déclaré les montants suivants au titre d’un revenu tiré d’une profession, dont les frais de gestion de Rabco leur revenant étaient la seule source :
+Richard Bibby 27 000 $
+Camille Bibby 27 000 $
+Christopher Bibby 20 000 $
+Jason Bibby 24 000 $
+Le total de ces quatre montants s’élève à 98 000 $, soit le montant auquel la première déclaration T2 modifiée de Rabco visait à réduire sa dépense se rattachant aux frais de gestion pour l’exercice ayant pris fin le 31 janvier 2002. La preuve soumise par M. Davies montrait clairement qu’à son avis, la décision qui avait été prise au mois de janvier 2002, à savoir que la rémunération des membres de la famille s’élèverait en tout à 322 000 $, était une décision qui pouvait par la suite être modifiée au gré de l’appelant s’il devenait évident qu’il aurait été avantageux pour la société et pour ses actionnaires de fixer la rémunération à un montant bien inférieur, comme cela s’est avéré être le cas au cours des années ultérieures où il y a eu des pertes à déduire du revenu d’entreprise plus élevé, et que les revenus révisés des particuliers seraient assujettis à des impôts beaucoup moins élevés entre leurs mains.
+[12] Bien sûr, la diminution rétroactive de la rémunération des actionnaires aurait par ailleurs pour effet d’accroître leur dette envers Rabco. De fait, lorsque M. Bibby a accepté les conseils de M. Davies et lui a demandé de préparer la déclaration modifiée de 2002 de Rabco et, par la suite, la seconde déclaration modifiée, aucune inscription n’a été effectuée dans le grand livre de Rabco en vue d’indiquer les soi‑disant opérations inversant en partie l’écriture de journal du 31 janvier 2003. À part les déclarations de revenus modifiées, les opérations ont uniquement été enregistrées au moyen de certaines notes rédigées à la main par M. Davies sur une copie de l’état des résultats et des bénéfices non répartis de Rabco pour l’exercice ayant pris fin le 31 janvier 2002[7]. Ce document est reproduit à l’annexe 1 des présents motifs.
+[13] Il est évident que M. Davies s’est trompé en conseillant à l’appelant, en 2003, de réduire, avec effet rétroactif, le montant de la rémunération que Rabco avait attribué aux membres de la famille, lequel avait été inscrit dans les livres comptables de Rabco plus d’un an auparavant. L’avocat de l’appelant soutient que l’article 111 de la Loi permet à la société contribuable qui a subi des pertes inattendues de revenir en arrière et de calculer à nouveau ses bénéfices pour un exercice antérieur, en modifiant des éléments tels que les dépenses de gestion et d’administration. À l’appui de cette thèse, l’avocat s’est principalement fondé sur la décision rendue par la Commission de révision de l’impôt dans l’affaire Brazelot Construction Limited v. M.N.R.[8]. Dans cette affaire, l’appelante, comme elle en avait l’habitude, avait inscrit une rémunération à payer à son président à la fin de l’année 1976. Le montant à payer s’élevait à 195 000 $. L’entreprise a subi un grave revers en 1977, et le président a signé une lettre par laquelle il renonçait à un montant de 150 000 $ sur cette rémunération, qui ne lui avait pas encore été versée. La société a déclaré son revenu compte tenu du fait que le montant à payer, à la fin de 1976, était une dépense déductible et que, puisque le président avait renoncé, en 1977, au montant de 150 000 $ qui n’avait pas encore été payé, ce montant était un revenu au cours de l’année d’imposition 1977. En établissant la cotisation, le ministre semble avoir pris la position selon laquelle seul le montant réellement payé pouvait être considéré comme une dépense en 1976, et qu’aucun montant ne devait être inclus dans le revenu en 1977. La Commission a accueilli l’appel interjeté par la société pour le motif qu’il y avait deux opérations véritables : l’une se rapportant à une dépense engagée au cours de l’année 1976 et l’autre se rapportant à un revenu au cours de l’année suivante. Les distinctions entre cette affaire et la présente espèce sont les suivantes : dans l’affaire Brazelot, les 150 000 $ auxquels le président avait renoncé lorsqu’il y avait eu un ralentissement des affaires en 1977 ne lui avaient pas été versés; en renonçant au solde impayé en 1977, le président éteignait une dette de la société, et cette dette était comptabilisée sur cette base au cours de l’année où cet événement s’était produit. En l’espèce, Rabco a tenté d’annuler l’effet d’une opération qui avait eu lieu au cours d’un exercice antérieur. Dans l’affaire Brazelot, deux opérations avaient eu lieu. En 1976, la société avait convenu d’effectuer des paiements futurs en faveur de son président, s’élevant à 195 000 $ en tout; en 1977, le président avait convenu de renoncer à un montant de 150 000 $ sur sa créance. Chaque opération avait été comptabilisée de la façon appropriée au cours de l’année où elle avait eu lieu. Dans ce cas‑ci, Rabco n’a effectué qu’une seule opération. Elle a déclaré les frais de gestion, et elle a crédité un montant correspondant au compte de prêt d’actionnaire. Tout cela s’est produit au cours de son exercice 2002. Beaucoup plus tard, au cours de l’exercice 2004, Rabco a tenté de modifier l’opération initiale au moyen de quelques notes manuscrites, dans un état financier. Or, les écritures comptables ne peuvent rien changer au passé; il s’agit uniquement d’une façon d’enregistrer des événements qui ont eu lieu, au moment où ils ont eu lieu. Ce truisme a peut‑être été mieux exprimé par le commissaire M. J. Bonner, lorsqu’il était membre de la Commission de révision de l’impôt, dans la décision Brum v. M.N.R.[9] :
+En général, les écritures comptables ne créent pas la réalité. Elles ne sont utiles que dans la mesure où elles enregistrent ou reflètent la réalité.
+En l’espèce, la réalité est consignée dans les écritures qui ont été effectuées à la fin de l’exercice 2002 de Rabco. La décision relative à la rémunération ayant été prise et mise en œuvre à ce moment‑là, elle ne pouvait pas être changée simplement parce qu’il était plus avantageux pour la société et ses actionnaires de le faire.
+[14] L’appelante s’est également fondée sur plusieurs autres décisions portant sur la possibilité pour les employeurs de déduire une rémunération qui s’est accumulée, mais qui n’a pas été versée, en général pour des raisons liées à la capacité de payer de l’employeur. Toutefois, aucune de ces décisions n’étaye la thèse de l’appelant selon laquelle des rajustements apportés aux dépenses d’un exercice antérieur, et des modifications concomitantes apportées au revenu de l’employé pour une année antérieure, peuvent être effectués sur une base rétroactive comme Rabco et M. Bibby ont cherché à le faire dans ce cas‑ci. Bien sûr, une seconde opération du genre de celle qui était en cause dans l’affaire Brazelot peut être effectuée, dans la mesure où elle est comptabilisée au cours de l’exercice où elle a lieu. Cependant, il n’est pas permis de mettre en œuvre rétroactivement des mesures de planification fiscale pour tenter d’annuler l’effet d’opérations qui ont eu lieu au cours d’un exercice antérieur, ou pour tenter de modifier pareilles opérations.
+[15] À la suite d’une vérification, M. Bibby a fait l’objet d’une nouvelle cotisation pour l’année d’imposition 2002, par laquelle les montants suivants ont été ajoutés à son revenu de l’année :
+Revenu non déclaré
+224 000 $
+Avantage non déclaré visé par le paragraphe 15(2) de la LIR
+29 767 $
+Avantage non déclaré visé par le paragraphe 80.4(2) de la LIR
+6 642 $
+Total
+260 409 $
+Une pénalité pour faute lourde a également été établie à l’égard de M. Bibby en vertu du paragraphe 163(2) de la Loi. L’avis de nouvelle cotisation ne précisait pas le fondement de la cotisation relative au revenu non déclaré. Le 20 octobre 2003, le répartiteur, M. Ghambir, avait écrit à M. Bibby pour l’informer de la nouvelle cotisation qu’il se proposait d’établir. Dans cette lettre, il disait ce qui suit :
+[traduction]
+Monsieur,
+Objet : Déclarations de revenus pour les années 2002, 2001 et 2000
+Par suite de l’examen que nous venons d’effectuer des déclarations de revenus de la société Rabco Marketing Limited, nous nous proposons maintenant d’apporter les rajustements suivants à votre revenu imposable :
+2002 2001 2000
+1) Revenu non déclaré 224 000 $
+2) Revenu en vertu du paragraphe 15(2) 29 767 $
+3) Avantage en vertu du paragraphe 80.4(2) 6 642 $ 25 936 $ 16 589 $
+1) Le revenu non déclaré représente le solde de la dépense se rattachant aux frais regroupés de Rabco Marketing Limited qui a été portée au crédit du compte de prêt d’actionnaire en 2002 et qui n’est pas indiquée dans votre déclaration personnelle.
+2) Ce montant représente un revenu en vertu du paragraphe 15(2) de la Loi de l’impôt sur le revenu et se rapporte à votre endettement envers Rabco Marketing Limited.
+3) Cet avantage imposable résulte de prêts que vous avez reçus de Rabco Marketing Limited par suite de votre endettement. Conformément au paragraphe 80.4(2) de la Loi de l’impôt sur le revenu, vous êtes réputé avoir reçu un avantage égal à l’excédent des intérêts sur le prêt, calculés au taux prescrit pour la période de l’année où le prêt était impayé, sur le montant des intérêts versés sur le prêt pour l’année ou au plus tard trente (30) jours après la fin de l’année. [10]
+[16] La cotisation a été examinée à la suite du dépôt d’un avis d’opposition et, le 29 décembre 2004, une autre nouvelle cotisation a été établie, dont le seul effet était de réduire d’un montant de 1 859 $ la valeur de l’avantage accordé à l’actionnaire, établie en vertu du paragraphe 80.4(2). À ce moment‑là, le ministre a également décidé d’annuler la pénalité antérieurement établie, mais par inadvertance, le montant de la pénalité n’a pas été retranché de la cotisation.
+[17] M. Bibby a déposé un avis d’opposition à cette nouvelle cotisation le 12 janvier 2005 et, le 28 février 2005, le ministre a ratifié comme suit la nouvelle cotisation du 29 décembre 2004[11] :
+[traduction]
+AVIS DE RATIFICATION
+Votre avis d’opposition à la cotisation d’impôt sur le revenu qui a été établie pour l’année d’imposition 2002 a été minutieusement examiné en vertu du paragraphe 165(3) de la Loi de l’impôt sur le revenu.
+Le ministre du Revenu national a pris en considération les motifs énoncés dans votre avis d’opposition ainsi que tous les faits pertinents. Il est par les présentes confirmé que la cotisation a été établie conformément aux dispositions de la Loi de l’impôt sur le revenu compte tenu de ce qui suit :
+Les avantages que Rabco Marketing Ltd. vous a conférés, d’une valeur de 224 000 $, ont été inclus dans le calcul de votre revenu conformément aux dispositions du paragraphe 15(1) de la Loi.
+Le montant de 29 767 $ a été inclus dans votre revenu conformément aux dispositions du paragraphe 15(2) de la Loi.
+Lorsque vous étiez un actionnaire de Rabco Marketing Ltd., vous avez reçu un prêt de la société ou vous avez par ailleurs contracté une dette envers la société en raison ou par suite des actions que vous déteniez. Les intérêts que vous avez versés sur ces prêts et sur ces dettes étaient inférieurs aux intérêts calculés au taux prescrit. Un avantage d’une valeur de 4 783 $ a été calculé conformément au paragraphe 80.4(2) et à l’article 4301 du Règlement de l’impôt sur le revenu. Il a été inclus dans votre revenu à titre d’avantage conféré à un actionnaire en vertu des paragraphes 15(1) et 15(9).
+[18] À la fin de l’instruction, j’ai demandé aux avocats de me soumettre des observations supplémentaires par écrit au sujet de la question des frais de gestion non déclarés, ce qu’ils ont tous deux fait. L’appelant a soulevé un certain nombre d’objections au sujet de la cotisation visée par le présent appel et de la position qui est maintenant adoptée par l’intimée, à savoir que la cotisation, dans la mesure où elle se rapporte à la rémunération, est justifiable en vertu de l’article 15 de la Loi ou, subsidiairement, en vertu du paragraphe 5(1) ou 6(1). Selon la première objection de l’appelant, il n’est pas loisible au ministre, même s’il a établi une cotisation en vertu de l’article 6, de soutenir que la cotisation est justifiée en vertu de l’article 5 ou de l’article 6, puisqu’il a ratifié la cotisation en se fondant uniquement sur l’article 15. L’appelant ajoute à titre subsidiaire que, de toute façon, l’intimée n’a pas invoqué l’article 5 ou 6 dans sa réponse à l’avis d’appel et qu’elle ne peut donc pas maintenant les invoquer. La partie de la cotisation se rapportant à la rémunération n’est pas justifiable en vertu de l’article 15, soutient‑il, parce que tout avantage accordé par suite des frais de gestion à payer n’était pas un avantage qui lui avait été accordé en sa qualité d’actionnaire, mais qu’il s’agissait d’un avantage qui lui avait été accordé en sa qualité de directeur de la société et de ses opérations commerciales.
+[19] Selon moi, le premier de ces arguments est dénué de fondement. Depuis que la Cour suprême du Canada a rendu sa décision dans l’affaire Continental Bank[12], et depuis que le paragraphe 152(9) a été édicté en conséquence, la portée de cette disposition a donné lieu à bien des débats. Toutefois, la Cour d’appel fédérale a maintenant clairement dit que le paragraphe 152(9) permet au ministre d’avancer un nouvel argument, fondé sur des dispositions différentes de la Loi, à toute étape antérieure à l’instruction, à condition que ce nouvel argument soit fondé sur les mêmes opérations que celles qui ont donné lieu à la cotisation dont la cour est saisie, et à condition que le nouvel argument n’exige pas la présentation d’éléments de preuve pertinents qui ne peuvent plus être produits sans l’autorisation du tribunal, autorisation qu’il ne convient pas d’accorder dans les circonstances[13]. Dans ce cas‑ci, il est satisfait à cette exigence, étant donné que l’intimée se fonde uniquement sur les écritures de journal de la fin de l’exercice 2002 par lesquelles les frais de gestion à payer ont été enregistrés, et sur les prélèvements effectués par l’appelant et par les membres de sa famille tout au long de l’année 2002.
+[20] Toutefois, je suis d’avis que l’argument subsidiaire de l’appelant doit l’emporter. Il est bien établi que le paragraphe 15(1) ne s’applique pas en vue d’imposer tous les paiements qu’une société effectue en faveur de ses actionnaires, mais uniquement ceux qui sont effectués en dehors du cours normal des activités de l’entreprise. Le professeur Krishna explique ainsi le principe applicable[14] :
+[traduction]
+Les paiements effectués en faveur des actionnaires sont imposables à titre d’avantages accordés aux actionnaires uniquement s’ils sont effectués en dehors du cours normal des activités d’une entreprise. Par conséquent, un paiement effectué en faveur d’un actionnaire dans le cours normal d’une opération commerciale véritable, et conformément à une telle opération, n’entraîne pas d’avantage en vertu de cette règle. Pareils paiements sont pris en compte dans la comptabilisation normale des bénéfices. Ainsi, la personne qui loue un bâtiment à une société dont elle est actionnaire ne reçoit pas nécessairement un avantage à titre d’actionnaire à l’égard du loyer. L’actionnaire qui loue le bâtiment en sa qualité de propriétaire et demande une juste valeur locative est soumis à l’impôt sur le revenu de location. Le paiement effectué en sa faveur ne lui est pas effectué en sa qualité d’actionnaire, mais en sa qualité de propriétaire.
+[…]
+L’article 15 vise les avantages conférés à un actionnaire en sa qualité d’actionnaire. Il ne vise pas les avantages conférés à un contribuable en sa qualité d’employé. [...]
+(Notes de bas de page omises)
+En l’espèce, les frais de gestion qui ont fait l’objet de la cotisation étaient des montants gagnés par l’appelant, ainsi que par les autres membres de sa famille, dans le cours normal des activités d’entreprise de la société. Pour l’application de l’article 15, il importe peu que les montants aient été un salaire ou, comme c’est ici le cas, des frais de gestion. Ce qui importe, c’est que le paiement ait été effectué à titre de rémunération et non simplement en vue de profiter à l’actionnaire. De fait, l’intimée n’a jamais contesté que la société avait droit à une déduction du revenu à l’égard des paiements, en 2002 et au cours des années antérieures.
+[21] Le montant des frais que M. Bibby n’a pas déclarés aurait été imposable entre ses mains en vertu de l’alinéa 6(1)c), mais uniquement dans la mesure où ils étaient réellement reçus par lui au cours de l’année. Selon le libellé précis de cette disposition, les « [...] honoraires qu’il [le contribuable] a reçus au cours de l’année » [...] sont imposés. On ne sait pas trop si M. Bibby a été informé que l’alinéa 6(1)c) était invoqué par le ministre dans sa cotisation. Toutefois, il est clair que, si cette disposition avait été invoquée, il y avait été renoncé au moment où la seconde nouvelle cotisation a été ratifiée. Cet avis de ratification a été produit en preuve et il montre clairement que le ministre se fonde uniquement sur l’article 15. Comme je l’ai dit, il aurait été loisible à l’intimée de se fonder sur l’alinéa 6(1)c) si elle l’avait fait en temps opportun et si la cotisation était limitée aux montants reçus en 2002 par M. Bibby et non par d’autres membres de sa famille.
+[22] Dans la réponse[15], il est expressément plaidé que les 224 000 $ qui représentent la différence entre les frais de gestion de 322 000 $ portés au crédit du compte de prêt d’actionnaire et les 98 000 $ déclarés au titre du revenu par les quatre membres de la famille [traduction] « [...] constituent un avantage conféré par Rabco Marketing Ltd. à l’appelant en sa qualité de principal actionnaire pour l’année d’imposition 2002 »[16]. Il n’est pas explicitement plaidé que M. Bibby a reçu ce montant en 2002. À la partie C de la réponse, qui est intitulée : [traduction] « dispositions législatives, moyens invoqués et conclusions recherchées », il n’est pas fait mention de l’article 5 ou de l’article 6 de la Loi et aucun autre argument n’est invoqué, si ce n’est que le montant est un avantage conféré à un actionnaire. Aucune requête n’a été présentée en vue de faire modifier la réponse, avant, ou même pendant, l’instruction.
+[23] Le paragraphe 49(1) des Règles de procédure générale exige que la réponse indique :
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder.
+Ces exigences visent à assurer que les points litigieux soient définis de façon appropriée aux fins de l’interrogatoire préalable et de l’instruction, de façon que l’appelant sache à quels arguments il doit répondre et qu’il soit en mesure d’organiser et de présenter sa preuve en conséquence. Il ne s’agit pas d’une simple formalité dont on peut omettre de tenir compte si elle n’a pas été respectée; il s’agit d’un élément crucial du processus d’instruction, et l’intégrité de ce processus serait minée si l’on ne faisait aucun cas du manquement : voir Glisic c. La Reine[17].
+[24] Pour ces motifs, l’appelant doit avoir gain de cause dans son appel, dans la mesure où l’appel se rapporte à l’inclusion des frais de gestion dans son revenu.
+[25] L’appelant n’a pas réellement contesté l’inclusion dans son revenu d’un avantage conféré en vertu du paragraphe 15(2) par suite de la dette contractée envers Rabco qui n’avait pas été remboursée à la fin de l’année d’imposition suivante. Les dispositions pertinentes de la Loi sont les paragraphes 15(2), (2.3), (2.6) et 80.4(2).
+15(2) Dette d’un actionnaire. La personne ou la société de personnes – actionnaire d’une société donnée, personne ou société de personnes rattachée à un tel actionnaire ou associé d’une société de personnes, ou bénéficiaire d’une fiducie, qui est un tel actionnaire – qui, au cours d’une année d’imposition, obtient un prêt ou contracte une dette auprès de la société donnée, d’une autre société liée à celle‑ci ou d’une société de personnes dont la société donnée ou une société liée à celle‑ci est un associé est tenue d’inclure le montant du prêt ou de la dette dans le calcul de son revenu pour l’année. Le présent paragraphe ne s’applique pas aux sociétés résidant au Canada ni aux sociétés de personnes dont chacun des associés est une société résidant au Canada.
+15(2.1) […]
+15(2.3) Le paragraphe (2) ne s’applique pas aux dettes contractées dans le cours normal des activités de l’entreprise du créancier ni aux prêts consentis dans le cours normal des activités de l’entreprise habituelle de prêt d’argent du prêteur dans le cas où, au moment où la dette a été contractée ou le prêt, consenti, des arrangements sont conclus de bonne foi en vue du remboursement de la dette ou du prêt dans un délai raisonnable.
+15(2.6) Le paragraphe (2) ne s’applique pas aux prêts ou aux dettes remboursés dans un délai d’un an suivant la fin de l’année d’imposition du prêteur ou du créancier au cours de laquelle ils ont été consentis ou contractés, s’il est établi, à la suite d’événements postérieurs ou autrement, que le remboursement n’a pas été fait dans le cadre d’une série de prêts, de remboursements ou d’autres opérations.
+80.4(2) Lorsqu’une personne (autre qu’une société résidant au Canada) ou une société de personnes (autre qu’une société de personnes dont chacun des associés est une société résidant au Canada) était :
+a) soit un actionnaire d’une société;
+b) soit rattachée à un actionnaire d’une société;
+c) soit un associé d’une société de personnes, ou un bénéficiaire d’une fiducie, qui était actionnaire d’une société,
+et que, à ce titre, la personne ou la société de personnes a reçu un prêt de la société, de toute autre société qui lui est liée ou d’une société de personnes dont la société ou toute autre société qui lui est liée est un associé, ou a par ailleurs contracté une dette en faveur de l’une d’elles, la personne ou la société de personnes est réputée avoir reçu, au cours d’une année d’imposition, un avantage égal à l’excédent éventuel du total visé à l’alinéa d) sur le montant visé à l’alinéa e) :
+d) le total des intérêts sur tous ces prêts et sur toutes ces dettes, calculés au taux prescrit sur chacun de ces prêts et chacune de ces dettes pour la période de l’année où le prêt ou dans la dette était impayé;
+e) le montant des intérêts pour l’année versés sur tous ces prêts ou toutes ces dettes au plus tard 30 jours après le dernier en date de la fin de l’année et du 31 décembre 1982.
+[26] L’avis d’appel met en question l’inclusion par le ministre d’avantages prévus aux paragraphes 15(2) et 80.4(2) dans le revenu de l’appelant. Les hypothèses émises par le ministre donnant lieu à ces inclusions ont été plaidées d’une façon fort précise aux alinéas 23k) à r) et au tableau A de la réponse, qui sont reproduits à l’annexe 2 des présents motifs. L’appelant n’a pas présenté de preuve réfutant ces hypothèses. De fait, la preuve soumise par M. Davies tend à les confirmer. En effet, M. Davies a témoigné qu’une seconde déclaration modifiée T2 avait été produite pour l’année d’imposition 2002 de Rabco parce que, si l’on réduisait d’un montant de 27 000 $ la dépense de la société se rattachant aux frais de gestion et, par conséquent, le revenu de M. Bibby tiré de frais de gestion d’un même montant, cela aurait pour effet de compenser ces avantages, dont la valeur, selon M. Davies, s’élevait à peu près au même montant. Lors de l’argumentation, l’avocat de l’appelant a soutenu que les extraits du compte de prêt d’actionnaire, pièce R‑2, n’avaient pas été prouvés d’une façon appropriée et qu’on ne devrait pas se fonder sur ces extraits. Toutefois, le ministre s’est fondé sur les renseignements pertinents figurant dans le compte en établissant sa cotisation et ces renseignements ont à juste titre été plaidés comme tels. En l’absence d’une contre‑preuve, l’appel doit être rejeté en ce qui concerne ces deux montants.
+[27] Par conséquent, l’appel est accueilli et la nouvelle cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que le montant de 224 000 $ qui a été inclus dans le revenu de l’appelant et la pénalité qui a été établie en vertu du paragraphe 163(2) doivent être retranchés de la cotisation. L’appelant a dans l’ensemble eu gain de cause et il a droit à ses dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2009.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 21e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+ANNEXE 1
+RABCO MARKETING LTD.
+ÉTAT DES RÉSULTATS ET DES BÉNÉFICES
+NON RÉPARTIS POUR L’EXERCICE AYANT PRIS FIN LE 31 JANVIER 2002
+NON VÉRIFIÉ, voir la note au lecteur
+2002
+2001
+Ventes
+Coût des marchandises vendues
+Marge brute
+Dépenses
+Administration
+Publicité et promotion
+Amortissement
+Intérêts et frais bancaires
+Frais de commission
+Assurance
+Frais de bureau et frais généraux
+Honoraires professionnels
+Loyer et entretien
+Téléphone
+Services publics
+Déplacements
+Revenu avant impôt
+Provision pour impôts
+Revenu net pour l’exercice
+Bénéfices non répartis, au début de l’exercice
+Bénéfices non répartis, à la fin de l’exercice
+3 663 124 $
+2 919 246 $
+743 878 $
+322 000 $ 71 000
+1 420 $
+6 806 $
+174 $
+28 831 $
+7 734 $
+3 988 $
+3 350 $
+119 637 $
+3 759 $
+7 724 $
+40 702 $
+546 125 $
+197 753 $
+45 000 $
+152 753 $
+1 030 579 $
+1 183 332 $
+4 437 559 $
+3 747 468 $
+690 091 $
+232 000 $
+450 $
+5 237 $
+1 889 $
+29 050 $
+6 989 $
+11 664 $
+9 791 $
+133 576 $
+5 474 $
+6 154 $
+49 508 $
+491 782 $
+198 309 $
+46 000 $
+152 309 $
+878 270 $
+1 030 579 $
+Notes manuscrites :
+Modification à T2 : Réduire les frais d’administration d’un montant de 251 000 $
+Modification du compte de prêt d’actionnaire :
+Débiter (montant dû aux actionnaires) 251 000 $
+Créditer (frais d’administration) 251 000 $
+ANNEXE 2
+[traduction]
+Alinéas 23k) à r) et tableau A de la réponse :
+k) au cours de l’année d’imposition 2002, l’appelant, sa femme, Camille, et leurs fils, Christopher et Jason, avaient contracté envers Rabco Marketing Ltd. des dettes, aux montants indiqués au tableau A joint à la présente réponse;
+l) les dettes mentionnées à l’alinéa 23k), aux montants indiqués au tableau A, étaient dans une proportion de 72 p. 100 celles de l’appelant;
+m) l’appelant, sa femme, Camille, et leurs fils, Christopher et Jason, n’ont pas versé d’intérêts sur leurs dettes à Rabco Marketing Ltd. au cours de l’année d’imposition 2002;
+n) l’appelant, sa femme, Camille, et leurs fils, Christopher et Jason, ainsi que Rabco Marketing Ltd. résident au Canada;
+o) Rabco Marketing Ltd. ne s’occupe pas de prêt d’argent;
+p) l’appelant, sa femme, Camille, et leurs fils, Christopher et Jason, étaient endettés envers Rabco Marketing Ltd. à cause des actions qu’ils détenaient;
+q) au moment où les dettes ont été contractées, aucun arrangement n’a été conclu de bonne foi en vue du remboursement de la dette dans un délai raisonnable;
+r) les dettes suivantes de l’appelant, qui ont pris naissance au cours de l’année d’imposition 2002, n’ont pas été remboursées avant la fin de l’année d’imposition 2003 de Rabco Marketing Ltd.;
+Taux
+Montant de la dette
+1er janvier 2002
+2 700,00 $
+1er janvier 2002
+8 066,96 $
+1er janvier 2002
+3 000,00 $
+1er janvier 2002
+2 000,00 $
+1er janvier 2002
+3 000,00 $
+1er janvier 2002
+1 000,00 $
+1er janvier 2002
+2 000,00 $
+31 janvier 2002
+8 000,00 $
+29 766,96 $
+[traduction]
+TABLEAU A
+Date
+Montant de la dette
+Nombre de jours
+Taux prescrit
+Intérêts réputés
+1er janvier 2002
+31 janvier 2002
+4 février 2002
+8 février 2002
+18 février 2002
+19 février 2002
+4 mars 2002
+5 mars 2002
+22 mars 2002
+25 mars 2002
+1er avril 2002
+2 avril 2002
+3 avril 2002
+15 avril 2002
+24 avril 2002
+29 avril 2002
+2 mai 2002
+9 mai 2002
+13 mai 2002
+16 mai 2002
+21 mai 2002
+27 mai 2002
+3 juin 2002
+10 juin 2002
+21 juin 2002
+2 juillet 2002
+4 juillet 2002
+8 juillet 2002
+15 juillet 2002
+22 juillet 2002
+29 juillet 2002
+1er août 2002
+2 août 2002
+8 août 2002
+16 août 2002
+19 août 2002
+28 août 2002
+29 août 2002
+3 septembre 2002
+16 septembre 2002
+30 septembre 2002
+2 octobre 2002
+3 octobre 2002
+4 octobre 2002
+7 octobre 2002
+24 octobre 2002
+25 novembre 2002
+29 novembre 2002
+17 décembre 2002
+18 décembre 2002
+24 décembre 2002
+31 décembre 2002
+661 549,52 $
+291 253,96 $
+296 253,96 $
+311 253,96 $
+315 253,96 $
+24 000,00 $
+27 000,00 $
+29 000,00 $
+34 000,00 $
+38 000,00 $
+40 000,00 $
+42 000,00 $
+43 000,00 $
+44 000,00 $
+84 000,00 $
+104 500,00 $
+106 500,00 $
+108 500,00 $
+111 500,00 $
+121 500,00 $
+124 500,00 $
+125 500,00 $
+127 500,00 $
+128 500,00 $
+129 500,00 $
+134 500,00 $
+137 500,00 $
+138 500,00 $
+141 500,00 $
+144 500,00 $
+148 500,00 $
+149 500,00 $
+151 500,00 $
+171 500,00 $
+172 500,00 $
+175 500,00 $
+176 500,00 $
+286 500,00 $
+291 500,00 $
+293 500,00 $
+298 500,00 $
+300 500,00 $
+303 500,00 $
+306 500,00 $
+309 500,00 $
+315 500,00 $
+320 500,00 $
+322 500,00 $
+325 500,00 $
+331 500,00 $
+332 500,00 $
+332 500,00 $
+30
+4
+4
+10
+1
+13
+1
+17
+3
+7
+1
+1
+12
+9
+5
+3
+7
+4
+3
+5
+6
+7
+7
+11
+10
+2
+4
+7
+7
+7
+3
+1
+6
+8
+3
+9
+1
+5
+13
+14
+1
+1
+1
+1
+3
+17
+32
+4
+18
+1
+6
+8
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+2 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+3 %
+1 631,22 $
+95,75 $
+97,40 $
+255,83 $
+25,91 $
+25,64 $
+2,22 $
+40,52 $
+8,38 $
+21,86 $
+2,19 $
+2,30 $
+28,27 $
+21,70 $
+23,01 $
+17,18 $
+40,85 $
+23,78 $
+18,33 $
+33,29 $
+40,93 $
+48,14 $
+48,90 $
+77,45 $
+70,96 $
+22,11 $
+45,21 $
+79,68 $
+81,41 $
+83,14 $
+36,62 $
+12,29 $
+74,71 $
+112,77 $
+42,53 $
+129,82 $
+14,51 $
+117,74 $
+311,47 $
+337,73 $
+24,53 $
+24,53 $
+24,70 $
+24,95 $
+75,58 $
+432,45 $
+829,81 $
+105,37 $
+477,12 $
+26,75 $
+163,48 $
+218,63 $
+6 642,30 $
+Fraction attribuable à l’appelant 72 %
+Avantage réputé accordé à l’appelant au titre des intérêts 4 783,00 $
+RÉFÉRENCE : 2009 CCI 588
+No DU DOSSIER DE LA COUR : 2005-1566(IT)G
+INTITULÉ : RICHARD BIBBY
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 23, 24 et 25 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge E. A. Bowie
+DATE DU JUGEMENT : Le 13 novembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Howard J. Alpert
+Avocate de l’intimée :
+Me H. Annette Evans
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Howard J. Alpert
+Cabinet : Alpert Law Firm
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, page 31, lignes 23 et 24.
+[2] Transcription, page 32, lignes 11 à 14.
+[3] Pièce A-1b), onglet 25.
+[4] Ibid.
+[5] Ce compte est appelé de diverses façons dans la preuve.
+[6] Le montant à payer au 31 janvier 2002 est de fait enregistré au moyen de trois écritures de journal, mais ces écritures n'indiquent pas de montants distincts pour chaque actionnaire. Ces écritures se trouvent dans un extrait du grand livre, pièce R‑1, onglet 16.
+[7] Pièce A-1a), onglet 12, 7e page.
+[8] 81 DTC 449.
+[9] 80 DTC 1607, page 1609.
+[10] Pièce R-1, onglet 24.
+[11] Avis de ratification, 28 février 2005, pièce A‑1a), onglet 6.
+[12] Continental Bank of Canada. c. Canada, [1998] 2 R.C.S. 358.
+[13] Voir : Walsh c. Canada, 2007 CAF 222; [2007] 4 C.T.C. 73, et les décisions qui y sont citées.
+[14] Krishna, Vern, The Fundamentals of Canadian Income Tax, 8e éd. Toronto, Thomson/Carswell, 2004, pages 855 et 856. Voir également Youngness v. The Queen, 90 DTC 6322, page 6325 (C.A.F.).
+[15] Je note que la réponse n'a pas été rédigée par l'avocat qui a comparu à l'instruction.
+[16] Réponse, alinéa 23j).
+[17] [1988] 1 C.F. 731 (C.A.F.); voir également Fortino et al. v. The Queen, 97 DTC 55 (C.C.I.); confirmée 2000 DTC 6060 (C.A.F.).

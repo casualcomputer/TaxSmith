@@ -1,0 +1,203 @@
+---
+title: "Savoie c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27196/index.do"
+last_modified: "2006-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 364"
+citation2: ""
+neutral_citation: "2006 CCI 364"
+decision_date: "2006-07-07"
+language: "fr"
+item_id: "27196"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 999
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:28:53.474000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c1f1039c33f662fbe8a3713e55421ce0f502a39a89d26b5466537976433c92ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Savoie c. M.R.N.
+
+- Citation: 2006 CCI 364
+- Decision date: 2006-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 999, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Savoie c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-07
+Référence neutre
+2006 CCI 364
+Numéro de dossier
+2004-4049(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2004-4049(EI)
+ENTRE :
+JEAN-EUDES SAVOIE,
+requérant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Requête entendue le 11 mai 2006, à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocat de l'intimé :
+Me Alain Gareau
+________________________________________________________________
+ORDONNANCE
+Vu la requête du requérant en rétractation de jugement;
+Et vu les allégations des parties;
+La requête est rejetée selon les motifs de l'ordonnance ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 7ième jour de juillet 2006
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI364
+Date : 20060707
+Dossier : 2004-4049(EI)
+ENTRE :
+JEAN-EUDES SAVOIE,
+requérant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé.
+MOTIFS DE L'ORDONNANCE
+Le juge suppléant Savoie
+[1] Les présents motifs de l'ordonnance portent sur la requête de Jean-Eudes Savoie en rétractation du jugement de cette Cour rendu le 10 janvier 2006.
+[2] La requête a été entendue à Bathurst, Nouveau-Brunswick, le 11 mai 2006.
+[3] Le ministre du Revenu national (le « ministre » ) a pris connaissance du dossier en question et a fait sa détermination selon laquelle le travail exécuté par l'appelant n'était pas en vertu d'un contrat de louage de services, donc cet emploi n'était pas assurable.
+[4] Le 5 octobre 2004, l'appelant a envoyé une lettre à la Cour accompagnée de son avis d'appel. Or sa lettre indique comme adresse le casier postal 2146 alors que l'avis d'appel indique le casier postal 2148.
+[5] La Cour a inscrit cette cause au rôle et a envoyé l'avis d'audition à l'appelant à l'adresse indiquée sur son avis d'appel. La date d'audition était fixée au 12 décembre 2005.
+[6] À la date prévue pour l'audition, l'appelant ne s'est pas présenté et la Cour a rejeté son appel en raison de son absence. Le jugement de la Cour a été rendu le 10 janvier 2006.
+[7] Ce jugement a été envoyé par courrier recommandé à l'appelant au casier postal 2148. L'appelant, devenu requérant par sa requête, l'a reçu le 11 janvier 2006.
+[8] Le 5 avril 2006, Monsieur Jean-Eudes Savoie a fait parvenir à la Cour une demande en rétractation de jugement, pour le motif qu'il n'a jamais reçu l'avis d'audition puisque celui-ci lui avait été envoyé au casier postal 2148 au lieu du casier postal 2146.
+[9] Me Stéphanie Côté, au nom de la Direction des affaires fiscales a fait connaître son avis légal sur la requête du requérant dans sa lettre du 11 avril 2006 adressée à madame Lucie Pilon, de cette Cour, dont copie a été envoyée au requérant. Je reproduis ci-dessous cette lettre de Me Côté :
+Bureau régional du Québec
+Complexe Guy-Favreau
+200, boul. René-Lévesque Ouest
+Tour Est, 9e étage
+Montréal (Québec) H2Z 1X4
+Téléphone : 514 496-3913
+Télécopieur : 514 283-3103 et 283-8427
+Assistante : 514496-3933
+Montréal, le 11 avril 2006
+PAR TÉLÉCOPIEUR
+Madame Lucie Pilon
+Cour canadienne de l'impôt
+200, rue Kent
+Ottawa (Ontario) K1A 0M1
+OBJET: Jean-Eudes Savoie c. Ministre du Revenu national
+No C.C.I. : 2004-4049(EI)
+N/dossier : 3-211990
+Madame,
+Nous répondons à la lettre de l'appelant datée le 5 avril dernier dans laquelle il demande de toute évidence une rétractation du jugement rendu par cette Cour le 10 janvier 2006.
+Nous avons communiqué avec le greffe de la Cour pour des informations sur le contenu du dossier de cet appel. On nous a informée que dans son avis d'appel, l'appelant indique comme adresse la case postale 2148 à Lamèque au Nouveau-Brunswick. C'est donc la raison pour laquelle la correspondance ultérieure a été envoyée à cette adresse.
+Le requérant invoque au soutien de sa demande qu'il n'a jamais reçu l'avis d'audition, parce qu'adressé à la case postale 2148 au lieu de la sienne, la 2146. Il appuie sa requête d'une copie de 3 lettres de l'Agence du revenu du Canada et du ministère de la Justice envoyées pourtant à la case postale 2148.
+La plus ancienne de ces lettres est celle accompagnant notre réponse à l'avis d'appel envoyée le 30 novembre 2004 par courrier recommandé. Les autres sont des lettres envoyées par Me Paraherakis (à l'époque de notre direction) et par la soussignée les 11 janvier et 18 février 2005. Ces lettres ne sont pas envoyées en copie conforme à la Cour et de plus, aucune ne nous a été retournée par Postes Canada. Logiquement, ces trois lettres ont été reçues par M. Savoie, bien qu'elles aient été adressées au 2148, car autrement il n'aurait pu en fournir une copie avec sa requête.
+En ce qui concerne l'avis d'audition, l'agent de greffe nous a informée qu'un premier envoi par courrier recommandé a été fait à l'adresse indiquée dans l'avis d'appel, mais que cette lettre avait été retournée (nous ne savons pas si c'est parce qu'elle n'avait pas été correctement adressée ou parce que non réclamée). Par conséquent, le greffe a tenté un nouvel envoi de l'avis d'audition par courrier ordinaire. Cette 2e correspondance n'a pas été retournée par Postes Canada.
+Le jugement de la Cour a aussi été envoyé au 2148 par courrier recommandé. Le requérant l'a reçu le 11 janvier 2006, comme il en est fait mention dans sa requête.
+Il n'est pas crédible que le requérant n'ait pas reçu son avis d'audition comme il le prétend. Il a reçu tous les autres documents qui lui ont été envoyés au 2148, même si cette case postale était erronée. Pourquoi est-ce que l'avis d'audition ne lui serait pas parvenu? Surtout que le 2e envoi par le greffe de cet avis n'a jamais été retourné par Postes Canada. Tout laisse croire qu'il a effectivement reçu cet avis d'audition.
+Pour demander l'annulation du jugement rendu le 10 janvier 2006, le par.172(2) des Règles de la Cour canadienne de l'impôt (procédure générale) stipule que le requérant doit démontrer la fraude ou des faits survenus ou découverts après que jugement ait été rendu. On ne discute pas de fraude en l'espèce. Reste au requérant à démontrer des faits survenus ou découverts après que le jugement fut rendu.
+Or, l'appelant savait certainement depuis le 30 novembre 2004, quand il a reçu notre réponse à l'avis d'appel que son courrier était envoyé au 2148 et non pas au 2146. Pourtant, il a négligé d'aviser la Cour, l'Agence du revenu du Canada et les avocats du ministre.
+Un autre élément attire notre attention. Il s'agit du délai de près de 3 mois entre le moment où le requérant prend connaissance du jugement (11 janvier) et le moment où il présente sa demande de rétractation de jugement (5 avril). M. Savoie est une personne instruite (il a été enseignant pendant plus de 30 ans) qui était certainement en mesure de comprendre la nature du document. Pourquoi n'a-t-il pas agi plus tôt? On ne trouve aucune explication dans la demande du requérant. Tout ceci laisse croire que M. Savoie a reçu son avis d'audition (2e envoi par la poste ordinaire), a décidé de ne pas se présenter à la Cour et a reçu un jugement conforme aux conséquences de son inaction.
+Nous avons tenté de trouver une explication à ce retard auprès du Ministère des ressources humaines et du Développement social (DRH). On nous a appris que vers le 17 mars 2006, le DRH avait repris les mesures de recouvrement du trop-payé du requérant et que ce dernier avait communiqué avec eux à ce sujet. Les mesures de recouvrement, qui font l'objet d'un gel tant que dure entre autres un appel devant cette Cour, sont reprises dès que survient un jugement final. Ce trop-payé de prestations d'assurance-emploi a été établi après que le ministre du Revenu national eût décidé au stade de l'assurabilité et des appels que l'emploi de M. Savoie auprès de D.L. Logging Express Ltd. n'était pas assurable. C'est l'appel de cette dernière décision qu'a rejetée la Cour par le jugement du 10 janvier 2006.
+Devant l'absence d'explication du requérant quant au délai de 3 mois précité, nous ne pouvons conclure avec certitude que c'est la reprise des mesures de recouvrement par le DRH qui a motivé M. Savoie à présenter sa requête si tard après réception du jugement. Nous soumettons néanmoins que ce motif ne peut justifier une rétractation de jugement.
+Finalement, nous sommes d'avis que selon la balance des probabilités l'appelant était avisé de l'audition de son appel et qu'il était raisonnable de s'attendre à ce qu'il soit présent le jour de l'audition. La Cour a eu raison de prononcer le rejet de l'appel en l'absence de comparution du requérant et par conséquent, le jugement de la Cour ne devrait pas être annulé.
+Nous vous prions d'accepter, Madame, l'expression de nos meilleurs sentiments.
+Me Stéphanie Côté
+Direction des affaires fiscales
+c.c. M. Jean-Eudes Savoie
+[10] Le requérant a fait connaître sa position dans sa lettre du 18 avril 2006, à madame Pilon, quant à l'avis de Me Côté. Je reproduis, ci-dessous, cette lettre du requérant :
+Jean-Eudes Savoie
+C.P. 2146
+Lamèque, NB E8T 3N7
+Le 18 avril 2006
+NUMÉRO DE DOSSIER : 2004-4049 (EI)
+Madame Lucie Pilon
+Bureau Principal
+200 Rue Kent
+Ottawa On K1A 0M1
+Madame Pilon,
+Suite à la lettre datée du 11 avril 2006 que j'ai reçue le 18 avril dernier, j'aimerais éclaircir les points suivants :
+· Le 11 janvier 2006 lorsque j'ai reçu l'avis du jugement de la Cour, j'ai communiqué avec la Cour Canadienne de l'impôt au numéro de téléphone figurant sur la lettre accompagnant le jugement, et c'est alors qu'ils m'ont dit de faire parvenir une demande d'explication par écrit, ce que j'ai fait le 17 janvier 2006.
+· La lettre recommandée que je vous ai fait parvenir le 5 avril 2006 expliquant la situation était en fait la même lettre que j'ai envoyée le 17 janvier 2006 suite à la lettre du jugement de la Cour, seule la date a été changée.
+· Lorsque j'ai reçu la lettre du Gouvernement du Canada datée du 13 mars 2006 disant qu'ils utiliseront les remboursements d'impôt ou paiement de crédit auquel j'aurais droit, c'est alors que j'ai communiqué avec la Cour canadienne de l'impôt pour savoir ce qui en était. Et c'est à ce moment qu'ils m'ont dit que la lettre du 17 janvier 2006 ne figurait pas à mon dossier, de là la lettre recommandée du 5 avril 2006, ce qui, en passant, explique le délai de 3 mois. Si je n'ai pas vérifié la réception de la lettre avant, c'est parce que nous sommes habitués à ces longs délais avant de recevoir des nouvelles de nos correspondances.
+· Il est vrai qu'une erreur de ma part s'est glissée lorsque j'ai fait appel à la Cour canadienne de l'impôt, cependant ce qui est curieux j'ai quand même reçu de la correspondance, même recommandée par après à cette adresse, sauf la lettre de l'avis d'audition recommandé ainsi que l'avis d'audition envoyé par courrier ordinaire ??? Suite à cette situation, je suis allé à Postes Canada pour m'informer. Ils m'ont dit qu'une lettre adressée à la mauvaise case qui est rapportée au bureau est retournée à l'expéditeur. Il se peut aussi que l'adresse soit corrigée si l'employé connaît le destinataire, mais ils n'ont pas pu me donner d'autres précisions concernant les deux lettres mentionnées dans la lettre de Me Côté. Ils m'ont dit qu'il se peut que les propriétaires de la case 2148 n'aient pas réclamé la lettre recommandée parce qu'elle ne leur était pas destinée et n'ont pas retourné la lettre par courrier ordinaire. Je pense toutefois que l'avis d'audition n'aurait pas dû être envoyé par courrier ordinaire. Un appel téléphonique aurait pu régler le cas.
+Je confirme par cette lettre aucun des 2 avis d'audition mentionnées dans la lettre de Me Côté du 11 avril 2006 ne m'a ... parvenu.
+En espérant que cette situation se règle sous peu, veuillez agréer, Madame Pilon, l'expression de mes sentiments les meilleurs.
+Jean-Eudes Savoie
+P.J. : Lettre du 11 avril 2006
+Lettre du 17 janvier 2006 »
+[11] À l'audition, le requérant n'a apporté aucun fait nouveau.
+[12] La procédure à suivre pour présenter une requête en rétractation a été établie par les Règles de la Cour canadienne de l'impôt (procédure générale). En voici l'extrait applicable dans cette instance :
+Règles de la Cour canadienne de l'impôt(procédure générale)
+Annulation ou modification de jugements en raison d'erreur - Général
+172.(2) Une partie peut demander, par voie de requête dans l'instance, selon le cas :
+a) l'annulation ou la modification d'un jugement en raison d'une fraude ou de faits survenus ou découverts après qu'il a été rendu ;
+...
+Selon cette Règle, le recours invoqué par le requérant est fondé sur l'existence « d'une fraude ou de faits survenus ou découverts après qu'il a été rendu » .
+[13] Or, le fardeau de la preuve repose sur le requérant de prouver l'existence d'un de ces éléments, selon la prépondérance de la preuve, mais cette preuve n'a pas été faite.
+[14] Par ailleurs, le requérant n'a pas été en mesure d'expliquer comment certains documents lui sont parvenus au casier postal 2148 et non pas les autres, comme le souligne Me Côté dans sa lettre reproduite ci-dessus.
+[15] En outre, le retard du requérant à présenter sa requête n'a pas été expliqué et coïncide avec la démarche de recouvrement du trop-payé, entamée par le DRH, de façon à mettre en doute la crédibilité de celui-ci et, en conséquence, le bien-fondé de sa démarche.
+[16] Pour ces motifs, la requête est rejetée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 7ième jour de juillet 2006
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI364
+No DU DOSSIER DE LA COUR :
+2004-4049(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Eudes Savoie et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 11 mai 2006
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DE L'ORDONNANCE:
+Le 7 juillet 2006
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Pour l'intimé :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER:
+Pour le requérant :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

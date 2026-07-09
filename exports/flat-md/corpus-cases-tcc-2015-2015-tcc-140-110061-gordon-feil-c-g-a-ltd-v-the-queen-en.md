@@ -1,0 +1,179 @@
+---
+title: "Gordon Feil, C.G.A., Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110061/index.do"
+last_modified: "2015-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 140"
+citation2: ""
+neutral_citation: "2015 TCC 140"
+decision_date: "2015-06-08"
+language: "en"
+item_id: "110061"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2833
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:19:48.808000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce38ca9d1ff6251aab744f64c5de5cccc9baef99881dbd23fb5463c9da86438f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gordon Feil, C.G.A., Ltd. v. The Queen
+
+- Citation: 2015 TCC 140
+- Decision date: 2015-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2833, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gordon Feil, C.G.A., Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-08
+Neutral citation
+2015 TCC 140
+File numbers
+2011-3186(IT)I, 2011-3187(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3186(IT)I
+BETWEEN:
+GORDON FEIL, C.G.A., LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2011-3187(IT)I
+AND BETWEEN:
+LESLIE FEIL, C.G.A., LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence on May 27, 2015
+at Victoria, British Columbia
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellants:
+Daniel Mildenberger
+Counsel for the Respondent:
+Raj Grewal
+JUDGMENT
+The appeals with respect to assessments made under the Income Tax Act by notices numbered 25768 and 25770 are dismissed.
+The respondent is entitled to costs with respect to its preliminary motion in the appeal of Gordon Feil, C.G.A., Ltd. v. The Queen, which costs are fixed in the amount of $250 and shall be paid by Gordon Feil, C.G.A., Ltd. no later than June 29, 2015.
+Signed at Toronto, Ontario this 8th day of June 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 140
+Date: 20150608
+Docket: 2011-3186(IT)I
+BETWEEN:
+GORDON FEIL, C.G.A., LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2011-3187(IT)I
+AND BETWEEN:
+LESLIE FEIL, C.G.A., LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+Background [1] The question to be decided is whether the appellants failed to comply with notices commonly known as “requirements to pay” issued pursuant to subsection 224(1) of the Income Tax Act and as a result each are liable to pay $1,800 pursuant to subsection 224(4) of the Act.
+[2] The relevant provisions are reproduced below.
+224(1) Where the Minister has knowledge or suspects that a person is, or will be within one year, liable to make a payment to another person who is liable to make a payment under this Act (in this subsection and subsections 224(1.1) and 224(3) referred to as the “tax debtor”), the Minister may in writing require the person to pay forthwith, where the moneys are immediately payable, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor’s liability under this Act.
+[…]
+224(4) Every person who fails to comply with a requirement under subsection 224(1), 224(1.2) or 224(3) is liable to pay to Her Majesty an amount equal to the amount that the person was required under subsection 224(1), 224(1.2) or 224(3), as the case may be, to pay to the Receiver General.
+[3] The appellants, Gordon Feil, C.G.A., Ltd. and Leslie Feil, C.G.A., Ltd., and a third person are each members of a joint venture that carries on an accounting business under the name Feil & Co.
+[4] Gordon Feil and Leslie Feil are brothers and each is a shareholder of one of the appellants.
+[5] The members of Feil & Co. each received from the Minister of National Revenue a requirement to garnish payments to be made by Feil & Co. to Gordon Feil. The requirements were issued because Gordon Feil was indebted in respect of a tax debt, which as at December 1, 2006 was in the amount of $93,645.
+[6] In 2004, Feil & Co. made payments that the Minister says contravened the requirements to pay. The payments were made by three cheques that totalled $4,500. Two of the cheques were payable to “The Living Love Society” and one cheque was payable to “overseer, living love society.”
+[7] It is the respondent’s position that these payments were made to Gordon Feil and as such were contrary to the requirements to pay. Accordingly, separate assessments were issued to the members of Feil & Co. in accordance with s. 224(4) of the Act. As I understand it, the appellants are the only members of Feil & Co. to appeal this decision.
+[8] The appellants submit that the payments were not made to Gordon Feil and in support introduced a copy of a document purporting to be Articles of Incorporation from the State of Nevada relating to the incorporation of the following entity:
+Gordon Norman Feil, Overseer of Living Love Society*, and His Successors, A Corporation Sole (*an un-incorporated Spiritual Society)
+[9] The above will be referred to in these reasons as the “Corporation Sole.”
+Preliminary matter [10] At the commencement of the hearing, the respondent brought a motion to quash one of the appeals because it mentioned the wrong assessment. Counsel for the appellants did not dispute that the reference was incorrect.
+[11] Despite the objection of the respondent, I permitted the pleadings to be amended to correct the problem. I also awarded costs to the respondent because an amendment to the notice of appeal should have been sought before the hearing. There is no good reason that the respondent was forced to bring a motion to have this dealt with.
+Discussion [12] The only issue that is engaged in these appeals is whether the three cheques by Feil & Co. constituted payments to Gordon Feil. At the hearing, I questioned whether it was appropriate for each member of Feil & Co. to be assessed for the same failure. Counsel for the appellants did not make submissions on this point and I see no reason to allow the appeals on this basis.
+[13] Counsel for the respondent makes two arguments in support of its position that the payments were made by Feil & Co. to Gordon Feil. First, it is submitted that the payments were made to the Corporation Sole which was acting as a nominee or agent of Gordon Feil because Mr. Feil used the funds transferred to this entity for his own benefit. Alternatively, the respondent submits that the appellants have not established that the Corporation Sole is an entity that is separate from Gordon Feil.
+[14] During argument, counsel for the appellants suggested that he had not been given adequate notice of the alternative argument. He said that the focus of the prior discussions had been on whether the Corporation Sole was acting as an agent or nominee.
+[15] I would comment that counsel for the appellants was somewhat prepared concerning the alternative argument because he introduced a copy of the purported Articles of Incorporation and he introduced excerpts from legislation, such as the B.C. Business Corporations Act, under which a corporation sole is specifically excluded from being a “corporation” for purpose of that statute.
+[16] Although the appellants were somewhat prepared on this point, I am troubled by the respondent’s reliance on this argument because it is not raised in the replies. In fact, the replies do not raise any legal argument at all except for an unhelpful statement that s. 225(4) of the Act should apply with respect to the payments.
+[17] If this issue were to be engaged in these appeals, I would conclude that the appellants have failed to establish that the Corporation Sole is a separate entity. In particular, there was no evidence at all as to the law of the State of Nevada as to the nature of a corporation sole.
+[18] The appellants suggested that it was appropriate to look at Canadian law on this point. Even if this were the correct approach, I was not pointed to any authority which would lead me to conclude that a corporation sole generally has characteristics of a separate entity.
+[19] However, in light of the inadequate replies I would prefer to base my decision on the respondent’s main argument.
+[20] The issue, then, is whether Feil & Co. paid amounts totalling $4,500 to the Corporation Sole as a nominee or agent of Gordon Feil.
+[21] The conclusion that I have reached is that the appellants have not made out a prima facie case on this point.
+[22] The evidence by the appellants regarding this issue was extremely brief. Essentially, Mr. Feil provided brief, self-interested testimony to the effect that he formed the Corporation Sole for charitable activities and that he wanted it to continue on after him. He also stated that the Corporation Sole was not very active and that it received and disbursed funds. The disbursements, he said, were to charities, churches and relatives.
+[23] This self-interested testimony is simply too brief to be believable and is not sufficient to establish a prima facie case that the payments were not made to the Corporation Sole as the nominee of Gordon Feil.
+[24] Further, in cross-examination Mr. Feil acknowledged that funds from the Corporation Sole were used for the benefit of his parents, his spouse’s medical expenses, tuition fees, hydro and water on his home, and personal visa bills.
+[25] In addition, Mr. Feil’s testimony regarding a charitable donation appears to be untrue. On cross-examination, Mr. Feil denied that the Corporation Sole made a charitable donation that he deducted on his own income tax return.
+[26] This testimony appears to be contrary to evidence given on Mr. Feil’s examination for discovery in a similar matter involving Gordon Feil, C.G.A., Ltd. (2011-2834(IT)G). The following answers from the discovery were read in by the respondent:
+Q. Okay. Now, did you claim donations to this charity on your personal tax return?
+A. Either on mine or my wife’s. Some of the children that were supported were supported through personal accounts, some were supported through the Corporation Sole account.
+Q. Okay. But these charitable donations made to Compassion Canada were not claimed on any tax returns filed by the Corporation Sole or Living Love probably because they didn’t file tax returns; right?
+A. That’s right.
+[27] The evidence as a whole, and particularly the lack of evidence by the appellants, suggests that Mr. Feil set up the Corporation Sole as a conduit for his own personal expenses. I would also note that Mr. Feil’s corporation was a member of Feil & Co. and that Feil & Co. would have been aware through this connection that the Corporation Sole was just a conduit.
+[28] I would conclude that the respondent was correct to conclude that the cheques written by Feil & Co. were in fact payments to Mr. Feil that were contrary to the requirements to pay.
+[29] The appeals will be dismissed on this basis.
+Signed at Toronto, Ontario this 8th day of June 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 140
+COURT FILE NOs.:
+2011-3186(IT)I
+2011-3187(IT)I
+STYLE OF CAUSE:
+GORDON FEIL, C.G.A., LTD. and HER MAJESTY THE QUEEN
+LESLIE FEIL, C.G.A., LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+May 27, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+June 8, 2015
+APPEARANCES:
+Counsel for the Appellants:
+Daniel Mildenberger
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Daniel Mildenberger
+Firm:
+Stevenson Luchies & Legh
+Victoria, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

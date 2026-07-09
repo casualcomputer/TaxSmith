@@ -1,0 +1,313 @@
+---
+title: "Masino Millet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29577/index.do"
+last_modified: "2009-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 629"
+citation2: ""
+neutral_citation: "2009 TCC 629"
+decision_date: "2009-12-18"
+language: "en"
+item_id: "29577"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6333
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:41:04.434000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7d894548c2e113c2f19319ca141bff864a0a02316d834f018e5b1015620c2b06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Masino Millet v. The Queen
+
+- Citation: 2009 TCC 629
+- Decision date: 2009-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6333, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Masino Millet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-18
+Neutral citation
+2009 TCC 629
+File numbers
+2008-2460(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-2460(GST)G
+BETWEEN:
+GISÈLE MASINO MILLET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 6, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the unnumbered assessment of July 23, 2007, made pursuant to Part IX of the Excise Tax Act, for the period from January 1, 2006, to December 31, 2006, is allowed in part and the said assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant should be allowed input tax credits of $8,724.78. Costs to the appellant.
+Signed at London, Ontario, this 18th day of December 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 28th day of April 2010.
+Erich Klein, Revisor
+Citation: 2009 TCC 629
+Date: 20091218
+Docket: 2008-2460(GST)G
+BETWEEN:
+GISÈLE MASINO MILLET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal of an unnumbered assessment dated July 23, 2007 made by the Minister of Revenue of Quebec, acting on behalf of the Minister of National Revenue (both hereinafter referred to as “the Minister”), pursuant to Part IX of the Excise Tax Act, R.S.C., 1985, c. E-15 (ETA) for the period from January 1, 2006, to December 31, 2006.
+[2] In making the said assessment, the Minister, when calculating the appellant’s net tax, disallowed a portion of the amount she had claimed as input tax credits (ITC), namely the amount of $16,461.91 ($16,511.75 ‑ $49.75), being the goods and services tax (GST) that the appellant paid when acquiring supplies of goods and services for improvements to her principal residence consisting in the construction of an annex to be rented to related parties and used as a painter’s and a sculptor’s studios.
+[3] The only issue in this appeal is whether the appellant is entitled to the ITCs she claimed for 2006 for the improvements to her home.
+[4] The relevant facts in this case are as follows:
+(a) the appellant, a registrant for the purposes of the ETA, owns a residence located on an approximately 9,600-square-foot lot at 190 Bord‑de‑l’eau Est in Longueuil;
+(b) the appellant’s son, Alexander Masino, and his spouse, Yechel Gagnon, a painter and sculptor respectively, reside with the appellant;
+(c) the appellant hired architect Marc Deschamps to design a new building (the annex) to house two 500-square-foot workshops with 11-foot ceilings. An industrial-quality ventilation system was also to be installed;
+(d) the annex was designed to be attached to the residence as the municipal zoning by-laws did not permit the construction of a building separate and distinct from the residence;
+(e) construction of the annex began in June 2006 and was completed in October 2006. The construction required demolition of a part of the residence. The construction costs for the annex were $273,018.87, and GST of $16,461.96 was paid to the suppliers of the goods and services used in the construction of the annex;
+(f) following the construction of the annex, the appellant, her son and her daughter-in-law continued to live in the residence, but the annex was used exclusively for commercial purposes by the appellant’s son and daughter-in-law. A first lease was signed between the appellant and her son and daughter-in-law for the rental of three rooms, a bathroom and half of the basement (for storage). This 8-month lease was dated November 1, 2006, and expired June 30, 2007. A second lease, for one year, was entered into on June 30, 2007, and this time the lease included two workshops of approximately 600 square feet each with an adjoining room—with a sink—for storage, the staircase connecting the residence and the annex, the garage, a bathroom, and half the basement for storage;
+(g) for municipal and land registry purposes, there is just one structure on the lot located at 190 Bord‑de‑l’eau Est in Longueuil and there is no separate civic address for the annex. The residence and the annex are connected to the same electric meter and cannot be sold separately.
+[5] Counsel in the present case disagree as to the statutory provisions—either subsection 169(1) or subsection 208(4) of the ETA—that apply, nor do they agree on the percentage of the residence and the annex used for commercial purposes. According to the appellant, the commercial-use area is 62% whereas the respondent maintains that it is 47% (see the table attached to these reasons). The dispute here concerns the percentage of commercial use of three areas: the garage (100% according to the appellant versus 0% according to the respondent), the area above the garage (80% according to the appellant versus 0% according to the respondent), and the basement (75% according to the appellant versus 50% according to the respondent). The calculation of the square footage of the three areas is not contested.
+Analysis
+[6] The assessment at issue is based on the application of subsection 208(4) of the ETA, which reads as follows:
+(4) Improvement to capital real property by individual—Where an individual who is a registrant acquires, imports or brings into a participating province an improvement to real property that is capital property of the individual, the tax payable by the individual in respect of the improvement shall not be included in determining an input tax credit of the individual if, at the time that tax becomes payable or is paid without having become payable, the property is primarily for the personal use and enjoyment of the individual or a related individual.
+[7] Subsection 208(4) of the ETA expressly prohibits the granting of an ITC with respect to improvements to real property where the property is primarily for the personal use of the registrant. The words “improvement”, “real property” and “capital property” used in subsection 208(4) are defined in subsection 123(1) of the ETA:
+“capital property”, in respect of a person, means property that is, or would be if the person were a taxpayer under the Income Tax Act, capital property of the person within the meaning of that Act, other than property described in Class 12, 14 or 44 of Schedule II to the Income Tax Regulations;
+"improvement", in respect of property of a person, means any property or service supplied to, or goods imported by, the person for the purpose of improving the property, to the extent that the consideration paid or payable by the person for the property or service or the value of the goods is, or would be if the person were a taxpayer under the Income Tax Act, included in determining the cost or, in the case of property that is capital property of the person, the adjusted cost base to the person of the property for the purposes of that Act;
+“real property” includes
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+(c) a mobile home, a floating home and any leasehold or proprietary interest therein.
+[8] Under the above definition, the term “improvement” includes any property or service supplied to a person for the purpose of improving property of the person, to the extent that the consideration paid or payable by the person for the property or service is included in determining, in the case of property that is capital property of the person, the adjusted cost base to the person of the property for the purposes of the Income Tax Act.
+[9] The first meaning of the French verb “améliorer” (“to improve”) given in the Petit Robert is: [TRANSLATION] “make improvements to (a place, a residence)—beautify, repair, restore”. As regards the term “amélioration” (improvement), the first meaning given in the Petit Robert is: [TRANSLATION] “work or expenditures on property resulting in an increase in the property’s value.”
+[10] Counsel for the appellant argued that, in the present case, the construction of the annex was not an improvement to the residence, as the work did not increase the value of the residence.
+[11] In support of their argument, counsel for the appellant referred to the general principles of statutory interpretation set out by the Supreme Court of Canada in
+Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, among which is the following principle (page 610): “The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole.”
+[12] Counsel for the appellant also referred to the principles set out by the Supreme Court of Canada in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, regarding the onus of proof. It is appropriate to refer here to the following principles stated on pages 378 and 379:
+It is trite law that in taxation the standard of proof is the civil balance of probabilities . . . and that within [the] balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter. . . . The Minister, in making assessments, proceeds on assumptions . . . and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment . . . . The initial burden is only to “demolish” the exact assumptions made by the Minister but no more . . . .
+This initial onus of "demolishing" the Minister's exact assumptions is met where the appellant makes out at least a prima facie case . . . The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister’s assumptions . . . .
+Where the Minister’s assumptions have been “demolished” by the appellant, “the onus . . . shifts to the Minister to rebut the prima facie case” made out by the appellant and to prove the assumptions . . . .
+Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed . . . .
+[13] Counsel for both parties referred to the definition of a prima facie case given by the Federal Court of Appeal in Amiante Spec Inc. v. The Queen, 2009 FCA 139, at paragraph 23:
+A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence" . . . .
+[14] The evidence presented at trial does not support counsel for the appellant’s conclusion that the annex did not add value to the property. No evidence to that effect was presented and no assessment was submitted. Counsel for the appellant simply stated that it is a single residence located in an area zoned residential and that its value is intrinsically related to its use. They also asserted that if the property was sold the appellant would lose money.
+[15] Contrary to the dictionary definition, the definition of the term “improvement” in the ETA does not require that an improvement bring about an increase in the value of real, or other, property that is improved. Since the term “improvement” is defined in the Act, there is no need to rely on the dictionary definition.
+[16] Subsection 208(4) of the ETA deals with improvements to real property, which term, according to the definition in subsection 123(1), includes, in respect of property in Quebec, immovable property and every lease thereof. Pursuant to article 900 of the Civil Code of Québec, land, and any constructions and works of a permanent nature located thereon and anything forming an integral part thereof, are immovables.
+[17] In this case, the annex is not an immovable separate and distinct from the residence and is an integral part of the real property that includes both the residence and the land. However, as the basis of the assessment was established without considering the use of the land, it is not appropriate to use the square footage of the lot in calculating the area of the property that was used for personal purposes. Indeed, paragraph 31(n) of the Reply to the Notice of Appeal makes no reference to the square footage of the lot. Paragraph 31(n) of the Reply to the Notice of Appeal reads as follows:
+[translation]
+(n) the total area of the residence and the annex is 4,744 square feet (2,597 + 2,147); the residence portion represents 55% of the total area (2,597/4,744).
+[18] Another condition for the application of subsection 208(4) of the ETA is that the improvement must be made to real property that is capital property of an individual. The definition of capital property in subsection 123(1) refers to the meaning given that term in the Income Tax Act, which, in section 54, defines “capital property” as follows:
+"capital property" of a taxpayer means
+(a) any depreciable property of the taxpayer, and
+(b) any property (other than depreciable property), any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss, as the case may be, of the taxpayer.
+[19] Here, it is not disputed that the real property in question is capital property of the appellant.
+[20] Having determined that the addition of the annex constituted an improvement to real property that was capital property belonging to the appellant, it must now be determined whether the real property (excluding the land) is primarily for the personal use of the appellant or an individual related to her.
+[21] The word “primarily” has often been defined by this Court as meaning more than 50 percent of the total use of the property in question (Navaho Inn v. Canada, [1995] G.S.T.C. 21 and Mid‑West Feed Limited et al. v. M.N.R., 87 DTC 394).
+[22] As a result of the revised calculations of the surface area of the basement submitted by the parties’ counsel after the hearing of the appeal, the total area (commercial and non-commercial) of the property is 4,419 square feet, while the area of the garage and the room above the garage is the same, 261.32 square feet, and that of the basement is 732.13 square feet.
+[23] According to Alexandro Masino’s testimony, the garage is used by his spouse for sawing wood; the room above the garage is a former living room converted into an office where his wife and he each have a computer, while the bathroom in the basement is used by his spouse and him to wash after a day of work.
+[24] In the lease dated November 1, 2006, the garage is not specifically mentioned as being included in the rooms rented, but in the lease dated June 30, 2007, the garage is included. At the hearing, counsel for the respondent acknowledged that the three rooms referred to in the lease dated November 1, 2006, included both workshops and the garage. As a result, the garage must be considered as having been used exclusively for commercial purposes.
+[25] With respect to the former living room above the garage, it is not mentioned in either lease, even though the second lease is very specific with respect to the rooms rented. Consequently, the room above the garage must be considered as being used exclusively for personal purposes even if, in fact, this room may very well be used by the appellant’s son and daughter-in-law for their commercial activities. Under the rules of evidence, a valid written document cannot be contradicted by testimonial evidence (i.e. the appellant’s son’s testimony).
+[26] Half the basement is, according to the two leases, included in the rented rooms. The same is true for the bathroom located in the basement. Counsel for the appellant contended at the hearing that more than 50% of the basement was used for storage of works and that, as a result, claiming 75% of the basement as being for commercial use was appropriate, particularly since the bathroom with shower was also included among the rented rooms.
+[27] Just as for the room above the garage, I do not think that the percentage of the commercial use of the basement can exceed 50% because that is what is expressly provided in the November 1, 2006 and the June 30, 2007 leases, i.e. that only half the basement was rented.
+[28] The area of the basement bathroom was not considered in the calculation of the percentage of the commercial use of the property. The evidence did not show whether this bathroom was part of the half of the basement that was rented or whether, on the contrary, it was part of the unrented half of the basement. In addition, neither party submitted evidence as to the dimensions of this bathroom. The respondent simply did not consider the bathroom, while the appellant attempted to increase the percentage of commercial use of the entire basement from 50% to 75%. Both parties had the opportunity to modify their calculations when filing, after the hearing of the case, a new table showing the percentages of commercial and non-commercial use of the rooms on the property. As a result, I cannot take the area of the basement bathroom into account in the calculation of the percentage of commercial use of the property’s rooms.
+[29] The addition of the area of the garage to the commercial square footage increases the total commercial square footage to around 53% of the total, and the non-commercial area is then 47%. Consequently, subsection 208(4) of the ETA is not applicable in this case and we must turn to the general rule laid down in subsection 169(1) of the ETA to determine the ITC amount to which the appellant is entitled with respect to the property and services she acquired in relation to the addition of the annex.
+[30] Subsection 169(1) of the ETA provides as follows:
+(1) General rule for credits—Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[31] Pursuant to subsection 169(1) of the ETA, any registrant who acquires property or a service may claim, in the calculation of the registrant’s net tax, an ITC corresponding to the GST paid or payable by the registrant for the said property or service that is consumed, used or supplied, to the extent that the registrant intends to use it in the course of the registrant’s commercial activities.
+[32] Paragraph 169(1)(b) of the ETA specifies that where improvements are made to capital property of the person who is a registrant, one must use the percentage representing the extent to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property of a portion thereof was last acquired by the person. In the present case, this means that the appellant is entitled to ITCs equivalent to 53% of the GST payable or paid by her with respect to the improvements made to her capital property.
+[33] For these reasons, the appeal is allowed in part and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the
+appellant should be allowed ITCs of $8,724.78, that is, 53% of $16,461.86. The appellant shall have her costs.
+Signed at London, Ontario, on this 18th day of December 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 28th day of April 2010.
+Erich Klein, Revisor
+APPENDIX 1
+Calculation of area of existing building (prior to addition)
+Non-commercial
+Description
+Width
+Depth
+Floors
+Use
+Revenu Québec (corrected)
+Appellant’s position
+Main
+rectangle
+28.41’
+31.49’
+2
+1789.09
+1789.09
+Exit stairs (minus)
+11.93’
+13.62’
+2
+-324.84
+-324.84
+Basement (home)(Revenu QC)
+28.41’
+31.49’
+1
+(894.55-162.42) x 50%
+366.06
+n/a
+Basement (home)(appellant)
+28.41’
+31.49’
+1
+(894.55-162.42) x 25%
+n/a
+183.03
+Garage
+12.22’
+21.39’
+1
+261.32
+0
+Above garage
+12.22’
+21.39
+1
+261.32
+52.26 (20%)
+Total
+2,353
+1,700
+Calculation of area of addition
+Commercial
+Description
+Width
+Depth
+Floors
+Use
+Revenu Québec (corrected)
+Appellant’s position
+Main
+rectangle
+20.00’
+35.00’
+2
+1400.00
+1400.00
+Basement (addition)
+n/a
+n/a
+0
+0.00
+0.00
+Staircase
+10.00’
+5.00’
+2
+100.00
+100.00
+Hallway
+10.00’
+10.00’
+2
+200.00
+200.00
+Basement (home)(Revenu QC)
+28.41’
+31.49’
+1
+(894.55-162.42) x 50%
+366.06
+n/a
+Basement (home)(appellant)
+28.41’
+31.49’
+1
+(894.55-162.42) x 75%
+n/a
+549.10
+Additions as per the appellant’s position
+Commercial
+Garage
+261.32 (100%)
+Above garage
+209.06 (80%)
+Total
+2006
+2719
+TOTAL (total area: commercial and non-commercial)
+4419
+4419
+PERCENTAGE (non-commercial area
+53%
+38%
+PERCENTAGE (commercial area)
+47%
+62%
+CITATION: 2009 TCC 629
+COURT FILE NO.: 2008-2460(GST)G
+STYLE OF CAUSE: Gisèle Masino Millet v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: July 6, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: December 18, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Dominic C. Belley
+Vincent Dionne
+Firm: Ogilvy Renault
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

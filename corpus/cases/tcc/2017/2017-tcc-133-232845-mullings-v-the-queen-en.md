@@ -1,0 +1,506 @@
+---
+title: "Mullings v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232845/index.do"
+last_modified: "2017-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 133"
+citation2: ""
+neutral_citation: "2017 TCC 133"
+decision_date: "2017-07-20"
+language: "en"
+item_id: "232845"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2118
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:17:08.979000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1df41794e2e5207c7f5992e9e4bdf7ce8f5d8f5603fb99b6c6464aa0f33a0283"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mullings v. The Queen
+
+- Citation: 2017 TCC 133
+- Decision date: 2017-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2118, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mullings v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-07-20
+Neutral citation
+2017 TCC 133
+File numbers
+2016-2938(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2938(IT)I
+BETWEEN:
+ERIN MULLINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 20, 2017.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the Appellant:
+Norman John Adams
+Counsel for the Respondent:
+John Maskine
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the determination made under the Income Tax Act, notice of which is dated July 27, 2015, is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant’s younger child, X, is eligible for the credit for mental or physical impairment.
+Signed at Ottawa, Ontario, this 10th day of July 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 133
+Date: 20170720
+Docket: 2016-2938(IT)I
+BETWEEN:
+ERIN MULLINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+[These amended reasons for judgment are issued in substitution
+for the reasons for judgment signed on July 10, 2017
+to correct a grammatical error in footnote 19.]
+Jorré J.
+Introduction
+[1] The Appellant’s youngest child, “X”, has classical phenylketonuria (“PKU”). PKU is a genetic disorder that eliminates or severely restricts the body’s ability to metabolize phenylalanine (“Phe”), an amino acid necessary for healthy growth and development. Phe is found in all natural dietary proteins. [1] PKU has very severe consequences unless the necessary treatment plan is followed vigorously and unrelentingly. Untreated it would cause permanent severe damage to the brain of the child.
+[2] The following describes clearly and succinctly both the nature of PKU and its potential consequences: [2]
+. . . [Classical] Phenylketonuria is an inherited impairment of the body’s ability to metabolize the amino acid phenylalanine. This is a genetic condition, meaning it is life long and starts at birth. This is a serious condition, as phenylalanine metabolism is a vital function. Without the ability to metabolize phenylalanine, the levels of phenylalanine in the body quickly rise (within a day) to toxic levels. Short term, high phenylalanine affects cognitive ability (executive function) and long term (in children) causes permanent severe brain damage.
+People who do not have this impairment (i.e. do not have phenylketonuria) can metabolize phenylalanine, therefore they do not have to follow a phenylalanine-restricted diet. People with phenylketonuria must follow the treatment plan and have blood phenylalanine levels monitored for their entire lives. If they consume a regular diet they will be causing brain damage to themselves. [X’s] formula prescription is: 110 grams Phenex-2 powder mixed with 560 mL water per day (divided 140 mL QID) and 300 mg (20 exchanges) phenylalanine per day from all dietary sources including food and metabolic products supplied by the Ontario Public Drug Program’s Inherited Metabolic Diseases Program. . . .
+[Emphasis added.]
+[3] As we will see below the therapy consists of strictly regulating the amount of Phe consumed. Every day the aim is to consume a very specific amount of Phe. If too little is consumed there will not be normal growth and development; if too much is consumed there will be brain damage. Metaphorically, the Appellant and her child are obliged to walk a very narrow ridge with great risks if the child falls to either side. [3]
+[4] The narrowness of the “ridge” is well illustrated by the fact that a single egg will contain Phe in excess of the child’s daily allowance.
+[5] In 2015 the Appellant applied for the credit for mental or physical impairment, commonly known as the disability tax credit (“DTC”), in respect of X. The Minister of National Revenue (“Minister”) determined that X did not fulfill the requirements and the Appellant now appeals from that determination. [4]
+[6] The only issue here is whether X is eligible for the credit. Much is not in dispute; I note, for example, that there is no issue of computation and no issue as to the fact that, if X is eligible, the credit may be transferred to the Appellant.
+[7] As we shall see below, the dispute ultimately turns on what I shall refer to as “the 14‑hour a week requirement”.
+The Statutory Scheme [5]
+[8] The relevant provisions are in sections 118.3 and 118.4 of the Income Tax Act (“Act”); they are reproduced in annex A of these reasons. Because the only issue is eligibility, and given the particular facts, only portions of those two sections are relevant and I will only reproduce part of those sections below:
+118.3(1) Credit for mental or physical impairment — Where
+(a) an individual has one or more severe and prolonged impairments in physical or mental functions,
+(a.1) the effects of the impairment or impairments are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted where the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a basic activity of daily living or are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of an impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor or, in the case of
+. . .
+(a.3) in the case of one or more impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted, a medical practitioner has certified in prescribed form that the impairment or impairments are severe and prolonged impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted and that the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a single basic activity of daily living, where the medical practitioner is, in the case of
+(i) an impairment with respect to the individual’s ability in feeding or dressing themself, or in walking, a medical doctor or an occupational therapist, and
+(ii) in the case of any other impairment, a medical doctor,
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2) or (a.3), and
+(c) . . .
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula
+. . .
+(1.1) Time spent on therapy — For the purpose of paragraph 118.3(1)(a.1), in determining whether therapy is required to be administered at least three times each week for a total duration averaging not less than an average of 14 hours a week, the time spent on administering therapy
+(a) includes only time spent on activities that require the individual to take time away from normal everyday activities in order to receive the therapy;
+(b) in the case of therapy that requires a regular dosage of medication that is required to be adjusted on a daily basis, includes (subject to paragraph (d)) time spent on activities that are directly related to the determination of the dosage of the medication;
+(c) in the case of a child who is unable to perform the activities related to the administration of the therapy as a result of the child’s age, includes the time, if any, spent by the child’s primary caregivers performing or supervising those activities for the child; and
+(d) does not include time spent on activities related to dietary or exercise restrictions or regimes (even if these restrictions or regimes are a factor in determining the daily dosage of medication), travel time, medical appointments, shopping for medication or recuperation after therapy.
+(2) Dependant having impairment — . . .
+(3) Partial dependency — . . .
+(4) Additional information — . . .
+118.4(1) Nature of impairment — For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual’s ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual’s ability to perform a basic activity of daily living being markedly restricted;
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living;
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+(2) Reference to medical practitioners, etc. — . . .
+[9] It will be useful to note at this point that the Canadian Oxford Dictionary (second edition, 2004) defines “therapy” as:
+1 The treatment of physical or mental disorders, other than by surgery; 2 a particular type of such treatment.
+[10] The same dictionary gives three definitions of the noun “diet”:
+1 The kinds of food that a person or animal habitually eats; 2 a special course of food to which a person is restricted, esp. for medical reasons or to control weight; 3 a regular occupation or series of activities to which one is restricted or which form one’s main concern, usually for a purpose (a diet of light reading and fresh air).
+In this context the second meaning would be the relevant one.
+The Issues
+[11] Under these provisions, the Act has a number of requirements that must be met before an individual is eligible for the disability tax credit; for our purposes here, these include: [6]
+1. The individual must have one or more severe and prolonged impairments.
+2. The effects of impairment(s) must be such that the individual is either
+(a) markedly restricted in his or her ability to perform a basic activity of daily living, or
+(b) significantly restricted in the ability to perform more than one basic activity of daily living with the consequence that the cumulative effect of the restrictions is equivalent to being markedly restricted in the ability to perform a basic activity of daily living, or
+(c) would be restricted as described in (a) but for therapy meeting certain requirements. [7]
+3. A certificate by a medical practitioner must be filed.
+[12] The Respondent does not dispute that many of the requirements are met; its position is the following:
+1. It accepts that X suffers from one or more severe and prolonged impairments with the effect that
+2. X would be markedly restricted in her ability to perform a basic activity of daily living but for the therapy received. [8]
+3. However, the Respondent contends that the therapy received does not meet the requirements of the Act.
+[13] The sole issue [9] in this case is whether or not the therapy meets the requirements of the Act.
+[14] Paragraph 118.3(1)(a.1) of the Act requires that the individual:
+. . . would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+[15] More specifically the Respondent’s argument was limited to (ii) above and to the 14‑hour a week requirement; [10] it is very clear that there is therapy more than three times and that aspect of (ii) is not disputed. The Respondent did not take the position that the requirements of (i) and (iii) were not met.
+[16] Accordingly the issue is whether or not therapy was administered for an average of not less than 14 hours a week.
+[17] In computing the 14‑hour a week requirement, the rules in subsection 118.3(1.1) are important and provide that:
+. . . the time spent on administering therapy
+(a) includes only time spent on activities that require the individual to take time away from normal everyday activities in order to receive the therapy;
+(b) in the case of therapy that requires a regular dosage of medication that is required to be adjusted on a daily basis, includes (subject to paragraph (d)) time spent on activities that are directly related to the determination of the dosage of the medication;
+(c) in the case of a child who is unable to perform the activities related to the administration of the therapy as a result of the child’s age, includes the time, if any, spent by the child’s primary caregivers performing or supervising those activities for the child; and
+(d) does not include time spent on activities related to dietary or exercise restrictions or regimes (even if these restrictions or regimes are a factor in determining the daily dosage of medication), travel time, medical appointments, shopping for medication or recuperation after therapy.
+[18] The French language version of this text reads as follows:
+[…] le temps consacré à donner les soins est calculé selon les critères suivants :
+a) n’est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+b) s’il s’agit de soins dans le cadre desquels il est nécessaire de déterminer un dosage régulier de médicaments qui doit être ajusté quotidiennement, est compté, sous réserve de l’alinéa d), le temps consacré aux activités entourant directement la détermination de ce dosage;
+c) dans le cas d’un enfant qui n’est pas en mesure d’accomplir les activités liées aux soins en raison de son âge, est compté le temps que consacrent les principaux fournisseurs de soins de l’enfant à accomplir ces activités pour l’enfant ou à les surveiller;
+d) n’est pas compté le temps consacré aux activités liées au respect d’un régime ou de restrictions alimentaires ou d’un programme d’exercices (même si ce régime, ces restrictions ou ce programme sont pris en compte dans la détermination du dosage quotidien de médicaments), aux déplacements, aux rendez-vous médicaux, à l’achat de médicaments ou à la récupération après les soins.
+The Facts
+[19] X was born in 2013 and was diagnosed with PKU shortly thereafter, through a newborn screening process. The Appellant is X’s primary caregiver.
+[20] Dr. Murray Potter, X’s metabolic specialist, completed and certified a prescribed form (the T2201 — Disability Tax Credit Certificate) for the Appellant to apply for the DTC in respect of X. [11]
+[21] Dr. Potter provided two letters supporting the Appellant’s DTC claim. The first letter, dated April 12, 2016, was in support of the Appellant’s objection to the Minister’s determination denying the DTC application. The letter explained the cause, effects and treatment of PKU as follows. [12] It is worth reproducing large portions of the letter:
+. . .
+Phenylketonuria, or PKU, is an inherited enzyme deficiency. The deficient enzyme, phenylalanine hydroxylase, is necessary to metabolize the amino acid phenylalanine [“Phe”]. Phenylalanine is a component of all of our dietary protein, and without the enzyme the level of phenylalanine quickly builds up in the body to toxic levels. Over a relatively short period of time (weeks to month) high levels of phenylalanine causes irreversible brain damage. Conceptually, the treatment for PKU is simple — reduce the intake of phenylalanine to a very low level, just enough to provide the body a supply for making new proteins for growth and development, but not enough to cause a build-up to a toxic level. In practice, this is a very difficult goal.
+The first challenge is that the degree of protein restriction that would be necessary to give safe levels of phenylalanine in the body is not compatible with life. Therefore, artificial nutrition has been created (called “medical food” or “PKU formula”) where the level of phenylalanine is zero, but other amino acids and nutrients are supplemented to safe levels. This medical food is only available through special access at a few centres in Canada, and must be given under a medical prescription with close supervision by the metabolic physician and registered dietitian. Even with the medical food supplying a large portion of the nutrition, additional special “low protein” foods must be consumed to provide a complete diet. An example of a low protein food would be a pasta or bread product where the high protein component (flour) has been replaced with a low protein substitute (starch), often at a considerable sacrifice in palatability. Most of these foods are also special order through the same centres supplying the medical food, though they typically do not require a prescription to purchase.
+The second challenge is that, as mentioned above, a certain amount of phenylalanine is necessary for proper growth and development, but too much is toxic. The phenylalanine intake is carefully regulated by providing some regular food protein (which contains phenylalanine). Essentially [X] is prescribed a certain specific amount of phenylalanine to consume every day, to be given as food protein. This amount must be calculated for every food item that is consumed for every meal, every day. The prescribed amount of phenylalanine changes based on stages of growth and development and must be carefully monitored by frequent blood level checks for phenylalanine (weekly as a young child gradually increasing to every 1-3 months as an adult, when growth stops). These blood checks are only available at specialized laboratories (i.e. tertiary care hospital laboratories with biochemical genetics laboratories).
+[X]’s parents must care for [X] by:
+• Monitoring blood phenylalanine levels (doing blood tests), with the goal to maintain blood levels in the range of 120 to 360 umol/l
+• Daily preparing and administering formula and low protein foods (PKU medication)
+• Maintaining a logbook of blood phenylalanine levels and daily phenylalanine intake
+The specific time requirements necessary to manage the phenylalanine prescription would vary from family to family and I would have no way to know exactly how long any one patient spends on this. However, this is a daily task that could easily require 2 hours per day (14 hours per week). Additionally, there is a significant amount of time dedicated to obtaining and tracking the blood phenylalanine levels. Therefore, it is reasonable to say that managing PKU meets the “at least 3 times per week, for an average of at least 14 hours per week” requirement. Managing PKU is a very time consuming regime and would consist of a child and parent/caregiver taking time away from everyday activities. This is a life‑long, inherited condition, requiring life-long treatment.
+Implementing a phenylalanine restricted diet early in life can significantly reduce mental deficiencies associated with PKU. Left untreated, PKU causes severe brain damage leading to severe cognitive impairment and the inability to perform any of the mental functions required for everyday life. [X] was treated within the early weeks of life with good metabolic control, protecting her brain and allowing for completely normal development. She will need to remain on therapy to avoid any adverse neuropsychiatric effects of PKU.
+[Emphasis added.]
+[22] As indicated above, treatment for PKU is not simply eliminating or reducing Phe from one’s diet. It is maintaining the amount of Phe intake at a very specific level, no more and no less, so that the patient has just enough Phe for proper growth and development but not more so as to prevent brain damage. The Appellant stated that her daily Phe consumption was approximately 4,300 milligrams. In contrast, X’s prescribed daily Phe consumption target was 300 milligrams. This target could be exceeded very quickly if X’s diet was not closely controlled and monitored by the Appellant. The Appellant testified that one large egg and a cup of milk contain 341 milligrams and 358 milligrams of Phe, respectively.
+[23] Dr. Potter’s second letter, dated February 17, 2017, was in support of the Appellant’s appeal to this Court. Most of it has already been reproduced in paragraph 2 above.
+[24] The therapy consists of managing the daily amount of Phe consumed very precisely while also ensuring a sufficient intake of all the other amino acids, apart from Phe, that constitute the necessary protein intake for the child. This is accomplished by a carefully managed combination of three components:
+1. The prescribed formula (the medical formula) that Dr. Potter described as artificial nutrition — The formula provides a complete set of proteins except for Phe [13] and must be taken four times a day in the morning, at lunch time, in the afternoon and at bedtime. The formula consists of a prescribed amount of amino acid powder dissolved in a particular amount of water.
+2. Special processed low protein foods (the medical foods) — For example, there are pasta products where the high protein component (such as flour) has been replaced with a low protein substitute (such as starch); unfortunately, the result is less palatable than normal pasta. These medical foods are quite expensive.
+3. Limited quantities of ordinary foods that have little or no Phe as well as completely avoiding many foods that have high Phe.
+[25] Many foods must be completely avoided; in a letter to the school board prior to the child starting junior kindergarten, her parents write: [14]
+[X] is not allowed to eat meat, seafood, poultry, eggs, dairy, soy, nuts, beans, seeds, lentils, or many products containing regular flour. She is also not allowed to have aspartame. All of the above food items contain too much PHE.
+[26] The prescribed amount of Phe evolves over time.
+[27] As indicated in Dr. Potter’s letter, the medical foods are specially prepared so as to reduce the protein content. These medical foods are not generally available. They cannot be bought in grocery stores and have to be ordered and shipped to the customer. Apparently, there is a specialty food store within the Hospital for Sick Children in Toronto.
+[28] The medical foods come in packages with warnings such as “For use under medical supervision for conditions such as inborn errors of protein metabolism” or “Important notice — Should be used under medical supervision. For the dietary management of Inherited Metabolic Disorders requiring low protein diets. Not suitable for the sole nourishment of the person.” Some packages say “Low Protein Medical Food.” [15]
+[29] The Appellant applied to the Ontario Ministry of Health and Long‑Term Care Inherited Metabolic Diseases Program to obtain the benefits of that program for X. To apply, Dr. Potter also had to provide a diagnosis and sign the form. [16] The program apparently covers the cost of certain medical foods. [17]
+[30] Generally X’s therapy takes away a limited amount of time from what the child would otherwise be doing because, given her age, she is unable to manage her own therapy. However, the Appellant, as X’s primary caregiver, is obliged to implement the therapy; this implementation is time consuming and includes the following:
+– sourcing and storing medical formula and medical food;
+– planning and preparing X’s meals and snacks including:
+• weighing food so as to measure, calculate, and log the amount of Phe from all sources prepared for X’s consumption so as to ensure the correct amount of daily Phe consumption as well as
+• measuring and logging the formula to ensure adequate consumption of all the other amino acids (apart from Phe) constituting protein;
+– supervising X’s consumption of food so the amount of Phe actually consumed is monitored;
+– if necessary, after a meal or snack, recalculating Phe consumption for the rest of the day and adjusting subsequent meals or snacks to take account of actual consumption (for example, if a food is not eaten or only partly eaten with the result that less food than planned was consumed, then it will be necessary to ensure more Phe is consumed by adding or substituting something; another example, where adjustments have to be made, is this: if, for instance, in spite of efforts to avoid this, X winds up eating some other child’s food it may be necessary to try to make an offsetting reduction in Phe consumption for the day);
+– educating others, such as caregivers, teachers, classmates and other parents, regarding PKU so as to prevent consumption of more Phe than planned (for example, ice cream at a friend’s home);
+– when picking up X from the care of others, finding out what medical formula and medical food and ordinary food was consumed — normally the Appellant will pick up any leftover meal or snack items so that they can be measured (weighed) and the amount of Phe consumed up to that point in the day can be recalculated for the purpose of making adjustments for the rest of the day;
+– attending various medical appointments with different doctors and the dietitian;
+– monitoring X’s Phe blood level through weekly blood tests to ensure that the prescribed Phe‑restricted diet is effective.
+[31] In annex B, I have reproduced the full list of tasks contained in the time sheet the Appellant filed setting out her estimate of the time she spent to implement her child’s therapy. She estimated that in an average week she spent about 29 hours.
+[32] The Appellant filed a letter sent to the school board prior to X starting junior kindergarten. [18] Because it gives a good sense of the challenges involved in X attending kindergarten, I am reproducing the letter:
+We are excited about registering [X] for Junior Kindergarten for September 2017 and she is as well! Her big brother . . ., currently in JK2, has been preparing her well for “Big Kid School”. Like her brother, [X] also has PKU (Phenylketonuria). As indicated below, my hope is that [X] will be placed in JK2 with her brother, so that she can also have access to the refrigerator in the room for her medical formula.
+What is PKU?
+PKU is a rare, inherited metabolic disease that results in developmental disability and other neurological problems when treatment is not started within the first few weeks of life. We started treatment as soon as [X] was diagnosed (4 days after she was born) and, as a result, she is developing into a wonderfully healthy little girl. Individuals with PKU are unable to break down one amino acid of protein called phenylalanine (often called PHE, pronounced “fee”). Since this amino acid cannot be completely processed, it builds up in their blood and excess amounts cross the blood-brain barrier. When excess amounts build up, brain damage and other neurological problems result.
+How is [X]’s PKU managed?
+Thankfully, PKU can be managed with a very strict diet. [X]’s PKU management involves:
+1) Controlling her intake of protein
+a. [X] is not allowed to eat meat, seafood, poultry, eggs, dairy, soy, nuts, beans, seeds, lentils, or many products containing regular flour. She is also not allowed to have aspartame. All of the above food items contain too much PHE. Even fruits and vegetables are carefully weighed and accounted for so that the daily PHE intake is within her target each day — not over, or there is risk of brain damage, and not under, or there is risk of retarded growth. Everything [X] eats must be accounted for. Similarly, everything she doesn’t eat must be subtracted from her intake for the day.
+2) Drinking a PHE-free formula
+a. [X]’s medical formula provides her body with most of the necessary protein, vitamins, and minerals that she needs, without the PHE, to help her grow like her peers.
+3) Eating special low-PHE foods
+a. These foods are considered “medical foods” and are specially ordered (i.e., they are not available at the grocery store).
+4) Weekly to bi-weekly blood work
+a. [X] is monitored by a team at McMaster Children’s Hospital. She must give blood bi-weekly to ensure that her blood PHE levels are within a specific range. When her levels are too high, we attend weekly so that her clinical team can adjust her diet and formula requirements accordingly.
+To give you an idea of how significantly [X]’s diet is restricted, [X] is currently allowed to eat 300 mg of PHE per day (~6.5 g of protein) from the foods we have to weigh and account for. One large egg has 341 mg of PHE. One cup (250 ml) of milk has 358 mg of PHE. Thus, as you can see, [X] cannot have any of the above examples of foods as each of them individually would put her over, or just about over, her daily intake for that day, meaning that she wouldn’t be able to consume anything else without increasing her blood-PHE levels and ultimately causing damage to her brain.
+Currently, in preschool, [X] does not eat what is provided by the centre like her peers. Her food is prepared and weighed at home and her teachers give it to her during snack and lunch times. The centre shared their menu with me so that I can provide similar options as often as possible (e.g., low protein spaghetti, low protein banana bread, etc.). [X]’s teaching staff knows that any food that is uneaten must be returned home for weighing and there is a notice (similar to a severe allergy notice) in the room that she is not to eat her peers’ food and is not to consume foods with protein. Any time a special treat is being offered by the school, they either contact me to ask if she is allowed to eat it, as there are some foods that we all eat that she can also have (e,g., apples, applesauce, certain popsicles/freezies and candies), or they give me notice so that I can provide a low protein alternative (e.g., low protein cupcakes) so that she does not feel left out.
+What does this mean for the school?
+Given the many allergies and food restrictions for children these days, my hope is that this will not be too much of a change for the school. Just like the rest of your students, I will of course provide her lunch/snacks every day. What will be different for her is that she needs to bring whatever she does not eat home, rather than throwing it in the garbage or green bin. Also, and probably my main concern, is that she cannot share food with her friends. If she gives her food to her friends she will be hungry, and if she eats her friends’ food, it may have protein in it. Furthermore, given that she consumes her medical formula across the day, in addition to a bottle for water like her peers, she will also need to bring a thermos/water bottle of her formula to school. My hope is that she will be assigned to JK2 with her brother, so that she too can put her formula in the fridge. Finally, to accommodate her bi-weekly blood work appointments at McMaster Children’s Hospital, [X] will unfortunately be a little late (~9:30 to 10:00) every other Tuesday morning. I will notify the school if weekly appointments will leave [X] being late more often.
+What happens if she eats too much protein?
+It is important to note that [X] is NOT allergic to protein. If she eats something that she shouldn’t, she will not have an allergic reaction and should not require medical attention. Instead, what you might see is a change in her behaviour. Excess protein in the short term typically presents with irritability, high activity level, fidgeting, poor attention, etc. Excess protein over a longer period of time (even as short as a week) is what leads to more significant brain damage (e.g., seizures, intellectual decline). Accidents can happen. What will be incredibly important will be for staff to notify myself or my husband if [X] eats something that she shouldn’t. If this happens, we will alter [X]’s diet accordingly (i.e., provide her with an even lower protein dinner that day, lower her protein intake over the following days, etc.). I can only do this if I know about it though.
+If you have any further questions, please do not hesitate to contact me.
+Analysis [19]
+[33] In Johnston v. Canada, [20] the Federal Court of Appeal adopted the following comments made by former Chief Justice Bowman of this Court with respect to the disability tax credit: [21]
+. . .
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to everyone who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+. . .
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+[34] As we saw above, the word “therapy” simply means the treatment. Given that the treatment is administering a precise amount of Phe every day, the activities described in paragraph 30 above, and also set out in annex B, all constitute administration of the treatment or therapy. One must carry out these activities in order to deliver the Phe, measure the outcome (through the weekly blood tests) and, over time, make adjustments.
+[35] However, in determining whether the therapy is administered at least three times a week for no less than an average of 14 hours a week, I must apply the rules set out in subsection 118.3(1.1); these rules modify the ordinary meaning of administering the therapy. For convenience, I will repeat them here:
+. . . the time spent on administering therapy
+(a) includes only time spent on activities that require the individual to take time away from normal everyday activities in order to receive the therapy;
+(b) in the case of therapy that requires a regular dosage of medication that is required to be adjusted on a daily basis, includes (subject to paragraph (d)) time spent on activities that are directly related to the determination of the dosage of the medication;
+(c) in the case of a child who is unable to perform the activities related to the administration of the therapy as a result of the child’s age, includes the time, if any, spent by the child’s primary caregivers performing or supervising those activities for the child; and
+(d) does not include time spent on activities related to dietary or exercise restrictions or regimes (even if these restrictions or regimes are a factor in determining the daily dosage of medication), travel time, medical appointments, shopping for medication or recuperation after therapy.
+[36] These rules exclude the time spent on certain activities while including certain other time. I would note that:
+1. Paragraph 118.3(1.1)(a) excludes any time spent that does not prevent the patient from carrying out normal everyday activities. As a result the child spends little time that would be counted. For example, while X is eating she is receiving a limited amount of Phe but since eating is a normal everyday activity no time is taken away from everyday activities. On the other hand having a blood test is not an everyday activity and the time X spends getting a blood test every week does count.
+2. Paragraph (c) explicitly provides that time spent by the Appellant’s primary caregivers administering or supervising the administration of the treatment does count.
+3. Paragraph 118.3(1.1)(b) and the words in brackets in paragraph (d) do not appear to have application here because, as I understand the therapy, there is a fixed daily Phe dosage. If something goes wrong during the day, there will have to be adjustments to try to get back to the dosage but the prescribed dose of Phe itself does not change; it may change as the child grows and as a result of the analysis of the blood tests but it is not a daily adjustment of dosage.
+4. Paragraph (d) excludes from the 14‑hour average any time spent on:
+– dietary restrictions or regimes,
+– travel time,
+– medical appointments and
+– shopping for medication.
+[37] In my view, medical appointments in paragraph 118.3(1.1)(d) include meetings with doctors and other health professionals but do not include a medical appointment where there is more than a meeting or discussions with the professional. For example, it would not include an appointment where there is actual treatment or testing that is part of the treatment. [22]
+[38] Here, the Appellant has included in her time sheet a certain amount of time that relates to medical appointments, travel and buying medication. Those times cannot be included in the 14‑hour average but represent a small part of the total time she estimates that she spends.
+[39] The question then becomes: In these particular circumstances what exactly does paragraph 118.3(1.1)(d) exclude from the 14‑hour a week average when it refers to dietary restrictions or regimes?
+[40] In order to apply subsection 118.3(1.1) one must consider how to treat the three components of the therapy and the different activities related to the three components in this situation, a situation that would probably not have been contemplated by the government or Parliament at the time subsection (1.1) was enacted.
+[41] The weekly blood test and the administration of the prescription medical formula are straightforward. The blood tests are essential to the therapy to ensure that the proper Phe level is being maintained. The medical formula is given in very precise doses four times a day and administering it is no different from administering any other prescription medication.
+[42] Thus the time spent relating to the blood tests and to the administration of the formula can be counted as part of administering the therapy. This includes items 1, 2, 3, 4 and 23 listed in annex B. This totals an average of 531 minutes a week or somewhat less than nine hours a week. [23]
+[43] How does one treat counting Phe generally?
+[44] The therapy here has unusual characteristics in terms of the rules set out in subsection 118.3(1.1). Phe is a protein found in normal food but it is not found in isolation; in addition, while foods contain mixtures of protein including Phe, one does not find in ordinary foods proteins without Phe. While Phe is an element of nutrition, the activities necessary to assure precise delivery every day of 300 milligrams of Phe to the child, and no more than 300 milligrams, are much more akin to the administration of a medication than to the management of a diet.
+[45] It is also unusual insofar as a major component of the therapy is the medical food that is not generally available in the market and must be taken under medical supervision. This medical food is significantly more costly than most food and there is an Ontario government program to assist with the cost of listed items, a program that requires an appropriate doctor’s diagnosis to access. [24]
+[46] Typically in a dietary regime one must avoid certain foods, such as foods with gluten, for example, or one must keep track of certain types of foods and control the quantities of different types of food, for example, no more than X units of fruit and Y units of starch, with an understood quantity of food for each unit. [25]
+[47] Here, there are certain high protein foods that are avoided outright such as meat, fish and dairy products; such avoidance is like a dietary regime. Consuming medical food, while providing nutrition, also has characteristics that are like consuming medication. The counting and managing of Phe consumption is much more like administering a medication than it is like managing a diet.
+[48] Bearing in mind these characteristics of the therapy in relation to the rules in subsection 118.3(1.1), measuring and controlling Phe intake is properly characterized as administration of the therapy and not as control of X’s diet with the consequence that the correct way to apply these rules is to consider that the time spent determining the amount of Phe [26] to be consumed and actually consumed, including the time spent logging Phe intake, should be considered as part of the 14‑hour a week average.
+[49] When one examines the time estimate of the Appellant for the different categories of activity, [27] it is clear that the total time spent on activities that may properly be counted for the purpose of the 14‑hour test exceeds 14 hours. Specifically, items 5, 6, 10, 11, 14, 15, 16, 17, 19, 20 and 22 in annex B are clearly devoted to Phe measurement and the control of Phe consumed. [28]
+[50] This amounts to an average of 585 minutes a week or almost nine hours. When added to the 531 minutes above, that is an average of some 1,116 minutes or over 18 hours a week spent administering the therapy within the meaning of subsection 118.3(1.1).
+[51] Given that the activities in annex B that I have just enumerated exceed an average of 14 hours, it is unnecessary for me to determine whether other activities listed in the annex do or do not qualify to enter into the computation of the 14‑hour a week average.
+Conclusion
+[52] Given that the 14‑hour a week requirement is met, X is eligible for the disability tax credit. The appeal is allowed and the matter will be referred back to the Minister for reconsideration and redetermination in accordance with these reasons.
+Signed at Ottawa, Ontario, this 20th day of July 2017.
+“Gaston Jorré”
+Jorré J.
+ANNEX A
+118.3(1) Credit for mental or physical impairment — Where
+(a) an individual has one or more severe and prolonged impairments in physical or mental functions,
+(a.1) the effects of the impairment or impairments are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted where the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a basic activity of daily living or are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of an impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor or, in the case of
+(i) a sight impairment, an optometrist,
+(ii) a speech impairment, a speech-language pathologist,
+(iii) a hearing impairment, an audiologist,
+(iv) an impairment with respect to an individual’s ability in feeding or dressing themself, an occupational therapist,
+(v) an impairment with respect to an individual’s ability in walking, an occupational therapist, or after February 22, 2005, a physiotherapist, and
+(vi) an impairment with respect to an individual’s ability in mental functions necessary for everyday life, a psychologist,
+(a.3) in the case of one or more impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted, a medical practitioner has certified in prescribed form that the impairment or impairments are severe and prolonged impairments in physical or mental functions the effects of which are such that the individual’s ability to perform more than one basic activity of daily living is significantly restricted and that the cumulative effect of those restrictions is equivalent to having a marked restriction in the ability to perform a single basic activity of daily living, where the medical practitioner is, in the case of
+(i) an impairment with respect to the individual’s ability in feeding or dressing themself, or in walking, a medical doctor or an occupational therapist, and
+(ii) in the case of any other impairment, a medical doctor,
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2) or (a.3), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than because of paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula
+A × (B + C)
+where
+A is the appropriate percentage for the year,
+B is $6,000, and
+C is
+(a) where the individual has not attained the age of 18 years before the end of the year, the amount, if any, by which
+(i) $3,500
+exceeds
+(ii) the amount, if any, by which
+(A) the total of all amounts each of which is an amount paid in the year for the care or supervision of the individual and included in computing a deduction under section 63, 64 or 118.2 for a taxation year
+exceeds
+(B) $2,050, and
+(b) in any other case, zero.
+(1.1) Time spent on therapy — For the purpose of paragraph 118.3(1)(a.1), in determining whether therapy is required to be administered at least three times each week for a total duration averaging not less than an average of 14 hours a week, the time spent on administering therapy
+(a) includes only time spent on activities that require the individual to take time away from normal everyday activities in order to receive the therapy;
+(b) in the case of therapy that requires a regular dosage of medication that is required to be adjusted on a daily basis, includes (subject to paragraph (d)) time spent on activities that are directly related to the determination of the dosage of the medication;
+(c) in the case of a child who is unable to perform the activities related to the administration of the therapy as a result of the child’s age, includes the time, if any, spent by the child’s primary caregivers performing or supervising those activities for the child; and
+(d) does not include time spent on activities related to dietary or exercise restrictions or regimes (even if these restrictions or regimes are a factor in determining the daily dosage of medication), travel time, medical appointments, shopping for medication or recuperation after therapy.
+(2) Dependant having impairment — Where
+(a) an individual has, in respect of a person (other than a person in respect of whom the person’s spouse or common-law partner deducts for a taxation year an amount under section 118 or 118.8) who is resident in Canada at any time in the year and who is entitled to deduct an amount under subsection (1) for the year,
+(i) claimed for the year a deduction under subsection 118(1) because of
+(A) paragraph (b) of the description of B in that subsection, or
+(B) paragraph (c.1) or (d) of that description where the person is a parent, grandparent, child, grandchild, brother, sister, aunt, uncle, nephew or niece of the individual, or of the individual’s spouse or common-law partner, or
+(ii) could have claimed for the year a deduction referred to in subparagraph (i) in respect of the person if
+(A) the person had no income for the year and had attained the age of 18 years before the end of the year, and
+(B) in the case of a deduction referred to in clause (i)(A), the individual were not married or not in a common-law partnership, and
+(b) no amount in respect of remuneration for an attendant, or care in a nursing home, because of that person’s mental or physical impairment, is included in calculating a deduction under section 118.2 (otherwise than under paragraph 118.2(2)(b.1)) for the year by the individual or by any other person,
+there may be deducted, for the purpose of computing the tax payable under this Part by the individual for the year, the amount, if any, by which
+(c) the amount deductible under subsection (1) in computing that person’s tax payable under this Part for the year
+exceeds
+(d) the amount of that person’s tax payable under this Part for the year computed before any deductions under this Division (other than under sections 118 to 118.07 and 118.7).
+(3) Partial dependency — Where more than one individual is entitled to deduct an amount under subsection (2) for a taxation year in respect of the same person, the total of all amounts so deductible for the year shall not exceed the maximum amount that would be deductible under that subsection for the year by an individual in respect of that person if that individual were the only individual entitled to deduct an amount under that subsection in respect of that person, and where the individuals cannot agree as to what portion of the amount each can deduct, the Minister may fix the portions.
+(4) Additional information — Where a claim under this section or under section 118.8 is made in respect of an individual’s impairment
+(a) if the Minister requests in writing information with respect to the individual’s impairment, its effects on the individual and, where applicable, the therapy referred to in paragraph (1)(a.1) that is required to be administered, from any person referred to in subsection (1) or (2) or section 118.8 in connection with such a claim, that person shall provide the information so requested to the Minister in writing; and
+(b) if the information referred to in paragraph (a) is provided by a person referred to in paragraph (1)(a.2) or (a.3), the information so provided is deemed to be included in a certificate in prescribed form.
+118.4(1) Nature of impairment — For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual’s ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual’s ability to perform a basic activity of daily living being markedly restricted;
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living;
+(e) feeding oneself does not include
+(i) any of the activities of identifying, finding, shopping for or otherwise procuring food, or
+(ii) the activity of preparing food to the extent that the time associated with the activity would not have been necessary in the absence of a dietary restriction or regime; and
+(f) dressing oneself does not include any of the activities of identifying, finding, shopping for or otherwise procuring clothing.
+(2) Reference to medical practitioners, etc. — For the purposes of sections 63, 64, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, physiotherapist, psychologist, or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+(b) where the reference is used in respect of a certificate issued by the person in respect of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides or of a province; and
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+ANNEX B
+(From Exhibit A-1, Tab 7)
+1. Monitoring: blood Phe-level check (venous draw) at McMaster Children’s Hospital (once/week)
+2. Treatment: medical formula measurement and preparation
+3. Treatment: consumption of medical formula/supervision of medical formula intake
+4. Measurement and recording of medical formula actually administered/drank
+5. Measurement/weighing of Phe content to be consumed at each and every meal or snack at daycare only
+6. Calculation of Phe in foods administered for meals or snacks at daycare only
+7. Storage of food in daycare centre and pickup at end of day
+8. Discussion with daycare staff (a.m. and p.m.) regarding consumption of food during the day, every day
+9. Daycare staff logging food consumed daily
+10. Measurement/weighing of food actually consumed at each meal or snack at daycare
+11. Measurement/weighing of food not consumed at daycare
+12. Discussion with daycare staff re: special snacks (e.g., birthdays, pizza day) or inadvertent consumption of Phe
+13. Preparation of low Phe alternative for daycare special snacks (e.g., birthdays, pizza day)
+14. Checking labels, determining and calculating Phe in new foods
+15. Measurement/weighing of Phe content to be consumed at each and every meal or snack at home
+16. Calculation of Phe in foods administered for meals or snacks at home
+17. Measurement/weighing of food actually consumed at each meal or snack at home
+18. Preparation/cooking for Phe-restricted diet (in addition to preparation of “normal” foods)
+19. Daily Phe consumption calculation prior to dinner to determine meal/portion permitted
+20. Daily Phe consumption post‑dinner to determine Phe to be added (or not) to final formula
+21. Supervision of Phe intake
+22. Maintain logbook of daily Phe intake
+23. Receipt of blood Phe level results via email
+24. Consultation with registered dietitian to adjust medical formula and/or allotted Phe intake
+25. Preparation for travel away from home (e.g., day trips, weekend visits, lengthy vacations)
+26. Researching and interviewing child care centres
+27. Time off of work for blood Phe checks (including travel)
+28. Clinic follow-up with metabolic physician, dietitian, genetic counsellor, and social worker (three-four visits/year)
+29. Ordering medical food and medical formula
+30. Unpacking, labelling and storing medical food (perishable and non‑perishable) and medical formula
+31. Consult with physicians and/or pharmacists re: Phe in day-to-day medicines, antibiotics, and vaccines
+32. Consult with developmental pediatrician re: overall development and management of PKU (three visits/year)
+CITATION:
+2017 TCC 133
+COURT FILE NO.:
+2016-2938(IT)I
+STYLE OF CAUSE:
+ERIN MULLINGS v. THE QUEEN
+DATE OF HEARING:
+February 20, 2017
+DATE OF RECEIPT OF TRANSCRIPT OF HEARING:
+March 7, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+July 10, 2017
+DATE OF AMENDED REASONS FOR JUDGMENT:
+July 20, 2017
+APPEARANCES:
+Agent for the Appellant:
+Norman John Adams
+Counsel for the Respondent:
+John Maskine
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant’s older child also suffers from PKU but is not the subject of this appeal.
+[2] It is an extract from a letter written by the child’s metabolic specialist, Murray Potter, MD, FRCPC, FCCMG, of the McMaster University Medical Centre, in support of the Appellant’s application; see Exhibit A-1 at Tab 2.
+There was no objection to the tendering of this letter or Dr. Potter’s letter of April 12, 2016 at Tab 3 of Exhibit A-1.
+It is worth emphasizing that the evidence before me in this case is about a child with classical PKU (as Dr. Potter describes the condition). If there are related but different conditions, the consequences and treatment may well be different; the evidence was not about those conditions. Similarly, the evidence was not about an adult.
+[3] The daily amount of Phe to be consumed evolves over time.
+[4] The procedural history of this appeal is: On May 29, 2015, the Appellant applied to the Minister for the DTC in respect of X by filing a prescribed form, the T2201. On July 27, 2015, the Minister determined that X did not fulfill all the eligibility requirements to the DTC and denied the application. The Appellant objected to the determination on October 5, 2015, after the Minister granted the Appellant an extension of time to object. The Minister confirmed the determination on April 21, 2016 and the Appellant filed an appeal from the determination on July 18, 2016, by way of the informal procedure rules. Unfortunately the record before me does not include copies of the notice of determination and notice of confirmation; the Appellant filed a copy of the application form; see Exhibit A-1 at Tab 1.
+The procedure governing the determination originates in subsections 152(1), (1.01) and (1.2) of the Income Tax Act which create a determination procedure that incorporates by reference many of the provisions respecting assessments, objections and appeals and directs that they are to be applied with such modifications as are necessary in the circumstances. The relevant portions of the subsections read:
+152(1) Assessment — . . .
+(1.01) Determination of disability tax credit eligibility — The Minister shall, if an individual requests by prescribed form, determine with all due dispatch whether an amount is deductible, or would if this Act were read without reference to paragraph 118.3(1)(c) be deductible, under section 118.3 in computing the individual’s tax payable under this Part for a taxation year and send a notice of the determination to the individual.
+. . .
+(1.2) Provisions applicable — Paragraphs 56(1)(l) and 60(o), this Division and Division J, as they relate to an assessment or a reassessment and to assessing or reassessing tax, apply, with any modifications that the circumstances require, to a determination or redetermination under subsection (1.01) and to a determination or redetermination of an amount under this Division or an amount deemed under section 122.61 to be an overpayment on account of a taxpayer’s liability under this Part, except that
+(a) subsections (1) and (2) do not apply to determinations made under subsections (1.01), (1.1) and (1.11);
+. . .
+[5] I would note that the text below and in annex A is somewhat different from the consolidated Act on the Justice website. There are at least three differences, none of which suggest that the substantive meaning is different; one of them is quite significant in terms of extra redundant text, the post‑amble at the end of subparagraph 118.3(1)(a.3)(ii):
+has certified in prescribed form that the impairment is a severe and prolonged mental or physical impairment the effects of which are such that the individual’s ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy referred to in paragraph (a.1),
+Section 31 of the Legislation Revision and Consolidation Act provides that:
+31(1) Every copy of a consolidated statute or consolidated regulation published by the Minister under this Act in either print or electronic form is evidence of that statute or regulation and of its contents and every copy purporting to be published by the Minister is deemed to be so published, unless the contrary is shown.
+(2) In the event of an inconsistency between a consolidated statute published by the Minister under this Act and the original statute or a subsequent amendment as certified by the Clerk of the Parliaments under the Publication of Statutes Act, the original statute or amendment prevails to the extent of the inconsistency.
+[Emphasis added.]
+I also note that section 27 of the Legislation Revision and Consolidation Act provides that:
+27 In maintaining a consolidation of the statutes or regulations, the Minister may
+(a) omit any Act or regulation, or any part of an Act or a regulation, that has expired, has been repealed or has had its effect;
+(b) include historical references or other information that enhances the value of the consolidation;
+(c) correct grammatical and typographical errors without changing the substance of any enactment; and
+(d) set out as a separate Act or regulation any Act or regulation enacted by another Act or regulation.
+[Emphasis added.]
+The other minor differences do not appear to fall within paragraph 27(c) of the Legislation Revision and Consolidation Act.
+What I have set out in the text and in annex A is the correct version of the text.
+[6] This is a bit of a simplification but will do for our purposes here given that the debate is quite limited.
+[7] This appears to be the correct way to read paragraph 118.3(1)(a.1) although it could be argued that the “but for” test also modifies the second branch of paragraph (a.1); however, the reference to the “but for” test in paragraph (a.2) but not in (a.3) appears to prevent such an interpretation even if it is hard to understand the policy rationale for what appears to be the correct way to read the provision. In any event, it is unnecessary for me to decide the point since this case falls within the first branch.
+[8] It is clear that the effects on the child of not following the therapy would be dramatic and very negative.
+[9] At one point during the hearing, I thought that the Respondent might also be arguing that X could not be qualified because there was no marked restriction at the present time based on the decision in Jasinski v. Canada, [1996] T.C.J. No. 647 (QL). Jasinski does not support such an argument because, while the provisions of the Act, as they read for the years in question, did indeed require an actual marked restriction, the “but for” provision in paragraphs 118.3(1)(a.1) and (a.2) had not yet been introduced by later amendments to the Act. It is quite clear that it is not necessary for there to be an actual marked restriction provided the conditions of the “but for” test are met. On reviewing the submissions of counsel for the Respondent in the transcript, I have concluded that the Respondent was simply making the point that it is necessary to have a marked restriction or what would be a marked restriction were it not for therapy meeting the requirements of the Act.
+It is also clear from pages 9 to 12 of the transcript, particularly the conclusion at the bottom of page 12 and the top of page 13, that the Crown’s position is that if there were therapy as required by the Act, then the child would be eligible. This is also consistent with paragraph 8a) of the reply.
+Indeed, there is another very technical reason that also leads to the only issue being whether the therapy used with X was a therapy that meets the requirements of the Act.
+The reply to the notice of appeal, which was not drafted by Justice counsel, contains a general denial of the allegations in the notice of appeal in paragraph 1 of the reply and, in paragraph 5 of the reply, the following assumptions of fact are set out:
+a) the Appellant is the mother of the child [X], born in 2013;
+b) on May 29, 2015, the Appellant’s qualified registered medical doctor, Dr. Murray Potter, completed the Form T2201 — Disability Tax Credit Certificate;
+c) Dr. Potter indicated in the Certificate that the child [X] was markedly restricted in feeding herself and that she required Life-sustaining therapy. He also indicated that [X] was diagnosed with Phenylketonuria ("PKU"), that PKU is treated with a modified diet and that it was Life-sustaining therapy required by [X].
+No other facts are assumed or alleged.
+The Minister’s assumptions of fact, as set out in the reply, are not sufficient to provide a basis that would support the Minister’s determination. Indeed, if at the opening of the hearing the Appellant had not called any evidence the Respondent would have had to call evidence to support its determination and the appeal would certainly have to have been allowed if it had failed to do so. As Justice Hugessen said, speaking for the Federal Court of Appeal, in Pollock v. Canada, [1993] F.C.J. No. 1055 (QL):
+20 Where, however, the Minister has pleaded no assumptions, or where some or all of the pleaded assumptions have been successfully rebutted, it remains open to the Minister, as defendant, to establish the correctness of his assessment if he can. In undertaking this task, the Minister bears the ordinary burden of any party to a lawsuit, namely to prove the facts which support his position unless those facts have already been put in evidence by his opponent. This is settled law.
+The quote is equally applicable where insufficient assumptions have been made. Where the Minister has made insufficient assumptions, the Minister bears the ordinary burden of proving the facts that he did not assume which are necessary to support his position unless those facts are otherwise in evidence.
+On the evidence at the hearing the only question that can arise is whether the 14‑hour a week requirement, discussed below, is met. Finally, I note that it is unnecessary to deal with the ground the Minister relies on in paragraph 8b) of the reply; the Appellant did not argue that the child was markedly restricted at the present time.
+[10] I would just note that by preventing severe permanent brain damage, it is clear that the therapy here is essential to sustain a vital function, a normally functioning brain. Absent the therapy, there would be a marked restriction in a basic activity of daily living, mental functions necessary for everyday life. Also, it is clear that managing Phe consumption would not be of benefit to someone without PKU.
+[11] See Exhibit A-1, Tab 1, for the completed T2201. I am satisfied that the form does meet the requirement of medical certification contained in section 118.3. During the hearing the Respondent raised a problem with the form but did not pursue the matter further in argument. The Respondent was right in not pursuing it; notably, the form shows X as markedly restricted in feeding — which is not what the evidence shows. X appears to be able to feed herself just like any other child of the same age. None of this matters insofar as the section does not require actual marked restriction where the “but for” test is met. Further, it is clear on the evidence that the basic activities of daily living that would be restricted but for the therapy are mental functions necessary for everyday life. However, when reading the rest of the form, notably, the questions relating to therapy on page 7, the duration questions on page 9 as well as the narrative written by Dr. Potter on pages 7 and 9, it is clear that there is appropriate certification. This conclusion is further reinforced when one reads Dr. Potter’s letters that are in evidence.
+I would just note that it is not self-evident how to use the form in evidence in circumstances where an individual is not currently markedly restricted but would be but for the therapy. I recognize that the test involved is quite hard to describe clearly and succinctly but the Canada Revenue Agency (“CRA”) might want to think hard about the wording of the form and whether it is possible to improve it. I looked at the current form on the CRA website and the form remains hard to use in such circumstances; I also looked at the current guidance on the site and note that the guide RC4064(E) Rev. 16 does not make it clear that someone who would have a marked restriction, were it not for therapy meeting the criteria of the Act, would nonetheless qualify. Again I recognize the difficulties in writing the criteria clearly but the CRA might want to reconsider its guidance and its form.
+[12] Exhibit A-1, Tab 3.
+[13] As I understand it, there is no Phe at all in the formula — or it is at such a low level that it is not measurable. (For example, the record of Phe intake for February 2, 2017 on the first page of Tab 9 of Exhibit A-1 shows no Phe for each of the four times the child drank her formula.)
+[14] See Exhibit A-1, Tab 15.
+[15] See photos at Tab 10 of Exhibit A-1.
+[16] A sample form is at Tab 5 of Exhibit A-1.
+[17] At Tab 6 of Exhibit A-1 there appears to be a partial list of some medical foods covered by the program; far from all such foods are covered. See page 71 of the transcript. See as well page 3 of the letter dated May 21, 2015 at Tab 1 of Exhibit A-1.
+[18] See Tab 15 of Exhibit A-1.
+[19] During the hearing the Appellant tried to file evidence showing that the CRA may at times be inconsistent in its treatment of claims for the DTC with respect to individuals suffering from PKU. As I indicated at the hearing, any such evidence is irrelevant. It is irrelevant for two reasons.
+First, in any case the proper treatment of any individual’s claim turns on the specific factual circumstances of the particular claim, for example, the precise number of hours spent administering therapy, if all other conditions of section 118.3 are met.
+Second, administrative practice and inconsistencies in actual application in the law cannot change the law. It has been clear since the [English] Bill of Rights of 1689 that the executive cannot suspend the law. The Bill of Rights of 1689 provides, among other things:
+. . .
+Dispensing Power.
+That the pretended Power of Suspending of Laws or the Execution of Laws by Regall Authority without Consent of Parlyament is illegall.
+Late dispensing Power.
+That the pretended Power of Dispensing with Laws or the Execution of Laws by Regall Authoritie as it hath beene assumed and exercised of late is illegall.
+. . .
+This has been incorporated into our law by the following words in the first paragraph of the Constitution Act, 1867: “with a Constitution similar in Principle to that of the United Kingdom”. In Canada (Fisheries and Oceans) v. David Suzuki Foundation, 2012 FCA 40, Justice Mainville briefly discusses the history of the Bill of Rights of 1689 as follows:
+71 . . . The two guiding principles of the British constitution – on which the constitution of Canada is modelled – are the sovereignty of Parliament and the rule of law. These constitutional principles were largely developed as a result of the English Civil War of the 17th Century and its aftermath. This long, difficult and often bloody struggle between the Crown and Parliament culminated in the victory of the Parliamentarians in the so-called “Glorious Revolution”, which ensured the accession to the throne of William and Mary and led to the adoption of the Bill of Rights of 1689, later followed by the Act of Settlement of 1701.
+72 Through these historical events, the Crown’s powers were made subject to the laws of Parliament. Prior to the Bill of Rights of 1689, the Crown had asserted that it could “assum[e] and exercis[e] a power of dispensing with and suspending of laws and the execution of laws without the consent of Parliament”: Preamble to the Bill of Rights of 1689. While the Bill of Rights of 1689 firmly consecrated the principle of Parliamentary sovereignty, it also implicitly empowered the courts, and particularly the common law courts, to both interpret Parliament’s laws and censure unlawful behaviour on the part of Crown officials. This was further entrenched by the subsequent Act of Settlement of 1701 which recognized the independence of the judiciary.
+73 The Bill of Rights of 1689, the Act of Settlement of 1701, and the constitutional principles flowing from those documents thus ensured that the Crown and its officials would be thereafter bound by Parliament’s laws . . . .
+[20] [1998] F.C.J. No. 169 (QL), paragraph 10.
+[21] These comments are found in paragraph 45 of Radage v. Canada, [1996] T.C.J. No. 730 (QL). The comments have been followed in a number of subsequent cases including, recently, McDermid v. The Queen, 2014 TCC 264; see paragraph 9 of the reasons of Justice Woods, as she then was.
+[22] Although it is in a sense a medical appointment, it would not fit the scheme of these provisions to include in the medical appointment exception the time spent by a patient receiving, for example, dialysis.
+[23] See Tab 7 of Exhibit A-1. I count the time spent for the blood test twice because the child is taken away from ordinary activities during that time and, simultaneously, the Appellant must spend that time supervising her daughter since her daughter could not go for the blood test on her own.
+[24] While Dr. Potter’s letter said that no prescription was generally necessary for medical food, the Appellant testified that it was. I do not think it matters but if I had to conclude on the point I would conclude that, while medical food is not prescribed in the same sense as the medical formula or prescription drugs, access to the Ontario program does require a doctor to make the appropriate diagnosis to support the need for the medical food. Combined with the fact that medical food is to be taken under the supervision of a doctor, while this is different from a prescription medication, it is closely related.
+[25] For example, what will fit in the palm of a hand.
+[26] Phe in the three components of the therapy, i.e. medical formula, medical food and ordinary food. Although the formula does not contain Phe, the Appellant explained that if at the end of the day insufficient Phe had been consumed by the child, the Appellant might add a tiny amount of cow’s milk — an ounce, for example — to the final formula for the day.
+[27] Tab 7 of Exhibit A-1 and annex B.
+[28] See also Tab 7 of Exhibit A-1 for the actual time estimates.

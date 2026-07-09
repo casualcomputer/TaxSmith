@@ -1,0 +1,159 @@
+---
+title: "Burton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27243/index.do"
+last_modified: "2006-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 129"
+citation2: ""
+neutral_citation: "2006 TCC 129"
+decision_date: "2006-03-06"
+language: "en"
+item_id: "27243"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 784
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:18:11.595000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4302e6ef9c3abea348ab6d916baeba262f50205b1707ef5d53d133ed3a4a332c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burton v. The Queen
+
+- Citation: 2006 TCC 129
+- Decision date: 2006-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 784, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-06
+Neutral citation
+2006 TCC 129
+File numbers
+2005-3100(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3100(IT)I
+BETWEEN:
+VERNA BURTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 24, 2006, at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded the sum of $300 for her out-of-pocket disbursements incurred in prosecuting this appeal.
+Signed at Saskatoon, Saskatchewan, this 6th day of March 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC129
+Date: 20060306
+Docket: 2005-3100(IT)I
+BETWEEN:
+VERNA BURTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Kelowna, British Columbia on February 24, 2006. The Appellant testified and called her daughter, Amber Burton, her neighbour at the material time, Sharon Heyland, and June Charbonneau who lives adjacent to the bus stop at which Coleman gets off the school bus to go to his father, Marcel Blanchette's ("Marcel") residence. The Respondent's counsel was granted an adjournment of in excess of 20 minutes to interview Marcel and did not call any witnesses. Marcel was offered the opportunity to testify by the Court and chose not to testify. The Appellant, Respondent's counsel and Marcel all participated in the argument.
+[2] At the outset the Court denied a motion by the Respondent pursuant to section 174 of the Income Tax Act ("Act") to adjourn this hearing in order to allow a joint proceeding to include Marcel as a party. The reasons given by the Court were oral and were enumerated onto the record at that time.
+[3] Paragraphs 10 to 17 of the Reply to the Notice of Appeal set out the matters in dispute. They read:
+10. By Notice of Redetermination dated March 19, 2004, the Minister notified the Appellant that her entitlement for CCTB had been recalculated for the 2002 base taxation year on the basis that her marital status was separated, with no eligible children, family income of $17,009.00 and working income of $17,347.00. Consequently, the Notice required the Appellant to repay overpayments of CCTB totalling $1,754.72 for the period from July 2003 to February 2004 of the 2002 base taxation year.
+11. By facsimile transmission dated March 8, 2005, the Appellant applied to the Minister to extend the time within which Notices of Objection may be served respecting her entitlement for CCTB relating to Coleman for the 2000, 2001 and 2002 base taxation years.
+12. By letter dated March 29, 1005, the Minister extended the time within which the Appellant may serve Notices of Objection respecting CCTB for the 2000, 2001 and 2002 base taxation years.
+13. B Notification of Confirmation dated July 28, 2005, the Minister confirmed the Notices of Redeterminations dated March 19, 2004 respecting the Appellant's entitlement for CCTB for the 2000, 2001 and 2002 base taxation years.
+14. In notifying the Appellant by Notices of Redeterminations dated March 19, 2004, and in confirming those redeterminations, the Minister assumed the same facts as follows:
+a) the Appellant and Mr. Blanchette separated on July 7, 2001 and they continue to live separate and apart throughout the material period;
+b) the Appellant and Mr. Blanchette are the parents of two children, namely, Lee J. Burton ("Lee"), born on April 3, 1984, and Coleman, born on December 23, 1990;
+c) the Appellant and Mr. Blanchette entered into a written separation agreement dated July 8, 2001 (the "Agreement");
+d) the Agreement provided for, among other things, that:
+i) Mr. Blanchette was to have custody of Coleman with the Appellant having reasonable and liberal access to Coleman; and
+ii) the Appellant and Mr. Blanchette were to share joint guardianship of Lee;
+e) as of January 2002 and throughout the material period, Coleman resided with his father, Mr. Blanchette;
+f) as of January 2002, Mr. Blanchette rather than the Appellant provided the care, upbringing and residence of Coleman;
+g) as of January 2002, Mr. Blanchette was the "eligible individual" for the 2000, 2001 and 2002 base taxation years for the purpose of claiming CCTB in respect of Coleman, as defined in section 122.6 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act"); and
+h) the Appellant's family and working income for the 2000, 2001 and 2002 base taxation years were as follows:
+2000
+2001
+2002
+Family income
+$16,635.00
+$11,773.00
+$17,009.00
+Working income
+$16,940.00
+$11,842.00
+$17,347.00
+i) the Appellant was not the "eligible individual" for the purpose of claiming CCTB in respect of Coleman for the 2000, 2001 and 2002 base taxation years after January 2002.
+B. ISSUE TO BE DECIDED
+15. The issue is whether the Minister properly calculated the Appellant's entitlement, to CCTB in respect of Coleman for the 2000, 2001 and 2002 base taxation years.
+C. STATUTORY PROVISIONS RELIED ON
+16. He relies on sections 122.6, 122.61 and 122.62 of the Act, as amended.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+17. He submits that the Minister properly determined that the Appellant was not entitled to CCTB respecting Coleman for the 2000, 2001 and 2002 base taxation years after January 2002 because as of January 2002 Mr. Blanchette rather than the Appellant was the "eligible individual" as that term is defined in section 122.6 of the Act. Therefore, the Minister properly requested that the Appellant repay CCTB overpayments totaling $5,137.06 for the 2000, 2001 and 2002 base taxation years pursuant to subsection 122.6(1) of the Act.
+[4] Assumptions 14 a) to d) inclusive were not refuted. With respect to the remaining assumptions, the Court finds:
+1. Coleman resided with and received his care and upbringing from the Appellant continuously from birth until the end of January, 2003. All of the evidence confirms the foregoing finding to at least the end of January, 2003.
+2. As a result, assumptions e), f) and g) are wrong.
+3. No evidence was led respecting assumption h) so that it is not directly refuted.
+4. Assumption i) is wrong. The Appellant was the eligible individual at all of the times described in this assumption.
+[5] For these reasons, the appeal is allowed and this matter is referred to the Minister of National Revenue for reconsideration and reassessment in accordance with the findings herein.
+[6] The Appellant is awarded the sum of $300 on account of her out-of-pocket disbursements in prosecuting this appeal.
+Signed at Saskatoon, Saskatchewan, this 6th day of March 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC129
+COURT FILE NO.: 2005-3100(IT)I
+STYLE OF CAUSE: Verna Burton v. The Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: February 24, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: March 6, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,113 @@
+Title: Pont Rouge Systems Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31232/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-224-31232-pont-rouge-systems-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-09
+
+# Pont Rouge Systems Inc v. The Queen
+
+- Citation: 2013 TCC 224
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5137, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pont Rouge Systems Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-09
+Neutral citation
+2013 TCC 224
+File numbers
+2013-284(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-284(IT)I
+BETWEEN:
+PONT ROUGE SYSTEMS INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 28, 2013, at Ottawa, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Kent Heatherington
+Counsel for the Respondent:
+Kira Brezhneva
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the year ending October 31, 1999 is dismissed.
+Signed at Ottawa, Canada, this 9th day of July 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC224
+Date: 20130709
+Docket: 2013-284(IT)I
+BETWEEN:
+PONT ROUGE SYSTEMS INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] On August 9, 2010, the Appellant submitted an income tax return to the Minister of National Revenue (the “Minister”) for its October 31, 1999 year end (“1999 return”). It reported net income of $65,010. The Minister assessed the Appellant as filed and imposed a late-filing penalty. The issue in this appeal is whether the late-filing penalty was correctly assessed.
+[2] The Appellant was represented at the hearing by Kent Heatherington, a director of the Appellant, and the only witness at the hearing.
+[3] According to Mr. Heatherington, the Appellant ceased operations in September 2010.
+[4] It was the Appellant’s position that it had originally filed its 1999 return on time. It re-filed its 1999, 2000, 2001 and 2002 returns at the suggestion of an auditor with Revenu Quebec. These returns were re-filed to correct a problem with the original returns. Mr. Heatherington did not elaborate on the problem with the original returns. He was unable to provide the Court with any evidence that Revenu Quebec had asked him to re-file.
+[5] It was Mr. Heatherington’s evidence that the Appellant filed all of its returns on time except the returns for 2002 and 2003. He stated that the taxes were never paid on time but he made arrangements with the Collections Division of the Canada Revenue Agency (“CRA”) to pay his personal taxes and to pay the Appellant’s taxes. He always paid the taxes in accordance with the arrangements he made.
+[6] To support his statement that the Appellant paid all of the taxes due to the CRA, Mr. Heatherington submitted an excel spreadsheet (exhibit A-1) which he had prepared. It listed the payments he made on his personal taxes and on the Appellant’s taxes to the CRA and to Revenu Quebec. Although there are several entries of payments made to CRA, there is only one entry for an amount paid by the Appellant to the CRA and this was on May 26, 2008 for $38.12. Mr. Heatherington was not sure if the other payments were made on the arrears of his personal taxes or the arrears of the Appellant’s taxes. He also did not know which taxation year was being paid.
+[7] Exhibit A-1 does not assist the Appellant with its position.
+[8] Mr. Heatherington had no documents to corroborate his position that the Appellant’s 1999 return was filed on time. He stated that the return would have been prepared by an accountant but he could not remember the name of the accountant. He could not remember if he personally filed the 1999 return or if it had been filed by the accountant who prepared it.
+[9] The affidavit of Denis Desloges, an officer in the Litigation Office of the Ottawa Tax Services Office of the CRA, disclosed that none of the Appellant’s tax returns for 1999 to 2005 inclusive were submitted to the Minister within six months after its year end as specified by paragraph 150(1)(a) of the Income Tax Act. The returns were submitted as follows:
+Taxation Year end October 31
+Date Submitted
+1999
+August 9, 2010
+2000
+January 29, 2010
+2001
+December 31, 2002
+2002
+November 17, 2006
+2003
+January 17, 2007
+2004
+February 5, 2007
+2005
+February 16, 2007
+[10] I have concluded that the Appellant has not shown that the late-filing penalty was incorrectly imposed for its October 31, 1999 taxation year. The appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of July 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC224
+COURT FILE NO.: 2013-284(IT)I
+STYLE OF CAUSE: PONT ROUGE SYSTEMS INC AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 28, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 9, 2013
+APPEARANCES:
+Agent for the Appellant:
+Kent Heatherington
+Counsel for the Respondent:
+Kira Brezhneva
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

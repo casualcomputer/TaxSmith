@@ -1,0 +1,116 @@
+Title: Synchrosat Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26111/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-380-26111-synchrosat-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-05-29
+
+# Synchrosat Limited v. The Queen
+
+- Citation: 2003 CCI 380
+- Decision date: 2003-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4172, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Synchrosat Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-29
+Référence neutre
+2003 CCI 380
+Numéro de dossier
+2002-4673(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-4673(IT)I
+ENTRE :
+SYNCHROSAT LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 mai 2003 à Ottawa (Ontario).
+Devant : l'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Asim K. Sen
+Avocate de l'intimée :
+Me Jennifer Neill
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est admis, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante a droit à des dépenses de recherche scientifique et de développement expérimental admissibles de 20 338 $. Le crédit d'impôt remboursable doit être calculé à nouveau sur ce fondement, conformément aux paragraphes 127(5) et 127(9) et à l'article 127.1 de la Loi.
+Signé à Ottawa, Canada, ce 29e jour de mai 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI380
+Date: 20030529
+Dossier: 2002-4673(IT)I
+ENTRE :
+SYNCHROSAT LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre, C.C.I.
+[1] Il s'agit d'un appel sous le régime de la procédure informelle interjeté à l'encontre d'une cotisation établie par le ministre du Revenu national (le « ministre » ) à l'égard de l'appelante en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 2001. Dans cette cotisation, la somme de 41 398 $ déclarée par l'appelante au titre de dépenses de recherche scientifique et de développement expérimental admissibles pour l'année en cause a été réduite à 19 424 $, et le crédit d'impôt à l'investissement remboursable demandé, au montant de 13 040 $, a été réduit à 6 119 $.
+[2] La somme de 21 974 $, qui a été refusée au titre de dépenses de recherche scientifique et de développement expérimental ( « RS & DE » ) et qui a entraîné le refus de la fraction de 6 921 $ du crédit d'impôt à l'investissement remboursable demandé, représente la portion du salaire gagné en 2001 par l'actionnaire principal de l'appelante, le Dr Asim K. Sen, plus les cotisations au Régime de pensions du Canada ( « RPC » ), qui était considérée comme n'étant pas liée à des activités de RS & DE admissibles. Les faits sur lesquels le ministre s'est fondé pour établir la cotisation à l'égard de l'appelante sont exposés au paragraphe 9 de la réponse à l'avis d'appel comme suit :
+[traduction]
+a) l'appelante menait des activités de recherche sur les sources d'énergie de remplacement - turbine d'inertie (le « projet » ), son seul projet de RS & DE admissible; (admis)
+b) l'exercice de la Société se termine le 31 décembre; (admis)
+c) le Dr Asim K. Sen (l' « actionnaire de l'appelante » ) était président de l'appelante et détenait 97 % de ses actions ordinaires durant l'année d'imposition 2001; (admis)
+d) l'actionnaire de l'appelante était le seul employé et le seul scientifique travaillant pour l'appelante durant toute l'année d'imposition 2001; (admis)
+e) l'actionnaire de l'appelante a convenu par écrit avec les représentants de l'ADRC que le projet de l'appelante pouvait être divisé en quatre séries d'activités :
+A. réinstallation et modification du montage expérimental;
+B. achat d'un ordinateur personnel IBM et installation du service relatif à Internet;
+C. élaboration et affichage du site Web de la Société;
+D. demande de nouveaux brevets et préparation de la réponse concernant les brevets ayant déjà fait l'objet d'une demande.
+(admis)
+f) l'actionnaire de l'appelante a admis dans la description du projet de RS & DE que la plus grosse partie du travail qu'il avait effectué durant l'année d'imposition 2001 était liée à la demande d'un brevet visant à protéger les droits de propriété intellectuelle; (admis)
+g) l'actionnaire de l'appelante a admis que l'activité A (soit 25 % des activités décrites au paragraphe e)) représentait des activités de RS & DE admissibles; (admis)
+h) l'actionnaire de l'appelante n'a pas fourni la ventilation du temps qu'il avait consacré à l'ensemble des activités (A,B,C,D,) liées à son travail pour le compte de l'appelante;
+i) seulement 25 % du temps de travail que l'actionnaire a consacré à l'ensemble des activités pour l'appelante durant l'année d'imposition 2001 représentait des dépenses de RS & DE admissibles; (admis)
+j) le salaire de l'actionnaire de l'appelante durant toute l'année d'imposition 2001 est de 28 080 $, plus les cotisations au RPC de 1 219 $, pour un total de 29 299 $;
+k) les cotisations au RPC de 1 219 $ pour l'actionnaire de l'appelante ont été versées durant l'année d'imposition 2001; (admis) et
+l) le calcul du salaire total de l'actionnaire de l'appelante lié aux activités de RS & DE admissibles est de 29 299 $ x 25 % = 7 324,66 $.
+[3] L'appelante a contesté deux points. Le premier a trait aux cotisations au RPC qu'elle avait versées en 2001. L'appelante a reconnu que le Dr Sen avait gagné le droit à un salaire de 28 080 $ en 2001, lequel lui avait en fait été payé en 2002, mais a nié que les cotisations au RPC au montant de 1 219 $ versées en 2001 s'appliquaient à ce salaire. L'appelante a soutenu que les cotisations au RPC de 1 219 $ découlaient du salaire payé au Dr Sen lors d'une année antérieure et qu'elles avaient été acceptées au titre de dépenses de RS & DE. À l'audition, l'avocate de l'intimée a admis ce point et n'a plus remis en cause le fait que le montant total de 1 219 $ constituait une dépense de RS & DE admissible.
+[4] Le deuxième point contesté par l'appelante est que le salaire accumulé de 28 080 $ gagné par le Dr Sen en 2001 n'était que pour « 540 heures-personne » , ce qui ne représentait en fait que 25 pour 100 du nombre total d'heures de travail consacrées par le Dr Sen durant l'année à l'ensemble du projet. En d'autres mots, l'appelante a soutenu que le ministre avait commis une erreur en admettant seulement 25 pour 100 des dépenses salariales de 28 080 $, soit 7 020 $, étant donné que la somme de 28 080 $ que le Dr Sen avait demandé de l'appelante ne représentait que trois mois de salaire de l'année et que le Dr Sen avait travaillé à plein temps pour l'appelante durant toute l'année en 2001. Selon l'appelante, le salaire gagné par le Dr Sen en 2001 était entièrement attribuable à l'unique activité pouvant être considérée comme une activité de RS & DE admissible.
+[5] Lorsqu'on lui a demandé pourquoi il n'avait demandé à l'appelante que trois mois de salaire pour 2001, le Dr Sen a répondu que celle-ci n'était pas en mesure de payer plus que cela et que lui-même souhaitait payer moins d'impôt.
+[6] Dans l'avis d'appel, l'appelante a fait les déclarations suivantes :
+[traduction]
+18. L'appelante soutient que, durant toute l'année d'imposition 2001, le scientifique [le Dr Sen] a travaillé comme employé à plein temps de Synchrosat Limited pendant plus de 40 heures par semaine afin d'accomplir les quatre activités, A, B, C et D, précédemment décrites au paragraphe 8, mais qu'il n'a demandé que la rémunération pour 540 heures-personne de son temps à la société pour tout le travail qu'il a effectué au cours de l'année. Cela ne représente que 25 % du temps total qu'il a consacré à accomplir les quatre activités, A, B, C et D. Les quatre activités menées par le scientifique durant l'année sont liées au projet 1.
+19. L'appelante soutient que ce n'est pas la première fois que le scientifique ne réclame qu'environ 25 % du coût réel de son travail pour le projet 1. Le scientifique, en sa qualité de propriétaire de l'entreprise, a agi de la sorte presque chaque année en vue de réduire le montant total d'impôt à payer sur ses revenus annuels. Dans ce contexte, l'appelante aimerait citer les observations suivantes qui ont été faites par M. le juge Pierre Archambault lors du jugement d'un appel lié au projet 1 entendu le 26 janvier 1996 :
+« ...environ 550 heures-personnes seulement ont été consacrées au projet de SEG dans chacune des années 1991 et 1992, ce qui représente à peu près trois mois de travail. Cela m'amène à me demander si le projet était mené avec sérieux. Cette question n'a toutefois pas été soulevée en l'espèce. Si elle l'avait été, peut-être que de plus amples explications l'auraient résolue. »
+[. . .]
+21. Ainsi, l'appelante soutient que les dépenses salariales totales déclarées devraient représenter la proportion requise de 25 % du salaire net du scientifique, conformément au rapport d'admissibilité du conseiller régional en recherche et technologie, et devraient être considérées comme des dépenses de recherche scientifique et de développement expérimental admissibles en vertu de la Loi de l'impôt sur le revenu (Canada) et du Règlement de l'impôt sur le revenu.
+[7] La preuve a montré que l'appelante avait déduit des dépenses de RS & DE pour plusieurs années antérieures. Dans sa déclaration en matière de recherche scientifique et de développement expérimental ( « RS & DE » ) au Canada (la « déclaration » ) en janvier 2002 pour l'année d'imposition 2001 (pièce F de la pièce A-1), l'appelante a déclaré des dépenses de main-d'oeuvre totales de 28 080 $ pour le projet relatif aux « sources d'énergie de remplacement » . À la déclaration était jointe une ventilation des dépenses de RS & DE montrant des dépenses de main-d'oeuvre en matière de recherche et de développement pour le travail du scientifique ( « 540 heures-personne » ) de 28 080 $. Dans une annexe déposée conjointement à la déclaration, l'appelante décrivait la nature du travail accompli en 2001. D'après cette description, le travail représentait une combinaison des quatre activités mentionnées au paragraphe 9e) de la réponse, que je reproduis de nouveau ici :
+[traduction]
+A. réinstallation et modification du montage expérimental;
+B. achat d'un ordinateur personnel IBM et installation du service relatif à Internet;
+C. élaboration et affichage du site Web de la Société;
+D. demande de nouveaux brevets et préparation de la réponse concernant les brevets ayant déjà fait l'objet d'une demande.
+[8] Bien que la ventilation des dépenses de RS & DE accompagnant la déclaration indique que la somme de 28 080 $ a été déclarée pour « 540 heures-personne » , il ne figure aucune mention dans ce document et dans l'autre document susmentionné joint à la déclaration à l'effet que ces « 540 heures-personne » étaient uniquement liées au travail effectué dans le cadre de l'activité A, soit à la réinstallation et à la modification du montage expérimental. En effet, lorsque l'appelante a produit la déclaration en janvier 2002, elle croyait que toutes les activités donnaient lieu à des dépenses admissibles. Une vérification a par la suite été effectuée par l'Agence des douanes et du revenu du Canada (l' « ADRC » ) et le projet a été divisé en quatre séries d'activités. Ce n'est que lors de la vérification que l'appelante a concédé que seule l'activité A pouvait être qualifiée d'activité de RS & DE admissible. À ce stade, l'ADRC et l'appelante se sont entendues sur la description des quatre séries d'activités et sur le fait que le Dr Sen avait consacré 25 pour 100 de son temps à chaque activité pendant l'année.
+[9] Par conséquent, je ne crois pas que la somme de 28 080 $ que le Dr Sen a chargé à l'appelante était uniquement liée à cette activité admissible. Ainsi, je ne suis pas d'avis que les « 540 heures-personne » mentionnées dans la ventilation des dépenses de RS & DE accompagnant la déclaration doivent être interprétées comme voulant dire que le salaire déclaré n'était lié qu'au travail accompli pour la réinstallation et la modification du montage expérimental. Ce n'est pas ce que le document indique. En effet, le Dr Sen a reconnu que l'appelante ne pouvait pas se permettre de lui payer un salaire plus élevé. C'est la raison pour laquelle il n'a pas réclamé plus de « 540 heures-personne » et qu'il a accepté de recevoir de la société qu'il contrôlait un salaire réduit pour le travail accompli en 2001. L'appelante avait le fardeau de prouver que le Dr Sen n'avait demandé un salaire que pour le travail consacré à l'activité admissible. Le Dr Sen n'a pas produit de ventilation du temps consacré à chaque activité dans le cadre du projet de l'appelante. La preuve devant moi n'est pas suffisante pour réfuter les allégations de fait énoncées dans la réponse.
+[10] Pour ces motifs, je suis d'accord avec l'intimée que le salaire total de l'actionnaire principal de l'appelante n'était pas exclusivement lié aux activités de RS & DE admissibles, et que seulement 25 % du salaire gagné en 2001 pouvait être considéré comme une dépense de RS & DE. Le salaire touché en 2001 était de 28 080 $, et seulement 25 % de celui-ci, soit la somme de 7 020 $, était lié à une activité admissible.
+[11] L'intimée a concédé à l'audition que les cotisations au RPC de 1 219 $ payées en 2001 découlaient du salaire qui avait été gagné lors d'années antérieures et qui était lié à des activités de RS & DE admissibles.
+[12] Par conséquent, l'appel est admis en tenant compte du fait que l'appelante a droit à des dépenses de RS & DE admissibles au montant de 20 338 $ (soit le montant de 19 424 $ qui a déjà été admis par le ministre, plus 75 pour 100 de 1 219 $, ou 914 $, que l'avocate de l'intimée est maintenant disposée à admettre). Le crédit d'impôt remboursable doit être calculé à nouveau sur ce fondement, conformément aux paragraphes 127(5) et 127(9) et à l'article 127.1 de la Loi.
+Signé à Ottawa, Canada, ce 29e jour de mai 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Mario Lagacé, réviseur

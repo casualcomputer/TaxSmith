@@ -1,0 +1,165 @@
+Title: Nguyen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27153/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-697-27153-nguyen-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-11-04
+
+# Nguyen c. La Reine
+
+- Citation: 2005 TCC 697
+- Decision date: 2005-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1022, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-04
+Neutral citation
+2005 TCC 697
+File numbers
+2005-604(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-604(IT)I
+BETWEEN:
+KIM-GIANG NGUYEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on September 29, 2005, in Montréal, Quebec
+Before: The Honourable Justice Pierre R. Dussault
+Appearances:
+Counsel for the Appellant:
+Philippe-Alexandre Otis
+Counsel for the Respondent:
+Nathalie Goulard
+Catherine Gagnon (articling student)
+____________________________________________________________________
+JUDGMENT
+The Respondent's application seeking dismissal of appeals from assessments under the Income Tax Act for the 1997, 1998 and 1999 tax years is allowed, and the appeals are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of November 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 25th day of October 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2005TCC697
+Date: 20051104
+Docket: 2005-604(IT)I
+BETWEEN:
+KIM-GIANG NGUYEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] The Appellant appealed from assessments under the Income Tax Act ("the Act") for the 1997, 1998 and 1999 taxation years.
+[2] The Respondent filed an application seeking dismissal of the appeals on the grounds that the Appellant waived in writing his right to object to the assessments, in which the deduction of business expenses was disallowed for the three years in question, and his right to appeal from those assessments. The Agreement the Appellant signed with the Canada Customs and Revenue Agency (CCRA), under which he waived his right to object to and appeal from the assessments, is dated April 20, 2001 (Exhibit I-1). It reads:
+WAIVER OF THE RIGHT TO FILE AN OBJECTION OR AN APPEAL
+AGREEMENT BETWEEN: Canada Customs and Revenue Agency
+Laval T.S.O.
+Verification and Enforcement Division
+AND: Kim-Giang Nguyen
+Canada Customs and Revenue Agency and Kim-Giang Nguyen ("the Taxpayer"), have agreed to settle the audit issues itemized below:
+1997
+1998
+1999
+TOTAL
+Disallowed Expenses:
+$26,473
+$31,240
+$47,348
+$105,061
+The Taxpayer waives the right to object or to appeal the Department's reassessment of the above itemized audit issues for the pertinent taxation years.
+In addition, the Taxpayer waives the right to request the cancellation of interests [sic] and/or penalties in respect of the Fairness Package per subsection 220(3.1) of the Income Tax Act.
+The Taxpayer acknowledges that:
+1. the provisions of subsection 165(1.2) and 169(2.2) of the Income Tax Act (Schedule A) are understood as they pertain to this document;
+2. additional tax, interest and/or penalty, as applicable, may result from the Department's reassessment of the issues itemized above;
+3. the impact of this document will be binding on the Taxpayer's trustees, successors, administrators, shareholders of the said corporations and any other person who might become liable for the taxes, interest and penalties which ensue from the reassessment of the issues itemized above; and,
+4. this document is being freely and voluntarily signed.
+The acceptance of this agreement is confirmed by the following signatures:
+Revenue Canada Agreed
+Authorized officers
+(signature) (signature)
+Sonia Sariboyajian Mr. Kim-Giang Nguyen
+Date 20/04/2001 Date 20/04/2001
+(signature)
+Khaled Elkorek
+Date 20-04-2001
+[3] The English version of subsections 165(1.2) and 169(2.2) of the Act were attached to the agreement (Schedule A).
+[4] CCRA auditor Sonia Sariboyajian and the Appellant testified.
+[5] Sonia Sariboyajian audited the Appellant's business for the three years in question between February and April 2001, that is, over a period of approximately two months. During the audit, she met with the Appellant five times. According to Ms. Sariboyajian, the conversations and discussions with the Appellant were conducted in English. Ms. Sariboyajian is bilingual and said that the Appellant's English was "good". Because she had only one year's experience at the time, she was always accompanied by a much more experienced auditor named Khaled Elkorek. She also had a team leader who signed the final audit report.
+[6] Ms. Sariboyajian said that the Appellant worked full time for the City of Montréal and that he told her that he tried importing and exporting products from and to Vietnam and other countries and also did translation. Because he had said he operated his business out of his home, the first meeting took place there so that the auditor could start checking his income and deducted expenses. The auditor had a number of questions for the Appellant and also asked him to produce supporting documents. The Appellant produced some documents during that first meeting.
+[7] During the second meeting, the Appellant produced a detailed account of his expenses and other supporting documents.
+[8] During the third meeting, the auditor requested and received from the Appellant authorization to verify his bank accounts. The Appellant also produced other documents at that time.
+[9] Ms. Sariboyajian completed her audit in early April 2001 and scheduled a fourth meeting with the Appellant in her office in order to present her audit findings and the reasons why the deduction of some expenses was disallowed. The subject of the deductibility of the expenses had been broached in the third meeting. She said that she reviewed the results of the Appellant's business from 1992 on, that she noted the same type of expenses was claimed year after year, and that some expenses were not "bona fide" expenses, but rather personal expenses or expenses not incurred for the purpose of earning income. Ms. Sariboyajian said that the Appellant's business relations were with friends, that his business activities were based on their word, and that there were no real contract negotiations between two parties.
+[10] During that fourth meeting and having considered the circumstances, Ms. Sariboyajian and Khaled Elkorek told the Appellant that there were three options regarding the assessments that could arise from the audit and that the choice was his. The options they presented were:
+1. Disallow the deduction of expenses for 1997, 1998 and 1999, tax the profit and add the penalty prescribed in subsection 163(2) of the Act.
+2. Reopen and reassess the years in question and add the penalty prescribed in subsection 163(2) of the Act.
+3. Disallow the deduction of expenses for 1997, 1998 and 1999 exceeding the (gross) business income so that there would be no business income, business loss or penalty for those years. However, the Appellant would then have to sign a waiver of his right to object and appeal.
+[11] Ms. Sariboyajian said that in that meeting, the Appellant did not attempt to make any other arguments. She said that the consequences of each option were laid out and discussed and that the choice was left to the Appellant, but they did tell him that the third option was his best one. She said the waiver was discussed during the meeting, but no threat was made and the appellant did not express any specific fear apart from fear about the state of his finances. The Appellant said that he had debts, that his financial situation was not good and that the resulting assessments would make matters even worse. The Appellant even offered to cease operations if the authorities agreed to close the file with no reassessments. In the end, the Appellant weighed the three options and said that he wanted to discuss them with his wife before making a decision.
+[12] Following that fourth meeting, Ms. Sariboyajian telephoned the Appellant to find out what he had decided and to schedule a fifth meeting. The Appellant asked her if there was anything else she could do to reduce the assessed amounts. Ms. Sariboyajian said she replied that the third option was the best one for him and that there was nothing more she could do. The Appellant did not ask for more time to think and said he preferred the third option. A meeting was then scheduled.
+[13] The fifth meeting took place on April 20, 2001, two weeks after the fourth. According to Ms. Sariboyajian, the meeting took place at the Appellant's home and she was accompanied by Mr. Elkorek. Because the Appellant had agreed that the assessments would be done in accordance with the third option, that is, the deduction of expenses exceeding the (gross) income would be disallowed, he was given a draft assessment and the waiver reproduced above. The consequences were explained to him, and he was given time to consider them. Ms. Sariboyajian said that it was up to the Appellant to consult an accountant or a lawyer if he wished. The Appellant accepted the draft assessment and signed the waiver at that meeting. When he inquired about making arrangements for payment, Ms. Sariboyajian simply told him to wait until the reassessments were done.
+[14] The Appellant was born in Vietnam. He immigrated to Canada in 1975 and became a Canadian citizen in 1977. He speaks Vietnamese, Russian, English and French. He registered a business in 1990 to do translation, promotion of trade with Vietnam and Russia, technology transfer, and the import and export of goods from and to the two countries.
+[15] In his testimony, he said that he was involved in several business dealings in 1997, among them the sale of Bombardier regional aircraft to the Government of Vietnam, the sale of steel to Russia and Vietnam, and the sale of cement in North Africa. He said that he had spent 20 years working in the construction of cement plants in Vietnam and also had experience in steel. He described other projects, including the construction of a sugar mill in Russia and the sale of fishing boat trailers in Vietnam.
+[16] However, the Appellant did not state his specific role or describe his involvement in those projects.
+[17] The Appellant said that during the first meeting with Ms. Sariboyajian and Mr. Elkorek in late January or early February 2001, he gave them documents and correspondence related to the various projects. At the second meeting, he asked to explain the documents. At the third meeting, he agreed to Ms. Sariboyajian's request for permission to verify his bank accounts.
+[18] The Appellant said that during the fourth meeting, Ms. Sariboyajian presented him with the results of her audit and the different options. He said that the matter of intent to commit fraud was raised and that Ms. Sariboyajian said that the options he was being offered represented something of a break for him. He said he was also told that it would better to cease operations because he had always incurred losses. The Appellant said that he requested a copy of the waiver during that meeting, but was denied.
+[19] The Appellant said that the fifth meeting took place at the CCRA office in Laval, not at his house. Ms. Sariboyajian and Mr. Elkorek told him that they considered his expenses to be personal expenses and that he could challenge their decision if he wished. The Appellant said that this was all new to him and that he had never gone to court before. He nevertheless agreed to the assessment proposed under the third option and signed the waiver at that last meeting.
+[20] It was not until later that someone urged him to consult a lawyer. The Appellant met with Mr. Mostovac, whose advice was to challenge.
+[21] Counsel for the Respondent relied on subsections 165(1.2) and 169(2.2) of the Act to seek dismissal of the appeals because of the waiver the Appellant signed on April 20, 2001.
+[22] She reiterated that the Appellant is an engineer, is well educated and speaks four languages. She argued that he had two weeks to think and that the onus was on him to get information or seek advice, but he felt that was unnecessary. She pointed out that there was no evidence of threats or intimidation by officials and that the waiver the Appellant admitted signing must be enforced.
+[23] In support of her arguments, counsel for the Respondent referred to the Supreme Court of Canada decision in Smerchanski v. Minister of National Revenue, [1977] 2 S.C.R. 23, [1976] CTC 488, and the Federal Court of Appeal decision in Wagg v. Canada, [2004] 1 F.C.R. 206, [2003] F.C.A. No. 1115 (QL).
+[24] Counsel for the Appellant argued that the decision in Wagg, supra, is irrelevant here because the Appellant, unlike the Appellant in that case, did not freely consent to the proposed settlement.
+[25] With regard to Smerchanski, supra, counsel for the Appellant said that Mr. Smerchanski, who was facing criminal charges, in a sense had his back against the wall and had consulted his lawyers before signing a waiver of his right to appeal from the assessments.
+[26] In the case at bar, counsel for the Appellant argued that the Appellant is from another country, that French is not his first language, that he was unfamiliar with the system at the time in question and that he was not represented by counsel. He said that when the Appellant was accused of fraud, he wanted to avoid any trouble, and that it what led him to sign the waiver as he was strongly urged to do. He added that the Appellant had only two weeks to make a decision.
+[27] Ms. Sariboyajian outlined the three options she had regarding the assessments that could be done following her audit of the Appellant's business. The Appellant was given a choice, but it was made clear that the third option was his best one. That method is surprising and strikes me as somewhat unorthodox. However, the Appellant was not threatened, and there was never any question of prosecution; instead, two of the three options included civil penalties. The Appellant was also told that he could challenge whatever assessments were done if he wished. He was given two weeks to discuss the matter with his wife, since that is what he requested. There is no evidence that he was prevented in any way at the time from consulting an accountant or a lawyer if he was not sufficiently knowledgeable of the system or did not understand the consequences of waiving his right to object and appeal.
+[28] The Appellant is an educated man who speaks four languages. He had been living in Canada for more than 25 years when he signed the waiver and agreed to accept the assessments without penalty based on the disallowance of the deduction of his expenses exceeding his (gross) income for the three years in question.
+[29] I was by no means convinced that Ms. Sariboyajian or Mr. Elkorek put undue pressure on the Appellant or that the Appellant was threatened. In Smerchanski, supra, Laskin C.J. of the Supreme Court of Canada wrote for the majority at page 32:
+...We deal here with a public authority which is under a duty to collect taxes from persons under a duty to pay them and who are subject to penalties for failure to pay and to criminal prosecution for wilful or fraudulent tax evasion. The threat of prosecution underlies every tax return if a false statement is knowingly made in it and, indeed, this is inscribed on the face of the tax form...
+[30] To this day, tax returns still carry a warning, which is currently worded as follows: "It is a serious offence to make a false return."
+[31] In the circumstances, the fact that the Appellant was informed that he was liable to civil penalties as a result of the audit does not, in my view, constitute an extraordinary threat or intimidation, and he was given the option of being assessed with no penalties, which he agreed to by waiving his right to object to and appeal from any assessments.
+[32] The Appellant therefore accepted a settlement which he surely believed was in his favour at the time, and assessments were done based on that settlement, that is, with no penalty. He waived his right to object and appeal in respect of the expenses the deduction of which was disallowed for the years 1997, 1998 and 1999. He did not offer any compelling evidence showing that he was unable, for reasons related to his origin or language, to understand the consequences of his waiver or that tax officials tried to mislead him, threaten him or apply undue pressure in connection with the waiver. Subsections 165(1.2) and 169(2.2) of the Act sanction such waivers.
+[33] It is clear to me that a waiver of the right to object and appeal signed by a taxpayer cannot be set aside except on a preponderance of evidence that the taxpayer did not freely consent to the waiver or was unduly pressured. I do not believe such evidence was put forward in this instance.
+[34] In light of the above, the Respondent's application is allowed and the appeals are dismissed.
+Signed at Ottawa, Canada, this 4th day of November 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 25th day of October 2006.
+Monica F. Chamberlain, Reviser
+CITATION: 2005TCC697
+DOCKET NUMBER: 2005-604(IT)I
+STYLE OF CAUSE: KIM-GIANG NGUYEN v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 29, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre R. Dussault
+DATE OF JUDGMENT: November 4, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Philippe-Alexandre Otis
+Counsel for the Respondent:
+Nathalie Goulard
+Catherine Gagnon (articling student)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Philippe-Alexandre Otis
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

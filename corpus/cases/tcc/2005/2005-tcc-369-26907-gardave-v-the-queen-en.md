@@ -1,0 +1,151 @@
+---
+title: "Gardave v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26907/index.do"
+last_modified: "2005-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 369"
+citation2: ""
+neutral_citation: "2005 TCC 369"
+decision_date: "2005-06-07"
+language: "en"
+item_id: "26907"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 778
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:39:38.792000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c1ceb3f2205712a17a2bee833a5360b29ba1d4a599489cee422423965fed650"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gardave v. The Queen
+
+- Citation: 2005 TCC 369
+- Decision date: 2005-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 778, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gardave v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-07
+Neutral citation
+2005 TCC 369
+File numbers
+2005-289(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-289(IT)I
+BETWEEN:
+DAVID GARDAVE,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 21, 2005 at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent seeking to quash the appeal;
+And upon hearing the parties and considering submissions;
+The motion is granted and the appeal as filed respecting the Appellant's 1991, 2003 and other taxation years affected by the reassessment under subsection 152(4.2) of the Income Tax Act of the Appellant's 1991 taxation year is quashed for the reasons set out in the attached Reasons for Order. The Appellant's filing fee paid in respect of his appeal shall be refunded.
+Signed at Ottawa, Canada, this 7th day of June 2005.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2005TCC369
+Date: 20050607
+Docket: 2005-289(IT)I
+BETWEEN:
+DAVID GARDAVE,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+[1] The Respondent has brought a motion for an order quashing or dismissing the Appellant's appeal on the following grounds:
+1. the appeal does not conform with the statutory requirements set out in section 18.15 of the Tax Court of Canada Act in that it does not set out, in general terms, the reasons for the appeal and the relevant facts;
+2. the appeal as it relates to the Notice of Reassessment dated October 29, 2004 for the 1991 taxation year is in respect of an assessment issued pursuant to subsection 152(4.2) of the Income Tax Act and from which there is no right of appeal;
+3. alternatively, the appeal as it relates to the Notice of Reassessment dated October 29, 2004 for the 1991 taxation year is in respect of a notification that no federal tax is payable for the year;
+4. the appeal as it relates to the Notice of Reassessment dated October 7, 2004 for the 2003 taxation year is in respect of a notification that no federal tax is payable for the year;
+5. the appeal as it relates to the Statement of Account dated November 24, 2004 does not conform with the statutory requirements set out in section 169 of the Income Tax Act in that the Appellant is not appealing from an assessment; and
+6. such further and other grounds as counsel may advise and this Honourable Court may permit.
+[2] The Notice of Appeal is brief. It provides as follows:
+Appeal under the Income Tax Act
+Taxation Year: 2003, also revised assessments that effect years 1991 to date.
+Re:
+· Notice of Reassessment, October 7, 2004
+· Notice of Reassessment, October 29, 2004
+· Statement of Account, November 24, 2004
+As appeals have been filed for each of these with the Appeals Division, Winnipeg Tax Services Office (copies enclosed) and no response has been received to date, we are applying for a hearing in the Tax Court of Canada to resolve these issues. As there are ninety day limits for this application, we are applying now so as not to exceed this time limit.
+[3] In support of the motion the Affidavit of a litigation officer of the Canada Revenue Agency (the "CRA") was filed with the Court. That Affidavit with attachments confirms that a reassessment was issued for the 1991 taxation year dated October 29, 2004 and that it was made under the fairness provisions pursuant to subsection 152(4.2) of the Income Tax Act (the "Act"). That reassessment was for nil tax payable for the year. The Minister of National Revenue (the "Minister") had earlier also reassessed the Appellant for the 2003 taxation year on October 7, 2004. Again it appears that the latter Notice of Reassessment did not result in income tax payable although it includes a statement of account showing a previous account balance and a debit adjustment for a reduced provincial tax credit. The appeal of this reassessment relates to the calculation of the account balance to the extent at least that it did not reflect proper interest adjustments for the refund that arose some two weeks later under the October 29, 2004 reassessment of the 1991 taxation year.
+[4] On November 24, 2004 the Minister issued a Statement of Account showing a zero balance after crediting the refund generated by the reassessment of the Appellant's 1991 taxation year. Such refund is insufficient according to the Appellant's calculation of the proper interest adjustment.
+[5] The Appellant filed a timely objection to both the 1991 and 2003 reassessments issued on October 29 and October 7, 2004 respectively. He also objected to the Statement of Account sent in November of 2004.
+[6] The CRA advised the Appellant by letter that they did not regard the objections received as valid objections. They advised the Appellant that he could not appeal the October 29, 2004 reassessment of his 1991 year because it was issued under the fairness provisions and was thereby not appealable. He was also told by letter that the October 7, 2004 reassessment of his 2003 year could not be appealed although no reasons were provided. The Notice of Motion states the reason as there being no federal tax payable under that reassessment.
+[7] Referring to exhibits to the litigation officer's Affidavit, I note that the Appellant has asserted in the course of events leading to his appeal, a great number of things illustrating his frustration with a system that would not credit him with the correct interest (as he calculated it) on his refund for his 1991 taxation year which had been improperly assessed in 1992 as finally recognized by the October 29, 2004 reassessment.[1] All this however comes down largely to a communication problem as recognized by a submission made by the Appellant after the hearing and after he received a copy of a submission made, at my request, after the hearing by Respondent's counsel. That latter submission points out that in the case of reassessments under subsection 152(4.2), interest adjustments are subject to limitations prescribed in subsection 164(3.2). That latter provision of the Act had never expressly been relied on in past communications including the reassessments, the Notice of Motion and the Affidavit filed with the Notice of Motion.[2] The first mention of subsection 164(3.2) is made in the Respondent's submission following the hearing. The Appellant's submission was essentially to concede that, now having the benefit of being referred to this interest adjustment provision, he will not pursue his appeal. He objects to the process however and requests a refund of his $100.00 filing fee paid to the Court on filing his appeal.
+[8] The Respondent's motion to quash the appeals in their entirety is allowed. This is based not only on the Appellant's ultimate concession but on the grounds that it is beyond the jurisdiction of this Court to consider statements of account as reassessments in respect of which appeals lie. It is beyond the jurisdiction of this Court to consider questions relating to the use of the fairness provisions and that is all that this appeal is really about. That is, the Appellant is not appealing any reassessments per se but rather is only appealing an asserted flawed accounting of the calculation of his interest credits that have resulted from the application of the fairness provisions as opposed to the credits he would have enjoyed if the error had been corrected in the normal course at day one. The Appellant has raised no other cause of action over which this Court has jurisdiction. Further, the Act is clear that no appeals lie from reassessments under subsection 152(4.2). I am satisfied that that is the provision that was used, and properly so, to generate the refund. Further still, that the reassessments resulted in no federal tax payable raise more barriers to the Appellant's bringing his appeal.
+[9] It is these procedural barriers relied on by the Crown which have frustrated the Appellant. His final word seems to be that if the CRA had told him how they did their calculations at meetings and attempted meetings, the need to appeal would have been obviated and that he was entitled to a proper explanation. I cannot fault the Respondent or counsel for relying on the procedural provisions. They are there to be given effect for whatever reasons Parliament intended. On the other hand it strikes me as poor administrative practice not to explain the application of a provision of the Act such as subsection 164(3.2) or even refer to its existence when, aside from procedural barriers, it is at the heart of the issue being questioned by the taxpayer who as a former accountant has spent an enormous amount of time and energy proving his calculation of the proper interest adjustment but for subsection 164(3.2). Denying that the application was under the fairness provisions might have created an atmosphere where the CRA was not inclined to discuss its calculations but there seems to be no excuse nonetheless to never having referred the Appellant until after the hearing to the very provision relied on in calculating the interest adjustment.
+[10] If this appeal had proceeded to trial I could do nothing about the filing fee. However, where an appeal is quashed, and in this case I do so without awarding costs, I have discretion to order that the filing fee be returned. In the circumstances I will include that relief in my Order.
+Signed at Ottawa, Canada, this 7th day of June 2005.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2005TCC369
+COURT FILE NO.:
+2005-289(IT)I
+STYLE OF CAUSE:
+David Gardave and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+April 21, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice J.E. Hershfield
+DATE OF ORDER:
+June 7, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tracey Telford
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] His assertions include: that the 1992 reassessment of his 1991 year was ultra vires; that he had objected to that reassessment on a timely basis; and, that the October 24, 2004 reassessment of his 1991 year was not properly regarded as being made under the fairness provisions. Based on the submissions it seems likely that none of these assertions reflect more than the Appellant's frustration with the Respondent relying on procedural rules which would deny him his proper interest adjustment as opposed to dealing with his complaint on the merits.
+[2] There were no Confirmations and no Reply as the objections were treated as ineffective.

@@ -1,0 +1,188 @@
+---
+title: "Nijaf Enterprises Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31257/index.do"
+last_modified: "2013-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 241"
+citation2: ""
+neutral_citation: "2013 CCI 241"
+decision_date: "2013-07-29"
+language: "fr"
+item_id: "31257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5099
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:10:25.043000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "326c54b7992fa6ec3544b9568930bb4566e24987d156aab0454321c4516981e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nijaf Enterprises Inc. v. The Queen
+
+- Citation: 2013 CCI 241
+- Decision date: 2013-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5099, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nijaf Enterprises Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-29
+Référence neutre
+2013 CCI 241
+Numéro de dossier
+2012-3473(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-3473(GST)I
+ENTRE :
+NIJAF ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 juin 2013, à Vancouver (Colombie‑Britannique).
+Par : L’honorable juge Judith M. Woods
+Comparutions :
+Avocat de l’appelante :
+Me George Douvelos
+Avocat de l’intimée :
+Me Shankar Kamath
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise au moyen d’un avis daté du 9 août 2011 est rejeté.
+Signé à Toronto (Ontario), ce 29e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 10e jour de septembre 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 241
+Date : 20130729
+Dossier : 2012-3473(GST)I
+ENTRE :
+NIJAF ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le 17 avril 2008, l’appelante, Nijaf Enterprises Inc. (« Nijaf »), a acheté neuf logements en copropriété situés dans un immeuble d’habitation neuf. La taxe sur les produits et services (la « TPS ») était payable relativement aux neuf logements et Nijaf avait également droit à un remboursement partiel de la TPS en application du paragraphe 256.2(3) de la Loi sur la taxe d’accise (la « LTA »).
+[2] En l’espèce, la question en litige est de savoir si le ministre du Revenu national (le « ministre ») a établi à juste titre une cotisation à l’égard de Nijaf dans laquelle il a refusé le remboursement au motif que la demande de remboursement n’avait pas été faite dans le délai prévu par la loi. Le montant du remboursement en cause est de 44 728,43 $.
+[3] La Couronne soutient que la demande de remboursement a été refusée à juste titre, parce que Nijaf n’avait pas produit les formulaires prescrits (524 et 525) dans le délai de deux ans énoncé au paragraphe 256.2(7) de la LTA.
+[4] L’appelante fait valoir qu’elle a bel et bien produit un des formulaires prescrits dans le délai imparti et que la préclusion devrait être appliquée, parce que Nijaf a suivi les renseignements que lui avait fournis l’Agence du revenu du Canada (l’« ARC »).
+L’historique de la cotisation
+[5] Nijaf a demandé le remboursement pour la première fois dans une déclaration de TPS annuelle pour 2008, qui avait été produite le 31 mars 2009. Le remboursement avait été inscrit à la ligne 111 de la déclaration en tant qu’« autres crédits ». La déclaration indique que le formulaire de demande de remboursement doit être joint à la déclaration, mais cela n’avait pas été fait.
+[6] Selon la réponse, le 1er septembre 2009, le ministre a établi une cotisation à l’égard de Nijaf pour la période de déclaration se terminant le 31 décembre 2008 afin d’établir la taxe nette qui avait été déclarée (c’est‑à‑dire, la TPS payable sur les logements en copropriété) et de refuser le remboursement en raison de l’absence d’un formulaire de demande. Cette cotisation n’est pas en cause en l’espèce, et rien n’indique que Nijaf l’ait contestée.
+[7] Après l’établissement de la cotisation en question, le service de recouvrement a communiqué avec Nijaf pour lui demander de régler le solde dû, qui était presque égal au remboursement refusé. L’appelante a soutenu qu’il ne devrait y avoir aucun montant dû et qu’à un certain moment, elle avait produit les formulaires prescrits (524 et 525). La date de production de ces formulaires auprès de l’ARC est contestée.
+[8] À la suite de la production des formulaires prescrits, le ministre a établi une cotisation dans laquelle il a refusé le remboursement au moyen d’un avis daté du 9 août 2011. C’est cette cotisation qui fait l’objet du présent appel.
+Le contexte
+[9] La disposition légale qui prévoit le remboursement est le paragraphe 256.2(3) de la LTA, qui s’applique à la location à des fins résidentielles. Il n’est pas nécessaire de reproduire cette disposition dans les présents motifs.
+[10] Le délai applicable pour le remboursement, comme cela est énoncé au sous‑alinéa 256.2(7)a)(iii) de la LTA, est de deux ans suivant le mois où la TPS devient payable pour la première fois. Les parties conviennent qu’en l’espèce, la date limite est le 30 avril 2010.
+[11] Le paragraphe 256.2(7) de la LTA est ainsi libellé :
+(7) Demande de remboursement et paiement de taxe – Un remboursement n’est accordé en vertu du présent article que si, à la fois :
+a) la personne en fait la demande dans les deux ans suivant la fin du mois ci‑après :
+(i) dans le cas du remboursement prévu au paragraphe (5), le mois où elle effectue la fourniture exonérée visée au sous‑alinéa (5)a)(i),
+(ii) dans le cas du remboursement prévu au paragraphe (6), le mois au cours duquel la taxe visée à ce paragraphe est réputée avoir été payée par elle,
+(iii) en ce qui concerne les autres remboursements pour habitation, le mois où la taxe devient payable par elle pour la première fois, ou est réputée avoir été payée par elle pour la première fois, relativement à l’habitation ou à un droit y afférent, ou relativement à l’immeuble d’habitation ou à l’adjonction dans lequel elle est située, ou à un droit dans cet immeuble ou cette adjonction;
+b) dans le cas où le remboursement fait suite à une fourniture taxable que la personne a reçue d’une autre personne, la personne a payé la totalité de la taxe payable relativement à cette fourniture;
+c) dans le cas où le remboursement fait suite à une fourniture taxable relativement à laquelle la personne est réputée avoir perçu la taxe au cours d’une de ses périodes de déclaration, la personne a indiqué la taxe dans sa déclaration produite aux termes de la section V pour la période de déclaration et a versé la totalité de la taxe nette qui était à verser d’après cette déclaration.
+[Non souligné dans l’original.]
+[12] La manière dont un contribuable demande le remboursement au titre du paragraphe 256.2(3) de la LTA est énoncée au paragraphe 262(1) de la LTA. Cette disposition est ainsi libellée :
+262(1) Forme et production de la demande [de remboursement] – Une demande de remboursement selon la présente section, exception faite de l’article 253, est présentée au ministre en la forme et selon les modalités qu’il détermine et contient les renseignements requis.
+[13] Les parties conviennent que les formulaires qui sont prescrits dans la situation de Nijaf sont les formulaires 524 (formulaire de demande) et 525 (formulaire pour des renseignements supplémentaires).
+Les positions des parties
+[14] Les positions des parties peuvent être brièvement résumées.
+[15] Me Douvelos, avocat de Nijaf, soutient que l’un des formulaires prescrits a été envoyé le 19 avril 2010, une date qui se situe à l’intérieur du délai de prescription de deux ans qui a expiré le 30 avril 2010. Il soutient que Nijaf a simplement produit les formulaires que l’ARC lui avait envoyés.
+[16] La Couronne soutient que Nijaf n’a produit l’un ou l’autre des deux formulaires prescrits qu’après l’expiration du délai de prescription. Me Kamath, avocat de la Couronne, a reconnu que Nijaf avait bel et bien produit un document le 19 avril 2010. Il affirme, toutefois, qu’il ne s’agissait pas d’un formulaire prescrit, mais d’une copie de la déclaration de revenus pour 2008, laquelle mentionne le remboursement. Me Kamath avance que le formulaire pour des renseignements supplémentaires (525) a été produit le 19 novembre 2010 et que le formulaire de demande (524) a été produit le 3 mars 2011. Les deux dates de production des formulaires se situent en dehors du délai de prescription de deux ans.
+L’analyse
+[17] En l’espèce, la question centrale est de savoir si Nijaf a produit l’un ou l’autre des deux formulaires prescrits au plus tard à la date limite du 30 avril 2010. J’ai conclu qu’elle ne l’a pas fait.
+[18] La position de Nijaf est largement fondée sur le témoignage de Nizar Manji, qui est l’unique actionnaire de Nijaf. M. Manji a témoigné qu’il s’était occupé de questions concernant la TPS pour Nijaf, y compris la production de documents concernant le remboursement. Lors d’un témoignage plutôt vague, il a déclaré que l’ARC lui avait envoyé un des formulaires prescrits, qu’il avait renvoyé à l’ARC le 19 avril 2010. Il a également déclaré qu’il avait produit de nouveau le formulaire à la demande de l’ARC.
+[19] Nijaf soutient que ce témoignage est étayé par une lettre d’accompagnement datée du 19 avril 2010, qui est signée par M. Manji et qui est adressée à S. Hermuses de l’ARC (pièce A‑1, onglet 2, première page). La lettre indique que les formulaires de demande de remboursement sont joints à l’envoi.
+[20] Je ne souscris pas à l’argument selon lequel la lettre d’accompagnement étaye le témoignage de M. Manji.
+[21] La difficulté qui se pose à l’égard de l’argument présenté par Nijaf est que la section de l’adresse dans la lettre d’accompagnement contient deux dates, soit le 19 novembre 2010 et le 19 avril 2010. À la lumière de ce fait, il est vraisemblable que ce document précis ait été établi à la date la plus récente, à savoir le 19 novembre 2010.
+[22] Il est difficile de comprendre pourquoi il y a deux dates dans la section de l’adresse de la lettre. Il est possible que la date plus ancienne du 19 avril 2010 ait été une erreur administrative survenue lorsque la section de l’adresse de la lettre avait été copiée d’une lettre antérieure et collée dans la lettre en question.
+[23] Le témoignage vague de M. Manji quant aux dates de production des formulaires n’est pas suffisant, même pour établir une preuve prima facie.
+[24] D’autres éléments de preuve produits à l’audience militent fortement en faveur du fait que les formulaires prescrits ont été envoyés à l’ARC le 19 novembre 2010 et le 3 mars 2011, deux dates qui sont postérieures à la date limite du 30 avril 2010.
+[25] La Couronne a produit en preuve des extraits d’un journal préparé par Sharon Hermuses, qui était à l’époque une agente de recouvrement à l’ARC et qui était chargée du recouvrement de la dette de la TPS due par Nijaf (pièce R‑3). Les inscriptions pertinentes du journal qui appuient la version des faits de la Couronne sont reproduites ci‑après.
+[traduction]
+19 avril 2010 - Ai reçu un appel de Nizar Manji qui dit qu’il n’est pas possible qu’il doive autant d’argent. Il cherchera une copie de sa déclaration de revenus pour 2008 et l’acheminera par télécopieur au « cco ».
+19 avril 2010 – Ai reçu copie de la feuille de travail de la déclaration mentionnant un remboursement de 36 % sur le bien locatif, ligne 111, pour 44 728,43 $, lequel n’a pas été accepté au moment du traitement de la déclaration, étant donné qu’il semble qu’il n’a pas envoyé le formulaire de remboursement avec la déclaration. Selon les guichets d’affaires, le formulaire dont il a besoin est le TPS524. Lui ai demandé de remplir le formulaire qui se trouve sur le site Web et de l’envoyer par télécopieur au « cco ».
+28 avril 2010 – Ai discuté avec le directeur de la manière dont il faut envoyer une déclaration modifiée avec les documents exigés étant donné que le « cco » sera absent pendant six semaines.
+23 août 2010 – TPS 524 imprimé et envoyé par télécopieur au directeur, comme il l’avait demandé.
+7 septembre 2010 - Nizar Manji a appelé pour demander un TPS 525.
+8 septembre 2010 – Ai envoyé un TPS 525 à Nizar Manji par télécopieur. Une fois ce formulaire rempli, la question de la dette devrait être résolue.
+1er octobre 2010 – Ai reçu un message laissé par Nizar Manji à la boîte vocale, dans lequel il demandait comment remplir les formulaires. « CB » a laissé le no de tél. du guichet d’affaires à la personne qui répond au téléphone et demandé qu’ils disent à M. Manji qu’ils peuvent répondre à ses questions.
+1er novembre 2010 – « LMTC » pour Nizar Manji. Suivi concernant le TPS525 qui devrait permettre d’éliminer cette dette.
+[26] La Couronne a également produit les formulaires prescrits remplis qui avaient été envoyés à l’ARC. Les renseignements relatifs à la télécopie figurant dans le haut des formulaires appuient la position de la Couronne.
+[27] Le formulaire de demande rempli (formulaire 524) a été produit en preuve sous la cote R‑2. Les renseignements relatifs à la télécopie figurant dans le haut du formulaire indiquent qu’un formulaire en blanc a été envoyé par l’ARC le 23 avril 2010, et que M. Manji a retourné un formulaire rempli le 3 mars 2011.
+[28] Le formulaire concernant les renseignements supplémentaires (formulaire 525) a été produit en preuve sous la cote R‑1. Les renseignements relatifs à la télécopie indiquent que l’ARC a envoyé un formulaire en blanc à M. Manji le 8 septembre 2010, et que celui‑ci a retourné le formulaire rempli le 19 novembre 2010.
+[29] Enfin, Margaret Chen, la vérificatrice de l’ARC chargée du dossier, a témoigné que M. Manji lui avait dit qu’il ne savait pas à quel moment les formulaires avaient été produits.
+[30] Compte tenu de la preuve dans son ensemble, j’ai conclu que Nijaf n’avait produit les formulaires prescrits qu’après la date limite du 30 avril 2010. Le témoignage de M. Manji n’est pas appuyé par les autres éléments de preuve, et il n’est pas suffisamment détaillé et probant pour être crédible.
+[31] Pour arriver à cette conclusion, j’ai tenu compte des notes de journal de Mme Hermuses. Celle‑ci n’était pas présente pour être contre‑interrogée à l’égard de ce document. L’avocat de Nijaf n’a pas soulevé d’objection relativement à la preuve par ouï-dire, mais il est pertinent d’examiner la question de savoir si ce document devrait être admis et, dans l’affirmative, le poids qui devrait lui être accordé.
+[32] Me Kamath a avisé la Cour qu’il avait récemment pris en charge ce dossier pour le compte de la Couronne, et que, selon ce qu’il avait compris, Mme Hermuses ne travaillait plus à l’ARC et ne pouvait pas témoigner pour cause de maladie.
+[33] Le principe applicable en ce qui concerne l’admission d’une preuve par ouï‑dire dans des appels interjetés sous le régime de la procédure informelle a été récemment résumé dans l’arrêt Madison c Canada, 2012 CAF 80. La question est de savoir si les notes étaient « suffisamment fiables et probantes pour justifier leur admission, compte tenu de la nécessité de favoriser une audience juste et expéditive » (Madison, au paragraphe 14).
+[34] À mon avis, les parties pertinentes des notes de journal présentent l’apparence de fiabilité. Les notes sont détaillées, et n’ont pas été faites dans le contexte d’une vérification. En outre, les notes de journal sont corroborées par les renseignements figurant sur la télécopie des pièces produites sous les cotes R‑1 et R‑2. Les notes devraient être admises et un poids important devrait leur être accordé.
+[35] Compte tenu de la preuve dans son ensemble, je conclus qu’aucun des formulaires prescrits pertinents n’a été produit auprès de l’ARC avant l’expiration du délai du 30 avril 2010.
+[36] Me Douvelos soutient également que le principe de la forclusion devrait être appliqué, parce que M. Manji a suivi les observations de l’ARC. La difficulté qui se pose à l’égard de cet argument est que la preuve dans son ensemble n’appuie pas la position selon laquelle M. Manji avait suivi les observations de l’ARC.
+[37] La conclusion ci-dessus est suffisante pour statuer sur les observations présentées pour le compte de Nijaf.
+[38] À l’audience, j’ai demandé aux deux avocats de préciser si la déclaration de revenus pour 2008 qui avait été produite le 31 mars 2009 pouvait être considérée comme une demande de remboursement pour l’application du paragraphe 256.2(3) de la LTA. Me Kamath a fait valoir que la demande devait être présentée au moyen des formulaires prescrits, comme l’exige le paragraphe 262(1) de la LTA. Me Douvelos n’a pas contesté ce point de vue.
+[39] Compte tenu d’un examen de la jurisprudence pertinente, je conclus que, pour ce qui est de la demande de remboursement en vertu du paragraphe 256.2(3) de la LTA, il n’est pas suffisant d’inscrire le montant demandé sur une ligne de la déclaration de revenus. Il est nécessaire que le ministre dispose de renseignements suffisants pour examiner adéquatement la demande de remboursement, lesquels renseignements sont fournis au moyen des formulaires 524 et 525 (Systematix Technology Consultants Inc c Canada, 2007 CAF 226).
+[40] Enfin, je voudrais faire observer qu’aucune des parties n’a mentionné l’application éventuelle du paragraphe 296(2.1) de la LTA. Cette disposition exige que le ministre applique certains montants de remboursement à la réduction de la taxe nette. J’ai conclu qu’il n’était pas nécessaire que j’examine la disposition en question, parce que la cotisation concernant la taxe nette établie le 1er septembre 2009 ne fait pas l’objet du présent appel. (Voir Peach Hill Management Ltd v The Queen, [1999] GSTC 11 (CCI), conf. par [2000] GSTC 45 (CAF).)
+[41] Par conséquent, l’appel est rejeté. Chaque partie doit assumer ses propres frais.
+Signé à Toronto (Ontario), ce 29e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 10e jour de septembre 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 241
+No DU DOSSIER DE LA COUR : 2012-3473(GST)I
+INTITULÉ : NIJAF ENTERPRISES INC. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 17 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 29 juillet 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me George Douvelos
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : George Douvelos
+Cabinet : Wiebe Douvelos Wittmann LLP
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

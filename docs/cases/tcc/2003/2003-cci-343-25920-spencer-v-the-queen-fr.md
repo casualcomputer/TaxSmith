@@ -1,0 +1,179 @@
+---
+title: "Spencer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25920/index.do"
+last_modified: "2003-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 343"
+citation2: ""
+neutral_citation: "2003 CCI 343"
+decision_date: "2003-06-26"
+language: "fr"
+item_id: "25920"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3688
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:02:51.733000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "51c6abee999706d7e1a3b6a23aabc0a9139a25e2938ec4a90d5366e83f7dbad3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Spencer v. The Queen
+
+- Citation: 2003 CCI 343
+- Decision date: 2003-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3688, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spencer v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-26
+Référence neutre
+2003 CCI 343
+Numéro de dossier
+1999-4257(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier: 1999-4257(IT)I
+ENTRE :
+LINDA SPENCER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Robert J. Spencer (2001-891(IT)I) le 5 février 2003 à London (Ontario).
+Devant : L'honorable juge Terrence O'Connor
+Comparutions :
+Représentant de l'appelante :
+Bill Fehr
+Avocat de l'intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1993, 1994 et 1995 sont accueillis, sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les pertes subies par la société de personnes des deux appelants sont de 20 049 $ pour 1993, dont 4 877 $ au titre des frais juridiques, de 25 744 $ pour 1994 et de 20 395 $ pour 1995, et ces pertes pour les trois années en question doivent être réparties dans la proportion de 75 p. 100 pour Robert J. Spencer et de 25 p. 100 pour Linda Spencer, le tout conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de juin 2003.
+« T. O'Connor »
+J.T.C.C.
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Erich Klein, réviseur
+Dossier: 2001-891(IT)I
+ENTRE :
+ROBERT J. SPENCER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Linda Spencer (1999-4257(IT)I) le 5 février 2003 à London (Ontario).
+Devant : L'honorable juge Terrence O'Connor
+Comparutions :
+Représentant de l'appelant :
+Bill Fehr
+Avocat de l'intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1993, 1994 et 1995 sont accueillis, sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les pertes nettes totales subies par la société de personnes des deux appelants sont de 20 049 $ pour 1993, dont 4 877 $ au titre des frais juridiques, de 25 744 $ pour 1994 et de 20 395 $ pour 1995, et ces pertes pour les trois années en question doivent être réparties dans la proportion de 75 p. 100 pour Robert J. Spencer et de 25 p. 100 pour Linda Spencer, le tout conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de juin 2003.
+« T. O'Connor »
+J.T.C.C.
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Erich Klein, réviseur
+Référence : 2003CCI343
+Date : 20030626
+Dossier : 1999-4257(IT)I
+ENTRE:
+LINDA SPENCER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier : 2001-891(IT)I
+ROBERT J. SPENCER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor, C.C.I.
+[1] En 1988, les appelants ont commencé à exploiter, à titre d'associés, une entreprise de broderie. Étant mari et femme, les associés avaient entre eux un lien de dépendance. Au début, la part de chaque associé était établie à 50 p. 100 et cette situation a continué au cours des années 1988, 1989 et 1990. Cette proportion a changé pour devenir 85 contre 15 en 1991 et 90 contre 10 en 1992, dans chaque cas au profit de Robert. La proportion de 90 contre 10 a été maintenue au cours des années 1993, 1994 et 1995.
+[2] La société de personnes a subi des pertes en 1993, en 1994 et en 1995. Les parties ont convenu que les pertes nettes totales, à l'exclusion de certains montants d'intérêt supplémentaire, dont il sera traité plus loin, s'élevaient à 20 049 $ en 1993, à 25 744 $ en 1994 et à 20 395 $ en 1995. La somme de 20 049 $ pour 1993 ne se dégage pas des actes de procédure ni de la preuve. Elle est expliquée dans une lettre que le ministère de la Justice a adressée à notre cour et dont une copie a été envoyée au représentant des appelants. Elle est rédigée en partie comme suit :
+[TRADUCTION]
+[...]
+a) la déduction de 4 877,52 $ de frais juridiques devrait être admise;
+b) cette déduction de frais juridiques devrait entrer dans le calcul de la perte subie dans l'année d'imposition 1993 par la société de personnes exerçant ses activités sous le nom de Personal Designs; par conséquent, la perte subie par la société au cours de l'année d'imposition 1993 s'élèverait à 20 049,52; [...]
+[3] Le ministre du Revenu national (le « ministre » ) soutient que la répartition dans la proportion de 85 contre 15 puis de 90 contre 10 n'est pas raisonnable et que ce qui est raisonnable, compte tenu de l'apport de chacun des associés, est un partage égal. Le ministre renvoie aux paragraphes 103(1) et 103(1.1) de la Loi de l'impôt sur le revenu (la « Loi » ), rédigés comme suit :
+103: Entente au sujet du partage des revenus, etc. visant à réduire l'impôt ou en différer le paiement.
+(1) Lorsque les associés d'une société de personnes sont convenus de partager en proportions déterminées tout revenu ou perte de la société de personnes provenant d'une source donnée ou de sources situées dans un endroit déterminé ou tout autre montant qui se rapporte à une activité quelconque de la société de personnes et qui doit entrer en ligne de compte dans le calcul du revenu ou du revenu imposable de tout associé de cette société de personnes et lorsqu'il est raisonnable de considérer que cette convention a pour objet principal de réduire les impôts ou de différer le paiement des impôts qui auraient pu être ou devenir payables par ailleurs en vertu de la présente loi, la part du revenu ou de la perte, selon le cas, ou de l'autre montant, revenant à chaque associé de la société de personnes est le montant qui est raisonnable, compte tenu des circonstances, y compris les proportions dans lesquelles les associés sont convenus de partager les profits et les pertes de la société de personnes provenant d'autres sources ou de sources situées à d'autres endroits.
+(1.1) Entente au sujet des revenus, etc. en proportions déraisonnables. Lorsque plusieurs associés d'une société de personnes qui ont, entre eux, un lien de dépendance conviennent de partager tout revenu ou toute perte de la société de personnes, ou tout autre montant qui se rapporte à une activité quelconque de la société de personnes, et qui doit entrer en ligne de compte dans le calcul du revenu ou du revenu imposable de ces associés et que la part du revenu, de la perte ou de cet autre montant revenant à l'un de ces associés n'est pas raisonnable dans les circonstances, compte tenu du capital qu'il a investi dans la société de personnes ou du travail qu'il a accompli pour elle ou de tout autre facteur pertinent, cette part est réputée, indépendamment de toute convention, être le montant qui est raisonnable dans les circonstances.
+[4] La principale question litigieuse dans les présents appels est donc celle de la répartition des pertes de la société de personnes.
+[5] Il y a lieu de noter ce qui suit relativement au partage entre les associés.
+1. Linda n'a eu aucun revenu en 1993, en 1994 et en 1995 (elle n'a eu que certaines pertes) alors que Robert a eu les revenus d'emploi suivants : 51 135 $ en 1993, 55 610 $ en 1994 et 91 496 $ en 1995.
+2. Parce qu'il a déduit 90 p. 100 des pertes de la société de personnes, Robert a eu droit à des remboursements d'impôt de 15 029 $ en 1993, de 17 471 $ en 1994 et de 28 376 $ en 1995. Pris isolément, ces faits ne signifient pas que les appelants se livraient à une planification fiscale ayant pour but d'attribuer à Robert une aussi grande partie des pertes que possible, mais ce sont des faits qu'il faut considérer dans l'ensemble des circonstances lorsqu'il s'agit de déterminer ce qui constitue une répartition raisonnable.
+3. Robert avait un emploi à temps plein chez Casco Inc., où il travaillait parfois 36 heures par semaine, parfois davantage et, en 1995, il a fait 1 000 heures supplémentaires. Le temps qu'il a pu consacrer à la société de personnes s'est donc trouvé réduit.
+4. Linda est devenue une adroite brodeuse et, même si le temps qu'elle pouvait consacrer aux activités de la société de personnes était limité du fait qu'elle devait s'occuper d'un neveu atteint du trouble de déficit de l'attention, elle parvenait tout de même à y accorder un certain temps.
+5. Seule Linda figure sur la liste des créanciers établie par Deloitte & Touche (pièce R-11) à l'égard de l'un des débiteurs faillis de la société de personnes, soit Vortex Apparel.
+6. D'autres factures (les pièces R-12 et R-13) et des documents relatifs à des prêts (pièce R-14) ont été adressés à Linda.
+7. Linda travaillait beaucoup dans les affaires de la société reliées à l'impôt sur le revenu et à la comptabilité. Elle recevait aussi quelques commandes de clients et faisait des commandes de stock.
+8. Bien que Robert ait financé l'entreprise en fournissant des fonds s'élevant au total à environ 200 000 $, Linda s'est portée garante de plusieurs prêts consentis à la société de personnes.
+[6] Étant donné ce qui précède, il est relativement clair que la participation de Linda à la société de personnes a largement dépassé 10 p. 100. Les différentes pièces, particulièrement les pièces R-12 à R-14, et la preuve montrent que Linda prenait une part plus active dans l'entreprise que ne le soutiennent les appelants.
+[7] Il est exact que la majeure partie, sinon la totalité, du financement de l'entreprise, soit environ 200 000 $, a été fourni par Robert et qu'il a pris une plus grande part dans la gestion de l'entreprise que Linda. Cependant, il ne faut pas oublier que l'entreprise a commencé à être rentable en 1996 et qu'à partir de cette année-là elle a été exploitée comme une entreprise individuelle de Linda. Il est vrai que Linda, au cours des années en question, ne pouvait se consacrer autant aux activités de l'entreprise, mais elle a sans contredit contribué à son exploitation, et le fait que des bénéfices ont été réalisés en 1996 et au cours des années subséquentes, lorsque Linda dirigeait l'entreprise seule, fait penser que sa contribution a dû être supérieure à 10 p. 100 en 1993, en 1994 et en 1995.
+[8] Tout compte fait, je conclus donc que Linda a contribué considérablement plus que 10 p. 100 à l'exploitation de l'entreprise au cours des années en question, et je suis en conséquence d'avis que la répartition raisonnable pour les années 1993, 1994 et 1995 est 25 p. 100 pour Linda et 75 p. 100 pour Robert.
+[9] En parvenant à cette conclusion, j'ai été influencé par la décision de notre cour dans les affaires Leung c. Canada, [1997] A.C.I. no 792, et Zalesky c. Canada, [2000] A.C.I. no 457. Dans la décision Leung, la Cour, en ce qui concerne la question de la répartition raisonnable des parts, a souligné qu'il appartient au contribuable de prouver que la nouvelle cotisation est erronée, et dans la décision Zalesky, la répartition raisonnable entre le mari et la femme, dans des circonstances qui ne sont pas sans rappeler celles dont il est question dans les présents appels, a été jugée être 75 p. 100 et 25 p. 100 respectivement et non 100 p. 100 pour le mari comme on le prétendait.
+[10] Une autre question litigieuse dans les présents appels tient à ce que les appelants, bien qu'ils ne les aient pas indiquées dans leurs déclarations de revenus respectives, cherchent à ajouter les sommes suivantes aux intérêts déjà déduits, soit 9 074 $ pour 1993, somme qui, ajoutée aux intérêts de 12 226 $ déduits dans la déclaration de 1993, porterait le total à 21 300 $, 8 043 $ pour 1994, somme qui, ajoutée aux intérêts de 13 900 $ déduits dans la déclaration de 1994, porterait le total à 21 943 $, et 13 927 $ pour 1995, somme qui, ajoutée aux intérêts de 7 200 $ déduits dans la déclaration de 1995, porterait le total à 21 127 $.
+[11] Quand se faisait la vérification de la société de personnes, soit avant la décision de la Cour suprême du Canada dans l'affaire Stewart c. Sa Majesté la Reine, [2002] A.C.S. no46 ( « Stewart » ), il était possible que le ministre refuse la déduction de la totalité des pertes des appelants au motif qu'il n'y avait aucune attente raisonnable de profit. Il se peut que ce soit là la raison pour laquelle les appelants n'ont déduit que les montants d'intérêt réduits dans leurs déclarations pour les trois années en question. Les appelants veulent augmenter leurs pertes en ajoutant les montants d'intérêt supplémentaires. L'avocat de l'intimée fait remarquer que les appelants connaissaient les montants globaux des intérêts, que c'est délibérément qu'ils ne les ont pas déduits, que la nouvelle cotisation était fondée sur les montants d'intérêts déduits dans les déclarations et que les appelants n'ont mentionné les montants additionnels qu'en 2001, bien que la vérification ait été terminée en 1996 et que Revenu Canada, dans une lettre en date du 23 juillet 1997, ait exigé que les appelants, sous peine de déclaration sommaire de culpabilité et d'amendes, déposent la documentation relative aux années d'imposition 1993, 1994 et 1995 (pièce R-4), lettre à laquelle les appelants n'ont pas répondu. La lettre susmentionnée a été suivie d'une autre, en date du 17 octobre 1997 (pièce R-5), aussi restée sans réponse.
+[12] Dans sa plaidoirie, l'avocat de l'intimée a fait valoir en partie ce qui suit :
+[TRADUCTION]
+Me AITKEN : Monsieur le juge, la position de la Couronne à ce sujet se résume simplement au fait que des déclarations ont été produites par le contribuable, que Revenu Canada s'est fié à ces déclarations à son détriment, et que la Cour de l'impôt, la Couronne, doit maintenant faire face à de nouveaux éléments de preuve une dizaine d'années après le fait.
+Comme nous en avons discuté au cours du contre-interrogatoire, ces montants étaient déterminés, Monsieur le juge. Il ne s'agit pas de frais d'intérêt provenant d'une autre source ou d'un autre créancier qui était inconnu. Il s'agit de créanciers existants. Le contribuable a choisi de déduire certains montants au titre de ces frais, qui n'étaient pas les pleins montants.
+Les déclarations ont été produites et certifiées. Si je ne me trompe pas, la preuve a établi que M. Fehr conseillait en fait les contribuables avant l'année d'imposition 1993. Donc, les contribuables avaient l'avantage des services d'un comptable.
+Dans ces déclarations, des montants ont été déduits à l'égard, par exemple, du prêt de la Banque de Montréal, d'un prêt hypothécaire consenti par la Banque de Nouvelle-Écosse et du prêt CLE. Ces trois prêts semblent être ceux sur lesquels nous nous concentrons.
+[...]
+Les renseignements concernant ces prêts étaient faciles à obtenir et en fait, Monsieur le juge, comme nous l'avons établi, les montants étaient connus. [...]
+Nous n'avons vu aucune explication de la différence. On ne nous a pas expliqué d'où viennent ces montants, à quoi ils sont imputables. On n'a fourni aucun élément de preuve établissant qu'ils ont même été payés.
+Ce qui a été présenté, c'est - devant vous - c'est des allégations non prouvées concernant des sommes qui auraient été versées et qui ont été déduites, sans preuve que les dépenses ont effectivement été engagées et sans preuve quant à leur objet.
+Malgré la disponibilité de tous ces renseignements, les parties ont attendu 2001 pour communiquer des renseignements - au plus tôt 2001 - à l'avocat du ministère de la Justice. Ceci étant dit, le 23 juillet 1997, on avait envoyé une demande de production de livres et de registres et une lettre de suivi énonçant des propositions de rajustement a été envoyée le 2 octobre 1997.
+À mon sens, Monsieur le juge, ç'aurait été là les signaux d'alarme. Ç'aurait été le temps de fouiller dans les dossiers pour voir si ces renseignements se trouvent dans le cartable de votre enfant, d'aller voir au sous-sol si quelque chose vous a échappé. Particulièrement s'il s'agit de 9 000 $ pour une année, 8 000 $ pour une seconde année et 14 000 $ pour une autre année. Ce sont là des sommes considérables, Monsieur le juge.
+Et en raison de tout ce qui précède, je soutiens qu'il s'agit d'un cas clair où il y a lieu d'appliquer l'estoppel by representation de façon à exclure ces éléments de preuve.
+[...]
+Le point relatif à l'attente raisonnable de profit a été concédé au stade de l'appel, en ce sens qu'on a reconnu l'existence d'une entreprise. Cela a été concédé. S'il y avait eu 9 000 $, 8 000 $ et 14 000 $ de plus en frais d'intérêt, il se peut que cette décision de Revenu Canada aurait été différente, mise à part, évidemment, la possibilité de la réussite aujourd'hui de l'argument relatif à la réouverture de la question, à la lumière de l'arrêt Stewart. Toutefois, ceci dit, la position aurait été différente.
+À mon sens, l'avocat de l'intimée a raison et les appelants ne peuvent, en raison de l'estoppel, demander la déduction des montants additionnels d'intérêt à l'égard de chaque année en cause. Si l'on considère la chose d'un autre point de vue, la Cour n'est pas valablement saisie de la question des montants d'intérêt additionnels.
+[13] Par conséquent, les appels sont accueillis dans la mesure où le prévoient les présents motifs et conformément à ceux-ci. Il n'y aura pas d'adjudication de dépens.
+Signé à Ottawa, Canada, ce 26e jour de juin 2003.
+« T. O'Connor »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Erich Klein, réviseur

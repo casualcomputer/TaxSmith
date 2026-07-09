@@ -1,0 +1,460 @@
+Title: Colitto c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405303/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-88-405303-colitto-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-04-26
+
+# Colitto c. La Reine
+
+- Citation: 2019 CCI 88
+- Decision date: 2019-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4394, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colitto c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-26
+Référence neutre
+2019 CCI 88
+Numéro de dossier
+2016-3167(IT)G, 2016-3168(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2016-3167(IT)G
+2016-3168(IT)G
+ENTRE :
+CAROLINE COLITTO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 18 mai 2017, à Ottawa (Ontario)
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Avocats de l’appelante :
+Me Kristen Duerhammer
+Me Adam Gotfried
+Avocate de l’intimée :
+Me Amy Kendell
+JUGEMENT
+Les appels interjetés des cotisations datées du 13 janvier 2016 et établies en application de l’article 160 de la Loi de l’impôt sur le revenu sont accueillis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2019.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 26e jour de février 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 88
+Date : 20190426
+Dossiers : 2016-3167(IT)G
+2016-3168(IT)G
+ENTRE :
+CAROLINE COLITTO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Visser
+INTRODUCTION
+[1] Dans des cas particuliers, les articles 160 et 227.1 de la Loi de l’impôt sur le revenu [1] (la « Loi ») autorisent le ministre du Revenu national (le « ministre ») à recouvrer auprès d’une autre personne les montants qu’un contribuable est tenu de payer aux termes de la Loi. Même si elles visent à protéger le recouvrement de l’impôt par le ministre, ces dispositions anti-évitement ont été qualifiées de dures et draconiennes dans certains cas. Il est question par les présents appels de l’application en cascade de ces deux dispositions relativement au manquement d’une société à verser les retenues à la source pour l’année d’imposition 2008 et au transfert d’une participation dans un bien immobilier effectué par un administrateur de la société à son épouse en 2008, transfert pour lequel le ministre n’a réussi à établir qu’en 2011 la responsabilité de l’administrateur au sens du paragraphe 227.1(2) de la Loi.
+[2] En l’espèce, le ministre a établi les cotisations de l’appelante Caroline Colitto aux termes de l’article 160 de la Loi par les avis du 13 janvier 2016 portant les numéros 3587483 et 3492852 (les « cotisations »), la valeur de ces cotisations étant de 187 498 $ et de 41 248 $. Ces cotisations concernent le transfert d’une participation à 50 % dans deux propriétés à Mme Colitto par son époux Domenic Colitto le 2 mai 2008 en échange d’une contrepartie symbolique (collectivement, les « transferts »). L’obligation fiscale de M. Colitto, pour sa part, concerne le manquement de la société Core Precision Technologies Ltd. (« Precision ») à verser au ministre des retenues à la source en 2008. À cette époque, M. Colitto était administrateur de Precision. Après avoir signifié des avis d’opposition le 12 avril 2016 à l’égard des cotisations, Mme Colitto a interjeté appel des cotisations auprès de notre Cour conformément à l’alinéa 169(1)b) de la Loi (les « appels »).
+LES QUESTIONS EN LITIGE
+[3] La seule question en litige en l'espèce est de savoir si l’appelante est tenue de payer les sommes de 187 498 $ et de 41 248 $ aux termes de l’article 160 de la Loi en raison du transfert d’une participation à 50 % dans deux biens immobiliers que son époux a effectué pour elle le 2 mai 2008. À cet égard, la question découle de l’interaction des articles 160 et 227.1 de la Loi et de la question de savoir si Mme Colitto est solidairement responsable avec M. Colitto du manquement de Precision à payer au ministre les retenues à la source pour l’année d’imposition 2008 aux termes de l’article 227.1 et de l’alinéa 160(1)e) de la Loi. Plus précisément, la question se rapporte au moment où, aux termes de l’article 227.1 de la Loi, M. Colitto peut être tenu responsable du manquement de Precision à verser les retenues à la source pour l’année 2018 et au recoupement de ce moment avec la responsabilité de Mme Colitto pour ce qui est des transferts de biens que M. Colitto a effectués à Mme Colitto aux termes de l’article 160 de la Loi le 2 mai 2008.
+[4] Pour les motifs ci-dessous, je suis d’avis que le responsabilité fiscale de Mme Colitto ne saurait être retenue aux termes de l’article 160 de la Loi, vu les circonstances en l’espèce, et que par conséquent ses appels devraient être accueillis et que les cotisations devraient être annulées.
+EXPOSÉ DES FAITS
+[5] Les faits en l’espèce sont constants. Sur ce point, les parties ont déposé un exposé conjoint des faits (« l’exposé »), dont le texte est reproduit entièrement à l’annexe A. Cet exposé comprend trois annexes dans lesquelles se trouvent le texte des deux cotisations [2] frappées d’appel et l’avis de cotisation du ministre daté du 28 mars 2011 (la « cotisation fondée sur la responsabilité de l’administrateur ») au montant de 733 812,98 $ délivré à M. Colitto conformément à l’article 227.1 de la Loi [3] . Les parties n’ont cité personne à témoigner et n’ont présenté aucun autre élément de preuve dans le cadre des présents appels.
+[6] Je résume ici les faits pertinents quant aux présents appels en portant une attention particulière aux dates importantes en relation avec leur issue. Le 2 mai 2008, M. Domenic Colitto a transféré une participation de 50 % dans deux biens immobiliers (les « biens immobiliers ») à son épouse, Mme Caroline Colitto, en contrepartie de 2,00 $ pour chaque participation à un bien, soit 4,00 $ en tout. La juste valeur marchande de l’avantage ainsi reçu par Mme Colitto s’élève à 41 248 $ pour la propriété du 30, Aida Court, Bolton (Ontario) [la « propriété d’Aida Court »] et à 187 498 $ pour la propriété du 12e 15000 Concession Road, RR1, Bolton (Ontario) [la « propriété du 12e 15000 Concession Road »], soit 228 746 $ en tout.
+[7] Pendant toute la période pertinente, M. Colitto était administrateur et actionnaire de Precision, un fabricant de moules, d’outils d’injection, d’outils d’extrusion et d’extrusion de vinyle. La fin de l’exercice financier de Precision est le 31 juillet au sens de la Loi. De février 2008 à août 2008, Precision a omis de verser au ministre du Revenu national les retenues à la source, ce qui a amené le ministre à délivrer un avis de cotisation le 10 octobre 2008 à l’égard de Precision pour recouvrer les retenues à la source avec intérêts et pénalités, le tout s’élevant à 631 554,23 $. Le 6 août 2009, un certificat de dette fiscale de 794 286,98 $ à l’égard de Precision était enregistré en Cour fédérale aux termes de l’article 223 de la Loi. Le 23 novembre 2010, l’ordre d’exécuter le bref enregistré à la Cour fédérale est donné au shérif, le montant exigé étant de 776 380,32 $, vu les paiements effectués entre le 6 août 2009 et le 23 novembre 2010 qui ont réduit la dette. Il y a eu défaut d’exécution à l’égard de la dette fiscale de Precision le 4 janvier 2011.
+[8] Comme il a été signalé précédemment, le ministre a délivré un avis de cotisation à M. Colitto le 28 mars 2011 au montant de 733 812,98 $ et a établi les cotisations de Mme Colitto qui sont frappées d’appel en l’espèce le 13 janvier 2016, le total de ces cotisations s’élevant à 228 746 $. Ni M. Colitto ni Precision n’ont déposé d’avis en vue de s’opposer aux avis de cotisation que le ministre leur a délivrés.
+[9] En résumé, les dates et le calendrier qui suivent sont pertinents quant aux questions soulevées dans les présents appels :
+a) De février 2008 à août 2008 — Precision omet d’effectuer les retenues à la source;
+b) Le 2 mai 2008 — M. Colitto transfère une participation dans les biens immobiliers à Mme Colitto en échange d’une contrepartie symbolique;
+c) Le 10 octobre 2008 — une cotisation est établie à l’égard de Precision;
+d) Le 6 août 2009 — la dette de Precision est enregistrée en Cour fédérale;
+e) Le 23 novembre 2010 — ordre d’exécuter le bref;
+f) Le 4 janvier 2011 — défaut d’exécution à l’égard de la dette fiscale de Precision;
+g) Le 28 mars 2011 — une cotisation est établie à l’égard de M. Colitto aux termes de l’article 227.1;
+h) Le 13 janvier 2016 — une cotisation est établie pour Mme Colitto aux termes de l’article 160.
+[10] Comme dans la discussion qui suit, les deux dates qui sont les plus importantes à l’égard des questions soulevées dans les présents appels sont le 2 mai 2008, date à laquelle les transferts ont été effectués et le 4 janvier 2011, date du défaut d’exécution de la dette de Precision, exécution aux termes de l’alinéa 227.1(2)a) de la Loi.
+DROIT ET DISCUSSION
+Dispositions législatives applicables
+[11] Les présents appels soulèvent une question technique très précise au sujet de la portée des articles 160 et 227.1 de la Loi [4] et de l’interaction de ces articles. À cet égard, j’observe que les cotisations ont été délivrées par le ministre à Mme Colitto aux termes du paragraphe 160(1) de la Loi, dont le texte suit [5] :
+160 (1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toutes autres façons à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[Non souligné dans l’original]
+[12] Au sujet de l’application du paragraphe 160(1) de la Loi dans les présents appels, il est constant que M. Colitto a transféré les biens immobiliers à son épouse, Mme Colitto, le 2 mai 2008 en échange d’une contrepartie symbolique de 4,00 $ et que la juste valeur marchande de l’avantage ainsi reçu est de 228 746 $ en tout. Mme Colitto ne conteste donc pas le montant de l’avantage qui a été établi aux termes du sous-alinéa 160(1)e)(i) de la Loi. Elle ne conteste pas non plus le montant des cotisations que le ministre a établi à l’égard de M. Colitto et de Precision. Par conséquent, la seule question qui reste à trancher au sujet de l’application du paragraphe 160(1) de la Loi dans les présents appels concerne l’application du sous-alinéa 160(1)e)(ii) de la Loi aux faits en l’espèce. De façon plus précise, la question est de savoir si la responsabilité de M. Colitto aux termes de l’article 227.1 de la Loi est née « au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années [6] ».
+[13] L’article 227.1 de la Loi autorise le ministre à recouvrer les montants payables par une société, notamment des retenues à la source non versées, en établissant une cotisation à l’égard des administrateurs de la société dans des cas précis. Le texte de l’article 227.1 est reproduit à l’annexe B ci-jointe.
+[14] En l’espèce, il est constant que M. Colitto était administrateur de Precision pendant toute la période pertinente et qu’il n’a pas agi avec le degré de diligence nécessaire pour éviter que la société omette d’effectuer les retenues à la source. À ce titre, il n'est pas controversé entre les parties que le moyen de défense tiré de la diligence raisonnable ou du délai de prescription prévu par les paragraphes 227.1(3) et (4) de la Loi ne joue pas en l’espèce. Par contre, le paragraphe 227.1(1) et l’alinéa 227.1(2)a) sont pertinents et sont reproduits ci-dessous :
+227.1 (1) Responsabilité des administrateurs pour défaut d’effectuer les retenues — Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+(2) Restrictions relatives à la responsabilité — Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+[Non souligné dans l’original]
+Les thèses des parties
+[15] S'il n'y a nulle controverse entre les parties quant faits pertinents et une bonne partie du droit applicable, il y a controverse quant à l’interprétation de ces dispositions et l’application de celles-ci en l'espèce.
+[16] L’appelante soutient que les transferts des biens immobiliers à l’appelante par son époux ne doivent pas être assujettis à l’article 160 de la Loi, en l’espèce. En résumé, l’appelante soutient que :
+a) la Cour d’appel fédérale a consacré explicitement dans l’arrêt Canada c. Livingston [7] [Livingston] les exigences de l’application de l’article 160 dans un critère à quatre volets qui lie notre Cour;
+b) selon l’un des volets du critère de la jurisprudence Livingston, « l’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert » [8] ;
+c) la responsabilité visée par l’article 227.1 de la Loi ne joue que si les conditions énoncées au paragraphe 227.1(2) de la Loi ne sont pas réunies et cette responsabilité, lorsqu’elle est établie, n’est pas rétroactive;
+d) M. Colitto n’était pas responsable du non-versement des retenues à la source au sens de l’article 227.1 de la Loi avant le 4 janvier 2011, date à laquelle les conditions énoncées à l’alinéa 227.1(2)a) de la Loi ont été réunies; par conséquent, M. Colitto n’était pas responsable du non-versement des retenues au sens de l’article 227.1 de la Loi le 2 mai 2008, date à laquelle les transferts ont été effectués;
+e) comme M. Colitto n’était pas responsable du non-versement des retenues au sens de l’article 227.1 de la Loi au moment où les transferts ont eu lieu, soit le 2 mai 2008, les conditions consacrées par l’arrêt Livingston ne sont pas réunies en l'espèce et, par conséquent, Mme Colitto n’est pas responsable au sens de l’article 160 de la Loi.
+[17] De plus, pour ce qui est de l’application de l’article 227.1 de la Loi lorsqu’une cotisation est établie aux termes de l’article 160, l’appelante soutient que le paragraphe 160(1) et l’article 227.1 de la Loi ne prévoient d’aucune façon la rétroactivité de la responsabilité d’un administrateur au sens de l’article 227.1 de la Loi, lorsque que les conditions de l’alinéa 227.1(2)a) sont réunies, ramenant ainsi cette responsabilité au moment où la société en question avait omis d’effectuer les retenues à la source. L’appelante soutient en outre qu’il faut trancher toute ambiguïté émanant du texte législatif en faveur de l’appelante.
+[18] Même si elle reconnaît que l’arrêt Livingston lie notre Cour, l’intimée soutient néanmoins que les principes énoncés par la Cour d’appel fédérale dans l’arrêt Livingston doivent être examinés à la lumière des dispositions applicables et des faits pertinents en l’espèce. En résumé, l’intimée soutient ce qui suit :
+a) le volet du critère consacré par la Cour d’appel fédérale dans l’arrêt Livingston selon lequel « l’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert » [9] :
+(i) ne doit pas l’emporter sur les décisions rendues par notre Cour dans l’examen de l’application de l’article 160 de la Loi et l’évaluation de la responsabilité de l’administrateur en question;
+(ii) simplifie à l’extrême les exigences énoncées au sous-alinéa 160(1)e)(ii) de la Loi;
+(iii) doit être interprété à la lumière du texte du sous-alinéa 160(1)e)(ii) de la Loi qui dispose de la responsabilité de l’auteur du transfert prenant naissance « au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années »;
+b) une distinction peut être faite entre l’espèce et l’arrêt Livingston pour les raisons suivantes :
+(i) la Cour d’appel fédérale ne s'est pas penchée, à l'occasion de l'affaire Livingston sur l’application conjointe du paragraphe 160(1) et de l’article 227.1 de la Loi;
+(ii) la Cour d’appel fédérale n’était pas tenue de prendre en considération , à l'occasion de l'affaire Livingston la question du moment où la responsabilité de l’auteur du transfert prend naissance, puisque la seule question en litige dans cette affaire était de savoir s’il y avait eu transfert d’un bien au sens du paragraphe 160(1) de la Loi;
+c) lorsque les conditions énoncées au paragraphe 227.1(2) de la Loi sont réunies, la responsabilité d’un administrateur au sens de l’article 227.1 de la Loi s’applique rétroactivement à la date à laquelle la société contribuable a omis d’effectuer les retenues à la source;
+d) en l’espèce, lorsque les conditions énoncées au paragraphe 227.1(2) de la Loi ont été réunies, soit le 4 janvier 2011, la responsabilité de M. Colitto découlant du fait que Precision a omis d’effectuer les retenues à la source jouait rétroactivement aux moments où Precision a omis de verser les retenues à la source en 2008;
+e) la responsabilité de M. Colitto découlant du fait que Precision a omis d’effectuer les retenues à la source était par conséquent assujettie à au paragraphe 160(1) de la Loi à l’égard du transfert des biens immobiliers de 2008.
+Le critère relatif à l’application de l’article 160
+[19] S’exprimant au nom d’une Cour d’appel fédérale unanime, le juge Sexton a énoncé le critère d’application du paragraphe 160(1) de la loi dans les motifs de l’arrêt Livingston (le « critère Livingston »), dont voici le texte :
+[17] Étant donné la signification claire des termes du paragraphe 160(1), les critères dont dépend le déclenchement de son application se révèlent évidents :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert [10] .
+[Non souligné dans l’original]
+[20] Il est évident que la jurisprudence de la Cour d’appel fédérale lie généralement notre Cour, ce qui n'est pas controversé entre les parties [11] . À cet égard, j’observe que notre Cour s’est souvent conformée à l’enseignement de l’arrêt Livingston [12] . Il est tout aussi évident, et cela n'est pas controversé entre les parties, que la seule question en litige dans les présents appels concerne le moment de la naissance et le montant de la responsabilité de M. Colitto au sens du sous-alinéa 160(1)e)(ii) de la Loi, ce qui correspond grosso modo au premier volet du critère de la jurisprudence Livingston, c’est-à-dire à la question de savoir si l’auteur du transfert (M. Colitto) avait une dette fiscale aux termes de la Loi au moment du transfert. Il reste toutefois une question à trancher, celle de savoir si le volet du critère consacré par l’arrêt Livingston joue en l’espèce et, le cas échéant, l’interprétation qui doit en être tirée.
+[21] Vu la doctrine du précédent obligatoire, l’appelante soutient que le critère de la jurisprudence Livingston lie notre Cour et que, par conséquent, l’application du paragraphe 160(1) de la Loi aux transferts n’est possible que si M. Colitto, l’auteur du transfert, avait une dette fiscale au sens de la Loi au moment des transferts. Comme il a été observé précédemment, l’intimée, même si elle ne conteste pas l’incapacité de notre Cour à écarter la jurisprudence Livingston, ne souscrit pas à cette interprétation du premier volet du critère de la jurisprudence Livingston ni à l’application que l’appelante en fait dans les circonstances des présents appels pour les raisons suivantes :
+a) le critère a été formulé dans un contexte factuel dans lequel le moment de la responsabilité de l’auteur du transfert (volet no 1) n’était pas en cause;
+b) le critère doit être interprété à la lumière du texte du paragraphe 160(1) de la Loi.
+[22] Essentiellement, l’intimée soutient que le premier volet du critère consacré par la Cour d’appel fédérale dans l’arrêt Livingston constituait une observation incidente qui simplifie à l’extrême le critère consacré par le législateur dans le texte de loi et que, par conséquent, il y a lieu de faire une distinction entre les faits de l'affaire Livingston et ceux de l'espèce. Je retiens la thèse de l’intimée pour les motifs suivants.
+[23] Premièrement, il est possible d’opérer une distinction entre les faits de l’espèce et ceux de l'affaire Livingston. La principale question en litige dans l'affaire Livingston était de savoir s’il y avait eu « transfert » au sens du paragraphe 160(1) de la Loi. La Cour d’appel fédérale n’a pas examiné la possibilité de cotisations en cascade par l’application combinée de l’article 160 et de l’article 227.1 de la Loi, faisant en sorte que la date à laquelle la responsabilité de l’auteur du transfert prend naissance, premier volet du critère de la jurisprudence Livingston, soit une question litigieuse.
+[24] Deuxièmement, même si la Cour d’appel fédérale a résumé dans l’arrêt Livingston le critère du paragraphe 160(1) de la Loi, dans lequel le premier volet (qui porte sur la naissance de la responsabilité de l’auteur du transfert) n’était pas en cause dans cette affaire, le résumé que la Cour d’appel fédérale présente du premier volet est à mon avis une observation incidente qui n’était pas censée être une codification de toutes les exigences prescrites par cette disposition. À cet égard, j’observe que dès que le paragraphe 160(1) de la Loi joue en raison du transfert d’un bien à un bénéficiaire défini par l’un des alinéas 160(1)a), b) ou c) de la Loi, la responsabilité du bénéficiaire peut être engagée, comme le précisent les alinéas 160(1)d) ou e) de la Loi. Le premier volet énoncé dans le critère de la jurisprudence Livingston ne fait pas de distinction entre les deux dispositions portant sur la responsabilité et ne prescrit aucun critère de répartition de la responsabilité entre bénéficiaire et auteur du transfert dans chacune de ces dispositions. En fait, ce premier volet ne fait qu’un simple renvoi à une partie de l’alinéa 160(1)e) de la Loi pour laquelle il n’y avait aucune controverse dans l’affaire Livingston.
+[25] Une comparaison du texte du paragraphe 160(1) de la Loi avec celui du critère de la jurisprudence Livingston vient encore appuyer mon opinion. Par exemple, le premier volet du critère de la jurisprudence Livingston prévoit que « l’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert » [non souligné dans l’original]. La disposition pertinente correspondant au premier volet du critère de la jurisprudence Livingston, quant à elle, est le sous-alinéa 160(1)e)(ii) de la Loi, lequel dispose :
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+[Non souligné dans l’original]
+[26] Le sous-alinéa 160(1)e)(ii) de la Loi a une formulation plus large que le premier volet du critère de la jurisprudence Livingston selon deux points de vue importants. Premièrement, la jurisprudence Livingston porte sur l'obligation « de payer des impôts en vertu de la Loi », alors que le sous-alinéa 160(1)e)(ii) de la Loi parle du « total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi ». Ainsi, le sous-alinéa 160(1)e)(ii) de la Loi fait état de tous les montants payables aux termes de la loi et non pas seulement des « impôts ». Deuxièmement, ce volet du critère de la jurisprudence Livingston dispose que la responsabilité fiscale de l’auteur du transfert aux termes de la Loi est déterminée « au moment de ce transfert », alors que le sous-alinéa 160(1)e)(ii) de la Loi prescrit que la responsabilité de l’auteur du transfert est déterminée « au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années ». Le sous-alinéa 160(1)e)(ii) de la Loi tient donc compte de tous les montants payable aux termes de la Loi au cours de l’année d’imposition dans laquelle les biens ont été transférés et non pas seulement des montants payables au moment même du transfert. Par conséquent, aux fins du sous-alinéa 160(1)e)(ii) de la Loi, la responsabilité de l’auteur du transfert peut être engagée à la suite du moment précis où le transfert a lieu, pourvu que ce soit « au cours de l’année d’imposition » dans laquelle le transfert a eu lieu (ou au cours d’une année d’imposition précédente).
+[27] Mon opinion à ce sujet est également soutenue par l’historique des modifications apportées au paragraphe 160(1) de la Loi, lequel a été l’objet d’une modification, 1980-81-82-83, ch. 140, art. 107, qui vise les transferts de biens ayant eu lieu après le 12 novembre 1981. Avant cette modification, il n’existait pas d’alinéa 160(1)e) de la Loi et les dispositions pertinentes du paragraphe 160(1) de la Loi prescrivaient ce qui suit :
+[...]
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement du moins élevé des deux montants suivants :
+(i) la somme qu’il incombait à l’auteur du transfert de payer en vertu de la Loi le jour du transfert;
+[traduction](ii) la partie de la somme qu’il incombait à l’auteur du transfert de payer correspondant à la valeur du bien ainsi transféré;
+[...]
+[Non souligné dans l’original.]
+[28] Voici un extrait des notes techniques de 1982 qui accompagnent l’amendement concernant les changements effectués :
+Les dispositions actuelles de l’alinéa 160(1)d), qui rendent le cédant et le cessionnaire conjointement et solidairement responsable du paiement d’une partie de l’impôt du cédant à la date du transfert, ont été modifiées au nouvel alinéa 160(1)e) afin d’étendre cette responsabilité aux sommes payables par le cédant en vertu de la loi pour l’année de transfert du bien.
+[Non souligné dans l’original]
+[29] L’interprétation que fait l’appelante du critère de la jurisprudence Livingston correspond mieux à la version antérieure de la loi. Je suis cependant d’avis que le législateur a clairement modifié le paragraphe 160(1) de la Loi de façon à inclure explicitement tous les montants payables aux termes de la Loi par l’auteur du transfert au cours de toute l’année d’imposition dans laquelle les biens ont été transférés.
+[30] Mon opinion est corroborée par la jurisprudence. Dans l’arrêt Raphael c. Canada [13] , le juge Sexton qui n’avait pas encore rendu de jugement dans l’affaire Livingston, a cité le critère à quatre volets dont s’était servi le juge de première instance dans le jugement Raphael (le « critère de la jurisprudence Raphael ») [14] :
+1) il doit y avoir eu un transfert de biens;
+2) il faut que l’auteur et le bénéficiaire du transfert aient un lien de dépendance;
+3) le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l’auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante);
+4) l’auteur du transfert doit payer un montant en vertu de la Loi au cours de l’année dans laquelle les biens ont été transférés ou d’une année antérieure [15] .
+[Non souligné dans l’original]
+[31] Les volets du critère de la jurisprudence Raphael n’ont fait l’objet d’aucune discussion et n’ont pas été écartés dans l’arrêt Livingston. J’observe également que le quatrième volet du critère de la jurisprudence Raphael se rapproche davantage du libellé du sous-alinéa 160(1)e)(ii) de la Loi que ne le fait le premier volet du critère de la jurisprudence Livingston.
+[32] En outre, après l’arrêt Livingston, le juge Boyle de notre Cour a cité et suivi le critère de la jurisprudence Raphael à l'occasion de l'affaire Gambino c. La Reine [16] . Il était d’avis que les quatre exigences du critère de la jurisprudence Livingston étaient en réalité les « quatre mêmes exigences [que celles du critère Raphael], bien que dans un ordre et en des termes différents » [17] . Le critère de la jurisprudence Raphael a également été invoqué et suivi par notre Cour dans un certain nombre de décisions rendues avant ou après l’arrêt Livingston [18] .
+[33] A l'occasion de l'affaire Kuchta c. La Reine [19] , le juge Graham de notre Cour a conclu que l'expression « au moment de celui-ci » utilisée dans le troisième volet du critère de la jurisprudence Livingston constituait une « observation incidente » en vue de déterminer si l’auteur du transfert et le bénéficiaire étaient bien époux, même si la Cour en a finalement conclu que la relation devait être déterminée au moment du transfert :
+L’intimée fait valoir que je ne devrais pas m’appuyer sur l’arrêt Livingston pour conclure que la relation entre l’auteur et le bénéficiaire du transfert doit être établie au moment du transfert. L’intimée affirme que l’expression « au moment de celui‑ci » utilisée dans la définition du troisième critère énoncé par la Cour d’appel fédérale dans l’arrêt Livingston ne figure pas dans le paragraphe 160(1). Puisque le moment auquel on devait établir la relation entre l’auteur et le bénéficiaire du transfert n’était pas une question en litige dans l’affaire Livingston, l’intimée soutient que l’inclusion de l’expression « au moment de celui‑ci » dans le troisième critère est une opinion incidente. Je suis d’accord sur le fait que l’inclusion de cette expression dans le troisième critère est une opinion incidente. Par conséquent, je n’ai pas considéré l’arrêt Livingston comme ayant force exécutoire au moment de conclure que la relation doit être établie au moment du transfert [20] .
+[Non souligné dans l’original]
+[34] Il est également possible de mettre en opposition la formulation de la jurisprudence Livingston avec celle d'une jurisprudence plus récente de la Cour d’appel fédérale. S’exprimant pour la majorité dans l’arrêt Heroux c. Canada [21] , le juge Webb qui résumait le critère applicable à l’article 160 de la Loi a fait l’observation suivante au paragraphe 8 :
+Essentiellement, l’article 160 de la Loi autorise le ministre du Revenu national à établir une cotisation à l’égard de quelqu’un (le bénéficiaire d’un transfert) pour la totalité ou une partie de la dette fiscale de quelqu’un d’autre (l’auteur du transfert) si :
+a) l’auteur du transfert est l’époux ou le conjoint de fait du bénéficiaire du transfert ou il existe un autre lien de dépendance entre eux;
+b) l’auteur transfère un bien au bénéficiaire moyennant une contrepartie dont la valeur est inférieure à la juste valeur marchande de ce bien;
+c) l’auteur du transfert doit une somme en vertu de la Loi pour l’année d’imposition au cours de laquelle le bien est transféré ou une année antérieure.
+[Non souligné dans l’original]
+[35] Bien que chacune des décisions examinées précédemment ait produit un résumé du critère de l’article 160, je suis d’avis que cette jurisprudence n’était pas censée consacrer une nouvelle interprétation, possiblement plus restrictive, du critère consacré par le législateur dans l’article 160 de la Loi. En conclusion, je suis d’avis qu’il faut donner une signification plus précise à l'expression « au moment de ce transfert » tirée du premier volet du critère de la jurisprudence Livingston en prenant compte de la formulation du paragraphe 160(1) de la Loi. La véritable question à trancher consiste donc à savoir si, à la lumière de la formulation du sous-alinéa 160(1)e)(ii) de la Loi, M. Colitto, auteur du transfert, était tenu de payer un montant aux termes de la Loi de l’impôt sur le revenu au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années. Dans ce cas, les transferts destinés à l’appelante seront visés par le paragraphe 160(1) de la Loi.
+Quel contribuable est visé par l’année d’imposition dont il est question au sous-alinéa 160(1)e)(ii)?
+[36] Il ne fait aucun doute que la responsabilité de M. Colitto au sens du paragraphe 227.1(1) de la Loi constitue un montant qu’il est tenu de payer en vertu de la Loi par l’application du sous-alinéa 160(1)e)(ii). Le montant total de la responsabilité au moment où la cotisation à l’égard de l’administrateur a été établie est de 733 812,98 $, soit le solde de la dette fiscale non recouvrée (avec intérêts et pénalités) que Precision était tenue de payer en raison du défaut d’effectuer les retenues à la source pour la période allant de février à août 2008.
+[37] La question importante qui appelle encore une réponse est celle du moment où cette responsabilité prend naissance. Pour déterminer si M. Colitto était tenu de payer un montant aux termes de la Loi « au cours de l’année d’imposition » dans laquelle les biens immobiliers ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années, nous devons examiner l’article 227.1 de la Loi. Pour ce faire, toutefois, la Cour doit d’abord déterminer l’année d’imposition à laquelle le sous-alinéa 160(1)e)(ii) fait référence vu les faits de l’espèce.
+[38] L’intimée a soutenu en première instance que l'expression « au cours de l’année d’imposition dans laquelle les biens ont été transférés » fait référence soit à la période de recouvrement, soit à l’année d’imposition de Precision se terminant le 31 juillet 2008, laquelle englobe la période de cotisation allant de février à août 2008. À mon avis, aucune de ces interprétations n’est saine.
+[39] Une « année d’imposition » ne peut correspondre à une « période de recouvrement » sans renvoi au contribuable dont il est question. Le paragraphe 249(1) de la Loi définit l’année d’imposition en fonction du type de contribuable, qu’il s’agisse de particuliers, de sociétés, de sociétés de personnes ou d’un autre type [22] . Il est possible de mettre en opposition cette définition avec celle des mots « année civile », qui ne renvoie à aucun contribuable en particulier et qui s’entend, selon l’alinéa 37(1)a) de la Loi d’interprétation, [23] de toute période de douze mois commençant le premier janvier.
+[40] Selon le libellé du sous-alinéa 160(1)e)(ii) de la Loi, « l’année d’imposition dans laquelle les biens ont été transférés » ne peut pas être une des années d’imposition de Precision parce que l’article 160 de la Loi envisage à la fois l’auteur du transfert et le bénéficiaire. Dans le cas de cotisations en cascade établies aux termes de l’article 160 de la Loi à l’égard de contribuables multiples, les auteurs de transfert et les bénéficiaires sont multiples. Or, il se trouve que la société Precision, dont la responsabilité fiscale est liée à celle de M. Colitto aux termes de l’article 227.1 de la Loi, n’est ni l’auteur du transfert ni le bénéficiaire d’un bien quelconque au sens de l’article 160 de la Loi.
+[41] Examinons de près la formulation du sous-alinéa 160(1)e)(ii) de la Loi :« le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement [...d’un] montant que l’auteur du transfert doit payer en vertu de la présente loi […] au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années ». À mon avis, il n’existe qu’une seule interprétation possible de cette « année d’imposition » : il s’agit de l’année d’imposition de l’auteur du transfert au cours de laquelle les biens ont été transférés. Dans le cadre du présent dossier, M. Colitto était l’auteur du transfert et l’année d’imposition au cours de laquelle les biens ont été transférés est l’année d’imposition 2008.
+[42] Compte tenu de ce qui précède, il s’agit maintenant de rechercher si la responsabilité de M. Colitto aux termes de l’article 227.1 de la Loi est un montant que celui-ci était tenu de payer aux termes de la Loi de l’impôt sur le revenu au cours de l’année d’imposition 2008 de M. Colitto lors de laquelle les biens ont été transférés. Pour trancher la question, nous devons envisager l’application de l’article 227.1 de la Loi aux faits de l'espèce et surtout déterminer le moment où la responsabilité de M. Colitto a pris naissance aux termes de l’article 227.1 de la Loi en tenant compte des circonstances des présents appels.
+Le critère pour l’application de l’article 227.1
+[43] Comme il a été observé précédemment, le paragraphe 227.1(1) de la Loi [24] impose une responsabilité solidaire aux administrateurs d’une société « au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer » certaines sommes exigées par la Loi et qu’elle a omis de faire. À mon avis, le paragraphe 227.1(1) ne précise pas le moment où cette responsabilité prend naissance, et c’est là le point essentiel de la question en litige dans les présents appels.
+[44] Les paragraphes 227.1(2), (3), (4) et (5) de la Loi énoncent un certain nombre de conditions ou de conditions préalables à la responsabilité prévue au paragraphe 227.1(1). À cet égard, le paragraphe 227.1(2) énonce une restriction essentielle qui doit être soulevée pour que prenne naissance la responsabilité prévue à l’article 227.1 de la Loi. Bien que les conditions et les défenses prévues par les paragraphes 227.1(3), (4) et (5) ne concernent pas directement la question en litige dans les présents appels, il demeure qu’elles sont pertinentes quant à l’interprétation des paragraphes 227.1(1) et (2) de la Loi en l'espèce.
+[45] Si le paragraphe 227.1(1) de la Loi est muet sur le moment où la responsabilité d’un administrateur prend naissance, le paragraphe 227.1(2), lui, dispose :
+(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+[Non souligné dans l’original]
+[46] En l’espèce, Precision est en défaut de paiement pour les retenues à la source de 2008. Cependant, il y a eu défaut en ce qui concerne l’exécution à l’égard de la dette de Precision par le ministre, exécution aux termes de l’alinéa 227.1(2)a) de la Loi, jusqu’au 4 janvier 2011. Ces faits sont constants. Ce qui fait controverse, cependant, c’est de savoir si la responsabilité de M. Colitto qui résulte de l’application de l’article 227.1 de la Loi a pris naissance dans l’année d’imposition 2008 ou 2011. Si la responsabilité de M. Colitto a pris naissance à l’année d’imposition 2011, il restera à déterminer si cette responsabilité joue néanmoins quant à l’année d’imposition 2008 de M. Colitto. Comme nous le verrons plus loin, je suis d’avis que la responsabilité de M. Colitto a pris naissance aux termes de l’article 227.1 de la Loi lors de l’année d’imposition 2011 et ne concernait pas l’année d’imposition 2008. Étant donné que la responsabilité de M. Colitto n’est engagée qu'aux termes du sous-alinéa 160(1)e)(ii) de la Loi, si la responsabilité de M. Colitto découlant de l’article 227.1 de la Loi est établie pour l’année d’imposition 2008, je suis d’avis que sa responsabilité n’est pas engagée aux termes de l’article 160 de la Loi relativement aux cotisations.
+[47] Les principes d’interprétation des lois qui jouent en l’espèce sont bien fixés et la Cour suprême du Canada en a fait un résumé dans l’arrêt Hypothèques Trustco Canada c. Canada [25] , au paragraphe 10, dont voici le texte :
+[10] Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[48] Le paragraphe 227.1(2) de la Loi dispose qu’un administrateur n’encourt la responsabilité prévue au paragraphe 227.1(1) de la Loi que si les conditions du paragraphe 227.1(2) sont réunies. À mon avis, le texte du paragraphe 227.1(2) est très clair et non équivoque et laisse fortement à penser que la responsabilité d’un administrateur relative au non-versement de retenues à la source et à d’autres montants prévus au paragraphe 227.1(1) de la Loi ne prend naissance que lorsque les conditions pertinentes énoncées au paragraphe 227.1(2) de la Loi sont réunies. En l’espèce, ces conditions prennent fin le 4 janvier 2011.
+[49] Dans l’arrêt Worrell c. Canada [26] , la Cour d’appel fédérale a retenu une telle interprétation. Dans cet arrêt, le ministre avait établi les cotisations à l’égard des trois administrateurs de la société pour défaut d’effectuer les retenues à la source exigées aux termes du paragraphe 227.1(1) de la Loi et celles pour défaut de versement de la TPS aux termes du paragraphe 323(1) de la Loi sur la taxe d’accise. Même si la question centrale était de savoir si les contribuables avaient agi avec le degré de diligence nécessaire pour prévenir le défaut des versements au sens du paragraphe 227.1(3) de la Loi, la Cour a formulé le principe général qui concerne la nature d’une cotisation relative à la responsabilité d’un administrateur établie aux termes du paragraphe 227.1(1) de la Loi. Voici ce principe :
+En cinquième lieu, les administrateurs n’encourent aucune responsabilité personnelle par application du paragraphe 227.1(1) et n’ont donc pas besoin d’invoquer le paragraphe 227.1(3) si à un moment donné, la dette de la compagnie envers Revenu Canada, y compris intérêts et pénalités pour retard de paiement, est acquittée. Il en est ainsi parce que le paragraphe 227.1(2) tempère le paragraphe 227.1(1) en prévoyant en effet qu’un administrateur n’est tenu de verser à Revenu Canada les sommes en souffrance qu’après que tous les efforts de recouvrement ont été épuisés [27] .
+[Non souligné dans l’original]
+[50] Sur la question des conditions du paragraphe 227.1(2) de la Loi, la Cour a également observé :
+Que les administrateurs aient fait preuve ou non de diligence raisonnable pour prévenir le défaut est à la fois un point de droit et un point de fait. Sur le plan juridique, la responsabilité d’un administrateur en cas de défaut de versement des retenues à la source et de la TPS ne se cristallise qu’une fois que les conditions prévues au paragraphe 227.1(2) auront été réunies. Qui plus est, si les sommes dues sont par la suite intégralement réglées, même tardivement, ces administrateurs ne seront pas tenus responsables du défaut par la compagnie de les verser en premier lieu [28] .
+[Non souligné dans l’original]
+[51] La Cour d’appel fédérale a également qualifié ces « restrictions » (ou conditions) de « conditions préalables » [29] et de « conditions énoncées dans la loi » [30] . Cette disposition de la loi « exonère l’administrateur de la responsabilité prévue » [31] , en évitant à l’administrateur d’être tenu responsable des dettes fiscales de la société lorsque la Couronne n’entreprend pas de démarches précises en temps utile pour recouvrer la dette sur les actifs de la société [32] . Dans le jugement Kern c. La Reine [33] , le juge Campbell Miller de notre Cour a observé de manière plus explicite que le paragraphe 323(2) de la LTA, disposition qui correspond au paragraphe 227.1(2) de la Loi de l’impôt sur le revenu, constitue essentiellement une « disposition temporelle » [34] :
+La responsabilité de l’administrateur ne prend naissance qu’après qu’une société a démontré qu’elle ne peut pas payer. Tant qu’il n’y a pas manquement, les administrateurs ne sont pas responsables, et, de toute évidence, ils ne peuvent faire l’objet d’aucune cotisation [35] […]
+[Non souligné dans l’original]
+[52] L’importance de remplir les conditions préalables énoncées au paragraphe 227.1(2) de la Loi et de produire à la cour, dans le cas du ministre, des éléments de preuve en ce sens a été très bien mis en évidence dans le jugement Walsh c. Canada [36] rendue par le juge Sheridan, qui suivait l’enseignement de l’arrêt Worrell, précité. Dans l’affaire Walsh, la lettre du shérif montrant le bref de saisie pour laquelle il y a eu défaut d’exécution a été exclue par la Cour, car elle ne faisait pas partie de la liste de documents dressée par l’intimée. Conséquemment, la Cour a conclu que le défaut de produire un élément pouvant prouver le défaut d’exécution du bref de saisie, une condition préalable prévue à l’alinéa 227.1(2)a) de la Loi, invalidait la cotisation établie par le ministre relative à la responsabilité solidaire de l’administrateur. En tirant cette conclusion, la Cour a invoqué le passage cité plus haut de l’arrêt Worrell [37] et ajouté au sujet de l’objet de ces conditions préalables ce qui suit :
+25 [...] Cette disposition [l’alinéa 227.1(2)a)] n’exige rien du contribuable; elle met l’accent sur les mesures que le ministre doit prendre pour que la responsabilité du contribuable soit engagée en vertu du paragraphe 227.1(1) et, par conséquent, pour que le ministre soit en mesure d’établir une cotisation. [...]
+[...]
+[27] L’objet de l’alinéa 227.1(2)a) est d’exiger que le ministre épuise ses recours contre la société contribuable en matière de recouvrement avant de lui permettre de se prévaloir du recours extraordinaire qu’est l’établissement d’une cotisation à l’égard d’un tiers, à savoir son administrateur, au titre des retenues à la source non versées de la société. Bien que le paragraphe 227(10) prévoie que le ministre « peut, en tout temps, établir une cotisation pour [...] un montant payable [...] en vertu [de l’article] 227.1 », ce pouvoir général d’établir une cotisation est néanmoins subordonné au respect des conditions énoncées à l’alinéa 227.1(2)a). [...]
+28 […] Vu l’absence de preuve du fait que le ministre a satisfait aux exigences de l’alinéa 227.1(2)a), l’administrateur ne peut être tenu responsable en application du paragraphe 227.1(1) et la cotisation sur laquelle la responsabilité est fondée ne peut être considérée valide [38] .
+[Non souligné dans l’original]
+[53] Pour tenir compte du contexte et de l’objet du paragraphe 227.1(2), il faut également tenir compte de tout l’article 227.1 et de la Loi dans son ensemble. L’économie générale de la loi repose sur des rapports juridiques institués par le droit des sociétés (droit privé) et par le droit commercial. Selon l’une des pierres angulaires du droit des sociétés, une société est une personne morale en soi, c’est-à-dire distincte de tous les intervenants de cette société, qu’ils soient administrateurs, dirigeants, actionnaires ou employés. Le paragraphe 227.1(1) de la Loi permet, en substance, au ministre de percer ce voile de la personnalité morale et de faire porter une certaine responsabilité aux administrateurs d’une société. À cet égard, le paragraphe 227.1(1) constitue une disposition de recouvrement fiscal qui pénalise en substance les administrateurs personnellement lorsque ceux-ci ne veillent pas à ce que la société dont ils sont administrateurs déduise à la source et verse les montants exigés au ministre. Le législateur n’avait toutefois pas l’intention d’imposer une responsabilité absolue au moyen du paragraphe 227.1(1) et c’est pourquoi il a prévu des conditions à ce pouvoir au moyen des paragraphes 227.1(2) à 227.1(5). En effet, le paragraphe 227.1(2) de la Loi dispose que l’administrateur d’une société « n’encourt la responsabilité prévue que dans l’un ou l’autre des cas suivants », c’est-à-dire jusqu’à ce que le ministre épuise tous les recours contre la société. Le paragraphe 227.1(3) de la Loi dispose que l’administrateur d’une société « n’est pas responsable » lorsqu’il a agi avec le degré nécessaire de diligence. Le paragraphe 227.1(4) de la Loi empêche le ministre d’intenter une action ou d’engager des procédures à l’encontre d’une personne qui a cessé d’être administrateur d’une société depuis plus de deux ans. Le paragraphe 227.1(5) de la Loi prévoit que, dans le cas du défaut d’exécution visé par l’alinéa 227.1(2)a) à l’égard d’un administrateur responsable, « la somme qui peut être recouvrée [de cet] administrateur est celle qui demeure impayée [par la société] après l’exécution ». Conséquemment, l’administrateur d’une société n’est responsable que du solde de la dette de cette société et non du montant dont la société était responsable à l’origine à l’établissement de sa cotisation.
+[54] De plus, vu le plan contexte, la comparaison de la formulation des paragraphes 227.1(2) et 227.1(4) de la Loi permet de confirmer l’interprétation selon laquelle le paragraphe 227.1(2) constitue une disposition temporelle. Le paragraphe 227.1(2) de la Loi dispose qu’un « administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans [les] cas suivants », alors que le paragraphe 227.1(4) dispose que « l’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société ». [Non souligné dans l’original] À mon avis, il ne fait aucun doute que le paragraphe 227.1(4) constitue un délai de prescription qui exclut le recouvrement d’un montant pour lequel l’administrateur est tenu de payer aux termes de l’article 227.1 lorsqu’il s’est passé plus deux ans depuis que l’administrateur a cessé d’être administrateur de la société en question. Je suis d’avis toutefois que le paragraphe 227.1(2) ne constitue pas un délai de prescription, mais plutôt une condition préalable à l’établissement d’une responsabilité aux termes de l’article 227.1. Si le législateur avait voulu que le paragraphe 227.1(2) de la Loi signifie qu’il est impossible de recouvrer un montant que l’administrateur est tenu de payer avant que les conditions soient réunies, il aurait pu utiliser le même type de formulation que celui du paragraphe 227.1(4) de la Loi. Le législateur a plutôt choisi les mots « n’encourt la responsabilité prévue [...] que dans [les] cas suivants » au paragraphe 227.1(2) au lieu de recourir à une formulation semblable à celle du paragraphe 227.1(4).
+[55] Il ressort de l'effet conjugué de ces dispositions que le législateur n’a jamais eu l’intention que la responsabilité d’un administrateur engagée aux termes de l’article 227.1 de la Loi en raison du manquement d’une société le soit de façon absolue dès que cette société fait défaut à ses obligations de versement. À mon avis, rattacher la responsabilité d’une société à l’administrateur de celle-ci aux termes de l’article 227.1 et aussi, qui plus est, à l’épouse de cet administrateur aux termes de l’article 160 constitue une mesure extraordinaire qui ne doit jamais intervenir, sauf si la loi l’autorise expressément.
+[56] Même si la jurisprudence précitée n’a pas envisagé l’interaction pouvant exister entre une cotisation fondée sur la responsabilité dérivée établie aux termes de l’article 227.1 et une cotisation fondée sur la responsabilité dérivée en application de l’article 160, elle porte directement et sans équivoque sur le moment où naît la responsabilité d’un administrateur aux termes de l’article 227.1 de la Loi et conclut que cette responsabilité naît au moment où les conditions du paragraphe 227.1(2) sont réunies.
+[57] Comme les parties l’ont relevé dans leurs observations, une certaine jurisprudence de notre Cour a envisagé l’opération d’une cotisation établie aux termes de l’article 160 (ou de l’article 325 de la Loi sur la taxe d’accise) qui s’intègre à une cotisation établie aux termes de l’article 227.1 relativement à la responsabilité d’un administrateur (ou de l’article 323 de la Loi sur la taxe d’accise), entre autres White c. Canada (« White no 1 ») [39] , Filippazzo c. La Reine [40] et Pliskow c. La Reine [41] .
+[58] Par toute cette jurisprudence, notre Cour enseigne que la responsabilité d’un administrateur prend naissance ou se concrétise au moment où la société a omis de verser les déductions à la source ou la TPS; ce moment qui coïncidait avec l’année d’imposition au cours de laquelle les biens avaient été transférés par les administrateurs à des bénéficiaires avec qui ils avaient un lien de dépendance. Les cotisations établies aux termes de l’article 160 (ou de la disposition équivalente dans la Loi sur la taxe d’accise) ont par conséquent été confirmées, étant donné que les bénéficiaires étaient solidairement responsables du montant que l’auteur du transfert était tenu de payer au cours de l’année où les biens ont été transférés.
+[59] Dans le jugement White no 1, antérieur à la jurisprudence précitée portant sur l’article 227.1 de la Loi, le juge Mogan de notre Cour a conclu que le conjoint de l’appelante, qui était administrateur d’une société au moment où la société a encouru une importante dette fiscale de la partie VIII en 1984, avait une responsabilité correspondante [42] au cours de la même année et, par conséquent, l’appelante qui était bénéficiaire était responsable aux termes de l’article 160 de la Loi relativement au bien que l’époux de l’appelante avait transféré en 1984.
+[60] Dans le jugement Filippazzo, la Cour a discuté exactement le même argument que celui qui a été avancé en l’espèce [43] et, sans donner beaucoup d’explication, a conclu ce qui suit :
+La date à laquelle remonte l’obligation fiscale de Carlogero Filippazzo est la date de l’omission de remettre les retenues à la source exigées par la Loi en 1987 et en 1988 et non la date à laquelle le certificat a été enregistré à la Cour fédérale. Je conclus en outre que l’article 160 de la Loi a pour objet d’inclure la responsabilité relative à l’omission de remettre des retenues à la source au cours de l’année d’imposition dans laquelle le bien a été transféré ou au cours d’années d’imposition antérieures. [44]
+[Non souligné dans l’original]
+[61] Dans cette affaire, la Cour avait retenu en partie l'observation de Stikeman Canada Tax Service (services en droit fiscal canadien) [45] .
+[62] Dans le jugement Pliskow, un appel sur la perception de TPS sous le régime de la procédure informelle, la Cour a suivi la jurisprudence Filippazzo et a observé qu’« il est également manifeste qu’une telle responsabilité prend naissance au moment du défaut de versement et non au moment où le certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale, comme cela a été confirmé dans le jugement Filippazzo c. La Reine, 2000 DTC 2326 » [46] .
+[63] Plus récemment, dans le jugement Sheck c. La Reine [47] , un appel relatif à la TPS sous le régime de la procédure informelle, la Cour a suivi l'enseignement des décisions Filippazzo et Pliskow en concluant que la responsabilité de l’administrateur a pris naissance lorsque la société a omis de faire ses versements.
+[64] Les affaires Pliskow et Sheck étaient des appels sous le régime de la procédure informelle dans le cadre de la Loi sur la taxe d’accise et leur enseignement ne lie pas notre Cour. En outre, même si l'enseignement des jugement White no 1 et Filippazzo ne lient pas notre Cour, la courtoisie judiciaire m’amènerait à les suivre à moins d’être convaincu qu’elles soient dans l’erreur.
+[65] En toute déférence, je ne suivrai pas l'enseignement des jugements Pliskow et Sheck, White no 1 et Filippazzo.de notre Cour. Il ne semble pas cette jurisprudence soit fondée sur une interprétation textuelle, contextuelle et téléologique des interactions possibles de l’article 160 et de l’article 227.1 de la Loi. À cet égard, je lui préfère la jurisprudence de la Cour d’appel fédérale et de la Cour canadienne de l’impôt [48] citée précédemment par laquelle la Cour a conclu que la responsabilité découlant de l’article 227.1(1) prend naissance lorsque les conditions du paragraphe 227.1(2) sont réunies.
+[66] À mon avis, au moment de rédiger l’article 227.1, le législateur visait un équilibre entre (i) l’objectif de protéger le recouvrement des sommes dues auprès des sociétés en imposant au moyen du paragraphe 227.1(1) une responsabilité aux administrateurs de ces sociétés pour défaut d’effectuer les retenues et (ii) l’objectif de limiter la responsabilité de ces administrateurs au moyen des paragraphes 227.1(2) à 227.1(5). Ces moyens comprennent le paragraphe 227.1(2) qui enjoint efficacement le ministre à exercer d’abord des recours de recouvrement à l’encontre de la société avant que ne prenne naissance la responsabilité des administrateurs. Étant donné que certaines dispositions sont jugées injustes ou draconiennes dans des circonstances particulières, je suis d’avis que la Cour ne doit pas déranger l’équilibre délicat établi par le législateur.
+[67] À cet égard, j’observe que la responsabilité prévue par l’article 227.1 n’est pas tributaire de la connaissance de la responsabilité sous-jacente de la société ni de l’intention de faire obstacle au recouvrement du ministre. Conséquemment, il est possible d’imposer une responsabilité à un administrateur aux termes de l’article 227.1 même s'il n’était pas au courant du défaut de la société d’effectuer ses retenues [49] . En outre, un administrateur peut invoquer le délai de prescription de deux ans prévu au paragraphe 227.1(4), peu importe que cet administrateur démissionne avec l’intention de faire obstacle aux tentatives de recouvrement du ministre aux termes de l’article 227.1. C’est pourquoi je suis également d’avis que l’intention (admise ou découverte) ou l’absence d’intention à faire obstacle au recouvrement prévu à l’article 227.1 au moyen du transfert de biens ne doivent pas être des facteurs à prendre en compte quant à l’interprétation du sens de l’article 227.1.
+[68] Compte tenu de tout ce qui précède, après avoir effectué une analyse textuelle, contextuelle et téléologique de l’article 227.1 pour y dégager un sens qui s’harmonise avec la loi dans son ensemble, je suis d’avis que la responsabilité d’un administrateur ne prend naissance aux termes du paragraphe 227.1(1) que lorsque les conditions pertinentes du paragraphe 227.1(2) sont réunies et je suis d’avis que le ministre doit s’acquitter du fardeau de la preuve [50] .
+[69] En l’espèce, je suis d’avis que la responsabilité de M. Colitto à titre d’administrateur de Precision (à l’époque, Precision a omis d’effectuer les retenues à la source nécessaires en 2008) découlant du paragraphe 227.1(1) de la Loi a pris naissance le 4 janvier 2011 (lorsque les conditions du paragraphe 227.1(2) ont pris fin) et non en 2008, année du manquement de Precision.
+[70] Malgré ce qui précède, l’intimée a soutenu, jurisprudence [51] à l’appui, que la responsabilité d’un contribuable aux termes de la Loi ne prend pas naissance avec l’établissement d’une cotisation, mais bien aux termes de la loi au revenu qui a été gagné sur une période donnée. À ce titre, l’intimée soutient que la responsabilité de M. Colitto à titre d’administrateur n’a pas pris naissance au moment où la cotisation a été établie à son égard à titre d’administrateur en mars 2011. Même si elle n’est pas erronée, cette thèse passe à côté de l’essentiel du paragraphe 227.1(2) de la Loi qui dispose que la responsabilité de l’administrateur prend naissance lorsque les conditions du paragraphe 227.1(2) de la Loi sont réunies. Voilà ce qui s’est passé le 4 janvier 2011, au défaut d’exécution de la dette de Precision. La responsabilité de M. Colitto a donc pris naissance le 4 janvier 2011 et non en mars 2011, à l’établissement de la cotisation à l’égard de l’administrateur.
+[71] À mon avis, il ressort clairement du texte du paragraphe 227.1(2) que la responsabilité d’un administrateur prend naissance aux termes du paragraphe 227.1(1) lorsque les conditions du paragraphe 227.1(2) sont réunies. Ajoutons que rien dans le paragraphe 227.1 ne nous indique que la responsabilité joue rétroactivement après avoir pris naissance. Dans l’arrêt Gustavson Drilling (1964) Limited c. M.N.R. [52] , au paragraphe 279, la Cour observe ce qui suit :
+[...] Selon la règle générale, les lois ne doivent pas être interprétées comme ayant une portée rétroactive à moins que le texte de la Loi ne le décrète expressément ou n’exige implicitement une telle interprétation.
+[72] Compte tenu de ce qui précède, je suis d’avis que la responsabilité de M. Colitto aux termes du paragraphe 227.1 n’a pas pris naissance en 2008 lorsque Precision a omis d’effectuer les retenues à la source, mais bien le 4 janvier 2011 lorsque les conditions de l’alinéa 227.1(2)a) ont été réunies.
+[73] L’intimée a soutenu que l'expression « in respect of » du sous-alinéa 160(1)e)(ii) [traduit par « au cours de »] doit être interprétée au sens large. Il ne fait aucun doute que la portée des mots charnières en anglais « in respect of » est très vaste. À cet égard, j’observe que la Cour suprême du Canada a observé expressément que les mots « in respect of » sont des mots ayant :
+« [...] la portée la plus large possible ». Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « quant à » qui est la plus large [53] .
+[74] Cette définition a servi à établir une responsabilité rétroactive dans le cadre d’une cotisation établie aux termes de l’article 160 dans le jugement Mario Côté Inc. c. La Reine [54] (« Mario Côté »). Dans cette affaire, la Cour a conclu que le remboursement d’impôt payé en trop au titre de dividende que le ministre a versé à la société auteure du transfert (qui a payé un dividende à Mario Côté Inc. ou MCI) lors d’une année d’imposition ultérieure était le montant que l’auteure du transfert était tenue de payer au cours de (« in respect of » en anglais) l’année d’imposition antérieure lors de laquelle le bien (le dividende) a été transféré ou payé à MCI. À ce titre, la Cour a conclu que MCI était solidairement responsable du solde de ce montant aux termes du paragraphe 160(1) de la Loi.
+[75] Dans l’affaire Mario Côté, l’auteure du transfert a commis une erreur [55] en déclarant pour l’année d’imposition antérieure un solde positif important d’impôt en main remboursable au titre de dividendes (IMRTD), alors que le solde exact était de zéro. Cette surestimation du solde d’IMRTD a servi à établir le remboursement de l’impôt sur les dividendes et l’obligation fiscale de l’auteure du transfert pour l’année d’imposition antérieure, malgré le fait que le remboursement a finalement été effectué à l’auteure du transfert lors de l’année d’imposition ultérieure.
+[76] Il existe cependant une distinction qui s’impose entre les faits de la présente espèce et ceux de l’affaire Mario Côté. Dans cette affaire, la société auteure du transfert était tenue de payer un montant aux termes de la Loi en raison d’un trop-perçu d’IMRTD (remboursement d’impôt sur les dividendes) qui concernait l’année d’imposition antérieure de l’auteure du transfert, c’est-à-dire l’année du paiement du dividende et pour laquelle un solde d’IMRTD avait été déclaré aux fins de calculer l’obligation fiscale de l’auteur du transfert pour cette même année. Cette obligation avait pris naissance lors d’une des années d’imposition de l’auteure du transfert, mais concernait une année d’imposition antérieure de ce même contribuable. Le sous-alinéa 160(1)e)(ii) de la Loi jouait alors.
+[77] Dans les présents appels, la responsabilité de M. Colitto aux termes du paragraphe 227.1 de la Loi a pris naissance le 4 janvier 2011. Cette responsabilité de M. Colitto concerne cependant le manquement de Precision d’effectuer les retenues à la source en 2008. À mon avis, même s’il est évident que le défaut d’effectuer les retenues (de février à août 2008) concerne l’année d’imposition de Precision se terminant le 31 juillet 2008 (et peut-être l’année d’imposition se terminant le 31 juillet 2009 dans la mesure où Precision n’a pas effectué les retenues au mois d’août 2008), l’omission de verser les retenues à la source de 2008 ne concerne en rien l’année d’imposition 2008 de M. Colitto. Le simple fait que le manquement de Precision ait eu lieu lors de l’année civile 2008, laquelle coïncide avec l’année d’imposition 2008 de M. Colitto, ne signifie pas que le manquement était en rapport avec (« in respect of ») l’année d’imposition de 2008 de M. Colitto. Aucun élément de preuve présenté dans les présents appels ne nous indique la présence d’un lien entre le défaut de Precision d’effectuer les retenues en 2008 et la calcul du revenu de M. Colitto ou du montant d’impôt qu’il doit payer aux termes de la Loi au cours de l’année d’imposition 2008.
+[78] Dans l’ensemble, je suis d’avis que la responsabilité de M. Colitto aux termes de l’article 227.1 de la Loi n’a pas de rapport avec (« in respect of ») l’année d’imposition 2008. Par conséquent, je suis d’avis que le transfert des biens immobiliers effectués par M. Colitto à Mme Colitto en 2008 ne font pas jouer l’article 160 de la Loi.
+CONCLUSION
+[79] Compte tenu de tout ce précède, les appels de Mme Colitto sont accueillis et les cotisations sont annulées.
+DÉPENS
+[80] Les dépens sont adjugés à l’appelante. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi l’appelante disposera alors d’un délai de 30 jours pour déposer ses observations écrites sur les dépens, après quoi l’intimée disposera d’un délai de 30 jours pour déposer sa réponse par écrit. Aucun dépôt d’observations ne peut dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations, les dépens seront adjugés à l’appelante selon ce que prévoit le tarif.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2019.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 26e jour de février 2020.
+François Brunet, réviseur
+Annexe A
+Exposé conjoint des faits [56]
+2016-3167(IT)G
+2016-3168(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+CAROLINE COLITTO,
+appelante
+et
+SA MAJESTÉ LA REINE
+intimée
+EXPOSÉ CONJOINT DES FAITS
+Les parties admettent, aux seules fins des présents appels, la véracité des faits suivants et l’authenticité des documents qui y sont joints :
+Le ministre du Revenu national (le « ministre ») a établi les cotisations de l’appelante Caroline Colitto (« Caroline ») aux termes de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi ») par deux avis datés du 13 janvier 2016 et portant les numéros 3587483 et 3492852 (les « cotisations »)1.
+Pendant toute la période pertinente, l’époux de Caroline était M. Domenic Colitto (« Domenic »).
+___________________________
+1 Les annexes A et B sont une reproduction de ces avis de cotisation.
+LES TRANSFERTS
+Propriété d’Aida Court
+Avant le 2 mai 2008, Domenic était l’unique propriétaire du bien situé au 30, Aida Court, Bolton (Ontario) [la « propriété Aida Court »).
+Le 2 mai 2008, Domenic a transféré 50 % de sa participation dans la propriété Aida Court à Caroline (le « transfert Aida Court »).
+Au moment du transfert Aida Court :
+a) la juste valeur marchande de la propriété Aida Court était de 315 000 $;
+b) l’ensemble des hypothèques et des autres charges sur la propriété Aida Court s’élevait à 232 500 $;
+c) la valeur nette de la propriété Aida Court était de 82 500 $;
+d) la juste valeur marchande de la participation à 50 % dans la propriété Aida Court qui a été transférée à Caroline était de 41 250 $;
+e) la juste valeur marchande de la contrepartie versée par Caroline à Domenic pour cette participation à 50 % dans la propriété Aida Court était de 2,00 $;
+f) la juste valeur marchande de l’avantage reçu par Caroline par le transfert Aida Court était de 41 248 $.
+Propriété du 12e 15000 Concession Road
+Avant le 2 janvier 2007, Domenic était l’unique actionnaire de la propriété située au 12e 15000 Concession Road, RR1, Bolton (Ontario) [la « propriété du 12e 15000 Concession Road »).
+Le 2 janvier 2007, Domenic a ajouté l’appelante à titre de copropriétaire de la propriété du 12e 15000 Concession Road.
+L’appelante a versé à Domenic la contrepartie de 2,00 $ pour devenir copropriétaire de la propriété du 12e 15000 Concession Road.
+Le 2 mai 2008, Domenic a transféré sa participation de 50 % qui lui restait dans la propriété du 12e 15000 Concession Road à Caroline (le « transfert Concession Road »).
+Au moment du transfert Concession Road :
+a) la juste valeur marchande de la propriété du 12e 15000 Concession Road s’élevait à 1 875 000 $;
+b) l’ensemble des hypothèques et des autres charges sur la propriété du 12e 15000 Concession Road s’élevait à 1 500 000 $;
+c) la valeur nette de la propriété du 12e 15000 Concession Road était de 375 000 $;
+d) la juste valeur marchande de la participation à 50 % dans la propriété du 12e 15000 Concession Road qui a été transférée à Caroline était de 187 500 $;
+e) la juste valeur marchande de la contrepartie versée par Caroline à Domenic pour cette participation à 50 % dans la propriété du 12e 15000 Concession Road était de 2,00 $;
+f) la juste valeur marchande de l’avantage reçu par Caroline par le transfert Concession Road était de 187 498 $.
+COTISATION À L’ÉGARD DE DOMENIC
+Domenic était administrateur et actionnaire de Core Precision Technologies Ltd. (« Precision »).
+Precision était un fabricant de moules, d’outils d’injection, d’outils d’extrusion et d’extrusion de vinyle.
+L’année d’imposition de Precision se termine le 31 juillet.
+De février 2008 à août 2008, Precision a omis d’effectuer les retenues à la source et de les verser au ministre du Revenu national.
+À titre d’administrateur de Precision, Domenic n’a pas agi avec le degré de diligence nécessaire pour éviter que Precision n’omette d’effectuer les retenues à la source.
+Le 10 octobre 2008, le ministre a délivré un avis de cotisation à l’égard de Precision pour recouvrer les déductions à la source avec intérêts et pénalités, le tout s’élevant à 631 554,23 $. Precision n’a pas déposé d’avis d’opposition à l’égard de cette cotisation.
+Le 6 août 2009, un certificat de dette fiscale de 794 286,98 $ à l’égard de Precision était enregistré en Cour fédérale en application de l’article 223 de la Loi.
+Le 23 novembre 2010, ordre d’exécuter le bref enregistré à la Cour fédérale est donné au shérif, le montant exigé étant de 776 380,32 $, vu les paiements effectués entre le 6 août 2009 et le 23 novembre 2010 qui ont réduit la dette.
+Il y a eu défaut d’exécution à l’égard de la dette fiscale de Precision le 4 janvier 2011.
+Le ministre a délivré l’avis de cotisation numéro 1368027 en date du 28 mars 2011 (« l’avis de cotisation numéro 1368027 ») établi à l’égard de Domenic dont le montant exigé était de 733 812,98 $2.
+Domenic n’a pas déposé auprès du ministre d’avis d’opposition à l’égard de la cotisation numéro 1368027.
+___________________________
+2 L’annexe C reproduit cet avis de cotisation.
+FAIT dans la ville de Halifax, dans la province de Nouvelle-Écosse, le 17 mars 2017.
+_____________________________
+Me Amy Kendell
+Avocate, Services du droit fiscal
+Procureur général du Canada
+Ministère de la Justice Canada
+Bureau régional de l’Atlantique
+Bureau 1400, Tour Duke
+5251, rue Duke
+Halifax (Nouvelle-Écosse) B3J 1P3
+Téléphone : 709-772-7404
+Télécopieur : 902-426-8802
+FAIT dans la ville de Toronto, dans la province de l’Ontario, le 15 mars 2017.
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Avocats de l’appelante
+_____________________________
+Me Adam Gotfried
+Me Kristen Duerhammer
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Avocats
+Bay Adelaide Centre
+333, rue Bay, bureau 4600
+Toronto (Ontario)
+M5H 2S5
+Téléphone : 416-777-8813/416-777-3568
+Télécopieur : 416-861-0624
+e. agotfried@kpmg.ca
+kduerhammer@kpmg.ca
+1
+Annexe B
+Textes législatifs
+Les textes de référence de la présente annexe sont des dispositions de la Loi de l’impôt sur le revenu en vigueur au moment de l’établissement des cotisations, c’est-à-dire au 13 janvier 2016.
+160 (1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toutes autres façons à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance;
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[...]
+(2) Cotisation — Le ministre peut, en tout temps, établir une cotisation à l’égard d’un contribuable pour toute somme payable en vertu du présent article. À cette fin, les dispositions de la présente section s’appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si celles-ci avaient été établies en vertu de l’article 152 pour les impôts à payer en vertu de la présente partie.
+227.1 (1) Responsabilité des administrateurs pour défaut d’effectuer les retenues – Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+(2) Restrictions relatives à la responsabilité — Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l’objet d’une dissolution et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+c) la société a fait une cession ou une ordonnance de faillite a été rendue contre elle en vertu de la Loi sur la faillite et l’insolvabilité et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l’ordonnance de faillite.
+(3) Idem [défense fondée sur la diligence raisonnable] – Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+(4) Prescription — L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+(5) Montant recouvrable — Dans le cas du défaut d’exécution visé à l’alinéa (2)a), la somme qui peut être recouvrée d’un administrateur est celle qui demeure impayée après l’exécution.
+(6) Privilège — Lorsqu’un administrateur verse une somme à l’égard de laquelle la société encourt une responsabilité en vertu du paragraphe (1), qui est établie lors de procédures de liquidation, de dissolution ou de faillite, il a droit à tout privilège auquel Sa Majesté du chef du Canada aurait eu droit si cette somme n’avait pas été payée et, lorsqu’un certificat a été enregistré relativement à cette somme, il peut exiger que le certificat lui soit cédé jusqu’à concurrence du versement et le ministre est autorisé à faire cette cession.
+(7) Répétition — L’administrateur qui a satisfait à la créance en vertu du présent article peut répéter les parts des administrateurs tenus responsables de la créance.
+249 (1) Sens de année d’imposition — Dans la présente loi, sauf disposition contraire expresse, l’année d’imposition correspond :
+a) dans le cas d’une société de personnes résidant au Canada ou d’une société, à l’exercice;
+b) dans le cas d’une succession assujettie à l’imposition à taux progressifs, à la période pour laquelle les comptes de la succession sont arrêtés pour l’établissement d’une cotisation en vertu de la présente loi;
+c) dans les autres cas, à l’année civile.
+(1.1) Mention d’une année civile — La mention d’une année d’imposition par rapport à une année civile vise l’année d’imposition ou les années d’imposition qui coïncident avec cette année civile ou se terminent dans cette année.
+(2) Mention de certaines années d’imposition et de certains exercices — Pour l’application de la présente loi :
+a) la mention d’une année d’imposition se terminant au cours d’une autre année vaut mention d’une année d’imposition dont la fin coïncide avec celle de cette autre année;
+b) la mention d’un exercice se terminant au cours d’une année d’imposition vaut mention d’un exercice dont la fin coïncide avec celle de cette année.
+RÉFÉRENCE :
+2019 CCI 88
+Nºs DU DOSSIER DE LA COUR :
+2016-3167(IT)G
+2016-3168(IT)G
+INTITULÉ :
+CAROLINE COLITTO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 26 avril 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Kristen Duerhammer
+Me Adam Gotfried
+Avocate de l’intimée :
+Me Amy Kendell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée.
+[2] Voir les annexes A et B de l’exposé.
+[3] Voir l’annexe C de l’exposé.
+[4] Les dispositions correspondantes pour l’application de la TPS/TVH sont les articles 323 et 325 de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la « LTA »).
+[5] D’autres extraits de l’article 160 sont reproduits à l’annexe « B » ci-jointe.
+[6] Sous-alinéa 160(1)e)(ii) de la Loi.
+[7] 2008 CAF 89.
+[8] Ibid., au paragraphe 17.
+[9] Ibid., au paragraphe 17.
+[10] Ibid., au paragraphe 17.
+[11] Selon le principe du précédent obligatoire, notre Cour doit suivre la jurisprudence de la Cour d’appel fédérale et de la Cour suprême du Canada; voir Canada c. Craig, 2012 CSC 43, aux paragraphes 20 et 21, et Brent Kern Family Trust c. La Reine, 2013 CCI 327, au paragraphe 28.
+[12] Voir, par exemple, Woodland c. La Reine, 2009 CCI 434, au paragraphe 24; Campbell c. La Reine, 2009 CCI 431, au paragraphe 18; Pickard c. La Reine, 2010 CCI 535; Lapierre c. La Reine, 2012 CCI 299, au paragraphe 18; Kiperchuk c. La Reine, 2013 CCI 60, au paragraphe 13, Copeland c. La Reine, 2016 CCI 124, au paragraphe 10, Klundert c. La Reine, 2016 CCI 130, au paragraphe 21, Parihar c. La Reine, 2015 CCI 52, au paragraphe 26.
+[13] 2002 CAF 23, confirmant 2000 DTC 2434 (CCI). [Raphael]
+[14] Ce critère tire son origine d’une autre jurisprudence de la Cour canadienne de l’impôt, soit Williams c. La Reine, 2000 DTC 2340 (CCI). Pour des raisons de commodité, ce critère est appelé ci-après le critère de la jurisprudence Raphael.
+[15] Raphael, au paragraphe 4.
+[16] 2008 CCI 601 [procédure informelle]. [Gambino]
+[17] Ibid, au paragraphe 20.
+[18] Voir Warren c. La Reine, 2008 CCI 674, au paragraphe 14; Yates c. La Reine, 2007 CCI 498, au paragraphe 12 et la note en bas de page no 2, confirmée par 2009 CAF 50; Pearson c. La Reine, 2009 CCI 338, au paragraphe 11; MacLeod c. La Reine, 2012 CCI 379, au paragraphe 14.
+[19] 2015 CCI 289.
+[20] Ibid., au paragraphe 15.
+[21] 2015 CAF 240
+[22] Les textes des paragraphes 249(1), (1.1) et (2) sont reproduits à l’annexe B des motifs du présent jugement.
+[23] LRC (1985), ch. I-21;
+[24] Le texte complet de l’article 227.1 de la Loi est reproduit à l’annexe B des motifs du présent jugement.
+[25] 2005 CSC 54.
+[26] 2000 D.T.C. 6593, [2001] 1 C.T.C. 79 (CAF). [Worrell]
+[27] Ibid., au paragraphe 35.
+[28] Ibid., paragraphe 74.
+[29] Kyte c. Canada (1996), 97 D.T.C. 5022, [1996] A.C.F. no 1615, au paragraphe 2 (CAF). Voici la définition de [traduction] « condition préalable » que donne la 10e édition du Black’s Law Dictionary : [traduction] « action ou événement qui, sans être un délai, doit exister ou se produire afin que l’obligation d’exécution puisse prendre naissance. Si cette condition n'est pas remplie ou s’il y a exonération, l’exécution n’est plus nécessaire. » [Non souligné dans l’original]
+[30] Smith c. Canada, 2001 CAF 84, au paragraphe 8. [Smith]
+[31] Madison c. Canada, 2012 CAF 80, au paragraphe 17.
+[32] Ibid., au paragraphe 18.
+[33] 2005 CCI 314 [procédure informelle], conf. par 2006 CAF 257.
+[34] Ibid., au paragraphe 23.
+[35] Ibid., au paragraphe 21.
+[36] 2009 CCI 557, 2009 D.T.C. 1372, au paragraphe 26. [Walsh]
+[37] ibid., au paragraphe 26.
+[38] Ibid., aux paragraphes 25, 27 et 28.
+[39] 95 DTC 877, [1994] ACI no 1042. [White no 1] L’intimée a également cité une autre jurisprudence, White c. La Reine (1994), [1995] 2 CTC 2973 (CCI) [procédure informelle] [White no 2]. En toute déférence, la décision White no 2 ne portait pas sur une cotisation établie aux termes de l’article 160 relativement à un transfert entre époux. Dans l’affaire White no 2, la juge Lamarre (tel était alors son titre) de notre Cour n’a discuté que la question de la responsabilité de l’administrateur de l’appelante aux termes de l’article 227.1.
+[40] [2000] ACI no 402, 2000 DTC 2326 (CCI); observations écrites de l’intimée, au paragraphe 35.
+[41] 2013 CCI 283 [procédure informelle]. Voir également les décisions Taylor c. Canada, [1997] GSTC 33 [procédure informelle] (CCI); Jones c. Canada, 2004 CCI 251 [procédure informelle] (CCI).
+[42] White no 1, au paragraphe 18.
+[43] Filippazzo, au paragraphe 8.
+[44] Ibid., au paragraphe 14.
+[45] Ibid., au paragraphe 13.
+[46] Pliskow, au paragraphe 14.
+[47] 2018 CCI 125.
+[48] Voir Worrell, Kern et Walsh.
+[49] Dans l’hypothèse, bien sûr, où l’administrateur ne pourrait pas invoquer l’un des paragraphes 227.1(2) à 227.1(5) pour ne pas assumer cette responsabilité.
+[50] Walsh c. La Reine, 2009 CCI 557, au paragraphe 28.
+[51] Jurak c. Canada, 2001 CanLII 62 (CCI), confirmée par 2003 CAF 58; La Reine c. Simard-Beaudry (1971), 71 DTC 5511 (CF 1re inst.).
+[52] [1977] 1 R.C.S. 271.
+[53] Nowegijick c. La Reine, [1983] 1 RCS 29, p. 39.
+[54] 2011 CCI 105.
+[55] Ibid. Cette erreur découle de la déclaration d’impôt d’une des prédécesseures de la société auteure du transfert, déclaration qui a abouti à l’auteure du transfert après la fusion.
+[56] L’exposé conjoint des faits ci-joint ne contient pas une copie des annexes A, B et C ci-jointes.

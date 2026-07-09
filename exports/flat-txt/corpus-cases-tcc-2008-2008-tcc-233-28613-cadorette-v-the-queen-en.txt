@@ -1,0 +1,127 @@
+Title: Cadorette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28613/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-233-28613-cadorette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-23
+
+# Cadorette v. The Queen
+
+- Citation: 2008 TCC 233
+- Decision date: 2008-04-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1145, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cadorette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-23
+Neutral citation
+2008 TCC 233
+File numbers
+1999-408(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-408(IT)I
+BETWEEN:
+JEAN-GUY CADORETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 7, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeal of the assessment established under the Income Tax Act for the 1988 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of April 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of May 2008.
+Elizabeth Tan, Translator
+Citation: 2008TCC233
+Date: 20080423
+Docket: 1999-408(IT)I
+BETWEEN:
+JEAN-GUY CADORETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] The taxation year in question is 1988. The issue in this case is whether there was genuine scientific research and experimental development.
+[2] The presumptions of fact on which the Minister of National Revenue (the "Minister") relied to establish the new assessment are described at paragraph 19 of the Reply to the Notice of Appeal, and state:
+[translation]
+19. By establishing the new assessment in question, in Minister of National Revenue relied on the following facts:
+(a) SYSTÈME A.L.H. ENR. (the "Company") was created in October 1988;
+(b) in 1988, the Company entered into an agreement with Zuniq Corp. ("Zuniq") regarding work related to the project "INCOM";
+(c) then, Zuniq entered into an agreement with each of the following corporations, among others: Dias Informatique Inc., Data Age Corp., Système Inar Inc. ("Zuniq group corporations"). All these agreements were in regard to the same project;
+(d) Zuniq was incorporated on March 25, 1985, with the purpose of carrying out work presented as research and development. It was to carry out various jobs and to do so, a number of companies were created;
+(e) the promoter-organizer of the company is Hien Vohoang ("Vohoang"), the leader of Zuniq;
+(f) the Zuniq group corporations all had a non-arm' length relationship between each other and with Zuniq and Vohoang;
+(g) the work presented by the Company (as scientific research and development activities) had nothing to do with scientific research or experimental development;
+(h) the Company had no expenses regarding scientific research and experimental development activities during the taxation year in question;
+(i) for the fiscal year ending December 31, 1988, the Company claimed $3,171,000 as research fees in accordance with subparagraph 37(1)(a)(i) of the Income Tax Act;
+(j) the amount of $3,171,000 is not an expense incurred by the company regarding scientific research and experimental development activities.
+[3] The Appellant explained the reasons for his financial participation. He wanted to support scientific research and experimental development in Canada, while taking advantage of the tax benefits related to these research activities. He had confidence in the quality of the professionals who supported the project. These professionals were scientists with Ph.D.'s and an accountant who was a chartered accountant.
+[4] The Appellant produced some documents. The first was dated November 3, 1988, and is titled, [translation] "Proposal Scientific research and experimental development of a prototype for computer assisted training system in inter-personal communication by Système A.L.H. Enr. (According to Revenue Canada T611 form.)" This project is identified by the logo "INCOM".
+[5] Included with the documents given to potential investors was a scientific and technical with the University of Montréal, faculty of science and education letterhead and signed by Mr. R. D., Ph.D., assistant professor. There was also a resume of Hien Vohoang, promoter of the project, of Mr. B.F.R., Ph. D., education. There was also a notice from a chartered accountant, Mr. Y. R. This notice, however, ended with a caution regarding the expected tax effect of the plan.
+[6] The Appellant's financial participation of $10,000 was made by two cheques, one for 50% of the total amount, dated October 14, 1988, and the second dated at the latest December 15.
+[7] According to the documents presented, the Appellant was not among the research employees.
+[8] An expert report supporting the Minister's statements was sent to the Appellant within the time prescribed under the Tax Court of Canada Rules (informal procedure). This expert was subpoenaed to testify.
+[9] After having submitted these documents, the Appellant informed the Court that he did not plan to submit evidence regarding the admissibility of expenses as expenses that meet the criteria at section 2900 of the Income Tax Regulations ("Regulations"). He asked that his case be handled in terms of fairness. He also raised the unreasonable delay.
+[10] Counsel for the Respondent then asked for the appeal to be dismissed on the ground that the Appellant did not meet his burden of proof. They referred to the decision by this Court, Foster v. Canada, [2007] T.C.J. No. 538 (QL) which involved the same company, the same project and the same taxation year as the present appeal. That decision was to dismiss the Appellants' appeal. It relied on the conclusions of the expert, who is the same as in the present case.
+Analysis and conclusion
+[11] Concerning the burden of proof on a taxpayer appealing an assessment, since the Supreme Court of Canada decision, Johnston v. M.N.R., [1948] S.C.R. 486, the case law has been consistent: it is the taxpayer's responsibility to establish that the facts on which the Minister based the assessment are erroneous. This finding in the case law was once again confirmed by the Supreme Court of Canada in 2006, in Placer Dome Canada Ltd v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715.
+[12] In the circumstances of these appeals, namely the admissibility of research under the criteria at section 2900 of the Regulations, the Minister's presumptions of fact are determining factors as to the result of these appeals. The Appellant must therefore present evidence against these assumptions of fact, which was not done.
+[13] The taxpayer is asking that the Court judge according to fairness. There is no provision in the Income Tax Act (the "Act") that allows the Court to set aside substantive tax law. It must judge according to the Act. However, there is a provision in the Act that allows the Minister to waive the interest and penalties for reasons of fairness, at subsection 220(3.1). The court with jurisdiction to review the exercise of the Minister's power regarding this provision is the Federal Court of Canada.
+[14] The taxpayer also raised the issue of unreasonable delay. The Notice of Reassessment was dated April 29, 1992. The Notice of Objection was served in a timely fashion. The Notice of Appeal submitted to the Court on October 30, 1998, was submitted before the Minister amended the assessment or proceeded with a reassessment.
+[15] Regarding the issue of excessive delay, first, reference must be made to section 169 of the Act, which states that a taxpayer may appeal to our court after the 90 days following the service of the notice of objection have expired. Second, it must be noted that the Court file does not show any scheduling request by the Appellant after he filed his Notice of Appeal.
+[16] The issue of unreasonable delay was analyzed in a few decisions with the same context of so-called research projects: Lassonde v. Her Majesty the Queen, 2003TCC715, [2003] T.C.J. No. 560 (QL), 2005CAF323, [2005] F.C.A. No. 1682 (QL) and Moledina v. Her Majesty the Queen, 2007TCC354, [2007] T.C.J. No. 286 (QL). According to all these decisions, the Appellant had the legal power necessary to obtain a judicial decision within a reasonable deadline, and if there was any delay, it was caused by negotiations or accepted postponements of appeal hearings—circumstances that had been accepted by the Appellant or his counsel at the time.
+[17] For these reasons, and in particular the reason regarding burden of proof, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 23rd day of April 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of May 2008.
+Elizabeth Tan, Translator
+CITATION: 2008TCC233
+COURT FILE No.: 1999-408(IT)I
+STYLE OF CAUSE: JEAN-GUY CADORETTE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 7, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: April 23, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

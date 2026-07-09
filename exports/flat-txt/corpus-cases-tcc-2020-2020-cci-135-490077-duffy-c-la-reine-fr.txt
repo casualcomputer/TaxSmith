@@ -1,0 +1,290 @@
+Title: Duffy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/490077/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-135-490077-duffy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-12-11
+
+# Duffy c. La Reine
+
+- Citation: 2020 CCI 135
+- Decision date: 2020-12-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4656, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duffy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-12-11
+Référence neutre
+2020 CCI 135
+Numéro de dossier
+2016-1697(IT)G, 2016-1703(IT)G, 2016-1705(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Contenu de la décision
+Dossier : 2016-1697(IT)G
+ENTRE :
+MICHAEL DUFFY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1703(IT)G
+ENTRE :
+PAMELA DUFFY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1705(IT)G
+ENTRE :
+1218769 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : L’honorable juge Don R. Sommerfeldt
+ORDONNANCE RELATIVE AUX DÉPENS
+Les appelants se voient adjuger, collectivement, un seul mémoire de dépens de 25 000 $, qui devra être réparti entre eux en conformité avec les motifs ci-joints de l’ordonnance relative aux dépens.
+Signé à Ottawa, Canada, ce 11e jour de décembre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 17e jour de juillet 2021.
+Mario Lagacé, jurilinguiste
+Référence : 2020 CCI 135
+Date : Le 11 décembre 2020
+Dossier : 2016-1697(IT)G
+ENTRE :
+MICHAEL DUFFY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1703(IT)G
+ENTRE :
+PAMELA DUFFY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1705(IT)G
+ENTRE :
+1218769 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] J’ai préalablement rendu un jugement, dont les motifs sont joints aux présentes, par lequel j’ai accueilli les appels (les appels) interjetés par les appelants à l’encontre de diverses nouvelles cotisations (les nouvelles cotisations) que l’Agence du revenu du Canada (l’Agence) a établies à leur égard, au nom du ministre du Revenu national (le ministre), après avoir fait une analyse de la valeur nette. Étaient en litige dans ces appels divers éléments liés à des revenus prétendument non déclarés, à une caractérisation prétendument erronée du revenu et à des dépenses refusées, ainsi que des questions concernant le pouvoir de l’Agence d’établir de nouvelles cotisations à l’égard de certaines années d’imposition frappées de prescription et d’imposer des pénalités aux termes du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la LIR) [1] . Les appels concernaient les années d’imposition 2010, 2011 et 2012 des appelants ainsi que l’année d’imposition 2009 de la société 1218769 Ontario Inc. (121ON), dont l’exercice se termine le 30 septembre.
+[2] Les appels ont été accueillis avec dépens, et j’ai invité les appelants et l’intimée (collectivement, les parties) à me soumettre leurs observations relativement aux dépens, puisqu’ils n’étaient pas parvenus à s’entendre sur cette question. Les présents motifs concernent l’ordonnance relative aux dépens que je rends en parallèle.
+[3] Ainsi qu’il a été indiqué, les appels portent sur trois années d’imposition pour les deux personnes physiques appelantes et sur quatre années d’imposition dans le cas de la société appelante. D’après mon interprétation des actes de procédure, le montant total du revenu en litige dans les dix appels s’élevait à environ 541 000 $ (c.-à-d. environ 311 000 $ pour 121ON, 172 000 $ pour M. Duffy et 58 000 $ pour Mme Duffy selon les nouvelles cotisations).
+[4] Une audience de quatre jours avait été prévue pour l’audition des appels à Hamilton. Cependant, quelques jours avant la date prévue de l’audience, les avocats des deux parties ont communiqué avec la Cour pour lui demander de reporter d’une journée le début de l’audience, afin que les deux avocats puissent se rencontrer pour tenter de résoudre certaines ou la totalité des questions en litige, ou d’en réduire la portée. Les négociations menées ce jour-là ont été très fructueuses. De fait, au début de l’audience, le lendemain, les deux avocats ont informé la Cour de plusieurs concessions auxquelles leurs clients respectifs avaient consenti. Plus particulièrement, l’intimée a accepté que les appels de 121ON pour les années d’imposition 2009, 2010 et 2011, ainsi que les appels de M. Duffy et de Mme Duffy pour l’année d’imposition 2010, soient accueillis dans leur intégralité [2] . À la suite des concessions faites par les parties, les seules questions en litige qui restaient à examiner étaient les suivantes :
+a) 121ON a-t-elle gagné un revenu non déclaré de 27 237,90 $ pour l’année d’imposition s’étant terminée le 30 septembre 2012?
+b) Lors du calcul de son revenu de 2012, 121ON était-elle autorisée à déduire des frais afférents à un véhicule à moteur supérieurs à la somme de 900 $ reconnue par l’intimée?
+c) En 2012, M. Duffy a-t-il perçu un revenu non déclaré de 13 618,90 $ découlant d’avantages conférés à un actionnaire?
+d) En 2012, Mme Duffy a-t-elle perçu un revenu non déclaré de 13 618,90 $ découlant d’avantages conférés à un actionnaire?
+e) Les pénalités imposées aux appelants, aux termes du paragraphe 163(2) de la LIR pour 2012, étaient-elles justifiées?
+Parmi les questions susmentionnées, les principales questions en litige qui ont été examinées durant l’audience concernaient le présumé revenu non déclaré de 27 237,90 $ de 121ON et les présumés avantages conférés à un actionnaire versés à M. et à Mme Duffy, chacun d’un montant de 13 618,90 $ (soit environ la moitié du montant de 27 237,90 $).
+[5] Par conséquent, à la suite du règlement partiel qui a été négocié, le montant global des sommes en litige dans les appels a été réduit, passant d’environ 541 000 $ à environ 54 475,70 $ (c.-à-d. 27 237,90 $ + 13 618,90 $ + 13 618,90 $), un montant d’argent auquel s’ajoutent de modestes dépenses pour l’utilisation d’un véhicule automobile et des pénalités; l’audience de quatre jours a été écourtée à une journée seulement.
+[6] L’Agence a réalisé une analyse de la valeur nette approfondie, qui a porté sur plusieurs aspects des affaires financières des appelants. Durant l’audience, les appelants ont contesté la méthode utilisée pour l’établissement des cotisations fondées sur la valeur nette afférentes aux dix postes énoncés ci-après :
+a) compte Q-Trade – conversion monétaire;
+b) compte Visa et compte bancaire;
+c) impôt foncier des immeubles de la rue Pelham;
+d) compte Q-Trade – frais d’intérêts;
+e) obligation fiscale;
+f) dépenses engagées au Mexique;
+g) dépenses d’emploi remboursées;
+h) compte Q-Trade – remboursement du capital;
+i) remboursement pour immeubles locatifs potentiel;
+j) frais afférents à l’utilisation d’un véhicule à moteur.
+Les appelants ont eu gain de cause sur cinq des dix postes précités de l’analyse de la valeur nette.
+II. COMMENTAIRES
+[7] J’aimerais formuler quelques observations sur les thèses ou la conduite des parties à l’égard de certains des postes précités.
+A. Compte Q-Trade – conversion monétaire
+[8] Dans son analyse de la valeur nette, l’Agence a converti, en devise canadienne, le montant du passif qui était en devise américaine dans le compte sur marge américain de M. Duffy, mais elle n’a pas converti en devise canadienne la valeur de l’actif dans ce compte. Dans ces circonstances particulières, le défaut de convertir la valeur de l’actif a été préjudiciable à M. Duffy. Durant l’audience, lors de son interrogatoire principal, la vérificatrice de l’Agence a reconnu que le montant de l’actif et le montant du passif, qui étaient en devise américaine, auraient dû tous les deux être convertis en devise canadienne. Je crois comprendre que le défaut de l’Agence de convertir la valeur de l’actif dans le compte sur marge américain est le résultat d’une omission involontaire. Il semble néanmoins évident que des conversions monétaires symétriques doivent s’appliquer à la fois à l’actif et au passif; par conséquent, le défaut d’effectuer la conversion monétaire constitue une erreur manifeste de la part de l’Agence. Et puisque la vérificatrice a reconnu, durant son interrogatoire principal, qu’il s’agissait bien d’une erreur, il est étonnant que ce fait n’ait pas été reconnu la veille, lorsque les parties menaient leurs négociations en vue de parvenir à un règlement. Si ce fait avait été reconnu à ce moment-là, il n’aurait pas été nécessaire d’examiner cette question lors de l’audience.
+B. Compte Visa et compte bancaire
+[9] La principale question en litige concerne un paiement de 1 700 $, réalisé par virement bancaire en ligne, du compte bancaire de M. Duffy à son compte-carte de crédit Visa. Le virement a été effectué par M. Duffy le 31 décembre 2012, mais il n’a été porté à son compte Visa ou à son compte bancaire que le 2 janvier 2013. L’Agence a considéré le paiement de 1 700 $ comme ayant réduit le passif de M. Duffy en date du 31 décembre 2012, mais a également inclus ce montant de 1 700 $ dans la valeur de son actif au 31 décembre 2012. M. Duffy a réussi à me convaincre que l’Agence ne pouvait avoir gain de cause sur les deux tableaux. Là encore, il est étonnant de constater que l’Agence et l’intimée ont persisté à maintenir un traitement comptable asymétrique durant les négociations tenues la veille de l’audience en vue de parvenir à un règlement.
+C. Impôt foncier des immeubles de la rue Pelham
+[10] Bien que M. et Mme Duffy aient réussi à prouver que l’Agence a omis de tenir compte d’une dette en souffrance de 3 952,32 $ au titre de l’impôt foncier, je crois comprendre que M. et Mme Duffy n’ont peut-être pas fourni en temps utile à l’Agence la documentation exigée sur l’impôt foncier dans le contexte de l’audit. Par conséquent, je ne suis pas enclin à tenir compte de ce facteur dans l’adjudication des dépens.
+D. Compte Q-Trade – frais d’intérêts
+[11] Les appelants ont été déboutés sur ce point.
+E. Obligation fiscale
+[12] Les appelants ont été déboutés sur ce point.
+F. Dépenses engagées au Mexique
+[13] Les appelants ont été déboutés sur ce point.
+G. Dépenses d’emploi remboursées
+[14] Les appelants ont été déboutés sur ce point.
+H. Compte Q-Trade – remboursement du capital
+[15] M. Duffy a réussi à démontrer que l’Agence a mal interprété un feuillet T3 délivré par une fiducie de fonds commun de placement. La vérificatrice de l’Agence a déclaré qu’elle croyait que le montant d’argent indiqué sur le feuillet T3 constituait une source de revenu imposable, même s’il figurait à la case 42. Il suffit de regarder au verso d’un feuillet T3 pour voir que la case 42 sert à indiquer un montant d’argent qui représente une distribution ou un remboursement de capital. Il s’agit d’un élément qui aurait dû être reconnu par l’intimée durant les négociations préalables à l’audience.
+I. Remboursement pour immeubles locatifs potentiel
+[16] Les appelants ont concédé ce point durant l’audience.
+J. Frais d’utilisation d’un véhicule à moteur
+[17] Les appelants ont eu gain de cause sur ce point, en partie parce que la vérificatrice a omis d’apporter son dossier d’audit à l’audience et parce que l’avocat de l’intimée n’a pas contre-interrogé M. Duffy. Ces facteurs (c.-à-d. omission du dossier d’audit à l’audience et omission de contre-interroger M. Duffy) indiquent que la thèse de l’intimée concernant les frais d’utilisation d’un véhicule à moteur n’était pas très solide. Durant l’audience, je me suis demandé pourquoi l’intimée n’avait pas concédé ce point lors des négociations en vue d’un règlement.
+III. PRINCIPES JURIDIQUES
+A. Article 147 des Règles
+[18] Selon le paragraphe 147(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles), la Cour a le pouvoir discrétionnaire implicite de fixer le montant des dépens à adjuger. Le pouvoir discrétionnaire prévu au paragraphe 147(1) est vaste [3] .
+[19] Aux termes du paragraphe 147(3) des Règles, en exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+était inappropriée, vexatoire ou inutile,
+a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+(i.1) [s./o.];
+j) de toute autre question pouvant influer sur la détermination des dépens.
+B. Tarif B
+[20] Il a été établi que le tarif B, qui est énoncé à l’annexe II des Règles, est la norme par défaut à suivre pour l’adjudication de dépens [4] . Si, dans l’exercice de son pouvoir discrétionnaire, la Cour décide de s’écarter du tarif, elle doit alors exercer ce pouvoir discrétionnaire de manière cohérente, en se fondant sur les principes établis et en tenant compte des facteurs pertinents énoncés à l’article 147 des Règles [5] . Lorsque la Cour est portée à s’écarter du tarif pour l’adjudication des dépens, son objectif ultime doit être d’adjuger des dépens qui soient équitables et raisonnables pour les parties, tout en reconnaissant le succès de la partie qui a obtenu gain de cause [6] .
+[21] Plusieurs décisions rendues par notre Cour lors des dernières années ont établi que la Cour n’est pas tenue de se conformer au tarif, même en l’absence de circonstances inhabituelles ou exceptionnelles d’inconduite [7] . En d’autres mots, l’adjudication de dépens excédant ceux prévus au tarif n’est pas subordonnée à l’existence de circonstances exceptionnelles, comme une inconduite ou un retard excessif [8] . Alors que des décisions antérieures de notre Cour semblaient indiquer qu’on ne devait s’écarter des dépens prévus par le tarif que si cela était justifié par des circonstances particulières [9] , la jurisprudence a évolué depuis, notamment afin que l’on tienne davantage compte du travail qu’exigent les litiges de nature fiscale au moment de statuer sur l’adjudication de dépens [10] .
+C. Frais préalables à l’appel
+[22] Dans ses observations écrites relatives aux dépens, l’avocat des appelants a détaillé les honoraires annuels qu’il a facturés à ses clients sur une période de cinq ans [11] . Il semble que les montants d’argent facturés pour les deux premières années de cette période se rapportent à des services qui ont été offerts avant l’introduction des présents appels.
+[23] Comme le paragraphe 147(1) des Règles dispose que la Cour peut fixer les frais et dépens liés à toute instance et que l’article 2 des Règles définit l’« instance » comme un appel ou un renvoi, il ressort de la jurisprudence que des dépens ne devraient pas être adjugés relativement à des dépenses engagées avant la rédaction de l’avis d’appel visé, à moins de circonstances exceptionnelles [12] .
+D. Dépens à raison d’une indemnisation partielle
+[24] Comme l’a déclaré la juge Campbell dans la décision Zeller (Succession), « En général, le degré d’indemnisation que représentent les indemnités partielles varie entre 50 % et 75 % des dépens d’indemnisation substantielle ou taxés sur la base procureur-client […] » [13] .
+[25] Selon le paragraphe 147(3.5) des Règles, les « dépens indemnitaires substantiels », aux fins de l’application de l’article 147, correspondent à 80 % des dépens établis sur une base procureur-client.
+IV. OBSERVATIONS DES APPELANTS
+[26] L’avocat des appelants a soutenu qu’en raison des nombreux points qui avaient été réglés dans les jours précédant immédiatement l’audience, les appelants avaient essentiellement eu gain de cause en appel avant le début de l’audience. Comme le ministre avait fait des concessions sur des points représentant près de 90 % du montant global en litige, l’avocat des appelants a indiqué que les appelants devraient recevoir [traduction] « une indemnité très substantielle » pour les frais qu’ils ont engagés [14] .
+[27] L’avocat des appelants a indiqué que rien ne justifiait l’établissement, par l’Agence, de nouvelles cotisations à l’égard des années frappées de prescription. Les appelants ont mentionné que l’Agence avait terminé son audit et formulé ses conclusions durant la période normale de nouvelle cotisation, mais qu’elle n’avait établi les nouvelles cotisations qu’après l’expiration de cette période. Selon l’avocat des appelants, la bonne marche à suivre aurait été de demander des renonciations, au lieu d’alléguer qu’il y avait eu omission volontaire, négligence ou fraude de la part des appelants. Finalement, une semaine avant la date prévue pour le début de l’audience, l’intimée a reconnu que les appels concernant les années frappées de prescription devraient être accueillis. À ce moment-là, les appelants avaient largement terminé leur préparation en vue d’examiner les années frappées de prescription durant l’audience.
+[28] Dans ses observations, l’avocat des appelants a également indiqué qu’une documentation décrivant en détail les erreurs comptables de l’Agence avait été remise à l’intimée en janvier 2017. Bien que des offres de règlement aient été échangées en 2017, aucun règlement n’en a alors résulté. L’avocat des appelants a noté qu’en plus des concessions faites par l’intimée une semaine avant l’audience relativement aux années frappées de prescription, d’autres concessions ont été faites jusqu’au matin de l’audience. L’avocat des appelants alléguait que le travail de l’Agence avait été bâclé et que, jusqu’à peu de temps avant l’audience, l’intimée avait refusé d’envisager sérieusement un règlement possible dans l’espoir que les appelants capituleraient.
+V. OBSERVATIONS DE L’INTIMÉE
+[29] L’avocat de l’intimée a reconnu que les appelants avaient fait une offre en janvier 2017 en vue de régler les présents appels; cette offre prévoyait toutefois que l’intimée fasse des concessions sur toutes les questions en litige, sauf celles touchant les gains en capital, et, concernant les gains en capital, qu’elle accepte que le traitement des gains en capital s’applique aux ventes de biens immobiliers, alors que le traitement du revenu, lui, s’applique aux comptes de placement. L’intimée a soutenu que le ministre n’avait pu accepter cette offre, car elle allait au-delà des limites de ses compétences. L’intimée a également noté qu’elle avait par la suite présenté une offre de règlement qui respectait les paramètres de ses compétences, mais que cette offre avait été rejetée par les appelants.
+[30] L’intimée a reconnu que la vérificatrice de l’Agence avait commis quelques erreurs, mais ces erreurs étaient involontaires et de bonne foi et qu’il ne s’agissait pas de travail ou de pratiques comptables incomplets, peu rigoureux, bâclés ou non fondés.
+VI. DISCUSSION ET APPLICATION DES PRINCIPES
+A. Quantum
+[31] L’avocat des appelants a indiqué que les montants d’argent (excluant la TVH) facturés à ses clients, pour les services juridiques qu’il a rendus en lien avec la contestation des nouvelles cotisations, s’établissaient comme suit [15] :
+Le 29 décembre 2014
+4 453,04 $
+Le 8 décembre 2015
+2 467,90
+Le 30 décembre 2016
+5 476,60
+Le 22 décembre 2017
+10 492,52
+Le 27 décembre 2018
+18 832,31
+Total :
+41 722,37 $
+Les dépens avocat-client afférents aux étapes de l’audit, de l’opposition et de l’appel ont donc totalisé 41 722,37 $. Les appelants n’ont pas demandé de dépens avocat-client.
+B. Application du paragraphe 147(3.1)
+[32] Aucune partie n’a affirmé que l’offre de règlement faite par les appelants le 27 janvier 2017 constituait une offre répondant aux exigences énoncées au paragraphe 147(3.1) des Règles. Par conséquent, rien ne justifie l’adjudication de dépens indemnitaires substantiels en conformité avec le paragraphe 147(3.1).
+C. Préoccupations des appelants au sujet du travail et de la stratégie de l’Agence
+[33] Ainsi qu’il a été mentionné précédemment, certaines erreurs commises par l’Agence lors de son audit étaient manifestes, notamment celles où l’Agence a omis d’appliquer un traitement symétrique (par exemple, en convertissant en devise canadienne la valeur du passif mais non la valeur de l’actif, ou en considérant qu’un paiement Visa effectué en fin d’année avait réduit le passif de M. Duffy, mais non la valeur de son actif). Je ne considère pas que ces erreurs par inadvertance témoignent d’un travail médiocre ou bâclé; cependant, compte tenu de leur caractère évident, ces erreurs auraient dû être reconnues durant les négociations visant à parvenir à un règlement.
+[34] Mes commentaires dans les présents motifs ne doivent pas être interprétés comme une critique sévère à l’endroit de l’Agence ou de l’avocat de l’intimée [16] . Comme je l’ai mentionné précédemment, le défaut de l’Agence de reconnaître le passif au titre de l’impôt foncier des immeubles de la rue Pelham est sans doute attribuable au défaut de M. et Mme Duffy de fournir à l’Agence la documentation exigée en temps utile. La thèse de l’Agence a été retenue pour cinq des dix points en litige lors de l’audience. Je n’ai relevé aucun élément indiquant que l’Agence ou l’intimée avait adopté une stratégie visant à contrer les appels dans l’espoir que les appelants capituleraient [17] .
+D. Application du paragraphe 147(3)
+[35] Ainsi qu’il a été indiqué précédemment, le paragraphe 147(3) des Règles énonce divers facteurs que la Cour doit prendre en compte dans l’exercice de son pouvoir discrétionnaire en matière d’adjudication de dépens. Ces facteurs sont examinés ci-dessous.
+1) Résultat de l’instance
+[36] Les appelants ont réussi à contester suffisamment d’éléments de l’analyse de la valeur nette de l’Agence pour démontrer qu’ils n’ont pas omis de déclarer leur plein revenu. Cependant, ainsi qu’il a été indiqué précédemment, ils n’ont pas réussi à corroborer chacune des critiques qu’ils ont formulées à l’égard de cette analyse. Les appelants ont plus précisément été déboutés sur les questions désignées ci-dessus comme suit : compte Q-Trade – frais d’intérêt, obligation fiscale, dépenses engagées au Mexique, dépenses d’emploi remboursées et remboursement pour immeubles locatifs potentiel. Il ne faut toutefois pas perdre de vue le fait que les appelants ont réussi à invalider suffisamment d’éléments des cotisations fondées sur la valeur nette pour établir qu’ils n’avaient pas omis de déclarer leur plein revenu pour 2012, seule année en cause durant l’audience (les parties en étant arrivées à un règlement pour les autres années).
+2) Sommes en cause
+[37] D’après les actes de procédure, le montant global du revenu non déclaré et des dépenses non autorisées s’élevait à environ 541 000 $. Des pénalités ont aussi été imposées à l’égard du revenu non déclaré. À la suite du règlement partiel auquel les parties en sont arrivées avant l’audience, le montant global du revenu contesté par 121ON au début de l’audience était de 27 237,90 $, et il était de 13 618,90 $ à la fois pour M. et Mme Duffy.
+3) L’importance des questions en litige
+[38] Bien que les questions en litige dans les présents appels aient été importantes pour les parties, en particulier pour les appelants, leur règlement nécessitait une analyse fondée sur les faits des cotisations fondées sur la valeur nette. Le règlement des questions en litige dans les présents appels n’aura vraisemblablement qu’un intérêt limité pour le monde de la fiscalité ou des affaires, ou pour le public en général. En d’autres mots, bien que les questions en litige aient été importantes pour les parties personnellement, elles ne l’étaient pas nécessairement pour le public.
+4) Offres de règlement présentées par écrit
+[39] En 2017, une offre de règlement écrite et une contre-offre écrite ont été présentées, mais aucune n’a été acceptée. Plus précisément, dans une lettre datée du 27 janvier 2017, l’avocat des appelants a envoyé une offre de règlement écrite à l’avocat de l’intimée. La lettre n’était pas précisément qualifiée d’offre de règlement, mais elle était accompagnée d’un ensemble volumineux et structuré de documents qui, selon l’avocat des appelants, réfutaient les nouvelles cotisations établies sur tous les points, sauf sur [traduction] « les questions portant sur les différences entre les gains en capital et le revenu » [18] . Relativement à ce dernier point, l’avocat des appelants a proposé que l’intimée accepte que le traitement des gains en capital s’applique aux ventes de biens immobiliers, alors que les appelants accepteraient que les règles relatives au revenu s’appliquent aux comptes de placement.
+[40] Dans une lettre datée du 4 juillet 2017, l’avocat de l’intimée a présenté une contre-offre dont les détails n’ont pas à être exposés ici (cette contre-offre était très longue). Dans ses observations écrites relatives aux dépens, l’avocat de l’intimée a allégué que l’intimée n’était pas en mesure, en 2017, [traduction] « d’accepter l’offre de règlement des appelants, car elle n’était pas entièrement corroborée par les faits et le droit » [19] .
+[41] Comme nous l’avons mentionné précédemment, une semaine avant l’audience, l’intimée a reconnu que de nouvelles cotisations n’auraient pas dû être établies à l’égard des années frappées de prescription. La plupart des questions encore en litige ont été réglées durant les négociations qui ont eu lieu la veille de l’audience. La dernière concession de l’intimée a été faite quelques minutes seulement avant le début de l’audience [20] .
+[42] Il ne s’agit pas d’une situation où les appelants ont fait une offre de règlement « à prendre ou à laisser », bien que l’offre exposée dans la lettre datée du 27 janvier 2017 en provenance de l’avocat des appelants pourrait être considérée comme s’apparentant à une offre « à prendre ou à laisser ». J’accepte le commentaire de l’avocat de l’intimée lorsque celui-ci note qu’il n’était pas loisible à l’intimée d’accepter cette offre; cependant, l’Agence aurait peut-être dû utiliser cette offre comme une incitation à revoir les détails des cotisations fondées sur la valeur nette, ce qui aurait peut-être donné lieu à des concessions plus hâtives relativement aux années frappées de prescription et à un interrogatoire préalable sur le traitement comptable asymétrique [21] .
+[43] Une semaine avant le début de l’audience, le montant global du revenu en litige était d’environ 541 000 $, alors qu’au début de l’audience, le montant de revenu toujours en litige avait été révisé à la baisse, passant à 27 237,90 $ pour 121ON et à 13 618,90 $ à la fois pour M. et Mme Duffy, l’obligation fiscale des sociétés chevauchant les obligations fiscales des particuliers. Dans ce contexte, il m’est arrivé plus d’une fois durant l’audience de me demander pourquoi les parties n’avaient pas fait un peu plus d’efforts durant leurs négociations afin de régler toutes les questions en litige, plus particulièrement lorsque j’ai constaté que certaines questions en litige étaient liées aux pratiques comptables asymétriques et à d’autres erreurs dont le témoin de l’intimée a reconnu le caractère erroné durant son témoignage, que l’avocat de l’intimée n’a pas du tout contre-interrogé M. Duffy et que les appelants ont concédé, durant l’audience, la question relative au remboursement pour immeubles locatifs potentiel.
+[44] J’estime que le commentaire suivant extrait de la décision Fellowes, McNeil est pertinent :
+[traduction]
+[...] J’ai agi en tenant pour acquis que l’adjudication de dépens partie-partie est une question qui relève du pouvoir discrétionnaire du tribunal [...]
+Ce pouvoir discrétionnaire s’exerce en tenant compte des principes suivants. Premièrement, le principe d’indemnisation est un facteur prépondérant. Deuxièmement, les tribunaux doivent aborder la question d’une manière qui encourage le règlement de toutes les actions dès le début. Troisièmement, le tribunal doit dissuader quiconque d’intenter des actions et d’opposer des défenses frivoles. Quatrièmement, le tribunal doit dissuader les parties de prendre des mesures inutiles dans le litige [22] . [Non souligné dans l’original.]
+Dans la même optique, et renvoyant à la décision Fellowes, McNeil, la Cour d’appel de l’Ontario a déclaré ce qui suit :
+[traduction]
+Dans le passé, dans notre système qui utilise la règle du « perdant payeur », l’adjudication des dépens avait pour but d’indemniser partiellement ou, dans quelques circonstances restreintes, entièrement la partie ayant eu gain de cause des frais juridiques que celle-ci avait payés. Cependant, on en est venu récemment à reconnaître les dépens comme un outil important dont dispose le tribunal pour influencer la conduite des parties et pour éviter l’abus de la procédure judiciaire. Plus précisément, les trois autres objectifs reconnus de l’adjudication des dépens sont les suivants : encourager le règlement de l’affaire, dissuader les parties d’intenter des actions et d’opposer des défenses frivoles, et dissuader les parties de prendre des mesures inutiles qui prolongent indûment le litige [23] . [Non souligné dans l’original.]
+5) Charge de travail
+[45] Je ne considère pas que la somme de travail réalisée par les avocats des appelants ou de l’intimée est supérieure à ce qui serait requis dans un litige portant sur de nouvelles cotisations basées sur une analyse de la valeur nette. Je note toutefois que l’avocat des appelants a consacré beaucoup de temps à préparer la contestation, lors de l’audience, des cotisations établies à l’égard des années d’imposition frappées de prescription; or, cette préparation s’est finalement avérée inutile, puisque l’intimée a concédé les questions en litige portant sur ces années d’imposition une semaine avant l’audience.
+[46] Je prends également en considération les dépenses de 13 500 $ engagées par les appelants pour retenir les services d’un expert, bien que, là encore, l’expert n’ait pas eu à témoigner en raison des concessions qui ont été faites et des questions en litige qui ont été réglées avant le début de l’audience. Il a été établi que, pour déterminer le montant des dépens, l’un des facteurs que la Cour peut prendre en compte est la nécessité de consulter un expert, même si au final celui-ci n’est pas appelé à témoigner [24] .
+6) Complexité des questions en litige
+[47] Les présents appels découlent d’une analyse de la valeur nette. Les questions en litige étaient des questions de fait qui n’étaient pas particulièrement complexes.
+7) Conduite d’une partie ayant abrégé ou prolongé la durée de l’instance
+[48] Il convient de féliciter les deux parties pour les négociations qui ont eu lieu la veille de l’audience et pour le règlement de la plupart des questions en litige avant le début de l’audience. Il y a toutefois une question que je me pose depuis le début de l’audience : si les parties ont réussi à régler la presque totalité des questions en litige, pourquoi n’ont-elles pas fait un dernier petit effort afin de régler les appels dans leur intégralité? Je n’ai reçu aucune indication précise permettant de déterminer si l’incapacité de régler toutes les questions en litige est imputable principalement à l’une ou l’autre partie en particulier. Cependant, étant donné que certaines erreurs comptables de l’Agence résultaient d’un traitement comptable asymétrique et que M. Duffy n’a pas été contre-interrogé pour contester la thèse des appelants, il me semble que l’incapacité de négocier un règlement complet incombe principalement à l’intimée.
+8) Omission de faire des aveux
+[49] Je ne suis au courant d’aucune dénégation de faits par l’une ou l’autre partie, d’aucune négligence ni d’aucun refus de leur part d’admettre des faits qui auraient dû être admis. Ainsi qu’il a été mentionné précédemment, chaque partie a fait d’importantes concessions, bien que j’estime que l’intimée aurait dû faire d’autres concessions (susmentionnées) et que les appelants auraient dû céder sur la question du remboursement pour immeubles locatifs potentiel (un point qu’ils ont concédé durant l’audience), durant les négociations en vue de parvenir à un règlement.
+9) Étapes inappropriées, vexatoires, inutiles ou accomplies avec trop de circonspection
+[50] Aucun élément de preuve ni aucun renseignement ne me permet de croire que l’une ou l’autre partie a, au cours de l’instance, pris des mesures inappropriées, vexatoires ou inutiles ou les a accomplies de manière négligente, par erreur ou avec trop de circonspection.
+10) Autres questions pertinentes
+[51] Je n’ai été informé d’aucune autre question pertinente ni d’aucun autre facteur pertinent.
+E. Tarif B
+[52] Ainsi qu’il a été expliqué précédemment, la jurisprudence a évolué au point qu’un plaideur n’a plus à prouver une inconduite ou un retard injustifié de la part de l’autre plaideur pour obtenir gain de cause et se voir adjuger des dépens supérieurs à ceux calculés en conformité avec le tarif. Après avoir pris en compte les facteurs énoncés au paragraphe 147(3) des Règles, notamment le résultat de l’instance (c.-à-d. les appelants ont établi qu’il n’y avait eu aucune omission de déclarer un revenu), et le fait qu’il est souhaitable de favoriser un règlement à un stade précoce de l’instance, je suis d’avis qu’il ne s’agit pas, en l’espèce, d’un cas où les dépens devraient se limiter à ceux prévus au tarif, même si, en formulant cette observation, il convient de mentionner qu’aucune partie ne m’a fourni quelque indication quant aux dépens qui devraient être adjugés s’ils étaient calculés conformément au tarif.
+F. Frais préalables à l’appel
+[53] Ainsi qu’il est indiqué au tableau présenté au paragraphe 31 précité, l’avocat des appelants a facturé ses services à ses clients sur une base annuelle, sur une période de cinq ans, le 29 décembre 2014, le 8 décembre 2015, le 30 décembre 2016, le 22 décembre 2017 et le 27 décembre 2018, respectivement. Les avis d’appel ont été déposés le 2 mai 2016. Je présume donc que les factures datées du 29 décembre 2014 et du 8 décembre 2015 portaient sur des services offerts par l’avocat durant les phases de l’audit et de l’opposition, et que les factures datées du 30 décembre 2016, du 22 décembre 2017 et du 27 décembre 2018 portaient sur des services liés à la rédaction des avis d’appel et au déroulement des appels.
+[54] Ainsi qu’il a été indiqué précédemment, sauf dans des circonstances exceptionnelles, des dépens ne sont habituellement pas adjugés relativement à des dépenses engagées avant le début de l’instance (ce qui inclut la rédaction de l’avis ou des avis d’appel exigés) [25] . Or, je n’ai été informé d’aucune circonstance exceptionnelle relativement à ces appels qui justifierait l’adjudication de dépens pour des services juridiques offerts avant la rédaction des avis d’appel et le début des appels. Par conséquent, les honoraires d’avocat et les débours dont j’ai tenu compte sont ceux qui ont été facturés en décembre 2016, 2017 et 2018, lesquels totalisent 34 801,43 $.
+G. Dépens à raison d’une indemnisation partielle
+[55] Attendu que :
+a) les appelants ont réussi à démontrer qu’ils n’ont omis de déclarer aucun revenu;
+b) le résultat des appels est presque identique au résultat qui aurait été obtenu si l’offre de règlement exposée dans la lettre du 27 janvier 2017 avait été acceptée;
+c) l’intimée a fait une concession portant sur les années frappées de prescription une semaine seulement avant l’audience, et, durant les négociations tenues la veille de l’audience en vue de parvenir à un règlement, a maintenu ses thèses relativement à certaines questions liées au traitement comptable asymétrique bien que, durant l’audience, il a été établi que ces pratiques étaient erronées, de sorte que les appelants et leur avocat ont dû consacrer plus de temps pour se préparer à examiner ces questions durant l’audience;
+d) des dépenses considérables ont été engagées pour retenir les services d’un expert (lequel, à la suite du règlement d’un grand nombre de questions en litige, n’a finalement pas eu à témoigner);
+je suis d’avis que des dépens à raison d’une indemnisation partielle doivent être alloués aux appelants. Les facteurs susmentionnés ne justifient toutefois pas l’adjudication de dépens indemnitaires substantiels.
+[56] Ainsi qu’il est indiqué au paragraphe 147(3.5) des Règles, les dépens indemnitaires substantiels correspondent à 80 % des dépens procureur-client réellement engagés. En l’espèce, les dépens procureur-client engagés pour les services juridiques rendus relativement aux appels (mais non aux audits ou aux oppositions) s’élèvent à 34 801,43 $. Par conséquent, les dépens indemnitaires substantiels se chiffreraient à 27 841,14 $ (soit 80 % de 34 801,43 $). Comme le paragraphe 147(3.1) des Règles ne s’applique pas, et comme il faut reconnaître que l’intimée a accepté de concéder la question portant sur les années frappées de prescription (même si cela ne s’est fait qu’une semaine seulement avant l’audience) ainsi que de négocier et de régler un grand nombre (mais non la totalité) des autres questions en litige peu avant le début de l’audience, j’ai décidé d’allouer des dépens à raison d’une indemnisation partielle de 18 000 $, ce qui correspond à environ 52 % des dépens procureur-client ou 65 % des dépens indemnitaires substantiels. Ce montant de dépens se situe tout à fait à l’intérieur de la fourchette définie dans la décision Zeller (Succession) [26] .
+[57] J’ai également décidé d’adjuger des dépens de 7 000 $ relativement aux dépenses de 13 500 $ (excluant la TVH) engagées par les appelants pour la préparation d’un rapport d’expert.
+VII. CONCLUSION
+[58] Pour les motifs précités, des dépens globaux de 25 000 $ (c.-à-d. 18 000 $ + 7 000 $) sont adjugés en faveur des appelants.
+Signé à Ottawa, Canada, ce 11e jour de décembre 2020.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 17e jour de juillet 2021.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2020 CCI 135
+Nos DES DOSSIERS DE LA COUR :
+2016-1697(IT)G, 2016-1703(IT)G,
+2016-1705(IT)G
+INTITULÉ :
+MICHAEL DUFFY, PAMELA DUFFY et 1218769 ONTARIO INC. c. SA MAJESTÉ LA REINE
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS :
+L’honorable juge Don R. Sommerfeldt
+DATE DE L’ORDONNANCE :
+Le 11 décembre 2020
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Sullivan Mahoney LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supplément), dans sa version modifiée.
+[2] L’audience n’a pas ciblé tout particulièrement l’année d’imposition 2011 de M. Duffy et de Mme Duffy.
+[3] Colombie-Britannique (Ministre des Forêts) c. Bande indienne Okanagan, [2003] 3 R.C.S. 371, 2003 CSC 71, par. 19 et 22; Canada c. Lau, 2004 CAF 10, par. 5; et Velcro Canada Inc. c. La Reine, 2012 CCI 273, par. 8.
+[4] CIBC World Markets Inc. v. The Queen, 2019 TCC 201, par. 9.
+[5] Arrêt Lau, note 3 précitée, par. 5; Canada c. Landry, 2010 CAF 135, par. 22 et 54; et décision CIBC World Markets, ibid., par. 10.
+[6] Boucher v. Public Accountants Council for the Province of Ontario, (2004) 71 OR (3d) 291 (ONCA), par. 24; décision Velcro Canada, note 3 précitée, par. 6 et 8 à 10; et décision CIBC World Markets, note 4 précitée, par. 11.
+[7] Ford du Canada Limitée c. La Reine, 2015 CCI 185, sous-par. 7(4) et par. 25. Voir les décisions citées dans la note de bas de page 7 de la décision Ford du Canada Limitée.
+[8] Décision Velcro Canada, note 3 précitée, par. 3 à 21; Spruce Credit Union c. La Reine, 2014 CCI 42, par. 6, 24 à 27 et 56; et Repsol Canada Ltd. c. La Reine, 2015 CCI 154, par. 12.
+[9] Voir, par exemple, Continental Bank of Canada c. Canada, [1994] ACI no 863, par. 10; 94 DTC 1858 (CCI).
+[10] Blackburn Radio Inc. c. La Reine, 2013 CCI 98, par. 14 et 15. Voir aussi Teelucksing v. The Queen, 2011 TCC 253, par. 2; et Daishowa-Marubeni International Ltd. c. La Reine, 2013 CCI 275, par. 4.
+[11] Observations sur les dépens des appelants, le 31 mai 2019, p. 4.
+[12] Canada c. Landry, 2010 CAF 135, par. 24 et 34; Canada c. Martin, 2015 CAF 95, par. 18 à 22; Aon Inc. c. La Reine, 2018 CCI 111, par. 30; et Jayco, Inc. v. The Queen, 2018 TCC 239, par. 57.
+[13] Zeller (Succession) c. La Reine, 2009 CCI 135, par. 9; citant Mark Orkin, The Law of Costs, 2e éd. (Aurora : Canada Law Book, 2008), vol. 1, p. 2 et 3. Voir aussi Dickie c. La Reine, 2012 CCI 327, par. 27; confirmé par 2014 CAF 40, par. 6; Spruce Credit Union, note 8 précitée, par. 29 et 30; et décision Ford du Canada Limitée, note 7 précitée, sous-par. 7(7) et par. 23.
+[14] Observations des appelants, note 11 précitée, p. 1.
+[15] Observations des appelants, note 11 précitée, p. 4.
+[16] Dans les observations des appelants, note 11 précitée, p. 3, al. g), l’avocat des appelants, après avoir exprimé sa frustration face à l’hésitation du ministre à reconnaître les erreurs comptables ou à faire des concessions jusqu’à peu de temps avant l’audience, a déclaré, [traduction] « Je tiens à souligner que je ne blâme pas [l’avocat de l’intimée] qui a toujours fait preuve de courtoisie et de collégialité durant nos négociations. Je comprends qu’il doit suivre les directives de son client [...]. J’estime qu’il incombait à son client de porter davantage attention aux erreurs comptables qu’il avait commises. »
+[17] Il est bien possible que la capitulation espérée des appelants ait fait partie de la stratégie de l’intimée. Cependant, si tel était le cas, cette stratégie n’était pas évidente à mes yeux.
+[18] Lettre datée du 27 janvier 2017, jointe aux observations des appelants, note 11 précitée, p. 2, cinquième paragraphe.
+[19] Observations écrites de l’intimée, le 19 juin 2019, p. 12, par. 21.
+[20] Observations des appelants, note 11 précitée, p. 3, al. f).
+[21] Voir la décision O’Dwyer c. La Reine, 2014 CCI 90, par. 19.
+[22] Fellowes, McNeil v. Kansa General International Insurance Co. Ltd. (1997), 37 OR (3d) 464, à la page 467 (Cour de l’Ontario [Division générale]). Voir aussi la page 472 de cette décision.
+[23] 1465778 Ontario Inc. et al. v. 1122077 Ontario Ltd. et al., (2006) 82 OR (3d) 757, par. 26 (ONCA), cité dans la décision ACSIS EHR (Electronic Health Record) Inc. c. La Reine, 2016 CCI 50, par. 6.
+[24] Décision Repsol, note 8 précitée, sous-al. 13e).
+[25] Voir le paragraphe 23 précité et les affaires citées dans la note de bas de page 12 précitée.
+[26] Décision Zeller (Succession), note 13 précitée, par. 9.

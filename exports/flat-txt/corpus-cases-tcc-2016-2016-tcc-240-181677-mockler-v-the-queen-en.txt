@@ -1,0 +1,164 @@
+Title: Mockler v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181677/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-240-181677-mockler-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-10-26
+
+# Mockler v. The Queen
+
+- Citation: 2016 TCC 240
+- Decision date: 2016-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2987, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mockler v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-26
+Neutral citation
+2016 TCC 240
+File numbers
+2016-3589(IT)APP
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3589(IT)APP
+BETWEEN:
+ALLISON J. MOCKLER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on October 18, 2016, at Fredericton, New Brunswick
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Stan McDonald
+JUDGMENT
+WHEREAS the Applicant had filed an application for an extension of time to file a Notice of Objection for his 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 and 2008 taxation years;
+AND WHEREAS on November 30, 2015 and May 11, 2016, the Minister issued a Notice of Determination which informed the Applicant that he was eligible for the Disability Tax Credit for 2005 and future taxation years which makes an appeal for these years unnecessary;
+AND WHEREAS the application for the remaining taxation years was filed too late and this Court does not have the jurisdiction to extend the time for the Applicant to file a Notice of Objection for these years;
+THEREFORE the application for an extension of time to file a Notice of Objection for the Applicant’s 1997, 1998, 1999, 2000, 2001, 2002, 2003 and 2004 taxation years is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC240
+Date: 20161026
+Docket: 2016-3589(IT)APP
+BETWEEN:
+ALLISON J. MOCKLER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] Mr. Mockler applies for an order granting him an extension of time to file notices of objection for the 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007 and 2008 taxation years. His application was filed on September 2, 2016.
+[2] The Minister of National Revenue (the “Minister”) has opposed this application on the basis that it was filed with this Court beyond the time period allowed by the Income Tax Act (“ITA”) to grant an extension of time to object to an assessment or reassessment, as the case may be. In support of her position, the Minister filed the affidavit of Bruno Kambwa, a Litigation Officer with the Canada Revenue Agency in the Montreal Tax Services Office.
+[3] It appears from Mr. Kambwa’s affidavit and the materials submitted by Mr. Mockler that this application should be for the 1997 to 2004 taxation years only.
+[4] The substance of the dispute between Mr. Mockler and the Minister involves the disability tax credit (“DTC”). Mr. Mockler was advised on April 1, 2009 that he was eligible to receive the DTC for 2007 and future years. He then requested that his 1997 to 2008 taxation years be reassessed to allow his claim for the DTC. Attached to this letter were T1 Adjustment Requests for each year. He also requested that the disability amount for his spouse for the 1997 to 2006 taxation years be transferred to him.
+[5] By letter dated July 16, 2009, the Minister agreed to adjust Mr. Mockler’s 2007 and 2008 income tax returns to allow the DTC for himself only. The Minister found that Mr. Mockler was not entitled to the DTC for the 1997 to 2006 years because according to the DTC Certificate filed by Mr. Mockler, his disability originated in 2007.
+[6] It does not appear that Mr. Mockler wrote to the Minister again concerning his entitlement to the DTC until 2015.
+[7] In July 2015, Mr. Mockler requested a review of his claim for the DTC. He stated that the DTC Certificate was in error and that his disability actually started earlier. On November 30, 2015 and May 11, 2016, the Minister issued a Notice of Determination which informed Mr. Mockler that he was eligible for the DTC for 2005 and future taxation years.
+[8] As a result of this correspondence, I have concluded that this application for extension of time to file a notice of objection is for the 1997 to 2004 years only.
+[9] Mr. Mockler was informed by the Minister by letter dated August 10, 2016 that his notice of objection for the 1997 to 2004 taxation years was not filed within the 90 days of the mailing date on the notices of (re)assessments and that an extension of time to file a notice of objection could not be granted as it was filed outside the time allowed by paragraph 166.1(7)(a) of the ITA.
+[10] The time limits for Mr. Mockler’s 1997 to 2004 taxation years are:
+Taxation Year
+Date of (re)assessment
+Time Limit to file a notice of objection
+Time Limit to apply for an extension of time
+1997
+December 6, 1999
+March 5, 2000
+March 5, 2001
+1998
+December 29, 1999
+April 30, 2000
+April 30, 2001
+1999
+October 12, 2010
+January 10, 2011
+January 10, 2012
+2000
+February 22, 2002
+May 23, 2002
+May 23, 2003
+2001
+April 11, 2002
+April 30, 2003
+April 30, 2004
+2002
+March 31, 2003
+April 30, 2004
+April 30, 2005
+2003
+December 29, 2004
+April 30, 2005
+April 30, 2006
+2004
+March 6, 2006
+June 4, 2006
+June 4, 2007
+[11] The relevant provisions of the ITA are sections 165 and 166.2. They provide:
+165 (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+• (a) if the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a graduated rate estate for the year, on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+o (ii) the day that is 90 days after the day of sending of the notice of assessment; and
+• (b) in any other case, on or before the day that is 90 days after the day of sending of the notice of assessment.
+166.2 (1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+• (a) the Minister has refused the application, or
+• (b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+When application to be granted
+(5) No application shall be granted under this section unless
+• (a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be;
+[12] Together these provisions provide that no application for extension of time can be granted unless the application is made within one year of the time limit for serving a notice of objection. The time limits in the ITA are strict and this Court cannot alter them. This was confirmed by the Federal Court of Appeal in Canada v Carlson, 2002 FCA 145 where Nadon, J.A. stated:
+As this Court has held on numerous occasions, when a taxpayer is unable to meet the deadline prescribed by the Act, even by reason of a failure of the postal system, neither the Minister nor the TCC can come to his help. (See Schafer v. R., [2000] F.C.J. No. 1480 (Fed. C.A.) ; Bowen v. Minister of National Revenue (1991), [1992] 1 F.C. 311 (Fed. C.A.) ). Hence, if a postal failure cannot save a taxpayer, he will not be saved by his failure to grasp the significance of a notice of assessment served on him.
+[13] For each of the years 1997 to 2004, the time limit to grant an extension of time to file a notice of objection has expired. This Court does not have the jurisdiction to grant this application and it is dismissed.
+[14] At the hearing, Mr. Mockler thought that the issue before the Court was his eligibility for the DTC for the 1997 to 2004 taxation years. Although I explained the issue and the procedure, I am not sure that he could hear me as his disability relates to his inability to hear.
+[15] The following paragraphs are an attempt to explain to Mr. Mockler the reason given by the Minister for not reviewing his eligibility for the DTC for 1997 to 2004.
+[16] In the Notices of Determination, the Minister included the following paragraph:
+Only requests for tax years ending in any of the 10 calendar years before the year you make the request can be considered. For example, a request made in 2015 will be accepted only for 2005 and later years.
+[17] Mr. Mockler stated that his first request for a review of his eligibility for the DTC was made in May 2009. Therefore, the ten calendar years before his request are 1997 to 2008 and his eligibility for the DTC should be reviewed for these years.
+[18] However, according to the documents submitted to me, at the time of his request in 2009, the only medical information before the Minister indicated that Mr. Mockler’s disability originated in 2007. It appears that Mr. Mockler did not question his eligibility for the DTC again until July 20, 2015. He submitted further information concerning his disability and his eligibility was re-determined in November 30, 2015 and May 11, 2016. Therefore the ten year period for a review was ten years prior to 2015.
+[19] The application for extension of time to file notices of objection for the 1997 to 2004 taxation years is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC240
+COURT FILE NO.:
+2016-3589(IT)APP
+STYLE OF CAUSE:
+ALLISON J. MOCKLER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Fredericton, New Brunswick
+DATE OF HEARING:
+October 18, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+October 26, 2016
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Stan McDonald
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

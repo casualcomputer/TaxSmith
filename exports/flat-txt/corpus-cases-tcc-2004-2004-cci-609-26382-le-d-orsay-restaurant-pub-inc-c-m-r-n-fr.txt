@@ -1,0 +1,160 @@
+Title: Le D'Orsay Restaurant Pub Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26382/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-609-26382-le-d-orsay-restaurant-pub-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-09-13
+
+# Le D'Orsay Restaurant Pub Inc. c. M.R.N.
+
+- Citation: 2004 CCI 609
+- Decision date: 2004-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3359, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le D'Orsay Restaurant Pub Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-13
+Référence neutre
+2004 CCI 609
+Numéro de dossier
+2004-1839(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1839(EI)
+ENTRE :
+LE D'ORSAY RESTAURANT PUB INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+MARIE-FRANCE LEGAULT,
+intervenante.
+____________________________________________________________________
+Appel entendu le 27 août 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Pour l'intervenante :
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli au motif que le travail exécuté par l'intervenante lors de la période en litige est exclus des emplois assurables, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI609
+Date : 20040913
+Dossier : 2004-1839(EI)
+ENTRE :
+LE D'ORSAY RESTAURANT PUB INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+MARIE-FRANCE LEGAULT,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une détermination en vertu de laquelle l'intimé a décidé que le travail effectué par Marie-France Legault lors de la période allant du 1er janvier 2002 au 16 mai 2003 pour le compte de l'appelante et pour son bénéfice satisfaisait aux exigences d'un contrat de louage de services, et cela, malgré le lien de dépendance qui existait entre les parties.
+[2] Pour justifier et expliquer sa détermination, l'intimé s'est appuyé sur les hypothèses de fait suivantes :
+5. a) l'appelante a été constituée en société le 31 juillet 1979;
+b) l'appelante exploitait un restaurant-bar;
+c) l'entreprise de l'appelante était exploitée tous les jours de 11h00 à 3h00 du matin;
+d) l'appelante embauchait 40 employés en période hivernale et 100 employés en période estivale;
+e) en 2002, l'appelante avait un chiffre d'affaires de 2 285 921 $;
+f) la travailleuse avait été embauché comme adjointe administrative;
+g) les tâches de la travailleuse consistaient à effectuer la comptabilité de l'appelante, soit la tenue des livres, les paies, les dépôts bancaires, les états financiers, à gérer l'équipement informatique et à s'occuper des ressources humaines, soit le recrutement et la formation du personnel;
+h) la travailleuse avait un horaire de travail flexible;
+i) la travailleuse était inscrite à raison de 80 heures par deux semaines au registre des salaires de l'appelante;
+j) la travailleuse travaillait majoritairement dans les locaux de l'appelante et parfois à sa résidence pour la comptabilité;
+k) l'ordinateur à sa résidence était fourni par l'appelante;
+l) la travailleuse suivait les directives de Marcel Veuilleux dans l'exécution de ses tâches;
+m) l'appelante avait le pouvoir de contrôler le travail de la travailleuse;
+n) la travailleuse était rémunérée 1 000,00 $ par semaine;
+o) la travailleuse était rémunérée par dépôt direct à toutes les deux semaines;
+p) tout le matériel et l'équipement dont se servait la travailleuse appartenaient à l'appelante;
+q) la travailleuse n'avait aucun intérêt financier personnel dans l'entreprise et n'assumait aucun risque financier;
+r) la travailleuse n'avait aucun risque financier à encourir dans l'exercice de ses fonctions;
+s) les tâches de la travailleuse étaient intégrées aux activités de l'appelante;
+6. La travailleuse et l'appelante sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) l'actionnaire unique de l'appelante était Marcel Veuilleux;
+b) la travailleuse est la conjointe de Marcel Veuilleux;
+c) la travailleuse est liée à Marcel Veuilleux qui contrôle l'appelante.
+7. Le ministre a déterminé aussi que la travailleuse et l'appelante étaient réputées ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que la travailleuse et l'appelante auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien dépendance, compte tenu des circonstances suivantes :
+a) la travailleuse a toujours été payée;
+b) la rémunération versée à la travailleuse était raisonnable compte tenu des tâches accomplies et de son niveau de responsabilité dans l'entreprise;
+c) les heures de travail de la travailleuse étaient régulières et non exagérées;
+d) les modalités de l'emploi de la travailleuse étaient raisonnables;
+e) la travailleuse travaillait sans arrêt de travail pour l'appelante;
+f) le travail de la travailleuse coïncidait avec les besoins de l'appelante;
+g) la durée de l'emploi de la travailleuse était raisonnable;
+h) le travail de la travailleuse était essentiel à la bonne marche de l'entreprise de l'appelante;
+i) le travail accompli par la travailleuse était important pour l'entreprise de l'appelante;
+j) la nature et l'importance du travail de la travailleuse étaient raisonnables.
+[3] Tous les faits furent admis, à l'exception des paragraphes 5j), 5l) 7c), 7d), 7e), 7f), 7j), qui furent niés; l'appelante n'avait aucune connaissance au sujet des hypothèses énoncées au paragraphe 7g).
+[4] L'intimé a énoncé plusieurs faits; un grand nombre de ces faits sont formulés au moyen d'un vocabulaire passe-partout. La preuve soumise par l'appelante et l'intervenante a, par contre, ciblé les aspects véritablement importants et pertinents pour déterminer si le lien de dépendance existant a influencé ou non le contrat de travail litigieux.
+[5] L'intervenante et son conjoint ont témoigné. L'intimé n'a pas appelé de témoin. La preuve a démontré que l'intervenante avait joui lors de la période en litige de la majorité des droits et des privilèges normalement réservés au propriétaire d'une entreprise.
+[6] Alors que les autres employés de l'entreprise bénéficiaient des congés payés prévus par la Loi ou habituels, soit l'équivalent de 4 pour cent minimum jusqu'à 6 pour cent du salaire selon l'ancienneté, l'appelante bénéficiait de congés payés équivalant à huit semaines de vacances par année, soit plus ou moins 16 pour cent de son salaire.
+[7] Elle était responsable de l'embauche, de la formation et du congédiement de la plupart des employés de l'entreprise.
+[8] Elle pouvait s'absenter à tout moment et planifier son travail en fonction de ses préoccupations familiales et personnelles et cela, à sa guise et à sa convenance et sans avoir à demander quelque permission que ce soit.
+[9] Alors que les absences pour cause de maladie de tous les employés devaient être justifiées au moyen d'un certificat médical, l'intervenante n'avait pas à justifier ou à motiver ses absences pour des raisons médicales ou pour toute autre raison.
+[10] Lors d'absences, les employés voyaient leur salaire amputé de la portion équivalant à la durée de l'absence. L'intervenante, quant à elle, recevait le même salaire peu importe les heures de travail ou la durée de l'absence.
+[11] À un certain moment, l'intervenante a bénéficié d'une augmentation de salaire de 17 000 $ justifiée par l'amélioration du niveau de vie étant donné que les affaires étaient florissantes. Le salaire des autres employés était fonction de leur expérience et de leur compétence. Il n'était aucunement établi en fonction de la prospérité du commerce ou de ses profits.
+[12] Bénéficiant de la totale confiance de son conjoint, propriétaire de l'entreprise, l'intervenante jouissait d'un statut comparable à celui qu'elle aurait eu si elle avait été co-propriétaire de l'entreprise.
+[13] Conclure, comme l'a fait l'intimé, que le travail exécuté par l'intervenante était comparable à celui qu'aurait pu et dû effectuer une personne sans lien de dépendance est tout simplement déraisonnable et tout à fait sans fondement.
+[14] Il s'agit d'un dossier où l'analyse a, sans doute, été façonnée par une préoccupation qui n'avait strictement rien à voir avec les faits, le seul objectif étant de conclure de manière à percevoir des cotisations d'assurance-emploi.
+[15] Il est étonnant de constater dans certains dossiers, dont celui-ci, comment certains analystes peuvent conclure de façons totalement contradictoires et cela, à partir sensiblement des mêmes faits.
+[16] En l'espèce, si l'appelante avait demandé des prestations d'assurance-emploi, je suis convaincu que la détermination aurait été que le travail devait être exclu à cause du lien de dépendance. Une telle conclusion aurait d'ailleurs été appropriée.
+[17] La détermination relative à la nature d'un contrat de travail n'a strictement rien à voir avec les cotisations ou le droit à des prestations.
+[18] L'obligation de payer des cotisations et le droit de recevoir des prestations découlent de la nature du contrat de travail; ils ne doivent jamais contribuer à définir la nature de la relation juridique. Certains analystes semblent profondément influencés par l'un ou l'autre de ces droits ou de ces devoirs lorsqu'ils analysent les faits d'un tel dossier.
+[19] En l'espèce, les faits disponibles et pertinents ne justifiaient aucunement la détermination, à l'effet qu'un tiers aurait pu bénéficier d'un contrat de travail à peu près semblable à celui de l'intervenante.
+[20] La prépondérance de la preuve est à l'effet que le travail exécuté par l'intervenante pour le compte et au bénéfice de l'appelante n'était en rien semblable ou comparable à celui qu'exécutaient les autres employés ou à celui qu'aurait dû ou pu exécuter une personne responsable du même travail d'administration. Les conditions de travail de l'intervenante étaient beaucoup plus comparables à celles d'un propriétaire ou co-propriétaire d'une entreprise qu'à celles d'un employé.
+[21] Le travail de l'intervenante étant assujetti aux dispositions prévues à l'alinéa 5(2)i) de la Loi sur l'assurance-emploi, il doit donc être exclu des emplois assurable d'où l'appel est accueilli.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI609
+No DU DOSSIER DE LA COUR :
+2004-1839(EI)
+INTITULÉ DE LA CAUSE :
+Le D'Orsay Restaurant Pub Inc.
+c. Le ministre du Revenu national et Marie-France Legault
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 27 août 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 13 septembre 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,123 @@
+---
+title: "Durand v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67280/index.do"
+last_modified: "2014-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 81"
+citation2: ""
+neutral_citation: "2014 TCC 81"
+decision_date: "2014-03-14"
+language: "en"
+item_id: "67280"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5311
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:54:08.451000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b923313e5824ca397182208b8c5e8357c445aa5759b09d1c926b5d1faa05babb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Durand v. M.N.R.
+
+- Citation: 2014 TCC 81
+- Decision date: 2014-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5311, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Durand v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-14
+Neutral citation
+2014 TCC 81
+File numbers
+2012-2834(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2014 TCC 81
+Date: 20140314
+Docket: 2012-2834(EI)
+BETWEEN:
+SYLVAIN DURAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal called for hearing on March 10, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+No one appeared
+Counsel for the respondent:
+Ilinca Ghibu
+____________________________________________________________________
+JUDGMENT AND REASONS FOR JUDGMENT
+Jorré J.
+[1] Despite the fact that the appellant was duly notified of the time and place of the appeal hearing, the appellant was not present when the case was called at the beginning of the hearing on Monday, March 10, 2014, and was still not present at 10:30 a.m.
+[2] No one appeared for the appellant, and the respondent filed a motion to dismiss the appeal for want of prosecution.
+[3] As Justice Woods wrote in North Shore Footwear Ltd. v. M.N.R.,[1] "[a]n appellant should be prepared to proceed with the appeal on the date scheduled for the hearing".
+[4] I would add that an appellant who claims to be unable to proceed on a scheduled hearing date, for whatever reason, must apply for an adjournment as soon as possible.
+[5] A notice of hearing was sent to the appellant by registered mail in September 2013 and was returned by the post office.
+[6] The notes in the Court's electronic file show that the registrar had a telephone conversation with the appellant on September 18, 2013, and was given a new address for the appellant.
+[7] The notice of hearing was resent by standard mail in September 2013, more than four months before the hearing date.
+[8] The Court had no word from the appellant between the day the notice of hearing was sent and the day of the hearing.
+[9] At the hearing, counsel for the respondent stated that two weeks before the hearing, she had tried to contact the appellant in a number of different ways, but the only answer she received was a message left on her assistant's voicemail box on Friday, March 7, 2014. Since counsel and her assistant were not in the office that day, she only found out about the message the morning of the trial.
+[10] In that message, the appellant said that he would be unable to attend the hearing because, among other reasons, he did not have a driver's licence.
+[11] In this case, the appellant did not apply to the Court for a postponement, and the circumstances of which I am aware do not suggest that there is any justification for the absence of the appellant, who had four months' notice of the hearing.
+[12] For these reasons, the appeal is dismissed, and the decision that the Minister of National Revenue rendered on June 1, 2012, pursuant to the Employment Insurance Act is affirmed.
+[13] However, I would note that if the appellant has a reasonable explanation for his failure to pursue his appeal in a timely manner, he may file a motion have this decision set aside pursuant to the inherent jurisdiction of this Court.[2]
+[14] If the appellant were to file such a motion, he would have to explain not only why he failed to appear for the hearing, but also why he did not seek a postponement well before the hearing was held.
+Signed at Montréal, Quebec, this 14th day of March 2014.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 28th day of April 2014
+Michael Palles, Translator
+CITATION: 2014 TCC 81
+COURT FILE NO.: 2012-2834(EI)
+STYLE OF CAUSE: SYLVAIN DURAND v. M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 10, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: March 14, 2014
+APPEARANCES:
+For the appellant:
+No one appeared
+Counsel for the respondent:
+Ilinca Ghibu
+SOLICITORS OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] 2011 TCC 210, paragraph 6.
+[2] See paragraph 8 of the decision of Justice Woods in North Shore Footwear; the decision of Associate Chief Justice Bowman, as he then was, in Farrow v. The Queen, 2003 TCC 885; and paragraph 8 of the order of Justice Lamarre in Speciale v. The Queen, 2012 TCC 236. Although such authority is often derived from a court's statute or rules, it is generally recognized that the inherent powers of a court allow it to set aside a default judgment when there is sufficient justification for the absence of a party. See, for example, in a completely different field from taxation, the fifth paragraph from the end of Gubbins v. Stewart, 1982 CanLII 1945 (ON SC). I note that there would be no need to answer this question if subsection 18.21(3) of the Tax Court of Canada Act applied to employment insurance appeals, but it does not—see section 18.29 of the Act; moreover, the rules of this Court regarding employment insurance contain no provisions comparable to subsection 18.21(3) or to subsection 140(2) of the Tax Court of Canada Rules (General Procedure).

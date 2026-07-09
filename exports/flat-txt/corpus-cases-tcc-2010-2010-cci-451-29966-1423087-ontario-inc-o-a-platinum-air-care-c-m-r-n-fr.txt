@@ -1,0 +1,185 @@
+Title: 1423087 Ontario Inc. o/a Platinum Air Care c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29966/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-451-29966-1423087-ontario-inc-o-a-platinum-air-care-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-08-31
+
+# 1423087 Ontario Inc. o/a Platinum Air Care c. M.R.N.
+
+- Citation: 2010 CCI 451
+- Decision date: 2010-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6464, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1423087 Ontario Inc. o/a Platinum Air Care c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-31
+Référence neutre
+2010 CCI 451
+Numéro de dossier
+2009-1042(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-1042(EI)
+ENTRE :
+1423087 ONTARIO INC.
+S/N PLATINUM AIR CARE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 décembre 2009, à London (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+M. Jim Travis
+Avocate de l’intimé :
+Me Sara Chaudhary
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre du Revenu national est annulée conformément aux motifs du jugement ci‑joints et en partant du principe que John W. Ducharme exerçait des activités de vente et d’entretien de purificateurs d’air en tant qu’entrepreneur indépendant par l’intermédiaire de l’appelante et n’exerçait donc pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi pendant la période allant du 26 août 2007 au 28 février 2008.
+Signé à Ottawa, Canada, ce 31e jour d’août 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 21e jour d’octobre 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 451
+Date : 20100831
+Dossier : 2009-1042(EI)
+ENTRE :
+1423087 ONTARIO INC.
+S/N PLATINUM AIR CARE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Le présent appel a été interjeté à l’encontre de la décision du ministre du Revenu national (le « ministre ») selon laquelle M. John W. Ducharme (le « travailleur ») exerçait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi ») lorsqu’il travaillait auprès de l’appelante pendant la période allant du 26 août 2007 au 28 février 2008.
+[2] Pendant la période en cause, le travailleur a travaillé comme vendeur du 26 août au 30 septembre 2007 (soit pendant environ un mois) puis comme technicien en entretien et réparation du 1er octobre 2007 au 28 février 2008 (soit pendant cinq mois). À l’audience, l’avocate de l’intimé a concédé que le travailleur était un entrepreneur indépendant pendant la période où il travaillait comme vendeur.
+[3] Lorsqu’il a établit sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes, établies au paragraphe 10 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelante exploite une entreprise de vente et d’entretien de purificateurs d’air; (admise)
+b) le président de l’appelante, Nick Dereza, contrôlait les activités quotidiennes et prenait les décisions d’affaires importantes pour l’appelante; (niée telle que rédigée)
+c) Ray Schneider était responsable des ventes et des relations avec la clientèle pour l’appelante; (admise)
+d) Jim Travis était responsable du service et des ventes pour l’appelante; (admise)
+e) le travailleur a été embauché initialement comme « vendeur » et par la suite comme « technicien en entretien et réparation » en fonction d’une entente écrite; (admise)
+f) le travailleur a travaillé comme « vendeur » du 2 août au 30 septembre 2007; (admise, mais la date de début était en fait le 26 août 2007)
+g) le travailleur a travaillé comme « technicien en entretien et réparation » du 1er octobre 2007 au 21 février 2008; (admise, mais la date de fin était en fait le 28 février 2008)
+h) le travailleur a signé divers documents, dont un « formulaire de vendeur indépendant » comportant les données personnelles du travailleur, la marque et le modèle de sa voiture, ses renseignements d’assurances ainsi que les coordonnées de la personne avec laquelle communiquer en cas d’urgence, une « dénégation de responsabilité en cas de blessure » ainsi qu’une « entente de non‑concurrence et de confidentialité »; (admise)
+i) les documents dont il est question à l’alinéa h) ci‑dessus contenaient de l’information sur les commissions, sur la fréquence des paiements, sur la responsabilité pour les dépenses, sur les services précis à fournir, de l’information confidentielle, une clause de non‑concurrence ainsi que de l’information sur la cessation de travail; (admise)
+j) les heures d’ouverture de l’appelante étaient du lundi au vendredi, de 8 h à 20 h; (admise)
+k) l’appelante fixait les rendez‑vous du travailleur avec les clients; (admise)
+l) les heures de travail du travailleur n’étaient pas consignées; (admise)
+m) le travailleur était tenu de se présenter au départ aux bureaux de l’appelante pour aller chercher la liste de clients, et ensuite, il devait y retourner pour rendre ses rapports et ses autorisations de travail et pour récupérer l’argent; (admise)
+n) l’appelante pouvait faire un suivi des tâches accomplies par le travailleur et mettre à jour les dossiers des clients en fonction des rapports fournis par celui‑ci; (admise)
+o) le taux de salaire du travailleur était établi par l’appelante; (niée)
+p) le travailleur était payé chaque semaine par chèques faits à son nom; (admise)
+q) l’appelante ne fournissait pas d’avantages comme une paie de vacances ou des vacances payées; (admise)
+r) l’appelante décidait du moment où le travailleur pouvait recevoir des primes et établissait le montant de celles‑ci, qui étaient versées au titre d’incitatifs; (admise)
+s) le travailleur ne facturait pas l’appelante pour les services qu’il exécutait; (admise)
+t) le travailleur était tenu d’exécuter lui‑même ses services; (admise)
+u) le travailleur n’avait pas de nom d’entreprise enregistré, il n’était pas inscrit auprès de l’Agence du revenu du Canada, et il n’avait pas de compte bancaire d’entreprise; (admise)
+v) le travailleur avait reçu des directives concernant les outils, l’équipement et les matériaux nécessaires pour exécuter ses tâches; (admise)
+w) l’appelante fournissait les cartes routières, les démonstrateurs, le tournevis avec bout aimanté et l’aspirateur, sans qu’il en coûte quoi que ce soit au travailleur; (admise)
+x) l’appelante fournissait aussi des cartes professionnelles sur lesquelles figuraient le nom de son entreprise et ses coordonnées; (admise)
+y) le travailleur fournissait sont propre véhicule, un GPS, certains outils à main et son téléphone cellulaire, et il en assumait les frais d’exploitation; (admise)
+z) l’appelante assumait les frais d’hébergement lorsque le travailleur devait se rendre à l’extérieur de la ville; (admise)
+aa) l’appelante exigeait que le travailleur s’habille de façon professionnelle, mais elle n’exigeait pas le port d’un uniforme; (admise)
+bb) le travailleur devait porter un insigne d’identité sur lequel figuraient sa photo ainsi que son nom et le nom de l’appelante; (admise)
+cc) l’appelante était chargée de traiter les plaintes des clients; (admise)
+dd) l’appelante assumait les frais associés à la reprise des travaux; (admise)
+ee) l’appelante garantissait le travail effectué par le travailleur; (admise)
+Vendeur
+ff) les tâches du travailleur étaient de vendre des purificateurs d’air à l’aide des listes de clients ou des prospects fournis par l’appelante; (admise)
+gg) la journée de travail du travailleur était remplie par les prospects de vente; (admise)
+hh) le travailleur exécutait ses tâches au domicile des clients de l’appelante; (admise)
+ii) le travailleur a reçu une formation de trois jours où on présentait les produits de l’appelante et où on enseignait des stratégies de vente; (admises)
+jj) l’appelante fournissait un « journal des ventes »; (admise)
+kk) les heures de travail du travailleur étaient du lundi au vendredi, de 11 h à 19 h, telles qu’établies par l’appelante; (admise)
+ll) Ray Schneider supervisait le travailleur; (admise)
+mm) le travailleur devait obtenir une autorisation avant d’approuver des rabais ou des échanges et avant d’effectuer des réparations, à l’exception de réparations mineures; (admise)
+nn) le travailleur recevait une commission de 100 %, soit 500 $ par appareil vendu, mois 50 % de tout rabais accordé au client; (admise)
+Technicien en entretien et réparation
+oo) le travailleur avait comme tâches d’entretenir, d’inspecter et de réparer l’équipement et les appareils vendus par l’appelante en plus de fournir des services relativement à des ensembles de services et aux appareils de remplacement des clients de l’appelante; (admise)
+pp) le travailleur exécutait ses tâches principalement sur la route, chez les clients de l’appelante; (admise)
+qq) le travailleur n’a reçu aucune formation; (admise)
+rr) l’appelante fournissait au travailleur les manuels et les directives du fabriquant pour les appareils vendus et entretenus par l’appelante afin que le travailleur s’en serve comme lignes directrices pour effectuer les réparations; (admise)
+ss) le chef de service de l’appelante, Jim Travis, était aussi disponible pour répondre aux questions; (admise)
+tt) les heures de travail du travailleur étaient du lundi au vendredi, de 7 h à 17 h, telles qu’établies par l’appelante; (admise)
+uu) Jim Travis supervisait le travailleur; (admise)
+vv) le travailleur recevait une allocation de 450 $ par semaine, plus une allocation pour l’essence, des primes et des commissions (10 % des ventes). (admise)
+[4] Le travailleur a témoigné lors de l’audience. Il a expliqué en quoi consistait la formation qu’il a suivie lorsqu’il a postulé pour obtenir un emploi auprès de l’appelante en tant que vendeur à commission. Il a affirmé qu’il n’avait pas été payé pour suivre la formation. Il a aussi affirmé qu’il croyait être un employé de l’appelante et que c’est pour cette raison que le 28 février 2008, il avait demandé qu’on lui remette un feuillet T4 pour l’année d’imposition 2007, c’est‑à‑dire, pour la période de cette année‑là pendant laquelle il avait été un technicien en entretien et réparation. Dans sa déclaration de revenus pour l’année 2007, il a déclaré les revenus gagnés lorsqu’il était vendeur comme des revenus d’entreprise, et les revenus gagnés lorsqu’il était technicien comme revenus d’emploi. Il a aussi affirmé dans son témoignage qu’il n’a jamais obtenu de numéro d’entreprise ou de numéro d’inscription aux fins de la taxe sur les produits et services (la « TPS »). La TPS que l’appelante lui avait payée dans sa rémunération a été versée au receveur général du Canada.
+[5] La demande du travailleur en vue d’obtenir un feuillet T4 est venue quelques jours seulement après que Jim Travis, le chef de service de l’appelante, a rédigé deux lettres confirmant que le travailleur était un employé apprécié de l’appelante depuis le 27 août 2007. La première lettre est datée du 21 janvier 2008 et est adressée à Me Michael G. Barry, avocat. La deuxième est datée du 5 février 2008, et l’appel indique [traduction] « Monsieur, Madame », ce qui signifie que la lettre n’était adressée à personne en particulier.
+[6] James Coe Travis a aussi témoigné. Il a expliqué que les lettres dont il est question au paragraphe précédent ont été écrites par compassion, à la demande du travailleur, afin d’aider celui‑ci à retenir les services d’un avocat (dans le cas de la première lettre) et à renégocier son prêt hypothécaire pour sa maison (dans le cas de la deuxième lettre). James Coe Travis a aussi expliqué que ces lettres faisaient partie d’autres mesures prévues pour aider le travailleur à remettre de l’ordre dans sa vie. Le témoin confirme qu’il a bel et bien versé au travailleur plus de 1 300 $ en espèces pour des rénovations que ce dernier avait effectuées dans sa maison et pour un véhicule vieux de huit ans qu’il a acheté du travailleur, à crédit, sans intérêts sur une bonne partie du prix d’achat. M. Travis a aussi affirmé que le président de l’appelante avait fait un prêt de 2 200 $, sans intérêts, en faveur du travailleur afin de l’aider à recouvrer sa solvabilité. Le prêt a été remboursé en entier en paiements de 100 $ par semaine.
+[7] Le témoin a aussi expliqué que les vendeurs et les techniciens en entretien et réparation ont tous signé la même entente avec l’appelante. Aucune autre entente n’est signée lorsqu’une personne devient technicien en entretien et réparation. Lorsque le travailleur a été relâché de ses fonctions de vendeur et est devenu technicien en entretien et réparation, l’appelante n’a pas mis fin à ses services, alors aucune nouvelle entente ne devait être signée. Cependant, la rémunération prévue pour les services du travailleur a fait l’objet de renégociations. En tant que vendeur, le travailleur recevait une commission de 500 $ par appareil vendu, moins 50 % de tout rabais accordé au client, alors qu’en tant que technicien, le travailleur recevait 450 $ par semaine, plus une allocation pour l’essence de 20 $ par jour ainsi qu’une prime de 10 % sur la vente de plans d’entretien, de filtres, d’appareils et de pièces de rechange.
+[8] Nicholas Dereza, le président de l’appelante, a aussi témoigné. Selon lui, le travailleur connaissait très bien les conditions générales de sa relation de travail avec l’appelante. Aucune retenue n’était faite sur sa paie, et la TPS était ajoutée, malgré le seuil de 30 000 $. M. Dereza a cependant concédé le fait que les ententes signées par le travailleur étaient conçues pour les vendeurs, et il a confirmé avoir accordé un prêt de 2 200 $, sans intérêts, au travailleur.
+Analyse
+[9] Dans Lang c. Canada (M.R.N.), [2007] A.C.I. n° 365 (QL), 2007 CCI 547, le juge en chef Bowman a résumé en ces termes les règles qui s’appliquent lorsque se pose la question de statut légal d’un employé :
+4 Chaque affaire dans laquelle se pose la question de savoir si une personne est un employé ou un entrepreneur indépendant doit être tranchée selon les faits qui lui sont propres. Les quatre éléments du critère mixte énoncé dans les arrêts Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025 et 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, doivent chacun se voir attribuer le poids qui convient eu égard aux circonstances de l’affaire. En outre, l’intention des parties au contrat est devenue, selon certains arrêts récents de la Cour d’appel fédérale, un facteur dont le poids semble varier d’un cas à l’autre. (The Royal Winnipeg Ballet c. M.R.N., [2006] A.C.F. n° 339, 2006 CAF 87; Wolf c. Canada, [2002] A.C.F. n° 375, 2002 CAF 96; City Water International Inc. c. M.R.N., [2006] A.C.F. n° 1653, 2006 CAF 350).
+[10] Dans l’arrêt André Gagnon c. Le ministre du Revenu national, 2007 CAF 33, la Cour d’appel fédérale a réitéré le principe selon lequel le fardeau de la preuve incombe à la partie qui s’oppose à la décision du ministre pour ce qui est de réfuter les hypothèses de fait formulées par ce dernier (voir Le Livreur Plus Inc. c. Le ministre du Revenu national et Laganière, 2004 CAF 68, au paragraphe 12).
+[11] En l’espèce, le travailleur a signé diverses ententes écrites avec l’appelante lorsqu’il a entamé sa relation de travail avec l’entreprise de celle‑ci. De toute évidence, à ce moment‑là, l’intention des parties était d’établir une relation d’affaires fondée sur le statut d’entrepreneur indépendant du travailleur. Lorsque le travailleur s’est joint à l’équipe d’entretien et de réparation, aucune nouvelle entente n’a été signée, et selon les représentants de l’appelante, le travailleur s’est joint à l’équipe d’entretien et de réparation en application des mêmes ententes que celles qu’il avait signées le 27 août 2007. Selon le témoignage des représentants de l’appelante, le travailleur savait très bien quelles étaient les dispositions contractuelles et il y a consenti. Les conditions financières ont été renégociées et acceptées par le travailleur. Malgré le fait que les ententes étaient conçues pour les vendeurs et non pour les techniciens en entretien et réparation, on ne doit pas en faire fi.
+[12] Les facteurs qui s’appliquent pour ce qui est d’établir le statut légal d’un travailleur sont, notamment :
+a) le contrôle;
+b) la propriété des instruments de travail;
+c) la possibilité de profit;
+d) le risque de perte (les facteurs énoncés aux alinéas c) et d) sont parfois combinés);
+e) l’intégration.
+Selon le juge en chef Bowman, renvoyant à l’arrêt Wiebe Door, les facteurs a) à d) font tous partie d’un seul critère. Le facteur de l’intégration ne fait pas partie de ce critère, est difficile à appliquer, et n’est pas, à lui seul, concluant lorsqu’il est question d’établir si une personne était un employé.
+[13] Le juge Bowie de la Cour a défini le terme « contrôle » dans André Gagnon c. Le ministre du Revenu national, 2006 CCI 66, comme étant « le droit de l’appelant de dire aux travailleurs comment faire leur travail », et non l’exercice comme tel de ce droit.
+[14] En l’espèce, la preuve fournie à l’audience, essentiellement constituée du témoignage des représentants de l’appelante et du travailleur ainsi que des observations formulés par ces mêmes représentants auprès de l’Agence du revenu du Canada, va comme suit :
+- L’appelante fixait les rendez‑vous du travailleur avec les clients. En temps normal, les clients imposaient au travailleur les tâches à accomplir ainsi que la date et l’heure à laquelle il devait les accomplir. L’horaire de base établi par l’appelante était souvent annulé ou mis de côté en raison des autres engagements pris par le travailleur (comme des réunions avec des banques et des entreprises de courtage en prêts hypothécaires, des rendez‑vous médicaux, des rendez-vous avec son avocat ou son conseiller, ou d’autres engagements professionnels).
+- Le travailleur travaillait seul, de façon indépendante et sans supervision au domicile des clients.
+- Le travailleur n’a reçu aucune formation de la part de l’appelante sur la façon de faire les réparations. L’appelante lui a plutôt fourni les manuels du fabriquant et les instructions pour les appareils vendus et entretenus par elle. Ces manuels et instructions devaient servir de lignes directrices pour effectuer les réparations.
+- Le travailleur tenait ses propres registres quotidiens dans un journal et rédigeait des rapports permettant à l’appelante de suivre l’exécution des travaux et de mettre à jour les renseignements des clients dans sa base de données.
+- Le travailleur n’était pas tenu de consigner ses heures de travail.
+- Le travailleur exécutait ses tâches sur la route, chez les clients de l’appelante, et n’avait pas d’endroit précis lui étant désigné dans les bureaux de l’appelante.
+- L’appelant n’était assujetti à aucune restriction l’empêchant d’embaucher quelqu’un ou de recourir aux services de quelqu’un pour l’aider à exécuter ses tâches.
+[15] En ce qui a trait au facteur de la propriété des instruments de travail, il ressort de la preuve que le travailleur était tenu de fournir ses propres outils, son propre véhicule, son propre téléphone cellulaire et son propre équipement. Le travailleur était chargé d’assurer, de réparer et d’entretenir ses outils et son équipement, y compris son véhicule (il recevait cependant une allocation d’essence s’élevant à 20 $ par jour de la part de l’appelante).
+[16] En ce qui concerne le facteur de la possibilité de profit et du risque de perte, il a été établi ce qui suit :
+- Le travailleur devait assumer un certain risque financier. Il était responsable de toutes ses dépenses personnelles (repas et vêtements) ainsi que des amendes, des contraventions, des accidents et des blessures. Il devait défrayer les coûts d’acquisition ainsi que les frais liés à l’assurance, à la réparation et à l’entretien de ses outils, de son équipement et de son véhicule.
+- Le travailleur n’a reçu aucun avantage social de l’appelante, à moins de considérer l’allocation d’essence comme un avantage social, et il n’avait ni garantie de revenu ni sécurité d’emploi.
+- Le travailleur n’assumait aucun risque pour ce qui est du recouvrement des comptes clients (par exemple, dans le cas de chèques sans provisions).
+- Le travailleur avait une possibilité de profit et un risque de perte moindres lorsqu’il est devenu un technicien en entretien et réparation parce qu’il avait droit à un salaire fixe de 450 $ par semaine et à une commission de seulement 10 % sur ses ventes. Même si la possibilité de profit et le risque de perte ont été considérablement réduits, ils existaient tout de même, et le travailleur avait la possibilité de travailler plus d’heures afin de gagner plus de revenus.
+[17] L’application du critère de Wiebe Door aux faits en l’espèce permet clairement de conclure que le travailleur était un entrepreneur indépendant. Aucune supervision et aucun contrôle n’étaient exercés sur la fourniture de services de réparation au domicile des clients. Le travailleur avait la possibilité de réaliser un profit et assumait un risque de perte. Il fournissait ses propres instruments de travail et son propre équipement. Il n’avait aucune sécurité d’emploi et était libre d’accepter d’autres emplois ou contrats (par exemple, les rénovations effectuées au domicile de M. Travis).
+[18] L’application du critère de l’intention permet également de conclure que le travailleur était un entrepreneur indépendant.
+[19] Par conséquent, l’appel est accueilli, et la décision du ministre est annulée en partant du principe que l’appelant exerçait des activités de vente et d’entretien de purificateurs d’air en tant qu’entrepreneur indépendant par l’intermédiaire de l’appelante et n’exerçait donc pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi pendant la période allant du 26 août 2007 au 28 février 2008.
+Signé à Ottawa, Canada, ce 31e jour d’août 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 21e jour d’octobre 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 451
+N° DU DOSSIER DE LA COUR : 2009-1042(EI)
+INTITULÉ : 1423087 Ontario Inc. S/N Platinum Air Care c. M.R.N.
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 17 décembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 31 août 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Jim Travis
+Avocate de l’intimé :
+Me Sara Chaudhary
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

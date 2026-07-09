@@ -1,0 +1,190 @@
+---
+title: "Cyr Beaulieu c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27034/index.do"
+last_modified: "2004-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 105"
+citation2: ""
+neutral_citation: "2004 TCC 105"
+decision_date: "2004-04-15"
+language: "en"
+item_id: "27034"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 644
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:34:55.159000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5219e80a0051beaa6ef267dda175f65ce50c5947074d43dc9f10aab61870ce47"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cyr Beaulieu c. M.R.N.
+
+- Citation: 2004 TCC 105
+- Decision date: 2004-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 644, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cyr Beaulieu c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-15
+Neutral citation
+2004 TCC 105
+File numbers
+2003-2065(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2065(EI)
+BETWEEN:
+ANGÈLE CYR BEAULIEU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROSE-HÉLÈNE DROLET,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+_____________________________________________________________
+Appeal heard on January 7, 2004, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Claudia Côté
+Counsel for the Respondent:
+Yannick Landry
+Counsel for the Intervenor:
+Kay Wolfe Falaise
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 19th day of August 2004.
+Sharon Winkler Moren, Translator
+Citation: 2004TCC105
+Date: 20040415
+Docket: 2003-2065(EI)
+BETWEEN:
+ANGÈLE CYR BEAULIEU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROSE-HÉLÈNE DROLET,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] Ms. Beaulieu is appealing the Respondent's decision of March 5, 2003, that the work performed by Rose-Hélène Drolet in service to Ms. Beaulieu from September 10, 2001 to July 26, 2002, was insurable work as understood in paragraph 5(1)(a) of the Employment Insurance Act (the "Act").
+[2] The facts as described in the Notice of Appeal are:
+[TRANSLATION]
+A - STATEMENT OF FACTS
+1. The Appellant suffers from severe inflammatory rheumatoid arthritis. This illness requires the Appellant to take medication for pain and it makes her weak. She must also take naps during the day. Considering these circumstances, the Appellant is unable to carry out her housekeeping tasks alone, or cook and needs assistance for her personal daily care;
+2. Before the Worker offered her services to the Appellant, the latter would get help from her neighbours, friends and family;
+3. The Worker offered the Appellant her services for housekeeping and she provided these services to the Appellant for the period from September 2001 to August 2002;
+4. The Worker informed the Appellant that she had other clients for whom she performed housekeeping and home care;
+5. The Worker was paid $300 per week regardless of the number of hours worked;
+6. In addition, the Worker could be replaced by an individual of her choice if she had to be absent;
+7. The Worker set her own work schedule and vacations after having determined the Appellant's needs and her personal needs;
+8. The Appellant, considering her state of health and the pain medication she takes, is rather vulnerable and dependant upon said worker;
+9. The contract for services was ended when the worker informed the Appellant that she was able to perform only a portion of the services that had been initially agreed to. In fact, the Worker, Rose-Hélène Drolet, suggested another person to the Appellant to complete the services that she was no longer able to perform. However, the Worker, Ms. Drolet, demanded the same pay from the Appellant even though the Appellant had to pay the new worker directly;
+10. Despite the initial agreement between the Appellant and the Worker, Rose-Hélène Drolet, that no deductions should be made from her remuneration since she considered herself to be "self-employed", the latter applied for employment insurance benefits at the end of her contract with the Appellant;
+11. Following the Worker's departure, the Appellant obtained the services of a volunteer a few hours per week and got by with a neighbour;
+12. The Appellant currently has an assistant at her home who is paid $160 per week. This worker sets her own hours. The Appellant does not exercise any control over this worker, either.
+[3] The facts upon which the Respondent relied in making his decision are stated at paragraph 7 of the Reply to the Notice of Appeal and are as follows:
+[TRANSLATION]
+(a) The Appellant is an individual suffering from an illness that affects her autonomy in performing her regular activities at home.
+(b) The Appellant hired the Worker as home help on a verbal agreement.
+(c) The Worker came to the Appellant's home and took care of the following tasks:
+Meal preparation.
+Wash the bed.
+Assist the Appellant in taking her bath.
+Accompany the Appellant to the doctor and to her therapy appointments.
+Provide care (bathe her feet, care for the nodules of inflammatory tissue, etc.).
+Do general housekeeping.
+File the Appellant's papers and records.
+Run errands.
+Take care of her bird (a parakeet).
+Fulfill all the Appellant's requests.
+(d) During the period at issue, the Worker went to the Appellant's home from Monday to Friday according to the following schedule:
+- from September until the holidays: from 9:00 a.m. to 7:00 or 7:30 p.m.
+- from January until March or April: from 9:00 a.m. to 6:30. or 7:00 p.m.
+- then: from 9:00 a.m. to 4:30 p.m.
+(e) The Worker's hours of work were not recorded but she had to comply with the timetable established by the Appellant.
+(f) The Worker had some freedom in carrying out her duties but she had to perform specific duties requested by the Appellant.
+(g) During the period at issue, the Worker received set remuneration of $300 per week for approximately 40 hours of work.
+(h) The Worker received a portion of her remuneration in cash and a portion by cheque.
+(i) The Worker incurred no expenses in context of her work; she used the Appellant's equipment and supplies.
+(j) The Appellant had the power to fire the Worker at all times; she exercised this power on July 26, 2002.
+(k) During the week of July 27 to August 2, 2002, the Worker received compensation/a gift from the Appellant although she provided no service during this period.
+[4] With consent, Ms. Beaulieu filed as evidence a medical certificate (Exhibit I-1) showing that at the time of the hearing, she was unable to testify as she suffered from rheumatoid arthritis and paranoid delusion with visual hallucinations. Ms. Beaulieu testified nonetheless. Counsel for the Respondent and Counsel for the Intervenor did not, however, cross-examine Ms. Beaulieu.
+Analysis
+Law
+[5] It is first of all appropriate to stress that the contractual relationship between Ms. Beaulieu and Ms. Drolet must be interpreted in accordance with the laws of the Province of Quebec.
+[6] In the Civil Code of Quebec, separate chapters deal respectively with the "contract of employment" (articles 2085 to 2097) and the "contract of enterprise or for services" (articles 2098 to 2129).
+[7] Article 2085 states that the contract of employment:
+. . . is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[8] Article 2098 states that the contract of enterprise:
+. . . is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[9] Article 2099 continues:
+The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[10] It can be said that that which fundamentally distinguishes a contract for services from a contract of employment is the absence in the former case of a relationship of subordination between the service provider and the client and the existence in the latter case of the employer's right to direct and control the employee. In fact, Pratte, J.A, of the Federal Court of Appeal gave the following explanation in Gallant v. M.N.R.:[1]
+. . . The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. [Emphasis added]
+Therefore, it must first be determined whether or not there was a relationship of subordination between Ms. Beaulieu and Ms. Drolet.
+[11] In Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, MacGuigan, J.A., of the Federal Court of Appeal expanded on the control test and acknowledged that the right to specify how the work must be performed and to give directions to the employee regarding how the work is to be done is a fundamental element of the exercise of control over the employee's work. In Vulcain Alarme Inc. v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 749, Létourneau, J.A., of the Federal Court of Appeal also stated that the principle of control is giving directions with regard to how the employee's work is to be performed. In this case, in light of the evidence, it must be determined whether Ms. Beaulieu gave or could give directions to Ms. Drolet regarding the manner in which she should do her work. That said, control over the outcome or quality of the work must not be confused with control over its execution by the worker responsible for doing it. In fact, there are few clients who do not ensure that the work is carried out in accordance with their requirements.
+[12] However, when the evidence does not enable us to clearly see whether or not a relationship of subordination exists, I am of the opinion that the contractual relationship must then be examined in light of other factors stated by the Federal Court of Appeal in Wiebe Door, supra, and summarized by the Supreme Court in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, that is, integration, ownership of the tools necessary for performing the work and the chance for profit and risk of loss. These factors can indicate the existence of a contract for services.
+[13] Examination of the facts in terms of these criteria usually enables us to confirm the existence or not of a relationship of subordination; in other words, if there is doubt, a more global approach must be used. For example, doubt regarding Ms. Beaulieu's right to control could be dispelled if the evidence allows us to conclude that Ms. Drolet had a risk of loss in this case and, moreover, that she was the owner of the tools necessary for performing the work.
+[14] Finally, I would add that it can be very beneficial to analyze the parties' intention when the contract was created, especially when the question is narrow, that is, when the relevant factors simultaneously point to both possible conclusions. I believe that the manner in which the parties saw their agreement must then prevail, unless they were mistaken about the true nature of their relationship. Obviously, the Court will not consider the parties' stipulation with regard to the nature of their contractual relationship if the Court must arrive at a determination with regard to the relationship that is contrary to the basis of the evidentiary record submitted. However, in the absence of unequivocal evidence or evidence to the contrary, the Court must certainly take into consideration the parties' stated intention.
+Relationship of subordination
+[15] Did Ms. Drolet perform her work under the direction or control of Ms. Beaulieu? Did the latter give, or could she give, orders to Ms. Drolet?
+[16] The evidence disclosed that Ms. Drolet was hired by Ms. Beaulieu as an assistant-housekeeper, companion and healthcare assistant. Ms. Drolet went to Ms. Beaulieu's home from Monday to Friday. She received set remuneration of $300 net per week for approximately 40 hours of work. Ms. Beaulieu determined in a relatively precise manner the tasks that Ms. Drolet was to perform. For example, the therapeutic bath had to be taken at a certain time because Ms. Beaulieu took a nap in the afternoon. Because Ms. Beaulieu did not wish to rise early in the morning, Ms. Drolet was not to arrive before a certain time. When Ms. Beaulieu decided to go do errands or go to the doctor, Ms. Drolet had to accompany her. When she decided that the sheets were dirty, Ms. Drolet had to wash them. Ms. Drolet had no other sources of income and received vacation pay when Ms. Beaulieu went on holiday to Mexico. It was shown that, on occasion, Ms. Drolet did not follow Ms. Beaulieu's orders and that she had some freedom in performing her duties.
+The Appellant's submissions
+[17] Counsel for Ms. Beaulieu pointed out that Ms. Beaulieu could not give orders to Ms. Drolet at that time, considering her physical and mental condition then. Her daughter's testimony, which was not substantiated by any expertise at all or any other independent testimony, did not convince me. Did Ms. Beaulieu not herself and without assistance enter into an agreement with Ms. Drolet on the terms and conditions of the contract when it was first created? Did she not herself, unassisted, dictate to Ms. Drolet the jobs that Ms. Drolet was to perform? Counsel for Ms. Beaulieu herself admitted that Ms. Beaulieu gave orders to Ms. Drolet. In fact, in her closing address, she asked the Court to infer from the fact that Ms. Drolet did not always follow Ms. Beaulieu's orders that there was no relationship of subordination between the parties.
+[18] Finally, Counsel for Ms. Beaulieu argued that the Court must infer from the fact that there were no deductions at source that the parties' intention was to be governed by a contract for services. Did Ms. Drolet not testify that she had on a number of occasions asked that this situation be remedied? At any rate, I am of the opinion that failure to comply with the Act with regard to the at-source deductions must not be a deciding factor in describing the parties' contractual relationship.
+Ownership of tools, chance for profit and risk of loss
+[19] We will now examine the contractual relationship between the parties in terms of the criteria stated in Wiebe Door, supra, for example, ownership of the tools and the risk of loss. As mentioned previously, these criteria can indicate the existence of a contract for services.
+(i) The evidence showed that Ms. Drolet supplied no tools, equipment or supplies necessary for performing her job. I do not believe that one can conclude in this case that this factor is conclusive or probative, considering the nature of the services rendered, the needs to be met and the limited number of tools used in this work. Could one automatically infer that there was a contract of employment between Ms. Beaulieu and a cleaning company whose services she might have retained if she had provided this company with the detergents, brooms and the vacuum? Nor do I believe that the fact that Ms. Drolet used her car occasionally to do errands for Ms. Beaulieu enables me to conclude in as much that she was not Ms. Beaulieu's employee.
+(ii) The evidence has shown that in this case, there was no chance of profit or risk of loss. I do not believe that in this case one can give much weight to this factor. If the services had been rendered by an agency under a contract for services, the risk of loss or chance to profit would not have been much different than they were for Ms. Drolet. Nor do I believe the argument of Counsel for Ms. Beaulieu - that there was a risk for Ms. Drolet from the fact that she occasionally used her car to do errands for Ms. Beaulieu - has much weight in this case.
+[20] Although I agree with Counsel for Ms. Beaulieu that not too much weight should be given to these two factors, I must conclude, to the contrary, that they do not definitively indicate the existence of a contract for services.
+The parties' intention
+[21] As I have already mentioned, the manner in which the parties perceived their agreement must prevail unless they are incorrect regarding the true nature of their agreement. In this case, the parties had not signed a contract and their stated intentions with regard to the nature of their relationship were diametrically opposed. Discovering the parties' intentions when creating the contract thus became very difficult. This task was all the more difficult in this case as I could not grant much cogency to Ms. Beaulieu's testimony, which was, at the very least, confused. As a result, the parties' intentions in this case could not be inferred except from the facts introduced in evidence.
+Conclusion
+[22] The Appellant has not convinced me, on a balance of probabilities, that Ms. Drolet did not work under her control or direction. In my opinion, Ms. Drolet had to follow her instructions, even if these instructions were not frequent. It must not be concluded that there is no relationship of subordination simply because the employee has some freedom in carrying out his or her duties. Let us recall that the distinguishing feature of a contract of service is not the control that the employer effectively exercises but rather the employer's power to give direction. Moreover, all the facts in this case tend to show that there was a relationship of subordination: Ms. Drolet had no other sources of income, she had received vacation pay, she worked according to a set timetable and she received set remuneration.
+[23] In this case, the other factors, such as ownership of the tools and the risk of loss, do not indicate with certainty the existence of a contract for services or contract of enterprise.
+[24] Admittedly, we could take each of these factors and facts and say that they are in themselves neutral and non-probative. For example, the fact that the duties were performed according to a set schedule and that the remuneration was set do not necessarily permit the conclusion that a relationship of subordination between the parties exists. However, from the analysis of each of these elements in the overall context, I could only conclude that there was a contract of employment between the parties.
+Signed at Ottawa, Canada this 15th day of April 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 19th day of August 2004.
+Sharon Winkler Moren, Translator
+[1] [1986] F.C.J. No. 330 (Q.L.)

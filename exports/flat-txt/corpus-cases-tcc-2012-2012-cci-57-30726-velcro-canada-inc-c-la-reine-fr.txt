@@ -1,0 +1,858 @@
+Title: Velcro Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30726/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-57-30726-velcro-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-24
+
+# Velcro Canada Inc. c. La Reine
+
+- Citation: 2012 CCI 57
+- Decision date: 2012-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7521, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Velcro Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-24
+Référence neutre
+2012 CCI 57
+Numéro de dossier
+2007-1806(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1806(IT)G
+ENTRE :
+VELCRO CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 17 mai 2011, à Toronto (Ontario).
+Devant : Le juge en chef adjoint E. P. Rossiter
+Comparutions :
+Avocates de l'appelante :
+Me Louise Summerhill
+Me Marni Pernica
+Avocats de l'intimée :
+Me Margaret Nott
+Me Amit Ummat
+________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003 et 2004 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour de février 2012.
+« E. P. Rossiter »
+Le juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 13e jour d'août 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 57
+Date : 20120224
+Dossier : 2007-1806(IT)G
+ENTRE :
+VELCRO CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rossiter
+Introduction
+[1] Velcro Canada Inc. (« VCI ») s'occupait de la fabrication et de la vente de produits autoagrippants, principalement pour l'industrie automobile. VCI versait des redevances, en vertu d'un contrat de licence, à Velcro Industries BV (« VIBV »), qui résidait antérieurement aux Pays‑Bas, pour l'utilisation des techniques des marques Velcro. En 1995, VIBV est devenue résidente des Antilles néerlandaises et, au mois d'octobre 1995, elle a cédé le contrat de licence à Velcro Holdings BV (« VHBV »), une filiale résidant aux Pays‑Bas. Le Canada n'a pas de convention fiscale avec les Antilles néerlandaises. De 1996 à 2004, VCI a versé des redevances à VHBV qui, de son côté, a versé environ 90 p. 100 de ce montant à VIBV. Toute redevance versée à VIBV par VCI était assujettie à une retenue d'impôt de 25 p. 100. Le Canada a une convention fiscale avec les Pays‑Bas et, en vertu de ce traité, VCI a retenu et versé l'impôt au taux réduit de 10 p. 100 sur les redevances versées à VHBV pour les années d'imposition 1996 à 1998 et n'a rien retenu ni versé pour l'année 1999 et pour les années d'imposition subséquentes. VHBV est d'avis qu'elle est le bénéficiaire effectif des redevances; l'intimée est par contre d'avis que c'est VIBV qui est le bénéficiaire effectif de ces redevances et que VCI aurait donc dû retenir et verser un impôt de 25 p. 100 sur les redevances versées à VHBV, comme l'exige la convention entre le Canada et les Pays‑Bas (la « convention »).
+Les faits
+[2] VCI s'occupait de la fabrication et de la vente de fermetures Velcro®, principalement pour l'industrie automobile. VIBV était propriétaire des marques et de la technique Velcro et, en 1987, elle a conclu un contrat de licence avec VCI (le « contrat de licence »), de façon que VCI puisse utiliser les techniques des fermetures de marque Velcro® au Canada.
+[3] De l'année 1987 au mois d'octobre 1995, VCI a versé des redevances à VIBV et a retenu l'impôt au taux applicable conformément à la convention. Une réorganisation des sociétés du groupe Velcro a eu lieu le 26 octobre 1995, VIBV devenant résidente des Antilles néerlandaises. Le 27 octobre 1995, VIBV a conclu avec VHBV un contrat de cession (le « contrat de cession ») par lequel VIBV cédait à VHBV les droits et obligations qu'elle avait en vertu du contrat de licence initial, de façon que VCI verse à VHBV les redevances en vertu du contrat de licence initial, mais sous réserve du contrat de cession.
+[4] Étant donné que VHBV résidait aux Pays‑Bas, VCI a continué à retenir l'impôt sur les redevances au taux de 10 p. 100 conformément à la convention. Le taux de redevance a été ramené de 10 p. 100 à zéro au mois de décembre 1998, de sorte que VCI a cessé de retenir tout impôt sur les redevances.
+[5] VIBV et VCI ont conclu un nouveau contrat de licence (le « nouveau contrat de licence ») qui prenait effet le 1er octobre 2003, lequel remplaçait le contrat de licence. De plus, VIBV et VHBV ont conclu un nouveau contrat de cession, de prise en charge et de licence (le « nouveau contrat de cession »), qui prenait effet le 1er octobre 2003. Les modalités du nouveau contrat de licence et du nouveau contrat de cession sont semblables à celles du contrat de licence et du contrat de cession.
+[6] Les contrats de licence accordaient à VCI le droit d'utiliser la propriété intellectuelle de VIBV en vue de fabriquer et de vendre des produits autoagrippants en échange du paiement de redevances, VIBV demeurant propriétaire de la propriété intellectuelle. Plus précisément, VCI obtenait le droit de fabriquer, de vendre et de distribuer les produits sous licence, ainsi que le droit d'utiliser les marques de commerce visées par une licence en vue de promouvoir, de vendre et de distribuer ces produits. Les droits de VCI étaient exclusifs au Canada et non exclusifs dans d'autres pays, comme le prévoyaient les contrats.
+[7] Les redevances qui devaient être payées en vertu du contrat de licence étaient calculées sur les ventes nettes des produits. Dans le premier contrat, différents taux s'appliquaient selon que les produits sous licence étaient considérés comme utilisant une [TRADUCTION] « technique établie » (5 p. 100) ou comme étant des [TRADUCTION] « produits de nouvelle technique » (7,5 p. 100). Aucune distinction de ce genre n'était faite en vertu du second contrat, le taux étant fixé à 5 p. 100 des ventes nettes de tous les produits sous licence. Les redevances devaient être versées chaque trimestre en vertu du premier contrat de licence et tous les mois en vertu du second contrat, les deux contrats permettant aux parties de s'entendre sur d'autres échéances de paiement. Les contrats de licence empêchaient VCI de se livrer à des travaux de recherche et de développement en utilisant les produits sous licence et obligeaient VCI à prendre toute mesure nécessaire afin de protéger les droits de propriété intellectuelle de VIBV, et notamment à informer VIBV de tout emploi abusif ou de toute contrefaçon possible. Le droit de VIBV de céder les contrats de licence était expressément stipulé, VCI étant tenue d'obtenir au préalable le consentement écrit de VIBV afin de céder le contrat.
+[8] Le « contrat de licence » du 1er octobre 1987 est joint à l'annexe A. Il importe de faire mention en particulier des dispositions suivantes :
+[TRADUCTION]
+Article II
+A.
+Licences
+Article III
+A.
+Durée du contrat
+Article IV
+A.
+Montant des redevances
+Article IV
+B.
+Échéance des paiements et modes de paiement
+Article V
+Droits afférents à la technique sous licence et aux marques de commerce visées par une licence
+Article XI
+Cession
+Annexe C
+Taux de redevances
+[9] Le « contrat de cession » du 27 octobre 1995 est joint à l'annexe B. Il importe de faire mention en particulier des dispositions suivantes :
+[TRADUCTION]
+Article 1.
+Cession et licence
+Article 2.
+Prise en charge
+Article 3.
+Droits conservés par VIBV
+Article 4.
+Exécution d'obligations stipulées dans le contrat en question
+Article 5.
+Tiers bénéficiaire
+Article 6.
+Redevances
+Article 7.
+Modes de paiement
+Article 8.
+Livres et vérification
+Article 9.
+Résiliation
+Article 10.
+Garanties additionnelles
+[10] Une lettre de VIBV à VCI du 29 septembre 1997 concernant le contrat de licence est jointe à l'annexe C.
+[11] Le nouveau contrat de licence prenant effet le 1er octobre 2003 est joint à l'annexe D.
+[12] Le nouveau contrat de cession du 1er octobre 2003 est joint à l'annexe E. Il importe de faire mention en particulier de l'article 6, intitulé [TRADUCTION] « Redevances ».
+[13] Le premier contrat de cession conclu entre VIBV et VHBV prenait effet le 27 octobre 1995, soit le lendemain du jour où VIBV avait transféré son siège social aux Antilles néerlandaises. En vertu des deux contrats de cession, VHBV se voyait céder le droit d'accorder des licences à VCI à l'égard de la propriété intellectuelle de VIBV, ainsi que le droit de percevoir les paiements de redevances de VCI à titre de paiements pour ces licences. VHBV s'engageait à assurer l'exécution des conditions du contrat de licence et à prendre toute mesure nécessaire si VCI violait les conditions du contrat. VIBV continuait toutefois à être propriétaire de la propriété intellectuelle et VIBV était expressément désignée à titre de tiers bénéficiaire et avait le droit d'assurer l'exécution des droits du donneur de licence si VHBV omettait de le faire. Afin de garantir que VHBV respecte les modalités des contrats de cession, VIBV avait le droit d'examiner les livres comptables de VHBV pendant toute la durée des contrats et pendant les trois années suivant la résiliation.
+[14] En échange des droits accordés en vertu des contrats de cession, VHBV s'engageait à verser à VIBV un pourcentage de pleine concurrence des ventes nettes des produits sous licence dans les 30 jours suivant la réception des paiements de redevances effectués par VCI. Les contrats de cession précisaient que le pourcentage de pleine concurrence était assujetti à l'approbation des autorités fiscales néerlandaises.
+[15] L'Agence du revenu du Canada (l'« ARC ») a délivré des avis de cotisation en 2006 à l'égard des années 2002 et 2003, des pénalités étant imposées. Des avis d'opposition ont été déposés. Des avis de cotisation supplémentaires ont été délivrés pour les années 1995 à 2001 inclusivement ainsi que pour l'année 2004. Les montants d'impôt de non‑résident, plus les pénalités, qui ont été établis pour chaque année sont les suivants :
+Année
+Impôt de non‑résident
+Pénalités
+1995
+270 634 $
+27 063 $
+1996
+231 787 $
+23 179 $
+1997
+325 043 $
+32 504 $
+1998
+448 844 $
+44 884 $
+1999
+1 083 890 $
+106 389 $
+2000
+1 299 000 $
+129 900 $
+2001
+1 225 505 $
+122 552 $
+2002
+1 362 484 $
+136 248 $
+2003
+1 596 401 $
+158 940 $
+2004
+740 350 $
+74 035 $
+8 583 938 $
+855 694 $
+Les cotisations et nouvelles cotisations ont été ratifiées et l'appelante a interjeté appel.
+[16] L'ARC avait établi les pénalités obligatoires en vertu du paragraphe 227(8) de la Loi de l'impôt sur le revenu (la « Loi »). Les parties s'entendent pour dire que l'imposition des pénalités suivra l'issue de l'appel. De plus, il s'est initialement posé une question au sujet de la possibilité d'une prescription légale, mais les parties conviennent maintenant qu'aucune question n'est frappée de prescription. De plus, les parties ont convenu que la cotisation du 25 octobre 1996 concernant l'année 1995 doit être déférée au ministre du Revenu national pour nouvel examen et nouveau calcul compte tenu du fait qu'en 1995, VIBV résidait aux Pays‑Bas et qu'elle avait donc le droit de se prévaloir de la convention.
+Le point litigieux
+[17] VHBV était‑elle bénéficiaire effectif des redevances reçues de VCI de 1996 à 2004 et, dans l'affirmative, a‑t‑elle droit à un taux réduit de retenue en vertu de la convention?
+Les thèses des parties
+[18] La thèse de l'appelante
+L'appelante soutient que VHBV était le bénéficiaire effectif des redevances reçues de VCI pour les années 1996 à 2004 et, cela étant, qu'elle a droit au taux réduit de retenue d'impôt prévu par la convention.
+La thèse de l'appelante est fondée sur les arguments suivants :
+1.
+Le critère du « bénéficiaire effectif » énoncé dans la décision Prévost Car Inc. c. La Reine, 2008 CCI 231, confirmée par 2009 CAF 57.
+2.
+La convention, article 3, paragraphe 2;
+La Loi sur l'interprétation des conventions en matière d'impôts sur le revenu, article 3;
+La décision rendue par la Cour canadienne de l'impôt dans l'affaire Prévost, paragraphes 95 et 100, ainsi que les paragraphes 14 et 15 de la décision par laquelle la Cour d'appel fédérale a confirmé la décision Prévost.
+3.
+L'application de la définition de l'expression « bénéficiaire effectif » énoncée dans la décision Prévost en ce qui concerne :
+- la « possession »
+- l'« usage »
+- la « maîtrise »
+- le « risque »
+4.
+L'absence de preuve d'une relation de mandataire ou de prête‑nom ou du fait que VHBV agissait à titre de relais.
+[19] La thèse de l'intimée
+L'intimée soutient que c'est VIBV plutôt que VHBV qui est le bénéficiaire effectif des redevances reçues de VCI de 1996 à 2004, de sorte que VHBV n'a pas droit au taux réduit prévu par la convention. L'intimée allègue que les cotisations sont fondées en ce qui concerne VCI, qui a omis de retenir et de verser, en vertu de l'article 12 de la Loi, la retenue d'impôt de 25 p. 100 sur les redevances versées à VHBV, étant donné que VHBV n'était pas le bénéficiaire effectif des redevances que VCI lui avait versées.
+[20] La thèse de l'intimée est fondée sur trois arguments :
+1. VHBV n'est pas le bénéficiaire effectif des redevances;
+2. VHBV est un mandataire ou un relais;
+3. Les « attributs de la propriété » ne revenaient pas à VHBV, comme l'exige la décision Prévost, précitée.
+Les lois applicables
+[21] La convention entre le Canada et le Royaume des Pays‑Bas s'applique parce qu'elle traite de la question des redevances. L'article 12 de la convention traite des redevances ainsi :
+Article 12 : Redevances
+1. Les redevances provenant de l'un des États et payées à un résident de l'autre État sont imposables dans cet autre État.
+2. Toutefois, ces redevances sont aussi imposables dans l'État d'où elles proviennent et selon la législation de cet État, mais si la personne qui reçoit les redevances en est le bénéficiaire effectif, l'impôt ainsi établi ne peut excéder 10 pour cent du montant brut des redevances.
+3. Nonobstant les dispositions du paragraphe 2,
+a) les redevances à titre de droits d'auteur et autres rémunérations similaires concernant la production ou la reproduction d'une oeuvre littéraire, dramatique, musicale ou d'autres oeuvres artistiques (à l'exclusion des paiements concernant les films et les oeuvres enregistrées sur films, bandes magnétoscopiques ou autres moyens de reproduction destinés à la télévision); et
+b) les redevances pour l'usage ou la concession de l'usage de logiciels d'ordinateurs ou d'un brevet ou pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique (à l'exclusion des informations fournies dans le cadre d'un contrat de location ou de franchisage)
+provenant d'un État et payées à un résident de l'autre État qui en est le bénéficiaire effectif ne sont imposables que dans cet autre État.
+[22] Les dispositions pertinentes de la Loi figurent aux articles 212, 215 et 227; les dispositions qui ne sont pas ici citées sont incluses à l'annexe E :
+212(1) Impôt — Toute personne non‑résidente doit payer un impôt sur le revenu de 25 % sur toute somme qu'une personne résidant au Canada lui paie ou porte à son crédit, ou est réputée en vertu de la partie I lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel :
+[...]
+Loyers, redevances et autres paiements
+d) du loyer, de la redevance ou d'un paiement semblable [...]
+[...]
+215(1) Déduction et paiement de l'impôt — La personne qui verse, crédite ou fournit une somme sur laquelle un impôt sur le revenu est exigible en vertu de la présente partie, [...] ou qui est réputée avoir versé, crédité ou fourni une telle somme, doit [...] en déduire ou en retenir l'impôt applicable et le remettre sans délai au receveur général au nom de la personne non‑résidente, à valoir sur l'impôt [...]
+[...]
+215(6) Assujettissement à l'impôt — Lorsqu'une personne a omis de déduire ou de retenir, comme l'exige le présent article, une somme sur un montant payé à une personne non‑résidente ou porté à son crédit ou réputé avoir été payé à une personne non‑résidente ou porté à son crédit, cette personne est tenue de verser à titre d'impôt sous le régime de la présente partie, au nom de la personne non‑résidente, la totalité de la somme qui aurait dû être déduite ou retenue, et elle a le droit de déduire ou de retenir sur tout montant payé par elle à la personne non‑résidente ou portée à son crédit, ou par ailleurs de recouvrer de cette personne non‑résidente toute somme qu'elle a versée pour le compte de cette dernière à titre d'impôt sous le régime de la présente partie.
+[...]
+227(8) Défaut de retenue à la source — Sous réserve du paragraphe (8.5), toute personne qui ne déduit pas ou ne retient pas un montant au cours d'une année civile conformément au paragraphe 153(1) ou à l'article 215 est passible d'une pénalité :
+a) soit de 10 % du montant qui aurait dû être déduit ou retenu;
+[...]
+227(9) Défaut de remettre une retenue à la source — Sous réserve du paragraphe (9.5), toute personne qui ne remet pas ou ne paye pas au cours d'une année civile, de la manière et dans le délai prévus à la présente loi ou à son règlement, un montant déduit ou retenu conformément à la présente loi ou à son règlement ou un montant d'impôt qu'elle doit payer conformément à l'article 116 ou à une disposition réglementaire prise en application du paragraphe 215(4) est passible d'une pénalité [...]
+Analyse
+Les publications de l'Organisation de coopération et de développement économiques
+[23] La convention est fondée sur le Modèle de Convention fiscale concernant le revenu et la fortune de 1977 (le « modèle de 1977 ») de l'Organisation de coopération et de développement économiques (l'« OCDE »). En 1986, le Conseil de l'OCDE a adopté le rapport de l'OCDE sur les sociétés relais (le « rapport sur les sociétés relais »). Comme la Cour d'appel fédérale l'a reconnu dans l'arrêt Prévost c. La Reine, les modèles de convention servent de guide en matière d'interprétation et d'application de conventions existantes. Dans l'arrêt Prévost, la Cour d'appel fédérale a affirmé que les commentaires ultérieurs peuvent également servir de guides, avec certaines limitations, et a dit ce qui suit au paragraphe 11 :
+Il en va de même en ce qui concerne les Commentaires ultérieurs, lorsqu'ils représentent une interprétation juste des termes du Modèle de Convention et ne contredisent pas les Commentaires qui existaient lors de l'entrée en vigueur d'un traité déterminé et, évidemment, lorsque ni l'un ni l'autre des signataires du traité ne s'est opposé aux nouveaux Commentaires. [...]
+Il y a plusieurs points à souligner au sujet des modèles, des commentaires et du rapport sur les sociétés relais :
+1. En ce qui concerne le bénéficiaire effectif, les mandataires, les prête‑noms et, par la suite, les sociétés relais, le paragraphe 4 des commentaires de 1977 et les paragraphes 4 et 4.1 des commentaires mis à jour concernant l'article 12 sont à peu près similaires (certaines phrases étant identiques) au même commentaire à l'article 10, souvent cité dans la décision Prévost.
+2. L'intimée met l'accent sur le fait que VIBV a toujours veillé à demeurer propriétaire de la propriété intellectuelle sous licence, compte tenu de la remarque figurant au paragraphe 8.2 des commentaires mis à jour, mais on ne sait pas trop ce à quoi l'intimée veut en venir en soulignant ce fait, étant donné que les commentaires mis à jour établissent que les paiements ne peuvent pas à proprement parler être considérés comme des paiements de redevances s'il y a transfert de la pleine propriété :
+8.2 — Lorsqu'une rémunération est versée en contrepartie du transfert de la pleine propriété d'un bien mentionné dans la définition, cette rémunération n'est pas considérée comme une rémunération « pour l'usage ou la concession de l'usage » de ce bien et ne peut donc être considérée comme une redevance.
+3. Les paragraphes 7 des commentaires de 1977 et de 2003 donnent un seul exemple dans lequel les faits sont semblables à ceux de l'espèce :
+[...] le bénéficiaire effectif des redevances provenant d'un État contractant est une société résidente de l'autre État contractant dont le capital est en totalité ou en partie détenu par des actionnaires non résidents de ce dernier État, qui, de pratique courante, ne procède pas à la distribution de ses bénéfices sous forme de dividendes et qui jouit d'un régime fiscal privilégié (société privée d'investissement, société écran). [...]
+Dans les commentaires, on soulève ensuite la question de savoir s'il est justifiable d'étendre les exemptions fiscales prévues à cet article à la partie qui est la source des redevances; on dit ensuite que les pays peuvent vouloir s'entendre, lorsqu'ils négocient, sur des exemptions spéciales tenant compte de la situation décrite.
+4. En parlant du refus d'accorder des avantages fiscaux aux sociétés relais, aux articles 10 à 12, et des caractéristiques qu'un relais peut avoir, le rapport sur les sociétés relais dit ce qui suit, à l'alinéa 14b) :
+[...] La clause s'appliquera cependant aussi dans d'autres cas où une personne passe un contrat ou assume des obligations qui lui confèrent des responsabilités analogues à celles d'un agent ou mandataire. Ainsi, une société de transit ne pourra normalement être considérée comme le bénéficiaire effectif du revenu si, bien que possédant formellement certains actifs, elle ne dispose que de pouvoirs très restreints qui la mettent simplement dans la position d'un dépositaire ou d'un administrateur agissant pour le compte des parties intéressées (dans la plupart des cas, les actionnaires de la société de transit). [...]
+[24] Dans l'arrêt Prévost, la Cour d'appel fédérale a expressément confirmé l'énoncé suivant du juge en chef Rip :
+[100] [...] Lorsqu'une personne morale est en cause, il n'y a pas lieu de soulever le voile de la personnalité juridique, à moins que la société ne serve de relais pour une autre personne et qu'elle n'ait absolument aucune latitude quant à l'usage ou à l'affectation des fonds qui passent par elle en sa qualité de relais, ou qu'elle ne se soit engagée à agir pour le compte d'un tiers et conformément aux instructions de ce dernier, sans avoir aucun droit de faire autre chose que ce que ce tiers lui dit, comme dans le cas d'un courtier en valeurs mobilières, qui est le propriétaire inscrit des actions qu'il détient pour le compte de clients. [...]
+[Non souligné dans l'original.]
+Après avoir confirmé le paragraphe précité, la Cour d'appel fédérale a ajouté ce qui suit :
+[15] [...] Sa Majesté, il me semble, demande à la Cour de retenir une conception négative des sociétés de portefeuille qui n'a pas été adoptée en droit interne canadien ou au sein de la communauté internationale ou du gouvernement canadien par le truchement d'une opposition.
+L'énoncé de la Cour d'appel fédérale est également étayé par les mises en garde que le Comité des affaires fiscales a faites au sujet des dangers que présente le fait de chercher trop volontiers au‑delà des sociétés, ce qui « est incompatible avec le principe de la reconnaissance juridique des sociétés qui fait partie des systèmes juridiques de tous les pays [...] » (alinéa 24(i) du rapport sur les sociétés relais).
+Prévost c. La Reine
+[25] La question qui est ici en litige se résume à l'application du « critère du bénéficiaire effectif ». L'appelante et l'intimée s'entendent pour dire qu'il convient d'appliquer ce critère selon la décision Prévost c. La Reine, que la Cour d'appel fédérale a confirmée. Cet appel portait sur l'interprétation de l'expression « bénéficiaire effectif » figurant à l'article 10 de la convention. L'article 12 est semblable à l'article 10; selon cette disposition, la personne qui reçoit les paiements en question doit résider dans l'autre État contractant et doit être le « bénéficiaire effectif » des redevances pour avoir droit à l'allégement que prévoit la disposition en question. La Cour d'appel fédérale a expressément retenu les explications que le juge en chef Rip avait données dans la décision Prévost au sujet de cette expression, en allant jusqu'à dire qu'elles « [...] saisissent l'essence des concepts de « bénéficiaire effectif » / « beneficial owner » telle qu'elle ressort de l'examen du sens général, technique et juridique de ces termes ». La Cour d'appel fédérale a souligné que ces explications s'accordent également avec les commentaires de l'OCDE et le rapport sur les sociétés relais. La Cour d'appel fédérale a renvoyé à maintes reprises au paragraphe 100 de la décision rendue par le juge en chef Rip dans l'affaire Prévost, en citant le passage suivant :
+[100] À mon avis, le « bénéficiaire effectif » du dividende est la personne qui le reçoit pour son propre usage et sa propre jouissance, qui assume les risques liés au dividende et qui dispose en maître du dividende. La personne qui est le bénéficiaire effectif du dividende est celle à qui reviennent tous les attributs du droit de propriété. Bref, le dividende profite à son propriétaire lui‑même, et cette personne n'a aucun compte à rendre à qui que ce soit sur ce qu'elle fait du revenu de dividende. [...] Lorsqu'il existe un mandat ou encore lorsque le bien est détenu par un prête‑nom, on cherche à déterminer pour le compte de qui agit l'agent ou le mandataire ou au profit de qui le prête‑nom a prêté son nom. Lorsqu'une personne morale est en cause, il n'y a pas lieu de soulever le voile de la personnalité juridique, à moins que la société ne serve de relais pour une autre personne et qu'elle n'ait absolument aucune latitude quant à l'usage ou à l'affectation des fonds qui passent par elle en sa qualité de relais, ou qu'elle ne se soit engagée à agir pour le compte d'un tiers et conformément aux instructions de ce dernier, sans avoir aucun droit de faire autre chose que ce que ce tiers lui dit, comme dans le cas d'un courtier en valeurs mobilières, qui est le propriétaire inscrit des actions qu'il détient pour le compte de clients. La relation qui existe entre PHB.V. et ses actionnaires est d'une autre nature.
+[Non souligné dans l'original.]
+[26] Je tiens également à signaler les observations suivantes que le juge en chef Rip a faites au paragraphe 98 de la décision Prévost :
+[98] En common law, un fiduciaire, par exemple, détient le bien au bénéfice d'un tiers. Il est, juridiquement, le propriétaire du bien, mais les attributs de la propriété, à savoir la possession, l'usage, le risque et la maîtrise, n'appartiennent pas à lui personnellement. Le fiduciaire détient le bien pour le compte d'un tiers et c'est ce tiers, au bout du compte, qui a l'usage et la maîtrise du bien et qui assume le risque y afférent. De plus, en common law, une personne peut avoir un intérêt viager dans un bien, et une autre peut détenir un intérêt résiduel dans le même bien. Le détenteur de l'intérêt viager reçoit le revenu généré par le bien et ce revenu lui appartient; le détenteur de l'intérêt résiduel est propriétaire du capital. Contrairement à ce qui se passe en droit civil, il n'y a pas de démembrement du droit de propriété en common law. Le terme anglais « beneficial » établit une distinction entre le véritable propriétaire, ou le propriétaire économique, du bien et celui qui est simplement propriétaire en common law et qui détient la propriété du bien au bénéfice d'un tiers, à savoir le bénéficiaire effectif.
+Le bénéficiaire effectif
+[27] Comme la Cour d'appel fédérale l'a confirmé dans l'arrêt Prévost, en établissant qui est le bénéficiaire effectif des éléments en question (par exemple, le paiement de dividendes ou de redevances), il faut déterminer qui a reçu les paiements pour son propre usage et sa propre jouissance, qui a assumé les risques et qui disposait en maître du paiement qu'il avait reçu. Ici, l'accent est mis sur les attributs de la propriété du paiement ou de l'élément en question.
+[28] Dans une situation telle que celle qui est ici en cause, où il faut se demander si la personne qui reçoit les redevances peut être considérée comme un relais, il faut examiner de près qui a le droit afférent à l'usage et à la jouissance des paiements, qui en assume les risques et qui en dispose en maître. VHBV a signé des contrats prévoyant qu'elle effectuerait en faveur de VIBV des paiements correspondant à un pourcentage donné des ventes nettes dans les 30 jours de la réception des paiements effectués par VCI. L'intimée affirme qu'il est possible de faire une distinction entre la présente affaire et l'affaire Prévost à cause de l'obligation contractuelle qui incombait à VHBV d'effectuer des paiements en faveur de VIBV dans un délai précis. Dans l'arrêt Prévost, la cour a conclu qu'il n'y avait pas de mouvements de fonds automatiques ou préétablis, et elle a souligné que la société résidant aux Pays‑Bas n'était pas partie à la convention d'actionnaires. L'évaluation des faits se rapportant à l'usage et à l'affectation que VHBV a faits des fonds reçus de VCI montre également clairement que, malgré l'obligation contractuelle d'effectuer des paiements en faveur de VIBV, il n'y avait pas de mouvements automatiques de fonds dans ce cas‑ci.
+[29] Compte tenu de la décision Prévost, il y a réellement quatre éléments à prendre en compte lorsque l'on examine qui est le bénéficiaire effectif; il s'agit des éléments suivants : a) la possession; b) l'usage; c) le risque; d) la maîtrise. Il s'agit donc de savoir si VHBV avait la possession et l'usage des redevances reçues de VCI, en assumait les risques et en disposait en maître, compte tenu a) du contrat de licence; b) du contrat de cession; c) du nouveau contrat de licence; d) du nouveau contrat de cession; e) du mouvement des fonds; f) des états financiers et des relevés bancaires de VHBV. Tels sont les instruments ou documents clés qu'il faut examiner afin de savoir qui a la possession et l'usage des redevances en question, qui en assume les risques et qui en dispose en maître. Il importe également de souligner, comme le juge en chef Rip l'a fait remarquer dans la décision Prévost, que la cour ne soulèvera probablement pas le voile de la personnalité juridique, à moins que la société n'ait aucune latitude quant à l'usage et à l'affectation des fonds. La cour cherchera à savoir si la partie en question avait les droits et les responsabilités du bénéficiaire effectif en ce qui concerne les paiements de redevances.
+[30] L'appelante a présenté à la Cour une preuve détaillée indiquant le flux des paiements de redevances effectués par VCI en faveur de VHBV, l'utilisation de ces fonds par VHBV et les paiements subséquents effectués par VHBV en faveur de VIBV à l'égard des montants qu'elle devait payer en vertu des contrats de cession. L'appelante a appelé à témoigner Peter Pelletier, un dirigeant des sociétés du groupe Velcro. Selon moi, ce témoin était fort crédible et particulièrement utile. Au moment où il a témoigné, M. Pelletier était trésorier et directeur financier des sociétés du groupe Velcro et était responsable de la consolidation des rapports financiers de toutes les sociétés du groupe Velcro et de la fourniture de ces renseignements à Velcro Industries N.V. (VINV), qui était une société cotée en bourse au cours de la période ici en cause. M. Pelletier possédait une connaissance approfondie des sociétés du groupe Velcro, en raison des divers postes qu'il avait occupés auprès des sociétés au fil des ans, et il a eu un rôle essentiel dans la réorganisation des sociétés du groupe Velcro, en 1995. M. Pelletier a présenté une preuve détaillée d'une façon directe et franche. Son comportement, sa façon de se présenter et l'étendue de ses connaissances indiquent fortement jusqu'à quel point il s'occupait des finances des sociétés du groupe Velcro. M. Pelletier a présenté sa preuve, lors de l'interrogatoire principal et du contre‑interrogatoire, avec calme, en pleine connaissance de cause et d'une façon efficace. M. Pelletier a répondu à toutes les questions directement, en donnant au besoin des explications détaillées. Il n'a pas essayé d'éviter de répondre à certaines questions ou de formuler ses réponses d'une manière qui susciterait des doutes. Il a été honnête et sincère en présentant sa preuve, et j'ai jugé qu'il était une personne crédible qui disait la vérité.
+[31] Monsieur Pelletier a expliqué que VIBV est titulaire de tous les droits de propriété intellectuelle afférents aux marques Velcro et que cette société engage les dépenses au titre des travaux de recherche et de développement pour la mise au point de nouveaux produits et de nouvelles applications. M. Pelletier a décrit le contrat de licence entre VIBV et VCI comme étant semblable à un grand nombre de contrats de licence que VIBV avait conclus avec des entités s'occupant de fabrication et de vente dans d'autres pays. M. Pelletier a déclaré que la cession par VIBV du contrat de licence en faveur de VHBV visait à transférer à VHBV la gestion des flux de redevances associés à la licence. VIBV a continué à être titulaire de la propriété intellectuelle, mais VHBV a assumé les droits et les obligations que VCI avait en vertu du contrat de licence. Toutefois, VIBV conservait le droit d'assurer l'exécution des obligations contractuelles de VCI si VHBV omettait de le faire.
+[32] Amaco Management Services B.V. (« Amaco »), une société sans lien de dépendance, s'occupait en bonne partie de la gestion de VHBV, et notamment des services financiers. M. Pelletier a expliqué que le conseil d'administration de VHBV se réunissait au besoin, mais que les réunions n'étaient pas prévues à l'avance et qu'aucun procès‑verbal des réunions n'était établi. Toutes les résolutions étaient adoptées sur consentement unanime. M. Pelletier a résumé ainsi les trois principales activités de VHBV : a) la détention d'actions dans des filiales; b) la prestation de services de prêt en faveur de filiales; c) la gestion des flux de redevances, ces redevances constituant les principaux éléments de revenus et de dépenses. Les déclarations de revenus de VHBV, préparées et produites à Amsterdam, étayaient la description que M. Pelletier a donnée des activités de VHBV, indiquant, entre autres, les investissements dans des filiales, les emprunts contractés par des filiales, les revenus en intérêts tirés des prêts consentis aux filiales, ainsi que les redevances et les dividendes provenant des filiales.
+[33] Monsieur Pelletier a donné des explications au sujet du flux des paiements de redevances et de leur utilisation au cours des années en question, explications étayées par les documents bancaires de VHBV. De 1996 à 2004, VHBV recevait de VCI des paiements de redevances en devises canadiennes, le montant y afférent correspondant au pourcentage des ventes nettes stipulé dans le contrat de licence, moins l'impôt de 10 p. 100 retenu et versé par VCI jusqu'en 1999, comme l'exigeait la convention. Lorsqu'ils étaient reçus, ces paiements de redevances étaient intégrés aux autres comptes de VHBV et ils étaient utilisés à diverses fins par VHBV, à son entière discrétion. Les fonds n'étaient pas conservés séparément et ensuite versés directement à VIBV; les redevances étaient plutôt déposées dans divers autres comptes en différentes devises, et ces comptes servaient à financer les activités générales de VHBV, y compris les prêts d'investissement, les frais d'exploitation et les honoraires professionnels. Lorsque VHBV effectuait les paiements en vertu du contrat de cession, ces paiements n'étaient pas automatiquement effectués et ils ne provenaient pas d'un compte distinct établi uniquement pour les fonds des redevances. VHBV utilisait les comptes dans lesquels les paiements de redevances étaient intégrés à d'autres fonds à des fins générales, et la société transférait de ces comptes les montants dus, moins le pourcentage retenu approuvé par les autorités fiscales des Pays‑Bas aux fins de la détermination des prix de transfert.
+[34] En examinant la question du bénéficiaire effectif, il faut appliquer le critère que le juge en chef Rip a énoncé et, ce faisant, il faut examiner le sens de termes individuels, à savoir la « possession », l'« usage », le « risque » et la « maîtrise ». Ces termes ont des sens courants.
+[35] Si l'on consulte le dictionnaire Black's Law Dictionary sous la rubrique « possession » (possession), ce terme est défini ainsi : [TRADUCTION] « Maîtrise exercée sur un bien » ou [TRADUCTION] « L'exercice de la maîtrise sur un bien ». Comment VHBV exerçait‑elle une maîtrise sur les redevances reçues de VCI? Elle le faisait d'un certain nombre de façons :
+1. Grâce à l'interaction entre les contrats de licence et les contrats de cession, VHBV avait le droit de recevoir les redevances.
+2. Les redevances étaient déposées dans un compte, en monnaie canadienne, détenu par VHBV.
+3. VHBV avait la possession et la maîtrise exclusives de ces comptes.
+4. Les redevances elles‑mêmes n'étaient pas subrogées à d'autres fonds de VHBV. Les redevances étaient intégrées aux autres rentrées et sorties de fonds des comptes de VHBV et étaient transférées avec ces sommes d'argent.
+5. Les montants étaient habituellement virés de comptes en dollars canadiens à des comptes en dollars américains et ils étaient parfois convertis le lendemain ou à un autre moment ultérieur.
+6. VHBV convertissait en fin de compte l'argent et le déposait dans le compte américain.
+7. Lorsque l'argent était déposé dans les comptes de VHBV, il rapportait des intérêts, ces intérêts étant portés au crédit de VHBV et non de quelqu'un d'autre ou de quelque autre entité.
+8. Divers frais étaient déduits des comptes de VHBV; il s'agissait d'éléments dont VHBV était responsable, notamment les factures de téléphone, les honoraires professionnels et les remboursements de prêts. Ces paiements provenaient des comptes de VHBV.
+9. L'argent était parfois déposé dans un compte de dépôt en devises américaines et il était parfois déposé dans un compte en devises néerlandaises; il semble que le mouvement des fonds entre les comptes n'était assujetti à aucune restriction.
+10. VHBV n'avait pas à demander d'instructions à qui que ce soit à chaque étape de l'affectation des fonds.
+11. Les fonds étaient intégrés aux fonds généraux de VHBV.
+12. Les paiements de redevances que VHBV recevait de VCI s'élevaient à un montant donné, alors que le montant que VHBV versait à VIBV était un montant différent. Les sommes n'étaient pas simplement reçues puis versées d'une façon automatique.
+[36] La définition du terme « use » (usage) dans le Black's Law Dictionary fait mention de l'affectation ou de l'emploi de quelque chose : [TRADUCTION] « Une longue possession continue ou un long emploi continu d'une chose pour lequel cette chose est adaptée. »
+[37] VHBV « utilisait »‑elle les redevances au sens courant du terme? Affectait‑elle les paiements de redevances à son propre profit? En examinant la question de la possession, il convient de faire mention des faits dont il est question au paragraphe 35. Les états des flux de trésorerie produits par l'appelante au cours de l'instruction montrent que les redevances étaient intégrées à d'autres fonds et qu'elles servaient à diverses fins :
+a) le paiement des factures et des honoraires;
+b) le remboursement de prêts;
+c) la production d'un revenu en intérêts au profit de VHBV;
+d) les investissements dans de nouvelles entreprises;
+e) les paiements effectués en vertu d'obligations légales.
+[38] Il n'y a rien dans le contrat de licence, dans le nouveau contrat de licence, dans le contrat de cession ou dans le nouveau contrat de cession qui empêche VHBV d'utiliser les redevances : ces redevances n'étaient aucunement conservées séparément, elles étaient intégrées à d'autres fonds et elles étaient utilisées aux fins de l'exploitation comme VHBV le jugeait bon. L'utilisation des fonds n'était assujettie à aucune restriction : VHBV n'avait qu'à satisfaire à certaines obligations contractuelles à l'égard des sommes qu'elle devait à VIBV en vertu d'un contrat.
+[39] Dans le Black's Law Dictionary, le terme « risk » (risque) est défini comme étant [TRADUCTION] « la possibilité de subir un préjudice ou une perte » ou comme étant [TRADUCTION] « la responsabilité découlant d'un préjudice ou d'une perte ». Il est ici question de perte économique.
+[40] VHBV assumait de fait certains risques à l'égard des redevances. Il existait un risque de change, en ce sens que les sommes que VHBV recevait en argent canadien étaient ensuite converties en devises américaines ou en devises néerlandaises. Aucune disposition des contrats ne prévoyait le transfert de quelque risque de change à quelqu'un d'autre. Les redevances étaient des actifs de VHBV. Les créanciers pouvaient s'en prévaloir et les redevances étaient inscrites à titre d'actifs dans les états financiers. VHBV déclarait ces fonds à titre d'actifs dans ses états financiers et ces fonds risquaient donc d'être saisis ou mis à la disposition des créanciers, sans que VIBV occupe un rang prioritaire à titre de créancier. De plus, les contrats ne prévoyaient aucune indemnisation en vue de réduire les risques de VHBV.
+[41] Enfin, en ce qui concerne la « maîtrise », le Black's Law Dictionary définit le terme « control » (maîtrise) comme étant [TRADUCTION] « le fait d'exercer un pouvoir ou une influence sur quelque chose ».
+[42] Un grand nombre des observations mentionnées dans l'interprétation des termes « possession », « usage » et « risque » s'appliquent également au terme « maîtrise ». Il a été noté que les redevances ne faisaient pas que passer par VHBV; à la discrétion de VHBV, les paiements étaient intégrés à d'autres fonds de VHBV et ils étaient exposés au risque que présentaient les créanciers, de la même façon que les autres actifs de VHBV. VHBV exerçait sa maîtrise, les fonds pouvant augmenter ou diminuer selon qu'ils rapportaient des intérêts ou qu'ils perdaient leur valeur à cause du risque de change et de l'utilisation des fonds, en partie, aux fins du paiement d'autres obligations de VHBV.
+[43] L'intimée affirme que VHBV n'est pas bénéficiaire effectif des redevances et elle renvoie aux attributs à prendre en compte. Elle mentionne l'usage et la jouissance des redevances, mais le montant des redevances n'était pas entièrement versé à VIBV; il ne l'était que dans une proportion d'environ 90 p. 100. Les 10 p. 100 restants étaient assujettis à l'usage, à la jouissance et à la maîtrise discrétionnaires de VHBV, à supposer que celle‑ci utilise exactement les mêmes fonds, ce qui n'était pas nécessairement le cas puisque les fonds des redevances étaient intégrés aux fonds généraux de VHBV. VHBV avait également l'usage, la jouissance et la maîtrise des fonds compte tenu des taux de change et de l'investissement possible de certains paiements de redevances. De plus, VHBV assumait le risque associé aux paiements de redevances et pouvait sans aucun doute disposer en maître de celles‑ci, comme l'indiquent a) le fait que les fonds étaient intégrés aux autres actifs, b) le fait que les fonds étaient assujettis aux fluctuations des taux de change, c) le fait que VHBV pouvait investir les fonds et gagner un revenu en intérêts, et qu'elle pouvait utiliser une partie des fonds, sinon la totalité, en vue de satisfaire à ses autres obligations financières. Ces faits constituent tous des attributs de la prise en charge des risques.
+[44] VHBV était tenue de verser à VIBV un certain montant correspondant à 90 p. 100 des redevances reçues. Les sommes versées ne provenaient pas nécessairement des paiements de redevances qui étaient reçus, puisque les paiements initiaux étaient intégrés aux autres actifs de VHBV. Les sommes versées à VIBV n'étaient pas nécessairement payées en devises identiques; si ces sommes étaient converties de dollars canadiens en dollars américains ou en devises néerlandaises, le montant pouvait être bien différent à cause du taux de change.
+[45] Malgré l'assertion contraire de l'intimée, il n'y avait pas de mouvements de fonds préétablis. Il y avait une obligation contractuelle de la part de VHBV de verser à VIBV un certain montant dans un délai précis. Ces sommes n'étaient pas nécessairement identifiées en tant que sommes précises; elles pouvaient représenter un pourcentage d'un montant donné que VHBV recevait de VCI, mais il n'y avait pas de mouvements automatiques de sommes précises parce que VHBV avait toute la latitude quant à l'utilisation de ces sommes.
+[46] L'intimée affirme que VHBV était un simple mandataire de VIBV; elle renvoie à la décision Roberge Transport Inc. c. La Reine, 2010 CCI 155. Au paragraphe 53, la Cour a défini le mandat ainsi :
+[53] La définition suivante du terme « mandat », de l'auteur Gerald Fridman, a été citée et appliquée dans un certain nombre de décisions canadiennes :
+[TRADUCTION]
+Il existe un mandat lorsqu'une personne, le mandataire, est, en droit, considérée comme représentant une autre personne, le mandant, d'une façon qui lui permette de modifier la position juridique du mandant en concluant des contrats ou en disposant de biens.
+[47] En d'autres termes, s'il est impossible de modifier la situation juridique, l'examen de la question du mandat prend fin. La même interprétation a été donnée au terme « mandat » dans l'arrêt Merchant Law Group c. La Reine, 2010 CAF 206, où la Cour d'appel fédérale a dit ce qui suit :
+[17] Il est bien établi en common law qu'une relation de mandataire exige que le mandataire puisse influer sur la situation juridique du mandant à l'égard des tiers, en concluant des contrats pour le compte du mandant ou en disposant des biens de celui‑ci [...] Bowstead and Reynolds on Agency, 17e éd. (London : Sweet & Maxwell, 2001), au paragraphe 1‑001. Pour reprendre les propos du professeur Fridman, qui cite la décision Royal Securities Corp. Ltd. c. Montreal Trust Co., [1967] 1 O.R. 137, page 155 (H.C.J.), conf. par [1967] 2 O.R. 200 (C.A.), [TRADUCTION] « le droit des mandats ne s'appliquera que lorsque les actes accomplis par une personne pour le compte d'une autre personne modifient la situation juridique de celle‑ci, c'est‑à‑dire les droits et les obligations qu'elle a à l'égard des autres personnes. La cession du droit d'exercer les pouvoirs juridiques d'une autre personne, et d'influer ainsi sur sa situation juridique, constitue une caractéristique essentielle de la relation de mandataire. »
+[...]
+[22] La Cour a déjà reconnu que l'une des conditions essentielles d'une relation de mandataire est le pouvoir du mandataire d'influer sur la situation juridique du mandant. Ainsi, dans Glengarry Bingo, après que la Cour eut déterminé que le mandataire présumé n'avait pas le pouvoir d'influer sur la situation juridique de son mandant présumé, elle a conclu qu'il était inutile d'examiner les autres indices de la relation de mandataire. L'absence de capacité d'influer sur la situation juridique du mandant a établi de façon irréfutable qu'il n'existait pas de relation de mandataire. Voir : Glengarry Bingo, au paragraphe 32. La Cour a expliqué ce qui suit, au paragraphe 33 :
+L'exemple le plus courant de la façon dont un mandataire peut modifier la position juridique de son mandant est la conclusion d'un contrat au nom du mandant. Il est clair en l'espèce que GBA n'était pas autorisée à conclure des contrats avec des tiers au nom de ses membres. Ainsi, GBA n'aurait pas pu conclure un contrat pour l'achat de matériel de bingo au nom de ses membres. Elle pouvait uniquement s'engager elle-même. Dans le contrat d'achat, GBA s'est engagée elle-même; elle n'a pas prétendu agir au nom de ses membres ni les exposer à un risque. La réaction d'ABS lorsque GBA a omis d'effectuer des versements sur le matériel démontre que les membres étaient à l'abri du risque : ABS n'a pas cherché à se faire payer par les membres et les membres n'ont jamais pensé qu'ils pourraient être responsables. Ces événements montrent que GBA ne pouvait pas modifier la position juridique de ses membres, d'où l'absence d'un élément essentiel du mandat. [Non souligné dans l'original.]
+[23] Dans d'autres affaires, on a examiné l'importance de la capacité d'un mandataire d'influer sur la situation juridique du mandant ainsi que les risques assumés par le mandant, et on est arrivé à la même conclusion. Voir, par exemple, Kinguk Trawl Inc. c. Canada (2003), 301 N.R. 89 (C.A.F.), aux paragraphes 35 et 36, Parkland Crane Service Ltd c. Canada, [1994] G.S.T.C. 58 (C.C.I.), aux pages 58‑10, et 58‑11, et Shvartsman c. Canada, [2002] A.C.I. no 148, au paragraphe 12.
+[48] VHBV n'avait pas la capacité d'influer sur la situation juridique de VIBV et elle n'était donc pas un mandataire. Les contrats de cession renfermaient une disposition prévoyant que VHBV ne pouvait pas modifier le contrat en question ou renoncer à l'exécution d'une disposition du contrat sans obtenir au préalable le consentement écrit exprès de VIBV et, en outre, qu'il ne pouvait y avoir de modification du contrat ou d'une disposition du contrat ni de renonciation au contrat ou à une disposition du contrat à moins que la partie à l'encontre de laquelle on cherchait à faire exécuter cette modification ou renonciation ait effectué une cession. En outre, VHBV ne pouvait pas céder les contrats sans obtenir au préalable le consentement écrit de VIBV. Pour être en mesure d'influer sur la situation juridique, il faut pouvoir procéder à une cession ou à une modification; or, VHBV ne pouvait pas le faire.
+[49] Bien que VHBV ait été obligée d'assurer l'exécution des contrats de licence et d'aviser VIBV de tout manquement et qu'elle ait été obligée de prendre des mesures en vue de remédier au manquement, sauf instruction contraire de VIBV, et bien que VIBV ait eu le droit d'examiner et de vérifier les livres comptables de VHBV et que VHBV ait été tenue, en vertu des contrats de cession et de licence, de prendre toute mesure qu'il était raisonnable pour VIBV de demander en vue de protéger ses droits, l'aspect clé d'un mandat est que le mandataire doit être en mesure d'influer sur la situation juridique de l'autre partie. Or, tel n'est pas le cas en ce qui concerne VIBV par rapport à VHBV.
+[50] Quant à la question de l'existence d'un prête‑nom, le dictionnaire Black's Law Dictionary définit le terme « nominee » (prête‑nom) comme étant [TRADUCTION] « une personne désignée en vue d'agir à la place d'une autre, habituellement d'une façon restreinte ». On n'a présenté à la Cour aucun élément de preuve indiquant que VHBV était assujettie à certaines restrictions, eu égard aux faits. De fait, VHBV agissait en tout temps pour son propre compte, sous réserve des contrats de cession.
+[51] En ce qui concerne le relais, le dictionnaire Canadian Oxford Dictionary définit le terme « conduit » (relais) comme étant [TRADUCTION] « un canal ou un tuyau qui contient des liquides », [TRADUCTION] « une personne ou un organisme [...] par l'entremise duquel quelque chose est transmis (le médiateur servait de relais de communication entre les parties) ». Il n'y a rien dans les contrats qui donne à penser que VHBV ait été un simple relais. Les états financiers ne montrent pas que VHBV était simplement un mandataire, un prête‑nom ou un relais — bien au contraire. Pour que la Cour conclue que VHBV agissait à titre de relais, il aurait fallu que VHBV n'ait aucune latitude quant aux fonds.
+[52] De toute évidence, VHBV avait une certaine latitude, compte tenu des faits susmentionnés, quant à l'usage et à l'affectation des fonds provenant des redevances. Il est passablement évident que VHBV, même si elle avait peut‑être une latitude restreinte, avait néanmoins de fait une certaine latitude. Selon la décision Prévost, il ne doit y avoir « absolument aucune latitude » — tel n'est pas ici le cas eu égard aux faits portés à la connaissance de la Cour. Ce n'est que lorsqu'il n'y a « absolument aucune latitude » que la Cour prendra la mesure draconienne de soulever le voile de la personnalité juridique.
+[53] L'intimée fait également valoir qu'étant donné que VIBV était expressément un tiers bénéficiaire du contrat de cession, le droit de VHBV de recevoir les paiements de redevances n'était pas absolu. Selon les contrats de cession, VIBV pouvait exercer les droits de VHBV et assurer l'exécution des obligations incombant à VCI en vertu des contrats de licence ainsi qu'assurer l'exercice de ces droits, à son entière discrétion. Lorsque l'effet de cette clause est examiné étape par étape, on peut voir que l'usage et la jouissance, ainsi que la prise en charge des risques et la maîtrise des fonds, continuaient à relever de VHBV. Ainsi, si VCI n'effectuait pas un paiement et que VHBV ne veillait pas immédiatement à assurer l'exécution de cette obligation, VIBV pouvait exercer son droit en vertu des contrats de cession et poursuivre VCI devant les tribunaux en vue d'assurer l'exécution de son obligation. Néanmoins, c'est envers VHBV que VCI avait l'obligation de payer, en vertu des contrats de licence. Si le tribunal ordonnait l'exécution de cette obligation, c'était VHBV qui recevait le paiement. VIBV pouvait ensuite engager des poursuites contre VHBV en vue d'obtenir le paiement en vertu des contrats de cession (si le paiement n'avait pas déjà été effectué par VHBV), mais il s'agirait du paiement du montant dû et VHBV aurait encore eu toute latitude quant à la source des paiements provenant de ses comptes généraux. VIBV n'avait aucun droit juridique aux sommes précises que VCI avait versées à VHBV. De fait, ce scénario est semblable à celui qui existait dans l'affaire Prévost et, comme dans l'affaire Prévost, lorsqu'une telle entente (dans ce cas‑là, une convention d'actionnaires) ne prévoit pas le transfert automatique des dividendes ou des redevances à la partie contractante, sans que VHBV (ou Prévost) ait quelque latitude, on ne peut pas dire que le tiers devient le bénéficiaire effectif du paiement.
+[54] Si l'on examine diverses décisions mentionnées qui ont été rendues depuis que la Cour d'appel fédérale a rendu sa décision dans l'affaire Prévost, la décision Alberta Power (2000) Ltd. c. Canada, 2009 CCI 412, est la seule qui traite à fond de la question du bénéficiaire effectif. J'hésite à citer mes propres observations, mais je crois que les observations suivantes que j'ai faites dans la décision Alberta Power (2000) Ltd. montrent la différence entre le point de vue de l'intimée et celui de l'appelante :
+[63] La décision Matchwood Investments Ltd. c. R., 1998 CarswellNat 1486, [1998] 4 C.T.C. 2492, a décidé que le contribuable qui a grevé un bien immobilier d'une hypothèque afin de réclamer une réserve pour gains en capital n'a pas obtenu la propriété effective du bien avant l'enregistrement de l'acte de vente; le juge McArthur, de la CCI, a formulé les remarques suivantes au sujet de la question de savoir qui est un « propriétaire bénéficiaire » :
+8 Le ministre soutient que l'appelante, qui était la créancière hypothécaire en possession du bien grevé en 1994, n'a pas obtenu la propriété bénéficiaire du bien avant l'exécution et l'enregistrement de l'acte de transport par renonciation en sa faveur en avril 1995. Au paragraphe 12 de la réponse à l'avis d'appel, l'intimée utilise le mot « intérêt » plutôt que « propriété » ainsi que le prévoit la Loi. Les présents motifs pourraient être différents si le mot « intérêt » était correct. À cet égard, je renvoie à la définition de « propriété bénéficiaire » du Law Dictionary de Mozley et Whiteleys et du Dictionary of Canadian Law, Carswell, deuxième édition. Je me pencherai sur les mots « propriété bénéficiaire ». Bien que l'appelante ait acquis de nouveau la possession du bien en 1994, elle n'a pas obtenu le titre ou la propriété avant 1995, au moment où un acte de transport par renonciation lui a été remis. Il est regrettable que cet acte n'ait pas pu être déposé en preuve. Bien que l'on convienne qu'il a été enregistré en 1995, rien dans la preuve ne parle du moment où il a été signé, même s'il semble qu'il ait également été signé en 1995. Le Dictionary of Canadian Law, deuxième édition, définit le terme « propriétaire bénéficiaire » en partie comme suit :
+[TRADUCTION]
+[...] le véritable propriétaire du bien, même s'il est au nom d'une autre personne (on cite l'affaire Csak v. Aumon (1990) 69 DLR, aux pages 567 et 570, où le juge Lane a déclaré « Une personne qui a le droit de forer dans une unité de minéraux et d'en produire du pétrole et de l'essence ou de la potasse [...] ».
+[55] Comme l'intimée dans l'affaire Matchwood Investments, l'intimée en l'espèce semble prendre la position selon laquelle le droit de VIBV (en sa qualité de tiers bénéficiaire) en fait un bénéficiaire effectif. Or, tel n'est pas le cas. La personne qui est le bénéficiaire effectif est celle qui jouit de tous les attributs de la propriété et qui les assume. Ce n'est que si le droit afférent à l'élément en question donne à cette partie le droit d'exercer une maîtrise incontestable sur cet élément (par exemple, si elle n'a pas à rendre compte à qui que ce soit de la façon dont elle traite l'élément) qu'il sera satisfait au critère énoncé dans la décision Prévost. Dans la décision Matchwood, la Cour a conclu que la contribuable ne possédait pas pareils droits tant que l'acte n'était pas enregistré; de même, VIBV n'était pas partie aux contrats de licence (puisqu'elle les avait pleinement cédés à VHBV, avec ses droits et obligations). Elle ne possédait plus ces droits et elle n'avait donc pas de droit qui en faisait un bénéficiaire effectif.
+[56] Je me rends bien compte que je me suis répété en examinant certains faits de l'affaire, mais j'estime qu'il était nécessaire de le faire afin d'indiquer comment les faits se rattachent aux droits du bénéficiaire effectif, comme l'a mentionné le juge en chef Rip dans la décision Prévost.
+[57] Pour les motifs susmentionnés, je crois que c'est VHBV plutôt que VIBV qui est le bénéficiaire effectif des redevances; cela étant, l'appel est accueilli et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu de ce fait; en outre, la cotisation de 1995 datée du 25 octobre 1996 est déférée au ministre pour nouvel examen et nouveau calcul compte tenu du fait qu'en 1995, VIBV résidait aux Pays‑Bas et qu'elle avait donc le droit de se prévaloir de la convention.
+[58] Les parties pourront présenter des observations orales ou écrites au sujet des dépens dans les 30 jours de la date du présent jugement.
+Signé à Ottawa, Canada, ce 24e jour de février 2012.
+« E. P. Rossiter »
+Le juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 13e jour d'août 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 57
+No DU DOSSIER DE LA COUR : 2007-1806(IT)G
+INTITULÉ : VELCRO CANADA INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 17 mai 2011
+MOTIFS DU JUGEMENT : Le juge en chef adjoint E. P. Rossiter
+DATE DU JUGEMENT : Le 24 février 2012
+COMPARUTIONS :
+Avocates de l'appelante :
+Me Louise Summerhill
+Me Marni Pernica
+Avocats de l'intimée :
+Me Margaret Nott
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Louise R. Summerhill
+Cabinet : Aird & Berlis
+Toronto (Ontario)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+ANNEXE A
+[TRADUCTION]
+CONTRAT DE LICENCE
+LE PRÉSENT CONTRAT, conclu le 1er octobre 1987, entre VELCRO INDUSTRIES B.V., une société à responsabilité limitée constituée en vertu des lois du Royaume des Pays‑Bas (ci‑après le « donneur de licence ») et VELCRO CANADA LTD., une société à responsabilité limitée constituée en vertu des lois du Canada (ci‑après le « licencié »)
+ATTESTE CE QUI SUIT :
+ATTENDU que le donneur de licence est propriétaire de brevets, de marques de commerce, de secrets commerciaux, de droits d'auteur et d'autres droits de propriété à l'égard desquels il veut accorder une licence au licencié aux conditions stipulées dans le présent contrat;
+ATTENDU que le licencié veut obtenir cette licence conformément aux conditions stipulées;
+ATTENDU que le donneur de licence et le licencié sont parties à un contrat de licence ou à des contrats de licence et que les deux parties désirent conclure un nouveau contrat de licence remplaçant tout contrat antérieur;
+En considération des engagements réciproques énoncés dans le présent contrat, et moyennant d'autres contreparties valables, dont la réception est par les présentes reconnue, les parties s'entendent sur les dispositions suivantes :
+I. Définitions
+A. « Renseignements confidentiels » : données ou renseignements (y compris toute preuve tangible, tout document ou toute représentation y afférents) préparés, conçus ou élaborés par l'une ou l'autre des « sociétés du groupe Velcro » (ci‑après définies) ou pour le compte de l'une ou l'autre de ces sociétés, ou reçus par l'une ou l'autre des sociétés du groupe Velcro d'une source externe, qui ne sont pas généralement connus par des parties non liées aux sociétés du groupe Velcro, et dont les sociétés du groupe Velcro assurent la confidentialité, notamment :
+(1) les idées, améliorations, inventions, innovations, développements, données techniques, dessins, formules, dispositifs, motifs, concepts, programmes informatiques, modèles, diagrammes, équipements, outils, manuels de formation ou d'utilisation, spécifications de produits, plans relatifs à un nouveau produit ou service ou à un produit ou service révisé, compilations de renseignements ou travaux en cours, ainsi que les révisions et améliorations connexes (sous forme tangible ou non);
+(2) les noms des clients et des employés, et des clients et consultants éventuels; le matériel, les plans et les enquêtes en matière de vente ou de commercialisation; les plans d'entreprise et les possibilités d'affaires; les spécifications de produits et plans de développement; les propositions d'affaires, documents financiers et documents commerciaux; les autres documents et renseignements non publics se rapportant aux activités en cours ou prévues de l'une ou l'autre des sociétés du groupe Velcro.
+Toutefois, le terme « renseignements confidentiels » ne vise pas les renseignements que les sociétés du groupe Velcro ont volontairement divulgués au public sans aucune restriction, ou qui relèvent par ailleurs légalement du domaine public.
+B. « Technique établie » : brevets, secrets commerciaux, droits d'auteur, renseignements confidentiels, savoir‑faire et autres formes de propriété intellectuelle ou industrielle dont le donneur de licence est propriétaire ou pour lesquels le donneur de licence détient une licence dans le « territoire de fabrication » (ci‑après défini) ou ailleurs, sauf ce qui constitue une « nouvelle technique » (ci‑après définie).
+C. « Ventes nettes » : montants véritables facturés par le licencié, avant la déduction des taxes de vente, des commissions ou des remises, que les montants soient réellement perçus par le licencié ou non. Les ventes internes d'une société et les ventes entre le licencié et ses filiales et sociétés affiliées sont incluses, pour les besoins de la présente définition, dans les « ventes brutes », les montants y afférents n'étant pas inférieurs aux montants facturés lors de ventes de pleine concurrence de « produits sous licence » (ci‑après définis) dont les spécifications, les qualités et les quantités sont comparables.
+D. « Produits sous licence » : produits qui comportent l'utilisation d'une « technique sous licence » ou qui sont fabriqués au moyen d'une « technique sous licence » et produits vendus en vertu de « marques de commerce visées par une licence » ou relativement à des « marques de commerce visées par une licence » (ces expressions étant ci‑après définies).
+E. « Technique sous licence » : « technique établie » et « nouvelle technique ». À l'expiration d'un brevet ou lors de la décision d'un tribunal ou d'une autre autorité compétente portant qu'un brevet est invalide ou inexécutoire, ce brevet cesse d'être une « technique sous licence », une « technique établie » ou une « nouvelle technique » pour les besoins du présent contrat.
+F. « Marques de commerce visées par une licence » : marques de commerce, marques de service, noms commerciaux et autres indications d'origine enregistrés au nom du donneur de licence ou du licencié dans l'un des ressorts du territoire de vente ou utilisés par le donneur de licence ou par le licencié pour un produit qui comporte l'utilisation d'une technique sous licence ou qui est fabriqué au moyen d'une technique sous licence, ou toute activité se rapportant à une technique sous licence.
+G. « Territoire de fabrication » : pays pour lesquels le licencié est désigné à titre de fabricant à l'annexe A ci‑jointe, cette annexe pouvant au besoin être modifiée par les parties.
+H. « Nouvelle technique » : brevets, secrets commerciaux, renseignements confidentiels, savoir‑faire et autres formes de propriété intellectuelle ou industrielle dont le donneur de licence est propriétaire ou pour lesquels le donneur de licence détient une licence à l'égard du territoire de fabrication ou ailleurs, lesquels se rapportent à des produits, dispositifs ou procédés énumérés à l'annexe B ci‑jointe. L'annexe B peut au besoin être modifiée avec le consentement des parties en vue de refléter les progrès de la nouvelle technique.
+I. « Produits de nouvelle technique » : produits sous licence qui comportent l'utilisation d'une partie de la nouvelle technique ou qui sont fabriqués à l'aide d'une partie de la nouvelle technique. Tout produit sous licence qui comporte en partie une technique établie et une nouvelle technique, ou qui est fabriqué ou vendu en partie avec une technique établie et une nouvelle technique, est considéré comme un produit de nouvelle technique.
+J. « Nouvelles marques de commerce » : marques de commerce visées par une licence qui sont initialement utilisées par le licencié ou qui sont initialement enregistrées au nom du licencié.
+K. « Territoire de vente » : pays pour lesquels le licencié est désigné à titre de fournisseur, d'importateur ou de distributeur de produits à l'annexe A ci‑jointe, cette annexe pouvant au besoin être modifiée par les parties.
+L. « Sociétés du groupe Velcro » : Velcro Industries N.V. ainsi que ses filiales et sociétés affiliées.
+II. Licences
+A. Au cours de la durée du présent contrat, et sous réserve des modalités qui y sont stipulées, le donneur de licence accorde au licencié :
+1. Le droit exclusif de fabriquer des produits sous licence dans le territoire de fabrication;
+2. Le droit de vendre des produits sous licence à l'importateur ou aux importateurs autorisés du donneur de licence (le cas échéant) ou, s'il n'y a pas d'importateur, directement aux utilisateurs finaux, dans chaque pays (le cas échéant) pour lequel le licencié est désigné à titre de fournisseur de produits à l'annexe A, cette annexe pouvant au besoin être modifiée par les parties;
+3. Le droit d'importer et de revendre les produits sous licence au distributeur ou aux distributeurs autorisés du donneur de licence (le cas échéant) ou, s'il n'y a pas de distributeur, directement aux utilisateurs finaux, dans chaque pays (le cas échéant) pour lequel le licencié est désigné à titre d'importateur de produits à l'annexe A, cette annexe pouvant au besoin être modifiée par les parties;
+4. Le droit de distribuer et de vendre des produits sous licence dans chaque pays (le cas échéant) pour lequel le licencié est désigné à titre de distributeur de produits à l'annexe A, cette annexe pouvant au besoin être modifiée par les parties.
+B. Les droits du licencié énoncés à l'article II.A, paragraphes 1 à 4, sont des droits exclusifs ou des droits non exclusifs tel qu'il est indiqué à l'annexe A, cette annexe pouvant au besoin être modifiée par les parties, sous réserve des droits exclusifs accordés à une autre entité par le donneur de licence.
+C. Le présent contrat n'a pas pour effet d'accorder au licencié le droit d'utiliser la technique sous licence à des fins de recherche ou de développement.
+III. Durée du contrat
+A. Le présent contrat entre en vigueur à la date indiquée en premier lieu, pour une période de cinq ans. Le contrat est par la suite automatiquement renouvelé pour des périodes additionnelles de cinq ans, sauf si l'un des événements suivants se produit :
+1. Le licencié cesse d'être une filiale à cent pour cent du donneur de licence, ou le licencié et le donneur de licence cessent d'avoir le même propriétaire;
+2. L'une ou l'autre partie donne par écrit à l'autre partie un avis de résiliation 30 jours avant l'expiration de la période de contrat alors en cours;
+3. Les parties conviennent par écrit de résilier le contrat;
+4. Le contrat est résilié conformément à l'article X.
+B. À l'expiration du présent contrat, ou lors de sa résiliation pour quelque raison que ce soit :
+1. Les droits et licences accordés par les présentes prennent fin;
+2. Le licencié cesse d'exercer les droits et d'utiliser les licences accordés par les présentes;
+3. Le licencié met à la disposition du donneur de licence, sur demande, les documents, dossiers et notes se rapportant à la fabrication, à la vente et à la distribution des produits sous licence;
+4. Le donneur de licence peut annuler tout enregistrement de la licence accordée par les présentes et toute inscription du licencié à titre d'usager inscrit effectuée conformément à l'article V.B., le licencié devant coopérer pleinement en vue de procéder à ces annulations;
+5. Le licencié offre en vente au donneur de licence à leur juste valeur marchande estimative : (i) la machinerie et l'équipement alors en sa possession qui sont visés par un brevet, par un secret commercial ou par d'autres renseignements exclusifs existants du donneur de licence, notamment les métiers, les machines de coupe et le matériel d'extrusion; (ii) tout ou partie de ses stocks de produits sous licence et de matériaux bruts utilisés dans la production des produits sous licence. Le donneur de licence peut acheter à la juste valeur marchande estimative tout ou partie des éléments susmentionnés, à son entière discrétion. Aux fins de la présente disposition, la « juste valeur marchande estimative » s'entend de la juste valeur marchande déterminée par un évaluateur ou par des évaluateurs indépendants mutuellement acceptables pour le donneur de licence et pour le licencié ou, à défaut d'entente entre les parties, de la juste valeur marchande établie au moyen d'un arbitrage définitif exécutoire conformément aux dispositions de l'article XII.F.
+C. Les dispositions du présent contrat concernant la propriété et la protection de la technique sous licence et des renseignements confidentiels s'appliquent après le non‑renouvellement, l'expiration ou la résiliation du présent contrat, indépendamment de la cause, de la raison ou des circonstances du non‑renouvellement, de l'expiration ou de la résiliation.
+IV. Redevances
+A. Montant des redevances
+1. En échange des licences de techniques ou de marques de commerce accordées par les présentes, le licencié verse les redevances suivantes au donneur de licence :
+a) une redevance au taux de redevance indiqué à l'annexe C, partie I, sur ses ventes nettes de produits sous licence, sauf les produits de nouvelle technique;
+b) une redevance au taux de redevance indiqué à l'annexe C, partie II, sur ses ventes nettes de produits de nouvelle technique.
+2. Les taxes, tarifs, droits ou impôts établis par une administration ou par une subdivision politique à l'égard du licencié ou à l'égard du paiement des redevances stipulées dans le présent contrat sont exclusivement supportés par le licencié et ne sont pas déduits des paiements effectués en faveur du donneur de licence en vertu du présent contrat. Si une retenue est exigée par la loi d'un ressort, la redevance payable en vertu du présent contrat est augmentée d'un montant suffisant aux fins du paiement de cette retenue.
+3. En plus des paiements exigés à l'article IV.A, paragraphe 1, le donneur de licence et le licencié procèdent, dans les 90 jours suivant la fin de chaque année du présent contrat, à un examen annuel du revenu, des dépenses et des bénéfices se rattachant à l'utilisation par le licencié de la technique sous licence et, si le donneur de licence et le licencié établissent que les redevances prévues à l'article IV.A, paragraphe 1, ne sont pas « proportionnées au revenu attribuable » (« commensurate with the income attributable ») à la technique sous licence au sens de l'article 482 de la loi des États‑Unis intitulée Internal Revenue Code (Code fiscal) de 1986, dans sa forme modifiée (le « Code »), et ne sont pas conformes aux règlements d'application pertinents du Code, le licencié verse au donneur de licence des redevances additionnelles.
+4. En ce qui concerne les ventes de produits sous licence par le licencié à une « agence gouvernementale » (« executive agency »), selon la définition à 48 C.F.R. § 101, les montants dus conformément à l'article IV.A, paragraphe 1, sont réduits dans la même mesure que celle dans laquelle l'agence gouvernementale conclut expressément que ces paiements sont « déraisonnables » (« unreasonable ») au sens du règlement intitulé Federal Acquisition Regulations (Règlement fédéral sur les achats).
+B. Échéance des paiements et modes de paiement
+1. Le licencié verse les redevances chaque trimestre, dans les quinze jours suivant la fin du trimestre de son exercice, ou à tout autre moment dont les parties conviennent.
+2. Les paiements de redevances sont effectués dans la devise et à l'endroit indiqués par le donneur de licence.
+3. Le licencié tient des livres comptables véridiques et exacts indiquant toutes les opérations qui sont assujetties au présent contrat. Le donneur de licence a le droit d'examiner les livres du licencié, ou de faire en sorte qu'un comptable ou un autre mandataire ou d'autres mandataires autorisés les examinent, en vue de vérifier si le licencié a versé toutes les redevances qu'il doit verser au donneur de licence.
+V. Droits afférents à la technique sous licence et aux marques de commerce visées par une licence
+A. Le donneur de licence est en tout temps propriétaire des droits afférents à la technique sous licence et aux marques de commerce visées par une licence, notamment les brevets, les droits d'auteur et les droits afférents aux secrets commerciaux et aux marques de commerce. Le licencié ne doit en aucun cas fait valoir des droits sur la technique sous licence ou sur les marques de commerce visées par une licence, en totalité ou en partie, et ne doit pas prendre de mesures de quelque façon susceptibles de porter atteinte aux droits que possède le donneur de licence sur la technique sous licence et sur les marques de commerce visées par une licence.
+B. Le licencié coopère à la signature de tout document et à la prise de toute mesure qu'il est raisonnable pour le donneur de licence de demander en vue de créer, d'enregistrer ou de rendre opposable le droit exclusif de propriété que le donneur de licence possède sur la technique sous licence et sur les marques de commerce visées par une licence, notamment des façons suivantes : signature et dépôt des documents appropriés afin que le licencié soit un usager inscrit dans tout ressort où cela est nécessaire ou souhaitable, mise en pratique d'inventions et dépôt de documents dans tout ressort où l'exploitation de brevets est nécessaire ou souhaitable, prise de toute mesure nécessaire aux fins du dépôt de demandes ou de l'obtention de brevets ainsi que de l'enregistrement de marques de commerce ou de droits d'auteur. Le licencié informe le donneur de licence de toute mesure que le donneur de licence n'a pas prise, mais qui serait nécessaire ou souhaitable, à son avis, en vue de créer, d'enregistrer ou de rendre opposables les droits du donneur de licence sur la technique sous licence et sur les marques de commerce visées par une licence.
+C. Le donneur de licence a entière discrétion à l'égard du dépôt des demandes, du paiement des versements périodiques, du dépôt des prorogations et renouvellements et des autres mesures nécessaires aux fins de l'obtention, de la protection ou du maintien des droits afférents à la technique sous licence et aux marques de commerce visées par une licence au cours de la durée du présent contrat, les frais y afférents étant à la charge du donneur de licence. Le donneur de licence rembourse le licencié des frais qu'il est raisonnable pour le licencié de supporter.
+VI. Protection de la technique sous licence et des marques de commerce visées par une licence
+Le licencié informe sans délai le donneur de licence de tout usage abusif ou de toute contrefaçon réelle ou éventuelle de la technique sous licence ou des marques de commerce visées par une licence dont il est au courant. Le donneur de licence décide à son entière discrétion des mesures à prendre ou à ne pas prendre par suite de cet usage abusif ou de cette contrefaçon, et le licencié ne prend aucune mesure par suite de cet usage abusif ou de cette contrefaçon sauf selon les instructions du donneur de licence. Toute mesure que le licencié prend en vue de protéger la technique sous licence ou les marques de commerce visées par une licence est réputée être prise pour le compte et au profit du donneur de licence. Les frais associés à toute mesure prise aux fins de la protection ou de l'exercice de droits afférents à la technique sous licence ou aux marques de commerce visées par une licence sont exclusivement à la charge du donneur de licence. Le donneur de licence rembourse le licencié des frais qu'il est raisonnable pour le licencié de supporter.
+VII. Garantie, dénégation de responsabilité, indemnisation et limitation de responsabilité
+A. Le donneur de licence garantit que la technique sous licence ne contrefait pas le brevet, le droit d'auteur, le secret commercial ou quelque autre droit de propriété d'une autre partie.
+B. LE DONNEUR DE LICENCE NE DONNE AUCUNE GARANTIE AUTRE QUE CELLES QUI SONT EXPRESSÉMENT PRÉVUES À L'ARTICLE VII.A ET NE DONNE NOTAMMENT AUCUNE GARANTIE RELATIVE À LA QUALITÉ MARCHANDE OU À L'ADAPTATION À UNE FIN PARTICULIÈRE NI AUCUNE AUTRE GARANTIE IMPLICITE.
+C. Le licencié informe sans délai le donneur de licence de toute demande réelle ou éventuelle fondée sur ce qu'une partie de la technique sous licence ou d'une marque de commerce visée par une licence contrefait un droit revendiqué par une autre partie. Le donneur de licence a le droit de contester ou de régler, à son entière discrétion, toute demande de ce genre. Le donneur de licence indemnise le licencié des dommages‑intérêts adjugés en dernier ressort et sans possibilité d'appel contre le licencié à cet égard, à condition : a) d'être informé par écrit sans délai par le licencié de tout avis et de toute communication concernant pareille demande et d'obtenir l'autorisation, les renseignements et l'aide nécessaires ou souhaitables en vue de contester la demande et d'y répondre, b) d'avoir le contrôle exclusif en vue de contester la demande et de négocier son règlement.
+D. Les responsabilités du donneur de licence quant aux demandes résultant de l'utilisation par le licencié de la technique sous licence ou des marques de commerce visées par une licence, notamment les demandes fondées sur la contrefaçon d'un brevet, d'un droit d'auteur, d'un secret commercial ou de quelque autre droit de propriété, ne sont que celles énoncées à l'article VII. Le donneur de licence n'est en aucun cas tenu responsable de dommages‑intérêts particuliers, indirects ou consécutifs, même s'il a été informé de la possibilité de pareils dommages‑intérêts. La responsabilité du donneur de licence en vertu du présent contrat à l'égard d'une demande ne doit pas excéder les pertes effectives subies par le licencié à l'égard de la demande, et la responsabilité cumulative du donneur de licence en vertu du présent contrat ne doit en aucun cas excéder le montant cumulatif que le licencié a versé au donneur de licence en vertu du présent contrat.
+VIII. Renseignements confidentiels
+A. Le licencié reconnaît que tous les renseignements confidentiels constituent un actif de grande valeur pour le donneur de licence et que cette valeur serait fortement diminuée ou qu'elle serait détruite si ces renseignements étaient divulgués sans autorisation.
+B. Le licencié ne doit divulguer aucun renseignement confidentiel aux vendeurs, aux clients ou à d'autres personnes sans obtenir au préalable le consentement écrit du donneur de licence.
+C. Le licencié conclut avec ses employés et avec ses fournisseurs, ainsi qu'avec qui que ce soit à qui des renseignements confidentiels sont divulgués ou peuvent être divulgués, des ententes écrites de confidentialité ou de non‑divulgation et, le cas échéant, des ententes de non‑concurrence, ces ententes devant être établies sous une forme acceptable pour le donneur de licence.
+D. Le licencié prend toute autre mesure qu'il est raisonnable ou souhaitable de prendre en vue de protéger et de maintenir les droits que possède le donneur de licence sur les renseignements confidentiels, et notamment :
+1. Il met en place et applique des mesures de sécurité à tous ses emplacements où des renseignements confidentiels sont conservés ou utilisés;
+2. Il informe ses employés que les renseignements sont de nature confidentielle, exclusive et secrète;
+3. Il rappelle de temps à autre à ses employés qu'il est important d'assurer le maintien du caractère secret des renseignements confidentiels;
+4. Il prend toute autre mesure qu'il est raisonnable pour le donneur de licence de demander en vue d'assurer le maintien du caractère secret des renseignements confidentiels.
+IX. Obligations concernant les marques de commerce visées par une licence
+A. Le licencié utilise en tout temps les marques de commerce visées par une licence conformément aux normes que le donneur de licence établit à l'égard de l'utilisation de ces marques, et notamment :
+1. Le licencié n'utilise les marques de commerce visées par une licence que sur des produits ou pour des produits fabriqués à l'aide de la technique sous licence et sur tout autre produit ou pour tout autre produit approuvé par le donneur de licence;
+2. Tous les produits fabriqués, distribués ou vendus par le licencié en vertu des marques de commerce visées par une licence ou relativement à ces marques de commerce doivent satisfaire aux normes de qualité établies par le donneur de licence ou les excéder.
+B. Le donneur de licence peut inspecter les produits et les locaux du licencié sur préavis raisonnable en vue de vérifier l'observation des exigences susmentionnées.
+C. Toutes les nouvelles marques de commerce appartiennent au donneur de licence. Toute nouvelle marque de commerce qui est initialement enregistrée au nom du licencié ou qui appartient par ailleurs initialement au licencié, et toute survaleur de l'entreprise associée à pareille nouvelle marque de commerce, sont par les présentes transférées et cédées au donneur de licence. Le licencié s'engage à signer tout document et à prendre toute mesure qu'il est raisonnable pour le donneur de licence de demander aux fins du transfert et de la cession, ainsi qu'en vue de créer, d'enregistrer ou de rendre opposables les droits du donneur de licence sur les nouvelles marques de commerce.
+D. Le donneur de licence rembourse le licencié des frais directs et indirects supportés par le licencié aux fins du développement de nouvelles marques de commerce, et notamment des frais et des dépenses, le cas échéant, que le licencié a supportés en vue d'obtenir ou de maintenir l'enregistrement de toute nouvelle marque de commerce dans quelque ressort que ce soit.
+X. Résiliation
+A. Le présent contrat peut être résilié par le donneur de licence dans l'une ou l'autre des éventualités suivantes :
+1. Si le licencié omet de s'acquitter de l'une ou l'autre des obligations qui lui incombent en vertu du présent contrat;
+2. Si le donneur de licence cesse de détenir la totalité des actions ordinaires du licencié;
+3. Si le licencié est partie à une faillite volontaire ou involontaire ou à une procédure similaire.
+B. La résiliation prend effet immédiatement sur avis écrit donné au licencié par le donneur de licence.
+XI. Cession
+A. Le donneur de licence peut en tout temps céder le présent contrat ainsi que les droits et obligations qu'il assume en vertu du présent contrat et donne avis de la cession au licencié. À la suite de la cession, le cessionnaire assume les droits et obligations du donneur de licence, y compris le droit de cession ici prévu.
+B. Le licencié ne doit pas céder le présent contrat, ni quelque partie du présent contrat, sans obtenir au préalable le consentement écrit exprès du donneur de licence.
+XII. Dispositions générales
+A. Le présent contrat, ainsi que ses annexes, constitue l'entente intégrale conclue entre les parties à l'égard de son objet et remplace toute négociation et tout contrat antérieurs.
+B. L'omission du donneur de licence d'exercer ses droits ou recours en vertu de quelque partie du présent contrat ne constitue pas une renonciation à son droit d'assurer l'exécution de cette partie du contrat à un autre moment, ou d'assurer l'exécution d'autres parties du présent contrat.
+C. Toute disposition du présent contrat qui est inexécutoire est retranchée du contrat, le reste du contrat continuant à avoir pleine force et plein effet. Toute disposition du présent contrat qui est jugée trop étendue quant à la durée, à la portée ou à quelque autre égard s'applique dans la plus large mesure possible d'une façon conforme au droit applicable.
+D. Le contrat lie les parties et leurs ayants droit respectifs.
+E. Le présent contrat peut être signé en deux exemplaires ou en plusieurs exemplaires, chacun étant considéré comme l'original.
+F. Tout différend, tout litige ou toute réclamation auxquels peut donner lieu le présent contrat est soumis à un arbitrage exécutoire. L'arbitrage est régi par les règlements d'arbitrage de la CNUDCI alors en vigueur, trois arbitres étant désignés conformément à ces règles. L'arbitrage se déroule en anglais. La décision lie les deux parties, et la sentence arbitrale peut être déposée devant tout tribunal compétent.
+G. Le donneur de licence et le licencié sont des entrepreneurs indépendants; ils n'entretiennent pas de relation de mandant‑mandataire, d'associés ou de coentrepreneurs et ne doivent pas se présenter comme tels.
+EN FOI DE QUOI les parties ont apposé, par l'entremise de leurs mandataires dûment habilités, leurs noms et sceaux respectifs à la date indiquée en premier lieu :
+VELCRO INDUSTRIES B.V.
+(SCEAU)
+par : « Derk A. J. Hoogenkamp »
+Derk A. J. Hoogenkamp
+VELCRO CANADA LTD.
+(SCEAU)
+par : « Dir Shi Wang »
+Dir Shi Wang
+Le présent document a été vu aux fins de la légalisation de la signature de M. D. A. J. Hoogenkamp par le soussigné, Jan Aleid Edward Koning, notaire exerçant ses fonctions à Amsterdam.
+Amsterdam, le 20 mars 1989.
+(SCEAU)
+« Jan Aleid Edward Koning »
+ANNEXE A
+Fabricant
+Fournisseur de produits
+Importateur de produits
+Distributeur de produits
+Exclusif
+Non
+Exclusif
+Exclusif
+« Nota : la version s...
+de cette enten...
+renfermait une...
+version de S...
+Voir le dossier avec...
+original...
+AJOUTÉ : Produits amér... »
+ANNEXE B
+NOUVELLE TECHNIQUE
+« Nouvelle technique » : technique (y compris les brevets, notamment les brevets dits « utility model patent », et les dessins industriels, accordés après le 31 décembre 1986, ainsi que les renseignements techniques, les secrets commerciaux et les renseignements confidentiels) qui n'était pas exploitée commercialement par le licencié ou qui ne faisait pas l'objet d'une licence en faveur du licencié avant le 1er novembre 1988, et qui ne fait pas l'objet d'une antériorité en raison d'une technique pour laquelle le donneur de licence a donné une licence au licencié avant le 1er novembre 1988. Les travaux courants de mise au point d'une technique faisant l'objet d'une licence accordée au licencié par le donneur de licence avant le 1er novembre 1988 ne sont pas considérés comme une nouvelle technique, même s'ils n'ont été exploités commercialement par le licencié et même s'ils n'ont fait l'objet d'une licence en faveur du licencié qu'après le 1er novembre 1988.
+ANNEXE C
+TAUX DE REDEVANCES
+I. Taux de redevances pour les produits de technique établie : 5 %
+II. Taux de redevances pour les produits de nouvelle technique : 7,5 %.
+ANNEXE D
+CANADA
+Marque de commerce
+No d'enregistrement
+VELCRO
+116367
+VELCRO (Linked L & C)
+113869
+VELFOAM
+231353
+VELSTICK
+187225
+VELCOIN
+188738
+VELSTRAP
+148602
+VEL‑SQUARE
+236876
+VELCRO WITH V DESIGN
+254143
+VELCRO WITH FLYING V DESIGN
+30685
+VELOK
+236875
+DESIGN OF HOOK & LOOP
+175979
+SOFT HARDWARE
+186626
+POP‑IN
+192742
+POP‑ON
+238422
+POP‑MATE
+192743
+HI‑GARDE
+231556
+EDGECLIP
+265304
+ORGANIZERS
+238421
+TOUCH 'N HOLD
+259638
+HI‑AIR
+162429
+TEXACRO
+322321
+DESIGN OF TWO FIGURES
+323199
+AUTHENTIFICATION NOTARIALE DU LICENCIÉ
+Je soussigné, ____________________, notaire de droit civil, atteste :
+que le _______ 19__, __________________ a personnellement comparu devant moi et qu'à ma connaissance il s'agit de la personne qui a signé l'instrument ci‑joint à titre de ____________ de VELCRO CANADA LTD., une société dûment constituée et régie en vertu des lois de ___________, dont le siège social est situé à ______________________.
+J'atteste en outre que ladite personne est dûment autorisée à signer l'instrument ci‑joint au nom de ladite société et que les fins auxquelles ledit instrument a été accordé font partie des objectifs ou des activités de ladite société.
+Notaire : __________________________
+ANNEXE B
+[TRADUCTION]
+CONTRAT DE CESSION, DE PRISE EN CHARGE ET DE LICENCE
+Le présent contrat de cession, de prise en charge et de licence, prenant effet le 27 octobre 1995, est conclu entre Velcro Industries B.V. (« VIBV »), une société privée à responsabilité limitée constituée et régie en vertu des lois des Pays‑Bas, située à Castorweg 22‑24, Curaçao, Antilles néerlandaises, et Velcro Holdings B.V. (« VHBV »), une société privée à responsabilité limitée des Pays‑Bas située à Hoekenrode 6, 1102 BR Amsterdam, Pays‑Bas.
+ATTENDU que VIBV a conclu le contrat concernant l'octroi de licences à l'égard de brevets, de techniques, de secrets commerciaux, de savoir‑faire et de marques décrit à l'annexe A (le « contrat en question »);
+ATTENDU que VIBV veut céder et déléguer certains droits et obligations stipulés dans le contrat en question, et que VHBV veut les obtenir et les assumer;
+ATTENDU que les parties veulent prévoir le paiement de redevances par VHBV en faveur de VIBV;
+Moyennant une contrepartie valable, dont la réception et le caractère suffisant sont par les présentes reconnus, VIBV et VHBV s'entendent sur les dispositions suivantes :
+1. Cession et licence. VIBV cède et transfère le contrat en question, ainsi que tous les droits que possède VIBV en vertu du contrat en question, sauf les droits que VIBV conserve, tels qu'ils sont énoncés à l'article 3 du présent contrat, et VHBV accepte le contrat et les droits. VIBV accorde à VHBV le droit d'accorder des sous‑licences en vertu des brevets, des techniques, des secrets commerciaux, du savoir‑faire et des marques appartenant à VIBV et visés par le contrat en question, mais uniquement conformément aux licences mentionnées dans le contrat en question.
+2. Prise en charge. VIBV délègue les obligations qui incombent à VIBV en vertu du contrat en question, et VHBV les prend en charge.
+3. Droits conservés par VIBV. VIBV est et continue à être titulaire des droits et titres afférents aux brevets, aux demandes de brevets, à la technique, aux secrets commerciaux, au savoir‑faire, aux marques, aux enregistrements de marques, aux demandes d'enregistrement de marques, à la survaleur et aux autres droits de propriété faisant l'objet de licences en vertu du présent contrat ou du contrat en question. Aucune disposition du présent contrat ne doit être interprétée comme ayant pour effet de céder ou de transférer à VHBV quelque droit se rapportant à la propriété des éléments susmentionnés. Sans restreindre la portée générale de ce qui précède, seule VIBV continue à être propriétaire des droits afférents à ces marques et des droits stipulés dans le contrat en question se rapportant à ces marques, et l'utilisation de ces marques par VHBV ou par quelque partie au contrat en question est effectuée au profit de VIBV. VHBV s'engage à aider au dépôt de demandes concernant ces brevets et à l'enregistrement de ces marques au nom de VIBV dans tout pays pour lequel VIBV en fait la demande, ainsi qu'à aider au renouvellement et au maintien de ces brevets et de ces enregistrements et à l'inscription de VHBV ou de la partie tierce au contrat en question à titre d'usager, sur demande de VIBV. Aucune disposition du présent contrat ne doit être interprétée comme accordant à VHBV une licence à l'égard d'un autre brevet, d'une autre technique, d'autres secrets commerciaux, d'un autre savoir‑faire, d'une autre marque ou d'un autre droit de propriété dont VIBV est titulaire ou comme accordant une licence autorisant l'octroi de sous‑licences, autrement que conformément au contrat en question.
+4. Exécution d'obligations stipulées dans le contrat en question. VHBV assure avec diligence l'exécution des modalités du contrat en question. VHBV informe sans délai VIBV de tout manquement ou de toute tentative de manquement aux modalités du contrat en question ou de la divulgation non autorisée de renseignements confidentiels par une partie au contrat en question et, sauf instructions contraires de VIBV, VHBV prend des mesures appropriées en vue de remédier à pareil manquement ou à pareille divulgation. VHBV contrôle notamment l'utilisation des brevets, de la technique, des secrets commerciaux, du savoir‑faire et des marques faisant l'objet d'une licence en vertu du contrat en question, de façon à assurer le maintien des normes élevées de qualité établies par VIBV à l'égard des produits ou services à l'égard desquels l'un quelconque des droits de propriété susmentionnés est utilisé, et VHBV assure l'exécution des obligations de toute partie au contrat en question, lorsqu'il s'agit de créer, de faire enregistrer, d'obtenir, de rendre opposables ou de protéger les droits que possède VIBV en vertu du contrat en question, y compris les droits visant à aider VIBV à faire enregistrer des marques à son nom dans tout pays pour lequel VIBV en fait la demande, ainsi qu'à renouveler et à maintenir ces enregistrements et à faire inscrire pareille partie à titre d'usager, à la demande de VIBV. VHBV prend les mesures demandées par VIBV aux fins de l'exercice de tout droit de vérification accordé par le contrat en question ou concernant la violation réelle ou présumée, par VHBV ou par toute autre partie au contrat en question, du droit de propriété d'un tiers, ou la violation par un tiers d'un droit de propriété de VIBV.
+5. Tiers bénéficiaire. Les parties conviennent que VIBV est un tiers bénéficiaire des dispositions du contrat en question qui est cédé à VHBV et que VIBV est autorisée à exercer les droits du donneur de licence et à assurer l'exécution des obligations qui incombent au licencié en vertu du contrat en question. VIBV est autorisée à exercer ces droits en vertu du contrat en question pour son propre compte, à sa seule discrétion. VHBV apporte à VIBV l'aide demandée par VIBV à l'égard de l'exercice de ces droits.
+6. Redevances. VHBV perçoit les redevances du tiers licencié en vertu du contrat en question et VHBV verse à VIBV un pourcentage de pleine concurrence des « ventes nettes » des « produits sous licence », tel que ces expressions sont définies à l'article premier du contrat en question, sous réserve de l'approbation par les autorités fiscales compétentes des Pays‑Bas. Chaque partie s'engage à aviser séparément l'autre partie de toute décision fiscale se rapportant aux redevances et au contrat en question.
+7. Modes de paiement. Les montants dus en vertu du présent contrat sont versés à VIBV dans les trente jours de la réception du paiement par VHBV, par chèque ou virement au compte bancaire désigné par VIBV, dans la même devise que celle dans laquelle les redevances sont reçues par VHBV. VHBV paie les droits d'importation, les frais, les taxes de vente, d'utilisation, de valeur ajoutée et autres taxes ou charges d'une administration de quelque genre que ce soit établis sur les opérations visées par le présent contrat ou à l'égard de pareilles opérations, conformément aux exigences du droit néerlandais. Si ces droits, taxes ou charges sont payés par VHBV au moyen d'une retenue ou d'une déduction, pour VIBV ou pour le compte de VIBV, VHBV déduit ces paiements du montant dû en vertu du présent contrat.
+8. Livres et vérification. Pendant la durée du présent contrat et pour trois ans par la suite, VHBV conserve des livres comptables suffisants afin de permettre de déterminer les montants qu'elle doit payer en vertu du présent contrat et de vérifier si VHBV se conforme aux modalités du présent contrat. VIBV peut examiner et vérifier ces livres en vue de vérifier si les modalités du présent contrat sont observées. La vérification est uniquement effectuée par VIBV, par un représentant de VIBV, ou par un vérificateur indépendant désigné par VIBV, cette vérification devant être effectuée pendant les heures normales de bureau. S'il est constaté, au cours de la vérification, que les frais impayés dus à VIBV excèdent de 5 p. 100 les frais réellement payés à VIBV par VHBV depuis la date de la vérification antérieure (ou depuis le début du présent contrat, dans le cas d'une première vérification), le coût de la vérification est à la charge de VHBV.
+9. Résiliation. VIBV peut résilier le présent contrat, pour quelque raison que ce soit, dans les 30 jours suivant l'avis écrit qu'elle donne à VHBV et sur prise en charge des droits et obligations stipulés dans le contrat en question. De plus, le présent contrat est automatiquement résilié sans préavis sur résiliation du contrat en question. La résiliation prend effet sans qu'il soit nécessaire de donner un avis à un tribunal ou à quelque autre autorité juridique et sans qu'il soit nécessaire pour pareil tribunal ou pour pareille autorité de prendre des mesures. Sur résiliation du présent contrat, les droits et obligations stipulés dans le contrat en question reviennent à VIBV.
+10. Garanties additionnelles. VHBV prend les mesures qu'il est raisonnable pour VIBV de demander en vue d'obtenir, de rendre opposables ou de protéger les droits que possède VIBV en vertu du présent contrat ou du contrat en question; VHBV signe notamment les documents demandés par VIBV à l'égard de droits afférents à des brevets, à une technique, à des secrets commerciaux, à du savoir‑faire, à des marques et à d'autres droits de propriété accordés par le contrat en question ou à l'égard de tout droit réversif que possède VIBV à la suite de la résiliation du présent contrat.
+11. Modification et renonciation. VHBV ne modifie pas le contrat en question, ni ne renonce à l'exécution d'une disposition du contrat en question, sans obtenir au préalable le consentement écrit exprès de VIBV. Aucune modification du présent contrat ou d'une disposition du présent contrat ni aucune renonciation au présent contrat ou à une disposition du présent contrat ne prend effet à moins d'être signée par la partie à l'encontre de laquelle on cherche à faire exécuter cette modification ou cette renonciation.
+12. Divisibilité. Si l'une ou l'autre des dispositions du présent contrat est pour quelque raison que ce soit jugée à quelque égard invalide, illégale ou inexécutoire dans quelque ressort, l'invalidité, l'illégalité ou l'impossibilité d'assurer l'exécution ne porte pas atteinte aux autres dispositions du présent contrat dans ce ressort; le présent contrat est modifié et interprété, dans ce ressort, de façon à être valide, légal et exécutoire dans la plus grande mesure possible permise dans ce ressort.
+13. Ayants droit. Le présent contrat peut être cédé d'une façon inconditionnelle par VIBV. VHBV ne doit pas céder le présent contrat ou quelque droit accordé par le présent contrat sans obtenir au préalable le consentement écrit de VIBV. Le présent contrat s'applique au profit de VIBV et de ses ayants droit et lie VHBV et ses ayants droit.
+EN FOI DE QUOI les soussignés ont signé le présent contrat en tant qu'instrument scellé.
+VELCRO INDUSTRIES B.V.
+« Pauwla van Sambeek‑Ronde »
+par : Pauwla van Sambeek-Ronde
+Date : le 13 février 1996
+Directrice générale
+VELCRO HOLDINGS B.V.
+« Derk A. J. Hoogenkamp »
+par : Derk A. J. Hoogenkamp
+Date : le 13 février 1996
+Directeur général
+Annexe A
+1. Contrat de licence du 1er octobre 1987 conclu entre VIBV et Velcro Canada Ltd., une société à responsabilité limitée constituée en vertu des lois du Canada, tel qu'il est modifié de temps à autre par les parties.
+ANNEXE C
+[TRADUCTION]
+VELCRO
+Le 29 septembre 1997
+Velcro Canada Inc.
+114, promenade East
+Brampton (Ontario) L6T 1C1
+Canada
+À l'attention de M. Roy Verstraete
+Objet : Contrat de licence conclu entre Velcro Industries B.V. et Velcro Canada, avec prise d'effet le 1er octobre 1987 — Brevets, marques de commerce, nom commercial VELCRO et autres droits de propriété
+Monsieur,
+Comme vous le savez, en vertu de l'article III.A de notre contrat de licence, la période initiale prend fin le 30 septembre 1997. Ni l'une ni l'autre société n'a avisé l'autre société que le contrat prend fin à cette date. Par conséquent, la troisième période de cinq ans commencera le 1er octobre 1997.
+Toutefois, nous tenons à vous rappeler qu'en vertu de l'article III.B., sur résiliation du contrat pour quelque raison que ce soit :
+1. Les droits et licences accordés en vertu du contrat prennent fin;
+2. Le licencié cesse d'exercer les droits et d'utiliser les licences accordés par le contrat;
+3. Le licencié met à la disposition du donneur de licence, sur demande, les documents, dossiers et notes se rapportant à la vente et à la distribution des produits sous licence;
+4. Le donneur de licence peut annuler tout enregistrement de la licence accordée en vertu du contrat et toute inscription du licencié à titre d'usager inscrit effectuée conformément à l'article V.B. du contrat, le licencié devant coopérer pleinement en vue de procéder à ces annulations;
+5. Le licencié offre en vente au donneur de licence à leur juste valeur marchande estimative : (i) la machinerie et l'équipement alors en sa possession qui sont visés par un brevet, par un secret commercial ou par d'autres renseignements exclusifs existants du donneur de licence, notamment les métiers, les machines de coupe et le matériel d'extrusion; (ii) tout ou partie de ses stocks de produits sous licence et de matériaux bruts utilisés dans la production des produits sous licence. Le donneur de licence peut acheter à la juste valeur marchande estimative tout ou partie des éléments susmentionnés, à son entière discrétion. Aux fins de la présente disposition, la « juste valeur marchande estimative » s'entend de la juste valeur marchande déterminée par un évaluateur ou par des évaluateurs indépendants mutuellement acceptables pour le donneur de licence et pour le licencié ou, à défaut d'entente entre les parties, de la juste valeur marchande établie au moyen d'un arbitrage définitif exécutoire conformément aux dispositions de l'article XII.F du contrat.
+De plus, au moment de la résiliation, vous êtes tenus de supprimer le mot VELCRO de votre dénomination sociale.
+Le contrat a été automatiquement renouvelé pour une nouvelle période de cinq ans conformément à l'article III.A., mais nous vous demandons de confirmer ce renouvellement. Vous pouvez confirmer le contrat et vos obligations en nous retournant la copie de la présente lettre que vous aurez dûment signée à l'endroit ci‑dessous prévu.
+Veuillez agréer, Monsieur, l'expression de mes meilleurs sentiments.
+VELCRO INDUSTRIES B.V.
+« Pauwla van Sambeek‑Ronde »
+Pauwla van Sambeek‑Ronde
+Directrice générale
+Compris, confirmé et accepté
+ce 28e jour d'octobre 1997
+VELCRO CANADA INC.
+« Roy Verstraete »
+Roy Verstraete
+Directeur général
+ANNEXE D
+[TRADUCTION]
+CONTRAT DE LICENCE
+LE PRÉSENT CONTRAT, prenant effet le 1er octobre 2003, est conclu entre VELCRO INDUSTRIES B.V., une société privée à responsabilité limitée constituée et régie en vertu des lois des Pays‑Bas, dont le principal établissement commercial est situé à Castorweg 22‑24, Curaçao, Antilles néerlandaises, et dont l'enregistrement porte le numéro 72161 (le « donneur de licence »), et VELCRO CANADA INC., une société constituée en vertu des lois du Canada, située au 114, promenade East, Brampton (Ontario), Canada L6T 1C1 (le « licencié »)
+ATTESTE CE QUI SUIT :
+ATTENDU que le donneur de licence est propriétaire de brevets, de marques de commerce, de secrets commerciaux, de droits d'auteur, de droits de propriété intellectuelle et d'autres droits de propriété à l'égard desquels il veut accorder une licence au licencié aux conditions stipulées dans le présent contrat;
+ATTENDU que le licencié veut obtenir cette licence conformément aux conditions stipulées;
+ATTENDU que le donneur de licence et le licencié sont parties à un contrat de licence ou à des contrats de licence qu'ils ont convenu de modifier en date du 1er octobre 2003 et qu'ils veulent maintenant consigner par écrit leur entente de la façon plus précisément énoncée dans les présentes et remplacer ces contrats antérieurs par les modalités énoncées dans les présentes;
+En considération des engagements réciproques énoncés dans le présent contrat, et moyennant d'autres contreparties valables, dont la réception et le caractère suffisant sont reconnus, les parties s'entendent sur les dispositions suivantes :
+I. Définitions
+A. « Société affiliée » : société mère ou filiale ou autre société directement ou indirectement possédée en commun et contrôlée par un même propriétaire. Les sociétés du groupe Velcro sont des sociétés affiliées au donneur de licence.
+B. « Délégué autorisé » : société affiliée au donneur de licence, à condition que la société affiliée soit directement ou indirectement autorisée par le donneur de licence à utiliser des marques de commerce visées par une licence dans un ou plusieurs pays, et uniquement tant que la société affiliée est ainsi autorisée à utiliser ces marques.
+C. « Renseignements confidentiels » : données ou renseignements (y compris toute preuve tangible, tout document ou toute représentation y afférents) acquis, préparés, conçus ou élaborés par ou pour le donneur de licence, reçus par le donneur de licence d'une source externe, ou pour lesquels le donneur de licence détient une licence d'une source externe, qui ne sont pas généralement connus par des parties non liées aux sociétés du groupe Velcro, et dont le donneur de licence et les sociétés du groupe Velcro assurent la confidentialité, notamment :
+(1) les idées, améliorations, inventions, innovations, développements, données techniques, dessins, formules, dispositifs, motifs, concepts, programmes informatiques, modèles, diagrammes, équipements, outils, manuels de formation ou d'utilisation, spécifications de produits, plans relatifs à un nouveau produit ou service ou à un produit ou service révisé, compilations de renseignements ou travaux en cours, ainsi que les révisions et améliorations connexes (sous forme tangible ou non);
+(2) les noms des clients et des employés, et des clients et consultants éventuels; le matériel, les plans et les enquêtes en matière de vente ou de commercialisation; les plans d'entreprise et les possibilités d'affaires; les spécifications de produits et plans de développement; les propositions d'affaires, documents financiers et documents commerciaux; les autres documents et renseignements non publics se rapportant aux activités en cours ou prévues du donneur de licence ou de l'une ou l'autre des sociétés du groupe Velcro.
+Toutefois, le terme « renseignements confidentiels » ne vise pas les renseignements que le donneur de licence ou l'une des sociétés du groupe Velcro ont volontairement divulgués au public sans aucune restriction, ou qui relèvent par ailleurs légalement du domaine public.
+D. « Produits sous licence » : produit qui comporte l'utilisation d'une « technique sous licence » ou qui est fabriqué à l'aide d'une « technique sous licence ».
+E. « Technique sous licence » : méthodes, formules, systèmes, inventions, découvertes, améliorations et oeuvres de l'esprit; demandes de brevet, brevets, secrets commerciaux, droits d'auteur, enregistrements de droits d'auteur, renseignements confidentiels, savoir‑faire et autres formes de propriété intellectuelle ou industrielle dont le donneur de licence est propriétaire ou pour lesquels le donneur de licence détient une licence dans les « territoires ». À l'expiration d'un brevet ou d'un droit d'auteur, ou lors de la décision d'un tribunal ou d'une autre autorité compétente portant qu'un brevet ou un droit d'auteur est invalide ou inexécutoire, ce brevet ou droit d'auteur cesse d'être une « technique sous licence » aux fins du présent contrat.
+F. « Marques de commerce visées par une licence » : marques de commerce, marques de service, noms commerciaux et autres indications d'origine appartenant au donneur de licence ou enregistrés au nom du donneur de licence pour des produits sous licence ou une activité se rapportant à une technique sous licence, enregistrements et demandes d'enregistrement y afférents, notamment les marques énumérées à l'annexe C.
+G. « Ventes nettes » : montants facturés par le licencié pour ses ventes de produits sous licence, moins la taxe de vente, la TVA, les frais d'expédition, les remises ou les remboursements, que ces montants soient réellement perçus par le licencié ou non. Afin d'éviter le paiement en double de redevances, les ventes de produits sous licence du licencié à un délégué autorisé ne sont pas incluses dans le calcul des ventes nettes du licencié si le délégué autorisé est tenu de verser une redevance au donneur de licence à l'égard de la revente par le délégué autorisé de ce produit sous licence. Les ventes conclues dans les territoires par les délégués autorisés ne sont pas incluses dans le calcul des ventes nettes du licencié. Aux fins du calcul des « ventes nettes », le montant d'une vente des produits sous licence par le licencié à une société affiliée n'est pas inférieur au montant qui serait facturé lors de ventes de pleine concurrence des produits sous licence dont les spécifications, les qualités et les quantités sont comparables.
+H. « Territoires » : territoire exclusif et territoire non exclusif. « Territoire exclusif » : pays mentionné à l'annexe A. « Territoire non exclusif » : territoire situé où que ce soit, sauf les pays mentionnés à l'annexe B.
+I. « Sociétés du groupe Velcro » : Le tiers, Velcro Industries N.V., ses filiales et toute autre société sous le contrôle direct ou indirect de Velcro Industries N.V.
+II. Licence
+A. Au cours de la durée du présent contrat, et sous réserve des modalités qui y sont stipulées, le donneur de licence accorde au licencié une licence non transférable, dans les territoires, autorisant celui‑ci à utiliser une technique sous licence en vue de fabriquer, de vendre et de distribuer des produits sous licence et à utiliser les marques de commerce visées par une licence pour la promotion, la vente et la distribution de produits sous licence.
+B. Les droits accordés au licencié aux termes de la présente licence sont des droits exclusifs dans le territoire exclusif et des droits non exclusifs dans le territoire non exclusif.
+C. L'utilisation par le licencié de marques de commerce visées par une licence aux termes de la présente licence est effectuée au seul profit du donneur de licence. L'utilisation par le licencié des marques de commerce visées par une licence est en tout temps conforme aux dispositions de l'article IX. Tout nom de domaine Internet incorporant une marque de commerce visée par une licence est assujetti à la présente licence; l'enregistrement par le licencié de ce nom de domaine est effectué pour le compte du donneur de licence et à son profit.
+D. Le licencié ne doit pas tenter de transférer ses droits en vertu de la présente licence ou d'accorder une sous‑licence à leur égard, ou de céder ces droits, que ce soit en totalité ou en partie, sans obtenir au préalable le consentement écrit du donneur de licence, le donneur de licence pouvant refuser d'accorder ce consentement à son entière discrétion. Le licencié peut cependant : (i) engager des tiers à titre de distributeurs ou de revendeurs de produits sous licence; (ii) autoriser des tiers à mentionner une marque de commerce visée par une licence sur un emballage et dans le matériel de promotion, mais uniquement afin d'identifier avec exactitude un produit sous licence qui est utilisé avec un autre produit ou qui est incorporé à un autre produit; (iii) permettre à un délégué autorisé de promouvoir, de distribuer et de vendre des produits sous licence dans le territoire exclusif. Dans tous les cas, le licencié est directement responsable de l'exécution du présent contrat par ces tiers dans les territoires et par les délégués autorisés dans le territoire exclusif.
+E. Le présent contrat n'a pas pour effet d'accorder au licencié le droit d'utiliser la technique sous licence à des fins de recherche ou de développement ou d'utiliser les marques de commerce visées par une licence avec des produits ou services autres que les produits sous licence.
+III. Durée du contrat
+A. Le présent contrat entre en vigueur à la date indiquée en premier lieu, pour une période de cinq ans. Le contrat est par la suite automatiquement renouvelé pour des périodes additionnelles de cinq ans, sauf si l'un des événements suivants se produit :
+1. Le licencié cesse d'être une société affiliée au donneur de licence;
+2. L'une ou l'autre partie donne par écrit à l'autre partie un avis de résiliation 30 jours avant l'expiration de la période du contrat alors en cours;
+3. Les parties conviennent par écrit de résilier le contrat;
+4. Le contrat est résilié conformément à l'article X.
+B. À l'expiration du présent contrat, ou lors de sa résiliation pour quelque raison que ce soit :
+1. Les droits et licences accordés par les présentes prennent fin;
+2. Le licencié cesse de fabriquer, de promouvoir et de distribuer les produits sous licence et d'exercer les droits ou d'utiliser les licences accordés par les présentes;
+3. Le licencié prend les mesures nécessaires afin de transférer au donneur de licence tout enregistrement qu'il détient pour un nom de domaine Internet dans lequel est incorporée une marque de commerce visée par une licence;
+4. Le licencié cesse toute utilisation des marques de commerce visées par une licence et des noms de domaine Internet dans lesquels est incorporée une marque de commerce visée par une licence;
+5. Le licencié met à la disposition du donneur de licence, sur demande, les documents, dossiers et notes se rapportant à la fabrication, à la vente et à la distribution des produits sous licence;
+6. Le donneur de licence peut annuler tout enregistrement de la licence accordée par les présentes et toute inscription du licencié à titre d'usager ou de licencié inscrit effectués conformément à l'article V.B, le licencié devant coopérer pleinement en vue de procéder à ces annulations;
+7. Le licencié offre en vente au donneur de licence à leur juste valeur marchande estimative : (i) la machinerie et l'équipement alors en sa possession qui sont visés par une technique sous licence existante, notamment les métiers, les machines de coupe et le matériel d'extrusion; (ii) tout ou partie de ses stocks de produits sous licence et de matériaux bruts utilisés dans la production des produits sous licence. Le donneur de licence peut acheter à la juste valeur marchande estimative tout ou partie des éléments susmentionnés, à son entière discrétion. Aux fins de la présente disposition, la « juste valeur marchande estimative » s'entend de la juste valeur marchande déterminée par un évaluateur ou par des évaluateurs indépendants mutuellement acceptables pour le donneur de licence et pour le licencié ou, à défaut d'entente entre les parties, de la juste valeur marchande établie au moyen d'un arbitrage définitif exécutoire, conformément aux dispositions de l'article XII.E.
+C. Les dispositions du présent contrat concernant la propriété et la protection de la technique sous licence, des marques de commerce visées par une licence et des renseignements confidentiels, notamment les dispositions des articles III, V et VIII, s'appliquent après le non‑renouvellement, l'expiration ou la résiliation du présent contrat, indépendamment de la cause, de la raison ou des circonstances du non‑renouvellement, de l'expiration ou de la résiliation.
+IV. Redevances
+A. Montant des redevances
+1. En échange des licences accordées dans le présent contrat, le licencié verse au donneur de licence une redevance de 5 p. 100 des ventes nettes par le licencié de produits sous licence dans les territoires.
+2. Les retenues, tarifs, droits ou impôts établis à l'égard du donneur de licence par une administration relativement au paiement des redevances stipulées dans le présent contrat sont retenus et versés à l'administration par le licencié pour le compte du donneur de licence et sont déduits des montants dus au donneur de licence en vertu du présent contrat.
+3. Le donneur de licence, s'il engage le licencié en vue de fournir des services pour son compte, ou s'il achète des produits sous licence du licencié, peut, à sa discrétion, défalquer les montants dus par le licencié en vertu du présent contrat du montant versé pour ces services ou du prix des produits sous licence.
+B. Échéance des paiements et modes de paiement
+1. Le licencié verse les redevances tous les mois, dans les trente jours suivant la fin de chaque mois de son exercice, ou à tout autre moment dont les parties conviennent.
+2. Les paiements de redevances sont effectués dans la devise et à l'endroit indiqués par le donneur de licence.
+3. Le licencié tient des livres comptables véridiques et exacts indiquant toutes les opérations qui sont assujetties au présent contrat. Le donneur de licence a le droit d'examiner les livres du licencié, ou de faire en sorte qu'un comptable ou un autre mandataire ou d'autres mandataires autorisés les examinent, en vue de vérifier si le licencié a versé toutes les redevances qu'il doit verser au donneur de licence.
+V. Droits afférents à la technique sous licence et aux marques de commerce visées par une licence
+A. Le donneur de licence est en tout temps propriétaire des droits afférents à la technique sous licence et aux marques de commerce visées par une licence, et notamment des brevets, des droits d'auteur et des droits afférents aux secrets commerciaux et aux marques de commerce dans les territoires. Le licencié ne doit en aucun cas faire valoir des droits sur la technique sous licence ou sur les marques de commerce visées par une licence, en totalité ou en partie, et ne doit pas prendre de mesures de quelque façon susceptibles de contester ou de porter atteinte aux droits que possède le donneur de licence sur la technique sous licence et sur les marques de commerce visées par une licence. Le licencié ne doit pas adopter, utiliser ou tenter de faire enregistrer un nom, une marque ou un nom de domaine Internet qui est semblable à une marque de commerce visée par une licence ou qui est susceptible de prêter à confusion avec une marque de commerce visée par une licence.
+B. Le licencié coopère à la signature de tout document et à la prise de toute mesure qu'il est raisonnable pour le donneur de licence de demander en vue de créer, d'enregistrer ou de rendre opposable le droit exclusif de propriété que le donneur de licence possède sur la technique sous licence et sur les marques de commerce visées par une licence, notamment des façons suivantes : signature et dépôt des documents appropriés afin que le licencié soit un usager inscrit ou un licencié inscrit dans tout ressort où cela est nécessaire ou souhaitable, mise en pratique d'inventions et dépôt de documents dans tout ressort où l'exploitation de brevets est nécessaire ou souhaitable, prise de toute mesure nécessaire en vue d'aider le donneur de licence à demander ou à obtenir un brevet ainsi qu'à enregistrer une marque de commerce ou un droit d'auteur. Le licencié informe le donneur de licence de toute mesure que le donneur de licence n'a pas prise, mais qui serait nécessaire ou souhaitable, à son avis, en vue de créer, d'enregistrer ou de rendre opposables les droits du donneur de licence sur la technique sous licence et sur les marques de commerce visées par une licence.
+C. Le donneur de licence a entière discrétion à l'égard du dépôt des demandes, du paiement des versements périodiques, du dépôt des prorogations et renouvellements et des autres mesures nécessaires aux fins de l'obtention, de la protection ou du maintien des droits afférents à la technique sous licence et aux marques de commerce visées par une licence au cours de la durée du présent contrat, les frais y afférents étant à la charge du donneur de licence. Le donneur de licence rembourse le licencié des frais qu'il est raisonnable pour le licencié de supporter.
+VI. Protection de la technique sous licence et des marques de commerce visées par une licence
+Le licencié informe sans délai le donneur de licence de tout usage abusif ou de toute contrefaçon réelle ou éventuelle, par un tiers, de la technique sous licence ou des marques de commerce visées par une licence dont il est au courant. Le donneur de licence décide à son entière discrétion des mesures à prendre ou à ne pas prendre par suite de cet usage abusif ou de cette contrefaçon, et le licencié ne prend aucune mesure par suite de cet usage abusif ou de cette contrefaçon sauf selon les instructions du donneur de licence. Toute mesure que le licencié prend en vue de protéger la technique sous licence ou les marques de commerce visées par une licence est réputée être prise pour le compte et au profit du donneur de licence. Les frais associés à toute mesure prise aux fins de la protection ou de l'exercice de droits afférents à la technique sous licence ou aux marques de commerce visées par une licence sont exclusivement à la charge du donneur de licence. Le donneur de licence rembourse le licencié des frais qu'il demande au licencié de supporter ou qu'il est raisonnable pour le licencié de supporter.
+VII. Garantie, dénégation de responsabilité, indemnisation et limitation de responsabilité
+A. Le donneur de licence garantit que la technique sous licence et les marques de commerce visées par une licence ne contrefont pas le brevet, le droit d'auteur, le secret commercial ou quelque autre droit de propriété d'une autre partie dans les territoires.
+B. LE DONNEUR DE LICENCE NE DONNE AUCUNE GARANTIE, EXPRESSE OU IMPLICITE, AUTRE QUE CELLES QUI SONT EXPRESSÉMENT PRÉVUES À L'ARTICLE VII.A, ET NE DONNE NOTAMMENT AUCUNE GARANTIE RELATIVE À LA QUALITÉ MARCHANDE, À L'ADAPTATION À UNE FIN PARTICULIÈRE OU À LA NON‑CONTREFAÇON.
+C. Le licencié informe sans délai le donneur de licence de toute demande réelle ou éventuelle fondée sur ce qu'une partie de la technique sous licence ou d'une marque de commerce visée par une licence contrefait un droit revendiqué par une autre partie. Le donneur de licence a le droit de contester ou de régler, à son entière discrétion, toute demande de ce genre. Le donneur de licence indemnise le licencié des dommages‑intérêts adjugés en dernier ressort et sans possibilité d'appel contre le licencié à cet égard, à condition : a) d'être informé par écrit sans délai par le licencié de tout avis et de toute communication concernant pareille demande et d'obtenir l'autorisation, les renseignements et l'aide nécessaires ou souhaitables en vue de contester la demande et d'y répondre, b) d'avoir le contrôle exclusif en vue de contester la demande et de négocier son règlement.
+D. Les responsabilités du donneur de licence quant aux demandes résultant de l'utilisation par le licencié de la technique sous licence ou des marques de commerce visées par une licence, notamment les demandes fondées sur la contrefaçon ou l'usage abusif d'un brevet, d'un droit d'auteur, d'un secret commercial ou de quelque autre droit de propriété, ne sont que celles énoncées à l'article VII. Le licencié n'a à ces égards que les recours énoncés à cet article.
+E. LE DONNEUR DE LICENCE N'EST EN AUCUN CAS TENU RESPONSABLE DE DOMMAGES‑INTÉRÊTS PARTICULIERS, INDIRECTS OU CONSÉCUTIFS, MÊME S'IL A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE PAREILS DOMMAGES‑INTÉRÊTS. LA RESPONSABILITÉ IMPUTÉE AU DONNEUR DE LICENCE EN VERTU DU PRÉSENT CONTRAT À L'ÉGARD D'UNE DEMANDE NE DOIT PAS EXCÉDER LES PERTES EFFECTIVES SUBIES PAR LE LICENCIÉ À L'ÉGARD DE LA DEMANDE, ET LA RESPONSABILITÉ CUMULATIVE DU DONNEUR DE LICENCE EN VERTU DU PRÉSENT CONTRAT NE DOIT EN AUCUN CAS EXCÉDER LE MONTANT CUMULATIF QUE LE LICENCIÉ A VERSÉ AU DONNEUR DE LICENCE EN VERTU DU PRÉSENT CONTRAT.
+VIII. Renseignements confidentiels
+A. Le licencié reconnaît que tous les renseignements confidentiels constituent un actif de grande valeur pour le donneur de licence et que cette valeur serait fortement diminuée ou qu'elle serait détruite si ces renseignements étaient divulgués sans autorisation.
+B. Le licencié ne doit divulguer aucun renseignement confidentiel aux vendeurs, aux clients ou à d'autres personnes sans obtenir le consentement du donneur de licence; toutefois, il peut divulguer pareils renseignements à l'une ou l'autre des sociétés du groupe Velcro.
+C. Le licencié conclut avec ses employés et avec ses fournisseurs, ainsi qu'avec qui que ce soit à qui des renseignements confidentiels sont divulgués ou peuvent être divulgués, des ententes écrites de confidentialité ou de non‑divulgation et, le cas échéant, des ententes de non‑concurrence, ces ententes devant être établies de façon acceptable pour le donneur de licence.
+D. Le licencié prend toute autre mesure qu'il est raisonnable ou souhaitable de prendre en vue de protéger et de maintenir les droits que possède le donneur de licence sur les renseignements confidentiels, et notamment :
+1. Il met en place et applique des mesures de sécurité à tous ses emplacements où des renseignements confidentiels sont conservés ou utilisés;
+2. Il informe ses employés que les renseignements sont de nature confidentielle, exclusive et secrète;
+3. Il rappelle de temps à autre à ses employés qu'il est important d'assurer le maintien du caractère secret des renseignements confidentiels;
+4. Il prend toute autre mesure qu'il est raisonnable pour le donneur de licence de demander en vue d'assurer le maintien du caractère secret des renseignements confidentiels.
+IX. Obligations concernant les marques de commerce visées par une licence et les produits sous licence
+A. Le licencié utilise en tout temps les marques de commerce visées par une licence conformément aux normes que le donneur de licence établit à l'égard de l'utilisation de ces marques, et notamment :
+1. Le licencié n'utilise les marques de commerce visées par une licence que sur des produits ou pour des produits fabriqués au moyen de la technique sous licence et sur tout autre produit ou pour tout autre produit approuvé par le donneur de licence;
+2. Tous les produits fabriqués, distribués ou vendus par le licencié en vertu des marques de commerce visées par une licence ou relativement à ces marques de commerce doivent satisfaire aux normes de qualité établies par le donneur de licence ou les excéder.
+B. Le donneur de licence peut inspecter les produits, les emballages, la publicité et les locaux du licencié sur préavis raisonnable en vue de vérifier l'observation des exigences susmentionnées.
+C. Les avantages et droits découlant de l'utilisation par le licencié des marques de commerce visées par une licence reviennent au donneur de licence. Le donneur de licence possède tous les droits afférents aux marques de commerce visées par une licence et à la survaleur s'y rattachant, et le licencié ne conserve ou ne fait valoir aucun droit et ne conteste pas les droits que possède le donneur de licence sur ces marques.
+D. Le licencié appose sur les marques de commerce visées par une licence le symbole approprié TM ou ® conformément aux instructions du donneur de licence. La publicité, le matériel de promotion et l'emballage des produits sous licence du licencié portent la marque de commerce visée par une licence appropriée, ainsi que les légendes de brevet et de marque de commerce appropriées y afférentes, dans chaque cas de la manière indiquée par le donneur de licence, par exemple : « La marque _________ appartient à Velcro Industries, B.V. », ou « brevet américain no _____ et brevets en instance ».
+X. Résiliation
+A. Le présent contrat peut être résilié par le donneur de licence dans l'une ou l'autre des éventualités suivantes :
+1. Si le licencié omet de s'acquitter de l'une ou l'autre des obligations qui lui incombent en vertu du présent contrat et ne remédie pas au défaut dans les 30 jours suivant l'avis donné par le donneur de licence;
+2. Si le licencié est insolvable ou s'il est partie à une faillite volontaire ou involontaire ou à une procédure similaire.
+B. La résiliation prend effet immédiatement sur avis écrit donné au licencié par le donneur de licence.
+XI. Cession
+A. Le donneur de licence peut en tout temps céder le présent contrat ainsi que tous les droits et obligations qu'il assume en vertu du présent contrat et donne avis de la cession au licencié. À la suite de la cession, le cessionnaire assume les droits et obligations du donneur de licence, y compris le droit de cession ici prévu. Le donneur de licence peut notamment effectuer une cession en faveur de Velcro Holdings B.V. ou d'une autre société du groupe Velcro par un acte de cession rédigé essentiellement sous la forme indiquée dans la pièce I jointe au présent contrat.
+B. Le licencié ne doit pas céder le présent contrat, ni quelque partie du présent contrat, sans obtenir au préalable le consentement écrit exprès du donneur de licence.
+XII. Dispositions générales
+A. Le présent contrat, ainsi que ses annexes, constitue l'entente intégrale conclue entre les parties à l'égard de son objet et remplace toute négociation et tout contrat antérieurs. Les parties souhaitent que le présent contrat résilie et remplace le contrat de licence du 1er octobre 1987 et ses addenda.
+B. L'omission du donneur de licence d'exercer ses droits ou recours en vertu de quelque partie du présent contrat ne constitue pas une renonciation à son droit d'assurer l'exécution de cette partie du contrat à un autre moment, ou d'assurer l'exécution d'autres parties du présent contrat.
+C. Toute disposition du présent contrat qui est inexécutoire est retranchée du contrat, le reste du contrat continuant à avoir pleine force et plein effet. Toute disposition du présent contrat qui est jugée trop étendue quant à la durée, à la portée ou à quelque autre égard s'applique dans la plus large mesure possible d'une façon conforme au droit applicable.
+D. Le présent contrat peut être signé en deux exemplaires ou en plusieurs exemplaires, chacun étant considéré comme l'original.
+E. Tout différend, tout litige ou toute réclamation auxquels peut donner lieu le présent contrat est soumis à un arbitrage exécutoire. L'arbitrage est régi par les règlements d'arbitrage de la CNUDCI alors en vigueur, trois arbitres étant désignés conformément à ces règles. L'arbitrage se déroule en anglais. La décision lie les deux parties, et la sentence arbitrale peut être déposée devant tout tribunal compétent.
+F. Le donneur de licence et le licencié sont des entrepreneurs indépendants; ils n'entretiennent pas de relation de mandant‑mandataire, d'associés ou de coentrepreneurs et ne doivent pas se présenter comme tels.
+EN FOI DE QUOI les parties, par l'entremise de leurs mandataires dûment habilités, ont signé, scellé et remis le présent contrat à la date indiquée en premier lieu :
+VELCRO INDUSTRIES B.V.
+(SCEAU)
+par : « Robert J. Huyzen »
+Nom : Robert J. Huyzen
+Poste : Directeur général
+Date : le 15 septembre 2004
+VELCRO CANADA INC.
+(SCEAU)
+par : « Patrick D. Todkill »
+Nom : Patrick D. Todkill
+Poste : Président
+Date : le 29 septembre 2004
+ANNEXE A
+Pays inclus dans le « territoire exclusif »
+le Canada
+ANNEXE B
+Le « territoire non exclusif » comprend tous les pays du monde, sauf les pays suivants :
+le Canada
+la Chine
+les États‑Unis
+le Mexique
+l'Union européenne qui, à l'heure actuelle, comprend l'Allemagne, l'Autriche, la Belgique, Chypre, le Danemark, l'Espagne, l'Estonie, la Finlande, la France, la Grèce, la Hongrie, l'Islande [sic], l'Italie, la Lettonie, la Lituanie, le Luxembourg, Malte, les Pays‑Bas, la Pologne, le Portugal, la République tchèque, le Royaume‑Uni, la Slovaquie, la Slovénie et la Suède.
+ANNEXE C
+Les « marques de commerce visées par une licence » comprennent notamment les marques énumérées à l'annexe ci‑jointe :
+VELCRO
+VELCOIN
+VEL‑LOOP
+VEL‑TAB
+VELSTRAP
+VELSTRETCH
+ONE‑WRAP
+TAXACRO
+ULTRA‑MATE
+PIÈCE I
+CONTRAT DE CESSION, DE PRISE EN CHARGE ET DE LICENCE
+Le présent contrat de cession, de prise en charge et de licence, prenant effet le 1er octobre 2003, est conclu entre Velcro Industries B.V. (« VIBV »), une société privée à responsabilité limitée constituée et régie en vertu des lois des Pays‑Bas, dont le principal établissement commercial est situé à Castorweg 22‑24, Curaçao, Antilles néerlandaises, et dont l'enregistrement porte le numéro 72161, et Velcro Holdings B.V. (« VHBV »), une société privée à responsabilité limitée des Pays‑Bas située à Amsteldijk 166, 1079 LH Amsterdam, Pays‑Bas.
+ATTENDU que VIBV a conclu un contrat de licence, prenant effet le 1er octobre 2003, avec Velcro Canada Inc. (le licencié en vertu de ce contrat), à l'égard de l'octroi de licences relatives à une technique sous licence et à des marques de commerce visées par une licence (le « contrat en question »);
+ATTENDU que VIBV veut céder et déléguer certains droits et obligations stipulés dans le contrat en question, et que VHBV veut les obtenir et les assumer;
+ATTENDU que les parties veulent prévoir le paiement de redevances par VHBV en faveur de VIBV;
+En considération des engagements réciproques énoncés dans le présent contrat et d'autres contreparties valables, dont la réception et le caractère suffisant sont par les présentes reconnus, VIBV et VHBV s'entendent sur les dispositions suivantes :
+1. Cession et licence. VIBV cède et transfère le contrat en question, ainsi que tous les droits que possède VIBV en vertu du contrat en question, sauf les droits que VIBV conserve, tels qu'ils sont énoncés à l'article 3 du présent contrat, et VHBV accepte le contrat et les droits. VIBV accorde à VHBV le droit d'accorder des sous‑licences en vertu des brevets, des techniques, des secrets commerciaux, du savoir‑faire et des marques appartenant à VIBV et identifiés dans le contrat en question, mais uniquement conformément aux licences mentionnées dans le contrat en question.
+2. Prise en charge. VIBV délègue les obligations qui lui incombent en vertu du contrat en question, et VHBV les prend en charge.
+3. Droits conservés par VIBV. VIBV est et continue à être titulaire des droits et titres afférents aux brevets, aux demandes de brevets, à la technique, aux secrets commerciaux, au savoir‑faire, aux marques, aux enregistrements de marques, aux demandes d'enregistrement de marques, à la survaleur et aux autres droits de propriété faisant l'objet de licences en vertu du présent contrat ou du contrat en question, y compris la « technique sous licence » et les « marques de commerce visées par une licence », tel que ces expressions sont définies dans le contrat en question. Aucune disposition du présent contrat ne doit être interprétée comme ayant pour effet de céder ou de transférer à VHBV quelque droit se rapportant à la propriété des éléments susmentionnés. Sans restreindre la portée générale de ce qui précède, seule VIBV continue à être titulaire des droits afférents à ces marques et des droits stipulés dans le contrat en question se rapportant à ces marques, et l'utilisation de ces marques par VHBV ou par quelque partie au contrat en question est effectuée au profit de VIBV. VHBV s'engage à aider au dépôt de demandes concernant ces brevets et à l'enregistrement de ces marques au nom de VIBV dans tout pays pour lequel VIBV en fait la demande, ainsi qu'à aider au renouvellement et au maintien de ces brevets et de ces enregistrements et à l'inscription de VHBV ou de toute autre partie au contrat en question à titre d'usager, sur demande de VIBV. Aucune disposition du présent contrat ne doit être interprétée comme accordant à VHBV une licence à l'égard d'un autre brevet, d'une autre technique, d'autres secrets commerciaux, d'un autre savoir‑faire, d'une autre marque ou d'un autre droit de propriété dont VIBV est propriétaire ou comme accordant une licence autorisant l'octroi de sous‑licences, autrement que conformément au contrat en question.
+4. Exécution d'obligations stipulées dans le contrat en question. VHBV assure avec diligence l'exécution des conditions du contrat en question. VHBV informe sans délai VIBV de tout manquement ou de toute tentative de manquement aux conditions du contrat en question ou de la divulgation non autorisée de renseignements confidentiels par une partie au contrat en question et, sauf instructions contraires de VIBV, VHBV prend des mesures appropriées en vue de remédier à pareil manquement ou à pareille divulgation. VHBV contrôle notamment l'utilisation des brevets, de la technique, des secrets commerciaux, du savoir‑faire et des marques faisant l'objet d'une licence en vertu du contrat en question, de façon à assurer le maintien des normes élevées de qualité établies par VIBV à l'égard des produits et services à l'égard desquels l'un quelconque des droits de propriété susmentionnés est utilisé, et VHBV assure l'exécution des obligations de toute partie au contrat en question, lorsqu'il s'agit de créer, de faire enregistrer, d'obtenir, de rendre opposables ou de protéger les droits que possède VIBV en vertu du contrat en question, y compris les droits visant à aider VIBV à faire enregistrer des marques à son nom dans tout pays pour lequel VIBH en fait la demande, ainsi qu'à renouveler et à maintenir ces enregistrements et à faire inscrire pareille partie à titre d'usager, à la demande de VIBV. VHBV prend les mesures demandées par VIBV aux fins de l'exercice de tout droit de vérification accordé par le contrat en question ou concernant la violation réelle ou présumée, par VHBV ou par toute autre partie au contrat en question, du droit de propriété d'un tiers, ou la violation par un tiers d'un droit de propriété de VIBV.
+5. Tiers bénéficiaire. Les parties conviennent que VIBV est un tiers bénéficiaire des dispositions du contrat en question qui est cédé à VHBV et que VIBV est autorisée à exercer les droits du donneur de licence et à assurer l'exécution des obligations qui incombent au licencié en vertu du contrat en question. VIBV est autorisée à exercer ces droits en vertu du contrat en question pour son propre compte, à son entière discrétion. VHBV apporte à VIBV l'aide demandée par VIBV à l'égard de l'exercice de ces droits.
+6. Redevances. VHBV perçoit les redevances du tiers licencié en vertu du contrat en question (appelé le « licencié » dans ce contrat). VHBV verse à VIBV un montant correspondant aux redevances perçues, moins le montant approuvé par les autorités fiscales néerlandaises afin de couvrir les frais connexes de VHBV. Chaque partie s'engage à aviser séparément l'autre partie de toute décision fiscale se rapportant aux redevances et au contrat en question.
+7. Modes de paiement. Les montants dus en vertu du présent contrat sont versés à VIBV dans les trente jours de la réception du paiement par VHBV, par chèque ou virement à un compte bancaire désigné par VIBV, dans les mêmes devises que celles dans lesquelles les redevances sont reçues par VHBV. VHBV paie les frais, les taxes de vente, d'utilisation, de valeur ajoutée et autres taxes ou charges gouvernementales de quelque genre que ce soit établis sur les opérations visées par le présent contrat ou à l'égard de pareilles opérations, conformément aux exigences du droit néerlandais. Si ces taxes ou charges sont payées par VHBV au moyen d'une retenue ou d'une déduction, pour VIBV ou pour le compte de VIBV, VHBV déduit ces paiements du montant dû en vertu du présent contrat.
+8. Livres et vérification. Pendant la durée du présent contrat et pour sept ans par la suite, VHBV conserve des livres comptables suffisants afin de permettre de déterminer les montants qui sont dus en vertu du présent contrat et de vérifier si VHBV se conforme aux conditions du présent contrat. VIBV peut inspecter et vérifier ces livres en vue de vérifier si les conditions du présent contrat sont observées. La vérification est uniquement effectuée par VIBV, par un représentant de VIBV, ou par un vérificateur indépendant désigné par VIBV, cette vérification devant être effectuée pendant les heures normales de bureau. S'il est constaté, au cours de la vérification, que les frais impayés dus à VIBV excèdent de 5 p. 100 les frais réellement payés à VIBV par VHBV depuis la date de la vérification antérieure (ou depuis le début du présent contrat, dans le cas d'une première vérification), le coût de la vérification est à la charge de VHBV.
+9. Résiliation. VIBV peut résilier le présent contrat, pour quelque raison que ce soit, dans les 30 jours suivant l'avis écrit qu'elle donne à VHBV et sur prise en charge des droits et obligations stipulés dans le contrat en question. De plus, le présent contrat est automatiquement résilié sans préavis sur résiliation du contrat en question. La résiliation prend effet sans qu'il soit nécessaire de donner un avis à un tribunal ou à quelque autre autorité juridique et sans qu'il soit nécessaire pour pareil tribunal ou pour pareille autorité de prendre des mesures. Sur résiliation du présent contrat, les droits et obligations stipulés dans le contrat en question reviennent à VIBV.
+10. Garanties additionnelles. VHBV prend les mesures qu'il est raisonnable pour VIBV de demander en vue d'obtenir, de rendre opposables ou de protéger les droits que possède VIBV en vertu du présent contrat ou du contrat en question; VHBV signe notamment les documents demandés par VIBV à l'égard de droits afférents à des brevets, à une technique, à des secrets commerciaux, à du savoir‑faire, à des marques et à d'autres droits de propriété accordés par le contrat en question ou à l'égard de tout droit réversif que possède VIBV à la suite de la résiliation du présent contrat.
+11. Modification et renonciation. VHBV ne modifie pas le contrat en question, ni ne renonce à l'exécution d'une disposition du contrat en question, sans obtenir au préalable le consentement écrit exprès de VIBV. Aucune modification du présent contrat ou d'une disposition du présent contrat ni aucune renonciation au présent contrat ou à une disposition du présent contrat ne prend effet à moins d'être signée par la partie à l'encontre de laquelle on cherche à faire exécuter cette modification ou cette renonciation.
+12. Divisibilité. Si l'une ou l'autre des dispositions du présent contrat est pour quelque raison que ce soit jugée à quelque égard invalide, illégale ou inexécutoire dans quelque ressort, l'invalidité, l'illégalité ou l'impossibilité d'assurer l'exécution ne porte pas atteinte aux autres dispositions du présent contrat dans ce ressort; le présent contrat est modifié et interprété, dans ce ressort, de façon à être valide, légal et exécutoire dans la plus grande mesure possible permise dans ce ressort.
+13. Ayants droit. Le présent contrat peut être cédé d'une façon inconditionnelle par VIBV. VHBV ne doit pas céder le présent contrat ou quelque droit accordé par le présent contrat sans obtenir au préalable le consentement écrit de VIBV. Le présent contrat s'applique au profit de VIBV et de ses ayants droit et lie VHBV et ses ayants droit.
+EN FOI DE QUOI les parties, par l'entremise de leurs mandataires dûment habilités, ont signé, scellé et remis le présent contrat, celui‑ci prenant effet à la date indiquée en premier lieu.
+VELCRO INDUSTRIES B.V.
+(SCEAU)
+par : ____________________________
+Nom : Robert J. Huyzen
+Poste : Directeur général
+Date :
+VELCRO HOLDINGS B.V.
+(SCEAU)
+par : ____________________________
+Nom : Peter H. Bosse
+Poste : Directeur général
+Date :
+Contrat reçu et accepté :
+VELCRO CANADA INC.
+Par : __________________________
+(SCEAU)
+Nom : Patrick D. Todkill
+Poste : Président
+Date :
+Vue aux fins de la légalisation : la signature, sur le document ci‑joint, de M. ROBERT J. HUYZEN, résidant à Curaçao, Antilles néerlandaises, agissant en sa qualité de directeur général de la société à responsabilité limitée VELCRO INDUSTRIES B.V., établie à Curaçao, par le soussigné, Gerard Christoffel Antonius Smeets, notaire de droit civil résidant à Curaçao, le 16e jour de septembre 2004.
+ANNEXE E
+[TRADUCTION]
+CONTRAT DE CESSION, DE PRISE EN CHARGE ET DE LICENCE
+Le présent contrat de cession, de prise en charge et de licence, prenant effet le 1er octobre 2003, est conclu entre Velcro Industries B.V. (« VIBV »), une société privée à responsabilité limitée constituée et régie en vertu des lois des Pays‑Bas, dont le principal établissement commercial est situé à Castorweg 22‑24, Curaçao, Antilles néerlandaises, et dont l'enregistrement porte le numéro 72161, et Velcro Holdings B.V. (« VHBV »), une société privée à responsabilité limitée des Pays‑Bas située à Amsteldijk 166, 1079 LH Amsterdam, Pays‑Bas.
+ATTENDU que VIBV a conclu un contrat de licence, prenant effet le 1er octobre 2003, avec Velcro Canada Inc. (le licencié en vertu de ce contrat), à l'égard de l'octroi de licences relatives à une technique sous licence et à des marques de commerce visées par une licence (le « contrat en question »);
+ATTENDU que VIBV veut céder et déléguer certains droits et obligations stipulés dans le contrat en question, et que VHBV veut les obtenir et les assumer;
+ATTENDU que les parties veulent prévoir le paiement de redevances par VHBV en faveur de VIBV;
+En considération des engagements réciproques énoncés dans le présent contrat et d'autres contreparties valables, dont la réception et le caractère suffisant sont par les présentes reconnus, VIBV et VHBV s'entendent sur les dispositions suivantes :
+1. Cession et licence. VIBV cède et transfère le contrat en question, ainsi que tous les droits que possède VIBV en vertu du contrat en question, sauf les droits que VIBV conserve, tels qu'ils sont énoncés à l'article 3 du présent contrat, et VHBV accepte le contrat et les droits. VIBV accorde à VHBV le droit d'accorder des sous‑licences en vertu des brevets, des techniques, des secrets commerciaux, du savoir‑faire et des marques appartenant à VIBV et identifiés dans le contrat en question, mais uniquement conformément aux licences mentionnées dans le contrat en question.
+2. Prise en charge. VIBV délègue les obligations qui lui incombent en vertu du contrat en question, et VHBV les prend en charge.
+3. Droits conservés par VIBV. VIBV est et continue à être titulaire des droits et titres afférents aux brevets, aux demandes de brevets, à la technique, aux secrets commerciaux, au savoir‑faire, aux marques, aux enregistrements de marques, aux demandes d'enregistrement de marques, à la survaleur et aux autres droits de propriété faisant l'objet de licences en vertu du présent contrat ou du contrat en question, y compris la « technique sous licence » et les « marques de commerce visées par une licence », tel que ces expressions sont définies dans le contrat en question. Aucune disposition du présent contrat ne doit être interprétée comme ayant pour effet de céder ou de transférer à VHBV quelque droit se rapportant à la propriété des éléments susmentionnés. Sans restreindre la portée générale de ce qui précède, seule VIBV continue à être titulaire des droits afférents à ces marques et des droits stipulés dans le contrat en question se rapportant à ces marques, et l'utilisation de ces marques par VHBV ou par quelque partie au contrat en question est effectuée au profit de VIBV. VHBV s'engage à aider au dépôt de demandes concernant ces brevets et à l'enregistrement de ces marques au nom de VIBV dans tout pays pour lequel VIBV en fait la demande, ainsi qu'à aider au renouvellement et au maintien de ces brevets et de ces enregistrements et à l'inscription de VHBV ou de toute autre partie au contrat en question à titre d'usager, sur demande de VIBV. Aucune disposition du présent contrat ne doit être interprétée comme accordant à VHBV une licence à l'égard d'un autre brevet, d'une autre technique, d'autres secrets commerciaux, d'un autre savoir‑faire, d'une autre marque ou d'un autre droit de propriété dont VIBV est propriétaire ou comme accordant une licence autorisant l'octroi de sous‑licences, autrement que conformément au contrat en question.
+4. Exécution d'obligations stipulées dans le contrat en question. VHBV assure avec diligence l'exécution des conditions du contrat en question. VHBV informe sans délai VIBV de tout manquement ou de toute tentative de manquement aux conditions du contrat en question ou de la divulgation non autorisée de renseignements confidentiels par une partie au contrat en question et, sauf instructions contraires de VIBV, VHBV prend des mesures appropriées en vue de remédier à pareil manquement ou à pareille divulgation. VHBV contrôle notamment l'utilisation des brevets, de la technique, des secrets commerciaux, du savoir‑faire et des marques faisant l'objet d'une licence en vertu du contrat en question, de façon à assurer le maintien des normes élevées de qualité établies par VIBV à l'égard des produits et services à l'égard desquels l'un quelconque des droits de propriété susmentionnés est utilisé, et VHBV assure l'exécution des obligations de toute partie au contrat en question, lorsqu'il s'agit de créer, de faire enregistrer, d'obtenir, de rendre opposables ou de protéger les droits que possède VIBV en vertu du contrat en question, y compris les droits visant à aider VIBV à faire enregistrer des marques à son nom dans tout pays pour lequel VIBH en fait la demande, ainsi qu'à renouveler et à maintenir ces enregistrements et à faire inscrire pareille partie à titre d'usager, à la demande de VIBV. VHBV prend les mesures demandées par VIBV aux fins de l'exercice de tout droit de vérification accordé par le contrat en question ou concernant la violation réelle ou présumée, par VHBV ou par toute autre partie au contrat en question, du droit de propriété d'un tiers, ou la violation par un tiers d'un droit de propriété de VIBV.
+5. Tiers bénéficiaire. Les parties conviennent que VIBV est un tiers bénéficiaire des dispositions du contrat en question qui est cédé à VHBV et que VIBV est autorisée à exercer les droits du donneur de licence et à assurer l'exécution des obligations qui incombent au licencié en vertu du contrat en question. VIBV est autorisée à exercer ces droits en vertu du contrat en question pour son propre compte, à son entière discrétion. VHBV apporte à VIBV l'aide demandée par VIBV à l'égard de l'exercice de ces droits.
+6. Redevances. VHBV perçoit les redevances du tiers licencié en vertu du contrat en question (appelé le « licencié » dans ce contrat). VHBV verse à VIBV un montant correspondant aux redevances perçues, moins le montant approuvé par les autorités fiscales néerlandaises afin de couvrir les frais connexes de VHBV. Chaque partie s'engage à aviser séparément l'autre partie de toute décision fiscale se rapportant aux redevances et au contrat en question.
+7. Modes de paiement. Les montants dus en vertu du présent contrat sont versés à VIBV dans les trente jours de la réception du paiement par VHBV, par chèque ou virement à un compte bancaire désigné par VIBV, dans les mêmes devises que celles dans lesquelles les redevances sont reçues par VHBV. VHBV paie les frais, les taxes de vente, d'utilisation, de valeur ajoutée et autres taxes ou charges gouvernementales de quelque genre que ce soit établis sur les opérations visées par le présent contrat ou à l'égard de pareilles opérations, conformément aux exigences du droit néerlandais. Si ces taxes ou charges sont payées par VHBV au moyen d'une retenue ou d'une déduction, pour VIBV ou pour le compte de VIBV, VHBV déduit ces paiements du montant dû en vertu du présent contrat.
+8. Livres et vérification. Pendant la durée du présent contrat et pour sept ans par la suite, VHBV conserve des livres comptables suffisants afin de permettre de déterminer les montants qui sont dus en vertu du présent contrat et de vérifier si VHBV se conforme aux conditions du présent contrat. VIBV peut inspecter et vérifier ces livres en vue de vérifier si les conditions du présent contrat sont observées. La vérification est uniquement effectuée par VIBV, par un représentant de VIBV, ou par un vérificateur indépendant désigné par VIBV, cette vérification devant être effectuée pendant les heures normales de bureau. S'il est constaté, au cours de la vérification, que les frais impayés dus à VIBV excèdent de 5 p. 100 les frais réellement payés à VIBV par VHBV depuis la date de la vérification antérieure (ou depuis le début du présent contrat, dans le cas d'une première vérification), le coût de la vérification est à la charge de VHBV.
+9. Résiliation. VIBV peut résilier le présent contrat, pour quelque raison que ce soit, dans les 30 jours suivant l'avis écrit qu'elle donne à VHBV et sur prise en charge des droits et obligations stipulés dans le contrat en question. De plus, le présent contrat est automatiquement résilié sans préavis sur résiliation du contrat en question. La résiliation prend effet sans qu'il soit nécessaire de donner un avis à un tribunal ou à quelque autre autorité juridique et sans qu'il soit nécessaire pour pareil tribunal ou pour pareille autorité de prendre des mesures. Sur résiliation du présent contrat, les droits et obligations stipulés dans le contrat en question reviennent à VIBV.
+10. Garanties additionnelles. VHBV prend les mesures qu'il est raisonnable pour VIBV de demander en vue d'obtenir, de rendre opposables ou de protéger les droits que possède VIBV en vertu du présent contrat ou du contrat en question; VHBV signe notamment les documents demandés par VIBV à l'égard de droits afférents à des brevets, à une technique, à des secrets commerciaux, à du savoir‑faire, à des marques et à d'autres droits de propriété accordés par le contrat en question ou à l'égard de tout droit réversif que possède VIBV à la suite de la résiliation du présent contrat.
+11. Modification et renonciation. VHBV ne modifie pas le contrat en question, ni ne renonce à l'exécution d'une disposition du contrat en question, sans obtenir au préalable le consentement écrit exprès de VIBV. Aucune modification du présent contrat ou d'une disposition du présent contrat ni aucune renonciation au présent contrat ou à une disposition du présent contrat ne prend effet à moins d'être signée par la partie à l'encontre de laquelle on cherche à faire exécuter cette modification ou cette renonciation.
+12. Divisibilité. Si l'une ou l'autre des dispositions du présent contrat est pour quelque raison que ce soit jugée à quelque égard invalide, illégale ou inexécutoire dans quelque ressort, l'invalidité, l'illégalité ou l'impossibilité d'assurer l'exécution ne porte pas atteinte aux autres dispositions du présent contrat dans ce ressort; le présent contrat est modifié et interprété, dans ce ressort, de façon à être valide, légal et exécutoire dans la plus grande mesure possible permise dans ce ressort.
+13. Ayants droit. Le présent contrat peut être cédé d'une façon inconditionnelle par VIBV. VHBV ne doit pas céder le présent contrat ou quelque droit accordé par le présent contrat sans obtenir au préalable le consentement écrit de VIBV. Le présent contrat s'applique au profit de VIBV et de ses ayants droit et lie VHBV et ses ayants droit.
+EN FOI DE QUOI les parties, par l'entremise de leurs mandataires dûment habilités, ont signé, scellé et remis le présent contrat, celui‑ci prenant effet à la date indiquée en premier lieu.
+VELCRO INDUSTRIES B.V.
+(SCEAU)
+par : « Robert J. Huyzen »
+Nom : Robert J. Huyzen
+Poste : Directeur général
+Date : le 15 septembre 2004
+VELCRO HOLDINGS B.V.
+(SCEAU)
+par : « Peter H. Bosse »
+Nom : Peter H. Bosse
+Poste : Directeur général
+Date :
+Contrat reçu et accepté :
+VELCRO CANADA INC.
+Par : « Patrick D. Todkill »
+(SCEAU)
+Nom : Patrick D. Todkill
+Poste : Président
+Date : le 29 septembre 2004
+Vue aux fins de la légalisation : la signature, sur le document ci‑joint, de M. ROBERT J. HUYZEN, résidant à Curaçao, Antilles néerlandaises, agissant en sa qualité de directeur général de la société à responsabilité limitée VELCRO INDUSTRIES B.V., établie à Curaçao, par le soussigné, Gerard Christoffel Antonius Smeets, notaire de droit civil résidant à Curaçao, le 16e jour de septembre 2004.
+)
+CANADA
+)
+)
+)
+ATTESTATION NOTARIALE DE SIGNATURE
+PROVINCE DE L'ONTARIO
+)
+)
+Je soussigné, Christopher Leslie Moon, notaire de la province de l'Ontario, dûment nommé par autorité royale et exerçant ma profession à la ville de Brampton, dans la municipalité régionale de Peel, en Ontario, certifie ce qui suit :
+1. J'étais présent à titre de témoin lors de la signature des documents suivants à Brampton (Ontario) le 29 septembre 2004, et j'ai observé leur signature :
+a) contrat de cession, de prise en charge et de licence conclu entre Velcro Industries B.V. et Velcro Holdings B.V., signé par Patrick D. Todkill.
+2. J'ai identifié Patrick D. Todkill au moyen d'une pièce d'identité avec photographie et je suis convaincu que la personne que j'ai vue signer le document est la personne du même nom mentionnée dans la pièce d'identité.
+En foi de quoi j'ai apposé ma signature et mon sceau notarial à la ville de Brampton, dans la municipalité régionale de Peel, ce 29e jour de septembre 2004.
+« Christopher Leslie Moon »
+Christopher Leslie Moon
+Notaire de la province de l'Ontario
+Davis Webb
+24, rue Queen Est
+Schulze & Moon LLP
+Bureau 800
+Avocats
+Brampton (Ontario) Canada
+L6V 1A3
+NautaDutilh
+CERTIFICAT NOTARIAL
+Vu par le soussigné, Wijnand Hendrik Bossenbroek, notaire de droit civil à Amsterdam, aux Pays‑Bas, aux fins de la légalisation de la signature de :
+M. Pieter Hendrik BOSSE,
+qui, selon les renseignements obtenus du registraire du commerce de la Chambre de commerce d'Amsterdam, à la date des présentes, (i) est directeur général de VELCRO HOLDINGS B.V., établie à Amsterdam, (ii) en cette qualité, est autorisé à agir seul en vue de représenter ladite société.
+Amsterdam, le 8 octobre 2004
+Le présent certificat notarial vise uniquement à légaliser une signature et à attester que les renseignements figurant dans ledit certificat sont les mêmes que ceux qui sont enregistrés auprès de ladite Chambre de commerce. À cet égard, il importe toutefois de noter que l'autorisation de représenter la société susmentionnée selon les documents de la Chambre de commerce peut être limitée pour des raisons telles qu'un conflit d'intérêts ou un défaut de compétence ou pour d'autres motifs d'ordre juridique, sur lesquels je n'ai pas fait enquête aux fins du présent certificat.
+NautaDutilh N.V. a son siège à Rotterdam, Pays‑Bas, et est inscrite dans le registre commercial, à Rotterdam, sous le numéro 24338323. Tous les services sont exécutés en vertu d'un contrat de prestation de services professionnels (« overeenkomst van opdracht ») conclu avec NautaDutilh N.V., sous réserve des conditions générales établies par NautaDutilh N.V. Ces conditions générales comprennent notamment une clause de limitation de responsabilité et ont été déposées auprès de la Cour de première instance de Rotterdam. Elles peuvent être consultées à www.nautadutilh.com et seront fournies sans frais sur demande.
+ABN AMRO Bank 45.24.77.999; ING Bank 69.74.64.008; Postbank 57683; compte au nom de :
+Kwaliteitsrekening Notarissen Amsterdam NautaDutilh N.V.
+82027887 AMS C 155062 / 2
+APOSTILLE
+(Convention de La Haye du 5 octobre 1961)
+1.
+Pays : Pays‑Bas
+Le présent acte public
+2.
+a été signé par : Me W. H. Bossenbroek
+3.
+agissant en qualité de : notaris te Amsterdam
+4.
+est revêtu du sceau/timbre de : Me W. H. Bossenbroek
+Attesté
+5.
+à : Amsterdam
+6.
+le : 8 octobre 2004
+7.
+par : le greffier de la Cour à Amsterdam
+8.
+sous No : 8 octobre 2004 021926
+9.
+Sceau/timbre :
+10.
+Signature :
+« J. M .A. van Loef »
+Mme J. M .A. van Loef

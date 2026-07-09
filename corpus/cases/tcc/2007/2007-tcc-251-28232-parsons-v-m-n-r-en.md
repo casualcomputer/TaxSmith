@@ -1,0 +1,209 @@
+---
+title: "Parsons v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28232/index.do"
+last_modified: "2007-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 251"
+citation2: ""
+neutral_citation: "2007 TCC 251"
+decision_date: "2007-05-18"
+language: "en"
+item_id: "28232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2079
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:06:02.415000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e05b71e768eafb8ebb0ccdaac4edfa3059c0081f2319111ccf09ae8662987f63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Parsons v. M.N.R.
+
+- Citation: 2007 TCC 251
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2079, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parsons v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-18
+Neutral citation
+2007 TCC 251
+File numbers
+2006-1847(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1847(EI)
+BETWEEN:
+NELLIE PARSONS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Spruce Grove Cottages Inc. (2006-1865(EI)) on March 29, 2007,
+at Corner Brook, Newfoundland and Labrador
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Kimberly Burridge
+Counsel for the Respondent:
+Lindsay Holland
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal under the Employment Insurance Act ("Act") from the decision of the Respondent that the employment of the Appellant was not insurable employment within the meaning of section 5 of the Act during the period of June 12, 2005 to September 24, 2005 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the employment of the Appellant during this period was insurable employment under section 5 of the Act.
+Signed at Halifax, Nova Scotia, this 30th day of April 2007.
+"Wyman W. Webb"
+Webb J.
+Docket: 2006-1865(EI)
+BETWEEN:
+SPRUCE GROVE COTTAGES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Nellie Parsons (2006-1847(EI)) on March 29, 2007,
+at Corner Brook, Newfoundland and Labrador
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Kimberly Burridge
+Counsel for the Respondent:
+Lindsay Holland
+____________________________________________________________________
+JUDGMENT
+The Appellant's appeal under the Employment Insurance Act ("Act") from the decision of the Respondent that the employment of Nellie Parsons by the Appellant was not insurable employment during the period from June 12, 2005 to September 24, 2005 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the employment of Nellie Parsons by the Appellant during this period was insurable employment for the purposes of the Act.
+Signed at Halifax, Nova Scotia, this 30th day of April 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC251
+Date: 20070430
+Docket: 2006-1847(EI)
+BETWEEN:
+NELLIE PARSONS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Docket: 2006-1865(EI)
+AND BETWEEN:
+SPRUCE GROVE COTTAGES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The appeals of Spruce Grove Cottages Inc. and Nellie Parsons under the Employment Insurance Act ("Act") were heard together on common evidence. The issue in each appeal was whether the decision of the Respondent that the employment of Nellie Parsons by Spruce Grove Cottages Inc. during the period of June 12, 2005 to September 24, 2005 was not insurable employment for purposes of the Act was reasonable.
+[2] Subsection 5(2) of the Act provides in part that:
+Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[3] Subsection 5(3) of the Act provides that:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] In this case James Parsons was the sole shareholder of Spruce Grove Cottages Inc. Nellie Parsons is the spouse of James Parsons. As a result, Nellie Parsons and Spruce Grove Cottages Inc. were related for the purposes of the Income Tax Act and are therefore deemed to not be dealing with each other at arm's length under the Income Tax Act. As a result, the issue in this case is whether the decision of the Minister of National Revenue that Nellie Parsons and Spruce Grove Cottages Inc. would not have entered into a substantially similar contract of employment during the period in question if they would have been dealing with each other at arm's length, is reasonable.
+[5] In the case of Porter v. M.N.R. 2005 TCC 364, Justice Campbell of this Court reviewed the decisions of this Court and the Federal Court of Appeal in relation to the role of the Tax Court in appeals of this nature. In paragraph 13 of this decision Justice Campbell stated as follows:
+In summary, the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[6] Spruce Grove Cottages Inc. is a small cottage operation operating in Gros Morne National Park. The company has, and during the period in question had, four two-bedroom cottages and one three-bedroom cottage. This is a total of five cottages available for rent. While there were 11 rooms in total, there were only five cottages. It was a seasonal business operating from mid-June to late September in each year. Nellie Parsons' duties for the company included the daily cleaning of the cottages, checking guests in and out, making bookings and recording of purchases. As part of her duties of cleaning the cottages she would do the laundry and take out the garbage. When time permitted she would also do a thorough cleaning of each cottage. As well, Nellie Parsons was very knowledgeable about the local area and about southern Labrador and could provide information to the guests who were planning to visit these areas.
+[7] Nellie Parsons did have some cheque signing authority. This was confirmed by both Nellie Parsons and James Parsons. She would not, however, sign cheques without his permission and she did not sign many cheques.
+[8] Nellie Parsons testified that she had worked in a similar position for approximately five to six years before she started to work for her husband. Prior to the incorporation of Spruce Grove Cottages Inc., James Parson had operated the cottage business as a sole proprietorship. When Nellie Parsons was working for her other employer she was making close to $10 per hour. During the period in question she was paid $10.50 per hour.
+[9] When Nellie Parsons was describing her daily routine most of her time spent during the day would be related to the housekeeping duties. She would spend time in the morning dealing with those guests who were ready to check out and then proceed to clean the cottages that had been vacated. The cleaning of the cottages would include doing the laundry, taking out the garbage, washing dishes, wiping out the fridge and stove and mopping the floors. This would take approximately one to one and a half hours per cottage. Since there were five cottages available for rent it was clear that the majority of her duties were related
+to the housekeeping function. Her hours of work for each day were from 8:00 a.m. to 4:00 p.m., Monday to Saturday. She did not work on Sundays.
+[10] James Parsons indicated that on Sundays when Nellie Parsons did not work, it was he and his sister who would look after the cottages. His mother‑in‑law would also help on occasion. It was also evident that the level of cleaning would not be the same on Sundays as it was during the other days of the week.
+[11] James Parsons indicated that he had made inquiries in the local area with respect to rates of pay. He determined that an assistant manager at another motel in the area was making more than $10.50 per hour. He had also determined that the owners of a new inn were proposing to pay waitresses $10 per hour.
+[12] The appeals officer for the Canada Revenue Agency testified that in making a determination that the employment was not insurable, she considered that the wages paid to Nellie Parsons were less than the amount that would have been paid in an arm's length relationship. Two Exhibits were introduced as R-3 and R-4 which are print-outs of labour market information for Prince Edward Island and Nova Scotia from the Service Canada website. It should be noted that the appeals officer indicated that similar information could not be located for Newfoundland and Labrador. The occupation that was listed was "Accommodation Service Managers". The information for Prince Edward Island was for the year 2003 and indicated that the low wage per hour in that year was $7 per hour. The high wage per hour was $13.22 and the average wage was $10.19.
+[13] The information produced for Nova Scotia was for the same period that is in issue in this case, i.e. 2005, and was broken down into different areas. In my opinion it would not be reasonable to use data from a metropolitan area such as Halifax to determine the appropriate rates that would have been paid in an arm's length relationship in a rural area such as Gros Morne National Park, Newfoundland and Labrador. In the other areas of Nova Scotia the following amounts were listed in this table:
+Area
+Average Wage
+($ / hour)
+High Wage
+($ / hour)
+Low Wage
+($ / hour)
+Annapolis Valley
+10.50
+22.25
+7.75
+Cape Breton Network
+13.11
+22.19
+9.50
+Northern Nova Scotia
+11.67
+24.10
+7.50
+South Shore
+10.50
+22.25
+7.75
+Southwest Nova Scotia
+10.50
+22.25
+7.75
+[14] In three of the areas in the province of Nova Scotia the average wage for an accommodation service manager was $10.50. There is no indication in this table of the size of the various operations and it would seem reasonable to conclude that the smaller operations would pay arm's length employees less than the amount that large operations would pay an arm’s length employee who held an accommodation service manager position.
+[15] However, the evidence in this case supports a finding that the duties of Nellie Parsons were not only that of a service manager responsible for booking guests, checking guests in and checking guests out, but also included, and were predominantly, housekeeping duties. The evidence clearly revealed that the majority of her time was spent on the housekeeping functions not the manager functions.
+[16] Counsel for the Respondent had also submitted that Nellie Parsons was underpaid and would have been paid more than $10.50 per hour if she would have been an arm's length employee based on certain statements of James Parsons. James Parsons, on behalf of Spruce Grove Cottages Inc., had stated in the fact finding questionnaire for the payor that "I could not get another comparable worker to do the work she does for the same rate of pay especially after a 10-year work period".
+[17] However, the data gathered by the Respondent indicates that the average hourly wage for accommodation service managers in three of the areas of Nova Scotia for 2005 was $10.50 - the amount that Nellie Parsons was being paid. It seems difficult to accept that an arm's length accommodation service manager who is being paid more than the average of $10.50 would be required to do the laundry and take out the garbage. The cleaning, laundry and removal of garbage were a significant part of the duties of Nellie Parsons and these would not normally be duties of accommodation service managers in a management position. As a result, the presence of these duties would suggest that the average
+amount for accommodation service managers ought to have been used as a comparable salary comparison. The position that Nellie Parsons had with the company could best be described, based on her evidence and that of James Parsons, as a housekeeper/accommodation service manager with greater emphasis on the housekeeping part of her duties.
+[18] Therefore, in my opinion, the evidence would not support a reasonable conclusion that she was overpaid.
+[19] The appeals officer also indicated that the expenses (as stated by Spruce Grove Cottages Inc.) exceeded its revenues for the year in question. This would suggest that the company could not afford to pay her any more than it did. Counsel for the Respondent argued that the employment position itself should dictate the amount that would be paid in an arm's length situation, regardless of the ability of the employer to pay. I do not agree. There are examples in industry, especially in one‑industry towns, where companies that are in financial trouble have had to seek wage concessions from arm’s length employees based on the ability of the company to pay. Therefore the ability of the company to pay, in my opinion, is a relevant factor that would be taken into account in an arm's length relationship when there are limited options for the employees to seek employment from other employers. Since Gros Morne National Park is located in a rural area of the province of Newfoundland and Labrador and it is not near any large metropolitan area, the options for any person to seek alternate employment would be limited and in these circumstances the financial ability of an employer is a factor that would be taken into account in setting the amount to be paid to an arm's length employee.
+[20] The appeals officer had also indicated that a factor that had been taken into account was the number of weeks that she worked versus the number of weeks that she had to work in order to claim employment insurance benefits. The evidence indicated that this operation was only a seasonal operation operating from mid-June to late September and therefore her hours would have been determined by the nature of the business. There was nothing to indicate that an arm's length person would have worked for any fewer weeks in this situation.
+[21] Counsel for the Respondent had also argued that Nellie Parsons had performed other duties after her employment was terminated. However the evidence that was presented was that any duties that she did perform after her
+employment was terminated were minimal and limited to answering a few telephone calls or perhaps taking information on a particular booking. The evidence also was that there were very few bookings during the off‑season. It should be noted that there were only five cottages available for bookings.
+[22] Counsel for the Respondent had also argued that there were delays by Nellie Parsons in cashing her paycheques. However the delays in cashing the paycheques were not significant (the longest delay was less than 30 days) and were explained by Nellie Parsons who indicated that she did her banking in Deer Lake, which was approximately a one hour drive from her home, and she would wait until she travelled to Deer Lake to cash her cheques.
+[23] As a result, I am unable to conclude that the Minister's decision still seems "reasonable" in light of the evidence that was presented and therefore the appeals of Spruce Grove Cottages Inc. and Nellie Parsons under the Act are allowed.
+Signed at Halifax, Nova Scotia, this 30th day of April 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC251
+COURT FILE NO.: 2006-1847(EI) AND 2006-1865(EI)
+STYLE OF CAUSE: NELLIE PARSONS v. M.N.R. and
+SPRUCE GROVE COTTAGES INC. v. M.N.R.
+PLACE OF HEARING: Corner Brook, Newfoundland and Labrador
+DATE OF HEARING: March 29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 30, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Kimberly Burridge
+Counsel for the Respondent:
+Lindsay Holland
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kimberly Burridge
+Firm: Murphy, Watton & Burridge
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

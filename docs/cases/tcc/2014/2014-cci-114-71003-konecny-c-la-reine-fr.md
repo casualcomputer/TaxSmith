@@ -1,0 +1,150 @@
+---
+title: "Konecny c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71003/index.do"
+last_modified: "2014-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 114"
+citation2: ""
+neutral_citation: "2014 CCI 114"
+decision_date: "2014-04-11"
+language: "fr"
+item_id: "71003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5284
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:00:54.496000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "14bd6cc8b61bfb03b8dc5852e0e270f2328472313d40f42fa0554863496f8aed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Konecny c. La Reine
+
+- Citation: 2014 CCI 114
+- Decision date: 2014-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5284, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Konecny c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-11
+Référence neutre
+2014 CCI 114
+Numéro de dossier
+2013-2108(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2108(IT)I
+ENTRE :
+JOHN EDWARD KONECNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel relatif à l’année d’imposition 2011 est rejeté compte tenu du fait que l’appelant n’a pas effectué une réinstallation admissible au sens de la définition qui en est donnée au paragraphe 248(1) de la Loi de l’impôt sur le revenu.
+Signé à Ottawa (Ontario), ce 11e jour d’avril 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 26e jour de mai 2014
+S. Tasset
+Référence : 2014 CCI 114
+Date : 20140411
+Dossier : 2013-2108(IT)I
+ENTRE :
+JOHN EDWARD KONECNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+[1] Aux termes du paragraphe 62(1) de la Loi de l’impôt sur le revenu, les contribuables, au moment du calcul de leur revenu imposable dans l’année d’un déménagement, peuvent déduire certains frais de déménagement liés à une « réinstallation admissible ». Par ailleurs, une « réinstallation admissible » est définie au paragraphe 248(1) : quitter une ancienne résidence que l’appelant habitait ordinairement avant la réinstallation pour une nouvelle résidence que l’appelant habitera ordinairement après la réinstallation, afin « de permettre au contribuable […] d’occuper un emploi […] au Canada » au « nouveau lieu de travail ».
+[2] En 2011, M. Konecny a travaillé pendant 10 mois de l’année pour le Conseil scolaire du district de Toronto (« CSDT ») et habitait à Whitby, en Ontario. Au cours du mois de juillet 2011, il a travaillé pour le Conseil scolaire du district d’Ottawa (« CSDO »), et a vécu dans une banlieue d’Ottawa appelée Nepean, en Ontario (« Ottawa »). M. Konecny interjette appel de la nouvelle cotisation par laquelle le ministre a refusé les frais de déménagement d’environ 2 694 $ qui étaient liés au coût de la réinstallation . Cette nouvelle cotisation repose sur l’allégation du ministre selon laquelle M. Konecny s’est installé temporairement à Ottawa au cours du mois de juillet, n’a jamais cessé d’habiter ordinairement à Whitby et n’a pas effectué une « réinstallation admissible ». La Cour est saisie d’une seule question : M. Konecny a-t-il habité ordinairement à Ottawa pendant une partie de l’année 2011?
+II. Quelques faits supplémentaires
+[3] Au cours des mois où il travaillait pour le CSDT, M. Konecny vivait avec son épouse et leurs trois enfants à Whitby. Comme il occupait un emploi d’enseignant, il travaillait du mois de septembre au mois de juin dans chaque année d’enseignement qu’il a passée au service du CSDT, qui l’a rémunéré pour cette période de 10 mois, mais ce salaire de 10 mois a été étalé sur 26 semaines. En juillet de chaque année (il s’agissait d’un fait annuel, selon l’appelant), et en particulier en juillet 2011, M. Konecny et deux de ses enfants séjournaient à Ottawa. Là, au cours du mois de juillet, l’appelant effectuait des journées d’enseignement complètes pour le compte du CSDO. Son épouse restait à la maison de Whitby, d’où elle continuait de travailler.
+[4] En 2011, lorsque M. Konecny est venu séjourner à Ottawa dans cette ancienne maison d’enfance (que sa mère possédait et occupait toujours), ses deux enfants et lui ont emporté avec eux des vêtements, des effets personnels et des articles de travail habituels. Mme Konecny a gardé la voiture familiale.
+[5] M. Konecny a déclaré qu’avant son départ pour Ottawa et son travail au CSDO, il savait qu’au moment de son retour prévu, en septembre, il aurait un emploi auprès du CSDT. Il n’a pas vendu la maison qu’il possédait à Whitby, ni loué ou acheté un lieu d’habitation à Ottawa. Fait non surprenant, il a séjourné avec des membres de sa famille dans une maison, une collectivité et une région où il se sentait à l’aise, qu’il connaissait bien et où, comme il l’a déclaré, il se sentait chez lui. Pour reprendre les paroles de M. Konecny : [traduction] « nous n’étions pas des touristes »; vivre à Ottawa permettait de renouer des liens avec la collectivité et la famille, et offrait aussi l’avantage d’un mois de travail à temps plein.
+[6] M. Konecny n’a pas changé son compte bancaire ou son permis de conduire, mais il était membre de la FEESO à Ottawa et il remplissait les conditions requises pour être électeur auprès de l’Ordre des enseignantes et des enseignants de l’Ontario de cette région.
+III. Le droit applicable
+[7] Nul ne conteste le fait que M. Konecny répondait aux exigences minimales en matière de distance d’une « réinstallation admissible ». Dans le même ordre d’idées, l’intimée ne conteste pas non plus le montant ou le caractère raisonnable des frais qui, invariablement, sont liés au transport en transit et aux repas. La question de droit consiste à savoir si le déménagement a eu lieu dans les limites de la définition que comporte le paragraphe 248(1), de façon à constituer une réinstallation de l’habitation ordinaire de M. Konecny depuis l’ancienne résidence jusqu’à la nouvelle résidence, et vice-versa, afin de lui permettre d’occuper un emploi au cours du mois de juillet auprès du CSDO.
+IV. Les arguments de l’appelant
+[8] M. Konecny fait valoir que :
+i. la réalité du travail moderne oblige à changer souvent de résidence ordinaire et à occuper le nombre, quel qu’il soit, d’emplois à temps partiel et segmentés qui sont nécessaires;
+ii. un aspect unique du domaine de l’enseignement est qu’il ne pouvait pas structurer son emploi d’une autre façon; il avait deux postes d’enseignant à temps plein durant des mois différents, dans des endroits différents, et ces deux emplois l’obligeaient à changer de résidence ordinaire;
+iii. la nature de son déménagement à Ottawa l’a amené à habiter ordinairement à cet endroit;
+iv. le fait de ne pas avoir vendu son ancienne résidence ou acheté une nouvelle et de ne pas avoir changé son compte en banque ou son permis de conduire ne l’empêche pas d’être un résident ordinaire sans interruption pendant plusieurs mois de l’année à Whitby et un résident ordinaire sans interruption pendant un mois à Ottawa, deux lieux de résidence ordinaire qui font partie d’une vie quotidienne établie, normale et habituelle.
+V. Les arguments de l’intimée
+[9] L’avocat de l’intimée fait valoir que si la Cour vient à conclure que la résidence ordinaire a changé de Whitby pour Ottawa en juillet 2011, il faudrait dans ce cas faire droit à l’appel. Toutefois, la notion de « résidence ordinaire » est éminemment factuelle et doit être considérée sous l’angle du [traduction] « mode habituel de vie » par opposition à une résidence spéciale, occasionnelle ou fortuite : Thomson v. R, [1946] SCR 209, à la page 10, aux paragraphes 3 et 4, et à la page 14, au paragraphe 2. La résidence ordinaire est un fait singulier, et elle ne peut pas être séparée en même temps entre deux endroits différents : Rennie v. R, 90 DTC 1050 (CCI), à la page 3 et à la page 4, au paragraphe 2.
+[10] L’avocat de l’intimée a fait valoir de plus que, pour déterminer la « résidence ordinaire », il y a plusieurs facteurs dont il faut tenir compte : la durée du séjour, le logement, les liens communautaires, les liens sociaux et économiques maintenus ou coupés, le transfert du courrier et des communications, le permis de conduire, les cartes des régimes d’assurance‑maladie, l’immatriculation du véhicule, le déménagement de membres de la famille et le déménagement de biens importants : Sears c. R, 2009 CCI 344, à la page 6, au paragraphe 1.
+[11] Enfin, pour déterminer le mode habituel de vie par rapport à la résidence ordinaire, il est nécessaire d’examiner les types de dépenses (Sampson c. R, 2009 CCI 204, aux paragraphes 16 et 17), ainsi que l’importance et le poids précédemment accordés dans la jurisprudence à la durée de n’importe quelle nouvelle résidence présumée : Cavalier c. R, [2001] ACI no 719 (CCI) et Persaud v. R, 2007 DTC 1432.
+[12] En résumé, l’intimée soutient que la très courte durée du séjour, le fait que l’épouse, le véhicule et le domicile familial sont restés au même endroit, l’absence de changements d’adresse relatifs au permis de conduire ou à la carte d’assurance‑maladie ainsi que l’intention claire de retourner à Whitby et le retour concret et prévu à cet endroit après un mois de travail seulement étayent tous la conclusion qu’il n’y a pas eu de changement de résidence ordinaire.
+VI La décision
+[13] Pour les motifs qui suivent, l’appel est rejeté. Il ne fait aucun doute que M. Konecny n’aurait pas pu travailler pour le CSDO sans quitter Whitby et séjourner à Ottawa. En fait, sans cela, il n’aurait pas pu accepter cet emploi.
+[14] Cependant, au vu de la jurisprudence existante, les faits qui suivent ne permettent pas de conclure à un changement de résidence ordinaire le 30 juin et à un autre changement de résidence ordinaire avant le 1er septembre 2011. Avant son départ de Whitby, M. Konecny savait qu’il allait revenir. Il n’a donc pas vendu ou loué sa maison, pris son automobile, veillé à la réinstallation de son épouse, fait changer des documents délivrés par l’État ou ne s’est pas établi de façon permanente d’une manière que l’on pourrait aisément assimiler à un mode habituel de vie. Il a passé l’été auprès de membres de sa famille et de vieux amis, dans une maison familiale où sont venus le rejoindre ses enfants d’âge scolaire, qui étaient par ailleurs en congé d’été et qui étaient en mesure de l’accompagner. Le caractère permanent de la résidence de Whitby n’a jamais changé. Tous les frais engagés étaient liés à un déplacement, en soi non déterminant, mais aucuns frais n’étaient liés à des démarches proactives de réinstallation d’une résidence ordinaire. Pour dire les choses simplement, les éléments nécessaires d’un mode habituel de vie sont restés à Whitby : l’épouse, la maison, les véhicules, le mobilier et l’emploi annuel permanent de 10 mois auprès du CSDT; des éléments qu’il allait sans aucun doute retrouver dans les 45 à 60 jours suivants.
+[15] La résidence ordinaire de M. Konecny n’a pas changé parce que ce dernier a fait peu d’efforts démontrables pour la changer. En 2011, son travail d’enseignant auprès du CSDO avait été planifié (comme dans les années antérieures, d’après M. Konecny) bien à l’avance afin de coïncider avec un retour auprès de membres de la famille, d’amis et de la collectivité dans laquelle il avait passé son enfance. La nature du déménagement était transitoire et saisonnière, et non permanente. Enfin, quelle que soit la mesure dans laquelle le séjour à Ottawa est devenu normal et usuel en 2011, ou lors d’autres années, ce séjour n’avait pas les caractéristiques factuelles d’une résidence ordinaire et permanente, qui reflétait un mode habituel de vie.
+[16] De façon empirique, on arrive à la conclusion que le séjour à Ottawa a facilité l’acceptation d’un emploi auprès du CSDO, plutôt qu’à une conclusion selon laquelle cet emploi a nécessité un déménagement ou une réinstallation de son titulaire pour que celui‑ci réside ordinairement à Ottawa. Le déménagement n’avait pas pour but de pouvoir occuper l’emploi, mais ce dernier allégeait par ailleurs le fardeau financier que représentait la visite estivale de M. Konecny auprès de sa famille, d’amis et de la collectivité de son enfance. Toutes les caractéristiques factuelles qui précèdent, de pair avec cet autre objet plausible d’un tel séjour, font en sorte que nous n’avons pas affaire à un changement de résidence ordinaire.
+[17] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa (Ontario), ce 11e jour d’avril 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 26e jour de mai 2014
+S. Tasset
+RÉFÉRENCE : 2014 CCI 114
+NO DU DOSSIER DE LA COUR : 2013-2108(IT)I
+INTITULÉ : JOHN EDWARD KONECNY et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 11 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 11 avril 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S.O.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

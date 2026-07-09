@@ -1,0 +1,226 @@
+Title: Savard c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27845/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-126-27845-savard-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-02-16
+
+# Savard c. M.R.N.
+
+- Citation: 2005 CCI 126
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 385, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Savard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-16
+Référence neutre
+2005 CCI 126
+Numéro de dossier
+2004-822(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-822(EI)
+ENTRE :
+SUZANNE SAVARD, s/n COIFFURE SANSASS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GILLES LAVOIE, ELIE RIZKALLAH,
+intervenants.
+____________________________________________________________________
+Appel entendu le 13 décembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Roland Rail
+Avocat de l'intimé :
+Me Soleil Tremblay
+Représentant des intervenants :
+Roland Rail
+________________________________________________________________
+JUGEMENT
+L’appel est rejeté, la décision du Ministre en date du 16 février 2004 et les cotisations se rapportant aux deux intervenants sont confirmées selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+«S.J. Savoie»
+Juge suppléant Savoie
+Référence : 2005CCI126
+Date : 20050216
+Dossier : 2004-822(EI)
+ENTRE :
+SUZANNE SAVARD, s/n COIFFURE SANSASS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+GILLES LAVOIE, ELIE RIZKALLAH,
+intervenants.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 13 décembre 2004.
+[2] Il s’agit de déterminer si Gilles Lavoie et Elie Rizkallah, les travailleurs, occupaient un emploi assurable pendant les années 2002 et 2003, période pour laquelle le ministre du Revenu national (le « Ministre ») a cotisé l’appelante pour des cotisations impayées d’assurance-emploi.
+[3] Par avis de cotisation datés du 31 juillet 2003, le Ministre cotisa l’appelante relativement aux années 2002 et 2003 pour des cotisations impayées d’assurance-emploi à l’égard de cinq travailleurs : Pierre Desparois, Hélène Farès, Gilles Lavoie (intervenant), Julie Levasseur et Elie Rizkallah (intervenant). Les cotisations s’établissaient comme suit :
+ANNÉE COTISATIONS A.E. PÉNALITÉ INTÉRÊTS TOTAL
+2002 4 561,92 $ 406,19 $ 165,00 $ 5 133,11 $
+2003 2 177,28 $ 33,00 $ 2 210,28 $
+TOTAL 6 739,20 $ 406,19 $ 198,00 $ 7 343,39 $
+[4] Le 24 septembre 2003, l’appelante demandé au Ministre de reconsidérer les cotisations du 31 juillet 2003.
+[5] Par lettre en date du 16 février 2004, le Ministre informa l’appelante de sa décision de réduire les cotisations en supprimant les montants se rapportant à Pierre Desparois, Hélène Farès et Julie Levasseur parce que l’emploi de ces travailleurs n’était pas inclus dans les emplois assurables par règlement.
+[6] L’appelante en appelle de cette dernière décision du Ministre concernant Gilles Lavoie et Elie Rizkallah, les travailleurs. L’appelante ne connaît pas les revenus des travailleurs et prétend que l’application du paragraphe 8(3) du Règlement sur la rémunération assurable et la perception des cotisations pour établir leurs gains assurables est injuste et arbitraire.
+[7] Pour rendre sa décision, le Ministre a déterminé que les emplois des travailleurs étaient inclus dans les emplois assurables en vertu de l’alinéa 6d) du Règlement sur l’assurance-emploi en s’appuyant sur les faits présumés suivants :
+a) L’appelante exploite, depuis 1995, un salon de coiffure sous la raison sociale de Coiffure Sansass; (admis)
+b) l’appelante exploite son salon dans un local de 1 800 pieds carrés situé à Brossard; (admis)
+c) l’appelante loue le local de la compagnie 154216 Canada Inc.; (admis)
+d) l’appelante est la seule à avoir signé le bail avec le propriétaire du local et elle est la seule responsable des locaux auprès du propriétaire; (admis)
+e) le local loué par l’appelante comporte 3 pièces fermées qu’elle sous‑loue à deux massothérapeutes et à une esthéticienne; (admis)
+f) le reste du local sert uniquement à l’exploitation du salon de coiffure et il comporte 3 chaises hydrauliques, des lavabos et un comptoir-caisse; (nié)
+g) l’appelante utilise personnellement l’une des chaises et loue les 2 autres aux travailleurs qui sont coiffeurs; (nié)
+h) les travailleurs paient un loyer mensuel à l’appelante leur donnant droit à un espace exclusif autour de leur chaise pour dispenser leurs services de coiffure ainsi qu’à un accès à des aires communes (toilettes, lavabos, téléphone); (nié)
+i) l’appelante achète tous les produits de coiffure; les travailleurs lui remboursent les produits qu’ils utilisent; (admis)
+j) chaque travailleur possède ses clients, établit son horaire et ses tarifs; (admis)
+k) chaque travailleur prépare une facture pour chacun de ses clients et dépose l’argent dans un seul tiroir-caisse; (admis)
+l) à la fin de la journée, l’argent du tiroir-caisse est séparé entre l’appelante et les coiffeurs selon les factures établies par chacun; (admis)
+m) l’appelante, malgré le système de factures en vigueur, est dans l’impossibilité d’établir la rémunération des travailleurs pour les années en litige; (admis)
+n) chacun des travailleurs doit fournir ses petits outils de travail; (nié)
+o) quand un nouveau client se présente au salon, il est dirigé vers le coiffeur libre à ce moment; (nié)
+p) durant les années en litige, les travailleurs n’étaient pas les propriétaires ni les exploitants du salon de coiffure. (nié)
+[8] La preuve a révélé que les travailleurs pour lesquels les cotisations du Ministre ont été supprimées ne sont pas coiffeurs mais massothérapeutes, esthéticiennes et manucures.
+[9] Il a été établi que les travailleurs ont signé un contrat avec l’appelante. Les termes de ce contrat, énoncés à la pièce A-1 produite à l’audition, se lisent comme suit :
+CONTRAT
+ENTRE : Coiffure Sansass, 2230 boulevard Lapinière, Brossard, exploité par Suzanne Savard Légaré, demeurant au 1032 D’Iberville, Ascot, P.Q., le locataire principal
+ET : Elie Rizkallah, coiffeur pour dames, demeurant au 155 de Navarre, apt. 310 St-Lambert, P.Q., le concessionnaire.
+Ce contrat fait suite à l’entente verbale entre les parties pour l’exploitation d’une concession.
+Objet du contrat
+L’exploitation d’une concession.
+Sous location d’un eespace exclusif.
+Le concessionnaire se voit attribué un espace exclusif pour l’exploitation de sa concession.
+Frais généraux d’exploitation.
+1. Le concessionnaire paiera au locataire principal 500 $ mensuellement pour l’espace exclusif et les frais reliés à l’électricité, le chauffage, le téléphone et les taxes.
+2. Le locataire principal pourra augmenter les frais généraux d’exploitation en donnant un avis de 60 jours au concessionnaire.
+Aires communes
+Le concessionnaire pourra utiliser les toilettes, un espace pour la prise des repas, les lavabos, le téléphone principal.
+Responsabilités du concessionnaire.
+1. Le concessionnaire meublera l’espace alloué par le locataire principal.
+2. Le concessionnaire fournira ses outils de travail.
+3. Le concessionnaire maintiendra l’espace alloué propre en tout temps.
+4. Le concessionnaire pourra utiliser ses propres produits et selon le cas acheter les produits du locataire principal.
+5. Le concessionnaire utilisera le numéro de téléphone exclusif à la raison sociale sur laquelle il exploite sa profession ou pourra prendre entente avec le locataire principal pour utiliser le téléphone de celui-ci.
+6. Le concessionnaire informera le locataire principal de toute détérioration qui pourrait survenir au local dans le meilleur délai.
+Responsabilité du locataire principal.
+Il est expressément établi que le locataire principal ne sera aucunement responsable de l’administration de la concession octroyée à un concessionnaire ou du paiement des sommes exigées par les diverses instances municipales, gouvernementales provinciales ou fédérales.
+Publicité
+1. Le concessionnaire sera responsable de sa publicité. Il pourra prendre entente avec les autres concessionnaires et ou le locataire principal pour annoncer sa raison sociale ou sa profession dans les médias d’information.
+2. Le concessionnaire pourra annoncer sa profession dans la vitrine ou sur l’enseigne principal après entente avec le locataire principal.
+Heures d’ouverture et de fermeture.
+1. Le concessionnaire s’engage à respecter les heures d’ouverture et de fermeture du locataire principal.
+2. Le concessionnaire pourra modifier les heures d’ouverture et de fermeture après entente avec le locataire principal.
+Clause interprétative.
+Chaque fois que le contexte l’exige, tout mot écrit au singulier comprend aussi le pluriel et vice-versa et tout mot écrit au genre masculin comprend aussi le genre féminin.
+Les mots « locataire principal » et « concessionnaire » peuvent signifier une ou plusieurs personnes de sexe féminin ou masculin, ainsi qu’une ou plusieurs personnes morales ou physiques.
+Déclaration de conformité.
+Le concessionnaire déclare que les informations fournies pour l’obtention d’une concession du locataire principal sont véridiques. Si ces informations n’étaient pas véridiques le locataire principal pourra mettre fin au contrat. De plus le concessionnaire s’engage à dédommager le locataire principal de tous les frais occasionnés pour avoir fourni de fausses informations.
+Renonciation au contrat
+Les parties se donnent mutuellement un avis de 30 jours pour mettre fin au contrat.
+Signature du contrat
+Les parties signent en présence d’un témoin ce 29 mars 1995 à Brossard.
+[10] Il a été établi que chacun des travailleurs était responsable de sa part des dépenses. Par ailleurs, l’appelante a fait la preuve que les travailleurs étaient libres d’embaucher des employés, s’ils le désiraient. En outre, il a été établi que les travailleurs étaient payés par leurs clients et non par l’appelante. La preuve produite par l’appelante a révélé qu’à tous les jours, les recettes en provenance des clients étaient divisées entre l’appelante et les travailleurs.
+[11] Il a été établi également que les travailleurs achetaient leurs produits de l’appelante ou d’ailleurs et réglaient les achats qu’ils faisaient de l’appelante chaque semaine. Les travailleurs possédaient leurs propres ameublements et leurs outils. Il a été établi que si un nouveau client se présentait au salon, il était dirigé vers le coiffeur qu’il avait choisi et s’il n’avait fait aucun choix, il devenait le client du coiffeur qui se levait le premier ou qui allait l’accueillir à la porte.
+[12] Chaque coiffeur possédait sa propre clientèle et était responsable de son horaire mais chacun devait respecter l’horaire établi par le salon. En cas d’absence, les travailleurs avertissaient le salon.
+[13] L’appelante ne versait aucun salaire aux travailleurs et ceux-ci ne recevaient aucun T4 de l’appelante.
+[14] Le représentant de l’appelante a fait valoir que les deux travailleurs ont toujours œuvre à leur compte, en tant que travailleurs autonomes. Ils se sont associés à l’appelante par un contrat qui maintient leur statut de travailleur autonome. Il soutient que la décision rendue par le Ministre a eu pour effet de ne pas reconnaître les droits contractuels des travailleurs selon le Code civil du Québec et que celle-ci constitue une violation des droits des travailleurs reconnus par l’article 15 de la Charte canadienne des droits et libertés.
+[15] L’appelante demande à cette Cour de déclarer inconstitutionnelle l’alinéa 6d) du Règlement sur l’assurance-emploi.
+[16] Le représentant de l’appelante a prétendu que la décision rendue par le Ministre est arbitraire. Il a ajouté que cette décision est discriminatoire puisque le Ministre a exclu des emplois assurables trois emplois similaires à ceux des travailleurs.
+[17] Pour rendre sa décision, le Ministre a invoqué l’alinéa 5(1)a), les articles 92 et 93 de la Loi et l’alinéa 6d) du Règlement sur l’assurance-emploi ainsi que le paragraphe 8(3) du Règlement sur la rémunération assurable et la perception des cotisations. Il convient donc de reproduire ci-dessous les dispositions législatives pertinentes dans l’analyse du dossier :
+EMPLOI ASSURABLE
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+RÈGLEMENT SUR L’ASSURANCE-EMPLOI
+6. Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+d) l’emploi exercé par une personne auprès d’un salon de barbier ou de coiffure, si :
+(i) d’une part, elle fournit des services qu’offre normalement un tel établissement,
+(ii) d’autre part, elle n’est pas le propriétaire ni l’exploitant de cet établissement.
+RÈGLEMENT SUR LA RÉMUNÉRATION ASSURABLE ET LA PERCEPTION DES COTISATIONS
+Salons de barbier ou de coiffure
+8.(3) Lorsque le propriétaire ou l’exploitant d’un salon de barbier ou de coiffure est dans l’impossibilité d’établir la rémunération assurable d’une personne dont l’emploi dans le cadre de cette entreprise est inclus dans les emplois assurables en vertu de l’alinéa 6d) du Règlement sur l’assurance-emploi, la rémunération assurable de cette personne pour chaque semaine où elle exerce cet emploi est réputée, pour l’application de la Loi et du présent règlement, être le montant (arrondi à un dollar près) égal a 1/78 du maximum de la rémunération annuelle assurable. Toutefois, si le propriétaire ou l’exploitant de l’entreprise tient des registres indiquant le nombre de jours travaillés par la personne au cours de chaque semaine, le montant de la rémunération assurable de celle‑ci pour une semaine donnée est réputé être le montant (arrondi à un dollar près) égal au moins élevé des montants suivants :
+a) le produit de la multiplication du nombre de jours travaillés par elle au cours de cette semaine par 1/390 du maximum de la rémunération annuelle assurable;
+b) le montant représentant 1/78 du maximum de la rémunération annuelle assurable.
+[18] À l’appui de ses prétentions, le Ministre a cité l’arrêt Nelson c. Canada (ministre du Revenu national – M.R.N.), [2001] A.C.F. No. 700, où la Cour d’appel fédérale avait à décider un litige sur des faits similaires dont l’analyse a conduit le juge Sharlow à déterminer que les travailleurs en cause exerçaient un emploi assurable. Le juge Sharlow s’est exprimé, entre autres, de la façon suivante :
+Les faits ne sont pas contestés. En 1995 et en 1996, la défenderesse Connie Nelson était membre d’une société de personnes qui exploitait un salon de coiffure sous le nom de « Team JK ». La société de personnes comptait quelques employés et tous reconnaissent que ces employés exerçaient un emploi assurable. Team JK a aussi conclu des ententes avec quatre personnes qui n’étaient pas des employés, mais des « locataires de fauteuil ». La question à trancher dans le cadre de l’appel est celle de savoir si ces locataires de fauteuil exerçaient un emploi assurable.
+[…]
+Il est bien établi que l’établissement de Team JK était un salon de coiffure au sens de l’alinéa 6d) du Règlement sur l’assurance-emploi. Le juge de la Cour de l’impôt a statué que les locataires de fauteuil exerçaient un emploi auprès de ce salon de coiffure, fournissaient des services qu’offrait normalement un tel établissement et n’étaient ni les propriétaires ni les exploitants de cet établissement.
+8. Malgré ces conclusions, le juge de la Cour de l’impôt a conclu que l’alinéa 6d) du Règlement sur l’assurance-emploi ne s’appliquait pas aux locataires de fauteuil. Il a statué que les modalités des services rendus par les locataires de fauteuil en l’espèce n’étaient pas analogues aux modalités des services rendus par les personnes employées par Team JK aux termes d’un contrat de louage de services. Pour ce motif, il a statué que l’alinéa 6d) du Règlement sur l’assurance-emploi est ultra vires dans la mesure où il vise les locataires de fauteuil et qu’il doit être interprété de façon restrictive comme ne s’appliquant pas à elles.
+9. Pour comprendre cette conclusion, il faut examiner les dispositions de l’article 5 de la Loi sur l’assurance-emploi qui autorise l’adoption de l’alinéa 6d) du Règlement sur l’assurance‑emploi :
+Alinéa 5(4)c) de la Loi sur l’assurance-emploi
+(qui a remplacé l’alinéa 4(1)c) de la Loi sur
+l’assurance-chômage)
+5.(4) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements en vue d’inclure dans les emplois assurables : […]
+c) l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d’un contrat de louage de services […]
+10. Il est clair que le juge de la Cour de l’impôt a traité l’alinéa 5(4)c) de la Loi sur l’assurance-emploi comme établissant des conditions préalables à l’application de l’alinéa 6d) du Règlement sur l’assurance-emploi. Le même raisonnement a été rejeté par la Cour dans l’affaire Canada (Procureur général) c. Agence de Mannequins Folio Inc. (1993), 164 N.R. 74 (C.A.F.). Dans cette affaire, Monsieur le juge Hugessen a dit ce qui suit, au nom de la Cour d’appel :
+[4] Nous sommes tous d’avis que le premier juge a erré en droit. L’article 4 énonce les paramètres de l’exercice par la Commission de son pouvoir de prendre des règlements. La validité du Règlement 12 n’est pas contestée en l’espèce. Les dispositions permettant l’exercice du pouvoir ne sont pas des conditions de l’application du règlement adopté en vertu de ce pouvoir. L’alinéa 12g) du Règlement énonce ses propres conditions et le premier juge n’avait pas à en chercher d’autres dans la disposition habilitante.
+11. Selon moi, le raisonnement du juge Hugessen de la Cour d’appel devrait s’appliquer à l’interprétation de l’alinéa 6d) du Règlement sur l’assurance-emploi en l’espèce. L’alinéa 5(4)c) de la Loi sur l’assurance-emploi vise à permettre à la Commission d’identifier des catégories de personnes qui doivent être incluses dans le régime législatif. Il faut présumer que la Commission a édicté l’alinéa 6d) du Règlement sur l’assurance-emploi parce qu’elle a constaté que les modalités des services rendus et la nature du travail exécuté par les personnes travaillant dans un salon de barbier ou de coiffure dans les circonstances décrites à l’alinéa 6d) étaient analogues à celles des personnes employées dans de tels établissements. […] Ainsi, après avoir conclu, quant aux faits, que les locataires de fauteuil satisfaisaient aux conditions établies par l’alinéa 6d) du Règlement sur l’assurance-emploi, le juge de la Cour de l’impôt ne pouvait plus décider que le règlement était inapplicable parce que des conditions additionnelles énoncées dans l’alinéa 5(4)c) de la Loi sur l’assurance-emploi n’avaient pas été remplies. …
+12. En l’espèce, … la validité de l’alinéa 6d) du Règlement sur l’assurance-emploi est contestée. Selon l’argument invoqué, il serait ultra vires dans la mesure où il vise à étendre la portée de la Loi sur l’assurance-emploi de façon qu’elle s’applique à une personne qui ne fournit pas des services à la partie considérée comme l’employeur fictif de cette personne. Je ne peux retenir cet argument.
+[…]
+14. L’avocat de Mme Nelson soutient que le pouvoir conféré à la Commission par l’alinéa 5(4)c) de la Loi sur l’assurance-emploi ne lui permettait pas de conclure que les modalités des services rendus par les locataires de fauteuil de Team JK étaient analogues à celles des services rendus par les employés de Team JK parce que les locataires de fauteuil ne fournissaient des services qu’à leurs propres clients et non à Team JK. Je ne peux retenir cette interprétation de l’alinéa 5(4)c) parce qu’elle repose sur l’inclusion dans cette disposition de termes qui n’y figurent ni expressément ni par déduction nécessaire.
+15. […] Par conséquent, la Commission peut conclure que les locataires de fauteuil d’un salon de coiffure qui ne fournissent pas de services aux propriétaires de l’établissement exercent néanmoins un emploi décrit à bon droit par l’alinéa 5(4)c) de la Loi sur l’assurance-emploi.
+16. L’avocat de Mme Nelson a aussi fait valoir que l’emploi des locataires de fauteuil ne peut être considéré comme un emploi assurable sans l’obtention préalable de l’agrément du gouverneur en conseil et d’une résolution du Parlement. …
+17. […] Néanmoins, cela n’empêche pas la conclusion que l’alinéa 5(4)c) de la Loi sur l’assurance-emploi autorisait l’adoption de l’alinéa 6d) du Règlement sur l’assurance-emploi.
+[19] Et le juge Sharlow de la Cour d’appel fédérale terminait ses motifs avec la conclusion suivante :
+24. Selon mon interprétation de ce règlement, il impose à Team JK l’obligation de verser à la fois les cotisations ouvrières et les cotisations patronales relativement aux locataires de fauteuil visés par l’alinéa 6d) du Règlement sur l’assurance-emploi. …
+[20] Le procureur du Ministre a également cité, à l’appui de ses prétentions, l’arrêt 9070-8835 Québec Inc. c. M.R.N. (2002 CarswellNat 2123) où le juge Somers de cette Cour, après avoir analysé des faits semblables à ceux en l’espèce, terminait son analyse en disant :
+21. Le travail de la travailleuse auprès de l’appelante, comme coiffeuse, est assurable car d’une part, elle fournissait des services qu’offre normalement un tel établissement et d’autre part, elle n’était pas la propriétaire, ni l’exploitant de l’établissement.
+[21] À mon avis, le litige devant cette Cour a fait l’objet d’une analyse détaillée par la Cour d’appel fédérale et a amené le juge Sharlow dans l’arrêt Nelson, précité, à conclure à l’assurabilité des emplois exercés par les travailleurs.
+[22] En vertu des principes de notre jurisprudence, cette Cour est liée par cet arrêt.
+[23] Cette Cour doit conclure que les avis d’évaluation des cotisations établies au nom des travailleurs sont valides puisqu’il a été prouvé que chaque travailleur rendait des services qu’offre normalement un salon de coiffure, sans pour autant être le propriétaire ou l’exploitant de ce salon. Donc, chaque travailleur occupait un emploi assurable selon l’alinéa 6d) du Règlement sur l’assurance-emploi.
+[24] Cette Cour conclut, en outre, que les gains assurables de chacun des travailleurs ont été établis conformément aux dispositions prévues au paragraphe 8(3) du Règlement sur l’assurance-emploi.
+[25] Les arguments formulés par le représentant de l’appelante à l’appui de ses prétentions que la décision du Ministre n’a pas reconnu les droits contractuels des travailleurs selon le Code civil du Québec, sont rejetés, faute de preuve. Il en va de même pour son allégation d’une violation des droits constitutionnels des travailleurs sous la Charte canadienne des droits et libertés. Cette allégation n’a pas été prouvée. Il faut préciser, en outre, que l’appelante n’a pas donné avis préalable de son intention d’invoquer un tel recours, tel que prévu.
+[26] En conséquence, l’appel est rejeté, la décision rendue par le Ministre est et les cotisations se rapportant aux travailleurs (intervenants) sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2005CCI126
+No DU DOSSIER DE LA COUR :
+2004-822(EI)
+INTITULÉ DE LA CAUSE :
+Suzanne Savard, s/n Coiffure Sansass et M.R.N. et Gilles Lavoie et Elie Rizkallah
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 13 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+L’honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 16 février 2005
+COMPARUTIONS :
+Pour l'appelante :
+Roland Rail (représentant)
+Pour l'intimé :
+Me Soleil Tremblay
+Pour les intervenants :
+Roland Rail (représentant)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour les intervenants :
+Nom :
+Étude :

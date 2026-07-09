@@ -1,0 +1,856 @@
+---
+title: "Grimes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/212745/index.do"
+last_modified: "2016-11-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 280"
+citation2: ""
+neutral_citation: "2016 CCI 280"
+decision_date: "2016-11-29"
+language: "fr"
+item_id: "212745"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2944
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:47:01.351000+00:00"
+cases_cited_count: 13
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5194c204b3fdcadcf4c2145e141c4b3d61e38cc5d1b904a47da317601b96f10"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grimes c. La Reine
+
+- Citation: 2016 CCI 280
+- Decision date: 2016-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2944, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grimes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-29
+Référence neutre
+2016 CCI 280
+Numéro de dossier
+2014-2006(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2006(IT)G
+ENTRE :
+M. KATHLEEN GRIMES ET M. ERSIN OZERDINC, FIDUCIAIRES DE LA « OZERDINC FAMILY TRUST NO. 2 »
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 8 et 9 juin 2016, à Ottawa, Canada
+Devant : L'honorable juge Dominique Lafleur
+Comparutions :
+Avocats de l'appelante :
+Me Paul C. LaBarge
+Me Estelle Duez
+Avocat de l'intimée :
+Me Pascal Tétrault
+Nicholas MacDonald (stagiaire)
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2011, dont l'avis est daté du 17 octobre 2013, est accueilli et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints et au résumé des rajustements figurant aux annexes B à D, qui font partie intégrante des motifs du jugement.
+La question des dépens est mise en délibéré. Les parties disposeront d'un délai de 60 jours suivant la date du présent jugement et des motifs pour parvenir à un accord sur les dépens, faute de quoi elles déposeront leurs observations écrites d'au plus 10 pages sur les dépens dans les 30 jours qui suivront l'expiration du délai initial de 60 jours.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2016.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2016 CCI 280
+Date : 20161129
+Dossier : 2014-2006(IT)G
+ENTRE :
+M. KATHLEEN GRIMES ET M. ERSIN OZERDINC, FIDUCIAIRES DE LA « OZERDINC FAMILY TRUST NO. 2 »
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lafleur
+A. APERÇU
+[1] Le présent appel fait suite à une nouvelle cotisation à l'égard de la fiducie « Ozerdinc Family Trust No. 2 » (la « fiducie ») pour l'année d'imposition 2011. Le 17 octobre 2013, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de la fiducie, conformément aux dispositions de la Loi de l'impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.), telle que modifiée (la « Loi »), et il a augmenté le revenu imposable de la fiducie de 4 035 242 $ et a par conséquent inclus l'obligation fiscale correspondante de 1 870 045,22 $ et les intérêts courus de 151 483,35 $ (pièce AR‑2, onglet 19). La nouvelle cotisation découle de l'application des règles se trouvant aux paragraphes 104(4) et 104(5.8) de la Loi, appelées les « règles de la disposition présumée après 21 ans ». Le 15 janvier 2014, Mme Marion Kathleen Grimes et M. Ersin Ozerdinc, à titre de fiduciaires de la fiducie (l'« appelante »), ont déposé un avis d'opposition à l'égard de l'avis de nouvelle cotisation. Le 5 mai 2014, puisque la fiducie n'avait pas reçu d'avis de ratification et que 90 jours s'étaient écoulés depuis le dépôt de l'avis d'opposition, l'appelante a déposé un avis d'appel conformément à l'alinéa 169(1)b) de la Loi.
+[2] Le fait que la fiducie était assujettie à l'application des règles de la disposition présumée après 21 ans n'est pas en litige dans le présent appel. La date de la disposition présumée est le 1er février 2011, en fin de journée (la « date d'évaluation »). La question en litige est la détermination de la juste valeur marchande d'une partie des biens en immobilisation détenus par la fiducie à ce moment.
+[3] Selon le paragraphe 7g) de la réponse à l'avis d'appel et l'exposé conjoint des faits (partiel) déposé sous la cote AR‑1 et corrigé par les parties, les biens en immobilisation détenus par la fiducie à la date d'évaluation et assujettis aux règles de la disposition présumée après 21 ans comprennent ce qui suit :
+une action ordinaire de catégorie A et 2 699 900 actions privilégiées de premier rang du capital‑actions de 1634158 Ontario Inc. (« la société 1634158 ») et une participation dans la société en commandite Site Preparation Limited Partnership (« SPLP »).
+[4] La juste valeur marchande de la participation dans SPLP n'est pas contestée (pièce AR‑1, paragraphe 46). La société 1634158, quant à elle, détenait toutes les actions émises et en circulation d'une société dénommée Site Preparation Limited (« SPL »).
+[5] Le ministre a conclu que la juste valeur marchande des actions de la société 1634158 détenues par la fiducie à la date d'évaluation était de 7 993 655 $, ventilés comme suit : 2 699 900 $ pour les 2 699 900 actions privilégiées de premier rang et 5 293 655 $ pour l'action ordinaire de catégorie A.
+[6] Une des fiduciaires de la fiducie, Mme Marion Kathleen Grimes, a témoigné à l'audience, tout comme le témoin expert cité par l'appelante, M. Gerald S. Blackman, du cabinet MNP S.E.N.C.R.L., s.r.l. L'intimée a convoqué deux témoins experts, à savoir M. Timothy Spencer de l'Agence du revenu du Canada et M. Neil de Gray du cabinet Campbell Valuation Partners Limited (« CVPL »).
+B. LES DISPOSITIONS LÉGALES
+[7] Les passages pertinents des paragraphes 104(4) et 104(5.8) de la Loi sont rédigés comme suit :
+104(4) Présomption de disposition — Toute fiducie est réputée, à la fin de chacun des jours suivants, avoir disposé de chacun de ses biens (sauf les biens exonérés) qui constituait une immobilisation (sauf un bien exclu ou un bien amortissable) ou un fonds de terre compris dans les biens à porter à l'inventaire d'une de ses entreprises, pour un produit égal à la juste valeur marchande du bien (déterminée par rapport au paragraphe 70(5.3)) à la fin de ce jour, et avoir acquis le bien de nouveau immédiatement après ce jour pour un montant égal à cette valeur. Pour l'application de la présente loi, ces jours sont :
+[...]
+b) le jour qui tombe 21 ans après le dernier en date des jours suivants :
+(i) le 1er janvier 1972,
+(ii) le jour où la fiducie a été établie,
+(iii) le cas échéant, le jour déterminé selon les alinéas a), a.1) ou a.4), dans leurs versions applicables après 1971;
+[...]
+104(4) Deemed disposition by trust — Every trust is, at the end of each of the following days, deemed to have disposed of each property of the trust (other than exempt property) that was capital property (other than excluded property or depreciable property) or land included in the inventory of a business of the trust for proceeds equal to its fair market value (determined with reference to subsection 70(5.3)) at the end of that day and to have reacquired the property immediately after that day for an amount equal to that fair market value, and for the purposes of this Act those days are
+. . .
+(b) the day that is 21 years after the latest of
+(i) January 1, 1972,
+(ii) the day on which the trust was created, and
+(iii) where applicable, the day determined under paragraph (a), (a.1) or (a.4) as those paragraphs applied from time to time after 1971; and
+. . .
+(5.8) Transferts de fiducie — Lorsqu'une fiducie (appelée « fiducie cédante » au présent paragraphe) transfère à un moment donné à une autre fiducie (appelée « fiducie cessionnaire » au présent paragraphe) des immobilisations (sauf des biens exclus), des fonds de terre compris dans les biens à porter à son inventaire, des avoirs miniers canadiens ou des avoirs miniers étrangers dans les circonstances visées aux paragraphes 107(2) ou 107.4(3) ou à l'alinéa f) de la définition de « disposition » au paragraphe 248(1), les règles suivantes s'appliquent :
+a) pour l'application des paragraphes (4) à (5.2) après le moment donné :
+(i) sous réserve des alinéas b) à b.3), le premier jour (appelé « jour de disposition » au présent paragraphe) se terminant au moment donné ou postérieurement qui serait déterminé à l'égard de la fiducie cessionnaire si le présent article s'appliquait compte non tenu des alinéas (4)a.2) et a.3) est réputé être le premier en date des jours suivants :
+(A) le premier jour, se terminant au moment donné ou après, qui serait déterminé selon le paragraphe (4) à l'égard de la fiducie cédante s'il n'était pas tenu compte du transfert ou d'une opération ou d'un événement survenant après le moment donné,
+[...]
+(5.8) Trust transfers — Where capital property (other than excluded property), land included in inventory, Canadian resource property or foreign resource property is transferred at a particular time by a trust (in this subsection referred to as the “transferor trust”) to another trust (in this subsection referred to as the “transferee trust”) in circumstances in which subsection 107(2) or 107.4(3) or paragraph (f) of the definition “disposition” in subsection 248(1) applies,
+(a) for the purposes of applying subsections 104(4) to 104(5.2) after the particular time,
+(i) subject to paragraphs (b) to (b.3), the first day (in this subsection referred to as the “disposition day”) that ends at or after the particular time that would, if this section were read without reference to paragraphs (4)(a.2) and (a.3), be determined in respect of the transferee trust is deemed to be the earliest of
+(A) the first day ending at or after the particular time that would be determined under subsection 104(4) in respect of the transferor trust without regard to the transfer and any transaction or event occurring after the particular time,
+. . .
+[Non souligné dans l'original.]
+C. les QUESTIONS EN LITIGE
+[8] Conformément au paragraphe 104(4) de la Loi, je dois déterminer la juste valeur marchande à la date d'évaluation de l'action ordinaire de catégorie A et des 2 699 900 actions privilégiées de premier rang du capital‑actions de la société 1634158 détenues par la fiducie.
+[9] En décrivant la tâche qui s'impose à la Cour, j'aborderai d'abord les analyses classiques portant sur les difficultés inhérentes à l'évaluation de la juste valeur marchande des biens en immobilisation. L'approche de base est habilement décrite dans l'arrêt Gold Coast Selection Trust Limited v. Humphrey (Inspector of Taxes), [1948] A.C. 459, [1948] 2 All E.R. 379, une décision de principe rendue par la Chambre des lords. Le vicomte Simon a énoncé ce qui suit aux pages 472 et 473 :
+[TRADUCTION]
+À mon avis, le principe à appliquer est le suivant. Dans les cas tels que l'espèce, lorsqu'un négociant, dans le cours de ses activités commerciales, reçoit un bien nouveau ayant une valeur, autre que de l'argent, par suite d'une vente ou d'un échange, la valeur de ce bien, pour les besoins du calcul des bénéfices ou gains annuels qu'il tire de son commerce, devrait être évaluée à la fin de la période comptable au cours de laquelle il a été reçu, même si elle n'est pas encore réalisée. Le fait qu'elle ne puisse pas être réalisée immédiatement peut réduire sa valeur actualisée, mais ce n'est pas une raison pour la considérer, pour les besoins de l'impôt sur le revenu, comme si elle n'avait aucune valeur jusqu'à ce qu'elle puisse être réalisée. Si le bien consiste en des actions libérées, l'évaluation tiendra compte non seulement des modalités de l'entente, mais aussi d'un certain nombre d'autres facteurs, tels que le rendement prévu, la négociabilité, les perspectives générales pour le genre d'entreprise qu'exploite la société qui a émis les actions, les résultats constatés dans le cas d'un prospectus contemporain offrant des actions semblables, les capitaux propres de la société, et ainsi de suite. Le fait que la propriété d'actions donne le contrôle de la société peut aussi avoir une valeur. Si le bien est difficile à évaluer, mais qu'il a néanmoins une valeur pécuniaire, il faut procéder à la meilleure évaluation possible. L'évaluation est un art, et non une science exacte. La certitude mathématique n'est pas nécessaire, ni d'ailleurs possible. Il revient aux commissaires d'évaluer la valeur pécuniaire du bien, et il s'agit là d'une conclusion de fait à tirer d'après la preuve dont ils sont saisis.
+[Non souligné dans l'original.]
+[10] Dans l'affaire Conn c. Ministre du revenu national, [1986] A.C.I. no 801 (QL) (Conn), le juge Brulé de notre Cour a fait remarquer le résumé de la jurisprudence canadienne plus ancienne fait par le juge McIntyre de la Cour suprême de la Colombie‑Britannique dans le jugement Re Mann Estate, [1972] 5 W.W.R. 23, à la page 26, 1 N.R. 518 :
+[TRADUCTION]
+L'expression « juste valeur marchande » est bien connue en droit et, en fait, son sens n'est pas contesté en l'espèce. Elle a été étudiée à maintes reprises par les tribunaux et les appelants ont cité les causes de Untermayer v. Attorney General of British Columbia, [1929] S.C.R. 84; Montreal Island Power Co. v. Laval, [1935] S.C.R. 304; Re Leiser; Forman and Fowkes v. Minister of National Revenue, [1937] 2 W.W.R. 428; Attorney General of Alberta v. Royal Trust Co., [1945] S.C.R. 267; Smith and Rudd v. Minister of National Revenue, [1950] S.C.R. 602; Semet‑Solvay Co. v. Deputy Minister of National Revenue (1960), 20 D.L.R. (2d) 663.
+Je n'ai pas l'intention de citer ces jugements au long. Cependant, à la lumière de ces décisions, il m'apparaît évident que l'expression « juste valeur marchande » signifie la valeur d'échange ou la valeur d'un bien sur le marché et que, lorsqu'il n'y a pas de marché, il faut utiliser d'autres indices pour déterminer cette valeur. À cet égard, les remarques suivantes que le juge Estey a formulées dans la cause de Attorney General of Alberta v. Royal Trust Co. (précitée) me semblent constituer un bon résumé de ce qui a été dit dans les autres jugements :
+« On ne soutient pas que le commissaire a omis de tenir compte d'un élément important pour déterminer la valeur de la propriété. Il devait établir la valeur marchande et, lorsqu'aucun marché n'existe (comme dans notre cas), il doit, dans la mesure du possible, présumer qu'un marché normal existe et déterminer la valeur en tenant compte de tous les facteurs qui seraient présents dans un marché normal réel, c'est‑à‑dire un marché qui n'est pas perturbé par des facteurs semblables à ceux qu'on retrouve dans une situation de prospérité ou de dépression et où des vendeurs disposés à vendre, mais non pas trop désireux de le faire, rencontrent des acheteurs prêts à acheter et capables de le faire. Il s'agit là d'une tâche souvent très difficile à accomplir, comme c'est le cas en l'espèce. »
+[11] Le juge Kellock, dans l'arrêt Smith v. Minister of National Revenue, [1950] R.C.S. 602, s'est penché sur la situation lorsqu'il n'y a pas de marché, à la page 605 :
+[TRADUCTION]
+Pour déterminer la juste valeur marchande d'un bien lorsqu'il n'y a pas de marché compétitif à la date à laquelle se rapporte l'évaluation, il est possible d'utiliser d'autres indices, comme l'a souligné le juge en chef sir Lyman Duff dans la décision Montreal Island Power Co. v. Town of Laval des Rapides, [1935] R.C.S. 304, à la page 306. Comme le savant juge l'a dit :
+Dans certains cas, il peut être raisonnable d'envisager un retour du marché. L'évaluateur pourra peut‑être alors déterminer la valeur actuelle de cette perspective et la probabilité de trouver un investisseur qui serait prêt à faire une mise de fonds en se fondant sur cette perspective. Dans certains autres cas, il sera peut-être approprié de tenir compte de la vraie valeur en capital du bien.
+[12] Dans Succession Henderson c. M.R.N., [1973] A.C.F. no 800 (QL), le juge Cattanach de la Cour fédérale a souligné ce qui suit :
+La Loi ne donne aucune définition de l'expression « juste valeur marchande »; celle‑ci a été définie de diverses façons, généralement selon ce qu'avait à l'esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d'essayer de donner une définition précise de cette expression telle qu'employée dans la Loi; il suffit, me semble‑t‑il, de dire qu'il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble‑t‑il, cette expression désigne le prix le plus élevé que le propriétaire d'un bien peut raisonnablement s'attendre à en tirer s'il le vend de façon normale et dans le cours ordinaire des affaires, le marché n'étant pas soumis à des pressions inhabituelles et étant constitué d'acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n'ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d'acheter ou de vendre. J'ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l'expression « juste valeur marchande » comprend ce que j'estime être l'élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l'offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d'acheter et de vendre. On voit que la définition donnée de l'expression « juste valeur marchande » est également applicable à l'expression « valeur marchande ». D'ailleurs, il n'est pas sûr, que l'emploi du mot « juste » ajoute quoi que ce soit aux mots « valeur marchande ».
+[Non souligné dans l'original.]
+[13] Cette définition a souvent été citée et approuvée par la Cour d'appel fédérale et notre Cour (voir Canada (Procureur général) c. Nash, 2005 CAF 386, [2007] 1 R.C.F. F‑15; Canada c. Gilbert, 2007 CAF 136, [2007] 3 R.C.F. F‑16; Kruger Wayagamack Inc. c. La Reine, 2015 CCI 90). Le juge Cattanach a ajouté ce qui suit :
+À mon avis, l'étude du sens de cette expression qu'a faite M. le juge Migneault en rendant le jugement unanime de la Cour suprême du Canada dans l'affaire La succession Untermyer c. Le procureur général de la Colombie‑Britannique est un guide très précieux pour établir le sens des mots « juste valeur marchande », figurant dans la Loi fédérale sur les droits successoraux, lorsqu'ils s'appliquent à des actions cotées en bourse. Le juge Migneault s'exprime ainsi, à la page 91 :
+[TRADUCTION]
+Les avocats nous ont respectueusement suggéré plusieurs définitions des mots « juste valeur marchande ». Pour répondre à la question de savoir si le prix du marché — s'il existe un marché pour le bien en question (dans le cas d'actions cotées en bourse, il en existe un) — est le guide le plus sûr pour établir la juste valeur marchande, le mot clé est manifestement celui de « valeur ». On doit peut‑être se demander si le mot « juste » ajoute quelque chose au sens des mots « valeur marchande », sauf peut‑être que la valeur marchande doit offrir une certains constance et ne pas résulter d'une forte hausse passagère ou d'une panique soudaine du marché. La valeur que nous cherchons à établir en l'espèce est celle des biens de Untermyer au moment de son décès, à savoir la valeur de son actif à cette date, compte tenu de tous les facteurs ceux‑ci se reflétant nécessairement sur la valeur marchande des biens. Bien des facteurs influent sur la valeur marchande d'actions de compagnies ayant une activité financière ou commerciale, un des plus importants étant ce qu'on pourrait appeler la valeur de placement découlant de l'existence — ou de la perspective — d'un rendement élevé sous forme de dividende et de la probabilité de sa continuation ou de son augmentation, ou encore de la sécurité attribuable à la solidité financière ou à la bonne gestion d'une compagnie. C'est de l'ensemble de tous ces facteurs positifs que dépend le prix du marché, lequel, s'il n'est pas l'effet d'une situation tout à fait temporaire ou d'un caractère exceptionnel, est le meilleur critère de la juste valeur marchande de biens de ce genre.
+Je suis donc d'avis que le prix du marché, dans un cas comme celui‑ci où l'on peut démontrer qu'il a été relativement stable, détermine la juste valeur marchande des actions. Je ne suis pas sans savoir que l'activité minière offre souvent un caractère spéculatif, qu'il y a toujours un risque d'épuisement et que, tôt ou tard, il ne restera plus de minerai à extraire si l'on n'a pas fait l'acquisition d'autres propriétés. Mais tous ces éléments influent sur le prix des actions en bourse et il n'y a pas de doute que les acheteurs en avaient tenu compte avant de décider d'acheter au prix courant.
+[Non souligné dans l'original.]
+[14] Le jugement Untermyer fait une distinction entre la « valeur marchande » et la « juste valeur marchande ». De même, les tribunaux ont tenté d'établir la distinction entre « juste valeur » et « juste valeur marchande » dans d'autres instances. Par exemple, dans La société immobilière 1234 de la Montagne ltée c. Ioanidis, [2002] J.Q. no 5674 (QL), J.E. 2003‑133, une décision rendue par la Cour d'appel du Québec, un actionnaire dissident, lors de la liquidation d'une société, à laquelle il s'était opposé, avait droit à la « juste valeur » de ses actions en vertu de la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C‑44 (la LCSA). Les dispositions pertinentes de la LCSA définissent le terme « juste valeur »; cependant, la jurisprudence canadienne a jugé que la « juste valeur » n'est pas identique à la « juste valeur marchande ». En fait, le juge de première instance dans La société immobilière 1234 de la Montagne ltée c. Ioanidis, [2000] J.Q. no 264 (QL) (Cour supérieure), a énoncé au paragraphe 6, que la « juste valeur » s'éloigne de la « juste valeur marchande » parce qu'elle exclut la décote de minoritaire et peut ajouter une prime pour l'« éviction » de l'actionnaire minoritaire.
+[15] Le juge Brulé de la Cour canadienne de l'impôt, dans Conn (précité), a fait remarquer ce qui suit :
+Dans le Canada Valuation Service, qui est publié par Richard De Boo Limited, E.N.R. Campbell indique qu'il existe deux marchés distincts où il peut être nécessaire de faire une évaluation. Le premier est un marché ouvert, où des opérations sont constamment conclues, et le second, qui est moins connu, est le marché fictif. C'est le marché dont il faut présumer l'existence lorsqu'il est nécessaire de faire des évaluations dans des cas d'impôt, d'expropriation, d'arbitrage ou de divorce. Dans ce dernier cas, bien qu'il soit nécessaire de déterminer une valeur, on ne peut envisager d'opérations sur un marché libre.
+[Non souligné dans l'original.]
+Voilà la tâche qui s'impose à la Cour. Dans Attridge c. La Reine, [1991] A.C.F. no 209 (QL) (C.F. 1re inst.), le juge Muldoon a examiné une question importante en matière d'évaluation et a conclu que le juge de première instance n'est pas tenu d'accepter inconditionnellement la preuve présentée par l'expert : « La Cour devra tirer ses propres conclusions nécessairement sans retenir celles des témoins experts. [...] Ayant déjà suffisamment motivé son refus d'accepter les méthodes et les conclusions des témoins experts, la Cour doit néanmoins exercer le jugement exigé par le Parlement malgré l'absence de toute définition de l'expression « juste valeur marchande » dans la Loi de l'impôt sur le revenu. » Ses conclusions, qui s'écartaient des approches préconisées par les deux groupes d'experts dans cette affaire d'évaluation au motif qu'elles reflétaient des vues extrêmes, ont été confirmées en appel par la Cour d'appel fédérale ([1993] A.C.F. no 1258 (QL)), et la Cour suprême du Canada a refusé l'autorisation d'interjeter appel ([1993] S.C.C.A. no 555 (QL)).
+[16] Je mets l'accent sur Attridge, puisque ce jugement confirme l'indépendance du juge des faits à l'égard des opinions exprimées par les experts ainsi que l'importance d'appliquer les principes pertinents tirés de la notion de la juste valeur dans la LCSA pour en arriver à une évaluation pour les besoins de la Loi. Il n'y a aucune ressemblance entre la contribution des experts qui ont témoigné devant le juge Muldoon et celle des experts qui ont comparu en l'espèce. Bien que j'aie souligné quelques hypothèses erronées de la part des experts, j'ai conclu que leurs opinions en général ont été très utiles et bien fondées à la plupart des égards, ce qui n'est aucunement comparable à la preuve « dénuée de valeur » présentée au juge Muldoon.
+[17] Dans le présent appel, afin de déterminer la juste valeur marchande, j'examinerai notamment les cinq questions suivantes :
+(1) Quels états financiers devraient constituer le point de départ de l'évaluation des actions de SPL : les états financiers internes de SPL au 31 janvier 2011, préparés par la direction (déposés comme pièce AR‑2, onglet 8, les « états financiers internes »), ou les états financiers vérifiés de SPL au 28 février 2011 établis par Raymond Chabot Grant Thornton (« RCGT ») (pièce AR‑2, onglet 7L, les « états de RCGT »)?
+(2) Devrait‑on déduire des capitaux propres de SPL et, par conséquent, de la juste valeur marchande des actions de SPL le montant des avances faites à un administrateur de SPL (les « avances aux administrateurs ») et, dans l'affirmative, quel est le montant à déduire : les 2 257 132 $ indiqués dans les états financiers internes, ou les 1 904 422 $ indiqués dans les états de RCGT?
+(3) Devrait‑on déduire des capitaux propres de la société 1634158 et, par conséquent, de la juste valeur marchande des actions de cette société le montant des avances faites à un actionnaire (1 144 887 $) (les « avances de la société 1634158 »)?
+(4) Les impôts sur le revenu intégrés devraient‑ils être pris en compte dans la détermination de la juste valeur marchande des actions de la société 1634158?
+(5) Une décote de minoritaire ou d'illiquidité devrait-elle être appliquée pour évaluer la juste valeur marchande de l'action ordinaire de catégorie A de la société 1634158 détenue par la fiducie?
+D. LES FAITS
+1. Organigramme
+[18] À l'audition, l'appelante a déposé l'organigramme suivant à titre de pièce A‑2 :
+2. L'exposé conjoint des faits (partiel)
+[19] Les parties ont également déposé un exposé conjoint des faits (partiel) à titre de pièce AR‑1, qui est reproduit intégralement à l'annexe A des présents motifs. À l'audition, les parties ont indiqué que le paragraphe 31 devrait être modifié afin de faire référence à 2 699 900 actions privilégiées de premier rang plutôt qu'à 2 700 000 actions privilégiées de premier rang.
+3. Le témoignage de Mme Grimes
+3.1 Le contexte
+[20] Madame Grimes a témoigné à l'audience. Elle est l'une des deux fiduciaires de la fiducie, l'autre fiduciaire étant son époux, M. Ersin Ozerdinc. Elle est également l'avocate de SPL et était l'unique administratrice, présidente et secrétaire‑trésorière de SPL à toutes les époques en cause (paragraphe 18 de l'exposé conjoint des faits, pièce AR‑1). Elle était par ailleurs, en 2011 et en 2012, l'administratrice, la présidente et la secrétaire‑trésorière de la société 1634158, fonctions qu'elle occupe encore.
+[21] Elle a déclaré qu'elle et son époux étaient en affaires ensemble depuis 1986. Depuis 1990, ils exploitent SPL, entreprise dans les secteurs industriel, commercial et institutionnel de l'industrie de la construction. SPL effectue également des travaux d'excavation et de chevalement. À toutes les époques en cause, M. Ersin Ozerdinc et Mme Grimes ont occupé des postes de direction clés au sein de SPL, qu'ils occupent encore actuellement, comme il est indiqué au paragraphe 17 de l'énoncé conjoint des faits (pièce AR‑1).
+[22] La société 1634158 a été constituée en 2005. La raison qui a motivé la constitution de cette société était qu'on voulait un montant minime de liquidités dans SPL; l'intention des âmes dirigeantes était de transférer tout l'argent supplémentaire à la société 1634158.
+[23] Madame Grimes et son mari étaient fiduciaires de la fiducie « Ozerdinc Family Trust » (l'« ancienne fiducie »), qui a été établie en 1990. Selon Mme Grimes, la fiducie a été établie en 2007 en raison de conseils juridiques donnés par l'avocat de la famille Ozerdinc à l'époque; l'objectif était de permettre un transfert sans incidence fiscale de tous les actifs de l'ancienne fiducie à la fiducie.
+[24] À l'automne 2012 (probablement vers la fin octobre), un fonctionnaire de l'Agence du revenu du Canada (l'« ARC ») a informé Mme Grimes qu'il effectuait une vérification de la fiducie. À la suite de cette vérification, la fiducie a été assujettie à un fardeau fiscal important en raison de l'application des règles de la disposition présumée après 21 ans. Mme Grimes affirme qu'elle a été tout à fait surprise du résultat de la vérification. Elle n'était pas au courant des conséquences fiscales de la détention d'actifs par la fiducie. Les deux parties ont discuté longuement de l'évaluation convenable des actifs détenus par la fiducie (pièce AR‑2, onglet 26 — lettre de l'ARC expliquant la position de l'ARC à l'égard de la disposition présumée suivant la rencontre du 7 novembre 2012). De plus, une poursuite judiciaire a été intentée (et elle est toujours en cours) à la Cour supérieure de justice de l'Ontario par Mme Grimes, son époux, la société 1634158, SPL, la fiducie et d'autres parties contre l'avocat qui avait proposé et mis en œuvre la réorganisation de 2007, y compris la création de la fiducie, alléguant la négligence de l'avocat et réclamant des dommages‑intérêts résultant notamment de l'application des règles de la disposition présumée après 21 ans à la fiducie (le « procès civil ») (pièce AR‑2, onglet 11).
+3.2 Les avances de la société 1634158
+[25] Madame Grimes a expliqué que les dividendes reçus de SPL constituent la seule source de revenus de la société 1634158. Mme Grimes contrôle la société 1634158 à titre personnel par l'entremise de la propriété des actions (environ 69 % des droits de vote).
+[26] Un montant totalisant 1 144 887 $ (à savoir les avances de la société 1634158) a été transféré par la société 1634158 à Mme Grimes en sa qualité de fiduciaire afin de financer l'achat d'une participation dans une coopérative d'habitation dans la ville de New York (la « coopérative ») afin de permettre à l'un de ses fils, qui vivait alors à New York et qui est bénéficiaire de la fiducie, d'habiter une unité de la coopérative. Selon Mme Grimes, puisque la coopérative ne permettait pas l'achat de la participation dans la coopérative par la fiducie, Mme Grimes et son époux ont dû l'acheter en leur nom propre. La clôture a eu lieu en avril 2011. Les états financiers de la société 1634158 pour l'exercice terminé le 28 février 2011 indiquent une avance à un actionnaire équivalente au montant des avances de la société 1634158 (pièce AR‑2, onglet 1D).
+[27] Madame Grimes a insisté sur le fait que les avances de la société 1634158 lui ont été faites à titre de fiduciaire, et non à titre personnel. Elle a également souligné qu'il n'y avait aucune intention de rembourser un jour les avances de la société 1634158 à celle‑ci.
+[28] Selon Mme Grimes, la société 1634158 déclarait des dividendes à la fiducie afin de régler le montant des avances. En fait, des dividendes de 2 107 965 $ ont été déclarés payables au cours des mois de janvier et février 2012 (pièce AR‑2, onglets 4, 5 et 6) aux détenteurs de l'action ordinaire de la société 1634158 (à savoir la fiducie). Les bénéficiaires de la fiducie ont reçu le montant entier à titre de dividende et ont été imposés sur ce revenu en 2012 (copies des relevés T3, pièce AR‑2, onglet 30). Aux états financiers de la société 1634158 pour l'exercice terminé le 29 février 2012, l'indication [TRADUCTION] « aucune » figure à la rubrique [TRADUCTION] « avances aux administrateurs » (pièce AR‑2, onglet 1E).
+3.3 Les avances aux administrateurs
+[29] Pour ce qui est de la rémunération que Mme Grimes et son époux ont reçue de SPL pour leur travail chez celle‑ci, Mme Grimes a expliqué qu'elle et son mari ont été rémunérés par SPL au moyen de primes et qu'ils fonctionnent en passant par un compte d'actionnaires. Le montant au compte d'actionnaires reflète toutes leurs dépenses personnelles (épicerie, frais de scolarité, dépenses des enfants, etc.). À la fin de chaque exercice, Mme Grimes rencontre leurs comptables afin de déterminer le montant des primes que SPL doit verser à Mme Grimes et à son époux, montant correspondant à celui au compte d'actionnaires et utilisé à des fins personnelles; le compte d'actionnaires est ensuite réduit en conséquence par voie de compensation sur les primes. Les impôts étaient versés sur ce montant. Mme Grimes et son mari ne reçoivent pas de traitement fixe de SPL; ils ne reçoivent aucune rémunération pour leur travail mis à part les primes.
+[30] En contre‑interrogatoire, l'avocat de l'intimée a fait référence aux états financiers internes, plus précisément à un poste appelé [TRADUCTION] « salaires du personnel de bureau » qui indique 99 013,06 $. Selon Mme Grimes, ce montant n'inclut pas les primes, puisque les primes sont déclarées en fin d'exercice; ce poste fait référence aux salaires versés au personnel de bureau seulement. Les états financiers internes comprennent un poste appelé [TRADUCTION] « avances aux actionnaires » qui indique 2 257 132,34 $. Même si le poste comprend le mot [TRADUCTION] « actionnaires », il s'agit en fait du montant des avances aux administrateurs. Dans les états de RCGT, ce poste s'appelle [TRADUCTION] « avances aux administrateurs » et s'élève à 1 904 422 $. Dans les états financiers de SPL pour la période terminée le 29 février 2012 (pièce AR‑2, onglet 7M), l'indication [TRADUCTION] « zéro » est consignée pour ce même poste. L'exposé conjoint des faits (partiel) (pièce AR‑1, au paragraphe 34) contient l'historique des soldes de fin d'exercice des avances aux administrateurs de SPL et il confirme le remboursement complet des avances en 2012.
+[31] Par ailleurs, le paragraphe 35 de l'exposé conjoint des faits (partiel) (pièce AR‑1) indique la rémunération que Mme Grimes et son époux ont reçue de SPL pour les années civiles 2000 à 2013. Plus précisément, ils ont reçu 400 000 $ chacun en 2011, et 616 025 $ chacun en 2012.
+3.4 Conclusions relatives à la crédibilité
+[32] Je suis d'avis que le témoignage de Mme Grimes était crédible; elle était un témoin très franc. En outre, étant donné son interaction avec l'agent de l'ARC et l'avocat de l'intimée, je juge que le témoignage de Mme Grimes reflète les faits réels.
+a) En ce qui concerne la société 1634158
+[33] Je conclus que les avances de la société 1634158 ont été versées à Mme Grimes à titre de fiduciaire de la fiducie, et non à titre personnel, afin de financer l'acquisition de la participation dans la coopérative.
+[34] Le fait que l'achat de la participation dans la coopérative a été effectué par Mme Grimes et son mari personnellement ne change en rien ma conclusion, puisque Mme Grimes avait indiqué qu'on lui avait dit que la coopérative ne permettait pas à une fiducie d'acheter une participation. Sa croyance en la véracité de cet énoncé explique sa conduite.
+[35] D'autre part, l'article 10 de l'entente constituant la fiducie prévoit que les actifs en fiducie seront détenus par les fiduciaires, ou par les personnes qu'ils désignent, ou de toute autre façon, et inscrits à leur nom, selon ce que les fiduciaires jugent opportun (pièce AR‑2, onglet 22). Par conséquent, j'accepte que le fait que la participation dans la coopérative était aux noms de Mme Grimes et de M. Ozerdinc, sans mentionner la fiducie, n'empêche pas de conclure qu'ils détenaient la participation à titre de fiduciaires.
+[36] L'avocat de l'intimée soutient que puisque les fonds ont été transférés par la société 1634158 au compte personnel en dollars américains de Mme Grimes, il s'agit d'un signe que les avances de cette société avaient été versées à Mme Grimes à titre personnel et non en tant que fiduciaire (pièce AR‑2, onglet 2). Compte tenu du témoignage crédible de Mme Grimes, et étant donné l'article 10 de l'entente constituant la fiducie, cet argument ne modifie pas ma conclusion.
+[37] Je note également que les états financiers de la société 1634158 pour l'exercice terminé le 29 février 2012 font référence à des avances à un administrateur, mais que les états financiers pour l'exercice terminé le 28 février 2011 font référence à des avances à un actionnaire. L'avocat de l'intimée n'a pas présenté d'observations à l'égard de cette différence de libellé. Cependant, puisque ces états financiers n'ont pas été vérifiés, je refuse d'accorder de l'importance à ce changement de formulation.
+[38] En outre, l'avocat de l'intimée a insisté sur le fait que les états financiers de la société 1634158 contiennent un poste appelé [TRADUCTION] « somme due à un actionnaire ». Par conséquent, selon l'intimée, si les avances de la société ont été versées à la fiducie, il y aurait eu une compensation dans les états financiers. Cependant, puisque ces états financiers n'ont pas été vérifiés, et étant donné mon avis à l'égard du témoignage de Mme Grimes, je n'admets pas cet argument.
+[39] J'estime également que Mme Grimes, à titre de fiduciaire de la fiducie, n'avait aucunement l'intention de rembourser les avances de la société 1634158 au moyen d'un virement de fonds à la société. Son témoignage était très clair à cet égard (voir la transcription du 8 juin 2016, à la page 80, lignes 13 et suivantes).
+[40] Le versement du dividende par la société 1634158 à la fiducie en 2012 par voie de compensation sur les avances de la société 1634158 confirme que telle était l'intention des parties pendant toute la période pertinente. Je reconnais que les résolutions de la société contiennent une formulation très générale sans faire référence précisément à la compensation (pièce AR‑2, onglets 4, 5 et 6); cependant, je maintiens la justification des faits entourant les avances de la société 1634158 offerte par Mme Grimes.
+b) En ce qui concerne SPL
+[41] Si je comprends bien le témoignage de Mme Grimes, les activités quotidiennes de SPL sont contrôlées par elle et son mari et les opérations concernant les primes sont déterminées en fin d'exercice par Mme Grimes et les comptables. Les faits ont également clairement démontré que Mme Grimes et M. Ozerdinc ne reçoivent aucun traitement fixe; plus précisément, il a été établi que Mme Grimes et M. Ozerdinc n'ont reçu aucune rémunération de SPL du 1er mars 2010 jusqu'à la date d'évaluation, mis à part les primes.
+[42] Il est clair, à mon avis, que les montants formant une partie du compte d'actionnaires (ou des avances aux administrateurs) de SPL n'allaient jamais être remboursés à SPL en espèces. Comme Mme Grimes l'a expliqué, cela faisait partie d'une pratique bien établie (même si, au début des activités de la société, ils injectaient de l'argent dans SPL pour couvrir les frais).
+4. L'évaluation des actions
+[43] Les parties ont déposé différents éléments de preuve concernant l'évaluation des actions émises et en circulation de la société 1634158.
+[44] La pièce A‑4 inclut une copie d'une lettre du 16 mai 2013 de James Craigen de l'unité régionale d'évaluation de l'ARC à Mme Grimes, qui affirme que la juste valeur marchande des actifs de la fiducie à la date d'évaluation était de 11 806 268 $ (la « lettre du mois de mai de l'ARC »). Cette lettre est un projet de proposition, comme le précise son paragraphe 9.
+[45] La pièce A‑5 comprend une copie d'une lettre du 17 juillet 2013 de l'avocat de l'appelante à James Craigen et contenant des observations à l'égard de la lettre du mois de mai de l'ARC (les « observations »).
+[46] La pièce A‑6 comprend une copie d'une lettre du 17 septembre 2013 de James Craigen à Mme Grimes établissant à 9 498 511 $ [TRADUCTION] « la juste valeur marchande des participations de la fiducie en circulation » à la date d'évaluation. Le rapport d'évaluation du 3 septembre 2013 (le « rapport de M. Craigen ») était également joint à cette lettre. Cette dernière lettre terminait le travail effectué par M. Craigen au dossier de l'appelante.
+[47] J'ai accepté la pièce A‑7 en délibéré à l'audition. J'accepte que cette pièce soit déposée en preuve puisque je suis d'avis qu'elle est pertinente à mon enquête.
+[48] Un examen critique du rapport de M. Craigen effectué par MNP a été déposé comme pièce A‑9. L'intimée s'y est opposée au motif de l'inobservation des Règles de la Cour canadienne de l'impôt (procédure générale) à l'égard des rapports d'experts. Par contre, à l'audition, j'ai jugé que l'appelante n'offrait pas ce rapport à titre de rapport d'expert, mais plutôt à titre d'élément de preuve concernant la contestation par l'appelante des hypothèses se trouvant dans la réponse. Par conséquent, j'ai permis qu'il soit déposé en preuve.
+[49] La pièce R‑3 contient une lettre de RCGT du 5 octobre 2006 (la « lettre de RCGT »), qui affirme donner une valeur aux actions de SPL aux fins de la réorganisation du groupe de sociétés en 2007. J'aborderai la lettre de RCGT plus loin.
+4.1 Le témoignage de M. Blackman, le rapport de MNP et l'addenda
+[50] La pièce A‑10 contient un rapport d'évaluation fondé sur une estimation de la valeur de la société 1634158 et de SPL du 19 juin 2014 préparé par Richard M. Wise et M. Blackman de MNP S.E.N.C.R.L., s.r.l. (le « rapport de MNP »).
+[51] La pièce A‑11 contient un addenda au rapport de MNP du 30 octobre 2014 préparé par MM. Wise et Blackman (l'« addenda »). L'intimée s'est opposée à ce que l'addenda soit déposé à titre de rapport d'expert. J'examinerai cette question plus loin.
+[52] Madame Grimes a confirmé en contre‑interrogatoire qu'elle n'avait pas parlé du rapport déposé à titre de pièce A‑10 à M. Wise ou à M. Blackman. MNP a préparé l'addenda à la suite d'une demande que Mme Grimes avait reçue de son avocat concernant le procès civil; elle n'avait pas demandé la préparation de l'addenda pour renforcer sa cause dans le présent appel.
+[53] L'intimée ne s'est pas opposée au statut d'expert de M. Blackman. Étant donné l'expérience considérable, les publications et les compétences de M. Blackman sur l'évaluation d'actions de sociétés fermées et étant donné l'expérience et les compétences semblables et considérables de M. Wise, j'ai déterminé que M. Blackman est un expert dans le domaine de l'évaluation des actions et des entreprises et que le rapport de MNP est un rapport d'expert.
+[54] MNP devait fournir une estimation de la juste valeur marchande globale, à la date d'évaluation, de toutes les actions émises et en circulation du capital‑actions de la société 1634158, incluant sa participation à 100 % des actions émises et en circulation de SPL.
+[55] Le rapport de MNP définit la « juste valeur marchande » comme étant [TRADUCTION] « le prix le plus élevé, en termes pécuniaires, auquel le bien passerait d'un vendeur hypothétique disposé et capable à un acheteur hypothétique disposé et capable, sans lien de dépendance, agissant dans des conditions de pleine concurrence dans un marché libre, dans lequel le vendeur n'est pas contraint de vendre ni l'acheteur d'acheter et où les deux parties disposent d'une connaissance raisonnable des faits pertinents » (paragraphe 1.1 du rapport de MNP).
+[56] Selon le rapport de MNP, la juste valeur marchande de toutes les actions émises et en circulation de la société 1634158 à la date d'évaluation était d'environ 3 556 000 $, ventilée comme suit :
+i) 2 700 000 actions privilégiées de premier rang : 2 031 000 $
+ii) 12 actions privilégiées de cinquième rang : 190 000 $
+iii) une action ordinaire de catégorie A : 1 335 000 $
+[57] Pour en arriver à cette estimation, M. Blackman a notamment examiné le rapport de M. Craigen, les états financiers non vérifiés de la société 1634158 pour les deux exercices clos le 28 février 2011 préparés par RCGT (pièce AR‑2, onglet 1D), les états de RCGT, les états financiers internes, la lettre du mois de mai de l'ARC et les observations.
+[58] Selon M. Blackman, trois approches fondamentales existent pour évaluer une entreprise : l'approche fondée sur la valeur des actifs (le coût), l'approche fondée sur le revenu et l'approche fondée sur le marché. Dans certains cas, une combinaison de ces approches peut être appropriée.
+[59] Monsieur Blackman a expliqué à la Cour qu'en l'espèce, on a eu recours à l'approche fondée sur la valeur des actifs comme méthode d'évaluation de la juste valeur marchande de la société 1634158 et de SPL puisque, notamment, la société 1634158 est une [TRADUCTION] « société de portefeuille dont l'actif principal est sa participation à 100 % dans SPL et [...] SPL génère tous ses revenus par le processus de soumissions et d'appels d'offres et, à ce titre, ne dispose pas de contrats continus avec ses clients; par conséquent, elle ne possède pas de survaleur [...] » (au paragraphe 8.6 du rapport de MNP). Il importe de remarquer que le rapport de M. Spencer (tel qu'il est décrit plus loin) a utilisé la même méthode.
+[60] Pour appliquer cette méthode, on a modifié la valeur de tous les actifs et les passifs de la société 1634158 et de SPL, pour lesquels les bilans indiquaient la valeur comptable, afin de tenir compte de la juste valeur marchande à la date d'évaluation en tenant compte de l'hypothèse de la continuité de l'exploitation, et des rajustements supplémentaires ont été apportés pour refléter l'incidence fiscale, le cas échéant.
+a) Évaluation des actions de SPL
+[61] Pour ce qui est des capitaux propres indiqués dans les états de RCGT, soit 5 985 744 $, on y a rajouté la perte de 95 027 $ en février 2011 (la perte totale pour ce mois était de 730 822 $, dont 635 795 $ étaient imputables aux onze mois précédents prenant fin le 31 janvier 2011) afin d'arriver à des capitaux propres de 6 080 771 $ à la date d'évaluation.
+[62] Ensuite, on a apporté les rajustements suivants afin d'arriver aux capitaux propres rajustés de 3 008 668 $ avant les incidences fiscales :
+i) On a déduit 21 430 $ au titre de la perte sur les placements (selon le rapport de M. Craigen, soit la juste valeur marchande des placements (3 029 311 $) moins la valeur comptable (3 050 741 $)).
+ii) On a ajouté 203 549 $ au titre de l'augmentation de la juste valeur marchande du bien-fonds (selon le rapport de M. Craigen, soit la juste valeur marchande du bien‑fonds (260 000 $) moins les frais de disposition (6 %) auxquels on applique un taux d'actualisation de 50 % (7 800 $), ce qui donne 252 200 $, moins la valeur comptable (48 661 $)).
+iii) On a déduit 997 080 $ au titre des impôts futurs sur le revenu constaté d'avance (soit 3 561 000 × 28 %).
+iv) On a déduit 2 257 132 $ au titre des avances aux administrateurs.
+[63] Enfin, en vue de tenir compte des impôts sur le revenu résultant de la vente du bien‑fonds (soit un gain) et des placements (soit une perte), on a déduit 21 000 $ au titre de l'impôt lors de l'aliénation du bien‑fonds et des placements et on a ajouté 56 000 $ au titre de l'impôt en main remboursable au titre de dividendes (« IMRTD ») à récupérer (soit l'impôt existant et l'impôt résultant du gain en capital lors de la vente du bien‑fonds) actualisé au taux de 50 %. Par conséquent, la valeur des capitaux propres rajustés de SPL a été fixée à 3 043 668 $; une estimation de la juste valeur marchande des actions de SPL a été établie à 3 044 500 $.
+b) Évaluation des actions de la société 1634158
+[64] Prenant les capitaux propres indiqués dans les états financiers non vérifiés pour l'exercice terminé le 28 février 2011 (soit 2 789 286 $) et supposant qu'aucun changement important n'avait eu lieu, M. Blackman a déterminé que ce montant est également la valeur des capitaux propres à la date d'évaluation.
+[65] Les rajustements suivants ont été apportés par la suite afin d'arriver aux capitaux propres rajustés de 4 727 122 $ :
+i) On a ajouté 3 044 300 $ afin de tenir compte de l'excédent de la juste valeur marchande des actions de SPL (3 044 500 $) sur leur valeur comptable (200 $).
+ii) On a déduit 1 144 887 $ au titre des avances de la société 1634158.
+iii) On a ajouté 38 423 $ au titre du montant dû à un actionnaire.
+[66] Ce montant de 4 727 122 $ a ensuite été ventilé entre les diverses catégories d'actions de la société 1634158 comme suit :
+i) 2 700 000 actions privilégiées de premier rang : 2 700 000 $, soit le prix de rachat des actions;
+ii) 12 actions privilégiées de cinquième rang : 253 391 $, soit 1 $ (prix de rachat) et 253 390 $ à titre de prime de contrôle, soit 12,5 % de 2 027 122 $ (ce montant est la différence entre 4 727 122 $ et 2 700 000 $) (ces actions représentent 68,97 % des droits de vote, les autres droits de vote sont liés à l'action ordinaire de catégorie A et aux actions privilégiées de premier rang; en fait, Mme Grimes détient environ 68,97 % des droits de vote de la société 1634158 à titre personnel);
+iii) une action ordinaire de catégorie A : 1 773 731 $, soit la différence entre 2 027 122 $ et 253 391 $ (attribués aux 12 actions privilégiées de cinquième rang). Comme M. Blackman l'a expliqué à la Cour, la réduction de 253 391 $ est, en fait, une décote de minoritaire, qui représente la prime attribuée aux 12 actions privilégiées de cinquième rang.
+[67] Enfin, en vue de déterminer la juste valeur marchande des actions de la société 1634158, M. Blackman a retranché de la valeur déterminée ci-dessus une estimation des impôts lors du rachat des actions aux fins d'annulation. Le taux d'impôt sur le revenu des particuliers de 49,53 % a été actualisé au taux de 50 %. Selon l'annexe A‑1 du rapport de MNP, la juste valeur marchande des actions de la société 1634158 a ensuite été établie comme suit :
+i) 2 700 000 actions privilégiées de premier rang : 2 031 000 $ (2 700 000 $ moins le total de 100 $ et des impôts de 669 000 $);
+ii) 12 actions privilégiées de cinquième rang : 190 000 $ (arrondis) (253 391 $ moins les impôts de 63 000 $);
+iii) une action ordinaire de catégorie A : 1 335 000 $ (arrondis) (1 773 731 $ moins les impôts de 439 000 $).
+[68] Selon l'addenda, M. Blackman a fourni une estimation de la juste valeur marchande intrinsèque de l'action ordinaire de catégorie A de la société 1634158 à la date d'évaluation. M. Blackman a expliqué à la Cour que cela signifie la valeur sans tenir compte d'un contexte familial. Il a appliqué une décote d'illiquidité à l'action ordinaire de catégorie A de la société 1634158.
+[69] Tel qu'il est énoncé au paragraphe 2.1.1 de l'addenda, la liquidité est [TRADUCTION] « la capacité de convertir la propriété de l'entreprise en espèces rapidement, avec des coûts de transaction et des frais administratifs minimaux et un degré élevé de certitude de réaliser le produit de la disposition prévu ». Le marché appliquera une décote lorsqu'il y a un manque de liquidité, alors qu'une liquidité élevée ajoutera de la valeur à l'action.
+[70] Les facteurs énoncés au paragraphe 2.1.2 du rapport de MNP (que j'examinerai plus en détail plus loin) et les droits et privilèges attribuables à l'action ont été pris en compte dans le calcul de la décote d'illiquidité applicable à l'action ordinaire de catégorie A de la société 1634158. Compte tenu du manque de contrôle, du marché limité de l'action, de diverses études empiriques qui ont établi la décote d'illiquidité dans une plage de 15 % à 45 % et d'études portant sur le rapport entre les transactions privées de titres et le premier appel public à l'épargne subséquent qui ont établi une plage de 40 % à 65 %, M. Blackman a conclu qu'une décote d'illiquidité de 25 % à 35 %, ou à mi‑chemin à 30 %, serait appropriée étant donné la nature non liquide de l'action.
+[71] La décote de 30 % applicable à la juste valeur marchande de l'action ordinaire de catégorie A représente 400 500 $ (30 % de 1 335 000 $). Par conséquent, selon l'addenda, la juste valeur marchande intrinsèque de l'action ordinaire de catégorie A de la société 1634158 est de 935 000 $.
+4.2 Le témoignage de M. de Gray et le rapport de CVPL
+[72] L'intimée a demandé à CVPL d'examiner et d'analyser le rapport de MNP et l'addenda. CVPL a produit un rapport critique restreint du 8 avril 2016, rédigé conjointement par Neil de Gray et Howard E. Johnson (le « rapport de CVPL ») déposé comme pièce R‑5. L'appelante ne s'est pas opposée au statut d'expert de M. de Gray.
+[73] Étant donné l'expérience et les compétences de MM. de Gray et Johnson dans le domaine de l'évaluation d'actions de sociétés fermées, j'ai conclu que M. de Gray est un expert dans le domaine de l'évaluation d'actions et d'entreprises et que le rapport de CVPL est un rapport d'expert.
+[74] Il est important de noter que le paragraphe 1.10 du rapport de CVPL indique ce qui suit :
+[TRADUCTION]
+Ce rapport critique restreint ne fait pas état de notre opinion ou de nos conclusions à l'égard de la JVM des actions et il ne contient pas tous les rajustements qui pourraient être nécessaires pour tirer une conclusion concernant la JVM des actions. Il ne nous a pas été demandé de préparer un rapport d'évaluation indépendant indiquant nos estimations sur la JVM des actions. Ce rapport critique restreint offre des commentaires sur le rapport et l'addenda de MNP et il illustre le calcul des rajustements que nous avons identifiés.
+[75] Dans le rapport de CVPL, la juste valeur marchande est définie comme étant [TRADUCTION] « le prix le plus élevé qui puisse être obtenu dans un marché libre et sans restriction entre deux parties informées et prudentes sans lien de dépendance et sans contrainte, exprimé en espèces » (paragraphe 1.8 du rapport de CVPL).
+[76] Le rapport de CVPL énonce que le rapport de MNP avait sous‑estimé la juste valeur marchande des actions de la société 1634158 de la façon suivante :
+i) concernant la juste valeur marchande de la participation de la société 1634158 dans SPL, par la déduction erronée de la somme de 2 257 132 $ due par un administrateur de SPL;
+ii) par la déduction erronée de la somme de 1 106 464 $ (somme nette) due par un actionnaire de la société 1634158;
+iii) par la déduction erronée des impôts sur le revenu des particuliers dans la détermination de la juste valeur marchande de chacune des catégories d'actions, ce qui réduit de 1 171 000 $ la valeur attribuée aux actions de la société 1634158.
+[77] Selon le rapport de CVPL, la juste valeur marchande globale des actions de la société 1634158 devrait correspondre à 8 090 000 $ (plutôt que 3 556 000 $ comme il est indiqué dans le rapport de MNP) et être ventilée comme suit :
+i) 2 700 000 actions privilégiées de premier rang : 2 700 000 $;
+ii) 12 actions privilégiées de cinquième rang : 674 000 $; une prime de contrôle de 12,5 % est raisonnable selon CVPL, soit 12,5 % × (8 090 000 ‒ 2 700 000 $);
+iii) une action ordinaire de catégorie A : 4 716 000 $.
+[78] En ce qui concerne l'addenda, M. de Gray est d'avis que l'application d'une décote de minoritaire ou d'illiquidité aux actions ordinaires dans des situations de contrôle familial est très inhabituelle, et qu'il ne semble y avoir aucun fondement dans la situation de la société 1634158 pour ce genre de décote de minoritaire. M. de Gray a indiqué qu'on applique généralement ensemble les décotes de minoritaire et d'illiquidité. Cependant, si on appliquait une décote de minoritaire de 30 %, la juste valeur marchande de l'action ordinaire de catégorie A de la société 1634158 correspondrait à 3 301 000 $ (plutôt qu'à 4 716 000 $).
+[79] Le rapport de CVPL contient également des commentaires généraux sur le rapport de MNP. M. de Gray a accepté comme étant raisonnable, à tous égards importants, la méthode d'évaluation utilisée par MNP, à savoir la méthode de la valeur comptable nette rajustée, aux fins d'évaluation des actions de SPL et de la société 1634158, ainsi que le traitement par MNP des éléments suivants : le bien‑fonds, les placements, les incidences de l'IMRTD et l'impôt sur le revenu constaté d'avance.
+4.3 Le témoignage et le rapport de M. Spencer
+[80] L'intimée a convoqué M. Timothy Spencer à titre de témoin expert. M. Spencer est spécialiste en évaluation à l'ARC depuis 2010. M. Spencer est CPA, CA, et également expert en évaluation d'entreprises (EEE) depuis 2008. Il est au service de l'ARC depuis 2008 et il est membre du groupe d'évaluation depuis 2006. Cependant, il s'agissait de sa première comparution à titre de témoin expert. Il a commencé à travailler sur le dossier de l'appelante vers le 28 août 2014, lorsque son chef d'équipe et l'avocat de l'intimée ont communiqué avec lui. Le rapport de M. Spencer, qui est un rapport d'évaluation exhaustif (contrairement au rapport de MNP, qui est un rapport d'évaluation portant sur une estimation de la valeur), a été déposé comme pièce R‑4 (le « rapport de M. Spencer »). Le mandat de M. Spencer était de déterminer la juste valeur marchande de toutes les actions émises et en circulation de la société 1634158 à la date d'évaluation.
+[81] L'appelante s'est opposée à ce que M. Spencer soit reconnu comme témoin expert. Après avoir entendu les observations des parties, j'ai jugé que M. Spencer était un expert dans le domaine de l'évaluation des valeurs mobilières et des titres de créance et que le rapport de M. Spencer était un rapport d'expert.
+[82] Dans le rapport de M. Spencer, la juste valeur marchande est définie comme étant [TRADUCTION] « le prix le plus élevé qu'on puisse obtenir dans un marché libre et sans contrainte entre deux parties informées et prudentes, sans lien de dépendance et sans contrainte, en termes pécuniaires » (paragraphe 5 du rapport de M. Spencer).
+[83] Selon le rapport de M. Spencer, la juste valeur marchande de toutes les actions émises et en circulation de la société 1634158 à la date d'évaluation était de 9 057 001 $, ventilés comme suit :
+i) 2 700 000 actions privilégiées de premier rang : 2 700 000 $;
+ii) 12 actions privilégiées de cinquième rang : 1 $;
+iii) une action ordinaire de catégorie A : 6 357 000 $.
+[84] Pour en arriver à cette estimation, M. Spencer a notamment examiné les états financiers non vérifiés de la société 1634158 pour les cinq exercices prenant fin le 28 février 2011, tels qu'ils ont été préparés par RCGT (pièce AR‑2, onglets 1A à D), les états financiers vérifiés de SPL pour les cinq exercices prenant fin le 28 février 2011, tels qu'ils ont été préparés par RCGT (pièce AR‑2, onglets 7H à L), les états financiers internes, des copies des observations, le rapport de MNP, l'addenda et les statuts constitutifs de la société 1634158 et de SPL.
+[85] Monsieur Spencer a utilisé la méthode de la valeur comptable nette rajustée pour calculer la valeur des actions de la société 1634158. M. Spencer a expliqué qu'en appliquant cette méthode, la valeur est déterminée en rajustant les capitaux propres, tels qu'ils figurent dans les états financiers, en ajoutant (ou en retranchant) l'excédent de la juste valeur marchande des actifs sur la valeur comptable (ou la perte), en retranchant (ou en ajoutant) l'excédent de la valeur marchande des dettes de l'entreprise sur leur valeur comptable (ou la perte), en retranchant la valeur comptable des actifs incorporels, en ajoutant (ou en retranchant) les crédits (ou les charges) d'impôt futurs, et en retranchant la valeur actualisée de la réduction d'impôts perdue. M. Blackman a utilisé la même méthode.
+a) L'évaluation des actions de SPL
+[86] Prenant les capitaux propres le 31 janvier 2011 indiqués dans les états financiers internes (7 073 019 $), M. Spencer a ajouté l'augmentation nette des placements de 64 061 $, la valeur rajustée du bien‑fonds de 132 217 $ et les frais de gestion de 121 409 $ que devait SPLP. Ensuite, il a retranché la valeur comptable du bien-fonds (48 661 $) et l'impôt sur le revenu constaté d'avance (1 074 166 $), pour arriver à la valeur comptable nette rajustée de 6 267 879 $.
+[87] Pour le bien‑fonds, M. Spencer a estimé que la juste valeur marchande était égale à l'évaluation municipale de 145 000 $ (pièce AR‑2, onglet 18 — selon la Société d'évaluation foncière des municipalités (SEFM) en 2012, le bien‑fonds avait une valeur de 145 000 $, alors que le rapport de MNP utilisait la valeur de 260 000 $ du rapport de M. Craigen). M. Spencer a expliqué qu'il a choisi ce chiffre afin d'être plus conservateur. Pour arriver au produit de la disposition de 140 650 $, M. Spencer a retranché des frais d'aliénation de 6 % actualisés au taux de 50 % (4 350 $). Il a ensuite calculé les gains en capital, retranchant 48 661 $ des frais d'aliénation pour en arriver à un gain en capital de 91 989 $, dont la moitié est imposable, à savoir 45 995 $. Il a calculé l'impôt à payer intégré lors de l'aliénation théorique du bien‑fonds en utilisant un taux de 50 %, moins l'IMRTD de 26 ⅔ %, puis il a actualisé les impôts selon un taux de 50 % pour en arriver à 8 433 $. Le rajustement de 132 217 $ a été calculé en retranchant le montant d'impôt intégré du produit de la vente (annexe 2 du rapport de M. Spencer).
+[88] Pour ce qui est des frais de gestion de SPLP, M. Spencer a ajouté 121 409 $, soit la différence entre les frais de gestion de SPLP en 2010 (173 442 $) (pièce AR‑2, onglet 7L, note 16) et l'impôt au taux de 30 % payable sur ce revenu (52 033 $).
+[89] Pour ce qui est de la déduction pour l'impôt sur le revenu constaté d'avance (1 074 166 $), M. Spencer a pris la réserve pour les contrats non achevés à la fin de l'exercice (pièce AR‑2, onglet 17) et il a appliqué un taux d'imposition de 30 %.
+[90] Monsieur Spencer n'a pas fait de rajustement concernant l'IMRTD.
+b) L'évaluation des actions de la société 1634158
+[91] Prenant les capitaux propres indiqués dans les états financiers non vérifiés pour l'exercice terminé le 28 février 2011 (2 789 286 $), en supposant qu'il n'y avait aucun changement important et en notant l'absence d'un état financier du 1er février 2011, M. Spencer a déterminé que ce montant correspondait également à la valeur des capitaux propres à la date d'évaluation.
+[92] Ensuite, il a fait les rajustements suivants afin d'arriver à la valeur comptable nette rajustée de 9 056 965 $ :
+i) il a ajouté 6 267 879 $ pour tenir compte de la valeur comptable nette rajustée des actions de SPL;
+ii) il a retranché 200 $ pour tenir compte de la valeur comptable (200 $) des actions de SPL.
+[93] Monsieur Spencer n'a effectué aucun rajustement pour tenir compte de l'augmentation nette de la valeur des placements, puisqu'elle n'était pas importante. De plus, il n'a apporté aucun rajustement pour l'IMRTD de la société 1634158 (note 4 de l'annexe 1 du rapport de M. Spencer).
+[94] Ce montant de 9 056 965 $ a ensuite été ventilé entre les diverses catégories d'actions de la société 1634158 comme suit :
+i) 2 700 000 actions privilégiées de premier rang : 2 700 000 $ (soit le prix de rachat);
+ii) 12 actions privilégiées de cinquième rang : 1 $ (rachetables à 0,10 $ chacune);
+iii) une action ordinaire de catégorie A : 6 356 963 $, à savoir le reste.
+[95] Monsieur Spencer a expliqué à la Cour qu'une décote de minoritaire est une réduction de la part proportionnelle de la valeur globale des actions afin de tenir compte des inconvénients de posséder une participation ne donnant pas le contrôle. Par conséquent, l'action ordinaire de catégorie A pourrait être assujettie à une décote de minoritaire. Cependant, M. Spencer était d'avis qu'aucune décote de minoritaire ne devrait être appliquée à cette action vu les facteurs indiqués au paragraphe 70 de son rapport, que j'aborderai plus loin.
+[96] Monsieur Spencer a expliqué les notions de décote pour illiquidité et de décote pour absence de marché. Une décote pour illiquidité porte sur le degré de facilité à convertir des actifs hors trésorerie en espèces. Une décote pour absence de marché porte sur la facilité à vendre une action d'une société ou un intérêt commercial donné. Il a expliqué en outre qu'étant donné la structure des sociétés et les biens des sociétés, il avait combiné ces deux types de décotes. M. Spencer est d'avis qu'aucune décote pour illiquidité ou pour absence de marché ne devrait être appliquée pour évaluer l'action ordinaire de catégorie A de la société 1634158 compte tenu des critères énoncés au paragraphe 72 de son rapport, que j'aborderai plus loin.
+[97] Enfin, M. Spencer a clairement fait ressortir dans son témoignage que son évaluation des actions de la société 1634158 était entièrement fondée sur l'hypothèse que la société serait vendue intégralement et qu'un acheteur acquerrait toutes les actions émises et en circulation et, par conséquent, obtiendrait le contrôle de la société au moment de l'achat théorique.
+E. ANALYSE
+1. Les différences entre le rapport de MNP et le rapport de M. Spencer
+[98] Les experts s'entendaient sur certains éléments qui doivent être pris en compte dans l'évaluation des actions : les placements et le bien‑fonds appartenant à SPL, ainsi que le fait que les actions privilégiées de premier rang de la société 1634158 tirent leur valeur de leurs caractéristiques de rachat et de remboursement.
+[99] J'aborderai certains de ces éléments plus loin.
+1.1 L'évaluation des actions de SPL
+[100] Les rajustements apportés au calcul des capitaux propres de SPL sont essentiellement les mêmes dans les deux rapports, mis à part la réduction apportée dans le rapport de MNP pour les avances faites aux administrateurs (2 257 132 $).
+[101] Dans le rapport de M. Spencer, les capitaux propres ont été réduits de 805 140 $. Dans le rapport de MNP, ils ont été réduits de 786 536 $.
+[102] La plus importante modification est la réduction des capitaux propres à l'égard de l'impôt sur le revenu constaté d'avance qui sera payé au cours du prochain exercice. Selon le rapport de MNP, il faut tenir compte de 997 080 $ et les déduire pour cette raison, mais le rapport de M. Spencer a calculé 1 074 166 $ à cet égard. À mon avis, la somme correcte est de 1 002 555 $, en prenant le taux d'imposition approprié de 28 % et le montant du revenu constaté d'avance confirmé par la direction, à savoir 3 580 554 $.
+[103] Un autre rajustement apporté est l'augmentation de la valeur du bien‑fonds appartenant à SPL. M. Blackman a utilisé la valeur indiquée au rapport de M. Craigen, que je n'admets pas. Je suis d'avis que le produit de disposition de 145 000 $ qu'a utilisé M. Spencer pour faire son calcul devrait être utilisé. Je n'ai pu voir, dans le rapport de M. Craigen, qu'on indiquait que le produit de la disposition serait de 260 000 $. Le taux d'imposition qui devrait être utilisé est de 46,2 % et non de 50 %. Par conséquent, la somme nette de 81 364 $ devrait être ajoutée aux capitaux propres pour le bien‑fonds (voir les annexes C et D ci‑jointes).
+[104] Pour ce qui est des placements appartenant à SPL, M. Blackman a retranché 21 430 $ à titre de pertes; ce montant est tiré du rapport de M. Craigen. Cependant, M. Spencer a ajouté 64 061 $ à titre d'augmentation nette. M. Spencer a calculé ce montant en supposant que l'augmentation de la valeur du portefeuille d'actifs provenait d'intérêts et qu'elle était imposée annuellement au plein taux de 50 %; cependant, après avoir examiné les états de placements déposés à titre de pièce AR‑2, onglets 15 et 16, je constate que la moitié des placements sont des actions cotées en bourse. Par conséquent, je conclurais qu'il est raisonnable de supposer que la moitié de l'augmentation de la valeur constituerait un gain en capital, dont seulement la moitié est imposable. Par ailleurs, le taux d'imposition qui devrait être utilisé est de 46,2 % et non de 50 %. Par conséquent, selon mes calculs, l'augmentation de la valeur des placements serait de 128 122 $ (selon le rapport de M. Spencer) et l'impôt s'élèverait à 22 197 $ (voir l'annexe D). Puisque la méthode de calcul de la perte dans le rapport de M. Craigen n'est pas claire et puisqu'il avait pris le prix de base rajusté des actifs indiqué aux états financiers de SPL pour l'exercice terminé le 28 février 2011, je suis d'avis que, sous réserve de mes commentaires qui précèdent, le calcul effectué par M. Spencer est plus juste, puisqu'il a pris les chiffres à la date d'évaluation. Ainsi, j'ajouterai une somme nette de 105 925 $ au calcul des capitaux propres de SPL concernant les placements.
+[105] Monsieur Spencer a entièrement actualisé l'IMRTD de SPL, mais M. Blackman a ajouté 56 000 $ à cet égard. M. Spencer a entièrement actualisé l'IMRTD afin d'être plus conservateur. Cependant, je suis d'avis que l'analyse de M. Blackman est plus juste, comme l'a confirmé M. de Gray. Puisque j'ai apporté des modifications au calcul des revenus découlant de SPL, 62 810 $ devraient être ajoutés au calcul des capitaux propres de SPL concernant l'IMRTD (voir l'annexe D).
+[106] Enfin, concernant les frais de gestion de 121 409 $ que devait SPLP (imposés à un taux de 30 %), je note que M. Blackman n'a pas effectué de rajustement à cet égard, contrairement à M. Spencer. Puisque M. Spencer a utilisé les états financiers internes, il a dû augmenter les capitaux propres de SPL à cet égard. Cependant, puisque M. Blackman a utilisé les états de RCGT et étant donné que les frais de gestion étaient déjà comptabilisés dans ces états, il n'y avait pas lieu d'apporter de rajustement. Ma conclusion concernant les frais de gestion dépendra donc de ma réponse à l'égard du point de départ de l'évaluation des actions de SPL. Si j'en viens à conclure que les états de RCGT constituent le point de départ, aucun rajustement ne sera nécessaire; par contre, si je conclus que les états financiers internes constituent le point de départ, un rajustement devra être effectué en ce sens.
+1.2 L'évaluation des actions de la société 1634158
+[107] Dans le calcul des capitaux propres de la société 1634158, les deux experts ont pris le même point de départ (les états financiers du 28 février 2011), puisque Mme Grimes avait dit qu'il n'y aurait aucune différence entre la fin février et la date d'évaluation. Le rapport de MNP a cependant réduit les capitaux propres du montant des avances de la société 1634158 (1 144 887 $) et ajouté les sommes dues à un actionnaire (38 423 $). Le rapport de M. Spencer ne fait état d'aucune réduction de la sorte.
+[108] Par ailleurs, comme il a été mentionné précédemment, le rapport de M. Spencer n'a pas appliqué de décote de minoritaire, d'illiquidité ou d'absence de marché à la juste valeur marchande de l'action ordinaire de catégorie A et il n'a pas appliqué de prime lors du calcul de la juste valeur marchande des actions majoritaires de la société 1634158 détenues par Mme Grimes (à savoir les 12 actions privilégiées de cinquième rang).
+[109] Ces questions seront abordées plus loin.
+2. Le point de départ de l'évaluation des actions de SPL
+[110] Selon M. Blackman, les états de RCGT devaient constituer le point de départ de l'évaluation des actions de SPL. D'après lui, puisque les états de RCGT avaient été vérifiés, ils étaient plus fiables et étaient par conséquent plus représentatifs des capitaux propres que les états financiers internes. Les états financiers vérifiés contiendraient tous les [TRADUCTION] « rajustements requis afin de refléter adéquatement les actifs, les passifs, les revenus et les dépenses de la société » (transcription du 8 juin 2016, page 162, lignes 3 à 7). Puisque les états de RCGT ont été préparés pour la période terminée le 28 février 2011, M. Blackman a effectué certains rajustements concernant les salaires et il a réparti les salaires sur l'ensemble de l'exercice conformément au principe du rattachement pour arriver à des capitaux propres de SPL de 6 080 771 $ à la date d'évaluation.
+[111] Au contre‑interrogatoire, M. de Gray a déclaré qu'il ne contestait pas le point de départ utilisé par M. Blackman tel qu'il est expliqué dans le rapport de MNP. M. de Gray a ajouté qu'un rajustement apporté aux salaires équivalait à la reconnaissance que 635 000 $ plus 99 000 $ avaient été déclarés à titre de salaires pour la période de 11 mois terminée le 31 janvier 2011 (transcription du 9 juin 2016, page 167).
+[112] Par contre, M. Spencer était d'avis que les états financiers internes devraient constituer le point de départ. Durant le contre-interrogatoire, M. Spencer a témoigné qu'il avait envisagé d'utiliser les états de RCGT, mais qu'il ne les avait pas utilisés parce que les états financiers internes étaient disponibles. Il a ajouté que tout rajustement apporté dans les états de RCGT, qui aurait eu lieu à la fin de l'exercice, c'est‑à‑dire après la date d'évaluation, serait effectué a posteriori. Par ailleurs, puisque l'évaluation porte sur une date précise, les états financiers internes devraient être utilisés pour déterminer la juste valeur marchande à la date d'évaluation puisque ces états se rapprochent le plus de la date d'évaluation.
+[113] Je ne suis pas d'accord avec le raisonnement de M. Spencer selon lequel tous les rajustements apportés par les vérificateurs aux états de RCGT sont fondés sur des renseignements obtenus a posteriori. Comme M. Blackman l'a dit à juste titre, les rajustements apportés aux états financiers vérifiés sont faits afin de tenir compte convenablement des actifs, des passifs, des dépenses et des revenus d'une personne. Ces rajustements sont effectués afin de dépeindre avec exactitude la situation financière d'une personne à une certaine date et ils reflètent l'ensemble de l'exercice; il peut s'agir, par exemple, d'une provision pour créances douteuses ou de l'amortissement d'immobilisations. Il n'est pas raisonnable de prétendre que les rajustements sont fondés sur des renseignements obtenus a posteriori, puisque les vérificateurs passent en revue l'ensemble de l'exercice afin d'apporter des rajustements opportuns et n'examinent pas seulement les éléments survenus après l'évaluation, comme M. Spencer semble l'affirmer. Dans cette situation particulière, il n'est pas vrai que les rajustements refléteraient uniquement des circonstances survenant après la date d'évaluation.
+[114] En outre, je conclus qu'en apportant une modification aux salaires et en commençant par les capitaux propres de SPL indiqués dans les états de RCGT, le rapport de MNP a évalué convenablement que les capitaux propres de SPL à la date d'évaluation étaient de 6 080 771 $. Je suis d'avis que puisqu'il a utilisé les renseignements figurant dans les états financiers internes, M. Spencer a commis une erreur lors de ses calculs. Je ne suis pas d'accord pour dire que les états financiers internes devraient constituer le point de départ en raison de leur proximité avec la date d'évaluation. Je suis d'avis qu'une évaluation convenable devrait partir des états financiers qui reflètent le mieux la situation financière du sujet. En l'espèce, les états de RCGT, qui sont les plus fiables parce qu'on y a apporté les rajustements nécessaires, refléteraient le mieux la situation financière de SPL.
+3. Les avances
+[115] Je dois décider (i) si les capitaux propres de SPL et, par conséquent, la juste valeur marchande des actions de SPL devraient être réduits du montant des avances aux administrateurs et, dans l'affirmative, quel montant devrait être retranché (les 2 257 132 $ indiqués aux états financiers internes ou les 1 904 422 $ indiqués aux états de RCGT); (ii) si les capitaux propres de la société 1634158 et, par conséquent, la juste valeur marchande des actions de cette société devraient être réduits du montant des avances de la société 1634158 (1 144 887 $).
+3.1 Le raisonnement des experts
+[116] Selon M. Blackman, l'objectif des actionnaires d'une petite société est d'avoir le revenu net le plus élevé possible. Puisque Mme Grimes lui a dit qu'elle et son mari ne recevaient pas de salaire normal et que les avances aux administrateurs ne seraient en aucun cas remboursées, il a estimé que ces avances devraient réduire les capitaux propres de SPL. Il avait examiné les états financiers d'exercices précédents et confirmé que SPL avait toujours fonctionné de cette façon à l'égard des avances aux administrateurs. Il a conclu, par conséquent, que SPL ne recevrait jamais de remboursement en espèces pour les avances aux administrateurs, mais qu'elle compenserait plutôt ces avances par voie de primes. Par conséquent, il a conclu que les avances aux administrateurs ne devraient pas être incluses dans la juste valeur marchande des actions de SPL. Il a indiqué dans son témoignage que la déclaration d'une prime entraînait une réduction des capitaux propres de SPL.
+[117] Monsieur Blackman a témoigné qu'il avait déduit les avances de la société 1634158 dans le calcul des capitaux propres de cette société pour les mêmes raisons. Plus précisément, comme Mme Grimes l'avait informé que la société déclarait des dividendes afin de compenser les avances de la société, et même si la société n'avait déclaré aucun dividende au cours des années antérieures et n'avait jamais versé d'avances antérieurement, M. Blackman était d'avis que les avances de la société devraient réduire les capitaux propres de la société et, par conséquent, la juste valeur marchande des actions de la société.
+[118] Le paragraphe 9.1.1b) du rapport de MNP indique expressément que des rajustements ont été apportés aux capitaux propres de la société 1634158, y compris [TRADUCTION] « des rajustements reflétant la radiation des avances à un actionnaire de 1 144 887 $ (annexe A‑3) qui, comme nous en avons été informés, ne seront pas remboursées en espèces, mais plutôt compensées par des dividendes qui seront déclarés ». Le paragraphe 9.2.1b) du rapport de MNP indique que des rajustements ont été apportés aux capitaux propres de SPL, notamment que [TRADUCTION] « les avances aux administrateurs de 2 257 132 $ ont été radiées puisqu'on nous a informés que ce montant ne serait pas remboursé (voir les commentaires à la section 9.1.1b)) ».
+[119] Monsieur Blackman est d'avis qu'il n'a pas utilisé de renseignements obtenus a posteriori pour effectuer son évaluation. Durant le contre‑interrogatoire, il a confirmé qu'il avait jeté un coup d'œil aux renseignements de l'exercice suivant, c'est‑à‑dire l'exercice terminé le 28 février 2012, afin de confirmer ce que Mme Grimes lui avait dit concernant les avances de la société 1634158 et les avances aux administrateurs. M. Blackman soutient qu'il peut tout à fait utiliser des renseignements obtenus a posteriori pour confirmer les hypothèses qui ont été formulées à la date d'évaluation; cependant, il n'a pas utilisé de renseignements obtenus a posteriori pour formuler ses hypothèses (transcription du 8 juin 2016, page 188, lignes 11 à 28).
+[120] Monsieur Spencer a déclaré qu'il n'avait pas regardé ce qui s'était produit après la date d'évaluation. Plus précisément, pour ce qui est des dividendes payés par la société 1634158 et des primes déclarées et payées par SPL après la date d'évaluation, il est d'avis que tenir compte de ces versements pour réduire la juste valeur marchande des actions serait une utilisation inadmissible de renseignements obtenus a posteriori (transcription du 9 juin 2016, pages 97 et 98, lignes 26 à 28 et lignes 1 à 8). Puisque les états de RCGT indiquaient les avances aux administrateurs à titre d'actifs à court terme de SPL et puisque les états financiers de la société 1634158 pour l'exercice terminé le 28 février 2011 indiquaient les avances aux actionnaires (c'est‑à‑dire les avances de la société 1634158) à titre d'actifs à court terme de la société 1634158, M. Spencer était d'avis que ces sommes étaient des créances à SPL et à la société 1634158 respectivement, qu'elles représentent les sommes dues à SPL et à la société 1634158 et qu'elles devraient être prises en compte dans l'évaluation des actions. Le fait que Mme Grimes lui avait confirmé qu'elle et son mari disposaient de l'argent et qu'ils avaient les moyens de rembourser les avances aux administrateurs à SPL sont des éléments pertinents qui confirment son traitement des avances aux administrateurs.
+[121] De plus, même en admettant que Mme Grimes lui ait dit que SPL déclarerait une prime et que la société 1634158 payerait un dividende pour compenser ces avances, M. Spencer n'aurait apporté aucun rajustement à ses calculs puisque les états de RCGT et les états financiers de la société 1634158 pour la période terminée le 28 février 2011 présentaient ces avances à titre d'actif et, par conséquent, il se serait attendu à ce que ces avances soient remboursées. Dans son raisonnement, M. Spencer a également tenu compte du fait que Mme Grimes et son mari avaient les moyens de rembourser les avances.
+[122] Selon M. de Gray, l'évaluation porte sur un moment précis et elle est fondée seulement sur des faits connus à ce moment‑là. Les éléments de preuve obtenus a posteriori ne devraient pas être pris en considération. Pendant des négociations entre un vendeur et un acheteur, ni l'un ni l'autre ne bénéficie de la connaissance des événements à venir. Cependant, il a convenu que les tribunaux ont reconnu que les renseignements obtenus a posteriori peuvent être utilisés pour valider des hypothèses et des conclusions.
+[123] Comme il a été mentionné précédemment, M. de Gray a exprimé son désaccord avec le traitement des avances aux administrateurs du rapport de MNP. Ces montants sont comptabilisés à titre d'actif dans les états de RCGT; RCGT avait vérifié s'ils étaient recouvrables et s'ils existaient vraiment. À son avis, ces avances représentent un actif véritable de SPL à la date d'évaluation. Selon lui, le fait que les avances seront remboursées ou annulées après la date d'évaluation n'est pas pertinent. Le montant des primes et le moment de leur versement sont incertains. Il a aussi ajouté lors du contre‑interrogatoire que Mme Grimes avait les moyens de rembourser ces sommes. Par conséquent, il est d'avis qu'on ne devrait pas déduire les avances aux administrateurs lors du calcul de la juste valeur marchande des actions de SPL.
+[124] Monsieur de Gray a témoigné que le même raisonnement s'appliquerait aux avances de la société 1634158. Il a également ajouté que la société 1634158 n'avait jamais payé de dividende. En contre‑interrogatoire, M. de Gray a dit que le fait que Mme Grimes ne possède aucune action de la société 1634158 donnant droit à un dividende était l'une des raisons pour lesquelles il n'était pas d'accord avec le rapport de MNP à cet égard. Cependant, puisque j'ai conclu que les avances de la société 1634158 ont été versées à Mme Grimes à titre de fiduciaire de la fiducie, je n'accorderai aucun poids à ce commentaire.
+3.2 Analyse
+[125] Je suis d'accord avec les deux experts de l'intimée pour dire que les avances de la société 1634158 et les avances aux administrateurs sont des actifs de la société 1634158 et de SPL respectivement. Cependant, cette conclusion ne signifie pas que la juste valeur marchande des avances aux administrateurs et des avances de la société 1634158 est égale à la valeur nominale de ces avances aux fins de l'établissement de la juste valeur des actions de SPL et de la société 1634158. Un actif peut être pris en compte dans les états financiers d'une société pour les besoins de la comptabilité et ne pas être pris en compte lors de l'établissement de la juste valeur marchande des actions de la société. La question en litige est de savoir si, étant donné les faits du présent appel, les montants des avances aux administrateurs et des avances de la société 1634158 devraient être retranchés des capitaux propres de SPL et de la société 1634158 respectivement et, par conséquent, de la juste valeur marchande des actions de SPL et de la société 1634158 afin de tenir compte du fait que les primes et les dividendes ont été déclarés et versés après la date d'évaluation, entraînant la compensation de ces avances, comme le souhaitait l'âme dirigeante de SPL et de la société 1634158 (à savoir Mme Grimes).
+[126] Monsieur de Gray a affirmé au cours de son témoignage que dans le cours ordinaire des affaires, un actionnaire en voie de vendre ses actions prendra certaines mesures afin de mitiger l'incidence que les comptes comme les avances aux actionnaires ou aux administrateurs qui apparaissent dans les états financiers auront sur la négociabilité des actions. J'admets qu'un vendeur agirait normalement de la sorte. Je suis également d'avis qu'un tel comportement est pertinent pour l'évaluation, même dans le cas d'une disposition réputée, mais cela ne résout pas la question en litige en l'espèce.
+[127] Lors de ses observations orales, l'avocat de l'intimée a affirmé que le rapport de MNP supposait à tort que ces avances n'étaient pas des prêts. Par conséquent, si les avances n'étaient pas des prêts, elles représenteraient alors une appropriation des actifs des sociétés par les dirigeants et les actionnaires et ne figureraient pas dans les états financiers. Par conséquent, ces montants devraient être inclus au revenu de Mme Grimes, de son époux et de la fiducie lorsque les montants sont prélevés de la société 1634158 et de SPL. À mon avis, le rapport de MNP ne nie pas que les avances étaient des prêts. Comme il a été mentionné ci‑dessus, le paragraphe 9.1.1b) du rapport de MNP indique que des rajustements ont été apportés aux capitaux propres de la société 1634158, y compris [TRADUCTION] « des rajustements reflétant la radiation des avances à un actionnaire de 1 144 887 $ (annexe A‑3) qui, comme nous en avons été informés, ne seront pas remboursées en espèces, mais plutôt compensées par des dividendes qui seront déclarés ». Le même raisonnement a également été appliqué à l'égard des avances aux administrateurs (paragraphe 9.2.1b) du rapport de MNP). Les faits du présent appel ont confirmé ces hypothèses qui ont clairement été établies au cours de l'audience. Je dois déterminer si ces hypothèses ont une certaine incidence sur la détermination de la juste valeur marchande en vertu de la Loi.
+[128] Pour ce qui est des avances aux administrateurs, je suis d'avis que le traitement fait dans le rapport de MNP est raisonnable et devrait être confirmé. Cependant, le montant des avances aux administrateurs devrait être de 1 904 422 $, c'est‑à‑dire le montant indiqué dans les états de RCGT, et non de 2 257 132 $, tel qu'il est indiqué dans les états financiers internes. Comme j'ai conclu que le point de départ de l'évaluation est les états de RCGT pour l'exercice terminé le 28 février 2011, la déduction d'un montant supérieur à 1 904 422 $ ne tiendrait pas compte, notamment, du fait que ces sommes ont déjà été radiées de ces états au moyen des primes et des compensations pour l'exercice terminé le 28 février 2011. Étant donné ces faits, je suis d'avis que l'utilisation de l'information obtenue a posteriori dans le rapport de MNP était généralement correcte puisqu'il est clair que M. Blackman a utilisé l'information obtenue a posteriori pour confirmer ses hypothèses et non pour les formuler, conformément aux principes établis par la jurisprudence.
+[129] En l'espèce, il ne convient pas de conclure que la juste valeur marchande des avances aux administrateurs correspond à la valeur nominale de ces avances. Je suis d'avis qu'on ne devrait pas tenir compte des avances aux administrateurs lors du calcul de la juste valeur marchande des actions de SPL, puisqu'il est raisonnable de conclure, à partir des faits en l'espèce, qu'un vendeur disposé à vendre et un acheteur disposé à acheter auraient tenu compte d'une obligation correspondante de SPL, à savoir la prime à verser à Mme Grimes et à son époux correspondant au montant des avances aux administrateurs, pour déterminer le prix à payer pour les actions de SPL.
+[130] À l'égard de SPL, il est faux d'affirmer qu'on ne devrait pas tenir compte des événements survenus après la date d'évaluation. Il était évident, à la date d'évaluation, que ces événements auraient probablement lieu. Dans le présent appel, en ce qui concerne SPL, cela signifierait qu'on ne tiendrait pas compte des intentions déclarées de la direction. Afin d'assurer une juste évaluation, on ne doit pas considérer la date de l'évaluation en vase clos, en ne tenant pas compte des mesures cohérentes prises par la direction et de ses intentions déclarées quant à l'avenir. Bien que l'évaluation ne soit pas une science exacte, on ne peut faire abstraction des intentions déclarées de la direction.
+[131] Comme il a été mentionné, je suis d'avis que le témoignage de Mme Grimes est crédible. La preuve a démontré que Mme Grimes et son mari constituent la source de la valeur de l'entreprise de SPL et que la seule rémunération qu'ils reçoivent de SPL pour leur travail est accordée par voie de primes déterminées à la fin de l'exercice en collaboration avec les comptables. La preuve a démontré que Mme Grimes est l'âme dirigeante de SPL; elle possède l'autorité exclusive de déterminer le versement des primes par SPL. Comme il a été mentionné, Mme Grimes et son mari recourent à des avances de SPL tout au long de l'exercice. D'après le témoignage de Mme Grimes, il est clair que les avances aux administrateurs ne seront jamais remboursées à SPL en espèces. Comme en témoignent les états financiers de SPL pour l'exercice terminé le 29 février 2012, il n'y avait pas eu d'avances aux administrateurs (pièce AR‑2, onglet 7M; pièce AR‑1, paragraphe 34). Ces états financiers couvrent la période se terminant environ huit mois avant que le ministre commence la vérification de la fiducie. On ne peut raisonnablement soutenir que Mme Grimes avait soudainement décidé de changer son comportement à cet égard. La déclaration et le versement des primes par SPL qui ont eu lieu après la date d'évaluation ainsi que l'historique de versement de primes par SPL au cours des dernières années renforcent encore l'idée voulant que l'intention déclarée de Mme Grimes aurait été prise en compte par des acheteurs éventuels à la date d'évaluation.
+[132] Le raisonnement de M. Spencer exposé dans son rapport ne tient pas compte de quelque rémunération que ce soit accordée aux dirigeants de SPL, à savoir Mme Grimes et son mari, dans la détermination de la juste valeur marchande des actions de SPL. Ce raisonnement est boiteux. Il ne reflète pas les activités réelles de la société à cet égard.
+[133] En outre, je ne suis pas d'accord avec MM. Spencer et de Gray pour dire qu'il y aurait suffisamment d'incertitude à la date d'évaluation quant au versement des primes pour ne pas tenir compte de son effet sur la juste valeur marchande. Lors de son contre-interrogatoire, M. Spencer a déclaré que, ne sachant pas si les primes étaient payées à l'avance ou non, il ne tiendrait pas compte de ces montants jusqu'à ce que ceux-ci soient versés. Il est d'avis que puisque les primes n'avaient pas été versées à la date d'évaluation, elles ne constituaient pas une dépense qui diminuerait la juste valeur marchande des actions. Cependant, ce raisonnement ne tient pas compte du sens ordinaire du terme « prime » qui, par définition, n'est pas payée à l'avance, mais est versée à titre de reconnaissance du bon rendement d'une personne. Dans le dictionnaire Oxford Dictionary & Thesaurus (2007), le terme est défini comme suit : [TRADUCTION] « une somme d'argent ajoutée au salaire d'une personne en récompense de son bon rendement ».
+[134] En ce qui concerne l'utilisation de l'information obtenue a posteriori, la règle générale veut que cette information ne soit pas admissible sauf pour l'examen du caractère raisonnable des hypothèses des évaluateurs (Succession Zeller c. La Reine, 2008 CCI 426, au paragraphe 42 (Succession Zeller), Ford Motor Co. of Canada v. Ontario Municipal Employees Retirement Board, [2000] O.J. no 1480 (QL) (C. sup. Ont.), au paragraphe 11) et je suis d'avis que cette règle a été suivie par M. Blackman en l'espèce relativement à l'évaluation de SPL.
+[135] Le juge Rip (tel était alors son titre), dans McClintock c. La Reine, 2003 CCI 259 (au paragraphe 54) (McClintock), a déclaré ce qui suit :
+54 [...] Tout d'abord, il appartient au juge d'exercer son pouvoir discrétionnaire pour décider, d'après les faits propres à un appel, s'il convient de procéder à un examen rétrospectif en vue de déterminer si la supposée valeur d'un bien est juste ou afin d'en fixer la valeur. Cela est particulièrement vrai lorsqu'il n'y a pas eu de ventes de biens comparables immédiatement avant la date d'évaluation.
+[136] Par ailleurs, dans Succession Allred c. M.R.N., 86 D.T.C. 1479 (Succession Allred), le juge Sarchuk a déclaré ce qui suit :
+[TRADUCTION]
+En règle générale, il n'est pas approprié d'utiliser des informations obtenues a posteriori dans le processus d'évaluation. Cependant, l'utilisation en l'espèce de l'état financier de Hi‑Way (52) du 31 juillet 1972 n'était qu'un des éléments que M. Clark a examinés pour formuler son opinion concernant les bénéfices prévisibles à venir de la société. Ses conclusions étaient fondées sur le potentiel de la société, sur les plans de la société et sur le fait qu'une base pour augmenter les profits était en place, bien que la comptabilité de la société ne l'indiquait pas encore. Ces faits existaient au jour d'évaluation; il s'agissait de faits ayant un effet favorable sur les projections à l'égard des bénéfices futurs et ils ont été pris en compte correctement pour établir la juste valeur marchande.
+[137] Plus récemment, le juge D'Arcy de la Cour a confirmé ce principe dans Shulkov c. La Reine, 2012 CCI 457, au paragraphe 125 : « [...] l'information connue après coup est en général inadmissible, à moins d'être utilisée pour vérifier le caractère raisonnable d'une hypothèse ».
+[138] Je suis d'avis que le traitement des avances aux administrateurs dans le rapport de MNP constitue une utilisation correcte d'information obtenue a posteriori. M Blackman a examiné la situation financière de SPL après la date d'évaluation afin de confirmer que les gestionnaires avaient mis à exécution leurs intentions déclarées. M. Blackman a testé ses hypothèses lorsqu'il a procédé à l'évaluation de la juste valeur marchande des actions de SPL.
+[139] Je suis également d'avis que le fait que les avances aux administrateurs n'étaient pas entièrement compensées par des primes avant 2012 (pièce AR‑2, onglet 1E) ne plaide pas en faveur d'une conclusion différente, surtout étant donné l'intention déclarée des gestionnaires à l'égard de ces avances. Un tel retard au sein d'une petite société n'est pas inhabituel. Je comprends que l'éloignement des dates est un facteur à prendre en compte (voir Power c. M.R.N., 86 D.T.C. 1065). Cependant, compte tenu des faits de l'espèce, je suis d'avis que le retard était raisonnable et qu'il ne changera pas mes conclusions sur ce point.
+[140] J'aborderai maintenant la question des avances de la société 1634158. Je suis d'avis que ces avances ne devraient pas réduire les capitaux propres de cette société à la date d'évaluation et, par conséquent, la juste valeur marchande des actions de cette société à la date d'évaluation. Je ne suis pas d'accord avec le traitement de ces avances par M. Blackman dans le rapport de MNP, puisque ce traitement n'a pas fait un usage correct de l'information obtenue a posteriori. Je ne suis pas convaincue que M. Blackman, en tenant compte du versement de dividende par la société 1634158 en février 2012 lors de la détermination de la juste valeur marchande des actions de la société à la date d'évaluation, n'a fait que tester le caractère raisonnable de ses hypothèses. Je suis plutôt d'avis qu'il a formulé ses hypothèses en tenant compte du versement du dividende fait à une date subséquente à la date d'évaluation (un an après), ce qui va à l'encontre de l'utilisation correcte de l'information obtenue a posteriori. Le versement du dividende par la société 1634158 en février 2012 est, à mon avis, un événement ultérieur qui ne devrait pas être pris en compte pour déterminer la juste valeur marchande des actions de la société à la date d'évaluation, même en acceptant le témoignage de Mme Grimes selon lequel les avances de la société 1634158 ne seraient jamais remboursées en espèces à la société.
+[141] Vu les faits de la présente affaire, il est raisonnable de conclure que la juste valeur marchande des avances de la société 1634158 correspond à la valeur nominale des avances, à savoir 1 144 887 $, et qu'aucun montant ne devrait être retranché lors de la détermination de la juste valeur marchande des actions de la société à la date d'évaluation pour prendre en compte le fait que la société a versé un dividende en février 2012. À la date d'évaluation, les avances de la société 1634158 constituaient un actif de la société et je suis d'accord avec le raisonnement de MM. de Gray et Spencer à cet égard. En effet, le fait qu'un dividende ait été payé par la société en 2012 et que le versement du dividende ait été effectué par compensation des avances de la société appuie également l'hypothèse selon laquelle les avances de la société faisaient partie de ses actifs à la date d'évaluation. Ce dividende réduira la juste valeur marchande de la société en février 2012, et non à la date d'évaluation. Par ailleurs, je doute que Mme Grimes et M. Ozerdinc, à titre de fiduciaires de la fiducie, eussent accepté de vendre leur action ordinaire de catégorie A de la société 1634158 à un prix qui n'aurait pas tenu compte des 1 144 887 $ représentant les avances de la société qu'ils auraient dû payer ultérieurement à la société.
+4. Les impôts sur le revenu intégrés
+[142] Pour établir la juste valeur marchande des actions de la société 1634158, M. Blackman a supposé que l'alinéa 88(1)d) de la Loi s'appliquerait à une dissolution théorique de SPL et à sa fusion avec la société 1634158 et qu'une planification fiscale efficace serait effectuée. Par conséquent, M. Blackman n'a pas tenu compte, dans son évaluation, des impôts à payer par la société 1634158 lors de l'aliénation de ses actions de SPL (paragraphe 9.1.2 du rapport de MNP). M. Spencer n'a pas renvoyé à l'article 88 de la Loi dans son rapport, mais concrètement, il n'a pas tenu compte de ces impôts. J'admets cette conclusion.
+[143] Par ailleurs, M. Blackman était d'avis que l'évaluation de la juste valeur marchande des actions de la société 1634158 devrait tenir compte des impôts à payer par l'actionnaire de la société pour son propre compte (actualisés selon un taux de 50 %) dans l'éventualité d'un rachat des actions, plutôt que de limiter la déduction aux impôts à payer par la société. Il était d'avis que ce facteur découlait de l'exigence de déterminer la valeur de ces actions en termes pécuniaires. À son avis, la liquidation des actions de la société 1634158 se ferait probablement par le rachat des actions plutôt que par leur vente à une tierce partie. Au cours de son témoignage, il a reconnu que le taux d'imposition à utiliser dans ce calcul aurait dû être le taux d'imposition applicable au revenu provenant de dividendes et non le taux d'imposition qu'il avait effectivement utilisé, à savoir 49,53 % (annexe 1 du rapport de MNP). La raison pour laquelle il avait actualisé le taux d'imposition normalement applicable selon un taux de 50 % est que le moment de ce rachat est inconnu.
+[144] Par contre, M. Spencer a inclus uniquement l'impôt à payer par la société lors de l'aliénation des actifs sous‑jacents de SPL dans le calcul de la juste valeur marchande des actions de la société 1634158. En outre, M. de Gray est très clair quant au fait que la détermination de la juste valeur marchande, soit le prix le plus élevé auquel un actionnaire pourrait vendre ses actions, se distingue nettement de la détermination du produit déduction faite de l'impôt. Par conséquent, on ne devrait pas tenir compte des impôts intégrés lors d'une aliénation éventuelle des actions. Selon M. de Gray, la détermination de la juste valeur marchande n'est pas une détermination du produit après impôts pour le vendeur.
+[145] Un examen de la jurisprudence, dont j'ai déjà cité des extraits et dont je discuterai ci‑après, me porte à conclure, vu les faits, qu'on ne devrait pas tenir compte de l'impôt sur le revenu d'un actionnaire pour déterminer la juste valeur marchande des actions de la société 1634158.
+[146] La jurisprudence ne semble donner aucune définition de l'expression « en termes pécuniaires » qui pourrait guider la Cour, et plusieurs sens ont été donnés à cette expression. Dans HDL Investments Inc. v. City of Regina, 2008 SKCA 47, la juge Jackson de la Cour d'appel de la Saskatchewan a noté diverses définitions de cette expression, qui visent des titres à court terme à condition qu'ils soient suffisamment liquides. Le montant en espèces ne semble pas inclure d'incidences fiscales.
+[147] Dans Succession Zeller, la juge Campbell a tenu compte des impôts à payer par l'actionnaire (actualisés selon un taux de 50 %) pour déterminer la juste valeur marchande des actions lors d'une disposition réputée résultant du décès du seul actionnaire de la société. Il est judicieux dans cette situation de tenir compte de ces impôts pour déterminer la juste valeur marchande, puisque la société serait probablement dissoute au cours du règlement de la succession.
+[148] Dans Re Canadian Rocky Mountain Properties Inc., 2006 ABQB 251, un jugement cité dans Succession Zeller, l'actionnaire demandeur s'était opposé à l'acquisition des actions d'une société cotée en bourse. L'évaluateur de la société avait déduit 100 % des impôts à payer par la société et 50 % des impôts à payer par le supposé actionnaire lors de la distribution des actifs de la société aux actionnaires. La question à trancher se rapportait à la « juste valeur » des actions aux termes de l'article 190 de la LCSA. La juge Romaine de la Cour du Banc de la Reine de l'Alberta a conclu qu'il était inapproprié de faire une déduction au titre des impôts personnels payables lors d'une distribution aux actionnaires. Ce faisant, elle avait jugé que la société en question n'était pas une société de portefeuille typique et qu'aucune intention immédiate de dissoudre la société n'existait. Par conséquent, elle a jugé qu'il serait inapproprié de conclure que la société serait dissoute et que ses actifs seraient distribués aux actionnaires. Elle a mis l'accent sur le fait que la détermination des impôts intégrés qui devraient être pris en compte devrait être fondée sur des constatations de fait quant au moment où ces impôts seraient probablement exigibles :
+[TRADUCTION]
+19 Je juge qu'il n'est pas approprié, dans le cas de CRMP, de déduire de la valeur les impôts qui seraient payés lors d'une distribution aux actionnaires. Un acheteur prudent peut, pour déterminer la juste valeur marchande, tenir compte de l'incidence de l'impôt pour fixer un prix et décider comment organiser l'acquisition, mais je ne suis pas convaincue qu'un acheteur prudent fonderait le prix qu'il offre directement sur un tel facteur puisque, tant que CRMP poursuit ses activités, l'impôt sur la distribution pourrait être reporté. De toute façon, le montant de l'impôt qu'un acheteur paierait lors d'une distribution aux actionnaires est propre à chaque acheteur, et fixer un montant lors d'un calcul de la juste valeur n'est que spéculation. Il se peut que CRMP ait reçu des offres réelles où les acheteurs ont tenu compte des incidences fiscales, mais ce facteur peut et devrait être pris en compte lors de l'examen d'offres reçues à l'occasion de la mise en vente.
+[149] Sachant que mon enquête vise à déterminer la « juste valeur marchande » et non la « juste valeur », je suis tout de même d'avis que les commentaires de la juge Romaine sont pertinents en l'espèce.
+[150] Dans le présent appel, nous nous penchons sur une disposition présumée découlant de l'application des règles de la disposition présumée après 21 ans. Aucun élément de preuve ne m'a été présenté quant à la possibilité que la société 1634158 soit dissoute. Je suis d'avis qu'il n'y a aucune raison de croire que la société serait liquidée à court terme. Si je tenais compte, pour déterminer la juste valeur marchande des actions de la société 1634158, des impôts à payer par l'actionnaire au moment du rachat des actions de la société, cela ne me permettrait pas de déterminer le prix le plus élevé entre un acquéreur souhaitant acheter et un vendeur souhaitant vendre.
+5. La décote de minoritaire et d'illiquidité dans l'évaluation et l'addenda
+[151] Avant de traiter la question des décotes, je dois déterminer si l'addenda est un rapport d'expert selon les Règles de la Cour canadienne de l'impôt (procédure générale), DORS/90‑688a (les « Règles »), et si, en préparant l'addenda, MNP s'est conformé au Code de conduite régissant les témoins experts établi à l'annexe III des Règles (le « Code de conduite »).
+5.1 L'addenda et le Code de conduite régissant les témoins experts
+[152] L'intimée est d'avis que l'addenda n'est pas admissible comme rapport d'expert puisqu'il ne contient pas tous les ouvrages ou les documents invoqués expressément à l'appui des opinions relativement à la décote d'illiquidité (annexe III, alinéa 3h)). Plus précisément, l'addenda énonce au paragraphe 2 : [TRADUCTION] « c) diverses études empiriques ayant mesuré la décote d'illiquidité, souvent dans une fourchette de 15 % à 45 %; d) des études portant sur le rapport entre le prix lors d'opérations portant sur des actions de sociétés fermées à actionnariat restreint et le premier appel public à l'épargne subséquent à l'égard des mêmes actions, se situant dans une fourchette de 40 % à 65 % ». Les documents visés au paragraphe 2 de l'addenda n'étaient pas joints à l'addenda. Par conséquent, l'intimée soutient que l'addenda devrait être exclu en vertu du paragraphe 145(3) des Règles.
+[153] En outre, l'intimée est d'avis que les experts de MNP sont tombés dans le rôle de défenseurs simplement parce qu'ils ont préparé un addenda en réponse à une demande expresse de l'appelante. L'avocat de l'intimée a souligné qu'une décote de minoritaire se trouve déjà dans le rapport de MNP (en raison de la prime accordée aux 12 actions privilégiées de cinquième rang détenues par Mme Grimes). Il se demande pourquoi il n'y avait aucune décote d'illiquidité dans le rapport de MNP, puisque MNP connaissait la structure des sociétés et les autres aspects du milieu de l'entreprise relatifs à une telle décote au moment de la préparation et de la rédaction du rapport de MNP.
+[154] L'appelante soutient que la bonne question découlant des actes de procédure et de l'application du paragraphe 104(4) de la Loi est l'évaluation de l'action ordinaire de catégorie A que la fiducie détient dans la société 1634158 de façon autonome aux fins de la détermination de sa juste valeur marchande. L'appelante soutient que l'addenda découle de sa demande faite à MNP d'aborder un argument soulevé par les défendeurs au procès civil. À ce titre, l'addenda est le produit d'une évaluation indépendante de la question de l'appelante pour aborder l'argument soulevé au procès civil. L'appelante a également souligné les similitudes entre l'addenda et le rapport de M. Spencer, qui renvoient tous deux à des documents généraux et à des sources. Si de telles références générales suffisent pour exclure l'addenda au motif que ces références sont des « documents invoqués expressément à l'appui des opinions », alors l'appelante demande que le rapport de M. Spencer soit exclu pour les mêmes motifs.
+[155] Pour les motifs suivants, je suis d'avis que l'addenda est admissible à titre de rapport d'expert et que MNP s'est conformé au Code de conduite.
+[156] L'article 145 des Règles établit les règles de procédure à l'égard des témoins experts et de leurs rapports. Il prévoit, sauf directive contraire de la Cour, qu'un expert ne sera pas autorisé à témoigner à l'audience à moins que son rapport ne contienne « un exposé complet de la preuve en interrogatoire principal que l'expert entend établir ». Cela limite l'interrogatoire principal de l'expert au contenu de son rapport (Bekesinski c. La Reine, 2014 CCI 35, au paragraphe 9 (Bekesinski)).
+[157] La preuve en interrogatoire principal d'un témoin expert doit porter sur une question qui « a été définie dans les actes de procédure ou par accord écrit des parties » (paragraphe 145(7)a) des Règles) Le témoin expert peut cependant donner une preuve en interrogatoire principal portant sur d'autres questions, avec l'autorisation spéciale de la Cour, si elle l'estime approprié (sous‑alinéa 145(8)b)ii) des Règles).
+[158] Les dispositions pertinentes des Règles sont les suivantes :
+145(2) Le rapport d'expert :
+a) reproduit entièrement la déposition du témoin expert;
+[...]
+145(2) An expert report shall
+(a) set out in full the evidence of the expert;
+. . .
+145(3) La Cour peut exclure tout ou partie du rapport d'expert si le témoin expert ne se conforme pas au Code de conduite régissant les témoins experts.
+[...]
+145(3) If an expert fails to comply with the Code of Conduct for Expert Witnesses, the Court may exclude some or all of their expert report.
+. . .
+145(7) Sauf directive contraire de la Cour, la preuve sur interrogatoire principal d'un témoin expert ne peut être reçue à l'audience au sujet d'une question que si les conditions ci‑après sont réunies :
+a) cette question a été définie dans les actes de procédure ou par accord écrit des parties définissant les points en litige;
+[...]
+145(7) Unless otherwise directed by the Court, no evidence in chief of an expert witness shall be received at the hearing in respect of an issue unless
+(a) the issue has been defined by the pleadings or by written agreement of the parties stating the issues;
+. . .
+ANNEXE III
+(alinéa 145(2)c) et formule 145(2) de l'annexe I)
+Code de conduite régissant les témoins experts
+Rapport d'expert
+3 Le rapport d'expert visé au paragraphe 145(1) des présentes règles comprend :
+[...]
+h) les ouvrages ou les documents invoqués expressément à l'appui des opinions;
+[...]
+SCHEDULE III
+(Paragraph 145(2)(c) and Form 145(2) of Schedule I)
+Code of Conduct for Expert Witnesses
+Expert Reports
+3 An expert report referred to in subsection 145(1) of the Rules shall include
+. . .
+(h) any literature or other materials specifically relied on in support of the opinions;
+. . .
+[159] Dans le jugement Bekesinski, la juge Campbell a appuyé sa conclusion selon laquelle un rapport d'expert peut être exclu s'il omet d'énoncer les faits et le raisonnement sur lequel l'expert s'est fondé pour arriver à ses conclusions, y compris toutes données quantitatives sur lesquelles il s'est fondé pour formuler ces conclusions (paragraphes 27 à 32), sur l'ancien libellé de l'alinéa 145(2)b) des Règles, qui exigeait qu'« un exposé complet de la preuve en interrogatoire principal que l'expert entend établir » soit énoncé dans le rapport d'expert.
+[160] La version actuelle de l'article 145 des Règles est légèrement différente, puisqu'elle énumère des exigences précises à l'égard du contenu du rapport d'expert. Le nouvel article atteint cet objectif en ajoutant, en annexe, un Code de conduite régissant les témoins experts qui énumère le contenu précis du rapport d'expert. Ces éléments comprennent les motifs de chacune des opinions exprimées, les faits et les hypothèses sur lesquels les opinions sont fondées, les ouvrages ou les documents invoqués à l'appui des opinions, ainsi qu'un résumé de la méthode utilisée, notamment des vérifications ou autres enquêtes sur lesquelles l'expert se fonde. Cependant, l'ancien article 145 et le nouveau ont tous deux pour objet de préserver l'équité procédurale et d'éviter les « procès par embuscade ».
+[161] La question est donc de savoir si les [TRADUCTION] « c) diverses études empiriques ayant mesuré la décote d'illiquidité, souvent dans une fourchette de 15 % à 45 %; d) des études portant sur le rapport entre le prix lors d'opérations portant sur des actions de sociétés fermées à actionnariat restreint et le premier appel public à l'épargne subséquent à l'égard des mêmes actions, se situant dans une fourchette de 40 % à 65 % », qui, d'après l'addenda, ont été prises en compte pour arriver au calcul de la décote d'illiquidité, constituent des « documents invoqués expressément à l'appui des opinions ». Le terme « expressément » est crucial, tout comme l'expression « invoqués [...] à l'appui des ».
+[162] Je suis d'avis que la reconnaissance dans l'addenda ne suffit pas, en soi, pour que les études en question soient visées par le paragraphe 3h) du Code de conduite. L'intimée n'a pas pu relever de renvoi à ces études dans l'addenda, mis à part un résumé de ce qui a été pris en compte pour fixer le montant. L'intimée n'a pas non plus été capable de relever dans l'addenda un passage renvoyant à une étude ou à un ensemble d'études précis pour appuyer les conclusions quant au montant de la décote d'illiquidité. On ne peut donc dire que la simple prise en compte de différentes études pour parvenir à une opinion signifie qu'elles sont « invoqué[e]s expressément à l'appui » de l'opinion.
+[163] Par ailleurs, l'intimée soutient que l'opinion exposée dans l'addenda n'est pas impartiale, indépendante et sans parti pris puisque MNP défend maintenant l'appelante en ayant créé le rapport. L'avocat de l'intimée renvoie à la décision White Burgess Langille Inman c. Abbott and Haliburton Co., 2015 CSC 23, [2015] 2 R.C.S. 182, dans laquelle la Cour suprême a déclaré ceci :
+32 Trois concepts apparentés sont à la base des diverses définitions de l'obligation de l'expert, à savoir l'impartialité, l'indépendance et l'absence de parti pris. L'opinion de l'expert doit être impartiale, en ce sens qu'elle découle d'un examen objectif des questions à trancher. Elle doit être indépendante, c'est‑à-dire qu'elle doit être le fruit du jugement indépendant de l'expert, non influencée par la partie pour qui il témoigne ou l'issue du litige. Elle doit être exempte de parti pris, en ce sens qu'elle ne doit pas favoriser injustement la position d'une partie au détriment de celle de l'autre. Le critère décisif est que l'opinion de l'expert ne changerait pas, peu importe la partie qui aurait retenu ses services (P. Michell et R. Mandhane, « The Uncertain Duty of the Expert Witness » (2005), 42 Alta. L. Rev. 635, p. 638‑639). Ces concepts, il va sans dire, doivent être appliqués aux réalités du débat contradictoire. Les experts sont généralement engagés, mandatés et payés par l'un des adversaires. Ces faits, à eux seuls, ne compromettent pas l'indépendance, l'impartialité, ni l'absence de parti pris de l'expert.
+[Non souligné dans l'original.]
+[164] Cependant, l'appelante a souligné les motifs qui ont mené à la préparation de l'addenda : c'était à cause du procès civil. L'intimée n'a pas démontré que le contenu de l'opinion a été modifié afin de favoriser la thèse de l'appelante ou qu'il favorise injustement la thèse de l'appelante au détriment de la thèse de l'intimée. L'intimée semble soutenir que la préparation même de l'addenda est un signe de partialité. Je ne suis pas d'accord avec l'intimée. Le témoignage de Mme Grimes est clair : son avocat a demandé l'addenda pour le procès civil afin de déterminer la valeur de l'action ordinaire de catégorie A de la société 1634158 appartenant à la fiducie de façon autonome, sans tenir compte du fait qu'elle faisait partie d'un groupe familial. Je conclus que Mme Grimes n'a pas demandé, ou autrement dicté, que MNP donne une réponse particulière ou une thèse favorable de manière à ce que l'addenda fasse des auteurs experts des défenseurs.
+[165] En outre, je suis d'avis que la question de la juste valeur marchande de l'action ordinaire de catégorie A de la société 1634158 de façon autonome est essentielle à la tâche de la Cour. Par conséquent, le fait que l'appelante ait explicitement demandé à ce que cette question soit prise en compte ne constitue pas, à mon avis, une évaluation partiale de la question à trancher : il s'agit d'une clarification des questions dont la Cour est saisie. Le fait que l'addenda ait été préparé lors du procès civil peut être pertinent pour comprendre et commenter le travail de MNP, mais l'intimée ne semble pas s'opposer fermement à la qualité objective de l'évaluation que fait cet addenda des questions auxquelles il se rapporte. Puisque l'argument principal concernant l'admissibilité et la violation supposée du Code de conduite découle de l'identification convenable par l'appelante de l'une des questions en litige dans le présent appel, je ne peux conclure qu'il y a manquement aux obligations de M. Blackman (ou de M. Wise) envers la Cour.
+5.2 La décote de minoritaire et d'illiquidité
+[166] Avant d'aborder les différentes décotes, je fournirai ma conclusion générale au sujet de la juste valeur marchande des 2 700 000 actions privilégiées de premier rang de la société 1634158. Les statuts constitutifs de cette société prévoient que le prix de rachat des 2 700 000 actions privilégiées de premier rang émises et en circulation correspond à 1 $ l'action et qu'elles ont priorité en cas de liquidation ou de dissolution (pièce AR‑2, onglet 25). Puisque les actions privilégiées de premier rang sont rachetables au gré de la société 1634158 et remboursables au gré du détenteur pour un montant égal à leur prix de rachat et qu'aucun élément de preuve ne m'a été présenté démontrant que la société 1634158 était insolvable à la date d'évaluation, je suis d'avis que le prix de rachat des actions privilégiées de premier rang reflète la juste valeur marchande de ces actions.
+a) Les thèses des experts
+[167] Le rapport de MNP prévoit une décote de minoritaire par l'attribution d'une prime de contrôle aux 12 actions privilégiées de cinquième rang correspondant à 12,5 % de la différence entre les capitaux propres rajustés de la société 1634158 et le prix de rachat global des 2 700 000 actions privilégiées de premier rang.
+[168] L'addenda applique ensuite une décote de 30 % de la valeur de l'action ordinaire de catégorie A de la société 1634158 détenue par l'appelante en raison de l'illiquidité de cette action. M. Blackman a tenu compte des facteurs suivants pour établir la décote d'illiquidité (paragraphe 2.1.2 de l'addenda) :
+i) la durée de la période de détention du titre de participation
+ii) l'absence d'option de vente
+iii) la nature des activités de la société 1634158
+iv) les projets des gestionnaires de l'entreprise
+v) le fait que l'action ne donne pas le contrôle
+vi) le potentiel d'appréciation du capital pendant la période de détention
+vii) l'absence de politique relative au rachat
+viii) le fait qu'aucun versement n'a été fait aux actionnaires avant la date d'évaluation et qu'il n'y a aucune certitude que le propriétaire présent ou futur de l'action recevra un versement
+ix) le fait que l'autre actionnaire n'a aucune raison de faire une offre qui excéderait de plus qu'un montant symbolique ce qu'offriraient des tiers sans lien de dépendance si l'action devait être mise sur le marché
+[169] Monsieur Blackman était d'avis que les décotes de minoritaire et d'illiquidité sont deux notions très opposées.
+[170] Monsieur Spencer considère qu'aucune décote de minoritaire ne devrait être appliquée à l'action ordinaire de catégorie A de la société 1634158 vu les facteurs énoncés au paragraphe 70 de son rapport :
+- Mme Grimes et Ersin Ozerdinc sont mariés et liés;
+- Mme Grimes est administratrice, présidente et secrétaire‑trésorière de la société 1634158 à la date d'évaluation;
+- Mme Grimes et Ersin Ozerdinc sont les fiduciaires de la fiducie;
+- les fiduciaires sont liés à l'actionnaire majoritaire, l'administratrice et la présidente de la société 1634158;
+- les fiduciaires sont propriétaires en common law des actifs de la fiducie au profit des bénéficiaires de la fiducie, à savoir les enfants issus du mariage de Mme Grimes et Ersin Ozerdinc;
+- les fiduciaires sont assujettis aux obligations de fiduciaire les plus élevées, notamment l'obligation de loyauté, qui oblige d'éviter les conflits d'intérêts, et l'obligation de diligence, qui oblige d'agir avec honnêteté et de bonne foi dans le meilleur intérêt des bénéficiaires;
+- les actions émises et en circulation de la société 1634158 autres que l'action ordinaire de catégorie A ont des prix de rachat qui précisent leur valeur;
+- les fiduciaires, agissant dans le meilleur intérêt des bénéficiaires, auraient l'obligation de contester le remboursement d'actions privilégiées pour tout montant plus élevé que le prix de rachat établi;
+- les biens de la fiducie comprennent des actions du capital de la société 1634158, et l'action ordinaire de catégorie A représente toute la croissance de la société 1634158;
+- les parties liées agiraient de concert afin d'obtenir le prix le plus élevé lors d'une transaction effectuée dans un marché libre.
+[171] Le rapport de M. Spencer a également refusé toute réduction de la juste valeur marchande en raison des problèmes de liquidité à cause des facteurs suivants (paragraphe 72 du rapport de M. Spencer) :
+- la méthode d'évaluation utilisée pour SPL et la société 1634158 était fondée sur les actifs;
+- les actifs de SPL sont composés principalement d'actifs à court terme et de valeurs mobilières détenues par des maisons de courtage canadiennes et sont facilement négociables;
+- les actifs de la société 1634158, mis à part les actions de SPL, sont composés principalement d'actifs à court terme et de valeurs mobilières détenues par des maisons de courtage canadiennes et sont facilement négociables;
+- la philosophie des gestionnaires de l'entreprise, soit « cerveaux et argent », a entraîné un bilan liquide solide;
+- la direction a fait en sorte que SPL accumule ses bénéfices non répartis dans des placements relativement liquides et que la société 1634158 accumule ses avoirs dans des placements relativement liquides.
+[172] De même, le rapport de CVPL indique que l'application d'une décote de minoritaire ou d'illiquidité à la valeur de l'action ordinaire de catégorie A de la société 1634158 est très inhabituelle dans les cas de sociétés fermées à actionnariat restreint (particulièrement celles contrôlées par des époux). Cependant, M. de Gray a trouvé raisonnable d'appliquer une prime de contrôle de 12,5 % à la valeur des 12 actions privilégiées de cinquième rang détenues par Mme Grimes.
+b) Analyse
+[173] Pour les motifs suivants, je suis d'avis, en raison des faits de l'espèce, qu'il est raisonnable, pour déterminer la juste valeur marchande de l'action ordinaire de catégorie A de la société 1634158 détenue par la fiducie, d'appliquer une décote de minoritaire de 12,5 % et une décote d'illiquidité de 15 % (annexe B).
+[174] Une décote de minoritaire s'appliquera afin d'effectuer un rajustement ou une réduction en raison du manque de contrôle associé à une participation minoritaire (Succession Zeller, paragraphe 60). Une décote d'illiquidité s'appliquera en cas de manque de négociabilité des actions. La négociabilité a été définie comme suit dans le rapport de MNP (voir également Succession Zeller, au paragraphe 60) : [TRADUCTION] « la capacité de convertir la propriété de l'entreprise en espèces rapidement, avec des coûts de transaction et des frais administratifs minimaux et un degré élevé de certitude de réaliser le produit de la disposition prévu ». Il ressort clairement de ces deux définitions qu'une décote de minoritaire et une décote d'illiquidité sont deux notions différentes.
+[175] Par ailleurs, dans McClintock, la négociabilité des actions a été examinée indépendamment, bien qu'en tenant pour acquis qu'aucune décote de minoritaire n'était applicable à juste titre étant donné le point de référence. Dans cette affaire, l'évaluation des actions d'une société fermée sous contrôle canadien avait été effectuée trois mois avant la date à laquelle la société est devenue ouverte en raison d'un premier appel à l'épargne (PAÉ). Le juge Rip (tel était son titre) a conclu que la participation minoritaire dont le contribuable bénéficiait à la date d'évaluation devait être évaluée en tenant compte du cours des actions lors du PAÉ, en appliquant une décote d'illiquidité de 25 % pour tenir compte des difficultés à revendre les actions avant le PAÉ. Il a rejeté l'application aux actions en question d'une décote de minoritaire proposée. Je suis d'accord avec cette conclusion, puisqu'il est bien établi que le prix des actions cotées en bourse comprend déjà une décote de minoritaire définie par les experts de l'affaire précitée (voir Steen c. Canada, [1987] 1 C.F. 139 (C.F. 1re inst.), conf. par [1988] A.C.F. no 129 (QL) (C.A.F.)).
+[176] Dans Succession Zeller, la juge Campbell a appliqué tant la décote de minoritaire que la décote d'illiquidité pour déterminer la juste valeur marchande des actions d'une société fermée.
+[177] Je suis d'avis que le rapport de M. Spencer repose sur des hypothèses mal fondées concernant la décote de minoritaire. Dans son témoignage et son rapport, M. Spencer a clairement énoncé que son évaluation était entièrement fondée sur l'hypothèse que la société 1634158 serait vendue en bloc et qu'un acheteur recevrait toutes les actions émises et en circulation du capital‑actions de la société et, par conséquent, obtiendrait le contrôle de la société au moment de l'achat théorique. M. Spencer a également supposé qu'étant donné ses obligations à titre de fiduciaire de la fiducie, Mme Grimes serait obligée de vendre les actions de contrôle de la société 1634158 qu'elle détient personnellement (12 actions privilégiées de cinquième rang) afin d'obtenir le prix le plus élevé pour l'action ordinaire de catégorie A et que les fiduciaires de la fiducie devraient contester le rachat des 12 actions privilégiées à un montant plus élevé que le montant de rachat prévu de ces actions.
+[178] Je rejette l'idée selon laquelle Mme Grimes, étant donné ses obligations fiduciaires, devrait vendre ses actions de contrôle de la société 1634158 pour obtenir le prix le plus élevé pour l'action ordinaire de catégorie A. Le paragraphe 104(4) de la Loi prévoit une disposition réputée des biens en immobilisation appartenant à la fiducie à la date d'évaluation. Seule la fiducie est réputée avoir disposé de ses actions. Il n'existe pour Mme Grimes aucune obligation juridique ou fiduciaire de vendre ses actions de contrôle de la société 1634158. Par ailleurs, aucune preuve n'a été produite au procès par l'une ou l'autre des parties démontrant que Mme Grimes aurait vendu ses actions lors du scénario hypothétique qu'on demande à la Cour d'examiner. La Cour ne peut tenir pour acquis que Mme Grimes serait forcée de vendre ses actions de contrôle de la société 1634158. Je suis d'avis que la détermination de la juste valeur marchande doit plutôt être faite en supposant que seule la fiducie disposerait de ses actions, et non tous les actionnaires de la société 1634158, à savoir le groupe formé de la fiducie et Mme Grimes. Par ailleurs, la définition de la « juste valeur marchande » comme étant le prix le plus élevé entre un vendeur consentant et un acheteur consentant, sans lien de dépendance, implique que nous devons examiner le cas où la fiducie (et non le groupe formé de la fiducie et Mme Grimes) vend ses actions à un acheteur consentant. M. Spencer s'est fondé à tort sur ce qu'il croyait être le droit des fiducies.
+[179] De plus, M. Spencer fait référence au fait que, compte tenu de leurs obligations fiduciaires, les fiduciaires devront contester le rachat des 12 actions privilégiées de cinquième rang pour un montant plus élevé que le montant de rachat prévu de ces actions. Je suis d'avis que ce fait n'est pas pertinent à la tâche qui m'incombe.
+[180] Par ailleurs, M. Spencer a fait référence au fait que Mme Grimes, à titre d'unique administratrice, présidente et secrétaire‑trésorière de la société 1634158 et propriétaire des actions de contrôle de la société 1634158, agit également à titre de fiduciaire de la fiducie. Encore une fois, pour les raisons susmentionnées, je suis d'avis que cela n'est pas pertinent à la tâche qui m'incombe.
+[181] L'intimée s'est aussi appuyée sur le fait que RCGT n'a appliqué aucune décote de minoritaire pour évaluer les actions de SPL aux fins de la réorganisation de 2007 conformément à la lettre de RCGT (pièce R‑3) et a affirmé que je ne devrais pas appliquer une décote de minoritaire. Cependant, à la page 2 de la lettre de RCGT, on indique clairement qu'on n'avait pas demandé à RCGT de fournir une opinion sur la juste valeur marchande des actions. La lettre indique ce qui suit : [TRADUCTION] « Puisqu'on ne nous a pas demandé de fournir un rapport d'évaluation exhaustif ou un rapport d'évaluation portant sur une estimation de la valeur, il faut bien comprendre que le calcul de la valeur et les commentaires figurant dans le présent rapport ne constituent pas notre opinion quant aux justes valeurs marchandes. » Par conséquent, je n'ai accordé aucun poids à la lettre de RCGT.
+[182] La jurisprudence portant sur la détermination de la juste valeur marchande que j'examine plus loin a souvent appliqué une décote de minoritaire dans l'évaluation des participations minoritaires d'une société fermée familiale. Citons par exemple le jugement Succession Zeller (précité), où la juge Campbell a appliqué une décote de 10 % à une participation de 50 % et une décote de 15 % à une participation de 33 %.
+[183] Dans Succession Allred, le juge Sarchuk a appliqué une décote de 25 % pour déterminer la juste valeur marchande des actions d'un actionnaire décédé.
+[184] Dans Guckert v. Koncrete Construction Ltd., 2009 SKQB 484, la Cour du Banc de la Reine de la Saskatchewan devait déterminer la juste valeur marchande d'une participation minoritaire dans des sociétés fermées (44,4 % et 30 % respectivement) aux fins du partage des biens familiaux. Cette cour a déclaré ce qui suit :
+[TRADUCTION]
+93 Concernant le choix d'une décote de minoritaire, je suis enclin à être du même avis que M. Tournquist. Un acheteur potentiel prudent faisant l'achat de 30 % des actions de Kindersley et qui n'est pas lié aux actionnaires restants peut s'attendre à une décote de minoritaire de plus de 15 %. Cependant, KCL et ses dirigeants sont parents et rien ne laisse entendre qu'il y a de la discorde entre Peter et son frère Frank ou son neveu Lyle. Peter peut s'attendre à ce que l'alliance familiale se poursuive dans un proche avenir. Par ailleurs, les évaluations visent le 31 décembre 2006. Nous voilà maintenant trois ans plus tard, sans preuve, à la date de l'adjudication, d'un échec réel ou potentiel de l'entente familiale concernant le respect des domaines d'activité de chacun. Pourtant, un acheteur potentiel sans lien de dépendance aurait, selon moi, évalué le risque associé à une participation minoritaire de 30 % des actions émises comme étant plus élevé que les 15 % estimés par M. Wallace. Le risque dans ce cas‑ci est plus précisément apprécié par une décote de minoritaire de l'ordre de 25 %.
+[185] Dans McKinney v. McKinney, 2008 BCSC 709, la Cour, pour déterminer la juste valeur marchande d'une participation minoritaire (30 %) détenue dans une société familiale, a énoncé ce qui suit :
+[TRADUCTION]
+101 Le choix du montant d'une décote de minoritaire correcte est un exercice de jugement difficile. À mon avis, les critères décrits par M. Barbour démontrent qu'une décote de minoritaire importante est appropriée, mais le taux de 75 % est trop extrême. Dans les circonstances, une décote de minoritaire de 50 % est appropriée.
+[186] L'avocat de l'appelante a signalé à la Cour plusieurs décisions étrangères. Comme l'écrivait le juge en chef adjoint Bowman (avant qu'il devienne juge en chef) dans la décision Klotz c. La Reine, 2004 CCI 147, « on doit faire preuve de prudence en examinant les arrêts étrangers faisant autorité, mais il faut néanmoins les considérer avec respect et ils peuvent être riches en enseignements s'ils traitent essentiellement du même problème » (paragraphe 47) (voir également Aikman c. La Reine, 2000 CanLII 184 (C.C.I.), au paragraphe 101). Dans Estate of Frank v. Commissioner, 69 T.C.M. 2255 (1995), la United States Tax Court (Cour américaine de l'impôt) devait déterminer la juste valeur marchande d'une participation de 30 % détenue dans une société familiale pour les besoins des droits de succession. La cour a déclaré que bien que le montant approprié de la décote applicable soit une question de fait, il est généralement déraisonnable de soutenir qu'aucune décote ne devrait être envisagée dans le cas d'une participation minoritaire dans une société à actionnariat restreint et la cour a jugé qu'une décote de 20 % était raisonnable. La cour a ajouté ceci : [TRADUCTION] « Lorsque des indicateurs de la valeur supposent le contrôle ou l'entière propriété, une décote doit s'appliquer afin de fournir des indications sur la valeur d'une participation minoritaire ou d'une participation ne donnant pas le contrôle. » La cour a également jugé que le principe du manque de négociabilité s'appliquera tant aux actions majoritaires qu'aux actions minoritaires et elle a conclu qu'une décote de la valeur des actions d'une société à actionnariat restreint est appropriée en raison d'un manque de négociabilité. Elle a appliqué une décote de 30 %.
+[187] J'aborderai maintenant la décote d'illiquidité. Je ne peux accepter le raisonnement de M. Spencer selon lequel une décote d'illiquidité serait inappropriée en l'espèce. En rejetant l'application d'une décote d'illiquidité à l'évaluation de l'action ordinaire de catégorie A, M. Spencer s'est appuyé sur plusieurs critères, notamment la méthode d'évaluation utilisée tant pour SPL que pour la société 1634158, la nature des actifs que les deux sociétés détiennent et la philosophie des gestionnaires de l'entreprise. Ces critères, que M. Spencer a énumérés, sont tous des critères relatifs à la société 1634158 dans son ensemble, et non à l'action ordinaire de catégorie A en particulier. Je suis d'avis qu'il est inapproprié de renvoyer seulement aux critères relatifs à la société 1634158 dans son ensemble pour déterminer la pertinence et le montant de la décote d'illiquidité applicable à l'action ordinaire de catégorie A de la société. La décote d'illiquidité a été décrite comme étant la capacité de convertir rapidement un bien en espèces, moyennant des frais d'opération minimes, avec une certitude élevée de réaliser le produit net attendu (McClintock, au paragraphe 33, et Succession Zeller, au paragraphe 60). Il est donc évident que les critères portant sur le bien comme tel, en l'espèce l'action ordinaire de catégorie A, doivent être examinés pour déterminer la pertinence et le montant de la décote d'illiquidité. Par conséquent, compte tenu de l'absence de ces facteurs dans l'évaluation de M. Spencer, je dois rejeter l'analyse de M. Spencer pour établir la pertinence et le montant de la décote d'illiquidité applicable à l'action ordinaire de catégorie A de la société 1634158.
+[188] Pour établir une décote d'illiquidité, M. Blackman fait référence non seulement aux critères relatifs à la société 1634158 dans son ensemble (la nature des activités de la société et les plans qu'ont les gestionnaires pour l'entreprise), mais également aux critères applicables en particulier à l'action ordinaire de catégorie A, à savoir l'absence d'option de vente, le marché limité de l'action, l'absence de politique de rachat, l'absence de versements avant la date d'évaluation ou d'assurance quelconque de versements futurs et le potentiel d'appréciation en capital pendant la période de détention. À mon avis, compte tenu de ce qui précède, ces critères sont tous importants pour déterminer la pertinence et le montant de la décote d'illiquidité applicable à l'action ordinaire de catégorie A de la société 1634158. Cependant, je remarque qu'un autre critère que M. Blackman a pris en considération est le manque de contrôle conféré par l'action ordinaire de catégorie A. Le manque de contrôle avait déjà été inclus à la prime de contrôle conférée aux 12 actions privilégiées de cinquième rang de la société 1634158 appartenant à Mme Grimes et la décote de minoritaire qui en découle a été appliquée à l'évaluation de l'action ordinaire de catégorie A. Il semble par conséquent y avoir un double comptage du critère du contrôle, une fois dans le calcul de la décote de minoritaire et une autre fois dans le calcul de la décote d'illiquidité. Pour ces motifs, je réduirais la décote d'illiquidité à 15 % plutôt qu'au 30 % établis à l'addenda.
+F. Conclusion
+[189] L'appel est accueilli et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément à mes motifs et au résumé des rajustements figurant aux annexes B à D, qui font partie intégrante des présents motifs. La question des dépens est mise en délibéré. Les parties disposeront d'un délai de 60 jours suivant la date du jugement et des présents motifs pour parvenir à un accord sur les dépens, faute de quoi elles déposeront leurs observations écrites d'au plus 10 pages sur les dépens dans les 30 jours qui suivront l'expiration de ce délai initial de 60 jours.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2016.
+« Dominique Lafleur »
+La juge Lafleur
+ANNEXE A
+[TRADUCTION]
+(No du dossier de la Cour : 2014-2006(IT)G)
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+M. KATHLEEN GRIMES ET M. ERSIN OZERDINC, FIDUCIAIRES DE LA « OZERDINC FAMILY TRUST NO. 2 » [1]
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS (PARTIEL)
+Pour les besoins du présent appel seulement, les parties s'entendent sur les faits suivants :
+LES FAITS PERTINENTS
+A. L'APPEL EN MATIÈRE D'IMPÔT SUR LE REVENU
+1. Le présent appel est interjeté en vertu de Loi de l'impôt sur le revenu (Canada) (la « Loi ») à l'encontre d'un avis de nouvelle cotisation du 17 octobre 2013 concernant la fiducie « Ozerdinc Family Trust No. 2 » (la « fiducie no 2 ») pour l'année d'imposition 2011 (la « nouvelle cotisation ») (onglet 19 du recueil conjoint de documents).
+2. La fiducie no 2 a déposé une opposition à la nouvelle cotisation le 15 janvier 2014 (l'« opposition »). Le 15 avril 2014, le 90e jour suivant la date à laquelle l'opposition a été déposée, la fiducie no 2 n'avait pas reçu d'avis que la nouvelle cotisation avait été annulée ou ratifiée (onglet 20 du recueil conjoint de documents).
+3. La fiducie no 2 interjette appel en vertu de l'alinéa 169(1)b) de la Loi.
+B. L'HISTORIQUE DE LA FIDUCIE « OZERDINC FAMILY TRUST » ET DE LA FIDUCIE « OZERDINC FAMILY TRUST NO. 2 »
+4. Kathleen Grimes et Ersin Ozerdinc sont époux.
+5. Le 1er février 1990, Kathleen Grimes a constitué la fiducie « Ozerdinc Family Trust » (la « fiducie no 1 ») au bénéfice des enfants de Kathleen Grimes et d'Ersin Ozerdinc (onglet 21 du recueil conjoint de documents).
+6. Le 28 septembre 2007, Kathleen Grimes a constitué la fiducie no 2 au bénéfice des enfants de Kathleen Grimes et d'Ersin Ozerdinc.
+7. À toutes les époques pertinentes, Kathleen Grimes et Ersin Ozerdinc, qui sont des particuliers résidant au Canada, étaient les fiduciaires de la fiducie no 1 et de la fiducie no 2 (onglets 21 et 22 du recueil conjoint de documents).
+8. La fiducie no 2 est une fiducie non testamentaire régie par le droit de la province de l'Ontario.
+9. Le 28 septembre 2007, la fiducie no 1 a transféré tous ses actifs à la fiducie no 2 par roulement conformément au paragraphe 107.4(3) de la Loi, ce qui n'a donné lieu à aucun changement de propriété en equity. Les actifs transférés comprenaient une action ordinaire de 1634158 Ontario Inc. (la « société 1634158 ») (onglet 23 du recueil conjoint de documents).
+10. La fiducie no 1 a été dissoute le 31 décembre 2007, après le transfert des actifs à la fiducie no 2.
+11. Par l'application, notamment, des paragraphes 104(4) et 104(5.8) de la Loi, la fiducie no 2 était réputée avoir disposé de certains actifs le 1er février 2011.
+12. Le 1er février 2011, les actifs de la fiducie no 2 comprenaient l'action ordinaire de la société 1634158; cette société, à son tour, détenait 100 actions ordinaires et 100 actions privilégiées de catégorie B de Site Preparation Limited (« SPL »), soit toutes les actions émises et en circulation de SPL (onglet 24 du recueil conjoint de documents).
+C. DESCRIPTION DES SOCIÉTÉS 1634158, SPL ET SPLP
+SPL
+13. Le 23 mai 1990, SPL a été constituée en société en vertu de la Loi sur les sociétés par actions de l'Ontario. Le 24 juillet 2007, SPL a fusionné avec H.E.R. Excavating & Grading Inc.
+14. L'exercice de SPL prend fin le 28 février (ou le 29 février lors des années bissextiles).
+15. SPL exploite une entreprise de construction exerçant principalement ses activités à titre de sous-traitant pour de plus grandes entreprises de construction; elle fournit un éventail de services de passation de contrats industriels, commerciaux et institutionnels, notamment la pose de conduites d'eau et d'égouts, la construction de routes et de parcs de stationnement jusqu'à la catégorie granulaire B, et l'excavation et la construction de parcs solaires dans la région d'Ottawa, en Ontario.
+16. SPL obtient des contrats par l'entremise d'un processus compétitif de soumissions et d'appels d'offres, contrat par contrat. SPL cible des projets d'un type précis avec des entrepreneurs généraux précis. Les contrats sont habituellement des contrats à prix fixe qui font que le soumissionnaire extrapole des renseignements à partir des plans et devis et qu'il détermine la portée détaillée des travaux. Les projets de ce type comprennent un niveau élevé de risque lors des soumissions et lors de l'exécution des travaux. Le prix indiqué est un montant global pour tous les travaux indiqués aux plans et devis.
+17. Ersin Ozerdinc et Kathleen Grimes ont occupé pendant toutes les périodes pertinentes (et occupent encore) des postes de direction clés de SPL.
+18. Kathleen Grimes était, pendant toutes les périodes pertinentes, la seule administratrice, présidente et secrétaire‑trésorière de SPL.
+19. SPL compte de 15 à 50 employés selon le nombre de contrats actifs. Le 1er février 2011, SPL comptait trois employés à temps plein, en plus d'Ersin Ozerdinc et de Kathleen Grimes.
+La société 1634158
+20. Le 2 mai 2005, 1634158 Ontario Inc. a été constituée en vertu de la Loi sur les sociétés par actions de l'Ontario. La société 1634158 détenait toutes les actions émises par SPL à toutes les époques pertinentes.
+21. L'exercice de la société 1634158 prend fin le 28 février (ou le 29 février lors des années bissextiles).
+22. Kathleen Grimes était pendant toutes les périodes pertinentes (et continue d'être) l'administratrice, la présidente et la secrétaire-trésorière de la société 1634158.
+23. Le 1er février 2011, les actions émises de la société 1634158 étaient les suivantes :
+a) une action ordinaire de catégorie A, dont les caractéristiques étaient les suivantes :
+(i) un droit de vote par action;
+(ii) le droit à des dividendes selon la décision du conseil d'administration;
+(iii) le droit aux actifs de la société, après le paiement des dettes, lors de sa dissolution;
+b) 2 700 000 actions privilégiées de premier rang, dont les caractéristiques étaient les suivantes :
+(i) un droit de vote par action;
+(ii) aucun droit à des dividendes;
+(iii) actions remboursables et rachetables à 1 $ l'action;
+(iv) la priorité, en ce qui concerne le paiement du montant de rachat, sur toute autre catégorie d'actions de la société, mais aucun droit additionnel de participation aux bénéfices ou à l'actif;
+c) 12 actions privilégiées de cinquième rang, dont les caractéristiques étaient les suivantes :
+(i) 500 000 droits de vote par action;
+(ii) aucun droit à des dividendes;
+(iii) actions rachetables à 0,10 $ l'action;
+(iv) la priorité, en ce qui concerne le paiement du montant de rachat, sur toute autre catégorie d'actions de la société, à l'exception des actions privilégiées de premier rang, des actions privilégiées de deuxième rang, des actions privilégiées de troisième rang et des actions privilégiées de quatrième rang, mais aucun droit additionnel de participation aux bénéfices ou à l'actif.
+24. Le 1er février 2011, les actions émises et en circulation de la société 1634158 étaient détenues de la façon suivante :
+a) la fiducie no 2 détenait 2 699 900 actions privilégiées de premier rang et une action ordinaire de catégorie A;
+b) Kathleen Grimes détenait 100 actions privilégiées de premier rang et 12 actions privilégiées de cinquième rang.
+Site Preparation Limited Partnership
+25. Le 2 septembre 1998, Site Preparation Limited Partnership (« SPLP ») a été constituée en société en commandite en vertu de la Loi sur les sociétés en commandite de l'Ontario. SPLP accomplit des travaux de viabilisation et d'aménagement de terrains, notamment l'excavation, l'installation de canalisations d'eau et d'égouts et le traitement des eaux pluviales. Les activités de SPLP sont semblables à celles de SPL, mais les projets qu'elle entreprend sont moins importants et n'ont pas la complexité des projets entrepris par SPL. En février 2011, SPLP comptait 14 employés.
+26. L'exercice de SPLP prend fin le 31 décembre de chaque année.
+27. La répartition du revenu et des pertes de SPLP, tant pour la comptabilité que pour l'impôt, est de 99,99 % au commanditaire et de 0,01 % au commandité. Le versement des espèces à distribuer a lieu au moins une fois par année, dans les 90 jours suivant la fin de l'exercice.
+28. Les participations émises et en circulation de SPLP sont les suivantes :
+a) 4 000 participations (une détenue par SPL et 3 999 détenues par la fiducie no 2) avec les droits suivants :
+(i) le droit de recevoir une quote‑part des bénéfices;
+(ii) une priorité égale à toutes autres participations;
+(iii) un droit de vote par participation.
+29. SPL est le commandité et détient une participation de la société en commandite. SPL a droit au remboursement par SPLP de tous les frais et dépenses engagés par SPL à titre de commandité pour le compte de SPLP ainsi qu'à des honoraires de gestion annuels de 10 % des revenus de SPLP, déduction faite de tous frais autres que ces honoraires de gestion, comme il est indiqué dans l'entente de société en commandite. Les honoraires de gestion sont habituellement comptabilisés à la fin de l'exercice.
+30. Les participations de la société en commandite sont détenues par la fiducie no 2.
+31. Le tableau ci-dessous présente les attributs fiscaux des actions de la société 1634158 en circulation le 1er février 2011 :
+Catégorie d'actions
+Actionnaire
+Prix de base rajusté
+Capital versé
+1 action ordinaire de catégorie A
+Fiducie no 2
+1 $
+1 $
+2 700 000 actions privilégiées de premier rang
+Fiducie no 2
+100 $
+199,99 $
+100 actions privilégiées de premier rang
+Kathleen Grimes
+100 $
+0,01 $
+12 actions privilégiées de cinquième rang
+Kathleen Grimes
+1,20 $
+1,20 $
+32. De temps à autre, SPL a payé des dépenses pour Kathleen Grimes et Ersin Ozerdinc (les « dirigeants ») et elle leur a versé des avances. SPL a consigné ces opérations à titre d'avances aux dirigeants dans son grand livre général et dans ses états financiers. Des écritures de journal ont été faites pour des primes forfaitaires versées par SPL aux dirigeants, souvent en fin d'exercice. Le 1er février 2011, le solde des avances versées aux dirigeants inscrit au grand livre général s'élevait à 2 257 132 $ et SPL n'avait déclaré aucune prime forfaitaire aux dirigeants à cette date.
+33. Avant le début de la vérification et avant la nouvelle cotisation qui a suivi, SPL avait déclaré des primes payables à Kathleen Grimes et à Ersin Ozerdinc de sorte que le solde des avances aux dirigeants le 29 février 2012 était nul. Kathleen Grimes et Ersin Ozerdinc ont correctement déclaré cette rémunération dans leurs déclarations de revenus et ont payé l'impôt exigible.
+34. Selon les états financiers, les montants suivants sont les soldes de fin d'exercice des avances versées aux dirigeants (ou provenant de ceux‑ci, pour les montants négatifs) par SPL (ou à celle‑ci) :
+a) le 29 février 2000 : néant
+b) le 28 février 2001 : 53 683 $
+c) le 28 février 2002 : (62 481 $)
+d) le 28 février 2003 : (161 839 $)
+e) le 29 février 2004 : (101 381 $)
+f) le 28 février 2005 : (140 726 $)
+g) le 28 février 2006 : 79 415 $
+h) le 28 février 2007 : 215 379 $ (modifié l'année suivante à 227 879 $)
+i) le 29 février 2008 : 454 410 $ (modifié l'année suivante à 450 585 $)
+j) le 28 février 2009 : 333 395 $
+k) le 28 février 2010 : 370 874 $
+l) le 28 février 2011 : 1 904 422 $
+m) le 29 février 2012 : néant
+n) le 28 février 2013 : 502 274 $
+35. Le tableau suivant présente la rémunération provenant de SPL déclarée par Kathleen Grimes et Ersin Ozerdinc au cours de chacune des années civiles suivantes :
+Année
+Kathleen Grimes
+Ersin Ozerdinc
+Total
+2000
+196 883 $
+196 883 $
+393 766 $
+2001
+192 500 $
+192 500 $
+385 000 $
+2002
+180 000 $
+180 000 $
+360 000 $
+2003
+192 850 $
+192 850 $
+385 700 $
+2004
+192 850 $
+192 850 $
+385 700 $
+2005
+192 850 $
+192 850 $
+385 700 $
+2006
+200 000 $
+200 000 $
+400 000 $
+2007
+200 000 $
+200 000 $
+400 000 $
+2008
+200 000 $
+200 000 $
+400 000 $
+2009
+200 000 $
+200 000 $
+400 000 $
+2010
+200 000 $
+200 000 $
+400 000 $
+2011
+400 000 $
+400 000 $
+800 000 $
+2012
+616 025 $
+616 025 $
+1 232 050 $
+2013
+616 000 $
+616 000 $
+1 232 000 $
+36. En 2011, la valeur des actifs personnels de Kathleen Grimes et d'Ersin Ozerdinc excédait 2,3 millions de dollars.
+37. Au cours de l'année d'imposition 2011, la société 1634158 a avancé des fonds de temps à autre à son actionnaire et a consigné ces avances dans ses états financiers.
+38. Avant le début de la vérification et avant la nouvelle cotisation qui a suivi, la société 1634158 a déclaré un dividende de 530 200 $ à la fiducie no 2 le 15 janvier 2012 et des dividendes de 1 113 004 $ et 464 760 $ le 29 février 2012, soit un total de 2 107 964 $ au cours de l'année d'imposition 2012 (onglets 4, 5 et 6 du recueil conjoint de documents).
+39. Les montants suivants sont les dividendes déclarés par la société 1634158 à la fiducie no 2 :
+a) le 31 juillet 2009 : 38 423 $
+b) le 15 janvier 2012 : 530 200 $
+c) le 29 février 2012 : 1 113 004 $
+d) le 29 février 2012 : 464 760 $
+e) le 28 février 2013 : 16 949 $
+D. LES ÉVALUATIONS
+40. Dans une lettre du 8 novembre 2012, l'Agence du revenu du Canada (l'« ARC ») a déclaré que la fiducie no 2 avait, selon elle, fait l'objet d'une disposition réputée de ses actifs en vertu des paragraphes 104(4) et 104(5.8) de la Loi le 1er février 2011 (onglet 26 du recueil conjoint de documents).
+41. Le 19 novembre 2012 ou vers cette date, un formulaire RC59 a été produit pour le compte de la fiducie no 2 nommant Gowling Lafleur Henderson S.E.N.C.R.L., s.r.l. à titre de représentant autorisé (onglet 27 du recueil conjoint de documents).
+42. Le dossier de la fiducie no 2 a été renvoyé à l'unité régionale d'évaluation du bureau des services fiscaux d'Ottawa en février 2013 afin de déterminer la juste valeur marchande des actifs de la fiducie no 2 le 1er février 2011.
+43. Le rapport d'évaluation définitif de l'unité d'évaluation a constitué le fondement pour la nouvelle cotisation et a été remis à la fiducie no 2 accompagné d'une lettre explicative le 17 septembre 2013 (l'« évaluation de la cotisation »).
+44. L'évaluation de la cotisation a conclu que la valeur des actions de la société 1634158 détenues par la fiducie no 2 était de 7 993 655 $ le 1er février 2011.
+45. Dans une lettre du 24 septembre 2013, le vérificateur de l'ARC a confirmé les résultats de la vérification de la fiducie no 2 pour l'année d'imposition 2011. Un gain en capital a été établi à l'égard de la fiducie no 2 puisque l'évaluation de la cotisation avait établi, pour les actifs de la fiducie no 2, une valeur qui excédait le prix de base rajusté de ceux‑ci (onglet 28 du recueil conjoint de documents).
+46. Par conséquent, on a considéré que la fiducie no 2 avait réalisé, le 1er février 2011, un gain en capital de 8 087 633 $ en vertu des paragraphes 104(4) et 104(5.8) de la Loi, de la façon suivante :
+a) 2 699 900 $ sur ses actions privilégiées de premier rang de la société 1634158, montant qui est contesté;
+b) 5 293 654 $ sur son action ordinaire de catégorie A de la société 1634158, montant qui est contesté;
+c) 94 079 $ sur sa participation dans SPLP, montant qui n'est pas contesté.
+47. Par un avis du 17 octobre 2013, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation pour l'année d'imposition 2011 de la fiducie no 2 en ajoutant à son revenu un gain en capital imposable de 4 035 242 $ en application des alinéas 3b) et 38a) de la Loi (onglet 19 du recueil conjoint de documents).
+48. La nouvelle cotisation a été établie le 17 octobre 2013. Elle tenait compte de ce qui suit :
+a) une augmentation du revenu imposable de la fiducie no 2 de 4 035 242 $;
+b) une obligation fiscale correspondante de 1 870 045,22 $;
+c) des intérêts courus de 151 483,35 $ à la date de la nouvelle cotisation.
+49. La fiducie no 2 a déposé une opposition à la nouvelle cotisation le 15 janvier 2014.
+Fait à Ottawa (Ontario), ce 6e jour de juin 2016.
+P.C. LaBarge
+Avocat de l'appelante
+LaBARGE WEINSTEIN LLP
+800-515, prom. Legget
+Kanata (Ontario) K2K 3G4
+Tél. : 613-599-9600
+Téléc. : 613-599-0018
+William F. Pentney
+Sous-procureur général du Canada
+Avocat de l'intimée
+Par :
+Pascal Tétrault
+Avocat de l'intimée
+Services du droit fiscal
+99, rue Bank
+11e étage
+Ottawa (Ontario)
+K1A 0H8
+Tél. : 613-670-6495
+Téléc. : 613-941-2293
+(No du dossier de la Cour : 2014-2006(IT)G)
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+M. KATHLEEN GRIMES ET M. ERSIN OZERDINC, FIDUCIAIRES DE LA « OZERDINC FAMILY TRUST NO. 2 »
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+P.C. LaBarge
+LaBARGE WEINSTEIN LLP
+800-515, prom. Legget
+Kanata (Ontario)
+K2K 3G4
+Avocat de l'appelante
+William F. Pentney
+Sous-procureur général du Canada
+Services du droit fiscal
+99, rue Bank, 11e étage
+Ottawa (Ontario)
+K1A 0H8
+Avocat de l'intimée
+ANNEXE B
+Juste valeur marchande (« JVM ») des actions de la société 1634158 à la date d'évaluation
+Capitaux propres le 28 février 2011
+2 789 286 $
+Moins : revenu/perte pour le mois de février 2011
+—
+Capitaux propres le 1er février 2011
+2 789 286 $
+Rajustements :
+Ajouter : JVM des actions de SPL (annexe C)
+3 424 000 $
+Moins : valeur comptable
+(200 $)
+3 423 800 $
+[EN BLANC]
+[EN BLANC]
+Ajouter : dû à un actionnaire
+38 423 $
+Capitaux propres rajustés
+6 251 509 $
+Répartition à chacune des catégories d'actions :
+Moins : montant de rachat des 2 700 000 actions privilégiées de premier rang (JVM)
+(2 700 000 $)
+Solde pour l'action ordinaire de catégorie A et les 12 actions privilégiées de cinquième rang
+3 551 509 $
+12 actions privilégiées de cinquième rang
+Prime de contrôle/décote de minoritaire :
+12,5 % × 3 551 509 $ = 443 939 $
+JVM = montant de rachat + prime de contrôle/décote de minoritaire
+[(0,10) × 12] + 443 939 = 443 940 $
+(443 940 $)
+[EN BLANC]
+[EN BLANC]
+1 action ordinaire de catégorie A
+Décote d'illiquidité (15 % × 3 107 569 $)
+(466 135 $)
+JVM
+2 641 434 $
+ANNEXE C
+Juste valeur marchande (« JVM ») des actions de SPL à la date d'évaluation
+Capitaux propres le 28 février 2011
+5 985 744 $
+Ajouter : perte du mois de février 2011
+(730 822 $)
+Ajouter : salaires des 11 mois terminés le 31 janvier 2011
+635 795 $
+95 027 $
+Capitaux propres le 1er février 2011 (selon le rapport de MNP)
+6 080 771 $
+Rajustements :
+Ajouter : JVM du bien-fonds (déduction faite des frais de disposition)
+140 650 $
+Moins : valeur comptable (selon le rapport de M. Spencer)
+(48 661 $)
+91 989 $
+[EN BLANC]
+[EN BLANC]
+Ajouter : JVM des placements
+2 778 254 $
+Moins : valeur comptable (selon le rapport de M. Spencer)
+(2 650 132 $)
+128 122 $
+[EN BLANC]
+[EN BLANC]
+Moins : impôt sur le revenu constaté d'avance (28 % × 3 580 554 $)
+(1 002 555 $)
+Moins : avances aux administrateurs
+(1 904 422 $)
+Capitaux propres rajustés avant incidences fiscales
+3 393 905 $
+Moins : impôt prévu lors de l'aliénation théorique du bien‑fonds (annexe D)
+(10 625 $)
+Moins : impôt prévu lors de l'aliénation théorique des placements (annexe D)
+(22 197 $)
+Ajouter : IMRTD à récupérer (annexe D)
+62 810 $
+Capitaux propres rajustés de SPL
+3 423 893 $
+JVM (arrondie)
+3 424 000 $
+ANNEXE D
+Impôt sur le revenu prévu lors de l'aliénation théorique du bien‑fonds et des placements et IMRTD à récupérer lors de l'aliénation théorique du bien-fonds et des placements
+Bien-fonds :
+Gain en capital théorique découlant de l'aliénation du bien‑fonds
+91 989,00 $
+Partie non imposable
+(45 994,50 $)
+Gain en capital imposable
+45 994,50 $
+Impôt sur le revenu prévu au taux de 23,1 % (46,2 % actualisé au taux de 50 %)
+10 625,00 $
+Placements :
+Gain en capital théorique lors de l'aliénation des placements
+64 061,00 $
+Intérêts théoriques lors de l'aliénation des placements
+64 061,00 $
+Partie non imposable du gain en capital
+(32 030,50 $)
+Gain en capital imposable et intérêts
+96 091,50 $
+Impôt sur le revenu prévu au taux de 23,1 % (46,2 % actualisé au taux de 50 %)
+22 197,00 $
+IMRTD (selon la déclaration de revenus du 28 février 2011; voir le rapport de MNP, annexe B‑1)
+87 726,00 $
+Ajouter : partie remboursable de l'impôt sur les gains en capital imposables et les intérêts accumulés (26,67 % de (45 994,50 + 96 091,50))
+37 894,00 $
+Impôt remboursable sur les dividendes à récupérer
+125 620,00 $
+Impôt remboursable sur les dividendes à récupérer, actualisé au taux de 50 %
+62 810,00 $
+RÉFÉRENCE :
+2016 CCI 280
+No DU DOSSIER DE LA COUR :
+2014-2006(IT)G
+INTITULÉ :
+M. KATHLEEN GRIMES ET M. ERSIN OZERDINC, FIDUCIAIRES DE LA « OZERDINC FAMILY TRUST NO. 2 » c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATES DE L'AUDIENCE :
+Les 8 et 9 juin 2016
+MOTIFS DU JUGEMENT :
+L'honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 29 novembre 2016
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Paul C. LaBarge
+Me Estelle Duez
+Avocat de l'intimée :
+Me Pascal Tétrault
+Nicholas MacDonald (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Paul C. LaBarge
+Me Estelle Duez
+Cabinet :
+LaBarge Weinstein LLP
+Avocats
+Ottawa (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les parties ne s'entendent pas sur l'intitulé de l'appel.

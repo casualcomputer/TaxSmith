@@ -1,0 +1,156 @@
+Title: Vescio c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29730/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-690-29730-vescio-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-11-13
+
+# Vescio c. La Reine
+
+- Citation: 2007 CCI 690
+- Decision date: 2007-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6538, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vescio c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-13
+Référence neutre
+2007 CCI 690
+Numéro de dossier
+2007-3118(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3118(IT)APP
+ENTRE :
+NICOLA VESCIO,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 15 octobre 2007, à Toronto (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocate du requérant :
+Me Sarah J. O’Connor
+Avocate de l’intimée :
+Me Kate Leslie
+____________________________________________________________________
+ORDONNANCE
+Vu la demande d’ordonnance de prorogation du délai dans lequel peuvent être signifiés des avis d’opposition aux cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999, 2000, 2001 et 2002;
+Après avoir lu l’affidavit de Warren O’Dwyer qui a été déposé;
+Et après avoir entendu les allégations des parties;
+Il est conclu que la Cour n’a pas le pouvoir de proroger le délai dans lequel des avis d’opposition peuvent être signifiés pour les années d’imposition 1999, 2000, 2001 et 2002.
+La demande que le requérant a présentée en vue d’obtenir une ordonnance de prorogation du délai dans lequel il peut signifier les avis d’opposition est rejetée.
+Signé à Ottawa (Ontario), ce 13e jour de novembre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 19e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI690
+Date : 20071113
+Dossier : 2007-3118(IT)APP
+ENTRE :
+NICOLA VESCIO,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. Faits
+[1] Le requérant demeure dans la ville d’Etobicoke, en Ontario.
+[2] Le requérant est déménagé de l’Italie au Canada en 1959.
+[3] Le requérant possède certains actifs immobiliers; il a eu des revenus de location et engagé des dépenses relativement à ces actifs immobiliers.
+[4] Le 13 juillet 1992, le requérant a donné une procuration à son fils, Domenico Vescio (« Domenico »), en vertu de la Loi sur les procurations de l’Ontario.
+[5] Le requérant avait retenu les services de Joseph Perconti (« M. Perconti »), de Perconti Bookkeeping Services Ltd., afin que ce dernier prépare ses déclarations de revenus T1 et s’occupe de la correspondance.
+[6] Le 17 décembre 2003, l’Agence du revenu du Canada (l’« ARC ») a envoyé à M. Perconti une lettre dans laquelle elle demandait la justification des dépenses engagées par le requérant aux fins de la location.
+[7] M. Perconti n’a pas répondu à la lettre de l’ARC ni n’a informé le requérant de la réception de cette lettre.
+[8] Le 4 juillet 2004, l’ARC a envoyé une lettre de proposition à M. Perconti.
+[9] M. Perconti n’a pas répondu à la lettre de proposition de l’ARC ni n’a informé le requérant de la réception de cette lettre de proposition.
+[10] Le 4 octobre 2004, l’ARC a établi des avis de nouvelle cotisation (les « nouvelles cotisations ») à l’égard du requérant pour les années d’imposition 1999, 2000, 2001 et 2002. Dans lesdites nouvelles cotisations, les dépenses déduites par le requérant ont été refusées.
+[11] M. Perconti n’a pas déposé d’avis d’opposition aux nouvelles cotisations.
+[12] Le 14 juillet 2005, M. Perconti a tenté de déposer des relevés de revenus de location et de dépenses modifiés et des demandes de redressement d’une T1 auprès de l’ARC.
+[13] Domenico a témoigné qu’en mai 2006, il avait lui‑même [traduction] « livré en mains propres » les demandes de redressement d’une T1 de son père au bureau de Toronto Centre de l’ARC.
+[14] Domenico a témoigné qu’il avait eu quatre rencontres avec Mme Theresa Cortese, fonctionnaire de l’ARC, afin de discuter des demandes de redressement d’une T1 et des relevés de revenus de location et de dépenses modifiés de son père.
+[15] Domenico a aussi témoigné que jamais, au cours de ces quatre rencontres, Mme Cortese ne lui avait indiqué qu’il fallait déposer un avis d’opposition afin de résoudre les problèmes fiscaux du requérant.
+[16] Le requérant avait jusqu’au 2 janvier 2006 pour déposer des avis d’opposition.
+[17] Le 8 mars 2007, M. James McNamara, CA, de l’ARC a envoyé au requérant une lettre recommandée à l’attention de Domenico. Dans sa lettre, M. McNamara indique qu’il renvoie toutes les demandes de redressement d’une T1 avec les documents justificatifs par courrier recommandé sans que les demandes aient fait l’objet d’un examen en vertu de la disposition d’équité (je souligne).
+[18] Domenico a en outre témoigné qu’à un moment donné, au cours de ses quatre rencontres avec les fonctionnaires de l’ARC, on lui avait dit que l’ARC avait égaré le dossier du requérant.
+B. Question en litige
+[19] Il s’agit de savoir s’il y a lieu d’accorder au requérant une prorogation du délai dans lequel il peut déposer des avis d’opposition pour les années d’imposition 1999, 2000, 2001 et 2002.
+C. Analyse et décision
+[20] Selon le paragraphe 165(1) de la Loi de l’impôt sur le revenu (la « Loi »), le contribuable qui s’oppose à une cotisation peut signifier un avis d’opposition au ministre du Revenu national (le « ministre ») dans un délai de 90 jours suivant la date de mise à la poste de l’avis de cotisation. En l’espèce, tous les avis de nouvelle cotisation ont été mis à la poste le 4 octobre 2004.
+[21] Selon le paragraphe 166.1(1) de la Loi, le contribuable peut présenter au ministre une demande de prorogation du délai pour signifier un avis d’opposition, et l’alinéa 166.1(7)a) précise qu’une telle demande doit être présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition.
+[22] En l’espèce, le requérant aurait dû signifier des avis d’opposition dans un délai de 90 jours suivant le 4 octobre 2005, c’est‑à‑dire avant le 2 janvier 2006. Domenico a déclaré que les avis d’opposition n’avaient pas été déposés à temps pour le compte de son père en raison de la négligence de M. Perconti.
+[23] Si le requérant avait fait une demande de prorogation du délai en vertu du paragraphe 166.1(1), cette demande aurait dû être présentée dans l’année suivant le 2 janvier 2006, c’est‑à‑dire avant le 2 janvier 2007. L’avocate du requérant reconnaît qu’aucune demande de prorogation du délai prévu pour le dépôt des avis d’opposition n’avait été faite avant le 23 avril 2007.
+[24] Puisque le requérant n’a pas signifié d’avis d’opposition aux nouvelles cotisations dans le délai de 90 jours prévu à l’article 165 de la Loi et puisqu’il n’a pas présenté de demande de prorogation du délai imparti pour l’opposition dans l’année prévue à l’alinéa 166.1(7)a) de la Loi, la Cour canadienne de l’impôt n’a pas compétence pour accorder une prorogation du délai au requérant, ni n’a le pouvoir de le faire.
+[25] Pour en arriver à cette conclusion, je me suis appuyé sur un certain nombre de décisions des tribunaux, dont l’arrêt The Queen v. Carlson, 2002 DTC 6893, rendu par la Cour d’appel fédérale. Dans cet arrêt, M. le juge Nadon a déclaré, au paragraphe 10 :
+Toutefois, aux termes des alinéas 166.1(7)a) et 166.2(5)a) de la Loi, le ministre et la CCI ne peuvent prolonger le délai prévu pour le dépôt de l’avis d’opposition que si la demande est présentée dans l’année suivant l’expiration du délai prévu pour le dépôt d’un avis d’opposition.
+[26] J’en suis arrivé à cette conclusion à contrecœur, en raison des diverses remarques que Domenico a faites dans son témoignage sous serment, non contredit :
+1. Le requérant ne parle pas l’anglais couramment. Il ne peut ni lire, ni écrire, ni parler couramment l’anglais.
+2. Le requérant a de graves problèmes de santé. Il a reçu un diagnostic de leucémie en 1985. Il est diabétique et a subi un accident vasculaire cérébral en 2003. Sa mémoire est défaillante.
+3. Domenico a dit qu’il avait rencontré Mme Cortese de l’ARC quatre fois en deux ans et demi, et il croyait comprendre qu’il fournissait à cette dernière les renseignements dont elle avait besoin pour résoudre le problème fiscal de son père. Domenico a déclaré que, pendant cette période, personne de l’ARC ne lui avait mentionné qu’il fallait déposer des avis d’opposition.
+4. Domenico a aussi déclaré qu’il pensait collaborer avec l’ARC à la résolution du problème. Toutefois, il avait reçu une lettre de M. McNamara datée du 8 mars 2007, dans laquelle ce dernier indiquait qu’il renvoyait les documents sans qu’ils aient fait l’objet d’un examen en vertu de la disposition d’équité.
+Remarque : L’avocate de l’intimée n’a pas appelé Mme Cortese ni M. McNamara à témoigner afin qu’ils réfutent, clarifient ou nient l’une ou l’autre des déclarations faites par Domenico.
+[27] D’après l’examen de la preuve, il semble que les fonctionnaires de l’ARC ont agi de manière inhabituelle, peu coopérative et trompeuse dans leurs rapports avec Domenico.
+[28] Cependant, le paragraphe 23(2) de la Loi sur la gestion des finances publiques habilite le cabinet fédéral à faire remise des taxes ou à dispenser du paiement de celles-ci. Le paragraphe 23(2) est ainsi rédigé :
+23.(2) Sur recommandation du Conseil du Trésor, le gouverneur en conseil peut, s’il le juge d’intérêt public, faire remise de tous droits, taxes ou pénalités.
+[29] Selon la disposition d’équité prévue par la Loi, le ministre du Revenu national jouit également du pouvoir de renoncer aux intérêts et aux pénalités. La Circulaire d’information numéro 92-2 renvoie à la disposition d’équité et précise ce qui suit :
+1. […] Ces mesures législatives [c.‑à‑d. la disposition d’équité] donnent au Ministère le pouvoir discrétionnaire d’annuler la totalité ou une partie des intérêts et des pénalités payables, ou encore de renoncer à ces intérêts et à ces pénalités. Ces mesures s’appliquent à l’année d’imposition 1985 et aux années d’imposition suivantes.
+[30] Je renvoie également aux paragraphes 11 et 12 de la Charte des droits du contribuable, qui sont rédigés comme suit :
+11. Vous êtes en droit de vous attendre à ce que nous rendions compte.
+Vous êtes en droit de vous attendre à ce que nous rendions compte de nos actions. Lorsque nous prenons une décision relative à vos affaires liées à l’impôt et aux prestations, nous expliquerons la décision et nous vous informerons de vos droits et obligations relativement à celle-ci. De plus, nous devons rendre compte de nos actions au Parlement et aux Canadiens. Nous rendons compte au Parlement de notre rendement en ce qui concerne les services fiscaux, les programmes de prestations et les résultats obtenus par rapport à nos normes de service publiées.
+12. Vous avez droit, en raison de circonstances extraordinaires, à un allégement des pénalités et des intérêts imposés en vertu des lois fiscales.
+Vous pouvez vous attendre à ce que nous tenions compte de votre demande d’annuler, en tout ou en partie, la pénalité et les intérêts à payer, ou d’y renoncer, si vous avez été empêché de vous acquitter de vos obligations fiscales en raison de circonstances indépendantes de votre volonté, par exemple une catastrophe comme une inondation ou un incendie. Nous pouvons aussi renoncer à la pénalité et aux intérêts à payer, ou les annuler, lorsqu’ils découlent principalement de nos mesures. Par exemple, si nous vous transmettons des renseignements erronés et que vous produisez votre déclaration ou versez des paiements en fonction de ces renseignements.
+[31] Il pourrait s’agir d’un cas où le ministre du Revenu national devrait envisager d’exercer le pouvoir que lui confère la Loi sur la gestion des finances publiques ou la disposition d’équité de la Loi de l’impôt sur le revenu.
+[32] La requête du requérant est rejetée.
+Signé à Ottawa, Ontario, ce 13e jour de novembre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 19e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI690
+NO DU DOSSIER DE LA COUR :
+2007-3118(IT)APP
+INTITULÉ :
+Nicola Vescio c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 octobre 2007
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE :
+Le 13 novembre 2007
+COMPARUTIONS :
+Avocate du requérant :
+Me Sarah J. O’Connor
+Avocate de l’intimée :
+Me Kate Leslie
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Me Sarah J. O’Connor
+Cabinet :
+Magrath O’Connor
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

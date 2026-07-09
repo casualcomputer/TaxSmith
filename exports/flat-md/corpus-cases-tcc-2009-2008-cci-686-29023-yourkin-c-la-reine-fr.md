@@ -1,0 +1,122 @@
+---
+title: "Yourkin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29023/index.do"
+last_modified: "2009-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 686"
+citation2: ""
+neutral_citation: "2008 CCI 686"
+decision_date: "2009-01-21"
+language: "fr"
+item_id: "29023"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6861
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:16:55.387000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df63f37c828bfa3fff6c5d119aba4b2bcc3003cc1ac209b44ab9759b50be8cc1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yourkin c. La Reine
+
+- Citation: 2008 CCI 686
+- Decision date: 2009-01-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6861, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yourkin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-21
+Référence neutre
+2008 CCI 686
+Numéro de dossier
+2008-1152(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI686
+Dossier : 2008-1152(IT)I
+ENTRE :
+WALTER T. YOURKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Toronto (Ontario), le 4 novembre 2008.)
+Le juge Margeson
+[1] La seule question dont la Cour est saisie se trouve clairement énoncée dans l’avis d’appel qui a été examiné aujourd’hui, et consiste à savoir si l’appelant est en droit de déduire de son revenu des paiements de pension alimentaire pour conjoint s’élevant à 13 587 $ pour les années d’imposition 2005 et 2006.
+[2] L’avocate de l’intimée a fait valoir deux arguments en faveur du rejet de l’appel, à savoir le principe de l’autorité de la chose jugée d’une part, et les faits de la présente affaire d’autre part.
+[3] En ce qui concerne le principe de l’autorité de la chose jugée, la Cour est convaincue que les causes auxquelles l’avocate de l’intimée a renvoyé sont applicables en l’espèce. Les décisions rendues par les juges McArthur et Paris reposaient sur des faits qui, en tant que tels, étaient pratiquement les mêmes que ceux de l’affaire dont la Cour est maintenant saisie. La seule différence pourrait porter sur les montants en jeu, mais les faits étaient identiques.
+[4] La question fondamentale est de savoir si la Cour est liée par la décision rendue par le juge Walsh, et si elle peut l’annuler. Si la Cour est liée par cette décision, il est alors évident que la prétention de l’appelant, selon laquelle il est en droit de déduire de son revenu les paiements de pension alimentaire pour conjoint, n’est pas fondée.
+[5] La Cour est convaincue que le principe de l’autorité de la chose jugée s’applique en l’espèce. En se fondant sur l’arrêt rendu par la Cour suprême, elle est convaincue que toutes les conditions préalables à l’application du principe de l’autorité de la chose jugée ont été remplies.
+[6] L’arrêt Angle c. Ministre du Revenu national, [1975] 2 R.C.S. 248, a été rendu par la Cour suprême du Canada; il énonce les conditions préalables à l’application du principe de l’autorité de la chose jugée. On y traite des critères sur lesquels se fonde la théorie de la fin de non‑recevoir.
+[7] Tout d’abord, je suis convaincu que la même question a été tranchée deux fois par la Cour. Ensuite, la décision de justice invoquée comme créant la fin de non‑recevoir est finale. Je suis convaincu qu’aucun appel n’a été interjeté à l’encontre de la décision rendue par le juge McArthur ou de celle rendue par le juge Paris, et par conséquent, que ces décisions sont finales. Enfin, je suis convaincu que les parties à la décision de justice invoquée, ou leurs ayants droit, étaient les mêmes que la partie engagée dans l’instance où la fin de non‑recevoir a été soulevée. Je suis convaincu que cet élément s’applique également en l’espèce.
+[8] La Cour conclut que la théorie de la fin de non‑recevoir s’applique, et que la question dont elle est saisie en l’espèce a déjà été tranchée. L’appelant ne peut voir son recours aboutir, et c’est sur cette base que la Cour rejette les appels et confirme la cotisation établie par le ministre.
+[9] Par ailleurs, il se peut que la Cour soit dans l’erreur et qu’un autre tribunal décide ultérieurement que la théorie de la fin de non‑recevoir ne s’applique pas; la Cour doit par conséquent examiner le fond du litige. Sur le fond, la Cour est convaincue que l’appelant n’a pas bien défendu sa cause; il n’est pas parvenu à convaincre la Cour que le ministre a établi des cotisations incorrectes à son égard. Cette conclusion repose entièrement sur le fait qu’en l’espèce, la Cour se trouve en possession d’un document déposé par l’appelant, la pièce A-3, qui est un jugement de la Cour de l’Ontario (Division générale), daté du 13 janvier 1997, sur la première page duquel on peut lire :
+[traduction]
+LA PRÉSENTE REQUÊTE pour obtenir un jugement a été déposée par les parties au différend conformément au procès‑verbal de transaction.
+[10] La Cour de l’Ontario a également cité la loi sur laquelle elle s’appuyait. À la page 2 de son jugement, produit sous la pièce A‑3, elle a notamment déclaré :
+[traduction]
+LA COUR ORDONNE qu’en vertu de la Loi sur le droit de la famille, la pension alimentaire pour conjoint soit payée ou payable selon les modalités suivantes :
+a) Conformément aux dispositions ci‑dessous, l’obligation du défendeur de payer à la demanderesse une pension alimentaire pour conjoint prendra fin le 1er janvier 1997.
+[11] Cette ordonnance n’a pas été annulée, et aucune demande n’a été faite en ce sens. La question de savoir si l’appelant peut encore faire une telle demande se pose, mais ce n’est pas à la Cour qu’il revient de la trancher. Si l’appelant avait des raisons de croire que l’ordonnance était viciée, il aurait dû en appeler.
+[12] La Cour n’a pas le pouvoir d’annuler l’ordonnance en cause. Voir l’arrêt Wilson c. La Reine, [1983] 2 R.C.S. 594 :
+Selon un principe fondamental établi depuis longtemps, une ordonnance rendue par une cour compétente est valide, concluante et a force exécutoire, à moins d'être infirmée en appel ou légalement annulée.
+En l’espèce, l’appelant fait référence à l’ordonnance qui a été rendue le 13 janvier 1997. S’il souhaite la faire annuler, il devra déposer une demande en ce sens devant une cour compétente. La Cour n’est pas concernée.
+[13] Voir également l’extrait suivant de l’arrêt Wilson, précité :
+De plus, la jurisprudence établit très clairement qu'une telle ordonnance ne peut faire l'objet d'une attaque indirecte; l'attaque indirecte peut être décrite comme une attaque dans le cadre de procédures autres que celles visant précisément à obtenir l'infirmation, la modification ou l'annulation de l'ordonnance ou du jugement.
+[14] C’est là ce que M. Yourkin devrait faire : déposer une demande devant une cour compétente en vue de faire annuler l’ordonnance qu’il conteste. Il prétend que l’ordonnance en question n’est pas conforme au procès‑verbal de transaction parce qu’il n’a pas signé celui‑ci, mais le jugement lui‑même, sur lequel je ne peux revenir à la lumière de l’arrêt rendu par la Cour suprême du Canada, établit très clairement qu’il est conforme au procès‑verbal de transaction, et qu’il s’agit d’un jugement sur consentement, deux éléments contestés par M. Yourkin.
+[15] En fin de compte, la Cour doit par conséquent rejeter les appels et confirmer les cotisations établies par le ministre, en se fondant sur le principe de l’autorité de la chose jugée d’une part, et sur le fond du litige d’autre part.
+Signé à New Glasgow (Nouvelle‑Écosse), ce 21e jour de janvier 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 29e jour de janvier 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI686
+NO DU DOSSIER DE LA COUR : 2008-1152(IT)I
+INTITULÉ : Walter T. Yourkin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 4 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge T. E. Margeson
+DATE DES MOTIFS ÉCRITS
+DU JUGEMENT : Le 21 janvier 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Sonia Singh
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

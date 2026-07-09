@@ -1,0 +1,128 @@
+---
+title: "Plant Hope Adjusters Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26276/index.do"
+last_modified: "2003-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 71"
+citation2: ""
+neutral_citation: "2003 CCI 71"
+decision_date: "2003-02-25"
+language: "fr"
+item_id: "26276"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4007
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:31:40.283000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02a5097c6671084b0f62a4d8df1ad32956d1bb86fceb41a83020187ce741d83a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Plant Hope Adjusters Ltd. v. The Queen
+
+- Citation: 2003 CCI 71
+- Decision date: 2003-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4007, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plant Hope Adjusters Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-25
+Référence neutre
+2003 CCI 71
+Numéro de dossier
+2001-3127(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2001-3127(GST)I
+ENTRE :
+PLANT HOPE ADJUSTERS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 20 janvier 2003, à Moncton (Nouveau-Brunswick)
+Devant: l'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+Fred R. Plant
+Avocate de l'intimée :
+Me Christa MacKinnon
+_______________________________________________________________
+JUGEMENT
+L'appel à l'encontre d'une cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise pour la période du 1er janvier 1998 au 31 mars 2000, par avis de cotisation daté du 14 juin 2001 et portant le numéro 11744502, est rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 25e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 2e jour de février 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI71
+Date: 20030225
+Dossier: 2001-3127(GST)I
+ENTRE :
+PLANT HOPE ADJUSTERS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit d'un appel à l'encontre d'une cotisation datée du 14 juin 2001 établie en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) relative à des déclarations de taxe de vente sur les produits et services ( « TPS » ) et de taxe de vente harmonisée ( « TVH » ), de 66 364,10 $ en ce qui a trait à la taxe et de 5 135,96 $ en intérêts, pour la période allant du 1er janvier 1998 au 31 mars 2000. Des crédits de taxe sur intrants ont été accordés et crédités, et les montants ne sont pas contestés. La cotisation a été établie relativement aux services fournis par la société appelante à diverses compagnies d'assurance et études d'avocats dans le cadre desquels l'appelante a agi en leur nom pendant la période en question. On a jugé que les services n'étaient pas visés par la définition de « services financiers » figurant au paragraphe 123(1) de la Loi. S'il est établi que les services sont visés par la définition, ils seront exclus de l'application des dispositions qui prévoient l'imposition de la taxe, car les « services financiers » sont exclus de l'annexe V de la partie VII. S'ils ne respectent pas les critères de la définition des « services financiers » , ils seront assujettis à la taxe.
+[2] Au cours de l'audition, la société appelante était représentée par son président, M. Frederic Plant. M. Plant a témoigné que sa compagnie était une firme d'experts en sinistres indépendante établie au Nouveau-Brunswick depuis 1930. En 1997, elle a fusionné avec une autre entreprise semblable et, de ce fait, a acquis le nom commercial de Atlantic Investigations. Ce nom commercial figurait sur le papier à en-tête et sur d'autres documents. Dans certains cas, le nom commercial était défini comme étant une filiale à cent pour cent de l'appelante, alors que, dans d'autres cas, il était défini comme étant une division. Quoi qu'il en soit, la preuve a démontré que le nom commercial n'était pas enregistré auprès de la Direction des affaires corporatives du Nouveau-Brunswick. L'appelante s'en servait tout simplement pour favoriser les affaires et pour disposer d'un avantage sur ses concurrents.
+[3] L'appelante emploie environ 48 personnes pour fournir ses services à ses clients, mais tous les employés ne sont pas des experts en sinistres titulaires d'une licence aux termes de la Loi sur les assurances du Nouveau-Brunswick. L'appelante offre toute une gamme de services, allant des simples entrevues à la conduite d'enquêtes plus complexes. Les employés évaluent les réclamations, remettent des rapports périodiques comprenant des recommandations et mènent parfois des négociations relativement aux réclamations. À l'occasion, ils déterminent également si une réclamation donnée a été effectuée en vertu d'une police d'assurance.
+[4] Au début des années 1980, l'appelante a entrepris de mener des enquêtes plus détaillées qui consistaient à surveiller des réclamants afin de déterminer la validité de leurs réclamations. Ce sont ces services qui sont visés par le présent appel.
+[5] M. Plant a fait état des activités de sa société au moment où la législation sur la TPS a été introduite et de la façon dont elle a été par la suite exonérée de l'obligation de percevoir la taxe en raison des services qu'elle offrait. Les employés n'ont pas étudié le libellé de la loi, mais ils ont compris que les services qu'ils fournissaient aux compagnies d'assurance étaient exonérés et que leur travail avait toujours compris des éléments d'enquête et de surveillance.
+[6] En contre-interrogatoire, M. Plant a reconnu que 25 % à 30 % des services offerts par l'appelante touchaient au processus global d'enquête d'une réclamation et que le reste des services concernaient des demandes plus spécifiques ou du travail fragmentaire, y compris des services de surveillance sans rien d'autre.
+[7] Un expert en sinistres au Nouveau-Brunswick doit être titulaire d'une licence prescrite par la Loi sur les assurances du Nouveau-Brunswick. M. Plant a témoigné que les deux employés qui exécutaient uniquement les travaux d'enquête et de surveillance n'étaient pas des experts en sinistres titulaires d'une licence. Ils faisaient uniquement rapport de ce qu'ils observaient; malgré cela, leurs services étaient facturés par l'appelante et, dans la plupart des cas, des chèques étaient émis au nom de l'appelante. Un exemple de facture avec en-tête au nom d'Atlantic Investigations a été produit par l'intimée. Un des enquêteurs employés par l'appelante n'est pas titulaire d'une licence prescrite par la Loi sur les détectives privés et les services de sécurité du Nouveau-Brunswick puisque, selon M. Plant, il n'était aucunement obligé de l'être.
+[8] Mme Maria Large a témoigné pour l'intimée. Son rapport a été déposé en preuve et confirme que la cotisation portait uniquement sur la fourniture de services d'enquête seulement et ne comprenait pas les services consistant à faire des recommandations concernant l'indemnité accordée en règlement d'un sinistre. Dans ces cas, l'appelante fournissait des services de surveillance des activités des réclamants à des compagnies d'assurance ou à des avocats qui les représentaient, et faisait rapport de ces activités. L'enquêteur ne fournissait qu'un rapport et, par conséquent, les services n'étaient pas visés par la définition de « services financiers » figurant à l'alinéa j) de la Loi.
+[9] L'appelante soutient que, bien que les rapports soumis par les enquêteurs qui effectuaient de la surveillance ne comprenaient pas de recommandations en tant que telles, le contenu du rapport indiquait en soi une certaine ligne de conduite. M. Plant affirme de plus que le libellé de la définition d'un expert en sinistres dans la Loi du Nouveau-Brunswick ne serait pas assez large pour que le travail effectué par les employés de l'appelante soit visé par l'exemption prévue par la Loi. Cette définition limite le travail d'un expert en sinistres au droit de négocier le règlement d'un sinistre couvert par un contrat d'assurance et, de ce fait, elle ne serait pas conforme à la définition dans la Loi qui prévoit que le service offert doit consister à faire des enquêtes et des recommandations concernant l'indemnité accordée en règlement d'un sinistre. M. Plant soutient que, malgré cette contradiction dans la nature des services offerts, son entreprise est exonérée de l'obligation de percevoir la taxe. Puisque l'intention du gouvernement était d'exclure ces services, nonobstant la contradiction dans les définitions, l'interprétation favorable à l'appelante, selon laquelle les services ayant fait l'objet de la cotisation dans le présent appel devraient être exclus, devrait être retenue.
+[10] L'intimée soutient que les services fournis par l'appelante n'étaient pas exécutés par des experts en sinistres. Bien que l'appelante exploitait une firme d'experts en sinistres, une partie des services qu'elle fournissait ne tombait pas dans cette catégorie. La Loi fait référence aux services consistant à faire des enquêtes et des recommandations concernant l'indemnité accordée en règlement d'un sinistre. Dans le présent appel, les activités qui consistaient uniquement à faire des enquêtes n'étaient pas menées par un expert d'assurance. La fourniture est importante et, par conséquent, la totalité des activités de l'entreprise n'est pas exclue. Puisque les enquêteurs ne sont pas des experts d'assurance, ils ne peuvent pas faire de recommandations.
+[11] La Loi sur les assurances du Nouveau-Brunswick définit les termes « expert » et « expert en sinistres » comme suit :
+« expert » ou « expert en sinistres » désigne une personne qui, n'étant ni un avocat agissant dans le cours ordinaire de sa profession, ni un fiduciaire ou un agent du bien assuré, et moyennant une rémunération, sollicite, directement ou indirectement, le droit de négocier le règlement d'un sinistre couvert par un contrat d'assurance pour le compte de l'assuré ou de l'assureur, ou se présente comme expert pour le règlement de sinistres couverts par ces contrats;
+[12] L'exclusion dont il est question se trouve dans la définition de « services financiers » à l'alinéa 123(1)j) de la Loi, qui se lit comme suit :
+[...] le service consistant à faire des enquêtes et des recommandations concernant l'indemnité accordée en règlement d'un sinistre prévu par :
+(i) [...]
+(ii) une police d'assurance autre qu'une police d'assurance-accidents, d'assurance-maladie ou d'assurance-vie, dans le cas où le service est fourni :
+(A) soit par un assureur ou une personne autorisée par permis obtenu en application de la législation d'une province à rendre un tel service,
+[...]
+[13] En l'espèce, le service visé par la cotisation est lié aux activités d'enquête et de surveillance de l'entreprise de l'appelante. Ces services n'ont pas été exécutés par des experts titulaires d'une licence mais plutôt par des employés formés que l'appelante n'obligeait pas à détenir une licence prescrite par la Loi sur les détectives privés et les services de sécurité. Dans l'arrêt Mitchell Verification Services Group Inc. c. Canada, [2001] CAF 101, la Cour d'appel fédérale a affirmé que : « pour que le service satisfasse à la définition de « service financier » , il faut que le fournisseur effectue des enquêtes et fasse des recommandations relativement au règlement d'une réclamation aux termes d'une police d'assurance et qu'il soit titulaire d'un permis provincial autorisant et la fonction d'enquête et la fonction de recommandation » . De plus, l'appelante doit détenir une licence pour fournir de tels services.
+[14] Dans l'affaire Mitchell, l'appelante était une société d'enquête et non un expert en sinistres. Bien qu'en l'espèce l'appelante soit une société d'experts en sinistres, elle fournit des services qui sont essentiellement des services d'enquête et, selon la preuve entendue, ils ne comprennent pas les recommandations qu'une compagnie d'assurance s'attendrait normalement à recevoir relativement au règlement d'un sinistre. Je suis d'accord avec l'appelante que, conformément à la définition de l'expression expert en sinistres figurant dans la Loi du Nouveau-Brunswick, elle ne serait pas exclue de l'obligation de percevoir la TVH en vertu de la Loi; toutefois, les services qu'elle fournit depuis le début de ses activités comprennent des services qui sont exclus en vertu de la Loi et, par conséquent, elle n'était pas obligée de verser la taxe.
+[15] Le rapport de surveillance fourni à l'onglet 3 de la pièce R-1 ne contient aucune recommandation par l'appelante et constitue uniquement un rapport des observations effectuées par l'enquêteur. Par conséquent, l'appelante n'a émis aucune opinion mais a simplement fourni de l'information, alors qu'un expert est tenu de faire des recommandations à ses clients, ce qui requiert de poser un jugement. Le fait que les employés ne sont pas des enquêteurs titulaires d'une licence ne signifie pas qu'ils sont des experts en sinistres. Monsieur le juge Bowie, qui a rédigé la décision qui a été confirmée par la Cour d'appel fédérale dans l'affaire Mitchell, affirmait ce qui suit aux paragraphes 18 et 19 :
+18. Ce n'est pas par hasard si le législateur a défini la fonction qui est décrite à l'alinéa j) de la définition dans les termes qu'il a utilisés. Les rôles de l'enquêteur privé et de l'expert d'assurance sont distincts, même si, dans la pratique, il peut y avoir un certain chevauchement. Ce qui distingue l'un de l'autre est l'élément de négociation et de recommandation du règlement des sinistres, qui fait partie de la fonction de l'expert d'assurance, mais pas de celle de l'enquêteur privé. Cela ressort clairement du témoignage de M. Riddles auquel j'ai fait référence précédemment. Voir aussi The Atlas Assurance Company v. Brownell.
+19. La loi provinciale n'utilise pas le terme « recommander » . Elle reconnaît en revanche les différentes fonctions de l'enquêteur privé et de l'expert d'assurance et prévoit un régime distinct de délivrance de licences à chacun d'eux. C'est le cas non seulement en Ontario, où la présente affaire a pris naissance, mais aussi dans les neuf autres provinces. [Voir la note 6 ci-après.] Le législateur a choisi ses termes soigneusement, pour faire en sorte que les services des experts d'assurance titulaires d'une licence provinciale, et non pas ceux des enquêteurs privés titulaires d'une licence provinciale, soient exclus de l'application des dispositions de la Loi qui prévoient l'imposition de la taxe.
+[16] À mon avis, les services visés par la définition de « services financiers » qui ont été fournis par l'appelante à titre d'expert en sinistres sont exclus. Les activités d'enquête menées par Atlantic Investigation, qui se limitent à la production d'un rapport faisant état de ses observations, ne constitueraient pas des services pouvant être exclus de l'application de la Loi. Puisque la cotisation vise ces services en particulier, ils ne sont pas exclus. Par conséquent, l'appel est rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 25e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+ce 2e jour de février 2005.
+Sophie Debbané, réviseure

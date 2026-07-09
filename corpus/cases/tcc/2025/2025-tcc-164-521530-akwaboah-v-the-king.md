@@ -1,0 +1,167 @@
+---
+title: "Akwaboah v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521530/index.do"
+last_modified: "2025-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 164"
+citation2: ""
+neutral_citation: "2025 TCC 164"
+decision_date: "2025-11-04"
+language: "en"
+item_id: "521530"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5607
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:01:30.204000+00:00"
+cases_cited_count: 14
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba6216845d75d372d1955ff6bbcbefa17b672a78465fa4f4e7b68f0cc0e8db70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Akwaboah v. The King
+
+- Citation: 2025 TCC 164
+- Decision date: 2025-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5607, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Akwaboah v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-11-04
+Neutral citation
+2025 TCC 164
+File numbers
+2024-2385(GST)APP
+Judges and Taxing Officers
+Lara Friedlander
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-2385(GST)APP
+BETWEEN:
+FRANK AKWABOAH,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on September 15, 2025, at Toronto, Ontario
+Before: The Honourable Justice Lara Friedlander
+Appearances:
+Agent for the Applicant:
+Odoi Yemoh
+Counsel for the Respondent:
+Randy Ramoodit
+JUDGMENT
+UPON hearing from the parties:
+The application for an extension of time for the filing of a notice of objection in respect of an assessment regarding the Goods and Services Tax/Harmonized Sales Tax (“GST/HST”) New Housing Rebate under the Excise Tax Act (“ETA”) is quashed, without costs.
+Signed this 4th day of November 2025.
+“Lara Friedlander”
+Friedlander J.
+Citation:2025 TCC 164
+Date:20251104
+Docket: 2024-2385(GST)APP
+BETWEEN:
+FRANK AKWABOAH,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Friedlander J.
+[1] This is an application for an extension of time for the filing of a notice of objection in respect of an assessment regarding the GST/HST New Housing Rebate (the “Rebate”) under the Excise Tax Act (the “ETA”).
+BACKGROUND [2] The Applicant purchased a property in Waterdown, Ontario (the “Waterdown Property”). Ownership of the Waterdown Property was transferred to the Applicant on September 24, 2019. An application (Form GST190E) (the “Form”) for the Rebate was filed on or around October 25 to October 30, 2019. At the time of the Rebate application, the Applicant was working in construction. Previous to making the application, he was not a registrant for GST/HST purposes.
+[3] The Form that was filed included a business number. It also stated that the mailing address of the claimant was the address of the Waterdown Property. The instructions on the Form indicate that, generally, an applicant has two years from the date ownership of the house is transferred to the applicant to claim the Rebate. The Form does not provide any instructions regarding notifying the Canada Revenue Agency (the “CRA”) when the applicant’s mailing address has changed. It does have a section entitled “What if you need help”, which states “For more information, see Guide RC4028, GST/New Housing Rebate, go to Canada.ca/gst-hst, or call 1-800-959-5525.” [bolding removed] Information that would have been published on the aforementioned website at the relevant times was not submitted to the Court.
+[4] The Respondent submitted affidavits from Muhammed Quadir (the “Quadir Affidavit”) and Wade Smith (the “Smith Affidavit”, together the “Affidavits”) in support of the position that a Notice of Reassessment dated November 18, 2021 was sent to the Applicant denying the Rebate in the amount of $26,513.79.[1] The address on the Notice of Reassessment was the Waterdown Property. The Quadir Affidavit shows that, on November 18, 2021, the mailing address in the CRA’s Business Number System was that of the Waterdown Property. The Quadir Affidavit also states that the Notice of Assessment was released in the Business Client Communications System (“BCCS”) Cycle 000010647 and states that this Cycle was run on November 16, 2021. Copies of printouts in support of the relevant statements were attached to the Quadir Affidavit as exhibits. The Smith Affidavit was provided to the Court to support the Respondent’s position that the Notice of Assessment had been sent to the Applicant. The Smith Affidavit describes the relevant CRA mailing procedures. The Smith Affidavit states that an Electronic Daily Mailing Report shows the mailing jobs that were received, printed and/or mailed for a particular day and that a Canada Post Statement of Mailing, kept electronically by the CRA, shows the jobs shipped on a particular day. The Smith Affidavit states that the affiant reviewed the Electronic Daily Mailing Report and the relevant Canada Post Statement of Mailing and, on that basis, states that the affiant believes that the Notice of Reassessment was printed and mailed “on time”. No exhibits were attached to the Smith Affidavit to support these statements, and no further details regarding the review or the meaning of “on time” were provided.
+[5] The Applicant testified that he sold the Waterdown Property and moved to a property in Etobicoke, Ontario (the “Etobicoke Property”) on April 1, 2021. When the Applicant filed his income tax return with the CRA on April 9, 2021, he indicated his address as being the Etobicoke Property; documentation supporting this statement was provided to the Court. He testified that he did not receive the Notice of Reassessment when the CRA purported to have sent it, and the first time he heard of it was when he received a telephone call from a CRA Collections officer in October of 2024. He eventually received a copy of the Notice of Reassessment after calling the CRA and asking the CRA to send it to him. The Applicant stated that he asked for an extension of time to file an objection from the CRA over the telephone, but was told it was too late. He then filed this Application with the Court on November 4, 2024.
+LEGISLATIVE FRAMEWORK [6] The deadline for objecting to an assessment in respect of net tax for a reporting period is, under subsection 301(1.1) of the ETA, 90 days after the day when a notice of assessment is sent. Under section 304 of the ETA, I may hear and grant an extension of time to file a notice of objection where certain requirements are met.
+[7] Subsection 304(1) of the ETA provides that an application for an extension of time may be made to this Court only where the applicant has previously requested an extension of time from the Minister under subsection 303(1) of the ETA, that application has been denied or ignored, and certain time limits have been met. An application to the Minister for an extension of time is to be made by delivering or mailing to the Chief of Appeals in a District Office or Taxation Centre of the CRA the application accompanied by a copy of the notice of objection or a copy of the request, as the case may be (subsection 303(3) of the ETA).
+[8] Paragraph 304(5)(a) of the ETA provides that one of the requirements for an application to be granted under section 304 is that the application to the Minister for an extension of time was made within one year after the expiration of the time otherwise available for objecting.
+JURISDICTION OF THE TAX COURT [9] As set out above, the Court does not have jurisdiction to hear an application for an extension of time to object unless the applicant has already made an application for an extension of time to the Minister pursuant to subsection 303(1) of the ETA. In this case that condition has not been met as the Applicant’s oral request did not meet the requirements of subsection 303(3) of the ETA. The fact that a person at the CRA told the Applicant that he was too late to apply for an extension without explaining that a written request for an extension, and a written denial of the request or ignoring of the request by the Minister, were necessary prerequisites for an application to this Court, is concerning. That being said, as this Court has previously stated in the context of the equivalent provisions of the Income Tax Act (see, for example, Topping v The Queen, 2013 TCC 346 and FOOi Inc. v The King, 2023 TCC 176), the absence of a previous request to the Minister for an extension of time is fatal to an application for an extension of time in this Court, and this is the case regardless of whether the applicant received misleading or incorrect information from the CRA. Accordingly, I must quash this application.
+SOME ADDITIONAL OBSERVATIONS [10] The facts of this matter lead me to make some additional comments as they may be helpful to potential applicants/taxpayers as well as the CRA more generally. As I have concluded that the Application must be quashed, I note that the following comments are general observations only. As they are not binding on the parties, they do not constitute declaratory relief, which is beyond the power of this Court to grant. (See, for example, Morissette v The Queen, 2019 TCC 103, 1089391 Ontario Inc. v The Queen, 2020 TCC 129 and Warner v The King, 2025 TCC 144 for but a few examples.)
+LEGAL FRAMEWORK [11] As stated above, a notice of objection must be filed within 90 days from the day that the notice of reassessment has been sent to the relevant person unless an extension of time to file has been granted.
+[12] Mpamugo v The Queen, 2016 TCC 215, aff’d at 2017 FCA 136, a decision under the Income Tax Act (the “ITA”) which has been applied frequently in the context of the ETA (see, for example, DaSilva v The Queen, 2018 TCC 74), sets out the steps to determine whether and when a notice of assessment has been sent to a person. I quote from paragraph 4 of the DaSilva decision as follows [footnotes omitted]:
+The Tax Court of Canada and Federal Court of Appeal have had many opportunities to consider what happens when a taxpayer alleges that the Minister did not mail a notice of assessment or a notice of confirmation. I have previously summarized the steps that have emerged from those cases in respect of notices of assessment (see Mpamugo v. The Queen) and notices of confirmation (see Boroumend v. The Queen) under the Income Tax Act. I reproduce those steps below, with the modifications necessary to cover notices of assessment issued under the Excise Tax Act.
+a) Step 1: The taxpayer must assert that the notice of assessment was not sent. A taxpayer normally does so in one of two ways. The taxpayer may assert that he or she did not receive the notice of assessment and thus believes that it was not mailed. Alternatively, the taxpayer may assert that the notice was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed. The Federal Court of Appeal has made it clear that if the taxpayer’s assertion is not credible, there is no need to proceed to Step 2.
+b) Step 2: If the taxpayer asserts that the notice of assessment was not sent, the Minister must introduce sufficient evidence to prove, on a balance of probabilities, that the notice of assessment was indeed sent or, if the taxpayer has asserted that it was sent to the wrong address, that it was sent to the address that the CRA properly had on file.
+c) Step 3: If the Minister is able to prove that the notice of assessment was sent, then the sending is presumed to have occurred on the date set out on the notice (subsection 335(10)). This is a rebuttable presumption. The taxpayer may introduce evidence to prove that it was actually sent on a different date. The deadline for filing a notice of objection is calculated from the date established by this step (subsection 301(1.1)).
+d) Step 4: Once the sending date is established (either through the presumption or through proof of a different date), the assessment is deemed to have been made on that date (subsection 335(11)) and the notice of assessment is deemed to have been received on that date (subsection 334(1)). These deeming provisions are not rebuttable. Step 4 is not strictly relevant for the purpose of determining the deadline for filing a notice of objection. That determination is made in Step 3. Step 4 simply makes it clear that the fact that a taxpayer did not actually receive the notice of assessment is irrelevant.
+NOTIFICATION OF A CHANGE OF ADDRESS IN THIS CONTEXT [13] One of the questions that would have arisen had I the jurisdiction to hear the Applicant’s application would have been the question of whether the November 18, 2021 assessment had been sent to the Applicant, as contemplated by subsections 301(1.1) and 303(1) of the ETA and considered in Steps 1-3 of the Mpamugo test. The issue in respect of which I would like to provide my general observations is whether and when a taxpayer’s notification of a change of address through the filing of an income tax return is sufficient notice to the CRA in respect of a notice of assessment issued under Part IX of the ETA. I canvass several potentially relevant cases.
+[14] In Kirschke v The Queen, 2019 TCC 68, the Court considered an application for an extension of time to file a notice of objection under the ETA in respect of her business activities during the reporting periods ending December 31 of 2010-2014. The respondent claimed that the notices of reassessment dated June 14, 2016 were sent to the address that the CRA had on file. This address was indeed the applicant’s personal residence at one time, but the applicant had since moved. The applicant did not discover the existence of the notices until she received letters from the CRA’s Collections Division at her new address. (The decision notes that no explanation was given as to why a letter relating to HST was sent to the applicant’s new address prior to the date when the applicant’s address was updated in the CRA’s database.) The applicant had advised the CRA of her new address in 2015 when filing her 2014 income tax return but did not separately notify the CRA of her change of address for GST/HST purposes. The applicant stated that the CRA had informed her, verbally, that her income tax and GST/HST accounts were linked, and testified that she was unaware that she had to separately update her address for GST/HST purposes. The Court in Kirschke concluded that the notices of reassessment had not been sent to the correct address, and dismissed the application as being unnecessary given that the applicant still had time to file a notice of objection. The Court used a reasonableness test — namely, asking what was reasonable, objectively, from the applicant’s perspective. The Court stated the following at paragraphs 31 and 33:
+Moreover, I cannot help but wonder what the CRA would have done had Ms. Kirschke cancelled her HST account in 2015 before she moved, as had been intended. It would not seem reasonable to require a taxpayer who has closed an HST account to separately continue to inform CRA of his or her updated address for that account. In my view, in such a case, a taxpayer would quite reasonably conclude that the CRA would look to the most current address on file for the taxpayer's open tax account. That also appears to be what the CRA did when it came time to send Ms. Kirschke a collection letter….
+In my view, given the conversation that Ms. Kirschke had with the CRA representative who assured her that her income tax and HST accounts were linked with her profile, it was reasonable for her to have assumed that, once she updated her address with CRA, that update would apply to all accounts linked to her profile. Indeed, it was because of her income tax filings (reporting GBI) that the CRA determined that it was appropriate to investigate her HST returns. In other words, it was her income tax account—which had the new address—that sparked CRA's interest in her HST account.
+[15] In Pour Afkari v The Queen, 2019 TCC 173, the Court considered an application for an extension of time to object in respect of the same Rebate in issue in this case. In Pour Afkari, the notice of assessment was sent to the rebate property. However, by this time the property was being rented to a third party who did not forward the notice to the applicant promptly. The applicant argued that the notice ought to have been sent to the address the applicant was using for income tax purposes. The Court concluded that the notice had been sent to the correct address, stating the following at paragraph 24: “The notice of assessment was sent to the Rebate Property, which was the address checked off as the mailing address on the rebate application form. That should be sufficient to establish that the notice was sent to the correct address.” I note, however, that it appears that the applicant was already residing at a different address when the Rebate application was submitted, and that the reason why address of the Rebate property was indicated as the mailing address on the Rebate application was due to some kind of inattentiveness on the part of the applicant when instructing her accountant and reviewing the application.
+[16] Ram v The King, 2025 TCC 49, is another decision addressing the Rebate in issue in this case. Here the appellant argued that the notice of assessment was sent to the wrong address, and that by the time the CRA sent the notice of reassessment to the correct address the relevant limitation period had expired. Again, a notice of assessment was sent to the address of the Rebate property, which was also the mailing address indicated on the Rebate application. The appellant claimed that she did not receive the notice because she had sold the Rebate property by the time the CRA purported to have sent the notice, and only learned of the notice when she was contacted by the CRA’s Collections Division. The Court held that the notice of assessment was sent to the correct address and that, accordingly, the assessment was not statute-barred. The Court stated at paragraph 114 that “[r]ecognizing that the ITA and ETA are separate statutes, it was reasonable here for the CRA, when mailing the notice of assessment, to not use the appellant’s mailing address associated with her social insurance number for the purposes of the ITA.” The Court also noted that the use of a different mailing address on a Rebate application would raise a red flag, and that the occupancy requirement in subsection 254(2) of the ETA further supports the reasonableness of expecting the address of the Rebate property to be the claimant’s mailing address, unless stated otherwise on the application. The Court distinguished Kirschke on the basis that, in Ram, there were no circumstances that would make it reasonable for the appellant to believe that her address for purposes of the ITA was linked to the address to be used by the CRA for purposes of the Rebate. The Court noted that its finding was also based on factual findings made in respect of a different issue earlier in the judgment.
+[17] In Newell v The Queen, 2010 TCC 196, one of the matters considered was whether the appellant’s income tax assessments for 2001 and 2002 should be allowed on the basis that the appellant did not receive the relevant notices of assessment. The Court at paragraph 47 states:
+The Appellant himself could not remember who he called. He did not talk to the auditor. He talked to someone with respect to the G.S.T. audit but not about the income tax matter. These were two separate matters and a proper change of address notification would have to be given to both. The Court is satisfied that if he gave notice to anyone, it was with respect to the G.S.T. audit.
+[18] The evidence of the respondent, which was accepted by the Court, indicates that a change of address had to be made by filling out a form, and that the form used was for GST, not for income tax. There was also evidence that the appellant was in contact with a CRA employee during the CRA’s income tax audit but had not informed her of his change of address. I also note that in Newell the taxpayer purported to have undertaken a “commercial activity” for GST purposes such that he was entitled to input tax credits. Further, I note that the Court in Kirschke stated that the Court in Newell did not find persuasive the taxpayer’s evidence that he gave the CRA notice of his change of address, and also commented that Newell was decided under the Informal Procedure Rules.
+[19] Finally, I note Zaugg v The King, 2025 TCC 82. In this case the applicant was requesting an extension of time to file an objection in respect of the disability tax credit governed by the ITA, rather than in respect of an assessment under the ETA. However, Zaugg does address the situation where an application — this time for the disability tax credit (Form T2201) — indicated one address, but where the applicant had moved to a different residence by the time a notice of assessment (here, a notice of determination) was sent. The address of the new residence was the one on file with the CRA for income tax purposes. The applicant eventually received the notice of determination in his electronic inbox. The Court found in favour of the applicant. Acknowledging that Zaugg is not directly relevant here as the disability tax credit is governed by the ITA, I wish to highlight the following passage from paragraph 25 of that decision:
+The respondent argued that for purposes of the Notice of Determination, the address properly on file was the Brantford Address since it was the address used as the mailing address on the T2201 form. I accept that taxpayers have an obligation to keep the CRA up to date with their mailing address; however, there was nothing on the face of the T2201 form entered into evidence indicating how an individual could update their mailing address specifically for disability-tax-credit purposes. It seems that an individual would need to update their general mailing address with the CRA.
+[20] The Court in Zaugg also distinguished Pour Afkari on the basis that the applicant in that case continued to own the Rebate property.[2]
+[21] In reviewing this jurisprudence, I note that the question upon which I am providing observations is relatively narrow: when, if ever, should a notification to the CRA of a change of address for income tax purposes, sent after a Rebate application was filed, be considered to be a valid notification to the CRA of a change of address for purposes of a notice of assessment relating to the Rebate? I immediately distinguish Pour Afkari on the basis that the change of address had already occurred by the time the application for the Rebate had been submitted. What of the remaining jurisprudence?
+[22] In Kirschke, as stated above, this Court asks what is reasonable from the perspective of the taxpayer: “given the conversation that Ms. Kirschke had with the CRA representative who assured her that her income tax and HST accounts were linked with her profile, it was reasonable for her to have assumed that, once she updated her address with CRA, that update would apply to all accounts linked to her profile.” (Kirschke, supra, at paragraph 33.)
+[23] I note that, in effect, Newell and Ram also use this type of approach without stating so explicitly. In Newell (which deals with the opposite situation, where the taxpayer updated his address for GST but not for income tax), the Court notes that the taxpayer was already aware that the CRA was auditing him for income tax purposes and, one can infer, was aware that the CRA GST and income tax teams were different. The Court notes that the taxpayer could have notified the income tax auditor that his address had changed, but did not do so. Furthermore, the GST matters related to a potential business and potential input tax credits, and therefore the taxpayer could be presumed to be aware of the entirely different statutory contexts of the GST and income tax systems. Without stating so explicitly, the Court could be viewed as concluding that it was not reasonable for a taxpayer in Mr. Newell’s circumstances to assume that a notification of a change of address for GST purposes would be acceptable for income tax purposes.
+[24] In Ram, which I note addresses the assessment limitation period rather than a request for an extension of time to object, and was decided (in respect of this point) in the absence of appropriate pleadings and evidence, the Court explicitly references the reasonableness test from Kirschke, stating that “[u]nlike in Kirschke, there are no circumstances here that would make it reasonable for the appellant to believe that her address for purposes of the ITA was linked to the address to be used by the CRA for the purposes of the GST/HST new housing rebate”. (Ram, supra, at paragraph 116.) I would distinguish the outcome in Ram — namely the holding of the Court that the notice of assessment was indeed sent to the correct address — as Ram does not deal with a notification of a change of address that took place after the application for the Rebate was filed; rather, the Rebate property was stated by the appellant to have been purchased as an investment property and therefore the Rebate property address was never the appropriate address, which is perhaps more similar to the issue in Pour Afkari than the issue in Kirschke.
+[25] The Court in Ram notes that the ITA and the ETA are separate statutes, and reminds us that “an individual who carries on a business as a sole proprietor may file income tax returns and receive notices from the CRA under the ITA at a personal residential address but, at the same time, use a different business address to file returns and receive notices under the ETA.” In my view this type of circumstance is precisely the type of circumstance that a Court might consider taking into account when evaluating the reasonableness of a taxpayer’s method of notifying the CRA of a change of address. For example, a Court may find that it is reasonable to expect that a taxpayer who already has regular contact with the CRA’s GST/HST infrastructure through filings that indicate a particular address that is different from that taxpayer’s income tax address would notify the CRA of a change of the GST/HST address rather than a change of the income tax address.
+[26] Accordingly, below I list some factors that this Court might consider in determining whether a change of address for income tax purposes is sufficient notice to the CRA of a change of address for GST/HST purposes, including and especially for purposes of the Rebate:
+(a) Had the applicant ever previously been a registrant for GST/HST purposes? It might not be reasonable to expect an applicant who had never been a registrant to be familiar with the GST/HST filing process and infrastructure.
+(b) Did the applicant have any knowledge that their Rebate or filing position was being audited? An applicant who had already received some kind of communication from a GST/HST auditor might be expected, depending on the circumstances of the communication, to have some knowledge that the CRA’s GST/HST arm communicates separately with taxpayers, as was the case in Newell.
+(c) Is the matter in issue a one-time event? For example, as a Rebate relates to residential property, it is often unrelated to any business activities that could require independent registration or filings that would otherwise provide a Rebate applicant with some kind of notice that a change of address would need to be made with a different part of the CRA or in a manner different from filing an income tax return. Recalling Zaugg, the Form does not provide any instructions regarding a change of address, or highlight the fact that the Rebate is processed and audited in a manner independent from any income tax processing. In those circumstances it might not be reasonable to expect a taxpayer/applicant to specifically notify the CRA’s GST/HST arm of a change of address.
+(d) Did the taxpayer/applicant have any communications with the CRA that would have suggested that a change of address for income tax purposes would suffice (or not) for GST/HST purposes, as was the case in Kirschke? In those circumstances it might be reasonable to expect that the taxpayer/applicant would have been guided by those communications.
+[27] I also note that it is often the case that an applicant discovers the existence of a notice of assessment because the applicant has been contacted by the CRA’s Collections Division, suggesting that it may be possible for the CRA to locate a taxpayer/applicant notwithstanding that that individual had not notified the CRA of a change of address explicitly for GST/HST purposes.
+[28] Finally, I note that the topic being discussed here is the access of applicants/taxpayers to the Court, rather than the substantive merits of an appeal, and that a generous interpretation of the ETA should be appropriate in this context to the extent possible. In addition, given the presumption that facts assumed by the Respondent are correct in the absence of evidence, on a balance of probabilities, to the contrary, generally the Respondent should not suffer any material adverse effect as a result of a delay by an appellant in filing a notice of objection.
+[29] Nevertheless, for the reasons set out above, this application is quashed, without costs.
+[30] I note that these written reasons have also been delivered orally; in case of a conflict between the oral reasons and the written reasons, the written reasons shall govern.
+Signed this 4th day of November 2025.
+“Lara Friedlander”
+Friedlander J.
+CITATION:
+2025 TCC 164
+COURT FILE NO.:
+2024-2385(GST)APP
+STYLE OF CAUSE:
+FRANK AKWABOAH AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 15, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lara Friedlander
+DATE OF JUDGMENT:
+November 4, 2025
+APPEARANCES:
+Agent for the Applicant:
+Odoi Yemoh
+Counsel for the Respondent:
+Randy Ramoodit
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] I note that the Respondent stated that both affidavits were filed with the Court. However, the Smith Affidavit was not in the Court file. The Appellant also stated that he had not received the Smith Affidavit. Subsection 30(7) of the Canada Evidence Act provides that “[u]nless the court orders otherwise, no record or affidavit shall be admitted in evidence under this section unless the party producing the record or affidavit has, at least seven days before its production, given notice of his intention to produce it to each other party to the legal proceeding and has, within five days after receiving any notice in that behalf given by any such party, produced it for inspection by that party”. Subsection 30(9) of that same Act provides that, subject to certain exceptions, any person who has or may reasonably be expected to have knowledge of the making or contents of any record produced or received in evidence under this section may, with leave of the court, be examined or cross-examined thereon by any party to the legal proceeding”. Neither of the affiants were present in court or otherwise available for cross-examination on the day of trial. The Applicant chose to proceed with the application nevertheless and both Affidavits were admitted into evidence.
+[2] I further note that the Court in Brando v The Queen, 2013 TCC 223 states at paragraph 11 that “CRA does not have a duty to ascertain if someone has changed their address”, but I also note that in that case there was no evidence that the Applicant had changed her address with the CRA for any purpose, including income tax purposes.

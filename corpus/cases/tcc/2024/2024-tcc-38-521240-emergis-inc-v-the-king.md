@@ -1,0 +1,220 @@
+---
+title: "Emergis Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521240/index.do"
+last_modified: "2024-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 38"
+citation2: ""
+neutral_citation: "2024 TCC 38"
+decision_date: "2024-03-18"
+language: "en"
+item_id: "521240"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5744
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:21:37.668000+00:00"
+cases_cited_count: 28
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf48e54a32dacfe1712158d806adcf5d841bd6fff1221f3329df4be8abf4d15c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Emergis Inc. v. The King
+
+- Citation: 2024 TCC 38
+- Decision date: 2024-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5744, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emergis Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-03-18
+Neutral citation
+2024 TCC 38
+File numbers
+2017-1901(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1901(IT)G
+BETWEEN:
+EMERGIS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion for costs made by the Appellant pursuant to sections 69 and 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+Before: The Honourable Justice Guy R. Smith
+Appearances/Participants:
+Counsel for the Appellant:
+David R. Davies
+Ian J. Gamble
+Counsel for the Respondent:
+Christa Akey
+Sara Fairbridge
+ORDER
+In accordance with the attached Reasons for Order, the Court orders that the Appellant is entitled to lump sum costs, fixed in the amount of $65,086 plus the costs of this motion fixed at $6,000, for a total of $71,086, plus applicable taxes.
+Signed at Ottawa, Ontario, this 18th day of March 2024.
+“Guy Smith”
+Smith J.
+Citation:2024 TCC 38
+Date:20240318
+Docket: 2017-1901(IT)G
+BETWEEN:
+EMERGIS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Smith J.
+I. Overview
+[1] This matter involves a motion made by the Appellant for costs in this appeal to be determined as a lump sum in lieu of or in addition to any taxed costs pursuant to section 147 of the Rules of the Tax Court of Canada (General Procedure).
+[2] The appeal from reassessments made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “Act”) for the Appellant’s 2000 and 2001 taxation years was dismissed with costs in favour of the Respondent on March 19, 2021 (2021 TCC 23). The trial judge retired in December 2022.
+[3] On April 13, 2023, the Federal Court of Appeal (“FCA”) set aside the decision of this Court with costs in favour of the Appellant (2023 FCA 78) (the “FCA decision”). The matter is thus once again before this Court but solely for the determination of costs based on written representations.
+[4] By way of background, the Appellant had implemented a structure (known as a “tower structure”) to acquire a US corporation and the funding for that acquisition involved a series of steps including a loan from the Appellant to a US affiliate.
+[5] The Appellant received and included in income the interest paid on its loan by the US affiliate and “claimed a deduction under subsection 20(12) of the withholding taxes paid to the US Government on this interest” (para. 7, FCA decision).
+[6] As summarized by the FCA (paras. 9 and 11), the issue was whether the US withholding taxes paid by the Appellant were deductible in computing its income or whether the exception set out in subsection 20(12) was applicable.
+[7] The exception set out in subsection 20(12) of the Act excluded any tax that could “reasonably be regarded as having been paid by a corporation in respect of income from a share of the capital stock of a foreign affiliate of the corporation.”
+The Tax Court had concluded that the exception applied but the FCA determined that it did not and allowed the appeal with costs.
+II. The Law and General Principles
+[8] In General Electric Capital Canada Inc., v. Canada, 2010 TCC 490, Justice Hogan explained that “the purpose of section 147 of the Rules [is] to give a judge the discretion to move away from the Tariff in order to provide fair and reasonable relief in the circumstances - with or without reference to Schedule II, Tariff B” (para. 28).
+[9] Justice Hogan referred to Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc., 2002 FCA 417 (para. 10), where Justice Rothstein had indicated that the Court should be satisfied, having regard to the factors set out in subsection 147(3), that there are adequate reasons for departing from Tariff.
+[10] In CIBC World Markets Inc. v. The Queen, 2019 TCC 201, Justice Bocock indicated that he was not inclined to depart from Tariff since it “exists as a default compensatory measure” (paras. 23-24). He awarded costs equal to double the Tariff, given the “novel nature of the issue owing to the lack of jurisprudence.”
+[11] In the recent decision of Nixon v. The King, 2024 TCC 4, Justice MacPhee noted that “section 147 of the Rules gives the Court broad discretion in awarding costs” and that subsection 147(3) “provides a non-exhaustive list of factors for the Court to consider in exercising its discretionary power to award costs beyond the Tariff amounts” (para. 5).
+[12] Justice MacPhee then turned to the decision of Hillcore Financial Corporation v. The King, 2023 TCC 144, where Justice Lafleur had provided the following summary of the general principles on costs:
+8. The general rule is that costs should be “compensatory and contributory” and “not punitive” (see Grenon v. The Queen, 2021 TCC 89, at para 12). Further, an award of costs is generally not intended to fully compensate the actual costs incurred by a party (see Velcro Canada Inc. v. The Queen, 2012 TCC 273, [Velcro], at para 29).
+9. …
+10. The broad discretion of the Court to award costs should not be exercised in an arbitrary manner but must be exercised on a principled basis; further, the quantum of costs must be reasonable and also determined on a principled basis (The Queen v. Lau, 2004 FCA 10, at para 5; The Queen v. Landry, 2010 FCA 135, at paras 22 and 54; Guibord v. Canada, 2011 FCA 346, at para 10 The King v. Bowker, 2023 FCA 133, at para 32).
+11. Subsection 147(3) of the Rules provides a list of factors the Court should consider in exercising its discretion to award costs pursuant to subsection 147(1) of the Rules. However, none of the factors listed in subsection 147(3) of the Rules are determinative and as such, the Court should consider all relevant factors in exercising its discretion (Velcro, supra , at paras 12-13). As indicated by this Court in Velcro, the Tariff is “... a reference point only should the Court wish to rely upon it” (at para 8).
+12. The relevant parts of the Rules read as follows:
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+…
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i)improper, vexatious, or unnecessary, or
+(ii)taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+…
+14. This Court is not limited to applying the Tariff. Subsection 147(4) of the Rules provides that the Court “... may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs”.
+15. The case law has held that “...increased costs beyond the Tariff are not tied to exceptional circumstances, such as misconduct, malfeasance or undue delay” (see Duffy v. The Queen, 2020 TCC 135 [ Duffy ], at para 21; Daishowa-Marubeni International Ltd v. The Queen, 2013 TCC 275, at para 4; Ford Motor, supra , at para 7). Indeed, recent case law held that a greater recognition of the work involved in tax litigation should be a factor to consider in awarding costs (see Duffy, supra, at para 21; Blackburn Radio Inc. v. the Queen, 2013 TCC 98, at paras 14-15; Invesco Canada Ltd v. The Queen, 2015 TCC 92, at paras 17 and 25; Spruce Credit Union v. The Queen, 2014 TCC 42, at para 52; Univar Holdco Canada ULC v. The Queen, 2020 TCC 15, at
+[13] A proper approach to the determination of costs involves a review of the various applicable factors in section 147(3). If the Court finds there are adequate reasons for departing from Tariff, it must then determine whether costs should be awarded at the lower or upper range established by case law. See Canada v. Bowker, 2023 FCA 133 (“Bowker”)
+[14] In Zeller Estate v. the Queen, 2009 TCC 135 (“Zeller Estate”), Justice D. Campbell had quoted the 2008 edition of Mark Orkin’s The Law of Costs, (2nd Ed.), Vol. 1 (Aurora: Canada Law Book, 2008) in support of the proposition that “[t]raditionally the degree of indemnification represented by partial indemnity costs has varied between 50% and 75% of solicitor and client or substantial indemnity costs” (para. 9).
+[15] That assertion was repeated in later decisions including Ford Motor Company Limited v. The Queen, 2015 TCC 185 (para. 7) (“Ford Motor”) and Dickie v. The Queen, 2012 TCC 327 (paras. 2 and 27) (“Dickie”). The FCA Appeal affirmed Dickie, noting that the trial judge had properly exercised his discretion in awarding costs of 50%, having reviewed the factors set out in subsection 147(3) (2014 FCA 40, para. 6).
+[16] In the more recent decision of Fareed Ahamed TFSA v. The King, 2023 TCC 177, Justice Spiro reviewed a number of decisions going as far back as 2010 (not including Zeller Estate, Ford Motor or Dickie) concluding that the range for an award of costs could be as low as 20% with a mid-range of 35-50%.
+[17] In particular, there was no suggestion that the range should be 50% - 75% of solicitor-client costs. This is not surprising. As noted by the FCA in Bowker, “there is no consensus in the field as to the breadth of the range, particularly at the upper end” (para. 19).
+[18] It may thus be concluded that an award of costs in the range of 50% - 75% is not the norm in this Court and that such an award should be reserved for exceptional circumstances, taking into consideration the fact that “substantial indemnity costs” are defined in subsection 147(3.5) of the Rules as “80% of solicitor-client costs.”
+[19] In the end, the determination of costs is always discretionary.
+III. Position of the Appellant
+[20] The Appellant acknowledges that the trial lasted only one day but claims that the issue was complicated. It is argued that this “complexity” was evidenced by the differing analysis and result reached by this Court and the FCA on the correct interpretation of subsection 20(12) of the Act.
+[21] The Appellant submits that a lump sum award of $274,073 (plus applicable taxes) is warranted and appropriate. This would reflect 75% of a counsel fee of $325,431, as more fully described in the bill of costs, plus 100% of a counsel fee of $30,000 for the preparation of the costs submissions in this motion.
+[22] The Appellant states that the range of partial indemnity cost awards in this Court is between 50% and 75% of solicitor-client costs or substantial indemnity costs. The Appellant argues that it should be entitled to 75% of its counsel fee based on its review of the factors set out in subsection 147(3) of the Rules.
+IV. Position of the Respondent
+[23] The Respondent claims that the Appellant’s range of partial-indemnity costs of between 50-75% of solicitor-client costs is an error and that this range is empirically not a “usual”, “general” or “traditional” range for party-party costs.
+[24] The Respondent also adds that it is improper to identify a numerical range for an award of costs and then to calibrate that amount by reviewing the factors set out in subsection 147(3), as indicated by the FCA in Bowker.
+[25] The Respondent argues that that a proper award of costs would be along the lines of CIBC World Markets, supra, because it similarly involved a streamlined litigation process leading to a one-day hearing that addressed a single legal issue. The Court awarded costs equal to Tariff plus $6,000 or approximately double the Tariff for a one-day hearing.
+[26] The Respondent argues that an award of costs at double the Tariff of $4,800 or $9,600 would be an appropriate award of costs in this appeal.
+[27] The Respondent also argues that the Appellant’s claim for 100% of its costs associated with this motion is “excessive” and “not justifiable”. The Respondent argues that each party should assume their own costs, but that if costs are awarded to the Appellant, they should be offset against the costs payable to the Appellant in the underlying appeal. In the alternative, if costs are awarded to the Appellant for the motion, the Respondent requests an opportunity to make additional submissions since the Minister presented an offer to settle costs on September 27, 2023.
+V. Analysis
+[28] The Court now turns to a review of the applicable factors.
+[29] 147(3)(a) - Result of the proceedings: The parties both agree that the Appellant was entirely successful in its appeal. They also agree that where a single issue determines the outcome of a proceeding, this factor stands for the principle that the successful party is entitled to costs but it does not affect the quantum.
+[30] I agree and would view this factor as neutral.
+[31] 147(3)(b) - Amount in Issue: The Appellant sought to restore its claimed deduction of approximately $8.9 million paid in US withholding taxes in 2000 and 2001. It claims that the amounts in issue were significant and justify an increased award.
+[32] The Respondent does not agree indicating that the “amount at issue” is to be considered in the context of a particular taxpayer and the transaction to which it relates. In Daishowa-Marubeni International Ltd. v. R, 2013 TCC 275, six percent of the proceeds of a major transaction was found to be minimal and costs were limited to Tariff.
+[33] In this instance, the underlying loan from the Appellant to the US affiliate was US $266,670,000 (CA $396,000,000) and the amount at issue represented approximately 2.2% of that amount. For the 2000 taxation year, the Appellant sought to deduct CA $3,808,456, representing approximately 10% of the interest payment of CA $37,876,850 from which it was withheld. A similar percentage applied for 2001.
+[34] Given the amount at issue in the context of the entire transaction, I agree with the Respondent that this factor should be given little weight.
+[35] 147(3)(c) - Importance of the Issue: The Appellant claims that the appeal involved an interpretation and application of subsection 20(12) and that this required counsel to undertake a comprehensive analysis of the entire foreign tax credit and deduction regime. The Respondent admits that the decision may have precedential value for a potentially small class of future litigants using a similar “tower structure”.
+[36] Given the precedential nature of the FCA decision, as admitted by the Respondent, I agree with the parties that this factor would justify an increase from Tariff.
+[37] 147(3)(e) - Volume of Work: The Appellant claims that it voluntarily produced all documents requested by the Respondent as the parties worked towards an agreed statement of facts and made substantial efforts in drafting and pushing forward the necessary factual record in advance of trial. This simplified the procedure, time and issues at trial. The Appellant relies on Rio Tinto Alcan Inc. v. R, 2016 TCC 258 and argues that their efforts should lead to an increased costs award.
+[38] The Respondent acknowledges that this factor is among the most important of the subsection 147(3) factors but argues that the list of documents was brief (under 30 documents), that neither party conducted examinations for discovery, that no witnesses were called including expert witnesses or reports. The trial lasted one day and the appeal turned on the interpretation of a single legislative provision. The Respondent submits that the appeal did not have the hallmarks of a high workload appeal and thus this factor should be neutral.
+[39] The Respondent adds that even if this factor should weigh in favour of the Appellant, the evidence provided is insufficient to determine the nature and extent of the services provided or if the fees were reasonable. More specifically, the Respondent argues that only the services of counsel exceeding 5% of the total time, should be considered and secondly, that time billed for work done prior to the institution of the appeal should be discounted.
+[40] On balance, I agree with the Respondent and find that this factor is neutral.
+[41] 147(3)(f) – Complexity of the Issues: The Appellant contends that applying subsection 20(12) to the so-called “tower structure” involving a web of hybrid entities was both challenging and complex.
+[42] The Appellant argues that the facts and legal issues applied to those concepts were extremely complicated and that they had to distinguish themselves from FLSmidth Ltd. v. The Queen, 2023 FCA 160 (“FLSmidth”), relied upon by the Crown as being dispositive of the issues raised in this appeal. The trial judge, and later the FCA, agreed with the Appellant, finding that while the structure and transactions implemented by the Appellant were similar, that decision was not dispositive of the appeal. The Appellant submits that this supports an increased award of costs.
+[43] The Respondent argues that the appeal involved only a single issue and that the Appellant is attempting to paint a complicated picture by arguing that the background facts were complex. The Respondent points to the agreed statement of fact and lack of factual complexity that was not the subject of evidence or argument at trial except insofar as they shaped the legal issues in dispute. The Minister believes this issue should be neutral.
+[44] On balance, I find that the complexity of the facts and the issue in the appeal weigh in favour of an increase of costs in favour of the Appellant.
+[45] 147(3)(g) – Conduct that shortened or lengthened unnecessarily the duration of the proceeding: The Appellant claims that their efforts to resolve the factual matrix through an agreed statement of facts allowed the parties to forego various litigation steps. This shortened the trial and supports an increased award of costs.
+[46] The Respondent agrees that the appeal proceeded on an expeditious basis but argues that they cooperated in the preparation of the partial agreed statement of facts. It argues that the Appellant’s approach would mark a departure from the Court’s jurisprudence and would fundamentally contradict the spirit of the Rules. The Respondent indicates that recent case law has treated subsection 143(3)(g) overwhelmingly as a tool for addressing blameworthy or discreditable behaviour but not as a tool for rewarding a party’s efficiency in the conduct of litigation.
+[47] The Respondent argues that where parties cooperate to streamline the proceedings, costs should be at or near Tariff, as discussed in Appelwood Holdings Inc. v. The Queen, 2019 TCC 34 (para. 12) and Bank of Montreal v. the Queen, 2021 TCC 3 (para. 22).
+[48] The Respondent adds that in any event, there is a lack of detail in the invoices and time entries and no clear indication of the work performed on the agreed statement of facts, such that the Court could not reasonably draw a conclusion even if the request for costs were justifiable.
+[49] I agree with the Respondent that this factor is neutral as both parties took steps to expedite the litigation process leading to a one-day hearing. A high degree of cooperation between the parties should not lead to a higher award of costs for the successful party nor a lower costs award for the unsuccessful party.
+[50] 147(3)(d), (h), (i), (i.1) and (j): The parties agree that these factors are not relevant.
+VI. Conclusion
+[51] In light of the above, the Court is inclined to depart from Tariff based on its finding that the factors described in paragraphs 147(3)(c) and (f) are engaged.
+[52] As acknowledged by the Respondent, the issue addressed by the trial Judge was important. The Appellant successfully distinguished its own facts from those in the leading decision of FLSmidth and the resulting FCA Decision has precedential value albeit for a narrow set of facts involving similar structures.
+[53] Secondly, despite the Respondent’s position that there was only “a single issue” and the matter was not “factual complexity” given the partial agreed statement of facts, the Court finds that the interpretation of subsection 20(12) and its application to the facts was such that it justifies an increased award of costs.
+[54] The Court agrees with the Respondent that an award of 75% of the Appellant’s solicitor-client costs is unjustified in view of the jurisprudence of this Court, as summarized above.
+[55] The Respondent has suggested that an award equal to double the Tariff would be appropriate for a one-day hearing without any witnesses. The Court finds that this would be inadequate given its consideration of the two factors noted above.
+[56] All things considered, the Court concludes that an award at the lower end of the scale or 20% of solicitor-client costs (plus applicable taxes) would be more appropriate. The Court finds that such an award would adequately contribute to the Appellant’s costs keeping in mind that an award of costs is not intended to fully compensate a party for costs incurred. Such an award would also be in keeping with the notion that an award is discretionary, that it need not be tied to exceptional circumstances but that it should recognize the work accomplished.
+[57] With respect to the Appellant’s request for costs of this motion fixed at $30,000, the Respondent states that it attempted to settle the issue of costs by way of an offer to settle but received no response. It has requested an opportunity to make additional submissions should the Court choose to award costs for the motion.
+[58] In the interest of finality, the Court is inclined to deal with the matter without further submissions from the Respondent. In so doing, it must consider the Appellant’s overall success in this motion. In light of that, the Court fixes the costs of the motion at $6,000 (plus applicable taxes).
+[59] The Appellant is therefore awarded lump sum costs of $65,086 plus an additional $6,000 for this motion for a total of $71,086 (plus applicable taxes).
+Signed at Ottawa, Ontario, this 18th day of March 2024.
+“Guy Smith”
+Smith J.
+CITATION:
+2024 TCC 38
+COURT FILE NO.:
+2017-1901(IT)G
+STYLE OF CAUSE:
+EMERGIS INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, BC
+DATE OF HEARING:
+October 16, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+March 18, 2024
+APPEARANCES:
+Counsel for the Appellant:
+David R. Davies
+Ian j. Gamble
+Counsel for the Respondent:
+Christa Akey
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ian J. Gamble
+David R. Davies
+Firm:
+Thorsteinssons LLP
+Vancouver, BC
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

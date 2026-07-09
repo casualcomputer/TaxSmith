@@ -1,0 +1,220 @@
+---
+title: "Sears c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29440/index.do"
+last_modified: "2009-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 344"
+citation2: ""
+neutral_citation: "2009 CCI 344"
+decision_date: "2009-07-20"
+language: "fr"
+item_id: "29440"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6931
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:43:11.811000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "41a3a270fce12e3f7c59333a961e92e0de7a349b97fbad33fb9877763f69b16a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sears c. La Reine
+
+- Citation: 2009 CCI 344
+- Decision date: 2009-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6931, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sears c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-20
+Référence neutre
+2009 CCI 344
+Numéro de dossier
+2008-2729(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2729(IT)I
+ENTRE :
+PAUL SEARS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 5 juin 2009 à Moncton (Nouveau-Brunswick).
+Devant : Le juge François Angers
+Comparutions :
+Représentant de l’appelant :
+Roger Haineault
+Avocate de l’intimée :
+Me Jill Chisholm
+__________________________________________________________________
+JUGEMENT
+L’appel interjeté contre la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté, conformément aux motifs de jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 20e jour de juillet 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+Christiane Bélanger, LL.L.
+Référence : 2009 CCI 344
+Date : 20090720
+Dossier : 2008-2729(IT)I
+ENTRE :
+PAUL SEARS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Dans un avis de nouvelle cotisation en date du 4 septembre 2007 et un avis de confirmation en date du 28 mai 2008, le ministre du Revenu national (ci‑après le ministre) a rejeté la demande de déduction pour frais de déménagement présentée par l’appelant pour l’année d’imposition 2006. Le contribuable interjette appel devant notre Cour.
+[2] Le ou vers le 1er novembre 2006, l’appelant a obtenu un emploi en Alberta par l’entremise de son syndicat. Tuyauteur et soudeur de profession, il devait se soumettre à une période d’essai d’une semaine avant de commencer son nouvel emploi.
+[3] L’appelant résidait avec son épouse et leurs enfants au 61, Waynes Way à St. John (Nouveau-Brunswick). Sa famille n’a jamais déménagé en Alberta. La maison à St. John n’a jamais été vendue et, au moment de l’audience, l’appelant était revenu de l’Alberta et habitait au 61, Wayne Way à St. John depuis février 2009.
+[4] Les frais de déménagement réclamés par l’appelant ont trait à son déplacement en Alberta amorcé le 8 novembre 2006. L’appelant n’avait pas de reçus pour ces frais, mais a soumis un relevé indiquant que, selon ses estimations, il avait engagé des frais d’essence se chiffrant entre 800 et 900 dollars, des frais de repas d’environ 30 dollars par jour pendant cinq jours et des frais de logement d’environ 100 dollars par nuit pendant quatre nuits, ainsi que cinq nuitées additionnelles pendant la période d’essai.
+[5] L’appelant a emporté avec lui tout ce qu’il est parvenu à mettre dans sa voiture : des vêtements, des outils, un four à micro-ondes, un petit réfrigérateur et un téléviseur. Une fois la période d’essai terminée, il s’est installé au camp mis sur pied par son employeur. Selon la description de l’appelant, le camp ressemblait à un motel. Chaque employé disposait de sa propre chambre, mais partageait une salle de bain avec un autre employé. Une personne pouvait avoir un four à micro-ondes dans sa chambre, mais une cuisine était à la disposition de l’ensemble des employés ainsi qu’une salle de jeux, un salon, un bar et une grande salle de télévision. D’après l’appelant, le camp ressemblait à un petit village.
+[6] L’appelant a également témoigné que, tous les deux week-ends, quand il était en congé, il séjournait chez des parents qui avaient un appartement au 82 Street à Edmonton. Il ne payait pas de loyer pendant ces séjours. Sur le formulaire T‑1M(06) joint à sa déclaration de revenus de 2006, l’appelant a fourni l’adresse de ces parents à titre de nouvelle adresse domiciliaire à Edmonton (Alberta).
+[7] Après sept mois de travail dans son nouvel emploi, l’appelant est rentré à St. John pendant une période de congé. Durant son séjour à St. John, deux employeurs distincts l’ont embauché et il a touché environ 22 000 dollars. Il a qualifié son séjour de vacances-travail. Il est retourné en Alberta à l’automne de 2007 et s’est installé au camp de l’employeur. Il a quitté ce camp en janvier 2008 après avoir loué un appartement. Son épouse lui rendait visite de temps à autre, mais elle n’est jamais allée habiter en Alberta, à part un séjour de trois mois à l’été de 2008. L’appelant est rentré à St. John (Nouveau-Brunswick) en février 2009 et y demeure depuis, à la même adresse qu’auparavant.
+[8] Pendant qu’il était en Alberta, l’appelant n’a pas demandé de permis de conduire de l’Alberta et ne s’est pas inscrit au régime d’assurance-maladie de la province. Il s’est toutefois acheté un véhicule motorisé en Alberta, et l’a fait immatriculer et assurer en Alberta. Il n’a pas ouvert de compte bancaire et ne s’est pas doté d’une adresse postale dans la province. Il a soumis ses déclarations de revenus pour 2006, 2007 et 2008 à titre de résident du Nouveau-Brunswick et a utilisé son adresse à St. John (Nouveau-Brunswick). Tous les T4 reçus des divers employeurs de l’appelant pour les années d’imposition 2006, 2007 et 2008 contiennent son adresse à St. John (Nouveau-Brunswick).
+[9] En l’espèce, il s’agit de décider si l’appelant a le droit de demander une déduction pour frais de déménagement pour l’année d’imposition 2006. Autrement dit : l’appelant résidait-il habituellement à St. John (Nouveau-Brunswick) tout au long de l’année d’imposition 2006?
+[10] Un contribuable peut déduire les frais de déménagement qu’il a engagés relativement à une réinstallation admissible. Le paragraphe 62(1) de la Loi de l’impôt sur le revenu (ci-après la Loi) expose les conditions régissant la déduction de ces frais; quant au terme « réinstallation admissible », il est défini au paragraphe 248(1) de la Loi. Voici le paragraphe 62(1) et la définition de « réinstallation admissible » :
+62(1) Frais de déménagement — Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous-alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l’année par l’effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+248(1) « réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+(ii) soit de fréquenter, comme étudiant à temps plein inscrit à un programme de niveau postsecondaire, un établissement d’une université, d’un collège ou d’un autre établissement d’enseignement (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe);
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe) sont toutes deux situées au Canada;
+c) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+Toutefois pour l’application des paragraphes 6(19) à (23) et de l’article 62 à la réinstallation d’un contribuable qui est absent du Canada mais y réside, il n’est pas tenu compte des mots « au Canada » au sous-alinéa a)(i) de la présente définition ni de son alinéa b).
+[11] Voici la définition de « frais de déménagement » au paragraphe 62(3) de la Loi :
+62(3) Définition de « frais de déménagement » — Pour l’application du paragraphe (1), sont comprises dans les frais de déménagement toutes dépenses engagées au titre :
+a) des frais de déplacement (y compris les dépenses raisonnables pour repas et logement) engagés pour le déménagement du contribuable et des membres de sa maisonnée qui se transportent de l’ancienne résidence à la nouvelle résidence;
+b) des frais de transport et d’entreposage des meubles du contribuable qui doivent être transportés de son ancienne résidence à sa nouvelle résidence;
+c) des frais de repas et de logement, près de l’ancienne résidence ou de la nouvelle résidence, engagés par le contribuable et les membres de sa maisonnée pendant une période maximale de 15 jours;
+d) des frais de résiliation du bail en vertu duquel il était le locataire de son ancienne résidence;
+e) des frais relatifs à la vente de son ancienne résidence;
+f) lorsque le contribuable ou son époux ou conjoint de fait vend l’ancienne résidence par suite du déménagement, des frais, pour le contribuable, à l’égard des services juridiques relatifs à l’achat de la nouvelle résidence et des impôts, frais, droits et taxes (sauf toute taxe sur les produits et services ou taxe à la valeur ajoutée) applicables au transfert ou à l’enregistrement du droit de propriété de cette résidence;
+g) des intérêts, impôts fonciers, primes d’assurance et coûts du chauffage et des services publics relativement à l’ancienne résidence, jusqu’à concurrence de 5 000 $ ou, s’il est moins élevé, du total des dépenses de cette nature engagées par le contribuable pour la période, à la fois :
+(i) tout au long de laquelle l’ancienne résidence n’est ni ordinairement occupée par le contribuable ou par une autre personne qui y résidait habituellement avec lui immédiatement avant le déménagement, ni louée par le contribuable à une autre personne,
+(ii) au cours de laquelle des efforts sérieux sont faits en vue de vendre l’ancienne résidence;
+h) du coût de la révision de documents juridiques pour tenir compte de l’adresse de la nouvelle résidence du contribuable, du remplacement des permis de conduire et des certificats d’immatriculation de véhicules non commerciaux (à l’exclusion du coût de l’assurance-véhicule) et des connexion et déconnexion des services publics;
+il est toutefois entendu que le terme ne vise pas les frais (autres que les frais visés à l’alinéa f)) engagés par le contribuable pour l’acquisition de sa nouvelle résidence.
+[12] Les deux parties ont soumis leurs listes de jurisprudence et de doctrine qui relèvent les facteurs pertinents que les tribunaux ont pris en considération au fil des ans relativement à la notion de « résident habituel », et elles ont présenté leurs observations sur la façon dont chacun de ces facteurs appuie leurs positions respectives. Toutefois, le fait demeure que chaque cause doit être examinée à la lumière des faits qui lui sont propres, en soupesant tous les facteurs pertinents. D’après cette jurisprudence, il semble que la notion de « résident habituel » commande d’examiner la vie de tous les jours du contribuable dans le nouvel emplacement (voir Calvano c. La Reine, 2004 CCI 227). J’ai tiré de cette jurisprudence les facteurs pertinents qui ont été pris en considération; aucun de ces facteurs n’est nécessairement décisif à lui seul :
+- la durée du séjour (selon que les liens avec l’ancien emplacement (l’ancienne résidence) aient été coupés ou non);
+- le logement;
+- les liens communautaires maintenus ou coupés;
+- les liens sociaux et économiques;
+- le transfert du courrier;
+- le permis de conduire;
+- les cartes des régimes d’assurance-maladie;
+- l’immatriculation du véhicule;
+- la famille du contribuable;
+- le contribuable a-t-il laissé derrière des liens d’affection importants?
+- le contribuable a-t-il emporté avec lui ses biens importants?
+- l’endroit où le contribuable a mangé, dormi et vécu durant la période en question.
+[13] Cela étant dit, j’estime également qu’il est utile de citer des passages de certaines décisions où la déductibilité des frais de déménagement était en cause. Dans Rennie v. M.N.R., 1989 CarswellNat 438, [1990] 1 C.T.C. 2141, le juge en chef adjoint Christie (tel était alors son titre) a mis l’accent sur l’expression [Traduction] « résidait ordinairement » et a dit ce qui suit aux paragraphes 11 à 13 :
+[Traduction]
+11. Je ne crois pas que le principe selon lequel une personne peut avoir plus d’une résidence puisse s’appliquer à l’interprétation des dispositions de l’article 62 précitées, telle que mise de l’avant par l’appelant. Ces dispositions sont liées entre elles et constituent un cadre qui autorise les personnes visées par ce cadre de déduire leurs frais de déménagement. Ce n’est pas le mot « résidence » qui est déterminant, mais l’expression « résidait ordinairement ». Voici les facteurs qui donnent droit à la déductibilité : commencer un emploi à un endroit au Canada qui oblige le contribuable à déménager de l’endroit au Canada où il résidait ordinairement à un endroit au Canada où il a résidé ordinairement après le déménagement. Il faut que le déménagement se fasse sur une distance d’au moins 40 kilomètres. De plus, sous réserve de certaines restrictions précises, le contribuable peut déduire des montants engagés au titre des frais de déménagement dans le calcul de son revenu pour l’année au cours de laquelle il a déménagé ou pour l’année d’imposition qui suit immédiatement.
+12 Dans l’arrêt Thomson v. Minister of National Revenue, [1964] R.C.S. 209, [1946] C.T.C. 51, 2 DTC 812 (S.C.C.), la cour s’est penchée sur le sens de l’expression « résident habituel » à l’alinéa 9a) de la Loi de l’impôt de guerre sur le revenue. Le juge Estey a affirmé à la page 70 (D.T.C. 813) :
+D'après le dictionnaire et d'après l'interprétation que les tribunaux donnent de ces termes, un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d'une manière régulière, normale ou habituelle.
+Le juge Rand a affirmé à la page 64 (D.T.C. 815) :
+L’expression « résident habituel » a un sens restrictif et, alors qu’à première vue elle suppose une prépondérance dans le temps, la jurisprudence relative à la loi anglaise a rejeté ce point de vue. On a jugé qu’il s’agit de résidence selon le mode habituel de vie de l'intéressé, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode de vie général.
+En 1984, l’endroit où, dans la vie de tous les jours de l’appelant, il habitait habituellement était Victoria. Il s’agissait de sa résidence habituelle à l’époque. Il avait déménagé de Montréal trois ans plus tôt et, à part une ou quelques visites à Montréal — le nombre ou la durée de ces visites n’ont pas été précisés dans la présentation de la preuve — son domicile était à Edmonton ou à Victoria. Il n’y a aucun élément de preuve attestant que l’appelant ait été à Montréal du tout en 1984. Tout cela établit clairement que, cette année-là, l’appelant résidait ordinairement à Victoria.
+13. Bien qu'il existe des jugements à l'appui de la proposition voulant qu'une personne puisse avoir plusieurs résidences (bien qu'un seul domicile) pour certaines fins, je ne connais aucun jugement où il a été décidé qu'une personne peut résider habituellement à deux endroits en même temps. En outre, cette possibilité n'est aucunement sous-entendue à l'article 62 aux fins de la déduction des frais de déménagement. En fait, ce que cette disposition vise surtout, c'est le cas d'un contribuable qui commence à travailler et qui, en raison de son emploi, déménage à une distance minimale prescrite et doit alors quitter la résidence habituelle qu'il avait à ce moment-là pour habiter une nouvelle résidence habituelle entièrement différente. Or telle n’était pas la situation de l’appelant en 1984.
+[Non souligné dans l’original.]
+[14] Par contre, dans Cavalier c. La Reine, [2002] 1 C.T.C. 2001, le juge Bowie a autorisé l’appelant à déduire les frais de déménagement engagés pour s’installer dans une résidence temporaire et pour en repartir, dans le cadre d’un contrat d’emploi de quatre mois. Après avoir cité Rennie et une autre décision de notre Cour, soit Hippola c. La Reine, [2002] 1 C.T.C. 2156, il a conclu au paragraphe 22 :
+Je conclus de ces jugements que, pour être considéré comme un résident habituel, un contribuable n'a pas à avoir eu l'intention de rester au nouveau lieu de résidence en permanence ou pour une période d'une durée particulière. Il n'a pas non plus à avoir déménagé tous ses meubles ou à avoir été accompagné par les membres de sa famille immédiate.
+[15] Dans Calvano c. La Reine, 2004 CCI 227, [2003] T.C.J. no 785 (QL), le juge Miller a examiné certains des précédents aux paragraphes 21, 22, 23 et 24 avant d’arriver à sa conclusion au paragraphe 25 :
+21. Le point de départ de tout examen de l'expression « résidait habituellement » est l'arrêt Thomson v. M.N.R. de la Cour suprême du Canada et, en particulier, la remarque suivante que le juge Estey a faite, laquelle figure aux pages 231 et 232 :
+[TRADUCTION]
+D'après le dictionnaire et d'après l'interprétation que les tribunaux donnent de ces termes, un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d'une manière régulière, normale ou habituelle. On « séjourne » à un endroit que l'on visite ou dans un lieu où l'on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c'est le caractère permanent qui prédomine, et dans le second, le caractère temporaire. La différence ne peut être exprimée d'une manière claire et nette, chaque cas devant être évalué compte tenu de tous les facteurs pertinents, mais ce qui précède indique d'une façon générale la différence essentielle.
+22. L'examen des décisions montre clairement que le juge Estey avait absolument raison et que chaque affaire peut uniquement être tranchée après que tous les facteurs pertinents ont été examinés. [...]
+23. [...] L'intention d'habiter une résidence temporairement ou en permanence ne permet pas de déterminer si la résidence constitue une résidence où le contribuable « réside habituellement » . Le simple fait qu'une personne décide de vivre quelque part temporairement ne veut pas nécessairement dire qu'elle ne peut pas y résider habituellement. D'autre part, une personne peut habituellement résider dans une résidence sur une base temporaire. La notion de « résident habituel » se rapporte davantage à la vie de tous les jours qu'au caractère permanent de la situation.
+24. Je souscris à la conclusion suivante que le juge Bowie a tirée dans la décision Cavalier c. Canada, au paragraphe 22 :
+Je conclus de ces jugements que, pour être considéré comme un résident habituel, un contribuable n'a pas à avoir eu l'intention de rester au nouveau lieu de résidence en permanence ou pour une période d'une durée particulière. [...]
+Ceci dit, la durée du séjour à Coquitlam est l'un d'un certain nombre de facteurs à prendre en considération lorsqu'il s'agit de déterminer si M. Calvano résidait habituellement à Coquitlam.
+25. Les autres facteurs pertinents sur lesquels je me fonde en décidant que M. Calvano résidait habituellement à Coquitlam sont ci-après énoncés :
+(i) Premièrement, M. Calvano, sa femme et son fils se sont installés dans cette résidence en laissant des attaches importantes en Ontario, comme l'école et le hockey pour le fils et des liens familiaux étroits dans le cas de Mme Calvano.
+(ii) Tous les effets ont été transportés, aux frais d'Army and Navy, dans la nouvelle résidence. Aucune possession importante n'a été entreposée.
+(iii) Le permis de conduire, l'assurance-maladie et les comptes bancaires ont tous été changés pour en obtenir de nouveaux en Colombie-Britannique pendant que la famille habitait cette résidence.
+(iv) Il y a clairement eu changement d'utilisation de la maison de Brampton, laquelle est passée d'une résidence principale à une propriété générant un revenu au mois de mars 1995 et laquelle a été utilisée en tant que telle et a occasionné des pertes déductibles en 1995 et en 1996.
+(v) Pendant 19 mois, c’est à cet endroit que M. Calvano et sa famille mangeaient, dormaient et vivaient; ils n'allaient en Ontario qu'occasionnellement.
+(vi) Pendant ces 19 mois, les Calvano ont commencé à se créer une vie sociale.
+(vii) La propriété elle-même a été choisie afin de répondre aux besoins précis de la famille.
+Ces facteurs donnent selon moi à entendre qu'il ne s'agissait absolument pas d'une situation passagère. Pendant plus d'un an, c'était la vie de tous les jours des Calvano.
+[16] Bien que le juge Miller ait affirmé qu’il est possible de résider habituellement à un endroit sur une base temporaire, il a également affirmé que le tribunal devait trancher une question plus importante : celle de savoir quelle était « la vie de tous les jours » dans la nouvelle résidence. Avant de conclure que l’appelant dans cette affaire résidait habituellement à Coquitlam, il a pris en considération les divers facteurs signalés ci-dessus.
+[17] Dans MacDonald c. La Reine, 2007 CCI 250, le juge Webb de notre Cour a rejeté la demande de déduction pour frais de déménagement présentée par l’appelant. Ce dernier était un tuyauteur qui avait déduit les frais de déménagement qu’il avait engagés dans son déplacement de la Nouvelle-Écosse à l’Alberta pour se trouver un emploi temporaire. Le juge Webb a cité la décision Calvano, précitée, et a affirmé ce qui suit au paragraphe 11 :
+M. MacDonald n’a pas réussi à établir qu’il avait transféré le lieu de sa résidence habituelle en 2004 de la Nouvelle-Écosse à l’Alberta. Il a conservé son permis de conduire de la Nouvelle-Écosse en 2004. Il a continué d’être couvert par le régime d’assurance-santé de la Nouvelle-Écosse. Il n’a pas emporté tout ce qui lui appartenait en Alberta (il n’a pris que ce qu’il pouvait mettre dans son camion). Sa conjointe de fait est demeurée en Nouvelle-Écosse, où il avait trois maisons qu’il a continué d’entretenir. Il n’a acheté aucune propriété en Alberta. Il n’y a pas transféré ses comptes bancaires. Il n’a pas changé son adresse postale pour une adresse en Alberta.
+[18] Le juge Webb arrive à une conclusion différente dans Persaud c. La Reine, 2007 CCI 474. Dans cette affaire, il a fait valoir que le temps passé au nouvel endroit est un facteur dont il faut tenir compte pour décider si ce particulier réside habituellement au nouvel endroit, étant donné que plus celui-ci reste longtemps au nouvel endroit, plus il est probable qu’il s’y soit établi dans sa vie de tous les jours.
+[19] Plus récemment, dans Sampson c. La Reine, 2009 CCI 204, la juge Campbell a examiné l’appel d’un soudeur de tuyaux qui avait maintenu une résidence en Nouvelle-Écosse, mais s’était déplacé à quatre reprises pour trouver du travail. Elle a conclu que l’appelant n’avait pas cessé de résider habituellement en Nouvelle-Écosse tout au long de l’année. Pour ce qui est du critère à appliquer, elle a affirmé au paragraphe 10 :
+Chaque affaire doit être tranchée en fonction de l’ensemble des faits qui lui sont propres. Ce qui peut être pertinent dans une affaire peut ne pas s’avérer l’être dans une autre. La durée du séjour, le logement, les liens qu’on entretient ou qu’on coupe avec la communauté, le transfert du courrier, les permis de conduire, les cartes santé et les immatriculations de véhicules ne sont que quelques-uns des éléments à examiner et à analyser. Bien entendu, ces éléments aident la Cour à cerner le facteur plus subjectif de l’intention du contribuable en ce qui a trait à la question de savoir si le déplacement en cause implique que le contribuable adopte une routine et un style de vie au quotidien dans son nouveau lieu de vie. À la lumière de ces considérations, il faut pouvoir conclure que la résidence du contribuable a bien changé pour que la réinstallation corresponde à la définition de « réinstallation admissible » énoncée au paragraphe 248(1) de la Loi; autrement, le contribuable ne pourra pas satisfaire aux exigences des dispositions pertinentes et déduire les frais de déménagement en cause.
+[20] Plus loin, elle a affirmé qu’à son avis le législateur, en promulguant l’article 62, avait à l’esprit les réinstallations ayant un caractère permanent, tel que l’envisage l’arrêt Thomson, précité. Elle a ajouté, aux paragraphes 16 et 17 :
+C’est ce qu’il apparaît quand on se penche sur le type de dépenses envisagées dans cette même disposition, y compris le transport de meubles, les frais de résiliation du bail ou de vente de la résidence, les frais juridiques relatifs à l’achat d’une nouvelle résidence au nouvel emplacement ainsi que le coût du changement d’adresse du résident.
+En outre, il est question de frais de repas pendant une période maximale transitoire de 15 jours. Si le législateur avait voulu qu’un contribuable puisse déduire de son revenu les dépenses engagées pour déménager du point A au point B sans beaucoup plus d’exigences, je crois que la disposition en cause aurait été formulée de manière totalement différente et qu’il ne serait pas nécessaire qu’on y fasse usage des mots « résident ordinaire ».
+[21] En gardant à l’esprit tous ces facteurs, je conclus en l’espèce que la preuve ne suffit pas à faire pencher la balance en faveur de l’appelant. Bien que la durée de son séjour en Alberta puisse favoriser l’appelant, je ne peux conclure qu’il a coupé ses liens avec son ancienne résidence. L’appelant n’a jamais cessé d’utiliser son adresse à St. John (Nouveau-Brunswick) à titre d’adresse postale. Il a soumis ses déclarations de revenus au Nouveau-Brunswick et tous ses T4 comportaient son adresse à St. John (Nouveau-Brunswick). L’adresse qu’il utilisait dans son nouvel emplacement était en fait l’adresse de parents à qui il rendait visite tous les deux week-ends, et non l’adresse de sa nouvelle résidence.
+[22] De plus, l’appelant a conservé sa carte d’assurance-maladie du Nouveau-Brunswick, ainsi que son permis de conduire et son immatriculation de véhicule du Nouveau-Brunswick, sauf pour le véhicule acheté en Alberta. Pour ce qui est du logement, l’appelant habitait dans un camp fourni par son employeur – un arrangement reposant sur la condition que l’appelant demeure à l’emploi de cet employeur. Lorsque l’appelant a quitté le Nouveau-Brunswick, il a emporté avec lui les effets personnels qu’il était possible de mettre dans une voiture, si bien qu’il est juste d’affirmer qu’il a laissé derrière lui la plupart de ses possessions importantes.
+[23] En l’espèce, l’appelant a mangé, dormi et habité en Alberta durant son séjour, mais ce facteur à lui seul ne suffit pas pour conclure qu’il résidait habituellement dans cette province. Il faut se reporter aux autres facteurs pour décider si l’appelant avait établi une routine ou une vie de tous les jours dans son nouvel emplacement. Dans l’arrêt Thomson, précité, le juge Rand de la Cour suprême du Canada a interprété l’expression [TRADUCTION] « résident habituel » comme suit :
+[traduction]
+L’expression « résident habituel » a un sens restrictif et, alors qu’à première vue elle suppose une prépondérance dans le temps, la jurisprudence relative à la loi anglaise a rejeté ce point de vue. On a jugé qu’il s’agit de résidence selon le mode habituel de vie de l'intéressé, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode de vie général.
+Dans la même décision, le juge Kellock a écrit :
+[traduction]
+Le terme « ordinarily » [habituellement] est défini comme signifiant « en conformité des règles ou des pratiques ou usages établis », « de façon habituelle », « en temps normal ou ordinaire », « couramment », « ordinairement », « comme il est normal ou habituel ».
+[24] L’interprétation avancée par le juge Miller de notre Cour dans Calvano, précitée, va dans le même sens que l’interprétation ci-dessus. La Cour doit décider si le contribuable a établi une routine ou une vie de tous les jours dans son nouvel emplacement. Cela ne peut être le cas si le contribuable n’a pas coupé ses liens sociaux et économiques avec l’ancien emplacement, ou s’il a laissé derrière lui toutes les autres facettes d’un mode de vie normal et coutumier. En l’espèce, la preuve me mène à conclure que le mode de vie de l’appelant dans le nouvel emplacement correspondait à une résidence spéciale ou occasionnelle, incompatible avec l’objet ou les exigences régissant l’admissibilité à la déduction pour frais de déménagement sous le régime de l’article 62 de la Loi.
+[25] L’appel est rejeté.
+Signé à Edmundston (Nouveau-Brunswick), ce 20e jour de juillet 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+Christiane Bélanger, LL.L.
+RÉFÉRENCE : 2009 CCI 344
+No DU DOSSIER DE LA COUR : 2008-2729(IT)I
+No DU DOSSIER DE LA COUR : Paul Sears c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : 5 juin 2009
+MOTIFS DU JUGEMENT : Le juge François Angers
+DATE DU JUGEMENT : Le 20 juillet 2009
+COMPARUTIONS :
+Représentant de l’appelant :
+Roger Haineault
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

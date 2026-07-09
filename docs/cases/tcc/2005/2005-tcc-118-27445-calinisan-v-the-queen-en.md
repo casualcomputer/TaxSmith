@@ -1,0 +1,160 @@
+---
+title: "Calinisan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27445/index.do"
+last_modified: "2005-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 118"
+citation2: ""
+neutral_citation: "2005 TCC 118"
+decision_date: "2005-02-28"
+language: "en"
+item_id: "27445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 201
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:57:56.236000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf33c739968d793ea277122f74ada226133174ba9b2cf982ba864af8741a4baf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Calinisan v. The Queen
+
+- Citation: 2005 TCC 118
+- Decision date: 2005-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 201, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calinisan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-28
+Neutral citation
+2005 TCC 118
+File numbers
+2003-4409(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4409(IT)I
+BETWEEN:
+JANE CALINISAN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 4, 2005 in Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Michael Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 28th day of February 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC118
+Date: 20050228
+Docket: 2003-4409(IT)I
+BETWEEN:
+JANE CALINISAN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. STATEMENT OF FACTS:
+[1] The Appellant was employed by Ballard Batteries Ltd. in 1990. In 1992 the Appellant was employed by the parent company, Ballard Power Systems Inc. ("Ballard").
+[2] Commencing in 1993 the Appellant was granted options to purchase shares of Ballard at various prices per share.
+[3] Exhibit A-2 is a letter dated July 18, 1994 from Firoz Rasul, the President of Ballard. The letter states that the Appellant had been granted an option to purchase 900 common shares of Ballard at a price of $7.09 per share.
+[4] In February 2001 the Appellant exercised part of the option and purchased 400 shares of Ballard at a price of $7.417 per share. At the time that the Appellant exercised the option the shares of Ballard were trading at $97.75 per share.
+[5] Exhibit A-5 indicates that the Appellant received a taxable benefit in the amount of $36,133.20 when she exercised the option to acquire 400 shares of Ballard.
+[6] When the Appellant filed her income tax return for the 2001 taxation year she reported the salary income that she had received from Ballard. However the Appellant did not report any taxable benefit arising from the exercise of employee stock options in that year.
+[7] The Minister of National Revenue (the "Minister") issued a Notice of Reassessment (the "Reassessment") on December 2, 2002. In the Reassessment the Minister included an employee stock option benefit in the amount of $36,133.20 and permitted the Appellant to deduct one-half of the amount of the taxable benefit in determining taxable income.
+B. ISSUE:
+[8] Is the Appellant required to include an employee stock option benefit in the amount of $36,133.20 in calculating her income as a result of exercising the option to acquire 400 shares of Ballard?
+C. ANALYSIS:
+[9] Subsections 7(8), 7(9) and 7(10) of the Income Tax Act (the "Act") read as follows:
+7(8) Where a particular qualifying person (other than a Canadian-controlled private corporation) has agreed to sell or issue securities of the particular qualifying person (or of a qualifying person with which it does not deal at arm's length) to a taxpayer who is an employee of the particular qualifying person (or of a qualifying person with which the particular qualifying person does not deal at arm's length), in applying paragraph (1)(a) in respect of the taxpayer's acquisition of a security under the agreement, the reference in that paragraph to "the taxation year in which the employee acquired the securities" shall be read as a reference to "the taxation year in which the employee disposed of or exchanged the securities" if
+(a) the acquisition is a qualifying acquisition; and
+(b) the taxpayer elects, in accordance with subsection (10), to have this subsection apply in respect of the acquisition.
+7(9) For the purpose of subsection (8), a taxpayer's acquisition of a security under an agreement made by a particular qualifying person is a qualifying acquisition if
+(a) the acquisition occurs after February 27, 2000;
+(b) the taxpayer would, if this Act were read without reference to subsection (8), be entitled to deduct an amount under paragraph 110(1)(d) in respect of the acquisition in computing income for the taxation year in which the security is acquired;
+(c) if the particular qualifying person is a corporation, the taxpayer was not, at the time immediately after the agreement was made, a special shareholder of any of the following
+(i) the particular qualifying person,
+(ii) any qualifying person that, at that time, was an employer of the taxpayer and was not dealing at arm's length with the particular qualifying person, and
+(iii) the qualifying person of which the taxpayer had, under the agreement, a right to acquire a security; and
+(d) if the security is a share,
+(i) it is of a class of shares that, at the time the acquisition occurs, is listed on a prescribed stock exchange, and
+(ii) where rights under the agreement were acquired by the taxpayer as a result of one or more dispositions to which subsection (1.4) applied, none of the rights that were the subject of any of the dispositions included a right to acquire a share of a class of shares that, at the time the rights were disposed of, was not listed on any prescribed stock exchange.
+7(10) For the purpose of subsection (8), a taxpayer's election to have that subsection apply in respect of the taxpayer's acquisition of a particular security under an agreement referred to in subsection (1) is in accordance with this subsection if
+(a) the election is filed, in the prescribed form and manner at a particular time that is before January 16 of the year following the year in which the acquisition occurs, with a person who would be required to file an information return in respect of the acquisition if subsection (8) were read without reference to paragraph (8)(b);
+(b) the taxpayer is resident in Canada at the time the acquisition occurs; and
+(c) the specified value of the particular security does not exceed the amount by which
+(i) $100,000
+exceeds
+(ii) the total of all amounts each of which is the specified value of another security acquired by the taxpayer at or before the particular time under an agreement referred to in subsection (1), where
+(A) the taxpayer's right to acquire that other security first became exercisable in the year that the taxpayer's right to acquire the particular security first became exercisable, and
+(B) at or before the particular time, the taxpayer has elected in accordance with this subsection to have subsection (8) apply in respect of the acquisition of that other security.
+[10] In this situation the Appellant is not entitled to defer inclusion of the employee stock options in respect of the 400 shares of Ballard to a future year because she did not file an election with Ballard by January 16, 2002 as required by subsections 7(8), 7(9) and 7(10) of the Act.
+[11] I have therefore concluded that the Appellant is deemed by subsection 7(1) of the Act to have received an employee stock option benefit in the amount of $36,133.20 in the 2001 taxation year when she exercised the option granted by Ballard to acquire 400 shares of Ballard.
+[12] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 28th day of February 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC118
+COURT FILE NO.:
+2003-4409(IT)I
+STYLE OF CAUSE:
+Jane Calinisan and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 4, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+February 28, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

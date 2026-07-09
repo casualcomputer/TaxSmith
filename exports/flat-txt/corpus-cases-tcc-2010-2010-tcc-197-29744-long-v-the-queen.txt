@@ -1,0 +1,168 @@
+Title: Long v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29744/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-197-29744-long-v-the-queen.md
+Document type: case_law
+Last modified: 2010-04-14
+
+# Long v. The Queen
+
+- Citation: 2010 TCC 197
+- Decision date: 2010-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6551, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Long v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-14
+Neutral citation
+2010 TCC 197
+File numbers
+2009-1011(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1011(IT)G
+BETWEEN:
+TERRY LONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Status Hearing held and Motion heard on March 2, 2010 at
+Kelowna, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+David Everett
+____________________________________________________________________
+ORDER
+Upon Motion by the Appellant for:
+1. an order compelling the Respondent to provide full disclosure and a complete list of all the documents pursuant to Rule 82(1) that are or have been in that party’s possession, control or power; and
+2. an order staying any status hearing until after the aforementioned order is granted and the Respondent has complied with said order of full disclosure to permit the Appellant to continue with discoveries and the advancement of his case;
+And upon reading the Affidavits of Terry Long affirmed December 11, 2009 and March 1, 2010 and the Affidavit of Kara Neligan sworn February 23, 2010;
+And upon hearing submissions by the parties;
+IT IS ORDERED THAT:
+The Appellant’s Motion is dismissed in accordance with the attached Reasons for Order.
+The parties are directed to prepare a list of documents (Partial Disclosure) pursuant to section 81 of the Tax Court of Canada Rules (General Procedure) and to serve the list on the opposing party by April 23, 2010. Proof of service shall be filed with the Court within five (5) days after service.
+The examinations for discovery shall be completed by July 16, 2010.
+Undertakings given at the examination for discovery shall be satisfied by September 16, 2010.
+The parties shall communicate with the Hearings Coordinator in writing on or before October 22, 2010 to advise the Court whether the case will settle, whether a Settlement Conference would be beneficial or whether a hearing date should be set. In the latter event, the parties shall file a joint application to fix a time and place for the hearing in accordance with section 123 of the Tax Court of Canada Rules (General Procedure) by said date.
+Signed at Ottawa, Canada, this 14th day of April 2010.
+"Diane Campbell"
+Campbell J.
+Citation: 2010 TCC 197
+Date: 20100414
+Docket: 2009-1011(IT)G
+BETWEEN:
+TERRY LONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] The Appellant, a self-represented litigant, brought this Motion to compel full documentary disclosure pursuant to Rule 82(1) of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+Background
+[2] In 2002, the Royal Canadian Mounted Police (“RCMP”) conducted an investigation of the Appellant in respect to an illegal marijuana growing operation and subsequently charged him. These charges were later stayed and the Appellant has not been convicted of any offence in respect to the alleged operation.
+[3] In 2003, the Canada Revenue Agency (“CRA”) contacted the Appellant and requested information which the Appellant refused to provide.
+[4] In 2004, an audit was commenced and on February 16, 2005, CRA advised the Appellant that proposed assessments in respect to unreported business income would be issued. Subsequently, in 2005, CRA issued a notice of proposed assessment for the taxation years 1999 to 2003, which was later confirmed in 2008.
+[5] During this period, the Appellant made two separate Privacy Requests for information and documentation under the Privacy Act (R.S., 1985, c. P-21), one to CRA and one to the RCMP. After a lengthy period of time, particularly in the RCMP request, both Privacy Requests were denied.
+[6] On December 23, 2005 the Appellant filed a Petition in the British Columbia Supreme Court against Her Majesty the Queen, the Minister of National Revenue, the CRA and the Minister of Finance respecting various Constitutional challenges. In addition, the Appellant sought an order that he not be required to provide any information to the Respondent in respect to any of the assessments or objections on the basis that such information, if provided, could be used against him in a criminal prosecution. At the hearing of this Motion on January 5, 2009, the Appellant requested an adjournment which was denied and the application was voluntarily abandoned by the Appellant.
+[7] The Appellant appealed the reassessment for amounts owing as unreported business income by filing a Notice of Appeal on April 1, 2009. A Reply to the Notice of Appeal was filed on June 19, 2009 with the Appellant delivering an Answer to the Reply on July 17, 2009.
+[8] On August 7, 2009, the Appellant requested the Respondent’s consent to the preparation of a list of documents on the basis of full disclosure pursuant to Rule 82(1) of the Rules. The Respondent did not consent but proposed a timetable for the completion of steps in the appeal process beginning with an exchange of partial lists of documents pursuant to Rule 81. On September 22, 2009, the Appellant continued his request for full disclosure and rejected the Respondent’s proposed timetable. The matter was set down for a status hearing with permission given to the Appellant to bring the present Motion for full disclosure at this time.
+[9] The Appellant’s Motion is brought at the close of the pleadings but before the occurrence of any step in the appeal process, including production of lists of documents and discoveries.
+The Appellant’s Position:
+[10] The Appellant alleges that the audit process was actually a criminal investigation and that information that he provides will be passed along to the RCMP in a further or continued criminal prosecution. At paragraph 50 of his Affidavit dated December 11, 2009 filed in support of the Motion, he states:
+50. CRA is not asking me for information in relation to employment for example, these officials are seeking information in relation to income from an alleged illegal activity which to date, the Crown has stayed charges for want of evidence to convict. To give them any information by me could be an admission of participation in an illegal activity and could and/or would be used against me in a criminal prosecution by the RCMP pursuant to their Agreements to do so, and permit the Crown to prosecute once again.
+[11] The Appellant’s position is that certain Canadian Charter of Rights and Freedoms (“Charter”) rights have been engaged as a result of CRA’s investigative approach. He therefore requires full disclosure from CRA and seeks unilateral disclosure, claiming that he cannot reciprocate with full disclosure because any information that he might share with the Minister is tantamount to self-incrimination. This assertion is premised on the notion of preventive Charter protections. With respect to timing, he has requested full disclosure at the close of the pleadings so that he can determine with certainty the intentions of CRA prior to further steps in the proceeding being taken and to determine if he will be filing for Charter relief.
+The Respondent’s Position:
+[12] The Respondent states that the Appellant has not provided sufficient reasons to grant an order for full disclosure and that if such an order were granted it would put the Respondent to considerable time and expense in assembling the documents in order to comply.
+[13] The Respondent’s position is that the Appellant has several alternative remedies available to him including:
+(1) obtaining documents and information through other avenues such as the Privacy Act and the Access to Information Act;
+(2) obtaining documents and information through the exchange of partial lists of documents and examinations for discovery and subsequent undertakings;
+(3) the Appellant can refuse to answer questions posed on examinations for discovery which he believes to be self-incriminating; and
+(4) the Appellant may rely on the Minister’s implied undertaking not to use any of the documents uncovered in discovery in a collateral action against him.
+[14] In addition, the Respondent alleges that the Appellant’s Motion is premature and most of the materials requested in the Motion are not relevant to the assessment that is at issue in this appeal.
+Analysis:
+[15] The Appellant is requesting an order for full disclosure of documents under Rule 82(1) of the Rules as opposed to the standard procedure in this Court of partial disclosure under Rule 81. Although the partial disclosure of documents is standard practice in this Court, it is the exception rather than the rule, as the majority of Canadian courts require full disclosure of documents. For a party to be successful in obtaining full disclosure under Rule 82(1), the Court must be persuaded that there are reasonable grounds or basis for granting such an order in that it will assist in the expeditious resolution of the issues surrounding the assessment and assist directly or indirectly with advancing a party’s case or damaging the opposing party’s case. Underlying all of this is the relevancy of the requested documents to the issues outlined in the pleadings. An order under Rule 82 must contain specifics in respect to a proposed list to be produced. Whether a party requesting full disclosure requires all of the documents sought is a question of relevancy to be determined by the Court on a document by document basis. The threshold for such relevancy is generally established to be of wide scope allowing any document “relating to” any matter in question (SmithKline Beecham Animal Health Inc. v. The Queen, 2001 D.T.C. 192).
+[16] The decision of McNair J. in Ikea Ltd. v. Idea Design Ltd., [1987] 3 F.C. 317, at page 325, provides a comprehensive review of the circumstances in which a court may order full disclosure. Although he was dealing with the then Rule 448 of the Federal Court Rules, it is similar to our present Rule 82.
+It becomes necessary to look at the wording of Rule 448 to determine the scope of its application and intendment. Rule 448 reads as follows:
+Rule 448. (1) The Court may order any party to an action to make and file and serve on any other party a list of the documents that are or have been in his possession, custody or power relating to any matter in question in the cause or matter (Form 20), and may at the same time or subsequently order him to make and file an affidavit verifying such a list (Form 21) and to serve a copy thereof on the other party.
+(2) An order under this Rule may be limited to such documents or classes of document, or to such of the matters in question in the cause or matter as may be specified in the order.
+W.R. Jackett, former President of the Exchequer Court and Chief Justice of the Federal Court of Canada, wrote an excellent treatise on the practice under the new Federal Court Rules, entitled A Manual of Practice. In contrasting the old Exchequer Court Rules and the new Rules in respect of the discovery of documents, the learned author makes this statement at page 68 of the Manual:
+Under the new Rules the right to discovery of documents in the possession or control of the opponent that might conceivably be of help to the party demanding discovery has disappeared. Such right has disappeared even though it would obviously serve the ends of justice that there be discovery of such documents. The reason for thus curtailing the ambit of discovery as of right is the purely practical one that while, on the one hand, it is felt that there are relatively few cases where a party can be building his case on documents that he hopes to get from his opponent, on the other hand it is a very onerous, tedious and difficult task, involving considerable expense and delay, to prepare a list of documents that would, conceivably, be of aid to one's opponent. This is particularly so when a party has widespread operations the details of which he prefers to keep from his opponent who is also his business competitor. On balance, it seems probable that the costs and delays of making such discovery outweigh, in most cases, the theoretical advantages obtained from it.
+While discovery as of right has been thus limited in scope, any party may apply for an order for the old style discovery by his opponent of the documents that are or have been in his possession, custody or power relating to any matter in question in the cause or matter (Rule 448). Such an application will only be granted where the applicant can convince the Court that there is something in the circumstances of the particular case calling for this more expensive type of discovery and, if granted, it may be granted on a restricted basis (Rule 448(2)). There is an automatic right of inspection and to make copies of any documents discovered pursuant to such an order (Rule 453).
+The leading case is Compagnie Financiere du Pacifique v. Peruvian Guano Company (1882), 11 Q.B.D. 55 (C.A.), where Brett L.J., stated the principle applicable to the interpretation of the words of the rule "a document relating to any matter in question in the action", at page 63 as follows:
+It seems to me that every document relates to the matters in question in the action, which not only would be evidence upon any issue, but also which, it is reasonable to suppose, contains information which may -- not which must -- either directly or indirectly enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary. I have put in the words "either directly or indirectly," because, as it seems to me, a document can properly be said to contain information which may enable the party requiring the affidavit either to advance his own case or to damage the case of his adversary, if it is a document which may fairly lead him to a train of inquiry, which may have either of these two consequences ... .
+This general principle has been consistently followed and applied by the courts over the years, and has been extended to the area of the production of documents.
+[17] In addition to relevancy, the court must give some consideration to whether some aspect of the case mandates the increased expense and time required to assemble documents pursuant to the full disclosure rule. This is particularly important when Charter violations are alleged. The Appellant’s allegations of Charter violations are central to his appeal. At paragraph 14 of the Appellant’s affidavit affirmed December 11, 2009, the Appellant is demanding to know whether information CRA is gathering will be used against him in subsequent criminal proceedings. For this reason, the Appellant refuses to provide information to CRA and this is the basis upon which he seeks some of the documents from both the CRA and the RCMP.
+[18] The Appellant is essentially arguing for a one-way disclosure on the part of the Respondent as occurs in criminal proceedings, where the Crown provides full disclosure and the accused offers protected disclosure, as Charter rights against self-discrimination are engaged (referred to as the “Stinchcombe disclosure”).
+[19] The Respondent argues that a request for a one-sided disclosure is an improper purpose. At paragraph 23 of the Respondent’s Written Submissions it states:
+23. The Appellant’s motion for full disclosure under Rule 82 of the General Procedure Rules is brought for an improper purpose as it seeks to obtain a one‑sided disclosure of the Respondent’s documents, in the absence of an intention on his part to reciprocate in the full disclosure process established under Rule 82.
+[20] Taxpayers may be entitled, in certain circumstances, to assert their Charter protections pre‑emptively, and to refuse to provide disclosure upon threat of imminent violation relying upon section 7 rights against self-incrimination. The discovery process would then become, in effect, comparable to a criminal appeal discovery process where an accused is entitled to a “Stinchcombe disclosure” with the Crown providing full disclosure and the taxpayer providing protected disclosure.
+[21] I am therefore not prepared to go so far at this particular stage as to accept the Respondent’s assertion that the Appellant’s Motion for full disclosure is brought for an improper purpose.
+[22] However, Mogan J. in Warawa v. The Queen, 2002 D.T.C. 1264, suggests that evidence that would be excluded in criminal proceedings on the basis of Charter violations would not necessarily be excluded in tax appeals. Bowman J. (as he was then) in O’Neill Motors Limited v. The Queen, 96 D.T.C. 1486, stated at page 1496 that:
+… In the exercise of the discretion vested in the court under section 24 of the Charter one must be vigilant in balancing, on the one hand, the rights of the subject that are protected under the Charter, and on the other, the importance of maintaining the integrity of the self-assessing system. …
+[23] Although the high standard of protection afforded to an accused in a criminal proceeding does not necessarily follow in a regulatory context, there does not appear to be any clear authority, in either the caselaw or the Rules, that unilateral disclosure can never be granted in tax proceedings. I do not believe there is anything that would prevent a Judge from using discretion from granting an order for unilateral full disclosure. It would depend on the special circumstances of the case.
+[24] If the Appellant were to be granted unilateral disclosure, a judicial determination would be required of the existence of an “imminent violation” of Charter protections. In Kligman v. M.N.R. (C.A.), 2004 FCA 152, [2004] 4 F.C.R. 477, Létourneau J. of the Federal Court of Appeal stated, at paragraph 3, that a preventive Charter right should be exercisable in the face of imminent violation of a Charter protection:
+[3] I do not accept the respondent's contention that the appellants should comply with the requirements and, as it was done in R. v. Jarvis, [2002] 3 S.C.R. 757, later oppose the admissibility into evidence of the information thus provided. In Jarvis, the documents had already been obtained and the only option left to the accused in his criminal trial for tax evasion was to object to their admissibility. The respondent's contention means that a taxpayer would be prohibited from asserting preventively his Charter right to protection against unreasonable searches and seizures and from impeding its imminent violation. He would only be entitled to apply for a discretionary remedy under section 24 (2) of the Charter. This would seriously undermine the beneficial and protective effect of the Charter.
+The fact of “imminent violation” was premised on the fact that CRA had breached the taxpayer’s Charter protections in the investigative process. However, no such determination has been made in the present appeal. Without such a determination, the present appeal at this point is essentially a tax appeal where Charter protections, preventive or remedial, are not as yet presumed to apply. It must be remembered that the Charter protections that are triggered in the criminal process are not presumed to apply in the regulatory process.
+[25] The Respondent argued that the Appellant has alternate viable avenues to obtain the requested information and documents or to deal with his other concerns and that these factors should be a consideration in deciding if full disclosure under Rule 82 is appropriate. The Appellant seeks unilateral disclosure in an effort to protect his right against self-incrimination. However, the Appellant may have an opportunity to obtain disclosure of some of the documents that he is requesting through an exchange of a partial list of documents, examinations and undertakings. Also, as the Respondent rightly pointed out, the Appellant may have a right to refuse to answer questions posed to him on discovery if he believes the genesis of those questions relate to a criminal investigation. In Svastal, the Appellants were granted the right to object even though certain Constitutional issues relating to the assessment had not been determined. In Bathurst Machine Shop Ltd. et al. v. The Queen, 2006 FCA 59, 2006 D.T.C. 6130, Evans J. confirmed that this right to object was not absolute and had to be determined on a balance of convenience test. As the various stages unfold in this process, the Appellant in the present appeal may be able to exercise his right to refuse to answer as an alternative to requesting full unilateral disclosure.
+[26] In The Queen v. Jurchison et al., 2001 FCA 126, 2001 D.T.C. 5301, Sexton J. held that the right to discovery applied to both parties and that the taxpayer, even in the face of potential Charter breaches, would not be excluded from the discovery process. In determining that the right to discovery should not be lightly extinguished, Justice Sexton stated at paragraph 14:
+[14] I turn now to the Crown's appeal of the Order disallowing the examination for discovery of Mr. Jurchison. The material in the record before us, including the judgments with respect to the tax evasion charges, demonstrates the strong possibility that the judge in the reassessment appeal may exclude at least some of the evidence collected by Revenue Canada auditors and investigators. It is impossible to know at this point exactly what that evidence might be. The details of the evidence obtained in breach of the taxpayers' rights is not before us, nor is the evidence which the Crown already had in its possession. It may well be that certain questions on discovery could be seen to have a genesis in the evidence taken in breach of the taxpayers' rights. However, until such questions are asked no such determination can be made. The Crown has the right to discovery and this right should not lightly be extinguished. In my view, it is preferable to allow the discovery to proceed with the taxpayer being given the right to object to any questions which are felt to have their genesis in the impugned evidence. Then a Motions Judge will be in a better position to assess the propriety of the question.
+(Emphasis added)
+[27] The Appellant is concerned that information he provides will be used in criminal proceedings against him. The concept of implied undertaking confirms that documents produced during the discovery process will not be used by the CRA for collateral purposes. In Canada v. ICHI Canada Ltd., [1992] 1 F.C. 571, at page 580, the Federal Court – Trial Division described this concept as follows:
+An order will therefore issue requiring the plaintiff to produce a representative for discovery. The defendant will know from the text of these reasons that an implied undertaking automatically arises so that information obtained on discovery is to be used only for the purposes of the litigation for which it is obtained. This does not, of course, restrict the use of any information which subsequently is made part of the public record. Nor does it affect the use of information which while obtained on discovery may also have been obtained from some other source. An implied undertaking cannot operate to pull under its umbrella documents and information obtained from sources outside the discovery process merely because they were also obtained on discovery. In addition, the implied undertaking does not prevent a party from applying, in the context of collateral litigation, for release from the implied undertaking, so that information obtained on discovery might be used in that litigation. This, however, is a matter to be determined in the context of that proceeding and not in this proceeding.
+[28] The rule of implied undertaking is not an absolute protection or guarantee that the information will never be used against the Appellant. However, it may be a realistic alternative to full disclosure.
+[29] The Appellant’s Motion for full disclosure attempts to obtain access to various documents that will support his concerns respecting communication between the CRA and the RCMP in connection with alleged RCMP investigations. The Respondent has suggested that the Appellant can reapply through third-party sources such as the Privacy Act and Access to Information Act to obtain this information. The Respondent relies on Mintzer v. The Queen, 2008 TCC 72, 2008 D.T.C. 2613, to support its argument that full disclosure should be denied where the information may be available through third-party sources. However, the present case is distinguishable from Mintzer because the Appellant has already made requests to these agencies which have been denied, unlike the Appellant in Mintzer, where that taxpayer did obtain information through these sources. The Appellant outlined the lengthy procedure he has been involved with in an attempt to obtain additional information and I think it may be entirely unreasonable to expect him to reapply when it apparently took several years to obtain the denial. In the circumstances, this is not a compelling alternative to full disclosure at this stage of the proceedings.
+[30] The most compelling argument against full disclosure at this time is the timing of the Motion. The Appellant brought this Motion at the close of the pleadings but prior to the commencement of any other steps in the litigation process. Although there is no limitation on the timing of a Rule 82 application, one of the considerations to be taken into account is the stage of the proceedings, particularly when none of the preliminary steps have been initiated. In fact, some of the very documents which the Appellant requests under Rule 82 may be produced under the production of a partial list of documents pursuant to Rule 81.
+[31] The timing of this Motion is premature in my view. Exchange of partial lists of documents under Rule 81 has not yet occurred and, consequently, it is too early to ascertain whether the Respondent’s partial disclosure is deficient in any way based on the Appellant’s arguments. If the Appellant is dissatisfied with the production of documents under Rule 81 or with the production of documents through undertakings given during examinations for discovery, he may pursue full disclosure at this point. He may also refuse to answer questions posed to him at the examinations for discovery if he feels they might incriminate him. In this event, it is open to the Respondent to bring an application requesting responses by the Appellant. The Appellant may also rely to some degree upon well established legal principles of implied undertaking that none of the information that he discloses in this process would be used in a collateral proceeding. As the steps in the proceeding unfold, there will be more context within which the Court, in a possible subsequent motion, can decide specifics pleaded. At this point, if I allowed the Appellant’s Motion, I would be allowing full disclosure in a vacuum. The Appellant’s list of requested documents is lengthy and extensive and includes documents that are in the possession of third parties such as the RCMP. Although the threshold for relevancy under Rule 82 is low, care must be taken to ensure that the Appellant is not permitted to engage in a fishing expedition. Although it is not necessary for me to determine the relevancy of the requested documents or this Court’s authority to compel third-party evidence at this point, it would appear that certain items such as CRA notes and records and the T-134’s, being referrals of audit files to Special Investigations, would be the proper material for a full disclosure claim, if not made available during any of the subsequent litigation steps. However items, such as the Appellant’s request for documents relating to the allocation of income tax, may be too remotely connected to the issues and facts within the appeal to meet the test for relevancy.
+[32] For these reasons, the Appellant’s Motion is premature and must be dismissed. Although the Respondent requested costs in any event of the cause, I believe it is best to leave the issue of costs to the trial Judge.
+[33] The parties shall complete the following timetable of dates for the remaining litigation steps:
+1. The parties are directed to prepare a list of documents (Partial Disclosure) pursuant to section 81 of the Tax Court of Canada Rules (General Procedure) and to serve the list on the opposing party by April 23, 2010. Proof of service shall be filed with the Court within five (5) days after service.
+2. The examinations for discovery shall be completed by July 16, 2010.
+3. Undertakings given at the examination for discovery shall be satisfied by September 16, 2010.
+4. The parties shall communicate with the Hearings Coordinator in writing on or before October 22, 2010 to advise the Court whether the case will settle, whether a Settlement Conference would be beneficial or whether a hearing date should be set. In the latter event, the parties shall file a joint application to fix a time and place for the hearing in accordance with section 123 of the Tax Court of Canada Rules (General Procedure) by said date.
+Signed at Vancouver, British Columbia, this 14th day of April 2010.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2010 TCC 197
+COURT FILE NO.’S:
+2009-1011(IT)G
+STYLE OF CAUSE:
+Terry Long and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+March 2, 2010
+REASONS FOR ORDER BY:
+The Honourable Justice Diane Campbell
+DATE OF ORDER:
+April 14, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+David Everett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

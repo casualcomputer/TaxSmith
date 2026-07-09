@@ -1,0 +1,127 @@
+---
+title: "Kiloh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26002/index.do"
+last_modified: "2003-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 329"
+citation2: ""
+neutral_citation: "2003 CCI 329"
+decision_date: "2003-05-13"
+language: "fr"
+item_id: "26002"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3736
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:11:43.211000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f284c9fbe72ea7e3eb5efc2773224fe2767a6e365eebe6b890966be5b69dd67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kiloh v. The Queen
+
+- Citation: 2003 CCI 329
+- Decision date: 2003-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3736, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kiloh v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-13
+Référence neutre
+2003 CCI 329
+Numéro de dossier
+2002-1455(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-1455(IT)I
+ENTRE :
+BRIAN WILLIAM KILOH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 mai 2003 à Kamloops (Colombie-Britannique)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée:
+Me Michael Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), le 13 mai 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 30e jour de mars 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI329
+Date: 20030513
+Dossier: 2002-1455(IT)I
+ENTRE :
+BRIAN WILLIAM KILOH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Cet appel a été entendu sous le régime de la procédure informelle à Kamloops (Colombie-Britannique) le 2 mai 2003. L'appelant était le seul témoin.
+[2] Les paragraphes 4 à 9 inclusivement de la réponse à l'avis d'appel se lisent comme suit :
+[TRADUCTION]
+4. Dans le calcul de son remboursement pour l'année d'imposition 2000, l'appelant a demandé le remboursement d'un trop-payé de cotisations d'assurance-emploi au montant de 1 837 $.
+5. Le ministre du Revenu national (le « ministre » ) a établi une première cotisation à l'égard de l'appelant pour l'année d'imposition 2000. L'avis de cotisation était daté du 26 avril 2001.
+6. Dans sa première cotisation à l'égard de l'appelant pour l'année d'imposition 2000, le ministre a rejeté la demande de remboursement du trop-payé de cotisations d'assurance-emploi.
+7. Dans sa cotisation établie à l'égard de l'appelant pour l'année d'imposition 2000, le ministre s'appuie sur les hypothèses suivantes :
+a) pendant l'année d'imposition 2000, l'appelant était employé par A Sanford and Son Enterprises Ltd. et par DJ Ventures Ltd. (les « employeurs » );
+b) au cours de l'année d'imposition 2000, l'appelant a gagné un revenu d'emploi de 17 779,00 $ de la part des employeurs;
+c) au cours de l'année d'imposition 2000, les employeurs ont effectué à l'égard de l'appelant des retenues de cotisations d'assurance-emploi s'élevant à 426,71 $;
+d) au cours de l'année d'imposition 2000, l'appelant a reçu des prestations d'assurance-emploi s'élevant à 11 816 $;
+e) des retenues d'impôt fédéral de 1 837 $ (l' « impôt » ) ont été effectuées sur les prestations d'assurance-emploi;
+f) les cotisations d'assurance-emploi de l'appelant pour l'année d'imposition 2000 n'ont pas dépassé le seuil de 936 $ nécessaire pour demander le remboursement d'un trop-payé de cotisations d'assurance-emploi;
+g) l'appelant n'était pas admissible au remboursement d'un trop-payé de cotisations d'assurance-emploi.
+B. QUESTION EN LITIGE
+8. Il s'agit de déterminer si l'appelant est admissible au remboursement d'un trop-payé de cotisations d'assurance-emploi.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+9. Il invoque le paragraphe 248(1), les alinéas 60n) et 153(1)d.1), ainsi que le sous-alinéa 56(1)a)(iv) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supp.), dans sa version modifiée (la « Loi » ) ainsi que le règlement 100(1) du Règlement de l'impôt sur le revenu.
+[3] Aucune des hypothèses n'a été réfutée.
+[4] En particulier, l'appelant a plaidé que les prestations d'assurance-emploi ne devraient pas être assujetties à l'impôt. Or, le sous-alinéa 56(1)a)(iv) prévoit expressément le prélèvement d'impôt sur le revenu à l'égard des prestations d'assurance-emploi.
+[5] Le deuxième objet du litige pour l'appelant était le fait qu'un remboursement qui lui revenait en 1997 ne lui a pas été accordé, mais qu'il a été appliqué en réduction de l'impôt sur le revenu qu'il lui restait à payer pour 1994. Une telle action est d'usage dans ces circonstances, puisqu'elle correspond à l'application du droit de compensation qui est pratique courante dans le domaine commercial.
+[6] Pour ces motifs, l'appel est rejeté.
+Signé à Saskatoon (Saskatchewan), le 13 mai 2003.
+« D.W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 30e jour de mars 2005.
+Mario Lagacé, réviseur

@@ -1,0 +1,111 @@
+Title: Germain Dominique Makar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26901/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-228-26901-germain-dominique-makar-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-03-30
+
+# Germain Dominique Makar v. The Queen
+
+- Citation: 2005 CCI 228
+- Decision date: 2005-03-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 773, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Germain Dominique Makar v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-30
+Référence neutre
+2005 CCI 228
+Numéro de dossier
+2004-2868(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2004-2868(IT)I
+ENTRE :
+GERMAIN DOMINIQUE MAKAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 22 mars 2005 à Winnipeg (Manitoba)
+Devant : L'honorable juge E.A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Marley Dash
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+"E.A. Bowie"
+Le juge Bowie
+Traduction certifiée conforme
+ce 3e jour d'octobre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI228
+Date : 20050330
+Dossier : 2004-2868(IT)I
+ENTRE :
+GERMAIN DOMINIQUE MAKAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Ces appels sont portés à l'encontre des nouvelles cotisations d'impôt établies pour les années d'imposition 1999 et 2000. Dans le calcul de son revenu pour ces années en vertu de l'article 3 de la Loi de l'impôt sur le revenu[1] (la Loi), l'appelant prétend avoir le droit de déduire certaines pertes d'entreprise du salaire qu'il tire de son emploi pour la ville de Winnipeg. Au moyen des nouvelles cotisations qui sont actuellement portées en appel, le ministre du Revenu national a refusé la déduction de ces pertes au motif que M. Makar n'exploitait pas une entreprise au cours de ces deux années puisqu'il avait constitué une société appelée Smart Charge Inc. (SCI) pour exploiter l'entreprise, de sorte que les pertes subies sont celles de SCI et non de l'appelant. Le ministre est en outre subsidiairement d'avis que les dépenses ayant donné lieu aux pertes déduites par l'appelant ne sont pas liées à une entreprise, mais qu'il s'agit simplement de dépenses personnelles ou de dépenses de subsistance de l'appelant et que leur déduction serait dans tous les cas interdite en application des dispositions de l'alinéa 18(1)h) de la Loi. Pour les motifs qui suivent, j'estime que le ministre a raison quant à son argument principal ainsi qu'à son argument subsidiaire. Les appels doivent donc être rejetés.
+[2] Il ne fait aucun doute que l'appelant a mis au point une invention pratique à la fin des années 1990. Il a déposé une demande de brevet aux États-Unis en juillet 1998 et au Canada en juillet 1999, relativement à une invention décrite comme étant une méthode et un dispositif de charge de batteries par courant invariable modifié par impulsion (Smart Charge). Le brevet a fini par être octroyé. Comme l'appelant l'a expliqué dans son témoignage, le dispositif qu'il a inventé est monté dans le circuit servant à charger des batteries rechargeables de toutes sortes et il présente, dans ce cas, l'avantage d'en accroître l'efficacité et la durée utile. Le ministre ne conteste pas l'invention ni son utilité. Il n'est pas non plus contesté que pendant toute la période en question, l'appelant était titulaire du brevet relatif au Smart Charge. Le point en litige a trait à la façon dont l'appelant a choisi d'exploiter son invention. Parce que l'appelant a accepté toutes les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir ses nouvelles cotisations, je reproduis intégralement le numéro 10 de la réponse à l'avis d'appel où ces hypothèses sont formulées.
+[TRADUCTION]
+10. Le ministre s'est fondé sur les hypothèses de fait suivantes pour établir les nouvelles cotisations de l'appelant pour les années 1999 et 2000 et pour les confirmer :
+a) l'appelant est un mécanicien, employé de la ville de Winnipeg;
+b) en 1998 ou autour de cette année-là, l'appelant a mis au point et fait breveter un dispositif de charge de batteries basé sur le principe du circuit de tension d'impulsion, qu'il a appelé Smart Charge (ci-après le « Smart Charge » );
+c) les brevets relatifs au Smart Charge appartiennent à l'appelant;
+d) l'appelant est actionnaire à 100 pour 100 de Smart Charge Inc. (ci-après la « société » );
+e) la société a été constituée en personne morale en 1998;
+f) l'activité commerciale de la société consiste à fabriquer des dispositifs électroniques;
+g) en 1998, l'appelant a cédé à la société ses droits d'octroi de licences sur le Smart Charge;
+h) à compter du 1er octobre 2002, la société a été tenue de verser à l'appelant 100 $ par année pour la cession des droits d'octroi de licences sur le Smart Charge;
+i) la société a concédé à Nuvomedia Corporation Ltd. (ci-après « Nuvomedia » ) le droit exclusif de commercialiser le Smart Charge;
+j) la société assumait la responsabilité de commercialiser le Smart Charge au cours des années d'imposition 1999 et 2000;
+k) les redevances devant être versées par Nuvomedia relativement au Smart Charge étaient payables à la société;
+l) la société a déclaré un chiffre d'affaires brut de 6 194 $ et de 1 017 $ pour les exercices se terminant le 22 décembre 1999 et le 22 décembre 2000 respectivement;
+m) le chiffre d'affaires brut déclaré par la société se rapportait au Smart Charge;
+n) le contrat de licence conclu entre la société et Nuvomedia interdit à l'appelant de fabriquer et de vendre le Smart Charge;
+o) l'appelant a déduit des pertes d'entreprise découlant de l'entreprise nommée Smart Charge Inc.; ces pertes, s'établissant à 10 233,52 $ et à 7 680,93 $ ont été calculées de la façon suivante :
+(i) aucun revenu brut pour l'une ou l'autre année;
+(ii) des dépenses de 10 233,52 $ et de 7 680,93 $ dans les années d'imposition 1999 et 2000 respectivement (ci-après les « dépenses » ), qui sont décrites en détail dans l'annexe A faisant partie de la réponse à l'avis d'appel (ci-après l' « annexe A » );
+p) l'appelant a indiqué que l'activité commerciale liée aux pertes d'entreprise qu'il a déduites dans les années d'imposition 1999 et 2000 avait trait à un « dispositif de remise en état de batteries » ;
+q) dans les pertes d'entreprise pour lesquelles il a demandé une déduction en 1999, l'appelant a inclus :
+(i) 80 % de ses dépenses d'automobile, qui comprennent des réparations, de l'essence, l'immatriculation, les assurances, le stationnement et des lavages de voiture;
+(ii) la totalité des dépenses de déplacement et d'hébergement, ce qui inclut des frais de camping et d'hôtel pour lui-même et sa conjointe;
+(iii) 60 % des frais d'intérêts de la carte Mastercard de l'appelant (1 177,21 $ x 60 % = 706,33 $) à titre d'intérêts sur un prêt de démarrage;
+(iv) des frais de publicité de 3 534 $ représentant la « valeur au détail » de 31 dispositifs qu'il aurait, d'après lui, installés dans les véhicules de clients éventuels;
+r) le total des opérations portées sur la carte Mastercard de l'appelant se chiffre à 7 962,12 $, dont un montant de 5 123,33 $ avait trait à des aliments, des repas, des déplacements et des achats personnels;
+s) l'appelant ne dispose pas d'une ligne téléphonique distincte à son domicile;
+t) tout travail effectué par l'appelant l'est pour le compte de la société.
+En ce qui concerne l'alinéa 10b), l'appelant a témoigné que la demande de brevet a été déposée en 1998, et que le brevet concerne un dispositif de courant d'impulsion plutôt qu'un dispositif de tension d'impulsion. Pour ce qui est de l'alinéa 10k), l'appelant a convenu que la disposition relative au paiement incluse dans le contrat était énoncée correctement, mais il a ajouté qu'aucune redevance n'avait concrètement été versée. L'appelant accepte par ailleurs les hypothèses de fait du ministre.
+[3] L'appelant a dit franchement dans son témoignage que les affaires n'étaient pas son point fort et que c'est sur les conseils d'autres personnes qu'il avait structuré de cette façon l'exploitation commerciale de son invention. Ses conseillers et lui s'attendaient sans nul doute à ce que SCI touche en peu de temps d'importants revenus de redevances. Malheureusement, cela n'a pas été le cas. Pour des raisons qu'il n'est pas nécessaire d'expliquer ici, la commercialisation de l'invention s'est révélée plus difficile que ne l'avait espéré l'appelant. Entre-temps, cependant, il a consacré beaucoup de temps et d'efforts à essayer d'améliorer l'invention et à y trouver des débouchés. Ses efforts lui ont aussi coûté de l'argent, d'où les pertes qu'il prétend avoir subies en 1999 et 2000. Dans la comptabilisation de ces dépenses, l'appelant semble s'être fié aux conseils d'un pseudo-fiscaliste ou spécialiste en déclarations. À l'instar de bien d'autres personnes qui achètent et mettent en pratique les conseils de fiscalistes qui n'ont aucune accréditation professionnelle, l'appelant a été mal servi. En sa qualité de premier dirigeant de SCI, l'appelant a signé et produit les déclarations de SCI pour 1999 et 2000, de même que ses déclarations à lui. Selon ce que je comprends de son témoignage, les quatre déclarations ont toutes été établies pour lui par le spécialiste en déclarations. Tous les revenus ont été déclarés par SCI; la plupart des dépenses ont été déduites dans les déclarations de particulier de l'appelant et figurent dans un état des résultats d'entreprise, qui traduirait, d'après ce qui y est indiqué, les résultats de l'entreprise individuelle de l'appelant, décrite comme étant « Smart Charge Inc. » . Toutefois, Smart Charge Inc. était une entité distincte, qui avait, sans aucun doute, en 1999, le droit de commercialiser l'invention et de toucher les revenus que l'octroi de licences sur cette invention pouvait engendrer. De façon semblable, les dépenses engagées pour la commercialisation de l'invention étaient des dépenses de SCI. Les seuls documents financiers de SCI qu'on trouve dans les éléments de preuve sont des copies d'états manuscrits des résultats pour les exercices clos le 22 décembre 1999 et le 22 décembre 2000 et des bilans manuscrits, à ces deux dates, qui sont tirés des déclarations de revenus de SCI. Ils indiquent des dépenses peu élevées et des revenus encore moins élevés découlant des efforts de commercialisation de la société. Il est clair que les dépenses de commercialisation que l'appelant a déduites comme étant les siennes, si tant est qu'elles étaient déductibles, étaient déductibles par SCI. De cette façon, la société aurait naturellement subi des pertes encore plus importantes que celles déclarées pour ces deux années.
+[4] De plus, je suis d'avis qu'aucun des montants déduits par l'appelant, à peut-être une exception près, ne peuvent à juste titre être désignés comme étant autre chose que des dépenses personnelles. Pour 1999, l'appelant a déduit des dépenses totalisant 10 233,52 $. Le montant le plus important, soit 3 994,60 $, a trait à des dépenses d'automobile. En 2000, il a déduit 4 022,42 $ comme dépenses d'automobile. Selon la preuve soumise par l'appelant, ces déductions représentaient 80 % des dépenses d'essence et de vidages d'huile de son véhicule personnel pour chacune de ces années. Bien que le véhicule ait été utilisé exclusivement à des fins personnelles, il soutient qu'il a droit à cette déduction parce qu'il avait installé l'un de ses dispositifs de charge de batteries dans son véhicule afin de tester les améliorations qu'il espérait apporter à l'invention. La proportion de 80 % a manifestement été choisie par lui de façon arbitraire. M. Makar a également inclus des frais de déplacement de 413,75 $ en 1999, qui correspondent, d'après ce qu'il a affirmé, au coût de ses déplacements à Kenora (Ontario) et à Dauphin (Manitoba), où il a séjourné pendant quelques jours. Il a dit avoir fait ces déplacements pour tester le dispositif dans différentes conditions climatiques. Il a aussi imputé à son « entreprise » des frais d'intérêts de 739,18 $ en 1999 et de 240,19 $ en 2000. Ces montants sont, d'après ce qu'il en dit, les intérêts exigés sur sa carte de crédit et semblent être liés, d'une façon ou d'une autre, à ses dépenses de déplacement. Il a en outre inclus le total de ses factures téléphoniques, soit 1 074,10 $ en 1999 et 704,63 $ en 2000, bien qu'il ne possède qu'une ligne téléphonique à son domicile. Il n'a proposé aucune base de répartition proportionnelle entre l'utilisation que sa famille fait du téléphone à des fins personnelles et celle qu'en fait l'entreprise légitime de SCI. Les deux dépenses qui pourraient raisonnablement, si elles pouvaient être justifiées, être imputées à l'entreprise de SCI (mais non de l'appelant) sont les dépenses de publicité de 3 534 $ en 1999 et de 2 663,69 $ en 2000, qui avaient trait, selon l'appelant, à des abonnements concernant son domaine de recherche. Lors du contre-interrogatoire, l'appelant a reconnu que les dépenses de « publicité » correspondaient à quelque 30 chargeurs de batteries qu'il avait installés gratuitement dans différents véhicules en vue de s'attirer des acheteurs. Le montant de 3 534 $ a été calculé en fonction du prix de détail de ces chargeurs, bien qu'il n'ait pas précisé leur prix de détail exact. Il a affirmé que leur coût de fabrication était de 30 $ l'unité, et si j'avais jugé qu'il avait le droit de traiter ces sommes comme ses propres dépenses d'entreprise plutôt que celles de SCI, je ne lui aurais alors pas alloué plus de 900 $. Quant au montant des abonnements, il n'existe aucune preuve quant aux véritables articles achetés ni à leur coût.
+[5] Mis à part le fait que l'appelant n'avait pas d'entreprise en 1999 et en 2000, j'estime que les dépenses déduites sont presque toutes de nature personnelle. Une petite partie pourrait être justifiée comme se rapportant de façon légitime à l'amélioration continue de l'invention de l'appelant, mais même cette partie pourrait uniquement être considérée comme venant s'ajouter à la valeur du bien immobilisé, le brevet, et non comme étant au titre des opérations courantes. Étant donné que l'appelant a témoigné qu'il ne vendrait jamais son invention, par opposition à l'octroi de licences sur son utilisation, la décision rendue par la Cour suprême du Canada dans l'affaire M.N.R. v. Freud[2] ne peut pas s'appliquer ici.
+[6] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+"E.A. Bowie"
+Le juge Bowie
+Traduction certifiée conforme
+ce 3e jour d'octobre 2005.
+Joanne Robert, traductrice
+[1] L.R. (1985) chap. 1 (5e suppl.), dans sa version modifiée.
+[2] 68 DTC 5279.

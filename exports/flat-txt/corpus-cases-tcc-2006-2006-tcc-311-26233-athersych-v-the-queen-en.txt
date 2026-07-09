@@ -1,0 +1,125 @@
+Title: Athersych v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26233/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-311-26233-athersych-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-05
+
+# Athersych v. The Queen
+
+- Citation: 2006 TCC 311
+- Decision date: 2006-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4030, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Athersych v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-05
+Neutral citation
+2006 TCC 311
+File numbers
+2005-2524(IT)G, 2005-2525(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2524(IT)G, 2005-2525(IT)G
+2005-2526(IT)G, 2005-2527(IT)G
+2005-2528(IT)G, 2005-2529(IT)G
+BETWEEN:
+PETER A. ATHERSYCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on May 10, 2006, at Ottawa, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Josée Tremblay
+____________________________________________________________________
+JUDGMENT
+Upon motions by counsel for the Respondent for an Order dismissing all appeals herein for undue delay, and for costs;
+And whereas the Appellant was not present when the motions were called, although duly notified of the time and place of the hearing;
+And whereas no one appeared on his behalf;
+And whereas counsel for the Respondent moved that the motions be heard, and the appeals dismissed;
+And upon having read the material filed, and hearing counsel for the Respondent;
+It is ordered that the appeals from assessments of tax made under the Income Tax Act for the 1997, 1998, 1999, 2000, 2001 and 2002 taxation years are dismissed, with costs in the amount of $3,000.00.
+Signed at Ottawa, Canada, this 5th day of June 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC311
+Date: 20060605
+Docket: 2005-2524(IT)G, 2005-2525(IT)G
+2005-2526(IT)G, 2005-2527(IT)G
+2005-2528(IT)G, 2005-2529(IT)G
+BETWEEN:
+HER MAJESTY THE QUEEN,
+Applicant (Respondent),
+and
+PETER A. ATHERSYCH,
+Respondent (Appellant).
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The Applicant (Respondent) ("Applicant") brought a motion in each of these appeals, and the Respondent (Appellant) ("Mr. Athersych"), not having attended at the hearing, I will grant the motions dismissing all appeals for the reasons that follow.
+[2] The first question that arises is whether proper service was effected by the Applicant on Mr. Athersych of the Notices of Motion and supporting material, to include the time, day, and location of the hearing. The Notices of Motion were sent to Mr. Athersych by the Applicant by both special delivery and registered mail in six separate packages. Comprehensive details of service are set out in the affidavit of service of Marilyn Bartolome-White, filed as Exhibit R-1. She states that having accessed the internet site of Canada Post, the "Track a Package" forms, attached as exhibits to her affidavit, indicate that two of six packages were successfully delivered to Mr. Athersych's address, although a signature was not requested by Canada Post. The remaining packages were not picked up by the Appellant, nor by anyone on his behalf. Perhaps, he rightly concluded that it was not necessary, because they were all identical.
+[3] Was this effective service? This question arises, particularly from the following paragraph, taken from the Applicant's letter to the Court of March 2, 2006, which states:
+Furthermore, as the Appellant attended, at least on two (2) occasions, at the office of the Registrar of the Tax Court of Canada located in Ottawa, at this point in time it appears that the sole link between the Appellant and the city of North Bay is the postal box address he provided to the Court. The Appellant's business address registered with the Law Society of Upper Canada is 1 Halliday Street, Brockville, Ontario. In September 2005, the Respondent was able to serve the Appellant personally at this same address. The Respondent is therefore requesting that hearing of the motions be scheduled before the Tax Court of Canada sitting in one or more of the following cities: Ottawa, Belleville, or Kingston.
+Despite this background, I agree with counsel for the Applicant that the North Bay address was the proper one for service, because it was the only one made available by Mr. Athersych, after several requests.
+[4] As an abundance of caution, further comfort would have been obtained had the Notices of Motion been sent to Mr. Athersych's Brockville place of business as well. Having said this, the Brockville location was only found after counsel for the Applicant searched the legal directory of the Law Society of Upper Canada, since Mr. Athersych is an Ontario lawyer. His recent letter to the Court, dated March 27, 2006, clearly indicates his address as:
+Peter A. Athersych
+101 Worthington Street East
+PO Box 958, Station Main
+North Bay, Ontario
+P1B 8K3
+(705) 474-1324
+[5] Counsel for the Applicant accurately summarized the circumstances of these motions as follows:
+· the Respondent's motions were initially scheduled to be heard on October 17, 2005;
+· on October 11, 2005, the Appellant attended to the office of the Registrar of the Tax Court of Canada, located in Ottawa, indicating that he would request an adjournment of the Respondent's motion and expressed his need to retain counsel;
+· by letter dated October 12, 2005, addressed to the Tax Court of Canada Registrar, the Appellant requested that the motions be adjourned and referred to his need to retain counsel;
+· the Appellant's request for adjournment was heard on October 14, 2005, by means of conference call, Justice Miller presiding; during the course of this hearing, the Appellant further referred to his need to retain counsel;
+· by order dated October 14, 2005, Justice Miller adjourned the Respondent's motions and ordered that the Appellant shall
+º file amended pleadings on or before January 26, 2006;
+º provide address for personal service on or before October 28, 2005;
+· the Respondent's motions were partially heard by Justice McArthur, sitting in Sudbury, on January 26, 2006, at which time the Appellant, once again, referred to his need to retain counsel; Justice McArthur adjourned the Respondent's motions;
+· on January 26, 2006, the last day for doing so, the Appellant filed amended notices of appeal with the Court sitting in Sudbury; the Respondent was not provided with copies of the said amended notices of appeal and as of March 2, 2006, has not been served with the same;
+· Respondent's correspondence sent to the Appellant's address of record, a P.O. Box located in North Bay, dated January 16 and February 3, 2006, respectively, were returned to sender;
+· as of March 2, 2006, there is no counsel of record representing the Appellant and the Appellant is still in breach of Justice Miller's order with respect to the Appellant's obligation to provide an address for personal service.
+[6] In addition to the Applicant's service of the Notices of Motion described above, a letter dated March 27, 2006 was forwarded to Mr. Athersych by the Court, at the address of record in North Bay, Ontario, enclosing the Order scheduling the hearing of these motions. That letter and Order were not returned to the Court by Canada Post, and Mr. Athersych has not communicated with the Court with respect to the hearing which was scheduled, nor with the Respondent, and although duly notified, did not appear before the Court.
+[7] Further, Mr. Athersych is in breach of Justice Miller's Order dated October 14, 2005 which set out, inter alia, that he provide an address for personal service on or before October 28, 2005. He still has not complied with that Order, nor has he provided the name and address of his counsel, either to the Court or to the Respondent.
+[8] Mr. Athersych, not having appeared for the hearing of these motions, I must, therefore, grant the motions. Also, for the above reasons, and because the Appellant has on numerous occasions, caused these proceedings to be unduly delayed, I will dismiss the six appeals, with costs to the Applicant, set at $500.00 per appeal, for a total of $3,000.00.
+Signed at Ottawa, Canada, this 5th day of June 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC311
+COURT FILE NO.: 2005-2524(IT)G, 2005-2525(IT)G
+2005-2526(IT)G, 2005-2527(IT)G
+2005-2528(IT)G, 2005-2529(IT)G
+STYLE OF CAUSE: PETER A. ATHERSYCH AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: June 5, 2006
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Josée Tremblay
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

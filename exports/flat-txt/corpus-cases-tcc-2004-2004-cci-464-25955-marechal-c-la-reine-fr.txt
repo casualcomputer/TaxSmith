@@ -1,0 +1,222 @@
+Title: Marechal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25955/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-464-25955-marechal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-08-17
+
+# Marechal c. La Reine
+
+- Citation: 2004 CCI 464
+- Decision date: 2004-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3721, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marechal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-17
+Référence neutre
+2004 CCI 464
+Numéro de dossier
+2001-4224(EXP)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'exportation et l'importation de biens culturels
+Contenu de la décision
+Dossier : 2001-4224(EXP)G
+ENTRE :
+PAUL MARÉCHAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 19 et 20 mai 2004, à Montréal (Québec).
+Devant : L’honorable juge en chef adjoint D.G.H. Bowman
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Chantal Jacquier
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté sans frais.
+Signé à Ottawa, Canada, ce 17e jour d’août 2004.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Référence : 2004CCI464
+Date : 20040817
+Dossier : 2001-4224(EXP)G
+ENTRE :
+PAUL MARÉCHAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Le point en litige dans le présent appel est la juste valeur marchande (la « JVM »), en date du 10 novembre 2000, d’une sculpture en céramique réalisée par un sculpteur bien connu du Québec, Louis Archambault, dont l’appelant a fait don au Musée des beaux‑arts de Montréal (le « Musée »). La Commission canadienne d’examen des exportations de biens culturels (la « Commission ») a déterminé que la JVM de cette œuvre était de 5 000 $. L’appelant prétend qu’elle est plutôt de 8 000 $.
+[2] L’appelant a acquis la sculpture en décembre 1999 à l’Hôtel des encans de Montréal. Il a alors payé la somme de 1 719,23 $, soit le prix de l’œuvre de 1 300 $, plus les taxes et la commission.
+[3] Je m’efforcerai de décrire la thèse de l’appelant telle que je la comprends. Titulaire d’une maîtrise en histoire de l’art, M. Maréchal est une personne hautement qualifiée dans le domaine de l’art. Il est le conservateur de la collection d’œuvres d’art de Power Corporation. Il a fait don au Musée de la sculpture en question, dont le titre est Tête, et la Commission a demandé une évaluation de l’œuvre. Le Musée a obtenu d’Eric Devlin, un marchand d’œuvres d’art propriétaire de la Galerie Eric Devlin, une évaluation datée du 29 septembre 2000, selon laquelle la sculpture valait 8 000 $. En réponse à la demande d’autres éléments justifiant ce chiffre qu’avait faite la Commission, M. Devlin a fait parvenir à cette dernière, le 29 décembre 2000, une lettre de M. Simon Blais, de la Galerie Simon Blais, qui confirmait l’évaluation de 8 000 $.
+[4] M. Maréchal a soutenu que la Commission avait agi de manière arbitraire et injustifiée en rejetant ces deux évaluations et en leur substituant la valeur de 5 000 $ qu’elle avait elle‑même établie.
+[5] Selon Joyce Millar, le témoin expert appelé à témoigner par l’intimée, l’œuvre ne valait pas plus de 3 500 $. Lorsqu’elle a procédé à son évaluation, Mme Millar ignorait que la Commission avait fixé la valeur de l’œuvre à 5 000 $ et que MM. Devlin et Blais l’avaient évaluée à 8 000 $.
+[6] Se fondant sur une définition de la JVM comportant l’expression « le prix le plus élevé » sur lequel s’entendraient un vendeur et un acheteur sérieux et bien informés, M. Maréchal soutient que, comme différents chiffres ont été avancés (1 719,21 $, 3 500 $, 5 000 $ et 8 000 $), la Cour devrait retenir le plus élevé, soit 8 000 $. Je peux me prononcer assez rapidement sur cet argument. Lorsque la Commission ou la Cour a l’obligation de déterminer la JVM d’un bien et que différents chiffres lui sont présentés, elle ne s’acquitte pas de cette obligation en optant pour le plus élevé. Elle n’est liée par aucune évaluation et n’est pas tenue de choisir une de celles présentées. Elle doit plutôt faire tout ce qu’elle peut pour établir la valeur réelle du bien, même si cela est difficile. À cette fin, elle peut rejeter toutes les évaluations ou se servir d’éléments de certaines d’entre elles ou de toutes et arriver à une conclusion différente. Il ne s’agit pas d’un processus mécanique. C’est un processus qui exige de la Commission ou de la Cour qu’elle soupèse tous les éléments dont elle dispose et qu’elle utilise son jugement pour en arriver à un résultat correct.
+[7] Je traiterai maintenant de la JVM de l’œuvre. Il s’agit d’un vase en céramique d’une hauteur de 22 pouces environ, représentant la tête d’un être humain. Selon le témoin expert Joyce Millar, il était en bonne ou excellente condition. L’œuvre a été créée en 1952 par Louis Archambault (1915‑2003), un sculpteur canadien bien connu de réputation internationale, dont un certain nombre d’œuvres en céramique sont exposées dans des musées et des galeries publics, notamment le Musée des beaux-arts de Montréal, le Musée national des beaux‑arts du Québec, la galerie Robert McLaughlin et le Musée des beaux‑arts de l’Ontario. La sculpture, dont une photographie est jointe aux présents motifs à l’annexe A, est présentée dans une vitrine au Musée.
+[8] La prééminence de Louis Archambault comme sculpteur ne saurait être mise en doute. Vu l’importance de cet artiste, il est utile de reproduire l’extrait suivant tiré du rapport de Mme Millar :
+[TRADUCTION]
+Réputation de l’artiste
+34. Louis Archambault était un sculpteur canadien bien connu de réputation internationale. Considéré comme l’une des figures de proue de la sculpture moderne au Québec, M. Archambault a vu ses œuvres largement exposées autant au Canada qu’en Europe et il a reçu de nombreux prix pendant sa longue carrière.
+35. Né à Montréal en 1915, Louis Archambault a obtenu un baccalauréat ès arts de l’Université de Montréal en 1936 et un diplôme de céramique de l’École des beaux‑arts en 1939. Au milieu des années 1940, il a partagé un atelier de céramique avec Charles Daudelin dans la Maison Cormier, l'édifice où se trouvaient les ateliers de l’École des beaux‑arts. Il s’est alors intéressé à l’argile, comme professeur et comme sculpteur. Il a enseigné à l’École du meuble et à l’École des beaux‑arts de Montréal, à la University of British Columbia et à l’Université du Québec à Montréal de 1969 jusqu’à sa retraite.
+36. L’Appel (1946; MQ), une sculpture en argile qu’il a réalisée en 1946, a remporté le premier prix du Concours artistique de la province de Québec. M. Archambault a acquis une renommée internationale en 1951 lorsqu’il a exposé son œuvre Oiseau de fer à l’International Outdoor Exhibition of Sculpture tenue à Battersea Park, à Londres, en Angleterre, où étaient aussi présentées des œuvres de Moore, de Rodin, de Giacometti, d’Arp, de Calder, de Lipchitz et de Pevsner, entre autres. Ses sculptures ont aussi été exposées dans le pavillon canadien lors de la 27e biennale de Venise en 1956. En 1958, à l’occasion de l’Exposition universelle de Bruxelles, il a créé en collaboration avec un désigner industriel de Montréal, Norman Slater, un mur de carreaux de céramique placé dans une structure faite d’aluminium.
+37. Bien qu’il ait exposé ses œuvres en céramique, notamment certaines sculptures, à l’Art Gallery of Toronto (avec des peintures d’Alfred Pellan) en 1952, Louis Archambault a laissé tomber les sculptures et pièces décoratives en céramique au milieu des années 1950 pour se tourner vers la ferronnerie d’art et les sculptures en bronze. Il a ensuite utilisé l’aluminium pour réaliser ses œuvres de grande envergure. À l’Expo 67, il était le seul sculpteur canadien parmi les cinquante sculpteurs de l’époque à participer au jardin international de sculptures sur l’île Sainte‑Hélène, et ses Personnages, des figures hautes de huit pieds, dominaient la terrasse entourant le pavillon du Canada.
+38. Dans les années 1960, Louis Archambault a reçu plusieurs commandes d’organismes publics. Ainsi, pour l’Aéroport international Pearson de Toronto il a créé L’évitation et direction (1964), et pour l’Aéroport d’Uplands (Aéroport international d’Ottawa) il a réalisé une œuvre intitulée Voyageurs de l’espace (1960). Il a aussi créé la fontaine Bird pour l’hôtel de ville d’Ottawa et Les Trois anges radieux qui se trouvent dans la grande salle à la Place des Arts de Montréal (1963). Il a été fait officier de l’Ordre du Canada en 1968. De grandes expositions lui ont été consacrées au Musée d’art contemporain de Montréal en 1972, au Centre culturel canadien à Paris en 1980 et au Musée des beaux‑arts de Montréal en 1993.
+39. Les Archives Louis Archambault, qui contiennent plus de 20 sculptures ainsi que des dessins et des documents personnels de l’artiste, ont été créées au Musée des beaux-arts de Montréal au début des années 1990 et sa série monumentale de sculptures en bois, Mystic Symbols (1980‑1993), a été acquise par le Musée en 1996. Ses œuvres, qui ont été beaucoup exposées, peuvent être vues dans de grands musées et galeries partout au Canada et en Europe. Il est décédé en janvier 2003.
+40. Bien que Louis Archambault ait certainement une réputation nationale et internationale bien établie en tant que sculpteur, la juste valeur marchande de ses œuvres en céramique ne peut être déterminée sur la seule base de cette réputation.
+Comparaisons
+41. Il y a très peu de pièces décoratives de Louis Archambault dans les collections publiques. Ces œuvres sont énumérées à l’annexe 4.
+42. Même si un certain nombre de ses sculptures font partie de collections publiques, il est irréaliste, à mon avis, de comparer ses céramiques, qu’elles soient fonctionnelles ou décoratives, avec ses sculptures.
+Comparaison avec d’autres œuvres semblables de l’artiste
+43. Louis Archambault a créé un ensemble d’œuvres en céramique à la fin des années 1940 et pendant les années 1950. À ses yeux, ces œuvres, qui sont décrites en détail à l’annexe 5, étaient distinctes de ses sculptures.
+44. Le prix des œuvres en céramique suivantes de Louis Archambault a été établi. En 1968, le Musée national des beaux‑arts du Québec (auparavant le Musée du Québec) a payé un Vase, 1949, faïence, 47,5 cm (no 68.217), 85 $. La valeur actuelle de ce vase n’a pas été déterminée. Cependant, en 2001, une assiette appelée Plat avec décor d’oignons, 1951 (porcelaine, avec décor sous glaçures et glaçure transparente), 7 x 56 x 27,9 cm, a été donnée au Musée. Selon une évaluation, l’œuvre valait 1 800 $; une autre évaluation en a fixé la valeur à 2 500 $. La Commission canadienne d’examen des exportations de biens culturels a ensuite établi la valeur à 2 150 $. (annexe 6)
+45. En 1967, la galerie Robert McLaughlin a acquis une œuvre en céramique de Louis Archambault, Femme au chignon, 1954, qui faisait partie du don d’Alexandra Luke. Cette œuvre a été évaluée à 350 $ en 1970. (annexe 7)
+Prix d’œuvres en céramique d’artistes contemporains
+46. Il importe de noter que toute comparaison entre les œuvres en céramique réalisées par des artistes contemporains comme ceux qui suivent et l’œuvre en question de Louis Archambault peut être trompeuse.
+- Jordi Bonet – Hôtel des encans – 26 février 2001 – sculpture de devant de cheminée (110 x 214 x 43 x 84) en céramique – 4 000 $
+- Joe Fafard – Masters – 13 juin 2001 – Rae, 38 x 15 cm – sculpture en céramique – 8 000 $
+- Heffel’s – 7 novembre 1996 – Cow – 56 x 33 cm – sculpture en céramique – 7 500 $
+- Sotheby’s – 15 novembre 1995 – Little Choc – 36 x 14 cm – sculpture en céramique peinte – 6 000 $
+- Vic Cicansky – 29 novembre 2000 – Couch Potatoes, 27 x 11 cm – sculpture en céramique 1987 – 900 $
+- 24 octobre 1994 – VG – sans titre, 45 x 49 cm – céramique émaillée – 3 000 $
+- Claude Vermette, 21 février 1994 HE – sans titre, 39 x 15 cm – céramique émaillée – 80 $
+- Robert Roussil – 20 octobre 1992 HE – sans titre, 43 x 37 cm – sculpture en argile – 1 100 $
+- Emily Carr – 10 mai 2000 – Thunderbird, 6 x 1 cm –céramique peinte – 1 200 $
+- 6 novembre 1997 – Thunderbird, Frog, Bear – 3 sculptures en céramique – 6 000 $
+47. Par exemple, les œuvres en céramique de Joe Fafard sont manifestement des sculptures individuelles et ne peuvent être comparées avec des objets décoratifs ou fonctionnels. On peut dire la même chose des œuvres du sculpteur en céramique Vic Cicansky.
+48. De plus, dans le cas d’Emily Carr, l’un des peintres les plus connus du Canada, la valeur de ses œuvres en céramique repose sur sa réputation et sur le fait qu’il s’agit de sculptures et non d’éléments d’une production de pièces en céramique comme c’est le cas des céramiques de Louis Archambault.
+Mérite artistique et importance culturelle de l’œuvre
+49. L’œuvre en question, Tête, est l’une des quelques œuvres en céramique de Louis Archambault qui ont été dévoilées au public. On ignore actuellement combien de pièces de sa production d’œuvres en céramique (l’artiste aurait réalisé 300 pièces au cours d’une seule année vers 1957) n’ont pas été rendues publiques et à quel moment, le cas échéant, elles seront mises sur le marché libre.
+50. En ce qui concerne son importance dans la sculpture québécoise et dans notre patrimoine culturel, il ne fait aucun doute que Louis Archambault est l’un des principaux sculpteurs du Québec du milieu du 20e siècle. Ses œuvres en céramique ont certes joué un rôle important, non seulement dans sa propre évolution en tant que sculpteur, mais aussi dans le développement de la sculpture au Québec. L’influence qu’il a exercée sur ses contemporains par son travail d’enseignant est également reconnue. Je ne crois pas toutefois que ses œuvres en céramique, qu’il s’agisse d’objets décoratifs comme l’œuvre en cause ici ou de ses assiettes et plats, plus fonctionnels, appartiennent à la même catégorie que ses sculptures.
+Conclusion
+51. Pour établir la juste valeur marchande de l’œuvre de Louis Archambault, j’ai fait une distinction entre les sculptures de l’artiste et ses pièces décoratives en céramique. J’ai aussi tenu compte du prix payé lors d’une vente aux enchères en décembre 1999, du marché limité pour ce qui est des pièces en céramique de ce genre, de la qualité du travail et de la réputation de l’artiste.
+52. À mon avis, l’œuvre avait, en novembre 2000, une juste valeur marchande de 3 500 $. En fait, il s’agit de la valeur maximale de l’œuvre compte tenu des circonstances décrites ci‑dessus.
+[9] Mme Millar a parlé d’autres artistes ayant réalisé des œuvres en céramique, par exemple Joe Fafard et Vic Cicansky. Les seules ventes qui se rapprochaient du montant de 8 000 $ que l’appelant prétendait être la valeur de l’œuvre Tête concernaient trois sculptures de Joe Fafard, Rae, Cow et Little Choc, qui ont été vendues 8 000 $, 7 500 $ et 6 000 $ respectivement. Il est difficile de tirer une conclusion solide de ces ventes. Les prix des sculptures en céramique semblent varier considérablement, et évaluer une œuvre en céramique d’un sculpteur en la comparant avec une œuvre très différente réalisée par un autre sculpteur me semble risqué et peu fiable comme méthode. Les photographies des œuvres de différents sculpteurs, notamment ceux nommés ci‑dessus et Emily Carr, montrent que chacun a son style. De même, il me semble discutable comme méthode que de tenter de déterminer la valeur d’une sculpture en céramique réalisée par un artiste en la comparant avec une sculpture en bronze du même artiste.
+[10] L’avocate a fait référence à plusieurs décisions de la Cour, dont Aikman et al. c. La Reine, [2000] A.C.I. no 72, 2000 DTC 1874 (conf. par [2002] A.C.F. no 398, 2002 DTC 6874), et Klotz v. The Queen, 2004 TCC 147, selon lesquelles le prix payé pour un bien est un point de départ très utile lorsqu’on veut établir sa valeur et pourrait bien, en l’absence de données concernant des ventes fiables comparables sur le marché, être déterminant.
+[11] M. Maréchal s’est fortement appuyé sur les deux évaluations remises par le Musée à la Commission. L’avocate de l’intimée s’est opposée à la production de ces documents en preuve parce que M. Maréchal n’avait pas respecté la règle selon laquelle les rapports de témoins experts doivent être signifiés aux autres parties et déposés à la Cour au moins 30 jours avant le début de l’audience et les témoins experts doivent être disponibles pour contre‑interrogatoire.
+[12] L’objection de l’intimée a une certaine validité, mais j’ai permis à l’appelant de produire les rapports en preuve, comme j’ai le pouvoir de le faire. La Commission les avait évidemment en main lorsqu’elle a évalué la sculpture. En outre, l’appelant se représente lui‑même et le montant en jeu n’est pas très élevé — l’écart entre les parties est de 3 000 $. Les frais qu’aura à payer M. Maréchal pour faire témoigner ces experts pourraient bien dépasser ce montant. Les parties qui se représentent elles‑mêmes ont le droit de s’attendre à ce qu’on leur donne la possibilité de présenter leurs arguments aussi pleinement que possible sans que des obstacles de nature formelle et des obstacles en ce qui concerne la preuve les en empêchent.
+[13] Comme l’appelant s’appuyait en grande partie sur les deux évaluations susmentionnées, je les reproduis ci-après; elles sont relativement courtes.
+(Évaluation no 1)
+Montréal, le 29 septembre 2000
+Danièle Archambault
+Musée des beaux-arts de Montréal
+2189 Bishop
+Montréal
+Tél.: 285-1600, poste 167
+Objet : Évaluation d’une céramique de Louis Archambault
+Madame,
+À votre demande, nous avons évalué l’œuvre suivante de Louis Archambault offerte en don par M. Paul Maréchal :
+Titre : Sans titre (tête de femme)
+Date : 1952
+Médium : Céramique émaillée
+Dimensions : 58 x 32 x 26 cm
+Évaluation : 8 000 $
+Louis Archambault (1915- ) est un sculpteur dont la carrière s’étend sur une soixantaine d’années. L’œuvre que nous avons à évaluer peut être associée à ses céramiques surréalisantes qu’il réalisa durant la Seconde guerre mondiale. Les années cinquante ont été plutôt marquées par de grandes sculptures en métal plié et découpé ou en bronze comme l’œuvre qu’il réalisa pour le pavillon du Canada à Bruxelles (1956).
+L’intérêt pour cet artiste a toujours été constant comme en témoigne l’exposition réalisée au Musée des beaux-arts de Montréal (1993) et le documentaire présenté en mars dernier au Festival international du film sur l’art. Mais le marché pour les œuvres de cet artiste est demeuré mince malgré des commandes importantes (Sunburst, 1959, propriété de la Sun Life à Toronto; L’Ange, propriété de la Place des arts). Louis Archambault a enseigné à l’UQAM.
+La seule transaction récente que nous ayons trouvée est celle concernant l’achat par le Musée des beaux-arts du Canada d’une petite tête en plâtre (24 x 12 x 13 cm) datée de 1954 au prix de 1 500 $ en 1990. Même si cette transaction date, nous n’avons guère le choix d’y faire référence car les sculpteurs de la même génération sont rares – et souvent oubliés – exception faite de Roussil et de Vaillancourt, qui bien que plus jeune, peut être associé à cette génération de sculpteurs. Compte tenu de la différence de taille importante et des matériaux, nous avons accordé une valeur de 8 000 $ à cette œuvre de Louis Archambault.
+Nous avons établi la juste valeur marchande de cette œuvre telle que définie par la Commission canadienne d’examen des exportations de biens culturels, à savoir le prix le plus élevé, exprimé en espèces, qu’un bien rapporterait sur le marché libre, dans une transaction entre un vendeur et un acheteur consentants qui seraient indépendants l’un de l’autre et qui agiraient en toute connaissance de cause.
+Cette évaluation a été faite au meilleur de ma connaissance après un examen de l’œuvre et le prix indiqué représente la juste valeur marchande en date de cette évaluation. Par ailleurs, je n’ai aucun intérêt dans cette transaction entre le donateur, M. Paul Maréchal, et le Musée des beaux-arts de Montréal. Je n’ai pas transigé cette œuvre. Mes honoraires sont un montant forfaitaire; ils ne dépendent donc pas du montant de l’évaluation.
+Je suis en affaires depuis douze ans, je m’intéresse au marché de l’art contemporain depuis vingt ans à titre de collectionneur et je suis membre de l’Association des galeries d’art contemporain (AGAC) depuis mes débuts en affaires.
+(lettre signée par)
+Eric Devlin
+---------------
+Montréal, le 29 décembre 2000
+M. Marc Bédard
+Commission canadienne d’examen
+des exportations de biens culturels
+15, rue Eddy, 3ième étage
+Hull, K1A 0M5
+Fax : 819-997-7757
+Objet : Complément d’information concernant le don d’une sculpture de Louis Archambault par Paul Maréchal
+Cher Monsieur,
+La Commission a demandé au Musée des beaux-arts de Montréal d’appuyer par d’autres arguments l’évaluation que j’ai faite d’une œuvre de Louis Archambault offerte en don par M. Paul Maréchal.
+À cet appui, vous trouverez ci-joint une lettre de M. Simon Blais ainsi que deux preuves de transactions récentes.
+Je demeure votre obligé.
+(lettre signée par)
+Eric Devlin
+(Évaluation no2)
+Madame Danielle Archambault Montréal, le 1er novembre 2000
+Musée des beaux-arts de Montréal
+1800, rue Sherbrooke ouest
+Montréal (Québec) H3G 2T9
+Re : dossier de monsieur Paul Maréchal, évaluation d’une céramique de Louis Archambault au montant de 8000 $.
+Chère madame Archambault,
+À votre demande, je désire par la présente ajouter quelques données complémentaires au dossier d’évaluation d’une œuvre sculpturale de l’artiste Louis Archambault qui est offerte au Musée des beaux-arts de Montréal par monsieur Maréchal.
+En guise de justification, et parce que cet artiste a très peu vendu d’œuvres au cours de sa carrière, je me dois d’utiliser des éléments de comparaison provenant de ventes d’œuvres d’autres artistes à la carrière comparable.
+Par exemple, Famille, un bronze de Charles Daudelin datant de 1949 et édité à 6 exemplaires (34 X 25 x 4 cm) a été vendu par nous en mars 1997 pour la somme de 6000 $; en janvier 1998 nous avons vendu une bois brûlé d’Armand Vaillancourt datant de 1963 pour la somme de 16500 $; la galerie d’arts contemporains vendait en 1995 Sans titre de Jordi Bonet, sculpture d’aluminium unique mesurant 16 x 12 x 3 po pour la somme de 12000 $; de Robert Roussil, Mère et enfant, bois sculpté datant de 1951 et mesurant environ 100 cm de hauteur, a été acquis en 1989 par le Musée du Québec pour la somme de 28000 $; de René Derouin, Migrants VI, 1998, bronze tiré à 8 exemplaires mesurant 15 cm x 18 x 11 cm. vendu par nous en juin 2000 pour la somme de 5000 $; et finalement, de Roseline Granet, Couple en déséquilibre, bronze datant de 2000, édité à 8 exemplaires, mesurant 50 x 25 x 20 cm, vendu en juin 2000 par nous pour la somme de 7500 $.
+Ces données permettent de comprendre que les sculptures d’artistes réputés du Québec et d’ailleurs, qu’elles soient des années 1950, 1960, 1970, ou même très récentes, commandent des prix qui varient entre 5000 $ pour les plus petites et très récentes, et jusqu’à 16500 $ et même 28000 $ pour les plus anciennes. Les bronzes de Riopelle des années 1970 quant à eux commandent des prix de l’ordre de 35000$ à 50000 $. Cette très belle céramique de Louis Archambault est de taille importante (58 cm de hauteur), et fait partie de la production la plus significative de cet important artiste du Québec au début des années 1950. Comme il ne reste que très peu d’exemples de cette production, et que cette céramique est particulièrement belle et inusitée, son évaluation originale à 8000 $ me semble plus que conservatrice en regard des prix que commandent les sculptures d’artistes de réputation équivalente.
+Fait à Montréal par Simon Blais le 1er novembre 2000
+[14] Il aurait été beaucoup plus utile pour moi (de même, à mon avis, que pour l’appelant) que MM. Devlin et Blais témoignent. Dans les circonstances, je ne dispose que des rapports qui corroborent la conclusion selon laquelle la sculpture valait 8 000 $.
+[15] L’évaluation d’une œuvre d’art est un exercice difficile. Ce n’est pas comme l’évaluation d’une propriété commerciale, d’une maison ou des actions d’une société, pour laquelle il est plus facile d’avoir recours à des critères bien définis. Lorsqu’on évalue une œuvre d’art, il faut tenir compte de nombreuses variables et éléments subjectifs qui peuvent entraîner des estimations très différentes de la valeur.
+[16] L’experte de la Couronne, Mme Millar, dont l’expertise, les compétences et l’expérience étaient impressionnantes, a énoncé les facteurs suivants qui devraient être pris en compte dans l’évaluation d’une œuvre d’art :
+[TRADUCTION]
+13. Il faut prendre en considération plusieurs éléments lorsqu’on évalue une œuvre d’art. Il s’agit en général des éléments suivants :
+- la formation de l’artiste, sa réputation et les expositions de ses oeuvres;
+- les ventes de ses œuvres (marché primaire);
+- les ventes aux enchères de ses œuvres (marché secondaire);
+- la demande sur le marché pour ses oeuvres;
+- l’origine de l’œuvre et les ventes dont elle a fait l’objet dans le passé;
+- la matière et le moyen d’expression utilisés, la taille de l’œuvre, la date de sa réalisation, sa qualité et de son sujet;
+- les prix comparables d’œuvres similaires du même artiste;
+- les prix comparables d’œuvres similaires d’autres artistes ayant une expérience similaire;
+- les prix comparables d’œuvres réalisées dans des circonstances similaires.
+Il est évident, à la lecture de cette liste, qu’il y a une grande flexibilité quant au poids que les évaluateurs peuvent accorder à chacun de ces facteurs.
+[17] Le rapport de Mme Millar constitue une analyse complète et minutieuse du problème de l’évaluation, à des fins fiscales au Canada, des œuvres d’art qui sont données à des galeries d’art. Ses observations mériteraient probablement d’être reproduites intégralement, mais je me contenterai de citer un paragraphe en particulier auquel je souscris entièrement.
+[TRADUCTION]
+19. Par conséquent, la meilleure preuve, à mon avis, de la « juste valeur marchande » réelle est le prix que le donateur a payé pour l’œuvre, ce à quoi s’ajoute un certain facteur d’appréciation qui dépend de la fluctuation du marché libre. Cette méthode permet d’échapper au problème des « évaluations artificiellement gonflées » qui excèdent le prix qui a été réellement payé pour l’œuvre. Le seul cas où peut se justifier un prix élevé à la suite d’un « achat à vil prix » est lorsque, au même moment que le don, une œuvre similaire est vendue par une galerie ou un marchand reconnus (ou par un autre moyen approprié, comme une vente aux enchères) au prix plus élevé établi, et que des factures fiables sont fournies.
+[18] Le problème en l’espèce vient du fait que, en dépit de l’excellente réputation de M. Archambault, il n’y a aucune vente récente d’une sculpture en céramique de lui semblable à celle en cause qui justifierait le chiffre de 8 000 $ avancé par l’appelant. En fait, bien que cet artiste ait été prolifique dans différents types de production artistique, il y a relativement peu de ventes comparables de ses œuvres, en particulier de ses sculptures en céramique. Selon Mme Millar, seulement deux céramiques de Louis Archambault ont été vendues aux enchères au cours des dernières années : Tête (la sculpture en cause ici) et Yellow Bird, un plat en céramique émaillée qui a été vendu au prix de 575 $ chez Ritchies à Toronto en 2000.
+[19] Il y a plusieurs points soulevés par Mme Millar qu’il y a lieu de mentionner ici. Le premier est la distinction qu’elle fait entre une pièce décorative et une sculpture. Selon elle, Tête appartient à la première catégorie, alors que les œuvres de Joe Fafard et de Vic Cicansky font partie de la deuxième. J’estime que cette distinction est quelque peu subtile et je ne suis pas convaincu qu’elle est importante dans le contexte de l’évaluation des œuvres d’art. La décision de qualifier telle œuvre d’art de « sculpture » et telle autre de « pièce décorative » est à la fois subjective et difficile. C’est une affaire d’opinion et il y a peu de chances que les experts s’entendent là-dessus. Cette distinction ne constitue pas un fondement fiable pour l’évaluation d’une œuvre car elle est quelque peu nébuleuse.
+[20] Le deuxième point soulevé par Mme Millar a trait à la réputation de l’artiste. Même si elle est excellente, la réputation de Louis Archambault ne semble pas avoir eu une grande incidence sur le prix de ses œuvres. La réputation d’un artiste peut, dans certaines circonstances, se refléter dans le prix payé pour ses œuvres — dans le cas de Van Gogh ou de Picasso, par exemple — mais ce n’est pas nécessairement toujours le cas. À mon avis, quiconque cherche à attribuer à une œuvre d’art une valeur plus élevée devrait démontrer clairement comment la réputation de l’artiste a eu pour effet de hausser la JVM de ses oeuvres.
+[21] Finalement, Mme Millar indique que le mérite artistique d’une œuvre d’art doit aussi être pris en compte dans son évaluation. Je n’accepte ni ne rejette cette affirmation. Je dis simplement que c’est un élément dont il conviendrait de faire un examen plus approfondi et que je ne me fonde pas sur le mérite artistique pour rendre ma décision. Il est presque aussi difficile de définir et de reconnaître le mérite artistique que de définir l’art lui‑même. Les experts en matière d’art et les artistes sont sans doute mieux placés qu’un tribunal pour déterminer si une œuvre d’art a du mérite artistique. Il s’agit néanmoins d’un concept insaisissable et indéfinissable qui est incontestablement très subjectif. Je serais hésitant à fonder la détermination de la valeur d’une œuvre sur l’opinion d’un expert en matière d’art, même le plus réputé, que cette œuvre a du mérite artistique.
+[22] Sur la question du mérite artistique, j’accepte donc l’opinion de Mme Millar (et, évidemment, celle de la Commission et de M. Maréchal) que l’œuvre Tête a du mérite artistique. Je reconnais en outre que la détermination du mérite artistique n’est pas nécessairement toujours purement subjective ou relativiste. Il y a manifestement des critères objectifs qui peuvent s’appliquer. Les œuvres de Rembrandt ont, selon tous les critères objectifs, du mérite artistique et esthétique. Le fait que ses œuvres aient, objectivement, du mérite artistique et le fait qu’elles soient de cet artiste justifie sans doute, du moins en partie, leur prix élevé. Cependant, nous ne tentons pas d’évaluer une œuvre de Rembrandt en l’espèce. Je dit simplement qu’il faut faire preuve de prudence en se servant d’un jugement subjectif sur la présence ou l’absence de mérite artistique comme facteur dans la détermination de la JVM d’une œuvre d’art.
+[23] Mme Millar a pris comme point de départ le prix payé par l’appelant pour acquérir la sculpture en 1999 (soit 1 300 $ ou 1 719 $ selon qu’on tient compte des taxes et de la commission ou non) et a ajouté ce qu’elle appelle un [TRADUCTION] « facteur de fluctuation du marché libre » pour arriver à une valeur de 3 500 $. On peut considérer un ajustement de ce genre comme arbitraire — et il l’est sans doute dans une certaine mesure, — mais il est impossible d’éviter complètement un certain arbitraire dans l’évaluation d’œuvres d’art. Cependant, ce qu’une personne pourrait considérer comme de l’arbitraire pourrait être qualifié par une autre d’exercice d’une discrétion éclairée ou de jugement de valeur fondé sur l’expérience. Tout dépend de qui prononce dans un cas donné.
+[24] Mme Millar, une experte expérimentée dans le domaine de l’art, a utilisé le prix payé en 1999 pour établir une valeur qui est environ le double de celui‑ci un an plus tard. La Commission a triplé ou quadruplé ce prix et les évaluateurs Devlin et Blais ont quintuplé ou sextuplé le coût initial, selon le chiffre utilisé. Je ne pense pas que les rapports de MM. Devlin et Blais renferment le type de preuve qui justifierait la conclusion que la valeur de l’œuvre en cause a augmenté de 500 p. 100. Une augmentation aussi spectaculaire est théoriquement possible dans des circonstances extraordinaires, mais, dans la réalité, cela semble fort peu probable, et pareille augmentation n’a pas été démontrée en l’espèce.
+[25] En conséquence, il n’a pas été démontré que la valeur de la sculpture est supérieure au chiffre de 5 000 $ déterminé par la Commission. L’appel est donc rejeté.
+[26] Même si l’affaire a été entendue sous le régime de la procédure générale, j’ai décidé de ne pas condamner l’appelant aux dépens, et ce, pour plusieurs raisons. Évidemment, cette décision n’a rien à voir avec la conduite de l’avocate de l’intimée. En effet, Me Jacquier a plaidé la cause de l’intimée en se montrant, comme elle le fait habituellement, habile, méticuleuse et juste. Ma décision tient au fait que, malgré le montant d’argent relativement bas qui est en cause, l’affaire soulève d’importantes questions de principe qui vont au‑delà du montant en litige. Il faut féliciter M. Maréchal d’avoir soumis l’affaire à la Cour. Il a présenté ses arguments avec une grande habileté. En outre, la Loi sur la Cour canadienne de l’impôt ne renferme aucune disposition permettant de choisir la procédure informelle dans le cas des appels relatifs aux déterminations de valeur faites par la Commission en vertu de la Loi sur l’exportation et l’importation de biens culturels. Par conséquent, l’appelant devait utiliser la procédure générale, même si le montant en jeu n’était pas élevé.
+Signé à Ottawa, Canada, ce 17e jour d’août 2004.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Annexe A
+RÉFÉRENCE :
+2004CCI464
+NUMÉRO DU DOSSIER DE LA COUR :
+2001-4224(EXP)G
+INTITULÉ :
+Paul Maréchal et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 20 mai 2004
+MOTIFS DU JUGEMENT :
+Le juge en chef adjoint D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 17 août 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Chantal Jacquier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada

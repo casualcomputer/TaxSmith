@@ -1,0 +1,343 @@
+Title: Khaira c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27688/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-118-27688-khaira-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-05
+
+# Khaira c. La Reine
+
+- Citation: 2004 CCI 118
+- Decision date: 2004-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 507, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khaira c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-05
+Référence neutre
+2004 CCI 118
+Numéro de dossier
+2002-1265(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1265(IT)I
+ENTRE :
+BALVINDER KHAIRA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête et appels entendus les 8 et 9 janvier 2003
+à Vancouver (Colombie‑Britannique)
+devant l’honorable M.A. Mogan
+Comparutions :
+Représentant de l’appelant :
+Prem C. Bhalla
+Avocats de l’intimée :
+Me George Boyd Aitken et Me Roger Leclaire
+____________________________________________________________________
+JUGEMENT
+Sur requête déposée par l’intimée au début de l’audience afin d’obtenir une ordonnance annulant les soi-disant appels de cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998 au motif qu’aucun avis d’opposition n’a été signifié pour l’une ou l’autre année;
+Il est ordonné que les appels de cotisations d’impôt établies en vertu de la Loi pour les années d’imposition 1997 et 1998 soient annulés.
+Les appels de cotisations d’impôt établies en vertu de la Loi pour les années d’imposition 1994 et 1995 sont rejetés; l’appel de la cotisation d’impôt établie pour l’année d’imposition 1996 est admis, et la cotisation est renvoyée au ministre du Revenu national pour qu’il la réexamine et en établisse une nouvelle afin de faire ce qui suit : (i) exclure le montant de 7 116 $ du revenu de l’appelant (et exclure tout report prospectif de perte) parce que la société de personnes n’avait pas d’entreprise agricole dont elle aurait pu attribuer le revenu agricole; et (ii) autoriser l’appelant à déduire une perte possible (en capital ou autre qu’en capital, selon les circonstances) relativement à la disposition de ses 19 440 actions privilégiées en faveur de son REER.
+Signé à Ottawa, Canada, ce 5e jour de février 2004.
+« M.A. Mogan »
+Le juge Mogan
+Traduction certifiée conforme
+ce 6e jour de juin 2005.
+Joanne Robert, traductrice
+Référence : 2004TCC118
+Date : 20040205
+Dossier : 2002-1265(IT)I
+ENTRE :
+BALVINDER KHAIRA,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Le 30 novembre 1994, l’appelant a souscrit cinq unités dans la société de personnes en commandite Shyloh 1994-1 (la « société en commandite ») au prix de 5 000 $ l’unité pour un prix de souscription total de 25 000 $. Le même jour, l’appelant a souscrit 25 actions ordinaires dans la société Shyloh 1994-1 Investments Ltd. (la « société ») au prix d’un dollar l’action pour un prix de souscription total de 25 $. La société en commandite et la société sont réputées avoir été formées pour [TRADUCTION] « exploiter une entreprise consistant à acquérir, à faire l’élevage, à montrer, à exposer et à vendre des pur sang arabes égyptiens afin de gagner un revenu d’agriculture ». Voir la pièce R‑1, onglet 13. Par suite de son investissement dans la société en commandite et la société, l’appelant a déduit, dans le calcul de son revenu, des pertes agricoles de 8 750 $ en 1994 et de 6 250 $ en 1995. Il a aussi reporté à 1996 une perte agricole de 7 116 $.
+[2] Dans des avis de nouvelle cotisation, le ministre du Revenu national a refusé la déduction des pertes agricoles en 1994 et 1995, et il a également refusé la perte reportée à 1996. L’appelant a produit un avis d’appel en date du 12 mars 2002 concernant les années 1994 à 1998. Dans sa réponse, l’intimée alléguait que les appels relatifs aux années 1997 et 1998 n’étaient pas valides parce que aucun avis d’opposition n’avait été signifié pour l’une et l’autre année, et elle affirmait qu’elle demanderait à la Cour de rendre une ordonnance annulant les appels pour les années 1997 et 1998. Au début de l’audience, l’intimée a demandé l’annulation. Après avoir entendu les brefs témoignages oraux, j’ai accueilli la requête de l’intimée et j’ai annulé les soi-disant appels pour 1997 et 1998. L’audience s’est ensuite poursuivie pour qu’il soit statué sur les appels visant les années 1994, 1995 et 1996. L’appelant a opté pour la procédure informelle.
+[3] Dans son avis d’appel, l’appelant dit que l’Agence des douanes et du revenu du Canada (« l’ADRC ») lui a fait savoir que la principale raison de sa nouvelle cotisation était qu’il n’avait pas d’attente raisonnable de profit relativement à la société en commandite ni à la société. L’appelant prétend que la seule raison pour laquelle il a investi dans la société en commandite et dans la société était d’en tirer un profit. Dans sa réponse à l’avis d’appel, l’intimée ne s’est pas fondée sur l’« attente raisonnable de profit », mais a soulevé d’autres questions, notamment les suivantes :
+a) la question de savoir si la constitution de la société en commandite est valide;
+b) la question de savoir si la société en commandite exploitait une entreprise;
+c) la question de savoir si certaines dépenses que la société en commandite a déduites dans le calcul du revenu ont été engagées;
+d) la question de savoir si certaines actions transférées par l’appelant à son régime enregistré d’épargne‑retraite (« REER ») étaient des « placements admissibles » pour l’application de la Loi de l’impôt sur le revenu (la « Loi »);
+e) la question de savoir si la juste valeur marchande de telles actions au moment du transfert au REER dépassait 1 600 $.
+Les faits
+[4] L’appelant est né en Inde en 1959 et, à son arrivée au Canada à l’âge de 12 ans environ, il a été admis en 8e année dans une école primaire canadienne. Il a terminé sa 12e année dans une école secondaire et il a toujours travaillé depuis ce temps. Au cours des années visées par l’appel, il occupait un poste de responsabilité et sa rémunération variait entre 50 000 $ et 80 000 $. Il exploitait également en parallèle une petite entreprise qui consistait à placer des distributrices de boissons gazeuses dans des bureaux et des immeubles à bureaux. L’appelant est intelligent, travailleur et entreprenant, mais ses connaissances dans les domaines liés aux placements ou à l’impôt sur le revenu sont superficielles.
+[5] L’appelant a pris connaissance d’une notice d’offre (pièce R‑1, onglet 13) invitant les investisseurs éventuels à souscrire 250 « participations jumelées » et d’après laquelle chaque participation jumelée consistait en une unité (5 000 $) dans la société en commandite et en cinq actions ordinaires (5 $) dans la société. La notice d’offre est un document impressionnant de quelque 75 pages présenté sous forme de prospectus, mais affichant les deux mises en garde suivantes à la première page :
+[TRADUCTION]
+Aucune commission des valeurs mobilières ni aucune autorité similaire ne s’est prononcée sur la qualité des titres offerts dans la présente notice d’offre, ni n’a examiné celle‑ci; toute personne qui donne à entendre le contraire commet une infraction.
+LES TITRES OFFERTS DANS LES PRÉSENTES SONT DE NATURE SPÉCULATIVE. Il n’existe aucun marché pour la négociation de ces titres, de sorte qu’il peut être difficile, voire même impossible, pour les porteurs d’en disposer. La revente ou le transfert des unités et des actions ordinaires est assujetti aux restrictions imposées par la Securities Act (Colombie‑Britannique) […] et, dans le cas des unités, par le contrat de société en commandite. Il se peut que les détenteurs de participations jumelées ne puissent pas liquider leur investissement; seuls les investisseurs en mesure d’investir à long terme et d’accepter les risques inhérents à l’élevage des chevaux devraient en envisager l’achat. […]
+Il s’agit de mises en garde types des offres privées, mises en garde qu’on ne trouve pas dans un prospectus soumis à l’examen d’une commission des valeurs mobilières provinciale.
+[6] La notice d’offre précisait que la souscription minimale pour un résident de la Colombie‑Britannique était de 25 025 $, ce qui correspond à cinq unités dans la société en commandite (25 000 $), de même qu’à 25 actions ordinaires (25 $) dans la société. Du fait que l’appelant résidait en Colombie‑Britannique, il a investi la somme minimale de 25 025 $. La pièce R-4 comprend six documents que l’on peut décrire brièvement de la façon suivante :
+a) une souscription de cinq unités dans la société en commandite pour un prix de souscription total de 25 000 $, accompagnée d’un chèque de 18 750 $;
+b) une souscription de 25 actions ordinaires dans la société pour un prix de souscription total de 25 $, accompagnée d’un chèque de 25 $;
+c) une demande de crédit dans laquelle l’appelant sollicite auprès de Shyloh Ranches Ltd. un emprunt de 6 250 $, soit le solde impayé du prix de souscription des unités. Shyloh Ranches Ltd. est une filiale à cent pour cent de Shyloh Management Ltd., associé commandité de la société en commandite;
+d) un billet à ordre au montant de 6 250 $ signé par l’appelant en faveur de Shyloh Ranches Ltd;
+e) une attestation sur un formulaire 20A conformément à la Securities Act de la C.‑B. relativement à 25 (sic) unités dans la société en commandite;
+f) une attestation sur un formulaire 20A conformément à la Securities Act de la C.‑B. relativement à 25 actions ordinaires dans la société.
+Les six documents précités sont tous datés du 30 novembre 1994, ce qui indique qu’ils ont été signés le même jour par l’appelant à Surrey (C.‑B.).
+[7] Les deux attestations mentionnées en e) et f) du paragraphe 6 ci‑dessus renferment un énoncé semblable à ce qui suit :
+[TRADUCTION]
+Le preneur, du fait de son expérience de l’avoir net et de l’investissement ou de ses consultations auprès d’une personne qui n’est pas un initié de l’émetteur, mais qui est un conseiller agréé ou un courtier en valeurs inscrit, est en mesure d’évaluer l’investissement éventuel sur la base de l’information fournie par l’émetteur.
+J’ai déjà mentionné que la notice d’offre est un document impressionnant de 75 pages. D’après ce que j’ai pu comprendre de l’appelant quand il a témoigné oralement, ce dernier n’est pas rompu aux questions liées à l’investissement. Il ne semble pas posséder beaucoup de capitaux parce que (i) il a emprunté 6 250 $ auprès de Shyloh Ranches Ltd. et (ii) il a dit qu’il avait réuni le versement initial de 18 750 $ grâce à ses économies personnelles, d’une part, et à un emprunt, d’autre part. L’appelant a de plus affirmé qu’il se rappelait avoir pris connaissance de la notice d’offre, mais qu’il ne l’avait pas examinée en détail et qu’il ne se souvenait pas de la façon dont la société en commandite devait réaliser un profit. Bien que l’appelant ait signé les attestations e) et f), je crois qu’il n’est pas le genre de personne capable d’évaluer l’investissement dans la société en commandite et la société sur la base de l’information figurant dans la notice d’offre.
+[8] Au cours de son interrogatoire principal, l’appelant a dit qu’on lui avait montré le plan (je crois qu’il voulait dire la notice d’offre), qu’aucune pression n’avait été exercée sur lui pour qu’il souscrive les titres, que le document indiquait qu’il était question de chevaux, qu’il consentait à courir le risque et, qu’à son avis, le profit attendu l’emportait sur le risque. Il a affirmé que n’étant pas comptable, il s’était fié aux documents. Au cours du contre‑interrogatoire, la pièce R-2, onglet 35, intitulée [TRADUCTION] « Rapprochement des pertes des années antérieures de la société en commandite », lui a été montrée. Il s’agit d’un tableau fourni à l’appelant par la société en commandite. Le tableau porte sur les années 1990 à 1996, mais des montants sont inscrits seulement pour les années 1994, 1995 et 1996. J’en conclus donc qu’il a été remis à l’appelant quelque temps après le 31 décembre 1996. Les montants figurant à la pièce R-2, onglet 35 (par associé), peuvent être résumés de la façon suivante :
+1994
+1995
+1996
+A Pertes cumulatives au début de l’année
+-0- $
+6 250 $
+10 000 $
+B Pertes de l’année en cours
+15 000
+10 000
+-0-
+C Total partiel
+15 000
+16 250
+10 000
+D Pertes déduites au cours de l’année
+8 750
+6 250
+7 116
+E Pertes cumulatives à la fin de l’année
+6 250
+10 000
+2 883
+[9] Étant donné que la société en commandite faisait état de pertes réelles en 1994 et en 1995 (ligne B du tableau ci‑haut) et que les pertes étaient réputées découler de l’agriculture, l’appelant a déduit seulement la perte agricole restreinte en vertu de l’article 31 de la Loi. C’est ce qui explique les sommes déduites en 1994 et en 1995 à la ligne D du tableau ci‑dessus. Pour 1996, l’appelant a déclaré un revenu d’agriculture de 7 116 $ (voir pièce R-1, onglet 3); il a donc reporté prospectivement et déduit des pertes d’années antérieures de seulement 7 116 $ (ligne D du tableau ci‑dessus) afin de ramener à zéro le revenu d’agriculture déclaré pour 1996. Il est impossible d’établir clairement, d’après les montants indiqués dans la déclaration de revenus de l’appelant pour 1996 (pièce R-1, onglet 3), s’il a véritablement reporté une perte d’une année antérieure de 7 116 $. La ligne 150 indique un revenu total de 62 808 $. Les lignes 208 à 232 indiquent des déductions totales de seulement 20 852 $, ce qui donne un solde de 41 956 $. Mais à la ligne 260, l’appelant a inscrit un revenu imposable de 34 840 $, montant qu’il ne pouvait obtenir qu’en déduisant une somme supplémentaire de 7 116 $, qui n’est en fait pas indiquée à la ligne 251 ou 252 de la déclaration.
+[10] Selon le numéro 8 de la réponse de l’intimée à l’avis d’appel, le ministre a établi, à l’égard de l’appelant, une nouvelle cotisation relativement à l’année d’imposition 1996 afin de refuser le report prospectif d’une perte agricole restreinte de 3 750 $. Je ne trouve aucun élément probant pour expliquer l’écart entre le montant de 3 750 $ mentionné dans le plaidoyer de l’intimée et le montant de 7 116 $ qui, d’après mes conclusions, est le montant que l’appelant a déduit en 1996 à titre de report prospectif de perte. À mon avis, le montant pertinent s’établit à 7 116 $.
+[11] En ce qui concerne les preuves relatives au revenu et à la situation financière de l’appelant, son investissement de 18 750 $ en espèces et son obligation de payer un billet à ordre de 6 250 $ (pièce R-4) sont des opérations importantes. Voici l’essentiel du billet à ordre :
+[TRADUCTION]
+EN CONTREPARTIE DE LA VALEUR REÇUE, S. KHAIRA (« l’emprunteur ») s’engage par la présente à payer à Shyloh Ranches Ltd. (le « prêteur ») ou sur son ordre, au 200-1465, rue Ellis, Kelowna (Colombie‑Britannique) V1Y 2A3, ou à telle autre adresse que le prêteur peut désigner par écrit, le principal de (1) SIX MILLE DEUX CENT VINGT CINQ DOLLARS (sic) (6 250 $) à la date qui tombe quarante-cinq (45) jours après la date d’émission des actions privilégiées par Shyloh 1994-1 Investments Ltd. au moment du transfert des biens de la société en commandite Shyloh 1994‑1 ou, advenant que lesdites actions privilégiées ne soient pas émises d’ici le 15 février 1996, le 15 février 1996. Le principal portera intérêt à compter de la date d’échéance au taux de 12 % par année.
+La demande d’emprunt de l’appelant (qui fait également partie de la pièce R‑4) comporte une disposition prévoyant que le montant du prêt ne doit pas porter intérêt avant l’échéance. Je déduis du libellé du billet à ordre que sa date d’échéance ou son exigibilité était le 15 février 1996 ou 45 jours après l’émission de certaines actions de la société, si ces actions étaient émises au plus tard le 15 février 1996. En d’autres termes, la date d’échéance du billet à ordre pouvait être antérieure au 31 mars 1996, mais elle ne pouvait pas tomber après le 31 mars 1996 (45 jours après le 15 février). Après la date d’échéance, le montant du prêt allait porter intérêt au taux de 12 % par année.
+[12] Le billet à ordre fait allusion à un transfert de biens de la société en commandite à la société en contrepartie d’actions. La notice d’offre décrit ce transfert plus en détail. À la page 1 :
+[TRADUCTION]
+Il est proposé que la société en commandite exerce ses activités jusqu’au 15 janvier 1996 environ. Sous réserve de l’approbation des associés commanditaires, les biens de la société en commandite seront alors transférés à la société (le « transfert des biens »). En contrepartie du transfert de biens, la société assumera toutes les obligations de la société en commandite et émettra à celle‑ci des actions privilégiées (les « actions privilégiées »). Dans les 45 jours qui suivront le transfert des biens, la société en commandite sera dissoute. Au moment de la dissolution, les associés commanditaires recevront toutes les actions privilégiées au prorata de leur participation. La société poursuivra ses activités jusqu’au 31 décembre 1999, date à laquelle elle sera dissoute. Avant sa dissolution, les biens de la société seront liquidés afin de permettre une distribution définitive en espèces au plus tard à la date de dissolution.
+Et aux pages 3 et 4 :
+[TRADUCTION]
+Les souscripteurs ont la possibilité de rembourser l’emprunt contracté auprès de Shyloh Ranches en remettant à Shyloh Ranches les actions privilégiées de catégorie B de la société. Au moment du transfert projeté des activités de la société en commandite à la société le 15 janvier 1996, des actions privilégiées de catégorie A et de catégorie B seront émises à la société en commandite. Le formulaire de demande de prêt prévoit que chaque associé commanditaire remettra à Shyloh Ranches, au moment de la dissolution de la société en commandite, les actions privilégiées de la catégorie B ayant un prix de rachat global correspondant à 1 250 $ l’unité souscrite, en règlement intégral du prêt. Les actions privilégiées de catégorie A et de catégorie B de la société sont identiques à tous égards importants.
+Si l’associé commanditaire ne souhaite pas rembourser le prêt en remettant les actions privilégiées de catégorie B à Shyloh Ranches de la façon décrite ci‑dessus, il sera tenu (i) d’envoyer un avis à cet effet en la forme prescrite à Shyloh Ranches au plus tard le 15 janvier 1996 et (ii) de rembourser le prêt au plus tard le 15 février 1996. L’associé commanditaire recevra alors des actions privilégiées de catégorie A de la société. Si la société en commandite et Shyloh Ranches ne reçoivent pas l’avis dont il est question ci‑dessus au plus tard le 15 janvier 1996, les actions privilégiées de catégorie B seront automatiquement remises à Shyloh Ranches en remboursement du prêt.
+[13] La notice d’offre est longue, mais elle comprend un résumé de ses dispositions aux pages 6 à 10. Je considère que les passages suivants de ce résumé sont pertinents :
+[TRADUCTION]
+Considérations d’ordre fiscal :
+La société en commandite utilisera la méthode de comptabilité de caisse pour le calcul de son revenu aux fins de l’impôt, et prévoit que des pertes pourront être déduites par les détenteurs d’unités en 1994 et 1995. Dans certains cas, la Loi de l’impôt sur le revenu (Canada) restreint la déductibilité sur d’autres sources de revenu de la part des pertes d’une entreprise agricole revenant à un contribuable. […]
+Déductions d’impôt :
+Le tableau ci‑dessous indique, selon le montant maximal des déductions d’impôt estimées pour 1994 et 1995, les économies d’impôt, de même que les économies d’impôt exprimées en pourcentage de l’investissement total pour les particuliers résidant en Colombie‑Britannique qui ont souscrit cinq unités pour un investissement de 25 000 $ […] et qui sont des associés commanditaires le dernier jour de exercices 1994 et 1995 de la société en commandite. […]
+1994
+1995
+Investissement
+25 000 $
+-
+Perte attribuée à l’associé commanditaire
+15 000
+10 000
+Déductions d’impôt
+- 100 % de la première tranche de 2 500 $
+2 500
+2 500
+- 50 % du solde (jusqu’à concurrence de 6 250 $)
+6 250
+3 750
+8 750 $
+6 250 $
+Économies d’impôt cumulatives *
+4 739 $
+8 124 $
+Économies d’impôt cumulatives exprimées en pourcentage de l’investissement total
+19,0 %
+32,5 %
+* Pour le calcul des économies d’impôt, il est tenu pour acquis que les déductions d’impôt seront faites au taux marginal le plus élevé. Le taux marginal combiné le plus élevé en 1994 est de 54,16 % en Colombie‑Britannique. […]
+Bien que la notice d’offre ait été imprimée et distribuée en octobre 1994, elle comporte une « estimation » exacte du montant qui allait être attribué à chaque associé commanditaire en 1994 et en 1995. Les montants figurant au tableau du paragraphe 8 ci‑dessus, qui indique pour 1994 et 1995 les pertes réelles à la ligne B et les pertes réellement déduites à la ligne D, correspondent exactement aux montants estimés (perte à attribuer et perte pouvant être déduite) dans la notice d’offre, qui est citée dans le présent paragraphe.
+[14] Dans la notice d’offre, il appert que la société en commandite allait avoir une durée limitée. La notice, datée d’octobre 1994, invitait les investisseurs à souscrire des participations jumelées. L’appelant a signé ses souscriptions et son billet à ordre et il a présenté son chèque au montant de 18 750 $ le 30 novembre 1994. Voir la pièce R-4. La notice portait ce qui suit en page un :
+[TRADUCTION]
+Il est proposé que la société en commandite exerce ses activités jusqu’au 15 janvier 1996 environ. […] les biens de la société en commandite seront alors transférés à la société (le « transfert des biens »). […] Dans les 45 jours qui suivront le transfert des biens, la société en commandite sera dissoute. […]
+D’après le libellé de la notice d’offre, l’appelant ne pouvait s’attendre à faire partie de la société en commandite pendant plus de 15 mois vu qu’il est devenu associé commanditaire seulement le 30 novembre 1994 et que la société en commandite était, à ce moment‑là, destinée à être dissoute au plus tard le 29 février 1996 (45 jours après le 15 janvier 1996). La notice d’offre a non seulement prévu (en octobre 1994) l’attribution, à chaque associé commanditaire, de pertes de 15 000 $ en 1994 et de 10 000 $ en 1995 (voir pièce R-1, onglet 13, page 9), mais la société en commandite a répondu à ces prévisions et elle a, de fait, attribué à chaque associé commanditaire des pertes de 15 000 $ en 1994 et de 10 000 $ en 1995 (voir pièce R-2, onglet 35).
+[15] La pièce R-2, onglet 42, consiste en une entente datée du 30 décembre 1994 entre Montebello Farms Inc., en qualité de vendeur, et Shyloh Ranches Ltd., en qualité d’acheteur, qui porte sur la vente et l’achat de six juments et pouliches pur sang arabes égyptiennes décrites à l’annexe A de l’entente. Le prix d’achat s’élevait à 400 000 $, et l’opération devait être conclue au plus tard le 31 décembre 1994. La pièce R-2, onglet 43, est l’acte de vente (aussi daté du 30 décembre 1994) relativement à l’achat par Shyloh Ranches Ltd. des six juments et pouliches. La pièce R-2, onglet 36, est une autre convention d’achat et de vente datée du 30 décembre 1994 entre Shyloh Ranches Ltd., en qualité de vendeur, et la société en commandite, en qualité d’acheteur, relativement aux six mêmes juments et pouliches. Le prix d’achat s’établissait à 400 000 $, et l’opération devait être conclue au plus tard le 31 décembre 1994. La pièce R-2, onglet 37, est l’acte de vente (également daté du 30 décembre 1994) relativement à l’achat par la société en commandite des six mêmes juments et pouliches.
+[16] La pièce R-2, onglet 23, est une convention modifiée et reformulée de pension et de soins datée du 13 octobre 1994 entre Montebello Farms Inc. et la société en commandite. Aux termes de cette convention, Montebello convient de fournir pension et soins à tous les chevaux appartenant à la société en commandite contre la somme de 525 $ par mois [TRADUCTION] « payable à l’avance à un moment ou à des moments dont les parties peuvent convenir » (numéro 2). La pièce R-2, onglet 45, constitue les états financiers de la société en commandite au 31 décembre 1994; du bétail d’une valeur de 400 000 $ figure au bilan. La note 3 afférente au bilan indique que le bétail comprend trois juments, deux pouliches et un poulain in utero. Les états financiers indiquent des ventes nulles, des dépenses de 1 256 $ seulement et une perte nette de 1 256 $.
+[17] La pièce R-2, onglet 30, est le formulaire de déclaration de renseignements de Revenu Canada rempli par la société en commandite pour son exercice terminé le 31 décembre 1994. Est joint à la déclaration de renseignements un [TRADUCTION] « rapprochement de la perte nette selon les états financiers et de la perte agricole nette aux fins de l’impôt ». Le rapprochement montre comment une modeste perte de 1 256 $ dans les états financiers devient une perte agricole nette de 270 000 $ pour 18 associés, soit 15 000 $ par associé commanditaire. C’est le montant de perte de 1994 qui a amené l’appelant à déduire 8 750 $. Veuillez vous reporter au paragraphe 8 ci‑dessus. Le document de rapprochement indique deux déductions importantes : (i) 400 000 $ au titre de la valeur comptable des biens portés à l’inventaire au 31 décembre 1994 et (ii) 135 000 $ au titre des charges payées d’avance au 31 décembre 1994.
+[18] Aucune explication n’est donnée au sujet des charges payées d’avance de 135 000 $ au 31 décembre 1994. Ce montant semble élevé pour une soi-disant exploitation agricole qui n’a acquis du bétail que le 30 décembre, un jour seulement avant la fin de l’exercice. Aux termes de la convention de pension et de soins (pièce R-2, onglet 23), six chevaux au coût de 525 $ par mois coûteraient à la société en commandite, en sa qualité de propriétaire des chevaux, 3 150 $ par mois. Les frais de pension et de soins payés d’avance pour une année complète de douze mois s’établiraient à 37 800 $. Des charges payées d’avance de 135 000 $ laissent perplexes et elles doivent être motivées. L’appelant n’a pas été en mesure d’expliquer ce montant. Personne de la société en commandite n’a témoigné pour expliquer ce montant.
+[19] La pièce R-2, onglet 47, présente les états financiers de la société en commandite au 31 décembre 1995; ceux‑ci indiquent un chiffre d’affaires nul et une perte nette de 82 913 $. La pièce R-2, onglet 31, est le formulaire de déclaration de renseignements de Revenu Canada rempli par la société en commandite pour son exercice terminé le 31 décembre 1995. Est joint à la déclaration de renseignements un soi-disant [TRADUCTION] « rapprochement de la perte nette selon les états financiers et de la perte agricole nette aux fins de l’impôt ». Je dis bien « soi-disant » parce qu’il ne s’agit tout simplement pas d’un rapprochement. Le document en question commence par le terme « perte », mais aucune somme n’est inscrite là où aurait dû l’être la perte de 82 913 $ figurant aux états financiers. Les calculs dans le reste de la page sont exacts, mais il n’est pas fait mention du montant de la perte qui devait faire l’objet d’un rapprochement.
+[20] Il m’apparaît que le montant de 180 000 $ inscrit à titre de perte agricole dans le soi-disant état de rapprochement est un montant sans fondement vu le défaut total d’en faire le rapprochement avec la perte (82 913 $) figurant aux états financiers de la société en commandite pour 1995. Il y a cependant tellement de redressements arbitraires dans les soi-disant états de rapprochement qu’il se peut que l’associé commandité ait été capable d’obtenir une perte agricole nette de 180 000 $ même si la perte de 82 913 $ figurant aux états financiers avait été incluse dans l’état de rapprochement. L’omission du montant de 82 913 $ dans l’état de rapprochement est un indice de la tenue de livres fortuite, peut‑être même imprudente, de la société en commandite. J’y reviendrai plus tard dans ces motifs.
+[21] La pièce R-2, onglet 32, est le formulaire de déclaration de renseignements de Revenu Canada rempli par la société en commandite pour la période du 1er janvier 1996 au 15 janvier 1996. La période compte seulement 15 jours parce que la société en commandite a transféré ses biens à la société le 15 janvier 1996, ce qui est confirmé à la remarque 2 relative aux états financiers de la société pour l’exercice se terminant le 31 décembre 1996 :
+[TRADUCTION]
+2. TRANSFERT DES BIENS
+Le 15 janvier 1996, l’actif net de la société en commandite, principalement composé de bétail, a été acquis par la société tel que cela était envisagé dans la notice d’offre. En contrepartie de l’actif net, la société a émis 5 138 actions privilégiées au prix de 1 $ chacune pour chaque unité de 5 000 $ détenue dans la société en commandite, ce qui équivaut au total à 462 438 actions privilégiées. Les actions privilégiées sont rachetables par la société au prix d’émission, ainsi que les dividendes cumulatifs non versés.
+Voir pièce R-2, onglet 50
+Revenons à la déclaration de renseignements de la société en commandite (pièce R-2, onglet 32). La société en commandite a fait état de produits d’exploitation nuls pour les 15 premiers jours de 1996, mais d’un revenu de 128 102 $ désigné comme [TRADUCTION] « revenu d’agriculture pour la période se terminant à la dissolution ». Cette somme de 128 102 $ a été répartie entre les 18 associés commanditaires à raison de 7 116 $ par associé. Comme il est mentionné ci‑dessus, l’appelant a indiqué un revenu d’agriculture de 7 116 $ dans sa déclaration de revenus de 1996, puis il a reporté une perte de 7 116 $ d’une année antérieure pour compenser le revenu d’agriculture déclaré.
+[22] Il est nécessaire d’examiner plus en détail ce qui s’est produit quand les biens de la société en commandite ont été transférés à la société. La pièce R-2, onglet 41, est une copie du formulaire T2058 de Revenu Canada, « Choix relatif à la disposition de biens par une société de personnes en faveur d’une société canadienne imposable », signé par Jim Ramsay pour le compte de la société en commandite et de la société. Ce formulaire, selon lequel la société en commandite est l’auteur du transfert et la société, le bénéficiaire, indique que les biens ont été transférés le 15 janvier 1996. Le formulaire T2058 contient les précisions suivantes au sujet des biens transférés et de la contrepartie reçue :
+Biens transférés
+Juste valeur marchande
+Coût indiqué
+Bétail
+575 000 $
+193 584 $
+Contrepartie reçue
+Prêt exigible
+193 500 $
+-
+381 500 actions privilégiées
+381 500
+-
+Contrepartie totale
+575 000 $
+[23] Selon la remarque 2 relative aux états financiers de la société au 31 décembre 1996 (pièce R-2, onglet 50), au moment du transfert des biens de la société en commandite à la société, celle‑ci a émis 462 438 actions privilégiées à raison de 5 138 actions privilégiées pour chaque unité de 5 000 $ dans la société en commandite. Il y avait, en circulation, 90 unités à 5 000 $ chacune et, de ce nombre, l’appelant en détenait cinq. L’appelant a donc reçu 25 690 actions privilégiées de la société au moment de la dissolution de la société en commandite. Lorsque l’appelant a souscrit les cinq unités dans la société en commandite pour un prix de souscription total de 25 000 $, il a emprunté 6 250 $ auprès de Shyloh Ranches Ltd. et il s’est engagé à rembourser cet emprunt au moyen de 6 250 actions privilégiées de la société après la dissolution de la société en commandite. Après le remboursement de l’emprunt de 6 250 $ contracté auprès de Shyloh Ranches Ltd. au moyen d’actions privilégiées, il restait à l’appelant 19 440 actions privilégiées selon le calcul suivant :
+Actions privilégiées reçues à la dissolution de la société en commandite
+25 690
+Actions privilégiées remises à Shyloh Ranches Ltd. en remboursement du prêt
+6 250
+Actions restantes
+19 440
+[24] Je souligne en passant un écart entre les 381 500 actions privilégiées indiquées à titre de contrepartie partielle dans le formulaire de choix relatif au transfert T2058 (pièce R-2, onglet 41) et les 462 438 actions privilégiées émises par la société selon ses états financiers de 1996 (pièce R-2, onglet 50). La différence s’établit à 80 938 actions privilégiées. Je ne trouve aucune explication manifeste de cet écart.
+[25] Selon les alinéas 12tt) et uu) de la réponse à l’avis d’appel, le ministre a présumé que l’appelant avait transféré (en 1996) ses 19 440 actions privilégiées restantes dans son REER autogéré et avait retiré de celui‑ci une somme en espèces de 19 440 $. L’appelant n’a pas nié qu’il avait utilisé son REER pour cet échange d’actions privilégiées contre de l’argent comptant. En fait, l’avis d’appel précise ce qui suit :
+[TRADUCTION]
+Les actions de Shyloh étaient admissibles aux fins du portefeuille REER et elles ont été transférées à mon REER. Elles ont ultérieurement été refusées par l’ADRC, ce qui a entraîné pour moi une perte de l’épargne fiscale que j’avais reportée aux années d’imposition 1996 et 1997. […]
+Une telle opération était envisagée dans la notice d’offre (pièce R-1, onglet 13), à la page 8, où se trouve l’énoncé suivant :
+[TRADUCTION]
+[…] Le transfert de ses activités commerciales effectué par la société en commandite en faveur de la société en échange d’actions privilégiées de celle‑ci et la distribution ultérieure de ces actions privilégiées aux associés commanditaires à la dissolution de la société en commandite peuvent se faire sur une base d’imposition différée. Pourvu que certaines conditions soient respectées, une action ordinaire ou une action privilégiée de la société constitue un investissement admissible pour un régime enregistré d’épargne‑retraite ou fonds enregistré de revenu de retraite d’un actionnaire. […]
+C’est ainsi que le passage en caractères gras figure dans la notice d’offre.
+[26] Pour résumer, les sommes en litige dans ces appels sont les suivantes :
+1994
+Perte agricole déduite
+8 750 $
+1995
+Perte agricole déduite
+6 250
+1996
+Report prospectif de perte agricole
+7 116*
+1996
+Retrait du REER
+19 440
+* Il y a une question incidente, non mentionnée dans l’acte de procédure, soit celle de savoir si la société en commandite avait, en 1996, un revenu d’agriculture dont une somme de 7 116 $ pouvait être attribuée à l’appelant.
+Évaluation
+[27] Les pertes agricoles de 1994 et 1995 et le bénéfice tiré de l’agriculture en 1996 que la société en commandite a déclarés étaient fondés en grande partie sur le coût des chevaux que la société en commandite a acquis le 30 décembre 1994 et transférés à la société le 15 janvier 1996. La société en commandite n’a déclaré aucun produit d’exploitation pour les exercices terminés le 31 décembre 1994, le 31 décembre 1995 ou le 15 janvier 1996. Voir les pièces R-2, onglets 45, 47 et 32. Par conséquent, je suppose que la société en commandite possédait toujours les six chevaux achetés le 30 décembre 1994 lorsque ses biens ont été transférés à la société le 15 janvier 1996. L’énoncé suivant apparaît à la page quatre de la notice d’offre :
+[TRADUCTION]
+L’une des conditions de tout achat sera que le prix d’achat versé par la société en commandite ne sera pas supérieur à la juste valeur marchande du cheval en question, telle qu’elle a été déterminée par suite d’une évaluation indépendante.
+[28] L’accord du 30 décembre 1994 en vertu duquel la société en commandite a acheté six juments auprès de Shyloh Ranches Ltd. (pièce R-2, onglet 36) indique que le prix s’établit à 400 000 $ (paragraphe 2.1), mais celui‑ci n’a pas été réparti entre les six chevaux énumérés de la façon suivante, avec leur date de naissance (DDN) respective, dans l’annexe A à l’accord :
+Nom
+DDN
+Ak Su Sharafa
+04/10/86
+VES Jamaara
+04/17/91
+* CH Princess Pasha (1995 in utero)
+00/00/95
+Imperial Mahreena
+06/09/92
+G. Elizamara
+05/24/93
+Prince's Last Love
+05/02/94
+* L’achat visait uniquement le poulain in utero (pas la jument)
+[29] La pièce R-9 est une liste des chevaux vendus fournie à une vérificatrice de Revenu Canada au moment de sa visite des bureaux de Shyloh Ranches Ltd. en 1998. La première page de la pièce R-9 montre que le prix d’achat de 400 000 $ a été réparti entre les six chevaux de la façon suivante :
+Ak Su Sharafa
+95 000 $
+VES Jamaara
+95 000 $
+EAI Pasha's Jewel (poulain de Princess Pasha)
+15 000 $
+* Imperial Mahreena
+85 000 $
+G. Elizamara
+55 000 $
+Prince's Last Love
+55 000 $
+400 000 $
+* Le prix attribué pour Imperial Mahreena diffère de celui (95 000 $)
+indiqué pour le même cheval dans la notice d’offre.
+Selon la pièce R-8, une lettre datée du 9 octobre 1996 adressée par Cabreah International Inc. à James Ramsay (Shyloh Ranches Ltd.), la société a bien échangé VES Jamaara contre Moneeka chez Montebello Farms Inc.
+[30] Il n’y a aucune preuve montrant que le prix d’achat de 400 000 $ versé pour six chevaux par la société en commandite le 30 décembre 1994 a été déterminé par suite d’une évaluation indépendante, comme l’exigeait la notice d’offre. Se reporter au paragraphe 27 ci‑dessus. Bien au contraire! L’intimée a fait témoigner un expert qui a exprimé l’avis que la juste valeur marchande des six chevaux le 30 décembre 1994 était de loin inférieure à 400 000 $. La pièce R‑10 renferme le rapport écrit de Janet Henderson, dans lequel celle‑ci formule une opinion sur les cinq juments effectivement achetées par la société en commandite le 30 décembre 1994, sur le poulain auquel C.H. Princess Pasha a donné naissance le 8 mars 1995 et sur la jument Moneeka, qui a été obtenue ultérieurement en échange de VES Jamaara.
+[31] Le résumé de Janet Henderson fait également partie de la pièce R‑10. Elle travaille dans l’industrie des chevaux arabes depuis 27 ans. Son mari et elle possèdent des installations d’élevage et de dressage en Ontario. Elle est membre d’un certain nombre d’associations équestres et elle est reconnue comme juge aux concours nationaux et régionaux par la International Arabian Horse Association. Ses compétences n’ont pas été remises en cause devant le tribunal. J’accepte sans la moindre hésitation Janet Henderson à titre de témoin expert ayant qualité pour exprimer son opinion quant à la juste valeur marchande des chevaux arabes. D’entrée de jeu dans son rapport, elle donne la vue d’ensemble suivante de la conjoncture du marché des pur sang arabes égyptiens en décembre 1994 :
+[TRADUCTION]
+Les prix pratiqués sur le marché des chevaux arabes a connu une hausse constante entre la fin des années 1970 et le début des années 1980, et ont culminé en 1984. Une tendance à la baisse s’est manifestée durant la deuxième moitié de 1985 et, après la réforme fiscale américaine de 1986, le prix moyen des chevaux arabes a chuté de 30 % à 50 % par année. Les prix ont atteint leur plus bas niveau au cours de la période 1990 – 1991.
+En 1992, la vente finale de succession de Gleannloch a eu pour effet de baliser les prix globaux. En 1994, le prix des chevaux arabes égyptiens s’établissait en moyenne à 6 191 $US, alors que le prix moyen payé lors de la première vente annuelle de chevaux égyptiens de Scottsdale a atteint 6 843 $US par tête. Le prix de vente le plus élevé à l’occasion de cette vente a atteint 19 000 $US. Un étalon et une jument ont été vendus à ce prix, alors que les autres juments ont été vendues au prix moyen de 5 770 $US.
+[32] Mme Henderson a fait une description détaillée de chacun des sept chevaux évalués par elle. Du fait qu’elle a été appelée à faire son évaluation aux alentours de 2001 ou 2002, il lui a été difficile de voir les chevaux, mais elle a pu examiner leur ascendance, leur progéniture et la fréquence à laquelle ils ont été vendus (et à quel prix) avant et après décembre 1994. Elle a établi la valeur de chaque cheval à l’intérieur d’une fourchette de deux montants. Dans le tableau ci‑dessous, j’ai résumé ses sept évaluations, y compris la fourchette des valeurs établie pour chaque cheval et, dans la colonne à l’extrême droite, j’ai indiqué la valeur médiane de chacune des fourchettes.
+Nom
+Fourchette d’évaluation
+Valeur
+médiane
+Ak Su Sharafa
+20 000 $ - 22 000 $
+21 000 $
+VES Jamaara
+10 000 $ - 12 000 $
+11 000
+Pasha's Jewel (poulain de Princess Pasha)
+8 000 $ - 10 000 $
+9 000
+Imperial Mahreena
+30 000 $ - 32 000 $
+31 000
+G. Elizamara
+10 000 $ - 12 000 $
+11 000
+Prince's Last Love
+9 000 $ - 11 000 $
+10 000
+Moneeka
+35 000 $ - 37 000 $
+36 000
+[33] Dans le tableau qui précède, j’ai inclus Moneeka uniquement parce que Mme Henderson en a donné une évaluation. Moneeka a été acquise par la société en commandite en octobre 1996 contre VES Jamaara. J’exclurai par conséquent Moneeka pour l’établissement de la valeur des chevaux acquis par la société en commandite en décembre 1994. Moneeka exclue, le total des valeurs médianes établies pour les six premiers chevaux énumérés au tableau ci‑dessus est de 93 000 $. La valeur d’expertise globale de 93 000 $ pour les six chevaux achetés par la société en commandite le 30 décembre 1994 tranche nettement sur le prix d’achat de 400 000 $ qu’elle a versé. La différence de 307 000 $ est vraiment importante.
+[34] Le rapport d’évaluation de Mme Henderson est daté du 8 décembre 2002 et fait partie de la pièce R-10, qui comprend également une lettre adressée le 10 décembre 2002 à l’ADRC par Mme Henderson. Dans cette lettre, Mme Henderson dit ce qui suit :
+[TRADUCTION]
+Je tiens un établissement de pension et de soins pour les chevaux depuis vingt‑quatre ans. Je connais bien les pratiques de l’industrie dans toute l’Amérique du Nord, particulièrement en ce qui concerne la pension et les soins des chevaux arabes. À ce titre, j’estime que j’ai la compétence nécessaire pour donner mon avis sur la question du coût raisonnable de la pension et du soin.
+Je demande 360 $ par mois par cheval pour la pension et les soins. Une fourchette raisonnable pour le coût de la pension et des soins irait de 360 $ à 450 $ par mois par cheval. Ce montant peut atteindre 1 200 $ par mois par cheval lorsque le dressage pour les expositions est inclus.
+Il n’est ni raisonnable ni d’usage dans l’industrie de payer à l’avance la pension et les soins pour une période de deux ans.
+Analyse
+[35] Aucun témoin expert cité par l’appelant n’a contredit la preuve sous forme d’opinion présentée par Janet Henderson. J’ai accepté Mme Henderson comme témoin expert bien qualifié. Dans son évaluation de chaque cheval, elle a tenu compte du père et de la mère, des résultats obtenus par ceux‑ci comme chevaux d’exposition ou chevaux de course, des résultats enregistrés de la progéniture du père et de la mère, y compris des prix de vente lorsqu’elle pouvait le faire. Elle a aussi fait allusion à la première vente de chevaux arabes égyptiens qui a eu lieu à Scottsdale en février 1994, seulement 10 mois avant la date d’évaluation. J’estime que les conclusions de Mme Henderson quant à la valeur sont objectives, équilibrées et justes. Ce point a de l’importance quand l’opinion a trait à la juste valeur marchande.
+[36] Le témoignage d’opinion non contesté de Mme Henderson fait beaucoup de tort à la cause de l’appelant, de même qu’à la proposition d’élevage de chevaux arabes présentée par la société en commandite et la société dans la notice d’offre (pièce R-1, onglet 13). Selon les états financiers de la société en commandite au 31 décembre 1994 (pièce R-2, onglet 45), 90 unités de société en commandite de 5 000 $ chacune ont été émises pour une contrepartie totale en espèces de 450 000 $. L’appelant a acheté cinq de ces unités. La notice d’offre était datée d’octobre 1994. On peut donc conclure que les 90 unités de société en commandite ont été émises ou vendues entre octobre et décembre 1994. L’appelant a acheté ses cinq unités le 30 novembre 1994. Se reporter à la pièce R-4.
+[37] Dès que les unités de la société en commandite ont été vendues et que la plus grande partie de l’argent a été obtenu, l’associé commandité (Shyloh Management Ltd.) a fait acheter à la société en commandite six chevaux au prix global de 400 000 $, alors que la juste valeur marchande de ces six chevaux n’était que de 93 000 $. Si le décisionnaire de l’associé commandité ne connaissait pas beaucoup les chevaux arabes, il a alors fait un achat imprudent et insensé au nom des associés commanditaires. La société en commandite a perdu 307 000 $ au 31 décembre 1994 parce qu’elle a payé 400 000 $ pour des chevaux n’en valant que 93 000 $.
+[38] Si le décisionnaire de l’associé commandité connaissait bien les chevaux arabes, et savait aussi quelle était leur valeur marchande, il a alors trompé les associés commanditaires (comme l’appelant) en leur faisant perdre la plus grande partie de leur capital par un achat trompeur de chevaux. Personne n’est venu témoigner en faveur ou au nom de la société en commandite. Il n’y a pas suffisamment de preuves dans cette affaire pour que j’en conclue que l’appelant a été victime d’un stratagème frauduleux, mais il y en a assez pour établir que les appels de l’appelant pour 1994, 1995 et 1996 doivent être rejetés.
+[39] Le sommaire de la notice d’offre va de la page 6 à la page 10 et se termine par la note suivante à la page 10 (pièce R-1, onglet 13) :
+[TRADUCTION]
+Conflits d’intérêt :
+M. James Ramsay, l’unique dirigeant et administrateur de l’associé commandité et de la société, est également l’unique dirigeant, administrateur et actionnaire de Shyloh Ranches. Shyloh Ranches a conclu avec l’associé commandité un accord de consultation selon lequel Shyloh Ranches mettra les services de M. Ramsay à la disposition de l’associé commandité pour l’aider à s’acquitter de ses obligations concernant la fourniture de services de gestion à la société en commandite et à la société. Il y a possibilité de conflits d’intérêt en raison des autres activités commerciales dans le secteur des pur sang arabes égyptiens auxquelles Shyloh Ranches peut être partie. Voir la rubrique « Intérêts de la direction et conflits d’intérêt possibles ».
+Personnellement, l’appelant ignorait quel était le travail ou l’activité (le cas échéant) de la société en commandite. Il s’est fié à ce qu’on lui a dit lorsqu’il a investi ses 18 750 $ et à ce qu’il a pu lire dans la notice d’offre. Je déplore que M. James Ramsay ne se soit pas présenté pour témoigner en faveur de l’appelant. Il aurait peut‑être été en mesure de répondre à certaines des questions suivantes, que j’estime pertinentes :
+1. Que savait M. Ramsay au sujet des chevaux arabes en décembre 1994 lorsque la société en commandite a acheté six chevaux pour 400 000 $?
+2. Eu égard à l’aperçu du marché que Mme Henderson donne au début de son rapport, M. Ramsay savait‑il que le prix des chevaux arabes égyptiens s’établissait en moyenne à 6 191 $ (dollars US) en 1994? Savait‑il qu’à l’occasion de la première vente annuelle de chevaux égyptiens tenue à Scottsdale en février 1994, le prix de vente moyen était de 6 843 $ (dollars US)?
+3. Si, en 1994, M. Ramsay connaissait le prix moyen des chevaux arabes tel qu’il est précisé dans le rapport Henderson, pourquoi a‑t‑il convenu, au nom de la société en commandite, d’acheter six chevaux pour 400 000 $ ($CAN)?
+4. Si M. Ramsay n’avait pas une connaissance directe du marché des chevaux arabes en 1994, comment pouvait‑il se présenter dans la notice d’offre comme une personne à qui d’innocents investisseurs comme l’appelant pouvaient se fier?
+5. La notice d’offre porte à la page 5 ([TRADUCTION] « Achat de chevaux ») que la société en commandite acquerra auprès de Montebello Farms Inc. la jument pur sang arabe égyptienne indiquée à l’annexe A pour la somme de 95 000 $. Le cheval indiqué à l’annexe A est Imperial Mahreena. Que pense M. Ramsay de l’opinion de Mme Henderson selon laquelle la juste valeur marchande d’Imperial Mahreena en décembre 1994 était de 31 000 $?
+6. Si M. Ramsay devait rejeter l’évaluation que Mme Henderson a faite d’Imperial Mahreena en décembre 1994, sur quels faits se fonderait‑il? Sait‑il si Imperial Mahreena a été vendue à un prix de pleine concurrence avant ou après décembre 1994?
+7. Shyloh Ranches Ltd. traitait‑elle sans lien de dépendance avec Montebello Farms Inc. en décembre 1994 lorsque les six juments ont été achetées pour la somme de 400 000 $?
+8. La notice d’offre indique, à la page 4 sous la rubrique [TRADUCTION] « Achat de chevaux », que le prix d’achat payé par la société en commandite pour un cheval ne doit pas être supérieur à sa juste valeur marchande [TRADUCTION] « telle qu’elle a été déterminée par suite d’une évaluation indépendante ». La société en commandite a‑t‑elle déjà obtenu une évaluation indépendante de l’un ou l’autre des chevaux qu’elle a achetés? Dans l’affirmative, l’évaluation a‑t‑elle été mise par écrit? Si elle l’a été, pourquoi le rapport écrit n’a‑t‑il pas été produit en l’espèce à l’appui de l’appel? Si la société en commandite n’a pas obtenu d’évaluation indépendante de chacun des chevaux qu’elle a achetés, pourquoi M. Ramsay ou l’associé commandité a‑t‑il omis de respecter l’engagement pris à la page 4 de la notice d’offre?
+9. Pourquoi a‑t‑on eu recours à Shyloh Ranches Ltd. d’abord pour acheter les six juments chez Montebello Farms Inc. le 30 décembre 1994 (pièce R-2, onglet 42), et ensuite pour vendre ces six mêmes juments le même jour au même prix à la société en commandite (pièce R-2, onglet 36)? Comment M. Ramsay explique‑t‑il le fait d’avoir signé la pièce R-2, onglet 36, à la fois au nom du vendeur et au nom de l’acheteur?
+10. Où se trouvaient les six chevaux pendant la période du 30 décembre 1994 au 15 janvier 1996? Étaient‑ils en pension chez Montebello Farms Inc.? Les frais de pension ont‑ils été payés d’avance? Dans l’affirmative, pourquoi? Les frais de pension ont‑ils été payés d’avance afin que la société en commandite (utilisant la comptabilité de caisse pour l’exploitation agricole) puisse déclarer une perte importante au cours de son premier exercice abrégé, qui s’est terminé le 31 décembre 1994?
+11. La société en commandite a‑t‑elle déjà eu l’intention de réaliser un bénéfice? Si c’est le cas, pourquoi la notice d’offre ne mettait‑elle pas l’accent sur l’aspect bénéfice ou ne le mettait‑elle pas en valeur? Pourquoi la notice d’offre faisait‑elle uniquement ressortir (comme à la page 9) la perte qui serait attribuée à chaque associé commanditaire, les économies d’impôt qui allaient résulter de la déduction de ladite perte, de même que ces économies d’impôt exprimées en pourcentage de l’investissement de l’associé commanditaire?
+12. Si la société en commandite a subi une perte de 307 000 $ au moment de l’achat de ses six premiers chevaux, comment pouvait‑elle éventuellement réaliser un bénéfice au cours de sa brève durée de vie projetée, soit d’octobre 1994 à février 1996?
+13. La société en commandite exploitait‑elle une entreprise? Dans l’affirmative, en quoi consistait cette entreprise? Tenait‑t‑elle des livres et des registres? Si c’est le cas, où sont‑ils?
+[40] En ce qui touche la treizième question ci‑dessus, une vérificatrice de Revenu Canada (Mme Esther Dirksen) a témoigné dans cette affaire. Elle a affirmé qu’elle s’était rendue chez Shyloh Ranches Ltd. à Kelowna (C.‑B.) en mai 1998. Elle a demandé les documents comptables complets de la société en commandite, mais tout ce qu’on lui a remis, ce sont des écritures de fermeture du grand livre général faites les 31 décembre 1994 et 1995. Ces écritures figurent comme photocopies à la pièce R-2, onglets 46 et 48. Aux paragraphes 19 et 20 ci‑dessus, j’ai parlé d’un soi-disant état de rapprochement de la perte nette figurant aux états financiers de la société en commandite et de la perte agricole aux fins de l’impôt pour l’exercice se terminant le 31 décembre 1995. Au paragraphe 24 également, j’ai constaté un écart de 80 938 actions privilégiées entre la contrepartie indiquée dans l’entente de transfert et les actions émises d’après les états financiers de la société. Selon la preuve qui m’a été présentée, je déduis que la société en commandite n’a pas tenu de livres et de registres comme devrait le faire une organisation qui a réuni 450 000 $ d’épargne publique.
+[41] Je me fonde sur la preuve du témoin cité comme expert par l’intimée, Janet Henderson, parce que j’estime que cette dernière est intelligente, informée et objective. Je suis convaincu, d’après la preuve qu’elle a produite, que la juste valeur marchande des six chevaux achetés par la société en commandite le 30 décembre 1994 était de 93 000 $ au moment de l’achat. Étant donné que la société en commandite a payé 400 000 $ pour six chevaux qui avaient une juste valeur marchande de 93 000 $ seulement, je conclus, en l’absence de preuve contraire, qu’il était impossible pour la société en commandite de réaliser un bénéfice à quelque moment que ce soit et, en particulier, au cours de la brève durée de vie projetée de la société en commandite, soit d’octobre 1994 à février 1996.
+[42] Je suis également convaincu, d’après la lettre du 10 décembre 2002 de Mme Henderson (qui fait partie de la pièce R-10), qu’un montant entre 360 $ et 450 $ par mois par cheval aurait été un montant raisonnable pour le coût de la pension et des soins, et qu’il n’est ni raisonnable ni normal qu’un propriétaire de chevaux paie à l’avance la pension et les soins pour une période de deux ans. Selon les modalités de la convention de pension et de soins (pièce R-2, onglet 23), la société en commandite a convenu de payer à l’avance à Montebello Farms Inc. 525 $ par cheval par mois pour la pension et les soins de ses chevaux. Et d’après les états financiers de la société en commandite au 31 décembre 1994 (pièce R-2, onglet 45), il y a eu des charges payées d’avance de 135 000 $ qui, selon ce que j’en déduis, se rapportaient à tout le moins en partie à la pension et aux soins des chevaux. Dans la convention d’achat (pièce R-2, onglet 42), Shyloh Ranches Ltd. devait payer le prix d’achat de 400 000 $ au moyen d’un billet à ordre à Montebello Farms Inc. Rien ne prouve que le billet à ordre était garanti.
+[43] En ce qui touche les preuves et les conclusions résumées aux paragraphes 41 et 42, j’en déduis que la société en commandite, Shyloh Ranches Ltd. et Montebello Farms Inc. ne traitaient entre elles sans lien de dépendance à aucun moment pertinent en l’espèce. En conséquence, je mets en doute la bonne foi des opérations entre ces parties.
+[44] J’ai déjà constaté au paragraphe 41 qu’il n’était possible à aucun moment pour la société en commandite de réaliser un profit. Compte tenu du libellé de la notice d’offre et du fait que toutes les opérations de la société en commandite ont été effectuées soit avec Shyloh Ranches Ltd., soit avec Montebello Farms Inc., je conclus qu’il n’a jamais été présumé ou escompté que la société en commandite réaliserait un bénéfice. La société en commandite avait simplement la garde de certains documents qui lui donnaient l’apparence d’une entreprise consistant à « acquérir, à faire l’élevage, à montrer, à exposer et à vendre » des chevaux arabes. Selon les preuves mises à ma disposition, la société en commandite n’a jamais pris en charge un seul cheval. Je conclus que la société en commandite n’a exploité aucune entreprise au cours de la période allant d’octobre 1994 jusqu’à ce jour en janvier 1996 où elle est censée avoir transféré (et peut‑être l’a‑t‑elle vraiment fait) ses biens à la société.
+[45] Étant donné que la société en commandite n’exploitait aucune entreprise, elle n’avait pas de perte ou de bénéfice à attribuer aux associés commanditaires au cours des années 1994, 1995 ou 1996. Il n’y avait donc pas de perte agricole que l’appelant (en qualité d’associé commanditaire) pouvait déduire en 1994 ou 1995. Et il n’y avait pas de revenu d’agriculture de 7 116 $ que l’appelant pouvait déclarer en 1996.
+[46] La décision rendue par la Cour d’appel fédérale dans l’affaire Witkin c. La Reine, 2002 DTC 7044, est utile étant donné que M. Witkin réclamait la déduction d’une certaine perte qui lui avait été attribuée par une société en commandite. En rejetant l’appel de M. Witkin, M. le juge Rothstein, s’exprimant au nom de la Cour, a dit ce qui suit au paragraphe 15 :
+Un contribuable peut certes avoir pour principale motivation, en se joignant à une apparence de société en nom collectif, d’obtenir une perte fiscale, mais il doit avoir au moins l’intention accessoire d’exercer une entreprise en commun en vue de réaliser un bénéfice, s’il veut que la société réponde aux critères juridiques. (Voir Continental Bank, supra, au paragraphe 43.) En l’espèce, les seuls éléments de preuve qu’ait retenus le juge de la Cour de l’impôt étaient ceux qui montraient que l’appelant avait l’intention d’acheter une perte fiscale et que c’est ce qu’il avait fait. Si on applique le critère restrictif de la société en nom collectif aux faits établis par le juge de première instance, il ressort que l’appelant n’exerçait pas une entreprise en commun en vue de réaliser un bénéfice grâce à l’achat de sa participation dans Claridge Holdings No. 1. […]
+[47] À mon avis, le passage ci‑dessus extrait de l’arrêt Witkin s’applique en l’espèce parce que l’objet principal de la notice d’offre était de promouvoir l’utilisation des pertes agricoles à des fins fiscales et la cession éventuelle d’actions privilégies émises depuis peu en faveur d’un REER. Voir les pages 8 et 9 de la notice d’offre. L’appelant ne remplit pas le critère restrictif de la société en commandite parce qu’il n’avait aucun intérêt à utiliser des chevaux arabes pour exploiter une entreprise agricole dans l’intention d’en tirer un bénéfice. Ni l’associé commandité, ni M. James Ramsay, ou les deux, n’auraient autorisé la société en commandite à payer 400 000 $ pour six chevaux dont la juste valeur marchande n’était que de 93 000 $.
+[48] Eu égard aux 19 440 actions privilégiées dans la société que l’appelant a transférées à son REER en 1996, je conclus qu’elles n’avaient aucune valeur. Selon les états financiers de la société au 31 décembre 1996 (pièce R‑2, onglet 50), le bilan indique un déficit de 152 032 $. Ceci n’est pas étonnant si, selon le choix relatif au transfert libre d’impôt (pièce R-2, onglet 41), la société a payé 575 000 $ pour du bétail qui avait probablement une juste valeur marchande d’environ 100 000 $. Puisque l’appelant a transféré 19 440 actions privilégiées sans valeur dans son REER et en a retiré une somme en argent de 19 440 $, il est tenu d’inclure cette somme de 19 440 $ dans le calcul de son revenu pour 1996.
+[49] J’ai déjà mentionné que la notice d’offre était un document impressionnant. Elle fait valoir la possibilité de déduire des pertes agricoles à des fins fiscales, de même que la possibilité de transférer des actions nouvellement émises dans un REER en échange d’une somme d’argent. L’appelant a été attiré par ces possibilités comme un papillon de nuit l’est par la lumière, et il a payé 18 750 $ de sa poche. Selon un aphorisme vieux d’un siècle, il a acheté le pont de Brooklyn!
+[50] D’une part, une personne comme l’appelant qui se fait leurrer par un document hautement promotionnel peut inspirer une certaine sympathie. D’autre part, la notice d’offre sonne faux, et il faut faire une certaine place au bon sens quand on opère sur le marché libre. Les appels concernant les années 1994 et 1995 sont rejetés. L’appel concernant l’année 1996 est admis (i) afin que le montant de 7 116 $ (de même que tout report prospectif de perte) soit exclu du revenu de l’appelant parce que la société en commandite n’exploitait pas d’entreprise agricole dont elle aurait pu attribuer le revenu, et (ii) afin que l’appelant soit autorisé à déduire une perte éventuelle (en capital ou autre qu’en capital, selon les circonstances) relativement à la disposition de ses 19 440 actions privilégiées en faveur de son REER. Je n’essaie pas ici de déterminer si l’appelant a subi une telle perte, ni s’il a le droit de déduire une perte en capital ou une perte autre qu’une perte en capital si le coût de telles actions était supérieur à leur valeur au moment du transfert à son REER. Toutefois, il a, à tout le moins, le droit de déduire une telle perte si les circonstances le permettent.
+Signé à Ottawa, Canada, ce 5e jour de février 2004.
+"M.A. Mogan"
+Le juge Mogan
+Traduction certifiée conforme
+ce 6e jour de juin 2005.
+Joanne Robert, traductrice

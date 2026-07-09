@@ -1,0 +1,141 @@
+Title: Rivard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25614/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-748-25614-rivard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-02
+
+# Rivard v. The Queen
+
+- Citation: 2003 TCC 748
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2422, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-02
+Neutral citation
+2003 TCC 748
+File numbers
+2002-3556(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3556(IT)I
+BETWEEN:
+RENÉ RIVARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 10, 2003, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Gilles L'Écuyer
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 31st day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2003TCC748
+Date: 20031202
+Docket: 2002-3556(IT)I
+BETWEEN:
+RENÉ RIVARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the Informal Procedure from an assessment by which the Minister of National Revenue (the Minister) disallowed in the computation of the Appellant’s income, a deduction of a $21,161.59 as a support amount or other allowance payable on a periodic basis for the 2001 taxation year.
+[2] The Appellant married Johanne Dussault on December 6, 1975.
+[3] The Appellant’s and Ms. Dussault’s union produced two daughters:
+i) Mélysa, born August 25, 1978;
+ii) Andrée-Anne, born January 6, 1984.
+[4] The Appellant and Ms. Dussault stopped living together around January 26, 2000.
+[5] The Appellant’s claim for support payments for the 2001 taxation year can be broken down as follows:
+i) arrears (2000 taxation year) $5,171.59
+ii) support payments (year at issue) $15,990.00
+$21,161.59
+[6] In filing her income tax return for the 2001 taxation year, Ms. Dussault did not include any amount of income from support payments.
+[7] In his April 26, 2000 judgment, submitted as Exhibit A-1, the Honourable Justice Yvan St-Julian, J.S.C., drew the following conclusions, among others:
+i) Ms. Dussault would have custody of Andrée-Anne,
+ii) the Appellant would continue to pay Ms. Dussault, for her benefit and for Andrée-Anne’s, three hundred dollars per week.
+[8] The Appellant also submitted as Exhibit A-2 the divorce judgment from the Superior Court of Quebec dated January 18, 2002, and rendered by the Honourable Justice Suzanne Hardy-Lemieux, J.S.C., in which the judge confirmed made enforceable a corollary relief agreement made between the parties on January 15, 2002. Paragraphs 8, 10 and 11 of the agreement contain the following provisions:
+[TRANSLATION]
+8) the (Appellant) will pay to (Ms. Dussault), as an annual support amount, for herself, the amount of $16,000 payable pursuant to the provisions of the Act to facilitate the payment of support, beginning January 15, 2002,
+10) the (Appellant) acknowledges owing (Ms. Dussault) for herself, for her own support, certain arrears deductible for the Appellant and taxable for Ms. Dussault that the parties have agreed amounts to $3,000, payable no later than 10 days following the signature of these presents,
+11) the (Appellant) will pay to (Ms. Dussault), as an annual support amount for Andrée-Anne, of whom she will have custody, the amount of $8,600 payable pursuant to the provisions of the Act to facilitate support payments, starting January 15, 2002.
+[9] Relying on subsection 56.1(4) and paragraph 60(b) of the Income Tax Act (the Act), the Minster maintains that the amount of $21,161.59 paid by the Appellant to Ms. Dussault during the 2001 taxation year was not deductible as a support amount or other allowance payable on a periodic basis as it arose from a judgment handed down after April 30, 1997, and the aforementioned amount is considered a child support amount pursuant to subsection 56.1(4) and paragraph 60(b) of the Act.
+Analysis
+[10] The definition of "child support amount" in subsection 56.1(4) of the Act is as follows:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+[11] Paragraph 60(b) of the Act reads as follows:
+Support
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+[12] I am of the opinion that the Appellant’s support claim in the amount of $21,161.59 for the 2001 taxation year arose from the judgment dated April 26, 2000, and that the weekly sum of $300 payable to Ms. Dussault pursuant to this judgment is included in the definition of child support amount because, as per the court order, it is not intended as being solely for the support of Ms. Dussault. The order does not provide for any division of the weekly payment of $300 between Ms. Dussault and her daughter, Andrée‑Anne.
+[13] Consequently, the provisions of paragraph 60(b) of the Act actually prevent the Appellant from deducting the amount of $21,161.59 in the computation of his income for the 2001 taxation year.
+[14] The Appellant alleges, as a last resort, that the amount of $3,000 paid by the Appellant as per the terms of the agreement on corollary relief dated January 15, 2002, and confirmed by the Superior Court of Quebec January 18, 2002, is deductible from his income for the 2001 taxation year. Paragraph 10 of the agreement establishes that the Appellant acknowledges owing to Ms. Dussault for herself, for her own support, certain arrears that were deductible for the Appellant and taxable for Ms. Dussault that the parties had agreed amounted to $3,000, payable no later than 10 days following the signing of the aforementioned agreement.
+[15] Although it is not clear that these arrears date back to 2001, a taxpayer cannot claim a deduction pursuant to paragraph 60(b) of the Act for a disbursement he did not pay during that taxation year. According to paragraph 10 of the January 15, 2002 agreement, the Appellant still owes arrears of $3,000 to Ms. Dussault, which proves they were not paid in 2001.
+[16] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 31st day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2003TCC748
+COURT FILE NO.:
+2002-3556(IT)I
+STYLE OF CAUSE:
+René Rivard and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+October 10, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+December 2, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Gilles L'Écuyer
+Counsel for the Respondent:
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gilles L'Écuyer
+Firm:
+Pouliot L'Écuyer
+Sainte-Foy, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

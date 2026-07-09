@@ -1,0 +1,161 @@
+---
+title: "Rivas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26813/index.do"
+last_modified: "2003-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 646"
+citation2: ""
+neutral_citation: "2003 TCC 646"
+decision_date: "2003-09-16"
+language: "en"
+item_id: "26813"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 683
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:43:43.032000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12d9d4016f9cee522498fe865c359113a06f8eb61d84bd1cc45d0701a2cabb0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rivas c. La Reine
+
+- Citation: 2003 TCC 646
+- Decision date: 2003-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 683, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivas c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-16
+Neutral citation
+2003 TCC 646
+File numbers
+2002-4763(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4763(IT)I
+BETWEEN:
+JOSÉ ARNULFO RIVAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 15, 2003, at Montréal, Quebec
+Before: The Honourable Justice P.R. Dussault
+Appearances:
+Counsel for the Appellant:
+Gilles R. Pelletier
+Counsel for the Respondent:
+Emmanuelle Faulkner
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of September 2003.
+"P.R. Dussault"
+Dussault, J.
+Translation certified true
+on this 29th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC646
+Date: 20030916
+Docket: 2002-4763(IT)I
+BETWEEN:
+JOSÉ ARNULFO RIVAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault, J.
+[1] This appeal was heard under the informal procedure. It is an appeal from an assessment made under the Income Tax Act ("Act") for the 2000 taxation year whereby the Minister of National Revenue ("Minister") disallowed the appellant the deduction of support of $21,386.88 he purportedly paid to Cristina De Soreto Diaz de Sandi Hernandez ("Ms. Diaz") residing in Mexico.
+[2] The deduction of other support in the amount of $12,783.84 paid to Claudette Hachez is not in issue.
+[3] For the purposes of the assessment, the Minister made the assumptions of fact found in subparagraphs 10(a) to (o) of the Reply to the Notice of Appeal ("Reply"). Those subparagraphs read as follows:
+[TRANSLATION]
+(a) For the 2000 taxation year, the appellant claimed $34,170.72 in respect of support paid to two former spouses, and that amount was purportedly allocated as follows:
+(i) $12,783.84 paid, according to Form PPA-10 of the Ministère du Revenu du Québec (MRQ) to Claudette Hachez for Olivier, born on January 30, 1990;
+(ii) $21,386.88 purportedly paid to Cristina De Loreto Diaz de Sandi Hernandez (Ms. Diaz) residing in Mexico;
+(b) According to the appellant, the sum of $21,386.88 consists of 12 monthly payments of US$1,200 each based on a Canadian exchange rate of 1.4852;
+(c) The appellant provided no official documents stating that he and Ms. Diaz had been married;
+(d) The appellant provided no documents certifying that he was divorced or separated from Ms. Diaz as a result of a breakdown of their marriage or de facto union;
+(e) No written agreement, order or judgment of a court of competent authority was submitted by the appellant certifying that he was required to pay support to Ms. Diaz;
+(f) No proof of payment was submitted supporting the amounts purportedly paid by the appellant to Ms. Diaz;
+(g) The appellant says that he, in Canada on October 2, 2002, and Ms. Diaz, in Mexico on October 9, 2002, signed a document to the effect that they had been married in Guadalajara on October 12, 1966, and that they had purportedly been separated since September 17, 1968, but that document was not issued by a court, was not certified by a person in authority and bears the signature of no witness;
+(h) Two children were purportedly born from the brief union of the appellant and Ms. Diaz, but no documents were provided to that effect;
+(i) A document written in Spanish, but translated into English in which Ms. Diaz was sworn by Allan C. Rose, Canadian Consul to Mexico, on March 6, 1987, reads as follows:
+"The named Ma. Cristina Diaz de Sandi Hernandez, married, architect and lives on Ave. del Sur No. 2520-2 in Guadalajara, Jalisco, Mexico.
+"I manifiest (sic) that I received since January 1 of 1986 to December 31 of 1986, from my husband José Rivas Gutiérrez Md., who lives on 900 Seminaire St. Jean, Quebec, Canada, an amount of 400.00 U.S.D. (FOUR HUNDRED AMERICAN DOLLARS). The amount mentioned before was head up for my tuition (sic) as both agreed monthly as pension."
+(j) Apparently, on March 5, 2002, in Mexico, and on March 29, 2002, in Canada, Ms. Diaz and the appellant respectively signed another document written in English only, but not certified, and bearing the signature of no witness;
+(k) The document referred to in the previous subparagraph states that the amounts paid to Ms. Diaz by the appellant were paid to her under the terms of a written agreement entered into by them before May 1, 1997, that the original document cannot be found and that the agreement provided for a monthly payment of US$1,000;
+(l) The date of the purported agreement and the place where that agreement was signed are not known;
+(m) The appellant also submitted a number of other documents, signed by Ms. Diaz, but all written in Spanish and not translated into either of Canada's official languages;
+(n) An employee of the Canada Customs and Revenue Agency (CCRA) who is proficient in Spanish provided an unofficial oral translation of the documents submitted by the appellant, two of which appeared to be relevant:
+(i) a document dated April 10, 2000, states that Ms. Diaz is married, that she is an architect and that she received support of US$1,200 for herself and her two daughters from her spouse, the appellant, for the period from March 1, 1999, to February 28, 2000;
+(ii) a document dated May 4, 2001, submitted by the appellant, states that Ms. Diaz is married, that she is an architect and that she received support of US$1,200 a month for herself and her two daughters from her spouse, the appellant, for the period from March 1, 2000, to February 28, 2001;
+(o) two of the other documents provided by the appellant are certified by a Mexican notary and confirm, among other things, the identity of Ms. Diaz.
+[4] The appellant and Ms. Diaz were married in Guadalajara, Mexico. According to the marriage certificate obtained by the appellant at the request of tax authorities, the date of the wedding was June 29, 1967 (Exhibits A-1 and A-2).
+[5] The appellant stated in his testimony that he had never lived with Ms. Diaz but that he is the father of her two children. The appellant says he does not remember whether Ms. Diaz was pregnant or whether the first child had already been born at the time of the wedding.
+[6] The appellant claims that in the early 1970s, when the children were two and three years old, he and Ms. Diaz signed an agreement for the children's protection providing for payment of support of US$1,000 per month to Ms. Diaz.
+[7] The appellant said that he had always paid Ms. Diaz at least US$1,000 a month since the signing of that written agreement, which neither was able to track down. The appellant said he occasionally paid more, US$1,200 a month, when he could.
+[8] The appellant purportedly made the payments in the form of bank drafts or gave the children cash when they came to visit him two or three times a year. The appellant was able to find only a single copy of a bank draft. That one is dated February 16, 2002 (Exhibit A-7). According to the appellant, the children are now 32 and 33.
+[9] First, I will note that, if a child had already been born at the time of the wedding or was born shortly thereafter, that child would now be 36 and the second child would be 35.
+[10] In October 2003, the appellant and Ms. Diaz signed a document (Exhibit A-4), which reads as follows:
+[TRANSLATION]
+...
+WHEREAS the parties were married at Guadalajara on October 12, 1966;
+WHEREAS the parties have lived separate and apart since September 17, 1968;
+WHEREAS, since the date of separation, the husband has continued to pay the wife regular support in accordance with the terms of a written agreement, which they have now lost;
+CONSIDERING the present situation and the duration of the marriage;
+WHY THE PARTIES CONSENT AND AGREE TO THE FOLLOWING:
+1. The spouse Rivas has paid, is paying and will continue to pay the spouse Diaz monthly support of $1,000 in American funds;
+2. That support will continue to be paid as it has in the past, by means of monthly cheques, which the spouse Rivas sends to the spouse Diaz in advance;
+3. The spouse Diaz acknowledges that she has regularly received the support agreed upon since the separation;
+4. The spouse acknowledges more particularly that she received US$12,000 for 2000 and US$12,000 for 2001.
+AND I HAVE SIGNED AT ST-JEAN-SUR-RICHELIEU, this 2nd day of October 2002.
+(Signed)
+JOSÉ RIVAS
+AND I HAVE SIGNED AT GUADALAJARA, this 9th day of October 2002.
+(Signed)
+CRISTINA DE LORETO DIAZ DE SANDI HERNANDEZ
+[11] It will be noted that the date of the wedding is not the date stated on the marriage certificate filed. Furthermore, the parties state that they have lived separate and apart since September 17, 1968. This is hardly consistent with the appellant's statement that he never lived with Ms. Diaz.
+[12] Exhibit A-4 refers to support of US$12,000 paid in 2000 and 2001. This is consistent, as to the amount paid, with another document signed by the appellant and Ms. Diaz in March 2002 (Exhibit A-3). Exhibit A-4 also states that the appellant has "regularly" paid Ms. Diaz support since the date of the separation, September 17, 1968, in accordance with the terms of a written agreement. Thus, according to that document, the written agreement was not executed around the early 1970s when the children were two and three years old, as the appellant asserted.
+[13] However, the document (Exhibit A-4) directly contradicts other documents signed by Ms. Diaz. First, Exhibit A-6 contains a first document written in Spanish, as well as an English version, and both documents are dated May 4, 2001, and signed by Ms. Diaz. They confirm receipt of a monthly amount of US$1,200 from March 1, 2000, to February 28, 2001.
+[14] Another document, part of Exhibit A-6, is dated November 6, 2001. It is written in Spanish and is accompanied by an English version. The documents show support of US$1,200 received per month from January 1, 2000, to October 31, 2001.
+[15] With respect to the year in issue, the 2000 taxation year, the documents in Exhibit A-6 clearly indicate total support of US$14,000, that is CDN$21,386.88, which the appellant moreover claimed as a deduction for the 2000 taxation year (see subparagraph 10(b) of the Reply).
+[16] In another document dated March 2, 1987, signed by Ms. Diaz, she stated that she had received US$400 for the period from January 1 to December 31, 1986 (Exhibit I-1). It is not really known whether that was a monthly amount or the total amount received during the year. In any case, that document directly contradicts the statement by the appellant, who claimed that he had always paid Ms. Diaz at least US$1,000 a month since they signed their agreement in the early 1970s.
+[17] These many contradictory statements raise serious doubts as to the very existence of a written agreement between the appellant and Ms. Diaz, or at the very least, of a written agreement by which fixed monthly support of US$1,000 was payable by the appellant to Ms. Diaz. It is difficult to give the appellant's testimony a great deal of credence.
+[18] The appellant knew of the existence of all these documents and, more particularly, of Exhibit I-1, which he probably handed over to tax authorities himself a number of years ago. It is, among other things, because of contradictions contained in the documents signed by Ms. Diaz that the deduction of support was disallowed. It is possible that the doubts raised by those contradictions might have been dispelled by the testimony of Ms. Diaz. However, the appellant did not see fit to call her as a witness. Only a negative inference may be drawn from that fact.
+[19] In the circumstances, I find that the appellant did not show on a balance of probabilities, as he was required to do, that he had paid Ms. Diaz monthly support of US$1,000 during the 2000 taxation year in accordance with a written agreement, as required by paragraph (a) of the definition of "Support Amount" in subsection 56.1(4) of the Act. That definition is rendered applicable for the purposes of the deduction provided for in paragraph 60(b) by subsection 60.1(4) of the Act.
+[20] The appeal is accordingly dismissed.
+Signed at Ottawa, Canada, this 16th day of September 2003.
+"P.R. Dussault"
+Dussault, J.
+Translation certified true
+on this 29th day of July 2004.
+Sophie Debbané, Revisor

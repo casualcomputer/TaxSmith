@@ -1,0 +1,320 @@
+Title: Teranet Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142522/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-42-142522-teranet-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-02-12
+
+# Teranet Inc. c. La Reine
+
+- Citation: 2016 CCI 42
+- Decision date: 2016-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3019, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Teranet Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-12
+Référence neutre
+2016 CCI 42
+Numéro de dossier
+2014-385(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014­385(IT)G
+ENTRE :
+TERANET INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 23 novembre 2015, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelante :
+Me John C. Yuan
+Me Paul Davis
+Avocates de l’intimée :
+Me Naomi Goldstein
+Me Jenny Mboutsiadis
+Avocat de Deloitte Touche :
+Me Neil Paris
+Avocat de EY Canada :
+Me Robert Trenker
+ORDONNANCE
+ATTENDU QUE l’intimée a présenté une requête en autorisation de mener un interrogatoire préalable auprès de Brian Allard, un employé de Ernst & Young Orenda Corporate Finance Inc., aux termes de l’article 99 des Règles de la Cour canadienne de l’impôt (procédure générale);
+CONSIDÉRANT que l’appelante s’est opposée à la requête;
+APRÈS avoir entendu les observations des parties et avoir pris en considération leur plaidoirie écrite;
+LA COUR :
+(1) accueille la requête;
+(2) ordonne à Ernst & Young Orenda Corporate Finance Inc. de fournir ses dossiers qui se rapportent à la conversion de Teranet Inc. en une fiducie de revenu pour la période se terminant à la fin de l’année 2006;
+(3) ordonne à Brian Allard, un employé de Ernst & Young Orenda Corporate Finance Inc., de se présenter et de se soumettre à un interrogatoire préalable par l’intimée à l’égard des questions en litige dans le présent appel;
+(4) ordonne à Ernst & Young Orenda Corporate Finance Inc. de fournir ses dossiers au moins deux semaines avant l’interrogatoire préalable de Brian Allard;
+(5) adjuge à Ernst & Young Orenda Corporate Finance Inc. ses frais raisonnables;
+(6) adjuge à l’intimée ses dépens dans la présente requête.
+Signé à Ottawa, Canada, ce 12e jour de février 2016.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2017.
+Mario Lagacé, jurilinguiste
+Dossier : 2014­385(IT)G
+ENTRE :
+TERANET INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 23 novembre 2015, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelante :
+Me John C. Yuan
+Me Paul Davis
+Avocates de l’intimée :
+Me Naomi Goldstein
+Me Jenny Mboutsiadis
+Avocat de Deloitte Touche :
+Me Neil Paris
+Avocat de EY Canada :
+Me Robert Trenker
+ORDONNANCE
+ATTENDU QUE l’intimée présente une requête en autorisation de mener un interrogatoire préalable d’une personne bien informée de Deloitte Touche, conformément à l’article 99 des Règles de la Cour canadienne de l’impôt (procédure générale);
+CONSIDÉRANT que l’appelante s’est opposée à la requête;
+APRÈS avoir entendu les observations des parties et avoir pris en considération leur plaidoirie écrite;
+LA COUR :
+(1) accueille la requête;
+(2) ordonne à Deloitte Touche de fournir ses dossiers sur la conversion de Teranet Inc. en une fiducie de revenu pour la période se terminant à la fin de l’année 2006;
+(3) ordonne à un représentant bien informé de Deloitte Touche de se présenter et de se soumettre à un interrogatoire préalable par l’intimée à l’égard des questions en litige dans le présent appel;
+(4) ordonne à Deloitte Touche de fournir ses dossiers au moins deux semaines avant l’interrogatoire préalable de son représentant;
+(5) adjuge à Deloitte Touche ses frais raisonnables;
+(6) adjuge à l’intimée ses dépens dans la présente requête.
+Signé à Ottawa, Canada, ce 12e jour de février 2016.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2017.
+Mario Lagacé, jurilinguiste
+Référence : 2016CCI42
+Date : 20160212
+Dossier : 2014­385(IT)G
+ENTRE :
+TERANET INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] L’intimée a présenté deux requêtes conformément à l’article 99 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») pour des ordonnances lui donnant l’autorisation de mener un interrogatoire préalable auprès de tierces parties, notamment Brian Allard, employé de EY Canada et ancien employé de Ernst & Young Orenda Inc. (« EY ») (la « requête au sujet d’EY ») et un représentant bien informé de Deloitte Touche (« Deloitte ») (la « requête au sujet de Deloitte »). Ces requêtes ont été présentées après la fin des interrogatoires préalables et des engagements pris à la suite de ceux-ci. L’appelante s’est opposée aux requêtes.
+Contexte [2] Les circonstances qui ont mené au présent appel sont les suivantes. Les principales activités de l’appelante consistent en l’exploitation et l’entretien du système d’enregistrement immobilier électronique de l’Ontario. À la suite de deux fusions, l’appelante s’est retrouvée successeure de la société dont les activités et les obligations fiscales font l’objet du présent appel. Le 16 juin 2006, l’appelante et d’autres personnes morales ont fait l’objet d’une réorganisation d’entreprise qui s’est traduite par une structure de fiducie de revenu/société par actions (la « réorganisation de 2006 »). En raison de cette réorganisation, l’appelante est devenue le souscripteur de deux billets à ordre non garantis émis à Teranet Holdings Limited Partnership (« THLP »), une société ayant un lien de dépendance au sein de la structure d’entreprise de l’appelante. THLP détenait toutes les actions émises et en circulation de l’appelante.
+[3] Les montants principaux des billets à ordre s’élevaient à 1,215 milliard de dollars et à 10 millions de dollars; un taux d’intérêt annuel de 9,75 % avec des intérêts exigibles mensuellement s’appliquait aux deux billets. L’appelante a demandé des déductions d’intérêts pour ces billets au cours des années d’imposition qui prenaient fin le 31 décembre 2006, le 31 décembre 2007, le 10 novembre 2008 et le 28 février 2009. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante par rapport à ces années, et a rejeté une partie des frais d’intérêt qui avaient été déclarés au motif qu’un taux d’intérêt annuel raisonnable n’aurait pas été supérieur à 5,45 %.
+[4] Les questions auxquelles il faut répondre en appel sont de savoir si le taux d’intérêt était raisonnable et si les intérêts ont été encourus dans le but de tirer un revenu.
+Motifs invoqués par l’intimée [5] Les motifs suivants ont été invoqués par l’intimée dans sa demande d’interrogatoire de Brian Allard :
+i. Brian Allard et EY possèdent des connaissances sur les questions en litige dans l’appel, plus précisément sur la façon dont ont été fixées les conditions, y compris le taux d’intérêt du billet à ordre de 1,25 milliard de dollars.
+ii. L’appelante a refusé de fournir ces renseignements ou n’est pas à même de les fournir, et EY ne consentira pas à les fournir sans y être contraint par une ordonnance judiciaire.
+iii. L’appelante a indiqué son intention de se servir du rapport préparé par Brian Allard et EY.
+iv. Il serait injuste d’ordonner la tenue du procès sans donner l’occasion à l’intimée d’interroger Brian Allard.
+v. L’interrogatoire ne retardera pas indûment l’audition de l’appel, n’entraînera pas de dépenses déraisonnables pour les autres parties et n’occasionnera aucune injustice à l’égard de Brian Allard ou d’EY.
+[6] Les motifs invoqués par l’intimée dans sa demande d’interrogatoire d’un représentant bien informé de Deloitte sont semblables à ceux invoqués dans sa requête au sujet d’EY. Voici les motifs additionnels de la requête au sujet de Deloitte :
+i. L’appelante a refusé de fournir des renseignements sur les différentes étapes de la réorganisation et les mouvements de fonds dans le cadre de la réorganisation, ou n’est pas à même de fournir ces renseignements.
+ii. L’appelante avait retenu les services de Deloitte au moment de la réorganisation, et l’entreprise semble posséder des connaissances au sujet de la réorganisation.
+iii. L’intimée a demandé à l’appelante et à Deloitte de lui fournir ces renseignements, mais elle n’a encore rien reçu.
+iv. Deloitte n’a pas consenti à fournir les renseignements ni à assister à l’interrogatoire préalable d’un tiers.
+Faits [7] La personne désignée par l’appelante pour l’interrogatoire était Gregory Pope, le vice-président et directeur financier de l’appelante. Au moment de son interrogatoire préalable le 8 juin 2015, il occupait depuis cinq ans ce même poste auprès de l’appelante. Il a témoigné qu’il s’est renseigné sur les points soulevés dans les actes de procédure en lisant un certain nombre de documents jugés pertinents dans le cadre du présent appel. Même s’il n’était pas un employé de l’appelante au moment de la réorganisation de 2006, il ne s’est pas entretenu avec quiconque ayant participé à la réorganisation de 2006. Selon M. Pope, aucune personne ayant participé à la réorganisation ne travaille chez l’appelante aujourd’hui.
+[8] J’ai lu la transcription de l’interrogatoire préalable de M. Pope, et il me semble bien évident qu’il n’est pas bien informé. Il n’a pas été en mesure de répondre à la plupart des questions que lui a posées l’avocate de l’intimée, ce qui a entraîné la prise de 52 engagements pendant son interrogatoire préalable. Je suis d’avis que M. Pope ne s’est pas préparé à l’interrogatoire préalable comme l’exige le paragraphe 95(2) des Règles.
+[9] Au cours de l’interrogatoire préalable et en réponse aux engagements, l’intimée a été informée que bon nombre des dossiers de l’appelante ont été perdus ou détruits, ou [TRADUCTION] « ont peut-être été perdus ou éliminés ».
+[10] Selon l’échéancier des procédures judiciaires, des engagements pris lors de l’interrogatoire préalable devaient être remplis au plus tard le 31 août 2015. L’appelante a remis ses réponses à ses engagements le 21 août 2015, accompagnées d’une clé USB contenant 82 documents supplémentaires à l’intention de l’intimée. Bon nombre de ces documents ont été préparés par EY et Deloitte. Ce n’est qu’après avoir reçu ces documents que l’intimée a découvert la participation de Deloitte à la réorganisation de 2006.
+[11] Le 9 octobre 2015, l’intimée a envoyé des questions complémentaires découlant des réponses de l’appelante aux engagements. L’appelante a remis ses réponses aux questions complémentaires le 11 novembre 2015, après la soumission des présentes requêtes par l’intimée. Dans sa lettre d’accompagnement, l’avocat de l’appelante a mentionné que cette dernière n’avait pas répondu à [TRADUTION] « la grande majorité des questions complémentaires de l’intimée censées se rapporter au document préparé par Deloitte qui a été produit » conformément à l’engagement puisque ces questions auraient dû être posées à M. Pope lors de son interrogatoire.
+[12] Dans une lettre datée du 29 septembre 2015, l’intimée avait demandé qu’EY lui fournisse ses dossiers ayant trait aux questions en litige dans le présent appel, les dossiers concernant la conversion de l’appelante en fiducie de revenu et le nom des personnes qui avaient fourni des services à l’appelante et à ses sociétés affiliées en 2006. Le même jour, l’intimée a demandé à Deloitte de lui remettre ses dossiers concernant les travaux qu’elle a réalisés en 2006 dans le cadre de la conversion de Teranet en fiducie de revenu et de lui indiquer le nom des personnes qui y ont participé.
+[13] Le 13 octobre 2015, les avocats de Deloitte ont répondu qu’ils examinaient la demande de l’intimée. Aucune autre réponse n’a été fournie par Deloitte. Les avocats de Deloitte ont toutefois comparu à l’audience pour ces requêtes.
+[14] Le 23 octobre 2015, les avocats d’EY ont indiqué que les renseignements en leur possession concernant leur client sont confidentiels et qu’EY ne pouvait pas fournir les renseignements demandés. Les avocats d’EY étaient également présents à l’audience pour ces requêtes.
+Lois [15] L’interrogatoire d’un tiers est prévu à l’article 99 des Règles. Il s’agit d’un recours extraordinaire, et les cinq critères énoncés au paragraphe 99(2) des Règles doivent tous être respectés avant que la cour puisse exercer son pouvoir discrétionnaire en vue de rendre une ordonnance aux termes de l’article 99 : décision Teelucksingh c. La Reine, 2007 CCI 125, au paragraphe 2. L’article 99 se lit comme suit :
+99 (1) La Cour peut accorder, à des conditions appropriées, notamment quant aux dépens, l’autorisation d’interroger au préalable une personne, à l’exception d’un expert engagé en prévision d’un litige ou en instance par une partie, ou en son nom, si elle a des raisons de croire que cette personne possède des renseignements pertinents sur une question importante en litige.
+(2) La Cour n’accorde l’autorisation selon le paragraphe (1) que si elle est convaincue :
+a) que le requérant n’a pas été en mesure d’obtenir ce renseignement de l’une des personnes qu’il a le droit d’interroger au préalable ou de la personne qu’il désire interroger;
+b) qu’il est injuste d’exiger que l’instance soit instruite sans que le requérant de la requête ait la possibilité d’interroger cette personne;
+c) que l’interrogatoire n’aura pas pour effet, selon le cas :
+(i) de retarder indûment le début de l’instruction de l’instance,
+(ii) d’entraîner des dépenses injustifiées pour les autres parties,
+(iii) de causer une injustice à la personne que le requérant désire interroger.
+(3) Sauf directive contraire de la Cour, la partie qui interroge oralement une personne en application du présent article signifie, sur demande, une transcription gratuite de l’interrogatoire à toute partie qui y a assisté ou qui s’y est fait représenter.
+(4) Sauf directive expresse contraire de la Cour, la partie interrogatrice n’a pas le droit de recouvrer d’une autre partie les dépens de l’interrogatoire.
+(5) La déposition d’une personne interrogée en application du présent article ne peut être consignée en preuve à l’audience aux fins du paragraphe 100(1).
+[16] La pertinence est le premier aspect à considérer lorsqu’une requête est présentée aux termes du paragraphe 99(1) des Règles : Sackman c. La Reine, 2008 CAF 177, au paragraphe 17. La partie requérante doit démontrer que le tiers possède des renseignements pertinents sur une question importante en cause dans l’appel. Lorsque le tiers qui sera interrogé n’est pas une personne, l’incapacité à identifier une personne bien informée précise au sein du groupe tiers (comme c’est le cas ici en ce qui concerne Deloitte) ne fait pas obstacle à l’obtention d’une ordonnance aux termes de l’article 99. À cet égard, le juge en chef Rip (tel était alors son titre) a expliqué aux paragraphes 32 et 33 de sa décision intitulée Advantex Marketing International Inc. c. La Reine, 2014 CCI 21 :
+32 L’avocat de l’intimée fait valoir que l’article 99 des Règles renvoie à l’interrogatoire préalable d’» une personne » si la Cour a des raisons de croire que cette personne possède des renseignements, sans qu’il s’agisse nécessairement de quelqu’un de « bien informé » aux termes de l’article 93 des Règles. Toutefois, je suis d’avis qu’une fois qu’une personne a été choisie comme un tiers faisant l’objet d’un interrogatoire préalable, cette personne doit être informée ou encore s’informer quant à la question faisant l’objet de l’interrogatoire. Si la personne devant être interrogée n’est pas informée à l’égard de l’objet de l’interrogatoire, celui-ci sera probablement inutile.
+33 La partie qui interroge au préalable un tiers, qui n’est pas une personne physique, ne devrait pas se trouver dans une position moins favorable que lorsqu’elle interroge une partie adverse. Ainsi, les paragraphes 93(2) et 95(2) des Règles visent les tiers tout comme les parties : le tiers devant être interrogé, qui n’est pas une personne physique, doit choisir un employé, un dirigeant ou un administrateur – actuel ou ancien – bien informé qui sera interrogé en son nom, et, avant la tenue de l’interrogatoire, cette personne devant être interrogée doit faire toutes les recherches raisonnables portant sur les points en litige, conformément au paragraphe 95(2) des Règles.
+[17] Conformément à l’alinéa 99(2)a) des Règles, le requérant doit convaincre la Cour qu’il n’a pas été en mesure d’obtenir le renseignement de l’une des personnes qu’il a le droit d’interroger au préalable ou de la personne qu’il désire interroger. Cet alinéa est rédigé de façon conjonctive, avec l’emploi de la préposition « ou », étant donné qu’il faut satisfaire aux deux exigences : Barker v. The Queen, 2012 TCC 64, au paragraphe 13.
+[18] La partie requérante doit également démontrer i) qu’il est injuste d’exiger que l’instance soit instruite sans qu’elle ait la possibilité d’interroger le tiers; ii) que l’interrogatoire n’aura pas pour effet de retarder indûment le début de l’instruction de l’instance; iii) que l’interrogatoire n’aura pas pour effet d’entraîner des dépenses injustifiées pour les autres parties; ou iv) que l’interrogatoire n’aura pas pour effet de causer une injustice au tiers.
+Analyse A. Pertinence (1) EY [19] L’intimée souhaite interroger M. Allard de EY pour s’enquérir de la façon dont ont été fixées les conditions – y compris le taux d’intérêt – des billets à ordre de 1,215 milliard de dollars et de 10 millions de dollars. Étant donné que les questions en litige dans le présent appel ont trait au caractère raisonnable du taux d’intérêt et à l’objet des billets à ordre, toute information détenue par M. Allard sera pertinente.
+[20] L’appelante a fait valoir que M. Allard et EY ne détiennent aucune information pertinente aux questions en litige dans l’appel. Les avocats de l’appelante ont déclaré que l’appelante a établi le taux d’intérêt et a uniquement sollicité l’opinion d’EY quant au caractère raisonnable de celui-ci. À ce titre, ils se serviront du rapport d’EY uniquement pour démontrer sa diligence raisonnable. À l’appui de sa thèse, l’appelante a évoqué sa lettre de mission avec EY datée du 11 janvier 2006. La portée des procédures à exécuter, telle qu’elle est décrite dans la lettre, est la suivante :
+[TRADUCTION]
+En vue de préparer le produit livrable, nous exécuterons des procédures d’examen limitées en vue de comprendre les transactions proposées qui seront décrites dans le prospectus (la « transaction »). Nous exécuterons ces procédures limitées en vue de déterminer si, à notre avis, il n’est pas déraisonnable de conclure que le taux d’intérêt proposé pour le prêt intersociété n’est vraisemblablement pas plus élevé que le taux d’intérêt qu’un tiers prêteur sans lien de dépendance aurait raisonnablement pu accepter dans les circonstances[1].
+[21] Selon les avocats de l’appelante, cet extrait démontre que EY n’a pas prodigué de conseils au sujet des conditions des billets à ordre, n’a pas suggéré d’autres conditions et n’a pas suggéré différents taux d’intérêt. Les avocats de l’appelante ont déclaré qu’on avait simplement communiqué à EY [TRADUCTION] « des taux d’intérêt et qu’il avait été appelé à évaluer le caractère raisonnable de ceux­-ci »[2].
+[22] L’intimée a déclaré que les documents fournis par l’appelante démontrent que M. Allard et EY ont participé à l’établissement du taux d’intérêt des billets à ordre. Les avocates de l’intimée ont évoqué les documents suivants : i) la lettre de EY, « THLP Note »[3], qui porte sur l’examen du prêt intersociété; ii) le calendrier détaillé des travaux de EY concernant la lettre « THLP Note »[4]; iii) la note de service de EY concernant la lettre « THLP Note »[5]; iv) la présentation de EY concernant l’évaluation des actifs identifiables de Teranet[6]; v) le courriel transmis par M. Allard à M. Galloro au sujet du modèle de fiducie de revenu de Teranet[7]; et vi) diverses lettres envoyées par EY à Teranet au sujet de la lettre « THLP Note »[8] au sujet de l’examen du prêt intersociété.
+[23] Dans les circonstances de l’espèce, bien que l’appelante ait ultimement choisi le taux d’intérêt des billets à ordre, compte tenu de la preuve et des arguments présentés dans le cadre de la requête, il ne s’ensuit pas nécessairement que EY ne disposait d’aucun renseignement pertinent sur les questions en litige dans le présent appel. Lors de l’interrogatoire préalable, on a demandé à M. Pope d’indiquer le moment où le montant principal du billet à ordre de 1,215 milliards de dollars a été fixé. Il a répondu :
+[TRADUCTION]
+J’ignore la date exacte. Évidemment, ce serait avant le 16 juin 2006. Si je me souviens bien, il y avait, avant cette date, des documents envisageant d’autres montants, mais l’intervalle dont il est question est de quelques semaines et non de mois. Je présume donc que le montant a été fixé peu de temps avant la date indiquée sur le billet, soit le 16 juin[9].
+[24] La lettre de mission de EY est datée du 11 janvier 2006, soit cinq mois avant la date du billet à ordre. Les avocats de l’appelante ont déclaré que l’appelante a transmis des taux d’intérêt à EY afin qu’elle puisse en évaluer le caractère raisonnable. Cet échange a eu lieu cinq mois avant la réorganisation de 2006. D’après la déclaration des avocats, j’ai déduit que le montant principal du billet à ordre était connu depuis un certain temps avant le 16 juin 2016.
+[25] Il est évident que M. Allard et EY détiennent des renseignements concernant la décision d’opter pour le taux d’intérêt de 9,75 %. En plus de ce qui a été susmentionné, le calendrier détaillé des travaux de EY concernant la lettre « THLP Note » montre que les employés de EY ont consacré 109 heures au mandat de l’appelante, dont 59,5 heures par Brian Allard.
+[26] L’intimée a établi que M. Allard et EY détiennent de l’information quant à la façon dont ont été fixées les conditions – y compris le taux d’intérêt – des billets à ordre de 1,215 milliard de dollars et de 10 millions de dollars.
+(2) Deloitte [27] L’appelante n’a pas contesté le fait que Deloitte détient des renseignements qui sont pertinents aux questions en litige dans le présent appel.
+[28] Les avocates de l’intimée ont déclaré que : i) Deloitte avait préparé des documents concernant la conversion de Teranet Inc. à Teranet Income Fund;[10] ii) Deloitte a préparé une note de service concernant les mesures fiscales et un modèle fiscal, des états financiers pro forma pour la direction de Teranet et des lettres d’intention[11]; iii) Deloitte a donné une présentation à l’intention de la direction de Teranet le 15 novembre 2005 au sujet de la [TRADUCTION] « proposition de premier appel public à l’épargne de Teranet Income Fund[12] ». Cela a eu lieu sept mois avant la réorganisation de 2006.
+[29] Je suis d’avis que l’intimée a établi que Deloitte détient des renseignements pertinents aux questions en litige dans le présent appel.
+(a) Impossibilité d’obtenir des réponses de la part de l’appelante (i) L’appelante [30] Aux termes du paragraphe 93(2) des Règles, l’appelante était tenue de choisir un administrateur – actuel ou ancien – bien informé. Elle a choisi M. Pope, un administrateur actuellement en poste, en tant que représentant à l’interrogatoire préalable. M. Pope n’était pas à l’emploi de l’appelante lors de la réorganisation de 2006 et, en tant que représentant de l’appelante, il lui incombait, aux termes du paragraphe 95(2), d’obtenir les renseignements nécessaires en prévision de l’interrogatoire préalable. Comme je l’ai dit précédemment, après avoir lu la transcription de l’interrogatoire préalable, force est de constater que M. Pope a simplement lu certains documents en la possession de l’appelante et n’a pas cherché à se renseigner davantage. Lors de l’interrogatoire préalable, il a témoigné qu’il ne s’est jamais entretenu avec d’anciens employés de l’appelante qui avaient participé à la réorganisation de 2006 et qu’il n’avait jamais pris connaissance de courriels à ce sujet.
+[31] M. Pope n’a pu répondre qu’à quelques questions, et on a dû l’inciter à répondre à celles auxquelles il a pu donner réponse en s’appuyant sur des documents. Il n’a pas été en mesure de répondre aux questions concernant la structure de l’appelante avant la réorganisation de 2006. Il n’était pas au courant des obligations financières de l’appelante avant la réorganisation. Il n’a pas été en mesure de répondre aux questions concernant ceux qui avaient participé à la réorganisation ou à l’établissement des conditions des billets à ordre. Vers la fin de l’interrogatoire préalable, les avocats de l’appelante ont commencé à répondre à la plupart des questions adressées à M. Pope. L’incapacité de M. Pope à répondre aux questions a engendré la prise de 52 engagements par l’appelante.
+[32] Les échanges typiques suivants ont eu lieu lors de l’interrogatoire préalable. On a posé les questions suivantes à M. Pope :
+[TRADUCTION]
+Q. En fin de compte, un taux d’intérêt de 9,75 % a été établi pour le billet à ordre. Est-ce que la décision d’établir le taux d’intérêt à 9,75 % a été exclusivement fondée sur la recommandation de Ernst & Young, à la pièce R00036?
+R. Je ne suis pas en mesure de répondre à cette question.
+[…]
+Q. Veuillez vous reporter au billet à ordre à la pièce R00100. Quand le montant principal, soit 1,215 milliard de dollars, a­t­il été déterminé?
+R. J’ignore la date exacte. Évidemment, ce serait avant le 16 juin 2006.
+[…]
+Q. Qui a participé à l’établissement du montant principal du billet?
+R. Je ne sais pas.
+[…]
+Q. Qui au sein de Teranet a participé à l’établissement du taux d’intérêt?
+R. J’imagine que le directeur financier qui était en poste à l’époque y aurait participé, mais je n’en sais rien[13].
+Lors de l’interrogatoire préalable de M. Pope, l’intimée a demandé à celui‑ci de lui indiquer comment les fonds avaient été versés :
+[TRADUCTION]
+Q. […] Comment les fonds ont-ils été versés de Teranet Holdings Limited Partnership à Teranet Operating Trust?
+R. Je ne le sais pas.
+Q. Pourriez-vous vous engager à nous renseigner à ce sujet?
+M. Finkelstein : Oui[14].
+La réponse à l’engagement fournie par l’appelante était la suivante :
+[TRADUCTION]
+Selon l’examen des états financiers consolidés de Teranet, il semblerait que le fonds de revenu de Teranet Holdings Limited Partnership ait émis des distributions au porteur de ses parts de société en commandite, Teranet Operating Trust[15].
+Voici un autre exemple d’échange typique ayant eu lieu entre l’intimée et M. Pope :
+[TRADUCTION]
+Q. […] le billet entre la fiducie d’exploitation Teranet et le porteur. Comment le taux d’intérêt de 4 % a­t­il été établi?
+R. Je ne le sais pas.
+Q. Pourriez-vous vous engager à nous renseigner à ce sujet?
+M. Finkelstein : Nous ferons tout en notre possible pour le faire[16].
+Dans le cadre des engagements, l’appelante a répondu ce qui suit :
+[TRADUCTION]
+Teranet ignore comment le taux de 4 % a été établi et n’est pas en mesure de trouver les documents qui expliqueraient comment il a été établi[17].
+Voici un exemple typique d’échange intégral entre les parties, soit l’interrogatoire préalable, les engagements et les questions complémentaires :
+[TRADUCTION]
+Q. Les dirigeants de ces trois entités et le 15 % restant sont-ils ceux qui ont participé à la réorganisation et à l’établissement des conditions du billet à ordre?
+R. Non.
+Q. Qui était­ce, alors?
+R. C’est... je l’ignore[18].
+Les avocates de l’intimée ont demandé un engagement dans le but d’identifier les personnes qui étaient responsables de prendre les décisions au sujet de la réorganisation et du taux d’intérêt, et de trouver tout document ou courriel se rapportant à la réorganisation. En réponse, les avocats de l’appelante ont déclaré ce qui suit :
+[TRADUCTION]
+M. Finkelstein: À la lumière de votre requête, Teranet Inc. identifiera les gens concernés et vous indiquera leurs postes; il s’agit du premier groupe. Pour ce qui est de la recherche de documents, comme vous le savez sans doute, Teranet appartient maintenant à OMERS; nous n’allons donc pas chercher ces documents à l’externe. Teranet procédera néanmoins à des recherches à l’interne afin de déterminer si elle a en sa possession les documents se rapportant à la question en cause en se tournant vers ces personnes[19].
+La réponse de l’appelante à l’engagement a été la suivante :
+[TRADUCTION]
+D’après l’examen des documents par Ternate, il semblerait que Brian Kyle, qui était le directeur financier de Teranet au moment de l’opération, faisait partie du groupe qui a dirigé l’opération[20].
+L’intimée a posé une question complémentaire :
+[TRADUCTION]
+La question ne se limitait pas à un examen des documents, ni à l’identification d’une personne en particulier. Les questions avaient pour but d’obtenir de l’information au sujet de tous ceux qui ont participé au processus décisionnel concernant la réorganisation et l’établissement du billet à ordre. Veuillez répondre[21].
+L’appelante a répondu ce qui suit :
+[TRADUCTION]
+Teranet a déployé tous les efforts nécessaires pour répondre à l’engagement 4. Brian Kyle est la seule personne que Teranet a été en mesure d’identifier dans les documents comme étant l’une des personnes ayant participé à la prise de décisions importantes concernant la réorganisation. Comme il n’y a plus aucun employé habilité à prendre des décisions à Teranet qui était en poste dans l’entreprise en juin 2006, la seule façon pour Teranet de répondre à cet engagement était de procéder à l’examen de documents pertinents[22].
+Comme on peut le constater à la lecture des échanges précités, M. Pope n’était pas bien informé au sujet des questions en litige dans le présent appel, et l’appelante n’était pas disposée à se renseigner auprès d’anciens employés en vue d’obtenir l’information nécessaire pour répondre aux questions de l’intimée. Lors de l’interrogatoire préalable, l’appelante a également refusé de donner son accord pour que l’intimée demande à EY de fournir le dossier, le cas échéant. En outre, dans les réponses aux engagements pris, l’appelante a déclaré que bon nombre des dossiers qu’elle avait eus en sa possession ont été perdus ou détruits. Il n’est pas étonnant que l’intimée ait souhaité procéder à l’interrogatoire préalable de tiers en vue d’obtenir l’information qu’elle recherche. Lorsqu’une partie choisit de ne pas répondre à des questions légitimes qui lui ont été posées ou de ne pas se renseigner, l’article 99 des Règles fournit un recours extraordinaire pour assurer que l’on ne contrecarre pas l’objet des interrogatoires préalables.
+(ii) EY [33] L’appelante soutient que le rapport de EY et l’interaction de l’appelante avec EY ne sont pas pertinents du point de vue de l’établissement d’un taux raisonnable. Les avocats de l’appelante ont déclaré :
+[TRADUCTION]
+Ultimement, ce qui importe, c’est ce que l’entreprise a fait en réalité. Quelles étaient les modalités de la dette? Quel était le taux d’intérêt? Quels intérêts seraient imputés par une partie sans lien de dépendance pour ce genre de dette? […] La façon dont l’entreprise s’est rendue à ce point est, en réalité, sans importance. D’ailleurs, l’analyse de EY, dans la mesure où on l’invoque, en témoigne[23].
+[34] L’intimée a peut-être le rapport de EY en sa possession, mais d’après l’interrogatoire de M. Pope, il était évident qu’il ne pouvait pas expliquer le rôle de EY ou le rôle du rapport de EY dans l’établissement du taux d’intérêt des billets à ordre.
+(iii) Deloitte [35] L’intimée a demandé d’interroger au préalable une personne bien informée chez Deloitte au sujet i) du but de chaque étape dans la série de transactions précisées dans l’ébauche de la lettre d’intention, y compris du but des billets à ordre intersociétés; ii) du mouvement des fonds dans les transactions; et iii) de la façon dont ont été déterminés le principal et les taux d’intérêt des billets à ordre intersociétés.
+[36] Pendant l’interrogatoire de M, Pope, l’intimée n’était pas au courant de la participation de Deloitte dans la réorganisation de 2006 de l’appelante. L’intimée a reçu les documents de Deloitte lorsque l’appelante les a produits en réponse à des engagements. À l’étape des questions complémentaires, l’intimée a posé à l’appelante des questions au sujet de chacun des points énumérés au paragraphe 36 précité.
+[37] Le dossier a révélé que l’appelante a répondu aux questions de l’intimée quant au but de la série de transactions, mais qu’elle n’a pas répondu aux questions au sujet du but de chaque étape de la série de transactions.
+[38] Les avocates de l’intimée ont également posé des questions complémentaires concernant le mouvement des fonds dans les transactions. Les avocats de l’appelante ont affirmé que cette question complémentaire n’était pas appropriée et que maintenant l’intimée ne peut pas poser de questions à Deloitte au sujet du mouvement des fonds, car ces questions auraient dû être posées à M. Pope lors de l’interrogatoire préalable. À l’appui de leur thèse, les avocats ont déclaré que Nicholas Correia, vérificateur à l’Agence de revenu du Canada (« ARC »), avait préparé un document intitulé [TRADUCTION]« Fiducie de revenu de Teranet, graphique d’acheminement du mouvement des fonds », illustrant les étapes de la transaction, qui reçoit quel montant et les flux de trésorerie. Les avocats ont soutenu que des questions auraient dû être posées à M. Pope au sujet du document de l’ARC, et, parce qu’elles ne l’ont pas été, l’intimée ne devrait pas avoir le droit de poser cette question à Deloitte.
+[39] Je ne suis pas d’accord. Une vérification ne mène pas nécessairement à un litige et les renseignements recherchés par un avocat pendant la procédure judiciaire ne sont pas nécessairement les mêmes que ceux qu’un vérificateur cherche lors d’une vérification : décision Advantex Marketing International Inc. (précitée) au paragraphe 34.
+[40] Je suis de l’avis que les documents de Deloitte ont orienté les avocates de l’intimée vers une démarche différente au-delà du schéma produit par le vérificateur de l’ARC. Le schéma de l’ARC illustre simplement les étapes de la réorganisation de 2006, tandis que le document de Deloitte montrait que Deloitte s’était penchée sur la façon de structurer la réorganisation de 2006 afin de réduire au minimum le risque fiscal. Deloitte a étudié ou considéré [TRADUCTION] « structurer l’acquisition des actions/mouvements de fonds de Teranet pour maximiser les déductions de Teranet Amalco II afin de limiter l’impôt sur le revenu des sociétés pendant la période de modélisation (de 2006 à 2017) »[24]. Le document démontrait également que Deloitte avait considéré d’autres enjeux, tels que le [TRADUCTION] « caractère raisonnable des taux d’intérêt dans les structures alternatives » et la [TRADUCTION] « déductibilité de l’intérêt »[25]. L’une des raisons pour lesquelles la structure de fiducie de revenu avait été recommandée était parce que [TRADUCTION] « les taux d’intérêt utilisés dans le modèle pour donner le résultat souhaité » semblaient plausibles[26].
+[41] En tant que partie interrogatrice, l’intimée a droit à tout renseignement et a le droit de consulter tout document qui pourrait la lancer dans une enquête qui pourra, directement ou indirectement, faire progresser sa cause ou nuire à celle de la partie adverse : Teelucksingh v. The Queen, 2010 TCC 94, au paragraphe 15.
+[42] Au lieu de demander à l’appelante de décrire la structure de la réorganisation de 2006, les avocates de l’intimée lui ont demandé pourquoi la structure de la réorganisation de 2006 était telle qu’elle était. Il s’agissait d’une bonne question complémentaire. Elle a découlé de documents que venait de fournir Deloitte, et une explication au sujet de ces documents s’imposait : Blais v. Toronto Area Transit Operating Authority, 2011 ONSC 1880, aux paragraphes 61 à 63.
+[43] Dans le cas présent, l’appelante n’a pas répondu aux questions complémentaires au sujet des documents de Deloitte et n’a pas démontré qu’elle était en mesure de répondre à ces questions.
+[44] L’appelante a également soutenu que l’intimée ne devrait pas avoir le droit d’interroger Deloitte, car il n’y avait aucune preuve que Deloitte possédait de l’information quant à la façon dont le montant principal et le taux d’intérêt des billets à ordre avaient été déterminés. Toutefois, au cours de l’interrogatoire préalable, le représentant de l’appelante ne pouvait pas dire qui avait participé à l’établissement du taux d’intérêt autre que Brian Kyle, ni expliquer comment le taux d’intérêt avait été établi. Selon les documents de Deloitte et la participation de Deloitte, il semblerait que Deloitte connaissait les acteurs qui avaient joué un rôle dans l’établissement du taux d’intérêt et les facteurs considérés lors de l’établissement du taux d’intérêt.
+[45] L’intimée a demandé les renseignements de EY et de Deloitte et sa demande a été rejetée.
+[46] Je suis d’avis que l’intimée a satisfait aux deux conditions prescrites à l’alinéa 99(2)a) des Règles, c’est-à-dire, qu’elle n’a pas été en mesure d’obtenir les renseignements ni de l’appelante, ni de EY, ni de Deloitte.
+(b) Injustice pour l’intimée d’instruire l’instance sans qu’elle ait la possibilité d’interroger les tiers [47] L’appelante a soutenu qu’il n’y a aucune injustice pour l’intimée si elle n’a pas la permission d’interroger les tiers étant donné que l’ARC est très familière avec les structures de fiducie de revenu. Les avocats ont aussi précisé que l’intimée ne devrait pas avoir le droit d’interroger au préalable un représentant de EY, car la participation de EY à l’établissement du taux d’intérêt et son interaction avec l’appelante ne sont pas pertinentes du point de vue de la valeur.[27]
+[48] L’intimée a déclaré au cours de l’audition de la requête que, si l’instance devait être instruite sans qu’elle ait l’occasion d’interroger EY ou Deloitte, elle n’aurait aucune connaissance des documents en leur possession. Comme l’appelante nous a informés qu’elle n’a que quelques documents en sa possession, instruire l’instance sans interroger les tiers entraînerait probablement une demande d’ajournement pour examiner les documents de EY et Deloitte.
+[49] Je suis de l’avis que, dans la mesure où l’intimée a besoin des renseignements des tiers pour porter cette affaire devant la Cour, elle devrait avoir accès à ces renseignements avant l’instruction : arrêt Sackman (précité), au paragraphe 19.
+(c) Report indu de l’audience, coûts déraisonnables pour les autres parties et injustice pour les tiers [50] L’intimée a déclaré que, si les requêtes étaient accueillies, l’audience ne serait pas retardée indûment. L’intimée a indiqué qu’elle serait en mesure de participer à l’audience à la fin mai ou au début juin, comme l’a demandé l’appelante. Les interrogatoires préalables des tiers seraient limités à un jour pour chaque partie.
+[51] Lors de l’audition de la requête, l’avocat de EY et l’avocat de Deloitte ont demandé que les frais leur soient remboursés si la requête devait être accueillie. L’intimée a indiqué qu’elle était disposée à rembourser les frais raisonnables à EY et à Deloitte.
+[52] Ni l’un des tiers ni l’appelante n’a indiqué que les interrogatoires préalables de EY et de Deloitte causeraient de l’injustice.
+Conclusion [53] Pour ces motifs, je fais droit aux requêtes de l’intimée. Je rendrai une ordonnance accordant à l’intimée l’autorisation d’interroger des tiers, notamment Brian Allard de EY, ainsi qu’un représentant bien informé de Deloitte, afin que l’intimée puisse obtenir des réponses à ses questions. EY et Deloitte devront produire des documents en leur possession qui sont pertinents aux questions en litige dans le présent appel. Ces documents seront remis à l’intimée avant l’interrogatoire préalable.
+[54] Les dépens pour ces requêtes sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 12e jour de février 2016.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 10e jour de janvier 2017.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016CCI42
+No DU DOSSIER DE LA COUR :
+2014­385(IT)G
+INTITULÉ :
+TERANET INC. ET LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 novembre 2015
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE :
+Le 12 février 2016
+COMPARUTIONS :
+Avocats de l’appelante :
+John C. Yuan
+Paul Davis
+Avocates de l’intimée :
+Naomi Goldstein
+Jenny Mboutsiadis
+Avocat de Deloitte Touche :
+Neil Paris
+Avocat de EY Canada :
+Robert Trenker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+John C. Yuan
+Paul Davis
+Cabinet :
+McCarthy Tétrault S.E.N.C.R.L., s.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous­procureur général du Canada
+Ottawa, Canada
+[1] Dossier de requête de l’appelante, onglet 1, pièce J, page 175
+[2] Transcription des débats, pages 56 et 57
+[3] Dossier de requête de l’intimée concernant EY, onglet 2, pièce E
+[4] Dossier de requête de l’intimée concernant EY, onglet 2, pièce F
+[5] Dossier de requête de l’intimée concernant EY, onglet 2, pièce B
+[6] Dossier de requête de l’intimée concernant EY, onglet 2, pièce D
+[7] Dossier de requête de l’intimée concernant EY, onglet 2, pièce D
+[8] Dossier de requête de l’intimée concernant EY, onglet 2, pièce D
+[9] Dossier de requête de l’intimée concernant EY, onglet 3; transcription de l’interrogatoire préalable de Gregory Pope, page 50
+[10] Dossier de requête de l’intimée concernant Deloitte, onglet 2, pièce C
+[11] Dossier de requête de l’intimée concernant Deloitte, onglet 2, pièce D
+[12] Dossier de requête de l’intimée concernant Deloitte, onglet 2, pièce E
+[13] Dossier de requête de l’intimée concernant EY, onglet 3; transcription de l’interrogatoire préalable, pages 50 et 51
+[14] Dossier de requête de l’intimée concernant EY, onglet 3; transcription de l’interrogatoire préalable, page 55
+[15] Dossier de requête de l’intimée concernant EY, onglet 2, pièce C, page 10
+[16] Dossier de requête de l’intimée concernant EY, onglet 3; transcription de l’interrogatoire préalable, page 54
+[17] Dossier de requête de l’intimée concernant EY, pièce 2, onglet C, page 10, UT44
+[18] Dossier de requête de l’intimée concernant EY, onglet 3; transcription de l’interrogatoire préalable, page 11
+[19] Dossier de requête de l’intimée concernant EY, onglet 3; transcription de l’interrogatoire préalable, page 12
+[20] Dossier de requête de l’intimée concernant EY, pièce 2, onglet C; examen : [TRADUCTION] « Tableau des refus et des engagements », page 1, UT­4
+[21] Affidavit supplémentaire de Justine Wilde, pièce A, [TRADUCTION] « Interrogatoire préalable de Gregory Pope : questions complémentaires et réponses », page 4, UT­4
+[22] Affidavit supplémentaire de Justine Wilde, pièce A; [TRADUCTION] « Interrogatoire préalable de Gregory Pope : questions complémentaires et réponses », page 4, UT­4
+[23] Transcription des débats, page 51
+[24] Dossier de requête de l’intimée concernant Deloitte, onglet 2, pièce E, page 5
+[25] Ibid, page 14
+[26] Ibid, page 15
+[27] Transcription des débats, page 51

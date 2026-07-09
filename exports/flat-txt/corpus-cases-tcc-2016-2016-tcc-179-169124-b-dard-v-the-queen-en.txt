@@ -1,0 +1,401 @@
+Title: Bédard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/169124/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-179-169124-b-dard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-08-04
+
+# Bédard v. The Queen
+
+- Citation: 2016 TCC 179
+- Decision date: 2016-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2904, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bédard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-08-04
+Neutral citation
+2016 TCC 179
+File numbers
+2014-2108(IT)I, 2014-2110(IT)I, 2014-2111(IT)I, 2014-2127(IT)I, 2014-2140(IT)I, 2014-2149(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Notes
+New revised version posted July 17th, 2017.
+Decision Content
+Docket: 2014-2108(IT)I
+BETWEEN:
+YVON BÉDARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Cléo Vallée (2014‑2110(IT)I), Roger Ortiz (2014-2111(IT)I), Linda Desrosiers (2014‑2127(IT)I), Cécile Frenette (2014-2140(IT)I) and Gisèle Michaud (2014‑2149(IT)I) on April 4, 5, 6, 7 and 8, 2016, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+Docket: 2014-2110(IT)I
+BETWEEN:
+CLÉO VALLÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Yvon Bédard (2014‑2108(IT)I), Roger Ortiz (2014-2111(IT)I), Linda Desrosiers (2014‑2127(IT)I), Cécile Frenette (2014-2140(IT)I) and Gisèle Michaud (2014‑2149(IT)I) on April 4, 5, 6, 7 and 8, 2016, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+Docket: 2014-2111(IT)I
+BETWEEN:
+ROGER ORTIZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Yvon Bédard (2014‑2108(IT)I), Cléo Vallée (2014-2110(IT)I), Linda Desrosiers (2014‑2127(IT)I), Cécile Frenette (2014-2140(IT)I) and Gisèle Michaud (2014‑2149(IT)I) on April 4, 5, 6, 7 and 8, 2016, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+Docket: 2014-2127(IT)I
+BETWEEN:
+LINDA DESROSIERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Yvon Bédard (2014‑2108(IT)I), Cléo Vallée (2014-2110(IT)I), Roger Ortiz (2014-2111(IT)I), Cécile Frenette (2014-2140(IT)I) and Gisèle Michaud (2014‑2149(IT)I) on April 4, 5, 6, 7 and 8, 2016, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+Docket: 2014-2140(IT)I
+BETWEEN:
+CÉCILE FRENETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Yvon Bédard (2014‑2108(IT)I), Cléo Vallée (2014-2110(IT)I), Roger Ortiz (2014-2111(IT)I), Linda Desrosiers (2014-2127(IT)I) and Gisèle Michaud (2014‑2149(IT)I) on April 4, 5, 6, 7 and 8, 2016, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+Docket: 2014-2149(IT)I
+BETWEEN:
+GISÈLE MICHAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Yvon Bédard (2014‑2108(IT)I), Cléo Vallée (2014-2110(IT)I), Roger Ortiz (2014-2111(IT)I), Linda Desrosiers (2014-2127(IT)I and Cécile Frenette (2014-2140(IT)I) on April 4, 5, 6, 7 and 8, 2016, at Quebec City, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+Citation: 2016 TCC 179
+Date: 20160804
+Dockets: 2014-2108(IT)I, 2014-2110(IT)I
+2014-2111(IT)I, 2014-2127(IT)I
+2014-2140(IT)I, 2014-2149(IT)I
+BETWEEN:
+YVON BÉDARD, CLÉO VALLÉE,
+ROGER ORTIZ, LINDA DESROSIERS,
+CÉCILE FRENETTE, GISÈLE MICHAUD,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+Overview [1] These six informal appeals were heard together in Quebec City. All of the taxpayers were investors in schemes that resulted in the stripping of funds out of an RRSP (or other registered plan) through the use of non‑qualified investments in self‑directed RRSPs.
+[2] The only issue in these cases is whether the Respondent was permitted to assess outside the normal reassessment period. These transactions occurred in 2001. The normal reassessment periods expired in 2005. The notices of reassessment were issued in 2009. Consequently, the Respondent’s evidence must be such as to satisfy the Court that the Canada Revenue Agency (“CRA”) could reassess outside the normal three‑year reassessment period. That in turn requires that there have been a misrepresentation that was attributable to neglect, carelessness or wilful default.
+The Scheme [3] The principal rogue promoter of the scheme proposed to these taxpayers was Claude Lavigne. He was not acting alone, but worked with fellow scoundrels. Mr. Lavigne has been found guilty of tax evasion, sentenced to prison for 21 months and fined almost two million dollars (2014 QCCQ 6891 and 2015 QCCQ 923) by the Court of Quebec. The Court of Quebec had earlier found him guilty of violations of the Quebec Securities Act as it applied to such schemes, including one involving one of the investment clubs herein (2007 QCCQ 8). This Court has several reported decisions, including two involving Mr. Lavigne, dealing with similarly structured RRSP schemes peddled by scoundrels. This Court has also recently heard other RRSP-stripping cases: see Demers v. Canada, 2014 TCC 368 (Justice Jorré); Gougeon v. Canada, 2010 TCC 359 (Justice Tardif); Bonavia v. Canada, 2009 TCC 289 (Justice Favreau), affirmed 2010 FCA 129; Astorino v. Canada, 2010 TCC 144 (Justice C. Miller); Noiseux Estate v. Canada, 2016 TCC 51 (Justice Paris); and Filiatrault v. Canada, 2016 TCC 58 (Justice Paris).
+[4] The Appellants and the Respondent filed a Partial Agreed Statement of Facts, a copy of which is attached to these reasons. In addition, two CRA auditors testified, as did all six taxpayers. One of these CRA auditors was responsible for the audit of all of the structures set up by Mr. Lavigne. The other was one of three auditors responsible for auditing the taxpayer investors. That auditor audited two of these six taxpayers; two other auditors audited the other four of these taxpayers. Both counsel referred to the court decisions concerning Mr. Lavigne personally and to the other RRSP-stripping tax cases in which Mr. Lavigne was involved and which deal in particular with how Mr. Lavigne’s investment club schemes were structured and promoted.
+[5] It is sufficient for the purposes of these reasons to provide a general outline based on the Agreed Statement of Facts and on the other evidence showing how this investment club scheme worked. Not surprisingly in cases such as those herein, potential “investors” who participate in such a scheme range from seemingly willing participants to less sophisticated persons who appear to have been conned. Not everyone says they were offered, or that they accepted, the same deal, or that they were told the same thing, or that they had tried to reconcile what they were told with the documents. However, the following is a general summary of how the three investment clubs operated:
+1. The participant transferred his/her pre‑existing registered plan to a new self‑directed RRSP at B2B Trust, a subsidiary of the Laurentian Bank. There is no suggestion that B2B Trust or Laurentian Bank was complicit in Mr. Lavigne’s scheme.
+2. B2B Trust was instructed by the participant’s financial advisor, with whom the participant had never dealt previously, to invest in one of three different investment clubs: Investment Club HT104, Investment Club HT106 and Investment Club GPS. This advisor was connected with Mr. Lavigne and friends and was designated in the documents signed at the commencement of the taxpayer’s participation. All or substantially all of the money transferred into the new self‑directed RRSP was then invested in Investment Club A shares, B shares or C shares. The A shares were all issued for the dollar amount invested by the self‑directed RRSP. This resulted in B2B Trust recording the entire amount as the cost and value of these shares on the taxpayer’s RRSP statement.
+3. The issuance of the A shares to the taxpayer’s RRSP gave the taxpayer the right to receive B shares, which were income shares, and C shares, which were voting shares (Agreed Statement of Facts, paragraph 16). The participants understood that their B shares would be purchased from them by a related group, the “Club des Présidents”, heading the investment clubs, and that the purchase amount would be received as a prepayment or incentive for allowing the investment clubs to invest the funds transferred from their RRSP or other registered plan. The participants would receive, a number of weeks later, between 40% and 50% of the amount transferred as an incentive or as prepayment of the anticipated returns on the funds transferred out of their RRSP or other registered plan to their new self-directed RRSP and then invested with the investment club. Participants were told that in several years this amount would be taxable in their hands as a capital gain that qualified for the capital gains exemption. There are two different B share purchase option agreements in evidence. The transaction documents appear to describe the payment received as being the advance minimum exercise price in respect of the option granted by the appellant to the Club des Présidents on the B shares and for the ceding of the C share voting rights to the Club des Présidents. Both of the documents in evidence relate to Mr. Vallée; one states that Mr. Vallée sought and obtained advice concerning the option. In addition, one of the documents provides that the appellant was allowed to thereafter organize and plan the sale under the option as he/she wished for his/her legal and fiscal benefit. One of them addressed the matter of capital gains exemption planning.
+4. The C shares were the only voting shares and no one seems to have paid much attention to them (beyond the fact of their being addressed in Mr. Vallée’s option agreements).
+5. The RRSP statements issued by B2B Trust to the investors continued to show the A shares in the investment club at a book value and market value equal to their original purchase price.
+6. Participants did not report in the year received amounts received in respect of their B shares, whether the participants received them personally or within their RRSP. No T4RSP slip was issued to them in respect of these amounts.
+7. Shortly after the investment was made in an investment club, the investment club transferred money by cheque to one or more Quebec numbered companies associated with Mr. Lavigne. The cheques referred to the redemption of B shares (Agreed Statement of Facts, paragraph 22). These Quebec numbered companies appear to have been the source of the amounts paid to participants in respect of the B shares.
+[6] I am satisfied on the evidence that it is more probable than not that the 40% to 50% payment was offered to all investors. The fact that, according to the audit notes, not all investors were reassessed may well be attributable to some having died or retired to another country before the audits or reassessments were done, or to Mr. Lavigne’s scheme having ended before they received or cashed their cheque for their B shares. This last group may well also include the persons referred to in the Court of Quebec’s general introductory paragraphs.
+The Issue [7] For the Respondent to validly reassess outside the normal reassessment period, the Income Tax Act (the “Act”) requires both (i) that a “benefit” have been received by an appellant “out of or under” the B2B Trust RRSP, which should have been reported in the year received, and (ii) that it was not reported due to neglect, carelessness or wilful default.
+[8] While the French version of the Act provides “est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite” (emphasis added), the English version uses what might arguably be somewhat less broad language than the French in providing that “benefit includes any amount received out of or under a retirement savings plan” (emphasis added). This Court considered this issue in Lavoie v. The Queen, 2009 TCC 293. Justice Bowie wrote:
+16 The answer to Charron J.’s second question, then, must depend on the tax treatment that would be applied to a part of the Registered Plan if during the year it were to be in the hands of the annuitant rather than the trustee. Subsection 146(8) brings into the taxpayer’s income for the year
+... the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans ...
+For purposes of this section, the word “benefit” is defined in subsection 146(1).
+“benefit” includes any amount received out of or under a retirement savings plan other than
+[exceptions are inapplicable]
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+« prestation » Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+[les exceptions sont inapplicable[s]]
+sans préjudice de la portée générale de ce qui précède, le terme vise toute somme versée à un rentier en vertu du régime :
+(d) in accordance with the terms of the plan,
+d) soit conformément aux conditions du régime;
+(e) resulting from an amendment to or modification of the plan, or
+e) soit à la suite d’une modification du régime;
+(f) resulting from the termination of the plan;
+f) soit à la suite de l’expiration du régime.
+Rowe D.J. pointed out in Kaiser v. The Queen the breadth given to this definition by the inclusion of the word “under” in the English version, and the expression in the French version “dans le cadre” has a similar effect. Applying the surrogatum principle to the payments leads me to conclude that when the Appellant cashed the cheques and applied the funds to purposes other than restoring the value of the fund holdings in his RRSPs then those amounts fell to be treated as amounts received by him in the year as benefits out of or under his RRSPs, and so were taxable in his hands.
+[Emphasis added.]
+The Appellants do not argue that the phrase “dans le cadre de” is to be interpreted in some more restrictive or limitative fashion as a result of the use of the phrase “out of or under” in the English version.
+[9] The taxpayers in these appeals were not assessed penalties for failing to report the amounts they received personally. Nor were any of the taxpayers or their RRSPs assessed for having their self‑directed RRSPs buy investments that were not qualified investments for an RRSP.
+Law [10] The relevant provisions of the Act are as follows:
+[Paragraph 56(1)(h)]
+[Alinéa 56(1)h)]
+Amounts to be included in income for year
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer’s income for the year;
+Sommes à inclure dans le revenu de l’année
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+h) toutes sommes relatives à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+[Subsection 146(1)]
+[Paragraphe 146(1)]
+Definitions
+146(1) In this section,
+“benefit” includes any amount received out of or under a retirement savings plan other than
+. . .
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+(d) in accordance with the terms of the plan,
+(e) resulting from an amendment to or modification of the plan, or
+(f) resulting from the termination of the plan;
+Définitions
+146(1) Les définitions qui suivent s’appliquent au présent article.
+prestation Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+[…]
+Sans préjudice de la portée générale de ce qui précède, le terme vise toute somme versée à un rentier en vertu du régime :
+d) soit conformément aux conditions du régime;
+e) soit à la suite d’une modification du régime;
+f) soit à la suite de l’expiration du régime.
+[Subsection 146(8)]
+[Paragraphe 146(8)]
+Benefits taxable
+(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans . . . .
+Prestations imposables
+(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite […].
+[Subparagraph 152(4)(a)(i)]
+[Sous-alinéa 152(4)a)(i)]
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties . . . except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+Cotisation et nouvelle cotisation
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, […]. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+[11] In these appeals it is the Respondent who bears the burden of satisfying the Court on a balance of probabilities that an assessment was justified under subparagraph 154(2)(a)(i), that is, of satisfying the Court (i) that a misrepresentation was made, and (ii) that such misrepresentation was attributable to neglect, carelessness or wilful default.
+[12] Negligence will be established if it is shown that a taxpayer has not exercised reasonable care in preparing his/her return; see Venne v. Canada, [1984] F.C.J. No. 314 (QL). Whether a taxpayer was reasonable in completing his/her income tax return will be very much dependent upon the particular facts of each case. Generally, taxpayers are expected to be thoughtful, deliberate and careful and to act in good faith in the preparation of their tax returns. This will include how taxpayers choose to characterize amounts received by them.
+Analysis and Conclusions Benefit [13] Any and all amounts received by these taxpayers personally in respect of their B shares, or as an incentive to have their RRSP funds invested in an investment club, or as a prepayment or other payment in recognition of the earnings that would be generated as a result of having their RRSP funds invested in an investment club, are clearly benefits that were required to be included in income in the year received.
+[14] The phrase “out of or under” has a scope and breadth that is sufficient to clearly include the relationship or nexus between the amount received by each of the Appellants herein and the investments through their self‑directed RRSPs in the investment club.
+[15] The failure to report such an amount was clearly a misrepresentation.
+Neglect, Carelessness or Wilful Default [16] For each of the six individual appellants, it therefore has to be decided if he/she in fact received such an amount and, if so, whether the misrepresentation in his/her income tax return for the year of receipt of the amount was the result of neglect, carelessness or wilful default.
+Yvon Bédard [17] Mr. Bédard maintains he never received any such amount personally. Upon receipt of his notice of reassessment, he phoned the CRA to complain on the basis that he had never received any amount in his personal capacity nor had he endorsed a cheque. He had not answered the audit questionnaire the CRA had sent him earlier, which of course was voluntary. It must be noted that his above-stated position is not even mentioned in his notice of objection. That notice of objection, prepared by his former lawyer, acknowledges receipt by Mr. Bédard of the amount in question.
+[18] I have further concerns with respect to Mr. Bédard’s credibility in this regard. He testified that he had only one bank account when he put into evidence select banking records to support his testimony that he had made no unusually large deposits in the period in question. In cross‑examination, however, it turned out that he also had a corporate account and that funds flowed back and forth somewhat regularly between his personal and corporate accounts. He only admitted this in cross‑examination after I observed that a proper review of the bank statements he had introduced showed that they included statements for both his personal bank account and his line of credit. Read together carefully, these showed quite the opposite of what he thought, as the debit and credit columns are reversed on the two statements. There had in fact been a significant deposit, of the order of magnitude of a payment for B shares or about 50% of his RRSP investment, within the time frame of his commitment to participate in Mr. Lavigne’s investment proposal. This happened several weeks after he signed the documents to open his B2B Trust self‑directed RRSP. The amount was used to pay down his personal line of credit. His explanation that it might have been, it could have been, it must have been a dividend or a tax payment from his corporate account did not sound very credible. The payment on the line of credit was not recorded as coming from his corporate account. Mr. Bédard’s counsel did not take him back to this large deposit in redirect examination.
+[19] Further, the debate around whether or not it was his signature endorsed on the B share payment cheque made payable to him and cashed at a cheque‑cashing centre focused only on whether there were three lines through his signature, which he maintains he always used when he signed his name. The Respondent’s assumption oo) in the Reply was that Mr. Bédard cashed this cheque. Mr. Bédard provided copies of his will and his driver’s licence in support of his position that he did not. While he brought select bank records, he did not produce his signature on either side of any cheques drawn or endorsed by him, which would have provided support for the comparison. I certainly cannot conclude in these circumstances that forgery was involved. Neither side called a handwriting expert. However, I have serious reservations about Mr. Bédard’s position given that he did not choose to show the Court a sample of a single cheque drawn or endorsed by him in the relevant period or at any other time for that matter.
+[20] Mr. Bédard is an experienced and successful businessman. He has owned a number of businesses. In particular, he has real estate holdings in Saint‑Hyacinthe that he values in the millions of dollars. He has owned and operated an automobile auction business. He has owned other commercial buildings. It makes little sense that, when all of the other taxpayers seem to have been offered 40% to 50% incentive amounts, notably in respect of the B shares, in recognition of the investment through their RRSP in an investment club, Mr. Bédard alone was quite satisfied with the merits of the A share investment, and this, as he recalls, after a single meeting with one or two other people in a restaurant. He said that he was given no documents and that he took no notes at the meeting. He said he asked no questions at the half‑hour meeting. He appeared to know very little about the structure of the investment plan or the merits of the investment club. I do not accept as correct and complete his testimony that he was not offered the B share payment. He appears to have done no verification or analysis, nor does he seem to have given much thought to the proposed investment. He says he was satisfied mostly by two things: claims that the underlying investments of the investment club would snowball and the fact that the promoter arrived in a black Lincoln Continental. That does not sound at all like the approach that a successful business person such as he would have taken. Further, even if his testimony is true and complete, it cannot be considered reasonably sufficient in any event.
+[21] My credibility concerns with Mr. Bédard result in the Court not accepting his evidence on any material point that is not corroborated by other evidence. It is not sufficient that his testimony is not inconsistent with the other evidence.
+[22] In the circumstances, I conclude on a balance of probabilities that he was a wilfully blind, willing participant in what he recognized as a risky and questionable investment scheme. Further, I find on a balance of probabilities that he did receive a benefit in the form of a payment to him in respect of his RRSP investment and that he did not report this benefit. His failure to report it in his tax return was a misrepresentation and a voluntary omission. For these reasons, the appeal of Mr. Bédard is dismissed.
+Cléo Vallée [23] Mr. Vallée is an experienced businessman. In his professional capacity with a major multinational company he reviewed, purchased, sold and placed financial and insurance products. He was experienced with his own retirement financial planning as he moved from one employer to another. At the time he participated in Mr. Lavigne’s scheme, he was an intern at a major insurance company, completing his qualifications for professional registration and designation as a financial advisor. He clearly understood the basic tax results of holding an RRSP, was capable of reading the documents he signed and understanding what they said and did not say, and knew that everyone telling him about the product would be benefiting financially from his RRSP’s investment in the investment club.
+[24] Mr. Vallée would have easily recognized that none of the presenters were independent of the promoter. He said that the involvement of B2B Trust, Laurentian Bank and the promoter’s tax lawyers were important to his decision to invest. That is hard to believe given that he effectively released each of them in the documentation he signed. In his letter of indemnity to B2B Trust, he expressly indemnified B2B Trust, acknowledged that he alone would be responsible for satisfying himself that these specific investments were qualified investments, and declared that he would obtain legal, fiscal and financial advice from independent sources as he felt appropriate. In his statements to the lawyers, he said he did not have any agreement with the investment club or related persons other than the agreement for the issuance of the shares to him, notwithstanding that he also had two B share option agreements.
+[25] The amounts in the option agreements were about four thousand dollars more than the amount of the cheque he received. He said he did not remember if he had asked about this, nor did he remember if in fact he received the difference separately.
+[26] I find on a balance of probabilities that there were enough red flags raised and alarm bells set off by the investment club promoters’ presentation and documents that it was at least negligent on the part of Mr. Vallée to proceed without in any way trying to confirm, before deciding not to report the benefit he received personally in his tax return for the year in which he received the amount, the claims, representations, recommendations and advice of the promoters of such a scheme regarding any tax he would be required to pay.
+[27] Mr. Vallée did not dispute personally receiving an amount in respect of his B shares that he fully understood was being paid to him to reflect the anticipated profits from his RRSP investment in the A shares, which investment would be managed by the investment club. His explanation that he understood it to be structured as a loan he would not really have to repay did not help him, though it is somewhat consistent with one of the option agreements signed.
+[28] For these reasons, his appeal is dismissed.
+Linda Desrosiers [29] Ms. Desrosiers’s uncontroverted evidence is that she went to her first presentation by Mr. Lavigne and his cohorts accompanied by her father, who was an accountant. She kept a copy of the information package and she took notes at the meeting. When she returned for a second presentation, she brought with her the tax accountant who had been preparing her tax returns for nine years. These two accountants also received the presentation materials and had the documents which were handed out in the information package at those presentations. She had the same accountant prepare her tax return for the year in question. He was with her at the second meeting when she first signed the transaction documents. She did not give him copies of any other documents she may have signed after that, but there was no evidence that he had ever asked her for them. Ms. Desrosiers’s tax accountant was independent of the promoters and appeared to her to be satisfied with their presentations. Whether or not the accountant was negligently mistaken, I am not satisfied on a balance of probabilities that this taxpayer was negligent or careless in these particular circumstances.
+[30] These investment club schemes involved what would have appeared to potential investors to be genuine transactions. The fraud was largely happening behind the scenes. The investors were not trying to portray themselves as being more than one legal person, nor were they claiming tax recognition for activities they knew they were never involved in. In this respect, such a Ponzi‑type scheme differs from a detax, Freeman of the Land or Fiscal Arbitrators type of scheme.
+[31] The issue in Ms. Desrosiers’s case is whether it was reasonable for her to complete her tax return in the manner that she did. In her case, the evidence before the Court is that in good faith she took reasonable steps to have the promoter’s representations about tax compliance confirmed by a trustworthy, independent accountant who had prepared her tax returns for years.
+[32] Ms. Desrosiers’s appeal is allowed.
+Gisèle Michaud [33] The investment opportunity in the investment clubs was recommended to Ms. Michaud by a friend’s brother who was a financial advisor. She perceived him to be independent.
+[34] When Ms. Michaud received the cheque in payment for the B shares from one of the promoters of the confidence scheme, according to the only evidence I have she signed the back of the cheque and immediately thereafter was pressured to give it right back to this person, who had to rush to the airport, so that he could reinvest it on her behalf. She did so and never saw it again. This amount was never credited to any account of hers. That fact was not disputed by the Respondent. There was no evidence that the cheque would have been honoured if presented on the day Ms. Michaud received it, or any time after that. There was no evidence that her B shares had any real value. Moreover, there was no evidence that the cheque on the drawer’s account was ever cleared.
+[35] On this evidence, I cannot conclude that the Respondent has met her burden of proof and established that, for the two minutes that the taxpayer had the cheque in hand, it had any value to her—or to anyone else for that matter. A promise to pay an amount, even if by way of a cheque, cannot be presumed to have value if it is part of an unlawful financial swindle, scheme or con game. The evidence does not establish on a balance of probabilities that Ms. Michaud received a benefit out of or under her RRSP. For this reason, Ms. Michaud’s appeal is allowed.
+Cécile Frenette [36] Ms. Frenette struck me as a most sincere and credible witness. Her testimony was candid and did not include any spin. She was neither proud of what she had done nor defensive about it, but she certainly did not see herself as one of the culprits in this saga. She testified simply and straightforwardly as to what happened and how it happened, who had told her what, what she believed and why she believed it. It appears to me she was clearly a victim in this scheme and was conned into participating in it.
+[37] Ms. Frenette had retired several years before the year in question. The recommendation that she consider investing her RRSP funds in the investment club was made to her by someone she knew and respected. There was no evidence or suggestion that he was not entirely independent of the promoters of the scheme.
+[38] Ms. Frenette went to two presentations by the promoters of the scheme. She was reassured by the claims that Laurentian Bank and Sun Life were involved, along with B2B Trust. She was also reassured by the oversight of the provincial Inspector General of Financial Institutions, whose name was on some of the provincial registration documents. She was impressed by the certification of the investment club by the Canadian Federation of Investment Clubs. In fact, we now know that Laurentian Bank was simply the parent company of B2B Trust, that Laurentian Bank was never affiliated with the new financial advisor Ms. Frenette appointed for her self‑directed RRSP, despite written representations that it was, and that Sun Life was not involved. The promoters also provided, in order to mislead potential investors about the legitimacy of their investment, legal opinions attesting that this was a bona fide investment opportunity, though we now know that at least some of those lawyers and law firms had never played any role whatsoever and that the legal opinions provided to the investors by the promoters were a fraud.
+[39] Ms. Frenette left much of her RRSP where it was being professionally managed and did not transfer all of it to B2B Trust to invest with the investment club.
+[40] On the evidence, I am satisfied that Ms. Frenette was truly a very naïve but innocent victim of very cunning rogues who won and played on her confidence. They skilfully satisfied all of her reasonable concerns about the security of the investment, the potential returns on the investment, the tax consequences of the investment and the reporting of the investment. They skilfully misrepresented to her that reputable independent financial institutions, lawyers and others were involved in the scheme and were satisfied with it.
+[41] There is no doubt that Ms. Frenette received her personal share, and that she understood that it was directly related to her investment through her RRSP in the investment club. However, the reassessment was made outside the normal reassessment period. This is a borderline case and the Respondent has not met the burden of proof she had to meet to allow me to conclude on a balance of probabilities that Ms. Frenette was negligent or careless in her particular circumstances. For this reason, Ms. Frenette’s appeal is allowed.
+Roger Ortiz [42] Mr. Ortiz’s testimony is that the investment opportunity was presented and recommended to him by a friend of his who accompanied him to a dinner meeting with Mr. Lavigne and another promoter. Mr. Ortiz realized that his friend was earning his living selling such products and would receive a commission or other compensation for an investment made through Mr. Ortiz’s RRSP. Mr. Ortiz understood that the amount he received was an incentive and that it was supposed to reflect the returns to be generated by his investment through his RRSP in the investment club.
+[43] That is sufficient to conclude that he received a benefit out of or under his RRSP, even though he may not have been aware that this benefit was structured as a redemption of B shares as described in the Agreed Statement of Facts.
+[44] Mr. Ortiz worked at Cossette Inc. as a graphic designer. He said he had long understood how RRSPs worked. From what Mr. Ortiz knew of the investment club opportunity presented to him, red flags should have been waving, if only feebly, and alarm bells ringing, if only faintly. His failure to seek any independent confirmation of anything he was told over that dinner or at any other time was clearly not sufficient or reasonable in his particular circumstances. It appears to me that Mr. Ortiz believed what he wanted to believe and what he hoped was correct, namely, what these promoters were telling him. He said the documents he signed were so very well explained that he perhaps did not even bother to read them. His proceeding with such abandon constituted at least negligence. For this reason, Mr. Ortiz’s appeal is dismissed.
+[45] By way of postscript I make the observation that it is unfortunate for the fisc and for many Canadians that such schemes to defraud or bilk the fisc are regularly generated by creative but unscrupulous rogues and scoundrels. In the context of extensively regulated RRSP and other registered plans, it appears somewhat surprising that more robust administrative controls are not put in place to protect the fisc from this sort of thing and to protect Canadians from themselves, especially since all Canadians are permitted to self‑direct their RRSPs if they wish. The concept of eligible investments appears to exist, at least in part, precisely for that purpose: to enable the monitoring of compliance with the requirements in that regard. I respectfully suggest that there appears to be a systemic problem that needs to be addressed or the fisc will continue to lose money to fraudsters, money that can never be fully recovered from them or others. And all Canadians end up paying for it.
+Signed at Ottawa, Canada, this 4th day of August 2016.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of December 2016.
+Erich Klein, Revisor
+2014-2108(IT)I, 2014-2127(IT)I
+2014-2140(IT)I, 2014-2149(IT)I
+2014-2111(IT)I and 2014-2110(IT)I
+TAX COURT OF CANADA
+BETWEEN:
+YVON BÉDARD
+LINDA DESROSIERS
+CÉCILE FRENETTE
+GISÈLE MICHAUD
+ROGER ORTIZ
+CLÉO VALLÉE
+Appellants
+and
+HER MAJESTY THE QUEEN
+Respondent
+PARTIAL AGREED STATEMENT OF FACTS
+The parties, through their respective counsel, agree on and admit the following facts:
+SCHEME
+1. Claude Lavigne established investment clubs operating under the names HT 104, HT 106 and GPS, among others.
+2. These investment clubs are limited partnerships and, with the exception of GPS, were registered on June 14, 2001 and struck from the register on September 24, 2004.
+3. The general partner of the HT 104 and HT 106 investment clubs is 9095‑8448 Québec Inc., whose majority shareholder is the GPS investment club.
+4. The general partner of the GPS investment club is 9106-1002 Québec Inc.
+5. The GPS investment club was registered on July 3, 2001 and struck from the register on September 19, 2003.
+6. The 9095-8448 corporation also operated under the names Service professionnel Haute Technologie and Banxess S.P.H.T.
+7. The 9106-1002 corporation operated under the name Financement GPS.
+8. Claude Lavigne is the director of those two corporations.
+9. The number of investors for each investment club was limited to a maximum of 50 people.
+10. The Appellants each held an investment, primarily in the form of a registered retirement savings plan (RRSP).
+11. In addition to an RRSP, Ms. Gisèle Michaud held a locked-in retirement account (LIRA).
+12. The Appellants applied to B2B Trust, the fiduciary designated by the investment clubs’ promoters, for the opening of a self-directed investment account.
+13. The designated fiduciary, B2B Trust, was a trust company that was a subsidiary of the Laurentian Bank.
+14. The Appellants transferred to B2B Trust part of the funds held in their RRSPs or their LIRAs.
+15. To effect the transfers of funds, the Appellants were required to sign the following documents:
+i. an offer to subscribe for shares in the investment club;
+ii. a direction to B2B Trust;
+iii. a letter of indemnity to B2B Trust with respect to a self-directed investment in a corporation carrying on a small business;
+iv. a letter of direction to B2B Trust for an investment, to be made within the framework of a self-directed RRSP, in a corporation carrying on a small business;
+v. a release clause for the benefit of the brokerage firm with respect to the investments in the small business.
+16. The issuance of Class A shares entitled the Appellants to receive Class B income shares as well as voting shares.
+17. Upon receipt of the documents signed by the Appellants, referred to in subparagraphs 15 i to v, B2B Trust issued a cheque to the investment club in which shares were purchased for the purpose of each Appellant’s investment.
+18. These cheques were deposited in the investment clubs’ bank accounts.
+19. The HT 104 and HT 106 investment clubs held bank accounts with the National Bank of Canada and the Laurentian Bank.
+20. The GPS investment club held bank accounts with the National Bank of Canada.
+21. The investment clubs transferred the deposited funds to one of the following corporations: 9095-8448 Québec Inc. and 9106-1002 Québec Inc.; the transfers were made by cheque to the order of one of those corporations.
+22. A notation on the cheques indicated that they were for the redemption of Class B shares.
+QUEBEC CITY, April 4, 2016
+QUEBEC CITY, April 4, 2016
+Joli-Coeur Lacasse LLP
+Counsel for the Appellants
+WILLIAM F. PENTNEY, Q.C.
+Deputy Attorney General of Canada
+Counsel for the Respondent
+[signature]
+Per: Bobby Doyon
+Counsel
+[signature]
+Per: Anne-Marie Desgens
+Counsel
+CITATION:
+2016 TCC 179
+COURT FILE NOS.:
+2014-2108(IT)I, 2014-2110(IT)I
+2014-2111(IT)I, 2014-2127(IT)I
+2014-2140(IT)I, 2014-2149(IT)I
+STYLE OF CAUSE:
+YVON BÉDARD, CLÉO VALLÉE,
+ROGER ORTIZ, LINDA DESROSIERS,
+CÉCILE FRENETTE, GISÈLE MICHAUD v. THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATES OF HEARING:
+April 4, 5, 6, 7 and 8, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+August 4, 2016
+APPEARANCES:
+Counsel for the Appellants:
+Bobby Doyon
+Counsel for the Respondent:
+Anne-Marie Desgens
+COUNSEL OF RECORD:
+For the Appellants:
+Bobby Doyon
+Firm:
+Joli-Coeur Lacasse
+Quebec City, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,104 @@
+Title: Frechette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26655/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-858-26655-frechette-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-12-12
+
+# Frechette c. La Reine
+
+- Citation: 2003 TCC 858
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3597, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frechette c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-12
+Neutral citation
+2003 TCC 858
+File numbers
+2003-2680(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2680(IT)I
+BETWEEN:
+GAÉTAN FRÉCHETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 6, 2003, at Trois-Rivières, Quebec.
+Before: The Honourable Judge Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Edmunston, Canada, this 12th day of December 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 26th day of April 2004.
+Sharon Moren, Translator
+Citation: 2003TCC858
+Date: 20031212
+Docket: 2003-2680(IT)I
+BETWEEN:
+GAÉTAN FRÉCHETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] These are appeals from assessments of the Appellant's 1999 and 2000 taxation years. The Minister of National Revenue has reassessed the Appellant for these two years using the net worth method, the Appellant having lost his books and other records in a fire that destroyed his home in September 2001.
+[2] In his Notice of Appeal, the Appellant did not contest the outcome of the audit using the net worth method following which the amounts of $26,019 and $36,608 respectively were added to his income for the taxation years at issue. His Notice of Appeal concerns solely the assessment of a penalty for each of these years. He has in addition acknowledged all the assumptions on which the Minister based the reassessments. At the outset of the hearing, he reiterated his position, except that the evidence presented was not limited to the penalties and accordingly, raised questions regarding the outcome of the audit.
+[3] The Appellant operates an agricultural business specializing in breeding cattle and ewes. In filing his income tax returns for the years at issue, the Appellant declared gross income of $86,407 for 1999 and $85,920 for 2000. After having subtracted the net losses from his income and after having made an optional inventory adjustment for the year, his net farming income amounted to $7,027 for 1999 and $9,807 for 2000.
+[4] Because the Appellant no longer had records and accounting books, the auditor obtained from third parties, with leave of the Appellant, the Appellant's assets and liabilities for each of the years at issue. The analysis of this information led to the addition of the amounts of $26,019 and $36,608 respectively to the income previously declared by the Appellant for each of the taxation years at issue.
+[5] The Appellant, who used the cash method for calculating his agricultural income, chose for each of the years at issue, to add an optional inventory adjustment to his income and he agreed to the modifications the Minister made to this adjustment.
+[6] The penalties were thus calculated on the Appellant's additional undeclared income in the amounts of $26,019 and $36,608 for the two taxation years at issue.
+[7] The questions pertaining to the outcome of the audit that were raised at the hearing concern two loans that the Appellant allegedly made to his children. The first loan of $10,500 was made to his daughter on May 1, 1993. The second loan of $13,800 was made to his son on June 1, 1996.
+[8] The Appellant testified that each of these loans had been repaid to him in full during the two taxation years at issue. The loan made to his daughter was allegedly repaid in instalments of varying amounts but which totalled $5,000 in 1999 and $5,500 in 2000. Exhibit A-1 filed by the Appellant contains the details of these repayments. The first figure of the March 1999 payment could be either a two or an eight. According to the Minister, it would be a two, so that only $9,900 was repaid. If it is an eight, the full amount of the loan was repaid, which moreover, is what the Appellant claims.
+[9] With regard to the loan to the son, he was repaid in two instalments, one of $5,500 made on November 9, 1999 and another of $8,300 made on December 8, 2000. The Appellant explained that his son used this money to purchase a house. As a result of marriage problems, he sold the house and bought another, which he resold. During the years at issue, the son lived with the Appellant and thus allegedly succeeded in accumulating the money to repay the loan. As for the loan to the Appellant's daughter, she and her husband repaid the money.
+[10] The Appellant testified that he used the money from the repayment of these loans for maintenance and construction of his farm buildings. He did not deposit the money in any account at a credit union or bank. The only proof of receipt of this money is the two statements of account in Exhibit A-1.
+[11] In cross-examination, the Appellant acknowledged that for tax purposes, he estimated his livestock inventory in an approximate manner and communicated this information to his accountant. He had also told the auditor he did things this way. He explained that the substantial increase in his inventory starting in 1999 was due to his purchase of sheep during this year and as well as to the purchase of farm machinery. Although these explanations may justify this increase, the figures obtained from the Appellant's accountant far from justify it. In fact, in 1999, the purchases of livestock totalled only $3,100.
+[12] The Appellant's wife explained, without providing details however, that the market value of the livestock could vary significantly from one year to another. She confirmed that the loans to the children had been repaid in the two years at issue and that the children were financially able to make these repayments.
+[13] The auditor in charge of the Appellant's file was Nancy Geoffrion. Ms. Geoffrion briefly explained the steps she had undertaken to make her calculations of the change in net worth. She specified that the increase in the value of the inventory is that which most drew her attention, along with the way in which the inventory is appraised-that is, that there was no exact method with the result that their value was determined according to approximate information. For 1999, the value of the inventory indicated was a round figure of $100,000. Ms. Geoffrion obtained her information from third parties and received from the Appellant the figures that enabled her to estimate his personal expenses.
+[14] During Ms. Geoffrion's interview with the Appellant, he did not tell her about the repayment of the loans made to the children.
+[15] As for the Appeals Officer, Claude Rony, she had been informed about the repayment of these loans. She thus obtained the children's bank statements for 2000. According to the information contained in them, there would not have been enough money in the daughter's account to justify a repayment of $5,500 in the year 2000.
+[16] With regard to the son's bank account, Ms. Rony noted that he had made, at different times in the year, a number of successive withdrawals of $100 with his debit card, that he had made them at night at intervals varying from 20 minutes to one hour and that these withdrawals had totalled $8,000 for the year. However, she wondered if these withdrawals could explain a repayment of $8,300 in cash done on December 8, 2000.
+[17] Ms Rony was also told by the Appellant during an interview that the loan to his son had been for his studies. He never mentioned to her a loan for the purchase of a house.
+[18] Could the Minister, then, rightly under subsection 163(2) of the Income Tax Act (the "Act") assess a penalty on the additional farming income for each of the years at issue? In addition, must I take into consideration the repayment of loans made to the children?
+[19] On the latter question, the evidence produced by the Appellant is inadequate for me to conclude that these repayments should have an impact on the calculation of the change in net worth. It seems strange to me that these repayments would not be revealed to Ms. Geoffrion during the audit, all the more because this audit used the net worth method. In fact, it wasn't until speaking with the Appeals Officer that the Appellant raised the matter of repayment of the loans made to the children for their studies. At the hearing, he spoke rather of a loan made to his son for the purchase of a house.
+[20] This first contradiction combined with the evidence presented by the Respondent regarding the children's ability to pay, particularly the daughter's, raises a doubt about the whole story's truth. It is very difficult to connect a payment of $8,300 cash on December 8, 2000 for repayment of a loan, with the successive withdrawals of money by debit card during the night and spread out over a year. The same applies in the daughter's case, who, according to the Appeals Officer, would not have had the financial means to repay $5,500 in 2000.
+[21] The children's testimony would have clarified certain doubts regarding this story. Overall, the evidence is insufficient to allow me to conclude that the repayment of the loans in question could have an impact on the calculation of the change of net worth. The Appellant has not discharged the onus that was on him in this regard
+[22] Moreover, the onus is on the Respondent to establish on a balance of probabilities that the assessment of a penalty is justified in the present case. Subsection 163(2) of the Act reads as follows:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of. . .
+[23] The concept of gross negligence was explained by Strayer J. in Venne v. Canada,[1984] F.C.J. No. 314 (Q.L.), in which he stated:
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[24] In the present case, the evidence has clearly demonstrated that the value of the inventory was based on approximations, with the result that optional adjustments of livestock inventory were made without taking into consideration the true fair market value of this inventory. In addition, when the Appellant was preparing his income tax returns for the years at issue, he had his records in his possession, but used approximate values nonetheless. The fair market value under the provisions of section 28 of the Act is important in the calculation of a taxpayer's income from a farming enterprise.
+[25] For the two years at issue, the inventory was not done carefully, which denotes indifference with regard to the Act, and this, in my opinion, constitutes a case of gross negligence of the type called to mind by Strayer J. in the Venne decision.
+[26] The importance of the change of net worth between the income established by the net worth method and the income initially declared by the Appellant must not be overlooked. Even if the Appellant entrusted the task of preparing his income tax returns to his accountant, the Appellant was not unaware of the importance of providing him with exact figures and values and the appropriate information. For these reasons, I conclude that the Respondent has established in accordance with the preponderance of probability that assessment of a penalty is justified for each of the years at issue.
+[27] The appeals are accordingly dismissed.
+Signed at Edmundston, Canada, this 12th day of December, 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 26th day of April 2004.
+Sharon Moren, Translator

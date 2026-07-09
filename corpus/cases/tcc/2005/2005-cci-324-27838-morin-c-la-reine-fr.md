@@ -1,0 +1,166 @@
+---
+title: "Morin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27838/index.do"
+last_modified: "2005-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 324"
+citation2: ""
+neutral_citation: "2005 CCI 324"
+decision_date: "2005-05-13"
+language: "fr"
+item_id: "27838"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 378
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:55:00.777000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc0f4e1904dfe2f80874d94cad7dc582b5943b7ef1a1887e21d15121d3e575eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morin c. La Reine
+
+- Citation: 2005 CCI 324
+- Decision date: 2005-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 378, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-13
+Référence neutre
+2005 CCI 324
+Numéro de dossier
+2002-3824(IT)G, 2003-3232(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossiers : 2002-3824(IT)G
+2003-3232(IT)G
+ENTRE :
+DUSTIN MORIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels entendus le 31 mars 2005, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Eric Douglas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont admis, avec dépens, et les affaires sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de mai 2005.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme ce 9e jour de mars 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI324
+Date : 20050513
+Dossiers : 2002-3824(IT)G
+2003-3232(IT)G
+ENTRE :
+DUSTIN MORIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Il s'agit d'appels interjetés à l'égard des années d'imposition 2000 et 2001 de l'appelant. L'appelant a cherché à déduire 133 333 $ en 2000 et 50 662,95 $ en 2001 concernant des sommes payées pour avoir le droit d'acquérir des actions au sens de l'alinéa 7(1)a) de la Loi de l'impôt sur le revenu (la « Loi »). Le ministre du Revenu national (le « ministre ») a refusé les déductions parce que les sommes n'avaient pas été payées pour acquérir des actions. Selon lui, il s'agissait plutôt de paiements effectués pour des services de conseils et de consultation en matière d'emploi.
+[2] En 1993, l'appelant allait à l'école à Toronto. Pendant ce temps‑là, il a rencontré Robert Tordiffe, le père de l'un de ses amis de l'école. Après avoir discuté avec M. Tordiffe au sujet de l'industrie de la technologie de pointe, il a décidé qu'il voulait faire carrière dans ce domaine, et particulièrement travailler pour une société qui offrirait à ses employés un régime d'option d'achat d'actions. L'appelant a demandé à M. Tordiffe de l'aider à trouver un tel emploi et, finalement, une entente a été conclue entre l'appelant et la société de M. Tordiffe, Bobsan Investments Inc. (« Bobsan ») le 12 mars 1999 (l'« entente »). Selon l'entente, Bobsan avait [TRADUCTION] « les relations et l'expérience nécessaires pour fournir des conseils utiles en matière d'emploi ». Ces conseils devaient permettre à l'appelant d'obtenir un emploi qui lui donnerait la possibilité de [TRADUCTION] « maximiser ses avantages financiers ».
+[3] Selon l'entente, l'appelant devait payer à Bobsan, pour l'aide fournie par la société, [TRADUCTION] « une partie de toute option d'achat d'actions ou rémunération semblable ou de tout ensemble d'avantages que M. Morin obtient dans le cadre d'un emploi qu'il accepte suivant les recommandations de Bobsan » (paragraphe 7 de l'entente). La partie de cet avantage provenant d'un emploi accepté suivant les recommandations de Bobsan que l'appelant verserait à Bobsan devait correspondre à un montant égal à [TRADUCTION] « [...] cent pour cent (100 %) de la première tranche de cent mille dollars (100 000 $) et trente‑trois et un tiers pour cent (33,33 %) de la deuxième tranche de cent mille dollars (100 000 $) » (paragraphe 8 de l'entente). Par suite de l'entente, l'appelant a rencontré plusieurs employeurs possibles figurant sur une liste fournie par Bobsan. Après avoir rencontré une des relations de M. Tordiffe à Vancouver, l'appelant a accepté un poste dans le service des finances et du génie d'une société dénommée Westport Research Inc. (« Westport »). Son régime de rémunération comportait un régime d'option d'achat d'actions des employés dans lequel il était prévu que l'appelant avait le droit d'acquérir des actions de Westport. L'appelant a par la suite levé ces options d'achat d'actions par l'intermédiaire d'un courtier, et dans le cadre de son entente avec Bobsan, il a chargé le courtier de payer à Bobsan la part qui revenait à celle‑ci.
+[4] Dans sa déclaration de revenus de 2000, l'appelant a déclaré un revenu de 192 113,55 $ à titre de revenu d'emploi et a déduit des paiements de 133 333 $ au titre de [TRADUCTION] « services de consultation fournis par Bobsan ». Lors du contre‑interrogatoire, l'appelant a dit que cette description des paiements était incorrecte, et dans sa déclaration de revenus de 2001, il a déclaré un montant de 117 374,52 $ à titre de revenu d'emploi et a déduit 50 662,95 $ pour le [TRADUCTION] « coût d'acquisition des options d'achat d'actions de Westport Research Inc. ». Bobsan a inclus les sommes que lui a payées l'appelant dans ses déclarations de revenus à titre d'honoraires de consultation.
+[5] Il n'est pas en litige que ces options étaient des options d'achat d'actions accordées à des employés admissibles. Les questions en litige sont les suivantes :
+(1) L'appelant a‑t‑il payé les sommes à Bobsan afin d'acquérir des options d'achat d'actions?
+(2) Si ce n'est pas le cas, l'entente entre Bobsan et l'appelant constitue‑t‑elle une société de personnes et, par conséquent, les sommes conservées par l'appelant devraient‑elles constituer sa part du revenu de la société de personnes?
+[6] Les dispositions en cause figurent dans l'alinéa 7(1)a) de la Loi, dont voici le libellé :
+7(1) Sous réserve des paragraphes (1.1) et (8), lorsqu'une personne admissible donnée est convenue d'émettre ou de vendre de ses titres, ou des titres d'une personne admissible avec laquelle elle a un lien de dépendance, à l'un de ses employés ou à un employé d'une personne admissible avec laquelle elle a un lien de dépendance, les présomptions suivantes s'appliquent :
+a) l'employé qui a acquis des titres en vertu de la convention est réputé avoir reçu, en raison de son emploi et au cours de l'année d'imposition où il a acquis les titres, un avantage égal à l'excédent éventuel de la valeur des titres au moment où il les a acquis sur le total de la somme qu'il a payée ou doit payer à la personne admissible donnée pour ces titres et de la somme qu'il a payée pour acquérir le droit d'acquérir les titres;
+[...]
+[7] Selon l'appelant, le but de l'entente contractuelle était que Bobsan fournirait des conseils à l'appelant pour lui indiquer comment obtenir un ensemble d'avantages comportant des options d'achat d'actions. Il allègue que la somme payée à Bobsan chacune des années correspond au sens littéral de la « somme […] payée » par l'employé pour acquérir le droit d'acquérir les actions. L'appelant a concentré son argumentation sur le sens ordinaire des dispositions pertinentes. Il s'est concentré sur la distinction entre la somme payée à la personne admissible et la somme payée pour acquérir le droit d'acquérir les actions et il a allégué que si le législateur avait voulu que la disposition soit interprétée comme l'intimée l'interprète, c'est‑à‑dire que la somme payée pour acquérir le droit d'acquérir les actions désigne seulement une somme payée à la société qui fournit les options, il aurait limité la déduction comme il l'a fait dans le cas de la somme payée à la personne admissible. Subsidiairement, l'appelant a soutenu que lui et Bobsan formaient une société de personnes dont le but était de bénéficier d'un programme de participation aux bénéfices dans l'industrie de la technologie de pointe.
+[8] L'intimée allègue que les sommes versées par l'appelant étaient des paiements effectués aux fins de services de recrutement et de consultation en matière d'emploi et que ces paiements ne peuvent pas être considérés comme une somme payée par l'employé pour acquérir le droit d'acquérir les actions. De plus, l'intimée a fait valoir que l'alinéa 7(1)a) exige que l'avantage soit calculé en soustrayant la somme que l'employé (l'appelant) a payée à la société (Westport) pour acquérir le droit d'acheter les actions de la valeur ou du cours de ces actions (je souligne).
+[9] L'intimée s'est fondée sur un certain nombre de sources extrinsèques pour appuyer son interprétation de l'alinéa 7(1)a), étant donné qu'il n'y a pas de jurisprudence qui traite directement de cette disposition particulière. Elle a invoqué l'interprétation de l'article 7 faite par la CCH, ainsi qu'un article rédigé par Christine R. Van Cauwenberghe et intitulé « Taxation of Employee Stock Options — A Review and Update », 2001 Prairie Provinces Tax Conference (Toronto, Association canadienne d'études fiscales, 2001). En grande partie, ces deux sources ne font que reprendre ce qui figure dans la loi en ce sens qu'elle permet de déduire la somme que l'employé a payée pour acquérir l'option d'achat d'actions. Ces sources invoquées ne sont pas très utiles en l'espèce et, dans une certaine mesure, elles évitent de répondre à la question de savoir ce qu'est une somme payée pour acquérir quelque chose.
+[10] L'intimée m'a également renvoyée à un certain nombre d'affaires, et en particulier à l'affaire M.N.R. v. Wardean Drilling Ltd., [1969] 2 R.C.É. 166, 69 D.T.C. 5194. Ce faisant, l'intimée essayait de traiter la question en examinant le moment où quelque chose est acquis. Dans l'affaire Wardean Drilling, le juge Cattanach a indiqué ce qui suit à la page 172 du R.C.É., à la page 5197 des D.T.C. :
+[TRADUCTION]
+À mon avis, le critère à appliquer pour déterminer quand un bien est acquis doit se rapporter au titre de propriété ou à ce qui se rattache normalement à la propriété, réellement ou implicitement, comme la possession, l'usage et les risques.
+Même si dans cette affaire, le juge traite de la question de savoir « quand » il est fait acquisition de quelque chose et quelles étapes finales peuvent être essentielles avant que quelque chose puisse être considéré comme ayant été acquis, il ne dit pas ce que chacune de ces étapes comporte ou bien quelles sont les étapes nécessaires pour acquérir le titre de propriété qui, dans ce cas‑ci, est le titre des options d'achat d'actions accordées à des employés. La définition du mot « acquérir » (« acquire ») qui figure dans l'ouvrage Black's Law Dictionary, 8e édition, et à laquelle l'intimée m'a renvoyée peut être utile ici. Voici le libellé de la définition :
+[TRADUCTION]
+obtenir la possession ou le contrôle de quelque chose; se procurer ou obtenir.
+Le dictionnaire Canadian Oxford English Dictionary définit le mot « acquérir » de la façon suivante :
+[TRADUCTION]
+obtenir soi‑même et pour soi‑même; obtenir; arriver à posséder.
+[11] Lorsque j'examine le sens ordinaire du mot « acquérir », il m'est difficile de voir comment le mot, tel qu'il est utilisé dans l'article, peut se limiter à une somme payée par l'employé à la société seulement. Même si la somme payée par un employé pour une option d'achat d'actions peut dans la plupart des cas être versée à la personne admissible (la société dans ce cas‑ci) et donc être le montant payé pour acquérir le droit dont il est normalement question à l'alinéa a), le sens ordinaire du mot n'exclut pas expressément les autres sommes.
+[12] La Cour suprême du Canada s'est penchée à quelques reprises sur l'interprétation appropriée des lois relatives à l'impôt sur le revenu. Dans l'affaire 65302 British Columbia Limited c. La Reine, [1999] 3 R.C.S. 804, 99 D.T.C. 5799, le juge Bastarache a indiqué ce qui suit au paragraphe 51 :
+[51] Toutefois, notre Cour a aussi souvent fait preuve de circonspection dans l'emploi de moyens d'interprétation des lois permettant de s'écarter d'un libellé clair et non ambigu. Dans Canada c. Antosko, [1994] 2 R.C.S. 312, aux pp. 326 et 327, notre Cour dit :
+Même si les tribunaux doivent examiner un article de la Loi de l'impôt sur le revenu à la lumière des autres dispositions de la Loi et de son objet, et qu'ils doivent analyser une opération donnée en fonction de la réalité économique et commerciale, ces techniques ne sauraient altérer le résultat lorsque les termes de la Loi sont clairs et nets et que l'effet juridique et pratique de l'opération est incontesté.
+Dans leur examen de cette décision, P. W. Hogg et J. E. Magee, tout en reconnaissant, avec justesse, qu'il faut toujours prendre en considération le contexte et l'objectif de la disposition, mentionnent que [TRADUCTION] « [l]a Loi de l'impôt sur le revenu serait empreinte d'une incertitude intolérable si le libellé clair d'une disposition détaillée de la Loi était nuancé par des exceptions qui n'y sont pas exprimées, provenant de la conception qu'un tribunal a de l'objet de la disposition » : Principles of Canadian Income Tax Law (2e éd. 1997) aux pp. 475 et 476. Il ne s'agit pas là de l'approbation d'une approche littérale à l'interprétation législative, mais de la reconnaissance que, dans l'application des principes d'interprétation de la Loi, il faut porter attention au fait qu'elle est une des lois les plus détaillées, complexes et exhaustives de notre législation, et que les tribunaux devraient être réticents à adopter, sous le couvert d'interprétation législative, des notions de politique ou de principe qui ne sont pas exprimées.
+[13] La jurisprudence appuie le principe d'interprétation selon lequel, quand le libellé est clair et simple, il faut suivre la méthode fondée sur le sens ordinaire. Si je fais abstraction de la méthode fondée sur le sens ordinaire, lorsque j'examine le paragraphe pertinent dans le contexte de la disposition, je ne peux que remarquer qu'il y a une distinction bien déterminée entre le libellé utilisé pour la somme payée pour acquérir le droit d'acquérir les actions et le libellé utilisé pour la somme payée à la personne admissible. Dans ce cas‑ci, le libellé précise les dépenses admissibles lors de l'achat des titres, et la disposition ne permet de déduire que la somme que l'employé paie à la personne admissible (la société en l'espèce) pour les titres. Toutefois, dans le cas de la somme payée pour acquérir le droit d'acquérir les actions, rien n'est mentionné en ce qui concerne le destinataire du paiement. Comme il est noté dans l'ouvrage Driedger on the Construction of Statutes, Ruth Sullivan, 3e éd., Butterworths, 1994, à la page 163, [TRADUCTION] « il est présumé que le législateur évite les variations stylistiques ». La conséquence de cette présomption est que lorsque la loi comporte différents libellés, cela signifie que le sens de ces libellés est différent. En ce qui concerne l'alinéa a), il s'ensuit que le législateur avait l'intention de prévoir deux différents types de déductions pour les employés. Le fait de soutenir que la somme payée pour acquérir les actions se limite seulement aux sommes payées à l'employeur ou à la personne « admissible » porterait clairement atteinte à l'intention du législateur. La méthode fondée sur le sens ordinaire et la méthode fondée sur l'ensemble du contexte indiquent toutes deux que le libellé concernant la somme payée pour acquérir les actions doit recevoir une interprétation libérale de façon à inclure toutes les dépenses que l'appelant a engagées afin d'obtenir l'option d'achat d'actions et qui y sont liées.
+[14] L'appelant voulait précisément un emploi où il pouvait bénéficier d'options d'achat d'actions. Il a conclu un contrat avec Bobsan parce que Bobsan pouvait l'aider à obtenir un emploi comportant un régime d'option d'achat d'actions ou une « rémunération semblable » ou un « ensemble d'avantages » (paragraphe 7 de l'entente). Ce faisant, l'appelant a accepté de ne pas [TRADUCTION] « essayer de communiquer ou de faire affaire avec une partie, un établissement financier ou un client présenté par [...] [Bobsan] ou de le solliciter, directement ou indirectement [...] de quelque façon que ce soit, sans avoir au préalable obtenu l'autorisation écrite expresse de la partie qui a fait les présentations » (paragraphe 2 de l'entente). Conformément à l'entente, Bobsan a présenté l'appelant à Westport, laquelle a par la suite offert à l'appelant un emploi comportant un régime d'option d'achat d'actions. L'appelant a donc été obligé, en raison de l'entente, de payer à Bobsan un pourcentage de l'option d'achat d'actions qu'il a reçue.
+[15] Même si ce genre d'entente peut constituer une façon peu orthodoxe d'obtenir de tels avantages, cela ne change rien au fait que l'entente et, par conséquent, les sommes payées à Bobsan étaient directement liées à l'acquisition des options par l'appelant. Après avoir été présenté à Westport, l'appelant ne pouvait accepter l'emploi offert par Westport que s'il payait à Bobsan les sommes en cause. S'il acceptait l'emploi et ne payait pas Bobsan, il violait le contrat et il risquait d'être poursuivi par Bobsan.
+[16] Je n'accepte pas l'argument de l'intimée selon lequel les paiements à Bobsan représentent en fait une contrepartie versée pour des conseils donnés et non pas une contrepartie versée pour acquérir le droit d'acquérir des actions. L'entente prévoyant le paiement de ces sommes à Bobsan a permis à l'appelant d'obtenir ces options d'achat d'actions. Il y a une corrélation directe ici. Si je me reporte aux définitions du mot « acquérir » tirées des dictionnaires, elles comportent les expressions « se procurer » ou « obtenir » ou encore « arriver à posséder ». Cette disposition ne se limite pas à une situation où une somme est payée en échange du titre de propriété des options d'achat d'actions. Lorsque j'examine le libellé clair et sans ambiguïté utilisé dans la disposition ainsi que le langage utilisé dans cette disposition dans le contexte de l'article au complet, je conclus que la disposition ne se limite pas seulement aux sommes payées en échange du titre de propriété des options.
+[17] L'alinéa 7(1)a) s'applique aux sommes payées par l'appelant à Bobsan, en vertu de l'entente, pour acquérir les options d'achat d'actions. Les sommes peuvent être déduites parce qu'elles devaient être versées à Bobsan pour que l'appelant puisse obtenir les options d'achat d'actions.
+[18] Je n'ai pas à traiter de l'argument subsidiaire de l'appelant, mais je crois qu'il est sans fondement de toute façon.
+[19] Les appels sont admis, avec dépens, pour les années d'imposition 2000 et 2001 et les affaires sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations.
+Signé à Ottawa, Canada, ce 13e jour de mai 2005.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme ce 9e jour de mars 2006.
+Yves Bellefeuille, révision
+RÉFÉRENCE :
+2005CCI324
+NOS DU DOSSIER DE LA COUR :
+2002-3824(IT)G
+2003-3232(IT)G
+INTITULÉ DE LA CAUSE :
+Dustin Morin c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 31 mars 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 13 mai 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Eric Douglas
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

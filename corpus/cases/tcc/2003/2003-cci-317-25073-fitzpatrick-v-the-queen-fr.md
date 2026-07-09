@@ -1,0 +1,128 @@
+---
+title: "Fitzpatrick v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25073/index.do"
+last_modified: "2003-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 317"
+citation2: ""
+neutral_citation: "2003 CCI 317"
+decision_date: "2003-05-27"
+language: "fr"
+item_id: "25073"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2483
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:08:05.742000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8592fe309db25018a149445685dc76cec47511059120f59a42d1fdc2b38ebff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fitzpatrick v. The Queen
+
+- Citation: 2003 CCI 317
+- Decision date: 2003-05-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2483, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fitzpatrick v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-27
+Référence neutre
+2003 CCI 317
+Numéro de dossier
+2002-53(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-53(IT)I
+ENTRE :
+WILLIAM FITZPATRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 janvier 2003 à Fort McMurray (Alberta)
+Devant : L'honorable juge J. E. Hershfield
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour de mai 2003.
+« J. E. Hershfield »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de mars 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI317
+Date : 20030527
+Dossier : 2002-53(IT)I
+ENTRE :
+WILLIAM FITZPATRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] Le présent appel concerne l'année d'imposition 1999 de l'appelant et soulève la question de savoir si l'appelant peut déduire certains paiements de pension alimentaire versés conformément à un accord de paternité conclu en 1986. Cet accord a été conclu conformément aux dispositions de la partie II de la Maintenance and Recovery Act de l'Alberta[1].
+[2] Les parties à l'accord de paternité sont l'appelant (qui reconnaît être père d'un enfant ( « l'enfant » ), pour qui des paiements de pension alimentaire devaient être versés en vertu de l'accord), la mère de l'enfant et le directeur du service Maintenance and Recovery (Ordonnances de soutien et recouvrement) au ministère des Social Services and Community Health (Services sociaux et santé communautaire) de l'Alberta, que j'appellerai aux présents motifs le directeur des Social Services (Services sociaux) de l'Alberta. Dans le cadre de l'accord, l'appelant, en tant que père, a convenu de payer 300 $ par mois au directeur des Social Services de l'Alberta pour l'entretien et l'éducation de l'enfant jusqu'à ce que celui-ci atteigne l'âge de 16 ans, ou l'âge de 18 ans s'il fréquente encore l'école. Le fait que la mère soit la bénéficiaire des paiements de pension alimentaire n'est pas en litige.
+[3] L'appelant ayant témoigné à l'audience, j'accepte son témoignage selon lequel il n'a jamais nié être responsable de la grossesse de la mère de l'enfant et assume volontiers ses responsabilités pour l'entretien de l'enfant. À aucun moment la mère de l'enfant n'a-t-elle eu besoin de demander aux tribunaux d'intervenir. L'appelant n'a jamais eu d'arriérés de paiement en vertu de l'accord. L'intimée ne conteste pas que les paiements de pension alimentaire ont été versés conformément à l'accord de paternité et qu'ils s'élèvent à 3 600 $ pour l'année en question, soit 1999. L'appelant a déduit ce montant dans sa déclaration de revenus de 1999, ce que l'intimée a refusé.
+[4] L'intimée fonde son refus sur le fait que les paiements de pension alimentaire en question ne constituent pas une « pension alimentaire » , telle qu'elle est définie au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi » ). Il ne fait aucun doute que la déduction est admise seulement lorsque les paiements de pension alimentaire en question constituent une « pension alimentaire » , selon la définition de ce paragraphe. Cette exigence est présentée à l'alinéa 60b) de la Loi.
+[5] La définition de « pension alimentaire » énoncée au paragraphe 56.1(4) est la suivante :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est le conjoint ou l'ancien conjoint du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[6] Puisque l'appelant a admis que lui et la mère de l'enfant n'ont jamais été mariés ni conjoints de fait, l'appelant n'est admissible qu'en vertu de l'alinéa b).
+[7] L'intimée considère cependant que l'exigence de l'alinéa b) de la définition de « pension alimentaire » selon laquelle le montant de pension alimentaire doit être reçu par la mère « aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province » n'est pas satisfaite puisque les paiements en question ont été versés dans le cadre d'un « accord » , et non d'une « ordonnance » .
+[8] L'appelant invoque certaines dispositions des lois de l'Alberta qui considèrent les accords de paternité conclus avec le directeur des Social Services de l'Alberta comme une « ordonnance » [2]. Puisqu'il en est ainsi, l'appelant soutient que toutes les exigences de l'alinéa b) de la définition de « pension alimentaire » sont satisfaites, de telle manière que la déduction de ses paiements de pension alimentaire doit être admise.
+[9] La Cour a entendu des appels semblables concernant des paiements de pension alimentaire dans le cadre d'accords de paternité en Alberta dans cinq autres affaires, la plus récente étant celle de William A. Mullen v. The Queen, [2003] T.C.J. No. 182. Dans cette affaire, le juge Mogan traite de faits pratiquement identiques, dans un cadre législatif identique. Dans les motifs du jugement, il passe en revue les dispositions de la loi pertinente de l'Alberta, ainsi que les quatre autres affaires pertinentes dont la Cour était saisie. Les autres affaires pertinentes sont les suivantes :
+1. Fantini c. La Reine, C.C.I., no 96-3863(IT)I, 5 décembre 1997 ([1998] 2 C.T.C. 2256). En l'occurrence, la mère était l'appelante. Elle avait reçu des paiements de pension alimentaire pour son enfant en vertu d'un accord de paternité conclu entre elle, le père de l'enfant et le directeur des Social Services de l'Alberta. Le juge Bowman a conclu que la législation provinciale, considérant un tel accord comme une « ordonnance » , ne pouvait pas la considérer comme une « ordonnance » aux fins de la Loi. Par conséquent, il a déclaré que l'exigence de la définition de « pension alimentaire » de la Loi voulant que les paiements de pension alimentaire soient versés par « ordonnance » n'était pas satisfaite et que les paiements de pension alimentaire reçus par la mère n'étaient donc pas imposables. Le corollaire de ceci est que les paiements ne sont pas déductibles par le père. Selon moi, il est juste de dire que le principal motif de la décision du juge Bowman est, d'après ses conclusions au paragraphe 15 des motifs, que lorsqu'une chose est, aux fins d'une loi provinciale, réputée être quelque chose qu'elle n'est pas, cette signification factice ne peut s'appliquer aux fins de la Loi.
+2. Hollands c. La Reine, C.C.I., no 2001-1203(IT)I, 24 septembre 2001 ([2001] 4 C.T.C. 2755). En l'espèce, le père était l'appelant. Revenu Canada avait refusé la déduction des paiements de pension alimentaire qu'il avait versés en vertu d'un accord de paternité auquel participait le directeur des Social Services de l'Alberta. Le juge Teskey a admis l'appel, en déclarant que selon la disposition déterminative de la loi de l'Alberta qui considère comme une « ordonnance » tout accord de paternité signé par le directeur des Social Services de l'Alberta, l'accord de paternité était une « ordonnance » satisfaisant aux exigences de l'alinéa b) de la définition de « pension alimentaire » . Le juge Teskey a donc admis la déduction des paiements de pension alimentaire en l'espèce.
+3. Fraser v. The Queen, [2002] T.C.J. No. 569.
+4. Hewko v. The Queen, [2002] T.C.J. No. 570. Les affaires Fraser et Hewko concernent des faits semblables et ont toutes deux été entendues par le juge Bowie. Celui-ci a présenté ensemble ses décisions et les motifs afférents. Comme dans l'affaire Hollands et dans le présent appel, les pères concernés s'étaient vu refuser la déduction des paiements de pension alimentaire qu'ils avaient versés aux termes des accords de paternité respectifs auxquels prenait part le directeur des Social Services de l'Alberta. Ayant pris en considération les affaires Fantini et Hollands, le juge Bowie s'est prononcé contre les appelants. C'est-à-dire que dans le contexte, il était d'avis que la disposition déterminative de l'Alberta ne pouvait pas être vue comme faisant d'un accord de paternité une « ordonnance » aux fins de la Loi. En étudiant la formulation exacte de la disposition déterminative de l'Alberta, il a constaté que tout accord de paternité signé par le directeur des Social Services de l'Alberta était réputé être une « ordonnance » à des fins limitées. Le juge a reconnu qu'il appartenait aux provinces de considérer une chose pour ce qu'elle n'est pas en réalité, pourvu que cela n'empiète sur aucun pouvoir législatif conféré au Parlement. Lorsqu'il n'y a pas empiétement, la province peut légiférer une disposition déterminative qui modifie l'état d'une chose à la fois à des fins provinciales et fédérales, pourvu qu'elle ait bien l'intention de le faire. Le juge Bowie n'a constaté aucune intention de ce genre au sujet des dispositions déterminatives de l'Alberta. Par conséquent, il a conclu que les paiements de pension alimentaire versés en vertu d'un accord de paternité en Alberta ne constituaient pas des paiements conformément à une « ordonnance » aux fins de la Loi et n'étaient donc pas déductibles.
+[10] Dans l'affaire Mullen, le juge Mogan s'est rangé du côté du juge Teskey sur ce point difficile. Le juge Mogan a conclu qu'il était de la compétence de l'Assemblée législative de l'Alberta de considérer un accord de paternité comme une « ordonnance » . Au paragraphe 15, il s'est prononcé comme souhaitable que l'accord de paternité soit définitivement considéré comme une ordonnance de soutien pour l'application des textes législatifs de l'Alberta en question.
+[11] Le juge Mogan a invoqué les principes établis dans l'affaire Dale c. La Reine, C.A.F., no A-15-94, 21 avril 1997 (97 DTC 5252). Au paragraphe 16, le juge Mogan déclare ceci en paraphrasant les motifs fournis dans la décision Dale :
+[traduction]
+[...] Si la législature d'une province déclare qu'un accord particulier est réputé être une ordonnance de la cour, il n'appartient pas au ministre du Revenu national de saper l'autorité de la loi provinciale en refusant de reconnaître l'accord comme l'ordonnance d'un tribunal compétent.
+[12] Tout en étant d'accord avec l'issue des affaires Hollands et Mullen, je crois cependant utile d'ajouter quelques remarques sur les raisons pour lesquelles je demeure sceptique quant à l'analyse des juges Bowman et Bowie. En mettant l'accent sur ce qu'une province ne devrait pas pouvoir faire pour ne pas empiéter sur le champ d'application de la Loi de l'impôt sur le revenu, leur analyse néglige de souligner ce que le Parlement a fait en la circonstance. À l'alinéa b) de la définition de « pension alimentaire » , le Parlement reconnaît expressément la compétence des provinces pour déterminer comment procéder en ce qui a trait aux paiements de pension alimentaire dans les questions de paternité. À la différence d'une affaire comme celle de Dale, dont le juge Bowman a cherché à diminuer le champ d'application, le Parlement s'en remet expressément aux provinces pour la détermination de cette question, celle-ci relevant de leur compétence législative exclusive. En vertu de l'autorisation légale de l'Alberta, le directeur des Social Services de l'Alberta est habilité à exercer dans les affaires qui nous intéressent une fonction généralement réservée aux tribunaux. Cette fonction s'apparente à celle du tribunal qui prononce un jugement en matière de paternité et de soutien. En prenant part à une forme déterminée d'accord de paternité en Alberta, le directeur des Social Services de l'Alberta donne une approbation par laquelle cet accord est réputé être une « ordonnance » aux termes des lois de l'Alberta. La signature du directeur est acceptée au lieu d'une ordonnance de la cour, et la disposition déterminative confère [à l'accord] le statut d' « ordonnance » pour s'assurer qu'il est traité de cette façon en Alberta et en dehors de la province au cas où l'exécution réciproque serait nécessaire. Il ne s'agit pas seulement de faire de quelque chose une chose qu'elle n'est pas. Il s'agit de veiller à ce qu'une chose soit ce qu'elle était censée être, quoiqu'à des fins provinciales.
+[13] Le juge Bowie a conclu que cette restriction empêchait l' « ordonnance » d'être une « ordonnance » aux fins de la Loi. Une telle analyse, dans le contexte de la Loi, accorde trop d'importance à l'intention du législateur concernant la disposition déterminative en l'espèce. La Loi soulève la question de savoir si les paiements de pension alimentaire sont versés en vertu de l' « ordonnance » d'un tribunal compétent rendue en conformité avec les lois de la province. Y avait-t-il « ordonnance » d'un tribunal compétent rendue en conformité avec les lois de l'Alberta dans les affaires concernées? Selon moi, la réponse à cette question est « oui » , même si l'Assemblée législative de l'Alberta n'envisageait pas que la disposition déterminative s'appliquerait aux fins de la Loi. La Loi demande en quoi consiste la loi provinciale concernant les ordonnances en matière de paternité, et non ce que la province entendait qu'elle soit à des fins fiscales. Selon la loi provinciale relative au soutien dans les affaires de paternité en Alberta, les accords de paternité signés par le directeur des Social Services de l'Alberta sont des « ordonnances » aux fins provinciales et voilà tout ce qui est exigé à l'alinéa b) de la définition de « pension alimentaire » dans la Loi. Le fait d'accepter l'objet étroit de la disposition déterminative dans les circonstances actuelles comme un moyen de refuser, à des fins fiscales, l'exercice de la compétence législative provinciale prévue par la Loi équivaut à rendue nulle et non avenue l'invitation que lance le Parlement aux provinces de traiter la question comme elles jugent opportun de le faire.
+[14] Par conséquent, j'admets l'appel en l'espèce, avec dépens. Je tiens à souligner que même si j'avais annoncé à l'audition de cette question que je remettrais probablement le prononcé de ma décision en attendant la requête de contrôle judiciaire de la décision Fraser, la récente décision du juge Mogan dans l'affaire Mullen m'a incité à exprimer la concordance de mon opinion avec les siennes.
+Signé à Ottawa, Canada, ce 27e jour de mai 2003.
+« J. E. Hershfield »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de mars 2004.
+Nancy Bouchard, traductrice
+[1] R.S.A. 1970, ch. 223, par. 10(1).
+[2] En 1985, lors de la signature de l'accord de paternité en question, la disposition déterminative se trouvait dans la Maintenance Enforcement Act, R.A. 1985, ch. M-0.5. Au paragraphe 1(2), les accords conclus en vertu de l'article 10 de la Maintenance and Recovery Act sont explicitement réputés être des « ordonnances » . En 1991, la Parentage and Maintenance Act, S.A. 1990, ch. P-0.7, est entrée en vigueur, et l'article 6 de cette Loi a remplacé l'article 10 de la Maintenance and Recovery Act. L'article 28 de la Parentage and Maintenance Act a modifié le paragraphe 1(2) de la Maintenance Enforcement Act en rayant la référence à l'article 10 et en la remplaçant par l'article 6 de la Parentage and Maintenance Act. Bien que ces dispositions transitoires semblent quelque peu déficientes, l'intimée ne conteste pas la position selon laquelle l'accord en l'espèce doit être proprement considéré comme un accord réputé être une ordonnance de soutien au titre du paragraphe 1(2) de la Maintenance Enforcement Act.

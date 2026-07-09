@@ -1,0 +1,138 @@
+Title: Chitalia c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301241/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-227-301241-chitalia-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-16
+
+# Chitalia c. La Reine
+
+- Citation: 2017 CCI 227
+- Decision date: 2017-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7803, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chitalia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-16
+Référence neutre
+2017 CCI 227
+Numéro de dossier
+2016-2813(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2813(IT)I
+ENTRE :
+JIGNESH P. CHITALIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 13 octobre 2017,
+à Toronto (Ontario)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Stephanie Hodge
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 est rejeté, avec dépens en faveur de l’appelant, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2017.
+« B. Paris »
+Le juge Paris
+Référence : 2017 CCI 227
+Date : 20171116
+Dossier : 2016-2813(IT)I
+ENTRE :
+JIGNESH P. CHITALIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] M. Chitalia interjette appel de l’inclusion d’un montant de 5 529 $ dans son revenu, à titre de montant reçu de son régime enregistré d’épargne-retraite (REER) au cours de l’année d’imposition 2012. M. Chitalia a retiré le montant de son REER dans le cadre du Régime d’accession à la propriété (RAP) en vue d’acheter un logement en copropriété à Mississauga, en Ontario, pour lui et sa famille.
+[2] Si certaines conditions énoncées à l’article 146.01 de la Loi de l’impôt sur le revenu (la Loi) sont remplies, un retrait fait dans le cadre du RAP sera considéré comme un « retrait exclu », et n’a pas à être inclus dans le revenu d’un particulier, comme l’exigerait par ailleurs le paragraphe 146(8) de la Loi.
+[3] Le ministre du Revenu national a établi une nouvelle cotisation à l’égard de M. Chitalia afin d’inclure dans son revenu la somme retirée de son REER, parce que le retrait n’était pas un « retrait exclu » au sens de l’article 146.01 de la Loi.
+[4] Est un « retrait exclu » au sens de la Loi notamment un « montant admissible », soit un « montant admissible principal » ou un « montant admissible supplémentaire » (ce dernier n’étant pas pertinent en l’espèce). Un montant retiré d’un REER sera considéré comme un « montant admissible principal » si le particulier n’a pas acquis l’habitation admissible plus de 30 jours avant la date du retrait.
+[5] Enfin, aux fins du RAP, un particulier est réputé par l’alinéa 146.01(2)b) acquérir un logement en copropriété le jour où il a droit d’en prendre possession.
+[6] En cas d’achat par un particulier d’un logement en copropriété, ces dispositions font en sorte que le retrait d’un REER qui est fait dans le cadre du RAP ne sera exclu du revenu d’un particulier que s’il est fait dans un délai n’excédant pas 30 jours après que le particulier a obtenu le droit de prendre possession du logement.
+[7] Les dispositions pertinentes de la Loi sont les suivantes :
+146(8) Prestations [et retraits] imposables — Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+146.01(1) Définitions — Les définitions qui suivent s’appliquent au présent article.
+montant admissible Montant admissible principal ou montant admissible supplémentaire;
+retrait exclu Retrait d’un particulier qui constitue :
+a) soit un montant admissible qu’il a reçu;
+montant admissible principal Montant qu’un particulier reçoit à un moment donné à titre de prestation dans le cadre d’un régime enregistré d’épargne-retraite, si les conditions suivantes sont réunies :
+[…]
+d) ni le particulier ni son époux ou conjoint de fait n’ont acquis l’habitation plus de 30 jours avant le moment donné;
+[…]
+(2) Règles spéciales – Les présomptions suivantes s’appliquent au présent article :
+[…]
+b) le particulier qui accepte d’acquérir un logement en copropriété est réputé l’acquérir le jour où il a droit d’en prendre possession;
+[8] Les faits de l’espèce sont simples.
+[9] Le 27 septembre 2011, M. Chitalia et son épouse ont conclu une convention d’achat visant l’achat d’un logement en copropriété à construire. La date intérimaire de clôture du 3 novembre 2011 et la date définitive de clôture du 20 janvier 2012 étaient prévues concernant l’achat.
+[10] M. Chitalia et son épouse ont eu droit de prendre possession du logement en copropriété et de l’occuper à la date intérimaire de clôture et ont emménagé dans le logement immédiatement après cette date.
+[11] La vente a été finalisée comme prévu le 20 janvier 2012.
+[12] M. Chitalia a retiré un montant de 5 529 $ de son REER chez Questrade le 12 janvier 2012 dans le cadre du RAP.
+[13] Afin de faire le retrait, il a rempli le formulaire intitulé « Régime d’accession à la propriété (RAP) – Demande de retirer des fonds d’un REER » fourni par l’Agence du revenu du Canada (Agence). Les directives figurant au haut du formulaire incluent la phrase suivante : « Remplissez la section A de la partie 1 afin de déterminer si vous pouvez retirer des fonds de votre REER dans le cadre du RAP ».
+[14] Dans le formulaire, la question 6 de la section A de la partie 1 est ainsi libellée :
+La personne qui achète ou construit l’habitation admissible (ou son époux ou conjoint de fait) était-elle propriétaire de l’habitation plus de 30 jours avant la date du retrait?
+[15] Selon le formulaire, si le demandeur répond « Non » à la question 6, il est admissible et peut faire le retrait dans le cadre du RAP. M. Chitalia a répondu « Non » à cette question parce que l’achat ne devait être finalisé que le 20 janvier 2012.
+[16] Toutefois, étant donné que M. Chitalia et son épouse ont eu droit de prendre possession du logement en copropriété le 3 novembre 2011, ils étaient réputés par l’alinéa 146.01(2)b) de la Loi acquérir le logement à cette date, qui précédait de plus de 30 jours la date du retrait du REER.
+[17] Évidemment, la question 6 du formulaire relatif au retrait est trompeuse parce qu’elle ne renvoie pas à la date d’acquisition réputée d’un logement en copropriété visée à l’alinéa 146.01(2)b). En fait, ce formulaire ne fait nullement mention d’une date d’acquisition réputée. Le contribuable qui lit ce formulaire ne peut aucunement savoir qu’une règle spéciale s’applique à la date d’acquisition réputée et que cette date ne correspond pas à la date d’acquisition du titre de propriété, au sens commun de cette expression.
+[18] M. Chitalia admet que le retrait de son REER ne constitue pas un « retrait exclu », mais soutient qu’il ne devrait pas avoir à l’inclure dans son revenu parce qu’il a été induit en erreur à la lecture du formulaire de retrait quant à la date à laquelle il pourrait retirer les fonds de son REER afin que le retrait constitue un « retrait exclu ».
+[19] Il fait remarquer qu’il a examiné le formulaire de retrait avant de faire le retrait et qu’il s’est fié aux renseignements fournis dans le formulaire concernant son admissibilité à un retrait libre d’impôt de son REER. En se fondant sur son interprétation de ce formulaire, il a attendu avant de faire le retrait afin de s’assurer qu’il soit compris dans les 30 jours de la date de clôture de l’achat du logement en copropriété. Il estimait qu’il n’était pas propriétaire de la copropriété avant la date de clôture.
+[20] Malheureusement pour M. Chitalia, la Cour ne peut pas donner effet à un formulaire rédigé par l’Agence du revenu du Canada (Agence) si ce formulaire entre en conflit avec les dispositions de la Loi. Le texte de la Loi doit prévaloir.
+[21] Dans une situation quelque peu semblable à la présente, la Cour d’appel fédérale a conclu dans l’arrêt Klassen c. Canada, 2007 CAF 339, que la Cour ne peut accorder un redressement simplement parce que le contribuable a reçu des conseils erronés de l’Agence. Au paragraphe 27 de ce jugement, la Cour a écrit :
+Enfin, la prétention de l’appelante selon laquelle il y a lieu de modifier la cotisation en raison d’une erreur provoquée par un fonctionnaire m’apparaît dénuée de fondement. Il est bien établi en droit que la réparation accordée par un tribunal dans le cadre d’un appel interjeté à l’encontre d’une nouvelle cotisation en vertu de la LIR doit être prévue par la loi. S’il s’avère qu’un acte de négligence a induit l’appelante en erreur, d’autres recours s’offrent à elle. Aucun redressement ne peut cependant être accordé pour ce motif dans le contexte d’un appel en matière d’impôt.
+[22] Les parties pertinentes des paragraphes 146.01(1) et (2) auxquelles j’ai renvoyé sont rédigées en des termes clairs et précis, ce qui signifie que le montant que M. Chitalia a retiré de son REER n’est pas un « retrait exclu » aux termes de la Loi et qu’il doit être inclus dans son revenu de 2012.
+[23] Il y a donc lieu de rejeter l’appel.
+[24] Compte tenu du caractère inéquitable de ce résultat, M. Chitalia pourrait envisager de demander que lui soit accordée une remise de taxe aux termes du paragraphe 23(2) de la Loi sur la gestion des finances publiques, RSC (1985), c F-11. L’Agence devrait aussi modifier le texte du formulaire de retrait dans le cadre du RAP de façon à signaler aux nouveaux acheteurs de logements en copropriété la date d’acquisition réputée visée à l’alinéa 146.01(2)b).
+[25] Les dépens sont adjugés à M. Chitalia.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2017.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+Ce 10e jour de septembre 2019
+Lionbridge
+RÉFÉRENCE :
+2017 CCI 227
+NO DU DOSSIER DE LA COUR :
+2016-2813(IT)I
+INTITULÉ :
+JIGNESH P. CHITALIA c. SA MAJESTÉ LA REINE
+LIEU ET DATE DE L’AUDIENCE :
+Toronto (Ontario)
+Le 13 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 16 novembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Stephanie Hodge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

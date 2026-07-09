@@ -1,0 +1,124 @@
+Title: Theriault c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27959/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-275-27959-theriault-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-04-23
+
+# Theriault c. M.R.N.
+
+- Citation: 2003 CCI 275
+- Decision date: 2003-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1807, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Theriault c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-23
+Référence neutre
+2003 CCI 275
+Numéro de dossier
+2002-3300(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-3300(EI)
+ENTRE :
+RÉGINALD THÉRIAULT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 10 avril 2003 à Rivière-du-Loup (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+_______________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI275
+Date : 20030423
+Dossier : 2002-3300(EI)
+ENTRE :
+RÉGINALD THÉRIAULT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif, C.C.I.
+[1] Il s'agit de l'appel d'une détermination en date du 18 juillet 2002, en vertu de laquelle l'intimé a déterminé que le travail effectué par l'appelant pour la période du 12 septembre 1999 au 18 décembre 1999, pour le compte et bénéfice de Jocelyn Lebrun, ne constituait pas un contrat de louage de services et par voie de conséquence, il ne s'agissait pas d'un emploi assurable.
+[2] Pour rendre sa décision l'appelant a pris pour acquis les énoncés de faits suivants :
+a) le payeur exploitait une entreprise de coupes forestières à St‑Elzéar;
+b) l'appelant possédait une débusqueuse évaluée à environ 15 000 $;
+c) durant la période en litige, le payeur a prétendument embauché l'appelant pour bûcher sur ses terres;
+d) en réalité, le payeur et l'appelant se partageaient à part égale le produit de la vente de bois;
+e) il n'y avait pas de contrat écrit signé entre l'appelant et le payeur;
+f) les tâches de l'appelant consistaient à bûcher le bois, le transporter au chemin et à le couper en billots;
+g) l'appelant était prétendument rémunéré 750 $ par semaine par le payeur alors que le payeur émettait un chèque qui était endossé par l'appelant et remis au payeur;
+h) le payeur versait ensuite un prétendu salaire en argent comptant à l'appelant alors qu'il ne s'agissait que d'une avance sur le produit de la vente du bois;
+i) le payeur et l'appelant vendaient le bois à la société Victorien Lemay Inc.;
+j) Victorien Lemay Inc. versait la moitié du prix d'achat du bois directement au payeur et l'autre moitié directement à l'appelant;
+k) une fois le bois vendu et l'argent reçu de Victorien Lemay Inc., l'appelant remboursait le payeur pour le salaire brut et pour les cotisations ouvrières patronales versées par le payeur;
+l) le 17 décembre 1999, le payeur émettait un relevé d'emploi à l'appelant, pour la période débutant le 12 septembre 1999 et se terminant le 18 décembre 1999, et qui indiquait 560 heures assurables et une rémunération assurable totale de 10 483,20 $;
+m) l'appelant était responsable de l'entretien de sa débusqueuse;
+n) l'appelant assumait les coûts de l'essence et des pièces d'inventaire de la débusqueuse;
+o) l'appelant exploitait sa propre entreprise;
+p) le payeur et l'appelant ont conclu un arrangement afin de permettre à l'appelant à se qualifier à recevoir des prestations d'assurance-emploi.
+[3] L'appelant a essentiellement soumis qu'il avait exécuté son travail comme il le faisait depuis plusieurs années et qu'il n'avait, à ce jour, jamais vécu de problème pour l'obtention des prestations d'assurance-emploi; ses représentations quant à la façon d'exécuter le travail et, tout spécifiquement, quant à la rémunération ont été vagues et confuses. La preuve soumise par l'appelant a été incomplète au point qu'il n'a pas relevé le fardeau de preuve qui lui incombait.
+[4] Il a essentiellement affirmé et répété qu'il n'avait jamais eu de problème pour se qualifier à l'assurance-emploi. Suite aux questions du Tribunal, les réponses ont été confuses; bien plus, il est apparu assez manifeste qu'il y avait eu véritable collusion entre lui et le propriétaire du lot à bois, soit le payeur Lebrun pour qu'il puisse se qualifier aux prestations d'assurance-emploi.
+[5] De son côté, l'intimé a fait témoigner monsieur Pierre Savoie, responsable de l'enquête dans le dossier de l'appelant. Ce dernier a fait état du stratagème utilisé par l'appelant et le payeur, Jocelyn Lebrun, lequel avait consenti à émettre des chèques à l'appelant pour couvrir la période en litige; les chèques étaient aussitôt endossés et remis. De plus, l'enquêteur a pu constater que les chèques provenant du compte de l'entreprise de Jocelyn Lebrun étaient re-déposés dans son compte personnel portant un autre numéro de folio.
+[6] Il n'a pas été en mesure de découvrir si le payeur avait pu rémunérer l'appelant en argent comptant, la preuve documentaire étant plutôt déterminante à l'effet qu'il n'y avait eu aucun paiement. L'appelant était plutôt payé lors de la vente du bois à raison de 50 p. 100 du montant obtenu.
+[7] Lors de l'enquête, il appert que le présumé employeur a catégoriquement refusé de collaborer en fournissant les explications et les documents pertinents susceptibles de confirmer que le relevé d'emploi n'était pas bidon.
+[8] L'enquête de monsieur Savoie a également permis de constater que l'appelant travaillait durant les périodes où il recevait des prestations d'assurance‑emploi et vendait du bois en utilisant le compte du commerce de sa conjointe. En d'autres termes, il appert du témoignage de l'enquêteur que l'appelant a été associé à diverses magouilles de manière à obtenir sans droit des prestations d'assurance-emploi; il travaillait durant les périodes où il était bénéficiaire de telles prestations.
+[9] La prépondérance de la preuve présentée par l'intimé est à l'effet que la version des faits soumise par l'appelant n'était pas compatible avec ses prétentions. À la lumière de la preuve soumise, il n'y a aucun doute que les explications de l'appelant ne sont en aucune façon crédibles et que le relevé d'emploi a été le résultat d'une entente ayant pour seul but de qualifier l'appelant aux prestations d'assurance-emploi.
+[10] Dans les faits, l'appelant a bel et bien exécuté du travail sur la propriété de Jocelyn Lebrun. Il s'agissait d'un travail qui consistait à abattre, transporter et couper le bois au moyen de sa débusqueuse. Par la suite, le bois était vendu et l'appelant touchait 50 p. 100 du produit de la vente. Il ne s'agissait donc pas d'un contrat de louage de services, mais essentiellement d'un travail exécuté dans le cadre de sa propre entreprise.
+[11] Comme les revenus d'entreprise étaient payables lors de la vente du bois, l'appelant et le propriétaire de la terre où avait été coupé le bois vendu, avaient convenu d'un arrangement bidon, laissant croire qu'il s'agissait d'un contrat de louage de services. Dans les faits, les chèques n'étaient pas encaissés par l'appelant; ils ne servaient qu'à créer une apparence de contrat de louage de services.
+[12] En conclusion, la prépondérance est à l'effet que l'appelant a exécuté du travail en qualité d'entrepreneur et non comme salarié; le travail a été maquillé et arrangé de manière à ce qu'il se qualifie pour recevoir des prestations d'assurance-emploi, ce qui, évidemment a pour effet de confirmer la justesse de la détermination qui fait l'objet du présent appel, à savoir que le travail exécuté par l'appelant ne l'a pas été dans le cadre d'un véritable contrat de louage de services.
+[13] Pour ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI275
+No DU DOSSIER DE LA COUR :
+2002-3300(EI)
+INTITULÉ DE LA CAUSE :
+Réginald Thériault
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE
+le 10 avril 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 23 avril 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,186 @@
+---
+title: "Barrett c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423353/index.do"
+last_modified: "2019-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 228"
+citation2: ""
+neutral_citation: "2019 CCI 228"
+decision_date: "2019-10-21"
+language: "fr"
+item_id: "423353"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4198
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:08:59.703000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ea3f57f7569336cc445740347b9a503ba28f62d81cba5f0d3c0fff67c8a64a07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barrett c. La Reine
+
+- Citation: 2019 CCI 228
+- Decision date: 2019-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4198, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrett c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-21
+Référence neutre
+2019 CCI 228
+Numéro de dossier
+2017-4665(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4665(IT)I
+ENTRE :
+JOHN A. BARRETT
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 21 mai 2019, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Acinkoj Magok
+JUGEMENT
+ATTENDU QUE la Cour, à cette date, a rendu ses motifs de jugement dans cet appel;
+PAR CONSÉQUENT, l’appel de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est rejeté sans dépens.
+Signé à Ottawa (Ontario), ce 21e jour d’octobre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019TCC228
+Date : 20191021
+Dossier : 2017-4665(IT)I
+ENTRE :
+JOHN A. BARRETT
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+[1] Le seul point en litige dans le présent appel est la question de savoir si l’appelant, M. Barrett, a le droit de déduire un montant de 27 333 $ en honoraires d’avocat de son revenu pour l’année d’imposition 2015.
+[2] M. Barrett a été engagé dans trois actions en justice distinctes : un contentieux matrimonial avec son ex-conjointe, une poursuite pour congédiement abusif à l’endroit de PSI Peripheral Solutions (PSI) et une procédure de recours contre les abus instituée par son ex-conjointe à l’endroit de M. Barrett, de PSI et de la personne morale ontarienne 791755 (791755) (les instances). M. Barrett a retenu les services de Kevin Robinson, de Robinson Heeney LLP, à titre de poursuivant ou de défendeur dans les trois instances.
+[3] À l’audience, M. Barrett a déclaré que lui-même et sa conjointe étaient des actionnaires majoritaires dans 791755. Cette société de portefeuille détenait des intérêts non précisés dans PSI. Même s’il était l’un des fondateurs de PSI, M. Barrett a fini par être congédié de PSI à titre d’employé. Par conséquent, il a intenté la poursuite pour congédiement abusif.
+[4] M. Barrett estime que son ex-conjointe était en partie responsable de la décision de PSI de le congédier. De plus, son ex-conjointe a intenté une procédure de recours contre les abus à titre de détentrice de titres ayant prétendument subi un préjudice ou ayant été traitée inéquitablement. Selon M. Barrett, elle a intenté cette action afin d’obtenir une plus grande part des actifs de ses entreprises, essentiellement PSI et 791755.
+[5] M. Barrett a fourni à la Cour quatre documents :
+i) le procès-verbal du règlement de la poursuite civile Barrett v Barrett : Cour supérieure de l’Ontario, dossier no 32160/09, daté du 15 juin 2015;
+ii) un relevé d’honoraires de Robinson Heeney LLP, daté du 20 octobre 2015, au montant de 316,40 $, et un relevé de grand livre de fiducie indiquant notamment un transfert de fonds de 12 923,08 $ pour payer des factures futures non précisées en lien avec une « autre affaire »;
+iii) un relevé de compte de Robinson Heeney LLP, daté du 18 mars 2015, au montant de 4 432,43 $;
+iv) des courriels envoyés par M. Barrett au ministère de la Justice, datés du 14 au 18 mai 2019.
+[6] M. Barrett soutient que les honoraires d’avocat de 27 333 $ réclamés ont été engagés et payés par lui en lien avec la poursuite pour congédiement abusif, le contentieux matrimonial et la procédure de recours contre les abus. Outre les honoraires d’avocat réclamés, M. Barrett a demandé à déduire d’autres sommes, plus précisément le montant du règlement, de 40 000 $, et les dépens de 12 923,08 $, qui ont été versés à son ex-conjointe par suite du règlement du contentieux matrimonial.
+[7] M. Barrett a admis qu’il n’avait pas de facture ou de document concernant les honoraires d’avocat ni les montants d’argent exacts engagés et payés par lui relativement à la poursuite pour congédiement abusif, outre ceux susmentionnés.
+[8] Lors de la procédure de recours contre les abus, M. Barrett a déclaré qu’il avait engagé et payé des honoraires d’avocat de 12 923,08 $. M. Barrett a déposé en preuve une copie de la facture au montant de 4 432,43 $ envoyée par Robinson Heeney LLP comme preuve des services rendus et payés.
+[9] M. Barrett a affirmé, lors de l’audience, qu’il détenait d’autres facteurs qui contribueraient à établir son droit à déduire les honoraires d’avocat. À la lumière de cette observation, la Cour a autorisé la présentation d’autres observations après avoir entendu tous les autres éléments de preuve. Une ordonnance a été rendue à cet effet. M. Barrett a été autorisé à déposer des copies des factures supplémentaires concernant les honoraires d’avocat facturés par Robinson Heeney LLP et versés par M. Barrett relativement à la procédure de recours contre les abus en lien avec la société de personne morale ontarienne 791755 (connue sous le nom de Barrett Holdings). M. Barrett n’a pas respecté l’ordonnance demandée. Il n’a soumis aucun autre document ou observation. Seules des observations de l’avocat de l’intimée ont été déposées. Par conséquent, la Cour a formulé certaines hypothèses concernant les arguments et les observations probables de M. Barrett.
+II. Dispositions législatives applicables
+[10] Les dispositions pertinentes de la Loi de l’impôt sur le revenu, LRC 1985, ch. 1, dans sa version modifiée (la Loi) sont rédigées ainsi :
+Alinéa 8(1)b)
+Déductions
+Éléments déductibles
+8 (1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi [...]
+(a) [Abrogé, 2001, ch. 17, art. 3]
+Frais judiciaires d’un employé
+(b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer un montant qui lui est dû et qui, s’il le recevait, serait à inclure en vertu de la présente sous-section dans le calcul de son revenu, ou pour établir un droit à un tel montant;
+Paragraphe 60(0.1)
+Idem
+(o.1) l’excédent éventuel du moins élevé des montants suivants :
+(i) le total des frais judiciaires ou extrajudiciaires, sauf ceux se rapportant au règlement ou au partage de biens découlant du mariage ou union de fait ou de son échec, payés par le contribuable au cours de l’année ou de l’une des sept années d’imposition précédentes pour recouvrer l’un des montants suivants ou pour établir un droit à ceux-ci :
+(A) une prestation prévue par quelque régime ou caisse de pensions, sauf une prestation prévue par le régime institué par le Régime de pensions du Canada ou un régime provincial de pensions, au sens de l’article 3 de cette loi, en raison de l’emploi du contribuable ou d’un particulier décédé auquel le contribuable était apparenté ou dont il était une personne à charge ou le représentant légal,
+(B) une allocation de retraite du contribuable ou d’un particulier décédé auquel le contribuable était apparenté ou dont il était une personne à charge ou le représentant légal,
+(ii) l’excédent éventuel du total des montants dont chacun représente :
+(A) soit un montant visé à la division (i)(A) ou (B) au titre duquel les frais judiciaires et extrajudiciaires visés au sous-alinéa (i) ont été payés, reçu après 1985 et inclus dans le calcul du revenu du contribuable pour l’année ou pour une année d’imposition antérieure,
+(B) soit un montant inclus en application de l’alinéa 56(1)l.1) dans le calcul du revenu du contribuable pour l’année ou pour une année d’imposition antérieure,
+sur le total des montants dont chacun représente un montant déduit en application de l’alinéa j), j.01), j.1) ou j.2) dans le calcul du revenu du contribuable pour l’année ou pour une année d’imposition antérieure, dans la mesure où il est raisonnable de considérer que ce montant est déductible en raison de la réception d’un montant visé à la division (A),
+sur :
+(iii) la fraction du total visé au sous-alinéa (i) quant au contribuable qu’il est raisonnable de considérer comme déductible en application du présent alinéa dans le calcul du revenu du contribuable pour une année d’imposition antérieure;
+[11] L’alinéa 8(1)b) de la Loi dispose qu’un contribuable, au moment de calculer le revenu tiré d’une charge ou d’un emploi, peut déduire les frais judiciaires payés par le contribuable au cours de l’année pour recouvrer un montant d’argent qui lui est dû et qui, s’il le recevait, serait à inclure dans le calcul de son revenu, ou pour établir un droit à une telle somme;
+[12] De même, le paragraphe 60(o.1) de la Loi permet de déduire, dans le calcul du revenu d’un contribuable, les frais judiciaires payés par le contribuable pour recouvrer une allocation ou une prestation de retraite à laquelle il avait droit, jusqu’à concurrence du montant d’argent reçu. Une allocation de retraite est définie au paragraphe 248(1) de la Loi de façon à inclure les montants d’argents reçus à titre de dommages relativement à la perte d’un emploi.
+III. Thèse des parties
+[13] L’intimée estime que M. Barrett n’a pas droit à la déduction des frais judiciaires de 27 333 $ aux termes de l’alinéa 8(1)b) et du paragraphe 60(o.1) de la Loi puisque les frais judiciaires réclamés n’ont pas été engagés et payés par M. Barrett pour recouvrer un montant d’argent qui lui est dû à titre d’employé ou pour établir un droit à une telle somme. En outre, les frais judiciaires n’ont pas été engagés pour recouvrer une prestation prévue par un régime ou une caisse de pensions en raison de son emploi, ou encore une allocation de retraite, ou pour établir son droit à une telle somme.
+IV. Discussion
+Poursuite pour congédiement abusif
+[14] Le libellé de l’alinéa 8(1)b) vise les procédures judiciaires entamées pour recouvrer un montant d’argent dû ou pour établir le droit de réclamer ou de conserver cette somme. La jurisprudence enseigne clairement que le contribuable doit produire des éléments de preuve documentaire pour appuyer son affirmation selon laquelle des frais judiciaires ont été engagés et payés par le contribuable ou, à tout le moins, pour offrir un motif convaincant afin d’expliquer pourquoi les éléments de preuve n’étaient pas disponibles, mais qu’ils existaient tout de même : Naraine c. Canada, 2016 CAF 6, au paragraphe 3.
+[15] M. Barrett a eu gain de cause dans une poursuite pour congédiement abusif à l’endroit de PSI. Toutefois, M. Barrett a admis qu’il ne détenait aucune facture et qu’il n’a pas non plus apporté ou déposé par la suite devant la Cour d’autres éléments de preuve pour démontrer qu’il avait engagé et payé des frais judiciaires en lien avec la poursuite pour congédiement abusif.
+Contentieux matrimonial
+[16] L’intimée soutient que le libellé de l’alinéa 8(1)b) et du paragraphe 60(o.1) de la Loi est sans ambiguïté. Il ne permet pas au contribuable de déduire les frais judiciaires engagés et payés dans le contexte d’un contentieux ni aucune indemnité reçue au terme d’une procédure matrimoniale.
+[17] Les montants d’argent payés relativement au contentieux matrimonial n’ont pas été engagés ou payés par M. Barrett aux fins du recouvrement d’un revenu imposable ou de l’établissement du droit à un revenu provenant d’un employeur ou d’une prestation de pension. Le contentieux matrimonial concernait plutôt la dissolution du mariage de M. Barrett et la distribution subséquente des biens matrimoniaux.
+[18] Par conséquent, M. Barrett n’a pas le droit de déduire les montants d’argent versés relativement à ce contentieux matrimonial, y compris le montant du règlement ordonné et les dépens adjugés, au motif que ces sommes ne constituent pas des frais judiciaires au sens de l’alinéa 8(1)b) et du paragraphe 60(o.1) de la Loi.
+Procédure de recours contre les abus
+[19] M. Barrett a déclaré à la Cour qu’il avait le droit de déduire des frais judiciaires de 12 923,08 $, qu’il dit avoir engagés afin de protéger ses intérêts commerciaux dans PSI et 791755. Comme nous l’avons mentionné, aucune observation n’a été soumise par M. Barrett. Il est possible qu’il se soit fondé sur la proposition qu’un contribuable a le droit de déduire des frais judiciaires engagés et payés selon les pratiques comptables et commerciales saines au cours des opérations productrices de revenus : Rolland Paper Co. v Minister of National Revenue : 1960 CarswellNat 260, (Cour de l’Échiquier du Canada). Toutefois, dans cette affaire, la Cour de l’Échiquier s’intéressait à l’interprétation de l’alinéa 120(1)a) de la Loi de l’impôt sur le revenu (disposition antérieure à l’alinéa 18(1)a) de la Loi), qui se rapportait à la déduction des frais judiciaires dans le calcul du revenu tiré d’entreprises ou de propriétés.
+[20] Rien dans les observations entendues par la Cour ne permet de faire correspondre l’appel à ce scénario factuel. M. Barrett n’a pas fait ces observations dans son avis d’appel. Aucun élément de preuve n’a été présenté pour démontrer qu’il exploitait une entreprise ou que les frais judiciaires ont été engagés afin de tirer ou de produire un revenu au sens de l’alinéa 18(1)a) de la Loi. Il a cherché à déduire les frais judiciaires d’un revenu d’emploi.
+[21] L’alinéa 8(1)b) de la Loi aborde deux types de contentieux : la question de savoir si le contentieux résulte de l’omission de la part d’un employeur de payer le traitement ou le salaire dû à l’employé, et la deuxième question, si l’employé avait droit au traitement ou au salaire : Loo c. Canada 2004 CAF 249, aux paragraphes 7 et 8. La Cour d’appel fédérale, dans l’arrêt Fenwick c. Canada 2008 CAF 370, a expressément affirmé que la portée de l’alinéa 8(l)b) de la Loi est relativement restreinte et se limite aux contentieux où l’élément essentiel de la demande doit découler d’un désaccord concernant les conditions d’emploi.
+[22] De même, le libellé du paragraphe 60(o.1) de la Loi est clair et sans ambiguïté; on ne peut déduire que les frais judiciaires engagés par un contribuable pour recouvrer une allocation ou une prestation de retraite à laquelle il avait droit. Il établit, dans le cas des pensions, le lien requis aux termes de l’alinéa 8(1)b) en ce qui concerne le traitement, le salaire ou les avantages sociaux liés à l’emploi.
+[23] Rien ne prouve que la procédure de recours contre les abus ait visé à trancher la question de savoir si M. Barrett était autorisé à recouvrer un revenu imposable d’une charge ou d’un emploi, d’une prestation de retraite ou d’une allocation de retraite auprès de son employeur. Dans ses propres éléments de preuve, M. Barrett a admis que la procédure de recours contre les abus visait la protection de ses intérêts commerciaux dans PSI et 791755. Plus important encore, la participation de M. Barrett à la procédure de recours contre les abus ne s’est pas déroulée en sa capacité d’employé.
+[24] Dans l’arrêt Fenwick, précité aux paragraphes 9 et 10, la Cour a rejeté les tentatives de déduire des frais judiciaires payés par un contribuable dans le contexte d’une action dérivée, au motif que les actions dérivées sont intentées contre un contribuable en tant que dirigeant, et non comme employé. Malgré le peu d’éléments de preuve déposés, la Cour a conclu que la procédure de recours contre les abus avait été intentée contre M. Barrett non pas en tant qu’employé, mais en sa capacité d’administrateur, de dirigeant ou d’actionnaire allégué contrevenant de 791755 et PSA.
+[25] Même en présumant que la Cour acceptera la preuve de M. Barrett selon laquelle la procédure de recours contre les abus était un subterfuge par lequel l’ex-conjointe de M. Barrett a attaqué indirectement sa relation de travail avec PSI, M. Barrett n’a toujours pas démoli les hypothèses du ministre. L’alinéa (8)1)b) de la Loi n’est d’aucune aide pour M. Barrett, puisqu’il ne vise que le recouvrement d’un revenu imposable dû ou le droit à ce revenu : Hollinger (Succession) c. La Reine 2013 CCI 252, au paragraphe 31. Le procès-verbal du règlement a établi les conditions de résolution de la procédure de recours contre les abus en fonction de ses modalités. Il n’y a eu aucune discussion concernant le statut d’emploi de M. Barrett; le procès-verbal du règlement portait sur la redistribution des parts dans PSI et 791755 entre M. Barrett et son ex-conjointe, ainsi que sur la restructuration de la structure corporative et des autres entreprises. De même, même une nouvelle structure corporative chez PSI et 791755, qui a permis en fin de compte à M. Barrett de rétablir sa relation de travail, n’est pas suffisante. L’alinéa 8(l)b) de la loi ne permet pas de déduire les frais judiciaires engagés pour trouver un emploi futur ou pour restituer ou rétablir le droit à un emploi (outre le salaire ou les prestations, ou le droit à ce salaire et ces prestations) qui a été perdu.
+V. Sommaire et dépens
+[26] Pour les motifs qui précèdent, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+Ce 7e jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 228
+NOS DES DOSSIERS DE LA COUR :
+2017-4665(IT)I
+INTITULÉ :
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 21 octobre 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Acinkoj Magok
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

@@ -1,0 +1,375 @@
+---
+title: "Pelletier c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27373/index.do"
+last_modified: "2006-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 639"
+citation2: ""
+neutral_citation: "2006 CCI 639"
+decision_date: "2006-11-24"
+language: "fr"
+item_id: "27373"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 130
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:32:14.339000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1027bbdb488208c85015606a6028df6e7ceae1e468e7a6ffe09abf3a6bfa9ab4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pelletier c. M.R.N.
+
+- Citation: 2006 CCI 639
+- Decision date: 2006-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 130, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-24
+Référence neutre
+2006 CCI 639
+Numéro de dossier
+2005-3397(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3397(EI)
+ENTRE :
+GILLES PELLETIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 29 juin 2006, à Matane (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Denis Tremblay
+Avocat de l'intimé :
+Me Martin Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi concernant l'emploi exercé par l'appelant au service de la Coopérative Forestière de la MRC de Matane durant les périodes du 27 janvier au 30 avril 1999, du 3 mai au 13 octobre 1999, du 18 octobre au 21 décembre 1999, du 7 janvier au 26 mai 2000, du 29 mai au 14 octobre 2000, du 16 octobre 2000 au 23 juin 2001, du 25 juin au 28 septembre 2001, du 12 octobre au 2 novembre 2001, du 8 novembre au 14 décembre 2001 et du 7 janvier au 5 juillet 2002, est rejeté et la détermination du ministre du Revenu national rendue le 7 juillet 2005 est confirmée en ce que l'appelant n'exerçait pas un emploi assurable pour les périodes en question, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI639
+Date : 20061124
+Dossier : 2005-3397(EI)
+ENTRE :
+GILLES PELLETIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une détermination dont l'appelant fut informé par lettre datée du 7 juillet 2005. En vertu de la décision l'intimé a déterminé que le travail effectué par l'appelant lors des périodes du 27 janvier au 30 avril 1999, du 3 mai au 13 octobre 1999, du 18 octobre au 21 décembre 1999, du 7 janvier au 26 mai 2000, du 29 mai au 14 octobre 2000, du 16 octobre 2000 au 23 juin 2001, du 25 juin au 28 septembre 2001, du 12 octobre au 2 novembre 2001, du 8 novembre au 14 décembre 2001 et du 7 janvier au 5 juillet 2002 pour le compte de la Coopérative Forestière de la MRC de Matane n'était pas un travail assurable.
+[2] Pour expliquer et justifier sa décision, le ministre du Revenu national (le « ministre ») s'est notamment appuyé sur les faits présumés suivants :
+a) le payeur a été constitué en société corporative le 10 mars 1999;
+b) le payeur oeuvrait essentiellement dans l'exécution de travaux sylvicoles tels que les traitements d'éclaircies pré-commerciales, le traitement de dégagement de plantation et, dans une moindre mesure, la récolte du bois;
+c) le payeur était dirigé par un conseil d'administration de 6 ou 7 personnes;
+d) l'appelant était président et directeur du payeur jusqu'à sa démission en septembre 2002;
+e) le payeur était en relation d'affaires avec 2 autres entités soit Les industries Mec-Bois inc., une usine de transformation de bois dont l'appelant et le payeur détenait chacun 25 % des actions et Foresterie 2002 inc. dont le payeur était l'unique actionnaire et l'appelant l'unique administrateur;
+f) l'appelant a bénéficié d'un prêt du payeur pour faire l'acquisition de ses actions dans Les Industries Mec-Bois inc.;
+g) l'appelant et 2 autres personnes se sont portés garants d'un prêt de 90 000 $ accordé par la banque de Montréal au payeur afin de permettre à ce dernier d'investir dans Les Industries Mec-Bois inc.;
+h) durant les périodes en litige, l'appelant ne travaillait pas pour les Industries Mec-Bois inc. ni pour Foresterie 2002;
+i) à titre de directeur du payeur, l'appelant faisait les demandes pour l'obtention des contrats et effectuait la planification de ces contrats, il s'occupait des assurances, de la CSST et de l'aide aux travailleurs pour procéder à l'achat de matériel;
+j) l'appelant travaillait dans les locaux du payeur, sur la route et se rendait en forêt au moins une fois par semaine;
+k) l'appelant travaillait selon un horaire très flexible, mais généralement du lundi au vendredi entre 8 h et 17 h; il pouvait travailler les fins de semaine;
+l) l'appelant recevait une rémunération hebdomadaire fixe sans égard aux heures réellement travaillées;
+m) l'appelant rendait de nombreux services au payeur en dehors des périodes où il était inscrit au registre des salaires;
+n) l'appelant recevait son salaire en fonction de l'argent disponible sans le compte du payeur;
+o) quand le payeur n'avait plus de liquidité, l'appelant travaillait bénévolement et se faisait uniquement rembourser ses dépenses par le payeur;
+p) le 10 juillet 2001, l'appelant recevait une somme de 14 500 $ du payeur comme « boni de travail » pour des services rendus entre le 15 octobre 2000 et le 23 juin 2001;
+q) durant la période du 15 octobre 2000 au 23 juin 2001, l'appelant travaillait bénévolement pour le payeur et retirait des prestations de chômage;
+r) malgré les nombreuses périodes d'emploi en litige, l'appelant n'a reçu, entre le 3 mai 1999 et le 2 novembre 2001, que 4 relevés d'emploi du payeur;
+s) le 22 octobre 1999, l'appelant recevait du payeur un relevé d'emploi, pour la période du 3 mai au 13 octobre 1999, indiquant 960 heures assurables et une rémunération assurable totalisant 14 400 $;
+t) le 17 octobre 2000, l'appelant recevait du payeur un relevé d'emploi, pour la période du 29 mai au 6 octobre 2000, indiquant 760 heures assurables et une rémunération assurable totalisant 14 820 $;
+u) le 2 octobre 2001, l'appelant recevait du payeur un relevé d'emploi, pour la période du 25 juin au 28 septembre 2001, indiquant 644 heures assurables et une rémunération assurable totalisant 11 544 $;
+v) le 13 novembre 2001, l'appelant recevait du payeur un relevé d'emploi, pour la période du 15 octobre au 2 novembre 2001, indiquant 141 heures assurables et une rémunération assurable totalisant 2 340 $;
+w) en 2002, l'appelant prétend avoir travaillé bénévolement pour le payeur;
+x) les relevés d'emploi émis par le payeur ne reflètent pas la réalité quant aux périodes travaillées ni quant aux heures réellement travaillées ni quant à la rémunération gagnée par l'appelant au cours des périodes en litige;
+y) de plus, la quantité et la fréquence du travail bénévole accompli par l'appelant ne sont pas conciliables avec la définition d'un véritable contrat de louage de services.
+[3] Le contenu des alinéas 5 a), b), c), d), h), i), j), k), l), r), s), t), u) et v) fut admis. Quant à l'alinéa e), il fut nié tel que rédigé. Les alinéas f), m), n), o), p), q), w), x) et y furent niés alors que l'alinéa g) fut tout simplement ignoré.
+[4] Lors des périodes en litige, les activités économiques était très actives; dans les faits, il s'agissait de périodes généralement où il y avait plusieurs travailleurs à l'emploi de la coopérative affairés à l'exécution des travaux s'inscrivant dans la vocation économique de celle-ci, soit des travaux sylvicoltes, coupe sélective, de broussaillage, etc.
+[5] L'appelant était en quelque sorte le chef d'orchestre responsable de la planification et de la gestion administrative des contrats obtenus par la coopérative. Il partageait son temps entre du travail de gestionnaire administratif, mais se rendait aussi sur le terrain de manière à ce que les travaux soient correctement planifiés et surtout effectués de manière efficace.
+[6] En dehors des périodes indiquées aux relevés d'emploi, l'appelant a affirmé ne pas avoir travaillé, mais essentiellement fait du bénévolat; selon lui, il s'agissait de tâches nécessitant très peu de temps, le tout représentant tout au plus quelques heures par semaine.
+[7] Ce travail en question, défini comme bénévolat, consistait principalement à se rendre au bureau, généralement le jeudi après-midi pour prendre connaissance des messages sur le répondeur téléphonique de l'entreprise et faire le suivi; il exécutait ce travail bénévole jusqu'à la fermeture des divers dossiers où des retenues avaient été faites à la fin de l'exécution des travaux.
+[8] Son témoignage pourrait se résumer comme suit : J'ai travaillé lors des périodes décrites aux relevés d'emploi en retour de quoi j'ai reçu un salaire. Mes périodes d'emploi correspondent précisément et exclusivement à celles indiquées sur les relevés d'emploi. En dehors de ces périodes, je n'ai exécuté aucun travail puisque je n'était pas rémunéré; en d'autres termes, les relevés d'emploi ne devaient faire référence qu'au seul travail rémunéré; le travail bénévole ou non rémunéré, bien que faisant généralement partie de sa description de tâche, n'avait pas à être indiqué sur ses relevés d'emploi.
+[9] Il a également catégoriquement nié le contenu de la pièce I-4, dont il y a lieu d'en reproduire le contenu :
+Semaine
+Nombre d'heure extérieur
+Nombre d'heure Bureau
+Taux Horaire
+Total
+Semaine du 15 octobre 2000 au 21 octobre 2000
+Semaine du 22 octobre 2000 au 28 octobre 2000
+Semaine du 29 octobre 2000 au 4 novembre 2000
+Semaine du 5 novembre 2000 au 11 novembre 2000
+Semaine du 12 novembre 2000 au 18 novembre 2000
+Semaine du 19 novembre 2000 au 25 novembre 2000
+Semaine du 26 novembre 2000 au 2 décembre 2000
+Semaine du 3 décembre 2000 au 9 décembre 2000
+Semaine du 10 décembre 2000 au 16 décembre 2000
+Semaine du 17 décembre 2000 au 23 décembre 2000
+Semaine du 7 janvier 2001 au 13 janvier 2001
+Semaine du 14 janvier 2001 au 20 janvier 2001
+Semaine du 21 janvier 2001 au 27 janvier 2001
+Semaine du 28 janvier 2001 au 3 février 2001
+Semaine du 4 février 2001 au 10 février 2001
+Semaine du 11 février 2001 au 17 février 2001
+Semaine du 18 février 2001 au 24 février 2001
+Semaine du 25 février 2001 au 3 mars 2001
+Semaine du 4 mars 2001 au 10 mars 2001
+Semaine du 11 mars 2001 au 17 mars 2001
+Semaine du 18 mars 2001 au 24 mars 2001
+Semaine du 25 mars 2001 au 31 mars 2001
+Semaine du 1er avril 2001 au 7 avril 2001
+Semaine du 8 avril 2001 au 14 avril 2001
+Semaine du 15 avril 2001 au 21 avril 2001
+Semaine du 22 avril 2001 au 28 avril 2001
+Semaine du 29 avril 2001 au 5 mai 2001
+Semaine du 6 mai 2001 au 12 mai 2001
+Semaine du 13 mai 2001 au 19 mai 2001
+Semaine du 20 mai 2001 au 26 mai 2001
+Semaine du 27 mai 2001 au 2 juin 2001
+Semaine du 3 juin 2001 au 9 juin 2001
+Semaine du 10 juin 2001 au 16 juin 2001
+Semaine du 17 juin 2001 au 23 juin 2001
+6
+4
+5
+7
+4
+3
+6
+5
+5
+7
+8
+14
+22
+8
+18
+41
+40
+26
+28
+12
+20
+16
+38
+40
+40
+40
+40
+40
+40
+4
+6
+5
+4
+8
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+34
+26
+18
+32
+22
+4
+4
+14
+12
+28
+20
+24
+2
+40
+40
+40
+40
+40
+Total
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+10,00 $
+460,00 $
+440,00 $
+450,00 $
+470,00 $
+440,00 $
+430,00 $
+460,00 $
+450,00 $
+450,00 $
+470,00 $
+420,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+450,00 $
+440,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+400,00 $
+440,00 $
+460,00 $
+450,00 $
+440,00 $
+480,00 $
+14 500,00 $
+[10] Il a ainsi nié avoir fait le travail décrit à la pièce I‑4, prétendant qu'il s'agissait essentiellement de documents fictifs nécessaires pour transférer et sortir ses argents investis à titre de REER (Régime enregistré d'épargne retraire) dans le fonds de solidarité des travailleurs.
+[11] La preuve de l'intimé constituée des réponses obtenues lors du contre‑interrogatoire de l'appelant, et du témoignage de monsieur Éric Richard et de celui de madame Jacynthe Bélanger a fait ressortir un tout autre portrait de la situation.
+[12] En effet, il a été clairement établi que le travail exécuté par l'appelant ne cessait pas aux dates indiquées sur les relevés d'emploi. Ce dernier poursuivait son travail dans une dimension fort importante.
+[13] De plus, il ne s'agissait pas d'un travail d'une nature qui aurait pu se justifier comme étant une tâche propre à son statut de président du conseil d'administration et non, en sa qualité de directeur général. Il s'agissait principalement de tâches directement reliées à son travail de directeur général de l'organisation de la Coopérative Forestière de la MRC de Matane pour lequel il avait reçu une rémunération.
+[14] Je fais notamment référence au travail relatif à la perception de compte suite à l'exécution des travaux pour le compte des clients de la coopérative, de démarches pour recherche de nouveaux contrats pour l'année suivante, à la planification des activités, et ainsi de suite. Il s'agissait de tâches découlant spécifiquement de son travail de directeur général.
+[15] Il a tenté de contredire plusieurs passages de sa déclaration statutaire sous prétexte qu'il ne l'avait pas lui-même rédigée et qu'il avait été intimidé par les questions suggestives des enquêteurs.
+[16] À cet égard, le tribunal a constaté que l'appelant n'était pas du genre à se faire intimider, il était plutôt du genre à imposer sa perception des choses.
+[17] J'ai également remarqué certaines explications tout à fait farfelues de la part d'une personne ayant ses connaissances et son expertise, notamment lorsqu'il a affirmé que le fait de ne pas être payé faisait en sorte qu'il ne s'agissait pas de travail et conséquemment, cela ne devait pas être pris en considération par l'intimé.
+[18] Après avoir soutenu avoir consacré quelques heures de travail à titre d'emploi bénévole, l'appelant a été mis en contradiction par la production de son agenda (pièce I‑2) où on peut y lire un nombre très appréciable d'inscriptions démontrant de manière non équivoque que la charge de travail de l'appelant en dehors des périodes en litige était tout à fait considérable.
+[19] L'intimé a également produit (pièce I‑3), un volumineux document démontrant l'assiduité et les nombreux comptes de dépenses pour lesquels l'appelant s'est fait remboursé durant les périodes où il n'était pas, selon son témoignage, à l'emploi de la coopérative.
+[20] L'importance des comptes de dépenses de l'appelant en dehors des périodes en litige est clairement reflétée à la pièce I‑7, au paragraphe 18, il y a lieu de reproduire ce paragraphe :
+18. Des comptes de dépenses ont été produits de façon régulière par le travailleur en dehors de ses périodes d'emploi. En vérifiant ces documents, nous avons constaté que la majorité de ces réclamations comprenaient des dépenses de kilométrage. Afin de mieux quantifier les services rendus par le travailleur en dehors de ses périodes d'emploi, nous avons identifié, sur les tableaux ci-joints, les journées pour lesquelles des dépenses ont été réclamées par ce dernier. Ces tableaux nous ont permis de constater que :
+· En 1999, le travailleur a produit une réclamation de 1977 km en déplacement entre le 29 février et le 9 avril et de 805 km entre le 1er avril et le 31 mai. Des remboursements de dépenses ont été effectués au cours de ces périodes. Son premier jour de travail était le 3 mai 1999. (onglets D, E1, E2 E3)
+· En 2000, il a réclamé 602 km en janvier, 250 km en février, 200 km en mars, 300 km en avril et 1 200 km en mai. Son premier jour de travail était le 29 mai 2000. (onglets D, F1, F2, F3 et F4)
+· En 2001, il a réclamé 1 140 km en janvier, 500 km en février, 800 km en mars et 1 680 km en avril. Gilles Pelletier n'était pas inscrit au livre des salaires pour l'année 2002. (onglets D, I et J)
+[21] Au moment du contre-interrogatoire de l'appelant, l'avocat de l'intimé a voulu contredire ce dernier au moyen d'un agenda obtenu de l'employeur de ce dernier. L'avocat de l'appelant s'est vigoureusement objecté à la production d'une copie de cet agenda pour le motif que l'intimé ne lui en avait pas communiqué une copie lors de sa demande en vertu de la Loi d'accès à l'information, suite à laquelle il avait obtenu une copie du rapport d'enquête mieux connu par l'appellation CPT 101.
+[22] Ayant obtenu l'objection sous réserve, il y a lieu d'en disposer. L'avocat a fait valoir que l'intimé avait l'obligation de lui communiquer une copie de l'agenda dans le cadre de sa demande pour l'obtention du dossier.
+[23] Il a ainsi fait valoir que l'agenda constituait un élément fort important, voire déterminant pour la préparation du dossier de l'appelant.
+[24] Soutenant qu'il s'agissait là d'un document qui aurait dû lui en être transmis des suites de sa demande en vertu de la Loi d'accès à l'information, il a requis que cette partie du témoignage soit exclue de la preuve de l'intimé.
+[25] Dans un premier temps, je crois que le procureur de l'appelant voudrait utiliser les dispositions de la Loi en matière criminelle où tout manquement de la Couronne relativement à la communication de la preuve est souvent fatal pour la poursuite.
+[26] Ce genre de dispositions n'existe pas en matière d'assurance-emploi. Certes, l'intimé avait l'obligation, en vertu de la Loi d'accès à l'information de fournir les documents importants pour la préparation du dossier de l'appelant.
+[27] Cette obligation n'inclut toutefois pas la communication de copie de documents provenant d'un tiers. Face à de tels documents, l'intimé a le devoir et l'obligation de protéger les tiers. De plus, la preuve n'a pas été faite à l'effet que les formalités essentielles pour l'obtention des documents dans le cadre de la Loi d'accès à l'information avaient été respectées notamment au niveau des frais. Ainsi l'objection de l'appelant quant au droit de déposer une copie de l'agenda de l'appelant n'était pas bien fondée d'où elle était irrecevable.
+[28] L'appelant a aussi fait valoir que le tribunal devait limiter son analyse à la question du nombre d'heures assurables et non pas quant à l'assurabilité du travail effectué.
+[29] Cet argument vient du fait que lors de toute première détermination, il fut déterminé que le travail exécuté par l'appelant était un travail assurable, mais que le nombre d'heures assurables était beaucoup supérieur à celles mentionnées aux relevés d'emploi.
+[30] À la suite de cette première détermination, l'appelant a manifesté son opposition en demandant une révision de la détermination. Il contestait alors essentiellement la question des heures assurables, ses prétentions étant que seules les heures indiquées sur les relevés d'emploi étaient des heures assurables.
+[31] À sa demande, le dossier fut révisé et il fut déterminé que le tout du travail effectué n'était pas assurable. À partir de cela, il soutient que le tribunal devrait essentiellement décider si les heures de travail en litige en dehors des périodes indiquées sur les relevés d'emploi sont des heures de travail assurables.
+[32] Finalement, l'appelant a aussi fait valoir que le tribunal devait tenir compte que l'intimé avait formellement déterminé le travail de l'appelant assurable et que sa demande de révision avait comme seul objet le nombre d'heures assurables.
+[33] Je ne crois pas avoir l'autorité de déterminer si la décision du premier niveau était ou non la bonne. La seule décision dont il est fait appel et dont cette Cour est saisie est la détermination en date du 7 juillet 2005; des suites de cette détermination, l'appelant a déposé un avis d'appel qui, d'ailleurs, se lit comme suit :
+Motifs de l'appel
+Nous considérons que la décision est non fondée en faits et en droit compte tenu qu'il y avait relation employeur/employé et qu'il y avait ainsi un véritable contrat de louage de services.
+[34] L'appelant a sans doute été à l'origine de son grief ou l'artisan de la situation qu'il conteste et critique maintenant.
+[35] N'a-t-il pas lui-même formellement déclaré avoir effectué un nombre considérable d'heures assurables (pièce I‑4). En vertu de ce document, l'appelant a formellement attesté avoir travaillé 1 450 heures et avoir reçu une rémunération de 14 500 $, ce qu'il a catégoriquement nié par la suite au niveau de la révision.
+[36] Madame Bélanger, responsable du dossier lors de la révision, a effectivement cru l'appelant en lui permettant de contredire son écrit (pièce I‑4) pourtant valablement fait et a écarté ainsi le contenu du document en question. L'appelant voudrait donc être gagnant sur tous les tableaux.
+[37] Pour relever le fardeau de la preuve qui lui incombait, l'appelant a choisi de s'en tenir à son seul témoignage.
+[38] Suite à l'intervention du tribunal sur la question du double statut de l'appelant, ce dernier a immédiatement saisi la perche et, dès lors, soutenu que le travail fait en dehors des périodes indiquées aux relevés d'emploi s'inscrivaient dans le cadre de ses fonctions de président du conseil d'administration et non pas celles de directeur général.
+[39] Cette interprétation de dernière minute n'a été appuyée par aucun document, ni témoignage, elle a été sommaire et essentiellement verbale. En contrepartie, l'intimé a déposé divers documents démontrant sans l'ombre d'un doute, l'importance de l'implication de l'appelant dans les affaires de la coopérative en dehors des périodes indiquées aux relevés d'emploi.
+[40] Même si le tribunal tenait pour acquis, que la preuve a démontré qu'une partie de ce travail s'inscrivait dans le cadre du mandat de président du conseil d'administration, la balance et l'importance des tâches accomplies seraient, encore-là, à ce point important que la prépondérance de la preuve est à l'effet que l'appelant ne cessait aucunement de travailler aux dates mentionnées aux relevés d'emploi, comme il l'a indiqué verbalement.
+[41] Le témoignage de l'appelant, seul fondement de sa preuve, est très peu crédible; j'ai constaté d'importantes et nombreuses variables dans les explications fournies lors de l'interrogatoire principal par rapport à celles données lors du contre interrogatoire; notamment au niveau de la quantité substantielle de travail fait en dehors des périodes en litige.
+[42] De plus, n'a-t-il pas également reconnu avoir produit un faux document dont l'objectif était de retirer un montant de 14 000 $ enregistré comme REER auprès du fonds de la solidarité.
+[43] La prépondérance de la preuve est à l'effet qu'il avait manifestement une très grande influence sur la gestion des affaires de la coopérative, à un point tel qu'il était, de toute évidence roi et maître quant aux informations relatives à la façon et le comment et la durée du travail décrit aux relevés d'emploi.
+[44] En dehors des périodes en question, il poursuivait sensiblement le même travail à l'exception du volet de travail sur le terrain. Il voyait à ce que les contrats obtenus soient exécutés dans leur intégralité au niveau des sommes dues pour l'exécution du travail.
+[45] Il s'occupait également de la prospection et recherche de nouveaux contrats pour l'année suivante.
+[46] Parallèlement à ce travail essentiel, il s'occupait des relations avec tous les intervenants. À cet égard, les comptes de dépenses au niveau du kilométrage réclamé sont très révélateurs sur son emploi du temps et sur l'importance du temps qu'il y consacrait.
+[47] La prépondérance de la preuve est à l'effet que l'appelant bénéficiait manifestement d'une entente avec l'entreprise payeure qui profitait aux deux parties.
+[48] Pour l'employeur, l'entente avait pour effet de réduire la masse salariale. Pour l'appelant, il recevait des prestations d'assurance‑emploi et se faisait rembourser ses comptes de dépenses.
+[49] Comme je l'ai souvent indiqué la Loi sur l'assurance-emploi (la « Loi ») n'est pas une mesure de soutien financier à l'endroit des entreprises, il s'agit essentiellement d'une mesure sociale qui vise à venir en aide aux travailleurs qui perdent véritablement leur travail pour une période définitive ou partielle.
+[50] En l'espèce, les périodes de travail de l'appelant n'avaient rien à voir avec les périodes indiquées sur les relevés d'emploi. Il s'agissait plutôt d'une entente qui permettait aux parties de tirer avantage des bénéfices prévus par la Loi qui n'avaient rien à voir avec un véritable contrat de louage de services nécessitant la présence de trois conditions fondamentales :
+· Rémunération fonction du travail exécuté;
+· Lien de subordination;
+· Exécution véritable du travail rémunéré.
+[51] La preuve dont le fardeau incombait à l'appelant n'a pas démontré l'existence du lien de subordination qui ne se présume pas. De plus, la prépondérance de la preuve a établi que le salaire n'avait rien à voir avec la durée d'exécution du travail.
+[52] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI639
+Nº DU DOSSIER DE LA COUR : 2005-3397(EI)
+INTITULÉ DE LA CAUSE : GILLES PELLETIER et M.R.N.
+LIEU DE L’AUDIENCE : Matane (Québec)
+DATES -
+Audience : le 29 juin 2006
+Plaidoirie écrite de l'appelant : le 11 août 2006
+Réplique écrite de l'intimé : le 6 septembre 2006
+MOTIFS DE JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 24 novembre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Denis Tremblay
+Avocat de l'intimé :
+Me Martin Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant: Me Denis Tremblay
+Tremblay & Tremblay
+Matane (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

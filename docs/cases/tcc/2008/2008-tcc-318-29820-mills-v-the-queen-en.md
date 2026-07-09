@@ -1,0 +1,191 @@
+---
+title: "Mills v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29820/index.do"
+last_modified: "2008-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 318"
+citation2: ""
+neutral_citation: "2008 TCC 318"
+decision_date: "2008-05-26"
+language: "en"
+item_id: "29820"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6563
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:09:29.965000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91242d26b9c54701d0a16cecf3133a605cb650e01348102f3cec9a9a2f1a62d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mills v. The Queen
+
+- Citation: 2008 TCC 318
+- Decision date: 2008-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6563, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mills v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-26
+Neutral citation
+2008 TCC 318
+File numbers
+2007-1093(IT)APP
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1093(IT)APP
+BETWEEN:
+LOUIS MILLS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on May 28, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Applicant:
+Jacques Matte
+Counsel for the Respondent:
+Mounes Ayadi
+JUDGMENT
+Upon the Applicant's application for an order extending the time in which an appeal from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years may be instituted;
+And upon hearing the application;
+The application is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of May 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 9th day of July 2008.
+Brian McCordick, Translator
+Citation: 2008TCC318
+Date: 20080526
+Docket: 2007-1093(IT)APP
+BETWEEN:
+LOUIS MILLS,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] This is an application under section 167 of the Income Tax Act ("ITA") for an order extending the time in which to institute an appeal from the reassessments made for the 2003 and 2004 taxation years.
+[2] Subsection 167(3) of the ITA states that the application must be accompanied by three copies of the notice of appeal. Based on the notice of appeal, this dispute pertains to (i) a capital cost allowance of $50,000 in 2003 and $50,000 in 2004 in respect of a software licence, and (ii) a 50% penalty imposed under subsection 162(2) of the ITA.
+[3] The Applicant, Dr. Louis Mills, did not testify.
+[4] No evidence was submitted with respect to some of the facts alleged in the application.
+Facts
+[5] There was one witness, namely Fannie Roy Huard, an assistant financial planner with Pascale Cauchi. The Respondent tendered six exhibits.
+[6] Ms. Huard testified that the Respondent had been a client for 10 years and was a veterinarian in the Drummondville area.
+[7] Under the procedure in place, clients were notified that if they were assessed, they should immediately fax the documents to the office of Pascale Cauchi so that it could forward them [TRANSLATION] ". . . to the Prospector office, which mandated Jacques Matte to file any objection regarding the matter."[1]
+[8] Prospector Master owned the franchises that had been reassessed.
+[9] The Applicant asked that an objection against the reassessments be lodged.
+[10] Pascale Cauchi had more than 100 clients with this type of problem, but the Applicant's case was different because he was the only person to have been assessed by the federal authorities; the others were assessed by the provincial authorities.
+[11] The objections to the provincial assessments were made, and applications were filed with the Court of Québec.
+[12] The firm of Pascale Cauchi got a phone call from the Applicant, who told them that his bank account had been seized. This is when Ms. Huard learned [TRANSLATION] ". . . that the objection had not been filed as requested by the client."
+[13] On cross-examination, Ms. Huard confirmed that she had sent the fax in order for the objection to be filed by Prospector Master, not by attorney Jacques Matte.
+[14] On May 19, 2005, the Canada Revenue Agency wrote the Applicant to notify him that it would be examining his 2003 income tax return, and to request additional information (Exhibit I-1).
+[15] On July 11, 2005, the Canada Revenue Agency wrote to the Applicant again in order to notify him that it had not received anything further to its letter of May 19, 2005, and to request information again (Exhibit I-2).
+[16] On August 19, 2005, the Canada Revenue Agency wrote to the Applicant once again, stating:
+[TRANSLATION]
+Further to your telephone message of July 15 asking that we contact your attorney Mr. Matte, we left him messages on July 18 and August 16, 2005, but he never returned our calls.
+The letter explained to the Applicant that since he did not provide the information requested in the letters dated May 19 and July 11, 2005, the Canada Revenue Agency was contemplating a reassessment along with penalties totalling 50%. The letter stated that the Applicant had until September 6, 2005 to provide any information or explanations that he deemed helpful. It said that if the Agency did not receive the information by that date, it would issue a reassessment (Exhibit I-3).
+[17] The Minister assessed the Applicant on October 31, 2005, and the Applicant filed notices of objection dated November 8, 2005.
+[18] On January 25, 2006, the Canada Revenue Agency wrote Dr. Mills about the objection, asking him to contact the appeals officer as soon as possible (Exhibit I‑4).
+[19] On March 15, 2006, the Canada Revenue Agency wrote to Mr. Matte and sent a copy of the letter to the Applicant (Exhibit I-6). The first two paragraphs state:
+[TRANSLATION]
+We wrote and telephoned you about the above-mentioned objections, but, as of this date, we have received no answer.
+If you do not contact us by March 24, 2006, we will process the objections using the information that is in our possession.
+[20] The Minister confirmed the assessments on March 30, 2006.
+[21] The notice of account dated October 25, 2006 (Exhibit I-5, page 2) was received by Ms. Huard, who faxed it to Luc Bouchard. It is a final notice. Ms. Huard also received notices of account pertaining to the Applicant prior to that date.
+[22] The final notice states that the Agency may initiate collection measures if the amount is not paid or the Applicant does not notify the Agency that he intends to file a notice of objection.
+[23] Luc Bouchard is an employee of Prospector and is responsible for regulatory and tax issues.
+[24] He sent documents to the Canada Revenue Agency by fax on November 21, 2006 (Exhibit I-5).
+[25] The cover page says, among other things: [TRANSLATION] "[H]ere is the notice of objection for Louis Mills for the years 2003 and 2004". The notices of objection dated November 8, 2005, and the notice of account dated October 25, 2006, are attached to the cover page.
+[26] Ms. Huard said that she learned, around February or March 2007, that the Applicant's bank account had been seized.[2]
+[27] The application for an extension of time, dated February 27, 2007, was filed in this Court the following day.
+Analysis
+[28] The period prescribed by subsection 169(1) of the ITA for instituting an appeal from the confirmation of the reassessments ended in late June 2006. The instant application was filed in late February 2007, which is eight months later, and falls within the one-year period in which such an application may be made (this is the first condition that must be met by such an application.[3])
+[29] Paragraph 167(5)(b) of the ITA sets out four more conditions:
+(b) the taxpayer demonstrates
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[30] The Applicant did not argue that he was unable to act or instruct someone else to act in his name, and he did not argue subparagraph 167(5)(b)(iv) of the ITA. Thus, I must determine whether the evidence shows that the following three conditions have been met:
+(a) the taxpayer had a bona fide intention to appeal,
+(b) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(c) the application was made as soon as circumstances permitted.
+[31] We have no testimony from the Applicant concerning his intention. We have no testimony from Mr. Matte concerning the mandate that he was given and when it was given. We have no documents concerning that mandate.
+[32] All we have is the testimony of Ms. Huard, who acted as a liaison between the Applicant and Prospector, and who, in turn, "mandated" Mr. Matte.[4] She described the practice that was followed when clients were having problems with Revenu Québec or the Canada Revenue Agency, but her testimony did not establish that the Applicant specifically asked for an appeal to be lodged from the reassessments.
+[33] Her testimony was always about an objection, not a notice of appeal, even in response to a question that contained a reference to a notice of appeal.[5]
+[34] On November 21, 2006, Prospector sent the notices of objection to the Canada Revenue Agency even though the confirmation had been issued on March 30, 2006.[6] This would be surprising, assuming the Applicant sent the confirmation to Ms. Huard and asked that a notice of appeal be filed — a request that Ms. Huard would have forwarded to Prospector and that Prospector would have forwarded to Mr. Matte if the process that she described had been followed.
+[35] The evidence as a whole, and notably the elements that I have just described, lead me to the conclusion that the Applicant has not shown that he had a bona fide intention to institute an appeal within the time otherwise allotted.
+[36] Although it is not necessary to consider the other two conditions, I would add that even if a bona fide intention existed, the Applicant has not shown that the application for the extension was made as soon as circumstances permitted. Ms. Huard testified about when she became aware [TRANSLATION] "that the objection had not been filed as requested by the client."[7] However, without the Applicant's testimony, we do not know when he became aware that no appeal was under way, and thus, without knowing the starting point, there is no way of knowing whether the application was made as soon as circumstances permitted.
+[37] The result might have been different if the Applicant had testified and there had been evidence concerning certain allegations made in the application for an extension.[8] Following the initial hearing, I decided to reopen the hearing by telephone conference, and, given the special circumstances, I decided, exceptionally, to give the Applicant the opportunity to present additional evidence.[9] The Applicant chose not to present additional evidence.
+Conclusion
+[38] The Applicant has not shown that he meets all the conditions set out in subsection 167(5) of the ITA. Consequently, the application is dismissed.
+Signed at Ottawa, Canada, this 26th day of May 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 9th day of July 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC318
+COURT FILE NO.: 2007-1093(IT)APP
+STYLE OF CAUSE: LOUIS MILLS v. HER MAJESTY
+THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: May 26, 2008
+APPEARANCES:
+Counsel for the Applicant:
+Jacques Matte
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Jacques Matte
+Firm: Matte, Bouchard
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 11, question 7.
+[2] Transcript, pages 16-18, questions 30-35.
+[3] Paragraph 167(5)(a) of the ITA.
+[4] Transcript, page 11, paragraph 7. The process described by Ms. Huard appears to be an arrangement in which the client is told that if he is having problems with the tax authorities, he must notify them immediately, and Pascale Cauchi's firm will look after it (see above at paragraph 7) rather than an arrangement in which the client consciously decides to file a notice of objection. However, when asked another question, Ms. Huard said that the Applicant asked Pascale Cauchi's firm to file an objection to his assessment in his name (transcript, pages 11 and 12, question 8 — though the value of the answer was somewhat diminished by the fact that it was a leading question).
+[5] See paragraphs 7-15 of the transcript. The answer to question 15 refers to an objection, even though the question makes reference to a notice of appeal.
+[6] Exhibit I-5.
+[7] Transcript, page 13, question 15.
+[8] Notably the allegations made at paragraphs 4-8.
+[9] The Respondent was afforded the same opportunity.

@@ -1,0 +1,185 @@
+---
+title: "Hanmar Motor Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28040/index.do"
+last_modified: "2006-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 618"
+citation2: ""
+neutral_citation: "2007 CCI 618"
+decision_date: "2006-10-05"
+language: "fr"
+item_id: "28040"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1625
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:41:49.978000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f51a73cf940ac21b538c33e888b6c4ec5079e2740e0def480aee40bf2b3a0c63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hanmar Motor Corporation c. La Reine
+
+- Citation: 2007 CCI 618
+- Decision date: 2006-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1625, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hanmar Motor Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-05
+Référence neutre
+2007 CCI 618
+Numéro de dossier
+2004-2749(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2749(IT)G
+ENTRE :
+HANMAR MOTOR CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 octobre 2006, à London (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me Keith M. Trussler
+Avocate de l’intimée :
+Me Josée Tremblay
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI618
+Date : 20071016
+Dossier : 2004-2749(IT)G
+ENTRE :
+HANMAR MOTOR CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel intéresse une nouvelle cotisation fiscale établie pour l’année d’imposition 1999. Lorsqu’elle a produit sa déclaration de revenus pour 1999, l’appelante a demandé le report prospectif d’une perte de 1998. Le ministre du Revenu national a réduit le montant visé par le report prospectif en refusant la déduction, pour l’année d’imposition 1998, d’un paiement de 252 297 $ fait par l’appelant en règlement d’un litige touchant la Loi sur les normes d’emploi[1] de l’Ontario (la « LNE »). L’appelante fait valoir qu’elle a versé ce paiement en vue de tirer un revenu, qu’il s’agissait d’un paiement de nature courante et qu’il est donc déductible dans le calcul de son revenu sous le régime de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 1998. L’intimée soutient par ailleurs qu’il s’agissait d’une dépense à titre de capital – ou, subsidiairement, que s’il s’agissait d’une dépense de nature courante, celle‑ci n’a pas été engagée en vue de tirer un revenu – et qu’elle ne peut donc être déduite en raison de l’alinéa 18(1)b) – ou, subsidiairement, de l’alinéa 18(1)a) de la Loi.
+[2] L’appelante fabrique des véhicules de plaisance motorisés, comme ceux qu’on appelle familièrement des maisons motorisées, et elle exploite son entreprise à Kitchener (Ontario). À l’époque pertinente, Jeffrey Hanemaayer était l’unique actionnaire de l’appelante, et lui et son père, Jacobus Hanemaayer, en étaient les seuls administrateurs. Jeffrey Hanemaayer et Jacobus Hanemaayer détenaient la totalité des actions de Community Expansion Inc. (CEI), société de portefeuille immobilier, et de 798894 Ontario Ltd. (« 798 »), laquelle fabriquait des véhicules récréatifs non motorisés. L’appelante détenait la totalité des actions de 1148346 Ontario Ltd. (« 114 »), société de portefeuille inactive, et la totalité des actions de 930943 Ontario Ltd. (« 930 »).
+[3] La société 930, qui fabriquait aussi des véhicules récréatifs non motorisés, exerçait ses activités à Dunnville (Ontario). L’appelante avait investi une très forte somme dans 930, tant sous forme de capitaux propres que de créances. Cette société était dirigée (plutôt mal) par un groupe de cinq administrateurs, lesquels n’avaient pas d’autre lien avec les Hanemaayer. À l’époque pertinente, CEI était propriétaire des locaux situés à Dunnville qu’elle louait à 930. Cette dernière est devenue insolvable et a cessé ses activités en 1995. En qualité de locateur, CEI a alors exercé son droit de saisie‑gagerie relativement au matériel et à l’outillage de 930, dont une grande partie, voire la totalité, faisait l’objet de privilèges en faveur de l’appelante pour garantir un endettement d’environ 900 000 $. En raison des circonstances dans lesquelles 930 a cessé ses activités, ses anciens employés se sont retrouvés avec des créances non réglées pour salaires impayés, y compris les payes de vacances, les indemnités de cessation d’emploi et les indemnités de licenciement.
+[4] Les employés non payés ont exercé les recours prévus par la LNE et, le 4 juillet 1996, Jody Easson, agente des normes d’emploi, a rendu deux ordonnances en application de l’alinéa 65(1)c) de la LNE. Ces ordonnances obligeaient [traduction] « l’employeur » à payer une somme totale de 1 155 615,81 $ aux anciens employés de 930. Dans une lettre envoyée à l’avocat des personnes désignées comme employés dans les ordonnances, Mme Easson a par la suite ramené cette somme à 1 077 361,13 $.
+[5] À cette époque, la partie pertinente de l’alinéa 65(1)c) était ainsi rédigée :
+65(1) Si l’agent des normes d’emploi conclut qu’un employé a le droit de percevoir un salaire d’un employeur, il peut, selon le cas :
+[…]
+c) ordonner, par écrit, que l’employeur verse sans délai au directeur, en fiducie, le salaire auquel un employé a droit; il ordonne également à l’employeur de verser au directeur, à titre de pénalité, celle des deux sommes suivantes qui est la plus élevée, à savoir : 10 pour cent du salaire ou 100 $. […]
+Selon l’article 1, le terme « salaire » englobait les payes de vacances et les indemnités de cessation d’emploi, et le terme « employeur » recevait la définition élargie suivante :
+« employeur » S’entend notamment de ce qui suit :
+a) le propriétaire, le gérant, le surveillant, l’inspecteur, le séquestre ou le fiduciaire d’une activité, d’une entreprise, d’un travail, d’un métier, d’une profession, d’un chantier ou d’une exploitation qui contrôle ou dirige l’emploi d’une personne à cet égard, ou en est directement ou indirectement responsable,
+b) des personnes morales ou physiques, des firmes, des consortiums ou des associations liées ou connexes considérés comme un seul employeur aux termes de l’article 12, si l’un d’eux contrôle ou dirige l’emploi d’une personne à cet égard, ou en est directement ou indirectement responsable.
+Est comprise la personne qui a été un employeur.
+L’article 12 était ainsi libellé :
+12(1) Si, avant ou après l’entrée en vigueur de la présente loi, plusieurs personnes morales ou physiques, firmes, consortiums ou associations, ou une combinaison de ceux‑ci, gèrent ou ont géré des activités, des entreprises, des travaux, des métiers, des professions, des chantiers ou des exploitations liés ou connexes, et qu’une personne y est ou y était employée, ces personnes morales ou physiques, firmes, consortiums ou associations, ou une combinaison de ceux‑ci, sont considérés comme un seul employeur pour l’application de la présente loi, si l’arrangement a pour objet ou pour effet direct ou indirect de faire échec à l’intention et aux buts véritables de la présente loi.
+12(2) Les personnes morales, particuliers, firmes, consortiums ou associations considérés comme un seul employeur sont solidairement responsables d’une infraction à la présente loi et aux règlements.
+Les ordonnances précisent que l’« employeur » est 930943 Ontario Limited, Hanmar Motor Corporation, Community Expansion Inc., 1148346 Ontario Limited, M. Jeffrey Hanemaayer et M. Jacobus Hanemaayer. Les employeurs désignés ont présenté, en application de l’article 68 de la LNE, une demande de révision des ordonnances. Avant l’audition de cette demande, les parties ont conclu une transaction selon laquelle la somme à payer passait de 1 077 361,13 $ à 252 297 $, et les employeurs désignés s’engageaient à mettre fin à leur demande de révision des ordonnances. Le 20 novembre 1998, la Commission des relations de travail de l’Ontario a rendu une ordonnance sur consentement portant exécution de cette transaction. Avant la fin de l’année d’imposition 1998, l’appelante a satisfait à cette ordonnance en versant le paiement de 252 297 $, qui fait l’objet du présent appel.
+[6] La question dont je suis saisi consiste à savoir si l’appelante peut, sous le régime de la Loi, déduire le montant de ce paiement dans le calcul de son profit ou de sa perte pour l’année d’imposition 1998. Évidemment, l’examen de cette question doit tenir compte des interdictions prévues aux alinéas 18(1)a) et b). Les dispositions applicables de la Loi sont les suivantes :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+9(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[7] Je me propose d’adopter la méthode suivie par M. le juge en chef adjoint Bowman, tel était alors son titre, dans la décision International Colin Energy Corporation v. The Queen[2], où il s’exprime en ces termes :
+[43] L’approche adoptée par le juge Abbott [dans British Columbia Electric Railway Company Limited v. M.N.R., 58 DTC 1022, aux pages 1027 et 1028] a traditionnellement été suivie. On se pose d’abord la question : « Le versement a-t-il été effectué en vue de tirer un revenu d’une entreprise ou d’un bien? » Si la réponse est négative, la question de savoir s’il était à titre de capital n’est pas pertinente. Si la réponse est positive, on doit déterminer si l’alinéa 18(1)b) s’applique.
+[8] Selon la thèse avancée par l’appelante dans son avis d’appel et pendant l’instruction, elle a constitué 930 en société afin de fabriquer une gamme de produits complémentaires aux produits qu’elle fabriquait déjà à son usine de Kitchener. Dans son témoignage, M. Hanemaayer a mentionné qu’il était prévu que la synergie découlant de la copropriété et de l’exploitation des deux entreprises entraîne un avantage économique pour chacune d’elles, et j’ajoute foi à cette assertion. L’argument est donc le suivant : l’obligation de l’appelante de verser le paiement constituait une obligation juridique découlant du cadre normal de la détention des actions de 930, et il s’agissait donc d’une dépense engagée dans le cours des activités de l’entreprise de l’appelante. C’est l’étape suivante du raisonnement que je ne puis admettre.
+[9] Dans l’arrêt Symes c. Canada[3], la Cour suprême du Canada a signalé que, même si l’alinéa 18(1)a) est quelque peu tautologique, puisque le calcul du revenu ou de la perte en application de l’article 9 doit être effectué conformément aux principes bien reconnus de la pratique courante des affaires, cette disposition doit néanmoins être appliquée en conformité avec son sens ordinaire. Quelques années plus tard, dans l’arrêt Canderel Ltée c. Canada[4], M. le juge Iacobucci a donné encore plus de poids à cette affirmation lorsqu’il a déclaré ce qui suit au paragraphe 32 :
+[…] la détermination du bénéfice visé au par. 9(1) est une question de droit, non de fait. Les facteurs juridiques déterminants sont au nombre de deux: premièrement, l’existence d’une disposition expresse de la Loi de l’impôt sur le revenu commandant l’application d’un traitement précis à l’égard de certaines dépenses ou recettes, notamment la limite générale formulée à l’al. 18(1)a), et, deuxièmement, l’existence de règles de droit établies découlant de l’interprétation que les tribunaux ont donnée de ces diverses dispositions au fil des ans.
+[Non souligné dans l’original.]
+Dans la présente affaire, il faut donc répondre à la question suivante : l’appelante a‑t‑elle assumé l’obligation de verser le paiement pour tirer un revenu, que ce soit de son entreprise de fabrication ou de la détention des actions de 930?
+[10] La dépense en cause en l’espèce a été engagée non seulement par l’appelante, mais également par ses deux actionnaires, par ses deux filiales, 930 et 114, et par la société liée CEI. Il ne fait aucun doute que, s’ils avaient été payés par 930, les salaires remplacés par le paiement auraient constitué une dépense engagée par cette société et dont celle‑ci aurait pu légitimement tenir compte dans le calcul de son revenu. De même, si 930 avait été en mesure de respecter l’ordonnance rendue par l’agente des normes d’emploi, laquelle ordonnance a ultérieurement été négociée à la baisse à 252 297 $, et si 930 avait agi ainsi, le paiement aurait satisfait aux exigences conjuguées de l’article 9 et de l’alinéa 18(1)a). Dans l’une ou l’autre de ces éventualités, la somme aurait légitimement été considérée comme une rétribution payée par 930 pour le travail effectué par les travailleurs qu’elle employait dans le cadre de ses activités de production, et elle aurait donc été déductible dans le calcul du profit.
+[11] On ne peut dire la même chose des autres particuliers et sociétés qui étaient visés par l’ordonnance à titre d’employeurs et qui ont été déclarés responsables du paiement. Leur désignation comme employeurs ne tient qu’à une fiction prévue par la loi et créée en vue de protéger financièrement les employés de 930, et le fait qu’ils soient responsables, selon le droit provincial, de certaines dettes de 930 n’emporte pas qualification de cette dette, ni du paiement de celle‑ci, à des fins commerciales. Depuis l’arrêt British Columbia Power Corporation v. M.N.R.[5] de la Cour suprême, il est établi sans équivoque que, pour qu’une dépense soit déductible, il n’est pas nécessaire de prouver qu’elle a un lien avec un quelconque revenu précis. Il suffit de montrer que la dépense en cause a été engagée en vue d’exploiter l’entreprise. La présente cour a conclu que les dépenses engagées au titre de l’évaluation d’offres publiques d’achat et des communications faites aux actionnaires relativement à ces offres satisfont au critère prévu à l’alinéa 18(1)a)[6] parce qu’elles font [traduction] « […] partie intégrante de l’exploitation de l’entreprise, à savoir tirer un revenu […][7] ». Madame la juge Wilson a énoncé ce critère de la façon suivante dans l’arrêt Mattabi Mines Ltd. c. Ontario[8] :
+Tout ce qui importe, c’est que les dépenses aient été engagées légitimement dans le cours ordinaire des affaires et dans le but qu’il en découle ultérieurement un revenu imposable pour la compagnie.
+À mon avis, le paiement que l’appelante cherche à déduire ne peut répondre à ce critère. Le seul élément de preuve touchant la raison pour laquelle l’appelante a été désignée à titre d’« employeur » dans les ordonnances de l’agente des normes d’emploi consiste en l’assertion suivante faite par cette dernière dans un exposé des faits se rattachant aux ordonnances[9] :
+[traduction]
+Prononcé d’une ordonnance de payer.
+Toutes les sociétés susmentionnées ont été désignées dans l’ordonnance de payer sous réserve des articles 1 et 12 de la Loi sur les normes d’emploi.
+Jeffrey Hanemaayer et Jacobus Hanemaayer sont désignés à titre personnel sur l’ordonnance de payer parce qu’ils exercent un contrôle commun sur toutes les sociétés désignées ci‑dessus et qu’ils en ont la propriété commune.
+L’article 1 définit le terme « employeur » et, selon l’article 12, les personnes qui gèrent des activités connexes, etc., sont considérées comme un seul employeur.
+Malgré son caractère quelque peu sibyllin, cet « exposé des faits » établit que la désignation de l’appelante dans les ordonnances découle non pas d’une quelconque activité poursuivie dans le cadre de l’exploitation de sa propre entreprise, mais bien simplement du fait accessoire qu’elle détient les actions de 930 et qu’elle appartient au groupe de personnes morales que Jeffrey Hanemaayer et Jacobus Hanemaayer possèdent et contrôlent. Je n’arrive même pas à discerner un lien ténu entre ce paiement, versé sous la contrainte d’un texte législatif afin de rémunérer les travailleurs de la société liée 930 pour le travail qu’ils avaient accompli pour cette dernière, et les activités productrices de revenu de l’appelante. Payer les travailleurs de 930 ne fait en aucun cas partie de l’entreprise de l’appelante.
+[12] Je ne fais pas abstraction de la synergie mentionnée par M. Hanemaayer au cours de son témoignage, mais il ne pouvait y avoir une telle action coordonnée après que 930 fut devenue insolvable et eut cessé ses activités, ce qui s’est produit avant que 930 ne soit liée par cette obligation de payer que lui a imposée l’ordonnance de l’agente des normes d’emploi. Même s’il était possible d’avancer que cette synergie a survécu à l’insolvabilité de 930, le paiement ne pourrait être assimilé à une somme dépensée en vue de tirer un revenu. Au mieux, il s’agit d’un paiement que la loi obligeait l’appelante à verser pour des raisons découlant de sa détention des actions de 930 et de l’incapacité de cette dernière de remplir ses obligations salariales. Une ordonnance fondée sur l’article 12 de la LNE ne peut être rendue que si l’agent a conclu que l’objet ou l’effet de l’arrangement intervenu entre les personnes désignées comme l’employeur consistait à faire échec à l’intention de ce texte législatif. Dans l’affaire dont je suis saisi, l’intention visée par la LNE est de protéger le droit des employés de 930 à un salaire, au sens de la définition donnée à l’article 1. Il est difficile de voir comment, dans ce contexte, le paiement que l’appelante a fait pour se conformer à l’ordonnance, telle qu’elle a été modifiée par la transaction, pouvait permettre, ou avait pour objet de permettre, à l’appelante de tirer un revenu de son entreprise. Il s’agit d’une dépense qui n’a aucun lien avec la production d’un revenu pour l’appelante et qui ne pouvait donc qu’occasionner une réduction de son profit, pour la période en cause, d’une somme équivalant au montant du paiement.
+[13] De même, en 1996, cette dépense ne pouvait avoir contribué à la production d’un quelconque revenu tiré des actions de 930 en faveur de l’appelante. À ce moment, 930 était insolvable, elle avait cessé ses activités et ses immobilisations avaient fait l’objet d’une saisie‑gagerie par CEI. Les actions ne pouvaient manifestement pas permettre la production d’un revenu, quel qu’il soit. L’appelante ne pouvait changer cette situation en versant le paiement que la loi l’obligeait à faire.
+[14] L’appelante s’est largement appuyée sur deux décisions de la Cour, soit International Colin Energy Corporation v. The Queen[10] et BJ Services Company Canada v. The Queen[11]. Ces deux décisions portent sur la déductibilité de certains paiements faits dans le cadre de ce qui s’est finalement révélé être la fusion entre le contribuable et une autre personne morale. Cette situation ne présente toutefois aucune ressemblance avec l’affaire dont je suis saisi. Il est établi de longue date que ce genre de dépenses n’est pas exclu par l’alinéa 18(1)a) : voir l’arrêt British Columbia Power Corporation v. M.N.R.[12].
+[15] Comme je suis arrivé à la conclusion que la somme en cause n’a pas été versée en vue de tirer un revenu, il n’est pas nécessaire que j’examine l’argument de la Couronne voulant qu’il s’agisse d’un paiement à titre de capital. Cependant, si je devais trancher cette question, je serais enclin à convenir avec l’avocate de l’intimée que le paiement, parce qu’il était involontaire et imposé par la loi à l’appelante en raison de sa détention des actions de 930, est à juste titre considéré comme un paiement découlant de la détention des actions et donc comme un paiement à titre de capital.
+[16] Il importe que je me penche sur deux autres points, bien qu’ils n’aient pas été soulevés par les parties dans le cadre du débat. Le premier point concerne le moment choisi pour agir. L’appelante a demandé la déduction pendant l’année d’imposition 1998, soit l’année au cours de laquelle elle a effectué le paiement. Or, il me paraît évident que cette obligation a pris naissance lorsque Mme Easson a rendu ses ordonnances en juillet 1996. Lorsque ces ordonnances ont été signées, l’appelante, comme les autres employeurs désignés, a été tenue de « […] verse[r] sans délai au directeur, en fiducie, […] » 1 155 615,81 $, soit la somme déterminée par Mme Easson dans ses ordonnances. Il ne s’agit pas d’une situation comme celle de l’affaire M.N.R. v. Benaby Realties Ltd.[13], où le tribunal a conclu que le produit de disposition découlant de mesures d’expropriation n’avait pas à être ajouté au revenu tant et aussi longtemps que le contribuable et le détenteur du pouvoir d’expropriation ne s’étaient pas entendus sur le montant de l’indemnité à verser puisque le contribuable n’avait droit à aucune somme déterminée avant ce moment. En l’espèce, la dette a pris naissance par l’effet des ordonnances et des modalités de la LNE. Même si cette somme a ultérieurement été réduite dans le cadre d’une transaction mettant fin à la demande de révision, cela n’a aucune incidence sur le fait qu’il existait une dette pour la totalité de la somme pendant la période intermédiaire. J’ai invité les avocats à me soumettre des observations sur ce point lors de l’audition de l’appel, mais ils ont tous deux choisi de s’abstenir.
+[17] L’autre question que les avocats n’ont pas abordée au moment de l’audition concerne l’effet du paragraphe 12(2) de la LNE, lequel prévoit la responsabilité solidaire des diverses personnes morales ou physiques désignées comme employeur dans les ordonnances. Même si le paiement a été fait par l’appelante pour acquitter la dette, l’appelante aurait eu droit à la contribution des autres employeurs désignés[14]. Compte tenu de la conclusion que j’ai tirée relativement au premier point, il est toutefois inutile que j’examine plus avant l’une ou l’autre de ces questions.
+[18] L’appel sera rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI618
+NO DU DOSSIER DE LA COUR : 2004-2749(IT)G
+INTITULÉ DE LA CAUSE : HANMAR MOTOR CORPORATION c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 5 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 16 octobre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Keith M. Trussler
+Avocate de l’intimée :
+Me Josée Tremblay
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Keith M. Trussler
+Cabinet : Giffen & Partners
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.O. 1990, ch. E.14.
+[2] 2002 DTC 2185.
+[3] [1993] 4 R.C.S. 695, au par. 44.
+[4] [1998] 1 R.C.S. 147.
+[5] 67 DTC 5228.
+[6] Boulangerie St-Augustine Inc. v. The Queen, 95 DTC 164 (C.C.I.); BJ Services Company Canada v. The Queen, 2004 DTC 2032 (C.C.I.).
+[7] British Columbia Power Corporation v. M.N.R., précité, note 5, à la p. 5264.
+[8] [1988] 2 R.C.S. 175, à la p. 189.
+[9] Exposé des faits, pièce A-1, onglet 14, p. 3.
+[10] Précitée, note 2.
+[11] 2004 DTC 2032; 2003 CCI 900.
+[12] Précité, note 5.
+[13] 67 DTC 5275.
+[14] Husky Oil Operations Ld. c. M.R.N., [1995] 3 R.C.S. 453; Bradley Crawford, Crawford and Falconbridge: Banking and Bills of Exchange, 8e éd., Toronto, Canada Law Book, 1986, vol. 2, aux p. 1839 et 1840.

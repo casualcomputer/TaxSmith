@@ -1,0 +1,669 @@
+---
+title: "Boucher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28027/index.do"
+last_modified: "2006-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 189"
+citation2: ""
+neutral_citation: "2006 TCC 189"
+decision_date: "2006-04-11"
+language: "en"
+item_id: "28027"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1613
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:10:17.158000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "561f27680d1eacd42695c3ddc9c917fd53d58c0c7c6a9d6edd055e8e06791018"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boucher v. The Queen
+
+- Citation: 2006 TCC 189
+- Decision date: 2006-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1613, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-11
+Neutral citation
+2006 TCC 189
+File numbers
+2004-4765(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4765(GST)I
+BETWEEN:
+GISÈLE BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 26 and 27, 2005, at Sherbrooke, Quebec,
+and on December 5, 2005, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Frank Archambault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears the number 4-17-5065 and is dated November 29, 2004, for the period from July 1, 1997, to December 31, 2000, is allowed in part. The penalty shall be recalculated having regard to the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 11th day of April 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of May 2007.
+Susan Deichert, Reviser
+Citation: 2006TCC189
+Date: 20060411
+Docket: 2004-4765(GST)I
+BETWEEN:
+GISÈLE BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] Following an audit done by a representative of the Ministère du Revenu du Québec (the "MRQ"), the Appellant received a notice of assessment dated March 11, 2003, bearing the number 2-17-5106, for the period from July 1, 1997, to December 31, 2000. Pursuant to the Excise Tax Act (the "Act"), the assessment adjusted the net tax of $21,008.25, the $4,439.75 in interest, and the $7,102.03 in penalties. The Appellant objected, and a notice of reassessment dated November 29, 2004, and bearing the number 4‑17‑5065, was issued in respect of the same period to take account of the Appellant's revised unreported business income for the 1997 taxation year. The assessment is now $20,311.54, plus $4,240.05 in interest and $6,644.25 in penalties. This is an appeal from the latter reassessment.
+[2] The unreported income on which the Respondent's assessment is based was determined by the auditor using the deposit method. As revised, the unreported income for the 1997 taxation year is $42,117, the unreported income for the 1998 taxation year is $185,521, and the unreported income for 1999 is $70,736. In addition, expenses of $4,544 were disallowed for 1998 on the ground that they were personal expenses. All of this unreported income was considered to consist of taxable supplies that were subject to $20,311.54 in unremitted goods and services tax (GST), plus interest and penalties.
+[3] The Appellant and her husband operated a business called "Bar Le Griffon" (the "bar") until he died in 1993. The Appellant continued to operate the bar on her own until February 11, 1998, at which time she sold it to 9056-4428 Québec inc. (the "Corporation"). The sole shareholder of the Corporation is Diane Leclair, wife of Guy Boucher, the Appellant's son. The Corporation rents premises on the ground floor of a building that belongs to the Appellant and is adjacent to her dwelling. Only a door separates the two premises. There are four apartments on the upper floor. The Appellant's son Guy lived in an apartment with his wife after the Appellant's husband died, and, in 1995, they lived with the Appellant. During the period in issue, the son operated a garage where he repaired cars. According to the evidence, the Appellant continued to be actively involved in the management of the bar after it was sold. She was always the one who looked after deposits because her daughter-in-law worked days and her son split his time between the bar and the garage.
+[4] The MRQ audited the Corporation, as well as a corporation involving its sole shareholder, Diane Leclair, and her husband, Guy Boucher. The audit of the Corporation was related to the operation of the bar in question. Auditor Sylvain Genest went to the Caisse populaire de Richmond to obtain information about the bank accounts and was informed that Guy Boucher had powers of attorney in respect of two of the Appellant's bank accounts. This led the auditor to investigate the Appellant's income, whereupon he discovered that the Appellant had reported a loss of $14,000 in 1998 from the operation of the bar. Knowing that the Appellant had sold the bar in February 1998, he decided to audit her.
+[5] The two bank accounts of the Appellant over which her son had powers of attorney are folios #8352 and #13399. After examining the transaction history for these accounts and obtaining documents from the Appellant's accountant, the auditor determined that he would have to use the deposit method. This decision was necessary because, in view of the number of transactions, which included several large deposits, and in view of the fact that the accountant was unaware of the existence of folio #13399, it was difficult to account for what had been sold or for the transactions at the bar.
+[6] The audit began in March 2001. The analysis using the deposit method produced the following results:
+[TRANSLATION]
+Gisèle Boucher: Folios #8352 and #13399
+Analysis Based on the Deposit Method
+Appendix 1
+31/12/1997
+31/12/1998
+31/12/1999
+31/12/2000
+Deposits - folio #8352
+$378,753.10
+$166,537.54
+$88,982.26
+$30,729.49
+Deposits - folio #13399
+PCA [Pers. Cheq. Acct.]
+$30,010.00
+RS1 [Reg. Savings Acct. 1]
+$36,001.00
+$62,731.66
+$6,000.00
+closed
+Deposit subtotal
+$414,754.10
+$259,279.20
+$94,982.26
+$30,729.49
+less:
+Reported income
+$9,900.00
+$48,527.28
+$24,246.71
+$30,123.00
+Gross income "Bar Le Griffon"
+(Business and rental income entered as gross)
+$315,355.00
+$21,935.27
+GST to remit
+$22,074.85
+$1,535.47
+QST to remit
+$25,307.24
+$1,760.31
+Income subtotal
+$372,637.09
+$73,758.32
+$24,246.71
+$30,123.00
+Unreported income
+$42,117.01
+$185,520.88
+$70,735.55
+$0.00
+Explanations
+The following amounts were removed from the deposits:
+"folio #8352"
+"VIM" [manual transfer at counter] 12/02/1998 from folio #13399
+$4,000.00
+"VIM" 18/02/1998 from folio #13399
+$20,000.00
+"CT" [misc. deposit] re "LN1" [Loan 1] on 13/10/1998
+$10,000.00
+Gift received from Guy Boucher on 27/10/1999
+$38,311.40
+"folio #13399"
+Sale of a Corvette on 4/6/1999
+$30,000.00
+"VIM" on 15/10/1998 from folio #8352
+$3,000.00
+The following DSLs [no-book deposits] are cheques that were made and must be removed from the folio #8352 deposits.
+29/10/98
+$214.90
+18/01/99
+$225.00
+13/04/99
+$45.14
+26/04/99
+$183.81
+8/06/99
+$51.75
+26/07/99
+$42.00
+29/12/99
+$124.25
+18/01/99
+$53.86
+4/02/99
+$51.33
+11/02/99
+$50.00
+23/06/99
+$70.42
+24/08/99
+$58.14
+24/11/99
+$50.96
+14/12/99
+$109.00
+23/12/99
+$51.82
+16/03/00
+$96.68
+Total DSLs corresponding to cheques:
+$ -
+$214.90
+$1,167.48
+$96.68
+[7] This table shows the total of all deposits made into the Appellant's folios #8352 and #13399. The deposits were compiled monthly for each of the years during the period in issue, and included DSLs [no-book deposits] in which nothing was deposited. The breakdown can be found in Appendix 3 of the analysis. From these amounts, the auditor deducted the income (both from the bar and from the rental units) that the Appellant had reported in her income tax returns, as well as the GST and Québec sales tax (QST) collected on the reported gross income, and other amounts found in Appendix 1. These calculations resulted in the discrepancy entered in Appendix 1 under the heading "Unreported income". Appendix 1 also records certain transfers into the two accounts which, upon consideration, were removed from the deposits.
+[8] The auditor was unable to identify the DSLs or link them to anything whatsoever, other than the fact that they can be found in the Caisse populaire microfiches. According to the auditor, these DSLs consisted of cheques that were cashed at the Caisse populaire and then re-cashed by the Appellant. The Appellant's accountant did not provide the auditor with any explanations or supporting documents with regard to this situation, except the cheques found at Tab 6 of Exhibit A‑1. The cheques at Tab 5 were not provided to him.
+[9] The auditor examined the deposit slips and the receipts and disbursements for the period in which the bar was operated, but that information was incomplete, and he had to supplement it with the microfiches from the Caisse populaire. Further, in Appendix 2, the auditor explains certain input tax credits that he disallowed. According to the information obtained from the Appellant's accountant, the Appellant used the cash basis of accounting and there were no year-end adjusting entries. The auditor acknowledges that, in the deposits into account #8352, he included amounts that may have included video lottery terminal revenues payable to the Société des loteries vidéo du Québec. He did not remove these amounts from the deposits because there were no supporting documents regarding the amounts.
+[10] The auditor was unable to trace the source of the discrepancies identified by his audit. The discrepancies consist of income that went through the accounts, and there appear to be various kinds of income, but he cannot identify them. He took folio #13399 into consideration because the Appellant made the deposits into that account and signed the cheques drawn on it despite the fact that her son Guy had a power of attorney. In fact, the auditor attributed the account to the Appellant because her son Guy had other accounts at the same Caisse populaire.
+[11] At the objection stage, the file was assigned to Luc Veillette. Mr. Veillette noticed that a few errors had been made in the Appellant's favour, but in order to avoid penalizing her more, he decided not to make any corrections. Apparently, the reported income of the bar, i.e., $21,935, was included twice, and a Guaranteed Income Supplement (GIS) payment to the Appellant was not subtracted. The net result was a benefit of $14,436 that should have been added to the Appellant's unreported income. This error occurred because the Appellant failed initially to report this GIS payment in her 1997 income tax return.
+[12] On cross-examination, reference was made to a sum of $16,000 that was paid to the Appellant upon the sale of the bar and should have offset the unreported income by an equal amount, and to a sum of $24,964 attributable to Loto-Québec. According to Mr. Veillette, neither amount was subtracted from the reported income because there was no evidence that the $16,000 had actually been deposited into the Appellant's account. No supporting documents were tendered to confirm the amount. The cross-examination also raised the question of how the no-book deposits were dealt with. The Appellant submits that they should be subtracted from the total income computed using the deposit method. A "DSL" [dépôt sans livret] is a deposit made without a deposit book. According to the first page of the analysis that is reproduced above and can also be found at Tab 2 of Exhibit I‑2, some of these deposits were subtracted from the unreported income for the years 1998, 1999 and 2000. However, the number of "undeposited" DSLs is much higher, and can be found in Appendix 3 of the same exhibit. The auditor reconstructed these deposits from the Caisse populaire's microfiches, and they are taken into account in determining the unreported income.
+[13] The issue of the DSLs has arisen because the Appellant would go to the Caisse populaire with cheques endorsed by customers of the bar and would exchange those cheques for cash. The cash was not deposited, but the Caisse populaire's microfiches contained an accounting entry indicating that a cheque had been the subject of a transaction on the account without an actual deposit appearing in the Caisse populaire's microfiches.
+[14] In fact, two witnesses testified about the manner in which the Appellant exchanged cheques. Paul Desmarais testified that he went to see the Appellant at the bar five or six times to exchange cheques. This enabled him to avoid having to wait three or four days to get his money. The biggest cheque was for $125. On cross‑examination, Mr. Desmarais said that this transaction was carried out behind the bar and that the Appellant took the money from her wallet. He added that he would take his cheque back four or five days later and repay the money that had been advanced to him. As for Sylvain Dubé, he explained that he endorsed his cheque over to the Appellant and that she went to the Caisse populaire to exchange it. She gave him the money when she got back. He did not necessarily have any drinks in connection with these transactions. A series of similar cheques, including Mr. Dubé's cheque, was adduced in evidence by the Appellant. The reverse of the cheque contains the endorsement [TRANSLATION] "For Deposit Only to the Account of Gisèle Boucher, Folio #8352." Some of these cheques contain this endorsement, while others do not. They all date back to 1997.
+[15] Diane Leclair and Guy Boucher were also assessed. The assessments of the Corporation and Guy Boucher pertained to the GST. In his audit report, Sylvain Genest writes that Guy Boucher filled out a credit application in 1998 stating that he had been the owner of the bar in question for three years. Mr. Genest's report also says that the bar belonged to the Appellant until February 11, 1998, when it was sold to a corporation the shares of which were wholly owned by Diane Leclair. Mr. Genest's report adds that according to the auditor who had audited the Appellant for a period ending in June 1997, Guy Boucher is closely involved in the operation of the bar. In fact, Mr. Genest even adds that Mr. Boucher apparently was the one who made decisions regarding operations, that he has powers of attorney over his mother's bank accounts, and so forth. Mr. Boucher was made a registrant under the Act retroactively to 1994, and the audit was related to the period from January 1, 1994, to December 31, 2000. Guy Boucher was assessed under the Act for unreported income from the operation of the bar during that period.
+[16] According to the books, on February 11, 1998, the Appellant ceased being registered as an agent for the purposes of the Act. It should also be noted that the audit disclosed no discrepancy between the accounting books and the reported GST and QST. It was the unreported income that was assessed. However, there was no way to identify the sales based on the monthly income reports.
+[17] Mr. Genest's testimony, especially on cross-examination, dealt primarily with certain cash deposits which the Appellant is alleged to have made during the years covered by the assessment and which are apparently not from the operation of the bar. The deposits in question were identified in a table prepared by Accountant Claude Bérard to explain the makeup of the $166,537 deposited in 1998 and the $88,982 deposited in 1999. I will reproduce this table (Exhibit A‑1, Tab 4) below because it will be relevant in assessing the testimony of each of the Appellant's witnesses. The table does not cover the year 2000 because the analysis using the deposit method did not yield any discrepancy for that year.
+[TRANSLATION]
+1 — 1997
+Photocopies of cheques provided to Revenu Québec, totalling $48,786.08, in connection with undeposited DSLs that were included in the $378,753.10 in total deposits.
+These undeposited DSLs were related to cheques issued to people, most of whom were Bar Le Griffon customers. Ms. Boucher accommodated these people by going to the Caisse populaire across the street from the bar and cashing the cheques. Several of the people did this because they had no bank account. Thus, the bar's cash was not utilized in order to negotiate the cheques.
+The undeposited DSLs were not unreported income and, consequently, the reassessment for the year 1997 should be cancelled in its entirety.
+2 – 1998
+$166,537 in deposits is explained as follows:
+Þ Sales by Bar Le Griffon, operated by Ms. Boucher
+until February 18, 1998
+Amount
+$21,935
+Þ Rental income
+$24,950
+Þ Proceeds from the sale of equipment upon the transfer of the bar to Guy Boucher on February 18, 1998
+$16,000
+Þ Deposits made by Guy Boucher to cover the payments to be made to Loto‑Québec for the period from February 19, 1998, to June 30, 1998. The permit for the operation of the video lottery terminals was transferred by Loto‑Québec to Guy Boucher's corporation on June 30, 1998.
+$29,964
+Þ Cheques from customers negotiated by Ms. Boucher directly at the Caisse populaire
+$20,553
+Þ Direct deposits of Guaranteed Income Supplement cheques
+$7,589
+Þ Other deposits of cash given by Guy Boucher as compensation to his mother for providing him with lodging throughout the year ($1,000 x 12 months)
+$12,000
+Þ Other cash deposits by Ms. Boucher
+$38,546
+$166,537
+The remaining cash deposits, totalling $38,546, were made from the cash that Ms. Boucher kept at home following the closing, in 1993, of two safety deposit boxes that had been kept at the Caisse populaire de Warwick et de Richmond.
+It should be noted that these remaining deposits consisted almost entirely of $50 and $100 bank notes.
+The cash that Ms. Boucher kept at home in late 1996 amounted to approximately $80,000 and came from the following sources:
+Þ One-half of her husband Gaétan Boucher's account balance at the Caisse populaire de Warwick (Gaétan Boucher died in 1993)
+Amount
+$15,162
+Þ Cash received upon the death of her husband in 1993
+$25,000
+Þ Cash received upon the death of Aurelle Boucher in 1994
+Þ Proceeds of insurance paid by Metropolitan Life on October 12, 1993, following the death of her husband
+$20,000
+$19,107
+$79,269
+3 - 1999
+$88,982 in deposits is explained as follows:
+Þ Rental income
+Amount
+$24,120
+Þ Cheques from Bar Le Griffon customers, negotiated by Ms. Boucher directly at the Caisse populaire
+$9,963
+Þ Direct deposits of Guaranteed Income Supplement cheques
+Þ Compensation paid by Guy Boucher to his mother for lodging
+Þ Other cash deposits by Ms. Boucher
+$4,884
+$12,000
+$38,015
+$88,982
+[18] Marc Rochon testified that in February 1998, the Appellant was given a cheque for $25,065.83 because she was the beneficiary of a life insurance policy. However, this amount does not appear in the list of deposits reproduced above.
+[19] The Appellant called Normand Houle, her personal income tax accountant starting in 1997, as a witness. Mr. Houle recalls having done the income statement for the bar before the incorporation of the Corporation and the sale to that company. His testimony focussed on his analysis of the banking transactions on the Appellant's accounts #8352 and #13399 during the years 1997, 1998 and 1999, and, in particular, entry errors in deposits that need to be reversed. These errors are identified by the code "CCT" in the Caisse populaire statements. Thus, he compared those statements with the deposit slips to make sure that what he was saying was correct. He also concluded, based on his analysis, that all the transactions on account #13399 involved Guy Boucher, even though he acknowledged that the Appellant made all the deposits and that the account is in her name. I reproduce the result of his analysis below:
+[TRANSLATION]
+1. For the year 1997, you deposited a total of $378,538.20 into folio #8352.
+Our verifications arrive at a total of $391,491.09, broken down as follows:
+1997
+Deposit
+January
+$29,022.76
+February
+31,415.56
+March
+22,762.07
+April
+31,399.96
+May
+42,601.48
+June
+27,814.44
+July
+33,837.30
+August
+35,920.54
+September
+28,793.76
+October
+41,237.08
+November
+28,425.18
+December
+38,260.96
+$391,491.09
+We have determined that $56,617.06 was mistakenly included in these deposits because this amount appears to have been debited to the "CCT" account. The breakdown is as follows:
+1997
+Deposit
+January
+$4,778.64
+February
+8,269.06
+March
+1,396.60
+April
+2,850.00
+May
+12,108.75
+June
+950.00
+July
+6,442.00
+August
+1,792.00
+September
+1,362.00
+October
+11,076.57
+November
+-----
+December
+5,591.44
+$56,617.06
+To summarize Point 1, when the deposit correction of $56,617.06 is subtracted from the $391,491.09 in deposits, the actual total amount deposited is $334,874.03.
+You are considering the amount of $378,538.20 when the deposits actually total $334,874.03. The difference of $43,664.17 accounts for the income that you characterize as "unreported".
+2. For the year 1998:
+(A) With respect to folio #13399 ("PCA") [Personal Chequing Account], our verification achieves the same result as your audit, i.e., $30,010 in deposits. However, all these amounts come from Ms. Boucher's son, Guy Boucher.
+(B) With respect to folio #13399 ("RS1") [Regular Savings Account 1], the amount of $62,731.66 is also from Guy Boucher and is not part of Ms. Boucher's income.
+(C) With respect to account #8352, the total deposits for the year amount to $187,713.08, broken down as follows:
+1998
+Deposit
+January
+$47,900.81
+February
+51,051.48
+March
+10,485.02
+April
+13,034.28
+May
+11,528.06
+June
+11,128.05
+July
+3,635.80
+August
+2,718.00
+September
+2,002.42
+October
+13,871.64
+November
+4,100.00
+December
+16,257.52
+$187,713.08
+This amount must be reduced by the following deposit errors which were debited:
+1998
+Deposit
+January
+$14,006.74
+February
+2,020.00
+December
+4,926.57
+20,953.31
+$166,759.77
+The following transfers must also be removed:
+1998
+Deposit
+February 12
+$4,000.00
+February 18
+20,000.00
+October 13 (loan)
+10,000.00
+34,000.00
+$132,759.77
+Moreover, the Loto-Québec revenues belonging to Bar Le Griffon must be removed:
+1998
+Deposit
+Subtotal brought forward
+$132,759.77
+Loto-Québec revenues from Bar Le Griffon
+(24,840.00)*
+Cheques exchanged
+(13,581.67)*
+Deposits belonging to Bar Le Griffon
+(19,745.00)*
+(58,166.67)
+$74,593.10
+* The breakdown of these three amounts follows.
+1998
+Cheques exchanged
+Deposits
+Lottery
+February
+$1,036.00
+$
+$1,230.00
+784.88
+1,190.00
+201.45
+2,020.00
+1,089.95
+1,000.00
+908.75
+1,540.00
+March
+24.47
+1,000.00
+1,470.00
+144.00
+1,500.00
+1,161.00
+565.00
+April
+3,413.49
+$500.00
+1,617.00
+313.17
+1,000.00
+1,090.00
+490.00
+710.00
+1,450.00
+442.00
+May
+1,366.00
+1,100.00
+900.00
+500.00
+1,605.00
+2,910.00
+June
+1,811.65
+400.00
+1,350.00
+476.95
+105.00
+2,170.00
+1,000.00
+1,870.00
+July
+CSST
+468.16
+500.00
+500.00
+500.00
+200
+August
+850.36
+September
+134.78
+October
+1,000.00
+1,000.00
+1,000.00
+November
+2,000.00
+December
+557.51
+3,000.00
+________
+1,000.00
+_________
+$13,581.57
+$19,745.00
+$24,840.00
+In summary, for the year 1998, if the fact that the amounts in account #13399 ("PCA" and "RS1") belong to Guy Boucher is taken into account, Ms. Boucher has $74,593.10 in deposits to report, less the reported income of $73,758.82. This results in an unexplained difference of $834.76, as opposed to $185,112.94.
+3. For the year 1999:
+(A) Account #13399, in the amount of $6,000, belongs to Guy Boucher.
+(B) Below is the analysis of the deposits for account #8352:
+1999
+Deposit
+January
+$7,939.00
+February
+5,277.00
+March
+7,734.00
+April
+6,687.13
+May
+5,656.33
+June
+4,498.00
+July
+5,229.43
+August
+4,533.93
+September
+7,007.08
+October
+46,219.95
+November
+3,347.57
+December
+4,817.57
+108,896.99
+(A) Less a gift received from Guy Boucher
+38,311.40
+70,585.59
+(B) Less the Guaranteed Income Supplement that was not reported because it is not taxable
+4,883.55
+65,702.04
+(C) Cheques returned by the Caisse
+-March 1999
+$1,150.00
+-April 1999
+1,500.00
+-April 1999
+550.00
+3,200.00
+62,502.04
+(D) Cheques exchanged
+(7,021.35)*
+55,480.69
+(E) Deposit of Guy Boucher
+(25,645.00)*
+$29,835.69
+The breakdown of these two amounts follows.
+1999
+Cheque exchanges
+Deposits of Guy Boucher
+January
+$794.00
+$5,645.00
+February
+502.00
+1,000.00
+525.00
+March
+224.00
+1,000.00
+560.00
+1,500.00
+April
+280.73
+2,000.00
+218.03
+1,500.00
+82.97
+500.00
+May
+896.00
+June
+1,000.00
+1,000.00
+July
+635.00
+1,000.00
+August
+284.00
+1,000.00
+September
+138.50
+2,000.00
+1,000.00
+October
+991.12
+1,000.00
+1,000.00
+November
+351.00
+500.00
+35.00
+504.00
+December
+2,000.00
+1,000.00
+$7,021.35
+$25,645.00
+In summary, for the year 1999, if the fact that folio #13399, in the amount of $6,000, belongs to Guy Boucher is taken into account, the amount of actual deposits into account #8352 is $29,835.69, not $86,844.93, for a difference of $57,009.24, which should be subtracted from the $68,598.22 in unreported income.
+[20] In addition to his analysis above, which utilized the deposit method, Claude Bérard did a net worth analysis. He determined that this was necessary because of the problems raised by the deposit method, owing especially to the DSLs and the trouble identifying the source of the funds that justify the $38,546 in deposits that Ms. Boucher made in 1998 and the $38,015 in deposits that she made in 1999. Mr. Bérard testified that these were cash deposits in $50 and $100 denominations. He added that it makes more sense to proceed using the net worth method because that was the method used to audit the Corporation, Guy Boucher and his spouse and because the Appellant, her son and the bar shared the same accounts. However, his testimony revealed that the source of the funds could not be established more precisely by the net worth method than by the deposit method, and that no cash transactions during the year would figure into the calculations.
+[21] The opening balance sheet for the purpose of calculating the difference using the net worth method shows $80,000 in cash on hand in 1996. This amount apparently consists of $19,107 in proceeds from the life insurance of the Appellant’s spouse received on October 12, 1993, $30,323 in an account belonging to the Appellant's spouse on December 31, 1992, and roughly $25,000 in cash in a safety deposit box. The Appellant sent this information (except the information about the money in the safety deposit box) to Mr. Bérard along with supporting documents. Mr. Bérard says that he did not need to do a deposit method analysis to complete his calculations of the difference based on net worth.
+[22] Based on his calculations using the deposit method, Mr. Bérard agrees that the total deposits, as calculated by the auditor, are accurate, but he says that the no‑book deposits should be subtracted because they always consisted of cheques that were exchanged and not deposited. In fact, he went through the process for 1997 by verifying and producing the undeposited cheques. He relied on the amount established by the auditor for the years 1998 and 1999.
+[23] The Appellant testified that she was always responsible for depositing the bar revenues, even after she sold her interest. Her daughter-in-law was busy during the daytime, and her son split his time between the bar and his garage. In fact, since her son did things in what he termed a [TRANSLATION] "family‑oriented" way, the cash boxes, and the envelopes of money, were kept at her home. She would sometimes even take some money if she needed it, but she had to give it back. She acknowledges that the revenues from the bar were deposited into account #8352 and that this account was used both for bar-related and personal purposes. She stated that she did indeed continue to deposit the video lottery terminal revenues into account #8352 after the sale of the bar in February 1998 until the permit was transferred to the Corporation. Loto-Québec was authorized to withdraw what it was owed from account #8352 every week.
+[24] The Appellant testified that she cashed cheques for customers or for her tenants using cash from the bar or envelopes of money that she kept, or — and this is what all the witnesses testified were the DSLs — by going to the Caisse populaire to exchange the cheques for money without making a deposit. The Appellant received $5 to $10 in compensation for going to the Caisse populaire.
+[25] The Appellant testified that the accountant used the deposit slips from account #8352 to prepare her income statements. Into this account she deposited her rent, pensions, and, sometimes, the cash which she had at home or which was in her safety deposit box. When questioned about the source of the funds in her safety deposit box, she mentioned an amount of $30,323 that her husband had held in an account at the Caisse populaire upon his death, a further $25,000 that he had also held in a safety deposit box, and an amount of $19,107 representing the proceeds of an insurance cheque that were placed in her safety deposit box. In fact, these amounts constitute the cash on hand that the witness Bérard used as a starting point from which to calculate the difference using the net worth method. The Appellant added that she also had $10,000 to $15,000 in another safety deposit box, as well as $7,000 to $8,000 in cash that she kept at home. However, she added that she gave her son Guy one-half of the amounts of $30,323, $25,000 and $19,107 after her husband died, and that all this money was in the safety deposit box because the box was in her name and in her son's name.
+[26] She explained that she cashed the cheque for $19,107 and that she wished to retain that cash because she did not want to pay tax on the amounts in question. However, she explained that she would occasionally deposit money from the safety deposit box into account #8352. Nevertheless, she cannot provide any specifics regarding the amounts of these deposits or say whether the money was from the box or from the $7,000 to $8,000 that she kept at home at all times in an envelope.
+[27] When questioned about the $38,546 in deposits in 1998 and the $38,015 in deposits in 1999 identified in Accountant Claude Bérard's table, the Appellant said that she believes that these amounts are from the inheritance. She took some of the money to pay her expenses and those of her son. The Appellant was also questioned about the sale of the bar, and she responded that she received $16,000 in cash from that sale. She cannot say whether the amount was deposited in whole or in part or whether all of it ended up in the safety deposit box.
+[28] The Appellant states that after the bar was sold, her only income was from the rental payments, her pension and the $1,000 per month that her son Guy gave her for board for himself and his spouse, for his lodging, and for the garage that he used for his car-repair business. She does not know whether this amount of $1,000 was reported in her income. In 1999, her son Guy gave her $38,311.40 to help her pay a hypothec, and the auditor subtracted this amount from the deposits, as indicated in his table for that year.
+[29] As for account #13399, the Appellant testified that the money belongs to her son Guy and that her only role was to make deposits. However, she acknowledged that she signed a total of $63,349.43 in cheques drawn on the account to pay amounts that she and her son Guy owed the Ministère du Revenu du Québec in 1995 (Exhibit I-1). She manages the account for her son because he does not like to go to the bank and is often away. She acknowledged under cross-examination that her son sold cars and motorcycles and that several of his cars were registered under her name. She does not know why this is so.
+[30] The Appellant also acknowledged that she had been audited and assessed for unreported income and unpaid GST of $12,497.68 for the period from October 1, 1993, to June 30, 1997.
+[31] Diane Leclair testified that her corporation paid the Appellant $17,000 for the purchase of the bar and that this amount was paid in monthly instalments of $1,000. She was unable to explain why the corporation was incorporated and why she did not talk with her husband to determine whether he wished to become a shareholder or director. She even testified that she did not need him. Like her husband, she confirmed that the video lottery terminal revenues payable to Loto‑Québec were deposited into the Appellant's account for an additional six months, the amount of time needed to transfer the permits and the direct debits to Loto‑Québec.
+[32] As for Guy Boucher, he testified that his income for the years 1997, 1998 and 1999 came from his salary from the bar, which was $600 to $800 per week, and from his business of buying, repairing and reselling cars. He also acknowledged that he inherited money, and that this money is kept in a safety deposit box along with his mother's money. He keeps no records from which each person's share can be determined, and the Appellant was the only one who looked after the box. Mr. Boucher says that he received, from his father and from others, one half of the $80,000 that can be found in Mr. Bérard's calculations using the net worth method. He says that his brother Denis did not receive anything because he has a drug problem. On cross‑examination, he stated that the division between himself and his mother was done in 1993. All of the money was placed in the safety deposit box, which was closed on September 15, 1999. He said that at one point there was no more cash in the box, and that at another point the cash was placed elsewhere, but he did not specify where. It appears that his grandfather and father paid for everything in cash and kept as much as $20,000 at home.
+[33] Guy Boucher testified that he pays $1,000 per month for room and board for himself and his wife, and for the rental of the garage. He pays this money in cash; he did not explain this approach and does not know what his mother did with the money.
+[34] Account #13399 was used for his own transactions, and his mother looked after deposits and withdrawals as needed. The money deposited into the account came from the sale of the cars that he purchased and repaired, from his cash in the safety deposit box or kept at his niece's home, and from his "loose" cash. He acknowledges that he paid $45,582 in cash for a Corvette in 1995 or 1996, and that he paid $20,000 in cash toward the purchase of a home. He says that the money came from the sale of vehicles and from the money left by his parents.
+[35] Guy Boucher was assessed under the Act for a six-year period. The documentation states that the assessment was primarily based on his failure to remit GST on the sale of automobiles. The sales for certain years were roughly $17,500, $104,000 and $184,000.
+[36] The Appellant made several arguments, and those arguments can be summarized as four main issues:
+(a) Was the assessment made outside the normal assessment period within the meaning of subsection 298(1) of the Act?
+(b) Was the method used by the Respondent to make the assessment a reliable method having regard to the circumstances?
+(c) Did the Appellant meet her burden of proof?
+(d) Did the Appellant, under circumstances amounting to gross negligence, make a false statement in a return, application, form, etc., within the meaning of section 285 of the Act?
+[37] For her part, the Respondent has identified the same issues, and submits that the Deputy Minister of Revenue was entitled to assess the Appellant at any time in accordance with subsection 298(4) of the Act, that the deposit method is an acceptable alternative in the case at bar and that the penalties were warranted.
+[38] The issues identified above were the subject of lengthy submissions by both parties regarding questions of credibility, the method used to audit the Appellant and other parties, the amounts to be subtracted from the deposits, the double taxation of the income from the bar, the record keeping, and much more. However, it must be acknowledged that the problems raised by this appeal are primarily due to the fact that it is very difficult, during the period in issue, to determine whether the transactions on the two identified bank accounts are of a personal or business nature and, worse still, to the fact that it is difficult to know who this money actually belongs to. The distinction must be drawn having regard to the fact that the Appellant sold the bar in February 1998. Another factor which, in my opinion, raises problems is the fact that the bar's bookkeeping is so deficient that the financial statements themselves are based on the deposits, and that it is impossible to verify anything at all, not to mention the innumerable cash transactions that the Appellant and her son carried out on the pretext that all money issues are handled in a "family-oriented" way. It goes without saying that, regardless of the audit method used, it will be impossible to reconcile the numbers.
+[39] This having been said, we now have three audit tables based on the deposit method and one table based on the net worth method. Clearly, neither method provides a true financial portrait of the taxpayer and her obligations as an agent under the Act. Thus, our task is to reconstruct a financial balance sheet that is as close as possible to reality, while bearing in mind that such an exercise will be far from perfect. Counsel for the Appellant submits that the most reliable method in the case at bar is the net worth method, primarily because the Respondent used the same method with the Corporation and the Appellant's son Guy Boucher and his wife. This approach offers a consistent method, which is particularly important as he submits that there is double taxation in the instant case because the MRQ assessed the Corporation, Guy Boucher and the Appellant under the Act for the same period based on the income derived from the operation of the bar. He also submits that the deposit method is unreliable in the instant case because it does not account for the fact that the Appellant cashed many cheques without making deposits and it would attribute those cheques to her.
+[40] In my opinion, prima facie, it makes perfect sense to use such a method with a business of the type operated by the Appellant. The commercial activities in issue consist of making supplies all of which are taxable and are therefore treated similarly, with the exception of the revenues attributable to Loto‑Québec. The alleged DSLs in the case at bar are no-book deposits that are not truly deposits. All of them were identified, as was the portion of the revenues attributable to Loto‑Québec following the sale of the business in February 1998, and the Appellant's personal income. Moreover, the Appellant's accountant relied on the deposits to prepare the financial statements because there was nothing within the business that made it possible to do any accounting based on the supplies. However, the deposit method could benefit certain taxpayers or agents who do not deposit all the income derived from their business, especially those who use cash and wish to circumvent their fiscal obligations. The same problem arises with the other methods. As for the cheques that were cashed using the funds of the business and then deposited, this approach has no effect on the deposits because the cheques replace the cash.
+[41] This having been said, and in light of the Respondent's evidence as a whole and the testimony of the Appellant's two accountants with respect to their calculations using the deposit method, I find that this method is the most reliable one in the instant case. Suffice it to say that the method used by Accountant Claude Bérard, consisting of calculating the difference in net worth, is defective right from its starting assumption that the Appellant was in possession of $80,000. This amount consisted of an inheritance, the proceeds of a life insurance policy, and money contained in a safety deposit box. It should be recalled that the Appellant testified that she gave half this money to her son Guy. Moreover, this method does not take account of all the cash transactions done by the Appellant over the years, or the exchanges of money between the Appellant and her son.
+[42] Thus, I accept, as a starting point, the unreported income established by the Respondent's auditor for each of the years within the period in issue, as well as the amounts that were removed from the deposits. The unreported income is $42,117 in 1997, $185,520 in 1998, $70,735.55 in 1999 and zero in 2000.
+[43] I am aware that the total unreported income determined by the auditor includes the two bank accounts. However, given the amounts removed from the deposits, the impact on the results is truly minimal. In 1998, the auditor subtracted the amount of the transfers and the amount from the sale of the Corvette, amounts that were equivalent to the deposits into account #13399, which was Guy Boucher's account even though it was under the Appellant's name. In 1999, the additional deposit amount for account #13399 was only $6,000.
+[44] Based on the evidence adduced by the Appellant, is it possible to subtract other amounts from the unreported income? The first hotly contested point was the auditor's inclusion of the undeposited DSLs in the deposits. According to counsel for the Appellant, this amount represents the total of all the cheques that the Appellant took directly to the Caisse populaire to negotiate for cash which she then remitted to customers. The evidence discloses that the Appellant was in the habit of proceeding in this manner during the period in issue in order to help certain customers who did not have a bank account. The Caisse populaire's microfiches identify these transactions and show that these amounts were, indeed, not deposited. The testimony of the Appellant and Mr. Bérard, and the fact that these transactions could be isolated, are sufficient support for my finding that they should be subtracted from the unreported income. Since the auditor testified that he took them into consideration in his calculations, and that they were added to the deposits, the total undeposited DSLs for the year 1997, in the amount of $48,786, must be subtracted from the unreported income amount of $42,117. The result is that there seems to be no unreported income in 1997.
+[45] The situation in 1998 is somewhat different. Even if the $36,831 in undeposited DSLs is subtracted from the unreported income of $185,520, there remains a balance of $148,689. According to the auditor's report, significant amounts were already removed from the deposits. Moreover, the Appellant's reported income of $48,527, and the $21,935 in revenues from the bar for the first two months of operations prior the sale to the Corporation, plus the GST and QST on those revenues, were subtracted from the deposits. Since the Appellant's only income is her rental income and old age pension, it is difficult to accept that such deposits could have come from such sources considering that the Appellant operated her business for barely two months. The same comment can be made with respect to the year 1999.
+[46] According to the testimony of the Appellant and Diane Leclerc, revenue from the video lottery terminals continued to be deposited into the Appellant's account for approximately six months pending the transfer of the permit and because Loto-Québec had the authorization to withdraw what it was owed automatically from account #8352. Certain deposit slips mention the fact that the deposits were for Loto-Québec, and the amount of all deposits identified in this manner is $24,964. While the transition period strikes me as somewhat lengthy, I find the situation plausible, and would therefore allow the subtraction of an additional sum of $24,964 from the unreported income for 1998.
+[47] The Appellant submits that she also deposited $1,000 in cash that her son Guy gave her every month as compensation for the lodging that she provided him and his wife, and for the rental of the garage that he occupied. Based on the testimony that I have heard, I find that the Appellant did not report this income in her tax returns, even though part of the amount was for the rental of the garage to her son. Since the Appellant kept envelopes at home containing cash, it is difficult to believe that she deposited this amount every month and did not use it for her day‑to‑day needs. Thus, I am not satisfied, on a balance of probabilities, that this amount of $1,000 per month was actually deposited in 1998 and 1999 as she claims.
+[48] Accountant Claude Bérard, like the Appellant, explained that the amounts deposited into account #8352 come from the cash that she kept at home or in her safety deposit box, because she received considerable amounts as an inheritance and in insurance money — for a total of $79,269, according to the accountant's calculations — after her husband and others died. As I have said, the Appellant and her son claim that these amounts were split evenly. All of these amounts would also need to have been deposited in 1998. First of all, nothing in the evidence suggests to me that the Appellant changed her cash retention habits, and secondly, the Appellant certainly cannot have needed to deposit this money in order to provide for herself because, here again, the evidence, specifically the witness Claude Bérard's calculations of the difference in net worth, showed us that the Appellant's lifestyle was very modest. Her personal expenses were estimated at roughly $30,000 per year. I see nothing that could justify the deposit of such considerable amounts, particularly in 1998, assuming, of course, that the bar was actually sold in February of that year and that the Appellant's income after that date consisted only of rental payments and her pension.
+[49] The situation in 1999 is quite similar, except that the amount of money that the Appellant deposited was almost 50% lower. Nonetheless, it is difficult to understand how so much money could have been deposited given the Appellant's potential income. According to the auditor's table, $88,982 was deposited into the account, and she reported $24,982 in income. If I subtract the $19,094 in undeposited DSLs, there remains $51,641 in deposits for which there are few explanations. According to Mr. Bérard, these deposits continued to consist of money that the Appellant kept at home or in her safety deposit box. Still, given her lifestyle, it is difficult to believe that she would have deposited this money to tide her over at the end of each month, not to mention the apparently inexhaustible supply of funds to be deposited without any plausible explanation as to its origins. In conclusion, the unreported income for the year 1998 is $123,725, and the unreported income for 1999 is $51,641.
+[50] Could it be that the amounts deposited by the Appellant in 1998 and 1999 consist of some of the income from the bar, despite the fact that she sold her business to the Corporation? The financial statements and income tax returns of the Appellant, and the documents related to the incorporation of the Corporation, report a sale transaction involving the bar's operations. However, in my opinion, there is evidence that impugns the legitimacy of this transaction. The backdrop obtained from my assessment of the evidence can be summarized as follows:
+(a) Because of the bar's home-cooked bookkeeping and accounting, it is impossible to account for the sales, so the financial statements are prepared based on the deposits. Since the Appellant was audited in previous years, she should have known that these deficiencies needed to be rectified.
+(b) This is a business in which many transactions are done in cash, and that makes it easy to not leave a trace.
+(c) The Appellant keeps envelopes at home containing significant amounts of cash consisting of her personal funds and revenue from the bar.
+(d) The Appellant has a bank account in which she commingles and manages her personal money and money from the bar.
+(e) The Appellant has another bank account into which she makes deposits and from which she makes withdrawals, but the money belongs to her son. There are large cash deposits into the account, and there are cheques signed by the Appellant that are drawn on the account, including certain cheques in repayment of debts that she and her son owe Revenu Québec.
+(f) The Appellant's son operates a garage in which he purchases, repairs and sells automobiles, most of which are registered to the Appellant. The vehicles include a Corvette, motorcycles, and other cars identified by the evidence.
+(g) The only explanation provided by the Appellant and her son Guy with respect to the existence of account #13399 is that the son did not like to go to the Caisse populaire and that his mother always looked after that for him.
+(h) The Appellant admits that when her husband Gaétan Boucher died, she withdrew the $30,323 that had been deposited into her bank account, and kept that cash in a safety deposit box on the pretext of protecting it from income tax, and that, for the same reasons, she saw fit to do the same thing with the $19,107 in life insurance that she received upon the death of her husband and the $25,065 in life insurance that she received upon the death of her friend Ronald Pearson.
+(i) Strangely, the Appellant also decided to share her husband's insurance proceeds and inheritance with her son Guy in equal shares even though there was no legal obligation to do so.
+(j) Guy Boucher claims that his approach to bank accounts, which consists of having an account under his mother's name for his own use and handing over cash, is due to the fact that they do everything in a [TRANSLATION] "family-oriented" way.
+(k) Diane Leclair is the sole shareholder and director of the corporation that purchased the bar in February 1998. She cannot explain where the idea of incorporating a corporation came from, but she says that it is a way to protect oneself. She adds: [TRANSLATION] "I wasn't going to leave it under her name; I put it under a numbered company." She says that she thought of the idea on her own, that she did not mention anybody, that she told her husband Guy that she would appoint him as manager, and that he was pleased. She did not discuss with him the idea of his being a shareholder or director, and she adds that she did not need him. She believes that she paid $17,000 in the form of 17 monthly cheques of $1,000 to purchase the assets; she adds that she has no idea and that she is not certain.
+(l) According to the Appellant, the purchase price was $16,000.
+(m) No contract of purchase or sale was tendered in evidence.
+(n) Diane Leclair worked full-time as a seamstress.
+(o) I have trouble believing that it would take six months to transfer a Loto-Québec permit as part of a sale of a business at arm's length.
+(p) According to the report on the audit of Guy Boucher, Mr. Boucher filled out a credit application in 1998 claiming that he had been the owner of Bar Le Griffon for three years. He refers to the purchase of the bar by his wife's company, and the report states that Mr. Boucher is heavily involved in the operation of the bar. I find it strange that Ms. Leclair told the Court that her husband was pleased when she informed him that she would appoint him as manager.
+(q) According to Guy Boucher, the practice of keeping cash in safety deposit boxes or at home originated with his father and even his grandfather. However, his father had a bank account with nearly $30,000 in it upon his death.
+[51] In my opinion, the testimony of the Appellant, her son and his wife provides sufficient evidence to question the legitimacy of the manner in which they manage their affairs. In light of these circumstances, it should come as no surprise that I find that this situation results from a deliberate intent to avoid their tax obligations. In my opinion, the transfer of the bar's assets to the Corporation did not change the management in the slightest. The Appellant and her son continued to operate the bar. The Appellant continued to exchange cheques and make deposits, so she continued to be present. In my opinion, her son simply continued to look after the bar, and he was certainly not appointed manager by his wife.
+[52] In my opinion, this transfer to the Corporation was gradual, and the Appellant continued to deposit a part of the bar revenues into her bank account even after the purported sale. A cursory examination of the deposit slips shows that the deposits were made regularly and included $5, $10, $20, $50 and $100 bank notes. Certain cheques on which the name of the drawee is stated cannot have come from her tenants, because the names of the drawees were not the same in the subsequent month's deposits. In my opinion, the deposits are consistent with the operation of a bar, and thus, the sale to the Corporation served only to create a legal entity that was not actually distinct from the Appellant and her son, except insofar as the sharing of the revenues gradually changed. In practice, the Corporation simply became an additional member of the family.
+[53] Given this allocation of bar revenues between family members during the period in issue, the Appellant was required to file a return under subsection 238(2) of the Act. Even though the Corporation, Guy Boucher and his wife were assessed for additional income associated with the bar, such, in my opinion, are the consequences and the price to pay for seeking to confuse all one's assets.
+[54] It is my opinion that the Respondent has established on a balance of probabilities that the Appellant continued to operate a business making taxable supplies and, thus, that she carried on a commercial activity within the meaning of the Act. In my opinion, ceasing to file returns, while knowing that one is continuing to receive part of the income from a business, constitutes a misrepresentation attributable to wilful default which permitted the Minister to make an assessment at any time under subsection 298(4) of the Act. The penalty provided for in section 285 of the Act was warranted for the same reason. I cannot disregard the fact that the Appellant has already been audited. Moreover, the books of account that she kept facilitated the avoidance of her tax obligations. The amounts of cash in her possession at all times, and the jumble of bank accounts, made it easy to not leave a trace of her commercial transactions or those of her son. The Appellant was an experienced businesswoman who, in my opinion, was aware of the benefits of operating in such a manner. Thus, the Deputy Minister of Revenue was justified in imposing the penalty under section 285.
+[55] For these reasons, the appeal is allowed in part. The assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that there is no unreported income for 1997, that the unreported income for 1998 is $123,725, that the unreported income for 1999 is $51,641, and that there is no unreported income for 2000.
+Signed at Montréal, Quebec, this 11th day of April 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of May 2007.
+Susan Deichert, Reviser
+CITATION: 2006TCC189
+COURT FILE NO.: 2004-4765(GST)I
+STYLE OF CAUSE: Gisèle Boucher and Her Majesty the Queen
+PLACES OF HEARING: Sherbrooke, Quebec and Montréal, Quebec
+DATES OF HEARING: September 26 and 27 and December 5, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 11, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Frank Archambault
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard Généreux
+Firm: Généreux Côté, Avocats
+Drummondville, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,167 @@
+Title: Central Interior Incorporated v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26419/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-725-26419-central-interior-incorporated-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-12-14
+
+# Central Interior Incorporated v. The Queen
+
+- Citation: 2004 TCC 725
+- Decision date: 2004-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3170, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Central Interior Incorporated v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-14
+Neutral citation
+2004 TCC 725
+File numbers
+2002-1737(IT)G
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1737(IT)G
+BETWEEN:
+CENTRAL INTERIOR INCORPORATED,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 18 and 19, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gordon Teskey
+Appearances:
+Counsel for the Appellant:
+John David Buote
+Counsel for the Respondent:
+Jenna Clark
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994 and 1995 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the subsection 163(2) gross negligence penalties be removed from the assessments. The Respondent to have costs, on a party and party basis.
+Signed at Calgary, Alberta, this 14th day of December, 2004.
+"Gordon Teskey"
+Teskey, J.
+Citation: 2004TCC725
+Date: 20041214
+Docket: 2002-1737(IT)G
+BETWEEN:
+CENTRAL INTERIOR INCORPORATED,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant appeals its assessments of income tax for fiscal years ending August 31, 1994 and August 31, 1995, both made in April of 2001.
+Issues
+[2] The first issue is that since the assessments were more than three years after the original Notices of Assessments, can the Respondent satisfy the Court that the Appellant has made misrepresentations in its August 31, 1994 and August 31, 1995 tax returns that are attributable to neglect, carelessness or wilful default, pursuant to paragraph 152(4)(a)(i) of the Income Tax Act (the "Act")?
+[3] If the Court finds in favour of the Respondent on the above issue, the appeals will be disposed of. However, should I find that the Respondent has failed to show that the misrepresentations are attributable to neglect, carelessness or wilful default, then a second issue arises with regards to the fiscal year ending August 31, 1995 concerning a waiver signed on January 10, 2000, at a time when the Appellant was dissolved and prior to articles of revival.
+Facts
+[4] Evidence on behalf of the Appellant was given by Savino Placentile ("Sam"), the sole shareholder, director and officer of the Appellant, Paul Babber ("Babber"), a self professed accountant and tax consultant, Paul Malik ("Malik"), a bookkeeper and Donald Scott ("Scott") a chartered accountant.
+[5] Evidence on behalf of the Respondent, was given by David Fisher ("Fisher"), the Canada Customs and Revenue Agency ("CCRA") tax auditor. With regards to the evidence given by both Sam and Babber, there are areas of their testimonies that I cannot accept. On the other hand, there are parts of both testimonies that can readily be accepted. Anywhere there is a conflict in their testimony, I accept Babber's evidence.
+[6] I accept the testimony of both Scott and Fisher without hesitation.
+[7] Sam, a cabinet maker with very limited education, immigrated to Canada in 1968 from Italy. He had various jobs using his skills and eventually started a business in 1988 with a partner and went on his own in 1991, when he incorporated the predecessor to the Appellant.
+[8] The Appellant's charter was cancelled on June 25, 1994 by the Companies Branch of the Minister of Consumer and Commercial Relations, for failure to file a "Special Notice".
+[9] Sam applied for and received Articles of Revival, which were issued on July 19, 2001, because he had been advised that the assets of the Appellant could go to the province.
+[10] Sam claims he was unaware of the dissolution until he received a letter from the Ontario Ministry of Finance in January 2001. However, part of the Respondent's Book of Documents contains a letter from Revenue Canada to the Appellant, dated October 11, 1995, and date stamped for receipt purposes October 28, 1995. I do not believe Sam's evidence on this point. I find that he received the Revenue Canada's correspondence and since the Appellant in September 1995 was dormant, he just ignored the letter and forgot about it. Sam obviously did not bother to read this letter nor seek advice on its contents. It is noted that the fiscal year ending August 31, 1995 had just ended.
+[11] Babber acted as an accountant for Sam and his corporations since 1988, when he went into business, preparing financial statements and tax returns. In 1990, he started to prepare, and did so right up to the spring of 1995, the required quarterly GST returns, which Sam signed and attached a cheque for the required amounts and mailed out the returns.
+[12] Sam claimed that he would give Babber what he called his cashbook, monthly bank statements, the deposit book and cancelled cheques. I find this statement false for the reasons set forth in the next paragraph.
+[13] Babber claims that he received the monthly bank statements, the deposit book, the cancelled cheques and a list of accounts payable and a list of accounts receivable and may have seen the cashbook. I find this as a fact, that lists of accounts receivable and payables were prepared and delivered to Babber. The tax return for the year ending August 31, 1994, prepared by Babber, contains a balance sheet, statement of retained earnings, statement of income, a note to financial statements and tax schedules. The balance sheet shows accounts receivable and accounts payable.
+[14] Sam, who has very little education, basically said "I do not know anything about bookkeeping and or nothing about the accrual accounting system" and that he worked on a cash basis. This, I do not totally accept. He is a good manager/owner of a flourishing business, who prepares his own bids for work and knows his costs of doing the work. He also provided part of the necessary documents to Babber so that he could prepare accrual financial statements and tax returns. However, neither he nor Babber ever took into consideration work in progress or any allowance for bad debts.
+[15] Babber claimed that he prepared all financial statements on the accrual method. However, I accept Scott's testimony that Babber thought he was using the accrual method, when he actually was using a hybrid method, as no allowance was made for bad debts or work in progress.
+[16] Scott very quickly looked at a list of receivables and identified four separate invoices, all dated September 1, 1994 (which would be the first day of fiscal year ending August 31, 1995) totalling some $137,211. I draw the conclusion that Sam deliberately held off those invoices over the year-end to September 1st, as he knew he had had a good profitable year that had just ended on August 31, 1994 and to put the income into the next year as he believed income is received when an invoice is paid.
+[17] Sam claims that he believed that there was no connection between taxable income and income for GST purposes. This may be true, but there is a very definite connection between gross business income and income that a taxpayer collects GST on, as these are the same figures. Sam, having signed each and every GST return, would have good round figures in his head of the amount of gross income he received that year; perhaps not within $10,000 or $20,000. I find that even the most cursory look at the August 31, 1994 tax return, Sam would have been able to discover that the revenue was understated by $100,000, more or less and the expenses were overstated by approximately the same amount.
+[18] Sam incorporated another company called Central Interior Corporation on September 24, 1994 and started using it as the active business company in December 1994.
+[19] Sam said that in August 1994, he was threatened with litigation and that is why he incorporated the new company.
+[20] The only difference in name being the Appellant's last word "Corporation" instead of "Incorporated", this would be done to gain and keep all his built up goodwill, but also had the advantage that many people would never know the difference and probably did so to pass the new corporation off as the old one.
+[21] The Appellant was audited by someone for either corporate income tax or GST in 1993. Sam had nothing to do with the auditor and when advised that there was apparently $2,300 in tax owing, he just paid it. I believe a normal reasonable taxpayer would be demanding how this liability arose, and would be at his accountant's office demanding what went wrong, and how can the problem be fixed. I find that Sam just did not care. This demonstrates a blasé attitude on the part of Sam and that he did not care, if the records were exactly right. Mathematics is an exact science. The 1993 audit should have set off warning bells and Sam's ignoring of the problem is negligence and making no attempt to determine the cause of the problem and rectifying the same, is again, negligence on Sam's part. Thus, continuing the same bookkeeping system was also negligent. Babber claimed the audit only resulted in a minor adjustment of less than $10,000 tax owing.
+[22] Babber said, and I accept his statement, that after doing the financial statements ending August 31, 1994 and the tax return of the Appellant, he did not do anything for the Appellant but did the same work for the new company for September 31, 1995, and, did nothing, for the Appellant until he was asked in September 1996 to prepare and file a tax return for the year ending August 31, 1995, which should have been filed within six months of the fiscal year-end.
+[23] I find that the only reason a tax return for August 31, 1995 was filed, was that the Appellant received a demand for the return to be filed and that Sam advised Babber that the Appellant was inactive and had losses. Without documents, Babber prepared the August 31, 1995 tax return as "nil".
+[24] I accept Babber's testimony with regards to discussions with Sam concerning profits. He stated that Sam knew his business was quite profitable, but was always asking to make it look as if the Appellant was losing money and not as Sam alleges, that he could not understand why the year ending August 31, 1994 produced a loss. Yet, the cash book in the first six months of fiscal year August 31, 1995 shows deposits of $1,067,713 and Scott identified a revenue of $1,093,357. At the very least, Sam's instructions to Babber shows "a negligent set of instructions" or "a deliberate misstatement" about a million dollars of gross business income.
+[25] The CCRA started an income tax and GST audit of the Appellant as the GST returns were showing a large volume of sales, yet the income tax return for August 31, 1995 showed no sales.
+[26] The auditors very soon found that there were many problems.
+[27] The Appellant, because of this, hired two different accountants in succession who were not comfortable with the Appellant's records, so the Appellant hired Scott to prepare what was necessary to get to the bottom of the problems. Scott prepared financial statements for the Appellant for the fiscal year ending August 31, 1994 and each subsequent year until August 31, 2000.
+[28] Scott was given the cashbooks, deposit books, bank statements, lists of the accounts receivable and payable and the cancelled cheques. Over a three month period, he spent some 75 to 80 hours assembling the documents.
+[29] Scott did not believe that the 1993 financial statements were correct, but since that year was statute-barred and since he had to have a starting point, he accepted the August 31, 1993 financial statements as correct. He said that the records were a mess and nothing tied into anything. From this, I find that the books and records of the Appellant were not adequate and were negligently kept.
+[30] Scott said that in the long run, it did not matter if the Appellant was using the cash method as opposed to the accrual method. He also said that Babber believed he was using the accrual method when he was actually using the cash method, even though he had the lists of accounts receivable and payable.
+[31] Scott said he had the sales figures from actual invoices and that these sale figures were accurate, but in regards to the expenses he could only use his best estimate by looking at the net worth of the company as of August 31, 1993 and each year thereafter, and that the expense figures are just plugged in figures. This, again, demonstrates that the Appellant's bookkeeping was less than adequate and could not be relied upon.
+[32] Scott's figures were accepted by the Appellant and sent to the CCRA that accepted them and issued the appealed assessments.
+[33] The amended statements for fiscal year ending August 31, 1994 increased the sales by $114,236 and decreased the expenses by $101,828, thus turning a loss of $56,276 into a net profit of $187,296.
+[34] The amended statements for fiscal year ending August 31, 1995 has sales of $1,053,357, with a net income of $137,146, whereas the original return filed September 25, 1996 showed no sales, no income and just carried forward a loss of $57,302.
+[35] Thus, the Appellant in its two original returns for the fiscal years ending August 31, 1994 and August 31, 1995, made substantial misrepresentations.
+[36] I believe that part of the reason for the new company to have a name so similar was to confuse the CCRA with the hope that the $1,053,357 sales, with a net income of $137,146, would be simply overlooked. Sam knew that the Appellant continued to operate in the fall of 1994 and knew that he billed out on September 1st, 1995, four invoices totalling $137,211 and on the first of that month, a further invoice for $120,000 and that in the period September 1, 1994 to mid-December, the Appellant had sales in excess of one million dollars, yet he did not ask Babber to do financial statements or tax returns for the Appellant until a request arrived from CCRA. He then does not turn over the books to Babber as usual, just advises him to prepare a "nil" statement and advised Babber that the Appellant was inactive.
+[37] Babber said that the Appellant always had a bookkeeper. Sam said his wife did the books from 1990 to 1996, when Paul Malik took over. According to Sam, his wife had no formal bookkeeping experience and she did sign up for a night school bookkeeping course, which she never finished.
+[38] Sam said that his wife did the cashbooks and that he shared with his wife the duties of writing cheques and filling out the deposit books.
+[39] Having found the obvious fact that both the August 31, 1994 and August 31, 1995 tax returns had noticeable misrepresentations, the question remains were these misrepresentations attributable to neglect, carelessness or wilful default or had the Appellant committed any fraud in filing the return or in supplying any information under the Act, all as set forth in subparagraph 152(4)(a)(i) of the Act?
+The Existing Jurisprudence
+[40] Although the Appellant referred the Court to several decisions dealing with subsection 163(2), which deals with gross negligence, it does not help in this case, gross negligence penalties had been waived by the Respondent prior to the hearing.
+[41] Mr. Justice Strayer, as he then was, in Venne v. The Queen, 84 DTC 6247, a Federal Court - Trial Division decision which dealt with both subsections 152(4) and 163(2) said at page 6151 thereof:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under subparagraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words "misrepresentation that is attributable to neglects" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort. See Jet Metal Products Limited v. The Minister of National Revenue (1979) 79 DTC 624 at 636-37 (T.R.B.).
+and at page 6253:
+It is admitted by the plaintiff (see Exhibit D-44) that there were these substantial misrepresentations of income during the years 1972-1975 and indeed thereafter in 1976 and 1977. I am satisfied that these misrepresentations were attributable to neglect on the part of the plaintiff within the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act because the plaintiff did not make any effort to question and supervise aspects of his income tax returns which he was clearly able to do. He ignored the deficiencies in those returns which would have been obvious to him had he made a serious effort to ensure their accuracy. I therefore find that it was open to the Minister by his re-assessment of September 3, 1980, to reassess the plaintiff's income tax for the years 1972-1975.
+(Underline added.)
+[42] This decision was applied in the Federal Court of Appeal's decision in Findlayv. The Queen, 2000 DTC 6345.
+[43] Prior to the Venne decision, the Federal Court - Trial Division's decision of Pratte J., dealing with a predecessor to subsection 152(4), said in M.N.R. v. Bisson, 72 DTC 6374, at page 6380 thereof:
+... I therefore conclude that a taxpayer who, without any negligence on his part, commits an error in declaring his income, does not make a misrepresentation within the meaning of s. 46(4)(a)(i). When the Minister seeks to rely on this provision to proceed with a re-assessment after four years, he must therefore not only show that the taxpayer committed an error in declaring his income but also that that error is attributable to negligence on his part.
+[44] Muldoon J., of the Federal Court - Trial Division, said in Reilly Estate v. The Queen, 84 DTC 6001, at page 6018 thereof, when dealing with subsection 152(4) :
+... the standard of care is that of a wise and prudent person, it must be understood that wisdom is not infallibility and prudence is not perfection.
+[45] Then, the Federal Court of Appeal in Boucher v. The Queen, 2004 DTC 6084, affirmed at page 6085 that:
+... There must be in addition to misrepresentation, a finding that the misrepresentation is attributable to neglect, carelessness or wilful default in supplying the incorrect information.
+[46] In the Federal Court - Trial Division's decision of Nesbitt v. The Queen, 96 DTC 6045, which was affirmed by the Federal Court of Appeal, reported at 96 DTC 6589, and an application for leave to appeal to the Supreme Court of Canada, was dismissed, reported at 1996 SCCA 610, Heald, J. said, at page 6049:
+In my view, the Plaintiff's actions do not establish that he exercised reasonable care in the completion of his return. [See Note 16 below] The Plaintiff, like all other taxpayers under the Income Tax Act, is required to sign the income tax return after certifying "... that the information given in this return and in any documents attached is true, correct and complete in every respect and fully discloses my income from all sources". It is no answer for a taxpayer to blame any miscalculations or errors on the preparer of his income tax return. In my view, this record establishes that the Plaintiff was neglectful in respect of the preparation and filing of his 1981 tax return.
+[47] I said, in Palardy v. The Queen, 97 DTC 1043, at page 1046:
+A taxpayer must take responsibility for the tax returns. Even if a taxpayer is relying heavily on his or her tax return preparer, there is a duty to make enquiries, ask questions and review in detail all documents prepared by the tax return preparer.
+Analysis
+[48] The Appellant argues that Sam's wife, the bookkeeper, was not well trained, yet she was not called as a witness nor was any explanation given for her absence at the hearing. Yet, the Appellant called Paul Malik, the 1996, 1997 and 1998 bookkeeper for Central Interior Corporation, whose evidence added nothing to the hearing. Counsel asked this Court to draw an adverse conclusion that her testimony would have been adverse to the Appellant's appeal. I draw such a conclusion.
+[49] Based on Scott's comments that the Appellant's records were in a mess and nothing tied into anything, I find that the keeping of records in this fashion was negligence.
+[50] Thus, the maintaining of and use of these types of records produced the errors discussed above. I find that the major problem was in keeping proper records of the Appellant's expenses which resulted them being mistaken by Babber and required Scott to work out a ballpark figure using a net worth technique.
+[51] The large deposits in the first 16 days of September were known by Sam, who when questioned, went to the wrong records. Scott's evidence leads me to believe that Sam knew that fiscal year ending August 31, 1994 was a good year with profit and that he was trying to delay income into the August 31, 1995 taxation year and I find that Sam was instructing Babber all along to try and create a loss. One quick look at his records demonstrates that no loss occurred for fiscal years August 31, 1994 or August 31, 1995.
+[52] It should be noted that Sam knew his companies' tax returns and very quickly identified the copies in Exhibit Book A as not being complete copies, so that the actual filed tax returns were produced as Exhibit R-1 and R-2.
+[53] The Respondent having withdrawn the subsection 163(2) gross negligence penalties, thus even though the Appellant has failed completely at this hearing, the appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the subsection 163(2) gross negligence penalties be removed from the assessment. The Respondent to have the usual party and party costs.
+Signed at Calgary, Alberta, this 14th day of December, 2004.
+"Gordon Teskey"
+Teskey, J.
+CITATION:
+2004TCC725
+COURT FILE NO.:
+2002-1737(IT)G
+STYLE OF CAUSE:
+Central Interior Incorporated
+and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 18 and 19, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gordon Teskey
+DATE OF JUDGMENT:
+December 14, 2004
+APPEARANCES:
+Counsel for the Appellant:
+John David Buote
+Counsel for the Respondent:
+Jenna Clark
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John David Buote
+Barrister & Solicitor
+Brampton, Ontario
+Firm:
+John David Buote
+Barrister & Solicitor
+Brampton, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

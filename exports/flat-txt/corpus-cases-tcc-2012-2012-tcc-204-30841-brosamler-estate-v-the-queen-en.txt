@@ -1,0 +1,146 @@
+Title: Brosamler Estate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30841/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-204-30841-brosamler-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-06-12
+
+# Brosamler Estate v. The Queen
+
+- Citation: 2012 TCC 204
+- Decision date: 2012-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brosamler Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-12
+Neutral citation
+2012 TCC 204
+File numbers
+2011-3192(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3192(IT)I
+BETWEEN:
+ESTATE OF THE LATE GUNNAR BROSAMLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 2, 2012, at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Elizabeth Junkin
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act (the “Act”) is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in determining the liability of Gunnar Brosamler, deceased, under the Act for income taxes for his final taxation year ending April 8, 2008, the amount of taxes payable for such year under the Act shall be reduced by the lesser of:
+(a) the amount by which the liability for income taxes under the Act for such year would be reduced if the capital losses realized by the Estate of the Late Gunnar Brosamler in its year ending April 8, 2009, which, as a result of the provisions of paragraph 164(6)(c) of the Act are deemed to be capital losses of Gunnar Brosamler, deceased, from the dispositions of capital property by him in his last taxation year ending April 8, 2008, were increased by the amount of $94,038; and
+(b) $12,000.
+The Respondent shall pay costs to the Appellant which are fixed in the amount of $1,200.
+Signed at Halifax, Nova Scotia, this 12th day of June 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC204
+Date: 20120612
+Docket: 2011-3192(IT)I
+BETWEEN:
+ESTATE OF THE LATE GUNNAR BROSAMLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] There are two taxpayers in this appeal – Gunnar Brosamler, deceased, (who is represented by the executrix of the Estate of the Late Gunnar Brosamler) and the Estate of the Late Gunnar Brosamler (who is also represented by the executrix of the Estate of the Late Gunnar Brosamler). For ease of reference in these reasons, Gunnar Brosamler, deceased, will be referred to herein as “Brosamler” and the Estate of the Late Gunnar Brosamler will be referred to herein as the “Estate”. This appeal was filed under the Informal Procedure and Counsel for the Appellant confirmed that the Appellant was electing to limit the appeal to $12,000 of taxes assessed under the Income Tax Act (the “Act”)[1].
+[2] Brosamler died on April 8, 2008 in Germany and at the time of his death he was a resident of Germany. At the time of his death he owned three rental properties in Vancouver, British Columbia, that he had acquired several years earlier. There is no disagreement with respect to the amount of the capital gains realized by Brosamler as a result of the deemed disposition of these properties as provided in subsection 70(5) of the Act and these capital gains were as follows:
+West 3rd Property
+West 16th Property
+Allison Property
+Proceeds of Disposition
+(fair market value April 8, 2008)
+$2,950,000
+$1,500,000
+$2,300,000
+Adjusted Cost Base
+$53,000
+$172,500
+$145,200
+Capital Gain
+$2,897,000
+$1,327,500
+$2,154,800
+Total:
+$6,379,300
+[3] Linda Leonard is the sole executrix and the sole beneficiary under Brosamler’s will. As a result of the very significant capital gains realized as a result of the deemed disposition of the properties under the Act as well as the large inheritance tax payable in Germany, she determined that she had to generate approximately $3 million and therefore that she had to sell at least two of the properties. The west 3rd property and the west 16th property were sold within the first year following the death of Brosamler and in each case a capital loss was realized. As the election referred to in paragraph 164(6)(c) of the Act was made, the capital losses realized by the Estate were deemed to be capital losses of Brosamler from dispositions of capital property in his final taxation year which ended on April 8, 2008. It is the amount of the capital losses that is in dispute in this case.
+[4] Brosamler’s will was probated in Germany. Both parties agreed that the Estate would not be able to sell the properties to a third party unless the conveyance from Brosamler to the Estate was registered in compliance with the Land Title Act (British Columbia) and this could only occur if the probate was resealed in British Columbia. Probate fees under the Probate Fee Act (British Columbia) and legal fees were incurred to obtain ancillary probate in British Columbia.
+[5] The Estate added a portion of the probate fees and legal fees incurred to obtain ancillary probate in British Columbia to the adjusted cost base of the properties (which increased the amount of the capital loss realized by the Estate on the disposition of the properties and which, as noted above, are deemed to be capital losses of Brosamler in his final taxation year). The Canada Revenue Agency has reduced the adjusted cost base of the properties by the amount added for these probate fees and legal fees. The issue in this appeal is whether a portion of these probate fees and legal fees can be added to the adjusted cost base of the properties that were sold or alternatively, deducted as an outlay or expense incurred for the purpose of disposing of the properties.
+[6] The Federal Court of Appeal in Her Majesty the Queen v. Stirling, [1985] 1 C.T.C. 275, 85 DTC 5199, stated as follows:
+… As we understand it, the word ‘cost’ in those sections means the price that the taxpayer gave up in order to get the asset; it does not include any expense that he may have incurred in order to put himself in a position to pay that price or to keep the property afterwards.
+The sections that are referred to above are the sections related to the calculation of a capital gain.
+[7] Counsel for the Respondent submitted that since the Estate had acquired an interest in the properties under the Estate Administration Act (British Columbia), that ancillary probate was not required in order for the Estate to acquire an interest in the properties. Subsection 77(1) of the Estate Administration Act (British Columbia) provides as follows:
+77 (1) Despite a testamentary disposition, if real estate is vested in a person without a right in any other person to take by survivorship, on the person’s death it devolves to and becomes vested in the person’s personal representatives as if it were a chattel real vesting in them.
+[8] It also appears that, based on the decisions of the British Columbia Court of Appeal in Forrest v. Howe, [1952] 1 D.L.R. 717 (B.C.C.A.) that the Estate may have acquired an interest in the property without having the conveyance to the Estate registered. In that case, the British Columbia Court of Appeal stated that:
+13 But counsel for the respondent, relying upon s. 35 of the Land Registry Act, R.S.B.C. 1948, e. 171, submits that the unregistered conveyance held by the plaintiff is inoperative to pass to him any estate, either legal or equitable. However, I think it is clearly established upon the authorities that a document executed by one having some registered title or interest in lands which purports to transfer that title or interest to another, does vest in the grantee or transferee an equitable title or interest in lands, even though the same be not registered. Further, that the provisions of s. 35 of the Act do not bar the enforcement of rights conferred by an unregistered document: vide L. & C. Lumber Co. v. Lundgren, [1942] 4 D.L.R. 637, 58 B.C.R. 270; Davidson v. Davidson, [1946], 2 D.L.R. 289, S.C.R. 115; Greveling v. Greveling, [1950] 2 D.L.R. 308.
+[9] However, the interest in the properties that was sold by the Estate (and which resulted in the capital losses for the purposes of the Act) was not the interest in the property that the Estate acquired under subsection 77(1) of the Estate Administration Act (British Columbia) nor was it any interest that the Estate may have acquired from an unregistered conveyance. The interest that was sold by the Estate was an interest in the properties that could be registered under the Land Title Act by the purchasers of the properties and to acquire this interest in the properties the Estate had to incur the probate fees and legal fees. This title, that could be transferred to the purchasers and registered by the purchasers under the Land Title Act, could only be acquired by the Estate if it complied with the requirements of the Land Title Act which were that probate had to be resealed in British Columbia and the appropriate probate fees had to be paid. A portion of the probate fees and legal fees were therefore incurred to acquire the title to the properties that was sold (which resulted in the capital losses realized by the Estate for the purposes of the Act) and therefore can be added to the adjusted cost base of the properties as part of the cost of the interest in the properties that was acquired by the Estate.
+[10] It also seems clear that, if the amount for probate fees and legal fees is not added to the adjusted cost base of the properties, these fees were outlays or expenses incurred for the purpose of making the dispositions of the properties. As a result such amounts would be deductible in determining the capital losses realized by the Estate on the disposition of such properties. Whether the appropriate amount is included in determining the adjusted cost base of the properties or deducted as an outlay or expense incurred for the purpose of making the disposition of the properties, the amount of the capital losses realized by the Estate (which are deemed to be capital losses of Brosamler) will be the same amount.
+[11] The probate fees of $101,172 were based on the value of the assets of Brosamler in British Columbia. It seems to me that the portion of the probate fees that can be added to the adjusted cost base of the properties that were sold should be the same portion as the value of these properties used for probate purposes is to the value of all of the assets of Brosamler in British Columbia used for probate purposes. The legal fees of $59,029 should be allocated to the adjusted cost base of the properties in the same proportion. The total value of all of the assets in British Columbia as used for probate purposes is $7,250,373. Therefore, the amount that should be added to the adjusted cost base of the properties that were sold will be the following:
+West 3rd Property
+West 16th Property
+Value for probate fee purposes:
+$2,836,100
+$1,421,100
+Percentage of total assets in B.C.:
+39.1%
+19.6%
+Probate fees allocated to the cost:
+$39,558
+$19,830
+Legal Fees allocated to the cost:
+$23,080
+$11,570
+Total amount added to the cost:
+$62,638
+$31,400
+[12] Therefore the total amount added to the adjusted cost base (which is the cost of the property as adjusted in accordance with the provisions of the Act) of the two properties that were sold is $94,038 ($62,638 + $31,400) and therefore the total capital losses realized by the Estate but deemed to be incurred by Brosamler in his final taxation year will be increased by this amount.
+[13] As a result the appeal from the reassessment made under the Act is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in determining the liability of Brosamler under the Act for income taxes for his final taxation year ending April 8, 2008, the amount of taxes payable for such year under the Act shall be reduced by the lesser of:
+(a) the amount by which the liability for income taxes under the Act for such year would be reduced if the capital losses realized by the Estate in its year ending April 8, 2009, which, as a result of the provisions of paragraph 164(6)(c) of the Act are deemed to be capital losses of Brosamler from the dispositions of capital property by him in his last taxation year ending April 8, 2008, were increased by the amount of $94,038; and
+(b) $12,000.
+The Respondent shall pay costs to the Appellant which are fixed in the amount of $1,200.
+Signed at Halifax, Nova Scotia, this 12th day of June 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC204
+COURT FILE NO.: 2011-3192(IT)I
+STYLE OF CAUSE: ESTATE OF THE LATE GUNNAR BROSAMLER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 2, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 12, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Elizabeth Junkin
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Elizabeth Junkin
+Firm: Junkin Law Office
+North Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No penalties had been imposed in this case.

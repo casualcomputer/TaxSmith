@@ -1,0 +1,166 @@
+---
+title: "Vita-Finzi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28914/index.do"
+last_modified: "2008-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 565"
+citation2: ""
+neutral_citation: "2008 TCC 565"
+decision_date: "2008-10-08"
+language: "en"
+item_id: "28914"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1422
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:44:35.226000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f83a52f397c042fe080ff9eceae23c84b27c157368e6afbe4bb3c8e4991bfc5a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vita-Finzi v. The Queen
+
+- Citation: 2008 TCC 565
+- Decision date: 2008-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1422, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vita-Finzi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-08
+Neutral citation
+2008 TCC 565
+File numbers
+2007-4012(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4012(IT)I
+BETWEEN:
+ALEX VITA-FINZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 18, 2008, at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nikki Kumar (Student-At-Law)
+Lesley L’Heureux
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2005 and 2006 taxation years are dismissed, without costs, in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Winnipeg, Manitoba, this 8th day of October, 2008.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2008TCC565
+Date: 20081008
+Docket: 2007-4012(IT)I
+BETWEEN:
+ALEX VITA-FINZI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant included school tuition fees paid in 2005 and 2006 for his daughter to attend a private school (the “Private School”), as “medical expenses” in the computation of the gross non-refundable tax credit in each of those years. The claim was denied on the basis that such fees were not “medical expenses” as defined in subsection 118.2(2) of the Income Tax Act (the “Act”). The Appellant asserts that they are medical expenses as defined in paragraph (e) of that subsection.
+[2] Paragraph (e) of subsection 118.2(2) includes as a medical expense of an individual an amount paid:
+(e) for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient;
+[3] The Respondent’s denial of the Appellant’s claim is based on the assertion that three of the requirements set out in this definition have not been met, namely: the handicap requirement, the care and training institution requirement and the certificate requirement.
+Facts
+[4] Three witnesses testified at the hearing: the Principal of the Private School; a Peel District School Board coordinator of special education (“the Special Ed. Coordinator”); and the Appellant. Their evidence supports the following findings of fact:
+· The Appellant’s daughter suffered from a learning disability as a result of a developmental handicap;
+· She entered the public school system in grade one in 2003 but was pulled out of the school in the second part of that first year due to parental dissatisfaction with the progress the child was making and their view that the school had not adequately assessed her needs and that she was thereby not receiving the special attention she needed;
+· She was then registered at a different school but due to continuing parental concerns and dissatisfaction with the ability of that school to provide the proper educational facilities for the special needs of their daughter, she was moved, after completing grade two, to a third school, namely, to the Private School;
+· She met the general admission standards of the Private School where she was provided special attention on a regular daily basis;
+· She progressed beyond the level of performance that might have been achieved had no special attention been so well provided;
+· The general student body of the schools attended by the Appellant’s daughter, including, in particular, the Private School, was comprised of children who were not special needs children requiring special care or training. Indeed, of the general student body population of the Private School of some 250, only some 35 children would, in the normal course, be identified as requiring, and be given, special attention;
+· There was only one specially trained special education teacher at the Private School for the 35 or so children who needed and received special help on a daily basis. There were no special classrooms for these children receiving special attention;
+· The parents were satisfied, indeed convinced, that the Private School’s special education program was superior to that of other schools and was responsible for their daughter’s considerable academic progress;
+· While the Crown objected to the admission of the Psychological Assessment Report of Dr. Estes Moustacalls, a child psychologist, who had a session with the parents and did individual testing on their daughter on four occasions in early 2005, both parties relied on different portions of it;
+· The tuition expenses at issue in this appeal are those paid to the Private School for the Appellant’s daughter’s third grade education. Both parties have approached the appeal on the basis that such tuition fees could not be broken down to identify an allocable amount as a medical expense.
+Issues
+[5] The following are the issues to be dealt with:
+· Whether the child suffered a physical or mental handicap that required the facilities or personnel specifically provided by the Private School as required by paragraph 118.2(2)(e); and
+· Whether the school was a place that provided the Appellant’s daughter with the facilities or personnel required for the training of a person suffering the particular handicap (assuming that handicap was a qualifying handicap).
+· Whether the certificate requirement set out in paragraph 118.2(2)(e) has been met; i.e. whether the Psychological Assessment Report satisfies this requirement;
+Analysis
+[6] There was nothing in the testimony of the witnesses that would dissuade me from finding that the Appellant’s daughter suffered from a learning disability due to a developmental handicap and that the Private School provided special facilities and personnel to address that handicap. As well, nothing in their testimony dissuades me from finding that the other schools she attended, including the public school she attended at no cost, provided special facilities and personnel to address that handicap. However, I do not see such findings as being relevant. That the Appellant’s experience led him to believe that the other schools his daughter attended did not have adequate facilities and personnel to provide the special resource teaching required by his daughter, is not relevant either in my view. That the Special Ed. Coordinator might have been correct in her testimony that comparisons between the apparent success of one program, versus the apparent inadequacy of the other, do not tell the story accurately (since each school was working with the child at a different age and stage of learning development), is not relevant. Her view that the preliminary grade one program assessments of the Appellant’s daughter were in line with what might have been expected and that in due course her special program needs would have been more fully recognized and addressed by the public school’s facilities and special resource teachers, is also not relevant.
+[7] Indeed, in my view, no comparisons are relevant except to say that if I am satisfied that the public school special education facilities and personnel meet the requirements of the subject provision then I would have to conclude that the Private School met those requirements and vice versa as I am satisfied that there are essentially corresponding facilities and personnel at both schools. That one particular school, such as the Private School, may have a smaller population affording more one-on-one time with a student and may boast of better success with learning challenged children would not generally be sufficient to distinguish that school. To distinguish a particular school might require, for example, a special focus on learning disabled children or children with certain mental developmental issues. I am satisfied that the Private School had no such special focus. That some 35 children of a population of some 250 are identified as requiring, and are given, special attention does not in my view point to the type of focus that might distinguish that facility.
+[8] On the other hand, the subject provision does not expressly require that the school or institution have any particular focus. The provision simply requires that facilities and personnel be provided for the care and training required by the person suffering the mental handicap. Arguably, all the schools that the Appellant’s daughter attended, including the Private School, have met this requirement.
+[9] The Federal Court of Appeal has in effect considered the issue of focus and determined that where an institution does not provide medical services (care and training provided because of a handicap suffered by a patient) as a main focus, the expense incurred for the service is not a medical expense for the purposes of paragraph 118.2(2)(e) of the Act.
+[10] In its very recent decision, Her Majesty the Queen v. Debbie Scott[1], the Federal Court of Appeal considered the case of tuition paid at a private school that provided children with learning disabilities, special attention in terms of personnel trained to work with the particular needs of such children. The facts of that case cannot, in my view, be distinguished in any material way from the facts of the case before me. In that case, applying the reasoning in Lister v. Canada[2] the Federal Court of Appeal remarked as follows:
+[15] The type of institution that provides special care for the purposes of paragraph 118.2(2)(e) was addressed by this Court in Lister (ibid.). In Lister, where it was held that the test is one of purpose, our Court disallowed the deduction of expenses for a seniors’ residence on the basis that provision of medical services was incidental to accommodation services provided by the residence.
+[16] …
+(…) However, given the context of subsection 118.2(2), an organization that functions mainly as a provider of residential accommodation should not fall within the scope of paragraph 118.2(2)(e) merely because it incidentally provides some medical services to its residents.
+…
+[18] The fact that some of the services offered to the general student body were beneficial to the respondent’s son and other students with special needs is insufficient to bring Rothesay [the private school] within the ambit of the provision under study.
+[11] I see no reason not to apply this finding to the case at bar. Indeed, seeing no material basis upon which to distinguish that case from the one at bar, I am bound to follow it. Clearly, the special education assistance provided by the Private School was incidental to its regular academic program. There were no separate classrooms or physical facilities for the relatively few special needs children enrolled in the school. The Appellant’s daughter met the general admission standards and the tuition fee paid was no different than that paid by students who did not require special attention. In this setting, the tuition expense incurred cannot reasonably be found to be “for” the special care and training of the Appellant’s daughter. It was for the entire academic program.
+[12] While that is sufficient reason to dismiss the appeal, I will go on to consider briefly whether the additional requirement for the allowance of the medical expense has been met, namely whether Dr. Moustacalls’ Psychological Assessment Report (the “Report”) meets the certificate requirements set out in the subject provision.
+[13] On the question of certification, the Federal Court of Appeal in Scott, above, had this to say after acknowledging that there is no requirement that certification be in a particular format.
+[23] However there must be true certification: one which specifies the mental or physical handicap from which the patient suffers, and the equipment, facilities or personnel that the patient requires in order to obtain the care or training needed to deal with that handicap: Title Estate v. Canada [2001] F.C.J. No. 530 at paragraph 5.
+…
+[14] In Scott, the respondent’s son’s pediatrician testified as to a number of disorders suffered by her son that, in his professional view, would result in the respondent’s son having great difficulty in school. He recommended his attendance at schools, like the one chosen, that he knew of as being beneficial for children like the respondent’s son. He testified that he would recommend the particular school in question as a suitable school setting for the treatment of the respondent’s son’s learning and behavior disorders due to the teacher/student ratio, more accessibility to teacher assistance, and improved organization and study habits through daily meetings.
+[15] The Court expressed the view that this “recommendation” did not amount to certification. Furthermore, this recommendation was found to have been made ex post facto before the Tax Court of Canada. For the purpose of paragraph 118.2(2)(e) of the Act, certification is clearly a pre-condition to qualifying a disbursement as a medical expense and must be made before the expense is incurred.
+[16] In the case at bar there is the written Report, a written diagnosis of a Ph.D in child psychology, of a child’s learning disorder which cannot in my view be seriously challenged. The Report, although admitted contrary to a strict application of the hearsay rule and given without expert qualification and without affording the Respondent a cross examination opportunity, on its face appears very thorough and might well be considered as adequate to stand as a certification for the purposes of the subject provision of the Act. Unlike in Scott, the Report was prepared before the subject expenses were incurred and appears to meet the certification requirements laid down in Title Estate.
+[17] The Report does specify the mental handicap from which the patient suffers, identifying various areas where her abilities were in the “developmentally handicapped” range that would, in Ontario classification terminology, be the same as a “developmental disability”. As well, it sets out, in considerable detail, program modifications and pages of teaching strategies suggested as being needed to deal with this child’s handicap in delivering an optimal learning environment.
+[18] On the other hand, the detailed program modification and teaching strategies noted in the Report are set out under a heading: “Recommendations”. While I do not believe that the use of such term should necessarily distract from a finding that there has been a certification of the “need” for certain training, there are, it seems, two lines of thought that might encourage in this case treating the “recommendations”, as done in Scott, as something less than the required certification. Firstly, as noted above, the Report recognizes the potential for the public school system to implement programs designed to address the Appellant’s daughter’s disability.[3] Contextually, there may be an inference that if public schools can implement a modified teaching program, it should not be taken as the type of program that the provision is intended to address. The inference is that the needs to be addressed must be more than such needs. There must be a degree of special training that surpasses that which is normally provided. (This, perhaps, is just a variation of the focus requirement discussed above). Secondly, the expense being considered, in context, is a “medical” one incurred “for the care or the care and training” of a “patient” not for the expense incurred for “training” alone - including developing essential cognitive skills in slow learners or even mentally handicapped children. In this context, recommended teaching strategies might well fall short of certifiable needs.
+[19] It is not necessary for me to make a finding on the certification issue in this case. However, I do note that if the expense incurred had been one for training at a school or institution that focused on teaching special needs children, I dare say that I would have allowed that the Report, as submitted, was a certification for the purposes of paragraph 118.2(2)(e) of the Act. The question is one of degree. The less emphasis that the program puts on dealing with the special needs of handicapped persons, the more stringent the requirements for certifications to deal more expressly and exactingly with the express requirements of the Act.
+Conclusion
+[20] The three issues identified at the outset of these Reasons cannot all be resolved in favour of the Appellant. While I accept that the child suffered a handicap within the scope of paragraph 118.2(2)(e) and that the Report might in other circumstances have served adequately as the required certification, the nexus required between the focus of the program provided at, and the tuition paid to, the Private School, was not sufficient to meet the requirements of paragraph 118.2(2)(e) as set out in Scott.
+[21] For these reasons, the appeal is dismissed without costs.
+Signed at Winnipeg, Manitoba, this 8th day of October, 2008.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2008TCC565
+COURT FILE NO.: 2007-4012(IT)I
+STYLE OF CAUSE: ALEX VITA-FINZI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 18, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: October 8, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nikki Kumar (Student-At-Law)
+Lesley L’Heureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2008 FCA 286.
+[2] 2006 FCA 331; [2007] 1 C.T.C. 137.
+[3] The Special Ed. Coordinator called by the Respondent to testify was also of this view. That the Appellant’s experience proved contrary to this view is not relevant in respect of the adequacy of the Report to constitute a certification. The Appellant and his wife have worked very hard to ensure that their daughter is not left behind academically. Hopefully, their extraordinary efforts and diligence will continue to bear fruit. I am certain it was their diligence that resulted in the Report noting that even in grade two (before being enrolled in the Private School) she was performing in some areas beyond her “expected’ cognitive abilities.

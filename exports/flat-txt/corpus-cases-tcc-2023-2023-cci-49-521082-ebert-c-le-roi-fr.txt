@@ -1,0 +1,357 @@
+Title: Ebert c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521082/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-49-521082-ebert-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-04-18
+
+# Ebert c. Le Roi
+
+- Citation: 2023 CCI 49
+- Decision date: 2023-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5869, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ebert c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-04-18
+Référence neutre
+2023 CCI 49
+Numéro de dossier
+2020-1559(IT)G, 2020‑2155(IT)G, 2020-843(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-843(IT)G
+ENTRE :
+IRVING EBERT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-1559(IT)G
+ET ENTRE :
+RICHARD HERMAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-2155(IT)G
+ET ENTRE :
+P. PHILIPPE DESROSIERS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes tranchées sur la base des observations écrites déposées par les appelants le 24 septembre 2021,
+et par l’intimé le 26 octobre 2021.
+Devant : L’honorable juge Don R. Sommerfeldt.
+Comparutions :
+Avocat des appelants :
+Me Adam Aptowitzer
+Avocats de l’intimé :
+Me Montano Cabezas
+Me Allison Lubeck
+ORDONNANCE
+Après avoir examiné les avis de requête des appelants, la réponse modifiée à l’avis d’appel modifié (la « réponse Ebert ») dans le dossier d’appel no 2020-843(IT)G (dans lequel Irving Ebert est l’appelant), la réponse (la « réponse Herman ») dans le dossier d’appel no 2020-1559(IT)G (dans lequel Richard Herman est l’appelant) et la réponse à l’avis d’appel modifié (la « réponse DesRosiers ») dans le dossier d’appel no 2020-2155(IT)G (dans lequel P. Philippe DesRosiers est l’appelant), et après avoir examiné les observations écrites déposées par les appelants et l’intimé, respectivement;
+LA COUR ORDONNE :
+Les alinéas 12k), 12l) et 12m) de la réponse Ebert sont radiés, avec autorisation de les modifier, sous réserve des conditions précisées dans les motifs de l’ordonnance ci-joints.
+Les alinéas 14j) et 14k) de la réponse Herman sont radiés, avec autorisation de les modifier, sous réserve des conditions précisées dans les motifs de l’ordonnance ci-joints.
+Les alinéas 14l) et 14m) de la réponse DesRosiers sont radiés, avec autorisation de les modifier, sous réserve des conditions précisées dans les motifs de l’ordonnance ci-joints.
+Il est entendu que les autres hypothèses attaquées, qui figurent dans la réponse Ebert, la réponse Herman et la réponse DesRosiers, ne sont pas radiées.
+Les dépens à l’égard de ces requêtes suivront l’issue de la cause, sauf décision contraire du juge du procès.
+Signé à Edmonton (Alberta), ce 18e jour d’avril 2023.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+Ce 25e jour de mars 2025
+Référence : 2023 CCI 49
+Dossier : 2020-843(IT)G
+Date : le 18 avril 2023
+ENTRE :
+IRVING EBERT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-1559(IT)G
+ET ENTRE :
+RICHARD HERMAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2020-2155(IT)G
+ET ENTRE :
+P. PHILIPPE DESROSIERS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent les avis de requête déposés par les trois appelants le 24 septembre 2021. Les requêtes des appelants visent toutes l’obtention d’une ordonnance en radiation d’une partie ou de la totalité des réponses de l’intimé[1]. Bien que, contrairement à ce que permet l’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), les avis de requête ne contenaient aucune demande écrite pour que les requêtes soient tranchées sur la base des observations écrites et sans comparution des parties, et qu’aucune demande écrite distincte en ce sens n’ait été déposée, il ressort du paragraphe 1 de chacun des avis de requête que les appelants avaient l’intention de présenter des requêtes par écrit, d’autant plus que chacun des avis de requête présentait un résumé des faits, mentionnait les dispositions législatives pertinentes et contenait les observations des appelants concernant l’application de ces dispositions aux réponses de l’intimé. L’intimé, qui a déposé des observations écrites le 26 octobre 2021 en réponse aux requêtes des appelants, semble avoir compris que telle était l’intention des appelants.
+II. CONTEXTE
+A. Faits [2] Selon les avis d’appel déposés par les appelants, chacun des appelants :
+a) vit à Ottawa (Ontario) ou à Gatineau (Québec) ou à proximité de ces villes;
+b) est un collectionneur de vin expérimenté;
+c) pendant chacune des années d’imposition visées par les appels, a donné des bouteilles de vin à des organismes de bienfaisance enregistrés et a reçu un reçu officiel (au sens de l’article 3500 du Règlement de l’impôt sur le revenu)[2] pour chaque don de bienfaisance;
+d) a déposé ses reçus officiels auprès du ministre du Revenu national (le « ministre ») à l’appui des crédits d’impôt demandés au titre du paragraphe 118.1(3) de la Loi de l’impôt sur le revenu (la « LIR »)[3].
+[3] Certains vins ayant fait l’objet des dons de bienfaisance ont été évalués par Nico van Duyvenbode, tandis que d’autres vins ont été évalués par d’autres évaluateurs.
+[4] Pour l’établissement de la nouvelle cotisation à l’égard des appelants, le ministre a considéré que la juste valeur marchande des vins évalués par M. van Duyvenbode équivalait à seulement 20 % des sommes indiquées sur les reçus officiels.
+B. Historique de la procédure 1. Irving Ebert [5] Par des avis de nouvelle cotisation datés du 5 juin 2009, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par l’appelant Irving Ebert pour les années d’imposition 2005, 2006 et 2007. Par des avis de nouvelle cotisation datés du 24 février 2012, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par l’appelant M. Ebert pour les années d’imposition 2008 et 2009. Par un avis de nouvelle cotisation daté du 28 février 2013, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par M. Ebert pour l’année d’imposition 2011. Par un avis de nouvelle cotisation daté du 26 août 2013, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par M. Ebert pour l’année d’imposition 2012. Par un avis de nouvelle cotisation daté du 9 octobre 2014, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par M. Ebert pour l’année d’imposition 2013.
+[6] M. Ebert a déposé un avis d’opposition à l’égard de chacune des nouvelles cotisations. Le ministre a confirmé la nouvelle cotisation établie pour l’année 2011 le 11 décembre 2019 et les autres nouvelles cotisations le 13 décembre 2019.
+[7] M. Ebert a déposé un avis d’appel le 10 mars 2020, un avis d’appel modifié le 28 septembre 2020 et un nouvel avis d’appel modifié le 7 octobre 2020.
+[8] L’intimé a déposé une réponse à l’avis d’appel modifié le 30 novembre 2020 et une réponse modifiée (la « réponse Ebert ») à l’avis d’appel modifié le 5 mars 2021.
+[9] La requête de M. Ebert a été introduite par un avis de requête déposé le 24 septembre 2021. Dans l’avis de requête, il était sous-entendu que M. Ebert souhaitait que la requête soit tranchée sur la base des observations écrites, qui étaient jointes à l’avis de requête. Le 26 octobre 2021, l’intimé a déposé des observations écrites concernant la requête de M. Ebert et les requêtes présentées par les deux autres appelants.
+2. Richard Herman [10] Par des avis de nouvelle cotisation datés du 5 juin 2009, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par l’appelant Richard Herman pour les années d’imposition 2005, 2006 et 2007. M. Herman s’est opposé aux nouvelles cotisations. Le ministre a confirmé les nouvelles cotisations le 25 février 2020.
+[11] M. Herman a déposé un avis d’appel le 26 mai 2020. L’intimé a déposé une réponse (la « réponse Herman ») le 12 novembre 2020.
+[12] La requête de M. Herman a été introduite par un avis de requête déposé le 24 septembre 2021. Dans l’avis de requête, il était sous-entendu que M. Herman souhaitait que la requête soit tranchée sur la base des observations écrites, qui étaient jointes à l’avis de requête. Le 26 octobre 2021, l’intimé a déposé des observations écrites concernant la requête de M. Herman et les requêtes présentées par les deux autres appelants.
+3. P. Philippe DesRosiers [13] Par des avis de nouvelle cotisation datés du 8 mai 2009, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par l’appelant P. Philippe DesRosiers pour les années d’imposition 2005 et 2006. Par des avis de nouvelle cotisation datés du 5 janvier 2012, le ministre a établi une nouvelle cotisation à l’égard de l’impôt payable par l’appelant M. DesRosiers pour les années d’imposition 2008 et 2009. M. DesRosiers a déposé un avis d’opposition à l’égard de chacune des nouvelles cotisations. Par un avis de confirmation daté du 29 janvier 2020, le ministre a confirmé les nouvelles cotisations établies à l’égard de M. DesRosiers.
+[14] M. DesRosiers a déposé un avis d’appel le 20 octobre 2020, et un avis d’appel modifié et un nouvel avis d’appel modifié le 2 décembre 2020. L’intimé a déposé une réponse (la « réponse DesRosiers ») à l’avis d’appel modifié le 24 février 2021.
+[15] La requête de M. DesRosiers a été introduite par un avis de requête déposé le 24 septembre 2021. Dans l’avis de requête, il était sous-entendu que M. DesRosiers souhaitait que la requête soit tranchée sur la base des observations écrites, qui étaient jointes à l’avis de requête. Le 26 octobre 2021, l’intimé a déposé des observations écrites concernant la requête de M. DesRosiers et les requêtes présentées par les deux autres appelants.
+4. Hypothèses attaquées [16] En plus des diverses hypothèses qui sont propres à chacun des trois appelants, la réponse Ebert, la réponse Herman et la réponse DesRosiers (collectivement, les « réponses ») contiennent toutes une série d’alinéas exposant les dix mêmes hypothèses de fait sur lesquelles s’est appuyé le ministre pour déterminer la dette fiscale de l’appelant visé à l’égard des années d’imposition en cause. Le ministre s’est également appuyé sur une hypothèse de fait supplémentaire pour déterminer la dette fiscale de M. Ebert. Par voie des avis de requête, les appelants ont demandé à la Cour de rendre des ordonnances de radiation de ces 11 hypothèses de fait (collectivement, les « hypothèses attaquées »). Chacune de ces hypothèses est examinée plus loin.
+III. QUESTIONS EN LITIGE [17] De façon générale, les questions soulevées par les présentes requêtes sont les suivantes :
+a) est-ce que certaines ou toutes les hypothèses attaquées devraient être radiées parce qu’elles sont imprécises ou inexactes?
+b) est-ce que certaines ou toutes les hypothèses attaquées devraient être radiées parce qu’elles ne sont pas pertinentes?
+c) est-ce que certaines ou toutes les hypothèses attaquées devraient être radiées parce qu’elles concernent des tiers ou d’autres contribuables?
+d) est-ce que certaines ou toutes les hypothèses attaquées devraient être radiées parce qu’elles concernent des opérations effectuées au cours d’années d’imposition antérieures à celles qui sont en cause dans les présents appels?
+IV. PRINCIPES JURIDIQUES A. Article 53 des Règles
+[18] Le paragraphe 53(1) des Règles dispose :
+(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+B. Requête en radiation
+[19] En ce qui a trait au critère applicable à une requête en radiation fondée sur le fait que l’acte de procédure ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel, la Cour suprême du Canada déclare ce qui suit dans l’arrêt Tobacco :
+[...] l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable [...] Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut [la] laisser suivre son cours[4].
+[20] Certains principes généraux applicables aux demandes de radiation d’un acte de procédure fondées sur l’article 53 des Règles sont ainsi résumés par le juge en chef Bowman dans la décision Sentinel Hill :
+J’énoncerai en premier lieu les principes qui, selon moi, doivent s’appliquer à une requête en radiation fondée sur l’article 53 des Règles. La question a été examinée dans de nombreuses décisions de la Cour et de la Cour d’appel fédérale. Il n’est pas nécessaire de les citer toutes étant donné que les principes sont bien établis.
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en application de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve[5]. [Renvoi omis.]
+[21] Les appelants font valoir que les hypothèses attaquées sont, selon le cas :
+a) imprécises ou inexactes;
+b) non pertinentes;
+c) concernent le traitement de contribuables autres que les appelants.
+[22] Je résume ci‑après les principes juridiques qui s’appliquent à chacun de ces trois arguments.
+C. Précision et exactitude [23] Pour ce qui est de l’exigence voulant que des hypothèses de fait précises et exactes soient formulées, la Cour d’appel fédérale a déclaré ce qui suit dans l’arrêt Anchor Pointe :
+Alléguer l’existence d’hypothèses confère comme avantage important à la Couronne de renverser le fardeau de preuve, de sorte que le contribuable doive réfuter les hypothèses du ministre. Les faits allégués comme hypothèses doivent être précis et exacts afin que le contribuable sache bien clairement ce qu’il lui faudra prouver. Il n’y a aucune raison pour que l’exigence de précision et d’exactitude ne s’applique pas à l’énoncé exact par la Couronne des circonstances ayant donné lieu aux hypothèses, soit l’établissement d’une cotisation, l’établissement d’une nouvelle cotisation ou la ratification d’une cotisation[6].
+D. Pertinence [24] Le principe général veut qu’il soit préférable de laisser au juge du procès, plutôt qu’au juge des requêtes, le soin de déterminer si une hypothèse de fait formulée par le ministre est pertinente ou non. Par exemple, dans la décision Mungovan, le juge en chef Bowman (alors juge en chef adjoint ) écrit :
+Il est tout à fait possible [...] que certaines des hypothèses attaquées soient non pertinentes. Il revient au juge de première instance de le déterminer après la présentation de la preuve. Ce n’est pas une question qui peut ou devrait être déterminée dans le cadre de la présentation d’une requête préliminaire en radiation. Il se peut très bien que les paragraphes contiennent des allégations dont seule l’intimée a connaissance. Il reviendra au juge de première instance de déterminer si l’intimée devrait avoir à les prouver[7].
+Dans la décision Mungovan- , le juge en chef adjoint Bowman, qui a refusé de radier les hypothèses de fait attaquées, conclut ses motifs de la façon suivante :
+Je ne crois pas que les hypothèses alléguées contre lesquelles l’appelant proteste sont scandaleuses, frivoles ou vexatoires. Elles peuvent être erronées ou ne pas être pertinentes, mais, à moins que la preuve présentée au procès révèle le contraire, elles doivent néanmoins être considérées comme les hypothèses sur lesquelles le ministre s’est fondé[8].
+[25] Quatre ans plus tard, dans la décision Gould, le juge en chef Bowman répète ce qu’il a dit précédemment :
+De manière générale, la radiation de passages d’un acte de procédure en vertu de l’article 53 des Règles devrait se limiter aux cas les plus évidents. Il convient davantage que les questions de poids et de pertinence soient déterminées par le juge du procès, qui aura entendu l’ensemble de la preuve[9].
+[26] Dans la décision Metrobec, la juge D’Auray, après avoir examiné plusieurs décisions traitant d’hypothèses de fait que des contribuables considéraient comme non pertinentes, déclare :
+[...] un paragraphe ou une partie d’un paragraphe ne sera radié d’un acte de procédure que s’il est évident et manifeste que les faits allégués ne révèlent aucune cause raisonnable d’action. Dans le cas de doute, il vaut mieux laisser la détermination de la pertinence des faits au juge du procès qui, contrairement au juge présidant la requête, aura accès à l’ensemble de la preuve[10].
+[27] Le juge Rip (plus tard juge en chef) est encore plus direct, déclarant ce qui suit dans la décision Status-One, en 2004 :
+[...] cette Cour a, à plusieurs reprises, indiqué qu’il revient au juge qui préside au procès de se pencher sur la question de savoir si un acte de procédure devrait être radié en tout ou en partie et que cela ne doit pas se faire dans le contexte d’une requête interlocutoire. [...] Le juge qui préside au procès est dans une bien meilleure position qu’un juge entendant une requête préliminaire pour déterminer lesquelles des hypothèses de fait devraient être radiées, le cas échéant. C’est au juge qui préside au procès qu’il appartient de décider de ce qui est, ou de ce qui n’est pas, pertinent[11].
+E. Hypothèses concernant d’autres contribuables [28] En ce qui a trait à la question de savoir si le ministre peut s’appuyer sur des hypothèses de fait qui concernent d’autres contribuables ou des tiers, l’avocat des appelants me renvoie à la décision Sinclair, où le juge Bowie déclare que la Cour d’appel fédérale (la « C.A.F. ») a confirmé dans l’arrêt Ludco Enterprises que, dans un appel d’une cotisation d’impôt sur le revenu, on ne peut admettre en preuve que d’autres contribuables se trouvant dans des circonstances identiques ont fait l’objet de cotisations plus favorables, et souligne également que la C.A.F. indique dans l’arrêt Hokhold que le fait que le ministre a traité différemment des contribuables dans des circonstances similaires ne peut servir de fondement à un appel. Le juge Bowie fait remarquer que la C.A.F., qui a décidé de radier une partie de l’avis d’appel, a expliqué que, si l’instruction d’une question précise devient une enquête sur le traitement fiscal de personnes qui ne sont pas parties à l’appel devant la Cour, des conséquences injustes risquent d’en découler[12].
+[29] Concernant la même question, l’avocat de l’intimé me renvoie à la décision Status-One, rendue en 2005, où le juge Rip (plus tard juge en chef) déclare : « il peut y avoir des appels où les activités, passées et présentes, de tiers peuvent être pertinent[e]s en ce qui concerne les actes d’un contribuable »[13]. Le juge Rip fait référence à une observation qu’il a faite dans une décision antérieure, qui traitait d’une requête précédente présentée à l’égard du même appel[14], et qui a été confirmée par la C.A.F., qui a écrit ceci :
+Comme l’indique le juge Rip, il se peut bien que dans certains cas, les relations ou les liens que peut avoir une partie appelante avec des tiers soient pertinents à la détermination de son impôt payable. Mais encore faut-il que les actes de procédure laissent voir, de façon précise, en quoi ces liens ou relations pourraient être utiles à cette fin[15].
+[30] Dans la décision Gould, le juge en chef Bowman souligne que, dans certaines situations (particulièrement dans le cas de dons de bienfaisance), un élément central de la cotisation pourrait être l’existence d’une combine, qui implique nécessairement des tiers, de sorte que, « si l’existence d’une combine est essentielle pour la thèse de la Couronne, cette dernière devrait pouvoir invoquer et prouver tous les éléments de cette combine »[16]. Le juge en chef Bowman ajoute ensuite ceci :
+C’est aller trop loin que de prétendre, comme le fait l’appelant, que les décisions Global et Status One empêchent toute mention d’opérations de tiers, à moins que l’appelant n’ait été au courant de ces opérations ou y ait participé. Si l’existence d’une combine est liée au fait que les dons de bienfaisance n’ont pas été admis, on ne peut en faire fi, que le ministre ait supposé ou non que l’appelant était au courant d’opérations de tiers qui, d’après la Réponse, faisaient partie intégrante de la combine, ou qu’il y ait participé. Si l’un quelconque des faits supposés n’est réellement connu que de la Couronne, celle‑ci a probablement la charge de le prouver, bien que ce soit en définitive au juge du procès d’en décider[17].
+[31] Se fondant sur la décision Gould, la juge D’Auray déclare dans la décision Metrobec que « rien n’empêche l’intimée de plaider des hypothèses de fait relatives à des tiers, si le ministre s’est fondé sur ces faits lors de l’établissement de la cotisation »[18].
+V. ANALYSE [32] Comme il est coutume de le faire, l’intimé a énoncé dans chacune de ses réponses les hypothèses de fait sur lesquelles le ministre s’est appuyé pour l’établissement des nouvelles cotisations. Ces hypothèses figurent au paragraphe 12 de la réponse Ebert, au paragraphe 14 de la réponse Herman et au paragraphe 14 de la réponse DesRosiers.
+[33] Les appelants demandent la radiation des hypothèses attaquées de toutes les réponses. J’examine chacune de ces hypothèses à tour de rôle.
+A. Juste valeur marchande des vins [34] À l’alinéa 12f) de la réponse Ebert, à l’alinéa 14e) de la réponse Herman et à l’alinéa 14g) de la réponse DesRosiers, l’intimé énonce l’hypothèse de fait suivante :
+[traduction]
+La juste valeur marchande des vins donnés par l’appelant et évalués par Nico van Duyvenbode était de tout au plus 20 % (un ratio de 1/5) de la somme indiquée sur les reçus pour don de bienfaisance (« l’hypothèse fondée sur la JVM »).
+[35] Selon les appelants, la détermination faite par le ministre de la juste valeur marchande des vins qu’ils ont donnés était fondée sur une analyse de ventes aux enchères de vins à des fins caritatives ayant eu lieu avant les années au cours desquelles les appelants ont donné leurs vins à divers organismes de bienfaisance. Les appelants soutiennent également que le ministre a déterminé la juste valeur marchande en se fondant sur une analyse statistique, mais sans préciser la juste valeur marchande réelle qu’il a déterminée.
+[36] L’intimé soutient que l’hypothèse fondée sur la JVM explique pourquoi le ministre a considéré que les crédits d’impôt pour don de bienfaisance devraient être calculés en tenant compte de seulement 20 % des valeurs estimatives données aux vins en question.
+[37] J’interprète l’hypothèse fondée sur la JVM comme indiquant que le ministre a supposé que la juste valeur marchande de chacun des vins donnés par les appelants correspondait à 20 % ou moins de la somme indiquée sur le reçu pour don de bienfaisance. Je suppose que tous les appelants considèrent que la juste valeur marchande des vins qu’ils ont donnés correspondait aux sommes indiquées sur les reçus pour don de bienfaisance. Je ne suis pas d’avis que l’hypothèse fondée sur la JVM n’offre pas aux appelants suffisamment de précision pour leur permettre de connaître la nature de la preuve qu’ils doivent réfuter. Je m’attendrais à ce que chacun d’entre eux s’efforce de produire des éléments de preuve visant à établir que la juste valeur marchande des vins donnés correspondait aux sommes indiquées sur les reçus pour don de bienfaisance.
+[38] Les observations des appelants mentionnées au paragraphe 35 ci‑dessus sont des arguments que ces derniers peuvent avancer au procès pour expliquer pourquoi la détermination faite par le ministre de la juste valeur marchande des vins donnés est erronée. Ces arguments ne justifient cependant pas la radiation de l’hypothèse fondée sur la JVM. Si le ministre a simplement présumé de la fourchette de la juste valeur marchande (c.-à-d. 0 à 20 % de la somme indiquée sur le reçu officiel) et a établi ses cotisations sur ce fondement sans tirer d’hypothèse quant au montant précis de la juste valeur marchande des vins, c’est ce qui devrait être plaidé[19].
+[39] Si une hypothèse de fait renvoie à une méthode erronée que le ministre a utilisée pour évaluer la valeur des vins donnés, et que les appelants démontrent que la méthode était effectivement erronée, cela pourrait être suffisant au procès pour que l’hypothèse soit réfutée, et même concourir à[20] l’accueil des appels, mais non constituer un motif de radiation de l’hypothèse de fait formulée dans les réponses.
+[40] Par conséquent, l’alinéa 12f) de la réponse Ebert, l’alinéa 14e) de la réponse Herman et l’alinéa 14g) de la réponse DesRosiers ne devraient pas être radiés.
+B. Vins vendus aux enchères [41] À l’alinéa 12g) de la réponse Ebert, à l’alinéa 14f) de la réponse Herman et à l’alinéa 14h) de la réponse DesRosiers, respectivement, l’intimé formule l’hypothèse suivante :
+[traduction]
+Les organismes de bienfaisance disposaient des vins lors de leurs ventes aux enchères annuelles de vins fins (l’« hypothèse fondée sur les ventes aux enchères »).
+[42] Les appelants soutiennent que l’hypothèse fondée sur les ventes aux enchères est imprécise et qu’elle vise des vins qui peuvent ou non avoir été donnés par les appelants.
+[43] Quant à l’intimé, il fait valoir que le contenu de chacune des réponses, plus précisément une partie des alinéas précédant l’hypothèse fondée sur les ventes aux enchères, indique clairement que le terme « vins » employé dans l’hypothèse fondée sur les ventes aux enchères renvoie aux vins donnés par l’appelant visé. Il soutient également que l’hypothèse fondée sur les ventes aux enchères renvoie aux faits relatifs aux conditions dans lesquelles les vins ont été vendus, soit des ventes aux enchères annuelles de vins fins, et que ces conditions étaient pertinentes pour la détermination de la juste valeur marchande.
+[44] Je souscris aux arguments de l’intimé. Plus précisément, certaines des hypothèses énoncées ci‑dessus formulées dans les réponses offrent aux appelants toute la précision souhaitée. Par exemple, l’alinéa b) de chacun des paragraphes des réponses dans lesquels sont énoncées les hypothèses indique que [traduction] « l’appelant a donné des vins à des organismes de bienfaisance enregistrés », et l’alinéa c) de chacun de ces paragraphes renvoie aux [traduction] « vins donnés par l’appelant ». De même, comme je l’ai mentionné plus haut, l’hypothèse fondée sur la JVM, figurant à l’alinéa précédant l’hypothèse fondée sur les ventes aux enchères, renvoie aussi aux [traduction] « vins donnés par l’appelant ». Il s’ensuit que le terme « vins » qui figure à l’alinéa 12g) de la réponse Ebert, à l’alinéa 14f) de la réponse Herman et à l’alinéa 14(h) de la réponse DesRosiers renvoie à des vins précis, soit les vins donnés par l’appelant visé.
+[45] Je refuse de radier l’alinéa 12g) de la réponse Ebert, l’alinéa 14f) de la réponse Herman et l’alinéa 14h) de la réponse DesRosiers.
+C. Valeurs marchandes dépréciées [46] L’alinéa 12j) de la réponse Ebert, l’alinéa 14g) de la réponse Herman et l’alinéa 14i) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Les ventes aux enchères à des fins caritatives qui ont eu lieu dans la RCN [région de la capitale nationale] ont introduit une grande quantité de vins fins sur le marché local, ce qui s’est traduit par des valeurs marchandes dépréciées (l’« hypothèse fondée sur la valeur dépréciée »).
+[47] Selon les appelants, l’hypothèse fondée sur la valeur dépréciée renvoie à une série de faits, qui peuvent se rapporter ou non à un appelant en particulier, et que cette hypothèse est imprécise.
+[48] L’intimé soutient que l’hypothèse fondée sur la valeur dépréciée met en contexte les conditions de vente, et qu’elle est donc pertinente pour la détermination de la juste valeur marchande des vins en question.
+[49] Je reconnais que l’hypothèse fondée sur la valeur dépréciée porte sur les conditions du marché applicables, et qu’il s’agit donc d’une hypothèse sur laquelle le ministre peut s’appuyer.
+[50] L’alinéa 12h) de la réponse Ebert, l’alinéa 14g) de la réponse Herman et l’alinéa 14i) de la réponse DesRosiers ne devraient pas être radiés.
+D. Bouteilles de vin vendues en lots [51] L’alinéa 12i) de la réponse Ebert, l’alinéa 14h) de la réponse Herman et l’alinéa 14j) de la réponse DesRosiers indiquent chacun :
+[traduction]
+La plupart des bouteilles de vin ont été vendues en lots aux enchères à des fins caritatives (l’« hypothèse fondée sur la vente en lots »).
+[52] Les appelants soutiennent que l’hypothèse fondée sur la vente en lots renvoie à une série de faits qui peuvent se rapporter ou non à un appelant en particulier et que cette hypothèse est imprécise.
+[53] L’intimé soutient que l’hypothèse fondée sur la vente en lots explique plus en détail les conditions de vente, et qu’elle est pertinente pour la détermination de la juste valeur marchande.
+[54] Comme je le mentionne plus haut, l’hypothèse fondée sur la valeur dépréciée, qui précède immédiatement l’hypothèse fondée sur la vente en lots, renvoie à [traduction] « une grande quantité de vins fins [qui ont été introduits] sur le marché local ». Ces mots, employés plutôt que l’expression [traduction] « les vins donnés par l’appelant », pourraient être ce à quoi se rapporte le terme « vins » utilisé dans l’hypothèse fondée sur la vente en lots. Cela pourrait donc donner lieu à un manque de clarté. Toutefois, je ne suis pas d’avis que ce manque de clarté soit important au point de me faire changer d’avis sur le fait que l’hypothèse fondée sur la vente en lots permet au ministre de déterminer la juste valeur marchande de chacun des vins des appelants.
+[55] Je souscris à l’argument de l’intimé voulant que l’hypothèse fondée sur la vente en lots expose un fait qui pourrait s’appliquer à la détermination de la juste valeur marchande. Cependant, je reconnais aussi qu’il est possible que chaque appelant ne dispose pas de l’information sur la façon dont les vins donnés par d’autres personnes ont été vendus aux enchères, ce qui pourrait, pour les appelants, poser des difficultés quant à la preuve qu’ils doivent présenter. Je fais remarquer que, comme je le dis plus haut, il est loisible au juge du procès de décider que le fardeau de prouver les faits dont les appelants n’ont pas connaissance incombe à l’intimé[21].
+[56] L’alinéa 12i) de la réponse Ebert, l’alinéa 14h) de la réponse Herman et l’alinéa 14j) de la réponse DesRosiers ne devraient pas être radiés.
+E. Vins vendus tels quels, sans possibilité de recours [57] L’alinéa 12j) de la réponse Ebert, l’alinéa 14i) de la réponse Herman et l’alinéa 14k) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Les vins étaient vendus aux enchères à des fins caritatives « tels quels, sans possibilité de recours » (l’« hypothèse fondée sur la vente “telle quelle” »).
+[58] Les appelants soutiennent que l’hypothèse fondée sur la vente « telle quelle » renvoie à une série de faits qui peuvent se rapporter ou non à un appelant en particulier et que cette hypothèse est imprécise.
+[59] L’intimé soutient que l’hypothèse fondée sur la vente « telle quelle » explique plus en détail les conditions de vente, et qu’elle est pertinente pour la détermination de la juste valeur marchande.
+[60] Comme je le conclus dans l’analyse ci-dessus au sujet de l’hypothèse fondée sur la vente en lots, je suis d’avis qu’il pourrait y avoir un manque de clarté étant donné que le terme « vins » employé dans l’hypothèse fondée sur la vente « telle quelle » pourrait renvoyer à la [traduction] « grande quantité de vins fins » mentionnés dans l’hypothèse fondée sur la valeur dépréciée ou aux [traduction] « vins donnés par l’appelant » de l’hypothèse fondée sur la JVM. Cependant, dans l’ensemble, je suis d’avis que, malgré ce manque de clarté possible, l’hypothèse fondée sur la vente « telle quelle » permet au ministre de déterminer la juste valeur marchande de chacun des vins des appelants.
+[61] L’alinéa 12j) de la réponse Ebert, l’alinéa 14i) de la réponse Herman et l’alinéa 14k) de la réponse DesRosiers ne devraient pas être radiés.
+F. Participation des donateurs aux ventes aux enchères [62] L’alinéa 12k) de la réponse Ebert, l’alinéa 14j) de la réponse Herman et l’alinéa 14l) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Plusieurs donateurs de vin ont activement participé aux ventes aux enchères à des fins caritatives (l’« hypothèse fondée sur la participation »).
+[63] Selon les appelants, l’hypothèse fondée sur la participation renvoie à un groupe de donateurs qui peut inclure ou non un appelant en particulier. Les appelants soutiennent que cette hypothèse aussi est imprécise.
+[64] Selon l’intimé, l’hypothèse fondée sur la participation indique l’existence d’un lien entre le comportement du donateur (sa participation active aux ventes aux enchères) et la prétendue indépendance de l’évaluateur dans son évaluation des vins donnés par les appelants. L’intimé soutient également que le fait que certains donateurs rachètent les vins qu’ils ont donnés (ce qui indique vraisemblablement qu’ils ont participé activement aux ventes aux enchères) démontre le caractère artificiel des processus d’évaluation et de don. Enfin, l’intimé ajoute que, dans les cas de MM. Ebert et DesRosiers à l’égard desquels des pénalités ont été imposées en application du paragraphe 163(2) de la LIR, l’hypothèse fondée sur la participation sous-tend dans une certaine mesure ces pénalités, même si les appelants n’ont pas expressément mentionné les pénalités dans leurs avis d’appel et qu’ils ne semblent donc pas les contester.
+[65] Plutôt que d’insister sur les activités de chacun des appelants, l’hypothèse fondée sur la participation renvoie aux activités de nombreux donateurs de vin. Comme je le note plus haut dans l’analyse des décisions Status-One, le tribunal doit faire preuve de prudence lorsque la Couronne invoque les agissements de tiers dans les actes de procédure[22]. Lorsque les agissements de tiers sont allégués, la pertinence ou la non-pertinence de ces allégations devrait être évaluée au regard des actes de procédure[23]. En outre, il incombe au ministre de préciser le lien entre les agissements des tiers et ceux du contribuable visé[24].
+[66] Rien dans les trois réponses n’indique l’existence d’un lien, encore moins d’un lien précis, entre un appelant en particulier et les autres donateurs de vin. Dans les observations écrites de l’intimé, ce dernier soutient que l’hypothèse fondée sur la participation [traduction] « suppose l’existence d’un lien entre le comportement des donateurs (soit leur participation active aux ventes aux enchères) et l’indépendance de l’évaluateur »[25]. Toutefois, comme il est mentionné dans la décision Status-One, l’existence d’un lien entre un contribuable donné et des tiers doit être établie en fonction des actes de procédure, et non des observations écrites déposées à l’égard d’une requête. En outre, le lien entre les agissements des tiers et ceux du contribuable doit être précisé, et non simplement sous-entendu. Par conséquent, je suis d’avis que l’intimé n’a pas établi l’existence d’un lien entre la participation active d’un grand nombre de donateurs de vin lors des ventes aux enchères à des fins caritatives et les agissements des trois appelants.
+[67] Si le ministre a supposé que chacun des appelants a participé activement aux ventes aux enchères, je suis d’avis, sans avoir étudié, examiné ou analysé ce point à fond, qu’il aurait été suffisant que l’intimé allègue quelque chose comme :
+[traduction]
+L’appelant a participé activement aux ventes aux enchères à des fins caritatives.
+Quoi qu’il en soit, mon étude, mon examen et mon analyse de la jurisprudence (figurant en partie aux paragraphes 28 à 31 des présents motifs) m’ont convaincu que l’hypothèse fondée sur la participation, telle qu’elle est rédigée, est trop générale.
+[68] L’alinéa 12k) de la réponse Ebert, l’alinéa 14j) de la réponse Herman et l’alinéa 14l) de la réponse DesRosiers sont radiés, avec autorisation de les modifier, pourvu que ces modifications se limitent aux agissements de l’appelant visé ou précisent clairement le lien entre les agissements de l’appelant et la participation active des autres donateurs de vin aux ventes aux enchères.
+G. Rachat par des donateurs des vins donnés [69] L’alinéa 12l) de la réponse Ebert, l’alinéa 14k) de la réponse Herman et l’alinéa 14m) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Dans certains cas, des donateurs de vin ont racheté les vins qu’ils ont donnés (l’« hypothèse fondée sur le rachat »).
+[70] Selon les appelants, l’hypothèse fondée sur le rachat renvoie à un groupe de donateurs qui peut inclure ou non un appelant en particulier. Les appelants soutiennent en outre que cette hypothèse est imprécise.
+[71] L’intimé adopte la même position à l’égard de l’hypothèse fondée sur le rachat qu’à l’égard de l’hypothèse fondée sur la participation.
+[72] À l’instar de ce que j’ai dit au paragraphe 67 ci-dessus, il me semble qu’il aurait été suffisant que l’intimé allègue ce qui suit :
+[traduction]
+L’appelant a racheté certains des vins ou tous les vins qu’il avait donnés.
+[73] Les remarques que j’ai faites à l’égard de l’hypothèse fondée sur la participation s’appliquent également à l’hypothèse fondée sur le rachat. Ainsi, à mon avis, l’hypothèse fondée sur le rachat, telle qu’elle est rédigée, est trop générale.
+[74] L’alinéa 12l) de la réponse Ebert, l’alinéa 14k) de la réponse Herman et l’alinéa 14m) de la réponse DesRosiers sont radiés, avec autorisation de les modifier, pourvu que ces modifications se limitent aux agissements de l’appelant visé ou précisent clairement le lien entre les agissements de l’appelant et le rachat des vins par les autres donateurs de vin.
+H. Rachat des vins avec profit lors des ventes aux enchères tenues en 2001 et en 2004 [75] L’alinéa 12m) de la réponse Ebert indique :
+[traduction]
+L’appelant a racheté les vins qu’il a donnés avec profit aux ventes aux enchères à des fins caritatives tenues en 2001 et en 2004 (l’« hypothèse fondée sur le profit »).
+Aucune disposition correspondante ne figure dans la réponse Herman ou dans la réponse DesRosiers de l’intimé.
+[76] M. Ebert soutient que l’hypothèse fondée sur le profit n’est pas pertinente parce qu’elle se rapporte à des activités qui se seraient tenues en 2001 et en 2004, alors que son appel porte sur les années 2005 à 2013 inclusivement. Il ajoute que l’hypothèse fondée sur le profit est scandaleuse, et qu’elle ne visait qu’à le dénigrer.
+[77] L’intimé soutient que l’hypothèse fondée sur le profit indique l’existence d’un lien entre le comportement de M. Ebert et l’indépendance de l’évaluateur, et explique également le caractère artificiel que le ministre voit dans les processus d’évaluation et de don en cause. En outre, selon l’intimé, l’hypothèse fondée sur le profit se rapporte aux pénalités imposées en application du paragraphe 163(2) de la LIR.
+[78] Je suis d’avis que l’hypothèse fondée sur le profit est ambiguë. On ne sait pas avec certitude si l’intimé a présumé que M. Ebert, lors des ventes aux enchères à des fins caritatives antérieures, avait racheté les vins avec profit ou avait donné les vins avec profit. Autrement dit, ce à quoi se rapporte l’expression [traduction] « avec profit » n’est pas clair. Est-il question du rachat antérieur des vins ou du don antérieur des vins? Étant donné que l’expression « avec profit » suit immédiatement le mot [traduction] « donnés » et non l’expression [traduction] « vins rachetés », selon les règles habituelles de grammaire, l’expression [traduction] « avec profit » modifie le mot [traduction] « donnés ».
+[79] Si l’expression [traduction] « avec profit » renvoie au don de vins, une autre difficulté se pose. Étant donné que, par définition, un don ou un cadeau sont faits sans contrepartie, il est difficile de comprendre comment on pourrait tirer profit d’un don. Le ministre avait peut-être à l’esprit le fait que le montant du crédit d’impôt découlant du don de bienfaisance était supérieur à la juste valeur marchande des vins faisant l’objet du don. Cependant, il n’est pas évident que c’est ce qui est allégué dans l’hypothèse fondée sur le profit.
+[80] Si c’est le rachat des vins qui donnait lieu à un profit, cette hypothèse manque elle aussi de clarté, étant donné qu’un profit découle habituellement de la vente ou de la disposition d’un bien, et non du rachat d’un bien (quoiqu’il puisse y avoir des exceptions, comme dans le cas d’une vente à découvert). Le ministre supposait peut-être que la juste valeur marchande de ces vins qui a été évaluée au moment où M. Ebert a fait don des vins aux organismes de bienfaisance en 2001 et en 2004 était supérieure au prix que ce dernier a payé par la suite pour racheter les mêmes vins dans les ventes aux enchères. Cela est cependant loin d’être clair à la lecture de l’hypothèse fondée sur le profit, telle qu’elle est rédigée.
+[81] Ainsi qu’il est indiqué plus haut, M. Ebert s’oppose à ce que l’intimé renvoie à des opérations effectuées au cours d’années d’imposition antérieures à celles qui sont visées par les appels de M. Ebert. Dans des situations qui pourraient être considérées comme quelque peu inverses, lorsqu’un contribuable fait valoir, lors d’une année d’imposition ultérieure, que le ministre devrait lui accorder le même traitement que celui qui lui avait été accordé dans les années antérieures, les tribunaux ont statué qu’une [traduction] « cotisation est définitive entre les parties seulement en ce qui concerne la cotisation établie pour l’année en cause »[26]. Dans le cas de déductibilité de dépenses qui sont semblable à celles qui avaient été autorisées par le ministre au cours de l’année d’imposition précédente, la façon dont le ministre « a traité les demandes du même genre au cours des années antérieures ne […] lie pas » la Cour[27]. Comme il a été dit dans la décision Hawkes :
+[...] le fait que le ministre a établi à l’égard de la déclaration de revenu d’un contribuable une cotisation différente de celle qu’il a établie à l’égard d’une autre déclaration [...] ne prouv[e] pas que l’une des cotisations est inexacte. Il s’agit d’une question à trancher en appel[28].
+[82] Dans la présente requête, la situation est différente, mais j’estime qu’il y a une analogie à faire avec les principes énoncés ci-dessus. La question de savoir si M. Ebert peut avoir [traduction] « racheté les vins qu’il a donnés avec profit aux ventes aux enchères à des fins caritatives tenues en 2001 et en 2004 » (peu importe le sens de cette phrase) ne semble pas être une indication de ce qu’il a pu faire entre 2005 et 2013 inclusivement. Je n’ai rien trouvé dans la réponse Ebert qui explique l’existence d’un lien entre les opérations effectuées en 2001 et en 2004 et les dons de vin visés par les appels de M. Ebert.
+[83] Il est difficile de savoir si les faits présumés dont fait état l’hypothèse fondée sur le profit, s’ils étaient présentés en preuve, seraient considérés comme une preuve de faits similaires à l’appui d’un raisonnement fondé sur une propension ou comme une preuve circonstancielle se rapportant aux cotisations en litige à l’égard des années d’imposition 2005 à 2013[29]. On ne sait pas trop non plus si les faits présumés, s’ils étaient présentés en preuve, seraient trop éloignés des faits qui sous-tendent les nouvelles cotisations[30]. Pour résumer, la réponse Ebert n’établit pas de [traduction] « lien ou rapport réel et important entre l’acte ou l’allégation [soit les dons de vins effectués de 2005 à 2013 inclusivement] et les faits relatifs à des événements antérieurs [soit le rachat des vins en 2001 et en 2004] »[31].
+[84] L’alinéa 12m) de la réponse Ebert est radié, avec autorisation de le modifier, pourvu que ces modifications :
+a) identifient et expliquent de façon claire et non équivoque les opérations effectuées en 2001 et en 2004 visées par l’hypothèse avancée par le ministre lorsqu’il a établi la nouvelle cotisation de M. Ebert à l’égard de ses années d’imposition 2005 à 2013;
+b) établissent un lien ou un rapport réel et important entre les opérations effectuées en 2001 et en 2004 et les vins donnés de 2005 à 2013;
+c) ne s’appuient pas sur un raisonnement fondé sur une propension[32].
+I. Vins vendus à 20 % de la valeur estimative [85] L’alinéa 12n) de la réponse Ebert, l’alinéa 14l) de la réponse Herman et l’alinéa 14n) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Les vins évalués par Nico van Duyvenbode ont été vendus aux enchères à des fins caritatives, en moyenne pour 20 % de leur valeur estimative (l’« hypothèse fondée sur le pourcentage de 20 % »).
+[86] Les appelants soutiennent que l’hypothèse fondée sur le pourcentage de 20 % repose sur une analyse statistique non pertinente, provenant des années d’imposition précédant les années visées par les appels. De plus, selon les appelants, cette hypothèse n’est pas suffisamment précise, car elle renvoie à la moyenne des valeurs se rapportant à un autre contexte.
+[87] L’intimé soutient que l’hypothèse fondée sur le pourcentage de 20 % se rapporte à la détermination qu’a faite le ministre de la juste valeur marchande des vins donnés, et qu’elle reflète le caractère artificiel que le ministre voit dans les processus d’évaluation et de don en cause. En outre, l’intimé affirme que l’hypothèse fondée sur le pourcentage de 20 % s’applique surtout à MM. Ebert et DesRosiers, qui se sont vu imposer des pénalités en application du paragraphe 163(2) de la LIR.
+[88] Comme le juge Boyle l’a mentionné dans la décision McCuaig Balkwill, le résident ontarien qui veut vendre ses vins ou en disposer autrement peut procéder de trois façons, soit :
+a)les ventes aux enchères de vins de collection organisées par la Régie des alcools de l’Ontario (la « LCBO »);
+b)les ventes en consignation, aux enchères ou au détail, par des vendeurs internationaux, qui ne sont pas la LCBO;
+c)les dons à des organismes de bienfaisance, les vins devant être vendus aux enchères[33].
+[89] Après avoir déterminé ces marchés, le juge Boyle a ajouté :
+Les prix de transactions dans ces marchés sont de toute évidence pertinents, mais ils ne constituent pas l’élément décisif dans l’établissement par notre Cour de la juste valeur marchande de vins[34].
+Ainsi, je ne considère pas le renvoi, dans les actes de procédure de l’intimé, aux prix auxquels les vins en particulier ont été vendus aux enchères à des fins caritatives comme étant inapproprié ou non pertinent.
+[90] Je suis donc d’avis que l’hypothèse fondée sur le pourcentage de 20 % est acceptable, puisqu’elle indique que le prix auquel les vins ont été vendus aux enchères à des fins caritatives était un facteur dont le ministre a tenu compte dans sa détermination de la juste valeur marchande de ces vins. Comme la vente de vins aux enchères à des fins caritatives semble constituer des comparables acceptables dont peut tenir compte un évaluateur dans son évaluation des vins, l’hypothèse fondée sur le pourcentage de 20 % devrait être maintenue. Toutefois, même si les appelants devaient démontrer qu’une vente aux enchères à des fins caritatives ne constitue pas un comparable acceptable[35], l’hypothèse fondée sur le pourcentage de 20 % ne leur nuirait pas, car ils pourraient se reporter à l’hypothèse pour démontrer que l’évaluation du ministre reposait sur un comparable non acceptable, et que ce dernier a donc utilisé une méthode d’évaluation inappropriée.
+[91] Il semble que tous les appelants, d’une part, et que l’intimé, d’autre part, soutiennent que l’évaluateur de l’autre partie a utilisé une méthode d’évaluation erronée. Plus précisément, les avis de requête indiquent qu’en réponse à une demande de précisions, l’intimé a déclaré que l’allégation du ministre selon laquelle la méthode dont s’est servi M. van Duyvenbode était erronée et était fondée sur des ensembles aléatoires d’échantillons provenant de 18 ventes aux enchères différentes organisées par huit organismes de bienfaisance, du 31 mai 2001 au 2 décembre 2004. Selon le ministre, cette analyse révélait que les valeurs estimatives déterminées par M. van Duyvenbode étaient en moyenne 5,21 supérieures au prix des ventes aux enchères. Il semble que l’allégation du ministre soit fondée sur une autre allégation voulant que M. van Duyvenbode ait utilisé la même méthode d’évaluation pour les vins donnés entre 2005 et 2013 inclusivement que celle qu’il a utilisée pour les vins donnés entre 2001 et 2004 inclusivement. Pour leur part, les appelants soutiennent que la méthode d’évaluation du ministre était erronée parce qu’elle était fondée sur des données provenant des années 2001 à 2004 plutôt que sur des données provenant des années 2005 à 2013. Toutefois, si l’évaluateur du ministre a utilisé une méthode d’évaluation erronée, il s’agit d’un argument que les appelants peuvent faire valoir au procès, mais pas d’un motif justifiant la radiation de l’hypothèse fondée sur le pourcentage de 20 %[36].
+[92] L’alinéa 12n) de la réponse Ebert, l’alinéa 14l) de la réponse Herman et l’alinéa 14n) de la réponse DesRosiers ne devraient pas être radiés.
+J. Activités de M. van Duyvenbode [93] L’alinéa 12o) de la réponse Ebert, l’alinéa 14m) de la réponse Herman et l’alinéa 14o) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Nico van Duyvenbode a sollicité des donateurs éventuels, a fourni les évaluations, a récupéré les bouteilles de vin et les a regroupées en lots, a livré ces bouteilles aux organismes de bienfaisance et a participé aux ventes aux enchères en tant qu’enchérisseur (l’« hypothèse fondée sur les activités »).
+[94] Les observations écrites jointes aux avis de requête déposés par les appelants ne mentionnent aucun argument précis quant à l’hypothèse fondée sur les activités, sauf peut-être que les bouteilles de vin qui y sont mentionnées n’auraient pas été récupérées auprès des appelants en cause, mais plutôt auprès d’une partie ou de l’ensemble des donateurs de vin en général.
+[95] L’intimé soutient que l’hypothèse fondée sur les activités se rapporte à l’allégation, formulée dans chacun des avis d’appel selon laquelle l’évaluateur (M. van Duyvenbode) est un évaluateur indépendant. Toujours selon l’intimé, l’hypothèse fondée sur les activités a trait au caractère artificiel que le ministre voit dans les processus d’évaluation et de don en cause.
+[96] Je souscris à l’argument de l’intimé selon lequel l’hypothèse fondée sur les activités se rapporte à l’allégation, formulée dans chacun des avis d’appel, selon laquelle M. van Duyvenbode est un évaluateur indépendant. Je reconnais que les appelants n’ont peut-être pas une connaissance personnelle des activités de M. van Duyvenbode, et qu’ils ne sont peut-être pas en mesure de présenter une preuve susceptible de démolir cette hypothèse. Il reviendra au juge du procès de déterminer si l’intimé devrait assumer le fardeau de la preuve à l’égard de l’hypothèse fondée sur les activités.
+[97] L’alinéa 12o) de la réponse Ebert, l’alinéa 14m) de la réponse Herman et l’alinéa 14o) de la réponse DesRosiers ne doivent pas être radiés.
+K. Paiement versé à M. van Duyvenbode [98] L’alinéa 12p) de la réponse Ebert, l’alinéa 14n) de la réponse Herman et l’alinéa 14p) de la réponse DesRosiers indiquent chacun :
+[traduction]
+Les organismes de bienfaisance ont versé à M. van Duyvenbode 10 % du prix final auquel les vins ont été vendus aux enchères (l’« hypothèse fondée sur le paiement »).
+[99] Les observations écrites des appelants jointes aux avis de requête ne contiennent aucun argument précis quant à l’hypothèse fondée sur le paiement, même s’il existe une observation générale selon laquelle les autres hypothèses attaquées, sauf celle fondée sur la JVM, qui font référence à des [traduction] « vins » ne renvoient pas aux vins donnés par les appelants mais plutôt aux vins qui ont fait l’objet de l’analyse statistique réalisée par le ministre.
+[100] L’intimé soutient que les faits présentés dans l’hypothèse fondée sur le paiement permettent de remettre en question l’indépendance de M. van Duyvenbode à titre d’évaluateur des vins donnés par les appelants (et d’évaluateur de bon nombre des autres vins donnés).
+[101] Je souscris à l’argument de l’intimé voulant que l’hypothèse fondée sur le paiement, tout comme l’hypothèse fondée sur les activités, mette en doute l’indépendance de M. van Duyvenbode et, par conséquent, remette en question la déclaration figurant dans chacun des avis d’appel selon laquelle M. van Duyvenbode était un évaluateur indépendant.
+[102] Comme il est possible que les appelants n’aient pas connaissance des paiements que les organismes de bienfaisance ont versés à M. van Duyvenbode, il appartiendra au juge du procès de déterminer si l’intimé devrait assumer le fardeau de la preuve à l’égard de l’hypothèse fondée sur le paiement.
+[103] Je reconnais qu’il y a un doute quant à savoir si le mot [traduction] « vins » employé dans l’hypothèse fondée sur le paiement renvoie seulement aux vins donnés par les appelants, aux vins faisant l’objet de l’analyse statistique réalisée par le ministre ou à certains des vins ou à tous les vins donnés par une partie ou l’ensemble des donateurs. Il s’agit d’une question qui devra être tranchée par le juge du procès, qui aura l’occasion d’entendre et d’examiner tous les éléments de preuve.
+[104] Je refuse de radier l’alinéa 12p) de la réponse Ebert, l’alinéa 14n) de la réponse Herman et l’alinéa 14(p) de la réponse DesRosiers.
+VI. CONCLUSION [105] Les hypothèses attaquées qui sont radiées sont les suivantes :
+a)Les alinéas 12k), 12l) et 12m) de la réponse Ebert sont radiés, avec autorisation de les modifier, sous réserve des conditions précisées dans les présents motifs.
+b)Les alinéas 14j) et 14k) de la réponse Herman sont radiés, avec autorisation de les modifier, sous réserve des conditions précisées dans les présents motifs.
+c)Les alinéas 14l) et 14m) de la réponse DesRosiers sont radiés, avec autorisation de les modifier, sous réserve des conditions précisées dans les présents motifs.
+[106] Il est entendu que les autres hypothèses attaquées figurant dans la réponse Ebert, la réponse Herman et la réponse DesRosiers ne sont pas radiées.
+[107] Les dépens à l’égard des présentes requêtes suivront l’issue de la cause, sauf décision contraire du juge du procès.
+Signé à Edmonton (Alberta), ce 18e jour d’avril 2023.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+Ce 25e jour de mars 2025
+RÉFÉRENCE :
+2023 CCI 49
+NOS DES DOSSIERS DE LA COUR :
+2020-843(IT)G, 2020-1559(IT)G et 2020‑2155(IT)G
+INTITULÉ :
+IRVING EBERT, RICHARD HERMAN ET P. PHILIPPE DESROSIERS c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+S.O.
+DATE DE L’AUDIENCE :
+DATES DE DÉPÔT DES OBSERVATIONS :
+S.O.
+Le 24 septembre 2021 et le 26 octobre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Don R. Sommerfeldt
+DATE DE L’ORDONNANCE :
+Le 18 avril 2023
+COMPARUTIONS :
+Avocat des appelants :
+Me Adam Aptowitzer
+Avocats de l’intimé :
+Me Montano Cabezas
+Me Allison Lubeck
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Adam Aptowitzer
+Cabinet :
+Drache Aptowitzer LLP
+Kanata (Ontario)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] J’emploie le terme « réponses » pour désigner les réponses comme les réponses modifiées.
+[2] Règlement de l’impôt sur le revenu, C.R.C. 1977, ch. 945, dans sa version modifiée.
+[3] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée.
+[4] R. c. Imperial Tobacco Canada Ltée, 2011 3 R.C.S. 45, 2011 CSC 42, par. 17.
+[5] Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742, par. 4. Je n’ai pas reproduit l’alinéa d), car il est sans rapport avec les présentes requêtes.
+[6] Canada c. Anchor Pointe Energy Ltée, 2003 CAF 294, par. 23.
+[7] Mungovan c. La Reine, 2001 CanLII 732 (C.C.I.), par. 12.
+[8] Ibid., par. 16.
+[9] Gould c. La Reine, 2005 CCI 556, par. 23. Au paragraphe 22 des motifs de la décision Gould, le juge en chef Bowman a également indiqué que, si une cotisation est basée sur des hypothèses non pertinentes, « on pourrait arguer que c’est un fondement solide pour attaquer la cotisation ». Il a formulé un commentaire semblable dans la décision Jolly Farmer Products Inc. c. La Reine, 2008 CCI 124, au paragraphe 9, lorsqu’il a conclu que, « si un fondement important dans une cotisation n’est pas pertinent, cela peut contribuer fortement à laisser planer un doute sur la cotisation elle‑même ».
+[10] Metrobec Inc. c. La Reine, 2019 CCI 250, par. 17. Voir également le paragraphe 16 de cette décision ainsi que la décision Heron c. La Reine, 2017 CCI 71, par. 13; conf. par 2017 CAF 229.
+[11] Status-One Investments Inc. c. La Reine, 2004 CCI 473, par. 14, renvoyant à la décision Mungovan, précitée, note 7, par. 10.
+[12] Sinclair c. La Reine, 2002 CanLII 1146 (C.C.I.), par. 6, renvoyant à Ludco Enterprises Ltd. v. The Queen, publiée en français sous le nom Ludmer c. Canada (C.A.), [1995] 2 C.F. 3, 1994 CanLII 3547 (C.A.F.), et Hokhold (A.N.) v. Canada, [1993] 2 C.T.C. 99, 93 D.T.C. 5339 (C.F. 1re inst.).
+[13] Status-One Investments Inc. c. La Reine, 2005 CCI 766, par. 17; conf. par. 2007 CAF 193.
+[14] Status-One (2004 C.C.I.), précitée, note 11, par. 30.
+[15] Canada c. Status-One Investment Inc., 2005 CAF 119, par. 19. La C.A.F. a confirmé ce principe dans l’arrêt qu’elle a rendu en 2007, qui met en cause les mêmes parties; voir l’arrêt Status-One (2007 C.A.F.), précitée, note 13, au paragraphe 9. Au paragraphe 4 des motifs de l’arrêt de 2007, la C.A.F. (renvoyant au paragraphe 24 de ses motifs dans l’arrêt 2005 CAF 119) a déclaré « que dans la mesure où le Ministre entend invoquer les agissements de tiers au soutien d’une cotisation, il lui appartient de préciser le lien entre ces agissements et ceux du contribuable en cause, afin que ce dernier sache à quoi s’en tenir ».
+[16] Gould, précitée, note 9, par. 21.
+[17] Ibid.
+[18] Metrobec, précitée, note 10, par. 35.
+[19] Mungovan, précitée, note 7, par. 16.
+[20] Pour obtenir gain de cause au procès, les appelants devront vraisemblablement établir d’autres faits.
+[21] Voir les paragraphes 24 et 30 ci-dessus; Mungovan, précitée, note 7, par. 12, et Gould, précitée, note 9, par. 21.
+[22] Status-One (2004 C.C.I.), précitée, note 11; par. 30; Status-One (2005 C.A.F.), précité, note 15, par. 22, et Status-One (2007 C.A.F.), précité, note 13, par. 4.
+[23] Status-One (2005 C.A.F.), précité, note 15, par. 17.
+[24] Ibid., par. 24, et Status-One (2007 C.A.F.), précité, note 13, par. 4.
+[25] Observations écrites de l’intimé déposées le 26 octobre 2021, p. 15 et 16, par. 49.
+[26] Ludco Enterprises, précité, note 12, par. 12, renvoyant à la décision First Torland Investment Ltd. v. M.N.R., [1969] C.T.C. 134, 69 D.T.C. 5109 (C. de l’Éch.), conf. par 70 D.T.C. 6354 (C.S.C.), et Admiral Investment Ltd. v. MNR, [1967] C.T.C. 165, 67 D.T.C. 5114 (C. de l’Éch.).
+[27] Ludco Enterprises, précité, note 12, par. 13, renvoyant à la décision Gelber c. M.N.R., [1991] A.C.I. no 510 (C.C.I.).
+[28] Hawkes c. La Reine, 1996 CanLII 3936, [1997] A.C.F. no 1694 (C.A.F.), par. 9.
+[29] R. v. Balla, [2010] 4 C.T.C. 181, 2010 D.T.C. 5113 (C.S.C.-B), par. 41 à 43.
+[30] Teelucksingh, 2011 CCI 22, par. 5.
+[31] Erlich c. La Reine, 1998 CanLII 420, [1998] A.C.I. no 1124 (C.C.I.), par. 25, renvoyant à l’arrêt MacDonald v. Canada Kelp Co., (1973) 39 D.L.R. (3d) 617 (C.A.C.-B.).
+[32] Voir la décision Balla, précitée, note 29, par. 41.
+[33] Voir la décision McCuaig Balkwill c. La Reine, 2018 CCI 99, par. 17 et 21. En ce qui concerne le troisième marché mentionné ci-dessus, le juge Boyle a employé l’expression dans la version anglaise l’expression « charity auction » (« organisme de bienfaisance qui organise une vente aux enchères »). Dans les présents appels et les présentes requêtes, l’intimé a employé en anglais l’expression « charitable auction » (ici traduite par « vente aux enchères à des fins caritatives »), ce que les appelants ont copié dans leurs avis de requête respectifs. Dans les présents motifs, j’estime que les deux expressions sont synonymes.
+[34] Ibid., par. 21.
+[35] Par exemple, certaines personnes qui assistent à une vente aux enchères à des fins caritatives pourraient avoir l’impression d’avoir la possibilité d’acquérir des biens à des prix bien inférieurs à leur juste valeur marchande.
+[36] Voir également une analyse similaire dans le contexte de l’hypothèse fondée sur la JVM, aux paragraphes 38 et 39 plus haut.

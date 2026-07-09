@@ -1,0 +1,117 @@
+Title: Northbridge Commercial Insurance Corporation c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521220/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-10-521220-northbridge-commercial-insurance-corporation-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-01-18
+
+# Northbridge Commercial Insurance Corporation c. Le Roi
+
+- Citation: 2024 CCI 10
+- Decision date: 2024-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5701, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Northbridge Commercial Insurance Corporation c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-01-18
+Référence neutre
+2024 CCI 10
+Numéro de dossier
+2017-1289(GST)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-1289(GST)G
+ENTRE :
+SOCIÉTÉ D’ASSURANCE DES ENTREPRISES NORTHBRIDGE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Après examen de l’arrêt de la Cour d’appel fédérale
+du 24 octobre 2023 (dossier de la Cour no A-2-21).
+Devant : l’honorable juge David E. Graham.
+JUGEMENT MODIFIÉ
+Les appels des nouvelles cotisations établies pour les périodes de déclaration de l’appelante se terminant entre le 1er janvier 2007 et le 31 décembre 2016 sont rejetés.
+Le présent jugement modifié remplace le jugement daté du 18 janvier 2024.
+Signé à Ottawa, Canada, ce 13e jour de février 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 16e jour d’avril 2025.
+Elisabeth Ross, jurilinguiste principale
+Référence : 2024 CCI 10
+Date : 20240213
+Dossier : 2017-1289(GST)G
+ENTRE :
+SOCIÉTÉ D’ASSURANCE DES ENTREPRISES NORTHBRIDGE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Graham
+[1] L’appelante établit des polices d’assurance visant des parcs automobiles pour des sociétés de camionnage. Ces sociétés exercent leurs activités au Canada et aux États-Unis. Dans ses déclarations pour les périodes se terminant entre le 1er janvier 2007 et le 31 décembre 2016, l’appelante a demandé des crédits de taxe sur les intrants (les « CTI ») pour ses activités. Le ministre du Revenu national a refusé ces CTI au motif que toutes les fournitures de l’appelante étaient des fournitures exonérées. L’appelante a fait appel de ce refus.
+Fournitures détaxées [2] J’ai été saisi du présent appel pour la première fois en 2020. La principale question à trancher concernait l’interprétation de l’alinéa 2d) de la partie IX de l’annexe VI de la Loi sur la taxe d’accise. Cet alinéa dispose que la fourniture par une institution financière d’un service financier lié à une police d’assurance établie par l’institution est une fourniture détaxée dans la mesure où elle concerne des risques qui sont habituellement situés à l’étranger.
+[3] Dans ma première décision sur le présent appel (2020 CCI 132), après avoir effectué une analyse textuelle, contextuelle et téléologique, j’ai conclu que l’alinéa 2d) fait de la fourniture d’une police d’assurance une fourniture détaxée dans la mesure où les objets de la police d’assurance (en l’espèce, les camions de l’assuré) sont habituellement situés à l’étranger.
+[4] La Cour d’appel fédérale (la « CAF ») a infirmé ma décision (2023 CAF 211) et m’a renvoyé l’affaire.
+[5] La CAF a jugé que l’alinéa 2d) fait de la fourniture d’une police d’assurance une fourniture détaxée dans la mesure où la police couvre le risque qu’un accident ou un autre événement assurable qui est habituellement situé à l’étranger donne lieu à une réclamation. Plus précisément, la CAF a conclu que, « [d]ans la mesure où les polices d’assurance établies par [l’appelante] couvraient des risques habituellement situés [aux États-Unis], la fourniture de ces polices constituerait une fourniture détaxée »[1].
+[6] Après avoir déterminé comment il faut interpréter l’alinéa 2d), la CAF a ensuite précisé que « [l]a question suivante qui se posait était de savoir dans quelle mesure les polices établies par [l’appelante] étaient des polices liées à des risques habituellement situés à l’étranger. Pour ce faire, il fallait déterminer la probabilité qu’un accident survienne aux États-Unis et qu’un sinistre en découle[2]. »
+[7] La CAF a clairement indiqué que cette analyse ne consiste pas à examiner chaque véhicule assuré, mais bien chaque police d’assurance[3].
+Éléments de preuve encore insuffisants [8] Comme je l’ai indiqué au paragraphe 73 de ma première décision : « Tous les éléments de preuve présentés à l’audience étaient une preuve globale. On ne m’a présenté aucun élément de preuve précis concernant les polices précises en cause […] Sans ces éléments de preuve, il m’est impossible de déterminer si la fourniture d’une police donnée était partiellement détaxée. L’absence d’éléments de preuve est un motif suffisant pour que je rejette les appels, ce que je fais pour ce motif. »
+[9] Ma conclusion sur ce point reste la même. Les appels sont rejetés.
+Précision [10] La CAF a observé qu’au paragraphe 81 de mes motifs, j’ai attiré l’attention sur le fait que « [j]e disposais d’une preuve abondante sur la façon dont l’appelante établissait le tarif de ses polices d’assurance ». La CAF m’a renvoyé l’affaire au motif que, « [p]our déterminer dans quelle mesure les polices d’assurance de [l’appelante] couvraient des réclamations susceptibles de découler d’accidents survenant habituellement à l’étranger, il faudrait examiner les éléments de preuve dont le juge de la Cour de l’impôt n’a pas tenu compte »[4].
+[11] Il semble que l’observation que j’ai formulée au paragraphe 81 ait donné à la CAF une fausse impression. Ayant conclu au paragraphe 73 de mes motifs que je ne disposais pas de suffisamment d’éléments de preuve concernant chaque police en cause pour déterminer si la fourniture d’une police donnée était détaxée, j’ai affirmé au paragraphe 74 que, comme « les parties ont fait beaucoup d’efforts pour établir le fondement factuel du présent appel et pour appliquer ce qu’elles pensaient être les règles de droit pertinentes à ces faits […] il me semble approprié de donner certaines indications sur la façon dont j’aurais appliqué l’article 2 si j’avais été saisi des éléments de preuve pertinents » [non souligné dans l’original].
+[12] Les paragraphes qui suivent, y compris le paragraphe 81, contiennent une description des facteurs que j’aurais pris en compte.
+[13] Au paragraphe 81, j’ai affirmé qu’il existait une preuve abondante sur la façon dont l’appelante établissait le tarif de ses polices d’assurance. Il aurait manifestement été plus clair si j’avais indiqué qu’il existait une preuve abondante sur la méthode employée par l’appelante pour établir le tarif de ses polices, mais aucune preuve sur la façon dont le tarif d’une police donnée avait été établi.
+[14] Si je disposais d’éléments de preuve sur la façon dont le tarif de chaque police de l’appelante avait été établi, selon l’interprétation qu’a fait la CAF de l’alinéa 2d), je serais vraisemblablement en mesure de déterminer dans quelle mesure chaque police était détaxée. Selon ce que je comprends, le tarif est basé, en partie, sur la probabilité qu’un accident se produise aux États-Unis et sur la perte potentielle résultant de cet accident à l’égard d’une police donnée. Toutefois, faute de tels éléments de preuve, je n’ai d’autre choix que de rejeter, une fois de plus, l’appel de l’appelante.
+Les présents motifs de jugement modifiés remplacent les motifs de jugement datés du 18 janvier 2024.
+Signé à Ottawa, Canada, ce 13e jour de février 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 16e jour d’avril 2025.
+Elisabeth Ross, jurilinguiste principale
+RÉFÉRENCE :
+2024 CCI 10
+NO DU DOSSIER DE LA COUR :
+2017-1289(GST)G
+INTITULÉ :
+SOCIÉTÉ D'ASSURANCE DES ENTREPRISES NORTHBRIDGE c. SA MAJESTÉ LE ROI
+DATE DE L’AUDIENCE :
+Après examen de l’arrêt
+de la Cour d’appel fédérale
+du 24 octobre 2023
+(dossier de la Cour no A-2-21)
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 18 janvier 2024
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 13 février 2024
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+David Douglas Robertson
+Marie-Claude Marcil
+Jasmine Jolin
+Cabinet :
+EY Cabinet d’avocats s.r.l./S.E.N.C.R.L.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+[1] Northbridge, 2023 CAF 211, par. 45.
+[2] Northbridge, 2023 CAF 211, par. 46.
+[3] Northbridge, 2023 CAF 211, par. 48.
+[4] Northbridge, 2023 CAF 211, par. 50.

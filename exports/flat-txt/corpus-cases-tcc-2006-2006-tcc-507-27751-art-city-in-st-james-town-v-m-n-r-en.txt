@@ -1,0 +1,208 @@
+Title: Art City in St. James Town v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27751/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-507-27751-art-city-in-st-james-town-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-08-29
+
+# Art City in St. James Town v. M.N.R.
+
+- Citation: 2006 TCC 507
+- Decision date: 2006-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 304, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Art City in St. James Town v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-29
+Neutral citation
+2006 TCC 507
+File numbers
+2005-3723(CPP)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2005-3723(CPP)
+BETWEEN:
+ART CITY IN ST. JAMES TOWN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Art City in St. James Town (2005‑3724(EI)) on August 23 and 28, 2006 and judgment rendered
+orally on August 29, 2006 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Martha K. MacDonald
+Counsel for the Respondent:
+Kandia Aird
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated for the reasons set out in the attached Reasons for Judgment delivered orally from the Bench on August 29, 2006.
+Signed at Ottawa, Canada, this 15th day of September 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2005-3724(EI)
+BETWEEN:
+ART CITY IN ST. JAMES TOWN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Art City in St. James Town (2005-3723(CPP)) on August 23 and 28, 2006 and judgment rendered
+orally on August 29, 2006 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Martha K. MacDonald
+Counsel for the Respondent:
+Kandia Aird
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated for the reasons set out in the attached Reasons for Judgment delivered orally from the Bench on August 29, 2006.
+Signed at Ottawa, Canada, this 15th day of September 2006.
+"J.E. Hershfield
+Hershfield J.
+Citation: 2006TCC507
+Date: 20060915
+Dockets: 2005-3723(CPP)
+2005-3724(EI)
+BETWEEN:
+ART CITY IN ST. JAMES TOWN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on August 29, 2006
+at Toronto, Ontario)
+Hershfield J.
+[1] The Appellant appeals a ruling under the Employment Insurance Act and the Canada Pension Plan that a Ms. Gizas (the "Worker") was an employee of the Appellant ("Art City") providing services under a contract of service. The period in question is March 2004 through February 2005.
+[2] Art City is a registered charity offering an after school community arts program for children ages 6 to 15 in St. James Town, one of Toronto's poorest neighbourhoods.
+[3] The arts program consists of professional artists, developing artists and volunteers offering art related classes to children free of charge. Programs are funded entirely by donations and grants. Art City is governed by a volunteer board.
+[4] Two directors testified on behalf of the Appellant, both having been on the Board since inception as founding members and were, as well, members of the Board at all relevant times. The Worker and a former guest artist (Mr. Kennedy) testified for the Respondent.
+[5] One witness for the Appellant, Ms. Martin, was chairperson of the Board at all relevant times. She testified that the St. James Town area was one of the poorest areas in Toronto with the highest density population in North America. The program got children off the streets, gave them a stimulating environment and after school snacks which may not have been the least important aspect of the program.
+[6] It is acknowledged that the Board members relied on paid artists to develop and operate the programs. Visits to the site by Board members were few and not intended to serve day-to-day operations. It was acknowledged that the site needed someone as a regular presence; someone there to see that there were guest artists developing and deploying their programs; someone for parents to contact; and someone to see that snacks were there for the children. In other words, the Board wanted a responsible, on-site, figurehead responsible for the delivery of programs and the safety and well-being of the children.
+[7] Board meetings were not regular during the relevant period, however, Art City was being managed by the Board on a need to respond basis. Issues requiring Board input were dealt with frequently by e-mail.
+[8] One Board member saw to payment of invoices and payment of bills. Invoices were submitted by workers for hourly rate remuneration and for art supplies used by the children in the programs. Supplies of the artists themselves were their own responsibility such as a sewing machine which the Worker supplied for use in her programs. The Worker was a creative fashion artist.
+[9] Referring back to the needed on site, regular presence, the title of "Creative Program Director" seems to have been adopted early on. While both Appellant's witnesses wanted to minimize the significance of the title, I am satisfied that for all intents and purposes the title was intended by the Board to be worn by the person at Art City who was in charge. It served the interests of the charity if a person with such title, and the authority it suggested, was present. Otherwise it strikes me that the operation of the art programs would be nothing short of chaotic.
+[10] When the community art program began, or at some point after, this regular presence or face of the program was a Mr. Whitworth. He was engaged as an independent contractor to act as Creative Program Director. He had other work but made himself available to attend at Art City during operating hours which were 3:30 p.m. to 6:00 p.m. and otherwise be there to help arrange for visiting artists to run their programs. Visiting or guest artists were an itinerant group who arrived largely by word of mouth. They developed their own projects for the children and bought the supplies needed for their programs which they invoiced for reimbursement by Art City.
+[11] In about March 2004, Mr. Whitworth left and the role of Creative Program Director became vacant. At that time two visiting artists, the Worker and another, were to be funded as artists in residence. An application for funding or partial funding for these positions was made to the Toronto Arts Council. As well, the vacancy in the position of Creative Program Director was to be filled by one of these two resident artists.
+[12] The Worker was the unanimous and enthusiastic choice of the Board to replace Mr. Whitworth as Creative Program Director. She had energy and initiative and the children loved her. The Appellant's evidence was that the Worker took on this position knowing it was part of the artists in residence program and that she knew the limitations of the program which were that funding prohibited permanent staff salaries.
+[13] The Worker denied knowing the contents of the application and testified that although she worked on the application and authored portions, those portions that suggested she knew she was to be funded as an artist in residence were authored by members of the Board. Her denial, of even knowing that the application that she worked on was being submitted to assist funding her engagement, is hard to accept.[1]
+[14] The funding for the two artists in residence was secured by August 2004. As a guest artist for some two years, the Worker had received $10.00 per hour. Once it was contemplated that there would be funding for two artists in residence, she and the other artist in residence to be, started getting $15.00 per hour. Both received another raise to $18.00 per hour when the final traunch of funding was secured from the Arts Council. While the hourly rate compensation for both workers stayed the same, the Worker's role as Creative Program Director afforded her greater remuneration opportunity.
+[15] In about July 2004, having served as Creative Program Director for some three months, the Worker made up an agenda for the Board. That agenda includes her proposal to have a one-year written contract as Creative Program Director. The proposal asks for $22.00 per hour and indicates that there is no vacation pay and no benefits in the arrangement. This underlines to me that she understood not only the nature of the existing arrangement which afforded no benefits but it also reflects that she was not proposing to change the nature of the arrangement in respect of the written contract that she was proposing. Her testimony to the contrary is suspect.
+[16] The Appellant's witnesses acknowledged that the Worker wanted a written contract which the Board was considering at a meeting in January 2005. While a written contract was never entered into, the testimony of Ms. Martin was clear and categorical. The Board did not understand nor would the Board consider that the contract, if entered into in writing, would be anything other than a contract for services. That is, the Worker would continue to be retained as an independent contractor. The proposal as seen by the Board was for a one-year term written contract with an hourly rate increase without benefits.
+[17] This, in general at least, sets the stage for a legal analysis and the recitation of further particulars that that analysis requires.
+[18] The evidence confirms that the Worker, as Creative Program Director, had more contact with the Board than she would have had as an artist in residence. There is no dispute that the Worker did administrative work. For example, she assisted in the preparation of grant applications and turned over invoices of guest artists to the Board for payment if they were not taken to the Board directly by the guest artists. Indeed this is how most invoices were handled. However, the Worker did not approve invoices and there is no evidence to suggest that she approved the acquisition of supplies that guest artists billed the Appellant. As well, she did detailed weekly activity reports soon after taking the title of Creative Program Director. This, however, was not required. According to the Worker's testimony, they were not even read. Still, some form of reporting was essential for the Board to be informed and make decisions. Reports were a service to which her hourly rate was applied but much of what she did was a result of her initiative and enthusiasm. When the reports began to lapse and ceased altogether after several months, there was no recourse although less detailed reporting continued by e-mail correspondence. The freedom afforded the Worker is reflected in these events.
+[19] The Worker, as Creative Program Director, was expected to be at the Appellant's site during operating hours but she was free to get a replacement who would invoice their services separately. It was expected that any replacement would be suitable and known to the Board. While one exhibit relating to the termination of the services of the Worker referred to her having replaced herself with a replacement who was not approved by the Board, Ms. Martin explained that it was really less formal than approval of the Board per se. The Worker was expected and was indeed required to act responsibly in choosing a replacement, and in the case of a person not known to the Board, the responsible thing for the Worker to do would be to advise the Board. If the replacement person was not known to the Board further information would have been expected. Art City was, after all, dealing with young children. As will be noted, it was the Worker's asserted failure in this regard that caused her termination.
+[20] In addition to a responsible figurehead present at the studio, I note that there were as many as 15 artists engaged in projects with the children during the subject period. Some coordination was necessary and it is only reasonable to conclude that it was the Worker as the Creative Program Director who fulfilled such responsibility. On the other hand, her efforts to promote the art programs was largely a result of her own initiative. She expanded the programs and enrolment. She was entrepreneurial in this regard. As well, she was entrepreneurial in her search for funding for the Appellant. Indeed, one such application seems to have been another reason for the Board's ultimate dissatisfaction with her – nonetheless it is an example of her professional initiative and entrepreneurial spirit.
+[21] I turn now briefly to the circumstances surrounding the Worker's termination. This termination was felt to be required due to the Worker not acting responsibly. She is said to have gotten a replacement on one occasion who brought a Pit Bull to the studio. Although the Worker denied the allegations, she did admit she never notified the Board of her planned absence which was planned two weeks before it occurred. That she did not see the need to ask for permission underlines her own perception and understanding which was that in practise there was little actual control asserted over her decisions to take time off. Her version of the story, which I accept, was that she did leave the studio with someone known to the Board and that was sufficient. A series of regrettable circumstances led to the presence of the dog. Still, the Worker acted on the basis that she did not need permission per se to replace herself. She just needed to act responsibly in her selection, and she believed she had.
+[22] As stated, the Board had other concerns such as the Worker being over‑zealous in terms of the acquittal of her role. The Worker was an independent, strong minded contractor who viewed the lack of supervision as freedom to expand her role.
+[23] This is not to suggest that the Board played no role. I accept the Worker's evidence that the Board oversaw the organizational structure, made decisions affecting operations and oversaw the budget. That does not make the Worker a subordinate. She was a professional artist running an art studio for the Board with a mandate that was to get artists to engage the children in a safe environment, give them healthy snacks and help raise money. She discussed her role when she was retained as Creative Program Director, given all the information to run the studio and given the keys.
+[24] The Worker knew at the outset that she had discretion as to hours of work, except for some 3.5 hours per day, including setup time and closing time. Even then, if she got a suitable replacement, there was no restriction on her being absent. While she denied being aware that she could take on other projects she was an artist endeavouring to do so. During her engagement as Creative Program Director she applied for and received a grant to do an art project for children in the schools during her engagement with the Appellant and was, as well, preparing for an exhibition of her works. She knew she was at liberty to do these things. That she made her work at Art City a priority and deferred implementing these projects does not change the fact that she knew she was free to do otherwise. Such programs were clearly not intended to be put off indefinitely even if her engagement with Art City had continued.
+[25] Given these circumstances, I turn now to look at the tests applied in determining whether or not there is a contract of service versus a contract for services.
+Control
+[26] I do not see how it can be asserted that there was much in the way of control over the Worker's activities. Subject to replacing herself, as she was permitted to do, she was required to be on site only 3.5 hours per day or 35 hours every two weeks. Nonetheless she billed between 60 and 99 hours for each two-week interval during the subject period. This reflects the freedom she was given to set her own work routines largely according to her own motivation.
+[27] Clearly her engagement contemplated more than 35 hours every two weeks. There were administrative responsibilities that would require more time. However, there was no control over how or to what extent she carried out the administrative role. She set her own administrative agenda without interference. As well, in effect, she had a home office where she used her own computer and internet resources at her cost to carry out this aspect of her engagement. From her home office she stayed in touch with the Board, as one would stay in touch with a client, and carried out research and related work to assist in her task of raising funds for Art City, as one would do for a client. However her office was also used to carry on other business. That is, she used her home office facilities to pursue projects both involving and not involving Art City.
+[28] In regard to her role as an artist assisting in the deployment of programs and working her own programs into the various projects, as Mr. Kennedy spoke of, she was her own boss. This was not a subordinate role.
+[29] I acknowledge that as the face of Art City and sole operations person she resembled any number of "employed" administrators who report only to boards of directors but more often they do not have such flexible arrangements as are present here. Further, as an artist it might be said that the lack of control over her work should not be a factor. As pointed out in Wolf v. R. [2] ("Wolf"), many professionals who know more than the persons engaging them, and as a result are not subject to supervision, can still be employees. But those situations may not afford the flexibility present here.
+[30] I do not see how control favours a finding of employment in these circumstances. Indeed as a sole factor, if it were that, I think the evidence as a whole warrants a finding that the Worker is an independent contractor.
+Tools
+[31] As noted, the administrative work that was being done by the Worker was being done at home on her computer. She also made her sewing machine available to assist in the deployment of programs. Mr. Kennedy's testimony casts doubt on the Worker’s evidence that it was not used while she was the Creative Program Director. Still, that part of the test that looks to utilization of tools is not determinative in this case. The ownership of the computer and its use is more material to the application of other tests.
+Opportunity for Profit/Risk of Loss
+[32] While it is true that an hourly wage is often reflective of a contract of service, same is not always the case. In this case the Worker had considerable flexibility in terms of the hours that she could work. That is an opportunity for profit. Subject to budget limitations of which she was aware, she profited by her entrepreneurial efforts.
+[33] As to risk of loss, I note that when, as part of their engagement, a worker is looking for funding that could impact on that worker's being paid, there is a risk of loss that also reflects an entrepreneurial element. She was a knowing partner in this regard. Loosing the Appellant as a source of income could result in a modest loss considering ongoing home office costs. As well, there is a potential liability as a person in charge of children. Such liability might be considerable although that might beg the question of her engagement status.
+[34] On balance I do not see how these factors favour a finding of employment in these circumstances. Indeed as a sole factor, if it were that, I think the evidence as a whole warrants a finding that the Worker is an independent contractor.
+Integration
+[35] What some refer to as the fourth test is the integration test. It is relatively clear to me that the services of someone acting in the role of the Creative Program Director would be an integral and necessary part of the employer's business. However, applying the test in this way has been rejected by the courts.[3] The approach now being applied is to ask the question "whose business is it or does the worker have a business".
+[36] This test also suggests an independent contractor relationship. While the Worker did not have many of the trappings of a business, she had one. While modest and perhaps not even seen as one, she had a home office which was more than the worker had in my decision in Direct Care In-Home Health Services Inc. v. Canada (Minister of National Revenue).[4] In that case I referred to D&J Driveway Inc. v. Canada (Minister of National Revenue)[5] as authority for the proposition that having a business does not depend on such trappings. Although the Worker in the case at bar did not have a registered business or a listed number in the phone book or the like, she was promoting her own business and had office facilities to do that. She was using her home office to fund herself and promote her business on projects both involving and not involving the Appellant. She had income from that activity beyond the income paid by the Appellant – she received a personal grant during the subject period from her efforts during the subject period. The fact that the Worker did not expand this business to include carrying out other projects during the subject period was her choice. Choosing to limit one's activity to, or focusing one's time on, one contract, does not distract from the finding there is a business. The flexibility in her hours, her ability to replace herself and the absence of any non-competition type restrictions confirm her freedom in this regard.
+Intention
+[37] While the intention test has only recently found its way into the authorities, its presence and relevance is now very clear. In Royal Winnipeg Ballet v. Canada (Minister of National Revenue)[6], the Federal Court of Appeal recently held that intentions cannot be ignored and may be a determinative factor. One way to apply the intention test would be to say that if the intentions of the parties reflect a mutual understanding as to the nature of the relationship and the performance of the contract and other relevant circumstances serve to confirm the understanding, or at least are not inconsistent with such understanding, then the nature of the relationship should be governed by such mutual intentions.
+[38] Here there is no written contract and the Worker asserts that there was no mutuality of intention. I do not agree. Objectively speaking the evidence suggests to me that she most assuredly accepted her engagement on the basis that she was not being engaged as an employee. She was not being dictated to by a heavy handed employer seeking to leverage profit from a worker by not providing benefits. She was a partner in this sense helping to keep this non-profit organization alive. That is the way she approached the engagement.
+[39] Ms. Martin testified adamantly that the Worker never asked for a withholding of taxes or other source deductions until after she was terminated in February 2005. Only after being terminated did the Worker apply for benefits and seek an employment record from the Appellant. This suggests a change in the Worker's perception of her status. During the subject period, she would know employees would get paid vacation time and holiday pay.[7] She may be young but she is not naïve. She had a conversation with one of the directors and was told she could register as a business. She would have known there was no budget that permitted the Appellant to provide benefits especially given her hourly rate increase demands which strike me, in some part at least, as compensatory for not having benefits. She had talks with Mr. Whitworth where he told her he was unhappy not getting benefits yet she took over his work. Objectively it seems unlikely the Worker did not intend to work within the criterion set out by the Appellant.
+[40] In a case such as this, that may well be sufficient to warrant a finding of mutuality of intent. She freely accepted the limitations of the engagement in a cooperative spirit. She accepted no vacation pay, no benefits and the like. She had no job security which is often the plight of independent contractors and she sought to have that changed by requesting a term contract. As stated in Wolf, if specific factors must be identified, job security, benefits, and freedom of choice and mobility would be on the list. In the case at bar I agree with Appellant's counsel – on balance and viewed as a whole these factors weigh in favour of a finding that the Worker in this case is an independent contractor.
+[41] At the end of day I am of the view that the Worker, angry with her termination, sought to recharacterize the nature of her engagement after it was terminated. Charitable organizations such as this live from day-to-day on shoestring budgets. Workers who are intimately aware of the financial limitations on the party paying them may have little ground to assert after the fact that they did not understand and accept that they could not be engaged at an agreed hourly rate without the common understanding that the engagement was not one of employment. This is not to suggest that all non-profit organizations can seek to abuse workers by claiming that a lack of funds to pay benefits, and a worker's acceptance of that, is a basis to avoid categorizing the workers as employees. To the contrary, such organizations should no doubt strive to fund benefits and embrace their workers in social assistance networks where, at law, they are meant to apply. This Court must satisfy itself then, on a review of all factors, that there is more than circumstantially imposed mutual consent. I have done that and, applying the traditional tests to the facts of this case, I have found that they too point to a finding that the Worker was an independent contractor during the subject period.
+[42] Accordingly the appeals are allowed.
+Signed at Ottawa, Canada, this 15th day of September 2006.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2006TCC507
+COURT FILE NO.:
+2005-3723(CPP)
+STYLE OF CAUSE:
+Art City in St. James Town and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 23 and 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+September 15, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Martha K. MacDonald
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martha K. MacDonald, Judith E. Harris
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+CITATION:
+2006TCC507
+COURT FILE NO.:
+2005-3724(EI)
+STYLE OF CAUSE:
+Art City in St. James Town and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 23 and 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+September 15, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Martha K. MacDonald
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martha K. MacDonald, Judith E. Harris
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant argued that the Worker knew she was engaged as an artist in residence which was not an employee engagement. While I have not found this application for funding per se relevant, the Worker's credibility is weakened by her evidence on this point.
+[2] 2002 DTC 6853 (F.C.A.).
+[3] See Wiebe Door Services v. M.N.R., (1986) 87 DTC 5025, [1986] 3 F.C. 553 (F.C.A) at paragraph 16 where MacGuigan J.A. acknowledged:
+Of course, the organization test of Lord Denning and others produces entirely acceptable results when properly applied, that is, when the question of organization or integration is approached from the persona of the "employee" and not from that of the "employer," because it is always too easy from the superior perspective of the larger enterprise to assume that every contributing cause is so arranged purely for the convenience of the larger entity. We must keep in mind that it was with respect to the business of the employee that Lord Wright addressed the question "Whose business is it?"
+[4] 2005 TCC 173.
+[5] 2003 FCA 453.
+[6] 2006 DTC 6323, 2006 FCA 87.
+[7] The Employment Standards Act, S.O. 2000, c. 41 requires that employers pay employees for public holidays at a prescribed rate (ss. 24(1)) and employees are to receive vacation pay at a rate of four percent of the wage for the vacation period (s. 35.2).

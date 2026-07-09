@@ -1,0 +1,162 @@
+Title: Guilbault c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62993/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-296-62993-guilbault-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2013-09-20
+
+# Guilbault c. M.R.N.
+
+- Citation: 2013 CCI 296
+- Decision date: 2013-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6074, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guilbault c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-20
+Référence neutre
+2013 CCI 296
+Numéro de dossier
+2012-2034(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-2034(EI)
+ENTRE :
+Martin Junior Guilbault,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+fromagerie du Champ à la Meule inc.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 23 août 2013, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Mounes Ayadi
+Représentant de l'intervenante :
+Martin Guilbault
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (Loi) est accueilli et la décision du ministre du Revenu national est annulée, de sorte que l’appelant n’occupait pas un emploi assurable, lorsqu’au service de l’appelante, pour la période du 1er janvier 2010 au 10 août 2011, aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de la Loi.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2013 CCI 296
+Date : 20130920
+Dossier : 2012-2034(EI)
+ENTRE :
+Martin Junior Guilbault,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+fromagerie du Champ à la Meule inc.,
+intervenante.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle d’une décision du ministre du Revenu national (ministre) selon laquelle l’appelant occupait un emploi assurable alors qu’il travaillait pour Fromagerie du Champ à la Meule Inc. (payeur) au cours de la période du 1er janvier 2010 au 10 août 2011. Le ministre a d’abord conclu que l’appelant occupait un emploi aux termes d’un contrat de louage de services en vertu de l’alinéa 5(1)a) de la Loi sur l’assurance emploi (LAE) et a ensuite déterminé que l’appelant et le payeur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi, en application de l’alinéa 5(2)i) et du paragraphe 5(3) de la LAE. En exerçant la discrétion qui lui est attribuée par cette dernière disposition de la LAE, le ministre a été convaincu qu’il était raisonnable de conclure, compte tenu des circonstances, que le payeur et l’appelant auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[2] Les paragraphes 5, 6 et 7 de la Réponse à l’avis d’appel résument les faits dont le ministre a tenu compte pour rendre sa décision, lesquels sont reproduits ci‑après :
+5) Pour rendre sa décision le ministre a déterminé que l’appelant occupait un emploi au terme [sic] d’un contrat de louage de service en s’appuyant sur les faits présumés suivants :
+a) Martin Guilbault père avait acheté la ferme de son père en 1987; admis
+b) en 1994, s’est ajouté [sic] à la ferme une fromagerie; admis
+c) le payeur s’est constitué en société le 10 mars 2000 et avait pour seul actionnaire, Martin Guilbault; admis
+d) le 1er novembre 2009, l’actionnariat du payeur se répartissait comme suit : Martin Guilbault avec 75% des actions votantes du payeur et Martin Junior Guilbault avec 25% des actions votantes du payeur; admis
+e) Martin Guilbault est le père de Martin Junior Guilbault; admis
+f) les activités du payeur sont la transformation laitière pour la fabrication du fromage, la vente en gros et au détail du fromage et en été la culture biologique du soya, du maïs et du foin; admis
+g) la fromagerie fonctionne à l’année et ses heures d’ouvertures[sic] sont variables selon les saisons, soit de septembre à novembre 6 jours par semaine du lundi au samedi de 7 h 30 à 16 h et le reste de l’année, 4 jours par semaine du mardi au vendredi de 7 h 30 à 16 h. Cet horaire est aussi celui du comptoir de vente au détail; admis
+h) le payeur embauche, en plus des deux actionnaires, 3 employés à temps plein et 2 occasionnels; admis
+i) l’appelant a été engagé par le payeur comme administrateur; admis
+j) les fonctions de l’appelant sont de s’occuper du contrôle de la qualité, de l’approvisionnement, de la recherche et du développement, de la gestion du personnel avec son père, l’actionnaire majoritaire, d’aider à la production et en été des semis et des récoltes; admis
+k) l’appelant a toujours travaillé à la ferme familiale et de ce fait possède une grande expérience du genre de travail qui s’y fait; admis
+l) l’horaire de travail de l’appelant est variable tout au long de l’année en fonctions [sic] des saisons et des besoins du payeur; admis
+m) l’appelant travaille du lundi au vendredi et tente de faire un minimum de 45 heures par semaine;
+n) l’appelant complétait des feuilles de temps, comme les autres employés du payeur;
+o) le livre de paie du payeur pour la période en litige démontre que l’appelant travaillait le plus souvent 40 heures par semaine mais il lui est arrivé de ne travaillé [sic] que 29 h;
+p) de par sa grande expérience du travail à faire chez le payeur, l’appelant n’avait pas à être supervisé de façon directe, mais se référait à l’actionnaire majoritaire pour, entre autres, toutes questions relatives au travail agricole;
+q) l’appelant prenait des décisions en consultation avec l’actionnaire majoritaire du payeur; admis
+r) tout l’équipement nécessaire à l’exécution des tâches de l’appelant est fourni par le payeur; admis
+s) le salaire de l’appelant a été fixé par les deux actionnaires au taux horaire de 16 $; admis
+t) l’appelant était rémunéré par le payeur selon les heures réellement travaillées chaque semaine par dépôt direct;
+u) l’appelant et l’actionnaire majoritaire décident des augmentations de leur salaire selon les capacités de payer du payeur; admis
+v) l’appelant bénéficie de 2 semaines par année de vacances, mais ne les prends [sic] pas; admis
+w) les deux actionnaires utilisent une carte de crédit payée par le payeur; admis
+x) les deux actionnaires du payeur bénéficient d’une assurance-vie payée par le payeur, alors que les autres employés participent à un programme de REER; admis
+y) l’appelant peut utiliser l’équipement du payeur à des fins personnelles; admis
+z) le niveau de salaire versé par le payeur à l’appelant est semblable au salaire moyen indiqué pour les années 2008 à 2010 dans une publication d’Emploi Québec;
+6) L’appelant et le payeur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) [l]es actionnaires du payeur étaient Martin Guilbault pour 75% des actions votantes et Martin Junior Guilbault pour 25 %; admis
+b) Martin Guilbault est le père de Martin Junior Guilbault; admis
+7) Le ministre a déterminé que l’appelant et le payeur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi, car il a été convaincu qu’il était raisonnable de conclure que l’appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes [:]
+a) la rémunération versée à l’appelant était raisonnable et conforme aux normes du marché du travail;
+b) Martin Guilbault, président du payeur, remplit bien son rôle d’actionnaire majoritaire et exerce sa fonction de supervision lorsque nécessaire;
+c) les tâches accomplies par l’appelant correspondent aux besoins et aux attentes du payeur et sont essentielles à celui-ci.
+[3] L’appelant a mentionné en cour qu’il travaillait aussi les week-ends et qu’il accumulait ses heures dans une banque d’heures pour être généralement payé en moyenne pour 40 heures par semaine. Autrement dit, s’il travaillait moins dans une semaine pour s’occuper de ses obligations personnelles, il compensait avec les heures accumulées dans sa banque d’heures afin de recevoir une rémunération plus régulière. Il a expliqué qu’il suivait encore des cours en administration à l’université durant la période en litige et qu’il pouvait s’absenter de l’entreprise un ou deux jours en semaine et pouvait travailler plus les week-ends. Il a dit que puisque c’était la première année qu’il y travaillait à temps plein (il y travaillait depuis l’âge de 12 ans à temps partiel), il remplissait des feuilles de temps simplement pour savoir combien d’heures il travaillait en moyenne afin d’établir la rémunération finale qu’il s’attribuerait en concertation avec son père.
+[4] L’appelant a mentionné qu’il avait payé 25 $ pour 25 pour 100 d’une entreprise qui en valait 2 millions. Il dit que c’est uniquement parce qu’il est le fils de Martin Guilbault qu’il a eu droit à ces actions. Il n’avait que 23 ans et sortait du cégep et n’aurait jamais eu ce même traitement dans une autre entreprise. Il s’occupait du contrôle de la qualité, du système informatique et de la gestion quotidienne. Apparemment, le payeur a multiplié sa capacité de production par cinq depuis son arrivée.
+[5] L’appelant a dit qu’il ne remplissait aucun cahier des charges et n’avait aucun contrat de travail. Lui et son père se faisaient confiance mutuellement. Il montait des dossiers de financement ou de subventions qu’il présentait à la Caisse populaire Desjardins ou au gouvernement. Parfois, son père n’était pas mis au courant avant. Par contre, pour la gestion des employés, il prenait conseil auprès de son père, puisqu’il était en quelque sorte en apprentissage.
+[6] L’appelant a eu un enfant mais ne s’est pas beaucoup absenté de l’entreprise car il avait trop de responsabilités, alors que les autres employé(e)s se sont prévalu(e)s de leurs droits de maternité ou de paternité en vertu des lois existantes. Il ne prenait pas non plus de vacances.
+[7] L’appelant a conclu en disant que lui et son père étaient indispensables à l’entreprise car chacun avait sa propre expertise. Le payeur ne pouvait pas fonctionner sans l’un ou l’autre. Cette entreprise fonctionne précisément à cause de leur lien de dépendance et il soutient qu’aucun autre n’aurait travaillé dans les mêmes conditions. Le père de l’appelant a témoigné simplement pour dire en gros qu’il approuvait tout ce qui avait été dit par son fils.
+Analyse
+[8] Dans son avis d’appel, l’appelant conteste la décision du ministre seulement sur la question du lien de dépendance. En effet, l’appelant soutient qu’il n’était pas raisonnable pour le ministre de conclure qu’un contrat de travail semblable aurait été conclu avec un travailleur sans lien de dépendance, en tenant compte de la rétribution versée, des modalités d’emploi ainsi que de la durée, de la nature et de l’importance du travail, et qu’en conséquence il est réputé ne pas avoir de lien de dépendance avec le payeur aux termes de la LAE.
+[9] Les dispositions législatives pertinentes se lisent comme suit :
+Loi sur l’assurance-emploi
+Emploi assurable
+[…]
+5(2) Restriction. N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Personnes liées. Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[10] L’avocat de l’intimé a cité la décision de la Cour d’appel fédérale rendue dans l’affaire Légaré c. Canada (ministre du Revenu national), [1999] A.C.F. no 878 (QL) au paragraphe 4, où la Cour précise le rôle de notre Cour lorsqu’une détermination faite par le ministre sur le lien de dépendance est portée en appel. Ainsi, notre Cour ne peut substituer purement et simplement son appréciation à celle du ministre; c’est ce qui relève du pouvoir discrétionnaire du ministre. Toutefois, la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[11] Dans l’affaire F. Ménard Inc. c. Canada (Ministre du Revenu national), [2009] A.C.I. no 208 (QL), 2009 CCI 208, citée par l’intimé, le juge Tardif de notre Cour soutenait, au paragraphe 43, que, dans l’exercice de sa discrétion, le ministre était justifié de ne pas comparer le travail d’un employé actionnaire avec celui d’un employé ordinaire non-actionnaire. Dans la décision Lacroix c. Canada (Ministre du Revenu national), [2007] A.C.I. no 87 (QL), 2007 CCI 81, rendue par le juge Archambault de notre Cour le 27 mars 2007, ce dernier soutenait, au paragraphe 41, que la question que devait trancher le ministre pouvait être reformulée ainsi (en faisant les adaptations nécessaires à la présente cause) : si le travailleur avait détenu 25 pour 100 des actions du payeur sans qu’il y ait de lien de dépendance entre lui et l’autre actionnaire, le travailleur et le payeur auraient-ils conclu un contrat de travail à peu près semblable?
+[12] Dans la présente cause, selon la Réponse à l’avis d’appel, le ministre a considéré trois points. En premier lieu, le ministre a déterminé que la rémunération versée à l’appelant était raisonnable et conforme aux normes du marché du travail. Or l’appelant a indiqué que le ministre avait fait la comparaison avec un travailleur agricole alors que ses fonctions à lui relevaient de l’administration. Il a dit que sa rémunération était plus basse que ce qu’il aurait pu demander sur le marché. De plus, le Rapport sur un appel, produit sous la cote I-3, indique à la page 5 sur 8 que l’appelant n’a pas reçu de dividendes au cours des années 2008 à 2010.
+[13] Le ministre a par ailleurs retenu le fait que Martin Guilbault, le père de l’appelant et président du payeur, détenant 75 pour 100 des actions, remplissait bien son rôle d’actionnaire majoritaire et exerçait sa fonction de supervision lorsque nécessaire. L’appelant a soutenu que son père n’avait pas plus d’ascendant sur lui que lui en avait sur son père. Toutes les décisions se prenaient à deux en consensus. De plus, l’appelant a précisé dans son témoignage qu’il pouvait présenter des demandes de financement ou de subventions aux institutions concernées avant même d’en parler à son père. Pour la gestion du personnel, il le consultait, compte tenu de sa plus grande expérience.
+[14] Finalement, le ministre a considéré que les tâches accomplies par l’appelant correspondaient aux besoins et aux attentes du payeur et qu’elles étaient essentielles. Je dois dire que je trouve cette proposition évidente à la fois pour un employé, actionnaire ou non, et pour un contractuel embauché par le payeur. Je ne vois pas en quoi cette proposition fait nécessairement de l’appelant un employé. Quoi qu’il en soit, si une telle proposition incarne la notion de l’intégration du travailleur dans l’entreprise (Lacroix, précitée, par. 33), celle-ci s’appliquera pour déterminer si le travailleur est employé en vertu d’un contrat de louage de services, et non pas pour déterminer s’il existe d’un lien de dépendance réputé. Ici, l’appelant ne semble pas contester l’existence d’un contrat de louage de services. Il remet plutôt en question la conclusion du ministre voulant que l’appelant et le payeur soient réputés ne pas avoir de lien de dépendance.
+[15] Dans le Rapport sur un appel (pièce I-3), l’agent des appels a analysé la nature et l’importance du travail accompli, et a considéré que le travail de l’appelant s’intégrait dans l’activité commerciale du payeur et que le fait que l’appelant n’a pas pris de vacances ou qu’il travaillait à la maison pendant son congé de paternité démontrait que son travail était important pour le payeur. Il ajoute que la seule personne qui pouvait le remplacer était l’actionnaire majoritaire, qui faisait le même travail que l’appelant. Il en déduit qu’il est raisonnable de conclure qu’un employeur sans lien de dépendance aurait engagé le travailleur pour exécuter les mêmes fonctions. Je réponds à ceci qu’il est bien évident qu’un employeur voudrait un employé de la sorte qui se consacrerait corps et âme à l’entreprise sans pour autant se faire payer plus. La question qu’il faut se poser plutôt est celle de savoir si un autre travailleur aurait accepté de travailler dans les mêmes conditions ou à peu près les mêmes. Selon l’appelant, il est le seul qui n’a pas profité du congé de paternité prévu par les lois applicables et il ne prenait pas les vacances auxquelles il avait droit, ce qui n’était pas le cas des autres travailleurs.
+[16] Pour ce qui est des modalités d’emploi, l’agent des appels reconnaît dans son rapport que l’appelant avait un horaire différent de celui des autres travailleurs, qu’il avait une certaine autonomie et bénéficiait d’avantages que d’autres employés n’avaient pas. L’agent des appels conclut toutefois qu’il est normal pour des travailleurs de fournir des efforts ou d’obtenir des avantages du simple fait de leur statut d’actionnaire et qu’une personne sans lien de dépendance, également actionnaire, aurait accepté le même traitement. Quant à la durée de l’emploi, il conclut qu’un tiers aurait accepté un tel travail à temps plein avec une charge de travail constante. Pour ce qui est de la rétribution, l’agent des appels a jugé la rémunération raisonnable par comparaison avec le salaire moyen d’un manœuvre en transformation des aliments. Le fait que les deux actionnaires n’aient pas eu d’augmentation de leur salaire en 2010, contrairement aux autres travailleurs, était, selon l’agent des appels, raisonnable et il a conclu que tout autre actionnaire, sans lien de dépendance, aurait accepté le même traitement.
+[17] À mon avis, il était déraisonnable de la part du ministre de comparer l’appelant à n’importe quelle autre personne qui aurait accepté d’investir dans 25 pour 100 des actions du payeur et d’en venir à la conclusion que cette autre personne aurait accepté le même traitement. Les circonstances ne sont pas comparables. Celui qui investit et débourse réellement pour recevoir 25 pour 100 des actions et qui travaille dans l’entreprise avec l’autre actionnaire, soit l’actionnaire majoritaire, n’accepterait probablement pas la même charge de travail que cet actionnaire majoritaire, avec une rémunération en-deçà de celle du marché, sans dividendes, et ce, même s’il peut espérer un bénéfice futur sur la vente de ses actions. De fait, pourquoi cet investisseur consacrerait-il autant de temps à l’entreprise que l’actionnaire majoritaire qui, lui, recevra 75 pour 100 des bénéfices futurs? Ceci n’est pas logique.
+[18] À mon avis, le seul fait pour l’appelant de ne pas avoir eu à payer pour le quart des actions de l’entreprise (d’une valeur de 2 millions de dollars dans ce cas‑ci) et de prendre toutes les décisions de consensus avec son père, qui détenait le reste des actions, fait en sorte que l’on ne peut comparer sa situation avec celle d’un autre actionnaire, qui aurait eu à payer sa juste part pour l’acquisition de ses actions. Il n’y aurait pas eu le même équilibre et ce dernier n’aurait probablement pas eu la même implication dans l’entreprise que l’appelant. De fait, c’est justement à cause de son lien de dépendance que ce dernier a obtenu ses actions. Tel que le soulignait l’appelant, il est permis de douter qu’une personne sans lien de dépendance, fraîchement sorti du cégep à l’âge de 23 ans, eût reçu la confiance de son père au point où celui-ci lui aurait donné le quart de l’entreprise et lui aurait laissé prendre des décisions importantes, incluant le financement, sans nécessairement obtenir son aval auparavant. Ceci en soi est un traitement préférentiel qui n’aurait pas été accordé à un tiers actionnaire et qui fait partie, selon moi, des circonstances dont doit tenir compte le ministre en exerçant sa discrétion. C’est pourquoi je ne pense pas que, dans une telle situation, il faille comparer le contrat de travail de l’appelant avec celui d’un tiers qui aurait été actionnaire. La question est celle de savoir si un tiers aurait été engagé dans des conditions semblables ou, pour utiliser les termes de la LAE, si le payeur et l’appelant auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[19] Le témoignage non contredit de l’appelant, confirmé par son père, démontre clairement qu’il avait un traitement différent des autres employés. Ceci ressort également des faits constatés par l’agent des appels dans son rapport déposé sous la cote I-3. À titre d’exemple, l’appelant se livrait à des activités personnelles sur les heures de travail alors que ceci n’était pas possible pour les autres. En 2010, l’appelant n’a pas augmenté son salaire alors que les autres travailleurs ont reçu une augmentation. L’appelant utilisait les biens de l’entreprise (le tracteur, le camion) alors que les autres n’avaient pas ce droit. Le salaire de l’appelant ne devait pas être comparé à celui d’un travailleur agricole puisque c’était un travail administratif qu’il effectuait.
+[20] À mon avis, tout ceci démontre que le ministre n’a pas tenu compte de toutes les circonstances pertinentes en rendant sa décision. Je considère que l’appelant a démontré que les faits retenus par le ministre n’ont pas été appréciés correctement en tenant compte du contexte où ils sont survenus et, en conséquence, sa décision ne paraît pas raisonnable.
+[21] Je me crois donc justifiée d’intervenir et je suis d’avis qu’un contrat de travail à peu près semblable n’aurait pas été conclu entre l’appelant et le payeur sans l’existence du lien de dépendance.
+[22] L’appel est accueilli et la décision du ministre est annulée, de sorte que l’appelant n’occupait pas un emploi assurable au cours de la période en litige aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de la LAE.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2013.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2013 CCI 296
+Nº DU DOSSIER DE LA COUR : 2012-2034(EI)
+INTITULÉ DE LA CAUSE : Martin Junior Guilbault c. Ministre du Revenu National et fromagerie du Champ à la Meule inc.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 23 août 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 20 septembre 2013
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Mounes Ayadi
+Représentant de l'intervenante :
+Martin Guilbault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

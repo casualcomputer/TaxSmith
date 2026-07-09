@@ -1,0 +1,209 @@
+---
+title: "Muller v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25956/index.do"
+last_modified: "2004-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 562"
+citation2: ""
+neutral_citation: "2004 TCC 562"
+decision_date: "2004-08-13"
+language: "en"
+item_id: "25956"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3754
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:09:13.166000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d0a1e361fe59d5edd7290f35bde79ba6221b7c7e404980fb0a04c761e8836f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Muller v. The Queen
+
+- Citation: 2004 TCC 562
+- Decision date: 2004-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3754, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Muller v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-13
+Neutral citation
+2004 TCC 562
+File numbers
+2001-1441(GST)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-1441(GST)G
+BETWEEN:
+HELMUTH MULLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 29, 2004 at Brandon, Manitoba
+Before: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Gary Burnside
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated January 4, 2001 and bears number RA09DR0122470A, is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada this 13th day of August, 2004.
+"R.D. Bell"
+Bell, J.
+Citation: 2004TCC562
+Date: 20040813
+Docket: 2001-1441(GST)G
+BETWEEN:
+HELMUTH MULLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+ISSUE
+[1] Whether the Minister of National Revenue ("Minister") was correct in denying the Appellant an Input Tax Credit ("ITC") in the amount of $1,273.61 for his reporting period from December 1, 1997 to December 31, 1997 on the basis that the truck purchased by the Appellant, a 1998 Ford 150 x 18 extended cab truck ("truck"), was a passenger vehicle within the meaning of section 123(1) of the Excise Tax Act ("ETA"), Part IX and on the basis that the truck was not used exclusively in the course of his commercial activities pursuant to section 202 of the ETA.
+FACTS
+[2] The Appellant is a farmer who in the period in question farmed approximately 650 acres. His farming operation was given as of "now", not as of the date of the truck purchase. The Appellant described the truck as having a four-wheel drive, a feature that he wanted because:
+We farm off-road and we're isolated and I feel much safer with a 4x4 and with the use I have, a 4x4 is very handy.
+He said further that if he wanted to pull something a 4x4 has a low range
+...where you can go slow, which you can't on a two-wheel drive and that is one of the main reasons for a 4x4.
+He also said that:
+It has another seat in the back with another door so you can put things in the back, or whatever, other than just the straight one seat.
+[3] He then said that the truck had a 5-speed manual transmission, a feature he desired, having used one all his life. He said that if he wanted to back up to a trailer "or whatever", he could use his clutch to back up and did not have to put his foot on the break and the gas pedal "like with an automatic". He also described the 8-ply rated tires as being "all terrain" tires. He then said that the 6,000 pound GVW package also had two hooks. He described the use of these as follows:
+Well, if you were stuck or if you wanted to pull somebody out and drive up to it was....it's some place to hook onto the front end, if you want to hook a train or tow rope onto the front you had a hook to hook it onto.
+[4] The Appellant then stated that he wanted a regular cab but could not find one and, having purchased an extended cab truck, stated that he would not want to be without it. His reason for that was:
+...if I want to haul parts or feed or whatever is necessary, I can keep it inside where it's secure. ...I can leave things, clothes, different things in the truck and keep it locked and have it secure.
+He stated that there was a bench seat in the back of the cab and that:
+The seat folded down and left me sort of a level floor.
+He testified that the truck had a third door on the passenger side, not being a regular door but one that:
+I guess they called them suicide doors at one time, it swung back".
+He then said that the passenger door had to open first and then the back door could be opened in the opposite direction. When asked if he carried passengers in the back seat he replied "very seldom". He said that he rode in the back seat once and that it was not comfortable because there was not enough leg room. He said that he was lucky that he was by himself and was able to stretch his legs out on the seat. He said further that he took his daughter-in-law to an agricultural show in Brandon, that she rode in it on the way to Brandon but sat in the front on the return voyage because it was too uncomfortable. He said that on the odd occasion his grandchildren were in the back seat. He described the cargo portion of the truck as being used for hauling seed, cases of chemicals and, sometimes, fuel, and whatever was necessary. He described hauling a pallet of canola seed wrapped in plastic which would have been 1,500 or 2,000 pounds. He stated that the truck did not have a towing package but that he added a hitch that bolted onto the frame at the back. He said that with this he pulled a combine header, which had its own wheels, pulled a trailer, a hopper box, grain augers and whatever needed to be towed.
+[5] The Appellant said that he and his wife also owned a 1993 Oldsmobile Cutlass Sierra, that he used the truck most of the time to farm, that the car was at home for his wife to use as necessary and that she used it for "going for groceries". He testified that they used the car when going on trips together. He said they took the truck to Edmonton within the first year, moving furniture for his daughter.[1] He also stated that he and his wife took the truck to Winnipeg one time when she had a medical appointment a snow storm having been forecast. This storm took place, leaving them stranded for half a day in Winnipeg.
+[6] The Appellant also stated that they had some isolated land and
+The roads are - leave a little bit to be desired.
+[7] Mr. Bryne McKay, ("McKay") who had been an auto dealer for 31 years, managed car dealerships, sold new cars, new pick-ups and used vehicles and had been actively involved in car service, rentals and leasing in all aspects of the industry. When asked by Appellant's counsel what his experience was and why people wanted extended cabs he stated:
+I found that extended cabs, super cabs, king cabs, those kinds of vehicles, the main intent they were buying them to use as a truck. Because it had the extended cab or super cab that was a real benefit because it gave them secured storage inside, they could lock things up, they could keep things out of the weather and if they did need it to haul passengers they could also do that.
+[8] He said, with respect to the first "king cab" which had two seats in the back his customers:
+...were excited about...they had somewhere to put things behind the seat. They didn't seem to be that thrilled with the seats in the back, it was having that inside storage....
+[9] The witness then testified that he was 5 feet 11 inches tall and after stating that he would be comfortable in the back seat of a Taurus automobile, said:
+... the extended cab usually has less room, like less knee room, you're usually....because the vehicle wasn't designed primarily for that purpose, it's sort of an added feature, so you'll find that you'll have less leg room. You're usually sitting lower down in the vehicle so your knees are usually higher up and it's a more confined space and most people, you know, they don't mind going a short distance in a super cab but they don't want to go on a trip or anything.
+[10] The witness then said that a pickup truck has a separate frame as compared to most passenger cars. He said that they have what they call a uni-body which is just a bit of a frame at the front and then the tub or the metal of the car basically makes up the strength of the rest of the vehicle. He then said:
+So they don't have an actual frame running from the front of the vehicle all the way through the back, which a pickup truck has and that allows - gives a truck more strength so that it can haul cargo, heavier cargo and also gives it more towing capacity whereas what that does is if you have a fifth wheel you can attach it to the frame through the box or you could pull a trailer, cattle trailer, whatever, by putting a hitch onto the back, which is attached to the frame. A passenger vehicle normally doesn't have that capability.
+The witness then stated that those pickup trucks are designed to haul and tow.
+[11] On cross examination the witness said that the backseat of such a pickup could carry three passengers, albeit not comfortably.
+[12] The third witness for the Appellant was Denis Kowal ("Kowal"), a chartered accountant. He produced a video which contained, as he described it,
+...a visual portrayal of a vehicle similar to the one, like Mr. Muller's, in question here. It's a model identical to it in terms of its features and presentation.
+Kowal said that he had taken the video himself. He added that there was no neck rest in the backseat, that there were lap belts, no shoulder belts, that the space between the back of the backseat and the back of the front seat was 26 inches, that there was only 5 inches between a passenger's head and the rear window glass, that it was hard to get out of, that there was no door on the driver's side at the back and that the front seat must be moved forward in order to gain access and egress from the driver's side.
+ANALYSIS AND CONCLUSION
+[13] The appropriate portions of section 202(2) of the ETA read as follows:
+(2) Input tax credit on passenger vehicle or aircraft - Where a registrant who is an individual ... acquires ... passenger vehicle ..., the tax payable ... by the registrant ... shall not be included in determining an input tax credit ... unless the vehicle ... was acquired ... for use exclusively in commercial activities of the registrant.
+[14] Section 123 of the ETA provides that "passenger vehicle" has the meaning assigned by subsection 248(1) of the Income Tax Act ("ITA").
+[15] Section 248 of the ITA defines "passenger vehicle" to mean:
+...an automobile acquired after June 17, 1987 ...
+[16] The word "automobile" is defined in section 248 of the ITA as meaning:
+"automobile" means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers,
+but does not include
+(b) an ambulance,
+(c) a motor vehicle acquired primarily for use as a taxi, a bus used in a business of transporting passengers or a hearse used in the course of a business of arranging or managing funerals,
+(d) except for the purposes of section 6, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals, and
+(e) a motor vehicle of a type commonly called a van or pick-up truck or a similar vehicle
+(i) that has a seating capacity for not more than the driver and 2 passengers and that, in the taxation year in which it is acquired, is used primarily for the transportation of goods or equipment in the course of gaining or producing income, or
+(ii) the use of which, in the taxation year in which it is acquired, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income;
+[17] Appellant's counsel said:
+Our position is that we are excluded from 202(2) by virtue of the definition of passenger vehicle. We stand or fall by that position.
+He clarified that by that he meant that the pickup truck in question was not a passenger vehicle. Appellant's counsel also, during his submission, advised the Court that the claim for an ITC was denied under section 202(2) but that a restricted ITC was allowed under subsection 202(4). It is not necessary to analyse subsection 202(4) because if the Appellant fails in his argument respecting subsection 202(2) the assessment will stand on the basis described.
+[18] Appellant's counsel stated that his case was very simple, namely that the pickup truck was not an "automobile" within the meaning of that expression contained in paragraph (a) of the definition of "automobile". Whereas that definition refers to a motor vehicle as being designed primarily to carry individuals, counsel submitted that the pickup is designed primarily to haul and to tow, the fact that it carries passengers being secondary.
+[19] Respondent's counsel submitted that the pickup truck was designed primarily to carry individuals on highways and streets he argued further that:
+... these vehicles do carry individuals on highways and streets. They carry the Appellant, the Appellant's wife and family on long distance trips.
+He then said that they (pickup trucks) are equipped with all the safety features one would find in an automobile.
+... I am using that word not in the definition of the Act, but in the plain and ordinary meaning that is necessary to have in accordance with highway traffic laws. A vehicle that is not designed to carry individuals on highways and streets would not have to comply with any safety regulations.
+[20] Respondent's counsel also said that automobile design is something that requires evidence and expert testimony as to what that vehicle was designed primarily to do. He said:
+You need more evidence than was given in Court today with respect to the design of that automobile.
+ANALYSIS AND CONCLUSION
+[21] I cannot accept Respondent's counsel's submission that expert evidence is required to determine the purpose of the design of an automobile. In common understanding and usage, the purpose of an automobile, and consequently the reason for its design, is to carry individuals. Accordingly, without reading more than paragraph (a) of the definition of "automobile", a pickup truck is not included therein because, again, in common understanding and usage, its purpose and, therefore, the purpose of its design, is to transport goods and equipment. Its adjectival design and purpose is "pick-up truck".
+[22] It is interesting to note that the definition of "automobile" as it read prior to its 1994 amendment applicable to taxation years and fiscal periods beginning after 1987 was as follows:
+"automobile" means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers, and
+(b) a motor vehicle that is
+(i) of a type commonly called a station wagon or van or a similar vehicle if it is equipped in a reasonably permanent way to carry more than the driver and 2 passengers but not more than the driver and 8 passengers, or
+(ii) of a type commonly called a van or pick-up truck or a similar vehicle unless it is designed or adapted to carry not more than the driver and 2 passengers and is used primarily for the transportation of goods or equipment in the course of a business or for the purposes of earning income,
+but does not include
+(c) an ambulance,
+(d) a motor vehicle acquired primarily for use as a taxi or in connection with funerals, or
+(d) except for the purposes of section 6, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles.
+That definition clearly included a pick-up truck but that clear inclusion disappeared in the definition applicable to the period in question. That applicable definition of "automobile" is found in paragraph (a). The definition formerly, in conjunctive fashion, included a pick-up truck. Now the positive part of the definition is limited to:
+a motor vehicle that is designed ... primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers.
+[23] It then seeks to exclude certain types of motor vehicles including a pick-up truck "that has seating capacity for not more than the driver and 2 passengers." The present definition not only invites but commands the reader to query whether any kind of truck would fall within the meaning of paragraph (a) because a truck generally, and the pick-up truck under examination in this appeal was clearly not
+designed ...primarily to carry individuals and their personal luggage.
+(emphasis added)
+[24] Going beyond paragraph (a) we read that the automobile as defined therein does not include, as set out in paragraph (e) a "motor vehicle" commonly called a pickup truck that has a "seating capacity for not more than the driver and 2 passengers and ... is used primarily for the transportation of goods or equipment in the course of gaining or producing income". Even if a "pick-up truck" could be said to be a motor vehicle while "designed ... primarily to carry individuals and their personal luggage" it is excluded from the definition of automobile by virtue of its "seating capacity".
+[25] The existence of paragraph (e)(i) presupposes that a pickup truck is an automobile within the meaning of (a). It then appears to contemplate that a pickup truck would normally be an automobile but will not be an automobile if it has "seating capacity" for not more than the driver and two passengers. Even if one were to conclude that a pickup truck is an "automobile" under paragraph (a) the question of what is meant by "seating capacity" under (e)(i) arises. Surely that term must be interpreted in the context of common language usage. That term, not being defined, an ordinary reasonable person would likely conclude that it is seating capacity in the sense of a normal comfortable automobile. This is not the case respecting the vehicle in question. Access to the back of its extended cab is not easy, there are no shoulder belts, there is limited space for legs and knees, there is no protection for the head which is, as demonstrated, five inches from the glass at the rear of the truck. There would be no expectation that this would amount to satisfactory seating capacity for someone taking a journey of some distance. The evidence indicated that sitting there was an uncomfortable experience. There may be vans which have a number of seats which could be described as fitting the description of normal "seating capacity". I will not venture into an examination of what is meant by "similar vehicle" as those words are used in paragraph (e). It is my conclusion that the pickup truck in question, if this discussion were even necessary, does not have a "seating capacity for more than the driver and 2 passengers".
+[26] The other condition in (e)(i) is that "in the taxation year in which it is acquired" the pickup truck is used "primarily for the transportation of goods or equipment in the course of gaining or producing income". It must be remembered that the period in question is the month of December in 1997 and that that is the period under examination in this appeal. Although there is no evidence as to its specific use in that month there is ample evidence that the truck was purchased for use in the conduct of the farming operation, the Appellant and his wife owning a passenger car at the time of such purchase.
+[27] With respect to paragraph (e)(ii) I am faced with the same lack of evidence as to the use of the pickup in 1997. In respect of both paragraphs (i) and (ii) even in the absence of evidence as to physical use, it is my conclusion that, it having been purchased for the farming operation its use for the part of the month of December 1997 was that purpose, no evidence as to any other purchase existing.
+[28] Accordingly, the appeal will be allowed with costs.
+Signed at Ottawa, Canada this 13th day of August, 2004.
+Bell, J.
+CITATION:
+2004TCC562
+COURT FILE NO.:
+2001-1441(GST)G
+STYLE OF CAUSE:
+Helmuth Muller v. The Queen
+PLACE OF HEARING:
+Brandon, Manitoba
+DATE OF HEARING:
+June 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice R.D. Bell
+DATE OF JUDGMENT:
+August 13, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Gary Burnside
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gary Burnside
+Firm:
+Burnside & Co.
+Swan River, Manitoba
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] When the Appellant used the term "first year" it appears to be in 1998, the truck appearing to have been purchased in December 1997. Although the portion of the purchase contract entered in evidence did not show the date thereof, it showed a down payment of $3,500 followed by 48 monthly instalments of $602.68 each, commencing in January 1998.

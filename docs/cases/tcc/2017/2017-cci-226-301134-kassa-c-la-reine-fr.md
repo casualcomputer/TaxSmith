@@ -1,0 +1,197 @@
+---
+title: "Kassa c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301134/index.do"
+last_modified: "2017-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 226"
+citation2: ""
+neutral_citation: "2017 CCI 226"
+decision_date: "2017-11-10"
+language: "fr"
+item_id: "301134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7632
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:18:44.532000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b93fc5f9fcf7698ee9d161b4ce46118606428f9af7e5f6b977f4e904fa79421"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kassa c. La Reine
+
+- Citation: 2017 CCI 226
+- Decision date: 2017-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7632, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kassa c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-10
+Référence neutre
+2017 CCI 226
+Numéro de dossier
+2016-3024(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3024(IT)I
+ENTRE :
+AMELEWORK KASSA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 octobre 2017, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelante :
+Jagama Gobena
+Avocat de l’intimée :
+Me Alexander Hinds
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel visant les années d’imposition 2010, 2011 et 2012 est accueilli au motif que l’appelante a le droit de déduire de son revenu d’emploi des frais afférents à un véhicule à moteur équivalant à 4 218,74 $, à 4 639,18 $ et à 5 087,42 $, pour chacune des années d’imposition 2010, 2011 et 2012, respectivement, et la question est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+L’appelante a droit à ses dépens selon le tarif applicable.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2017.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2017 CCI 226
+Date : 20171110
+Dossier : 2016-3024(IT)I
+ENTRE :
+AMELEWORK KASSA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction [1] L’appelante, Mme Kassa, demandait la déduction de certains frais de son revenu d’emploi pour les années d’imposition 2010, 2011 et 2012 en vertu de l’alinéa 8(1)h.1) de la Loi de l’impôt sur le revenu, LRC (1985), c.1, dans sa version modifiée (la « Loi »). Elle a également demandé les remboursements de la TPS/TVH à l’intention des salariés et des associés pour les années d’imposition 2010 et 2012.
+[2] Ces déductions et remboursements peuvent être résumés ainsi :
+Année d’imposition 2010 2011 2012
+Frais afférents à un véhicule à moteur 8010 9 363 8 456
+Fournitures 275 277 323
+Téléphone cellulaire 549 554 1 242
+Bottes – uniformes 404 388 379
+Total des frais 9 238 10 582 10 399
+Remboursements de la TPS/TVH 513 NÉANT 940
+[3] Le ministre du Revenu national (le « ministre ») a rejeté l’ensemble des déductions et des remboursements.
+II. Faits a) Emploi, rémunération et registres Travailleuse de la santé [4] Mme Kassa a témoigné à l’audience. Elle a indiqué que, durant les années pertinentes, elle a travaillé pour un fournisseur de services de soins à domicile : VHA Home Healthcare (« VHA »). Elle utilisait sa propre voiture chaque jour où elle travaillait pour répondre aux besoins de base en matière de santé de six à huit patients. À l’occasion, Mme Kassa se rendait au bureau de VHA pour suivre une formation ou assister à des réunions du personnel. En général toutefois, elle partait de chez elle le matin et se rendait successivement chez ses patients. Ses dépenses d’emploi concernaient l’utilisation d’un véhicule à moteur, les fournitures, le téléphone cellulaire et les uniformes. Les remboursements de la TPS/TVH ont été demandés pour deux années, comme il est noté ci-dessus.
+T2200 [5] Pour chacune des trois années d’imposition, elle a signé des formulaires T2200 – Déclaration des conditions de travail. Il régnait une confusion quant à la façon de bien remplir les formulaires T2200 pour les années d’imposition. De façon générale, la situation suivante semble décrire de façon exacte les faits pour les trois années :
+i) Mme Kassa a utilisé son véhicule à moteur pour accomplir certaines activités d’entreprise de VHA. ii) Mme Kassa devait dépenser des sommes dans le cadre de son emploi, à tout le moins pour son véhicule à moteur. iii) Mme Kassa avait droit à un remboursement partiel de ses dépenses et en a obtenu un. Rapprocher les diverses versions des T2200 [6] Au bout du compte, il est devenu évident que VHA et Mme Kassa avaient rempli un formulaire T2200 pour chacune des trois années en litige. En outre, Mme Kassa demandait à VHA un remboursement, à un taux de 0,36 $ par kilomètre, pour le kilométrage parcouru dans le cadre de ses fonctions pour VHA pour se rendre chez ses divers patients. Abstraction faite des diverses versions du T2200, les éléments qui précèdent semblent correspondre à la méthodologie exacte utilisée par Mme Kassa et à l’égard de laquelle elle a témoigné.
+[7] Les formulaires T2200 constituent normalement la principale preuve de l’utilisation du véhicule de l’employé, de toute allocation raisonnable non imposable et des obligations d’un employé d’utiliser ses propres biens et ressources pour accomplir ses fonctions pour un employeur. Comme on le constatera, même si les diverses versions ont été remplies à des degrés différents, la preuve concernant les dépenses et les obligations de Mme Kassa a été confirmée et corroborée par d’autres témoignages.
+Allocation pour frais de véhicule [8] Pour chacune des trois années d’imposition, l’allocation de déplacement versée par VHA se situait entre 3 000 $ et 3 600 $. Ses talons de chèques sommaires indiquaient les montants annuels ainsi :
+Année Allocation de déplacement versée par l’employeur
+2010 3 067,98 $ 2011 3 396,76 $ 2012 3 667,94 $ [9] Les montants précis peuvent contenir des écarts mineurs parce que les périodes de paie chevauchent les diverses années civiles. De façon générale toutefois, selon les talons de paie générés par l’employeur, les montants sont fiables d’une année à l’autre à titre de mesure de l’allocation de déplacement versée par VHA. Selon la preuve, la Cour conclut que Mme Kassa avait droit à une allocation pour frais de véhicule non imposable versée par l’employeur. Comment on le verra en l’espèce, cela ne s’est pas produit.
+Pourcentage d’utilisation du véhicule dans le cadre de l’emploi [10] Mme Kassa a déclaré qu’elle utilisait rarement, voire jamais, son véhicule à moteur pour un usage personnel. Comme elle a de jeunes enfants et un conjoint, elle accomplissait ses fonctions d’emploi quotidiennes et retournait chez elle. Son conjoint, qui utilisait un autre véhicule, s’occupait de récupérer les enfants, du transport, de l’épicerie et d’autres tâches quotidiennes personnelles nécessitant un véhicule à moteur. Mme Kassa a fait valoir que 90 % du kilométrage parcouru avec son véhicule concernait des visites à divers patients de VHA.
+Registre des visites aux patients à divers lieux [11] Elle n’a pas tenu en tant que tel un registre d’utilisation du véhicule. Toutefois, Mme Kassa a tenu un système de calendrier mensuel rudimentaire et y a indiqué les patients auxquels elle a rendu visite chaque jour : les initiales apposées indiquent le patient visité par elle durant cette journée. De plus, ce système montre sa demande d’allocation de déplacement et son paiement par VHA.
+b) Questions préliminaires Frais autres que les frais afférents à un véhicule à moteur [12] Contrairement aux frais de déplacement, aucun reçu, autre élément de preuve ou témoignage convaincant n’a été déposé à l’audience quant aux raisons ou au montant des frais engagés pour les fournitures, le téléphone cellulaire ou les uniformes et demandés pour chaque année. On peut dire la même chose des remboursements de la TPS/TVH. Aucun reçu ni document n’a été déposé. Par conséquent, ces frais ne peuvent être maintenus au motif qu’ils ont été engagés principalement, encore moins de façon accessoire, dans le cadre de l’accomplissement de ses fonctions d’emploi. En outre, aucun témoignage n’a porté sur le fait que Mme Kassa était tenue de fournir quelque chose dans le cadre de son emploi en ce qui concerne les fournitures, le téléphone cellulaire ou les uniformes, outre l’utilisation de son véhicule à moteur et les frais qui y sont directement liés.
+III. Analyse du droit et des faits et décision a) La Loi [13] De façon symétrique, la Loi prévoit des allocations de déplacement raisonnables qui ne doivent pas être incluses dans le revenu d’un contribuable et la déduction par les employés de certains frais afférents à un véhicule à moteur admissibles. L’un exclut fréquemment l’autre, mais ce n’est pas toujours le cas.
+[14] En ce qui concerne les allocations raisonnables remboursées en franchise d’impôt, le sous-alinéa 6(1)b)(vii.1) de la Loi indique ce qui suit :
+Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi
+6 (1) Sont à inclure dans le [...] revenu d’un contribuable [...]
+Frais personnels ou de subsistance
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[15] De même, l’alinéa 8(1)h.1) porte sur des déductions du revenu d’emploi :
+8(1) Éléments déductibles
+Frais afférents à un véhicule à moteur
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f);
+b) Analyse des faits [16] Selon les faits, Mme Kassa n’a pas exclu de son revenu l’allocation de déplacement raisonnable versée par VHA. Elle l’a incluse dans son revenu. En fonction des faits appliqués à la loi, la Cour conclut qu’elle n’était pas tenue de le faire. Non seulement cette allégation n’est pas appuyée par la preuve, mais aucune hypothèse contraire quant au paiement d’une allocation, incluse ou exclue, n’a été formulée dans la réponse du ministre. L’intimée n’a appelé aucun témoin. Un examen de la réponse confirme le point de vue de l’intimée selon lequel :
+(i) sans mention expresse, le montant du revenu déclaré comprenait l’allocation pour frais de véhicule raisonnable versée par VHA; (ii) l’employeur n’avait qu’un seul lieu de travail ou chantier; (iii) toutes les fonctions étaient accomplies à un seul lieu de travail pendant un jour où Mme Kassa se rendait en voiture et duquel elle revenait chez elle; (iv) Mme Kassa n’était pas tenue aux termes de son contrat d’emploi d’engager les frais afférents à un véhicule à moteur ou les frais de déplacement; (v) implicitement, Mme Kassa utilisait son véhicule principalement à des fins personnelles. [17] Les lacunes de la preuve documentaire de Mme Kassa, en particulier en ce qui concerne le T2200, détruisent dans l’ensemble ces hypothèses. Selon la prépondérance des probabilités, la Cour formule les conclusions de fait suivantes :
+(i) Mme Kassa a abondamment utilisé son véhicule pour l’entreprise de l’employeur; (ii) elle s’est rendue en voiture d’un lieu d’affaires à un autre dans le cadre de ses fonctions pour le compte de VHA pour ne revenir chez elle qu’à la fin de la journée; (iii) une condition de son contrat, tout le contrat et non nécessairement celui qui a été confondu dans les divers T2200, l’obligeait à se rendre à divers endroits pendant une journée dans le cadre de son emploi; (iv) l’allocation qui lui a été versée a été incluse dans le revenu et l’impôt sur le revenu a été payé. [18] La Cour a été saisie d’une situation inverse dans la décision Royer v. HMQ, 99 DTC 683 [une traduction anglaise est disponible parmi les décisions de la CCI] dans laquelle la juge Lamarre Proulx a décrit une situation où un contribuable demandait de déduire des frais de déplacement en vertu de l’alinéa 8(1)h.1). Dans cette affaire, les frais demandés dépassaient une allocation raisonnable en franchise d’impôt qui en soi, selon le ministre, aurait dû être incluse dans le revenu parce que l’employeur n’avait qu’un seul lieu d’affaires. Une confusion semblable existe dans les actes de procédure de ministre du présent appel. Mme Kassa est visée par les situations décrites par la juge Lamarre Proulx où cette dernière a écrit ce qui suit aux paragraphes 16 et 17 :
+[16] En m’appuyant sur la jurisprudence déjà citée, je suis d’avis que l’alinéa 8(1)h.1) de la Loi prévoit deux situations : la première concerne l’employé qui est habituellement tenu d’accomplir ses fonctions ailleurs qu’au lieu d’affaires de son employeur et l’autre concerne l’employé qui est habituellement tenu d’accomplir ses fonctions à différents endroits. Je crois que la première situation vise le cas d’une personne qui se rapporte à un endroit, qui est un lieu d’affaires, et qui doit habituellement exercer ses fonctions à l’extérieur de ce lieu.
+[17] En ce qui concerne la deuxième situation, je ne crois pas que l’expression « différents endroits » exclut un lieu d’affaires. J’accepte la position de l’avocate de l’intimée, appuyée par la jurisprudence ci-avant citée, qu’un chantier est un lieu d’affaires. S’il y a plusieurs lieux d’affaires où un employé doit accomplir ses fonctions, ces lieux d’affaires prennent justement le sens de différents endroits. Si dans ces différents endroits, il y en a un qui est attribué à l’employé de manière habituelle et que les autres lieux le sont à la discrétion de l’employeur, le transport au lieu d’affaires habituel sera de la nature de frais personnels. Les conditions de travail sont importantes pour arriver à déterminer ce qui est la place habituelle du travail et ce qui constitue les différents endroits. La distance d’un endroit à l’autre et le changement du lieu de travail selon les besoins de l’employeur feront, notamment, que les lieux de travail constitueront différents endroits.
+[19] Dans le cas de Mme Kassa, non seulement les frais n’ont pas été complètement remboursés, mais les paiements qui compensaient une partie des frais ont été inclus par elle dans son revenu. Cela fait en sorte que Mme Kassa n’a pas « reçu une allocation » qui « n’est pas incluse dans le calcul de son revenu ». Par conséquent, l’exclusion du revenu prévue au sous-alinéa 6(1)b)(vii.1) n’a pas été soulevée comme une exception à la déductibilité visée par le sous‑alinéa 8(1)h.1)(iii). Cette exception ne s’applique pas dans le présent appel pour empêcher la déductibilité comme elle le fait souvent. Pour ce motif, l’alinéa 8(1)h.1) s’applique entièrement. Les frais qu’a engagés Mme Kassa pour se déplacer à divers « chantiers » obligatoires chaque jour pendant ses fonctions devraient être déductibles de son revenu d’emploi. Elle a gagné ce revenu précisément parce qu’elle s’est déplacée vers les chantiers distincts de VHA.
+Calcul équitable des frais afférents à un véhicule à moteur? [20] Mme Kassa ne pouvait faire qu’un usage limité du paiement de remboursement de VHA lié à son véhicule parce qu’il était imposable. Il s’agit tout de même d’un outil utile pour mesurer le kilométrage parcouru au bénéfice de l’employeur à divers chantiers dans le cadre des fonctions de Mme Kassa. L’employeur, en tant qu’exploitant tiers d’une entreprise, n’a logiquement payé que pour les distances dont il était responsable. Intuitivement, la Cour suppose que l’employeur n’aurait pas accordé une demande visant des distances ou un kilométrage gonflé pour un usage personnel. Au taux de 0,36 $ par kilomètre, le nombre de kilomètres parcourus pour l’entreprise de VHA par Mme Kassa est indiqué dans les quotients arrondis suivants, tirés de la division du montant total payé par le taux par kilomètre :
+Année Allocation imposable payée Kilomètres parcourus pour les fonctions
+2010 3 067,00 $ 8 519 2011 3 396,00 $ 9 433 2012 3 667,00 $ 10 186 [21] Les taux suivants de remboursement par kilométrage prescrits par l’ARC, tirés de l’article 7306 du Règlement pris en application de la Loi, ont été produits à l’audience :
+Année Taux d’allocation raisonnable
+2010 0,52 $/km pour les premiers 5 000 kilomètres parcourus et 0,46 $/km par la suite;
+2011 0,52 $/km pour les premiers 5 000 kilomètres parcourus et 0,46 $/km par la suite;
+2012 0,53 $/km pour les premiers 5 000 kilomètres parcourus et 0,47 $/km par la suite.
+[22] Pour ce motif, selon toute vraisemblance, les coûts raisonnables des frais engagés par Mme Kassa étaient les suivants :
+Année
+Kilomètres parcourus pour l’emploi
+Premiers 5 000 kilomètres aux taux prescrits par l’ARC
+Kilométrage supérieur à 5 000 kilomètres aux taux prescrits par l’ARC
+Frais de déplacement déductible
+2010
+8 519
+0,52 $ x 5 000 = 2 600,00 $
+0,46 $ x 3 519 = 1 618,74 $
+4 218,74 $
+2011
+9 433
+0,52 $ x 5 000 = 2 600,00 $
+0,46 $ x 4 433 = 2 039,18 $
+4 639,18 $
+2012
+10 186
+0,53 $ x 5 000 = 2 650,00 $
+0,47 $ x 5 186 = 2 437,42 $
+5 087,42 $
+[23] Bien que ces montants soient inférieurs au total des frais réels qui auraient été engagés, Mme Kassa a gardé très peu de reçus, a calculé un montant très faible pour un usage personnel et n’a pas témoigné quant à la fréquence des déplacements vers les bureaux de VHA. Il convient de noter que les deux derniers éléments sont des frais personnels et non déductibles. Toutefois, elle a utilisé son véhicule lorsqu’elle a offert des services à son employeur dans le cadre de son emploi. Par conséquent, elle a droit aux frais afférents à un véhicule à moteur raisonnables indiqués ci-dessus.
+[24] Malgré l’argument selon lequel l’allocation de 0,36 $ par kilomètre n’aurait pas dû être incluse dans son revenu dans le premier cas, il n’en reste pas moins qu’il l’a été. La présentation d’une demande de redressement d’une T1 ne lie pas le ministre et il ne s’agit pas d’un redressement à la disposition de la Cour en ce qui concerne Mme Kassa. De même, un redressement de ce type aurait pu être effectué par le ministre à l’étape de l’opposition. Cela n’a pas été fait. En tout état de cause, la simple non-inclusion de ces montants moindres, de l’avis de la Cour, ne suffit pas pour tenir compte des frais de déplacement réels raisonnables et déductibles. Par conséquent, d’autres frais déductibles sont toujours justifiés. Pour ce motif, et dans le cadre de la présente procédure informelle, la Cour souhaite offrir un redressement juste, équilibré et global pour le total des frais de déplacement raisonnables déductibles du revenu d’emploi en vertu de l’alinéa 8)(1)h.1). Le résultat qui précède le permet.
+IV. Dépens [25] Mme Kassa a droit à ses dépens pour la présente procédure informelle selon le tarif.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2017.
+« R.S. Bocock »
+Juge Bocock
+INTITULÉ :
+2017 CCI 226
+No DU DOSSIER DE LA COUR :
+2016-3024(IT)I
+INTITULÉ :
+AMELEWORK KASSA ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 10 novembre 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+Jagama Gobena
+Avocat de l’intimée :
+Me Alexander Hinds
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/ EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

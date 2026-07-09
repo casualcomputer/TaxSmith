@@ -1,0 +1,162 @@
+---
+title: "Grenier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27744/index.do"
+last_modified: "2006-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 93"
+citation2: ""
+neutral_citation: "2007 TCC 93"
+decision_date: "2006-12-11"
+language: "en"
+item_id: "27744"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 298
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:29:39.857000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73ed07c0e7ee99a7dde1be0d889407533fcc24f8be388ad483c8d0ac1a91259d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grenier c. La Reine
+
+- Citation: 2007 TCC 93
+- Decision date: 2006-12-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 298, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-11
+Neutral citation
+2007 TCC 93
+File numbers
+2000-761(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC93
+Date: 20070627
+Docket: 2000-761(IT)G
+BETWEEN:
+RAYNALD GRENIER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+(Delivered orally from the bench on December 13, 2006
+at Québec, Quebec and modified for more clarity and precision.)
+Archambault J.
+[1] In a motion, Raynald Grenier is asking the Court to set aside or vary a judgment by this Court dated October 1, 2002, because of a fraud or facts that arose or were discovered after the verdict was rendered, pursuant to paragraph 172(2)(a)[1] of the Tax Court of Canada Rules (General Procedure) (Rules), or on the ground that the Court did not make a finding on an issue raised before it, pursuant to paragraph 172(1)(b)[2] of the Rules.
+The facts
+[2] Mr. Grenier has appealed from the assessments made by the Minister of National Revenue (minister) for the taxation years 1993 to 1996. Following the judgment I rendered and for which the written reasons were dated December 14, 2002, Mr. Grenier appealed before the Federal Court of Appeal, which rendered a decision April 1, 2004, dismissing Mr. Grenier's appeal and confirming this Court's decision.
+[3] In the case before the Federal Court of Appeal, Mr. Grenier twice asked the Court for permission to tender new evidence. First, a motion was filed on August 18, 2003, asking for [translation] "an authorization to tender complementary evidence in support of testimony already heard but not accepted by the Honourable Justice Pierre Archambault."
+[4] In his reasons for denying this motion, Létourneau J. noted that among the documents Mr. Grenier wanted to produce, were copies of rules and legislation that did not need to be part of the evidence because they could have been included in the book of legislation, regulations, case law and doctrine. As for what could be considered new factual evidence, Létourneau J. ruled as followed:
+[translation]
+Given that the other items the Appellant wants to submit in appeal refers to documents that are either already in the appeal book, not relevant, or appeared after the hearing, or prior to the hearing when the Appellant knew of their existence; it is therefore ordered that: the motion by the Appellant for authorization to present new evidence is dismissed.
+[5] Following this decision by Létourneau J., a new motion to reopen the case was presented to the Federal Court of Appeal, which was also denied. However, I would like to point out the main ground relied on in support of this motion was the existence of new facts to be tendered and not fraud.
+• Issues for which the Court did not render a decision
+[6] During argument in support of his motion before the Court, Mr. Grenier specified the grounds he felt attracted the application of section 172 of the Rules. In support of the argument that the Court did not make a ruling on an issue before it, he invoked subsection 31(2) of the Income Tax Act (Act) that given the Minister the power to "... determine that a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income" and argued that in the evidence submitted, nothing indicated whether the Minister used this power, which Mr. Grenier qualified as discretionary. With no evidence that the Minister used it, there could have been abuse of power, which would have prevented Mr. Grenier from exercising his rights and freedoms set out in the Canadian Charter of Rights and Freedoms (Charter). This is the main ground I have been able to distill from the long motion prepared by Mr. Grenier, which would justify the claim that the Court did not make a ruling on an issue brought before it.
+• Allegation of fraud
+[7] In support of his motion under paragraph 172(2)(a) of the Rules, Mr. Grenier relied on the existence of a fraud that resulted from the conduct of counsel for the Respondent. In particular, counsel for the Respondent tendered before the Court tables summarizing the documentary evidence submitted to him, including a table summarizing the data for 1980 to 1992 from Exhibit I-11 and obtained from Revenue Canada's computer system. Another table covering the period 1993 to 2000 was prepared using Mr. Grenier's income tax reports that were produced during the hearing as Exhibit I-2 (for the 1993 tax report) and I-4 to I-10 (for the tax reports of 1994 to 2000). According to Mr. Grenier, important data were missing from these tables, of note the data regarding his income sources other than the agricultural business, his profession and his other business. He claims that he earned rental income in 1982 of $171,286 and investment income of $15,206, and realized a capital gain of $18,286. The income from these three sources could have been combined with those earned from his agricultural activity, according to Mr. Grenier. He criticized counsel for the Respondent of having [translation] "fraudulently or maliciously and voluntarily" neglected to state these income sources in his summary tables, while the data in question were available (Exhibits I‑4 and I‑11).
+[8] The other fact Mr. Grenier relied on to establish the fraud by counsel for the Respondent is that counsel did not include prior years in his tables, namely 1958 to 1980; this data, according to Mr. Grenier, could have shown that his sylviculture activity was an important income source that provided for his household needs.
+[9] Mr. Grenier also claimed that he could not have determined that some data was not in the summary tables due to a fault by counsel for the Respondent or the auditor for the Respondent. My own verifications allowed me to note that the absence of those data in the summary tables was due to the fact that they were not tendered in evidence.
+[10] In support of his allegation of fraud, Mr. Grenier also relied on the fact that a few weeks before the appeal hearing before the Federal Court of Appeal, he had sent a request for certain documents that were in the possession of either the Minister of Revenue or counsel for the Minister, in particular, his income tax returns for prior years. However, it is important to note that Mr. Grenier admitted receiving some of these documents and some data regarding prior years. Moreover, in support of his claims at the hearing for his motion, he adduced as Exhibit R-1 some tables that showed income declared for 1967, 1972, 1974 to 1976 and 1978 to 2005. By omitting some of this data from the summary tables, counsel for the Respondent, in Mr. Grenier's opinion, tried to mislead the judge, thus committing a fraud. In this omission by counsel for the Respondent, he sees another indication of a fraudulent or malicious intent.
+[11] Mr. Grenier also made reference to the counsel for the Respondent who examined him during his testimony in 2002, in particular regarding Exhibit A‑7, a statement from the Régie de l'assurance maladie du Québec (Régie). This statement indicates a number of patients, 722, for which he was allegedly compensated and, according to him, the questions he was asked did not allow him to show that these could have been patients he had seen during a period other than the two weeks covered by the statement. In other words, the statement does not necessarily represent the exact number of patients seen during the targeted period. He criticizes counsel for having created an impression that did not correspond to reality.
+[12] Without necessarily stressing its importance—he left it to the Court's discretion to draw its own conclusions—Mr. Grenier claimed that it had to be taken into consideration that counsel for the Respondent was opposed to having Mr. Gingras, Mr. Grenier's forest engineer, testify as an expert in 2002 because no expert report was adduced in accordance with the Rules. He also criticized counsel for having questioned the engineer on issues that could have been based on opinion.
+[13] Finally, Mr. Grenier mentioned the objection by counsel for the Respondent regarding his motion filed before the Federal Court of Appeal on August 18, 2003, (page 64 of the statement under oath of opposition to the motion (statement of opposition) of December 6, 2006) to be authorized to adduce complementary evidence; he made reference to documents designated as Q-8 and A-10 in his motion addressed to the Federal Court of Appeal.
+• New facts
+[14] Regarding the argument about new facts, Mr. Grenier tried to draw the Court's attention to the existence of two documents from the Association des Dermatologistes du Québec having to do with the compensation ceiling that was in force during the relevant period targeted by the Minister's assessment. According to Mr. Grenier, these documents could have evidenced an amount inferior to that set by the Minister in his assessment. Indeed, the controversy in Mr. Grenier's case did not only relate to the application of the restrictions set out in section 31 of the Act, but also to the application of a penalty for not declaring income from a profession.[3]
+Respondent's submissions
+[15] In support of her submission that the motion to set aside the judgment should be denied on the grounds that the Court no longer had jurisdiction to hear Mr. Grenier's claims, and that there is nothing more that would attract the application of section 172 of the Rules, counsel for the Respondent cites a number of cases. The most important was a case of the Federal Court of Appeal in Etienne v. Canada, [1993] F.C.J. No. 1388 (QL). In this case, the appeal related to a decision rendered by Teitelbaum J. (Etienne v. Canada, [1992] F.C.J. No. 862 (QL)), who denied a motion to amend an order rendered under the Official Languages Act. It must be noted that in addition to that motion, the litigant also appealed before the Federal Court of Appeal. At paragraph 1 of his reasons, Hugessen J. of that court held that the judge "…was correct to view it as inappropriate for a trial judge to deal with an application under r.1733 in respect of his own judgment at a time that an appeal from that judgment was pending. The proper remedy in such circumstances would be an application under r. 1102(1) to introduce the newly discovered evidence before the Court of Appeal."
+[16] Thus, the Federal Court of Appeal ruled that it was inappropriate to make such a motion before the trial court and rather, it should be presented before the Federal Court of Appeal. This decision was followed by two other decisions by our Court: Déziel v. Her Majesty the Queen, 2005 TCC 70, a decision by Dussault J.; and Schmidt v. Her Majesty the Queen, 2003 TCC 352, a decision by Little J. In these decisions, the judges ruled that it was irregular for the Court to "agree to deal with an application to amend a judgment on the ground of facts arising or discovered after the judgment was made if the judgment has already been appealed."[4] In these two cases, the Court of Appeal decision had been rendered.
+Analysis
+[17] The question I must address is the following: are Mr. Grenier's claims sufficient to attract the application of section 172 of the Rules?
+[18] Without deciding whether it is appropriate to find that Mr. Grenier's motion cannot be heard for want of jurisdiction, I feel that Mr. Grenier's claims are not valid. I am not persuaded that there was a fraudulently obtained judgment or that there were facts that occurred or were discovered after it was rendered. Moreover, as Hugessen J. stated, it is before the Federal Court of Appeal that he should have filed such a motion, both in terms of the new facts and the fraud that allegedly occurred. Mr. Grenier's motion regarding new facts was filed before the Federal Court of Appeal. Létourneau J. reviewed it and found that it addressed [translation] "documents that are either already in the appeal book, not relevant, or appeared after the hearing, or prior to the hearing when the Appellant knew of their existence" (October 29, 2003, order, Docket A‑597‑02, p. 73 of the statement of opposition.) So, if I were to render a decision, I would have to act, to a certain extent, as an appeal jurisdiction in regard to the decision by Létourneau J. However, I do not have jurisdiction to overturn this decision. As for all the documents that were subject to the motion before Létourneau J., res judicata probably applies and I cannot see how I could arrive at a different result than his.
+[19] Insomuch as there were documents not covered by the order of Létourneau J., and insomuch as the motion before me raised the issue of obtaining a judgment through fraud, I accept the argument by counsel for the Respondent that this element of fraud, to which Mr. Grenier referred, could have been addressed in a motion directed to the Federal Court of Appeal. The facts surrounding the fraud were known at that time. If it had been appropriate to plead fraud, it should have been brought to the attention of the Court of Appeal when it heard the application to reopen the case.
+[20] At any rate, even if it were not too late to do so and even if this Court had the jurisdiction to allow it, because of the existence of an alleged fraud, reopening the case and the amendment of a judgment I rendered, I rule that the facts stated by Mr. Grenier do not establish the existence of such a fraud. In regard to the new facts, the evidence does not show that these are facts that Mr. Grenier did not have knowledge of at the time of the hearing held in September 2002. I rule, as did Létourneau J. when he rendered his decision on Mr. Grenier's motion to produce new documents, that it is too late to adduce this evidence and vary the judgment.
+[21] As for the allegation of fraud, I am of the view that Mr. Grenier's submission shows a significant lack of knowledge of the legal system and the rules that govern the administration of justice in Canada. The system in force in Canada is adversarial. In this system, it is up to the two parties to adduce all the evidence necessary to establish the whole truth as to the factual elements in a case. The Court notes that, among other things, Mr. Grenier was represented by a tax lawyer during the hearing of his appeal in 2002; this lawyer, from what the Court can determine, had the necessary skills to defend Mr. Grenier's case. Each party had the duty to adduce its evidence and could propose its own interpretation of that evidence to the judge. It is totally unwarranted for Mr. Grenier to charge counsel for the Respondent or her auditor with fraudulent intent, in particular that of misleading the Court by presenting certain data regarding income as summary tables presented to the Court, and neglecting to include others. It was open to Mr. Grenier to tender his own tables, to interpret them differently and to show that by combining the agricultural income with that from other sources, in particular rental income, investment income and capital gains, he could have argued against the application of the restriction provided for in section 31 of the Act. Each had its role to play and the evidence adduced by Mr. Grenier does not show that counsel for the Respondent voluntarily misled the Court by making reference to facts that were not in evidence or that were different from what had been tendered in evidence.
+[22] If Mr. Grenier believed that it was relevant to offer his income from 1958 to 1980 in evidence to complete the evidence the Minister had adduced, he could have done so. If he did not do so, he must accept the consequences of incomplete evidence. It is conceivable that this evidence might have changed the result, but it is also possible that it would have changed nothing.
+[23] Mr. Grenier often invoked the principles of justice, particularly that it would be unjust to not allow the reopening of the case because the judgment must be rendered based on reality and not, in his opinion, on incomplete evidence.
+[24] The Court is very aware of these principles of justice. When I preside over a hearing, I do not necessarily limit myself to the facts stated before me. If particulars are required, I will ask for clarification, whether it is a witness for the Appellant or a witness for the Respondent. I believe it is the judge's duty to seek the truth and that a party should not win or lose because of a blunder by a lawyer or because someone forgot to raise an argument.[5] When I see that an important fact has not been offered in evidence or an argument has not been raised, I do not hesitate to ask factual questions or to raise the argument myself. Clearly a judge cannot be blamed if the evidence adduced and the legal arguments raised by the parties are incomplete. Each participant has a role to play in the administration of justice.
+[25] When a case is prepared—and this is even clearer in cases where the taxpayer is represented by counsel who is knowledgeable about the subject—and then after the fact one notices that it would have been useful to adduce other evidence in order to succeed, one obviously would like to have a second chance. "With hindsight, everyone has 20/20 vision", as the expression goes. But it must also be recognized that the legal process must end at some point and it is not in the interest of justice for legal controversies to continue on and on. Society devotes significant resources to ensure that disputes can be adjudicated by the courts. Moreover, I was not happy when finding Mr. Grenier's appeal was to be dismissed on September 26, 2002. Planting trees is a very laudable activity. I mentioned this in my reasons for judgment. Moreover, I feel that he had the right to a deduction of costs. However, the role of the Court is not to render judgment based on its feelings or personal beliefs. The role of a judge is to apply the law, in this case section 31 of the Act, which provides that if a taxpayer's income for a taxation year does not come mainly from agriculture or a combination of agriculture and another source, the agricultural losses must be limited to $5,000 in a given year.[6] The excess is to be carried over to subsequent years and must be deducted from the income from the agricultural business in those years.
+[26] Based on the Charter, it is possible to argue that section 31 of the Act might not apply because it is discriminatory and violates section 15 of the Charter. However, advance notice must be given to the Attorney General of Canada and the Attorney General of the provinces, as required under section 19.2 of the Tax Court of Canada Act. When Mr. Grenier appeared before me in 2002, no such notice had been given to the Attorney General of Canada or the Attorneys General of the provinces. His counsel did not even invoke the Charter to ask that section 31 of the Act be declared inapplicable and of no force or effect. The Court did not rule on this issue, and could not have done so even if it had been raised before it.
+[27] Regarding the argument based on the fact the Court allegedly neglected to make a ruling on an issue raised before it, in particular the one based on subsection 31(2) of the Act, this argument also seems unfounded to me. Subsection 31(2) allows the Minister to determine whether agriculture makes up a main source of income. The evidence does not show whether the Minister specifically exercised this power. The argument that he did not exercise it was not raised by Mr. Grenier's counsel. As the issue was not raised before the Court, there was no need for it to make a ruling on the application of subsection 31(2) of the Act. At any rate, it can be said that the Court made an implicit ruling since, by determining whether the assessment was valid with regard to subsection 31(1), which implicitly presumes that in a case such as Mr. Grenier's, agriculture is not a main source of income, the Court ruled on the issue whether it was warranted to restrict Mr. Grenier's losses. Moreover, as the Supreme Court of Canada recognized in Vincent v. Minister of National Revenue, [1966] C.T.C. 147, when it had to rule on an argument similar to the one Mr. Grenier raised, namely that simply because the Minister made a determination under subsection 13(2) of the Act, which is equivalent to the current 31(2), this did not prevent the Exchequer Court from having the necessary jurisdiction to determine whether the main source of the taxpayer Vincent was agriculture.
+[28] Mr. Grenier tried to argue that this case had been decided many years prior to the adoption of the Charter. In my opinion, the Charter would have no effect on the Supreme Court of Canada decision. The courts have consistently applied the standards of judicial review. These standards include the principle of procedural fairness to apply, and in general, the courts have recognized that, for a discretionary power to be applied fairly by the minister, the decision must have been made according to the rules of natural justice, in particular audi alteram partem (according to which each party must be given the opportunity to present its evidence). Ministers are not required to consider non-relevant facts when exercising their discretionary power, and they must have had all the relevant facts before them; only then is it possible for them to exercise their discretionary power. Even without the Charter, a count can review the exercise of a discretionary power. Even if the minister had not exercised his discretionary power, which is generally viewed as an abuse of power, the courts recognize that they have the right to exercise the minister's discretionary power and make a decision on the controversy; in this case, to determine whether Mr. Grenier's agricultural activity could be considered his main source of income.
+[29] In terms of paragraph 172(1)(b) of the Rules, I find that the Court ruled on all the issues that had been raised before it, namely whether it was appropriate to apply the restriction in section 31 of the Act and whether the imposition of a penalty for non-declaration of incomes was warranted.
+[30] For all these reasons, the motion to vary the judgment is denied.
+Signed at Stanstead, Quebec, this 27th day of June 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 20th day of February 2008
+François Brunet, Revisor
+CITATION: 2007TCC93
+COURT FILE No.: 2000-761(IT)G
+STYLE OF CAUSE: RAYNALD GRENIER v. THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: December 11 and 13, 2006
+REASONS FOR ORDERY BY: The Honourable Justice Pierre Archambault
+DATE OF ORDER: June 27, 2007
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Sophie‑Lyne Lefebvre
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This paragraph states:
+172(2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+may make a motion for the relief claimed
+…
+[2] This paragraph states:
+172.(1) A judgment that:
+…
+(b) requires amendment in any matter on which the Court did not adjudicate,
+may be amended by the Court on application or of its own motion.
+[3] It must be noted that in September 2002 at the appeal hearings, counsel for Mr. Grenier admitted the additional amount of professional income and therefore theonly issue was whether it was warranted to apply a penalty under subsection163 (2) of the Act.
+[4] Para. 11 of Schmidt.
+[5] This is what Rinfret J. of the Court of Queen's Bench (today the Court of Appeal of Québec) stated in Poulin v. Laliberté, [1953] Q.B. 8, at pages 9 and 10:
+The issue is this: What exactly is justice?
+Must a judge listen to the testimony, hear the arguments and limit himself to ruling solely on the basis of the evidence and the arguments that are presented to him by the counsel for the parties, all without uttering a word?
+If he notices that, through inability or ignorance, a counsel inadvertently fails to present a piece of evidence or make an argument, must the judge render a decision that he knows to be inequitable for the parties?
+Must the client suffer as a result of the ineptitude of his counsel?
+Some would say yes; they are of the school that the judge must keep strictly and steadfastly to what is presented to him and that it is the counsel, not the judge, who are in charge of the trial.
+The other theory maintains, on the contrary, that the only person in charge of the trial is the judge and it is up to the judge to direct it in the best interests of justice. To do this, the judge must consider all the facts, even those that others, for one reason or another, have failed to present; he must raise questions of law, even if they are not presented to him, provided that, in each case, he allows the parties or their counsel an opportunity to debate them.
+The law or, if we will, justice is not a matter of surprises or technicalities.
+It is the judge's duty to shed as much light as possible on the issue, rectify the situation and compensate for the lawyer's ineptness or ignorance, as required. This is how I understand justice.
+However, the judge must not cause the parties to lose their vested rights, and it is by exercising his discretion that he can ensure that they are protected.
+[Emphasis added.]
+[6] In fact, the amount was increased to $8,750 for the taxation years starting after 1988.

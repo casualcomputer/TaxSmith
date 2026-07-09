@@ -1,0 +1,69 @@
+Title: Rexe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29705/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-139-29705-rexe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-05
+
+# Rexe v. The Queen
+
+- Citation: 2010 TCC 139
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6210, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rexe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-05
+Neutral citation
+2010 TCC 139
+File numbers
+2003-4396(GST)G, 2004-2187(GST)G
+Judges and Taxing Officers
+Bruce Preston
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2003-4396(GST)G
+2004-2187(GST)G
+BETWEEN:
+JOHN PAUL REXE,
+ENGLEBURN SERVICES INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $22,517.00.
+Signed at Toronto, Ontario, this 5th day of March 2010.
+“Bruce Preston”
+Taxing Officer
+Citation: 2010 TCC 139
+Date: 20100305
+Dockets: 2003-4396(GST)G
+2004-2187(GST)G
+BETWEEN:
+JOHN PAUL REXE,
+ENGLEBURN SERVICES INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Bruce Preston, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Thursday, March 4, 2010. It follows Judgments of the Honourable Justice Paris of this Court issued on June 18, 2008, dismissing the appeals, with one set of costs to the Respondent.
+[2] The Appellant was represented by Mr. Paul E. Hawa, and the Respondent was represented by Mr. Ronald MacPhee.
+[3] At the outset of the hearing counsel informed me that the matter was going on consent.
+[4] Counsel for the Respondent informed me that the revised amount for disbursements was $12,367.69.
+[5] Counsel for the Respondent further informed me that as the Taxation was going on consent, the amount of $700.00 under Item No. B1(1)(c) for the Taxation of Costs, was being removed from the Bill.
+[6] I was further informed that the parties had agreed that the Bill of Costs of the Respondent be taxed and allowed at $22,517.00.
+[7] For the above reasons, the Bill of Costs is taxed, and I allow the sum of $22,517.00.
+Signed at Toronto, Ontario, this 5th day of March 2010.
+“Bruce Preston”
+Taxing Officer

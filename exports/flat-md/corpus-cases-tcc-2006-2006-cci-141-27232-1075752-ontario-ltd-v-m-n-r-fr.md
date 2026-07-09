@@ -1,0 +1,167 @@
+---
+title: "1075752 Ontario Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27232/index.do"
+last_modified: "2006-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 141"
+citation2: ""
+neutral_citation: "2006 CCI 141"
+decision_date: "2006-03-10"
+language: "fr"
+item_id: "27232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 838
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:48:50.809000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2bcf04edb4faaf2c5ef86e97f5478d7954319a219b7b2dcc0dd896006f518b6e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1075752 Ontario Ltd. v. M.N.R.
+
+- Citation: 2006 CCI 141
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 838, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1075752 Ontario Ltd. v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-10
+Référence neutre
+2006 CCI 141
+Numéro de dossier
+2005-1814(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005‑1814(EI)
+ENTRE :
+1075752 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Ottawa (Ontario), le 27 février 2006.
+Devant : l’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me D. Scott Murray
+Avocate de l’intimé :
+Me Geneviève Léveillé
+__________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi est accueilli sans que les dépens soient adjugés et la décision que le ministre du Revenu national a rendue le 25 février 2005, pour la période allant du 5 mai 2003 au 22 juin 2004, est modifiée pour le motif que le travailleur, James Buchanan, n’exerçait pas un emploi aux termes d’un contrat de louage de services et qu’il n’exerçait donc pas auprès de l’appelante un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 15e jour de juin 2007.
+Maurice Audet, réviseur
+Dossier : 2005‑1815(CPP)
+ENTRE :
+1075752 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Ottawa (Ontario), le 27 février 2006.
+Devant : l’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelante :
+Me D. Scott Murray
+Avocate de l’intimé :
+Me Geneviève Léveillé
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément au paragraphe 28(1) du Régime de pensions du Canada est accueilli sans que les dépens soient adjugés et la décision que le ministre du Revenu national a rendue le 25 février 2005, pour la période allant du 5 mai 2003 au 22 juin 2004, est modifiée pour le motif que James Buchanan n’exerçait pas auprès de l’appelante un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 15e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI141
+Date : 20060310
+Dossiers : 2005‑1814(EI)
+2005‑1815(CPP)
+ENTRE :
+1075752 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante interjette appel d’une décision du ministre du Revenu national (le « ministre ») portant que le travailleur, James Buchanan, exerçait un emploi aux termes d’un contrat de louage de services pendant qu’il travaillait pour l’appelante pendant la période allant du 5 mai 2003 au 22 juin 2004.
+[2] L’unique actionnaire de l’appelante est Regan Ellis. Pendant la période en question, l’appelante possédait quatre tracteurs utilisés afin de transporter des marchandises pour divers transporteurs qui étaient propriétaires des remorques et fournissaient les clients. Pendant la période en question, l’appelante a conclu des contrats avec deux travailleurs (dont M. Buchanan) afin qu’ils conduisent les camions pour les différents transporteurs. En ce qui concerne M. Buchanan, il avait l’utilisation exclusive d’un camion qu’il conduisait pour un transporteur précis, « Cassidy’s Transfer & Storage » (« Cassidy’s »).
+[3] Cassidy’s fournissait les plaques et les permis et payait la taxe sur le carburant ainsi que les frais d’entretien des remorques. Cassidy’s et l’appelante partageaient le coût des assurances relatives aux remorques et l’appelante payait seule les assurances relatives aux tracteurs. L’appelante payait également les frais d’entretien des tracteurs et le carburant.
+[4] Selon le témoignage de M. Buchanan, Cassidy’s possédait environ 25 camions et embauchait ses propres chauffeurs pour les conduire. Elle s’adressait également à des sous‑traitants (dont l’appelante) pour expédier l’excédent de marchandises lorsque ses propres camions ne suffisaient pas à la demande.
+[5] Lorsqu’elle fournissait ses tracteurs, l’appelante fournissait également les chauffeurs. M. Buchanan a été embauché comme chauffeur par M. Ellis sur la recommandation d’un ami, M. Burns, qui exploitait le même genre d’entreprise avant de faire faillite. Il n’est pas contesté que M. Buchanan avait été employé par M. Burns comme chauffeur travaillant à son propre compte. Il était rémunéré au taux de 29 ¢ le mille par M. Burns et il était inscrit aux fins de la taxe sur les produits et services (la « TPS ») (pièce R‑4). Lorsque l’entreprise de M. Burns a fait faillite, M. Buchanan a commencé à travailler pour l’ancien répartiteur de M. Burns au taux de 32 ¢ le mille, encore une fois à titre d’entrepreneur à son propre compte. Le 30 juin 2002, M. Buchanan a cessé d’être inscrit aux fins de la TPS (pièce R‑5). Lorsque M. Ellis a communiqué avec lui, il lui a offert 35 ¢ le mille et M. Burns a accepté. Il a déclaré que M. Buchanan s’était présenté à titre d’entrepreneur indépendant et qu’il avait donc l’impression que M. Buchanan était inscrit aux fins de la TPS. La femme de M. Ellis, Mme Bev Proctor, qui s’occupe des travaux d’écritures de l’appelante, a témoigné que M. Buchanan et sa femme avaient clairement fait savoir dès le début qu’ils ne voulaient pas que l’impôt et les cotisations au titre de l’assurance‑emploi (l’« AE ») ou du Régime de pensions du Canada (le « RPC ») soient retenus à la source. Apparemment, ils n’ont pas parlé de la question de la TPS. D’autre part, les Buchanan ont témoigné que M. Ellis et Mme Proctor leur avaient demandé de s’occuper eux‑mêmes de la taxe.
+[6] Toutefois, M. Buchanan n’a pas nié que, même s’il se présentait comme un chauffeur de camion ne possédant pas d’entreprise, il s’est toujours considéré comme un entrepreneur travaillant à son propre compte. Dans ses déclarations de revenus, il se disait travailleur autonome et, dans le calcul de son revenu, il déduisait une partie des frais d’électricité, de téléphone et d’Internet de son domicile ainsi qu’un montant pour un bureau à domicile et ses frais de repas et d’hébergement lorsqu’il faisait de la route. Toutefois, il n’avait pas de compte bancaire distinct pour son activité de transport par camion et il ne s’est jamais présenté comme étant propriétaire d’une entreprise de transport par camion.
+[7] Au mois d’octobre 2003, M. Buchanan a informé M. Ellis que, comme il n’était pas propriétaire du camion ou ne le louait pas, il devait payer les cotisations d’accident du travail et que Cassidy’s exigeait que ces cotisations soient payées pour qu’il conduise le camion. MM. Ellis et Buchanan se sont entendus pour partager le coût des cotisations, et le taux de rémunération de M. Buchanan a ainsi été ramené de 35 à 34 ¢ le mille.
+[8] Mme Proctor a témoigné avoir dit dès le début aux Buchanan qu’ils devaient exiger la TPS. Mme Buchanan, qui s’occupait de la tenue de livres pour son mari, a témoigné qu’à son avis, M. Buchanan n’avait pas à exiger la TPS et que, de toute façon, il n’était pas inscrit aux fins de la TPS. M. Ellis a affirmé que M. Buchanan l’avait induit en erreur en lui donnant l’impression qu’il travaillait à son propre compte. M. Ellis a donc supposé que M. Buchanan était inscrit aux fins de la TPS, ce que son ami M. Burns a, de fait, confirmé. Le 6 avril 2004, Mme Proctor a commencé à payer la TPS à M. Buchanan (pièce A‑1); en effet, elle croyait être légalement tenue de le faire étant donné que M. Buchanan avait atteint le montant déterminant de revenu de 30 000 $. Les Buchanan ont perçu à contrecœur de l’appelante un montant total de 937 $ au titre de la TPS et ils l’ont déposé dans un compte bancaire, tout en demandant conseil au sujet des questions liées à la TPS. Mme Buchanan a affirmé s’être fait dire par les représentants du gouvernement fédéral que M. Buchanan ne pouvait pas s’inscrire aux fins de la TPS étant donné qu’il n’était pas propriétaire du camion et ne le louait pas. M. Ellis a cessé d’avoir recours à M. Buchanan le 22 juin 2004, à la suite de la mésentente qui existait entre eux au sujet de la TPS. M. Buchanan a ensuite commencé à travailler directement pour Cassidy’s à titre d’employé, conduisant ses camions.
+[9] Pendant qu’il travaillait pour l’appelante, M. Buchanan se servait d’un camion particulier, qui portait le logo de Cassidy’s et qu’il garait chez lui. Il communiquait directement avec Cassidy’s pour l’attribution du travail. Il était libre d’accepter ou de refuser le point de destination, les marchandises et la distance à parcourir. Il était assujetti aux règles de Cassidy’s concernant les excès de vitesse et les contrôles de sécurité. Il ne rendait pas compte à l’appelante, sauf pour l’informer des problèmes mécaniques concernant le camion. Cassidy’s lui fournissait un carnet de route afin de satisfaire aux exigences du ministère des Transports concernant le nombre maximum d’heures effectuées et de milles parcourus chaque jour par les chauffeurs de camion. M. Buchanan établissait un relevé de la distance parcourue pour chaque voyage, qu’il remettait à Cassidy’s. Cassidy’s utilisait ensuite cette feuille pour calculer le montant à verser à l’appelante (1,06 $ le mille), qui de son côté rémunérait M. Buchanan (34 ¢ le mille). Cassidy’s versait également une allocation hebdomadaire de 15 $ pour l’utilisation de son propre téléphone cellulaire, par M. Buchanan, ainsi qu’un montant de 25 $ pour chaque ramassage et chaque livraison (ces paiements étant effectués par l’entremise de l’appelante). M. Buchanan était rémunéré au moyen d’un dépôt direct hebdomadaire. Il ne touchait pas de paie de vacances et il n’avait pas droit aux avantages sociaux. L’appelante lui fournissait une carte de débit servant à payer l’essence et les réparations associées au camion. M. Ellis n’intervenait pas dans l’attribution du travail par Cassidy’s à M. Buchanan et il n’était même pas consulté à cet égard. M. Ellis n’obligeait pas M. Buchanan à effectuer un nombre minimum de milles afin de faire en sorte que son camion soit rentable. Ce témoignage n’a pas été contredit et il a même été corroboré par M. Buchanan.
+[10] M. Buchanan conduisait toujours le camion lui‑même, mais M. Ellis a déclaré que M. Buchanan aurait pu embaucher quelqu’un d’autre pour le faire, à condition d’obtenir l’autorisation de M. Ellis et de Cassidy’s pour les assurances. M. Ellis a également témoigné que M. Buchanan aurait pu conduire d’autres camions pour d’autres entreprises, mais qu’il ne savait pas s’il l’avait fait.
+[11] M. Buchanan travaille maintenant comme employé de Cassidy’s. Il est rémunéré au même taux par mille et fait exactement le même travail que lorsqu’il travaillait pour l’appelante. Il jouit de la même latitude quant au choix de ses heures et de ses points de destination.
+Analyse
+[12] Je crois comprendre que M. Buchanan a délibérément décidé d’offrir ses services à titre d’entrepreneur travaillant à son propre compte plutôt qu’à titre d’employé lorsqu’il a initialement rencontré M. Ellis. Il est également clair que celui-ci préférait embaucher des entrepreneurs indépendants plutôt que des employés (de fait, M. Ellis sous‑traitait du travail à un autre chauffeur, qui était un entrepreneur indépendant). Cassidy’s exploitait une entreprise de transport de marchandises et sous‑traitait l’excédent de travail à M. Ellis. De son côté, M. Ellis sous‑traitait du travail à des chauffeurs de camion. Le chauffeur traitait ensuite directement avec Cassidy’s pour l’attribution du travail. M. Ellis n’exerçait aucun contrôle en ce qui concerne les feuilles de temps du chauffeur de camion, la distance parcourue ou les points de destination qu’il acceptait. La chose était laissée à l’entière discrétion du chauffeur. Le chauffeur de camion établissait un relevé des distances parcourues, qui était envoyé directement à Cassidy’s. M. Ellis n’approuvait pas le relevé au préalable. Le chauffeur de camion conduisait un camion appartenant à la fois à l’appelante (propriétaire du tracteur) et à Cassidy’s (propriétaire de la remorque) et portant le logo de Cassidy’s. Pour plus de commodité, lorsque le tracteur n’était pas utilisé, le chauffeur le gardait chez lui. C’était lui qui décidait de son horaire de travail et des distances à parcourir. M. Ellis n’exigeait pas un nombre minimum de milles parcourus. M. Buchanan acceptait le taux par mille offert par M. Ellis et il reconnaît qu’il aurait pu négocier ce taux s’il ne lui avait pas convenu. Il est vrai que l’appelante payait les frais associés aux réparations du tracteur ainsi que l’essence et qu’elle partageait les coûts d’assurance avec Cassidy’s; elle partageait également le coût des cotisations d’accident du travail avec M. Buchanan. Toutefois, ce seul fait ne change pas, à mon avis, la nature de la relation existant entre l’appelante et M. Buchanan.
+[13] À mon avis, M. Buchanan organisait ses propres affaires comme il l’entendait. Il semble y avoir eu entre M. Ellis et M. Buchanan une entente réelle selon laquelle ce dernier serait embauché aux termes d’un contrat d’entreprise (c’est‑à‑dire qu’il agirait à titre d’entrepreneur travaillant à son propre compte) et que telle était l’intention commune des parties. M. Buchanan n’a du moins pas donné l’impression de croire qu’il en était autrement. De fait, MM. Ellis et Buchanan agissaient tous deux d’une façon qui était conforme à l’existence d’une telle relation. On ne saurait omettre de tenir compte de ce fait (voir Wolf v. The Queen, 2002 DTC 6853, [2000] A.C.I. no 696 (QL)).
+[14] La décision Bicz Transport Corp. c. Canada, [2001] A.C.I. no 511 (QL), citée par l’avocate de l’intimé, ne change rien à ma conclusion. Dans ce cas‑ci, le chauffeur de camion n’était pas tenu de se conformer aux instructions de l’appelante. Il aurait pu travailler pour d’autres entreprises. Il n’était pas propriétaire du camion, mais il fournissait ses services de chauffeur de camion, et il le faisait à son bon plaisir. En outre, le fait que M. Buchanan avait conclu un arrangement différent lorsqu’il a commencé à travailler directement pour Cassidy’s ne change pas non plus ma conclusion. L’intention commune dans ce cas‑là était qu’il serait un employé, et cela était logique compte tenu du contrôle exercé par Cassidy’s sur ses chauffeurs de camion. Cependant, lorsque M. Buchanan travaillait pour l’appelante, l’arrangement était différent. L’intention commune des parties était que M. Buchanan soit embauché à titre d’entrepreneur travaillant à son propre compte. M. Ellis n’exerçait aucun contrôle sur le travail de M. Buchanan. Celui-ci décidait de son propre horaire de travail et, par conséquent, de son revenu. À mon avis, M. Buchanan offrait ses services à titre d’entrepreneur indépendant. Il travaillait à son propre compte.
+[15] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 15e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI141
+Nos DES DOSSIERS DE LA COUR : 2005‑1814(EI), 2005‑1815(CPP)
+INTITULÉ : 1075752 ONTARIO LTD.
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 27 février 2006
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 10 mars 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me D. Scott Murray
+Avocate de l’intimé :
+Me Geneviève Léveillé
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

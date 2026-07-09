@@ -1,0 +1,70 @@
+Title: Chen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28798/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-111-28798-chen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-12
+
+# Chen v. The Queen
+
+- Citation: 2006 TCC 111
+- Decision date: 2005-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1518, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-12
+Neutral citation
+2006 TCC 111
+File numbers
+2004-4802(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+TAX COURT
+IN RE: The Income tax Act
+2004-4802(IT)I
+BETWEEN:
+FRANCIS C.Y. CHEN
+Appellant
+- and -
+HER MAJESTY THE QUEEN,
+Respondent
+--------------
+Held before Mr. Justice Hershfield, in Courtroom 603, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Monday, December 12, 2005.
+--------------
+APPEARANCES:
+Mr. Francis Chen, On His Own Behalf;
+Mr. Kevin McGillivary For the Respondent.
+--------------
+THE REGISTRAR: C. DeSantos
+--------------
+Allwest Reporting Ltd.
+855 Homer Street
+Vancouver, B.C.
+V6B 2S5
+Per: S. Leeburn
+REASONS FOR JUDGMENT
+(Delivered Orally in Vancouver)
+JUSTICE: First of all, you've said many many times here today, including in your opening remarks that nobody responded to you from the Department, and that maybe you could have provided them with this evidence or other evidence. And I told you repeatedly that the Department's failure to respond to you the way in which you hoped that they would respond, the way in which anybody might hope to respond, does not prevent them from putting the burden of proof on you here today.
+And that burden of proof, you failed to meet it. And the reason that you failed to meet it is not because nobody responded to you, you failed because you didn't keep ledgers. You're an accountant. You should tell all of your clients to keep their ledgers of their expenses and you have the names of where everything goes, keep a ledger of -- that's what you didn't provide them. You didn't provide them because you didn't have ledgers.
+You give receipts. Those receipts aren't for expenditures that were incurred directly by you. You've got receipts that were paid by other people, your business partner, your business partner who can't use those expenses. Now, I know you say that's somebody's assumption, but we've got nobody here to tell us otherwise. You haven't established your burden of proof that in fact you incurred these expenses for the purposes of gaining or producing income. You have to have those records. You have to have those ledgers. If you don't have them, and you provide receipts by other people, all you do is draw a curtain of suspicion around your entire case. These are all cash transactions. Nobody can follow them.
+And I understand your credit card has been suspended. That's your evidence. I can even accept that, but I still have other evidence that you could have brought to me. And you're an accountant. You have to come and represent people. You have to understand you just can't come and say, "Oh, a couple of thousand dollars of promotion expenses should be accepted just because I say so. And I won't say who the gifts are for." Or, "Maybe I could have told you who the gifts were for if you had asked me before." You can't depend on being asked. This is a self-assessing system. You must keep those records. So whether you are asked by the auditor or asked by me, you must show me your ledgers that you kept in that year and name the clients that you gave the gifts to.
+And I don't accept that you put on your forms four names that are really two people. This is your other partner. She's right on these forms in respect of a travel business. You say these are all your expenses and your gifts. I think it looks suspicious.
+Your partner is not here to say she didn't give any of these gifts, these coins were never there for any of the travel business customers. I think it's suspicious. And whether or not I'm wrong in my suspicions is irrelevant, Mr. Chen. What's relevant is, this is a self-assessing system, you must keep your records, and you must lay everything out in your ledgers on a day-to-day basis that describe exactly what these expenses are. And you haven't done that.
+In relation to your rent, which is the major part of this, I accept the lease is in your name. I accept that you paid it out of your own bank account. And even if I accept that you were never reimbursed, which again in the circumstances of this -- there's some bartering, arbitrage aspect of this. You are too close to this fifty percent partner for me to trust actually that there was no other way in which you could have been subsidized by your partner. But even if I accept there was absolutely no subsidy from your partner, that has nothing to do with the legal requirements for you to only deduct the portion of your space that is reasonably attributable to the business that you are allocating it to. Okay?
+It doesn't matter if you are paid, it doesn't if you pay, it doesn't matter if the lease is on your name, you can only deduct the portion of it that's reasonably apportioned or reasonably attributable to the business that you are ascribing it to. You say 95 percent. I have no corroboration on that.
+Your testimony on this, to be quite frank, again is not entirely credible. And I'll tell you my picture and you just haven't -- you just haven't offset this in your evidence. I picture an accounting business that's a sole individual whose primary work, according to your own testimony is doing the tax returns, and all the nonresident work that's associated with individual tax returns. It might be U.S. filing was slightly different filing dates. But there's a block of time that you have substantially used your space, and it has to do with the filing periods for tax returns.
+And then you've got a travel business. Nothing for me to offset the assumption that the travel business is a year-round business grossing a million dollars a year. There's a lot of business going on here. It's not seasonal, necessarily. Or if it has seasons, it has seasons running throughout the year.
+So I'm looking at a large business where there's been no allocation. No allocation because rent not paid; that's not relevant. No allocation because lease not on your name; not relevant. No allocation because they didn't sign a sublease; that's not relevant. The only issue is what space is attributable to your business, and I'm not satisfied that its 95 percent, and I'm therefore going to go along with the assumption by the respondent that it's 50 percent.
+And if you are faced with this sort of an appeal again, or faced with clients, you'd better bring corroboration. Bring to the Department floor plans, pictures, corroborating testimony, if that what it takes so that you become bolstered with more credibility so that on, even a test of probability, your credibility is buoyed. And I'm just not satisfied, on the evidence that you presented, that even on a balance of probability that it's 95 percent in relation to the accounting business. There's a substantial travel business going on here according to the evidence.
+So the appeals are dismissed for those reasons. Thank you.

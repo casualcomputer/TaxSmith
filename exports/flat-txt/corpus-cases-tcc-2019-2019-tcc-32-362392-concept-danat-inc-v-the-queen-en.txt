@@ -1,0 +1,219 @@
+Title: Concept Danat Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/362392/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-32-362392-concept-danat-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-02-01
+
+# Concept Danat Inc. v. The Queen
+
+- Citation: 2019 TCC 32
+- Decision date: 2019-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4351, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Concept Danat Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-01
+Neutral citation
+2019 TCC 32
+File numbers
+2017-3790(IT)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3790(IT)I
+BETWEEN:
+CONCEPT DANAT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 20, 2018 and November 23, 2018, at Montreal, Quebec.
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Representative of the Appellant:
+Yves Hamelin
+Counsel for the Respondent:
+Ms. Anne-Marie Boutin
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2015 taxation year is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 1st dayof February 2019.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2019 TCC 32
+Date: 20190201
+Docket: 2017-3790(IT)I
+BETWEEN:
+CONCEPT DANAT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lafleur J.
+I. THE FACTS
+[1] Concept Danat Inc. (“Danat”) is appealing an assessment dated January 24, 2017, for the taxation year ending October 31, 2015, made by the Minister of National Revenue (the “Minister”) under the Income Tax Act (R.S.C. 1985, c. 1 (5th Supp.)) (the “Act”). The Minister disallowed the scientific research and experimental development (“SR&ED”) expenditures deduction of $32,056 claimed by Danat, as well as the investment tax credit (“ITC”) of $13,862 claimed in connection with those expenses. The Minister also charged a late-filing penalty of $113.16.
+[2] Danat, a company with approximately 24 employees, has been involved in manufacturing and distributing all-season clothing, sports clothing and office clothing since 1994. Specifically, Danat’s operations involve decorating clothing for advertising purposes using various methods, namely embroidery, silk-screen printing, digital printing, laser and transfer, as well as manufacturing clothing.
+[3] In its income tax return for the taxation year ending October 31, 2015, Danat states three projects for which the SR&ED expenditures deduction and the associated ITT were claimed: project 2015-01: Laser printing on clothing (“Project 1”); project 2015-02: Enhancing embroidery techniques, and combining embroidery and laser printing on the same sweater (“Project 2”); and project 2015-03: Sublimation technique on elasticized necklines and printing on 210 denier nylon (“Project 3”).
+[4] At the hearing, neither party invited an expert to testify.
+[5] Mr. Daniel Bourgault, President of Danat, testified. He manages the entire company and performs all the tasks to advance the company. According to Mr. Bourgault, the activities carried out as part of the three projects constitute SR&ED activities within the meaning of subsection 248(1) of the Act. He testified that, for the three projects, the expenses amounted to $48,671, including $1,850 for equipment, with the balance representing labour expenses. The way the costing was done was an estimate made by Mr. Bourgault based on the hours worked by the employees. Thus, Mr. Bourgault estimated that 10.2% of the employees’ time pertained to SR&ED activities, and he concluded that 10.2% of the salaries paid to the employees were for SR&ED activities.
+[6] Mr. Assen Sylla, a Research and Technology Advisor at the Canada Revenue Agency (the “CRA”), who had assessed the eligibility of the work carried out as part of the three projects, also testified. Mr. Sylla did his education in physical engineering with a materials engineering component and did postgraduate education in physical, chemical and biomedical instrumentation. He is also trained in the new so-called “smart” technologies in the field of fabrics.
+[7] Mr. Sylla concluded that the work carried out as part of the three projects were not SR&ED activities within the meaning of subsection 248(1) of the Act. According to Mr. Sylla, the three projects showed no technological uncertainty; Danat’s work was purely technical in nature, and no technological advance resulted from it. In addition, the approach used in the three projects did not accord with systematic investigation or research, which would include developing hypotheses and testing through experimentation and analysis. In addition, Mr. Sylla is of the opinion that the number of hours allegedly devoted to the work was questionable because there seems to have been several levels of supervision and a lack of distinction between the projects; the description of the tasks was often repeated.
+[8] In these reasons, all references to statutory provisions are references to the provisions of the Act, unless otherwise indicated.
+II. THE ISSUES IN DISPUTE
+[9] The issue is whether the work done in the context of the three projects constitutes SR&ED activities within the meaning of subsection 248(1). If yes, the issue is whether the $32,056 in expenditures claimed as deductions are SR&ED-deductible expenditures under subsection 37(1) that qualify for the ITT under subsection 127(5).
+III. THE PROJECTS
+1. Project 1: Laser printing on clothing
+[10] In Project 1, the objective was to laser-engrave, by burning the fibre very lightly to decorate clothing made of cotton, polyester or polar fleece. That printing technique started appearing on the market in 2014-2015. Mr. Bourgault testified that, as of the first day of the hearing in June 2018, this project was still underway. Danat did successfully engrave polar fleece fabric; however, for the other fabric types, the results show that the process is not yet perfected.
+[11] After doing a great deal of research on the Internet and contacting a number of suppliers to find a machine for engraving fabric using the laser technique, Mr. Bourgault purchased a machine, namely the LaserPro MG380 Hybrid (the “LaserPro machine”), designed for cutting or engraving hard materials such as glass, plastic, metal or wood, but also able to laser-cut a fabric called “poly-twill” as well as vinyl, for the purpose of laser-printing on fabrics. The laser machine suppliers had told Mr. Bourgault that laser machines were too powerful to engrave fabrics.
+[12] Mr. Bourgault testified that the LaserPro machine works like a printer: a design prepared on a computer is sent to the LaserPro machine, which then activates a laser jet to cut or engrave the desired material. The controllable settings of the LaserPro machine are the motion speed and the power of the laser. The adjustments were only in units of one percent, from 1% to 100%. Mr. Bourgault therefore had to determine the power settings for decorating and not cutting fabrics and adjust the laser, since there was no existing data pertaining to fabrics.
+[13] Realizing that the software provided with the LaserPro machine did not work for decorating fabrics, Mr. Bourgault did research to find a commercial software program enabling him to control the machine’s settings, but was unsuccessful. He then turned to the Adobe Illustrator software, a drawing program already used by two Danat employees and compatible with the LaserPro machine, and recommended by the designer of that machine. Drawing programs make it possible to pre-set the pattern and the hue in a manner compatible with the LaserPro machine’s printer driver.
+[14] Mr. Bourgault did not modify the LaserPro machine, other than installing an additional tray or bracket. He did not modify the laser itself. Instead, he worked on the process, using the machine’s existing settings, namely air (which impacts the laser’s power) and the laser’s speed. The initial tests were done using random settings; then the settings were corrected: the speed and power of the laser. There were 10,000 possibilities. Mr. Bourgault testified that he always had to start over with the different fabrics because each fabric has its own thickness, density, fibre and stability.
+2. Project 2: Enhancing embroidery techniques, and combining embroidery and laser printing on the same sweater
+[15] In Project 2, Danat wanted to develop new embroidery techniques with combinations of new fabrics; the objective was to produce logos embroidered on woollens, with fine contour lines, using laser printing and embroidery, and to produce very thick letters that did not touch or become filled in. In addition, another phase of this project involved determining how to embroider a fabric at a specific place of a design done by laser.
+[16] According to Mr. Bourgault, the technological challenge was considerable because it is difficult to combine the two decorating methods; a different machine is used in each case, and those machines are not designed to work together. This was done in two stages; the design was traced with the laser using the LaserPro machine, and then the embroidery was done, which had to be at a specific place of the design in order to form a logo.
+[17] Project 2 combined laser and embroidery. The purpose of that project was to develop compensation and alignment settings between the laser printing technology and the embroidery technology. In order to find the optimal compensation and alignment settings, the embroidery machine had to be adjusted. Different sets of tests were done on different logos but, according to Mr. Bourgault, Danat never managed to produce satisfactory embroidery.
+3. Project 3: Sublimation technique on elasticized necklines and printing on 210 denier nylon
+[18] Project 3 involved sublimation printing on rib-knit fabrics (commonly called “ribbing”), 210 denier nylon, and soccer socks. Sublimation is a printing process that turns the dye from a solid to a gas without going through the liquid phase in between, which makes the colours very beautiful. In addition, this technique enables an imprint to be embedded in the textile mesh or under the polyester varnish, without altering the initial feel of the product to be marked, thereby making it exceptionally resistant to industrial washing. Sublimation is a printing process designed for polyester, not nylon.
+[19] Mr. Bourgault testified that the objective was to develop work methods making it possible to do sublimation printing on a wide range of specialized products that the competitors were not yet manufacturing; they were different materials, fabrics with special characteristics and unconventional forms.
+[20] According to Mr. Bourgault’s testimony, this process did not work on elasticized fabrics; the colour did not get to the bottom of the ribbing without that fabric being stretched. However, if the ribbing was stretched, the fabric would not return to its original shape afterwards. Danat used different printing temperatures and varied the amount of ink, but did not achieve a satisfactory result. As for nylon, the printing worked well, but the colours did not match the desired colours.
+IV. THE POSITIONS OF THE PARTIES
+[21] According to Danat, the work carried out in the context of the three projects are SR&ED activities in that the work was undertaken for the purpose of achieving a technological advance, a scientific approach was taken by Danat, and the technical work was carried out to eliminate the technological uncertainty and to achieve a technological advance. In addition, the work was carried out by people with experience in the field and had specific objectives to achieve.
+[22] Also, the time spent by the employees on the various projects was well detailed in the documents submitted to the CRA, and all the employee time sheets were also available for auditing by Mr. Sylla, although he did not go to the company’s premises to audit them.
+[23] According to the Respondent, no technological uncertainty was demonstrated for the three projects. The work carried out by Danat was purely technical in nature. The evidence showed that Danat had difficulty using existing machines; Danat encountered difficulties in using the existing technology. Neither the technology of the machines used nor the algorithm of those machines were modified. Danat used the LaserPro machine’s settings for a purpose for which the machine had not yet been operated. Existing technology and software were used. Also, according to the Respondent, Danat’s overall approach in the context of the three projects did not accord with systematic investigation or research involving the formulating and testing of hypotheses through experimentation or analysis, and no technological advance resulted from them.
+[24] Danat was required to retain evidence for demonstrating the thought process pertaining to the work carried out, which was not done (Highweb & Page Group Inc. v. The Queen, 2015 TCC 137 at paras. 20 and 22).
+[25] Lastly, according to the Respondent, with respect to salaries, the documents provided by Danat were insufficient for determining the hours spent on the various projects. Also, according to Mr. Bourgault’s testimony, the hours spent on the projects were estimated, which, for the purposes of the Act, is not enough to justify the SR&ED claims.
+V. LEGISLATION AND CASE LAW
+[26] SR&ED activities are defined in subsection 248(1) as follows:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[Emphasis added.]
+[27] The act sets out a two-pronged test. First, it is necessary to determine whether the activities meet the definition of SR&ED activities under subsection 248(1). If the projects do not meet the criteria that they have to in order to be considered SR&ED activities, the examination will end at that stage. However, if it is determined that the activities do meet the definition of SR&ED activities, then it will be necessary to assess the eligibility of an SR&ED expenditure with respect to the specific facts of each project (subsection 37(1)) (Zeuter Development Corporation v. The Queen, 2006 TCC 597 at para. 20, 2007 DTC 41 [Zeuter Development]).
+[28] Danat has the burden of demonstrating that the expenses incurred are SR&ED activities, on a balance of probabilities.
+[29] In Northwest Hydraulic Consultants Ltd. v. Canada, [1998] T.C.J. no. 340 (QL) [Northwest Hydraulic], Justice Bowman (as he then was) pointed out that the legislation granting tax incentives for SR&ED must be given “such fair, large and liberal construction and interpretation as best ensures the attainment of its objects”, which is to encourage scientific research in Canada (para. 11).
+[30] Justice Bowman, relying on Information Circular 86-4R3 (the “Circular”) (Northwest Hydraulic, para. 16), also set out five criteria for determining whether work constitutes SR&ED. Those criteria, all of which must be met in order to find that activities are SR&ED, were upheld by the Federal Court of Appeal in RIS‑Christie Ltd. v. Canada, [1998] F.C.J. No. 1890 (QL), and applied later in C.W. Agencies Inc. v. The Queen, 2001 FCA 393, 2002 DTC 6740 (para. 17).
+1. Was there any technical risk or uncertainty that could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing the SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with established and objective principles of scientific method, including the formulation, testing and modification of hypotheses?
+4. Did the process result in a technological advance?
+5. Was a detailed record of the hypotheses, tests and results kept as the work progressed?
+[31] The Circular has been replaced twice and is now enshrined in the Eligibility of Work for SR&ED Investment Tax Credits Policy dated April 24, 2015 (the “Policy”). Justice Bowman, in Northwest Hydraulic, supra, agreed that the Circular was a “useful and reliable” guide because it resulted from extensive consultations between the government and the scientific community (para. 15). Recently, Justice D’Auray confirmed that the same can be said of the 2012 document that replaced the Circular (6379249 Canada Inc. v. The Queen, 2015 TCC 77 at paras. 57 and 58. I therefore find that the Policy, which replaces those documents, is also a useful and reliable guide.
+[32] In Northwest Hydraulic, supra, Justice Bowman said the following about technological uncertainty (para. 16):
+[16] […]
+(a) Implicit in the term “technical risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+[…]
+It is important to recognize that, although a technological uncertainty must be identified at the outset, an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+[…]
+[Emphasis added.]
+[33] According to the Policy (section 2.1.1):
+[…]
+Scientific or technological uncertainty means whether a given result or objective can be achieved or how to achieve it, is not known or determined on the basis of generally available scientific or technological knowledge or experience. More specifically, it is impossible to predict whether the objectives can be achieved, Specifically, it is uncertain if the goals can be achieved at all or what alternatives (for example, paths, routes, approaches, equipment configurations, system architectures, or circuit techniques) will enable the goals to be met based on the existing scientific or technological knowledge base. […]
+Technological uncertainties may arise from shortcomings or limitations of the current state of technology that prevent a new or improved capability from being developed. In other words, the current state of technology may be insufficient to resolve a problem.
+[…]
+It is important to recognize that this question relates to more than simply identifying that how to achieve the objectives is unknown. One must be able to identify specifically what is lacking in the scientific or technological knowledge base that is creating this uncertainty. […]
+[Emphasis added.]
+[34] Justice D’Auray in Formadrain Inc. v. The Queen, 2017 TCC 42 at para. 93, 2017 DTC 1022, specified that “In other words, the lacking knowledge must really not exist in the base of scientific or technological knowledge, not simply be unknown to the claimant.” »
+[35] Only doubt as to how to resolve a problem arising from technological uncertainty can meet the first criterion, in order for there to be SR&ED activities and not simply be a technical problem. Thus, a technical problem means one where the exact source of the problem has been determined and it can all be resolved using an existing solution, through the application of practices, techniques or methods that are known or readily available. The problem is technical when the existing scientific or technological knowledge base is sufficient for resolving the problem (the Policy, section 2.1.1).
+[36] In Zeuter Development, supra at para. 22, Justice Little specified that resolving uncertainties associated with a project is not necessarily resolving technological uncertainties:
+[… ] If competent professionals in the field can resolve these issues with predictability, there is no technological uncertainty. This is exactly the situation in issue. The Appellant's work should not be belittled with the value of hindsight, but it
+seems clear that using standard and established techniques, the Appellant would be able to overcome these technological difficulties. […]
+[Emphasis added.]
+[37] Regarding the criterion of technological advance or advancement, Justice Bowman wrote the following (Northwest Hydraulic, supra at para. 16):
+[16] […]
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+[…]
+[38] This Court previously found that creating a new product does not necessarily constitute a technological advance (Zeuter Development, supra at para. 24).
+[39] Furthermore, using the “trial and error” method alone for a project does constitute the scientific method (Flavor Net Inc. v. The Queen, 2017 TCC 179 at paras. 53 and 54). As Justice Bowman indicated in Northwest Hydraulic, supra, “the procedures adopted” must “accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses” (para. 16).
+VI. ANALYSIS
+1. Project 1: Laser printing on clothing
+[40] Danat believes that, in Project 1, the technological uncertainty was that the laser was too powerful to be able to decorate fabrics and, therefore, Danat had to determine the previously unknown settings that would make it possible to do so. Danat also had to determine the connection between the fabric’s thickness and the machine’s settings and develop a “tensiometer” to keep the fabric in place. Thus, Danat succeeded in getting the LaserPro machine to be adjustable in fractions for the laser’s speed and power (by varying the tonal values of the image in Adobe Illustrator). Since the LaserPro machine was designed to cut, whereas Danat wanted to print on fabrics (or decorate them), Danat therefore went beyond the LaserPro machine’s ability. According to Mr. Bourgault, the technological advance involved developing a new technique for laser printing on fabrics using the LaserPro machine.
+[41] Mr. Sylla, though, is of the opinion that Danat’s problem was, for a given fabric, matching the laser’s intensity and speed on one hand with the hue of the printing colour on the other, using commercial software. According to him, there was no technological uncertainty because there was no technological incompatibility between the various engraving/cutting settings and the setting of the LaserPro machine’s printer driver. The adjustments to the laser settings stayed within the limits offered by the laser; the printer driver was not modified. The correlation was made using the Adobe Illustrator software, a commercial program recommended by the LaserPro machine manufacturer. Also, Project 1 did result in any technological advance; in fact, the technology was unaffected in this project. In addition, according to Mr. Sylla, Danat did not proceed using systematic investigation or research, but rather by trial and error; in fact, for each fabric, Danat had to repeat the testing.
+[42] Danat did not satisfy me, on a balance of probabilities, that the uncertainties that the company faced could not be removed by routine engineering or standard procedures nor that there was any technological uncertainty for this project. I am of the opinion that the lacking knowledge was not non-existent in the technological knowledge base.
+[43] In addition, there was no technological incompatibility between the various engraving/cutting settings and the setting of the LaserPro machine's printer driver; the adjustments to the laser’s settings stayed within the limits offered by the LaserPro machine, and the printer driver was not modified. Danat made no mechanical changes to the LaserPro machine nor the laser. This project’s objective was achieved using the commercial Adobe Illustrator software and by testing various adjustments to the operating settings of the LaserPro machine’s laser: the tools available to Danat, namely the laser, the printer driver and the graphics software, enabled it to freely make the correlation.
+[44] Based on the evidence, the usual procedures for using the LaserPro machine made it possible for Danat to eliminate the barriers it encountered when using a laser to print on fabrics. As such, Danat used existing technology to do the work. I am of the opinion that the problems encountered by Danat were technical in nature because the existing technological knowledge base was sufficient for resolving the problems encountered and achieving Danat’s objectives.
+[45] Danat showed ingenuity, for example by using the embroidery hoop to keep the fabric in place, but Danat did not try to resolve a technological uncertainty. Also, the evidence did not demonstrate any technological advance because common techniques were used.
+2. Project 2: Enhancing embroidery techniques, and combining embroidery and laser printing on the same sweater
+[46] In Project 2, Danat tried to run two machines that, according to Mr. Bourgault, were not designed to work in succession, namely the LaserPro machine followed by the embroidery machine (the embroiderer). According to Mr. Bourgault, the technological uncertainty was how to combine a laser-engraved design with embroidery. In addition, Danat wanted to develop new logos with multiple layers of embroidery threads and logos on woollens with fine contour lines. Also, according to Mr. Bourgault, the technological advance involved developing new embroidery techniques and combining two techniques on the same garment by developing compensation and alignment settings between the LaserPro machine’s laser and the embroiderer.
+[47] According to Mr. Sylla, even though this was manual work requiring some degree of dexterity, this project was not intended to modify or improve any technology. The LaserPro machine and the embroiderer were used normally. The machines were programmed without touching their algorithms: Danat used the machines in keeping with the expertise of the workers who operated them and did not go beyond what was available. Since no scientific or technological problem was addressed, there could be no uncertainty or technological advance in this project. Mr. Sylla did acknowledge, however, that this project involved many technical constraints: Danat had to determine the machines’ optimal compensation and alignment settings; that constraint was overcome by successively using a laser machine to draw on the fabric and an embroiderer to produce a logo by following the previously laser-printed image or by making adjustments to the embroiderer and establishing reference points so that the embroiderer could be properly positioned in relation to the design. There was no technological incompatibility between the LaserPro machine and the embroiderer. In addition, there was no systematic investigation into a field of science or technology.
+[48] I am of the opinion that there was no technological uncertainty in this project, but instead technical problems or constraints. Resolving the problems identified by Danat and achieving the objectives were reasonably predictable using standard procedures or routine engineering. The problems encountered by Danat were technical in nature since the existing technological knowledge base was sufficient for resolving the problems and achieving the objectives. The evidence showed that the LaserPro machine and the embroiderer were used in a normal way and that Danat used common techniques to deal with the problems encountered. Danat had to determine the machines’ compensation and alignment settings and managed to do so without changing the existing technology of those machines.
+[49] I am also of the opinion that the evidence showed that there was no technological incompatibility between the two machines. Moreover, this project was simply intended to improve the technique in the embroidery field, not advance the technology in that field.
+3. Project 3: Sublimation technique on elasticized necklines and printing on 210 denier nylon
+[50] In this project, Danat attempted, through a multitude of tests, to determine the temperature that would make it possible to print on fabrics using the sublimation technique without destroying the fibre, and get the colour to penetrate all the way through the fabric. According to Mr. Bourgault, the technological advance was to evolve the sublimation printing technique in order to make clothing more resistant to abrasion, scoring and washing.
+[51] According to Mr. Sylla, Danat tried different combinations of pressure, pressing time, temperature and ink quantity. Danat did not encounter any technological limitations because it operated within the current setting ranges provided by its equipment. Danat used different combinations of the available settings. Since Danat did not go beyond the normal operating ranges of its equipment, it did not face technological uncertainty. In this project, Danat was not intending to eliminate a technological uncertainty or make a technological advance. According to Mr. Sylla, Danat used the trial-and-error method and did not follow a systematic approach.
+[52] In this case, Danat has not satisfied me that there was any technological uncertainty in this project. It used different combinations of the settings available and provided by its equipment: different amounts of ink, different pressures, different temperatures and different pressing times. The evidence did not demonstrate that Danat sought to go beyond the operating settings of its equipment. Similarly, I am not of the opinion that there was any advancement in the technology; in fact, this Court previously ruled that the newness of a product is not sufficient for demonstrating a technological advancement (Zeuter Development, supra at paras. 23 and 24). Satisfactory use of the sublimation technique on ribbing, nylon or soccer socks does not lead to a technological advance, but results instead in a new product.
+4. For the three projects
+[53] With respect to the three projects, Danat did not satisfy me that the time estimate provided by Danat was accurate. According to Mr. Bourgault’s testimony, he estimated that 10.2% of the employees' time was spent on the SR&ED activities in question, and it was on that basis that the claim for the salaries was made. However, Danat did not provide the exact details of the hours spent on those projects. I am of the opinion that an accurate record of hours worked must be provided for supporting an SR&ED claim (Hypercube Inc. v. The Queen, 2015 TCC 65 at para. 48, 2015 DTC 1089). Similarly, the description of the tasks performed by the various employees was not clear or sufficiently detailed to support the claim.
+VII. CONCLUSION
+[54] For all these reasons, I am of the opinion that Danat failed to demonstrate on a balance of probabilities that the work carried out in the context of the three projects constituted SR&ED activities within the meaning of subsection 248(1). The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 1st day of February 2019.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2019 TCC 32
+COURT FILE NO.:
+2017-3790(IT)I
+STYLE OF CAUSE:
+CONCEPT DANAT INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+June 20 and November 23, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+February 1, 2019
+APPEARANCES:
+Appellant’s representative:
+Yves Hamelin
+Counsel for the Respondent:
+Ms. Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,155 @@
+Title: Wright c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26194/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-485-26194-wright-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-08-09
+
+# Wright c. La Reine
+
+- Citation: 2005 CCI 485
+- Decision date: 2005-08-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3925, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wright c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-09
+Référence neutre
+2005 CCI 485
+Numéro de dossier
+2003-1995(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-1995(IT)G
+ENTRE :
+WILLIAM H. WRIGHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Par : L'honorable juge en chef D. G. H. Bowman
+Observations écrites :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Stacey Repas
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l'appelant pour contraindre l'intimée à produire certains documents;
+La requête est rejetée.
+Les dépens de la requête peuvent faire l'objet d'une décision du juge qui présidera l'audience.
+Signé à Toronto (Ontario), ce 9e jour d'août 2005.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour de mars 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-1993(IT)G
+ENTRE
+DONNA L. WRIGHT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Par : L'honorable juge en chef D. G. H. Bowman
+Observations écrites :
+Représentant de l'appelante :
+William Wright
+Avocate de l'intimée :
+Me Stacey Repas
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l'appelante pour contraindre l'intimée à produire certains documents;
+La requête est rejetée.
+Les dépens de la requête peuvent faire l'objet d'une décision du juge qui présidera l'audience.
+Signé à Toronto (Ontario), ce 9e jour d'août 2005.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour de mars 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI485
+Date : 20050809
+Dossiers : 2003-1995(IT)G
+2003-1993(IT)G
+ENTRE :
+WILLIAM WRIGHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+- et -
+ENTRE :
+DONNA L. WRIGHT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge en chef Bowman
+[1] Le 21 juin 2005, j'ai entendu une requête présentée par les appelants en vue d'obtenir une ordonnance qui leur permettrait de procéder à l'interrogatoire préalable d'un représentant de la Couronne. Une ordonnance était nécessaire parce que le montant en cause était de 23 009,22 $. Lorsque le montant en cause est inférieur à 25 000 $, les Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») prévoient qu'un interrogatoire préalable oral n'a lieu que si la Cour l'ordonne. Le prononcé d'une telle ordonnance est discrétionnaire et, compte tenu des faits en l'espèce, j'ai ordonné que des interrogatoires préalables oraux aient lieu et qu'ils soient terminés au plus tard le 31 août 2005. Les engagements pris durant ces interrogatoires devaient être respectés au plus tard le 30 septembre 2005.
+[2] Les appelants demandent maintenant une ordonnance en vue de la production de certains documents. Monsieur Wright a avisé l'avocat de l'intimée qu'il ne procédera pas à l'interrogatoire préalable d'un représentant de la Couronne tant que les documents en question ne seraient pas produits. L'avocat a refusé, ce qui a donné lieu à cette requête, qui a été présentée au moyen d'observations écrites.
+[3] Les appelants demandent maintenant que la Couronne produise trois types de documents.
+a) Des organigrammes de l'Agence du revenu du Canada (« ARC ») et du Bureau international des services fiscaux et du Bureau des services fiscaux de Vancouver.
+J'ignore ce à quoi les appelants espèrent parvenir avec ces informations, qui, à mon avis, n'ont absolument rien à voir avec les questions soumises à juste titre à la Cour.
+Les appels sont interjetés à l'encontre de cotisations. La question est de savoir si ces cotisations sont bien ou mal fondées. Il ne s'agit pas d'une action contre des fonctionnaires de l'ARC.
+b) De plus, les appelants demandent la production d'imprimés de certains comptes de l'ARC. Je ne peux savoir d'aucune manière ce que sont ces comptes. Je suppose qu'ils ont quelque chose à voir avec les comptes d'impôt des appelants. Ces documents peuvent être pertinents en ce qui concerne l'argument selon lequel des intérêts ont été imposés à tort. L'avocat de la Couronne a d'abord répondu que la Cour canadienne de l'impôt n'avait pas la compétence pour décider du bien-fondé des intérêts imposés, ce qui est une réponse dénuée de tout fondement. Les intérêts, tout comme l'impôt et les pénalités, sont des éléments de la cotisation que le ministre est en droit d'établir. L'exactitude du calcul des intérêts ou le bien-fondé de leur imposition est une question qui peut être soulevée dans un appel devant la Cour canadienne de l'impôt. Cependant, une telle contestation doit s'appuyer sur un fondement. Si M. Wright souhaite demander à un représentant de la Couronne dans le cadre de l'interrogatoire préalable comment les intérêts ont été calculés, il peut le faire, dans la mesure où la question est pertinente aux questions soulevées dans les actes de procédure.
+Indépendamment des arguments sans fondement concernant la compétence, l'argument de l'intimée semble être qu'elle ne peut pas être contrainte à produire un document pertinent qui ne paraît pas sur sa liste de documents parce que, dans ce cas, la production de documents est régie par l'article 81 des Règles et non par l'article 82. De plus, l'intimée fait valoir qu'aucune règle ne permet à la Cour d'ordonner la production de documents. Une telle règle n'est pas nécessaire. La Cour a le pouvoir inhérent de contrôler sa propre procédure, et le fait d'ordonner la production de documents pertinents est clairement un aspect de ce pouvoir. Je rejette la proposition surprenante selon laquelle les documents pertinents ne paraissant pas sur la liste de documents de la Couronne n'ont pas à être produits sur demande, mais doivent être obtenus suivant la procédure prévue par la Loi sur l'accès à l'information.
+Les Règles de la Cour canadienne de l'impôt sont uniques en ce sens que l'article 81 permet à une partie de fournir une liste composée exclusivement des documents auxquels cette partie a l'intention de se référer durant le procès. Tous les autres tribunaux canadiens, y compris la Cour fédérale du Canada, exigent une communication intégrale. Si une ordonnance de communication intégrale est rendue en vertu de l'article 82 des Règles, l'article 88 permet à la Cour d'ordonner la production de documents supplémentaires, d'ordonner un contre‑interrogatoire sur la déclaration sous serment ou d'ordonner la signification d'une autre déclaration sous serment de documents plus complète. Ces pouvoirs particuliers semblent pouvoir être exercés dans le contexte d'une ordonnance rendue en vertu de l'article 82 des Règles. Malgré l'absence d'une règle semblable dans les cas où l'article 81 des Règles s'applique, la Cour a, bien entendu, le pouvoir d'ordonner la production de documents pertinents qui ne sont pas mentionnés dans la liste visée par l'article 81.
+Même si je pense que la Couronne fait de l'obstruction, je ne suis pas convaincu qu'on ait présenté une preuve prima facie établissant que les documents demandés par les appelants sont pertinents à des questions soulevées dans les actes de procédure. Si la production de ces documents est refusée à tort après que les appelants en aient exposé le fondement durant les interrogatoires préalables, les appelants peuvent renouveler leur requête.
+Si la Couronne continue de prétendre qu'elle n'a pas à produire de documents qui ne paraissent pas sur sa liste, les appelants pourraient présenter une requête demandant une ordonnance de communication intégrale en vertu de l'article 82 des Règles.
+Le refus de la Couronne de divulguer des documents qui ne paraissent pas sur sa liste de documents ou le fait qu'elle force l'appelant à présenter une demande en vertu de la Loi sur l'accès à l'information pourrait pousser le comité des règles à abroger l'article 81 des Règles, ce qui ferait en sorte que toute la question de la production des documents serait alors assujettie aux dispositions de communication intégrale de l'article 82 des Règles.
+c) La correspondance et les notes échangées par l'ARC et le ministère de la Justice sont des éléments de preuve protégés en principe par le secret professionnel et ne sont pas exigibles pour production, à moins qu'une justification ne soit établie pour retirer le privilège du secret professionnel, ce qui n'a pas été fait.
+[4] Il y a eu beaucoup trop de manœuvres procédurales dans cette affaire. J'encourage fortement les parties à mettre un terme à ces querelles, à procéder à l'interrogatoire préalable et à passer au procès pour examiner les questions de fond.
+[5] La requête est rejetée. Les dépens de cette requête peuvent faire l'objet d'une décision du juge qui présidera l'audience.
+Signé à Toronto (Ontario), ce 9e jour d'août 2005.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 2e jour de mars 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI485
+Nºs DES DOSSIERS DE LA COUR :
+2003-1995(IT)G
+2003-1993(IT)G
+INTITULÉ :
+William Wright et
+Donna L. Wright et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+s.o.
+DATE DE L'AUDIENCE :
+s.o.
+MOTIFS DE L'ORDONNANCE :
+L'honorable D.G.H. Bowman,
+juge en chef
+DATE DE L'ORDONNANCE :
+Le 9 août 2005
+OBSERVATIONS ÉCRITES :
+Représentant des appelants :
+William Wright
+Avocat de l'intimée :
+Me Stacey Repas
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

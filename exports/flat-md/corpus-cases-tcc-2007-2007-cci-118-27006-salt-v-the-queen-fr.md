@@ -1,0 +1,167 @@
+---
+title: "Salt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27006/index.do"
+last_modified: "2007-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 118"
+citation2: ""
+neutral_citation: "2007 CCI 118"
+decision_date: "2007-03-02"
+language: "fr"
+item_id: "27006"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 647
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:55:13.236000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ef8200f51572be9214bafecca9a3001b2c0942637048d37c64c1a4576143c29d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salt v. The Queen
+
+- Citation: 2007 CCI 118
+- Decision date: 2007-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 647, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salt v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-02
+Référence neutre
+2007 CCI 118
+Numéro de dossier
+2005-2318(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2318(IT)G
+ENTRE :
+DAVID SALT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 22 janvier 2007, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelant :
+Me J. L. Marc Boivin
+Avocate de l'intimée :
+Me Annick Provencher
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1998, 1999 et 2000 sont accueillis, avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant était un non‑résident du Canada pendant la période du 1er septembre 1998 au 1er avril 2000, date de son retour au Canada.
+Signé à Ottawa, Canada, ce 2e jour de mars 2007.
+« Lucie Lamarre »
+Le juge Lamarre
+Traduction certifiée conforme
+ce 31e jour d'octobre 2007.
+Yves Bellefeuille, réviseur
+Référence : 2007CCI118
+Date : 20070302
+Dossier : 2005-2318(IT)G
+ENTRE :
+DAVID SALT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Lamarre
+[1] La seule question en l'espèce est de savoir si l'appelant était un résident du Canada au moment où il travaillait pour son employeur, Alcan South Pacific Limited, une société affiliée à Alcan Aluminium ltée (la société « Alcan »), à Brisbane, en Australie, pendant la période du 1er septembre 1998 au 1er avril 2000.
+[2] L'appelant est né et a grandi au Royaume‑Uni. Il y a obtenu son diplôme d'ingénieur chimiste en 1963. Son épouse et lui sont, à ce jour, citoyens du Royaume‑Uni et ont des frères et des soeurs qui habitent là‑bas. L'appelant a quitté le Royaume‑Uni en 1964 avec sa famille immédiate pour aller travailler pour Alcan en Jamaïque, où il a habité pendant dix ans. Il est arrivé au Canada en 1974 avec son épouse et leurs deux enfants. Il a travaillé pour Alcan ici pendant deux ans. En 1976, il a déménagé en Espagne où il a travaillé pendant cinq ans. Ensuite, il a travaillé en Irlande pendant trois ans. Il est revenu au Canada en 1984. À ce moment-là, il a acheté une maison à Beaconsfield, au Québec.
+[3] Le 4 juin 1998, il s'est vu offrir le poste de chef de la direction d'Alcan South Pacific Ltd. à Brisbane, en Australie, poste qu'il a d'ailleurs accepté la journée même (pièce A‑1, onglet 1). La date d'entrée en vigueur de son affectation, qui devait durer au moins deux ans, était le 1er août 1998. L'appelant a reçu un visa lui attribuant le statut de résident temporaire jusqu'au 11 septembre 2001 (pièce R‑1). Selon l'appelant, en demandant un tel visa, son employeur a suivi la procédure normale permettant d'obtenir un permis de travail à l'étranger pour une personne expatriée. En fait, l'appelant a renouvelé son permis de travail lorsque celui-ci a expiré en septembre 2001.
+[4] L'appelant et son épouse ont donné leur maison non meublée de Beaconsfield en location, selon les modalités commerciales normales, pour une période de 22 mois et demi à compter du 15 août 1998 jusqu'au 30 juin 2000, à Grant Nesbitt, une personne qui ne leur est pas apparentée (pièce A‑1, onglet 2). C'est un agent immobilier embauché par le couple qui a trouvé le locataire. La période de 22 mois et demi a été fixée par le locataire. Il est indiqué dans le bail que le locateur ne peut résilier le bail que selon les dispositions de la loi. Aux termes de l'article 1960 du Code civil du Québec, le locateur qui désire reprendre le logement doit aviser le locataire au moins six mois avant l'expiration du bail à durée fixe.
+[5] En fait, dans la présente affaire, en février 2000, Alcan a mis fin hâtivement à l'emploi de l'appelant en Australie après seulement 18 mois de travail. L'appelant s'est ensuite fait offrir un poste auprès d'Alcan à Montréal, et il l'a accepté. Par conséquent, son épouse et lui sont revenus au Canada en avril 2000, mais ils ne pouvaient pas occuper leur maison de nouveau avant la fin du bail qui expirait en juin 2000.
+[6] En Australie, l'employeur de l'appelant lui fournissait une maison meublée. Il y a emménagé avec son épouse, son chien, et une partie de leurs effets personnels. Le reste de leurs effets personnels était entreposé au Canada, aux frais de l'employeur (pièce A‑1, onglet 1, article 6). Pendant leur séjour en Australie, l'appelant et son épouse ont démissionné de tous les clubs et associations dont ils étaient membres au Canada, et se sont joints à des associations de Brisbane. Ils ont conservé une seule carte de crédit canadienne et ont annulé toutes les autres. Ils ont aussi annulé leur service de téléphone et de câble, ainsi que leurs abonnements à des publications au Canada. Ils ont modifié la police d'assurance de leur maison pour avoir une couverture commerciale (de location) plutôt qu'une couverture résidentielle.
+[7] L'appelant a rendu la voiture que lui avait fournie son employeur au Canada, et on lui en a fourni une autre en Australie. La majeure partie du salaire de l'appelant ainsi que son revenu locatif provenant de sa maison étaient versés au Canada, dans son compte en banque canadien. Le reste de son salaire lui était versé en Australie. L'appelant a continué de cotiser au Régime de rentes du Québec, ainsi qu'au régime de pension, d'assurance vie et d'invalidité de longue durée d'Alcan (pièce A‑1, onglet 1, article 3). Les cotisations à ces régimes étaient retenues sur sa paie versée au Canada.
+[8] Pendant son séjour en Australie, l'appelant est revenu au Canada et y a séjourné un total de 15 jours pour affaires. De son côté, l'épouse de l'appelant est revenue au Canada pour une période de deux semaines pour rendre visite à ses enfants et à son petit‑enfant. Outre ces voyages au Canada, l'appelant et son épouse passaient leurs vacances en Australie, en Asie et en Océanie.
+[9] L'appelant n'avait pas à obtenir un permis de conduire de l'Australie, étant donné que son permis du Québec était reconnu là-bas. Pour ce qui est de sa carte d'assurance maladie, même s'il ne l'utilisait pas parce qu'il avait une assurance médicale et dentaire en Australie, il l'a conservée tout au long de son séjour. L'appelant a aussi conservé son portefeuille de placement (s'élevant à environ 500 000 $) au Canada, à l'exception de certains placements dans des sociétés en commandite dont il s'est départi lorsqu'il a quitté le Canada. L'appelant était aussi propriétaire d'un condominium en Ontario qu'il avait acheté à titre de placement. Le condominium était toujours donné en location à des personnes qui ne lui étaient pas apparentées. En ce qui concerne sa maison de Beaconsfield, avant de partir en Australie, l'appelant avait pris des dispositions pour que le paiement de l'impôt foncier s'effectue à partir de son compte en banque canadien. Il produisait sa déclaration de revenus en Australie et payait de l'impôt sur ses revenus de toutes provenances (notamment son portefeuille de placement et son revenu locatif) en Australie pendant son séjour là-bas. Pendant cette même période, il produisait ses déclarations de revenus au Canada à titre de non-résident du Canada. En juillet 2001, l'appelant et son épouse sont retournés vivre en Australie et y sont demeurés jusqu'en décembre 2002, moment où l'appelant a pris sa retraite.
+Question en litige
+[10] La question en litige est de savoir si l'appelant doit être considéré comme ayant été un résident du Canada pendant son séjour en Australie, soit pendant la période du 1er septembre 1998 au 1er avril 2000. L'intimée soutient que l'appelant, pendant la période en question, était toujours un résident habituel du Canada au sens du paragraphe 250(3) de la Loi de l'impôt sur le revenu (la « Loi »), qui est rédigé en ces termes :
+ARTICLE 250 : Personne réputée résider au Canada
+(3) Résident habituel. Dans la présente loi, la mention d'une personne résidant au Canada vise aussi une personne qui, au moment considéré, résidait habituellement au Canada.
+L'intimée n'affirme pas que l'appelant est réputé avoir résidé au Canada en application du paragraphe 250(1) de la Loi.
+[11] Pour sa part, l'appelant fait valoir qu'il ne résidait pas habituellement au Canada pendant la période en cause. De plus, il soutient que même si la Cour venait à conclure qu'il était un résident habituel du Canada, les règles de départage énoncées à l'article 4 de la Convention entre le Canada et l'Australie font en sorte qu'il doit être considéré comme un non-résident du Canada et comme un résident de l'Australie. La partie de l'article 4 qui s'applique ici est rédigée en ces termes :
+Article 4
+Résidence
+1. Au sens de la présente Convention et sous réserve du paragraphe 2, une personne est un résident d'un des États contractants si cette personne est un résident de cet État pour l'application de l'impôt de cet État.
+[...]
+3. Lorsque, selon les dispositions du paragraphe 1, une personne physique est un résident des deux États contractants, sa situation est réglée conformément aux règles suivantes :
+a) cette personne est considérée comme un résident du seul État contractant où elle dispose d'un foyer d'habitation permanent;
+b) si elle dispose d'un foyer d'habitation permanent dans les deux États contractants, ou si elle ne dispose d'un foyer d'habitation permanent dans aucun d'eux, elle est considérée comme un résident du seul État contractant avec lequel ses liens personnels et économiques sont les plus étroits.
+Analyse
+[12] Il est important de souligner d'emblée que l'intimée reconnaît que l'appelant était un résident de l'Australie pendant la période en cause. Dans l'arrêt Thomson v. M.N.R., [1946] R.C.S. 209, le juge Estey précise, à la page 231, [TRADUCTION] qu'« un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d'une manière régulière, normale ou habituelle ». À la page 224 du même arrêt, le juge Rand définit la « résidence habituelle » comme [TRADUCTION] « résidence selon le mode de vie habituel de la personne visée, par opposition à une résidence particulière, occasionnelle ou temporaire ».
+[13] Il est généralement admis qu'une personne peut être résidente de plus d'un pays pour l'application de l'impôt. En l'espèce, l'appelant a quitté le Canada pour exécuter un contrat de travail de deux ans conclu avec Alcan. Il est parti avec son épouse et n'est revenu que pour des raisons purement professionnelles. De son côté, l'épouse de l'appelant n'a effectué qu'un séjour de deux semaines au Canada pendant la période en cause. Ils ont donné leur maison de Beaconsfield en location pour une période de 22 mois et demi, et selon le Code civil du Québec, le bail ne peut être résilié sans que le locataire ne reçoive un avis au moins six mois avant l'expiration du bail.
+[14] L'appelant et son épouse ont deux fils adultes habitant au Canada, mais ils n'avaient pas, comme telle, de maison à leur disposition au Canada. En fait, lorsque l'appelant et son épouse sont revenus au Canada plus tôt que prévu, ils ne pouvaient pas occuper leur maison de nouveau avant l'expiration du bail. L'appelant avait aussi d'autres liens avec le Canada. En effet, il avait investi dans un condominium en Ontario, lequel était donné en location à un tiers. Il avait aussi un portefeuille de placement au Canada. Il avait également conservé son compte en banque, sa carte de crédit, sa carte d'assurance maladie et son permis de conduire du Canada. La majeure partie de son salaire était versée en dollars canadiens dans son compte en banque canadien, et il contribuait au Régime de rentes du Québec.
+[15] Compte tenu des faits énoncés ci‑dessus, dans quelle mesure l'appelant, mentalement et dans les faits, a-t-il établi, conservé ou centralisé son mode de vie habituel, y compris ses relations sociales, ses intérêts et ses commodités, au Canada?
+[16] Il ne faut pas oublier ici que l'appelant n'est pas né au Canada. Tous ses frères et soeurs sont au Royaume‑Uni. Il a passé la majeure partie de sa vie à l'extérieur du Canada. Il s'est établi au Canada en 1984 et y a acheté une maison à ce moment‑là.
+[17] Même si l'appelant a conservé des liens importants avec le Canada, il en a aussi rompu beaucoup. J'hésite donc à conclure que l'appelant était un résident habituel du Canada pendant son séjour en Australie. Quoi qu'il en soit, je ne crois pas qu'il soit essentiel de trancher cette question en l'espèce. En effet, même si l'intimée considère que l'appelant résidait habituellement au Canada, ce dernier est tout de même réputé être un non-résident du Canada en application de l'article 4 de la Convention entre le Canada et l'Australie, précité, et du paragraphe 250(5) de la Loi, qui est rédigé en ces termes :
+250(5)
+(5) Personne réputée non-résidente. Malgré les autres dispositions de la présente loi, une personne est réputée ne pas résider au Canada à un moment donné dans le cas où, à ce moment, si ce n'était le présent paragraphe ou tout traité fiscal, elle résiderait au Canada pour l'application de la présente loi alors que, en vertu d'un traité fiscal conclu avec un autre pays, elle réside dans ce pays et non au Canada.
+[18] Je suis d'ailleurs convaincue qu'en application des règles de départage, l'appelant est réputé avoir été un résident uniquement de l'Australie parce qu'il s'agit du pays dans lequel il disposait d'un foyer d'habitation permanent. La preuve dont je suis saisie ne me permet pas de conclure que l'appelant disposait d'un foyer d'habitation permanent au Canada pendant son séjour en Australie.
+[19] Le Comité des affaires fiscales de l'Organisation de coopération et de développement économiques (l'« OCDE ») a formulé des commentaires au sujet de l'article 4 (concernant la définition d'un résident) du Modèle de convention fiscale concernant le revenu et la fortune aux paragraphes 11, 12 et 13 de la page 80 du Modèle de convention fiscale concernant le revenu et la fortune, version abrégée datant du 28 janvier 2003 (voir la liste de jurisprudence et de doctrine de l'intimée, onglet 15). Ces commentaires sont rédigés en ces termes :
+11. L'article accorde la préférence à l'État contractant où l'intéressé dispose d'un foyer d'habitation permanent. Ce critère suffira souvent pour résoudre le conflit résultant du fait qu'une personne qui a un foyer permanent dans un État contractant a seulement effectué un séjour d'une certaine durée dans l'autre État contractant.
+12. L'alinéa a) veut donc dire que, pour l'application de la Convention (donc lorsqu'il y a conflit entre les législations des deux États) on considère que la résidence de la personne physique se trouve là où celle-ci a la possession ou la jouissance d'un foyer d'habitation, à condition que ce dernier soit permanent, c'est-à-dire que la personne l'ait aménagé et réservé à son usage d'une manière durable, par opposition au fait du séjour à un certain endroit dans des conditions telles que ce séjour apparaisse comme devant être limité à une courte durée.
+13. Au sujet de la notion de foyer d'habitation, il faut observer que toute forme d'habitation peut être prise en considération (maison ou appartement qui est la propriété de l'intéressé ou pris en location, chambre meublée louée). Mais la permanence de l'habitation est essentielle, ce qui signifie que l'intéressé fait le nécessaire pour avoir le logement à sa disposition en tout temps, d'une manière continue et pas occasionnellement pour effectuer un séjour qui, compte tenu des raisons qui le motivaient, est nécessairement lié à une courte durée (voyage d'agrément, voyage d'affaires, voyage d'études, stage dans une école, etc.).
+[20] Étant donné que sa maison au Canada avait été donnée en location à un tiers qui ne lui est pas apparenté et selon des modalités de pleine concurrence, l'appelant est considéré comme ne disposant pas de foyer d'habitation permanent au Canada. Il s'agit là d'une façon d'aborder la question qui a été adoptée même par la Direction des décisions de l'impôt de l'Agence des douanes et du revenu du Canada (l'« ADRC ») dans une analyse du bulletin d'interprétation IT‑221R3 qui traite de la détermination du statut de résident d'un particulier (document numéro 2002‑0135585 daté du 13 mai 2002; voir l'onglet 9 de la liste de jurisprudence et de doctrine de l'appelant). L'ADRC aborde ainsi la question du statut de résident parce qu'il s'agit de l'approche qui correspond le mieux à celle adoptée par la majorité des États avec lesquels le Canada a conclu une convention fiscale ainsi que par l'OCDE en ce qui concerne l'interprétation, pour l'application d'une convention fiscale, de l'expression « dispose d'un foyer d'habitation permanent » (voir l'extrait de S. Lerman, Hot Issues in Tax Compliance, [2002] Ontario Conference, pp. 16:4 à 16:7, commentaires sur les motifs justifiant la modification du bulletin d'interprétation IT‑221R2 et la production du bulletin IT‑221R3 par l'ADRC, onglet 14 de la liste de jurisprudence et de doctrine de l'appelant).
+[21] En ce qui concerne cette première règle de départage, soit la règle du « foyer d'habitation permanent », depuis 1994, l'ADRC considère qu'une personne dispose d'un foyer d'habitation permanent si un logement est entretenu dans un état habitable toute l'année, s'il est donné en location à une partie ayant un lien de dépendance avec le locateur ou s'il fait l'objet d'un bail pouvant être résilié moyennant un avis de trois mois ou moins (voir l'extrait de O'Neil, Hopkins, Heller, Stephen, Current Tax Issues An Update, [1994] Conference Report, p. 2:13, onglet 16 de la liste de jurisprudence et de doctrine de l'appelant).
+[22] En l'espèce, la maison de l'appelant avait été donnée en location pour une période fixe de 22 mois et demi. Selon le droit civil de la province de Québec, un locateur doit donner un avis de six mois au locataire avant de pouvoir reprendre un logement ou d'en évincer le locataire. Voir l'article 1960 du Code civil du Québec, qui est rédigé en ces termes :
+1960. Le locateur qui désire reprendre le logement ou évincer le locataire doit aviser celui‑ci, au moins six mois avant l'expiration du bail à durée fixe; si la durée du bail est de six mois ou moins, l'avis est d'un mois.
+Toutefois, lorsque le bail est à durée indéterminée, l'avis doit être donné six mois avant la date de la reprise ou de l'éviction.
+[23] Étant donné les circonstances des présents appels, je conclus que l'appelant ne disposait pas d'un foyer d'habitation permanent au Canada pendant la période en cause. L'appelant est donc réputé ne pas avoir été un résident du Canada en application de l'article 4 de la Convention entre le Canada et l'Australie et du paragraphe 250(5) de la Loi.
+[24] Les appels sont donc accueillis et les cotisations établies à l'égard des années d'imposition 1998, 1999 et 2000 sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant était un non‑résident du Canada pendant la période du 1er septembre 1998 au 1er avril 2000, date de son retour au Canada.
+Signé à Ottawa, Canada, ce 2e jour de mars 2007.
+« Lucie Lamarre »
+Le juge Lamarre
+Traduction certifiée conforme
+ce 31e jour d'octobre 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2007CCI118
+N° DU DOSSIER : 2005-2318(IT)G
+INTITULÉ : DAVID SALT c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 22 janvier 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 2 mars 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me J. L. Marc Boivin
+Avocate de l'intimée :
+Me Annick Provencher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me J. L. Marc Boivin
+Cabinet : Me J. L. Marc Boivin
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

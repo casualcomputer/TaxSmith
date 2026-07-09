@@ -1,0 +1,135 @@
+---
+title: "Jelinek v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25288/index.do"
+last_modified: "2006-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 77"
+citation2: ""
+neutral_citation: "2006 CCI 77"
+decision_date: "2006-02-21"
+language: "fr"
+item_id: "25288"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2401
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:52:14.628000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84f7f0a432ae708be60d730809cc6b1258b41a2def9a8eeb07551915f913c3b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jelinek v. The Queen
+
+- Citation: 2006 CCI 77
+- Decision date: 2006-02-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2401, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jelinek v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-21
+Référence neutre
+2006 CCI 77
+Numéro de dossier
+2005-935(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI77
+Date : 20060221
+Dossier : 2005-935(IT)I
+ENTRE :
+BOB JELINEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l’audience à
+Vancouver (Colombie-Britannique), le 16 décembre 2005.)
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Vancouver (Colombie-Britannique), le 15 décembre 2005. L’appelant a rendu témoignage et a appelé son ancienne épouse, Betty Lorraine Coates, à témoigner.
+[2] Les renseignements litigieux sont énoncés aux paragraphes 3 à 10 inclusivement de la réponse à l’avis d’appel. Ces paragraphes sont ainsi libellés :
+[TRADUCTION]
+3. Par un avis de nouvelle cotisation daté du 19 octobre 2004, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation pour l’année d’imposition 2003 de l’appelant et il a refusé le crédit d’impôt non remboursable au titre d’une personne entièrement à charge (le « crédit d’impôt ») relativement à Kristy Jelinek.
+4. L’appelant s’est opposé à la nouvelle cotisation pour l’année d’imposition 2003 en produisant auprès du ministre un avis d’opposition daté du 31 octobre 2004.
+5. Le ministre a ratifié la nouvelle cotisation pour l’année d’imposition 2003 et a avisé l’appelant de cette ratification par un avis daté du 19 janvier 2005.
+6. Lorsqu’il a établi la nouvelle cotisation pour l’année d’imposition 2003 et ratifié cette nouvelle cotisation, le ministre s’est appuyé sur les hypothèses suivantes :
+a) l’appelant et Betty Lorraine Jelinek, maintenant Coates (l’« ancienne épouse »), sont les parents de Kristy Michelle Jelinek, née le 14 décembre 1985 (la « fille »);
+b) l’appelant et son ancienne épouse ont vécu séparés l’un de l’autre pendant toute l’année 2003 en raison de l’échec de leur mariage;
+c) par une ordonnance datée du 7 janvier 1991 (l’« ordonnance »), la Cour suprême de la Colombie‑Britannique a ordonné à l’appelant de payer à son ancienne épouse la somme de 1 000 $ par mois à titre de pension alimentaire pour sa fille, à compter du 1er décembre 1990;
+d) l’ordonnance du 7 janvier 1991 n’a pas été modifiée quant à la pension alimentaire versée pour la fille de l’appelant;
+e) l’ordonnance accordait en outre à l’appelant un droit de visite raisonnable à l’égard de sa fille;
+f) en 2003, l’appelant n’avait pas d’établissement domestique autonome dans lequel il résidait et où il subvenait aux besoins de sa fille;
+g) l’ancienne épouse était le particulier assumant les frais d’entretien et elle a déduit le crédit d’impôt à l’égard de sa fille pour l’année 2003.
+B. QUESTIONS EN LITIGE
+7. La question en litige consiste à savoir si l’appelant peut déduire le crédit d’impôt à l’égard de sa fille pour l’année d’imposition 2003.
+C. DISPOSITIONS DE LOI INVOQUÉES
+8. Il invoque l’alinéa 118(1)b) et les paragraphes 56.1(4), 118(4) et 118(5) de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la « Loi »), et ses modifications.
+D. MOYENS INVOQUÉS ET RÉPARATIONS DEMANDÉES
+9. Il soutient que l’appelant a, à juste titre, fait l’objet d’une nouvelle cotisation refusant le crédit d’impôt puisque l’appelant était tenu de payer à son ancienne épouse pour sa fille une pension alimentaire au sens du paragraphe 56.1(4) de la Loi au cours de l’année d’imposition 2003 et que le paragraphe 118(5) de la Loi l’empêche de déduire le crédit d’impôt.
+10. Dans l’éventualité où l’appelant n’était pas tenu en 2003 de payer à son ancienne épouse une pension alimentaire pour sa fille, il soutient que l’appelant n’a pas droit au crédit d’impôt parce que l’ancienne épouse subvenait aux besoins de la fille dans un établissement domestique autonome et a déduit le crédit d’impôt pour l’année d’imposition 2003. Selon le paragraphe 118(4), une seule personne peut déduire le crédit d’impôt à l’égard de la fille au cours de l’année.
+[3] Aucune des hypothèses n’a été réfutée par la preuve.
+[4] En particulier, relativement à l’hypothèse énoncée à l’alinéa 6(d), l’appelant a mentionné dans son témoignage qu’une ordonnance a été prononcée oralement pour la période allant de 2000 à 2002, mais n’a pas été rendue par écrit, et que cette ordonnance lui accordait le droit de ne pas payer de pension alimentaire si Kristy vivait avec lui. Dans son témoignage, Mme Coates a déclaré qu’il s’agissait d’une ordonnance de garde conjointe selon laquelle une pension alimentaire devait lui être payée si Kristy vivait avec elle.
+[5] Cependant, cette ordonnance n’a pas été rendue et la Cour arrive donc à la conclusion que la seule ordonnance prononcée par la Cour suprême de la Colombie‑Britannique dans la présente affaire est celle datée du 7 janvier 1991.
+[6] Mme Coates a déduit le crédit d’impôt non remboursable au titre d’une personne entièrement à charge relativement à Kristy en 2003 et elle a obtenu ce crédit.
+[7] La Cour ajoute foi au témoignage de Mme Coates lorsqu’elle affirme que Kristy vivait chez elle, chez l’appelant et à la résidence de son petit ami en 2003. En outre, Mme Coates a inscrit Kristy à l’école à partir de sa résidence en 2003.
+[8] Sur le fondement de ce qui précède, la Cour accepte l’hypothèse énoncée à l’alinéa 6(d) et conclut que Kristy ne résidait ni en fait ni en droit avec l’appelant dans un établissement domestique autonome en 2003.
+[9] L’appel est donc rejeté.
+Signé à Kelowna (Colombie-Britannique), ce 21e jour de février 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 29e jour de mai 2007
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2006CCI77
+NO DU DOSSIER DE LA COUR :
+2005-935(IT)I
+INTITULÉ :
+Bob Jelinek c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 15 décembre 2005
+MOTIFS DU JUGEMENT PRONONCÉS ORALEMENT PAR :
+L’honorable juge D.W. Beaubier
+DATE DES MOTIFS PRONONCÉS ORALEMENT :
+Le 21 février 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Selena Sit
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

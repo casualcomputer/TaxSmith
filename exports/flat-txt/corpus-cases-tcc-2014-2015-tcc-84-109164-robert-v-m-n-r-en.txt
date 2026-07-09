@@ -1,0 +1,192 @@
+Title: Robert  v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109164/index.do
+Corpus path: corpus/cases/tcc/2014/2015-tcc-84-109164-robert-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-04-16
+
+# Robert  v. M.N.R.
+
+- Citation: 2015 TCC 84
+- Decision date: 2014-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2862, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robert v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-16
+Neutral citation
+2015 TCC 84
+File numbers
+2014-642(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-642(EI)
+BETWEEN:
+LUCIE-DIANE ROBERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VYTA SENIKAS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 14, 2014, at Ottawa, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Gabrielle White
+For the intervener:
+The intervener herself
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the decision of the Minister of National Revenue that the appellant did not hold insurable employment within the meaning of the Employment Insurance Act is dismissed because, during the period in issue, from January 1, 2008, to December 31, 2011, the appellant and the intervener were not bound by a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act.
+Signed at Montréal, Canada, this 16th day of April 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 27th day of May 2015
+Michael Palles, Translator-Language Advisor
+Citation: 2015 TCC 84
+Date: 20150416
+Docket: 2014-642(EI)
+BETWEEN:
+LUCIE-DIANE ROBERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VYTA SENIKAS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant appealed to this Court pursuant to section 103 of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the Act). This appeal concerns the insurability of the work performed by the appellant for Dr. Vyta Senikas (the payer) during the 2008, 2009, 2010 and 2011 taxation years (the period in issue).
+[2] Being of the view that she was an employee, the appellant filed a complaint with the Minister of National Revenue (the Minister) on or about May 30, 2012, on the basis that the payer had not provided her with T4 or T4A slips for the taxation years included in the period in issue.
+[3] In response to the complaint filed by the appellant, the Minister conducted an analysis of the insurability of the work she performed for the payer during the period in issue. On November 5, 2012, the appellant was notified of the Minister’s decision that she did not hold insurable employment with the payer.
+[4] On or about February 13, 2013, the appellant filed an appeal and asked the respondent to rule on whether the employment she held with the payer during the period in issue was insurable employment. By letter dated August 30, 2013, the respondent notified the appellant of his decision that her work with the payer during the period in issue was not insurable employment, hence the appeal to this Court.
+[5] In rendering his decision, the respondent relied on the following assumptions of fact set out in paragraph 7 of the Reply to the Notice of Appeal:
+[translation]
+(a) The payer hired the appellant to take care of her mother, Johanna Senikas (hereafter, the payer’s mother); [admitted]
+(b) In 2011, the payer’s mother was 90 years old; [admitted]
+(c) The appellant and the payer entered into a verbal contract on October 20, 2008, at Ottawa, in the province of Ontario; [denied]
+(d) The appellant submits that she was hired by the payer as an employee, while the payer is of the opinion that the appellant rendered her services as a self-employed person; [denied]
+(e) The appellant began providing the payer with services on October 20, 2008, and did not work for the payer between January 1, 2008, and October 19, 2008; [admitted]
+(f) The appellant’s tasks consisted mainly of helping the payer’s mother to shower, reminding her to eat three meals a day and occasionally preparing said meals; [admitted, with the addition of walking the dogs and clearing the entrances to the garage and the house]
+(g) The appellant performed these tasks at the payer’s home, where the payer’s mother also lived; [admitted]
+(h) The appellant lived free of charge at the payer’s home while she was working for her; [denied]
+(i) The appellant’s work schedule was determined on the basis of the needs of the payer’s mother and the payer’s availability; [admitted]
+(j) The appellant was usually at the payer’s home when the payer was not there, but she could leave the payer’s mother alone at home for short periods; [admitted, in accordance with the payer’s work schedules]
+(k) After work, the appellant was free to leave the payer’s house; [denied]
+(l) The payer set the appellant’s earnings; [admitted]
+(m) The payer always paid the appellant for 40-hour work weeks, regardless of the number of hours of work actually performed; [denied]
+(n) For the weeks from October 19, 2008, to December 26, 2010, the appellant received $400 a week, gross; [admitted]
+(o) From 2011 until the end of the period in issue, the appellant’s gross earnings were increased to $420 a week, at her request; [admitted]
+(p) The payer did not make any source or other deductions from the appellant’s earnings; [admitted]
+(q) The appellant did not need any special tools to perform her tasks and used the materials provided by the payer, including kitchen items for preparing the payer’s mother’s meals and snacks; [admitted]
+(r) During the period in issue, the appellant never subcontracted her work or hired any assistants; [admitted]
+(s) The appellant did not incur any expenses relating to the services she performed for the payer; [admitted]
+(t) In her tax returns for the 2008, 2009, 2010 and 2011 taxation years, the appellant reported the income from the payer as business income, not employment income; [admitted]
+(u) For the 2008, 2009, 2010 and 2011 taxation years, the appellant also claimed deductions for Canada Pension Plan or Quebec Pension Plan contributions on self-employment, in respect of net self-employment income from the payer; [admitted]
+(v) On August 7, 2012, the appellant filed a claim with the Ministry of Labour of Ontario, alleging that the payer had breached her duties under the Employment Standards Act, 2000, S.O. 2000, c. 41, more specifically, with regard to overtime pay, vacation pay, public holiday pay and limits applicable to hours of work, eating periods and rest breaks; [admitted]
+(w) On September 24, 2012, the appellant withdrew the claim she had filed with the Ministry of Labour without entering into a settlement agreement with the payer. [admitted]
+[6] The appellant testified at the hearing. She began by confirming that she had entered into a verbal agreement with the payer, in Montréal, to take care of the payer’s mother, who was 87 years old in 2008, in Ottawa. The payer’s mother was relatively independent and could move around on her own with the help of a cane. However, since she sometimes had fainting spells, she needed round-the-clock supervision.
+[7] The appellant started working for the payer on October 20, 2008. Her tasks consisted of helping the appellant’s mother to shower, reminding her to eat three meals a day and occasionally preparing said meals and snacks, washing the sheets for the payer’s mother’s bed, taking care of the payer’s two dogs, clearing the entrances to the garage and the house during the winter and keeping the payer’s mother entertained by playing cards with her. The appellant did not have to take care of the payer’s mother’s medication or the housecleaning.
+[8] The appellant had free room and board at the payer’s home. She had her own room with an en-suite bathroom. She had a computer with Internet access at her disposal, as well as free cable television.
+[9] The work schedule was set by the payer on the basis of her mother’s need for assistance and her own availability. The appellant therefore did not have a regular schedule. The appellant and the payer did not keep a record of the hours worked.
+[10] The appellant’s earnings were set by the payer. The appellant received $10 per hour worked, or $400 for a 40-hour week, for the weeks from October 19, 2008, to December 26, 2010. From 2011 until the end of the period in issue, the appellant’s earnings were raised to $10.50 an hour, or $420 for a 40-hour week. The hours were never really recorded, and the appellant occasionally had to work weekends, if the payer was out of town for doctors’ conferences or conventions. In the appellant’s view, the hours worked on weekends made up for the free room and board she was given.
+[11] The appellant was most often paid in cash but sometimes by cheque bearing the names of the payer and her mother (joint account) or the name of the Society of Obstetricians and Gynaecologists of Canada. The payer sometimes paid in advance for the appellant’s services.
+[12] In addition to her earnings, the appellant was entitled to one return bus ticket to Montréal per month, given that she had kept her apartment in Montréal and had not changed her address to the payer’s residence.
+[13] According to the appellant, the payer never told her that she was hiring her as a self-employed worker, and she asked her for T4 slips in January 2009. As she never received them, she had to report her income as business income. The appellant stated that she made the same request in January 2010. Having no T4 slips, the appellant reported her income from the work done for the payer as business income. The same situation reoccurred in 2011.
+[14] As mentioned in paragraph 7(v) of the assumptions of fact accepted by the Minister, on August 7, 2012, the appellant filed a claim with the Ministry of Labour of Ontario, alleging that the payer had breached her duties under the Employment Standards Act, 2000. On September 24, 2002, the appellant withdrew her claim without entering into a settlement agreement with the payer. At the hearing, the appellant explained that she ended the proceedings for health reasons. She had high blood pressure and was afraid of having a second heart attack. However, after the complaint was withdrawn, the appellant’s working conditions changed, and the payer issued the appellant T4 slips for 2012 and remitted the appropriate source deductions to the tax authorities on the basis of appellant’s pay for all of 2012.
+[15] The appellant stayed at the payer’s residence until February 15, 2013, after the payer’s mother was transferred to a nursing home in early 2013 and the payer entered pre-retirement.
+[16] The payer, too, testified at the hearing. She stated that she has known the appellant for at least 20 years and had retained her services twice before asking her to take care of her mother. In her Notice of Intervention dated April 10, 2014, the payer explained that 15 years ago, she had hired the appellant to work as a receptionist in her medical clinic to replace the regular receptionist while she was on maternity leave. This lasted for 13 months; the appellant was treated like an employee and was issued T4 slips. More recently, about 10 years ago, the payer rehired the appellant to take care of her children in Montréal, while she was making a year-long transition to Ottawa. This went on for one year, and the appellant agreed to be paid on a contract basis, i.e., with no source deductions or T4 slips.
+[17] The payer confirmed that she had not signed a written agreement with the appellant regarding the work for her mother. She also confirmed that she and the appellant had never discussed the appellant’s tax status and that she learned of the problem for the first time when she received a copy of the letter from the Ontario Ministry of Labour dated August 10, 2012. The payer stated that the appellant had always received her pay in full knowledge that no source deductions had been made. According to the payer, the appellant filed her tax returns as a self-employed person and never asked her for T4 slips.
+[18] The payer also confirmed that she and her mother never reported the appellant’s hiring to the tax authorities and that she claimed a $7,000 tax credit for caring for a sick person at home.
+Applicable statutory provisions
+[19] The term “insurable employment” is defined at subsection 5(1) of the Act as follows:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) employment in Canada as described in paragraph (a) by Her Majesty in right of Canada;
+(c) service in the Canadian Forces or in a police force;
+(d) employment included by regulations made under subsection (4) or (5); and
+(e) employment in Canada of an individual as the sponsor or co-ordinator of an employment benefits project.
+[20] The appellant’s case was analyzed on the basis of a verbal agreement entered into by the appellant and the payer in Ottawa because the work was performed in Ottawa. However, at the hearing, it was shown that the agreement had been entered into in Montréal. Accordingly, the relationship between the parties must be considered in light of the rules of the Civil Code of Québec, not the tests developed under the common law. The applicable law in this case is the Civil Code of Québec, and the agreement that the appellant and the payer entered into must be interpreted in accordance with the laws of Quebec. Counsel for the respondent acknowledged at the beginning of her oral arguments that the applicable law in this case was the Civil Code of Québec.
+[21] The relevant provisions of the Civil Code of Québec in this case are articles 2085, 2098 and 2099. They read as follows:
+Article 2085
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+Article 2098
+A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+Article 2099
+The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+Analysis
+[22] The distinguishing factor between the two types of contracts under the Civil Code of Québec is control, which is without doubt the most important factor in determining the legal nature of the relationship between the parties.
+[23] In this case, the nature of the services rendered by the appellant was basic home care, such as generally watching over the payer’s mother, helping her bathe, making sure she ate her snacks and meals (which included preparing meals as requested by the mother, on occasion) and keeping her entertained. The appellant’s duties did not include having to deliver specialized services, such as providing nursing services or administering medication.
+[24] The appellant was practically part of the payer’s family and had considerable latitude in her work.
+[25] The appellant was free to choose how she went about her work and received little instruction from the payer regarding how to do her job. The payer’s work schedule was variable and depended on the payer’s schedule.
+[26] The appellant had considerable freedom in deciding how to use her time, even during working hours. In fact, during the period in issue, the appellant was studying part-time by taking online courses from Walden University, located in Phoenix, in the United States.
+[27] The appellant’s earnings were set by the payer. In exchange for her services, the appellant was paid by the hour on the basis of a 40-hour work week. Although the appellant’s hours varied from one week to the next, she received the same amount every week, regardless of how many hours she actually worked. Starting in 2011, the appellant’s hourly rate was increased. The payer did not keep any record of the hours worked. The appellant no doubt received a portion of her earnings, as well as her room and board, for making herself available three weekends a month.
+[28] Contrary to the Minister’s analysis, it seems clear to me that, given the nature of the services rendered by the appellant, control is the decisive factor in this case. The appellant’s work is similar to the work done by a home care worker, which supports finding a contract of service.
+[29] Moreover, the parties’ common intention at the time they entered into the agreement tends to show that the parties expected the appellant to provide her services as a self-employed person.
+[30] The payer explained this point of view clearly in her Notice of Intervention, but this claim is heavily disputed by the appellant, who submits that she always intended to offer her services as an employee. The agreement between the appellant and the payer was made verbally, but the parties did not agree on the legal status of their relationship. In such circumstances, the appellant’s legal status must necessarily be determined on the basis of inferences drawn from the facts submitted to the Court.
+[31] First, it should be noted that both of the parties to the agreement were well aware of the importance of determining the appellant’s status, the appellant having worked for the payer twice in the past, once as an employee and once as a self-employed person. Moreover, at the time, the payer was head of a major medical organization with more than 55 employees and was well aware that employers are required to issue T4 slips by the prescribed deadlines.
+[32] During the taxation years included in the period in issue, the appellant reported the earnings received from the payer as business income, not employment income. The Minister’s uncontradicted assumptions of fact clearly show that the payer made no source deductions or other deductions from the appellant’s earnings and that the appellant claimed deductions for Canada Pension Plan or Quebec Pension Plan contributions on self-employment income received from the payer.
+[33] According to the evidence presented, it appears that the appellant did not invoice the payer for her services or register for the goods and services tax.
+[34] The fact that the appellant did not receive any vacation or public holiday pay should have told her that her pay was consistent with that of a self-employed person.
+[35] The payer’s preferred mode of payment during the 2008, 2009, 2010 and 2011 taxation years was consistent with what she did when she employed the appellant as a nanny. The fact that the appellant did not sound the alarm all those years suggests that the parties did indeed have a common intention to enter into a contract of service.
+[36] It is surprising to say the least that the appellant waited until 2012 to complain about the payer’s failure to issue her T4 slips for each of the taxation years in issue. These slips being common knowledge to Canadian workers, the appellant could easily have required the payer to provide her with copies of the T4slips for tax purposes each year if she had truly intended to work as an employee rather than wait until near the end of her contract with the payer.
+[37] The factors to be considered when determining whether or not a person was self-employed are set out in Wiebe Door Services v. Canada (Minister of National Revenue), [1986] 3 F.C. 553 (Federal Court of Appeal) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 (Supreme Court of Canada). Those factors are as follows:
+(a) the level of control the employer has over the worker’s activities;
+(b) ownership of the tools;
+(c) chance of profit; and
+(d) risk of loss.
+[38] In my view, the only factor that is relevant to determining the appellant’s status is the level of control over the worker’s activities. As was discussed above, this factor supports the conclusion that the appellant was a self-employed person. The other factors are neutral because the appellant did not have to provide tools or equipment and had little chance of profit or risk of loss, given that she had not made any capital investments.
+[39] In light of the preceding, the answer to whether the appellant was engaged to perform the services as a person in business on her own account is yes. From the outset, it was the parties’ common intention that the appellant would provide her services as a self-employed person. This intention was subsequently confirmed by the parties’ conduct during the taxation years included in the period in issue.
+[40] For these reasons, I find that the contractual relationship between the parties during the period in issue was governed by a contract of enterprise. The appeal is therefore dismissed.
+Signed at Montréal, Canada, this 16th day of April 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 27th day of May 2015
+Michael Palles, Translator-Language Advisor
+CITATION:
+2015 TCC 84
+COURT FILE NO.:
+2014-642(EI)
+STYLE OF CAUSE:
+LUCIE-DIANE ROBERT AND M.N.R. AND VYTA SENIKAS
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATED:
+April 16, 2015
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Gabrielle White
+For the intervener:
+The intervener herself
+SOLICITORS OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

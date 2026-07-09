@@ -1,0 +1,296 @@
+---
+title: "Bolduc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26421/index.do"
+last_modified: "2004-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 630"
+citation2: ""
+neutral_citation: "2004 CCI 630"
+decision_date: "2004-09-21"
+language: "fr"
+item_id: "26421"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3172
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:01:20.890000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60fa339193a4df4eaee0ef114a82b963552f99402c3b876f94c92a4c726245fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bolduc c. M.R.N.
+
+- Citation: 2004 CCI 630
+- Decision date: 2004-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3172, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-21
+Référence neutre
+2004 CCI 630
+Numéro de dossier
+2004-255(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-255(EI)
+ENTRE :
+MARIO BOLDUC,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Daniel Harvey (2004-256(EI)) et l'appel de Réjean Lavoie (2004-259(EI)), le 25 août 2004, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Alain Picard
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté, et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2004-256(EI)
+ENTRE :
+DANIEL HARVEY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Mario Bolduc (2004-255(EI)) et l'appel de Réjean Lavoie (2004-259(EI)), le 25 août 2004, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Alain Picard
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté, et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2004-259(EI)
+ENTRE :
+RÉJEAN LAVOIE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Mario Bolduc (2004-255(EI)) et l'appel de Daniel Harvey (2004-256(EI)), le 25 août 2004, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Alain Picard
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté, et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI630
+Date : 20040921
+Dossier : 2004-255(EI)
+ENTRE :
+MARIO BOLDUC,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET ENTRE :
+Dossier : 2004-256(EI)
+DANIEL HARVEY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET ENTRE :
+Dossier : 2004-259(EI)
+RÉJEAN LAVOIE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de trois appels relatifs à la période du 1er janvier 2002 au 14 avril 2003. Lors de cette période, les trois appelants étaient actionnaires de la société Groupe Nettoyeurs de la Capitale Ltée. Chacun détenait alors 25 % du capital-actions de la société. Chacun d'eux recevait de la société une rémunération hebdomadaire établie à 525 $.
+[2] Les appels ont été déposés à la suite d'une détermination de l'intimé selon laquelle le travail rémunéré constituait un véritable contrat de louage de services conforme à l'alinéa 5(1)a) et aux articles 91 et 93 de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Comme les trois appels découlaient exactement des mêmes faits, les parties se sont entendues pour procéder sur preuve commune pour les trois dossiers.
+[4] Les appelants étaient représentés par monsieur Alain Picard, comptable, du cabinet Coutu, Fortier et associés. Il avait sans doute rédigé l'avis d'appel pour les trois appels. Il y a lieu de reproduite l'avis d'appel dans le dossier Daniel Harvey (2004-256(EI)). Les avis d'appel étaient sensiblement les mêmes.
+[...]
+Objet : Réjean Lavoie V/N référence CE0307-1105-4271
+Daniel Harvey V/N référence CE0306-5130-4412
+Mario Bolduc V/N référence CE0306-5130-5213
+Suite à votre décision du 28 octobre 2003 concernant la demande d'assurabilité de 2002 de mes clients pour la société « 9088-4719 Québec Inc. et Groupe Nettoyeurs de la Capitale Ltée » , nous désirons faire appel à cette décision.
+- Ils sont le principaux administrateurs et actionnaires et ce sont eux qui prennent toutes les décisions concernant les sociétés.
+- Qu'ils fassent une semaine de travail de 15 hre ou de 40 hre, ils prennent le même salaire.
+- S'ils ne travaillent pas durant un mois, ils prennent le même salaire.
+- Ils cautionnent la totalité des dettes des sociétés.
+- C'est eux qui prennent l'entière responsabilités et les risques.
+- Ils ont le pouvoir de décision s'ils veulent se voter un bonis à la fin de l'année.
+- C'est eux qui signent les chèques.
+- Ils sont en devoir 24 hre sur 24.
+- S'ils ne sont pas là, les sociétés n'ont pas leur raison d'être.
+- Il n'y a aucune relation employé-employeur.
+- C'est eux qui décident de leur horaire de travail.
+- De plus, s'ils faisaient une demande de chômage, ils ne pourraient en avoir.
+En prenant tous ces points en considération, bien vouloir réviser la décision.
+[...]
+Alain Picard, CMA
+[...]
+[5] Suites aux avis d'appel, l'intimé a répondu par la Réponse à l'avis d'appel. Il a notamment, dans le dossier 2004-256(EI), soit celui de l'appelant Daniel Harvey, énuméré les faits tenus pour acquis lors des déterminations qui font l'objet des appels. Il n'y a pas lieu de reproduire ces hypothèses dans les trois dossiers, puisque ces faits sont sensiblement semblables.
+[6] Je reproduis donc les faits tenus pour acquis dans le dossier Daniel Harvey (2004-256(EI)). Ils se lisent comme suit :
+a) le payeur, constitué en société le 1er juillet 1996, exploite une entreprise de nettoyage de vêtements;
+b) le payeur possède une usine où se fait le nettoyage des vêtements ainsi que six comptoirs de services;
+c) il dessert, de plus, près de soixante-dix points de services, hôtels ou commerces, où il fait la cueillette des vêtements et le dépôt des vêtements nettoyés.
+d) le payeur embauche de trente à quarante personnes selon la période dont environ vingt-trois 23 pour l'usine;
+e) durant la période en litige, les actions votantes du payeur étaient détenues par :
+- l'appelant, président, avec 25 % des actions,
+- Mario Bolduc, vice-président, avec 25 % des actions,
+- Réjean Lavoie, secrétaire, avec 25 % des actions,
+- Alain Garon avec 25 % des actions;
+f) il n'existe aucun lien de parenté entre les actionnaires;
+g) les quatre actionnaires du payeur détiennent aussi, selon la même répartition, les actions votantes de la société 9088-4719 Québec Inc. (la Cie);
+h) la Cie exploite aussi une entreprise de nettoyage de vêtements, elle l'exploite sous la raison sociale Nettoyeur un seul prix;
+i) la Cie ne possède pas d'usine de nettoyage, elle fait tout nettoyer à l'usine du payeur;
+j) la Cie a quatre comptoirs de services;
+k) la Cie embauche 12 employés;
+l) le payeur et la Cie sont des sociétés distinctes mais associées et elles ont leur siège social à la même adresse à Québec;
+m) chacun des actionnaires du payeur rend simultanément des services, dans son champ d'activités, aux deux sociétés sans égard au temps consacré à chacune des entreprises;
+n) l'appelant et Mario Bolduc sont rémunérés uniquement par le payeur alors qu'en retour, Réjean Lavoie est rémunéré par la Cie;
+o) les principales tâches de l'appelant, pour l'une ou l'autre des sociétés, se résument ainsi :
+- la formation des employés;
+- la solution des problèmes informatiques;
+- la promotion et la publicité;
+- le suivi auprès des clients;
+- la gestion des réclamations des clients;
+- la supervision des employés;
+p) l'appelant gère les différents établissements du payeur et de la Cie;
+q) l'appelant peut signer les chèques au nom du payeur et de la Cie, mais 2 signatures sont requises quand les sommes excèdent 500 $;
+r) l'appelant n'a pas à respecter un horaire de travail précis mais il travaille généralement du lundi au vendredi, au moins 40 heures par semaine;
+s) l'appelant doit consulter les autres actionnaires du payeur avant de prendre une décision concernant les opérations du payeur;
+t) le payeur n'offre aucun avantage social à ses employés, y compris à l'appelant;
+u) l'appelant utilise sa propre voiture dans le cadre de son travail et en assume les frais encourus;
+v) à l'exception du véhicule, le payeur fournit à l'appelant tout le matériel et les équipements requis par son travail;
+w) l'appelant est tenu de rendre lui-même les services; il ne pouvait se faire remplacer dans ses tâches;
+x) l'appelant recevait une rémunération fixe de 525 $ par semaine, par dépôt direct;
+y) les tâches accomplies par l'appelant sont essentielles à la bonne marche des opérations du payeur.
+[7] Tous les faits ont été admis, à l'exception de l'alinéa 5 w), où il a été indiqué que les appelants étaient les seuls à pouvoir se remplacer dans les tâches qui leur étaient assignées.
+[8] Pour bien situer le débat, j'ai expliqué aux appelants et à leur représentant ce qu'ils devaient établir pour avoir gain de cause. J'ai notamment beaucoup insisté sur le fait qu'ils devaient faire une nette distinction entre leur statut d'actionnaire et celui de dirigeant ou de patron de l'entreprise qui travaillaient pour la société dont ils étaient actionnaires.
+[9] À la lecture de l'avis d'appel, il était évident que les appelants ne faisaient pas la nuance entre leurs droits et obligations à titre d'actionnaires et ceux à titre d'employés de la société. Ce constat découle tout particulièrement des éléments suivants de l'avis d'appel :
+- Ils sont le principaux administrateurs et actionnaires et ce sont eux qui prennent toutes les décisions concernant les sociétés.
+- Qu'ils fassent une semaine de travail de 15 hre ou de 40 hre, ils prennent le même salaire.
+- S'ils ne travaillent pas durant un mois, ils prennent le même salaire.
+- Ils cautionnent la totalité des dettes des sociétés.
+- C'est eux qui prennent l'entière responsabilités et les risques.
+- Ils ont le pouvoir de décision s'ils veulent se voter un bonis à la fin de l'année.
+- C'est eux qui signent les chèques.
+- Ils sont en devoir 24 hre sur 24.
+- S'ils ne sont pas là, les sociétés n'ont pas leur raison d'être.
+- Il n'y a aucune relation employé-employeur.
+- C'est eux qui décident de leur horaire de travail.
+- De plus, s'ils faisaient une demande de chômage, ils ne pourraient en avoir.
+[10] La preuve à l'appui des appels a été principalement constituée par le témoignage de Mario Bolduc. Il a expliqué le travail qu'il exécutait, ainsi que l'implication de ses collègues, Daniel Harvey et Réjean Lavoie.
+[11] Il a insisté sur le fait qu'ils étaient les seuls à assumer des risques et qu'ils avaient dû, à plusieurs reprises, réinvestir dans l'entreprise tout en devant cautionner tous les emprunts nécessaires à l'exploitation et au développement de l'entreprise.
+[12] Il a également insisté sur l'excellente collaboration qui existait entre eux, ajoutant que les forces, les compétences et les affinités de chacun étaient mises à contribution, certains ayant plus d'aisance dans l'exécution de certaines tâches que d'autres. Il s'est exprimé comme suit : « On va chercher les forces et le meilleur de chacun. »
+[13] À quelques reprises, il a fait la comparaison avec un couple pour expliquer qu'il y avait, à l'occasion, des discussions viriles où tout le monde se parlait sans détour. Tous trois détenant le même pourcentage d'actions, ils discutaient et négociaient pour prendre finalement les décisions dans un climat de consensus, mais à la majorité, et le dissident se conformait à la décision prise.
+[14] Il a indiqué qu'il existait un climat de collaboration et de respect dans le contexte d'un intérêt commun dont l'objectif omniprésent était la plus grande rentabilité possible avec une vision de développement et de consolidation pour l'avenir.
+[15] Malgré la très grande confiance et le climat de collaboration qui existaient, monsieur Bolduc a expliqué qu'il existait certaines règles et normes pour garantir l'efficacité et la bonne marche de l'entreprise. Concrètement, chacun avait une responsabilité égale lors de la prise de décision sur des questions importantes; il y avait des discussions, des délibérations et des décisions. Pour certains aspects plus secondaires, moins importants, chacun avait une relative autonomie.
+[16] Ainsi, lorsque le montant d'un chèque était supérieur à 500 $, une deuxième signature était requise. À l'occasion, il a spécifié qu'ils se parlaient très sérieusement. Pour ce qui est de l'organisation du travail, chacun avait ses responsabilités, et des échanges intervenaient régulièrement pour permettre et assurer un suivi serré de la situation. À titre d'exemple, chacun avait sa période de garde pour assurer la continuité totale dans les opérations.
+[17] Au-delà de toutes les explications, l'appelant ne se considérait pas comme un salarié; il se considérait comme actionnaire, entrepreneur, dirigeant, patron, propriétaire. Il a d'ailleurs spécifiquement affirmé qu'il ne pensait pas comme un employé, mais comme un employeur. Il a aussi soutenu qu'un employé n'avait pas la vision nécessaire pour planifier à long terme. Selon l'appelant, la vision et l'intérêt d'un employé sont diamétralement différents de ceux d'un patron. En bref, l'appelant semblait croire qu'un salarié devait exécuter du travail essentiellement physique, alors que le travail d'administrateur, de dirigeant ou de patron investisseur ne pouvait pas être exécuté dans le cadre d'un contrat de louage de services.
+[18] À ce stade, je me dois de rappeler qu'une société est une personne morale totalement distincte des actionnaires qui la dirigent et la contrôlent par le biais des actions qu'ils détiennent.
+[19] Pour analyser et déterminer la nature d'un contrat de travail lorsqu'un actionnaire exécute du travail qui s'inscrit dans la vocation commerciale de l'entreprise, il est essentiel de faire une distinction nette entre les faits et gestes exécutés comme actionnaire et ceux effectués dans le cadre des activités commerciales de l'entreprise, bien que cela ne soit pas nécessairement facile.
+[20] Un contrat de louage de services entre des personnes qui n'ont aucun lien de dépendance entre elles est un acte juridique qui peut comprendre une grande souplesse dans l'expression des droits et des obligations des parties impliquées. Certes, il ne peut y avoir d'arrangement dans le but de contrecarrer les dispositions de la Loi. Il doit s'agir d'un contrat véritable où la présence des composantes essentielles est réelle. Je fais notamment référence à la prestation de travail et à la rémunération qui en découle.
+[21] Pour déterminer s'il y a un contrat de louage de services, il faut alors prendre en considération tous les faits relatifs à ce travail, le contexte et la modalité d'exécution.
+[22] Depuis les affaires Montreal Locomotive Works Ltd v. McDonnaugh (1920), 61 S.C.R. 232etWiebe Door c. Canada, [1985] 3 C.F. 553, les tribunaux lorsqu'il faut identifier la nature du contrat, vérifient l'application de quatre critère, soit le pouvoir de contrôle, la chance de profit et le risque de pertes, la propriété des outils et l'intégration.
+[23] De ces quatre critères, le plus important, pour ne pas dire l'essentiel, est le pouvoir de contrôle à l'origine du lien de subordination qui doit exister dans une relation employeur-employé. Il n'est pas nécessaire que ce pouvoir soit utilisé, mais il est impératif que celui ou celle qui en est le titulaire n'y ait pas renoncé.
+[24] En l'espèce, la principale difficulté est le fait que les appelants confondent totalement leur statut d'employés de la société avec leur statut d'actionnaires de ladite société. Un gestionnaire, un visionnaire, un contremaître, un directeur général, un gérant général, etc., peuvent très bien exécuter leur travail dans le cadre d'un contrat de louage de services s'ils doivent répondre de leurs faits et gestes exécutés dans le cadre de leur travail.
+[25] La preuve a révélé que la société payeuse avait établi certaines règles (signature de deux personnes sur les chèques de plus de 500 $, période de garde, occupation particulière à chacun, rémunération dont le montant avait été fixé d'avance). Le fait que ces éléments aient été prévus dans un climat d'harmonie et de collaboration ne change en rien la réalité de la société, une personne morale distincte.
+[26] Dans l'hypothèse d'un comportement répréhensible ou inacceptable, il n'y a aucun doute que la société aurait alors sévi et apporté les correctifs appropriés. Il est évident que la personne fautive aurait alors exprimé son désaccord et sa frustration, mais la majorité l'aurait emporté et le fautif aurait alors dû se corriger ou quitter la société. Dans une telle hypothèse, la personne concernée aurait perdu son statut d'employé, mais possiblement conservé son statut d'actionnaire.
+[27] Dans l'affaire Roxboro Excavation Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 32, j'affirmais ce qui suit. Il s'agit là de divers éléments qui m'apparaissent toujours très pertinents et qui font que les appels doivent être rejetés.
+8 Il a été établi que chacun des frères Théorêt avait une responsabilité précise et définie au sein de la compagnie Roxboro. Chacun des intervenants y consacrait la majeure partie de sa disponibilité, étant aussi marginalement impliqué dans la bonne marche des autres compagnies.
+9 À l'intérieur de leurs responsabilités respectives, les frères Théorêt étaient assez autonomes et dirigeaient assez librement leur domaine d'activités propres. Ils n'avaient pas à demander de permission pour décider de leur période de vacances; ils pouvaient s'absenter sans avoir de compte à rendre à qui que ce soit. Ils recevaient chacun sensiblement le même salaire dont une partie était payée par chèque hebdomadaire d'un montant égal et consécutif; l'autre partie de la rémunération était payée au moyen d'un bonus dont le montant variait en fonction de la performance financière de la compagnie Roxboro et/ou des autres compagnies.
+[...]
+18 La pierre angulaire de ce dossier est essentiellement de savoir s'il existait en 1996, un lien de subordination entre la compagnie qui payait la rémunération et les intervenants. En d'autres termes, la compagnie avait-elle le pouvoir de contrôler et d'intervenir sur le travail exécuté par les frères Théorêt?
+19 À cet égard, je crois important de rappeler que les tribunaux ont souvent répété qu'il n'était pas obligatoire ou nécessaire que le pouvoir de contrôler se soit manifesté dans les faits; en d'autres termes, un employeur qui n'exerce pas son droit de contrôle ne perd pas pour autant ce pouvoir tout à fait essentiel pour l'existence d'un contrat de louage de services.
+20 Le pouvoir de contrôle ou le droit d'intervention sur l'exécution d'un travail s'avère être la principale constituante du lien de subordination à l'origine d'un véritable contrat de louage de services.
+[...]
+22 Il est alors essentiel de faire une distinction très nette entre les faits et gestes exécutés ès-qualité d'actionnaires et/ou d'administrateurs et ceux effectués à titre de travailleurs ou d'exécutants. En l'espèce, cette démarcation est particulièrement importante.
+23 Bien que la jurisprudence ait identifié quatre critères pour faciliter la qualification d'un contrat de travail, le critère relatif au pouvoir de contrôle est le plus important; il est même essentiel.
+[...]
+25 Ce pouvoir de contrôler l'exécution du travail est à l'origine du lien de subordination tout à fait fondamental pour l'existence d'un contrat de louage de services au sens de la Loi sur l'assurance-chômage.
+[...]
+28 Y avait-il un lien de subordination entre les intervenants et la compagnie dans et pour l'exercice du travail qu'ils accomplissaient à l'intérieur de leur mission respective? Je crois que la compagnie, qui chapeautait le travail exécuté par les frères Théorêt, avait pleinement le droit et le pouvoir d'intervention. Le fait que la compagnie n'ait pas exercé ce pouvoir de contrôle et le fait que ceux qui exécutaient et réalisaient le travail ne se croient pas assujettis à un tel pouvoir de contrôle et ne se sentent pas subordonnés dans et lors de l'exécution de leur travail n'ont pas pour effet de faire disparaître, réduire ou limiter le pouvoir d'intervention.
+[...]
+30 Je ne crois pas qu'il soit objectivement raisonnable d'exiger une rupture totale et absolue entre les responsabilités découlant du statut d'actionnaires et celles découlant du statut de travailleurs. Le cumul des deux chapeaux crée normalement, ce qui est tout à fait légitime, une plus grande tolérance, flexibilité dans les rapports découlant des deux fonctions. L'amalgamation des deux tâches génère cependant des effets qui sont souvent contraires aux exigences d'un véritable contrat de louage de services.
+31 En l'espèce, le fait que l'autorité ne semblait pas opposable aux frères Théorêt et le fait que les décisions ayant trait à la compagnie étaient prises dans le consensualisme et la collégialité n'enlevaient pas pour autant à la compagnie son autorité sur le travail exécuté par les intervenants. La preuve n'a pas démontré que la compagnie avait renoncé à son pouvoir d'intervention ou que ce droit avait été soit réduit, soit limité ou même annulé.
+[28] L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI630
+NosDES DOSSIERS DE LA COUR :
+2004-255(EI); 2004-256(EI); 2004-259(EI)
+INTITULÉ DES CAUSES :
+Mario Bolduc, Daniel Harvey et Réjean Lavoie
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 25 août 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 21 septembre 2004
+COMPARUTIONS :
+Représentant des appelants :
+Alain Picard
+Avocate de l'intimé:
+Me Emmanuelle Faulkner
+AVOCAT INSCRIT AUX DOSSIERS :
+Pour les appelants :
+Nom :
+Étude :
+Ville :
+Me Guy Cavanagh
+Cavanagh & Almeida
+New Richmond (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

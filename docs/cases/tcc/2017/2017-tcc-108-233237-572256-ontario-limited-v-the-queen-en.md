@@ -1,0 +1,141 @@
+---
+title: "572256 Ontario Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/233237/index.do"
+last_modified: "2017-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 108"
+citation2: ""
+neutral_citation: "2017 TCC 108"
+decision_date: "2017-06-09"
+language: "en"
+item_id: "233237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2114
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:19:58.638000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "419ca9f916dec9ac50433960935cb7ec6289bdc9c13c9717fa1ca9f3c8e87937"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 572256 Ontario Limited v. The Queen
+
+- Citation: 2017 TCC 108
+- Decision date: 2017-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2114, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+572256 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-09
+Neutral citation
+2017 TCC 108
+File numbers
+2015-4326(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-4326(GST)I
+BETWEEN:
+572256 ONTARIO LIMITED.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 10 and oral decision rendered on May 11, 2017
+at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Donald AC Stewart
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the reporting period from April 1, 2013 to June 30, 2013 is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of June 2017.
+“B.Paris”
+Paris J.
+Citation: 2017 TCC 108
+Date: 20170609
+Docket: 2015-4326(GST)I
+BETWEEN:
+572256 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The issue in this appeal is whether the Appellant is entitled to input tax credits (“ITCs”) in the amount of $685.68 in respect of HST paid by a company named SVO-Phase Two Management Inc. (“SVO”) during the Appellant’s reporting period from April 1, 2013 to June 30, 2013. According to the Appellant, SVO was at all times acting as its agent or bare trustee and the HST paid by SVO related to the Appellant's own commercial activities.
+[2] The Minister of National Revenue (the “Minister”) disallowed the claim on the grounds that the Appellant did not provide proof of the agency or trust relationship between SVO and the Appellant.
+Facts [3] The Appellant’s shareholder, Mr. Donald AC Stewart, was the only witness at the hearing. He testified that the Appellant was the owner of two commercial rental buildings which formed part of a 16 building common–law strata complex constructed in the mid-1980s. The other buildings in the complex were owned by various individuals or companies, and certain common areas were owned together by all of the owners as tenants-in-common. The buildings were the subject of a co-tenancy agreement between all of the owners. The original co‑tenancy agreement was entered into in or around 1986, and a revised agreement was signed by the owners in October 2007.
+[4] Mr. Stewart produced a copy of an unsigned management agreement in respect of all of the buildings and common property dated May 6, 1986 between the owners and Collins Barrow Consultants Ltd. The evidence showed that Collins Barrow Consultants Ltd. subsequently changed its name to SVO-Phase Two Management Inc. and that the management agreement has continued in force between the parties up to the present.
+[5] According to the management agreement, SVO agreed to manage the maintenance and upkeep of all of the exterior elements of the buildings in the complex, as well as the common areas including the parking area, as agent for all of the owners. The owners paid their proportionate share of all of the expenses incurred by SVO on their behalf, including HST, and also paid a management fee to SVO.
+[6] Mr. Stewart testified that SVO was not set up to make a profit and that any excess funds it had at the end of the year formed part of a reserve fund belonging to the building owners. Mr. Stewart also testified that SVO was not a registrant under the Excise Tax Act and therefore had never claimed any ITCs for GST or HST paid in respect of any of the services that it contracted for on behalf of the owners. It was reimbursed by the owners for the GST or HST along with the actual cost of the services. The owners, such as the Appellant, then claimed ITCs relating to GST or HST reimbursed to SVO.
+[7] The relationship between SVO and the owners was complicated, at least for the purposes of this appeal, by the fact that SVO had, in or around 1995, acquired the parking area that formed part of the complex. Prior to this point, the parking area was owned by the original developer of the complex. The developer also owned two of the buildings. By the early 1990s, the developer was in financial difficulties and the remaining owners decided it would be in their interest to acquire the parking area from him. It was agreed that SVO would buy the property with funds contributed by the owners. Mr. Stewart says that a trust agreement was drawn up providing that SVO would hold legal title and that the owners would have beneficial ownership of the property. Unfortunately, he was unable to locate a copy of the trust agreement for this hearing.
+[8] Mr. Stewart also testified that SVO was responsible for the upkeep and maintenance of the parking areas along with the rest of the common property and building exteriors. I infer from his testimony that the expenses incurred by SVO in relation to the maintenance and upkeep of the parking areas were treated in the same fashion as the other expenses incurred on behalf of the owners.
+Decision [9] The Respondent argues that there is insufficient evidence as to the existence of a bare trust or agency relationship between SVO and the owners, and that therefore it cannot be said that the expenses incurred by SVO were related to the commercial activities of the owners including the Appellant rather than of SVO itself.
+[10] I disagree. I accept that the management agreement produced by the Appellant at the hearing was in effect during the reporting period in issue and that it created an agency relationship between the owners (including the Appellant) and SVO. The agreement specifically states (at paragraph 2) that SVO “agrees as an agent of the Owners to enter into such contracts as are necessary for the upkeep and maintenance of the buildings and common property.” SVO was also entitled to be fully reimbursed for the amount it expended on behalf of the owners. As I indicated at the hearing, it is regrettable that the Appellant was not able to provide a copy of the agreement to the Respondent before the hearing. However I have no concerns about the authenticity of the agreement that was finally produced.
+[11] With respect to the question of whether a bare trust exists in relation to the parking area acquired by SVO, I am prepared to except Mr. Stewart's testimony that the trust agreement was entered into at the time the parking area was purchased. I find it more likely than not that the owners only intended SVO to acquire legal title, given that they, the owners, provided the funds for the purchase. Again it is unfortunate that Mr. Stewart has been unable to find a copy of the agreement but I accept his testimony concerning the existence of the agreement.
+[12] The Respondent argued that the Appellant has not shown that the trust was a bare trust, and suggested that the degree of control and discretion that SVO exercised over the parking area was inconsistent with a bare trust arrangement.
+[13] To my mind, however, SVO did not have any discretion, independent power or control over the parking area that would negate existence of a bare trust. The operation of the parking area was subject to the control of the owners, as evidenced in the management agreement which set out the responsibilities of SVO. The description of the property subject to the agreement is set out in the first paragraph of the agreement, and includes the parking area. Thus, any management duties or responsibilities that SVO may have had concerning the parking area flowed from the management agreement and not the trust agreement.
+[14] The following passage from Scott, The law of Trusts, 4th ed. 1987, as cited by Lamarre J. (as she then was) in De Mond Jr. v. The Queen, 1999 CanLII 466 at paragraph 37, describes the situation where a party acts as a trustee as well as agent, and is, I think applicable to the facts here.
+An agent acts for, and on behalf of, his principal and subject to his control; a trustee as such is not subject to the control of his beneficiary, although he is under a duty to deal with the trust property for the latter's benefit in accordance with the terms of the trust, and can be compelled by the beneficiary to perform this duty. The agent owes a duty of obedience to his principal; a trustee is under a duty to conform to the terms of the trust [Vol. 1, p. 88].
+…
+A person may be both agent of and trustee for another. If he undertakes to act on behalf of the other and subject to his control he is an agent; but if he is vested with the title to property that he holds for his principal, he is also a trustee. In such a case, however, it is the agency relation that predominates, and the principles of agency, rather than the principles of trust, are applicable [Vol. 1, p. 95].
+[15] In this case, I find that the agency relationship between SVO and the owners, including the Appellant, predominates and that SVO was acting as the owners’ agent in entering into the contracts for maintenance and upkeep of the building exterior and common areas including the parking areas. Therefore I find that the HST giving rise to the ITC in issue related to the commercial activities of the Appellant. For these reasons the appeal is allowed and the matter is referred back to the Minister for reassessment on the basis that the Appellant is entitled to ITCs of $685.68 for the reporting period from April 1 2013 to June 30, 2013.
+Signed at Ottawa, Canada this 9th day of June 2017.
+“B.Paris”
+Paris J.
+CITATION:
+2017 TCC 108
+COURT FILE NO.:
+2015-4326(GST)I
+STYLE OF CAUSE:
+572256 ONTARIO LIMITED AND HER MAJESTY THE QUEEN
+PLACE AND DATES OF HEARING:
+Toronto, Ontario
+May 10 & 11, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+June 9, 2017
+APPEARANCES:
+Agent for the Appellant:
+Donald AC Stewart
+Counsel for the Respondent:
+Derek Edwards
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

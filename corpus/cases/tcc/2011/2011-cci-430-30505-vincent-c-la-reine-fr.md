@@ -1,0 +1,140 @@
+---
+title: "Vincent c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30505/index.do"
+last_modified: "2011-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 430"
+citation2: ""
+neutral_citation: "2011 CCI 430"
+decision_date: "2011-09-20"
+language: "fr"
+item_id: "30505"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7245
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:37:43.943000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6bf4981c410df7de6a6e0cb7d943a348883f550feec0720228cc69a134459d75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vincent c. La Reine
+
+- Citation: 2011 CCI 430
+- Decision date: 2011-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7245, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vincent c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-20
+Référence neutre
+2011 CCI 430
+Numéro de dossier
+2008-4199(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-4199(IT)I
+ENTRE :
+MADELINE VINCENT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 septembre 2011, à Timmins (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Gordon Bourgard
+Me April Tate
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour d’octobre 2011.
+Marie-Christine Gervais
+Référence : 2011 CCI 430
+Date : 20110920
+Dossier : 2008-4199(IT)I
+ENTRE :
+MADELINE VINCENT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante Madeline Vincent fait appel de la nouvelle cotisation établie par le ministre du Revenu national pour l’année d’imposition 2006. Mme Vincent fait partie des nombreux employés de Native Leasing Services, une entreprise individuelle exploitée par Roger Obonsawin. M. Obonsawin est un Indien inscrit.
+[2] En 2006, Native Leasing Services avait son siège social dans la réserve des Six nations de la rivière Grand, en Ontario. Native Leasing Services engageait des Indiens inscrits qu’elle plaçait dans des entreprises et des organisations dans l’ensemble du Canada. Native Leasing Services déduisait du salaire des employés des frais pour ses services de placement. Comme le montrent les nombreux cas relatifs aux appels faits par des employés de Native Leasing Services, le but de cet arrangement était de permettre aux employés de demander une exemption de taxation à l’égard de leur revenu d’emploi en vertu de l’alinéa 87(1)b) de la Loi sur les Indiens et de l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu. Malheureusement, bien des employés qui ont accepté d’être engagés par Native Leasing Services n’étaient pas au courant de cette manœuvre frauduleuse ni de la loi régissant l’assujettissement à l’impôt de leur revenu hors réserve. En raison de cette situation, nombre d’entre eux se sont retrouvés, depuis, aux prises avec un avis d’imposition inattendu et n’ont pas reçu d’aide de leur ancien employeur, Native Leasing Services.
+[3] Mme Vincent s’est représentée elle-même à l’audience de son appel et a été la seule à témoigner pour son propre compte. Ont été appelés à témoigner pour l’intimée Cindy Bernard et Jack Solomon. En 2006, Mme Bernard était agente des finances pour le Centre d’accueil Ininew; M. Solomon y travaillait aussi comme agent de liaison pour les détenus autochtones. Ce dernier agit maintenant à titre de directeur exécutif du Centre d’accueil Ininew. Tous les témoins étaient crédibles et leurs témoignages ne présentaient pas de contradictions manifestes.
+[4] En 2006, Mme Vincent travaillait pour Native Leasing Services et était placée au Centre d’accueil Ininew, qui était situé sur une terre hors réserve à Cochrane, en Ontario. Le fait que son revenu d’emploi faisait partie des « biens meubles d’un Indien » au sens de l’alinéa 87(1)b) de la Loi sur les Indiens n’est pas contesté. La seule question en litige est de savoir si le lien entre l’emploi de Mme Vincent et une réserve est suffisant pour que cet emploi soit considéré comme « situé sur une réserve » en vertu de cette disposition et que, de cette façon, il soit exonéré d’impôt en vertu de l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu.
+[5] La détermination de ce lien dépendra des faits particuliers de chaque cas. L’approche à privilégier a été exposée par la Cour suprême du Canada dans l’arrêt Williams c. Canada, [1992] 1 R.C.S. 877, aux pages 899 et 900 :
+Dans le contexte de l’exemption fiscale prévue dans la Loi sur les Indiens, il y a trois facteurs importants : l’objet de l’exemption, la nature du bien en question et l’incidence fiscale sur ce bien. Compte tenu de l’objet de l’exemption, il s’agit, en fin de compte, de déterminer dans quelle mesure chaque facteur est pertinent pour décider si le fait d’imposer d’une certaine manière ce type de bien particulier porterait atteinte au droit d’un Indien à titre d’Indien de détenir des biens personnels sur la réserve.
+[6] En résumé, les facteurs de rattachement comprennent l’emplacement de l’employeur; le lieu et la nature du travail de l’employé, y compris tout avantage qu’en tire la réserve; et le lieu de résidence de l’employé[1].
+[7] Dans la présente affaire, Mme Vincent vivait dans la réserve de la Première nation de New Post, située à environ 30 minutes de Cochrane. Chaque jour, elle se rendait au Centre d’accueil Ininew où elle était employée comme travailleuse en soins prénatals et postnatals pour enseigner aux jeunes mères autochtones de saines habitudes de vie. Bien que, de temps à autre, un nombre indéterminé de ses clientes puissent avoir vécu dans une réserve, la plupart d’entre elles étaient de jeunes femmes autochtones vivant hors réserve. En fait, selon la preuve, la mission du Centre d’accueil Ininew était de fournir des [traduction] « services répondant aux besoins déterminés en matière de soins prénatals et postnatals chez les mères ainsi que du soutien pour améliorer la santé des mères autochtones et de leurs bébés âgés de zéro à six mois qui vivent hors réserve[2] ». [Non souligné dans l’original.]
+[8] Mme Vincent accomplissait normalement son travail à l’extérieur du Centre d’accueil Ininew de Cochrane. Ses responsabilités incluaient la prestation de conseils relatifs à la prévention du syndrome d’alcoolisme fœtal, aux pratiques sexuelles sans risque, à la nutrition et à l’exercice. Les programmes étaient financés par Santé Canada. Mme Vincent effectuait également des visites à domicile et accompagnait ses clientes dans les magasins à Cochrane pour les aider à développer des habiletés pour faire l’épicerie. Lorsque ses responsabilités l’amenaient à faire des sorties à Cochrane et dans la région, elle était remboursée de ses frais de déplacement par le Centre d’accueil Ininew.
+[9] Cependant, en plus des programmes dont elle avait la charge au Centre d’accueil Ininew, Mme Vincent dispensait également, de façon occasionnelle, des cours en soirée au centre de santé situé dans la réserve de la Première nation de New Post. Aucune entente officielle n’existait pour la prestation des services offerts par Mme Vincent entre Native Leasing Services, le Centre d’accueil Ininew ou le centre de santé de la Première nation de New Post. Il semble plutôt que ces cours aient été offerts à l’occasion, en partie pour rendre service aux jeunes femmes autochtones incapables de se rendre au Centre d’accueil Ininew pendant les heures normales d’ouverture et en partie parce que cela convenait à Mme Vincent, qui vivait dans la réserve. Mme Vincent ne recevait aucun salaire pour son travail en soirée, mais elle avait une entente informelle avec le Centre d’accueil Ininew selon laquelle elle pouvait commencer sa journée de travail plus tard le jour suivant si elle avait eu un cours le soir précédent. Elle n’était remboursée d’aucuns frais de déplacement relatifs à un quelconque travail réalisé dans la réserve de la Première nation de New Post.
+[10] On ne trouve pas de magasins ou d’autres entreprises commerciales dans la réserve de la Première nation de New Post; Mme Vincent a reconnu volontiers qu’elle n’aurait pu dépenser aucune partie de son revenu d’emploi à cet endroit.
+[11] Eu égard à toutes les circonstances, la preuve ne permet pas de conclure qu’il y avait un lien suffisant entre le travail de Mme Vincent au Centre d’accueil Ininew et une réserve pour que son revenu soit exonéré d’impôt. Le fait que son employeur et elle-même se trouvaient dans une réserve ne l’emporte pas sur le fait que l’essentiel de son travail était de fournir des services dans un emplacement hors réserve à des femmes autochtones vivant hors réserve. En outre, je ne suis pas convaincue que, parmi les fonctions exercées par Mme Vincent au Centre d’accueil Ininew, beaucoup aient été accomplies dans la réserve de la Première nation de New Post; dans la mesure où Mme Vincent y aidait les jeunes femmes, il semble plus probable qu’elle ait agi par altruisme plutôt que par obligation envers son employeur. De son revenu, rien n’a été réinvesti à la réserve de la Première nation de New Post.
+[12] Le seul argument présenté par Mme Vincent relativement à la position prise par l’Agence du revenu du Canada a été que, à titre d’Indienne inscrite au sens de la Loi sur les Indiens, elle n’était tout simplement pas tenue de payer de l’impôt au gouvernement du Canada, ce qui n’est cependant pas un énoncé correct du droit. Comme elle ne s’est pas acquittée de l’obligation qui lui incombait de prouver que son revenu était exonéré d’impôt, Mme Vincent ne peut avoir gain de cause dans son appel. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour d’octobre 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 430
+NO DU DOSSIER DE LA COUR : 2008-4199(IT)I
+INTITULÉ : MADELINE VINCENT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Timmins (Ontario)
+DATE DE L’AUDIENCE : Le 12 septembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 20 septembre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Gordon Bourgard
+Me April Tate
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Shilling c. Ministre du Revenu national, [2001] 4 C.F. 364.
+[2] Pièce R-1.

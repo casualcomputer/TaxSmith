@@ -1,0 +1,242 @@
+Title: Therrien v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26994/index.do
+Corpus path: corpus/cases/tcc/2005/2004-tcc-791-26994-therrien-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-01-07
+
+# Therrien v. The Queen
+
+- Citation: 2004 TCC 791
+- Decision date: 2005-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 539, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-07
+Neutral citation
+2004 TCC 791
+File numbers
+2001-4618(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4618(IT)I
+BETWEEN:
+DENIS THERRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Gérald Therrien (2001-4619(IT)I) on July 13, 2004, in Sherbrooke, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act,notice of which is dated December 28, 2001 and bears number 18564, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of January 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 7th day of September 2005.
+Julie Poirier, Translator
+Docket: 2001-4619(IT)I
+BETWEEN:
+GÉRALD THERRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Denis Therrien (2001-4618(IT)I) on July 13, 2004, in Sherbrooke, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Richard Généreux
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated December 28, 2001 and bears number 18561, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of January 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 7th day of September 2005.
+Julie Poirier, Translator
+Citation: 2004TCC791
+Date: 20050107
+Docket: 2001-4618(IT)I
+BETWEEN:
+DENIS THERRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+2001-4619(IT)I
+GÉRALD THERRIEN
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+ParisJ:
+[1] The two appellants are appealing an assessment made by the Minister of National Revenue ("the Minister") on April 5, 2001, pursuant to subsection 160(2) of the Income Tax Act ("the Act").[1] The Minister assessed each of the appellants for $9,500 in respect of dividends that they received from Les Habitations Pierre Therrien Inc. ("the company") on the basis that the company had a tax liability under the Act at the time that it paid those dividends. The appeals were heard on common evidence.
+[2] The issues are as follows:
+1. What was the amount of the company's tax liability at the time that the dividends were paid out?
+2. Was the company's alleged tax liability overestimated due to errors made by the Minister in reassessing the company for the taxation years 1991 to 1994 when it computed the income and expenses and allocated non-capital losses carried back from the 1995 taxation year?
+3. Is the Minister bound by the settlement offer that it made to the company, pursuant to which it would reduce the amount owing for the years in question, even though the company declined the offer?
+4. Did the appellants provide consideration for the payment of the dividends?
+Preliminary motion
+[3] Counsel for the appellants has brought a preliminary motion asking that the appeals be allowed and the assessments set aside. The basis for the motion is a letter by the Minister dated October 9, 2001, and attached to the notice confirming each appellant's assessment. Counsel submits that the Minister made an admission of fact in the letter ¾ specifically, that the company's tax liability had been paid in full and that the appellants' obligation under subsection 160(1) of the Act was discharged. He also claims that the respondent admitted this fact in paragraph 5 of the Reply to the Notice of Appeal.
+[4] The said letter of October 9, 2001, states as follows:
+[TRANSLATION]
+RE: Objection to Notice of Assessment No. 18564
+dated April 5, 2001
+Dear Sir:
+This is to advise you that the above-referenced objection has been considered and that, as recently agreed, we are are hereby confirming the assessment made on April 5, 2001, in accordance with subsection 165(3) of the Income Tax Act.
+However, since the above-cited notice of assessment was issued under subsection 160(2) of the Income Tax Act, and payment in full has been received, that payment discharges your obligation in accordance with subsection 160(3) of the Act.
+[5] In paragraph 5 of each Notice of Appeal, the appellants submit as follows:
+[TRANSLATION]
+In addition, in a letter to the appellant dated October 9, 2001, the Minister stated that he received payment in full and that such payment discharged the appellant's liability in accordance with subsection 160(3) of the Income Tax Act;
+[6] At paragraph 5 of each of the Replies to the Notice of Appeal, the respondent states:
+He admits paragraph 5 of the Notice of Appeal.
+[7] Counsel for the the appellants relies on the principles of legitimate expectation, estoppel and fin de non-recevoir. However, it is clear that the doctrine of estoppel is not known to Quebec civil law and that it cannot be applied in a dispute in this province. For the following reasons, I conclude that the other two theories do not apply to the case at bar either.
+[8] First of all, and contrary to the submissions by counsel for the appellants, the evidence shows that the statement that the Minister received full payment of the company's debt was a mere administrative error. Jean-Claude Fontaine, the director of appeals with the Canada Customs and Revenue Agency who wrote the letter that was included with the notice confirming the assessment of the company, testified that he used the incorrect template for the letter. The notices of confirmation state that the assessments of each appellant were in keeping with the provisions of the Act. In addition, the statement of account concerning the company's debt (appellants' Exhibit A-12) clearly shows that the company still owed $26,132.01 in respect of the 1991 to 1994 taxation years.
+[9] Furthermore, I do not believe that the respondent admitted, in the Reply to the Notice of Appeal, that the debt had been paid and that such payment discharged the appellants' liability under subsection 160(3) of the Act. Rather, the respondent was admitting that the Minister had sent a letter dated October 9, 2001, to each of the appellants, stating what the appellants were claiming. Under no circumstances can the admission formulated by the respondent in paragraph 5 of both Notices of Appeal be construed as an admission that payment of the debt had been received in full and discharged the appellants' liability.
+[10] In any event, it is difficult to envisage how the doctrine of legitimate expectation could apply to the case at bar. Let us put the doctrine in its context. It is part of the rules of procedural fairness and attaches [TRANSLATION] "to the conduct of a public authority in the exercise of a discretion."[2] It is a procedural principle, and creates no substantive rights. The Supreme Court has held that the doctrine of legitimate expectations
+. . . affords a party affected by the decision of a public official an opportunity to make representations in circumstances in which there otherwise would be no such opportunity. The court supplies the omission where, based on the conduct of the public official, a party has been led to believe that his or her rights would not be affected without consultation. . . .
+and that "[w]here it is applicable, it can create a right to make representations or to be consulted."[3]
+The doctrine is not a basis for granting substantive rights; this was confirmed once again by the Supreme Court in Mt. Sinai.[4]
+[11] There are several reasons that this doctrine does not apply to the instant case. First of all, the act of assessing the appellants is not discretionary. Rather, it is one of the Minister's duties, and the doctrine cannot override the Act.[5] Secondly, the procedural fairness of assessments is guaranteed by the procedures set out in the Act, which enable any taxpayer to contest an assessment. By filing an appeal in this Court, the appellants availed themselves of these procedural rights. Lastly, the doctrine contemplates administrative action giving rise to reasonable expectations of fair procedure before the contested decision is made. It makes no sense to posit that the representation contained in the letter of October 9, 2001, which was written after the assessments were issued, could have given rise to an expectation on the appellants' part with respect to the procedure that the Minister would follow in issuing the assessments.
+[12] Although counsel for the appellants also invoked the doctrine of fin de non-recevoir, he did not refer to the elements necessary for its application. In Banque Nationale du Canada v. Soucisse[6] Beetz J., at paragraph 62, cites the definition articulated by Lemerle in Traité des fins de non recevoir (Nantes, 1819, at paragraphs 2-3):
+[TRANSLATION] Fins de non-recevoir are peremptory exceptions by which a litigant can have an action dismissed without discussion of its merit; and peremptory exceptions are grounds for exclusion of the action so complete that they extinguish that action.
+[13] In addition, at paragraph 59, Beetz J. refers to Pothier's description of fins de non-recevoir in Traitédes obligations:
+[TRANSLATION] Fins de non-recevoir against debts consist of certain causes which prevent a creditor from coming to court to enforce his claim.
+[14] As I have said, counsel for the appellants gives no reason that would prevent the Minister from requiring payment of the company's tax debt, but, in support of a request to this effect, he appears to be claiming that the conduct of the Minister's representatives in the case at bar violated their obligation under article 1457 of the Civil Code of Québec[7] (formerly article 1053) and that this violation gives rise to a fin de non-recevoir.
+[15] Article 1457 C.C.Q. is worded as follows:
+Every person has a duty to abide by the rules of conduct which lie upon him, according to the circumstances, usage or law, so as not to cause injury to another.
+Where he is endowed with reason and fails in this duty, he is responsible for any injury he causes to another person by such fault and is liable to reparation for the injury, whether it be bodily, moral or material in nature.
+He is also liable, in certain cases, to reparation for injury caused to another by the act or fault of another person or by the act of things in his custody.
+[16] To succeed in their request, the appellants must show that the Minister or his officers engaged in conduct that constitutes fault and that the appellants suffered damage as a result of that conduct. Even if I find that the representation made in the letter of October 9, 2001, to the effect that the company's debt was paid, amounts to a fault, the evidence that the representation caused damage is lacking. There is no indication that the appellants acted on the letter's contents to their detriment. The fact that they proceeded with their appeals before the Court indicates the contrary.
+[17] The preliminary motion is accordingly dismissed.
+What was the amount of the company's tax liability for the years during which it paid out the dividends to the appellants?
+[18] The appellants contest the amount of the tax debt that the company owed the respondent at the time that the dividends were paid. Their counsel refers to GestionYvan Drouin Inc. v. Her Majesty the Queen,[8] which addresses, to some extent, the question of who has the onus of proving the amount of the transferor's tax debt in an assessment under section 160. The Court stated as follows at paragraph 114:
+Since it is the Minister who takes measures against a third party to recover the tax owed to him by the tax debtor, it seems entirely reasonable to me that it should be incumbent on the Minister to provide prima facie evidence of the existence of the tax liability. To do this, the Minister usually has in his possession the tax debtor's tax return and, if he has carried out an audit, he may have copies of the source documents or other relevant documents supporting his assessment. He is therefore the one who is in the best position to establish the quantum of the tax liability. I thus conclude that the onus of providing prima facie evidence of the tax liability where an assessment has been made under subsection 160(1) of the Act generally falls on the Minister.
+[19] In the case at bar, it is not necessary for me to determine which party bears the burden of establishing the amount of the company's tax debt at the time of the transfers, because I believe that the evidence I have is considerable and enables me to establish that the amount of the debt at the relevant time is set out in paragraph 24(f) of the Reply to the Notice of Appeal: $6,889.48 in tax, a penalty in the amount of $1,804.03, and interest in the amount of $11,741.71.
+[20] The respondent produced the statement of account of the tax liabilities -including the related penalties and interest - accrued by the company under the Act in the course of the 1991 to 1994 taxation years and ending with the assessment of the appellants. The respondent also produced the audit report and Report on Objection, which pertain to the August 2, 1996, reassessments of the company covering the same taxation years. Those documents show not only the amount of the tax debt, but also the nature of the changes made to the company's reported income, which increased the tax due. This evidence regarding the changes to the company's income was corroborated by the testimony of Sylvain Gardner, the auditor who made the changes following the audit. I have no reason to believe that the appellants had any trouble understanding, or obtaining documents concerning the company's tax liability, or that they were prevented in any way from obtaining information about the company.
+[21] Counsel for the appellants also suggests that, under subsection 160(2) of the Act, the assessment issued to each appellant could only include the liabilities that could be demanded at the time each dividend was paid out, and that the appellants could not be assessed for interest on the company's tax liability. However, subsection 160(1) clearly states that the transferee of a tax debtor's property is liable to pay the "total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year . . .". This means that the transferee is liable to pay interest on the underlying debt up to the time the assessment is made pursuant to section 160. In the case at bar, the amount of tax and interest that the company owed exceeded the amount of the dividends paid to each appellant at the time that the assessments were issued pursuant to subsection 160(2) of the Act.
+[22] There was also an argument about the form of the notices of assessment issued to the appellants. Each notice contained an appendix consisting of a sheet entitled [TRANSLATION] "Detail of the Assessment ― Appendix A" where the amount of the debt was established as $6,889.48 and the amount of interest was established at $2,610.52, for a total of $9,500. It was admitted that the amount was an underestimate of the company's tax debt at the time of the assessment. Owen Duguay, the collections officer who prepared the account statement, testified that he included only that part of the company's liability which was equal to the amount of the dividends transferred to the appellants, since this was the most he could assess under subsection 160(2) of the Act.
+[23] In Barroso v. R.[9] (affirmed by the Federal Court of Appeal),[10] Judge Dussault addressed the argument that an assessment under subsection 160(2) of the Act, which did not set out the taxation year(s) or the amounts due for each year for which the transferor was being assessed, should be vacated. Judge Dussault did not accept that argument. At paragraph 7, he stated:
+. . . under subsection 152(3) of the Act a taxpayer's liability for tax under Part I of the Act is not affected by an incorrect or incomplete assessment, and under subsection 152(8), an assessment is deemed to be valid and binding notwithstanding any error, defect or omission therein or in any proceeding under this Act relating thereto. Having reviewed these rules, I am of the view that the notice of assessment contained the information it was required to contain, that is, the amount assessed and the statutory provision relied on in making the assessment.* The fact that the notice of assessment did not set out the details of the tax debt of the principal debtor did not deny the appellant any right; she could have requested the necessary information so that she could object to certain elements of this debt, based on which her own liability was established under subsection 160(1) of the Act. That information could undoubtedly have been obtained from the respondent so that the appellant could have made "full answer and defence", to use the appellant's expression.
+[24] In the case at bar, the notices contained all the essential elements needed to inform the appellants of the assessments made in their regard. There is no evidence that the appellants were induced in error by this oversight, which cannot be a basis for vacating the assessments.
+Did the reassessments of the company contain errors?
+[25] The appellants contest the amount of the company's tax debt for the taxation years as assessed by the Minister for the fiscal years 1991 to 1994.
+[26] Firstly, the appellants allege that the Minister erred in treating certain funds that Pierre Therrien, the appellants' brother, deposited into his personal bank accounts in 1991, 1992 and 1993, as unreported income of the company. Pierre Therrien was the company's founder, director and business manager. The appellants also contest the disallowance of certain amounts that they claimed as "subcontracting expenses" on behalf of the company for the years in question.
+[27] The amounts assessed as unreported income consist of one cheque and considerable cash amounts that Pierre Therrien deposited into his personal bank account. The evidence discloses that he received an $8,000 cheque from a customer of the company in 1991 for work that the company did in the customer's home. The evidence shows that he deposited this cheque into his personal account and did not report it as income in the company's hands. He also made cash deposits totalling $5,800, $17,925 and $6,200 during the periods corresponding to the company's 1991, 1992 and 1993 taxation years, respectively. The amounts were deposited in 11 separate deposits. The deposit consisted of $100 bank notes most of the time, but he also deposited some $1,000 bills and four $50 bills.
+[28] Sylvain Gardner, the auditor, considered the cheque and the cash deposits as unreported income of the company.
+[29] Pierre Therrien admits the he deposited the $8,000 cheque into his personal bank account but says that he used this capital to pay company expenses that were never claimed in computing the income. He added that the cash belonged to him personally, and that it was not the company's business income. He stated that he made a profit of $88,000 on the sale of certain apartments he owned, that he kept the cash in his house, and that he deposited it into his bank account to pay the company's bills and augment the company's working capital.
+[30] Secondly, the appellants contest the disallowance of expenses amounting to $4,000 in 1991, $12,518 in 1992 and $6,175 in 1993, and claimed by the company as "subcontracting expenses".
+[31] Pierre Therrien was the payee of these cheques. He says that he used them to pay subcontractors and suppliers. He claims that he used the funds to pay certain subcontractors of the company who insisted on being paid in cash, and to purchase supplies that the company used in its operations. He states that, during the years in question, most of the company's projects were carried out far from its Eastern Townships head office. Because of all his travels to various work sites, he was unable to make credit arrangements at the locations where he purchased supplies, so he paid in cash. He says he did not claim the amounts paid in cash as company expenses, except when he was given receipts.
+[32] Pierre Therrienalso tendered two receipts setting out amounts paid in cash to Construction Helgo. He claims that the auditor would not agree to consider this amount as a company expense. However, Mr. Gardner testified that, after he revised his auditing work documents, both amounts were actually allowed as expenses of the company.
+[33] Counsel for the appellants argues that Pierre Therrien's explanations of the deposits into his personal account and of the use of the moneys he received from the company were plausible and that the auditor had no basis for adding the supposedly unreported income and disallowing the subcontracting expenses. He also submits that the amounts on the receipts issued by Construction Helgo should be allowed.
+[34] Unfortunately, I cannot agree with this submission. Pierre Therrien's testimony about these elements lacks the clarification required to lend weight to his credibility. He was unable to remember the names of more than three subcontractors that he claims to have paid in cash, and none of those parties were called to testify. He provided no other details of these alleged cash payments to suppliers or subcontractors, and provided no corroboration on this point. Moreover, the explanation to the effect that he had to pay for supplies in cash because the company could not get credit from certain suppliers does not explain why he did not ask for receipts for those purchases. In any event, none of these receipts were tendered in evidence before the Court.
+[35] Moreover, there is no evidence, nor is there testimony of other witnesses, corroborating Pierre Therrien's explanation of the cash deposits. In my opinion, it is very unlikely that Pierre Therrien kept $88,000 in cash at home for several years or that the cash deposits came from a source other than the company's business income.
+[36] I also accept Mr. Gardner's testimony about the receipts issued by Construction Helgo. His testimony that the amounts appeared in his work documents and that he had actually allowed the amounts as company expenses was not contested in his cross-examination, and he was not presented with company records contradicting his statements on the subject.
+[37] According to the appellants, the third error in the company's assessments is that the Minister failed to apply the company's entire non-capital loss incurred by the company during the 1995 taxation year to the income that the company made during the 1991 to 1994 taxation years, despite the request made to that effect.
+[38] The evidence shows that when the company filed is initial tax return for the year ending August 31, 1995, it incurred a non-capital loss of $24,434. In that return, the company made a request in the prescribed form to have the Minister apply part of the loss ― specifically $10,199 ― to the 1992 taxation year, which left a balance of $14,235 in losses imputable to subsequent fiscal years. Based on the evidence, the loss was carried back as requested. Later, on August 2, 1996, the Minister reassessed the company for its 1991 to 1994 fiscal years, and this had the effect of increasing the company's income for the years 1991, 1992 and 1993. The appellants claim that the company filed a new request following these reassessments, asking that the balance of its non-capital loss from 1995 be applied to the preceding years. However, they claim the Minister never acted on this request. Mr. Gardner testified that he never received such a request.
+[39] Pierre Therrien testified that Mr. Daigneault, the company's accountant, suggested to him that the company ask the Minister to carry back an additional loss amount. He testified that he instructed Mr. Daigneault to file that request on his behalf. He did not mention when or how the request was filed, and he said that Mr. Daigneault has died.
+[40] Counsel for the appellants argues that there was no prescribed form to be used to request that the Minister carry back a loss under section 111 of the Income Tax Act,and that the Minister erred in not granting that request. However, it is clear from the wording of subsection 152(6) of the Act that carry-back requests must be made in a prescribed form:
+Reassessment where certain deductions claimed. Where a taxpayer has filed for a particular taxation year the return of income required by section 150 and an amount is subsequently claimed by the taxpayer or on the taxpayer's behalf for the year as...
+(c) a deduction ...under section 111 in respect of a loss for a subsequent taxation year.
+by filing with the Minister, on or before the day on or before which the taxpayer is, or would be if a tax under this Part were payable by the taxpayer for that subsequent taxation year, required by section 150 to file a return of income for that subsequent taxation year, a prescribed form amending the return, the Minister shall reassess the taxpayer's tax for any relevant taxation year (other than a taxation year preceding the particular taxation year) in order to take into account the deduction claimed.
+(Emphasis added.)
+Nouvelle cotisation en cas de nouvelles déductions. Lorsqu'un contribuable a produit la déclaration de revenu exigée par l'article 150 pour une année d'imposition et que, par la suite, une somme est demandée pour l'année par lui ou pour son compte à titre de :
+c) déduction [...] en application de l'article 111, relativement à une perte subie pour une année d'imposition ultérieure;
+en présentant au ministre, au plus tard le jour où le contribuable est tenu, ou le serait s'il était tenu de payer de l'impôt en vertu de la présente partie pour cette année d'imposition ultérieure, de produire en vertu de l'article 150 une déclaration de revenu pour cette année d'imposition ultérieure, un formulaire prescrit modifiant la déclaration, le ministre doit fixer de nouveau l'impôt du contribuable pour toute année d'imposition pertinente (autre qu'une année d'imposition antérieure à l'année donnée) afin de tenir compte de la déduction
+[41] The prescribed form for such requests is Form T2A. Unfortunately, the evidence before me is insufficient and does not enable me to find that the company made its carry-back request in the prescribed form.
+Is the Minister bound by a prior settlement offer?
+[42] The company objected to the assessments of August 2, 1996, and the appeals officer responsible for considering the objections told Mr. Daigneault, the company's accountant, that he would cancel the unreported income that was taken into account in making the reassessments. Also, the appeals officer's notes show that this determination was effectively reversed by his supervisor and that no changes were made to the amounts added to the income from the 1991, 1992 and 1993 taxation years on account of unreported income. The company appealed the reassessments in this Court but the appeals were dismissed. Pierre Therrien says that he was unable to assert the company's case because Mr. Daigneault had died and he did not know the details of accounting computations. In addition, he had numerous personal problems at that time and underwent a personal bankruptcy.
+[43] Counsel for the appellants argues that the appeals officer's statements, to the effect that the unreported income would be cancelled, constitute a promise which this Court should in all fairness enforce. He provided no case law in support of this proposition.
+[44] This submission cannot succeed. It is well settled that this Court is not a court of equity and that it is unable to order changes to assessments unless those changes are in keeping with the Act. In addition, representations made by the Minister's agents are not binding on the Minister unless they conform to the Act. I have already determined that the appellants have not shown that the Minister erred in treating the deposits into Pierre Therrien's personal account as income of the company.
+Consideration for the dividends
+[45] Lastly, counsel for the appellants submits that the appellants provided consideration for the dividends that the company paid them.
+[46] Thearguments on this subject are the same for each of the appellants and are found at paragraph 25 of each Notice of Appeal:
+[TRANSLATION]
+25. For all the following reasons, the appellant gave consideration at least equal to the fair market value of the dividends received:
+(a) the dividend was paid out in consideration of the enjoyment of the capital that the appellant gave the company;
+(b) from the time that each of the dividends was declared, the appellant obtained a corresponding right of action against the company for the amount of the dividends, and that right of action was extinguished when the dividend was actually paid out;
+(c) the appellant, having rendered services to the company as an employee and director, and having permitted his property to be used, had a right of action against the company that was at least equal in value to the amount of the dividends. The appellant renounced his rights when the different dividends were paid;
+(d) if the appellant did not have the right of action referred to in paragraph (c), he consequently had a recourse against the company for its unjustified enrichment. The appellant renounced those rights when the dividends were paid;
+(e) the appellant assumed a reduction of the value of his shares corresponding to the amount of the dividends paid out by the company;
+[47] First of all, it must be specified that neither of the appellants testified. In addition, no evidence was adduced with regard to the amounts that the appellants supposedly paid for their shares, or with regard to the services and the use of the property referred to in paragraph 25(c), or the renunciation of the rights against the company. Thus, it is not necessary to consider the arguments made in paragraphs 25(c) and (d). As for whether a shareholder receives dividends in exchange for the enjoyment of capital provided by the shareholder, counsel for the appellants once again referred to Gestion Yvan Drouin, supra, at paragraphs 42 and 44, where Judge Archambault stated as follows:
+I mentioned earlier that the word "transfer" is broad enough to include a dividend paid to a shareholder. However, it is not as clear that a dividend constitutes property transferred for no consideration from the transferee. A corporation that wants to carry on a business needs capital to finance its operations and purchase the necessary fixed assets to run the business. One of its sources of funds is the capital stock provided by the shareholders; another is financing through loans. To interest a shareholder, the corporation offers a return in the form of dividends on the shares held by the shareholder. In the case of some preference shares, as here, the return may even have been fixed in advance.
+Generally speaking, an investor would not invest his money in a company without having the possibility of sharing in its profits. It is moreover because of this possibility that such an investor can deduct his expenses, including interest expenses, in computing his income. His money is invested for the purpose of earning income from it-in the form of dividends-just like a person who lends money to earn interest on it.
+[48] It should be noted that Judge Archambault was speaking in general terms and that his comments were in obiter. He acknowledged that some decisions have come to an opposite conclusion, notably Algoa Trust and 116488 Canada Inc. v. Her Majesty the Queen,[11] where Judge Rip concludes as follows at p. 410:
+When a person subscribes for shares of a corporation he or she is paying theoretically for the acquisition of a share of the ownership of the corporation and receives shares of a class in the capital stock of the corporation. The shareholder gives consideration for the shares and not for what the shares may bring. Ownership of shares gives the shareholder certain rights: right to vote as a shareholder, right to a distribution of capital on the winding-up of the corporation, right to receive dividends. (This list is not meant to be exhaustive.) When the shareholder receives a dividend it is not as a result of any consideration he or she gave the corporation and which the corporation is obliged to pay for investing. When a shareholder purchases shares he is not purchasing an income right. A shareholder receives a dividend solely because the right to a dividend is an attribute of owning shares.
+[49] Even assuming it is possible to provide consideration for the payment of a dividend, there is no evidence of such consideration in the instant case. In the absence of a contractual right to receive these particular dividends, I do not believe that the company can be said to have paid the dividend in consideration of the share capital that the appellants provided. Since it was shown that the shares in the instant case are not preferred shares that carry the right to receive specific dividends, I do not need to address the arguments of the appellants' counsel in this regard.
+[50] Moreover, it seems to me that the appellants acquired the shares for reasons other than the opportunity to receive the dividends. Pierre Therrien testified that his brothers, the appellants, became shareholders to obtain an apprentice's certificate that automatically entitled them to work at the company's sites.
+[51] Lastly, the appellants' argument regarding the reduction in the value of their shares following the payment of the dividends is fundamentally flawed. Even if the value of the appellants' shares diminished after the dividends were paid - and this was not proven here - this does not mean that the company received consideration for the payment of the dividends. It was not shown that the alleged reduction in the value of the appellants' shares enriched the company by an equivalent amount.
+[52] For the above reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of January 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 7th day of September 2005.
+Julie Poirier, Translator
+CITATION:
+2004TCC791
+COURT FILE NOS.:
+2001-4618(IT)I and 2001-4619(IT)I
+STYLE OF CAUSE :
+Denis Therrien and HMQ and
+Gérald Therrien and HMQ
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+July 13, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT :
+January 7, 2005
+APPEARANCES:
+For the Appellant:
+Richard Généreux
+For the Respondent:
+Marie Claude Landry
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Richard Généreux
+Firm:
+Généreux Côté
+Drummondville, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. 1 (5th Suppl.)
+[2] C. Roy, La théorie de l'expectative légitime en droit administratif (Cowansville: Yvon Blais, 1998), at p. 6.
+[3]Reference Re CanadaAssistance Plan, [1991] 2 S.C.R.525, at p. 558.
+[4] [2001] 2 S.C.R. 281, at paragraphs 35 and 38.
+[5] Dhanjalv. Canada(Minister of Employment and Immigration, [1991] F.C.J. No. 808 (QL)
+[6] [1981] 2 S.C.R. 339
+[7] S.Q. 1991, c. 64.
+[8] [2000] T.C.J. No. 872.
+[9] [1996] T.C.J. No. 9 (QL).
+[10] 98 DTC 6605
+[11] 93 DTC 405, affirmed by the Federal Court of Appeal in an unpublished decision on February 4, 1998.

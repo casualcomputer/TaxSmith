@@ -1,0 +1,159 @@
+Title: Wilson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28739/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-247-28739-wilson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-25
+
+# Wilson v. The Queen
+
+- Citation: 2008 TCC 247
+- Decision date: 2008-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1461, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-25
+Neutral citation
+2008 TCC 247
+File numbers
+2007-3993(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC247
+Date: 20080429
+Docket: 2007-3993(IT)I
+BETWEEN:
+NORMAN J. WILSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+These Amended Reasons for Judgment are issued in
+Substitution for the Reasons for Judgment dated
+April 25, 2008.
+Webb J.
+[1] The issue in this appeal is whether the Appellant is entitled to a deduction in computing his income for 2003, 2004 and 2005 for the amounts paid in those years to his former spouse as child support.
+[2] The facts in this case are not in dispute. The Appellant, by an Order issued by the Ontario Court (General Division) dated March 2, 1995 was ordered to pay to his former spouse child support in the amount of $850 per month. The applicable paragraph in this Order provided as follows
+THIS COURT ORDERS that the Defendant [sic] to pay to the Plaintiff, on account of interim-interim child support the sum of $850 per month, commencing the 7th day of March, 1995, and payable thereafter on the first of every month.
+The Appellant’s former spouse was the Plaintiff and the Appellant was the Defendant.
+[3] While the Court Order provided a date for the commencement of the monthly payments, it did not include an ending date for the payment of the child‑support amounts. The child support was payable in relation to the Appellant's daughter who was born in 1979. Therefore on her birthday in the years under appeal, she would have been 24, 25 and 26. At that time, she was either living on her own in Toronto or staying with the Appellant. The monthly payments of the child support were garnished from the Appellant's wages and paid directly to his former spouse. He did not take any action to terminate or vary the Order issued by the Ontario Court (General Division) until after 2005.
+[4] The Respondent has not disputed the fact that the Appellant and his former spouse were living separate and apart or that the amounts were paid by the Appellant. Since the Order was dated March 2, 1995 there is no “commencement day” as defined in subsection 56.1(4) of the Income Tax Act (“Act”).
+[5] The Respondent has denied the deduction claimed by the Appellant on the basis that since the Appellant's daughter was not in his former spouse’s custody in any of the years under appeal, the payments of $10,200 per year do not qualify as support amounts. In support of the position of the Respondent, counsel for the Respondent cited the case of Miguelez v. The Queen, [1999] 1 C.T.C. 2665. However, on closer examination of the facts in this case, the position of the Respondent in the Miguelez case supports the Appellant's position and not the position that the Respondent was taking in this case. Justice Lamarre describes the facts in that case as follows:
+1 The appellant is appealing under the informal procedure from assessments made on February 27, 1997, by the Minister of National Revenue ("the Minister") for the 1993, 1994 and 1995 taxation years. In computing his income for each of those years, the appellant deducted $18,424, $14,400 and $4,800 respectively as alimony or maintenance. In making the assessments, the Minister reduced the amount of alimony or maintenance for the 1993 taxation year from $18,424 to $2,367, thus disallowing $16,057, and disallowed in full the deductions for the 1994 and 1995 taxation years in full. In the Reply to the Notice of Appeal, the respondent stated that she is now contesting only the deduction of $6,457 in 1993, $4,800 in 1994 and $4,800 in 1995, amounts that were paid directly to the appellant's child, Maia Miguelez. The respondent argued that those amounts were not paid as alimony or maintenance pursuant to subsections 56(12) and 60.1(1) and (2) and paragraphs 60(b) and (c) of the Income Tax Act ("the Act").
+2 The facts on which the Minister relied in making the assessments, in so far as they relate to the amounts still in dispute, are as follows:
+[TRANSLATION]
+(a) the appellant and Beatriz C. Miguelez ("the former spouse") have lived separate and apart continuously since August 8, 1988;
+(b) the appellant and the former spouse entered into a separation agreement ("the separation agreement") on April 19, 1991;
+(c) the appellant and the former spouse have two children: Alain Miguelez, an adult at the time of the separation, and Maia Miguelez ("the child"), who was born on July 26, 1972;
+(d) in computing his income for the 1993, 1994 and 1995 taxation years, the appellant deducted the amounts described below as alimony or maintenance:
+Taxation Year
+Description
+1993
+1994
+1995
+1. Amounts paid directly to the child
+(a) support for the maintenance of the child
+$6,457
+$4,800
+$4,800
+2. Amounts paid to the former spouse
+(a) as alimony to compensate for the difference in value between the two properties transferred
+$9,600
+$9,600
+(b) support for the maintenance of the child
+$2,467
+TOTAL:
+$18,424
+$14,400
+$4,800
+(emphasis added)
+[6] Although the amounts as set out in the table in the reported English decision are as above, the amounts in the columns do not add up to the amounts shown as the totals and are not consistent with the facts as described in paragraph 1. In the French version of this case the amounts are in the columns as set out below:
+Taxation Year
+Description
+1993
+1994
+1995
+1. Amounts paid directly to the child
+(a) support for the maintenance of the child
+$6,457
+$4,800
+$4,800
+2. Amounts paid to the former spouse
+(a) as alimony to compensate for the difference in value between the two properties transferred
+$9,600
+$9,600
+(b) support for the maintenance of the child
+$2,467
+TOTAL:
+$18,424
+$14,400
+$4,800
+[7] This is consistent with the facts as described in paragraph 1 except that the total of the amounts for 1993 add to $18,524 (which is $100 more than the amount as stated in the table and in paragraph 1 of the facts).
+[8] In any event, it is clear that the only amounts in dispute in that case were the amounts that were paid directly to the child, not the amount paid to the former spouse as support for the child. The child in that case was 21 on July 26, 1993. The Respondent in that case agreed that the amounts that were paid to the former spouse in support of the child, even though the child was no longer a minor, were deductible in that case. This would have been the amount of $2,467 paid to the spouse in 1993 as support for the maintenance of the child.
+[9] In Demey v. The Queen, [2000] 2 C.T.C. 2026 , Justice Lamarre held that payments made to a former spouse as support for children who had attained the age of majority were deductible by the payer. The distinction was made between the amounts paid directly to the former spouse and payments made directly to the children.
+[10] Paragraph 60(b) of the Act provides as follows:
+60. There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+…
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[11] As a result of the provisions of subsection 60.1(4) of the Act, the definitions in subsection 56.1(4) of the Act apply in section 60. "Support amount" is defined in subsection 56.1(4) of the Act as follows:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[12] There is no requirement in paragraph 60(b) of the Act or in the definition of “support amount” that the receiving party have custody of the child. The concept of custody is found in subsection 60.1(1) of the Act, which is the subsection that is dealt with in the cases that deal with payments made directly to adult children, such as Miguelez, supra and The Queen v. Curzi, [1994] F.C.J. No. 154; [1994] 2 C.T.C. 220. This subsection provides as follows:
+60.1 (1) For the purposes of paragraph 60(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount by a taxpayer to a person or for the benefit of the person, children in the person's custody or both the person and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by that person; and
+(b) when paid, is deemed to have been paid to and received by that person.
+[13] In Curzi, supra, Justice Noël described the interaction of paragraph 60(b) of the Act and subsection 60.1(1) of the Act as follows:
+6 Section 60(b) permits the deduction of amounts paid to a former spouse for the benefit of the children of the marriage. Under subsection 60.1(1), an amount paid not to the former spouse but for the benefit of a child in that person's custody is nonetheless deemed to have been paid to the spouse, so that it may still be deducted under section 60(b). The question raised by this case is therefore whether, in the circumstances, Stéphane was still in his mother's custody at the time he received the amounts in question.
+[14] Subsection 60.1(1) of the Act is not relevant in this case because the payments were made directly to the Appellant’s former spouse. Therefore the issue of custody is not relevant as this requirement is in subsection 60.1(1) of the Act but not in paragraph 60(b) of the Act nor is it in the definition of support amount.
+[15] Counsel for the Respondent also referred to section 31 of the Family Law Act of Ontario which provides that:
+31. (1) Every parent has an obligation to provide support for his or her unmarried child who is a minor or is enrolled in a full time program of education, to the extent that the parent is capable of doing so. R.S.O. 1990, c. F.3, s. 31 (1); 1997, c. 20, s. 2.
+(2) The obligation under subsection (1) does not extend to a child who is sixteen years of age or older and has withdrawn from parental control. R.S.O. 1990, c. F.3, s. 31 (2).
+[16] While this may mean that the Appellant in this case could have taken some action to have the support Order for his daughter varied or terminated, until such action was taken there was an Order of the Ontario Court that stipulated that such amounts were to be paid monthly. Justice McIntyre of the Supreme Court of Canada in R. v. Wilson, [1983] 2 S.C.R. 594; 4 D.L.R. (4th) 577 made the following comments with respect to the validity of Court Orders:
+The cases cited above and the authorities referred to therein confirm the well-established and fundamentally important rule, relied on in the case at bar in the Manitoba Court of Appeal, that an order of a Court which has not been set aside or varied on appeal may not be collaterally attacked and must receive full effect according to its terms.
+[17] The Order issued by the Ontario Court must receive full effect according to its terms. No action was taken to vary or terminate this Order prior to 2006. While there is a process that could have been undertaken to vary or terminate the support Order no such action was taken. As a result, the payments made by the Appellant to his former spouse were made under the Court Order which was still effective.
+[18] Clearly the recipient had discretion with respect to the use of the amount as the Order simply provided that the Appellant was to pay the amount to his former spouse and the amount was garnished from his pay. The definition of “support amount” only requires that the amount be payable on a periodic basis for the maintenance of the children, it does not provide that the recipient must actually use the amount so received to pay for the maintenance of the children. Since it is also a requirement of the definition of “support amount” that the recipient must have discretion as to the use of the amount, the recipient is able to spend the amount as he or she sees fit. To find that the Appellant’s former spouse would have been required to spend the amount so received on the maintenance of his daughter in order for the amount so paid to be a support amount would be inconsistent with the requirement of the definition of “support amount” that the recipient have discretion as to the use of the amount and would require a tracing of the funds that is not contemplated by the definition of support amount.
+[19] Since there is no requirement in paragraph 60(b) of the Act or in the definition of “support amount” that the child be in the custody of the recipient of the money and since the other requirements of the definition of paragraph 60(b) of the Act and the definition of “support amount” were met, the amounts paid by the Appellant in 2003, 2004 and 2005 to his former spouse under the Order of the Ontario Court (which were garnished from his pay) were support amounts.
+[20] The appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct:
+(a) the amount of $10,200 as a support amount in computing his income for 2003;
+(b) the amount of $10,200 as a support amount in computing his income for 2004; and
+(c) the amount of $10,200 as a support amount in computing his income for 2005.
+Signed at Halifax, Nova Scotia, this 29th day of April 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC247
+COURT FILE NO.: 2007-3993(IT)I
+STYLE OF CAUSE: Norman J. Wilson v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: April 25, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,326 @@
+Title: Malone c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27130/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-313-27130-malone-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-06-26
+
+# Malone c. La Reine
+
+- Citation: 2006 CCI 313
+- Decision date: 2006-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 934, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malone c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-26
+Référence neutre
+2006 CCI 313
+Numéro de dossier
+2003-4067(IT)G
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑4067(IT)G
+ENTRE :
+EDWARD MALONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 11 mai 2006.
+Devant : L’honorable T. O’Connor
+Comparutions :
+Avocat de l’appelant :
+Me Ravinder Sawhney
+Avocate de l’intimée :
+Me Carol Calabrese
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999 et 2000 sont rejetés; toutefois, aucune pénalité ne doit être imposée et le montant exact du revenu non déclaré à ajouter pour l’année d’imposition 2000 est de 17 314 $. Aucuns dépens ne sont adjugés.
+Le tout conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de juin 2006.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 3e jour d’août 2007.
+Aleksandra Koziorowska, LL.B.
+Référence : 2006CCI313
+Date : 20060626
+Dossier : 2003‑4067(IT)G
+ENTRE :
+EDWARD MALONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Les faits fondamentaux, dans cet appel, sont ci‑après énoncés :
+1. L’appelant (« M. Malone ») conduisait un camion de ravitaillement appartenant à Sully’s Catering & Vending Ltd. (« Sully »); Sully lui a versé à cet égard un montant de 21 000 $ en 1998 et en 1999 et un montant de 21 600 $ en l’an 2000. Les déclarations de revenus de M. Malone indiquaient ces montants au titre d’un revenu d’entreprise, mais il a été établi et convenu que ces montants constituaient un revenu d’emploi; toutefois, la chose n’influe aucunement sur le résultat de l’appel.
+2. Sully fournissait des produits alimentaires à M. Malone, qui les vendait depuis son camion de ravitaillement. Le ministre du Revenu national (le « ministre ») maintient que M. Malone vendait les produits à des prix plus élevés que ceux que Sully exigeait de lui et qu’il conservait la différence, de sorte que son revenu, au cours de ces trois années, était plus élevé que le revenu déclaré.
+3. Une vérification de la valeur nette a été effectuée, laquelle a donné lieu à l’établissement d’une nouvelle cotisation par le ministre, selon laquelle M. Malone avait omis d’inclure des montants d’au moins 15 287 $, 16 781 $ et 17 875 $ [le montant exact s’élève à 17 314 $ comme je l’expliquerai ci‑dessous] dans le calcul de son revenu pour les années d’imposition 1998, 1999 et 2000, respectivement.
+[2] Le fondement législatif d’une cotisation de valeur nette se trouve aux paragraphes 152(4) et 152(7) de la Loi de l’impôt sur le revenu (la « Loi »). Ce type de cotisation est fréquemment utilisé et il a fait l’objet de maints appels. Une fois que la cotisation est établie, le contribuable a la charge d’établir qu’elle est inexacte.
+[3] Dans la décision Ramey v. The Queen, 93 DTC 791 (C.C.I.), le juge Bowman a décrit comme suit la procédure d’établissement de l’actif net, à la page 793 :
+[...] Estimer le revenu annuel d’un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C’est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d’actif net repose sur une comparaison de l’actif net du contribuable, à savoir la valeur de l’actif moins le passif au début d’une année, avec son actif net à la fin de l’année. À la différence ainsi obtenue, on ajoute les dépenses qu’il a engagées pendant l’année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu’à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. [...]
+[4] Dans la décision Bigayan v. The Queen, 2000 DTC 1619 (C.C.I.), le juge Bowman a donné les précisions suivantes, à la page 1619 :
+[2] La méthode de la valeur nette est [...] une solution de dernier recours que l’on emploie lorsque tout le reste a échoué. On l’utilise souvent lorsqu’un contribuable a omis de produire des déclarations de revenus ou n’a pas conservé de documents. [...] Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année de sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus‑values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+[3] Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff v. Minister of National Revenue, 49 DTC 680, à la page 683 :
+[traduction]
+En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+[4] Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l’on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n’a pas été pleinement découverte. Il est peu probable que l’on rende parfait en le modifiant un instrument qui, par nature, est imparfait. [...]
+[5] Dans le présent appel, les tableaux qui sont joints à la réponse modifiée indiquent les déterminations de l’actif net. Le tableau I indique le total de l’actif comme s’élevant à 6 478,16 $ en 1997, à 8 257,16 $ en 1998, à 9 934,16 $ en 1999 et à 15 257,16 $ en l’an 2000. Le tableau II indique le total du passif comme s’élevant à 2 000 $ pour 1997, à 2 000 $ pour 1998, à 2 000 $ pour 1999 et à 6 000 $ pour l’an 2000. Le passif est déduit de l’actif, produisant un actif net de 4 478,16 $ pour 1997, de 6 257,16 $ pour 1998, de 7 934,16 $ pour 1999 et de 9 257,16 $ pour l’an 2000. Par conséquent, comme le montre le tableau II, les augmentations de l’actif net sont de 1 779 $ en 1998 (6 257,16 $ ‑ 4 478,16 $), de 1 677 $ en 1999 (7 934,16 $ ‑ 6 257,16 $) et de 1 323 $ en l’an 2000 (9 257,16 $ ‑ 7 934,16 $). Le tableau III groupe tous les chiffres et arrive aux écarts de valeur nette.
+[TRADUCTION]
+TABLEAU III
+Client : EDWARD MALONE
+Vérificateur : Établi : le 13 juin 2002
+Période de vérification :
+Relevé de la valeur nette – aux fins de l’impôt
+1998
+1999
+2000
+FdeT
+Augmentation (diminution) de la valeur nette (selon le tableau II)
+1 779
+1 677
+1 323
+Rajustements
+Ajouts
+Dépenses personnelles
+(selon le tableau IV)
+34 495,21
+35 939,65
+37 775,69
+Perte subie lors de la vente...
+‑
+‑
+‑
+Paiements de l’impôt sur le revenu des particuliers
+1 443,02
+1 749,46
+1 431,23
+Retenue d’impôt sur un REER encaissé
+‑
+‑
+‑
+REER encaissé
+‑
+‑
+‑
+Fraction non déductible des pertes en capital
+‑
+‑
+‑
+Revenu sur la base de l’année civile – époux
+‑
+‑
+‑
+Réserve d’une année antérieure, changement de fin d’exercice
+‑
+‑
+‑
+Autres montants
+143
+40
+‑
+Total des ajouts
+36 081,23
+37 729,11
+39 206,92
+Déductions
+Gain lors de la vente...
+‑
+‑
+‑
+Remboursement de l’impôt
+‑
+‑
+‑
+Remboursement de crédit de TPS/TVH reçu
+503
+450,50
+404
+Prestation fiscale pour enfants
+‑
+‑
+‑
+Produit d’assurance
+‑
+‑
+‑
+Dons de famille
+‑
+‑
+‑
+Héritage
+‑
+‑
+‑
+Gains de loterie
+‑
+‑
+‑
+Fraction non imposable du gain en capital
+‑
+‑
+‑
+Réserve, changement de fin d’exercice
+‑
+‑
+‑
+Revenu sur la base fiscale – époux
+‑
+‑
+‑
+Autres montants
+‑
+‑
+‑
+Total des déductions
+503
+450,50
+404
+Rajustements nets
+35 578,23
+37 278,61
+38 802,92
+Revenu selon la valeur nette rajustée
+37 357,23
+38 955,61
+40 125,92
+Moins : Revenu total déclaré
+Revenu du ménage
+21 000
+21 000
+21 600 *
+Écart de valeur nette
+16 357,23
+17 955,61
+18 525,92 *
+* Il s’agit des chiffres exacts.
+[6] Par conséquent, le tableau II indique des augmentations de la valeur nette de l’actif de 1 779 $, de 1 677 $ et de 1 323 $ en 1998, 1999 et 2000 respectivement. Dans le tableau III, il est fait mention du tableau IV, qui renferme une longue analyse détaillée des dépenses personnelles, avec la conclusion selon laquelle les montants nets des dépenses personnelles s’élevaient à 35 357,23 $, à 38 955,61 $ et à 40 125,92 $ pour 1998, 1999 et 2000 respectivement. Ces montants sont ensuite ajoutés aux valeurs de l’actif net mentionnées ci‑dessus, avec la conclusion selon laquelle les revenus, selon la valeur nette, s’élèvent à 37 357,23 $, à 38 955,61 $ et à 40 125,92 $ pour 1998, 1999 et 2000 respectivement. Le revenu déclaré de 21 000 $, de 21 000 $ et de 21 600 $ est déduit de ces chiffres, ce qui produit des écarts de 16 357,23 $, de 17 955,61 $ et de 18 525,92 $. De ces chiffres, l’élément TPS de 7/107, à savoir 1 070 $, 1 175 $ et 1 212 $, est déduit, ce qui produit un montant final au titre du revenu non déclaré s’élevant à 15 287 $, à 16 781 $ et à 17 314 $. [Il importe de noter l’erreur de calcul suivante dans les calculs du ministre : le revenu déclaré pour l’an 2000 était de 21 600 $ (et non de 21 000 $); par conséquent, le montant exact du revenu non déclaré pour l’an 2000 est de 40 125,92 $ ‑ 21 600 $ = 18 525,92 $ – 7/107 au titre de la TPS ou 1 212 $ = 17 314 $.]
+[7] Le tableau IV de la réponse renferme une analyse très approfondie des dépenses personnelles. De nombreux articles ont été contestés; un grand nombre d’éléments de preuve ont été fournis par M. Malone, qui contestait certains articles, et des explications détaillées ont été données par le vérificateur de l’ARC, Steven Harper, mais les principaux changements apportés dans la cotisation de la valeur nette aux dépenses personnelles par rapport aux montants que M. Malone avait estimés peuvent être résumés comme suit :
+Le montant des dépenses alimentaires a été considérablement augmenté comme suit :
+Estimations de M. Malone
+Valeur nette
+1998
+2 150
+6 591,39
+1999
+2 150
+6 707,21
+2000
+2 150
+6 889,31
+Frais de transport
+Estimations de M. Malone
+Valeur nette
+1998
+1 159,35
+2 318,70
+1999
+1 759
+3 518
+2000
+1 560
+3 900
+[8] Il est fait état des explications et discussions, en ce qui concerne les aliments et le transport, dans des extraits tirés des observations reproduits ci‑dessous. En résumé, le vérificateur croyait que les montants estimés par M. Malone pour l’alimentation étaient fort peu élevés pour une famille composée de trois personnes et il a utilisé les chiffres de Statistique Canada. Quant au transport, le vérificateur a conclu que deux voitures étaient enregistrées au nom de M. Malone en 1998 et en 1999 et que M. Malone avait acquis une troisième voiture en l’an 2000 et, vu l’absence de preuve montrant que M. Malone n’avait pas engagé toutes les dépenses y afférentes, le montant des dépenses a été augmenté.
+[9] Le troisième article important des dépenses personnelles en litige figure dans le tableau IV sous la rubrique [TRADUCTION] « Autres montants »; cela se rapporte à des chèques au sujet desquels aucune explication n’a été donnée, de 6 587,01 $ en 1998, de 6 107,85 $ en 1999 et de 5 763,19 $ en l’an 2000. Comme le montreront les extraits des observations reproduits ci‑dessous, il s’agissait de montants représentant des chèques (ou des retraits en espèces) au sujet desquels aucun renseignement n’a été fourni ou qui ne pouvaient pas être vérifiés et que le vérificateur a considéré comme constituant d’autres dépenses personnelles.
+[10] Voici des extraits des observations de Me Sawhney, avocat de M. Malone, et de Me Calabrese, avocate du ministre :
+[traduction]
+OBSERVATIONS FAITES PAR Me SAWHNEY :
+Me SAWHNEY : Monsieur le juge, l’affaire ne se rapportait qu’à quelques articles identifiables au titre des dépenses, lesquels constituent en fait le noeud du litige : le premier article se rapporte aux dépenses alimentaires; le deuxième, aux dépenses associées aux voitures.
+[...]
+Les dépenses alimentaires sont plutôt faibles, [...] Le montant mentionné par mon ami est en fait un chiffre moyen de Statistique Canada, mais j’aimerais souligner que ce montant estimatif ne s’applique pas à tout le monde. Il s’agit d’un montant moyen [...]
+M. Malone vit avec son épouse et avec sa fille; il fait partie du groupe à faible revenu. Son revenu estimatif était de 21 000 $. Il s’agit de fait d’un revenu peu élevé. [...]
+M. Malone est à la merci d’un employeur qui a énormément de pouvoir et M. Malone n’a presque aucune latitude, compte tenu de la nature de son emploi. Il n’était pas en mesure de négocier de quelque façon que ce soit les modalités de paiement, même s’il voulait être rémunéré d’une autre façon, recevoir de l’argent, des chèques et ainsi de suite, à l’égard de son emploi. C’est son employeur qui avait le dernier mot.
+Il est également reconnu que dans le secteur dans lequel M. Malone travaille on a habituellement recours à des paiements en argent comptant. [...] Ce sont des articles de peu de valeur qui sont en cause, des articles qui ne sont pas, dans ce secteur, étayés par beaucoup de documents justificatifs.
+[...]
+Sous réserve de la méthode des chèques et des débours, à l’égard desquels il n’existe en général aucun écrit, les éléments de preuve proviennent en bonne partie de la classe sociale à laquelle M. Malone appartient, laquelle n’est pas portée à consigner les choses par écrit, comme le montre le fait que, lorsqu’il possède une voiture que sa fille utilise, il ne s’est pas donné la peine de rédiger de documents, et ne semble pas être en mesure de le faire. [...]
+Il s’agit d’une affaire fort simple. Il possède deux ou trois voitures à la fois. Il passe la plupart de son temps à travailler, en utilisant un camion pour vendre ses produits. Il n’a pas vraiment la possibilité d’utiliser deux ou trois voitures. Cela résulte du mode de vie qu’il mène. Il a affirmé que son mode de vie ne l’amène pas à dépenser beaucoup d’argent. Il n’y a pas beaucoup d’endroits où il irait et où il utiliserait plus d’une voiture. Étant donné qu’il conduit la voiture qu’il possède, il est uniquement raisonnable et logique de conclure que la seconde voiture, d’une valeur minime, était celle qu’il a de fait donnée à sa fille pour qu’elle l’utilise. Et, de toute évidence, il s’agit d’une seconde fille. Selon la preuve qu’il a fournie, il a quatre filles et un fils. Il est fort raisonnable de conclure qu’il n’ait pas eu besoin de la voiture.
+Les réparations et ainsi de suite s’élèvent, selon Revenu Canada, au montant qu’il a mentionné. Cependant, ces montants ont été multipliés, de sorte qu’ils étaient deux fois et demie plus élevés à cause de l’hypothèse selon laquelle il était en fait propriétaire de ces voitures. [...]
+Étant donné que les dépenses alimentaires s’élèvent en fait à un montant inférieur au chiffre moyen qui s’appliquerait à un homme tel que M. Ed Malone, étant donné qu’il n’avait probablement l’utilisation que d’une seule voiture, nous ne disposons pas de beaucoup d’éléments, selon la preuve, donnant à entendre qu’il a un revenu élevé. [...]
+Par conséquent, selon la preuve, nous ne disposons réellement de rien qui donne à entendre qu’il y ait réellement eu des dépenses qu’un homme comme lui aurait engagées, selon un critère objectif, malgré la nature arbitraire de la cotisation que la loi permet à Revenu Canada d’établir.
+[...]
+OBSERVATIONS ADDITIONNELLES SOUMISES EN RÉPONSE PAR Me SAWHNEY :
+Par conséquent, la cotisation de valeur nette est en fait une méthode permettant d’arriver à un chiffre qui ne peut pas par ailleurs être inclus. Mais il ne s’agit pas d’une cotisation qui, une fois établie, ne peut pas être démolie. La preuve peut la démolir [...]
+Et lorsque je considère la charge de la preuve, elle peut être considérée de trois façons; il est clair que ce sont les hypothèses que nous examinerions, à savoir que le chiffre de Statistique Canada est le seul chiffre valable. Comme nous l’avons dit, mon client a démontré qu’il a un niveau de revenu beaucoup moins élevé que la moyenne des gens auxquels s’appliqueraient les chiffres de Statistique Canada. Il fait partie de la catégorie à faible revenu. Par conséquent, de toute évidence, il est possible de réfuter une hypothèse basée sur les chiffres de Statistique Canada. Elle n’est pas valable et elle ne doit pas l’être selon la méthode de l’actif net. Ce sont uniquement des chiffres à utiliser au départ et qui permettent d’arriver à une conclusion au point de vue de la valeur nette, et la charge incombe ensuite à mon client. Or, eu égard aux circonstances, cela n’est pas exact. L’hypothèse peut donc être réfutée.
+La charge de prouver qu’une hypothèse ou que plusieurs hypothèses étaient erronées, la charge incombe de toute évidence à mon client, de sorte que c’est ce qu’il a essayé de faire et espérons que la Cour reconnaît la chose, et c’est la charge qui lui incombe, de démontrer que les hypothèses étaient erronées.
+Troisièmement, à supposer même que les hypothèses soient justifiées, elles n’appuient pas elles‑mêmes son témoignage, le fait que les relevés bancaires indiquaient environ 6 000 $ au sujet desquels il n’a pas pu donner d’explications.
+Troisièmement, lorsqu’il s’agit de s’acquitter de la charge de contester la méthode de l’actif net, la charge n’est pas la même que celle qui incombe à la Couronne dans une affaire criminelle, lorsque celle‑ci doit présenter une preuve hors de tout doute raisonnable. Il s’agit simplement d’une obligation dont il faut s’acquitter conformément à la preuve.
+On ne s’attend pas non plus à ce qu’il soit au courant de chacun des éléments indiqués dans le relevé bancaire. Et s’il y a des dépôts et des retraits, je ne puis songer à personne qui puisse dire, six ans ou quatre ans plus tard, à l’égard de chacun des débours, ce qu’il a fait de l’argent qu’il a retiré d’une banque. Ce n’est pas toujours évident. On ne sait pas nécessairement où l’argent a été dépensé.
+[...]
+Quant à l’énoncé de droit que j’ai fait au début de mon exposé, j’aimerais souligner de nouveau que le ministre doit indiquer le fondement précis sur lequel repose la valeur nette. Sur ce point, lorsque l’on examine les chiffres de Statistique Canada et ainsi de suite, on en revient toujours au même point, que cela n’est pas nécessairement le cas, que simplement parce que la méthode de l’actif net est employée, elle doit être maintenue. Cette méthode n’est pas en soi nécessairement valable et je crois m’être acquitté de l’obligation qui m’incombait de montrer qu’elle n’est pas valable.
+Mon confrère met l’accent sur le manque de documentation et sur la question de la compagnie d’assurance, sur la police d’assurance et ainsi de suite. Il a reconnu que ces changements n’ont pas été faits dans la police d’assurance. Par conséquent, s’il n’a pas fourni les documents, c’est parce qu’ils n’étaient pas disponibles, ils n’auraient pas pu être disponibles. Ce n’est pas le fait qu’il possédait des documents qui aurait permis de démontrer la chose à Revenu Canada. Ces documents se rapportent simplement à sa propre police, à son propre nom. Il s’agit donc réellement d’une question de fait, à savoir s’il doit conduire une voiture ou si c’est sa fille qui la conduit. Dans ces conditions, aucune preuve documentaire ne pourrait l’aider à l’établir sauf au moyen d’un procès.
+[...]
+Par conséquent, je dirais d’une façon générale que la documentation a été fournie dans la mesure où cela était raisonnable et dans la mesure où cela démontre que son représentant cherchait à coopérer.
+OBSERVATIONS DE Me CALABRESE :
+Me CALABRESE : [...] L’intimée ne conteste pas que le revenu de l’appelant est peu élevé, qu’il s’agisse du revenu qu’il a déclaré ou du revenu dont il est tenu compte, des montants non déclarés qu’il aurait censément reçus selon le ministre.
+Il travaillait dans une entreprise où les paiements se font en argent comptant et, comme le dit la réponse, l’hypothèse de l’intimée est qu’il vendait les produits à un prix plus élevé que le prix recommandé par Sully et qu’il conservait l’excédent. C’est de là que provenait son revenu additionnel.
+Le simple fait qu’une cotisation de valeur nette a été établie ne veut pas dire que nous croyons qu’il avait beaucoup d’argent. Ce que nous croyons qu’il avait, c’étaient des montants qu’il n’a pas déclarés. Nous ne contestons pas qu’il n’était pas riche. Nous disons simplement qu’il avait de l’argent qu’il n’a pas déclaré.
+Comme mon confrère l’a dit, il n’y avait pas beaucoup d’articles qui étaient contestés dans l’état des actifs. [...] Par conséquent, en fait, les seuls articles de l’état des actifs se rapportaient à la troisième voiture, la Cavalier qu’il a achetée en l’an 2000, et le vérificateur s’est fondé sur la valeur indiquée dans le Red Book. Il l’a fait parce que l’appelant n’a pas fourni de documents démontrant quelle était la valeur réelle de la voiture. Il ne conteste pas qu’il a acquis la voiture, mais il n’a pas fourni de documents faisant état de la valeur réelle. C’était donc un cas dans lequel nous n’avions pas le choix.
+Et encore une fois, aujourd’hui, il n’a pas fourni de documents donnant à entendre que la valeur figurant dans le Red Book est erronée.
+[...] Quant au relevé des dépenses personnelles, la plupart des chiffres qu’il a soumis, même s’ils étaient peu élevés, l’ARC a adopté une approche prudente et ne les a pas changés inutilement. Ils ont uniquement changé les chiffres là où ils constataient un problème réel. Et le seul problème réel qu’ils ont constaté se rapportait aux dépenses alimentaires. Ils estimaient qu’il était déraisonnable de supposer qu’une famille composée de trois personnes puisse s’alimenter pour 40 $ par semaine. Il se peut bien que les chiffres de Statistique Canada ne soient pas les meilleurs, mais le problème était attribuable au fait que M. Malone ne leur a pas donné d’autres chiffres. Il n’a donné rien d’autre que cette estimation fort basse, qu’ils estimaient être déraisonnablement basse.
+Quant au transport, il s’agit de savoir s’il payait les dépenses associées à une voiture ou à deux voitures, et en l’an 2000, à une troisième voiture. On l’a encore une fois prié, lorsqu’il a soutenu que sa fille conduisait l’une de ses voitures, on l’a prié de fournir des documents à l’appui. Et mon confrère a mentionné qu’il ne serait pas allé voir un avocat pour faire rédiger une entente conclue avec sa fille. Mais ce n’est pas ce qu’on lui demandait. On lui demandait une police d’assurance indiquant qu’elle était la conductrice principale, n’importe quel type de document indiquant qu’elle payait les dépenses. Or, il ne les a pas fournis, et aujourd’hui, il ne l’a pas fait non plus.
+Par conséquent, ils [le vérificateur] ont utilisé [...] une estimation raisonnable de ce que seraient les dépenses pour une seconde voiture. Et puisque la voiture appartenait à M. Malone et qu’il n’a pas fourni de documents indiquant que quelqu’un d’autre payait les dépenses, ils ont supposé que c’était lui qui les payait et ils ont doublé les chiffres.
+[...]
+Quant au dernier article, et c’est un article important, il se trouve dans la catégorie « Autres montants ». [...] Sur ce point, l’article contestable important se rapporte à l’argent comptant et aux chèques. M. Harper a expliqué clairement ce qu’il avait fait pour arriver à ces montants, et il a expliqué que M. Malone avait eu la possibilité de démontrer ce à quoi se rapportaient les chèques, de lui remettre les chèques. Et, dans le cas où il [le vérificateur] a pu découvrir ce à quoi se rapportaient les chèques, il ne les a pas inclus dans la catégorie « Autres montants ». Cependant, en l’absence de documents de travail, c’est ainsi que la cotisation de valeur nette devait être établie.
+[...]
+La charge de démontrer que le montant de la cotisation de valeur nette est erroné, comme mon confrère l’a souligné, [...] incombe à l’appelant, [...] Et le ministre soutient que les montants figurant dans la cotisation de valeur nette, [...] [sont réputés] être exacts à moins que l’appelant n’arrive à les réfuter. Et il est soutenu qu’à cause de l’absence de documents, l’appelant n’a pas démontré que les montants utilisés par le ministre sont erronés.
+[...]
+L’intimée soutient donc que l’appelant n’a tout simplement pas démontré que la cotisation de valeur nette était erronée. Pendant la vérification et aujourd’hui, il croit que les chiffres que le ministre utilise sont trop élevés, mais il ne peut pas nous dire ce que sont les chiffres selon lui, ou du moins il ne peut pas étayer sa position au moyen de documents.
+[L’avocate a renvoyé aux décisions Ramey et Bigayan susmentionnées.]
+[11] Dans la réponse modifiée, il est également allégué que M. Malone a commis une faute lourde en faisant de faux énoncés, de sorte que le ministre a imposé des pénalités pour faute lourde conformément au paragraphe 163(2) de la Loi, d’un montant de 1 473,10 $, de 1 703,62 $ et de 1 826,45 $ pour les années d’imposition 1998, 1999 et 2000 respectivement.
+[12] Les extraits suivants des observations des avocats traitent des pénalités :
+[traduction]
+Me SAWHNEY :
+[...]
+Quant à la faute lourde, je ne crois pas, Monsieur le juge, qu’il s’agisse d’un cas justifiant ce genre de pénalité. Étant donné que la charge d’établir le bien‑fondé d’une telle pénalité incombe clairement au gouvernement, il s’agit d’une obligation beaucoup plus lourde et le gouvernement ne s’en est pas acquitté eu égard aux faits de l’affaire.
+Sur le plan du revenu, les analyses de la méthode de l’actif net ne se prêtent pas à l’inclusion automatique de pénalités. En particulier, la loi impose au gouvernement la charge quant à une telle pénalité.
+Me CALABRESE : Encore une fois, le montant qu’il doit à l’égard des pénalités imposées par l’intimée n’est pas contesté. L’intimée est tenue de démontrer qu’en omettant de déclarer une partie de son revenu, l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, dans l’exercice d’un devoir ou d’une obligation imposé par la Loi, fait un faux énoncé ou une omission dans sa déclaration de revenus, ou y a participé, y a consenti ou y a acquiescé.
+Le montant du revenu non déclaré a été estimé au moyen d’une cotisation de valeur nette, mais l’intimée soutient qu’étant donné que la cotisation de valeur nette démontre que l’appelant avait un revenu supérieur à ce qu’il a déclaré, cela prouve que l’appelant a omis de déclarer un revenu pour les trois années visées par l’appel.
+[...]
+Et l’intimée soutient que l’appelant a produit sa déclaration et que, ce faisant, il a omis d’inclure au titre du revenu des montants en sus de ceux qu’il a déclarés, et ces montants ont été estimés au moyen de l’actif net, il ne s’agit peut‑être pas des montants exacts, mais il s’agit d’une estimation de ce qu’était son revenu. Et l’intimée allègue que l’appelant travaillait dans un secteur où les paiements étaient effectués en argent comptant et que son revenu non déclaré provenait probablement des montants supplémentaires qu’il tirait de la vente des produits. Par conséquent, les pénalités devraient être imposées.
+Analyse et conclusion
+[13] À mon avis, compte tenu de l’absence de documents appropriés et d’autres éléments suffisants permettant d’établir les montants exacts du revenu imposable de l’appelant pour les années en cause, le ministre pouvait à bon droit utiliser la méthode de l’actif net pour établir ces montants. Je suis en outre convaincu que le vérificateur, dont le témoignage était tout à fait crédible, s’est montré équitable et prudent en effectuant les calculs. Il vaut également la peine de noter qu’un grand nombre de chiffres n’ont pas été contestés et qu’ils étaient basés sur des chiffres que l’appelant avait soumis ou qui étaient tirés des déclarations de l’appelant et qu’il y avait de toute évidence plusieurs montants se rapportant à un revenu non déclaré. Il incombait à l’appelant d’établir que les montants obtenus au moyen de l’analyse de l’actif net étaient erronés; or, l’appelant a omis de s’acquitter de la charge de la preuve. En outre, l’appelant n’a pas tenté d’établir son revenu véritable pour les années en cause, mais il a plutôt tenté de contester certains articles particuliers figurant dans les calculs de l’actif net, soit une approche à l’égard de laquelle la jurisprudence nous a mis en garde, en disant qu’elle entraîne rarement l’annulation ou la modification de la nouvelle cotisation.
+[14] Je suis également convaincu, eu égard aux faits de l’affaire, que le recours aux chiffres de Statistique Canada et aux valeurs indiquées dans le « Red Book » était justifiable.
+[15] Toutefois, je crois fermement qu’il ne s’agissait pas d’un cas dans lequel l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans ses déclarations de revenus. L’appelant a peut‑être été légèrement négligent, mais cela semble attribuable à l’influence que son employeur exerçait sur lui ou à l’approche adoptée par le spécialiste en déclarations de revenus. Quoi qu’il en soit, la charge, en ce qui concerne l’imposition de pénalités, incombe au ministre et celui‑ci ne s’est pas acquitté de son fardeau de preuve.
+[16] Par conséquent, les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999 et 2000 sont rejetés; toutefois, aucune pénalité ne doit être imposée; de plus, le montant à ajouter au titre du revenu non déclaré pour l’année d’imposition 2000 est de 17 314 $. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 26e jour de juin 2006.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 3e jour d’août 2007.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2006CCI313
+No DU DOSSIER DE LA COUR : 2003‑4067(IT)G
+INTITULÉ : EDWARD MALONE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 11 mai 2006
+MOTIFS DU JUGEMENT : L’honorable T. O’Connor
+DATE DU JUGEMENT : Le 26 juin 2006
+COMPARUTIONS :
+Avocat de l’appelant : Me Ravinder Sawhney
+Avocate de l’intimée : Me Carol Calabrese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Ravinder Sawhney
+Cabinet : Ravinder Sawhney
+Mississauga (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

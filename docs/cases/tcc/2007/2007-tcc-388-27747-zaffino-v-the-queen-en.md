@@ -1,0 +1,159 @@
+---
+title: "Zaffino v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27747/index.do"
+last_modified: "2007-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 388"
+citation2: ""
+neutral_citation: "2007 TCC 388"
+decision_date: "2007-06-29"
+language: "en"
+item_id: "27747"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 300
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:57:06.115000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81eb05d6aa09d9ea39b8c1826116011a87944117a84d26761c7b50522c87ca99"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zaffino v. The Queen
+
+- Citation: 2007 TCC 388
+- Decision date: 2007-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 300, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zaffino v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-29
+Neutral citation
+2007 TCC 388
+File numbers
+2006-2782(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2782(IT)I
+BETWEEN:
+PINA GARCEA ZAFFINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 23, 2007, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stacey Sloan
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years are allowed, with costs if any, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to have included in the computation of her medical expenses the amounts that she paid in those years for housecleaning services, and is entitled to a deduction in computing her income for 2004 of $1,814 for legal fees.
+Signed at Ottawa, Canada, this 29th day of June, 2007.
+“E.A. Bowie”
+Bowie J.
+Citation: 2007TCC388
+Date: 20070629
+Docket: 2006-2782(IT)I
+BETWEEN:
+PINA GARCEA ZAFFINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] The appellant has suffered from very severe disabilities for some years as the result of a motor vehicle accident. As a result it is both very time consuming and very difficult for her to carry out many of the activities that are for most people simply the routine activities of daily living. She has great difficulty with such things as bathing, dressing herself, shopping, cooking, cleaning the house, and attending medical appointments, to name but a few. She can do many, if not most, of these things, but they take her much longer than before the accident, and they frequently cause her considerable pain that lasts beyond the period of the activity.
+[2] During the 2003, 2004 and 2005 taxation years the appellant had a cleaning company come to her house to do many of the cleaning tasks that she used to do herself. The appeals before me relate to her claims in those years for a tax credit under section 118.2 of the Income Tax Act (the Act) based on the remuneration that she paid for these services. The amounts involved are $1,391, $5,275 and $4,410, respectively, for the three years in issue. She also claims as a medical expense in 2004 the amount of $120.00 that she was required to pay to a medical practitioner with whom she had an appointment that she was unable to attend. All of these amounts were disallowed by the Minister of National Revenue in assessing her, and they are now the subject of these appeals.
+[3] Also before me is her claim for a deduction for legal fees of $1,814 that the appellant paid in 2004, to advance her claim for a disability pension. The respondent now accepts that this is an amount that she is entitled to deduct under subsection 8(1)(b) of the Act.
+[4] As is too often the case in informal appeals, the Reply to the Notice of Appeal filed by the Deputy Attorney General of Canada is less than clear, but as I understand it the Respondent does not dispute that the amounts claimed by the Appellant for cleaning and for the missed appointment were in fact paid. All that is in dispute is whether these can properly be characterized as “attendant care” and “medical … services” coming within paragraphs 118.2(2)(b.1) and 118.2(2)(a), respectively. I shall deal first with the claim in respect of attendant care. Paragraph 118.2(2)(b.1) of the Act reads:
+118.2(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+…
+(b.1) as remuneration for attendant care provided in Canada to the patient if
+(i) the patient is a person in respect of whom an amount may be deducted under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year in which the expense was incurred,
+(ii) no part of the remuneration is included in computing a deduction claimed in respect of the patient under section 63 or 64 or paragraph (b), (b.2), (c), (d) or (e) for any taxation year,
+(iii) at the time the remuneration is paid, the attendant is neither the individual's spouse or common- law partner nor under 18 years of age, and
+(iv) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual's Social Insurance Number,
+to the extent that the total of amounts so paid does not exceed $10,000 (or $20,000 if the individual dies in the year);
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés:
+…
+b.1) à titre de rémunération pour les soins de préposé fournis au Canada au particulier, à son époux ou conjoint de fait ou à une personne à charge visée à l'alinéa a), dans la mesure où le total des sommes payées ne dépasse pas 10 000 $ (ou 20 000 $ en cas de décès du particulier dans l'année) et si les conditions suivantes sont réunies:
+(i) le particulier, l'époux ou conjoint de fait ou la personne à charge est quelqu'un pour qui un montant est déductible en application de l'article 118.3 dans le calcul de l'impôt payable par un contribuable en vertu de la présente partie pour l'année d'imposition au cours de laquelle les frais sont engagés,
+(ii) aucune partie de la rémunération n'est incluse dans le calcul d'une déduction demandée pour le particulier, l'époux ou conjoint de fait ou la personne à charge en application des articles 63 ou 64 ou des alinéas b), b.2), c), d) ou e) pour une année d'imposition,
+(iii) au moment où la rémunération est versée, le préposé n'est ni l'époux ou conjoint de fait du particulier ni âgé de moins de 18 ans,
+(iv) chacun des reçus présentés au ministre comme attestation du paiement de la rémunération est délivré par le bénéficiaire de la rémunération et comporte, si celui-ci est un particulier, son numéro d'assurance sociale;
+It is not disputed that in this case the various conditions found in subparagraphs (i) to (iv) are satisfied. The only issue concerns the meaning to be attributed to the expression “attendant care” (“les soins de préposé”).
+[5] There is no doubt that the appellant’s disability resulting from the accident is severe. The respondent does not contest that, and by the reassessments for 2003 and 2004 she has been allowed the disability tax credit under section 118.3 of the Act. She has also been allowed a medical expense credit in respect of a service dog that accompanies her to provide her with assistance of various kinds on a fulltime basis. The appellant’s position is that she requires a great deal of assistance in her daily activities, and I have no doubt that that is correct. She does not have a fulltime personal caregiver, but she receives assistance from her husband, from her parents, from other family members, from a number of her friends and neighbours, and of course from her service dog. All these people have contributed to her well‑being by providing various kinds of assistance of the sorts that a fulltime attendant would provide, if she had one.
+[6] Curiously, the respondent takes the position that if the appellant had paid for an attendant to do several different kinds of tasks for her — tasks of the kind that her relatives, friends and neighbours help with — including the cleaning which she now seeks to include in her medical expense claims, then the cost of that would be allowed to her under paragraph 118.2(2)(b.1), but the services provided by the cleaning companies do not qualify as “attendant care”, because the only kind of assistance that they provide is house cleaning. The Minister’s view, if I understand it correctly, is that an “attendant” provides a variety of different services to assist a person who suffers from a disability, not just one; hence a person who simply provides one type of service cannot provide “attendant care” as that expression is used in paragraph 118.2(2)(b.1). It was put this way in a letter to the appellant from the Appeals Division of the Canada Revenue Agency that enclosed the Notice of Confirmation:
+… attendant care is care provided by an attendant who performs those personal tasks, which the person with the disability in [sic] unable to do for himself or herself. Such tasks could include meal preparation, maid and cleaning services and transportation. However, if a person is employed to do a specific task, for example, provide maid and cleaning services, the provision of such would not be viewed as “attendant care.”
+I must confess that if there is logic in this analysis it escapes me. I should have thought that the expression “attendant care” refers to the totality of the services provided by an attendant, and that if a particular service falls within it when it is delivered along with other services, then it must necessarily fall within it when delivered alone. The fact that a particular taxpayer requires to obtain only one of the services commercially surely does not change the nature of that service from being “attendant care” to something else.
+[7] The respondent’s view requires one to give an unjustifiably narrow interpretation to the expression “attendant care” (“les soins de préposé”). The Canadian Oxford Dictionary defines an “attendant” as “a person employed to wait on others or provide a service” and the many meanings of the word “care” include “process of looking after or providing for someone …; the provision of what is needed for health or protection”. The expression “les soins de préposé” used in the French version of the Act is equally expansive in meaning: see Le Nouveau Petit Robert at pages 1766, 2104; Harrap’s Shorter Dictionary at pages 720, 861. The ordinary meaning of the expression, in either official language, takes in the kind of cleaning services for which the appellant claims in this case, as the respondent admits. Those services cannot then be excluded from that meaning simply because the appellant is fortunate enough to obtain the other attendant services that she requires from other sources at no cost. If house cleaning is an “attendant service” when it is provided along with other services then it surely must be an “attendant service” when it is provided alone.
+[8] In Johnston v. The Queen,[1] the Federal Court of Appeal approved the following passages from the judgment of Bowman J., as he then was, in Radage v. the Queen:[2]
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to every one who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+…
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+These statements were made in the context of sections 118.3 and 118.4 of the Act, but they must apply with equal force when interpreting paragraph 118.2(2)(b.1), whose purpose is the same.
+[9] I note, too, that in the definition of the basic activities of daily living found in subsection 118.4(1), Parliament, by paragraph (d), specifically excluded “housekeeping”. It could easily have excluded housekeeping from the expression “attendant care”, had it chosen to do so.
+[10] For all these reasons, the appellant succeeds in respect of her claim that she is entitled to include the amounts that she paid for cleaning services in computing her medical expenses under section 118.2 of the Act.
+[11] I turn now to the appellant’s contention that she should be entitled to include in her computation of medical expenses the sum of $120 that she was required to pay to a medical practitioner on an occasion when she was unable to keep an appointment. She argues that the reason she could not keep the appointment was because on the day of the appointment she was suffering a degree of pain that made it impossible for her to travel to the doctor’s office. She therefore attributes the missed appointment directly to her medical condition, and says that it would be unfair not to treat it as a medical expense.
+[12] I am not unsympathetic to the appellant’s plight, but the words of the Act are quite clear. The relevant provision is paragraph 118.2(2)(a).
+118.2(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+(a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the "patient") who is the individual, the individual's spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés:
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l'année d'imposition où les frais ont été engagés;
+(emphasis added)
+[13] It is abundantly clear in both the French and the English versions of the Act that, in order for an amount to be considered as a medical expense for the purpose of section 118.2, it is not sufficient that it has been paid to a medical practitioner — it must have been paid “… in respect of medical … services …” (pour les services médicaux). In argument, the appellant characterized the service of the doctor to whom the payment was made as having been to make himself available for her during the period of the appointment. In my view the language of the Act simply does not admit of that construction. To constitute a medical service requires something more than simply being available to see a patient should she attend his office at a given time.
+[14] The appeals are allowed, with costs if any, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to have included in the computation of her medical expenses the amounts that she paid in those years for housecleaning services, and is entitled to a deduction in computing her income for 2004 of $1,814 for legal fees.
+Signed at Ottawa, Canada, this 29th day of June, 2007.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2007TCC388
+COURT FILE NO.: 2006-2782(IT)I
+STYLE OF CAUSE: PINA GARCEA ZAFFINO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: June 29, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stacey Sloan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1998] 2 C.T.C. 262.
+[2] [1996] 3 C.T.C. 2510.

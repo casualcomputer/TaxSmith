@@ -1,0 +1,215 @@
+---
+title: "Schnier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110423/index.do"
+last_modified: "2015-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 160"
+citation2: ""
+neutral_citation: "2015 TCC 160"
+decision_date: "2015-06-24"
+language: "en"
+item_id: "110423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2661
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:18:06.349000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab1cac8eb93aa1b2e04007fd93d9ec2de962992955df48a208eb2b09ffbab2cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schnier v. The Queen
+
+- Citation: 2015 TCC 160
+- Decision date: 2015-06-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2661, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schnier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-24
+Neutral citation
+2015 TCC 160
+File numbers
+2013-1322(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1322(IT)G
+BETWEEN:
+PAUL L. SCHNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on May 7, 2015 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Fred Tayar
+Counsel for the Respondent:
+Gregory Perlinski
+ORDER
+IN ACCORDANCE with the Reasons for Order attached, the Respondent’s motion to quash the Appellant’s appeal is dismissed;
+COSTS are awarded to the Appellant in accordance with the applicable tariff subject to either party’s right to make further submissions on costs within 30 days of the date of this Order;
+PARAGRAPH 44 of the Reply shall be struck by virtue of this Order and Reasons;
+THE PARTIES are further directed to submit to the Hearings Coordinator a joint proposed timetable for the remaining steps in the conduct of this appeal within 60 days of the date of this Order, failing which this matter shall be referred back to this motion judge for a status hearing.
+Signed at Toronto, Ontario, this 24th day of June 2015.
+“R.S. Bocock”
+Bocock J.
+Citation: 2015 TCC 160
+Date: 2015-06-24
+Docket: 2013-1322(IT)G
+BETWEEN:
+PAUL L. SCHNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Motion to Quash [1] The Respondent brings this motion to quash the Appellant’s appeal on the basis that the Appellant, at the time of filing his Notice of Appeal, was an undischarged bankrupt. The Respondent argues that under section 71 of the Bankruptcy and Insolvency Act (the “BIA”) the Appellant ceased to have legal capacity in respect of his pre-bankruptcy property and had no authority to bring his appeal. Conjunctively, in the Notice of Motion the Respondent moved to quash on the grounds that under then Rule 58(3)(c), now 53(3)(c) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), the Court may dismiss an appeal if the Appellant is without legal capacity to commence the proceeding.
+[2] This is not the first hearing of this motion. It was heard before Justice Pizzitelli on May 28, 2014. At that time, Justice Pizzitelli directed that his resulting order of that date be served upon the trustee in bankruptcy (the “Trustee”) and the Trustee would have 90 days to bring an application to extend the time for filing a notice of appeal in the matter. Although implicit, the time for bringing an application was within the 90-day and one year period afforded under sections 169 and 167, respectively, of the Income Tax Act, RSC 1985, c. 1 (5th Supp.) (the “ITA”). The order provided that if the Trustee brought such an application to extend the time to file an appeal, then the application would be heard immediately before the date upon which this motion to quash was returnable. If the Trustee did not bring an application within the 90 days specified in Justice Pizzitelli’s order, then the Respondent’s motion to quash was to be set down for hearing at the earliest opportunity. It is on this latter basis that the matter has been presently returned to this Court for a decision.
+II. Positions of the Parties [3] The Appellant, Mr. Schnier, became bankrupt on January 19, 2012, as a result of his proposal under the BIA being rejected by his largest creditor: the Respondent. Mr. Schnier filed his notice of appeal with the Tax Court of Canada on April 10, 2013. Within her reply to the notice of appeal, the Respondent challenged Mr. Schnier’s legal capacity. The basis of the challenge is that Mr. Schnier had no legal capacity and any attempt to gain that legal capacity after the fact was either legally impermissible or factually insufficient. Further, the Trustee, the sole party having capacity under the BIA to bring the appeal, has not done so, nor had the Trustee granted consent at the outset to initiate the appeal.
+[4] Mr. Schnier opposes the motion on two grounds. First, the tax appeal does not relate to Mr. Schnier’s property or its subspecies, a chose or a thing in action, but to a debt and liability. Since a liability is not property, the Trustee is not vested of Mr. Schnier’s obligations because subsection 71(2) of the BIA refers only to property; the subsection is inclusive of all things or choses in action, but not of liabilities. Therefore, according to his counsel, Mr. Schnier remains free to appeal the underlying assessment related to a liability, but not property.
+[5] The second ground is that even if consent or authorization of the Trustee were required because the appeal is a chose or thing in action, it has been given by the Trustee. Consent occurred through various assertions, conduct, and/or affirmations, which shall be reviewed below under the heading “Additional Facts before the Court”. If the Trustee had opposed the bringing of the appeal, Mr. Schnier would have had an avenue to gain Superior Court approval to bring his appeal, but where he has implicit or explicit approval of the Trustee such consent is not required and, at law, not available under section 37 of the BIA.
+III. General Legislative and Regulatory Scheme Applicable to this Motion [6] Section 71 of the BIA provides as follows:
+Vesting of property in trustee
+71. On a bankruptcy order being made or an assignment being filed with an official receiver, a bankrupt ceases to have any capacity to dispose of or otherwise deal with their property, which shall, subject to this Act and to the rights of secured creditors, immediately pass to and vest in the trustee named in the bankruptcy order or assignment, and in any case of change of trustee the property shall pass from trustee to trustee without any assignment or transfer.
+[7] Section 37 of the BIA provides as follows:
+Appeal to court against trustee
+37. Where the bankrupt or any of the creditors or any other person is aggrieved by any act or decision of the trustee, he may apply to the court and the court may confirm, reverse or modify the act or decision complained of and make such order in the premises as it thinks just.
+[8] Similarly, the definition of property under section 2 the BIA is as follows:
+“property” means any type of property, whether situated in Canada or elsewhere, and includes money, goods, things in action, land and every description of property, whether real or personal, legal or equitable, as well as obligations, easements and every description of estate, interest and profit, present or future, vested or contingent, in, arising out of or incident to property;
+[9] Rule 53(3)(c) of the Rules provides as follows:
+53. (3) On application by the respondent, the Court may quash an appeal if
+…
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[10] Rules 4(1) and 7 of the Rules provides as follows:
+Interpretation
+4. (1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+Effect of Non-Compliance
+7. A failure to comply with these rules is an irregularity and does not render a proceeding or a step, document or direction in a proceeding a nullity, and the Court,
+(a) may grant all necessary amendments or other relief, on such terms as are just, to secure the just determination of the real matters in dispute, or
+(b) only where and as necessary in the interests of justice, may set aside the proceeding or a step, document or direction in the proceeding in whole or in part.
+IV. Additional Facts before the Court [11] As a result of the two-stage filing of materials in this matter, a brief inventory of the documents and relevant materials before the Court is required. This is also relevant since the proceeding is a motion; facts relied upon must be properly before the Court.
+[12] In the first instance, the pleadings are before the Court and relevant because of their dates: Mr. Schnier’s Notice of Appeal and Answer dated, respectively, April 10, 2013 and October 30, 2013, and the Reply of the Respondent filed August 28, 2013.
+[13] An affidavit of a law clerk retained at the offices of Mr. Schnier’s counsel was also filed. That affidavit contains certain letters from the Trustee and the Canada Revenue Agency (“CRA”):
+• CRA letter dated January 11, 2013, which is a reply to the Notice of Objection filed by Mr. Schnier, directing Mr. Schnier to file an appeal with the Tax Court of Canada if he was not in agreement with the confirmation to his objection. This particular reply was also copied to the Trustee;
+• Department of Justice letter dated October 25, 2013, prepared after the Notice of Appeal was filed requesting of the Trustee whether the Trustee had granted permission to file the Notice of Appeal and, if yes, when and, further, on what basis;
+• Trustee letter to the Department of Justice dated November 4, 2013, which states:
+“…
+The Trustee did not grant Mr. Schnier permission to file the Appeal; however, CRA’s letter dated January 11, 2013 (the “Confirmation”) was directed to Mr. Schnier and advised that he should appeal to the Tax Court of Canada within 90 days from the date of the Confirmation. The Confirmation is part of a lengthy process which started many years ago prior to the bankruptcy.
+With respect, the Trustee does not believe that the relevant issue at hand is whether the Trustee granted permission to Mr. Schnier to file the Appeal or not. If Mr. Schnier did not draft and file the Appeal, the Trustee would have drafted it and contacted Mr. Schnier for assistance and the Trustee would have filed it.
+…
+The Trustee believes that Mr. Schnier’s filing of the Appeal was the correct thing to do and has saved his estate from bearing professional fees associated with the Trustee drafting and filing the Appeal on his behalf.
+…”;
+• Trustee letter to the Department of Justice dated March 21, 2014, which states:
+“…
+Had Canada Revenue Agency not expressly requested of and directed Mr. Schnier to launch the subject appeal to the Tax Court of Canada in its January 11, 2013 letter, a copy of which is also attached hereto, the trustee would have either launched the appeal or authorized Mr. Schnier to do so.
+To be clear, the trustee authorizes and gives permission to Mr. Schnier to pursue the appeal, nunc pro tunc.
+…”;
+[14] An affidavit was filed by a legal assistant at the Department of Justice which contained a letter from the Trustee dated August 14, 2014, which was after the Order of Justice Pizzitelli referred to above. It contained the following:
+“We are writing with regard to the appeal from Canada Revenue Agency’s (“CRA”) reassessments of Mr. Schnier’s income tax returns for various taxation years (the “Appeal”), which Appeal was filed by Mr. Schnier in or about April 2013 while he was still an undischarged bankrupt.
+CRA challenged Mr. Schnier’s capacity to file the Appeal and the matter was heard in the Tax Court of Canada (the “Tax Court”) on May 28, 2014. The Tax Court adjourned the motion and extended a period of 90 days for MNP Ltd., in its capacity as trustee of the estate of Paul Schnier (the “Trustee”), to bring an application to extend the time for filing a Notice of Appeal in the subject matter (the “Extension Application”), if it so desired.
+After considering the matter, the Trustee wishes to advise you that it will not be filing the Extension Application.
+…”
+[15] An affidavit of Mr. Schnier was sworn and filed in April 2015, indicating that the Minister and the CRA entered into dealings with Mr. Schnier regarding his income tax assessment for the 2012 taxation year. It is noted that this taxation year is after Mr. Schnier’s bankruptcy and therefore is immaterial and not germane to the arguments before this Court.
+[16] The foregoing constitute the affidavits which were filed in support of and in opposition to the motion. Additionally, there are two other orders of the Ontario Superior Court of Justice relevant to this matter. Since they constitute orders of that court and were submitted by Mr. Schnier, their contents may be and form part of the factual record of findings and determinations of a judge or master, as the case may be, seized to hear and decide matters in respect of Mr. Schnier’s bankrupt estate.
+[17] The first document is the Reasons for Decision of Master Jean dated July 18, 2014 regarding her decision to discharge Mr. Schnier from bankruptcy. Respondent’s counsel had opposed the discharge. The relevant excerpts are as follows:
+“…
+The bankrupt made a proposal to his creditors on December 6, 2011. He increased his offer to the creditors over the course of the following creditors meetings. Ultimately, CRA rejected the proposal resulting in this bankruptcy.
+…
+The bankruptcy is for the most part, driven by the bankrupt’s investment in certain tax shelters that gave rise to certain claimed tax benefits, which were subsequently disallowed by CRA. For the present purposes, there is no misconduct of the bankrupt so far as his usual income tax obligations are concerned. He filed and paid all of his taxes as and when required under the law.
+The issue which renders this case a tax driven bankruptcy relates to CRA’s disallowance of the tax shelters. In the late 1980s, the bankrupt was reassessed in relation to his tax shelters going back to 1985 and yearly more or less thereafter. The bankrupt immediately filed notices of objections for each of the taxation years that had been reassessed, the first one having been filed in the late 1980s. The next step in the process, as I understand matters, would have been for CRA to review the matter. It was not until just prior to the filing of the proposal that the bankrupt received confirmations as to some, but not all, of the assessments dating back to 1985. The bankrupt immediately filed an appeal in relation to these confirmations.
+…
+I am not by these reasons attempting to usurp the role of the Tax Court in making the findings in tax cases over which it has jurisdiction. It is clear from Re Norris, [1989] 2 CTC 185 that the proper forum for determining tax liabilities is the Tax Court. That avenue has been pursued by the bankrupt, and possibly by the Trustee. The appeals have not been disposed of. In the circumstances, I am compelled to proceed with the disposition of the bankrupt’s discharge hearing on the facts as presently known. At the present, CRA has a contingent liability that cannot support the applicability of subsection 172.1 of the BIA.
+…
+In terms of his CRA debts, the bankrupt filed timely objections and appeals. Inexplicably, CRA took upwards of 20 years to deliver confirmations. In the meantime, the bankrupt continued to claim tax shelters, some of which involved investments that gave rise to multiple years’ tax benefits. The bankrupt did testify that he attempted to follow up on the objections over the ensuring [sic] years without success.
+…”
+[18] Justice McEwen of the Ontario Superior Court of Justice on December 8, 2014, by way of short endorsement dismissed the Attorney General of Canada’s motion to set aside the order of Master Jean which, in turn, discharged Mr. Schnier from bankruptcy over the objections of the Respondent.
+V. Issues to be Decided [19] The Court will now return to the first issue before it:
+A. Does the Tax Court of Canada Appeal Constitute a Thing or Chose in Action? [20] The Respondent brings this motion under Rule 53(3)(c) to quash the appeal. Therefore, the onus is on the Respondent to satisfy the Court that Mr. Schnier does not have legal capacity to commence or continue the proceeding.
+[21] Pursuant to section 71 of the BIA, a bankrupt has no capacity to dispose of or otherwise deal with her property, which immediately vests in the Trustee. The definition of “property” in section 2 of the BIA is very broad and includes “things in action”. If an appeal before the Tax Court is a thing in action, then it is property and a bankrupt has no capacity to deal with his appeal without the action or consent of the Trustee.
+[22] The Federal Court of Appeal held in 2000 in Biron c. R, 2002 DTC 6958 (Eng.) (“Biron”), that property includes all of the bankrupt’s rights to action other than those of a personal nature and those affecting his exempt property. The Federal Court of Appeal summarily accepted the trial judge’s conclusion that the appellant could not prosecute his tax appeal without leave from the Trustee because the bankrupt does not have the capacity to sue.
+[23] Similarly, Justice V. Miller held in Lawrence v. R, 2012 TCC 331 (“Lawrence”) that “property” is defined extremely broadly in the BIA. Therefore the appellant, while an undischarged bankrupt, did not have standing to file a notice of objection because all rights of action vested in the Trustee. There was no evidence in Lawrence of approval, consent or acquiescence by the Trustee.
+[24] Following the Biron decision, Justice Bédard in 4028490 Canada Inc. v. R, 2005 TCC 50 (“4028490 Canada Inc.”), refused an undischarged bankrupt’s application under section 304 of the Excise Tax Act for an extension of time to file a notice of objection. Justice Bédard held that the bankrupt did not have capacity to bring the application. Likewise, nothing approaching approval of the Trustee was before the court.
+[25] The Federal Court of Appeal’s broadly based, generic decision in Biron is binding on this Court. Moreover, it has been utilized by subsequent Tax Court decisions including Lawrence and 4028490 Canada Inc. Therefore, a Tax Court appeal is a thing in action and therefore property within the meaning of the BIA. Accordingly, the Trustee must in some way assume, approve or condone the bringing of an appeal before the Tax Court. Certainly, opposition by the Trustee is fatal and returns any appellant to a superior court under section 37 of the BIA for an order of that court allowing the bankrupt to appeal where the Trustee opposes the bringing of the appeal.
+[26] The Court will now proceed to the second issue before it:
+B. Was Sufficient Approval given by the Trustee for Mr. Schnier’s Tax Appeal? [27] Within written submissions, the Respondent accepts that where the Trustee grants permission to an appellant to commence an appeal, an appellant may do so. However, in the absence of explicit permission or where permission is given after the fact, the Respondent submits that Mr. Schnier was and is without legal capacity to commence his appeal.
+[28] However, for the Respondent to succeed in quashing the appeal it must convince the Court to act under Rule 53(3)(c) of the Rules as informed by Rule 4. A close reading of Rule 53(3)(c) states (with emphasis added):
+53. (3) On application by the respondent, the Court may quash an appeal if
+…
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[29] Similarly, to repeat, Rule 4(1) states:
+4. (1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+[30] In the case of Garage A.D. Inc. c. R, 2008 TCC 246 (“Garage”), the respondent brought a motion to quash the appeal which had been commenced by an undischarged bankrupt corporation. Justice Lamarre (as she then was) adjourned the motion to allow a 50% shareholder of the corporate appellant to request authorization from the Trustee, or failing that, obtain an order in bankruptcy court (presumably under section 37 of the BIA). The obvious implication is that if the Trustee were to authorize the 50% shareholder to act as the corporate appellant’s agent, then the 50% shareholder could continue the appeal.
+[31] There is no suggestion in Garage that the corporate appellant needed to have legal capacity to commence the appeal. Instead, obtaining legal capacity (authorization from the Trustee) to continue the appeal appeared to be sufficient.
+[32] Again, the applicable text and discretionary authority for this Court is within Rule 53(3)(c). It allows this Court to dispositively end Mr. Schnier’s appeal based upon a discretionary, technical remedy sought by the Respondent. The wording of the rule is plain and clear. In order for the Court to exercise its discretion to quash an appeal under this rule, Mr. Schnier must be without legal capacity to commence or continue his appeal. The Respondent ignores the word “continue” and focuses her analysis on the word “commence”. This is reflected in the Respondent’s written submissions which reference “commence” to the exclusion of “continue”. But the rule is in the disjunctive form. Even if Mr. Schnier did not have legal capacity to commence his appeal, he may have gained legal capacity under the Rules to continue it as described below.
+[33] By letter to the CRA dated November 4, 2013, the Trustee stated that he believes that “Mr. Schnier’s filing of his appeal was the correct thing to do…”. By further letter to the Department of Justice dated March 21, 2014, the Trustee stated that he “authorizes and gives permission to Mr. Schnier to pursue the appeal, nunc pro tunc.”
+[34] Factually, in the present case, the Trustee has stated that had he known of Mr. Schnier’s desire to appeal, the Trustee would have granted express permission or commenced the appeal. The Trustee makes this clear in the letter dated November 4, 2013. This is further supported by the Trustee’s express permission to continue the appeal on March 21, 2014.
+[35] Moreover, had the Trustee objected to or refused to commence the appeal, factually there would be little question that Mr. Schnier would lack legal capacity within Rule 53(3)(c). The vested owner of the right would have assessed a risk or exposure of the bankrupt’s estate and refused consent or leave. Then Mr. Schnier could have pursued an order under section 37 of the BIA. However one may characterize the amalgam of directives from the Trustee, the bundle is factually much closer to affirmation or consent than condemnation or refusal. This places the present appeal and motion on a different factual footing than a situation where the Trustee remains ignorant of (4028490 Canada Inc.), opposes (Biron) or is no longer administering the estate (Lawrence).
+[36] In the present case, the bankrupt filed an appeal because he thought he was required to. Although he did not inform the Trustee at that time, he did not intentionally hide information nor misrepresent his actions to the Trustee. Where the Trustee subsequently grants permission, the Respondent’s motion to quash should not succeed. The onus is on the Respondent and Rule 53(3)(c) is discretionary. Moreover, Rule 4(1) requires that the rules be interpreted so as to afford a just, expeditious determination on an appeal’s merits. A technical defect due to inadvertence and timing, clarified after the fact, should not prevent an appeal from continuing towards the goal of it being heard on its merits, where the Trustee approves, and does not oppose, the continuation of the appeal.
+[37] Further, since Rule 53(3)(c) is discretionary, it marches with Rule 4(1) a second time. The rule states that the Court “may” quash an appeal upon motion by the Respondent. It is arguable that the Court is not required to quash the appeal even where the Respondent has met the technical requirements of Rule 53(3)(c), but the Court is satisfied Rule 4 and/or Rule 7 should be invoked: provided a substantive right is not created: Nicholls v. R, 2012 FCA 243 at paragraph 6. Clearly the right to appeal exists under the ITA and Tax Court of Canada Act. It does, however, require the Trustee’s consent to continue or “pursue”. The discretion to quash should not be used lightly. The fact that Rule 53(3)(c) is discretionary means that the Court can consider Rule 4(1) in determining whether to quash an appeal and prevent the matter from being heard on its merits.
+[38] “Capacity” is defined in the BIA, not the Rules. Under the BIA Mr. Schnier can be considered not to have legal capacity for its purposes. The issue before the Court on this motion is whether Mr. Schnier lacks legal capacity to commence or continue an appeal within the meaning of Rule 53(3)(c) sufficient to raise the Court’s discretion to quash his tax appeal. This motion does not concern a section 37 order to proceed which Mr. Schnier seeks under the BIA. It concerns the Respondent who seeks to quash the appeal under this Court’s Rules. Although the fact that an undischarged bankrupt does not have capacity in the absence of Trustee consent or leave within the meaning of section 71 of the BIA is relevant, it cannot be dispositive. Unlike section 71 of the BIA, Rule 53(3)(c) is subject to Rule 4(1) and speaks directly to this Court’s own procedure, jurisdiction, and discretion in respect of tax appeals.
+[39] Should the above interpretation of the disjunction in Rule 53(3)(c) prove wrong, it remains factually arguable that Mr. Schnier now has legal capacity under this Court’s Rules to have commenced the appeal in the first instance. He was an undischarged bankrupt (without “capacity” according to section 71 of the BIA), had not obtained permission from the Trustee, nor at the outset asked for permission. However, the Trustee explained that he would have either filed the appeal or authorized Mr. Schnier to do so, and further, the Trustee expressly authorized Mr. Schnier to pursue the appeal. This is strong after-the-fact evidence that the Trustee would have consented at the outset had he known it to be necessary under the Rules. This is arguable retroactive implied consent sufficient to give Mr. Schnier legal capacity to have commenced the appeal under the Rules. Nowhere in the Rules or this Court’s jurisprudence is an after-the-fact expression of prior consent seen to be insufficient so to call upon the Court’s discretion to quash the appeal. The Respondent has not referred to any on-point cases applicable to this Court that stand for this proposition. The authorities relate to refusal, ignorance or opposition by the Trustee.
+[40] Purposively, the vesting power in the Trustee pursuant to section 71 of the BIA is to prevent an undischarged bankrupt from reducing or harming the assets in the estate. The Trustee is best suited to preserve the assets and properly administer the estate. However, as stated by the Trustee himself after his own assessment, no harm can come to the estate, or anyone concerned, by allowing Mr. Schnier to proceed for two reasons: (i) aside from possible costs, a further reassessment is not exigible against the discharged bankrupt; and (ii) the Trustee is not opposed: Leith v. Minister of National Revenue, 1970 CarswellNat 46.
+VI. Summary [41] For these reasons, the motion to quash under Rule 53(3)(c) is denied and the Appellant is free to proceed with the prosecution of his appeal before this Court on the basis of the Trustee’s approval. Paragraph 44 of the Reply shall be struck by virtue of these Reasons and Order.
+[42] The parties are directed to provide the Hearings Coordinator with a proposed timetable for the remaining steps in the litigation within 60 days of the date of this Order, failing which this matter shall be returned to this judge for a status hearing.
+[43] Costs are awarded to the Appellant in accordance with the tariff subject to either party’s right to make further written submissions within 30 days of the date of this Order.
+Signed at Toronto, Ontario, this 24th day of June 2015.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2015 TCC 160
+COURT FILE NO.:
+2013-1322(IT)G
+STYLE OF CAUSE:
+PAUL L. SCHNIER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 7, 2015
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+June 24, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Fred Tayar
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Fred Tayar
+Firm:
+Fred Tayar & Associates
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

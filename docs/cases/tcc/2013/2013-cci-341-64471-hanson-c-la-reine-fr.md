@@ -1,0 +1,136 @@
+---
+title: "Hanson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64471/index.do"
+last_modified: "2013-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 341"
+citation2: ""
+neutral_citation: "2013 CCI 341"
+decision_date: "2013-10-25"
+language: "fr"
+item_id: "64471"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5937
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:58:51.259000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d60d1fd1d472748e8651c796c93d64ae9765d416a15413ba1844756083c5bb64"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hanson c. La Reine
+
+- Citation: 2013 CCI 341
+- Decision date: 2013-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5937, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hanson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-25
+Référence neutre
+2013 CCI 341
+Numéro de dossier
+2013-3326(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3326(IT)APP
+ENTRE :
+FITZROY HANSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 25 octobre 2013 à Toronto (Ontario).
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+____________________________________________________________________
+ORDONNANCE
+La demande visant à obtenir une ordonnance prorogeant le délai de signification des avis d’opposition aux cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est rejetée.
+Signé à Ottawa, Canada, ce 28e jour d’octobre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+Référence : 2013CCI341
+Date : 20131028
+Dossier : 2013-3326(IT)APP
+ENTRE :
+FITZROY HANSON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Fitzroy Hanson présente une demande afin d’obtenir une ordonnance prorogeant le délai de dépôt des avis d’opposition aux cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006.
+[2] Les cotisations concernent le refus de crédits pour dons de bienfaisance visés par un programme appelé « Global Learning Donation Program ».
+[3] L’intimée soutient que les prorogations ne devraient pas être accordées, parce que le requérant n’a pas présenté de demande de prorogation de délai au ministre du Revenu national dans l’année suivant l’expiration du délai imparti pour déposer les avis d’opposition.
+[4] Les circonstances relatives à la présente affaire inspirent de la compassion. M. Hanson se trouvait dans une situation familiale très difficile pendant une partie de la période en cause. De plus, lui et son épouse ont déclaré dans leurs témoignages qu’ils avaient signé les avis d’opposition et qu’ils avaient reçu l’assurance du représentant de Global Learning qu’ils seraient déposés. Rien n’indique que ces avis aient été envoyés, et le représentant semble refuser de parler à M. Hanson. Il semble que les Hanson sont abandonnés à leur sort par le représentant.
+[5] Malgré la compassion que suscitent les circonstances, je dois rejeter la demande, parce que le délai strict prévu par la loi n’a pas été respecté. Ce délai est prévu à l’al. 166.2(5)a) :
+166.2 (5) Acceptation de la demande - Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) [demande de prorogation présentée au ministre] dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[…]
+[6] En l’espèce, les délais dans lesquels les demandes de prorogation de délai devaient être présentées au ministre ont expiré le 26 janvier 2010 et le 30 mars 2011, pour les années d’imposition 2005 et 2006 respectivement. Compte tenu de la preuve qui a été produite, je ne peux conclure que ces échéances ont été respectées.
+[7] Le législateur a prévu des délais stricts pour le dépôt des avis d’opposition et des demandes de prorogation de délai. La Cour ne peut proroger les délais pour quelque raison que ce soit, même par compassion. Le principe applicable est énoncé dans Grunwald c La Reine, 2005 CAF 421, au paragraphe 46 :
+[46] […] Les demandes de prorogation du délai pour signifier les avis d’opposition devaient être présentées au ministre dans l’année suivant le 5 avril 2001, à savoir, au plus tard le 5 avril 2002. Elles ne l’ont été que le 26 juin 2003. Le ministre et, par voie de conséquence, le juge McArthur n’avaient pas compétence pour accueillir les demandes de prorogation de Mme Grunwald, et le juge McArthur a eu raison de rejeter ses appels.
+[8] La demande sera rejetée.
+Signé à Ottawa, Canada, ce 28e jour d’octobre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 5e jour de décembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 341
+NO DU DOSSIER DE LA COUR : 2013-3326(IT)APP
+INTITULÉ : FITZROY HANSON et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 octobre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 28 octobre 2013
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

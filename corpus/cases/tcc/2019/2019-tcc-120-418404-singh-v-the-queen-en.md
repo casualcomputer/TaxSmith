@@ -1,0 +1,192 @@
+---
+title: "Singh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/418404/index.do"
+last_modified: "2019-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 120"
+citation2: ""
+neutral_citation: "2019 TCC 120"
+decision_date: "2019-03-26"
+language: "en"
+item_id: "418404"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4388
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:17:24.840000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ffdf82c0f0a53c07f1924320a76ecb775e239fe69e407f35e3c4f2170c7fadd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Singh v. The Queen
+
+- Citation: 2019 TCC 120
+- Decision date: 2019-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4388, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-26
+Neutral citation
+2019 TCC 120
+File numbers
+2017-4165(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-4165(GST)I
+BETWEEN:
+RANA SINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the reasons for judgment rendered on March 26, 2019 at Toronto, Ontario be filed. The reasons contained in the transcript (certified by the Court Reporter) have been edited for style, clarity and to make minor corrections only and contain no substantive changes.
+Signed at Toronto, Canada, this 24th day of May 2019.
+“R.S. Bocock”
+Bocock J.
+Citation: 2019TCC120
+Date: 20190524
+Docket: 2017-4165(GST)I
+BETWEEN:
+RANA SINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on March 26, 2019, in Toronto, Ontario.)
+Bocock J.
+[1] The following are my reasons for judgment in this appeal. They are delivered today, following adjournment and deliberation, after hearing the matter on March 13, 2019, in Toronto.
+[2] The appeal concerns the Appellant, Rana Singh's, liability as a director of Ranadia Inc. for Ranadia Inc.'s unremitted GST.
+[3] The Minister assessed Mr. Singh pursuant to the Excise Tax Act, the relevant provisions of which provide as follows, 323(1):
+Liability of directors
+If a corporation fails to remit an amount of net tax as required under subsection 228(2), the directors of the corporation at the time the corporation was required to remit are jointly and severally liable to pay the amount.
+[4] There are some conditions and limitations to such vicarious liability under the Excise Tax Act. The first set of limitations are that the debt must be proven and otherwise be otherwise uncollectible from the corporation, or that the corporation has been dissolved or is bankrupt.
+[5] The Minister's basis for assessment of Mr. Singh for the liability relates to the first mentioned ground, namely that the debt has been proven and remains uncollectible from the primary tax debtor.
+[6] The evidence of that before the Court was a certificate of unpaid taxes dated the 3rd day of July, 2015, in the amount of $15,191.59. Similarly, there was a writ of seizure and sale filed with the Federal Court against the corporation, Ranadia Inc., for the same amount. The writ was filed on February 4, 2016. As mentioned, it was in the amount of $15,191.59, plus interest and costs.
+[7] Further, an affidavit was filed by Respondent’s counsel, which was unchallenged, which indicated that such amounts went uncollected by the sheriff of the Judicial District of York, after the writ was filed in that sheriff’s bailiwick.
+[8] Certain dates in this appeal are of particular importance. So are the other exceptions that exist under subsection 323(1) and (4) and (5) of the Excise Tax Act.
+[9] Where the tax debt is unsatisfied, the Minister is required to assess a director for the purposes of the unremitted and uncollected GST. Mr. Singh was reassessed by virtue of a notice of reassessment dated August 30, 2016.
+[10] As well, there is a due diligence defence under subsection 323(3), which provides that a director who has exercised due diligence in the collection and remittance of the tax may be relieved from the vicarious liability under that section. Frequently, such are the defences which are offered before the Court. That is not a defence which has been proffered nor advanced by Mr. Singh before this Court in this appeal.
+[11] Instead, subsection (5) of section 323 has been advanced by Mr. Singh as his defence. And it provides:
+An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[12] That assessment as I mentioned was levied by the Minister against Mr. Singh on August 30, 2016.
+[13] The timing of the assessment is the nub and gist of the appeal before this Court. Respondent's counsel agreed with the Court that if the Court believes that Mr. Singh effectively and legally resigned as a director, as he asserts, on June 3, 2011, then subsection 323(5) will apply and the assessment is unenforceable by virtue of that subsection. This is because the Minister would have failed to assess before June 3, 2015, that date being the last date two years after the asserted resignation by Mr. Singh.
+[14] As such, if the resignation on that date is effective, then the appeal will be allowed. If the Court does not believe the resignation was effective June 3, 2011, then the assessment is otherwise effective. And Mr. Singh would be liable for the unremitted tax as a director, and the appeal would be dismissed.
+[15] Some additional facts are needed for the Court to effectively analyse and deliberate upon the arguments and evidence before it.
+[16] Firstly, with respect to the tax liability in the assessment which I mentioned, there is little in dispute before the Court. The underlying tax debtor is the
+Ontario
+corporation, Ranadia Inc. The affidavit filed by the Minister encapsulates the filing and assessment history of Ranadia Inc., and specifically within that affidavit, the following dates are relevant. Mr. Roy, who swore that affidavit filed before the Court the 8th day of March, 2019, indicated that his examinations of the record show that GST returns were not filed for Ranadia Inc. Further, on September 13, 2007, the Minister issued a notice of assessment under subsection 299(1) of the Excise Tax Act, and also issued an additional assessment on April 9, 2008, in respect of the two amounts of tax, the totals of which and the principal of which are the amount previously mentioned, namely $15,191.59.
+[17] The underlying liability of Ranadia Inc. has not been substantially disputed in the notice of appeal or before the Court. Mr. Singh had indicated initially he disputed the veracity and accuracy of the section 299(1) assessments. Mr. Singh anecdotally stated that the liability related to an uncollected retainer due the corporation, and implied an adjustment to reduce GST owing may be in order.
+[18] Notwithstanding some confusion raised in cross-examination, there was no evidence, either documentary or cogent viva voce evidence before the Court, to displace the Minister's assessments in 2007 for the unremitted GST. Little time was spent on this issue. The Court dismissed it before argument.
+[19] Therefore, the sole issue before the Court remains: Is there sufficient evidence before it to support the assertion, on balance, that Mr. Singh resigned as a director on June 3, 2011, as he asserts?
+[20] Let us review the evidence tendered by Mr. Singh in that particular regard.
+[21] Firstly, Mr. Singh provided documents to the Court. I believe it may have been actually included in the Respondent's Book of Documents, which the Respondent's counsel kindly put together. Those documents were submitted by Mr. Singh to the Canada Revenue Agency on two dates in 2017.
+[22] The first tranche of documents was submitted on April 27, 2017, with a cover page which included a resignation of director, namely Mr. Rana Singh, the Appellant, indicating that he resigned as a director effective June 3, 2011. That particular resignation of director purported to be signed on that date, at
+Woodbridge ,
+Ontario
+. And a notation was placed on the bottom line of that particular resignation, indicating that it had been hand-delivered and copy-mailed to 8 Francine Court, Woodbridge, Ontario, L4L 1P4, being the address of the corporation at the time.
+[23] Mr. Singh also testified that he handed a copy of that resignation to his wife, who at that time was the remaining director of the corporation.
+[24] Similarly, on that same date back in April of 2017, a directors' register copy was submitted to the Canada Revenue Agency, which indicated that Mr. Singh was elected as a director on the 19th of October, 2004, and that he retired as director, again, on June 3, 2011.
+[25] Secondly, there was another tranche of documents sent six days later, on May 3, 2017, again, to the Canada Revenue Agency. That particular covering letter to the Canada Revenue Agency re-submitted the April 27 documents and also additionally provided a copy of the resolution of the shareholders approving the resignation of Mr. Singh, a resolution of the shareholders indicating that Nadia Singh would become the sole director of the corporation, and lastly, the consent to act of Nadia Singh.
+[26] Further, although not necessarily relevant to the issue of directors, there was a directors' resolution signed, consistently by Nadia Singh, indicating that Nadia Singh would become the president and secretary-treasurer of the corporation.
+[27] Now the issue regarding resignation is and requires reference to different legislation. The term, “resignation”, itself is not defined in the Excise Tax Act. Instead, it is governed by the law of the jurisdiction in which the corporation was incorporated. That would require us to turn to the Business Corporations Act, RSO 1990 c.B.16 (“OBCA”) and, specifically, section 121.
+[28] Those provisions provide as follows under section 121, "Currency." This refers, of course, to the currency of directors. At 121(1) again, these are excerpts, "When director ceases to hold office":
+A director of a corporation ceases to hold office when he or she, (a) dies or, subject to subsection 121(2), resigns.
+[29] Subsection 121(2) provides, as to the effective date of resignation:
+A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+[30] The purpose of this last clause is to allow directors to resign on a future date, but deliver their resignation in advance.
+[31] Respondent's counsel says that the evidence before the Court is not sufficient to establish that Mr. Singh resigned as a director of Ranadia Inc. on June 3, 2011, for the following general reasons.
+[32] The first is that there are two unanswered Canada Revenue Agency demands, written demands prior to the assessment of Mr. Singh, which were sent in 2015, concerning his liability as a director.
+[33] Secondly, the resignation materials sent in April and May of 2017 were sent to the Canada Revenue Agency in two tranches of documents, five or six days apart, namely April 27, 2017 and May 3, 2017.
+[34] Thirdly, Respondent's counsel asserts that although the directors' register reflects the resignation of Mr. Singh, it does not reflect the remaining or new director's status within the corporation.
+[35] And lastly, there was no notice of change filed by Mr. Singh -- or by the corporation, for that matter -- regarding his resignation pursuant to the provisions of the Corporations Information Act, RSO 1990 c.C.39 (“CIA”) within the province of Ontario.
+[36] With respect to these arguments, the Court makes the following findings:
+[37] Firstly, with respect to the first two unanswered Canada Revenue Agency demands, the first two Canada Revenue Agency demand letters specifically addressed due diligence defences of directors. Mr. Singh did not advance such an argument then, in his notice of appeal, or before this Court. Only the first Canada Revenue Agency letter vaguely references his status as a director, the second, not at all.
+[38] In turning to those particular letters -- and the Court notes that it did reference these during submissions at the time of the hearing -- the very first letter, dated June 25, 2015, simply states in the opening paragraph:
+The above corporation that you appear to be a director of owes the Canada Revenue Agency unremitted GST.
+[39] The balance of the letter deals with the issue of director's liability, issues of the amount of the debt and issues of due diligence. Again, a due diligence defence being contained in section 323(3) of the Excise Tax Act.
+[40] Similarly, the Canada Revenue Agency letter that follows that, on August 12, 2015, does not reference the issue of resignation as a director or status as a director, but merely the assumption of being a director and, again, substantively deals with the issue of due diligence defences.
+[41] Now if the letter had said perhaps, "If you are not a director of the corporation or, if you had not been a director of the corporation, please provide us with evidence," as it did for due diligence defences, then, if Mr. Singh thereafter had not provided such evidence, the Court might give weight to this inverted rebuttal argument of the Crown.
+[42] Otherwise, it cannot. The non-response is simply not germane to the issue of whether Mr. Singh was a director of the corporation and whether that point was raised by the Canada Revenue Agency.
+[43] And again, these particular documents are not relevant to the documents that were submitted to the Canada Revenue Agency in 2017 regarding the resignation, nor the consistent notice of appeal, nor Mr. Singh's evidence before this Court.
+[44] The next issue concerns the two tranches of materials sent to the Canada Revenue Agency by Mr. Singh. Again, these documents were sent five days apart, apparently after discussions between the Respondent's agent and Mr. Singh. The consistency between the documents, the fact they were sent in that short a period of time and the reference by Mr. Singh to "additional documents requested," all lend a contemporaneous legitimacy to them. They were all sent within six days of each other.
+[45] Further, the candid and then-current admission by Mr. Singh to the Canada Revenue Agency that the resignation may not have been filed under the CIA lacks a self-interested perspective normally accompanying the gilded-lily standard of self-serving evidence. This kind of evidence, as we will see, is relevant in two of the cases that were handed up by Respondent's counsel as the Minister’s authorities.
+[46] The third point was that the directors' register is incomplete. The incompleteness of the directors' register is not strictly relevant to Mr. Singh's resignation. Not dissimilar from the imperfect quality of the evidence above, it adds rather than detracts from credibility because it has not been over presented or sanitized through the advantage of the passage of time or the ability to effect curative provisions.
+[47] The last item is that counsel for the Respondent has indicated that no notice of change was filed under the CIA, reflecting the actual resignation of Mr. Singh back in June of 2011.
+[48] This again is, strictly speaking, not the legal test for effective resignation as provided for under section 121 of the OBCA. This alone -- that is to say, the absence of that CIA filing -- is likely the reason this appeal has made it this far.
+[49] Legally, a director ceases to hold office when he or she resigns or at the date such resignation references, whichever is later. He or she resigns when it is effective, and that occurs when a written resignation is received by the corporation.
+[50] To that end, the Court references the facts in a case handed up by Respondent's counsel. That case is Her Majesty the Queen v. Chriss, 2016 FCA 236, and specifically, excerpts from paragraphs 13 through 16 of that particular case.
+[51] In that case, Justice Rennie was dealing with two particular issues. The first was whether the intention to resign and an unsigned resignation were sufficient and, secondly, even if the resignation was not effective, was there a reasonable belief in play that allowed the Appellant, in that case, Mrs. Chriss, to be exculpated from vicarious liability.
+[52] Specifically referencing paragraphs 13 through 15, Justice Rennie states:
+[13] The limitation period demands, for its application, precision in the date of resignation. If a director has resigned, the Crown may no longer be able to look to the director for unremitted taxes, and other directors may have to absorb the director's share of such liability. Further, there is a two-year limitation period which constrains the Minister's ability to initiate proceedings against directors for unremitted source deduction.
+[53] This is nothing new; this Court has been referencing that since beginning its reasons today. Justice Rennie continues:
+[14] It is thus self-evident that the status of directors must be capable of objective verification. Reliance on the subjective intention or say-so of a director alone would allow a director to plant the seeds of retroactive resignation, only to rely on it at some later date should a director-linked liability emerge. The facts of this case illustrates why subsection 121(2) of the OBCA has been drafted the way it is: the dangers associated with allowing anything less than delivery of an executed and dated written resignation are unacceptable.
+[54] Further, at paragraph 15:
+[15] There was no 'written resignation received by the corporation' within the meaning of subsection 121(2). Unsigned letters of resignation with no effective date, were found in the solicitor's file, thus, the judge erred in concluding that the intention of the respondents to resign satisfied the necessary preconditions of an effective resignation.
+[55] I will not bore the parties with further direct reference to the text of the case, although Justice Rennie then also dismisses the notion of a reasonable belief on the part of the appellant of her resigning where no signed resignation exists.
+[56] The facts in this appeal do not deal with an unsigned resignation, a reasonable belief that one had been signed or its late production, mere days before trial, as was the case in Bono v HMQ, 2010 TCC 466. That was also handed up by Respondent's counsel.
+[57] In that case, Justice Boyle refused to abridge the time under the Canada Evidence Act in allowing such a resignation into evidence, since the resignations appeared, in his words, "from nowhere" mere days before the trial.
+[58] As well, in Bono, a notice of change was asserted to have been filed, but was never received by the Corporations Branch of the provincial Ministry. This as mentioned earlier, is an attempt to gild the lily of evidence regarding a resignation.
+[59] In this appeal, no such things have occurred.
+[60] I am prepared to accept Mr. Singh's evidence. It has some warts. Those warts show it was not prettied up, as it were. On balance, it shows he resigned as a director on June 3, 2011.
+[61] Therefore, the Minister's assessment dated August 30, 2016 was not levied within the two years of Mr. Singh's effective resignation date as provided for under subsection 323(5).
+[62] For these reasons, the appeal is allowed; costs are awarded to the Appellant in accordance with the applicable tariff.
+Signed at Toronto, Canada, this 24th day of May 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019TCC120
+COURT FILE NO.:
+2017-4165(GST)I
+STYLE OF CAUSE:
+RANA SINGH AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 13, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORAL JUDGMENT:
+March 26, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Warren Silver
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

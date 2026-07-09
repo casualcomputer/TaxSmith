@@ -1,0 +1,166 @@
+Title: Brent Kern Family Trust v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/63603/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-327-63603-brent-kern-family-trust-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-17
+
+# Brent Kern Family Trust v. The Queen
+
+- Citation: 2013 TCC 327
+- Decision date: 2013-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5946, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brent Kern Family Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-17
+Neutral citation
+2013 TCC 327
+File numbers
+2010-1860(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1860(IT)G
+BETWEEN:
+THE BRENT KERN FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 19, 2012, at Winnipeg, Manitoba
+Further Submissions on July 3, 2013 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Bonnie F. Moon and
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+In accordance with the Reasons for Judgment attached, the appeal from the reassessments made under the Income Tax Act (“Act”) for the 2005 and 2006 taxation years is dismissed on the basis that subsection 75(2) of the Act is not applicable to property transferred to a trust by a beneficiary for valuable consideration.
+Signed at Ottawa, Ontario, this 17th day of October 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 327
+Date: 20131017
+Docket: 2010-1860(IT)G
+BETWEEN:
+THE BRENT KERN FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Background and Issues
+[1] At the core of this Appeal is the engagement and applicability of the attribution rule within subsection 75(2) of the Income Tax Act (“Act”). Once applicable, subsection 75(2) effectively prohibits a person from transferring property to a trust and having the income, loss, capital gain or capital loss (“benefit”) flow to a different entity, where the transferor may have a future opportunity to again receive the benefit. Instead, the rule under subsection 75(2) confers the benefit back to the transferor immediately and thereby precludes the diversion of the benefit through the use of a trust.
+[2] Until recently it mattered not whether the property was transferred by gift or sale; however, in Canada v Sommerer, 2012 FCA 207, 2012 DTC 5126 (FCA), the Federal Court of Appeal pronounced that a transfer by genuine sale will not invoke subsection 75(2), unlike in situations where the property is gifted. In this appeal, the property in the form of shares was sold for valuable consideration by the transferor in the persona of the Appellant. Therefore, this Court must determine if that sale falls within the ambit of Sommerer. If it does, sub-section 75(2) will not apply, the benefit from the dividend income will remain with the Appellant and the Appellant cannot succeed in this appeal.
+[3] If Sommerer does not apply and sub-section 75(2) applies, the sole issue remaining is whether the use of this specific attribution rule to reduce tax, where the initial owner acknowledges the benefit and primary purpose of avoiding tax, constitutes a misuse or abuse of the subsection so as to attract the General Anti-Avoidance Rule (“GAAR”) under subsections 245(1) and (3) of the Act.
+[4] Timing and sequence did not assist the hearing of this matter. The initial hearing was concluded on June 19, 2012. During the Court’s deliberations, the Federal Court of Appeal released Sommerer some 23 days later on July 13, 2012.
+[5] Upon release of Sommerer, counsel for the Respondent requested additional submissions on the issue asserting the law had changed. Counsel for the Appellant opposed this request on the basis that: relevant discoveries were not held in the context of such a legal presumption (the non-applicability of subsection 75(2)), prejudice had been suffered and Sommerer was not applicable in any event.
+[6] An Order of the Court was issued on October 15, 2012 (2012 TCC 358) granting the request to hear further legal submissions and affording the Appellant further discovery rights and awarding costs. After those examinations for discovery were completed, further oral and written submissions were heard and received respectively in early July of 2013.
+II. Factual Background
+[7] Counsel greatly shortened the proceedings through two Statements of Agreed Facts applicable to each phase of the hearing. The material facts relevant to this appeal concerning the transaction structure are:
+1. From 1997 to July 2004 Mr. Kern was originally the sole shareholder and controlling mind of Wilf’s Oilfield Services (1997) Ltd. (“OPCO”);
+2. An Alberta limited company, 905558 Alberta Ltd., was created in November of 2000 (“Holdco”);
+3. Two trusts were created on July 30, 2004: the Appellant, the Brent Kern Family Trust (the “Brent Trust”), and the Kern Family Trust (“the Kern Trust”);
+4. Mr. Kern ordered his affairs such that he became a preferred shareholder in OPCO and Holdco. Mr. Kern and OPCO were beneficiaries, along with other family members in the Brent Trust, whereas Holdco, Mr. Kern and family members were beneficiaries in the Kern Trust;
+5. Through share exchanges, the common shares previously held by Mr. Kern in OPCO and Holdco, were exchanged for preferred shares; and
+6. For valuable consideration, OPCO common shares were sold to Kern Trust and similarly Holdco’s shares of OPCO were sold to the Appellant, Brent Trust.
+[8] The material facts concerning the reassessed transactions, which occurred after the creation of the structure, described in paragraph 7 above are essentially the same in each of the two reassessed taxation years, namely:
+2005
+1. OPCO declared a dividend in favour of Kern Trust for $245,000.00;
+2. Kern Trust allocated $245,000.00 to Holdco;
+3. Holdco declared a dividend on the common shares owned by the Brent Trust in the amount of $245,000.00;
+4. The Appellant contends that subsection 75(2) applies and deems the dividend of Brent Trust to be received by OPCO (the “Attributed Dividend”), because OPCO is the person which transferred the property to Brent Trust while OPCO was an enduring potential beneficiary;
+5. On that basis, the Brent Trust reported no income from the declared dividend on its T-3 trust income return;
+6. This Attributed Dividend in OPCO’s hands was a dividend received by a corporation pursuant to section 112 of the Act which section affords the non-taxable payment of inter-corporate dividends; and
+7. The amount of the dividend, $245,000.00 (“Dividend Amount”) was allocated and paid to Mr. Kern, who in turn lent the Dividend Amount to OPCO.
+2006
+Similar transactions and income tax reporting occurred in 2006, save and except that the amount of the 2006 dividend declared was $155,000.00 and through incremental reduction, the amount ultimately lent to OPCO by Mr. Kern was $151,591.99.
+[9] As a result of the 2005 and 2006 transactions in respect of which neither OPCO nor the Appellant declared income nor paid tax, the Minister reassessed the Appellant on the basis of the non-reporting of taxable dividends of $306,250.00 and $190,368.00 purportedly received by the Appellant in each of taxation years 2005 and 2006, respectively. The Minister asserts that subsection 75(2) does not apply firstly because of Sommerer or, in the alternative, because of GAAR and the alleged abuse of the subsection.
+III. The Effect of Sommerer on the Application of Subsection 75(2)
+a) The Wording of Subsection 75(2)
+[10] As described above, subsection 75(2), as a specific anti-avoidance section of the Act, directs that the transfer of property to a trust by an enduring potential beneficiary will attribute income, loss and capital gains, or capital losses back to that beneficiary.
+[11] In its entirety (with emphasis of relevant portions added), the sub-section provides:
+75(2) Where, by a trust created in any manner whatever since 1934, property is held on condition
+(a) that it or property substituted therefor may
+(i) revert to the person from whom the property or property for which it was substituted was directly or indirectly received (in this subsection referred to as “the person”), or
+(ii) pass to persons to be determined by the person at a time subsequent to the creation of the trust, or
+(b) that, during the existence of the person, the property shall not be disposed of except with the person’s consent or in accordance with the person’s direction,
+any income or loss from the property or from property substituted for the property, and any taxable capital gain or allowable capital loss from the disposition of the property or of property substituted for the property, shall, during the existence of the person while the person is resident in Canada, be deemed to be income or a loss, as the case may be, or a taxable capital gain or allowable capital loss, as the case may be, of the person.
+[12] As contained within the Agreed Facts, the following requisite facts which would otherwise engage subsection 75(2) existed: a trust, a transferor with an enduring potential beneficial interest, a transfer of property and a possibility that the property transferred may revert in future to the beneficiary/transferor.
+b) The Sommerer Decision
+[13] Prior to the Sommerer decision, counsel jointly agreed that subsection 75(2) applied to the facts of the case before the Court. The question remains: did Sommerer change that application? To answer this, the Court must review Sommerer and its findings.
+i) At Trial
+[14] It must be borne in mind that the decision of the Federal Court of Appeal in Sommerer upheld unanimously the trial decision of Justice C. Miller of this Court (2011 TCC 212) on all of his factual findings and most importantly to the issue before this Court, the legal determination that property sold for valuable consideration to a trust by an enduring potential beneficiary will not engage the attribution rule in subsection 75(2).
+[15] At trial, Justice Miller found that:
+1. a trust existed (paragraphs 67 and 81);
+2. the Appellant was an enduring potential beneficiary under the trust (paragraph 81); and
+3. subsection 75(2) does not apply to a beneficiary vendor of property at value (paragraph 131).
+[16] Justice Miller was required to grapple with many issues present in Sommerer, which are assumed facts in this appeal: was the foundation a trust arrangement, was the appellant a beneficiary, was there a sale of transferred property by the beneficiary and was the beneficiary seized of the transferred property when sold?
+[17] In spite of the factual complexity in Sommerer, Justice Miller nonetheless stated in a conclusive matter at the end of paragraph 91 regarding subsection 75(2) as follows;
+[91] […] I recognize that this may take the reader several readings of what at first might seem simple language. It is not. But once properly unravelled and viewed grammatically and logically, the only interpretation is that only a settlor, or a subsequent contributor who could be seen as a settlor, can be the “the person” for purposes of subsection 75(2) of the Act.
+ii) On Appeal
+[18] The factual complexities existing at the trial level, not surprisingly, evaporated on appeal. Although dealing at some length with the contentious factual finding of a trust, Justice Sharlow, confirmed the issue was moot before the appeal court since it was not challenged by the appellant on that ground at appeal.
+[19] Factually, the trust used proceeds received from the settlor to purchase shares from the beneficiary at fair market value. The trust then sold the shares and realized a capital gain. In Sommerer, the Crown alleged subsection 75(2) applied and the beneficiary received the gain.
+[20] Justice Sharlow, in interpreting subsection 75(2) as to its textual, contextual and purposive meaning, held that to interpret subsection 75(2) such that it would apply to a beneficiary selling property in a bona fide sale transaction renders outcomes which are absurd and could not have been intended by Parliament (paragraph 49). In providing a series of examples, the ultimate example in the opinion of the Court of Appeal was held up as the most absurd (paragraphs 54 and 55). The absurdity identified is that the application of the attribution rule under subsection 75(2) becomes a permanent, repetitive allocative taxation measure potentially attracting the same capital gain simultaneously to multiple taxpayers because of its objective application.
+[21] At paragraph 57, Justice Sharlow concludes that the premise that subsection 75(2) can apply to a beneficiary of a trust who sells property for value is “wrong”. In doing so, she referenced paragraph 91 of the trial decision and thereby upheld and highlighted Justice Miller’s conclusive statements regarding his interpretation of the subsection.
+iii) Is Sommerer applicable to or distinguishable from this Appeal?
+[22] In suggesting that Sommerer does not apply, Appellant’s counsel submitted that:
+1. The complexity of the facts in Sommerer make it an exceptional case where the settled property was used to purchase the transferred property;
+2. The Federal Court of Appeal was upholding a finding in Sommerer in order to avoid the possibility of double taxation, which is not existent in the present appeal;
+3. The statements of the Federal Court of Appeal that subsection 75(2) do not apply in all circumstances where fair market value is paid for the property, even in the absence of conversion of the settled trust property, are obiter dicta and not part of the material facts in that decision; and
+4. In the present case, the historical context and purpose of subsection 75(2) have been extensively pleaded (unlike in Sommerer) and on that basis Parliament did intend that subsection 75(2) apply where property was acquired by the trust for valuable consideration. The historical legislative intention and evolution of the subsection illustrate that attribution back to the person holding a reversionary interest was paramount and therefore it is antithetical to provide an exemption for property sold which might revert back to a beneficiary in due course. In short, in Sommerer, the Courts (at trial and on appeal) were denied their respective opportunity to view subsection 75(2) as to its textual, contextual and purposive meaning because of deficient pleadings.
+[23] In totality, despite this valiant effort to distinguish this appeal from the law established in Sommerer, for the following reasons this Appellant cannot succeed in its appeal.
+A. Complexity of Facts in Sommerer
+[24] Certainly at the trial level, as acknowledged and outlined herein, Justice Miller weeded through many issues. However such factual findings were not overturned on appeal. Before the Federal Court of Appeal, the factual finding of a trust was not pleaded and the applicability of subsection 75(2) was the sole determinative issue upon which the Federal Court of Appeal deliberated. The facts in the present case are not distinguishable from those in paragraph 57.
+B. Double Taxation made the Federal Court of Appeal “do it”
+[25] It may be argued that the possibility of double taxation was a collateral issue which caused the Federal Court of Appeal and the trial judge to avidly pursue the matter, but such issue was neither prominent nor particularly referable in the analysis, interpretation and ultimate decision regarding subsection 75(2) as outlined at paragraph 57 and paragraph 91 of the Sommerer appeal and trial decisions, respectively.
+C. Universal Applicability of subsection 75(2) when property sold is obiter dicta
+[26] The absence of intent and subjectivity is the hallmark of subsection 75(2). The Federal Court of Appeal stated strongly that situational applicability of the subsection is unacceptable because it applies to every situation it describes. While perhaps unfair, this was the very submission of the Appellant prior to the decision in Sommerer in the context of subsection 75(2)’s automatic and objective application. Legally, the only difference now is that a genuine transfer for value to a trust by a beneficiary, by virtue of Sommerer, no longer falls within the ambit of the automatic attribution rule.
+D. Sommerer does not contain a relevant textual, contextual and purposive analysis of subsection 75(2)
+[27] While making reference to the lack of historical legislative history pleaded in Sommerer, counsel for the Appellant in this appeal made extensive submissions on such historical context. A review of both the trial and appeal decisions in Sommerer reveals that both the trial judge (paragraphs 87 through 110) and the appeal court (paragraphs 44 through 59) spent considerable time in analysing the text, context and purpose of the subsection, or at least sufficiently enough, in order to establish the foundation and the definitive decision that subsection 75(2) does not include as a “person” a beneficiary who sells property to a trust for valuable consideration.
+IV. Conclusion
+[28] Appellant’s counsel also raised reasons why he felt the decision in Sommerer is wrong as opposed to inapplicable: insufficient contextual and purposive analysis, use of faulty hypotheticals, unintended universal removal of a common type of transaction from the ambit of subsection 75(2) and possibly absurd future consequences as a result of the decision. This Court’s response is simple. The Tax Court of Canada is not a review court for unequivocal decisions of the Federal Court of Appeal. This Court is required to follow and apply the statements of law handed down by the Federal Court of Appeal; stare decisis is a hierarchal process. The ratio decidendi within Sommerer, as outlined in paragraph 57 of the appeal decision, now comprises pronounced law; challenges to such required deference by this Court are also part of a well known hierarchical process.
+[29] To encapsulate, the Appellant trust purchased 100 common shares of Holdco (905558 Alberta Ltd.) for valuable consideration from OPCO (Wilf’s Oilfield). OPCO was also an enduring beneficiary under the Appellant trust. As such, subsection 75(2) does not apply to the dividend declared on the Holdco shares which comprised the property. The dividend income is not attributable to OPCO, but instead remains to the benefit and for the account of the Appellant.
+a) GAAR Issue
+[30] The sole remaining legal issue before the Court was whether the GAAR would apply to the transactions. The Appellant admitted that the first two requirements of GAAR, namely, the conferral of the tax benefit and the existence of an avoidance transaction were present and need not be proved by the Minister.
+[31] The final ground, the presence of abuse or misuse of the subsection 75(2) would have remained the sole issue for determination in respect of which the Respondent bore the onus of establishing. For the reasons stated above, on the authority of Sommerer, subsection 75(2) of the Act does not apply to a transaction where property is sold for value by a person in whom an enduring beneficial interest remains and therefore the issue of the applicability of GAAR is moot.
+[32] The sequence of events in the appeal process and the various phases related to the bifurcated manner in which the appeal was heard must inform any decision on costs. Therefore, costs are awarded to the Respondent in the cause for those costs incurred in responding to the appeal from and after October 15, 2012 which was the date when the Court decided to hear additional arguments on the non-applicability of subsection 75(2).
+Signed at Ottawa, Ontario, this 17th day of October 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 327
+COURT FILE NO.: 2010-1860(IT)G
+STYLE OF CAUSE: THE BRENT KERN FAMILY TRUST AND HER MAJESTY THE QUEEN
+PLACES OF HEARING: Winnipeg, Manitoba and Toronto, Ontario
+DATES OF HEARING: June 19, 2012 and July 3, 2013
+REASONS FOR JUDGMENT BY: The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT: October 17, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Bonnie F. Moon and
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jeff D. Pniowsky
+Firm: Thompson Dorfman Sweatman LLP
+Winnipeg, Manitoba
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

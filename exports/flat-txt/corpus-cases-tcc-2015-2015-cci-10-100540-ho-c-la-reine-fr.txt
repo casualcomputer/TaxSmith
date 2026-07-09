@@ -1,0 +1,165 @@
+Title: Ho c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100540/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-10-100540-ho-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-01-16
+
+# Ho c. La Reine
+
+- Citation: 2015 CCI 10
+- Decision date: 2015-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ho c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-16
+Référence neutre
+2015 CCI 10
+Numéro de dossier
+2013-2423(GST)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2423(GST)I
+ENTRE :
+TONY HO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 mars 2014, à Toronto (Ontario), poursuivi le 18 mars 2014, par conférence téléphonique, puis le 16 avril 2014, à Toronto (Ontario), et observations écrites déposées les 12 juin, 30 juin et 2 septembre 2014.
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Yan Wang
+Avocat de l’intimée :
+Me Tony Cheung
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints :
+L’appel interjeté à l’encontre de la cotisation établie au titre de la Loi sur la taxe d’accise relativement à un remboursement de la TPS/TVH pour habitation neuve, dont l’avis est daté du 6 juin 2012, est rejeté sans frais.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 14e jour d’avril 2015.
+Marie-Christine Gervais, traductrice
+Référence : 2015 CCI 10
+Date : 20150116
+Dossier : 2013-2423(GST)I
+ENTRE :
+TONY HO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] La question en litige dans le présent appel est de savoir si les acheteurs d’une habitation neuve en Ontario avaient droit aux deux remboursements pour habitation neuve (les « remboursements pour habitation neuve ») prévus à la partie IX de la Loi sur la taxe d’accise (la « loi relative à la TPS »).
+Résumé des faits [2] Le 4 août 2009, l’appelant, Tony Ho, a conclu un contrat de vente relativement à l’achat d’une habitation neuve devant être construite sur un bien‑fonds situé sur Woodbine Avenue ByPass, à Markham, en Ontario (le « bien Woodbine »). Le prix d’achat du bien Woodbine était de 403 900 $ (taxes comprises), et la date fixée pour le transfert de la propriété était en avril 2011. M. Ho a versé un acompte de 40 000 $ à l’égard de l’achat.
+[3] Le 6 novembre 2009, le cousin de l’appelant, Kwinson Ho, l’épouse de Kwinson Ho, Chun Sim Yip et la mère de Kwinson Ho ont conclu un contrat de vente relativement à l’achat d’une habitation neuve devant être construite sur un bien‑fonds situé sur la rue George Heenan, à Markham, en Ontario (le « bien Heenan »). Le prix d’achat du bien Heenan était de 549 900 $ (taxes comprises), et la date fixée pour le transfert de la propriété était en octobre 2011.
+[4] Malheureusement, M. Ho a par la suite perdu son emploi et, à la fin de 2010, il s’est rendu compte qu’il n’avait pas les moyens d’acheter le bien. Il a alors demandé l’aide de son cousin, Kwinson Ho.
+[5] Au cours du mois de janvier 2011, les parties ont modifié le contrat de vente du bien Woodbine afin d’y ajouter Kwinson Ho et Chun Sim Yip à titre d’acheteurs.
+[6] Le 14 avril 2011, Tony Ho, Kwinson Ho et Chun Sim Yip ont clos la transaction d’achat du bien Woodbine. Immédiatement après, Kwinson Ho, Chun Sim Yip et la mère de Kwinson Ho ont emménagé dans le bien Woodbine.
+[7] Le 29 avril 2011, Kwinson Ho et Chun Sim Yip ont mis en vente le bien Heenan.
+[8] Le 8 juin 2011, Kwinson Ho et Chun Sim Yip ont mis en vente le bien Woodbine.
+[9] Le 29 juin 2011, Kwinson Ho et Chun Sim Yip ont vendu le bien Woodbine. La vente a été conclue le 15 septembre 2011.
+[10] En octobre 2011, Kwinson Ho, Chun Sim Yip et la mère de Kwinson Ho ont clos la transaction d’achat du bien Heenan et ont commencé à habiter le bien.
+Résumé du droit applicable [11] Selon la loi relative à la TPS, une fourniture taxable réputée avoir été effectuée dans une province qui ne participe pas au régime fédéral de la taxe à valeur ajoutée est taxée au taux de 5 % (le taux de 5 % est appelé la TPS), sauf s’il s’agit d’une fourniture détaxée[1]. Une fourniture taxable réputée avoir été effectuée dans une province qui participe au régime fédéral de la taxe à valeur ajoutée est taxée au taux de 5 % ainsi qu’au taux applicable aux fournitures effectuées dans la province participante en question (le taux combiné est appelé la TVH), sauf s’il s’agit d’une fourniture détaxée[2].
+[12] Sous le régime de la loi relative à la TPS, la taxe est imposée sur les ventes d’habitations neuves. Le taux de TVH applicable aux habitations situées en Ontario est de 13 %[3].
+[13] La loi relative à la TPS prévoit deux remboursements que l’acheteur d’une habitation neuve située en Ontario peut demander. Le premier remboursement représente une partie de la part de 5 % de la taxe perçue au titre du paragraphe 165(1) (le « premier remboursement »). Le deuxième remboursement représente une partie de la part de 8 % de la taxe perçue au titre du paragraphe 165(2) (le « deuxième remboursement »).
+Le premier remboursement [14] Les acheteurs ont le droit de demander le premier remboursement s’ils remplissent les nombreuses conditions énoncées au paragraphe 254(2).
+[15] Le libellé du paragraphe 254(2) fait état de la vente d’un immeuble d’habitation à logement unique à un particulier. Cependant, le paragraphe 262(3) étend l’application du paragraphe 254(2) aux situations où plusieurs particuliers font l’acquisition de l’immeuble d’habitation à logement unique.
+[16] Le paragraphe 262(3) dispose, en partie, que, lorsque la fourniture d’un immeuble d’habitation (comme le bien Woodbine) est effectuée au profit de plusieurs particuliers, la mention d’un particulier à l’article 254 vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un d’entre eux peut demander le remboursement en application de l’article 254 relativement à l’immeuble.
+[17] Selon les éléments de preuve dont je dispose, un constructeur a vendu le bien Woodbine à un groupe de particuliers. Plus précisément, selon l’état des rajustements (pièce A‑7), Tony Ho, Kwinson Ho et Chun Sim Yip sont les acheteurs du bien Woodbine. J’appellerai ces trois particuliers le « groupe d’acheteurs ». La pièce A-7 concorde avec la page 1 de la pièce R-1, dans laquelle on peut voir que Tony Ho, Kwinson Ho et Chun Sim Yip ont consenti une hypothèque sur le bien Woodbine.
+[18] Lors de la conclusion de la vente, Tony Ho a demandé les remboursements pour habitation neuve pour le compte du groupe d’acheteurs. Plus précisément, sur la demande de remboursement, il est précisé que le demandeur est Tony Ho et que Kwinson Ho et Chun Sim Yip sont les autres propriétaires du bien. Le groupe d’acheteurs a cédé les remboursements au constructeur du bien Woodbine, qui les a déduits du prix d’achat de la maison comprenant la taxe.
+[19] Le groupe d’acheteurs aura droit au remboursement relativement à la partie fédérale de la TVH, de 5 %, si les conditions prévues au paragraphe 254(2), tel qu’il est modifié par le paragraphe 262(3), sont remplies. J’analyserai chacune de ces conditions en fonction de leur application aux faits de la présente affaire.
+A. La première condition [20] La première condition figure à l’alinéa 254(2)a), tel qu’il est modifié par le paragraphe 262(3). Elle exige que le constructeur (au sens de la loi relative à la TPS) d’un immeuble d’habitation à logement unique ait effectué la fourniture taxable de l’immeuble à l’ensemble des particuliers en tant que groupe.
+[21] Cette condition est remplie, étant donné qu’un constructeur a vendu le bien Woodbine au groupe d’acheteurs.
+B. La deuxième condition [22] L’alinéa 254(2)b) renferme l’exigence suivante : au moment où le particulier est devenu responsable ou a assumé une responsabilité aux termes du contrat de vente de l’immeuble, celui-ci a acquis l’immeuble pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche.
+[23] Si l’on applique le paragraphe 262(3) à cet alinéa, la condition est la suivante : au moment où l’ensemble des particuliers en tant que groupe sont devenus responsables ou ont assumé une responsabilité aux termes du contrat de vente de l’immeuble, l’ensemble des particuliers en tant que groupe ont acquis l’immeuble pour qu’il leur serve de lieu de résidence habituelle ou serve ainsi à leur proche.
+[24] La Cour a toujours statué (voir, par exemple, la décision Davidson v. The Queen, [2002] G.S.T.C. 25, et la décision Goyer c. La Reine, 2010 CCI 511, 2010 G.S.T.C 163) que l’alinéa 254(2)b), tel qu’il est modifié par le paragraphe 262(3), exige que chacun des membres du groupe, au moment où il assume une responsabilité aux termes du contrat de vente, ait l’intention d’acquérir l’immeuble pour qu’il lui serve de lieu de résidence habituelle.
+[25] L’intimée soutient que Tony Ho n’a pas fait l’acquisition du bien Woodbine pour qu’il lui serve de lieu de résidence habituelle. À mon avis, la preuve n’étaye pas la thèse de l’intimée.
+[26] Tony Ho a affirmé qu’en août 2009, il demeurait avec ses parents et qu’il voulait déménager et vivre dans sa propre maison. Il a donc conclu le contrat de vente relativement à l’achat du bien Woodbine.
+[27] Kwinson Ho a déclaré que, après que son cousin fut entré en contact avec lui pour lui demander de l’aide, il a discuté avec son épouse pour voir quelle maison ils devraient acheter : le bien Woodbine ou le bien Heenan. Il a affirmé qu’ils préféraient le bien Woodbine, étant donné qu’il était à peu près de la même taille que le bien Heenan, mais que son prix d’achat était beaucoup plus bas. Un avocat a par la suite avisé Kwinson Ho et son épouse qu’il faudrait modifier le contrat de vente pour le bien Woodbine en y ajoutant leurs noms à titre d’acheteurs.
+[28] Tony Ho a témoigné qu’en janvier 2011, le contrat de vente a été modifié afin que Kwinson Ho et Chun Sim Yip soient ajoutés à titre d’acheteurs. Tony Ho a témoigné que, à cette époque, il avait l’intention de demeurer dans le bien Woodbine avec Kwinson Ho, Chun Sim Yip et la mère de Kwinson Ho. Kwinson Ho a déclaré dans son témoignage que, lorsque Chun Sim Yip et lui ont été ajoutés à titre d’acheteurs dans le contrat de vente, les trois membres du groupe d’acheteurs avaient l’intention de demeurer dans le bien Woodbine.
+[29] Kwinson Ho a déclaré que Chun Sim Yip et lui avaient l’intention de vendre le bien Heenan. En fait, ils ont mis le bien en vente le 29 avril 2011. Kwinson Ho et Chun Sim Yip ont commencé à s’inquiéter lorsqu’ils ont constaté que, six semaines après avoir été mis en vente, le bien Heenan n’avait pas encore été vendu. Kwinson Ho a expliqué que la transaction d’achat du bien Heenan devait se conclure en octobre 2011 et que, pour des raisons financières, ils devaient vendre une des maisons avant la date fixée pour le transfert de la propriété en octobre 2011. Ils ont donc mis en vente le bien Woodbine le 8 juin 2011.
+[30] Le bien Woodbine a été vendu peu de temps après. Kwinson Ho, Chun Sim Yip et la mère de Kwinson Ho ont alors fait l’acquisition du bien Heenan et ont commencé à habiter la maison.
+[31] J’accepte le témoignage de Tony Ho et de Kwinson Ho selon lequel, au moment où chacun des membres du groupe d’acheteurs a assumé une responsabilité aux termes du contrat de vente du bien Woodbine, chacun d’entre eux avait l’intention d’acquérir le bien Woodbine pour qu’il leur serve de lieu de résidence habituelle. La deuxième condition est donc remplie.
+C. Les troisième et quatrième conditions [32] Selon l’alinéa 254(2)c), la contrepartie totale pour la fourniture de l’immeuble au profit du groupe de particuliers doit être inférieure à 450 000 $. Selon l’alinéa 254(2)d), le groupe de particuliers doit avoir réellement payé la TVH relativement à l’achat de l’immeuble.
+[33] Ces deux conditions sont remplies. La pièce A-7 révèle que le prix d’achat du bien Woodbine avant la TVH était de 388 364,78 $, et que la TPS relative au prix d’achat a été payée au moment du transfert de la propriété.
+D. La cinquième condition [34] Selon l’alinéa 254(2)e), la propriété de l’immeuble doit être transférée au groupe de particuliers une fois la construction de celui‑ci achevée en grande partie.
+[35] Les pièces A-7 et R-1 révèlent que le constructeur a transféré la propriété du bien Woodbine à chacun des membres du groupe d’acheteurs. Il ressort clairement du témoignage de Kwinson Ho que la construction du bien Woodbine était achevée en grande partie au moment où la propriété du bien a été transférée.
+E. La sixième condition [36] Selon l’alinéa 254(2)f), entre le moment où les travaux sont achevés en grande partie et celui où la possession de l’immeuble est transférée au groupe de particuliers aux termes du contrat de vente, l’immeuble ne doit pas être occupé à titre résidentiel ou d’hébergement.
+[37] D’après la preuve dont je suis saisi, la maison n’a pas été occupée avant d’être vendue au groupe d’acheteurs ni avant que la possession en soit transférée au groupe.
+F. La septième condition [38] La division 254(2)g)(i)(A) renferme l’exigence suivante : le premier particulier à occuper l’immeuble à titre résidentiel, à un moment après que les travaux sont achevés en grande partie doit être le particulier ou son proche.
+[39] Si l’on applique le paragraphe 262(3) à la division 254(2)g)(i)(A), la condition est la suivante : le premier particulier à occuper l’immeuble à titre résidentiel, à un moment après que les travaux sont achevés en grande partie doit être l’ensemble des particuliers en tant que groupe ou leur proche.
+[40] L’appelant affirme que la septième condition est remplie si l’un des membres du groupe d’acheteurs a occupé le bien Woodbine à titre résidentiel, à un moment après que les travaux furent achevés en grande partie.
+[41] L’intimée est d’avis que, pour que la septième condition soit remplie, l’ensemble des membres du groupe d’acheteurs devait occuper le bien Woodbine à titre résidentiel, à un moment après que les travaux furent achevés en grande partie.
+[42] Je suis d’accord avec l’intimée.
+[43] La division 254(2)g)(i)(A), telle qu’elle est modifiée par le paragraphe 262(3), ne comporte aucune ambiguïté. Elle énonce clairement que l’ensemble des particuliers en tant que groupe doivent occuper l’immeuble à titre résidentiel. De plus, cela est conforme à l’alinéa 254(2)b), qui exige qu’au moment de l’acquisition de l’immeuble, l’ensemble des membres du groupe aient l’intention de s’en servir comme lieu de résidence habituelle.
+[44] De plus, si l’on ne tient pas compte du paragraphe 262(3), le paragraphe 254(2) exige que le particulier ait fait l’acquisition de l’immeuble en vue de s’en servir comme lieu de résidence habituelle, puis qu’il l’ait réellement occupé à titre résidentiel. Le paragraphe 262(3) ne fait qu’appliquer cette même exigence à l’ensemble des particuliers qui forment le groupe.
+[45] L’appelant se fonde sur la décision Hamel c. La Reine, 2004 CCI 315, 2005 G.S.T.C. 75, de la Cour. À mon avis, cette décision se distingue de la présente affaire, étant donné que mon collègue le juge Tardif a conclu que l’ensemble des membres du groupe occupaient l’habitation au moment où la demande de remboursement a été présentée ou avaient l’intention d’occuper l’habitation.
+[46] Malheureusement, les faits dont je suis saisi sont différents. Tony Ho, un des membres du groupe d’acheteurs, n’habitait pas le bien Woodbine ni n’avait l’intention d’y habiter. Les seuls particuliers qui habitaient le bien Woodbine étaient Kwinson Ho, son épouse et la mère de celle‑ci.
+[47] En outre, ni Kwinson Ho, ni son épouse, ni la mère de celle‑ci ne sont un proche de Tony Ho pour l’application de la loi relative à la TPS.
+[48] Par conséquent, le groupe d’acheteurs n’a pas droit au premier remboursement.
+Le deuxième remboursement [49] Le groupe d’acheteurs aura droit au deuxième remboursement, relativement à la part de 8 % de la TVH, si les conditions figurant au paragraphe 256.21(1) et dans le règlement connexe sont remplies.
+[50] Le paragraphe 256.21(1) prévoit que, si un accord d’harmonisation de la taxe de vente conclu avec le gouvernement d’une province participante prévoit des remboursements au titre d’immeubles résidentiels dans le cadre du nouveau régime de la taxe à valeur ajoutée harmonisée applicable à cette province, le ministre verse, dans les circonstances prévues par règlement, un remboursement au titre d’un bien visé par règlement à une personne visée par règlement ou faisant partie d’une catégorie réglementaire. Le montant du remboursement est égal au montant déterminé selon les modalités réglementaires.
+[51] L’Ontario est une province participante. En outre, il semble que l’accord entre le gouvernement fédéral et l’Ontario à l’égard de l’application de la TVH sous le régime de la loi relative à la TPS prévoit un remboursement au titre d’un immeuble résidentiel.
+[52] Les dispositions pertinentes figurent à la partie 8 du Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée (le « Règlement »). Le paragraphe 41(2) du Règlement renferme les critères auxquels il doit être satisfait pour que l’achat du bien Woodbine donne droit au deuxième remboursement.
+[53] Le libellé du paragraphe 41(2) fait état d’un particulier. Cependant, l’article 40 du Règlement étend l’application du paragraphe 41(2) à un groupe de particuliers.
+[54] L’article 40 du Règlement dispose, en partie, que, si la fourniture d’un immeuble d’habitation est effectuée au profit de plusieurs particuliers, la mention d’un particulier à l’article 41 du Règlement ainsi qu’à l’article 256.21 de la loi relative à la TPS vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un des particuliers peut demander le remboursement.
+[55] Comme je l’ai déjà mentionné, le groupe d’acheteurs a acheté le bien Woodbine. Par conséquent, le paragraphe 41(2), tel qu’il est modifié par l’article 40 du règlement, s’applique à la vente du bien Woodbine.
+[56] Le paragraphe modifié prévoit que, si un groupe de particuliers a droit au remboursement prévu au paragraphe 254(2) au titre d’un immeuble d’habitation à logement unique acquis afin de servir, en Ontario, de lieu de résidence habituelle du groupe de particuliers ou de leur proche, le groupe de particuliers est une personne visée pour l’application du paragraphe 256.21(1). Cela sera le cas si la contrepartie totale relative à l’immeuble est inférieure à 450 000 $.
+[57] Comme le groupe d’acheteurs n’a pas le droit de demander un remboursement au titre du paragraphe 254(2), il n’a pas non plus le droit de demander un remboursement au titre du paragraphe 256.21(1) et du règlement connexe.
+[58] Pour les motifs qui précèdent, l’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 14e jour d’avril 2015.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2015 CCI 10
+NO DU DOSSIER DE LA COUR :
+2013-2423(GST)I
+INTITULÉ :
+TONY HO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario), et par conférence téléphonique
+DATES DE L’AUDIENCE :
+Les 7 mars, 18 mars et 16 avril 2014, observations écrites présentées les 12 juin, 30 juin et 2 septembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 16 janvier 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Yan Wang
+Avocat de l’intimée :
+Me Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Yan Wang
+Cabinet :
+Hodder Barristers
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphes 165(1) et 165(3).
+[2] Paragraphes 165(1), (2) et (3).
+[3] Paragraphes 165(1) et 165(2), article 1 de la partie IV de l’annexe IX, et annexe VIII.

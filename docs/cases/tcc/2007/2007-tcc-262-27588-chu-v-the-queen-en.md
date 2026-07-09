@@ -1,0 +1,162 @@
+---
+title: "Chu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27588/index.do"
+last_modified: "2007-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 262"
+citation2: ""
+neutral_citation: "2007 TCC 262"
+decision_date: "2007-04-24"
+language: "en"
+item_id: "27588"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 82
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:10:24.544000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9dec117cc6a963cbb3c46638b9cd653eddbc9b375c12ffdc3005550a217786f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chu v. The Queen
+
+- Citation: 2007 TCC 262
+- Decision date: 2007-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 82, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-24
+Neutral citation
+2007 TCC 262
+File numbers
+2006-2512(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2512(IT)I
+BETWEEN:
+WAYNE CHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+____________________________________________________________________
+Appeal heard on April 24, 2007, at Vancouver, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed for the reasons set forth in the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 2nd day of May, 2007.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2007TCC262
+Date: 20070502
+Docket: 2006-2512(IT)I
+BETWEEN:
+WAYNE CHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+Facts
+[1] The basic facts and issue in this appeal are set forth in the following provisions of the Reply to the Notice of Appeal (“Reply”):
+…
+8. In reassessing tax for the 2004 taxation year and in confirming that reassessment, the Minister assumed the same facts as follows:
+a) the Appellant was married to Kerry Ann Chu (“Kerry Ann”);
+b) the Appellant and Kerry Ann are the natural parents of a daughter born in 1994 and a son born in 1998 (collectively the “Children”);
+c) the Appellant and Kerry Ann separated and appeared before a Master of the Supreme Court of British Columbia for a custody order for the Children;
+d) pursuant to an Interim Order of the Supreme Court of British Columbia dated November 14, 2001 (the “Interim Order”):
+i) the Appellant and Kerry Ann had joint custody of the Children;
+ii) the Children were to alternate residences between the Appellant and Kerry Ann; and
+iii) the Appellant was to pay child support of $200.00 per month to Kerry Ann in respect of the Children commencing on December 1, 2001 and continuing on the first day of each and every month thereafter until a trial or further Court Order; and
+e) the Appellant was living separate and apart from his former spouse throughout 2004.
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant is entitled to claim Brendan Chu as a wholly dependent person for the purpose of calculating his non-refundable tax credit for the 2004 taxation year.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on subsections 56.1(4) and 118(5), and paragraph 118(1)(b) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the “Act”).
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He submits that the Appellant is not entitled to claim his son, Brendan Chu, as a wholly dependent person for the purpose of computing his non-refundable tax credit for the 2004 taxation year, pursuant to subsection 118(5) and paragraph 118(1)(b) of the Act, as he was required to pay child support in the 2004 taxation year under the terms of the Interim Order and the Appellant was living separate and apart from his former spouse throughout the 2004 taxation year.
+[2] The Appellant’s position is stated in his Notice of Appeal:
+…
+Even though I have shared custody of my two kids, I am the sole provider of all their financial needs. They stay with me at my place over 60% of the time. Not only do I work to support them, I also do the actual caring part for them. I cook and clean for them. I take them to school every day. The question should remain: whom do they depend on? Or: who is the one that supports them?
+…
+[3] The Appellant’s evidence is credible. It was to the effect that he totally supports his two children, that Kerry Ann suffers from schizophrenia and other problems and that he is the one who is totally responsible for the care of the children, both financially and physically, including being involved in all aspects of their lives. The Appellant also accentuated the fact that although he and Kerry Ann had separate residences in 2004, she spent considerable time at his residence, including sleeping there from time to time. Because of all of the foregoing, the Appellant feels that he is entitled to the non-refundable tax credit which, for 2004, he claimed the maximum amount of $6,803, 16 percent of which is used to calculate the exact credit.
+Analysis
+[4] The provisions of the Income Tax Act ("Act") applicable in 2004 were paragraphs 118(1)(a), 118(1)(b) and subsections 118(5) and 56.1(4). Paragraph 118(1)(a) provides, inter alia, for a deductible tax credit for a taxpayer who supports his consort with whom he is living and is therefore not applicable. Paragraph 118(1)(b) and subsections 118(5) and 56.1(4), so far as relevant, provide as follows:
+118(1)(b) wholly dependent person ["equivalent to spouse" credit] – in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) ...
+(B) a person who is married ..., who neither supported nor lived with their spouse or ... and who is not supported by that spouse or ..., and
+(ii) whether alone or ..., maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) ...
+(B) wholly dependent for support on the individual, or the individual …
+(C) related to the individual, and
+(D) …
+an amount equal to the total of
+(a formula follows which, as applied in this case, produces a credit of 16 percent of $6,803)
+118(5) No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse ... in respect of the person and the individual
+(a) lives separate and apart from the spouse ... throughout the year because of the breakdown of their marriage ...; or
+…
+[5] It is clear from the definition in subsection 56.1(4) that what the Appellant was paying was a “support amount”.
+[6] In his 2004 Return, the Appellant claimed the tax credit of $6,803 (the maximum) because he believed he qualified by providing support for his children. The Appellant apparently filed his Return referring to support for his son, Brendan Chu, whereas the Interim Order refers to support for both children. This is of no consequence in this appeal.
+[7] The Reassessment in question denies the claim, alleging essentially in the Reply that the claim is denied by subsection 118(5) because the Appellant was required to pay child support in the 2004 year under the terms of the Interim Order and he was living separate and apart from his former spouse throughout the 2004 taxation year.
+[8] Because several other appeals discussing subsection 118(5) have suggested an element of unfairness in its application, the following comments may be helpful by way of clarification.
+[9] At first glance it is difficult to identify the policy behind the provision. The element of unfairness appears to be that a taxpayer, who is required to make support payments to his separated spouse for the benefit of a child (after 1997 when the rules changed from one of deduction by the support payor and inclusion by the recipient to the exact opposite of no deduction and no inclusion), cannot deduct that amount from his income and also cannot have the dependant tax credit if he is required to pay child support. On the other hand in similar circumstances if the taxpayer is not required to pay support he can have the credit. This policy issue has been addressed by Justice Lamarre in Gautron v. the Queen, 2003 DTC 326 (English translation at 2005 DTC 729) and by Justice Bédard in Frégeau v. the Queen, 2004 DTC 2726 (English translation at 2006 DTC 2243). It is clear from these decisions and others that subsection 118(5) does not contravene the Canadian Charter of Rights and Freedoms and, to the extent that any unfairness may appear to exist, the remedy lies with Parliament to change the provision but so long as it exists, the Court must apply it since it is the law. Further, a complete analysis of the subsection demonstrates that unfairness does not exist. Moreover, there are many other decisions of the Courts that applied subsection 118(5) to deny the credit in fact situations similar or identical to those in this appeal.
+[10] In the present appeal there is no doubt that the Appellant was obliged to make a support payment for the benefit of the children. There is, however, a question as to whether the Appellant and his wife were truly separate and apart. In this connection, the evidence, especially the testimony of Diane Tawnley, an appeals officer and Exhibit R-3, make it clear that the Appellant and his wife had separate residences throughout 2004 and although the wife spent some time in the Appellant’s residence, even sleeping there from time to time, this, in my opinion, is very natural when two persons are the parents of two children with joint custody. The fact of the wife being in the husband’s residence from time to time is not sufficient, in my opinion, to have her considered as not living separate and apart.
+[11] In conclusion, in my opinion, the position of the Minister is correct. The Appellant is not entitled to claim his son, Brendan Chu, (or his children) as wholly dependent person or persons for the purpose of computing the Appellant’s non-refundable tax credit for the 2004 taxation year pursuant to subsection 118(5) and paragraph 118(1)(b) of the Income Tax Act as the Appellant was required to pay child support in the 2004 taxation year under the terms of the Interim Order dated November 12, 2001 and the Appellant was living separate and apart from his former spouse throughout the 2004 taxation year.
+[12] For all these reasons the appeal is dismissed. There shall be no costs.
+Signed at Ottawa, Canada, this 2nd day of May, 2007.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2007TCC262
+COURT FILE NO.: 2006-2512(IT)I
+STYLE OF CAUSE: Wayne Chu v. The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 24, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: May 2, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

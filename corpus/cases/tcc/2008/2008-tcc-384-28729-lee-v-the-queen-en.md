@@ -1,0 +1,247 @@
+---
+title: "Lee v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28729/index.do"
+last_modified: "2008-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 384"
+citation2: ""
+neutral_citation: "2008 TCC 384"
+decision_date: "2008-06-19"
+language: "en"
+item_id: "28729"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1452
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:04:47.321000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "22149f514a4728c5389dfcba20e470d30a82d17a73f5348bf3018a21e2f50030"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lee v. The Queen
+
+- Citation: 2008 TCC 384
+- Decision date: 2008-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1452, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-19
+Neutral citation
+2008 TCC 384
+File numbers
+2007-4558(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4558(IT)I
+BETWEEN:
+MICHAEL B. LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 29, 2008, at Dieppe (Moncton), New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lindsay D. Holland
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (“Act”) for the 2002 2003 and 2004 taxation years are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the following deductions for insurance, interest, property taxes and utilities in computing his income in 2002, 2003 and 2004 for the purpose of the Act:
+Year
+Amount Allowed
+2002
+$2,181.66
+2003
+$4,406.32
+2004
+$17,365.74
+Signed at Ottawa, Ontario, this 19th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC384
+Date: 20080619
+Docket: 2007-4558(IT)I
+BETWEEN:
+MICHAEL B. LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The main issue in this case is when was the building that the Appellant started constructing in 2003 to be used as not only his residence, but also as a bed and breakfast property, actually completed for the purposes of subsection 18(3.3) of the Income Tax Act ("Act")? There is also an issue with respect to certain professional fees that were claimed as a deduction in computing the Appellant's income in 2002 and 2003.
+[2] The Appellant acquired, from two different vendors, three cottages in 2002, with the civic addresses, following the renumbering of the addresses by the municipality, of 5 Points Rd., 11 Points Rd., and 15 Points Rd., Grand Bay, New Brunswick. The cottage that was located at 5 Points Rd. was not in good repair and was demolished. The cottage that was located at 15 Points Rd. was relocated by the Appellant to 5 Points Rd. and the Appellant constructed a new building at 15 Points Rd., as, in part, his residence and, in part, as a bed and breakfast property. The cottage located at 5 Points Rd. (following the relocation of the cottage from 15 Points Rd.) and the cottage located at 11 Points Rd. were acquired for the purpose of renting these cottages. During the years under appeal, the Appellant did not have any revenue from the rental of either of the cottages located at 5 Points Rd. or 11 Points Rd. nor from the operation of the bed and breakfast property.
+[3] When the Appellant filed his tax returns for 2002, 2003, and 2004 he claimed various expenses in relation to these properties. All the expenses that were claimed have been denied by the Canada Revenue Agency. The Appellant has chosen to only appeal the denial of the claim for the amounts incurred for insurance, interest, property taxes, utilities, and professional fees. Therefore, the only issue at the hearing was whether these amounts were deductible in the years as claimed by the Appellant. The Respondent and the Appellant reached an agreement during the hearing with respect to the amounts that had been incurred for business purposes and the Respondent did not dispute that these amounts, as agreed upon, had been incurred for business purposes. The Respondent disputed the deductibility of these amounts in these years. The position of the Respondent was that the amounts incurred for insurance, interest, property taxes and utilities (the “soft costs”) were incurred during the period of construction, renovation or alteration of the buildings and therefore were to be added to the cost of the buildings under subsection 18(3.1) of the Act since there was no rental income during any of these years. The position of the Respondent with respect to the professional fees was that the professional fees incurred in 2002 were related to the acquisition of the properties and that the professional fees incurred in 2003 were costs attributable to the period of construction, renovation or alteration of the buildings.
+[4] As noted above, at the hearing, the Appellant and the Respondent reached an agreement on the business portion of the amounts that were incurred. Since a portion of the property that was constructed at 15 Points Rd. is being occupied by the Appellant and his spouse as their residence, it was necessary to allocate the amounts incurred between the business portion and the personal portion. The amounts that were agreed upon as the business portion are as follows:
+2002
+2003
+2004
+Insurance:
+$ 1,538.00
+$1,572.00
+$ 1,717.50
+Interest:
+$ 2,810.00
+$2,769.53
+$10,432.50
+Property Taxes:
+$ 1,770.55
+$1,515.70
+$ 3,868.40
+Utilities:
+$ 426.44
+$1,516.57
+$ 1,347.34
+Professional Fees:
+$11,912.68
+$ 902.00
+0
+[5] The Appellant described the work that was done on the cottage located at 11 Points Rd. as mainly cosmetic work and repairs that had to be done to this cottage. Counsel for the Respondent at the hearing agreed that the work that was done on the cottage at 11 Points Rd. did not come within the meaning of construction, renovation or alteration of a building, and therefore the limitations in subsection 18(3.1) of the Act do not apply to the cottage located at 11 Points Rd.
+[6] With respect to the cottage located at 15 Points Rd., which was moved to 5 Points Rd., the Appellant had submitted that the alterations to this cottage were completed by April 2003 and counsel for the Respondent at the hearing agreed that this was the date to be used for this cottage for the purposes of subsections 18(3.1) and (3.3) of the Act.
+[7] Therefore the issue with respect to subsections 18(3.1) and (3.3) of the Act is when was the construction of the bed and breakfast property at 15 Points Rd. actually completed?
+[8] Subsection 18(3.3) of the Act provides as follows:
+(3.3) For the purposes of subsection (3.1), the construction, renovation or alteration of a building is completed at the earlier of the day on which the construction, renovation or alteration is actually completed and the day on which all or substantially all of the building is used for the purpose for which it was constructed, renovated or altered.
+[9] There are two possible days on which the construction will be considered to be completed -- one is the date that the construction is actually completed and the other is the day on which all or substantially all of the building is used for the purpose for which it was constructed, renovated, or altered. Since the bed and breakfast portion of the property was not used as a bed and breakfast property at all during the years under appeal the only issue in this case is whether the construction of the building was actually completed at any time during the years under appeal, and, if so, when it was actually completed.
+[10] The position of the Appellant is that this building was completed in July 2003. The Appellant submitted a copy of the Atlantic Home Warranty Certificate which indicated that the date of possession of the property was August 23, 2003. The Appellant stated that this certificate was issued after the building was completed and various inspections were done.
+[11] Counsel for the Respondent submitted that, if any work was still to be done in relation to the bed and breakfast property then the construction cannot be considered to be actually completed. However this could mean that no building could ever be considered to be actually completed since one could always find some minor deficiency or minor item that is not done when a new building is constructed.
+[12] In this case, the Appellant acknowledged that subsequent to the receipt of the New Home Warranty Certificate, significant amounts were expended on painting the bed and breakfast property, including the exterior of the building which was covered with cedar shingles. The following amounts were incurred as labour charges for painting this property:
+Date
+Amount
+Sept. 29, 2003
+$1,000
+Sept. 30, 2003
+$1,500
+Oct. 10, 2003
+$1,825
+Oct. 17, 2003
+$2,480
+Oct. 22, 2003
+$ 899
+Nov. 10, 2003
+$ 372
+Total:
+$8,076
+[13] This is a significant amount to spend on labour for painting a house that the Appellant submits was actually completed in July 2003. It does not seem to me that this building could be considered to be actually completed in July 2003 since the Appellant spent over $8,000 in labour charges (not including supplies) in having the house painted in the fall of 2003.
+[14] There was also a discussion of architect fees incurred in 2004 in relation to the stairway and fireplace. There was however no evidence with respect to what actually was done to the stairway or the fireplace. The only evidence was that an amount was incurred in 2004 for architect fees related to changes in the design for the staircase and fireplace. It seems logical to conclude that the stairway and fireplace must have been in place before the Appellant and his spouse moved in and before the New Home Warranty Certificate was issued. Therefore this must have been work that would have been undertaken to change these items. The only assumption made by the Respondent in the Reply in relation to this matter was in paragraph 23(m) of the Reply, which provides as follows:
+23. In determining the Appellant’s tax liability for the 2002, 2003 and 2004 taxation years (the “period in question”) the Minister made the following assumptions of fact:
+…
+(m) renovations to the cottages at 5 and 11 Points Road and construction of the house at 15 Points Road were ongoing during the period in question.
+[15] Counsel for the Respondent asked the Appellant about the architect fees which the Appellant stated were related to the staircase and fireplace but she did not ask any questions related to what actual work was done on the staircase and fireplace in 2004 nor did she lead any other evidence in relation to this matter. Since no assumption was made with respect to any work done in 2004, the onus of proof with respect to the facts related to any work done in 2004 with respect to the staircase and fireplace would rest with the Respondent if the Respondent should choose to argue that alterations were being done to the building in 2004.
+[16] In Loewen, 2004 FCA 146, Justice Sharlow, on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+(emphasis added)
+[17] Leave to appeal the decision of the Federal Court of Appeal in Loewen to the Supreme Court of Canada was refused (338 N.R. 195 (note)).
+[18] Without any evidence with respect to the work that was actually done in 2004 in relation to the staircase and fireplace, I find that on the balance of probabilities that the staircase and fireplace were completed prior to August 2003 and that there were no renovations or alterations in 2004.
+[19] The only other evidence of any work done on this property after July 2003 was that some work was done on the crawlspace under the building. This work was described by the Appellant as work done because the insulation was not staying in place. This would be a repair and not part of the construction of the building or an alteration or renovation of this building. A house can be completed without finishing a crawlspace under the house.
+[20] As a result I find that the construction of the building located at 15 Points Rd. (the personal residence and the bed and breakfast property) was actually completed by mid-November 2003 when the last amount for labour for painting the building was incurred. Since there was no evidence with respect to the date that the painting was actually completed, the date of November 15, 2003 will be used as the date of completion as this is five days after the date of the last payment of $372 for labour and should allow enough time for the painting to be completed, even if the labour was paid in advance.
+[21] The Appellant stated that the initial purchase price of approximately $150,000 for the properties was allocated equally among all three cottages. For the purposes of determining the amount that was incurred for the soft costs in 2002 and 2003 that may be deducted, these costs will be allocated equally among the three cottages and then prorated based on the date of completion for each cottage.
+[22] As noted above the following is the total amount of the soft costs incurred for business purposes in 2002, 2003 and 2004:
+2002
+2003
+2004
+Insurance:
+$1,538.00
+$1,572.00
+$1,717.50
+Interest:
+$2,810.00
+$2,769.53
+$10,432.50
+Property Taxes:
+$1,770.55
+$1,515.70
+$3,868.40
+Utilities:
+$426.44
+$1,516.57
+$1,347.34
+Total:
+$6,544.99
+$7,373.80
+$17,365.74
+Soft Costs - 2002
+[23] Counsel for the Respondent had raised the argument that the property taxes for 2002, which were paid at the closing when the properties were acquired, should be added to the cost of the properties as a cost paid to acquire the properties. However it is clear from the closing adjustments that the property taxes paid at the closing were simply an adjustment to reimburse the vendor for the property taxes that the vendor had paid that relate to the period after the closing. Therefore the amount paid as a closing adjustment for property taxes should be treated in the same manner as if it had been paid to the municipality.
+[24] Since the cottage located at 11 Points Rd. was not constructed, renovated or altered and since the alterations being done to the cottage located at 5 Points Rd. and the construction of the building located at 15 Points Rd. were not completed until after 2002, one-third of the soft costs incurred in 2002 will be deductible in that year (1/3 x $6,544.99 = $2,181.66).
+Soft Costs - 2003
+[25] Allocating the soft costs equally among the cottages will result in 1/3 x $7,373.80 = $2,457.93 being allocated to each cottage in relation to the soft costs incurred in 2003.
+[26] Since the cottage located at 11 Points Rd. was not constructed, renovated or altered, the total amount of the soft costs incurred in 2003 and allocated to this cottage ($2,457.93) will be allowed as a deduction in computing the Appellant’s income for 2003.
+[27] Since the alterations of the cottage relocated to 5 Points Rd. were completed by the end of April 2003, two-thirds of the amount of the soft costs allocated to this building for 2003 (2/3 x $2,457.93 = $1,638.62) will be allowed as a deduction in computing the Appellant’s income for 2003.
+[28] Since the construction of the cottage located at 15 Points Rd. was actually completed by November 15, 2003 and therefore there were 46 days in 2003 following the actual completion of the construction of this building, the amount of the soft costs allocated to this building for 2003 that will be allowed as a deduction in computing the Appellant’s income for 2003 is the amount determined as follows:
+46 / 365 x $2,457.93 = $309.77
+[29] The total amount that will be allowed as a deduction in computing the Appellant’s income for 2003 for the soft costs incurred will therefore be:
+Cottage
+Amount Allowed
+11 Points Rd.
+$2,457.93
+5 Points Rd.
+$1,638.62
+15 Points Rd.
+$ 309.77
+Total:
+$4,406.32
+Soft Costs - 2004
+[30] Since the cottage located at 11 Points Rd. was not constructed, renovated or altered and the alterations of the cottage located at 5 Points Rd. and the construction of the building located at 15 Points Rd. were completed before 2004, the amount that will be allowed as a deduction in computing the Appellant’s income for 2004 for the soft costs incurred in 2004 will be $17,365.74.
+Professional Fees
+[31] The professional fees incurred in 2002 were related to the acquisition of the cottages. These fees included surveyor’s fees, real estate commission, and legal fees. These fees should be allocated between the land and buildings and added to the adjusted cost base and capital cost of the land and buildings and would not be deductible as current expenses in 2002.
+[32] With respect to the professional fees incurred in 2003, the total amount of such fees that was incurred was $1,803.23. The portion that the Appellant and the Respondent agreed upon as the business portion was $902. These fees were for surveyor’s fees and legal fees. The Appellant indicated that these related to the refinancing of the properties. Over 95% of these fees were incurred in July 2003 (and all were incurred before the end of September 2003) and since one-half of the total amount of professional fees incurred in 2003, by agreement between the parties, were personal expenses, it seems logical to assume that the refinancing was related to the construction of the property located at 15 Points Rd. which the Appellant stated was competed in July of 2003 and which property included the personal residence of the Appellant and his spouse. I find that the professional fees incurred in 2003 were attributable to the period of construction of the building located at 15 Points Rd. and therefore are not deductible in 2003 as a result of the provisions of subsection 18(3.1) of the Act.
+[33] As a result, the appeal is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the following deductions for soft costs in computing his income in 2002, 2003 and 2004 for the purpose of the Act:
+Year
+Amount Allowed
+2002
+$ 2,181.66
+2003
+$ 4,406.32
+2004
+$17,365.74
+Signed at Ottawa, Ontario, this 19th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC384
+COURT FILE NO.: 2007-4558(IT)I
+STYLE OF CAUSE: MICHAEL B. LEE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Dieppe (Moncton), New Brunswick
+DATE OF HEARING: May 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 19, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lindsay D. Holland
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,154 @@
+---
+title: "Bituala-Mayala v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28516/index.do"
+last_modified: "2008-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 125"
+citation2: ""
+neutral_citation: "2008 TCC 125"
+decision_date: "2008-02-28"
+language: "en"
+item_id: "28516"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1245
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:29:29.457000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ffdb1cad1a8cd20996d9559e137b0d3932fccaee7a4621caa0a271bf2a03b34"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bituala-Mayala v. The Queen
+
+- Citation: 2008 TCC 125
+- Decision date: 2008-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1245, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bituala-Mayala v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-28
+Neutral citation
+2008 TCC 125
+File numbers
+2007-3142(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007‑3142(IT)I
+BETWEEN:
+NELLY BITUALA‑MAYALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 27, 2008 at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination of the Canada Child Tax Benefits for the base taxation years 2003 and 2004 is dismissed, with costs to the Appellant.
+Signed at Ottawa, Canada, this 28th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 11th day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC125 Date: 20080228
+Docket: 2007‑3142(IT)I
+BETWEEN:
+NELLY BITUALA‑MAYALA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] The Minister of National Revenue ("the Minister") claims from the Appellant the Canada Child Tax Benefits (CCTB) paid to her as a result of an error in judgment by an official of the Canada Revenue Agency (CRA) for the base taxation year 2003 (for the months of July 2004 to June 2005) and the base taxation year 2004 (for the months of July 2005 to June 2006). After the discovery of the official's error, an amount of $7,729 for the base taxation year 2003 and $8,414 for the base taxation year 2004 is now claimed from the Appellant.
+[2] The Appellant testified that she arrived in Canada from Congo with her family, including her three young children, in October 1999. At that time, she was together with the father of her children and her mother‑in‑law filed a refugee status application for the entire family. This application was originally dismissed and this decision was confirmed on appeal. Later on, the Appellant separated from her husband and on June 23, 2004, obtained a work permit from the Minister of Citizenship and Immigration Canada, which had to be renewed annually, and which specified that the Appellant was not granted the status of a temporary resident (Exhibit I‑1). With this work permit, she was able to find employment and submit an application to Citizenship and Immigration Canada based on the provisions relating to humanitarian considerations. This application was submitted in April 2005 and as of the present date, the Appellant's file has not yet been reviewed. The Appellant states that her file is still current.
+[3] When she submitted her application to the Canadian immigration office, the employee with whom she dealt suggested that she apply for the CCTB. In her presence, he contacted an official of the CRA who told her to send her work permit and the birth certificates of her children, which she did.
+[4] The work permit sent by the Appellant is the same one that was filed in evidence as Exhibit I‑1, which clearly indicated that the Appellant did not have the status of a temporary resident.
+[5] Nevertheless, the CRA official considered that the Appellant was eligible and the CCTB was paid to her in the above amounts for a period of two years.
+[6] On September 20, 2006, the Minister became aware that the Appellant was not entitled to receive the CCTB for the 2003 and 2004 base taxation years, and therefore sent her a notice of determination to the effect that she had received overpayments of the CCTB in the amounts in issue. The Minister relied on section 122.6 of the Income Tax Act (ITA), which defines an individual eligible for the CCTB as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common‑law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common‑law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act , who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[7] In fact, during the period in issue, the Appellant did not meet the conditions of subsection 122.6 (e) of the ITA. She was neither a permanent resident within the meaning of the Immigration and Refugee Protection Act (IRPA), nor a temporary resident, nor a holder of a temporary resident permit pursuant to section 24 of the IRPA[1] (Exhibit I‑1), nor a protected person within the meaning of the IRPA, and she did not fall within a category specified in sections 202 and 206 of the Humanitarian Designated Classes Regulations ("the Regulations")[2] made under the Immigration Act (she has not yet received a decision in this regard).
+[8] Therefore the Appellant was not an eligible individual and was not entitled to the CCTB. In view of the obvious error made by the CRA official in awarding the CCTB to the Appellant, who would never have attempted to obtain it without the intervention of the immigration officer, I am referring this matter back to the Minister so that he may seriously consider a remission to the Appellant pursuant to section 23 of the Financial Administration Act. Our Court is not empowered to grant such a remission. However, I do wish to criticize a lack of care on the part of some CRA officials, whose errors have repercussions for persons who are unfamiliar with Canadian laws, in this case a single mother with few financial resources who does not deserve to be treated in this manner.
+[9] I note in conclusion that this does not seem to be an isolated error. I refer on this subject to Samayoa v. R., 2006 TCC 469, in which the CRA on another occasion recognized its error.
+[10] The appeal is dismissed with costs to the Appellant.
+Signed at Ottawa, Canada, this 28th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 11th day of April 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC125
+COURT FILE NO.: 2007‑3142(IT)I
+STYLE OF CAUSE: NELLY BITUALA‑MAYALA v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 28, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Julian Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Temporary resident permit
+24.(1) A foreign national who, in the opinion of an officer, is inadmissible or does not meet the requirements of this Act becomes a temporary resident if an officer is of the opinion that it is justified in the circumstances and issues a temporary resident permit, which may be cancelled at any time.
+[2] According to sections 202 and 206 of the Regulations, the work permit obtained by the Appellant does not give her the status of a temporary resident. These sections read as follows:
+202. A foreign national who is issued a work permit under section 206 or paragraph 207(c) or (d) does not, by reason only of being issued a work permit, become a temporary resident.
+206. A work permit may be issued under section 200 to a foreign national in Canada who cannot support themself without working, if the foreign national
+(a) has made a claim for refugee protection that has been referred to the Refugee Protection Division but has not been determined; or
+(b) is subject to an unenforceable removal order.

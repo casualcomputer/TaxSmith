@@ -1,0 +1,114 @@
+---
+title: "Tulick v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110899/index.do"
+last_modified: "2015-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 188"
+citation2: ""
+neutral_citation: "2015 TCC 188"
+decision_date: "2015-07-21"
+language: "en"
+item_id: "110899"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2613
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:15:34.636000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d15454cd6189a27e1fc99aebb8c589207e472403b33870d65592403a6f0e9a63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tulick v. The Queen
+
+- Citation: 2015 TCC 188
+- Decision date: 2015-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2613, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tulick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-21
+Neutral citation
+2015 TCC 188
+File numbers
+2014-1349(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2015 TCC 188
+Date: 20150721
+Docket: 2014-1349(GST)I
+BETWEEN:
+JOHN TULICK, HAZEL TULICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on May 5, 2015 at Calgary, Alberta.)
+Campbell J.
+[1] Three matters were before me this morning. After hearing from both Respondent counsel and Mr. Tulick, it is apparent that two of the appeals, being John Tulick (2014-1307(GST)I) and Hazel Tulick (2014-1308(GST)I), are duplicates of the partnership appeal, John Tulick and Hazel Tulick (2014‑1349(GST)I). Mr. Tulick admitted that he was unsure of how he should proceed and filed his Notice of Appeal in respect to the partnership issue in multiple ways. Consequently, appeal 2014-1307(GST)I and appeal 2014‑1308(GST)I are quashed and the only appeal proceeding today was John Tulick and Hazel Tulik (2014-1349(GST)I).
+[2] The Appellant was a partnership which started its business operations as real estate agents in 1997. John Tulick and his spouse, Hazel, were the only partners. The partnership was a Goods and Services Tax (“GST”) registrant. It reported and filed annually. In 1997 and 1998, Mr Tulick testified that the partnership showed a net profit and so, according to his argument, it meets the requirements of the Excise Tax Act (the “Act”) because the business operations were undertaken with a reasonable expectation of profit. However, over the next several years, due to a number of health and other misfortunes, the partnership failed to show a profit in subsequent years. Although Mr. Tulick could not recall most of the details associated with this business, according to the assumptions of fact in the Reply to the Notice of Appeal, the partnership incurred net losses averaging $24,000 annually between the years 2000 and 2011.
+[3] The partners, John and Hazel Tulick, reported these net partnership losses on their T-1 returns for each of those taxation years. Mr. and Mrs. Tulick retired in 2011. The partnership filed a GST return for the reporting period ending December 31, 2011 and reported $2,369.21 in input tax credits (“ITCs”). This return included revenue of $1,000 and tax collected of $5. There was no profit. The Minister of National Revenue (the “Minister”) disallowed all of the ITCs that the partnership had claimed.
+[4] The issue is whether these ITCs were properly disallowed for the period ending December 31, 2011.
+[5] Although Mr. Tulick had hoped to place the conduct of Canada Revenue Agency (“CRA”) officials before the Court, as I explained to him during the hearing, even if he is correct in his allegations of how he was treated in this process, this Court has jurisdiction or authority to deal only with the correctness of the actual assessment and I have no authority to deal with conduct issues of CRA officials or to award compensation in that regard. Mr. Tulick also had complaints respecting the conduct of Mr. Watson, Respondent counsel. However, without knowing the history of the interactions that occurred leading up to today, I will advise Mr. Tulick that I have always found Mr. Watson to be very sensitive to taxpayers’ issues when he is dealing with them and although he has no obligation to assist a taxpayer with their file, Mr. Watson has always been cooperative as Crown counsel in assisting unrepresented litigants who appear in this Court.
+[6] Now in respect to the actual issue of the ITCs, which is the matter before me, counsel outlined the several provisions which are applicable to this appeal. Briefly, subsection 169(1) of the Act allows taxpayers that are GST registrants to claim ITCs, provided the tax is paid “in the course of commercial activities”. Then one has to refer to subsection 123(1) to see how the term “commercial activity” is defined. It means a business carried on by a person, but the definition excludes any business that is carried on without a reasonable expectation of profit.
+[7] The Federal Court of Appeal, in the case of Bowden v The Queen, 2011 FCA 218, [2011] FCJ No. 1209, at paragraph 7, made the following statement:
+… the entitlement of a taxpayer to input tax credits does not depend upon whether the taxpayer has paid GST in relation to a “business”. Rather, it depends upon whether the taxpayer has paid GST in relation to a “commercial activity”.
+[8] The Federal Court of Appeal made a distinction between “business” and “commercial activity”. Of course, someone may carry on a business for years, as was done in this case, without any reasonable expectation of profit but, in those circumstances, the business cannot be called a “commercial activity”. The partnership apparently got off to a good start, but between the years 2000 and 2011, when the business closed, the partnership reported net losses averaging $24,000 annually. Mr. Tulick had the onus of establishing that the partnership did, in fact, operate as a “commercial activity” in the 2011 year, that is, that the partnership was conducting its activities with a reasonable expectation of profit. He simply did not do so. He provided little to no evidence to counter the assumptions of fact which were pleaded to support the Minister’s assessment.
+[9] In the 2011 GST return, $1,000 of revenue and $5 in tax collected were reported. ITCs claimed for this period were $2,369.21 which, as Respondent counsel pointed out, would reflect expenses in excess of $47,000. With respect to those expenses, he mentioned a vehicle purchase. On further cross-examination, Mr. Tulick could not recall anything further with respect to details of partnership operations for that year.
+[10] Unfortunately, Mr. Tulick has simply not presented evidence that would counter the Minister’s assumptions of fact underlying the assessment. I have no reason to interfere with that assessment. The appeal is therefore dismissed without costs.
+Signed at Summerside, Prince Edward Island, this 21st day of July 2015.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2015 TCC 188
+COURT FILE NO.:
+2014-1349(GST)I
+STYLE OF CAUSE:
+JOHN TULICK, HAZEL TULICK and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+May 5, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+July 21, 2015
+APPEARANCES:
+For the Appellant:
+John P. Tulick, appearing on his own behalf and as Agent for Hazel Tulick
+Counsel for the Respondent:
+Jeff Watson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

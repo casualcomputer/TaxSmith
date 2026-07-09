@@ -1,0 +1,193 @@
+---
+title: "9158-1629 Québec Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520990/index.do"
+last_modified: "2022-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 137"
+citation2: ""
+neutral_citation: "2022 CCI 137"
+decision_date: "2022-04-28"
+language: "fr"
+item_id: "520990"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5153
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:17:18.085000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "711db18a6c3eb79cf9a929d4f3e42fd353dbd5e1041a5f80b3bc35112318036e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9158-1629 Québec Inc. c. Le Roi
+
+- Citation: 2022 CCI 137
+- Decision date: 2022-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5153, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9158-1629 Québec Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-04
+Référence neutre
+2022 CCI 137
+Numéro de dossier
+2018-2699(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2699(IT)G
+ENTRE :
+9158-1629 QUÉBEC INC.,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+Appel entendu le 27 et 28 Avril 2022, à Granby (Québec); transcription reçue par la cour le 24 mai 2022
+Devant : L'honorable juge Gaston Jorré, juge suppléant
+Comparutions :
+Agent de l'appelant :
+M. Andrzej Borzym
+Avocat de l'intimée :
+Me Christina Ham
+JUGEMENT
+Selon les motifs ci-joints, l’appel interjeté en vertu de la Loi de l’impôt sur le revenu concernant l’année d’imposition 2015 est rejeté sans frais. [1]
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+Référence : 2022 CCI 137
+Date : 20221104
+Dossier : 2018-2699(IT)G
+ENTRE :
+9158-1629 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+Introduction
+[1] L’appelante appelle d’une cotisation à l’égard de l’année d’imposition 2015. [2]
+[2] Monsieur Andrzej Borzym est actionnaire et administrateur unique de l’appelante. Il est également le seul employé de l’appelante.
+[3] Monsieur Andrzej Borzym a témoigné pour l’appelante. Monsieur Philippe Desmarais et le Docteur Karim Mimoune ont témoigné pour intimée.
+[4] En 2015 l’appelante a dépensé un total de 131 104 $ relatif à deux projets qu’elle prétend être des dépenses relatives à des activités de recherche scientifique et développement expérimental (« dépenses de développement expérimental ») et, elle affirme qu’en conséquence, elle a droit à un crédit d’impôt à l’investissement de 32 451$.
+[5] Le premier projet était le développement d’une distributrice automatique de bombonnes de propane.
+[6] Il faut noter que l’appelant avait déjà développé dans le passé une distributrice automatique de bombonnes de propane entièrement mécanique qui fonctionnait uniquement avec des pièces de monnaie.
+[7] Des demandes de brevets relatifs à la distributrice mécanique ont été déposées en 2007 et en 2006 aux États-Unis et au Canada respectivement. Un brevet pour cette distributrice mécanique a été accordé en 2011 aux États-Unis et en 2015 au Canada. [3]
+[8] Le projet de distributrice dont il est question ici devait fonctionner à l’électricité et accepter les cartes de crédit.
+[9] Le deuxième projet été un projet pour la fabrication d’une machine qui pourrait fabriquer des rouleaux. Le but était de réduire les coûts de fabrication des rouleaux de façon significative.
+[10] La quasi-totalité des dépenses engagées au cours de l’année dans ces deux projets ont été payées à la firme Automation Machine Design qui a fait le travail. [4]
+[11] L’agence du revenu du Canada prétend qu’il ne s’agit pas de dépenses de développement expérimental au sens de la loi de l’impôt sur le revenu (« la loi ») et a refusé le crédit d’impôt à l’investissement à l’appelante.
+Le droit applicable
+[12] À l’article 248 la loi définie « activités de recherche scientifique et de développement expérimental » de la façon suivante:
+Investigation ou recherche systématique d'ordre scientifique ou technologique, effectuée par voie d'expérimentation ou d'analyse, c'est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l'avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l'avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+Pour l'application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l'analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) …
+[13] Les travaux dont il est question ici ne sont ni de la recherche pure ni de la recherche appliquée. La question ici est à savoir s’il s’agit de développement expérimental au sens de la définition ci-dessus.
+[14] La jurisprudence a établi cinq critères pour évaluer si une activité particulière constitue du développement expérimental au sens de la définition ci-dessus. Ces critères ont été résumés de la façon suivante par la cour d’appel fédérale dans l’arrêt CW Agencies Inc. [5]
+1.Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2.La personne qui prétend faire de la RS & DE, a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l'avancement des travaux?
+(Je souligne.)
+Principale prétention de l’appelante
+[15] Je vais procéder dans un ordre un peu inhabituel, car l’approche de l’appelante peut ce résumé à ceci.
+Les agents de l’agence du revenu du Canada qui ont examiné sa demande n’étaient pas qualifiés pour le faire.
+Le témoin expert de l’intimée n’était pas qualifié pour donner son opinion en tant qu’expert et,
+en conséquence, son appel doit être accueilli.
+[16] Selon l’appelante, un examen valable de sa demande de crédit d’impôt ne peut être fait que par un ingénieur inscrit au tableau de l’Ordre des ingénieurs du Québec et, de plus, cet ingénieur doit être un ingénieur mécanique.
+[17] Pour les raisons suivantes, ces prétentions n’ont aucun mérite.
+[18] Premièrement, ces prétentions ne tiennent pas compte du fait que, en ce qui concerne les faits pris pour acquis par l’agence en cotisant, c’est l’appelant qui a le fardeau de démontrer le contraire - ce qui n’a pas été fait ici. Je reviendrai à la preuve de l’appelant plus tard dans ces motifs. [6]
+[19] Deuxièmement, monsieur Desmarais, conseiller en recherche et en technologie à l’agence du revenu, a témoigné comme témoin factuel et non comme témoin expert.
+[20] Je noterais que monsieur Desmarais a reçu son baccalauréat en génie mécanique de l’université de Sherbrooke et a eu une formation supplémentaire en plasturgie. [7]
+[21] Monsieur Desmarais a décrit le travail qu’il a fait et les informations qu’il a obtenues. Il est approprié de tenir compte de sa preuve comme témoin factuelle.
+[22] Troisièmement, quant au témoin expert de l’intimée, le docteur Mimoune, au cours de l’audience je n’ai eu aucune hésitation à le qualifier comme témoin expert vu ses études et son expérience.
+[23] Sa formation générale est: ingénieur d’état en génie mécanique de l’École polytechnique d’Alger, maîtrise en génie mécanique de l’École polytechnique de Montréal et doctorat en génie mécanique de l’université Laval. Il est membre de l’Ordre des ingénieurs du Québec. [8]
+[24] Le premier emploi du docteur Mimoune au Québec était avec une PME en Beauce où il a été engagé pour concevoir un type de panneaux qui pouvaient servir dans la construction de maisons ou autres structures. Il été responsable de concevoir et faire construire la machinerie nécessaire à la construction de ces panneaux, machines qui par la suite ont été exportées au Costa Rica ainsi que la conception et réalisation d’une usine avec ces machines qui été exportées en Argentine.
+[25] Par la suite, il travaillait pour une compagnie spécialisée dans les systèmes robotisés qui aidaient les entreprises de fabrication à régler des problèmes de fabrication en modifiant les systèmes qu’ils avaient ou en concevaient des nouveaux systèmes de fabrication.
+[26] Juste avant d’entrer à l’agence du revenu du Canada, le docteur Mimoune a travaillé à JDS Uniphase où il a conçu et réalisé une chaine de fabrication de lentilles optiques pour fibre optique. Cette chaine utilise de la micromécanique robotisée.
+Faits et analyse
+[27] Monsieur Borzym a décrit généralement les deux projets. Il a témoigné au sujet de certaines difficultés et incertitudes rencontrées au cours des projets.
+[28] Toutefois son témoignage été assez général. En particulier, il ni y'a pas de témoignage détaillée et de documentation détaillée [9] qui démontre que l’appelante, ou la firme Automation Machine Design, a:
+i) systématiquement formulé des hypothèses visant expressément à surmonter les incertitudes, et
+ii) procédé à un effort systématique pour vérifier, et si nécessaire, modifier les hypothèses et
+iii) fait un compte rendu détaillé de ces travaux.
+[29] Vu l’absence d’une telle preuve détaillée, je conclus qu’il n’y’a pas eu de tels efforts systématiques. L’absence de tels efforts est cohérente avec la résolution des problèmes en utilisant des procédures généralement connues et des connaissances de base.
+[30] L’opinion du docteur Mimoune peut se résumer à ceci: les difficultés qu’il y avait dans ces deux projets ne constituent pas des incertitudes technologiques, car ils pouvaient être réglés avec des connaissances de base et des procédures généralement utilisées en génie mécanique. Il ne s’agit pas de travaux entrepris pour résoudre une incertitude scientifique ou technologique.
+[31] Je retient l’option du docteur Mimoune.
+[32] Considérant tout la preuve je ne suis pas convaincue que l’appelante a tenté de résoudre des incertitudes technologiques en utilisant la méthode scientifique afin de réaliser un avancement ou un progrès technologique qui ne pouvaient être éliminées par les procédures habituelles ou les études techniques courantes.
+[33] Et en conséquence il n’y a pas de développement expérimental au sens de la loi de l’impôt sur le revenu.
+Conclusion
+[34] L’appel interjeté en vertu de la Loi de l’impôt sur le revenu concernant l’année d’imposition 2015 est rejeté sans frais.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+RÉFÉRENCE :
+2022 CCI 137
+Nº DU DOSSIER DE LA COUR :
+2018-2699(IT)G
+INTITULÉ DE LA CAUSE :
+9158-1629 QUÉBEC INC. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Granby (Québec)
+DATE DE L’AUDIENCE :
+le 27 et 28 Avril, 2022
+DATE DE RÉCEPTION DE LA TRANSCRIPTION PAR LA COUR:
+Le 24 mai 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Gaston Jorré, juge suppléant
+DATE DU JUGEMENT :
+le 4 novembre 2022
+COMPARUTIONS :
+Agent de l'appelant :
+M. Andrzej Borzym
+Avocat de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Vide
+Cabinet :
+vide
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette cause ayant été transférée à la procédure informelle par ordonnance du 28e jour de juin 2021, en vertu du paragraphe deux de l’article 10 des Règles de la Cour canadienne de l’impôt (procédure informelle) les frais ne sont accordés à l’intimée que dans certaines circonstances.
+[2] Cet appel a commencé comme un appel en procédure générale. Une ordonnance en date du 28 juin 2021 a ordonné que cet appel soit régi par la procédure informelle.
+[3] Voir les pièces I-2 et I-3 ainsi que les pages à 35 de l’onglet 4 de la pièce I-5. Je note que les brevets ont été octroyés à M. Borzym.
+[4] Les soumissions, contrats et factures sont aux onglets 3 à 7 de la pièce I-1. À l’onglet 8 de la pièce il y a quelques factures d’autres compagnies.
+[5] CW Agencies Inc. c. Canada, 2001 CAF 393 (CanLII), paragraphe 17.
+[6] De plus, ces prétentions ne tiennent pas compte du fait qu’ultimement c’est cette cour qui doit décider de la validité ou non de la cotisation.
+[7] Il avait été membre de l’ordre des ingénieurs dans le passé, mais n’était plus membre de l’ordre depuis plusieurs années au moment où il a fait son travail dans ce dossier.
+[8] Voir la page 135 de la transcription de la première journée d’audience et la pièce I-4.
+[9] Ce qu’il y a comme documentation et très limitée. Il y a notamment les formulaires T661 qui parlent de certains tests, mais il n’y’a pas de notes détaillées de tests effectués.

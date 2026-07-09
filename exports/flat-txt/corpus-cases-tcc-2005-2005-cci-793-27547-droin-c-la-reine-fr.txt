@@ -1,0 +1,134 @@
+Title: Droin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27547/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-793-27547-droin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-12-14
+
+# Droin c. La Reine
+
+- Citation: 2005 CCI 793
+- Decision date: 2005-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 109, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Droin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-14
+Référence neutre
+2005 CCI 793
+Numéro de dossier
+2005-1622(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1622(IT)I
+ENTRE :
+JÉROME DROIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 octobre 2005, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentante de l'appelant :
+Denise Droin Brez
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que l'appelant a droit au crédit d'impôt pour déficience physique grave et prolongée, en vertu de l'article 118.3 de la Loi, pour l'année d'imposition en litige, le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14ejour de décembre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI793
+Date : 20051214
+Dossier : 2005-1622(IT)I
+ENTRE :
+JÉROME DROIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant l'année d'imposition 2003.
+[2] La question en litige est de savoir si l'appelant, dont le bras gauche est non fonctionnel et atrophié, comme s'il s'agissait d'un bras amputé, peut se prévaloir du crédit d'impôt pour déficience physique grave et prolongée.
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est appuyé pour établir sa cotisation sont décrits au paragraphe 6 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) Le 19 avril 2004, le Dr Jean-Marc Hébert a complété le formulaire T2201 « Certificat pour le crédit d'impôt pour personnes handicapées » , relativement à l'état de santé du patient;
+b) Le diagnostic du Dr Hébert est à l'effet que l'appelant souffre d'une « lésion plexielle » post traumatique du bras gauche et qu'il est incapable de se servir de celui-ci;
+c) Le 17 décembre 2004, en réponse à un questionnaire de l'agent du Ministre, le Dr Hébert précisait que son patient avait un « Bras non fonctionnel et atrophique au même titre qu'une amputation » ;
+d) Le 28 février 2005, lors d'une conversation téléphonique avec l'agent du Ministre le Dr Hébert a indiqué que l'appelant ne semblait pas prendre un temps excessif pour s'habiller ou s'alimenter et qu'il n'était pas limité de façon marquée puisque le bras droit compensait;
+e) Après examen de ces évaluations, le Ministre a conclu que l'appelant n'est pas limité de façon marquée dans les activités essentielles de la vie quotidienne qui sont les suivantes : voir, marcher, parler, entendre, se nourrir et se vêtir, percevoir, réfléchir, se souvenir et éliminer les déchets du corps humain.
+[4] L'appelant a expliqué qu'il y a certaines activités qu'il ne peut faire sans l'aide d'une autre personne. Il ne peut nouer un noeud de cravate, ne peut boutonner la manche droite d'une chemise et ne peut insérer l'un dans l'autre les deux éléments du début d'une fermeture éclair. Ainsi, il ne peut attacher un manteau, un parka ou autre vêtement qui se ferme avec une fermeture éclair. Il ne peut nouer les lacets de ses chaussures. Il ne peut couper les pièces de viande, ne peut éplucher les pommes de terre ou autre légume, ne peut porter les casseroles lourdes, ne peut sortir les casseroles chaudes du four.
+[5] Depuis 10 ans, l'appelant a une conjointe de fait et ils ont un fils qui a maintenant neuf ans. Avant son union, c'était ses parents qui l'aidait dans les nécessités de la vie ci-dessus décrites. Maintenant, c'est sa conjointe, à l'occasion son jeune garçon, et quand il est au travail, ses collègues de travail.
+[6] L'appelant est dessinateur et calculateur. Il fait des plans pour des arpenteurs géomètres. Son métier s'exerce à l'aide d'un ordinateur exclusivement. Il n'utilise pas une table à dessiner.
+[7] Tel que mentionné à la Réponse, les certificats du médecin n'indiquaient pas que l'appelant était limité de façon marquée dans ses capacités de se nourrir et de s'habiller. Toutefois, il y a eu la production d'un certificat établi par une ergothérapeute, madame Maryse Fortin, en date du 25 avril 2005. Ce certificat a été produit comme pièce I-4. Comme il ne s'agit pas d'une déficience causée par une maladie dégénérative, le certificat a été accepté par l'avocat de l'intimée, pour les fins de l'année 2003. Elle a témoigné à la demande de l'avocat de l'intimée.
+[8] L'ergothérapeute a répété dans son témoignage ce qu'elle avait affirmé dans le certificat soit que l'appelant était limité de façon marquée dans sa capacité de s'habiller et dans sa capacité de se nourrir. Voici ce qu'elle a écrit dans son certificat :
+...
+Monsieur ne peut utiliser son membre supérieur gauche, même pour stabiliser. Monsieur ne peut préparer ses repas sans aide. Ne peut transporter plats lourds ou volumineux. Ne peut couper certains aliments malgré des adaptations ou couteaux spéciaux. Le bras gauche étant flasque, monsieur le trouve nuisible à l'habillage. Ne peut lacer, fermer fermeture éclair, boucler ceintures. Âgé de 33 ans, il ne peut toujours porter des vêtements sans attache. Ne peut couper ses ongles de la main droite.
+Diagnostic (si disponible) : atteinte sévère du plexus brachial gauche avec paralysie complète du membre supérieur gauche, anesthésie et atrophie importante.
+[9] L'avocat de l'intimée s'est référée à trois décisions de cette Cour, soit : St-Pierre c. Canada, [1996] A.C.I. no 397 (QL); Champagne c. Canada, [1995] A.C.I. no 1122 (QL); et Cardin c. Canada, [1995] A.C.I. no 648 (QL). Dans ces trois cas, il s'agissait d'atrophie ou d'absence d'un bras. Les deux premières décisions ont rejeté l'appel et la troisième a été favorable à l'appelante.
+Analyse et conclusion
+[10] Le paragraphe 118.3(1) prévoit que s'il s'agit d'une déficience quant à la capacité de marcher, de s'alimenter ou de s'habiller, un médecin en titre ou un ergothérapeute peut remplir le certificat prescrit.
+[11] Le paragraphe 118.4(1) se lit ainsi :
+118.4(1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b) la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) la perception, la réflexion et la mémoire,
+(ii) le fait de s'alimenter ou de s'habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d'évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+d) il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+e) le fait de s'alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l'activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n'y aurait pas été consacré en l'absence d'une restriction ou d'un régime alimentaire;
+f) le fait de s'habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+[12] Pour l'obtention du crédit d'impôt pour déficience mentale ou physique, a) le particulier souffre d'une déficience mentale ou physique grave et prolongée; b) les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée; c) la demande est accompagnée du certificat prescrit par la Loi; et d) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier soit des frais de séjour dans une maison de santé, n'est inclus dans le calcul d'une déduction en application de l'article 118.2 de la Loi.
+[13] Dans la présente affaire, il n'est pas contesté que l'appelant souffre d'une déficience physique grave et prolongée. Il nous faut déterminer si les effets de la déficience sont tels que sa capacité d'accomplir les activités de la vie courante, qui sont le fait de s'habiller et de se nourrir, est limitée de façon marquée.
+[14] Nous voyons à l'alinéa 118.4(1)b) que la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée si le particulier est toujours ou presque toujours incapable d'accomplir cette activité sans y consacrer un temps excessif, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués.
+[15] Quel est le sens à donner à l'expression « temps excessif » ? Je me reporte à la décision de la Cour d'appel fédérale dans Johnston c. La Reine, [1998] A.C.F. no 169 (QL) :
+[18] On n'a pas défini ce qui constitue un temps excessif pour accomplir les activités courantes de la vie quotidienne. À mon avis, l'expression « temps excessif » renvoie à un temps beaucoup plus long que celui que doivent normalement consacrer à ces activités des personnes en santé. Il implique une différence marquée d'avec ce que l'on considère normal.
+[16] Je me reporte également à la décision de cette Cour dans McMaster c. Canada, [1998] A.C.I. no 301 (QL) :
+[13] En me référant à la décision de la Cour d'appel fédérale dans Johnston c. La Reine, je vois que le critère objectif qui doit aider à trancher ces affaires est de savoir si la difficulté rencontrée par le particulier est telle que ce dernier requiert habituellement l'aide d'une autre personne pour accomplir l'activité essentielle ou qu'il prend, en comparaison avec une personne ne souffrant pas de la même incapacité, un temps excessif dans l'accomplissement de cette activité.
+[17] Ici, l'appelant peut exercer certains des actes requis pour l'accomplissement des activités courantes en question, mais pour d'autres, il s'agit d'une incapacité totale. L'aide d'une autre personne est alors essentielle. Les actes pour lesquels est requis l'aide d'une autre personne sont fréquents et de tous les jours.
+[18] Il est à noter que dans le certificat produit comme pièce I-4, un exemple de « limité de façon marquée » dans la capacité de s'habiller est « Votre patient ne peut s'habiller sans avoir l'aide quotidienne d'une autre personne » .
+[19] L'appelant pourrait peut-être choisir des vêtements sans fermeture éclair, des chaussures sans lacets, manger des aliments déjà hachés, acheter des légumes surgelés. Cependant, cela impliquerait une différence très marquée d'avec ce que l'on considère normal.
+[20] Comme la preuve a révélé que l'appelant ne peut accomplir, sans l'aide d'une autre personne, plusieurs actes normaux relatifs à deux activités de la vie courante qui sont s'habiller et se nourrir, je suis d'avis qu'il peut se prévaloir du crédit d'impôt pour déficience physique grave et prolongée.
+[21] En conséquence, l'appel est accordé.
+Signé à Ottawa, Canada, ce 14ejour de décembre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2005CCI793
+N º DU DOSSIER DE LA COUR : 2005-1622(IT)I
+INTITULÉ DE LA CAUSE : JÉROME DROIN
+ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 5 octobre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 14 décembre 2005
+COMPARUTIONS :
+Représentante de l'appelant :
+Denise Droin Brez
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

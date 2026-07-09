@@ -1,0 +1,217 @@
+Title: Mann v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26544/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-741-26544-mann-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-12-23
+
+# Mann v. The Queen
+
+- Citation: 2004 TCC 741
+- Decision date: 2004-12-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3226, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mann v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-23
+Neutral citation
+2004 TCC 741
+File numbers
+2001-2258(IT)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2258(IT)G
+BETWEEN:
+GURPAL SINGH MANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 28, 2004 at Vancouver, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul K. Lail
+Counsel for the Respondent:
+Michael Taylor
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act notice of which bears no. 05128 is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of December 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC741
+Date: 20041223
+Docket: 2001-2258(IT)G
+BETWEEN:
+GURPAL SINGH MANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor,J.
+[1] The issue in this appeal is whether the Appellant, one of seven directors of a corporation named AC Vinyl Windows Manufacturing Ltd. ("Corporation") is responsible for the Corporation's failure to remit federal income tax deducted at source but not remitted by the Corporation.
+[2] The basic facts are set forth in the following paragraphs of the Reply to the Notice of Appeal ("Reply"):
+4. By Notice of Assessment #05128 dated October 14, 1999, the Minister assessed the Appellant for federal income tax deducted at source but not remitted by the Corporation in the amount of $19,553.63 (the "Amount") and for interest and penalties relating thereto.
+5. The Appellant filed a Notice of Objection on December 24, 1999.
+6. By Notice dated March 22, 2001, the Minister confirmed the assessment.
+7. In so assessing the Appellant, the Minister relied on the following assumptions:
+a) the Corporation was incorporated on June 6, 1995;
+b) the Corporation was in the business of manufacturing vinyl windows;
+c) on June 14, 1995, the Appellant signed a Consent to Act as a Director;
+d) on June 14, 1995, the Appellant, and six other directors, were allotted 120 common shares each;
+e) the Appellant invested money in the Corporation;
+f) at all material times, the Appellant was a director of the Corporation;
+g) the Appellant was an employee of the Corporation;
+...
+i) on January 12, 1998, the Minister issued three failure to remit source deduction assessments against the Corporation in respect of amounts withheld in the 1997 taxation year;
+j) the Corporation ceased business in February, 1998;
+k) the Appellant resigned as director of the Corporation on or about March 4, 1998;
+l) on July 30, 1998, the Minister issued a fourth assessment for failure to remit source deductions against the Corporation in respect of amounts withheld in the 1997 taxation year;
+m) the Corporation was required to deduct or withhold and remit payroll deductions pursuant to subsection 153(1) of the Income tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act");
+n) in paying wages to its employees in the 1997 taxation year, the Corporation withheld payroll source deductions from the wages paid;
+o) in paying wages to its employees in the 1997 taxation year, the Corporation failed to remit to the Receiver General the Amount, the details of which are set out in Schedule A to the Reply, and failed to pay penalties and interest related thereto;
+p) a certificate in the amount of $29,892.32 representing the Corporation's liability for federal income tax, penalties and interest, was registered in the Federal Court of Canada on June 30, 1999 under subsection 223(2) of the Act;
+q) a writ of execution corresponding to the certificate was issued and was returned wholly unsatisfied on August 16, 1999; and
+...
+B. ISUES TO BE DECIDED
+8. The issue is whether the Appellant is liable under subsection 227.1(1) of the Act for the failure by the Corporation to remit the Amount to the Receiver General, together with penalties and interest thereon, as required by section 153 of the Act.
+[3] The Appellant contests paragraph 7 h) of the Reply which states the Appellant was aware of the Corporation's financial difficulty and paragraph 7 r) of the Reply which states the Appellant did not exercise the degree of care, diligence and skill to prevent the Corporation's failure to remit.
+[4] The Appellant testified through a Punjabi interpreter that he and six others, all of Indian descent, formed the Corporation in June 1995 to carry on the business of assembling vinyl doors and windows. Two of the seven, namely Tarnjit Singh Bagri (who became President) and Amzad Ali Saheb (who became Secretary) were accepted by the group as the persons who managed the business. As mentioned the Appellant was both a director and an employee. As an employee he earned $10 per hour.
+[5] The Appellant testified as follows:
+(a) that the said two managers wished to involve all seven in the business and consequently persuaded the remaining five to be directors and shareholders of the Corporation;
+b) that the Appellant initially contributed to the Corporation an amount of $35,000 and received 120 shares in the Corporation. He further subsequently, on separate occasions, contributed amounts of $5,000, $3,000 and $1,000. These amounts were allegedly used to run the business. When a fifth call for a further amount was made the Appellant refused and declared that he was no longer interested in being part of the Corporation. All directors were asked to similarly contribute but it is not clear whether they did;
+c) that the Appellant's education ended after a grade 10 level in India and that he came to Canada in 1972;
+d) that he had difficulty speaking, understanding and writing English;
+e) that he did not know the role or the responsibilities of a director;
+f) that he relied on the two managers to manage and run the business, believing they had the experience and language skills to do so;
+g) that he was involved in production only and not in management;
+h) that he suffered an accident on August 28, 1997 involving a knee injury and that his involvement with the Corporation after that reduced significantly;
+i) that he did not know of the Corporation's debts, in particular with respect to amounts withheld by the Corporation but not remitted. He referred to a letter of Alan K. Seabrook, Barrister and Solicitor dated March 19, 1998 addressed to all seven directors (Tab 7 of Exhibit R-1) which indicated to him that the debts of the Corporation had been looked after. It reads as follows:
+March 19, 1998
+Mr. Tarnjit S. Bagri & Mr. Jarnail S. Thandi
+c/o Kennedy & Company
+Barristers & Solicitors
+#304-9808 King George Highway
+Surrey, B.C.
+V3T 2V6
+Mr. Amzad A. Saheb Mr. Jaswinder S. Kajla Mr. Piara Dardi
+9351-128th Street 9755-130th Street 10749-141st Street
+Surrey, B.C. Surrey, B.C. Surrey, B.C.
+V3V 5N3
+V3T 3L2 V3T 4R5
+Mr. Sarbjit S. Randhawa Mr. Gurpal S. Mann
+6767-130th Street 5305 Prince Albert Street
+Surrey, B.C. Vancouver, B.C.
+V3W 4J2 V5W 3C7
+Dear Sirs:
+Re: Sale of Assets of A.C. VINYL WINDOWS MANUFACTURING LTD. to AERIE VIEW WINDOWS INC.
+Our File Number: 4529
+____________________________________________________________
+I refer to previous correspondence and discussions and wish to confirm that the above described sale was completed on February 27, 1998. I further confirm that pursuant to the instructions of the Directors and Officers of the Company that I have attended to the following matters on your behalf:
+1. Obtained the payment of the sum of $110,000.00 being the net proceeds of the sale of assets. I have also obtained the sum of $20,427.70 representing the principal amount of the term deposit held by the Toronto-Dominion Bank as security and inclusive of accumulated interest to March 4, 1998.
+2. I have paid the sum of $31,325.17 to Gordon Bromley Holdings Ltd. and representing payment of outstanding arrears of rent and payment for the rent to the period of March 15, 1998.
+3. I have paid the sum of $69,049.84 to the Toronto-Dominion Bank representing payment of the balance of the loans of the Company with that bank. For your information I was advised that the balance of the Operating Loan as of March 3, 1998 was $30, 146.66 plus $153.18 in accrued interest. The balance of the small business loan was $38,750.00.
+4. On March 4, 1998 I remitted the sum of $11,910.82 to Revenue Canada Taxation. This sum represented your determination of the outstanding source deductions, totaling $10,166.35 and outstanding goods and services tax collected totaling $1,744.47. Subsequent to that remittance I have been advised that a further $1,151.36 is owed for source deductions in which some includes penalties plus a reimbursement for the sum of $815.00 which was submitted on January 8, 1997 but the cheque was dishonoured.
+5. I have paid the sum of $671.40 to myself representing payment of my then outstanding accounts to the Company.
+6. On March 10, 1998 I paid the sum of $3,586.69 to Pamela Clarkson which represented payment of her outstanding wages to February 28, 1998 in the sum of $1,320.74 plus holiday pay in the sum of $1,330.27 and severance pay in the amount of $935.68.
+Pursuant to instructions from Mr. Dardi I have remitted the sum of $7,538.77 to Mr. Chandok & Mr. Hayre and I enclose a copy of my letter which explains how this payment is to be applied.
+I have applied the balance of the funds held by me in trust to payment of my account, which is enclosed for your reference.
+I have also enclosed copies of accounts from B.C. Hydro which apparently are outstanding and which have been delivered to me.
+I trust you will find the enclosed to be in order and thank you for the opportunity to be of service to you. I ask that you contact me if you have any questions or if I can be of any further service to you.
+Yours truly,
+ALAN K. SEABROOK
+AKS:skd
+Encl.
+(j) that whenever enquiries were made of the two managers (at first Bagri and Saheb and later Bagri and Thandi) they indicated there was nothing to worry about.
+[6] The following are extracts from counsels' submissions:
+Counsel for the Appellant:
+... the central issue to be decided ... is whether the appellant exercised the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent the failure of the corporate entity to remit source deductions.
+If the court answers that question in the affirmative, then the appellant is relieved of personal liability for the source remittances owed by the corporation involved here. And the leading case with respect to the application of subsection 227.1(3) of the Income Tax Act is the decision of Mr. Justice Robertson of the Federal Court of Appeal in Soper v. The Queen. And in that case, Mr. Justice Robertson indicated that the standard to be met is partly objective and partly subjective, and he set out a number of principles to consider in applying that section.
+The first of these was that directors are not to be equated with trustees. Secondly, a director need not exhibit in the performance of his duties a greater degree of skill and care than may be expected from a person of his knowledge or his comparable knowledge and experience. thirdly, a director is not obliged to give continuous attention to the affairs of a company, and nor is he bound to attend to all meetings of the board. And fourthly, and I think this is important, is in the absence of grounds for suspicion, it is not improper for a director to rely on company officials to perform, honestly, duties that they have been delegated to perform.
+And ..., it is submitted that the application of this analysis to this case leads to the conclusion that in the circumstances in which this appellant found himself, the appellant satisfied the requirements of Section 227.1(3).
+Mr. Justice Robertson in Soper indicated that it is sometimes helpful to consider whether a person was an inside director actively involved in the daily management of the company or an outside director and the evidence clearly shows that the appellant here was an outside director who had, in fact, little involvement in the ongoing management of the company.
+In the case here, because there is partly an objective standard and partly a subjective standard, we have to look at the appellant's particular circumstances, and his level of education and business knowledge. In this case the appellant was not a person who had any advanced business degree or in fact any business training. The appellant had only a grade 10 education in India, and you can tell that his knowledge of English is not strong, and English is the dominant language of business in this province.
+The second circumstance which the court ought to consider is that the inside directors deliberately kept information from the appellant. The appellant testified today that with his colleagues who acted as outside directors, he sought information from the inside directors but he was rebuffed in his efforts to obtain that information. It's respectfully submitted that a person in this appellant's circumstances could not have done anything more to pressure the inside directors to obtain or provide further information.
+Another unique circumstance for this appellant is that he suffered an injury which left him unable to work and gave him cause to not attend at the business location, so he was even further removed than perhaps a typical outside director would be. And the final or further factor to be considered in this case is that we have letters from Mr. Seabrook and related letters from Revenue Canada itself that could be taken to imply that all of the outstanding source remittances were paid. I respectfully submit that if you look at the letters from Mr. Seabrook it certainly suggests that the outstanding source remittances have been satisfied. And certainly for a person who does not have a sophisticated background, that would be a reasonable conclusion to draw from Mr. Seabrook's letters.
+And I wish again to emphasize that the appellant here was at a severe disadvantage because of his lack of knowledge of the English language, and there was a principle laid out by Mr. Justice Robertson in Soper that an outside director can rely on others as long as there is nothing obviously indicating that those persons upon whom he relies are not performing that function.
+Looked at it from this appellant's unique circumstances, I respectfully submit that there was nothing that would suggest to this particular appellant, as disadvantaged as he was, that there was something wrong or improper with the operation of the company. That knowledge only occurred when it was too late to do anything about it.
+And on that basis, Mr. Justice, I respectfully submit that the appeal should be allowed.
+...
+Counsel for the Respondent:
+... the respondent submits in this case that the appellant did not meet the standard of care and diligence required of a director ... and we submit that the appellant does not meet that standard for two important reasons:
+First, that the appellant did nothing, which could have prevented a failure to remit the company's payroll deductions in 1997.
+And second, he did not nothing to inform himself of his roles and responsibilities as a director ...
+...
+[7] Counsel for the Respondent analyses some general principles from Soper and continues:
+The court characterizes an outside director as someone who is more like an investor. He's not involved in management and relies on the principals of a business to keep the business running and ensure the finances are in order, and ... -- an outside director usually faces a lower standard of care. But ... the court points out that an outside director still has important duties. An outside director is not permitted to be entirely passive, and the court says there will come a time when even an outside director has a positive duty to do something to try to prevent a failure of the corporation to remit. ... The court says: "This is not to suggest that a director can adopt an entirely passive approach but only that, unless there is reason for suspicion, it is permissible to rely on the day-to-day corporate managers to be responsible for the payment of debt obligations such as those owing to Her Majesty." The court then concludes ... by saying: "The question remains, however, as to when a positive duty to act arises."
+And in the next paragraph, Justice Robertson says: "In my view, the positive duty to act arises where a director obtains information, or becomes aware of facts, which might lead one to conclude that there is, or could reasonably be, a potential problem with remittances. Put differently, it is indeed incumbent upon an outside director to take positive steps if he or she knew, or ought to have known, that the corporation could be experiencing a remittance problem."
+He then says: "The typical situation in which a director is, or ought to have been, apprised of the possibility of such a problem is where the company is having financial difficulties". At that point the court says there is a legal duty on a director to take some positive action."
+It's important, I think, to note, that the test enunciated by the Court of Appeal does not require the director to actually know for a fact that the corporation is not making its remittances or will be defaulting in its remittances. Merely knowing that there could or might reasonably be a remittance problem, is enough to trigger a duty to act under the law.
+...
+[8] Counsel refers to the decisions of the Federal Court of Appeal in Cadrin, Hanson and Smith and other authorities and concludes as follows:
+The respondent submits that based on the authorities ..., the legal principles that the court should apply in this case are that a reasonably prudent person who lacks the experience and knowledge required to understand their duties would take steps to learn of their duties under the law so that they could discharge them....
+The respondent submits that if the court applies those tests to the case before the court today, the result is that the appellant fails the test of due diligence. Although he was an outside director we submit firstly that the reliance -- as the court said in Soper an outside director is entitled to rely on the day-to-day mangers, but we submit that that must be only to the extent that it's reasonable to rely on them. ...
+And in this case, although the appellant may not have known the intricacies of payroll tax remittances, it's clear he understood some of the basic aspects of the business. He understood that the company had a bank account. He understood that the company had to collect its accounts from its customers to have money. He understood that the company had suppliers and employees to pay. He understood that the company made source deductions from the pay. His own pay was subject to deductions. And I think it also can be concluded from his evidence, although he wasn't clear on the point, that he understood the company was making financial statements or had to make financial statements and some sort of tax reporting. He referred a number of times to assuming that Bagri and Saheb were making the tax returns.
+Now, I will acknowledge that the appellant may not have known the responsibility of the company to remit payroll deductions although he clearly knew the company had to withhold them. He acknowledged his own pay was subject to withholding and he understood that. But we submit that the court should question the reasonableness of relying on Bagri and Saheb to do this. The only reasons the appellant could give for relying on them were that they spoke English, for one, and that they said they had business experience. But he did nothing to assure himself that they actually had business experience. And on the evidence, the court couldn't conclude that Bagri and Saheb were any more qualified, other than language, than the appellant to run a business. And we submit that it was not duly diligent merely to rely on Mr. Bagri and Mr. Saheb.
+Most importantly, even if it was prudent to rely on them at the beginning, it was certainly no longer prudent once they came to the appellant and the others calling for more money, saying that the business needed money, either because it was just getting underway or customers hadn't paid and they were short of funds. At that point, that's exactly the situation that the Court of Appeal described in the Soper case....
+At that time, the appellant had a positive duty to act, to take some steps to ensure that tax remittances were being made. Even if he didn't realize that tax remittances weren't being made, we submit that a reasonably prudent person in his situation, understanding as they did the various aspects of business, ought to have realized that there could be a problem with tax remittances if there was a problem with paying suppliers, for instance. They ought to have realized there could be a problem and they ought to have taken steps. ...
+...
+It's also clear on the evidence that the appellant never turned his mind to the payroll tax situation even when it was clear to him, or ought to have been clear, that the company was in financial trouble. And these are not the sorts of things that satisfy the tests set out by the Court of Appeal.
+...
+We submit that the appellant's evidence shows an absence of any diligence at all. He did nothing when he became a director to find out what that was, and then he put it out of his mind again. He did nothing in the course of the business to ensure that tax remittances were made, that payroll deductions withheld were remitted, even when he was told on numerous occasions the company had a financial shortfall. He did none of the things that the court suggested were reasonable in the Cadrin case in terms of ensuring the viability of the business before continuing to invest money, or ensuring that the people he relied on were reliable and competent, or staying generally informed about what happened. Those are the things the Court of Appeal said an outside director should do, and he did none of those.
+...
+The last point I'd like to make has to do with the question of Mr. Seabrook, because the appellant submits that it was reasonable to rely on Mr. Seabrook having paid off the remittances for the company, and we submit in response that that reliance on Mr. Seabrook, the lawyer, does not satisfy the due diligence defence.
+First of all, the lawyer wasn't even the appellant's lawyer, and on the evidence, the appellant never discussed the issue of tax remittances with Mr. Seabrook at all. It's not even clear that he read the letters he received and consciously decided that he was satisfied that remittances were made.
+Secondly, he did nothing to ensure himself that Mr. Seabrook had remitted the correct amounts. For all he knows, Mr. Seabrook remitted the wrong amounts. As it turns out, Mr. Seabrook did remit the wrong amounts, not because he was misinformed, but because an assessment was raised after he made those remittances. If you'll recall from the evidence Mr. Seabrook made remittances to Revenue Canada in March of 1998. At that point the company had been assessed in January, but another assessment was raised in July of 1998. Mr. Seabrook could not have known about that.
+But it was clear that the company had failed to remit more payroll deductions than Mr. Seabrook was aware of. The appellant did nothing to assure himself that Mr. Seabrook's information was correct.
+And finally, and most importantly, all of Mr. Seabrook's action was remedial. And while that can weigh in a taxpayer's favour in some cases, we submit that in this case, in the absence of any diligence whatsoever to prevent a failure to remit, in a circumstance where the appellant basically walked away from the business in September of '97, never turned his mind to the business again, didn't think at that point there could be a problem when he was asked for more money again, didn't think in December when Mr. Bagri told him that the business was non-functional because they disagreed, the two directors, didn't think then that there could be a problem, completely put that out of his mind; we submit that that's a failure of the due diligence.
+The appellant shouldn't be entitled to rely on the fact that someone else's lawyer acted to pay the amount that he was aware of at that time, as evidence of his own diligence. We submit that there was no diligence shown by the appellant in his case.
+And again, although the law does not require the director to succeed in preventing the corporation's failure to remit payroll taxes, the law requires the director to have done something and to have made some attempt, and at the very least, there might be a point where a reasonably prudent director would say, "It's been four cash calls, I'm not providing any more money until I see some financial records." The appellant didn't do that. To the extent that he asked, he didn't pursue it. He continued to rely on those other directors. We submit that a reasonably prudent person would not have done that to the extent the appellant did.
+...
+... the respondent submits that the appeal should be dismissed.
+Analysis
+[9] It must be observed that what is being dealt with in this appeal is an issue of vicarious liability and in my view if there is any serious doubt in the matter, the liability should not be imposed. In this appeal the Appellant was clearly an outside director (as admitted) and consequently the burden of imposing liability on such a director is considerably greater than is the case with an inside director. In the present case the Appellant was handicapped by his inability to understand, write and speak the English language and this, in my view is a very important factor in deciding this appeal. Moreover, the accident the Appellant suffered hampered his ability to be more involved with the Corporation. Further he has acknowledged that he did make inquiries in common with the other outside directors and that he relied on the assurances given to him by the corporate managers. I also believe that the letter of the lawyer, Seabrook, which is addressed to all seven directors, including the Appellant, must have given the Appellant a reasonable degree of assurance that the Corporation's debts had been looked after. For these reasons and for the further reasons set out in the Appellant's counsel's submissions I find that, on a balance of probabilities, the Appellant did exercise the degree of care, diligence and skill to prevent the Corporation's failure to remit that a reasonably prudent person would have exercised in comparable circumstances. Consequently the appeal is allowed with costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on this basis.
+Signed at Ottawa, Canada, this 23rd day of December 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC741
+COURT FILE NO.:
+2001-2258(IT)G
+STYLE OF CAUSE:
+Gurpal Singh Mann and H.M.Q.
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+December 23, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Paul K. Lail
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Paul K. Lail
+Firm:
+Fritz Lail Shirreff and Vickers
+Surrey, British Columbia
+For the Respondent:
+John H. Sims
+Deputy Attorney General of Canada
+Ottawa, Canada

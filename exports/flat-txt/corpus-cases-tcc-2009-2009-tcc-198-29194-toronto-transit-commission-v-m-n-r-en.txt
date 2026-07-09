@@ -1,0 +1,186 @@
+Title: Toronto Transit Commission v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29194/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-198-29194-toronto-transit-commission-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-03-05
+
+# Toronto Transit Commission v. M.N.R.
+
+- Citation: 2009 TCC 198
+- Decision date: 2009-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6690, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toronto Transit Commission v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-05
+Neutral citation
+2009 TCC 198
+File numbers
+2008-1378(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2008-1378(CPP)
+BETWEEN:
+TORONTO TRANSIT COMMISSION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 5, 2009 at Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Matthew G. Williams and
+Kristina Soutar
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 21st day of April 2009.
+"N. Weisman"
+Weisman D.J.
+Citation: 2009 TCC 198
+Date: 20090421
+Docket: 2008-1378(CPP)
+BETWEEN:
+TORONTO TRANSIT COMMISSION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Weisman D.J.
+[1] Nancy Murphy and Herschell Green were both permanently disabled in 2006 while employed under contracts of service by the Toronto Transit Commission (the “TTC”). Fortunately, the TTC had long term disability income plans in place that assured the two employees of a percentage of their earned income when their monthly disability benefits began.
+[2] The Minister of National Revenue (the “Minister”) has decided that these monthly payments constitute remuneration for pensionable employment, and as such are subject to employer’s contributions under the Canada Pension Plan[1] (the “Plan”). The TTC now appeals that determination.
+[3] The TTC funds one plan for its unionized employees, and another for its non-unionized staff. The union plan specifically provides that disability benefits are provided to eligible employees by way of indemnity for lost future income. The staff plan is to the same effect, as it authorizes the TTC to deduct from disability benefits otherwise payable, any damages awarded to employees against third parties for loss of future income, and any disability benefits received under the Plan.
+[4] TTC policy manuals confirm that while receiving disability payments, workers are on personal leaves of absence and remain employees. They are transferred to inactive status, and may be replaced temporarily or permanently, or reinstated. Their seniority is not affected by being on inactive status; their disability benefits are subject to a cost of living adjustment; their healthcare and dental benefits are maintained; and they are still entitled to retain their transportation privileges.
+[5] While the plans are funded by the TTC, they are administered by a life insurance company as agent for the TTC and not as an insurer. Although the insurance company makes the actual disability payments, it is reimbursed by the TTC, which retains the right to make the final determination of any dispute concerning a person’s eligibility or his or her coverage under the plan or right to receive benefits; any situation where a person has disputed the amount due; and generally any controversial matter or non-routine matter arising out of the administration of the plan.
+[6] The TTC bases its appeal upon subsections 2.(1), 6.(1) and 9.(1), under the Plan, which provide in part as follows:
+2.(1) In this Act,
+…
+"employer" means a person liable to pay salary, wages or other remuneration for services performed in employment, and in relation to an officer includes the person from whom the officer receives his remuneration;
+"employment" means the performance of services under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+…
+6.(1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+(b) employment in Canada under Her Majesty in right of Canada that is not excepted employment; or
+(c) employment included in pensionable employment by a regulation made under section 7.
+9.(1) Every employer shall, in respect of each employee employed by the employer in pensionable employment, make an employer's contribution for the year in which remuneration for the pensionable employment is paid to the employee …..
+[7] The TTC takes comfort in the fact that the definition of “Pensionable employment” in subsection 6.(1) is set out in three parts, all of which begin with the key word “employment”. Subsection 2.(1), clearly requires the performance of services under a contract of service for there to be employment. Subsection 9.(1) further requires that there be remuneration. While the TTC admits that contracts of service still exist while the two employees are on inactive status, it points out that no services are being performed, and no remuneration is being paid; rather the employees are being indemnified for loss of future earnings and wages.
+[8] The TTC also finds some authoritative support for its position in two cases: Re. Minister of National Revenue and Visan[2] (“Visan”) and Cité de la Santé de Laval v. Canada[3] (“Cité”). It should be noted that these cases involved the Unemployment Insurance Act[4], 1971 (the “UIA”) and the Employment Insurance Act[5] (the “EIA”) respectively, but not the Plan.
+[9] In Visan, a third party insurance company funded the employer school board’s disability plan. It made payments to a disabled teacher who performed no services. The Court found that the payments were not insurable earnings because they did not constitute remuneration as required by subsection 54(1) of the Unemployment Insurance Regulations[6] which provided as follows:
+54(1) Subject to subsections (2) and (3) the employment with an employer in any week of a person,
+(a) whose earnings are calculated in whole or in part on time-worked or fixed-salary basis and who is employed and remunerated for less than twenty hours by his employer,
+…
+is excepted from insurable employment.
+[10] Since the word “remunerated” is not defined in the UIA, the Court looked to the dictionary definition. The Court says:
+The Shorter Oxford Dictionary, 3rd ed., defines “remunerate” and “remuneration” as follows:
+... 1. trans. To repay, requite, make some return for (services, etc.). 2. To reward (a person); to pay (a person) for services rendered or work done.... Hence Remuneration, reward, recompense, repayment; payment, pay.
+From the definition it can be seen, I think, that the character of the payment is determined by its nature. Applying that test to the payments made to the respondent, it is clear that they were not made for services rendered but, in a sense, were the opposite of payments of that kind, viz., to compensate the respondent, in part, for the loss of payments for services which he would have rendered had he not been prevented from doing so by his disability.
+[11] In Cité, the employees involved, who were pregnant nurses, did not do any work while on special leave. Their disability payments were ultimately provided by a third party insurer which was a provincial government benefit plan. The Court applied paragraph 2.(1)(a) of the Insurable Earnings and Collection of Premiums Regulations[7] (“IECPR”) which provides as follows:
+2.(1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and …
+[12] The Court concluded that “earnings” refers to remuneration, salary, income or money received for a service or work. It decided that the amounts in issue were not insurable earnings for four reasons. First, the group indemnity plan was a legislative insurance plan, and not part of a contract of employment between an employer and its employees. Second, for income from an employer to be earnings, it must have been paid pursuant to a labour or employment contract. Third, the amounts received were legally classified by the government plan as “income replacement indemnity”. Following Visan, the Court also found that the payments were not in the nature of remuneration and did not correspond to services, but were at opposite poles from payments of that kind. The purpose of the payments was to indemnify a pregnant employee for the loss of earnings that would have resulted if there were no income replacement indemnity in place.
+[13] Accordingly, while these two cases involve the insurability of payments received by disabled workers, and not its pensionability, they nonetheless offer some guidance since both Acts and the Plan ostensibly require services to be performed and remuneration to be paid. Both Courts found the benefit payments not to be insurable earnings because no services were performed; they were funded by a third party insurer and not by the employer, and the amounts received were not in the nature of remuneration but were long term disability benefits or income replacement indemnities.
+[14] The Minister has a different point of view, also supported by jurisprudence. His position rests on subsection 9.(1) above, together with subsection 12.(1) under the Plan, as well as subsection 5(1) and subparagraph 6(1)(f)(ii) of the Income Tax Act[8] (the “ITA”), which provide in part as follows:
+12.(1) The amount of the contributory salary and wages of a person for a year is the person's income for the year from pensionable employment, computed in accordance with the Income Tax Act ..…
+5(1) Subject to this Part, a taxpayer's income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+…
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+…..
+(f) Employment insurance benefits - the total of all amounts received by the taxpayer in the year that were payable to the taxpayer on a periodic basis in respect of the loss of all or any part of the taxpayer's income from an office or employment, pursuant to
+…
+(ii) a disability insurance plan, …
+to or under which his employer has made a contribution…..
+[15] Since subsection 12.(1) under the Plan incorporates the ITA by reference, subparagraph 6(1)(f)(ii) of that Act includes in the computation of income “an income disability insurance plan” … “to or under which his employer has made a contribution”, prima facie the benefit payments received from the TTC by the two workers in the matter before me, are pensionable even though no services were performed.
+[16] The Minister further contends that sections 9 and 12 of the Plan should be construed harmoniously in order to avoid incongruous results. Amounts received could otherwise be taxable but not pensionable, or vice versa.
+[17] Finally, the Minister minimizes the significance of the words “for a year” in subsection 12.(1) under the Plan, in answer to the TTC’s argument that no services are being provided in the year the employee receives his or her disability benefits. The Minister points out that a bonus paid in one year for services rendered in prior years, are nonetheless taxable and pensionable, even if no services are performed in the year of receipt. He asserts that the TTC’s disability benefit payments similarly constitute remuneration for past services performed.
+[18] The Minister has brought several cases to the Court’s attention. Unfortunately, only two of them involve the Plan. In Peters v. M.N.R.[9], the Court held that long term disability payments received by an employee from a third party insurer over which the employer had no control, were not pensionable because that required employment income to be paid by an employer for services performed under a contract of service. There was no such contract between the employee and the insurance company.
+[19] In contrast, Desender v. M.N.R.[10] held disability payments both insurable and pensionable, because the employer University funded the disability plan, the employees contract of service remained in effect; and she continued to have all the rights of an employee during that time. Unfortunately the Court’s attention does not seem to have been drawn to subsection 1.(2) under the IECPR above, which provides as follows:
+1.(2) For the purposes of Part IV of the Act and for the purposes of these Regulations, "employer" includes a person who pays or has paid earnings of an insured person for services performed in insurable employment.
+[20] This definition of “employer” is similar to that in subsection 2.(1) of the Plan. Both require payment for services performed. We cannot know if the result would have been different if this subsection had been considered by the Court.
+[21] Université Laval v. M.N.R. [11] (“Laval”) deals with insurable earnings, but is otherwise factually very similar to the scenario before me. The University’s collective agreement with its employees required it to maintain a wage loss indemnity plan that it paid for in its entirety. The plan paid benefits equal to a percentage of the employee’s normal salary. An insurance company acted merely as the account administrator. The workers were still employed by the University; if there was a salary increase the benefits increased accordingly; the benefits were paid during normal pay periods for the first 52 weeks of the disability, and the workers did not perform any services.
+[22] Unlike Desender, the Court does consider subsection 1.(2) under the IECPR above, which defines “employer” as a person who pays earnings for services performed as aforesaid. The Court also refers to paragraph 2.(1)(a) under Part I of the same Regulations, as did the Court in Cité, which found Government funded income replacement indemnities not to be insurable earnings because, inter alia they were not remuneration for services performed. The Appellant stressed the fact that no services were performed as required by subsection 1.(2). The Minister countered that as long as an employment relationship is maintained, disability payments paid by the usual employer rather than by an insurer, constitute insurable earnings even though services have not been performed during the disability period.
+[23] In deciding in favour of the Minister, the Court was swayed by three considerations. First, the definition of “employer” in subsection 1.(2) under the IECPR uses the word “includes” rather than “means” which leads to the inference that there can be situations in which a person other than the person for whom the worker performs the services pays the earnings. Second, courts have consistently held that the phrase “in respect of” found in paragraph 2.(1)(a) of the IECPR, above, is particularly broad. Third, subsection 2.(3) sets out various payments that are excluded from being “earnings”, most of which involve situations in which no services are being performed. This subsection would not be necessary if the performance of services was a condition precedent to insurability. For example, paragraph 2.(3)(d) specifically singles out for exclusion “a supplement paid to a person by the person’s employer to increase a wage loss indemnity payment made to the person by a party other than the employer under a wage loss indemnity plan”.
+[24] Laval was explained and followed in National Bank of Canada v. M.N.R.[12] (“National Bank”) where no services were performed by the disabled employee who remained subject to a contract of service; the benefits were paid by the employer with the assistance of an insurer which merely administered the plan; and the employer maintained the ultimate authority over eligibility for benefits. In finding the benefits insurable the Federal Court of Appeal sets down the following five principles enunciated by it in Laval:
+(1) The expression "in respect of" such employment, which qualifies earnings paid by the employer and which is found in subsection 2(1) of the Regulations is particularly broad;
+(2) There can be insurable earnings within the meaning of the Regulations even where the employee has not performed any services;
+(3) Benefits paid by an employer under a wage loss indemnity plan constitute insurable earnings within the meaning of the Act and the Regulations, while benefits paid by a third party insurer are excluded from the definition;
+(4) The French word "verser", which was translated in English by "pay" ("payer") is more general than the French word "payer" to which the Supreme Court of Canada gave a broad meaning in Canadian Pacific Limited v. A.G. Canada, at page 687; and
+(5) Wage loss benefits are paid by an employer under a contract of employment where the following indicia exist, which are not necessarily exhaustive: the wage loss insurance plan is entirely paid for by the employer, the employment relationship continues to exist during the disability, the benefits payable are increased if there is a salary increase during the disability period, the benefits are paid by the employer during normal pay periods for the first 52 weeks of disability and thereafter by the insurer and lastly, the employer determines eligibility for the benefits and signs the cheques.
+[25] Neither the EIA nor the Plan is a social welfare scheme. They are both contributory plans. The purpose of employment insurance is to provide not only income support but employment assistance for persons who are eligible. The Plan was designed to provide social assistance for Canadians who experience a loss of income owing to retirement, disability, or the death of the wage-earning spouse or parent. The purposes of the two Acts, and the language used by Parliament in drafting them, are sufficiently similar that I am encouraged to interpret them in as harmonious a manner as possible, unless their provisions compel a different approach.
+[26] As aforesaid, subsection 12.(1) of the Plan provides that “the amount of the contributory salary and wages of a person for a year is the person’s income from pensionable employment, computed in accordance with the Income Tax Act”. I note that paragraph 6(1)(f) of the ITA equally includes in the computation of income for tax purposes, both employment insurance benefits, and amounts received pursuant to a disability insurance plan to which the employer has contributed. This not only leads to the inference that disability payments to which the employer contributes, are pensionable income, but has the additional effect of harmonizing the Act and the Plan.
+[27] The definition of “employment” in subsection 2.(1) under the Plan, and of “employer” under subsection 1.(2) under the IECPR are quite similar. In the former, services must be performed under a contract of service. In the latter, earnings must be paid for services performed in insurable employment.
+[28] We have seen that the Federal Court of Appeal in Laval found provisions in the EIA that obviated the requirement that services be performed, and the question is whether the Plan does likewise.
+[29] I note that the definition of “employment” in subsection 2.(1) of the Plan apparently mandates that there be both a contract of service and the performance of services in order for employment to be pensionable under section 6 as aforesaid. So far as the contract of service provision is concerned, paragraph 7.(1)(d) of the Plan provides for exceptions:
+7.(1) The Governor in Council may make regulations for including in pensionable employment
+…
+(d) the performance of services for remuneration if it appears to the Governor in Council that the terms or conditions on which the services are performed and the remuneration is paid are analogous to a contract of service, whether or not they constitute a contract of service;
+[30] Accordingly, under Regulation 34.(1), for example, which deals with employment agencies, remuneration can be pensionable even though there is no contract of service with either the agency or its client.
+[31] Similarly, the requirement in subsection 2.(1) that there be services performed for there to be “employment” is not absolute. As aforesaid, subsection 12.(1) incorporates by reference the ITA. Subparagraph 6(1)(f)(ii) of that Act renders taxable, and therefore pensionable, amounts received from a disability plan to which the employer has contributed, even though, obviously, no services have been performed.
+[32] Further, both Laval and National Bank distinguished those cases in which the benefits are paid by the employer, from those in which they are paid by a third party insurance company.
+[33] I conclude that the benefits paid by the TTC to Herschell Green and Nancy Murphy as indemnity for lost future income pursuant to its long term disability plans, while their contracts of service were still in effect, are pensionable earnings under the Plan.
+[34] In this matter, the burden is upon the Appellant to demolish the assumptions set out in paragraph 9 of the Minister’s Reply to the Notice of Appeal. It has failed to do so. In fact, subparagraph 9(s) has been clarified to the Minister’s advantage. The TTC makes the final determination in disputes regarding eligibility, coverage, amounts due, and “generally any controversial matter or non‑routine matter arising out of the administration of the Plan”.
+[35] I have investigated all the facts with counsel for both parties and have found no new facts and nothing to indicate that the facts inferred or relied upon by the Minister were unreal, or were incorrectly assessed or misunderstood. The Minister’s conclusions are objectively reasonable. In the result, the appeal is dismissed and the determinations of the Minister are confirmed.
+Signed at Toronto, Ontario, this 21st day of April 2009.
+"N. Weisman"
+Weisman D.J.
+CITATION:
+2009 TCC 198
+COURT FILE NO.:
+2008-1378(CPP)
+STYLE OF CAUSE:
+Toronto Transit Commission and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 5, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF JUDGMENT:
+April 21, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Matthew G. Williams and
+Kristina Soutar
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew G. Williams and
+Kristina Soutar
+Firm:
+Thorsteinssons LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. C-8 as amended.
+[2] (1983), 144 D.L.R. (3d) 310 (F.C.A.)
+[3] [2004] F.C.J. No.531 (F.C.A.)
+[4] 1970-71-72 (Can.), c. 48
+[5] S.C. 1996, c. 23
+[6] C.R.C., c. 1576 (1978)
+[7] Can. Reg. 97-33
+[8] R.S.C. 1985, c.1 (5th Supp.), as amended
+[9] [2006] T.C.J. No. 552
+[10] [1999] T.C.J. No. 901 (TCC)
+[11] [2002] F.C.J. No. 660 (F.C.A.)
+[12] [2003] F.C.J. No.862 (F.C.A.)

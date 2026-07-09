@@ -1,0 +1,128 @@
+Title: Ahmadi c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521211/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-17-521211-ahmadi-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-02-07
+
+# Ahmadi c. Le Roi
+
+- Citation: 2024 CCI 17
+- Decision date: 2024-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5663, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmadi c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-02-07
+Référence neutre
+2024 CCI 17
+Numéro de dossier
+2022-2644(GST)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2022-2644(GST)I
+ENTRE :
+KEYVAN AHMADI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 décembre 2023, à Toronto (Ontario).
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Jia Wen Li
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 24 février 2017 aux termes de la Loi sur la taxe d’accise, refusant la demande de remboursement de taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour habitations neuves présentée par l’appelant, est rejeté sans dépens.
+Signé à Toronto (Ontario), ce 7e jour de février 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 13e jour de février 2024
+Crystal Simard
+Référence : 2024 CCI 17
+Date : 20240207
+Dossier : 2022-2644(GST)I
+ENTRE :
+KEYVAN AHMADI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] L’appelant, Keyvan Ahmadi, interjette appel du rejet, par le ministre du Revenu national (le « ministre »), de sa demande de remboursement de TPS/TVH pour habitations neuves, en application de la Loi sur la taxe d’accise (la « LTA ») relativement à un immeuble qu’il a acheté à Toronto en 2010 (« immeuble visé par le remboursement »).
+[2] Le législateur a imposé plusieurs conditions à ce remboursement, dont l’une est prévue à l’alinéa 254(2)b) de la LTA (non souligné dans l’original) :
+254(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche; […]
+[3] Dans sa réponse, la Couronne a soutenu que le ministre a formulé les hypothèses de fait suivantes lorsqu’elle a refusé le remboursement de la TPS/TVH pour habitations neuves à l’appelant (non souligné dans l’original) :
+a) l’appelant a signé une convention d’achat-vente avec un constructeur le 1ᵉʳ décembre 2010 relativement à l’immeuble visé par le remboursement;
+b) le prix d’achat de l’immeuble visé par le remboursement était de 415 046,10 $, excluant la TPS/TVH;
+c) l’appelant a pris possession de l’immeuble visé par le remboursement le 19 septembre 2014;
+d) l’immeuble visé par le remboursement a été mis en vente et vendu à un tiers en décembre 2014 pour un prix d’achat de 448 000 $;
+e) au moment de l’achat de l’immeuble visé par le remboursement, l’appelant n’avait pas l’intention que l’immeuble visé par le remboursement lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+f) l’appelant n’a déclaré aucun revenu d’emploi pour les années entre la date à laquelle l’immeuble visé par le remboursement a été acheté en 2010 et celle à laquelle il a emménagé dans l’immeuble visé par le remboursement en 2014;
+g) en décembre 2014, l’appelant a déménagé de l’immeuble visé par le remboursement à la maison de ses parents située au 539, Elgin Mills Road West, Richmond Hill (Ontario) L4C 4M3.
+[4] La Couronne a été la seule partie à produire des documents à l’audience. Les documents de la Couronne comprenaient :
+Pièce R-1 : Contrat hypothécaire daté du 28 octobre 2014 signé par l’appelant pour un prêt de 354 240 $ payable tous les mois à un taux d’intérêt fixe de 4,25 % pour une année (1 734,95 $/mois).
+Pièce R-2 : L’état des rajustements daté du 19 septembre 2014 indiquant un prix d’achat de 442 800 $ et que les acheteurs étaient Keyvan Ahmadi et Peyman Ahmadi.
+Pièce R-3 : Les renseignements tirés de la déclaration de revenus pour l’année d’imposition 2010 indiquant le revenu total déclaré par l’appelant, soit 14 426 $.
+Pièce R-4 : Les renseignements tirés de la déclaration de revenus pour l’année d’imposition 2014 indiquant le revenu total de l’appelant, soit 3 968 $.
+[5] Le présent appel porte sur la question de savoir si l’appelant a présenté suffisamment d’éléments de preuve pour établir, selon la prépondérance des probabilités, qu’il avait l’intention que l’immeuble visé par le remboursement lui serve de lieu de résidence habituelle lorsqu’il a conclu la convention d’achat-vente en 2010. Malgré son affirmation orale selon laquelle il avait l’intention de le faire, je conclus que les éléments de preuve de l’appelant sont insuffisants pour les motifs suivants :
+L’appelant n’aurait pas eu les moyens de payer l’hypothèque annuelle de 20 820 $ à l’aide d’un revenu déclaré de moins de 15 000 $ en 2010;
+En réponse à cette préoccupation, l’appelant a expliqué que son revenu réel en 2010 dépassait le montant déclaré pour cette année-là, car il n’avait pas déclaré son revenu en espèces dans cette déclaration. Cette explication n’a pas rassuré la Cour. Au contraire, cela n’a fait que diminuer la crédibilité de l’appelant;
+Le témoignage de l’appelant selon lequel ses parents l’ont aidé à acheter l’immeuble visé par le remboursement contredisait son propre avis d’appel dans lequel il alléguait que sa partenaire à l’époque l’avait aidé à acheter l’immeuble visé par le remboursement;
+Le témoignage de l’appelant selon lequel ses parents ne l’aidaient plus avec les dépenses de l’immeuble visé par le remboursement contredisait son propre avis d’appel dans lequel il alléguait que sa partenaire à l’époque ne l’aidait plus avec les dépenses de l’immeuble visé par le remboursement;
+Même si le document hypothécaire ne porte pas la signature de son frère, l’appelant a soutenu que son frère avait cosigné l’hypothèque;
+L’appelant s’est montré évasif lorsqu’il a été invité à indiquer sa propre signature sur le document hypothécaire, admettant seulement qu’il pouvait s’agir d’une [traduction] « signature partielle »;
+L’appelant ne se souvenait pas de la date à laquelle il avait emménagé dans l’immeuble visé par le remboursement – même pas de quelle saison il s’agissait à ce moment-là.
+[6] En résumé, le témoignage de l’appelant concernant son intention que l’immeuble visé par le remboursement lui serve de lieu de résidence primaire manquait de crédibilité et ne concordait pas avec son propre avis d’appel. Dans de telles circonstances, il est important de souligner que les éléments de preuve de l’appelant n’étaient pas étayés par une preuve documentaire ou des éléments de preuve provenant d’un tiers. L’appelant n’a tout simplement pas prouvé des faits suffisants pour établir, selon la prépondérance des probabilités, qu’il avait l’intention que l’immeuble visé par le remboursement lui serve de lieu de résidence habituelle lorsqu’il a conclu la convention d’achat-vente. Son appel sera donc rejeté.
+Signé à Toronto (Ontario), ce 7e jour de février 2024.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 13e jour de février 2024
+Crystal Simard
+RÉFÉRENCE :
+2024 CCI 17
+NO DU DOSSIER DE LA COUR :
+2022-2644(GST)I
+INTITULÉ :
+KEYVAN AHMADI ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 décembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 7 février 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Jia Wen Li
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

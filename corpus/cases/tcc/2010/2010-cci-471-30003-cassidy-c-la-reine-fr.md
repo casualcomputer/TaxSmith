@@ -1,0 +1,196 @@
+---
+title: "Cassidy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30003/index.do"
+last_modified: "2010-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 471"
+citation2: ""
+neutral_citation: "2010 CCI 471"
+decision_date: "2010-09-30"
+language: "fr"
+item_id: "30003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7682
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:34:27.622000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "339cf33773d904dd090cc68ce8e15895375ac378b4c0b39521a62b558d3d13fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cassidy c. La Reine
+
+- Citation: 2010 CCI 471
+- Decision date: 2010-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7682, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cassidy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-30
+Référence neutre
+2010 CCI 471
+Numéro de dossier
+2008-630(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-630(IT)G
+ENTRE :
+WAYNE CASSIDY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 décembre 2009, à London (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me David J. Thompson
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie le 28 septembre 2006 conformément à la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2003 de l'appelant est accueilli en partie, sans dépens, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour qu'il réduise de 500 000 $ à 433 000 $ le gain en capital imposable qui a été inclus dans le revenu de l'appelant.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2010.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 11e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 471
+Date : 20100930
+Dossier : 2008-630(IT)G
+ENTRE :
+WAYNE CASSIDY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L'appelant interjette appel d'une nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »), pour l'année d'imposition 2003, par laquelle le ministre du Revenu national (le « ministre ») a inclus un montant de 1 000 000 $ à titre de gain en capital tiré de la disposition de la partie du bien immeuble de l'appelant qui excédait un demi‑hectare et qui ne constituait pas sa « résidence principale ».
+Les faits
+[2] Les faits, qui ne sont pas contestés, sont énoncés comme suit dans l'exposé conjoint des faits que les parties ont présenté :
+[TRADUCTION]
+1. L'appelant a acquis un intérêt, à titre de tenant conjoint, dans un bien immeuble dont la désignation municipale est le 524, chemin Kains, London (Ontario), et qui est décrit de façon plus précise dans l'acte no 343703 enregistré au bureau d'enregistrement immobilier du comté de Middlesex le 3 mai 1994 (le « bien‑fonds »)[1], conformément à une convention d'achat‑vente acceptée par le vendeur le 28 mars 1994[2].
+2. L'appelant est devenu l'unique propriétaire du bien‑fonds au moyen de l'acte de cession no 529061 enregistré le 17 juillet 1998 au bureau d'enregistrement immobilier du comté de Middlesex[3].
+3. Le prix de base rajusté du bien‑fonds de l'appelant était de 231 200 $.
+4. Le bien‑fonds était composé d'un fonds de terre dont la superficie était d'environ 2,43 hectares (environ six acres), d'une habitation, d'un garage, d'une entrée assurant l'accès à l'habitation et au garage et d'un terrain non aménagé.
+5. Les bâtiments situés sur le bien‑fonds comprenaient une maison (d'environ 366 mètres carrés); un passage recouvert (51 mètres carrés) et un garage (161 mètres carrés) étaient rattachés à la maison (collectivement appelés l'habitation)[4].
+6. Lors de l'acquisition, le zonage du bien‑fonds établi par la ville de London était un zonage A2 rural à utilisation différée. La zone A2 est une zone agricole qui vise des régions rurales. Les utilisations autorisées dans la zone A2 sont les suivantes : fermes, exploitations maraîchères, fermes spécialisées, usages forestiers, habitations unifamiliales, occupation résidentielle, usages accessoires et fermes existantes. La superficie minimale des lots dans la zone A2 était de 22 hectares.
+7. Au milieu des années 1990, la ville de London prenait de l'expansion et il a été décidé d'ouvrir à des fins d'aménagement le quartier River Bend situé dans la partie ouest de la ville. La ville de London a entamé la planification en vue de modifier le plan officiel se rapportant à la partie ouest de la ville. Le bien‑fonds était situé dans cette partie de la ville.
+8. À l'automne 2002, l'appelant a consulté Me Allan Patton, du cabinet Patton Cormier & Associates, au sujet d'une demande de changement de zonage et d'une demande relative à un plan de lotissement présentées par un promoteur immobilier, Sifton Properties, pour des terrains contigus au bien‑fonds.
+9. Le 2 mai 2003, la modification apportée au plan officiel est entrée en vigueur, la désignation du quartier dans lequel le bien‑fonds était situé étant changée dans le plan officiel et devenant une zone résidentielle multifamiliale à densité moyenne. La désignation multifamiliale résidentielle à densité moyenne permettait l'aménagement d'habitations multifamiliales contiguës, d'immeubles résidentiels de hauteur limitée, d'établissements de soins d'urgence, de maisons de soins infirmiers de dimensions restreintes et d'ensembles résidentiels à faible densité comme des habitations unifamiliales isolées, des habitations jumelées et des duplex.
+10. La désignation antérieure, selon le plan officiel, était celle de réserve urbaine — croissance communautaire. Cette désignation empêchait un aménagement prématuré et la politique, selon cette désignation, permettait une gamme restreinte d'usages compte tenu de la nature des usages existants.
+11. Le 2 mai 2003 et par la suite, il était loisible à l'appelant de présenter une demande de changement de zonage et de lotissement du bien‑fonds. L'appelant ne s'est pas prévalu de cette possibilité.
+12. Au printemps 2003, M. Fritz Wagner, agent immobilier chez J.J. Barnicke London Windsor Sarnia Ltd., a demandé à l'appelant s'il voulait vendre son bien‑fonds. L'appelant a renvoyé M. Wagner à Me Patton, qui était son mandataire aux fins de la vente du bien‑fonds.
+13. Le 23 mai 2003, l'appelant et Urban Properties Services (London) Inc. ont conclu une convention d'achat‑vente concernant le bien‑fonds (la « convention »)[5]. Urban Properties Services (London) Inc. (« Urban Properties ») a initialement offert d'acheter le bien‑fonds de l'appelant en précisant le zonage résidentiel h*R6‑2 au paragraphe 4 de l'annexe A jointe à la convention. Maître Patton a conseillé à l'appelant de ne pas accepter l'offre qui comportait l'exigence relative au zonage h*R6‑2. Il a recommandé que le zonage h*R6‑2 soit remplacé par le zonage R6‑5 afin d'éviter les retards et d'empêcher l'inclusion de dispositions d'utilisation différée par la ville de London. Les parties se sont entendues pour que la mention du zonage h*R6‑2 soit remplacée par la mention du zonage résidentiel R6‑5 au paragraphe 4 de l'annexe A jointe à la convention
+14. Urban Properties est une société qui s'occupe d'aménagement immobilier. Conformément à la convention, Urban Properties a retenu les services d'experts, et entre autres d'archéologues et d'ingénieurs en géotechnique, pour examiner les caractéristiques physiques du bien‑fonds. Urban Properties a également demandé à la ville de London de changer le zonage du bien‑fonds à R6‑5.
+15. Au mois d'août 2003, le directeur général de l'urbanisme et de l'aménagement de la ville de London a recommandé une modification des règlements de zonage afin que le zonage du bien‑fonds soit R6‑5 et a recommandé l'octroi d'un permis de démolir concernant l'habitation résidentielle située sur le bien‑fonds[6].
+16. Au mois d'août 2003, la ville de London a approuvé le lotissement du fonds de terre situé au sud du bien‑fonds[7].
+17. Au mois d'octobre 2003, le règlement de zonage concernant le bien‑fonds a été modifié au zonage résidentiel R6‑5, qui autorise des habitations unifamiliales isolées, des habitations jumelées, des duplex, des triplex, des maisons en rangée, superposées ou non, ainsi que des immeubles résidentiels. La superficie minimale des lots selon le zonage R6‑5 était de 850 mètres carrés (0,21 acre).
+18. Le rôle de Me Patton consistait entre autres à agir pour l'appelant en prenant les mesures nécessaires afin d'assurer l'observation des conditions de la convention. En cette qualité, Me Patton s'est renseigné auprès des fonctionnaires municipaux et d'Urban Properties en vue d'écarter les obstacles et de conclure la vente du bien‑fonds.
+19. La vente du bien‑fonds a été conclue le 27 novembre 2003[8], l'appelant disposant du bien‑fonds au moyen d'une cession enregistrée sous le numéro ER258918 au bureau d'enregistrement immobilier du comté de Middlesex[9].
+20. Peu de temps après la clôture, l'habitation qui était sur le bien‑fonds a été démolie par Urban Properties (ou par une partie liée).
+21. Au cours de la période allant de l'année 1994 à l'année 2003, l'appelant résidait dans l'habitation située sur le bien‑fonds et il occupait le bien‑fonds à titre de résidence personnelle.
+22. L'appelant a reçu, à l'égard du bien‑fonds, un produit de disposition s'élevant en tout à 1 230 000 $. Le 27 novembre 2003, la juste valeur marchande de l'habitation située sur le bien‑fonds et du fonds de terre sous‑jacent (d'un demi‑hectare) était de 230 000 $. Le 27 novembre 2003, la juste valeur marchande de la partie du bien‑fonds qui excédait un demi‑hectare (l'« excédent ») était de 1 000 000 $.
+23. L'appelant a engagé et payé des frais juridiques de 53 608,67 $ et de 75,78 $, et il a engagé et payé des frais de courtage immobilier de 39 483 $ à l'égard de la disposition du bien‑fonds.
+24. L'appelant a engagé, aux fins de la vente, des frais de 195,60 $ pour lever l'hypothèque qui grevait le bien‑fonds.
+25. L'appelant a réalisé un gain en capital de 905 436,04 $ lors de la disposition du bien‑fonds.
+26. L'appelant n'a pas déclaré la disposition du bien‑fonds dans sa déclaration de revenus personnelle de 2003 pour le motif que l'ensemble du bien‑fonds était admissible à titre de « résidence principale », comme cette expression est définie pour l'application de la Loi de l'impôt sur le revenu, de sorte qu'aucune partie du gain n'était imposable.
+27. Pendant toute la période pertinente, l'appelant était un résident du Canada pour l'application de la Loi de l'impôt sur le revenu.
+28. L'appelant a fait l'objet d'une nouvelle cotisation, comme le montre l'avis de nouvelle cotisation daté du 28 septembre 2006, à l'égard de l'année d'imposition 2003 (la « nouvelle cotisation »).
+29. La nouvelle cotisation reflétait l'hypothèse selon laquelle l'excédent ne faisait pas partie de la « résidence principale » de l'appelant.
+30. La nouvelle cotisation reflétait l'hypothèse selon laquelle un montant de 1 000 000 $ du produit de la disposition était attribuable à l'excédent.
+31. Aucune partie du coût du bien‑fonds de l'appelant n'a été attribuée à l'excédent.
+32. La nouvelle cotisation indiquait que l'appelant avait réalisé un gain en capital de 1 000 000 $ et un gain en capital imposable de 500 000 $ lors de la disposition de l'excédent.
+33. Le 10 novembre 2006, l'appelant a déposé un avis d'opposition à la nouvelle cotisation.
+34. Le 14 décembre 2007, le ministre a envoyé un avis de ratification à l'égard de la nouvelle cotisation.
+35. L'appelant a par la suite déposé en temps opportun un avis d'appel devant la présente cour.
+36. Il est convenu que le prix de base rajusté de l'excédent était de 58 000 $, que les coûts associés à la disposition qui étaient imputables à l'excédent étaient de 76 000 $ et que le gain en capital réalisé par l'appelant à l'égard de l'excédent était de 866 000 $.
+37. Les parties s'entendent pour dire que l'appel doit de toute façon être accueilli en vue de réduire de 500 000 $ à 433 000 $ le gain en capital imposable inclus dans le revenu de l'appelant.
+Le point litigieux
+[3] Il s'agit de savoir si la partie du fonds de terre excédant un demi‑hectare faisait partie de la résidence principale de l'appelant en vertu de l'alinéa e) de la définition du terme « résidence principale », à l'article 54 de la Loi.
+Les dispositions légales
+[4] L'alinéa 40(2)b) de la Loi exonère le contribuable de l'impôt sur le gain en capital tiré de la disposition d'une résidence principale. Pour que l'appelant ait droit à ce traitement de faveur, il faut que son logement satisfasse aux exigences de l'alinéa e) de la définition du terme « résidence principale », à l'article 54 de la Loi. Le passage pertinent de l'article 54 est le suivant :
+« résidence principale » S'agissant de la résidence principale d'un contribuable pour une année d'imposition, bien — logement, ou droit de tenure à bail y afférent [...] — dont le contribuable est propriétaire au cours de l'année [...] à condition que :
+[...]
+e) la résidence principale d'un contribuable pour une année d'imposition est réputée comprendre [...] le fonds de terre sous‑jacent au logement ainsi que la partie de fonds de terre adjacent qu'il est raisonnable de considérer comme facilitant l'usage du logement comme résidence; toutefois, dans le cas où la superficie totale du fonds de terre sous‑jacent et de cette partie excède un demi‑hectare, l'excédent n'est réputé faciliter l'usage du logement comme résidence que si le contribuable établit qu'il était nécessaire à cet usage;
+[...]
+[5] Lorsque le logement est situé sur plus d'un demi‑hectare, l'excédent selon l'alinéa e) de la définition « n'est réputé faciliter l'usage du logement comme résidence que si le contribuable établit qu'il était nécessaire à cet usage ». En pareil cas, le contribuable sera exonéré de l'impôt sur le gain en capital à l'égard de la superficie nécessaire à l'usage du logement comme résidence.
+[6] En demandant une exonération de l'impôt sur le gain en capital pour un fonds de terre excédant un demi‑hectare, le contribuable fait face à la pénible tâche d'avoir à établir que l'excédent était « nécessaire » à l'usage du logement comme résidence.
+La position de l'appelant
+[7] L'appelant soutient que la partie du fonds de terre excédant un demi‑hectare était nécessaire à l'usage de la partie du bien‑fonds composée du logement et du demi‑hectare de fonds de terre sous‑jacent étant donné qu'il ne pouvait pas acquérir moins que l'ensemble du bien‑fonds lors de l'acquisition et que, pendant toute la période pertinente, il lui était interdit de disposer d'une partie du bien‑fonds seulement. Selon la position prise par l'appelant, étant donné que, pendant la période pertinente, le logement et le demi‑hectare de fonds de terre sous‑jacent ne pouvaient pas être séparés de la partie du bien‑fonds excédant un demi‑hectare, cette partie du bien‑fonds était donc nécessaire à l'usage du logement et du demi‑hectare de fonds de terre sous‑jacent.
+[8] La première question à examiner est de savoir quel est le moment pertinent, lorsqu'il s'agit de décider si le fonds de terre excédant un demi‑hectare était nécessaire à l'usage du bien‑fonds.
+[9] Il est bien établi dans la jurisprudence que le moment pertinent, lorsqu'il s'agit de décider si le fonds de terre excédant un demi‑hectare était nécessaire à l'usage du bien‑fonds, est le moment où la disposition a eu lieu ou le moment précédant immédiatement la disposition (Stuart (succession) c. La Reine, 2003 CCI 171, conf. par 2004 CAF 80, R. c. Yates, [1983] 2 CF 730 (C.F. 1re inst.), conf. par 86 D.T.C. 6296 (C.A.F.)).
+[10] Le deuxième point à examiner se rapporte à l'usage réel du bien‑fonds. Lorsque l'appelant l'a acquis, le bien‑fonds était une terre agricole d'environ six acres entièrement entourée d'autres terres agricoles. Dans son témoignage, l'appelant a admis qu'il n'exerçait pas d'activités agricoles sur son bien‑fonds et que la partie du fonds de terre excédant un demi-hectare n'était pas réellement nécessaire à l'usage du bien‑fonds. Il a déclaré qu'il n'utilisait le fonds de terre que d'une façon fort restreinte : il y cultivait un jardin en été et il y faisait de la motoneige en hiver.
+[11] Lors de l'acquisition, le zonage du bien‑fonds était A2 (exploitation agricole) et la superficie minimale des lots était de 22 hectares. L'appelant n'avait pas d'autre choix que d'acheter toute la propriété (six acres) s'il voulait y installer sa maison. L'intimée a admis que, depuis le moment où il avait acquis le bien‑fonds, l'appelant jouissait d'une utilisation légale dérogatoire.
+[12] Le troisième et dernier point à examiner est de savoir s'il était interdit à l'appelant, pendant la période pertinente, de disposer d'une partie du bien‑fonds seulement, comme il l'a soutenu.
+[13] Au paragraphe 11 de l'exposé conjoint des faits, il est clairement reconnu que l'appelant aurait pu présenter une demande de changement de zonage et de lotissement du bien‑fonds dès le 2 mai 2003 par suite de l'entrée en vigueur de la modification apportée au plan officiel, par laquelle la désignation du quartier dans lequel le bien‑fonds était situé a été changée pour devenir une zone résidentielle multifamiliale à densité moyenne. L'appelant ne s'est pas prévalu de cette possibilité et il n'a pas pris de mesure en ce qui concerne les formalités juridiques appropriées afférentes au changement de zonage et au lotissement subséquent du bien‑fonds. Le 23 mai 2003, l'appelant a plutôt conclu une convention d'achat‑vente avec Urban Properties Services (London) Inc., la convention étant conditionnelle jusqu'au 28 novembre 2003, afin de permettre à l'acquéreur d'obtenir un changement de zonage du bien‑fonds pour obtenir un zonage résidentiel R6‑5. Le règlement de zonage de la ville de London a donné au bien‑fonds un zonage résidentiel R6‑5 au mois d'octobre 2003, c'est‑à‑dire dans les cinq mois qui ont suivi la signature de la convention. À mon avis, un tel changement de zonage démontre clairement que l'appelant avait la possibilité d'obtenir un nouveau zonage en suivant une procédure passablement simple et dans un délai relativement bref et que, pendant la période pertinente, il n'a jamais été légalement interdit à l'appelant de lotir son bien‑fonds et de disposer d'une partie du bien‑fonds.
+[14] Tout le quartier entourant le bien‑fonds était en train d'être aménagé au moment où la convention d'achat-vente a été conclue avec Urban Properties Services (London) Inc., le 23 mai 2003; au cours du mois d'août 2003, la ville de London a approuvé le lotissement du fonds de terre situé au sud du bien‑fonds et le directeur général de l'urbanisme et de la planification de la ville de London a recommandé que le règlement de zonage soit modifié pour que le zonage du bien‑fonds soit résidentiel R6‑5 et qu'un permis de démolir l'habitation située sur le bien‑fonds soit accordé.
+[15] L'appelant n'a produit aucun élément de preuve indiquant qu'il n'était pas possible de procéder au lotissement du bien‑fonds après que la modification du plan officiel fut entrée en vigueur, le 2 mai 2003.
+[16] Lors de la disposition, le 27 novembre 2003, ou immédiatement avant la disposition, la superficie minimale des lots dans le quartier où le bien‑fonds était situé était de 850 mètres carrés. À ce moment‑là, il n'était pas interdit à l'appelant de lotir son bien‑fonds et d'en disposer en partie, mais bien sûr l'appelant était obligé de respecter les conditions de la convention d'achat‑vente qu'il avait conclue le 23 mai 2003.
+[17] Conformément aux paragraphes 36 et 37 de l'exposé conjoint des faits, l'appel est accueilli en partie, sans dépens, et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation, pour qu'il réduise de 500 000 $ à 433 000 $ le gain en capital imposable inclus dans le revenu de l'appelant pour son année d'imposition 2003.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2010.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 11e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 471
+NO DU DOSSIER DE LA COUR : 2008-630(IT)G
+INTITULÉ : Wayne Cassidy c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : London (Ontario)
+DATE DE L'AUDIENCE : Le 16 décembre 2009
+MOTIFS DU JUGEMENT : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 30 septembre 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me David J. Thompson
+Avocat de l'intimée :
+Me Pascal Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : David J. Thompson
+Cabinet : Advocates LLP
+London (Ontario)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le levé et le certificat d'arpentage du bien‑fonds apparaissent à l'onglet 1.
+[2] La convention d'achat‑vente conclue par Wayne Cassidy et Sandra Balfour, acquéreurs, et Florence E. F. Cummings, venderesse, en date du 28 mars 1994, apparaît à l'onglet 2.
+[3] L'acte de cession entre Wayne Stephen Cassidy et Sandra Balfour, cédants, et Wayne Stephen Cassidy, cessionnaire, en date du 17 juillet 1998, apparaît à l'onglet 3.
+[4] Les avis de vente du bien‑fonds avant son acquisition par Wayne Stephen Cassidy et par Sandra Balfour apparaissent à l'onglet 4.
+[5] La convention d'achat-vente du bien‑fonds apparaît à l'onglet 5.
+[6] La recommandation du directeur général du comité d'aménagement apparaît à l'onglet 6.
+[7] L'avis de décision de la ville de London en date du 20 août 2003 apparaît à l'onglet 7.
+[8] Une lettre datée du 22 mars 2004 d'Elizabeth K. Cormier à Wayne Cassidy, avec pièces jointes, apparaît à l'onglet 8.
+[9] La cession de Wayne Stephen Cassidy à 2035424 Ontario Inc. (le cessionnaire d'Urban Properties) en date du 27 novembre 2003 apparaît à l'onglet 9.

@@ -1,0 +1,144 @@
+---
+title: "Maritime Harbours Society v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29384/index.do"
+last_modified: "2009-02-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 128"
+citation2: ""
+neutral_citation: "2009 CCI 128"
+decision_date: "2009-02-27"
+language: "fr"
+item_id: "29384"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6875
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:07:14.173000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "772f89764ecfe24ba66a9b554225c916a9f357e94a79672528dd6fdc9fdc741b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maritime Harbours Society v. M.N.R.
+
+- Citation: 2009 CCI 128
+- Decision date: 2009-02-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6875, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maritime Harbours Society v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-27
+Référence neutre
+2009 CCI 128
+Numéro de dossier
+2008-2182(CPP)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2008-2182(CPP)
+ENTRE :
+MARITIME HARBOURS SOCIETY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 9 février 2009, à Halifax (Nouvelle‑Écosse)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+William Watkins
+Avocat de l’intimé :
+Me Toks C. Omisade
+____________________________________________________________________
+ORDONNANCE
+La Cour ordonne que l’appelante a jusqu’au 10 avril 2009 pour déposer un avis d’appel modifié, à défaut de quoi l’appel sera annulé.
+Signé à Toronto (Ontario), ce 27e jour de février 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 2e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 128
+Date : 20090227
+Dossier : 2008-2182(CPP)
+ENTRE :
+MARITIME HARBOURS SOCIETY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] L’appelante a interjeté appel en vertu du Régime de pensions du Canada (le « RPC »). La seule question soulevée par l’appelante dans l’avis d’appel est que la détermination des cotisations au RPC devrait être annulée en raison d’un procès‑verbal de transaction conclu entre l’appelante et Sa Majesté la Reine, représentée par le ministre des Transports. L’intimé a présenté une requête en vue de faire annuler l’appel.
+[2] La présente cour a été constituée par une loi fédérale, la Loi sur la Cour canadienne de l’impôt. La compétence de la Cour est établie à l’article 12 de cette loi; en particulier, le paragraphe 12(1) prévoit ce qui suit :
+12.(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance‑emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+(Non souligné dans l’original.)
+[3] Comme cette disposition prévoit que la Cour a compétence pour entendre les appels portés devant elle sur les questions découlant de l’application du RPC dans la mesure où cette loi prévoit un droit d’appel devant elle, les seules questions dont il peut être fait appel devant la Cour concernant des questions découlant de l’application du RPC sont celles pour lesquelles un droit d’appel est prévu par le RPC.
+[4] Le droit d’interjeter appel en vertu du RPC est prévu à l’article 28 de cette loi, qui est rédigé ainsi :
+28.(1) La personne visée par la décision du ministre sur l’appel que prévoit les articles 27 ou 27.1, ou son représentant, peut, dans les quatre‑vingt‑dix jours qui suivent la date à laquelle la décision lui est communiquée, ou dans le délai supplémentaire que la Cour canadienne de l’impôt peut accorder sur demande qui lui est présentée dans les quatre‑vingt‑dix jours suivant l’expiration de ces quatre‑vingt‑dix jours, en appeler de la décision en question auprès de cette Cour en conformité avec la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+(Non souligné dans l’original.)
+[5] L’article 27 du RPC prévoit ce qui suit :
+27. Le ministre du Développement social peut porter la décision en appel devant le ministre à tout moment, tout autre intéressé ne pouvant le faire que dans les quatre‑vingt‑dix jours suivant la date à laquelle il reçoit notification de cette décision.
+[6] De plus, l’article 26.1 du RPC prévoit ce qui suit :
+26.1(1) Le ministre du Développement social, de même que tout employeur ou employé, ou toute personne prétendant être l’un ou l’autre peut demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre du Revenu national de rendre une décision sur les questions suivantes :
+a) le fait qu’un emploi est un emploi ouvrant ou non droit à pension;
+b) la détermination de la durée d’un emploi, y compris ses dates de début et de fin;
+c) la détermination du montant des gains obtenus au titre d’un emploi ouvrant droit à pension;
+d) l’obligation ou non de verser une cotisation;
+e) la détermination du montant des cotisations à verser;
+f) l’identité de l’employeur d’un employé qui occupe un emploi ouvrant droit à pension.
+[7] Par conséquent, les seules questions dont il peut être fait appel devant la Cour sont les questions qui sont à juste titre susceptibles de constituer le fondement d’une demande de décision en vertu de l’article 26.1 du RPC. Le renvoi à « l’obligation ou non de verser une cotisation » concernerait la question de savoir s’il faut verser une cotisation en application des dispositions du RPC.
+[8] Le procès‑verbal de transaction signé par le ministre des Transports ne peut pas modifier le RPC. La question de savoir si une somme est à verser en application du RPC ne peut être modifiée que par une loi fédérale, et non par un document signé par le ministre des Transports. L’effet, s’il y a lieu, que le procès‑verbal de transaction peut avoir sur la question de savoir si la somme peut être perçue constitue une toute autre question. Cela n’est toutefois pas une question qui découle de l’application du RPC, elle découle plutôt d’un document distinct qui a été signé. Par conséquent, l’effet que le procès‑verbal de transaction peut avoir sur la question de savoir si la somme peut être perçue n’est pas une question dont il peut être fait appel devant la Cour.
+[9] Le représentant de l’appelante a mentionné lors de l’audition de la requête qu’il voulait invoquer d’autres moyens à l’égard de la détermination établie en vertu du RPC et il a demandé qu’on lui donne le temps de modifier l’avis d’appel. Par conséquent, l’appelante a jusqu’au 10 avril 2009 pour déposer un avis d’appel modifié, à défaut de quoi l’appel sera annulé.
+Signé à Toronto (Ontario), ce 27e jour de février 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 2e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 128
+NO DU DOSSIER DE LA COUR : 2008-2182(CPP)
+INTITULÉ : MARITIME HARBOURS SOCIETY ET M.R.N.
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 9 février 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 27 février 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+William Watkins
+Avocat de l’intimé :
+Me Toks C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

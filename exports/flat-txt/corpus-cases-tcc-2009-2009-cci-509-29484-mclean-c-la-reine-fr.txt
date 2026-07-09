@@ -1,0 +1,433 @@
+Title: Mclean c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29484/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-509-29484-mclean-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-20
+
+# Mclean c. La Reine
+
+- Citation: 2009 CCI 509
+- Decision date: 2009-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6302, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mclean c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-20
+Référence neutre
+2009 CCI 509
+Numéro de dossier
+2008-2406(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2406(IT)I
+ENTRE :
+ELAINE MCLEAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+d’Ian McLean (2008-2410(IT)I),
+le 3 septembre 2009, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Dan White
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont accueillis sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait :
+a) que, dans le calcul du revenu de la société de personnes pour l’année 2004, une déduction de 155 $ est admise pour les déplacements;
+b) que, dans le calcul du revenu de la société de personnes pour l’année 2005, une déduction additionnelle de 4 562 $ est admise pour les déplacements.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 9e jour de mars 2010.
+Marie-Christine Gervais, traductrice
+Dossier : 2008-2410(IT)I
+ENTRE :
+IAN MCLEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels
+d’Elaine McLean (2008-2406(IT)I),
+le 3 septembre 2009, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelant :
+M. Dan White
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont accueillis sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait :
+a) dans le calcul de son revenu d’emploi pour l’année 2004, l’appelant Ian McLean a droit à une déduction additionnelle de 253 $ au titre des frais de stationnement;
+b) que, dans le calcul du revenu de la société de personnes pour l’année 2004, une déduction de 155 $ est admise pour les déplacements;
+c) que, dans le calcul du revenu de la société de personnes pour l’année 2005, une déduction additionnelle de 4 562 $ est admise pour les déplacements.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 9e jour de mars 2010.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 509
+Date : 20091020
+Dossier : 2008-2406(IT)I
+ENTRE :
+ELAINE MCLEAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2008-2410(IT)I
+ET ENTRE :
+IAN MCLEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Les appelants, qui sont mariés, avaient déduit diverses dépenses dans le calcul de leurs revenus d’emploi respectifs pour les années d’imposition 2004 et 2005. Au cours des années en question, ils exploitaient également une entreprise dans le cadre d’une société de personnes en tant qu’associés de Mannatech. De nouvelles cotisations ont été établies à leur égard en vue de refuser ou de réduire certaines dépenses que chacun d’eux avait déduites dans le calcul de leur revenu d’emploi et dans le calcul du revenu de la société de personnes.
+[2] Au début de l’audience, le représentant des appelants et l’avocat de l’intimée ont soumis un résumé dans lequel les parties convenaient qu’Ian McLean aurait le droit de déduire un montant additionnel de 253 $ au titre des frais de stationnement dans le calcul de son revenu d’emploi pour l’année 2004. Les appelants ont également convenu qu’ils ne poursuivaient plus leur demande à l’égard des déductions qui avaient été refusées ou dont le montant avait été réduit par l’intimée, sauf en ce qui concerne les montants suivants, qui sont encore contestés dans les présents appels :
+Ian McLean – Revenu d’emploi pour 2004
+Description de la dépense
+Montant déduit
+Montant refusé
+Cours de marketing et matériel connexe
+2 529 $
+2 529 $
+Elaine Armstrong-McLean – Revenu d’emploi pour 2004
+Description de la dépense
+Montant déduit
+Montant refusé
+Cours de marketing et matériel connexe
+2 529 $
+2 529 $
+Revenu de la société de personnes pour l’année 2004
+Description de la dépense
+Montant déduit
+Montant refusé
+Achats
+8 011 $
+8 011 $
+Frais de déplacement
+7 715 $
+7 715 $
+Cours et perfectionnement professionnel
+1 056
+1 016 $
+Revenu de la société pour 2005
+Description de la dépense
+Montant déduit
+Montant refusé
+Achats
+15 639 $
+15 639 $
+Frais de déplacement
+10 320 $
+9 779 $
+Les dépenses d’emploi
+[3] Chacun des appelants a déduit un montant de 2 529 $ dans le calcul de son revenu d’emploi pour l’année 2004. Ce montant se rapporte à un cours désigné comme étant le cours Klemmer. La demande de déduction du coût de ce cours soulève un certain nombre de problèmes.
+[4] L’un des problèmes se rapporte au nombre de fois où les frais d’inscription semblent avoir été déduits. Il semble que le montant de 2 529 $ que chacun des appelants a demandé à titre de déduction dans le calcul de son revenu d’emploi représente également la moitié du total de 4 355 $ et de 703,01 $ qui figure dans le tableau intitulé : [traduction] « Formation et perfectionnement professionnel » établi par les appelants. Selon ce tableau, ces dépenses ont été engagées le 1er mars 2004. Le montant de 4 355 $ a été désigné comme se rapportant à un [traduction] « cours de marketing personnel » et le montant de 703,01 $ a été désigné comme se rapportant au [traduction] « matériel de cours ». La société qui a assuré la formation dans les deux cas était « Klemmer & Associates ». Toutefois, pour une raison inexpliquée, le montant total qui a été déduit à titre de dépense dans le calcul du revenu de la société de personnes sous la rubrique [traduction] « Cours et perfectionnement professionnel » s’élevait à 1 056,34 $, dont un montant de 40 $ se rapportait à Mannatech (montant qui a été admis), de sorte qu’il restait un solde de 1 016 $ qui a été déduit à l’égard du cours Klemmer dans le calcul du revenu de la société de personnes.
+[5] Toutefois, comme il en a ci‑dessus été fait mention, le montant total de 2 529 $ dans chaque cas, (soit 5 058 $ en tout, ce qui aurait inclus les 1 016 $ mentionnés ci‑dessus) avait également été demandé par les appelants à titre de déduction dans le calcul de leur revenu d’emploi.
+[6] Qui plus est, des frais de cours de 2 177,50 $ (la moitié de 4 355 $) et de 508,17 $ figurent également dans le tableau au titre des « frais de déplacement ». Les dates y afférentes sont le 10 février 2004 et le 15 janvier 2004, pour lesquelles des frais de cours versés à Klemmer & Assoc. sont indiqués. L’inscription dans un cas indique San Francisco et dans l’autre cas, Aurora. Il semble que ces montants aient été inclus dans le montant de 7 715 $ qui a été demandé à titre de déduction pour les frais de déplacement dans le calcul de revenu de la société de personnes pour l’année 2004.
+[7] Un autre problème se rapporte à la raison pour laquelle les appelants ont suivi ce cours. Le revenu d’emploi des deux appelants comprenait des commissions fondées sur les ventes conclues ou sur les contrats négociés. L’alinéa 8(1)f) de la Loi de l’impôt sur le revenu (la « Loi ») prévoit notamment ce qui suit :
+8. (1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois : [...]
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous‑alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j), [...]
+[8] Une restriction imposée à l’égard de la déductibilité du montant dépensé dans le calcul du revenu d’emploi est que le montant doit avoir été dépensé en vue de tirer un revenu de cet emploi. Les propos suivants ont été échangés entre Ian Mclean et son représentant au cours de l’audience :
+[traduction]
+Q. Quant à la question du cours Klemmer, pouvez-vous expliquer de quoi il s’agissait et ce à quoi cela servait?
+R. Le cours Klemmer a eu lieu à San Francisco, et il se rapportait – ce cours particulier – en fait, disons qu’il y avait également un grand nombre de gens s’occupant de commercialisation à paliers multiples qui y assistaient.
+Le cours Klemmer visait à former des chefs de file. Il visait à encourager le travail d’équipe et à réaliser des objectifs, ce qui s’inscrit vraiment bien dans les activités de Mannatech et les activités d’expansion de notre entreprise, et on enseignait comment surmonter la crainte de rejet, parce que dans ce domaine, on obtient très souvent une réponse négative lorsque l’on communique avec des gens que le produit n’intéresse pas.
+Il s’agissait donc d’accroître la confiance en soi et de montrer comment traiter avec les gens négatifs ou de faire face au rejet.
+[9] Ce n’est qu’en réponse à une question suggestive de son représentant que l’appelant a établi un lien entre le cours Klemmer et son emploi :
+[traduction]
+Q. Ce cours vous serait‑il utile dans votre travail d’évaluation?
+R. Il le serait. Mon travail consiste en fait à générer du travail en matière d’évaluation, de sorte que des ventes sont en cause. Cela me donnait certes – cela m’aidait à attirer des clients, à trouver de nouveaux débouchés pour mon travail.
+[…]
+Q. Ce cours vous permettrait‑il de vous tailler une plus grande réputation, dans le secteur de l’évaluation?
+R. Oui. Cela démontrerait ma capacité de générer du travail, et plus je générerais de travail, meilleur serait mon profil.
+Q. Par conséquent, quelle serait selon vous la valeur intrinsèque de ce cours? Qu’arrive‑t‑il exactement? Vous suivez ce cours et il se passe quelque chose, vous concluez un plus grand nombre de ventes ou vous accomplissez plus de choses. Qu’arrive‑t‑il?
+R. Que m’arrive‑t‑il pour faire cela?
+Q. Oui.
+R. Cela accroît ma confiance. Cela me donne la capacité d’établir des rapports avec les gens, d’établir de meilleures relations avec les gens, parce que telle est la nature de l’entreprise et c’était ce sur quoi ils mettaient l’accent.
+Q. Y a‑t‑il quelque chose de nouveau lorsqu’il s’agit d’être en mesure d’établir des relations avec les gens et d’accroître votre confiance? N’aviez‑vous aucune confiance, ou aviez‑vous –
+R. Eh bien, non, il s’agissait d’une entreprise de commercialisation à paliers multiples. Comme je l’ai mentionné, il faut parler à bien des gens avant de conclure une vente.
+Q. Je comprends –
+R. D’accord.
+Q. Mais en ce qui concerne votre travail d’évaluateur.
+R. Je comprends.
+[10] Lors du contre‑interrogatoire, Ian MacLean a déclaré ce qui suit :
+[traduction]
+Q. Vous décrivez fondamentalement ce que sont les cours Klemmer, mais auparavant, j’aimerais vous renvoyer à la question dont la Cour est saisie et la clarifier. Si vous consultez la troisième page de l’avis d’appel, sous le titre « Cours de marketing et matériel connexe », la lecture de ce paragraphe montre que, selon la position que vous avez prise, si les frais afférents au cours Klemmer sont refusés à titre de dépense d’emploi, la position que vous prenez à titre subsidiaire est que ces frais devraient être déduits à titre de dépenses d’entreprise?
+R. C’est exact.
+Q. Si l’on revient à la première annexe, au deuxième paragraphe, vous dites :
+« La principale raison pour laquelle nous avons suivi les cours Klemmer était d’apprendre comment réussir dans notre entreprise de ventes directes, Mannatech » (comme déjà lu)
+N’est-ce pas?
+R. Parce que nous songions à Mannatech ou nous songions à une entreprise du type CPM, mais en fait le cours Klemmer peut également s’appliquer à mon emploi, parce qu’il s’agit d’un poste de vendeur, et que les principes que j’ai appris grâce au cours Klemmer m’aideraient également à cet égard.
+Par conséquent, ce n’est pas seulement pour Mannatech. Cela ne se rapporte pas expressément à Mannatech.
+[11] Et lors du réinterrogatoire :
+[traduction]
+Q. En compensation, merci. J’aimerais revenir aux cours que vous avez suivis. Selon certains éléments de preuve, si le cours ne pouvait pas être déduit à titre de dépense d’entreprise, il devrait être considéré comme une dépense d’emploi. Si une déduction n’était pas admise, elle serait remplacée par l’autre. Est‑ce bien là ce que vous avez témoigné?
+R. Je crois que oui.
+Q. Quelle serait la valeur que vous attribuez au cours Klemmer par rapport au revenu tiré des évaluations?
+R. Cela aurait généré du travail additionnel, du travail en matière d’évaluation, cela m’aurait aidé à générer du travail d’évaluation.
+Q. Vaudrait‑il la peine de suivre ce cours simplement pour l’entreprise d’évaluation?
+R. Non. Le cours a une portée plus générale. Selon moi – je dirais que cela serait utile pour une personne œuvrant dans le domaine des ventes particulières, ou que cela aiderait les gens qui sont dans les affaires, en général.
+[12] Ces questions et réponses donnent à penser qu’Ian McLean a trouvé les raisons pour lesquelles il a suivi le cours à l’égard de son emploi après coup et que le but visé, au moment où il a suivi le cours, ne consistait pas à tirer un revenu de son emploi. Les appelants ont également produit une lettre de l’employeur d’Ian McLean. Toutefois, cette lettre a été rédigée le 17 novembre 2007 seulement, bien après qu’Ian McLean eut suivi le cours et après qu’il eut fait l’objet de nouvelles cotisations. Je ne suis pas convaincu qu’Ian McLean ait suivi le cours Klemmer en vue de tirer un revenu de son emploi.
+[13] Elaine McLean (qui a témoigné après Ian McLean) a mentionné l’entreprise de Mannatech et son emploi comme raisons de suivre le cours Klemmer, mais je ne suis pas convaincu qu’elle ait suivi le cours en vue de tirer un revenu de son emploi.
+[14] La question de savoir si les appelants ont suivi le cours pour des raisons personnelles (et qu’ils ne l’ont donc pas suivi en vue de gagner un revenu) pose également certains problèmes. Dans l’entente concernant le séminaire de leadership avancé du cours Klemmer, il est déclaré ce qui suit :
+[traduction]
+Il s’agit d’un séminaire de croissance personnelle. Il ne s’agit aucunement d’un modèle médical visant à résoudre des problèmes psychologiques. Il s’agit de vous permettre d’obtenir le succès que vous recherchez.
+[15] Dans cette même entente, la question suivante est posée :
+[traduction]
+Que voulez-vous accomplir en participant à cet atelier?
+[16] Il semble qu’en réponse à cette question, Ian McLean ait dit ce qui suit :
+[traduction]
+1. « Programmes » de pointe
+2. Découvertes de talents personnels
+3. Élaboration d’un énoncé de mission et d’une vision permettant non seulement d’assurer notre succès, mais aussi de prendre de l’envergure.
+[17] On ne sait pas trop comment ces objectifs ont quelque chose à voir avec le fait de gagner un revenu d’emploi ou d’entreprise.
+[18] À mon avis, les appelants n’ont pas réussi à établir qu’ils ont le droit de déduire le coût du cours Klemmer dans le calcul de leur revenu d’emploi.
+[19] Les appelants prennent également cette position (et ils ont déduit une partie du coût du cours Klemmer) dans le calcul du revenu de la société de personnes. Toutefois, selon le tableau des frais de déplacement, des frais de cours (au montant de 508 $) ont été engagés le 15 janvier 2004 et des frais de cours (au montant de 2 177 $) ont été engagés le 10 février 2004. Le cours Klemmer a été donné au mois de mars 2004.
+[20] Dans la décision Setchell v. The Queen, [2006] 2 C.T.C. 2259, 2006 DTC 2279, la juge Woods a dit ce qui suit :
+[16] Même si la décision Martin n’est pas pertinente, je suis d’accord avec l’avocat de l’intimée pour dire que les frais ne sont pas déductibles, sauf si Mme Setchell exploitait une entreprise au moment où le cours a été suivi.
+[21] En l’espèce, l’une des hypothèses émises par l’intimée dans la réponse était que l’entreprise de la société de personnes avait été lancée au mois d’août 2004, et non seulement les appelants n’ont‑ils pas produit d’éléments de preuves en vue de réfuter cette hypothèse, mais Ian McLean, au cours de l’interrogatoire principal et du contre‑interrogatoire, a aussi confirmé que l’entreprise de la société de personnes avait été lancée au mois d’août 2004. Par conséquent, les appelants n’exploitaient pas d’entreprise lorsqu’ils ont suivi le cours Klemmer, et le coût de ce cours n’est pas déductible dans le calcul du revenu de la société de personnes.
+La société de personnes – Achats
+[22] Le montant déduit au titre des achats se rapportait à des achats de produits de consommation par les appelants, par la mère d’Ian McLean, par la mère d’Elaine Armstrong‑McLean et par la fille des appelants. Aucun des achats n’a été effectué aux fins de revente et, par conséquent, aucun des produits achetés ne ferait partie des stocks de l’entreprise.
+[23] Les appelants ont avancé deux arguments à l’appui de leur position selon laquelle le coût des achats devait être admis à titre de dépense dans le calcul du revenu de la société de personnes. Selon le premier argument, ils avaient acheté les produits de façon à pouvoir dire à ceux qu’ils accepteraient comme associés de Mannatech et qui achèteraient une trousse Premium/All‑Star qu’ils utilisaient les produits eux‑mêmes. Selon le second argument, ils achetaient le produit afin d’aider d’autres personnes à respecter le quota d’achat qui était fixé si celles‑ci convenaient d’acheter une trousse Premium/All‑Star ou une autre trousse.
+[24] L’entreprise de Mannatech a été décrite comme une entreprise de commercialisation à paliers multiples. Les appelants avaient comme objectif de créer un legs pour leur entreprise. Le legs serait composé de gens que les appelants (ou leurs équipes en aval) avaient recrutés à titre d’associés de Mannatech (des gens qui s’engageaient à acheter des produits de Mannatech et essaieraient de recruter d’autres associés). Les étapes étaient décrites ainsi dans la brochure intitulée « Your Economic Stimulus Plan – 4 Steps to Enrich Your Life » (Votre plan de stimulation économique – Quatre étapes visant à enrichir votre vie) préparée par Mannatech :
+[traduction]
+Première étape – Vous inscrire en vue d’obtenir une trousse Premium/All‑Star et passer votre commande mensuelle automatique de 100 $;
+Deuxième étape – Former vos équipes de force A et B en inscrivant deux personnes comme vous l’avez vous‑même fait à la première étape;
+Troisième étape – Compléter votre équipe de force en aidant les deux premiers membres de l’équipe à inscrire chacun deux personnes, comme à la première étape;
+Quatrième étape – Aider vos deux premiers chefs d’équipe à compléter leurs équipes de force en portant à six le nombre de membres de chaque équipe.
+[25] Les appelants ne vendaient pas directement le produit, mais ils vendaient des trousses Premium/All‑Star. La personne qui achetait une trousse Premium/All‑Star s’engageait à acheter de Mannatech, chaque mois, au moins 100 $ de produits. Afin de créer le legs, les appelants devaient trouver des personnes qui non seulement allaient acheter la trousse Premium/All‑Star, mais qui essaieraient aussi de recruter d’autres personnes qui achèteraient la trousse et qui, elles aussi, essaieraient de recruter d’autres personnes.
+[26] Les produits vendus par Mannatech étaient décrits en ces termes dans la brochure :
+[traduction]
+Produits exclusifs
+Aidez vos amis et vos proches à avoir une meilleure qualité de vie dans les trois domaines qui intéressent le plus les consommateurs : leur santé, leur poids et leur condition physique, et leur peau.
+La catégorie générale de produits de santé de Mannatech a été stratégiquement élaborée afin d’aider à nourrir, à équilibrer, à protéger et à soutenir les cellules de l’organisme à l’aide d’éléments nutritifs concentrés, normalisés et stabilisés.
+Les produits de Mannatech, en ce qui concerne le poids et la condition physique, sont conçus de façon à vous aider à avoir un corps sain. Notre nouveau produit, la poudre OsoLean, combiné à un régime et à des programmes d’exercice physique appropriés, vous aide à perdre du gras, et non du muscle, tout en gérant votre poids.
+Les produits du système optimal de soins pour la peau de Mannatech sont des produits exclusifs, à base d’eau, conçus pour nourrir et hydrater la peau ainsi que pour lui donner un aspect plus jeune et à lui donner de l’éclat.
+[27] Il est important de déterminer le but de l’achat des produits. Lors des interrogatoires principaux, les appelants ont déclaré que les achats avaient été faits dans un but commercial et ils n’ont pas reconnu avoir acheté les produits pour des raisons personnelles. Les produits offraient des avantages sur le plan de la santé et les appelants croyaient à ces avantages. Lorsqu’elle a été contre‑interrogée, Elaine Armstrong‑McLean a décrit l’avantage qu’elle avait personnellement retiré de l’utilisation de certains de ces produits :
+[traduction]
+Q. J’aimerais maintenant parler – lorsque vous avez décidé de vous inscrire à Mannatech, aviez‑vous des problèmes de santé?
+R. Est-ce que j’avais un problème de santé?
+Q. Oui.
+R. Oui, j’avais un problème de santé.
+Q. Et quel était-il?
+R. Tout le monde a des problèmes de santé. Bien sûr, j’avais un problème de santé.
+Q. Et quel était‑il?
+R. Il s’agissait d’un trouble appelé épiscléritis, et je croyais que ce produit pourrait offrir de gros – comme vous le savez, tout le monde veut améliorer son état de santé, or il se trouve que si ma santé s’était de fait améliorée, mon témoignage contribuerait énormément à bâtir notre entreprise.
+Q. Pouvez-vous décrire en quoi consiste ce problème –
+R. L’épiscléritis?
+Q. Oui.
+R. L’épiscléritis est un trouble oculaire – l’œil devient rouge et il y a une inflammation. C’est parfois douloureux, mais cela va et vient, et le trouble est traité à l’aide de stéroïdes.
+J’ai constaté l’avantage qu’offrait Mannatech, et sans aucun doute le bénéfice que je pourrais en retirer s’il était remédié au mal. C’était merveilleux, je pouvais me présenter et en témoigner.
+Je peux ici aujourd’hui en témoigner, parce que mes yeux ne sont plus rouges.
+Q. Vous avez utilisé le produit de Mannatech afin de vous aider à remédier à ce problème oculaire?
+R. Non, parce que, bon. Nous avons immédiatement adhéré pour l’entreprise. Puis, il y avait certes un avantage à utiliser le produit. Il y a un avantage pour tous les utilisateurs du produit, parce que tout le monde est atteint d’un mal quelconque.
+Il y a donc toujours un avantage, un avantage personnel, mais lorsque nous avons adhéré, nous l’avons fait en tant qu’entreprise.
+Q. Vous êtes également atteinte d’arthrite, pour laquelle vous avez utilisé le produit de Mannatech?
+R. Oui, il y avait deux problèmes. J’ai acheté – oui. J’étais atteinte d’arthrite, mais je ne sais pas. Je ne sais pas ce que vous – comment vous voulez que je réponde.
+Q. Je dis simplement que vous avez utilisé le produit de Mannatech afin de soulager votre arthrite.
+R. Eh bien, il y a cet élément. Il y a cet avantage.
+[28] Selon moi, on ne saurait simplement omettre de tenir compte des raisons personnelles qui ont mené à l’acquisition des produits ou considérer qu’elles sont sans importance. Les produits ont été achetés à des fins de consommation personnelle par les appelants ou par leurs proches. À coup sûr, les appelants se souciaient suffisamment de leurs mères et de leur fille pour acheter à leur intention des produits qui, selon ce qu’ils croyaient, seraient bénéfiques pour leur santé et leur bien‑être. Le fait de traiter l’achat des produits uniquement comme une décision commerciale semble donner à penser que la décision d’acheter les produits ne comportait aucun élément personnel et que l’achat des produits n’était lié à aucun motif d’ordre personnel pour la mère d’Ian McLean, pour la mère d’Elaine Armstrong‑McLean et pour la fille des appelants. À coup sûr, ils se souciaient suffisamment de ces personnes pour que l’achat des produits à des fins de consommation ne soit pas uniquement fondé sur l’accroissement de leur prime ou de leur commission.
+[29] Dans l’arrêt Symes c. R., 1993 CarswellNat 1178, [1994] 1 C.T.C. 40, 94 DTC 6001, 161 N.R. 243, [1993] 4 R.C.S. 695, 19 C.R.R. (2d) 1, 110 D.L.R. (4th) 470, le juge Iacobucci, de la Cour suprême du Canada, a fait les remarques suivantes au sujet des dépenses d’entreprise par opposition aux dépenses personnelles en ce qui concerne les alinéas 18(1)a) et h) de la Loi :
+[52] Toutefois, même sans établir de distinctions avec l’arrêt Bowers c. Harding, je crois que je devrais aller au‑delà de l’al. 18(1)h) de la Loi et de la classification traditionnelle des frais de garde d’enfants dans l’analyse visant à déterminer si ces frais sont vraiment de nature personnelle. La corrélation entre les dépenses et le revenu dans l’arrêt Bowers c. Harding se trouvait subsumée, comme dans d’autres arrêts ultérieurs, à l’intérieur d’une dichotomie apparente. Comme l’a fait remarquer le professeur Arnold, dans « The Deduction for Child Care Expenses », op. cit., à la p. 27 :
+[traduction] Selon le critère énoncé par cet arrêt pour établir une distinction entre des frais personnels et des frais de subsistance, il faut rechercher l’origine des dépenses. Si elles ont été engagées dans le cadre de circonstances personnelles plutôt que dans le cadre de circonstances liées à la pratique des affaires, les dépenses sont personnelles et non déductibles.
+Cette conception renferme des tautologies évidentes. Les « dépenses personnelles » découlent de « circonstances personnelles » et les « dépenses d’affaires » découlent de « circonstances liées à la pratique des affaires ». Mais, comment situe‑t‑on une dépense particulière dans la dichotomie des dépenses d’affaires et des dépenses personnelles?
+Et ensuite :
+[76] Il pourrait également être pertinent d’examiner si une dépense donnée aurait été engagée si le contribuable ne visait pas la production d’un revenu d’entreprise. Voici les commentaires du professeur Brooks sur ce point (à la p. 258) :
+[traduction] Lorsqu’une personne aurait engagé une dépense particulière même si elle ne travaillait pas, il y a de bonnes raisons de penser que cette dépense sert une fin personnelle. Par exemple, pour obtenir un revenu d’une entreprise une personne en affaires doit être nourrie, vêtue et logée. Toutefois, puisque ce sont des dépenses qu’une personne ferait même si elle ne travaillait pas, on peut supposer qu’elles servent un objet personnel − demeurer en vie, être vêtu et se protéger de la pluie. Ces dépenses n’augmentent pas sensiblement lorsqu’une personne entreprend de gagner un revenu.
+[77] En disant qu’une personne doit se nourrir, se vêtir et s’héberger, je reconnais que je me trouve à revenir à un critère du « à défaut de » qui est l’inverse de celui que j’ai déjà examiné. Ici, le critère serait le suivant : « à défaut de gain ou de production de revenu, les dépenses en question auraient de toute façon été faites ». Je dois reconnaître que ce genre de critère peut être manipulé. Par exemple, on peut soutenir que « à défaut de travail, le contribuable n’aurait plus besoin de vêtements coûteux ». Toutefois, dans la plupart des cas, ce type de manipulation pourra être facilement rejetée. Toujours avec le même exemple, on peut conclure que les dépenses d’habillement « n’augmentent pas sensiblement » (Brooks, loc. cit., à la p. 258) du point de vue fiscal lorsqu’une personne améliore sa garde‑robe. Subsidiairement, on peut dire que le changement de garde‑robe constitue un choix personnel. Enfin, puisque toutes les satisfactions psychiques représentent une forme de consommation à l’intérieur de l’assiette fiscale exhaustive idéale, on peut mettre l’accent sur la satisfaction personnelle accrue liée à la possession d’une belle garde‑robe.
+[...]
+[79] Puisque j’ai fait quelques commentaires sur la notion sous‑jacente de « besoins de l’entreprise », il peut être utile aussi de parler des facteurs qui entrent en jeu dans la classification des dépenses en fonction des besoins. Plus précisément, il peut être utile de recourir au critère du « à défaut de » pour l’appliquer non pas à la dépense mais aux besoins que la dépense satisfait. Indépendamment de l’entreprise, le besoin existerait‑il? Si un besoin existe même en l’absence de l’activité d’entreprise, et indépendamment de ce que le besoin a été ou aurait été satisfait par des sommes versées à un tiers ou par le coût d’option du labeur personnel, la dépense faite pour répondre au besoin est considérée traditionnellement comme une dépense personnelle. Des dépenses qui peuvent être identifiées ainsi sont des dépenses engagées par le contribuable pour se dégager d’obligations personnelles et être disponible pour des activités d’entreprise. Traditionnellement, des dépenses permettant simplement au contribuable de se libérer pour affaires ne sont pas considérées comme des dépenses d’entreprise parce qu’on attend du contribuable qu’il soit disponible pour exercer des activités d’affaires en contrepartie du revenu reçu. Cela se traduit dans la distinction fondamentale souvent mentionnée entre la production ou la source du revenu, d’une part, et la réception ou l’utilisation du revenu d’autre part.
+[30] Il me semble que le besoin (quel que soit le problème de santé auquel l’utilisation des produits devait remédier) existait indépendamment de l’entreprise. Comme l’a fait remarquer Elaine Armstrong‑McLean [traduction] « tout le monde a des problèmes de santé » et [traduction] « [i]l y a un avantage pour tous les utilisateurs du produit, parce que tout le monde est atteint d’un mal quelconque ». Les appelants achetaient les produits pour consommation personnelle et pour consommation par leurs mères et par leur fille. Quel que soit le besoin ou le problème de santé de ces personnes en ce qui concerne les produits qu’ils consommaient, cela n’avait rien à voir avec l’entreprise.
+[31] Il me semble également que les appelants ne peuvent pas transformer en une dépense d’entreprise la dépense personnelle qu’ils ont engagée en faisant l’achat des produits compte tenu du fait qu’ils avaient besoin d’utiliser les produits afin d’essayer de convaincre d’autres personnes d’acheter ces produits. À mon avis, cet argument, comme l’a dit le juge Iacobucci, est une « manipulation [qui] pourra être facilement rejetée ». Si les appelants ont raison, les personnes qui possèdent un magasin d’alimentation spécialisée pourraient soutenir que le coût des produits alimentaires achetés par l’intermédiaire du magasin mais consommés par leur famille est une dépense déductible parce qu’ils mangent ce qu’ils vendent et qu’ils peuvent donc promouvoir leur entreprise en faisant cette déclaration. Si les appelants ont raison, les concessionnaires d’automobiles pourraient justifier le coût total d’une voiture à titre de dépense d’entreprise (indépendamment de la façon dont la voiture est utilisée) étant donné qu’ils pourraient prendre la position selon laquelle, afin de convaincre des clients d’acheter une marque particulière d’automobile, ils doivent eux‑mêmes utiliser une telle automobile. Selon moi, tel n’est pas le bon résultat et je ne retiens pas l’argument des appelants lorsqu’ils affirment que les achats ont été effectués à des fins commerciales et non à des fins personnelles, et ce, afin de pouvoir personnellement promouvoir les produits en disant à d’autres personnes qu’ils les utilisent.
+[32] Les produits ont été achetés à des fins de consommation personnelle par les appelants, par leurs mères et par leur fille et le coût des produits était une dépense personnelle et non une dépense d’entreprise.
+[33] Les appelants avaient indiqué que certains achats avaient été effectués afin de remettre les produits à des clients éventuels pour que ceux‑ci en fasse l’essai. Toutefois, ils n’ont pas donné de détails ni indiqué dans quelle mesure les achats avaient été effectués à cette fin ni pour qui les achats avaient été effectués. Les appelants ont mentionné que les clients éventuels étaient des membres de la famille et des amis, ce qui soulèverait également la question de savoir si les produits étaient achetés parce que l’autre personne était un membre de la famille ou un ami atteint d’un trouble particulier de la santé qu’ils voulaient aider ou s’ils étaient achetés strictement à des fins commerciales.
+[34] Par conséquent, aucun montant ne sera admis à titre de déduction dans le calcul du revenu de la société de personnes pour les achats effectués en 2004 ou en 2005.
+La société de personnes – Frais de déplacement
+[35] Le montant qui a été déduit au titre des frais de déplacement en 2004 comprenait les frais de cours et les frais de déplacement se rapportant au cours Klemmer. Comme il en a ci‑dessus été fait mention, l’entreprise de la société de personnes n’a été lancée qu’au mois d’août 2004, et puisque le cours Klemmer a été donné au mois de mars 2004, à San Francisco, ces dépenses ont été engagées avant que l’entreprise soit lancée et ne sont donc pas déductibles dans le calcul du revenu tiré de l’entreprise exploitée par la société de personnes.
+[36] Un montant a également été indiqué au titre des frais de cours, sous la rubrique − Aurora pour Klemmer & Associates. Cette dépense a été engagée le 15 janvier 2004, soit avant que l’entreprise soit lancée.
+[37] Le solde du montant qui a été déduit au titre des frais de déplacement en 2004 se rapportait à un voyage effectué à Kananaskis afin d’assister au mariage du neveu d’Ian McLean et de visiter ou de rencontrer des amis, à Calgary. Dans la décision LeCaire c. La Reine, 2009 CCI 382, j’ai dit que la décision d’une personne d’assister à des funérailles serait une décision personnelle et je n’ai pas admis quelque fraction que ce soit du coût y afférent à titre de dépense d’entreprise. Un mariage est différent et cet événement se prête peut‑être mieux à l’exploitation d’une entreprise. Toutefois, je n’accepte pas la thèse selon laquelle les appelants ont assisté au mariage du neveu d’Ian McLean, à Kananaskis, uniquement afin de gagner un revenu. Les appelants avaient sans aucun doute également des raisons personnelles pour assister au mariage et pour voir les autres membres de la famille et les amis qui se réuniraient à cet endroit. Je n’accepte pas le fait que la famille et les amis des appelants aient cessé d’être des membres de la famille et des amis et qu’ils soient devenus uniquement des associés éventuels de Mannatech.
+[38] À mon avis, les appelants ont assisté au mariage principalement à des fins personnelles et, en affirmant avec insistance qu’ils s’étaient uniquement rendus à Kananaskis afin de gagner un revenu, les appelants font si peu de cas de tout sentiment personnel qu’ils peuvent avoir envers le neveu d’Ian McLean, les autres membres de la famille et leurs amis qui assisteraient au mariage ou qui seraient à Calgary, que cela influe sur leur crédibilité. Les appelants semblaient être convaincus que s’ils ajoutaient à un voyage quelques réunions d’affaires, ils pourraient faire du coût global du voyage une dépense d’entreprise, alors que ce coût constituerait normalement une dépense personnelle.
+[39] Toutefois, comme il en a ci‑dessus été fait mention, d’après moi, les frais de déplacement pourraient en partie être considérés comme visant à permettre aux appelants de gagner un revenu. Cela n’a peut‑être pas fait des appelants les personnes les plus populaires à la réception de mariage, mais, selon moi, les appelants auraient profité de cette occasion pour essayer de convaincre les membres de leur famille et leurs amis de devenir des associés de Mannatech ou d’acheter l’une des trousses de produits. Ils en auraient également parlé aux amis à qui ils rendaient visite, à Calgary. Toutefois, la fin commerciale serait une fin accessoire par rapport à la fin personnelle et je n’admettrais que 10 p. 100 des montants suivants à titre de déduction dans le calcul du revenu de la société de personnes à l’égard du voyage à Calgary et à Kananaskis, en 2004 :
+Élément
+Montant
+Repas (50 % de 131,08 $)[1]
+65,54 $
+Stationnement
+73,56 $
+Location de voiture
+46,29 $
+Hébergement
+194,00 $
+Billets d’avion
+1 141,06 $
+Essence
+27,34 $
+Total :
+1 547,79 $
+[40] Les montants susmentionnés ne comprennent pas les 3,51 $ désignés comme se rapportant aux [traduction] « Arts et Lettres », étant donné qu’on ne sait pas trop s’il s’agissait du montant payé pour la carte à l’égard du mariage. Ils ne comprennent pas non plus le montant de 40,55 $ (« Wine March »), qui est décrit dans le tableau se rapportant aux déplacements comme un [traduction] « cadeau »[2]. Par conséquent, le montant admis dans le calcul du revenu de la société de personnes en 2004 au titre des frais de déplacement sera de 155 $.
+[41] Pour l’année 2005, le montant total qui a été déduit au titre des frais de déplacement dans le calcul du revenu de la société de personnes était de 10 320,45 $. Un montant de 541,58 $ a été admis par l’Agence du revenu du Canada (l’« ARC ») à titre de déduction dans le calcul du revenu de la société de personnes, de sorte qu’il restait un solde de 9 778,87 $ qui était contesté. Un tableau montrant les divers montants qui étaient inclus dans le montant global de 10 320,45 $ a été produit en preuve par l’intimée, mais l’intimée n’a pas indiqué dans la réponse (ou ailleurs) quels étaient les éléments compris dans les frais de déplacement de 541,58 $ qui avaient été admis. Il est donc impossible de déterminer les éléments, en ce qui concerne les déplacements, qui sont inclus dans le montant de 9 778,87 $ qui est contesté.
+[42] Dans l’arrêt The Queen v. Anchor Pointe Energy Ltd., 2003 DTC 5512, le juge Rothstein, de la Cour d’appel fédérale, a dit ce qui suit :
+[23] Alléguer l’existence d’hypothèses confère comme avantage important à la Couronne de renverser le fardeau de preuve, de sorte que le contribuable doive réfuter les hypothèses du ministre. Les faits allégués comme hypothèses doivent être précis et exacts afin que le contribuable sache bien clairement ce qu’il lui faudra prouver.
+[43] Le fait de simplement dire que, sur le montant total de 10 320,45 $, un montant de 9 778,87 $ est refusé n’aide pas les appelants et ne m’aide pas à déterminer les éléments de la demande relative aux frais de déplacement dont la déduction a été refusées. Plusieurs éléments sont inclus dans le montant global de 10 320,45 $ et il est impossible de savoir quels sont les éléments qui sont encore contestés. Par conséquent, si l’un des éléments admis dans les présents motifs est également inclus dans le montant de 541,58 $ que l’ARC a admis, cela serait attribuable à l’omission de l’intimée d’indiquer les éléments qui ont été admis (ou refusés) et les montants seront admis à titre de déduction même s’ils ont peut‑être déjà été inclus dans le montant de 541,58 $ qui a été admis.
+[44] Dans le montant qui a été déduit au titre des frais de déplacement était inclus le coût d’un séjour de fin de semaine, au Millcroft Inn and Spa. Les seuls gens qui ont assisté à cette [traduction] « réunion d’affaires » de fin de semaine étaient les appelants. Cette demande montre, comme il en a ci‑dessus été fait mention, que les appelants estimaient que tout voyage revêtant l’aspect d’une [traduction] « réunion d’affaires » peut devenir une dépense d’entreprise, même s’il s’agit normalement d’une dépense personnelle. Selon moi, des conjoints qui exploitent une entreprise dans le cadre d’une société de personnes ne peuvent pas transformer des dépenses personnelles en dépenses d’entreprise simplement en discutant d’affaires. Si les appelants ont raison, le coût du petit déjeuner (ou de tout autre repas qu’ils ont pris ensemble) pourrait devenir une dépense d’entreprise du simple fait qu’il serait question d’affaires pendant le repas. Selon moi, cela ne me semble pas être le bon résultat. D’après moi, le coût d’un voyage de fin de semaine au cours duquel les appelants n’ont rencontré personne est une dépense personnelle et non une dépense d’entreprise. Je ne crois pas que les appelants ne font plus rien pour des raisons personnelles. Aucun montant ne sera admis à titre de déduction dans le calcul du revenu de la société de personnes à l’égard du séjour de fin de semaine au Millcroft Inn and Spa.
+[45] Les appelants se sont également déplacés pour assister à trois événements pour Mannatech – le congrès annuel qui a eu lieu à Dallas au mois de mars 2005, un séminaire Proevity qui a eu lieu à Niagara Falls au mois d’avril 2005 et un séminaire portant sur le pouvoir des objectifs qui a eu lieu à Ingersoll au mois de juin 2005. Le coût de participation au congrès annuel serait déductible conformément au paragraphe 20(10) de la Loi[3]. Dans son plaidoyer, l’avocat de l’intimée a soulevé la question de savoir si les deux appelants avaient assisté au congrès étant donné que seule Elaine Armstrong‑McLean en avait parlé au cours de son témoignage, mais je conclus selon la prépondérance des probabilités qu’ils ont tous deux assisté au congrès. Il semble clair que les deux appelants participaient activement à l’exploitation de la société de personnes et ils ont donc fort probablement tous deux assisté au congrès.
+[46] En ce qui concerne les séminaires, il me semble que les appelants ont assisté à ces séminaires afin de tirer un revenu de l’entreprise de Mannatech et que les montants dépensés ne sont pas imputables au capital. Dans la décision Setchell, précitée, la juge Woods a fait remarquer ce qui suit :
+[22] Les frais de formation sont généralement déductibles comme frais courants s’ils ont été engagés pour conserver, mettre à jour ou améliorer une compétence ou un titre existant.
+[47] Les séminaires (qui semblaient durer un jour) visaient à renseigner les intéressés sur les nouveaux produits et sur la façon de mener leur entreprise et ils sont donc assimilables au maintien ou à l’amélioration d’une compétence existante plutôt qu’à l’acquisition d’une nouvelle compétence. Le coût des séminaires est donc déductible dans le calcul du revenu de la société de personnes pour l’année 2005.
+[48] Toutefois, les montants ne sont pas faciles à déterminer étant donné que, parmi les éléments se trouvant dans le tableau des déplacements préparé par les appelants, on trouve des éléments se rapportant au congrès et aux séminaires et d’autres éléments n’ayant rien à voir avec ces événements. Toutefois, il semble que les éléments suivants se rapportent au congrès, à Dallas :
+Élément
+Montant admis
+Essence
+25,54 $
+Repas (50 % de 657,45 $)[4]
+328,72 $
+Location de voiture
+272,56 $
+Stationnement
+111,55 $
+Hébergement
+736,02 $
+Billets d’avion
+2 216,54 $
+Total :
+3 690,93 $
+[49] Sont inclus dans le montant susmentionné les coûts associés aux quatre jours qui ont suivi le congrès, pendant lesquels les appelants ont rencontré Lorraine et Bill LeBlanc à San Antonio et ont essayé de recruter d’autres personnes dans l’entreprise. Je suis convaincu selon la prépondérance des probabilités que le temps additionnel passé au Texas visait à gagner un revenu. Il n’existait aucun élément de preuve concernant quelque autre activité à laquelle les appelants se seraient livrés à cet endroit. Les montants susmentionnés ne comprennent pas les montants que le vérificateur, à l’ARC, a désignés dans le tableau comme étant des montants en double, étant donné que les appelants n’ont pas expliqué pourquoi il ne s’agissait pas de montants en double. Les montants susmentionnés ne comprennent pas les éléments désignés comme se rapportant à des achats, à des affiches ou à du matériel de commercialisation, étant donné que les appelants n’ont fourni aucune explication sur ce point.
+[50] Les dépenses suivantes semblent se rapporter au séminaire Proevity :
+Élément
+Montant admis
+Repas (50 % de 113,36 $)[5]
+56,68 $
+Hébergement
+125,36 $
+Total :
+182,04 $
+[51] Les montants susmentionnés ne comprennent pas les montants que le vérificateur, à l’ARC, a désignés dans le tableau comme étant des montants en double, étant donné que les appelants n’ont pas expliqué pourquoi il ne s’agissait pas de montants en double. Les montants susmentionnés ne comprennent pas les éléments désignés comme étant des achats, étant donné que les appelants n’ont fourni aucune explication sur ce point.
+[52] Seul un montant de 226,38 $ a été désigné pour le séminaire concernant le pouvoir des objectifs. Dans le tableau, il était décrit que ce montant se rapportait aux repas et à l’hébergement. Toutefois, étant donné que le coût des repas serait assujetti à l’article 67.1 de la Loi, il faut séparer le coût des repas du coût de l’hébergement. Puisque les appelants ne l’ont pas fait, il sera supposé que la moitié du montant se rapportait aux repas et le reste à l’hébergement. Par conséquent, les montants suivants seront admis pour ce séminaire :
+Élément
+Montant admis
+Repas (50 % de 113,19 $)[6]
+56,60 $
+Hébergement
+113,19 $
+Total :
+169,79 $
+[53] Les appelants ont également déduit les frais d’un autre voyage qui, selon eux, visait à leur permettre de gagner un revenu; il s’agissait d’un voyage de fin de semaine à Niagara‑on‑the‑Lake, où les appelants ont rencontré Harold et Alison Wilson, qui étaient des amis de longue date. Dans ce cas‑ci, la difficulté tient à l’établissement d’une distinction entre les dépenses personnelles et les dépenses d’entreprise dans les cas où les gens avec qui les appelants essaient de faire des affaires sont des membres de la famille et des amis. D’après moi, les appelants devraient avoir droit à une déduction pour les frais de déplacement, dans la mesure où le voyage visait à leur permettre de gagner un revenu, mais non dans la mesure où le voyage a été effectué afin de rencontrer des amis de longue date. À mon avis, vu que les appelants se sont rendus à Niagara‑on‑the‑Lake afin de rencontrer des gens qui avaient été (et qui sont encore) leurs amis, la partie des frais engagés à des fins commerciales doit être accessoire par rapport à la parti des frais engagés à des fins personnelles. J’admettrai 25 p. 100 du coût du voyage à Niagara‑on‑the‑Lake à titre de déduction dans le calcul du revenu de la société de personnes.
+[54] Les montants suivants seront donc admis pour le voyage à Niagara‑on‑the‑Lake :
+Élément
+Montant dépensé
+Montant admis (25 %)
+Repas[7]
+178,15 $
+22,27 $
+Hébergement
+188,90 $
+47,22 $
+Total :
+69,49 $
+[55] Le dernier voyage dont il a été question était un voyage que les appelants ont effectué en Floride afin de rencontrer Deborah Baron, qui était leur [traduction] « contact immédiat en amont ». C’était elle qui avait recruté les appelants. Il s’agissait d’une amie d’Elaine Armstrong‑McLean et elle avait habité chez les appelants, avec ses deux enfants, pendant un an. Encore une fois, le problème découle du fait que des amis sont mêlés à l’entreprise et qu’il est difficile de savoir dans quelle mesure les appelants ont effectué cette dépense en vue de gagner un revenu. Je ne crois pas que les appelants doivent avoir le droit de déduire, à titre de dépense d’entreprise, la totalité de ce qu’il leur en a coûté pour aller rencontrer leurs amis sous le prétexte qu’ils font des affaires avec ceux‑ci. Comme il en a ci‑dessus été fait mention, il me semble que les dépenses faites à des fins commerciales doivent être accessoires par rapport aux dépenses faites à des fins personnelles. J’admettrai 25 p. 100 du coût du voyage en Floride à titre de déduction dans le calcul du revenu de la société de personnes.
+[56] Les montants suivants semblent se rapporter à ce voyage et les montants suivants seront admis :
+Élément
+Montant dépensé
+Montant admis (25 %)
+Repas[8]
+190,77 $
+23,85 $
+Location de voiture
+299,71 $
+74,93 $
+Stationnement
+68,95 $
+17,24 $
+Billets d’avion
+1 335,98 $
+334,00 $
+Total :
+450,02 $
+[57] Il a également été fait mention de [traduction] « matériel de lecture » à l’égard du voyage en Floride. Aucune explication n’a été fournie sur ce point et, par conséquent, aucun montant n’est admis à ce titre.
+[58] Les appelants ont également déduit un montant pour des photos de passeport. Toutefois, ce montant a été dépensé au mois de novembre 2005, soit après les divers voyages susmentionnés, et on ne sait pas trop si cela se rapportait à un voyage personnel ou à un voyage d’affaires que les appelants envisageaient de faire. Aucun montant ne sera admis pour les photos de passeport.
+[59] Par conséquent, les montants suivants seront admis à titre de déduction relative aux frais de déplacement dans le calcul du revenu de la société de personnes pour l’année 2005, en sus des 541,58 $ que l’ARC a admis :
+Élément
+Montant admis
+Congrès de Mannatech, à Dallas
+3 690,93 $
+Séminaire Proevity de Mannatech
+182,04 $
+Séminaire Power of Purpose concernant le pouvoir des objectifs de Mannatech
+169,79 $
+Voyage à Niagara‑on‑the‑Lake
+69,49 $
+Voyage en Floride
+450,02 $
+4 562,27 $
+La société de personnes – Cours et perfectionnement professionnel
+[60] Le montant qui a été déduit se rapporte au cours Klemmer, en 2004, dont il a ci‑dessus été question. Aucun montant n’est admis à titre de déduction dans le calcul du revenu de la société de personnes pour le cours Klemmer.
+Conclusion
+[61] Par conséquent, les appels sont accueillis sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait :
+a) que, dans le calcul de son revenu d’emploi pour l’année 2004, Ian MacLean a droit à une déduction additionnelle de 253 $ au titre des frais de stationnement;
+b) que, dans le calcul du revenu de la société de personnes pour l’année 2004, une déduction de 155 $ est admise pour les déplacements;
+c) que, dans le calcul du revenu de la société de personnes pour l’année 2005, une déduction additionnelle de 4 562 $ est admise pour les déplacements.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 9e jour de mars 2010.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 509
+Nos DES DOSSIERS DE LA COUR : 2008-2406(IT), 2008-2410(IT)I
+INTITULÉ : ELAINE MCLEAN c. M.R.N.
+IAN MCLEAN c. M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 octobre 2009
+COMPARUTIONS :
+Représentant des appelants :
+M. Dan White
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Selon l’article 67.1 de la Loi, le montant qui est réputé être payé pour les repas correspond à 50 p. 100 du montant réellement payé.
+[2] Au cours de l’audience, le représentant des appelants a soumis un document qu’il a décrit comme un extrait du tableau des déplacements qui comprenait uniquement les éléments se rapportant au voyage à Kananaskis. Toutefois, dans l’« extrait », la description de ce montant a été changée et le montant se rapportait à des [traduction] « repas ». Dans le tableau des déplacements, le montant est décrit comme étant un [traduction] « cadeau ». De plus, la mention « March. » a été remplacé par « Merch. ».
+[3] Il n’a pas été soutenu que l’emplacement du congrès ne satisfaisait pas aux exigences de cette disposition.
+[4] Précité, note de bas de page 1.
+[5] Précité, note de bas de page 1.
+[6] Précité, note de bas de page 1.
+[7] Étant donné que, conformément à l’article 67.1 de la Loi, le montant qui est réputé avoir été payé pour les repas correspond à 50 p. 100 du montant réellement payé, le montant qui sera admis pour les repas sera de (178,15 $ x 0,5) x 0,25 = 22,27 $.
+[8] Étant donné que, conformément à l’article 67.1 de la Loi, le montant qui est réputé avoir été payé pour les repas correspond à 50 p. 100 du montant réellement payé, le montant qui sera admis pour les repas sera de (190,77 $ x 0,5) x 0,25 = 23,85 $.

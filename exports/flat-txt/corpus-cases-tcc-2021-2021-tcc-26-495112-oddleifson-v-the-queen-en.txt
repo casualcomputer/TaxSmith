@@ -1,0 +1,188 @@
+Title: Oddleifson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/495112/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-26-495112-oddleifson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-03-31
+
+# Oddleifson v. The Queen
+
+- Citation: 2021 TCC 26
+- Decision date: 2021-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4625, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oddleifson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-31
+Neutral citation
+2021 TCC 26
+File numbers
+2017-2382(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2382(IT)G
+BETWEEN:
+ENID D. ODDLEIFSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard by videoconference on March 8, 2021 at Ottawa, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Ainslie Schroeder
+ORDER
+The Respondent’s motion to quash the Appellant’s appeals is granted. The Appellant’s appeals of the reassessments of her 2005, 2006, 2007, 2010 and 2011 tax years are hereby quashed.
+Costs are awarded to the Respondent in accordance with Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 31st day of March 2021.
+“David E. Graham”
+Graham J.
+Citation: 2021 TCC 26
+Date: 20210331
+Docket: 2017-2382(IT)G
+BETWEEN:
+ENID D. ODDLEIFSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] Enid Oddleifson claimed donation tax credits in respect of gifts that she claims to have made through a tax shelter known as the Global Learning Gifting Initiative (“GLGI”). The Minister of National Revenue reassessed Ms. Oddleifson to deny those credits. Ms. Oddleifson appealed those denials.
+[2] The Respondent has brought a motion to quash the appeals on the basis that Ms. Oddleifson waived her right to appeal the reassessments to this Court.
+A. Background
+[3] There were tens of thousands of other taxpayers who claimed donation tax credits in respect of gifts purportedly made to GLGI. The Minister reassessed those taxpayers to deny the credits. Many of those taxpayers filed notices of objection.
+[4] Some of the taxpayers who had filed objections appealed to the Court. Four lead cases were selected to proceed to trial.
+[5] The Minister sent a letter to the remaining taxpayers who had filed objections (the “Options Letter”). The Options Letter presented those taxpayers with a number of options.
+[6] One of those options was to accept a settlement offer and sign a waiver of the taxpayer’s right to appeal. The Options Letter enclosed an agreement giving effect to this option. I will refer to this agreement and waiver as the “Settlement Agreement”.
+[7] Another option was to sign an agreement to be bound by the outcome of the lead cases and a corresponding waiver of the taxpayer’s rights of appeal if the Minister reassessed in accordance with the outcome in the lead cases. The Options Letter enclosed an agreement giving effect to this option. I will refer to this agreement and waiver as the “Agreement to be Bound”. A number of taxpayers signed Agreements to be Bound. Ms. Oddleifson is one of those taxpayers.
+[8] In the end, only two of the lead cases proceeded to trial. In a decision reported as Mariano v. The Queen (“Mariano”), Justice Pizzitelli dismissed their appeals. [1]
+[9] The Minister accordingly confirmed the reassessments of the taxpayers who had signed Agreements to be Bound. A number of those taxpayers nevertheless appealed to this Court. Ms. Oddleifson is one of those taxpayers.
+B. Abdalla v. The Queen
+[10] The Crown brought motions to quash the appeals of 27 of the taxpayers who had signed Agreements to be Bound. In a decision reported as Abdalla v. The Queen, Chief Justice Rossiter granted the Crown’s motion. [2]
+[11] On the basis of the Supreme Court of Canada’s leading decision on waivers (Saskatchewan River Bungalows Ltd. v. Maritime Life Assurance Co [3] ) and subsection 169(2.2) of the Income Tax Act, the Chief Justice determined that for a waiver of a taxpayer’s right to appeal to be effective:
+(a) the waiver must be in writing;
+(b) the taxpayer must have full knowledge of his or her rights; and
+(c) the taxpayer must have an unequivocal and conscious intention to abandon those rights.
+[12] The Chief Justice carefully analyzed the Options Letter, the Settlement Agreement and the Agreement to be Bound. He found that:
+(a) there were four options presented to taxpayers:
+(i) agreeing to be bound to the test cases;
+(ii) accepting the settlement offer;
+(iii) doing nothing and running the risk that the Minister would take further action without notice; and
+(iv) appealing directly to the Court; and
+(b) there was sufficient explanation in the documents provided that a taxpayer would have had full knowledge of the rights that he or she was waiving if he or she had signed the Agreement to be Bound.
+[13] As stated by the Chief Justice: [4]
+. . . there is no doubt that a) the letter was poorly drafted; b) the letter was poorly worded; and c) the letter was erroneous to some extent in that it referred to two options for the Appellant, but actually contained four. Nonetheless, it is evident from reviewing the letter, if read in its entirety, that there is a sufficient and adequate explanation in the letter that a person would have full knowledge of the rights being waived. In the letter there is background information provided, identifying the issue with respect to the tax shelter number being used for identification purposes only. There is reference to similar donation cases and decisions of the Federal Court of Appeal. There is specificity to the effect that the CRA has audited and disallowed all claims in relation to the GLGI donation program of which the Appellant was a participant.
+The [Options Letter] further goes on to talk specifically about the Appellant’s donation tax credit claims and refers specifically to her . . . charitable donations and how the donations were made. The letter errs by referring to only two options available to the Appellant, when in fact the letter contains four options. However, those options repeatedly, as presented, refer to Waiver of appeal rights. Option #1 is entitled “Notice of Confirmation with a Waiver of Appeal Rights” and that paragraph refers to the Waiver of Right of Objection and Appeal which was due within 30 days of the letter. It refers throughout to the words “reference” and “waive” and it gives a detailed explanation of option #1. What really was option #2, but was not described as option #2, refers to the fact that the Appellant could appeal directly to the Tax Court of Canada if they did not agree with option #1. What really was option #3, but listed as option #2, was rejecting option #1 and instead signing and returning the Agreement to be Bound and Objection and Appeal Rights. What really was option #4 was rejecting options #1 and #3, with the consequence that the CRA would proceed on their objection without advance notice.
+[14] The Chief Justice concluded that: [5]
+. . . As noted, the letter could have been drafted somewhat better. There are a few mistakes in the letter, but if the letter is read as a whole, in conjunction with the forms attached, I find it difficult to say that the Appellant would not fully understand her rights have been waived because they are specifically laid out in the letter with great specificity.
+[15] On the basis of all of the foregoing, the Chief Justice found that Ms. Abdalla had waived her right to appeal to this Court. He accordingly quashed Ms. Abdalla’s appeal.
+[16] Ms. Abdalla appealed the Chief Justice’s decision to the Federal Court of Appeal. The Federal Court of Appeal upheld the decision. [6] The Court concluded that Chief Justice Rossiter had correctly identified the legal requirements for a waiver and that there was “more than ample basis” for concluding that the tests had been met. [7]
+[17] Ms. Abdalla sought leave to appeal to the Supreme Court of Canada. Her application was dismissed. [8]
+C. Application of Abdalla to Ms. Oddleifson’s appeal
+[18] As set out above, Abdalla established that three tests must be met for a waiver of a taxpayer’s rights of appeal to be valid. The waiver must be in writing, the taxpayer must have full knowledge of his or her rights and the taxpayer must have an unequivocal and conscious intention to abandon those rights.
+[19] Ms. Oddleifson signed the Agreement to be Bound. The Agreement to be Bound contains a waiver of her rights to appeal. Ms. Oddleifson therefore accepts that the first test has been met.
+[20] Ms. Oddleifson argues that the second test is not met. She says that she did not have full knowledge of her rights.
+[21] If I find that the second test has been met, then Ms. Oddleifson accepts that the third test is also met. She had an unequivocal and conscious intention to abandon the rights that she had. The question that I must determine is therefore whether she had full knowledge of those rights.
+D. Burden of proof and cross-examination
+[22] Ms. Oddleifson submits that the Respondent bears the burden of proving that she had full knowledge of her rights. I agree.
+[23] That said, I also agree with Chief Justice Rossiter’s analysis of the Options Letter, the Settlement Agreement and the Agreement to be Bound and with his conclusion that, after reading those documents, a person would have full knowledge of the rights being waived. [9]
+[24] Coming into this motion, Ms. Oddleifson was faced with what is sometimes referred to as a tactical burden. She was aware of the Chief Justice’s conclusions in Abdalla. She was aware that the Federal Court of Appeal had supported those conclusions and that I too was likely to agree with those conclusions. Thus, while the burden of proof remained on the Respondent, Ms. Oddleifson was aware that the Respondent would likely be able to meet that burden simply by relying on the documents themselves. As a result, while Ms. Oddleifson was not required to prove anything, if she failed to make the tactical choice to offer sufficient evidence in support of her position, she risked losing.
+[25] I raise this point because counsel for Ms. Oddleifson made repeated reference to what he described as the Respondent’s failure to cross-examine Ms. Oddleifson on her affidavit evidence. Counsel asserted that unless I find Ms. Oddleifson’s evidence to be “inherently incredulous”, I must accept it. I disagree with these assertions for two reasons.
+[26] First, I am not required to accept evidence simply because it was not challenged on cross-examination. I accept evidence that I find to be credible and reliable. Cross-examination is a means by which an opposing party may try to challenge the credibility or reliability of the evidence but a failure to conduct a cross-examination on an affidavit is not an admission as to the truth of its contents [10] and by no means requires me to accept a witness’ evidence.
+[27] Second, as set out above, the Respondent has already introduced sufficient evidence to win her case. To the extent that there are gaps in Ms. Oddleifson’s evidence, it was not the Respondent’s responsibility to flesh out the missing evidence through cross-examination. If Ms. Oddleifson wanted me to rely on evidence in support of her position, she should have put it in her affidavit. She cannot ask me to infer the truth of missing evidence because of an alleged lack of cross-examination.
+E. Ms. Oddleifson’s knowledge of her rights
+[28] As set out above, Chief Justice Rossiter found that the Options Letter gave taxpayers four options: settle, agree to be bound by the outcome in the lead appeals, appeal directly to the Court or do nothing.
+[29] In written submissions, counsel for Ms. Oddleifson submits that “[o]pposite to ‘full knowledge’ of her rights, the Appellant had a clear misapprehension that half of her rights did not exist: that she only had two choices, not the four she legally had.” [11] This assertion is not supported by the evidence.
+[30] Ms. Oddleifson’s affidavit makes no mention of her right to appeal directly to the Court. That right is provided for in paragraph 169(1)(b) of the Income Tax Act and was identified in the Options Letter. The Options Letter specifically states: [12]
+If you do not wish to accept the offer, the next step in the dispute process is to pursue the matter before the Tax Court of Canada (TCC). You may appeal directly to the TCC as more than 90 days have passed since you filed your objection.
+[31] If Ms. Oddleifson wanted me to conclude that she was nonetheless unaware of her right to appeal directly to the Court, she needed to provide me with evidence upon which I could reach that conclusion. It was not up to the Respondent to make Ms. Oddleifson’s case for her through cross-examination. In the absence of such evidence, I find that Ms. Oddleifson was aware of this right.
+[32] I want to be clear. I am not drawing an adverse inference from Ms. Oddleifson’s failure to provide the evidence and concluding that she knew she could appeal directly to the Court. I am simply looking at the evidence that is before me. Ms. Oddleifson read the Options Letter. The Options Letter states that Ms. Oddleifson could appeal directly to the Court. Ms. Oddleifson did not state that she was unaware of that option let alone explain that she overlooked it or misunderstood it. She said nothing. On the basis of all of the foregoing, I find it more likely than not that Ms. Oddleifson was aware of the option of appealing directly to the Court.
+[33] In her affidavit, Ms. Oddleifson states that “[t]here was no description of a ‘third option’ . . . to reject the CRA’s offer and yet not agree to be bound.” [13] Yet, her own evidence undermines her position. In another part of her affidavit she quotes a portion of the Options Letter that specifically states what will happen if “. . . you reject the offer and do not agree to be bound . . .”. [14] Furthermore, Ms. Oddleifson describes at length how that third option made her feel, how she considered it when deciding what to do and why it was unappealing to her. [15] On the basis of the foregoing, I conclude that Ms. Oddleifson was aware that she had the option of doing nothing.
+[34] Ms. Oddleifson’s real dispute relates to her understanding of what the option of doing nothing entailed. The Options Letter states that if a taxpayer does not accept the settlement offer or agree to be bound by the lead cases, then the CRA intends to ask the Court to bind the taxpayer’s objection to lead cases without further notice. The Options Letter warns that there may be cost consequences associated with this process. Ms. Oddleifson states that she honestly believed that the CRA would take the threatened action. [16]
+[35] While the Options Letter does not describe the action that the CRA intended to take, the parties agree that the CRA’s plan was to bring an application under subsection 174(1) of the Income Tax Act. Subsection 174(1) allows the Minister to apply to the Court for a determination of a question if the Minister is of the opinion that the question is common to assessments in respect of two or more taxpayers arising out of substantially similar transactions. Paragraph 174(3)(b) states that taxpayers named in a section 174 application may be joined to an existing appeal at the discretion of the judge hearing the application.
+[36] The Minister did exactly what she said she would do. Approximately 17,000 taxpayers who had objected to their GLGI reassessments neither accepted the settlement offer nor agreed to be bound by the outcome of the lead appeals. The Minister brought an application under subsection 174(1) in an attempt to bind those 17,000 taxpayers to the appeals of other taxpayers who had appealed directly to the Court.
+[37] The Minister ultimately withdrew the application and, in The Minister of National Revenue v. McMahon, [17] I determined the costs that were payable to certain taxpayers named in the application. Ms. Oddleifson relies heavily on paragraphs 41 to 45 of my decision. In those paragraphs, I conclude that “. . . the Minister’s decision to bring the Application was a mistake. It should have been plain and obvious to the Minister that it would never be practical to proceed with the Application” [18] and that “[h]ad the Minister turned her mind to the fact that all of the taxpayers named in the Application would have had the right to participate in the process, she would never have brought the Application.” [19]
+[38] Ms. Oddleifson submits, in essence, that the CRA should have told her that its threatened subsection 174(1) application was doomed to fail and that, without that information, she did not have full knowledge of her rights. I disagree for several reasons.
+[39] First, the Options Letter did not state that the CRA would bind Ms. Oddleifson’s objections to lead cases. It stated that “the CRA intends to request the TCC to bind [her] objection to lead cases, as permitted under the Act.” Ms. Oddleifson’s conclusion that the CRA would be successful was her own. The CRA did exactly what it said it would do. It brought the application.
+[40] Second, the right that Ms. Oddleifson needed to be aware of was her right to do nothing. The Options Letter made her aware of that right. The CRA took the additional step of advising Ms. Oddleifson what it intended to do if she exercised that right. There is no evidence that would suggest that the CRA did so in bad faith, let alone that it attempted to mislead Ms. Oddleifson. Ms. Oddleifson can no more complain that the CRA should have told her that the application would ultimately fail than she can complain that the CRA should have told her that the Crown would ultimately be successful in Mariano.
+[41] Third, at the time that the CRA wrote the Options Letter, it did not know how many taxpayers would accept the settlement offer or how many taxpayers would agree to be bound by the outcome of the lead appeals. As a result, even if the CRA had appreciated that it would be impractical to proceed under subsection 174(1) with a large number of taxpayers, at the time it sent the Options Letter it would not have known that the application would involve a large number of taxpayers.
+[42] The foregoing is sufficient for me to conclude that Ms. Oddleifson had full knowledge of her rights and therefore that the waiver she signed was effective. However, counsel for Ms. Oddleifson raised a number of other items in his written submissions. While counsel assured me that he was raising these items for “context”, I nonetheless feel I should address them.
+[43] The Options Letter stated that the settlement offer was open for 30 days. It also asked Ms. Oddleifson to advise the CRA within 30 days as to whether she agreed to be bound by the lead cases. There were, of course, no time limits associated with the options of doing nothing or appealing directly to the Court. In Abdalla, Chief Justice Rossiter found that 30 days was an adequate amount of time to seek advice. [20] I agree.
+[44] Ms. Oddleifson submits that the 30-day time limits imposed pressure on her to make a choice without obtaining advice. The Options Letter was dated December 10, 2014. In her affidavit, Ms. Oddleifson says that she felt it would have been impossible to engage a lawyer and receive advice within 30 days, especially over the Christmas holidays. [21] She does not, however, say that she tried to retain professional advice and was unable to do so.
+[45] Ms. Oddleifson’s husband passed away in April 2013. Ms. Oddleifson’s affidavit says that she would normally have relied on her husband to deal with GLGI matters or to select an advisor but does not say that she was unable to do these things herself. On the contrary, the evidence shows that in the 20 months between her husband’s passing and her receipt of the Options Letter, Ms. Oddleifson filed notices of objection to two GLGI reassessments that she received. Whether she did so herself or with the assistance of an advisor, she was clearly able to manage GLGI matters on her own. [22]
+[46] Ms. Oddleifson submits that she is unsophisticated but the evidence does not support that assertion. At the time she signed the Agreement to be Bound, Ms. Oddleifson was in her fifties. She has a bachelor’s degree from the University of Manitoba and was running a successful business selling health and wellness products. Ms. Oddleifson reported net business income from that business ranging from $39,911 to $105,972 during the years under appeal. She had previously represented herself in interactions with the CRA regarding her business.
+[47] Ms. Oddleifson’s affidavit also does not say what steps, if any, she took to try to extend the 30-day deadline. The CRA has no record of Ms. Oddleifson contacting them regarding the Options Letter either before or after the deadline.
+[48] Finally, Ms. Oddleifson’s affidavit does not say what steps, if any, she took to obtain advice after the 30-day deadline. My view of the situation would be different if Ms. Oddleifson had signed the Agreement to be Bound because she felt pressured and then sought professional advice and, on the basis of that advice, concluded that she had made a mistake. In those circumstances, if Ms. Oddleifson had then contacted the CRA and sought to repudiate her agreement, I would be far more sympathetic to her position. However, this is not what happened. Ms. Oddleifson made a choice. She stuck with that choice. That choice had consequences.
+[49] In light of all of the foregoing, to the extent that Ms. Oddleifson is relying on the 30-day response period to claim that her waiver was ineffective, I find, based on the evidence before me, that 30 days was an adequate period to respond.
+F. Conclusion
+[50] On the basis of all of the foregoing, the Respondent’s motion is granted. The Appellant’s appeals of the reassessments of her 2005, 2006, 2007, 2010 and 2011 tax years are quashed.
+G. Costs
+[51] Costs are awarded to the Respondent. The Respondent has advised the Court that she is seeking costs in accordance with Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure). Costs are awarded accordingly.
+Signed at Ottawa, Canada, this 31st day of March 2021.
+“David E. Graham”
+Graham J.
+CITATION:
+2021 TCC 26
+COURT FILE NO.:
+2017-2382(IT)G
+STYLE OF CAUSE:
+ENID D. ODDLEIFSON and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 8, 2021
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+March 31, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Ainslie Schroeder
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff D. Pniowsky
+Firm:
+Thompson, Dorfman Sweatman LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2015 TCC 244.
+[2] 2017 TCC 222.
+[3] [1994] 2 SCR 490.
+[4] Abdalla (TCC), at paras. 19 and 20.
+[5] Abdalla (TCC), at para. 21.
+[6] 2019 FCA 5.
+[7] Abdalla (FCA), at para. 4.
+[8] 2019 CarswellNat 2472.
+[9] The parties agree that there are no material differences between the Options Letter, Agreement to be Bound and Settlement Agreement received by Ms. Abdalla and those received by Ms. Oddleifson.
+[10] See Exeter v. Canada (Attorney General), 2015 FCA 260, at para. 9.
+[11] Appellant’s Written Submissions, at para. 4.
+[12] Affidavit of Norman Yuan (October 8, 2019), Exhibit “H”.
+[13] Affidavit of Enid Oddleifson dated October 25, 2019, at para. 25.
+[14] Affidavit of Enid Oddleifson, at para. 22.
+[15] Affidavit of Enid Oddleifson, at paras. 23 and 24.
+[16] Affidavit of Enid Oddleifson, at para. 23.
+[17] 2020 TCC 104.
+[18] McMahon, at para. 41.
+[19] McMahon, at para. 45.
+[20] Abdalla (TCC), at para. 22.
+[21] Affidavit of Enid Oddleifson, at para. 20.
+[22] The evidence is silent on whether Ms. Oddleifson filed her 2013 tax return and her husband’s date of death tax return during this 20-month period so I cannot draw any conclusions as to her ability to manage her tax affairs in general.

@@ -1,0 +1,219 @@
+---
+title: "Lapchuk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27478/index.do"
+last_modified: "2004-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 758"
+citation2: ""
+neutral_citation: "2004 CCI 758"
+decision_date: "2004-12-22"
+language: "fr"
+item_id: "27478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 37
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:42:44.607000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6cb3546cdbcc9b46017191b722e77c3931f1b7301384c5fab28b98bca78b3836"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lapchuk v. The Queen
+
+- Citation: 2004 CCI 758
+- Decision date: 2004-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 37, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lapchuk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-22
+Référence neutre
+2004 CCI 758
+Numéro de dossier
+2003-3888(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI758
+Date : 20041222
+Dossier : 2003-3888(IT)I
+ENTRE :
+DAVID LAPCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Regina (Saskatchewan), le 31 août 2004.)
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été entendu à Regina (Saskatchewan), le 30 août 2004. L'appelant était le seul témoin.
+[2] Les paragraphes 7 à 26, inclusivement, de la réponse à l'avis d'appel présentent les questions en litige. Les voici :
+7. Les déclarations de revenus pour les années 1998, 1999, 2000 et 2001 ont fait l'objet de cotisations initiales établies comme suit :
+Année d'imposition
+Date de la cotisation initiale
+1998
+17 juin 1999
+1999
+27 mars 2000
+2000
+22 mars 2001
+2001
+11 avril 2002
+8. Dans le calcul de ses revenus pour l'année d'imposition 1998, l'appelant n'a pas déclaré de revenus d'intérêts ou d'autres revenus de placement.
+9. Dans le calcul de ses revenus pour l'année d'imposition 1999, l'appelant a déduit une perte déductible au titre d'un placement d'entreprise (ci-après « PDTPE » ) pour l'année d'imposition 1999. Le calcul a été fait comme suit :
+Perte au titre d'un placement d'entreprise ( « PTPE » ) 69 615 $
+x ¾
+PDTPE 52 211 $
+La déduction de la PDTPE a engendré une perte autre qu'en capital de 24 954 $ pour l'année d'imposition 1999.
+10. Dans le calcul de ses revenus pour l'année d'imposition 2000, l'appelant a déduit une perte autre qu'en capital de 22 628 $ reportée prospectivement de l'année d'imposition 1999.
+11. Dans le calcul de ses revenus pour l'année d'imposition 2001, l'appelant a déduit une perte autre qu'en capital de 1 403 $ reportée prospectivement de l'année d'imposition 1999.
+12. Le ministre du Revenu national (le « ministre » ) a établi une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 1998 afin d'inclure les revenus d'intérêts non déclarés de 516 $ gagnés pour des fonds détenus en fiducie par l'avocat de l'appelant.
+13. Le ministre a établi une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 1999. Il a réduit la PTPE à 52 649 $ et la PDTPE à 39 487 $. Le rajustement a donné lieu à la réduction de la perte autre qu'en capital pour l'année d'imposition 1999, qui s'élève donc à 12 230 $.
+14. Étant donné que la perte autre qu'en capital pour l'année d'imposition 1999 a été réduite à 12 230 $, le ministre a établi des nouvelles cotisations à l'égard de l'appelant pour :
+(a) l'année d'imposition 2000 afin de réduire à 12 230 $ la perte autre qu'en capital reportée prospectivement de l'année 1999;
+(b) l'année d'imposition 2001 afin de refuser la perte autre qu'en capital reportée prospectivement de l'année 1999.
+15. Les avis de nouvelle cotisation expliqués aux paragraphes 12, 13 et 14 ci-dessus pour les années d'imposition 1998, 1999, 2000 et 2001 sont datés du 22 avril 2002.
+16. L'appelant a déposé un avis d'opposition concernant les nouvelles cotisations pour les années 1999 et 2000. Cet avis d'opposition est daté du 18 juillet 2002.
+17. Dans une lettre datée du 2 avril 2003, la période pour la présentation d'un avis d'opposition pour les années d'imposition 1998 et 2001 a été prolongée jusqu'à la date de la lettre, et l'avis d'opposition a été réputé valide pour ces deux années d'imposition.
+18. En réponse aux avis d'opposition, le ministre a ratifié les nouvelles cotisations établies pour les années 1998, 1999, 2000 et 2001 par un avis de ratification daté du 30 mai 2003.
+19. L'appelant a déposé un avis d'appel à la Cour canadienne de l'impôt le 5 novembre 2003.
+20. Lorsqu'il a établi les nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 1998, 1999, 2000 et 2001 et lorsqu'il a confirmé ces nouvelles cotisations, le ministre a émis les hypothèses de fait suivantes :
+Revenus d'intérêts - année d'imposition 1998
+(a) le compte de fiducie de l'appelant, détenu par le cabinet de son avocat (Shumiatcher Hrycan), s'est vu créditer des intérêts de 119,65 $ le 31 décembre 1997, de 516,69 $ le 31 décembre 1998 et de 191,26 $ le 28 avril 1999;
+(b) l'appelant a déclaré les revenus d'intérêts de 119,65 $ pour l'année d'imposition 1997 et de 191,26 $ pour l'année d'imposition 1999;
+(c) l'appelant n'a pas déclaré de revenus d'intérêts pour l'année d'imposition 1998;
+Application de la PDTPE et de la perte autre qu'en capital - années d'imposition 1999, 2000 et 2001
+(d) l'appelant était actionnaire de SARD;
+(e) la caisse de crédit Sherwood (ci-après la « caisse de crédit » ) a rappelé ses prêts à SARD;
+(f) la caisse de crédit a saisi les biens de SARD;
+(g) SARD a cessé ses activités au cours de l'année d'imposition 1990;
+(h) SARD et l'appelant ont poursuivi la caisse de crédit en justice;
+(i) la poursuite a débuté au cours de l'année d'imposition 1991;
+(j) la poursuite s'est conclue au cours de l'année d'imposition 1999, et la caisse de crédit a eu gain de cause;
+(k) l'appelant a déduit une PDTPE de 6 649 $ pour l'année d'imposition 1992 et de 7 006 $ pour l'année d'imposition 1993 à l'égard de SARD;
+(l) l'appelant s'est vu accorder une PDTPE de 6 649 $ pour l'année d'imposition 1992 et de 7 006 $ pour l'année d'imposition 1993 à l'égard de SARD;
+(m) l'appelant a déduit des pertes d'entreprise pour les années d'imposition 1994 et 1995 (les « pertes » d'entreprise » ) comme suit :
+1994
+1995
+Honoraires
+235,00 $
+0,00 $
+Loyer
+1 169,90 $
+999,32 $
+Frais juridiques
+2 450,00 $
+12 305,50 $
+Frais de gestion
+0,00 $
+195,00 $
+Total
+3 854,90 $
+13 499,82 $
+(n) les pertes d'entreprise ont été enregistrées par l'appelant au nom de SARD et constituent des avances d'actionnaires faites à SARD;
+(o) le ministre a établi des nouvelles cotisations (datées du 21 avril 1997) à l'égard de l'appelant pour les années d'imposition 1994 et 1995 dans lesquelles il refuse les pertes d'entreprise;
+(p) l'appelant a déposé des avis d'opposition aux nouvelles cotisations établies pour les années d'imposition 1994 et 1995;
+(q) le ministre a ratifié les nouvelles cotisations pour les années d'imposition 1994 et 1995 par un avis de ratification daté du 9 septembre 1997;
+(r) l'appelant a déposé un avis d'appel à la Cour canadienne de l'impôt le 16 octobre 1997 à l'égard des années d'imposition 1994 et 1995;
+(s) le 30 novembre 1999, la Cour canadienne de l'impôt a rendu un jugement dans lequel l'appel visant les années d'imposition 1994 et 1995 de l'appelant est rejeté;
+(t) les frais juridiques qu'a payés l'appelant concernant la poursuite contre la caisse de crédit constituaient des avances d'actionnaire;
+(u) les frais juridiques engagés par l'appelant avant l'année d'imposition 1994 ont été admis dans ses déclarations de revenus des années antérieures à 1994;
+(v) SARD avait une dette de 52 649,20 $ envers l'appelant à la fin de l'année d'imposition 1999 et, selon l'appelant, cette dette était devenue une créance irrécouvrable au cours de l'année 1999;
+(w) dans l'année d'imposition 1999, l'appelant a enregistré une PTPE, au sens de l'alinéa 39(1)c) de la Loi de l'impôt sur le revenu, s'élevant à 52 649,20 $ et qu'il a calculée comme suit :
+Total des états de Shumiatcher (y compris les intérêts)
+37 793,49 $
+Moins : les montants pour 1992
+(800,00 $)
+Moins : les montants pour 1993
+(2 600,00 $)
+Total des paiements à Shumiatcher admis
+34 393,49 $
+Frais juridiques - Duncan
+2 253,68 $
+Total des frais juridiques
+36 647,17 $
+Compte de prêts des actionnaires de 1990
+15 669,22 $
+Capital-actions
+100,00 $
+Enquête Robinson
+125,31 $
+Enchère Browns
+107,50 $
+Perte brute au titre d'un placement d'entreprise
+52 649,20 $
+B. QUESTIONS EN LITIGE
+21. Voici les questions en litige :
+(a) les revenus d'intérêts ont-ils été inclus à juste titre dans les revenus de l'appelant pour l'année d'imposition 1998;
+(b) le montant de la PTPE a-t-il été calculé correctement pour l'année d'imposition 1999;
+(c) la perte autre qu'en capital enregistrée en 1999 et reportée prospectivement à l'année d'imposition 2000 a-t-elle été calculée correctement;
+(d) reste-t-il toujours une partie de la perte autre qu'en capital enregistrée en 1999 à reporter prospectivement à l'année d'imposition 2001?
+C. DISPOSITIONS DE LA LOI, MOYENS INVOQUÉS ET RÉPARATIONS SOLLICITÉES
+22. Il s'appuie sur les articles 3, 12 et 39, sur les paragraphes 50(1) et 248(1) et sur l'alinéa 111(1)a) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi » ) telle qu'elle a été modifiée pour les années d'imposition 1998, 1999, 2000 et 2001.
+23. Il soutient que les revenus d'intérêts ont été inclus à juste titre par le ministre dans les revenus de l'appelant pour l'année d'imposition 1998, en application de l'alinéa 12(1)c) de la Loi.
+24. Il soutient que le ministre a calculé correctement la PTPE de 52 649,20 $ pour l'année d'imposition 1999 en application de l'alinéa 39(1)c) de la Loi.
+25. Il soutient que la perte autre qu'en capital enregistrée au cours de l'année d'imposition 1999 et reportée prospectivement à l'année d'imposition 2000 a été calculée correctement.
+26. Il soutient également qu'étant donné que la totalité de la perte autre qu'en capital de 12 230 $ enregistrée au cours de l'année d'imposition 1999 a été admise pour l'année d'imposition 2000 en application de l'alinéa 111(1)a) de la Loi, il n'y a plus rien à reporter prospectivement à l'année d'imposition 2001 en application de l'alinéa 111(1)a) de la Loi.
+[3] Lors de l'audience, l'appelant a admis que la cotisation avait été établie correctement en ce qui concerne les intérêts pour 1998 indiqués au paragraphe 12 de la réponse à l'avis d'appel.
+[4] Aucune des hypothèses indiquées au paragraphe 20 n'ont été réfutées. Même, plus précisément, l'intimée a convaincu la Cour que les calculs à l'alinéa 20w) étaient appropriés.
+[5] Lors de l'audience, l'appelant a soutenu qu'il incombait à l'intimée de démontrer que les dépenses qu'il avait déduites n'étaient pas des dépenses déjà déduites par l'appelant et admises par l'intimée dans des années antérieures. C'est faut. La loi veut qu'il incombe à l'appelant de prouver ses allégations dans le cadre d'un appel en matière d'impôt, comme l'a expliqué la Cour suprême du Canada dans l'arrêt Johnson c. MNR.
+[6] L'appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 22e jour de décembre 2004.
+"D.W. Beaubier"
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de janvier 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2004CCI758
+NO DU DOSSIER DE LA COUR :
+2003-3888(IT)I
+INTITULÉ DE LA CAUSE :
+David Lapchuk c. La Reine
+LIEU DE L'AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L'AUDIENCE :
+Le 30 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge D.W. Beaubier
+DATE DES MOTIFS RENDUS ORALEMENT :
+Le 22 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'appelant :
+Me Penny Piper
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

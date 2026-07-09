@@ -1,0 +1,205 @@
+---
+title: "Les Portes Arco Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28586/index.do"
+last_modified: "2008-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 138"
+citation2: ""
+neutral_citation: "2008 CCI 138"
+decision_date: "2008-04-03"
+language: "fr"
+item_id: "28586"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1053
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:56:39.188000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b3a32674211eb16958b29a1b92a6a4bb9d68b02396b3a3f9a13d1d55789a1f1f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Portes Arco Inc. c. M.R.N.
+
+- Citation: 2008 CCI 138
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1053, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Portes Arco Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-03
+Référence neutre
+2008 CCI 138
+Numéro de dossier
+2007-3959(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3959(EI)
+ENTRE :
+LES PORTES ARCO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 26 février 2008 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI138
+Date : 20080403
+Dossier : 2007-3959(EI)
+ENTRE :
+LES PORTES ARCO INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision au terme de laquelle le ministre du Revenu national (le « ministre ») a conclu que Pierre‑André Binette (« Pierre‑André »), Patrick Binette (« Patrick ») et Chantale Binette (« Chantale ») avaient exercé un emploi assurable au service de l’appelante « Les Portes Arco inc. » durant la période allant du 1er janvier 2006 au 21 décembre 2006.
+[2] Le ministre a conclu que l’appelante était réputée ne pas avoir de liens de dépendance avec les travailleurs Pierre‑André, Patrick et Chantale dans le cadre de leur emploi. Le ministre était convaincu qu’il était raisonnable de conclure, compte tenu de toutes les circonstances, que l’appelante et ces personnes auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[3] Pour en arriver à la décision dont il fait appel, le ministre s’est appuyé sur les présomptions de fait suivantes :
+5. […]
+a) l’appelante a été constituée en société le 2 juin 1977;
+b) l’appelante exploitait une entreprise de fabrication et de distribution de portes et de fenêtres et également, elle exploitait un magasin pour la vente de portes, de quincaillerie, de poignées, de moulures et de cadrages;
+c) l’appelante était en exploitation à l’année longue;
+d) l’entreprise était ouverte du lundi au vendredi de 8 h à 12 h et de 13 h à 17 h;
+e) l’appelante avait un chiffre d’affaires d’environ 3 millions par année;
+f) l’appelante employait 10 travailleurs dont les 3 actionnaires;
+g) Pierre‑André Binette travaillait pour l’appelante depuis 1977;
+h) Pierre‑André Binette travaillait comme représentant des ventes sur la route, il rencontrait les clients et il établissait les estimations;
+i) Patrick Binette travaillait pour l’appelante depuis 1999;
+j) Patrick Binette travaillait comme directeur de la production, il négociait les prix avec les fournisseurs, il s’occupait des achats et il supervisait le personnel de l’usine;
+k) Chantale Binette travaillait pour l’appelante depuis 1998;
+l) Chantale Binette travaillait comme secrétaire administrative, elle s’occupait de la comptabilité, des salaires et des remises gouvernementales;
+m) les travailleurs travaillaient de 40 à 45 heures par semaine pour l’appelante;
+n) les travailleurs étaient rémunérés au salaire de 700 $ par semaine chacun;
+o) durant la période en litige, les travailleurs avaient reçu un boni, décidé par le conseil d’administration, de 15 000 $ chacun;
+p) le salaire était versé régulièrement aux travailleurs à toutes les semaines par dépôt direct;
+q) les travailleurs, ainsi que l’ensemble des employés, bénéficiaient d’une assurance salaire et d’une assurance groupe pour les médicaments;
+r) les travailleurs bénéficiaient de deux semaines de vacances durant l’été et de deux semaines durant l’hiver;
+s) les décisions importantes pour l’appelante étaient prises par les trois administrateurs;
+t) un lien de subordination existait entre l’appelante et les travailleurs;
+u) l’appelante avait un droit de contrôle sur les travailleurs et ce contrôle était exercé;
+6. […]
+a) les actionnaires de l’appelante avec des actions votantes étaient :
+Pierre‑André Binette 33 1/3% des actions
+Patrick Binette 33 1/3% des actions
+Chantale Binette 33 1/3% des actions
+b) Pierre‑André Binette est le père de Patrick Binette et de Chantale Binette
+c) les travailleurs sont liés par les liens du sang à un groupe de personnes qui contrôlent l’appelante.
+7. […]
+a) le salaire et les bonis des travailleurs avaient été décidés par entente des trois administrateurs;
+b) la rémunération annuelle, incluant les bonis, totalisait 52 000 $ pour chaque travailleur;
+c) les travailleurs étaient responsables de leur secteur d’activité respectif;
+d) compte tenu de leurs fonctions et de leurs responsabilités chez l’appelante, la rémunération des travailleurs était raisonnable;
+e) les travailleurs étaient au service de l’appelante depuis plusieurs années;
+f) les travailleurs oeuvraient à l’année longue pour l’appelante;
+g) la durée du travail des travailleurs était raisonnable;
+h) l’appelante était bénéficiaire d’une police d’assurance‑vie sur la vie des trois actionnaires dont les primes étaient payées par l’appelante;
+i) le travail des travailleurs était nécessaire et important pour la bonne marche de l’entreprise de l’appelante;
+j) les modalités, la nature et l’importance du travail des travailleurs étaient raisonnables.
+[4] Dans un premier temps, les alinéas suivants ont été admis : 5 a), b), c), d), e), f), g), h), i), j), k), l), n), p) et q), 6 a), b) et c), et 7 a), c), e), f), h) et i). Les alinéas suivants ont été niés : 5 m), n), o), r), s), t) et u) et 7 b), g) et j).
+[5] Seule madame Chantale Binette a témoigné. Elle a expliqué les tâches respectives de son père Pierre‑André de son frère Patrick et ses propres tâches.
+[6] En résumé, Pierre‑André s’occupait de faire le travail de représentant et les ventes. Il était responsable de ce qui touchait les différents chantiers de construction où devaient être livrées les fenêtres que l’entreprise fabriquait. Quant à Patrick Binette, il s’occupait de la production.
+[7] Finalement, Chantale a indiqué qu’elle était responsable de la gestion administrative en ce qu’elle s’occupait des comptes payables, recevables, des relations avec les banquiers, de la comptabilité, de la facturation, de la préparation de la paye et des différents comptes‑rendus qu’il fallait produire dans le cadre de l’exploitation de cette entreprise.
+[8] Selon le témoin, bien que la société était exploitée à l’année, c’est pendant les mois de mai à d’octobre, soit la période correspondant en général à la construction, que son carnet de commandes était le plus rempli.
+[9] Quant au nombre d’heures de travail par semaine effectuées par chacun, madame Binette a estimé que Patrick travaillait de 70 à 80 heures, que Pierre‑André travaillait 50 à 60 heures par semaine et qu’elle travaillait de 35 à 37 heures par semaine.
+[10] Les jours ouvrables de la société étaient, en principe, le lundi au vendredi et le samedi jusqu’à midi. Pierre‑André et Patrick travaillaient cependant régulièrement après les heures normales de travail, c’est-à-dire en soirée et le samedi.
+[11] Tous les trois bénéficiaient des conditions de travail suivantes : une police d’assurance‑vie dont la totalité des primes était payée par la société, six semaines de vacances rémunérées et une grande liberté dans leur champ d’activités respectif.
+[12] Les conditions de travail des employés de l’usine n’étaient pas comparables à celles dont les membres de la famille Binette bénéficiaient. À titre d’exemple, les vacances étaient beaucoup plus courtes étant donné que les employés étaient rémunérés selon la formule de 4 % du salaire gagné. De plus, ils ne bénéficiaient pas d’une assurance‑vie aussi généreuse que celle offerte aux membres de la famille Binette.
+[13] Quant au salaire, les employés étaient rémunérés à l’heure alors que les Binette touchaient un montant hebdomadaire fixe sans lien avec le nombre d’heures travaillées. Tous les trois recevaient un bonus annuel de 15 000 $.
+[14] Pierre‑André, le père de Patrick et de Chantale, a planifié de quitter définitivement la société à compter de novembre 2009. D’ici là, les parties ont conclu différentes ententes aux termes desquelles elles doivent acquérir graduellement les actions détenues par leur père.
+[15] Depuis novembre 2007, à la suite de l’acquisition d’une autre société par la société appelante, c’est‑à‑dire Acier inc., Patrick ne travaille plus pour le compte de Les Portes Arco inc. Il se consacre totalement aux activités de la nouvelle compagnie Acier inc.
+[16] Après le départ de Patrick, un employé déjà en place a été promu et assume dans une proportion d’environ 60 % les tâches qu’occupaient Patrick et cela pour une rémunération qui se situe à environ 620 $ semaine. Quant au 40 % de responsabilités restantes, madame Lacroix a indiqué qu’elle et son père se les étaient partagées.
+[17] Appelée à fournir des exemples à l’appui de la thèse qu’il n’y avait pas de lien de subordination, madame Binette a expliqué qu’à l’exception de l’obligation d’ouvrir et de fermer l’entreprise, elle exerçait ses fonctions de façon autonome, notamment en ce qui concerne la prise de décisions importantes. L’exemple qu’elle a donné pour illustrer son propos est l’achat d’un placement très important auprès d’une institution financière.
+[18] Chantale Binette a finalement expliqué que deux dames travaillaient également au service des ventes; elles étaient rémunérées à raison de 9,75 $ et de 10,50 $ l’heure, à quoi s’ajoutait une commission de 1 % sur les ventes qu’elles effectuaient.
+[19] Appelée à indiquer ce que pouvait représenter la commission de 1 %, Chantale Binette a indiqué que, certaines semaines, cela pouvait représenter un montant total annuel de plus ou moins 4 000 $. Elle se rappelait d’avoir rempli un T‑4, seulement pour la commission, s’élevant à un montant quelque peu supérieur à 5 000 $.
+[20] Les faits pris en considération lors de l’analyse à l’origine de la décision, objet du présent appel, sont les mêmes, à l’exception des heures travaillées. Il a été établi, devant la Cour que le nombre d’heures travaillées par chacun des actionnaires était différent de celui qui a été présenté au moment de l’analyse et que l’écart était important.
+[21] Il s’agit d’un dossier où le travail exécuté est exclu des emplois assurables en raison du lien de dépendance entre les personnes concernées et l’entreprise qui a payé leur rémunération.
+[22] Exclu en principe, le travail sera considéré assurable s’il est raisonnable de conclure, compte tenu de tous les faits et circonstances relatifs à la façon dont le travail a été exécuté, qu’un contrat de travail à peu près semblable aurait été conclu si les personnes concernées et l’entreprise n’avaient pas eu un lien de dépendance.
+[23] À cet effet, les dispositions pertinentes c’est-à-dire les alinéas 5(2)i) et 5(3)a) et b) se lisent comme suit :
+5. (2) N'est pas un emploi assurable :
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5. (3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance
+[24] En l’espèce, le ministre avait conclu que le contrat de travail était à peu près semblable à celui qu’avait conclu un tiers.
+[25] L’appelante a soutenu qu’il s’agissait là d’un travail caractérisé par des particularités telles qu’il était manifestement déraisonnable de conclure que des tiers auraient bénéficié de conditions de travail à peu près semblables.
+[26] À cet égard, elle a souligné le fait que le remplaçant de Pierre‑André touchait sensiblement le même salaire que ce dernier bien que sa charge de travail ne correspondait qu’à environ 60 % de celle de Pierre-André.
+[27] Elle a aussi fait remarquer que le nombre d’heures travaillées par les trois actionnaires variait beaucoup. Chantale travaillait de 35 à 37 heures, Pierre‑André de 50 à 60 heures et Patrick de 60 à 70 heures.
+[28] Il a été aussi question des vacances plus généreuses en temps et en salaire payé que celles des autres employés, et des primes d’assurance‑vie des Binette qui étaient assumées par la société.
+[29] Il est évident que ces différents éléments constituent une preuve lourde et certainement prépondérante à l’effet que les trois actionnaires bénéficiaient de conditions de travail qui ne pouvaient en aucune façon être comparées ou comparables à celles dont les autres employés bénéficiaient, soit des conditions plus avantageuses à plusieurs égards.
+[30] Toutefois, la véritable question qui doit en l’espèce être posée est la suivante : est-il raisonnable d’imaginer une situation où trois tiers se seraient vus offrir des conditions de travail comparables ou similaires à celles dont il a été fait mention en l’espèce? À cet effet, je reprends l’analyse que j’exprimais dans l’affaire 9022‑0377 Québec inc., (Évasion Sports D.R.) c. Le ministre du Revenu national, 2004-3731(EI), 2005CCI474, aux paragraphes 49 à 59 inclusivement :
+49 L'appelante a beaucoup insisté sur la pertinence de la comparaison disponible entre le statut de Roger Gagnon et celle qui a suivi son départ. En effet, après la vente des actions de Roger Gagnon aux deux autres actionnaires, soit à son frère Denis et à monsieur Denis Coiffier, devenus chacun détenteurs de 50 % des actions, la société a dû combler le vide créé par le départ de Roger. Elle a alors retenu les services de monsieur Pierre Deschênes.
+50 À l'appui de ses prétentions, l'appelante a comparé le salaire, les conditions de travail, les contraintes au niveau des absences, les vacances, etc., de Roger Gagnon et de Pierre Deschênes; ce dernier, après le départ de Roger Gagnon, s'est vu confier une grande partie du travail exécuté jusque-là par Roger Gagnon.
+51 La comparaison ne m'apparaît pas totalement pertinente étant donné que Pierre Deschênes ne possédait aucune action dans l'entreprise. Ce qu'une société demande et exige de ses actionnaires qui occupent un emploi dans le cadre des activités commerciales, après avoir accepté les modalités de l'emploi, n'a rien à voir avec le traitement réservé, offert ou accepté par quelqu'un qui ne possède aucune action dans la société.
+52 Lorsque des actionnaires ayant ou non un lien de dépendance entre eux décident d'avoir une politique salariale pour les actionnaires-travailleurs, qui est très mesquine ou généreuse, très permissive ou très contraignante, cela n'a rien à voir avec les conditions de travail des autres employés.
+53 Si des actionnaires-travailleurs ont accepté des conditions, que cela les avantage ou les désavantage face aux autres travailleurs de la société, cela n'a rien à voir avec l'existence d'un lien de dépendance. La seule question pertinente est de savoir s'il y a eu travail, rémunération, pouvoir d'intervention et contrôle de la société sur un ou tous les actionnaires-travailleurs? Si oui, il y a contrat de travail. En présence d'une situation concernée par l'exclusion prévue à l'alinéa 5(2)i) de la Loi, la comparaison du travail doit se faire entre un actionnaire-travailleur n'ayant aucun lien de dépendance, et non pas avec les autres employés ne possédant aucune action, et cela, même le statut d'actionnaire et le statut de travailleur sont deux statuts fondamentaux distincts.
+54 Prétendre le contraire aurait pour effet de créer une grave incohérence à l'endroit de toutes les P.M.E. où les actionnaires qui n'ont pas de lien de dépendance entre eux décident de prévoir une politique particulière pour les actionnaires‑travailleurs . N'étant pas assujettis à l'exercice d'un pouvoir discrétionnaire, étant donné l'absence de lien de dépendance entre eux, ils verraient leur entente de travail jugée assurable et ce, même si leurs conditions de travail étaient extrêmement différentes de celles des autres travailleurs de la même entreprise.
+55 La très grande autonomie dont les actionnaires-travailleurs jouissent dans le cadre de l'exécution de leur travail, l'importance de l'emploi, le salaire substantiellement inférieur ou supérieur des actionnaires-travailleurs par rapport aux autres travailleurs, l'absence totale de vacances ou la possibilité de prendre des vacances sans avis d'une durée dépassant celle des autres employés et ainsi de suite, sont tous des éléments que les actionnaires-travailleurs n'ayant pas de lien de dépendance ne peuvent invoquer pour se soustraire à l'obligation de payer des cotisations au motif que leur entente de travail n'est pas un véritable contrat de louage de services.
+56 Le législateur a expressément prévu la question du travail exécuté par des personnes qui détiennent des actions dans l'entreprise pour laquelle elles travaillent. Il s'agit de l'alinéa 5(2)b) de la Loi, qui prévoit que le travail exécuté par un actionnaire‑travailleur, propriétaire de plus de 40 % des actions avec droit de vote, est automatiquement exclu des emplois assurables.
+57 Le statut du actionnaire-travailleur détenant moins de 40 % des actions avec droit de vote est reconnu par la Loi. Conséquemment, lorsqu'une ou des comparaisons sont nécessaires dans le cadre d'un dossier où il existe un lien de dépendance, l'analyse et les comparaisons doivent se faire entre travailleurs ayant la ou les mêmes qualités et la qualité d'actionnaire ne peut être occultée de l'analyse.
+58 Lorsqu'une personne investit dans un domaine dans lequel elle n'a pas ou elle a peu de connaissances et que ses co-actionnaires ont compétence et expertise, il est plus que normal de s'en remettre à eux pour la bonne gestion de l'entreprise.
+59 Il devient alors fondamental pour cette personne de disposer de certains outils de contrôle ou d'intervention. En l'espèce, Denis Coiffier, outre les droits que lui conférait sa part de 40 % d'actions, a probablement été le promoteur de la convention des actionnaires qui lui fournissait un élément additionnel pour s'assurer de la bonne marche de l'entreprise et de la viabilité de son investissement.
+[31] En l’espèce, l’appelante a fait référence aux conditions de travail des employés de l’entreprise. Il s’agit là d’une comparaison tout à fait inappropriée puisqu’il est évident que les différences sont importantes et nombreuses.
+[32] Des comparaisons ne doivent être faites qu’à partir de situations semblables ou comparables. Il suffit d’imaginer une situation où le fondateur d’une entreprise, après une longue et prospère carrière, décide de planifier sa retraite et, pour ce faire, de s’entendre avec des employés‑cadres avec lesquels il travaille depuis un certain temps et en qui il a une totale confiance. Le scénario de transition pourrait se comparer avec les faits révélés par la preuve.
+[33] L’analyse à l’origine de la décision, objet du présent appel, a tenu compte de tous les faits pertinents et la conclusion du ministre est tout à fait raisonnable d’où, il n’y a donc pas lieu d’intervenir.
+[34] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI138
+Nº DU DOSSIER DE LA COUR : 2007-3959(EI)
+INTITULÉ DE LA CAUSE : LES PORTES ARCO INC., ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 26 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 3 avril 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Alain Gareau
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,148 @@
+Title: Manning Canning Kitchens Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521377/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-159-521377-manning-canning-kitchens-inc-v-the-king.md
+Document type: case_law
+Last modified: 2024-12-13
+
+# Manning Canning Kitchens Inc. v. The King
+
+- Citation: 2024 TCC 159
+- Decision date: 2024-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6037, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manning Canning Kitchens Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-01-17
+Neutral citation
+2024 TCC 159
+File numbers
+2023-2126(IT)I
+Judges and Taxing Officers
+Scott Bodie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-2126(IT)I
+BETWEEN:
+MANNING CANNING KITCHENS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 29 and 30, 2024, at Toronto, Ontario
+Before: The Honourable Justice Scott Bodie
+Appearances:
+Agent for the Appellant:
+Julie Bond
+Counsel for the Respondent:
+George Lin
+JUDGMENT
+The appeal from the Notice of Assessment issued on November 15, 2021 made under the Income Tax Act for the 2020 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 13th day of December 2024.
+“J. Scott Bodie”
+Bodie J.
+Citation: 2024 TCC 159
+Date: 20250117
+Docket: 2023-2126(IT)I
+BETWEEN:
+MANNING CANNING KITCHENS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bodie J.
+I. INTRODUCTION
+[1] The Appellant in this case, Manning Canning Kitchens Inc. (“Manning Canning”) is a Toronto‑based corporation that has been involved in the food and drink development, production and consultancy business since November 1, 2014. It claimed expenditures arising from activities it undertook during its taxation year ending July 31, 2020 (the “2020 taxation year”) in furtherance of a project, the objective of which was the development of a drink it ultimately brought to market and called Chrisoda, as scientific research and experimental development (“SR&ED”) expenditures. The Minister of National Revenue (the “Minister”) disallowed such expenditures as SR&ED on the basis that the activities undertaken by Manning Canning in the 2020 taxation year did not meet the definition of SR&ED in subsection 248(1) of the Income Tax Act (the “Act”). Manning Canning appeals that determination. All statutory references herein are to the Act.
+II. ISSUE
+[2] The issue in this appeal is whether in carrying out this project, Manning Canning faced one or more technological uncertainties, and if it did whether it addressed them utilizing a scientific methodology. It is the Minister’s position that Manning Canning did not meet any technological uncertainties in the course of the project, but rather carried on product development, utilizing non‑scientific procedures.
+[3] The relevant portion of the definition of SR&ED in subsection 248(1) reads as follows:
+248(1) “scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is...
+(c) experimental development, namely work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing materials, devices, products or processes, including incremental improvements thereto….
+[4] In Clevor Technologies Inc. v Her Majesty the Queen 2019 TCC 166 at paragraph 11, Justice Russell listed the five questions for determining whether activities constitute SR & ED, which were introduced by then Chief Justice Bowman in Northwest Hydraulic Consultants Ltd. v The Queen, [1998] 3 CTC 2520 and adopted by the Federal Court of Appeal in C.W. Agencies Inc. v The Queen, 2001 FCA 393 as follows:
+1)Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2)Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3)Did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of the hypotheses?
+4)Did the process result in a technological advancement?
+5)Was a detailed record of the hypotheses tested and results kept as the work progressed?
+[5] I will examine each of these questions below in the context of the facts as determined at trial. First, I would like to introduce the witnesses who appeared at trial. Each party called one witness. Manning Canning called Christine Manning who described herself as the founder and owner of Manning Canning. She noted that she is not a food scientist but she testified that she has a deep knowledge of consumer‑packaged goods, having previously worked in marketing for a consumer‑packaged goods company. Since forming Manning Canning in 2014 she has fully developed a line of preserves which Manning Canning produces and sells to retailers such as Whole Foods, Loblaws and Metro. She testified that through her experience, she has gained a solid understanding of the processes and approaches required in the area of developing food and beverages, and for this project she worked with food scientists to fill in any knowledge gaps where she felt they were apparent. I found Ms. Manning to be a reliable and credible witness.
+[6] The Respondent called Rehmat Chakera Nazarali who testified that she works as a Research and Technical Advisor (“RTA”) for the Canada Revenue Agency (the “CRA”). She said that she has worked in that capacity for nine years. She explained that she is the RTA who was assigned to review Manning Canning’s file for the 2020 taxation year. I found Ms. Nazarali to an honest and dedicated public servant who provided the Court with forthright and detailed explanations of the processes she followed and the conclusions she arrived at during the course of the audit. In her testimony, she demonstrated that she is well‑versed in the CRA’s policies and procedures with respect to the administration of the SR&ED program.
+[7] Before turning to an examination of the five questions listed above, I note that in his Northwest Hydraulic decision, then Chief Justice Bowman described the intent of Parliament in enacting the SR&ED program and the approach that courts should take in interpreting the enacting provisions because of that intent as follows:
+[11] The tax incentives given for doing SRED are intended to encourage scientific research in Canada (Conoltex Inc. v R. (1997), 97 D.T.C. 724 (T.C.C.)). As such, the legislation dealing with such incentives must be given “such fair, large and liberal construction and interpretation as best ensures the attainment of its objects” (Interpretation Act, section 12).
+III. ANALYSIS
+[8] I will now consider the five requirements in turn.
+(1) Technological Uncertainty [9] To qualify as SR&ED, a particular project must face a technical risk or uncertainty that cannot be resolved or addressed by routine engineering or standard procedures.
+[10] Ms. Manning explained that the objective of the project undertaken by Manning Canning in the 2020 taxation year was to develop a new product in the growing segment of consumer‑packaged goods which she described as better‑for‑you sodas. The product envisioned by Manning Canning was a vinegar‑based drink containing cold‑pressed juice that could be stored and ultimately sold in a can. In order to make the product economically viable the product had to be shelf‑stable at room temperature. It was the position of Manning Canning that because fruit was, in Ms. Manning’s words, “dirty by nature”, there was uncertainty as to whether it was technologically possible to develop a canned, shelf‑stable drink which contained cold‑pressed juice as a main ingredient. At the time, there was no such product on the market. The closet comparable products on the market at the time were heat‑treated and stored in glass bottles, making them much more expensive. The evidence showed that the first attempts Manning Canning made to develop a product that met its objective resulted in the cans exploding because the cold‑pressed juice products they were testing created microbial growth which released oxygen.
+[11] The Minister took issue with Manning Canning’s assertion that the objective of the project was to develop a cold‑pressed juice product that would be shelf‑stable at room temperature. Rather, it was the Minister’s position that the objective of the project was to increase the shelf‑life of the product without using pasteurization. The evidence showed that within the industry a product is considered to be shelf‑stable if it can remain stable at room temperature for a period of at least two years. It would have been a more modest objective to merely increase the shelf‑life of a product which either Manning Canning or a competitor had already developed. Moreover, if the objective of the project was to merely increase the shelf‑life of the product, in the view of the Minister, it was then more likely that the objective could be reached by developing a refrigerated, as opposed to a non‑refrigerated, drink. Since in the Minister’s view, refrigeration is a well‑known method for reducing the growth of yeast, bacteria and mold, the project could not have faced an uncertainty that could not have been resolved by routine engineering.
+[12] In support of its view of Manning Canning’s objective in undertaking the project, the Minister emphasized that Manning Canning’s description of the project set out in the Schedule T‑661 form it submitted to the CRA in support of its SR&ED claim (the “Schedule”), did not specifically state that the objective of the project was to develop a non‑refrigerated product. I am not persuaded by this contention. I acknowledge that the description of the project in the Schedule did not specify that the objective was to develop a non‑refrigerated product. However, it also did not state that the objective was to develop a refrigerated product. In the Schedule, Manning Canning said that its trials included observations of cans stored at both refrigerated temperatures and room temperatures. In both her examination‑in‑chief and cross‑examination Ms. Manning was firm that the objective at the outset of the project was to develop a cold‑pressed juice product that would be shelf‑stable at room temperature. She said that the trials Manning Canning conducted included both refrigerated cans and non‑refrigerated cans because they were trying to test the product under various conditions, but the overriding objective remained constant throughout.
+[13] I accept Ms. Manning’s evidence that the objective of the project was to develop a vinegar‑based product with cold‑pressed juice that could be shelf‑stable in a can at room temperature and that due to the microbial growth caused by the presence of the cold‑pressed juice, this objective presented Manning Canning with a serious challenge. It was far from certain when Manning Canning started the project the steps that would be necessary to meet this challenge or in fact, whether the challenge could be met at all. However being faced with an uncertain path towards an objective is not, in and of itself, enough to qualify a project as SR&ED. A taxpayer must also be able to prove, on a balance of probabilities, that the uncertainty could not be resolved though routine engineering or standard procedure.
+[14] It is the Minister’s position that Manning Canning failed to discharge this burden. The Minister takes the view that Manning Canning’s attempts to overcome the challenges manifested by exploding cans amounted to experimentation with preservatives that were generally available to competent professionals in the field, including potassium sorbate, sodium benzoate and Chiber. Ms. Manning said that after initial testing Manning Canning quickly moved away from potassium sorbate and sodium benzoate as they caused the product to take on a milky appearance that did not have the taste Manning Canning desired.
+[15] However, Manning Canning took a different position with regard to the substance called Chiber. Ms. Manning testified that Chiber is an extract from white button mushrooms that could be used as an all‑natural preservative. It is produced by a Canadian company called Chinova Bioworks. Ms. Manning testified that she and her team uncovered Chinova Bioworks and Chiber after extensive research. She explained that after speaking with Bioworks, she discovered that previously, Chiber had only been used in dairy products and had never been used in the type of product that Manning Canning was attempting to develop. However, after conferring with Chinova Bioworks, Manning Canning decided to begin a series of tests with Chiber in their product. Manning Canning discovered that it worked to decimate microbes in its product. This solved the problem of the exploding cans and ultimately was key to Manning Canning successfully bringing a product that met its objectives to market.
+[16] In Joel Theatrical Rigging Contractors (1980) Ltd. v Her Majesty the Queen 2017 TCC 6 at paragraph 17 Justice Sommerfeldt acknowledged that there is not a definitive definition of the term “routine engineering”. However, he noted that the term typically “describes techniques, procedures and data that are generally accessible to competent professionals in the field”. In Canafric Inc. v His Majesty the King 2023 TCC 108 at paragraph 89, then Chief Justice Rossiter said that “the lacking knowledge must exist in the base of scientific or technological knowledge, not simply be unknown to the claimant.”
+[17] I accept Ms. Manning’s evidence that prior to the testing that Manning Canning conducted with Chiber to stabilize Manning Canning’s juice based product, Chiber had not been used by food scientists including those working for Chinova Bioworks, outside of dairy. The introduction of Chiber was key to the successful development of the product as the other more readily known preservatives in the industry that were tested by Manning Canning to resolve the exploding cans issue did not produce satisfactory results. Accordingly, the testing of the preservative Chiber outside of its known application to dairy did not constitute routine engineering. I therefore conclude, on a balance of probabilities, that in undertaking the development of their cold‑pressed juice drink, Manning Canning faced a technological uncertainty that could not be resolved by routine engineering or standard procedure.
+(2) Formulation and Testing of Hypotheses [18] In his decision in Joel Theatrical Rigging Contractors (1980) Ltd., Justice Sommerfeldt, after reviewing the jurisprudence that considered the meaning of the word “hypothesis” concluded at paragraph 26 that a hypothesis is a statement to be tested by an experiment or a trial. Ms. Manning testified that throughout the project undertaken in the 2020 taxation year, there were numerous suppositions, which Manning Canning developed and then set about testing. For example, Ms. Manning testified that at some point in the development of the product, she and her food scientists determined that they could achieve shelf stability for her drink through the use of a preservative as opposed to the process of heat pasteurization, which was a more widely used method. This led to Manning Canning conducting tests with potassium sorbate, sodium benzoate and ultimately Chiber. I therefore conclude that Manning Canning formulated hypotheses throughout the development of their product aimed at eliminating a technological uncertainty which it then tested by experimentation or trial.
+(3) Scientific Method [19] It was the Minister’s position that Manning Canning had not undertaken a systematic investigation or search in the development of its product.
+[20] At paragraph 33 of Joel Theatrical Rigging Contractors (1980) Ltd., Justice Sommerfeldt summarized the characteristics which must be present in order to demonstrate that a scientific method had been adopted, as follows:
+The third requirement indicates that the procedures used should accord with established and objective principles of the scientific method, which is characterized by:
+• trained and systematic observation,
+• measurement and experiment, and
+• the formulation, testing and modification of hypotheses.
+[21] I find that the first characteristic was present. In her testimony, Ms. Manning described the systematic method followed by Manning Canning throughout the project as follows:
+“…We worked with a food scientist, Hale Foods, who has over 35 years of experience internationally, as well in Canada, of bringing complex food products to the marketplace. And we worked very closely with him on setting up a system of tests that we would implement.
+So we would test one thing. If that was successful, we would then move to the next set of tests that he had developed. If that was not — if that was not successful, we’d go back and look at the alternatives. If it was successful, we’d move on to the next test. So I would say that we followed as fairly — quite systematic approach to bringing this product to market.”
+[22] Secondly, the evidence showed that there was measurement and experiment. In further describing the process that was followed, Ms. Manning in her testimony stated as follows:
+“…So we would measure out volumes of the concentrate, combined with water and different levels of carbonation, to see how all three components worked together…So Brix is the level of sugar that a product has. And the higher the level of sugar, the - - the more likely the shelf‑life is going to be. Sugar acts as a great preservative. And the pH is the acidity level of the product.”
+[23] Ms. Manning’s statement that they would measure out the volumes of the concentrate, combined with water and different levels of carbonation is supported by the documentary evidence that was submitted at trial which records various experiments completed on various dates with varying measurements of concentrate and water used as well as the resulting pH and Brix levels.
+[24] Concerning the third characteristic of the use of the scientific method, Ms. Manning in her testimony provided various examples of the formulation, testing and modification of various hypotheses. One such example is the following:
+“One of our most expensive experiments was we thought we would do a small test run — this was before the discovery of Chiber — to see if the concentrate would be stable. Because one of our hypothesis was in a can, because there was no light present that that — the darkness might limit the microbial growth. So we did a test run in cans to see if we could maintain shelf stability, refrigerated. Everything — all our experiments started off refrigerated. And then when we proved it would be successful refrigerated, we moved to ambient temperatures. So our most expensive experiment was doing a test run in cans and that failed even in refrigerated temperatures.”
+[25] The evidence showed that when Manning Canning discovered that darkness would not impede microbial growth in the cold‑pressed juice product it wanted to develop, it modified to experiment with various preservatives, including Chiber.
+[26] Accordingly, I find that on a balance of probabilities, Manning Canning adopted a scientific method in carrying out the project.
+(4) Technological Advancement [27] In Northwest Hydraulic Consultants Ltd., then Chief Justice Bowman expressed the view that this question may be answered in the affirmative if the process at issue resulted in an advancement of general understanding. At paragraph 16(4)(a), he wrote:
+By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in China, may have made the same advance but his or her work is not generally known.
+[28] Given Ms. Manning’s long experience in the field of food and beverage production and marketing, which was not challenged by the Minister, I accept her as a person knowledgeable in that field. Further, I accept her evidence that in undertaking the project Manning Canning sought to fill what she described as a gap in the good‑for‑you beverage industry, by attempting to create a shelf‑stable, canned, cold‑pressed fruit juice‑based beverage. In order to accomplish this, Manning Canning was not able to follow a precedent or to reverse engineer a competitor’s product, as such product did not exist. Rather, through a series of experiments developed with its food scientists and with the assistance of Chinova Bioworks, who worked with Manning Canning to develop a new application for its unique preservative, Chiber, it successfully found a way to fill that gap. The evidence showed that the resulting product, Chrisoda, was ultimately brought to the market place, demonstrating to those in the food and beverage field that a canned, cold‑pressed juice, shelf‑stable product was technologically possible to produce. I therefore find that, on a balance of probabilities, the general knowledge of those in that field was advanced through the scientific methodologies and efforts pursued by Manning Canning.
+(5) Record of Hypotheses, Tests and Results [29] As Justice Sommerfeldt noted in paragraph 46 of Joel Theatrical Rigging Contractors (1980) Ltd. some cases have suggested that a written contemporaneous record of hypotheses tested and results kept may not be absolutely essential. For example, in Les Abeilles Service de Condtionnement Inc. v The Queen 2014 TCC 313 at paragraph 94, Justice Jorré stated that although the existence of contemporaneous documentation may be necessary to resolve factual disputes between the parties, “the existence of contemporaneous documentation, or contemporaneous documents with specific intent, is not a condition to the recognition of scientific research or experimental development.” The Minister challenged the existence of adequate documentation to support Manning Canning’s contention that it followed the scientific method. However, I accept Ms. Manning’s testimony that that throughout the 2020 taxation year, the company maintained contemporaneous documents sufficient to enable it to record its hypotheses, the testing it completed in furtherance of such hypotheses and the results of such tests. Ms. Manning said:
+“We have numerous files. Every single step along the way we would put what our hypothesis was, what we were testing and what the results were, and what actions we’d be taking based on those results.”
+[30] At trial Manning Canning introduced as evidence in support of this statement, what was described as a sampling of records that indicated the dates on which various tests were carried out, the hypothesis of such tests and the test results. While the records submitted may be difficult for someone unfamiliar with the goals, methods and research path followed by Manning Canning to decipher, it is important keep in mind that the purpose of such documentation is to enable the party conducting the research to keep track of the hypotheses formulated, the tests conducted and the results of such tests to facilitate proper follow up action. Ms. Manning’s testimony indicated that the documentation kept by Manning Canning, a sampling of which was submitted at trial, fulfilled this purpose. I accept that evidence.
+IV. CONCLUSION
+[31] I therefore find that on a balance of probabilities, Manning Canning successfully discharged its burden to answer the five questions referred to above in the affirmative. The project undertaken by Manning Canning in the 2020 taxation year accordingly qualifies as SR&ED. This appeal, brought under the Court’s informal process, is thereby allowed without costs, and the assessment at issue in this appeal is referred back to the Minister for reconsideration and reassessment.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated December 13, 2024.
+Signed at Québec City, Québec, this 17th day of January 2025.
+“J. Scott Bodie”
+Bodie J.
+CITATION:
+2024 TCC 159
+COURT FILE NO.:
+2023-2126(IT)I
+STYLE OF CAUSE:
+MANNING CANNING KITCHENS INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+October 29 and 30, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Scott Bodie
+DATE OF JUDGMENT:
+December 13, 2024
+DATE OF AMENDED REASONS FOR JUDGMENT:
+January 17, 2025
+APPEARANCES:
+Agent for the Appellant:
+Julie Bond
+Counsel for the Respondent:
+George Lin
+AGENT OF RECORD:
+For the Appellant:
+Name:
+Julie Bond
+Firm:
+Bond Consulting Group 920 The East Mall, Suite 300 Etobicoke, ON M9B 6K1
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

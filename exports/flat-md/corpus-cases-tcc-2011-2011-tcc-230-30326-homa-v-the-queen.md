@@ -1,0 +1,164 @@
+---
+title: "Homa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30326/index.do"
+last_modified: "2011-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 230"
+citation2: ""
+neutral_citation: "2011 TCC 230"
+decision_date: "2011-04-28"
+language: "en"
+item_id: "30326"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8030
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:38:51.637000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb83609bbb70c7bbd7638c613ecf1c4b33cd349830ed86d3c9771b3abc5dbb1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Homa v. The Queen
+
+- Citation: 2011 TCC 230
+- Decision date: 2011-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8030, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Homa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-28
+Neutral citation
+2011 TCC 230
+File numbers
+2010-3948(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3948(IT)I
+BETWEEN:
+DAVID HOMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 31, 2011 at Ottawa, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shane Aikat
+Andrew Miller
+____________________________________________________________________
+ORDER
+Upon application by the respondent for an order quashing purported appeals under the Income Tax Act, it is ordered:
+(a) the application is dismissed;
+(b) the appellant is granted an extension of time to institute an appeal in respect of assessments reflected in notices issued as follows:
+- July 19, 2010 for the 2006 taxation year,
+- July 19, 2010 for the 2007 taxation year, and
+- September 14, 2010 for the 2009 taxation year;
+(c) the amended notice of appeal received on January 6, 2011 is deemed to be a valid notice of appeal filed on the date of this Order; and
+(d) each party shall bear their own costs with respect to this application.
+Signed at Toronto, Ontario this 28th day of April 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 230
+Date: 20110428
+Docket: 2010-3948(IT)I
+BETWEEN:
+DAVID HOMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] In this application, the Crown seeks to quash an amended notice of appeal filed on January 6, 2011 by David Homa.
+[2] The subject matter of the appeal is the calculation of interest on unpaid taxes owing for a number of taxation years. The amount at issue is approximately $100.
+[3] The amended notice of appeal describes the nature of the appeal in the following manner.
+TAKE NOTICE THAT David Homa appeals from the Income Tax Act to the Tax Court of Canada from assessments of interest dated September 13, 2010* and October 20, 2010 for the taxation years 2003 to 2009
+* This date was corrected to September 23, 2010 at the hearing.
+[4] The grounds for the Crown’s application, as stated in the notice of motion, are reproduced below (excludes legislative references):
+a) the appeal with respect to the Appellant's 2003, 2004, 2005, 2006, 2007, 2008 and 2009 [sic] are not within the Court's jurisdiction;
+b) in the alternative, the appeal with respect to the Appellant's 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years are res judicata, specifically for the 2003, 2004 and 2005 taxation years, as well as scandalous, frivolous or vexatious, or an abuse of process; […]
+[5] The motion materials do not clearly explain the problem that the Crown has with the appeal but it was explained orally at the hearing. Notwithstanding the lack of notice, Mr. Homa indicated that he understood the Crown’s position and wished to proceed with the motion without further delay.
+[6] The essence of the Crown’s position is that the Tax Court of Canada lacks jurisdiction because the appeal does not relate to an assessment. It is submitted that the documents dated September 23, 2010 and October 20, 2010 that are referred to in the amended notice of appeal are statements of account and not notices of assessment.
+[7] Further, the Crown submits that Mr. Homa is out of time to appeal any assessments for the 2003 to 2009 taxation years.
+Discussion
+[8] I will first consider the Crown’s alternative position that Mr. Homa is out of time to appeal any of the relevant assessments.
+[9] With respect to the 2003, 2004 and 2005 taxation years, the Crown appears to be correct that the time limits have expired. However, that should not matter because any interest imposed for those years has been waived (Aff. of Hamza Momoh, Tab P).
+[10] Assessments for the remaining taxation years were issued as follows:
+(a) July 19, 2010 for the 2006 taxation year,
+(b) July 19, 2010 for the 2007 taxation year,
+(c) June 30, 2009 for the 2008 taxation year, and
+(d) September 14, 2010 for the 2009 taxation year.
+For clarification, the Crown presented a summary chart at the hearing which indicated that an assessment for the 2008 taxation year was made on June 30, 2010. This is contrary to the motion material and I have assumed that it is a clerical error.
+[11] The Crown acknowledges that assessments for at least some of these years can be appealed if extensions of time are granted.
+[12] Mr. Homa submits that no time extensions are needed because he is not appealing these assessments. Rather, his appeal relates to the determinations of interest that are reflected in statements of account, and which he objected to on September 30, 2010. He submits that these determinations are assessments over which this Court has jurisdiction.
+[13] The notice of objection dated September 30, 2010 was not included in the motion material.
+[14] The issue raised by Mr. Homa can be stated simply. Is a determination by the Canada Revenue Agency of interest payable on unpaid tax an “assessment?”
+[15] I am not aware of any judicial decisions directly on point.
+[16] It is unfortunate that I did not have the assistance of counsel on both sides on this novel issue. The arguments presented at the hearing from both parties were not very detailed, especially with respect to a contextual analysis of the relevant provisions. In light of this, I am not inclined to extend the term “assessment” to include determinations of interest that are reflected in statements of account and not on forms that purport to be notices of assessment.
+[17] That is not the end of the matter, however.
+[18] I have considerable sympathy for the position advocated by Mr. Homa. Nowhere is the term “assessment” clearly defined, and I suspect that many taxpayers would assume that the Tax Court of Canada has jurisdiction over matters such as this.
+[19] Moreover, it is not appropriate to quash this appeal on a preliminary basis unless it is clear that no relief can be provided by the Court. In the context of matters governed by the informal procedure, it is necessary for the Court to go beyond the framing of the issue by the taxpayer and to consider the essence of the dispute.
+[20] Very recently, Binnie J. commented on the seriousness of inefficient court procedures in British Columbia (Attorney General) v Malik, 2011 SCC 18:
+[40] In a number of decisions our Court had emphasized a public interest in the avoidance of “[d]uplicative litigation, potential inconsistent results, undue costs, and inconclusive proceedings” (Danyluk v. Ainsworth Technologies Inc., 2001 SCC 44, [2001] 2 S.C.R. 460, at para. 18). Inefficient procedures not only increase costs unnecessarily, but result in added delay, and can operate as an avoidable barrier to effective justice:
+Where the same issues arise in various forums, the quality of justice delivered by the adjudicative process is measured not by reference to the isolated result in each forum, but by the end result produced by the various processes that address the issue.
+(Toronto (City) v. Canadian Union of Public Employees, Local 79 (2001), 55 O.R. (3d) 541 (C.A.), per Doherty J.A., at para. 74, aff’d 2003 SCC 63, [2003] 3 S.C.R. 77 (sub num. Toronto (City) v. C.U.P.E., Local 79), at para. 44)
+[21] It is important to look for solutions to procedural issues such as this, not problems.
+[22] Based on the limited information before me, it is not clear that the relief that Mr. Homa seeks cannot be provided by an appeal of the interest reflected in notices of assessment for taxation years that are still open.
+[23] I would note that Rip C.J. provided a similar remedy in McFadyen v The Queen, 2008 TCC 441.
+[24] In order to have this matter adjudicated in an efficient manner, it is appropriate in my view to permit Mr. Homa to appeal assessments for taxation years that are still open, namely, 2006, 2007 and 2009. Mr. Homa indicated at the hearing that he did not want to appeal these assessments, but this comment was made in the belief that he already had a valid notice of appeal.
+[25] Where do we go from here? One possibility is that Mr. Homa could be given the opportunity to apply for extensions of time to appeal. That would result in an unnecessary and undesirable delay in this proceeding, in my view.
+[26] In the circumstances, it would be appropriate to consider that the amended notice of appeal implicitly asks for extensions of time that are necessary to have the matter dealt with on the merits. The extension of time will granted, and the amended notice of appeal will be considered to be a valid notice of appeal filed on the day of the Order. The respondent then will have the usual time to file a reply.
+[27] The application will be dismissed, with each party bearing their own costs with respect to this application.
+Signed at Toronto, Ontario this 28th day of April 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 230
+COURT FILE NO.: 2010-3948(IT)I
+STYLE OF CAUSE: DAVID HOMA and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: March 31, 2011
+REASONS FOR ORDER BY: Hon. J.M. Woods
+DATE OF ORDER: April 28, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shane Aikat
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

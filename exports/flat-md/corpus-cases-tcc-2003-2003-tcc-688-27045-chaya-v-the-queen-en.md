@@ -1,0 +1,166 @@
+---
+title: "Chaya v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27045/index.do"
+last_modified: "2003-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 688"
+citation2: ""
+neutral_citation: "2003 TCC 688"
+decision_date: "2003-09-30"
+language: "en"
+item_id: "27045"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 590
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:40:57.119000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf889afdf5a8fca2519f0a420f3b33a3d786d054c070e8d66aec8744f406643b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chaya v. The Queen
+
+- Citation: 2003 TCC 688
+- Decision date: 2003-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chaya v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-30
+Neutral citation
+2003 TCC 688
+File numbers
+2002-3095(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC688
+Date: 20030930
+Docket: 2002-3095(IT)I
+BETWEEN:
+AREF CHAYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Agent for the Respondent: Penny Piper (Student-at-law)
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Winnipeg, Manitoba, on December 10, 2002)
+Sarchuk J.
+HIS HONOUR: I accept everything you say but all of that does not help you one little bit, unfortunately, because this is a very, very stringently written and interpreted section. I do not write the law.
+MR. CHAYA: I understand, Your Honour.
+HIS HONOUR: I mean, that is the people that you elected write it.
+MR. CHAYA: I understand, Your Honour, but I have my -- like, there should be a special circumstances.
+HIS HONOUR: There should be --
+MR. CHAYA: Like, I have my wife tragic death --
+[1] If I had the right to do so, on the basis of fairness and equity, you would be in a much better position. I do not have that kind of authority. You have to understand that right at the beginning. This Court is not what is known as a court of equity, a court of equity meaning, maybe in simple language, a court where even though the law says that ABC should happen, in some instances a court of equity has the right to say, "Now but that creates a very unfair situation and we are going to rectify it, we are going to make it better." I do not have that kind of authority.
+MR. CHAYA: But, Your Honour --
+HIS HONOUR: I was not given that kind of authority when I was appointed.
+MR. CHAYA: Your Honour --
+HIS HONOUR: Let me finish.
+MR. CHAYA: Sorry.
+HIS HONOUR: And so what I have to deal with, I have to deal with the legislation as it is written, not as it should be written, to be fair. Do you understand?
+MR. CHAYA: I understand.
+HIS HONOUR: So you have got to keep your argument within that sort of parameter.
+MR. CHAYA: Okay, Your Honour, I understand the law says if she don't reside with me, I'm not qualified. But there is certain circumstances. I reside with her and I support her. The only reason is -- the only -- if I bring my daughter over to Canada, one week or two weeks to reside with me in my apartment in Canada, I be qualified.
+HIS HONOUR: Well, then why don't you do that?
+MR. CHAYA: Your Honour, it costs me $1,800.00 --
+HIS HONOUR: Now, I mean, what you are saying to me destroys your case because you are saying to me, "If I did this, I would be qualified," which means that unless you do that, you are not qualified.
+MR. CHAYA: I understand, Your Honour, but to --
+HIS HONOUR: But what are you asking me to do, sir? You are asking me
+MR. CHAYA: Your Honour, just to allow --
+HIS HONOUR: You are asking me to allow something that I cannot allow in law. I do not have the right to do that. As much as I would like to say I think the way the legislators wrote this legislation is full of you-know-what -
+MR. CHAYA: I understand.
+HIS HONOUR: -- and I would like to change it but I cannot do that.
+MR. CHAYA: But, Your Honour, I -- like, that's why I came to the Court. If I have to accept what it says in the law, like there should be some kind of special provision who would --
+HIS HONOUR: There is not, that is what I am trying to tell you.
+MR. CHAYA: -- who would give me some leeway.
+[2] That is exactly what I am trying to tell you, sir, is this Court does not have the authority, the right to grant what you ask for, what we refer to as equitable relief or relief because it is fair to give that relief. I do not have the right to do that. Now I may think that this section is unfair but just because I think it is unfair, does not mean that I can rewrite it. That is my dilemma. I think your situation warrants, should be something that the legislators should take a look at. But until the legislation is changed, I do not have the right to change it. And I am not trying to be difficult because I hear many cases where I think fairness should enter into it and I do not have the authority to do that.
+MR. CHAYA: So it's mean, Your Honour, that the legislation or the government, they don't want people to work and pay taxes
+HIS HONOUR: Well --
+MR. CHAYA: -- they want people to live on welfare and --
+[3] I have no idea what the government wants. I mean, all I know is what they have written here. But this type of case, this is not the first one. There are probably several dozen of them identical to your situation, over and over again. Counsel has referred to a few. There are a few others. There is a recent case, Ruzicka v. The Queen,[1] almost identical, almost exactly the same as your case, and it was disallowed. This type of case, exactly this type of case has gone to the Federal Court of Appeal and they have dealt with it in a case called The Queen v. Scheller.[2] And in that case -- the simple decision in all of these cases is that you cannot claim this particular deduction unless the daughter, in your case, was maintained by the taxpayer in the domestic establishment in Canada where you lived. I mean, that has been said over and over and over and over again because that is the way the legislation was written.
+MR. CHAYA: So if this money, the money, Your Honour, the money I sent to my daughter, if I send it to a child in Africa or --
+HIS HONOUR: Well, you have told me that and I --
+MR. CHAYA: -- somewhere, it's taxable, it's non-taxable.
+HIS HONOUR: I agree with you, I agree that maybe the whole thing is not right but I cannot do anything to rectify it. That is what you have got to understand.
+[4] It is interesting that in the case of Jankowski-Kamac v. The Queen[3] that counsel for the Minister has referred to, it is Judge Hershfield's judgement, I am going to read it to you because I am not the first one to say this. Judge Hershfield had this to say,
+Accordingly, the appeal must fail. Any inequity,
+and that means unfairness,
+... any inequity in respect of this finding is a matter for Parliament. As found by Cattanach J. in The Queen v. Scheller
+that is the Federal Court of Appeal decision that I was referring to,
+... in the context of a case not unlike the one at hand, when the meaning of the provisions in a statute are clear, the courts have nothing to do with their policy or their justice or injustice. The function of the judge is to apply the law as it reads, as to do otherwise would be to abandon the office of judge and assume the office of the legislative branch of government.
+That is exactly what I am trying to say to you. We do not have the right to change the law as it is written, much as we might like to do so.
+MR. CHAYA: Well, thank you very much, Your Honour.
+[5] This is not the first case that I have had before me in the 20 years that I have been on the bench where I look at a section and I look at particular facts and I feel uncomfortable, I feel uncomfortable. But because of the facts and because of the legislation, I have no alternative but to rule in accordance with, in this case, the legislation. The Minister was correct in assessing, as he did, because he followed the way the rule book was written by the people you elected.
+MR. CHAYA: It was a mistake.
+HIS HONOUR: I am sorry to say, I have to dismiss the appeal. I tell you candidly, I have great sympathy for your position but sympathy is not going to get you --
+MR. CHAYA: Like, what -- so I have to contact the Parliament or --
+HIS HONOUR: You have to contact what?
+MR. CHAYA: The Parliament or my Member of the Parliament.
+HIS HONOUR: Well, you would have to speak to the Member of Parliament and see if this legislation can be changed. I am not saying it should be because I do not know all the other aspects of it, but certainly it seems to me that there is an element of unfairness in certain situations and as Judge Hershfield said in that case.
+I hate doing this but it is not something that sits easily with me, but the only choice that I have is to dismiss your appeal.
+Take it up with your representative, the man that you elected or the lady that you elected to Parliament.
+Signed at Ottawa, Canada, this 30th day of September, 2003.
+"A.A. Sarchuk"
+CITATION:
+2003TCC688
+COURT FILE NO.:
+2002-3095(IT)I
+STYLE OF CAUSE:
+Aref Chaya and Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+December 10, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+December 13, 2002
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Penny Piper (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 95 DTC 365.
+[2] 75 DTC 5406.
+[3] [2001] T.C.J. No. 281.

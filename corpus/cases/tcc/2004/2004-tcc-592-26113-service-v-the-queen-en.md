@@ -1,0 +1,182 @@
+---
+title: "Service v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26113/index.do"
+last_modified: "2004-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 592"
+citation2: ""
+neutral_citation: "2004 TCC 592"
+decision_date: "2004-09-16"
+language: "en"
+item_id: "26113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4174
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:02:24.922000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0c31ac261f441953c2971c0ee2e77158a5668ad1b47858eee0f7ed30655faaed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Service v. The Queen
+
+- Citation: 2004 TCC 592
+- Decision date: 2004-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4174, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Service v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-16
+Neutral citation
+2004 TCC 592
+File numbers
+2002-4956(IT)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC592
+Date: 20040916
+Docket: 2002-4956(IT)G
+BETWEEN:
+JAMES D. SERVICE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Eleanor H. Thorn
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+July 29, 2004, at Toronto, Ontario)
+Sarchuk J.
+[1] This is an appeal from an assessment of tax with respect to the Appellant's 1995 taxation year. The specific issue relates to the Minister of National Revenue's rejection of the Appellant's assertion that he was entitled to claim an allowable business investment loss with respect to a loan made by him to a company, Prescient Incorporated, the sole shareholder of which was the Appellant's spouse.
+[2] The Appellant was requested to admit for the purposes of this proceeding the truth of certain facts. He acceded, albeit with some qualifications, and admitted the following:
+(a) at all material times, the Appellant was a shareholder in Homage Investments Corp. (the "Corporation");
+(b) the Corporation was incorporated on December 22, 1988, and surrendered its Charter on July 23, 1994. The Appellant then disposed of his property in the Corporation, namely, his share of the capital stock of the Corporation and the debt owed to him by the Corporation;
+(c) the fiscal year-end of the Corporation was June 15, and the last income tax return filed by the Corporation was for its 1991 taxation year;
+(d) the Corporation had 2,000 fully paid shares issued with $20 total share capital;
+(e) the shareholders of the Corporation were:
+the Appellant - 320 shares (certificate 001, 002 & 003);
+Prescient Incorporated - 680 shares (certificate 004);
+Ferdinand A. Wagner - 1,000 shares (certificate 005);
+(f) in 1989, the Corporation purchased a piece of real estate located at 2349 Queen Street East, Toronto, Ontario (the "property") for $587,000, which was funded by a first mortgage of $440,000 from Monarch Trust Company, a second mortgage of 54,500 from Monte Denaburg, and non-interest bearing loans
+I believe the loan referred to by the witness, the Appellant, amounted to approximately $100,000.
+(g) the Appellant and Mr. Wagner were guarantors of the mortgages;
+(h) the property was sold in June 1995 under power of sale by the Monarch Trust Company's liquidator, Coopers & Lybrand Limited;
+(i) neither the Corporation, Mr. Wagner, nor the Appellant were required to repay the outstanding balance on the mortgages;
+(j) Prescient was incorporated on May 12, 1974. It was dissolved and revived on March 7, 1989, then dissolved again on December 24, 1994, and revived again on January 8, 1998;
+(k) Prescient's fiscal year-end was May 31;
+(l) since March 17, 1989, the sole shareholder of Prescient was the Appellant's spouse, Josephine Service;
+(m) from 1989 to 1994, Prescient extended interest-free loans to the Corporation, and the Corporation owed Prescient a total of $149,150 in Prescient's 1994 fiscal year;
+(n) upon advice from the Appellant, Prescient's interest-free loan to the Corporation totalling $149,150 was written off by Prescient in its 1995 fiscal year.
+(o) from 1992 to 1995, the Corporation, by journal entries, increased its liabilities to the Appellant and decreased its corresponding liabilities to Prescient when no such additional advances were actually received from the Appellant nor such repayments of loans actually made to Prescient;
+(p) the following is shown on the financial statements of Prescient and the Corporation.
+Prescient
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+Due from Homage
+The Corporation
+$89,500
+$145,250
+$149,150
+$149,150
+$0
+Due to shareholder
+$24,081
+$45,931
+$67,065
+Due to James Service S/H
+$208,544
+$221,212
+$223,495
+$225,777
+Due to Related Corporation
+$36,500
+$96,500
+$6,250
+$9,650
+$13,650
+$13,650
+Other loans recorded by the Corporation were with respect to Ican Corporation, Nora Smith, Jane McGivern,
+and the other shareholder, F. Wagner.
+(q) as a result of the journal entries described above, loans from Prescient to the Corporation totalling 149,150 were eliminated from the Corporation's records and the Corporation's shareholders loan account for the Appellant was increased by a corresponding $149,150 to a balance at $225,777 in 1995;
+(r) at the material times, Prescient also recorded receipt of interest-free loans from the Appellant. The amount of loan from the Appellant recorded by Prescient as at May 31, 1995 was $78,628;
+[3] The Appellant was not dealing with Prescient at arm's length, and the only dispute between the parties is whether he is entitled to claim a business investment loss for his loan to Prescient, the amount of which was recorded by Prescient to be $78,628 as at May 31, 1995.
+[4] The Appellant's position is that the requirements of paragraph 39(1)(c), subparagraph 40(2)(g)(ii) and subsection 50(1) of the Income Tax Act have been fully satisfied by the evidence adduced. There is no dispute that in order to avoid the nil loss consequence in subparagraph 40(2)(g)(ii), the debt must have been acquired for the purpose of producing income from a business or property.
+[5] The general thrust of the Appellant's argument was that gaining or producing income need not be the exclusive or even primary purpose for the loan so long as it was one of its purposes, and that would be sufficient to meet the requirements of the statutory provision. The Appellant, by way of example, referred to Rich v. The Queen, 2003 DTC 5115, in which the Federal Court of Appeal concluded that:
+... As long as earning income was one of the purposes of the loan (although not necessarily the primary purpose), the income-earning requirement of subparagraph 40(2)(g)(ii) of the Act had been met. See Ludco Enterprises v. The Queen, Supreme Court of Canada. Although the Tax Court judge found that the "predominant purpose" of the loan was to help the taxpayer's son, in fact, the requirements of subparagraph 40(2)(g)(ii) were met in the present case. The loan was interest-bearing, and the taxpayer (as a shareholder of DSM) was entitled to dividends. ...
+[6] Reference was also made to a number of other cases in which interest-free loans were considered. For example, in Steckel v. M.N.R., 92 DTC 1904, the Court ruled that Steckel, who had guaranteed the loans of a corporation in which he had an interest, was entitled to an ABIL. In that case, Mogan J. referred to the following comments of Rip J. in Business Art Inc. v. M.N.R., 86 DTC 1842:
+However, even if no interest was chargeable, I do not believe that would be fatal to the Appellant's alternate submission. The fact that there may have been no interest attached to the debts in question is not relevant in deciding whether they were acquired for the purpose of gaining or producing income. ...
+... It is not unusual for a person to invest in a Corporation by subscribing for share capital and lending money without interest; as far as he is concerned, the shares and his loans constitute a single investment, and if later on he is called on to advance further funds without interest, he is only increasing his investment. I cannot subscribe to the theory that in such an example that non-interest bearing loans were not incurred for the purpose of earning income from property; if the loans were not advanced the Corporation may have become bankrupt and the shares may have become worthless. Clearly, the loans were made to earn income from property, that is, to place the Corporation in a position where it will be successful and pay dividends.
+[7] The Appellant made reference to several other similar cases. I note, for example, in Allen v. Canada, [2000] T.C.J. No. 231, the Appellants claimed ABIL deductions for losses in respect of advances made to a corporation in which they were shareholders. In Air Rock Drilling Co. Ltd. et al v. The Queen, 99 DTC 617, the individual taxpayers own all of the shares of a numbered company which owns all of the shares of Air Rock. Thus, a nexus existed that permitted the Court in that appeal to specifically find that the loans in issue were made for the purpose of producing income, even though they were not interest-bearing. The decision of the Federal Court of Appeal in Byram v. Canada, [1999] F.C.J. No. 92, is, I believe, of particular relevance, and the comments made are, in my view, to be applied in this case. I refer specifically to paragraphs 21 and 22, which read as follows:
+21 It is equally clear that the anticipation of dividend income cannot be too remote. It is trite law that sections 3 and 4 of the Act, in conjunction with the rules set out in subdivisions A through D of division B, establish that the income of a taxpayer is to be determined on a source-by-source basis. Furthermore, the availability of certain deductions under the Act, including subparagraph 40(2)(g)(ii), require that some regard be given to the source of income that is relevant to the deduction. Accordingly, a deduction cannot be so far removed from its corresponding income stream as to render its connection to the anticipated income tenuous at best. This does not preclude a deduction for a capital loss incurred by a taxpayer on an interest-free loan given to a related Corporation where it had a legitimate expectation of receiving income through increased dividends resulting from the infusion of capital.
+22 The shareholders of a company are directly linked to that Corporation's future earnings and its payment of dividends. Where a shareholder provides a guarantee or an interest-free loan to that company in order to provide capital to that company, a clear nexus exists between the taxpayer and the potential future income. Where a loan is made for the purpose of earning income through the payment of dividends, this connection is sufficient to satisfy the purpose requirement of subparagraph 40(2)(g)(ii).
+In Byram, it was also noted by the Federal Court of Appeal that:
+23 In situations where the taxpayer does not hold shares in the debtor, but rather is a shareholder of a parent company or other shareholder of the debtor, the taxpayer is not entitled to dividend income directly from the debtor. Generally speaking, the burden of demonstrating a sufficient nexus between a taxpayer and a dividend income, in such cases, will be much higher. The determination of whether there is sufficient connection between the taxpayer and the income-earning potential of the debtor will be decided on a case-by-case basis depending on the particular circumstances involved.
+[8] In our case, the Appellant's primary purpose was to keep his company, Homage, alive as he put it, so it might become successful as a developer and contractor and as a sales component in selling the property to "City Hall". The taxpayer also argued that he would have expected that in the event that Homage remained alive there would be a return to him when Homage was selling its units and creating dividends. He also added that he was a lawyer practising law as a general practitioner, and thus he would have benefited in the context of earning income as a result of the sale of the property and would also have expected to be paid management fees or, in the alternative, have a comparable sharing with investors. He also argued that it would be a benefit to him, since a dividend would flow from Homage to Prescient when the sales took place and he argued that, with respect to the same dividend, that it ultimately would have gone to him as a shareholder of Homage.
+[9] In my view, that is not a viable lending arrangement. To me, a viable lending arrangement constitutes a legal contractual relationship incorporating principal repayment terms and periodic interest payments. In the absence of interest payments or even the mention of interest, evidence of an expectation of an income stream arising from that loan must be shown. The Appellant carries the burden of demonstrating a nexus between the investment of the funds and the generation of income. On the evidence before me, I can only reach the conclusion that the loan does not, in my view, constitute a lending arrangement for the purposes of the relevant sections of the Income Tax Act. Accordingly, the appeal is dismissed.
+[10] There was really no submission on the part of counsel for the Respondent with respect to costs. I would be inclined not to award costs in these particular circumstances. That issue should have been dealt with at the appropriate time.
+Signed at Ottawa, Canada, this 16th day of September, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC592
+COURT FILE NO.:
+2002-4956(IT)G
+STYLE OF CAUSE:
+James D. Service and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 27, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+August 6, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eleanor H. Thorn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

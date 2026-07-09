@@ -1,0 +1,719 @@
+---
+title: "Durocher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127320/index.do"
+last_modified: "2015-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 297"
+citation2: ""
+neutral_citation: "2015 TCC 297"
+decision_date: "2015-12-09"
+language: "en"
+item_id: "127320"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3049
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:03:35.979000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "376bc62ea487d3fa673f697a28af89c70113a2ad4731ddc77e661d82c140d88c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Durocher v. The Queen
+
+- Citation: 2015 TCC 297
+- Decision date: 2015-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3049, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Durocher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-09
+Neutral citation
+2015 TCC 297
+File numbers
+2011-1272(IT)G, 2011-1274(IT)G, 2011-1284(IT)G, 2011-1305(IT)G, 2011-1314(IT)G, 2011-1349(IT)G, 2011-1350(IT)G, 2011-1351(IT)G, 2011-1352(IT)G, 2011-1356(IT)G, 2011-1357(IT)G, 2011-1358(IT)G, 2011-1360(IT)G, 2011-1363(IT)G, 2011-1365(IT)G, 2011-1393(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1393(IT)G
+BETWEEN:
+LINE DUROCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appals heard with the appeals of Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19, 2015, at Montréal, Quebec
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from assessments made pursuant to the Income Tax Act for the 2006 and 2008 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, on this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1274(IT)G
+BETWEEN:
+XAVIER VALLERAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard with the appeals of Line Durocher (2011‑1393(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) et Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar,
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1284(IT)G
+BETWEEN:
+G. MARIUS BÉRUBÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act ("Act") for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+The purported appeal from the assessment made under the Act for the 2009 taxation year is quashed.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket : 2011-1305(IT)G
+BETWEEN:
+AÏSHA BLONDEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani et Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUGDMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1314(IT)G
+BETWEEN:
+CATHERINE SANSOUCY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act ("Act") for the 2006 taxation year is dismissed, with costs.
+The purported appeal from the assessment made under the Act for the 2008 taxation year is quashed.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket : 2011-1349(IT)G
+BETWEEN:
+CLAUDINE LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Me Nathalie Labbé et Me Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket : 2011-1350(IT)G
+BETWEEN:
+ÉLISE LAGARDE,
+Appellant,
+et
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé et Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1351(IT)G
+BETWEEN:
+FRANCIS S. LABONTÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December, 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1352(IT)G
+BETWEEN:
+GENEVIÈVE LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1356(IT)G
+BETWEEN:
+NATHALIE MONETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1357(IT)G
+BETWEEN:
+MARISOL RINGUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1358(IT)G
+BETWEEN:
+MARIE-PIER BLONDEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar,
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1360(IT)G
+BETWEEN:
+FRANCINE BUSSIÈRES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Vincent Lagarde (2011‑1363(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar,
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1363(IT)G
+BETWEEN:
+VINCENT LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Olivier Ringuet (2011‑1365(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1365(IT)G
+BETWEEN:
+OLIVIER RINGUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G) and Loik Vallerand (2011‑1272(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar,
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Docket: 2011-1272(IT)G
+BETWEEN:
+LOIK VALLERAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard together with the appeals of Line Durocher (2011‑1393(IT)G), Xavier Vallerand (2011‑1274(IT)G), G. Marius Bérubé (2011‑1284(IT)G), Aïsha Blondeau (2011‑1305(IT)G), Catherine Sansoucy (2011‑1314(IT)G), Claudine Lagarde (2011‑1349(IT)G), Élise Lagarde (2011‑1350(IT)G), Francis S. Labonté (2011‑1351(IT)G), Geneviève Lagarde (2011‑1352(IT)G), Nathalie Monette (2011‑1356(IT)G), Marisol Ringuet (2011‑1357(IT)G), Marie‑Pier Blondeau (2011‑1358(IT)G), Francine Bussières (2011‑1360(IT)G), Vincent Lagarde (2011‑1363(IT)G) and Olivier Ringuet (2011‑1365(IT)G)
+on February 19 and 20, 2015, at Montreal (Quebec).
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc, Serge Amar,
+Tamila Ziani and Éloïse Gagné
+Counsel for the Respondent:
+Nathalie Labbé and Grégoire Cadieux
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+Citation: 2015 TCC 297
+Date: 20151209
+Docket: 2011-1393(IT)G
+BETWEEN:
+LINE DUROCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1274(IT)G
+AND BETWEEN:
+XAVIER VALLERAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1284(IT)G
+AND BETWEEN:
+G. MARIUS BÉRUBÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1305(IT)G
+AND BETWEEN:
+AПSHA BLONDEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1314(IT)G
+AND BETWEEN:
+CATHERINE SANSOUCY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1349(IT)G
+AND BETWEEN:
+CLAUDINE LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1350(IT)G
+AND BETWEEN:
+ÉLISE LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1351(IT)G
+AND BETWEEN:
+FRANCIS S. LABONTÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1352(IT)G
+AND BETWEEN:
+GENEVIÈVE LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+Docket: 2011-1356(IT)G
+AND BETWEEN:
+NATHALIE MONETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1357(IT)G
+AND BETWEEN:
+MARISOL RINGUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1358(IT)G
+AND BETWEEN:
+MARIE‑PIER BLONDEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1360(IT)G
+AND BETWEEN:
+FRANCINE BUSSIÈRES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1363(IT)G
+AND BETWEEN:
+VINCENT LAGARDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1365(IT)G
+AND BETWEEN:
+OLIVIER RINGUET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2011-1272(IT)G
+AND BETWEEN:
+LOIK VALLERAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] The principal issue in all appeals is whether the appellants may claim a capital gains deduction in 2006 in accordance with subsection 110.6(2) of the Income Tax Act ("Act"). To decide the issue I must determine whether at all relevant times the shares of Gestion RJCG Inc. ("RJCG") were "qualified small business corporation shares" as defined by subsection 110.6(1).
+[2] A question to be answered is whether throughout the 24 months immediately preceding the disposition of the shares of RJCG by its shareholders, another person had a right under a contract, either immediately or in the future, absolutely or contingently, to acquire the shares of RJCG and therefore "be deemed to have the same position in relation to control of the corporation as if the person owned the shares at that time": subsection 125(7) and paragraph 251(5)(b) of the Act.
+[3] In assessing the appellants, the Minister of National Revenue ("Minister") assumed, among other things, that Aviva Canada Inc. ("Aviva") held an option to acquire the shares of RJCG notwithstanding a unanimous shareholders agreement (“Shareholders Agreement”), signed in 2002, provides for an option to Aviva to acquire shares of Gestion Lagarde Massicotte Inc. (“Gestion Lagarde”). The Crown argued that as of December 20, 2005, Aviva had the right to acquire the shares of RJCG and at that date, RJCG ceased to be a Canadian controlled private corporation: subsection 125(7).
+[4] The appellants are Claudine Lagarde, Vincent Lagarde, Geneviève Lagarde, Élise Lagarde, Line Durocher, Francis S. Labonté, Nathalie Monette, Marisol Ringuet, Olivier Ringuet, Catherine Sansoucy, Xavier Vallerand, Loik Vallerand, Aïsha Blondeau, Marie‑Pier Blondeau, G. Marius Bérubé and Francine Bussières (“nine individuals”).
+[5] All the appellants realized a taxable capital gain following the 2006 disposition. They then claimed a capital gain deduction.
+[6] The appellants Nathalie Monette, Francine Bussières, Élise Lagarde, Claudine Lagarde, G. Marius Bérubé, Marie‑Pier Blondeau, Vincent Lagarde and Aïsha Blondeau also claimed minimum tax carry-over deductions for the 2007 and 2008 taxation years. As for the appellants Line Durocher, Genviève Lagarde and Francis Labonté, they also claimed this deduction for the 2008 taxation year.
+[7] Three corporations, other than RJCG, have been identified in the pleadings and are relevant to the disposition of the appeals. They are:
+(a) Dale Parizeau L.M. Inc. (“Dale Parizeau” or “DPLM”), an insurance brokerage company in Quebec;
+(b) Gestion Lagarde, a company that holds all the common and preferred shares in Dale Parizeau; and
+(c) Aviva Canada Inc. (“Aviva”), formerly CGU Group Canada Ltd. ("CGU"), incorporated under the laws of Ontario, was a wholly owned subsidiary of Aviva International Holdings Limited ("Aviva International"), a non‑resident corporation. Aviva carried on a general insurance business.
+[8] RJCG held all the common shares in Gestion Lagarde, while Aviva held all the preferred shares in Gestion Lagarde.
+[9] Until April 2002, a group of nine persons living in Canada, namely Carmen Bérubé, Maurice Bussières, Sonia Blondeau, Christian Dumais, Robert Lagarde, Luc Labonté, Jean‑Pierre Ringuet, François Vallerand and Jean‑Charles Massicotte ( the “nine shareholders”), held the capital stock shares in RJCG. Each individual held 6,400 common shares in RJCG, except for Robert Lagarde and Jean‑Charles Massicotte who each held 47,603. They were also all managers at Dale Parizeau.
+[10] On April 1, 2002, each of the nine individuals sold their shares in RJCG for fair market value to a family trust residing in Canada. The appellants are the beneficiaries of these family trusts.
+[11] On April 12, 2002, Gestion Lagarde, the shareholders in Gestion Lagarde, namely RJCG and CGU (Aviva) and Gestion Lagarde as sole shareholder of Dale Parizeau and Dale Parizeau entered into a unanimous shareholders agreement ("Shareholders Agreement"). Gestion Lagarde identified itself as a "Corporation" in the agreement. The "Shares" are identified as those of Gestion Lagarde. The Shareholders Agreement defined and regulated the respective rights and obligations of the parties as shareholders of Gestion Lagarde. Gestion Lagarde, as sole shareholder of Dale Parizeau, acknowledged that the Shareholders Agreement also constituted a unanimous shareholders agreement of Dale Parizeau. The Shareholders Agreement was subject to the laws of Québec.
+[12] The parties to the Shareholders Agreement recognized that Aviva had been granted an option, with various rights ("put/call") ("option"), to subscribe to and purchase a number of Class "A" shares in the capital stock of Gestion Lagarde, which, when issued and added to the number of Class "A" shares already issued would result in the shares subject to the option representing 66.305 per cent of all issued Class "A" shares. (The Class "A" shares and Class "F" shares of the capital stock of Gestion Lagarde are referred to as "Shares".) The appellants state that this is not a matter affecting the appeals.
+[13] The April 12, 2002 Shareholders Agreement set out the following provisions:
+6. CGU OPTION
+The parties recognize that CGU has been granted the option to subscribe to and purchase that number of Class "A" Shares (the "Optioned Shares") which, when issued and added to the issued and outstanding Class "A" Shares, would result in the Optioned Shares representing 66.305% of the resulting issued and outstanding Class "A" Shares (which include the Optioned Shares), for a price of one dollar ($1.00) per Share, pursuant to a restated and amended option agreement entered into between CGU and the Corporation as of April 12, 2002 (the "CGU Option"). The Shareholders shall, and shall cause their respective nominees to the board of directors of the Corporation to, give effect to the CGU Option and cause the Corporation to issue the appropriate number of Shares to CGU upon the exercise of the CGU Option.
+7. DISPOSITION OF SHARES
+7.1 Put by RJCG
+At any time after May 1, 2005, RJCG will be entitled to put all but not less than all its Shares to CGU (which notice may be given six months prior to May 1, 2005), and CGU will, in such event, purchase such Shares at Fair Value or cause such Shares along with all Shares held by CGU together with the CGU Option to be purchased by a third party at fair market value.
+7.3 Call on RJCG Shares by CGU
+CGU will be entitled to require RJCG to sell on May 1, 2005, and any May 1 thereafter, all but not less than all of its Shares to CGU upon giving six (6) months’ prior notice to RJCG, (which notice may be given six months prior to May 1, 2005), and CGU will, in such event, purchase such Shares at their Fair Value increased by an amount equal to the following:
+…
+and RJCG shall be obliged to sell such Shares at such purchase price.
+7.4 Closing of Call on RJCG Shares by CGU
+The sale of Shares pursuant to the call in Section 7.3 will take place at the principal office of the Corporation on the date indicated in CGU's notice, which date shall be within thirty (30) days following expiry of the six (6) months' notice period set forth in Section 7.3.
+[14] Article 18.1 of the Shareholders Agreement permitted a modification of the Agreement with the consent of all the parties but any change would not take effect until a document setting out such change or modifications is signed by all the parties. Article 18.6 provided that:
+The Agreement shall be governed and construed in accordance with the laws of the Province of Quebec and the federal laws of Canada applicable therein.
+[15] In 2005 and 2006, the Shareholders Agreement was subject to several amendments and attempts to amend.
+[16] By letter dated September 16, 2005, from Aviva to RJCG, Gestion Lagarde and Dale Parizeau, the parties agreed to free Aviva of its obligation in the Shareholders Agreement to give six months' notice to exercise the option on May 1, 2006 (Article 7.3) and agreed that from thereon Aviva could give notice until February 1, 2006. In consideration of the change, Aviva agreed to pay Gestion Lagarde $400,000.
+[17] Soon after the corporations agreed to the terms of the letter of September 16, 2005, the nine individual shareholders of RJCG added their signatures to the letter agreeing to its terms. I note that earlier in the year by agreement dated April 1, 2005, the nine shareholders had transferred their shares in RJCG to family trusts. A directors' resolution of RJCG approving the transfers and the actual share transfer is dated April 1. Aviva executed its acceptance of the terms of the letter on October 13, 2005.
+[18] Both the Shareholders Agreement and letter of September 16, 2005, were signed on behalf of Aviva by Ross Betteridge who, at the time, was Chief Financial Officer of Aviva, and another officer of Aviva. At trial, Mr. Betteridge stated that Aviva wanted to purchase the shares of Gestion Lagarde so as to prevent any competitor acquiring Dale Parizeau. In his letter of September 16, Mr. Betteridge advised that Aviva would be in a position to give formal notice whether it would acquire RJCG no later than February 1, 2006.
+[19] Another letter, dated October ‑, 2005 (sic) was addressed to Aviva but apparently drafted by Aviva and sent by email to Ms. Sonia Blondeau, Vice President – Finance and Chief Information Officer of Dale Parizeau. This letter clarified that Aviva would pay RJCG $400,000 in consideration for amending the Shareholders Agreement on September 16. The nine individuals and the corporations all signed the letter agreeing to its contents. Aviva accepted the terms of the letter on October 27, 2005.
+[20] The next amendments are in a letter dated December 20, 2005, again originating with Aviva; one in the form of a letter, the other in the form of amendments to the Shareholders Agreement and attached as a Schedule to the letter entitled "Amendments to the Unanimous Shareholders Agreement made on September 20th, 2005". Section 7.3 of the Shareholders Agreement was further amended, among other things, so that Aviva was not required to give six months prior notice to purchase the Shares of Gestion Lagarde but instead may give prior notice to RJCG at any time from the date of the letter until and including March 3, 2006.
+[21] In the letter of December 20, Aviva also agreed, at page 2:
+…
+a) that in the event it provides notice to RJCG requiring it to sell to Aviva its shares, as outlined above, Aviva agrees to purchase the shares held directly by the individual shareholders of RJCG;
+…
+[22] A recital to the Schedule to the letter of December 20 stated that "for fiscal purposes the individual shareholders of RJCG wish to transfer their shares of the capital stock of RJCG to family trusts" and the parties have agreed to such transfers. I note that the RJCG shares had already been transferred to the trusts. The Schedule also provided that all provisions of the Shareholders Agreement that apply to individual shareholders of RJCG also apply to the family trusts of each individual.
+[23] The letter of December 20 was signed by each of the corporations, RJCG, Gestion Lagarde and Dale Parizeau and the nine individuals. Whether the individuals signed as shareholders, trustees or otherwise is not apparent from the letter. The Schedule itself was signed only by the four corporations.
+[24] It is this letter of December 20, 2005, and the Schedule that the respondent argues granted Aviva the option to acquire the shares of RJCG.
+[25] By letter dated March 29, 2006, the parties agreed to again amend the notice provision in Section 7.3 of the Shareholders Agreement, among other provisions. The contents of the letter were agreed to by three corporations and nine individuals. Again, from the face of their signatures, the capacity of the nine individuals was not identified. Ms. Blondeau stated the nine shareholders signed as officers and executives of the corporations.
+[26] Aviva prepared a letter, dated April 17, 2006, addressed to itself for signature by RJCG, Gestion Lagarde, Dale Parizeau and the nine individuals.
+[27] The letter referred to the December 20, 2005, letter purporting to amend section 7.3 of the Shareholders Agreement "such that the exercise by Aviva of its call right thereunder would result in the acquisition of the shares held by each of the individual shareholders of RJCG in RJCG instead of the acquisition of the [shares] of Gestion Lagarde". Ms. Blondeau did not agree that the Shareholders Agreement was so amended. She was also unaware at the time that Aviva planned to assign its option to 1695711 Ontario Inc. ("Newco"). She did say three corporations and nine individuals refused to agree to the execution and delivery of any share purchase agreement by Aviva or Newco and each of the shareholders of RJCG. The letter was not signed by any of the corporations or individuals.
+[28] In any event on the next day, April 18, 2006, Aviva gave written notice to RJCG that it was exercising its call right under Section 7.3 of the Shareholders Agreement, as amended, to acquire the shares of RJCG. It also agreed to subscribe to 572,449 Class "A" shares of Gestion Lagarde. RJCG owned 550,000 Class "A" shares. Aviva would therefore own 51 per cent of the Class "A" of Gestion Lagarde shares and all of the shares of RJCG. Aviva would not be acquiring all of the shares of Gestion Lagarde from RJCG as originally contemplated in the Shareholders Agreement.
+[29] By agreement dated as of April 28, 2006 ("Rollover Agreement") Aviva transferred its rights under the Shareholders Agreement, as amended, to Newco in consideration of 1,000 Class "F" shares in the capital of Newco.
+[30] In another agreement, the "Holdback Agreement", also dated as of April 28, 2006, the sale of the shares of RJCG to Newco was acknowledged and agreed. According to one of the recitals to the Holdback Agreement:
+WHEREAS a call notice was delivered on April 18, 2006 whereby Aviva exercised its call right under Section 7.3 of the Unanimous Shareholders Agreement (the "Call Notice") and in accordance therewith required the sale to Aviva of the shares held by each of the individual shareholders of RJCG in RJCG (the "RJCG Shares"), such sale to occur on April 28, 2006 (the "Acquisition Date"):
+[31] Each of the Vendors of the shares of RJCG consented in the Holdback Agreement to the assignment by Aviva to its "right to acquire the RJCG shares pursuant to the call notice."
+[32] Article 3.1 of the Shareholders Agreement states that:
+DPLM shall be managed by a board of directors of four (4) directors, of whom two shall be nominated by CGU (the "CGU Directors of DPLM") and two shall be nominated by RJCG (the "RJCG Directors of DPLM").
+…
+Resolutions, decisions or approvals of the board of directors of DPLM shall not be effective unless consented to in writing by all of the directors of DPLM or, if considered at a meeting, where a quorum of the directors is present at the time such resolution, decision or approval is considered and such resolution, decision or approval is passed by a majority of the directors present, provided that such majority shall include the affirmative vote of the CGU Directors of DPLM and that the chairman of the board of directors of DPLM shall not have a second or casting vote.
+…
+[33] The trustees of each family trust as well as Newco, RJCG and Dale Parizeau executed the Holdback Agreement. The obligations of each trust were guaranteed by one of the nine erstwhile shareholders who transferred his or her shares in RJCG to their respective trusts.
+[34] The appellants' argument, as I understand it, is two‑fold:
+(a) the Shareholders Agreement is absolutely null; and
+(b) the right of Aviva, described in the Shareholders Agreement, was the right to acquire shares of Gestion Lagarde and not those of RJCG and thus the bases of the assessments are wrong; what was eventually acquired were shares of RJCG and at no time within the 24 months of the disposition of the RJCG's shares did Aviva have an option or right to acquire the shares.
+[35] The question whether the Shareholders Agreement is absolutely null is of great importance and if the Shareholders Agreement is absolutely null, then I need not consider the issue relating to the Income Tax Act. I shall consider first the appellants' submission that the Shareholders Agreement is absolutely null.
+[36] The appellants state the Shareholders Agreement is absolutely null by virtue of article 1417 of the Civil Code of Quebec ("C.C.Q.") and section 148 of the Act respecting the distribution of financial products and services ("Act respecting financial services"), in force in Quebec at all relevant times. Article 1417 declares that:
+A contract is absolutely null where the condition of formation sanctioned by its nullity is necessary for the protection of the general interest.
+La nullité d'un contrat est absolue lorsque la condition de formation qu'elle sanctionne s'impose pour la protection de l'intérêt général.
+[37] Section 148 of the Act respecting financial services restricted the ability of certain financial institutions to own more than 20 per cent of the voting shares of corporations such as Dale Parizeau:
+Not more than 20% of the shares of a firm or voting rights attached to its shares may be held directly or indirectly by financial institutions, financial groups or legal persons related thereto.
+Les actions d'un cabinet ou les droits de vote qui y sont afférents ne peuvent être détenus, directement ou indirectement, à plus de 20%, par des institutions financières, des groupes financiers ou des personnes morales qui leur sont liés.
+. . .
+[…]
+[38] As for section 147 of the Act respecting financial services, Aviva is a "financial institution", namely a "financial institution other than an insurer engaging exclusively in the business of reinsurance". Also, for the purposes of section 147, Dale Parizeau meets the definition of "firm", namely "a firm registered for the damage insurance sector that acts through a damage insurance broker and does not engage exclusively in the business of reinsurance".
+[39] The Autorité des marchés financiers ("AMF") is responsible for administering the Act respecting financial services.[1] Its mission in administering this act is to ensure the protection of the public regarding the exercise of the activities governed by the Act.[2]
+[40] Also under section 184, the AMF shall ensure compliance with the provisions of the Act respecting financial services and its regulations that govern certificate holders and firms, among others.
+[41] The appellants argued that the Court must find that Article 7.3 of the Shareholders Agreement is contrary to public order and is therefore null by virtue of the effect of section 148 of the Act respecting financial services prohibiting the transaction described in the Shareholders Agreement, that is, the sale of 100% of the shares of Gestion Lagarde to Aviva, coupled with the AMF's mandate to protect the public.
+[42] Article 1413 of the C.C.Q. states that:
+A contract whose object is prohibited by law or contrary to public order is null.
+Est nul le contrat dont l'objet est prohibé par la loi ou contraire à l'ordre public.
+[43] Article 1418 of the C.C.Q. provides that:
+The absolute nullity of a contract may be invoked by any person having a present and actual interest in doing so; it is invoked by the court of its own motion.
+La nullité absolue d'un contrat peut être invoquée par toute personne qui y a un intérêt né et actuel; le tribunal la soulève d'office.
+A contract that is absolutely null may not be confirmed.
+Le contrat frappé de nullité absolue n'est pas susceptible de confirmation.
+[44] A contract that is null absolutely is deemed never to have existed and, in such case, each party is bound to restore to the other what each received under the contract[3].
+[45] First of all, before entering the discussion of absolute nullity of the Shareholders Agreement, I must concede that it is the Quebec Superior Court, not the Tax Court of Canada, that has jurisdiction to declare a contract absolutely null. The appellants may have proceeded to the Quebec Superior Court for such a declaration before appearing in this Court, but they did not.
+[46] Nevertheless, notwithstanding that the court of competent jurisdiction has not made any declaration of nullity of the Shareholders Agreement, as amended, this Court has jurisdiction to dispose of an appeal by dismissing or allowing the appeal: subsection 171(1) of the Act. In considering whether to dismiss or allow an appeal the trial judge must consider the bona fides of contracts, including the validity of a contract and any of its provisions.
+[47] Under section 148 of the Act respecting financial services, no more than 20% of the shares in a firm or voting rights attached to the shares may be held directly or indirectly by financial institutions, financial groups or legal persons related thereto. In the appellants' view, Articles 6 and 7.3 of the Shareholders Agreement violate section 148 of the Act respecting financial services.
+[48] The respondent alleged that Aviva never held shares in Dale Parizeau in any manner. She claimed instead that Aviva held a right to acquire said shares, but never actually held the shares related to the acquisition right. Therefore, Aviva did not violate section 148 of the Act respecting financial services.
+[49] The appellants challenge the respondent's position on this, indicating that the effect of influence is the same whether there is a right to acquire or ownership of more than 20% of the capital-stock shares of a firm.
+[50] Whether, on the facts of the appeal, the right of Aviva to acquire more than 20 per cent of the shares of Gestion Lagarde violated the spirit and object of section 148 of the Act respecting financial services may be rather moot. Until such time as the contemplated transaction closed, it is arguable that Aviva could have carved up its rights to acquire the shares among other persons so that, at closing, it would acquire not more than 20 per cent of the target company. And, in fact, Aviva did so.
+[51] The interpretation of the words "shares [that] may be held directly or indirectly …" in section 148 of the Act respecting financial services cannot be said to be influenced by the deeming provision of subparagraph 251(5)(b)(i) of the Act. The words of section 148 speak of actual ownership, "shares … held", not influence of control of the corporation due to a right to acquire shares.
+[52] As far as section 148 of the Act respecting financial services is concerned, neither Aviva nor an assignee "held" or owned shares of Gestion Lagarde or RJCG before April 28, 2006. However, prior to April 28, 2006, Aviva, on the particular facts before me, may have been deemed by a different statute of a different jurisdiction, the Act, to be in the same position in relation to the control of Gestion Lagarde or RJCG as the shareholders of those corporations. One ought not confuse a provision in one statute with a provision in another statute of a different authority.
+[53] Nevertheless, if I am wrong that Aviva's right to acquire shares did not violate section 148 of the Act respecting financial services, then, I must consider whether or not the Shareholders Agreement is null absolutely. Article 18.6 of the Shareholders Agreement provided for the severability of illegal portions of the Agreement. Thus, Article 7.3 of the Shareholders Agreement may be null absolutely but the rest of the Agreement would continue in existence.
+[54] Absolute nullity is a general law sanction, and its application is based on article 1413 C.C.Q.
+[55] The principle of the invalidity of a contract that leads, in one way or another, to a prohibited legal operation is also affirmed at section 41.3 of the Interpretation Act:[4] "[p]rohibitive laws entail nullity, even if nullity is not pronounced therein."
+[56] Thus, when a law of public order prohibits something, [translation] "the contract that violates it is null, although this sanction might not even be mentioned."[5]
+[57] This rule of interpretation is not absolute, however, and may very well be overturned when justified under the circumstances. Moreover, a peremptory norm may be sanctioned other than by invalidating the contract in question.[6]
+[58] To determine whether the violation of a right outside civil law leads to the nullity of the contract, the position Professor Jobin defended in 1985 must be considered,[7] namely that a textual analysis of the legislation is required.
+[59] In her article on sanctions associated with laws of public order, Michelle Cumyn summarizes Professor Jobin's position well as follows:
+[translation]
+When the prohibition specifically targets a particular contract, the trade of a particular non-conforming good or the provision of a particular service without the required authorization, the contract must be considered null. On the other hand, when the legislator has merely imposed certain duties on a person subject to a sanction, it is not relevant to apply nullity. In the first case, the contract would directly violate the law, and in the second, there would be an indirect violation.[8]
+[60] Professor Jobin also gives the example that [translation] "it is one thing to prescribe, subject to a fine, that all dwellings must have at least two exits, and completely another to defend renting an apartment that does not have two exits.[9]
+[61] Jean Pineau, Danielle Burman and Serge Gaudet also defend Professor Jobin's opinion that [translation] "if the legislator does not provide specific directions on the fate of the contract, should there be a violation of the law, one must question whether the objectives of the standard require the contract to be nullified. The presumption of nullity under section 41.3 of the Interpretation Act is merely a guide."[10]
+[62] For example, a law may very well dictate that all cars must have a legible serial number, without necessarily leading to the conclusion that the sale of a vehicle is null if there is no serial number or if the number is not legible.[11]
+[63] Moreover, Michelle Cumyn writes that in analyzing whether to apply absolute nullity, one should ask if, on the one hand, this sanction is necessary to ensure compliance with the law, while considering, on the other hand, the disadvantages likely to result from the sanction of nullity for the parties and certain third parties. She adds that when a monitoring authority is responsible for enforcing the law, and the authority has a variety of preventive sanctions at its disposal, absolute nullity should be disregarded.[12]
+[64] This is the situation in the present case. Under section 184 of the Act respecting financial services, the AMF is the body responsible for the compliance with this act; it ensures the protection of the public with regard to the activities governed by the Act respecting financial services.
+[65] Additionally, I have trouble applying the sanction of absolute nullity of the contract when the legislator provided the appropriate sanction at section 485 of the Act respecting financial services:
+485. Unless otherwise specifically provided, every person that contravenes a provision of this Act or the regulations is guilty of an offence and is liable to a minimum fine of $2,000 in the case of a natural person and $3,000 in other cases, double the profit realized or one fifth of the sums entrusted to or collected by the person, whichever is the greatest amount. The maximum fine is $150,000 in the case of a natural person and $200,000 in other cases, four times the profit realized or half the sums entrusted to or collected by the person, whichever is the greatest amount.
+…
+[66] The Quebec Court of Appeal, in Elge financialease Inc. v. Dépanneur Kildare Enr.[13] noted the importance of applying the absolute nullity sanction with restraint and diligence.
+[67] In that case, Dépanneur Kildare had signed a leasing contract with Elge for financing to use a rotisserie provided by N.A. Credit Services Inc. A few months later, Dépanneur Kildare realized that the rotisserie did not conform to the standards required under the Electrical Installations Act. It complained to the supplier, but to no avail. It therefore decided to stop making rental payments to Elge, and offered to return the rotisserie. Elge refused this offer and took action for the amount of rent owing. The Court of Quebec maintained Elge's action and ordered Dépanneur Kildare to pay the rent in arrears. On appeal from this decision, Dépanneur Kildare alleged that the lease was an absolute nullity, considering the rotisserie was non-compliant.
+[68] The Quebec Court of Appeal dismissed the appeal. Per Justice Rothman, the Court noted that the object of the contract was merely to obtain financing, which was received. Justice Rothman stated the following about the concept of absolute nullity:
+In principle, of course, the object of an obligation or contract must not be something forbidden by law…and prohibitive laws import nullity…. But application of these principles has evolved over the years to meet changing needs and realities…
+Not all contracts which violate a law or regulation, however indirectly or theoretically, must be considered absolutely null. The theory of public order and nullity must be applied with due regard to the nature of the law and the violation as well as the nature of the contract.[14]
+[69] It is on this basis that I find that the Shareholders Agreement, and in particular Section 7.3 of the Agreement, is not absolutely null and is a "bona fide" agreement.
+[70] I now turn to consider whether the shares of RJCG were "qualified small business corporation shares" of the appellants immediately before they were disposed of in 2006.
+[71] During the course of reviewing the evidence I had the Registrar of the Court write to counsel with the following question:
+[translation]
+Supposing the Unanimous Shareholders Agreement dated April 12, 2002, is not absolutely null, does the fact that Aviva Canada Inc. ("Aviva"), a corporation controlled by a non-resident, acquired—in the Agreement—an option to purchase the majority participation in Gestion Lagarde Massicotte Inc. ("Lagarde") have repercussions on the status of Lagarde and Dale Parizeau C.M. Inc. ("D.P.") as Canadian-controlled private corporation [subsection 125(7) and paragraph 251(5)(b)] in 2002 and as a result, the shares in Gestion RJCG Inc. ("RJCG") ceased to be qualified small business corporation shares [paragraph 110.6(1)(c)]? (No evidence was submitted regarding the fair market value of the RJCG or Lagarde’s assets [paragraph 110.6(1)(c.1)]).
+[72] In their reply to the letter of the Registrar counsel for the appellants reviewed the facts pointing out that Aviva never exercised the option to become owner of the shares of Gestion Lagarde. Further, they argued that the shareholders of RJCG were not bound by the Shareholders Agreement and the Shareholders Agreement did not apply to the shareholders of RJCG. Their analysis of my request was as follows:
+[translation]
+It is the appellants’ opinion that the respondent abandoned in fact and in law this new argument raised by your question, namely that it is possible that the shares of RJCG are not qualified small business shares, even though RJCG is a CCPC. This would be found in the composition of its assets.
+Therefore, although under 251(5(b)(i), GLM might be disqualified as a CCPC, and you would have to rule that the option is not absolute nullity, the shares in RJCG could still be eligible small corporation shares on the basis that RJCG is a CCPC and that the composition of its assets respects the standards set out in the definition of "qualified small business corporation share" at subparagraph 110.6(c)(i) and (ii) ITA, in that more than 50% of the fair market value of RJCG's assets can be attributed to elements other than shares of GLM.
+Since the transaction took place in April 2006, more than nine years ago, any evidence to prove or contradict the value of the elements in RJCG's assets is no longer possible. The appellants respectfully submit that, in accordance with subsection 152(9) ITA, the Court should not allow a new argument to be introduced based on the question you asked.
+There is certainly confusion about which company is covered by the option, but we must remember that it is the CRA that made the assessments and determined their basis, namely that the option was for shares in RJCG whereas the option is for shares in GML.
+[73] Obviously, the Crown does not agree with the appellants. With respect to the assets of RJCG, respondent's counsel referred to the testimony of Sonia Blondeau that both RJCG and Gestion Lagarde were only management companies ("sociétés de gestion").
+[74] Gestion Lagarde held 100 percent of the shares of Dale Parizeau, the operating company. And all of the common shares of Gestion Lagarde were owned by RJCG. Neither Gestion Lagarde nor RJCG carried on any business activity, according to Ms. Blondeau.
+[75] An immediate result of the parties to the Shareholders Agreement on April 12, 2002, granting the right to acquire the common shares of Gestion Lagarde, was that RJCG, Gestion Lagarde and Dale‑Parizeau all lost certain benefits as to status under the Income Tax Act.
+[76] Aviva, a non‑resident controlled corporation, was deemed by paragraph 251(5)(b) to have the same position in relation to the control of Gestion Lagarde as if Aviva owned the shares. Paragraph 110.6(14)(b) refers to rights cited in paragraph 251(5)(b). Rights in paragraph 251(5)(b) are to be taken into account to determine “Canadian-controlled private corporation” status as defined in paragraph 125(7). However, paragraph 251(5)(b) carves out specific exceptions when determining control by the existence of an option. These exceptions where the right to acquire shares is contingent on the death, bankruptcy or permanent disability of an individual are of a relieving nature and are intended to accommodate provisions frequently found in shareholders’ agreements which govern the purchase and sale of shares. If paragraph 110.6(14)(b) shelters shareholders’ agreements in purchase and sale agreements, it would be wholly unnecessary for the Parliament to carve out specific exceptions due to involuntary and uncertain events that are commonly found in shareholders’ agreements. Paragraph 110.6(14)(b) has no application to the facts at bar.
+[77] The decision of this court in Chartier c. R., 2007 TCC 37, was brought to my attention. In that case an “Option Agreement,” signed the same day as a purchase and sale agreement, was envisaged in the original share purchase agreement, thereby making the right to acquire additional shares a “right under a purchase and sale agreement.” The “Option Agreement” was referred to in the purchase and sale agreement but was not expressly provided for by reason of drafting error. The trial judge was careful to call attention to the clear intention of the parties at the time of drafting: the taxpayer wanted to sell all of their shares of a corporation at the time of signing. The finding in Chartier is confined to its particular set of facts[15].
+[78] Hence, as of April 12, 2002, Dale‑Parizeau, controlled by Gestion Lagarde, was controlled "directly or indirectly in any manner whatever" by Aviva. Dale‑Parizeau was no longer a Canadian controlled private corporation: paragraph 125(7)(a).
+[79] Also, each of Dale‑Parizeau and Gestion Lagarde ceased to be a "small business corporation" within the meaning of the Act: subsection 248(1).
+[80] A capital gain deduction claimed by each individual appellant is available on the disposition of the individual's shares of RJCG if the RJCG shares were qualified small business corporation shares of the individual at time of disposition. A "qualified small business corporation share" of an individual is defined in subsection 110.6(1).
+"qualified small business corporation share" of an individual (other than a trust that is not a personal trust) at any time (in this definition referred to as the “determination time”) means a share of the capital stock of a corporation that,
+« action admissible de petite entreprise » S’agissant d’une action admissible de petite entreprise d’un particulier (à l’exception d’une fiducie qui n’est pas une fiducie personnelle) à un moment donné, action du capital-actions d’une société qui, à la fois :
+(a) at the determination time, is a share of the capital stock of a small business corporation owned by the individual, the individual’s spouse or common-law partner or a partnership related to the individual,
+a) au moment donné, est une action du capital-actions d’une société exploitant une petite entreprise, action dont le particulier, son époux ou conjoint de fait ou une société de personnes liée au particulier est propriétaire;
+(b) throughout the 24 months immediately preceding the determination time, was not owned by anyone other than the individual or a person or partnership related to the individual, and
+b) tout au long de la période de 24 mois qui précède le moment donné, n’est la propriété de nul autre que le particulier ou une personne ou société de personnes qui lui est liée;
+(c) throughout that part of the 24 months immediately preceding the determination time while it was owned by the individual or a person or partnership related to the individual, was a share of the capital stock of a Canadian-controlled private corporation more than 50% of the fair market value of the assets of which was attributable to
+c) tout au long de la partie de la période de 24 mois qui précède le moment donné, où l’action est la propriété du particulier ou d’une personne ou société de personnes qui lui est liée, est une action du capital-actions d’une société privée sous contrôle canadien et dont plus de 50 % de la juste valeur marchande de l’actif est attribuable à des éléments visés aux sous-alinéas (i) ou (ii):
+(i) assets used principally in an active business carried on primarily in Canada by the corporation or by a corporation related to it,
+(i) des éléments utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement, principalement au Canada,
+(ii) shares of the capital stock or indebtedness of one or more other corporations that were connected (within the meaning of subsection 186(4) on the assumption that each of the other corporations was a “payer corporation” within the meaning of that subsection) with the corporation where
+(ii) des actions du capital-actions ou des dettes d’une ou plusieurs autres sociétés rattachées à la société — au sens du paragraphe 186(4), selon l’hypothèse que chacune de ces autres sociétés est une société payante au sens du même paragraphe — dans le cas où, à la fois :
+…
+…
+(B) throughout that part of the 24 months immediately preceding the determination time while such a share or indebtedness was owned by the corporation, a person or partnership related to the corporation or a person or partnership related to such a person or partnership, it was a share or indebtedness of a Canadian-controlled private corporation more than 50% of the fair market value of the assets of which was attributable to assets described in subparagraph (iii), or
+(B) tout au long de la partie de la période de 24 mois qui précède le moment donné, où ces actions ou ces dettes sont la propriété de la société, d’une personne ou société de personnes qui lui est liée ou d’une personne ou société de personnes liée à une telle personne ou société de personnes, il s’agit d’actions ou de dettes de sociétés privées sous contrôle canadien et dont plus de 50 % de la juste valeur marchande de l’actif est attribuable à des éléments visés au sous-alinéa (i) ou au présent sous-alinéa.
+[81] The definition of "qualified small business corporation share", therefore, appears to disqualify the shares of RJCG as qualified small business corporation shares. At least throughout the 24 months immediately preceding the disposition of the shares on April 28, 2006 not more than 50 percent of the fair market value of RJCG's assets were attributable to assets used principally in an active business carried on primarily in Canada by RJCG or a corporation related to it.
+[82] Also, throughout the same 24 months period the shares of Gestion Lagarde owned by RJCG were not shares of a Canadian-controlled private corporation more than 50 percent of the fair market value of the assets of which was attributable to assets used principally in an active business carried out primarily in Canada by Gestion Lagarde or a corporation related or connected to it. In my view it does not matter whether or not Aviva obtained an option to purchase the shares of RJCG in December 2005, as alleged by the respondent. During the period of 24 months preceding April 28, 2006, RJCG's shares were not qualified small business corporation shares.
+[83] The appellants complain that the sales of the RJCG shares took place in April 2006, nine years ago, and it is therefore impossible to prove or contradict the value of RJCG's assets at the time. Not so. Surely financial statements are available. But nevertheless Ms. Blondeau has testified that the sole assets of RJCG were shares of Gestion Lagarde; RJCG was a holding company not carrying on a business. There was no evidence that any corporation that owned RJCG or any holding company met the threshold requirements in paragraphs 110.6(1)(c) and 110.6(1)(d). Paragraph 110.6(14)(e) does not affect the “interposition of a holding company between themselves and the small business corporation.”[16] There are no financial statements in evidence to verify whether the threshold requirements were met at each subsidiary level. However, the threshold requirement is a moot point since the option on Gestion Lagarde’s shares, even if never exercised, tainted the definition of “qualifying small business corporation” in section 110.6(1) since the operating company was no longer under Canadian control as required by paragraph 251(5)(b).
+[84] Therefore, the appeals will be dismissed. The appellants did not dispose of any qualified small business corporation shares in 2006 and are not eligible to claim a capital gain deduction. It would also follow that appellants Nathalie Monette, Francine Bussières, Élise Lagarde, Claudine Lagarde, G. Marius Bérubé, Marie‑Pier Blondeau, Vincent Lagarde and Aïsha Blondeau are not eligible to claim a minimum tax carry-over for the 2007 and 2008 taxation years, and for Line Durocher, Geneviève Lagarde and Francis Labonté, for the 2008 taxation year also.
+Signed at Ottawa, Canada, this 9th day of December 2015.
+"Gerald J. Rip"
+Rip J.
+CITATION:
+2015 TCC 297
+COURT FILE NOS:
+2011-1339(IT)G, 2011‑1274(IT)G, 2011‑1284(IT)G, 2011‑1305(IT)G, 2100‑1314(IT)G, 2011‑1349(IT)G, 2011‑1350(IT)G, 2011‑1351(IT)G, 2011‑1352(IT)G, 2011‑1356(IT)G, 2011‑1357(IT)G, 2011‑1358(IT)G, 2011‑1360(IT)G, 2011‑1363(IT)G, 2011‑1365(IT)G and 2011‑1372(IT)G
+STYLE OF CAUSE:
+LINE DUROCHER, XAVIER VALLERAND, G. MARIUS BÉRUBÉ, AПSHA BLONDEAU, CATHERINE SANSOUCY, CLAUDINE LAGARDE, ÉLISE LAGARDE, FRANCIS S. LABONTÉ, GENEVIÈGE LAGARDE, NATHALIE MONETTE, MARISOL RINGUET, MARIE‑PIER BLONDEAU, FRANCINE BUSSIÈRES,VINCENT LAGARDE, OLIVIER RINGUET and LOIK VALLERAND
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 19, 2015
+MOTIFS DE JUGEMENT PAR :
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+December 9, 2015
+APPEARANCES:
+Counsel for the appellants:
+Bertrand Leduc, Serge Amar
+Tamila Ziani et Éloïse Gagné
+Counsel for the respondent:
+Nathalie Labbé et Grégoire Cadieux
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Bertrand Leduc
+Firm:
+Miller Thomson Pouliot, LLP
+Montreal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Section 580.1.
+[2] Section 184.
+[3] Art. 1422 C.C.Q.
+[4] Interpretation Act, R.S.Q., c. I-16, s. 41.3.
+[5] Jean Pineau, Danielle Burman and Serge Gaudet, Théorie des Obligations, 4th ed. (Montréal: Thémis, 2001) at para. 170.
+[6] Ibid.
+[7] Pierre-Gabriel Jobin, “Les effets du droit pénal ou administratif sur le contrat : où arrêtera l’ordre public ?” (1985) 45 R. du B. 655 at p. 672.
+[8] Michelle Cumyn, “Les sanctions des lois d’ordre public touchant à la justice contractuelle : leurs finalités, leur efficacité” (2007) 41 R.J.T. 1 at para. 82.
+[9] Jobin, supra note 8.
+[10] Pineau, Burman and Gaudet, supra note 6.
+[11] Ibid.
+[12] Michelle Cumyn, “Les sanctions des lois d'ordre public touchant à la justice contractuelle : leurs finalités, leur efficacité” (2007) 41 R.J.T. at para. 82.
+[13] [1998] J.Q. 2915.
+[14] Ibid. at paras 24-25.
+[15] The facts of the case at bar do not require comment on the implications of buy-sell options containing suspensive conditions (“put/call”). It should be noted that, in civil law, article 1507 of the C.C.Q. suggests retroactive application of the fulfillment of a suspensive condition. This may have to be considered in the future.
+The first paragraph of article 1507 of the C.C.Q. states that:
+The fulfillment of a suspensive condition obliges the debtor to perform the obligation, as though it had existed from the day on which he obligated himself under that condition.
+La condition suspensive accomplie oblige le débiteur à exécuter l'obligation, comme si celle-ci avait existé depuis le jour où il s'est obligé sous telle condition.
+[16] Department of Finance, Technical Notes Income Tax (Ottawa: Department of Finance, 1988) s 110.6(14)(e).

@@ -1,0 +1,62 @@
+Title: Yaskiel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26624/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-640-26624-yaskiel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-10-14
+
+# Yaskiel c. La Reine
+
+- Citation: 2005 CCI 640
+- Decision date: 2005-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3632, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yaskiel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-14
+Référence neutre
+2005 CCI 640
+Numéro de dossier
+2003-2671(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+No de référence : 2005CCI640
+Date : 20051014
+Dossier : 2003-2671(IT)I
+ENTRE :
+LAWRENCE A. YASKIEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Toronto (Ontario), le 8 mars 2004)
+Le juge Margeson
+[1] La question dont est saisie la Cour est de savoir si l'appelant a le droit de déduire les montants de 6 293 $ à l'égard d'une personne à charge admissible et de 10 080 $ à titre de frais de garde d'enfants pour l'année en question.
+[2] Dans sa déclaration pour l'année en question, l'appelant a indiqué qu'il avait payé les montants de 5 556 $ à la Sherwood Heights School et de 4 880 $ au YMCA. Les deux montants concernaient une période de 52 semaines.
+[3] La Cour a pu établir que l'appelant n'a pas le droit de déduire les montants susmentionnés. En premier lieu, il n'a pas payé ces sommes. Il ressort très clairement de la preuve qu'il n'avait pas à le faire. Selon la preuve, l'entente prévoyait que l'épouse devait effectuer les paiements.
+[4] En second lieu, le véritable rôle des montants que l'appelant aurait censément versés au YMCA n'a pas été assez détaillé.
+[5] À cet égard, l'appel est rejeté, et la cotisation établie par le ministre est ratifiée.
+[6] L'appelant a aussi demandé la déduction du montant de 6 293 $ comme équivalent du montant pour conjoint.
+[7] À cet égard, la Cour a pu établir que l'appelant a réfuté quelques-unes des présomptions contenues dans la réponse, en particulier la présomption capitale qui est énoncée dans le paragraphe 7c), c'est-à-dire que l'appelant n'avait ni la garde ni la garde partagée de l'un ou l'autre des enfants mentionnés dans le paragraphe 7b), et qu'après la date de la séparation, ni l'un ni l'autre des enfants n'a habité avec l'appelant dans le même établissement domestique autonome.
+[8] La Cour est convaincue que l'appelant a réfuté la présomption. Ce dernier a présenté une preuve suffisante à cet égard, et l'intimée a appelé un témoin qui a indiqué que c'était le cas.
+[9] La Cour estime que l'appelant a le droit de déduire ce montant pour autant que les dispositions du paragraphe 118(4) ne l'interdisent pas.
+[10] La Cour a pu établir que les dispositions du paragraphe 118(4) n'interdisent pas à l'appelant de déduire ce montant. Le témoin qu'a appelé l'intimée était incapable d'indiquer qu'une autre personne avait demandé la déduction du montant. Sur la base de ce témoignage, la Cour est convaincue que l'appelant s'est acquitté du fardeau de la preuve quant à cette partie de la demande, et celui-ci a le droit de déduire le montant de 6 293 $ comme équivalent du montant pour conjoint.
+[11] La Cour admettra l'appel et renverra la cotisation au ministre du Revenu national pour qu'il la réexamine et qu'il en établisse une nouvelle en application de la décision de la Cour, qui donne à l'appelant le droit de déduire le montant de 6 293 $ à titre de crédit d'impôt non remboursable brut à l'égard d'une personne à charge admissible pour l'année d'imposition 2001.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2005.
+« T. E. Margeson »
+Le juge Margeson.
+Traduction certifiée conforme
+ce 24e jour de janvier 2006.
+Joanne Robert, traductrice

@@ -1,0 +1,192 @@
+Title: 2177936 Ontario Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/63238/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-317-63238-2177936-ontario-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2013-10-04
+
+# 2177936 Ontario Ltd. c. M.R.N.
+
+- Citation: 2013 CCI 317
+- Decision date: 2013-10-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6090, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2177936 Ontario Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-04
+Référence neutre
+2013 CCI 317
+Numéro de dossier
+2012-5126(CPP)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2012-5126(CPP)
+ENTRE :
+2177936 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 septembre 2013, à Winnipeg (Manitoba)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocate de l’appelante :
+Me Barbara M. Shields
+Avocate de l’intimé :
+Me Larissa Benham
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada est accueilli, et la décision du ministre du Revenu national, à savoir que l’appelante était dans la situation d’un emploi ouvrant droit à pension, est annulée.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2013.
+"Campbell J. Miller"
+C. Miller J.
+Traduction certifiée conforme
+ce 19e jour de novembre 2013.
+C. Laroche
+Référence : 2013 CCI 317
+Date : 20131004
+Dossier : 2012-5126(CPP)
+ENTRE :
+2177936 ONTARIO LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] 2177936 Ontario Ltd. (« 217 Co. ») interjette appel d’une décision datée du 27 septembre 2012, par laquelle le ministre du Revenu national (le « ministre ») a conclu que M. Terry Dickey a été son employé, en tant que chauffeur de taxi, au cours de la période du 1er janvier au 1er octobre 2011. 217 Co. a interjeté appel sous le régime de la Loi sur l’assurance-emploi ainsi que sous celui du Régime de pensions du Canada (le « RPC ») mais, au début de l’instruction, elle a retiré l’appel interjeté sous le régime de la Loi sur l’assurance-emploi. La seule question à trancher consiste donc à savoir si M. Dickey exerçait un emploi ouvrant droit à pension : était-il employé ou entrepreneur indépendant? La Cour a été saisie de nombreuses affaires mettant en cause un chauffeur de taxi et, vu la mesure dans laquelle cette question est tributaire des faits propres à chacun, il n’est guère surprenant de constater que les résultats vont dans les deux sens. Il est donc crucial d’examiner les faits avec soin.
+Les faits
+[2] M. Baldev Gill est le propriétaire de 217 Co. Bien qu’il vive à Winnipeg, en tant que technicien électronicien, il a eu l’occasion de travailler à Kenora (Ontario) dans le cadre de l’installation de taximètres. Cette occasion l’a amené en 2008 à acheter un taxi appartenant à M. Greene. À cette époque, ce dernier avait conclu avec M. Dickey une entente concernant la conduite de ce taxi. Il s’agissait d’une entente de partage des recettes. Il y a eu un certain désaccord entre les parties quant au fait de savoir si les recettes étaient partagées dans une proportion de 45/55 ou de 50/50, mais cela importe peu.
+[3] M. Gill a présumé qu’il poursuivrait avec M. Dickey l’entente conclue avec M. Greene. 217 Co. supportait les frais d’assurance et d’entretien du véhicule. En fait, M. Gill effectuait lui-même les réparations du véhicule et, pour ce faire, emmenait celui-ci à Winnipeg ou se rendait lui-même à Kenora. 217 Co. a également fait l’acquisition du permis de courtier nécessaire, tandis que M. Dickey s’est procuré le permis de chauffeur de taxi requis auprès de la Ville de Kenora. Dans le cadre de l’entente de partage des recettes à 50/50, 217 Co. et M. Dickey supportaient à parts égales le coût du carburant.
+[4] 217 Co. a fait l’acquisition de trois autres taxis entre 2008 et 2011. M. Gill a fait embaucher par M. Dickey des chauffeurs pour ces autres véhicules. Jusqu’en 2011, 217 Co. a payé à M. Dickey la somme de 100 $ par mois, par véhicule, pour la gestion des taxis. À part l’embauche des chauffeurs, je n’ai pas bien saisi ce que M. Dickey a fait d’autre à cet égard. En 2011, en raison de problèmes de santé, M. Dickey a cessé de fournir ce service à 217 Co. et il a simplement travaillé comme chauffeur. Kathy Hall, qui possédait aussi à Kenora des taxis dont s’occupait le même répartiteur, COOT Taxi (1999) Ltd. (« COOT »), a pris en charge ce service pour 217 Co.
+[5] M. Gill n’avait pas d’entente écrite avec M. Dickey. M. Gill n’allait à Kenora qu’à l’occasion, principalement lorsqu’un véhicule avait besoin de réparations. Avant 2011, M. Dickey allait une fois par mois à Winnipeg pour remettre à M. Gill la part des recettes revenant à 217 Co., de pair avec un calcul sommaire des courses, des recettes et du partage approprié. Ces informations étaient étayées par des feuilles de caisse quotidiennes, un formulaire que M. Dickey avait créé et qui dressait la liste des recettes de la journée, les totaux et le partage approprié. Il remplissait ce formulaire à la main durant la journée, mais en établissait une version informatique dans la soirée.
+[6] En juin 2011, l’entente de partage dans une proportion de 50/50 a changé. Selon M. Gill, cela était dû au fait que M. Dickey s’était plaint que les chauffeurs ne remplissaient pas complètement le réservoir d’essence à la fin de leur quart de travail. Ce problème a été résolu en modifiant l’entente de façon à ce que 217 Co. touche 60 p. 100 des recettes, mais paye les frais de carburant. M. Dickey a déclaré que ce changement était une initiative du répartiteur, COOT, et que tous les propriétaires et chauffeurs de véhicules travaillant avec COOT avaient dû adopter l’entente de partage à 60/40. COOT, le répartiteur, était une entreprise appartenant aux propriétaires des taxis, dont faisait partie M. Gill à titre de propriétaire de 217 Co.
+[7] M. Gill n’avait aucun contact quotidien avec M. Dickey. S’il ne voyait pas M. Dickey pendant un mois, 217 Co. ne recevait tout simplement pas de lui sa part des recettes de taxi. M. Gill ignorait quand et où M. Dickey travaillait. Il n’y avait aucun mécanisme de suivi, aucune lecture de compteur et aucune condition exigeant que M. Dickey entre en contact avec M. Gill. Les seules informations qu’avait M. Gill quant au travail qu’accomplissait M. Dickey venaient des feuilles de caisse quotidiennes ou des sommaires qu’il recevait au moment d’être payé. 217 Co. ne payait à M. Dickey aucune indemnité de congé annuel ou de maladie.
+[8] Voyons maintenant comme fonctionnait le service de répartition. Comme il a été indiqué, COOT était le service de répartition. M. Horban, qui, comme M. Gill, était l’un des neuf propriétaires de taxis qui possédaient COOT, agissait comme gestionnaire de cette dernière en 2011. M. Horban avait eu, en 2011, des démêlés semblables avec l’Agence du revenu du Canada (« ARC ») au sujet du RPC et, cette année-là, il avait appris qu’on avait conclu que les deux chauffeurs visés par le même problème n’avaient pas le statut d’employé.
+[9] M. Horban a dit que l’entente conclue entre COOT et les chauffeurs était vague. Les propriétaires, tels que 217 Co., payaient des frais à COOT pour les services de répartition qu’elle fournissait. Il y avait un manuel : « COOT Taxi (1999) Ltd Dispatcher and Driver and Handbook » (Manuel des chauffeurs et répartiteurs de COOT Taxi (1999) Ltd.), mais M. Horban a déclaré qu’il n’était pas sûr que tous les chauffeurs étaient au courant de son existence. M. Dickey a dit qu’il le connaissait. M. Gill, cependant, n’avait jamais vu le manuel avant le présent litige. Ce document, qui ne comptait qu’une douzaine de pages, comportait une liste des véhicules dont COOT s’occupait (27 en tout), l’identité des propriétaires ainsi que les quarts de travail auxquels chacun des véhicules était affecté. Il y avait trois quarts de travail : celui de jour, de 6 h à 18 h, celui de nuit, de 18 h à 6 h, et ce qui a été qualifié de [traduction] « troisième quart », de 15 h à 3 h.
+[10] Ces quarts de travail, selon M. Horban, et comme MM. Gill et Dickey l’ont confirmé, étaient les heures auxquelles un chauffeur pouvait travailler, mais c’était ce dernier qui décidait du nombre d’heures qu’il travaillait en réalité au cours de ces périodes. M. Dickey a déclaré qu’il effectuait dans toute la mesure du possible la période complète de douze heures, commençant même une demi-heure plus tôt s’il le pouvait. Comme l’a déclaré M. Dickey, le chauffeur qui ne voulait pas travailler n’était pas obligé de le faire, mais s’il voulait gagner de l’argent il fallait qu’il soit là. De la même façon, un chauffeur pouvait prendre son repas tout en travaillant ou faire une pause pour le faire – c’était lui qui décidait. Il semble aussi que les chauffeurs pouvaient faire de temps à autre des courses personnelles.
+[11] M. Horban a indiqué que COOT pouvait exiger que les chauffeurs prolongent le quart de travail si celui-ci était particulièrement occupé.
+[12] M. Horban a également déclaré que les chauffeurs pouvaient trouver quelqu’un d’autre pour effectuer leur quart de travail, mais qu’ils n’étaient pas obligés de le faire. M. Gill a dit qu’il n’était pas au courant des changements de chauffeur. M. Dickey a indiqué que, s’il avait besoin d’un remplaçant, il devait obtenir l’autorisation de M. Gill ou d’un autre propriétaire de COOT. Un remplaçant touchait la part de 40 p. 100 des recettes qui revenait au chauffeur.
+[13] Le chauffeur gardait le véhicule chez lui pendant qu’il effectuait des quarts de travail consécutifs, mais il prenait les dispositions nécessaires pour le remettre au chauffeur suivant des quarts de travail consécutifs.
+[14] M. Gill considérait que M. Dickey aurait pu conduire un taxi pour n’importe qui d’autre; ce dernier avait le sentiment qu’il ne pouvait fournir ses services qu’à COOT, mais qu’il aurait peut-être pu travailler pour d’autres propriétaires de véhicules.
+[15] COOT tenait un relevé des courses des chauffeurs pendant une période de trois ou quatre jours, principalement pour des motifs liés à la police. M. Horban a toutefois reconnu qu’un propriétaire qui croyait qu’un chauffeur effectuait des courses non autorisées pouvait demander à voir les relevés.
+[16] Voici quelques-uns des points qui sont exposés dans le guide de politique :
+- les chauffeurs doivent prendre leurs clients dans les limites du territoire de la ville;
+- les chauffeurs doivent signaler la fin d’une course, sous peine d’amende (M. Horban a déclaré que les amendes étaient rares et que, en fait, il ne pouvait se souvenir que d’une seule fois où une telle mesure avait été prise);
+- la radio est réservée au travail seulement;
+- il est interdit de fumer;
+- les chauffeurs doivent se trouver dans la zone appropriée pour accepter une course;
+- toutes les courses doivent être attribuées par le service de répartition;
+- le chauffeur qui refuse de faire une course en ville sera renvoyé chez lui (il y avait quelques exceptions);
+- il peut y avoir un changement de chauffeur pendant un quart de travail.
+[17] Les chauffeurs étaient personnellement responsables de toute contravention ainsi que de la franchise applicable à tout accident dont ils étaient responsables.
+[18] En octobre 2011, M. Gill a envoyé un préavis de cessation d’emploi à ses chauffeurs, disant :
+[traduction]
+Veuillez prendre note du présent avis de cessation d’emploi, entrant en vigueur le 31 octobre 2011. L’entreprise change de structure pour celle d’une entreprise de location. Si l’idée de louer un véhicule et d’être votre propre patron vous intéresse, veuillez communiquer avec moi-même ou Kathy Hall.
+Analyse
+[19] Employé ou entrepreneur indépendant? Selon l’intimé, dans une décision récente : 1392644 Ontario Inc. O/A Connor Homes c Canada[1] (« Connor Homes »), la Cour d’appel fédérale a établi un processus d’analyse en deux étapes :
+[traduction]
+39. La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[20] Dans la présente affaire, indépendamment de la lettre de cessation de M. Gill, je suis d’avis que la preuve étaye l’existence d’intentions opposées quant à la relation entre les parties. Dans un tel cas, je dois, selon moi, me fonder sur la réalité objective, déterminée à partir des facteurs relevés dans les affaires Wiebe Door Services Ltd. v M.N.R.[2] et 671122 Ontario Ltd. c Sagaz Industries Canada Inc.[3] Fait intéressant, la Cour d’appel fédérale indique que l’intention et les conditions du contrat sont des facteurs à prendre en considération dans le cadre de la seconde étape, où les tribunaux doivent déterminer la réalité objective [traduction] « sous le prisme de cette intention ». Deux prismes opposés ne peuvent créer qu’une image embrouillée. Dans le cas présent, l’intention n’est pas un facteur.
+[21] Avant d’examiner les autres affaires mettant en cause des chauffeurs de taxi que les avocates ont invoquées, je tiens à préciser que les principaux facteurs qui permettent de faire une distinction entre le statut d’employé et celui d’entrepreneur indépendant dans les affaires de cette nature sont le contrôle, la possibilité de profit et le risque de perte. D’autres facteurs ne sont pas déterminants, ou peuvent être invoqués de manières neutralisantes. Par exemple, on pourrait penser que dans l’industrie du taxi, un facteur qui a un poids considérable est la propriété du véhicule – un indice important que le chauffeur non-propriétaire n’est qu’un simple employé. Mais, comme on l’a signalé dans des affaires telles que Labrash c M.R.N.[4], au moment d’examiner la question de la propriété des instruments de travail, le service que le chauffeur fournit n’est rien de plus que cela, la conduite du véhicule :
+28. J’ai conclu que la propriété des instruments de travail n’est pas un aspect utile à considérer dans un cas comme celui‑ci. Les propriétaires de taxi possédaient et contrôlaient tout le nécessaire pour l’exploitation globale de l’entreprise de taxi à part, bien sûr, les chauffeurs. Pour leur part, les chauffeurs de taxi possédaient tout ce dont ils avaient besoin lorsqu’ils exerçaient l’activité de chauffeur de taxi pour le compte de tiers et s’acquittaient du coût connexe. Il s’agit ici de leur permis délivré par la ville et de leur permis de conduire délivré par la province. Cet aspect ne fait pas pencher la balance dans un sens ou dans l’autre pour de telles activités.
+[22] Autrement dit, comme l’a déclaré le juge Bonner dans la décision Pemberton Taxi Ltd. v M.N.R.[5] :
+[traduction]
+[…] l’arrangement conclu entre l’appelante et ses chauffeurs était essentiellement un arrangement prévoyant la location des véhicules, en échange d’une part des recettes tirées de l’exploitation du véhicule par le chauffeur qui louait le véhicule.
+De plus, comme l’a signalé le juge Bowie dans la décision Algoma Taxicab Management Ltd. c M.R.N.[6] :
+13. Ni l’un ni l’autre des avocats n’a accordé beaucoup d’importance au critère de la propriété de l’outillage pour déterminer la nature du contrat. Je ne pense pas que ce critère soit un facteur très important. Il est clair que les chauffeurs n’ont aucun investissement dans les véhicules. La preuve ne montre pas clairement dans quelle mesure l’appelante ou plus précisément sa filiale, KCUB, a investi des capitaux dans les véhicules, étant donné que ceux-ci sont loués ou financés au moment de leur achat. Cependant, l’appelante doit avoir un certain investissement et il n’y a aucun doute qu’elle s’expose à un risque si les véhicules sont volés ou endommagés. Toutefois, le coût d’achat ou de location du véhicule ainsi que les frais d’assurance sont supportés par les chauffeurs étant donné qu’il est tenu compte de ces coûts et frais dans le calcul des frais de location que les chauffeurs doivent payer, de la même façon que le sont les coûts de l’essence et les autres frais relatifs aux véhicules engagés par l’appelante. Par conséquent, je ne pense pas qu’il faille accorder beaucoup de poids à ce critère en l’espèce.
+[23] Dans le même ordre d’idées, l’investissement fait et les capitaux investis dans l’entreprise ne sont pas importants. Là encore, sous l’angle d’un chauffeur fournissant un service de conduite, ce facteur est un aspect négligeable qui ne mérite pas d’influencer le résultat. Je le répète, les trois facteurs qui comptent pour faire une distinction entre le statut d’employé et celui d’entrepreneur indépendant dans le cas présent sont le contrôle, la possibilité de profit et le risque de perte. Voyons comment ces facteurs ont été examinés dans d’autres affaires.
+Labrash
+Dans l’affaire Labrash, Perry Sound Taxi était la propriété d’un groupe de propriétaires de taxis qui partageaient les frais de fonctionnement du service de répartition, en payant des frais pour ce dernier. Les propriétaires et les chauffeurs partageaient les recettes dans une proportion de 60/40. Les chauffeurs pouvaient conduire d’autres taxis. Ils pouvaient refuser des courses. Ils pouvaient faire une pause quand ils le voulaient. Ils pouvaient faire des courses personnelles durant leur quart de travail. Le juge Boyle a conclu que le contrôle - ou l’absence de contrôle - faisait pencher la balance en faveur du statut d’entrepreneur indépendant. Il a également conclu que le profit dépendait dans une large mesure des chauffeurs et que, « [b]ien que les chauffeurs ne couraient aucun risque de perte réelle, ils étaient exposés à un risque considérable de recevoir un très petit revenu ou de ne recevoir aucun revenu, et ils pouvaient sans aucun doute avoir une grande influence et un grand contrôle sur leurs revenus pour n’importe quelle période de travail ».
+Conclusion : entrepreneur indépendant.
+Algoma
+Dans l’affaire Algoma, les chauffeurs n’étaient pas propriétaires des véhicules, mais ils détenaient le permis de chauffeur de taxi délivré par la Commission des services policiers de Sault Ste.Marie. Ils concluaient avec l’appelante une « entente de location » qui précisait plusieurs règles, y compris des pénalités. Comme l’a décrit le juge Bowie : « lorsque cela est nécessaire à la protection de l’entreprise de l’appelante, des contrôles très rigoureux visent les chauffeurs, mais lorsque la protection de l’entreprise n’est pas en cause, les chauffeurs peuvent dans une large mesure faire leur travail comme bon leur semble ». L’appelante payait les frais d’assurance, de carburant et d’autres fournitures. Le partage des recettes variait de 38 p. 100 à 30 p. 100 pour le chauffeur. Ce dernier pouvait commencer à travailler en tout temps et trouvait un véhicule disponible. Il n’avait pas à travailler pendant une période minimale et n’était pas tenu d’être disponible pour un quart de travail complet. Il pouvait garder ses propres clients, qui l’appelait directement.
+Le juge Bowie a conclu qu’il ne ressortait pas de l’entente de location que le contrôle exercé était suffisant pour justifier le statut d’employé. De plus, les chauffeurs pouvaient augmenter leur profit en optant pour des quarts de travail occupés, en garant leur taxi à des endroits stratégiques et en évitant de subir des pénalités. Le juge Bowie a également conclu que les chauffeurs s’exposaient à un risque de perte considérable en acceptant d’être payés par carte de crédit ou au comptant, sans compter la possibilité d’avoir à acquitter la franchise en cas d’accident.
+Conclusion : entrepreneur indépendant.
+City Cab (Brantford-Darling St.) Ltd. c M.R.N.[7]
+Dans l’affaire City Cab, l’appelante possédait 26 taxis à Brantford, ainsi qu’une liste de 75 chauffeurs. Elle détenait un permis de courtier de taxi de la ville de Brantford, tandis que les chauffeurs détenaient le permis de chauffeur de taxi approprié. Les recettes étaient partagées dans une proportion de 60/40, et l’entreprise supportait le coût du carburant et de l’entretien. Les chauffeurs pouvaient circuler dans n’importe quelle partie de la ville. Ils supportaient les frais liés aux pertes sur carte de crédit ainsi qu’aux chèques non honorés. On leur remettait un guide de 69 pages qui, selon le juge, était axé sur la protection des intérêts financiers de l’appelante, par exemple, la conduite préventive. Les chauffeurs pouvaient constituer leur propre clientèle et ils pouvaient refuser des courses. Le juge a conclu que, même si les chauffeurs ne possédaient pas leurs taxis, une partie des recettes brutes (60 p. 100) qu’ils payaient à l’appelante était destinée à supporter les frais d’investissement et d’exploitation. Il y avait également des chauffeurs indépendants, propriétaires de leur propre taxi, qui faisaient affaire avec le même service de répartition. Le juge Bowie a conclu :
+[L]es chauffeurs ne se distinguent pas, sur bien des points, des chauffeurs indépendants qui sont propriétaires de leurs véhicules. Les deux groupes peuvent recourir aux mêmes services d’appel et de répartition. Tous deux peuvent recourir de la même façon aux logotypes, aux enseignes et aux cartes de visite de l’entreprise. Tous deux travaillent de la même façon et dans la même zone géographique. L’unique différence importante est le fait que les chauffeurs indépendants sont propriétaires de leurs véhicules et de leurs permis, qu’ils paient eux-mêmes l’essence et les autres frais d’exploitation de leurs véhicules et qu’ils paient un droit hebdomadaire fixe à l’appelante, alors que les chauffeurs de l’entreprise ne sont pas propriétaires des véhicules ou des permis de taxi, et ne paient pas l’essence et les autres frais d’exploitation, mais plutôt versent à l’appelante un pourcentage de leurs recettes brutes.
+Conclusion : entrepreneur indépendant.
+1022239 Ontario Inc.
+Dans l’affaire 1022239 Ontario Inc., la juge Woods a clairement indiqué au départ qu’à son avis « une personne peut exploiter une entreprise à son compte, et ce, même si l’entreprise consiste uniquement à conduire un taxi ». Elle a ajouté que le contrôle était le facteur le plus important, citant les faits suivants pour montrer que le contrôle exercé n’était pas suffisant pour conclure à l’existence d’un statut d’employé :
+- les chauffeurs pouvaient déterminer à leur guise à quels moments ils travaillaient et ils n’étaient pas tenus d’effectuer un poste complet;
+- on ne disait pas aux chauffeurs où conduire;
+- on encourageait les chauffeurs à trouver leurs propres clients;
+- les chauffeurs pouvaient s’occuper d’affaires personnelles pendant qu’ils effectuaient leur poste.
+La juge Woods a jugé que les autres facteurs n’étaient pas importants.
+Conclusion : entrepreneur indépendant.
+Barton c M.R.N.[8]
+Dans cette affaire, c’était le chauffeur, M. Barton, qui était l’appelant. Il n’était pas propriétaire du taxi qu’il conduisait. Il partageait les recettes avec le propriétaire dans une proportion de 50/50, mais bénéficiait toutefois d’un minimum garanti de 6,25 $ l’heure. Le propriétaire supportait le coût de l’entretien et du carburant. C’était lui qui attribuait les quarts de travail, mais M. Barton travaillait toujours de jour. Le propriétaire attribuait aussi les véhicules. Le juge Webb a conclu que le facteur du contrôle faisait pencher la balance en faveur d’une relation employeur‑employé. Il a également souligné que le véhicule n’appartenait pas à M. Barton, qui avait investi peu d’argent et ne courait aucun risque financier.
+Conclusion : employé.
+Hayer c R.[9]
+Dans cette affaire, l’appelant possédait et exploitait deux taxis et il faisait affaire avec le service de répartition de Kelowna Cabs, lequel appartenait aux propriétaires de véhicules, dont faisait partie M. Hayer. Grâce à son système informatique, Kelowna Cabs était en mesure de suivre les itinéraires de chaque chauffeur, la quantité de travail qu’il accomplissait, et même la rapidité de ses déplacements. M. Hayer pouvait déterminer pourquoi les recettes d’un chauffeur étaient inférieures à celles d’un autre. L’appelant remettait au chauffeur des feuilles de route sur lesquelles étaient consignées les recettes, qui étaient partagées dans une proportion de 40/60.
+Le chauffeur signait un contrat de deux pages appelé [traduction] « Entente chauffeur-exploitant » dans lequel il convenait d’observer les règles de Kelowna Cabs. Il recevait un horaire de travail auquel il devait se conformer. Il devait effectuer le quart de travail complet, et ne pouvait pas faire moins d’heures de travail. On lui disait quand il devait travailler à l’aéroport de Kelowna et aussi que, s’il était censé travailler dans une partie de la ville, il ne pouvait pas le faire dans une autre.
+M. Hayer supportait les frais d’entretien et de carburant. Le chauffeur ne pouvait pas engager un remplaçant.
+La juge a conclu que le degré de contrôle exercé était suffisant pour justifier l’existence d’une relation d’emploi. Elle a tenu compte du fait que le véhicule était un élément d’actif important de l’entreprise et qu’il n’appartenait pas au chauffeur. Elle a également conclu que ce dernier avait peu de chances de réaliser un profit supplémentaire, car les quarts de travail étaient établis à l’avance.
+Conclusion : employé.
+Le contrôle
+[24] Même s’il existe des similitudes entre l’affaire dont je suis saisi et toutes celles qui précèdent, je conclus qu’en l’espèce, le degré de contrôle exercé correspond davantage aux quatre premières affaires d’entrepreneur indépendant qu’aux deux dernières d’employé. Même si l’on n’accordait pas aux chauffeurs la même latitude que dans l’affaire Algoma, rien ne s’approche du degré de contrôle qu’exerçaient les propriétaires dans l’affaire Hayer. Non, la présente affaire se situe dans la zone grise du contrôle qui oblige à soumettre ces questions à la Cour; cependant, pour les motifs qui suivent, je conclus que le facteur du contrôle, comme dans le cas des affaires Labrash, City Cab, Algoma et 1022239 Ontario Inc., fait pencher la balance en faveur du statut d’entrepreneur indépendant :
+- M. Dickey pouvait conduire pour d’autres propriétaires;
+- ni M. Gill ni COOT n’étaient en mesure de surveiller M. Dickey pendant qu’il travaillait;
+- M. Gill n’a eu presque aucun contact avec M. Dickey en 2011;
+- M. Dickey pouvait effectuer les heures de travail qu’il voulait; il n’était pas obligé d’effectuer un quart de travail complet;
+- M. Dickey pouvait faire les pauses qu’il voulait;
+- M. Dickey conservait le véhicule tant que ses quarts de travail étaient consécutifs;
+- M. Dickey créait les feuilles de route;
+- M. Dickey pouvait faire des courses personnelles pendant un quart de travail;
+- il existait un manuel, mais ce dernier n’était pas appliqué de manière stricte et avait davantage trait au bien-être de l’entreprise de taxi en général qu’au contrôle des chauffeurs;
+- on ne disait pas à M. Dickey où conduire;
+- on ne disait pas à M. Dickey où il pouvait travailler ou non;
+- M. Dickey pouvait trouver quelqu’un pour le remplacer pendant un quart de travail.
+La possibilité de profit
+[25] Il y a manifestement une différence avec l’affaire Barton, dans laquelle le chauffeur bénéficiait d’un taux horaire garanti. Dans l’affaire Hayer, la possibilité de réaliser un profit supplémentaire était limitée par les quarts de travail attribués à l’avance. M. Dickey a décidé d’opter pour les quarts de travail de jour, mais il pouvait déterminer quelles étaient les heures qui, dans ce quart de travail-là, pouvaient être les plus productives. Il a toutefois décidé de faire le plus d’heures possible quatre jours par semaine. Il pouvait effectuer plus de quarts de travail ou, en fait, il pouvait travailler pour d’autres. Il avait la possibilité d’augmenter le profit qu’il tirait de son entreprise de conduite. Il ne s’agit toutefois pas là d’un facteur aussi important que celui du contrôle, ou d’un facteur qui est en soi déterminant.
+Le risque de perte
+[26] Dans le même ordre d’idées, bien qu’il existe un certain risque, il n’est pas aussi important que celui que présentent les situations dans lesquelles le chauffeur assume le risque de perte attribuable aux cartes de crédit ou aux chèques non honorés. Le risque réside soit dans le fait qu’un véhicule n’est pas disponible parce qu’il doit être réparé, soit dans le coût de la franchise à payer si le chauffeur a causé un accident et, par ailleurs, si le véhicule n’est pas disponible. Là encore, ce facteur ne milite pas fortement en faveur du statut d’entrepreneur indépendant, mais il le fait plus qu’en faveur du statut d’employé.
+[27] Lorsqu’on évalue les facteurs qui permettent de distinguer le statut d’employé du statut d’entrepreneur indépendant, il est rare que les facteurs pointent tous très largement dans la même direction. Il ne serait nullement nécessaire dans un tel cas de tenir un procès sur la question. Nous avons plus souvent affaire à la situation dans laquelle un certain nombre de facteurs pointent dans une direction et d’autres facteurs dans une autre. Certains peuvent être neutres. Il faut toujours garder à l’esprit quel est le but de l’analyse : à qui l’entreprise appartient-elle? Il n’existe aucune formule magique, et la ligne de démarcation est rarement nette. Il s’agit d’une question de degré, et, à mesure que ce degré s’amenuise, il en est de même de la distinction : l’expression « entrepreneur dépendant » vient à l’esprit.
+[28] L’affaire se résume en fait à savoir si un examen des facteurs étaye la thèse selon laquelle M. Dickey fait partie de l’entreprise de M. Gill ou selon laquelle M. Dickey exploite sa propre entreprise, qui consiste à fournir des services de conduite. En me fondant principalement sur les éléments examinés en rapport avec le facteur du contrôle, je conclus que M. Dickey exploitait sa propre entreprise et qu’il n’exerçait donc pas un emploi ouvrant droit à pension. L’appel est accueilli et la décision du ministre, à savoir que M. Dickey exerçait un emploi ouvrant droit à pension, est annulée.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2013.
+"Campbell J. Miller"
+C. Miller J.
+Traduction certifiée conforme
+ce 19e jour de novembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 317
+No DE DOSSIER DE LA COUR : 2012-5126(CPP)
+INTITULÉ : 2177936 ONTARIO LTD. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 27 septembre 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 4 octobre 2013
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Barbara M. Shields
+Avocate de l’intimé :
+Me Larissa Benham
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom : Barbara M. Shields
+Cabinet : Aikins Law
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2013 CAF 85.
+[2] [1986] 2 C.T.C. 200.
+[3] 2001 CSC 59.
+[4] 2010 CCI 399.
+[5] 2003 TCC 462.
+[6] 2006 CCI 71.
+[7] 2009 CCI 218.
+[8] 2008 CCI 210.
+[9] 2012 CCI 392.

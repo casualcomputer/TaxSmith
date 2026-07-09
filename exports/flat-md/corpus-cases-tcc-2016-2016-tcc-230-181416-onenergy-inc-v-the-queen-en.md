@@ -1,0 +1,217 @@
+---
+title: "ONEnergy Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181416/index.do"
+last_modified: "2016-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 230"
+citation2: ""
+neutral_citation: "2016 TCC 230"
+decision_date: "2016-10-14"
+language: "en"
+item_id: "181416"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2975
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:39:32.245000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e6e38157ad42ff121ca989e7c39c561ea97154f9d69bdd4b88a0efb5cb52ca3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ONEnergy Inc. v. The Queen
+
+- Citation: 2016 TCC 230
+- Decision date: 2016-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2975, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ONEnergy Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-14
+Neutral citation
+2016 TCC 230
+File numbers
+2015-2233(GST)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-2233(GST)G
+BETWEEN:
+ONENERGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Determination pursuant to Rule 58 of the Tax Court of Canada (General Procedure) Rules heard on September 22, 2016,
+at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Adam Gotfried, Justin Kutyan
+Counsel for the Respondent:
+Michael Ezri, Kelly Smith-Wayland
+DETERMINATION
+The Appellant is not deemed to have incurred litigation costs in the course of a commercial activity pursuant to subparagraph 141.1(3)(a) of the Excise Tax Act.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2016 TCC 230
+Date: 20161014
+Docket: 2015-2233(GST)G
+BETWEEN:
+ONENERGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR DETERMINATION
+C. Miller J.
+[1] This is a Rule 58 of the Tax Court of Canada (General Procedure) Rules (the “Rules”) Determination of the following question:
+Whether, on the facts agreed to by the Parties and any other facts found by the Court, the Appellant is deemed to have incurred litigation costs in the course of a commercial activity pursuant to subparagraph 141.1(3)(a) of the Excise Tax Act ( the “Act”).
+[2] The Parties did provide an Agreed Statement of Facts attached as Appendix A hereto. There was no further evidence.
+[3] Paragraph 141.1(3) of the Act reads as follows:
+141.1(3) For the purposes of this Part,
+(a) to the extent that a person does anything (other than make a supply) in connection with the acquisition, establishment, disposition or termination of a commercial activity of the person, the person shall be deemed to have done that thing in the course of commercial activities of the person; and
+(b) to the extent that a person does anything (other than make a supply) in connection with the acquisition, establishment, disposition or termination of an activity of the person that is not a commercial activity, the person shall be deemed to have done that thing otherwise than in the course of commercial activities.
+[4] “Commercial activities” is defined as follows in section 123(1) of the Act:
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+I note specifically the definition is in terms of a business “carried on”.
+[5] Subparagraph 141.1(1)(a) of the Act reads as follows:
+(a) where a person makes a supply (other than an exempt supply) of personal property that
+(i) was last acquired or imported by the person, or was brought into a participating province by the person after it was last acquired or imported by the person, for consumption or use in the course of commercial activities of the person or was consumed or used by the person in the course of a commercial activity of the person after it was last acquired or imported by the person, or
+(ii) was manufactured or produced by the person in the course of a commercial activity of the person or for consumption or use in the course of a commercial activity of the person, or was manufactured or produced by the person and consumed or used in the course of a commercial activity of the person, and was not deemed under this Part to have been acquired by the person,
+the person shall be deemed to have made the supply in the course of the commercial activity; and
+…
+I read this provision as bringing into the purview of a “business carried on” a one-shot disposition such as the Spectrum Sale. The Respondent’s argument is that to qualify for the input tax credit, the legal fees incurred by the Appellant (I will refer to the Appellant at times as “Look”) must be proven to be grounded to that Spectrum Sale; that is, it must be found to be “in connection” with that sale. And, the Respondent argues, the legal fees are not so connected.
+[6] While the Appellant in written argument agreed with framing the matter in this manner, that is, requiring a connection to the Spectrum Sale, at the hearing the Appellant appears to have taken a broader view of the requisite connection: any activity during the wind up of the commercial activity or perhaps even the corporation, other than the making of exempt supplies or personal activity, qualifies. This may seem a fine distinction and I confess it was me that raised with counsel a different approach to the question for Determination. But, clearly, when Appellant’s counsel (who initially made the connection between the legal fees and the Spectrum Sale based on the fact the directors altered their remuneration package BEFORE the completion of the Spectrum Sale) argued it would have made no difference to their claim to input tax credits had the directors acted after the sale, it struck me they must be arguing for the broader view mentioned earlier, as any connection to the Spectrum Sale in such circumstances would, I respectfully suggest, be tenuous.
+[7] An alternate view of the issue could therefore be a distinction between an activity in connection with the winding up of the business carried on by the corporate taxpayer versus an activity in connection with the wind down of the corporation itself. I will mainly address whether the legal fees were incurred in connection with the Spectrum Sale but then, if necessary, address whether an activity in connection with the wind down of the corporation, as opposed to the wind up of the commercial activity, qualifies.
+[8] There are a few key dates to note from the Agreed Statement of Facts. Look announced in May 2009 it was selling the Spectrum and licence subject to Court approval, which it also received in May 2009. On June 16 of the same year, Look’s board decided to cancel options and the share appreciation rights plan and set aside $11,000,000 for a severance retention and bonus pool, understood to be made available from the Spectrum Sale. The Spectrum Sale closed by September 11 and Look was paid the full amount owing. The Parties agree that by selling the Spectrum and licence Look effectively terminated or disposed of its telecommunication business. Further, the Parties agree that Look ceased to provide wireless internet access and telecommunication distribution services to any subscribers by November 15, 2009. The legal services to which the input tax credits in dispute relate were rendered between July 2011 and July 2013. They were obtained by Look to pursue legal action against the former directors and executives of Look for misappropriation of proceeds from the Spectrum sale.
+[9] So, was the acquisition of legal services in the years 2011 to 2013 to recover funds Look claims as “damages for breach of fiduciary duty and the duties and standard of care prescribed by section 122 of the Canada Business Corporations Act and relief from oppression pursuant to section 241 of the Canada Business Corporations Act…in an amount equivalent to the amounts paid to these defendants as “restructuring awards” in connection with the sale of Look’s licence broadcast spectrum in 2009,”[1] in connection with the Spectrum Sale?
+[10] Certainly, the claim is framed in terms that the “restructuring awards” were in connection with the Spectrum Sale. The Appellant suggests the plan to restructure awards was founded in the knowledge the Spectrum sale would proceed, putting Look into considerable funds – a clear connection says the Appellant. The Respondent argues, no, this is simply equivalent to a “but for” argument: but for the Spectrum Sale there would not have been the restructuring awards and, therefore, there would not have been any litigation. This is not a sufficient link, according to the Respondent, between what she considers a pure corporate governance matter and the Spectrum Sale.
+[11] Is subparagraph 141.1(3)(a) of the Act to be interpreted in the somewhat more restricted sense suggested by the Respondent of an integral (her word) connection between the legal services and the Spectrum Sale, recognized as a commercial activity, or the expansive sense suggested by the Appellant of a broad definition of connection, as really just some connection between two related subjects. How is the provision to be interpreted?
+[12] As is the modern custom of statutory interpretation, I shall undertake a textual, contextual and purposive analysis of the provision.
+[13] Textually, the Parties are not that far apart in their view. It says what it says: there must be a connection, defined in the Oxford Dictionary online as “a relationship in which a person or thing is linked or associated with something else”. The Shorter Oxford English Dictionary defines it as “relations between things one of which is bound up with or involved in another”. These broad definitions appear to be in line with case law. In Nowegijick v R.,[2] the Supreme Court of Canada grouped this phrase with “in respect of”, “in relation to” and “with reference to”:
+The words “in respect of” are, in my opinion, words to the widest possible scope. They import such meanings as “in relation to”, with “reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.
+[14] This view of a wide meaning was also accepted at the Ontario Court of Appeal in Mantini v Smith Lyons LLP:[3]
+19. In the case of Denison Mines Ltd. v. Ontario Hydro, [1981] O.J. No. 807 (QL) (Div. Ct.), the court interpreted the words "arising in connection with" as having "a very broad meaning". The court referred to the House of Lords decision in Heyman v. Darwins, [1942] A.C. 356, [1942] 1 All E.R. 337 (H.L.) where Lord Porter stated at p. 399 A.C. that the words "'arising out of' have a wider meaning" than "under". The Divisional Court went on to hold that "the words 'arising in connection with' are at least as wide as the words 'arising out of' and have a very broad meaning" (para. 15). I agree with these interpretations and in particular with the conclusion that the phrase "in connection with" has a very broad meaning. In my view, it has a broader scope than the phrase "out of", as the dispute need only be connected with the Partnership Agreement, even if it does not arise from or out of a specific provision of the agreement. I conclude that this clause represents a general or universal resort to arbitration, but for the exception for any matters expressly within the sole discretion or power of the Executive and Compensation Committees.
+[15] The Respondent pointed out that in the Kitchener-Waterloo Real Estate Board Inc v Ontario Regional Assessment Commissioner, Region No 21[4] the court, while accepting a broad view, added the need to consider context, which I will soon address. The court stipulated:
+32. The respondent suggests that the words "in connection with" are broader than the words "for the purpose of" and says that even if the activity is not caught by the latter it is caught by the former. This is an accurate interpretation of the plain meaning of the words of the statute. The word "connection" simply means that there is some relationship between two things or activities -- that they have something to do with each other. The relationship need not be purposive to constitute a connection. Many activities might be carried out in connection with a particular object, as integrally related activities, without being carried out for the purpose of that object. In this context I adopt what was said by Pennell J. in Re Grand Valley Construction Ass'n and City of Cambridge (Ont. H.C.J., unreported, February 27, 1979 [summarized [1979] 1 A.C.W.S. 272]). He was dealing there with associational activities of the construction industry. Unlike the multiple-listing service the activities of the occupant in Grand Valley were not in themselves business activities or activities which generated profit. He dealt with the words "in connection with" as follows (at pp. 13-4):
+It remains to consider the effect of the words "or in connection with" in s. 7(1) which were introduced into the Act in 1947 (1947 (Ont.), c. 3, s. 6). In my view, the words "in connection with" are broader in scope than the words "for the purpose of" and have extended the boundaries within which the taxing authority may assess land for business tax. However, I do not think that this form of words should be given a purely literal interpretation. In giving a fair application to the words "in connection with" the court must remember that the words are coloured by the context of the terms of the section. Merely because the preponderating purpose of the activity is related to the contracting business does not necessarily bring it within the scope of s. 7. In my view the preponderating purpose of the applicant must be related to the building or contracting business not merely by loose threads but by solid ties before it could be treated as being "in connection with" the building industry as those words are used in s. 7.
+It is difficult to put in precise words the nature of the nexus or situation which would constitute the use of land as being "in connection with" a business. But an illustration is furnished in the dissenting judgment of Fraser J. in the Divisional Court in the Windsor-Essex case, supra. He expresses himself thus at p. 464:
+"None of the cases to which we were referred were ones in which the major function of an occupant was to carry on an activity to increase the profits of a separate entity or entities by whom it was owned or controlled. It would seem anomalous if a person or a corporation, or a group of them, can separate some of their necessary business operations and have them carried on by a non-profit corporation on premises not subject to business tax."
+It seems to me that this is precisely the type of situation that the words "in connection with" are intended to cover.
+The issue, as I see it, is whether the preponderating purpose and the type of services provided by the applicant are so tied in with the business of its members that its activities are a mere extension and integral part of the contracting industry.
+[16] In the Supreme Court of Canada decision of Sarvanis v R[5] the Court displayed a similar attitude:
+22. It is fair to say, at the minimum, that the phrase “in respect of” signals an intent to convey a broad set of connections. The phrase is not, however, of infinite reach. Although I do not depart from Dickson J.’s view that “in respect of” is among the widest possible phrases that can be used to express connection between two legislative facts or circumstances, the inquiry is not concluded merely on the basis that the phrase is very broad.
+23. The breadth and ambiguity of the words used to express the connection between the pension or compensation paid and the loss to which the payment relates is equally present in the French version. This is seen most clearly in the verb phrase connecting the loss to the pension, that is, “ouvrant droit au paiement d’une pension ou indemnité” (emphasis added). It is important to keep in mind the distinct manner in which Parliament has chosen to frame the section in the two languages. However, I would note, crucially, that it is the same connection — the link between the pension paid and the loss sustained — that Parliament has rendered somewhat obscure by the use of both “in respect of” and “ouvrant droit”. The distinct features of phrasing in each official version do not, in themselves, remedy the central ambiguity with which this appeal is concerned.
+24. In both cases, we must not interpret words that are of a broad import taken by themselves without looking to the context in which the words are found. Indeed, the proper approach to statutory interpretation requires that we more carefully examine the wider context of s. 9 before settling on the correct view of its reach. In Rizzo & Rizzo Shoes Ltd. (Re), 1998 CanLII 837 (SCC), [1998] 1 S.C.R. 27, in discussing the preferred approach to statutory interpretation, the Court stated, at para. 21:
+. . . Elmer Driedger in Construction of Statutes (2nd ed. 1983) best encapsulates the approach upon which I prefer to rely. He recognizes that statutory interpretation cannot be founded on the wording of the legislation alone. At p. 87 he states:
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+In my view, the nature and content of this approach, and the accuracy of Professor Driedger’s succinct formulation, have not changed. Accordingly, we cannot rely blindly on the fact that the words “in respect of” are words of broad meaning.
+[17] While I do not accept that a simple textual view of “in connection with” requires or introduces a concept of an integral connection, the case law does appear to suggest that the word cannot be looked at in a vacuum. Certainly, it is a broad expression but does not, I would suggest, even on a textual reading allow for the remotest of links, such as a link only arising by way of the “but for” test. Let me explore that further.
+[18] The Respondent raises the Supreme Court of Canada’s decision in Symes v Canada[6] to dispute that a “but for” test is sufficient to link legal services at issue with the Spectrum Sale, even on a straight textual interpretation of the term “in connection with”. The Respondent refers me to an interesting passage from the Supreme Court of Canada’s decision in Symes’:
+73. Since I have commented upon the underlying concept of the "business need" above, it may also be helpful to discuss the factors relevant to expense classification in need-based terms. In particular, it may be helpful to resort to a "but for" test applied not to the expense but to the need which the expense meets. Would the need exist apart from the business? If a need exists even in the absence of business activity, and irrespective of whether the need was or might have been satisfied by an expenditure to a third party or by the opportunity cost of personal labour, then an expense to meet the need would traditionally be viewed as a personal expense. Expenses which can be identified in this way are expenses which are incurred by a taxpayer in order to relieve the taxpayer from personal duties and to make the taxpayer available to the business. Traditionally, expenses that simply make the taxpayer available to the business are not considered business expenses since the taxpayer is expected to be available to the business as a quid pro quo for business income received. This translates into the fundamental distinction often drawn between the earning or source of income on the one hand, and the receipt or use of income on the other hand.
+74. It remains to consider the appellant's child care expenses in light of this discussion. First, it is clear on the facts that the appellant would not have incurred child care expenses except for her business. It is relevant to note in this regard that her choice of child care was tailored to her business needs. As a lawyer, she could not personally care for her children during the day since to do so would interfere with client meetings and court appearances, nor could she make use of institutionalized daycare, in light of her working hours. These are points which were recognized by the trial judge.
+75. Second, however, it is equally clear that the need which is met by child care expenses on the facts of this case, namely, the care of the appellant's children, exists regardless of the appellant's business activity. The expenses were incurred to make her available to practise her profession rather than for any other purpose associated with the business itself.
+[19] The Respondent makes the point, in line with these comments, that the cost of legal services to chase after directors, who the Appellant claims have absconded with its money, is a need that would have been fulfilled regardless of where the funds emanated from. I agree. I also agree with the Supreme Court of Canada that a “but for” test should be approached with caution. In this case, there seems little tie between the actual Spectrum Sale and the lawsuit to go after directors and executives who paid themselves funds that Look had in its account because of the sale. This seems to be the essence of the connection claimed, and it is very much a “but for” connection.
+[20] What I suggest is at issue in looking at this from a strictly textual broad interpretation of “in connection with” is whether a corporation can ever be considered to incur a “personal expense” or is every expense “in connection” with its business? I dealt with something similar in the BJ Services Co Canada v R[7] case concluding:
+72. Nowsco's fees are not directly part of the production chain, but I am satisfied there is no policy which requires that they must be; otherwise, there is a risk no indirect inputs would be entitled to the ITCs. GST policy clearly recognizes the entitlement of indirect inputs to ITC. So, how do the fees paid by Nowsco differ? The Respondent might say because they have no link at all to the production chain, whereas other indirect inputs have some link. It is up to each company to determine how resources, financial and otherwise, are allocated between direct inputs and accepted ancillary inputs. In the circumstances of this case, the Appellant maintains there is indeed some link to the making of taxable supplies. The policy debate, I would suggest, should be less concerned with the technical debate of whether or not there is a requirement for a connective link between the input and the making of taxable supplies, and more concerned with the connection between the input and what is acceptable in the commercial forum of a public company engaged in international work, as part of the company's business. If that latter link exists, then it must fall within the scheme of the Excise Tax Act to treat such an input as entitled to the ITC. Some might argue this would lead to the conclusion that every corporate expense, no matter how ancillary to the production chain, is incurred in the course of commercial activity. In these days of intense scrutiny of public companies and their executives, I find this is not an inevitable conclusion. Some expenses simply will not be commercially acceptable.
+[21] Keep in mind, I am still just looking at this from a textual perspective, which, on its face, given jurisprudence’s acceptance of a relatively broad view of the term, would appear to link, albeit tenuously, the legal services to the commercial activity of the Spectrum Sale, thus giving it the requisite commercial nature. But is it of that nature? I do not believe it is. In line with my thinking in BJ Services, I conclude there is no commercial expectation that directors on winding up a corporation will abscond with funds and that the cost of such contingency is somehow worked into the cost of the supply. This is unlike the situation in BJ Services where I was satisfied the activity went to “the company’s ability to sustain a profitable business”. Not so here. The business of Look was effectively wound up before there was any activity necessitating the acquisition of legal services. What was not wound up was the corporation itself. This was not a matter of incurring legal fees to collect accounts receivables, which clearly are part of the termination of the business. This expense is as close to what I would consider a “personal expense” in a corporate context as I can imagine. The business is over. Going after greedy directors, who may have lined their own pockets, to redistribute monies recovered from them to shareholders has no connection to where those monies came from. It matters not that the directors concocted their plan when the possibility of significant proceeds from a sale became real. So what? The activity to recoup arose from the directors actually taking the funds once in Look’s accounts. I conclude that even on a textual approach there is no link between the Spectrum Sale and the legal activity to go after the directors.
+[22] I am reinforced in my view by interpreting subparagraph 141.1(3)(a) of the Act from a contextual and purposive view, as directed by the jurisprudence. I agree with the Appellant that applying the input tax credit rules to an operating business is somewhat intuitive (a business acquires supplies to make supplies). It becomes less so for businesses in a start-up or wind down phase, where taxable supplies are likely not being made, thus the introduction of the predecessor to paragraph 141.1(3) of the Act, being subsection 141(5). When this provision was introduced, Department of Finance Technical Notes stated it “allows input tax credits to be claimed for purchases made during the start-up or winding down phase of operations”. Note it does not say the winding down phase of a corporation, but the operations.
+[23] The Appellant also referred me to a GST Headquarters Letter dated February 16, 1994. It is worth reproducing all of question 1 and the Canada Revenue Agency’s answer:
+Q.1.
+(a) Are there any restrictions on the types of activities that may be considered to have been done in connection with the termination of a commercial activity pursuant to paragraph 141(5)(c) for the period January 1, 1991 to September 30, 1992? It appears the subsection 141.1(3) excludes making a supply effective October 1, 1992.
+(b) For purposes of paragraph 141(5)(c) would the following activities be included in termination activities:
+Collecting receivables
+Preparing f/s for prior years
+Completing outstanding income tax returns
+Reporting to the Court in the case of receivership
+Selling capital assets
+Selling inventory
+(c) If a company involved in commercial activity is placed in receivership by the Court, is everything done by the receiver considered to be in connection with the termination of the commercial activity, even if it takes 5 or 6 years for the receiver to complete the wind up of the business?
+A.1. Paragraph 141(5)(c) prior to October 1992 and paragraph 141.1(3)(a) after September 1992 are in the legislation to provide greater certainty that activities done in connection with the acquisition, establishment, disposition or termination (and reorganization in the case of paragraph 141(5)(c)) of a commercial activity are done in the course of that commercial activity. It is our view that even in the absence of such provisions, activities done in connection with the acquisition, establishment, disposition or termination (and reorganization in the case of paragraph 141(5)(c)) of a commercial activity are still part of the commercial activity. However, to the extent there is doubt, the above provisions clarify that the activities are part of the commercial activity. The legislative changes made by the addition of paragraph 141.1(3)(a) ensures that an activity associated with the acquisition, establishment, disposition or termination of a commercial activity is a commercial activity only of the person who is undertaking the acquisition, establishment, disposition or termination. It also requires, where appropriate, pro-rating of inputs for input tax credit purposes in connection with the acquisition, establishment, disposition or termination of a commercial activity. While paragraph 141(5)(c) does not expressly require pro-rating of activities where something is done in connection with the establishment, acquisition, reorganization, disposition or termination of a commercial activity, we interpret paragraph 141(5)(c) as requiring such pro-rating. The wording of paragraph 141(5)(c) does not tie the commercial activity in question to the person engaging in the establishment, acquisition, reorganization, disposition or termination of the commercial activity. As a result, it may be possible to argue that a corporation's activities of establishing a new business can constitute a commercial activity of that new business. However, we do not agree with this interpretation since such an interpretation is not contemplated in the scheme of the Act. The inclusion of the phrase “other than a supply” in paragraph 141.1(3)(a) is to ensure that the provision applies only to inputs. For activities that are supplies, e.g. sale of capital assets and inventory, even though they are excluded under paragraph 141.1(3)(a), their status and eligibility for input tax credits would be subject to the other provisions of the Act, i.e. if it is a taxable supply GST is exigible and input tax credits may be claimed. The activities listed under (b) above are in connection with the termination of a commercial activity and therefore are part of the commercial activity. Once it is established that the activities are in the course of the commercial activities of the person, input tax credits may be claimed with respect to property and services acquired for consumption, use or supply in the course of those activities subject to the normal rules concerning input tax credits and the use of property and services, e.g. subsection 169, section 185, section 198, section 199.There is no time limit on the activities done by the receiver for such activities to be considered part of the termination of the commercial activity. However, the activities done by the receiver may not all relate to the “termination” of the commercial activity since the receiver is likely to try and operate the business for a period of time. If this is the case, since paragraph 266(2)(a) deems the receiver to be acting as agent for the person, all provisions that would apply if the person was still carrying on the commercial activity apply to the receiver who is carrying on the commercial activity.
+[24] I note the Department’s view that, even in absence of these clarifying provisions, activities in connection with the termination activity are still part of the commercial activity. This suggests to me the connection is to be to the ordinary course of business, which in the context of legislation providing for input tax credits on supplies used in making supplies, necessarily requires the connection to the making of supplies. In this case, by operation of section 141.1 of the Act this, as I have already indicated, also encompasses the Spectrum Sale, though, I would suggest, the connection must be to the sale itself, not consequences of the sale.
+[25] It is also noteworthy what actions the Department acknowledges are connected to a business’ termination: collecting receivables, preparing financial statement for prior years, completing outstanding income tax returns, reporting to the court in the case of receivership, selling capital assets and selling inventory. There is a common thread in these activities in that there is a direct link between the activity and making of supplies, or in the case of selling capital assets, to a deemed commercial activity. I do not read this letter as providing any support for a link between an activity of pursuing directors after the commercial activity has ceased, where that pursuit is for money taken from the corporation’s account, notwithstanding the funds went into that account from a deemed commercial activity. It is simply one step removed. It breaks the link.
+[26] To be clear, this is not an issue of timing. For example, had the Board discovered two years after the Spectrum sale that a competitor had wronged Look in some fashion, diminishing sales, and the Board commenced a lawsuit, I would see no difficulty in finding such litigation activity was connected with commercial activity, notwithstanding some considerable time had passed since the termination of the business. Similarly, if Look had to sue the purchaser of Spectrum long after the completion of the sale for breach of a confidentiality provision, again timing would not preclude a finding of a connection.
+[27] From a purposive perspective, the Appellant points out that the Department of Finance’s Technical Notes released in February 1993 (upon the release of section 141.1 of the Act) stated:
+Existing subsection 141(5) is repealed and replaced by new section 141.1. The purpose of this section is to provide rules that clarify the GST treatment of extraordinary transactions that do not necessarily occur in the ordinary course of a business such as…winding up commercial activities.
+[28] The Appellant argues the litigation to pursue the directors is an extraordinary transaction on winding up commercial activities contemplated by this specific purpose. While I grant the litigation was an extraordinary transaction, and that it did not occur in the ordinary course of business, I find it was not part of the wind up of commercial activity. It was part of the wind up of the corporation after the termination of the commercial activity. Allowing input tax credits on this type of activity which bears no relation to the Appellant’s business, as that expression is contemplated in the GST legislation that deals solely with supplies, would be counter to the very essence of a goods and services tax. Again, there is no connection to goods and services.
+[29] The Spectrum Sale was completed. Look got paid. The directors then took the money. The Appellant stressed that the directors put in place their scheme to take more remuneration before the Spectrum Sale closed and in contemplation of that sale, and that this therefore creates the link. Yet, in the same breath, the Appellant suggested it would still be seeking the input tax credits if such a plan had been arranged after closing of the Spectrum Sale. This suggests to me that it is not perhaps the link to the sale that the Appellant believes brings it within subparagraph 141.1(3)(a) of the Act but simply that the litigation is part of the winding up of a business.
+[30] In any event, does the timing of the creation of the remuneration plan, create the connection to the Spectrum Sale? No, not in the sense I find a connection is required given the context and purpose. The directors’ plan was in connection with funds arising from the completion of the Spectrum Sale, not with the sale itself. By the sale itself, I mean the negotiations leading up to the sale, the entering into of the sale, the implementation and enforcement of the sale. The legal activity two years later, which is the activity to be connected, is even one step further removed from the sale. I find the timing of the origin of the remuneration plan does not create the requisite connection.
+[31] The Appellant raises two cases that address subparagraph 141.1(3)(a) of the Act to support their position. First, in Perfection Dairy Group Ltd v R,[8] Justice Webb stated the following:
+42. Since subsection 141.1(3) of the Act is not dependent on any finding of any certain extent to which a person does something in connection with the termination of a commercial activity, the acquisition of the claim by PFL under the Legal Action for the purposes of subsection 141.1(3) of the Act is not subject to the provisions of subsection 141.01(6) of the Act. As a result, to the extent that PFL does anything in relation to the termination of its business, it is deemed to have done that thing in the course of commercial activities. Therefore the claim under the Legal Action (which was acquired in connection with the termination of the business) will be deemed to have been acquired in the course of commercial activities of PFL.
+[32] This comment has to be viewed, however, with an eye to the nature of the legal action referred to. It was in part for damages for loss of income. This is not the nature of the litigation brought by Look that in no way ties into loss of income, presumably arising from the supply of goods or services. There was no issue of connectivity. In any event, Perfection Dairy was not decided on the basis of subparagraph 141.1(3)(a) of the Act.
+[33] The Appellant also relied on 614730 Ontario Inc v R,[9] where Justice Webb wrote:
+38. It is not clear whether the property was leased after it was rebuilt or whether it was sold before it was leased. However, it does seem to me that the commercial activity of leasing the property was terminated by the fire as the fire destroyed the property. It also seems to me that the activities related to the attempt to collect the amount under the insurance policy were done in connection with the termination of that activity as the fire was the cause of the termination of that activity. There is also a connection between the insurance litigation and the commercial activity of selling the property as the insurance proceeds would be used to rebuild the structure (or to now repay the amounts borrowed to rebuild the structure).
+[34] Again, this is a very different kettle of fish. As the Respondent pointed out, Look’s litigation did not contribute to the restoration and ultimate sale of Spectrum and the licence: nothing in the sale itself triggered litigation. I find no support in the case law for the Appellant’s position that there can be a connection for purposes of subparagraph 141.1(3)(a) of the Act between legal activity simply because it arises in the aftermath of the termination of the commercial activity without any link to the entering into, implementation of or enforcement of that commercial activity. The Spectrum Sale put the company in funds – that’s all. The lawsuit is what happened to those funds after the termination of that commercial activity. It is not a connection contemplated by a textual, contextual or purposive interpretation of the provision.
+[35] In summary, I distinguish between the termination of the business and the consequences flowing from such termination. I also distinguish between the wind up of the business and the wind down of the corporation. I emphasize it is the connection that is paramount, not the timing of the activity. And the connection must be one that on a textual, contextual and purposive interpretation recognizes the commercial expectation of a business supplying goods or services. In this case that means a connection between the litigation activity and the entering into, implementation of or enforcement of the Spectrum sale. There is simply no such connection.
+[36] Turning briefly to the second possibility, is it only necessary to connect the legal activity with the wind down of the corporation itself rather than the business of the corporation. I believe I have made clear throughout these Reasons that that is not sufficient. I would suggest that would run contrary to the very scheme of the Act. I find it is not necessary to explore this point further.
+[37] In conclusion, in answer to the question of the Determination whether, on the facts agreed to by the Parties and any other facts found by the Court, the Appellant is deemed to have incurred litigation costs in the course of a commercial activity pursuant to subparagraph 141.1(3)(a) of the Act, the answer is no. No costs were sought by either side and I make no award of costs.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“Campbell J. Miller”
+C. Miller J.
+APPENDIX A
+CITATION:
+2016 TCC 230
+COURT FILE NO.:
+2015-2233(GST)G
+STYLE OF CAUSE:
+ONENERGY INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 22, 2016
+REASONS FOR DETERMINATION BY:
+The Honourable Justice Campbell J. Miller
+DATE OF DETERMINATION:
+October 14, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Adam Gotfried, Justin Kutyan
+Counsel for the Respondent:
+Michael Ezri, Kelly Smith-Wayland
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Gotfried, Justin Kutyan
+Firm:
+KPMG Law LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Statement of Claim filed in Ontario Superior Court of Justice July 6, 2011.
+[2] [1983] 1 SCR 29.
+[3] [2003] OJ No. 1831 (ONCA).
+[4] 1986 CarswellOnt 691 (HCJ).
+[5] 2002 SCC 28.
+[6] [1993] 4 S.C.R. 695.
+[7] 2002 CarswellNat 3228.
+[8] 2008 TCC 342.
+[9] 2010 TCC 75.

@@ -1,0 +1,121 @@
+Title: McKenzie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27457/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-426-27457-mckenzie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-07-18
+
+# McKenzie v. The Queen
+
+- Citation: 2005 TCC 426
+- Decision date: 2005-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 213, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-18
+Neutral citation
+2005 TCC 426
+File numbers
+2004-4318(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4318(IT)I
+BETWEEN:
+DONNA MCKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 21, 2005, at Kamloops, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Pavanjit Mahil
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 18th day of July 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC426
+Date: 20050718
+Docket: 2004-4318(IT)I
+BETWEEN:
+DONNA MCKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal, pursuant to the Informal Procedure, was heard at Kamloops, British Columbia, on June 21, 2005. The Appellant was the only witness.
+[2] None of the assumptions were refuted by the evidence. Paragraphs 5 to 10 inclusive of the Reply to the Notice of Appeal outline the matters in dispute before the Court. They read:
+5. In computing taxable income for the 2001 and 2002 taxation years, the Appellant did not include her employment income (the "Employment Income") from Tillicum Haus.
+6. The Minister reassessed the Appellant's 2001 and 2002 taxation years on 8th April 2004 to include Employment Income.
+7. The Appellant objected to the reassessments by serving on the Minister Notices of Objection dated 8th June 2004.
+8. In so reassessing the Appellant, and confirming the reassessments, the Minister relied on the following assumptions:
+a) the Appellant is a status Indian and a member of the Williams Lake Band;
+b) the Appellant is a registered nurse;
+c) the Appellant was employed by Tillicum Haus as a community health nurse;
+d) Tillicum Haus is situated in Nanaimo, British Columbia;
+e) the Appellant earned $26,926 and $35,480 in Employment Income from Tillicum Haus in 2001 and 2002 respectively;
+f) Tillicum Haus did not withhold any amounts as federal or provincial income taxes from the Appellant's earnings;
+g) the Appellant was not at any relevant time resident on a reserve; and
+h) Tillicum Haus was not situated on a reserve.
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant is liable to pay the taxes owing on the Employment Income.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on sections 2, 150, 171, subsection 5(1) and paragraph 81(1)(a) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act") and on sections 2 and 87 of the Indian Act.
+[3] Essentially the Appellant argues that she should not have to pay the amounts assessed because Tillicum Haus should have paid them as her employer.
+[4] The Appellant testified that she was paid less than other equivalent employees of Tillicum Haus because, since she is a status Indian Tillicum Haus paid her a lesser wage on the basis that she did not have to pay income tax. She was told this by authorities at Tillicum Haus and she confirmed this when she saw other employees' pay slips or pay cheques. This Court believes her and accepts this to be true.
+[5] The Appellant testified that she knew that she did not qualify for a tax free status and told Tillicum Haus officials that. They tried to get her to falsify her tax status and the Appellant filed exhibits which demonstrate this to be true.
+[6] The result is that the Appellant denies owing the amounts assessed on the basis that Tillicum Haus owes that money to the Respondent and, by its actions, withheld it from her by its pay procedures.
+[7] Paragraph 153(1)(a) of the Income Tax Act reads:
+153. (1) Every person paying at any time in a taxation year
+(a) salary, wages or other remuneration, other than amounts described in subsection 212(5.1),
+...
+shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part XI.3, as the case may be, and, where at that prescribed time the person is a prescribed person, the remittance shall be made to the account of the Receiver General at a designated financial institution.
+Once the monies are withheld pursuant to paragraph 153(1)(a), they become trust money in the hands of the employer pursuant to subsection 227(4), which reads:
+(4) Every person who deducts or withholds an amount under this Act is deemed, notwithstanding any security interest (as defined in subsection 224(1.3)) in the amount so deducted or withheld, to hold the amount separate and apart from the property of the person and from property held by any secured creditor (as defined in subsection 224(1.3)) of that person that but for the security interest would be property of the person, in trust for Her Majesty and for payment to Her Majesty in the manner and at the time provided under this Act.
+Thereupon the employer, not the employee, becomes liable to pay the amount withheld as set out in subsection 227(9.4):
+(9.4) A person who has failed to remit as and when required by this Act or a regulation an amount deducted or withheld from a payment to another person as required by this Act or a regulation is liable to pay as tax under this Act on behalf of the other person the amount so deducted or withheld.
+[8] Ms. McKenzie filed Exhibit A-1 which contain a set of documents which verify her testimony. However, they do so over a period of time from January 19, 2001 until April 2004.
+[9] On January 19, 2001 Ms. McKenzie accepted employment with Tillicum Haus at a pay rate of $21.00 per hour, (Exhibit A-1, page 1). She testified that Mr. David Johnson, the Administrator at Tillicum Haus, told her after she was hired that she was paid less than other Registered Nurses at Tillicum Haus because, as a status Indian, she did not have to pay income tax. She received her T-4s for 2001 and 2002 which showed the rate of pay she had contracted for and no income tax withheld. From the timing of the documents in Exhibit A-1, it appears that Ms. McKenzie accepted this state of affairs until she was reassessed in April, 2004. Based upon these exhibits she clearly understood her income tax situation in 2001 and 2002.
+[10] Exhibit A-1 contains sample documents from Sue White that pre-date 2004. But the Appellant's own documents indicate that she accepted Tillicum Haus' version of her tax status until she was reassessed and obtained outside advice which clearly indicated that she was taxable.
+[11] Thus based on the evidence, the Appellant's liability for income tax may be different in later years. However, she is liable as assessed for 2001 and 2002 and her appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 18th day of July 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC426
+COURT FILE NO.: 2004-4318(IT)I
+STYLE OF CAUSE: Donna McKenzie v. The Queen
+PLACE OF HEARING: Kamloops, British Columbia
+DATE OF HEARING: June 21, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: July 18, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

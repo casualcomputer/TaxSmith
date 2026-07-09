@@ -1,0 +1,167 @@
+Title: Watzke v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30442/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-351-30442-watzke-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-07-15
+
+# Watzke v. M.N.R.
+
+- Citation: 2011 TCC 351
+- Decision date: 2011-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7915, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Watzke v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-15
+Neutral citation
+2011 TCC 351
+File numbers
+2010-2371(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-2371(EI)
+BETWEEN:
+RALPH FRANK WATZKE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MERCHANT LAW GROUP LLP,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal(s) of
+Ralph Frank Watzke 2010-2372(CPP))
+on May 17, 2011, at Regina, Saskatchewan
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bryn Frape
+Counsel for the Intervenor:
+Shawn Flannigan
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision made under the Employment Insurance Act for the period from June 2, 2008 to May 14, 2009 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 15th day of July 2011.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2010-2372(CPP)
+BETWEEN:
+RALPH FRANK WATZKE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MERCHANT LAW GROUP LLP,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal(s) of
+Ralph Frank Watzke 2010-2371(EI))
+on May 17, 2011, at Regina, Saskatchewan
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bryn Frape
+Counsel for the Intervenor:
+Shawn Flannigan
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision made under the Canada Pension Plan for the period from June 2, 2008 to May 14, 2009 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 15th day of July 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC351
+Date: 20110715
+Docket: 2010-2371(EI)
+2010-2372(CPP)
+BETWEEN:
+RALPH FRANK WATZKE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MERCHANT LAW GROUP LLP,
+Intervenor.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant appeals from a decision made by the Minister of National Revenue (the “Minister”) that he was not employed in insurable and pensionable employment with Merchant Law Group LLP (the “Payor”) during the period June 2, 2008 to May 14, 2009.
+[2] These appeals were heard on common evidence. The only issue is whether the Appellant was employed as an employee or an independent contractor. The Appellant says that he was an employee; whereas, the Minister and the Payor say that the Appellant was an independent contractor.
+[3] At the hearing, evidence was given by the Appellant, Gerald Heinrichs, a lawyer with the Payor, and Anthony Merchant, founder of the Payor.
+[4] The central question to be determined is whether the Appellant was engaged by the Payor as a person in business on his own account[1]. In answering that question, I will take note of the parties’ intention and whether the terms of their relationship support their intention. Some of the terms to be considered were those given in Wiebe Door Services Ltd.[2] They are control, ownership of tools, chance of profit and risk of loss.
+[5] The Appellant gave his evidence in a rambling manner to the point that during cross examination his answers were often incomprehensible. In many instances, there was a conflict between the evidence given by him and that given by Mr. Merchant.
+[6] Where there is a conflict in the evidence, I have accepted that of Mr. Merchant as it was more cogent.
+Intention
+[7] The Appellant is a senior lawyer who has practised law since 1977. He stated that in 2008 he practised law in Edmonton, Alberta with the law firm of Iginla & Company.
+[8] That year he saw an advertisement placed by the Payor for a lawyer. According to him, the advertisement read that the successful candidate would be trained as a class action lawyer.
+[9] The Appellant telephoned Mr. Merchant and later received a letter with the offer of a job. The Appellant could only recall having one conversation with Mr. Merchant prior to being offered a position with the Payor.
+[10] Mr. Merchant testified that the Payor never advertised for a lawyer; it advertised for an articled clerk. However, he was pleased to attract a senior lawyer like the Appellant. After several conversations, the Appellant was offered a position as an associate with the Payor.
+[11] The Appellant stated that the letter of offer did not suggest he would be hired as an independent contractor.
+[12] However, it was Mr. Merchant’s evidence that he told the Appellant he would be engaged as an associate and that all associates with the Payor are independent contractors. He remembered discussing the tax benefits that result from being an independent contractor with the Payor.
+[13] I note that in the letter of offer dated May 12, 2008 to the Appellant, Mr. Merchant wrote:
+Like other senior lawyers in the firm, you would join us under the Senior Associates Agreement which has tax advantages.
+[14] The Associates Agreement (the “Agreement”) contained the terms which governed the relationship between the Payor and its associates. However, the Appellant did not sign the Agreement and Mr. Merchant did not give an explanation as to why no one followed up with the Appellant to sign the Agreement.
+[15] Regardless, it is my opinion that the Appellant accepted that he was hired as an independent contractor and it was his intention to be an independent contractor. He received GST on his earnings with the Payor. He neither questioned this receipt nor did he report it to the Canada Revenue Agency. No source deductions were withheld from his earnings and the Appellant did not question it. He never questioned his employment status with Mr. Merchant. It was only after he was dismissed by the Payor and he sought employment insurance benefits that the Appellant stated he had been an employee.
+Control
+[16] The Appellant stated that Mr. Merchant gave him assignments; supervised his work; and, trained him in the field of class actions.
+[17] Mr. Merchant testified that he did not manage or supervise any of the lawyers in the office. The Payor was structured so that he did not have to manage the lawyers. The Appellant was a senior lawyer who had practised law for 38 years prior to working with the Payor. According to Mr. Merchant, the Appellant was bright. He had high grades and good references. He did not require training and although he had no experience in class action files, he studied and worked with the team of lawyers who had carriage of these files.
+[18] The Appellant submitted one of his letters as an exhibit which he said was corrected by Mr. Merchant. It was Mr. Merchant’s evidence that the Appellant had asked for his opinion. I note that the comments written on the letter were suggestions and not directions by Mr. Merchant.
+[19] The Appellant’s workload consisted of files he had brought with him from Alberta; files he opened as a result of telephone calls at the Payor’s office; files he worked on for other lawyers in the office; and, research. He was never in charge of class action files but he did work on them. He was free to accept or to refuse to work on files offered by Mr. Merchant or any of the other lawyers.
+[20] The Appellant had no set hours of work. As with most professionals, he worked as many hours as it took to complete a file. He kept track of his billable hours but no one tracked the actual hours that he worked.
+[21] Although the Appellant did not sign the Agreement, he worked according to its terms. He could take vacation whenever he chose. He was required to inform the Payor if he was going to be absent for more than three consecutive business days. In accordance with this requirement, on December 17, 2008, the Appellant wrote to Mr. Merchant and Mr. Outerbridge that he would have to be absent for a full month. Apparently, he did not take off the entire month because his workload was too heavy. However, that was his choice.
+[22] I find that the Payor did not exercise control over the Appellant. This factor suggests that the Appellant was an independent contractor.
+Ownership of Tools
+[23] The Payor provided the Appellant with an office, support staff and office supplies. Generally, the Payor provided the Appellant with all of the tools necessary to do his work.
+[24] The Appellant was responsible for paying his Bar fees, liability insurance, travel and entertainment.
+[25] The Appellant could not practice law without paying the Bar fees and the liability insurance. Likewise, he could not practice without an office and supplies. I find that this factor is inconclusive.
+Chance of Profit/Risk of Loss
+[26] The Appellant was paid an hourly rate for a maximum of six months. According to Mr. Merchant, the Payor paid the hourly rate to new lawyers to assist them until there was cash received from their billings. Thereafter, the Appellant was paid in accordance with the Agreement. He received 41% on the first $160,000 of his cash receipts and 45% on cash receipts over $160,000.
+[27] I note that, in November and December, the Appellant’s remuneration was 41% of his cash receipts.
+[28] The Appellant had both a chance of profit and a risk of loss. His remuneration depended not only on his billings but also on whether the amounts billed were collected. At the end of six months, if none of the Appellant’s billings were collected, he would receive no pay. The fact that the Appellant was assisted by being paid an hourly rate for five months does not change his status from an independent contractor to an employee.
+[29] After reviewing all of the evidence, I have concluded that the Appellant was an independent contractor during the period June 2, 2008 to May 14, 2009 while he was employed with the Merchant Law Group LLP.
+[30] The appeals are dismissed.
+Signed at Ottawa, Canada, this 15th day of July 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC351
+COURT FILE NO.: 2010-2371(EI)
+2010-2372(CPP)
+STYLE OF CAUSE: RALPH FRANK WATZKE AND
+M.N.R. AND
+MERCHANT LAW GROUP LLP
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: May 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 15, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bryn Frape
+Counsel for the Intervenor:
+Shawn Flannigan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59
+[2] [1986] 3 F.C. 553(FCA)

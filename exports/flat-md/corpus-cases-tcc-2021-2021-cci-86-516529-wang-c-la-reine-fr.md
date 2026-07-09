@@ -1,0 +1,217 @@
+---
+title: "Wang c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/516529/index.do"
+last_modified: "2021-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 86"
+citation2: ""
+neutral_citation: "2021 CCI 86"
+decision_date: "2021-11-19"
+language: "fr"
+item_id: "516529"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4452
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:54:09.371000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dabdea7fdd7533c865ff439c7b74f007e87c6a2e255a54ebad041368f3591c00"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wang c. La Reine
+
+- Citation: 2021 CCI 86
+- Decision date: 2021-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4452, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-11-19
+Référence neutre
+2021 CCI 86
+Numéro de dossier
+2019-2157(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2019-2157(GST)I
+ENTRE :
+XIU HUA WANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 octobre 2021, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelante :
+Sean Hu
+Avocat de l’intimée :
+Me William Switzer
+JUGEMENT
+ATTENDU QUE la Cour a, en ce jour, rendu les motifs de son jugement dans le présent appel;
+LA COUR ORDONNE CE QUI SUIT :
+Les cotisations établies le 28 juin 2018 et le 25 juillet 2018, en application de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15, modifiée (la « Loi »), sont annulées, pour le motif que l’appelante n’était pas un constructeur exerçant une activité commerciale ayant généré une fourniture taxable au sens du paragraphe 123(1) de la Loi.
+Aucuns dépens ne sont accordés.
+Signé à Ottawa, Canada, ce 19e jour de novembre 2021.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2021CCI86
+Date : 20211119
+Dossier : 2019-2157(GST)I
+ENTRE :
+XIU HUA WANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. INTRODUCTION
+[1] L’appelante, Mme Wang, interjette appel de la présente cotisation de taxe de vente harmonisée (TVH) portant sur la vente d’un immeuble. Le ministre a établi cette cotisation à l’égard de Mme Wang en sa qualité de « constructeur », au sens de la définition énoncée au paragraphe 123(1) de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15, modifiée (la « Loi »). Ce faisant, le ministre a présumé que Mme Wang a acheté le bien avec l’intention de le vendre en réalisant des bénéfices dans le cadre d’une entreprise ou d’une affaire de caractère commercial. Mme Wang fait valoir qu’elle a acheté le bien dans le but de l’habiter comme lieu de résidence habituelle, mais qu’elle a changé d’idée lorsqu’elle s’est fiancée, qu’elle est déménagée aux États-Unis et qu’elle s’est mariée.
+II. LES FAITS
+[2] Mme Wang a signé une convention d’achat et de vente (la « convention ») le 13 novembre 2007 avec un constructeur, en vue d’acheter une maison en rangée en construction, située au 4600, avenue Steeles Est, unité T7 (ou, subsidiairement, U7), à Markham, Ontario (le « bien »). Le prix d’achat de la maison était de 413 080 $.
+[3] À l’audience, Mme Wang a témoigné par l’intermédiaire d’un interprète. Durant son témoignage, Mme Wang a déclaré que son intention, lorsqu’elle a signé la convention, était d’utiliser le bien comme lieu de résidence. Mme Wang a pris possession du bien le 19 mai 2011 et elle y a physiquement résidé le même mois. Bien qu’elle ait fait la rencontre de son époux actuel, un citoyen américain, et qu’elle ait entamé une relation avec lui en décembre 2010, elle n’était alors pas prête à modifier son plan initial qui était d’utiliser ce bien comme lieu de résidence. Le titre de propriété enregistré a été transféré à Mme Wang le 22 décembre 2011.
+[4] La relation entre Mme Wang et son fiancé s’est consolidée et est devenue permanente. Au début de 2012, Mme Wang a établi des plans en prévision de son départ du Canada et de son déménagement aux États-Unis pour y rejoindre la personne qui était à l’époque son fiancé. Elle a décidé de mettre son bien en vente vers avril 2012. Le bien a été vendu le 29 juin 2012 au prix de 478 000 $.
+[5] Après avoir vendu le bien et l’avoir quitté, Mme Wang a vécu brièvement avec un membre de sa famille dans la région de Toronto. Elle a quitté le Canada en décembre 2012 pour aller vivre aux États-Unis. Elle y vit toujours. Elle s’est mariée en 2013.
+[6] Bien que le présent appel porte sur la TVH imposée pour une activité commerciale visant le bien en cause, une cotisation fiscale complémentaire avait précédemment été établie à l’endroit de Mme Wang. En 2015, Mme Wang a fait l’objet d’un audit et le ministre a établi une nouvelle cotisation pour l’année d’imposition 2012 en application de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch.1, modifiée (la « LIR »), relativement à des revenus d’entreprise provenant de la disposition du bien. Une cotisation a été établie à l’égard du produit net de la vente à titre de bénéfice tiré d’une entreprise; après déduction des frais de vente, le bénéfice net taxable a été établi à 43 041 $. Cette nouvelle cotisation a donné lieu à la présente cotisation corrélative de TVH.
+[7] La nouvelle cotisation relative au revenu d’entreprise est importante. Une nouvelle cotisation d’impôt supplémentaire totalisant 22 160,98 $, exigible sur ce bénéfice, a été établie pour Mme Wang, ainsi qu’il était indiqué dans l’avis de nouvelle cotisation produit le 10 décembre 2015. Mme Wang s’est opposée à la nouvelle cotisation, qui a été ratifiée en février 2017. Bien qu’elle n’en ait pas pleinement expliqué les raisons, Mme Wang n’a pas interjeté appel de cette confirmation auprès de la Cour canadienne de l’impôt. Elle a plutôt payé la somme intégrale de 22 160,98 $ qui était exigible alors qu’elle vivait aux États-Unis. Ironiquement, comme pour la remercier, l’Agence du revenu du Canada (ARC) a, en juin 2018, institué un compte de TPS/TVH pour Mme Wang, celle-ci étant réputée avoir été un « constructeur » au sens de la Loi.
+[8] Le ministre a ensuite établi une cotisation de TVH relativement à la vente du bien. La dette fiscale nette comprend une cotisation et une nouvelle cotisation. La période de déclaration porte sur le mois de juin 2012. Nous décrivons les détails de la cotisation, car le représentant de Mme Wang en a largement contesté l’exactitude durant l’instruction. Une cotisation a été établie le 28 juin 2018 au titre d’une fourniture taxable de 423 008,85 $, donnant lieu à une TVH percevable de 54 991,15 $, des intérêts débiteurs de 20 036,52 $ et des pénalités pour non-production de 2 199,64 $.
+[9] Une nouvelle cotisation a été établie le 25 juillet 2018. Cette nouvelle cotisation établissait et autorisait un remboursement général de TVH de 21 337,39 $, augmentait le montant des intérêts débiteurs nets (à partir du 28 juin 2018) de 122,33 $ et prévoyait une déduction de 3 404,41 $ pour les intérêts remboursés.
+[10] Hormis la cotisation établie au titre de la LIR, sur laquelle il n’a jamais été statué sur le fond, la question en litige au titre de la Loi que doit trancher notre Cour est de savoir si Mme Wang était un constructeur qui a effectué une fourniture taxable lorsqu’elle a vendu le bien et si elle doit payer la TVH y afférente.
+III. LE DROIT
+a) Jurisprudence
+[11] Les extraits pertinents, tirés de la section Définitions de la Loi, sont ainsi rédigés :
+[…]
+constructeur Est constructeur d’un immeuble d’habitation […] la personne qui, selon le cas :
+d) acquiert un droit sur l’immeuble d’habitation au moment suivant, en vue principalement soit d’effectuer par vente des fournitures de tout ou partie de l’immeuble, ou de droits sur celui-ci, soit d’effectuer des fournitures de tout ou partie de l’immeuble par bail, licence ou accord semblable au profit de personnes autres que des particuliers qui acquièrent l’immeuble ou la partie d’immeuble en dehors du cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial : [...]
+N’est pas un constructeur :
+f) le particulier […] qui, […] :
+(i) soit construit ou fait construire l’immeuble d’habitation […],
+(ii) soit acquiert l’immeuble ou un droit afférent;
+[...] en dehors du cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial;
+b) Sources faisant autorité
+[12] Il s’agit principalement de déterminer si Mme Wang a acquis, puis vendu, le bien dans le cadre d’une entreprise ou d’une affaire de caractère commercial. À titre de critère juridique à utiliser pour statuer sur cette question, l’intimée a invoqué la décision rendue par la Cour d’appel fédérale dans Happy Valley Farms Ltd v MNR, 1986 CarswellNat 375, qui prévoit ce qui suit :
+14 Plusieurs critères, dont un bon nombre sont semblables à ceux qui ont été énoncés par la Cour dans l’arrêt Taylor, ont été utilisés par les tribunaux afin de déterminer si un gain constitue un revenu ou s’il est imputable au capital. Mentionnons notamment les suivants :
+1. La nature du bien qui est vendu. Presque tous les biens, quels qu’ils soient, peuvent être acquis pour qu’on en fasse le commerce, mais certains genres de biens, comme les produits manufacturés, qui sont en général commercialisés seulement, font rarement l’objet d’un investissement. Il y a plus de chances pour qu’un bien qui ne rapporte à son propriétaire aucun revenu ou qui ne lui procure aucune satisfaction personnelle du simple fait qu’il lui appartient soit acquis afin d’être vendu que le bien qui rapporte pareille [sic] revenu ou procure pareille satisfaction.
+2. La durée de la possession. En règle générale, les biens destinés à faire l’objet d’un commerce sont convertis en espèces peu de temps après avoir été acquis. Néanmoins, il existe de nombreuses exceptions à cette règle générale.
+3. La fréquence ou le nombre d’opérations similaires effectuées par le contribuable. Si des biens d’une catégorie particulière ont été vendus à maintes reprises pendant un certain nombre d’années ou si plusieurs ventes ont eu lieu vers la même époque, on peut présumer qu’il s’agissait d’opérations commerciales.
+4. Les travaux réalisés sur le bien ou en lien avec celui-ci. Si le contribuable s’efforce de mettre le bien dans un état qui lui permettre [sic] de le vendre plus facilement pendant qu’il en est propriétaire, ou s’il fait un effort particulier afin de trouver ou d’attirer des acheteurs (par exemple, en ouvrant un bureau ou en faisant de la publicité), la chose tend à prouver l’existence d’une opération commerciale.
+5. Les circonstances qui ont entraîné la vente du bien. Il peut exister certaines explications, comme un cas urgent ou une occasion nécessitant de l’argent en espèces, qui feront qu’il sera impossible de conclure que le bien a initialement été acquis à des fins commerciales.
+6. Le motif. Dans tous les cas de ce genre, le motif du contribuable est toujours pertinent. L’intention au moment de l’acquisition d’un bien, déduite à partir des circonstances et de la preuve directe, constitue l’un des éléments les plus importants pour déterminer si un gain est imputable au revenu ou au capital.
+15 Tous les facteurs précités ont été examinés par les tribunaux, mais c’est le dernier facteur, soit le motif ou l’intention, qui a été le plus étudié. Ce facteur, en plus de l’examen du comportement du contribuable dans son ensemble lorsqu’il avait le bien en sa possession, constitue ce qui, en fin de compte, influe sur la conclusion de la Cour.
+16 [...] Cela a voulu dire, dans certains cas, que même s’il pouvait être établi que le contribuable avait principalement l’intention d’effectuer un investissement, un gain retiré par suite de la vente du bien serait jugé imposable à titre de revenu si la cour croyait qu’au moment de l’acquisition, le contribuable envisageait la possibilité de vendre le bien si pour quelque raison que ce soit, son projet d’investissement ne se matérialisait pas. […]
+[13] La Cour doit analyser ces facteurs en regard des faits et des circonstances précis dont elle a été saisie.
+IV. OBSERVATIONS DES PARTIES
+a) L’appelante
+[14] Le représentant de Mme Wang a longuement fait valoir que les erreurs de calcul du ministre, quant aux honoraires d’avocat, aux frais immobiliers et autres frais comparables à inclure ou à exclure, ont faussé le calcul de la fourniture taxable assujettie à la TVH. Il a aussi fait valoir que le remboursement de TVH pour habitations a été inclus à tort dans le document de travail de l’ARC énonçant les dépenses réelles engagées dans l’acquisition du bien. Enfin, le représentant a tenté de réunir des observations au sujet du montant du revenu d’entreprise de Mme Wang qui avait précédemment fait l’objet d’une cotisation au titre de la LIR.
+[15] Les calculs mathématiques du ministre, à titre de postes préliminaires, ne semblent pas erronés. De plus, comme l’a souligné le représentant de Mme Wang, la principale question pour la Cour était de déterminer si Mme Wang est assujettie à la TVH sur la vente du bien en cause, à titre de constructeur dans le cadre d’une entreprise. Quant aux calculs établis aux termes de la LIR, la Cour note que, sur le plan procédural, Mme Wang a déjà concédé ce point en litige puisqu’elle n’a pas interjeté appel de la confirmation de la cotisation, en 2017. Bien que cette concession ait enhardi le ministre, elle n’influe pas de manière significative sur notre Cour dans le présent appel portant sur la TVH, car elle n’a pas été plaidée devant la Cour, même si elle a initialement fait l’objet d’une opposition de la part de Mme Wang qui, à l’époque, n’était plus résidente.
+[16] Le représentant de Mme Wang a fait les observations suivantes au sujet de son témoignage :
+i) Mme Wang avait l’intention d’utiliser le bien comme lieu de résidence;
+ii) Elle l’a d’abord occupé, puis en cohabitation avec une autre personne;
+iii) Elle n’a pas exploité d’entreprise dans le cadre de quelque activité s’apparentant de quelque manière à une activité commerciale;
+iv) Elle a déménagé en raison d’événements qui ont changé sa vie : ses fiançailles, puis son mariage, qui l’ont amenée à déménager dans un pays étranger, les États-Unis.
+b) L’intimée
+[17] L’avocat de l’intimée s’est concentré sur les facteurs énoncés dans Happy Valley Farms pour déterminer si le produit de la vente du bien constitue en soi un revenu ou s’il est imputable au capital. Ce faisant, il a fait valoir que :
+i) Le bien consistait en un immeuble en copropriété à logement unique; il s’agit d’un type d’immeuble qui se vend facilement en vue de réaliser des bénéfices dans le cadre d’une entreprise;
+ii) Le bien a « appartenu » à Mme Wang pendant moins d’un an;
+iii) Quant aux opérations similaires, aucune observation n’a été faite à ce sujet; quelques hypothèses du ministre, selon lesquelles Mme Wang possédait un autre immeuble en copropriété, vraisemblablement acquis quelque temps après 2007, n’ont pas été examinées.
+iv) Aucune amélioration ne semble avoir été apportée à l’immeuble, bien qu’il faille reconnaître qu’il s’agissait d’un immeuble en copropriété tout nouveau;
+v) Les circonstances ayant entraîné la vente du bien sont variées. Il est vrai que Mme Wang s’est fiancée, puis s’est mariée, mais elle a à peine vécu dans l’immeuble en cause;
+vi) Dès le départ, Mme Wang avait l’intention d’acquérir le bien en vue de le vendre en réalisant un bénéfice.
+c) Question préliminaire : réfutation de certaines hypothèses formulées dans la réponse
+[18] D’après les témoignages, les concessions ou d’autres documents présentés lors du procès, certaines hypothèses de fait formulées par le ministre étaient, tout bien pesé, inexactes ou fausses.
+14 (e) – L’appelante a acquis le titre de propriété le 22 décembre 2011
+[19] Comme l’a reconnu l’avocat, « titre » enregistré est un terme de droit. À lui seul, ce terme ne suppose ni n’engage un droit de propriété. De fait, selon la convention d’achat et de vente, Mme Wang a acquis le titre de propriété en equity au printemps de 2007. Cette date très importante de la convention a été omise de la réponse. Il est vrai que le titre enregistré valable en droit a été transmis à Mme Wang en 2011. Cependant, Mme Wang résidait dans l’immeuble à l’époque. Tous ces faits sont pertinents pour évaluer les critères énoncés dans l’arrêt Happy Valley Farms, car ils annulent l’argument apparent selon lequel le bien n’a « appartenu » à Mme Wang que durant une courte période.
+14 (h) – L’hypothèque sur le bien était payable sur demande et le taux d’intérêt était fixé au taux préférentiel plus 10 %.
+[20] Comme pour la plupart des charges actuelles en régime d’enregistrement des titres, un taux d’intérêt « notionnel », bien supérieur à tout taux fixe ou variable négocié, a été indiqué dans le document enregistré sur le titre. De ce fait, les documents enregistrés n’ont pas à être modifiés si les taux d’intérêt varient pendant la durée de la dette. Les documents présentés lors du procès rendent compte des clauses contractuelles réelles de l’hypothèque : durée de cinq (5) ans, taux hypothécaire variable, paiements mensuels fixes, amortissement sur 30 ans et paiement mensuels courants versés par Mme Wang à la banque.
+14(n) et (o) – Durant toute la période pertinente, l’appelante n’a pas occupé le bien. Durant toute la période pertinente, aucun locataire n’a occupé le bien.
+[21] Durant leurs témoignages, Mme Wang et son locataire ont déclaré que chacun avait résidé dans le bien après la fin des travaux et avant toute autre personne. Elle a donc été la première à l’occuper au sens de la Loi. Dans cette affaire particulière, elle a occupé l’immeuble, à la fois elle-même et par l’intermédiaire d’un locataire.
+14(s) – L’appelante n’a pas déménagé aux États-Unis avant 2013
+[22] C’est en 2012 que Mme Wang a déménagé aux États-Unis de façon permanente, soit la même année qu’elle a vendu le bien.
+V. DISCUSSION
+a) Le « critère » essentiel dans la définition de « constructeur »
+[23] La Cour note qu’aucun argument, aucun acte de procédure ni aucune observation n’a cherché à faire valoir l’exception relative à la « fourniture à soi-même » prévue au paragraphe 191(5) de la Loi. Il s’agit en bref d’un argument subsidiaire : même si Mme Wang avait reconnu être un « constructeur », elle pourrait être un constructeur n’ayant pas effectué une fourniture taxable aux termes du paragraphe 191(5). Mme Wang ne pourrait se prévaloir de cette exception (en présumant qu’elle l’aurait plaidée ou, tout au moins, présentée) que si elle (ou une partie liée), en tant que constructeur, (i) avait été la première à utiliser principalement le bien comme lieu de résidence, (ii) pendant la construction et jusqu’à ce que les travaux soient en grande partie achevés, et (iii) n’avait pas demandé de crédits de taxe sur les intrants. Outre le fait que cette exception n’a pas été présentée ni plaidée, il s’agit d’un point par ailleurs théorique selon les motifs de la décision dans le présent appel.
+[24] La ligne de démarcation en droit ne fait aucun doute pour la Cour. Mme Wang a-t-elle acquis le droit sur le bien en construction dans le cadre d’une entreprise ou d’une affaire de caractère commercial? Si elle l’a acquis dans le cadre d’une entreprise ou d’une affaire de caractère commercial, elle ne peut se prévaloir de l’exception relative aux activités menées « en dehors du cadre d’une entreprise », prévue dans la Loi à l’alinéa 123(1)f) de la définition de « constructeur ». Dans un tel cas, la cotisation et les nouvelles cotisations établies par le ministre seront maintenues.
+b) Possédait-on des indices suffisants indiquant une affaire de caractère commercial?
+[25] Afin de déterminer si Mme Wang a participé à une entreprise ou à une affaire commerciale, les faits doivent être analysés en regard des facteurs ou des critères énoncés dans l’arrêt Happy Valley Farms pour juger de la teneur globale du caractère commercial ou non commercial de l’achat, puis de la vente, du bien. L’avocat de l’intimée a exhorté la Cour à utiliser ce cadre. Et c’est ce que la Cour a fait. Les divers critères énoncés dans l’arrêt Happy Valley Farms sont examinés dans les paragraphes qui suivent.
+i) La nature du bien qui est vendu
+[26] Le critère de la nature du bien n’est pas particulièrement déterminant dans le présent appel, ni dans quelque autre portant sur une unité de logement résidentiel, pour déterminer si Mme Wang a acquis, puis vendu, le bien dans le cadre d’une entreprise ou autre activité comparable (le facteur de la Loi faisant contrepoids). Une unité en copropriété peut être un investissement ou un lieu de résidence à long terme ou encore un actif à court terme dans un stock destiné à être vendu au moment opportun.
+ii) La durée de la possession
+[27] C’est en 2007 que Mme Wang a acquis le droit légal à titre de bénéficiaire du bien et elle l’a vendu en 2012. En toute objectivité, il ne s’agit pas d’un délai négligeable ou particulièrement court, lorsqu’on tient compte du caractère transitoire de la vie urbaine d’aujourd’hui. En conclusion, à la fois la réponse du ministre (dans laquelle la date de la convention a été omise), et sa plaidoirie selon laquelle Mme Wang n’a été titulaire du « droit de propriété » que pendant un an, ne sont ni pondérées ni exactes en droit.
+[28] La Cour a soulevé cette question auprès de l’avocat de l’intimée, en notant qu’elle présentait une interprétation trop restreinte du droit de propriété enregistré qui ne tient pas compte des réalités de la construction des nouveaux immeubles en copropriété, des obligations de l’« acheteur » découlant de l’exécution de la convention d’achat et de vente et de l’occupation provisoire – tous des facteurs dont Mme Wang a fait l’expérience (ou a plus vraisemblablement subis) de 2007 à 2012. De plus, Mme Wang avait le droit de céder son droit de propriété à titre de bénéficiaire, durant la construction ou l’occupation provisoire. Elle n’a pas exercé ce droit, comme elle aurait pu le faire de manière opportune dans le cadre d’une entreprise.
+iii) La fréquence ou le nombre d’opérations similaires
+[29] Aucun élément de preuve précis indiquant quelque droit de propriété dans un autre immeuble n’a été présenté à la Cour, à l’exception de certaines hypothèses formulées dans la réponse concernant un immeuble en copropriété situé à proximité. Aucune précision, implicite ou explicite, quant à la date à laquelle une convention d’achat et de vente aurait été conclue pour cette autre unité, n’a été fournie à la Cour. Comme la date à laquelle la convention d’achat et de vente a été conclue pour le bien en cause est inexacte ou a été omise, la Cour n’est pas disposée à accorder à cette hypothèse un poids supérieur au fait qu’elle n’a été mentionnée qu’une seule fois en lien avec ce facteur.
+iv) Les travaux réalisés sur le bien ou en lien avec celui-ci
+[30] Aucune hypothèse ni aucun autre élément de preuve n’ont été présentés au sujet de travaux réalisés. Comme il s’agissait d’un immeuble en copropriété neuf, il est plus probable qu’improbable que peu de travaux aient été réalisés. Là encore, ce facteur n’est pas déterminant.
+v) Les circonstances ayant entraîné la vente du bien
+[31] Les seuls éléments de preuve qui ont été présentés à la Cour, sur les circonstances ayant entraîné la vente du bien, sont la rencontre, les fiançailles, l’émigration et le mariage de Mme Wang avec celui qui est aujourd’hui son époux. Cela s’est produit trois ans après qu’elle a conclu la convention d’achat et de vente et a mené à son déménagement définitif aux États-Unis, en 2012.
+vi) Le motif
+[32] Quant au motif, l’évaluation de ce facteur doit se faire à partir de la date d’acquisition, en tenant compte des faits et des circonstances existants et en cherchant à déterminer si ceux-ci sont étayés par d’autres actions durant toute la période. En bref, existe-t-il des faits mis en lumière par des actions subséquentes qui indiquent que Mme Wang, au moment d’acquérir le bien, avait un plan rationnel et plausible de vendre le bien en vue d’en tirer des bénéfices (le « plan B »)?
+[33] Il n’existe, pour la période de 2007 à 2011, aucun élément de preuve qui permette d’établir ce fait, même de manière indirecte. De tels éléments existaient certainement après 2010, lorsque Mme Wang a fait la rencontre de celui qui deviendrait sous peu son époux et en 2011, lorsque leur relation est devenue de plus en plus sérieuse. Cependant, aucun de ces éléments ne fournit quelque preuve indiquant que cette série d’événements avait été prévue ou s’inscrivait dans le plan d’affaires de rechange habituel témoignant d’un « plan B » pratique. Si Mme Wang avait conservé le bien et l’avait loué après avoir déménagé, il est permis de croire que cela aurait été un plan B. Cependant, même un tel plan B aurait étayé l’argument qu’il s’agissait d’un investissement plutôt que d’une entreprise. Cela aurait également fait en sorte que Mme Wang aurait été la propriétaire non domiciliée d’un logement locatif dans un autre pays, ce qui aurait donné lieu à un mode d’administration difficile basé sur l’absentéisme du propriétaire, alors que l’argument de l’intimée concernant le motif pouvait être réfuté. Il existe très peu d’éléments de preuve – s’il en est – indiquant que l’intention de Mme Wang en signant la convention d’achat et de vente était de mener une affaire de caractère commercial. Les événements qui ont changé sa vie, et qui sont survenus par la suite, relèvent plus, et non moins, d’un heureux hasard.
+VI. RÉSUMÉ, CONCLUSION ET DÉPENS
+[34] Trois facteurs prépondérants se dégagent des motifs du jugement de la Cour dans le présent appel.
+[35] En ce qui a trait à plusieurs facteurs énoncés dans Happy Valley Farms, durant l’acquisition du bien, Mme Wang s’est, tout bien pesé, comportée davantage comme s’il s’agissait d’un investissement ou du lieu de résidence d’un propriétaire-occupant. Elle a été propriétaire du bien pendant cinq ans. Elle a emménagé dans l’immeuble. Elle a souscrit un prêt hypothécaire ordinaire. Elle a pris un locataire en cohabitation.
+[36] Mme Wang a présenté des motifs logiques et crédibles indiquant qu’elle a fait l’acquisition du bien pour y vivre ou à titre d’investissement, et qu’elle l’a vendu après que la construction fut achevée et l’avoir occupé. Quelle que soit la mesure économétrique utilisée, Mme Wang n’a pas acquis le bien dans le cadre d’une entreprise ou d’une activité commerciale. Il n’existait aucun plan d’affaires apparent ni aucune approche commerciale et il n’y a eu certainement aucun effort concerté pour vendre le bien rapidement, d’une manière concurrentielle ou dans une optique commerciale. L’approche improvisée de Mme Wang, les erreurs dans les hypothèses du ministre visant autrement à démontrer un caractère commercial, ainsi que l’absence manifeste de souci du détail de la part de Mme Wang, cadrent mal avec le caractère d’une entreprise ou d’une activité commerciale.
+[37] Enfin, Mme Wang était célibataire et elle travaillait lorsqu’elle s’est engagée à acheter le bien, en 2007. Elle a fait la rencontre de son petit ami trois ans plus tard. Ils se sont fiancés. Ils ont quitté le pays ensemble. Ils se sont mariés. En ce qui a trait à l’évolution des circonstances, cette séquence d’événements est convaincante pour notre Cour, à défaut de l’être pour le ministre. Il s’agit du facteur prépondérant. De plus, ce facteur l’emporte sur les autres, dont la plupart ne sont pas, d’une manière ou d’autre, convaincants en soi. Il ne peut être fait abstraction de ce fait et de la série d’événements, et on ne peut qu’accorder un poids déterminant à ces facteurs.
+[38] Pour tous ces motifs, la Cour conclut que Mme Wang n’était pas un constructeur au sens du paragraphe 123(1) de la Loi. Par conséquent, l’appel est accueilli. Afin de mettre dûment en application le jugement, la cotisation établie le 28 juin 2018 et la nouvelle cotisation établie le 25 juillet 2018 sont toutes les deux annulées. De cette manière, les faits concordent : il n’y a eu aucune fourniture taxable et aucune TVH découlant de la vente, et aucun crédit de taxe sur les intrants n’est accordé.
+[39] De plus, compte tenu de l’intention manifeste et claire exprimée par le législateur à l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt, aucuns dépens ne peuvent être adjugés.
+Signé à Toronto, Canada, ce 19e jour de novembre 2021.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2021CCI86
+NO DU DOSSIER DE LA COUR :
+2019-2157(GST)I
+INTITULÉ :
+XIU HUA WANG c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 octobre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 novembre 2021
+COMPARUTIONS :
+Représentant de l’appelante :
+Sean Hu
+Avocat de l’intimée :
+Me William Switzer
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[en blanc]
+Cabinet :
+[en blanc]
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

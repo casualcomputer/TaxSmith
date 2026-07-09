@@ -1,0 +1,158 @@
+---
+title: "Barr v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309843/index.do"
+last_modified: "2018-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 86"
+citation2: ""
+neutral_citation: "2018 TCC 86"
+decision_date: "2018-05-03"
+language: "en"
+item_id: "309843"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4816
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:48:27.827000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "caf3f66b5bc4c3fe659c875c00c8c3f84084302a1ed9970fce309bf64635f9a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barr v. The Queen
+
+- Citation: 2018 TCC 86
+- Decision date: 2018-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4816, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barr v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-03
+Neutral citation
+2018 TCC 86
+File numbers
+2015-5367(GST)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-5367(GST)G
+BETWEEN:
+JOHN BARR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 1 and 2, 2018, at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Gregg Rafter
+Counsel for the Respondent:
+Victor Caux
+JUDGMENT
+The appeal with respect to assessments made under the Excise Tax Act by Notices of Assessment dated September 3, 2013 and July 16, 2014, is dismissed with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, Canada, this 3rd day of May 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2018 TCC 86
+Date: 20180503
+Docket: 2015-5367(GST)G
+BETWEEN:
+JOHN BARR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] The appellant appeals from the Minister’s denial of a refund of HST pursuant to the Appellant’s application for a refund of $281,584 under section 261 of the Excise Tax Act ( the “Act”) on the basis the HST was paid in error.
+[2] The Appellant was the sole shareholder of Garibaldi Springs Water Company Ltd (“Garibaldi”) and retained the services of 0922763 B.C. Ltd (“922”) and P.V. Gordon Holdings Ltd (“PVG”) through their principals, Rene David and Peter Gordon respectively to find a buyer for the business. The Appellant states that these two brokers were retained to find a buyer for the sale of his shares in Garibaldi while the Respondent takes the position it was for the sale of the business of Garibaldi in general and not specifically for the sale of shares.
+[3] The two brokers found an offshore buyer who purchased the shares of Garibaldi held by the Appellant in late 2012, a consequence of which the Appellant paid each of the brokers a commission plus 12% Harmonized Sales Tax (“HST”) of $140,792 each thereon for a total HST of $281,584.
+[4] As indicated, the Appellant then applied for a refund of the HST paid on such commissions on the basis it was paid in error on the grounds such services were exempt supplies of financial services pursuant to Schedule V, Part VII of the Act. The Respondent takes the position that such services are not “financial services” as defined in subsection 123(1) of the ETA or in the alternative, if “financial services”, they would fail to be exempt under paragraph (r.4) of the definition of financial services in subsection 123(1) which carves out services that are preparatory to or supplied in conjunction with financial services in certain circumstances. In essence, there is a disagreement as to the character of the services provided by 922 and PVG ( the “brokers”) to the Appellant .
+[5] The relevant provisions of the ETA are as follows:
+Paragraph (d) of the definition of “financial service” in subsection 123(1) includes:
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument.
+A “financial instrument” is defined to include an “equity security” which in turn is defined to include “a share of the capital stock of a corporation” all under subsection 123(1) definitions.
+Paragraph (l) of the definition of “financial service” in subsection 123(1) includes:
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (i), and
+(ii) not referred to in any of paragraphs (n) to (t).
+[6] It is clear that the Appellant takes the position that pursuant to paragraph (l) above, the brokers arranged for “the “transfer of ownership” of the Appellant’s shares as the financial services referred to in paragraph (d) above. The Respondent disagrees that there was any supply of financial services by the brokers; namely, they did not arrange for the transfer of ownership of the shares or, in the alternative, if they did, such services are excluded by virtue of paragraph (r.4) of the definition of “financial service” in subsection 123(1) which reads as follows:
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or similar service.
+[7] It should be noted that there is no dispute Schedule V, Part VII of the Act exempts the supply of financial services from HST and further, that section 261 allows a taxpayer to apply for a refund of HST paid in error so no reference to the details of these provisions is necessary.
+[8] Having regard to the above, the issues to be decided herein are whether the services provided by 922 and PVG (collectively the “Brokers”) were financial services and if so, whether they were excluded as exempt supplies by the operation of paragraph (r.4) of the definition of “financial service” pursuant to paragraph (l) above.
+[9] As the Federal Court of Appeal in Costco Wholesale Canada Ltd. v. R, 2012 FCA 160 (FCA) and Global Cash Access (Canada) Inc. v R, 2013 FCA 269 (FCA) informs us, the Court must first analyse the evidence of what services were provided by the brokers to the Appellant to earn the commissions paid to them and then determine whether such services or supply fall within the statutory definition of “financial service”. In this case, whether they can be considered arranging for the transfer of ownership of shares by the appellant to its buyer. This analysis requires us to identify the dominant or essential characteristic of the supply as per the Federal Court of appeal decision in Royal Bank v R.,2007 FCA 72 (FCA).
+[10] If the Court finds that the services of the brokers were essentially the arranging of the transfer of ownership of shares, then the Court must proceed to determine whether such services are caught by the exclusion in paragraph (r.4) of the definition of “financial service”.
+[11] Accordingly, I will first turn my attention to analysing what services the brokers performed and whether they qualify as the “arranging for the transfer of ownership of shares” by the Appellant to his ultimate buyer.
+[12] The evidence was clear that the essential duty of the brokers was to find a buyer for the Appellant’s water distribution business. The Appellant testified that he imposed no requirements on how the brokers were to go about such task leaving it entirely to them, while the brokers each testified that they put together information available from both the Appellant and publicly known; including a description of the Appellant’s water extraction licences and description of its equipment and infrastructure and created a basic brochure. They also conducted online research of water demands globally to identify China as the likely market for the Appellant’s buyer. The brokers both testified that their chief approach to obtaining a buyer of the Appellant’s business was to network with Chinese business people engaged in matching investors to business opportunities in Canada and attending various networking sessions of various relevant organizations in Canada and even visiting China in the case of Mr. David of 922 who also brought his own real estate projects to these people. They testified they spoke with about 100 prospective buyers, actually conducted a tour of Garibaldi’s water extraction site for approximately 50 of them and answered their questions. They agreed however, that there was no attempt to value the shares of the Appellant or focus on the sale of the shares; instead testifying that they would entertain any serious inquiry from a prospective investor and bring same to the attention of the Appellant. Clearly, no evidence was tendered as to the value of the shares or the assets which, Mr. Gordon testified, would be sold for whatever the market could bear.
+[13] The evidence is quite clear that the brokers, by various email exchanges tendered into evidence, brought potential investors who expressed an interest in joint venturing or partnering with the Appellant to the attention of the Appellant, both in carrying on his existing operation and in setting up a new factory for bottling water under different brand names known as co-packing. The Appellant himself testified that he was prepared to consider any serious offer but his preference would be to sell his shares, both to take advantage of capital gains treatment but also because he realized that a sale of shares would facilitate obtaining ministerial approval to the deemed transfer of his water licences more expeditiously than alternative structures.
+[14] An analysis of agreements signed with any one or both brokers clearly demonstrates the flexibility the Appellant had in structuring his transaction notwithstanding his stated share sale preference. Although the Appellant and Mr. Gordon from PVG, both testified they had known each other for decades and Mr. Gordon at least was involved in consulting on a possible sale of the business without a contract for several years beforehand, they entered into a first contract titled “Garibaldi Springs Company Letter Agreement” on April 4, 2008, prepared by the Appellant’s solicitor, pursuant to which, in paragraph 3 thereof:
+3. PG shall have the exclusive right to solicit offers for the shares, assets, or a license of the water rights of the Company, and/or a combination of the three…..
+[15] This letter agreement was terminated by the parties after Mr. Gordon wrote to the Appellant advising he was part of a purchaser group interested on buying the water licences and thus had a conflict of interest and therefore a Mr. David and another member of the group would take part in negotiating the purchase of his water licences. In fact, the evidence is that a letter of intent was signed with Blue Gold One Holdings Ltd, for the said group with the Appellant dealing with the purchase of the three water licences owned by Garibaldi for $915,000 which lapsed and did not result in a binding agreement. On May 31, 2011, however, the Appellant entered into a Finders Fee Agency Agreement with Blu Gold One Holdings Ltd, the potential buyer in the previous letter of intent, giving them the exclusive right to sell the shares for one year under the first two provisions of that agreement but later containing a provision in paragraph 8 that stated:
+8. Blu Gold may not accept any offer for the purchase of assets and undertaking of GSWC on behalf of GSWC or the Shares of Barr.
+[16] Even though a similar agreement dated May 12, 2012 to renew their arrangement was unsigned, the parties all testified to the effect that they knew what their agreement was and would continue working towards finding a buyer. As indicated earlier, evidence of several exchanges of emails including in May, June and July of 2012 indicate the brokers were referring potential investors to the Appellant for joint venture or partnership arrangements and no mentioned share transactions.
+[17] The brokers testified that when a written offer was finally received, in the form of a purchase of licences and not shares, they forwarded same to the Appellant. They testified that such offer was prepared by the potential buyer’s solicitor and not by them and that the solicitors for both sides negotiated the transaction which ended in the sale of shares by the Appellant pursuant to a Share Purchase Agreement dated October 4, 2012 for $500,000, less than offered in the initial offer for the licences. The Appellant and brokers entered into separate commission agreements for the commissions which they were ultimately paid on November ___, 2012, obviously after the Share Purchase Agreement was signed but before the closing date of the transaction on November 30, 2012 as per the Share Purchase Agreement above.
+[18] What is clear from the evidence is that the brokers’ main duty was to find a potential buyer for the business, and not specifically for the shares of the appellant, and that once a potential buyer was found, such person was parked with the Appellant or his attorney who negotiated, drafted and documented the transaction of purchase and sale and the transfer of the shares in question. While I appreciate, as the Appellant’s counsel has argued, that ultimately a sale of shares occurred and so it can be said the Appellant made a supply of a financial instrument, it is also clear that as the ultimate purchaser provided a written offer to purchase the assets, the brokers had no idea at that point or any control over whether a binding agreement for either assets or shares could be finalized as it was then out of their hands.. As indicated in an earlier contract signed with Blu Gold above, the broker was not authorized to accept any offer on behalf of Garibaldi or the Appellant.
+[19] Hogan J. indicated in Mac’s Convenience Stores Inc. v. R., 2012 TCC 393, at paragraph 24, relying on an obsolete but still useful interpretive tool in Canada Revenue Agency’s Policy Statement P−239 “in determining if an intermediary’s service qualifies as an “arranging for” service, one must consider all the circumstances surrounding the transaction, including the degree of involvement of the intermediary in the supply of the financial service and where applicable, the normal activities of an intermediary in a given industry.”
+[20] In these circumstances, the brokers’ degree of involvement can at best be described as providing the services of finding a potential buyer for the business to refer to the Appellant who would negotiate the structure, terms, and ultimate price of the sale of the business and enter into a binding agreement. The brokers did none of that and had no authority to. There was no evidence of any formal listing of the appellant’s business in any site or public forum, no assistance by the brokers in valuing either the business or the shares specifically, no evidence of any attempt to put together any financial or operating information in conjunction with the Appellant other than the basic brochure described above and no evidence of any advertising of the business or shares for sale anywhere. As the Appellant described it, the brokers were basically putting out the word that the business was for sale amongst their contacts. Clearly, they had no authority to enter into any contracts on behalf of the Appellant or bind him in any way nor to hire and instruct counsel and see a transaction through to the end. Moreover, there was no evidence tendered as to what the normal practice of such an intermediary would be in this industry as I note the brokers were not registered business or securities brokers in any event. This does not in my view rise to the level of arranging to transfer ownership of the shares even in the event a share transaction ultimately materialized and so cannot be said to qualify as a supply of a financial service under the Act. There must be far more involvement than simply placing a potential buyer at the seller’s doorstep and creating some basic brochure and attending promotional events to promote the sale of the appellant’s business and acting as a liaison with such interested parties prior to any agreement being struck.
+[21] Having found that the services of the brokers do not constitute an arranging for the transfer of ownership of the appellant’s shares it is not necessary for me to consider whether their services fall within the ambit of paragraph (r.4) of the definition of financial services in subsection 123(1) of the Act; but if I had been required to, I would have found that at best, the services provided by such brokers were merely preparatory to the provision or potential provision of a qualifying financial service thereunder. The brokers had prepared a brochure with basic information on the Appellant’s infrastructure and licences and conducted some research to identify China as the most likely marker to be interested in water supplies. So, it is clear their services comprised “market research” and “the collection, collation and provision of information” contemplated by paragraph (r.4.). Moreover, the brokers attended promotional events to promote the sale of the Appellant’s business so clearly performed promotional and similar activities.” The latter was in fact their main and dominant activity.
+[22] The appellant’s appeal is dismissed with costs to the Respondent.
+Signed at Vancouver, Canada, this 3rd day of May 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2018 TCC 86
+COURT FILE NO.:
+2015-5367(GST)G
+STYLE OF CAUSE:
+John Barr and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+May 1 and 2, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT:
+May 3, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Gregg Rafter
+Counsel for the Respondent:
+Victor Caux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gregg Rafter
+Firm:
+Broughton Law Corporation
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,161 @@
+Title: Johnson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29331/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-383-29331-johnson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-04
+
+# Johnson c. La Reine
+
+- Citation: 2009 CCI 383
+- Decision date: 2009-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7070, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-04
+Référence neutre
+2009 CCI 383
+Numéro de dossier
+2008-3557(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3557(IT)I
+ENTRE :
+KATHLEEN JOHNSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 mai 2009, à Halifax (Nouvelle‑Écosse)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Melanie Petrunia
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que les pertes que l’appelante a subies en 2005 à l’égard de son entreprise agricole ne sont pas assujetties aux restrictions prévues à l’article 31 de la Loi de l’impôt sur le revenu.
+La Cour ordonne que le droit de dépôt de 100 $ payé par l’appelante lui soit remboursé.
+Signé à Halifax (Nouvelle‑Écosse), ce 4e jour d’août 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour d’octobre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 383
+Date : 20090804
+Dossier : 2008-3557(IT)I
+ENTRE :
+KATHLEEN JOHNSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en l’espèce est de savoir si les pertes que l’appelante a subies en 2005 dans le cadre de l’exploitation de son entreprise agricole sont assujetties aux restrictions prévues à l’article 31 de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] L’appelante a grandi sur une ferme située près de Truro (Nouvelle‑Écosse). Son père était éleveur de bovins. Il travaillait très fort pour gagner sa vie. Malheureusement, sa famille n’a pas été capable de garder la ferme et sa mère a été obligée de la vendre.
+[3] L’appelante a fréquenté le Collège d’agriculture de Nouvelle‑Écosse à Truro et a obtenu un diplôme en génie agricole. Elle a par la suite obtenu son diplôme d’ingénierie.
+[4] Elle avait toujours voulu avoir une ferme. Elle et son époux ont acheté un bien agricole de 110 acres près de Denmark (Nouvelle‑Écosse) en 1997. Le bien nécessitait des travaux importants, étant donné qu’une période de 15 à 20 ans s’était écoulée depuis la dernière fois où il avait été exploité.
+[5] En 2005, l’entreprise agricole de l’appelante a tiré un revenu de la vente de savon fait à base de lait de chèvre, de bovins et d’agneaux. L’appelante a également mentionné qu’elle faisait l’élevage de dindes en liberté. Le troupeau de bovins était de petite taille, étant donné qu’il ne comptait que cinq têtes en 2005. Il compte maintenant 15 têtes.
+[6] Son mari ne participait pas autant que l’appelante aux activités agricoles. Il travaillait sur une base saisonnière dans le secteur de l’entreprise qui s’occupait de l’exploitation forestière. Après le décès du fils de l’appelante en 2004, le mari s’est désintéressé de la ferme et l’appelante s’est mise à tout faire elle‑même. Dans les années antérieures, elle attribuait une partie de la perte à son mari en fonction du travail qu’il effectuait dans le cadre de l’exploitation forestière de l’entreprise.
+[7] L’appelante travaillait également à l’extérieur de la ferme, pour la province de la Nouvelle‑Écosse. En 2002, l’appelante s’est mise à occuper un poste d’ingénieure à temps plein. Avant cela, elle travaillait en tant qu’inspectrice.
+[8] L’appelante travaillait dans un bureau situé à New Glasgow (Nouvelle‑Écosse). Avant de se rendre à son travail le matin, elle passait environ une heure à effectuer des travaux de routine sur la ferme, notamment nourrir les animaux et veiller à ce qu’ils aient de l’eau. Sur le chemin du travail, elle faisait des livraisons à ses clients. Pendant sa pause déjeuner, elle faisait des courses pour l’entreprise agricole. Pendant la soirée, après son retour à la maison, elle travaillait également sur la ferme.
+[9] Elle était la seule à fabriquer le savon. Il lui fallait de quatre à cinq heures pour fabriquer un lot de savon et elle fabriquait du savon une journée par semaine.
+[10] Elle s’était entendue avec la province pour avoir des heures de travail lui permettant d’avoir congé tous les deux vendredis. Elle passait ces journées de congé à travailler sur la ferme. Elle travaillait également sur la ferme pendant les fins de semaine et pendant ses vacances. D’après elle, elle travaillait sur la ferme de 38 à 52 heures par semaine. Si on utilise le nombre d’heures le moins élevé, soit 38 heures, elle passait donc au moins 1 976 heures par année à travailler sur la ferme. Cela signifie donc qu’elle passait plus de temps à travailler sur la ferme qu’à travailler pour la province, son nombre d’heures d’emploi total par année étant d’environ 1 715 heures.
+[11] Elle ne cessait d’investir dans la ferme. Elle achetait du nouveau matériel et de nouveaux animaux et elle réparait les bâtiments. Elle utilisait son revenu d’emploi pour investir dans la ferme.
+[12] Elle avait clairement l’intention de tirer un profit de la ferme et elle espérait un jour pouvoir gagner sa vie avec le revenu généré par la ferme. Sa famille œuvre dans le domaine de l’exploitation agricole depuis longtemps.
+[13] Dans l’arrêt Moldowan c. La Reine [1978] 1 R.C.S. 480, le juge Dickson a mentionné ce qui suit :
+13. Déterminer si une source de revenu est la principale « source » de revenu d’un contribuable suppose un test à la fois relatif et objectif. Ce n’est incontestablement pas une simple question de proportion. Celui qui a exploité une ferme toute sa vie ne cesse pas d’en tirer sa principale source de revenu du simple fait qu’il a inopinément gagné à la loterie. Ce qui distingue la principale « source » de revenu du contribuable, c’est l’expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l’égard de chaque source de revenu, en examinant le temps consacré à celle‑ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d’un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+[…]
+15 Il est clair que le mot « combinaison » utilisé à l’art. 13 ne vise pas la simple addition des deux sources de revenu d’un contribuable. En ce cas en effet, un contribuable pourrait combiner les pertes provenant de son exploitation agricole et sa plus importante source de revenu, constituant de ce fait sa principale source. Je ne pense pas que ce soit la bonne interprétation du par. 13(1). En réalité, cela signifierait que la limite prévue à cet article ne serait jamais applicable et que, dans chaque cas, le contribuable pourrait déduire l’intégralité des pertes provenant de son exploitation agricole.
+16 À mon avis, la Loi de l’impôt sur le revenu envisage dans son ensemble trois catégories d’agriculteur :
+(1) le contribuable qui peut raisonnablement s’attendre à tirer de l’agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel. Ce contribuable, dont l’agriculture est le gagne-pain, est exempté de la limite imposée par le par. 13(1) pour les années où il subit des pertes provenant de son exploitation agricole;
+(2) le contribuable qui ne considère pas l’agriculture, ou l’agriculture et une source secondaire de revenu, comme son gagne‑pain mais pour qui l’exploitation d’une ferme est une entreprise secondaire. Ce contribuable a droit aux déductions prévues au par. 13(1) au titre des pertes provenant d’une exploitation agricole;
+(3) le contribuable qui ne considère pas l’agriculture, ou l’agriculture et une source secondaire de revenu, comme son gagne‑pain et qui poursuit une activité agricole comme passe‑temps. Les pertes de ce contribuable provenant de son exploitation agricole qui ne constitue pas une entreprise, ne sont pas déductibles.
+17 Le paragraphe 13(1) suppose l’existence d’un contribuable qui tire son revenu de l’agriculture et de quelqu’autre source et il renvoie donc à la 1re catégorie. Il vise une personne dont l’agriculture est la préoccupation majeure, tout en tenant compte de ses autres intérêts pécuniaires, comme un revenu provenant d’un investissement, d’un emploi ou d’une entreprise secondaire. L’article prévoit que ces intérêts subsidiaires ne placent pas le contribuable dans la 2e catégorie : le montant déductible pour perte n’est donc pas limité à 5 000 $. Bien que la proportion du revenu provenant de l’agriculture soit pertinente, elle n’est pas en elle‑même décisive. Le test est à la fois relatif et objectif et on peut utiliser les critères indicatifs de la principale « source » de revenu pour discerner s’il s’agit ou non d’un intérêt auxiliaire. Une personne qui a exploité une ferme toute sa vie ne cesse pas d’appartenir à la 1re catégorie uniquement parce qu’elle reçoit un héritage. D’autre part, une personne qui change de travail et concentre ses forces et ses capitaux dans l’agriculture avec l’espoir d’en tirer son revenu principal ne perd pas son droit de déduire la totalité de ses frais d’établissement.
+[14] En l’espèce, l’intimée a mis l’accent sur la décision Bhagwandin v. The Queen 2001 DTC 357, [2001] 2 C.T.C. 2527. Dans cette affaire, la juge Lamarre, qui s’était fondée sur la décision rendue par la Cour d’appel fédérale dans l’arrêt The Queen v. Donnelly 97 DTC 5499, [1998] 1 C.T.C. 23, a statué que les pertes étaient restreintes pour la petite exploitation agricole du contribuable qui ne pouvait pas être rentable au niveau où elle était exploitée.
+[15] Toutefois, les décisions rendues dans Bhagwandin et Donnelly ont toutes les deux été rendues avant que celle de la Cour d’appel fédérale ne soit rendue dans Gunn v. The Queen 2006 DTC 6544, [2006] 5 C.T.C. 191. Dans l’arrêt Gunn, la juge Sharlow a effectué un examen approfondi de l’article 31 et, plus particulièrement, de la « question de la combinaison » à laquelle il est fait référence dans l’arrêt Moldowan. La question de la combinaison a été soulevée parce que l’article 31 prévoit ce qui suit :
+31. (1) Lorsque le revenu d’un contribuable, pour une année d’imposition, ne provient principalement ni de l’agriculture ni d’une combinaison de l’agriculture et de quelque autre source, pour l’application des articles 3 et 111, ses pertes pour l’année, provenant de toutes les entreprises agricoles exploitées par lui, sont réputées être le total des montants suivants :
+(Non souligné dans l’original.)
+[16] Dans l’arrêt Gunn, la juge Sharlow a mentionné ce qui suit :
+82 Cette mise en garde n’est pas incompatible avec l’application du principe de l’arrêt Johns-Manville à la question de la combinaison, dans l’article 31 de la Loi de l’impôt sur le revenu, parce que cet aspect de l’article 31 n’est pas « raisonnablement clair ». Elle pouvait être interprétée selon le sens que le juge Dickson lui donnait dans l’arrêt Moldowan, la question de la combinaison doit recevoir une réponse négative, à moins que l’agriculture soit la source prédominante de revenu. Cependant, la question de la combinaison est également susceptible d’une interprétation plus simple : l’agriculteur n’est pas tenu de proposer une combinaison de sources de revenu où prédomine l’agriculture.
+83 À mon avis, la question de la combinaison doit être interprétée de manière à n’exiger qu’un examen de l’effet cumulatif du total du capital investi dans l’agriculture et dans une deuxième source de revenu, du total du revenu tiré de l’agriculture et d’une deuxième source de revenu, et du total du temps consacré à l’agriculture et à la seconde source de revenu, compte tenu du mode de vie ordinaire du contribuable, de son expérience de l’agriculture, enfin de ses intentions et de ses attentes. On évitera ainsi d’appliquer le critère jurisprudentiel selon lequel l’agriculture doit être l’élément prédominant de la combinaison de l’agriculture et de la seconde source de revenu, un critère qui à mon avis a été mis à mal par la jurisprudence ultérieure. Il y aurait une réponse positive à la question de la combinaison si, par exemple, le contribuable a investi une somme appréciable dans une entreprise agricole, s’il consacre la quasi‑totalité de son temps de travail à la fois à l’agriculture et à l’autre activité principale lucrative, et si ses activités quotidiennes combinent l’agriculture et l’autre activité lucrative, le temps consacré à chacune étant important.
+(Non souligné dans l’original.)
+[17] Je suis lié par la décision rendue par la Cour d’appel fédérale dans l’arrêt Gunn. Le principe du stare decisis est très clair. Dans l’arrêt Commissioner of Competition v. Superior Propane Inc. et al. (2003), 223 D.L.R. (4th) 55, le juge Rothstein (tel était alors son titre) a décrit ce principe en ces termes :
+[54] Le principe du stare decisis est évidemment bien connu des avocats et des juges. Les tribunaux inférieurs doivent suivre le droit tel qu’il est interprété par une juridiction supérieure du même ordre de juridiction. Ils ne peuvent refuser de le faire : Re Canada Temperance Act, Re Constitutional Questions, Re Consolidated Rules of Practice, [1939] 4 D.L.R. 14 à la page 33 (C.A. Ont.), conf. par [1946] 2 D.L.R. 1 (C.S.C.); Woods Manufacturing Co. c. Canada (Procureur général), [1951] R.C.S. 504 à la page 515, [1951] 2 D.L.R. 465.
+[18] En l’espèce, l’appelante a investi beaucoup d’argent dans la ferme. Elle a investi selon ses moyens et s’est servie de son revenu d’emploi pour le faire. L’achat initial de la ferme représentait un investissement de 50 000 $ dans le matériel agricole et dans le bien agricole (à l’exception de la maison). Elle a également par la suite fait l’acquisition d’un tracteur (27 000 $), d’animaux d’élevage, de clôtures, de deux camions, de diverses pièces d’équipement et de matériel. Le montant investi chaque année dans la ferme (qui était déterminé au moyen des paiements effectués à la quinzaine pour le tracteur, des paiements mensuels pour le camion Suzuki sur une période de deux ans et des paiements effectués à la quinzaine pour le camion Dodge) et le revenu d’emploi de l’appelante sont mentionnés ci‑dessous :
+Année
+Montant investi
+Revenu d’emploi
+Pourcentage du revenu d’emploi investi
+1999
+17 719 $
+17 481 $
+101 %
+2000
+15 081 $
+37 273 $
+40 %
+2001
+17 163 $
+41 719 $
+41 %
+2002
+27 522 $
+49 633 $
+55 %
+2003
+29 025 $
+53 735 $
+54 %
+2004
+22 515 $
+37 180 $
+61 %
+2005
+27 081 $
+58 820 $
+46 %
+[19] Les montants investis dans la ferme étaient considérables. Ils allaient de 40 % à 101 % de son revenu d’emploi. Elle consacrait pratiquement tout son temps de travail aux activités agricoles et à son emploi en tant qu’ingénieure. Ses activités quotidiennes sont clairement une combinaison de l’agriculture et de son emploi, et le temps consacré à chacune de ces activités est considérable.
+[20] Par conséquent, l’appel est accueilli avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que les pertes que l’appelante a subies en 2005 à l’égard de son entreprise agricole ne sont pas assujetties aux restrictions prévues à l’article 31 de la Loi.
+Signé à Halifax (Nouvelle‑Écosse), ce 4e jour d’août 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour d’octobre 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 383
+NO DU DOSSIER DE LA COUR : 2008-3557(IT)I
+INTITULÉ : KATHLEEN JOHNSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 26 mai 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 4 août 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Melanie Petrunia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,110 @@
+Title: Willis (Arbeau) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30672/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-23-30672-willis-arbeau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-01-11
+
+# Willis (Arbeau) c. La Reine
+
+- Citation: 2012 CCI 23
+- Decision date: 2012-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7182, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Willis (Arbeau) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-11
+Référence neutre
+2012 CCI 23
+Numéro de dossier
+2011-1818(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1818(IT)I
+ENTRE :
+SHERRY ANN WILLIS (ARBEAU),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu et jugement rendu oralement le 11 janvier 2012 à Fredericton (Nouveau‑Brunswick)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la détermination effectuée en vertu de la Loi de l’impôt sur le revenu pour la période allant de septembre 2009 à juin 2010 est accueilli, sans dépens, mais seulement dans la mesure où il est reconnu que l’appelante a avisé le ministre en avril 2010. Par conséquent, l’appelante n’est pas tenue responsable à l’égard des paiements en trop pour les mois de mai et de juin 2010. La détermination est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2012.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 13e jour de mars 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 23
+Date : 18 janvier 2012
+Dossier : 2011-1818(IT)I
+ENTRE :
+SHERRY ANN WILLIS (ARBEAU),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelante et son époux, Ronald Arbeau, se sont séparés en août 2009. De ce mariage est issu un fils, né en août 1996. L’appelante a reconnu qu’après sa séparation d’avec son époux, l’enfant avait continué à résider avec M. Arbeau, lequel avait la responsabilité principale du soin et de la surveillance de l’enfant. Par conséquent, la question de savoir lequel des parents était le particulier admissible au regard de la prestation fiscale canadienne pour enfants et du supplément de la prestation nationale pour enfants n’est pas en litige. De son propre aveu, l’appelante a cessé d’être le particulier admissible après le mois d’août 2009, lorsqu’elle et son époux se sont séparés, et elle n’était pas le parent qui assumait principalement la responsabilité pour le soin et l’éducation de son fils aux termes de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Le présent appel découle du fait que l’appelante a négligé d’aviser le ministre du Revenu national (le « ministre ») qu’en ce qui concerne son fils, elle n’était plus le particulier admissible aux termes du paragraphe 122.62(4).
+[3] N’ayant pas été avisé de la séparation, le ministre a continué, après le mois d’août 2009, à envoyer des chèques libellés à l’ordre de l’appelante, à l’adresse du foyer conjugal où vivaient l’appelante et son époux avant la séparation. Il s’agit en fait de l’adresse à laquelle les chèques avaient été envoyés pendant un certain nombre d’années avant la séparation.
+[4] L’appelante a témoigné qu’en février 2010, lors de la production de sa déclaration de revenu pour l’année d’imposition 2009, elle avait avisé le ministre que sa nouvelle adresse était au 100, rue Myrtle. Par la suite, elle a reçu un premier chèque en mars 2010, suivi d’un autre en avril 2010. Ces chèques étaient les premiers que l’appelante avait reçus depuis sa séparation en août 2009. Elle a encaissé le chèque reçu en mars, présumant que, d’une façon quelconque, celui‑ci se rapportait à sa situation maritale et non à la prestation fiscale canadienne pour enfants et au supplément de la prestation nationale pour enfants. Elle a aussi encaissé le chèque qu’elle a reçu en avril, mais, selon son témoignage, elle a par la suite téléphoné à l’Agence du revenu du Canada (l’« ARC ») pour demander pourquoi elle avait reçu ce chèque. On l’a alors informée qu’il s’agissait de la prestation fiscale canadienne pour enfants et du supplément de la prestation nationale pour enfants. Par la suite, l’appelante a reçu des chèques pour les mois de mai et de juin 2010, chèques qu’elle s’est gardée d’encaisser et qu’elle a retournés à l’ARC. L’appelante a ensuite cessé de recevoir des chèques.
+[5] La question est de savoir si l’appelante doit rembourser au ministre les sommes reçues au titre de la prestation fiscale canadienne pour enfants et du supplément de la prestation nationale pour enfants pour la période allant de septembre 2009 à juin 2010.
+[6] Le ministre se fonde sur le paragraphe 122.62(4) de la Loi, lequel établit ce qui suit :
+122.62(4) Avis de cessation d’admissibilité. La personne qui cesse, au cours d’un mois donné, d’être un particulier admissible à l’égard d’une personne à charge admissible, autrement que parce que celle‑ci atteint l’âge de 18 ans, est tenue d’en aviser le ministre avant la fin du premier mois suivant le mois donné.
+[7] Selon le ministre, l’appelante ne l’a pas avisé qu’elle s’était séparée de son époux, qu’elle avait quitté le foyer conjugal pour s’installer ailleurs, et que son fils continuait à résider avec son père, qui était la personne s’en occupant principalement. Par conséquent, c’est le père qui était le particulier admissible et qui avait droit à ces prestations.
+[8] Il n’est pas question en l’espèce du simple cas où l’appelante aurait continué de recevoir et d’encaisser tous les chèques pour la période allant de septembre 2009 à juin 2010. D’après la preuve qu’elle a fournie à la Cour, l’appelante a reçu en mars 2010 un premier chèque, après avoir avisé le ministre de sa nouvelle adresse sur la rue Myrtle lorsqu’elle a produit sa déclaration de revenu pour l’année d’imposition 2009. Par conséquent, le ministre a commencé à lui envoyer des chèques à cette adresse plutôt qu’à celle du foyer conjugal. L’appelante soutient, et je la crois, que de septembre 2009 jusqu’à février 2010 inclusivement, on a continué à lui faire parvenir des chèques à l’adresse de la résidence qui était celle de son époux et qui était aussi l’adresse inscrite dans le dossier de l’appelante. Selon la preuve déposée, les deux seuls chèques que l’appelante a encaissés étaient ceux de mars et d’avril et j’accorde foi à ses propos lorsqu’elle dit avoir encaissé ces chèques par erreur, croyant qu’ils lui avaient été envoyés parce qu’ils avaient un lien, d’une manière quelconque, avec la fin de son mariage. La preuve documentaire, soit les chèques oblitérés, appuie l’allégation de l’appelante selon laquelle, pour la période de septembre 2009 à février 2010, les chèques étaient libellés à l’ordre de l’appelante et envoyés au foyer conjugal, mais qu’ils avaient été endossés par son époux uniquement.
+[9] La preuve déposée par l’appelante démontre que les chèques de mars et d’avril étaient eux aussi libellés à l’ordre de l’appelante, mais qu’ils avaient été envoyés à sa nouvelle adresse de la rue Myrtle, et que la seule signature que ces chèques portent pour indiquer la personne les ayant encaissés est la sienne. L’appelante a témoigné qu’avant leur séparation, son époux et elle détenaient un compte de banque conjoint, mais que le numéro de compte mentionné au dos des chèques délivrés pour la période de septembre 2009 à février 2010 diffère de celui du compte qu’elle détenait avec son époux. Elle a aussi déclaré qu’elle ne détenait pas de compte à la Banque Royale, la banque où ces chèques furent déposés. La pièce P‑1, une lettre de cette banque, confirme que l’appelante ne fait pas affaire personnellement avec la BRC et qu’elle n’y détient aucun compte. Le numéro de compte mentionné sur les chèques de mars et d’avril, et que l’appelante admet avoir encaissés, est celui d’un compte à la Banque de Montréal.
+[10] Je ne doute pas de la véracité de ce que soutient l’appelante, à savoir que, selon toute vraisemblance, son époux a encaissé les chèques correspondant aux mois de septembre à février, et qu’il a ensuite refusé de coopérer lorsqu’elle lui a demandé d’éclaircir la situation avec l’ARC. Selon la preuve documentaire, l’époux a doublement bénéficié des prestations dont il est question, étant donné qu’en juillet 2010, il a reçu du gouvernement un chèque de 2 238,69 $ à titre de remboursement de sommes qu’il avait déjà reçues en partie.
+[11] L’appelante se trouve dans une situation où elle doit rembourser au ministre des sommes considérées par celui‑ci comme étant un paiement en trop. Selon le ministre, l’appelante n’avait pas droit à ces sommes parce qu’elle n’était pas le particulier admissible aux termes de la Loi. Selon le libellé du paragraphe 122.62(4), le parent qui cesse d’être le particulier admissible en ce qui concerne un enfant issu du mariage est tenu d’en aviser le ministre avant la fin du premier mois suivant le mois de la séparation. Cela signifie donc qu’en l’espèce, il incombait à l’appelante d’aviser l’ARC, en septembre 2009, soit le mois suivant le mois de la séparation en août 2009, qu’elle n’était plus la personne s’occupant principalement de l’enfant. Le paragraphe contient le libellé « est tenue d’en aviser ». Je n’ai donc pas le pouvoir discrétionnaire de « redresser » ce que je considère comme un « tort flagrant » de l’époux de l’appelante. Le témoignage de l’appelante et la preuve qu’elle a déposée démontrent clairement que l’époux a refusé de « prendre les choses en main » et d’éclaircir la situation. L’époux a en fait accepté discrètement, en juillet 2010, un chèque de 2 238,69 $ auquel il n’avait pas droit parce qu’il n’y a pas de doute que c’est lui, et non l’appelante, qui a reçu et encaissé les chèques liés à ces prestations de septembre 2009 à février 2010.
+[12] Le paragraphe dont il est question, même s’il semble produire en l’espèce de cruels résultats, repose sur le principe fondamental de l’autocotisation, selon lequel le contribuable est la personne la plus apte à évaluer sa situation personnelle particulière, et selon lequel on ne peut imposer au ministre de s’enquérir auprès de chaque particulier des changements survenus dans sa situation personnelle. Il incombait à l’appelante d’aviser le ministre, même si elle croyait que tout se déroulait normalement, pour la période allant de septembre à février, étant donné qu’elle n’avait reçu aucun chèque mensuel.
+[13] Compte tenu de la loi, le fait que l’ex-époux de l’appelante ait encaissé et déposé la majorité de ces chèques n’est pas pertinent, étant donné que, selon le paragraphe 122.62(4), c’est sur l’appelante que reposait l’obligation d’aviser le ministre.
+[14] Selon l’avocat de l’intimée, c’est en juillet 2010, lorsque l’appelante a envoyé une lettre où elle expliquait ce qui s’était passé, que le ministre a reçu un premier avis. Cependant, dans son témoignage oral, l’appelante a porté à mon attention le fait qu’elle avait téléphoné à l’ARC à la fin d’avril 2010 pour se renseigner au sujet des deux chèques qu’elle avait reçus. On lui a alors expliqué que ces chèques étaient liés au versement de la prestation fiscale canadienne pour enfants. J’accepte la preuve de l’appelante, cette preuve voulant que l’appelante ait avisé l’ARC en avril 2010, et que la lettre envoyée à l’ARC en juillet ait été une explication faisant suite à l’appel d’avril 2010, après que l’appelante eût reçu deux autres chèques, l’un pour le mois de mai et l’autre pour le mois de juin.
+[15] J’accueille donc l’appel interjeté par l’appelante, mais seulement dans la mesure où il est reconnu que l’appelante a avisé le ministre en avril 2010. Par conséquent, l’appelante n’est pas tenue responsable à l’égard des paiements en trop pour les mois de mai et de juin compris dans cette période. Malheureusement, en ce qui a trait aux autres mois, c’est avec regret que je dois ordonner à l’appelante de rembourser le solde des sommes en cause. Même si, en l’espèce, j’ai rendu mes motifs oralement, je fournirai à l’appelante une version écrite de ceux-ci en temps opportun, dans l’espoir qu’il y ait une possibilité que ces motifs aident l’appelante dans ses procédures de divorce. L’appelante a un recours contre son époux ou la banque, ou peut‑être contre les deux et, en ce qui concerne le présent appel, j’ai confiance que la justice prévaudra et que cette saga connaîtra, dans une autre instance, une « fin juste et appropriée ».
+Signé à Ottawa, Canada, ce 18e jour de janvier 2012.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 13e jour de mars 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 23
+No DU DOSSIER DE LA COUR : 2011-1818(IT)I
+INTITULÉ : SHERRY ANN WILLIS (ARBEAU) et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Fredericton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 11 janvier 2012
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 18 janvier 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

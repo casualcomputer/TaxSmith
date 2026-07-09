@@ -1,0 +1,132 @@
+Title: Lans v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30228/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-121-30228-lans-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-02-23
+
+# Lans v. The Queen
+
+- Citation: 2011 TCC 121
+- Decision date: 2011-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7755, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lans v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-23
+Neutral citation
+2011 TCC 121
+File numbers
+2010-3135(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3135(IT)I
+BETWEEN:
+CHERYL LANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 17, 2011 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kristian DeJong
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2004 and 2005 taxation years is dismissed. The parties shall bear their own costs.
+Signed at Toronto, Ontario this 23rd day of February 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 121
+Date: 20110223
+Docket: 2010-3135(IT)I
+BETWEEN:
+CHERYL LANS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Cheryl Lans, has appealed assessments relating to excess contributions that were made to registered retirement savings plans (RRSPs) in 2004 and 2005.
+[2] The Minister assessed tax in respect of the excess contributions under section 204.1(2.1) of the Income Tax Act, as well as penalties and interest. The assessed tax and penalty for the 2004 taxation year are $1,039.88 and $176.78, respectively. The tax and penalty for the 2005 taxation year are $1,098.72 and $186.78, respectively.
+[3] The appellant acknowledges that she contributed more to RRSPs than she was entitled to. However, she submits that it is inappropriate to impose the tax, penalty and interest in her particular circumstances.
+Should tax be vacated?
+[4] The appellant submits that the tax under subsection 204.1(2.1) should not be imposed because she reasonably thought that the Canada Revenue Agency (CRA) would not issue an assessment since she had no taxable income in the relevant years.
+[5] In addition, the appellant submits that the tax should be vacated because the CRA required her to include post-doctoral grants in her income. She submits that this policy has not been applied evenly across the country and that some taxpayers have not been required to include such grants in their income. The uneven application of the law results in unfairness, it is submitted, which justifies the excess contributions tax to be vacated.
+[6] Subsection 204.1(2.1) provides:
+204.1(2.1) Where, at the end of any month after December, 1990, an individual has a cumulative excess amount in respect of registered retirement savings plans, the individual shall, in respect of that month, pay a tax under this Part equal to 1% of that cumulative excess amount.
+[7] This tax is a special tax levied under Part X.1 of the Act. It applies regardless of whether or not a taxpayer has taxable income.
+[8] The arguments raised by the appellant are essentially based on grounds of fairness. This Court is not able to provide relief on these grounds alone: Chaya v The Queen, 2004 FCA 327; 2004 DTC 6676. Parliament has clearly provided for a tax on excess RRSP contributions in subsection 204.1(2.1). The assessments cannot be vacated by this Court on grounds that the legislation provides an unfair result in the appellant’s circumstances.
+[9] It is worth noting that subsection 204.1(4) of the Act gives the Minister of National Revenue a limited power to waive the tax on grounds of fairness.
+[10] Subsection 204.1(4) provides:
+204.1(4) Where an individual would, but for this subsection, be required to pay a tax under subsection (1) or (2.1) in respect of a month and the individual establishes to the satisfaction of the Minister that
+(a) the excess amount or cumulative excess amount on which the tax is based arose as a consequence of reasonable error, and
+(b) reasonable steps are being taken to eliminate the excess,
+the Minister may waive the tax.
+[11] This Court has no jurisdiction to interfere with Ministerial decisions made pursuant to the above provision. That jurisdiction lies with the Federal Court: Neubauer v The Queen, 2006 TCC 457; 2006 DTC 3252. Accordingly, the remedy that the appellant seeks has been brought in the wrong forum.
+[12] It is unfortunate that the jurisdiction issue was not raised by the respondent in the reply. I do not fault the respondent, however, as the notice of appeal did not clearly set out the appellant’s position on this issue. In fact, at the commencement of the hearing the appellant confirmed to me that she did not intend to dispute the tax. She corrected her position during the course of the hearing.
+[13] For these reasons, the assessment of tax under subsection 204.1(2.1) will be upheld.
+Should penalties be vacated?
+[14] Penalties were assessed in respect of the failure of the appellant to timely file a special return that is required when excess RRSP contributions have been made. The return requirement in subsection 204.3(1) is reproduced below.
+204.3(1) Within 90 days after the end of each year after 1975, a taxpayer to whom this Part applies shall
+(a) file with the Minister a return for the year under this Part in prescribed form and containing prescribed information, without notice or demand therefor;
+(b) estimate in the return the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year; and
+(c) pay to the Receiver General the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year.
+[Emphasis added.]
+[15] The provisions under which penalties were assessed are subsection 162(1) and subsection 204.3(2) of the Act. They provide:
+162(1) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+204.3(2) Subsections 150(2) and (3), sections 152 and 158, subsections 161(1) and (11), sections 162 to 167 and Division J of Part I are applicable to this Part with such modifications as the circumstances require.
+[Emphasis added.]
+[16] I would first observe that there are several different types of penalties in section 162. The section that was applied, subsection 162(1), applies only where there is a failure to file a return of income. The return that is required for excess RRSP contributions is not a return of income.
+[17] Subsection 162(1) can be modified to fit the circumstances, however, pursuant to subsection 204.3(2). The penalty under subsection 162(1) can therefore be applied to this type of return. Counsel for the respondent referred me to other decisions of this Court which upheld the application of subsection 162(1) in similar circumstances: Pereira-Jennings v The Queen, 2009 TCC 330; 2009 DTC 1193; McNamee v The Queen, 2009 TCC 630; 2010 DTC 1033.
+[18] The appellant submits that subsection 162(1) does not apply in her circumstances because she was not liable for tax in 2004 and 2005. She relies on Exida.com Limited Liability Co. v The Queen, 2010 FCA 6935; 2010 DTC 5101.
+[19] The appellant has misinterpreted the decision in Exida.com. That decision concerned an interpretation of the phrase “liable to a penalty” in subsection 162(2.1) of the Act. This provision has no relevance to this appeal and the particular phrase that was considered in Exida.com is not found in the provision that is at issue here.
+[20] The appellant also submits that the penalties should be vacated because she acted reasonably in the circumstances. In particular, the appellant asserts that she reasonably believed that the excess contributions tax would not be imposed where there is no taxable income.
+[21] The question is whether this constitutes sufficient due diligence to justify the penalty being vacated. In my view, it does not.
+[22] In order to take advantage of a due diligence defence to vacate a penalty, a taxpayer must establish that she took appropriate steps to determine her obligations under the Act.
+[23] The appellant states that, after undertaking research, she came to the conclusion that the tax would not be imposed.
+[24] The evidence in this appeal does not satisfy me that the appellant’s research constituted reasonable steps. For example, the appellant did not point me to a particular reference upon which she relied to reasonably come to this conclusion. I am not satisfied that appropriate steps were taken.
+Should interest be vacated?
+[25] The appellant also requests that interest be vacated on grounds of fairness. There is no legislative basis upon which this Court can provide this relief.
+Conclusion
+[26] Before concluding, I would mention that the appellant had been notified by the CRA of the requirement to pay the excess RRSP contribution tax in 2007. However, she did not file the required form until February 2009. I am not satisfied that there was a reasonable excuse for this delay. My conclusion is that the Minister properly imposed tax, penalty and interest in this case.
+[27] The appeal will be dismissed.
+Signed at Toronto, Ontario this 23rd day of February 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 121
+COURT FILE NO.: 2010-3135(IT)I
+STYLE OF CAUSE: CHERYL LANS and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 17, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 23, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kristian DeJong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,200 @@
+---
+title: "Thériault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22802/index.do"
+last_modified: "2006-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 405"
+citation2: ""
+neutral_citation: "2006 CCI 405"
+decision_date: "2006-07-20"
+language: "fr"
+item_id: "22802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2282
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:54:52.933000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8f3734d113d296e8faa3b40ea614fc01d8244be5cb41ed73fac3ff080f7e6f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thériault c. La Reine
+
+- Citation: 2006 CCI 405
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2282, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thériault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-20
+Référence neutre
+2006 CCI 405
+Numéro de dossier
+2005-1210(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1210(IT)I
+ENTRE :
+DENIS THÉRIAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 janvier 2006, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelant :
+Me Catherine Pigeon
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel des déterminations par lesquelles le ministre du Revenu national a refusé à l'appelant la prestation fiscale canadienne pour enfants pour les périodes de septembre 2001 à juin 2002, de juillet 2002 à juin 2003 et de juillet 2003 à octobre 2003, pour les années de base 2000, 2001 et 2002, est admis et les déterminations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles déterminations en tenant compte du fait que l'appelant était le particulier admissible au sens de l'article 122.6 de la Loi de l'impôt sur le revenu, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI405
+Date : 20060720
+Dossier: 2005-1210(IT)I
+ENTRE :
+DENIS THÉRIAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel au sujet de la prestation fiscale canadienne pour enfants (la « PFCE » ). L'appel a trait aux années de base 2000, 2001 et 2002. Quant aux périodes visées par la prestation fiscale, il s'agit des périodes de septembre 2001 à juin 2002, de juillet 2002 à juin 2003 et de juillet 2003 à octobre 2003. Les montants visés par les déterminations sont de 2 593 $ pour l'année de base 2000, de 2 672 $ pour l'année de base 2001 et de 954,80 $ pour l'année de base 2002.
+[2] Pour établir et ratifier les déterminations pour les années en cause, le ministre du Revenu national (le « ministre » ) a tenu pour acquis les hypothèses de fait suivantes :
+a) Au cours des périodes en litige, l'appelant vivait maritalement avec Mme Louise Gagnon;
+b) De cette union sont nées deux filles, Natacha née le 21 août 1990 et Stéphanie née le 9 mars 1992;
+c) L'appelant est aussi le père de Laura-Véronique Tremblay Thériault née le 21 août 2000 de sa relation avec Mme Annie Tremblay;
+d) Au cours de la période en litige, l'appelant et Mme Louise Gagnon avait la garde des trois enfants;
+e) Les prestations fiscales pour enfants pour les trois enfants ont été payées à Mme Louise Gagnon.
+[3] Les faits décrits aux alinéas a), b), c) et e) ont été admis, alors que l'alinéa d) a été admis en partie.
+[4] La question en litige est de déterminer si le ministre a correctement révisé la prestation fiscale pour enfants de l'appelant et déterminé que les montants reçus en trop s'élevaient à 2 593 $ pour l'année de base 2000, à 2 672 $ pour l'année de base 2001 et à 954,80 $ pour l'année de base 2002.
+Les faits
+[5] L'appelant, Denis Thériault, est le père de trois enfants issus de deux compagnes différentes. Il a épousé Louise Gagnon et ils ont eu deux enfants avant leur divorce, lequel a été prononcé le 29 février 2000. Madame Gagnon a obtenu la garde de ses deux enfants. L'appelant a également une autre enfant, Laura-Véronique, née le 21 août 2000, dont la mère est Annie Tremblay.
+[6] En novembre 2000, le couple Gagnon-Thériault a repris la vie commune en tant que conjoints de fait. Madame Tremblay est également venue habiter avec le couple en compagnie de Laura-Véronique. Le 28 mars 2001, elle a quitté leur domicile en laissant la garde de Laura-Véronique à l'appelant. Il a obtenu la garde de cette dernière par un jugement de la Cour supérieure du Québec en 2001.
+[7] En conséquence, à compter du 28 mars 2001, l'appelant a assumé seul la charge complète de sa fille Laura-Véronique, en étant celui qui s'occupait principalement de ses soins, de son entretien et de son éducation, et ce, tant du point de vue physique, psychologique et intellectuel que financier.
+[8] Au départ, madame Gagnon avait accepté Laura-Véronique, mais très rapidement elle a clairement avisé l'appelant qu'elle n'entendait jouer aucun rôle parental auprès de cette dernière, puisqu'elle n'était pas sa fille. Dans les faits, l'appelant avait la charge exclusive de Laura-Véronique.
+[9] L'appelant a donc demandé la PFCE pour sa fille en juillet 2001. Il a reçu des prestations jusqu'au 18 septembre 2003, moment où l'Agence du revenu du Canada (l' « ARC » ) l'informait qu'elle avait réévalué la situation.
+[10] En novembre 2003, l'appelant a reçu un avis de cotisation qui lui réclamait la totalité des sommes reçues à titre de PFCE pour Laura-Véronique. Le ministre a déterminé que l'appelant n'avait pas droit aux montants suivants :
+a) Année de base 2000
+2 593,00 $
+b) Année de base 2001
+2 672,00 $
+c) Année de base 2002
+954,80 $
+6 219,80 $
+[11] Durant la même période, les mêmes sommes ont été simultanément versées à madame Gagnon. En 2004, madame Gagnon quittait l'appelant, lui laissant la garde de tous les trois enfants.
+Dispositions légales applicables
+122.6 « particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne - père ou mère de la personne à charge - qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés,
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère.
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+252(1) : Dans la présente loi, est considéré comme un enfant d'un contribuable :
+[...]
+c) un enfant de l'époux ou du conjoint de fait du contribuable;
+Règlement
+6301. (1) Pour l'application de l'alinéa g) de la définition de « particulier admissible » à l'article 122.6 de la Loi, la présomption mentionnée à l'alinéa f) de cette définition ne s'applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu'elle réside avec le père de cette personne et qu'il est celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d'un particulier admissible et chacun d'eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d'une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la personne à charge admissible;
+d) plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents.
+Critères
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+Analyse
+[12] L'alinéa f) de la définition de « particulier admissible » à l'article 122.6 établit que :
+si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère.
+Ici, en raison de la fiction légale se trouvant à l'alinéa 252(1)c), madame Gagnon est considérée comme la mère de Laura-Véronique, même si elle n'est pas sa mère biologique. Cependant, l'alinéa g) déclare que l'alinéa f) est réfutable et qu'il ne s'applique pas dans les circonstances prévues par règlement.
+[13] L'article 6301 du Règlement envisage quatre situations différentes où la mère ou un particulier admissible déclare par écrit au ministre que c'est le père qui doit être considéré comme celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles.
+[14] Dans les faits, ni madame Gagnon, ni l'appelant n'a fait de déclaration par écrit ou n'a fait une telle demande. Dans l'affaire Cabot c. La Reine., no 97-3206(IT)I, 24 août 1998, [1998] A.C.I. no 725 (QL) (C.C.I.), l'honorable juge Rip a conclu que les quatre hypothèses décrites à l'article 6301 du Règlement ne sont pas exhaustives.
+[15] L'article 6302 du Règlement peut aussi servir à réfuter la présomption à l'alinéa f), précité. Aux paragraphes 8 et 9 de son jugement, le juge Rip écrit ce qui suit :
+[8] [...] Si l'on interprète les dispositions pertinentes de la Loi et du Règlement dans leur sens ordinaire, rien n'indique que le rédacteur souhaitait que la présomption prévue à l'article 122.6 soit limitée aux circonstances énumérées au paragraphe 6301(1) du Règlement. Aucune des circonstances énumérées au paragraphe 6301(1) ne contient un seul critère qui puisse raisonnablement être considéré comme ayant un rapport avec le soin et l'éducation des enfants. Les circonstances prévues au paragraphe 6301(1) du Règlement ne sont que des procédures destinées à faciliter l'administration de la prestation fiscale pour enfants. Les critères à prendre en considération pour déterminer en quoi consistent le soin et l'éducation d'un enfant sont énumérés à l'article 6302 du Règlement : [...]
+[9] Le rédacteur ne souhaitait pas que seules les quatre circonstances énoncées au paragraphe 6301(1) du Règlement s'appliquent pour réfuter la présomption prévue à l'article 122.6. L'article 6302 du Règlement énonce les critères qui servent à déterminer qui est le particulier admissible lorsque plus d'une personne demande la prestation fiscale pour enfants à l'égard d'un enfant. Il sert également de guide pour réfuter la présomption lorsqu'un homme demande la prestation fiscale pour enfants.
+[16] Ainsi, l'appelant a-t-il établi qu'il est le particulier admissible parce qu'il assumait principalement la responsabilité pour le soin et l'éducation de Laura-Véronique, comme l'alinéa b) de l'article 122.6 le prévoit?
+[17] Lors de l'audience, j'ai entendu les témoignages des proches de l'appelant qui affirmaient d'une manière claire et non équivoque que l'appelant était le seul responsable des soins et de l'éducation de sa fille. Il assumait toutes les responsabilités énumérées à l'article 6302 du Règlement.
+[18] À cet égard, la mère de l'appelant a de plus mentionné l'attitude défavorable de madame Gagnon envers Laura-Véronique. L'appelant ne pouvait pas compter sur madame Gagnon; il devait confier sa fille soit à sa mère, soit à son ex-belle-soeur lorsqu'il devait s'absenter : la mère présumée par le ministre refusait carrément d'assumer la responsabilité fondamentale que doit assumer toute mère présumée ou non. Lorsque ces deux personnes n'étaient pas libres, l'appelant emmenait sa fille avec lui.
+[19] De son côté, l'ex-belle-soeur de l'appelant a corroboré la version décrite par la mère de l'appelant, en décrivant une situation similaire. En outre, elle a affirmé que l'appelant s'occupait de laver et de faire manger sa fille, puisque madame Gagnon refusait de le faire.
+[20] Madame Gagnon était non seulement indifférente aux besoins de Laura-Véronique, elle manifestait une attitude tout simplement révoltante; en effet, la preuve a révélé que si l'appelant quittait la résidence pour aller travailler ou suivre des cours du soir, il devait confier Laura-Véronique à d'autres membres de sa famille, et ce, même si madame Gagnon était à la maison.
+[21] En raison de ces faits très particuliers, je détermine que l'appelant était le « particulier admissible » concernant Laura-Véronique. L'appel est donc admis et les déterminations sont déférées au ministre pour nouvel examen et nouvelles déterminations.
+Signé à Ottawa, Canada, ce 20e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI405
+No DU DOSSIER DE LA COUR :
+2005-1210(IT)I
+INTITULÉ DE LA CAUSE :
+Denis Thériault c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 18 janvier 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 20 juillet 2006
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Catherine Pigeon
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Avocat :
+Étude :
+Ville :
+Me Catherine Pigeon
+Bergeron, Martin, Tessier et Falaise
+Drummondville (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

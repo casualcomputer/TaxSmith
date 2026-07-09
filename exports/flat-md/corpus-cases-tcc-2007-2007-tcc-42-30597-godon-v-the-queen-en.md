@@ -1,0 +1,266 @@
+---
+title: "Godon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30597/index.do"
+last_modified: "2007-07-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 42"
+citation2: ""
+neutral_citation: "2007 TCC 42"
+decision_date: "2007-07-18"
+language: "en"
+item_id: "30597"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7595
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:53:57.764000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "969cd66ee0aa4687a4b4e5db08332a9070dd097b6c5e4575788cdb026245c089"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Godon v. The Queen
+
+- Citation: 2007 TCC 42
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7595, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Godon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-18
+Neutral citation
+2007 TCC 42
+File numbers
+2004-4442(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4442(IT)G
+BETWEEN:
+PATRICK GODON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on September 28, 2006, at Trois-Rivières, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+François Daigle
+Counsel for the Respondent:
+Johanne M. Boudreau
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the personal expenses and unreported income are to be changed to the amounts set out at paragraph 9, in accordance with the attached Reasons for Judgment.
+As for the penalties, I confirm that they are warranted; however, they must be changed in accordance with the reassessments.
+Signed at Ottawa, Canada, this 18th day of July 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC42
+Date: 20070718
+Docket: 2004-4442(IT)G
+BETWEEN:
+PATRICK GODON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the 1997, 1998 and 1999 taxation years under the Income Tax Act ("the Act"). The assessments were made using the net worth method.
+[2] The issues are as follows:
+(a) Did the Appellant fail to include in his income the amounts of $52,575.07 for the 1997 taxation year, $28,401.21 for the 1998 taxation year, and $5,678.29 for the 1999 taxation year?
+(b) Did the Minister duly issue the reassessments for the 1997 and 1998 taxation years beyond the normal reassessment period in accordance with subsection 152(4) of the Income Tax Act?
+(c) Is the Appellant liable to pay the penalty imposed by the Minister under subsection 163(2) of the Income Tax Act for each of the taxation years in issue?
+[3] In making and confirming the assessments and penalties concerning the 1997, 1998 and 1999 taxation years, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact.
+[TRANSLATION]
+20. . . .
+(a) The Appellant has a son named Gabriel Godon who was born in July 1998.
+(b) During the taxation years in issue, the Appellant had a 50% interest in a Trois-Rivières-based business that sold used vehicles. The business operated under the name Automobiles G.G.R. Enr.
+(c) Steven Godon, the Appellant's brother, also had a 50% interest in the business that operated under the name Automobiles G.G.R. Enr.
+(d) During the taxation years in issue, the Appellant owned or co-owned several income-producing buildings.
+(e) The Minister audited the Appellant using the net-worth differential method.
+(f) The Appellant had a net worth of $42,381.71 as at December 31, 1996, $76,672.99 as at December 31, 1997, $86,500.90 as at December 31, 1998, and $74,315.41 as at December 31, 1999, as shown in the table entitled [TRANSLATION] "Personal Balance Sheet" and the related explanatory pages, attached as Appendix B and forming an integral part of this Reply and of the facts relied on by the Minister in making and confirming the reassessments for the taxation years in issue.
+(g) The Appellant incurred personal expenses of $30,538.21 for the 1997 taxation year, $29,998.71 for the 1998 taxation year and $30,276.76 for the 1999 taxation year, as shown in the [TRANSLATION] "Personal Expenses Sheets" attached as Appendix C and forming an integral part of this Reply and of the facts relied on by the Minister in making and confirming the reassessments for the taxation years in issue.
+(h) The Appellant's total income under the net worth method was $66,375.33 for the 1997 taxation year, $41,215.75 for the 1998 taxation year and $18,492.73 for the 1999 taxation year, as shown in the table entitled [TRANSLATION] "Calculation of the Difference in Net Worth" attached as Appendix A and forming an integral part of this Reply and of the facts relied on by the Minister in making and confirming the reassessments for the taxation years in issue.
+(i) The Appellant reported an income of $13,800.26 for the 1997 taxation year, $12,936.18 for the 1998 taxation year and $12,814.54 for the 1999 taxation year.
+(j) The Appellant had $52,575.07 in unreported income for the 1997 taxation year, $28,401.21 for the 1998 taxation year and $5,678.19 for the 1999 taxation year.
+21. . . .
+(a) The facts set out in subparagraphs 20(a) through (j) hereof.
+(b) The unreported income established by the net worth method is significant in relation to the income reported in each of the taxation years in issue, as shown below:
+Taxation year
+Reported income
+Additional unreported income
+1997
+$13,800.26
+$52,575.07
+1998
+$12,936.18
+$28,401.21
+1999
+$12,814.54
+$5,678.19
+(c) The Appellant did his own daily accounting and made his own bank deposits and he personally looked after the payment of both his personal and business expenses.
+(d) The Appellant's tax returns for the taxation years in issue were prepared by specialized professionals who were in a position to inform the Appellant about the exact extent of his obligations under the Income Tax Act.
+(e) The Appellant signed his own income tax returns.
+(f) The Appellant knew the contents of his income tax returns.
+(g) The Appellant knew about the income that he was not reporting.
+[4] At the beginning of the hearing, the Respondent said that, upon reviewing the Appellant's file in preparation for trial, she determined that the unreported income amounts should be reduced; and changes were also made to the personal expenses.
+[5] The corrections are set out at paragraph 9 of these Reasons for Judgment. The Respondent sought permission to file an Amended Reply to the Notice of Appeal in order to explain and justify the changes that reduced the income.
+[6] If the application had been granted, the Respondent would have had to bear the burden of proof with respect to the changes.
+[7] Even though the acceptance of the amendments to the Reply to the Notice of Appeal would have shifted the burden of proof with respect to the new elements, the Appellant emphatically objected to amending the pleading on the ground that he was taken by surprise and therefore could not assert his rights adequately if an Amended Reply to the Notice of Appeal were allowed.
+[8] It should also be noted that he did not move for an adjournment, and added that he was ready to proceed on the basis of the original Reply to the Notice of Appeal.
+[9] In view of the grounds of the objection to the filing of the Amended Reply to the Notice of Appeal, I ruled in favour of the Appellant and therefore dismissed the application for leave to file an Amended Reply to the Notice of Appeal.
+[10] The Respondent, who bore the burden of proof with respect to the amended elements, was obviously not able to make such proof.
+[11] Consequently, the parties proceeded on the basis of the usual rules — specifically, that the burden of proof with respect to the assessments under appeal was on the Appellant, and the burden of proof with respect to the penalties was on the Respondent. Although leave to amend was not granted, I will set out the desired changes because they constitute an admission favourable to the Appellant.
+Income stated in assessment
+Taxation year
+Revised amounts
+$52,575.07
+$28,401.21
+$5,678.19
+1997
+1998
+1999
+$46,406.67
+$13,552.77
+$4,132.96
+Expenses stated in assessment
+Taxation year
+Revised amounts
+$30,538,21
+$29,998,71
+$30,276,76
+1997
+1998
+1999
+$23,182.78
+$24,794.63
+$24,886.90
+[12] Only the Appellant testified in support of his appeal. His testimony is very easy to summarize. He said that he joined the workforce at a very young age, showing an immediate interest in several kinds of activities ranging from construction to auto sales.
+[13] The audit of the Appellant's file was very cursory; some might even say that it was slapdash. Indeed, the evidence showed that the figures on which the assessments were based were obtained during a brief interview at the auditors' office in Québec.
+[14] The Appellant was certainly entitled to complete his file at the objection stage and provide all the facts, information, documents or numbers in support of his objection and his allegations. Thus, there is no reason to consider at any greater length the quality of the work giving rise to the assessment, especially since the system under which we operate is based on self‑assessment. In such a system, it is the taxpayer's duty to supply all the information needed for a quick and efficient audit.
+[15] The Appellant also became interested in real estate at a very young age. He and his brother bought several properties. Generally speaking, they bought buildings that needed repair work, and then did that work in order to increase the buildings' value.
+[16] The buildings in question were generally fixer-uppers sold by financial institutions that had repossessed them. They were repaired or renovated with the proceeds of a loan that sometimes covered both the purchase and repair costs.
+[17] The Appellant also stated that he lived very modestly and that his expenses were minimal because he lived with his mother. Although he has a young child, he submitted that he paid absolutely nothing for his child, who lived with his mother somewhere else. However, he admitted in his Notice of Appeal that his expenses amounted to $18,000 per year.
+[18] According to the documentary evidence, which consists primarily of notarized deeds, the Appellant obtained loans covering either the full purchase price or, in certain cases, more than the purchase price, thereby enabling the Appellant to make certain repairs that increased the value of the buildings purchased.
+[19] The numerous transactions did indeed show that the Appellant and his brother were active in the real estate market. The evidence also showed that the Appellant could easily borrow large amounts; sometimes, few details regarding the use of the funds were provided, other than the fact that the loans were generally for repairs or improvements to the buildings purchased.
+[20] One of the significant assets that the Respondent took into account was a motorcycle. The Appellant explained the facts surrounding the purchase of the Harley Davidson motorcycle, which the Minister valued at $20,000 and the Appellant valued at approximately $5,500.
+[21] In support of his $5,500 valuation, the Appellant offered a letter from his insurance company (Exhibit A-1), which states:
+[TRANSLATION]
+LUSSIER
+Insurance and Financial Services Inc.
+February 4, 2003
+Patrick Godon
+. . .
+FURTHER TO YOUR REQUEST, THIS IS TO INFORM YOU THAT WE CAN COVER YOU FOR A MAXIMUM VALUE OF $6,902 FOR YOUR REBUILT 1997 HARLEY DAVIDSON MOTORCYCLE BEARING THE SERIAL NO. 2SAAQ19705140084.
+. . .
+[22] The Appellant said that the reason for the low value was that the motorbike was rebuilt from various spare parts, most of which were used. Thus, according to the Appellant, the value of the motorbike is essentially the aggregate value of the used components utilized, or roughly $5,000.
+[23] In other words, the value of the motorbike never exceeded the value of the sum of its parts. In fact, the Appellant said that he resold the parts for roughly $5,000 after realizing that the rebuild had not yielded the desired results.
+[24] After saying that he resold the motorbike in question, the Appellant revised that statement and acknowledged that he still owned the frame, a very important component because the registration certificate from the Société de l'assurance automobile is attached to it, which means that he is still the registered owner of the motorbike, or, rather, a part of it.
+[25] Upon applying for a loan from a credit union, the Appellant himself valued the motorbike at $21,000 (Exhibit I‑1, tab 8, page 3). Thus, it is easy to understand how the Respondent went about establishing the value of the motorbike at $20,000.
+[26] The Appellant explained that he did not smoke and that his lifestyle required only a very modest income. The Appellant provided no detailed evidence regarding the amount that he needed to cover his personal expenses.
+[27] Although he has a child, he said that he has never contributed to the child's various financial needs and has never made any support payments to the child's mother.
+[28] However, the evidence discloses that he was clearly concerned for and interested in his child's needs because he opened a bank account under the child's name. I therefore did not believe him when he said that he did not help with his child's various needs.
+[29] Indeed, the fact that the Appellant took the initiative to open bank account under his child's name attests to his interest and concern for his child's well‑being, a fact that completely contradicts the assertion that he did not incur any expenses towards his child's needs.
+[30] Such concern and interest are, after all, entirely incompatible with a total indifference to the child's day‑to‑day needs. I should note that if this had been the only questionable or implausible aspect of the Appellant's explanations, I would perhaps have been more receptive, but the Appellant's testimony showed that he had no trouble supplying a version of the facts that benefited him, however questionable, clumsy and implausible it might be.
+[31] As for the Appellant's personal expenses, they were established according to the data which he himself supplied at the interview at the beginning of the audit, and which were complemented by data published by Statistics Canada.
+[32] In this regard, the Appellant essentially argued that he did not smoke, and that his expenses were reduced to a minimum since he paid a third of his lodging expenses and nothing for his son.
+Analysis
+[33] There are several approaches to property valuation. The amount that a purchaser who is under no obligation to buy would have to pay in order to purchase the property from an owner who is under no obligation to sell is undoubtedly the best one. In fact, it is the definition of the actual value of property of any kind.
+[34] Where motorbikes, cars, boats, ATVs and RVs are concerned, there are also various guides based on the amounts obtained at many sales, generally at auctions. While these publications are obviously not always of iron‑clad reliability, they do provide some guidance. The value of vehicles also depends to a great extent on their condition and on the degree of wear and tear, so it is essential to describe the condition of the vehicle in order to determine its true value using such guides, which mostly provide average values.
+[35] Where motorbikes are concerned, especially ones bearing the famous Harley Davidson brand, there is another market, namely the market for modified vehicles. It is more difficult to establish a value in that market because the number of potential buyers is naturally lower.
+[36] In order to ascertain the actual value of the motorbike in the instant case, the Court must make a decision based on evidence that is essentially incomplete and oral. Clearly, the best evidence rule was not of great concern to the Appellant, who, as I have stated, bore the burden of proof.
+[37] The Appellant himself provided completely contradictory information, namely a letter from an insurance broker who clearly fixed the insurable value arbitrarily; that value is very different from the actual value and from the value that the Appellant himself quoted for the motorbike upon applying for a loan from a credit union.
+[38] The burden of proof that must be met is heavy. It is not enough to express one's disapproval and assert something different that favours one's position and is unfavourable to what was determined. The best evidence rule is undoubtedly the ideal way to meet a burden of proof.
+[39] In the case at bar, the motorbike was a very important asset. Evidence that is more persuasive than mere assertions was needed to dispute the value that was assigned to that asset based on a very acceptable premise, namely the Appellant's own valuation upon applying for credit. Moreover, in cases such as these, there are various ways to reliably determine the value of an item, notably through specialists who have the skills necessary to determine value for insurance purposes.
+[40] It is difficult for me to see how an insurer can determine the value of insurable property without the involvement of a competent appraiser. How could the insurer issue an opinion of the type reproduced in Exhibit A‑1? One thing that is absolutely certain is that this is not the best evidence, especially considering that the person who signed the document did not testify to explain or justify his valuation.
+[41] For all these reasons, I set the value of the motorbike at $20,000 in accordance with the valuation which the Appellant himself provided upon making a duly signed declaration, a valuation that he reconfirmed on a subsequent date when he submitted a new application for credit to a financial institution.
+[42] The Appellant submitted that his personal expenses were minimal because he lived with his brother and mother and therefore split what were already modest expenses three ways. He also said that, during the period covered by the assessments, he was the father of a young child for whom he paid no support and incurred no expenses related to custody or care.
+[43] Nevertheless, the Appellant made the following admission at paragraph 7 of his Notice of Appeal:
+[TRANSLATION]
+7. The Appellant estimates his personal expenses at $18,000 per annum during the years in issue.
+[44] This appeal is no exception to what appears to have become a veritable rule that applies to disputed assessments that were made using the alternative audit method known as the "net worth method".
+[45] Indeed, the Appellant, having devoted most of his energy to showing various weaknesses or even certain mistakes in the instant case, would like to be rewarded by having his assessment vacated outright.
+[46] In other words, those who spoke on the Appellant's behalf, including the Appellant's representative in the case at bar, seem to take it for granted that proof of a mistake or of a lack of rigour in handling a file is sufficient to have a net worth assessment vacated outright.
+[47] Our tax system is based on the principle of self‑assessment. Thus, the tax liability of any taxpayer is determined based on a reporting of the taxpayer's full income, less the amounts and expenses that the Act allows to be deducted, such as any expenses incurred to earn income.
+[48] A taxpayer's foremost responsibility is to determine his income. In order to carry out this fundamental duty, the taxpayer must be vigilant and organized, and must be able to file a return that accurately reflects his true income and be in possession of all relevant evidence, information or documents.
+[49] Now, the calculation of income and allowable expenses necessarily implies the implementation of an accounting system based on which the taxpayer can compute the taxable income that he must report. Any other conduct exposes the taxpayer to the risk of trouble and inconvenience for which he alone is responsible.
+[50] During an audit, which is a foreseeable event for all taxpayers, one must be able to justify and explain the accuracy of the income that one has reported, and prove that one's assets and reported income are consistent with each other.
+[51] In order to make such a showing, the phrases "maybe", "I don't recall" and "roughly" are not recommended. They are definitely not the way to meet one's burden of proof.
+[52] Every taxpayer has a duty to retain all supporting documents related to his income. If he fails to meet that duty, he risks encountering serious problems if he wishes to dispute an assessment, however arbitrary it may be, and such an assessment will often have been made by means of an alternative method owing to the impossibility of using the traditional approach.
+[53] Indeed, where, on their face, the numbers available during an audit raise serious doubts as to their veracity, or where the taxpayer is unable to provide consistent, plausible explanations supported by appropriate documents, the auditor may switch to an alternative method such as the net worth method.
+[54] If the taxpayer feels that the selected method has yielded an erroneous or implausible result, then, at the time that the draft assessment is submitted, at the objection stage and, lastly, in court, he can prove that all relevant information and documents required to make possible a review of his file using the traditional method are available.
+[55] In the case at bar, the Appellant criticizes the Respondent for failing to devote sufficient effort to the assessment under appeal. I acknowledge that the person responsible for the file clearly took some shortcuts and came to somewhat hasty conclusions, which, in fact, were inaccurate, since the numbers on which the assessment was based were revised downward after certain documents were examined.
+[56] After I sustained the objection and denied the filing of an Amended Reply to the Notice of Appeal, the Respondent essentially asserted that the unreported income was lower than the amounts set out in the assessment. Given the impact on the assessment, the reductions should be considered an admission favourable to the Appellant.
+[57] This admission is obviously not sufficient for me to conclude that the Appellant has met his burden of proof. At paragraph 7 of his Notice of Appeal, the Appellant admitted that he had personal expenses of $18,000, adding that this was a completely arbitrary estimate that was not thoroughly analysed item by item. Moreover, I do not believe the Appellant when he says that he did not contribute toward the expenses associated with the care of his child.
+[58] Therefore, I consider the personal expense amount determined by the Minister to be reasonable.
+[59] The discrepancy between the assessed income and the reported income is considerable. And the discrepancy between the reported income and the admission concerning personal expenses is also very large — so large, in fact, that this element alone warrants the imposition of penalties.
+[60] The Appellant had several sources of income. He needed to have a minimum level of organization and discipline to compute his income correctly. Clearly, his income tax return was not of great concern to him.
+[61] Just as a picture is worth a thousand words, a comparison of reported income with admitted personal expenses has attested eloquently, and, without a doubt, convincingly, to the fact that the allegations made by the Appellant, who claims to have reported all his income, are mathematically impossible.
+[62] To explain the discrepancies, the Appellant said that the difference between his income and his personal expenses resulted from the numerous loans that the evidence shows were made.
+[63] The Appellant is articulate, very intelligent, and entirely capable of understanding the requirements of the Income Tax Act with respect to his income and expenses.
+[64] Did the Appellant not acknowledge spending roughly $18,000 while earning an income of roughly $13,000, for a difference of $5,000, a considerable amount in view of the income and expenses?
+[65] A person equipped with basic common sense would understand that this is implausible. And the Appellant is, and was, a person who would know that. He signed his returns despite this obvious fact.
+[66] The burden of proof concerning the assessments was on the Appellant. Has the Appellant discharged that burden of proof? His main argument was that the value attributed to one of his assets, the motorbike, was totally inaccurate and considerably exaggerated.
+[67] In support of his submissions, he adduced deficient evidence that was of no probative value, especially because it totally contradicted his own valuation, which he provided upon applying to a credit union for a loan.
+[68] The Respondent herself reduced the Appellant's unreported income and expenses, thereby reducing the assessment in the Appellant's favour. I give effect to these admissions and order that the file be reassessed on the basis that, for the purposes of such reassessment, the unreported income for the years 1997, 1998 and 1999, and the personal expenses for these same years, are as stated at paragraph 9.
+[69] As for the penalties, I confirm that they are warranted; however, they must also be revised in accordance with the reassessments.
+[70] For all these reasons, I allow the appeal because the admissions reduce the assessment under appeal; therefore, the matter is referred back to the Minister for reconsideration and reassessment on the basis that the personal expenses and unreported income are as stated at paragraph 9. There shall be no order regarding costs.
+Signed at Ottawa, Canada, this 18th day of July 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2007TCC42
+COURT FILE NO.: 2004-4442(IT)G
+STYLE OF CAUSE: PATRICK GODON v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Trois-Rivières, Quebec
+DATE OF HEARING: September 28, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 18, 2007
+APPEARANCES:
+Counsel for the Appellant :
+François Daigle
+Counsel for the Respondent:
+Johanne M. Boudreau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: François Daigle
+Firm: Heenan Blaikie
+City: Trois-Rivières, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

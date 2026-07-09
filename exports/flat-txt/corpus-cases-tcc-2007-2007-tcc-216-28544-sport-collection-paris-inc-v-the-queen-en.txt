@@ -1,0 +1,81 @@
+Title: Sport Collection Paris Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28544/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-216-28544-sport-collection-paris-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-06
+
+# Sport Collection Paris Inc. v. The Queen
+
+- Citation: 2007 TCC 216
+- Decision date: 2007-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1077, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sport Collection Paris Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-06
+Neutral citation
+2007 TCC 216
+File numbers
+2005-2982(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-2982(GST)G
+BETWEEN:
+SPORT COLLECTION PARIS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and, I ALLOW THE SUM OF $16,626.50.
+Signed at Ottawa, Canada, this 10th day of April 2007.
+"Alan Ritchie"
+Taxing Officer
+Translation certified true
+on this 30th day of July 2007.
+Francie Gow, Translator
+Citation: 2007TCC216
+Date: 20070410
+Docket: 2005-2982(GST)G
+BETWEEN:
+SPORT COLLECTION PARIS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR TAXATION
+Taxing Officer, Alan Ritchie
+[1] This matter was heard by telephone conference call on Tuesday, April 3, 2007. It follows a judgment of the Honourable Justice Lamarre of this Court dated July 12, 2006, which allowed the appeal, with costs to the Appellant. The Respondent was represented by Denis Émond and the Appellant by Louis‑Frédérick Côté.
+[2] The matter in dispute was very clear, and dealt with my authority as Taxing Officer and whether or not I could allow costs beyond what is permitted by the Tariff.
+[3] The Honourable Justice Lamarre awarded party and party costs to the Appellant. The bill of costs of the Appellant as submitted is essentially a request for costs on a solicitor-client basis. No request was made by the Appellant under subsection 147(7) of the Tax Court of Canada Rules (General Procedure) (the Rules) to the Court, in the thirty days after she had knowledge of the judgment, to issue directions to the Taxing Officer with respect to costs or to reconsider its award of costs.
+[4] Counsel for the Appellant argued that section 154 of the Rules conferred [TRANSLATION] "wide discretion upon the taxing officer". It reads as follows:
+154. Where party and party costs are to be taxed, the taxing officer shall tax and allow the costs in accordance with Schedule II, Tariff B and the officer shall consider,
+(a) the amounts in issue,
+(b) the importance of the issues,
+(c) the complexity of the issues;
+(d) the volume of work, and
+(e) any other matter that the Court has directed the taxing officer to consider.
+[5] He addressed each of the paragraphs of section 154 and indicated how the circumstances of this matter met each of the criteria. He cited cases where this Court had awarded costs to the successful party above what would have been allowed under the Tariff. He drew analogies between those cases and this matter and took the position that, as Taxing Officer, I had the authority under section 154 to allow the costs his client was seeking.
+[6] Counsel for the Respondent was of the view that the Taxing Officer did not have the authority to allow costs on a solicitor-client basis; he argued that only Justice Lamarre could, and had not seen fit to do so in this instance. He consented to the amounts allowable under Tariff B and related disbursements only.
+[7] My analysis will be brief, as the issue seems quite clear. In my view, there is a vast difference between the authority of the Court with respect to the award of costs under section 147 of the Rules, and my authority as Taxing Officer under section 154. The principle that only the Court can award costs beyond the Tariff—and that the Taxing Officer has no such authority (or very limited latitude)—has been addressed in Continental Bank of Canada v. R., No. 91‑683(IT)G, 94 DTC 1858, [1995] 1 C.T.C. 2135 (T.C.C.), and confirmed in Crompton v. R., No. 93‑556(IT)G, 97 DTC 1506, [1998] 1 C.T.C. 2156 (T.C.C.) and Actra Fraternal Benefit Society v. R., No. 93‑26(IT)G, 96 DTC 1722, [1995] 2 C.T.C. 2671 (T.C.C.).
+[8] I would suggest that in seeking costs on a solicitor-client basis, the Appellant should have made a request under subsection 147(7) following the decision of Justice Lamarre. In the absence of any direction from the Court, the Taxing Officer can only tax the party and party costs according to the fees set out in the Tariff. In each case, the jurisprudence cited by counsel for the Appellant related to instances where the Court, and not the Taxing Officer, had made awards beyond what is permitted by the Tariff. I therefore do not see their relevance here, given my position outlined above.
+[9] I will therefore allow the amount of $16,626.50 as agreed to by counsel for the Respondent.
+Signed at Ottawa, Canada, this 10th day of April 2007.
+"Alan Ritchie"
+Taxing Officer
+Translation certified true
+on this 30th day of July 2007.
+Francie Gow, Translator

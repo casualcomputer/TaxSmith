@@ -1,0 +1,126 @@
+Title: Genest  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108733/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-76-108733-genest-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-03-26
+
+# Genest  v. The Queen
+
+- Citation: 2015 TCC 76
+- Decision date: 2015-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2843, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Genest v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-26
+Neutral citation
+2015 TCC 76
+File numbers
+2013-595(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-595(IT)G
+BETWEEN:
+MARIE-CLAUDE GENEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 2, 2015, at Montréal, Québec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal from the assessments made under section 160 of the Income Tax Act, notices of which are dated July 4, 2011 and numbered 1430684 and 1431993 respectively is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of March 2015.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+On this 23rd day of June 2015
+François Brunet, Revisor
+Citation: 2015 TCC 76
+Date: 20150326
+Docket: 2013-595(IT)G
+BETWEEN:
+MARIE-CLAUDE GENEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] This appeal concerns two reassessments under Section 160 of the Income Tax Act (the “Act”) in respect of amounts totalling over $45,000 transferred by the Appellant’s partner (« conjoint ») Martin Tremblay as part of his Équinoxe Gestion Financière sole proprietorship business (« Équinoxe Enregistrée »), and by a corporation owned by M. Tremblay, Équinoxe Développement Immobilier inc. (« Équinoxe Immobilier inc. »), to the Appellant in the years 2005 through 2008. It is the Appellant’s position that she provided fair market value consideration in the form of accounting, administrative and support services to her spouse’s business Équinoxe Enregistrée.
+[2] The Appellant is a certified management accountant (CMA). Her spouse was until recently a chartered accountant. He expects to be readmitted at some point in the future.
+[3] Mme Genest and M. Tremblay testified for the Appellant. The Canada Revenue Agency (“CRA”) Appeals Officer testified for the Respondent. This appeal can be decided on the nature and quality of what evidence was presented, and on the credibility of the witnesses. I can say at the outset that I have no concerns with the credibility of the Respondent’s witness and the reliability of the evidence put in through him. As addressed below, I do have concerns with the reliability of the evidence the Appellant has submitted and with the credibility of the testimony of Mme Genest and M. Tremblay as it relates to the extent of the services provided, and hence the value of the consideration the Appellant submits she provided and was being paid for.
+[4] The general aim and scope of section 160 of the Act is to prevent a person who has a tax debt from transferring his assets or cash to a non-arm’s length or related person unless the tax debtor receives fair market value consideration in return from the person to whom he transferred his money or assets. The section is in the Act to protect the fisc and Canadians generally from taxpayers moving assets between related persons to defeat the collection of taxes due.
+[5] The Appellant does not dispute that the amounts involved were transferred to her by M. Tremblay’s Équinoxe Enregistrée and Équinoxe Immobilier inc.. Her evidence and that of M. Tremblay are that she did not provide services at any time to Équinoxe Immobilier inc. and that the cheques from that company to the Appellant were simply payments directed by M. Tremblay to have Équinoxe Immobilier inc. pay Mme Genest in respect of the services she had provided to Équinoxe Enregistrée.
+[6] It is not disputed that M. Tremblay was a significant tax debtor at the relevant time. He has been reassessed for close to $1,000,000 of unreported income for the years in question. In most of those years he had reported less than $1,000 of income. In the one year he reported a greater amount, it was less than $5,000. This resulted in consequential reassessments of the Appellant with respect to deductions claimed on her return for her spouse as a dependent and to reverse GST credits only available to families of modest means. M. Tremblay has since declared bankruptcy. Criminal charges of tax evasion against M. Tremblay under section 139 of the Act are pending or in progress. M. Tremblay answered the Respondent’s questions in cross-examination. He did not refuse to answer the questions about his tax problems nor did he reference the Canada Evidence Act.
+[7] The only question to be decided then is whether services were provided in exchange for the transfers and, if so, what was the value of those services. The value of the services will be a function of the nature and extent of the provided services.
+[8] Mme Genest testified that she worked part-time for Équinoxe Enregistrée beginning in January 2005 until May of that year when their third child was born. She returned to work for Équinoxe Enregistrée throughout 2007 and 2008. She estimates that she worked an average of two to three hours per week for the first five months of 2005 in providing primarily accounting services to clients of Équinoxe Enregistrée. No written or oral evidence was given by either the Appellant or her spouse as to the client names, businesses, dates, projects or timeframes for the 2005 accounting services. For 2007 her services were primarily administrative and support services provided directly to Équinoxe Enregistrée and no longer involved accounting nor working with her husband’s clients. In 2008, her services continued to be primarily administrative and support but she estimated she was working seven to ten hours weekly by 2008. She recalled researching a new business location, meeting with the designer for the office, and developing a new business logo.
+[9] Current records of work done, hours worked, and amounts billed were not maintained by either the Appellant nor Équinoxe Enregistrée. Mme Genest could not recall clearly whether she communicated her estimated hours each week to her spouse or only each year, as she testified to both. Similarly, she could not recall if the estimated amounts earned were arrived at by estimating a total annual amount that seemed reasonable, or the total amount reported was the sum of the products of reasonable estimates of hours worked and a reasonable hourly rate.
+[10] I do not doubt that the Appellant did assist her spouse’s Équinoxe Enregistrée business at times over the years. However, there is little evidence tying the amounts transferred to Mme Genest to services rendered by her. The amounts, the timing, and the reporting do not align in any way.
+[11] In the years in question, Mme Genest relied almost entirely upon her spouse, M. Tremblay, for all business, financial and tax related matters. M. Tremblay prepared her tax returns and she may have very summarily reviewed them before signing them. This means that her evidence involved a significant degree of guessing, estimating, supposing and putting forward possibilities instead of knowledge or recollection, especially as regards how the numbers reported for tax purposes were arrived at. This limits the weight I can accord much of her evidence. It has also led to some significant inconsistencies in the evidence of her and M. Tremblay that cannot be satisfactorily explained.
+[12] It appears that Mme Genest may find herself in her present situation largely in good faith as a result of her misplaced trust in M. Tremblay to deal properly with her business, financial and tax interests and responsibilities. At worst, it appears she may have been wilfully blind to his abilities and diligence in these areas.
+[13] The low weight I can give to her testimony in such circumstances increases the importance of her providing supporting evidence in the form of documents testimony and from other persons that is consistent, clear and credible. Unfortunately, she is unable to provide such additional evidence.
+[14] The relevant documentary evidence is limited to the cheques by which the amounts were transferred to her and her tax filing information. This was put in by the Respondent along with other tax-related documents relating to Mme Genest and M. Tremblay. Records of her work were not done nor were her hours ever recorded. There was no written agreement for her services. Neither bills from, nor the amounts billed by, M. Tremblay’s business to its clients for the work Mme Genest provided were described nor put in evidence. Had such evidence existed it could have helped substantiate the extent, nature and value of the services provided.
+[15] After hearing M. Tremblay’s evidence, I choose to place no weight on those parts that would help Mme Genest establish the extent and value of the services she provided.
+[16] M. Tremblay prepared Mme Genest’s tax returns. He believes she did not review them at all. He prepared the table of amounts (Exhibit A-1) which starts with $15,000 for services to his business having been reported in Mme Genest’s tax return. In fact, the evidence from the Respondent is clear, and Mme Genest now admits, that no amount whatsoever was reported in her 2005 tax return for services to his business.
+[17] Further, M. Tremblay could not explain the continuity of the numbers in his Table A-1 without having to revise earlier answers about how only very informal, grosso modo, estimates were ever done when tax returns were being prepared, or to seemingly switch between or confuse the difference between accrual basis accounting and cash basis accounting. Indeed, it did appear that for a chartered accountant he either did not understand the difference between cash and accrual accounting or hoped that Crown counsel and/or the judge did not. (Mme Genest also had difficulty in determining if cash or accrual accounting was followed in his table.)
+[18] M. Tremblay testified that Mme Genest worked evenly throughout the years 2005 to 2008 working about the same number of hours weekly, less than ten hours throughout. Yet his table A-1 says she earned and reported $15,000 in 2005, $10,000 in 2007 and $25,000 in 2008. (It can be noted his recollection and/or methodology is at odds with Mme Genest’s clear evidence that she did not work in 2005 after the birth of their third child in May.)
+[19] It was apparent from M. Tremblay’s table A-1 that the amounts described as reported for tax purposes and earned bore little relationship to what was paid to Mme Genest. The differences were remarkable. In 2005 when $15,000 was supposedly earned and reported, she was only paid $2,000. In 2006 when she provided no services at all, she received more than $16,000. In 2007, when the tableau shows $10,000 earned and reported (which he tried to change in his testimony to $6,725 earned and $10,000 declared in order to deal with the accumulated prior year overpayments) she received almost $17,000. The 2008 numbers did not reconcile any better, nor did the final cumulative numbers balance amounts earned and amounts paid.
+[20] Only after further questioning from Crown counsel and the judge’s questions for clarification did M. Tremblay acknowledge that, if his explanations of the tableau’s accounting for prior years’ overpayments, incorrect accrued earnings and reported earnings had been followed, he should have prepared revised tax returns for his spouse to file.
+[21] M. Tremblay’s explanations for these problems in his tableau created new problems for him to try to explain away. M. Tremblay’s revised evidence that only $6,725 was earned in 2007 although $10,000 was reported leaves one wondering about the sudden precision in his annual grosso modo estimations of the hours worked by Mme Genest and their value. Neither amount could be evenly divided by his estimated $30 hourly rate.
+[22] I do not accept his explanations of these problems as satisfactory, reasonable, sensible or consistent. In his answers to questions on these problems he was trying to explain away, he could not do so in a consistent fashion as between each of these problems or as regards other parts of his evidence.
+[23] In answering a direct question for clarification from the judge, M. Tremblay was clear that there was nothing whatsoever in writing in respect of the services his spouse provided to his business and that all was only oral. Later, in responding to another question, he made reference to « la facturation » and, when asked what « facturation » he was referring to, he then clearly described how each year a written bill was prepared by him and his spouse showing the number of hours of work provided, an hourly rate and a total amount billed. He did not bring these bills to Court. He did not describe how these written bills accounted for the prior years’ differences between amounts accrued and amounts paid.
+[24] M. Tremblay would not admit or acknowledge that the 2005 tax returns he prepared for his spouse did not include $15,000 of income earned by her working for his business.
+[25] M. Tremblay’s inability to explain or defend a four line three column chart he prepared in a manner that conformed to actual tax filings, the estimation method used to arrive at earned amounts, or make consistent use of either accrual or cash accounting, and his overlooking the significance to the Court of the written bills he said were prepared after saying nothing was documented, lead me to the conclusion no weight whatsoever can be given to his testimony regarding the nature, extent or value of the services provided by his spouse to his business. His testimony was unreliable and unsatisfactory.
+[26] Neither the credibility of Mme Genest or M. Tremblay was helped by their attempts to explain the remarkable differences between their income reported to the CRA and that held out to their lenders, mortgagees and lessors during this period.
+[27] In the circumstances, I have little choice but to dismiss this appeal. I am not unsympathetic to the circumstances in which Mme Genest now finds herself, however there is altogether insufficient evidence to allow the Court to conclude on a balance of probabilities that she provided almost $45,000 of services to her conjoint’s business, nor to even guess at the value of what services she may have provided. The assessments are valid and are her responsibility. The Act provides that she can pursue M. Tremblay for these amounts, in addition to any remedies she may have under provincial law.
+[28] In the circumstances, in particular that Mme Genest had not been informed of these assessments nor this appeal until shortly before the hearing by her spouse who had hidden this information from her, I will not be awarding costs against her.
+Signed at Ottawa, Canada, this 26th day of March 2015.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+On this 23rd day of June 2015
+François Brunet, Revisor
+CITATION:
+2015 TCC 76
+COURT FILE NO.:
+2013-595(IT)G
+STYLE OF CAUSE:
+MARIE-CLAUDE GENEST AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+March 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+March 26, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

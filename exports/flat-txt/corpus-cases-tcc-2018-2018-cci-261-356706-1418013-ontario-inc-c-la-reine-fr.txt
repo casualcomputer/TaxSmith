@@ -1,0 +1,202 @@
+Title: 1418013 Ontario Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/356706/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-261-356706-1418013-ontario-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-12-21
+
+# 1418013 Ontario Inc. c. La Reine
+
+- Citation: 2018 CCI 261
+- Decision date: 2018-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4995, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1418013 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-21
+Référence neutre
+2018 CCI 261
+Numéro de dossier
+2014-1889(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-1889(GST)I
+ENTRE :
+1418013 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 juin 2018, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+Rizwan Wancho
+Avocat de l’intimée :
+Kieran Lidhar
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation datée du 16 octobre 2012 établie en vertu de la partie IX de la Loi sur la taxe d’accise pour les périodes de déclaration annuelle de l’appelante se terminant le 31 décembre 2009 et le 31 décembre 2010 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour réexamen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L’appel interjeté à l’encontre de la cotisation datée du 16 octobre 2012 établie en vertu de la partie IX de la Loi sur la taxe d’accise pour la période de déclaration annuelle de l’appelante se terminant le 31 décembre 2007 est rejeté.
+Signé à Mont St-Hilaire, Québec, ce 21e jour de décembre 2018.
+« Réal Favreau »
+Juge Favreau
+Référence : 2018CCI261
+Date : 20181221
+Dossier : 2014-1889(GST)I
+ENTRE :
+1418013 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Favreau
+[1] Il s’agit d’un appel interjeté à l’encontre la cotisation datée du 16 octobre 2012 établie en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15, dans sa version modifiée (la « LTA ») pour les périodes de déclaration annuelle de l’appelante se terminant le 31 décembre 2007, le 31 décembre 2009 et le 31 décembre 2010.
+[2] Au moyen de la cotisation datée du 16 octobre 2012, le ministre du Revenu national (le « ministre ») a évalué la taxe sur les biens et services (« TPS ») de l’appelante pour les périodes de déclaration annuelle se terminant le 31 décembre 2007, le 31 décembre 2009 et le 31 décembre 2010 de la façon suivante :
+a) en évaluant la TPS sous-déclarée au montant de 1 201,98 $ et en refusant les crédits de taxe sur les intrants (« CTI ») au montant de 857,32 $ pour la période de déclaration annuelle se terminant le 31 décembre 2007;
+b) en évaluant la TPS sous-déclarée au montant de 2 703,27 $ et en refusant les CTI au montant de 2 896,82 $ pour la période de déclaration annuelle se terminant le 31 décembre 2009;
+c) en évaluant la TPS sous-déclarée au montant de 2 821,35 $ et en refusant les CTI au montant de 2 675,63 $ pour la période de déclaration annuelle se terminant le 31 décembre 2010.
+[3] Pour évaluer la taxe nette de l’appelante pour les périodes de déclaration annuelle se terminant le 31 décembre 2007, le 31 décembre 2009 et le 31 décembre 2010, le ministre s’est fondé sur l’hypothèse de fait suivante :
+a) les faits énoncés et admis ci-dessus;
+b) pendant toutes les périodes visées, l’appelante était inscrite aux fins de la TPS sous le numéro 86742 XXXX RT000;
+TPS perceptible
+c) pendant toutes les périodes visées, l’appelante effectuait des travaux de bureau, de secrétariat et parajuridiques pour d’autres parajuristes et avocats sous le nom commercial NFP Group Consultants;
+d) pendant toutes les périodes visées, l’appelante a référé des clients à d’autres parajuristes et avocats et recevait une commission de référence;
+e) pendant toutes les périodes visées, Heselden, Khan et d’autres parajuristes ou avocats ont émis des chèques à l’appelante, qui les a déposés dans son compte bancaire, comme le démontre l’annexe A qui fait partie de la réponse à l’appel;
+f) les montants que l’appelante a reçus de Heselden, Khan et d’autres parajuristes ou avocats servaient à couvrir la prestation de services parajuridiques et de référence par l’appelante;
+g) l’appelante a reçu 31 318,34 $ en 2007, 100 600,47 $ en 2009 et 67 571,84 $ en 2010 pour la prestation de services parajuridiques et de référence;
+h) l’appelante a omis de percevoir ou de verser la TPS au titre de la prestation de services parajuridiques et de références au montant de 1 201,98 $ pour la période se terminant le 31 décembre 2007,de 2 703,27 $ pour la période se terminant le 31 décembre 2009 et de 2 821,35 $ pour la période se terminant le 31 décembre 2010;
+CTI
+i) l’appelante a commis des erreurs dans le calcul des CTI, ce qui a fait qu’elle a demandé des CTI auxquels elle n’avait pas droit au montant de 303,11 $ pour la période annuelle se terminant le 31 décembre 2007 et de 1 151,56 $ pour la période annuelle se terminant le 31 décembre 2009;
+j) l’appelante a demandé des CTI pour les dépenses suivantes pour lesquelles elle n’a pas payé de TPS :
+Description
+Période se terminant le 31 décembre 2007
+Période se terminant le 31 décembre 2009
+Période se terminant le 31 décembre 2010
+Dépenses de location
+51,71 $
+453,43 $
+805,81 $
+Dépenses en assurance
+48,91 $
+28,98 $
+84,99 $
+Dépenses professionnelles
+225,55 $
+258,96 $
+[EN BLANC]
+Frais de déplacement
+84,91 $
+162,21 $
+157,18 $
+Dépenses de construction
+[EN BLANC]
+610,68 $
+727,26 $
+Frais financiers et médicaux
+[EN BLANC]
+[EN BLANC]
+227,28 $
+k) l’appelante a demandé des CTI pour des frais de bureau et de communications qui incluaient la taxe de vente provinciale au montant de 37,66 $ pour la période annuelle se terminant le 31 décembre 2007, de 36,84 $ pour la période annuelle se terminant le 31 décembre 2009 et de 16,67 $ pour la période annuelle se terminant le 31 décembre 2010;
+l) l’appelante a utilisé le véhicule à moteur 80 % du temps dans le cadre de ses activités commerciales au cours des périodes annuelles se terminant le 31 décembre 2007, le 31 décembre 2009 et le 31 décembre 2010;
+m) l’appelante a demandé des CTI pour l’utilisation personnelle du véhicule à moteur au montant de 30,87 $ pour la période annuelle se terminant le 31 décembre 2007;
+n) l’appelante a demandé des CTI pour des frais afférents à un véhicule à moteur pour lesquels elle n’a pas payé de TPS au montant de 74,60 $ pour la période annuelle se terminant le 31 décembre 2007, de 194,91 $ pour la période annuelle se terminant le 31 décembre 2009 et de 397,59 $ pour la période annuelle se terminant le 31 décembre 2010.
+o) l’appelante a demandé des CTI pour des dépenses en publicité au montant de 285,85 $ pour la période se terminant le 31 décembre 2010 par rapport à des factures qui n’étaient pas émises au nom de l’appelante;
+[4] À l’audience, l’avocat de l’intimée a concédé l’appel concernant les périodes de déclaration se terminant le 31 décembre 2009 et le 31 décembre 2010 pour la TPS et les CTI parce que l’appelante a été dissoute le 17 novembre 2008 et a perdu son inscription aux fins de la TPS.
+[5] À la suite de la concession faite par le ministre, les questions sont de savoir si :
+a) l’appelante a sous-déclaré la TPS au montant de 1 201,98 $ relativement à la prestation de services parajuridiques et de référence pour la période se terminant le 31 décembre 2007;
+b) l’appelante a surestimé son droit à des CTI au montant de 857,32 $ pour la période se terminant le 31 décembre 2007.
+[6] M. Rizwam Wancho (« M. Wancho »), un représentant de l’appelante, a témoigné à l’audience pour expliquer sa relation d’affaires avec M. Mohammed Zulfigar Khan (« M. Khan »), un autre parajuriste et M. Paul Heselden (« M. Heselden »), un avocat spécialisé en délit qui exerce à Pickering, en Ontario.
+[7] M. Wancho a expliqué qu’il exploitait son entreprise parajuridique par l’entremise de l’appelante sous le nom commercial de NFP Group Consultants (« NFP »). De 2002 à 2009, il a travaillé avec M. Khan, qui n’était pas licencié en tant que parajuriste. M. Khan agissait à titre d’entrepreneur indépendant et n’était pas un employé de l’appelante. Ils ont d’abord convenu de partager à parts égales les revenus nets provenant de leur travail. En 2007, l’entente de partage a changé : 60 % des revenus nets reviendraient à M. Wancho, et 40 % à M.Khan.
+[8] M. Wancho a expliqué que NFP a référé à M. Heselden les dossiers des clients de M. Wancho et de M. Khan qui pourraient faire l’objet d’une réclamation par un tiers. Ils ont convenu avec M. Heselden que ce dernier verserait à NFP 25 % des honoraires qu’il recevrait pour régler de tels dossiers à titre de commission de référence.
+[9] Après avoir référé le dossier d’un client à M. Heselden, MM. Wancho et Khan ont continué de fournir des services au client en agissant comme intermédiaires entre ce dernier et M. Heselden. Ces services pouvaient comprendre le traitement du dossier (c.-à-d. l’enquête et la collecte de renseignements et de données, et aussi l’organisation, la compilation et le regroupement de renseignements et de données, le traitement de diverses questions pour le dossier, la préparation de divers formulaires, les services de traduction et d’interprétation et l’organisation des examens médicaux et des évaluations aux frais de l’assureur responsable de verser les indemnités suite à l’accident).
+[10] Selon M. Wancho, la commission de référence de 25 % payable par M. Heselden à NFP était censée être nette de TPS et, dans les faits, M. Heselden n’a jamais payé de TPS à NFP. M. Wancho a déclaré que NFP n’avait pas de contrat écrit avec M. Heselden et que NFP n’a jamais envoyé de facture à M. Heselden pour les services rendus. M. Heselden a montré à M. Wancho les comptes de règlement des dossiers des clients qui lui ont été référés par NFP. La commission de référence payable à NFP était calculée en fonction de ces comptes de règlement. Les chèques faits par M. Heselden à l’ordre de NFP ont été déposés dans le compte bancaire de l’appelante, comme l’indique l’annexe A, jointe à la réponse de l’intimée à l’avis d’appel.
+[11] Concernant les CTI demandés par l’appelante pour les dépenses de location, M. Wancho a admis qu’aucun document n’avait été présenté à l’appui des demandes. Il a toutefois mentionné que l’appelante possédait des copies de chèques prouvant les paiements de loyer au propriétaire et qu’elle a subséquemment transmis ces copies des chèques à l’Agence du revenu du Canada (« l’ARC »). Au procès, M. Wancho n’a pas contesté les autres montants de CTI que le ministre a refusés pour la période de déclaration se terminant le 31 décembre 2007.
+[12] M. Paul Heselden a également témoigné à l’audience. Il a expliqué qu’il avait eu une relation d’affaires avec MM. Wancho et Khan de 2001 à 2010 parce que les parajuristes n’avaient pas besoin d’un permis du Barreau de l’Ontario à ce moment-là. Ils lui ont référé des clients qui avaient des demandes fondées sur la responsabilité délictuelle, comme des accidents de voiture. M. Heselden a reconnu que MM. Wancho et Khan offraient des services qui visaient à assister les clients dans leurs demandes. Cependant, M. Heselden a affirmé n’avoir jamais facturé les clients que NFP lui avait référés pour les services rendus par MM. Wancho et Khan afin de les aider la préparation de leurs dossiers. Il a catégoriquement affirmé que seuls ses propres services ont été facturés aux clients.
+[13] M. Heselden a en outre expliqué que les dossiers qui lui ont été référés par NFP ont été pris suivant une formule de rémunération proportionnelle aux résultats obtenus. Il s’agissait d’un effort conjoint et il n’y avait pas de rémunération ou de commission de référence versée à NFP si les dossiers n’aboutissaient pas au résultat escompté. M. Heselden a ajouté que la commission de référence versée à NFP ne correspondait pas nécessairement à 25 % des honoraires découlant des dossiers. Le pourcentage variait selon la valeur réelle des services rendus par MM. Wancho et Khan. M. Heselden a dit qu’il était au courant des services rendus et qu’ils rencontraient M. Wancho et/ou M.Khan toutes les semaines pour discuter de l’avancement et de l’issue des dossiers.
+[14] M. Heselden a confirmé qu’il facturait la TPS sur les services offerts à ses clients et qu’il payait la commission de référence, incluant la TPS, par chèque émis à l’ordre de NFP. Il a déclaré savoir que l’appelante était inscrite aux fins de la TPS et que celle-ci a demandé des CTI pour des paiements effectués à l’ordre de NFP. M. Heselden ne se rappelait pas si l’appelante lui avait déjà facturé la commission de référence.
+[15] Enfin, M. Khan a témoigné à l’audience. Il a travaillé avec M. Wancho pour l’appelante de 2002 à 2009. Il ne détenait pas de permis pour exercer en tant que parajuriste. Ils avaient convenu de se partager la commission de référence qu’ils recevaient des avocats après avoir déduit les dépenses. Au départ, sa part était de 50 %. À la fin de chaque mois, les dépenses étaient déduites de la commission reçue au cours du mois et le montant net était séparé en fonction du pourcentage convenu. L’appelante le payait par chèque, sans inclure la TPS parce qu’il n’était pas inscrit aux fins de la TPS et que son revenu annuel était inférieur à 30 000 $ en 2007. Il n’a jamais facturé à NFP ou à l’appelante sa part de la commission de référence.
+Analyse et conclusion
+[16] Les services parajuridiques et de référence fournis par l’appelante en 2007 étaient une fourniture imposable au sens du paragraphe 123(1) de la LTA :
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+[17] L’appelante devait percevoir et verser la TPS sur la commission de référence reçue de M. Heselden ou d’autres avocats en vertu des paragraphes 221(1), 228(1) et 228(2) de la LTA, qui sont ainsi libellés :
+221(1) Perception
+La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+228(1) Calcul de la taxe nette
+La personne tenue de produire une déclaration en application de la présente section doit y calculer sa taxe nette pour la période de déclaration qui y est visée, sauf si les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration.
+228(2) Versement
+La personne est tenue de verser au receveur général le montant positif de sa taxe nette pour une période de déclaration dans le délai suivant, sauf les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration :
+(a) si elle est un particulier auquel le sous-alinéa 238(1)a)(ii) s’applique pour la période, au plus tard le 30 avril de l’année suivant la fin de la période;
+(b) dans les autres cas, au plus tard le jour où la déclaration visant la période est à produire.
+[18] D’après les éléments de preuve dont je dispose, il ne fait aucun doute que l’appelante a sous-déclaré la TPS perceptible pour la prestation de services parajuridiques et de référence qui était incluse dans la commission de référence au montant de 1201,98 $ qu’a reçue l’appelante pour la période se terminant le 31 décembre 2007.
+[19] La responsabilité de l’appelante pour la TPS non perçue et non remise n’est pas limitée par le fait qu’elle ne savait pas que la commission de référence reçue incluait la TPS.
+[20] Par rapport aux CTI demandés par l’appelante pour ses dépenses de location de bureaux, l’intimée allègue que l’appelante n’a pas fourni les documents exigés par le paragraphe 169(4) de la LTA et l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91-45 (le « Règlement ») au moment de remplir sa déclaration de TPS pour la période se terminant le 31 décembre 2007.
+[21] Le paragraphe 169(4) de la LTA et l’article 3 du Règlement prévoient notamment ce qui suit :
+169(4) Documents - L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+(a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+. . .
+3. Aux fins de l’alinéa 169(4)a) de la Loi, les renseignements suivants sont des renseignements visés par règlement :
+(a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+(b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément à l’article 241 de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+. . .
+(c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[22] Les documents exigés en vertu du paragraphe 169(4) de la LTA et de l’article 3 du Règlement sont obligatoires et doivent être obtenus « avant de produire la déclaration à cette fin [demander un crédit de taxe sur les intrants] ».
+[23] En l’espèce, l’appelante a demandé des CTI pour des dépenses de location sans remplir de document auprès de la société propriétaire. Elle a toutefois fourni à l’ARC des copies de chèques prouvant le paiement du loyer.
+[24] Ces chèques n’ont pas été acceptés par l’ARC pour des raisons qui n’ont pas été divulguées à la Cour. Comme les chèques n’ont pas été déposés en preuve, je ne peux que supposer que le recto des chèques ne comportait pas les renseignements nécessaires, comme le numéro de facture, le numéro d’inscription aux fins de la TPS de la société propriétaire, le montant de taxe payé ou payable pour toutes les fournitures ou pour chacune d’elles ou la date de paiement de la taxe.
+[25] Dans les circonstances, l’appelante ne s’est pas acquittée du fardeau qui lui incombait d’établir qu’elle détenait la documentation nécessaire lorsqu’elle a produit ses déclarations de TPS afin de demander les CTI contestés.
+[26] Pour ces motifs, l’appel interjeté à l’égard des périodes de déclaration se terminant le 31 décembre 2009 et le 31 décembre 2010 est accueilli et l’affaire est renvoyée au ministre pour réexamen et nouvelle cotisation au motif que pendant ces périodes, l’appelante n’a pas sous-déclaré la TPS pour la prestation de services parajuridiques et de référence au montant de 2703,27 $ et de 2821,35 $ respectivement et n’a pas surestimé son droit à des CTI aux montants respectifs de 2896,88 $ et 2675,63 $.
+[27] L’appel interjeté à l’égard de la période de déclaration se terminant le 31 décembre 2007 est rejeté.
+Signé à Mont St-Hilaire, Québec, ce 21e jour de décembre 2018.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2018TCC261
+No DU DOSSIER DE LA COUR :
+2014-1889(GST)I
+INTITULÉ :
+1418013 Ontario Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 juin 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 21 décembre 2018
+COMPARUTIONS :
+Représentant de l’appelante :
+Réjean Wencho
+Avocat de l’intimée :
+Kieran Lidhar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

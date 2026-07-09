@@ -1,0 +1,130 @@
+---
+title: "Virani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29697/index.do"
+last_modified: "2010-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 113"
+citation2: ""
+neutral_citation: "2010 TCC 113"
+decision_date: "2010-03-16"
+language: "en"
+item_id: "29697"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6202
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:32:56.933000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0caf02d8bb67a118279f4e3920a1ac9b408fde4ae4329db643455fa0cf8fefbc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virani v. The Queen
+
+- Citation: 2010 TCC 113
+- Decision date: 2010-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6202, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-16
+Neutral citation
+2010 TCC 113
+File numbers
+2007-4303(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2010 TCC 113
+Date: 20100316
+Docket: 2007-4303(GST)I
+BETWEEN:
+AZIM M. VIRANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment
+delivered orally from the Bench on February 15, 2008
+at Vancouver, British Columbia.)
+Campbell J.
+[1] This appeal is brought pursuant to the Excise Tax Act in respect to a Notice of Assessment issued on September 26, 2005 for the period ending March 31, 2005. On May 19, 2005 the Minister of National Revenue (the “Minister”) received a GST/HST new housing rebate application from the Appellant with respect to a condo unit located at 2006 – 1155 Seymour Street in Vancouver. The Minister disallowed the Appellant’s claim for this rebate. The issue therefore is whether the Appellant is eligible for this new housing rebate in respect of the Seymour Street condo unit.
+[2] The Respondent’s position is that the Appellant did not acquire the property as his primary residence and that he did not occupy it as his primary residence. The Appellant contends just the opposite – that it was his intent at the time of the purchase to acquire and occupy the condo at Seymour Street as his primary residence. The Appellant entered into an agreement of purchase and sale in November of 2002 (Exhibit A-5) to purchase a yet-to-be-constructed condo unit on Seymour Street. The purchase was based on architectural drawings and floor plans. This purchase would make the Appellant a first-time homebuyer. He had looked only once prior to 2002 at a potential property purchase but, other than doing that, he had never owned real estate and had been renting up to this point in time.
+[3] The agreement of purchase and sale called for the payment of a number of deposits to be made to the vendors’ solicitors. There was a mix-up respecting the unit which the Appellant initially contracted to purchase and consequently the developer mistakenly sold this unit to another party. As a result, the Appellant was offered another unit for the purchase price of $312,291.00. This agreement of purchase and sale was executed by the Appellant and the developer on November 19, 2002. According to this contract, the Appellant was required to pay three substantial deposits totalling $31,230.00, payable between November 19, 2002 and February 22, 2003. The unit was to be completed and available for possession in 2004. However, because of delays, the completion date was moved ahead to March, 2005.
+[4] The Appellant testified that, since it was his intention to purchase and occupy this as his primary residence, he had paid an additional amount of $4,107.73 for hardwood flooring and for an alarm system. He wanted the alarm system because he had been robbed in the past. Initially, the unit was to be purchased by both the Appellant and his girlfriend, but when their relationship ended in 2004, the Appellant approached his friend Craig Docherty to move into the Seymour Street unit to assist with the mortgage payments.
+[5] In January 2004, the Appellant moved into his mother’s basement apartment to save money to purchase furniture for this unit. In December 2004 and January 2005, the Appellant began to purchase furniture. Some of these purchases were made prior to the inspection of the Seymour Street unit (Exhibit A-3).
+[6] The pre-delivery inspection was scheduled for January 12, 2005 (Exhibit A‑6) and the Appellant attended the inspection with his friend Craig Docherty. The Appellant was disappointed with the construction flaws he saw with this unit. There were scratches and scuff marks on the floors, walls and blinds, light fixture problems, moulding problems, one of the walls had been angled off in a different direction and the floor layouts were smaller than the original floor plans, which the Appellant had viewed at the pre-construction stage.
+[7] The Appellant testified that he decided at the time of this inspection that the unit did not meet his expectations and that he would never be happy there. He decided to look at other properties to purchase. According to his evidence, he purchased an existing condo unit at Drake Street on February 3, 2005. He testified that he first looked at the Drake Street property about one week prior to the February 3, 2005 purchase. On February 7, 2005 he listed the Seymour Street unit. It sold on February 23, 2005.
+[8] The Appellant had given his mother notice of his intention to move out of the basement apartment and she arranged to rent this unit. Since the Drake Street property was not yet available, the Appellant moved into the Seymour Street unit on March 4, 2005 and resided there until March 29, 2005.
+[9] His friend, Craig Docherty, who had also given notice at his rental property and had disposed of his furniture, moved into the unit for this period in March. The Appellant submitted moving receipts (Exhibit A-4) for the March 29, 2005 move to the Drake Street property. These receipts show the Drake Street property as the destination for the furnishings, with the Seymour property as the place for the pick‑up of the items. The Appellant’s mother’s address was also listed on this invoice as the second point of pick-up for some of the Appellant’s items. However, the Appellant testified that the only items picked up at his mother’s address were boxes left in the upstairs portion of her home. The Appellant and Mr. Docherty continue to reside in the Drake Street property today.
+[10] I am going to turn now to my analysis. Basically, the Minister has decided that the Appellant is not entitled to the new housing rebate because he does not meet the requirements under subsection 254(2) of the Excise Tax Act (the “Act”). The relevant portions of subsection 254(2) read as follows, where (and I am reading now from paragraph 254(2)(b)),
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual[.]
+[11] The other relevant portion of that subsection is subparagraph 254(2)(g)(i) and it states:
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is …
+and I am reading from clause (B):
+(B) in the case of a residential condominium unit, an individual, or a relation of an individual, who was at that time a purchaser of the unit under an agreement of purchase and sale of the unit, …
+and the subsection goes on, but the remaining portions are not relevant.
+[12] The wording in this provision is crystal clear. It specifically refers in both paragraph 254(2)(b) and in clause 254(2)(g)(i)(B) to “an agreement of purchase and sale”. Liability explicitly attaches to the particular individual who executes an agreement of purchase and sale. There is no ambiguity here and I am simply rejecting Respondent counsel’s submissions that liability arises for the Appellant when he took legal title and assumed responsibility for the mortgage payments in February 2005. That reasoning completely ignores the wording of subsection 254(2).
+[13] It may be that Respondent counsel saw the problem she had with the wording in the subsection because she did not specifically address “the time of purchase” until I asked her thoughts on this at the end of her submissions. I believe her response was that the reference to the “agreement of purchase and sale” was raised in paragraph (b) of subsection 254(2). Well, it is certainly more than “raised”, as she put it, because the liability is directly referenced to an agreement of purchase and sale and not to any later event.
+[14] Respondent counsel argued that the Appellant assumed no liability until February 2005 because in November 2002 he did not have legal title. She characterized the November 2002 document as a pre‑construction agreement. That may be exactly what it is but, nonetheless, the contract was clearly an agreement of purchase and sale as referenced and contemplated in this provision. In fact, Exhibit A-3 titles it “contract of purchase and sale”. This document solidly committed the Appellant to, and made him liable for, the purchase of the Seymour Street property. The deposits totalled over $31,000.00. Therefore, I believe that the intention of the Appellant to acquire and occupy the Seymour Street unit as his primary residence must be determined in November 2002 when he executed the agreement of purchase and sale and not in February 2005 when the actual transfer of legal title and possession occurred.
+[15] Respondent counsel argued that, even if I decided it was the November 2002 date in which the Appellant’s intention should be determined, there was no evidence to support his position that he intended this unit to be his primary residence. Subsection 254(2) instructs the Minister to pay a rebate to a “particular individual” where a builder makes a supply by way of a sale of a unit to a particular individual (in this case the Appellant) and at the time this particular individual becomes liable under an agreement of purchase and sale in acquiring a unit for use as his primary place of residence. I believe the evidence fully supports my conclusion that, in November 2002 when the Appellant executed his agreement of purchase and sale for the Seymour Street unit, he fully intended it to be his primary place of residence. I base my conclusion on the following factors:
+1. He had no history or experience in the real estate market as he was a first-time home owner, having looked at only one prior property before the Seymour Street purchase;
+2. He wanted to get out of the rental market and the fact that his mortgage payments would be less than his rental payments formed part of the basis for this purchase;
+3. Between the time he executed the agreement of purchase and sale in November 2002 and the date he inspected the completed Seymour Street unit on January 12, 2005, he was not in the market viewing or investigating other real estate opportunities and did so only when he encountered the construction flaws and problems on the Seymour Street condo unit after the inspection;
+4. He persevered through a two-and-a-half year delay for completion of the unit, lived for approximately one year at his mother’s residence in order to save money for furniture, and initially accepted an alternate unit when his first choice was mistakenly sold to someone else;
+5. He began purchasing furniture in December 2004 for this unit prior to the date of inspection on January 12, 2005; and
+6. He requested additional items in terms of hardwood flooring and an alarm system for this unit.
+[16] There is no evidence in November 2002 that the Appellant intended to acquire and occupy the Seymour Street unit for any other purpose except to reside in it as his primary residence. Even if I agreed with Respondent counsel that the Act requires that intent be determined in February 2005, I would still reach the same conclusion. Up until January 12, 2005, the date of the inspection, the Appellant’s course of conduct supports his stated intention to acquire this unit and occupy it as his primary residence.
+[17] Respondent counsel pointed to one invoice for furniture dated January 29, 2005 as problematic in that the items were probably purchased for the Drake Street unit and not the Seymour unit. However, the Appellant pointed out that these items were selected prior to looking at the Drake Street property, but because they were unavailable at the premises and had to be ordered by the store, the payment receipt and invoice show a date subsequent to the Drake Street viewing.
+[18] Respondent counsel also pointed to discrepancies with respect to dates in several statements and documents signed by the Appellant and forwarded to CRA during 2007. Some of these did not accord with his oral evidence, but I accept his explanation for the differences, as I have no reason to doubt the evidence he provided in Court. These documents were drafted by an agent who was assisting him on settling the issue with CRA and he simply signed them without giving the various dates much thought.
+[19] In addition, he adequately responded to counsel’s queries concerning the fact that in March 2005, when he lived in the unit, there were no accounts billed to this address. He indicated that because the Hydro bill was never set up, the discrepancy was handled by a notary. He used a cell phone and had no landline account for this address and he did not want to pay the two installation fees for cable. Although by March 4, 2005, when he moved into the property, he had purchased the Drake Street unit, the Seymour Street unit was for this time his primary place of residence. He had the keys, he had legal title and possession of the unit, and he had moved his furniture in. According to the evidence of Mr. Docherty, his roommate, Mr. Docherty had disposed of his own furniture and moved in, and any expenses associated with this unit during this period, including the liability for the mortgage payments, were solely the Appellant’s responsibility.
+[20] When I look to the governing provision, paragraph 254(2)(b), the Appellant, in November 2002 when he executed the agreement of purchase and sale with the developer, assumed the liability in respect to the Seymour Street unit and his intentions, supported by his course of conduct, were to acquire and occupy that unit upon its completion. If I look at clause 254(2)(g)(i)(B), I believe it is meant to apply to those circumstances where the purchaser in the first instance at the pre‑construction stage enters into an agreement of purchase and sale to sell upon completion. This provision instructs the Minister to pay the rebate to the first individual who occupies the unit as a place of residence at any time after the unit has been substantially completed.
+[21] This section of the provision again identifies that individual as a purchaser “under an agreement of purchase and sale”. It is also interesting to note that in this portion of the section, the residence is referred to simply as “place of residence” without reference to “primary place of residence”. However, based on my conclusions, I feel no need to canvass the potential ramifications pertaining to the deletion of the word “primary” in reference to place of residence in this paragraph.
+[22] Accordingly, the appeal is allowed.
+Signed at Toronto, Canada, this 16th day of March 2010.
+“Diane Campbell”
+Campbell J.
+CITATION: 2010 TCC 113
+COURT FILE NO.: 2007-4303(GST)I
+STYLE OF CAUSE: Azim M. Virani and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: February 14 and 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT: February 15, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

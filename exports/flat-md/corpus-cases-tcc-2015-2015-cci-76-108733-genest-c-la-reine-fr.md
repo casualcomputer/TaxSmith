@@ -1,0 +1,149 @@
+---
+title: "Genest c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108733/index.do"
+last_modified: "2015-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 76"
+citation2: ""
+neutral_citation: "2015 CCI 76"
+decision_date: "2015-03-26"
+language: "fr"
+item_id: "108733"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2843
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:38:13.796000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e92c3dc786be091c2d51fd6be9ffa0e0c3fb8519f34bdd8524156ccf41cf2618"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Genest c. La Reine
+
+- Citation: 2015 CCI 76
+- Decision date: 2015-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2843, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Genest c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-26
+Référence neutre
+2015 CCI 76
+Numéro de dossier
+2013-595(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-595(IT)G
+ENTRE :
+MARIE-CLAUDE GENEST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 2 mars 2015, à Montréal (Québec).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Pour l'appelante :
+L'appelante elle‑même
+Avocat de l'intimée :
+Me Mounes Ayadi
+JUGEMENT
+L'appel interjeté à l'encontre des cotisations établies en vertu de l'article 160 de la Loi de l'impôt sur le revenu, dont les avis du 4 juillet 2011 portent les numéros 1430684 et 1431993, est rejeté sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de mars 2015.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2015 CCI 76
+Date : 20150326
+Dossier : 2013-595(IT)G
+ENTRE :
+MARIE-CLAUDE GENEST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le présent appel vise deux nouvelles cotisations établies en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi ») à l'égard de montants de plus de 45 000 $ transférés à l'appelante, durant les années 2005 à 2008, par son conjoint, Martin Tremblay, et provenant de l'entreprise à propriétaire unique de celui‑ci, Équinoxe gestion financière (« Équinoxe »), et d'une société appartenant à M. Tremblay, Équinoxe développement immobilier inc. (« Équinoxe immobilier »). L'appelante soutient qu'elle a donné une contrepartie correspondant à la juste valeur de ces montants, sous la forme de services de comptabilité et de soutien et de services administratifs donnés à l'entreprise Équinoxe de son conjoint.
+[2] L'appelante est comptable en management accréditée (CMA). Son conjoint était jusqu'à récemment comptable agréé. Il s'attend à être agréé de nouveau à l'avenir.
+[3] L'appelante et M. Tremblay ont témoigné pour l'appelante. L'agent des appels de l'Agence du revenu du Canada (l'« ARC ») a témoigné pour l'intimée. On peut trancher le présent appel sur le fondement de la nature et de la qualité des éléments de preuve présentés et de la crédibilité des témoins. Je peux immédiatement dire que je n'ai aucune préoccupation à l'égard de la crédibilité du témoin de l'intimée et de la fiabilité des éléments de preuve qu'il a présentés. Par contre, comme je l'expliquerai plus loin, j'ai effectivement des préoccupations au sujet de la fiabilité de la preuve de l'appelante et des témoignages de l'appelante et de M. Tremblay au sujet de la portée des services qui ont été rendus, et ainsi de la valeur de la contrepartie que l'appelante aurait fournie et pour laquelle elle aurait été rémunérée.
+[4] De façon générale, l'objectif et la portée de l'article 160 de la Loi sont d'empêcher un débiteur fiscal de transférer son argent ou ses avoirs à une personne avec laquelle il a un lien de dépendance, sauf si cette personne lui remet une contrepartie correspondant à leur juste valeur marchande. L'article protège le fisc et les Canadiens en général des contribuables qui transfèrent leurs avoirs à des personnes avec lesquelles ils ont un lien de dépendance afin de déjouer la perception de l'impôt.
+[5] L'appelante ne nie pas que les entreprises de M. Tremblay, Équinoxe et Équinoxe immobilier, lui ont transféré les sommes en cause. L'appelante et M. Tremblay ont témoigné que l'appelante n'a jamais fourni de services à Équinoxe immobilier et que M. Tremblay a fait en sorte qu'Équinoxe immobilier paie à l'appelante les services qu'elle avait rendus à Équinoxe.
+[6] Le fait que M. Tremblay ait eu une dette fiscale considérable à l'époque pertinente n'est pas en litige. Il a fait l'objet de nouvelles cotisations portant sur des revenus non déclarés de près d'un million de dollars pour les années en question. Durant la plupart de ces années, il a déclaré des revenus inférieurs à 1 000 $. Il a déclaré un revenu plus important au cours d'une année, mais il s'agissait d'un montant de moins de 5 000 $. En conséquence, l'ARC a établi de nouvelles cotisations à l'égard de l'appelante, puisqu'elle avait demandé une déduction au motif que son conjoint était à sa charge, et l'ARC a annulé des crédits pour la TPS auxquels n'ont droit que les familles ayant des revenus modestes. M. Tremblay a depuis déclaré faillite. Il a été accusé ou sera accusé d'évasion fiscale, l'infraction étant prévue à l'article 239 de la Loi. M. Tremblay a répondu aux questions de l'intimée lors du contre‑interrogatoire; il n'a pas refusé de répondre aux questions au sujet de ses difficultés fiscales et il n'a pas renvoyé à la Loi sur la preuve au Canada.
+[7] Les seules questions à trancher sont celles de savoir si des services ont été rendus en contrepartie des transferts et, le cas échéant, de déterminer la valeur de ces services. La valeur des services dépendra de leur nature et de leur portée.
+[8] L'appelante a témoigné qu'elle avait travaillé pour Équinoxe à temps partiel de janvier à mai 2005, lorsque leur troisième enfant est né. Elle est retournée au travail auprès de l’entreprise Équinoxe en 2007 et en 2008. Elle a déclaré qu'elle avait travaillé en moyenne deux ou trois heures par semaine pour Équinoxe durant les cinq premiers mois de 2005; elle fournissait surtout des services comptables aux clients d'Équinoxe. Ni l'appelante ni son conjoint n'ont présenté d'éléments de preuve écrit ou oral au sujet des noms des clients, des périodes, des projets ou des dates où les services comptables ont été fournis en 2005. En 2007, l'appelante fournissait surtout des services administratifs et des services de soutien à Équinoxe elle‑même; elle ne fournissait plus de services comptables et ne travaillait plus pour les clients de son époux. En 2008, elle a continué de fournir principalement des services administratifs et des services de soutien, mais elle a déclaré qu'elle travaillait de sept à dix heures par semaine cette année‑là. Elle se souvenait avoir effectué des recherches en vue de trouver un nouveau bureau, avoir rencontré le décorateur et avoir préparé un nouveau logotype commercial.
+[9] Ni l'appelante ni Équinoxe n'ont tenu de relevés contemporains du travail effectué, des heures de travail et des montants facturés. L'appelante ne pouvait plus se souvenir si elle avait informé son conjoint chaque semaine ou uniquement chaque année des heures de travail qu'elle estimait avoir effectuées : elle a fait les deux affirmations durant son témoignage. De même, elle ne se souvenait plus si elle avait estimé son revenu en calculant un montant annuel global qui semblait raisonnable, ou si le montant total qu'elle avait déclaré était la somme des produits des heures de travail raisonnables estimées et d'un taux horaire raisonnable.
+[10] Je ne doute nullement que l'appelante ait aidé l'entreprise Équinoxe de son conjoint au fil des ans. Toutefois, peu d'éléments de preuve établissent un lien entre les sommes transférées à l'appelante et le travail qu'elle a effectué. Il n'y a aucune corrélation entre les montants, les moments et les rapports.
+[11] Pendant les années en cause, l'appelante se fiait presque entièrement à son conjoint, M. Tremblay, pour toutes les questions commerciales, financières et fiscales. M. Tremblay préparait ses déclarations de revenus; elle les a peut‑être examinées de façon très sommaire avant de les signer. Par conséquent, son témoignage reposait en grande partie sur des suppositions, des conjectures, des estimations et des possibilités plutôt que sur des faits ou des souvenirs, en particulier pour ce qui est de la façon dont on a calculé les montants indiqués sur les déclarations de revenus. Cela restreint le poids que je peux accorder à une bonne partie de son témoignage. Cela fait aussi qu'il y a eu entre son témoignage et celui de M. Tremblay des incohérences graves qu'on ne peut expliquer de façon satisfaisante.
+[12] Il semble que l'appelante se trouve dans sa situation actuelle en grande partie parce qu’elle était de bonne foi, ayant cru à tort que M. Tremblay verrait convenablement à ses responsabilités et à ses intérêts commerciaux, financiers et fiscaux. Au pire, elle a fait preuve d'aveuglement volontaire quant aux habiletés et au zèle de M. Tremblay à ces égards.
+[13] Le faible poids que je peux donner au témoignage de l'appelante dans ces circonstances accroît l'importance de présenter des éléments de preuve à l'appui, par exemple des éléments de preuve documentaires ou des témoignages cohérents, clairs et dignes de foi d'autres personnes. Malheureusement, l'appelante ne peut fournir ces éléments de preuve.
+[14] Les éléments de preuve documentaires se limitent aux chèques par lesquels les montants ont été transférés à l'appelante et les déclarations de revenus de celle‑ci — l'intimée a déposé ces documents en preuve, ainsi que d'autres documents fiscaux portant sur l'appelante et sur M. Tremblay. Il n'existe pas de registres du travail qu'a fait l'appelante ou de ses heures de travail. Il n'y a pas de contrat écrit. On n'a pas décrit ou déposé en preuve des factures que M. Tremblay a envoyées à ses clients ou les montants qu'il leur a facturés pour le travail effectué par l'appelante. Si de tels éléments de preuve avaient existé, ils auraient pu aider la Cour à établir la nature, la portée et la valeur des services fournis.
+[15] Après avoir entendu le témoignage de M. Tremblay, j'ai décidé de n'accorder aucun poids aux éléments qui auraient pu aider l'appelante à établir la portée et la valeur des services qu'elle a fournis.
+[16] Monsieur Tremblay a préparé les déclarations de revenus de l'appelante. Il croit qu'elle ne les a aucunement examinées. Il a préparé un tableau des montants versés à l'appelante (pièce A‑1) dont le premier élément est un montant de 15 000 $ pour des services fournis à son entreprise que l'appelante aurait déclaré dans sa déclaration de revenus. En fait, l'intimée a clairement démontré, ce que l'appelante reconnaît maintenant, qu'elle n'a déclaré aucun montant en 2005 pour des services fournis à l'entreprise de M. Tremblay.
+[17] En outre, M. Tremblay n'a pu expliquer la cohérence des chiffres dans son tableau A‑1 sans devoir modifier ses réponses antérieures voulant que les déclarations de revenus fussent fondées sur des estimations très approximatives et sans devoir confondre la comptabilité de caisse et la comptabilité d'exercice, ou passer de l'une à l'autre. En fait, bien qu'il fût comptable agréé, il semble qu'il ne comprenait pas la différence entre la comptabilité de caisse et la comptabilité d'exercice, ou qu'il espérait que l'avocat de la Couronne et le juge ne la comprennent pas. (L'appelante n'a elle non plus pu dire si M. Tremblay utilisait la comptabilité de caisse ou la comptabilité d'exercice dans son tableau.)
+[18] Monsieur Tremblay a témoigné que l'appelante avait travaillé à un rythme constant de 2005 à 2008 : le nombre d'heures de travail était plus ou moins le même chaque semaine, soit moins de dix heures par semaine pendant toute la période. Pourtant, selon son tableau A‑1, l'appelante a gagné et déclaré 15 000 $ en 2005, 10 000 $ en 2007, et 25 000 $ en 2008. (On peut signaler que son souvenir ou sa méthode contredit le témoignage clair de l'appelante, qui a déclaré n'avoir pas travaillé en 2005 après la naissance de leur troisième enfant en mai.)
+[19] Il est devenu manifeste que les montants qui, selon le tableau A‑1, auraient été déclarés ne ressemblaient en rien aux montants qui avaient été payés à l'appelante. Les écarts étaient remarquables. L'appelante aurait gagné et déclaré 15 000 $ en 2005, mais elle n'a reçu que 2 000 $. En 2006, elle n'a fourni aucun service, mais elle a reçu plus de 16 000 $. En 2007, alors que le tableau indique que l'appelante a gagné et déclaré 10 000 $ (somme que M. Tremblay a changée pendant son témoignage à un gain de 6 725 $ et à un revenu déclaré de 10 000 $, pour tenir compte de sommes versées en trop au cours des années précédentes), l'appelante a reçu presque 17 000 $. Les montants pour 2008 n'étaient guère plus cohérents, pas plus que l'était le rapprochement entre les sommes totales gagnées et payées.
+[20] Ce n'est qu'après que l'avocat de la Couronne et le juge lui ont posé des questions que M. Tremblay a reconnu que, si l'on acceptait ses explications à l'égard de la façon dont le tableau indiquait les montants payés en trop au cours des années antérieures, les gains erronés et les montants déclarés, il aurait dû préparer des déclarations de revenus modifiées et demander à l'appelante de les déposer.
+[21] Les explications que M. Tremblay a données au sujet des erreurs du tableau n'ont fait que créer d'autres difficultés qu'il devait expliquer. Le témoignage corrigé de M. Tremblay voulant que l'appelante n'ait gagné que 6 725 $ en 2007 bien qu'elle ait déclaré 10 000 $ soulève des doutes quant à la précision soudaine des estimations annuelles approximatives des heures de travail de l'appelante et de leur valeur. Ni l'un ni l'autre montant ne se divise en parts égales par le taux estimatif de 30 $ l'heure.
+[22] Les explications qu'il a offertes ne sont ni satisfaisantes, ni raisonnables, ni cohérentes. Les réponses qu'il a données en tentant de résoudre ces problèmes n'étaient pas cohérentes entre elles ou avec le reste de son témoignage.
+[23] En réponse à une question directe du juge, M. Tremblay a répondu clairement qu'il n'y avait aucun écrit au sujet des services que l'appelante a fournis à son entreprise et que tout a été fait oralement. Plus tard, en réponse à une autre question, il a renvoyé à « la facturation », et, quand on lui a demandé de quelle facturation il s'agissait, il a décrit de façon claire que l'appelante et lui préparaient chaque année une facture écrite précisant les heures de travail, le taux horaire et le montant total. Il n'a pas apporté ces factures à l'audience. Il n'a pas expliqué comment ces factures écrites tenaient compte des écarts entre les montants gagnés et les montants versés au cours des années antérieures.
+[24] Monsieur Tremblay n'a pas voulu reconnaître que la déclaration qu'il avait préparée pour l'année d'imposition 2005 de l'appelante n'indiquait pas un revenu de 15 000 $ tiré du travail qu'elle avait fait pour son entreprise.
+[25] Le fait que M. Tremblay n'ait pu expliquer ou défendre un tableau de quatre lignes par trois colonnes qu'il avait préparé d'une façon qui concorde avec les déclarations de revenus réelles, le fait qu'il n'ait pu expliquer la façon dont il avait estimé les montants gagnés, le fait qu'il n'ait pas utilisé de façon cohérente la comptabilité de caisse ou la comptabilité d'exercice et le fait qu'il n'ait pas reconnu l'importance des factures écrites qui auraient été préparées après avoir témoigné que rien n'avait été fait par écrit m'amènent à conclure que je ne peux donner le moindre poids à son témoignage au sujet de la nature, de la portée ou de la valeur des services que l'appelante aurait fournis à son entreprise. Son témoignage n'était ni satisfaisant, ni digne de foi.
+[26] Les efforts de l'appelante et de M. Tremblay pour expliquer les écarts remarquables entre les revenus qu'ils ont déclarés à l'ARC et ceux qu'ils ont déclarés à leurs prêteurs, à leurs créanciers hypothécaires et à leurs locateurs au cours de cette période n'ont rien fait pour aider leur crédibilité.
+[27] Dans ces circonstances, je n'ai d'autre choix que de rejeter l'appel. Je ne suis pas sans éprouver de la compassion à l'égard de l’appelante étant donné la situation dans laquelle elle se trouve actuellement; cependant, il y a simplement trop peu d'éléments de preuve pour que la Cour puisse conclure, selon la prépondérance des probabilités, que l'appelante a fourni des services d'une valeur de près de 45 000 $ à l'entreprise de son conjoint, ou pour que la Cour puisse estimer la valeur des services que l'appelante aurait pu avoir rendus. Les cotisations sont valables et l'appelante en est responsable. La Loi lui donne un recours à l'encontre de M. Tremblay pour ces montants; le droit provincial peut lui accorder d'autres recours.
+[28] Vu les circonstances, notamment le fait que l'appelante n'a appris l'existence des cotisations et de l'appel que peu de temps avant l'audience, son époux l’ayant tenue dans l’ignorance à ces sujets, je ne condamnerai pas l'appelante aux dépens.
+Signé à Ottawa, Canada, ce 26e jour de mars 2015.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2015 CCI 76
+NO DU DOSSIER DE LA COUR :
+2013-595(IT)G
+INTITULÉ :
+MARIE‑CLAUDE GENEST c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 2 mars 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 26 mars 2015
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle‑même
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

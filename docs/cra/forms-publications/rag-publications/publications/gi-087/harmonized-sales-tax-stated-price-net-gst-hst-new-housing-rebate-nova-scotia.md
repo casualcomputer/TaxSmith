@@ -1,0 +1,134 @@
+---
+title: "Harmonized Sales Tax: Stated Price Net of GST/HST New Housing Rebate in Nova Scotia"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-087/harmonized-sales-tax-stated-price-net-gst-hst-new-housing-rebate-nova-scotia.html
+last_modified: 2021-09-22
+---
+# Harmonized Sales Tax: Stated Price Net of GST/HST New Housing Rebate in Nova Scotia
+
+GST/HST Info Sheet GI-087 June 2010
+
+The Government of Nova Scotia is increasing the provincial part of the harmonized sales tax (HST) from 8% to 10%, effective July 1, 2010. The HST rate in Nova Scotia will be 15% of which 5% represents the federal part and 10% the provincial part.
+
+The Government of Nova Scotia is also transferring the administration of the Nova Scotia new housing rebate in respect of the provincial part of the HST from the Canada Revenue Agency (CRA) to Service Nova Scotia and Municipal Relations.
+
+This info sheet reflects tax changes included in the *Nova Scotia HST Regulations, 2010*.
+
+This info sheet explains how to determine the consideration payable for new housing in Nova Scotia where a builder's price includes the HST at 15% and is net of the GST/HST new housing rebate in respect of the federal part of the HST credited by the builder to the purchaser, but is **not** net of the Nova Scotia new housing rebate.
+
+For information on the definitions of builder, residential complex, residential condominium unit, single unit residential complex and substantial renovation, for GST/HST purposes, refer to [GST/HST Guide RC4052, GST/HST Information for the Home Construction Industry](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4052.html), and [GST/HST Info Sheet GI-005, Sale of a Residence by a Builder Who is an Individual](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-005.html). These publications explore many of these important terms and concepts. Others are explained in [GST/HST Memorandum 19.2, Residential Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-2.html).
+
+## GST/HST new housing rebate
+
+Where certain conditions are met, the purchaser of a newly constructed or substantially renovated single unit residential complex or residential condominium unit may be entitled to claim a GST/HST new housing rebate in respect of the federal part of the HST paid on such housing. Purchasers in Nova Scotia may also be entitled to claim a Nova Scotia new housing rebate in respect of the provincial part of the HST paid on such housing. Refer to [GST/HST Guide RC4028, GST/HST New Housing Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4028.html), for details on these rebates.
+
+## Old rule: HST at 13%
+
+The purchaser and the builder may agree to have the builder pay or credit to the purchaser both the amount of the GST/HST new housing rebate in respect of the federal part of the HST and the Nova Scotia new housing rebate (or only the Nova Scotia new housing rebate if the purchaser is not entitled to claim the GST/HST new housing rebate because the maximum threshold for this rebate was exceeded).
+
+In this case, the purchaser does not have to submit a rebate application directly to the CRA. The purchaser will sign the rebate application and provide it to the builder who is required to send the rebate application to the CRA when the builder claims a deduction in its net tax calculation for the amount of the rebate. The deduction must be taken in the net tax calculation for the reporting period during which the rebate amount was paid or credited to the purchaser.
+
+The "old rule" will continue to apply where the written agreement of purchase and sale for:
+
+- a single unit residential complex or residential condominium unit;
+
+- a share in a housing co-operative; or
+
+- the building part of a single unit residential complex or residential condominium unit together with a lease of the related land under that same agreement,
+
+was entered into on or before April 6, 2010, or in the case of an agreement entered into after that date, either ownership or possession of the complex or unit (or in the case of a share in a housing co-operative, ownership of the share) transfers, under the agreement, to the purchaser before July 1, 2010.
+
+If the old rule applies, refer to [GST/HST Memorandum 19.3.8.1, New Housing Rebates and HST at 13%](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/19-3-8-1.html), for the related calculations of the consideration, the HST payable, and any available GST/HST new housing rebate and Nova Scotia rebate amounts.
+
+## New rule: HST at 15%
+
+The purchaser and the builder may agree to have the builder pay or credit the amount of the GST/HST new housing rebate in respect of the federal part of the HST to the purchaser.
+
+In this case, the purchaser does not have to submit a rebate application directly to the CRA. The purchaser will sign the rebate application and provide it to the builder who will be required to send the rebate application to the CRA when the builder claims a deduction in its net tax calculation for the amount of the rebate. The deduction must be taken in the net tax calculation for the reporting period during which the rebate amount was paid or credited to the purchaser.
+
+Service Nova Scotia and Municipal Relations will assume responsibility for Nova Scotia new housing rebate claims for sales of:
+
+- new housing together with land,
+
+- sales of new housing together with leased land, and
+
+- shares in a housing co-operative,
+
+where the written agreement of purchase and sale is entered into after April 6, 2010, unless ownership or possession of the housing (or in the case of a share in a housing co-operative, ownership of the share) is transferred before July 1, 2010.
+
+Under the new rule, a builder cannot pay or credit the Nova Scotia new housing rebate to the purchaser. The purchaser must file a separate rebate application directly with Service Nova Scotia and Municipal Relations.
+
+The information in the rest of this info sheet applies only where the new rule applies.
+
+## Stated price net of rebate
+
+In this info sheet, the "stated price" is the amount the purchaser agrees to pay the builder for the housing. The stated price includes the HST payable at 15% on the purchase of the housing.
+
+The "stated price net of rebate" means the stated price for the housing net of any GST/HST new housing rebate in respect of the federal part of the HST credited by the builder.
+
+The "consideration" payable for the purchase of the housing is the amount to be paid for the housing before any calculation of the tax payable and new housing rebate entitlement for the purchaser.
+
+Where a stated price net of rebate is used, a calculation must be made to determine the value of the consideration payable for the housing. The value of the consideration must be calculated before the tax payable can be determined. Similarly, the tax payable must be calculated before the amount of the rebate can be determined.
+
+A separate formula is used to calculate the consideration within each of two price ranges. These are set out below.
+
+## Conditions
+
+The formulas in this info sheet can **only** be used if **all** of the following conditions are met:
+
+- the purchaser is buying a newly constructed or substantially renovated single unit residential complex or residential condominium unit from a builder, together with the related land;
+
+- the housing is situated in Nova Scotia;
+
+- HST at 15% applies to the sale;
+
+- the purchaser meets the conditions for claiming the GST/HST new housing rebate in respect of the federal part of the HST;
+
+- the builder credits the GST/HST new housing rebate in respect of the federal part of the HST to the purchaser; and
+
+- the builder and the purchaser have agreed to a stated price net of the GST/HST new housing rebate in respect of the federal part of the HST.
+
+## Calculating the consideration payable
+
+The formula to be used for a particular sale depends on the builder's stated price net of rebate as follows.
+
+### Formula #1
+
+**Stated price net of rebate (SPNR) is not more than $396,200**(meaning that the consideration is not more than $350,000):
+
+**Consideration = SPNR ÷ 1.132**
+
+The stated price net of rebate is $370,000 and all of the above conditions are satisfied. The consideration will be calculated as follows:
+
+**Consideration** = $370,000 ÷ 1.132 = $326,855.12
+
+Once the consideration is determined the tax payable and the new housing rebate may be calculated.
+
+**HST payable** = $326,855.12 x 15% = $49,028.27
+
+**GST new housing rebate in respect of the federal part of the HST** = ($326,855.12 x 5%) x 36% = $5,883.39
+
+If the purchaser is entitled to claim the Nova Scotia new housing rebate, the purchaser must obtain a rebate application from, and submit it to, Service Nova Scotia and Municipal Relations.
+
+### Formula #2
+
+**Stated price net of rebate (SPNR) is more than $396,200 and not more than $517,500**(meaning that the consideration is more than $350,000 and not more than $450,000):
+
+**Consideration = (SPNR + $28,350) ÷ 1.213**
+
+The stated price net of rebate is $500,000 and all of the above conditions are satisfied. The consideration will be calculated as follows:
+
+**Consideration** = ($500,000 + $28,350) **÷**1.213 = $435,572.96
+
+Once the consideration is determined the tax payable and the new housing rebate may be calculated.
+
+**HST payable** = $435,572.96 x 15% = $65,335.94
+
+**GST new housing rebate in respect of the federal part of the HST** = $6,300 x [($450,000 - $435,572.96)] ÷ $100,000 = $908.90
+
+If the purchaser is entitled to claim the Nova Scotia new housing rebate, the purchaser must obtain a rebate application from, and submit it to, Service Nova Scotia and Municipal Relations.
+
+This info sheet does not replace the law found in *the Excise Tax Act* (the Act) and its regulations. It is provided for your reference. As it may not completely address your particular operation, you may wish to refer to the Act or appropriate regulation, or contact any CRA GST/HST Rulings Centre for additional information. A ruling should be requested for certainty in respect of any particular GST/HST matter. Pamphlet RC4405, [GST/HST Rulings – Experts in GST/HST Legislation](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4405.html), explains how to obtain a ruling and lists the GST/HST Rulings Centres. If you wish to make a technical enquiry on the GST/HST by telephone, please call 1-800-959-8287.
+
+If you are located in Quebec and wish to make a technical enquiry or request a ruling related to the GST/HST, please contact Revenu Québec by calling 1-800-567-4692. You may also visit their Web site at [www.revenu.gouv.qc.ca](http://www.revenuquebec.ca/en/default.aspx) to obtain general information.
+
+All technical publications related to GST/HST are available on the CRA Web site at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

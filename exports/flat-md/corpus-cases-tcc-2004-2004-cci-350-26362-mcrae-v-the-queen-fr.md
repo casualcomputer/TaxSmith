@@ -1,0 +1,387 @@
+---
+title: "McRae v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26362/index.do"
+last_modified: "2004-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 350"
+citation2: ""
+neutral_citation: "2004 CCI 350"
+decision_date: "2004-05-18"
+language: "fr"
+item_id: "26362"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3375
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:27:05.174000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c9cbebfb4dbd5ef820e2d9c376b2c12e73d030599fbaac1e9be2ce69c6382dc3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McRae v. The Queen
+
+- Citation: 2004 CCI 350
+- Decision date: 2004-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3375, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McRae v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-18
+Référence neutre
+2004 CCI 350
+Numéro de dossier
+2003-4627(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4627(IT)I
+ENTRE :
+MARK McRAE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 29 avril 2004, à Toronto (Ontario).
+Devant : M. le juge en chef adjoint Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Lorraine Edinboro
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que les appels interjetés à l'égard des cotisations établies sous le régime de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998, 1999 et 2000 soient rejetés.
+Signé à Montréal (Québec), ce 18e jour de mai 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 23e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI350
+Date : 20040518
+Dossier : 2003-4627(IT)I
+ENTRE :
+MARK McRAE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowman
+[1] Il s'agit d'appels interjetés à l'égard des cotisations visant les années d'imposition 1997, 1998, 1999 et 2000 de l'appelant. Par ces cotisations, le ministre du Revenu national a réduit les pertes agricoles de l'appelant en les faisant passer à 8 750 $ conformément à l'article 31 de la Loi de l'impôt sur le revenu. La question en litige est celle de savoir si la prémisse sur laquelle le ministre s'est appuyé pour mettre en application l'article 31 - soit que le revenu de l'appelant, pour ces années d'imposition, ne provenait principalement ni de l'agriculture ni d'une combinaison de l'agriculture et de quelque autre source - était fondée.
+[2] Le contexte dans lequel les cotisations ont été établies peut se résumer ainsi : l'appelant a initialement omis de produire des déclarations de revenus pour les années en cause. Le ministre a donc établi des cotisations à l'égard de l'appelant à la lumière des renseignements dont il disposait. Cela semble avoir poussé l'appelant à produire des déclarations, et le ministre a par la suite établi de nouvelles cotisations tenant compte des renseignements donnés dans les déclarations.
+[3] L'appelant est comptable agréé, et sa seule source de revenu concret consistait en le revenu d'emploi qu'il gagnait à titre de comptable chez Monsanto Canada Inc. ainsi qu'en les retraits effectués de son REER, comme il est mentionné dans la réponse à l'avis d'appel. Ce revenu variait entre 70 000 $ et plus de 100 000 $ par année.
+[4] La réponse fait en outre état des pertes agricoles déclarées suivantes :
+Année d'imposition
+Revenu d'agriculture brut
+Revenu d'agriculture net (perte)
+1988
+13 991,00 $
+(1 384,00 $)
+1989
+11 766,00 $
+(1 812,00 $)
+1990
+1 478,00 $
+(2 983,00 $)
+1991
+?
+(1 483,00 $)
+1992
+47 407,00 $
+3 326,00 $
+1993
+45 266,00 $
+(1 308,00 $)
+1994
+18 614,00 $
+(2 329,00 $)
+1995
+64 953,00 $
+(4 354,00 $)
+1996
+106 482,00 $
+1 618,00 $
+1997
+47 027,02 $
+(23 329,12 $)
+1998
+32 766,40 $
+(28 090,54 $)
+1999
+12 938,07 $
+(40 526,68 $)
+2000
+24 655,83 $
+(38 854,68 $)
+[5] Ces données sont tirées des états financiers de Jones & McRae Racing Partnership, une société de personnes appartenant à parts égales à l'appelant et à M. Jones aux dires de l'appelant. Les sommes inscrites ci-dessus concernent la société de personnes, et l'appelant ne serait donc en droit de déduire que la moitié des pertes. Les sommes mentionnées au titre du revenu brut figurent également dans ses déclarations de revenus, mais les pertes réclamées sont différentes. Pour 1997 à 2000 inclusivement, les pertes déduites par l'appelant s'élevaient à 18 870 $, à 28 004 $, à 27 475 $ et à 33 458 $. L'appelant affirme que cette différence tient aux réajustements qu'il a effectués lorsqu'il est passé d'une comptabilité d'exercice à une comptabilité de caisse. Même si ces précisions aident à comprendre la situation, elles n'expliquent pas tout. La différence observée est également attribuable à la façon plutôt singulière et, à mon sens, arbitraire dont l'appelant a réparti les revenus et les pertes entre lui et son associé à parts égales, de même qu'au fait que l'appelant a inscrit comme une dépense liée au salaire versé à son associé des retraits dont il a lui-même bénéficié. Il n'est pas nécessaire que je me prononce sur cette question compte tenu de la conclusion que j'ai tirée, mais si j'avais été disposé à accorder à l'appelant la totalité de ses pertes agricoles, j'aurais eu bien du mal à déterminer exactement en quoi consistaient ces pertes.
+[6] Le revenu de l'appelant provenait-il principalement de l'agriculture ou d'une combinaison de l'agriculture et de quelque autre source? Au cours des cinquante dernières années, plus d'encre a coulé sur ce sujet que sur pratiquement toute autre question fiscale au Canada. L'arrêt de principe à cet égard est évidemment Moldowan c. Canada, [1977] C.T.C. 310, [1978] 1 R.C.S. 480. Dans cet arrêt, le juge Dickson, qui s'exprimait au nom de la Cour suprême du Canada, s'est efforcé de trouver un sens au paragraphe 13(1) (maintenant le paragraphe 31(1)) de la Loi de l'impôt sur le revenu. Les passages suivants comptent parmi les plus souvent cités :
+[13] Déterminer si une source de revenu est la principale « source » de revenu d'un contribuable suppose un test à la fois relatif et objectif. Ce n'est incontestablement pas une simple question de proportion. Celui qui a exploité une ferme toute sa vie ne cesse pas d'en tirer sa principale source de revenu du simple fait qu'il a inopinément gagné à la loterie. Ce qui distingue la principale « source » de revenu du contribuable, c'est l'expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l'égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d'un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+[14] Les opinions diffèrent sur la question de savoir si le mot « combinaison » utilisé au paragraphe 13(1) implique un « rapport » de connexité matérielle, une intégration ou une interrelation entre l'agriculture et l'activité accessoire qui fournit une autre source de revenu. L'alinéa 3f) de la Loi de l'impôt de guerre sur le revenu de 1917, et ses modifications, parle de « rapport » lorsqu'il définit ce qui peut être déduit du revenu tiré de l'industrie ou affaire principale, du commerce, de la profession ou de la vocation du contribuable, en déterminant son revenu imposable. Voici le libellé de l'al. 3f) :
+f) les déficits ou pertes subies dans des opérations entreprises dans un but de profit, mais n'ayant aucun rapport avec l'industrie ou affaire principale, le commerce, la profession ou la vocation du contribuable, ne doivent pas être déduites du revenu tiré de l'industrie ou affaire principale, du commerce, de la profession ou de la vocation du contribuable, en déterminant son revenu imposable.
+On ne retrouve pas le mot « rapport » à l'art. 13 de la présente Loi. Comme l'a dit le président Thorson dans un obiter dictum, dans Simpson c. Le ministre du Revenu national, [1961] C.T.C. 174, 61 D.T.C. 1117, rien ne justifie pareille limitation. Je partage ce point de vue. Voir également Dorfman c. Le ministre du Revenu national, précité, à la p. 154 [6134], et Bert James c. Le ministre du Revenu national, [1973] C.T.C. 457, à la p. 464, 73 D.T.C. 5333, à la p. 5337.
+[15] Il est clair que le mot « combinaison » utilisé à l'article 13 ne vise pas la simple addition des deux sources de revenu d'un contribuable. En ce cas en effet, un contribuable pourrait combiner les pertes provenant de son exploitation agricole et sa plus importante source de revenu, constituant de ce fait sa principale source. Je ne pense pas que ce soit la bonne interprétation du paragraphe 13(1). En réalité, cela signifierait que la limite prévue à cet article ne serait jamais applicable et que, dans chaque cas, le contribuable pourrait déduire l'intégralité des pertes provenant de son exploitation agricole.
+Les autres passages pertinents de l'arrêt Moldowan, qui sont reproduits plus loin, ont été cités dans la décision Paquette.
+[7] En l'espèce, il ne fait aucun doute que le contribuable se passionne pour l'élevage et les courses de chevaux. Les chevaux de course constituent pour lui un centre d'intérêt important dans sa vie. Néanmoins, ils ne lui fournissent pas un moyen de subsistance et, s'il faut en croire l'historique de l'exploitation de cette entreprise depuis 1988, ils ne le feront vraisemblablement jamais. Il doit s'en remettre à son emploi de comptable chez Monsanto à cet égard. De 1988 à 2000, l'appelant (ou la société de personnes constituée en 1991) n'a réalisé un faible profit que pendant deux années. Il travaillait à plein temps pour Monsanto. Le capital qu'il a investi dans la ferme était relativement modeste. En 1999, il a fourni un capital de 15 296 $; en 1998, de 17 956 $; en 1999, de 8 550 $ et en 2000, de 443 $. Étrangement, son associé à parts égales, Harry Jones, a contribué des sommes différentes et ses retraits étaient eux aussi différents.
+[8] Dans la décision Paquette v. The Queen, [2000] 3 C.T.C. 2714, j'ai examiné la situation de conjoints qui se consacraient à plein temps à l'agriculture, mais qui devaient travailler à l'extérieur de la ferme pour gagner un revenu supplémentaire, en partie pour financer leur exploitation agricole.
+[9] Compte tenu des nombreux arguments avancés par l'appelant en l'espèce, j'exposerai le raisonnement suivi dans cette affaire puisqu'il illustre le genre de situations auxquelles, à mon avis, le paragraphe 31(1) ne s'applique pas.
+[9] Les deux affaires suivantes sont indifférenciables à tous égards importants de la cause des Paquette : Martin c. La Reine, C.C.I., no 94-1025(IT)G, 21 septembre 1995 (96 DTC 1915), et Miller c. La Reine, C.C.I., no 98-80(IT)G, 4 novembre 1999 (2000 DTC 1502). Dans l'affaire Miller, il a été dit ce qui suit :
+[2] Pour les motifs énoncés ci-dessous, j'ai conclu que M. Miller est en droit de déduire toutes les pertes provenant de son entreprise agricole dans les années en question. La limite imposée par le paragraphe 31(1) ne s'applique pas dans son cas.
+[3] La présente cause me rappelle d'une façon frappante celle de Martin v. The Queen, 96 DTC 1915, que j'ai réglée il y a trois ans.
+[4] M. Martin avait toujours été agriculteur, mais avait dû en même temps enseigner dans une école pour être en mesure de continuer à exploiter sa ferme. M. Miller est un agriculteur à temps plein qui doit travailler au magasin Safeway à Regina pour être capable de conserver et d'exploiter la ferme familiale dans laquelle il a grandi. Il a toujours travaillé à la ferme et l'a achetée de son père en 1980.
+[5] Dans l'affaire Martin, j'ai énoncé les principes fondamentaux que j'ai appliqués dans cette cause et que je me propose d'appliquer en l'espèce. Aux pages 1916 et 1917, j'ai dit ce qui suit :
+Chaque affaire qui porte sur le paragraphe 31(1) de la Loi est un cas d'espèce. Avant d'examiner les faits, il est opportun d'énoncer brièvement les principes fondamentaux qui s'appliquent dans les affaires de ce genre. Le premier de ces principes, selon l'arrêt Moldowan c. La Reine, 77 DTC 5213 [[1978] 1 R.C.S. 480], est qu'au Canada, les agriculteurs sont rangés, aux fins de l'impôt sur le revenu, dans trois catégories : les agriculteurs à plein temps, les agriculteurs à temps partiel et les agriculteurs pour lesquels cette activité constitue un passe-temps. Voici les remarques que le juge Dickson a faites à ce sujet, à la page 5216 [487-488] :
+À mon avis, la Loi de l'impôt sur le revenu envisage dans son ensemble trois catégories d'agriculteurs :
+(1) le contribuable qui peut raisonnablement s'attendre à tirer de l'agriculture la plus grande partie de son revenu ou à ce que ce soit le centre de son travail habituel. Ce contribuable, dont l'agriculture est le gagne-pain, est exempté de la limite imposée par le par. 13(1) pour les années où il subit des pertes provenant de son exploitation agricole;
+(2) le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne-pain mais pour qui l'exploitation d'une ferme est une entreprise secondaire. Ce contribuable a droit aux déductions prévues au par. 13(1) au titre des pertes provenant d'une exploitation agricole;
+(3) le contribuable qui ne considère pas l'agriculture, ou l'agriculture et une source secondaire de revenu, comme son gagne-pain et qui poursuit une activité agricole comme passe-temps. Les pertes de ce contribuable provenant de son exploitation agricole qui ne constitue pas une entreprise, ne sont pas déductibles.
+Le paragraphe 13(1) suppose l'existence d'un contribuable qui tire son revenu de l'agriculture et de quelque autre source et il renvoie donc à la 1re catégorie. Il vise une personne dont l'agriculture est la préoccupation majeure, tout en tenant compte de ses autres intérêts pécuniaires, comme un revenu provenant d'un investissement, d'un emploi ou d'une entreprise secondaire. L'article prévoit que ces intérêts subsidiaires ne placent pas le contribuable dans la 2e catégorie : le montant déductible pour perte n'est dont [sic] pas limité à 5 000 $. Bien que la proportion du revenu provenant de l'agriculture soit pertinente, elle n'est pas en elle-même décisive. Le test est à la fois relatif et objectif et on peut utiliser les critères indicatifs de la principale « source » de revenu pour discerner s'il s'agit ou non d'un intérêt auxiliaire. Une personne qui a exploité une ferme toute sa vie ne cesse pas d'appartenir à la 1re catégorie uniquement parce qu'elle reçoit un héritage. D'autre part, une personne qui change de travail et concentre ses forces et ses capitaux dans l'agriculture avec l'espoir d'en tirer son revenu principal ne perd pas son droit de déduire la totalité de ses frais d'établissement.
+Aux pages 5215-5216 [486], le juge Dickson a également fait l'observation suivante :
+Déterminer si une source de revenu est la principale « source » de revenu d'un contribuable suppose un test à la fois relatif et objectif. Ce n'est incontestablement pas une simple question de proportion. Celui qui a exploité une ferme toute sa vie ne cesse pas d'en tirer sa principale source de revenu du simple fait qu'il a inopinément gagné à la loterie. Ce qui distingue la principale « source » de revenu du contribuable, c'est l'expectative raisonnable de revenu en provenance des diverses sources, ainsi que ses habitudes et sa façon coutumière de travailler. On peut analyser ces éléments, notamment à l'égard de chaque source de revenu, en examinant le temps consacré à celle-ci, les capitaux engagés et la rentabilité présente et future. Un changement dans les habitudes ou la façon de travailler d'un contribuable ou dans ses expectatives raisonnables peut indiquer une modification de la principale source de revenu, mais cela demeure une question de fait dans chaque cas.
+Selon le deuxième principe, les facteurs que le juge Dickson a mentionnés doivent être appréciés dans leur ensemble, et il n'y a pas lieu de les dissocier. Dans l'arrêt The Queen v. Morrissey, 89 DTC 5080 [[1989] 2 C.F. 418], le juge Mahoney, au nom de la majorité de la Cour, a déclaré, à la page 5084 [428] :
+En toute déférence, je n'estime pas que l'arrêt Moldowan propose de dissocier les facteurs pertinents tout à fait de la façon dont l'a fait le juge de première instance. La discussion dans l'arrêt Moldowan débute comme suit :
+Déterminer si une source de revenu est la principale « source » de revenu d'un contribuable suppose un test à la fois relatif et objectif. Ce n'est incontestablement pas une simple question de proportion.
+L'arrêt Moldowan dit aussi, en parlant de la différence entre la première et la deuxième catégories, « Bien que la proportion du revenu provenant de l'agriculture soit pertinente, elle n'est pas en elle-même décisive » . Bien que la conclusion que l'agriculture constitue une principale source de revenu ne soit pas une simple question de proportion, ce n'est pas davantage une conclusion qui peut être tirée abstraction faite de toute proportion.
+Dans les arrêts Connell v. The Queen, 92 DTC 6134 et The Queen v. Poirier, 92 DTC 6335, la Cour d'appel fédérale a souscrit à cet avis. Dans ce dernier arrêt, la Cour a déclaré, à la page 6336 :
+Il faut se rappeler que tous les facteurs doivent être appréciés dans leur ensemble et qu'il n'y a pas lieu de les dissocier.
+De ce qui précède, il est clair qu'en déterminant si la principale source de revenu d'une personne provient de l'agriculture ou non, aucun facteur unique - le temps consacré à l'entreprise, le mode de vie, la rentabilité, les capitaux engagés - ne peut être considéré comme déterminant. Aucun facteur unique - qu'il existe ou non - ne peut être considéré comme régissant à lui seul le cas.
+[...]
+L'agriculture a eu pour M. Martin - et j'ose dire, pour les agriculteurs partout au Canada - des hauts et des bas. La sécheresse, les incendies, la pluie excessive, la fluctuation des prix et la montée en flèche des coûts mangeaient une partie du revenu. Pourtant, M. Martin tient bon encore, comme de nombreux autres agriculteurs qui font partie intégrante du tissu économique canadien.
+Quel est le tableau d'ensemble qui se dégage? Celui d'un agriculteur canadien typique, non d'un riche membre d'une profession libérale ou d'un riche cadre qui s'occupe d'élevage de bovins ou de chevaux exotiques dans le but de rehausser sa position sociale, mais celui d'un agriculteur canadien travailleur qui nettoie les étables, récolte le grain, répare la machinerie, soigne les vaches et les porcs malades et fait face aux tragédies et revers, importants ou non, dont sont victimes les agriculteurs depuis des milliers d'années. M. Lockwood a décrit l'appelant comme un agriculteur qui enseigne et non comme un enseignant qui s'occupe d'agriculture, et je crois que cette description est exacte. L'envergure de l'entreprise agricole de M. Martin se comparait à celle de personnes qui ne s'occupent que d'agriculture et qui n'ont pas d'autre métier. Pourquoi lui a-t-on refusé la déduction des pertes qu'il a subies? Parce qu'il exerçait un autre emploi qui lui permettait de se livrer à plein temps à l'agriculture. Quel que soit le type de personne visée par le paragraphe 31(1), ce n'est pas M. Martin. Quels que soient l'objet et l'esprit du paragraphe 31(1), ils ne visent pas à détruire l'armature de notre collectivité agricole.
+Le mode de vie de M. Martin, son engagement au point de vue du temps consacré et des capitaux investis, et le fait qu'il se consacrait à l'agriculture portent à conclure que, d'une façon inexorable, il se livrait à plein temps à l'agriculture et qu'il appartenait à la première catégorie énoncée dans l'arrêt Moldowan. Pourtant, la Couronne lui refuserait la déduction en se fondant sur un seul facteur, le manque de rentabilité. Ce facteur ne peut pas déterminer l'issue de l'affaire, et ce, pour deux raisons. En premier lieu, bien que ce facteur ait été invoqué à titre d'allégation distincte, la Couronne n'a pas insisté sur la question de la soi-disant « absence d'expectative raisonnable de profit » et n'a présenté aucune preuve à l'appui. Je dois donc supposer, comme M. Martin l'a sans aucun doute fait, qu'il existait une expectative raisonnable de profit.
+Fait encore plus important, en laissant ce facteur l'emporter sur tous les autres facteurs, on ne tiendrait pas compte des principes que la Cour d'appel fédérale a énoncés dans des arrêts tels que Morrissey, Poirier, et Connell, selon lesquels aucun facteur ne peut, à lui seul, être déterminant.
+[6] J'examine maintenant les faits en l'espèce. M. Miller a 52 ans. Il est né et a grandi à la ferme qu'il exploite actuellement. Il a commencé très tôt à effectuer les travaux propres à son âge - enlever les pierres, utiliser les instruments aratoires, semer, herser, conduire la moissonneuse-batteuse, faire les foins, conduire le camion, garder le bétail - tous des types de tâches normalement confiées au jeune garçon grandissant dans une ferme et faisant partie de l'unité familiale qui exploite la ferme - un phénomène typiquement canadien qui dure depuis des générations.
+[10] Après cette description sommaire, j'avais donné certains détails financiers sur l'entreprise de M. Miller. La situation ressemble beaucoup à celle de M. et Mme Paquette.
+[7] En 1980, l'appelant a pris en charge la ferme familiale qui comprenait alors trois quarts de section.
+[8] Je reproduis ci-dessous les paragraphes 6 à 20 de l'avis d'appel. Ils ont été admis ou sont étayés par la preuve. Ils démontrent le capital que M. Miller a engagé dans l'exploitation agricole :
+6. Au 1er janvier 1993, l'appelant avait des immobilisations importantes dans son entreprise agricole :
+Description FNACC d'ouverture
+catégorie 6........................
+16 797,57 $
+catégorie 8........................
+29 763,65 $
+catégorie 10......................
+24 636,01 $
+7. En 1993, l'appelant a acheté les immobilisations suivantes :
+Description ($)
+Moissonneuse-batteuse.....
+40 915,00 $
+Coffre à grains..................
+6 303,60 $
+Chariot à grains.................
+15 200,00 $
+Tracteur Case...................
+74 665,00 $
+8. Le 31 décembre 1993, l'appelant avait les dettes suivantes :
+Description ($)
+Banque de Montréal.........
+44 593,61 $
+Marge de crédit................
+56 525,36 $
+9. En 1994, l'appelant a acheté les immobilisations suivantes :
+Description ($)
+Bâtiment Quonset en acier. 13 950,00 $
+Applatisseur d'andains......
+650,00 $
+Andaineuse.......................
+17 013,00 $
+Coupe-herbe....................
+399,98 $
+Butoir de 28 pi..................
+575,00 $
+Téléphone cellulaire...........
+545,00 $
+10. Le 31 décembre 1994, l'appelant avait les dettes suivantes :
+Description ($)
+Case.................................
+35 629,48 $
+Marge de crédit................
+64 062,45 $
+11. En 1995, l'appelant a acheté les immobilisations suivantes :
+Description ($)
+Vis de balayage................
+1 474,98 $
+Tourets-bobineurs.............
+3 550,00 $
+Râteau à foin.....................
+5 049,00 $
+12. Le 31 décembre 1995, l'appelant avait les dettes suivantes :
+Description ($)
+Case.................................
+26 543,63 $
+Marge de crédit................
+55 518,47 $
+13. En 1996, l'appelant a acheté les immobilisations suivantes :
+Description ($)
+Compartiments
+de stockage......................
+11 651,00 $
+Fraise d'abattage..............
+3 650,96 $
+Giro-tondeuse...................
+425,00 $
+Tracteur de jardin.............
+2 600,00 $
+14. Le 31 décembre 1996, l'appelant avait les dettes suivantes :
+Description ($)
+Case.................................
+15 000,00 $
+Marge de crédit................
+46 200,00 $
+15. Au 31 décembre 1996, l'appelant avait des immobilisations importantes dans son entreprise agricole :
+Description FNACC de clôture
+catégorie 6........................
+32 823,88 $
+catégorie 8........................
+45 592,62 $
+catégorie 10......................
+27 460,47 $
+16. L'appelant n'avait aucun régime enregistré d'épargne-retraite parce qu'il avait investi tout son capital de retraite dans l'entreprise agricole.
+17. L'appelant avait besoin du revenu qu'il tirait de son emploi chez Safeway pour financer l'achat des immobilisations qui étaient nécessaires à l'entreprise agricole. Le revenu d'emploi de l'appelant a diminué en 1996. Il n'a pu fournir le rendement qui lui aurait permis d'obtenir un boni en raison du temps qu'il devait passer à la ferme plutôt qu'à Safeway.
+18. Le revenu agricole brut de l'appelant s'établit comme suit :
+Année d'imposition ($)
+1993................................
+74 426,76 $
+1994................................
+86 432,59 $
+1995................................
+79 786,16 $
+1996................................
+60 310,00 $
+19. Le revenu agricole brut de l'appelant s'établit comme suit :
+Année d'imposition ($)
+1993................................
+33 365,21 $
+1994................................
+33 689,83 $
+1995................................
+22 057,23 $
+1996................................
+40 509,63 $
+20. La perte agricole de l'appelant s'établit comme suit :
+Année d'imposition ($)
+1993................................
+(40 802,00 $)
+1994................................
+(37 226,81 $)
+1995................................
+(50 798,36 $)
+1996................................
+(23 367,18 $)
+[9] Il importe de remarquer qu'une partie substantielle des pertes annuelles provient de la déduction pour amortissement réclamée par l'appelant à l'égard de la machinerie et du matériel agricoles qu'il a achetés. Ironiquement, plus il investit de capital dans l'entreprise agricole plus ses pertes sont importantes. L'appelant réinvestit dans la ferme tous ses remboursements d'impôt. Selon l'avocat de l'intimée, je devrais tirer de ce fait une conclusion défavorable. D'après moi, je suis justifié de tirer précisément la conclusion contraire.
+[10] La ferme est à une heure et quart de route environ de Regina. M. Miller, son épouse et son fils passent virtuellement tout leur temps à la ferme quand ils ne travaillent pas au magasin Safeway. Ils forment une famille d'agriculteurs typique, dont tous les membres - l'appelant, son épouse, Ardis, et son fils, Scott, - travaillent en équipe. Depuis qu'il a pris en charge les trois premiers quarts de section, M. Miller vise à agrandir la ferme et c'est ce qu'il a fait. Il a acheté deux quarts de section en 1997, deux quarts de section en 1999 et cinq autres en mai 1999. Pour acheter, l'appelant a emprunté mais il a surtout levé ses options sur les actions de Safeway.
+[11] Son objectif depuis qu'il a pris en charge la ferme familiale en 1980 était de l'agrandir comme il l'a fait. Il n'aurait pas été en mesure de continuer à exploiter la ferme ni d'y investir du capital pour l'agrandir sans l'argent qu'il obtenait en travaillant ailleurs.
+[12] J'ai été favorablement impressionné par sa connaissance profonde de tous les aspects de l'agriculture dans l'Ouest canadien, notamment des produits de fertilisation, des instruments aratoires, des questions économiques et de la rotation des cultures. Son fils, à qui l'appelant a l'intention de donner la ferme quand il prendra sa retraite, compte prendre en charge l'exploitation agricole au moment opportun et il étudie actuellement l'agriculture tout en travaillant à la ferme.
+[13] Il ressort des éléments de preuve que nous avons affaire à une famille traditionnelle d'agriculteurs de la Saskatchewan profondément dévoués et attachés à la terre et déterminés à poursuivre cette tradition malgré les difficultés telles que les sécheresses, les inondations et la baisse des prix éprouvées par les agriculteurs au Canada au cours des dernières années, tout particulièrement dans l'Ouest.
+[14] Rares sont les affaires où il y a moins d'hésitation que dans d'autres à statuer que l'article 31 est inapplicable. C'était le cas dans l'affaire Martin. Il n'y a pas le moindre doute que c'est également le cas avec M. Miller. M. Miller est un agriculteur à temps plein qui doit travailler ailleurs pour disposer des liquidités qui lui servent à entretenir et à agrandir son exploitation agricole. Il fait partie de la première catégorie d'agriculteurs que le juge Dickson a évoquée dans son analyse dans l'affaire Moldowan v. The Queen, 77 DTC 5213.
+[...]
+[19] La Cour d'appel fédérale a, dans une décision récente, R c. Donnelly, [1998] 1 C. F. 513, placé l'article 31 dans son contexte. Il y était question d'un riche médecin qui avait commencé à élever des chevaux de course et perdu d'importantes sommes d'argent. Il suffit d'énoncer ces faits pour comprendre pourquoi il a subi des pertes. Il était une de ces personnes qui, comme le juge Robertson de la Cour d'appel fédérale l'a dit, « gagnent leur revenu à la ville et le perdent à la campagne » . On ne peut pas en dire autant de M. Miller, dont la situation ne se compare même pas à celle du Dr Donnelly. Le Dr Donnelly était un médecin qui élevait des chevaux de course en dilettante. M. Miller est un agriculteur à temps plein qui travaille à Safeway. Il est instructif de relire ce que le juge Robertson a dit aux paragraphes 19 à 21 du jugement rendu dans l'affaire Donnelly aux pages 526 à 527 :
+[19] En fin de compte, l'arrêt Graham est un cas d'espèce. Il est toutefois possible de tirer au moins une leçon de cette affaire. Il me semble que l'arrêt Graham s'apparente davantage à une affaire dans laquelle un agriculteur à temps complet est contraint d'aller chercher un revenu supplémentaire à la ville afin d'absorber les pertes subies à la ferme. L'agriculteur de deuxième génération qui est incapable de subvenir convenablement aux besoins de sa famille peut bien se tourner vers un autre emploi pour absorber des pertes annuelles répétées. Voilà le genre d'affaires dont les tribunaux ne sont jamais saisis. Vraisemblablement, le ministre du Revenu national a pris la décision de principe de reconnaître l'existence d'une expectative raisonnable de profit dans les situations où la famille d'un contribuable a toujours compté sur l'agriculture pour gagner sa vie, encore qu'avec un succès financier limité. Les mêmes considérations générales permettent d'accorder plus d'importance aux facteurs des capitaux investis et du temps consacré à l'agriculture en vertu de l'article 31 de la Loi, et d'accorder moins d'importance à la rentabilité. Je n'ai encore jamais vu d'affaire dans laquelle le ministre refuse à un tel contribuable le droit de déduire la totalité de ses pertes agricoles à cause de l'existence d'une autre source de revenu. C'est peut-être parce qu'il est peu probable qu'un éleveur de porcs comme M. Graham exercerait cette activité comme un passe-temps.
+[20] Il est bien établi que l'article 31 de la Loi vise à empêcher les « gentlemen-farmers » qui disposent d'un revenu considérable de déduire la totalité des pertes agricoles qu'ils subissent : voir l'arrêt Morrissey c. Canada, supra, aux pages 420 à 423. Plus souvent qu'autrement, cet arrêt est invoqué par les agriculteurs qui sont disposés à poursuivre l'exploitation de leur entreprise en demeurant ouvertement indifférents aux pertes subies. Concrètement et sur le plan juridique, ces agriculteurs sont des agriculteurs amateurs, mais le ministre leur accorde la déduction limitée prévue à l'article 31 de la Loi. Ces affaires concernent presque toujours des éleveurs de chevaux qui achètent ou élèvent des chevaux en vue de les faire courir. En vérité, ces entreprises ont rarement même une expectative raisonnable de profit, encore moins les éléments essentiels pour constituer la principale source de revenu de leur propriétaire.
+[21] Peut-être bien qu'en droit fiscal il faut établir une distinction entre le fermier qui va à la ville et le citadin qui va à la campagne. Les personnes qui insisteront à l'avenir pour obtenir un allégement fiscal dans des circonstances semblables aux circonstances de l'espèce devraient le faire par les voies législatives et non par l'entremise de la Cour canadienne de l'impôt. Le système judiciaire ne peut plus se permettre d'encourager les contribuables ou leurs avocats à engager de telles poursuites dans l'attente du triomphe de l'espoir sur l'expérience.
+[20] Ce passage décrit clairement le type de personnes qui sont visées à l'article 31 et celles qui ne le sont pas.
+[21] L'agriculture au Canada, dans les provinces de l'Ouest tout particulièrement, traverse une période difficile. Elle survivra grâce au courage, aux sacrifices, à l'initiative, à l'optimisme et au dévouement de personnes telles que M. Miller et sa famille. L'article 31 n'a jamais eu pour objet de détruire de telles personnes mais s'il est appliqué sans distinction à de vrais cultivateurs comme les Miller, c'est ce qui arrivera.
+[11] Et maintenant, pour ce qui est des faits de la présente espèce, il est indubitable que les deux appelants considèrent que l'agriculture est le centre de leur vie et que les emplois qu'ils exercent le jour sont accessoires par rapport à leur travail principal d'agriculteurs. Ils consacrent beaucoup plus de temps à leurs activités agricoles qu'aux emplois qu'ils exercent à la ville. Le problème, c'est qu'ils ne pourraient exploiter l'entreprise agricole sans le revenu provenant des emplois qu'ils exercent à la ville. Mme Paquette est enseignante au secondaire. M. Paquette travaille au Conseil national de recherches. Mme Paquette a refusé des promotions dans l'enseignement parce que cela aurait entravé son travail à la ferme. De même, M. Paquette n'a pas cherché à obtenir de promotions au Conseil national de recherches. En fait, une des raisons pour lesquelles il a consacré autant de temps et d'argent à l'expansion de l'entreprise agricole est qu'il risquait d'être mis à pied depuis le début des années 1990, et que c'est effectivement ce qui s'est produit en 1998. Les deux appelants ont en fait pris des dispositions relativement aux emplois qu'ils exerçaient le jour de manière à pouvoir retourner à la ferme au besoin, par exemple en période de mise bas. Lorsque la section du Conseil national de recherches dans laquelle M. Paquette travaillait a été transformée en personne morale distincte, M. Paquette n'a pas voulu continuer à travailler pour cette section, car cela l'aurait obligé à consacrer plus de temps à ce travail et moins de temps à l'agriculture.
+[12] Non seulement les appelants se consacrent principalement à la ferme, mais leurs adolescents y sont actifs aussi et sont pleinement intégrés à l'entreprise agricole.
+[13] La preuve révèle que, par rapport aux emplois qu'ils exercent le jour, les appelants se consacrent à l'exploitation agricole dans une proportion d'au moins 60 pour 40.
+[14] Les appelants ont investi des capitaux importants dans l'exploitation agricole. Dans les affaires Miller et Martin, précitées, des chiffres précis avaient été consignés en preuve avec l'aide d'un avocat principal, tandis qu'en l'espèce les appelants n'avaient pas d'avocat, et j'ai dû demander à M. Paquette de reconstituer un état des capitaux qu'ils avaient investis, car les appelants ou leur représentant ne semblaient pas apprécier l'importance de présenter des éléments de preuve précis quant aux capitaux investis. Je ne voudrais toutefois pas tirer une conclusion négative du fait que ces contribuables n'avaient pas les moyens de retenir les services d'un avocat. La meilleure preuve qui m'ait été présentée quant à l'investissement de capitaux des appelants tient au témoignage de M. Paquette, soit :
+Terrain 165 000 $
+Tracteur 40 000 $
+Tracteur 6 000 $
+Tracteur 3 000 $
+Presse à balles rectangulaires 5 000 $
+Presse à balles rondes 12 000 $
+Râteau-faneur 2 500 $
+Lame de nivellement 3 000 $
+Chariots (2) 3 000 $
+Chariot à bascule 3 000 $
+Traîneaux 1 000 $
+Lieuse 6 000 $
+Harnais 8 000 $
+Disque 2 000 $
+Charrue 1 800 $
+Semoir 1 500 $
+Camion 22 000 $
+Remorque à bétail 5 000 $
+Carrosserie-plateforme 3 000 $
+Scie à lame circulaire 1 200 $
+Rouleau 200 $
+Herse 1 500 $
+Chute à bétail 1 500 $
+Machine de mise en balles
+et d'empaquetage 14 000 $
+Bétail (environ 30 animaux, soit
+un nombre qui pourrait atteindre
+50 après la mise bas) 50 000 $
+TOTAL 361 200 $
+[15] Ces chiffres auraient pu être plus précis, mais je suis convaincu qu'ils sont à peu près exacts d'une manière générale et qu'ils indiquent que des capitaux importants ont été investis dans l'exploitation agricole. Une partie de l'argent a été empruntée, et une partie provenait des propres ressources ou salaires des appelants. L'accroissement des dépenses en capital se traduisait par une augmentation de la déduction pour amortissement et une augmentation correspondante des pertes.
+[16] J'ai été très favorablement impressionné par la connaissance détaillée que M. Paquette avait de la science consistant à élever du bétail de race.
+[17] Tous les facteurs mentionnés précédemment - le dévouement, le mode de vie, le temps consacré, les capitaux investis - indiquent clairement qu'il s'agit d'agriculteurs de la première catégorie. Les Paquette forment une famille agricole canadienne très typique. Vu l'état de l'agriculture au Canada depuis les dix dernières années, l'exploitation d'une ferme conventionnelle exige, pour que cette partie importante de la vie socioéconomique canadienne soit maintenue, que les agriculteurs accomplissent du travail à la ville. Il ne s'agit pas du cas de riches professionnels de la ville qui décident de se lancer dans l'élevage de chevaux de course et qui s'attendent que les contribuables canadiens les aident en subventionnant leur coûteux passe-temps[1]. Il s'agit plutôt du cas d'agriculteurs véritables qui doivent accomplir un autre travail pour maintenir l'exploitation agricole.
+[10] La situation que j'ai exposée dans les décisions Miller, Martin et Paquette n'est pas celle visée en l'espèce. L'agriculture constituait une occupation à plein temps pour ces personnes. Leurs emplois à l'extérieur étaient un complément accessoire mais nécessaire aux activités de l'entreprise agricole, essentiel pour que celle-ci demeure à flot. Si sincère et dévoué soit-il envers ses chevaux, l'appelant demeure un citadin qui vit en ville, mais qui se rend à la campagne pour se livrer à l'élevage et prendre part aux courses de chevaux. Sans prétendre que ce n'est qu'un simple passe-temps, il s'agit certainement d'activités accessoires à sa principale source de revenu.
+[11] M. McRae a renvoyé à l'arrêt Kroeker v. The Queen de la Cour d'appel fédérale, [2002] DTC 7436. Dans cette affaire, la Cour d'appel fédérale a souligné que l'appelante « ne s'adonne pas à l'élevage de chevaux de course » . La Cour reprenait un point soulevé par le juge Robertson au paragraphe 20 de l'arrêt Donnelly, reproduit plus haut, touchant l'application de l'article 31 aux personnes qui élèvent des chevaux de course. Je doute qu'il existe, en droit, une distinction entre les chevaux de course et les vaches ou les cochons pour l'application de l'article 31, mais il y a certainement une différence sur le plan pratique. Une recherche informatisée plutôt superficielle révèle que, parmi les nombreuses affaires de pertes agricoles relevant de l'article 31 qui concernent l'élevage de chevaux, seuls deux ou trois appels ont été accueillis. En d'autres termes, les personnes qui souhaitent devenir membres de la première catégorie définie dans l'arrêt Moldowan devraient s'abstenir d'élever des chevaux de course. Les cochons et les poulets constituent probablement un meilleur choix, à tout le moins s'il ne s'agit pas de races trop exotiques.
+[12] Quoi qu'il en soit, je crois, après avoir examiné l'arrêt Kroeker dans son ensemble, que la situation de Mme Kroeker se rapprochait beaucoup plus de celle exposée dans les décisions Miller,Paquette et Martin. Si grande soit sa passion pour ses chevaux et la course de chevaux, M. McRae n'appartient pas à la première catégorie d'agriculteurs contrairement aux familles Miller, Paquette et Martin. Il relève nettement de la deuxième catégorie. Il est un comptable qui élève des chevaux et non un agriculteur qui fait de la comptabilité.
+[13] Les appels sont rejetés.
+Signé à Montréal (Québec), ce 18e jour de mai 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 23e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI350
+NO DU DOSSIER DE LA COUR :
+2003-4627(IT)I
+INTITULÉ DE LA CAUSE :
+Mark McRae et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE D'AUDIENCE :
+Le 29 avril 2004
+MOTIFS DU JUGEMENT PAR :
+M. le juge en chef adjoint Bowman
+DATE DU JUGEMENT ET MOTIFS DU JUGEMENT :
+Le 18 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Lorraine Edinboro
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]
+Kuhlmann et al. v. The Queen 98 D.T.C. 6652.

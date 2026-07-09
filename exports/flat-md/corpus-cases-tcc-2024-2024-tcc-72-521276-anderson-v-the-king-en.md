@@ -1,0 +1,167 @@
+---
+title: "Anderson v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521276/index.do"
+last_modified: "2024-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 72"
+citation2: ""
+neutral_citation: "2024 TCC 72"
+decision_date: "2024-05-22"
+language: "en"
+item_id: "521276"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5733
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:26:10.447000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b69d7153db6a979898b2dfb35ac211f75bfd904659230e66e5507099fe7c097"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson v. The King
+
+- Citation: 2024 TCC 72
+- Decision date: 2024-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5733, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-22
+Neutral citation
+2024 TCC 72
+File numbers
+2023-2394(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-2394(IT)I
+BETWEEN:
+DAVID MICHAEL ANDERSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 29, 2024 at Ottawa, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alex Hibberd
+JUDGMENT
+In accordance with the Reasons for Judgment delivered orally by teleconference held on May 22, 2024, the appeal from an assessment made under the Income Tax Act dated September 7, 2022 and the Minister’s refusal to accept the T1 Adjustment Request dated March 15, 2023, both made in respect of the 2011 taxation year, is hereby quashed. There shall be no order as to costs.
+Signed at Ottawa, Ontario, this 22 day of May 2024.
+“Guy R. Smith”
+Smith J.
+Citation: 2024 TCC 72
+Date:20240522
+Docket: 2023-2394(IT)I
+BETWEEN:
+DAVID MICHAEL ANDERSON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+TRANSCRIPT OF THE REASONS FOR JUDGMENT
+Smith J.
+I – Overview
+[1] I will now deliver my reasons for judgment.
+[2] David Michael Anderson (the “Appellant”) appeals from an assessment made by the Minister of National Revenue pursuant to the Income Tax Act, R.S.C., 1985 c.1 (5th Supp.) (the “Act”) in respect of the 2011 taxation year as well as from the Minister’s refusal to accept a T1 adjustment request for the same year. The assessment is dated September 7, 2022 and the refusal is dated March 15, 2023.
+[3] The Respondent takes the position that the appeal of the assessment is not properly before the Court and should be quashed because the Appellant failed to file a valid notice of objection within the time limits set out in the Act. The Respondent also takes the position that the Minister’s refusal to accept the T1 adjustment request is a matter of ministerial discretion that is not properly before this Court.
+[4] At the commencement of the hearing, the Appellant took the position that he was only challenging the Minister’s refusal to accept his T1 adjustment and that a notice of objection had indeed been filed within the time limits set out in the Act.
+II - The Relevant Evidence and Chronology
+[5] The Appellant testified on his own behalf. What follows is a chronology of the events based on his testimony and the documentary evidence.
+[6] The Appellant was a career civil servant employed by Public Works and Government Services Canada. He suffered from a long-standing medical condition that caused extreme fatigue and affected his ability to fulfill his employment obligations. He was also unable to file his tax returns going as far back as 2004.
+[7] He eventually filed a request for the Disability Tax Credit (the “DTC”) on August 12, 2014. After some initial enquiries, the Minister issued a notice of determination allowing the Appellant’s claim for the 2014 to 2018 taxation years. The Minister later expanded the Appellant’s eligibility to include the 2005 taxation year onwards.
+[8] By letter dated November 13, 2018, the Canada Revenue Agency (“CRA”) explained that the Appellant would be entitled to claim the DTC “for some of those years” but only requests “for tax years ending in any of the 10 calendar years before the year you make the requests can be considered.” Despite this, the Appellant later claimed he had not been informed of the 10-year limit.
+[9] In the meantime, the Minister requested that the Appellant file his income tax returns for the 2011-2014 taxation years. Once the DTC was expanded to include 2005 onwards, he was required to file tax returns for those years as well.
+[10] On September 25, 2018, the Appellant wrote to the CRA requesting an adjustment to the 2008 to 2017 taxation years to incorporate the DTC. However, CRA declined to do so as the Appellant had not filed his tax returns for those years.
+[11] The Appellant was finally able to overcome his difficulties and gather the necessary information to complete his tax returns for the 2008, 2009 and 2010 taxation years. T1 Adjustments were then processed to incorporate the DTC for those years.
+[12] However, the Appellant faced further difficulties in completing his returns for subsequent years. On May 2, 2022, he was finally able to file his income tax return for 2011. He claimed a deduction arising from a RRSP contribution of $25,472.00 as well as a refund of $2,189.53 as a result of the DTC.
+[13] The Minister issued the assessment on September 7, 2022, disallowing all refunds for 2011 because the request was made more than 10 years from the calendar year end. He was told that “we cannot refund the tax you over-paid.”
+[14] In his oral testimony, the Appellant explained that he intended to claim part of the RRSP deduction for 2011 and the remainder in later years. He now realized that he would lose the benefit of the deduction for 2011. He complained that he had not been informed of the 10-year limit and provided numerous examples of his inability to obtain pension advice or tax information from CRA officials in general.
+[15] In his ongoing discussions with CRA, he was led to believe that a possible solution would be to file a T1 adjustment request for 2011. He followed that advice, filing a T1 adjustment on December 30, 2022 (the “T1 Adjustment Request”). As explained in the Notice of Appeal, he was seeking a “single line adjustment (…) to reduce or eliminate the RRSP deduction amount erroneously claimed for 2011.”
+[16] The Minister denied the request for an adjustment indicating on March 15, 2023, that the “taxpayer relief provisions do not apply to requests for reassessments involving permissive deductions” where the taxpayer “is free to choose when, how and how much of a deduction to apply for a particular year.”
+[17] When he made further enquiries with the CRA, the Appellant was told that by attempting to correct the claim for his RRSP contribution in 2011, he was engaging in retroactive tax planning and this was not permitted. He denied this, arguing that he was merely attempting to correct an obvious error or oversight.
+[18] On June 12, 2023, the Appellant filed a notice of objection to the assessment and attached a request for an extension of time. On that date, he also filed a separate notice of objection to the Minister’s refusal to accept his T1 Adjustment request.
+[19] The Minister responded on August 15, 2023, refusing to accept the notice of objection of the assessment on the basis that the Appellant was “objecting to a statue-barred refund” and it could not be accepted “as a valid objection because the issue is not considered part of the assessment of tax, penalties, and interest.”
+[20] In closing submissions, the Appellant provided a book of authorities and referred to a number of decisions including Canada v. Nassau Walnut Investments Inc, (1997) 2 FC 279 (“Nassau”), Weber v. The Queen, 2001 CanLII 478 (TCC) (“Weber”), Watanabe v. The Queen, 1999 CanLII 474 (TCC) (“Watanabe”) and Moulton v. The Queen, 2002 CanLII 798 (TCC) (“Moulton”). All of these decisions dealt with CRA advice and an allegation of retroactive tax planning.
+[21] In Nassau, the Federal Court of Appeal opined that the facts before it did not involve “retroactive tax planning” indicating that “the case at bar was more analogous to a situation in which a taxpayer seeks to amend his or her tax return for the purposes of taking a deduction to which he or she has some entitlement.”
+[22] The Tax Court relied on Nassau and reached a similar conclusion in Weber.
+[23] In Watanabe, the taxpayer had been led by CRA officials to believe that she was entitled to make contributions to her pension and RRSP and deduct those amounts in a subsequent year. She was later informed that she could not in fact do so and realized the contributions would eventually be fully taxable when withdrawn. This led Justice Bowman to conclude that “her apprehension of double taxation” was well founded. At paragraph 15, he commented as follows:
+It is obviously beyond my jurisdiction to order the Minister to obtain a remission under the Financial Administration Act. However, I can express the view that this would be a very appropriate case for him to do so. Otherwise, I cannot assist the appellant (…)
+[24] And finally, in Moulton, the taxpayer had similarly relied on the advice of CRA officials before making a contribution to his pension plan on the understanding that it would be deductible in a subsequent year. He was later informed that the amount was not deductible leading Justice Bowman to repeat the observation made in Watanabe about the possibility of obtaining a remission order and concluding that he could not do much more.
+[25] I will address this case-law again below.
+III – Filing a Valid Notice of Objection to the Assessment
+[26] I now turn to the issue of the filing of a valid notice of objection to the assessment. Although the Appellant has indicated he was not challenging the Minister’s position, the wording of his notice of appeal appears to suggest otherwise and thus a few comments are in order.
+[27] It is apparent that the notice of objection was not filed within 90 days from the date of the assessment but it was filed during the 12-month period that followed. The Appellant included a request for an extension of time to file the notice of objection.
+[28] When the Minister refused to accept it on August 15, 2023, the Appellant’s remedy was to file an application with the Court requesting an extension of time to file the notice of objection pursuant to subsection 166.2(1) of the Act. The Court would have considered the merits of the application in light of the criteria set out in subsection 166.2(5). The Appellant did not do so and instead filed this appeal.
+[29] The case law has established that the filing of a notice of objection is a condition precedent to the filing of an appeal. This is apparent from a reading of subsection 169(1) that begins with the words “Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal (…)”
+[30] The Court does not have the jurisdiction to amend or extend the time-periods established by Parliament, as confirmed in Bormann v. Canada, 2006 FCA 83 (paras. 3-6), and thus the appeal of the assessment must be quashed:
+IV - The T1 Adjustment Request
+[31] I now turn to the Minister’s refusal to accept the T1 Adjustment Request for 2011. The Minister has not specifically addressed the second notice of objection of June 12, 2023 made in connection with the refusal of March 15, 2023.
+[32] The Appellant argues that it was filed within 90 days. Despite this, I find it is not a valid notice of objection because it seeks to address a matter that arises from the exercise of ministerial discretion and is not within the jurisdiction of this Court.
+[33] The Federal Court of Appeal has stated that “the Tax Court’s jurisdiction is limited by statute and in income tax matters, its jurisdiction is generally limited to hearing appeals as to the correctness of assessments (…) it does not extend to judicial review of decisions of the Minister under discretionary relief provisions of the Act”: Bonnybrook Park Industrial Development Co. Ltd. v. Canada (Minister of National Revenue), 2018 FCA 136, (para. 19).
+[34] The Appellant’s remedy was not to file an appeal to this Court but to pursue a second administrative review of the Minister’s refusal of March 12, 2023 and, if that fails, to seek judicial review of the decision before the Federal Court.
+[35] In his notice of appeal, the Appellant indicates that he “remains unclear on the status of his Relief Request and requested a Secondary Administrative Review of same (…)”. He was told “this could take up to 17 months.” It thus appears to be an outstanding request. In any event, it is not something this Court can address.
+[36] Alternatively, or possibly concurrently, as noted by Justice Bowman in Watanabe and Moulton, it might be open to the Appellant to seek a remission order under section 23 of the Financial Administration Act, R.S.C., 1985, c.F 11. This was recently discussed in Dunn v. The Queen, 2022 TCC 44 (paras. 11-12).
+[37] Based on the Appellant’s testimony, it is not apparent to the Court that he was engaging in retroactive tax planning when he made the RRSP contribution in February 2022, expecting it to be deductible for 2011 and possibly in later years. This is not a situation where a taxpayer is seeking to amend a tax return filed more than 10 years before. In this instance, the T1 Adjustment Request was filed within twelve months from the filing of the tax return and RRSP contribution.
+V - Conclusion
+[38] In the end, whether the Court accepts or rejects the Appellant’s complaint that CRA officials did not provide him with proper tax advice or information, this changes nothing to the Court’s lack of jurisdiction to deal with this appeal.
+[39] For all the foregoing reasons, the appeal is hereby quashed
+[40] There shall be no order as to costs.
+Signed at Ottawa, Ontario, this 22 day of May 2024.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2024 TCC 72
+COURT FILE NO.:
+2023-2394(IT)I
+STYLE OF CAUSE:
+DAVID MICHAEL ANDERSON AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 29, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+May 22, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alex Hibberd
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+-
+Firm:
+-
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

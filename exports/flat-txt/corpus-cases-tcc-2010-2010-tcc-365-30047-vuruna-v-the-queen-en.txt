@@ -1,0 +1,180 @@
+Title: Vuruna v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30047/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-365-30047-vuruna-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-28
+
+# Vuruna v. The Queen
+
+- Citation: 2010 TCC 365
+- Decision date: 2010-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7701, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vuruna v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-28
+Neutral citation
+2010 TCC 365
+File numbers
+2009-3320(GST)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-3320(GST)I
+BETWEEN:
+VERA VURUNA,
+STEVO VURUNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 17, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agents for the Appellant:
+Predrag Jurovicki
+Davorin Jurovicki
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a reassessment under Part IX of the Excise Tax Act dated June 1, 2007, for the period from February 1, 2000 to December 31, 2005, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of October 2010.
+"Paul Bédard"
+Bédard J.
+Citation: 2010 TCC 365
+Date: 20101028
+Docket: 2009-3320(GST)I
+BETWEEN:
+VERA VURUNA,
+STEVO VURUNA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The appellant disputes the reassessment dated June 1, 2007 made by the Minister of National Revenue (the "Minister") under the Excise Tax Act (the "Act") with respect to the period from February 1, 2000 to December 31, 2005.
+[2] The appellant was internally registered by the Canada Revenue Agency ("CRA") for goods and services tax ("GST") purposes on October 16, 2006, the registration being effective from February 1, 2000. By letter dated October 20, 2006, the appellant was requested by the CRA to file GST returns for the periods ending between February 1, 2000 and December 31, 2005.
+[3] The appellant initially filed his GST returns as follows:
+For the period ending
+Date of filing
+December 31, 2000
+November 6, 2006
+December 31, 2001
+November 6, 2006
+December 31, 2002
+February 12, 2007
+December 31, 2003
+November 6, 2006
+December 31, 2004
+November 6, 2006
+December 31, 2005
+November 6, 2006
+[4] The appellant filed a nil return for the period ending December 31, 2000.
+[5] By notices of assessment dated May 22, 2007, the Minister assessed the appellant's net tax on the basis of his returns as filed for the period ending December 31, 2001 and the period from January 1, 2003 to December 31, 2005. By notice of assessment dated May 23, 2007, the Minister also assessed the appellant's net tax on the basis of his return as filed for the period ending December 31, 2002.
+[6] During an audit of the appellant, the Minister determined that he should only have been registered effective January 1, 2003.
+[7] By notice of reassessment dated June 1, 2007, the Minister increased the appellant's net tax by $11,726.96 ($11,775.28 minus an administrative adjustment of $48.32 for 2001, reducing the balance for that period to nil) for the period from January 1, 2001 to December 31, 2005. By the same notice of reassessment, the Minister imposed late remittance penalties for the periods ending December 31, 2003, 2004 and 2005 respectively, and imposed instalment penalties for the periods ending December 31, 2004 and 2005 respectively.
+Preliminary conclusions
+[8] I would point out immediately that I am of the opinion that no valid appeal can be filed with respect to the periods ending December 31, 2000 and December 31, 2001. The reason for this is that no valid notice of objection was filed for those periods as required by section 306 of the Act, since there was no assessment of tax as required by section 301 of the Act and also since the reassessment from which the appellant is appealing does not include the period ending December 31, 2000.
+[9] In determining the appellant's net tax liability for the period from January 1, 2002 to December 31, 2005, the Minister made the following assumptions of fact:
+a. at all relevant times, Vera Vuruna and Stevo Vuruna were spouses;
+b. at all relevant times, Stevo Vuruna drove a transport truck for Whitelaw Trucking Inc.;
+c. Mrs. Vuruna reported a portion of the net business income earned from the driving services;
+d. at all relevant times, Mr. and Mrs. Vuruna formed a partnership with respect to the driving services (the "Partnership");
+e. Whitelaw Trucking Inc. was located in Woodstock, ON;
+f. the Partnership did not operate a transport truck of which it had ownership;
+g. the Partnership did not assume liability for the supply of a freight transportation service;
+h. Whitelaw Trucking Inc. maintained the liability for the supply of a freight transportation service and was therefore the carrier;
+i. the Partnership provided driving services to Whitelaw Trucking Inc.;
+j. the Partnership did not provide freight transportation services;
+k. the Partnership became a GST registrant effective January 1, 2003;
+l. the Partnership was an annual filer;
+m. the Partnership was a small supplier in the period ending December 31, 2002;
+n. the Partnership did not report any GST in the period when he was a small supplier;
+o. the Partnership earned $32,100 in gross income for the period ending December 31, 2002;
+p. the Partnership was required to be a GST registrant as of 2003;
+q. the Partnership's business operations provided taxable supplies for the period from January 1, 2003 to December 31, 2005 only;
+r. the rate of GST applicable on the taxable supplies was 7%;
+s. the Partnership made taxable supplies in the mounts of $40,078, $61,854 and $64,201 in the periods ending December 31, 2003, 2004, and 2005, respectively;
+t. the Partnership did not collect or report any GST on its taxable supplies for the periods ending December 31, 2003, 2004, and 2005, respectively;
+u. the Partnership was required to collect and remit GST in the amounts of $2,805.46, $4,329.78 and $4,494.07 in the periods ending December 31, 2003, 2004, and 2005, respectively;
+v. the Partnership claimed having paid GST on expenses in the course of conducting commercial activities in the amount of $97.65 for the period ending December 31, 2002;
+w. the Partnership is not entitled to input tax credits for the periods in which it was a small supplier;
+x. the Partnership was to remit net tax owing by April 30 of each year following the period year end for of [sic] the reporting periods ending between January 1, 2003 and December 31, 2005; and
+y. the Partnership was to pay instalments within one month after the end of each fiscal quarter for the reporting periods ending between January 1, 2004 and December 31, 2005.
+[10] I would point out that the appellant did not deny the assumptions of fact set out in paragraphs 16a) to 16h) of the Reply to the Notice of Appeal.
+[11] Mr. Don Eltom, President of Whitelaw Trucking Inc., Ms. Juanita Mary Florence Ferguson, signing officer for Whitelaw Trucking Inc., and Mr. Nicolas Prsa, a GST and income tax auditor with the CRA, were the only witnesses.
+[12] The evidence submitted by the appellant (i.e. the testimony of the appellant's witnesses and Exhibit A-1) clearly revealed that:
+(i) at all relevant times, Stevo Vuruna drove a transport truck as a subcontractor for Whitelaw Trucking Inc., delivering auto parts from Ontario to Texas in the U.S.A; and
+(ii) at all relevant times Whitelaw Trucking Inc. owned the transport truck driven by Stevo Vuruna.
+Issues to be decided
+[13] The issues to be decided are whether the Minister:
+a. properly assessed GST in the amount of $11,629.31 for the period from January 1, 2003 to December 31, 2005;
+b. properly denied input tax credits in the amount of $97.65 for the period ending December 31, 2002;
+c. was correct in assessing late remitting penalties in the amount of $1,407.31 for the period from January 1, 2003 to December 31, 2005; and
+d. was correct in assessing instalment penalties in the amount of $229.24 for the period from January 1, 2004 to December 31, 2005.
+Appellant's submissions
+[14] Mr. Predrag Jurovicki essentially submits that the appellant was providing outbound freight transportation services, that his supplies were therefore zero‑rated pursuant to Part VII of Schedule VI of the Act that, consequently, he was not required to collect and remit GST in the amount of $11,629.31 for the period from January 1, 2003 to December 31, 2005. Surprisingly, Mr. Davorin Jurovicki (the other agent for the appellant) submits that at all relevant times Stevo Vuruna was an employee of Whitelaw Trucking Inc. and for that reason was not required to collect and remit GST in the amount of $11,629.31 for the period from January 1, 2003 to December 31, 2005.
+Analysis and conclusion
+[15] Since the appellant did not deny the assumptions of fact set out in paragraphs 16a) to 16h) of the Reply to the Notice of Appeal and since the evidence submitted by the appellant clearly revealed that at all relevant times, he was driving a transport truck as a subcontractor for Whitelaw Trucking Inc., the appellant has to understand that I cannot accept his agent's argument that at all relevant times he was an employee of Whitelaw Trucking Inc. and was therefore not required to collect and remit GST in the amount of $11,629.31 for the period from January 1, 2003 to December 31, 2005.
+[16] I point out that the appellant also submitted that his supplies were zero-rated pursuant to section 6 of Part VII of Schedule VI of the Act. Therefore, the appellant had to be in compliance with section 6. That section reads as follows:
+A supply of a freight transportation service in respect of the transportation of tangible personal property from a place in Canada to a place outside Canada where the value of the consideration for the supply is $5 or more.
+[17] "Freight transportation service" is defined in subsection 1(1) of Part VII of Schedule VI as follows:
+"freight transportation service" means a particular service of transporting tangible personal property and, for greater certainty, includes
+(a) a service of delivering mail, and
+(b) any other property or service supplied to the recipient of the particular service by the person who supplies the particular service, where the other property or service is part of or incidental to the particular service, whether there is a separate charge for the other property or service,
+but does not include a service provided by the supplier of a passenger transportation service of transporting an individual's baggage in connection with the passenger transportation service.
+[18] "Carrier" is defined in subsection 123(1) of the Act as follows:
+"carrier" means a person who supplies a freight transportation service within the meaning assigned by subsection 1(1) of Part VII of Schedule VI.
+[19] It is accepted that, while not determinative, administrative opinions do carry some weight and may be considered by the Court. It is also accepted that technical notes although not determinative either may likewise be given some consideration.
+[20] In the CRA publication Excise and GST/HST News, No. 61, Summer 2006, it is stated:
+Trucking – driver services
+In the trucking industry, the services of truckers usually fall into one of three categories. The trucker is either an owner-operator, a self-employed driver or an employee of a carrier. The following explains the application of the GST/HST to each of these situations.
+Owner-operators
+Where an owner-operator contracts with a carrier to supply freight transportation services using its own truck, those freight transportation services will be zero-rated (i.e., subject to tax at 0%) if the owner-operator meets the definition of a carrier. A carrier is the person who assumes liability to supply a freight transportation service.
+Where an owner-operator does not assume liability to supply a freight transportation service, that owner-operator is not a carrier for purposes of the GST/HST. Instead, the owner-operator is providing a driving service. The supply of driving services is subject to GST/HST at 6% or 14% when supplied by a GST/HST registrant. The driver’s services are a business input of the carrier.
+Self-employed drivers
+Where a self-employed driver does not use its own truck and does not assume liability for the supply of a freight transportation service, the driver is not supplying a freight transportation service for GST/HST purposes, it is providing a driving service. The supply of a driving service is taxable at 6% or 14% when supplied by a GST/HST registrant. The driver’s services are a business input of the carrier.
+Employee drivers
+Where a carrier uses its employees to drive its trucks, the wages paid to these employees are not subject to the GST/HST.
+[21] The Explanatory Notes to Bill C-62 (the GST legislation) state with respect to the definition of "carrier":
+This term identifies a person who supplies a freight transportation service. There is no limit on the number of carriers that may be engaged in any given freight movement. Nor is there any requirement that a person physically perform a freight transportation service in order to be a carrier: the person need only assume liability as a supplier of a freight transportation service in order to be a carrier. . . .
+[22] I also am of the opinion that a truck driver who does not use his own truck and who does not assume liability for the supply of a freight transportation service cannot be said to supply a freight transportation service.
+[23] In the present case, the appellant did not use his own truck and did not assume liability for the supply of a freight transportation service. Consequently, he was not providing a freight transportation service to Whitelaw Trucking Inc. He was simply providing a driving service to Whitelaw Trucking Inc. and his services were a business input of that company.
+[24] Since the appellant was providing driving services and not freight transportation services, his supplies were not zero‑rated pursuant to Part VII of Schedule VI of the Act. He was therefore required to collect and remit GST in the amount of $11,629.31 for the period from January 1, 2003 to December 31, 2005. So the appellant was properly assessed the amount of $11,629.31 for that period in accordance with subsection 165(1) of the Act. Since the appellant did not remit GST for the reporting periods between January 1, 2003 and December 31, 2005 as and when required pursuant to subsection 228(2) of the Act, the Minister was correct in imposing late remittance penalties under subsection 280(1) of the Act as it read at the relevant time. Since the appellant did not pay all instalments payable for the reporting periods ending December 31, 2004 and December 31, 2005 as and when required pursuant to subsection 237(1) of the Act, the Minister was also correct in imposing instalment penalties under section 280(2) of the Act as it read at the relevant time.
+[25] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of October 2010.
+"Paul Bédard"
+Bédard J.
+CITATION: 2010 TCC 365
+COURT FILE NO.: 2009-3320(GST)I
+STYLE OF CAUSE: VERA VURUNA, STEVO VURUNA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 28, 2010
+APPEARANCES:
+Agents for the Appellant:
+Predrag Jurovicki
+Davorin Jurovicki
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

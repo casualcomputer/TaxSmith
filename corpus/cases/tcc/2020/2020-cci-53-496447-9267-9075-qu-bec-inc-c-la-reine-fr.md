@@ -1,0 +1,271 @@
+---
+title: "9267-9075 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/496447/index.do"
+last_modified: "2020-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 53"
+citation2: ""
+neutral_citation: "2020 CCI 53"
+decision_date: "2020-07-16"
+language: "fr"
+item_id: "496447"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4631
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:02:12.713000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01dae8235e6b59e27f80fe2fb519d3dab217311a10e60f9ab19b3ed870af14cd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9267-9075 Québec Inc. c. La Reine
+
+- Citation: 2020 CCI 53
+- Decision date: 2020-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4631, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9267-9075 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-16
+Référence neutre
+2020 CCI 53
+Numéro de dossier
+2017-4072(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-4072(GST)G
+ENTRE :
+9267-9075 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 12 et 13 décembre 2019, à Montréal (Québec)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelante :
+Me Julie Gaudreault-Martel
+Avocat de l’intimée :
+Me Michel Rossignol
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 12 août 2016 pour la période du 1er mars 2013 au 28 février 2014 est annulé, car aucun avis d’opposition n’a été déposé par l’appelante à l’encontre de cette cotisation.
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 12 août 2016 pour la période du 1er mars 2014 au 28 février 2015 est rejeté, car l’appelante n’a pas satisfait aux conditions énoncées aux articles 231, 232 et au paragraphe 225(1) de la Loi sur la taxe d’accise.
+Les frais sont adjugés en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2020.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2020 CCI 53
+Date : 20200716
+Dossier : 2017-4072(GST)G
+ENTRE :
+9267-9075 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] À l’audience, l’appelante s’est désistée de son appel en ce qui a trait à la nouvelle cotisation en date du 12 août 2016, pour la période du 1er mars 2013 au 28 février 2014. Je ne traiterai donc que de l’appel qui vise la nouvelle cotisation datée du 12 août 2016 pour la période du 1er mars 2014 au 28 février 2015.
+I. Faits
+[2] M. Alain Desmeules est administrateur et actionnaire principal de la société 9031-1671 Québec inc. (« Pretech »). Cette dernière œuvre dans le domaine de la construction, notamment dans le redressement de fondations par l’installation de pieux.
+[3] 9211-1632 Québec inc. est une société de gestion dont M. Desmeules est aussi administrateur et actionnaire.
+[4] La société Roger Bisson inc. (« Bisson ») œuvre également dans le domaine de la construction, notamment dans le redressement de fondations par l’installation de pieux. Les sociétés Pretech et Bisson ont décidé de mettre leur expertise en commun et de constituer un consortium.
+[5] À cet effet, le 10 juin 2009 la société 9210-6905 Québec inc. est constituée. Cette dernière opère sous le nom de Consortium Bisson-Pretech (« 9210 »). La société actionnaire de 9210 est 9211-1632 Québec inc. soit, la société de gestion de M. Desmeules et Bisson.
+[6] Le 27 août 2012, la société appelante 9267-9075 Québec inc. (« 9267 ») est constituée. M. Desmeules est le président et actionnaire de 9267.
+[7] 9267 opère dans le domaine de la détention et de l’exploitation de brevets ainsi que de la commercialisation de propriété intellectuelle. 9267 est tenue de produire annuellement sa déclaration de TPS et son exercice financier se termine le 28 février.
+[8] M. Desmeules est un ingénieur civil. Ce dernier détient des brevets, des marques de commerce et des noms de domaine. Selon M. Desmeules, la valeur de ces actifs est de 700 000 $.
+[9] Le 25 septembre 2012, M. Desmeules vend à 9267 les brevets, les marques de commerce et les noms de domaine qu’il détient. À cet effet, M. Desmeules effectue un roulement de ses actifs selon l’article 85 de la Loi de l’impôt sur le revenu (la « LIR ») en échange de 700 000 actions de 9267 ayant une valeur de 700,000 $.
+[10] En vertu d’un contrat intitulé : Contrat de vente et d’achat d’actifs des noms de domaine (« contrat de vente »), le 26 septembre 2012, 9267 vend à 9210 seulement les noms de domaine pour un montant de 500 000 $ plus taxes (TPS 25 000 $ et TVQ 49 498,75 $), soit pour un total de 574 498,75 $. La date de clôture du contrat est le 26 septembre 2012 [1] .
+[11] Le 26 septembre 2012, un deuxième contrat est conclu entre 9267 et 9210, soit le Contrat de licence d’emploi et de développement de propriété intellectuelle (« contrat de licence »). En vertu de ce contrat de licence, 9210 s’engage à payer des redevances à 9267 pour l’utilisation de la propriété intellectuelle détenue par 9267. Ce contrat inclut une clause de résiliation. 9267 peut résilier le contrat en tout temps, au moyen d’un préavis à cet effet, si 9210 entame des procédures en vertu de toute loi se rapportant à l’insolvabilité ou à la faillite.
+[12] En 2013, 9210 fait un paiement de 25 000 $ à 9267 pour les noms de domaine (six paiements mensuels de 4 166,67 $). La TPS s’élève à 1 087,20 $ (six paiements mensuels de 181,20 $).
+[13] Par conséquent en septembre 2013, le solde à payer par 9210 à 9267 pour l’achat des noms de domaine est de 549 874,98 $. Le solde à payer en septembre 2013, quant à la TPS est de 23 912,81 $.
+[14] M. Desmeules témoigne qu’en 2013, 9210 connaît de graves difficultés financières, car un projet majeur pour la réfection de fondations à Trois-Rivières est annulé. 9210 n’est plus en mesure de payer ses créanciers.
+[15] M. Desmeules témoigne qu’à la lumière des problèmes financiers de 9210, M. Bisson s’est retiré des opérations de 9210 et ce dernier lui a vendu les actions qu’il détenait dans 9210 pour un dollar. À cet effet, le nom de Roger Bisson inc. n’apparaît plus dans le registre des actionnaires de 9210 en date du 21 juin 2013. Par conséquent, M. Desmeules devient le seul actionnaire de 9210.
+[16] Le 5 juillet 2013, une fiducie est créée par la famille de Santis. La fiducie de la famille de Santis devient l’actionnaire principal de 9267. La conjointe de M. Desmeules, Mme Brooke de Santis, est la bénéficiaire de la fiducie.
+[17] Lors de son témoignage, M. Desmeules indique que la création de la fiducie et le changement d’actionnariat de 9267 à la fiducie de la famille de Santis avait pour but de protéger la propriété intellectuelle détenue par 9267.
+[18] Les problèmes financiers de 9210 font en sorte que l’institution financière exige des garanties additionnelles. À l’automne 2013, l’institution financière impose que 9210 soit gérée par un syndic. À cet effet, la gestion de 9210 est confiée à M. Stéphane De Broux de Richter Groupe Conseil inc.
+[19] Le 24 mars 2014, 9210 fait une proposition en vertu de la Loi sur la faillite et l’insolvabilité (la « LFI »). Le processus de proposition se termine en septembre 2014. En 2014, un montant de 549 875 $ relatif à la vente des noms de domaine à 9210 est toujours inscrit au bilan de 9267 à titre de compte à recevoir.
+[20] Les déclarations de TPS [2] de 9267 n’ont pas été déposées dans les délais requis. M. Desmeules explique qu’il devait s’occuper en priorité des affaires de 9210. M. Desmeules témoigne qu’en 2016, dès qu’il y a eu une lueur d’espoir, il a demandé à son comptable M. Kakkar, CPA, de s’occuper de la comptabilité et des affaires fiscales de 9267.
+[21] M. Kakkar témoigne que 9267 n’était pas en mesure de recouvrer de 9210 le solde de vente relatif aux noms de domaine pour un montant de 549 874,98 $ puisque 9210 avait fait une proposition en vertu de la LFI. Selon M. Kakkar, pour 9267 cette créance était devenue irrécouvrable, car il était impossible que tous les créanciers soient payés en vertu de la proposition.
+[22] M. Kakkar a déterminé que la mauvaise créance avait pris naissance durant la période du 1er mars 2014 au 28 février 2015. À cet effet, il a inscrit la mauvaise créance dans les états financiers de 9267 se terminant le 28 février 2015 [3] .
+[23] M. Kakkar a préparé deux déclarations de TPS pour 9267 en 2016.
+[24] La première déclaration de TPS de 9267 est datée du 29 mars 2016 et couvre la période du 27 août 2012 au 28 février 2013. Cette déclaration reflète la vente des noms de domaine par 9267 à 9210 effectuée le 26 septembre 2012 pour un montant de 500 000 $. Selon cette déclaration, 9267 doit verser au Receveur Général un montant de TPS 26 581,87 $ duquel 23 912,81$ est relatif aux noms de domaine [4] .
+[25] La deuxième déclaration de TPS est également datée du 29 mars 2016 et couvre la période du 1er mars 2014 au 28 février 2015. Dans cette déclaration, 9267 demande un crédit sur les intrants (« CTI »)/Redressements de TPS de 23 912,81 $. M. Kakkar explique que 9267 n’a jamais reçu de 9210 un montant de 500 000 $ pour la vente de ses noms de domaine. En soi, 9210 n’a versé à 9267 qu’un montant de 25 000 $ dont un montant 1 087,20 $ relativement à la TPS.
+[26] M. Kakkar explique que la créance étant devenue irrécouvrable, la deuxième déclaration de TPS de 9267 avait pour but de rajuster la TPS, afin de refléter le fait que cette dernière n’avait pas reçu un montant de 500 000 $. Par conséquent, 9267 demande un remboursement de 23 912,81 $.
+[27] Le ministre du Revenu du Québec, pour la ministre du Revenu national (le « ministre ») a accepté la première déclaration de TPS, soit que 9267 devait payer un montant de 23 912,81 $ de TPS à l’égard de la vente des noms de domaine pour un montant de 500 000 $. Cette cotisation n’est pas en litige.
+[28] Cependant, le ministre refuse de rajuster la TPS conformément à la deuxième déclaration de TPS produite par 9267. Selon le ministre, la disposition qui vise les mauvaises créances, soit l’article 231 de la Loi sur la taxe d’accise (la « LTA ») ne s’appliquait pas en l’espèce, pas plus que le paragraphe 232(2) de la LTA.
+II. Positions des parties
+[29] L’intimée fait valoir que le paragraphe 231(1) et l’article 232 ne s’appliquent pas en l’espèce, à la lumière des faits qui ont été établis en preuve :
+Le contrat de vente des noms de domaine entre 9267 et 9210 est intervenu le 26 septembre 2012. Le contrat prévoit notamment:
+- que 9267 vend à 9210 les noms de domaine pretech qc.ca, pretech.ca, pretech.us, pretech.com, bissonpretech.com, consortiumpretech.com, consortium pretechbisson.com et pretechbisson.com pour un montant de 500 000 $.
+- le contrat prévoit que les éléments d’actifs sont transférés à l’acheteur 9210 à la date de clôture, soit le 26 septembre 2012. Le présent contrat entre en vigueur le jour de sa signature, également le 26 septembre 2012.
+- la clause 2.02 du contrat prévoit qu’à la clôture du contrat, l’acheteur 9210 versera au vendeur 9267 un montant de 78 875 $ en paiement des taxes applicables (TPS et TVQ). La date de clôture est définie à la clause 8.08 du contrat comme étant le 26 septembre 2012. Par conséquent, le contrat prévoit que 9210 devra payer l’entièreté de la TPS, le 26 septembre 2012.
+- la clause 7.01 du contrat prévoit également que l’acheteur 9210 paiera à 9267 les taxes dues (TPS et TVQ) sur le prix d’achat le 26 septembre 2012.
+- le contrat prévoit que s’il y a un défaut de paiement par l’acheteur 9210, le vendeur 9267 doit donner un avis écrit à 9210 afin qu’il remédie au paiement.
+- la clause 10.01 du contrat stipule « qu’afin de garantir le prix de vente et ses autres obligations en vertu des présentes, l’acheteur 9210 consent au vendeur 9267 une hypothèque universelle mobilière de premier rang sur l’ensemble des éléments d’actifs vendus et transférés ».
+[30] L’intimée fait valoir qu’aucun document ou explication n’ont été fournis en preuve par 9267 expliquant pourquoi les clauses du contrat quant aux paiements de la TPS n’ont pas été suivies. Selon le contrat, le paiement de la TPS devait avoir lieu le 26 septembre 2012.
+[31] L’intimée fait également valoir que 9267 n’a pas expliqué pourquoi, suite au défaut de paiement en 2013, un avis écrit n’a pas été donné par 9267 à 9210, tel que prévu au contrat. De plus, la preuve n’a pas révélé pourquoi aucun recours hypothécaire n’a été intenté par 9267 à l’encontre de 9210, tel que prévu au contrat, d’autant plus que 9210 n’a déposé sa proposition en vertu de la LFI qu’en mars 2014. Bien que 9210 faisait certains paiements, ces derniers n’étaient pas faits conformément au contrat de vente.
+[32] De plus, dans la liste des créanciers garantis et non garantis de 9210 préparée par le syndic à la suite de la proposition en vertu de la LFI, on ne retrouve pas la créance de 549 874,98 $ en faveur de 9267. La seule dette énoncée par le syndic dans la liste des créanciers, en faveur de 9267, est un montant de 8 613,71 $. M. Desmeules témoigne que le syndic refusait d’inclure la créance de 9267 dans la proposition. Cela étant dit, la preuve n’a pas révélé pourquoi un tel refus de la part du syndic et ce dernier n’a pas témoigné.
+[33] Également, la dette de 549 874,98 $ à l’égard de 9267 n’est pas comptabilisée au bilan de 9210 préparé le syndic. Cela dit, M. Desmeules atteste en apposant sa signature sur le bilan et sur les listes annexées aux états financiers préparés par le syndic, que ces dernières étaient à sa connaissance, un relevé complet et véridique des affaires de 9210 le 16 juin 2014 [5] .
+[34] Le 17 juillet 2014, la Cour supérieure du Québec autorise la vente des actifs de 9210 à 9306-4897 Québec inc. Cette dernière est une société dont l’actionnaire principal est Mme Brooke de Santis, la conjointe de M. Desmeules. Les noms de domaine sont achetés par 9306-4897 Québec inc. pour un montant de 5 000 $. Ces derniers avaient été vendus pour un montant de 500 000 $ à 9210 en septembre 2012 [6] .
+[35] L’intimée démontre que les déclarations de TPS de 9267 sont déposées en retard. La déclaration de TPS pour son exercice se terminant le 28 février 2013 devait être déposée par 9267 le 31 mai 2013. Ladite déclaration a été déposée par 9267 au mois de mars 2016. Quant à son exercice se terminant le 28 février 2015, la déclaration de TPS de 9267 pour la période du 1er mars 2014 au 28 février 2015 devait être déposée par 9267 le 31 mai 2015. La déclaration a été déposée en mars 2016.
+[36] M. Desmeules témoigne qu’à la suite de la nomination du syndic pour gérer 9210, sa priorité a été de collaborer avec le syndic pour remettre 9210 sur les rails. Il s’en est suivi que les déclarations de TPS et les états financiers de 9267 n’ont pas été préparés dans les délais. Ces derniers ont été préparés par M. Kakkar à la demande de M. Desmeules, lorsque les opérations de 9210 ont pris un tournant positif.
+[37] La période en litige est reflétée dans la deuxième déclaration de TPS datée du 29 mars 2016, couvrant la période du 1er mars 2014 au 28 février 2015. Dans cette déclaration, 9267 demande des CTI/Redressements pour un montant de 23 912,81 $.
+[38] 9267 fait valoir que, contrairement à ce que le contrat de vente entre 9267 et 9210 stipule, 9267 n’a jamais reçu le prix de vente de 500 000 $ pour la vente des noms de domaine à 9210. À cet égard, 9267 fait valoir que le solde dû est devenu irrécouvrable. Par conséquent, l’article 231 de la LTA qui permet une réduction de la taxe nette quand une créance est devenue irrécouvrable s’applique. Alternativement, 9267 fait valoir que l’article 232 de la LTA lui permet de réduire sa taxe nette quand une considération est réduite. En l’espèce, la considération pour les noms de domaine est passée de 500 000 $ à 25 000 $. Par conséquent, un ajustement de la TPS à verser doit être fait pour refléter la diminution du prix de vente. 9267 fait aussi valoir que le paragraphe 225(1) de la LTA permet d’ajuster la taxe nette afin de refléter la véritable transaction, soit une considération de 25 000 $ pour les noms de domaine et non pas pour une considération de 500 000 $. La TPS doit donc être calculée sur la transaction véritable.
+III. Analyse
+Est-ce que le paragraphe 231(1) qui traite de la créance irrécouvrable s’applique aux faits en l’espèce?
+[39] Le paragraphe 231(1) de la LTA prévoit :
+Créance irrécouvrable — déduction de la taxe nette
+231 (1) Si un fournisseur a effectué une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d’un acquéreur avec lequel il n’a aucun lien de dépendance, qu’il est établi que tout ou partie du total de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable et que le fournisseur radie cette créance de ses livres comptables à un moment donné, le déclarant de la fourniture peut déduire, dans le calcul de sa taxe nette pour la période de déclaration qui comprend ce moment ou pour une période de déclaration postérieure, le montant obtenu par la formule suivante :
+A × B/C
+où :
+A
+représente la taxe relative à la fourniture;
+B
+le total de la contrepartie, de la taxe et de la taxe provinciale applicable, qui demeure impayé relativement à la fourniture et qui a été radié à ce moment à titre de créance irrécouvrable;
+C
+le total de la contrepartie, de la taxe et de la taxe provinciale applicable relatives à la fourniture.
+Conditions de déclaration et de versement
+(1.1) Le déclarant ne peut déduire un montant en application du paragraphe (1) relativement à une fourniture que si, à la fois :
+a) la taxe percevable relativement à la fourniture est incluse dans le calcul de la taxe nette indiquée dans la déclaration qu’il produit aux termes de la présente section pour la période de déclaration au cours de laquelle la taxe est devenue percevable;
+b) la totalité de la taxe nette à verser selon cette déclaration est versée.
+[Je souligne.]
+[40] Selon l’alinéa 231(1.1)b) de la LTA, une des conditions à l’application du paragraphe 231(1) est que la totalité de la taxe nette à verser selon cette déclaration de TPS soit versée.
+[41] Dans Ministic Air Ltd. [7] , le juge Bowie écrit au paragraphe 17 de sa décision que la personne qui demande un remboursement à l’égard d’une mauvaise créance, selon le paragraphe 231(1) de LTA, doit établir que la TPS a été versée sur la fourniture taxable :
+Le paragraphe 231(1) exige également que la personne qui demande un remboursement démontre que la fourniture à l’égard de laquelle la créance est née était une fourniture taxable et que la TPS a de fait été déclarée et versée à l’égard de chaque facture pour laquelle le remboursement est demandé.
+Toutefois, la demande a été faite dans la déclaration du mois de mars, à un moment où la TPS sur ces fournitures, ou du moins sur une bonne partie des fournitures, n’était toujours pas payée.
+[Je souligne.]
+[42] Il est établi en preuve que 9267 n’a pas versé la TPS sur la fourniture taxable, soit sur la vente de ses noms de domaine à 9210, lors de la production de sa déclaration. Par conséquent, le paragraphe 231(1) de la LTA ne s’applique pas en l’espèce, car la condition à l’alinéa 231(1.1)(a) n’est pas satisfaite. Comme cette condition n’est pas satisfaite, 9267 ne peut avoir recours à cette disposition.
+[43] Cependant, bien que j’aie déjà décidé que le paragraphe 231(1) de la LTA ne peut s’appliquer en l’espèce, je suis aussi d’avis, tel que l’a fait valoir l’intimée, que 9267 n’a pas démontré qu’elle a fait tous les efforts nécessaires pour recouvrer le solde dû. Par conséquent, elle n’a pas satisfait à une autre des conditions pour l’application du paragraphe 231(1) de la LTA. Par exemple, 9267 n’a pas utilisé les moyens disponibles au contrat de vente afin de percevoir la dette. Elle n’a pas utilisé le recours hypothécaire stipulé au contrat qui s’offrait à elle. Ce recours aurait pu être utilisé avant que 9210 ne fasse une proposition en vertu de la LFI. De plus, la dette de 9210 envers 9267 n’est pas reflétée dans les documents relatifs à la proposition préparée par le syndic, alors que M. Desmeules atteste que toutes les dettes de 9210 s’y retrouvaient. Sans le témoignage du syndic, il est difficile de comprendre pourquoi la dette à l’égard des noms de domaine n’est pas inscrite dans les documents préparés par celui-ci.
+Est-ce que l’article 232 de la LTA s’applique aux faits en l’espèce?
+[44] Alternativement, 9267 fait aussi valoir que l’article 232 de la LTA s’applique en l’espèce. Cette disposition prévoit :
+Remboursement ou redressement — taxe perçue en trop
+232 Remboursement ou redressement de la taxe de la section II
+(2) La personne qui exige ou perçoit d’une autre personne la taxe prévue à la section II, calculée sur tout ou partie de la contrepartie d’une fourniture, laquelle contrepartie est par la suite réduite en tout ou en partie au cours d’une de ses périodes de déclaration pour une raison quelconque peut, au cours de cette période ou dans les quatre ans suivant la fin de celle-ci :
+a) si la taxe est exigée, mais non perçue, la redresser en soustrayant la partie de la taxe qui a été calculée sur le montant de la réduction;
+b) si la taxe est perçue, rembourser à l’autre personne la partie de la taxe qui a été calculée sur le montant de la réduction, ou la porter à son crédit.
+Notes de crédit ou de débit
+(3) Les règles suivantes s’appliquent dans le cas où une personne redresse un montant en faveur d’une autre personne en application des paragraphes (1) ou (2), le lui rembourse ou le porte à son crédit :
+a) elle remet à l’autre personne, dans un délai raisonnable, une note de crédit, contenant les renseignements réglementaires, pour le montant remboursé ou le montant du redressement ou du crédit, à moins que cette dernière ne lui remette une note de débit, contenant les renseignements réglementaires, pour un tel montant;
+b) le montant est déductible dans le calcul de la taxe nette de la personne pour sa période de déclaration au cours de laquelle elle remet la note de crédit ou reçoit la note de débit, dans la mesure où il a été inclus dans le calcul de sa taxe nette pour cette période ou pour une de ses périodes de déclaration antérieures;
+c) le montant est ajouté dans le calcul de la taxe nette de l’autre personne pour sa période de déclaration au cours de laquelle elle remet la note de débit ou reçoit la note de crédit, dans la mesure où il a été inclus dans le calcul d’un crédit de taxe sur les intrants qu’elle a demandé dans une déclaration produite pour une de ses périodes de déclaration antérieures;
+d) si le montant a été inclus, en totalité ou en partie, dans le calcul d’un remboursement prévu à la section VI qui a été versé à l’autre personne, ou appliqué en réduction d’une somme dont elle est redevable, avant le jour donné où elle reçoit la note de crédit ou remet la note de débit et si le montant du remboursement ainsi versé ou appliqué excède celui auquel elle aurait eu droit si le montant remboursé ou le montant du redressement ou du crédit n’avait jamais été exigé ni perçu de sa part, elle est tenue de verser l’excédent au receveur général en application de l’article 264 comme s’il s’agissait d’un montant qui lui a été remboursé en trop :
+(i) si l’autre personne est un inscrit, le jour où la déclaration de celle-ci pour la période de déclaration qui comprend le jour donné doit au plus tard être produite,
+(ii) dans les autres cas, le dernier jour du mois civil suivant le mois civil qui comprend le jour donné.
+[Je souligne.]
+[45] L’article 232 de la LTA permet au fournisseur de produits ou de services, à son choix, de redresser une taxe en faveur d’un acheteur, de la lui rembourser ou de la porter à son crédit si la somme perçue excède celle que le fournisseur pouvait percevoir ou si la contrepartie est réduite en tout ou en partie pour une raison quelconque. Dans un tel cas, selon le paragraphe 232(3), des modifications doivent être apportées au calcul de la taxe nette de chacune des parties. Par exemple, si le prix est réduit, le vendeur aura perçu et remis des taxes en trop, par conséquent, il pourra réduire sa taxe nette relativement aux CTI remis en trop et l’acheteur devra augmenter sa taxe nette, car il aura réclamé trop de CTI.
+[46] Selon 9267, le contrat de vente des noms de domaine a été résilié lors de la proposition en vertu de la LFI de 9210. 9267 fait valoir que cette résiliation fait en sorte que la contrepartie à recevoir pour les noms de domaine est passée de 500 000 $ à 21 743 $. Si on ajoute les taxes, la contrepartie à recevoir est passée de 574 875 $ à 25 000 $.
+[47] Je ne suis pas d’accord avec la prétention de l’appelante à l’effet que le contrat de vente des noms de domaine a été résilié. Aucune preuve n’a été présentée qui me permet de conclure que le contrat de vente des noms de domaine a été résilié. Il n’y a pas de clause de résiliation automatique au contrat de vente des noms de domaine. Je comprends que le contrat de licence pour sa part a effectivement été résilié à la lumière de la clause de résiliation à ce contrat. Cependant, les deux contrats portent sur des fins et objets différents. Je ne peux souscrire à la prétention de 9267 qui fait valoir que les contrats de vente des noms de domaine et celui de licence doivent être analysés comme un tout, et que je doive appliquer la clause de résiliation du contrat de licence au contrat de vente des noms de domaine.
+[48] De plus, 9210 n’a pas émis de note de crédit en faveur de 9267 et cette dernière n’a pas émis une note de débit à 9210 établissant un redressement du prix de vente.
+[49] Selon 9267, l’émission d’une note de débit ou de crédit est futile, car 9210 a fait une proposition en vertu de la LFI. De toute manière, 9267 fait valoir que le syndic aurait refusé d’émettre une note de crédit à 9267. Il est facile de comprendre pourquoi le syndic n’avait aucun intérêt à émettre une note de crédit en faveur de 9267, 9210 aurait eu à rembourser une partie des CTI qu’elle avait déjà réclamés à l’égard de la transaction. Par conséquent, une dette supplémentaire aurait dû être inscrite aux états financiers de 9210 préparés dans le cadre de la proposition.
+[50] 9267 fait donc valoir que pour l’application du paragraphe 232(2) de la LTA, une note de crédit ou de débit n’est pas nécessaire. Pour conclure ainsi, 9267 s’appuie sur les décisions Vivaconcept International Inc. c R [8] , (« Vivaconcept ») et North Shore Power Group Inc. c Canada, (« North Shore ») [9] .
+[51] La décision Vivaconcept n’est pas utile à 9267, car cette décision confirme que pour l’application des paragraphes 232(1) ou (2) de la LTA, une note de crédit ou de débit doit être émise. La question en litige dans Vivaconcept est de savoir si la note de crédit avait été émise dans un délai raisonnable.
+[52] Dans North Shore, la Cour d’appel fédérale réitère que pour l’application de l’article 232, des notes de crédit doivent être émises. Cependant, la Cour énonce que la Cour canadienne de l’impôt a commis une erreur lorsqu’elle a conclu que le terme « crédit » au paragraphe 232(1) tire son sens des termes commerciaux « note de crédit » et « avis de crédit ». Selon la Cour d’appel fédérale, le terme « crédit » à l’article 232 devrait avoir le sens donné par Le Petit Robert, soit une : opération par laquelle une somme d’argent est mise à la disposition d’une autre personne. La juge Woods, au nom de la Cour d’appel fédérale, explique qu’une note de crédit se qualifie selon le paragraphe 232(1), si la somme due est mise à la disposition de l’acheteur. À cet effet, la juge Woods écrit ce qui suit :
+Je ne prétends pas que l’argent doit réellement être mis de côté, mais cela ne suffit pas si aucune somme n’est mise à la disposition de l’acheteur.
+[53] Dans North Shore, la société Menova qui avait émis des avis de crédit avait fait faillite. Étant insolvable, Menova ne pouvait rembourser North Shore. La juge Woods a donc conclu que l’article 232 de la LTA ne s’appliquait pas puisque la TVH n’avait pas été portée au crédit (mise à la disposition) de North Shore. Ce qui ressort de North Shore, c’est que pour l’application de l’article 232, une note de crédit ou de débit ne suffit pas, il faut qu’en vertu de la note une somme soit mise à la disposition de l’acheteur. Cependant, dans la décision North Shore la juge Woods ne conclue pas qu’une note de crédit ou débit n’est pas nécessaire pour l’application de l’article 232. Au contraire, elle conclue que des notes de crédit sont nécessaires afin que l’article 232 s’applique. Cependant, l’article 232 ne s’applique pas aux faits de l’appel dans North Shore. Par conséquent, des notes de crédit n’étaient pas nécessaires. Conséquemment, cette décision n’assiste pas 9267 qui tente d’appliquer l’article 232 aux faits en l’espèce.
+[54] Contrairement à la position de 9267, je suis d’avis que le langage du paragraphe 232(3) de la LTA requiert qu’une note de crédit ou une note de débit soit remise au fournisseur ou à l’acheteur. De plus, la note doit inclure les renseignements réglementaires pour que les paragraphes 232(1) et 232(2) de la LTA s’appliquent et cela, afin de s’assurer que les deux parties redressent leurs taxes; une partie diminuera sa taxe nette et l’autre partie l’augmentera. En l’espèce, le contrat de vente des noms de domaine n’était pas résilié. De plus, 9210 n’était pas en faillite. Le syndic aurait pu émettre une note de crédit en faveur de 9267.
+[55] À cet effet, dans la décision Gem Health Care Group Limited c SMR [10] , le juge Sommerfeldt énonce que la remise d’une note de crédit est cruciale et qu’elle n’est pas une simple formalité procédurale dont on peut faire abstraction. Au paragraphe 98, il écrit ce qui suit :
+[98] À mon avis, l’article 232 de la LTA définit la procédure que GEM aurait dû suivre pour redresser le montant de TPS/TVH correspondant aux honoraires de gestion qui ont été réduits en fin de compte en 2009. Nul élément de preuve ne permettait d’établir que GEM avait remis des notes de crédit ou que Melville Ridge et la propriétaire de la maison de retraite North Hills avaient remis des notes de débit. À mon avis, dans une situation comme celle‑ci, la remise d’une note de crédit par un fournisseur est cruciale, car cela permet au bénéficiaire de déterminer si le fournisseur réduira ou remboursera (selon le cas) la TPS/TVH, ou s’il sera nécessaire que le bénéficiaire demande le remboursement de taxe au titre de l’article 261 de la LTA. La remise d’une note de crédit, dans les cas où l’alinéa 232(3)a) de la LTA l’exige, n’est pas une simple formalité procédurale dont on peut faire abstraction. Les avocats de GEM ont soutenu que les écritures de régularisation en fin d’année qui figuraient dans les comptes de GEM constituaient l’équivalent d’une note de crédit; cependant, comme ces écritures de régularisation ne contenaient pas les renseignements réglementaires prescrits par le Règlement sur les renseignements à inclure dans les notes de crédit et les notes de débit (TPS/TVH), elles n’étaient pas suffisantes pour répondre à l’exigence imposée par l’alinéa 232(3)a) de la LTA. Par conséquent, je suis d’avis que GEM n’avait pas le droit de demander un CTI relativement à un montant de TPS/TVH calculé en fonction du montant de la réduction des honoraires de gestion.
+[Je souligne.]
+[56] Je suis donc d’avis que l’article 232 de la LTA ne s’applique pas en l’espèce.
+Est-ce que le paragraphe 225(1) de la LTA s’applique aux faits en l’espèce?
+[57] Lors de l’audience, 9267 plaide également le paragraphe 225(1) de la LTA permettait d’ajuster sa taxe nette. Je note que ce paragraphe n’a pas été soulevé dans l’avis d’appel de 9267. Cependant, comme l’intimée ne s’est pas objectée à cet argument, j’ai décidé de déterminer si 9267 peut redresser sa TPS en utilisant le paragraphe 225(1) de la LTA.
+[58] L’article 225(1) de la LTA stipule ce qui suit :
+Versement de la taxe
+Taxe nette
+225 (1) Sous réserve des autres dispositions de la présente sous-section, la taxe nette pour une période de déclaration donnée d’une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A - B
+où :
+A
+représente le total des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II;
+b) les montants à ajouter aux termes de la présente partie dans le calcul de la taxe nette de la personne pour la période donnée;
+B
+le total des montants suivants :
+a) l’ensemble des montants dont chacun représente un crédit de taxe sur les intrants pour la période donnée ou une période de déclaration antérieure de la personne, que celle-ci a demandé dans la déclaration produite en application de la présente section pour la période donnée;
+b) l’ensemble des montants dont chacun représente un montant que la personne peut déduire en application de la présente partie dans le calcul de sa taxe nette pour la période donnée et qu’elle a indiqué dans la déclaration produite en application de la présente section pour cette période.
+[Je souligne.]
+[59] L’argument de 9267 quant au paragraphe 225(1) est le suivant [11] :
+- Pour la période 2012/2013, étant donné que la comptabilité applicable est celle d’une comptabilité d’exercice, la contrepartie applicable était de 500 000 $ et donc la taxe percevable (ÉLÉMENT A).
+- Pour ce qui est de l’ÉLÉMENT B, les crédits qui sont les intrants ont été considérés pour cette période.
+- Toutefois étant donné que 1) la totalité de la contrepartie n’a pas été versée; 2) le contrat a été résilié; et 3) la proposition de 9210, la contrepartie versée a été réduite à 25 000 $ et que l’ensemble de ces conditions se sont matérialisées en 2014, une déclaration de taxes devait être produite pour la période reflétant cette situation.
+- Par conséquent, pour la période 2014/2015, la contrepartie applicable est devenue 21 743,88 $ et donc la taxe percevable (ELEMENT A) était de 0 $ puisque déjà déclarée comme ayant été perçue.
+- La taxe doit être réduite dans ce calcul (ÉLÉMENT B) de 23 912,81 $ et la seule taxe qui doit être remise est 1 087,20 $ en TPS.
+- En effet, un contribuable doit être cotisé selon sa réalité. Il ne peut devoir une taxe qui n’a pas été payée.
+- Il n’est que le mandataire de l’État et doit remettre ce qu’il perçoit, tel que prévu à l’article 222 de la LTA.
+a) 25 000 $ en TPS; et
+b) 49 875 $ en TVQ.
+[60] Tel que l’explique le juge Sommerfeld de cette Cour dans la décision Gem Health Care Group Limited v SMR [12] , le paragraphe 169(1) de la LTA ou en l’espèce le paragraphe 225(1) ne permet pas à un inscrit de demander un crédit sur les intrants ou un redressement dans le cas où une contrepartie est réduite. C’est exactement ce que 9267 tente de faire en l’espèce.
+[61] Le paragraphe 225(1) de la LTA a pour but de calculer la taxe nette. Ainsi, pour l’application de l’alinéa 225(1)b), le montant soustrait en vertu de cet alinéa doit être déductible en vertu d’une disposition de la partie IX de la LTA qui autorise une telle déduction. Par exemple, si un montant est déductible en vertu de l’article 231 qui vise les mauvaises créances, le montant établi selon l’article 231 viendra réduire la taxe nette conformément au calcul prévu à l’alinéa 225(1)b). Le paragraphe 225(1) ne permet pas à lui seul d’ajuster la taxe.
+IV. Disposition
+[62] Par conséquent, l’appel est rejeté avec frais.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2020.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2020 CCI 53
+Nº DU DOSSIER DE LA COUR :
+2017-4072(GST)G
+INTITULÉ DE LA CAUSE :
+9267-9075 QUÉBEC INC. c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 12 et 13 décembre 2019
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 16 juillet 2020
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Julie Gaudreault-Martel
+Avocat de l’intimée :
+Me Michel Rossignol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Julie Gaudreault-Martel
+Cabinet :
+BCF s.e.n.c.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Cahier des pièces de l’intimée, I-1 onglet 6.
+[2] Au Québec les déclarations de taxe comprennent la TPS et la TVQ. Cependant, comme la compétence de cette Cour se limite à la TPS, j’ai décidé de référer pour les fins de ces motifs à « la déclaration de TPS ».
+[3] Cahier des pièces de l’intimée, I-2 onglet 11.
+[4] 23 912,81 $ = (25 000 $ (TPS sur une considération de 500 000$) – 1 087,20 $ (montant de TPS déjà versé par 9267)).
+[5] Cahier de pièces de l’intimée, I-1, onglet 9, p. 144.
+[6] Cahier de pièces de l’intimée, I-2, onglet 17.
+[7] Ministic Air Ltd. c La Reine, 2008 CCI 296.
+[8] Vivaconcept International Inc. c R, 2013 CCI 336.
+[9] North Shore Power Group Inc. c R, 2018 CFA 9.
+[10] Gem Health Care Group Limited c SMR, 2017 CCI 13, au paragraphe 97.
+[11] Argument écrit de 9267, au paragraphe 57.
+[12] Gem Health Care Group Limited c SMR, 2017 CCI 13, au paragraphe 97.

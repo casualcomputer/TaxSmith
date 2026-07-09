@@ -1,0 +1,155 @@
+---
+title: "Snow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27079/index.do"
+last_modified: "2004-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 381"
+citation2: ""
+neutral_citation: "2004 TCC 381"
+decision_date: "2004-05-19"
+language: "en"
+item_id: "27079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 949
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:26:29.440000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eea1b1698f4f526ab1d8ac232b0e24451ee16f628153bd0be358058113dc5c89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Snow v. The Queen
+
+- Citation: 2004 TCC 381
+- Decision date: 2004-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 949, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Snow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-19
+Neutral citation
+2004 TCC 381
+File numbers
+2001-3018(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3018(IT)I
+BETWEEN:
+PAMELA SNOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 10, 2004, at Vancouver, British Columbia.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+John B. Haley
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 1998 and 1999 taxation years are dismissed.
+Signed at Ottawa, Canada, this 19th day of May, 2004.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2004TCC381
+Date: 20040519
+Docket: 2001-3018(IT)I
+BETWEEN:
+PAMELA SNOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] The issue in these appeals from assessments for 1998 and 1999 is whether Pamela Snow (formerly Pamela Thomas) was resident in Canada.
+[2] Before 1998, Mrs. Snow, a lifelong resident of Canada, was employed as a vice principal with the Surrey School District in British Columbia. In December 1997, after being off work for about three years, Mrs. Snow took early retirement from the School District. After a divorce, which forced her to move, she was living in a townhouse where she felt controlled by the regulations of the strata (condominium) corporation. She "wanted to change [her] life."
+[3] Mrs. Snow was a citizen of both Canada and the United States and had passports from both countries. She felt this gave her an opportunity to travel. Her daughter lived in New York City and she had considered moving to New York.
+[4] In December 1997, Mrs. Snow saw an advertisement for Volunteers Service Overseas ("VSO"), an organization with headquarters in the United Kingdom and an office in Ottawa. VSO encourages professionals to share their work experience in developing countries. VSO has program directors in various countries who work with local government ministries matching up people with positions in the ministries. A VSO posting is usually for two years.
+[5] Mrs. Snow applied to VSO in Ottawa, was accepted, and after training courses in Ottawa and in the United Kingdom, she was matched for a position in the Education Ministry in Belize to assist in the preparation of a national education curriculum.
+[6] VSO paid for Mrs. Snow's flight to Belize and return to Vancouver. In Belize she was employed by the Ministry of Education of Belize and was paid a modest stipend by the Ministry.
+[7] Mrs. Snow opted to apply to VSO so that she could "give back" rather than work elsewhere as a consultant and "get paid a lot of money". She worked "side by side with Belize colleagues" to facilitate their training.
+[8] Before leaving Canada, Mrs. Snow testified she knew in "my head" she would not return to Canada since she wanted a different life. Before leaving Vancouver she closed a small business she was operating, surrendered her provincial health insurance benefits (which were replaced by VSO's health insurance) and resigned from her professional organization and the University Women's Club.
+[9] Her townhouse was a problem, Mrs. Snow recalled. She did not want to sell the townhouse because the real estate market in late 1997 and early 1998 was depressed. Also, because of the strata corporation's rules and regulations, it would be difficult to find a tenant satisfactory to her and the strata corporation. Mrs. Snow decided to allow her son and his wife and their newborn child to live in the townhouse rent free. Her son would maintain the property but she would continue to pay the taxes, insurance premiums and strata fees. She also gave her son a power of attorney.
+[10] Mrs. Snow stored the bulk of her belongings and her grandmother's antiques in Vancouver. The household furniture and appliances remained in the townhouse. Mrs. Snow considered Vancouver "a place where I could reconnect with things I wanted to do" and visited Vancouver during her posting. She also wanted to be with her granddaughter in Vancouver. Also, if she required a place to stay, it was in Vancouver. She said she could not live in Belize. She never considered taking her furniture with her to Belize, although, had she moved to New York she would have taken the furniture, but "no way" would she take her furniture to a developing country.
+[11] Mrs. Snow maintained her British Columbia driver's licence which she could use on the visits to British Columbia and which was valid in developing countries, she stated. She sold her investment portfolio during 1998 and 1999; she maintained her registered retirement savings plan as well as her Canadian bank accounts. Her credit cards were from Canadian financial institutions. Her pension or superannuation payments were made to a Canadian bank account. In 1998, she had informed the administrator of the superannuation plan for teachers and her investment advisor that she would be a non-resident of Canada for two years.
+[12] Mrs. Snow's mail continued to be sent to her townhouse since "mail in developing countries [is] poor".
+[13] On February 14, 1998, Mrs. Snow left Canada. She invited her family to Belize for Christmas 1998 and visited her family in Vancouver and Manning Park during Christmas 1999. She also spent a week in Vancouver during February 1999 during a break between jobs in Belize. The Belize government originally engaged her for two years to prepare a curriculum for pre‑schoolers and she was asked to change her duties to prepare a pre‑school curriculum. As a result, her stay in Belize was extended to three years. During her time in Vancouver, she attended Simon Fraser University to obtain books and information to help her prepare the pre‑school curriculum.
+[14] When in Vancouver, Mrs. Snow stayed in her townhouse. She also used the car she left in Vancouver. She had not sold the car because it was a 1986 model and could not get much for it. She allowed her son use the car.
+[15] As her term with VSO was approaching its end, Mrs. Snow wanted to continue working with VSO and reapplied for a second term. She also considered graduate studies in development work in an American or British university. She interviewed for a more senior position with VSO but was not successful. VSO suggested she look at other organizations for work and if that failed, she would be welcomed back at VSO. She returned to Vancouver after the interview. On her return she attended VSO workshops in Canada "to learn the experience of others". She intended to accept a second posting overseas.
+[16] A person who resided in Canada at any time in the year is to pay income tax on his or her taxable income: s.s. 2(1) of the Income Tax Act ("I.T.A."). A person resident in Canada includes a person who was at the relevant time ordinarily resident in Canada: s.s. 250(3) of the I.T.A.
+[17] Rand, J. in Thomson v. M.N.R.[1] stated that:
+For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related.
+[18] A person may be resident of more than one country for tax purposes. The nature of a person's life and the frequency he or she comes to Canada are important matters to consider in determining one's residence.[2] The words "ordinarily resident" in s.s. 250(3) refer to the place where, in the person's settled routine of life, the person normally or customarily lives.[3] The intention of a taxpayer, while obviously relevant in determining the "settled routine" of a taxpayer's life, is not determinative.[4] A person's temporary absence from Canada does not necessarily lead to a loss of Canadian residence if a family household remains in Canada, or possibly even if close personal and business ties are maintained in Canada.[5]
+[19] In the case at bar the taxpayer took an assignment for a two year period in Belize. She may not have believed that she would return to Canada once the assignment terminated. She maintained a home in Vancouver where her son and his family resided. All of her banking and other financial interests were in Canada. Her pension cheques were paid to her Canadian bank account. Her mail continued to be sent to her in Vancouver. Simply, she did not trust the Belize banking or postal systems and had no intention to reside on any permanent basis in Belize. She felt the comfort of having these matters remain in Canada.
+[20] In Belize Mrs. Snow lived in a "quite modest" apartment that included two bedrooms and "basic furnishings". She remarked that she "could not live in Belize" for an extended time.
+[21] Mrs. Snow considered Vancouver as the place where she could "reconnect" and where, if she needed a place to stay, she could stay. Mrs. Snow sojourned in Belize, that is, her stay in Belize was temporary.[6] Vancouver was her home; it was the city where her home was located and was "the place where, when you go there, They have to take you in".[7]
+[22] Her agent argued that the townhouse was occupied by her son's family and was not available to her whenever she wished to use it. There is absolutely no evidence that this is so. Her townhouse was the place where they had to take her in.
+[23] Mrs. Snow was ordinarily resident in Canada during 1998 and 1999.
+[24] The appeals are dismissed.
+Signed at Ottawa, Canada, this 19th day of May, 2004.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2004TCC381
+COURT FILE NO.:
+2001-3018(IT)I
+STYLE OF CAUSE:
+Pamela Snow v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+May 19, 2004
+APPEARANCES:
+Agent for the Appellant:
+John B. Haley
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1946] S.C.R. 209, at 224-5.
+[2] Thomson, supra, 213-4, per Kerwin, J.
+[3] Thomson, supra, 231 per Estey, J.
+[4] Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 4th ed. p.p. 60-62, Carswell: Toronto
+[5] Hogg, supra, p. 62
+[6] The Shorter Oxford English Dictionary, vol. 2, 1973.
+[7] Robert Frost, "The Death of the Hired Man" cited by Bowman, A.C.J. in Fisher v. R. [1995] C.T.C. 2011, 95 DTC 840, 1994 CarswellNat 1149, at para. 41

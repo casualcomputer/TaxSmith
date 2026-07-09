@@ -1,0 +1,430 @@
+Title: Stewart v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/518546/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-94-518546-stewart-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-12-22
+
+# Stewart v. The Queen
+
+- Citation: 2021 TCC 94
+- Decision date: 2021-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4427, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stewart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-12-22
+Neutral citation
+2021 TCC 94
+File numbers
+2018-203(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-203(IT)G
+BETWEEN:
+RAYMOND STEWART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 19 and 20, 2021, at Hamilton, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Gibson
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal in respect of the two reassessments both dated July 4, 2016 concerning the 2011 and 2012 taxation years is hereby allowed on the following basis:
+i) The Appellant is entitled to an additional sum of $44,681.12 in business expenses for the 2011 taxation year on account of sub-contractor expenses;
+ii) The Appellant is entitled to an additional sum of $65,775.25 in business expenses for the 2012 taxation year on account of sub-contractor expenses;
+The penalties assessed under subsection 163(2) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”) are deleted; and,
+Costs are awarded on a preliminary basis to the Appellant and fixed at $500.00 above the applicable Tariff in light of all the circumstances of the appeal. Should the parties contest this preliminary determination of costs, they may make brief submissions to the contrary within 30 days from the date of this judgment.
+Signed at Ottawa, Canada, this 22nd day of December, 2021.
+“R.S. Bocock”
+Bocock J.
+Citation: 2021TCC94
+Date: 20211222
+Docket: 2018-203(IT)G
+BETWEEN:
+RAYMOND STEWART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] This appeal arises from two reassessments levied by the Minister informed by a net worth assessment (“NWA”) concerning the Appellant’s 2011 and 2012 taxation years. The NWA ascribed additional business income of $84,000 and $110,000 for those respective taxation years to the Appellant (“Mr. Stewart”). The Minister also imposed penalties under Subsection 163(2) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”) (commonly known as “gross negligence penalties”).
+[2] Mr. Stewart specifically limits his appeal to two grounds. Confirmed by him at the outset of the trial, these are:
+i) the disallowance and/or non-inclusion within the NWA of asserted payments made by Mr. Stewart in each of the taxation years to three specific sub-contractors; and,
+ii) the imposition of the gross negligence penalties under subsection 163(2).
+a) Necessity and methodology of NWA not contested
+[3] Mr. Stewart does not contest the necessity of the alternative assessment under subsection 152(7) of the Act or the NWA methodology employed. He simply wants the inclusion of certain disallowed expenses he claims he paid to three subcontractors. There is no dispute that the Minister disallowed such claimed payments. If allowed, inclusion will increase the deducted businesses expenses and reduce the unreported income. As a partial consequence, Mr. Stewart argues that the 163(2) penalties are not then justified; the recognition of the additional business expenses reduces the magnitude of the difference between reported and actual income. Further, the penalties were misapplied because his errors arose from a total lack of business knowledge and not gross negligence.
+[4] The two issues before the Court therefore are:
+a) If and to what extent should the alleged payments to the sub-contractors be allowed, the NWA amended accordingly, and the unreported income reduced?
+b) Are the subsection 163(2) warranted in the circumstances?
+II. FACTS
+[5] From the various documents and testimony at trial, the following facts were assembled, determined to be relevant and considered by the Court. Some of these facts will be further expanded, discerned and refined in the analysis below.
+Mr. Stewart strikes out on a new business
+[6] Prior to 2010, Mr. Stewart by his own testimony did not lead an exemplary, model or healthy lifestyle. He abused alcohol and gambling. It appears his father was similarly vexed. Quite admirably, in 2010, the father, Mr. Stewart and two cousins, as a group, pulled themselves together. Mr. Stewart and his father commenced a barn painting business in Port Rowan in rural Norfolk and Haldimand counties along the northern shore of Lake Erie. By trade, the father was a lifelong painter. The two cousins also had experience in barn repair, spray painting and maintenance. They supported the effort.
+[7] The business began as most, on a shoestring. But unlike some, it seemed to progress in a decent fashion. While Mr. Stewart was the sole owner, according to Mr. Stewart, his father (“Raymond Sr.”), and Mr. Stewart’s two cousins provided essential operational services as sub-contractors.
+The Stewart family and their “system”
+[8] Mr. Stewart’s witnesses testified that the heaviest work relating to the business was completed by Mr. Stewart and his two cousins, Dave and Mike. Dave testified, Mike did not. Mr. Stewart would estimate and price barn painting jobs. In conjunction with Dave and Mike, the share of the proceeds from the jobs would be divided based upon a proportional share, relevant to the contribution of services, and, at the conclusion, paid in cash. According to the witnesses called by Mr. Stewart, there was a high level of trust among the four of them which required much less documentation than might otherwise occur if less affinity and familiarity.
+[9] Raymond Sr. functioned as a kind of eminence grise to the business. His contributions were less physical and labour intensive than the others, according to him, owing to his age, physical and mental health and his own struggles with excessive alcohol and gambling abuse. This behaviour was not always the case according to Raymond Sr. and, happily, is again no longer. He was a lifelong painter and asphalt paver and sprayer. By 2011, however, his duties were limited to sales person, estimator, trim painter, promoter and all round “gof(ph)er”.
+[10] The described payment arrangement for Raymond Sr. was quite unique. He was given a debit card and credit card by Mr. Stewart to buy necessities of life: food, gas, amenities and other personal items. This represented “roughly” his share of compensation as a sub-contractor working for the business. This prevented wasting the earnings on vice. Raymond Sr. estimated this “compensation in kind” to be approximately $20,000 and $30,000 in 2011 and 2012, respectively.
+[11] The payment arrangements described for cousin Dave were different and only slightly more orthodox. Dave was paid mostly in cash according to both he and Mr. Stewart. Dave stated there was an occasional cheque, but most payments were made in cash. Cheque payments may have occurred in subsequent years. Dave’s testimony was vague on this point. Again, compensation was based on the verbal arrangement concerning a percentage of job revenue owing among the goal. No records were produced reflecting invoices, payment or receipts. Dave could not estimate the amounts he received in either year for the sub-contracted painting services he provided.
+The results of the family arrangement: no records
+[12] Mr. Stewart freely testified that his records for 2011 were “awful” and in 2012, a “disaster”. He also indicated that the arrival of the CRA auditor to undertake an onsite business audit resulted in his first introduction to some critical reporting techniques before unknown to him: (i) reporting all gross revenue and all expenses rather than “nets”;(ii) accounting for his “farm business” (consisting of his groomshares in horses) distinctly and apart from his painting business and, lastly; (iii) retaining all receipts, vouchers and records; and, (iv) paying sub-contractors by business cheque. He testified that once he learnt these concepts he adopted them.
+[13] Mr. Stewart was “something” of an entrepreneur from an early age. Although modest in scope, he described accepting painting and driveway sealing jobs from age 16. Although he attended university after that, he did not satisfy the requirements to graduate from the Wilfrid Laurier University political science department where he studied. His website reported he did graduate, but Mr. Stewart insisted this was not accurate.
+[14] Cross-examination exposed the full extent of Mr. Stewart’s misunderstanding of even rudimentary accounting practices. To appreciate the imprecision and confusion some direct quotations are lifted from bench notes reflecting answers to questions posed by counsel. Mr. Stewart said he “did not know I had to include what I paid to them [sub-contractors]”. What was paid to “Dave, Mike and my Dad” was what they “were responsible for”. Only what “I had would fall on me”. Likewise for HST, it was not charged on sub-contracts because everyone “takes care of their own GST”. All the personal affairs and business interests of he and his spouse were administered from a single bank account.
+[15] Mr. Stewart did file timely tax returns for 2011 and 2012. He used the services of H&R Block who, as usual, prepared the returns based entirely upon information provided. It was markedly incomplete. In cross-examination, Mr. Stewart confirmed and admitted that the comingling of the so called “horse business” with the barn painting business was incorrect as was including other non-business expenses. He had no records for the sub-contractors and estimated the amounts “just roughly in discussions what we thought they made”. These assumptions and mistakes which he states were made through ignorance, were soon corrected as a result of the auditor’s explanations to him made on-site.
+[16] In terms of the audit and the 3 sub-contractors, Mr. Stewart indicated he was instructed by the auditor to obtain “affidavits” to help establish the validity of the sub-contractor expenses. He claimed he did so. Documents in the form of “signed letters” were in the Respondent’s book of documents and referenced at trial by both Mr. Stewart and the CRA auditor. The letters were not affidavits. The auditor gave them no weight in her NWA reassessment and granted no amount for sub-contractor expenses.
+The NWA and the sole area of dispute
+[17] The CRA auditor provided testimony. Ms. Misner had over two decades of experience with the agency before her recent retirement. This experience is entirely borne out in her NWA working papers, the justification for it and the methodology employed. The were few if any business records for 2011 and 2012, no separate business bank accounts, two distinct business sources and a record of late filings before 2011. There was no issue regarding the need for the NWA or the methodology followed. Ms. Misner demonstrated why in her testimony; Mr. Stewart does not contest this.
+[18] The sole area of dispute surrounds the non-recognition of any amounts paid to the three subcontractors. The nub of the disagreements was isolated by Ms. Misner and Mr. Stewart before the Court. It is revealed in the two excerpts i) and ii) below (with added explanatory descriptors identified in square brackets) from the NWA working papers:
+i) The decisive non-allocation of surplus cash to sub-contractor payments
+For 2011 Taxation Year [bolded text added to highlight]
+Payment Received
+Other Information Provided
+Brandon Weller
+Was not listed and no information provided
+David Stewart
+$25,000 to $30,000
+Approximate amounts for 2011 and 2012
+Mike Stewart
+$12,000 to $15,000
+Approximate amounts
+Ray Stewart (Father of Taxpayer)
+$25,000
+Approximate, access to two bank cards and use of son’s money
+We [CRA] totaled the Withdrawals from the Taxpayer’s Bank Accounts to verify the accuracy of the payments to the contractor’s.
+Line
+Chart One Totals of Cash Withdrawals (Column 2) over $100 from BMO
+$30,783.25
+1
+Chart Two Totals of Withdrawals (Column 2) over $100 from CIBC
+$10,866.50
+2
+Total of All Withdrawals over $100
+$41,649.75
+3= 1+2
+Less Other Business Expenses Paid in Cash from the total of Paragraph 22 below
+$12,895.78
+4
+Amount of Cash Withdrawals Taxpayer has to pay Contractors
+$28,753.97
+5=3-4
+While reviewing the books and records we [CRA] determined the taxpayer had used the cash withdrawn for payment of other business expenses. Chart 3 below totals the expenses other business expenses paid in cash. We [CRA] totaled only four of the Horse Business and Painting Business Expenses paid in cash. We [CRA] also included the Meal and Entertainment Expenses paid in cash that are included as personal expenditures paid in cash.
+Line
+Horse Supplies Chart 3 Total
+$1,903.71
+Painting Supplies Chart 4 Total
+$5,628.16
+Food and Restaurants paid with cash Chart 5
+$540.86
+Fuel paid with cash total of Chart 6
+$4,823.05
+Total of some of the business expenses paid in cash to line 4 above
+$12,895.78
+Chart One Totals of Cash Withdrawals (Column 2) over $100 from BMO
+$30,783.25
+1
+Chart Two Totals of Withdrawals (Column 2) over $100 from CIBC
+$10,866.50
+2
+Total of All Withdrawals over $100
+$41,649.75
+3= 1+2
+Amount Taxpayer stated he paid the subcontractors from total in 3 Above
+$62,740.57
+4
+Variance of Withdrawals and Amount taxpayer stated
+$21,090.82
+5=4-3
+Contractor Amount Claimed on the Revised Statements
+$62,740.57
+6
+Variance of Cash to Pay Contractors
+-$41,649.75
+7=5-6
+Shortfall
+$21,090.82
+For 2012 Taxation Year
+While picking up documentation for the completion of the 2013 tax year, the taxpayer supplied affidavits from individuals stating he paid contractors.
+Line
+Ray Stewart (Father of Taxpayer)
+$30,000
+“approximately”
+David Stewart
+$25,000 to $30,000
+“approx”
+Mike Stewart
+$15,000
+“around”
+Proposed total of sub-contractor revised expense
+$75,000
+Chart One Totals of Cash Withdrawals (Column 2) over $100 from BMO
+$21,890.00
+1
+Chart Two Totals of Withdrawals (Column 2) over $100 from CIBC
+$45,385.94
+2
+$2,575.50
+3
+Total of All Withdrawals over $100
+$67,275.94
+3= 1+2
+Less Other Business Expenses Paid in Cash from the total of Paragraph 24 below
+$22,594.82
+4
+Amount of Cash Withdrawals Taxpayer has to pay Contractors
+$44,681.12
+5=3-4
+While reviewing the books and records we [CRA] determined the taxpayer had used the cash withdrawn for payment of other business expenses. Chart 3 below totals the expenses other business expenses paid in cash. We [CRA] totaled only four of the Horse Business and Painting Business Expenses paid in cash. We [CRA] also included the Meal and Entertainment Expenses paid in cash that are included as personal expenditures paid in cash.
+Line
+Horse Supplies Chart 3 Total
+$5,170.85
+Painting Supplies Chart 4 Total
+$9,698.55
+Food and Restaurants paid with cash Chart 5
+$3,000.00
+Fuel paid with cash total of Chart 6
+$4,725.42
+Total of some of the business expenses paid in cash to line 4 above
+$22,594.82
+Chart One Totals of Cash Withdrawals (Column 2) over $100 from BMO
+$21,170.70
+1
+Chart Two Totals of Withdrawals (Column 2) over $100 from CIBC
+$44,604.55
+2
+Total of All Withdrawals over $100
+$65,775.25
+3= 1+2
+Amount Taxpayer stated he paid the subcontractors from total in 3 Above
+$75,000.00
+4
+Variance of Withdrawals and Amount taxpayer stated
+$9,224.75
+5=4-3
+Contractor Amount Claimed on the Revised Statements
+$75,000.00
+6
+Variance of Cash to Pay Contractors
+-$65,775.25
+7=5-6
+Shortfall
+$9,224.75
+It is reasonable the taxpayer needed the assistance of a contractor or employee to do the business activity. Industry Canada for the Naics Code 23893 list Salary and Wages or direct costs of wages at 5 to 10% depending on the size of the business.
+Income Originally Reported
+24% Ratio of Subcontractor or Wage Expense to Income
+Proposed Amount
+Variance
+Income Originally Reported
+$163,147
+$39,155
+$75,000
+$35,844.72
+ii) Inclusion of all credit card and debit card charges beyond a 3 person adult household
+Calculation of the Discrepancy in Total Income per Net Worth (Income Tax Purposes)
+Dec 31, 2010
+Dec 31, 2011
+Dec 31, 2012
+Increase (decrease) in net worth (per Schedule II)
+-
+36,806
+7,865
+Adjustments
+Additions
+Personal Expenditures (per Schedule IV)
+24,139
+161,726
+218,414
+Total Additions
+24,139
+162,421
+220,607
+Total Deductions
+-
+23,241
+25,994
+Net Adjustments
+24,139
+139,180
+194,613
+Income per Adjusted Net Worth
+24,139
+175,986
+202,477
+Discrepancy per Net Worth
+24,139
+137,636
+167,210
+Summary of Personal Expenditures (includes food shelter, transportation etc.)
+24,139
+161,726
+218,414
+Analysis of Income Tax Discrepancy per Net Worth
+Dec 31, 2010
+Dec 31, 2011
+Dec 31, 2012
+Dec 31, 2013
+Dec 31, 2014
+Discrepancy in total income per net worth (per schedule III)
+24,139
+137,636
+167,210
+174,287
+(41,126)
+Total Known Audit Adjustments (for business expenditures
+-
+54,185
+67,907
+120,619
+-
+Underreported business income per net worth
+24,139
+83,451
+99,303
+53,668
+(41,126)
+[19] With respect to the non-allocation for sub-contractors, described in sub-paragraphs (i) above, a similar chart was prepared and placed before the Court on cross-examination for 2013. However, the 2013 taxation year was not reassessed, presumably because by 2013 Mr. Stewart was including the full sub-contractor expenses on his tax return rather than “netting” them. No further explanation was offered.
+Some oddities of testimony all round
+[20] There were some curiosities in testimony that weigh on the Court in the assessment, weight and reliability to be afforded the evidence in reaching the decision.
+[21] Mr. Stewart was clearly unable to comprehend complex questions in cross-examination. One question in particular, was why proceeds from gambling in 2011 were needed to pay sub-contractors when apparently sufficient proceeds from the actual painting jobs were available? Even after the Court admonished Mr. Stewart for appearing to avoid the question and cautioned that the Court could draw an adverse inference, he was still unable to answer the question directly.
+[22] Raymond Sr. and cousin Dave also had similar, albeit less confrontational and confused moments. Raymond Sr. indicated he taught his son “how to run a business”. Yet, Raymond Sr. had always used bookkeepers and others to do the accounting bookkeeping and invoicing. Similarly, Dave did not file tax returns in 2011 and 2012 and also did not “do the books”. He could not recall, even when called as a supporting witness, how or how much he was paid, even as an estimate, as a sub-contractor of Mr. Stewart in 2011 and 2012.
+[23] Ms. Misner had her own moment of intransigence and rigidity, but unlike Mr. Stewart, it arose when her own lawyer questioned her during direct testimony. In attempting to explain a working paper and the conclusion of the relevant denied expenses in unreported income, Ms. Misner thrice expressed “taking it out”. In fact, the working paper “put it in” unreported income. Even after the Court asked her to drop the “jargon” and focus on the question, her answer remained the same. Counsel moved on.
+III. THE LAW
+a) The NWA Process
+(i) The statute
+[24] Subsection 152(7) provides as follows:
+152 (7) The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+(ii) Case law
+[25] In the case of Golden [1] , Justice Boyle explained the NWA process and any basis for taxpayer challenge as follows:
+Net Worth Assessments
+[11] In the case of a net worth assessment, it is open to the taxpayer to attack whether the net worth assessment is needed or the most appropriate method of computing the taxpayer’s income from any source […] If the taxpayer does attack whether a net worth assessment is needed or necessity the most appropriate, a taxpayer would need to prove to the satisfaction of the Court with what evidence there is, what records there are and other credible evidence, what the income of the taxpayer is from the source or sources in question […]
+[12] The alternative is for the taxpayer to challenge specific aspects of the net worth assessment calculations […]
+[15] Taxpayers who do not keep proper records, do financial reporting, file tax returns or do other tax reporting are not entitled to have the CRA or the Court take on the obligation to reconstruct the most favorable scenario for the transactions that is not inconsistent with the evidence, such as it exists, gathered by the Crown, and submitted to the Court by the taxpayer. In most all circumstances, this would amount to retroactive tax planning. […]
+[21] Taxpayers are perfectly entitled to comingle business and personal cash by using a single bank account. As is evident in this case, this can give rise to any number of evidentiary and tracking problems if inadequate records are maintained, timely financial and tax reporting does not occur and the CRA comes asking.
+[22] Taxpayers should not put themselves in this position where they are stuck with the imprecision inherent in the limitations of the net worth assessment method. When they do the task remains to ascertain or estimate the best we can the unreported income from the source or sources. Avoidable, identifiable, inappropriate injustices should not be upheld. […]
+[26] To summarize, the taxpayer may challenge the need for a NWA (necessity). Secondly, the question of methodology may be contested (“methodology”). These are not at issue in this appeal. Lastly, the taxpayer may challenge the quantum of the reassessment based upon errors; avoidable, identifiable and inappropriate errors should be reversed (“patent errors”). However, the evidence to rebut the necessity, methodology and/or patent errors must come from the taxpayer, since by the nature of the NWA, the Minister’s assumptions of the taxpayer’s unreported income are front and centre to the reassessment flowing from the NWA. It is this final basis for challenge that is before the Court in this appeal.
+b) 163(2) Penalties
+(i) Statute
+[27] Subsection 163(2) of the Act provides as follows:
+163 (2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(ii) Case law
+[28] Penalties under subsection 163(2) carry a higher trigger for imposition than the statute barred misrepresentation threshold. In Lacroix [2] (included in the Respondent’s own authorities and referenced in submissions), this distinction was expressed as follows:
+[28] In a similar vein, in Farm Business Consultants Inc. v. Her Majesty the Queen, [1994] 2 C.T.C. 2450, 95 D.T.C. 200, Judge Bowman wrote the following at paragraph 27:
+27 A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged […] Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer’s conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted […]
+[29] This last passage highlights the dialectic specific to certain reassessments made using the net worth method. In the case at bar, the Minister found undeclared income and asked the taxpayer to justify it. The taxpayer provided an explanation that neither the Minister nor the Tax Court of Canada found to be credible. Accordingly, there is no viable and reasonable hypothesis that could lead the decision-maker to give the taxpayer the benefit of the doubt. The only hypothesis offered was deemed not to be credible.
+c) As to Credibility Generally
+[29] Fundamentally important to any Court finding of patent NWA errors will be the facts marshaled by Mr. Stewart to demonstrate an error to a degree which requires the Court to intervene concerning the disallowance or non-inclusion of the asserted sub-contractor expenses. The factual evidence tendered by him and the other witnesses must be evaluated in light of the scant documents and other counter-vailing undisputed facts before the Court. This is a particularly true because the amount relates to an expense he asserts he incurred and failed to accurately reflect. To do so, a credibility assessment is to be undertaken firstly of Mr. Stewart and, secondly, of the other witnesses.
+[30] The evaluative framework for doing so has been established over the years before this Court within a line of authorities [3] . Generally summarized, where factual issues are in dispute, the testimony of a witness, particularly of a party proffering a version of facts, is subject to a credibility assessment based upon the certain indicia in search of comparative weaknesses, differences or gaps. These may be summarized as follows:
+(i) inconsistencies arising from different stages or sources;
+a) during the witness’ own vive voce evidence (“internal”);
+b) compared with the witness’ previous statements (“previous”); or,
+c) compared with other conclusive, probable or undisputed findings of fact (“external”).
+(i) the demeanour, attitude and/or comportment of the witness (“demeanour”);
+(ii) the existence of a motive to fabricate or massage evidence (“motive”); and,
+(iii) from a practical perspective, the overall tenor of the evidence as improbable (“rational improbability”).
+IV. SUBMISSIONS
+a) Respondent
+[31] The Respondent asserts the NWA is unassailed in toto because of the inconsistencies, errors and incredulities contained within Mr. Stewart’s challenge of the Minister’s assumptions. On a summary basis, these include:
+(i) There is not sufficient unallocated cash in the NWA to satisfy the sub-contractor costs claimed. Even if all available cash were so paid, it would be insufficient to pay the sub-contractor expenses claimed;
+(ii) The testimony concerning sub-contractors lack credibility because no sub-contractor costs were claimed in the original corporate tax returns and if they had been, Mr. Stewart would have been in a business loss position; and,
+(iii) The testimony of the sub-contractors is also not credible: Raymond Sr. was forgetful, Dave was inconsistent and Mike was absent.
+[32] On the issues of 163(2) penalties, the Respondent asserts that Mr. Stewart is subject to penalties because:
+(i) The magnitude of the unreported to reported income is considerably large: respectively almost 6 times higher in 2011 and 5 times higher in 2012;
+(ii) Mr. Stewart was educated, experienced and in control of the business(es);
+(iii) There were no reliable books and records which Mr. Stewart was legally obligated to maintain and retain them under the Act; and,
+(iv) Mr. Stewart understood “very well what was at stake” and proceeded to ignore his obligations in a grossly negligent manner.
+b) Appellant
+[33] Mr. Stewart states he should be allowed the deductions for payments to his sub-contractors because the auditor rejected out of hand the NWA’s own identification of residual cash available to satisfy, partially at least, those asserted payments. The amounts were rejected because the numbers do not exactly fit within the gap in the NWA. Further, there was no consideration of the “in kind” payments to Raymond Sr. through the use of Mr. Stewart’s personal credit and debit cards.
+[34] On the issue of penalties, sub-contractor payments when included materially reduce the unreported income below a magnitude which is grossly negligent. Mr. Stewart’s initial lack of knowledge, which, upon proper instruction through the audit process, soon conformed to the norms required by the Act demonstrate this ignorance as opposed to wilful blindness.
+V. ANALYSIS
+a) Some observations
+[35] At first hearing, Mr. Stewart’s testimony (and to a lesser degree Dave’s), appears scatty. It initially struck the Court this way. It seemed to strike Respondent’s counsel in such a fashion when hearing a response to an otherwise clear, but complex quantitative question.
+[36] It also, on balance, influenced Ms. Misner, the CRA auditor, during her onsite audit and upon first hearing the curious and erroneous “net” methodology basis for accounting. That method informed the completion of tax returns for two unrelated businesses, one of which required the use of sub-contractors to carry on business.
+[37] Several reasons suggest this conclusion, which otherwise infects credibility, may have been premature. Mr. Stewart, upon learning the correct manner to reflect revenue, costs and profit, changed his ways. That evidence was before the Court both in terms of subsequent assessments and Mr. Stewart’s “real time” testimony. As to the latter example of real time auto-correction, in Court, as a self-represented litigant, he re-calibrated his approach, once he fully understood the implications of the complicated question he failed to answer in cross-examination. After realization, he attempted to answer the question more adroitly in re-direct testimony. He did not quite do it, but the approach was genuine and mindful of a need to re-address the first three failed attempts. A similar course correction occurred in the case of leading questions becoming more general and open-ended as the trial progressed and the Court explained the proper approach.
+[38] By contrast, Ms. Misner showed little agility when her conclusions were examined. Her certainty around the thrice-attempted correction by her own counsel, her expressed view of incredibility at the “net” versus “gross” approach and her resolute rejection of allowing any amount for payments to sub-contractors bordered on rigid.
+[39] These observations are not conclusive and form only a part of the Court’s assessment concerning the two issues before it: the payments to sub-contractors and the penalties. They do however relate to internal, previous and external testimony and a demeanour appreciative of the importance and seriousness of the issues. Given the nature of Mr. Stewart’s challenge, both the expenses and penalties require the Court to find other material aspects of his testimony credible concerning the alleged errors in the NWA.
+b) The Sub-Contractor Expenses
+[40] Neither the NWA need nor method was challenged. Mr. Stewart fully concedes his books were insufficient and incorrect. The Minister should take some solace from this. The sole issue is with the final rejection of any amounts allocable to sub-contractor expenses.
+[41] The sub-contractor expenses require certain balanced conclusions to be reached by the Court. These cut both ways. First, there is no exact way from the evidence to ascertain with any certainty what these amounts actually were. Second, the NWA assessment reflects Ms. Misner’s conclusion that a barn painting business operated as such in 2011 and 2012. That conclusion is the bedrock of the NWA. As well, she concludes that such operations required sub-contractors. [4]
+[42] Ms. Misner’s thorough NWA and methodology revealed an amount she entitled “variance of cash to pay contractors” amounts. [5] The reasons for rejecting the allocation of any such amount “to the contractors” were multifaceted. The primary reason for rejection was the mathematical incongruity. Both Ms. Misner and counsel unilaterally rejected any amounts because they: (i) did not match the Industry Canada direct cost to wages comparison; (ii) were greater than the cash NWA identified available; (iii) were not disclose in the initial tax returns; (iv) lacked recipient taxpayer verification and; (v) were vague rounded amounts.
+[43] Contextually, rejecting the allocation of any such approximate amounts roughly illustrated and illuminated within the blunt instrument of a NWA is no less incongruous than expecting such amounts to fit perfectly within it like pieces in a jigsaw. The very nature of Mr. Stewart’s appeal is firstly contrition and confession followed with a plea for some approximation of the asserted sub-contractor payments. This request is further supported by the revealed estimate of an amount of “surplus cash” and the auditor’s reasonable conclusion that sub-contractors were very much required to operate the barn painting business.
+[44] Unfortunately, that obvious point and quantitative amount, otherwise unexplained by the auditor was irrevocably and fully rejected. On balance, Mr. Stewart and his witnesses, although clumsily and inexactly, have shown the Court, on balance, that the Minister’s assumption made on the back of the full denial of any sub-contractor amount is defeated. The Minister’s NWA isolates amounts the auditor concedes were necessary to operate. For some reason thereafter, the amount and the conclusion are rejected entirely by the party who first created and made the business assumptions relevant to the NWA. Mr. Stewart has shown, more probably than not, that amounts were paid to sub-contractors. Dave and Raymond Sr. have satisfied the Court they were recipients of some such amounts. Cousin Mike did not attend to testify, according to Mr. Stewart, because of ill health. Likely, his testimony would have been on par with Dave’s. Total rejection of all amounts from the final calculations in the NWA is a patent calculation error concerning the costs of business and correspondingly its profit and unreported income. Most consequentially, it more likely than not renders the calculation of unreported income and assessed tax incorrect.
+[45] The remaining determinative issue is what those amounts are and where they should be reasonably reflected within the NWA to reverse the unreasonable rejection of all sub-contractor payments. The question remains, why is there such a “variance”. How can the Court abide such a discrepancy. Mr. Stewart inexactly explained parts of the reason, should the Court elect to believe the “estimated” amounts: the $25,000 and $30,000 were paid to Raymond Sr. “in kind” during the appeal years. As such, it would not necessarily appear as “a variance”. If the Court believes the payments were made in kind, such amounts were withdrawn by Raymond Sr. from Mr. Stewart’s personal bank accounts and/or charged to his personal credit cards. There were only personal cards and accounts, as confirmed by Ms. Misner in the NWA. But that NWA must reflect these amounts somewhere, however inexactly, if they were made. They would appear as personal expenses, themselves comingled and indiscernible among all the other personal expenses relevant to Mr. Stewart’s other family.
+[46] But what of those personal expenses; how do they figure into the NWA? This is illustrated above. They are added to increases in net worth and used “down the line” to assess unreported business income. Remarkably, if the payments in kind are believed they twice vex Mr. Stewart. They are added as an unexplained increase to personal net worth, but not deducted as a business expense. This would be a double entry error. Is it Mr. Stewart’s own fault?: at a basic level, yes. However, if the Court believes him and Raymond Sr., then it is a patent double counting error in the NWA. The Court notes that no amount was assigned or allocated to Raymond Sr. on account of any sub-contractor payments. The reply clearly makes this universal assumption [6] : no amounts were incurred to sub-contractors.
+[47] So where does this leave the Court? Is it a total rejection or some accounting for necessary and roughly identified sub-contractor payments in the NWA. A father needing and receiving “in kind” payments for services provided to a business. Two cousins providing services and allegedly receiving cash payments. How is this reconcilable? Does the Court, like the Minister, unreasonably fully reject or, as Mr. Stewart urges, fully accept? Or, does it find some theoretical mid-point, as blunt as the NWA on this point or as vague as the books and records on almost everything. Raymond Sr. was a credible witness.
+[48] The Court will land on the NWA and give it the logical interpretation needed to remove the patent error caused by the Minister’s total rejection. The amounts identified in the NWA are $44,681.12 and $65,775.25 for 2011 and 2012, respectively (the “variances”) [7] . The Court does not necessarily believe that these exact amounts were paid directly to the sub-contractors. It cannot put such credence in the NWA (just as the Minister did not) or in the vague amounts asserted by Mr. Stewart or his witnesses. However, this is not the entire story. Some amounts were paid to Raymond Sr. as well as to Dave and Mike. Raymond Sr.’s amounts were paid “in kind” in a most peculiar fashion. That fashion however had a negative double impact given the use of the NWA. That impact is not clear and the degree of it will never be known.
+[49] The Court will allow the variances as sub-contractor expenses of $44,681.12 and $65,775.25 in 2011 and 2012, respectively. In doing so, the Court approximates the payments and reconciles the imprecision against an outright rejection. Whatever amounts within the NWA variances were not paid to sub-contractors are more than offset by the imprecise amount paid to Raymond Sr., which through the payment technique used coupled with the NWA had a double impact which is also never to be known. Likely, the amounts were much higher. Mr. Stewart bears the responsibility of their continued imprecision and the likely shortfall.
+c) The Subsection 163(2) Penalties
+[50] The question of penalties remains. It must be considered in light of the successful appeal on the issue of sub-contractor expenses and the unique facts in this appeal. The metrics used by the Minister is assessing the magnitude of penalties have changed: the underreported income in 2011 and 2012 is now $43,336.88 in 2011 and $33,676.75 in 2012. The amounts, after reassessment, were $86,018 and $99,452, respectively. These amounts are reduced by one-half and two-thirds in the two years penalties were imposed.
+[51] Beyond the magnitude, to which issue the Court, shall return, other circumstances are before the Court which also speak to factors concerning assessing penalties.
+[52] Mr. Stewart’s education and experience are illusory. He would likely not, and did not, say so. His university-level political science studies were not business studies, financial mathematics or science. They were also incomplete; he did not graduate. At the least, they are neutral.
+[53] The influence of Raymond Sr.’s former business acumen was of a practical nature on the operations side. What he knew of business record keeping, tax returns or bookkeeping was by 2011 and 2012 forgotten, rudimentary and untransferred to his son. The same can be said of cousin Dave who in the same period did not keep proper records and failed or at least late filed tax returns.
+[54] The Minister and counsel assert Mr. Stewart was grossly negligent in failing to include the unreported amounts (now reduced) amounts in income. The reply itself also asserts a knowing act of omission on Mr. Stewart’s part. In a peculiar way, Mr. Stewart agrees he did omit the portions of revenue ascribed to the sub-contractors, and also the corresponding expenses. He asserts however, he did not do this from any knowledge, but a real lack of it. The Court agrees that Mr. Stewart did not undertake a knowing act of withholding any amount from income unlike cases which recognize the need for some continued mindfulness of the unreported income or at least circumstances which ought to trigger their reporting. [8] His records would not afford him or anyone the luxury of knowing what his revenue, income, expenses or any such notion was.
+[55] The question remains was he grossly negligence? Did he so sherk his responsibilities that he exhibited a wholesome disregard for the law and compliance with it? Did that amount to wilful blindness capable of transforming into intentional acting? [9]
+[56] The defence offered by Mr. Stewart is that he was completely unaware of the proper way to report his farm and barn painting businesses for tax purposes. The Court to a sufficient degree accepted, on balance, that Mr. Stewart’s conduct (and omissions) arose and reflected abject inexperience, ignorance and vacuity in accounting for his businesses. The additional expenses were allowed on that basis.
+[57] The issue remains how that lack of knowledge impacts the imposition of penalties. Can this ignorance (with no intended disrespect), uniquely before it in this appeal which the Court finds as a matter of fact, assuage the charge of indifference to compliance, tantamount to intention acting.
+[58] Can not knowing what one does not know act to delete the imposition of penalties? It may, but there are conditions and time limits. It is difficult for the Court to ascribe indifference and, total disinterest towards compliance to Mr. Stewart in the early days of a business where the new owner and operator himself is surrounded by equal neophytes. Or alternatively, by his own testimony, a confused, acting out elderly person. Mr. Stewart did file his taxes, use a tax preparer and applied his (il)logic in doing so. The audit commenced in late 2014 or 2015. The preliminary details of the reassessments were first communicated in late 2015. He corrected his ways when audited, itself before the reassessments and penalties were imposed for the previous years.
+[59] In all the circumstances, the Court will vacate the penalties for 2011. For 2012, the Court is less certain. Ultimately, it is persuaded to vacate those as well because the first two years of the business were new endeavours for Mr. Stewart from different perspectives: his own full time business, sub-contractors, a new line of work (for him at least), lifestyle changes and a transition to a different milieu, as an active business owner. His “auto correction” applied to subsequent years and the first two years of business operations.
+[60] All told, penalties for both years should be vacated, particularly in light of the reduced unreported income. This is a one-time hiatus from such penalties based upon the finding by the Court that Mr. Stewart lacked the intent or the “where with all” comprising “wilful blindness” [10] . Instead, he laboured under abject ignorance which authored the errors. The penalties are therefore deleted.
+VI. CONCLUSION AND COSTS
+[61] Like many new entrepreneurs, business meant getting the job done, without proper knowledge or attention to the details. Ultimately, Mr. Stewart learned from his mistakes and lack of understanding. In conclusion and contrary to counsel’s submissions, the Court does not believe that Mr. Stewart understood very well at all or very much of what was at stake or what he did or failed to do. He certainly does now and he should remember and act upon those lessons in future.
+[62] Ms. Misner’s work on the NWA was detailed and accurate. However, she remained obdurate on the issue of the sub-contractors because she “could not assign them any value” from the unexplained outstanding and unallocated cash. This is neither accurate nor the point. A NWA is a blunt instrument. Her unrefined NWA should logically have led her to allocate a portion of the unaccounted cash to the sub-contractors. This fulfills her own expressed acknowledgment that the business required sub-trades to complete the jobs. Her methodology led her there. She made these conclusions and then ignore them. That cannot prevail because it is on balance incorrect.
+[63] On a preliminary basis, costs are awarded to Mr. Stewart and fixed at $500.00 above the applicable Tariff in light of all the circumstances. Should the parties contest this initial determination of costs, they may make brief submissions to the contrary within 30 days of this date.
+Signed at Ottawa, Canada, this 22nd day of December, 2021.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2021TCC94
+COURT FILE NO.:
+2018-203(IT)G
+STYLE OF CAUSE:
+RAYMOND STEWART AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 19 and 20, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+December 22, 2021
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Gibson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Golden v. HMQ, 2009 TCC 396.
+[2] Lacroix v. Canada, 2008 FCA 241.
+[3] Nichols v HMQ, 2009 TCC334 at paragraph 22 and 23; cited, inter alia, with approval and endorsement in Gosselin v HMQ, 2016 TCC 158 at paragraph 25; Ngai v HMQ, 2018 TCC 26 at paragraph 108.
+[4] Tab 11, Note 8, Respondent’s Book of Documents.
+[5] Line 7, page 6, supra of these Reasons.
+[6] Reply, paragraph 11(dd) and (ee).
+[7] Line 7, page 6 and line 7, page 8 of these Reasons.
+[8] Dao v. HMQ, 2010 TCC 84 at paragraph 44 and 45. [Respondent’s Book of Authorities, Tab 5]
+[9] Venne v. HMQ, 84 DTC 6247 at page 6256.
+[10] Dao, supra at paragraph 43. [Respondent’s Book of Authorities, Tab 5]

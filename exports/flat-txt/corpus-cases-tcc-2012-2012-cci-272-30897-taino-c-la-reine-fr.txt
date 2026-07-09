@@ -1,0 +1,125 @@
+Title: Taino c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30897/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-272-30897-taino-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-07-25
+
+# Taino c. La Reine
+
+- Citation: 2012 CCI 272
+- Decision date: 2012-07-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7456, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taino c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-25
+Référence neutre
+2012 CCI 272
+Numéro de dossier
+2011-3106(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3106(IT)I
+ENTRE :
+ANTONIO LUIS TAINO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 juillet 2012, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Jasmeen Mann
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 12e jour de septembre 2012.
+Marie-Christine Gervais
+Référence : 2012CCI272
+Date : 20120725
+Dossier : 2011-3106(IT)I
+ENTRE :
+ANTONIO LUIS TAINO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En 2009, l’appelant vivait à Whitby, en Ontario, et faisait chaque jour la navette pour se rendre au travail au centre-ville de Toronto en prenant le train GO. Il achetait des billets dont chacun était valide pour dix trajets, au prix de 64,25 $ (pour la première partie de 2009) et au prix de 66,75 $ (pour les billets achetés à partir du 27 mars 2009). La question soulevée dans le présent appel est de savoir si les sommes dépensées par l’appelant pour ces billets en 2009 donnent droit au crédit d’impôt pour le transport en commun selon ce que prévoit la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Dans le Plan budgétaire 2007 déposé à la Chambre des communes le 19 mars 2007, le crédit d’impôt pour le transport en commun, ainsi que les modifications proposées pour ce crédit, étaient décrits ainsi :
+Engagement renouvelé à favoriser le transport en commun
+Le nouveau gouvernement du Canada adopte des mesures concrètes afin de réduire la pollution atmosphérique, les émissions de gaz à effet de serre et les substances nuisibles dans nos collectivités.
+Le budget de 2006 a instauré le crédit d’impôt pour le coût des laissez-passer de transport en commun pour inciter les particuliers à s’engager de façon soutenue à utiliser le transport en commun, en leur offrant un crédit au titre de l’achat de laissez-passer mensuels ou de plus longue durée. Cette mesure, généralement bien accueillie par les Canadiens, sera renforcée dans le budget de 2007, afin de continuer à récompenser ceux qui ont pris un engagement soutenu à l’égard du transport en commun.
+Certaines autorités responsables des transports en commun planifient de remplacer leurs laissez-passer mensuels par un tarif ponctuel innovateur et convivial qui améliorera l’accessibilité aux transports en commun. Afin de continuer à inciter les particuliers à utiliser les transports en commun, le budget de 2007 propose d’appliquer également le crédit d’impôt au coût des cartes de passage électroniques utilisées pour au moins 32 allers simples par mois. Les autorités responsables des transports en commun devront assurer le suivi et attester l’utilisation et le coût des transports en commun.
+De plus, le crédit d’impôt sera accordé lorsque quatre laissez-passer hebdomadaires sont achetés de manière consécutive. Cette modification aidera les particuliers à faible revenu qui ne peuvent peut-être pas s’offrir un laissez-passer mensuel à profiter du crédit.
+[3] L’appelant s’est engagé de façon soutenue à utiliser le transport en commun tout au long de 2009 étant donné que, chaque jour de travail, il prenait le train GO depuis son domicile de Whitby, en Ontario, jusqu’à son lieu de travail dans le centre‑ville de Toronto, mais son droit au crédit d’impôt pour les sommes qu’il a consacrées à ses titres de transport en 2009 doit être déterminé d’après le libellé des dispositions applicables en 2009.
+[4] Le crédit d’impôt pour le transport en commun est prévu à l’article 118.02 de la Loi. Le paragraphe 118.02(2) de la Loi est ainsi formulé :
+(2) Est déductible dans le calcul de l’impôt à payer par un particulier en vertu de la présente partie pour une année d’imposition la somme obtenue par la formule suivante :
+A × B
+où :
+A représente le taux de base pour l’année;
+B la somme obtenue par la formule suivante :
+C – D
+où :
+C représente le total des sommes représentant chacune la partie du coût d’un laissez-passer de transport admissible ou d’une carte de paiement électronique admissible qui est attribuable à l’utilisation de services de transport en commun au cours de l’année par le particulier ou par une personne qui est son proche admissible au cours de l’année,
+D le total des sommes représentant chacune le montant d’un remboursement ou d’une allocation ou toute autre forme d’aide qu’une personne a ou avait le droit de recevoir au titre d’une somme incluse dans le calcul de la valeur de l’élément C, sauf une somme qui est incluse dans le calcul du revenu de cette personne pour une année d’imposition et qui n’est pas déductible dans le calcul de son revenu imposable.
+[5] Pour être admissible au crédit, un particulier doit soit acheter un « laissez‑passer de transport admissible », soit utiliser une « carte de paiement électronique admissible », deux expressions définies ainsi au paragraphe 118.02(1) :
+« carte de paiement électronique admissible » Carte de paiement électronique qui, à la fois :
+a) est utilisée par un particulier afin de régler le coût d’au moins 32 parcours aller simple, entre le point de départ du parcours et sa destination, au cours d’une période ininterrompue n’excédant pas 31 jours;
+b) est délivrée par un organisme de transport canadien admissible, ou pour son compte, lequel tient compte du coût et de l’utilisation de la carte, délivre des reçus et reconnaît le droit du particulier titulaire ou propriétaire de la carte d’utiliser les services de transport en commun qu’il offre.
+« laissez-passer de transport admissible » Document qui, à la fois :
+a) est délivré par un organisme de transport canadien admissible ou pour son compte;
+b) fait état du droit du particulier titulaire ou propriétaire du document d’utiliser les services de transport en commun de l’organisme :
+(i) soit un nombre illimité de fois et à n’importe quel jour — où les services de transport en commun sont offerts — d’une période ininterrompue d’au moins 28 jours,
+(ii) soit un nombre illimité de fois au cours d’une période ininterrompue d’au moins cinq jours consécutifs, pourvu que le document en cause, jumelé avec un ou plusieurs autres documents semblables, confèrent au contribuable le droit d’utiliser les services de transport en commun pendant au moins 20 jours au cours d’une période de 28 jours.
+[6] Les billets qui ont été achetés par l’appelant étaient des billets de papier, et il ne s’agit donc pas d’une carte de paiement électronique. Un dispositif électronique lisait son billet et le validait pour chacun de ses parcours, mais une « carte de paiement électronique admissible », pour l’application de la Loi, est une carte de paiement électronique (et non en papier) qui est utilisée par le particulier. L’appelant utilisait un billet de papier pour accéder au train GO et il n’utilisait donc pas une carte de paiement électronique.
+[7] Chaque semaine, il lui fallait acheter un autre billet qui était valide pour dix trajets la semaine suivante. Il utilisait les billets pour au moins 32 parcours aller simple au cours d’une période ininterrompue n’excédant pas 31 jours étant donné qu’il utilisait les billets pour deux parcours aller simple par jour – le premier depuis son domicile jusqu’à son lieu de travail, et le second depuis son lieu de travail jusqu’à son domicile. L’avocate de l’intimée a fait valoir que le parcours depuis le domicile jusqu’au lieu de travail le matin, et depuis le lieu de travail jusqu’au domicile le soir n’était qu’un unique parcours aller simple, mais cet argument est sans fondement. Le matin, le point de départ était le domicile de l’appelant et la destination était le centre-ville, où il travaillait. Il s’agit là d’un parcours aller simple. Le soir, il prenait un autre parcours aller simple allant du centre-ville de Toronto à Whitby, en Ontario. Cela représentait chaque mois une moyenne de 40 parcours aller simple. L’appelant a bien utilisé plusieurs fois en 2009 le transport public pour au moins 32 parcours aller simple au cours d’une période ininterrompue n’excédant pas 31 jours, mais, comme le billet de papier n’était pas une carte de paiement électronique, la somme qu’il consacrait à l’achat des billets ne peut être considérée comme le coût d’une « carte de paiement électronique admissible ».
+[8] Comme les billets n’étaient valides que pour dix trajets, ils ne permettaient pas à l’appelant d’utiliser le système GO Transit un nombre illimité de fois et il ne s’agissait donc pas d’un « laissez-passer de transport admissible ». L’appelant a admis qu’il aurait pu acheter un laissez-passer mensuel, mais il a mentionné qu’il trouvait plus facile de payer le coût hebdomadaire des billets que le coût d’un laissez‑passer mensuel.
+[9] Malheureusement pour l’appelant, en achetant chaque semaine des billets qui étaient valides pour dix trajets, les sommes qu’il a consacrées à ces billets en 2009 ne sont ne donnent pas droit au crédit d’impôt pour le transport en commun, et son appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 12e jour de septembre 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012CCI272
+N° DU DOSSIER DE LA COUR : 2011-3106(IT)I
+INTITULÉ : ANTONIO LUIS TAINO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto, Canada
+DATE DE L’AUDIENCE : Le 19 juillet 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 25 juillet 2012
+COMPARUTIONS:
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Jasmeen Mann
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

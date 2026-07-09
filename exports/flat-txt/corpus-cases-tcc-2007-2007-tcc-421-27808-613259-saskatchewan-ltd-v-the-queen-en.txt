@@ -1,0 +1,151 @@
+Title: 613259 Saskatchewan Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27808/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-421-27808-613259-saskatchewan-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-06
+
+# 613259 Saskatchewan Ltd. v. The Queen
+
+- Citation: 2007 TCC 421
+- Decision date: 2007-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 283, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+613259 Saskatchewan Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-06
+Neutral citation
+2007 TCC 421
+File numbers
+2006-2934(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2934(GST)I
+BETWEEN:
+613259 SASKATCHEWAN LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 6, 2007 at Regina, Saskatchewan
+Before: The Honourable Justice G.A. Sheridan.
+Appearances:
+Agent for the Appellant:
+Lindsay Brooks
+Counsel for the Respondent:
+Jamie Hammersmith
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, for the reporting periods ending March 31, 2001 and March 31, 2002, notice of which is dated July 10, 2006 and bears number 09ES20061007 is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the materials purchased on behalf of the homeowner were not “taxable supplies”, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of July, 2007.
+“G.A. Sheridan”
+Sheridan, J.
+Citation: 2007TCC421
+Date: 20070727
+Docket: 2006-2934(GST)I
+BETWEEN:
+613259 SASKATCHEWAN LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, 613259 Saskatchewan Ltd., operating as Handyman Connection, is appealing the reassessment of the Minister of National Revenue for Goods and Services Tax that the Appellant failed to collect and remit for the periods ending March 31, 2001 and March 31, 2002. Following an audit, the Minister reassessed the Appellant’s tax liability on the assumptions of fact[1] set out below:
+(a) the Appellant is an incorporated company;
+(b) the Appellant was a registrant;
+(c) at all material times the Appellant was required to file its returns annually, with a year end of March 31st;
+(d) at all material times 100% of the issued and outstanding shares of the Appellant were owned by Mr. Lindsay Brooks;
+(e) at all material times Lindsay Brooks operated the Appellant;
+(f) at all material times the Appellant carried on business under the trade name "Handyman Connection";
+(g) during the Audit Period the Appellant was a general contractor and was involved in the business of home repairs and renovations;
+(h) the Appellant specialized in completing small to medium sized home repairs and remodelling jobs;
+(i) the Appellant did drywalling, plastering/stippling, painting, electrical, plumbing, ceramic tile, carpentry, basement renovations, bathroom renovations, heating/air conditioning, doors and windows, telephone jacks and general handyman jobs;
+(j) all of the supplies made by the Appellant are taxable at 7%;
+(k) during the Audit Period a homeowner who wanted work done contacted the Appellant;
+(l) the Appellant entered into a subcontract with a tradesman (the "Subcontractor") to do the work requested by the homeowner;
+(m) the Appellant arranged for the Subcontractor to prepare an estimate of the cost of supplying the work requested by the homeowner;
+(n) the Subcontractor wrote up the estimate on a form provided by the Appellant;
+(o) the form used for the written estimate was in the Appellant's name;
+(p) the homeowner then decided if he/she would accept or reject the estimate;
+(q) if the homeowner accepted the estimate the Subcontractor performed the work;
+(r) the Subcontractor bought any materials that were necessary to perform the work, if the materials were not provided by the homeowner;
+(s) the Subcontractor resupplied the materials he/she bought to the Appellant;
+(t) upon completion of the job an invoice was issued to the homeowner;
+(u) the Appellant provided the Subcontractor with the form that was used to prepare the invoice;
+(v) the invoice was in the Appellant's name;
+(w) the invoice issued to the homeowner included any materials that were consumed in performing the work requested by the homeowner;
+(x) the invoice issued to the homeowner showed the consideration for the materials separate from the consideration for the labour;
+(y) the homeowner paid the Appellant the total amount on the invoice;
+(z) the amount the Appellant charged the homeowner for materials was included in its sales when the amounts were entered into the Appellant's general ledger;
+(aa) the materials supplied by the Appellant to its customers was 22.6% and 27.4% of its total sales in 2001 and 2002, respectively;
+(bb) the Appellant paid the Subcontractor 45-55% of the consideration paid by its customers with respect to the labour and 100% of the consideration paid by its customers with respect to the materials;
+(cc) not all of the Appellant's subcontractors are registrants;
+(dd) each of the Appellant's subcontractors, if registered, are eligible to claim input tax credits with respect to the materials he/she purchased;
+(ee) until 2 of the Appellant's subcontractors were audited and assessed, the Appellant had refused to pay GST to the Subcontractors;
+(ff) in the reporting period ending March 31, 2001, the Appellant invoiced its customers $76,289.84 with respect to the materials that were supplied to them;
+(gg) in the reporting period ending March 31, 2001, the Appellant failed to account for tax collected or collectible of $5,340.29 with respect to the materials it supplied to its customers;
+(hh) in the reporting period ending March 31, 2002, the Appellant invoiced its customers $63,939.22 with respect to the materials that were supplied to them;
+(ii) in the reporting period ending March 31, 2002, the Appellant failed to account for tax collected or collectible of $4,475.75 with respect to the materials it supplied to its customers; and
+(jj) the Appellant did not obtain any documentation from its subcontractors with respect to the purchases of the material.
+[2] The Appellant was represented by its owner, Lindsay Brooks, the only witness to testify at the hearing. While he accepted many of the Minister’s factual assumptions, he challenged certain others as being either incomplete or inaccurate.
+[3] It is common ground that the Appellant was in the business of providing home renovation services for homeowners. The labour for such services was provided by subcontractors hired by the Appellant. The Appellant properly collected and remitted GST for the labour services as required by the Excise Tax Act.
+[4] The only dispute in this appeal is whether the Appellant ought also to have collected and remitted GST on certain materials which were purchased by the Appellant (or its subcontractors) and used in the homeowners’ renovations. While, at first blush, it may seem self-evident that the Appellant would be obliged to do so, in the particular context of the Appellant’s business, I am not convinced this is so.
+[5] I accept Mr. Brooks’ evidence that the “Handyman Connection” franchise is in the business of selling “labour only” to its customers. Part of its marketing strategy is to attract customers by leaving the acquisition of the materials used in the renovations to the homeowners themselves, thus avoiding builders’ mark up or permitting them to take advantage of existing or cheaper materials they may have. Mr. Brooks put in evidence certain Handyman Connection promotional material emphasizing this aspect of its business,[2] as well as the pre-printed Handyman Connection forms[3] used for homeowner estimates and invoices which contain a specific notation that the homeowner is responsible for buying materials. I also accept his testimony that it was his business practice to advise his customers that it was up to them to buy their own materials.
+[6] In spite of his efforts and their good intentions, on occasion, homeowners did not manage to have the materials on hand in a timely fashion.[4] Consistent with its policy and practice of requiring homeowners to purchase their own materials, the Appellant did not maintain an inventory of building supplies. Thus, in such circumstances, the Appellant’s subcontractors would purchase the needed materials at retail prices. The receipts for such purchases were left with the homeowner for return or warranty purposes; it was for this reason such documentation was not obtained by the Appellant from subcontractors, as assumed in paragraph 11(jj) of the Reply to the Notice of Appeal. The subcontractor’s out-of-pocket expenses for the materials were reimbursed by the Appellant along with its payment for his labour services; the amounts reimbursed (with no mark-up or other charges) were then charged back to the homeowner. These amounts were shown separate from the labour costs in the Appellant’s final invoice to the homeowner.[5] No input tax credits were claimed by the Appellant for these materials; nor, to Mr. Brooks’ knowledge, did the subcontractors (most of whom were not, in any case, GST registrants[6]) claim ITC's.
+[7] Nonetheless, in reassessing the Appellant the Minister treated the materials as a “taxable supply” in respect of which the Appellant ought to have collected and remitted GST. In support of the Minister’s position, counsel for the Respondent referred the Court to Imperial Drywall Contracting Ltd. v. Her Majesty the Queen[7] and Vanex Truck Service Ltd. v. Her Majesty the Queen.[8] In my view, however, these cases are readily distinguishable.
+[8] In Imperial Drywall, supra, the taxpayer company maintained its own inventory of drywalling supplies which it supplied to its subcontractors. Unused materials were returned to the taxpayer or kept by the subcontractor for use in the taxpayer’s next project. Not only did the Appellant not maintain an inventory of building materials, it specifically marketed its labour services on the basis that the purchase of materials was the homeowner’s responsibility.
+[9] The issue in the Vanex case was whether the trucking company Vanex ought to have charged GST on the licence, insurance and fuel provided to its owner-operators. The complex contractual arrangements between Vanex and its owner-operators for the furnishing of these items are not in any way analogous to the simple chain of transactions between the Appellant, the subcontractors and the homeowners for the materials purchased.
+[10] In view of the evidence before me and having carefully reviewed the Minister’s assumptions (many of which are supportive of the Appellant’s position), it seems to me that the basis upon which the reassessment was made ignores the reality of what the Appellant was in the business of supplying. This ought to be the starting point for the analysis as to whether a “supply” has, in fact, been made. Though not cited at the hearing, I am mindful of the approach taken by Bowie J. in Drug Trading Company Limited (formerly Northwest Drug Company Limited) v. Her Majesty the Queen:[9]
+[16] In an early value-added tax case Lord Denning pointed out the importance of asking, and answering, the question "what did the [supplier] supply in consideration of the 1.50 they received?"[3] Soon after, Lord Widgery C.J. added this:[4]
+I would only wish to repeat what I said in one of the earlier cases, and that is to hope that when answering Lord Denning MR's question in the future in this type of case people do approach the problem in substance and reality. I think it would be a great pity if we allowed this subject to become over-legalistic and over-dressed with legal authorities when, to my mind, once one has got the question posed, the answer should be supplied by a little common sense and concern for what is done in real life and not what is, as Cumming-Bruce L.J. put it, too artificial to be recognized in any context.
+In the present case the assessor seems not to have asked, or answered, Lord Denning's question. Nor did either the oral or the written arguments of counsel provide an answer. This is unfortunate because, in my view, when the question is asked the answer is, as Lord Widgery suggests, supplied by the application of a little common sense.
+[11] Applying a little common sense to the case at bar, I am satisfied that what the Appellant supplied in the course of its business was labour services for home renovations. For such services, the Appellant duly collected and remitted GST as required by the Excise Tax Act. The Appellant was not in the business of supplying materials; rather, these were to be purchased by the homeowner. On those certain occasions where the homeowner failed to do so, some materials were purchased on behalf of the homeowner by the Appellant through its subcontractors. The Appellant reimbursed the subcontractors for such purchases and then billed the amount directly back to the homeowner in the final invoice. By reimbursing the Appellant in this fashion, the homeowner effectively purchased the materials, just as if he had personally gone to the home renovation store himself.
+[12] Part of the basis of the Minister’s assessment was that in paying their invoices, homeowners wrote only one cheque for the total of the labour services and the materials supplied.[10] I attach no significance to this as it would be unreasonable, if not completely nonsensical, to expect homeowners (whose minds are untroubled by the nuances of the Excise Tax Act) to write separate cheques to the Appellant for each amount shown in the invoice.
+[13] For all of these reasons, I am satisfied that the materials purchased by the Appellant on behalf of the homeowners were not a “taxable supply” within the meaning of the Excise Tax Act. The appeal is allowed and referred back to the Minister for reassessment on that basis. It should be noted that decisions under the Informal Procedure are without precedential value; the decision in the present appeal is based on the persuasive evidence of the Appellant’s business practices and procedures on the particular facts of this appeal.
+Signed at Ottawa, Canada, this 27th day of July, 2007.
+“G.A. Sheridan”
+Sheridan, J.
+CITATION: 2007TCC421
+COURT FILE NO.: 2006-2934(GST)I
+STYLE OF CAUSE: 613259 SASKATCHEWAN LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: March 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G.A. Sheridan
+DATE OF JUDGMENT: July 27, 2007
+APPEARANCES:
+Agent for the Appellant:
+Lindsay Brooks
+Counsel for the Respondent:
+Jamie Hammersmith
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the Notice of Appeal, paragraph 11.
+[2] Exhibit A-4, Exhibit A-5.
+[3] Exhibit A-2, Exhibit R-1, Exhibit R-2.
+[4] In subparagraph 11(r), it is an assumed fact that in not all cases did the Appellant purchase
+materials for its homeowners.
+[5] Exhibits A-6, R-1 and R-2.
+[6] In subparagraph 11(cc) the Minister assumed that not all of the subcontractors were registered.
+[7] [1997] T.C.J. No. 1088.
+[8] [1999] T.C.J. No. 792; aff’d [2001] F.C.J. No. 817 (F.C.A.).
+[9] [2001] T.C.J. No. 214.
+[10] See subparagraph 11(y) of the Reply to the Notice of Appeal.

@@ -1,0 +1,160 @@
+Title: Burleigh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25784/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-197-25784-burleigh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-05
+
+# Burleigh v. The Queen
+
+- Citation: 2004 TCC 197
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3794, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burleigh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-05
+Neutral citation
+2004 TCC 197
+File numbers
+2003-4485(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4485(IT)G
+BETWEEN:
+DON G. BURLEIGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion of Douglas A. Burleigh (2003-4487(IT)G) on March 2, 2004 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Jacques Bernier
+Counsel for the Respondent:
+Shatru Ghan
+____________________________________________________________________
+AMENDED ORDER
+Upon motion made by counsel for the respondent for an order dismissing the appeal pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure);
+And upon hearing what was alleged by the parties;
+The motion is dismissed with costs payable to the appellant in any event of the cause;
+.../2
+The respondent is granted an extension of 30 days from the date of this amended order in which to serve and file a Reply to the Notice of Appeal.
+Signed at Toronto, Ontario, this 9th day of March 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Docket: 2003-4487(IT)G
+BETWEEN:
+DOUGLAS A. BURLEIGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion of Don G. Burleigh (2003-4485(IT)G) on March 2, 2004 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Jacques Bernier
+Counsel for the Respondent:
+Shatru Ghan
+____________________________________________________________________
+AMENDED ORDER
+Upon motion made by counsel for the respondent for an order dismissing the appeal pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure);
+And upon hearing what was alleged by the parties;
+The motion is dismissed with costs payable to the appellant in any event of the cause;
+.../2
+The respondent is granted an extension of 30 days from the date of this amended order in which to serve and file a Reply to the Notice of Appeal.
+Signed at Toronto, Ontario, this 9th day of March 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC197
+Date: 20040309
+Docket: 2003-4485(IT)G
+BETWEEN:
+DON G. BURLEIGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2003-4487(IT)G
+BETWEEN:
+DOUGLAS A. BURLEIGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Bowman, A.C.J.
+[1] These motions were heard together. The respondent seeks an order striking out the appeals on the grounds that the Notices of Appeal disclose no reasonable grounds for the appeal (paragraph 58(1)(b)) of the Tax Court of Canada Rules (General Procedure) or that they are scandalous, frivolous or vexatious (paragraph 53(b)). There is certainly nothing scandalous, frivolous or vexatious about the Notices of Appeal. They involve nothing more than a claim to carry forward a net capital loss from 2001 to 2002. The point under paragraph 53(b) of the Rules was not pressed and I say nothing more about it.
+[2] On a motion to strike out a pleading on the ground that it discloses no reasonable grounds of appeal within the meaning of paragraph 58(1)(b), one must look solely at the pleading without recourse to other evidence. Moreover, in accordance with a long line of authority in the Supreme Court of Canada, which has frequently been followed in this court, it must be "plain and obvious" that the action cannot succeed.
+[3] The paragraph in the two Notices of Appeal, which the respondent alleges support her claim that the notices of appeal disclose no reasonable grounds of appeal are:
+(Douglas Burleigh)
+4. On or about November 18, 2003, the Appellant filed an amended 2001 tax return and reported a capital loss of $3,441,945.87 which gave rise to a net capital loss of $1,720,972.94 available to be claimed in other years.
+5. On or about April 30, 2003, the Appellant filed his 2002 tax return.
+6. In his 2002 tax return, the Appellant applied $487,888.42 of the net capital losses (as defined in subsection 111(8) of the Income Tax Act (Canada) (the "Act")) arising in 2001 against his 2002 taxable capital gains.
+(Don Burleigh)
+4. On or about November 18, 2003, the Appellant filed his 2001 tax return and reported a capital loss of $2,893,256.19 which gave rise to a net capital loss of $1,446,628.10 available to be claimed in other years.
+5. On or about April 30, 2003, the Appellant filed his 2002 tax return.
+6. In his 2002 tax return, the Appellant applied $488,696.50 of the net capital losses (as defined in subsection 111(8) of the Income Tax Act (Canada) (the "Act")) arising in 2001 against his 2002 taxable capital gains.
+[4] The only difference between the Notices of Appeal of Douglas Burleigh and Don Burleigh, apart from the numbers, is that Don Burleigh reported the capital loss in his original return for 2001 whereas Douglas Burleigh reported the capital loss in an amended return for 2001.
+[5] If I understand the argument of counsel for the respondent, the appellants have no right to claim a net capital loss carryforward from 2001 to 2002 because when they filed their returns for 2002 on or about April 30, 2003, they had not yet filed returns for 2001 in which the capital loss had been reported. Counsel argued that a right to claim a net capital loss carryforward under paragraph 111(1)(b) of the Income Tax Act exists only if the loss has been reported in the return for the year in which it was incurred.
+[6] Indeed, counsel goes further and says that not only must the loss be so reported but the return must have been "processed" by the Canada Customs and Revenue Agency ("CCRA") and the loss accepted by the Minister of National Revenue. If the taxpayer's calculation of the loss is not accepted by the Minister, counsel contends, the taxpayer must appeal.
+[7] It seems there are a number of misconceptions here. The first is that one can appeal from the Minister's calculation of a loss even though the assessment is nil. One cannot appeal from a nil assessment. What is possible is to request a determination of loss under subsection 152(1.1). Such a determination is binding, subject to the taxpayer's rights of objection and appeal.
+[8] If counsel's argument implies that the only way in which one can challenge the Minister's calculation of a loss which the taxpayer wishes to carry forward or carry back to another year under section 111 is to seek a loss determination and then to appeal it if the Minister disagrees with the taxpayer's calculations, it is, with respect, wrong.
+[9] It is clear that no loss determination under section 152(1.1) is necessary. The taxpayer may simply apply a loss carryforward to a year in which there is income. If the Minister disagrees with the taxpayer's calculations and assesses to disallow part or all of the loss carryforward, the taxpayer can object and appeal. This is the practice that has been followed for as long as I can remember. It is in my view both correct in law and practical. Why seek a loss determination if you are not sure that you will be able to use it? It makes far more sense to claim the loss incurred in a prior or subsequent year in the year when you have income and in which it makes a difference. Nothing in the Income Tax Act supports the respondent's position that a taxpayer can challenge the Minister's calculation of a loss carryforward only through a loss determination. If Parliament intended this result it knows how to say so. I thought this notion had been laid to rest in Aallcann Wood Suppliers Inc. v. The Queen, 94 DTC 1475.
+[10] The next misconception is the idea that not only must the loss upon which the loss carryforward is based have been reported in a return of income for the year in which it is incurred, but also that the return must have been "processed" and the loss accepted by the Minister. This idea is wrong on two counts. First, it is wrong to say that the loss must have been reported in a return of income for the year in which it was incurred. Section 111 imposes no such restriction. It permits a taxpayer to carry various types of losses forward or back. It says nothing about requiring the losses to have been reported in an income tax return. The definitions in subsection 111(8) of the various types of losses to which section 111 applies do not include a requirement that they be reported in a return of income for the year in which they were incurred. There are obviously practical reasons why it is desirable to report the loss in the return of income for the year in which it is incurred but this is not a requirement of the law.
+[11] An individual, unlike a corporation, need not file a return of income if he or she is not taxable, unless the Minister demands one. If an individual had a loss in a particular year resulting in nil taxable income, the Crown's argument would deny that individual the right to carry the loss forward to a year when there was taxable income to which the loss could be applied unless a return was filed for the year. Nothing in the Income Tax Act imposes such a restriction.
+[12] Finally, the idea that the return of income must have been processed by the CCRA has no basis on the statute or in common sense.
+[13] Losses that are available for carryforward - and I am talking about any kind of loss to which subsection 111(1) applies - like income, have an existence that is independent of their being reported in a return of income. They are susceptible of objective determination. The taxpayer's right to utilize such losses is not subject to the restrictions which the Crown would impose on them. I am not prepared to read into the Income Tax Act words that are not there.
+[14] The motions are dismissed. The appellants are entitled to their costs, payable in any event of the cause.
+[15] The respondent is granted an extension of 30 days from the date of this amended order in which to serve and file a Reply to the Notice of Appeal.
+Signed at Toronto, Ontario, this 9th day of March 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC197
+COURT FILE NO.:
+2003-4485(IT)G & 2003-4487(IT)G
+STYLE OF CAUSE:
+Don G. Burleigh and Douglas A. Burleigh and Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 2, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF ORDER AND REASONS FOR ORDER:
+DATE OF AMENDED ORDER AND AMENDED REASONS FOR ORDER:
+March 5, 2004
+March 9, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Bernier
+Counsel for the Respondent:
+Shatru Ghan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thorsteinssons
+Firm:
+PO Box 786
+181 Bay Street, 33rd Floor
+Toronto, Ontario M5J 2T3
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

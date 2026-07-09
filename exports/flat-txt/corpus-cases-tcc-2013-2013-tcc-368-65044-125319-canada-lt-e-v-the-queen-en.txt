@@ -1,0 +1,363 @@
+Title: 125319 Canada Ltée v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65044/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-368-65044-125319-canada-lt-e-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-04
+
+# 125319 Canada Ltée v. The Queen
+
+- Citation: 2013 TCC 368
+- Decision date: 2013-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5906, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+125319 Canada Ltée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-04
+Neutral citation
+2013 TCC 368
+File numbers
+2011-834(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-834(GST)G
+BETWEEN:
+125319 CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on September 16, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Pierre Blain
+Counsel for the respondent:
+Danny Galarneau
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated October 23, 2009, made by the Minister of Revenue of Quebec pursuant to the Excise Tax Act, for the period from July 1, 2005, to June 30, 2009, is dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of December 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 13th day of March 2014.
+François Brunet, Revisor
+Citation: 2013 TCC 368
+Date: 20131204
+Docket: 2011-834(GST)G
+BETWEEN:
+125319 CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the general procedure from a reassessment dated October 23, 2009, with no identifying number, made through the Minister of Revenue of Quebec (the Minister) pursuant to Part IX of the Excise Tax Act, R.S.C. (1985), c. E‑15, as amended (the ETA) for the period from July 1, 2005, to June 30, 2009 (the period in question).
+[2] In an assessment dated October 23, 2009, the Minister assessed the appellant for $83,162.75, including $57,805.84 in goods and services tax (GST), $14,451.46 in penalties under section 285 of the ETA and $10,905.45 in interest.
+[3] In assessing the appellant, the Minister relied on the following findings and assumptions of fact as stated at paragraph 17 of the Reply to the Notice of Appeal:
+[translation]
+(a) 125319 Canada Ltd. is a corporation incorporated under the Canada Business Corporations Act (R.S.C. (1985) c. C-44);
+(b) during the period in question, the appellant was registered for the purposes of Part IX of the Excise Tax Act (hereinafter the ETA);
+(c) the appellant operates a licensed restaurant doing business as the "Restaurant la Belle Province";
+(d) in its operations, the appellant offers quick meals for lunch and dinner at the counter, as well as breakfast with table service;
+(e) the appellant's fiscal year begins on July 1 in a given year and finishes on June 30 the following year;
+(f) all the supplies made by the appellant in the operation of the restaurant, a commercial activity, during the period in question were taxable supplies for which a tax, the GST, of 7% (before July 1, 2006) or 6% (after June 30, 2006) or 5% (after January 1, 2008) on the value of the consideration for the supply, was payable by the appellant's buyers, to be collected by the appellant;
+(g) since the appellant's accounting books and records, given to the Minister when required at the time of the audit, were incomplete and unclear, the Minister reconstructed the total amount of the supplies made by the appellant through an indirect audit method for the period in question;
+(h) In particular, the appellant did not retain the detailed sales registry (the "Z" tapes), there is no detailed record for the breakfasts, the bank statements were incomplete and significant gaps were detected with regard to purchases with many suppliers;
+(i) since the books and records were hardly reliable, the Minister had to use an alternative method to reconstruct the appellant's taxable sales;
+(j) since the cash register "Z" tapes were incomplete, the appellant's cash register was reprogrammed and the complete and detailed "Z" tapes were obtained for the period from March 29 to June 30, 2009;
+(k) these "Z" tapes were analyzed and inventoried, as shown in the auditor's worksheets attached to and included in this Reply, Annex A;
+(l) for the audit period, the purchases from various suppliers were also analyzed:
+2007-07-01 to 2008-06-30
+SUPPLIER
+PURCHASES
+NOTED
+CONFIRMED
+PURCHASES
+DIFFERENCE
+DIFFERENCE (%)
+Provigo
+$10,286.61
+$10,288.61
+--
+0.00
+Molson
+$433.84
+$433.84
+--
+0.00
+Multi-Marques
+$3,024.12
+$21,530.00
+$18,505.88
+611.94
+Agropur
+$1,921.18
+$2,986.01
+$1,064.83
+55.43
+Pepsi
+$11,603.22
+$11,695.64
+$92.42
+0.80
+Conan
+$13,238.17
+$17,417.70
+$4,179.53
+31.57
+Delstar
+$11,159.05
+$19,105.46
+$7,946.41
+71.21
+TOTAL:
+$51,666.19
+$83,455.26
+$31,789.07
+61.53
+2006-07-01 to 2007-06-30
+SUPPLIER
+PURCHASES
+NOTED
+CONFIRMED
+PURCHASES
+DIFFERENCE
+DIFFERENCE (%)
+Provigo
+$8,217.93
+$8,217.93
+--
+0.00
+Molson
+$217.06
+$217.06
+--
+0.00
+Multi-Marques
+$6,870.08
+$21,836.76
+$14,966.68
+217.85
+Agropur
+$1,074.37
+$3,227.69
+$2,153.32
+200.43
+Pepsi
+$12,235.85
+$12,299.49
+$63.64
+0.52
+Conan
+$16,996.50
+$36,160.03
+$19,163.53
+112.75
+Delstar
+$4,755.22
+$15,779.16
+$11,023.94
+231.83
+TOTAL:
+$50,367.01
+$97,738.12
+$47,371.11
+94.05
+2005-07-01 to 2006-06-30
+SUPPLIER
+PURCHASES
+NOTED
+CONFIRMED
+PURCHASES
+DIFFERENCE
+DIFFERENCE (%)
+Provigo
+$9,886.83
+$9,886.83
+--
+0.00
+Molson
+--
+--
+--
+0.00
+Multi-Marques
+$5,928.18
+$23,686.43
+$17,758.25
+299.56
+Agropur
+$2,501.56
+$3,842.94
+$1,341.38
+53.62
+Pepsi
+$11,534.41
+$12,442.10
+$910.69
+7.90
+Conan
+$12,762.86
+$28,124.79
+$15,361.93
+120.36
+Delstar
+$11,433.51
+$20,301.91
+$8,868.40
+77.56
+Brasseurs GMT
+--
+--
+--
+0.00
+AMD Fruits & Légumes
+$43.75
+$43.75
+0.00
+TOTAL:
+$54,091.10
+$98,331.75
+$44,240.65
+81.79
+(m) to reconstruct the appellant's taxable sales, three items were selected: hotdog, hamburger and submarine buns;
+(n) the resulting calculation revealed that there are significant differences between the sales reported by the appellant and the reconstructed sales, as shown in the worksheets attached to and included in this Reply, Annex B;
+(o) in the calculation of its net tax, the appellant thus failed to remit the following taxes:
+PERIOD ENDING
+GST CALCULATED
+GST REPORTED
+GST
+DIFFERENCE
+2009-06-30
+$23,037.84
+$12,219.47
+$10,818.37
+2008-06-30
+$27,589.87
+$12,462.60
+$15,127.27
+2007-06-30
+$29,628.30
+$14,701.73
+$14,926.57
+2006-03-30
+$34,107.98
+$17,174.33
+$16,933.24
+TOTAL
+$114,363.99
+$56,558.13
+$57,805.86
+(p) the appellant, knowingly or under circumstances amounting to gross negligence in the exercise of a duty under Part IX of the ETA, made a false statement or omission in its net tax return for the period in question by not including the amount of $57,805.86 in the calculation of the tax it reported during the period in question as GST collected or collectable;
+(q) the appellant therefore owes the Minister the amount of the adjustments made to its net tax reported for the period in question, plus interest and penalties;
+[4] The issues in this case are as follows: did the appellant fail to include GST it collected or was to collect in the amount of $57,805.86 in the net tax return filed with the Minister for the declaration periods included in the period in question and is the appellant subject to the penalty under section 285 of the ETA for $14,451.46, or 25% of $57,805.86?
+[5] Using the detailed record of sales (the "Z" tapes) for the period from March 29 to June 30, 2009, the Minister obtained a sales ratio of $4.1030 per unit sold of each of the three items selected: hotdog, hamburger and submarine buns. This ratio was obtained by taking the sample sales (before taxes) of $74,242.91 and dividing by the number of units sold, which was 18,095. Therefore, each unit of bread sold brought in $4.1030 even if the price of a hotdog bun alone sells for $0.89. The reason for this discrepancy is because hotdog buns are often sold in a trio, with a drink, poutine or other item. This ratio was applied for the period from July 1, 2008, to June 20, 2009. For the previous periods, the ratio was adjusted using a rate of deflation of 3% for each period, according to the Statistics Canada data. A deduction of 8% was allocated for loss, theft and consumption by employees. The reconstructed sales were obtained by multiplying the number of items sold by the unit price generated by the sale of these items. According to the Minister's method, the appellant did not report some income because the reconstructed sales for the periods included during the period in question were as follows:
+Periods
+Reconstructed sales
+2009-06-30
+2008-06-30
+2007-06-30
+2006-06-30
+$460,756.87
+$501,627.97
+$493,801.70
+$487,259.19
+[6] The appellant does not challenge the Minister's use of an alternative method for determining the reconstructed sales but challenges the method used because it is not reliable, not credible and not objective.
+[7] In support of its claims, the appellant relies on many elements that were not considered by the Minister, including the establishment profile, i.e.:
+— restaurant is in a single-purpose building;
+— main clientele is made up of high school students;
+— busy periods are from September to December and from April to June;
+— restaurant capacity is 52 seats;
+— the building is old and in need of repairs and renovations;
+— the restaurant is not part of the Belle Province chain; and
+— a competing restaurant, McDonald's, is nearby.
+These factors influence the revenue generated by the restaurant because it is not a place of business frequented by individuals with a high income; its clients are mostly students with little money and there is not a lot of media advertizing.
+[8] Moreover, the appellant states that the bread deliveries carried out by its supplier do not reflect its actual purchases and the total amount in dollars of all the items sold cannot be divided by the number of specific items to establish the ratio because each item sold has its own ratio.
+[9] To show that the method the Minister used was not credible or objective, the appellant asked the company "Défenseurs Fiscaux Inc." to conduct analyses of the reconstructed sales. These analyses were described by Brigitte Roy during her testimony.
+[10] Jean-Claude Nadeau, the sole shareholder and director of the appellant, testified at the hearing. The appellant acquired the restaurant in 1996 for $225,000 financed over five years. The appellant is a tenant of the building where the restaurant is located. The restaurant's business hours are from 5:00 a.m. to 11:59 p.m., seven days per week. Breakfasts are prepared and served by Mr. Nadeau's mother-in-law. At lunchtime, two or three employees worked in the restaurant plus one cashier.
+[11] Mr. Nadeau explained that the restaurant's clients all paid in cash and he paid his suppliers in cash. He admitted that he did not keep an inventory of merchandise. In a letter dated August 20, 2009, addressed to Revenu Québec auditors (presented as Exhibit I-1), Mr. Nadeau stated that the purchases from suppliers allegedly produced an erroneous sales figure because from 2003 to 2008, he operated another restaurant in Longueuil (Le Relais de Térapin) that he supplied with bread, sauces, desserts and some candies because that restaurant had bad credit. In this letter, Mr. Nadeau also noted that following the Revenu Québec audit and better control of the quantity of bread delivered, the expenses for purchasing bread decreased considerably.
+[12] Mr. Nadeau admitted that the "Z" tapes were missing for many days and he was unable to produce the invoices for supply purchases. He provided a list of his suppliers and the suppliers produced confirmations of the purchases.
+[13] Mr. Nadeau also claimed that the bread delivery person did not deliver all the bread that was billed to his restaurant. The bread delivery was done when the restaurant opened and Mr. Nadon's mother-in-law paid for the order in cash upon delivery. He had no control over the quantity of bread that was actually delivered.
+[14] Brigitte Roy, associate partner of the company "Défenseurs Fiscaux Inc." testified on behalf of the appellant at the hearing to establish prima facie evidence that the method used by the Minister was not reliable. Ms. Roy did not testify as an expert and was not recognized as such by the respondent. Ms. Roy provided three reasons the method used by the Minister was deficient and inaccurate. The first was that the hotdog buns are not representative of the fact that 51% of the sales are steamed hotdog buns (non-weighted sales) and that sales of submarines represent less than 10% of the total sales. The second was that the bread purchases confirmed by the supplier Multi-Marques are significantly higher than the actual purchases; the restaurant's sales figure is therefore artificially inflated. The third was that in general, bread is not a representative item because it is the item that generates the most important losses.
+[15] According to Ms. Roy, using sausages would have been more representative and more reliable. Taking the same inventory used by the Minister and using the purchase of sausages confirmed by the supplier Conan, the appellant's reconstructed sales would only have exceeded the sales figure reported in the financial statement by 10%, which, she claims, would have been much closer to reality.
+[16] Ms. Roy presented many other analyses showing that the method used by the Minister produced inaccurate results. Among these analyses was the average daily sales method. Using the same inventory, the same number of days (93 days), the same base calculation used by the Minister and taking into consideration the 10 days the high school was closed, the average daily sales would have been $820 during the busiest period and $723 for the days included in the period that was least busy. On this basis, the reconstructed sales would only have amounted to $282,000, or half the sales the Minister reconstructed for the same period.
+[17] Another analysis consisted of comparing the ratio of reported purchases/reported sales, which is a recognized ratio in the restaurant sector. In 2006, the average ratio for Quebec restaurants was 28.14%. In 2007, it was 24.61% and in 2008, it was 22.61%. In the appellant's case, the application of this ratio to the available confirmed purchases (i.e. minus the losses estimated at 15%) would have reduced the gap between the reported sales in the financial records and the reconstructed sales by 80%.
+[18] A last analysis consists of calculating the average service time for portions sold each day by establishing the daily sales according to the audit (test 1) and according to the presumed availability of the bread items (test 2). According to this analysis, the average time of service of portions sold each day would be 23 hours (test 1) and 24 hours (test 2), whereas the restaurant is only open 19 hours per day.
+[19] Yan Fortier, Revenu Québec auditor, testified at the hearing. He explained that he conducted an undercover visit to the restaurant to have breakfast with his team leader. He noted that there was only one employee who prepared and served their meals, that no entry was made to the cash register and they were not given a bill. They were, however, given a hand-written receipt. The audit began in early 2009. During a first visit, the auditor asked Mr. Nadeau to complete a questionnaire and provide the appellant's accounting books and records. The cash register "Z" tapes were provided but many were missing and those provided were not detailed enough to identify the various trios that were sold. The auditor then asked the appellant to have the cash register reprogrammed. On March 30, 2009, the auditor returned to the restaurant to see whether the cash register had in fact been reprogrammed. The auditor noted that the cash register had been reprogrammed to clearly identify each meal by a code. The auditor then informed the appellant that he would return around three months later to pick up the detailed "Z" tapes. As agreed, the auditor returned to get the "Z" tapes and he proceeded with an analysis of the sales for the period from March 29, 2009, to June 30, 2009, a period of 93 days.
+[20] The auditor explained that the breakfasts only had one entry in the cash register (lump sum amount for all the breakfasts per day). When the cash register was reprogrammed, breakfasts were not included. As a result, purchases of sliced bread were not considered.
+[21] The auditor also confirmed that the appellant did not provide purchase invoices from its suppliers. Information was obtained from the suppliers themselves but the purchase invoices were not produced. The information contains many errors and was sometimes incomplete; for example, the client was not identified or the client number did not appear on the statement. At times, two client numbers appeared for the same address. Moreover, the supplier Saputo does not appear on the list of the appellant's suppliers. According to the auditor, purchases made with the suppliers simply indicated that significant gaps existed between the reported purchases and the confirmed purchases.
+Applicable legislative provisions and burden of proof
+[22] Subsection 286(1) of the ETA sets out the agent’s duty to keep books and records:
+Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required under this Part to file a return and every person who makes an application for a rebate or refund shall keep records in English or in French in Canada, or at such other place and on such terms and conditions as the Minister may specify in writing, in such form and containing such information as will enable the determination of the person’s liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled.
+[23] Subsection 288(1) of the ETA confers on duly authorized persons the authority to audit, among other things, an agent’s books and records to determine the agent’s tax liability:
+An authorized person may, at all reasonable times, for any purpose related to the administration or enforcement of this Part, inspect, audit or examine the documents, property or processes of a person that may be relevant in determining the obligations of that or any other person under this Part or the amount of any rebate or refund to which that or any other person is entitled...
+[24] Under subsection 296(1) of the ETA, the Minister of National Revenue may make an assessment, a reassessment or additional assessment to determine, among other things, the net tax of an agent for a reporting period, and penalties and interest payable by the agent.
+[25] Pursuant to subsection 299(3) of the ETA, an assessment is valid and binding, subject to being vacated on an objection or appeal under this Part.
+[26] In Amiante Spec Inc. and Her Majesty the Queen, 2009 FCA 139 (CanLII), the Federal Court of Appeal made the following comments about the burden of proof in cases where a taxpayer wishes to challenge the validity of an assessment or reassessment:
+[15] Hickman reminded us that the Minister proceeds on assumptions in order to make assessments and that the taxpayer has the initial burden of demolishing the exact assumptions stated by the Minister. This initial onus is met where the taxpayer makes out at least a prima facie case that demolishes the accuracy of the assumptions made in the assessment. Lastly, when the taxpayer has met his or her onus, the onus shifts to the Minister to rebut the prima facie case made out by the taxpayer and prove the assumptions (Hickman, supra, at paragraphs 92, 93 and 94).
+...
+[23] A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence” (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).
+[24] Although it is not conclusive evidence, “the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted”, considering that “[i]t is the taxpayer’s business” (Orly Automobiles Inc. v. Canada, 2005 FCA 425, paragraph 20). This Court stated that the taxpayer “knows how and why it is run in a particular fashion rather than in some other ways. He [or she] knows and possesses information that the Minister does not. He [or she] has information within his [or her] reach and under his [or her] control” (ibid.).
+Analysis and conclusion
+[27] Considering the evidence presented, it seems clear to me that the Minister was justified in using an indirect method to determine whether all of the appellant's income was reported. Counsel for the appellant did not challenge the Minister's use of an indirect audit method but it questioned the reliability of the alternative method used by the Minister. According to counsel for the appellant, the alternative method used by the Minister provided unreliable and implausible results considering the circumstances and characteristics of the restaurant.
+[28] Counsel for the appellant cited, in support of his position, Brasserie Futuriste de Laval Inc. v. The Queen, 2006 TCC 503, a case decided by Justice Dussault, where he stated that the presumption of an assessment’s validity does not automatically carry with it a presumption that all the assumptions on which the Minister relied to make the assessment are valid and that no evidence of any kind need ever be offered. At paragraph 158, Justice Dussault made the following comment:
+... In short, when a taxpayer can raise a serious doubt, it must be shown that the markup used is not a purely subjective standard, but, rather, a standard that is objective, reliable and acceptable under the circumstances. One cannot hide behind the presumption of an assessment's validity in order to avoid having to offer such evidence. To claim otherwise is to open the door to arbitrariness by allowing the tax authorities to propound any theory with the assurance that it would be deemed valid. Just because a taxpayer has failed to meet its obligations, has deficient accounting, does not have the appropriate documents, or has destroyed those documents, does not mean that all assumptions are warranted and that those assumptions will be deemed valid under all circumstances...
+[29] Counsel for the appellant raised the following reasons to challenge the reliability of the indirect audit method used by the Minister:
+(a) the inventory period of 93 days, from March 29 2009, to June 30, 2009, is the busiest time of the year, which artificially inflated the annual sales results;
+(b) the choice of bread as the selected item is not representative because this is an item with a higher rate of loss than other items such as sausages, cheese, etc. Another issue with using bread as the selected item is that the bread purchases confirmed by the supplier Multi-Marques are greater than the actual purchases. Lastly, because the sale of steamed hotdog buns was not weighted, the method used became unrepresentative.
+[30] It is true that any indirect audit method used by the tax authorities, used when required by a taxpayer's affairs or documents or lack thereof, can only generate approximate results, which do not necessarily fully reflect reality. It is in the nature of any alternate method to produce questionable and less reliable results.
+[31] In the present case, it is difficult, in my opinion, to claim that the method used by the Minister is purely arbitrary and estimated.
+[32] Indeed, the ratio of $4.1030 per item sold was reached on the basis of the complete and detailed "Z" tapes for the period from March 29 to June 30, 2009, and therefore was based on actual and accurate data. The inventory period was determined on the basis of the date of the beginning of the audit, in early 2009. The audit took place as described at paragraph 19. The choice of the period was therefore random and occurred as soon as the information was available. The auditor cannot be blamed for the choice of audit period.
+[33] The items selected for analysis purposes were hotdog, hamburger and submarine buns. This choice is logical because they are the most reliable items that were sold the most, by themselves or in a trio. The claims in the letter dated August 20, 2009, that the appellant sent to the auditor, claiming that:
+(a) the purchases from suppliers could not be used to calculate its sales figure because part of the purchase of bread, sauces, desserts and certain candies were supplied to another restaurant operated by Mr. Nadeau; and
+(b) there were irregularities with the bread deliveries because after the audit and a better control over the quantity of bread delivered was implemented, the expenses for bread purchases decreased considerably,
+cannot render the bread inadmissible as selected items. None of the claims in the letter were supported by documentary or testimonial evidence. The bread delivery person was not called to testify and there is no evidence to show that an accusation or complaint was brought against him.
+[34] The auditor who conducted the appellant's audit is an experienced auditor who has worked exclusively in the restaurant sector for seven years. In his opinion, the indirect audit method used in this case allowed for a probative and reasonable result in the circumstances. In the context where an indirect audit method is used, the auditor is not required to use the method that is most favourable to the taxpayer. The auditor must find reliable results from the samples taken. The greater the sample size, the better the results.
+[35] During his testimony, the auditor explained that he did not use hotdog sausages as the selected item because the data from the supplier Conan was not reliable. In his opinion, Conan supplied contradictory information with regard to two different client numbers and also incomplete information because additional sausage purchases were not reported.
+[36] The percentage of loss allowed, 8% of the confirmed bread purchases, corresponds to the reality of the restaurant sector, but according to Ms. Roy, this percentage is not representative for bread purchases. In her opinion, this percentage should be closer to 15-20% but no documentary evidence or statistical data was presented to support this testimony.
+[37] Under the circumstances, the appellant and its representatives did not convincingly demonstrate that there were specific deficiencies or clear errors with the indirect audit method used by the Minister.
+[38] As for the 25% penalty prescribed under section 285 of the ETA, we must remember that under section 285, the penalty applies when a person "... knowingly, or under circumstances amounting to gross negligence, makes...a false statement or omission in a return". The burden of proof regarding this provision is on the respondent.
+[39] The evidence shows significant and repeated omissions in the returns, namely discrepancies in the GST totalling $57,805.86 over four years. The appellant therefore made false statements in its tax return and did so repeatedly. The appellant did not provide any plausible explanations regarding these omissions and the only possible conclusion is that they were the result of wilful negligence by the appellant that amounts to gross negligence.
+[40] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 4th day of December 2013.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 13th day of March 2014.
+François Brunet, Revisor
+CITATION: 2013 TCC 368
+COURT FILE NO.: 2011-834(GST)G
+STYLE OF CAUSE: 125319 Canada Ltd. and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 16, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: December 4, 2013
+APPEARANCES:
+Counsel for the appellant:
+Pierre Blain
+Counsel for the respondent:
+Danny Galarneau
+COUNSEL OF RECORD:
+For the appellant
+Name: Pierre Blain
+Firm: Pierre Blain, Counsel
+Longueuil, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

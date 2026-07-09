@@ -1,0 +1,225 @@
+Title: Johnson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520909/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-31-520909-johnson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-02-01
+
+# Johnson c. La Reine
+
+- Citation: 2022 CCI 31
+- Decision date: 2022-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4445, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-02-01
+Référence neutre
+2022 CCI 31
+Numéro de dossier
+2021-940(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-940(IT)G
+ENTRE :
+LEROY JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Avocat de l’appelant :
+Me Kyle Corbin
+Avocats de l’intimée :
+Me John Chapman
+Me Benjamin Chamberland
+ORDONNANCE
+La requête de l’intimée est accueillie.
+Les paragraphes (d)(i), (d)(ii), (d)(iii), (d)(vii), (d)(viii), (d)(ix), (e)(ii), (e)(iii), (g)(i) et (g)(iii) de l’avis d’appel sont radiés, sans autorisation de les modifier.
+Le délai accordé à l’intimée pour déposer une réponse est prolongé au 23 mars 2022.
+L’appelant devra, au plus tard le 22 avril 2022, verser à l’intimée des dépens de 525 $ relativement à la présente requête.
+Signé à Ottawa, Canada, ce 21e jour de février 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 10e jour de mai 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 31
+Date : 20220221
+Dossier : 2021-940(IT)G
+ENTRE :
+LEROY JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Lorsqu’il a produit ses déclarations de revenus pour ses années d’imposition 2006, 2009 et 2010, l’appelant a demandé des crédits d’impôt pour des dons qu’il prétend avoir effectués par le canal d’un abri fiscal connu sous le nom de Global Learning Gifting Initiative (« GLGI »). Le ministre du Revenu national a établi de nouvelles cotisations à l’égard de l’appelant, par lesquelles il a refusé ces crédits. L’appelant a interjeté appel.
+[2] L’intimée a présenté une requête en radiation de certaines parties de l’avis d’appel de l’appelant. Les parties de l’avis d’appel dont l’intimée demande la radiation portent sur :
+(a)la conduite du ministre du Revenu national;
+(b)la Charte des droits du contribuable;
+(c)la Charte canadienne des droits et libertés;
+(d)la mesure de redressement demandée par l’appelant.
+A. Défaut de l’appelant de présenter des observations [3] En juillet 2021, le greffe a demandé à l’appelant s’il souhaitait présenter des observations écrites ou des commentaires relativement à la requête de l’intimée. L’appelant n’a pas répondu dans le délai fixé par le greffe, et n’a même pas répondu du tout.
+[4] En décembre 2021, le greffe a de nouveau demandé à l’appelant s’il souhaitait présenter des observations écrites ou des commentaires. Le greffe a informé l’appelant que, s’il ne présentait pas de réponse avant une certaine date, je statuerais sur la requête en me fondant sur le dossier de requête de l’intimée, sans comparution des parties. L’appelant n’a pas répondu à la Cour dans le délai qui lui avait été imparti.
+B. Critère en matière de radiation d’actes de procédure [5] L’alinéa 53(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale) autorise une partie à présenter une requête en radiation d’une partie d’un acte de procédure au motif qu’elle ne révèle aucun moyen d’appel raisonnable. Cette requête ne peut être accueillie que s’il est évident et manifeste, dans l’hypothèse où les faits allégués sont avérés, que cette partie de l’acte de procédure ne révèle aucune cause d’action valable[1].
+C. Absence de faits substantiels [6] L’appelant a exposé très peu de faits dans son avis d’appel. Les faits invoqués décrivent les présumés dons que l’appelant aurait faits, ainsi que l’historique des procédures dans le présent contentieux. Aucun de ces faits ne concerne les paragraphes dont l’intimée demande la radiation.
+[7] L’appelant n’a pas invoqué de faits substantiels pour étayer les paragraphes dont l’intimée demande la radiation, et cela constitue, en soi, un motif suffisant pour que j’en autorise la radiation. « Il se peut qu’un acte de procédure ne révèle aucune cause d’action fondée s’il n’est pas étayé par des faits pertinents[2] ». Je radierais tous les paragraphes en question pour ce seul motif.
+[8] Selon le paragraphe 53(1), la Cour peut radier en partie un avis d’appel, avec ou sans autorisation de le modifier. Pour que la Cour en autorise la radiation sans autorisation de le modifier, l’acte de procédure doit être entaché d’un vice qui ne peut être corrigé par une modification[3].
+[9] En général, lorsque la Cour radie en partie un avis d’appel parce que l’appelant n’a pas présenté de faits substantiels à l’appui, elle accorde ensuite à l’appelant l’autorisation de modifier l’avis d’appel afin de corriger cette erreur.
+[10] L’intimée me demande de ne pas autoriser l’appelant à modifier son avis d’appel. L’intimée soutient que, même si j’accordais à l’appelant l’autorisation de modifier l’avis d’appel afin d’y exposer des faits substantiels étayant les questions en litige soulevées dans les paragraphes en question, il serait toujours évident et manifeste que ces paragraphes ne révèlent aucune cause d’action valable.
+[11] Par conséquent, pour déterminer si je dois accorder une autorisation de modifier, je dois examiner chacun des paragraphes séparément pour déterminer si, même avec des faits à l’appui, il serait toujours évident et manifeste qu’il n’existe aucune cause d’action.
+D. Conduite du ministre [12] L’intimée demande la radiation des paragraphes (d)(i), (ii) et (iii) de l’avis d’appel. Selon les allégations de l’appelant, chacun de ces paragraphes porte sur des mesures que le ministre aurait prises ou aurait omis de prendre.
+[13] La mission de la Cour de l’impôt dans un appel en matière d’impôt sur le revenu est de déterminer si la cotisation est valide et juste, en se fondant sur les faits pertinents et sur les dispositions pertinentes de la Loi de l’impôt sur le revenu. La conduite du ministre durant l’audit ou le processus d’opposition n’a aucune incidence sur cette décision[4]. Cette conduite ne constitue pas un motif aux termes duquel la Cour peut accueillir un appel.
+[14] J’examinerai ci-après les aspects précis de la conduite du ministre qui sont visés par les plaintes de l’appelant.
+Approbation d’un organisme de bienfaisance [15] Au paragraphe (d)(i), l’appelant met en doute le processus par lequel le ministre a approuvé le statut d’organisme de bienfaisance de divers organismes. Ce paragraphe est ainsi rédigé :
+[traduction]
+L’ARC a-t-elle approuvé le statut d’organisme de bienfaisance des organismes mentionnés dans son avis de confirmation délivré à l’appelant le 30 novembre 2020?
+[16] L’appelant soutient avoir fait des dons de bienfaisance à plusieurs organismes caritatifs. Le nom de ces organismes n’est pas indiqué dans l’avis d’appel. Comme un don fait à un organisme de bienfaisance non enregistré ne serait pas considéré comme valide, je présume que l’appelant, en soulevant cette question, ne met pas en doute le fait que les organismes de bienfaisance étaient enregistrés et qu’il demande plutôt s’ils auraient dû être enregistrés.
+[17] Les actions du ministre dans l’enregistrement d’un organisme de bienfaisance, ou la non-revocation de l’enregistrement d’un organisme de bienfaisance, n’entrent nullement en compte dans l’évaluation de la validité ou de la justesse des nouvelles cotisations imposées à l’appelant[5]. Toute erreur commise par le ministre en enregistrant un organisme de bienfaisance, ou en omettant d’en révoquer l’enregistrement, n’a aucune incidence sur la validité ou la justesse des nouvelles cotisations. Soit les dons étaient valides, soit ils ne l’étaient pas. Les actions, ou inactions, du ministre à cet égard ne modifient en rien cela. Les cotisations de l’appelant ont été établies en fonction de ce qu’il a fait, et non de ce qu’il aurait pu faire si les organismes de bienfaisance n’avaient pas été enregistrés.
+[18] Pour tous les motifs précités, j’accepte de radier le paragraphe (d)(i) de l’avis d’appel, sans autorisation de le modifier. Il est évident et manifeste que le motif d’appel qui y est invoqué n’a aucune chance d’être accueilli.
+Information du public sur les abris fiscaux [19] Au paragraphe (d)(ii), l’appelant s’interroge sur les connaissances qu’avait le ministre du programme d’abris fiscaux offert par GLGI, ainsi que sur les mesures prises par le ministre, le cas échéant, pour en informer le public. Ce paragraphe est ainsi rédigé :
+[traduction]
+L’ARC connaissait-elle le programme de GLGI et, le cas échéant, à quel moment en a-t-elle été informée et quelles mesures a-t-elle prises, le cas échéant, pour informer le public du caractère inopportun de ce type de stratagème caritatif frauduleux?
+[20] Même si l’avis d’appel révélait les faits nécessaires pour étayer cet argument, celui-ci ne constitue pas un motif d’appel valable.
+[21] Si le promoteur d’un abri fiscal présente une demande à l’Agence du revenu du Canada (l’« ARC ») pour faire enregistrer cet abri fiscal, l’ARC n’a d’autre choix que de délivrer un numéro d’inscription d’abri fiscal si celui-ci satisfait aux exigences relativement simples énoncées au paragraphe 237.1(3) de la Loi de l’impôt sur le revenu[6]. Le fait qu’un numéro d’inscription d’abri fiscal a été délivré ne garantit nullement que les contribuables qui y ont recours pourront en retirer les avantages fiscaux escomptés[7].
+[22] Plus important encore, les mesures que l’ARC pourrait avoir prises, ou avoir omis de prendre, pour mettre en garde les contribuables contre le programme d’abris fiscaux de GLGI ne sont pas pertinentes pour déterminer la validité ou la justesse des nouvelles cotisations de l’appelant. Soit les dons de l’appelant étaient valides, soit ils ne l’étaient pas. Aucune mise en garde, ou absence de mise en garde, ne change cela.
+[23] Pour tous les motifs précités, je radierai le paragraphe (d)(ii) de l’avis d’appel, sans autorisation de le modifier. Il est évident et manifeste que le motif d’appel qui y est invoqué n’a aucune chance d’être accueilli.
+E. Charte des droits du contribuable
+[24] Au paragraphe (d)(iii) de l’avis d’appel, l’appelant soulève plusieurs arguments différents fondés sur la Charte des droits du contribuable.
+[25] La Charte des droits du contribuable est un document administratif publié par l’ARC. Il s’agit essentiellement d’un engagement à offrir une certaine qualité de services aux contribuables canadiens. Ce document n’a pas force de loi. Il ne remplace ni ne complète la Loi de l’impôt sur le revenu[8].
+[26] Sans observations de la part de l’appelant, il est difficile de savoir ce qu’il espère obtenir vraiment en invoquant la Charte des droits du contribuable.
+[27] Le contribuable ne peut pas intenter une action contre l’ARC devant la Cour de l’impôt en raison d’un manquement allégué à la Charte des droits du contribuable[9]. Si telle est l’intention de l’appelant, alors le paragraphe (d)(iii) ne soulève aucun motif d’appel valable et il doit être radié sans autorisation de le modifier.
+[28] Le simple fait que le ministre ait pu manquer à la Charte des droits du contribuable n’est pas, en soi, pertinent pour déterminer la validité ou la justesse des nouvelles cotisations de l’appelant[10]. Si tel est l’argument que l’appelant invoque, alors le paragraphe (d)(iii) doit être radié sans autorisation de le modifier.
+[29] L’appelant pourrait toutefois soutenir que les actions sous-jacentes qui ont mené aux manquements allégués à la Charte des droits du contribuable (plutôt que les manquements à la Charte proprement dits) sont des motifs qui justifieraient l’annulation des nouvelles cotisations. Par prudence, j’examinerai cette question ci-après au regard de chacun des volets du paragraphe (d)(iii).
+Examen impartial complet [30] Au paragraphe (d)(iii)(a) de l’avis d’appel, l’appelant demande si l’ARC a respecté le droit de l’appelant à un examen impartial. Cela renvoie vraisemblablement aux articles 4 et 7 de la Charte des droits du contribuable. Ces articles portent sur le droit du contribuable à un examen impartial complet.
+[31] La mission de la Cour de l’impôt n’est pas de procéder au contrôle judiciaire du processus d’examen administratif utilisé par le ministre[11]. Pour déterminer la validité ou la justesse des nouvelles cotisations, il n’est pas pertinent de savoir si l’opposition signifiée par l’appelant à ces cotisations a fait l’objet d’un examen impartial et complet. L’appelant aura la possibilité de bénéficier d’un examen sur le fond complet, impartial et indépendant des nouvelles cotisations lors de l’instruction de son appel.
+[32] Le paragraphe (d)(iii)(a) doit être radié sans autorisation de le modifier. Même en faisant de ce paragraphe l’interprétation la plus libérale qui soit, il est évident et manifeste que le motif d’appel qui y est invoqué n’a aucune chance d’être accueilli.
+Application uniforme de la loi [33] Au paragraphe (d)(iii)(b) de l’avis d’appel, l’appelant demande si l’ARC a appliqué la loi de manière uniforme. Cela renvoie vraisemblablement à l’article 8 de la Charte des droits du contribuable.
+[34] L’avis d’appel ne fait état d’aucun fait dont il ressort que le ministre n’a pas établi de nouvelles cotisations à l’égard d’autres personnes de la même manière qu’il l’a fait pour l’appelant; cependant, même si de tels faits avaient été présentés, ils n’auraient aucune pertinence pour déterminer la validité ou la justesse des nouvelles cotisations de l’appelant.
+[35] La mission de la Cour de l’impôt n’est pas de procéder au contrôle judiciaire de la décision du ministre d’établir de nouvelles cotisations, et encore moins de comparer cette décision à d’autres décisions rendues par le ministre à l’égard d’autres contribuables. Les raisons pour lesquelles le ministre a établi les cotisations ne constituent pas un facteur pertinent[12]. Pas plus que ne l’est la question de savoir comment le ministre a établi les cotisations à l’égard d’autres contribuables se trouvant dans la même situation[13].
+[36] Le paragraphe (d)(iii)(b) doit être radié sans autorisation de le modifier. Même en accordant à ce paragraphe l’interprétation la plus large qui soit, il est évident et manifeste que le motif d’appel qui y est invoqué n’a aucune chance d’être accueilli.
+Mise en garde contre des stratagèmes fiscaux douteux [37] Au paragraphe (d)(iii)(c) de l’avis d’appel, l’appelant fait valoir que l’ARC a omis de le mettre en garde contre les abris fiscaux de GLGI. Ce paragraphe est libellé ainsi :
+[traduction]
+L’ARC a-t-elle inobservé le droit de l’appelant de s’attendre à ce qu’elle le mette en garde contre des stratagèmes fiscaux douteux en temps utile? Ainsit, l’ARC a-t-elle fait preuve de négligence en omettant d’appliquer les règles et de surveiller la validité du stratagème fiscal de GLGI?
+[38] Cela renvoie vraisemblablement à l’article 14 de la Charte des droits du contribuable. Cet article dispose que les contribuables sont en droit de s’attendre à ce que l’ARC les mette en garde, en temps utile, contre des stratagèmes fiscaux douteux.
+[39] Même si l’avis d’appel exposait les faits nécessaires pour étayer cet argument, celui-ci ne constitue pas un motif d’appel valable. Comme je l’ai mentionné précédemment, les mesures que le ministre pourrait avoir prises, ou avoir omis de prendre, pour mettre en garde l’appelant contre le programme d’abris fiscaux de GLGI ne sont pas pertinentes pour déterminer la validité ou la justesse des nouvelles cotisations de l’appelant.
+[40] Le paragraphe (d)(iii)(c) doit être radié sans autorisation de le modifier. Même en accordant à ce paragraphe l’interprétation la plus large qui soit, il est évident et manifeste que le motif d’appel qui y est invoqué n’a aucune chance d’être accueilli.
+Paragraphe (d)(iii)(d) [41] Au paragraphe (d)(iii)(d) de l’avis d’appel, l’appelant demande des mesures fondées sur les questions soulevées aux paragraphes (d)(iii)(a) à (c). Comme ces paragraphes seront radiés, le paragraphe (d)(iii)(d) doit lui aussi être radié sans autorisation de le modifier.
+Conclusion [42] Pour tous les motifs précités, je radierai le paragraphe (d)(iii) de l’avis d’appel, sans autorisation de le modifier.
+[43] Le paragraphe (e)(ii) aussi sera radié. Le paragraphe (e) expose les dispositions législatives invoquées par l’appelant. Le paragraphe (e)(ii) renvoie plus précisément aux dispositions de la Charte des droits du contribuable et n’est donc plus nécessaire.
+F. Charte canadienne des droits et libertés
+[44] Aux paragraphes (d)(vii), (d)(viii) et (d)(ix) de l’avis d’appel, l’appelant invoque plusieurs arguments différents fondés sur la Charte canadienne des droits et libertés (la « Charte »). J’examinerai chaque article de la Charte séparément.
+Article 7 [45] Au paragraphe (d)(vii), l’appelant pose la question suivante :
+[TRADUCTION]
+La décision de l’ARC porte-t-elle atteinte aux droits constitutionnels que l’appelant tire de l’article 7 ainsi qu’aux principes de justice fondamentale?
+[46] Selon l’article 7 de la Charte, « [c]hacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale ».
+[47] Pour établir qu’il y a eu manquement à l’article 7, le demandeur doit démontrer à la fois qu’il a subi, ou qu’il pourrait subir, une atteinte à son droit à la vie, à la liberté et à la sécurité de sa personne et que cette atteinte ne respectait pas, ou ne respecterait pas, les principes de justice fondamentale[14].
+[48] La Cour d’appel fédérale a toujours enseigné que la cotisation établie sous le régime de la Loi de l’impôt sur le revenu ne peut résulter en une atteinte à la vie, à la liberté ou à la sécurité de la personne[15]. Comme l’a observe la juge Sharlow dans l’arrêt Gratl c. Canada, « une cotisation relative à l’impôt est une affaire de nature civile qui ne touche que des intérêts économiques. Elle ne prive pas la personne à l’égard de laquelle elle est établie de sa vie, de sa liberté ou de la sécurité de sa personne au sens de l’article 7 de la Charte[16] ».
+[49] Rien n’indique que l’appelant invoque l’article 7 pour contester la validité ou l’applicabilité de quelque disposition de la Loi de l’impôt sur le revenu. La Cour n’a pas compétence pour annuler une cotisation au motif qu’il y a eu recours abusif en violation de l’article 7[17].
+[50] Le paragraphe (d)(vii) doit être radié sans autorisation de le modifier, tout comme doit l’être le renvoi correspondant à l’article 7 de la Charte, au paragraphe (e)(iii). Il est évident et manifeste que ce motif d’appel n’a aucune chance d’être accueilli.
+Article 8 [51] Selon l’article 8 de la Charte, « [c]hacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives ».
+[52] L’appelant n’allègue pas expressément que le ministre a porté atteinte aux droits qu’il tire de l’article 8. Il ne fait que mentionner cet article dans la partie de l’avis d’appel où il énumère les dispositions législatives qu’il entend invoquer. S’il y avait eu fouille, perquisition ou saisie abusive, cela pourrait constituer un motif d’écarter les éléments de preuve reccueillis par ces fouilles, perquisitions ou saisies. Cela ne constituerait toutefois pas, en soi, un motif pour annuler les nouvelles cotisations de l’appelant[18].
+[53] Si l’appelant veut soutenir qu’il a été porté atteinte aux droits qu’il tire de l’article 8 de la Charte, et que cette atteinte doit résulter en l’exclusion de certains éléments de preuve, je lui accorderai l’autorisation de modifier son avis d’appel. Cependant, comme l’appelant a choisi de ne présenter aucune observation, je n’ai aucun moyen de savoir si telle est ou non son intention. Je ne retarderai pas l’avancement de l’appel en donnant à l’appelant la possibilité de modifier l’avis d’appel, alors que ce n’est peut-être pas ce qu’il souhaite.
+[54] En clair, lorsque l’avis d’appel est lu dans son ensemble, il en ressort que l’appelant ne fait que lancer des allégations contre le ministre dans l’espoir que l’une d’elles sera retenue. Rien ne me permet de croire que l’appelant serait en mesure de faire état, si on lui en donnait l’occasion, de faits étayant ses allégations selon lesquelles il a fait l’objet de fouilles, perquisitions ou saisies abusives. Je ne retarderai l’appel au cas où il existerait une mince possibilité que je fasse erreur.
+[55] Pour tous les motifs précités, je radierai le renvoi à l’article 8 de la Charte au paragraphe (e)(iii), sans autorisation de le modifier. Si l’appelant veut modifier son avis d’appel relativement à cette question, il pourra présenter une requête en ce sens.
+Article 9 [56] L’article 9 de la Charte dispose que « [c]hacun a droit à la protection contre la détention ou l’emprisonnement arbitraires ».
+[57] Là encore, l’appelant n’allègue pas que le ministre a porté atteinte aux droits qu’il tire de l’article 9. Il ne fait que mentionner cet article dans la partie de l’avis d’appel où il énumère les dispositions législatives qu’il entend invoquer.
+[58] Lorsqu’il s’agit d’une nouvelle cotisation, « il n’est pas question d’atteinte à la liberté; il s’agit uniquement de déterminer si une personne a une dette fiscale envers les autorités fiscales[19] ».
+[59] Le renvoi à l’article 9 de la Charte au paragraphe (e)(iii) doit être radié sans autorisation de le modifier. Il est évident et manifeste que ce motif d’appel n’a aucune chance d’être accueilli.
+Alinéa 11g) [60] Le paragraphe (d)(vii) de l’avis d’appel est ainsi rédigé :
+[traduction]
+La décision de l’ARC doit-elle, pour ces motifs, être considérée comme étant de nature « pénale » aux fins de l’alinéa 11g) de la Charte canadienne des droits et libertés?
+[61] Cette question a été tranchée de manière définitive par la Cour suprême du Canada dans l’arrêt Guindon c. Canada[20]. Les nouvelles cotisations fiscales ne sont pas de nature pénale.
+[62] Le paragraphe (d)(ix) doit être radié sans autorisation de le modifier, tout comme doit l’être le renvoi à l’alinéa 11g) de la Charte, au paragraphe (e)(iii). Il est évident et manifeste que ce motif d’appel n’a aucune chance d’être accueilli.
+Article 12 [63] L’article 12 de la Charte dispose que « [c]hacun a droit à la protection contre tous traitements ou peines cruels et inusités ».
+[64] Le paragraphe (d)(ix) de l’avis d’appel est ainsi rédigé :
+[traduction]
+Les actions de l’ARC équivalent-elles à une peine cruelle et inusitée pour l’appelant et les autres contribuables en cause?
+[65] L’avis d’appel ne fait état d’aucun fait étayant la thèse voulant que le contribuable ou d’autres aient été soumis à une peine cruelle ou inusité. Et même si tel était le cas, une nouvelle cotisation relative à l’impôt « est une affaire de nature civile qui ne touche que des intérêts économiques [...] et [e]le ne place pas cette personne sous le contrôle de l’État d’une façon qui pourrait être considérée comme un traitement ou une peine au sens de l’article 12 de la Charte »[21].
+[66] Le paragraphe (d)(ix) doit être radié sans autorisation de le modifier. Il est évident et manifeste que ce motif d’appel n’a aucune chance d’être accueilli.
+Paragraphe 24(1) [67] Au paragraphe (g)(iii) de l’avis d’appel, l’appelant sollicite la mesure suivante :
+[traduction]
+Aux termes du paragraphe 24(1) de la Charte, il demande à la Cour canadienne de l’impôt de déclarer que l’avis de confirmation et l’obligation de payer sont inconstitutionnels et vont à l’encontre des principes de justice fondamentale.
+[68] Comme j’ai radié chacun des arguments fondés sur la Charte qui a été invoqué par l’appelant, rien ne justifie que cette mesure soit accordée, et le paragraphe (g)(iii) doit être radié sans autorisation de le modifier.
+[69] Si l’appelant présente ultérieurement une requête en autorisation de modifier son avis d’appel pour soulever la question précitée fondée sur l’article 8, je l’autorise à invoquer le paragraphe 24(2) pour demander que soit écarté tout élément de preuve qui, selon lui, a été obtenu en violation des droits qu’il tire de l’article 8.
+Conclusion [70] Pour tous les motifs précités, je radierai les paragraphes (d)(vii), (d)(viii), (d)(ix) et (g)(iii), sans autorisation de les modifier.
+[71] Comme j’ai radié tous les renvois à la Charte au paragraphe (e)(iii), je radie également ce paragraphe dans son intégralité.
+G. Mesure demandée [72] Au paragraphe (g)(i) de l’avis d’appel, l’appelant demande à la Cour d’enjoindre à [traduction] « l’ARC de produire un avis technique de spécialistes de l’ARC sur l’impartialité du traitement qui a été fait du programme de GLGI et d’autres programmes semblables ». La Cour n’a pas la compétence d’accorder ce type de mesure.
+[73] Les mesures que la Cour de l’impôt peut accorder en appel d’une nouvelle cotisation fiscale sont prévues par le paragraphe 171(1) de la Loi de l’impôt sur le revenu. Ces mesures se limitent au rejet de l’appel, ou à l’accueil de l’appel par l’annulation ou la modification de la nouvelle cotisation; elle peut aussi être déférée au ministre pour nouvel examen et nouvelle cotisation.
+[74] Par conséquent, le paragraphe (g)(i) doit être radié sans autorisation de le modifier.
+H. Parties restantes de l’avis d’appel [75] Bien que j’aie radié de nombreuses parties de l’avis d’appel, il soulève toujours clairement la question de la validité des dons faits par l’appelant[22]. C’est au regard de cette question qu’ont été établies les nouvelles cotisations de l’appelant. L’appel peut se poursuivre sur ce fondement, sans qu’il soit nécessaire d’apporter des modifications.
+I. Prorogation du délai de réponse [76] L’intimée demande que le délai pour présenter une réponse soit prolongé de 30 jours. Je conviens qu’une prorogation est indiquée, mais je préfère déterminer une date fixe. L’intimée devra signifier et déposer une réponse au plus tard le 23 mars 2022.
+J. Dépens [77] L’intimée demande que les dépens relatifs à la présente requête, quelle que soit l’issue de la cause, et que ceux-ci soient établis conformément au tarif B pour une instance de la catégorie B. Je conviens que les dépens sont indiqués en l’espèce. J’accorde des dépens de 525 $ à l’intimée.
+[78] L’intimée demande que ces dépens lui soient payés dans un délai de 30 jours. J’estime qu’un délai de 30 jours est trop court. Les dépens devront être payés au plus tard le 22 avril 2022.
+K. Conduite de l’appelant [79] Je note que l’appelant est représenté par un avocat. L’absence de réponse de l’appelant aux demandes du greffe est inacceptable. Soit il a consenti à la requête de l’intimée, soit il souhaitait s’y opposer.
+[80] Je tiens à mettre en garde l’appelant contre toute inobservation future des délais, qui pourrait résulter en le rejet de son appel conformément à l’alinéa 125(4)c) des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 21e jour de février 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 10e jour de mai 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 31
+NO DU DOSSIER DE LA COUR :
+2021-940(IT)G
+INTITULÉ :
+LEROY JOHNSON c. SA MAJESTÉ LA REINE
+DATE DE L’AUDIENCE :
+Requête tranchée par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 21 février 2022
+PARTICIPANTS :
+Avocat de l’appelant :
+Me Kyle Corbin
+Avocats de l’intimée :
+Me John Chapman
+Me Benjamin Chamberland
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Kyle Corbin
+Cabinet :
+Toronto (Ontario)
+Pour l’intimée :
+Me François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Ereiser c. Canada, 2013 CAF 20.
+[2] Adebogun c. La Reine, 2018 CCI 181, par. 11. Voir aussi Klundert c. La Reine, 2013 CCI 208 et Okoroze c. La Reine, 2012 CCI 360.
+[3] Collins c. Canada, 2011 CAF 140; Simon c. Canada, 2011 CAF 6 et Mont-Bruno C.C. Inc. c. La Reine, 2017 CarswellNat 3165 (CCI).
+[4] Ereiser c. Canada, 2013 CAF 20 (CAF); Canada (Revenu national) c. JP Morgan Asset Management (Canada) Inc., 2013 CAF 250; Addison & Leyen Ltd. c. Canada, 2006 CAF 107 (appel accueilli pour des motifs différents 2007 CSC 33); Superior Filter Recycling Inc. c. Canada, 2006 CAF 248; et Main Rehabilitation Co. c. Canada, 2004 CAF 403 (autorisation d’interjeter appel refusée 2005 CarswellNat 1110 (CSC)).
+[5] Ruremesha c. La Reine, 2018 CCI 57, par. 23.
+[6] Canada c. Scheuer, 2016 CAF 7, par. 40.
+[7] Moledina c. La Reine, 2007 CCI 354, par. 9.
+[8] Canada (Ministre du Revenu national) c. Plachcinski, 2016 CarswellNat 10234 (Cour fédérale), par. 21 et 22.
+[9] Roy c. La Reine, 2019 CCI 110.
+[10] Torres c. La Reine, 2013 CCI 380, par. 74; Taylor c. La Reine, 2008 CCI 664.
+[11] Ereiser c. Canada, 2013 CAF 20, par. 31 à 33 et Canada (Procureur général) c. Webster, 2003 CAF 388, par. 21.
+[12] Johnson c. Canada, 2015 CAF 52, par. 4 (autorisation d’interjeter appel refusée, 2015 CarswellNat 3751 [CSC]).
+[13] Ludco Enterprises Ltd. v. The Queen, 1994 CarswellNat 1644 (CAF), par. 30 à 32.
+[14] Charkaoui c. Canada (Citoyenneté et Immigration), 2007 CSC 9, par. 12.
+[15] Kaulius c. Canada, 2003 CAF 371; Ali c. Canada, 2008 CAF 190 (autorisation d’interjeter appel refusée, 2008 CarswellNat 4095 [CSC]); et Kasvand v. The Queen, 1994 CarswellNat 972 (CAF).
+[16] 2012 CAF 88, par. 8.
+[17] Main Rehabilitation Co. c. Canada, 2004 CAF 403, par. 6 et Taylor c. La Reine, 2008 CCI 664.
+[18] Main Rehabilitation Co. c. Canada, 2004 CAF 403, par. 11 à 13.
+[19] Vincent c. La Reine, 2005 CCI 330, par. 27.
+[20] 2015 CSC 41.
+[21] Gratl c. Canada, 2012 CAF 88, par. 8.
+[22] Voir les paragraphes (d)(iv), (d)(v), (d)(vi) et (g)(ii).

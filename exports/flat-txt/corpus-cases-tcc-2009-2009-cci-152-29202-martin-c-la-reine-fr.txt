@@ -1,0 +1,225 @@
+Title: Martin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29202/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-152-29202-martin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-24
+
+# Martin c. La Reine
+
+- Citation: 2009 CCI 152
+- Decision date: 2009-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6698, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-24
+Référence neutre
+2009 CCI 152
+Numéro de dossier
+2008-2161(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2161(IT)I
+ENTRE :
+LOUIS MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 janvier 2009, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Christopher Mostovac
+Avocate de l'intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003 et 2004 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 152
+Date : 20090424
+Dossier : 2008-2161(IT)I
+ENTRE :
+LOUIS MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif aux années d’imposition 2003 et 2004.
+[2] Les questions en litige consistent à déterminer si, pour les années d’imposition 2003 et 2004 :
+a) Les montants respectifs de 25 704 $ et 11 675 $ déduits par l’appelant à titre de frais d’« honoraires et déboursés clients » pour ces années d’imposition, constituaient des « biens en immobilisation admissibles »;
+b) Le Ministre était justifié de refuser à l’appelant les montants respectifs de 25 704 $ et de 11 675 $ déduits par celui-ci à titre de frais d’« honoraires et déboursés clients » pour ces années d’imposition;
+c) Le Ministre était justifié d’inclure les montants respectifs de 25 704 $ et de 11 675 $ déduits par l’appelant à titre de frais d’« honoraires et déboursés clients » pour ces années d’imposition, dans le calcul du « Montant cumulatif des immobilisations admissibles ».
+[3] Pour justifier les cotisations à l’origine du présent appel, l’intimée a tenu pour acquis les faits suivants :
+a) Au cours des années d’imposition en litige, l’appelant opérait un cabinet de comptables agréés (ci-après, l’« entreprise »);
+b) L’entreprise comptait environ une dizaine de travailleurs;
+c) L’appelant est comptable agréé depuis une vingtaine d’années;
+d) La principale clientèle de l’appelant était composée d’organismes de bienfaisance;
+e) Au cours des années d’imposition en litige, l’entreprise était située au 655, 32e avenue, à Lachine, en la province de Québec;
+f) Au cours des années d’imposition en litige, l’entreprise offrait aussi les services de tenue de livres, consultation et déclaration d’impôts;
+g) Au cours des années d’imposition en litige, l’appelant faisait lui-même la comptabilité de son entreprise;
+h) L’appelant a réclamé les montants respectifs de 174 274 $ et 114 734 $ à titre de frais d’« honoraires et déboursés clients » pour les années d’imposition 2003 et 2004;
+i) Le dossier de l’appelant a fait l’objet d’une vérification par un vérificateur du Ministre (ci-après le « vérificateur »);
+j) Lors de sa vérification, le vérificateur a analysé les contrats d’acquisition par l’appelant, de clients de d’autres cabinets comptables;
+k) Suite à l’analyse de ces contrats, le vérificateur a constaté que leur acquisition procurait un avantage futur durable;
+l) Dans les contrats d’achat de clients, il était indiqué que l’appelant devait engager la personne de qui il achetait la clientèle, pour une période de 12 mois, pour faciliter la transition des clients;
+m) Dans certains contrats d’achat de clients, l’appelant s’engageait à retenir les services de certains employés de l’entreprise du vendeur;
+n) Dans certains contrats, l’appelant a acheté du mobilier et de l’équipement, des travaux en cours; et a même conservé la place d’affaire du vendeur;
+o) Le vérificateur a donc refusé les montants respectifs de 25 704 $ et 11 675 $ réclamés par l’appelant à titre de frais d’« honoraires et déboursés clients » pour les années d’imposition 2003 et 2004, et les a inclus dans le calcul du « Montant cumulatif des immobilisations admissibles » de l’entreprise.
+[4] Au titre de preuve, la Cour a entendu le témoignage de l’appelant ainsi que celui de monsieur Claude Gravel, comptable agréé maintenant à la retraite. Monsieur Martin a expliqué avoir mis sur pied son cabinet de comptable dans les années 1970.
+[5] Après un certain temps, l’appelant a constaté que la structure et la capacité de travail de son cabinet l’obligeait à augmenter son volume d’affaires; il a dès lors entrepris différentes démarches pour accroître sa clientèle.
+[6] À partir de cet objectif, il a fait un certain nombre d’acquisitions au moyen d’ententes aux termes desquelles son cabinet a effectivement pris de l’expansion, en ce qui concerne de nouveaux clients. Le litige porte sur lesdites ententes.
+[7] Dans son avis d’appel, l’appelant présente les arguments suivants :
+14. L’Appelant soumet que les Cotisations et la décision sur opposition sont mal fondées en faits et en droit pour, inter alia, les motifs qui suivront.
+15. L’Appelant soumet que les offres de desservir la clientèle des Comptables n’étaient aucunement accessoires à l’achat d’autres éléments d’actifs détenus par les Comptables et ce, dans tous les cas (bien que l’Appelant ait pu malencontreusement affirmer le contraire dans un cas afin de pouvoir en arriver à un règlement avec l’Intimée).
+16. L’Appelant soumet qu’il n’a qu’offert de desservir la clientèle des Comptables, sans plus.
+17. L’Appelant soumet également que les sommes payées aux Comptables n’ont jamais été établies préalablement, mais ont toujours été contingentes aux services rendus par l’Appelant.
+18. L’Appelant soumet finalement que les offres de desservir la clientèle des Comptables ont été effectuées dans le but de gagner un revenu.
+19. Vu ce qui précède, l’Appelant soumet que les commissions payées aux Comptables étaient des dépenses courantes, pleinement déductible à l’encontre de ses revenus pour les années d’imposition 2003 et 2004.
+20. L’Appelant soumet donc que les Cotisations devraient être annulée et que de nouveaux avis de cotisation lui accordant les dépenses de commission payées aux Comptables qu’il a réclamées devraient être émis.
+[8] L’appelant a expliqué en détail la façon de procéder avec les divers comptables qui étaient parties aux ententes qui ont presque toutes été produites. En vertu des ententes, qui permettaient à l’appelant de faire du travail pour de nouveaux clients et d’obtenir des honoraires de ceux-ci, l’appelant payait aux comptables cédants une commission dont le montant variait en fonction de l’entente convenue. Le montant versé ou payé aux comptables cédants était calculé non pas à partir des honoraires facturés mais essentiellement à partir du montant des honoraires perçus.
+[9] L’échelonnement des paiements d’honoraires convenus en termes de pourcentage était déterminé dans l’entente. Dans les faits, l’échelonnement n’était pas le même dans toutes les ententes.
+[10] L’appelant a expliqué que les différences au niveau des ententes tenaient compte des exigences particulières de chacun des comptables concernés et de la qualité des comptes devant être transférés à l’appelant.
+[11] Il a ainsi donné l’exemple de comptes de clients transférés où le travail consistait essentiellement à faire une déclaration de revenu à la fin de l’année alors que pour d’autres comptes, il s’agissait d’un travail bien plus complexe, bien plus intéressant, notamment au niveau de la fidélité, et générant des honoraires beaucoup plus importants.
+[12] La preuve a révélé que les ententes convenues étaient conclues au moyen de deux sortes de contrats. Dans un premier temps, elles étaient conclues au moyen d’un contrat notarié défini comme une « vente d’entreprise » et, dans un second temps, au moyen d’un contrat sous seing privé préparé par l’appelant lui-même et intitulé « Offre d’achat de votre clientèle ».
+[13] Les deux formes de contrat prévoyaient une formule de pourcentage dont je reproduis le contenu de chacune des formules :
+Contrat notarié
+[…]
+L’Acheteur s’oblige à verser trimestriellement au Vendeur, autant pour les clients de comptabilité et des missions d’examen que pour les clients pour lesquels les services du Vendeur consistent en la préparation des déclarations d’impôts, à l’exception des mandats spéciaux, vingt pour cent (20%) des honoraires encaissés et ce, durant une période de cinq (5) ans à compter du premier février mil neuf cent quatre-vingt-dix-huit (1er février 1998)
+Contrat sous-seing privé intitulé « Offre d’achat de votre clientèle »
+3. Autant pour les services de comptabilité que de préparation d’états financiers et de déclaration d’impôt, les montants que nous vous offrons seront versés trimestriellement à raison de 22.5 % des honoraires encaissés au cours du trimestre durant une période de deux (2) ans. Les versements trimestriels seront payables à la date anniversaire de la transmission des dossiers. Le prix de vente est donc sujet à un ajustement en fonction des honoraires encaissés.
+[14] D’un contrat à un autre, il pouvait y avoir certains variables. Dans le cas de Jean-Serge Gervais et d’Albert Kassis, les ententes prévoient spécifiquement l’achat de mobilier. Il était également prévu que les vendeurs continueraient de travailler à certaines conditions; il s’agissait généralement de conditions accordant une très grande flexibilité aux vendeurs, le tout ayant évidemment pour but de fidéliser les nouveaux clients au cabinet de l’appelant. D’autre part, certains y voyaient là la possibilité de prendre leur retraite graduellement.
+[15] Bien qu’il n’y avait pas de montant précis et déterminé pour l’« achat » de la clientèle et bien qu’il n’y avait pas de clauses de non‑concurrence ou de clauses prévoyant des pénalités, il était évident qu’il s’agissait de contrats dont l’objet était l’« achat » d’une clientèle, le tout étant d’ailleurs conforme au titre du contrat et à son objectif ultime, d’ailleurs reconnu et admis par l’appelant, soit d’augmenter l’achalandage à son bureau.
+[16] L’appelant soutient que les comptables Kassis et Gervais considéraient les montants payés comme étant des revenus[1].
+[17] L’appelant a affirmé que les montants payés avaient été considérés comme étant du revenu pour les comptables cédants. Seul M. Gravel a témoigné à cet effet.
+[18] Pour M. Gravel, il était d’avis que l’appelant allait continuer à bien servir ses clients. Malgré que la lettre d’entente avait comme titre « Offre d’achat de votre clientèle », selon M. Gravel, il n’a jamais rien vendu – il a tout simplement transféré les dossiers de ses clients à l’entreprise de M. Martin.
+[19] En contrepartie, M. Gravel a reçu une redevance de 22.5% sur les honoraires de chaque client qui était anciennement le sien mais qui était désormais facturé par Martin & Cie. Il a traité les redevances comme étant du revenu de la part de M. Martin qu’il a déclaré comme tel, dans ses déclarations fiscales.
+[20] M. Martin a affirmé que les clients « achetés » sont demeurés les clients de Martin & Cie, et ce, dans une très grande proportion[2]. Le taux de rétention variait d’un cabinet à un autre, mais, au minimum, Martin & Cie pouvait espérer conserver au moins 30% de la clientèle des cabinets en question (dans le cas d’un cabinet, il a conservé au-delà de 80% de la clientèle « achetée »).
+[21] L’appelant a admis sans équivoque que son intention était de procurer un avantage durable à son entreprise – un élément important militant contre l’argument voulant qu’il se soit agi de dépenses courantes.
+[22] Concernant l’aspect commission ou pourcentage sur les honoraires reçus, l’appelant a soutenu que cette façon de faire, à savoir payer ou recevoir une commission, était une pratique très courante dans les professions dites libérales, notamment dans le cas des avocats. L’appelant, comptable de formation, a affirmé avoir consulté certains fiscalistes pour s’assurer de la conformité du traitement accordé, à savoir que les honoraires constituaient des dépenses courantes pour l’appelant et des revenus d’emploi pour les vendeurs.
+[23] En matière fiscale, le vocabulaire, le contenu d’une entente, l’intention des parties à l’entente, les circonstances, le contexte, les connaissances des parties à l’entente et beaucoup d’autres éléments sont importants et peuvent même être déterminants.
+[24] L’appelant a fait référence à de nombreuses décisions disponibles en matière d’assurabilité où les tribunaux ont souvent indiqué qu’au-delà des mots et de la volonté exprimée par les parties à une entente de travail, il était important que le tribunal saisi d’un tel dossier pousse son analyse plus loin pour vérifier la cohérence et la conformité des faits avec le texte de l’entente.
+[25] Je souscris entièrement à cette approche, ajoutant toutefois que les tribunaux n’ont pas pour autant rejeté du revers de la main ou écarté l’importance du ou des textes et, particulièrement, quand les parties ont des qualités et des connaissances fort pertinentes. En cette matière, l’idéal est évidemment la conformité de tous les faits avec le texte des ententes.
+[26] Bien que l’appelant ne soit pas juriste, sa formation professionnelle ne fait pas de lui pour autant un profane en matière fiscale. Et bien que sa formation ne fasse pas de lui un spécialiste du vocabulaire juridique, l’appelant était cependant en mesure de connaître les conséquences fiscales du ou des choix effectués.
+[27] De façon générale, les vendeurs pouvaient continuer d’effectuer du travail professionnel moyennant un tarif horaire. Il s’agissait là d’une sorte de formule transitoire devant conduire éventuellement à une cessation complète de leurs activités. La rémunération alors reçue n’avait rien à voir avec la commission calculée sur les honoraires facturés aux nouveaux clients et payés par ceux-ci.
+[28] Les ententes marquaient la fin ou la cessation en affaires des comptables qui cédaient leur clientèle à l’appelant. Si le vendeur voulait continuer, il le pouvait moyennant une entente qui n’avait rien à voir avec les contrats visés par l’appel. Il s’agissait là d’ententes ponctuelles où les deux parties y trouvaient leur intérêt.
+[29] Pour l’appelant, ces ententes ponctuelles pouvaient lui permettre d’assurer une meilleure transition des clients et aussi d’atteindre un plus grand pourcentage de rétention des clients transférés de cabinets. Pour les comptables cédants, la formule leur permettait de demeurer actifs tout en ayant moins de responsabilités avant d’arriver progressivement à leur retraite totale.
+[30] Pour souscrire à la thèse de l’appelant, il faudrait occulter de l’analyse tous les écrits, le contexte et les circonstances et prendre en considération un seul élément, soit le pourcentage de commissions où, encore là, il ne faudrait pas tenir compte de la durée des ententes qui, en l’espèce, discrédite l’interprétation de l’appelant.
+[31] La théorie voulant qu’il s’agisse d’une pratique très répandue dont le tribunal reconnait l’existence n’a strictement rien à voir avec la façon de faire de l’appelant. En effet, le paiement d’une commission peut se faire et s’expliquer dans une multitude de situations.
+[32] Je ne crois pas que la formule des commissions retenues puisse constituer en soi un élément déterminant pour déterminer la nature de la dépense en l’espèce. D’ailleurs, la durée, les conditions et le contexte militent beaucoup plus en faveur de la thèse de l’étalement du prix de vente que de la dépense d’exploitation courante comme un salaire.
+[33] À la lumière de la preuve, il appert que la plupart des éléments et faits étayent la position de l’intimée et le bien‑fondé des cotisations. Je retiens notamment :
+· Le contenu non équivoque et très révélateur des actes notariés.
+· L’admission de l’appelant à l’effet qu’il reconnaissait l’interprétation de l’intimée quant à certaines transactions.
+· Le libellé clair et, encore là, non équivoque des ententes sous seing privé préparées par l’appelant qui, bien qu’il n’avait pas une formation d’expert juridique en matière fiscale, était tout de même un comptable agréé dont une partie importante de la mission professionnelle a une connotation fiscale.
+· Le contexte, l’objet, les circonstances, le but et les effets des écrits ciblaient un seul et même résultat : un élargissement durable de la clientèle.
+[34] En l’espèce, l’intention de l’appelant me semble avoir été très clairement identifiée dans les ententes dont il a été l’auteur et une des parties. Certes, il a voulu que les conséquences fiscales soient différentes, ce qui l’a amené à concevoir l’idée de la commission calculée selon une formule de pourcentage pour des périodes dont la durée pouvait varier.
+[35] Il s’agit là essentiellement d’une façon de faire qui ne franchit même pas le seuil de la simple apparence et qui perd même cette piètre qualité lorsque l’on prend en considération la durée des ententes, allant de 2 à 5 ans.
+Dispositions législatives
+[36] L’appelant invoque plusieurs dispositions de la Loi de l’impôt sur le revenu (ci-après la LIR). Ces dispositions sont les articles 3, 4, 9, 13, 14, 18, 20, 52, 53, 54 et 67 et le paragraphe 248(1) de la LIR. L’appelant met de l’emphase sur les paragraphes 22, 23 et 24 de sa Réponse et sur le paragraphe 14(5), l’alinéa 18(1)b) et l’article 54 de la LIR.
+[37] Le paragraphe 14(5) est une définition qui se lit comme suit :
+« dépense en capital admissible » S’agissant d’une dépense en capital admissible d’un contribuable au titre d’une entreprise, la partie de toute dépense de capital engagée ou effectuée par lui, par suite d’une opération réalisée après 1971, en vue de tirer un revenu de l’entreprise, à l’exception d’une dépense de cette nature :
+a) soit relativement à laquelle une somme est ou serait, sans les dispositions de la présente loi limitant le quantum de déductions, déductible (autrement qu’en vertu de l’alinéa 20(1)b)) dans le calcul du revenu qu’il a tiré de l’entreprise ou relativement à laquelle aucune somme n’est déductible, aux termes des dispositions de la présente loi, exception faite de l’alinéa 18(1)b), dans le calcul de ce revenu;
+b) soit engagée ou effectuée en vue de tirer un revenu constituant un revenu exonéré;
+c) soit représentant tout ou partie du coût, selon le cas :
+(i) des biens corporels acquis par le contribuable,
+(ii) des biens incorporels qui constituent des biens amortissables pour le contribuable,
+(iii) des biens relativement auxquels une déduction (sauf celle prévue à l’alinéa 20(1)b)) est permise dans le calcul du revenu qu’il a tiré de l’entreprise ou serait permise si le revenu qu’il a tiré de l’entreprise était suffisant à cet effet,
+(iv) d’un droit sur un bien visé à l’un des sous-alinéas (i) à (iii) ou d’un droit d’acquérir ce bien;
+il est entendu toutefois, sans que soit limitée la portée générale de ce qui précède, que la présente définition ne vise aucune partie :
+d) d’une somme payée ou payable à un créancier du contribuable au titre ou en paiement intégral ou partiel d’une dette, ou au titre du remboursement, de l’annulation ou de l’achat d’une obligation;
+e) lorsque le contribuable est une société, d’une somme payée ou payable à une personne, en sa qualité d’actionnaire de la société;
+f) d’une somme représentant tout ou partie du coût :
+(i) d’un droit relatif à une fiducie,
+(ii) d’une participation dans une société de personnes,
+(iii) d’une action, d’une obligation, d’une créance hypothécaire, d’un billet à ordre, d’une lettre de change ou de tout autre bien semblable,
+(iv) d’un droit sur un bien visé à l’un des sous-alinéas (i) à (iii) ou d’un droit d’acquérir le bien.
+[38] L’appelant a fait référence à la décision Burian[3]. Dans cette décision, le Ministre ne voulait pas accorder les déductions que demandaient les appelants étant donné qu’il considérait qu’elles se rapportaient à une dépense de nature capitale. De plus, l’appelant se base sur le fait que les appelants dans l’affaire Burian sont allés voir un comptable pour que celui-ci puisse établir la valeur de la clientèle – chose qui n’a pas été faite dans le cas en l’espèce.
+[39] Dans Burian, la Cour a conclu que l’achat de la liste de clients appartenant à des experts-comptables constituait une dépense de nature capitale :
+« À mon avis, […] les demandeurs achetaient ou essayaient d’acheter un potentiel future de clientèle ou de travail, […] le but était d’introduire dans l’entreprise existante, un actif ou un avantage additionnel en vue d’un bénéfice durable. L’opération, […] visait à renforcer et à étendre l’entité de l’entreprise des demandeurs, le sujet générateur de bénéfices. Elle a, par conséquent, affecté la structure du capital et, c’est a bon droit que les débours de $20,000 ont été traités comme dépenses de capital »[4].
+[40] L’appelant cite également l’arrêt Gifford[5] de la Cour d’appel fédérale. En première instance, le juge de la Cour canadienne de l’impôt avait conclu que l’achat d’une liste de clients était une dépense courante. La Cour d’appel fédérale a renversé la décision, pour motif que le juge de première instance n’avait pas tenu compte des précédents incontournables.
+[41] Comme critère, pour déterminer si une liste de clients est une dépense courante ou de nature capitale, la Cour d’appel fédérale s’est appuyée sur l’arrêt Johns-Manville Canada[6] qui a élaboré sur la question de savoir si un paiement devait être considéré comme étant une dépense courante ou une dépense en capital.
+[42] Un des passages les plus importants dans l’arrêt Johns-Manville se lit comme suit :
+« À un moment donné, le critère appliqué par les tribunaux pour distinguer entre revenu et capital était le critère dit « une fois pour toutes ». Ce critère a été adopté par le vicomte Cave, lord Chancelier, dans l'arrêt British Insulated and Helsby Cables, Ltd. v. Atherton, [1926] A.C. 205, à la p. 213. Le vicomte Cave fait remarquer que la caractérisation comme revenu ou comme capital est une question de fait, mais il s'est intéressé à la réponse à la question à cause d'une conclusion imprécise des cours d'instance inférieure. Le critère qu'il adopte, à la p. 213, consiste à [TRADUCTION] « affirmer qu'une dépense de capital est une chose qui se produit une fois pour toutes et qu'une dépense d'exploitation est une chose qui se reproduit chaque année », bien qu'il reconnaisse que ce critère n'est pas [TRADUCTION] « décisif dans tous les cas ». Plus loin, aux pp. 213 et 214, le lord Chancelier explicite son idée:
+[TRADUCTION] ... lorsqu'une dépense est faite non seulement une fois pour toutes, mais dans le but de créer un bien ou un avantage qui profite à une entreprise de façon durable, je crois que c'est un motif très valable (en l'absence de circonstances spéciales menant à une conclusion dans le sens opposé) pour considérer une telle dépense comme véritablement imputable non pas au revenu, mais au capital.»[7].
+(Je souligne.)
+[43] En cette matière, l’exercice n’est pas quelque chose d’essentiellement mathématique; il n’existe pas de critère permettant une détermination absolue; il est tout à fait essentiel de prendre en considération l’ensemble des faits.
+[44] Dans Gifford, la Cour d’appel fédérale a fait une analyse jurisprudentielle sur les causes qui ont été entendues relatives au traitement fiscal des listes de clients. Selon la Cour d’appel fédérale, l’autorité en cette matière est la décision Cumberland Investments[8].
+[45] Dans cette affaire, l’appelant avait payé 150 000$ pour une liste de clients, montant qu’il aurait voulu déduire en tant que dépense courante. L’appelant en l’espèce s’est aussi référé à cette cause, mettant l’emphase sur le fait qu’il n’y avait eu qu’un seul paiement.
+[46] Au paragraphe 4 de la décision Cumberland Investments, on peut lire :
+« […] Il y a le fait que cette dépense en est une définitive. L’achat de concurrents ne constituait pas un besoin courant indispensable aux activités de l’appelante, qui consistent à recevoir des demandes et à préparer des polices d’assurance. C’était là cependant le motif de la dépense. Il s’agissait d’une somme forfaitaire payable à un concurrent dans le but de la persuader de céder son commerce et sa clientèle. Ce n’était donc pas une dépense ordinaire propre au domaine de l’assurance, comme, par exemple, les commissions versées aux agents en contrepartie de leurs services et en supposant […] que l’avantage qui devait en résulter profitait au commerce de l’appelante […] il me semble que l’on devait s’attendre non pas à un avantage à court terme mais plutôt à un avantage à long terme. »[9]
+[47] Un peu plus loin, on y ajoute:
+« L’avantage recherché en l’espèce comportait, me semble-t-il, un double aspect; (1), accroître la capacité de revenu de l’appelante en lui ouvrant accès à un certain nombre de nouveaux sous-agents capables de [sic] d’aiguiller vers elle des propositions d’assurance, et (2), éliminer un concurrent. »[10]
+[48] Finalement, la Cour d’appel fédérale a conclu que le montant payé devait être considéré comme étant une dépense en capital. L’appelant en l’espèce a fait valoir que de sérieuses réserves devraient être émises au sujet de la pertinence de cet arrêt étant donné que, dans le dossier de l’appelant en l’espèce, les listes de clients achetées n’avaient pas de valeur prédéterminée.
+[49] L’appelant a aussi soutenu que l’arrêt Shell Canada Ltd,[11] de la Cour Suprême validait sa position quant à l’intention voulue et démontrée des parties.
+[50] L’appelant cible le paragraphe 45 de ce jugement :
+«45 Cependant, il ressort des arrêts plus récents de notre Cour qu'en l'absence d'une disposition expresse contraire, il n'appartient pas aux tribunaux d'empêcher les contribuables de recourir, dans le cadre de leurs opérations, à des stratégies complexes qui respectent les dispositions pertinentes de la Loi, pour le motif que ce serait inéquitable à l'égard des contribuables qui n'ont pas opté pour cette solution. Notre Cour s'est précisément penchée sur cette question dans Duha Printers (Western) Ltd. c. Canada, [1998] 1 R.C.S. 795, au par. 88, le juge Iacobucci. Voir également Neuman c. Ministre du Revenu national, [1998] 1 R.C.S. 770, au par. 63, le juge Iacobucci. Il incombe aux tribunaux d'interpréter et d'appliquer la Loi telle qu'elle a été adoptée par le Parlement. Les remarques incidentes formulées dans des arrêts antérieurs dont on peut dire qu'elles appuient un principe d'interprétation plus large et moins certain ont donc été supplantées par les arrêts que notre Cour a rendus depuis en matière fiscale. Sauf disposition contraire de la Loi, le contribuable a le droit d'être imposé en fonction de ce qu'il a fait, et non de ce qu'il aurait pu faire et encore moins de ce qu'un contribuable moins habile aurait fait.»
+[51] En l’espèce, l’appelant et les vendeurs n’étaient pas des profanes ; peut-être n’étaient-ils pas des experts en fiscalité, mais ils étaient très certainement plus renseignés et mieux informés que le contribuable moyen.
+[52] Il est notoire qu’un comptable, contrairement à d’autres contribuables qui ne touchent jamais au droit fiscal, connaît certains aspects importants du droit fiscal et la pratique de la profession peut difficilement s’effectuer sans un minimum de connaissances en matière fiscale.
+[53] Conséquemment l’argument voulant que l’appelant ne doit pas être pénalisé du fait qu’il n’est pas un expert en fiscalité n’est pas très convainquant, d’autant plus que le traitement fiscal accordé à une opération ou à ses conséquences n’est pas fonction des connaissances du contribuable mais essentiellement des faits pertinents.
+[54] L’appelant soutient que les redevances sont des dépenses uniquement dans le cas où elles sont encaissées. Selon lui, il n’y a pas eu de vente, mais plutôt une entente pour desservir des clients moyennant une commission.
+[55] Pour valider son argument, l’appelant donne comme exemple les références que font les avocats ou autres professionnels dans l’échange de certains clients. Une telle référence n’est ni utile, ni pertinente, puisque la rémunération sous forme de commission peut se retrouver dans une multitude de situations.
+[56] D’ailleurs, l’exemple peut être écarté du seul fait que, dans cette hypothèse, la commission est payable une seule fois et le paiement reçu en échange n’arrive qu’une seule fois ou pour chaque mandat.
+[57] La référence que fait un avocat à un autre ne donne pas nécessairement un avantage durable à l’entreprise de l’avocat tandis que, dans le présent cas, plusieurs paiements ont été effectués pour s’assurer que la clientèle des cabinets « achetées » demeure avec Martin & Cie.
+[58] D’ailleurs, je crois savoir que les avocats hésitent à référer un de leurs clients à un compétiteur ayant une expertise qu’ils n’ont pas, de crainte de perdre le client au profit du compétiteur, créant ainsi un avantage durable et permanent où les mandats subséquents ne sont pas assujettis au paiement d’une commission.
+[59] Dans l’arrêt Johns-Mainville, un critère fondamental a été établi quand il s’agit de déterminer si un déboursé est de nature courante ou capitale. Il s’agit d’apprécier si la dépense procure un avantage durable ou non à l’entreprise concernée.
+[60] En l’espèce l’appelant a indiqué que le taux de rétention de la clientèle acquise pouvait jouer entre 30 et 80 %, dépendamment du genre de dossier. À cet égard, il est évident que l’avantage pouvait être moins intéressant dans certaines situations; par contre, la longévité ou la durée de l’avantage constituait tout de même quelque chose de réel.
+[61] D’ailleurs, le pourcentage de rétention ne m’apparait pas important en autant qu’il existe un certain pourcentage si minime soit-il, d’autant plus que le pourcentage en question s’avérait le principal critère de détermination de la contrepartie. De plus, la responsabilité quant à la fidélité reposait essentiellement sur la capacité de l’appelant de retenir les nouveaux clients obtenus dans le cadre des ententes. Pour ce qui est de la question de la contrepartie, cela ne constitue pas un élément déterminant quant à la nature d’une dépense.
+Conclusion
+[62] Pour résumer, les arguments de l’appelant tournent autour du fait qu’il n’y a pas eu qu’un seul paiement pour la liste de clients, mais plusieurs paiements. Aux termes d’une certaine jurisprudence, il peut y avoir une sorte de présomption que le fait d’avoir plusieurs paiements démontre qu’il s’agit d’une dépense de nature courante, et non de nature capitale.
+[63] À cet argument, l’appelant ajoute et répète, à plusieurs reprises, qu’il n’y avait jamais eu de montant préétabli pour acquérir la liste des clients. Lorsque le cabinet comptable de l’appelant effectuait du travail de comptabilité pour le client de l’autre partie à l’entente et que les honoraires facturés pour ce travail étaient encaissés, la redevance convenue était alors payée.
+[64] Le seul véritable argument soulevé par l’appelant pouvant avoir un certain intérêt est le fait de l’étalement du paiement, c’est à dire les modalités de paiement convenues. De prime abord, cette façon de faire peut constituer un élément justifiant une conclusion à l’effet que la dépense est de nature courante. Toutefois, si l’analyse déborde le seul aspect de la forme, la perception première se transforme et une conclusion différente dégage.
+[65] En conclusion, les arguments de l’appelant qui reposent essentiellement sur la forme doivent être écartés au profit de l’analyse de tous les faits démontrant une nette discordance entre le fond et la forme. Les avantages durables découlant des diverses opérations ont d’ailleurs été réalisées en dehors du cours normal des activités de l’entreprise. Le fait que les paiements se soient étalés sur une période de deux ans et qu’ils aient été non déterminés ne change rien quant à l’objectif ultime qui était sans contredit l’obtention d’un avantage durable.
+[66] L’appelant n’a fait qu’étaler le paiement d’une dépense de nature capitale sur une période de plusieurs mois; il a fait valoir que ce paiement est récurrent et, donc, une dépense courante. Le fait d’étaler le paiement ne changeait rien quant à l’objectif ultime qui était essentiellement d’obtenir un avantage durable.
+[67] En utilisant les déclarations faites par l’appelant au Ministre lors de son opposition à la cotisation, on peut voir que M. Martin considérait les dépenses comme étant de nature capitale (I-1, onglet 5) et que son intention était d’acquérir la clientèle des cabinets « achetée » (I-1, onglet 7). Ces documents démontrent les intentions de l’appelant lorsqu’il les a rédigés et contredisent les arguments qu’il présente à la Cour.
+[68] L’intimée a fait valoir, à raison d’ailleurs, que les opérations à l’origine des cotisations n’étaient pas de nature courante ou à l’intérieur des paramètres habituel de la vocation de l’entreprise. En effet, offrir à la population des services en matière de comptabilité est fort différent que de convenir d’une entente dont l’objet est d’élargir sa clientèle.
+[69] Pour toutes ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 152
+Nº DU DOSSIER DE LA COUR : 2008-2161(IT)I
+INTITULÉ DE LA CAUSE : LOUIS MARTIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 15 janvier 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 24 avril 2009
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Christopher Mostovac
+Avocate de l'intimée :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Christopher Mostovac
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Notes sténographiques, page 20, lignes 17 – 20.
+[2] Notes sténographiques, page 37, ligne 15
+[3] Walter J. Burian c. Sa Majesté la Reine, [1976] A.C.F. no 910 (QL).
+[4] Ibid., par. 21.
+[5] La Reine c. Thomas Gifford,[2002] 4 C.T.C. 64 (C.A.F.).
+[6] Johns-Manville Canada Inc. c. La Reine, [1985] 2 R.C.S. 46.
+[7] Infra, par. 23.
+[8] Cumberland Investments Ltd. c. Canada, [1975] A.C.F. no 511.
+[9] Ibid., par. 4.
+[10] Ibid., par. 19.
+[11] Shell Canada Ltd. v. La Reine, [1999] 4 C.T.C. 313.

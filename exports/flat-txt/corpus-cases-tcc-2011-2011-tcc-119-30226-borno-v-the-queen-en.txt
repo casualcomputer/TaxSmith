@@ -1,0 +1,248 @@
+Title: Borno v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30226/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-119-30226-borno-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-02-23
+
+# Borno v. The Queen
+
+- Citation: 2011 TCC 119
+- Decision date: 2011-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7757, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Borno v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-23
+Neutral citation
+2011 TCC 119
+File numbers
+2009-1759(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1759(IT)I
+BETWEEN:
+JEAN FRANTZ BORNO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on July 6, 2010, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years are dismissed.
+Signed at Ottawa, Canada, this 23rd day of February 2011.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 28th day of March 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 119
+Date: 20110223
+Docket: 2009-1759(IT)I
+BETWEEN:
+JEAN FRANTZ BORNO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] These are appeals under the informal procedure in respect of the 2003, 2004 and 2005 taxation years. In his reassessments made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), dated June 28, 2007, the Minister of National Revenue (the Minister) added to the appellant's income the amounts of $17,596 for the 2003 taxation year, $35,387 for the 2004 taxation year and $39,380 for the 2005 taxation year and imposed a penalty for gross negligence under subsection 163(2) of the Act in the amount of $936.61 for the 2003 taxation year, $3,976.91 for the 2004 taxation year and $6,548.80 for the 2005 taxation year.
+[2] When filing his income tax returns for the taxation years at issue, the appellant reported a net business income of $6,165 for the 2003 taxation year, $2,072 for the 2004 taxation year and $2,975 for the 2005 taxation year.
+[3] On May 20, 2004, the Minister issued a determination stating that no tax was payable for the 2003 taxation year.
+[4] The issues are as follows:
+(a) whether the appellant earned the unreported income described above;
+(b) whether the Minister satisfied his burden of proof with respect to the facts that must be shown to allow him to make a reassessment after the normal reassessment period for the 2003 taxation year; and
+(c) whether the Minister set out conditions that support the imposition of a gross negligence penalty.
+The facts
+[5] The appellant is a taxi driver. He has held a T-11 permit since April 2003, which allows him to operate a business throughout the Montréal island except for the east and west parts of Montréal and the Montréal International Airport. The permit cost him $145,000. The cost of the taxi permit was financed through a $110,000 hypothec issued by the Société Financière Speedo (1993) Ltée. The appellant owned his taxi cab, which was a 1996 Chevrolet Lumina in 2003 and 2004 and a 2000 Honda Accord in 2005.
+[6] The appellant lived in Anjou from 2003 to July 2005. On June 21, 2005, the appellant and his spouse purchased a residence located at 3630 Jacqueline Street in Laval, which cost them $152,000 and was financed through a hypothec of $114,000 on the residence and a new hypothec on the taxi permit for part of the $38,000 difference.
+[7] The appellant's tax file was selected for an audit as part of an audit program for the taxi industry conducted by the Canada Revenue Agency (CRA).
+[8] The evidence showed that the appellant kept no accounting records for the taxation years at issue other than a handful of expense invoices (about 10 in total). The appellant kept no notes, not even on scrap paper. Every quarter, he calculated his sales and expenses from memory and provided that information to his accountant.
+[9] Isabelle St-Amand, the CRA auditor assigned to the appellant's file, applied the projection method, an indirect auditing method. The additional business income added to the appellant's income was calculated based on the discrepancies obtained between the income earned according to the projection method and the business income that was initially reported. Given the lack of adequate records, the auditor then estimated the net worth. The additional income for 2003 determined through the approximate net worth method was higher than the additional income determined through the projection method, but for 2004, it was lower than the additional income determined through the projection method. For 2005, the additional income was more or less the same for both methods. However, the cost of living used to determine the approximate net worth was established by Statistics Canada for a family of five while the appellant had a family of seven including five children 18 and under. The use of the net worth method allegedly resulted in a much higher additional income than that determined through the projection method. According to the auditor, the total income reported by the appellant and his spouse was clearly insufficient to cover the cost of living expenses for a family of seven.
+[10] The auditor indicated that she did not analyze any of the appellant's bank deposits because he had no business or personal bank records.
+[11] For the 2003, 2004 and 2005 taxation years, the Minister estimated that the appellant travelled a total of 55,783 km, 79,233 km and 85,394 km respectively based on the taxi's maintenance records obtained from the Société de l'assurance automobile du Québec. The Minister also took into account the following data to establish the appellant's unreported income:
+The table is on the next page.
+2003
+2004
+2005
+Total mileage
+55,783 km
+79,233 km
+85,394 km
+Personal travel percentage
+35%
+35%
+35%
+Business mileage
+36,259 km
+51,501 km
+55,394 km
+Percentage without clients
+45%
+45%
+45%
+Mileage with clients
+16,317 km
+23,175 km
+24,927 km
+Average rate per km
+$1.20
+$1.30
+$1.30
+Average distance per trip
+5 km
+5 km
+5 km
+Number of trips per year
+3,263
+4,635
+4,985
+Starting rate
+$2.50
+$2.75
+$2.75
+Base income for trips
+$8,158
+$12,747
+$13,710
+Income for mileage travelled with clients
+$19,580
+$30,128
+$32,405
+Tips (8%)
+$2,219
+$3,430
+$3,689
+Total income
+$29,957
+$46,305
+$49,805
+Gross income reported by appellant
+$13,592
+$12,521
+$11,784
+Disallowed expenses
+$1,231
+$1,603
+$1,359
+Unreported income
+$17,596
+$35,387
+$39,380
+[12] The Minister also disallowed the deduction of part of the expenses claimed by the appellant because his personal use of the vehicle was 35% rather than 10% as reported in his tax returns:
+2003
+2004
+2005
+Total motor vehicle expenses
+Business-related
+Claimed vehicle expenses
+Business-related (adjusted)
+Revised vehicle expenses
+4,924
+90%
+4,431
+65%
+3,200
+6,411
+90%
+5,770
+65%
+4,167
+5,435
+90%
+4,892
+65%
+3,533
+Difference
+1,231
+1,603
+1,359
+The appellant's position
+[13] The appellant completely disagrees with the reassessments and asks that they be entirely vacated, including the disallowed expenses and penalties. In his Notice of Appeal, the appellant stated the following points as reasons for his disagreement:
+– determining personal travel, such as driving to and from work, and travel for family reasons, such as taking children to school and his spouse to work and going to church on Sunday and to buy groceries;
+– mileage without a client;
+– method of determining the starting rate; and
+– rate of tips received.
+Analysis
+Arbitrary assessments and assessments outside the normal reassessment period
+[14] As the Federal Court of Appeal pointed out in Hsu v. Canada, 2001 FCA 240, paragraph 22, the Minister may make arbitrary assessments using any method appropriate in the circumstances:
+Subsection 152(7) of the Act empowers the Minister to issue "arbitrary" assessments using any method that is appropriate in the circumstances. . . .
+Subsection 152(8) grants a presumption of validity to these assessments and places the initial onus upon the taxpayer to disprove the state of affairs assumed by the Minister . . . . Notwithstanding the fact that such an assessment is "arbitrary", the Minister is obliged to disclose the precise basis upon which it has been formulated . . . . Otherwise, the taxpayer would be unable to discharge his or her initial onus of demolishing the "exact assumptions made by the Minister but no more" . . . .
+[15] The words "normal reassessment period" are defined as follows in subsection 152(3.1) of the Act:
+152(3.1) Definition of "normal reassessment period" – For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) if at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends four years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+[16] Subparagraph 152(4)(a)(i) of the Act stipulates that the following circumstances would allow the Minister to make a reassessment outside of the normal reassessment period:
+152(4) Assessment and reassessment [limitation period] – The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[17] With respect to the Minister's burden of proof for making a reassessment outside of the normal reassessment period, Justice Strayer stated the following in the second paragraph of his conclusions in Venne v. Canada, [1984] F.C.J. No. 314 (F.C.T.D.):
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under sub-paragraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words "misrepresentation that is attributable to neglects" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. . . .
+[18] Justice Pelletier of the Federal Court of Appeal indicated the following in Lacroix v. Canada, 2008 FCA 241, at paragraph 32:
+. . . Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3) [sic].
+[19] In addition, Justice Pelletier supported his reasoning by referring to the following statements of Justice Létourneau of the Federal Court of Appeal in Molenaar v. Canada, 2004 FCA 349, at paragraph 4:
+Once the Ministère establishes on the basis of reliable information that there is a discrepancy, and a substantial one in the case at bar, between a taxpayer's assets and his expenses, and that discrepancy continues to be unexplained and inexplicable, the Ministère has discharged its burden of proof. It is then for the taxpayer to identify the source of his income and show that it is not taxable.
+Penalties
+[20] Subsection 163(2) of the Act allows the Minister to penalize a taxpayer who, knowingly or under circumstances amounting to gross negligence, makes a false statement or omission in a return. Subsection 163(2) of the Act reads as follows:
+163(2) False statements or omissions – Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . .
+[21] However, subsection 163(3) of the Act imposes on the Minister the burden of proving that the circumstances justifying a penalty for gross negligence are present. Subsection 163(3) reads as follows:
+(3) Burden of proof in respect of penalties – Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[22] In Venne, supra, Justice Strayer specified the intended meaning of "gross negligence":
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[23] In Lacroix, supra, the Federal Court of Appeal found that the taxpayer, knowingly or under circumstance amounting to gross negligence, filed a false tax return because he was unable to provide a credible explanation as to the source of his unreported income:
+29. . . . The taxpayer provided an explanation that neither the Minister nor the Tax Court of Canada found to be credible. Accordingly, there is no viable and reasonable hypothesis that could lead the decision-maker to give the taxpayer the benefit of the doubt. The only hypothesis offered was deemed not to be credible.
+30. The facts in evidence in this case are such that the taxpayer’s tax return made a misrepresentation of facts, and the only explanation offered by the taxpayer was found not to be credible. Clearly, there must be some other explanation for this income. It must therefore be concluded that the taxpayer had an unreported source of income, was aware of this source and refused to disclose it, since the explanations he gave were found not to be credible. In my view, given such circumstances, one must come to the inevitable conclusion that the false tax return was filed knowingly, or under circumstances amounting to gross negligence. This justifies not only a penalty, but also a reassessment beyond the statutory period.
+Conclusion
+[24] Based on the facts in evidence in this case, the appellant made false statements or omissions in his 2003, 2004 and 2005 tax returns and the appellant's explanations are not considered credible or corroborated. In such circumstances, the finding is that the false statements in a return were made knowingly or under circumstances amounting to gross negligence. That justifies not only the imposition of a penalty but also making a reassessment for the 2003 taxation year outside the normal reassessment period.
+[25] The Minister has discharged his burden of proof. He showed that there were significant discrepancies between the gross business income reported by the appellant and the net business income determined through the projection method. The data used by the Minister concerning the mileage travelled by the appellant each year at issue come directly from odometer readings, which are done every six months for regulatory reasons. The other data used by the Minister come from regulations applicable to the taxi industry or from statistics established by the Commission des transports du Québec following a public inquiry, the purpose of which was to set the rates applicable to the Montréal island and elsewhere in Quebec. Those statistics were accepted by various associations that participated in public debates on behalf of taxi drivers on the Montréal island (see paragraph 15 of Justice Hogan's decision in Maurice Mompérousse v. The Queen, 2010 TCC 172).
+[26] The appellant does not acknowledge the validity of the Minister's calculation method and of the assumptions used but offers no viable replacement method. The appellant did not keep adequate books and accounting records, which would allow him to specify the number of paid trips he made and the resulting income. The appellant has not discharged the burden of proof required.
+[27] In her audit report, the auditor stated that, according to the statistical data of the Montréal Bureau du taxi and the Commission des transports du Québec, gross business income from operating a taxi permit was about $58,680 per year while the appellant reported only a gross business income of about $12,500 per year. At that level of income, the Court very much doubts that the taxi permit could have been valued at around $150,000 in April 2003, based on the data of the Montréal Bureau du taxi.
+[28] The net worth estimate prepared by the auditor shows that the total income earned by the appellant and his spouse was clearly insufficient to cover the cost of living expenses of a family of seven. The appellant did not offer any credible explanations for the discrepancy between the cost of living for his family and the modest net income reported.
+[29] The penalty imposed under subsection 163(2) of the Act for the 2003, 2004 and 2005 taxation years is justified given that the amount of unreported income was very significant, namely, 74% of the net business income for the 2003 taxation year, 94% for the 2004 taxation year and 93% for the 2005 taxation year and given that the appellant kept no accounting records and provided approximations of his income and expenses in his tax returns.
+[30] For those reasons, the appeals from the reassessments are dismissed.
+Signed at Ottawa, Canada, this 23rd day of February 2011.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 28th day of March 2011
+Margarita Gorbounova, Translator
+CITATION: 2011 TCC 119
+COURT FILE NO.: 2009-1759(IT)I
+STYLE OF CAUSE: Jean Frantz Borno v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 6, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 23, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,187 @@
+---
+title: "Luschtinetz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127099/index.do"
+last_modified: "2015-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 320"
+citation2: ""
+neutral_citation: "2015 CCI 320"
+decision_date: "2015-12-10"
+language: "fr"
+item_id: "127099"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2870
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:14:15.084000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4fa5d061c84274be7144f7ae8a26c872456996ed98c331e2f53e530c3cf98fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Luschtinetz c. La Reine
+
+- Citation: 2015 CCI 320
+- Decision date: 2015-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2870, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Luschtinetz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-10
+Référence neutre
+2015 CCI 320
+Numéro de dossier
+2015-730(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-730(IT)I
+ENTRE :
+RICK LUSCHTINETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 septembre 2015, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Kristian DeJong
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation datée du 24 octobre 2013 pour l’année d’imposition 2012 et à l’encontre de la cotisation datée du 10 juillet 2014 pour l’année d’imposition 2013, toutes deux établies en vertu de la Loi de l’impôt sur le revenu, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2015.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 15e jour de janvier 2016.
+Johanne Matte
+Référence : 2015 CCI 320
+Date : 20151210
+Dossier : 2015-730(IT)I
+ENTRE :
+RICK LUSCHTINETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté selon la procédure informelle à l’encontre d’une nouvelle cotisation datée du 24 octobre 2013 pour l’année d’imposition 2012 et d’une cotisation datée du 10 juillet 2014 pour l’année d’imposition 2013, toutes deux établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), telle que modifiée (la « Loi »).
+[2] Au moyen de la nouvelle cotisation datée du 24 octobre 2013, le ministre a refusé les montants suivants demandés par l’appelant dans le calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2012 :
+- 10 822 $ pour une personne à charge admissible (le « montant pour personne à charge admissible pour 2012 »);
+- 6 382 $ pour des enfants nés en 1995 ou après (le « montant pour enfants pour 2012 »);
+- 11 948 $ pour le montant pour personnes handicapées transféré d’une personne à charge (le « montant pour personnes handicapées pour 2012 »).
+[3] Au moyen de la cotisation établie le 10 juillet 2014, le ministre a refusé les montants suivants demandés par l’appelant par l’appelant dans le calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2013 :
+- 11 038 $ pour une personne à charge admissible (le « montant pour personne à charge admissible pour 2013 »);
+- 2 234 $ pour des enfants nés en 1996 ou après (le « montant pour enfants pour 2013 »);
+- 12 187 $ pour le montant pour personnes handicapées transféré d’une personne à charge (le « montant pour personnes handicapées pour 2013 »).
+[4] Lorsqu’il a établi l’impôt à payer par l’appelant pour les années d’imposition 2012 et 2013, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) les faits énoncés et reconnus ci-dessus;
+b) Mme Janet Luschtinetz était l’ex-épouse de l’appelant (l’« ex-épouse »);
+c) l’appelant et son ex-épouse se sont séparés en 2011;
+d) l’appelant et son ex-épouse vivaient séparément durant les années d’imposition 2012 et 2013;
+e) l’appelant et son ex-épouse ont deux enfants, J. L. né en 2002 et T. L. né en 2004 (les « enfants »);
+f) T. L. avait droit au crédit d’impôt pour personnes handicapées (CIPH) depuis 2004;
+Crédits d’impôt non remboursables
+g) Lorsque l’appelant a produit sa déclaration T1 pour l’année d’imposition 2012, il a demandé ce qui suit :
+i) le montant pour personne à charge admissible pour 2012 en tant que crédit d’impôt non remboursable pour un des enfants;
+ii) le montant pour enfants 2012 en tant que crédit d’impôt non remboursable pour les deux enfants, pour un total de 6 382 $;
+iii) le montant pour personnes handicapées pour 2012 transféré d’une personne à charge en tant que crédit d’impôt non remboursable pour T. L.;
+h) Lorsque l’appelant a produit sa déclaration T1 pour l’année d’imposition 2013, il a demandé ce qui suit :
+i) le montant pour personne à charge admissible pour 2013 en tant que crédit d’impôt non remboursable pour T.L.;
+ii) le montant pour enfants pour 2013 en tant que crédit d’impôt non remboursable pour un des enfants;
+iii) le montant pour personnes handicapées pour 2013 transféré d’une personne à charge en tant que crédit d’impôt non remboursable pour T. L.;
+Ordonnance du tribunal
+i) la Cour suprême de la Colombie-Britannique a rendu une ordonnance le 7 juin 2012 (l’« ordonnance »);
+j) l’ordonnance enjoignait à l’appelant de verser une pension alimentaire pour enfants 1 092 $ par mois à l’ex-épouse, à partir du 1er février 2012;
+k) L’ordonnance enjoignait à l’appelant de payer à son ex-épouse une pension alimentaire pour époux de 900 $, à partir du 1er février 2012.
+Pension alimentaire payée
+l) durant les années d’imposition 2012 et 2013, l’appelant a payé à son ex-épouse un montant minimum de 1 092 $ par mois à titre de pension alimentaire pour enfants;
+m) l’appelant a demandé des déductions pour pension alimentaire pour un total de 20 232 $ et de 24 822 $ pour les années d’imposition 2012 et 2013 respectivement;
+Autres faits pertinents
+n) la Cour suprême de la Colombie-Britannique a rendu une ordonnance datée du 16 novembre 2011, prévoyant que l’appelant et son ex-épouse auraient la garde conjointe des enfants.
+[5] L’appelant a reconnu toutes les hypothèses de fait sur lesquelles le ministre s’est fondé. La seule question en litige consiste à déterminer si le ministre a refusé à juste titre les montants demandés par l’appelant.
+[6] Le ministre a refusé le montant pour personne à charge admissible pour 2012, le montant pour personne à charge admissible pour 2013, le montant pour enfants pour 2012 et le montant pour enfants pour 2013 en vertu du paragraphe 118(5) de la Loi, car l’appelant payait une pension alimentaire pour les enfants pour les années d’imposition 2012 et 2013.
+[7] Le ministre a refusé le montant pour personnes handicapées pour 2012 et le montant pour personnes handicapées pour 2013 en vertu du paragraphe 118(5) de la Loi, car l’appelant payait une pension alimentaire pour enfants pour T. L. en 2012 et en 2013.
+[8] L’alinéa 118(1)b) permet à un contribuable, qui ne demande pas le montant pour époux ou conjoint de fait en vertu de l’alinéa 118(1)a), de demander un crédit d’impôt non remboursable pour une personne à charge admissible si certaines conditions sont respectées. Ce crédit s’appelle également le « crédit pour personne à charge admissible ».
+[9] L’alinéa 118(1)b.1) de la Loi permet à un contribuable de demander un crédit d’impôt non remboursable pour chaque enfant de moins de 18 ans. Ce crédit est également appelé le « crédit d’impôt pour enfant ». Il peut être demandé par l’un ou l’autre des parents lorsque l’enfant vit avec ses deux parents durant l’année. Lorsque l’enfant ne vit pas avec ses deux parents, le crédit peut être demandé par le parent qui a le droit de demander le crédit pour personne à charge admissible ou qui pourrait le demander si l’enfant était son seul enfant.
+[10] Le paragraphe 118.3(2) de la Loi prévoit le transfert à un contribuable du crédit d’impôt pour personnes handicapées. Ce crédit peut être transféré d’une personne à l’égard de qui le contribuable a demandé le crédit d’impôt pour personne à charge admissible en vertu de l’alinéa 118(1)b), le crédit d’impôt pour aidants naturels en vertu de l’alinéa 118(1)c.1), ou le crédit d’impôt pour personne à charge en raison d’une infirmité en vertu de l’alinéa 118(1)d).
+[11] Pour les années d’imposition 1997 et suivantes, le paragraphe 118(5) de la Loi prévoit qu’un contribuable ne peut demander un crédit pour époux, conjoint de fait ou enfant en vertu du paragraphe 118(1) s’il est tenu de payer une pension alimentaire, telle que définie au paragraphe 56.1(4), à l’époux, au conjoint de fait ou à l’enfant et que le contribuable, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction des paiements au titre de la pension alimentaire.
+[12] Le paragraphe 118(5) est rédigé ainsi :
+Pension alimentaire – Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son conjoint ou ancien conjoint pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour une cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son conjoint ou ancien conjoint.
+[13] La définition du terme « pension alimentaire » est prévue au paragraphe 56.1(4) et est rédigée comme suit :
+« pension alimentaire » – « pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[14] Cela signifie qu’un contribuable qui vit séparé de son époux, de son conjoint de fait, de son ex-époux ou de son ancien conjoint de fait et qui est tenu de payer une pension alimentaire pour une personne à charge n’a pas le droit de demander un crédit personnel pour cette personne à charge en vertu du paragraphe 118(1), même s’il ne paye pas de pension alimentaire pour la personne à charge ou même s’il en paye, mais qu’il ne la déduit pas.
+[15] En vertu de l’ordonnance de la Cour suprême de la Colombie-Britannique rendue le 7 juin 2012, l’appelant a été tenu de payer les montants suivants à son ex‑épouse :
+- 1 092 $ par mois à titre de pension alimentaire pour les enfants issus du mariage, à compter du 1er février 2012;
+- 900 $ par mois à titre de pension alimentaire pour époux, à compter du 1er février 2012.
+[16] L’appelant a par la suite été tenu de payer des montants de pension alimentaire, au sens du paragraphe 56.1(4) de la Loi et, en conséquence de l’application du paragraphe 118(5), il n’avait pas droit aux crédits d’impôt en ce qui concerne le montant pour personne à charge admissible pour 2012, le montant pour personne à charge admissible pour 2013, le montant pour enfants pour 2012 et le montant pour enfants pour 2013.
+[17] L’appelant n’avait pas droit aux crédits d’impôt en ce qui a trait au montant pour personnes handicapées pour 2012 et au montant pour personnes handicapées pour 2013, transféré de T. L., car l’appelant n’avait pas droit au crédit pour personne à charge admissible en vertu de l’alinéa 118(1)b) en ce qui a trait à T. L.
+[18] Pour les motifs qui précèdent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2015.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 15e jour de janvier 2016.
+Johanne Matte
+RÉFÉRENCE :
+2015 CCI 320
+Nº DU DOSSIER DE LA COUR :
+2015-730(IT)I
+INTITULÉ :
+Rick Luschtinetz et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 3 septembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 10 décembre 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

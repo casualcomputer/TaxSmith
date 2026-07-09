@@ -1,0 +1,211 @@
+---
+title: "Del Vecchio c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521077/index.do"
+last_modified: "2023-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 46"
+citation2: ""
+neutral_citation: "2023 CCI 46"
+decision_date: "2023-04-13"
+language: "fr"
+item_id: "521077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5865
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:47:45.614000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d7b6fe6420d9a3946afb38bdba1ce81c628b688a2aa5e54ea93f3da1db6c6cfe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Del Vecchio c. Le Roi
+
+- Citation: 2023 CCI 46
+- Decision date: 2023-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5865, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Del Vecchio c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-04-13
+Référence neutre
+2023 CCI 46
+Numéro de dossier
+2021-2438(IT)I
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-2438(IT)I
+ENTRE :
+ANN SOPHIE DEL VECCHIO,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec l’appel de Stéphane Gaudet, 2021-2439(IT)I, le 6 mars 2023, à Montréal (Québec)
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Représentant de l’appelante :
+Francis Del Vecchio
+Avocate de l’intimé :
+Me Alice Zhao Jiang
+JUGEMENT
+Pour les motifs ci-joints, l’appel à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2019 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2023.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+Dossier : 2021-2439(IT)I
+ENTRE :
+STÉPHANE GAUDET,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec l’appel de Ann Sophie Del Vecchio, 2021-2438(IT)I, le 6 mars 2023, à Montréal (Québec)
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Représentant de l’appelant :
+Francis Del Vecchio
+Avocate de l’intimé :
+Me Alice Zhao Jiang
+JUGEMENT
+Pour les motifs ci-joints, l’appel à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2019 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2023.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+Référence : 2023 CCI 46
+Date : 20230413
+Dossiers : 2021-2438(IT)I
+2021-2439(IT)I
+ENTRE :
+ANN SOPHIE DEL VECCHIO,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+ENTRE :
+STÉPHANE GAUDET,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+La juge St-Hilaire
+I. Question en litige
+[1] La question dont est saisie la Cour dans cette affaire est celle de savoir si les appelants ont droit à la déduction pour frais de déménagement. Plus précisément, il faut déterminer si le déménagement des appelants de leur ancienne résidence à L’Assomption à leur nouvelle résidence à Montréal est visé par la définition de « réinstallation admissible ».
+II. Introduction
+[2] Les appelants, Stéphane Gaudet et Ann Sophie Del Vecchio, en appellent des nouvelles cotisations établies par la ministre du Revenu national (Ministre) en vertu de la Loi de l’impôt sur le revenu, LRC (1985), c 1 (5e supp) (Loi) pour l’année d’imposition 2019. Les appels ont été entendus sur preuve commune.
+[3] Par ces nouvelles cotisations, la Ministre a refusé la déduction pour frais de déménagement réclamée par M. Gaudet et Mme Del Vecchio pour des montants de 36 856 $ et 17 023 $ respectivement.
+[4] Les frais engagés pour le déménagement de l’ancienne résidence au 22, boulevard de L’Ange-Gardien à L’Assomption à la nouvelle résidence au 845, avenue Dunlop à Outremont, un arrondissement de la ville de Montréal, font l’objet de ce litige. Les appelants contestent la décision de la Ministre de leur refuser la déduction pour frais de déménagement.
+III. Contexte
+[5] M. Gaudet a commencé à travailler comme avocat chez Loranger Marcoux à Montréal en 1998. En 1998, il a déménagé dans la région de Sainte-Thérèse et plus tard à Repentigny où il a résidé avec son ex-conjointe et leurs trois enfants, nés en 1999, 2000 et 2001, jusqu’en 2012. M. Gaudet a expliqué que sa conjointe travaillait comme notaire dans un bureau à Repentigny et qu’ensemble, ils avaient décidé de s’installer à Sainte-Thérèse afin d’être près de son cabinet ainsi que près d’une gare facilitant l’accès au centre-ville de Montréal pour lui. Après une période d’environ dix-huit mois, M. Gaudet et son ex-conjointe ont décidé de s’installer à Repentigny plus près du bureau de Mme où ils ont acheté un terrain et fait construire une maison. M. Gaudet faisait le trajet quotidien pour se rendre chez Loranger Marcoux à Montréal.
+[6] Vers la fin 2012, M. Gaudet et son ex-conjointe se sont séparés et vers 2013, il a acheté une maison à L’Assomption, résidence qu’il a occupée jusqu’en 2019. En résidant à L’Assomption, il demeurait près de Repentigny ce qui lui a permis de s’occuper de ses obligations familiales et de limiter les répercussions de la rupture de l’unité familiale sur les enfants.
+[7] Mme Del Vecchio a commencé à travailler chez Loranger Marcoux à titre d’avocate salariée vers la fin 2006, début 2007, et elle est devenue associée en 2015. Elle a habité sur la rue de Saint-Just et ensuite sur la rue Dickson à Montréal de 2006 à 2014. Mme Del Vecchio a commencé à fréquenter M. Gaudet en 2013 et elle a déménagé à L’Assomption pour y résider avec lui vers 2013-2014. Ils ont eu un enfant en décembre 2016. Mme Del Vecchio a témoigné qu’elle a tenté de travailler à distance, c’est-à-dire, travailler comme associée chez Loranger Marcoux à partir de sa résidence à L’Assomption en 2015 et 2016, mais elle a conclu qu’il était nécessaire qu’elle se présente physiquement au bureau étant donné le genre de travail qu’elle était appelée à faire. Elle affirme que M. Gaudet et elle n’ont pas déménagé à Montréal à ce moment-là afin de faciliter les choses pour lui et ses trois enfants.
+[8] En décembre 2019, et après que le troisième des enfants de M. Gaudet ait terminé l’école secondaire, les appelants ont décidé de déménager de L’Assomption à Montréal pour épargner le temps consacré à faire la navette de leur résidence au bureau de Loranger Marcoux. Comme mentionné plus haut, ce sont les frais relatifs à ce déménagement qui font l’objet de ce litige.
+IV. Droit et analyse
+Dispositions législatives applicables
+[9] L’article 62 de la Loi prévoit les conditions à remplir pour avoir droit à la déduction pour frais de déménagement, soit les frais engagés relativement à une « réinstallation admissible ». De façon générale, un contribuable aura droit à la déduction de ses frais de déménagement lorsqu’ils sont engagés pour exploiter une entreprise ou occuper un emploi à un nouveau lieu de travail et qu’il se rapproche de son nouveau lieu de travail d’au moins 40 kilomètres. Le montant déductible ne peut dépasser le revenu tiré de l’emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail.
+[10] À la lecture de l’article 62, on peut constater plus d’une référence aux expressions « réinstallation admissible » et « nouveau lieu de travail », expressions au cœur de ce litige.
+[11] La partie pertinente de l’article 62 se lit comme suit :
+62 (1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n’ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n’étaient pas déductibles par l’effet du présent article dans le calcul de son revenu pour l’année d’imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de réinstallation admissible au paragraphe 248(1), le total des sommes représentant chacune une somme incluse dans le calcul du revenu du contribuable pour l’année tiré de son emploi au nouveau lieu de travail ou de l’exploitation de l’entreprise au nouveau lieu de travail ou une somme incluse dans le calcul de son revenu pour l’année par l’effet du sous-alinéa 56(1)r)(v) relativement à son emploi au nouveau lieu de travail,
+[…]
+d) les remboursements et allocations qu’il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+[Je souligne]
+[12] La définition de « réinstallation admissible » au paragraphe 248(1) de la Loi prévoit, en partie, ce qui suit :
+Réinstallation admissible Réinstallation d’un contribuable relativement à laquelle les faits ci-après s’avèrent :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et dans la présente définition), sauf si le contribuable est absent du Canada, mais y réside,
+[…]
+b) avant la réinstallation, le contribuable habitait ordinairement dans une résidence (appelée « ancienne résidence » à l’article 62 et dans la présente définition) et après la réinstallation, il habitait ordinairement dans une résidence (appelée « nouvelle résidence » à l’article 62 et dans la présente définition);
+c) sauf si le contribuable est absent du Canada, mais y réside, l’ancienne résidence et la nouvelle résidence sont toutes deux situées au Canada;
+d) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[Je souligne]
+[13] Je note que la définition de « réinstallation admissible » contient elle aussi des références à l’expression « nouveau lieu de travail ».
+[14] Je m’empresse de préciser que bon nombre des conditions prévues dans les dispositions législatives applicables ne font pas l’objet de débat dans cette affaire. Il n’est pas contesté que les appelants avaient une ancienne résidence (à L’Assomption) et une nouvelle résidence (à Montréal) ni que le critère de 40 kilomètres est rempli. Quant au critère limitant les frais déductibles au revenu gagné, il convient de mentionner que les appelants sont assujettis au plafond prévu au sous-alinéa 62(1)c)(i) de la Loi. Il importe de préciser qu’après avoir débattu la question, les appelants ont convenu que si la Cour concluait qu’il y avait une réinstallation admissible en l’espèce, le montant des frais de déménagement déductible serait limité au montant du revenu d’entreprise gagné par M. Gaudet et Mme Del Vecchio, soit 15 186 $ et 10 000 $ respectivement, l’excédent pouvant être reporté à l’année suivante. Les appelants reconnaissent que les frais de déménagement ne sont pas déductibles contre leur revenu de dividendes.
+Position des appelants
+[15] Les appelants soutiennent qu’ils ont déménagé de L’Assomption à Montréal pour des raisons professionnelles et qu’ils remplissent les conditions législatives. Ils affirment que la Loi ne prévoit pas de délai à l’intérieur duquel le contribuable doit déménager pour avoir droit à la déduction. Qui plus est, ils soutiennent que le « nouveau lieu de travail » n’a pas nécessairement besoin d’être « nouveau ».
+[16] Selon les appelants, si la Cour devait conclure qu’il faut avoir un « nouveau » lieu de travail, ils affirment en avoir eu un. La position mise de l’avant par leur représentant peut se résumer comme suit : M. Gaudet avait un nouveau lieu de travail chez Loranger Marcoux en 1998; il a déménagé à Sainte-Thérèse pour s’installer avec sa conjointe de l’époque et il a déménagé à Repentigny avec elle vers 1999; vers 2013, après sa séparation, il a déménagé à L’Assomption; et finalement, il a déménagé à Montréal afin de se rapprocher du cabinet Loranger Marcoux en 2019, deux décennies plus tard. Des raisons personnelles l’ont empêché de déménager plus vite, et puisqu’il n’y a pas de critère de délai dans la Loi, il a droit à la déduction pour frais de déménagement. Quant à Mme Del Vecchio, son représentant affirme que les mêmes principes s’appliquent; il précise que le délai fut moins long que celui dans le cas de M. Gaudet, mais que les mêmes raisons personnelles l’ont empêchée de redéménager à Montréal plus vite.
+Position de l’intimé
+[17] D’emblée, je tiens à mentionner que l’avocate de l’intimé a fait des représentations concernant le déménagement du cabinet Loranger Marcoux en fin 2014, début 2015. Il s’agit d’un déplacement de 850 mètres et je suis d’accord qu’il s’agit d’un changement négligeable qui n’affecte pas les principes applicables aux faits en l’espèce. Je note que le représentant des appelants a affirmé que ce déménagement du cabinet n’affectait pas ses observations et il a affirmé qu’il n’en tenait pas compte (voir Transcription de l’audience à la p 113).
+[18] L’intimé soutient que pour avoir droit à la déduction pour frais de déménagement, il est essentiel qu’il y ait un « nouveau lieu de travail » et que celui-ci doit être géographiquement différent. L’intimé a affirmé que l’historique législatif démontre que le législateur n’a jamais retiré l’exigence d’un nouveau lieu de travail de la Loi. Dans les circonstances, les appelants n’ont pas de « nouveau lieu de travail » lié à la cause de leur déménagement et n’ont donc pas droit à la déduction réclamée.
+[19] De façon subsidiaire, l’intimé a soutenu que si la Cour devait conclure que le nouveau lieu de travail n’a pas à être géographiquement différent, il faut tout de même qu’il y ait eu des changements dans les conditions de travail du contribuable, changement ayant causé le déménagement. L’avocate de l’intimé a rappelé qu’au moment du déménagement en 2019, Mme Del Vecchio était associée depuis 2015 et M. Gaudet était associé depuis encore plus longtemps.
+Analyse
+[20] J’aimerais d’abord examiner brièvement l’évolution historique de la disposition autorisant la déduction pour frais de déménagement. De prime abord, je tiens à préciser que la déduction pour frais de déménagement vise à faciliter la mobilité des Canadiens. Lors de son exposé budgétaire en 1971 (Chambre des communes, Exposé budgétaire, 28-3, (18 juin 1971) à la p 6 (Hon Edgar John Benson)), le ministre des Finances, l’honorable E.J. Benson, s’exprimait comme suit :
+De larges déductions seront accordées pour les frais occasionnés par un changement d’emploi. On tiendra compte des frais de déplacement de la famille et des objets personnels, des repas et du logement en cours de déménagement, ainsi que des frais de résiliation des baux ou de vente des maisons. L’évolution de notre population active et de notre économie exigent (sic) des Canadiens une plus grande mobilité s’ils veulent pouvoir accepter les offres d’emploi lorsqu’elles se présentent, et c’est l’objectif de cette mesure.
+[Je souligne]
+[21] Plus récemment, dans son Rapport sur les dépenses fiscales fédérales publié en 2019 (Finances Canada, Rapport sur les dépenses fiscales fédérales : Concepts, estimations et évaluations 2019, 11 avril 2019 aux pp 329-330), le ministère des Finances s’exprimait comme suit :
+La déduction pour frais de déménagement (DFD) offre un allègement fiscal aux contribuables dont les frais de réinstallation admissibles ne sont pas autrement remboursés. La déduction a pour but de tenir compte des coûts nécessaires pour générer des revenus et d’encourager la mobilité et la main-d’œuvre au Canada.
+[…]
+Comme il est expliqué dans le présent rapport, la déduction pour les frais de déménagement a un double objectif : « Cette mesure reconnaît les dépenses engagées afin de déménager plus près d’un nouveau lieu de travail, ce qui facilite la mobilité des travailleurs en permettant une plus grande souplesse aux contribuables dans le but de profiter de nouvelles possibilités d’emploi et d’affaires partout au Canada. […] En reconnaissant et en compensant partiellement ces dépenses, la dépense fiscale favorise la neutralité entre la décision de gagner un revenu dans l’emplacement actuel ou dans un nouvel emplacement.
+[Je souligne]
+[22] Entre ces énoncés de 1971 et 2019, l’article 62 fut modifié à quelques reprises. Par exemple, dans le plan budgétaire de 1998, le ministre des Finances a ajouté des éléments aux frais déductibles tout en rappelant que le régime fiscal applicable aux frais de déménagement visait à améliorer la mobilité de la main-d’œuvre au Canada (Chambre des communes, Le plan budgétaire de 1998, 36-1, (24 février 1998) aux pp 223-225 (Hon Paul Martin)). Aussi, dans les documents budgétaires de 1984 (Chambre des communes, Documents budgétaires, 31-2, (15 février 1984) à la p 22 (Hon Marc Lalonde)), le ministre des Finances écrit ce qui suit concernant les frais de déménagement :
+La Loi de l’impôt sur le revenu autorise actuellement une déduction au titre des frais de déménagement lorsqu’une personne qui cesse d’être employée doit déménager de localité au Canada pour accepter un autre emploi. Le budget propose que cette déduction soit accessible aux personnes qui étaient sans emploi et déménagent après 1983 pour prendre un emploi ou lancer une entreprise.
+[23] Dans le premier cas explicité au paragraphe précédent, le législateur a modifié la Loi afin d’élargir la catégorie des frais pouvant faire l’objet de la déduction et dans le second, il l’a modifiée afin de retirer l’exigence selon laquelle le contribuable devait cesser d’être employé et accepter un nouvel emploi pour être admissible à la déduction rendant ainsi la déduction accessible aux personnes sans emploi avant le déménagement. Dans les deux cas, le législateur n’a pas modifié la Loi pour retirer l’exigence selon laquelle le contribuable doit déménager pour un nouvel emploi ou une nouvelle activité d’entreprise. D’autres modifications législatives faites en 2009 et en 2012 touchent à des éléments concernant la résidence au Canada et le revenu pouvant être pris en considération aux fins de la déduction, lesquels ne sont pas pertinents en l’espèce.
+[24] À mon avis, il est clair que l’intention du législateur a toujours été d’autoriser la déduction afin d’encourager la mobilité des Canadiens et les conditions à remplir pour y avoir droit reflètent cet objectif de la politique canadienne. Aussi, malgré les modifications apportées à la Loi au fil du temps, le législateur n’a jamais cessé de faire référence à l’exigence d’un nouveau lieu de travail. Aujourd’hui, le texte de l’article 62 et celui de la définition de « réinstallation admissible » au paragraphe 248(1) contiennent de multiples références à l’expression « nouveau lieu de travail ». Je ne peux accepter que le législateur ait inclus cette expression sans vouloir lui attribuer un sens.
+[25] Les parties ont fait référence à de nombreuses décisions de cette Cour au soutien de leur position respective. Étant donné les trames factuelles variées pouvant se présenter dans les appels de la décision refusant la déduction pour frais de déménagement et le contexte de la procédure informelle dans lequel elles ont été rendues, il n’est pas surprenant que chaque partie puisse trouver des décisions appuyant leur position. Je ne passerai pas en revue toutes les décisions citées, mais je commenterai celles qui sont les plus pertinentes aux faits en l’espèce.
+[26] Le représentant des appelants a cité les affaires Wunderlich c R, 2011 CCI 539 (Wunderlich) et Dierckens c R, 2011 CCI 169 (Dierckens) à l’appui de sa position selon laquelle le lieu de travail n’a pas à être nouveau. Les faits de l’affaire Wunderlich sont fort différents de ceux en l’espèce. M. Wunderlich a commencé un nouvel emploi en 2004 et a déménagé pour se rapprocher de son travail en 2008, après avoir accepté une promotion à laquelle se rattachaient de nouvelles responsabilités; il n’y eut pas de déménagement entre les deux, soit pour s’éloigner de son lieu de travail et ensuite s’y rapprocher comme ce fut le cas en l’espèce. En ce qui concerne l’affaire Dierckens, il appert que la contribuable a déménagé en 2008 alors qu’elle avait travaillé pour son employeur pendant une dizaine d’années; il ne semble pas y avoir eu de multiples déménagements dans cette affaire non plus.
+[27] Dans les affaires Wunderlich et Dierckens, la Cour a précisé que le délai dans le déménagement ne pouvait servir d’empêchement à l’admissibilité à la déduction. Depuis fort longtemps, la jurisprudence a reconnu que le libellé des dispositions législatives pertinentes autorisant la déduction pour frais de déménagement ne prévoit aucun délai dans lequel doive se faire le déménagement après le début d’un emploi ou d’une activité d’entreprise au nouveau lieu de travail. Je suis d’accord. Cela dit, l’effet d’une telle interprétation est tout simplement que pour avoir droit à la déduction, il se peut que le contribuable prenne un certain temps avant de déménager pour se rapprocher de son travail, mais non pas qu’il peut déménager pour s’éloigner de son lieu de travail pour ensuite s’en rapprocher plusieurs années plus tard.
+[28] En revanche, l’avocate de l’intimé a cité des décisions dans lesquelles la Cour a conclu qu’il fallait manifestement un nouveau lieu de travail pour avoir droit à la déduction pour frais de déménagement, par exemple, les affaires Moreland c R, 2010 CCI 483, Langelier c R, 2013 CCI 322 et Zhao c R, 2015 CCI 124.
+[29] Étant donné le libellé des dispositions législatives pertinentes ainsi que l’objectif de l’article 62 et les conditions d’admissibilité qui sont restés stables au fil des ans, je ne peux pas accepter une interprétation selon laquelle il n’est pas nécessaire d’avoir un nouveau lieu de travail pour avoir droit à la déduction pour frais de déménagement. Je partage l’opinion des juges qui ont conclu que pour se prévaloir de la déduction, un contribuable doit démontrer qu’il a un « nouveau lieu de travail ». À mon avis, les termes de la loi l’exigent clairement. Je suis aussi d’avis qu’il faut interpréter l’expression avec une certaine souplesse, mais pas d’une façon qui en fait une dénuée de sens (voir à cet effet les affaires Moreland, supra au para 13, Zhao, supra au para 15).
+[30] De façon subsidiaire, l’avocate de l’intimé a soutenu que s’il n’est pas nécessaire d’avoir un nouveau lieu de travail géographiquement différent, il faut à tout le moins que le changement de résidence ait été rendu nécessaire par une modification importante de la situation de travail (voir Gélinas c R, 2009 CCI 111). Elle a affirmé qu’il est question de savoir pourquoi le contribuable a déménagé. L’avocate de l’intimé a soutenu que les responsabilités des appelants au travail n’ont pas changé et en outre, que l’augmentation dans leur revenu peut s’expliquer par plusieurs facteurs qui sont pris en compte dans la rémunération des avocats qui sont des associés. Je note que le représentant de l’appelant a insisté sur le fait que les appelants avaient gagné plus de revenus en 2020 et 2021 qu’ils n’en avaient gagné en 2019. Non seulement s’agit-il d’années postérieures aux circonstances du litige, mais en outre, la hausse du revenu gagné au nouveau lieu de travail n’est pas une condition législative d’admissibilité à la déduction.
+[31] À mon avis, les appelants ne remplissent pas la condition selon laquelle il faut un nouveau lieu de travail pour avoir droit à la déduction pour frais de déménagement. M. Gaudet et Mme Del Vecchio résidaient à Montréal ou près de Montréal lorsqu’ils ont obtenu leur emploi chez Loranger Marcoux, en 1998 et 2006 ou 2007 respectivement. Comme décrit plus haut, ils se sont éloignés de Montréal, à différents moments, mais dans les deux cas pour des raisons personnelles. M. Gaudet a déménagé à Sainte-Thérèse, ensuite à Repentigny et à L’Assomption avant de déménager à Montréal en 2019. Mme Del Vecchio habitait Montréal lorsqu’elle a obtenu son emploi chez Loranger Marcoux et elle y est demeurée jusqu’en 2013-2014 quand elle s’est éloignée du lieu de travail pour déménager à L’Assomption, avant de redéménager à Montréal en 2019. Je ne crois pas que l’intention du législateur ait été de permettre à des contribuables de déduire leurs frais de déménagement pour se rapprocher d’un ancien lieu de travail duquel ils se sont éloignés alors qu’ils résidaient déjà près de leur lieu de travail. En ce qui concerne les exigences du travail d’un associé relativement à celui du salarié, je tiens à préciser d’abord que les appelants étaient des associés depuis plusieurs années avant le déménagement et surtout, rien dans la preuve ne m’a persuadée que leurs conditions de travail aient changé d’une manière qui milite en faveur d’une conclusion qu’il y a un « nouveau lieu de travail » en l’espèce selon une interprétation moins restrictive de cette expression (voir à cet effet Langelier, supra aux paras 6 et 22 et Moreland, supra au para 13).
+Conclusion
+[32] Pour les motifs exposés ci-haut, les appels sont rejetés. Les appelants n’ont pas droit à la déduction pour frais de déménagement engagés en 2019.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2023.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+RÉFÉRENCE :
+2023 CCI 46
+Nº DU DOSSIER DE LA COUR :
+2021-2438(IT)I
+2021-2439(IT)I
+INTITULÉ DE LA CAUSE :
+ANN SOPHIE DEL VECCHIO ET SA MAJESTÉ LE ROI ET STÉPHANE GAUDET ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 6 mars 2023
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Gabrielle St-Hilaire
+DATE DU JUGEMENT :
+Le 13 avril 2023
+COMPARUTIONS :
+Représentant de l'appelante :
+Représentant de l’appelant :
+Francis Del Vecchio
+Francis Del Vecchio
+Avocate de l'intimé :
+Me Alice Zhao Jiang
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

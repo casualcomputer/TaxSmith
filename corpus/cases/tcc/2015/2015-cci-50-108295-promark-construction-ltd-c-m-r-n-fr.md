@@ -1,0 +1,196 @@
+---
+title: "Promark Construction Ltd c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108295/index.do"
+last_modified: "2015-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 50"
+citation2: ""
+neutral_citation: "2015 CCI 50"
+decision_date: "2015-02-26"
+language: "fr"
+item_id: "108295"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2762
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:40:15.531000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4cca6354ba6f87f4b1bd8f1530013e90da75d9bcc54c6bae66a41e9287e199dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Promark Construction Ltd c. M.R.N.
+
+- Citation: 2015 CCI 50
+- Decision date: 2015-02-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2762, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promark Construction Ltd c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-26
+Référence neutre
+2015 CCI 50
+Numéro de dossier
+2014-1512(EI)
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2014-1512(EI)
+ENTRE :
+PROMARK CONSTRUCTION LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 octobre 2014 à Calgary (Alberta).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Paige MacPherson
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté, sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de février 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 4e jour de juin 2015.
+C. Laroche
+Référence : 2015 CCI 50
+Date : 20150226
+Dossier : 2014-1512(EI)
+ENTRE :
+PROMARK CONSTRUCTION LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelante interjette appel d’une décision par laquelle le ministre du Revenu national (la « ministre ») a décidé que Brett et Brian Alcorn avaient exercé un emploi assurable auprès de l'appelante au cours de la période comprise entre le 1er janvier 2010 et le 26 avril 2013 (la « période pertinente »)
+[2] Brett et Brian Alcorn sont deux des enfants adultes de William (« Bill ») et Barbara Alcorn. Bill et Barbara Alcorn possèdent, par l’intermédiaire d’une société de portefeuille, la totalité des actions de l’appelante.
+[3] Bill Alcorn a témoigné à l’audience. Comme nous le verrons, sa crédibilité a sérieusement été ébranlée lors de son contre-interrogatoire.
+Le résumé des faits [4] Bill Alcorn a démarré en 1985 une entreprise de rénovation domiciliaire à Calgary. En 1991, il a engagé deux employés avec lesquels il n’avait pas de lien de dépendance, qui ont continué à travailler pour cette entreprise jusqu’en 2009 dans un cas et en 2010 dans l’autre. L’entreprise a été transférée à l’appelante en juillet 1996.
+[5] Brian Alcorn a commencé à travailler pour l’appelante à temps partiel en 2005, alors qu’il fréquentait l’université. Il est devenu un employé à temps plein en 2009. Brett Alcorn s’est joint à l’appelante en 2007 à temps plein. Brian et Brett ont fait leur apprentissage auprès de l’appelante et ont obtenu leur diplôme de menuisiers en 2010 après avoir terminé leur programme d’apprentissage.
+[6] Au cours de la période pertinente, l’appelante comptait au moins deux autres employés à son service qui n’avaient aucun lien avec la société.
+[7] Bill Alcorn est l'âme dirigeante de l’appelante. Brian et Brett Alcorn ne possèdent pas d’actions de l’appelante, ils ne sont ni des administrateurs ni des dirigeants de l’appelante et ils n’ont aucun pouvoir de signature sur le compte bancaire de l’appelante. Bill Alcorn a déclaré qu’il espérait qu’un jour, ses deux fils prennent les rênes de l’entreprise exploitée par l’appelante.
+[8] Au cours de la période pertinente, Brian et Brett Alcorn ont accompli physiquement des travaux sur divers chantiers de l’appelante, notamment en montant des charpentes, en installant des cloisons sèches et en effectuant des travaux de menuiserie. De plus, ils supervisaient d’autres employés et des sous‑traitants, ils s'assuraient que les travaux étaient achevés à temps, ils s’occupaient de la cueillette des fournitures et des matériaux requis, ils acceptaient la livraison des fournitures ainsi que des matériaux commandés par l’appelante auprès de tiers et ils dirigeaient l’entreprise lorsque Bill Alcorn était en vacances.
+La question soumise à la Cour [9] L’alinéa 5(2)i) de la Loi sur l’assurance-emploi (la « Loi ») énonce que n’est pas un emploi assurable l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[10] L’alinéa 5(3)a) de la Loi prévoit que « la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu ». Les deux parties acceptent que, selon les dispositions applicables de la Loi de l’impôt sur le revenu, l’appelante a un lien de dépendance avec Brian Alcorn ou avec Brett Alcorn.
+[11] Toutefois, l’alinéa 5(3)b) de la Loi prévoit ce qui suit :
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[12] Au cours de la période pertinente, l’appelante a payé des cotisations conformément à la Loi relativement à l’emploi de Brian et de Brett Alcorn. Elle a ensuite soumis à l’Agence du revenu du Canada (l’« ARC ») une demande de remboursement des cotisations d’assurance-emploi qu’elle avait versées pour la période comprise entre le 1er janvier 2010 et le 26 avril 2013 relativement à l’emploi exercé par Brian et Brett Alcorn chez elle.
+[13] Le ministre a refusé la demande. Il a estimé qu’il était raisonnable de conclure que l’appelante ainsi que Brian et Brett Alcorn auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[14] La thèse de l’appelante est que l’alinéa 5(3)b) ne s’applique pas, de sorte que la présomption quant à l'existence d'un lien de dépendance entre elle et Brian ou Brett ne joue pas.
+[15] Dans la décision Porter c. MRN[1], ma collègue la juge Campbell a résumé de la façon suivante le rôle que la Cour est appelée à jouer lorsqu’elle est saisie d’un appel mettant en jeu le paragraphe 5(3) de la Loi :
+[...] le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[16] En résumé, la question soumise à la Cour est celle de savoir si, compte tenu de l’ensemble des circonstances entourant l’emploi exercé par Brian et Brett Alcorn auprès de l’appelante, il était raisonnable de la part du ministre de conclure que les parties auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+Le premier argument de l’appelante [17] La réponse énumère 56 hypothèses sur lesquelles le ministre s’est fondé pour tirer sa conclusion. L’appelante n’a pas réfuté la plupart de ces hypothèses.
+[18] Il ressort des hypothèses en question que l’appelante traitait de façon générale Brian et Brett de la même manière que les employés avec lesquels elle n’avait aucun lien de dépendance (les « employés non liés »). L’appelante engageait tous ses employés pour une durée indéterminée et leur donnait des instructions sur la façon d’exécuter le travail. Tous les employés travaillaient aux mêmes chantiers et exécutaient les mêmes travaux de construction et de rénovation.
+[19] Tous les employés de l’appelante, y compris Brian et Brett Alcorn, n’étaient rémunérés que pour les heures inscrites sur leurs feuilles de temps; ils étaient payés deux fois par mois, recevaient une paie de vacances de 10 p. 100 et bénéficiaient du même régime d’avantages sociaux. Les travailleurs n’étaient pas payés s’ils étaient malades ou ne pouvaient se présenter au travail.
+[20] Je reconnais que Brian et Brett fournissaient des services qui n’étaient pas offerts par les employés non liés. Ils étaient les seuls superviseurs, les seuls employés – à part Bill Alcorn – qui étaient autorisés à traiter avec les clients et les fournisseurs ainsi que les seuls employés qui pouvaient remiser du matériel de l’appelante chez eux. De plus, Brett Alcorn s’occupait de l’ordinateur de l’appelante.
+[21] Le taux de rémunération de Brian et de Brett Alcorn et celui des employés non liés étaient [traduction] « calculés en fonction des normes de l’industrie ». Toutefois, Brian et Brett étaient payés entre 0,50 $ et 1,50 $ de plus de l’heure que les employés non liés en raison de leur niveau de responsabilité plus élevé[2]. L’appelante leur fournissait également des téléphones cellulaires et défrayait une partie du coût d’entretien de leurs véhicules.
+[22] Brian et Brett Alcorn touchaient également des primes beaucoup plus élevées que celles qui étaient versées aux employés non liés.
+[23] À mon avis, la rémunération supplémentaire qui était versée à Brian et à Brett Alcorn était similaire à celle que l’appelante aurait versée à une personne non liée qui aurait exécuté les mêmes fonctions. En particulier, je m’attendrais à ce que l’appelante ait payé une prime plus élevée à un employé qui aurait contribué directement au succès de l’entreprise.
+[24] Dans son témoignage, Bill Alcorn s’est attardé sur quatre autres aspects qui, à son avis, correspondaient à des faits dont le ministre n’avait pas tenu compte ou qui contredisaient la conclusion du ministre. Ces aspects concernaient la répartition des tâches, la fourniture des outils, la fourniture des véhicules et l’obligation de faire des heures supplémentaires. Le témoignage principal donné par Bill Alcorn au sujet de ces quatre aspects a sérieusement entamé sa crédibilité. Ainsi que je vais l’expliquer un peu plus loin, lors de son contre-interrogatoire, il a soit modifié sa version des faits, soit nuancé son témoignage antérieur.
+[25] Le premier aspect sur lequel Bill Alcorn s’est attardé concernait la capacité de Brian et de Brett Alcorn de choisir leurs propres tâches. Il a déclaré qu’il leur permettait de choisir leurs tâches dans le quartier Sud de Calgary parce que ce secteur était situé plus près de leur domicile. Il a expliqué que les employés non liés n’avaient jamais la possibilité de choisir leurs tâches. Ils étaient affectés à des chantiers où Brian et Brett [traduction] « ne se trouvaient pas »[3].
+[26] En contre-interrogatoire, Bill Alcorn a déclaré que les ouvriers non liés devaient toujours être supervisés. Par conséquent, lorsqu’il y avait deux ou plusieurs chantiers, il envoyait Brian à un chantier et Brett à l’autre. Cette affirmation contredit directement son témoignage principal. De plus, Bill Alcorn a déclaré qu’au moins 40 p. 100 du temps, l’appelante n’avait qu’un seul chantier[4].
+[27] Le second aspect abordé par Bill Alcorn concernait la fourniture de l’outillage à main. Dans son témoignage principal, Bill Alcorn avait déclaré que les employés non liés étaient censés avoir leurs propres outils, mais que Brian et Brett Alcorn se servaient d'outils fournis par l’appelante[5]. Lors de son contre-interrogatoire, l’avocate de l’intimé a montré à M. Alcorn la pièce R‑1, un document soumis par l’appelante à l’ARC dans lequel l’appelante avait déclaré que Brian et Brett Alcorn fournissaient leur propre outillage à main[6]. Bill Alcorn a alors déclaré que tous les employés, y compris Brian et Brett, avaient l’obligation de fournir leur propre outillage à main[7]. Le témoignage de M. Alcorn n’était pas clair en ce qui concerne quels employés, s’il en était, fournissaient leurs propres outils spécialisés.
+[28] Le sujet suivant abordé par Bill Alcorn concernait les camions utilisés par Brian et Brett Alcorn. Lors de son témoignage principal, Bill Alcorn avait déclaré que l’appelante était propriétaire de camions et qu’elle payait les frais d’entretien et de carburant. Elle ne fournissait pas de camions aux travailleurs non liés.
+[29] Lors de son contre-interrogatoire, Bill Alcorn a déclaré que seuls ses fils devaient avoir des camions. Ses fils avaient besoin de camions pour passer prendre les matériaux et les amener sur les chantiers. Il a également déclaré que Brian et Brett avaient acquitté environ la moitié du prix d’achat de leur camion. Il estimait que ce pourcentage représentait le paiement de leur utilisation personnelle des camions.
+[30] Le dernier sujet abordé par Bill Alcorn était celui des heures supplémentaires. Au cours de son témoignage principal, il avait laissé entendre que seuls Brian et Brett travaillaient les fins de semaine[8]. Toutefois, au cours de son contre‑interrogatoire, il a admis que les employés non liés travaillaient également les fins de semaine si leurs services étaient requis pour accomplir un travail déterminé[9].
+[31] Le témoignage que Bill Alcorn a donné lors de son contre-interrogatoire en ce qui concerne l'outillage à main, les camions et les heures supplémentaires confirme la conclusion du ministre.
+[32] Après avoir tenu compte des faits invoqués par le ministre ainsi que des faits additionnels présentés au procès, je conclus que la décision du ministre était raisonnable.
+Le second argument de l’appelante [33] Le second argument de l’appelante est que l’alinéa 5(3)b) de la Loi ne confère pas au ministre le pouvoir de présumer que Brian et Brett Alcorn avaient un lien de dépendance avec l’appelante. La thèse de l’appelante est que l’alinéa 5(3)b) ne s’applique que lorsque les parties souhaitent que l’emploi de la partie ayant un lien de dépendance soit assurable.
+[34] L’avocat de l’appelante soutient, en se fondant sur des observations formulées à titre incident par la Cour dans la décision C&B Woodcraft Ltd. c. Ministre du Revenu national[10] (« C&B Woodcraft Ltd. »), que, par suite de l’arrêt Druken[11] de la Cour d’appel fédérale, le législateur a modifié la Loi, de sorte que les personnes liées n’étaient plus assurables. Toutefois, le législateur a prévu une exception dans le cas des personnes qui souhaitaient être assurables.
+[35] L’avocat de l’appelante a soutenu que, si une personne liée à l’employeur souhaite être assurable, le ministre doit déterminer, selon les dispositions applicables de la Loi, si cette personne devrait être assurable. Selon l’appelante, le ministre ne peut prendre cette décision que si l’employé lié souhaite être considéré comme une personne assurable au sens de la Loi. Le ministre ne peut prendre cette décision si l’employé lié ne souhaite pas être considéré comme une personne assurable au sens de la Loi.
+[36] L’avocat de l’appelante soutient que cette façon de voir est conforme avec l’économie de la Loi et qu’elle ne susciterait pas d’abus du système de la part des employés, étant donné que seuls les employés qui versent des cotisations peuvent percevoir des prestations.
+[37] L’alinéa 90(1)a) permet à tout employé, à tout employeur et à la Commission d’assurance-emploi du Canada (la « Commission ») de demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre de rendre une décision sur la question de savoir si un emploi est assurable.
+[38] Aux termes de l’alinéa 5(1)a), est un emploi assurable, l’emploi exercé au Canada aux termes d’un contrat de louage de services exprès ou tacite, écrit ou verbal. Ce principe est assujetti aux restrictions énumérées au paragraphe 5(2). Comme nous l’avons déjà signalé, l’alinéa 5(2)i) prévoit que n’est pas assurable, l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[39] L’alinéa 5(3)b) prévoit que, pour l’application de l’alinéa 5(2)i), l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de la Loi, sont réputés ne pas avoir de lien de dépendance si le ministre est convaincu qu’il est raisonnable de conclure, compte tenu de certaines circonstances précises, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[40] Dans la décision Actech Electrical Ltd. c. Ministre du Revenu national[12], le juge Mogan a conclu, après avoir examiné la décision C&B Woodcraft Ltd, que le ministre avait le pouvoir discrétionnaire de faire inclure les employés et employeurs liés dans la portée du programme d’assurance-emploi. Voici ce qu’il a déclaré :
+[13] [...] Dans certains appels récents interjetés devant la présente Cour, les appelants ont demandé si le ministre pouvait déterminer en vertu de l’alinéa 5(3)b) si un certain emploi était assurable lorsque l’employeur et l’employé ayant un lien de dépendance croient tous les deux que l’emploi n’est pas un emploi assurable et qu’aucune cotisation n’a été versée. C’est la question précise soulevée dans ces appels.
+[14] L’avocat des appelants s’est fondé sur l’historique législatif de l’alinéa 5(3)b) pour soutenir que celui-ci est purement correctif en ce sens qu’il permet à une travailleuse (ayant un lien avec l’employeur) de prouver à la satisfaction du ministre que son emploi devrait être un emploi assurable malgré l’existence de ce lien. [...]
+[16] Pour revenir à l’argument de l’avocat des appelants, je suis certain que le Parlement voulait que l’alinéa 5(3)b) soit une mesure corrective à la suite de l’arrêt Druken de la Cour d’appel fédérale. Cependant, il ne s’ensuit pas nécessairement que l’alinéa 5(3)b) est un moyen à sens unique qui permet au ministre d’établir qu’un employé ayant un lien de dépendance occupe un emploi assurable lorsque c’est la conclusion que désire l’employé, mais qui empêche le ministre de rendre la même décision dans les cas où un tel employé ne désire pas cette conclusion. Selon moi, la Loi sur l’AE est exceptionnelle parce que d’une part, elle peut être considérée comme une loi fiscale qui permet la perception de cotisations aux fins de la constitution d’un fonds (voir les articles 67, 68, 82 à 85, 92 et 103), tandis que d’autre part, elle peut être considérée comme une loi sociale qui accorde des prestations à des personnes sans emploi (voir l’article 7 et les suivants). [...]
+[17] L’alinéa 5(3)b) autorise clairement le ministre à rendre une décision (selon ce que les tribunaux ont qualifié de « pouvoir discrétionnaire du ministre ») dans les cas où l’employeur et l’employé ont un lien de dépendance; toutefois, je ne vois rien dans le texte de ce paragraphe qui restreint les circonstances dans lesquelles le ministre peut rendre une décision si la condition fondamentale est présente : c’est-à-dire si l’employeur et l’employé ont un lien de dépendance. Par conséquent, je rejette l’argument des appelants portant qu’un obstacle empêche le ministre de conclure, dans certaines situations, qu’un emploi entre un employeur et un employé ayant un lien de dépendance est un emploi assurable lorsque l’une des parties ou les deux sont d’avis que cet emploi n’est pas un emploi assurable.
+[41] Je souscris à la conclusion du juge Mogan. À mon avis, l’alinéa 5(3)b) prévoit dans les termes les plus nets que le ministre a le pouvoir absolu de tirer la conclusion exigée; il n’y a pas d’ambiguïté dans le texte législatif.
+[42] L’appelante me demande de conclure que le législateur souhaitait que l’employé lié ait la faculté d’adhérer au programme d’assurance-emploi.
+[43] Cette faculté n’est pas prévue par le libellé de la Loi. Ainsi que l’avocate de l’intimé l’a fait observer, le rôle du ministre consiste à prendre une décision en vertu de l’alinéa 5(3)b) dès lors que l’employeur, l’employé ou la Commission lui a demandé, en vertu de l’alinéa 90(1)a), de prendre cette décision.
+[44] De plus, l’alinéa 5(3)b) confère au ministre le pouvoir de limiter les abus dont pourrait faire l’objet le programme d’assurance-emploi. Ce programme est autofinancé. Lorsque les employeurs et les employés liés s’engagent par contrat, un des abus qui peut survenir consiste à offrir du travail de courte durée dans le but de permettre aux employés de percevoir des prestations d’assurance.
+[45] Par exemple, si le ministre n’avait le droit d’appliquer l’alinéa 5(3)b) que si un employé lié présentait une demande en vertu de l’alinéa 90(1)a), l’employé lié pourrait alors choisir de ne pas verser de cotisation lorsque l’entreprise se porte bien. L’employé pourrait ensuite choisir d’adhérer au programme (en demandant une décision) lorsqu’il semblerait que l’entreprise pourrait être forcée de fermer ses portes en raison de difficultés financières. L’employé pourrait ainsi verser des cotisations pendant une courte période de temps pour ensuite percevoir des prestations au titre de ce programme autofinancé. À mon avis, il s’agit du type même d’abus que l’alinéa 5(3)b) vise à enrayer.
+[46] Pour les motifs qui ont été exposés, l’appel est rejeté, le tout sans frais.
+Signé à Ottawa, Canada, ce 26e jour de février 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 4e jour de juin 2015.
+C. Laroche
+RÉFÉRENCE :
+2015 CCI 50
+No DU DOSSIER DE LA COUR :
+2014-1512(EI)
+INTITULÉ :
+PROMARK CONSTRUCTION LTD. c. M.R.N.
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 27 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 26 février 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Paige MacPherson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Deryk W. Coward
+Cabinet :
+D’Arcy & Deacon s.r.l.
+Winnipeg (Manitoba)
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2005 CCI 364, au paragraphe 13.
+[2] Pièce R-1, page 2.
+[3] Témoignage de William Alcorn, pages 13 et 14.
+[4] Idem, pages 43 et 44.
+[5] Idem, pages 26 et 27.
+[6] Pièce R-1, page 4.
+[7] Témoignage de William Alcorn, pages 57 à 59.
+[8] Idem, pages 34 et 35.
+[9] Idem, page 50.
+[10] 2004 CCI 477.
+[11] Canada c. Druken, [1989] 2 C.F. 24 (C.A.F.).
+[12] Actech Electrical Ltd. c. Ministre du Revenu national, 2004 CCI 572.

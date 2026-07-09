@@ -1,0 +1,234 @@
+---
+title: "Zaina v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26332/index.do"
+last_modified: "2004-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 349"
+citation2: ""
+neutral_citation: "2004 TCC 349"
+decision_date: "2004-05-12"
+language: "en"
+item_id: "26332"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3293
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:20.209000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "abf9f7ad769f6666cc650e994d24d5b3dfce972c634131583e0b6de15951b34b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zaina v. The Queen
+
+- Citation: 2004 TCC 349
+- Decision date: 2004-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3293, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zaina v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-12
+Neutral citation
+2004 TCC 349
+File numbers
+2003-4474(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4474(IT)I
+BETWEEN:
+DAVID ZAINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 21, 2004 at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Belinda Schmid
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999, 2000, 2001 and 2002 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded costs in the sum of $100 for out-of-pocket disbursements such as photocopying and similar expenses incurred in processing his appeal.
+Signed at Saskatoon, Saskatchewan this 12th day of May, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC349
+Date: 20040512
+Docket: 2003-4474(IT)I
+BETWEEN:
+DAVID ZAINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Lethbridge, Alberta on April 21, 2004. The Appellant was the only witness.
+[2] Paragraphs 5 to 14 of the Reply to the Notice of Appeal set out part of the dispute. They read:
+5. In computing income for the 1999, 2000, 2001 and 2002 taxation years, the Appellant claimed deductions for child support as follows:
+(a) $10,663.00 for 1999;
+(b) $6,184.00 for 2000;
+(c) $10,094.00 for 2001; and
+(d) $12,644.00 for 2002.
+6. The original Notices of Assessment for the 1999, 2000, 2001 and 2002 taxation years were dated and mailed to the Appellant as follows:
+(a) on December 11, 2000 for 1999;
+(b) on April 6, 2001 for 2000;
+(c) on April 3, 2002 for 2001; and
+(d) on April 3, 2003 for 2002.
+7. In reassessing the Appellant for the 2000 taxation year on April 18, 2002, the Minister of National Revenue (the "Minister") reduced the claim for child support by $36.00, from $6,184.00 to $6,148.00. The claim was reduced to allow a deduction for child support that was paid in the year.
+8. In reassessing the Appellant for the 1999, 2000, 2001 and 2002 taxation years on May 1, 2003, the Minister disallowed the deduction for child support for each year. The deduction for child support was disallowed as the Minister considered that the child support claimed for each year was paid pursuant to a written agreement made or varied after April 30, 1997.
+9. On June 12, 2003, the Appellant served on the Minister Notices of Objection to the reassessments dated May 1, 2003 for the 1999, 2000, 2001 and 2002 taxation years.
+10. By Notification of Confirmation dated September 26, 2003, the Minister confirmed the reassessments dated May 1, 2003 for the 1999, 2000, 2001 and 2002 taxation years.
+11. In so reassessing the Appellant for the 1999, 2000, 2001 and 2002 taxation years and in so confirming the reassessments, the Minister made the following assumptions of fact:
+(a) the Appellant and Lisa Marie Zaina (hereinafter the "former spouse") are the parents of three child of their marriage, being Jordan Paul Zaina, born November 5, 1987, Taylor Charles Zaina, born September 13, 1989 and Joshua David Zaina, born September 13, 1989 (hereinafter referred to as the "children of the marriage");
+(b) the Appellant and the former spouse separated on January 4, 1992;
+(c) pursuant to a Separation Agreement made on May 5, 1992 (the "Separation Agreement"), the Appellant, among other things, agreed to pay to the former spouse child support for the children of the marriage in the amount of $250.00 per month per child, for a total of $750.00 per month, commencing March 1, 1992 and payable on the 1st day of each and every month until such time as the child in respect of whom support is paid is no longer a child as defined by the Divorce Act;
+(d) pursuant to the Minutes of Settlement made on December 15, 1997 (the "Minutes of Settlement"), the Appellant and the former spouse agreed to amend the Separation Agreement to, among other things, change the amount of child support that the Appellant was to pay to the former spouse in respect of the children of the marriage from $750.00 per month to $475.00 per month commencing September 1, 1997 and continuing on the first day of each month thereafter; and
+(e) the Appellant, through Alberta Justice–Maintenance Enforcement Program, made child support payments to the former spouse in respect of the children of the marriage as follows:
+Year
+Child Support Payments
+1999
+$10,663.00
+2000
+6,148.00
+2001
+10,094.00
+2002
+12,644.00
+B. ISSUES TO BE DECIDED
+12. The issues to be decided are:
+(a) whether the Appellant is entitled to deductions for child support as follows:
+(i) $10,663.00 for 1999;
+(ii) $6,148.00 for 2000;
+(iii) $10,094.00 for 2001; and
+(iv) $12,644.00 for 2002; and
+(b) whether the Tax Court of Canada can grant the relief sought with respect to waiving or cancelling the interest.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+13. He relies on subsections 56.1(4), 60.1(4) and 220(3.1) and paragraph 60(b) of the Income Tax Act, R.S.C. 1985 (5th Supp.) c.1, (the "Act") as amended for the 1999, 2000, 2001 and 2002 taxation years.
+14. He submits that the Separation Agreement under which the Appellant was required to pay to the former spouse child support in respect of the children of the marriage was varied after April, 1997, pursuant to the Minutes of Settlement, to change the child support amounts payable by the Appellant. Accordingly, he submits that he Appellant is not entitled to a deduction for child support in the amount of $10,094.00 for 2001 and $12,644.00 for 2002 in accordance with subsections 65.1(4) and 60.1(4) and paragraph 60(b) of the Act.
+[3] The assumptions are correct so far as they go.
+[4] The agreement of May 5, 1992 (subparagraph 11(c)) was embodied in a Court Order in Ontario which was enforced by the Alberta Maintenance Enforcement Program, where the Appellant resided and to which he paid the money in question. Due to layoffs, he was frequently in arrears on his payments, both before and after April 30, 1997, as is obvious from the amounts claimed and assumed. Some of these appear to have carried over after the December 15, 1997 settlement.
+[5] The settlement of December 15, 1997 was entered as a Court Order in Ontario (see Exhibit A-1) then not registered in Alberta. It was registered in the Alberta Maintenance Enforcement Program on about November 26, 2003.
+[6] Until then, the Appellant, an Alberta resident, was required to pay the money in question to the Alberta Maintenance Enforcement Program under the previous Order, which at all material times remained filed in Alberta with the Alberta Court of Queen's Bench, and did so.
+[7] Thus the Appellant paid the money pursuant to a Court Order which was in force in his province of residence. But the Respondent will not allow him to deduct these amounts because of the settlement of December 15, 1997. The Alberta law is such that the Appellant's former wife did receive the money he paid. The body of Exhibit A-1 respecting this reads:
+Alberta Government of Alberta
+JUSTICE 2001 & 2002 IPAC
+Gold Award
+for Innovative
+Management
+______________________________________________________________________________
+Maintenance Enforcement 7th Floor North, Brownlee Building Telephone (780) 422-5555
+P.O. Box 2404 Outside Edmonton 310-0000 422-5555
+Edmonton, Alberta Fax (780) 401-7565
+Canada, T5J 3Z7
+MEP Account No. 0862-573
+November 26, 2003
+David Zaina
+PO Box 886
+Coalhurst AB
+T0L 0V0
+Dear Mr. Zaina:
+RE: MAINTENANCE ENFORCEMENT
+Our office has entered your Ontario court order of December 15, 1997 that reduced your ongoing maintenance from $750.00 per month effective January 1, 1998. It is also stated in the order that you are to pay Ms. Lisa Zaina $700.00 in court costs.
+We have adjusted your account to reflect these changes and are in the process of refunding to you the payments that we have been holding in trust on your account. Despite this, your account is overpaid in the sum of $18,075.00. Our office will offset this overpayment against future ongoing maintenance charges of $475.00 per month until the overpayment is satisfied in February 2007. Enclosed is a statement of your account for your review.
+As a result of your account being overpaid, we have issued documents to your employer to terminate the garnishee that we have had in place.
+If you have any questions in this matter, inquiries can be made by telephone at (780) 422-5555 or by writing to the Maintenance Enforcement Program, Box 2404, Edmonton, Alberta, T5J 3Z7
+Yours truly,
+Nina Escoto
+ISO Unit
+Maintenance Enforcement Program
+Enclosure
+[8] Subsections 1(e) and 16(1) of the Alberta Maintenance Enforcement Act, R.S.A. 2000, read:
+1. In this Act
+…
+(e) "maintenance order" means an order or interim order of a court in Alberta, a Queen's Bench protection order under the Protection Against Family Violence Act or an order, other than a provisional order that has not been confirmed, registered under the Reciprocal Enforcement of Maintenance Orders Act or the Interjurisdictional Support Orders Act that has a provision requiring the payment of maintenance.
+16(1) The Director or a creditor may file with the Court of Queen's Bench a maintenance order that is not otherwise filed with the Court and, on being filed, the parts of the maintenance order that relate to maintenance are deemed to be a judgment of the Court of Queen's Bench.
+Its predecessor statutes contained words to the same effect.
+[9] In Fraser v. Canada, 2004 F.C.A. 128, the Federal Court of Appeal stated in paragraphs 9, 10, 11 and 14:
+[9] The relevant part of the statutory definition of "support amount" in the Income Tax Act asks whether child support payments have been made under "an order made by a competent tribunal in accordance with the laws of a province". Parliament has thus indicated that the question of whether there is an order meeting that description is a matter of provincial law.
+[10] Laws respecting child support are within the legislative authority of the provinces, as are the laws establishing the formalities for obtaining court orders for child support. In my view, the phrase "in accordance with the laws of a province" is broad enough to refer to all provincial laws regarding the legal obligation to pay child support, including the provincial laws governing the procedure by which such a legal obligation is made enforceable. The interpretation proposed by the Crown would limit those words in a manner that excludes some procedural aspects of the provincial law relating to child support. I see no justification for such a narrow interpretation.
+[11] This is not a case where a provincial legislature has attempted to amend the Income Tax Act, or alter its effect, to meet some provincial objective that does not accord with the objectives of the Income Tax Act. On the contrary, the Legislature of Alberta has simply streamlined the procedure for obtaining court orders for child support so that a "deemed" judgment of the Court of Queen's Bench, as in this case, is the legal equivalent of an "actual" judgment made by that Court on consent. In practical terms, the only difference is that a consent order probably would require the expenditure of more time and money by the parties, and more judicial resources.
+…
+[14] The judgment of the Tax Court should be set aside and replaced with a judgment allowing Mr. Fraser's income tax appeal and referring the matter back to the Minister for reassessment on the basis that the child support payments he made in 1999 are deductible. As the parties have agreed that the Crown will pay Mr. Fraser's reasonable costs of this appeal, no order should be made as to costs.
+[10] That judgment also applies in this case.
+[11] Subsection 56.1(4) of the Income Tax Act for the years in question reads, respecting the words "support amounts":
+(4) The definitions in this subsection apply in this section and section 56.
+…
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+S. 56.1(4), paragraph (a) of the definition “support amount” was amended by S.C. 2000, c. 12, Sched. 2, s. 2(b) and 9(b), applicable January 1, 2001, coming into force on July 31, 2000. S. 56.1(4), paragraph (a) of the definition “support amount” formerly read:
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+[12] On the facts of this case there are potentially two different amounts receivable for the purposes of the definition of “support amount” in subsection 56.1(4):
+- one under an order of a competent tribunal and registered in Alberta in 1992 under the Alberta Maintenance Enforcement Act; and
+- a different amount under a subsequent order of an Ontario court (the “Ontario order”) dated December 15, 1997, and not registered in Alberta until well after the relevant period.
+The Court must decide which of these two amounts is the relevant one for the purposes of the definition of “support amount” under the Income Tax Act. The Alberta court had jurisdiction over the appellant throughout the relevant period.
+[13] The Respondent's position is that the December 15, 1997 court order from Ontario applies since it comes later in time and is most recent. The Appellant takes the position that, notwithstanding the later Ontario court order, the original order registered under the Alberta Maintenance Enforcement Act should apply since it was both legally enforceable, and being enforced against him, in Alberta throughout the relevant period. The Appellant explained that he was continually in arrears and was confused as to how much he actually owed each month, and was unaware that the Alberta Justice Maintenance Enforcement Program was enforcing the original registered order rather than the more recent Ontario order. His ex-wife continued to accept the amounts payable under the original order and did not draw the Appellant's attention to the fact that he was paying more to her under the original order that remained in force against him in Alberta than he was required to under the subsequent unregistered (in Alberta) Ontario order.
+[14] The decision of the Federal Court of Appeal in Fraser v. Canada makes it clear that for the purposes of subsection 56.1(4) of the Income Tax Act this Court must apply "... the provincial laws governing the procedure by which such a legal obligation is made enforceable". (See paragraph 10 of Fraser v. Canada)
+[15] In Hill v. Hill [1985] S.J. No. 25, the defendant husband argued that a maintenance order made against him by a Manitoba court and registered under the Saskatchewan Reciprocal Enforcement of Maintenance Orders Act should be nullified in Saskatchewan by a much later order of a Saskatchewan court nullifying his marriage to the plaintiff. However, in Hill, Dickson, J. of the Saskatchewan Unified Family Court stated:
+The role of the Saskatchewan courts is limited to enforcement of the registered order and to applications under s. 8(7) of the Reciprocal Enforcement of Maintenance Orders Act for a provisional order varying or rescinding it.
+(See also Sawers v. Sawers, 22 R.F.L. (2d) 66, (referred to in Hill v. Hill), wherein the Manitoba Court of Appeal on similar facts to Hill stated:
+The enunciated principle is that the original order remains in full force and effect until such time an application is made for its discharge and the request granted;
+In other words, the provincial court is limited to enforcing the registered order or varying it under the Reciprocal Enforcement of Maintenance Orders Act, but it does not have authority outside of that Act to otherwise nullify, disregard, or change it. The same is true under the Alberta Maintenance Enforcement Act. In the present case, this means that the more recent court order from Ontario is not effective in Alberta against the appellant unless and until the original registered order is either varied or rescinded under the Alberta Maintenance Enforcement Act. As a result, the only obligation that was enforceable in Alberta during the relevant period was the original order registered under the Alberta Maintenance Enforcement Act.
+[16] The Federal Court of Appeal in Fraser felt that the Court must apply the provincial law governing the procedure by which the obligation is enforceable. Thus, the original order registered under the Alberta Maintenance Enforcement Act applies for the purposes of the definition of "support amount" in subsection 56.1(4) of the Income Tax Act. Here, the Alberta Maintenance Enforcement Office enforced the original order against the Appellant, and the Appellant's ex-spouse continued to receive the amounts payable under the original order.
+[17] For these reasons, the appeal is allowed.
+[18] The Appellant represented himself. He is awarded the sum of $100 for out-of-pocket disbursements such as photocopying and similar expenses incurred in prosecuting his appeal.
+Signed at Saskatoon, Saskatchewan this 12th day of May, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC349
+COURT FILE NO.:
+2003-4474(IT)I
+STYLE OF CAUSE:
+David Zaina v. The Queen
+PLACE OF HEARING:
+Lethbridge, Alberta
+DATE OF HEARING:
+April 21, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+May 12, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Belinda Schmid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

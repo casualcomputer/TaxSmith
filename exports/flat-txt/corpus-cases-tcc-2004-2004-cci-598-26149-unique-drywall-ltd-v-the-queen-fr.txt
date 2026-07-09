@@ -1,0 +1,346 @@
+Title: Unique Drywall Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26149/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-598-26149-unique-drywall-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-10-07
+
+# Unique Drywall Ltd. v. The Queen
+
+- Citation: 2004 CCI 598
+- Decision date: 2004-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4144, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Unique Drywall Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-07
+Référence neutre
+2004 CCI 598
+Numéro de dossier
+2003-493(GST)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-493(GST)I
+ENTRE :
+UNIC DRYWALL LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Unique Drywall Ltd.(2002-4233(GST)I) et
+Brothers Drywall Inc. (2002-4234(GST)I),
+le 22 janvier 2004, à Toronto (Ontario).
+Devant : L'honorable T. O'Connor
+Comparutions :
+Représentant de l'appelante :
+M. Warren B. Viegas
+Avocat de l'intimé :
+Me Joel Oliphant
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 25 novembre et porte le numéro 08EP118133446, pour la période allant du 1er juillet 1991 au 30 septembre 1995, est rejeté conformément aux motifs du jugement ci-joints. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de juillet 2005.
+Sara Tasset
+Dossier : 2002-4233(GST)I
+ENTRE :
+UNIQUE DRYWALL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Brothers Drywall Inc.(2002-4234(GST)I) et
+UnicDrywall Ltd. (2003-493(GST)I),
+le 22 janvier 2004, à Toronto (Ontario).
+Devant : L'honorable T. O'Connor
+Comparutions :
+Représentant de l'appelante :
+M. Warren B. Viegas
+Avocat de l'intimée :
+Me Joel Oliphant
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 17 septembre 2001 et porte le numéro 08EP117448571, pour la période allant du 21 mars 1995 au 31 juillet 1999, est rejeté conformément aux motifs du jugement ci-joints. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de juillet 2005.
+Sara Tasset
+Dossier : 2002-4234(GST)I
+ENTRE :
+BROTHERS DRYWALL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Unique Drywall Ltd.(2002-4233(GST)I) et
+UnicDrywall Ltd. (2003-493(GST)I),
+le 22 janvier 2004, à Toronto (Ontario).
+Devant : L'honorable T. O'Connor
+Comparutions :
+Représentant de l'appelante :
+M. Warren B. Viegas
+Avocat de l'intimée :
+Me Joel Oliphant
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 17 septembre 2002 et porte le numéro 08EP118133446, pour la période allant du 21 avril 1995 au 31 mars 1999, est rejeté conformément aux motifs du jugement ci-joints. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de juillet 2005.
+Sara Tasset
+Référence : 2004CCI598
+Date : 20041007
+Dossier : 2003-493(GST)I
+ENTRE :
+UNIC DRYWALL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2002-4233(GST)I
+UNIQUE DRYWALL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2002-4234(GST)I
+BROTHERS DRYWALL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] Les présents appels ont tous été entendus sur preuve commune.
+[2] Dans les extraits suivants de la réponse à l'avis d'appel produit relativement à l'affaire Unic Drywall Ltd., numéro d'appel 2003-493(GST)I, on tente d'expliquer les questions en litige soulevées dans celle-ci :
+[TRADUCTION]
+En réponse à l'avis d'appel touchant l'avis de nouvelle cotisation no 08EP118133446, daté du 25 novembre 2002 (la « cotisation » ), pour la période allant du 1er juillet 1991 au 30 septembre 1995 (la « période » ), le sous-procureur général du Canada affirme :
+A. EXPOSÉ DES FAITS
+[...]
+3. Quant à l'avis d'appel, il reconnaît uniquement que l'appelante ne disposait pas, contrairement aux exigences du paragraphe 169(4) de la Loi sur la taxe d'accise, L.R.C. (1985), ch. E-15, telle qu'elle a été modifiée (la « Loi » ), et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants, de documents suffisants relatifs aux crédits de taxe sur les intrants (les « CTI » ) refusés par le ministre pour la période en cause.
+4. Il nie que l'appelante a agi avec diligence raisonnable en ce qui a trait à la partie IX de la Loi et, en particulier, à la demande relative aux CTI refusés.
+[...]
+7. Par voie d'un avis de nouvelle cotisation daté du 18 juillet 2000 et portant le numéro 05DP0015096, le ministre a imposé un montant de TPS supplémentaire de 46 444,08 $ et a refusé les CTI de 194 004,17 $ pour la période. Le ministre a également appliqué une pénalité pour versement tardif de 158 921,70 $, exigé le paiement d'intérêts de 131 297,03 $ et infligé d'autres pénalités s'élevant à 5 646,73 $.
+8. Par suite de l'avis d'opposition produit en réponse à l'avis de nouvelle cotisation portant le numéro 05DP0015096, le ministre, au moyen d'un avis de nouvelle cotisation portant le numéro 08EP117448480 et daté du 23 août 2001, a imposé un montant de TPS supplémentaire de 46 444,08 $ et a refusé les CTI de 194 004,17 $ pour la période. Le ministre a en outre appliqué une pénalité pour versement tardif de 158 591,18 $, exigé le paiement d'intérêts de 131 087,06 $ et supprimé les autres pénalités antérieurement infligées.
+9. Par suite de l'avis d'opposition produit en réponse à l'avis de nouvelle cotisation portant le numéro 08EP117448480, le ministre a établi la cotisation. Cette cotisation avait pour effet de supprimer les sommes prises en compte dans la cotisation relativement aux CTI demandés par l'appelante entre le 1er juillet 1991 et le 31 décembre 1993 puisque l'appelante n'était plus, suivant le paragraphe 286(3) de la Loi, tenue de tenir des registres pour cette période lorsque la nouvelle cotisation initiale a été établie, comme il est précisé au paragraphe 7 ci-dessus. Le ministre a imposé un montant de TPS supplémentaire de 46 444,08 $ et a refusé les CTI de 53 642,30 $ pour la période. Il a en outre appliqué une pénalité pour versement tardif de 53 844,22 $ et exigé le paiement d'intérêts de 43 929,18 $.
+10. Lorsqu'il a établi cette nouvelle cotisation à l'égard de l'appelante sur le fondement de la cotisation, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) l'appelante exploitait une entreprise de pose de cloisons sèches;
+b) l'appelante a déclaré avoir perçu la taxe sur les produits et services (la « TPS » ) pour un montant de 610 777,59 $ et elle a demandé des CTI de 514 187,11 $, ce qui lui a permis de déclarer un montant de taxe nette à verser de 96 590,48 $ pour la période;
+c) l'appelante a omis de tenir des registres suffisants pour la période;
+d) les ventes déclarées pour la période par l'appelante pour l'application de la Loi et les ventes déclarées pour la période pour l'application de la Loi de l'impôt sur le revenu étaient sensiblement différentes;
+e) dans ses déclarations de TPS, l'appelante a fait, par négligence, inattention ou omission volontaire, une présentation très erronée des faits touchant les ventes, la TPS perçue et les CTI demandés;
+f) l'appelante ne disposait pas de documents suffisants pour permettre au ministre de faire droit aux CTI se chiffrant à pas moins de 58 200,88 $, lesquels ont été refusés relativement à du travail donné en sous-traitance entre le 1er janvier 1994 et le 30 septembre 1995;
+g) l'appelante n'a pas agi avec diligence raisonnable en ce qui concerne la demande de CTI relative au travail donné en sous-traitance, aux termes du paragraphe 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants;
+h) l'appelante était tenue de déclarer un montant de taxe nette à verser d'au moins 196 676,86 $.
+[Il convient de signaler que 196 676,86 $ moins 96 590,48 $ égalent 100 086,38 $ et que 96 590,48 $ plus 46 444,08 $ plus 53 642,30 $ égalent 196 676,86 $.]
+B. QUESTIONS EN LITIGE
+11. Les questions en litige consistent à savoir si le ministre a, à juste titre, refusé d'accorder les CTI s'élevant à 58 200,80 $ demandés par l'appelante et si cette dernière a agi avec diligence raisonnable lorsqu'elle a demandé les CTI refusés.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+12. Il invoque notamment les articles 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 et 301 de la Loi de même que les dispositions du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrantset de la Loi sur la Cour canadienne de l'impôt.
+13. Il soutient que l'appelante a omis de tenir des registres appropriés, contrairement aux exigences de l'article 286 de la Loi.
+14. Il soutient que le montant des CTI demandés ne correspondait pas aux renseignements dont le ministre disposait.
+15. Il soutient que le ministre a, à juste titre, établi une nouvelle cotisation à l'égard de l'appelante en application du paragraphe 298(4) de la Loi.
+16. Il soutient que le ministre a, à juste titre, refusé les CTI s'élevant à 58 200,88 $ demandés par l'appelante relativement au travail donné en sous-traitance parce que cette dernière n'a ni tenu ni obtenu des documents suffisants, contrairement aux exigences du paragraphe 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+17. Il soutient que le ministre a, à juste titre, établi à l'égard de l'appelante une nouvelle cotisation visant la taxe nette à verser ainsi que les pénalités et les intérêts connexes conformément aux articles 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 et 301 de la Loi et au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+18. Il soutient que l'appelante n'a pas agi avec diligence raisonnable en ce qui a trait à la partie IX de la Loi et, en particulier, à la demande de CTI liés au travail donné en sous-traitance.
+[3] Dans l'affaire Unic Drywall Ltd., numéro d'appel 2003-493(GST)I, l'avis d'appel se lit en partie comme suit :
+[TRADUCTION]
+[...]
+· Le présent avis d'appel est produit parallèlement à d'autres appels visant les sociétés liées Unique Drywall Ltd. « Unique » et Brother's Drywall Inc. « Brothers » .
+· Unic a fait l'objet d'une cotisation de 60 905,63 $ établie par voie de vérification pour la période se terminant le 30 juin 1991. Nous avons demandé des renseignements concernant cette cotisation, mais nous n'avons toujours rien reçu. Il semble que la vérification a été effectuée en ce qui a trait à la taxe nette (taxe perçue [TPS] et payée [CTI]) et qu'il n'a donc jamais été question du manque de preuve documentaire à ce moment. Ma cliente a toujours demandé les CTI de la même manière depuis le 1er janvier 1991.
+· Nous croyons que notre cliente a fait preuve de diligence raisonnable lorsqu'elle a demandé les CTI en suivant la même méthode que celle ayant fait l'objet d'une vérification relative à la TPS en 1991;
+· Nous n'avançons pas que les CTI respectent l'exigence en matière de preuve documentaire fixée par la Loi sur la taxe d'accise, mais il a toujours existé une piste documentaire constituée de carnets, de chèques et de relevés bancaires et ces renseignements ont toujours été disponibles comme moyen de rechange pour fournir cette preuve documentaire.
+· Toutes les sociétés ont continué de demander des CTI d'une manière analogue à celle employée par Unic. Unic a mis fin à ses activités en 1995, époque où Unique et Brother's ont commencé leurs activités.
+· À partir de 1991, Unic a retenu les services d'un cabinet d'experts-comptables appelé Sacks Partnership. Malheureusement, le cabinet a lui-même connu des difficultés, mais il n'en demeure pas moins qu'au moment où elle a fait appel à ses services, ma cliente se fiait à ce cabinet pour qu'il lui rende des services comptables et fiscaux. À tout le moins, dans l'éventualité où la Cour confirmerait la cotisation, ma cliente a fait preuve de diligence raisonnable et ne devrait pas être responsable de la taxe, de la pénalité et des intérêts qu'on lui demande de payer.
+· La possibilité d'établir une cotisation à tout moment, qui est prévue au paragraphe 298(4) de la Loi sur la taxe d'accise en cas de présentation erronée des faits, devrait être écartée. Ma cliente n'avait nullement l'intention de faire une présentation erronée des faits concernant des CTI et elle a simplement utilisé une façon qu'elle croyait acceptable pour demander les CTI.
+· Toute la situation qui a mené à l'établissement de la cotisation est suspecte. L'Agence n'a pas respecté la politique de vérification recommandée « une plus une , laquelle l'oblige à examiner l'année courante ainsi qu'une année précédente avant de s'intéresser, pour des raisons acceptables, à des années autres que ces deux années initiales. À tout le moins, la question qui a mené à cette vérification (la différence entre le montant des ventes déclarées dans les déclarations de TPS et dans les déclarations de revenus de la société) aurait été expliquée par les retenues contractuelles, qui n'ont pas à être considérées comme des ventes suivant la Loi sur la taxe d'accise, mais qui doivent l'être suivant la Loi de l'impôt sur le revenu.
+· L'ADRC disposait des renseignements nécessaires (les déclarations de revenus des particuliers) relatifs à ces sous-traitants pour constater qu'un grand nombre d'entre eux n'étaient pas des petits fournisseurs, qu'ils auraient dû être inscrits et qu'ils auraient dû percevoir la TPS (les mêmes CTI que ma cliente a payés et qu'on refuse maintenant de lui accorder dans la présente cotisation).
+[4] Il ressortira des extraits susmentionnés de la réponse à l'avis d'appel et en particulier de l'avis d'appel et d'autres extraits analogues produits dans les deux autres appels qui seront examinés plus loin qu'il est difficile de savoir exactement quelles sont les questions à trancher. Les éléments de preuve présentés au cours de l'audience, soit des témoignages et de nombreux documents, n'ont du reste pas permis de lever cette incertitude.
+[5] Les observations formulées par le représentant des trois appelantes et par l'avocat de l'intimée dans le cadre des trois appels seront examinées plus loin.
+[6] Dans les extraits suivants de la réponse à l'avis d'appel produite relativement à l'affaire Unique Drywall Ltd., numéro d'appel 2002-4233(GST)I, on tente d'expliquer les questions en litige soulevées dans celle-ci :
+[TRADUCTION]
+En réponse à l'avis d'appel touchant l'avis de nouvelle cotisation no 08EP117448571, daté du 17 septembre 2001 (la « cotisation » ), pour la période allant du 21 mars 1995 au 31 juillet 1999 (la « période » ), le sous-procureur général du Canada affirme :
+A. EXPOSÉ DES FAITS
+[...]
+2. Quant à l'avis d'appel, il reconnaît uniquement que l'appelante ne disposait pas, contrairement aux exigences du paragraphe 169(4) de la Loi sur la taxe d'accise et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants, de documents suffisants relatifs aux crédits de taxe sur les intrants (les « CTI » ) refusés par le ministre du Revenu national (le « ministre » ) pour la période en cause.
+3. Il nie que l'appelante a agi avec diligence raisonnable en ce qui a trait à la partie IX de la Loi et, en particulier, à la demande relative aux CTI refusés.
+[...]
+6. Lorsqu'il a établi cette nouvelle cotisation à l'égard de l'appelante sur le fondement de la cotisation, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) l'appelante exploitait une entreprise de pose de cloisons sèches;
+b) l'appelante a déclaré avoir perçu la taxe sur les produits et services (la « TPS » ) pour un montant de 991 319,27 $ et elle a demandé des CTI de 776 867,21 $, ce qui lui a permis de déclarer un montant de taxe nette à verser de 214 452,06 $ pour la période;
+c) l'appelante a omis de tenir des registres suffisants pour la période;
+d) l'appelante ne disposait pas de documents suffisants pour permettre au ministre de faire droit aux CTI se chiffrant à pas moins de 81 450,12 $, lesquels ont été refusés relativement à du travail donné en sous-traitance;
+e) l'appelante n'a pas agi avec diligence raisonnable en ce qui concerne la demande de CTI relative au travail donné en sous-traitance, aux termes du paragraphe 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants;
+f) l'appelante était tenue de déclarer un montant de taxe nette à verser d'au moins 295 902,21 $.
+[Il convient de signaler que la somme de 81 450,12 $ correspond à la différence entre 295 902,21 $ et 214 452,06 $.]
+B. QUESTIONS EN LITIGE
+7. Les questions en litige consistent à savoir si le ministre a, à juste titre, refusé d'accorder les CTI s'élevant à 81 450,15 $ demandés par l'appelante et si cette dernière a agi avec diligence raisonnable lorsqu'elle a demandé les CTI refusés.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+8. Il invoque notamment les articles 165, 169, 221, 225, 228, 280, 286, 296 et 299 de la Loi de même que les dispositions du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants et de la Loi sur la Cour canadienne de l'impôt.
+9. Il soutient que l'appelante a omis de tenir des registres appropriés, contrairement aux exigences de l'article 286 de la Loi.
+10. Il soutient que le montant des CTI demandés ne correspondait pas aux renseignements dont le ministre disposait.
+11. Il soutient que le ministre a, à juste titre, refusé les CTI s'élevant à 81 450,15 $ demandés par l'appelante relativement au travail donné en sous-traitance parce que cette dernière n'a pas tenu ni obtenu des documents suffisants, contrairement aux exigences du paragraphe 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+12. Il soutient que le ministre a, à juste titre, établi à l'égard de l'appelante une nouvelle cotisation visant la taxe nette à verser ainsi que les pénalités et les intérêts connexes conformément aux articles 165, 169, 221, 225, 228, 280, 286, 296 et 299 de la Loi et au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+13. Il soutient que l'appelante n'a pas agi avec diligence raisonnable en ce qui a trait à la partie IX de la Loi et, en particulier, à la demande de CTI relative au travail donné en sous-traitance.
+[7] Dans l'affaire Unique Drywall Ltd., numéro d'appel 2002-4233(GST)I, l'avis d'appel est, pour l'essentiel, rédigé de la même façon que celui déposé dans l'affaire Unic Drywall Ltd. et reproduit ci-dessus, sauf que les trois derniers paragraphes de l'avis, dans l'affaire Unic Drywall Ltd., sont remplacés par le paragraphe suivant :
+[TRADUCTION]
+[...]
+· Nous avançons que l'ADRC refuse les CTI demandés par notre cliente et qu'elle exige le paiement d'une pénalité et d'intérêts tout en poursuivant le fournisseur des services, lequel a cessé d'être un petit fournisseur. Une cotisation est ensuite établie relativement à ces fournisseurs (pour les mêmes montants de TPS que ceux à l'égard desquels on refuse les CTI demandés par notre cliente), ce qui donne lieu à un gain inattendu pour l'ADRC. Nous disposons d'éléments établissant ces mesures.
+[8] La Cour se penchera ultérieurement sur les observations faites par le représentant des trois appelantes et par l'avocat de l'intimée dans le cadre des trois appels.
+[9] Dans les extraits suivants de la réponse à l'avis d'appel relativement à l'affaire Brothers Drywall Inc., numéro d'appel 2002-4234(GST)I, on tente d'expliquer les questions en litige soulevées dans celle-ci :
+En réponse à l'avis d'appel touchant l'avis de nouvelle cotisation no 08EP118133446, daté du 17 septembre 2002 (la « cotisation » ), pour la période allant du 21 avril 1995 au 31 mars 1999 (la « période » ), le sous-procureur général du Canada affirme :
+A. EXPOSÉ DES FAITS
+[...]
+2. Quant à l'avis d'appel, il reconnaît uniquement que l'appelante ne disposait pas, contrairement aux exigences du paragraphe 169(4) de la Loi sur la taxe d'accise, L.R.C. (1985), ch. E-15, et ses modifications (la « Loi » ), et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants, de documents suffisants relatifs aux crédits de taxe sur les intrants (les « CTI » ) refusés par le ministre du Revenu national (le « ministre » ) pour la période en cause.
+3. Il nie que l'appelante a agi avec diligence raisonnable en ce qui a trait à la partie IX de la Loi.
+[...]
+6. Par voie d'un avis de nouvelle cotisation daté du 18 juillet 2000 et portant le numéro 05DP0015098, le ministre a refusé les CTI de 138 053,19 $ pour la période. Le ministre a également appliqué une pénalité pour versement tardif de 37 627,04 $ et exigé le paiement d'intérêts de 28 483,89 $.
+7. Par suite de l'avis d'opposition produit en réponse à l'avis de nouvelle cotisation portant le numéro 05DP0015098, le ministre, au moyen de la cotisation, a réduit les CTI refusés à 35 249,35 $ pour la période. Le ministre a en outre appliqué une pénalité pour versement tardif de 6 851,57 $ et exigé le paiement d'intérêts de 5 148,44 $. La cotisation supprimait également les sommes antérieurement imposées en application du paragraphe 298(4) de la Loi au titre des CTI demandés par l'appelante entre le 21 avril 1995 au 31 mars 1996, et faisait droit aux CTI dans la mesure où des documents suffisants étaient présentés dans le cadre du processus d'avis d'opposition.
+8. L'appelante a produit un avis d'opposition contre la cotisation et le ministre a confirmé la cotisation le 18 juin 2002.
+9. Lorsqu'il a établi cette nouvelle cotisation à l'égard de l'appelante sur le fondement de la cotisation, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) l'appelante exploitait une entreprise de pose de cloisons sèches;
+b) l'appelante a déclaré avoir perçu la taxe sur les produits et services (la « TPS » ) pour un montant de 572 929,20 $ et elle a demandé des CTI de 449 458,64 $, ce qui lui a permis de déclarer un montant de taxe nette à verser de 123 470,56 $ pour la période;
+c) l'appelante a omis de tenir des registres suffisants pour la période;
+d) l'appelante ne disposait pas de documents suffisants pour permettre au ministre de faire droit aux CTI se chiffrant à pas moins de 35 249,35 $;
+e) l'appelante n'a pas agi avec diligence raisonnable en ce qui concerne la demande de CTI, aux termes du paragraphe 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants;
+f) l'appelante était tenue de déclarer un montant de taxe nette à verser d'au moins 158 719,91 $.
+[Il convient de signaler que la somme de 35 249,35 $ correspond à la différence entre 158 719,91 $ et 123 470,56 $.]
+B. QUESTIONS EN LITIGE
+10. Les questions en litige consistent à savoir si le ministre a, à juste titre, refusé d'accorder les CTI s'élevant à 35 249,35 $ demandés par l'appelante et si cette dernière a agi avec diligence raisonnable lorsqu'elle a demandé les CTI refusés.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+11. Il invoque notamment les articles 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 et 301 de la Loi de même que les dispositions du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants et de la Loi sur la Cour canadienne de l'impôt.
+12. Il soutient que l'appelante a omis de tenir des registres appropriés, contrairement aux exigences de l'article 286 de la Loi.
+13. Il soutient que le montant des CTI réclamés ne correspondait pas aux renseignements dont le ministre disposait.
+14. Il soutient que le ministre a, à juste titre, refusé les CTI s'élevant à 35 249,35 $ demandés par l'appelante parce que cette dernière n'a pas tenu ni obtenu des documents suffisants, contrairement aux exigences du paragraphe 169(4) de la Loi et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+15. Il soutient que le ministre a, à juste titre, établi à l'égard de l'appelante une nouvelle cotisation visant la taxe nette à verser ainsi que les pénalités et les intérêts connexes conformément aux articles 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 et 301 de la Loi et au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+16. Il nie que l'appelante a agi avec diligence raisonnable en ce qui a trait à la partie IX de la Loi.
+[10] Dans l'affaire Brothers Drywall Inc., numéro d'appel 2002-4234(GST)I, l'avis d'appel est, pour l'essentiel, rédigé de la même façon que celui déposé dans l'affaire Unic Drywall Ltd., sauf que les trois derniers paragraphes de l'avis, dans l'affaire Unic Drywall Ltd., sont remplacés par le paragraphe suivant :
+[TRADUCTION]
+[...]
+· Nous avançons que l'ADRC refuse les CTI demandés par notre cliente et qu'elle exige le paiement d'une pénalité et d'intérêts tout en poursuivant le fournisseur des services, lequel a cessé d'être un petit fournisseur. Une cotisation est ensuite établie relativement à ces fournisseurs (pour le même montant de TPS que celui à l'égard duquel on refuse les CTI demandés par notre cliente), ce qui donne lieu à un gain inattendu pour l'ADRC. Nous disposons d'éléments établissant ces mesures.
+OBSERVATIONS DU REPRÉSENTANT DES APPELANTES
+[TRADUCTION]
+[...]
+En ce qui concerne la plaidoirie finale, mon approche comporte deux volets. L'un d'eux concerne Unic et le fait que le ministre a examiné plus de quatre années. Je vais donc commencer avec ce point.
+Les ventes qu'ils ont invoquées et ont qualifiées d'importantes ne sont pas, à proprement parler, des ventes ni des recettes provenant de la TPS. Les deux opérations consistaient en un remboursement, d'une société à l'autre, pour services rendus; l'autre visait le transfert d'un véhicule d'une société à l'autre, qui avait cessé ses opérations. Le seul élément qui aurait pu constituer une vente était une somme de 364,00 $ et la TPS. Et l'autre, seulement une opération qui englobe le même bien, faisant l'objet d'une cotisation au titre d'un immeuble, soit une somme de 12 652,71 $. Toutes ces sommes totalisent 46 000,00 $. À mon sens, je ne crois pas que le ministre a satisfait au critère applicable à l'établissement d'une cotisation visant plus de quatre années. C'est tout ce que j'ai à dire au sujet d'Unic.
+Quant à Brothers et Unique, au paragraphe 169(4) de la Loi et aux autres éléments qui doivent être joints, ma cliente ne répond pas à la définition telle qu'elle est énoncée. Cependant, il existait une piste documentaire montrant qu'elle payait la TPS aux sous-traitants, dont la plupart signaient les reçus après coup. Ce n'est pas la meilleure façon de procéder, mais c'est ainsi que nous avons pu, à la dernière minute, tenter de limiter rétrospectivement les dommages, pour ainsi dire.
+Ce que j'ai tenté de montrer plus tôt, c'est que j'ai eu des clients qui se trouvaient dans la situation inverse, où l'ADRC poursuivait le sous-traitant ou tout autre entrepreneur, quant à cela, dont certains n'avaient rien à voir avec les cloisons sèches. En théorie, un crédit d'impôt peut être refusé à un sous-traitant, même si ses ventes sont supérieures à 30 000,00 $, et l'ADRC peut poursuivre ce sous-traitant sur le fondement de la même opération que celle à l'égard de laquelle on a initialement refusé le CTI. Et j'ai des exemples de cas où l'ADRC est retournée dix ans en arrière. Je ne crois donc pas que la loi a été rédigée pour permettre à la Couronne d'obtenir un gain inattendu, mais c'est ce qui se produit en réalité dans la présente affaire.
+J'ai mentionné les sommes qui, je crois, sont pertinentes au regard de la cotisation. J'ai beaucoup de difficulté à comprendre comment on peut établir la cotisation rétrospectivement, sans tenir compte de - particulièrement à une aussi grande échelle. Il s'agit d'une somme totale d'environ 1 300 000,00 $, soit le montant de la cotisation initiale, et sans procéder à une analyse appropriée des sous-traitants concernés, je veux dire qu'il s'agit peut-être là de la politique suivie par l'ADRC, mais je pense plutôt que davantage d'attention devrait être prêtée aux sous-traitants pour décider si, en définitive, la cotisation est légitime.
+Selon les sommes que j'ai calculées et la période pour laquelle l'ADRC a refusé tous les CTI demandés au titre de la sous-traitance, la somme totale à laquelle je suis arrivé est plus élevée que celle qui est mentionnée dans les états financiers. Comment est-ce possible? Je n'arrive pas à expliquer ce fait. Et, comme ils ont examiné les états financiers, pour vérifier les recettes provenant de la TPS, il aurait été logique de vérifier aussi les dépenses à l'aide de ces états financiers. Je crois que la cotisation est exagérée à la lumière des calculs que j'ai effectués.
+Et aussi l'autre point, je suppose, qui concerne la diligence raisonnable et la pénalité imposée aux trois sociétés. Si un contribuable ou un représentant obtient un avis de l'ADRC relatif à la façon de traiter certains éléments, et qu'on décide ensuite que cette méthode est fautive, le ministère fait habituellement preuve d'une certaine tolérance et on ne voit jamais la cotisation. Je ne vois pas trop en quoi c'est différent lorsqu'un vérificateur examine une déclaration et les CTI et qu'il y a peut-être des erreurs, peut-être qu'ils ne l'ont même pas regardée, mais ils n'ont jamais fait de mise en garde à ce moment. Je trouve seulement injuste d'imposer des pénalités sept ou huit ans après la conclusion d'opérations qui auraient pu être signalées plus tôt, si elles étaient erronées, alors que l'occasion s'était présentée pour le faire.
+Je comprends qu'il soit impossible de vérifier chaque déclaration, mais il existe des contrôles et des mécanismes qui permettent d'éviter ce genre de chose. Je crois donc que le gouvernement a contribué à ce que cette situation se produise et je crois qu'il est injuste d'appliquer une pénalité lorsque les faits sont finalement découverts.
+Je pense que c'est tout ce que j'ai à dire, monsieur le juge.
+OBSERVATIONS DE L'AVOCAT DE L'INTIMÉE
+[11] Voici quelques-unes des observations formulées par l'avocat de l'intimée :
+[TRADUCTION]
+Mes observations porteront d'abord sur le droit général au CTI et ensuite sur la question des années pour lesquelles les déclarations seraient frappées de prescription en ce qui touche la société Unic.
+Monsieur le juge, la question en litige en l'espèce, du point de vue de l'intimée à tout le moins, est réellement très simple. Il s'agit de savoir si les sociétés appelantes ont droit à certains CTI demandés en application de l'article 169 de la Loi sur la taxe d'accise. Très simplement, l'intimée soutient que l'appelante n'a pas droit aux CTI demandés parce qu'elle a omis de fournir, et n'a jamais fourni, les documents ou les renseignements précisés dans la Loi sur la taxe d'accise qui l'auraient autorisée à présenter sa demande et à établir que les dépenses avaient été engagées.
+À ce stade-ci, il importe en outre de mentionner immédiatement que l'appelante ne paraît pas avoir fait quoi que ce soit pour ébranler les hypothèses de l'intimée. Il semble qu'elle a plutôt admis le fait qu'elle n'a pas satisfait aux exigences fixées au paragraphe 169(4), [...]
+[12] L'avocat de l'intimée poursuit en renvoyant au paragraphe 169(4) de la Loi sur la taxe d'accise. Cette disposition est ainsi rédigée :
+L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[13] L'avocat de l'intimée ajoute :
+[TRADUCTION]
+[...]
+les renseignements visés par règlement sont ceux prévus par le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants, lequel précise ce qui suit : [...]
+Premièrement, la date de la facture ou la date à laquelle il y a un montant de taxe payée ou payable - sous-alinéas 3a)(ii) et (iii).
+Deuxièmement, le numéro d'inscription attribué au fournisseur, conformément à l'article 241 de la Loi sur la taxe d'accise - sous-alinéa 3b)(i).
+Et, enfin, les modalités de paiement - sous-alinéa 3c)(iii).
+Aucun des reçus fournis n'indiquent les modalités de paiement, en espèces ou par un autre mode de paiement. Nous avons néanmoins admis les reçus, lesquels comprenaient un numéro d'inscrit, bien que je renvoie à la troisième exigence. Il existe en réalité plusieurs autres exigences, mais celles mentionnées plus haut sont les plus pertinentes au présent appel, monsieur le juge.
+Les affaires sont très simples. L'appelante s'est vu refuser les CTI demandés dans les cas où aucun de ces renseignements n'a été fourni, soit, pour l'essentiel, quand il n'y avait pas de reçus portant un numéro d'inscrit pour la TPS. Le présent appel devrait être rejeté sur ce seul fondement, à tout le moins dans la mesure où il vise Unique et Brothers Drywall, [...]
+[14] L'avocat invoque la décision Alexander Nix Group Inc. c. Canada, [2002] A.C.I. no 437, dans laquelle le juge McArthur renvoie à la décision Helsi Construction Management Inc. c. La Reine, [2001] A.C.I. no 149, où le juge Bowman fait les observations suivantes :
+Nous avons affaire à l'une des conditions techniques prévues par une loi qui est quelque peu unique par sa particularisation. En outre, il s'agit là du fondement d'un régime d'autocotisation visant le monde du commerce. Aussi malheureux que cela puisse paraître pour l'appelante, les règles sont les règles. Je ne peux rien faire pour l'aider sur ce point.
+[...]
+Bien qu'il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu'obligatoires [...], ce n'est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d'accise.
+[15] L'avocat invoque également la décision Rapid Transit Courier v. The Queen, [2000] A.C.I. no 465. Voici ce que mentionne la Cour au paragraphe 14 de cette décision :
+[TRADUCTION]
+Plusieurs décisions portent précisément sur la question en litige et, à ma connaissance, aucune d'entre elles ne joue en faveur du contribuable qui demande des CTI au titre de factures sur lesquelles ne figurent pas le numéro d'inscrit du fournisseur ou des sous-traitants, ou lorsque leur numéro d'inscrit n'était pas autrement communiqué.
+[16] L'avocat de l'intimée fait ensuite les observations suivantes :
+[TRADUCTION]
+À l'appui de sa conclusion, la Cour a renvoyé à la décision San Clara Holdings, laquelle se trouve à l'onglet 7 du présent recueil de jurisprudence et de doctrine; à la décision Design Build Ltd., dans un arrêt de la Cour d'appel fédérale que je n'ai pas joint au recueil; et aussi à la décision Metro Exteriors, laquelle est jointe à l'onglet 10.
+Monsieur le juge, la façon dont la Cour a résumé la question correspond exactement à l'affaire qui nous occupe aujourd'hui. Les demandes de CTI ont été refusées simplement en raison de l'absence de documents, notamment un numéro d'inscrit valide pour la TPS. Et cela constituait l'unique raison pour refuser les CTI.
+J'hésite à mentionner, monsieur le juge, qu'on a fait preuve d'une certaine indulgence en l'espèce. Comme nous l'avons vu, on a renoncé à toutes les années pour lesquelles les déclarations sont frappées de prescription dans les cas Unique et Brothers. On a renoncé aux pénalités dans le cas Unic. Et, en réalité, on a même fait preuve d'une certaine indulgence à l'égard des parties dont l'inscription a été annulée puisque les demandes de CTI connexes ont été acceptées. Mais, pour l'essentiel, monsieur le juge, la preuve de l'intimée relève précisément de cette jurisprudence et, en réalité, de tous les autres précédents.
+[...]
+Je voudrais seulement ajouter quelques brèves observations avant de parler d'Unic. Je souhaite aborder un des autres points soulevés par mon ami. Si je comprends bien son argument, il avance que, comme les trois sociétés ont fait l'objet d'une vérification en 1991 et comme il n'y avait aucun problème touchant les demandes de CTI telles qu'elles étaient présentées à l'époque, la Couronne se trouverait en quelque sorte dans une situation de préclusion. Monsieur le juge, je n'ai pas de jurisprudence sur ce point avec moi, mais je crois qu'il est généralement reconnu que le ministre n'est pas lié par une cotisation antérieure ni même par les actes accomplis par un vérificateur ou un agent des appels au cours d'une année d'imposition antérieure. Il existe de la jurisprudence à cet effet. Par exemple, TransCanada Pipelines v. The Queen, et la référence, si elle peut vous être utile, est [2002] 1 CTC 43, et il s'agit d'un arrêt de la Cour d'appel fédérale. De même, la décision La Reine v. Bowater Mersey, dont la référence est [1987] 2 CTC 159.
+J'invoque ces décisions, monsieur le juge, uniquement pour souligner que le fait que le ministre n'a pas signalé, si je puis dire, ou corrigé le comportement de l'appelante en 1991 ou à l'occasion d'une cotisation antérieure en l'avisant qu'elle devait produire ses déclarations relatives aux CTI de la façon appropriée n'a aucune incidence sur la présente affaire.
+Enfin, monsieur le juge, dans le cas d'Unic, l'intimée prétend qu'elle peut même examiner les années pour lesquelles les déclarations sont frappées de prescription. Ce pouvoir est conféré au paragraphe 298(4), [...] de la Loi sur la taxe d'accise. [...] Je vais vous lire cette disposition.
+Une cotisation peut être établie à tout moment si la personne visée a [...] fait une présentation erronée des faits, par négligence, inattention ou omission volontaire.
+Cette disposition est très semblable au paragraphe 152(4) de la Loi de l'impôt sur le revenu et la question de savoir si une personne a, premièrement, fait une présentation erronée et, deuxièmement, agi par négligence, inattention ou omission volontaire constitue en réalité une question de fait.
+Monsieur le juge, l'intimée avance qu'une présentation erronée a manifestement été faite en l'espèce. Le fait que l'appelante a demandé des CTI même si aucun numéro de TPS n'a été fourni est contraire à la loi. Il s'agit, selon moi, d'une preuve prima facie établissant l'existence d'une présentation erronée qui équivaut à de la négligence. Je crois, monsieur le juge, que c'est dans la pièce R-2, soit la lettre datée du 24 novembre 1999, au paragraphe 3, que l'aide-comptable de l'appelante a effectivement reconnu qu'il y avait eu négligence lorsqu'elle a affirmé ce qui suit :
+[TRADUCTION]
+Nous avons remarqué une certaine négligence de notre part, mais elle paraissait en grande partie être le fait de sous-traitants à qui nous avons payé de la TPS.
+À nouveau, monsieur le juge, il semble que l'appelante reconnaisse avoir fait preuve d'une certaine négligence lorsqu'elle a demandé des CTI sans d'abord s'assurer qu'elle y avait droit.
+Troisièmement, monsieur le juge, il y a le témoignage du directeur même de la société. Je dois avouer que je n'étais pas sûr de savoir à quelle version ou à quelle politique il recourait pendant les années d'imposition en cause. Je lui ai demandé s'il existait des contrôles permettant de vérifier que la TPS n'était payée qu'aux personnes ayant un numéro de TPS; il a répondu par l'affirmative en alléguant que la société s'assurait que c'était bien le cas. Je lui ai donc demandé d'expliquer la méthode par laquelle la société procédait à cette vérification. Il a déclaré qu'il n'en savait rien et que l'aide-comptable se chargeait de toutes ces questions. Il semblait en outre qu'il prétendait que le droit aux CTI reposait sur le montant de TPS payée aux sous-traitants, sans égard à la question de savoir si ces derniers détenaient un numéro d'inscrit.
+Quatrièmement, monsieur le juge, il y a l'écart constaté relativement aux ventes. Selon l'intimée, cet élément aussi laisse croire à une preuve prima facie montrant l'existence d'une présentation erronée attribuable à tout le moins à de la négligence, ce qui justifierait que nous établissions une nouvelle cotisation à l'égard des années d'imposition pour lesquelles les déclarations seraient, autrement, frappées de prescription.
+Enfin, sur ce point, il faut signaler l'absence totale de documents disponibles à Unic, ou fournis par cette dernière, en ce qui a trait aux CTI; aucune note ni aucune facture n'était conservée. Les seuls documents communicables, semble-t-il, étaient les chèques, lesquels ne portent aucun numéro de TPS, ce qui constitue un autre indice de négligence de la part de l'appelante.
+Monsieur le juge, nous soutenons que le présent appel doit être rejeté dans son ensemble. Je n'ai aucune autre observation à faire, sous réserve de toute question que vous pourriez vouloir me poser.
+ANALYSE ET DÉCISION
+[17] À mon avis, les observations de l'avocat de l'intimée sont fondées. En outre, il appartient aux appelantes d'établir que les nouvelles cotisations sont erronées et de réfuter les hypothèses énoncées dans les réponses de l'intimée, ce qu'elles n'ont pas fait.
+[18] De plus, les livres et registres des appelantes étaient incomplets ou inadéquats. L'article 169 de la Loi sur la taxe d'accise précise quand le crédit de taxe sur les intrants est accordé. L'avocat de l'intimée a cité le paragraphe 169(4) et a renvoyé aux dispositions pertinentes du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Il ajoute que les appelantes n'ont pas satisfait aux exigences applicables.
+[19] L'avocat de l'intimée fait également état de l'indulgence appréciable dont l'ADRC a fait preuve pour arriver à ses décisions définitives, et c'est ce qui ressort du témoignage de D. W. Thorpe, agent des appels de l'ADRC.
+[20] Pour toutes les raisons susmentionnées, les appels sont rejetés. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 8e jour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI598
+NOS DES DOSSIERS DE LA COUR :
+2003-493(GST)I
+2002-4233(GST)I
+2002-4234(GST)I
+INTITULÉ DE LA CAUSE :
+Unic Drywall Ltd. c. Sa Majesté la Reine
+Unique Drywall Ltd. c. Sa Majesté la Reine
+Brothers Drywall Inc. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 22 janvier 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable T. O'Connor
+DATE DU JUGEMENT :
+Le 7 octobre 2004
+COMPARUTIONS :
+Représentant des appelantes :
+M. Warren B. Viegas
+Avocat de l'intimée :
+Me Joel Oliphant
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Cabinet :
+Pour l'intimée :
+Me Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

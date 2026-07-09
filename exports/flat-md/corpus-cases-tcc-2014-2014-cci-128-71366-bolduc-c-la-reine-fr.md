@@ -1,0 +1,187 @@
+---
+title: "Bolduc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71366/index.do"
+last_modified: "2014-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 128"
+citation2: ""
+neutral_citation: "2014 CCI 128"
+decision_date: "2014-04-30"
+language: "fr"
+item_id: "71366"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5296
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:59:09.268000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dcd5342bfb25d144de5b5b070f9aef7fea0d5f22b5ba13bfd5a4fa5ef6e8fce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bolduc c. La Reine
+
+- Citation: 2014 CCI 128
+- Decision date: 2014-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5296, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-30
+Référence neutre
+2014 CCI 128
+Numéro de dossier
+2012-816(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-816(IT)G
+ENTRE :
+BRIAN BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 23 avril 2014 à Ottawa (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me James Rhodes
+Avocat de l’intimée :
+Me Paul Klippenstein
+ORDONNANCE
+Après examen d’une requête de l’appelant en vue d’obtenir une ordonnance obligeant les parties à déposer et à se signifier mutuellement une liste des documents conformément à l’article 82 des Règles de la Cour canadienne de l’impôt (procédure générale);
+La requête est rejetée, conformément aux motifs ci‑joints;
+Les dépens sont adjugés à l’intimée.
+Signé à Toronto (Ontario), ce 30e jour d’avril 2014.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 12e jour d’août 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014CCI128
+Date : 20140430
+Dossier : 2012-816(IT)G
+ENTRE :
+BRIAN BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge V. A. Miller
+[1] L’appelant a présenté une requête dans laquelle il demande :
+a) une ordonnance obligeant les parties à déposer et à se signifier mutuellement une liste des documents conformément à l’article 82 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+b) une ordonnance autorisant l’appelant à mener un autre interrogatoire préliminaire oral d’un représentant de l’intimée au courant des documents figurant dans la liste des documents de l’intimée signifiée à l’appelant conformément à l’ordonnance demandée ci-dessus;
+c) une ordonnance concernant les dépens de la présente requête.
+[2] Le seul point en litige en l’espèce est de savoir si l’appelant est passible des pénalités pour faute lourde qui ont été établies à son encontre à l’égard d’une déduction pour fausses pertes d’entreprise demandée dans sa déclaration de revenus pour 2009.
+[3] Les parties conviennent des faits qui suivent.
+[4] En 2009, l’appelant a participé à un système d’économie d’impôt (le « système ») offert par Solutions 21 Financial (« Solutions 21 »). Selon ce système, l’appelant a inscrit dans sa déclaration de revenus de 2009 un revenu d’affaires brut de 100 209,59 $ et des dépenses d’affaires de 426 336,97 $ qu’il avait décrites comme un [traduction] « montant du mandataire au mandant ». L’appelant a demandé une déduction pour pertes nettes d’entreprise de 326 127,38 $.
+[5] L’appelant a appliqué les pertes d’affaires à son revenu d’emploi de 2009, de sorte qu’il n’avait plus aucun impôt fédéral à payer. Il a également demandé que le reste de la perte soit reportée sur ses années d’imposition 2006, 2007 et 2008 afin qu’il puisse recevoir un remboursement de l’impôt payé pendant ces années.
+[6] Le ministre du Revenu national (le « ministre ») a refusé les pertes nettes d’entreprise et a imposé une pénalité pour faute lourde de 42 028,51 $ à l’appelant.
+[7] L’appelant n’a reçu aucun des remboursements qu’il avait demandés.
+[8] L’appelant ne possédait pas d’entreprise en 2009.
+[9] Les parties ont déjà échangé les listes de documents conformément à l’article 81 des Règles, et elles ont procédé aux interrogatoires préalables oraux.
+La position de l’appelant [10] L’appelant estime que les pénalités pour faute lourde n’auraient pas dû lui être infligées, parce qu’il croyait que le système qu’on lui a fait miroiter, à lui et à des milliers d’autres contribuables, était légitime. Pour établir que sa négligence ne pouvait être considérée comme une faute lourde, il a soutenu avoir agi de façon raisonnable dans les circonstances en comparant ses actes à ceux d’une « personne raisonnable ». L’appelant a allégué qu’il devait être à même d’exposer l’intégralité des circonstances du système et le fait que de nombreux autres contribuables y avaient également participé.
+[11] J’ai conclu des observations de l’avocat qu’il soutiendra qu’il entend par « personne raisonnable » toutes les autres personnes qui ont demandé une déduction pour fausses pertes d’entreprise dans leur déclaration, dans des circonstances analogues à celles de l’appelant.
+[12] L’avocat de l’appelant a déclaré que le ministre avait un projet de vérification de ce système et que cela concernait des milliers de contribuables. Le ministre a fait un contrôle du projet de vérification, des cotisations qui en ont découlé et des enquêtes. De l’avis de l’appelant, le ministre possède des documents qui l’aideront à établir ce que la personne raisonnable a fait et/ou ce qui était raisonnable dans des circonstances analogues à celles de l’appelant.
+[13] Dans le cadre de son Avis de requête, l’appelant a inclus l’affidavit utilisé par un agent de l’Agence du revenu du Canada (l’« ARC ») pour obtenir des mandats de perquisition à l’endroit des promoteurs de Fiscal Arbitrators. (Fiscal Arbitrators exploitait également un système d’économie d’impôt identique à celui dont Solutions 21 faisait la promotion.) L’avocat de l’appelant a demandé tous les documents utilisés pour obtenir les mandats de perquisition; tous les documents obtenus à la suite de l’exécution des mandats d’exécution; les noms de tous les employés de l’ARC qui connaissent le système et des systèmes analogues; tous les documents que l’ARC aurait en sa possession concernant le système et des systèmes analogues, ainsi que les dossiers de l’ARC concernant tous les contribuables qui ont fait l’objet d’une cotisation au titre de ce système ou de systèmes analogues à celui-ci. L’avocat a déclaré que, si la présente requête relative à l’article 82 était accueillie, cela réduirait le nombre d’assignations à témoigner qui devrait être établi pour l’audition de l’appel.
+La Loi [14] L’article 82 des Règles est en partie ainsi libellé :
+(1) Les parties peuvent convenir ou, en l’absence d’entente, demander à la Cour d’émettre une ordonnance obligeant chaque partie à déposer et à signifier à l’autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui sont pertinents à toute question en litige entre les parties à l’appel.
+[15] La partie demandant la pleine divulgation des documents au titre de l’article 82 doit établir qu’ils sont pertinents aux points en litige et établir que des motifs légitimes justifient son prononcé : Mintzer c. R., 2008 CCI 72.
+[16] Pour rendre une décision de communication intégrale, la Cour doit être convaincue que cela permettra d’assurer la résolution équitable de l’instance de la façon la plus expéditive et la moins onéreuse : paragraphe 4(1) des Règles.
+[17] Conformément au paragraphe 4(1) des Règles, la Cour doit également se demander si les questions visées par l’appel sont telles que les frais et les heures supplémentaires nécessaires pour réunir les documents demandés sont justifiés : Long c. R., 2010 CCI 197, au paragraphe 17. Les objectifs d’efficacité, d’efficience, d’aspect pratique et la nécessité de poursuivre l’affaire jouent également un rôle dans la décision de la Cour en matière de communication intégrale : Canadian Imperial Bank of Commerce v. R., 2013 TCC 170, au paragraphe 106.
+[18] La Cour, en décidant s’il y avait lieu d’exercer son pouvoir discrétionnaire et d’accorder une ordonnance de communication intégrale des documents, a également tenu compte de l’importance du principe de proportionnalité dans les litiges de nature fiscale. Dans la décision Canadian Imperial Bank of Commerce, précitée, le juge Jorre déclarait :
+[traduction]
+109 Les deux parties disposent de ressources d’importance, le montant de l’impôt en jeu est loin d’être négligeable et il semble que des questions graves et importantes soient à trancher. Dans le sens dont on aborde souvent la question de proportionnalité, le problème ne se pose probablement pas ici.
+110 Toutefois, il existe une longue tradition en matière fiscale, qui est d’essayer, dans la mesure du possible, de réduire le temps et les efforts à l’étape de la conférence préparatoire. Cela se reflète dans le choix de l’article 81 des Règles en tant que règle implicite. On pourrait soutenir que cette tradition est en quelque sorte la prise en considération de la proportionnalité, bien que, à ma connaissance, les discussions concernant la proportionnalité soient bien plus récentes que cette tradition.
+[19] Bien que le fardeau de l’interrogatoire préalable doive demeurer proportionnel aux points en litige, aux intérêts et à l’argent en jeu dans un appel, la Cour doit également chercher à savoir si les documents demandés sont importants à l’égard d’un point en litige ou s’ils ajouteront une valeur importante à l’appréciation de la preuve par la Cour : Cameco Corporation v. R., 2014 TCC 45, aux paragraphes 42 et 43.
+Analyse [20] À mon avis, l’appelant n’a pas établi qu’il y avait lieu d’accorder en l’espèce la communication intégrale des documents. Il n’a pas prouvé que les documents qu’il a demandés ou les noms de tous les employés de l’ARC connaissant le système soient pertinents à l’égard du point en litige dans le présent appel.
+[21] La seule question que le juge du procès doit trancher en l’espèce est de savoir si l’appelant a demandé une déduction pour de fausses pertes d’entreprise « sciemment ou dans des circonstances équivalant à une faute lourde ». Dans une décision récente, Torres c. R., 2013 CCI 380, le juge Miller a analysé la jurisprudence en ce qui a trait aux peines pour faute lourde, dégageant les principes directeurs pris en considération dans ces affaires. Il résumait ainsi ces principes :
+Vu cette jurisprudence et les éléments de preuve qui m’ont été produits dans les six appels dont je suis saisi, je dégage les principes suivants :
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire.
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi, et il convient d’appliquer cette notion en l’espèce.
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouges clairs », expression que j’employais à l’occasin de l’affaire Bhatti, comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+[22] L’enquête, à l’audition du présent appel, portera sur des faits précis concernant la scolarité, l’expérience, la connaissance et la conduite de l’appelant. Les documents demandés par l’appelant ne sont pas pertinents par rapport aux faits et, en outre, les documents demandés n’ajouteront pas la moindre valeur à l’appréciation, par la Cour, des éléments de preuve concernant l’état d’esprit et les croyances de l’appelant. Une ordonnance de communication intégrale en l’espèce ne permettrait pas d’assurer la résolution équitable de l’instance de la façon la plus expéditive et la moins onéreuse.
+[23] L’avocat de l’appelant a déclaré que son objectif était d’établir pour quelle raison il était raisonnable, dans les circonstances, que l’appelant croie que le système était légitime. Il compte fonder son argument sur la notion de « personne raisonnable » et veut obtenir de l’information concernant les autres contribuables qui ont également déclaré de fausses pertes dans leurs déclarations de revenus. Toutefois, les renseignements personnels concernant les autres contribuables n’ont aucune pertinence à l’égard du présent appel : Sinclair c. R., 2003 CAF 348. J’estime que l’appelant dispose de suffisamment de renseignements pour établir l’argument de la « personne raisonnable ». L’intimée lui a déjà communiqué des données concernant le nombre de contribuables qui ont fait l’objet d’une vérification pour fausses pertes d’affaires pour la période s’étendant de 2009 à 2014. Je ne rends aucune décision en ce qui a trait à la pertinence de l’argument envisagé par l’appelant.
+[24] L’appelant a affirmé que le vérificateur avait fait état de renseignements, lorsqu’il avait décidé qu’une pénalité devrait lui être imposée, et ces renseignements n’ont pas été communiqués à l’appelant. À l’examen de la transcription de l’interrogatoire préalable, j’ai constaté que l’appelant avait conclu qu’il existait un dossier principal de [traduction] « la transcription des réponses et d’autres choses », que le vérificateur avait utilisé dans son rapport relatif à la pénalité. L’intimée a pris ce qui suit sous réserve :
+[traduction]
+Établir s’il existe un dossier principal auquel le vérificateur se rapportait relativement à cette cotisation et, le cas échéant, produire ce dossier principal.
+La réponse donnée à la question fut :
+[traduction]
+Le vérificateur n’a pas examiné de dossier principal concernant la présente cotisation.
+[25] À mon avis, l’intimée a répondu à la question qu’elle a prise sous réserve.
+[26] L’appelant a également affirmé que les documents obtenus par le ministre au cours de son enquête sur les promoteurs du système sont directement pertinents à son affaire. Même si ces documents peuvent aider l’appelant à établir le contexte du système, le coût et le temps nécessaire à cette communication intégrale des documents sont supérieurs à tout avantage éventuel pour l’appelant. On peut se demander si le contexte du système sera pertinent pour la question de savoir si l’appelant est passible de pénalités pour faute lourde, mais il vaut mieux laisser cette question au juge du procès.
+[27] En plus des motifs donnés ci-dessus, j’ai également conclu que le montant en jeu dans le présent appel (42 028,51 $) ne justifie pas les coûts qu’il faudrait engager pour se conformer à une ordonnance de communication intégrale des documents.
+[28] En conclusion, l’appelant n’a pas fait la preuve que les documents qu’il demande sont pertinents pour l’issue de son appel. Même si certains de ces documents pouvaient être pertinents, je ne suis pas convaincue que la communication intégrale permettrait d’assurer la résolution équitable de la question en appel de la façon la plus expéditive et la moins onéreuse. La requête est rejetée, avec dépens en faveur de l’intimée.
+Signé à Toronto (Ontario), ce 30e jour d’avril 2014.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 12e jour d’août 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014CCI128
+NO DU DOSSIER DE LA COUR :
+2012-816(IT)G
+INTITULÉ :
+BRIAN BOLDUC ET LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 avril 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE :
+Le 30 avril 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James Rhodes
+Avocat de l’intimée :
+Me Paul Klippenstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+James Rhodes
+Cabinet :
+Taxation Lawyers
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

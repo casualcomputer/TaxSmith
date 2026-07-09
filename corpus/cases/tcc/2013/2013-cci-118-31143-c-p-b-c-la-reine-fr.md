@@ -1,0 +1,179 @@
+---
+title: "C.P.B. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31143/index.do"
+last_modified: "2013-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 118"
+citation2: ""
+neutral_citation: "2013 CCI 118"
+decision_date: "2013-04-05"
+language: "fr"
+item_id: "31143"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4733
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:24:20.544000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90aeebe077f95818ca354798cf62d014caa0104ec60a8578faccb1e943d22731"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# C.P.B. c. La Reine
+
+- Citation: 2013 CCI 118
+- Decision date: 2013-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4733, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C.P.B. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-05
+Référence neutre
+2013 CCI 118
+Numéro de dossier
+2012-2155(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2155(IT)I
+ENTRE :
+C.P.B.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 mars 2013, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Aaron SanFilippo
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la décision rendue par le ministre du Revenu national relativement à la prestation fiscale canadienne pour enfants pour l’année de base 2010 est rejeté. Le dossier de la Cour sera mis sous scellés conformément aux motifs ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 118
+Date : 20130405
+Dossier : 2012-2155(IT)I
+ENTRE :
+C.P.B.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Mme B., appelante, interjette appel sous le régime de la procédure informelle de la décision du ministre du Revenu national (le « ministre ») de lui refuser la prestation fiscale canadienne pour enfants (la « PFCE ») à l’égard de sa fille pour l’année de base 2010. Le juge en chef Rip avait entendu cette affaire en ce qui a trait à des années antérieures, avant que les nouvelles règles relatives aux parents ayant la garde partagée soient introduites en 2010. Le juge en chef Rip avait établi que la garde de la fille de l’appelante était partagée, et donc, que la PFCE devait également être partagée, comme le ministre l’avait établi dans sa cotisation. Mme B. a soutenu que les circonstances avaient changé depuis, qu’elle était, pour la période en cause, le principal fournisseur de soins, et, en outre, que les nouvelles règles relatives aux parents ayant la garde partagée ne s’appliquaient pas. Je ne suis pas d’accord.
+[2] Il est entendu que la période à examiner en vue d’établir qui était le principal fournisseur de soins est la période qui s’étend de juin 2011 à juillet 2012 (la « période en cause »). J’ai entendu de longs témoignages au sujet de périodes antérieures, lesquels m’ont permis de mettre la situation en contexte, mais ma décision doit porter sur la période en cause en tant que telle.
+[3] Pendant la période en cause, la fille de l’appelante était âgée de 12 à 13 ans. Aux termes de l’entente de séparation conclue entre Mme B. et M. B., leur fille devait passer une semaine sur deux chez chacun de ses parents. C’est ce qu’elle a fait pendant la période en cause. Chez chacun de ses parents, elle avait sa propre chambre et bénéficiait d’un environnement sécuritaire. Mme B. prétend toutefois que, quand sa fille résidait chez son père, elle la voyait presque tous les jours et que sa fille passait chez elle après l’école. Je conclus que Mme B. a exagéré la situation, étant donné que pendant la période en cause, elle avait un ami de cœur à Montréal, à qui elle rendait régulièrement visite les semaines où elle n’avait pas la garde de sa fille. Mme B. a également déclaré qu’elle accompagnait sa fille à certaines de ses activités parascolaires pendant la semaine, mais il s’est avéré par la suite que sa fille avait cessé de participer à un grand nombre de ces activités pendant la période en cause.
+[4] Mme B. a prétendu qu’elle avait pris tous les rendez‑vous médicaux de sa fille, mais elle a reconnu que M. B. s’était également rendu à ces rendez‑vous. Mme B. a affirmé que sa fille commençait à faire des choix discutables, à sortir sans permission, à se servir des réseaux sociaux d’une manière inappropriée, à s’infliger des coupures et à abuser de l’alcool ou d’autres drogues. Elle a essayé de lui trouver de l’aide par l’intermédiaire de Durham Family Services (services à la famille de Durham) et d’un programme d’aide aux enfants, aux jeunes et aux familles, mais sa fille a en grande partie refusé cette aide. Mme B. a déclaré que M. B. avait minimisé le problème : pour reprendre les mots de Mme B., M. B. n’avait aucune méthode pour gérer le problème, mais Mme B. a quand même reconnu qu’elle avait appelé M. B. à quelques reprises pour qu’il lui vienne en aide quand les choses avaient échappé à son contrôle chez elle avec sa fille.
+[5] Mme B. a produit plusieurs reçus montrant qu’elle avait payé certains vêtements et articles pour sa fille. Elle a également produit des copies de courriels visant à rappeler à M. B. les rendez‑vous de leur fille. Tant M. B. que Mme B. étaient désignés comme personnes avec qui communiquer en cas d’urgence pour l’école de leur fille, selon celui des deux qui en avait la garde cette semaine‑là.
+[6] M. B. a déclaré qu’il s’était opposé à ce que Mme B. soit seule récipiendaire de toute la PFCE; il était persuadé qu’il était un parent ayant la garde partagée. Il a reconnu que même si sa fille avait reçu un diagnostic d’autisme, il avait toujours eu le sentiment qu’elle était totalement normale, mais qu’elle avait des difficultés de socialisation. Il a accepté plus facilement le fait que son fils était autiste.
+[7] M. B. a affirmé qu’il achetait tout ce dont sa fille avait besoin, mais qu’il ne conservait pas les reçus. Comme il l’a dit, quel est le parent qui conserve ses reçus après l’expiration de la période d’échange? Il a déclaré que sa fille avait besoin d’obtenir sa permission pour sortir et que lui aussi connaissait les amis de sa fille. Il ne se souvient pas qu’elle soit jamais sortie sans permission quand elle habitait avec lui. Il s’est dit en désaccord avec Mme B. quand celle‑ci a affirmé qu’il n’était pas disposé à aller consulter.
+[8] M. B. a confirmé que sa fille ne participait pas à beaucoup d’activités parascolaires, bien qu’il ait fait savoir qu’elle semblait aimer se rendre au chalet avec lui. Il a déclaré que Mme B. l’avait appelé à plusieurs reprises pour qu’il aille chercher leur fille chez elle et la ramène le lendemain matin.
+Analyse
+[9] Il convient de se familiariser avec certaines définitions importantes, qui se trouvent toutes à l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») :
+[…]
+« parent ayant la garde partagée » S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » ne s’applique pas à celle-ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi-égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[…]
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+c) elle réside au Canada ou, si elle est l’époux ou conjoint de fait visé d’une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l’année d’imposition qui comprend ce moment, y a résidé au cours d’une année d’imposition antérieure;
+d) elle n’est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l’immigration et la protection des réfugiés.
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration.
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[…]
+« personne à charge admissible » S’agissant de la personne à charge admissible d’un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n’est pas quelqu’un pour qui un montant a été déduit en application de l’alinéa 118(1)a) dans le calcul de l’impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l’année de base se rapportant au mois qui comprend ce moment;
+c) elle n’est pas quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+[10] La définition de « parent ayant la garde partagée » n’a été ajoutée à la Loi qu’en 2010, en même temps que le paragraphe 122.61(1.1). Avant cela, la Loi n’autorisait qu’un seul parent à être le particulier admissible pouvant recevoir la PFCE. Les tribunaux avaient de la difficulté à gérer cette restriction et faisaient souvent en sorte que les parents ayant la garde partagée reçoivent chacun la PFCE pour certains mois, ce qui revient à un partage de la PFCE. Les nouvelles règles permettent maintenant un partage simple de la PFCE quand les conditions nécessaires sont réunies.
+[11] Les nouvelles règles ne s’appliquent pas lorsque la présomption en faveur de la mère, énoncée à l’alinéa f) de la définition de « particulier admissible », s’applique. L’article 6301 du Règlement de l’impôt sur le revenu (le « Règlement ») précise que la présomption ne s’applique pas dans certaines circonstances, notamment si plus d’une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi; en d’autres mots, si les deux parents ont prétendu être le particulier admissible. M. B. a déclaré que c’est ce qu’il prétendait, et, par conséquent, la présomption énoncée à l’alinéa f) ne s’applique pas et les règles relatives aux parents ayant la garde partagée s’appliquent. Mais l’appelante prétend que non, que je ne dois pas tenir compte de cet élément de preuve crucial, et que je dois trancher le litige en partant du principe que les règles relatives aux parents ayant la garde partagée ne s’appliquent pas parce que l’intimée n’a pas avancé cet argument.
+[12] L’appelante ne peut pas jouer sur tous les tableaux. L’appelante ne peut pas présenter un avis d’appel vague, laissant l’intimée dans l’incertitude quant à la façon de plaider sa cause, et ensuite faire des difficultés à l’intimée parce qu’elle n’a pas répondu précisément à la question qui était véritablement en litige. L’appelante soutient que la réponse à l’avis d’appel ne contient ni hypothèses ni allégations de fait permettant de corroborer le fait que M. B. a présenté une demande, et que, par conséquent, l’intimée ne peut pas produire d’éléments de preuve en ce sens ou avancer un argument selon lequel les règles relatives aux parents ayant la garde partagée s’appliquent. Cela me semble déraisonnable pour les raisons suivantes :
+a) La cotisation en cause était fondée sur le fait que les règles relatives aux parents ayant la garde partagée s’appliquaient : c’est la question qui se trouve au cœur du litige en l’espèce, et les deux parties le savaient;
+b) L’avis d’appel était incomplet et on n’y trouvait aucune mention du fondement de l’appel, en dehors du fait que l’appelante contestait la cotisation.
+c) Il s’agit d’un appel entendu sous le régime de la procédure informelle, et il arrive souvent que chaque partie entende pour la première fois un témoignage. Dois-je faire la sourde oreille aux déclarations d’un témoin à chaque fois que celui‑ci me dit quelque chose qui n’avait pas été expressément mentionné dans la réponse? L’appelante se fonde sur la décision Fraser c La Reine[1], qui avait été entendue sous le régime de la procédure informelle, dans laquelle la juge Woods n’a pas autorisé l’intimée à soulever un argument à titre subsidiaire à l’audience parce qu’elle ne l’avait pas formulé dans sa réponse. La juge Woods n’a pas abordé la possibilité d’une demande de modification des actes de procédure. C’est ce que l’avocat de l’intimée a suggéré en l’espèce, ce que je trouve inutile. Dans la décision Fraser, l’appelante a fait clairement savoir que la question en litige avait trait à l’identité du principal fournisseur de soins, alors que, de toute évidence, la réponse ne portait que sur la question de la résidence et ne contenait aucune hypothèse relative au fournisseur de soins. En l’espèce, la situation n’est pas aussi évidente, et dans l’intérêt de la justice, j’admets les éléments de preuve de M. B. relatifs au fait qu’il a présenté une demande;
+d) La réponse soulève précisément le fait que les règles relatives aux parents ayant la garde partagée s’appliquent, ce qui implique que la présomption relative à la mère contenue dans la définition de « particulier admissible » ne s’applique pas.
+[13] Je suis d’avis que les règles relatives aux parents ayant la garde partagée doivent s’appliquer à la situation qui prévaut en l’espèce, pour éviter que les tribunaux doivent, comme ils l’ont si souvent fait dans le passé, manipuler les dispositions de la Loi afin de partager l’admissibilité à la PFCE sur une base mensuelle.
+[14] Ainsi, étant donné que les règles relatives aux parents ayant la garde partagée s’appliquent, comment s’appliquent‑elles à la situation de M. B. et Mme B? Il faut donc examiner si chacun d’eux assumait principalement la responsabilité pour le soin et l’éducation de leur fille quand celle‑ci résidait chez chacun d’eux. M. B. assumait‑il principalement cette responsabilité quand sa fille résidait avec lui?; Mme B. assumait‑elle principalement cette responsabilité quand sa fille résidait avec elle? La réponse à ces deux questions est « oui ». Après avoir passé en revue les critères prévus à l’article 6302 du Règlement en ce qui a trait à ce en quoi consistent le soin et l’éducation, il est clair que M. B. répondait à ces critères lorsque sa fille résidait avec lui, de la même manière que Mme B. répondait à ces critères lorsque sa fille résidait chez elle. Je conclus que chacun d’eux :
+a) surveillait les activités quotidiennes de sa fille;
+b) maintenait un milieu sécuritaire là où elle résidait;
+c) obtenait pour sa fille des soins médicaux ainsi que son transport aux endroits où ces soins étaient offerts. À cet égard, je note que Mme B. envoyait des rappels à M. B. relativement aux rendez-vous et qu’il se peut qu’elle ait pris plus de rendez-vous que lui. Mais cet élément ne pèse pas lourd dans la balance si on tient compte du fait de se rendre au rendez-vous en tant que tel. Aussi, il est clair que M. B. avait une opinion différente eu égard à la nécessité de ces rendez-vous. Cela relève du style d’éducation propre à chaque parent, par opposition à la question de savoir qui assume principalement la responsabilité pour le soin et l’éducation de l’enfant;
+d) prenait les dispositions nécessaires pour que sa fille participe à des activités parascolaires;
+e) subvenait aux besoins de sa fille quand elle était malade;
+f) veillait à l’hygiène corporelle de sa fille;
+g) était présent auprès de sa fille et la guidait.
+[15] Pour finir, l’entente de garde partagée était visée par une ordonnance judiciaire. Non, Mme B. ne m’a pas convaincu que, pendant que sa fille résidait chez M. B., elle continuait d’assumer principalement la responsabilité pour les soins de celle‑ci. Ce n’était pas le cas. Les règles relatives aux parents ayant la garde partagée s’appliquent, et l’appel de Mme B. doit par conséquent être rejeté.
+[16] À la demande des parties, le dossier de la Cour sera mis sous scellés et l’accès en sera restreint aux parties, à leurs représentants désignés, aux juges et aux agents du greffe de la Cour.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 118
+NO DU DOSSIER DE LA COUR : 2012-2155(IT)I
+INTITULÉ : C.P.B. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 mars 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 5 avril 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Aaron SanFilippo
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2010 CCI 23.

@@ -1,0 +1,150 @@
+---
+title: "Larivière c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28150/index.do"
+last_modified: "2003-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 768"
+citation2: ""
+neutral_citation: "2003 CCI 768"
+decision_date: "2003-11-18"
+language: "fr"
+item_id: "28150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1996
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:31:30.119000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1402bdeb308091543e94549db6fb7847adc10bb782642bbf091df2be329f1ae5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larivière c. M.R.N.
+
+- Citation: 2003 CCI 768
+- Decision date: 2003-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1996, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larivière c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-18
+Référence neutre
+2003 CCI 768
+Numéro de dossier
+2003-1656(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1656(EI)
+ENTRE :
+DANIEL LARIVIÈRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu 30 juillet 2003 à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de novembre 2003.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2003CCI768
+Date : 20031118
+Dossier : 2003-1656(EI)
+ENTRE :
+DANIEL LARIVIÈRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Québec (Québec), le 30 juillet 2003.
+[2] Il s'agit d'un appel portant sur le nombre d'heures d'emploi assurable et sur la rémunération assurable de l'emploi de l'appelant lorsqu'au service de Modulex Inc. « le payeur » au sens de la Loi sur l'assurance-emploi.
+[3] Le 17 avril 2003, le ministre du Revenu national (le « Ministre ») a informé l'appelant de sa décision selon laquelle la rémunération assurable de cet emploi, pour la période du 2 juillet au 21 octobre 2002, totalisait 20 163,90 $ et les heures assurables totalisaient 640.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises ou niées par l'appelant :
+a) le payeur a été constitué en société le 28 août 1968; (admis)
+b) le payeur exploitait une entreprise manufacturière de maisons préfabriquées; (admis)
+c) l'appelant avait été embauché comme directeur du marketing et des ventes; (admis)
+d) les tâches de l'appelant consistaient à diriger une équipe de vente en plus de vendre des maisons lui-même; (admis avec précisions)
+e) l'appelant travaillait presque toujours au bureau des ventes du payeur; (nié)
+f) le payeur rémunérait l'appelant sur une base de commission soit 10 % sur les premiers 600 000 $ de ventes annuelles et 3 % par la suite; (admis)
+g) l'appelant travaillait de 9 h 30–10 h 30 à 17 h du lundi au vendredi; (nié)
+h) selon le payeur, l'appelant a travaillé un soir et deux fins de semaine durant la période en litige; (nié)
+i) le payeur inscrivait l'appelant pour 40 heures de travail par semaine au journal des salaires; (ignoré)
+j) durant la période en litige, l'appelant a travaillé pendant 16 semaines pour le payeur; (admis)
+k) durant la période en litige, l'appelant a travaillé pendant 640 heures, soit 16 semaines de 40 heures par semaine. (nié)
+[5] La preuve a révélé que le payeur inscrivait au journal des salaires 40 heures de travail par semaine pour l'appelant. L'appelant a travaillé, pendant la période en litige, 16 semaines pour le payeur.
+[6] Selon les données fournies par le payeur, l'appelant aurait travaillé, pendant la période en litige, 640 heures, soit 16 semaines à 40 heures par semaine.
+[7] Il a été établi que la rémunération de l'appelant était prévue par l'entente entre le payeur et l'appelant, produite en preuve sous la cote I-1, sur une base de commission. C'est d'ailleurs admis par l'appelant.
+[8] L'appelant a prétendu que d'après son calcul, le nombre d'heures qu'il aurait travaillées se situe plutôt au niveau de 80 à 100 heures additionnelles à celui produit par le payeur.
+[9] Selon lui, il débutait son travail chez lui sur son ordinateur très tôt le matin et travaillait au bureau le soir et les fins de semaine. Selon la preuve, une employée subalterne l'aurait aperçu à l'occasion au bureau le soir. Le payeur, dans son calcul, est prêt à reconnaître que l'appelant travaillait, au maximum, de 10 h à 17 h et de 19 h à 21 h, cinq jours par semaine pour un total de 40 heures. Le payeur soutient que son enquête auprès des compagnons de travail de l'appelant n'arrive pas à justifier ce nombre d'heures, puisqu'il était rarement au bureau le vendredi et n'arrivait au bureau que tard les avant-midi, alors que d'autres répondaient à ses appels téléphoniques. Le payeur précise, en outre, que l'appelant ne s'est jamais prévalu de l'utilisation de l'ordinateur mis à sa disposition dans les bureaux adjacents. Sur ce point, la preuve amenée par le payeur a été plus objective, convaincante et digne de foi.
+[10] Le Règlement sur l'assurance-emploi prescrit ce qui suit à la Partie I – Prestations de chômage – Heures d'emploi assurables -– méthodes d'établissement :
+10.(1) Lorsque la rémunération d'une personne est versée sur une base autre que l'heure et que l'employeur fournit la preuve du nombre d'heures effectivement travaillées par elle au cours de la période d'emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d'heures d'emploi assurable.
+[11] Il s'agit donc d'un appel portant uniquement sur le nombre d'heures assurables.
+[12] Or, celui-ci a été établi par le Ministre qui s'est basé sur l'information fournie par le payeur, en application du paragraphe 10.(1) du Règlement sur l'assurance-emploi.
+[13] La présomption prévue au paragraphe 10.(1) n'ayant pas été réfutée par l'appelant, cette Cour doit confirmer la décision du Ministre à l'effet que le nombre d'heures assurables pendant la période en litige, est de 640; quant à la rémunération assurable, elle se chiffre à 20 163,90 $.
+[14] En conséquence, l'appel est rejeté et la décision prise par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick, ce 18e jour de novembre 2003.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2003CCI768
+No DU DOSSIER DE LA COUR :
+2003-1656(EI)
+INTITULÉ DE LA CAUSE :
+Daniel Larivière et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 30 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 18 novembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

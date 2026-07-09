@@ -1,0 +1,148 @@
+Title: Airport Auto Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26128/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-683-26128-airport-auto-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-30
+
+# Airport Auto Limited v. The Queen
+
+- Citation: 2003 TCC 683
+- Decision date: 2003-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4123, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Airport Auto Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-30
+Neutral citation
+2003 TCC 683
+File numbers
+2001-2831(GST)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-2831(GST)G
+BETWEEN:
+AIRPORT AUTO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 25, 2003 at Fredericton, New Brunswick
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Eugene J. Mockler, Q.C.
+Counsel for the Respondent:
+Peter J. Leslie
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated April 27, 2000 for the period January 1, 1997 to October 31, 1998, and bears number 01FE0100205, is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of September 2003.
+"Diane Campbell"
+Campbell, J.
+Citation: 2003TCC683
+Date: 20030930
+Docket: 2001-2831(GST)G
+BETWEEN:
+AIRPORT AUTO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell, J.
+[1] On April 27, 2000, a Notice of Assessment was issued pursuant to Part IX of the Excise Tax Act (the "Act") for the period January 1, 1997 to October 31, 1998. This Notice assessed the Appellant for failure to remit GST/HST on certain vehicle transactions and made adjustments to claimed input tax credits. Penalties were also charged.
+[2] At the outset of the hearing, counsel for each party filed a Partial Statement of Agreed Facts together with a Partial Consent to Judgment. As a result, no evidence was heard. Counsel presented submissions only.
+[3] The Appellant, a corporation, incorporated under the laws of the Province of New Brunswick, operates a used vehicle business in Moncton. It has been in the used car business for almost twenty-five years. I am reproducing the Partial Statement of Agreed Facts as it contains the essential background information:
+PARTIAL STATEMENT OF AGREED FACTS
+The Appellant and the Respondent, by their solicitors, agree to the following facts provided that: 1) such admissions are made for the purpose of these proceedings only; and 2) the parties are permitted to adduce additional evidence which is not contrary to these agreed facts.
+1. The Appellant was a GST registrant with GST Registration No. 100094713RT0001.
+2. The Appellant was a corporation involved in the sale of motor vehicles.
+3. The Appellant was required by the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act") to file its GST returns on a quarterly basis.
+4. At all relevant times the Appellant's chief operating officer and guiding mind was David Taylor.
+5. During the period under appeal the Appellant purchased motor vehicles from Eagle Auto Sales Ltd. and Belair Auto Ltd. as indicated in Schedule A, attached hereto.
+6. The amounts indicated in Schedule A as "GST/HST paid" were shown as such on the purchase invoices and claimed by the Appellant as input tax credits in its returns filed for the period under appeal. The amounts shown as paid were, in fact, paid by the Appellant to Eagle Auto Sales Ltd. and Belair Auto Ltd.
+7. Neither Eagle Auto Sales Ltd. nor Belair Auto Ltd. filed GST/HST returns in the period under appeal nor did they remit any monies on account of GST/HST.
+8. The Minister has taken collection action against Eagle Auto Sales Ltd. and has filed a judgment in the Federal Court pursuant to that action. No collection action has been taken against Belair Auto Ltd.
+9. In respect of the transactions listed in Schedule A the Appellant maintained all of the necessary records as required by the Excise Tax Act, R.S.C. 1985, c. E-15, as amended and the Minister's administrative policies and has complied with those requirements.
+[4] The Appellant purchased vehicles from Eagle Auto Sales ("Eagle") and Belair Auto (Belair). The invoices included amounts for GST/HST. The Appellant paid all amounts required for GST/HST, on every vehicle purchased from Eagle and Belair. These amounts were remitted to Eagle and Belair in each and every case. There is no issue concerning this fact and there is no suggestion of fraud or collusion in this case. The problem arose when Belair and Eagle did not remit the tax on these transactions that was due to the Minister under the Act. There is no question that these transactions were legitimate supplies and that the Appellant, as the recipient of the supplies, has paid the required tax charged by the suppliers, Belair and Eagle. The Minister is now attempting to collect the tax from the Appellant which would amount to a second payment of this tax by the Appellant.
+[5] The issue is simply whether the Minister can collect the tax from a taxpayer, who has already paid the tax to the supplier, on a legitimate supply but the supplier has failed to remit the tax. In other words, is the Appellant liable to pay the taxes a second time where the vendor/supplier (Belair and Eagle) has not remitted the tax which the Appellant paid to them on each vehicle purchase?
+[6] Subsection 165(1) of the Act is the basic charging section under Division II, which imposes a tax on every recipient of a taxable supply as follows:
+Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+[7] Pursuant to sections 225 and 228 of the Act, the suppliers of the taxable supply (Belair and Eagle) must file returns and remit the appropriate net tax. In this case, although the Appellant paid the required tax on each vehicle purchase, the suppliers did not remit the tax which was paid by the Appellant.
+[8] Debts owed to the Minister are recoverable under section 313 of the Act. However subsection 315(1) states that the Minister may not take collection action in respect to an amount payable or remittable, unless the amount has been assessed by the Minister. Therefore the Act contemplates collection proceedings in respect to assessments for amounts payable and amounts remittable. The Appellant has argued that when the Appellant paid tax on the vehicles, it fulfilled its statutory duty. The failure here is the failure of Eagle and Belair to remit the tax.
+[9] Section 296 provides for assessments by the Minister. Paragraph 296(1)(a) permits the Minister to assess net tax under Division V. Paragraph 296(1)(b) permits the Minister to assess any tax payable under Division II (as well as IV or IV.1), which includes subsection 165(1) of the Act. Paragraphs 296(1)(a) and (b) read as follows:
+The Minister may assess
+(a) the net tax of a person under Division V for a reporting period of the person,
+(b) any tax payable by a person under Division II, IV or IV.1,
+[10] It is this paragraph, 296(1)(b), which the Minister used to assess the Appellant for this tax liability. The Respondent's position is that this paragraph allows the Minister to assess the Appellant, even in the circumstances of this case, where the tax has been paid to the vendor/supplier in each transaction. There is certainly no allegation of fraud or collusion here but the Respondent argues that a taxpayer's motivation or state of mind is not a prerequisite for a taxpayer to be liable pursuant to paragraph 296(1)(b).
+[11] Respondent submitted that subsection 334(2) is specific and unambiguous when it states:
+A person who is required under this Part to pay or remit an amount shall not be considered as having paid or remitted the amount until it is received by the Receiver General.
+The Respondent has used this subsection to argue that a taxpayer's liability for the tax remains outstanding until the Receiver General actually receives the tax payable, on account of the registrants' tax liability. Respondent argued that this is a taxing statute and one must look at the entire scheme of the Act, which includes credits to taxpayers who claim input tax credits. Subsection 225(1) of the Act provides a formula where a registrant's net tax is calculated as all tax collected, and required to be collected, less all eligible input tax credits. Section 228 requires a registrant to calculate its net tax for each reporting period and to remit any amount calculated to be owing. Alternatively, a registrant can claim any tax refund from the Minister if the calculation for net tax results in a negative amount. The Respondent argues that, although subsection 221(1) requires a vendor/supplier to collect tax as agent of the Crown, it is the wording of subsection 334(2) that clearly states that the purchaser/recipient will be viewed as having not paid the tax, if the tax is not received by the Receiver General. Respondent then uses paragraph 296(1)(b) to argue that a purchaser/recipient of a supply may be assessed for the tax, although the tax has been paid by that purchaser/recipient, in circumstances where the Receiver General has not received the tax due from the vendor/supplier.
+[12] I agree with the Appellant's interpretation of these provisions. Paragraph 296(1)(b) refers to the Minister assessing any "tax payable" under Division II of the Act. This would include subsection 165(1). For paragraph 296(1)(b) to apply, there must be tax payable under Division II. In this case, when the Appellant paid the required tax to Eagle and Belair pursuant to the invoices on each vehicle purchase, then there was no longer tax payable. Where subsection 165(1) is the charging section, paragraph 296(1)(b) is the assessing section. Since the Appellant is the recipient of the supply and has paid all taxes due, there can be no tax payable. Paragraph 296(1)(b) cannot apply in these circumstances since the Appellant owes no tax.
+[13] The Appellant relied on the comments of Judge Hamlyn in the case of Carlson & Associates Advertising Ltd. v. Canada, [1997] T.C.J. No. 966 at paragraph 34:
+Once the tax is paid, tax is no longer payable and this fact would be a complete defense to any other procedure for collection brought against the Appellant or any other person. (Emphasis added)
+[14] In the Carlson case, the taxpayer had not paid the tax. The Appellant/taxpayer in the present case however has paid the required tax. Where the tax is paid, I agree with Judge Hamlyn's remarks that the tax is then no longer payable and payment results in a complete defense to any collection proceedings instituted against such a taxpayer. This decision was upheld by the Federal Court of Appeal [1998] F.C.J. No. 423. At paragraph 33 of Judge Hamlyn's decision he states:
+...The possibility of 'double taxation' is reduced since the Minister is only empowered to seek payment for the amount of unpaid GST, whether from the supplier or the recipient of a taxable supply, while tax is payable.
+Certainly, the case of a taxpayer/purchaser being required to pay unpaid GST/HST on a taxable supply cannot be equated to the case of a taxpayer/purchaser being required to pay once again tax which the supplier failed to remit. In the first instance, the tax was never paid by the taxpayer to the vendor of the supply. The taxpayer is not paying twice where the required payment is the amount that should have been paid to the vendor in the first place but never was. In the second instance, the taxpayer/purchaser has paid the required tax when the supply was purchased from the vendor/supplier but was never remitted by that vendor.
+[15] The second leg of the Appellant's argument requires a determination as to whether the Appellant/purchaser fulfilled the liability to pay tax upon paying the vendors, (Eagle and Belair) as agents for the Crown.
+[16] Subsection 221(1) creates an agency relationship where the vendor/supplier becomes an agent for the Receiver General when collecting the tax on taxable supplies. This subsection states:
+Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+[17] While subsection 165(1) imposes a tax payable by purchasers of taxable supplies, subsection 221(1) clearly establishes vendors/suppliers as agents in the collection of tax. The Appellant argues that where a taxpayer pays the tax imposed on a supply to the vendor who becomes the Crown's agent, pursuant to this provision, then the debt is extinguished. The Respondent submits that although subsection 221(1) creates an agency relationship, it is not a "regular agency relationship".
+[18] Despite Peter Leslie's able argument on behalf of the Crown, I cannot agree with his analysis. I do not see anything in the wording of subsection 221(1) that creates an agency relationship other than a typical one as would be contemplated under Agency law. The wording of the section is clear. It makes the Crown a beneficiary for the monies collected by the vendor of a supply. Applying simple agency law here, once the taxpayer has paid the tax to the vendor, who is established as an agent of the Crown pursuant to subsection 221(1), the purchaser has in effect paid the tax. The result is that the vendor does in fact hold these monies, once paid by a purchaser, as an agent of the Crown and the Crown becomes a beneficiary in respect to these monies.
+[19] While subsection 165(1) imposes a statutory duty to pay the tax, there is a statutory duty of an agent to remit monies collected, to the Receiver General. Amounts, paid to the vendor as the tax on a supply, become trust monies, which give the Crown all remedies of a trust relationship, including tracing of funds. Once monies collected become trust monies, the Crown has an automatic interest in these funds as the designated beneficiary. Subsection 221(1) refers to a vendor collecting the "tax payable", but in this case the tax was paid. Once a taxpayer acquires a supply and pays the tax on the supply to the vendor, the taxpayer's responsibility to pay this tax is extinguished. I cannot interpret the Act in any other way. The logical conclusion is simply that, absent fraud or collusion, once the purchaser pays the tax to a vendor, as agent of the Crown, the purchaser is no longer liable for the tax. Any other outcome would be ludicrous.
+[20] The Appellant relied on Government Policy Statement P-112R to support its position. It states:
+...The CCRA will not generally intervene to assess the tax payable by the purchaser under section 165. However, in circumstances of potential revenue loss, the Minister may exercise its authority under paragraph 296(1)(b) of the ETA and assess a purchaser who is insolvent or bankrupt in respect of the GST/HST not paid to a supplier.
+It is unnecessary to make any further comment in respect to this statement in light of my interpretation of the relevant provisions, except to state that it does lend some support to my interpretation of the sections as it implies that Government will not proceed against a purchaser unless the tax has not been paid to the vendor.
+[21] In the Government Policy Statement P-012R, Liability for Net Tax on Transfer of Business Assets, April 9, 1992, revised January 4, 1999, it states:
+...Generally, the recipient of a supply is liable under section 165, Division II, to pay tax in respect of the supply, and the supplier is liable under section 221 to collect this amount from the recipient. Normally, neither person is responsible for the other's tax liability.
+This policy statement goes on to explore the circumstances when both parties become jointly liable. It must also be noted that this policy statement is in respect to transfers of business assets. However it does say that 'normally' neither person is responsible for the other's tax liability.
+[22] In summary, in response to the main query in this case, that is, is it the Appellant taxpayer or the Crown that bears the tax burden where a vendor has not remitted the tax which it has received, I have concluded that it is the Crown and not the Appellant. The Statutory scheme establishes that vendors who collect tax on a supply do so as agents of the Crown. The failure here is a failure to remit the tax collected from the Appellant. To permit the Crown to collect the tax for a second time from such a taxpayer, where there has been no fraud or collusion, would require very explicit statutory language. That is not present in any of the relevant provisions. While subsection 334(2) provides that the purchaser of a supply is considered to have not paid the tax, if it is not received by the Receiver General, I do not believe this was intended to be a basis to secure payment of a tax the second time from a taxpayer/purchaser who has already paid. If I were to place such an interpretation upon subsection 334(2), I can only envision a host of ridiculous complications where the burden is placed on purchasers to expend time, money and energy to ensure tax they remit to a vendor on the acquisition of a supply reaches the Receiver General in each case. I do not believe that it was the intent of this legislation to place every such purchaser in such precarious circumstances. In effect every purchaser would be required to verify whether a vendor has remitted the collected tax. This would be so, on the purchase of a twenty-dollar item, as it would be on a twenty thousand dollar item. Simply put, common sense dictates that subsection 334(2) cannot be interpreted so literally that it would impose impossible requirements on every purchaser who acquires a taxable supply. It can never have been the intent to use subsection 334(2) in such a way that the Crown could then assess a purchaser for the tax under section 296 in circumstances, where the vendor has collected tax on the supplies in the first instance, but has not remitted the money to the Minister.
+[23] The appeal is allowed, with costs, on the basis that paragraph 296(1)(b) of the Act, in the absence of fraud or collusion, cannot be interpreted to allow the Minister to collect tax from the Appellant, when the Appellant has already paid the tax to the vendor/supplier.
+[24] Prior to hearing submissions, Appellant presented a Notice of Motion to amend the Notice of Appeal. Several amendments were requested with Respondent objecting to only one - the right of the Appellant to include argument based on the Canadian Bill of Rights, S.C. 1960, c. 44 s. 1(a). I allowed the Appellant's motion to amend the Notice of Appeal, subject to time allocations to both Respondent and Appellant, to provide written submissions on the amendment respecting the Canadian Bill of Rights. Of course these submissions were required only if I had decided this appeal in the Respondent's favor. Since I have allowed the appeal, further submissions on the Charter and Canadian Bill of Rights argument are no longer required.
+Signed at Ottawa, Canada, this 30th day of September 2003.
+"Diane Campbell"
+Campbell, J.
+CITATION:
+2003TCC683
+COURT FILE NO.:
+2001-2831(GST)G
+STYLE OF CAUSE:
+Airport Auto Limited and
+Her Majesty the Queen
+PLACE OF HEARING
+Fredericton, New Brunswick
+DATE OF HEARING
+August 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable
+Justice Diane Campbell
+DATE OF JUDGMENT
+September 30, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Eugene J. Mockler, Q.C.
+Counsel for the Respondent:
+Peter J. Leslie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Eugene J. Mockler
+Firm:
+Mockler Peters Oley Rouse & Williams
+Fredericton, New Brunswick
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

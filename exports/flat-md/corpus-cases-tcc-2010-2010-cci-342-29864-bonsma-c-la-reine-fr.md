@@ -1,0 +1,217 @@
+---
+title: "Bonsma c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29864/index.do"
+last_modified: "2010-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 342"
+citation2: ""
+neutral_citation: "2010 CCI 342"
+decision_date: "2010-06-22"
+language: "fr"
+item_id: "29864"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6421
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:51:20.826000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e022cae2bd61148d22daf5c98ab9e6f7b2ca15b121f5f6b40e6830e0a5aa2c80"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bonsma c. La Reine
+
+- Citation: 2010 CCI 342
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6421, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonsma c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-22
+Référence neutre
+2010 CCI 342
+Numéro de dossier
+2009-3430(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3430(IT)I
+ENTRE :
+CLARENCE BONSMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 19 mai 2010, à Edmonton (Alberta)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Amy Martin-LeBaence
+Me Marla Teeling (observatrice)
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006 et 2007 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 342
+Date : 20100622
+Dossier : 2009-3430(IT)I
+ENTRE :
+CLARENCE BONSMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel, instruit sous le régime de la procédure informelle, a été entendu à Edmonton, en Alberta, le 19 mai 2010. Seul l’appelant a témoigné.
+Contexte
+[2] Le 25 août 2000, l’appelant a commencé à travailler comme technicien d’appareil de forage à entraînement par le haut pour la Tesco Corporation (« Tesco »). En janvier 2004, l’appelant a réclamé l’indemnité de congés payés prévue par la loi que Tesco lui devait. Tesco a refusé de la lui verser, et l’appelant s’est adressé au ministère du Travail de l’Alberta pour contraindre Tesco à le payer. L’appelant a reçu le premier paiement d’indemnité de congés payés prévue par la loi en juillet 2004 et le dernier paiement vers le 28 octobre 2004.
+[3] L’appelant a témoigné qu’après qu’il avait contraint Tesco à lui verser son indemnité de congés payés prévue par la loi, Tesco avait restreint le travail qui lui était attribué. Il a aussi dit que, pendant qu’il travaillait pour Tesco, il n’avait reçu aucune indemnité de disponibilité pour les périodes où aucun travail ne lui était attribué. L’appelant a affirmé que Tesco s’était servie de sa capacité de restreindre les attributions de travail de l’appelant pour le punir d’avoir réclamé l’indemnité de congés payés prévue par la loi qui lui était due. De plus, il a dit qu’entre juillet 2004 et la cessation de son emploi, le 18 novembre 2004, Tesco l’avait seulement rémunéré pour une formation de 32 heures, à raison de 20 $ l’heure. L’appelant a expliqué qu’il avait dû cesser de travailler pour Tesco le 18 novembre 2004 parce qu’il était incapable de survivre sans revenu.
+[4] Finalement, le 4 août 2005, l’appelant a déposé devant la Cour du banc de la Reine de l’Alberta une déclaration à l’encontre de Tesco relativement à la conduite transgressive de cette dernière (la « déclaration »).
+[5] Dans la déclaration (pièce A‑1, onglet 1), l’appelant a affirmé avoir subi les dommages suivants :
+a. des dommages pécuniaires pour la perte de revenus d’emploi avant la cessation d’emploi;
+b. des dommages pécuniaires pour la perte de revenus d’emploi après la cessation d’emploi;
+c. des dommages pécuniaires pour la perte des avantages liés à l’emploi;
+d. des dommages non pécuniaires pour traitement de mauvaise foi;
+e. la perte de tout autre avantage qui sera établi au procès.
+[6] Par conséquent, l’appelant a réclamé les dommages‑intérêts suivants :
+a. 100 000 $ à titre de dommages‑intérêts généraux;
+b. 50 000 $ à titre de dommages‑intérêts majorés;
+c. 50 000 $ à titre de dommages‑intérêts punitifs;
+d. 10 000 $ à titre de dommages‑intérêts particuliers.
+[7] Pendant les années d’imposition 2005, 2006 et 2007, la poursuite intentée par l’appelant à l’encontre de Tesco ne lui a pas permis de recevoir d’allocation de retraite, de dommages‑intérêts ou d’indemnité pour congédiement injustifié de Tesco. De même, dans ses revenus pour les années d’imposition 2005, 2006 et 2007, l’appelant n’a inclus aucune somme reçue de Tesco au titre d’une allocation de retraite, de dommages‑intérêts ou d’indemnité pour congédiement injustifié.
+[8] Dans le calcul de ses revenus pour les années d’imposition 2005, 2006 et 2007, l’appelant a demandé les déductions suivantes au titre de frais judiciaires :
+a) 8 044 $ pour 2005;
+b) 8 206 $ pour 2006;
+c) 14 924 $ pour 2007.
+[9] Lorsqu’il a établi des nouvelles cotisations à l’égard de l’appelant – le 10 août 2009 pour les années d’imposition 2005 et 2006 et le 8 décembre 2008 pour l’année d’imposition 2007 – le ministre du Revenu national (le « ministre ») a refusé les déductions demandées au titre de frais judiciaires pour chacune de ces années‑là.
+[10] L’appelant s’est opposé aux nouvelles cotisations établies pour les années d’imposition 2005, 2006 et 2007. Les avis d’opposition qu’il a déposés sont datés respectivement du 11 septembre 2009, pour les années d’imposition 2005 et 2006, et du 8 janvier 2009, pour l’année d’imposition 2007.
+[11] Le ministre a ensuite ratifié les nouvelles cotisations établies pour les années d’imposition 2005, 2006 et 2007 au moyen d’avis de ratification datés du 18 septembre 2009, pour les années d’imposition 2005 et 2006, et du 4 août 2009, pour l’année d’imposition 2007.
+[12] L’appelant a déposé son avis d’appel devant la Cour canadienne de l’impôt le 30 octobre 2009.
+[13] Lorsqu’il a déterminé la dette fiscale de l’appelant pour les années d’imposition 2005, 2006 et 2007, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) le 4 août 2005, l’appelant a présenté devant la Cour du banc de la Reine de l’Alberta une déclaration à l’encontre de Tesco (la « déclaration »);
+b) dans la déclaration, l’appelant soutient avoir subi des dommages, notamment :
+(i) des dommages pécuniaires pour la perte de revenus d’emploi,
+(ii) des dommages pécuniaires pour la perte d’avantages liés à son emploi,
+(iii) des dommages non pécuniaires pour traitement de mauvaise foi;
+c) dans la déclaration, l’appelant a réclamé les dommages‑intérêts suivants :
+(i) 100 000 $ à titre de dommages‑intérêts généraux,
+(ii) 50 000 $ à titre de dommages‑intérêts majorés,
+(iii) 50 000 $ à titre de dommages‑intérêts punitifs,
+(iv) 10 000 $ à titre de dommages‑intérêts particuliers;
+d) pendant les années d’imposition 2005, 2006 et 2007, la poursuite intentée par l’appelant à l’encontre de Tesco ne lui a pas permis de recevoir d’allocation de retraite, de dommages‑intérêts ou d’indemnité pour congédiement injustifié de Tesco;
+e) dans ses revenus pour les années d’imposition 2005, 2006 et 2007, l’appelant n’a inclus aucune somme reçue de Tesco au titre d’une allocation de retraite, de dommages‑intérêts ou d’indemnité pour congédiement injustifié;
+f) en 2007, les frais judiciaires payés par l’appelant n’ont pas dépassé 13 723,91 $.
+Question en litige
+[14] En l’espèce, la question est de savoir si le ministre a refusé à juste titre les déductions demandées par l’appelant au titre de frais judiciaires, c’est‑à‑dire :
+a) 8 044 $ pour 2005;
+b) 8 206 $ pour 2006;
+c) 14 924 $ pour 2007.
+Position de l’intimée
+[15] L’intimée soutient que les frais judiciaires dépensés par l’appelant pendant les années d’imposition 2005, 2006 et 2007 visaient à établir un droit à des dommages‑intérêts dus par Tesco pour la cessation d’emploi, et non pas pour recouvrer le traitement ou salaire dû à l’appelant par Tesco ou pour établir un droit à ceux-ci. Selon l’intimée, les frais judiciaires ont donc été déboursés pour établir un droit à une allocation de retraite, au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi »). De plus, l’intimée affirme que le ministre a refusé à juste titre les déductions demandées par l’appelant au titre de frais judiciaires parce que, pour une année donnée, la déduction permise au titre des frais judiciaires payés pour percevoir une allocation de retraite ou établir un droit à cette allocation est limitée au montant de l’allocation de retraite reçue et incluse dans les revenus pour cette année‑là. Par conséquent, comme l’appelant n’a reçu de Tesco ou inclus dans ses revenus aucune somme au titre d’allocation de retraite pendant les années d’imposition 2005, 2006 ou 2007, il ne peut pas déduire ses frais judiciaires en application de l’alinéa 60o.1) de la Loi. Enfin, l’intimée soutient que, si la Cour devait conclure que l’appelant a le droit de déduire des frais judiciaires, cette déduction ne devrait pas dépasser les frais judiciaires qui ont véritablement été payés. À cet égard, l’intimée affirme que les frais judiciaires payés par l’appelant totalisaient au plus 7 839,80 $ en 2005 et 13 723,91 $ en 2007.
+Position de l’appelant
+[16] Essentiellement, l’appelant soutient que les frais judiciaires en question n’ont pas été payés en vue d’établir un droit à une allocation de retraite, mais plutôt pour recouvrer de Tesco des revenus d’emploi perdus et des dommages‑intérêts afférents.
+Analyse et conclusion
+[17] Les dispositions pertinentes de la Loi sont ainsi rédigées :
+8(1) Éléments déductibles – Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+b) Frais judiciaires d’un employé – les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[…]
+60. Autres déductions – Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+o) Frais judiciaires et extrajudiciaires [ou autres d’opposition ou d’appel] – les sommes payées au cours de l’année par le contribuable au titre des honoraires ou frais engagés pour préparer, présenter ou poursuivre une opposition ou préparer, interjeter ou poursuivre un appel au sujet :
+[…]
+o.1) Frais judiciaires et extrajudiciaires [relatifs à la perte d’un emploi ou à une prestation de retraite] – l’excédent éventuel du moins élevé des montants suivants :
+(i) le total des frais judiciaires ou extrajudiciaires, sauf ceux se rapportant au règlement ou au partage de biens découlant du mariage ou union de fait ou de son échec, payés par le contribuable au cours de l’année ou de l’une des sept années d’imposition précédentes pour recouvrer l’un des montants suivants ou pour établir un droit à ceux-ci :
+[…]
+(B) une allocation de retraite du contribuable ou d’un particulier décédé auquel le contribuable était apparenté ou dont il était une personne à charge ou le représentant légal,
+[…]
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« allocation de retraite » Somme, sauf une prestation de retraite ou de pension, une somme reçue en raison du décès d’un employé ou un avantage visé au sous‑alinéa 6(1)a)(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d’une charge ou d’un emploi ou par la suite;
+b) soit à l’égard de la perte par le contribuable d’une charge ou d’un emploi, qu’elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d’un tribunal compétent.
+[…]
+« traitement ou salaire » Sauf aux articles 5 et 63 et à la définition de « prestation consécutive au décès », le revenu que tire un contribuable d’une charge ou d’un emploi, calculé d’après la sous-section a de la section B de la partie I, y compris les honoraires touchés par le contribuable pour des services qu’il n’a pas fournis dans le cours des activités de son entreprise, mais à l’exclusion des prestations de retraite ou de pension, ainsi que des allocations de retraite.
+[18] Fondamentalement, l’alinéa 8(1)b) de la Loi permet d’inclure dans le calcul du revenu tiré d’une charge ou d’un emploi une déduction au titre des frais judiciaires payés au cours de l’année par le contribuable pour recouvrer les traitement ou salaire qui lui sont dus par un employeur ou pour établir un droit à ceux‑ci. Les traitement ou salaire incluent les sommes dues à une personne pour des services rendus dans le cas où l’employeur n’a pas payé ces traitement ou salaire. En l’espèce, les éléments de preuve présentés établissent clairement qu’aucune des sommes réclamées dans la déclaration n’avait trait à des services rendus à Tesco par l’appelant. Par conséquent, je suis d’avis qu’en application de l’alinéa 8(1)b) de la Loi, l’appelant ne peut pas déduire les frais judiciaires qu’il a payés au cours des années en cause.
+[19] L’allocation de retraite inclut la somme reçue « à l’égard de » la perte d’une charge ou d’un emploi. Dans ce contexte, l’expression « à l’égard de » suggère l’existence d’un lien entre la perte de la charge ou de l’emploi et le paiement ultérieur, dont la principale fonction est d’indemniser pour la perte de la charge ou de l’emploi. Lorsqu’il faut décider si l’on est en présence d’une allocation de retraite, il faut poser les deux questions suivantes pour savoir si ce lien existe :
+1. Sans la perte de la charge ou de l’emploi, est‑ce que la somme aurait été reçue?
+2. Le paiement visait‑il à indemniser pour la perte d’une charge ou d’un emploi?
+La somme reçue constituera une allocation de retraite seulement si la réponse à la première question est négative et la réponse à la deuxième est positive. Ainsi, lorsqu’une personne reçoit une indemnité au titre des dommages subis à cause d’une perte d’emploi, cette somme sera habituellement imposée à titre d’allocation de retraite. Cela s’applique aussi aux dommages‑intérêts particuliers, notamment ceux qui sont reçus pour les traitement ou salaire (qui n’avaient pas été gagnés) ou les avantages d’emploi perdus. Il en va de même pour les dommages‑intérêts généraux reçus au titre de la perte d’estime de soi, de l’humiliation, des souffrances morales, du préjudice moral et ainsi de suite. Cependant, je tiens à souligner que l’on peut considérer que les dommages‑intérêts généraux relatifs aux violations des droits de la personne ne sont pas liés à la perte d’emploi.
+[20] En l’espèce, les faits suivants ont été mis en preuve :
+i. l’appelant a perdu son emploi;
+ii. s’il n’avait pas perdu son emploi, l’appelant ne pourrait pas recevoir les dommages‑intérêts qu’il avait réclamés dans sa déclaration;
+iii. toute somme reçue à ce titre viserait manifestement à indemniser l’appelant pour la perte de son emploi, et non pas à lui verser des traitement ou salaire que Tesco lui devait.
+Par conséquent, je suis d’avis que les frais judiciaires de l’appelant ont été payés pour établir un droit à une allocation de retraite.
+[21] Comme l’appelant n’a reçu ou n’a inclus dans ses revenus aucune somme au titre d’une allocation de retraite payée par Tesco au cours des années d’imposition 2005, 2006 ou 2007, l’alinéa 60o.1) de la Loi l’empêche de déduire ses frais juridiques, car cette disposition limite la déduction permise au titre de frais juridiques pour une année donnée au montant de l’allocation de retraite reçue et incluse dans les revenus pendant cette année‑là.
+[22] Comme j’ai conclu que l’appelant ne peut pas déduire ses frais juridiques, il n’est pas nécessaire de décider dans quelle mesure ces frais constituaient des frais judiciaires.
+[23] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 342
+No DU DOSSIER DE LA COUR :
+2009-3430(IT)I
+INTITULÉ :
+Clarence Bonsma c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 19 mai 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 22 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimée :
+Me Amy Martin‑LeBaence
+Me Marla Teeling (observatrice)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

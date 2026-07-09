@@ -1,0 +1,140 @@
+---
+title: "Marcoux c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26625/index.do"
+last_modified: "2003-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 291"
+citation2: ""
+neutral_citation: "2003 TCC 291"
+decision_date: "2003-05-05"
+language: "en"
+item_id: "26625"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3633
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:12:47.002000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "291c93bc8c61db3afa64f722d53f437bfe0a16e7b15bd58b892a7f6ae316cff4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marcoux c. La Reine
+
+- Citation: 2003 TCC 291
+- Decision date: 2003-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3633, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marcoux c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-05
+Neutral citation
+2003 TCC 291
+File numbers
+2002-648(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-648(IT)I
+BETWEEN:
+ROGER MARCOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 4, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2003.
+"François Angers "
+J.T.C.C.
+Translation certified true
+on this 23rd day of June 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC291
+Date: 20030505
+Docket: 2002-648(IT)I
+BETWEEN:
+ROGER MARCOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] The appellant has appealed from his assessment for the 1998 taxation year. The Minister of National Revenue ("the Minister") disallowed farming expenses in the amount of $31,500 on the ground that these expenses were not incurred in order to gain income from a business or property in accordance with paragraph 18(1)(a) of the Income Tax Act ("the Act").
+[2] The appellant is a businessperson and farmer. On February 3, 1983, he sold one of the two lots he owned in the Brampton Township to his brother Marcel Marcoux; on that lot he had a plantation of Christmas trees (balsam fir trees), which he had harvested shortly before the sale. The appellant then leased the same lot from his brother in order to continue growing Christmas trees. On July 19, 1984, he signed a 10-year lease with his brother under certain terms and conditions, all of which were changed by a counter letter dated August 6, 1984. According to the counter letter, the appellant was to pay all expenses relating to purchase, cultivation and maintenance and was to return the lot in a condition comparable to its condition when the lease was signed. In return, the appellant's brother was to receive 5 per cent of the retail price of the trees within 60 days after the trees were harvested.
+[3] According to the appellant, the business went well until 1996. In 1991, he sold timber royalties for the Christmas trees on the lot concerned to one Lewis Downey. That agreement was approved by the appellant's brother and was valid until December 31, 1997. In 1996, inexperienced employees of Lewis Downey caused damage to the tree farm and, since it was impossible to negotiate a settlement with Lewis Downey, the appellant terminated that agreement.
+[4] The appellant obtained a first extension of the lease from his brother; in May 1997, he obtained a second extension, under which the lease was to terminate on December 31, 1999. However, the second extension was not registered with a notary. According to the appellant, although an extension was obtained, his brother Marcel sold the tree harvest to Plantation Donégal inc., in which Lewis Downey was the principal shareholder. As for the appellant, he did business with François Rémillard and sold him the same tree harvest on May 19, 1998. The appellant and François Rémillard were denied access to the lot in question.
+[5] As a result, on September 4, 1998, the appellant and Mr. Rémillard filed in the Quebec Superior Court an application for an injunction against the appellant's brother Marcel and his purchaser, Plantation Donégal inc., that would deny them access to the lot and thus make it possible for the appellant and Mr. Rémillard to harvest the Christmas trees.
+[6] According to the appellant, the injunction was not granted on the ground that the second extension was not registered with a notary. The situation therefore led the parties to negotiate an out-of-court settlement agreement, which was ratified and made binding by the Court on September 21, 1998. It is important to reproduce the clauses of this agreement, which read as follows:
+[TRANSLATION]
+1. In 1998 and 1999, Roger Marcoux alone shall benefit from the income from the sale of 50% of the plantation of Christmas trees, the timber royalties of which he sold to Distribution Rémillard under a contract with that company dated May 19, 1998 (Exhibit R-7 to the application);
+2. the lot of the Christmas tree plantation for the purposes of this agreement is described in Exhibit D-1, attached to the affidavit of Lewis Downey, representative of Plantation Donégal inc.;
+3. the Christmas trees shall be allocated in equal parts, on the basis of the number of trees on the lot divided by two, between Distribution Rémillard and Plantation Donégal inc., which shall effect an equitable distribution of the said trees;
+during the harvesting and maintenance periods from the date of this agreement until completion of the harvest in 1999, the grading of roads to bring out the trees, repairs to roads during tree harvesting, and any maintenance of the culvert shall be the responsibility of Distribution Rémillard and Plantation Donégal inc. equally;
+Distribution Rémillard may lay out its cut trees on the section of the lot between Range 6 and the culvert;
+4. in 1998 and 1999, Marcel Marcoux alone shall benefit from the income from the other 50% of the above-described plantation of Christmas trees, the timber royalties of which he sold to Plantation Donégal inc. under a contract dated May 14, 1998, and registered on May 15, 1998, under number 212315;
+5. Marcel Marcoux alone shall pay Plantation Donégal inc. the costs or charges it has incurred during the year to date for the care and maintenance of the Christmas trees of the plantation hereby allocated to Roger Marcoux and/or his agent Distribution Rémillard;
+6. notwithstanding a former written agreement with Roger Marcoux, Marcel Marcoux shall exonerate Roger Marcoux from the obligation to remove the stumps from the lot after the Christmas trees referred to herein are harvested;
+7. without limiting the scope of the foregoing clauses, Roger Marcoux shall pay Marcel Marcoux a lump sum of $31,500 no later than December 20, 1998, in order to buy peace and thus definitively put an end to any debts they may owe one another to date;
+8. for all legal purposes, subject to the agreements and rights set out above, Roger Marcoux and Marcel Marcoux shall grant one another full, comprehensive and final release from any amounts they may owe one another and/or written or oral obligations they may have to each other for any reason whatsoever to date, and shall waive any rights and remedies resulting from any written or oral agreements;
+...
+[7] According to the appellant, the failure to register the second extension put him in a situation in which, firstly, he could be sued by his purchaser, Mr. Rémillard, for having sold him Christmas trees that did not belong to him; secondly, he would have had to sue his brother for damages; thirdly, he was obliged to return the used lot in a condition comparable to its condition when the lease was signed, which included removing the stumps; and, lastly, he was losing all the trees on the lot.
+[8] Thus the out-of-court settlement allowed the respective purchasers of the appellant and his brother to each purchase half of the Christmas trees. According to the appellant, his brother sold half of the tree harvest to Plantation Donégal inc. at $3.25 per tree. The appellant himself sold the other half of the tree harvest to Rémillard at $6 per tree. The appellant, according to his understanding of the out-of-court settlement, paid his brother $31,500 for half the trees and, in particular, was exonerated from his obligation to repair the road, remove the stumps and return the lot in its original condition, not to mention avoiding legal proceedings with his brother and Rémillard. At issue in this case is the amount of $31,500.
+[9] During cross-examination, counsel for the respondent adduced in evidence two promissory notes dated October 26, 1994, signed by the appellant in favour of his brother: one in the amount of $9,000 and the other in the amount of $21,000. According to the appellant, these were promissory notes he signed the day he purchased a parcel of land from his brother. Apparently he purchased that parcel of land for $31,500. At his brother's request, the sale price for the purposes of the contract (Exhibit I-4) was $9,000 and the balance was paid "under the table", which explains the second promissory note in the amount of $21,000. According to the appellant, at the time of the out-of-court settlement he owed no money to his brother, and the amount of $31,500 he paid his brother was not repayment of that debt.
+[10] The appellant acknowledged that the Christmas trees he sold to Rémillard in November 1998 for $14,388 were not all from the tree farm on the lot concerned; some of them were from other lots. Of the 2,401 trees sold, 1,363 were from the lot concerned.
+[11] The appellant stated that he did not receive from his brother the letters adduced as Exhibits I-7 and I-8.
+[12] François Rémillard testified concerning his participation in the negotiations leading to the out-of-court settlement. According to François Rémillard, he was to pay the appellant $6 per tree and maintain the Christmas trees, but neither he nor the appellant was obliged to remove the stumps. He shared the trees equally with Lewis Downey; counsel for the Marcoux brothers negotiated the other clauses. He was not always present at those negotiations.
+[13] The respondent called Marcel Marcoux as a witness. According to Marcel Marcoux, in 1991, the appellant sold his timber royalties to Lewis Downey under a duly registered agreement. According to the agreement, Lewis Downey had only until December 31, 1997, to cut Christmas trees on the lot. Lewis Downey needed more time to complete his harvesting; the appellant then asked Marcel Marcoux for an extension of the deadlines. Marcel Marcoux granted him the extension but under certain conditions. The appellant was to repair the road and pay the first promissory note, in the amount of $9,000, in September 1997 and the other promissory note, in the amount of $21,000, at a later date. Marcel Marcoux testified that the appellant agreed to the conditions orally but wanted the extension of the deadline for harvesting the trees to be in writing (Exhibit R-7-1 of Exhibit A-1).
+[14] Marcel Marcoux testified that during the holidays in 1997 he learned that the two promissory notes he held had become statute-barred. He therefore called the appellant to obtain the $9,000 and to tell him that the promissory notes had become statute-barred. He stated that the promissory note in the amount of $21,000 had to do with advances and other debts owed to him by his brother. Apparently the appellant then told him that he would pay him when it suited him. At that point, Marcel Marcoux decided to terminate the extension since the appellant had failed to respect the oral agreement. On March 16, 1998, by facsimile, Marcel Marcoux sent the appellant a letter (Exhibit I-7) reiterating the oral and written agreement and notifying the appellant that, because the agreement had not been respected, he was going to terminate the extension.
+[15] Following that letter and a discussion with the appellant, a second letter, dated March 25, 1998, was sent to the appellant, in which Marcel Marcoux told the appellant that in the future he would assume responsibility for the tree farm: he would sell the Christmas trees, have the road to the warehouse maintained, restore the lot, remove the stumps as required, and look after the maintenance of the Christmas trees and other trees. If there were surplus trees, Marcel Marcoux offered to discuss with the appellant a way of disposing of them. He stated that he understood that the appellant was unable to repay him the money right away and that he would try to be patient.
+[16] In reply, the appellant had his own counsel send a formal demand, citing a clause of the original agreement that gave the appellant a right of equal ownership with his brother while continuing to assume responsibility for expenses in the same manner if he were unable to continue to look after the tree farm, and telling his brother that he held him responsible for any losses if he were unable to grow Christmas trees properly. He closed by demanding payment in the amount of $20,000, the amount he considered to be half the value of the tree farm.
+[17] Subsequent events led to the application for an injunction and the above-described out-of-court settlement agreement. According to Marcel Marcoux, during the negotiations he insisted with his counsel that the two promissory notes totalling $30,000 be paid, that half of the maintenance costs in the amount of $3,000 be repaid to him, and that the Christmas trees be distributed equally. According to Marcel Marcoux, there was no purchase by his brother since the brothers had divided the trees equally.
+[18] Thus it is quite clear that the appellant and his brother negotiated an out-of-court settlement in an effort to minimize their mutual vulnerability. Since he was unable to obtain an injunction, the appellant sought a solution that would allow him to meet his obligations to Rémillard and exonerate him from his obligation to his brother; the brother took advantage of the situation to obtain payment of the two promissory notes that he knew had become statute-barred. The out-of-court settlement obviously resolved the brothers' dispute over the ownership of the Christmas trees and their obligations to their respective purchasers. The parties' respective positions are based on their interpretations of this out-of-court settlement agreement.
+[19] Although the out-of-court settlement agreement does not so state, I am convinced that the repayment of the statute-barred promissory notes played a role in the disputes between the parties. However, I cannot determine the extent to which the dispute resulted in repayment of all or part of these notes. One thing is certain: the agreement makes no reference to the promissory notes and refers to the amount of $31,500 as a lump sum to buy peace and put a definitive end to any indebtedness. According to the appellant, the indebtedness had to do with his obligation to maintain and repair the road and, most importantly, to remove the stumps. Apparently, those were the conditions the two brothers were aware of since, in his letter to the appellant dated March 25, 1998, Marcel Marcoux told the appellant that he was assuming full responsibility for the tree farm and exonerated the appellant from his obligation to maintain the road and remove the stumps. This issue is specifically addressed in paragraph 6 of the out-of-court settlement agreement.
+[20] The agreement makes careful note of each aspect of the out-of-court settlement. The brothers' respective purchasers were to divide the Christmas trees equally and be responsible for repairing the roads until the end of the 1999 tree harvest. In fact, according to Exhibit R-13 of Exhibit A-1, dated September 20, 1998, the two purchasers shared 11,307 trees, located on specific lots, and 50 trees were reserved for Marcel Marcoux. The appellant's purchaser was to pay him $6 per tree. The agreement also specifies that the appellant was exonerated from his obligation to remove the stumps after the trees were harvested. According to the appellant, removing the stumps is quite an expensive operation and, given the number of trees already harvested, there would be 20,000 stumps. Lastly, the out-of-court settlement agreement referred to the lump sum payment to buy peace and finally put an end to any debts.
+[21] Although the agreement sets out the settlement under various headings, I do not think that the corresponding issues can be isolated from each other. It is obvious that what is involved is the settlement of a series of disputes between the parties and no single issue would have been resolved without the others. Even though in 1998 the appellant sold only 1,363 Christmas trees to his purchaser as was required under the out-of-court settlement, this settlement called for trees to be harvested until 1999 and thus made provision for the purchaser to buy additional trees.
+[22] The appellant paid the amount of money at issue in order to finalize everything. In my opinion, that expression "everything" included the purchase of 50 per cent of the Christmas trees. It also included exoneration from the obligation to remove the stumps, which would certainly have entailed expenses, and the appellant avoided legal proceedings on both sides. I also consider that the payments exonerated the appellant from his obligation to repay the promissory notes, even though they were probably statute-barred. I do not accept the appellant's argument that he had repaid them. According to the evidence, the appellant knew that the promissory notes were statute-barred, and I believe that part of the lump sum probably did go to repay a portion of the promissory notes. Nor do I accept the version of the appellant's brother Marcel Marcoux that the promissory note in the amount of $19,000 was intended to cover other of the appellant's obligations, whereas the appellant told the Court that it was intended to pay the balance of the purchase price of the parcel of land purchased in 1994, a balance that his brother wanted paid to him under the table. The promissory notes bear the same date, which makes the appellant's version more credible.
+[23] Given all the circumstances of the case, and particularly the appellant's and his brother's different views of their reasons for reaching an out-of-court settlement agreement, I find that this agreement was intended to address the business obligations contracted by the appellant and his brother concerning the sales of the Christmas trees; each had his own view of the out-of-court settlement agreement and believed that he had been successful against the other on the basis of the brothers' respective concepts of what success was. The appellant's concept is much more plausible, given that, in the circumstances, he found himself in a situation in which he could lose his trees and be sued by his purchaser for failing to meet his obligations and given the legal proceedings initiated against his brother and the expenses to be incurred in order to remove the stumps. This means of settlement makes it impossible to determine whether the appellant saved money or how much of the $31,500 was actually used to repay the two promissory notes, even though the appellant's brother claimed that that was the case. In light of these facts, I find that the agreement was intended mainly to address the appellant's business obligations and that the related expense was therefore incurred in order to allow him to sell his trees and reduce the expenses he would have been required to pay; thus, the expense incurred was to gain income from a business.
+[24] The appeal is therefore allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 23rd day of June 2004.
+Sophie Debbané, Revisor

@@ -1,0 +1,176 @@
+Title: Gould v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27829/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-556-27829-gould-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-02
+
+# Gould v. The Queen
+
+- Citation: 2005 TCC 556
+- Decision date: 2005-09-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 369, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gould v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-02
+Neutral citation
+2005 TCC 556
+File numbers
+2004-4449(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4449(IT)G
+BETWEEN:
+ROY GOULD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 24, 2005 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant: Joel A. Nitikman
+Counsel for the Respondent: Lynn M. Burch
+Susan Wong
+____________________________________________________________________
+ORDER
+Upon motion by the appellant to strike out portions of the Reply to the Notice of Appeal.
+The motion is dismissed.
+The costs of this motion may be dealt with by the trial judge.
+Signed at Ottawa, Canada, this 2nd day of September, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2005TCC556
+Date: 20050902
+Docket: 2004-4449(IT)G
+BETWEEN:
+ROY GOULD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] This is a motion to strike out portions of the Reply to the Notice of Appeal. The appeal is from assessments for the appellant’s 2000, 2001 and 2002 taxation years.
+[2] In assessing the appellant’s tax for those years the Minister of National Revenue allowed the appellant charitable tax credits based on only 20% of certain charitable donations that the appellant claimed he had made. In the Reply filed April 8, 2005, the respondent states that the Minister should have disallowed the entire claim and not merely 80%.
+[3] On June 18, 2005 the Minister, consistently with that position, issued reassessments for 2001 and 2002 disallowing the entire charitable tax claim. Evidently the year 2000 was statute-barred or it would have been reassessed in a similar way.
+[4] The result is that only the portions of the Reply that relate to 2000 are before me. The reassessments for 2001 and 2002 have been superseded. If the appellant wishes to contest the new assessments for 2001 and 2002 he may amend the existing notices of appeal under subsection 165(3) of the Income Tax Act to refer to the new assessments or file a new notice of appeal or a new objection.
+[5] Counsel for the Crown asked that I adjourn the appellant’s motion, quash the appeals for 2001 and 2002 and strike out the portion of the motion relating to 2001 and 2002. The Reply for the year 2000 is still before me and if the appellant challenges the new assessments for 2001 and 2002 and the respondent replies in a manner similar to that in the existing replies, many of the appellant’s objections to the Reply will apply and will have to be dealt with sooner or later.
+[6] The notice of appeal raises as an issue the treatment of donations made to a registered charity IDEAS Canada Foundation (“IDEAS”) upon which the appellant based a claim for tax credits.
+[7] The Reply is 29 pages in length plus a schedule called “Ideas Leveraged Donation Scheme”.
+[8] The first thing the appellant objects to is a passage at the beginning of the Reply called “Overview”. It reads as follows:
+1. Ideas Canada Foundation (“Ideas”) is one of the first leveraged charitable donation schemes in Canada (the “Scheme”). For every $100 allegedly donated, $20 is funded from the Scheme participant’s own money and $80 is funded from a 25-year non-interest bearing loan provided by the promoter of the scheme, with the loan funds returning to the promoter on the same day the loan was originally made, all in a circular flow.
+2. The Scheme participant’s payment of $20 of his own money is made in consideration for the Scheme participant’s receipt of a 25-year interest‑free loan and a charitable tax receipt in the amount of 5 times the actual cash payment.
+3. The transactions undertaken by the Appellant (“Gould”) are typical and representative of the transactions undertaken by all individuals involved in the Scheme (the “Scheme Participants”).
+4. Gould’s cash payments of $100,000, $20,000 and $10,000 (i.e. 20% of his total alleged donation) in his 2000, 2001 and 2002 taxation years, respectively were paid to Ideas in consideration for his receiving charitable tax receipts in the amounts of $500,000, $100,000 and $50,000, respectively.
+5. As a result of his reliance on the inflated tax receipts from Ideas, Gould received inflated federal and provincial charitable tax credits of $216,750, approximately $43,525 and $21,850, which credits exceeded his actual cash outlay by $115,750, $23,525 and $11,850 in the 2000, 2001 and 2002 taxation years, respectively.
+[9] Counsel for the appellant stated that the overview does not comply with Rule 49 of the Tax Court of Canada Rules (General Procedure). Subsection 49(1) of the Rules reads:
+49. (1) Subject to subsection (1.1), every reply shall state
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in issue,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+(f) the issues to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+49. (1) Sous réserve du paragraphe (1.1), la réponse indique :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l'intimée ne connaît pas et qu'elle n'admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l'intimée entend se fonder;
+i) les conclusions recherchées.
+[10] Counsel contends that the Overview does none of those things. Moreover, he says that paragraphs 1-3 do not relate specifically to Mr. Gould’s case and should be struck out.
+[11] I can see nothing wrong with the Overview. It describes generally the “scheme” in which the Minister alleges the appellant participated. I think it is arguably relevant that the appellant’s charitable donations are not an isolated phenomenon but form part of a larger pattern. What weight if any should be given to this fact will be a matter for the judge who hears the case. It would be premature and indeed inappropriate for me, sitting as a motions judge, without the benefit of having heard any evidence to decide whether so broad a description of an alleged “scheme” is relevant. To do so would be to usurp the function of the trial judge.
+[12] One must bear in mind that in tax litigation pleadings serve several functions. For example, the reply should set out fully the respondent’s position. It should plead honestly and comprehensively the assumptions upon which the assessment is based. It should be informative to the judge so that he or she will know the Crown’s position and the issues that must be decided, matters that are being put in issue and the facts the Crown assumes or intends to prove. It should also inform the appellant of the case that is to be met. The essential and important function that pleadings serve in litigation is a practical one of providing information about the party’s case.
+[13] The appellant objects to the second sentence of paragraph 4 of the Reply on the basis that it is contradictory to the first sentence. The first sentence admits that IDEAS was a registered charity whereas the second sentence alleges that it was not fulfilling a charitable purpose. Whatever contradiction may exist between these two sentences should be resolved at trial, not by a motions judge before trial on a parsing of the pleadings.
+[14] I do not find that the statements in paragraph 4 are scandalous or vexatious or that they will prejudice or delay a fair hearing. The time devoted to this motion would be better spent trying to make some mileage with the trial judge in an attempt to show that the Crown’s pleadings are inconsistent or self‑contradictory and that some conclusion favourable to the appellant’s case should be drawn from that fact.
+[15] Paragraph 21 of the Reply alleges that Mr. Gould agreed to keep all information relating to the gift to IDEAS confidential. Counsel for the appellant contends that this assertion is irrelevant and should be struck. Perhaps it is. I daresay, if I were the trial judge, I might well treat the statement as irrelevant and ignore it. I assume that the judge who hears the case will be capable of deciding whether to ignore the assertion or to treat the alleged secretiveness as evidence of some nefarious fiscal purpose.
+[16] The appellant contends that paragraph 35 of the Reply cannot stand because the respondent cannot put forward a new basis of assessment for 2000 that disallowed 100% of the donation as opposed to 80%. As I understand the decision of the Federal Court of Appeal in Her Majesty the Queen v. Charles B. Loewen, 2004 DTC 6321, there is virtually no restriction on what the Crown can plead in a reply and there is no distinction between a new basis of assessment (Continental Bank Leasing Corporation v. The Queen, 98 DTC 6505) and a new argument in support of the assessment (ss. 152(9) of the Income Tax Act).
+[17] The appellant objects to paragraph 26 of the Reply on the basis that it alleges that Mr. Gould’s charitable donations in other years were smaller than in 2000. I agree that the point is of questionable relevance. It does not, however, warrant a pre-trial motion. The trial judge is no doubt capable of ignoring it if he or she considers it irrelevant. Trial judges are, after all, supposed to be able to ignore irrelevancies.
+[18] The appellant objects to paragraph 27 of the Reply on the ground that the allegation that Mr. Gould was an agent of an agent of the promoter of the scheme is irrelevant. It is by no means clear to me that it is so irrelevant that an appellant was somehow involved with the promotion of what the Crown alleges is a scheme. In any event it is for the trial judge, in the context of all of the evidence, to decide whether this evidence is relevant.
+[19] I turn now to the final and general objection to a number of other paragraphs. I shall set out in full the appellant’s written argument on this point. The essential objection is that these paragraphs refer to third party transactions without any allegation that the appellant was a party to or knew of these transactions and that therefore, on the basis of Status‑One Investments Inc. v. The Queen, 2004 DTC 3042 affd., 2005 DTC 5224, the paragraphs should be struck.
+[20] The written argument reads as follows:
+The balance of the impugned paragraphs in the Reply
+10. The balance of the impugned paragraphs of the Reply (including the Overview) deal with the so-called “Scheme” as defined by the Reply. Essentially the Respondent postulates that after Mr. Gould borrowed some money to make part of the 2000 Donation to IDEAS, IDEAS circulated the money back around to the lender in a complex series of transactions. These transactions are alleged to involve numerous third parties and hundreds of other taxpayers, none of whom are parties to this Appeal
+11. The critical thing to note is that nowhere does the Reply specifically allege that Mr. Gould was a party to these third party transactions. So far as one can tell from reading the Reply, these are third party transactions which the Reply does not tie directly to Mr. Gould as a party. Mr. Gould’s name is mentioned exactly twice in paragraph 25 (the assumptions paragraph): 25(f) and 25(pppp). Neither paragraph assumes that Mr. Gould was a party to the so‑called Scheme.
+12. Paragraph 30 of the Reply says that Mr. Gould “participated” in the Scheme, but this is neither a factual assumption (paragraph 25) or a separate fact relied on by the Minister (paragraphs 26 and 27). It is simply a ground relied on. And in any case, from the balance of the Reply it appears that Mr. Gould’s “participation” was limited to borrowing money and making the Donations. There is no allegation that his “participation” extended to being a party or even knowing about the third party transactions that make up the so-called Scheme.
+13. It is important to note that during the lead-up to this Appeal Mr. Gould expressly told the CRA that he knew nothing about these transactions (Leong Affidavit, Exhibits B and C (paragraph 6); and G and I). Because Mr. Gould knew nothing about the transactions the CRA had to gather information from other parties (Exhibit D). Despite Mr. Gould’s request in Exhibit I for the CRA to tell him exactly what was the basis of the reassessment, Exhibit J simply refers to the interest-free loan. It says nothing about Mr. Gould being a party to the third party transactions.
+14. It was, therefore, perfectly clear to the Respondent when She filed her Reply that Mr. Gould’s position was that these were third party transactions to which he was not a party in any way and about which he knew nothing. If the Respondent believed differently it was incumbent on Her to state so expressly in the Reply and to state exactly what facts the Minister assumed or relied on to show that Mr. Gould knew about or was a party to these third party transactions. Not having done so, the impugned paragraphs of the Reply are contrary to Rule 53.
+Status-One Investments Inc. v. The Queen, 2004 DTC 3042 (TCC) with official
+English translation,
+Tab 8.
+The Queen v. Status-One Investments Inc., 2005 DTC 5224 (FCA) with unofficial English translation,
+Tab 9.
+[21] With respect, I am unable to ascribe to either the Status-One decision or the case which it followed, The Queen v. Global Communications Limited, 97 DTC 5194, the effect contended for by counsel for the appellant. A central component in the assessment which disallowed the charitable donations is the existence of a “scheme” in which it is alleged that the appellant participated and which enabled the participants to obtain what the Crown sees as artificial or inflated charitable tax credits. It of necessity involved third parties and if the existence of a scheme is essential to the Crown’s case it should be able to plead and prove all of the components of the scheme. To say, as the appellant does, that Global and Status-One preclude any reference to third party transactions unless the appellant knows of or is privy to those transactions goes too far. If the existence of a scheme is germane to the disallowance it cannot be ignored whether or not the Minister assumed that the appellant knew about or was a party to the third party transactions that, according to the Reply, were an integral part of the scheme. If any of the facts assumed are truly within only the Crown’s knowledge the Crown probably has the onus of proving them although this is ultimately for the trial judge to decide.
+[22] I might observe that the complaint that is usually made is that the Crown has not pleaded all of the material assumptions or has not pleaded assumptions that assist the appellant. Here the reverse is true. The appellant is complaining that too many assumptions are pleaded. It would seem to me that if an assessment is based on assumptions that are irrelevant, contradictory or illogical, as the appellant alleges, this could arguably form a cogent basis for attacking the assessment. If those assumptions are removed from the Reply the appellant has deprived himself of one of the weapons in his arsenal. Why he would wish to do so escapes me. There is a danger that one can, in getting too engrossed in technical minutiae, lose sight of the substantial tactical advantage of forcing the Crown to live with its own pleadings. There is much to be said for the venerable rule about not educating your opponent.
+[23] Generally speaking, the striking out of portions of a pleading under section 53 of the Rules should be reserved for only the most plain and obvious cases. Matters of weight and relevancy are best determined by the trial judge who will have heard all of the evidence. Frequently the significance of a piece of evidence will not become clear until the end of a case. I repeat what was said in Niagara Helicopters Limited v. The Queen, 2003 DTC 513 at 514-515:
+[6] It is in my view premature at this stage of the proceedings to determine that facts which counsel for the appellant considers to be a relevant and necessary part of the appellant's case are irrelevant. The authorities are undisputed that it is only where it is clear and obvious that a pleading is scandalous, frivolous or vexatious or an abuse of the process of the court that it may be struck out. (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at 980; Erasmus et al. v. The Queen, 91 DTC 5415 at 5416).
+[7] It is by no means clear and obvious that the impugned paragraphs are scandalous, vexatious or frivolous or an abuse of this court's process. The remedy of striking out portions of pleadings on such grounds is reserved for the most obvious of cases, such, for example, as Davitt v. The Queen, 2001 DTC 702.
+[8] Whether an allegation is irrelevant is something that the trial judge is in a position to determine in the context of all of the evidence at trial. It is inappropriate on a preliminary motion for a motions judge, who has heard no evidence, to decide that an allegation is irrelevant thereby depriving a party of the opportunity of putting the matter before the judge who presides the trial and letting him or her put such weight on it as may be appropriate.
+[9] I see no merit in the argument that the impugned paragraphs may unduly lengthen the trial. It has undoubtedly taken counsel for both parties many hours to prepare this motion and to respond to it. Dealing with the motion is equally time consuming for the court. The time spent already on this motion is undoubtedly many multiples of the time that dealing with these paragraphs will require if the matter proceeds to trial. It will take the appellant no more than fifteen minutes to prove the facts alleged in the paragraphs in question and less than that for counsel for the respondent to invite the judge to ignore them if they are irrelevant. Trial judges are used to ignoring irrelevant material that is put before them. It is part of their job. If the trial judge decides that the appellant has unnecessarily cluttered up the record with irrelevant material this may be taken into account in awarding costs.
+[10] As I have said on other occasions I do not wish to see this court become a forum for procedural wrangling and useless motioning of parties. This sort of thing is a waste of time and money (Satin Finish Hardwood Flooring (Ontario) Limited v. The Queen, 96 DTC 1402 at 1404-5).
+[24] There is one final point that deserves mention. Section 8 of the Tax Court of Canada Rules (General Procedure) reads as follows:
+Attacking Irregularity
+Irrégularité
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+8. La requête qui vise à contester, pour cause d'irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle‑ci, ne peut être présentée, sauf avec l'autorisation de la Cour :
+a) après l'expiration d'un délai raisonnable après que l'auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l'irrégularité, ou
+b) si l'auteur de la requête a pris une autre mesure dans le cadre de l'instance après avoir pris connaissance de l'irrégularité.
+[25] Counsel for the appellant is put in a dilemma by the rule. He quite properly moved against the Reply with the requisite despatch. Had he delayed doing so he might have been met with the defence of the fresh step rule in section 8. Yet I cannot escape the view that if there is merit in the objections to this somewhat overwhelming reply the attack at this stage is premature and could perhaps be made, if at all, more appropriately at a later stage in the proceedings. It is for this reason that the rule gives the Court a discretion to permit a party to move against a pleading at a later stage in the proceedings.
+[26] The motion is dismissed. I think it is appropriate that I leave the disposition of costs to the trial judge.
+Signed at Ottawa, Canada, this 2nd day of September, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2005TCC556
+COURT FILE NO.:
+2004-4449(IT)G
+STYLE OF CAUSE:
+Roy Gould v. Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 24, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF ORDER:
+September 2, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Lynn M. Burch
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel A. Nitikman
+Firm:
+Fraser Milner Casgrain LLP
+1500 – 1040 West Georgia Street
+Vancouver, B.C. V6E 4H8
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

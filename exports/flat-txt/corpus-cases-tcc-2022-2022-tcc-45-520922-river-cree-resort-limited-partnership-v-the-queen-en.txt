@@ -1,0 +1,640 @@
+Title: River Cree Resort Limited Partnership v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520922/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-45-520922-river-cree-resort-limited-partnership-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-04-22
+
+# River Cree Resort Limited Partnership v. The Queen
+
+- Citation: 2022 TCC 45
+- Decision date: 2022-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4516, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+River Cree Resort Limited Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-04-22
+Neutral citation
+2022 TCC 45
+File numbers
+2016-4855(GST)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-4855(GST)G
+BETWEEN:
+RIVER CREE RESORT LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 13, 14, 15 and 16, 2021, at Edmonton, Alberta
+Additional written submissions received on January 17, 2022
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+David Douglas Robertson Maude Lussier-Bourque Laura Jochimski
+Counsel for the Respondent:
+Wendy Bridges Andrew Lawrence
+JUDGMENT
+The appeals of the reassessments of the following reporting periods are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s net tax be reduced by the following amounts to give effect to a concession made by the Respondent:
+Reporting Period Ending
+Reduction in Net Tax
+September 30, 2011
+$953.58
+October 31, 2011
+$1,126.09
+November 30, 2011
+$880.22
+December 31, 2011
+$2,507.49
+February 29, 2012
+$930.22
+March 31, 2012
+$1,272.76
+April 30, 2012
+$1,089.51
+May 31, 2012
+$1,257.99
+June 30, 2012
+$1,169.43
+July 31, 2012
+$1,262.98
+August 31, 2012
+$1,053.85
+September 30, 2012
+$1,738.23
+October 31, 2012
+$1,295.79
+November 30, 2012
+$1,058.60
+December 31, 2012
+$1,643.83
+February 28, 2013
+$1,094.35
+April 30, 2013
+$530.78
+June 30, 2013
+$95.02
+July 31, 2013
+$65.71
+August 31, 2013
+$113.93
+September 30, 2013
+$220.56
+November 30, 2013
+$320.69
+December 31, 2013
+$72.01
+January 31, 2014
+$2,904.21
+February 28, 2014
+$1,777.14
+March 31, 2014
+$1,436.19
+April 30, 2014
+$1,875.21
+May 31, 2014
+$1,895.35
+July 31, 2014
+$1,518.55
+August 31, 2014
+$1,434.08
+September 30, 2014
+$1,699.99
+October 31, 2014
+$1,560.31
+November 30, 2014
+$1,993.47
+December 31, 2014
+$1,494.44
+January 31, 2015
+$1,563.53
+February 28, 2015
+$2,764.35
+March 31, 2015
+$1,686.65
+April 30, 2015
+$1,990.87
+May 31, 2015
+$3,918.75
+The appeals of the reassessments of the Appellant’s reporting periods ending January 31, 2012, January 31, 2013, March 31, 2013, May 31, 2013, October 31, 2013 and June 30, 2014 are dismissed.
+The parties shall have until May 24, 2022 to reach an agreement on costs, failing which the parties shall have until June 23, 2022 to serve and file written submissions on costs and the parties shall have until July 4, 2022 to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, the parties shall bear their own costs.
+Signed at Ottawa, Canada, this 22nd day of April 2022.
+“David E. Graham”
+Graham J.
+Citation: 2022 TCC 45
+Date: 20220422
+Docket: 2016-4855(GST)G
+BETWEEN:
+RIVER CREE RESORT LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Appellant is a member of the corporate group that owns and operates the River Cree Resort and Casino (the “Resort”). The Resort is located in Enoch, Alberta, just west of Edmonton. It contains a hotel, a conference centre, two ice rinks, many restaurants and bars, a large arena for shows and, of course, a casino. The casino has more than triple the number of slot machines of any other casino in Alberta.
+[2] Casino customers need cash to gamble. As a result, the Appellant has ensured that a number of automated teller machines (“ATMs”) are conveniently situated throughout the Resort. During the reporting periods in question, the Appellant earned over $8 million in revenue in connection with those ATMs.
+[3] The Minister of National Revenue reassessed the Appellant on the basis that the Appellant made taxable supplies to the business that provided the ATMs and thus that the Appellant should have collected GST on the revenue that it received.
+[4] The Appellant says that it made exempt supplies of financial services either to the users of the ATMs or to the business that provided the ATMs and thus that it was not required to collect GST.
+I. Issues
+[5] In order to determine whether the Appellant should have collected GST on the revenue that it received, I must determine what the Appellant supplied and whether those supplies were exempt supplies of financial services. This requires me to answer the following questions:
+(a) Did the cash in the ATMs belong to the Appellant?
+(b) Did the Appellant provide the ATMs?
+(c) Who earned the service fees paid by cardholders to withdraw money from the ATMs?
+(d) Given those conclusions, what supplies did the Appellant make in consideration for the revenue it received?
+(e) Were those supplies exempt supplies of financial services?
+II. Background
+[6] In order to place these issues in context, I will briefly describe the parties who are typically involved in an ATM withdrawal, provide an overview of the series of supplies that typically occurs during a withdrawal and explain how GST normally applies to that series.
+A. Parties to an ATM Withdrawal
+[7] ATM withdrawals involve a number of different parties. The specific parties involved depend, in part, on the type of ATM at which the withdrawal occurs. Many ATMs are owned and operated by financial institutions. Others, known as “white label ATMs”, are owned by persons other than financial institutions. The ATMs in these appeals were all white label ATMs.
+[8] I will use the following terms to describe the parties to the series of supplies that typically occurs when a withdrawal is made from a white label ATM: [1]
+cardholder: The cardholder is a person who uses an ATM to withdraw money from his or her account with a card issuer.
+card issuer: A card issuer is a financial institution that is a member of a payment network. As the transactions in question occurred over the Interac payment network, I will use that network in my descriptions.
+acquirer: The Interac payment network is made up of a number of individual networks operated by different Interac members. Each network operator is called an acquirer.
+ATM provider: The ATM provider is the person who provides the ATM that is connected to the acquirer’s network. As set out above, the second issue that I must decide is whether the Appellant was an ATM provider in the periods in question.
+cash provider: The cash provider is the person whose cash is placed in that ATM. As set out above, the first issue that I must decide is whether the Appellant was a cash provider in the periods in question.
+[9] In a simple white label ATM transaction, a cardholder wants to withdraw cash from his or her account. He or she goes to an ATM connected to an acquirer’s network and inserts his or her card from his or her card issuer. The ATM has been placed by the ATM provider. It contains cash provided by the cash provider. Depending on the arrangements among the parties, the ATM provider and cash provider may be the same entity or different entities.
+B. Series of Supplies
+[10] When a cardholder inserts his or her card in a white label ATM, the ATM advises the cardholder that there will be a service fee for withdrawing cash and asks whether the cardholder would like to proceed. [2] This service fee is known as a “surcharge fee”.
+[11] If the cardholder agrees to pay the surcharge fee, the ATM sends a message over the acquirer’s network to the card issuer⁠—usually the cardholder’s bank. The card issuer withdraws the necessary funds (i.e. the money that the cardholder wants plus the surcharge fee) from the cardholder’s account and informs the acquirer that the transaction is approved. A series of supplies then starts.
+[12] The series begins with the acquirer providing services to the card issuer, continues as each party in the chain provides services to the party above it in the chain and ends when the cash provider transfers money to the cardholder. The exact nature of the series varies depending on the number of players involved and the specific arrangements made by the players. In particular, the series varies depending on whether the roles of cash provider and ATM provider are filled by the same entity.
+[13] The following is an example of a series of supplies that would occur if the ATM provider and the cash provider were the same entity:
+(a) The acquirer promises the card issuer that it will provide a transfer of money to the cardholder. The card issuer pays the acquirer a fee for this service. This fee is known as an “interchange fee”.
+(b) The acquirer does not actually have the money, so it pays the cash provider a portion of the interchange fee to transfer money to the cardholder.
+(c) The cash provider transfers its money to the cardholder. The cardholder pays the cash provider the surcharge fee for this service.
+[14] As described in detail below, GST would typically not apply to any of these supplies.
+C. GST and ATMs
+[15] Normally, GST is not applicable to any of the supplies in the series of supplies as each supply is an exempt supply of the financial services of transferring money, agreeing to provide the transfer of money or arranging for the transfer of money. [3]
+[16] The relevant portions of the definition of “financial service” are paragraphs (a) and (l). They read as follows: [4]
+“financial service” means
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+…
+1) the agreeing to provide, or the arranging for, a service that is
+referred to in any of paragraphs (a) to (i), and
+not referred to in any of paragraphs (n) to (t)…
+[Emphasis added]
+[17] Paragraph (a) of the definition speaks of “the exchange, payment, issue, receipt or transfer of money”. The word that best describes what happens when a cardholder receives money from an ATM is that the money has been “dispensed” to the cardholder. Unfortunately, the word “dispensed” does not appear in paragraph (a).
+[18] Of the words in paragraph (a) of the definition, I find that the word “transfer” best describes the transaction that occurs when money is dispensed from an ATM. The person supplying the money to the cardholder is clearly neither exchanging nor receiving money. That person is also not issuing money. The term “money” is defined in subsection 123(1). “Money” includes not only currency, but also such things as cheques, promissory notes and bank drafts. Cheques, promissory notes and bank drafts are all things that are issued. Since only the Bank of Canada can issue currency, it seems that the word “issue” appears in paragraph (a) in order to capture these other types of “money”.
+[19] The remaining terms in paragraph (a) are “payment” and “transfer”. The word “payment” seems inappropriate as it suggests that an amount is owing. By contrast, the transfer of money simply involves moving it from one person to another. This is exactly what is happening in an ATM transaction.
+[20] Paragraph (l) of the definition captures both “agreeing to provide” and “arranging for” a service described in paragraph (a). The paragraph therefore captures the supplies of agreeing to provide the transfer of money from an ATM and arranging for the transfer of money from an ATM.
+[21] Returning to the above example of a series of supplies that could occur in an ATM withdrawal, it is clear that each supply in the series would be a supply of a financial service. First the acquirer agrees to transfer money, then the cash provider agrees to transfer money and, finally, the cash provider actually transfers the money. As described in more detail below, if the cash provider and ATM provider had been different people, the ATM provider would have arranged for the transfer of money from the cash provider to the cardholder. These are all supplies of exempt financial services.
+[22] With this background on how GST applies to the series of supplies involved in an ATM withdrawal, I can now examine the Appellant’s role in the series of supplies that occurred at the ATMs at the Resort during the periods in question.
+III. Reporting Periods in Issue
+[23] The Minister reassessed the Appellant’s monthly reporting periods ending between September 1, 2011 and May 31, 2015. These reporting periods can be broken into two groups: the reporting periods from September 1, 2011 to May 31, 2014 (the “Initial Periods”) and the reporting periods from June 1, 2014 to May 31, 2015 (the “Subsequent Periods”).
+[24] I will analyze the Initial Periods and the Subsequent Periods separately.
+IV. Initial Periods
+[25] Certain details about the Initial Periods are not in dispute. The surcharge fee was $3.00. The interchange fee was $0.75. The acquirer was a company named TNS Smart Network Inc. (“TNS”).
+[26] A company named Cash N Go Ltd. was also involved in the series of supplies. That company was later acquired by Access Cash General Partnership. For simplicity, I will refer to both of these entities as “Access”. [5]
+[27] What is in dispute is who the cash provider and ATM provider were. The Appellant says that it fulfilled these roles. The Respondent says that Access fulfilled these roles and that the Appellant played no part in the series of supplies.
+A. Cash Provider
+[28] The Appellant submits that it was the cash provider in the Initial Periods. It says that the ATMs were loaded with its money. I disagree. I find that, during the Initial Periods, Access was the cash provider. Access borrowed cash from the Appellant and loaded that cash into the ATMs.
+[29] The relationship between Access and the Appellant during the Initial Periods was covered by an agreement dated January 1, 2010 (the “2010 Agreement”).
+[30] The 2010 Agreement clearly states that Access was responsible for providing the money needed to fill the ATMs and that the Appellant would “sell” Access the cash necessary for it to do so.
+[31] The Excise Tax Act does not recognize currency as something that can be sold unless its value exceeds its stated value as legal tender or it is supplied or held for its numismatic value. [6] Currency is not included in the definition of “financial instrument” and is specifically excluded from the definition of “property”. What Access and the Appellant were doing could best be described in Excise Tax Act terms as the advance of money (paragraph (g) of the definition of “financial service”) followed by the payment of money (paragraph (a)). Nothing turns on this distinction. Whether the Appellant sold or lent cash to Access, the result is still that, at the time the cash was placed in the ATMs, it belonged to Access.
+[32] I find that Access borrowed money from the Appellant and used that money to load the ATMs. Access could have loaded the ATMs with cash from any source. It could have borrowed from its bank or withdrawn from its own account. However, because the Appellant had a ready supply of cash in the appropriate dominations, Access chose to obtain the cash from the Appellant.
+[33] The time that Access took to repay the Appellant’s loan depended on how quickly the money in the ATM was withdrawn. Repayment worked as follows. The card issuer would withdraw the money that the cardholder wanted from the cardholder’s account. The next business day, the card issuer would give that money to TNS. TNS would immediately give it to Access. Access would then give it to the Appellant as partial repayment of the loan. Thus, the loan that the Appellant made to fill a given ATM with cash was repaid in bits and pieces the business day after each withdrawal. The final payment occurred the business day after the last withdrawal. Since the ATM would need to be refilled immediately after the final withdrawal, the Appellant typically advanced a new loan before the old loan was repaid in full. This cycle of advances and repayments continued throughout the Initial Periods.
+[34] The Appellant called Terry Brodhecker as a witness. Ms. Brodhecker is the slot cage manager at the Resort. She provided detailed evidence regarding the loading of the ATM cash cassettes. I found Ms. Brodhecker to be a credible witness.
+[35] Cash is loaded into an ATM using one or more trays called cassettes. Ms. Brodhecker testified that, during the Initial Periods, Access’ employees loaded cash into the cassettes in a secure room near the cash cage. Access’s employees then took the cassettes to the ATMs and loaded them into the vaults on the bottom of the ATMs. Only Access knew the combination of these vaults. The Appellant could not open the vaults.
+[36] Ms. Brodhecker explained that, when the cassettes needed reloading, the Appellant’s employees at the Resort’s cash cage provided two of Access’ employees with the necessary cash. The Appellant used detailed checks and balances to ensure that both parties agreed on the amount of money being provided. Employees of both Access and the Appellant signed all receipts. Cassettes were sometimes reloaded before they were completely empty. Therefore, the cash cage also maintained records of the amount of cash remaining in any returned cassettes. When a partially full cassette was replaced with a separate full cassette, the records had to reflect both the repayment of the cash from the partially full cassette and the advance of the cash in the full cassette.
+[37] The Appellant tracked the money that was placed into the ATMs and later deposited into the Appellant’s bank account using a spreadsheet. The column headings described these amounts as “Cash N Go Purchases” and “Cash N Go Payments”. [7] These headings indicate that the Appellant believed that it was selling money to Access, not filling the ATMs with its own money.
+[38] A dispute arose between Access and the Appellant in 2015. Despite the detailed records that were maintained regarding the money that the Appellant lent to Access, neither the Appellant nor Access had records showing who first filled the ATMs. There was $580,000 unaccounted for. The Appellant took the position that it had supplied the $580,000 and sued Access to recover it. Access took the position that it had supplied the $580,000. The Appellant ultimately dropped the lawsuit as a lack of evidence made it difficult for it to prove its case. What is important for the purpose of these appeals is not who supplied the initial $580,000. What is important is what the pleadings reveal about the parties’ views of the funds in the ATMs. The pleadings of both the Appellant and Access make it clear that, other than the disputed initial $580,000, all of the funds placed in the ATMs prior to June 1, 2014 had been sold to Access by the Appellant. The Appellant’s statement of claim specifically states that Access “agreed to cover the periodic costs of new cash purchases from [the Appellant] as required to load the ATMs, and [the Appellant] agreed to sell to [Access] sufficient currency in the required denominations for this purpose…”. [8]
+[39] The Appellant called its CFO, Ron Klein, as a witness. Mr. Klein testified that the money in the ATMs in the Initial Periods was the Appellant’s money. I generally did not find Mr. Klein to be credible. His testimony appeared crafted to suit the Appellant’s view of the appeals. Faced with contemporaneous documentary evidence to the contrary, his fallback position was that the people preparing the documents did not fully understand the transactions. I find that a more accurate characterization would be that the people preparing the documents were unaware of the position that the Appellant would ultimately take in this appeal and thus described the actual transactions that occurred rather than the ones that the Appellant would now like to have occurred.
+[40] The Appellant also called James Wilson as a witness. Mr. Wilson formerly worked at Access. When Access acquired Cash N Go, Mr. Wilson took over management of the Appellant’s account. Other than as set out below, I found Mr. Wilson to be a credible witness.
+[41] Mr. Wilson testified that the portions of the 2010 Agreement that described Access as supplying the money were inaccurate and that, in fact, Access loaded the machines with the Appellant’s money. I prefer the contemporaneous documentary evidence in the form of the 2010 Agreement, the spreadsheet, the cash cage paperwork and the unvarnished characterizations in the lawsuit pleadings to Mr. Wilson’s testimony.
+[42] Mr. Wilson has significant experience in the ATM industry. He described different arrangements that companies like Access enter into with their customers. He explained that a “full placement” contract was one where Access provided the hardware, the communications and the cash whereas a “partial placement” contract was one where Access provided the hardware and communications and the customer provided the cash. The 2010 Agreement sets out the revenue that the Appellant will receive on each transaction. These amounts are described under the heading “Full Placement Schedule”. [9] I find that this description is consistent with the statements in the rest of the 2010 Agreement. The description is also consistent with the description of the 2010 Agreement that the Appellant itself made in its statement of claim when it sued Access. The Appellant described the agreement as one which obligated Access to, among other things, provide and fully service ATMs at the Resort. [10]
+[43] Finally, the Appellant called its CEO, Vik Mahajan, as a witness. It is unclear whether Mr. Mahajan’s testimony was simply that the cash in the ATMs originated from the Appellant or that it belonged to the Appellant. When presented with the provision in the 2010 Agreement which states that the Appellant will sell the money to Access, Mr. Mahajan avoided either confirming or denying that the sale had occurred. He simply stated, “So the loaders would come in, we would give our money to the loaders to load up the ATM machines”. [11] As I am unable to discern what Mr. Mahajan’s testimony on this issue was, I give it no weight.
+[44] On the basis of all of the foregoing, I conclude that Access’ money was in the ATMs during the Initial Periods and therefore that Access, not the Appellant, was the cash provider during those periods.
+[45] Since Access was the cash provider, it was the one who made the final supply in the series of supplies. It was Access that transferred money to the cardholders.
+B. ATM Provider
+[46] The Appellant submits that it was the ATM provider in the Initial Periods. I disagree. I find that Access was the ATM provider.
+[47] An ATM provider operates an ATM that it has either purchased or leased. If the ATM provider and the cash provider are different entities, the ATM provider may arrange for the transfer of money from the cash provider to the cardholder. To determine who the ATM provider was in the Initial Periods, I will consider the ownership of the ATMs, the operation of the ATMs and who arranged for the transfer of money to the cardholders.
+(a) Ownership of the ATMs
+[48] The 2010 Agreement is titled “ATM Purchase Agreement”. In the agreement, Access purports to sell the ATMs to the Appellant on a “free use” basis. In other words, a purchase price is established and then waived in consideration for the Appellant entering into the agreement. Despite this, the Appellant admits that it did not purchase the ATMs from Access. [12]
+[49] The 2010 Agreement makes it clear that legal and beneficial title to the ATMs remained with Access throughout the Initial Periods. While ownership was to be transferred to the Appellant at the end of the term, Mr. Mahajan testified that the Appellant simply returned the ATMs to Access as Access provided new ATMs under the 2014 Agreement and the old ones were of no use to the Appellant.
+[50] In oral submissions, counsel for the Appellant raised the possibility that the Appellant had leased the ATMs from Access. There is no evidence to support that position.
+[51] The fact that Access owned the ATMs throughout the Initial Periods argues strongly in favour of Access being the ATM operator.
+(b) Operation of the ATMs
+[52] To operate an ATM, first and foremost, the ATM must be connected to a network. In addition, someone must have loaded the cassettes with cash and placed those cassettes in the ATM. The ATM must have power and internet access. It must be maintained. Finally, the ATMs need to be physically located somewhere. The ATM provider may provide these things itself or it may contract with others to provide them to it. I will consider each of these factors.
+(i) Connection to the Network
+[53] Access connected the ATMs to TNS’s network. The question is whether Access connected the ATMs because it was operating them or because it was retained by the Appellant to connect the ATMs so that the Appellant could operate them.
+[54] I struggle to see why the Appellant would have retained Access to connect ATMs that it neither owned nor leased. It seems far more likely to me that Access connected the ATMs that it owned to the network so that it could operate them.
+[55] The fact that no consideration flowed from the Appellant to Access under the 2010 Agreement supports this conclusion. If the Appellant had retained Access to provide connection services, I would have expected the Appellant to pay for those services.
+(ii) Loading Cassettes
+[56] As set out above, Access borrowed money from the Appellant and then loaded that money into the cassettes. Access was responsible for loading the cassettes with cash and then placing those cassettes in the ATMs. The 2010 Agreement provided that, if the Appellant was prepared to take over that function, Access would pay it an additional $0.40 per transaction. Mr. Wilson explained that this additional payment reflected the savings that Access would have achieved by not having to pay its employees to travel to the Resort and spend hours loading the cash. The Appellant did not exercise this option.
+[57] For me to accept that the Appellant was operating the ATMs, I would have to conclude that the Appellant had the obligation to load the cassettes, that it hired Access to perform that task for it for no apparent consideration and that Access then offered to pay the Appellant $0.40 per transaction to perform the very task that it had just agreed to do for free. This is patently absurd.
+[58] In summary, the fact that Access was responsible for loading the cassettes and tried to pay the Appellant to do so on its behalf strongly suggests that Access was the one operating the ATMs.
+(iii) Utilities, Maintenance and Other Support
+[59] There is no question that the Appellant provided the utilities, security, routine maintenance and customer support necessary to operate the ATMs. The question is whether the Appellant provided these services because it was operating the ATMs or because it was retained by Access to provide these services so that Access could operate them.
+[60] Again, I struggle to see why the Appellant would have wanted to support the operation of ATMs that it did not own or lease. It seems far more likely to me that Access retained the Appellant to provide these services to it. The fact that no consideration flowed from the Appellant to Access under the 2010 Agreement supports this conclusion.
+(iv) Location
+[61] The Appellant was required to provide a physical location for the ATMs. The 2010 Agreement specified where the ATMs were to be initially placed at the Resort. The Appellant was not allowed to remove the ATMs from the Resort and required Access’ written consent if it wanted to relocate the ATMs within the Resort. The Appellant was not allowed to obstruct access to the ATMs and was required to allow the public to use the ATMs during its normal business hours.
+[62] I would not have expected these restrictions to be present if the Appellant were the one operating the ATMs. This level of control strongly suggests that Access was the operator, that the Appellant was merely providing a location and that Access wanted to ensure that the Appellant did not interfere with the ATMs’ operations.
+(v) Limitations on Use
+[63] The 2010 Agreement placed significant restrictions on what the Appellant could do with the ATMs.
+[64] The Appellant was prohibited from making any alterations to the ATMs that would change or affect their operation without Access’ consent. Access, on the other hand, was allowed to change the wording, branding, design or appearance of the ATMs without the Appellant’s consent.
+[65] The ATMs could only be connected to the network that Access wanted and could only be connected through Access.
+[66] The Appellant could not change the surcharge fee without Access’ written consent. [13] By contrast, Access had the ability to increase the fee (and presumably retain the excess) if it determined that the operation of the ATMs was not commercially viable.
+[67] Most importantly, Access had the ability to terminate the agreement and take the ATMs back if the Appellant did not comply with any of these conditions or any other term of the 2010 Agreement.
+[68] In summary, the Appellant was allowed to do anything it wanted with the ATMs as long as what it wanted to do was what Access wanted it to do. All of these restrictions on the use of the ATMs strongly support the idea that Access was the one operating the ATMs.
+[69] The evidence indicates that, in practice, Access allowed the Appellant some small level of control over the ATMs. The Appellant could apply stickers to the outside of the ATMs and determine the wording on the greeting screen that the cardholders saw when they inserted their cards. The Appellant could also choose the denominations of bills that Access would load into the ATMs. I find that the limited control that Access gave to the Appellant does not change the fact that Access was the one operating the ATMs.
+(vi) Conclusion: Operation of the ATMs
+[70] On the basis of all of the above, I find that Access operated the ATMs in the Initial Periods.
+(c) Arranging for the Transfer of Money
+[71] If the cash provider and the ATM provider are different people, the ATM provider fulfills an important role in the series of supplies. The ATM provider arranges for the transfer of the money.
+[72] In Zomaron Inc. v. The Queen, Justice Lyons considered what “arranging for” meant in the context of credit card transactions. She concluded that the essence of the concept was “bringing together parties to a service” and held that the intermediary must “have a sufficient amount of involvement to then ‘cause to occur’ or effect the financial service…” [14]
+[73] I find that the ATM provider meets that test. The ATM provider brings the cash provider and the cardholder together so that the transfer of money can occur. The cash provider has money that it wants to transfer. The cardholder wants to receive that money. The ATM provider supplies the means by which the cash provider and the cardholder can effect that transfer. It supplies the necessary ATM and network connection.
+[74] As set out above, arranging for the transfer of money is caught by paragraph (l) of the definition of “financial service”. Thus, if either the cardholder or the cash provider pays the ATM provider a fee for this service, GST would generally not apply.
+[75] Having concluded that Access was both the cash provider and the ATM provider in the Initial Periods, I would not normally have to consider whether someone else had arranged for the transfer of the money. Access, as cash provider, did not need anyone to arrange to transfer its money to the cardholders. As ATM provider, it already had the means to connect the cardholders to its cash.
+[76] However, the Appellant submitted that, even if it was not the ATM provider, it did other things to arrange for the transfer of money from Access to the cardholders. I disagree.
+[77] Certainly the Appellant provided space for the ATMs. However, in Mac’s Convenience Stores Inc. v. The Queen, Justice Hogan held that merely providing the physical space where an ATM transaction could occur does not amount to arranging the transaction. [15]
+[78] The Appellant says that it did more than just allow Access to place ATMs in the Resort. The Appellant points to the utilities, security, routine maintenance and customer support that it provided. I find that these elements of its supply to Access supported Access’ operation of the ATMs but did nothing to bring the cardholder and Access (as cash provider) together or cause the transactions to occur.
+[79] The Appellant also highlights its decisions to locate the ATMs in prominent, high traffic locations throughout the Resort, its labelling on the ATMs that clearly identified the denominations that would be dispensed from a given ATM and its decision as to which denominations would be dispensed from a given ATM. The Resort wanted its patrons to be able to easily withdraw money to spend or gamble at the Resort. I find that the Appellant’s actions could better be described as decisions that benefited the Resort’s business than arranging for the transfer of money to the cardholders.
+[80] The Appellant also points out that it lent Access the money that Access transferred to the cardholders. I find that Access borrowing money from the Appellant is too far removed from the transactions to amount to arranging for them.
+[81] Even looking at all of the above collectively, I still cannot find that the Appellant arranged for the transfer of money from Access to the cardholders.
+(d) Conclusion
+[82] Access gave ATMs that it owned to the Appellant for free on the condition that the Appellant would place them in specific locations at the Resort and allow cardholders to access them. Access then loaded the ATMs with cash, connected them to a network and processed the cardholders’ transactions. In the circumstances, I have no difficulty in concluding that the Appellant did nothing to arrange for the transfer of money to the cardholders. [16] Accordingly, I find that Access was the ATM provider in the Initial Periods.
+C. Who Supplied the Services that Gave Rise to the Surcharge Fees?
+[83] Because I have concluded that Access was both the cash provider and the ATM provider, it is easy to determine who earned the surcharge fees.
+[84] The cardholders paid the surcharge fees in exchange for services. Access was the only person who supplied services to the cardholders. Therefore, the cardholders must have paid the surcharge fees to Access for the services it supplied.
+[85] There is no need for me to determine which service or services the cardholders paid Access for. It is sufficient that I have concluded that the Appellant did not supply those services.
+[86] The Appellant argues that, because it set the amount of the surcharge fee, it must have earned the surcharge fee. I disagree. The fact that a person had the ability to set the price to be charged for a service does not mean that the person supplied the service.
+[87] There is no doubt that the Appellant was interested in setting an appropriate surcharge fee. The Appellant’s compensation for the services it provided to Access was calculated based on the surcharge fee. But the fact that the Appellant received an amount from Access that was calculated by reference to the surcharge fees does not change the fact that the Appellant did not supply any services to the cardholders.
+D. The Series of Supplies
+[88] Having determined that Access was both the cash provider and the ATM provider during the Initial Periods, I can now describe the series of supplies that occurred. The Appellant played no role in that series.
+[89] A diagram showing the series of supplies made during the Initial Periods and the separate supplies made by the Appellant to Access during those periods is attached as Appendix “A”.
+(a) First Supply in the Series
+[90] The first supply in the series of supplies in the Initial Periods was a supply from TNS to the card issuer.
+[91] Once the card issuer approved a cardholder’s request to withdraw funds, the card issuer sent a message to TNS. TNS then agreed to provide the card issuer with the service of providing the transfer of money to the cardholder. The card issuer paid TNS the $0.75 interchange fee for this service.
+[92] This first supply fell within paragraph (l) of the definition of “financial service”. The card issuer paid TNS for agreeing to provide the transfer of money to the cardholder. Thus, there would have been no GST on the interchange fee that TNS received. [17]
+(b) Second Supply in the Series
+[93] The second supply in the series in the Initial Periods was a supply from Access to TNS.
+[94] At this point in the series of supplies, TNS had promised to provide the transfer of money to the cardholder. However, TNS did not have a direct means of doing so. Access had connected the ATMs to TNS’s network. Therefore, TNS entered into an agreement with Access.
+[95] TNS paid Access $0.71 of the $0.75 interchange fee to transfer Access’ money to the cardholder.
+[96] This second supply fell within paragraph (a) of the definition of “financial service”. Access was paid to transfer money. [18] Thus, there would have been no GST on the portion of the interchange fee that Access received. [19]
+(c) Final Supply in the Series
+[97] The final supply in the series of supplies was from Access to the cardholder.
+[98] The final supply in the series of supplies always results in the transfer of money from the cash provider to the cardholder. The cash provider is the only person in the series who can actually transfer money to the cardholder. The cash belongs to the cash provider. Others can agree to provide the transfer of the money or arrange for the transfer of the money but only the cash provider can actually transfer it. Since I have concluded that Access was the cash provider, it was the one who made the final supply to the cardholder.
+[99] As described above, as Access was the only person who supplied a service to the cardholder, the cardholder must have paid the surcharge fee to Access. No GST would have been payable on the supply as it would have been caught by paragraph (a). [20]
+(d) Supplies by the Appellant
+[100] Since the Appellant was neither the cash provider nor the ATM provider, it played no role in the series of supplies. Yet Access paid the Appellant $3.10 to $3.14 per transaction. While these fees were calculated by reference to the surcharge fee and the interchange fee, the Appellant did not actually earn either of those fees. Access earned the surcharge fee. The interchange fee was earned by both TNS and Access.
+[101] The Respondent submits that the fees the Appellant received were consideration paid to it by Access for supplies made outside of the series of supplies. I agree. So what did the Appellant supply to earn the fees it received and were those supplies financial services?
+E. Nature of the Supplies
+(e) Test for Supplies with More Than One Element
+[102] A given supply is sometimes composed of more than one element. If all of the elements in a supply would be taxable supplies if made on their own, then there is no need to distinguish among them. The same is true if all of the elements in a supply would be exempt supplies if made on their own. However, complexities can arise when elements, like financial services, that would be exempt supplies are supplied together with elements that would be taxable supplies.
+[103] The courts have set out tests to use in these circumstances to determine the nature of the supplies. The following is an attempt to assimilate those tests into a comprehensive step-by-step test:
+(1) What was provided: Determine what goods and/or services the supplier provided for the consideration received (O.A. Brown Ltd. v. The Queen; [21] Global Cash Access (Canada) Inc. v. The Queen; [22] Great-West Life Assurance Co. v. The Queen; [23] SLFI Group v. The Queen; [24] CIBC v. The Queen [25] ).
+(2) Single compound supply or multiple supply: Determine whether the goods and/or services provided should be characterized as “a single supply comprised of a number of constituent elements or multiple supplies of separate goods and/or services” [26] (O.A. Brown Ltd.; Hidden Valley Golf Resort Association v. The Queen; [27] City of Calgary v. The Queen; [28] SLFI Group; Global Cash Access; CIBC v. The Queen [29] ).
+(3) Determine how the resulting supply should be treated: Determine whether that supply was or those supplies were taxable supplies or exempt supplies:
+(a) Single Compound Supply: For a single compound supply, determine what the predominant element of the supply was. This analysis should focus on the purchaser’s perspective of the supply. [30] The supply will be taxed in the same manner as that predominant element (Global Cash Access; Great-West Life; SLFI Group).
+(b) Multiple Supply: For multiple supplies, determine whether each of those individual supplies was a taxable supply or an exempt supply.
+If one of the multiple supplies was, itself, a single compound supply, apply the test in paragraph (a) to that supply (Jema International Travel Clinic Inc. v. The Queen [31] ).
+If there was a single consideration paid for the multiple supplies, consider whether sections 138 (incidental supplies) or 139 (financial services in mixed supply) apply to nonetheless deem there to have been a single compound supply (Camp Mini-Yo-We Inc. v. The Queen [32] ; 9056-2059 Québec v. The Queen; [33] Canada Trustco Mortgage Co. v. The Queen; [34] Maritime Life Assurance Co. v. The Queen; [35] Jema International; CIBC v. The Queen [36] ).
+[104] The leading case on financial services is the Federal Court of Appeal decision in Global Cash Access. I acknowledge that the test from Global Cash Access is described as a two-step test and that the test that I have described above is a three-step test. However, a close reading of Global Cash Access reveals that the Court actually conducted the three-step test described above: it set out the elements that the supplier provided (at para. 27), concluded that they were part of a single compound supply (at para. 28), and then determined what the predominant element of that supply was (at paras. 29 and 30). While the Federal Court of Appeal specifically described all three steps in SLFI Group, [37] it did not mention the second step in Great-West Life. That is presumably because, in that case, everyone agreed that there was a single compound supply. There was no need for the Court to consider the second step in the test or, for that matter, to discuss how the third step would work if the supply were something other than a single compound supply.
+[105] Having set out the test, I will now apply it to the supplies in issue in the Initial Periods.
+(f) What Was Provided?
+[106] The Appellant provided Access with many different goods and services under the 2010 Agreement.
+[107] The Appellant supported Access’ operation of the ATMs by providing electricity, internet access, routine maintenance, security and customer service. The Appellant lent Access the cash that Access used to load the ATMs. The Appellant allowed Access to access the Resort in order to install, service, supply and repair the ATMs and to fill them with cash.
+[108] The Appellant also gave Access the exclusive right to operate ATMs at the Resort. The Appellant agreed not to use the services of any of Access’ competitors. It also agreed not to place any additional ATMs in the Resort unless they were provided by Access. Finally, it agreed not to allow any part of the Resort to be used by any financial institution that operates ATMs and to obtain from any tenant at the Resort an agreement not to operate an ATM.
+(g) Single Compound Supply or Multiple Supply
+[109] As set out above, the second step is to determine whether the goods and services that the Appellant provided should be characterized as a single supply comprised of a number of constituent elements or multiple supplies of separate goods and services.
+[110] Unfortunately, this issue was not pleaded. The parties did not raise the possibility of there being multiple supplies. On the contrary, both parties specifically pleaded that the Appellant had made a single compound supply. [38]
+[111] Sometime after the completion of the trial, I became concerned that there may, in fact, have been multiple supplies in both the Initial Periods and the Subsequent Periods. I raised this issue with the parties and asked them to make additional written submissions. As part of these submissions, I specifically asked the parties to address whether it was appropriate, at this point in the proceedings, for me to consider this issue.
+[112] The Respondent argued forcefully that it would be inappropriate for me to consider the issue as the parties had led evidence in reliance on the pleadings. The Respondent was particularly concerned that, if I were to find that the Appellant had made multiple supplies, the parties would not have had the opportunity to introduce the evidence necessary for me to properly allocate the consideration received by the Appellant among those supplies. I accept the Respondent’s position.
+[113] As a result, I will determine the nature of the supplies on the basis that the Appellant made a single compound supply of all of the different elements described above.
+(h) Treatment of the Supply
+[114] I find that the predominant element of that single compound supply was the exclusive right to place and operate ATMs at the Resort and to process all transactions arising therefrom.
+[115] Mr. Wilson made it clear that the most important thing in the ATM business is the volume of transactions. Companies like Access earn fees for each transaction processed. Because casino patrons need cash to gamble, casinos offer a particularly high volume of transactions. Ms. Brodhecker testified that there were between 50,000 and 60,000 ATM transactions per month at the Resort. I find that it was precisely this potential volume that made the Resort a desirable location for Access to place its ATMs. Access wanted to ensure that it would not face any competition for that volume so it negotiated exclusivity. To reinforce its goals, Access established a compensation system that rewarded the Appellant based on the volume of transactions.
+[116] I find that the lending of money was not the predominant element of the supply. There was no evidence to suggest that Access was primarily looking to borrow money. Similarly, nothing in the evidence indicates that the compensation the Appellant received was in any way tied to the amount of money it lent. The Appellant was paid based on the number of transactions that occurred, not the amount of funds advanced.
+[117] I understand that an ATM cannot operate without cash. I also acknowledge that, at various times during the Initial Periods, Access owed the Appellant well over $2 million. However, as set out above, Access, not the Appellant, was the one responsible for providing the cash that was loaded into the ATMs. The question is not whether the ATMs could have functioned without money. The question is whether they could have functioned without money borrowed from the Appellant. The answer is clearly “yes”.
+[118] The evidence indicates that Access borrowed from the Appellant not because the commercial efficacy of the transactions depended on it, but rather because it was simply convenient to do so. Access could have obtained the cash from anywhere. It could have used its own cash or borrowed it from third parties. It had done so in the past. When Access first began working with the Appellant in 2006, Access took money from its own bank account and used Brinks’ armoured car service to deliver that cash to the Resort and place it in the ATMs.
+[119] The Appellant had a ready source of cash in the denominations that Access needed to fill the ATMs. Since the cash was already located in the Resort, Access did not have to pay to transport the cash. This made borrowing from the Appellant convenient, but not a necessity. The fact that the cash was in the Resort was only valuable to Access because Access had obtained exclusive access to place and operate ATMs at the Resort. There is no evidence to suggest that Access would have had any interest in borrowing money from the Appellant if it did not have ATMs at the Resort. It is, in fact, difficult to imagine why Access would ever have wanted to enter into such an arrangement.
+[120] It is important to distinguish the Appellant’s situation from that in Global Cash Access. Global Cash Access involved transactions made in a casino called “cash calls”. Cash calls allow casino patrons to indirectly obtain cash advances far in excess of what their credit or debit cards would normally permit. Casino patrons place their credit or debit card into a kiosk. They then use those cards to purchase what amounts to a cheque payable to the casino. They take the cheque to the casino’s cash cage. The cash cage employees verify certain information and then release money to the patron. The money is provided by the cash cage. No cash comes out of the kiosk. Most people’s daily purchase limit on the credit or debit cards exceeds their daily withdrawal limit. Because the transaction at the kiosk qualifies as a purchase, the patrons are able to obtain more cash than they could otherwise obtain at an ATM. [39]
+[121] Global Cash Access paid fees to two casinos for the services provided by the casinos to facilitate the cash calls. The Minister reassessed those casinos on the basis that they had made taxable supplies. The casinos charged Global Cash Access the GST that they had been assessed. Global Cash Access then claimed a rebate on the basis that it had paid the GST in error. It took the position that the casinos had made supplies of financial services.
+[122] The Federal Court of Appeal found that there were three elements to the casinos’ supplies. The casinos granted Global Cash Access permission to place its kiosks on their premises. The casinos also provided various clerical services related to the cash calls such as verifying the patrons’ identity. Finally, the casinos provided the money that Global Cash Access needed to dispense to its customers. At trial, the Tax Court had found that these were three separate supplies. The Federal Court of Appeal concluded that they represented a single compound supply. The Court then concluded that “the heart of each transaction” was the advance of money by the casinos. That was the predominant element of the single compound supply: [40]
+On any reasonable view of the evidence, the commercial efficacy of the arrangement depends critically on access to the Casinos’ cash. Global is in the business of providing the means by which holders of credit cards can be furnished with cash. Global entered into the contracts with the Casinos specifically to ensure that patrons of the Casinos could be furnished with cash on the Casinos’ premises. Unless the Casinos were willing and able to supply the cash, there would have been no point in Global setting up its equipment on the Casinos’ premises or specifying the documentation required to complete the transactions.
+[123] The Appellant’s situation can be distinguished from that in Global Cash Access. In Global Cash Access, the transactions would not have worked without the casinos’ money. The conceit that a casino patron had purchased a cheque only worked if the patrons had someone with a ready source of cash to give the cheque to. Only the casinos’ cash cages could fulfill that function. The same is not true in the Appellant’s case. The ATM transactions depended on Access loading the ATMs with cash but it did not depend on Access borrowing that cash from the Appellant. Access could have obtained that cash from any number of sources.
+[124] For all of the reasons set out above, I find that the predominant element of the single compound supply made in the Initial Periods was the exclusive right to place and operate ATMs at the Resort and to process all transactions arising therefrom. This licence is a taxable supply of property. Accordingly, GST was applicable to the supply.
+V. Subsequent Periods
+[125] The relationship between Access and the Appellant during the Subsequent Periods was covered by an agreement dated October 1, 2014 (the “2014 Agreement”). [41]
+[126] TNS continued to be the acquirer. The interchange fee remained at $0.75 per transaction. However, the surcharge fees paid by the cardholders increased from $3.00 to $3.99.
+[127] The amount of money that the Appellant received also increased. During the Subsequent Periods, the Appellant received $4.50 to $4.62 per transaction. This fee consisted of an amount equal to the $3.99 surcharge fee plus an amount equal to $0.51 to $0.63 of the interchange fee.
+F. Cash Provider
+[128] In the Subsequent Periods, the Appellant began loading the ATMs with its own money. The Appellant no longer advanced money to Access. The Appellant was therefore the cash provider.
+G. ATM Provider
+[129] The Appellant submits that it was the ATM provider in the Subsequent Periods. I disagree.
+[130] The obligations of Access and the Appellant are clearly set out in the 2014 Agreement. The 2014 Agreement is called an “ATM Placement & Processing Agreement”. It is subtitled “Shared Agreement for the Operation of an Automatic Banking Machine (ABM)”. This title and subtitle perfectly describe what the agreement entails.
+[131] Access owned the ATMs. It placed them at the Resort and provided the transaction processing services necessary to connect them to TNS’s network. The Appellant supplied the location, the electricity and the internet connection. It also agreed to provide routine maintenance for the ATMs such as changing the receipt paper.
+[132] Like the 2010 Agreement, the 2014 Agreement contained an option whereby the Appellant could choose to load the cassettes in exchange for an additional $0.39 to $0.40 per transaction. If the Appellant did not exercise the option, then Access was required to load the cassettes itself. The Appellant exercised this option in the Subsequent Periods. The fact that the Appellant chose to provide this additional service to Access in the Subsequent Periods does not, in my view, change the fact that Access was the one who was ultimately responsible for loading the cassettes. The Appellant could have given that responsibility back to Access at any time.
+[133] On the basis of all of the foregoing, I find that Access was the ATM provider in the Subsequent Periods. Access owned the ATMs, connected them to the network, processed the resulting transactions and was responsible for loading them with cash. The Appellant merely provided inputs to the ATMs’ operation.
+H. Who Supplied the Services that Gave Rise to the Surcharge Fees?
+[134] Having established that the cash provider and the ATM provider were different entities, I now need to determine which of those entities supplied the services that gave rise to the surcharge fees.
+[135] As set out above, when the cash provider and the ATM provider are the same entity, the cardholder must be paying the surcharge fee to that entity. It is the only entity with whom the cardholder contracts. However, because the cash provider and the ATM provider are different entities, I must determine which of them the cardholder contracted with. Did the cardholders pay the surcharge fees to the Appellant, as cash provider, for the service of transferring money to them, or to Access, as ATM provider, for the service of arranging for the transfer of money from the Appellant to them?
+[136] Unfortunately, while the cardholders explicitly agreed to pay the surcharge fees, there is no evidence that they agreed to pay those fees to a specific person or for a specific service.
+[137] Neither party led any evidence on this point. The Appellant has the burden of proving the facts necessary to support its appeal. If the Appellant wanted me to conclude that the cardholders paid the surcharge fee to the Appellant, the Appellant needed to introduce evidence to prove that that was what happened. While the Minister did not make an explicit assumption of fact that the cardholders paid the surcharge fee to Access, in assuming that Access paid the Appellant the total amounts received by the Appellant in the Subsequent Periods, the Minister necessarily assumed that none of those amounts were paid to the Appellant by the cardholders. [42] To meet its burden, the Appellant had to demolish that assumption. It did not do so.
+[138] Even if the Minister had not made that assumption, in the absence of any evidence, I would still have found that it was more likely than not that the cardholders paid the surcharge fee to Access. The cardholders had money in their bank accounts. It seems to me that, in their minds, the cardholders would not have been looking for someone to lend them money for a fee. They would have been looking for someone to help them get at their own money. To do that, they would have needed a means of connecting to the Interac network. Access provided that means. Most likely, the cardholders would not have known who owned the ATMs, who operated the ATMs or who provided the cash that was sitting in the ATMs. I cannot imagine that they would even have cared about any of these things. All the cardholders would have known was that the ATMs offered a connection to a network that would allow them to withdraw money from their own accounts. I find that that is what the cardholders paid for—access to the network. In other words, I find that they paid the surcharge fee to Access for arranging for the transfer of money, not to the Appellant for transferring the money. This is not to say that the Appellant was not paid for its role as cash provider. It is simply to say that it was not paid by the cardholders.
+[139] While it is tempting to determine who earned the surcharge fee by examining the arrangements between Access and the Appellant, in my view that approach would be backwards. The cardholders paid for a service. Either they paid the Appellant for transferring money, paid Access for arranging for the transfer of money or paid both of them. What the Appellant and Access did with the fees the cardholders paid does not alter what service the cardholders paid for. Access and the Appellant were free to decide between themselves what happened to the surcharge fee. They chose that the Appellant would end up with it. They could just as easily have chosen that Access would end up with it or that they would share it. They could even have agreed that a third party would be entitled to a portion of it. In my view, their private arrangements cannot be used to determine what supply the cardholder paid for.
+[140] An example can help to illustrate this point. Say an ATM provider and a cash provider agreed with the landlord of the building where the ATM was housed that the landlord would receive the surcharge fee. If I used their agreement to determine what the cardholder acquired, I would be forced to reach the absurd conclusion that the cardholder had paid for a taxable supply of the use of real property.
+[141] On the basis of all of the above, I find that the cardholders paid the surcharge fees to Access and that Access, in turn, paid amounts equal to the surcharge fees to the Appellant in return for some other supply.
+I. The Series of Supplies
+[142] Having determined that the Appellant was the cash provider, that Access was the ATM provider and that Access earned the surcharge fees, I can now describe the series of supplies that occurred during the Subsequent Periods.
+[143] A diagram showing the series of supplies made during the Subsequent Periods and the separate supplies made by the Appellant to Access during those periods is attached as Appendix “B”.
+(a) First Supply in the Series
+[144] There was no change in the first supply in the series of supplies during the Subsequent Periods. The card issuer continued to pay TNS the $0.75 interchange fee for agreeing to provide the transfer of money to the cardholder.
+(b) Second Supply in the Series
+[145] Because Access was no longer the cash provider, the second supply was different. Instead of paying Access $0.71 of the $0.75 interchange fee to transfer money to the cardholders, TNS now paid Access that fee to agree to provide the transfer of money to the cardholders.
+(c) Third Supply in the Series
+[146] At this point in the series of supplies, Access had promised to provide the transfer of money to the cardholder. However, because it was not the cash provider, Access did not have a direct means of doing so. Therefore, Access contracted with the Appellant to have the Appellant transfer the money.
+[147] If transferring the money had been the only thing that the Appellant provided to Access, then this supply would have been an exempt supply covered by paragraph (a) of the definition of financial service. Any payment that the Appellant received for this service would not have attracted GST.
+[148] However, the Appellant also provided goods and other services to Access in the Subsequent Periods. As described above, the pleadings force me to consider the Appellant to have made a single compound supply to Access for consideration of $4.50 to $4.62 per transaction. Therefore, I will have to analyze the totality of what the Appellant supplied to Access before I can determine whether it was a taxable supply or not.
+(d) Fourth Supply in the Series
+[149] As ATM provider, Access arranged for the transfer of the money from the Appellant to the cardholders. It brought them together so that the transfer could occur. The cardholders paid Access the $3.99 surcharge fee for providing this service.
+J. Nature of the Supplies
+(e) What Was Provided?
+[150] For the most part, the goods and services that the Appellant provided to Access under the 2014 Agreement remained unchanged from those that it provided under the 2010 Agreement. The Appellant continued to support Access’ operation of the ATMs by providing utilities, internet access, routine maintenance, security and customer service. The Appellant also continued to allow Access to access the Resort in order to install, service, supply and repair the ATMs. Finally, the Appellant continued to give Access ATM exclusivity at the Resort.
+[151] There were, however, two key differences under the 2014 Agreement. The first difference was that the Appellant no longer lent Access the cash that went into the ATMs. As set out above, the Appellant was the cash provider. The second difference was that the Appellant loaded the cassettes with cash in exchange for a fee.
+(f) Single Compound Supply or Multiple Supplies
+[152] The pleadings force me to determine the nature of the supplies on the basis that, in the Subsequent Periods, the Appellant made a single compound supply of all of the different elements described above.
+[153] I am forced to do this despite the fact that the evidence clearly indicates that the Appellant, in acting as cash provider, made the stand-alone supply of transferring money. I do not have the evidence necessary to determine what, if any, consideration Access paid the Appellant for this supply but I have all the evidence that I need to conclude that it was a separate supply. Had a third party been the cash provider, this supply would have been made by that third party. Nonetheless, the pleadings prevent me from concluding that the Appellant made more than one supply. Therefore, I will have to consider whether this element of the Appellant’s single compound supply was the predominant element.
+(g) Treatment of the Supplies
+[154] I find that the predominant element of the single compound supply was the exclusive right to place and operate ATMs at the Resort and to process all transactions arising therefrom.
+[155] Access benefited from having the Appellant transfer the money. It also benefited from having Access load the cassettes with cash. These were both services that Access needed someone to provide. However, it is clear to me that what Access most wanted was the exclusive right to place and operate ATMs at the Resort and to process all transactions arising therefrom. This was the predominant element of the supply it received in the Initial Periods. I find that it continued to be so in the Subsequent Periods. Everything else was something that Access could have done itself or could have retained third parties to do.
+[156] Comparing the arrangements in the Subsequent Periods with those in the Initial Periods helps to illustrate this point. In the Initial Periods, the Appellant supplied exclusive access, utilities and support services to Access without transferring money to the cardholders and without loading cash into the cassettes. This makes it clear that Access did not require anything more than the exclusive access, utilities and support services. It also makes it clear that that was the predominant element.
+[157] Even though I consider the Appellant’s transferring of money to have been a separate supply and would have made that finding if the pleadings permitted me to do so, that does not mean that transferring money to the cardholders was the predominant element of what I am forced to consider to have been a single compound supply. It was an essential step in the series of supplies connecting the card issuer to the cardholder but it was not the predominant element of the Appellant’s supply to Access. Access did not enter into the 2014 Agreement because it needed a cash provider. It could have provided the cash itself (as it did in the Initial Periods) or had a third party provide it. Access entered into the 2014 Agreement because it wanted exclusive access to the massive volume of ATM transactions that the Resort had to offer.
+[158] For all of the reasons set out above, I find that the predominant element of the single compound supply made in the Subsequent Periods was the exclusive right to place and operate ATMs at the Resort and to process all transactions arising therefrom. This licence is a taxable supply of property. Accordingly, GST was applicable to the supply.
+VI. No Joint Venture
+[159] Before concluding, I need to address an argument raised by the Appellant. The Appellant’s primary position in its notice of appeal was that it was in a joint venture with Access and it was that joint venture that transferred money to the cardholders. I disagree.
+[160] Other than self-serving assertions made by Mr. Klein that a joint venture existed and by Mr. Mahajan and Mr. Wilson that there was a sharing of revenue, there was no evidence that a joint venture existed in either the Initial Periods or the Subsequent Periods.
+[161] Mr. Wilson described himself as having been the account manager of the Appellant’s account with Access. This is hardly indicative of a joint venture relationship.
+[162] The 2010 Agreement makes no reference to a joint venture. The agreement refers to the Appellant as the “Customer” rather than a “co-venturer” and is titled “ATM Purchase Agreement” rather than “Joint Venture Agreement”. I would expect a joint venture agreement to lay out the equipment that each co-venturer would provide. Instead, under the 2010 Agreement, Access purports to sell the ATMs to the Appellant. I would also expect a joint venture agreement to specify the total revenue to be earned by the joint venture and how the co-venturers would “share” that revenue. The 2010 Agreement does not state what interchange fee Access earns. The agreement simply sets out the amounts that Access agrees to “pay” to the Appellant. [43]
+[163] The pleadings in the $580,000 lawsuit make no reference to the Appellant and Access having been in a joint venture during the Initial Periods.
+[164] The 2014 Agreement makes no reference to a joint venture. The agreement refers to the Appellant as the “Client”, not the “co-venturer”. As noted above, it is titled “ATM Placement & Processing Agreement”, not “Joint Venture Agreement”. It does not state what interchange fee Access earns. It simply sets out the amounts that Access agrees to “rebate” to the Appellant and refers to the surcharge fee “payable” to the Appellant. [44] Although the 2014 Agreement is subtitled “Shared Agreement for the Operation of an Automatic Banking Machine (ABM)”, I find that this description refers to the parties’ obligations relating to the operation of the ATMs rather than that they were co-venturers.
+[165] The Appellant is, in essence, asking me to disregard the terms of the 2010 Agreement and the 2014 Agreement and find that, in substance, the arrangement between the parties was that of a joint venture. In tax law, form matters. Absent a sham, I do not have the option of ignoring the form that the parties to a transaction chose. [45]
+[166] On the basis of all of the foregoing, I find that no joint venture existed during the Initial Periods. As a result of that finding, it is not necessary for me to consider the consequences of a joint venture, which has not and could not make an election under subsection 273(1), making a supply of financial services.
+VII. Concession
+[167] A spreadsheet showing the net tax reassessed is attached as Appendix “C”. The Minister increased the Appellant’s net tax by the amounts set out in Column “C” of that spreadsheet.
+[168] At the beginning of the trial, the Respondent conceded that the Minister had erroneously reassessed net tax in respect of fees earned by the Appellant from Global Cash Access on cash calls and that, as a result, the Appellant’s net tax should be decreased by the amounts set out in Column “B” of the spreadsheet.
+VIII. Conclusion
+[169] On the basis of all of the above, the appeals of reporting periods in which an adjustment is made in Column “B” of Appendix “C” are allowed and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s net tax be reduced by the amounts set out in that column. The appeals of reporting periods in which no adjustment is made in Column “B” are dismissed.
+Signed at Ottawa, Canada, this 22nd day of April 2022.
+“David E. Graham”
+Graham J.
+Appendix “A”
+Appendix “B”
+Appendix “C”
+Reporting Period Ending
+Increase in Net Tax Relating to Amounts Received from Access (Column A)
+Increase in Net Tax Relating to Amounts Received from Global Cash Access (Column B)
+Total Increase in Net Tax
+(Column C)
+September 30, 2011
+$7,564.73
+$953.58
+$8,518.31
+October 31, 2011
+$7,982.67
+$1,126.09
+$9,108.76
+November 30, 2011
+$6,949.05
+$880.22
+$7,829.27
+December 31, 2011
+$7,867.87
+$2,507.49
+$10,375.36
+February 29, 2012
+$6,866.59
+$930.22
+$7,796.81
+March 31, 2012
+$8,222.65
+$1,272.76
+$9,495.41
+April 30, 2012
+$8,448.97
+$1,089.51
+$9,538.48
+May 31, 2012
+$6,961.49
+$1,257.99
+$8,219.48
+June 30, 2012
+$6,647.14
+$1,169.43
+$7,816.57
+July 31, 2012
+$7,125.96
+$1,262.98
+$8,388.94
+August 31, 2012
+$7,235.27
+$1,053.85
+$8,289.12
+September 30, 2012
+$7,241.50
+$1,738.23
+$8,979.73
+October 31, 2012
+$7,710.08
+$1,295.79
+$9,005.87
+November 30, 2012
+$7,209.54
+$1,058.60
+$8,268.14
+December 31, 2012
+$6,958.26
+$1,643.83
+$8,602.09
+February 28, 2013
+$5,772.84
+$1,094.35
+$6,867.19
+April 30, 2013
+$10,533.71
+$530.78
+$11,064.49
+June 30, 2013
+$7,778.24
+$95.02
+$7,873.26
+July 31, 2013
+$8,398.97
+$65.71
+$8,464.68
+August 31, 2013
+$8,746.51
+$113.93
+$8,860.44
+September 30, 2013
+$9,170.00
+$220.56
+$9,390.56
+November 30, 2013
+$8,485.91
+$320.69
+$8,806.60
+December 31, 2013
+$7,559.00
+$72.01
+$7,631.01
+January 31, 2014
+$6,866.29
+$2,904.21
+$9,770.50
+February 28, 2014
+$8,520.95
+$1,777.14
+$10,298.09
+Reporting Period Ending
+Increase in Net Tax Relating to Amounts Received from Access (Column A)
+Increase in Net Tax Relating to Amounts Received from Global Cash Access (Column B)
+Total Increase in Net Tax
+(Column C)
+March 31, 2014
+$10,461.01
+$1,436.19
+$11,897.20
+April 30, 2014
+$10,135.23
+$1,875.21
+$12,010.44
+May 31, 2014
+$9,578.26
+$1,895.35
+$11,473.61
+July 31, 2014
+$15,612.45
+$1,518.55
+$17,131.00
+August 31, 2014
+$10,797.97
+$1,434.08
+$12,232.05
+September 30, 2014
+$11,063.87
+$1,699.99
+$12,763.86
+October 31, 2014
+$11,012.10
+$1,560.31
+$12,572.41
+November 30, 2014
+$1,546.80
+$1,993.47
+$3,540.27
+December 31, 2014
+$10,044.12
+$1,494.44
+$11,538.56
+January 31, 2015
+$9,776.04
+$1,563.53
+$11,339.57
+February 28, 2015
+$9,966.56
+$2,764.35
+$12,730.91
+March 31, 2015
+$10,482.00
+$1,686.65
+$12,168.65
+April 30, 2015
+$11,189.59
+$1,990.87
+$13,180.46
+May 31, 2015
+$9,239.43
+$3,918.75
+$13,158.18
+Total
+$387,975.45
+$53,266.69
+$441,242.14
+CITATION:
+2022 TCC 45
+COURT FILE NO.:
+2016-4855(GST)G
+STYLE OF CAUSE:
+RIVER CREE RESORT LIMITED PARTNERSHIP v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATES OF HEARING:
+September 13, 14, 15 and 16, 2021
+WRITTEN SUBMISSIONS RECEIVED:
+January 17, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+April 22, 2022
+APPEARANCES:
+Counsel for the Appellant:
+David Douglas Robertson Maude Lussier-Bourque Laura Jochimski
+Counsel for the Respondent:
+Wendy Bridges Andrew Lawrence
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Douglas Robertson
+Firm:
+EY Law LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] GST/HST Info Sheet GI-006, ABM Services (December 2006) describes the parties to an ATM transaction. I have intentionally used different terms than those used in the info sheet. I have done this for two reasons. First, the info sheet is designed to capture a broad range of ATM scenarios and thus needs a broader range of terms. Using those terms here would introduce unnecessary complexity. Second, the info sheet does not recognize that the person whose cash is in the ATM may be different from the person who operates the ATM. Thus, the concept of cash provider does not exist. As will be seen below, I think that it is essential to distinguish between the ATM provider and the cash provider.
+[2] This service fee is distinct from any fees that the cardholder’s financial institution may charge the cardholder directly for withdrawing funds from his or her account or using ATMs that do not belong to the financial institution.
+[3] Excise Tax Act, Schedule V, Part VII, section 1.
+[4] Excise Tax Act, subsection 123(1), “financial service”.
+[5] Access is what is known in the ATM industry as an independent sales organization (“ISO”). ISOs can fulfill a variety of roles. They can act as intermediaries, ATM providers and/or cash providers. I have avoided using the term ISO in these reasons for judgment as I find that it adds unnecessary confusion. It does not matter what industry category Access fell into or what role it may or may not have fulfilled in other transactions. All that matters is what role Access played in the series of supplies before me and what, if anything, the Appellant supplied to it. The term ISO adds nothing to that analysis.
+[6] Definition of “money”, subsection 123(1).
+[7] Exhibit J-1, Tab 12.
+[8] Exhibit J-1, Tab 22, para. 14(c), pg. 0547.
+[9] Exhibit J-1, Tab 1, pg. 0012.
+[10] Exhibit J-1, Tab 22, para. 12, pg. 0546.
+[11] Transcript, pg. 84, ln. 25 to pg. 85, ln. 9.
+[12] Notice of Appeal, para. 26(a).
+[13] Mr. Mahajan and Mr. Wilson both testified that the Appellant could unilaterally change the surcharge fee. No such change occurred during the Initial Periods. Therefore, I struggle to see how they would know that Access’ written consent was not required. In the circumstances, I prefer the clear wording of the 2010 Agreement to Mr. Mahajan’s and Mr. Wilson’s testimony.
+[14] 2020 TCC 35, at para. 97.
+[15] 2012 TCC 393.
+[16] I say that the Appellant did not arrange for the transfer rather than that Access arranged for the transfer because I have concluded that Access was both the cash provider and the ATM provider. When one person fulfills both of those roles, it simply transfers its own money to the cardholder. No one arranges for the transfer of the money.
+[17] The taxability of these transactions is not before me. My conclusion that GST would not have applied is based on my general understanding of what occurred rather than on a detailed analysis of the transactions. Describing the first supply helps the reader to understand the entire series of supplies. Nothing turns on whether the first supply was an exempt supply.
+[18] The fact that TNS paid Access to transfer money to a third party does not change the nature of the supply. Access is still making the supply of transferring money.
+[19] Again, the taxability of these transactions is not before me. My conclusion that GST would not have applied is based on my general understanding of what occurred rather than on a detailed analysis of the transactions. Describing the second supply helps the reader to understand the entire series of supplies. Nothing turns on whether the second supply was an exempt supply.
+[20] Again, the taxability of these transactions is not before me. My conclusion that GST would not have applied is based on my general understanding of what occurred rather than on a detailed analysis of the transactions. Describing the final supply helps the reader to understand the entire series of supplies. Nothing turns on whether the final supply was an exempt supply.
+[21] 1995 CarswellNat 37 (TCC), [1995] GSTC 40.
+[22] 2013 FCA 269.
+[23] 2016 FCA 316.
+[24] 2019 FCA 217.
+[25] 2021 FCA 96, at para 24.
+[26] Jema International Travel Clinic Inc. v. The Queen, 2011 TCC 462, at para. 27.
+[27] 2000 CarswellNat 1162, [2000] GSTC 42 (FCA).
+[28] 2012 SCC 20.
+[29] 2021 FCA 10, at para. 32.
+[30] Zomaron, at para. 102; CIBC v. The Queen, 2021 FCA 96, at para. 33.
+[31] 2011 TCC 462.
+[32] 2006 FCA 413.
+[33] 2011 FCA 296.
+[34] 2004 TCC 792.
+[35] 2000 CarswellNat 2166 (FCA).
+[36] 2019 TCC 79. The foregoing decisions make it clear that sections 138 and 139 are only to be applied if there are multiple supplies.
+[37] At para. 40.
+[38] Notice of Appeal at para. 43 and Reply at para. 24.
+[39] Global Cash Access (Canada) Inc. also provided cash call services at the Resort during the periods in question. My description of how cash calls work is based both on the facts set out in Global Cash Access and on Mr. Mahajan’s detailed testimony on how cash calls worked at the Resort.
+[40] At para. 28.
+[41] Although the 2014 Agreement is dated October 1, 2014, the parties conducted themselves in accordance with its terms effective June 1, 2014.
+[42] Reply, paras. 17(r) and (t).
+[43] Exhibit J-1, Tab 1, s. 1.8, pg. 0006.
+[44] Exhibit J-1, Tab 2, s. 6, pg. 0018 and s. 18, pg. 0021.
+[45] Shell Canada Ltd. v. R, [1999] 3 SCR 622, [1999] SCJ No 30, at para. 39; Jean Coutu Group (PJC) Inc. v. Canada (AG), 2016 SCC 55, at para. 41; CIBC, 2021 FCA 96.

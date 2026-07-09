@@ -1,0 +1,313 @@
+Title: River Hills Ranch Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31262/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-248-31262-river-hills-ranch-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-08-02
+
+# River Hills Ranch Ltd. v. The Queen
+
+- Citation: 2013 TCC 248
+- Decision date: 2013-08-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5103, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+River Hills Ranch Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-02
+Neutral citation
+2013 TCC 248
+File numbers
+2009-1597(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1597(IT)G
+BETWEEN:
+RIVER HILLS RANCH LTD.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Bar M Stock Ranch Ltd. (2009-1586(IT)G) and Avalon Ranch Ltd. (2009-1911(IT)G) on January 21, 22, 23 and 24, 2013, at Regina, Saskatchewan.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+James C. Yaskowich
+Counsel for the respondent:
+Anne Jinnouchi
+Nalini Persaud
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2003, 2004, 2005 and 2006 taxation years is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Magog, Québec, this 2nd day of August 2013.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2009-1586(IT)G
+BETWEEN:
+BAR M STOCK RANCH LTD.,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of River Hills Ranch Ltd. (2009-1597(IT)G) and Avalon Ranch Ltd. (2009-1911(IT)G) on January 21, 22, 23 and 24, 2013, at Regina, Saskatchewan.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+James C. Yaskowich
+Counsel for the respondent:
+Anne Jinnouchi
+Nalini Persaud
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2001, 2003, 2004 and 2005 taxation years is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Magog, Québec, this 2nd day of August 2013.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2009-1911(IT)G
+BETWEEN:
+AVALON RANCH LTD.
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of River Hills Ranch Ltd. (2009-1597(IT)G) and Bar M Stock Ranch Ltd. (2009-1586(IT)G) on January 21, 22, 23 and 24, 2013, at Regina, Saskatchewan.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+James C. Yaskowich
+Counsel for the respondent:
+Anne Jinnouchi
+Nalini Persaud
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Magog, Québec, this 2nd day of August 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 248
+Date: 20130802
+Dockets: 2009-1597(IT)G
+2009-1586(IT)G
+2009-1911(IT)G
+BETWEEN:
+RIVER HILLS RANCH LTD.,
+BAR M STOCK RANCH LTD.,
+AVALON RANCH LTD.,
+appellants,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] River Hills Ranch Ltd. (“River Hills”), Avalon Ranch Ltd. (“Avalon”) and Bar M Stock Ranch Ltd. (“Bar M”) (collectively referred to as the “appellants”) were in the business of collecting pregnant mare urine (“PMU”) for Wyeth Organics (“Wyeth”), a multinational pharmaceutical corporation formerly known as Ayerst Organics Ltd. (“Ayerst”), a division of Wyeth Canada. The collection of the PMU was done pursuant to PMU Collection Agreements (the “Collection Agreements”). Between October and December 2003, Wyeth terminated its 2003-2004 Collection Agreements with each of the appellants and executed releases (the “Releases”). Wyeth paid the appellants amounts labelled as Feed and Herd Health Payments (the “FHH Payments”) under the terms and conditions of the Releases. The Minister of National Revenue (the “Minister”) treated those amounts as income. The appellants say they are capital.
+II. Factual Summary
+A. Background Information
+[2] Wyeth used PMU, reduced to conjugated estrogens, as the active ingredient in a drug used to treat symptoms of menopause in women. It acquired its PMU from North American producers, including the appellants, under the Collection Agreements. The Collection Agreements, which were renewed annually, included the following terms and conditions:
+1. The appellants were to supply a specific amount of conjugated estrogens from PMU.
+2. The collection season was to run from October through April and to commence and end on days determined at the sole discretion of Wyeth.
+3. The appellants were to attend to the health and well-being and ensure the humane treatment of the mares in providing the PMU, and to follow the “Recommended Code of Practice for the Care and Handling of Horses in PMU Operations” (the “Code”); of note on this point is that the clauses dealing with this became more stringent over the years.
+4. Under the 2003-2004 Collection Agreements, the appellants were to supply PMU solely and exclusively to Wyeth.
+[3] The appellants made significant capital investments in order to begin their PMU operations, including the following:
+1. the purchase of machinery and equipment, such as harnesses and feeding, watering, and urine-collection systems; and
+2. the construction of facilities, including independent barns for the sole purpose of PMU production that were equipped with tank rooms, stalls, pens and corrals, which conformed to the Code.
+B. The Releases and Schedule “A”
+[4] In or around 2000, Wyeth began contracting with PMU producers for reduced quantities of PMU. At a meeting held in October 2003, Wyeth finally advised PMU producers from across Canada that an undisclosed number of PMU producers would be released from their 2003-2004 Collection Agreements.
+[5] The Collection Agreements were cancelled for all three appellants between October and December 2003. Under the Releases, River Hills agreed to be bound by the Code in its PMU operations until January 31, 2006, and Avalon and Bar M agreed to be so bound until December 31, 2005.
+[6] Further, the appellants agreed to release Wyeth with regard to any action whatsoever in exchange for the payments set out in Schedule A to the Releases. In the case of River Hills, Schedule A provides as follows:
+I. Rancher Payment Program
+Wyeth Organics will pay the Releasor(s) a single one‑time lump sum payment equal to seventeen percent (17%) of the total Releasor’s(s’) 2003-2004 collection season payments. This amount will be paid in or about August 2004.
+II. Feed and Herd Health Payment Program
+Wyeth Organics will pay the Releasor(s) sixty-eight percent (68%) of the total of the Releasor’s(s) [sic] 2003-2004 collection season payments for feed and herd health expenses. This total payment amount will be paid in multiple installments as follows:
+a) fifteen percent (15%) of the total payment amount in or about August 2004,
+b) 2.7 percent of the total payment amount approximately each month commencing in September 2004 and ending in December 2005, and
+c) ten percent (10%) of the total payment amount in or about January 2006.
+In order to receive payments pursuant to the Feed and Herd Health Payment Program, the Releasor(s) must satisfy the following conditions:
+1. the Releasor(s) must maintain the Releasor’s(s’) horses in accordance with the Code;
+2. an audited number of horses categorized by age and function must be provided on February 1, 2004; October 1, 2004; February 1, 2005 and October 1, 2005. The number of horses will be counted by the Releasor(s) and a Wyeth Organics Field Compliance Specialist;
+3. the Releasor(s) must provide written confirmation to Wyeth Organics of the number of horses sold and the price received for such horses as of the first day of each month commencing February 1, 2004;
+4. an audited number of other species of animals on the Releasor’s(s’) farm must be provided as of the dates referred to in subsection 2 above;
+5. the Releasor(s) must certify that the Releasor(s) was the operator of the PMU farm on the dates referred to in subsection 2 above;
+6. the Field Compliance Specialists will continue to conduct inspections of all PMU operations until January 2006. In this regard, the Releasor(s) must grant access, at any reasonable time, to any land on which the Releasor’s(s’) PMU operation is carried on, to any person designated by Wyeth Organics or any veterinarian certified by the Code (“Certified Veterinarian”) to verify that the horses are receiving appropriate veterinary care and that such horses are being adequately fed;
+7. the Releasor(s) must certify to Wyeth Organics, on a quarterly basis, on the form attached hereto, that the Releasor(s) has provided appropriate veterinary care and feed to the Releasor(s) [sic] horses;
+8. the Releasor(s) must agree to cooperate in all respects with, and must not verbally or physically abuse, any representative or agent of Wyeth Organics; and
+9. the Releasor(s) shall have all of the Releasor’s(s’) horses included in a herd health program pursuant to the Code with a Certified Veterinarian with veterinary visits in January 2004, March 2004, November 2004, January 2005 and March 2005.
+If, in the sole judgment of Wyeth Organics, the Releasor(s) does not meet any one or more of conditions 1 through 9 above the Releasor(s) will not receive any further funds pursuant to the Feed and Herd Health Payment Program and may be required to repay to Wyeth Organics all or a portion of funds previously received.
+[7] In regard to Avalon and Bar M, Schedule A of the Releases provides:
+I. 2003-2004 Collection Season Payments
+Wyeth Organics, a Division of Wyeth Canada (hereinafter called “Wyeth Organics”) will pay the Releasor(s) for the full quantity of contracted grams of conjugated estrogens from PMU for the 2003-2004 collection season, as set out in the Releasor(s) [sic] 2003-2004 P.M.U. Collection Agreement. Payments will be made on an approximately weekly basis commencing the week of October 20, 2003.
+II. West Nile Virus Vaccination Reimbursement Program
+Wyeth Organics will reimburse the Releasor(s) at the rate of C$14.58 (US$10.08) per dose for vaccinating the Releasor(s) [sic] herd against West Nile Virus during the 2002-2003 collection season. This amount will be paid in or about November 2003.
+III. Rancher Payment Program
+Wyeth Organics will pay the Releasor(s) a single one-time lump sum payment equal to seventeen percent (17%) of the total of the Releasor’s(s’) 2003-2004 collection season payments referred to in paragraph I above. This amount will be paid in or about April 2004.
+IV. Feed and Herd Health Payment Program
+Wyeth Organics will pay the Releasor(s) fifty percent (50%) of the amount of the 2003-2004 collection season payments, referred to in paragraph I above, for feed and herd health expenses. This total payment amount will be paid in multiple installments as follows:
+a) 15 percent of the total payment amount in or about August 2004, and
+b) 2.1875 percent of the total payment amount approximately each month commencing in September 2004 and ending in December 2005.
+In order to receive payments pursuant to the Feed and Herd Health Payment Program the Releasor(s) must satisfy the following conditions:
+1. the Releasor(s) must maintain the Releasor’s(s’) horses in accordance with the Code;
+2. an audited number of horses categorized by age and function must be provided on October 1, 2003; February 1, 2004; October 1, 2004 and February 1, 2005. The number of horses will be counted by the Releasor(s) and a Wyeth Organics Field Compliance Specialist;
+3. an audited number of other species of animals on the Releasor’s(s’) farm must be provided as of the dates referred to in subsection 2 above;
+4. the Releasor(s) must certify that the Releasor(s) was the operator of the PMU farm on the dates referred to in subsection 2 above;
+5. the Field Compliance Specialists will continue to conduct inspections of all PMU operations until December 2005. In this regard, the Releasor(s) must grant access, at any reasonable time, to any land on which the Releasor’s(s’) PMU operation is carried on, to any person designated by Wyeth Organics or any veterinarian certified by the Code (“Certified Veterinarian”) to verify that the horses are receiving appropriate veterinary care and that such horses are being adequately fed;
+6. the Releasor(s) must certify to Wyeth Organics, on a quarterly basis, on the form attached hereto, that the Releasor(s) has provided appropriate veterinary care and feed to the Releasor(s) [sic] horses;
+7. the Releasor(s) must agree to cooperate in all respects with, and must not verbally or physically abuse, any representative or agent of Wyeth Organics; and
+8. the Releasor(s) shall have all of the Releasor’s(s’) horses included in a herd health program pursuant to the Code with a Certified Veterinarian with veterinary visits in November 2003, January 2004, March 2004, November 2004, January 2005 and March 2005.
+If, in the sole judgment of Wyeth Organics, the Releasor(s) does not meet any one or more of conditions 1 through 8 above the Releasor(s) will not receive any further funds pursuant to the Feed and Herd Health Payment Program and may be required to repay to Wyeth Organics all or a portion of funds previously received.
+[8] The termination of the 2003-2004 Collection Agreement resulted in the complete cessation of the appellants’ PMU businesses.
+[9] The Canada Revenue Agency (“CRA”) treated all the collection season payments and the rancher payments made under the Releases as being on account of capital. The FHH Payments were characterized as income.
+C. Facts Specific to Each of the Appellants
+a. River Hills
+[10] Mrs. and Mr. McIntyre testified on behalf of River Hills, of which they are the shareholders.
+[11] After securing his first PMU contract in 1992, Mr. McIntyre built a barn with 108 stalls and a tank room. He also acquired approximately 200 heavy horses to form his PMU herd. He installed automatic watering and oat-feeding systems, in conformity with Wyeth’s specifications. Mr. McIntyre also acquired and fenced approximately 15 quarter sections of pastureland for use in his PMU operation.
+[12] The evidence shows that River Hills carried on its PMU operation as a separate business.
+[13] On October 23, 2003, River Hills’ 2003-2004 Collection Agreement was amended to lower its quota. On or around December 18, 2003, Mr. McIntyre received a copy of the Release by registered mail. He was given 28 days from receipt of the letter to review and consider its terms and conditions. He signed it on January 5, 2004.
+[14] By the end of the collection season (no later than April 2004) River Hills had sold all of its PMU horses.
+[15] River Hills refitted its PMU barn for use in a cow/calf operation and for storage. Mr. McIntyre also sold the 15 quarter sections of land he had acquired for the PMU herd.
+b. Avalon
+[16] Mr. Meggison, the sole owner of Avalon, testified on Avalon’s behalf. Mr. Meggison commenced his PMU operation in the spring of 1992. He later transferred the operation to Avalon. Prior to carrying on the PMU business, Mr. Meggison had a cow/calf operation.
+[17] The evidence shows that Mr. Meggison built an outside corral system in steel and fenced off a 30-acre piece of pastureland to begin his PMU operation. He also sold his herd of 60 cows and purchased 70 horses. His initial feeding and watering systems were manual and were provided by Wyeth. With time, however, Wyeth required producers to upgrade to automatic systems.
+[18] Mr. Meggison chose light horses for his PMU operation because the offspring of the PMU mares could then be sold at a higher price as riding horses rather than going to slaughterhouses.
+[19] In the spring of 2003, Avalon purchased a thousand-gram quota from a PMU producer who was retiring. This amount was added to Avalon’s quota under its 2003-2004 Collection Agreement. With hindsight this turned out to be a bad business decision because Avalon’s Collection Agreement was cancelled shortly thereafter.
+[20] Mr. Meggisson attended the meeting held in October 2003. The next day, Wyeth informed him that his 2003-2004 Collection Agreement was cancelled. He received the Release shortly thereafter and signed it on October 24, 2003.
+[21] The market price for horses fell sharply following the termination of the Collection Agreements. Mr. Meggison chose not to liquidate his PMU herd immediately. He believed he would receive a higher price for his mares if he waited for the market to recover. Eventually Avalon sold thirty-two horses in the 2004 taxation year and twenty-seven in the 2005 taxation year.
+[22] Following the termination of the 2003-2004 Collection Agreement, Avalon chose to refocus its business on the breeding and sale of appaloosa horses.
+[23] Mr. Meggison kept the exterior of the PMU barn intact. However, he modified the interior by removing some of the PMU box stalls and replacing them with box stalls for foaling. The PMU equipment was abandoned because it had no salvage value.
+c. Bar M
+[24] Mrs. Marsh, a shareholder of the appellant Bar M, testified on Bar M’s behalf. Bar M commenced its PMU operations in 1972. Bar M also carried on a cow/calf operation, which continued until the 1990s.
+[25] Bar M began producing PMU in a small 30-stall barn built for that purpose. It subsequently expanded the size of its operation, first to 120 stalls and then to 165 stalls as demand for PMU grew. Over time, it also adapted its collection equipment to meet Ayerst’s requirements. It rented pastureland to feed its horses. Bar M also purchased pastureland shortly before the termination of its Collection Agreement. In the early years, Bar M rented PMU horses.
+[26] Mrs. Marsh and her husband attended the meeting held in October 2003. The next day, Wyeth informed them that their 2003-2004 Collection Agreement was cancelled. They received the Release shortly thereafter and signed it on October 17, 2003.
+[27] Mrs. Marsh and her husband were able to sell eighty-eight mares in 2004 and thirty-nine in 2005.
+[28] After the cancellation of the 2003-2004 Collection Agreement, Bar M tried getting back into the cattle business. This activity was abandoned after a short time because it was unprofitable. Bar M now grows hay on its pastureland. The PMU barns are used exclusively for storage and the PMU equipment was abandoned.
+III. Positions of the Parties
+A. Appellants’ Position: the FHH Payments are Capital Receipts
+[29] The appellants rely on BP Canada Energy Resources Company v. The Queen (“BP Canada”),[1] Canadian National Railway Company v. M.N.R.[2] and Pe Ben Industries Company Limited v. The Queen[3] in submitting that the PMU Collection Agreements were capital assets and the FHH Payments were capital receipts. According to the appellants, the Collection Agreements served as the foundation of their PMU businesses and Wyeth’s unilateral termination of the Collection Agreements destroyed those businesses. The payments made under the Releases were meant to compensate the appellants for the loss of their businesses.
+[30] The appellants argue that the FHH Payments were not for “feed” and “herd health” as their designation seems to indicate. Rather, they were part of the appellants’ compensation for the termination of their PMU businesses. This conclusion is supported by the fact that the appellants were not expressly required to keep their PMU mares in order to receive the FHH Payments. These payments were not calculated by reference to the appellants’ “feed” and “herd health” expenses and the appellants were not required to use those payments to cover such expenses. The absence of any conditions in that regard amounts to an ambiguity or internal inconsistency which allows the introduction of extrinsic evidence. The extrinsic evidence, in turn, shows that the FHH Payments were termination payments disguised as “feed” and “herd health” payments and whose purpose was to protect Wyeth’s public image and to compensate the appellants for the destruction of their businesses.
+B. Respondent’s Position: the FHH Payments are on Account of Income
+[31] The respondent, on the other hand, contends that the FHH Payments were an allowance for anticipated expenses that was received on income account and constituted income pursuant to subsection 9(1) of the Canada Income Tax Act (“ITA”).
+[32] According to the respondent, the absence of a condition requiring the appellants to keep their PMU horses until the end of the period over which the payments were made does not amount to an ambiguity. The language used in the Releases is unequivocally to the effect that the FHH Payments were intended to compensate the appellants for ongoing “feed” and “herd health” expenses related to their PMU herds.
+[33] The fact that the appellants were able to dispose of their PMU mares at different points in time does not, in the respondent’s view, affect the characterization of the FHH Payments.
+IV. Issue
+[34] The issue before me is whether the FHH Payments were received by the appellants on capital account or on income account. The surrogatum principle must be applied to determine whether the FHH Payments were intended to compensate the appellants for the destruction of their businesses or to cover their ongoing operating expenses. In order to answer this question, the Releases must be interpreted. In the context of these appeals, are the circumstances surrounding the execution of the Releases relevant in interpreting the meaning of the FHH Payment clauses? Is extrinsic evidence admissible for the purpose of showing the factual matrix which led to the execution of the Releases? Are the FHH Payment clauses ambiguous such that extrinsic evidence may be considered for the purpose of determining the intended purpose of the FHH Payments?
+V. Analysis
+A. Principles Governing the Interpretation of the Releases
+[35] Blair J.A. of the Ontario Court of Appeal succinctly outlined the general principles of contractual interpretation in Ventas, Inc. v. Sunrise Senior Living Real Estate Investment Trust. Quoting the application judge,[4] Blair J.A. noted:
+. . . Broadly stated . . . a commercial contract is to be interpreted,
+(a) as a whole, in a manner that gives meaning to all of its terms and avoids an interpretation that would render one or more of its terms ineffective;
+(b) by determining the intention of the parties in accordance with the language they have used in the written document and based upon the “cardinal presumption” that they have intended what they have said;
+(c) with regard to objective evidence of the factual matrix underlying the negotiation of the contract, but without reference to the subjective intention of the parties; and (to the extent there is any ambiguity in the contract),
+(d) in a fashion that accords with sound commercial principles and good business sense, and that avoid a commercial absurdity.
+[Emphasis added; footnotes omitted.]
+[36] The parol evidence rule prohibits the use of extrinsic evidence “to alter, vary, or interpret in any way the words used in the writing”.[5] According to Sopinka J., this rule is rooted in the assumption “that when parties reduce an agreement to writing they will have included all the necessary terms and circumstances and that the intention of the parties is that the written contract is to be the embodiment of all the terms”.[6] The rule aims at “prevent[ing] the use of fabricated or unreliable extrinsic negotiations to attack formal written contracts”.[7]
+[37] The parol evidence rule is not an absolute rule; extrinsic evidence can be considered in order to dispel ambiguities.
+[38] In Eli Lilly and Co. v. Novopharm Ltd. (“Eli Lilly”),[8] Iacobucci J., writing for a unanimous Supreme Court of Canada, noted that extrinsic evidence is not admissible when an agreement is “clear and unambiguous on its face” (at paragraphs 54-55):
+. . . [T]he contractual intent of the parties is to be determined by reference to the words they used in drafting the document, possibly read in light of the surrounding circumstances which were prevalent at the time. Evidence of one party's subjective intention has no independent place in this determination.
+Indeed, it is unnecessary to consider any extrinsic evidence at all when the document is clear and unambiguous on its face. In the words of Lord Atkinson in Lampson v. City of Quebec (1920), 54 D.L.R. 344 (P.C.), at p. 350:
+. . . the intention by which the deed is to be construed is that of the parties as revealed by the language they have chosen to use in the deed itself. . . . [I]f the meaning of the deed, reading its words in their ordinary sense, be plain and unambiguous it is not permissible for the parties to it, while it stands unreformed, to come into a Court of justice and say: “Our intention was wholly different from that which the language of our deed expresses. . . .”
+[39] While Iacobucci J. notes that “surrounding circumstances” may be relevant, he offers no guidance as to the context in which these circumstances may be referred to.
+[40] The principles enunciated in Eli Lily were relied on by Nadon J.A. of the Federal Court of Appeal in The Queen v. General Motors (“GM”).[9] Writing on behalf of a unanimous Court, Nadon J.A. noted:
+. . . First, failing a finding of ambiguity in the document under consideration, it is not open to the Court to consider extrinsic evidence. Second, where extrinsic evidence may be considered, that evidence must pertain to the “surrounding circumstances which were prevalent at the time”. Third, even where there is ambiguity, evidence only of a party’s subjective intention is not admissible.[10]
+[41] Nadon J.A. concluded that the Tax Court judge had erred in basing a finding of ambiguity on extrinsic evidence presented by the parties rather than on an analysis of the agreement at issue as a whole. His position was subsequently adopted by Campbell J. of this Court in On-Line Finance & Leasing Corp. v. The Queen.[11]
+[42] More recent court decisions have clarified the relevancy of “surrounding circumstances” and suggested an approach different than that outlined in GM. For instance, in Dumbrell v. Regional Group of Companies Inc. (“Dumbrell”),[12] Doherty J.A. of the Ontario Court of Appeal, having referred to Lord Hoffmann’s opinion in Investors Compensation Scheme Ltd v. West Bromwich Building Society,[13] noted that the “meaning of [a] written agreement must be distinguished from the dictionary and syntactical meaning of the words used in the agreement”. According to Doherty J.A., while the plain meaning of the words “will be important and often decisive in determining the meaning of the document”, a “consideration of the [“objective contextual scene”][14] in which the written agreement was made is an integral part of the interpretative process and is not something that is resorted to only where the words viewed in isolation suggest some ambiguity.
+[43] Prior to Dumbrell, Goudge J.A. of the Ontario Court of Appeal had also noted that courts can use extrinsic evidence in taking into account the “factual matrix” of an agreement in cases where there is no ambiguity.[15] He indicated that the factual matrix of an agreement includes to the genesis of the agreement, its purpose, and the commercial context in which it was made. In so doing, he relied on the following observations by Lord Wilberforce of the House of Lords in Reardon Smith Line Ltd. v. Yngvar Hansen-Tangen:[16]
+No contracts are made in a vacuum: there is always a setting in which they have to be placed. The nature of what is legitimate to have regard to is usually described as “the surrounding circumstances” but this phrase is imprecise: it can be illustrated but hardly defined. In a commercial contract it is certainly right that the court should know the commercial purpose of the contract and this in turn presupposes knowledge of the genesis of the transaction, the background, the context, the market in which the parties are operating.
+[44] These two decisions (Dumbrell and KFC) suggest that a distinction must be made between the case where extrinsic evidence is admissible for the purpose of resolving an ambiguity - a notable exception to the parol evidence rule - and the case in which such evidence is considered for the purpose of giving meaning to the terms and conditions of an agreement in light of the “surrounding circumstances” or the factual matrix of the agreement. In the latter case, no ambiguity need exist. The respondent, in her written submissions,[17] cites Gilchrist v. Western Star Trucks, a case in which this distinction is recognized in the following terms:
+The goal in interpreting an agreement is to discover, objectively, the parties’ intention at the time the contract was made. The most significant tool is the language of the agreement itself. This language must be read in the context of the surrounding circumstances prevalent at the time of contracting. Only when the words, viewed objectively, bear two or more reasonable interpretations, may the court consider other matters such as the post-contracting conduct of the parties . . . .[18]
+[45] I agree with the appellants’ observations that there are inconsistencies in the FHH Payment clauses, which, when considered together, cause the reader to question the intended purpose of the FHH Payments.
+[46] The FHH Payments were not calculated by reference to the appellants’ herd size or the actual “feed” and “herd health” expenses incurred. The payments were based on a percentage of the appellants’ 2003-2004 collection season payments. There were no requirements in the Releases for the appellants to account for or otherwise document the use of the FHH Payments.
+[47] While the appellants were bound by a series of conditions – nine in the case of River Hills and eight in the case of Avalon and Bar M – there were no conditions requiring the appellants to actually use the FHH Payments solely to cover “feed” and “herd health” expenses. This indicates that Wyeth was willing to make the FHH Payments regardless of whether the appellants incurred “feed” and “herd health” expenses or not.
+[48] Wyeth did not require the appellants to keep their PMU herd in order to receive the FHH Payments. They were only required to provide Wyeth with an audited number of horses at specific dates until October 1, 2005 in the case of River Hills and February 1, 2005 in the case of Avalon and Bar M. Also, in the case of River Hills, paragraph 3 of the FHH Payments clause expressly contemplates the sale of River Hills’ horses without any effect on the FHH Payments, provided that Wyeth received written notice of any sales made. Without horses, there could be no “feed” and “herd health” expenses. The FHH Payment clauses provided no adjustment mechanism that would have reduced the amounts payable for feed and herd health expenses in the event that the appellants sold their herds following the signature of the Releases.
+[49] Finally, the 2003-2004 Collection Season Payments clause of Avalon’s and Bar M’s Releases provided for payment for the full quantity of conjugated estrogens for the collection season. In the normal course of the appellants’ businesses, that amount would have covered their operating expenses, including the “feed” and “herd health” expenses for their herds. These inconsistencies suggest that the FHH Payments were not intended to compensate the appellants for their “feed” and “herd health” expenses.
+B. Analysis of the Extrinsic Evidence
+[50] The appellants argue that the following evidence confirms that the FHH Payments were contract termination payments intended to protect Wyeth’s image and to discharge it with respect to any future claims.
+1. Wyeth eliminated numerous PMU producer contracts.
+2. It was the parties’ understanding that the FHH Payments were payments for the termination of the Collection Agreements.
+3. The appellants received the FHH Payments regardless of the fact that they had no horses or that they had materially fewer horses than the number used in their PMU businesses at the time the contract was cancelled.
+4. The appellants understood that Wyeth was making the payments in response to concerns aired in the media with respect to sales of horses to slaughterhouses.
+5. Wyeth was informing the farms of the activities of People for the Ethical Treatment of Animals (PETA), whether or not those activities took place.
+6. There were confrontations between the pharmaceutical industry and various animal rights groups – a fact which is a matter of common knowledge.
+[51] It is clear from the earlier cited jurisprudence that evidence of the subjective intention of the parties has “no independent place” in the interpretative process. Therefore, evidence pertaining to the parties’ understanding as to the intended use of the FHH Payments is inadmissible.
+[52] With regard to the third point, I disagree with the respondent’s assertion that events following the signature of the Releases are beyond the scope of this analysis and should not be admitted for the purpose of interpreting the Releases. Nadon J.A.’s comments in GM indicate that subsequent conduct can be a useful guide to the interpretation of a written agreement “in some cases”.[19] Indeed, in The Law of Contract in Canada, Fridman notes that “[i]n Canada it seems clear that the subsequent actions of the parties may be admissible to explain the true meaning and intent of their agreement.[20] Indeed, “there is no better way of determining what the parties intended than to look to what they did under it”.[21]
+[53] The respondent raised objections on the basis of hearsay to the evidence concerning the first, third, fourth and fifth points. I took that evidence under advisement.
+[54] Mrs. McIntyre, Mrs. Marsh and Mr. Meggison noted that the circumstances that gave rise to the inclusion of paragraph IV 6. in the 2003-2004 Collection Agreements are described in that provision, which reads as follows:
+Animal Welfare
+6. THE SUPPLIER must promptly notify THE COMPANY of any investigation or other action taken by any Humane Society or any other investigative agencies regarding alleged mistreatment of any animals.
+[55] Both Mrs. and Mr. McIntyre testified that Wyeth had expressed verbal concerns regarding the activities of animal rights groups and had advised PMU producers that if PETA or any humane society approached them, they were to notify Wyeth so that they could send a spokesperson. Mr. Meggison stated that the “investigative agencies” to which Paragraph IV 6. of the 2003-2004 Collection Agreements refers might have included PETA, because it was common knowledge among PMU producers that PETA did not like the PMU business.
+[56] In my opinion, it is well known that animal rights groups have challenged the pharmaceutical industry’s use of animals for testing and for drug production purposes. Clause IV of the Collection Agreement shows that Wyeth was concerned with the actions of such groups.
+[57] The respondent argues that the appellants were “not without opportunity to negotiate more favourable terms”. They had time to review the terms and conditions of the Releases before assenting thereto. I disagree with that contention. I prefer the appellants’ evidence that the Releases were presented on a take-it-or-leave-it basis. I infer that Wyeth’s decision to cancel the Collection Agreements placed the appellants in a precarious financial situation. I also note that Wyeth is a sophisticated organization with deep pockets while the appellants were farmers facing significant financial hardship as a result of the destruction of their PMU businesses. The covering letter attached to River Hills’ and Avalon’s Releases suggest that Wyeth’s settlement offer was not open to negotiation. The letter states:
+In accordance with our recent telephone conversation [“discussion” in Avalon case] concerning your PMU Operation we are enclosing a Release and Agreement for your review and signature.
+. . .
+In order to participate in the programs outlined in the Release and Agreement you must return a signed copy to Wyeth Organics within [twenty-eight (28) days [“fourteen (14) days” in Avalon’s case] from the date you receive this letter.
+. . .
+In order to indicate your agreement with the foregoing, please date, sign and return the enclosed duplicate copy of this letter.
+[Emphasis added.]
+[58] Though there were certain differences between the appellants’ Releases as to the amounts paid and, in the case of River Hills, as to the types of payments received, the Releases were basically standard form contracts drafted by Wyeth. The above-quoted letter and the appellants’ testimony indicate that the appellants were presented with a take-it-or-leave-it offer.
+[59] In my opinion, the evidence led by the appellants and discussed above is admissible because it pertains to the factual matrix or circumstances surrounding the Releases and/or because the FHH Payment clauses are ambiguous in light of the inconsistencies noted earlier. This evidence supports the appellants’ theory that the FHH Payments were dressed up as compensation for “feed” and “herd health” expenses but in reality were intended to compensate the appellants for the destruction of their established PMU businesses and to secure a Release for Wyeth with respect to potential lawsuits.
+VI. Conclusion
+[60] In the instant case, the parties agreed that the surrogatum principle must be applied in order to characterize the FHH Payments. In general terms, this means that these payments will have the same character as whatever they represent compensation for.
+[61] In light of the evidence, I find that Wyeth presented the Releases to the appellants in order to secure protection from potential lawsuits and to counter a potential negative public backlash as a result of the destruction of the PMU herds in Western Canada.
+[62] It is also clear that the appellants’ PMU businesses were destroyed by Wyeth’s actions. The Collection Agreements were the source of all or substantially all of the appellants’ revenue. Without that source of revenue, the PMU herds and the equipment used in the PMU operations became worthless as capital assets.
+[63] Wyeth was not required under the Collection Agreements to pay the appellants’ “feed” and “herd health” expenses. That obligation fell exclusively to the appellants. Wyeth’s obligation was to pay the agreed - upon rate for delivered PMU. Applying Associate Chief Judge Bowman’s reasoning in BP Canada, I conclude that the cancellation of the Collection Agreements led to the “sterilization of a capital asset”. The appellants were forced out of business.
+[64] While Wyeth might have hoped that the appellants would use the FHH Payments to cover “feed” and “herd health” expenses, the evidence shows that they were under no obligation to do so. The evidence also shows that the appellants were free to liquidate their PMU herds and that they did so over varying lengths of time. Describing the FHH Payments as “feed” and “herd health” expense does not change the fact that the payments were made to compensate the appellants for the loss of their PMU businesses occasioned by Wyeth’s cancellation of the Collection Agreements. Therefore, I conclude that the FHH Payments were capital receipts, no different than the collection season payments and rancher payments that were treated as capital receipts by the Minister. The FHH Payments therefore gave rise to a capital gain.
+[65] For all of these reasons, the appeals are allowed and the matters are referred back to the Minister for reconsideration and reassessment in accordance with these reasons for judgment.
+Signed at Magog, Québec, this 2nd day of August 2013.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2013 TCC 248
+COURT FILE NOS.: 2009-1597(IT)G
+2009-1586(IT)G
+2009-1911(IT)G
+STYLE OF CAUSE: RIVER HILLS RANCH LTD. v. HER MAJESTY THE QUEEN
+BAR M STOCK RANCH LTD. v. HER MAJESTY THE QUEEN
+AVALON RANCH LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATES OF HEARING: January 21, 22, 23 and 24, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: August 2, 2013
+APPEARANCES:
+Counsel for the appellants:
+James C. Yaskowich
+Counsel for the respondent:
+Anne Jinnouchi
+Nalini Persaud
+COUNSEL OF RECORD:
+For the appellants:
+Name: James C. Yaskowich
+Firm: Felesky Flynn
+Edmonton, Alberta
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 DTC 2110.
+[2] 88 DTC 6340.
+[3] 88 DTC 6347.
+[4] 2007 ONCA 205, 85 O. R. (3d) 254, at para. 24.
+[5] The Law of Contract in Canada, 6th ed. (Toronto: Carswell, 2011) at p. 440.
+[6] United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd., [1993] 2 S.C.R. 316 at 341.
+[7] Ibid at 341-42.
+[8] [1998] 2 S.C.R. 129.
+[9] The Queen v. General Motors of Canada Limited, 2008 FCA 142, 2008 DTC 6381.
+[10] Ibid at para. 36.
+[11] On-Line Finance & Leasing Corporation v. The Queen, 2010 TCC 117, 2010 DTC 1135.
+[12] 2007 ONCA 59, [2007] O.J. No. 298 (QL), 279 D.L. R. (4th) 201, at paras. 51 to 56.
+[13] [1998] 1 All E.R. 98.
+[14] Dumbrell, note 12 supra, para. 56, quoting Lord Justice Steyn.
+[15] Kentucky Fried Chicken Canada, a Division of Pepsi-Cola Canada Ltd. v. Scotts’ Food Services Inc., [1998] O.J. No. 4368 (QL) (ON CA) (“KFC”).
+[16] [1976] 1 W.L.R. 989 at 995-96 (H.L.).
+[17] Written Submissions on Behalf of the Respondent, para. 16.
+[18] Gilchrist v. Western Star Trucks Inc., 2000 BCCA 70, [2000] B.C.J. No. 164 (QL).
+[19] Note 9 Supra, para. 49.
+[20] Note 5 Supra, at p. 451.
+[21] Bank of Montreal v. University of Saskatchewan (1953), 9 W.W.R. (N.S.) 193 (Sask. Q.B.) at 199.

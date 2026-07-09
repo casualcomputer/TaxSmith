@@ -1,0 +1,104 @@
+Title: Hemani v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521403/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-31-521403-hemani-v-the-king.md
+Document type: case_law
+Last modified: 2025-02-26
+
+# Hemani v. The King
+
+- Citation: 2025 TCC 31
+- Decision date: 2025-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6030, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hemani v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-26
+Neutral citation
+2025 TCC 31
+File numbers
+2019-2027(GST)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2025 TCC 31
+Date: 20250226
+Docket: 2019-2027(GST)I
+BETWEEN:
+MOHAMMED HEMANI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+(Prepared from the transcript of Reasons for Judgment delivered orally from the bench on January 8, 2025 at Toronto, Ontario and edited to correct punctuation, capitalization, spelling and paragraph breaks, to remove repetitive phrases, and to add paragraph numbers.)
+Graham J.
+[1] Mohammed Hemani signed an assignment agreement, whereby he acquired his father's rights under an agreement of purchase and sale for a condo located in Toronto. Mr. Hemani took title to the condo approximately one month later, and claimed an HST new housing rebate in respect of the purchase. He listed the condo for sale approximately three months later, entered into a contract to sell it a month after that and ultimately sold it at a profit just over six months after he purchased it.
+[2] The Minister of National Revenue has denied Mr. Hemani's rebate claim and Mr. Hemani has appealed that denial.
+[3] The key issue in this case is whether, when Mr. Hemani entered into the assignment agreement, he intended to occupy the condo as his primary place of residence.
+[4] I am going to give my oral judgment on the appeal at this time. I will not be issuing written reasons for judgment.
+[5] In order for an individual to successfully claim a new housing rebate, the individual must intend that he or she or someone related to him or her would occupy the residential unit as his or her primary place of residence. That intention must be present when the person becomes liable to pay the HST.
+[6] In Mr. Hemani's case, that means that he must have had the intention to make the condo his primary place of residence on June 30th when he signed the assignment agreement with his father. I find that he did not.
+[7] This Court sees many cases like Mr. Hemani's, where a taxpayer takes title to a condo and then, within a matter of months, lists the property for sale and sells it at a profit. Such cases typically suggest to the CRA that the taxpayer's professed intention to make the condo his or her primary place of residence may not be true. Sometimes this Court finds that the taxpayer had the requisite intention, other times it does not.
+[8] What distinguishes Mr. Hemani's case from the typical case is the timing. The test of a taxpayer's intention looks at what his or her intention was when he or she became liable to pay the HST. In most cases, that is when the taxpayer signed the agreement of purchase and sale. Generally speaking, when those cases involve the alleged flipping of a condo, a significant amount of time has passed from the date that the agreement of purchase and sale was signed, to the date when the taxpayer took possession of the condo. It is not uncommon that changes in a taxpayer's personal circumstances, such as the loss of a job, a change in a relationship status, or the birth of a child have occurred between the time that the taxpayer formed the intention to occupy the condo as his or her primary place of residence and the date of the closing.
+[9] That is not the case in Mr. Hemani's appeal. Mr. Hemani did not sign the agreement of purchase and sale in 2011, his father did. Mr. Hemani did not become liable to pay the HST until he signed the agreement in June 2017, or more accurately, until the builder signed off on the assignment agreement on July 24th, two days before closing. Therefore, in this case, I must look at his intentions not years before the closing, but just days.
+[10] Clearly, a sale so quickly after closing, strongly suggests that Mr. Hemani never intended to make the condo his primary place of residence. He offers two explanations for the quick sale. I do not accept either of them. Before reviewing those, I will touch briefly on the question of credibility.
+[11] I did not find Mr. Hemani to be credible. His explanations lacked plausibility. In addition, elements of his story changed throughout the audit, objection and appeal process, and he previously signed a statutory declaration containing a statement about his finances that he admitted was clearly untrue.
+[12] I did not find his father to be credible either. Inconsistencies in the explanations that he provided to the CRA and the explanations that he provided to me, gave me concerns. As a side point, while nothing turns on this, I should state that I also found Mr. Hemani's father's evidence regarding dates to be unreliable, due to his admittedly poor memory in that respect.
+[13] Turning then to the two explanations that Mr. Hemani offered for the quick sale. He explained that he listed the condo for sale because he found living alone lonely and depressing, and that he had discovered that he could not financially afford to maintain the condo.
+[14] I will consider the affordability explanation first. I do not believe that Mr. Hemani was surprised that he could not afford the monthly payments on the condo. He was earning only $36,000 per year at the time. By his own description to the CRA, he was taking home approximately $2,400 per month, while his costs of paying the mortgage, condo fees, and only some of the other expenses was more than $2,600 per month.
+[15] He was already in the hole before even considering food, entertainment, transportation, clothing, student debt, parking, and other expenses. None of these costs would have been unexpected or unknown to Mr. Hemani. A simple review of even the majority of these costs would have made it obvious to him that he could not afford to buy the condo. I do not believe that he was unaware of that fact prior to signing the assignment agreement.
+[16] The reality is, is that Mr. Hemani was almost entirely financially dependent on his parents to make the purchase work. His father paid the $100,000 down payment, and then made him a purported interest-free loan of that amount. Mr. Hemani's admittedly false sworn declaration at the time of closing, stating that he had not borrowed the down payment undermined his credibility, as I stated previously.
+[17] The conflicting testimony of him and his father, as to what ultimately happened to the proceeds of sale (Mr. Hemani having testified that he kept them, and his father having testified that he held onto them) further undermined their stories and strongly suggested that, in reality, they both viewed the money as belonging to the father.
+[18] All of the foregoing strongly suggest that Mr. Hemani had no intention of continuing to own the condo when he signed the assignment agreement, as he must have known that he had no ability to do so.
+[19] Turning then to Mr. Hemani's explanation that he sold the condo because he was homesick, depressed and lonely. I find this explanation improbable. Mr. Hemani testified that he realized he was homesick and lonely after living in the condo for a couple of months. But he moved into the condo at the beginning of February 2017, shortly after his father obtained possession. In other words, by the time he signed the assignment agreement at the end of June, he had already lived there for five months. If he was truly lonely and homesick, he would have known so well before he decided to acquire the condo.
+[20] Similarly, he continued, for no apparent reason, to live in the condo for almost three months after he listed it for sale. This is completely inconsistent with the idea that he was lonely, homesick, and depressed.
+[21] The foregoing findings are sufficient for me to dispose of the appeal. I do not have to decide what Mr. Hemani's intention was, only that it was not to acquire the condo as his primary place of residence. While I suspect that he may have agreed to the assignment to help his father reduce his overall tax burden, there is insufficient evidence for me to reach any conclusion on that point, and no reason why I would need to do so, in any event.
+[22] Before concluding, I would like to touch briefly on the question of Mr. Hemani's occupation of the condo. Much of the evidence dealt directly or indirectly with the level, or lack thereof, of Mr. Hemani's occupation of the condo. This issue was not pled by the Respondent. Therefore, I have not considered it in my reasons.
+[23] I have considered the evidence regarding the distance between the condo and Mr. Hemani's workplace, the parking tickets issued to him, and the changing of his driver's licence, only to the extent that inconsistent or improbable descriptions of those items led me to find Mr. Hemani and his father lacking in credibility. None of those items in themselves had any impact on my conclusion regarding his intentions.
+[24] In summary, based on all of the evidence before me, I find that it is more likely than not that Mr. Hemani's intention when he entered into the assignment agreement was something other than to make it his primary place of residence. His stated intention is simply not born out by credible evidence. And as a result, he did not qualify for the rebate.
+[25] Accordingly, his appeal is dismissed. As the Respondent is not seeking costs, none will be awarded.
+Signed this 26th day of February 2025.
+“David E. Graham”
+Graham J.
+CITATION:
+2025 TCC 31
+COURT FILE NO.:
+2019-2027(GST)I
+STYLE OF CAUSE:
+MOHAMMED HEMANI v HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 8, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORAL REASONS:
+January 8, 2025
+DATE OF REASONS FOR ORDER:
+February 26, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+George (Nian Fan) Lin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh Somerville Taylor
+Firm:
+Leigh Somerville Taylor Professional Corporation (LST Tax Law)
+Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

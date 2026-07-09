@@ -1,0 +1,172 @@
+---
+title: "Kadoch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26373/index.do"
+last_modified: "2003-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 24"
+citation2: ""
+neutral_citation: "2003 CCI 24"
+decision_date: "2003-02-06"
+language: "fr"
+item_id: "26373"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3386
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:34:55.403000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "70b4aa99e9e81bc704326e91dfb7b712df880f7f074bca4fdffc504db384ec5e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kadoch v. The Queen
+
+- Citation: 2003 CCI 24
+- Decision date: 2003-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3386, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kadoch v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-06
+Référence neutre
+2003 CCI 24
+Numéro de dossier
+2002-730(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date : 20030206
+Dossier : 2002-730(IT)I
+ENTRE :
+MARC KADOCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sur preuve commune avec les appels de Judith Kadoch (2002-782(IT)I) le 14 janvier 2003, à Toronto (Ontario).
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me P. Michael Appavoo
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994, 1996, 1997 et 1998 sont rejetés.
+Signé à Ottawa, Canada, ce 6e jour de février 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 21e jour de décembre 2004.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date : 20030206
+Dossier : 2002-782(IT)I
+ENTRE :
+JUDITH KADOCH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Marc Kadoch (2002-730(IT)I) le 14 janvier 2003, à Toronto (Ontario).
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Représentant de l'appelante :
+Marc Kadoch
+Avocat de l'intimée :
+Me P. Michael Appavoo
+_______________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994 et 1996 sont admis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 6e jour de février 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 21e jour de décembre 2004.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI24
+Date : 20030206
+Dossier : 2002-730(IT)I
+ENTRE :
+MARC KADOCH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+2002-782(IT)I
+ENTRE :
+JUDITH KADOCH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip, C.C.I.
+[1] Marc Kadoch et son épouse Judith Kadoch en appellent de cotisations d'impôt pour les années 1994 et 1996, en alléguant qu'ils ont fait des dons à certains organismes de bienfaisance enregistrés et qu'ils ont droit aux crédits d'impôt se rapportant aux dons calculés conformément au paragraphe 118.1(3) de la Loi de l'impôt sur le revenu (la « Loi » ). Les appelants affirment également que, quoi qu'il en soit, les cotisations pour les années 1994 et 1996 ne sont pas valides puisqu'elles ont été établies plus de trois ans après la date des cotisations initiales pour ces années : voir le paragraphe 152(4). Les appelants en appellent également des pénalités imposées en vertu du paragraphe 163(2) de la Loi.
+[2] Monsieur Kadoch en appelle également des cotisations pour les années 1997 et 1998 en invoquant les mêmes motifs, soit qu'il a fait, durant ces années, des dons à certains organismes de bienfaisance enregistrés, qu'il a droit aux crédits d'impôt et que les pénalités en vertu du paragraphe 163(2) de la Loi n'auraient pas dû lui être imposées.
+[3] Le ministre du Revenu national (le « ministre » ) a refusé les crédits d'impôt pour le motif que les appelants n'ont pas fait de dons aux organismes de bienfaisance et ont produit des reçus frauduleux à l'appui de leurs réclamations pour dons de bienfaisance. En produisant leurs déclarations de revenus pour les années 1994 et 1996, les appelants ont fait une présentation erronée des faits par négligence, inattention ou omission volontaire et le ministre peut donc établir une nouvelle cotisation après la période normale prescrite au paragraphe 152(4) de la Loi. De plus, dans l'accomplissement de leurs devoirs ou de leurs obligations en vertu de la Loi, les appelants, sciemment ou dans des circonstances équivalant à faute lourde, ont fait de faux énoncés ou des omissions dans les déclarations de revenus qu'ils ont produites pour les années en cause, ou y ont participé, y ont consenti ou y ont acquiescé, et sont donc passibles de pénalités conformément au paragraphe 163(2) de la Loi.
+[4] Les appels ont été entendus sur preuve commune. Monsieur Kadoch représentait Mme Kadoch et il a été le seul à témoigner pour les appelants.
+[5] Les activités du rabbin Leon Edery sont à l'origine de ces appels. Le rabbin Edery est arrivé à Toronto en 1967 et il a commencé, peu de temps après, à diriger une petite congrégation séfarade sur l'avenue Bathurst. En 1971, il s'est vu octroyer une charte provinciale pour la congrégation séfarade Or Hamaarav ( « Or Hamaarav » ). Le rabbin Edery a témoigné qu'à la même époque, il enseignait à des familles juives marocaines qui immigraient à Toronto et qu'il recueillait des fonds pour ces familles ainsi que pour l'éducation de leurs enfants. Il s'occupait également de distribuer des vêtements, des livres et d'autres articles aux nouveaux immigrants.
+[6] En 1983, le rabbin Edery a commencé l'exploitation d'une garderie appelée Centre d'apprentissage séfarade Abarbanel ( « Abarbanel » ). Il recueillait également de l'argent pour Abarbanel. La garderie était située dans l'immeuble que Or Hamaarav occupait et dont elle était propriétaire. En 1985, Or Hamaarav a fait défaut de payer son hypothèque et a perdu l'immeuble.
+[7] Le rabbin Edery a continué de recueillir des fonds pour ses diverses oeuvres. Or Hamaarav et Abarbanel continuaient d'exister, mais le rabbin Edery a constaté qu'il devenait difficile d'obtenir des dons. Comme il l'a dit : [TRADUCTION] « Les gens ne veulent pas donner d'argent à un nul. »
+[8] Le rabbin Edery ou un associé d'affaires, la preuve sur ce point n'étant pas claire, a ensuite présenté un plan de mise en marché aux donateurs potentiels, selon lequel les donateurs recevraient un reçu d'impôt pour don de bienfaisance représentant (habituellement) dix fois le montant du don réel, c'est-à-dire que la somme réellement donnée représenterait 10 p. 100 du montant indiqué sur le reçu. Le rabbin Edery a témoigné qu'il s'agissait de « la seule façon de recueillir de l'argent » . Dans certains cas, le donateur faisait un chèque et le rabbin Edery lui remettait 90 p. 100 du montant du chèque en espèces ainsi qu'un reçu pour le plein montant. Ainsi, pour un chèque de 1 000 $, le donateur recevait une « remise en argent » de 900 $ en plus d'un reçu de 1 000 $ qu'il déduisait ensuite de sa déclaration de revenus. Parfois, le donateur récupérait plus ou moins que 90 p. 100 du montant indiqué sur le reçu. Dans d'autres cas, le donateur donnait une somme en argent qui équivalait à 10 p. 100 du montant du reçu. Le rabbin Edery a reconnu que « deux ou trois » personnes avaient fait des dons et n'avaient pas demandé de « remise en argent » . Selon le rabbin Edery, M. et Mme Kadoch ne comptaient pas parmi ces « deux ou trois » personnes.
+[9] En 1996 ou 1997, le rabbin Edery a fondé un autre organisme de bienfaisance, la synagogue Mincha Gedolah ( « Gedolah » ), pour venir en aide aux immigrants arrivant de Russie.
+[10] Dans ses déclarations de revenus, M. Kadoch a prétendu avoir effectué des dons de 7 500 $ et de 1 500 $ à Or Hamaarav en 1994 et 1996 respectivement, de 7 500 $ à Gedolah en 1997 et de 5 000 $ à Abarbanel en 1998. Madame Kadoch a prétendu avoir donné 2 300 $ et 2 500 $ à Or Hamaarav en 1994 et en 1996 respectivement.
+[11] Le rabbin Edery a déclaré que, pendant la période où il gérait ses organismes de bienfaisance et sollicitait des contributions, il donnait une commission, représentant habituellement de 5 p. 100 à 10 p. 100 du montant du don, aux personnes qui lui référaient des donateurs ou qui lui apportaient de l'argent provenant de donateurs. Les noms des mandataires du rabbin Edery apparaissent sur des listes saisies par les représentants de Revenu Canada à l'époque. Le nom de M. Kadoch figure sur une de ces listes. Monsieur Kadoch a nié avoir reçu de commission. Le rabbin Edery a déclaré que [TRADUCTION] « toute la communauté » était au courant de ces commissions.
+[12] Le rabbin Edery a expliqué qu'il encaissait les chèques dans les quelques jours suivant leur réception. Il a dit n'avoir jamais perdu un chèque. [TRADUCTION] « Nous conservions des registres adéquats. Nous ne perdions jamais rien. » Donc, par exemple, si M. Kadoch lui donnait un chèque le 28 décembre 1998, il l'encaissait à la fin de 1998 ou au début de 1999, il n'attendait pas jusqu'en mai 1999, par exemple. Un reçu était parfois délivré immédiatement, parfois quelques jours après le don. La « remise en argent » n'était effectuée qu'après que le chèque ait été compensé par la banque, sauf si le chèque était certifié. Le rabbin Edery a admis qu'il ne délivrait pas toujours ses reçus rapidement. Il acceptait d'antidater les reçus à une date antérieure à l'année durant laquelle le don avait été effectué.
+[13] Selon le rabbin Edery, il était la seule personne autorisée à délivrer des reçus pour les trois organismes de bienfaisance. Tous les reçus délivrés à M. et Mme Kadoch avaient été signés par le rabbin Edery. Le rabbin a affirmé que, pendant un certain temps, une personne non autorisée délivrait des reçus contrefaits.
+[14] Les activités des trois organismes de bienfaisance ont cessé en 2001. Le rabbin Edery a admis qu'il avait été reconnu coupable d'évasion fiscale et d'autres infractions à la Loi et qu'il avait été condamné à 12 mois de détention à domicile, à des travaux communautaires et à payer une « pénalité » de 32 229 $.
+[15] Monsieur Kadoch a maintenu que lui et Mme Kadoch ont effectué les dons qu'ils ont dit avoir effectués et qu'ils n'ont pas reçu de « remise en argent » ni obtenu de reçu pour un montant supérieur à la somme que chacun d'eux a réellement donnée. Monsieur Kadoch a déclaré qu'il n'avait aucune raison de se faire remettre de l'argent par les organismes de bienfaisance. Il a dit qu'il [TRADUCTION] « donne beaucoup d'argent sous forme de dons » . Il a affirmé que, « l'année dernière » , il a fait des dons totalisant une somme de 22 000 $. Son revenu annuel est d'environ 140 000 $.
+[16] Or Hamaarav était située en face de la résidence de M. Kadoch et ce dernier assistait aux offices à cet endroit. Il y a même été chantre. Monsieur Kadoch connaît le rabbin Edery depuis plus de 30 ans. Il connaissait l'existence des organismes du rabbin Edery. Monsieur Kadoch s'est souvenu que le rabbin Edery avait aidé des membres de sa famille. Il a décrit le rabbin Edery comme étant une [TRADUCTION] « personne intègre » qui avait aidé [TRADUCTION] « des tas de familles à Toronto » . Monsieur Kadoch donnait aux organismes de bienfaisance du rabbin Edery parce que le rabbin était [TRADUCTION] « salutaire pour la communauté » et était impliqué dans [TRADUCTION] « de bonnes causes » . Il ne soupçonnait pas que le rabbin Edery puisse être impliqué dans une fraude bien que, en 1996 ou en 1997, le rabbin Edery lui eût dit que des reçus frauduleux étaient émis au nom de ses organismes.
+[17] Monsieur Kadoch s'est souvenu que, durant les premières années, il faisait des dons en argent comptant. Par la suite, quand le rabbin Edery lui avait dit que des reçus frauduleux étaient délivrés, on lui avait demandé de donner des chèques. Monsieur Kadoch s'est souvenu qu'il mettait l'argent dans une enveloppe et qu'il recevait ensuite un appel téléphonique quand ses reçus étaient prêts.
+[18] Monsieur Kadoch a été contre-interrogé concernant deux chèques qu'il a faits, l'un daté du 31 décembre 1997, payable à Gedolah, qui a été présenté pour paiement le 5 février 1998, et l'autre daté du 28 décembre 1998, payable à Abarbanel, qui a été présenté pour paiement le 25 mai 1999. Les reçus étaient datés respectivement du 31 décembre 1997 et du 28 décembre 1998. Le premier chèque représenterait des dons faits au cours de l'année 1997, bien que M. Kadoch n'ait pas été en mesure d'expliquer pourquoi le chèque a été présenté pour paiement à une date aussi tardive. Il a expliqué que le deuxième chèque avait été fait pour remplacer un autre chèque fait plus tôt en 1998 et que le rabbin Edery avait perdu. Je constate que ce témoignage contredit celui du rabbin Edery, qui a affirmé fièrement qu'il n'avait jamais perdu de chèque.
+[19] Monsieur Kadoch a maintenu qu'il n'a jamais reçu d'argent en contrepartie de services qu'il a rendus. Il n'a jamais sollicité de fonds pour les organismes du rabbin Edery, sauf auprès de membres de sa famille. Quand il agissait comme chantre, il le faisait gratuitement.
+[20] Monsieur Kadoch a témoigné que Mme Kadoch n'était pas impliquée dans les dons. Il agissait pour son épouse, faisait les dons pour elle en espèces et préparait ses déclarations de revenus.
+[21] Monsieur Frank Menniti, un enquêteur de l'Agence des douanes et du revenu du Canada ( « ADRC » ), a témoigné que le stratagème utilisé par le rabbin Edery avait été élaboré par un spécialiste en déclarations de revenus nommé Jacob Abacassis. Les clients de M. Abacassis avaient attiré l'attention de Revenu Canada, le prédécesseur de l'ADRC, car ils déclaraient des pertes d'entreprise importantes ainsi que des dons importants à des organismes de bienfaisance contrôlés par le rabbin Edery. Des mandats de perquisition ont été exécutés à l'endroit de Or Hamaarav et d'Abarbanel. De nombreux donateurs ont informé l'ADRC qu'ils obtenaient des reçus pour des paiements représentant de 10 p. 100 à 20 p. 100 du montant indiqué au reçu. L'ADRC a saisi des copies carbones de reçus pour dons, des listes de donateurs et des relevés bancaires des organismes de bienfaisance.
+[22] Monsieur Menniti a été en mesure de retracer des dépôts de sommes importantes dans les comptes bancaires pertinents ainsi que des retraits importants sous forme d'argent comptant ou de traites. Il est arrivé à la conclusion qu'une partie de l'argent allait réellement aux organismes de bienfaisance, mais qu'environ 90 p. 100 des dons étaient retirés et remis aux donateurs.
+[23] Monsieur Menniti a témoigné qu'il existait des disparités importantes entre ce que les organismes déclaraient à Revenu Canada et ce qu'ils recevaient. Par exemple, dans sa déclaration de revenus de 1994, Abarbanel avait déclaré avoir reçu 285 967 $, mais la somme des reçus délivrés au cours de cette année, d'après les copies carbones saisies, représentait 758 807 $. Selon M. Menniti, le montant de 285 967 $ [TRADUCTION] « s'approche du montant qui a réellement été déposé à la banque » mais, à ce jour, l'ADRC n'a aucune idée du montant qui a été réellement recueilli. Les registres des organismes de bienfaisance n'indiquent pas, d'après M. Menniti, si les fonds retirés des comptes ont servi à aider des familles dans le besoin ou s'ils ont été utilisés à d'autres fins.
+[24] La pièce R-10 constitue une liste de donateurs dont les noms de famille commencent par la lettre « K » . Le nom de M. Kadoch apparaît en marge de cette liste, à côté d'un nom autre que le sien ou celui de son épouse. Selon M. Menniti, ce don avait été fait grâce à M. Kadoch. Monsieur Menniti a également passé en revue d'autres listes de noms et a trouvé le nom de M. Kadoch en marge à côté de huit noms de donateurs. La plupart de ces donateurs habitaient l'île de Montréal. Monsieur Kadoch a déclaré que ces personnes étaient des membres de sa famille. Deux donateurs, M. et Mme Laffredo, ont dit à M. Menniti qu'ils avaient remis à M. Kadoch le plein montant indiqué sur leurs reçus.
+[25] Le sort de ces appels dépend de qui, du rabbin Edery et de M. Kadoch, est le plus crédible. Le rabbin Edery a reconnu avoir été déclaré coupable sous plusieurs chefs d'accusation en vertu de la Loi ainsi que le fait qu'une sanction pénale lui a été imposée. Il a clairement expliqué sa participation et sa culpabilité relativement au stratagème dans lequel il a impliqué Or Hamaarav, Abarbanel et Gedolah. Il a purgé sa peine et il n'a rien à gagner à rendre un témoignage biaisé ou faux. Bien que je sois persuadé, après l'avoir observé, que le rabbin Edery n'hésiterait pas à biaiser son témoignage si cela pouvait lui venir en aide, il n'y a rien dans son témoignage en l'espèce qui m'amène à douter d'une part importante de celui-ci.
+[26] Par contre, le témoignage de M. Kadoch est intéressé et sujet à caution. À titre d'exemple, il a dit que la date tardive d'un reçu s'expliquait par le fait que le rabbin Edery avait perdu l'un de ses chèques. Le rabbin Edery a indiqué que ses registres étaient impeccables et qu'il n'avait jamais perdu de chèque. Par contre, il était prêt à antidater les reçus. Il n'existe aucun motif autre que celui fourni par le rabbin Edery pouvant expliquer que le nom de M. Kadoch apparaît à côté de ceux de plusieurs donateurs. Lorsqu'il a été contre-interrogé par M. Kadoch, le rabbin Edery n'a pas hésité à déclarer qu'il lui avait remis de l'argent. En me fondant sur ce qui, d'après M. Menniti, a été saisi dans les locaux du rabbin Edery et sur les pratiques de celui-ci dans la délivrance de reçus, je préfère le témoignage du rabbin Edery à celui de M. Kadoch. Je conclus également que M. Kadoch était au courant du stratagème et qu'il y a participé volontairement. Toutefois, je ne doute aucunement que M. Kadoch ait fait des dons aux trois organismes de bienfaisance, mais ces dons ne correspondaient pas aux sommes qu'il a prétendu avoir données.
+[27] Monsieur Kadoch m'a renvoyé aux motifs du jugement dans l'affaire Bentolila c. La Reine[1]. Ces appels visaient également des réclamations de crédits d'impôt non remboursables pour des dons faits à Or Hamaarav et à Abarbanel. La preuve présentée dans ces appels est différente de celle que j'ai devant moi. Les appelants dans l'affaire Bentolila n'ont pas témoigné. Le juge Miller n'était pas prêt à proroger la période normale de nouvelle cotisation prévue au paragraphe 152(4) ou à confirmer les pénalités imposées en vertu du paragraphe 163(2) tout simplement parce que les appelants n'avaient pas témoigné. Ce n'est pas le cas en l'espèce.
+[28] J'en suis venu à la conclusion que M. Kadoch a fait des dons aux trois organismes de bienfaisance dans l'expectative de recevoir une remise en argent ou un reçu pour un montant supérieur à la somme donnée à l'organisme de bienfaisance. Il était au courant du prétendu plan de mise en marché du rabbin Edery. Ainsi, pour ce qui est de M. Kadoch, il a fait une présentation erronée des faits dans ses déclarations de revenus de 1994 et de 1996, et ce, par négligence, inattention ou omission volontaire, ou il a commis quelque fraude en produisant ses déclarations : voir le paragraphe 152(4). Le ministre pouvait donc établir de nouvelles cotisations après la période normale.
+[29] Comme M. Kadoch était au courant du stratagème du rabbin Edery, et comme il y a participé en obtenant des reçus qu'il savait être excessifs, je conclus qu'il a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans ses déclarations de revenus pour 1994, 1996, 1997 et 1998, ou qu'il y a participé, y a consenti ou y a acquiescé, et qu'il est donc passible de la pénalité prévue au paragraphe 163(2) de la Loi.
+[30] En ce qui concerne Mme Kadoch, la preuve démontre que son époux a fait des dons pour son compte, qu'il a reçu de faux reçus pour elle et qu'il a préparé et produit ses déclarations de revenus pour 1994 et 1996. Bien que Mme Kadoch semble s'être fiée à son mari pour accomplir tout ceci, il n'y a aucune preuve devant moi qu'elle aurait signé personnellement ses déclarations de revenus ou qu'elle savait ce qui se passait. Ses déclarations de revenus n'ont pas été présentées en preuve. Mme Kadoch était présente lors de l'audition des appels. Même si elle n'a pas été appelée comme témoin par son mari, l'intimée aurait pu l'appeler à témoigner. Il n'existe aucune preuve suggérant que je devrais imputer à Mme Kadoch la connaissance qu'avait M. Kadoch du stratagème du rabbin Edery. Rien n'indique que Mme Kadoch était au courant de la participation de son mari dans le stratagème ou qu'elle avait fait quelque présentation que ce soit dans sa déclaration de revenus. En vertu de la preuve que j'ai devant moi, le ministre n'avait pas le droit d'établir à l'égard de Mme Kadoch une nouvelle cotisation après la fin de la période normale.
+[31] L'intimée avait également le fardeau d'établir des faits qui justifieraient l'imposition de pénalités à l'endroit de Mme Kadoch en vertu du paragraphe 163(2), ce qu'elle n'a pas fait.
+[32] Par conséquent, les appels de M. Kadoch visant les cotisations pour les années 1994, 1996, 1997 et 1998 sont rejetés et les appels de Mme Kadoch visant les cotisations pour les années 1994 et 1996 sont admis et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 6e jour de février 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 21e jour de décembre 2004.
+Yves Bellefeuille, réviseur
+[1] C.C.I., nos 2001-4324(IT)I et 2001-4341(IT)I, 17 mai 2002, [2002] A.C.I. no 257 (Q.L.).

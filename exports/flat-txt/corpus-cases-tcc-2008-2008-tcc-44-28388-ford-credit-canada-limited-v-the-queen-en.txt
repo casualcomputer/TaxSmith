@@ -1,0 +1,85 @@
+Title: Ford Credit Canada Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28388/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-44-28388-ford-credit-canada-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-18
+
+# Ford Credit Canada Limited v. The Queen
+
+- Citation: 2008 TCC 44
+- Decision date: 2008-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1907, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ford Credit Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-18
+Neutral citation
+2008 TCC 44
+File numbers
+2005-4286(IT)G
+Judges and Taxing Officers
+Alan Ritchie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4286(IT)G
+BETWEEN:
+FORD CREDIT CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in the proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $52,286.61.
+Signed at Ottawa, Canada, this 18th day of January 2008.
+"Alan Ritchie"
+Taxing Officer
+Citation: 2008TCC44
+Date: 20080118
+Docket: 2005-4286(IT)G
+BETWEEN:
+FORD CREDIT CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Alan Ritchie, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Wednesday, November 21, 2007. It follows a Judgment of the Honourable Chief Justice Bowman of this Court issued on August 4, 2006, allowing the appeal, with costs to the Appellant.
+[2] The Appellant was represented by Mr. David E. Spiro, and the Respondent by Mr. Harry Erlichman.
+[3] An Amended Bill of Costs in the amount of $66,687.25 was submitted by the Appellant, which was reduced at the taxation by mutual agreement to the amount of $63,225.09. The only item in dispute is an amount of $50,347.04 claimed as a disbursement for the services of an expert witness who prepared a report and appeared at trial. An amount of $3,462.16 for GST on the fees and disbursements for the expert witness was struck off, which accounts for the reduction in the total amount claimed, as noted above.
+[4] The expert was retained to speak to Generally Accepted Accounting Principles (GAAP) in general and CICA Handbook section 3860 in particular. The issue at trial was whether or not the Appellant should include the amount of its Class C retractable preferred shares in its capital for the purposes of the Large Corporations Tax (LCT). The Respondent took the position that it should be included in the Appellant's capital stock, regardless of the GAAP recommendations for the purposes of preparing financial statements.
+[5] There was no dispute that the hourly rates charged by Deloitte & Touche LLP for the expert and his associate were reasonable. A rate of $600 per hour was charged for the services of Mr. Robert Lefrançois, partner, and $400 per hour for Mr. Eric Graham, Senior Manager. Mr. Graham assisted in the writing of the expert report. The Appellant also provided estimates from two other firms for hourly rates for similar services which in both cases were higher than the rates charged by Deloitte & Touche.
+[6] There was also no dispute as to the qualifications of Mr. Lefrançois as an expert witness in this matter.
+APPELLANT
+[7] Counsel for the Appellant outlined the work performed by the expert and his associate in the writing of the report and the preparation for, and attendance at, trial. His role was not only to speak to the correct accounting treatment of retractable preferred shares on the balance sheet under GAAP, but that the evolution of the accounting profession in treating such shares as debt was well founded and should be applied with respect to the calculation of the LCT. Although the proper treatment of the shares on the balance sheet as debt under GAAP was never questioned by the Respondent, the Appellant set out to demonstrate that for accounting purposes substance prevails over form and that the same principle should apply with respect to the LCT.
+[8] Counsel for the Appellant noted that the Chief Justice, at paragraph 11 and onwards in his reasons, stated that the report and oral testimony of Mr. Lefrançois were comprehensive, and that he was unequivocal in outlining that the treatment of the shares in question on the balance sheet as debt rather than shareholders’ equity was in accordance with GAAP. He also noted that exchanges between the Court and the expert and further references by the Chief Justice to his testimony and reasoning in the decision demonstrated that it had had an impact on his ultimate decision in favour of the Appellant.
+[9] Counsel for the Appellant stated that the amounts claimed were not unreasonable, as Mr. Lefrançois – although an expert in his field – did not appear regularly as a witness nor was he a professional writer. The preparation time for the report and testimony, as well as the assistance of Mr. Graham, was warranted given the importance of the question at issue. He saw no principled basis upon which the Respondent had proven otherwise.
+[10] Counsel for the Appellant summarized his position that there was nothing being claimed that was outside the bounds of what was “reasonable and necessary” for the conduct of the appeal and that the amount should be allowed in full.
+RESPONDENT
+[11] Counsel for the Respondent questioned whether the contribution of the expert was both essential and reasonable.
+[12] He noted that in the Agreed Statement of Facts appended to the decision, it is clear that the Respondent agreed from the outset that the treatment of the shares on the balance sheet was in accordance with GAAP. Further, he noted that this treatment was mandatory under GAAP – that there was no other option available. He characterized the testimony of the expert and the content of the report as “interesting” in terms of providing background on GAAP and the reasoning for treating retractable preferred shares as debt, but did not see it as “essential” to the conduct of the appeal.
+[13] As the accounting treatment of the shares was not at issue, the Respondent's position is that the contribution of the expert can therefore not be considered essential as required by the Tariff.
+[14] Counsel for the Respondent also questioned whether or not the amounts claimed for the services of the expert should be considered reasonable. He submitted that a recognized expert such as Mr. Lefrançois should have been able to prepare his report and prepare to give testimony in a matter of a few hours – not the 28.5 and 8.5 hours claimed, respectively. The Respondent's written submission details the amounts claimed for research by both Mr. Graham and Mr. Lefrançois which he finds unreasonable, and notes that the report included very little “value added” beyond citing GAAP information, reproducing extracts from the Agreed Statement of Facts and the CICA Handbook.
+[15] Counsel for the Respondent noted that there was a lack of detail as to the actual work done as outlined by Mr. Lefrançois in his summary of fees charged – that there were some 20 hours charged for which there is no explanation or detail at all. His view was that this fell well short of the responsibility to clearly demonstrate what the hours claimed actually represented in order to determine whether or not it was a reasonable claim. He suggested that 7 hours for Mr. Lefrançois and 6 hours for Mr. Graham should be allowed at most.
+DECISION
+[16] The accounting treatment of the retractable preferred shares on the Appellant's balance sheet under GAAP was never at issue, as evidenced by the Agreed Statement of Facts appended to the decision. However, it seems clear that the argument put forth in the Reply to the Notice of Appeal and at trial by the Respondent was that, notwithstanding the accounting treatment of the shares as debt under GAAP, that they form part of the Appellant's capital for the purposes of Part I.3 of the Income Tax Act. The basis upon which such shares are treated as debt under GAAP was the underlying justification and argument put forth by the Appellant that they should similarly be treated as debt in the case at bar.
+[17] The contribution of the expert witness served to support this premise. Had the Court not taken the general view that Parliament defers to GAAP in computing stock for the purposes of Part I.3, the argument would have been solely about the appropriate treatment of such shares, notwithstanding GAAP. The value of the expert witness to the Appellant's case would have been even greater as a result. I find it entirely reasonable for the Appellant to have brought in an expert to explain, in terms of substance over form, why the shares in question should not only be treated as debt on the balance sheet under GAAP but that the same principle should extend in the computation of stock for the purposes of the LCT.
+[18] The Honourable Chief Justice had considerable exchanges at trial with the expert, reproduced extracts from his report in the Reasons for Judgment, and made numerous references to the expert's views in his reasons as well.
+[19] With respect to the amounts claimed for the services of the expert and his assistant, the only issue is the number of hours charged and related justification for the work done.
+[20] As noted in a recent decision on costs in Canada Trustco Mortgage Company v. H.M.Q., 2007TCC500, file number 2003-3554(GST)G, I am not an expert in the area of consultants or expert witnesses and the rates they command nor the hours that would be reasonably claimed for work done. I therefore exercise my discretion in determining the amounts allowed; on one hand, the Appellant seeks the full amount charged while the Respondent suggests 7 and 6 hours be allowed for the work done by Mr. Lefrançois and Mr. Graham, respectively.
+[21] Mr. Lefrançois claimed 6.5 hours for “Pre-Engagement Letter Discussions”, 28.5 hours for report preparation, 8.5 hours for preparation for trial and 5 hours for time in Court. Mr. Graham claimed 6.8 hours for “Pre-Engagement Letter Discussions” and 46.2 hours for report preparation.
+[22] I find the number of hours claimed by Mr. Lefrançois to be reasonable. His contribution was to the substance of the report, based on his expertise. Counsel for the Appellant noted that Mr. Lefrançois is an accountant and not a “report writer” and therefore required the assistance of Mr. Graham. Mr. Graham no doubt contributed more to the final report than his word processing skills, however I find the 46.2 hours claimed for his services to be very high.
+[23] With respect to the expert witness fees, I will allow 20 hours for the services of Mr. Graham, for a total of $6,600. I will allow the other amounts claimed in full, minus the GST as noted at paragraph 3, for a total of $39,408.56.
+[24] The Bill of Costs is taxed, and I allow the sum of $52,286.61.
+Signed at Ottawa, Canada, this 18th day of January 2008.
+"Alan Ritchie"
+Taxing Officer

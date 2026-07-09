@@ -1,0 +1,171 @@
+---
+title: "A.A.I. Contracting Services Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423571/index.do"
+last_modified: "2019-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 233"
+citation2: ""
+neutral_citation: "2019 CCI 233"
+decision_date: "2019-10-21"
+language: "fr"
+item_id: "423571"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4204
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:08:52.458000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd6116bbbcc8a10b280acb80a0eb436cfcec426324a241a6301b65bb5dfa09a5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A.A.I. Contracting Services Ltd. c. La Reine
+
+- Citation: 2019 CCI 233
+- Decision date: 2019-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4204, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A.A.I. Contracting Services Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-21
+Référence neutre
+2019 CCI 233
+Numéro de dossier
+2017-2133(CPP)
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2017-2128(EI)
+ENTRE :
+A.A.I. Contracting Services Ltd.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 16 septembre 2019 à Windsor (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+M. Straun Costie
+Avocat de l’intimée :
+Me Dominik Longchamps
+JUGEMENT
+Le présent appel de la décision du ministre du Revenu national interjeté en application du paragraphe 103(1) de la Loi sur l’assurance-emploi (la LAE) est rejeté, sans dépens, conformément aux motifs du jugement ci-joints selon lesquels le travailleur occupait un emploi assurable auprès de l’appelante au sens de l’alinéa 5(1)d) de la LAE du 20 juillet 2015 au 8 janvier 2016.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2019.
+« B. Russell »
+Le juge Russell
+Dossier : 2017-2133(CPP)
+ENTRE :
+A.A.I. Contracting Services Ltd.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 16 septembre 2019 à Windsor (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+M. Straun Costie
+Avocat de l’intimée :
+Me Dominik Longchamps
+JUGEMENT
+Le présent appel de la décision du ministre du Revenu national interjeté en application de l’article 28 du Régime de pensions du Canada (le RPC) est rejeté, sans dépens, conformément aux motifs du jugement ci-joints selon lesquels du 20 juillet 2015 au 8 janvier 2016, le travailleur occupait un emploi ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 6(1)a) du RPC.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2019.
+« B. Russell »
+Le juge Russell
+Référence : 2019 CCI 233
+Date : 20191021
+Dossier : 2017-2128(EI)
+ENTRE :
+A.A.I. Contracting Services Ltd.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2017-2133(CPP)
+ENTRE :
+A.A.I. Contracting Services Ltd.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] Les deux présents appels interjetés en application de deux lois fédérales – la Loi sur l’assurance-emploi (LAE) et le Régime de pensions du Canada (RPC) – portent sur le statut de travailleur d’une personne qui a travaillé pour la société appelante A.A.I Contracting Supplies Ltd. (AAI). Cette personne se nomme M. Ghislain LeDuc (M. GL). Le représentant d’AAI est M. Straun Costie (M. SC), qui a témoigné pour AAI. J’ai informé M. SC au début de l’audience que les hypothèses exposées dans la réponse de l’intimée pour chacun des appels seraient considérées comme exactes, en application du droit applicable, en l’absence d’éléments de preuve les contredisant à première vue.
+[2] Les deux appels portent sur la question de savoir si M. GL a travaillé pour AAI pendant la période indiquée ci-dessous en tant qu’employé d’AAI ou en tant qu’entrepreneur indépendant engagé par AAI.
+[3] M. SC affirme qu’AAI est une société de sous-traitance dans le secteur de la construction qui se spécialise dans la pose de cloisons sèches et l’acoustique. Il explique qu’en sa qualité de propriétaire d’AAI, il a engagé M. GL afin qu’il travaille pour AAI en tant qu’installateur de cloisons sèches à compter du 20 juillet 2015. M. GL a travaillé à ce titre avec AAI jusqu’au 8 janvier 2016. M. SC indique que M. GL a demandé un [traduction] « chèque direct », ce qui est un mot de jargon utilisé dans l’industrie pour désigner le paiement du prix prévu au contrat (30 dollars de l’heure) sans retenues à la source, comme plusieurs autres personnes posant des cloisons sèches pour AAI. De plus, deux autres personnes qui ont elles aussi travaillé pour AAI, par exemple le contremaître M. Jenson, ont préféré qu’AAI se charge des retenues à la source. AAI s’est exécutée, en leur payant un montant net de toute retenue à la source, comme c’est généralement le cas pour des employés. Selon le témoignage de M. SC, la préférence d’un travailleur quant au paiement de sa rémunération, avec ou sans retenue à la source, semble être le critère principal, si ce n’est l’unique critère, utilisé par AAI pour qualifier ce travailleur soit d’employé soit d’entrepreneur.
+[4] En toute déférence, il semble que M. SC et, par extension, AAI ne connaissent pas les critères juridiques bien établis permettant de vérifier si un travailleur est un employé ou, à l’inverse, un entrepreneur indépendant. Au paragraphe 47 de son arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, la Cour suprême du Canada a écrit :
+La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[5] J’examinerai à présent les critères qui sont définis dans Sagaz, afin de déterminer si M. GL a exécuté ses services pour son propre compte, en étant par conséquent un entrepreneur indépendant et non un employé d’AAI, auquel cas les deux appels interjetés en application de la LAE et du RPC seraient accueillis.
+[6] Le premier critère à examiner concerne le degré de contrôle qu’AAI a exercé sur les activités de M. GL. Les éléments de preuve indiquent clairement qu’AAI (par l’intermédiaire de M. SC) a exercé un contrôle sur les travaux de M. GL et qu’elle a conservé les pleins pouvoirs pour exercer ce contrôle. M. SC se rendait chaque jour sur plusieurs chantiers d’AAI, y compris tous ceux où M. GL travaillait, afin de vérifier que tout se passait bien. Dans chaque cas, AAI exerçait des activités de sous-traitant aux termes d’un contrat conclu avec un entrepreneur général sur ces chantiers.
+[7] AAI a attribué à M. GL le titre de [traduction] « surintendant » d’AAI, tel que cela figure sur les cartes professionnelles qu’elle a fournies à M. GL. Lors du contre-interrogatoire, M. SC a expliqué que ce titre signifiait que M. GL était habituellement le représentant principal d’AAI, régulièrement présent sur tout chantier lui ayant été assigné. Si l’entrepreneur général voulait communiquer avec AAI sur l’un de ces sites de travaux, il devait passer par M. GL. M. SC s’attendait toutefois à ce que M. GL l’informe ensuite de toute communication de la sorte, pour décider de toute mesure à prendre nécessaire. M. GL n’avait le pouvoir de [traduction] « donner des ordres » à aucun autre travailleur d’AAI sur les chantiers. Néanmoins, aucun de ces éléments ne présente un intérêt particulier pour répondre à la question du contrôle exercé entre AAI (par l’intermédiaire de M. SC) et M. GL.
+[8] En résumé, en ce qui concerne le critère du contrôle, M. GL a été entièrement assujetti au contrôle d’AAI par l’intermédiaire de son propriétaire, M. SC. Ce dernier inspectait quotidiennement les travaux exécutés pour en vérifier la qualité, afin d’éviter tout problème entre AAI et l’entrepreneur général concerné. Par ailleurs, tous les travailleurs, y compris au même titre M. GL, devaient respecter les politiques écrites d’AAI, notamment sa [traduction] « politique en matière de consommation d’alcool et de drogue », sa [traduction] « politique en matière de harcèlement » et son [traduction] « code de conduite de l’employé ». Par conséquent, le critère du contrôle, tel qu’il est défini dans Sagaz, joue fortement en faveur de la conclusion selon laquelle M. GL a été un employé d’AAI.
+[9] Le deuxième critère mentionné dans Sagaz consiste en l’apport ou non par le travailleur de son propre outillage. La réponse à cette question, selon le témoignage de M. SC, est qu’une personne de métier dans l’industrie de la construction possède généralement ses propres outils à main et sa propre ceinture porte-outils qu’elle apporte au travail. C’était le cas en l’espèce. En effet, M. SC a déclaré qu’AAI n’aurait pas engagé M. GL si ce dernier n’avait pas possédé ses propres outils à main, à apporter sur les chantiers d’AAI pour exécuter les travaux de pose de cloisons sèches. M. SC a également déclaré, en revanche, qu’AAI fournissait les [traduction] « pistolets Hilti », un type d’outils de fixation plus onéreux et que l’on peut utiliser pour la pose de cloisons sèches. Il semble que le critère de possession des outils joue essentiellement en faveur de la conclusion selon laquelle M. GL est un entrepreneur indépendant.
+[10] Le critère suivant mentionné dans Sagaz consiste en la capacité du travailleur d’embaucher ses propres assistants. M. SC n’a fourni aucun élément de preuve confirmant que M. GL pouvait le faire. Je déduis des éléments de preuve et de mon observation de M. SC que ce dernier exerçait un contrôle strict et qu’il n’aurait pas souhaité la présence d’un travailleur qu’il n’aurait pas approuvé lui-même pour exécuter les travaux d’AAI sur un chantier. En outre, le ministre du Revenu national, à l’alinéa 7q) de sa réponse à chacun des appels interjetés en application de la LAE et du RPC, a formulé l’hypothèse selon laquelle [traduction] « [M. GL] n’aurait pas pu embaucher un travailleur remplaçant ou un assistant sans le consentement d’[AAI] ». Par conséquent, le critère de la capacité du travailleur d’engager ses propres assistants joue en faveur de la conclusion selon laquelle M. GL a été un employé et non un entrepreneur indépendant.
+[11] Les derniers critères énoncés dans l’arrêt Sagaz peuvent être examinés de manière groupée. Il s’agit de « l’étendue des risques financiers [du travailleur], jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches ». Aucun élément de preuve présenté à l’audience n’indique que M. GL a pris un risque financier, qu’il a assumé des responsabilités de quelque nature que ce soit en matière d’investissement ou de gestion de l’activité à laquelle ses travaux ont servi ou encore qu’il a eu l’occasion de tirer profit de l’exécution de ses tâches. Au contraire, il a été engagé simplement en tant que travailleur rémunéré à hauteur de 30 dollars de l’heure, jusqu’à son licenciement en raison de problèmes avec d’autres travailleurs d’AAI. Ces trois critères financiers indiquent clairement que M. GL a travaillé pour le compte d’AAI en tant qu’employé et non en tant qu’entrepreneur indépendant.
+[12] De plus, il est noté que M. GL n’a fourni aucune facture pour ses travaux, outre le fait que tous les travailleurs pour le compte d’AAI sont tenus de déclarer leur temps de travail. En outre, M. GL n’a jamais facturé ni la taxe sur les produits et services (TPS) ni la taxe de vente harmonisée (TVH) pour quelques services que ce soit, alors qu’un entrepreneur indépendant est tenu de le faire (contrairement à un employé).
+[13] Par conséquent, la réponse à la question qu’il est nécessaire de se poser selon Sagaz – À qui appartient l’entreprise? – est que l’entreprise a appartenu à AAI, et absolument pas à M. GL. J’en conclus que M. GL était l’employé d’AAI et qu’il n’était pas un entrepreneur indépendant.
+[14] Par conséquent, l’appel interjeté en application du RPC sera rejeté, sans dépens, pour le motif que M. GL était un employé d’AAI durant la période du 20 juillet 2015 au 8 janvier 2016 et que son activité professionnelle au cours de cette période constitue un emploi ouvrant droit à pension en application de l’alinéa 6(1)a) du RPC. De même, l’appel interjeté en application de la LAE sera rejeté, sans dépens, pour le motif que M. GL était un employé d’AAI au cours de cette période et que son activité professionnelle pour le compte d’AAI au cours de cette période constituait un emploi assurable au sens de l’alinéa 5(1)a) de la LAE.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2019.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+Ce 1er jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 233
+No DU DOSSIER DE LA COUR :
+2017-2133(CPP)
+2017-2128(EI)
+INTITULÉ :
+A.A.I. Contracting Services Ltd. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 septembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 24 octobre 2019
+COMPARUTIONS :
+Pour l’appelante :
+M. Straun Costie
+Avocat de l’intimée :
+Me Dominik Longchamps
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[en blanc]
+Cabinet :
+[en blanc}
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

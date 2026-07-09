@@ -1,0 +1,330 @@
+Title: Singh Sandhu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29250/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-175-29250-singh-sandhu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-15
+
+# Singh Sandhu v. The Queen
+
+- Citation: 2009 TCC 175
+- Decision date: 2009-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6990, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh Sandhu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-15
+Neutral citation
+2009 TCC 175
+File numbers
+2006-1310(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1310(GST)G
+BETWEEN:
+AJMER SINGH SANDHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Satnam Singh Sandhu (2006-1312(GST)G) on November 8, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Daniel Bourgeois
+Counsel for the Respondent:
+Jocelyne Mailloux Martin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 8, 2004 and bears the number PM-11594, is dismissed, without costs, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 20 day of May 2009.
+François Brunet, Revisor
+Docket: 2006-1312(GST)G
+BETWEEN:
+SATNAM SINGH SANDHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Ajmer Singh Sandhu (2006-1310(GST)G) on November 8, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Daniel Bourgeois
+Counsel for the Respondent:
+Jocelyne Mailloux Martin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 8, 2004 and bears the number PM-11596, is allowed, without costs, and the assessment is vacated, in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 20 day of May 2009.
+François Brunet, Revisor
+Citation: 2009 TCC 175
+Date: 20090326
+Dockets: 2006-1310(GST)G
+2006-1312(GST)G
+BETWEEN:
+AJMER SINGH SANDHU,
+SATNAM SINGH SANDHU,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Issue
+[1] Both appeals were heard on common evidence. The appeals relate to the assessments of directors under section 323 of the Excise Tax Act (the Act). Both assessments are dated September 8, 2004. According to the notices of assessment, the first period in which the corporation failed to pay its net tax began on January 1, 1997, and the last period ended on March 31, 1999. More specifically, there were three 3‑month periods, namely, January, February and March of each year (see Exhibits A‑12, page 2, and I‑1, tab 1, page 2).
+[2] The appellants' submissions are as follows:
+(a) Ajmer Singh Sandhu (Ajmer) was not a director after September 25, 2000; therefore, he was assessed after the two‑year period prescribed in subsection 323(5) of the Act.
+(b) Satnam Singh Sandhu (Satnam) was not a director when the corporation failed to remit its net tax; therefore, he cannot be liable for the corporation's failure to remit its net tax under subsection 323(1) of the Act. Satnam did not become a director until September 25, 2000.
+[3] Alternatively, both Appellants raise the defence of due diligence in their Notice of Appeal.
+Facts
+[4] Both Appellants testified, as did Jules Brossard, whom Ajmer consulted, and Michel Hachey, who is a collection officer of the Quebec Ministère du Revenu. Exhibits A‑1 to A‑18 and I‑1 to I‑4 were filed.
+[5] 9033‑0010 Québec Inc. (the corporation) was incorporated on March 22, 1996. Throughout the period in issue, Ajmer and Satnam held 60 percent and 40 percent of the shares, respectively. The corporation operated the bar "Brasserie des variétés." The bar also had video lottery terminals.
+[6] According to the corporation's financial statements for the year ending on March 31, 1999, the corporation's pre‑tax income was $7,237 in 1998 and $2,799 in 1999 (see Exhibit I‑1, tab 14).
+[7] Ajmer is Satnam's uncle.
+[8] The documentation filed in evidence is often contradictory as to whether Ajmer or Satnam was a director at a given time. The following table provides a summary of the documents:
+Director(s) of 9033-0010 Québec Inc.―Based on Documents
+Date
+Director
+Document
+Signed by
+Exhibit
+1996
+1996-03-22
+è Ajmer and Satnam
+governing documents
+Ajmer
+A‑2
+1996-03-29
+è Ajmer
+minutes
+Ajmer
+A‑3
+1996-03-30
+è Ajmer
+minutes
+Ajmer and Satnam
+A‑3
+1996-04-18
+è Satnam
+initial declaration
+Ajmer
+A‑4
+1996-05-02
+è Ajmer and Satnam
+bank forms
+Satnam
+I‑1 and I‑2, tab 6, page 5
+1996-12-09
+è Satnam
+1996 annual declaration
+Ajmer
+A‑5
+1997
+1997-10-15
+è Satnam
+1997 annual declaration
+Ajmer
+A‑6
+1998
+1998-12-03
+è Satnam
+1998 annual declaration
+Ajmer
+A‑7
+1999
+1999-03-31 (or later)
+è Ajmer
+financial statements*
+Ajmer
+I‑1 and I‑2, tab 14
+*Signed by Ajmer "on behalf of the Board of Directors" on the page entitled "Balance Sheet."
+2000
+2000-05-15 (or later)
+è Ajmer
+financial statements*
+Ajmer
+I‑1 and I‑2, tab 15
+*Signed by Ajmer "on behalf of the Board of Directors" on the page entitled "Balance Sheet."
+2000-09-25
+è Satnam*
+minutes
+Ajmer and Satnam
+A‑1 and A‑3
+*Ajmer resigned at the same time.
+2000-11-01 (1)
+è Ajmer
+1999 annual declaration
+Ajmer
+A‑9
+2000-11-01 (2)
+è Ajmer
+2000 annual declaration
+Ajmer
+A‑10
+2000-11-01 (3)
+è Ajmer
+amended declarationu
+Ajmer
+A‑11
+uAccording to the amended declaration, the initial declaration and the 1996, 1997 and 1998 annual declarations were incorrect. In those four declarations, Ajmer should have been indicated as the director and not Satnam.
+2001
+2001-08-16 (or later)
+è Ajmer
+financial statements*
+Ajmer
+I‑1 and I‑2, tab 16
+*Signed by Ajmer "on behalf of the Board of Directors" on the page entitled "Balance Sheet."
+2001-09-24
+è Satnam
+2001 annual declaration
+Satnam
+A‑14
+2002
+2002-07-16
+(or later)
+è Ajmer
+financial statements*
+Ajmer
+I‑4
+*Signed by Ajmer "on behalf of the Board of Directors" on the page entitled "Balance Sheet." The tax return to which the financial statements are attached is dated July 9; however, the accountant's letter at the beginning of the financial statements is dated July 16, hence it would have been difficult for Ajmer to sign the financial statements before July 16.
+2002-09-23
+è Satnam
+2002 annual declaration
+Satnam
+A‑15
+[9] The Appellants did not object to the corporation's assessment. The corporation objected to the assessment but did not appeal from it.
+[10] The corporation went bankrupt on October 11, 2002. The governments were the sole creditors.
+[11] Mr. Brossard testified that Ajmer went to see him regarding a GST and QST problem in late June 2000.
+[12] His assistant prepared the documents in Exhibit A‑1, the resignation of Ajmer as director, president and secretary of the corporation, and the election of Satnam as director.
+[13] Although he cannot say for certain, Mr. Brossard believes that Ajmer very likely signed the resignation in his presence. Mr. Brossard testified that he created a subfolder named [TRANSLATION] "Director's Resignation" on June 26, 2000.
+Testimony of Ajmer Singh Sandhu
+[14] Ajmer came to Canada in 1988, when he was approximately 30 years old. He completed grade 10 in India. From 1988 to 1995, he worked as a cook. Before coming to Canada, he worked on his father's farm.
+[15] Every three months, Ajmer gave accountant Mongiat Bernucci all the information on sales, GST, QST and so on. The accountant made the GST remittances (see transcript, question 81).
+[16] Revenu Québec made a GST and QST audit of the corporation in 2000.
+[17] After that, the accountant told Ajmer that he had not reported enough GST.
+[18] Ajmer testified that the accountant told him that only net amounts needed to be reported and never promotional amounts, such as those from a "2 for 1" special. In his testimony, Ajmer distinguished between gross and net sales.
+[19] As an example, he said that during a given month he might sell $25,000 in beverages, $5,000 promotional and $20,000 net. His understanding of the accountant's explanation was that he was to report only the net amount and not the promotional amount, that is, the net amount of sales recorded at the cash register. Promotional drinks were free for customers.
+[20] However, when I tried to confirm my understanding of the manner in which the Appellant accounted for sales, I received the following answer:
+[TRANSLATION]
+HIS HONOUR:
+121. Q. Just so I understand, say that you were offering 2 for 1 . . .
+A. Yes.
+122. Q. . . . and what was the typical price of a beer?
+A. It's like $4 a beer.
+123. Q. Okay, so if you were offering 2 for 1 and . . .
+R. $2 off each beer. I pay $4; that's two beers, $2 off each beer.
+124. Q. And how did you enter that at the cash register?
+R. For fifty percent (50%) like 2 for 1, two times fifty percent (50%), $2, $2.
+125. Q. Okay, so it was $4 gross?
+A. Yes, $4 gross.
+126. Q. And $2 net?
+A. Yes, $2 net.
+From that answer, it appears that when two beers were sold during a "2 for 1" special, the customer paid $4 and the transaction was entered as $4 gross and $2 net. However, the answer is ambiguous, and it could be that the witness said he entered $4 gross for each beer and $2 net for each beer, even though it is hard to understand why he would enter $8 in sales when he received $4 only.
+[21] The accountant did not testify.
+[22] When Ajmer was asked whether or not he could explain why both he and Satnam were listed as directors in the corporation's governing documents (Exhibit A‑2), but only Ajmer was listed as a director a few days later (Exhibit A‑3), he could not give a clear explanation.
+[23] Ajmer said that he was the director from the beginning until September 2000 (see transcript, questions 300 to 303).
+[24] When Ajmer was asked why Satnam is the only director listed after the initial declaration (Exhibit A‑4), he answered that he thought the president of the corporation was more important, that he did not really know the difference between a director and other positions, and that it must have been a mistake.
+[25] As for the annual declarations for 1996, 1997 and 1998, which list Satnam as the sole director, Ajmer stated that the forms had been already filled in when he received them.
+[26] After going to see Mr. Brossard about the audit of the corporation, Ajmer resigned as a director, and Satnam was elected as a director (Exhibits A‑1 and A‑3).
+[27] After talking with Mr. Brossard, Ajmer realized that an error had been made and, on November 1, 2000, he signed the 1999 and 2000 annual declarations, indicating that he was the sole director, as well as an amended declaration that replaced the initial, 1996, 1997 and 1998 declarations, indicating that he was the director and not Satnam (Exhibits A‑9, A‑10 and A‑11).
+[28] Ajmer stated that Satnam helped in the bar. He did cleaning and stocked the refrigerator, among other things.
+[29] Ajmer stated that after September 2000, he no longer did any work in the corporation except to help out (see transcript, questions 314 to 319). It was his nephew who took care of the corporation.
+[30] Nevertheless, Ajmer did sign certain corporation documents after September 25, 2000. The documents included cheques and financial statements that the nephew asked Ajmer to sign, because he knew little about those things (see transcript, question 323). Ajmer signed corporation cheques on October 15, 2000, October 31, 2000, November 15, 2000, January 31, 2001, and July 31, 2001.
+[31] Under cross-examination, Ajmer stated that he was constantly at the bar, which opened around 11 a.m. and closed at 3 a.m. There were three or four employees. Ajmer lived above the bar. The bar was open every day except December 24 and 25.
+[32] Ajmer managed the business. He ordered the wine and beer, and he paid the bills. Ajmer and Satnam were signatories of the bank account. Ajmer ran the cash register, tallied the sales of wine and beer, and took inventory of the beverages. Ajmer also looked after the video lottery terminals.
+[33] Ajmer acknowledged that he and Satnam went to the bank together in 1996, and together they signed the bank documents (Exhibit I‑1, tab 6).
+Testimony of Satnam Singh Sandhu
+[34] Satnam came to Canada in 1994, at the age of 17. He started grade 11, which is the start of college in India, but did not finish. From the time he arrived in Canada to the time he joined the corporation, he worked at the same places as Ajmer. He was in charge of maintenance, including cleaning.
+[35] At the corporation, he performed manual labour, such as maintenance, cleaning, and stocking the refrigerators with beer each morning.
+[36] He did not look after management, accounting or tax remittances. Ajmer still looked after that, as well as annual declarations (see transcript, question 803). Ajmer checked things with the accountant.
+[37] Satnam maintains that he was listed by mistake as a director in the initial declaration and annual declarations for 1996 to 1998.
+[38] From 1996 to 2000, and even at the time of the trial, he did not fully understand the difference between a director and officer of a corporation.
+[39] When asked whether or not his role in the corporation changed after his uncle resigned as a director on September 25, 2000, Satnam stated that he continued performing the same work as he did before his uncle resigned (see transcript, questions 763, 764, and 857 to 874).
+[40] According to Satnam, he was the one who decided to declare bankruptcy. Ajmer agreed with the decision.
+[41] According to Satnam, that was the only decision he made between 1996 and the bankruptcy in October 2002 (see transcript, questions 789 to 797 and 820 to 843).
+[42] At the time the corporation was formed, Satnam did not speak French, and he read very little French.
+Analysis
+Was Satnam a director before September 25, 2000?
+[43] At the beginning of the periods in question, Satnam was approximately 20 years old and had been in Canada for a little over two years. His testimony and Ajmer's leave no doubt that Satnam's role was to perform manual labour, with one exception.
+[44] The exception is that Satnam apparently made the decision to declare bankruptcy. Since he performed manual labour the rest of the time, and since he testified that Ajmer always took care of management, taxes and accounting, and nothing changed after his uncle became a shareholder, I cannot find that Satnam made the decision to declare bankruptcy, the only decision he allegedly made from 1996 to the time of the bankruptcy. I find that the decision to declare bankruptcy was made by Ajmer, or jointly by Ajmer and Satnam.
+[45] Therefore, I find that Satnam never exercised the role of a director or, if he did exercise that role, then he did it only once, jointly with Ajmer, at the time of the bankruptcy.
+[46] It is admitted that Satnam was a de jure director as of September 25, 2000. What was the situation before that date?
+[47] Section 62 of the Act respecting the Legal publicity of sole proprietorships, partnerships and legal persons, R.S.Q., c. P‑45, reads as follows: "The information relating to each registrant is proof of its contents in favour of third persons in good faith from the date on which it is entered in the statement of information. . . ." However, I am persuaded that a person who is named as a director, but who is not in fact a director, is not bound by a declaration filed by the corporation and can prove that he or she was not a director (see Commission de la construction du Québec v. Colette Légaré and Guylaine Légaré, C.Q. 200‑22‑002270‑973, April 16, 1998, Court of Quebec, Civil Division; see also section 82 of the same legislation).
+[48] The corporation's minutes of March 29 and 30, 1996, clearly show that Ajmer was elected as a director.
+[49] The corporation was formed on March 22, 1996. The governing documents, all signed by Ajmer, indicate that Ajmer and Satnam are directors. The governing documents were effective; however, they could not remain effective after the decisions made by the corporation a few days later, that is, on March 29 and 30.
+[50] Therefore, Ajmer was the director after March 29, 1996. How does that affect the initial declaration, the annual declarations for 1996 to 1998 and the bank forms of May 2, 1996?
+[51] There is no document before September 25, 2000, showing that Satnam had agreed to be a director, and the only document signed by Satnam before 2000 in which he is named as a director is the bank form of May 2, 1996. There is no evidence to show that Satnam acted as a director before 2000.
+[52] I accept the testimony of Ajmer and Satnam that an error was made in the initial declaration and annual declarations for 1996 to 1998. Moreover, regardless of the effect of the bank form signed by Satnam, that form does not lead me to find that Satnam was a director, given the remaining evidence.
+[53] Therefore, I find that Satnam was not a director before September 25, 2000. Since he was not a director when the corporation defaulted, his appeal will be allowed.
+Was Ajmer a director after September 25, 2000?
+[54] Ajmer does not dispute the fact that he was a director before September 25, 2000.
+[55] Although he resigned on September 25, 2000, I find that Ajmer continued as a de facto director after September 24, 2000, for the following reasons:
+(a) From the testimony, it is clear that Ajmer was running the corporation and Satnam was not able to run it.
+(b) Ajmer signed the financial statements of August 16, 2001, and July 16, 2002, "on behalf of the Board of Directors" with the title "Director" next to his signature (see Exhibit I‑4 and Exhibits I‑1 and I‑2, tab 16).
+(c) As I mentioned above, I find that it was Ajmer (or Ajmer jointly with Satnam) who made the decision to declare bankruptcy in October 2002, less than two years before the assessment of September 8, 2004.
+[56] In summary, Ajmer was a director, either de jure or de facto, during the entire period relevant to this matter.
+Due diligence
+[57] Did Ajmer exercise due diligence within the meaning of subsection 323(3) of the Act?
+[58] Ajmer claims to have acted with due diligence within the meaning of subsection 323(3) of the Act, because he gave everything to his accountant (gross and net income) and entrusted the accountant with making the remittances. According to Ajmer's argument, he could not have done anything more, for he could not have known that, in offering a special of two beers for the price of one—that is, two beers for, say, $4 instead of $8—he still had to pay the GST on the total of $8.
+[59] I can accept that the duty to remit GST net tax can in certain cases be more complicated for a director than the duty to remit income tax or employment insurance source deductions. I can also accept that, when a difficult question arises regarding a net tax calculation, a taxpayer who is diligent in choosing a competent advisor, checking the advisor's work and providing complete information to the advisor can raise the due diligence defence, as per subsection 323(3) of the Act.
+[60] However, that defence is not made out by the taxpayer in this case.
+[61] Still using the example above, the evidence does not show that GST was assessed on a sale of $8 when $4 in income was earned during a promotion of two beers for the price of one (see transcript, questions 121 to 126 quoted above). In any case, I have not been directed to any provision in the Act that would make the amount of $8 taxable rather than the amount of $4 that was received in the "2 for 1" example.
+[62] Even if I were to assume that, in the "2 for 1" example, the taxpayer reported a gross sale of $8 and a net sale of $4 to his accountant, and the corporation paid net tax using $4 as the sales price, it would not suffice for the Appellant to say he gave all his information to the accountant, who told him to pay the tax on net sales. More is required to make out due diligence. If the accountant made an error that a director could not be expected to notice, the Appellant would have to clearly identify the nature of the error and the way in which the accountant made the error after receiving all the information.
+[63] That is even more the case if, in the example, he reported a gross sale of $4 and a net sale of $2 to his accountant.
+[64] In the case at bar, the accountant's testimony would have been indispensable to the Appellant.
+[65] Aside from the considerations above, there is another reason for which I find that due diligence has not been made out. Although the bar was operated 363 days a year from January 1, 1997, to March 31, 1999, the assessment deals with defaults in three 3‑month periods only: from January 1 to March 31, 1997; from January 1 to March 31, 1998; and from January 1 to March 31, 1999. That is a total of nine months over a period of 27 months (see Exhibits A‑12 and I‑1, tab 1, second pages).
+[66] I cannot accept that the Appellant was diligent and that the promotions resulted in defaults that he could not prevent in January, February and March, but that the promotions did not result in defaults from April to December.
+[67] I must find that Ajmer has not offered evidence that he exercised due diligence within the meaning of paragraph 323(3) of the Act.
+[68] In the light of my findings of fact, I need not consider the issue of whether the Supreme Court of Canada's decision in Peoples Department Stores Inc. (Trustee of) v. Wise, 2004 SCC 68, has modified the test developed by the Federal Court of Appeal in Soper v. Canada, [1998] 1 F.C. 124. Under both the test developed in Soper and the one developed in Peoples, there was no due diligence. I would add that the facts of this case are markedly distinguishable from those in David Mosier v. The Queen, docket 96‑3504(GST)G, October 10, 2001 (TCC).
+[69] For these reasons:
+(a) the appeal of Satnam Singh Sandhu is allowed, and the assessment is vacated; and
+(b) the appeal of Ajmer Singh Sandhu is dismissed.
+[70] As to costs, I shall ask the parties to advise the registry if they wish to make representations on the matter. I will then sign the judgment.
+Signed at Ottawa, Canada, this 26th day of March 2009.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 20 day of May 2009.
+François Brunet, Revisor
+CITATION: 2009 TCC 175
+COURT FILE NOS.: 2006-1310(GST)G, 2006-1312(GST)G
+STYLES OF CAUSE: AJMER SINGH SANDHU v. HER MAJESTY THE QUEEN, SATNAM SINGH SANDHU v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 8, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF REASONS: March 26, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Daniel Bourgeois
+Counsel for the Respondent:
+Jocelyne Mailloux Martin
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Daniel Bourgeois
+Firm: De Grandpré Chait
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

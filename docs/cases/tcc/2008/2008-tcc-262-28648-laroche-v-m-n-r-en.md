@@ -1,0 +1,211 @@
+---
+title: "Laroche v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28648/index.do"
+last_modified: "2008-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 262"
+citation2: ""
+neutral_citation: "2008 TCC 262"
+decision_date: "2008-05-20"
+language: "en"
+item_id: "28648"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1112
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:11:00.494000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c75f8c712b8698ae298e262e8773e8249e119a58defb2875de7fc5fcea852a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laroche v. M.N.R.
+
+- Citation: 2008 TCC 262
+- Decision date: 2008-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1112, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laroche v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-20
+Neutral citation
+2008 TCC 262
+File numbers
+2007-3920(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2007-3920(EI)
+BETWEEN:
+ROYAL LAROCHE,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 9, 2008, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Roch Guertin
+Counsel for the Respondent:
+Nadia Golmier
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is allowed on the ground that from May 1, 2006, to December 16, 2006, Royal Laroche held insurable employment with Wilfred Laroche within the meaning of paragraph 5(1)(a) of the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of May 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of July 2008.
+Brian McCordick, Translator
+Citation: 2008TCC262
+Date: 20080520
+Docket: 2007-3920(EI)
+BETWEEN:
+ROYAL LAROCHE,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] Royal Laroche has appealed from a decision of the Minister of National Revenue ("the Minister") under the Employment Insurance Act ("the Act"). The Minister determined that Mr. Laroche was not engaged in insurable employment while he was working for Wilfrid Laroche ("the payor") from May 1, 2006, to December 16, 2006 ("the relevant period").
+[2] At the beginning of the hearing, counsel for Mr. Laroche admitted or denied the following facts, set out in paragraphs 11 and 12 of the Reply to the Notice of Appeal:
+(11) The Appellant and the payor are not dealing with each other at arm's length within the meaning of the Income Tax Act, because:
+(a) Wilfrid Laroche operated a business excavating and installing septic beds; (admitted)
+(b) Wilfrid Laroche was the sole proprietor of the business; (admitted)
+(c) Wilfrid Laroche is the Appellant's grandfather; (admitted)
+(d) The Appellant is related by blood to a person who controls the payor's business; (admitted)
+(12) The Minister determined that the Appellant and the payor were not dealing with each other at arm's length in the employment. The Minister was satisfied that it was not reasonable to conclude that the Appellant and the payor would have entered into a substantially similar contract if they had been dealing with each other at arm's length, having regard to the following circumstances:
+(a) the payor operated a business excavating and installing septic beds on agricultural and residential properties; (admitted)
+(b) the payor stated to the Respondent's agent that he had operated the business for 40 years; (admitted)
+(c) according to the payor, the business had sales of roughly $200,000 per year; (admitted)
+(d) the Appellant was born on January 5, 1987; (admitted)
+(e) the Appellant was hired as a labourer; (admitted)
+(f) according to the payor, the Appellant's duties consisted in driving the steam shovel, the bulldozer and the ten-wheel truck, doing excavation, but never doing finishing work, and doing mechanical maintenance such as greasing; (admitted)
+(g) on July 10, 2007, the Appellant stated to a representative of the Respondent that he considered himself to be a jack of all trades taking instructions from the payor, his uncle Serge Laroche or his father Réal Laroche; (admitted)
+(h) on July 10, 2007, the Appellant stated to a representative of the Respondent that if the weather was good he helped in the agricultural excavating; if it rained, he repaired the machinery in the garage; (admitted)
+(i) also on July 10, 2007, the Appellant stated to a representative of the Respondent that he sometimes worked 30 hours a week, sometimes 32, sometimes 28, depending on the weather; (admitted)
+(j) on December 21, 2006, the Appellant stated in his claim for unemployment benefits that he worked 40 hours a week, Monday to Friday, eight hours a day; (admitted)
+(k) in the payor's payroll journal, the Appellant was always recorded as working 30 hours every week, for 33 consecutive weeks between May 1 and December 16, 2006; (admitted)
+(l) on December 21, 2006, the Appellant stated in his claim for unemployment benefits that he had 990 hours of insurable employment; for an initial claim, the Appellant needed 910 hours to qualify; (admitted)
+(m) on February 14, 2007, the payor stated to a representative of the Respondent that he would have hired someone other than the Appellant when needed, maybe half the time; (denied as written)
+(n) the duration of the Appellant's employment is unreasonable; (denied)
+(o) according to the payor, the Appellant was paid $10 per hour; (admitted)
+(p) in the payor's payroll journal, the Appellant was recorded as being paid $312 per week, for a total of $10,296 for 33 consecutive weeks; (admitted)
+(q) according to the 10 cheques issued to the Appellant by the payor — $800 on June 30, $500 on July 14, $801 on August 1, $500 on September 1, $600 on September 25, $600 on October 5, $300 on October 15, $600 on October 26, $600 on November 15, and $533.83 on November 17 — the total earnings paid to the Appellant by cheque were $5,834.83 [sic]; (admitted)
+(r) the worker was paid irregularly and sporadically; (denied as written)
+(s) the cheques issued to the Appellant by the payor did not correspond to the amounts recorded in the payor's payroll journal; (admitted)
+(t) a worker dealing with an employer at arm's length would not have agreed to receive his earnings in an irregular manner; (denied)
+(u) according to the payor, the Appellant received cash payments in the early part of his period of employment; (admitted)
+(v) on February 20, 2007, the payor gave the Respondent a document showing cash payments totalling $2,975 between May 13, 2006, and December 16, 2006; (admitted)
+(w) according to the document provided by the payor on February 20, 2007, the Appellant was short $1,486.82 to reach the amount recorded in the payor's payroll journal: the difference between $10,296 and $5,834.83 [sic] (the cheques) plus $2,975 (cash); (denied as written)
+(x) a worker dealing with an employer at arm's length would not have agreed not to receive all of his earnings; (denied)
+(y) the Appellant's cheques were cashed late; (denied as written)
+(z) on June 12, 2007, the payor stated to a representative of the Respondent that he had told the Appellant he would pay him when he had the money; (admitted)
+(aa) on July 11, 2007, the payor stated to a representative of the Respondent that he had asked the Appellant six times not to cash his paycheque; (admitted)
+(bb) a worker dealing with an employer at arm's length would have cashed his paycheques without delay; (denied)
+(cc) the terms and conditions of the Appellant's remuneration were unreasonable; (denied)
+(dd) on February 1, 2007, the payor stated to a representative of the Respondent that he wanted to hire the Appellant to show him the work; (denied as written)
+(ee) on February 1, 2007, the payor declared to a representative of the Respondent that the Appellant watched what the payor did in order to learn and practice; (denied as written)
+(ff) on February 1, 2007, the payor stated to a representative of the Respondent that the Appellant always had to be accompanied by either Serge Laroche or the other worker, or by the payor himself, since a young person cannot be left alone with the heavy machinery because it is too dangerous; (denied as written)
+(gg) on February 14, 2007, the payor stated to a representative of the Respondent that he did not really need the worker; he gave him work because he did not want him hanging out with five or six other guys and doing things he should not be doing; (denied)
+(hh) on July 10, 2007, the Appellant stated to a representative of the Respondent that if his grandfather had had to hire someone else, that person would have had to have experience, and it takes time to learn this work; (admitted)
+(ii) at the time of the period in issue, the Appellant did not have the driver's licence and driving experience needed to drive a ten‑wheel truck; (denied as written)
+(jj) the nature and importance of the work and the terms and conditions of the Appellant's work were not reasonable; (denied)
+(kk) the Minister is satisfied that the terms and conditions of this work could not apply if the parties were dealing with each other at arm's length. (denied)
+[3] I would immediately note that the credibility of the Appellant and the payor is not doubted. They testified candidly, to the best of their knowledge, and with great clarity.
+[4] It is also apparent from the testimony given by the Appellant and the payor and from the reliable documentary evidence submitted by the Appellant that:
+(a) it was the Appellant's job to manoeuvre the payor's heavy machinery (steam shovel and bulldozer) under the supervision of the payor or of his uncle, because he was learning. He drove the payor's truck off the public roadways. He also did manual labour such as shovelling. He did mechanical maintenance (draining oil, greasing, changing tires and soldering) on the Appellant's machinery and also ran errands for the payor;
+(b) the Appellant recorded the hours he worked in his notebook, the hours varying from week to week depending on the weather and the contracts they had. The Appellant explained that he worked an average of 30 hours a week for 33 consecutive weeks, between May 1 and December 16, 2006, for a total of 990 hours. It should be noted that the Appellant's testimony on this point was corroborated by the payor's;
+(c) the Appellant received his complete net earnings, a total of $8,808.75, as follows:
+(i) on May 13, 2006, the payor paid the Appellant $500 in cash;
+(ii) on May 27, 2006, the payor paid the Appellant $500 in cash;
+(iii) on June 10, 2006, the payor paid the Appellant $500 in cash;
+(iv) on June 30, 2006, the payor wrote a cheque for $800 on his bank account, payable to the Appellant. The cheque was cashed by the Appellant five days after it was issued;
+(v) on July 14, 2006, the payor wrote a cheque on his account payable to the Appellant in the amount of $500, which was cashed by the Appellant two days after it was issued;
+(vi) on July 20, 2006, the payor paid the Appellant $400 in cash;
+(vii) on August 1, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $801, which was cashed by the Appellant 13 days after it was issued;
+(viii) on August 18, 2006, the payor paid the Appellant $500 in cash;
+(ix) on September 1, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $500, which was cashed by the Appellant four days after it was issued;
+(x) on September 25, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $600, which was cashed by the Appellant on the same day as it was issued;
+(xi) on October 5, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $600, which was cashed by the Appellant six days after it was issued;
+(xii) on October 15, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $300, which was cashed by the Appellant four days after it was issued;
+(xiii) on October 26, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $600, which was cashed by the Appellant one day after it was issued;
+(xiv) on November 15, 2006, the payor wrote a cheque on his bank account payable to the Appellant in the amount of $600, which was cashed by the Appellant two days after it was issued;
+(xv) on December 17, 2006 (not November 17, the date shown on the cheque), the payor wrote a cheque on his bank account payable to the Appellant in the amount of $533,87, which was cashed by the Appellant 10 days after the date on which it was actually issued;
+(xvi) On December 16, 2006, the payor paid the Appellant $575 in cash.
+(d) the payor had cash flow problems during the relevant period. The payor explained that this was why he paid the Appellant irregularly and sporadically and asked him on several occasions to delay cashing the cheques he had written to him. In addition, the Appellant explained that he had agreed to be paid irregularly and to delay cashing cheques on several occasions because he could cope with the inconvenience easily, given that he had no debts to pay and no family to support.
+(e) the payor would have entered into a contract substantially similar to the contract with the Appellant with a person with whom he was dealing at arm's length if the Appellant had not been available during the relevant period. The payor explained that he would have hired any young man on the same terms and conditions as he gave his grandson, provided that the person could prove that he was reliable.
+Analysis
+[5] It must be noted that the Respondent has determined that this employment was not insurable under paragraph 5(2)(i) and subsection 5(3) of the Act because he was satisfied that it was not reasonable to conclude, having regard to all the circumstances, that the Appellant and the payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[6] The Federal Court of Appeal has defined the role assigned to a Tax Court of Canada judge on several occasions. That role does not permit the judge to substitute his or her discretion for the Minister's, but does involve an obligation to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, . . . decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable".[1]
+[7] In other words, before deciding whether the Minister's conclusion still seems to me to be reasonable, I must verify, having regard to the evidence before me, whether the Minister's allegations are in fact correct, having regard to the factors set out in paragraph 5(3)(b) of the Act. We must therefore ask whether the payor and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[8] The Appellant had the burden of proving that the Minister did not exercise his discretion in accordance with the principles that apply in this regard, that is, that the Minister did not examine all of the relevant facts or failed to have regard to all of the facts that were relevant. In this case, the Appellant has satisfied me that during the relevant period he worked an average of 30 hours per week, for 33 consecutive weeks. All in all, the Appellant has satisfied me that he really worked 990 hours during the relevant period and was paid in full for that work. The Respondent at no time alleged in this case that the $10 hourly rate was unreasonable. In fact, counsel for the Respondent essentially relied, in argument, on the following four facts as alleged in the Reply to the Notice of Appeal, in her submission that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length:
+12(m) on February 14, 2007, the payor stated to a representative of the Respondent that he would have hired someone other than the Appellant when needed, maybe half the time;
+12(r) the worker was paid irregularly and sporadically;
+12(y) the Appellant's cheques were cashed late;
+12(bb) a worker dealing with an employer at arm's length would have cashed his paycheques without delay.
+[9] It is my opinion that there is no basis for the allegation in paragraph 12(m) of the Reply to the Notice of Appeal, in that the payor has satisfied me that he never made that statement to Louise Boulay, the insurability officer in this case. Even if the payor had made that statement, I would have been of the opinion that that fact was irrelevant in any event, given that the services were actually performed for the payor.
+[10] With respect to the other facts alleged by the Minister, I am of the opinion that the Minister failed to have regard to the following facts:
+(i) the payor's business was a very small business that was having cash flow problems during the relevant period;
+(ii) the payor asked the Appellant only a few times to delay cashing the cheques, and in those cases the time between when the cheques were issued and when they were cashed was only a few days;
+(iii) the Appellant was young and had no financial and family obligations; he was young and wanted to learn the trade of heavy machinery operator.
+All in all, the question the Minister should have asked in the case at bar was: is it reasonable to think that a young man of 19 who is dealing with the payor at arm's length and who has little experience as a heavy machinery operator, who wants to learn, who lives with his parents and has no financial obligations, would have agreed to help the payor out by waiting a few days before cashing a few cheques that were written to him, and to be paid irregularly?
+[11] Having regard to the evidence before me and having examined the factors set out in paragraph 5(3)(b) of the Act and ascertained that they are correct, I find that the allegations and conclusions of which the Minister was satisfied seem unreasonable. Accordingly, I am of the opinion that this employment was insurable employment.
+[12] For all these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 20th day of May 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of July 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC262
+COURT FILE NO.: 2007-3920(EI)
+STYLE OF CAUSE: ROYAL LAROCHE AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 9, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: May 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Roch Guertin
+Counsel for the Respondent:
+Nadia Golmier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roch Guertin
+Firm: Attorney
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 (QL), paragraph 4

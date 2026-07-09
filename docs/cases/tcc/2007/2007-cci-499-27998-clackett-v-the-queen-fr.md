@@ -1,0 +1,161 @@
+---
+title: "Clackett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27998/index.do"
+last_modified: "2007-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 499"
+citation2: ""
+neutral_citation: "2007 CCI 499"
+decision_date: "2007-09-21"
+language: "fr"
+item_id: "27998"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1780
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:16:38.622000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72d925ffc73409235415c184cc32b29c330bfb0f0f15fe63448d470d6a5713ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clackett v. The Queen
+
+- Citation: 2007 CCI 499
+- Decision date: 2007-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clackett v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-21
+Référence neutre
+2007 CCI 499
+Numéro de dossier
+2006-2942(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2942(IT)I
+ENTRE :
+PAUL STEVEN CLACKETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 4 juillet 2007, à Windsor (Ontario)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Steven Leckie
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 1997 et 1998 sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI499
+Date : 20070921
+Dossier : 2006-2942(IT)I
+ENTRE :
+PAUL STEVEN CLACKETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION OFFICIELLE FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre de cotisations arbitraires établies par le ministre du Revenu national (le « ministre ») en application du paragraphe 152(7) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard des années d’imposition 1997 et 1998 de l’appelant. Ce dernier conteste le fait que le ministre a refusé de lui accorder des déductions pour créance irrécouvrable s’élevant à 33 572 $ et pour des frais d’avocat et de comptabilité s’élevant 13 642 $ en 1997, ainsi que des frais d’avocat et de comptabilité s’élevant à 13 493 $ en 1998.
+[2] L’appelant exploitait une entreprise d’entrepreneur‑électricien sous la dénomination « R.C.I. Electrical » à titre de propriétaire unique. En 1994, il a conclu un marché de sous‑traitance avec Concorde Construction Services Ltd. (la société « Concorde ») dans le but de fournir des services d’électricien à Concorde, le principal entrepreneur pour la construction d’une école à Leamington (Ontario). Plusieurs actions en justice ont été intentées en 1996 contre l’appelant et par lui, y compris une action contre Concorde relativement à un montant de 70 188,95 $.
+[3] L’intimée soutient notamment que la demande et la demande entre défendeurs de l’appelant contre Concorde à l’égard de la créance irrécouvrable avaient été réglées à l’amiable. Un renvoi a été fait au procès‑verbal de transaction de juillet 1997 (pièce A-1) inclus dans la liasse de documents de l’appelant. On n’a cependant pas insisté sur ce point. Il est peu probable que l’appelant intente d’importantes actions en justice, dépense des milliers de dollars en frais d’avocat, conclue un règlement à l’amiable accordant à Concorde une décharge de toute action, etc.[1], tout en reconnaissant sans mot dire le fait que Concorde lui devait une somme de 33 572 $ qui était irrécouvrable. Les documents relatifs au règlement ne sont pas concluants[2] et je vais examiner d’autres questions.
+[4] Il était difficile, pendant l’audience, de suivre les observations de l’appelant. En décembre 2005, un comptable, qui représentait l’appelant à ce moment-là, a établi clairement la position de l’appelant. La lettre qu’il a rédigée à l’intention de l’Agence du Revenu du Canada se lit en partie comme suit :
+[traduction]
+Créance irrécouvrable
+Il est indiqué dans la lettre de la vérificatrice qu’étant donné qu’un règlement a été conclu avec Concorde (l’entrepreneur général), il n’existe pas de créance irrécouvrable. De plus, les notes qu’elle a inscrites au dossier indiquent que l’action en justice n’avait rien à voir avec la créance irrécouvrable et que la créance était devenue irrécouvrable bien avant 1997.
+La chronologie des événements est la suivante :
+· M. Clackett était un sous‑traitant de Concorde qui a exécuté pour Concorde des services de juillet 1994 à septembre 1995 (la date de quasi‑achèvement des travaux était juin 1995).
+· En avril 1995, ou vers cette date, M. Clackett éprouvait de la difficulté à recouvrer ce que Concorde lui devait et en juin 1995, et il a temporairement quitté le chantier en guise de protestation.
+· En tant qu’homme d’affaires prudent, M. Clackett a repris ses fonctions contractuelles suivant ce qu’il croyait être une nouvelle entente verbale. Les matériaux devaient être fournis au chantier et installés par M. Clackett, et les fournisseurs facturaient le tout à Concorde directement. M. Clackett était satisfait de cette façon de faire, étant donné qu’il ne voulait plus accorder de crédit à Concorde et qu’il savait qu’il avait de meilleures chances de se faire payer par Concorde s’il achevait ses travaux à la date de quasi‑achèvement des travaux.
+· Après juin 1995, M. Clackett a continué de fournir des services pour régler des problèmes de nettoyage et de lacunes. Ces services se sont poursuivis jusqu’en août et septembre 1995 dans le but de recouvrer le solde dû par Concorde.
+· À l’automne 1995, M. Clackett a poursuivi ses efforts de recouvrement par téléphone auprès de Concorde. Au même moment, deux fournisseurs, Gordon Ruth & Co. et Guillevin, éprouvaient également des problèmes de recouvrement. Ces fournisseurs cherchaient à se faire payer tant par M. Clackett que par Concorde.
+· En février 1996, les fournisseurs ont intenté une action en justice contre M. Clackett et contre Concorde. Après avoir déposé un mémoire de défense dans cette instance, les efforts de recouvrement de M. Clackett ont abouti en demande entre défendeurs à l’égard de Concorde pour non paiement des montants qui lui étaient dus.
+[… ]
+Tout d’abord, l’affirmation concernant le fait que M. Clackett a conclu un règlement à l’amiable avec Concorde aurait avantage à être précisée. Le seul règlement dont M. Clackett est au courant est celui conclu en 1997 lorsqu’il a abandonné ses efforts de recouvrement. Comme les efforts de recouvrement de M. Clackett faisaient partie d’une série d’actions en justice, son règlement avec Concorde dépendait du règlement conclu avec les fournisseurs et en faisait partie.
+Idéalement, il serait commode de faire valoir qu’une créance impayée de Concorde n’a rien à voir avec le fait que M. Clackett se fait poursuivre pour défaut de paiement par des fournisseurs avec lesquels il n’a aucun lien. Dans le cas de M. Clackett, ses efforts de recouvrement faisaient partie intégrante de sa demande entre défendeurs et de sa mise en cause avec les fournisseurs. Par conséquent, la demande entre défendeurs et la mise en cause déposées en 1996 sont directement liées aux efforts déployés par M. Clackett pour recouvrer un montant lui étant dû. Il est déraisonnable que le ministère tienne pour acquis que, parce qu’aucune mesure de recouvrement officielle n’a été effectuée en 1995 ou qu’une seule action en justice a été intentée en 1996 avant les actions intentées contre M. Clackett par les fournisseurs, la créance de Concorde était irrécouvrable avant 1997. M. Clackett a bel et bien pris des mesures raisonnables pour recouvrer les montants qui lui étaient dus. Tout d’abord, il est en effet retourné sur le chantier en 1995 pour achever les travaux, vu qu’il comprenait qu’il n’était plus en charge de certains matériaux livrés par les deux fournisseurs (Gordon Ruth & Co. et Guillevin). Veuillez consulter les copies ci‑jointes des fiches de présence visant à prouver que M. Clackett était présent sur le chantier après la date de quasi‑achèvement des travaux pour faire la prestation de services après septembre 1995. Ensuite, veuillez noter que le plan de recouvrement (selon l’échéancier des dépenses pour créance irrécouvrable) représentaient des paiements mensuels sur lesquels Concorde commençait à prendre du retard depuis avril 1995. La mesure prise par M. Clackett, soit de quitter le chantier temporairement et de négocier une entente avec Concorde quant aux matériaux supplémentaires, ne permet pas, en soi, de prouver que la créance de Concorde était irrécouvrable ou même douteuse à ce moment‑là. Enfin, des communications étaient en cours entre M. Clackett et Concorde. Il est aussi important que vous sachiez que pendant cette même période (automne 1995), M. Clackett a aussi participé à des discussions de recouvrement avec Gordon Ruth et Guillevin.
+Malheureusement, le comptable de l’appelant n’a pas témoigné.
+[5] L’appelant soutient qu’il a réussi à établir qu’il existait une créance irrécouvrable de Concorde pendant l’année d’imposition 1997. L’intimée se fonde sur le témoignage de la vérificatrice de l’ARC, Margaret Carnegie, qui, avec d’autres, a examiné de près les documents de comptabilité de l’appelant. Cette dernière a témoigné longuement, tant à l’interrogatoire principal qu’au contre‑interrogatoire. Son témoignage était impressionnant. Elle a examiné les documents de comptabilité de l’appelant (pièce A12 – onglets B1 à B9) et a déposé ses documents de travail et son synopsis (pièce R-2), qui étaient fondés sur les documents de l’appelant. Elle a conclu qu’il n’existait aucune créance envers l’appelant en 1997. Le ministre se fonde sur l’alinéa 20(1)p) de la Loi, qui est rédigé en ces termes :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+[…]
+p) le total des montants suivants :
+(i) les créances du contribuable qu'il a établies comme étant devenues irrécouvrables au cours de l'année et qui sont incluses dans le calcul de son revenu pour l'année ou pour une année d'imposition antérieure […][3]
+[6] Avant qu’il puisse déduire une créance, il incombe au contribuable d’établir, selon la prépondérance des probabilités, que cette créance est devenue irrécouvrable pendant une année d’imposition (1997 en l’espèce) et qu’elle était incluse dans le calcul de son revenu pour l’année en cause ou pour une année antérieure. L’appelant n’a pas été en mesure de répondre à l’un ou l’autre de ces critères. Il n’a pas prouvé qu’il existait une créance irrécouvrable en 1997 et il ne l’a pas incluse dans son revenu pour une année antérieure ou quelque autre année que ce soit. Pas plus qu’il ne l’a déclarée comme étant due pour quelque année que ce soit.
+[7] Ceci n’est pas une vérification et je ne suis pas un vérificateur, mais je suis convaincu, selon la prépondérance des probabilités, que l’appelant n’a pas réussi à prouver qu’il existait une créance irrécouvrable en 1997. Il n’a même pas essayé de prouver que les montants qu’il cherche à déduire avaient été inclus dans son revenu. Dans son plaidoyer final, il a affirmé que la vérificatrice, Mme Carnegie, avait admis qu’il existait une créance irrécouvrable s’élevant à 30 000 $ et que [traduction] « la question, en fait, est de savoir si la TVP devrait être déduite ou si d’autres paiements de Guillevin et Gordon Ruth devraient être déduits de la créance irrécouvrable et utilisés de façon cumulative et non admises en tant que dépenses pour l’année 1997. Ils considèrent ces dépenses particulières concernant Guillevin comme des déductions à la créance irrécouvrable et ils examinent la possibilité de ne pas les admettre au titre de dommages pour l’année 1997 »[4]. Ce que j’ai compris du témoignage de la vérificatrice est très différent. Si elle avait conclu qu’il existait bel et bien une créance irrécouvrable au sens de l’alinéa 20(1)p), il n’y aurait probablement pas eu d’appel Les deux phrases citées ici sont fondées sur une conclusion voulant qu’il existait une créance irrécouvrable de 30 000 $. Ceci n’a cependant jamais été prouvé.
+[8] Après avoir présenté ses documents, dont ses documents de travail, pendant son témoignage ayant duré plusieurs heures, la vérificatrice a conclu de façon absolue qu’il n’existait aucune créance envers l’appelant pendant l’année d’imposition 1997. Ses documents de travail étaient fondés sur les documents mêmes de l’appelant. Ce dernier a indiqué avoir fourni tous les documents qui lui avaient été demandés et a établi qu’il y avait bel et bien eu une action en justice. Ceci est peut-être le cas, mais il n’en demeure pas moins qu’il n’a pas réussi à établir que la créance existait en 1997, si elle a véritablement existé, pas plus qu’il n’a réussi à réfuter les conclusions de la vérificatrice voulant que la créance n’existait pas en 1997.
+[9] La position de l’intimée en ce qui concerne la deuxième demande de l’appelant pour la déduction de frais d’avocat et de comptabilité est partiellement énoncée au paragraphe 10 de la réponse à l’avis d’appel :
+[traduction]
+Il […] l’appelant n’a pas le droit de déduire d’autres frais d’avocat pour les années d’imposition 1997 et 1998 en application de 18(1)a) de la Loi, comme l’appelant avait demandé une déduction dans une année antérieure, même si les paiements dans le cadre du règlement de la poursuite ont été faits en 1997 et en 1998 […]
+[10] Les demandes de déduction de frais d’avocat et de comptabilité s’élevant à 13 642 $ pour l’année 1997 et à 13 493 $ pour l’année 1998 sont liées à une poursuite intentée par les fournisseurs concernant des matériaux impayés fournis à l’appelant pour le projet de Concorde en 1995. Les fournisseurs qui ont poursuivi l’appelant sont Gordon Ruth & Co. et Guillevin International Inc. L’appelant devait leur payer des dommages et intérêts.
+[11] L’intimée fait valoir que la dépense n’avait pas été engagée en vue de tirer un revenu suivant l’alinéa 18(1)a) de la Loi et ajoute qu’il se peut que l’appelant ait déjà déduit les montants dans sa déclaration de revenus pour l’année d’imposition 1995. Ce raisonnement correspond aux éléments de preuve selon lesquels l’appelant utilise une comptabilité d’exercice où une dépense est imputée au moment où elle est due plutôt qu’au moment où elle est faite. Pour ce motif, l’appelant aurait déduit les montants dus en 1995, au moment où il aurait reçu les factures des fournisseurs. L’appelant n’a présenté aucun document pertinent à cet égard.
+[12] Pour conclure, l’appelant ne s’est pas acquitté du fardeau de prouver qu’il existait une créance irrécouvrable s’élevant à 33 572 $ en 1997. Il n’a pas non plus droit à la déduction des frais d’avocat et de comptabilité s’élevant à 13 642 $ pour l’année 1997 et à 13 493 $ pour l’année 1998. L’appelant a simplement fourni des boîtes de documents aux vérificateurs du ministre, pensant que tout y était et qu’il ne restait qu’à remettre les pièces du casse‑tête dans l’ordre. Les vérificateurs, et surtout Mme Carnegie, ont passé de longues heures à essayer de tout remettre dans l’ordre, mais n’ont pas pu tirer la même conclusion que l’appelant.
+[13] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI499
+N° DE DOSSIER : 2006-2942(IT)I
+INTITULÉ : PAUL STEVEN CLACKETT et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 4 juillet 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 21 septembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Steven Leckie
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1 – procès‑verbal de transaction modifié (non signé).
+[2]
+[3] Non souligné dans l’original.
+[4] Page 80, lignes 9 à 16 de la transcription de l’audience.

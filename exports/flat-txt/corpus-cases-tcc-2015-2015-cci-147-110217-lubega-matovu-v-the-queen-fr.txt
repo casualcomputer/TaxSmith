@@ -1,0 +1,163 @@
+Title: Lubega-Matovu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110217/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-147-110217-lubega-matovu-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2015-06-12
+
+# Lubega-Matovu v. The Queen
+
+- Citation: 2015 CCI 147
+- Decision date: 2015-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2674, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lubega-Matovu v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-12
+Référence neutre
+2015 CCI 147
+Numéro de dossier
+2012-4553(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4553(IT)G
+ENTRE :
+PAUL LUBEGA-MATOVU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2013-1807(IT)I
+ET ENTRE :
+ROSE LUKWAGO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune les 21 et 22 août 2014, les 6 et 7 janvier 2015 ainsi que les 27 et 28 avril 2015 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour les appelants :
+Paul Lubega‑Matovu
+Avocate de l’intimée :
+Me Kathleen Beahen
+JUGEMENT
+Il est ordonné que les appels interjetés par Paul Lubega‑Matovu et Rose Lukwago à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 soient rejetés.
+Signé à Toronto (Ontario), ce 12e jour de juin 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 31e jour de janvier 2017.
+François Brunet, Réviseur
+Référence : 2015 CCI 147
+Date : 20150612
+Dossier : 2012-4553(IT)G
+ENTRE :
+PAUL LUBEGA-MATOVU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2013-1807(IT)I
+ET ENTRE :
+ROSE LUKWAGO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+I. Le contexte
+[1] Paul Lubega‑Matovu et Rose Lukwago interjettent appel des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008. Les nouvelles cotisations refusaient les pertes d’entreprise déduites par les deux appelants, refusaient les pertes de location déduites par M. Lubega‑Matovu et imposaient à M. Lubega‑Matovu des pénalités pour faute lourde.
+[2] M. Lubega‑Matovu est un vérificateur de l’Agence du revenu du Canada (l’« ARC ») à la retraite. Au cours des années d’imposition en cause, il occupait un poste supérieur au sein de l’ARC dans le cadre duquel il était responsable d’effectuer des vérifications dans de grandes sociétés. Au cours de ces années, son revenu d’emploi se situait entre 70 000 $ et 80 000 $, comme l’indiquent ses déclarations de revenus.
+[3] M. Lubega‑Matovu a déduit de ce revenu des pertes de location et des pertes d’entreprise totalisant ce qui suit : 52 748 $ pour 2006, 61 625 $ pour 2007 et 67 768 $ pour 2008.
+[4] Quant à Mme Lukwago, elle a déclaré un faible revenu tiré de l’exploitation d’une entreprise au cours des années d’imposition en cause. Elle a également déduit des pertes d’une entreprise qu’elle aurait censément exploitée conjointement avec M. Lubega‑Matovu. Selon la réponse, les pertes déclarées par Mme Lukwago s’élevaient approximativement à 3 846 $ en 2006, à 3 336 $ en 2007 et à 11 188 $ en 2008.
+[5] Le ministre a refusé toutes les pertes déduites par les appelants, de sorte que le revenu net des appelants pour chacune des activités était nul. De plus, le ministre a imposé à M. Lubega‑Matovu des pénalités pour faute lourde en ce qui a trait aux montants refusés.
+[6] Il convient de souligner que de nouvelles cotisations semblables à celles‑ci avaient été établies à l’égard de M. Lubega‑Matovu pour les deux années d’imposition précédentes, soit 2004 et 2005. Il avait interjeté appel de ces nouvelles cotisations à la Cour canadienne de l'impôt (2010 CCI 291), qui avait rejeté les appels en raison d’un manque d’éléments de preuve fiables à l’appui. Il avait ensuite interjeté appel à la Cour d’appel fédérale (2011 CAF 265), qui avait confirmé la décision, mais avait supprimé les pénalités pour des motifs techniques. Les conclusions de la juge Campbell de la Cour canadienne de l’impôt figurent dans l’extrait suivant :
+[18] La présente audience a duré une journée complète et je dois avouer qu’à la fin de celle‑ci, j’avais le sentiment de n’avoir eu que des vérités partielles et des éléments de preuve contradictoires, sans que jamais l’appelant ait présenté l’ombre d’une preuve pour corroborer le fait que ces dépenses étaient réellement liées à ses activités commerciales.
+[7] Les activités en cause en l’espèce et dans le cadre de l’appel interjeté antérieurement sont les mêmes. Il semble que la juge Campbell était mécontente de la durée de l’instance antérieure, qui avait pris une journée complète. La durée des présents appels, à savoir cinq jours et demi, était elle aussi beaucoup trop longue. Elle est principalement attribuable au manque d’organisation de M. Lubega‑Matovu, qui représentait les deux appelants.
+[8] Dans le cadre de la présente audience, de nombreux éléments de preuve documentaire ont été présentés au nom des appelants. En outre, j’ai entendu les témoignages de vive voix des appelants et de deux connaissances d’affaires, soit John Clark et Eric Alexander. Le seul témoin de la Couronne était l’agent des appels, Karol Maar.
+[9] Je tiens à formuler des commentaires en particulier sur la fiabilité des témoignages livrés. J’ai conclu que les témoignages de M. Lubega‑Matovu et de Mme Lukwago étaient tellement vagues et contradictoires qu’ils n’étaient pas fiables, sauf dans la mesure où les témoignages s’appuyaient sur d’autres éléments de preuve. J’ai conclu que les témoignages livrés par les autres témoins étaient généralement fiables, mais les questions que M. Lubega‑Matovu a posées à M. Clark et à M. Alexander ont peu, voire aucunement, contribué à étayer les pertes alléguées.
+[10] Bien que de nombreux éléments de preuve aient été présentés à la présente audience, ma conclusion est semblable à celle tirée par la juge Campbell dans l’appel interjeté antérieurement.
+II. PanelForm International Ltd.
+[11] M. Lubega‑Matovu soutient qu’il a subi des pertes considérables des suites d’une entente conclue avec PanelForm International Ltd. (« PanelForm »). PanelForm était une société canadienne qui tentait de vendre de l’équipement servant à la fabrication de panneaux destinés à des logements à prix modique. Le propriétaire de PanelForm, Murray Harder, avait déjà travaillé pour une société oeuvrant dans le même domaine.
+[12] Le témoignage de M. Lubega‑Matovu au sujet de PanelForm était vague et portait à confusion. Pour autant que je sache, PanelForm en était à ses débuts et explorait des marchés potentiels dans différentes régions du monde. Selon la preuve, les affaires de PanelForm n’ont jamais vraiment pris leur envol.
+[13] M. Lubega‑Matovu avait conclu une entente avec PanelForm consistant à commercialiser le produit de celle‑ci en Afrique, en contrepartie d’une commission de 10 p. 100. Selon le témoignage de M. Clark, qui était directeur des ventes pour PanelForm, le rôle de M. Lubega‑Matovu consistait à établir en Afrique des contacts que PanelForm pouvait entretenir. M. Clark a aussi affirmé que M. Lubega‑Matovu pouvait mettre son expertise en comptabilité au service de l’entreprise.
+[14] La preuve ne permet pas d’établir précisément la portée des activités de commercialisation de M. Lubega‑Matovu. Il ressort clairement du témoignage de M. Clark que M. Lubega‑Matovu a séjourné en Afrique plus d’une fois, mais il est difficile de savoir si M. Lubega‑Matovu faisait ces voyages dans le seul but de promouvoir PanelForm ou s’il voyageait principalement à des fins personnelles ou à d’autres fins commerciales. Le témoignage de M. Lubega‑Matovu quant aux efforts considérables qu’il a déployés pour PanelForm, y compris le versement de montants importants à des agents, n’était pas du tout convaincant. M. Lubega‑Matovu a manifestement exercé certaines activités, mais je ne suis pas convaincue que ces activités étaient considérables.
+[15] Les documents à l’appui comprenaient de nombreuses pièces justificatives originales en désordre et des documents comptables. Aucun de ces documents ne m’a convaincue que M. Lubega‑Matovu avait engagé des dépenses importantes pour cette société.
+[16] Je tiens à formuler des commentaires en particulier sur les documents à l’appui en provenance des supposés agents. Aucun de ces éléments de preuve n’était convaincant, et les tiers n’ont pas témoigné. Si M. Lubega‑Matovu avait réellement engagé des dépenses, il aurait pu obtenir des documents fiables à l’appui.
+[17] En outre, des éléments de preuve corroboraient des dépenses réelles, comme des mandats télégraphiques, mais ne prouvaient pas que ces dépenses avaient été engagées par M. Lubega‑Matovu pour le compte de PanelForm.
+[18] Pour accorder du poids aux documents comptables présentés en preuve, il m’aurait fallu conclure que le témoignage intéressé de M. Lubega‑Matovu était empreint de sincérité. Ce témoignage m’a laissé une impression tout à fait contraire.
+[19] Pour appuyer sa cause, M. Lubega‑Matovu a également appelé à comparaître deux témoins qui avaient, eux aussi, une entente avec PanelForm consistant à commercialiser le produit de celle‑ci.
+[20] M. Alexander était un ami du propriétaire de PanelForm, Murray Harder. M. Alexander a voyagé pour le travail dans des pays en développement et au cours de ses voyages, il a réussi à exercer parallèlement des activités pour PanelForm sans effectuer de grandes dépenses. Son témoignage n’a pas corroboré les dépenses engagées par M. Lubega‑Matovu.
+[21] M. Clark a été directeur des ventes pour PanelForm pendant une certaine période et sa participation financière à l’entreprise devait être négociée ultérieurement. M. Clark comprenait le produit d’un point de vue technique et avait beaucoup d’expérience dans le domaine des affaires.
+[22] Je conclus que, pour l’essentiel, les témoignages de M. Alexander et de M. Clark étaient véridiques, mais ne confirmaient pas que M. Lubega‑Matovu avait engagé des dépenses précises pour PanelForm au cours des années d’imposition en cause.
+[23] Par exemple, M. Lubega‑Matovu a demandé à M. Clark le nombre de voyages qu’il avait faits en Afrique. L’année où ces voyages ont eu lieu et le rôle que jouait alors M. Clark n’ont pas été précisés. En contre‑interrogatoire, M. Clark a révélé qu’il avait quitté PanelForm pour lancer une technologie semblable qu’il avait lui‑même élaborée. Il était souvent impossible de savoir si les activités de M. Clark se rapportaient à PanelForm ou à sa propre entreprise. Je précise que des éléments de preuve révèlent que l’entreprise de M. Clark était en activité en août 2008 (pièce A‑20).
+[24] Dans son témoignage, M. Clark a bel et bien déclaré qu’il avait fait un premier voyage en Afrique dans le cadre duquel il avait partagé les frais avec M. Lubega‑Matovu. Ce témoignage était simplement trop général pour justifier une déduction relative à des dépenses précises au cours des années d’imposition en cause.
+[25] Il se peut que M. Lubega‑Matovu ait engagé certaines dépenses en lien avec PanelForm, mais je ne suis pas convaincue qu’il s’agissait de montants importants. En outre, la preuve n’était pas suffisante pour établir des dépenses précises engagées au cours des années d’imposition en litige.
+[26] Je tiens également à formuler des commentaires sur l’allégation de M. Lubega‑Matovu selon laquelle il a versé à Mme Lukwago 5 000 $ par année pour des services administratifs en lien avec cette entreprise. Mme Lukwago a affirmé dans son témoignage qu’elle était plutôt occupée à faire des tâches administratives, comme celle de répondre au téléphone.
+[27] Dans l’ensemble, ce témoignage ne m’a pas convaincue que cette rétribution avait réellement été versée à Mme Lukwago ou que celle‑ci avait fourni des services importants en lien avec PanelForm. Dans son témoignage, M. Clark a affirmé que Mme Lukwago avait apporté une contribution, mais ce témoignage n’était pas suffisamment détaillé pour confirmer qu’une rémunération avait été versée.
+[28] En ce qui a trait à PanelForm, j’en suis venue à la conclusion que les pertes alléguées n’avaient pas été étayées.
+III. Market America
+[29] M. Lubega‑Matovu et Mme Lukwago ont déclaré des pertes à titre d’associés, dans une proportion de 80/20, dans une société en nom collectif visant à distribuer des produits nutritionnels pour une entreprise nommée Market America. Cette entreprise suivait un modèle d’affaires typique de vente pyramidale. M. Lubega‑Matovu a déclaré qu’ils gagnaient de l’argent par la vente de produits et par les services de gestion qu’ils offraient à d’autres personnes.
+[30] La preuve relative à Market America présentait les mêmes lacunes que celle relative à PanelForm. Dans l’ensemble, les témoignages intéressés de M. Lubega‑Matovu et de Mme Lukwago étaient trop vagues et ne s’appuyaient sur aucune preuve corroborante fiable.
+[31] Bien que la preuve donne à penser que M. Lubega‑Matovu participait aux achats de produits effectués par d’autres personnes, elle ne permet pas d’établir les pertes d’entreprises, s’il en est, réellement subies.
+[32] Je fais remarquer en particulier que les documents comptables présentés en lien avec Market America n’étaient pas fiables, pour les mêmes raisons que les documents se rapportant à PanelForm. De plus, dans son témoignage, M. Lubega‑Matovu a déclaré que la société en nom collectif versait une rétribution annuelle de 5 000 $ à Mme Lukwago. Je ne suis pas convaincue que cette rétribution a réellement été versée.
+IV. Les pertes de location
+[33] M. Lubega‑Matovu a déclaré qu’il avait subi des pertes liées à la supposée location d’une partie de sa résidence principale. Là encore, il n’y avait pas suffisamment d’éléments de preuve convaincants et détaillés pour étayer ces pertes. Je tiens à souligner que Mme Lukwago faisait partie des supposés locataires. Selon l’ensemble de la preuve, elle n’était pas une locataire, mais bien la conjointe de fait de M. Lubega‑Matovu pendant les années en cause. La preuve concernant les autres locataires, à savoir Lucy ou Rita ou les deux, était simplement trop vague pour étayer les pertes alléguées.
+V. Rétribution versée à Mme Lukwago pour des services d’administration
+[34] Mme Lukwago demande la réduction de son revenu au cas où la rétribution de 5 000 $ que lui aurait versée M. Lubega‑Matovu serait refusée. Ce rajustement est inapproprié, car je ne suis pas convaincue que Mme Lukwago a déclaré ces montants à titre de revenu.
+VI. Pénalités pour faute lourde
+[35] L’imposition de pénalités pour faute lourde à M. Lubega‑Matovu est appropriée. L’ensemble de la preuve donne à penser que les pertes alléguées ont été inventées pour compenser le revenu d’emploi. Il est difficile d’imaginer un cas justifiant davantage l’imposition de pénalités pour faute lourde que le présent cas concernant un vérificateur principal de l’ARC qui devait bien connaître les exigences relatives à la justification appropriée des dépenses d’une entreprise.
+VII. Conclusion
+[36] En conclusion, les appels interjetés par M. Lubega‑Matovu et Mme Lukwago seront rejetés en totalité.
+[37] L’intimée a demandé de présenter des observations relatives aux dépens. L’intimée peut produire des observations au plus tard le 30 juin 2015. Les appelants peuvent produire des observations en réponse au plus tard le 15 juillet 2015. Les observations ne doivent pas compter plus de cinq pages.
+Signé à Toronto (Ontario), ce 12e jour de juin 2015.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 31e jour de janvier 2017.
+François Brunet, Réviseur
+RÉFÉRENCE :
+2015 CCI 147
+Nos DES DOSSIERS DE LA COUR :
+2012-4553(IT)G
+2013-1807(IT)I
+INTITULÉS :
+PAUL LUBEGA-MATOVU et SA MAJESTÉ LA REINE
+ROSE LUKWAGO et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 21 et 22 août 2014, les 6 et 7 janvier 2015 ainsi que les 27 et 28 avril 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 12 juin 2015
+COMPARUTIONS :
+Pour les appelants :
+Paul Lubega-Matovu
+Avocate de l’intimée :
+Me Kathleen Beahen
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

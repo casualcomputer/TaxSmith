@@ -1,0 +1,452 @@
+Title: Colbran v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26094/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-154-26094-colbran-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-20
+
+# Colbran v. The Queen
+
+- Citation: 2003 TCC 154
+- Decision date: 2003-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4155, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colbran v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-20
+Neutral citation
+2003 TCC 154
+File numbers
+2001-3448(GST)I
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-3448(GST)I
+BETWEEN:
+DALE COLBRAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 28, 2002 at Calgary, Alberta,
+Before: The Honourable Judge R.D. Bell
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+R. Scott McDougall
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated November 7, 2000 and bears number 32071, is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+No costs are awarded.
+Signed at Ottawa, Canada this 20th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+Citation: 2003TCC154
+Date: 20030320
+Docket: 2001-3448(GST)I
+BETWEEN:
+DALE COLBRAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.T.C.C.
+ISSUE:
+[1] The issue is whether the Appellant is, by virtue of section 323 of Part IX of the Excise Tax Act ("Act"), liable to pay the tax owing by 601395 B.C. Ltd. ("95") together with penalties and interest relating thereto.
+[2] The periods in respect of which the corporation was assessed Goods and Services Tax ("GST") under the Act are:
+February 16, 2000 to March 31, 2000,
+April 1, 2000 to June 30, 2000, and
+July 1, 2000 to July 4, 2000.
+[3] The Appellant contends that he was never a director of 95 and is not, accordingly, so liable.
+FACTS:
+[4] The Appellant testified that he had been in the food service business for many years and that he was, at the time of the hearing, Chairman of the Board of the Canadian Restaurant Association. He stated that he had managed several food service businesses and had been consulted and also did "trouble-shooting" with a number of businesses that were either in distress or needed "some turn around situations".
+[5] He said that he had, for about a year and one-half, ending in April 2000, been the Vice-President of operations of Cheesecake Café Limited, Edmonton, Alberta. He described it as a distressed operation. Although it had eleven units at one time that number had, by the hearing date, been reduced to five. He said that during his period as Vice-President of operations three franchisees in the Victoria cheesecake operation, at 910 Government Street, had become bankrupt in a four month period. He then stated that Mr. Beeson ("Beeson"), president of the cheesecake franchisor had engaged him to try to find a suitable franchisee, stabilize the management team and have contact with the landlord. He said that he met with the landlord and its law firm, Pearlman & Lindholm. He stated that it set up a shell company to operate the business until a suitable franchisee could be found. He then said:
+I was personally with a group interested in possibly looking and entertaining being the franchisee in that site, but I had to meet certain requirements and there was certain conditions that had to be met before I could become a director in British Columbia and to operate the business in British Columbia and a lease had to be put in place and the franchisee agreement had to be put in place for a group to operate it ...
+He added that:
+They ... asked me if I would stand as a director of that shell company as a representative of the landlord.
+[6] He said that he had advised them that he would not stand as a director until all conditions had been satisfied but that he would operate as a consultant and as a management person for them to keep the business operating. He also said that he took instructions as a management person from Pearlman & Lindholm, and Tillyard Management, the management company for the landlord. He said that he would operate in this capacity until a suitable franchisee or someone to clean up their affairs was found.
+[7] The Appellant then produced a form described as NOTICE OF DIRECTORS, being a Ministry of Finance and Corporate Relations form, dated February 16, 2000 and showing him, the Appellant, as a director and Lindsay A.C. Ross ("Ross"), a lawyer with Pearlman & Lindholm, ceasing to be a director. It was, according to the Appellant, signed by Ross on July 16, 2000. It bears a stamped endorsement showing it to have been FILED AND REGISTERED with the Registrar of Companies on July 20, 2000. The Appellant said that it was filed and registered 16 days after the July 4 date, being the end of the periods under review. He also described 95 as the aforesaid shell company.
+[8] The Appellant said:
+My position is, your Honour, that I did not agree to have my name stand as a director of that company, ever. Quite clearly I did not in instructions to them.
+[9] The Appellant then produced a letter dated March 1, 2000 written by him to Pearlman & Lindholm to the attention of Ross and Craig Beveridge. It reads as follows:
+This letter will serve as notice that I, Dale Colbran, cannot stand as a director for the company 601395 BC Ltd.. I will not change my Alberta residency or seek out residency in British Columbia while the uncertainty of the business arrangements for the cheesecake operation are being negotiated by Mr. Bob Beeson. I had Tannis Brown and Anne Troyer witness my actions in your office with clear instructions not register the company until the agreements and residency was establishment.
+I will continue to act as a consultant for the landlord and the franchise and if the status of negotiations change I will re-consider my position.
+[10] He said that it was sent by fax and that the original was mailed.
+[11] The Appellant then produced a copy of a letter from THE CHEESECAKE CAFE dated May 5, 2000 and signed by someone for R.F. Beeson, President. It was addressed to 95 to the attention of Dale Colbran and reads as follows:
+I am advised by the landlord that the rent due on May 1, 2000 was not paid. Additionally, failure to pay the May 1, 2000 rent is a default under the agreement in respect to over-due rent and the rent for the months of February, March and April 2000 is due now.
+This is your notice of default under the sublease. This is a formal demand that unless we receive the sum of One Hundred and Six Thousand Eight Hundred and Nine Dollars and Seventy Seven Cents ($106,809.77) [see attached reconciliation] representing the rent and additional rent due through May 1, 2000 within eight (8) days from today's date we will declare your sublease to be in default.
+Rent is to be paid to the undersigned c/o McLennan Ross, Barristers & Solicitors, Suite 600, 12220 Stony Plain Road, Edmonton, Alberta T5N 3Y4, Attention: Mr. C.P. Russell.
+[12] The Appellant said that in spite of the reference to a "sublease" in that letter, there was no sublease. He said:
+In fact, there was no lease at all.
+[13] He stated that the attached occupant status report indicated that Courtney Café Inc. was responsible for the sum of $106,809.77. He then stated that Tillyard Management Inc., whose name also appeared on that document was the landlord of the property at 910 Government Street.
+[14] The Appellant then produced a document that he described as coming from Mr. Alex Lewoniuk, a partner "in the Cheesecake Café Limited", the franchisor. He testified that it was a copy of management's instructions dated May 4, 2000 to him "giving a clear management instruction as to what was needed to find a suitable..."[1]
+[15] The Appellant then presented an undated document entitled "Brandale Foodservices & Consulting Ltd." He described it as his response to the preceding document stating that it showed that he was acting as management "pursuant to and to expedite matters". It does, in fact, contain 16 numbered paragraphs, number 7 reading as follows:
+Management - Jack Friesen, Dale Colbran, Barb Freisen, Anne Troyer (part time until it is not feasible for either party).
+The Appellant said that this was in his capacity as management consultant.
+[16] The next document produced by the Appellant was a letter dated June 28, 2000 from Pearlman & Lindholm, to Courtney Café Inc. and The Cheesecake Café of Canada Inc. in Edmonton to the attention of R.F. Beeson. It enclosed a Notice of Termination for service on the addressee and requiring immediate vacant possession of the premises at 910 Government Street. The Appellant then said that a copy of that letter was sent to his attention, as "management person" at the Cheesecake Café at 910 Government Street.
+[17] The Appellant produced a copy of a letter from Pearlman & Lindholm to Cox Taylor, to the attention of Murray Holmes. That letter said:
+I would confirm that you have been retained to act on behalf of Dale Colbran and 601395 B.C. Ltd.. I enclose herewith a copy of a letter delivered to our Tenant, Courtney Café Inc., terminating its Lease over the subject premises and demanding vacant possession of the same. If vacant possession is not immediately provided to the Tenant I have instructions to commence proceedings pursuant to Section 18 of the Commercial Tenancy Act.
+I am concurrently forwarding a copy of this material by courier to the restaurant to Mr. Colbran's attention so that he is fully aware of the steps being taken by the Landlord.
+[18] He then produced a letter from Murray Holmes to 95 stating that he had searched their files and could not find any record of having acted for the Appellant in connection with the Cheesecake Café.
+[19] The Appellant produced a copy of a letter dated March 29, 2000 to Tillyard & Partners, Inc. from The Cheesecake Cafe not bearing a signature but bearing the typed name of R.F. Beeson as the author. It dealt with negotiation of rent for the Government Street premises. The Appellant stated that the purpose of introducing that letter was to "show that" R.F. Beeson, President of Courtney Café Inc. had control of this site and was giving management direction.
+[20] Finally, the Appellant introduced a letter dated May 4, 2000 from him to Beeson respecting the Cheesecake Café at 910 Government Street. It reads as follows:
+Bob, Tannis and Anne have an attached letter stating that the company is cleaned out because of bills and negative cash positions, not because I have "cleaned out" the bank account. This franchise has failed twice, as a corporate store, did you expect the cash flow to magically return a profit when it would normally during this period have substantial losses.
+This is your store with Courtney Café as the tenant. Mr. Craig Beverage, legal counsel for the landlord, has stated you, Mr. Bob Beeson, will cover all rent, losses, equipment, payroll and tax issues until a franchisee can be found operate your store with a suitable agreement.
+You currently owe me in excess of 60,000 for fees owed and I can no longer continue to consult.
+[21] When asked, on cross-examination, whether he, in 1998, on commencement of employment with the Cheesecake Café, had any interest in taking over the franchise, he replied that:
+I don't recall what my motivation was at the time, to be honest. Bob was in deep financial crisis and needed someone that could operationally help him out and whether I thought I was going to run a business that was related to Cheesecake as an independent or not, I don't know if it crossed my mind at that point.
+[22] The Appellant said that he spent three days a month in Victoria working in respect of the café. He said that it was a total surprise to him when the franchisee walked away from the franchise. He said that after discussions with the landlord and Pearlman & Lindholm it was decided that it would "be in the best interest of all parties that the place continue to operate". When asked whether Beeson had ordered him "as the President and Chief Executive Officer of the Cheesecake Café to seek legal advice and to cause 601395 B.C. Ltd. to be incorporated", he said that he had not incorporated it.
+[23] When shown an indemnification agreement, a share certificate and other extracts from the minute book of 95 he stated, in each case, that he recognized his signature. When asked if he had any issue with those documents being extracts from the minute book of 95 he replied affirmatively and said that they came from Pearlman & Lindholm:
+... which were given explicit instructions not to release that until conditions were met completely and under the laws of British Columbia you must establish residency to become a director. I did not meet any of the qualifications. I have a witness to substantiate that these were to be held in trust by Pearlman & Lindholm until the correct conditions could be met.
+He said that he had attended at the offices of Pearlman & Lindholm on February 16, 2000 and signed these documents. When asked whether Beeson told him to go and incorporate 95 the Appellant replied:
+Mr. Beeson said to set up where you can and how you can with the landlord and I said "I would not do that". ... I would not stand as the director or take any liability unless all the conditions were met and I would stand in and manage the operation until that point. That was discussed with Pearlman & Lindholm who represent the landlord and the landlord agreed, ...
+He then said that he had an intent possibly, if conditions could be met, that a group could take over the business. He said that it was a clean shell and that if conditions were favourable and all conditions could be met then a possible business could be operated by someone:
+... so that was the set up but never to leave the office of Pearlman & Lindholm ... That is why it was not registered ever until after the fact.
+[24] The Appellant acknowledged that he knew of two other gentlemen who were interested in the franchise but stated that he was not going to be in an operating position. He said that he was looking at possibly being an investor if all conditions were met, those conditions being leases, franchise agreements, favourable conditions for the equipment, et cetera.
+[25] The Appellant said that there was a team in place. It consisted of Amy Brennan, Anne Troyer, Tim Miller, Tannis Brown and a few others whose names he did not recall. He stated that his role at that time was to try to find a franchisee or an operating condition that would be optimum to continuing the business. He said that he also supported the management like Beeson did and like he did in other places.
+[26] When asked if he was supervising the team he replied:
+I would have to say probably not. Mr. Beeson had more of a supervisory role than I did but I continued with my relationship in that I had communication with them and also communication with the other restaurants.
+[27] When asked how much time he spent in Victoria between February 16, 2000 and July 4, 2000 he replied:
+Probably a little bit more then, you know, maybe a week a month, maybe less.
+[28] He stated that he did not set up the banking arrangements for 95 and that he believed that other management had set up a bank account through Pearlman & Lindholm. He said that that management was Anne or Amy or Tannis. He then stated clearly that he did not set it up and that he didn't go to the bank. When asked if he had any role in setting up the bank accounts or if he had instructed anyone he replied:
+Bob did, instructed people to get them set up.
+He then said that he had signing authority on the accounts. He stated that signature cards were sent to him and he signed them and returned them. Then this exchange took place on cross-examination:
+Q So you were fully aware of the banking arrangements and you had signing authority on the accounts?
+A So was Bob and so was other management, Alex, Pearlman & Lindholm, Tim Hill. I have signing authority on other restaurants too, management do.
+[29] He stated that he was used as a consultant with the landlord and the lawyers up to the point where Beeson found another person to step in and take over the situation. When asked about his roles and responsibilities he replied:
+Just consultant to management as to how they are going to operate on a day-to- day basis. Staffing and that type of thing.
+Although not sure of the exact date, he stated that he had instructed the bank to take him off signing authority.
+[30] Respondent's counsel presented a copy of a letter from The Cheesecake Café dated March 27, 2000 to Mr. Colbran respecting the financial terms:
+... regarding your leaving the employment of the company.
+You will be reimbursed for all outstanding approved expenses incurred on behalf of the company.
+Your base salary will continue for a further six (6) months from today.
+[31] The Appellant testified that he received no severance. He stated that he understood that he would never be paid and that Beeson told him that he would not be paid and had told others as well. He then said that he had, at the request of Pearlman & Lindholm and Tillyard Management, agreed to stay on to help stabilize management and that he was paid through 95. He said that he had submitted invoices to 95 and that he did not have a salary. When asked who was operating the restaurant until July 4, 2000 he said:
+601395, I believe. I am not sure. I believe is was probably Courtney Café that was really operating it.
+[32] When asked what role he understood Beeson had with 95 he said that he "was controlling who was being paid and who wasn't paid". He also said that he was not involved in preparing any remittances for 95 respecting GST and was not involved in instructing other managing personnel. He said that 95 was not a sub-lessor.[2] The Appellant also testified that Beeson had control of the premises and although 95 was operating the restaurant it did not have control of the premises. He said that the landlord had "control over the premises". He also said that Beeson paid Tillyard Management their arrears and took over the equipment so there was no further need for him as consultant. He said that he did not take books and records with him and that he took no cash. He said that he was paid for his services and that the business was operating at a deficit. He stated that he took no restaurant equipment from that location.
+[33] With respect to the corporate documents signed by him he said:
+I signed them to have them held there so that if an arrangement happened to be made I didn't have to come back to the law office. I was in Calgary, I lived in Calgary, and if I did establish, you know, so that was only done purely for convenience than anything else, but it was under clear instructions that it could not be removed or registered.
+[34] He said that he had instructed Ross:
+Not to register the company 601395 or not me put in as a director until I could meet all of the conditions. He could register it if he wanted, he was the director at the time, he could do what he wanted, but I could not stand and would not stand as director. I said I would help manage and try and get themselves through it and if the conditions were favourable I had a group that would like to franchise the situation.
+[35] He said that the subscription for shareholders was signed on February 16, 2000. He said further that he believed the company "was lying around" and:
+That they needed to have to operate the thing, I think.
+[36] He said he did not know why February 16 was the date of change of directors. Then the following exchange took place:
+HIS HONOUR: I am having a little bit of trouble understanding why he signed something on July 16, 2000, when the document is showing a date of change on February 16th, 2000?
+A. I having difficulty with that too.
+[37] The Appellant said, of 95, that:
+The company started doing business as the Cheesecake Café. That company as I understand it did not control the assets, did not have a lease, it was set up by the landlord's lawyer to operate the business in the interim until a suitable situation could be arranged. That is my understanding of why it was to be set up.
+[38] He said that he "and the management group had signing authority".
+[39] The Appellant said that he did not instruct Ross to file the aforesaid document. When asked by Respondent's counsel whether he had taken any steps to remove his name as a director and "to actually shut this corporation down" he replied:
+It's not my company to shut down ... it's Lindsay Ross' company.
+[40] The Appellant then produced Anne Troyer as a witness. She said that she was a chef, that she had no relationship "that would bias ... answers to the Appellant's questions". She testified that:
+It had been arranged to get some information from the law firm in regards to the most appropriate action to take to keep the restaurant operating, the staff and employees, and we were seeking counsel and also going from the landlord's interest of creating some sort of shelf company to maintain those operations during what I would call an emergency time of keeping things going.
+Lindsay Ross was very specific in letting us know what procedures were and what needed to be followed and what his advice was. His advice in the end after our meeting was for him to be the director of a shelf company to keep the operations running until hopefully over a very short period of time there would be another party interested in taking over as franchisee for the restaurant, to have a more permanent solution and that, of course, was needed to create new bank accounts and Visa and all the things you need for daily operation for a restaurant.
+She then stated:
+... After our meeting it was decided to create this shelf company and with Lindsay agreed to, as I understood, to be director for the short interest and he asked Dale if there is a potential down the road to be a franchisee or have any part in running that restaurant, if that is a possibility and it was a potential possibility so he asked him to sign all the documents that were presented before the Court. The problem in timing and so forth was that Dale was on his way to open a Cheesecake Café in Lethbridge and then after that in Calgary, so he wouldn't be around or wouldn't be in the vicinity of Victoria for quite some time and Dale very specifically indicated that he didn't want anything to be pursued in terms of directorship until he was spoken to and it was in fact Lindsay Ross, to my recollection ...
+[41] She said that the Appellant had stated that he did not want the directorship matter pursued until arrangements of franchise agreement, and so forth, were met. She then said that Lindsay had told the Appellant not to worry because he couldn't be a director unless he was a resident of British Columbia. The witness continued:
+And there were some other conditions that he had to meet anyway, so I certainly didn't walk out of that meeting thinking that Dale was a director of a new company and he was, you know, my new boss in the restaurant.
+She added that Lindsay had stated at that meeting that there had to be a franchise agreement in place and "there had to be consent for a landlord for a new lease". This exchange followed:
+Q. Who, in your opinion did the management team take most of the direction from during the time February, March, April, May, June of the year 2000?
+A. Nothing really, you know, with the extenuating circumstances of the restaurant we certainly relied on each other for daily operations but there was never a decision that didn't go through head office, through Bob Beeson.
+[42] She stated that to her knowledge the assets were still held by the Canadian Imperial Bank of Commerce for default of a loan of the previous franchisee. She then described in some detail the previous franchisee operator who just "dropped the keys by the cash and left". When asked how often the Appellant was in Victoria in the period in question she said that he wasn't there very much and that he was opening up another cheesecake restaurant in Lethbridge and then one in Calgary "so a couple of days here and there".
+[43] She said that she saw Beeson a little bit more because he came to Victoria to try to make arrangements with the landlord, the rent matter being a huge point of contention. She said that if she had a problem she talked more to Bob Beeson
+...because that is kind of where the buck stopped, that is where the decision happened.
+So I certainly talked daily and many times, many times a day to Bob Beeson in regards to operations and situations.
+[44] When asked by Respondent's counsel if, after February 16, suppliers were delivering cash on delivery of supplies she replied that most of it was cash and
+Mr. Beeson was working on taking care of the debt situations with them to work further getting credit down the road.
+[45] She said that the numbered company (95) would pay payroll and food. She stated that liquor supplies were paid for by the numbered company.
+[46] With respect to GST and provincial sales tax, the witness said:
+I wasn't responsible for that and as far as I know that was a corporate thing. They were taking care of that.
+Q. Who was it when you say "they"?
+A. Bob Beeson, our corporate head office, and that was something that we were told to run the daily operation basically bare bones what was needed and they would take care of the rest. We submitted frequently and probably bi-weekly spread sheets of the debt that is owed to the different companies and so forth.
+[47] She said that she helped get the GST number assigned to 95.
+[48] The Appellant then called Amy Brennan who testified that she was the operating manager of the Cheesecake Café in Victoria. When asked who was responsible for the liabilities that were incurred, she replied:
+Cheesecake Café or Bob Beeson.
+[49] She stated that that was for the whole time that she was there. When asked by the Court who, in her opinion, was responsible for liabilities incurred in the period February 16, 2000 to July 4, 2000 she replied:
+Bob Beeson and Cheesecake Café.
+[50] When asked who was her contact as far as management role and direction was concerned in Victoria, she stated that it came more from Bob Beeson.
+[51] The following exchange took place in her examination by the Appellant:
+Q. How often do you recall Mr. Colbran being in Victoria during the time period February 16, 2000 until July 4, 2000?
+A. Maybe from a couple of days in May is when I saw him and a couple in June, not very often.
+[52] She said that the suppliers for Cheesecake Café in Victoria were not paid with cheques drawn on a bank account because "we had to pay cash for our supplies". She stated that on the morning of July 4 they couldn't find some menus. She also said that they had a union at the Cheesecake Café in Victoria and,
+... the day we closed they all kind of showed up and were quite hostile so I just assumed that things were missing from that.
+[53] Then this exchange took place:
+Q. During the period that you were employed there from April 2, 2000 until July 4, 2000 how many times was Mr. Beeson directly in Victoria and giving you instructions?
+A. Maybe two or three.
+Q. What kind of instructions would Mr. Beeson give you?
+A. Just basically checking the day to day operations, who to pay, who not to pay, how the restaurant was running.
+Q. Did you consider Dale Colbran your immediate supervisor?
+A. No.
+Q. Who did you consider to be your immediate supervisor?
+A. Anne. When she was there, and then Cheesecake Café, I would phone them.
+[54] When she was asked what Cheesecake Café meant she said that it was Bob Beeson. When asked on cross-examination if it was part of her responsibilities to ensure payments and bills to keep the restaurant operation she replied:
+Only operational costs, everything else was directed to Cheesecake Café.
+[55] The Respondent then produced Beeson, he having been subpoenaed to give evidence on behalf of the Crown. He said that he had been in the restaurant business since 1972 and had been involved in six different brands of restaurants. He said that during the period in question the franchisor was Cheesecake Café Licensing Inc. He said that the subsidiary entity which leased premises was Courtney Café Inc. He said that he knew the Appellant because "he worked for us". He stated that they brought Mr. Colbran into the company in the winter of 1999 because they were looking for someone who had strong operations experience.
+[56] Beeson said that the Appellant felt that he had some investors who would go in with him and become franchisees of the Victoria location. He said that the restaurant started to operate through Dale's company for whom a sublease had been prepared. He said it was a numbered company which he identified as 95. He said that he was not an investor in 95 and that Licensing Inc. was not an investor in 95 and that Courtney Café Inc. was not an investor in 95. Referring to the Appellant, he said:
+It was his personal corporation.
+[57] He said that the Appellant believed that it was a good business opportunity for him to own and operate the restaurant as franchisee.
+[58] Beeson was referred to a letter dated February 16, 2000 on The Cheesecake Café letterhead addressed to Canadian Imperial Bank of Commerce in Victoria. It was signed by Beeson on behalf of The Cheesecake Café Licensing Inc. and Courtney Café Inc. It reads as follows:
+I understand that you are meeting with Dale Colbran today.
+Mr. Colbran is our new franchisee and his company is our new sub-lessee and he is meeting with you in that capacity.
+Please let me know if I can assist in any way in your discussions.
+[59] He said that the Appellant had asked him to prepare that letter so that he could take it to the bank
+"Because he was trying to either take over Jody Shoure's financing or get his own financing to pay off the Jody Shoure loan.[3]
+Beeson said:
+Well, that was the letter that Dale asked for. I mean, he was going over there as a franchisee, he wasn't going over there as a representative of Licensing to get the financing.
+[60] Respondent's counsel posed several questions to Beeson using the word "franchisee" with respect to the Appellant.
+[61] Beeson testified that in the period February 16, 2000 to July 4, 2000:
+... the restaurant continued to operate and the receipts went into Mr. Colbran's company bank account which had been set up and the employees were hired and paid by that company.
+[62] When asked who was the person "behind 95", Beeson replied "Dale Colbran". He then said he knew that the Appellant was talking to other investors but
+As far as I knew nobody stepped forward.
+[63] Beeson said that during the relevant period the store was not being operated by Licensing and was not being operated by Courtney Café Inc. He said further that the Appellant had hired a lawyer to work on the sublease. He then said that he gave them a copy of the head lease and that the lawyer modified it. He followed this by stating that he was out of the country and when it was faxed to him he signed it and sent it back "but I haven't seen anything in turn". He said that the lawyer in question was Ross. He then said that the sublease was faxed to him by Ross on behalf of 95. Beeson then reiterated that he had signed the sublease and sent it back to Ross and then said:
+We were supposed to get a signed copy back, signed by 95, but it never came.
+[64] Beeson said that he never clued into the fact "that we didn't have one". He then said he thought it was almost two months later that he started asking for a copy. He also said that he did not follow up with either Ross or the Appellant asking why 95 had not executed the document.
+[65] Beeson said that the restaurant continued to operate and that he was negotiating with the landlord because the Shoures had not paid the rent that was due in February when they took off. Beeson said that he was talking to the Appellant "every day" both about Victoria and his other responsibilities that he had with Licensing. He then said:
+About the middle of March it was just decided that Colbran would leave the employment of Licensing but would still carry on as the franchisee in Victoria.
+[66] In response to a question from Respondent's counsel as to who was continuing to provide overall management, Beeson replied that it was the Appellant as franchisee.
+[67] Beeson then referred to discussions he was having with the Appellant about how they would try to get the landlord to cooperate - to forego some of the rent and give the restaurant a better chance of success. He said that he had most of the discussions with the landlord and that the Appellant was handling the bank and the suppliers. When asked in what capacity the Appellant was involved in these discussions, Beeson replied,
+In his capacity as the person running 95, running the restaurant.
+[68] He said that he was conducting negotiations with the landlord as president of Courtney which had the headlease with the owner of the real property. Beeson then testified that a deal was made with the landlord spreading the rent payments over a period of time but that 95 never made any payment on same. He then said that the Appellant was becoming "pretty belligerent in terms of the payment". He proffered as a reason for same that he had accused the Appellant of taking all of the proceeds from the restaurant for his own use. Beeson also said that he was not getting financial statements from 95. Beeson then identified a letter written on The Cheesecake Café letterhead dated May 2, 2000 to the attention of the Appellant reading as follows:
+I have received a very disturbing telephone message from Tannis Brown and Anne Troyer. Anne tells me that she discovered that you have "cleaned out" the company bank account that was set aside for payroll and other expenses. Further, she tells me that you have said that you are going to let the payroll bounce unless you have "a deal from us by the end of the day".
+I want to make it perfectly clear that neither our Company nor the Landlord have taken any action which could cause you to take the action you have done. The Landlord has co-operated with you by deferring 3 months rent and we have waived Royalties and fronted the Ad Fund during the same period. There have been no notices of termination against your company to this point notwithstanding your failure to pay rent this month.
+There is nothing different today than there has been for the past 3 months. Your deadline is something you have created to suit your own purposes.
+The letter was signed by Beeson as President of Courtney Café Inc.
+[69] Respondent's counsel introduced a copy of a letter on The Cheesecake Café letterhead dated May 2, 2000 signed by R.F. Beeson on behalf of Courtney Café Inc. to 95 and Dale Colbran reading as follows:
+I am advised by the landlord that the rent due on May 1, 2000 was not paid.
+This is your notice of default under the sublease. If you do not make payment in full of the monies due within eight (8) days of receipt of this notice, we may take action under the sublease without further notice to you.
+Additionally, failure to pay the May 1, 2000 rent is a default under the agreement in respect to over-due rent and the rent for the months of February, March and April 2000 is due now.
+Rent is to be paid to the undersigned c/o McLennan Ross, Barristers & Solicitors, Suite 600, 12220 Stony Plan Road, Edmonton, Alberta T5N 3Y4, Attention: Mr. C.P. Russell.
+[70] Beeson testified that
+The numbered company was to pay the rent.
+[71] Beeson then testified that his lawyer advised him to send a second notice and produce a copy of a letter from The Cheesecake Café dated May 5, 2000 addressed to 95 and signed by Beeson on behalf of Courtney Café Inc. It reads as follows:
+I am advised by the landlord that the rent due on May 1, 2000 was not paid.
+This is your notice of default under the sublease. If you do not make payment in full of the monies due within eight (8) days of receipt of this notice, we may take action under the sublease without further notice to you.
+Additionally, failure to pay the May 1, 2000 rent is a default under the agreement in respect to over-due rent and the rent for the months of February, March and April 2000 is due now.
+Rent is to be paid to the undersigned c/o McLennan Ross, Barristers & Solicitors, Suite 600, 12220 Stony Plan Road, Edmonton, Alberta T5N 3Y4, Attention: Mr. C.P. Russell.
+[72] He testified that he was hoping to have the May 1 rent paid so that a deal, compromising rent, with the landlord, would stay in place. He said:
+Well, the obligation was on 95. They were the ones operating the restaurant and the company that held the headlease had no assets, had no revenue.
+[73] Beeson said that Cheesecake Café Licensing Inc. was the franchisor at the time and the tenant was Courtney Café and that Courtney Café's only asset was the lease. He said that
+We had signed a sublease with 95 that it was in operating the restaurant.
+[74] Respondent's counsel then introduced a copy of a letter to Tillyard & Partners dated May 16, 2000 to the attention of Michael Hartnett, though not signed by Beeson but bearing his name on behalf of Courtney Café Inc. Beeson testified that Hartnett was President of Tillyard & Partners, the company that managed the building. The letter reads as follows:
+The following is my understanding of the agreement reached this afternoon.
+1. We will go on a month-to-month lease to give us time to settle on the terms of a new lease including a schedule which would see the overdue rent paid to you by the fall.
+2. Our sub-tenant would be given a tenancy-at-will provided that the rent be kept current on a weekly basis commencing immediately. The rent can be paid directly from our sub-tenant directly to you but we want to be advised of any failure of our sub-tenant to pay rent as agreed.
+3. I understand that Craig Beverage will prepare the documents but I would like our lawyer to look them over to ensure that there is nothing that is binding us to our sub-tenant.
+4. I understand that Craig Beverage is preparing amendments to the existing lease that would form the basis of the new lease and that this would be sent to us when reviewed by you.
+I believe this is the best alternative to the present situation which ensures that the restaurant stays open and you receive rent.
+[75] Beeson said that Colbran agreed to that arrangement. He then said:
+I don't think we got any paperwork from 95 on this.
+[76] Beeson then referred to a copy of a letter from Tillyard Management Inc. dated May 17, 2000 addressed to "The Cheesecake Cafe ... Attn Bob Beeson" and signed by Tim Hill, the on-site manager in Victoria for Tillyard. That letter reads as follows:
+I have discussed your letter of May 16, 2000, with Michael Hartnett, and have been asked to respond to the same.
+In regard to item #1, we are willing to look at a month to month tenancy on certain conditions, but you would have to have the full co-operation with your own sub-tenant in that regard. Those arrangements would be your responsibility, as it's not our position to be dealing directly with your sub-tenant. Our lease is with Courtney Café Inc.
+We have concerns with item #2, and would suggest that the responsibilities of providing confirmation that your tenant will or will not be paying weekly rent lie with the guarantor of the lease. We are prepared to receive rent directly from the sub-tenant, but will not become a middleman in your negotiations. You should be aware of your tenant's activities before we have to get involved with the notice period.
+The comment in paragraph #3 of your letter ("to ensure that there is nothing that is binding on us to our sub-tenant ... ") is vague and unacceptable to us. There appears to be no commitment by yourself for the actions of your sub-tenant.
+In reference to item #4, be advised that before Craig Beveridge can start preparing any new or revised lease documents, we require confirmation that you have the full co-operation of your present sub-tenant Dale Colbran, or any other interested group in this regard.
+I would also confirm that I have once again received a call from Dale Colbran this afternoon, seeking some information as to the Landlord's position. For the record, he has been told that from this time forward, future direction as to the operation and management of the restaurant will be coming from you.
+Please provide details of these arrangements by return fax today.
+[77] Beeson then said:
+I was told by the landlord that Mr. Colbran was continually going in trying to induce them to terminate their lease with Courtney and to enter into a lease directly with him and second, we had a franchise meeting in Calgary in May and I had been told by the franchisees that Mr. Colbran had suggested to them that they shouldn't pay their royalties to the companies.
+[78] Beeson also said that he had regular contact with Colbran but that their relationship was not "very good". A letter from The Cheesecake Café dated May 26, 2000 signed by Beeson on behalf of Courtney Café Inc. to 95, said:
+You did not pay the rent in accordance with our last notice. Your tenancy under the sublease for 910 Government Street, Victoria, British Columbia dated February 17, 2000 is hereby forthwith terminated.
+[79] Another letter on that date, requiring 95 to vacate adding that if it wished to remain in possession a Tenancy-at-Will arrangement would be available.
+[80] Beeson stated that in June, 2000 95 was still running the restaurant. He stated that Colbran was still purporting to act on behalf of 95. He also said:
+We regarded 95 as the franchisee.
+[81] He said further that he believed that they had received specific dates as to when Colbran would leave the premises. He then stated that they had obtained a new franchisee, namely, Jim Timourrian. He said that neither he nor Timourrian had anything to do with acquiring any interest in 95. He said further that neither Licensing nor Courtney Café had keys to the premises located at 910 Government. He stated that the royalties on sales at the restaurant that they were able to establish would be about $60,000.
+[82] The Respondent then introduced a copy of a letter from Charles P. Russell, counsel for The Cheesecake Café group of companies dated October 6, 2000 to Dale Colbran. It set forth that Colbran had operated the restaurant from February 11, 2000 to July 3, 2000 during which period he was obliged to make payment to Russell's client for royalties, et cetera. It alleged that he had failed to pay rent, common area charges or taxes in breach of covenants to Russell's client, the total amount being $112,681.13. It added that he had failed to pay the managers and staff at the restaurant totalling, together with payroll taxes and workers' compensation, the sum of $59,535.72. The letter then threatened legal action against Colbran and 95. Beeson testified that he had not received a response to that letter.
+[83] The Respondent then introduced a copy of an agreement described as a "model". Beeson stated that he was not able to find a copy of a franchise agreement specifically prepared for 95. Beeson testified further that he was the director of Courtney Café Inc. which was responsible for the lease at 910 Government Street for the period in question.
+[84] On cross-examination, Beeson stated that he had never received a franchise agreement from Colbran, signed by Colbran, or executed by any company associated with Colbran. Beeson said that he recognized that Pearlman & Lindholm was the law firm that was representing Colbran and 95. Beeson then denied that he or his representatives had operated the Cheesecake Café in the period in question.
+[85] The Appellant then presented a copy of the aforesaid letter of May 4, 2000 signed by him and addressed to Beeson referring to the failed franchise, stating that:
+This is your store with Courtney Café as the tenant. ...
+You currently owe me in excess of $60,000 for fee owed and I can no longer continue to consult.
+Beeson said that he did not think that he had ever seen that letter before.
+[86] The following exchange took place between the Appellant and Beeson in Appellant's cross-examination:
+Q. My question is, did I have the authority or could I have the authority on my own to operate a franchise agreement - operate that site without a franchise agreement or sublease, did I have the authority to do that personally as an agent of Cheesecake Café Licensing? Did I have the authority to operate a Cheesecake Café on that site?
+A. Well, we had sent you, I had signed the sublease and sent it to your lawyer and I had delivered to you the franchise agreements.
+Q. Mr. Beeson...
+A. I didn't get it back.
+Q. We haven't established that. There is no sublease in place and there's no signed document so please don't refer to it as that. All I asked you was, Did I have the right to operate a Cheesecake Café in that location without a sublease and without a franchise agreement? Did I have the right to do that? Yes or no, please. Yes or no.
+A. I don't know if that has a yes or no answer.
+Q. It's a yes or no answer. Did I have the right to operate?
+...
+A. Well, I thought we had done our part. We had signed the, had negotiated and signed the sublease agreement and we had prepared and sent out the franchise agreement. The fact that they never came back was certainly out of our control. It was in Mr. Colbran's control.
+...
+Q. So would I have the authority to operate that site without those agreements in place?
+A. Whether you had the authority or not, you did it.
+Q. Mr. Beeson, that wasn't my question. Would I have the authority from Licensing to operate without that?
+A. Well, you took the authority, Dale.
+Q. Mr. Beeson, please just answer the question.
+A. I believe I did.
+[87] The following exchange also took place:
+HIS HONOUR: Mr. Beeson, I'm not clear on your evidence. At one point I understand you or your company, was that Licensing or whichever company, engaged the services of Mr. Colbran to manage the restaurant.
+A. No. He was our director of operations, Your Honour, for Licensing.
+HIS HONOUR: But I recall reading that you needed somebody to come in with some expertise in the restaurant business and help out; is that right?
+A. Yes, and he joined us.
+HIS HONOUR: Just review that for me, please, about how the affiliation with Mr. Colbran was initiated.
+A. I had let our previous director of operations go and I was looking for someone and I had met Mr. Colbran a number of times before through mutual friends and I discovered that he was available, looking for work and I had a number of meetings with him and eventually in March of '99 he came on board to look after restaurant operations.
+HIS HONOUR: Where?
+A. Well, he was based in Calgary and travelled through the restaurants in Alberta and British Columbia.
+HIS HONOUR: No. We're talking about one restaurant here, aren't we?
+A. No. We have a group of restaurants.
+HIS HONOUR: We're talking about one restaurant in this case, not a group.
+A. Yes.
+HIS HONOUR: So he was involved with that restaurant? Never mind the others at the moment.
+A. That restaurant was one of the ones that he was working on.
+HIS HONOUR: And that was the Cheesecake Café?
+A. In Victoria. They were all Cheesecake Cafés, Your Honour.
+HIS HONOUR: But there's no problem with the others.
+A. Daily.
+HIS HONOUR: Well, no, as far as this case is concerned. I don't care what happened to the other ones. It's irrelevant to me. Okay. And then what was his assignment with respect to this restaurant?
+A. Initially, Dale was giving advice to the franchisees on keeping the restaurants running profitably, providing good service, cleanliness, whatever; and he would travel. A large portion of his job was travelling from restaurant to restaurant giving that advice to franchisees and ...
+HIS HONOUR: When did his relationship change from that generally with Cheesecake restaurants to what you've been describing specifically with respect to the Victoria one?
+A. Well, he continued to do that, Your Honour, right up until March.
+HIS HONOUR: Continued to do what?
+A. That role that I just described -
+HIS HONOUR: Yes.
+A. -- in all the restaurants right up until he left our employment in March of 2000; but in February, in addition to that, he took over ownership of the Victoria restaurant.
+HIS HONOUR: How did that happen, just a summary of it?
+A. The franchisee who had started that restaurant sold it to a lady by the name of Jodie Shore (phonetic) in late '99. Her and her husband immediately developed marital problems and she basically abandoned the restaurant and assigned it over to her husband who wasn't going to be involved in the business and it was really a hopeless situation. He didn't really understand anything about the restaurant business and we tried to convince him, which we thought fairly successfully, was to try and sell it but that wasn't happening.
+HIS HONOUR: Yes, and then
+A. And one day he abandoned the restaurant, put up a notice that he was just closing it.
+HIS HONOUR: And?
+A. And we had an inkling, Mr. Colbran and I did, about five days before that this was likely to happen; and Mr. Colbran recognized that this was probably a great opportunity financially to pick up a restaurant that had great potential very cheap. Because basically by walking away, the Shores were walking away on their investment which was ...
+...
+A. Mr. Colbran - we were closed for a I believe a day or a day and a half and then Mr. Colbran's company commenced operating as a franchisee. We had to do a lot of scrambling to get the restaurant back open.
+HIS HONOUR: That's your position that he was operating as a franchisee and obviously his position is not; so we'll get into the evidence that's been given later; but it's your approach, as I understood it, that he was a franchisee from that date.
+A. Yes, until ...
+HIS HONOUR: Until July the 4th.
+A. Yes, that's right.
+HIS HONOUR: What happened?
+A. He turned over the keys to the restaurant, to Mr. Timourrian's company.
+MR. COLBRAN: Your Honour, I never had keys.
+APPELLANT'S SUBMISSIONS:
+[88] The Appellant stated that he had no intent to be a director until all specified conditions were met. He said that there was "no franchise agreement in place" and that there was "no ownership of assets". He said that there was no sublease of the premises and that he was not a resident of British Columbia.
+[89] He also that the date of director registration, namely July 20 was "suspicious", having stated that the law firm had, on July 20, 2000 registered the document appointing him a director. He said that this "clearly was after the fact". He stated that Pearlman & Lindholm represented the landlord and held the directorships of 95 and it was in their interest to keep it operating as well as it was in Beeson's interest to keep it operating.
+[90] The Appellant said that Pearlman & Lindholm represented the landlord and:
+There's obviously a conflict of interest there. They couldn't be - I couldn't be doing a sublease in an office where I'm the client of Pearlman Lindholm. That's something that I think is against the Law Society's rules, and I have filed a formal complaint against Pearlman Lindholm with the Law Society. It's been established that Bob Beeson through Courtney Cafe and Cheesecake Cafe Licensing was responsible for the property and the lease at 910 Government Street and was fully responsible for all daily operations. ...
+[91] He said that the sublease was never agreed to or signed by any party. With respect to Beeson's evidence about communication with the Appellant, the Appellant said:
+Mr. Beeson has stated that there were several conversations had with me. Mr. Beeson didn't talk to me for the last four months of me being, never had a conversation with him ever. ... I never had a conversation with Mr. Beeson from March on and I think Anne and Amy will verify that. He talked through - he gave them direction, never would return my phone calls if I tried, never did return phone calls.
+[92] The Appellant reiterated that there was no franchise agreement in place. With respect to the franchise agreement, the following exchange took place:
+HIS HONOUR: Wasn't the evidence of Mr. Beeson that he signed it and forwarded it to you?
+MR. COLBRAN: That was his evidence, yes.
+HIS HONOUR: Well, and he didn't receive it back.
+MR. COLBRAN: He did not receive it back because they never sent it and I wouldn't have agreed to it.
+HIS HONOUR: Are you saying - and I haven't checked the evidence on that - are you saying you did not receive it?
+MR. COLBRAN: I did not receive any documentation, absolutely unequivocally.
+HIS HONOUR: No, that's not my question. My question was, you didn't receive a franchising agreement from them?
+MR. COLBRAN: I did not receive any sublease agreement or a franchise agreement from them, Your Honour, did not absolutely. The one last comment, although most of this stuff was not submitted, the Crown's witness has a definite lack of credibility when it comes to CCRA and I think it's an accepted pattern of behaviour with their operating companies that I observed while I was vice president of operations.
+[93] The Appellant then said:
+I am trying to make the point that it was in Mr. Beeson's favour to have CCRA come after me because he would be the benefactor of royalties and the business surviving. So instead of paying out CCRA and taking the responsibility for it, he put it onto me through ... the business. I mean, he alerted CCRA.
+[94] He also said, in reference to July 20:
+Well, the directorship went through without my permission and it's strange that it went through without my permission, one, without witnesses. ... Filing a notice of director on July 20th, that's correct. So why does a notice of director get filed on July the 20th? It would seem like it would be obvious to try and have it so that I'm held responsible. ...
+I'm not sure who filed it at Pearlman Lindholm, but it was from the Pearlman Lindholm office I assume.
+[95] He then said that he was a representative of Beeson to begin with and then a representative of the landlord to try and keep the business operating. He said:
+In meetings with the landlord and Tillyard Management, they asked if I would stay on as a consultant to try and make the best of the situation and try and so that Mr. Beeson ...
+Then:
+HIS HONOUR: Well, you said you were a representative of Beeson to begin with. Did you stop being a representative of Beeson during this period?
+MR. COLBRAN: It was kind of ambiguous at one point about where there was a letter came through that I was no longer with Cheesecake Cafe.
+HIS HONOUR: What letter came through?
+MR. COLBRAN: There was a letter that was submitted in evidence that I was no longer with Cheesecake Cafe. What they don't show is that there was no payout. They had a liability to pay me out.
+[96] The Appellant subsequently stated that he did not authorize the filing of the appointment of him as a director. He then said:
+I have since, of course, filed inquiry and complaint to the Law Society of British Columbia and also looked at how a lawyer sues a lawyer to see it it's possible for a law firm in Victoria to sue another law firm; so I have looked into it.
+RESPONDENT'S SUBMISSIONS:
+[97] Respondent's counsel referred to Wheeliker v. R., 99 DTC 568. Counsel submitted that:
+... the case that has perhaps more applicability to the case at bar is the Wheeliker case because in the Wheeliker case there was a defect in the appointment of the director which is akin to the case at bar because clearly the British Columbia Business Corporation Act specifies that to be a director you must be a, there must be a majority or the individual must be a resident of the province of British Columbia and clearly during the time in question Mr. Colbran was not a resident of the province of British Columbia.
+[98] Again, Respondent's counsel said that in Wheeliker "there was a defect in the appointment". He went on to say that it was not the Respondent's position that the Appellant was a de jure director but that he was a de facto director. He added:
+The only thing I would particularly like to refer you to in Wheeliker is de facto. As in the case at bar, there was a defect in the appointment and the Court went on and looked at the issue of de facto directors and you can be a de facto director. That's the only purpose and my only reason really for citing Wheeliker.
+[99] Counsel then referred to McDougall v. R., 2001 DTC 2651. He submitted:
+... Judge Beaubier focused on the following facts that (A) the alleged director was a sophisticated business person; (B) the director knew essentially from he get go about the financial problems with the sawmill that was in that case; and (C) the director had signing authority, the alleged director had signing authority on the bank accounts of the sawmill.
+Yet ultimately, the individual himself, Mr. McDougall, he argued the exact same point that's being argued by Mr. Colbran; and Mr. McDougall, in that case, argued that he was not a legal or de facto director.
+[100] Counsel then submitted that it was clear that the Appellant was a very sophisticated business person heavily involved in the restaurant industry. He said that the Appellant had signing authority over "the bank accounts and set up the bank accounts for 95 British Columbia Limited".
+[101] Counsel, in arguing that the Appellant did not satisfy the onus upon him referred to the subscription for the shares which:
+is a consent to act as a director signed by Mr. Colbran ... and that he caused the corporation, it was on his instructions he goes to lawyers and causes the corporation to be incorporated and he's a shareholder and director.
+[102] With respect to the Appellant's evidence that he had instructed the lawyers not to file the notice of directors, Respondent's counsel said:
+I view Mr. Colbran's version of events somewhat with a little bit of suspicion. ... If there were clear instructions to not file the change and not set up the company and for the counsel to go and do that, that could be inviting a lawsuit, perhaps a conduct that would certainly warrant suspension if not disbarment.
+[103] The following exchange then took place:
+HIS HONOUR: Okay. But you're suggesting that he authorized this to be done after the period under review was completed, after it was over. If you said that the lawyer normally wouldn't register that notice, you're implying that the appellant must have told him to register it.
+MR. McDOUGALL: Yes.
+HIS HONOUR: But why would the appellant after the period under review had expired, why would he then tell the lawyer to register the notice? That doesn't make much sense to me.
+MR. McDOUGALL:No, it doesn't make much sense.
+HIS HONOUR: That would be July 20 and the period was over on July 4.
+MR. McDOUGALL: Yes. That is one of the great mysteries of this trial.
+MR. COLBRAN: It's no mystery to me.
+[104] Respondent's counsel then suggested that the Court draw an adverse inference from the fact that Ross was not "subpoenaed". He then said:
+The evidence that Mr. Ross would have given would have actually been contrary to that of Mr. Colbran.
+[105] Respondent's counsel also said that with Mr. Colbran as a signing officer on 95's bank account, the bank "at some level must have agreed or must have believed that Mr. Colbran was a director ...". Counsel then referred to the letter written by Beeson to the Canadian Imperial Bank of Commerce stating that the Appellant was a new franchisee and the company's sublessee. He then referred to Beeson's evidence as to how difficult it was for Beeson to "get Mr. Colbran out". Counsel then referred to Beeson's attempts to have a franchise agreement and sublease agreement signed by the Appellant. He said that he did not think that anything turns on the fact that no sublease was signed.
+[106] Counsel made mention of estimated sales of 1.2 million dollars which were not subjected to GST. He referred to Beeson's evidence that none of that money went through bank accounts controlled by him. He then said:
+It went through bank accounts that were controlled by 95 B.C. Limited which were ultimately controlled by Mr. Colbran but which some bills were being paid, money was going in and money was going out. ... Mr. Colbran was in charge and he had the control and he should have been, he was responsible, should have been ensuring the remittances were made to the CCRA.
+[107] Counsel also suggested that Beeson was more credible than the Appellant.
+APPELLANT'S RESPONSE:
+[108] The Appellant said:
+Mr. Beeson with the head lease and no sublease intact or no franchise agreement had the right to step in on February the 18th and operate as my witness has said he was operating. He had more communication with management than I did on a daily basis. Mr. Beeson could have exercised his rights in the head lease at any moment in time and why didn't he, right? Oral agreement was mentioned by the counsel. In order to get an oral agreement, you have to talk and that's why my understanding what oral means; and there was no oral conversation between Mr. Beeson and I. ...
+About any topics beyond March 1st. I mean, Mr. Beeson only communicated through a deluge of letters that went out and some reached and some didn't. It didn't matter to him because only his word counts.
+[109] The Appellant also restated his testimony respecting the witnesses in Ross' office about him advising Ross not to file the notice of director appointment until appropriate conditions were fulfilled.
+ANALYSIS AND CONCLUSION:
+[110] It was obvious at the hearing of this appeal that the Appellant and Beeson were hostile to each other. This has been confirmed by my reading and re-reading of the transcript of the proceeding. The determination of the factual situation involves an assessment of credibility of those two men. It is noted that Beeson appeared as the Respondent's only witness, having appeared as the result of being served with a subpoena so to do.
+[111] It is clear, from the evidence of both the Appellant and Beeson, that the Appellant was employed by the Beeson group to perform operational services in connection with the Victoria Cheesecake Café.
+[112] I accept the Appellant's evidence that when he signed the subscription for shares of 95 and signed the CONSENT TO ACT AS A DIRECTOR, he expressly directed Ross, the lawyer who produced the "shelf" company not to use those documents until he had become a resident of British Columbia and until other conditions specified by him were fulfilled. He never became a resident of that province. I accept his evidence that the conditions were not filled. I also accept his evidence that the notice of directors of 95 showing the Appellant as having been appointed a director and Ross having ceased to be a director filed, and registered with the Registrar of Companies on July 20, 2000, was not so filed by the Appellant. Beeson gave no evidence respecting this matter.
+[113] I further accept the Appellant's evidence that he did not sign a sublease and that he did not sign a franchise agreement. The document described as a sublease signed by Beeson as president of COURTNEY CAFÉ INC. introduced by the Respondent, was not executed by 95. Although that document states that it was "made as of the 17th day of February, 2000", it bears no date of execution by Courtney Café Inc.
+[114] There is no evidence to indicate that the Appellant established the banking arrangements for 95. In fact, his evidence was that other management had set up that bank account through Pearlman & Lindholm. He said that that management was Anne or Amy, both of whom testified, or Tannis. I accept his evidence that he did not set up that account and did not go to the bank. I accept his statement that he signed signature cards which were given to him and returned them. I also accept his evidence that he had signing authority on other restaurants in respect of which he was employed for the same purposes as in the Victoria situation.
+[115] The Appellant said that Beeson had control of the premises and that although 95 was operating the restaurant it did not have such control.
+[116] The evidence of Anne Troyer was clear and believable. She said that Ross was very specific in advising what procedures had to be followed, that he was the director of a shelf company which would keep the operations running until "hopefully over a very short period" there would be another party interested in taking over as franchisee. I accept her evidence that the Appellant was on his way to open a Cheesecake Café in Lethbridge and, after that, a café in Calgary and that he wouldn't be in the Victoria vicinity for some time. I also accept her evidence that "there was never a decision that didn't go through head office, through Bob Beeson". She stated that she saw Beeson a little bit more than the Appellant because he came to Victoria to try to make arrangements with the landlord. I accept her evidence that if she had a problem she talked more to Beeson "because that is kind of where the buck stopped, that is where the decision happened". She was clear about her communication with Beeson as her following words indicate:
+So I certainly talked daily and many times, many times a day to Bob Beeson in regards to operations and situations.
+[117] I also accept the evidence of Amy Brennan, the operating manager of the Cheesecake Café in Victoria. She testified that Bob Beeson and Cheesecake Café were responsible for liabilities incurred in the period February 16, 2000 to July 4, 2000. She stated that direction came mainly from Beeson.
+[118] Beeson, in testifying, continuously referred to 95 as a sublessor and to the Appellant as operating 95. His letter of February 16, 2000 on The Cheesecake Café letterhead to the Canadian Imperial Bank of Commerce in Victoria described the Appellant as "our new franchisee" and his company "... our new sublessee."
+[119] I found the Appellant, who dealt in specifics, more credible than Beeson, who, without specifics sought to paint the Appellant specifically as a franchisee and sublessee.
+[120] My interpretation of the combined evidence of Beeson and the Appellant is that the Appellant clearly did not want to become a director of 95, that he would like to have become a franchisee, and would like to have had a sublease of the restaurant premises but only on terms and conditions that never arose. The Appellant was looking for a "deal" on the franchise and the premises but did not want to become involved with any liability until the status he sought was achieved.
+[121] Beeson, in the May 2, 2000 letter to the attention of the Appellant referred to a "disturbing telephone message from Tannis Brown and Anne Troyer" in which he wrote:
+Anne tells me that she discovered that you have "cleaned out" the company bank account that was set aside for payroll and other expenses.
+Anne Troyer voluntarily testified on behalf of the Appellant. In addition, she was not cross-examined by Respondent's counsel respecting this assertion. Accordingly, I do not accept Beeson's comments in that letter as being credible.
+[122] Although Beeson continually referred to the Appellant as a franchisee and as operating 95 and as it being a sublessee of the premises, there is no evidence, other than correspondence arising out of Beeson's lease negotiations, to support his contention. The franchise agreement entered as an exhibit was a model only and bore no signatures and no dates. Beeson even stated that he had signed a sublease and sent it to Ross but did not receive a copy signed by 95 adding that he thought it was almost two months later that he realized "that we didn't have one". He further said that he did not follow up with either Ross or the Appellant asking why 95 had not executed the document.
+[123] It is not my duty to determine who was the effective operator or manager of 95. There is not enough evidence, in my opinion, to make that determination in any event. There is no document in evidence indicating that the Appellant acted as a director.
+[124] Respondent's counsel referred to Wheeliker only to establish that a de facto director would be subject to the same liability as a de jure director. It should be noted, however, that the facts of that case indicate that Wheeliker and other Appellants, in the words of the Federal Court of Appeal, "all acted as directors". That was a finding of fact which invited Noel, J.A. to refer to MacDonald v. Drake, (1906) 16 Man. R. 220 (Man. C.A.) at 223 where the following appeared:
+I cannot assent to the contention that a director, who, with his consent, has been elected and has acted as a director, should, merely because he was not qualified to hold the office, escape liability that he would have incurred if he had been qualified. The true principle seems to be that a man cannot take advantage of his own wrong.
+The learned justice then said:
+It being recognized in this instance that the Respondents acted as directors, in conformity with the will of the shareholders, I see no reason why they should be allowed to assert their lack of qualification to escape the liability cast upon directors by virtue of section 227.1 of the ITA.
+[125] There is no evidence in the instant case that the Appellant was a director and there is suggestion and insinuation only, not evidence, that he acted as a director.
+[126] Respondent's counsel sought aid for the Respondent's position that the instant case had "some very similar points with McDougall". However, a reading of McDougall establishes no similarity whatever in facts. In that company Wheeliker signed statements of particulars in connection with a Royal Bank of Canada account as "director" and the Agreement Re: Operation of Account as "director" of the company. He also signed page 5 of the document as "director" and signed page 1 of the document which stated that he had been a director of Columbia for one year. He signed various cheques on the Bank of Nova Scotia account for Columbia as the sole signatory and was authorizing wire transfers for the company from the Calgary account to another account. Wheeliker was listed with GST as a director of Columbia. He signed the company's 1996 fiscal year end income tax return as a director. He signed the income tax agreement among associated corporations as a director for all companies including the one under examination. The finding of fact in that case determined that he was a director, that he held himself out as a director to the Bank of Nova Scotia and to Revenue Canada. This is entirely different from the case under examination and has, in my opinion, no value in the determination of the issue respecting this Appellant.
+[127] Based upon my foregoing conclusions of fact and the non-applicability of legal authorities cited to support the Respondent's position, I find that the Appellant was neither a de jure nor a de facto director of 95.
+[128] Accordingly, the appeal will be allowed.
+Signed at Ottawa, Canada this 20th day of March, 2003.
+"R.D. Bell"
+J.T.C.C.
+CITATION:
+2003TCC154
+COURT FILE NO.:
+2001-3448(GST)I
+STYLE OF CAUSE:
+Dale Colbran v. The Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 28, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge R.D. Bell
+DATE OF JUDGMENT:
+March 20, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+R. Scott McDougall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+Presumably a new franchisee.
+[2] It appears that Respondent's counsel and the Appellant both intended to use "sub-lessee".
+[3] Jody Shoure was the prior franchisee.

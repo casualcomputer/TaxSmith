@@ -1,0 +1,278 @@
+---
+title: "Patterson Dental Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67153/index.do"
+last_modified: "2013-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 62"
+citation2: ""
+neutral_citation: "2014 CCI 62"
+decision_date: "2013-06-06"
+language: "fr"
+item_id: "67153"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5641
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:16:27.077000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff3551e332e3044ca8710c3e23ecc5f455f4c7b2c488e54af1efd0eb5327b3e7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patterson Dental Canada Inc. c. La Reine
+
+- Citation: 2014 CCI 62
+- Decision date: 2013-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5641, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patterson Dental Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-06
+Référence neutre
+2014 CCI 62
+Numéro de dossier
+2012-3283(GST)APP
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-3283(GST)APP
+ENTRE :
+PATTERSON DENTAL CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 25 janvier 2013, à Montréal (Québec).
+Devant : L’honorable Rommel G. Masse, juge suppléant
+Comparutions :
+Avocats de la requérante :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocate de l’intimée :
+Me Brigitte Landry
+____________________________________________________________________
+ORDONNANCE
+VU la demande présentée en vue de l’obtention d’une ordonnance prorogeant le délai imparti pour produire un avis d’opposition à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour les périodes de déclaration allant du 1er mai 2005 au 31 mai 2009 et dont avis a été donné en date du 16 mars 2010;
+APRÈS avoir entendu les deux parties en cour à Montréal (Québec), le 25 janvier 2013;
+ET APRÈS avoir lu les arguments écrits déposés à la Cour par chaque partie;
+LA COUR ORDONNE que la demande soit accueillie, que le délai imparti pour produire un avis d’opposition soit prorogé jusqu’à la date de la présente ordonnance et que l’avis d’opposition accompagnant la demande soit considéré comme un avis d’opposition valide produit à la date de la présente ordonnance.
+Aucuns dépens ne seront adjugés.
+Les motifs modifiés ci‑joints remplacent les motifs de l’ordonnance datés du 6 juin 2013, aux fins de l’attribution d’un numéro de référence pour publication.
+Signé à Montréal (Québec), ce 4e jour de mars 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 23e jour d’avril 2014.
+S. Tasset
+RÉFÉRENCE : 2014 CCI 62
+Date : 20140304
+Dossier : 2012-3283(GST)APP
+ENTRE :
+PATTERSON DENTAL CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DE L’ORDONNANCE
+Le juge suppléant Masse
+[1] Il s’agit d’une demande présentée en vue de l’obtention d’une ordonnance prorogeant le délai imparti pour produire un avis d’opposition à l’encontre d’une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15 (la « Loi »). La cotisation en cause est datée du 16 mars 2010 et porte sur les périodes de déclaration allant du 1er mai 2005 au 31 mai 2009. L’avis d’opposition a été produit le 27 avril 2011, soit dans le délai prescrit par la loi, qui est d’un an à compter de l’expiration de la période de 90 jours initialement consentie par l’alinéa 303(7)a) de la Loi pour produire un avis d’opposition. L’Agence du revenu du Canada (l’« ARC ») a rejeté la demande le 19 juillet 2012, d’où le fait que la Cour en est maintenant saisie.
+Les faits
+[2] La requérante est une société qui distribue et vend aux dentistes des produits et du matériel de dentisterie dans tout le Canada. Elle est établie à Montréal.
+[3] La gamme de produits vendus par la requérante comprend des solutions anesthésiques, dont certaines renferment une drogue appelée épinéphrine. Aux termes du paragraphe 165(1) de la Loi, l’acquéreur d’une fourniture taxable est tenu de payer la TPS calculée au taux de 5 % sur le prix de cette fourniture. Toutefois, selon le paragraphe 165(3), il existe des « fournitures détaxées », pour lesquelles aucune TPS n’est payable. Le paragraphe 123(1) précise que les fournitures détaxées sont celles qui figurent à l’article 2 de la partie I de l’annexe VI de la Loi. L’épinéphrine et ses sels comptent parmi les substances énumérées à l’article 2 de la partie I de l’annexe VI de la Loi et leur fourniture est donc détaxée. Cela dit, il semble que l’épinéphrine ne soit pas vendue à l’état pur.
+[4] De 2005 jusqu’au 1er décembre 2008, la requérante a traité ses solutions anesthésiques renfermant de l’épinéphrine comme des fournitures détaxées aux fins de l’application de la TPS. Ainsi, lorsqu’elle vendait de tels produits à ses clients, elle n’exigeait pas le paiement de la TPS. Or, vers la fin de 2008, la requérante a appris que l’ARC avait établi une cotisation défavorable à l’égard d’un de ses concurrents parce que ce dernier avait omis de percevoir la TPS sur des solutions anesthésiques contenant de l’épinéphrine. Par ailleurs, aux dires de deux cadres de la requérante, M. Pierre Carfantan, contrôleur de la requérante, et M. Dennis Gosselin, directeur national des finances et des opérations, la requérante a pris connaissance de la lettre d’interprétation no 07‑01033130, publiée en date du 9 juillet 2007 par le ministère du Revenu du Québec (qui porte désormais le nom d’« Agence du revenu du Québec » ou, simplement, « Revenu Québec »). Dans cette lettre, produite sous la cote A‑1, onglet 2, on peut notamment lire ce qui suit :
+Les solutions anesthésiques faisant l’objet de la présente demande ne sont pas visées par cette disposition. De plus, bien que certaines de ces solutions contiennent une quantité minime d’épinéphrine, qui, si elle était vendue seule pourrait être détaxée, le produit final acheté par les dentistes n’est pas de l’épinéphrine, mais une solution anesthésique.
+En conséquence, comme aucune autre disposition de la LTA ne permet de détaxer la fourniture par un distributeur à un dentiste de ces solutions anesthésiques, il s’agit donc d’une fourniture taxable.
+[5] Après avoir examiné cette lettre d’interprétation, la requérante a conclu qu’elle n’avait d’autre choix que de modifier les codes de taxe attribués à ses solutions anesthésiques dans ses systèmes comptables informatisés, de manière à ce qu’elles deviennent des fournitures taxables. Selon M. Carfantan et M. Gosselin, la lettre d’interprétation était sans équivoque : les solutions anesthésiques renfermant de l’épinéphrine étaient taxables même si l’épinéphrine vendue à l’état pur était détaxée. M. Carfantan et M. Gosselin ont déclaré qu’ils avaient toujours cherché à se conformer aux lois fiscales, de telle sorte qu’ils avaient unilatéralement décidé de modifier le traitement fiscal de ces solutions anesthésiques pour les faire passer de fournitures détaxées à fournitures taxables. Par la suite, la requérante a commencé à percevoir la TPS et la TVQ sur les solutions anesthésiques contenant de l’épinéphrine.
+[6] Vers le mois d’octobre 2009, l’Agence du revenu du Québec a vérifié les livres de la requérante. Ayant remarqué que le code de taxe des solutions anesthésiques avait été changé, le vérificateur, M. Serge Baril, s’est enquis des raisons du changement. M. Carfantan lui a expliqué que la requérante avait modifié le traitement fiscal de ses solutions anesthésiques en raison de la lettre d’interprétation, dont il avait appris l’existence vers la fin de 2008 (même s’il ne disposait toujours pas, à l’époque, d’une copie de cette lettre). M. Baril a en fait obtenu ultérieurement une copie de cette lettre d’interprétation.
+[7] Le 22 janvier 2010, M. Baril a remis à M. Carfantan un rapport provisoire de vérification où figuraient les rajustements qu’il se proposait d’apporter afin d’appliquer la TPS aux solutions anesthésiques renfermant de l’épinéphrine pour la période de 2005 à 2009. Le rapport faisait aussi état d’autres rajustements qui ne sont pas pertinents ici. Le rapport provisoire a conforté M. Carfantan et M. Gosselin dans l’idée qu’ils avaient vu juste en décidant de modifier le code de taxe des solutions anesthésiques, en 2008, pour en faire des fournitures taxables, et non plus détaxées. Le 23 février 2010, M. Baril a présenté son rapport de vérification définitif dans lequel il maintenait son opinion selon laquelle les solutions anesthésiques, bien que contenant de l’épinéphrine, étaient assujetties à la TPS. Dans ce rapport (pièce A‑1, onglet 3, p. 15), il fait les remarques suivantes au sujet de la lettre d’interprétation :
+L’interprétation donnée dans cette lettre d’interprétation (N/Réf.: 07‑01033130) est exactement la même c’est-à-dire que les solutions anesthésiques faisant l’objet de la demande d’interprétation ne sont pas visée par les dispositions de l’article 2 de la partie I de l’annexe VI de la LTA et le paragraphe 1 de l’article 174 de la LTVQ. De plus, dans cette lettre d’interprétation on mentionne aussi le fait que bien que certaines de ces solutions contiennent une quantité minime d’épinéphrine qui, s’il était vendu seul pourrait être détaxé (en vertu de LTA VI‑I‑2e)x)), le produit final acheté par les dentistes n’est pas de l’épinéphrine, mais une solution anesthésique. L’opinion donnée dans cette lettre d’interprétation est à l’effet que la fourniture par un distributeur à un dentiste de ces solutions anesthésiques, constitue une fourniture taxable car aucune autre disposition de la LTA ou de la LTVQ ne permet de détaxer la fourniture de tels produits.
+Donc, l’opinion donnée dans cette lettre d’interprétation vient supporter et confirmer notre position et en conséquence, comme aucune autre disposition de la LTA ou de la LTVQ ne permet de détaxer la fourniture par un distributeur à ses clients de ces solutions anesthésiques, il s’agit donc d’une fourniture taxable.
+[8] Ce passage du rapport de vérification définitif de M. Baril a aussi permis à M. Carfantan et M. Gosselin de confirmer qu’ils avaient pris la bonne décision en 2008 et qu’ils n’avaient eu d’autre choix que de facturer la TPS aux clients à qui la requérante vendait des solutions anesthésiques.
+[9] Le 16 mars 2010, une cotisation de plus de 1 100 000 $ a été établie au titre de la TPS, des intérêts et des pénalités. Cette somme se rapportait majoritairement aux solutions anesthésiques. La requérante ne s’est pas opposée à la cotisation parce qu’elle estimait ne pas avoir d’autre choix que de l’accepter. Elle était arrivée à cette conclusion en se fondant sur le fait qu’un concurrent avait eu droit à semblable cotisation, sur le contenu de la lettre d’interprétation et sur le rapport de vérification de M. Serge Baril. Au vu de ces éléments, il paraissait indiqué d’exclure toute interprétation ou conclusion autre. La requérante a donc acquitté le montant de la cotisation.
+[10] Vers la fin de 2010, la requérante a retenu les services d’un cabinet‑conseil indépendant, Ryan LLC, pour qu’il procède à un examen exhaustif de ses méthodes et pratiques comptables, y compris sur le plan de la conformité aux lois fiscales. Désireuse de s’assurer qu’elle respectait l’ensemble de ces lois, la requérante a notamment confié au cabinet le mandat de repérer, parmi les autres produits qu’elle vendait, ceux qui pouvaient avoir été placés dans la mauvaise catégorie aux fins de l’application de la TPS.
+[11] En mars 2011, Ryan LLC a remis à la requérante une copie de la décision Centre hospitalier Le Gardeur c. Canada, 2007 CCI 425, [2007] G.S.T.C. 21 (« Le Gardeur »). Après avoir examiné ensemble les motifs de cette décision de la juge Lamarre, de la Cour, Ryan LCC et la requérante en ont dégagé l’interprétation suivante : si la fourniture d’une drogue à l’état pur est détaxée, la fourniture de cette drogue, mélangée à d’autres produits, peut aussi être détaxée. Selon la juge Lamarre, la question n’est pas de savoir si la drogue est fournie à l’état pur, mais si le produit fourni consiste en un mélange de substances dont l’élément principal ou essentiel est une drogue dont la fourniture est détaxée. La juge Lamarre a exposé en ces termes le critère à appliquer :
+[60] Ce que nous comprenons de l’alinéa 2a) lorsqu’on entend le mot « drogue » de la manière que le définit la LAD, c’est qu’est détaxée la fourniture d’une substance ou d’un mélange de substances si ces dernières servent au diagnostic et si elles sont de l’annexe D de la LAD. Aux fins de notre analyse, nous jugeons plus prudent de parler d’un mélange de substances puisque le Dr Lepage a confirmé qu’on ne pouvait retrouver une drogue de l’annexe D à l’état pur dans un contenant. La drogue pure de l’annexe D avec les autres substances devant l’accompagner résulte donc en un mélange de substances. Il ne fait d’ailleurs pas de doute que tous les mélanges de substances présents dans les produits présentés par les appelants servent au diagnostic, qu’ils soient de l’annexe D ou non. La question est donc de déterminer si l’on a un mélange de substances de l’annexe D. À notre avis, si la substance principale d’un mélange constitue une substance de l’annexe D de la LAD, alors ledit mélange de substances sera considéré comme un tout, et par conséquent comme une fourniture détaxée. Comme il fut dit dans O.A. Brown, précité [[1995] A.C.I. no 678 (QL)], en son paragraphe 29, si les présumées fournitures séparées sont liées à la fourniture détaxée à un point tel qu’elles font partie intégrante de l’ensemble au complet, on peut parler de fourniture unique détaxée. Ainsi, à moins de dispositions législatives à l’effet contraire, un mélange de substances sera caractérisé selon sa substance principale aux fins de l’alinéa 2a). Par conséquent, est détaxée la fourniture d’un mélange de substances dont la substance principale est de l’annexe D de la LAD.
+[…]
+[62] Pour les produits de la catégorie 1 et 2 ayant un seul contenant, nous avons en tout et pour tout un mélange de substances à l’intérieur du produit. Le Dr Lepage est venu indiquer que chacun des produits présentés avait une drogue de l’annexe D comme drogue essentielle. Ainsi, nous pouvons affirmer avec certitude que si un produit ayant un seul mélange de substances a pour drogue essentielle une drogue de l’annexe D, la substance principale du mélange de substances sera nécessairement cette drogue de l’annexe D. Nous aurions pu en arriver au même résultat en regardant la description des catégories de produits. Les autres substances accompagnent la drogue pure de l’annexe D ou y sont attachées. Par ailleurs, on a indiqué que la valeur et l’importance de ces autres substances étaient minimes par rapport à la drogue de l’annexe D. La seule conclusion logique est donc que les produits de la catégorie 1 et 2 ayant un seul contenant sont détaxées puisqu’ils sont un mélange de substances dont la substance principale est de l’annexe D de la LAD.
+[Non souligné dans l’original.]
+[12] La requérante estime que cette opinion incidente de la juge Lamarre modifie considérablement l’interprétation formulée dans la lettre d’interprétation et qu’elle l’autorise à avancer que ses solutions anesthésiques contenant de l’épinéphrine pourraient fort bien être considérées comme des fournitures détaxées. Si cet argument est retenu, cela signifie que la cotisation établie à l’égard de la requérante était erronée et que cette dernière n’avait pas à payer les 1 100 000 $ exigés à ce titre. À l’époque où M. Baril a effectué la vérification, ni M. Carfantan ni M. Gosselin ne connaissaient la décision Le Gardeur. Il semblerait par ailleurs que M. Baril ne la connaissait pas non plus parce qu’il ne l’a pas portée à l’attention de la requérante et qu’il n’en a pas tenu compte pour établir le montant de la cotisation.
+[13] Ayant pris toute la mesure de l’incidence que pourrait avoir le jugement Le Gardeur sur ses obligations fiscales, la requérante a voulu savoir si ses solutions anesthésiques contenant de l’épinéphrine respectaient le critère énoncé dans cette décision. Pour cela, il fallait répondre à la question de savoir si l’épinéphrine pouvait être considérée comme un ingrédient essentiel des solutions anesthésiques vendues pendant la période examinée. Cela supposait d’obtenir une preuve scientifique et médicale; or, la requérante n’avait tout simplement pas les ressources internes voulues pour produire une telle preuve. Elle s’est donc adressée à des experts en médecine et en médecine dentaire. Le 21 avril 2011, elle a obtenu l’opinion du Dr Daniel Haas, expert en odontologie. Celui-ci a indiqué que le choix d’une solution anesthétique contenant de l’épinéphrine était dicté par la nature de l’acte médical et l’état du patient : on peut donc dire que lorsque le dentiste opte pour une solution anesthétique contenant de l’épinéphrine plutôt qu’une autre n’en contenant pas, c’est que l’épinéphrine en constitue un ingrédient essentiel.
+[14] Forte de l’opinion obtenue, la requérante a aussitôt (soit six jours plus tard, le 27 avril 2011) présenté au ministre du Revenu national (le « ministre ») une demande de prorogation du délai pour produire un avis d’opposition. Le 19 juillet 2012, le ministre a rejeté la demande de la requérante. C’était plus d’un an après que la requérante eut présenté sa demande de prorogation de délai. On ne peut d’aucune façon affirmer que le ministre a examiné la demande avec diligence comme l’exige le paragraphe 303(5) de la Loi. Les motifs qu’il a donnés pour rejeter la demande de la requérante sont les suivants :
+Considérant la ou les raisons que vous nous avez données, nous ne pouvons pas vous accorder de prorogation de délai puisque la raison invoquée dans votre demande n’était pas de nature à vous empêcher de produire votre avis d’opposition dans le délai prévu par la loi ou de demander à quelqu’un d’agir en votre nom. En effet, ce n’est qu’après l’expiration du délai d’opposition que vous avez entrepris des démarches auprès de votre représentant.
+Par conséquent, nous considérons que vous n’avez pas démontré, tel que l’exige le paragraphe 303(7) de la Loi sur la taxe d’accise, que :
+• vous ne pouviez pas produire votre avis d’opposition ou demander à quelqu’un de le faire pour vous dans le délai prévu par la loi, ou que vous aviez l’intention véritable de faire opposition à la cotisation,
+• il serait juste et équitable de vous accorder la prorogation de délai en tenant compte des raisons indiquées dans votre demande et des circonstances de l’espèce.
+[15] La requérante a alors saisi la Cour de la présente demande. Dans l’intervalle, elle a aussi retenu les services d’un autre expert, le Dr Gino Gizarelli, spécialiste en anesthésie dentaire, qui accepte de donner son opinion à titre d’expert à l’appui de la thèse présentée par la requérante dans son avis d’opposition.
+[16] Les témoignages de M. Carfantan et de M. Gosselin m’ont paru francs et honnêtes. L'intimée n'a pas réussi à opposer d'arguments sérieux à leur encontre. J’admets que MM. Carfantan et Gosselin ont toujours voulu faire en sorte que la requérante se conforme à toutes ses obligations fiscales. Je suis également convaincu que s’ils avaient été conscients des implications possibles de la décision Le Gardeur, la requérante aurait très certainement produit un avis d’opposition dans le délai prescrit par la Loi.
+[17] Il est intéressant de noter que, dans la foulée de la décision Le Gardeur, l’ARC a modifié sa politique, du moins en ce qui concerne les trousses de diagnostic in vitro (voir l’Avis no 248 sur la TPS/TVH de l’ARC). La requérante soutient que l’Avis no 248 s’applique également aux solutions anesthésiques contenant de l’épinéphrine. Toutefois, comme l’a clairement indiqué Mme Ève‑Marie Fortin dans son témoignage, l’ARC ne partage pas ce point de vue et considère que la décision Le Gardeur et l’Avis no 248 ne s’appliquent pas à ce type de solutions.
+Les dispositions législatives applicables
+[18] Les dispositions suivantes de la Loi s’appliquent à la présente affaire :
+301 (1.1) La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+[ … ]
+303(1) Le ministre peut proroger le délai pour produire un avis d’opposition dans le cas où la personne qui n’a pas fait opposition à une cotisation en application de l’article 301 […] dans le délai par ailleurs imparti lui présente une demande à cet effet.
+303(2) La demande doit indiquer les raisons pour lesquelles l’avis d’opposition […] n’a pas été produit dans le délai par ailleurs imparti.
+[…]
+303(5) Sur réception de la demande, le ministre l’examine avec diligence et y fait droit ou la rejette. Dès lors, il avise la personne de sa décision par courrier certifié ou recommandé.
+[…]
+304(1) La personne qui a présenté une demande en application de l’article 303 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+[…]
+304(4) La Cour canadienne de l’impôt peut rejeter la demande ou y faire droit. Dans ce dernier cas, elle peut imposer les conditions qu’elle estime justes ou ordonner que l’avis d’opposition soit réputé valide à compter de la date de l’ordonnance.
+304(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 303(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+(i) dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+Analyse
+[19] Suivant le paragraphe 301(1.1) de la Loi, la personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant l’envoi de l’avis de cotisation, présenter au ministre un avis d’opposition en la forme prescrite. Toutefois, le non-respect du délai de 90 jours n’est pas fatal. En ce qui concerne le dépôt d’un avis d’opposition, la loi permet une grande latitude. Si les conditions prévues par la loi sont par ailleurs remplies, le contribuable peut mettre jusqu’à un an pour produire un avis d’opposition à compter de l’expiration du délai initial de 90 jours.
+[20] Donc, si le contribuable n’a pas signifié d’avis d’opposition dans ce délai de 90 jours, il peut demander au ministre, en vertu de l’article 303 de la Loi, de proroger le délai pour produire tel avis. Si le ministre rejette la demande de prorogation de délai, le contribuable peut alors s’adresser à la Cour, en vertu de l’article 304 de la Loi, pour qu’elle rende une ordonnance autorisant le dépôt d'un avis d'opposition. Pour que sa demande soit accueillie, le requérant doit démontrer ce qui suit :
+a) la demande a été présentée au ministre dans l’année suivant l’expiration du délai de 90 jours prévu au paragraphe 303(1) pour la présentation d’un avis d’opposition;
+b) dans ce délai de 90 jours :
+i. le requérant n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête;
+ii. il est juste et équitable de faire droit à la demande compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce;
+iii. la demande de prorogation du délai imparti pour produire un avis d’opposition a été présentée au ministre dès que les circonstances le permettaient.
+[21] Nul ne conteste le fait que le délai d'un an a été respecté. La Cour est donc appelée à trancher les questions suivantes :
+a) La requérante a-t-elle été incapable d’agir ou de mandater quelqu’un pour agir en son nom durant le délai de 90 jours prévu pour la présentation d’un avis d’opposition, OU avait-elle véritablement l’intention de faire opposition à la cotisation?
+b) Est-il juste et équitable de faire droit à la demande compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce?
+c) La demande a-t-elle été présentée dès que les circonstances le permettaient?
+La requérante a-t-elle été incapable d’agir ?
+[22] La principale question qui se pose est de savoir si la requérante a ou non démontré qu’elle n’a pu agir ni mandater quelqu’un pour agir en son nom dans le délai de 90 jours prévu au paragraphe 301(1.1) de la Loi. La requérante soutient que, conformément au sous‑alinéa 304(5)b)(i) de la Loi, elle a démontré son incapacité d’agir ou de mandater une autre personne pour le faire en son nom en raison de circonstances attribuables à Revenu Québec. Il semblerait que le vérificateur, M. Serge Baril, ait induit la requérante en erreur en lui confirmant que la teneur de la lettre d’interprétation était coulée dans le béton alors qu’elle avait été remise en question par la Cour dans Le Gardeur. Il m’est impossible de prêter à M. Baril quelque intention d’induire la requérante en erreur et je n’entends d’ailleurs pas le faire, car il est évident que celui-ci ne connaissait pas non plus la décision Le Gardeur. Toutefois, il est permis de penser que M. Baril aurait dû être conscient de l’application possible de la décision Le Gardeur et de l’Avis no 248 et qu’il aurait dû en informer la requérante.
+[23] Pour déterminer si la requérante était dans l’impossibilité d’agir, il convient d’analyser la question en tenant compte du contexte. C’est en effet ce sage conseil que donne la Cour suprême du Canada aux tribunaux appelés à interpréter les dispositions d’une loi : voir Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, au paragraphe 10.
+[24] La Cour suprême du Canada fournit certaines indications quant à la façon d’interpréter le sens de l’expression « impossibilité d’agir ». Dans l’arrêt Cité de Pont Viau c. Gauthier Mfg. Ltd., [1978] 2 R.C.S. 516. elle fait, aux pages 526 et 527, les observations suivantes :
+[…] En référant à l’impossibilité « en fait », qui est en somme l’impossibilité relative, le législateur a choisi un critère qui est certes moins exigeant que celui de l’impossibilité absolue ou celui qui résulte d’une « circonstance de force majeure ».
+[…]
+Pour que la Cour supérieure puisse permettre, en vertu de l’art. 484 C.p.c. la production tardive d’une requête en rétractation de jugement, il n’est donc pas nécessaire que la partie démontre qu’elle a été empêchée d’agir par un obstacle invincible et indépendant de sa volonté; il lui suffit d’établir une impossibilité de fait, relative. La règle posée par la dernière partie de l’art. 523 C.p.c. est la même; le texte est identique et rien n’indique que le législateur ait voulu lui donner un sens différent. L’on doit donc dire que le plaideur qui demande une permission spéciale d’appeler en vertu de cet article, n’a pas à prouver une impossibilité absolue, mais seulement une impossibilité relative.
+Il n’est pas possible de préciser à l’avance chacun des faits d’où peut résulter l’impossibilité relative; chaque espèce doit être jugée selon les circonstances qui lui sont propres, puisque c’est vraiment d’une impossibilité de fait qu’il s’agit.
+[25] S’il est vrai que dans l’arrêt Cité de Pont Viau, l’examen de la Cour suprême portait sur les dispositions du Code de procédure civile du Québec, il est logique de conclure qu’un critère analogue devrait s’appliquer à l’« impossibilité d’agir » dans le contexte de la Loi, puisque la Cour suprême était saisie d’une demande de prorogation du délai d’appel, comme c’est le cas en l’espèce.
+[26] La requérante prie la Court de conclure qu’il lui était impossible d’agir pour les raisons suivantes :
+a) L’ARC n’a pas informé la requérante de la possibilité que la décision Le Gardeur et l’Avis no 248 s’appliquent aux mélanges de substances contenant de l’épinéphrine (nommément, les solutions anesthésiques de la requérante).
+b) La requérante a toujours eu l’intention de se conformer à la loi et a fait la preuve de cette intention en modifiant de sa propre initiative le traitement comptable à l’interne de ses solutions anesthésiques aux fins de l’application de la taxe de vente en décembre 2008. Si elle avait été au courant de la décision Le Gardeur et de l’Avis no 248, elle n’aurait pas apporté cette modification et aurait continué de traiter ses solutions anesthésiques contenant de l’épinéphrine comme des fournitures détaxées.
+c) Depuis, la requérante estime qu’elle a adopté un traitement fiscal erroné pour ses solutions anesthésiques et qu’il existe une possibilité raisonnable qu’elle réussisse à faire modifier la cotisation.
+d) La requérante n’a pas pu agir dans le délai de 90 jours prescrit par le paragraphe 301(1.1) de la Loi parce qu’elle ne disposait pas de l’information nécessaire pour prendre une décision éclairée et réfléchie quant à l’opportunité de contester la cotisation. Les circonstances étaient telles qu’elles ont annihilé toute intention qu’elle aurait pu avoir de s’opposer, et, à plus forte raison, de s’acquitter des formalités applicables au dépôt d’un avis d’opposition.
+e) La requérante n’a pas pu présenter d’avis d’opposition étant donné que, pendant le délai imparti pour le faire, elle ne disposait d’aucun avis d’expert concernant l’éventuel caractère essentiel de l’épinéphrine en tant qu’ingrédient de ses solutions anesthésiques.
+f) Si la requérante avait obtenu toute l’information utile et si elle avait été au courant des répercussions possibles de la décision Le Gardeur et de l’Avis no 248, elle se serait immédiatement opposée à la cotisation et aurait présenté un avis d’opposition dans le délai imparti de 90 jours.
+[27] Compte tenu de ces circonstances, la requérante était-elle dans l’impossibilité d’agir? Je suis d’avis que la requérante n’a pas pu agir et donc, qu’elle n’a pas pu présenter d’avis d’opposition du fait de la convergence de circonstances qui a eu pour effet d’annihiler l’intention qu’aurait pu avoir la requérante de faire opposition. À l’époque où elle a reçu l’avis de cotisation et choisi de ne rien faire de plus, elle ne disposait pas de toute l’information nécessaire pour prendre une décision éclairée. Si la requérante avait été au courant des répercussions possibles de la décision Le Gardeur et de l’Avis no 248, il est certain qu’elle aurait agi avec célérité : elle aurait demandé à des témoins experts de lui dire si, à leur avis, l’épinéphrine constituait un ingrédient essentiel de ses solutions anesthésiques et aurait pu déterminer si le dépôt d’un avis d’opposition présentait quelque chance de succès.
+[28] Dans 2950-5914 Québec Inc. c. Sous‑ministre du Revenu du Québec, 2003 CanLII 38721 (QC CQ), l’honorable juge Bousquet a conclu que la fourniture de renseignements erronés par les autorités fiscales, fût-ce de bonne foi, justifiait une prorogation de délai parce qu’elle empêchait le contribuable de prendre les mesures qui s’imposaient. Dans la décision Industries Bonneville c. La Reine, 2002 CanLII 849 (CCI), [2002] A.C.I no 426 (QL), la Cour a statué qu’il était opportun de proroger un délai lorsque le contribuable ne comprenait pas la nature exacte d’une cotisation. Dans la décision Charles c. M.R.N., 81 DTC 744, la Commission de révision de l’impôt est arrivée à une conclusion semblable relativement à une affaire où le contribuable avait cru à tort que la cotisation établie se rapportait au refus du crédit d’impôt qu’il avait pour dividendes qu’il avait demandé et qu’il était donc vain de s’y opposer. Après l’expiration du délai de 90 jours, le contribuable a appris que la cotisation concernait le refus d’une déduction pour perte au titre d’un placement d’entreprise. Puisque sur ce point, il était possible de s’opposer, le contribuable s’est vu accorder une prorogation du délai pour ce faire.
+[29] Pour conclure, j’estime que la requérante était incapable d’agir dans les circonstances.
+Est-il juste et équitable de faire droit à la demande?
+[30] La requérante avance qu’il est juste et équitable de faire droit à la demande compte tenu des circonstances de l’espèce (sous‑alinéa 304(5)b)(ii) de la Loi).
+[31] Je suis du même avis. En effet, j’estime qu’au vu des circonstances particulières de la présente affaire, il est juste et équitable d’accueillir la demande pour les motifs suivants :
+a) La requérante a fait preuve d’une transparence totale avec l’ARC tout au long de la vérification;
+b) La requérante a démontré, par ses agissements passés, qu’elle a toujours tenu à se conformer à ses obligations fiscales;
+c) Puisque le montant de la cotisation a déjà été payé en entier, la prorogation du délai ne causera aucun préjudice à l’ARC;
+d) La prorogation du délai permettra de débattre de la question de la validité de la cotisation de manière éclairée, franche, ouverte et exhaustive;
+e) La requérante a démontré qu’elle avait une thèse tout à fait recevable à défendre, et l’intérêt de la justice commande qu’elle soit autorisée à aller de l’avant;
+f) La tenue d’un débat exhaustif sur le fond de l’affaire permettra de clarifier l’état du droit;
+g) Les montants de TPS et de taxe de vente provinciale qui sont en jeu sont considérables : ils s’élèvent à plus de 1,6 million de dollars avec les intérêts et pénalités. La requérante ne doit pas être privée de ces importantes sommes, pas plus que ces dernières ne doivent enrichir l’ARC si, dans les faits, la cotisation repose sur des principes de droit erronés;
+h) La requérante soutient que le bénéfice du doute et la prépondérance des inconvénients penchent l’un et l’autre en sa faveur.
+[32] Sur ce dernier point, il convient de souligner que s’il existe quelque doute, la Cour doit viser la sauvegarde des droits des parties : voir l’arrêt Québec (Communauté urbaine) c. Services de santé du Québec, [1992] 1 R.C.S. 426, aux pages 442 et 443. Or, la sauvegarde des droits des parties ne peut se concrétiser que si la tenue d’un débat sur le fond est autorisée.
+[33] Par conséquent, je suis d’avis qu’il est juste et équitable de faire droit à la demande.
+La demande a-t-elle été présentée dès que les circonstances le permettaient?
+[34] Aux termes du sous‑alinéa 304(5)b)(iii), la demande doit être présentée dès que les circonstances le permettent. À cet égard, la chronologie des événements est une considération importante. Comme le souligne la requérante dans son argumentation écrite, cette chronologie est la suivante :
+a) 16 mars 2010 : avis de cotisation;
+b) 14 juin 2010 : délai imparti pour s’opposer;
+c) décembre 2010 : mandat confié à Ryan LLC;
+d) mars 2011 : la requérante est informée par Ryan LLC de l’existence de la décision rendue par la Cour canadienne de l’impôt dans l’affaire Le Gardeur. Elle soumet alors la question à un expert en odontologie afin d’obtenir un avis sur la question de savoir si l’épinéphrine est un ingrédient essentiel de ses solutions anesthésiques;
+e) 21 avril 2011 : l’expert en odontologie donne un avis favorable;
+f) 27 avril 2011 : présentation de la demande de prorogation du délai au ministre;
+g) 14 juin 2011 : expiration du délai de présentation d’une demande au ministre.
+[35] Il faut reconnaître que beaucoup de temps s’est écoulé. Cela dit, le contexte et les circonstances sont tout ce qui compte. Il ressort clairement du libellé du paragraphe 303(3) que la demande présentée au ministre doit être accompagnée d’une copie de l’avis d’opposition. Cet avis doit préciser les motifs de l’opposition et tout fait pertinent étayant ces motifs. Ainsi, pour préparer l’avis d’opposition, le requérant ne doit pas seulement être animé de l’intention de déposer cet avis : il doit aussi exposer de solides motifs à l’appui de son opposition. Dans l’affaire qui nous intéresse, la requérante ne possédait pas suffisamment d’information pour fonder un avis d’opposition, du moins jusqu’à ce qu’elle apprenne l’existence de la décision de la Cour canadienne de l’impôt dans l’affaire Le Gardeur. Nous étions alors au début de 2011. Il lui a ensuite fallu obtenir l’avis d’un expert afin de déterminer si l’épinéphrine constituait un ingrédient essentiel de ses solutions anesthésiques. C’est uniquement après avoir obtenu cette opinion que la requérante pouvait décider, en toute connaissance de cause, s’il était possible de faire valoir que le critère énoncé dans la décision Le Gardeur s’appliquait à ses solutions anesthésiques contenant de l’épinéphrine. L’expert a fait connaître son avis seulement le 21 avril 2011. À partir de cette date, la requérante a agi avec diligence, présentant sa demande au ministre au bout d’à peine six jours.
+[36] L’examen exhaustif de la chronologie des événements m’amène à conclure que la demande a été présentée au ministre dès que les circonstances le permettaient au sens du sous‑alinéa 303(5)b)(iii).
+L’erreur provoquée par une personne en autorité
+[37] À l’audience, j’ai invité les avocats à me faire part de leurs arguments quant à l’application possible de la doctrine de l’« erreur provoquée par une personne en autorité » aux faits de l’espèce. L’intimée prétend que cette doctrine ne s’applique pas aux appels portant sur des cotisations d’impôt. Je suis du même avis. Dans l’affaire Brenda G. Klassen c. Sa Majesté La Reine, 2007 CAF 339, le juge Noël, de la Cour d’appel fédérale, a conclu sans ambiguïté que c’était en effet le cas. Au paragraphe 27 de ses motifs, il écrit :
+[27] Enfin, la prétention de l’appelante selon laquelle il y a lieu de modifier la cotisation en raison d’une erreur provoquée par un fonctionnaire m’apparaît dénuée de fondement. Il est bien établi en droit que la réparation accordée par un tribunal dans le cadre d’un appel interjeté à l’encontre d’une nouvelle cotisation en vertu de la LIR doit être prévue par la loi. S’il s’avère qu’un acte de négligence a induit l’appelante en erreur, d’autres recours s’offrent à elle. Aucun redressement ne peut cependant être accordé pour ce motif dans le contexte d’un appel en matière d’impôt.
+[38] De plus, dans son ouvrage intitulé Canada GST Service, publié chez Carswell (Toronto), le savant auteur David Sherman arrive à la même conclusion :
+[traduction]
+En matière criminelle (un procès relatif à des accusations d’évasion de la TPS, par exemple), il est probable que l’« erreur provoquée par une personne en autorité » puisse servir de moyen de défense. Voir R. c. Jorgensen, [1995] 4 R.C.S. 55 (C.S.C.). Toutefois, ce n’est pas le cas en ce qui concerne les appels interjetés à l’encontre d’une cotisation d’impôt.
+[39] Par conséquent, la doctrine de l’erreur provoquée par une personne en autorité ne s’applique pas en l’espèce.
+Le principe de la courtoisie judiciaire
+[40] Les avocats m’ont informé du fait que le 20 mars 2013, l’honorable juge Sylvain Coutlée, de la Cour du Québec, avait rendu sa décision au sujet de la demande que la requérante a présentée afin d’obtenir la prorogation du délai pour produire un avis d’opposition à l’encontre de la cotisation établie en vertu de la Loi concernant la taxe de vente du Québec : voir Patterson Dental Canada Inc. c. Agence du revenu du Québec, no 500‑80‑023039-127, [2013] J.Q. no 2606 (QL), 20 mars 2013, Montréal, Chambre civile. Cette demande parallèle portait essentiellement sur les mêmes principes que ceux évoqués ici. Le juge Coutlée a fait droit à la demande. J’ai lu avec beaucoup d’intérêt les motifs de sa décision. L’essentiel de ce jugement est contenu dans les paragraphes suivants :
+[33] Dans les faits les deux parties ignoraient la décision Le Gardeur. Le rapport du vérificateur, monsieur Serge Baril, confirme que l’Agence ignorait non seulement le jugement Le Gardeur, mais aussi le Bulletin d’interprétation de l’Agence sur le statut taxable des produits d’épinéphrine utilisés par les dentistes.
+[34] Il est vrai que Le Gardeur porte sur certaines trousses de diagnostic in vitro. Cependant, ce qui importe est de déterminer l’applicabilité de la décision de Le Gardeur dans le cas qui nous occupe.
+[35] Le Tribunal n’a pas a décider du fond du litige, mais bien si Patterson rencontre les critères de l’article 93.1.4 L.A.F.
+[…]
+[39] Il ne fait aucun doute dans l’esprit du Tribunal que Patterson n’a pas essayé d’éluder le paiement de la cotisation, au contraire. Lorsque Patterson prend connaissance du bulletin d’interprétation (P‑2), elle taxe immédiatement ses produits. Suite à la réception de l’avis de cotisation, elle l’acquitte. Patterson s’est comportée en citoyen corporatif responsable. Patterson ne pouvait s’opposer à la cotisation de l’Agence basée sur la décision Le Gardeur. L’Agence elle-même l’ignorait. Comment peut-on exiger plus du contribuable alors que l’Agence, dont le mandat est d’appliquer les lois fiscales, ne connaît pas, dans le cas qui nous occupe, le droit applicable?
+[40] La séquence des événements, l’ignorance par l’Agence, d’une part, des différents bulletins d’interprétation et, d’autre part, de la décision Le Gardeur, fait en sorte que la demanderesse a été dans l’impossibilité de fait d’agir. Conclure autrement signifierait que l’Agence exigerait du contribuable qu’il ait une meilleure connaissance qu’elle des dispositions fiscales applicables. Il est entendu que le contribuable ne peut plaider l’ignorance de la loi. En l’espèce, c’est le contribuable qui a mis l’Agence sur la piste. On ne peut donc reprocher à la demanderesse son défaut d’agir.
+[41] Dans les circonstances, le Tribunal conclut que la demanderesse, Patterson, était dans l’impossibilité de fait d’agir.
+[42] Qui de plus est, il est du devoir des tribunaux de sauvegarder les droits des parties. Sans se prononcer sur le fond de cette affaire, il appert prima facie, que Patterson a une position à faire valoir. Quant à l’agence, elle ne subit aucun préjudice puisqu’elle a déjà encaissé la cotisation dans ses coffres.
+[43] En conséquence, Patterson s’étant acquittée de son fardeau de preuve, le Tribunal donne droit à sa requête.
+[41] Les motifs exposés par le juge Coutlée sont sensiblement les mêmes que ceux que j’ai donnés dans l’affaire dont je suis saisi. Cela dit, même si je n’étais pas d’accord avec le juge Coutlée, il me faudrait tout de même me pencher attentivement sur le principe de la courtoisie judiciaire.
+[42] Dans Houda International Inc. c. Sa Majesté la Reine, 2010 CCI 622, [2011] G.S.T.C. 8, le juge Boyle, de la Cour, devait décider s’il y avait lieu d’accorder la prorogation du délai pour faire appel d’une cotisation établie à l’égard de l’appelante en vertu de l’article 305 de la Loi. Dans cette même affaire, la Cour du Québec avait déjà accepté de proroger le délai relativement à une cotisation portant sur la taxe de vente du Québec. Le juge Boyle a fait les commentaires suivant au sujet du principe de courtoisie judiciaire :
+[4] En premier lieu, la Cour doit rechercher si elle est liée par la décision de la Cour du Québec en raison de la règle de la préclusion fondée sur la chose jugée et de la règle d’abus de procédure; c’est la principale question. Si la réponse est négative, elle doit alors rechercher dans quelle mesure elle doit faire preuve de déférence à l’égard de la décision de la Cour du Québec par courtoisie judiciaire.
+[43] Eu égard à la doctrine de l’abus de procédure et au principe de préclusion fondée sur la chose jugée, le juge Boyle s’est exprimé en ces termes :
+[21] Cependant, la doctrine de l’abus de procédure n’exige pas qu’il y ait identité des parties lorsqu’elle s’applique pour empêcher la remise en cause d’une question déjà tranchée. Je conclus que la question dont je suis saisi a déjà été tranchée par la Cour du Québec et que je ne dois pas la réexaminer, car cela pourrait donner lieu à une issue différente en l’espèce. Je ne dois pas rouvrir cette question parce que cela donnerait lieu à une utilisation inefficace des ressources publiques et privées, pourrait aboutir à des décisions contradictoires qui ne pourraient pas être raisonnablement expliquées aux contribuables au Québec et ailleurs au Canada, et porterait inutilement atteinte aux principes d’irrévocabilité, d’uniformité, de prévisibilité et d’équité dont dépend la bonne administration de la justice.
+[44] Et sur le principe de courtoisie judiciaire, il avait ceci à dire :
+[28] Je n'ai nul doute que permettre à l'intimée d'agir donnerait lieu à un abus de procédure. Cela dit, subsidiairement, je conclus que, compte tenu des circonstances, il est dans l’intérêt de la justice que la requête soit accueillie par déférence pour la Cour du Québec. Si la requête n’était pas accueillie, l’administration de la justice pour les appels en matière fiscale serait exposée à une inutile confusion, le droit deviendrait incertain et la confiance du public serait minée. L’effet serait le même, que la Cour se prononce en faveur de la requérante ou non pour ce qui est du bien‑fondé de l’appel.
+V. Conclusion
+[29] La demande présentée par la contribuable tendant au dépôt tardif de son appel en matière de TPS devant la Cour est accueillie. La Cour du Québec s'est déjà prononcée, en substance, sur la même question pour l’application de la taxe de vente du Québec. Compte tenu des circonstances, je conclus qu’il serait inapproprié d’examiner le bien‑fondé de la thèse de l’intimée : cela donnerait lieu à un abus de procédure. Subsidiairement, à mon avis, la requête doit être accueillie parce que, selon le principe de la courtoisie judiciaire, je dois faire preuve de déférence à l’égard de la décision de la Cour du Québec. Je ne vois pas pourquoi des ressources judiciaires rares devraient être consacrées à l’examen d’une telle requête sur le fond puisque la demande provinciale correspondante a déjà fait l’objet d’une décision.
+[30] Lorsque des requêtes de dépôt tardif d’avis d’appel sont présentées dans la période d’un an suivant l’expiration du délai normal par des contribuables qui avaient demandé à leur avocat ou à leur comptable de déposer une opposition ou un appel en vertu de la Loi de l’impôt sur le revenu ou de la loi relative à la TPS, la Cour est généralement appelée à rechercher si le contribuable avait véritablement l’intention de s’opposer à la cotisation ou d’interjeter appel et s’il est juste et équitable de faire droit à la demande. Mon analyse et mes conclusions n’y changent rien. Cependant, lorsque la Cour du Québec a conclu que, compte tenu des circonstances particulières de la contribuable, les exigences correspondantes de la LMR étaient remplies, la Cour, qui contrôle sa procédure, devrait généralement faire preuve de déférence envers cette décision; il ne faut pas s’attendre à ce que celle-ci réexamine la question sur le fond. Il ne faut pas considérer que cela constitue l’adoption par la Cour d’une approche moins stricte quant à l’examen des demandes de dépôt tardif dans les cas où le dépôt tardif en raison du manquement de l’avocat ou du comptable du contribuable en l’absence d’une demande provinciale correspondante qui a déjà fait l’objet d’une décision.
+[45] Je suis entièrement d’accord avec le juge Boyle. À mon sens, si la Cour rendait à ce stade-ci une décision contraire à celle à laquelle est arrivée la Cour du Québec au sujet d’une affaire concernant essentiellement les mêmes parties et les mêmes faits, cela aurait pour effet de déconsidérer l’administration de la justice aux yeux du citoyen informé.
+Conclusion
+[46] Il ne m’appartient pas de juger du bien‑fondé des arguments de la requérante. Il se pourrait fort bien qu’ils soient rejetés à l’issue d’une instruction en bonne et due forme et qu’en conséquence, la fourniture de solutions anesthésiques renfermant une faible proportion d’épinéphrine continue d’être taxée. À l’opposé, le tribunal pourrait conclure que le critère énoncé dans la décision Le Gardeur s’applique, ce qui signifierait que la fourniture de solutions anesthésiques contenant de l’épinéphrine serait détaxée. C’est dans le cadre d’une autre instance que sera tranchée cette question en temps voulu. Cela dit, j’estime qu’il y a lieu d’accorder à la requérante la possibilité de présenter ses arguments et d’obtenir une décision sur le fond.
+[47] Au final, j’arrive aux conclusions suivantes :
+a) la requérante a démontré qu’elle se fonde, pour s’opposer à l’avis de cotisation, sur des arguments raisonnables qu’il convient de trancher à l’issue d’un débat éclairé, franc et exhaustif;
+b) la requérante a démontré, conformément au sous‑alinéa 304(5)b)(i) de la Loi, qu’elle n’a pas pu agir ni mandater quelqu’un pour agir en son nom dans le délai d’opposition par ailleurs imparti par la Loi;
+c) il est juste et équitable de faire droit à la demande conformément au sous-alinéa 304(5)b)(ii) de la Loi;
+d) la demande a été présentée dès que les circonstances le permettaient conformément au sous-alinéa 304(5)b)(iii) de la Loi.
+[48] En conséquence, la Cour ordonne :
+a) La demande est accueillie.
+b) L’avis d’opposition accompagnant la demande de la requérante est considéré comme un avis d’opposition valide à la date de la présente ordonnance.
+c) Aucuns dépens ne sont adjugés.
+[49] Les présents motifs modifiés remplacent les motifs de l’ordonnance datés du 6 juin 2013, aux fins de l’attribution d’un numéro de référence pour publication.
+Signé à Montréal (Québec), ce 4e jour de mars 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 23e jour d’avril 2014.
+S. Tasset
+RÉFÉRENCE : 2014 CCI 62
+NO DU DOSSIER DE LA COUR : 2012-3283(GST)APP
+INTITULÉ : PATTERSON DENTAL CANADA INC. ET LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 25 janvier 2013
+MOTIFS MODIFIÉS DE
+L’ORDONNANCE : L’honorable Rommel G. Masse,
+juge suppléant
+DATE DES MOTIFS MODIFIÉS : Le 4 mars 2014
+COMPARUTIONS :
+Avocats de la requérante :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocate de l’intimée :
+Me Brigitte Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom : Dominic C. Belley
+Vincent Dionne
+Cabinet : Norton Rose Canada, S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada

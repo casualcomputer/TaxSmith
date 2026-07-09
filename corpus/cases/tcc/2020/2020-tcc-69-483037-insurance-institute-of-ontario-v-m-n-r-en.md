@@ -1,0 +1,245 @@
+---
+title: "Insurance Institute of Ontario v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483037/index.do"
+last_modified: "2020-07-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 69"
+citation2: ""
+neutral_citation: "2020 TCC 69"
+decision_date: "2020-07-24"
+language: "en"
+item_id: "483037"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4601
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:06:47.570000+00:00"
+cases_cited_count: 6
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "35a676a662c650b8caf9746c3af7398a6724526620e857feb275b54d996c496e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Insurance Institute of Ontario v. M.N.R.
+
+- Citation: 2020 TCC 69
+- Decision date: 2020-07-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4601, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Insurance Institute of Ontario v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-24
+Neutral citation
+2020 TCC 69
+File numbers
+2019-2877(EI), 2019-2878(CPP)
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2019-2877(EI)
+2019-2878(CPP)
+BETWEEN:
+INSURANCE INSTITUTE OF ONTARIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on January 30, 2020, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Mark Tonkovich
+Counsel for the Respondent:
+Michael Ding
+JUDGMENT
+The appeals are allowed and the matter referred back to the Minister of National Revenue for reconsideration on the basis that Peter Barlow was an independent contractor from January 1, 2015 to March 31, 2018.
+Signed at Ottawa, Canada, this 24th day of July 2020.
+“David E. Graham”
+Graham J.
+Citation: 2020 TCC 69
+Date: 20200724
+Dockets: 2019-2877(EI)
+2019-2878(CPP)
+BETWEEN:
+INSURANCE INSTITUTE OF ONTARIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Insurance Institute of Ontario is a non-profit organization that, among other things, provides professional and continuing education to the insurance industry in Ontario. From January 1, 2015 to March 31, 2018, Peter Barlow worked with the Institute as an instructor. He taught classes to individuals who wanted to obtain their Certified Insurance Professional designation.
+[2] The Institute entered into a series of contracts with Mr. Barlow. These contracts clearly set out that the Institute and Mr. Barlow both intended that Mr. Barlow would be an independent contractor. The Minister of National Revenue disagreed with that characterization. The Minister concluded that Mr. Barlow was an employee and issued a ruling to that effect. The Institute has appealed that ruling.
+[3] Central to these appeals is an issue that has been simmering for years, namely the proper interpretation and application of the test set out by the Federal Court of Appeal in its 2013 decision in 1392644 Ontario Inc. v. The Queen (“Connor Homes”). [1]
+A. Issues
+[4] The following are the three issues in these appeals:
+a) How should the test set out in Connor Homes be applied when a payor and a worker share a common intention as to the nature of their relationship?
+b) Do the factors that are to be considered in applying that test include what is known as the “integration test”?
+c) Under the test that is to be applied, was Mr. Barlow an employee or an independent contractor?
+B. Interpretation of Connor Homes
+[5] The parties agree that the question of whether Mr. Barlow was an employee or an independent contractor must be answered in accordance with the test set out by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. (“Sagaz”). That test is whether Mr. Barlow was performing services “as a person in business on his own account”. [2]
+[6] The parties also agree that that central question is to be answered in accordance with the two-step test set out by the Federal Court of Appeal in Connor Homes. However, the parties disagree on how that two-step test is to be applied.
+The Two-Step Test
+[7] The first step in the Connor Homes two-step test is to ascertain the subjective intent of each party to the relationship. “This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.” [3]
+[8] The second step in the Connor Homes test “is to ascertain whether an objective reality sustains the subjective intent of the parties.” [4] One should consider the factors set out in the Federal Court of Appeal’s decision in Wiebe Door Services Ltd. v. The Queen (“Wiebe Door”) [5] “to determine whether the facts are consistent with the parties' expressed intention.” [6]
+[9] The parties disagree on how this second step is to be applied.
+Parties’ Positions
+[10] The Respondent submits that the second step involves nothing more than the application of the Wiebe Door and Sagaz factors to determine whether the worker is an employee or an independent contractor. The Respondent asserts that the second step is entirely independent of the results in the first step. It is the Respondent’s view that the test to be applied in the second step remains the same whether the first step indicates that the parties had a common intention or not.
+[11] The Institute submits that, for the first step to mean something, the results of the first step must affect the application of the second step. If the first step indicates that the parties did not share a common intention, then the second step would simply involve the routine application of the Wiebe Door and Sagaz factors. However, if the first step indicates that the parties did share a common intention, then the second step must involve something other that a routine application of those factors.
+Analysis of Connor Homes
+[12] The parties’ disagreement on this point is understandable. With respect, the second step of the test in Connor Homes is not always easy to apply. The test is easy to apply when the parties do not share a common intention. It is also easy to apply when the parties share a common intention and the Wiebe Door and Sagaz factors either support that intention or strongly contradict that intention. However, it is unclear how the test should be applied in a case, like the one before me, where those factors indicate an outcome that is different than the parties’ intentions but not significantly so.
+[13] In a single paragraph, the Federal Court of Appeal arguably supports both the Institute’s and the Respondent’s positions. Paragraph 40 reads as follows:
+The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Minister of National Revenue, 2011 FCA 256, 422 N.R. 366 (F.C.A.) at para. 9, “it is also necessary to consider the Wiebe Door Services Ltd. factors to determine whether the facts are consistent with the parties' expressed intention.” In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties [sic] intent as well as the terms of the contract may also be taken into account since they colors [sic] the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered “in the light of” the parties' intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door Services Ltd. and Sagaz Industries Canada Inc. has been in fact met, i.e. whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.”
+[14] The following phrases from that paragraph support the Institute’s argument that the second step is to be applied differently if there is a common intention:
+a) “In this second step, the parties [sic] intent as well as the terms of the contract may also be taken into account since they colors [sic] the relationship.”
+b) “. . . the relevant factors must be considered ‘in the light of’ the parties' intent.”
+[15] However, the following phrase from paragraph 40 supports the Respondent’s argument that the second step is simply a routine application of the Wiebe Door and Sagaz factors without regard to the parties’ intentions:
+. . . that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door Services Ltd. and Sagaz Industries Canada Inc. has been in fact met, i.e. whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+[16] Finally, the following phrases from paragraph 40 could support either interpretation:
+a) “The second step is to ascertain whether an objective reality sustains the subjective intent of the parties.”
+b) “. . . it is also necessary to consider the Wiebe Door Services Ltd. factors to determine whether the facts are consistent with the parties' expressed intention.”
+c) “In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts.”
+[17] With respect, other paragraphs in Connor Homes only add to the uncertainty. The Federal Court of Appeal appears to support the Respondent’s position when it states that “[t]he central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account.” [7] Yet, in the following paragraph, the Court appears to support the Institute’s position. The Court instructs that “[t]he first step of the analysis should always be to determine at the outset the intent of the parties and then, using the prism of that intent, determining in a second step whether the parties' relationship, as reflected in objective reality, is one of employer-employee or of independent contractor.” [8] Then, when applying the test to the facts of the case, the Court once again appears to support the Respondent’s interpretation when it states that “[t]he issue before the Tax Court Judge was therefore whether this contractual intent was reflected in reality, i.e. whether the contract's legal effect was in fact one of an independent contractor or of an employer-employee relationship.” [9]
+[18] Taking all of the above into account, I favour the Institute’s interpretation of the second step of the Connor Homes test. I find that the results of the first step affect the application of the test in the second step. Respectfully, the Respondent’s interpretation of the second step is illogical. If the outcome of the first step had no bearing on the second step, then what purpose would the first step serve? If the sole question to be determined was what the Wiebe Door and Sagaz factors indicated the relationship was, then why bother considering what the parties believed the relationship to be? For the first step to mean something, the outcome of the first step has to affect the application of the test in the second step.
+[19] Having concluded that the second step must be applied differently if the parties shared a common intention, I must then determine how the test should be applied. What is the Federal Court of Appeal instructing trial judges to do when it directs us to look at the Wiebe Door and Sagaz factors through the “prism” of the parties’ intentions? How should the parties’ intentions “color” how we view those factors?
+[20] The Institute submits that the parties’ intention must be something more than a tie-breaker. The Institute argues that if the Federal Court of Appeal had intended a common intention to simply be a tie-breaker, it would have said so. I agree. If the Federal Court of Appeal wanted intention to be a mere tie-breaker, it would have placed the Wiebe Door and Sagaz factors in the first step and then made the consideration of intention a second step to be utilized only in the event of a tie. This is exactly the approach described by the trial judge in Connor Homes –- an approach that the Federal Court of Appeal specifically rejected.
+[21] Just as Connor Homes makes it clear that intention is not a tie-breaker, the decision also makes it clear that intention is not to be the sole governing factor. If the Federal Court of Appeal had wanted intention to be the sole governing factor, there would have been no need to consider the objective reality of the relationship. There would be no second step.
+[22] So if the test is more than a tie-breaker and less than the sole governing factor, what is it? The Institute submits that, in the circumstances, for the second step to have meaning, the test to be applied when the parties’ common intentions are clear must involve some type of lower standard. I agree.
+[23] If intention is more than a tie-breaker, it must apply in a situation where there is no tie. In other words, it must apply in a situation where the Wiebe Door and Sagaz factors indicate that the relationship is one thing but the parties intended otherwise. At the same time, since the Federal Court of Appeal was clear that intention was not to govern, it must not apply in a situation where the Wiebe Door and Sagaz factors strongly indicate that the relationship is one thing but the parties intended otherwise. Based on the foregoing, I conclude that intention must be relevant when the Wiebe Door and Sagaz factors indicate that the relationship is one thing but the parties intended it to be another thing and their relationship is similar to what they intended.
+[24] Support for this reasoning can be found in the Tax Court of Canada decision in Porotti v. The Queen (“Porotti”). [10] That case dealt with a worker who was implementing a new computerized assessment system for a residential care home. Justice Woods, as she then was, applied the Connor Homes test. She first concluded that the parties shared a common intention that the worker be an independent contractor. She then went on to apply the second step of the Connor Homes test. In doing so, Justice Woods considered whether the worker had a chance of profit. She found that the worker was paid by the hour but “was very good at marketing her administrative skills” [11] and “sought out and agreed to many ancillary tasks” [12] and in doing so increased the number of hours that she worked. The Federal Court of Appeal was clear in City Water International Inc. v. The Queen (“City Water”) [13] that workers paid by the hour do not have a chance of profit even if they have an opportunity to increase the number of hours that they work. Yet Justice Woods nonetheless found that the chance of profit factor “generally [favoured] an independent contractor relationship because of the entrepreneurial approach that [the worker] took to the relationship which led to an expansion of the work that she did for [the care home]”. [14] It appears that, without expressly saying so, Justice Woods concluded that, because the parties shared a common intention and the worker acted in an entrepreneurial manner that was similar to what one would expect of an independent contractor, the worker had a chance of profit even though City Water indicated that she did not.
+[25] Porotti was appealed to the Federal Court of Appeal. The Court held that Justice Woods “identified the correct legal test as set out by this Court in [Connor Homes] and made no palpable and overriding errors in applying it to the facts of this case.” [15] This endorsement of Justice Woods’ reasoning strongly supports the idea that, where the parties share a common intention, the second step of the Connor Homes test should focus on whether the Wiebe Door and Sagaz factors indicate a relationship similar to what one would expect from the relationship the parties intended.
+[26] Based on all of the foregoing, I conclude that the second step of the Connor Homes test should be applied as follows:
+a) Where the payor and the worker do not share a common intention, their relationship will be the relationship indicated by the Wiebe Door and Sagaz factors.
+b) Where the payor and the worker share a common intention:
+if the Wiebe Door and Sagaz factors are consistent with that common intention, then their relationship will be the relationship that they intended;
+if the Wiebe Door and Sagaz factors are completely inconsistent with that common intention, then their relationship will be the relationship indicated by those factors; and
+if the Wiebe Door and Sagaz factors are inconsistent with that common intention but the parties nonetheless act and carry on their relationship in a manner that is similar to what one would expect from their intentions, then their relationship will be the relationship that they intended.
+C. Integration Test
+[27] The integration test asks whether the worker’s services are integral to the payor’s business. The Respondent submits that the integration test is a factor that should be considered under the second step of the Connor Homes test. The Respondent argues that the Institute could not offer courses without instructors. This is not a relevant factor.
+[28] The integration test has essentially been dead for more than 30 years. I do not understand why, from time to time, the Crown continues to raise it as a factor in employee/independent contractor cases.
+[29] In Wiebe Door, the Federal Court of Appeal rejected the integration test on the basis that, when viewed from the payor’s perspective, the test tended to artificially skew the determination towards a conclusion that the worker was an employee. The Court reformulated the test into the overarching question “Whose business is it?” [16] The Court then went on to adopt, as a more appropriate characterization of the same test, the test set out in Market Investigations, Ltd. v. Minister of Social Security, [17] namely, “Is the person who has engaged himself to perform these services performing them as a person in business on his own account?” [18] In doing so, the Court effectively killed the integration test. The Federal Court of Appeal’s reasoning was adopted by the Supreme Court of Canada in Sagaz.
+[30] Based on all of the foregoing, there is no situation in which I would need to consider whether Mr. Barlow’s services were integral to the Institute’s business.
+D. Application of Connor Homes
+[31] Having determined the test that I am to apply, I will now apply that test to the facts in this appeal.
+[32] There were two witnesses at trial: Mr. Barlow and Peter Hohman. Mr. Hohman is the general manager of the Institute and the CEO of the Insurance Institute of Canada. I found both Mr. Barlow and Mr. Hohman to be credible. That said, while Mr. Hohman and Mr. Barlow both wanted the same outcome from the appeal, I found Mr. Hohman’s evidence to be more self-serving than that of Mr. Barlow. Where their evidence conflicted, I have preferred the evidence of Mr. Barlow.
+Common Intention
+[33] The parties agree that the Institute and Mr. Barlow shared a common intention that Mr. Barlow be an independent contractor. This intention was both evidenced in the contracts signed by the Institute and Mr. Barlow and in the testimony before me. There was no suggestion that Mr. Barlow had been coerced into signing the contracts or that he did not understand what it meant to agree to work as an independent contractor.
+[34] Given that common intention, I must now determine the extent to which the Wiebe Door and Sagaz factors are consistent with that characterization.
+Control
+[35] As set out above, Mr. Barlow teaches courses offered by the Institute. Students take the courses to prepare for a series of national exams that they must pass if they want to obtain the Certified Insurance Professional designation. The courses are not mandatory but the exams are. Some students prepare for the exams through self-study and the balance prepare using courses offered by the Institute or by one of its competitors.
+[36] Mr. Barlow is himself a Certified Insurance Professional and is employed in the insurance industry. He teaches courses for the Institute in the evenings and on weekends.
+[37] In the period in question, Mr. Barlow taught two different courses. One course was taught online and the other was taught in class. The online course was taught on a weeknight over eleven or twelve weeks for three hours per night and was offered three times per year. The in-class course was taught on two consecutive weekends. It too was offered three times per year.
+[38] Mr. Barlow entered into a new contract with the Institute for each course he taught. The Institute determined the schedule of courses that it wanted to offer in each term and then sought instructors for those courses. At some point in the past, Mr. Barlow would have had to look at the potential schedule and select the courses that he wanted to apply to teach on the basis of that schedule. However, as Mr. Barlow gained experience and reputation, the Institute began to take his availability into account as part of the schedule-setting process. I think it would be fair to say that, by the time the period in question had arrived, the Institute offered the two courses taught by Mr. Barlow at times that it knew Mr. Barlow was available and that Mr. Barlow had a reasonable expectation that he would be retained to teach those courses. That said, it is clear that the Institute could not compel Mr. Barlow to teach a given course or to teach at a given time. If he decided not to accept the work, it may have affected his ability to work in the future, but the choice was his.
+[39] Although the class hours were established by the contract, Mr. Barlow had the ability to change them slightly as circumstances required. He could, for example, start a class early or late one evening to accommodate his or his students’ needs. He did not need to seek permission from the Institute before doing so.
+[40] The content of the courses was dictated by the relevant exam for which the students were preparing. The Institute is a provincial branch of the Insurance Institute of Canada (the “National Institute”). The National Institute set the exams and provided a textbook and student resource guide for each exam. This allowed students who did not take courses through the Institute or other providers to prepare for the exams on their own. Since the exams were based on the textbooks, and the purpose of the courses taught by Mr. Barlow was to prepare the students for the exams, the content of the courses was effectively set by the content of the relevant textbook. I do not consider the fact that the Institute hired Mr. Barlow to teach a course containing certain content to be any more of an indication of control than my hiring a plumber to install a particular sink in a particular room in my house. The course content, like the sink type and location, are simply the parameters of the job.
+[41] Mr. Barlow had total control over how he taught the curriculum. The Institute neither reviewed his lesson plans nor monitored his teaching. He prepared the mid-term exam and any quizzes, classroom exercises and written assignments. This level of control is common with professionals and, in particular, with teachers, so I do not consider it to be an important indication of which party was exercising control.
+[42] The Institute did, however, exercise some control over the marking system used by Mr. Barlow. The contract required that the mid-term exam be worth 60% of the course mark and that it cover at least 50% of the textbook. The contract did not specify what part of the textbook was to be covered. Mr. Barlow decided how the remaining 40% of the marks were to be allocated. The Respondent places a great deal of emphasis on these restrictions. I do not find them to be that significant. I see this as little more than establishing the parameters of the job. I make a similar finding in respect of the requirement to submit mid-term exam marks and course marks by certain dates.
+[43] The contracts between the Institute and Mr. Barlow allowed either party to terminate their relationship for any reason on 14 days’ written notice and for the Institute to terminate the relationship for breach of the provisions of the contracts. I am not sure what to make of these termination provisions as, oddly, the contracts did not specify whether Mr. Barlow was to be paid in the event of termination and, if so, how that pay was to be calculated. Without this key information, I cannot tell whether the termination provisions resemble those of an employee or an independent contractor.
+[44] Pursuant to the contracts, Mr. Barlow was prohibited from making video or audio recordings of his classes without written consent from the Institute. The purpose of this provision was to ensure that an instructor could not take work that he or she has been paid for by the Institute and then make it available to others for a fee. Mr. Barlow is free to teach elsewhere and to use his lessons elsewhere but he cannot record the work that he is doing for the Institute and then sell that product elsewhere. I do not see this restriction as evidence of control on the part of the Institute. Rather I see it as evidence that the Institute was trying to ensure that it was not indirectly paying Mr. Barlow to enter into competition with it. Presumably the Institute would want to protect itself in this manner whether it was involved in an employment relationship or an independent contractor relationship with Mr. Barlow. In any event, Mr. Barlow indicated that he did, from time to time, record his online classes in advance and make them available to his students. He did this in situations where he knew that he would be unable to teach a specific lesson at the scheduled time. Mr. Barlow testified that he did not obtain permission before doing so.
+[45] The Respondent emphasizes that, pursuant to the contracts, the Institute had the right to audit and view Mr. Barlow’s classes. The Respondent submits that this shows a strong element of control. I disagree. The provision in question only comes into play if the Institute first received a formal written complaint from a student about Mr. Barlow and decided to investigate the complaint. This indicates that, in all other circumstances, the Institute did not have the right to audit or view Mr. Barlow’s classes. By setting out the unusual circumstances in which the Institute had this right, the parties have actually shown that, in normal circumstances, the Institute did not exercise control of the classroom.
+[46] I am troubled by certain portions of the contracts between the Institute and Mr. Barlow that read more like an employee handbook than a contract with an independent contractor. Prohibited behaviours included not eating in the classroom, not gossiping about the Institute, not teaching while under the influence of drugs or alcohol, not making discriminatory remarks, not engaging in harassment, not physically harming students, not having sexual relationships with students, not accepting bribes from students, not intentionally misleading students and not defaming the Institute, the Certified Insurance Professional program or the insurance industry. Taken as a whole, these restrictions amounted to one rule: act like a professional. If the contract had simply stated that Mr. Barlow was to act at all times in a professional manner, I would not have considered this to be of any significance. However, the fact that the Institute felt it was necessary to spell these terms out suggests a desire on the Institute’s part to maintain a higher level of control over Mr. Barlow’s actions. The list largely consists of behaviours that one would rarely see set out in a contract with an independent contractor. When hiring a plumber to fix my sink, I do not consider whether I need to include a provision in our agreement that the plumber is not to physically assault members of my household or be high on cocaine when doing the work. It is a given that, if the plumber does not behave professionally, I will terminate our contract. I am particularly troubled by the fact that the Institute’s contracts state that the instructor must not “contravene any other rules which may be put in place by the Institute from time-to-time”. [19] This open-ended provision suggests a significant desire on the part of the Institute to maintain control.
+[47] Mr. Barlow was paid at the end of each course. [20] This is strongly indicative of an independent contractor relationship. Employees do not typically accept payment once every three months.
+[48] I should also mention elements of control that were absent from the relationship. There were no annual reviews of Mr. Barlow’s performance. He did not attend staff meetings. While he was welcome to make use of a resource databank through which different instructors could share lesson ideas, he was neither required to contribute to the databank nor to make use of its resources.
+[49] Overall, I find the control factor to support neither an employee relationship nor an independent contractor relationship. While I am concerned about the level of control that the Institute appears to have tried to exercise through its detailed prohibitions, the reality is that most of those provisions amounted to little more than common-sense professionalism. I find this increased level of control is counterbalanced by the fact that Mr. Barlow was only paid every few months and had the ability to refuse work.
+Ownership of Tools
+[50] As set out above, much of Mr. Barlow’s teaching occurred online. When teaching online, Mr. Barlow worked from an area in his basement reserved for that activity. He connected to the internet using his laptop and internet connection and spoke to the students using a headset specifically acquired for this purpose.
+[51] Mr. Barlow used his laptop and his printer/scanner to prepare both his online and in-class lessons. He prepared and maintained ownership of all of the slides, handouts, worksheets and exercises he used in his lessons. As he taught the same classes session after session, he regularly reused these materials.
+[52] The Institute provided the textbook and student resource guide for the classes. In order to protect the integrity of the mid-term exam process, the Institute insisted that Mr. Barlow grant it ownership of any mid-term exam questions that he prepared. This did not, however, prevent Mr. Barlow from reusing those questions in future exams.
+[53] The Institute provided the facilities in which the classes were taught. The in-class lessons were taught in a classroom provided for that purpose at the Institute’s local offices. The online lessons were coordinated through the Institute’s website.
+[54] Overall, I find that the ownership of tools factor is neutral, favouring neither an employment relationship nor an independent contractor relationship. Both parties provide key tools necessary for the job.
+Chance of Profit
+[55] In my experience, the chance of profit factor is often where the challenges of applying the Connor Homes test are most evident and have the greatest potential to affect the outcome.
+[56] Mr. Barlow earned for each course a fee based on the number of students who registered. There was a sliding scale. Mr. Barlow was paid $1,680 for courses with 9 to 22 students, $1,735 for courses with 23 to 30 students and $1,935 for courses with 31 or more students. These fees covered Mr. Barlow’s teaching time as well as his preparation time and grading time. The scaled fees reflected the fact that classes with more students required more grading time.
+[57] The contracts described the fee as an “honorarium”. The Institute’s witness, Peter Hohman, also used this term. He described the instructors as “volunteers” who were teaching because they wanted to give back to the industry and give to the people coming up behind them. I do not accept these characterizations. [21] These were not professionals who volunteered their time to make a presentation at an industry conference or to mentor young professionals in their field. They were workers who were paid what appears to have been a reasonable amount for teaching. While the amounts paid may have been smaller than what the instructors earned in their full-time employment in the insurance industry, they could by no means be considered to have been merely a token of appreciation.
+[58] While there was some suggestion that Mr. Barlow could have hired an assistant to help him with marking mid-term exams, it seems unlikely that he would have done so. Similarly, while it may have been technically possible for Mr. Barlow to have subcontracted the work to another instructor, the reality is that on the rare occasions that this occurred it was more like two workers trading shifts than true subcontracting. The replacement instructor received exactly the same money that Mr. Barlow would have received. There was no profit element to the transaction. There was certainly no suggestion that Mr. Barlow could have entered into contracts to teach ten different courses and then subcontracted those courses out to other instructors at a reduced rate and made a profit from their labour.
+[59] Overall, I find that Mr. Barlow did not have a true ability to profit. Since his expenses were minimal, the only real way that Mr. Barlow could have earned more profit was by increasing his revenue. He had no control over the number of students that registered for his courses. He was not allowed to advertise his courses or encourage existing students in one course to sign up for another course that he would be teaching. The only way that he could increase his revenue was to teach more courses. The opportunity to work more is not a true chance of profit.
+[60] This is an excellent example of how the test in Connor Homes can be difficult to apply in practice. If I were looking at this factor from a purely objective standpoint, I would conclude that it favoured an employment relationship. However, since I am to apply a lower standard, I need to consider whether the Institute and Mr. Barlow acted and carried on their relationship in a manner that was similar to an independent contractor relationship.
+[61] Mr. Barlow has worked with the Institute since 2008. Initially he taught a variety of courses, but eventually he developed the experience and reputation needed to teach classes that were offered each term and that regularly attracted a high number of students. In doing so, he maximized the frequency of his contracts and the amount of his earnings. Once he had established himself as an instructor for these preferred courses, he worked hard to develop teaching precedents that would allow him to maximize his effective hourly rate. This is exactly the behaviour that one would expect from an independent contractor. Since Mr. Barlow now teaches the same courses session after session, his preparation hours are relatively low compared to his teaching hours. However, they are only low because years ago, when he first taught these courses, he invested considerable time developing his lesson plans and preparing each individual lesson. That up-front investment paid off. Since Mr. Barlow was paid by the course, not by the hour, his effective hourly rate when he first taught a course was likely less than minimum wage. Yet, years later, his investment allowed him to earn an effective hourly rate two to three times that amount. This is similar to a lawyer who builds a bank of precedents so that he or she can earn a higher effective hourly rate by working more efficiently. Using his or her precedents, he or she can prepare a $1,000 contract in one hour instead of three.
+[62] When the National Institute changed the textbook for one of his courses or the government changed the relevant insurance rules, Mr. Barlow had to update his lessons accordingly. However, the additional time that he spent doing so continued to benefit him in future courses. This risk of having a short-term decrease in his effective hourly rate is the same risk faced by a lawyer who, having agreed to prepare a contract for $1,000, later discovers that the client requires a unique and complicated provision that is not in the lawyer’s precedents. The lawyer’s effective hourly rate will be lower for that contract but his or her precedent system will grow and he or she will be able to be more effective the next time the issue arises.
+[63] Mr. Barlow did not increase his profits by taking on other clients or courses because he had a family and full-time employment. Mr. Barlow worked hard to make the most money in the time he had to devote to his teaching. The lack of growth in his profits was not due to a lack of entrepreneurship or a restriction on his ability to seek work from the Institute’s competitors.
+[64] In summary, while Mr. Barlow may not have had a true ability to profit, I find that he had an ability to increase his effective earnings through up-front investment and efficiencies in a manner similar to that of an independent contractor. He also had the ability to offer his services to competitors and to negotiate for a higher rate of pay. For these reasons, applying what I understand to be the Connor Homes test, I conclude that this factor favours a finding of an independent contractor relationship.
+Risk of Loss
+[65] Mr. Barlow did not face any realistic risk of financial loss. The expenses that he incurred for the tools that he provided were predominantly expenses that he would have incurred anyway in his personal life. He used his laptop, printer/scanner and internet connection for personal purposes as well. While he might have risked financial loss if he acquired a new laptop only to find that the Institute no longer wished to work with him, in my view the risk of this was relatively low, particularly when viewed over the long term.
+[66] This is another good example of how the test in Connor Homes can be difficult to apply in practice. If I were looking at this factor from a purely objective standpoint, I would conclude that it favoured an employment relationship. Mr. Barlow had been doing the same job for the Institute for more than ten years. His contracts were renewed regularly, his expenses were low and, accordingly, he faced little effective risk of loss. However, since I am to apply a lower standard, I need to consider whether the Institute and Mr. Barlow acted and carried on their relationship in a manner that was similar to an independent contractor relationship.
+[67] I find that the relatively minor risk of financial loss that Mr. Barlow faced is nonetheless consistent with the parties’ intention that he be an independent contractor. Mr. Barlow was not paid for cancelled classes despite his time spent preparing. If Mr. Barlow prepared for a class that was cancelled at the last minute because too few students registered or for any other reason, he had not only wasted his time, but had also lost the opportunity to contract to teach other classes in their place. Mr. Barlow was paid based on the number of students enrolled in his classes. If fewer students enrolled than anticipated, he made less money. While Mr. Barlow enjoyed steady work with the Institute, there was no obligation on the Institute to continue to work with him. While none of these things are true risks of financial loss, they do potentially represent a loss of Mr. Barlow’s time, an underpayment for his services or a complete loss of revenue. These things are similar to a risk of loss. For this reason, applying what I understand to be the Connor Homes test, I conclude that factor favours a finding of an independent contractor relationship.
+E. Conclusion
+[68] The overall question that I am to answer is whether Mr. Barlow was carrying on business on his own account? If I simply applied the Wiebe Door and Sagaz factors to the objective facts before me, I would conclude that Mr. Barlow was not carrying on business on his own account. Those factors, objectively applied, indicate that he was an employee. The control and ownership of tools factors are neutral but Mr. Barlow had no real risk of loss and no true ability to profit.
+[69] However, for there to be meaning to the two-step test in Connor Homes, a different test must be applied when the worker and the payor share a common intention. I conclude that because Mr. Barlow and the Institute shared a common intention, I am to apply a lesser standard and consider whether the Institute and Mr. Barlow acted and carried on their relationship in a manner that was similar to an independent contractor relationship. I find that they did. Mr. Barlow’s level of control, ownership of tools, risk of loss and chance of profit are similar to what one would expect from an independent contractor. He conducted his affairs in an entrepreneurial and business-like manner.
+[70] Based on all of the foregoing, the appeals are allowed and the matter referred back to the Minister on the basis that Mr. Barlow was an independent contractor in the periods in question.
+Signed at Ottawa, Canada, this 24th day of July 2020.
+“David E. Graham”
+Graham J.
+CITATION:
+2020 TCC 69
+COURT FILE NOS.:
+2019-2877(EI) 2019-2878(CPP)
+STYLE OF CAUSE:
+INSURANCE INSTITUTE OF ONTARIO v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 30, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+July 24, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Mark Tonkovich
+Counsel for the Respondent:
+Michael Ding
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mark Tonkovich
+Firm:
+Blake, Cassels & Graydon LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2013 FCA 85.
+[2] 2001 SCC 59 at para. 47.
+[3] Connor Homes at para. 39.
+[4] Connor Homes at para. 40.
+[5] 1986 CarswellNat 366.
+[6] Connor Homes at para. 40.
+[7] Connor Homes at para. 41.
+[8] Connor Homes at para. 42.
+[9] Connor Homes at para. 43.
+[10] 2014 TCC 267.
+[11] Porotti (TCC) at para 15.
+[12] Porotti (TCC) at para 15.
+[13] 2006 FCA 350 at para. 24.
+[14] Porotti (TCC) at para. 23.
+[15] Porotti v. The Queen, 2016 FCA 29 at para. 2.
+[16] Wiebe Door at para. 16.
+[17] [1968] 3 All E.R. 732 at 737-38.
+[18] Wiebe Door at para. 17.
+[19] Exhibit A-1, section 5.1.
+[20] There was no oral testimony on this point and the Minister did not make an assumption of fact about the frequency of payment. The contract between the Institute and Mr. Barlow is oddly silent on this point. The only evidence that I have is Mr. Barlow's answer to a question on a CRA questionnaire that was entered into evidence (Exhibit A-2). Mr. Barlow signed this questionnaire when he completed it. In direct testimony, he confirmed that his answers were accurate. He was not challenged on any of these answers on cross-examination. In the circumstances, it is the best evidence that I have of when he is paid.
+[21] I note that Mr. Barlow did not adopt any of these characterizations.

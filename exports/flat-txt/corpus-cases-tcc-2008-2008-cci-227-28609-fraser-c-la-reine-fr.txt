@@ -1,0 +1,129 @@
+Title: Fraser c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28609/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-227-28609-fraser-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-04-18
+
+# Fraser c. La Reine
+
+- Citation: 2008 CCI 227
+- Decision date: 2008-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1141, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fraser c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-18
+Référence neutre
+2008 CCI 227
+Numéro de dossier
+2007-3913(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3913(IT)I
+ENTRE :
+CRAIG FRASER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus à Vancouver (Colombie-Britannique), le 29 février 2008
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’appelante :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+Les appels à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci‑joints.
+Signé à Ottawa (Canada) ce 18e jour d’avril 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de juin 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI227
+Date : 20080418
+Dossier : 2007-3913(IT)I
+ENTRE :
+CRAIG FRASER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Les présents appels ont été interjetés à l’égard de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003. La question en litige est de savoir si l’appelant a le droit de déduire diverses sommes à titre de frais de déplacement, de frais d’activités de recherche et d’activités professionnelles et de frais d’utilisation du domicile pour le travail.
+Frais de déplacement
+[2] Depuis 1991, l’appelant travaille en tant qu’artiste indépendant dans l’industrie du divertissement et des médias. Tous ses revenus pour les années 2002 et 2003 provenaient de son travail d’artiste. Durant ces années, l’appelant a fait plusieurs voyages durant lesquels il a fait filmer de vidéos de lui‑même. Lorsque l’appelant a déclaré ses revenus pour les années 2002 et 2003, il a déduit, à titre de dépenses d’entreprise, les frais qu’il avait engagés durant ces voyages. Le ministre du Revenu national (le « ministre ») a conclu que l’appelant exploitait deux entreprises distinctes; la première, en tant qu’artiste, et la deuxième, en tant que réalisateur de documentaires. Le ministre a considéré tous les frais de déplacement comme des dépenses en capital, à l’exception des frais engagés lors du voyage à Whistler. Il a conclu que les frais de déplacement faisaient partie des coûts de réalisation des vidéos, et il a attribué ces frais à la catégorie 10 des biens amortissables. Le ministre a ensuite conclu que l’appelant n’avait pas droit à des déductions pour amortissement (les « DPA ») pour les années 2002 et 2003, parce qu’il n’avait pas tiré de revenu de son entreprise de réalisation durant ces années‑là. Le ministre a refusé la déduction demandée pour les frais de déplacement relatifs au voyage à Whistler en 2003 parce qu’il s’agissait d’un voyage personnel et que l’appelant n’avait pas réalisé de vidéo à cet endroit.
+[3] En 2002, l’appelant et son épouse ont dépensé 5 408 $ dans le cadre de voyages en Thaïlande, à Parry Sound (en Ontario), à San Juan Island (dans l’État de Washington) et en Floride. En 2003, l’appelant et son épouse ont dépensé 5 616 $ dans le cadre de voyages à Whistler, en Floride et au Costa Rica. À l’étape de la vérification, l’appelant a fait des déclarations à l’Agence du revenu du Canada (l’« ARC ») afin de démontrer que les frais de déplacement constituaient des dépenses d’entreprise. Dans les déclarations écrites qu’il a faites à l’ARC, l’appelant a affirmé avoir fait ces voyages pour filmer des documentaires de tourisme d’aventure et des séquences vidéo destinées à son site Web, Escape-TV.com. L’appelant a voulu déduire les frais que lui et son épouse avaient engagés pour chacun des voyages. L’appelant a dit que son épouse était la coanimatrice et la covidéaste des films réalisés grâce à ces voyages. Les documentaires se trouvant sur le site Web de l’appelant ont permis de corroborer ses dires pour tous les voyages sauf un, celui à Whistler. Lors de la vérification et au moment où l’ARC traitait l’avis d’opposition de l’appelant, le site Web Escape-TV.com ne contenait aucun documentaire réalisé à partir du voyage à Whistler. Toutefois, à l’audience, l’appelant a présenté en preuve un DVD comportant des séquences filmées lors de son voyage à Whistler.
+[4] L’appelant soutient qu’il n’exploitait qu’une seule entreprise, dans le domaine des médias et du divertissement, et que les frais de déplacement avaient été engagés pour tirer un revenu de cette entreprise. Il affirme aussi que les frais de déplacement constituaient des dépenses courantes.
+[5] Lors de l’audience, l’appelant est revenu sur la position qu’il avait préalablement prise devant l’ARC. Il a dit que ses voyages visaient deux objectifs relatifs à son entreprise. Le premier était la création d’une série de documentaires de voyage dans lesquels il s’illustrait en tant qu’artiste en tenant divers rôles. Il voulait commercialiser ces documentaires en tant que série d’aventure pour la télévision. Son deuxième objectif était d’acquérir des séquences filmées qui pourraient ensuite être intégrées dans diverses vidéos promotionnelles visant à faire valoir ses talents d’artiste. L’appelant a affirmé que ses tentatives de vendre sa série de documentaires d’aventure ont échoué.
+[6] L’appelant a expliqué qu’il lui est essentiel de démontrer qu’il a la formation, les aptitudes, l’habileté et l’expérience nécessaires à chaque emploi qu’il veut obtenir. Il a préparé du matériel de promotion pour chacun des domaines artistiques où il œuvre. À titre d’exemple, il a expliqué qu’il doit fournir le matériel de promotion suivant quand il cherche à obtenir un contrat en tant qu’animateur :
+- une photographie de 8 po sur 10 po sur laquelle il a l’apparence d’un animateur;
+- un curriculum vitae détaillé, visant particulièrement son expérience en tant qu’animateur, et sa formation et ses aptitudes spéciales se rapportant à ce type de travail;
+- une présentation vidéo ou une vidéo promotionnelle, de courte durée, montrant une série d’extraits vidéo tirés de son travail d’animation.
+Il a fait remarquer que comme Toronto et Los Angeles sont les centres d’embauche pour ce type de travail, la vidéo promotionnelle est l’outil principal qui permet d’obtenir un contrat pour ce type de travail. La vidéo promotionnelle de l’appelant comprend des séquences filmées lors des voyages qu’il a faits en 2002 et en 2003.
+[7] L’appelant a aussi affirmé qu’une grande partie du travail qu’il a obtenu depuis 2002 est attribuable au matériel de promotion de grande qualité qu’il a préparé pour chacun des domaines où il cherche à travailler. Il a ensuite donné de nombreux exemples de contrats qu’il a pu obtenir grâce à son matériel de promotion et des revenus qu’il a tirés de ceux‑ci. L’appelant n’a pas été contre‑interrogé quant à cette partie de son témoignage.
+[8] En considérant les frais de déplacement comme des dépenses en capital, le ministre a concédé que la réalisation de documentaires constituait une source de revenu pour l’appelant. Voir le paragraphe 57 de Stewart c. Canada, [2002] 2 R.C.S. 645, où la Cour suprême s’est ainsi exprimée :
+Il ressort clairement de ces dispositions que la déductibilité des dépenses présuppose l’existence d’une source de revenu et, partant, qu’elle ne doit pas être confondue avec l’examen préliminaire portant sur l’existence de cette source.
+Le ministre a aussi conclu que les voyages entrepris en 2002 et en 2003 avaient un objet commercial.
+Si j’avais eu à trancher cette question, je l’aurais peut-être fait de façon différente. L’argument voulant que les frais de déplacement aient constitué des frais personnels ou de subsistance n’a pas été soulevé de façon subsidiaire dans la réponse à l’avis d’appel.
+[9] Après examen de l’ensemble de la preuve, je conclus que, si les voyages de 2002 et de 2003 avaient un objet commercial, cet objet était la création de films qui allaient devenir des documentaires et des séquences dans les vidéos promotionnelles de l’appelant; il s’agit là des outils que l’appelant utilisait pour faire la promotion de ses services d’artiste. Dans les deux cas, les films constituaient des immobilisations et les frais de déplacement constituaient des dépenses en capital, parce que ces dépenses ont été engagées pour créer des biens de valeur durable. L’appelant a démontré que des séquences tirées des documentaires lui ont servi à tirer un revenu de son travail en tant qu’artiste œuvrant à son propre compte. L’appelant peut demander des DPA dans le calcul de ses revenus pour les années 2002 et 2003.
+[10] Je conclus aussi que le ministre a eu raison de refuser la déduction des frais engagés par l’appelant durant son voyage à Whistler. Le DVD que ce dernier a présenté a été fait après coup. À mon avis, le DVD a été fait seulement pour l’audience devant la Cour, et non pas dans le cadre de l’exploitation d’une entreprise.
+Frais d’activités de recherche et d’activités professionnelles
+[11] L’appelant avait demandé la déduction de 100 % de ses frais de télévision par câble et d’accès Internet à haut débit à titre de frais d’activités de recherche et d’activités professionnelles. Lors de l’audience, il était prêt à réduire sa demande à 75 % de ces frais. Il a affirmé qu’il n’aurait pas besoin d’un accès à Internet à haut débit et de la télévision par câble à trois niveaux s’il n’était pas un artiste. L’appelant se servait d’Internet pour présenter des demandes d’emploi. Il a affirmé qu’en tant qu’artiste, il regarde la télévision avec un point de vue différent de celui des personnes qui n’en sont pas. Il a dit que la télévision lui servait d’outil de formation, et que les frais de télévision par câble constituaient donc une dépense d’entreprise.
+[12] Toutefois, lorsqu’il a été contre-interrogé, l’appelant a dit s’être servi de la télévision pour regarder des évènements sportifs, plus particulièrement des parties de hockey des Canucks de Vancouver. Son épouse regardait aussi la télévision. La résidence ne comportait qu’une seule connexion à Internet, et l’appelant et son épouse utilisaient tous deux les ordinateurs. Toujours lors de son contre‑interrogatoire, l’appelant a reconnu avoir utilisé l’ordinateur aussi bien à des fins personnelles que pour exploiter son entreprise.
+[13] L’ARC a permis la déduction de 50 % des frais d’accès à Internet et de télévision par câble comme dépense d’entreprise; à mon avis, elle a ainsi fait preuve de générosité. L’appelant n’a pas présenté une preuve suffisante pour démontrer que la nouvelle cotisation était incorrecte. Les déclarations de l’appelant selon lesquelles il se servait uniquement de son ordinateur et de la télévision pour exploiter son entreprise étaient intéressées, et il les a contredites lorsqu’il a été contre‑interrogé à leur sujet.
+Frais d’utilisation du domicile pour le travail
+[14] L’appelant et son épouse vivent dans un appartement de deux étages se trouvant dans un immeuble en copropriété. L’appartement a une superficie de 1 066 pieds carrés et il comprend sept pièces, en comptant les salles de bains et les salles d’entreposage. L’appelant a déclaré que trois des pièces de l’appartement – qui représentent ensemble une aire de 433 pieds carrés, soit 40,6 % de la superficie de l’appartement – servaient exclusivement à l’exploitation de l’entreprise. Le ministre a établi une nouvelle cotisation au motif qu’il n’était pas raisonnable pour l’appelant, eu égard aux circonstances, d’affirmer que plus de 15 % de la superficie de l’appartement servaient à tirer un revenu d’une entreprise.
+[15] L’appelant, lorsqu’il a été contre-interrogé, a reconnu que chacune des pièces qui, selon ses dires, aurait servi exclusivement à l’exploitation d’une entreprise était aussi utilisée à des fins personnelles. Par exemple, le bureau servait aussi de chambre d’amis lorsque son épouse et lui hébergeaient des invités. L’épouse de l’appelant l’utilisait aussi quand elle s’y servait de l’ordinateur. La [TRADUCTION] « salle de répétition » et la [TRADUCTION] « salle d’entreposage » servaient aussi à entreposer des biens personnels. En fin de compte, l’appelant n’a pas démontré que la nouvelle cotisation était incorrecte.
+[16] L’appelant, dans son avis d’appel, a demandé à ce que les montants d’intérêts relatifs à l’impôt à payer pour chacune des années en cause fassent l’objet d’une renonciation. La Cour n’a pas la compétence pour renoncer aux montants d’intérêts relatifs à l’impôt. Le ministre peut, à sa discrétion, renoncer à ces montants en vertu du paragraphe 220(3.1) de la Loi. C’est au ministre que l’appelant doit présenter sa demande de renonciation aux montants d’intérêts.
+[17] Les appels sont accueillis, et l’appelant a droit aux DPA pour les années 2002 et 2003.
+Signé à Ottawa (Canada) ce 18e jour d’avril 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour de juin 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI227
+Nº DU DOSSIER DE LA COUR :
+2007-3913(IT)I
+INTITULÉ :
+Craig Fraser et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 29 février 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 18 avril 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Max Matas
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

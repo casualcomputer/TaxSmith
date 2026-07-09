@@ -1,0 +1,189 @@
+---
+title: "Mercier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25079/index.do"
+last_modified: "2006-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 310"
+citation2: ""
+neutral_citation: "2006 CCI 310"
+decision_date: "2006-06-08"
+language: "fr"
+item_id: "25079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2489
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:33:40.671000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "414f06422881803be532c5d4bf51f5a706babe1c6f77ae0ba2906002fd96ccdd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mercier c. La Reine
+
+- Citation: 2006 CCI 310
+- Decision date: 2006-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2489, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-08
+Référence neutre
+2006 CCI 310
+Numéro de dossier
+2005-1776(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1776(IT)I
+ENTRE :
+VIATEUR MERCIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 30 janvier 2006 à Québec (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Représentante de l'appelant :
+Diane Laverdière
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de juin 2006.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2006CCI310
+Date : 20060608
+Dossier : 2005-1776(IT)I
+ENTRE :
+VIATEUR MERCIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Ces appels ont été entendus selon la procédure informelle. Il s'agit d'appels de cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 2000, 2001 et 2002.
+[2] En utilisant la méthode de l'avoir net, le ministre du Revenu national (le « ministre » ) a ajouté aux revenus déclarés de l'appelant les montants de 32 867 $, de 14 452 $ et de 13 633 $ pour les années 2000, 2001 et 2002 respectivement. L'annexe A de la réponse à l'avis d'appel (la « réponse » ) fait état des calculs pertinents. Cette annexe a été produite en preuve comme pièce I-6.
+[3] À la suite de l'opposition de l'appelant, les montants ajoutés à ses revenus ont été réduits à 25 024 $ pour l'année 2000, à 11 482 $ pour l'année 2001 et à 9 366 $ pour l'année 2002. L'annexe B de la réponse fournit le détail de ces réductions, qui résultent de la diminution des dépenses personnelles pour chacune des années, notamment sous les rubriques « transport » , « loisirs et divertissements - jeux » et « coût du logement - vacances, voyages » . Pour l'année 2000, les dépenses personnelles ont aussi été réduites, notamment relativement à l'achat d'un ordinateur et d'un lecteur de disques compacts.
+[4] L'appelant et mesdames Laverdière et Hodgson ont témoigné. Madame Gagné, la vérificatrice, a témoigné pour l'intimée.
+[5] Au cours des années en question, l'appelant exploitait un bar appelé « Bar L'attraction Plus » qu'il avait acquis en 1997.
+[6] C'est en raison de l'absence de contrôle interne de l'entreprise et d'une tenue des livres adéquate que la vérificatrice a utilisé la méthode de l'avoir net. L'appelant a signé une renonciation à l'application de la période normale de nouvelle cotisation relativement à l'année 2000.
+[7] Au cours des années en question, l'appelant habitait avec madame Diane Laverdière à la résidence de celle-ci. Madame Laverdière était également la gérante du bar exploité par l'appelant et faisait la tenue des livres de l'entreprise depuis 2002.
+[8] Le bar exploité par l'appelant était un petit bar de quartier comptant environ 30 places. Il était ouvert sept jours par semaine, de 8 h du matin à 3 h du matin. Il était équipé d'une table de billard, de cinq appareils de vidéo poker et de quelques autres appareils de divertissement. L'appelant y possédait aussi un genre de guichet automatique privé appelé « DAB » , un coffre-fort et un appareil à monnaie. Ma compréhension est que le guichet automatique et l'appareil à monnaie étaient utilisés pour obtenir l'argent nécessaire au fonctionnement des appareils de vidéo poker et des autres appareils de divertissement. Selon l'appelant, les clients dépensaient environ 1 000 000 $ par année pour ces appareils, alors que le bar lui-même avait un chiffre d'affaires de 250 000 $ par année.
+[9] Madame Louise Gagné a débuté la vérification des activités de l'appelant le 9 décembre 2003 lors d'une communication téléphonique avec celui-ci et madame Laverdière au cours de laquelle elle a demandé les documents nécessaires à sa vérification. Le 7 janvier 2004, madame Gagné a rencontré l'appelant et madame Laverdière, d'abord au bar, puis à la résidence. Ceux-ci lui ont fourni certaines informations et remis un nombre limité de documents. À la suite de cette rencontre, madame Gagné a fait le suivi du dossier, principalement avec madame Laverdière, mais aussi avec les comptables externes de l'appelant, messieurs Dawson et Lavoie. Madame Gagné a rencontré à nouveau l'appelant et madame Laverdière pour obtenir des informations supplémentaires le 26 avril 2004, alors que l'appelant venait tout juste de vendre le bar. Madame Gagné a de nouveau communiqué avec madame Laverdière et avec les comptables de l'appelant en mai 2004.
+[10] À la suite de l'envoi de son projet de cotisation en mai 2004, madame Gagné a rencontré l'appelant et madame Laverdière au bureau du comptable Lavoie le 8 juin 2004. C'est ce dernier qui aurait sollicité cette rencontre. Au cours de cette rencontre, plusieurs points de désaccord ont été soulignés.
+[11] Alors que les démarches, les rencontres et les communications de madame Gagné au cours de sa vérification ont été consignées dans ses notes pour le dossier (formulaire T2020, pièce I-4), son rapport de vérification (pièce I-5) fait état des éléments du projet de cotisation contestés par l'appelant, madame Laverdière et le comptable Lavoie au cours de cette rencontre du 8 juin 2004. Comme les informations fournies lors des témoignages de l'appelant et de mesdames Laverdière et Hodgson diffèrent dans une certaine mesure de celles présentées à Madame Gagné lors de cette rencontre ou antérieurement, il importe de se référer directement au rapport de vérification de madame Gagné pour préciser les points en litige et la façon dont ils ont été traités en raison des informations obtenues. Je reproduis donc le point F du rapport de vérification de Madame Gagné (pièce I-5, p. 2 à p. 4) :
+F. DÉMARCHES DU CLIENT
+Suite à la remise du projet le comptable a sollicité une rencontre:
+Points en discussion (voir T2020 du 8 juin 2004) :
+$ en main: le comptable déclare que 30 000 $ correspond au montant nécessaire à titre de fond de roulement (tel que lui avait mentionné l'ancien propriétaire dont il faisait également la comptabilité) pour ce commerce. Je l'informe que ct m'a mentionné entre 15 000 $ et 18 000 $ qui sont placés dans le guichet privé (acquis en 2000) sans toutefois justifier la provenance de ces fonds, ni de somme pour les années antérieures à l'acquisition du guichet. De plus, pourquoi n'a t'il pas inclus un tel montant aux bilans produits (encaisse : seul le compte bancaire concilié affaires est considéré) puisqu'il déclare que cet $ était disponible depuis le début des opérations, avancé par ct ?
+Par contre Viateur lui a déclaré avoir vendu sa résidence principale et en avoir retiré 35 000 $ lors de son divorce, vers la fin des années 1980. Il aurait de plus touché environ 40 000 $ ($ forfétaire) de la CSST vers ces années (vu brièvement documents, non fournis). Nous avons toutefois noté, lors de l'étude de son compte bancaire, que ct détient un placement (valeur de + 50 000 $ en 2004). Ct interrogé à ce sujet n'avait pas spécifié précisément l'origine de ces fonds, mais avait mentionné que ça faisait longtemps. Nous pouvons penser qu'il s'agit du règlement de la CSST. Une dépense importante (acquisition automobile) a aussi été effectuée en 1992. Donc nous pouvons soulever un doute sur le montant $ en main en 1999.
+Prêts à des particuliers : On me remet une copie de 4 papiers (écrit de la main de la conjointe de ct) et datés de juin 2004 (voir P.J. 1) qui confirme divers prêts privés consentis par ct à des particuliers en 1999, pour un total de 12 000 $. Aucun contrat, aucun témoin, pas de modalités de remboursement indiquées, ni de preuves de déboursés et d'entrées d'argent tout aurait été fait au comptant. Interrogé il a été établi que 3 des [sic] ces 4 emprunts aurait [sic] été entièrement remboursés l'année suiviante [sic] (2000) et un finalisé en 2001.
+Pour toutes raisons nous avons établi $ en main (indiqué au bilan personnel) de la manière suivante afin de totaliser un solde d'ouverture de 30 000 $ d'argent en main tel qu'avancé par le comptable :
+1999
+2000
+2001
+2002
+encaisse
+18 000 $
+27 000 $
+30 000 $
+30 000 $
+Prêt à des
+Particuliers
+12 000 $
+2 500 $
+0 $
+0 $
+TOTAL
+30 000 $
+30 000 $
+30 000 $
+30 000 $
+Revenu non imposable pour 2000argent reçu de 2 enfants (majeurs) ayant habités [sic]à la maison et d'une amie ayant aussi habitée [sic]à la maison : ce fait n'a jamais été mentionné avant la rencontre avec le comptable, ni même lorsque le questionnaire de dépenses personnelles a été complété par la conjointe. Aucune preuve documentaire soumise à cet effet.
+Le comptable déclare pour ses clients qu'ils recevaient (en $ uniquement) 100 $/personne/semaine soit 300 $/semaine et 1 200 $/mois pour un total annuel de 15 000 $ par année. Aucune preuve pour appuyer ce point. Il demande dons [sic] une diminution de ce montant pour 2000. Interrogée madame Laverdière déclare que cette amie serait Johanne Hodgson justement une des personnes pour [sic] qui aurait contacté un emprunt après [sic] de ct en 1999 (5000 $). Nous pouvons penser qu'une partie de l'argent payé en 2000 consiste plutôt en remboursement de sa dette.
+Nous avons accordé 50% de ce montant à ct, soit 7 500 $ (pour fin de règlement) à titre de somme reçue des enfants logeant au domicile (redressement à l'avoir net) et ce, sur une simple affirmation
+Dépenses personnelles (épicerie):6 000 $ par an ont été indiqué à ce titre au questionnaire. Je demande une réévaluation de cette dépense étant donnée que l'on indique maintenant 5 adultes à la maison pour 2000. Le représentant déclare que cette dépense a été surestimée et qu'il faut réduire 2001 et 2002 à 3 000 $ et laisser l'année 2000 à 6 000 $.
+Selon Stats. Canada pour 5 adultes la dépense est plus de 8 000 $ et pour 2 adultes plus de 4 000 $. Je laisse donc le montant de 2000 inchangé (6000 $) et accorde aux dépenses personnelles de 2001 et 2002 une diminution totale de 2 000 $ par année, pour fin de règlement (le comptable a émis un bref commentaire sut [sic] le montant élevé des dépenses à quoi j'ai rétorqué qu'il s'agissait des montants évalués par cts eux-mêmes).
+Restaurants : ct avait indiqué 1 500 $ à titre personnel. Or les frais de représentation reportés au caisse-déboursé consistent en frais de restaurants. Après examen des pièces justificatives il appert qu'il s'agit de dépense [sic] personnelles (repas 2 personnes à proximité du commerce et résidence). Nous avons donc refusé cette dépense en ajoutant (pour chaque année) au montant indiqué par ct à titre personnel une somme afin de totaliser les frais reportés à cet égard (avant la régularisation de 50 % pour considérer la dépense totale réelle encourue et non la déduction fiscale). Le comptable est en désaccord il veut que le montant indiqué total corresponde au montant déduit. Nous maintenons notre position sur ce point pour représenter la dépense totale réellement encourue.
+Immobilisations : lors de la discussion il est dit que ct aurait acquis la télévision et l'ordinateur avec une intention affaires mais comme la télévision se faisait briser souvent au bar il l'aurait rapportée à la maison, pour son usage personnel, après 2-3 mois. Concernant l'ordinateur, même intention, sauf que madame Laverdière n'arrivait pas à maîtriser cet outil (elle l'a donc revendu à son fils) très peu de temps après l'acquisition. De plus la télévision a été livrée au domicile et ct n'a pu justifier ce point. Nous maintenons donc le projet (actifs indiqués au bilan personnel avec taxes et FNACC révisées) Le représentant demandait de nous accorder 50 %; il y a donc désaccord sur ce point.
+Concernant les automobiles nous indiquons la Cadillac (voir FT-2550) au bilan personnel puisque la TransAm est le véhicule qui est amorti aux fins affaires. D'un commun accord nous avons considéré que la vente et la réacquisition de véhicule aurait peu d'impact sur la FNACC et DPA allouée et avons ignoré ces transactions.
+Nous avons accordé les acquisitions suivantes (refusées au projet car non justifiées) pour fin de règlement : Réfrigération N.P. Inc. 1 500 $, Ameublement Tanguay (lecteur) 222 $ et une fontaine d'eau 229 $.
+[12] Le premier point en litige concerne le montant de l'encaisse sous forme d'argent liquide conservé au bar à la fin des années 1999, 2000, 2001 et 2002 aux fins des calculs de l'avoir net établis par madame Gagné. L'appelant prétend qu'il possédait 30 000 $ en argent liquide au bar pour le fonctionnement des appareils de vidéo poker et des autres appareils de divertissement. De plus, selon lui, il aurait consenti des prêts totalisant 12 000 $ de ses fonds personnels. On sait que madame Gagné, selon les premières informations obtenues de l'appelant, a considéré que l'encaisse sous cette forme s'élevait à 15 000 $, puis à 18 000 $, à la fin de chacune des années. Toutefois, en y ajoutant des prêts de 12 000 $ consentis par l'appelant à des clients ou à des amis en 1999, et dont 9 500 $ auraient été remboursés en 2000 et 2 500 $ en 2001, elle a en fait considéré que l'appelant avait un total de 30 000 $ en caisse à la fin de chacune des années 1999 à 2002. De cette façon, elle acceptait que l'encaisse en argent liquide pour le fonctionnement du bar était de 18 000 $, de 27 000 $, de 30 000 $ et de 30 000 $ pour chacune des années 1999, 2000, 2001 et 2002 respectivement. Cette concession a été faite par madame Gagné à la suite des observations présentées par le comptable Lavoie lors de la rencontre du 8 juin 2004. Or, comme l'a fait remarquer madame Gagné dans son rapport, la preuve de l'existence tant du montant d'argent liquide conservé au bar que des prêts consentis par l'appelant était plutôt mince, sinon inexistante. D'ailleurs, on se demande bien comment le comptable Lavoie pouvait avoir une connaissance personnelle du montant conservé par l'appelant en argent liquide à l'établissement de l'entreprise puisque, comme l'a constaté madame Gagné, aucune vérification à cet égard n'a été effectuée et que cet élément d'actif n'a jamais été inscrit aux bilans préparés par les comptables (voir également la pièce I-4, Notes pour le dossier, 11 mai 2004).
+[13] Lors de son témoignage, l'appelant a affirmé qu'il avait toujours eu 30 000 $ en argent liquide dans le bar pour faire fonctionner les différents appareils et que lorsqu'il avait un surplus, il le déposait à la banque. Madame Laverdière a, pour sa part, déclaré qu'il y avait un montant fixe de 30 000 $ dans le coffre du guichet automatique « DAB » pour servir les clients des appareils de vidéo poker. Par ailleurs, elle a produit en preuve une déclaration datant d'avril 2005, mais non signée de sa part, dans laquelle elle affirme que le coffre - je comprends qu'il s'agit toujours du guichet automatique « DAB » - contenait à lui seul 24 000 $ en argent liquide, en plus de 3 500 $ contenu dans l'appareil à monnaie et d'autres sommes sous forme de pièces de 2 $ et de billets de 50 $ et de 100 $ et ce, pour les années 1999, 2000, 2001 et 2002 (pièce A-2).
+[14] Dans cette même déclaration, madame Laverdière ajoute ceci :
+« Seulement Viateur, Johanne et moi avions accès au coffre « DAB » le matin avant l'ouverture du BAR. ۜ »
+[15] Madame Johanne Hodgson, qui a déclaré avoir habité chez madame Laverdière cinq ans et avoir travaillé au bar pendant six mois à raison de quelques heures par jour, sans toutefois pouvoir en préciser l'époque, a déclaré pour sa part qu'elle n'avait pas le numéro du coffre. Cependant, selon elle, chaque matin elle faisait non seulement le ménage, mais elle comptait aussi l'argent avec l'appelant et madame Laverdière. Elle a affirmé qu'elle avait toujours compté 30 000 $. On comprend difficilement qu'elle ait pu compter exactement 30 000 $ chaque matin alors que des sommes avaient forcément été retirées du coffre la journée précédente pour le fonctionnement des appareils de vidéo poker et des autres appareils de divertissement. D'ailleurs, tant l'appelant que madame Laverdière ont affirmé que les sommes conservées au bar en argent liquide étaient variables. Dans ce contexte, le témoignage de madame Hodgson, d'ailleurs confus et plutôt incohérent, me paraît peu crédible.
+[16] Madame Laverdière a aussi produit en preuve un document bancaire faisant état d'un placement de 30 000 $ en 1997, lequel aurait servi à rembourser un prêt bancaire d'un montant équivalent, dont le produit aurait constitué la somme en argent liquide nécessaire au fonctionnement des appareils de vidéo poker (pièce A-6). Ce document n'établit aucunement l'utilisation du produit d'un prêt dont on ne sait même pas quand il aurait été consenti. L'existence d'une relation entre le montant du prêt et les sommes détenues en argent liquide à la fin de chacune des années d'imposition 1999 à 2002 n'a tout simplement pas été démontrée.
+[17] Somme toute, confronté à des versions différentes présentées à madame Gagné et lors de l'audition ainsi qu'à des déclarations peu crédibles, j'estime que les conclusions de madame Gagné en ce qui concerne le montant détenu en argent liquide par l'appelant pour l'exploitation de son entreprise à la fin de chacune des années de 1999 à 2002 et en ce qui concerne le montant des prêts qu'il aurait consentis ainsi que leur remboursement sont plutôt généreuses et qu'il n'y a donc pas lieu de les modifier.
+[18] Le deuxième point en litige concerne l'argent qui aurait été versé à madame Laverdière par deux de ses enfants ainsi que par madame Hodgson alors qu'ils habitaient à la maison. Madame Laverdière a affirmé qu'elle avait reçu 100 $ par semaine de chacune des trois personnes en 1999, en 2000 et en 2001 jusqu'au 1er juillet, et elle a produit des déclarations signées par ces personnes pour attester ce fait (pièce A-1). Toutefois, seule madame Hodgson a témoigné.
+[19] Madame Laverdière prétend donc avoir reçu 15 000 $ en 2000 et 7 500 $ en 2001 à titre de pension payée par ses deux enfants par madame Hodgson qui habitaient chez elle, ce qui devrait réduire d'autant le montant des dépenses personnelles établi par madame Gagné.
+[20] Dans son rapport, madame Gagné a noté que ces faits ont été portés à son attention pour la première fois au cours de la rencontre du 8 juin 2004, ce qui était assez étonnant compte tenu des nombreuses communications avec madame Laverdière au cours des mois précédents et du fait qu'elle avait rempli elle-même le questionnaire concernant les dépenses personnelles et familiales dès leur première rencontre, le 7 janvier 2004 (pièce I-3).
+[21] Toutefois, il y a plus. Lorsque les faits concernant les montants payés à madame Laverdière par ses enfants et par madame Hodgson ont été révélés à madame Gagné, lors de la rencontre du 8 juin 2004, il n'était question que de sommes reçues totalisant 15 000 $ au cours de l'année 2000 et non de sommes additionnelles de 7 500 $ reçues au cours de l'année 2001, comme en font foi ses notes pour le dossier (pièce I-4) et son rapport de vérification (pièce I-5). Compte tenu de ces faits qu'on lui présentait pour la première fois, la réaction de madame Gagné a été de vouloir augmenter les dépenses personnelles, notamment pour l'épicerie, puisqu'elle apprenait qu'il y avait eu cinq personnes et non pas deux seulement qui habitaient à la résidence de madame Laverdière au cours de l'année 2000. La réponse du comptable Lavoie qui représentait l'appelant a plutôt été de vouloir faire diminuer les dépenses personnelles pour 2001 et 2002, comme l'indique le rapport de vérification de madame Gagné (pièce I-5). Finalement, à des fins de règlement, celle-ci a accepté de réduire les dépenses personnelles de 7 500 $ pour l'année 2000, soit la moitié de la somme qui aurait été reçue par madame Laverdière de ses enfants et de madame Hodgson au cours de cette année, tout en laissant le montant des dépenses d'épicerie inchangé à 6 000 $. Selon son rapport de vérification, madame Gagné aurait toutefois diminué l'ensemble des dépenses personnelles de 2 000 $ pour chacune des années 2001 et 2002 à des fins de règlement (pièce I-5). En réalité, dans le calcul de l'écart par l'avoir net, c'est pour chacune des années 2000, 2001 et 2002 que les dépenses ont été réduites de 2 000 $ (pièce I-6, pages 13, 16 et 19). Je souligne de plus que pour l'année 2000, madame Gagné a oublié de reporter à la rubrique « sous-total - autres » et donc au « grand total » des dépenses personnelles acquittées par chèque totalisant 8 349,67 $ (pièce I-6, page 19). Le total des dépenses personnelles pour l'année 2000 est donc sous-évalué d'autant.
+[22] On peut constater que la version des faits présentée lors de la rencontre du 8 juin 2004 est, ici encore, différente de la version présentée lors de l'audition, puisqu'il n'était initialement question que de l'argent reçu par madame Laverdière de ses deux enfants et de madame Hodgson au cours de l'année 2000. Bien que madame Hodgson ait confirmé le témoignage de madame Laverdière lors de l'audition, le fait que deux versions différentes des faits aient été présentées à deux époques différentes en ce qui concerne l'année 2001 soulève un doute sérieux quant à la crédibilité que je dois accorder au témoignage, d'autant plus que la version présentée à la vérificatrice, lors de la rencontre du 8 juin 2004, a déjà entraîné des réductions aux montants des dépenses personnelles, comme je l'ai expliqué plus haut.
+[23] Ainsi, compte tenu du fait que madame Gagné a déjà réduit de 7 500 $ le montant des dépenses personnelles pour l'année 2000 au titre de l'argent reçu des enfants et de madame Hodgson du montant de 15 000 $ réclamé à cet égard, que le total des dépenses personnelles a, de plus, été réduit de 2 000 $ supplémentaires et enfin qu'une simple erreur de calcul a eu pour effet de sous-évaluer de 8 349,67 $ les dépenses personnelles, je ne suis pas disposé à apporter de rajustement additionnel pour cette année.
+[24] En ce qui concerne l'année 2001, on sait que le total des dépenses a déjà été réduit de 2 000 $, à titre de réduction générale, à la suite des observations présentées à la vérificatrice lors de la rencontre du 8 juin 2004. Compte tenu des versions différentes et contradictoires des faits présentées à ce moment et lors de l'audition, le doute soulevé quant à la « vraie » version me porte à conclure qu'aucun rajustement additionnel ne doit être apporté.
+[25] Le troisième point en litige concerne un téléviseur et un meuble pour le soutenir acquis le 13 décembre 2000 au coût de 4 702,17 $ et livrés à la résidence de l'appelant et de madame Laverdière le 19 décembre 2000. La vérificatrice, madame Gagné, a vu le téléviseur à la résidence lors de sa visite du 7 janvier 2004 et elle a classé ce bien comme élément d'actif au bilan personnel de l'appelant et non au bilan de l'entreprise. Dans son rapport, madame Gagné a noté que l'appelant n'avait pas pu expliquer pourquoi le téléviseur avait été livré à la résidence plutôt qu'à l'établissement de l'entreprise. Lors de l'audition, tant madame Laverdière que l'appelant ont affirmé que le téléviseur avait été livré à la résidence car ils attendaient qu'un support ou un trépied métallique soit installé au bar pour le mettre à cet endroit. Lorsque cela fut fait, l'appelant et un ami y auraient alors transporté le téléviseur et le meuble. Madame Laverdière ainsi que madame Hodgson ont toutes deux affirmé que le téléviseur était au bar durant la période des fêtes. Toutefois, endommagé à deux reprises par les clients, le téléviseur aurait été rapporté à la résidence pour usage personnel après deux ou trois mois, selon l'information communiquée à madame Gagné lors de la vérification (pièce I-5). Lors de l'audition, madame Laverdière a affirmé que le téléviseur avait été placé au bar durant une période de cinq à six mois avant d'être rapporté définitivement à la résidence. Une fois de plus, les différentes versions fournies par l'appelant et madame Laverdière me font douter de la véracité de leurs témoignages. De plus, il n'a jamais été démontré que le téléviseur a été inscrit au bilan de l'entreprise et que l'appelant a réclamé une déduction pour amortissement. Enfin, comme le téléviseur a été, selon les premières déclarations faites à madame Gagné, converti au terme d'une très courte période en un bien à usage personnel, j'estime que le classement de ce bien dans l'actif personnel de l'appelant peut se justifier dans les circonstances.
+[26] La quatrième question en litige concerne des dépenses de restaurant de 4 247 $, de 2 987 $ et de 5 667 $ ajoutées aux dépenses personnelles de l'appelant pour chacune des années 2000, 2001 et 2002 respectivement. L'appelant avait réclamé 50 % de ces montants comme frais de représentation (pièce I-6, pages 2, 11, 14 et 17). La raison avancée par madame Gagné dans son rapport pour considérer ces dépenses comme des dépenses personnelles est que l'analyse des pièces justificatives démontrait que ces dépenses étaient pour des repas pour deux personnes dans des restaurants situés à proximité du commerce ou de la résidence.
+[27] Lors de l'audition, madame Laverdière a affirmé que les dépenses de restaurant étaient faites pour des « parties » pour les employés ou à l'occasion de leur anniversaire, ou encore avec des clients qu'on désirait choyer, puisqu'on ne faisait pas de promotion du genre « 5 à 7 » , au bar. Madame Hodgson a, pour sa part, déclaré que l'appelant faisait livrer des repas par des restaurants pour ces « parties » . Aucun détail supplémentaire n'a été fourni et aucune pièce justificative avec explication pertinente n'a été produite. J'estime que la preuve apportée est insuffisante pour me permettre de modifier les cotisations concernant ces dépenses de restaurant. Je rappelle également que le total des dépenses personnelles a été réduit de 2 000 $ par année à des fins de règlement par madame Gagné.
+[28] La cinquième question en litige concerne un montant de 500 $ qui a été considéré par madame Gagné comme une dépense personnelle pour des cadeaux en argent et des contributions pour chacune des années 2000, 2001 et 2002 (pièce I-6, pages 12, 15 et 18). L'ajout de ce montant à chaque année est conforme au montant indiqué par madame Laverdière elle-même en réponse au questionnaire sur les dépenses personnelles qu'elle a elle-même complété le 7 janvier 2004 (pièce I-3, page 5).
+[29] Lors de l'audition, madame Laverdière a affirmé que ce montant faisait partie des montants facturés par cartes de crédit, mais elle n'a apporté aucune preuve à cet égard. Il n'y a donc pas lieu de modifier les cotisations concernant cet élément.
+[30] La sixième et dernière question en litige concerne la vente d'une automobile de marque Cavalier de l'année 1989. Madame Laverdière a affirmé avoir vendu cette automobile en 2002 pour 1 500 $. Selon madame Laverdière, l'acheteur aurait été un client du bar. Elle a produit un document attestant ce fait signé par le beau-frère de l'acheteur (pièce A-3). La vente aurait été effectuée par l'intermédiaire d'un « garage » qui aurait accepté l'automobile en consignation et qui aurait pris un profit lors de la vente. Ce fait n'a pas été considéré par madame Gagné puisqu'on ne lui en avait pas fait part lors de sa vérification. En l'absence d'informations additionnelles concernant le coût et l'année de l'acquisition, le montant de la commission versée au garage lors de la vente ainsi que le montant du gain ou de la perte selon le cas, il n'est pas possible de conclure que cette vente pourrait contribuer à une réduction de la cotisation pour l'année 2002.
+[31] En conséquence de ce qui précède, les appels des cotisations établies pour les années d'imposition 2000, 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour de juin 2006.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2006CCI310
+No DU DOSSIER DE LA COUR :
+2005-1776(IT)I
+INTITULÉ DE LA CAUSE :
+Viateur Mercier c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 30 janvier 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 8 juin 2006
+COMPARUTIONS :
+Représentante de l'appelant :
+Diane Laverdière
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

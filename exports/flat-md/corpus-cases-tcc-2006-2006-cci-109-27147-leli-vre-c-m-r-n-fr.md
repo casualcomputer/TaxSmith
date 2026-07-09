@@ -1,0 +1,338 @@
+---
+title: "Lelièvre c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27147/index.do"
+last_modified: "2006-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 109"
+citation2: ""
+neutral_citation: "2006 CCI 109"
+decision_date: "2006-03-10"
+language: "fr"
+item_id: "27147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1016
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:49:17.891000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6719650da8f543b125ac90941ed9e3138a3f3ed444322cccf415c7402e1d23c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lelièvre c. M.R.N.
+
+- Citation: 2006 CCI 109
+- Decision date: 2006-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1016, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lelièvre c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-10
+Référence neutre
+2006 CCI 109
+Numéro de dossier
+2004-102(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-102(EI)
+ENTRE :
+MICHEL LELIÈVRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LE HOMARDIER D'ANTICOSTI INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu avec l'appel d'Anne-Marie Lelièvre (2004-101(EI))
+le 19 janvier et le 18 avril 2005 à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocats de l'appelant :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteure de la plaidoirie écrite)
+Avocate de l'intimé :
+Me Anne Poirier
+Avocats de l'intervenante :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteure de la plaidoirie écrite)
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté au motif que le travail exécuté par l'appelant pour le bénéfice de l'intervenante pendant la période en question est exclu des emplois assurables, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI109
+Date : 20060310
+Dossier : 2004-102(EI)
+ENTRE :
+MICHEL LELIÈVRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LE HOMARDIER D'ANTICOSTI INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision rendue le 30 septembre 2003 par le ministre du Revenu national (le « ministre » ) et portant sur l'assurabilité du travail exécuté du 13 mai 2001 au 4 août 2001 et du 5 mai 2002 au 27 juillet 2002 par l'appelant auprès de la société Le Homardier D'Anticosti inc.
+[2] Aux termes de la détermination dont il est fait appel, l'intimé a conclu que le travail exécuté par l'appelant devait être exclu des emplois assurables en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ), le ministre étant convaincu qu'il n'était pas raisonnable de conclure, compte tenu de toutes les circonstances, que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable, n'eût été du lien de dépendance.
+[3] Le fondement juridique de la détermination étant l'alinéa 5(2)i) de la Loi, il y a lieu de reproduire le texte de cet alinéa :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[4] À l'appui de sa détermination, l'intimé a tenu pour acquis les hypothèses de fait suivantes :
+14.a) durant les périodes en litige, les actionnaires du payeur avec droit de vote étaient :
+l'appelant
+Anne-Marie Lelièvre
+John Pineault
+34 actions votantes
+33 actions votantes
+33 actions votantes
+b) l'appelant est l'époux de Anne-Marie Lelièvre.
+c) l'appelant est membre d'un groupe lié qui contrôle le payeur;
+15.a) le payeur a été constitué en société le 1er mai 2001;
+b) le payeur effectuait la pêche au homard et possédait deux bateaux, l'un de 25 pieds pour la pêche en eau peu profonde et l'autre de 35 pieds;
+c) la pêche au homard s'étendait de la mi-mai à la fin de juillet, sur un seul bateau à la fois;
+d) depuis 1998, l'appelant était propriétaire du droit d'utilisation exclusif d'un permis de pêche au homard qui était évalué à 50 000 $;
+e) avant la constitution du payeur, l'appelant était propriétaire unique de l'entreprise de pêche au homard sous la raison sociale de « Les pêcheries d'Anticosti enr » ;
+f) lors de la création du payeur, l'appelant a transféré les bateaux, les équipements, les cages et le droit de pêche au payeur en retour d'actions de catégorie E non votantes;
+g) l'appelant est le seul administrateur du payeur;
+h) en 2001, les revenus bruts du payeur totalisaient 62 569 $ résultant à des pertes de 23 731 $ et en 2002, les revenus bruts totalisaient 43 138 $ résultant à des pertes de 36 440 $;
+i) durant les périodes en litige, l'appelant était aussi actionnaire unique de Location AML Inc.;
+j) Location AML Inc. exploitait une entreprise de location de véhicules à l'Île d'Anticosti et une activité secondaire de transport scolaire avec la Commission scolaire du Fer;
+k) l'appelant travaillait comme aide-pêcheur pour le payeur;
+l) l'appelant ne participait pas à toutes les sorties en mer, souffrant de maux de dos;
+m) le 29 mai 2001, Denis Jean, chiropraticien, émettait un certificat d'incapacité à l'appelant pour la période du 1er juin au 1er août 2001;
+n) le 1er juin 2001, Pêches et Océans Canada émettait un certificat d'autorisation temporaire d'absence à l'appelant;
+o) le 10 avril 2002, Denis Jean, chiropraticien, émettait un certificat d'incapacité à l'appelant;
+p) le 22 mai 2002, Pêches et Océans Canada émettait un certificat d'autorisation temporaire d'absence à l'appelant;
+q) l'appelant décidait lui-même de son emploi du temps pour le payeur;
+r) durant les périodes en litige, lorsque l'appelant ne sortait pas en mer, il travaillait pour Locations AML Inc. de 1 à 5 jours par semaine;
+s) en 2001, l'appelant recevait, pour toute la durée de la période de pêche, une rémunération de 750 $ par semaine du payeur pour 12 semaines consécutives;
+t) en 2001, John Pineault et Marc Beaudin travaillaient pour le payeur;
+u) en 2001, John Pineault et Marc Beaudin recevaient du payeur la même rémunération que celle versée à l'appelant et pour la même période;
+v) en 2002, l'appelant recevait, pour toute la durée de la période de pêche, une rémunération de 750 $ par semaine du payeur pour 12 semaines consécutives;
+w) en 2001 John Pineault, Kavin Martin et Richard Methot travaillaient pour le payeur;
+x) en 2002, John Pineault, Kavin Martin et Richard Methot recevaient du payeur la même rémunération que celle versée à l'appelant et pour la même période;
+y) l'appelant recevait la même rémunération que les autres pêcheurs qui participaient à chaque sortie en mer alors que l'appelant ne sortait pas en mer plusieurs jours par semaine;
+z) la rémunération de l'appelant pour le payeur était déraisonnable compte tenu qu'il ne participait pas à toutes les sorties en mer;
+aa) durant la période de pêche au homard, la société Locations AML Inc. était en activité;
+bb) durant les périodes en litige, l'appelant rendait des services à Locations AML Inc. jusqu'à 5 jours par semaine;
+cc) durant les périodes en litige, l'appelant ne recevait pas de rémunération de Location AML Inc.;
+dd) avant et après les périodes en litige, l'appelant coupait du bois, fabriquait des cages et réparait les équipements du payeur, sans recevoir de rémunération du payeur pour ses services;
+ee) le 10 août 2001, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 13 mai 2001 et comme dernier jour de travail le 4 août 2001, et qui indiquait 960 heures assurables et 9 000,00 $ comme rémunération assurable;
+ff) le 29 juillet 2002, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 5 mai 2002 et comme dernier jour de travail le 27 juillet 2002, et qui indiquait 900 heures assurables et 9 000,00 $ comme rémunération assurable;
+gg) l'appelant signait lui même ses propres relevés d'emploi;
+hh) les périodes prétendument travaillées par l'appelant ne correspondaient pas avec les périodes réellement travaillées;
+ii) les relevés d'emploi du payeur ne sont pas conformes quant aux heures réellement travaillées ni quant aux périodes réellement travaillées par l'appelant;
+jj) le payeur n'aurait pas accordé de telles conditions d'emploi à l'appelant sans le lien de dépendance.
+[5] L'intimé a aussi admis certains faits énumérés à l'avis d'appel. Il s'agit des faits suivants :
+1. Le Homardier d'Anticosti inc. (ci-après le « Payeur » ) exploite une entreprise de pêche aux homards sur l'Île d'Anticosti.
+2. L'Entreprise est en exploitation depuis 1998, son incorporation n'a toutefois eu lieu qu'en mai 2001. Les trois (3) actionnaires de l'Entreprise sont l'Appelant, Anne-Marie Lelièvre, conjointe de l'Appelant et John Pineault, chacun détenant 33,33% des actions.
+3. Le Payeur possède deux (2) bateaux de pêche, un de 26 pieds et un autre de 35 pieds, et tout l'attirail de pêche nécessaire pour mener ses activités, dont 500 casiers, soit 300 à l'eau et 200 en réserve.
+4. La saison de pêche s'étend de la mi-mai à la dernière semaine de juillet, soit durant environ 11 semaines au total.
+5. Le Payeur emploie quatre (4) pêcheurs, soit l'Appelant, John Pineault, Kaven Martin et un quatrième aide-pêcheur, soit Marc Beaudin en 2001 et Richard Méthot en 2002.
+[...]
+9. Durant la saison de pêche, le Payeur loue un chalet afin de loger les pêcheurs à la semaine longue puisque la zone de pêche est située à plus de 85 km du village.
+[...]
+16. Au cours d'une saison de pêche qui dure soixante-quinze (75) jours, le Payeur ne peut se permettre de perdre une seule journée.
+[...]
+19. Présentement, l'entreprise du Payeur est déficitaire (perte de 23 728 $ en 2001 et de 36 440 $ en 2002).
+[...]
+22. L'Appelant est titulaire du permis de pêche depuis 1998, il pêche pour l'entreprise depuis ce temps.
+23. Depuis 2001, l'Appelant éprouve de sérieux problèmes de dos qui l'empêchent de naviguer chaque jour.
+24. Pêches et Océans Canada exige qu'il soit aussi le capitaine; comme il ne peut être à bord du bateau à chaque sortie en mer, il a dû déléguer la fonction de capitaine à John Pineault.
+25. Un certificat médical du Dr. Denis Jean, chiropraticien, est d'ailleurs transmis annuellement à Pêches et Océans Canada à cet effet. Le mal de dos de l'Appelant est relié au déséquilibre que provoquent les vagues.
+[...]
+[6] Lorsqu'il existe un lien de dépendance entre le payeur et celui ou celle qui exécute le travail, le travail exécuté est exclu des emplois assurables à moins que les faits pertinents démontrent que le travail a été exécuté de façon comparable ou similaire à ce qu'il aurait été en l'absence d'un lien de dépendance.
+[7] L'exclusion n'est cependant pas absolue. En vertu de l'alinéa 5(2)i) de la Loi, le travail qui, en principe, est exclu des emplois assurables à cause du lien de dépendance peut, à certaines conditions, être réputé sans lien de dépendance, devenant ainsi un travail assurable, si les faits démontrent que, compte tenu de toutes les circonstances, notamment la rétribution versée, la durée, les modalités d'emploi, il s'agissait d'un travail exécuté dans des conditions similaires à une situation où il n'y aurait pas de lien de dépendance.
+[8] L'exception est prévue à l'alinéa 5(3)b), qui se lit comme suit :
+(3) Pour l'application de l'alinéa (2)i) :
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+Les faits
+[9] Le Homardier d'Anticosti inc., pendant les périodes en question, était une société dont la vocation était la pêche aux homards. Cette pêche débutait à la mi-mai et se terminait à la fin juillet. L'appelant y travaillait comme aide-pêcheur. À compter de 2002, il a dû modifier la nature de son travail à cause de problèmes de dos.
+[10] Parallèlement au travail lié à la pêche, l'appelant, en sa qualité d'unique propriétaire de l'entreprise Location AML inc., s'occupait également de la bonne marche de cette entreprise, bien que sa conjointe y jouait un rôle fort important. La société Location AML inc. exploitait une franchise dont la vocation était la location de camions sur l'île d'Anticosti.
+[11] Selon l'appelant, malgré la distance qui séparait le port ou la zone de pêche et l'entreprise de location, il était possible d'entrer en communication rapidement et efficacement par radio ou téléphone cellulaire.
+[12] La preuve a démontré d'une manière non équivoque que l'appelant jouissait d'une très grande autonomie quant à son emploi du temps. Actionnaire unique de la société Location AML inc., il consacrait une partie de son temps à la bonne gestion de cette entreprise en retour de quoi il ne recevait par contre aucune rémunération.
+[13] Les activités liées à la pêche avaient lieu à un endroit relativement éloigné de la place d'affaires et du centre névralgique de la communauté insulaire. En effet, un trajet de plus d'une heure était nécessaire pour se rendre à l'endroit où étaient amarrés les bateaux et où était entreposé le matériel de pêche.
+[14] En substance, l'appelant était à la tête de deux entreprises, l'une était engagée dans la pêche aux homards et l'autre dans la location de camions.
+[15] La période de location des camions commençait à la mi-juin. Un travail de préparation tel la réception des camions, la mise en place de l'organisation, la gestion des réservations, etc., devait être fait avant le début des activités de location.
+[16] Pour mieux comprendre le fonctionnement de cette entreprise, il faut savoir que tous les camions à louer étaient retournés sur le continent à la fin de la saison; le traversier qui fait la liaison entre l'île d'Anticosti et le continent les ramenait sur l'île au printemps. Comme le traversier avait une capacité réduite, les camions étaient transportés à raison de quelques-uns à la fois par voyage de traversier et ce, selon les besoins de l'entreprise. Quelqu'un devait se rendre au quai pour y prendre les camions et les conduire à la place d'affaires de la société, et cela, à chaque arrivée.
+[17] La période de juin et juillet étant manifestement exigeante, l'appelant a soutenu qu'il partageait sa disponibilité pour le bon fonctionnement des deux entreprises même si, selon les relevés d'emploi qu'il a lui-même signés, il a travaillé 80 heures par semaine en 2001 et 75 heures par semaine en 2002 et 2003 pour l'entreprise de pêche.
+[18] L'appelant avait deux co-actionnaires, en l'occurrence Anne-Marie Lelièvre, sa conjointe et John Pineault, qui détenaient chacun 33.33 % des actions de la société Le Homardier d'Anticosti inc.
+[19] Quant à l'autre entreprise, l'appelant était propriétaire de la totalité des actions, ce qui lui permettait de faire ce qu'il voulait quand il voulait, bien que sa conjointe assumait d'importantes responsabilités au point où, dans les faits, elle participait à la gestion de l'entreprise comme si elle en avait été co-propriétaire.
+[20] L'appelant était le seul maître de son emploi du temps et c'était lui qui décidait de la nature du travail à effectuer. Tout au long de son témoignage, il s'est exprimé d'ailleurs comme s'il avait été seul actionnaire.
+[21] La preuve présentée devant la Cour a notamment mis en lumière les faits suivants :
+· Un certificat médical permettait à l'appelant d'avoir le statut de pêcheur sans pour autant participer aux activités de pêche en mer. Un compagnon de travail de l'appelant très engagé dans les activités de pêche ne connaissait pas l'incapacité physique de l'appelant. Quant au capitaine, qui était propriétaire de 33 % des actions, il n'a pas témoigné.
+· L'appelant signait des constats de dommages, des factures et des chèques pour l'entreprise Location AML inc., dont il était l'unique actionnaire bien que les relevés d'emploi indiquaient que l'appelant travaillait de 70 à 80 heures par semaine pour la société de pêche.
+· L'appelant se trouvait souvent à l'entreprise de location.
+· Monsieur Richard Méthot, également rétribué comme pêcheur, a affirmé n'avoir jamais eu connaissance des problèmes de dos de l'appelant pour lesquels il avait obtenu un certificat d'exemption.
+· Les activités de pêche étaient déficitaires au point où la société Location AML inc. était régulièrement mise à contribution pour renflouer l'entreprise de pêche.
+· Bien qu'il s'agissait de deux entités juridiques distinctes, l'appelant avait une très grande liberté pour faire ce qu'il voulait. Il a ainsi été possible de constater que certains employés avaient travaillé pour les deux entités, mais qu'ils étaient rémunérés par une d'entre elles seulement. Les deux entreprises agissaient selon le principe des vases communicants.
+· Dans un premier temps, la société dans laquelle l'appelant détenait la totalité des actions, soit « Les Locations AML inc. » , était régulièrement appelée à contribuer financièrement au renflouement de la société de pêche aux homards dont les activités étaient déficitaires. Ces participations financières ponctuelles lui conféraient un droit de regard prépondérant sur les autres actionnaires au point où la société n'avait ni le droit ni le pouvoir de facto de contrôler le travail de l'appelant pour lequel il recevait une rémunération.
+· Comment expliquer que l'appelant recevait le même salaire que les autres pêcheurs, bien qu'il était atteint d'une grave incapacité physique, qu'il consacrait une partie de sa disponibilité à la gestion de son autre entreprise, ce qui créait sans doute à l'occasion certains conflits d'horaires? Il aurait été intéressant de connaître la version du deuxième actionnaire, John Pineault à ces sujets.
+[22] La preuve soulève les questions suivantes :
+· Une personne sans lien de dépendance aurait-elle pu s'attendre à recevoir le même salaire que le responsable et capitaine du bateau qui participait activement à la pêche?
+· Un travailleur sans lien de dépendance aurait-il pu fixer lui-même son horaire de travail de façon à lui permettre de s'occuper de la gestion ou de la bonne marche d'une autre entreprise, et ce, possiblement au détriment de l'entreprise qui lui versait un salaire?
+· Un travailleur sans lien de dépendance aurait-il accepté qu'une partie de ses avoirs ou de ses revenus émanant d'une autre source soit investie dans une entreprise lourdement déficitaire?
+[23] Les réponses sont évidemment négatives.
+[24] Plusieurs affirmations de l'appelant lors de sa déclaration statutaire (pièce A-2) apportent des éclaircissements :
+[...]
+En 2000, (en 2001 complètement à la pêche) Kevan Martin apparaît au registre de paye de Location AML et reçoit le salaire exact des aide-pêcheurs aux mêmes dates; où travaille-t-il?
+Durant mes jours de congé, c'est lui qui allait sur le bateau. Quand il vente, si j'ai 2 ou 3 jours où je ne sors pas, je travaille pour AML et je suis payé par les Pêcheries. Lui il était payé par AML et faisait environ moitié-moitié de Location et Pêcheries (durant le mois de juillet)
+L'entente était qu'il était payé par Location mais travaillait pour les deux, donc quand je n'étais pas sur le bateau, il me remplaçait. Il y a au moins 2 jours où je ne suis pas sur le bateau soit les vendredis et samedis ou samedis et dimanche. Par exemple, en 2001, il y a eu 3 semaines qu'on n'a pas pêché à cause du vent. Surtout quand il y avait des bris, je devais venir faire la réparation. Le bateau est ancré à une heure d'ici par la route et à 4 heures par bateau de Port-Menier.
+[...]
+Le 30 mai 2002, on retrouve une sortie de fonds de 4 000 $ portant la mention Prêt homard; quelles sont les conditions de ce prêt?
+Le Homardier remboursera dès qu'il pourra.
+[...]
+Est-ce que tous les actionnaires détiennent des actions votantes?
+Je pense que oui, mon comptable a la réponse.
+Quel pourcentage?
+33 1/3 % je crois, c'est dans le livre.
+Qui détient un pouvoir de signature pour les documents de la compagnie (effets bancaires)?
+Je crois que ce sont les 3 mais je n'en suis pas certain; c'est moi qui s'occupe de l'administration mais je ne suis pas certain si Marie a un droit de signature mais John oui, je ne suis pas plus sûr que ça.
+La compagnie bénéficie-t-elle d'une carte de crédit?
+Il vient d'en avoir une au mois de juillet.
+Quels sont les détenteurs de cette carte?
+La carte est à deux noms Anne-Marie et moi.
+Quels sont les utilisateurs de cette carte?
+C'est possible qu'Anne-Marie est autorisée à signer puisque les 2 noms ont été nécessaires pour avoir cette carte qui est également une carte de marge de crédit. J'ai seulement un mille dollars qu'on peut se servir personnellement. Pour des achats de toutes sortes - reliés à la pêche de la Cie
+Est-ce que vous pouvez bénéficier de cette carte de crédit tout au long de l'année?
+Elle sert pour l'achat de pièces de bateau. Je crois qu'il n'y a pas de restriction d'utilisation en autant que ça ne dépasse pas mille dollars.
+[...]
+Le 13 mars 2001, Pêcheries Anticosti enr. a émis un chèque de 1 363,05 $ aux entreprises ALM inc. Quelle est cette entreprise?
+C'est le comptable André Monger.
+Le 12 mars 2001, vous avez injecté 5 000 $ dans votre entreprise. Quelle était la raison de cette mise de fonds?
+Le 30 avril 2001, vous avez injecté 1 194,01 $ dans votre entreprise. Quelle était la raison de cette mise de fonds la veille de l'incorporation de votre entreprise?
+Ces mises de fonds sont un comblement de dette. C'est notre argent qu'on a mis dedans. Anne-Marie et moi avons mis des fonds dans le même mois que l'incorporation est survenue.
+[...]
+Le 1er mai 2001, une somme de 100 $ a été injectée dans votre entreprise sous la rubrique investissement des actionnaires AM; qui a investi cette somme et quelle était la contrepartie?
+Il faudrait en parler au comptable, tout ce qui a trait à l'incorporation.
+Le 20 juin 2001, une somme de 100 $ a été injectée dans votre entreprise sous la rubrique Actions des 3 actionnaires; qui a investi cette somme et quelle était la contrepartie?
+Il faudrait en parler au comptable, tout ce qui a trait à l'incorporation.
+[...]
+Le 19 septembre 2001, vous avez reçu une somme de 10 500 $ de la Maison du pêcheur; quelle est la raison de ce paiement?
+Avec le propriétaire, j'ai un contrat de service puisqu'il est mécanicien diesel. Il vient porter le bateau et le ramène et fait l'entretien mécanique du bateau. On lui a vendu du homard l'an passé.
+[...]
+Le 12 juin 2002, une entrée de fonds de 4 000 $ apparaît au livre avec la mention Emprunt; qui est le prêteur?
+C'est toujours Location qui prête de l'argent.
+Le 10 juin 2002, un bloc de paiements sont effectués par votre entreprise avec la mention Comptant fournisseurs occasionnels; ce bloc de paiement totalise 27 884 $; qui sont ces fournisseurs?
+Ce sont les paiements qui sont reliés au naufrage.
+[25] Bien que l'appel porte exclusivement sur le travail que l'appelant a exécuté pour le compte de la société Le Homardier d'Anticosti inc., il est important de prendre en considération certains faits relatifs à la gestion de l'entreprise de location de camions dont l'appelant possédait la totalité des actions.
+[26] Malgré les exigences requises pour la bonne marche de cette entreprise, et malgré que son épouse y était étroitement associée, la preuve documentaire est à l'effet que sa conjointe commençait à y travailler à la fin juin.
+[27] Ainsi, toujours selon la preuve documentaire, l'appelant travaillait de 70 à 80 heures par semaine pour la société Le Homardier d'Anticosti inc. et sa conjointe commençait à travailler à la fin juin. La question qui se pose est de savoir où l'appelant trouvait le temps de s'occuper de l'entreprise de location de camions.
+[28] À la suite de l'enquête et de l'analyse de tous les faits considérés comme pertinents, le ministre a conclu que les modalités de travail de l'appelant pour la société Le Homardier d'Anticosti inc., n'auraient pas été les mêmes sans le lien de dépendance. S'appuyant sur cette conclusion, l'intimé s'en est simplement remis à l'alinéa 5(2)i) de la Loi, qui se lit comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[29] Il a été établi, selon la preuve soumise, qui est tout à fait conforme aux faits pris en compte lors de l'analyse du dossier, que l'appelant avait, de toute évidence, peu ou pas de comptes à rendre pour le travail exécuté pour l'entreprise de pêche au homard.
+[30] Outre ces faits révélateurs en ce qui concerne l'appréciation de la nature de la relation de travail qui existait entre l'appelant et la société Le Homardier d'Anticosti inc., la Cour doit aussi tenir compte du fait que le deuxième actionnaire, John Pineault, qui détenait 33 % du capital-action, n'a pas témoigné.
+[31] Il aurait été très approprié qu'il vienne expliquer la nature de son engagement et surtout la façon dont la société était en mesure d'exercer son pouvoir de contrôle sur le travail exécuté par l'appelant. Il m'apparaît important de rappeler que le fardeau de la preuve incombait à l'appelant.
+[32] Finalement, la preuve a aussi révélé un aspect fort important du rôle joué par l'appelant. En effet, la conjointe de l'appelant, Anne-Marie Lelièvre, troisième actionnaire, qui était elle également propriétaire de 33 % des actions, a formellement affirmé qu'elle n'avait rien à voir avec la société Le Homardier d'Anticosti inc. Questionnée sur sa participation dans les affaires de la société Le Homardier d'Anticosti inc. dans laquelle elle détenait pourtant 33 % du capital-action, Anne-Marie Lelièvre a affirmé ce qui suit :
+(pièce I-13 - déclaration statutaire de Anne-Marie Lelièvre p. 5) :
+Vous êtes actionnaire depuis quand dans les pêcheries?
+Depuis mars 2002, de 33 %, ce qui équivaut à un apport d'environ 5 000 $. Avant c'est Michel qui était seul. C'est tout récent que je suis actionnaire. John Pineault a 33 % et Michel a aussi 33 %. C'est Michel qui s'en occupe totalement.
+Le questionnaire qui a été envoyé le 21 mai 2002 par la Commission a été complété par Michel.
+Je ne m'occupe pas du tout de cette compagnie et je ne suis pas au courant.
+(Je souligne.)
+Pourquoi avez-vous investi dans cette compagnie?
+Michel voulait avoir des actionnaires et c'est pour ça que j'ai investi. Il ne me parle pas des affaires qu'il achète pour le bateau.
+Est-ce que John Pineault s'en occupe ou seulement Michel?
+C'est plus Michel qui s'en occupe, comme les papiers.
+Kevan Martin a travaillé pour Location en 1999, qu'est-ce qu'il faisait?
+Il faisait surtout le lavage de camion, il s'occupait des pneus et ces tâches étaient effectuées le samedi. Kevan vérifiait tout le véhicule. C'est moi qui était son supérieur. Il n'a pas travaillé tout l'été à Location. Quand c'était à Tilden en avait plus de travail journalier. Il faisait les deux compagnies, pêches et location, c'était environ moitié-motié pour 1999 et 2001. En 1999, il avait plus de travail. J'avais plus de locations journalières avec Tilden, j'en ai beaucoup moins avec Sauvageau, avec eux c'est plus à long terme.
+En 2001, il a été plus souvent à la pêche dans une proportion de 75 % (pêche) - 25 % (location). Quand il a eu son relevé pour les Pêcheries, il ne venait pas du tout à Location.
+En 2000, les deux premières semaines d'août, il travaillait pour AML les samedis et d'autres tâches dans la semaine. C'est moi qui était boss.
+Est-ce qu'il y a d'autres personnes qui lavent les véhicules?
+Non, juste les fins de semaine qu'on engage le samedi pour laver les camions. Pour les locations journalières, c'est Michel qui s'occupe de laver les camions.
+[33] En plus d'avoir soutenu énergiquement que le fait de posséder une entreprise qui louait des camions n'avait pas ou très peu d'impact sur son travail de pêcheur, l'appelant a aussi fait valoir, son principal grief et reproche quant à la qualité du travail d'enquête et analyse, que la réalité particulière, voire même unique, qui prévalait à l'île d'Anticosti n'avait pas été prise en considération.
+[34] Ce sont là deux éléments qui n'ont pas d'incidence; en effet, toutes les régions ont leurs particularités. Bien que les dispositions de la Loi soient les mêmes pour tous, les règlements, eux, peuvent varier, justement pour tenir compte de certaines particularités. Il en est ainsi pour les pêcheurs, pour le nombre d'heures requis pour devenir admissible, etc., etc.
+[35] En l'espèce, il est de notoriété publique que les activités économiques dans l'île d'Anticosti étaient et sont toujours particulières, en ce qu'elles dépendent presque totalement du tourisme dont l'importance exige la préparation de l'infrastructure de soutien. Cette réalité n'a eu aucun effet sur les modalités du travail exécuté par l'appelant.
+[36] La parité salariale entre l'appelant et les autres pêcheurs, le fait qu'il bénéficiait d'une très grande autonomie pour l'exécution de son travail, le fait qu'il dirigeait la société comme s'il avait été seul actionnaire, le fait que la société dans laquelle il détenait la totalité des actions faisait des avances de fonds et se chargeait de payer à l'occasion le salaire des pêcheurs sont autant des faits pertinents qui n'ont rien à voir avec les particularités de l'économie de l'île d'Anticosti.
+[37] À la lumière de tous les faits révélés par la preuve, il ressort d'une manière non équivoque que les faits et gestes de l'appelant n'étaient assujettis à aucun contrôle. Il bénéficiait d'une liberté et d'une autonomie telles qu'il n'avait aucun compte à rendre à qui que ce soit. Il prenait toutes les décisions importantes et décidait de son emploi du temps. Dans les faits, il était l'âme dirigeante de la société Le Homardier d'Anticosti inc.
+[38] Bien que le capital-action était réparti à parts égales entre l'appelant, son épouse et John Pineault, il est manifeste que sa conjointe et monsieur Pineault n'étaient aucunement mis à contribution.
+[39] Cette conclusion découle de l'aveu même de l'épouse de l'appelant. Quant à John Pineault, le fait qu'il n'ait pas témoigné confirme que ce dernier avait un rôle de toute évidence très passif. Le fait que la société Location AML inc., dont l'appelant était le seul actionnaire, injectait des fonds dans la société de pêche est un autre indice que les deux autres actionnaires jouaient un rôle secondaire.
+[40] La question du statut réel de John Pineault aurait pu être soulevée est remise en question. Eu égard au désintéressement de la conjointe de l'appelant dans les affaires de la société, il eût été fort important de faire témoigner John Pineault.
+[41] Certains éléments de la preuve pourraient appuyer la thèse que l'appelant contrôlait plus de 40 % des actions de la société « Le Homardier d'Anticosti inc. » , voire même la totalité des actions.
+[42] Il n'est cependant ni nécessaire, ni utile de se prononcer là-dessus puisque la prépondérance de la preuve permet de conclure de manière non équivoque que l'appelant bénéficiait d'un statut particulier qui n'était manifestement pas comparable à celui qu'un tiers aurait eu. En effet, ni la rémunération, ni les modalités de travail ne pouvaient être comparées à celles qui auraient existé s'il n'y avait pas eu un lien de dépendance.
+[43] La prépondérance de la preuve est à l'effet que les faits pris en considération lors de l'analyse du dossier étaient suffisants pour justifier la détermination qui était tout à fait raisonnable dans les circonstances. La preuve soumise lors de l'instance d'ailleurs était conforme aux faits disponibles lors de l'analyse qui a conduit à la détermination.
+[44] L'analyse des faits a été effectuée d'une manière appropriée et raisonnable; il a été tenu compte des faits pertinents et la conclusion retenue s'avère raisonnable et tout à fait appropriée. Les faits dont il a été tenu compte ont d'ailleurs été repris lors de l'audition.
+[45] Les faits viennent appuyer la conclusion à l'effet qu'il ne pouvait exister de lien de subordination entre l'appelant et la société dans laquelle l'appelant n'avait que 33.33 % des actions, étant donné que sa conjointe, qui détenait également 33.33 % des actions, a expressément affirmé ce qui suit et je le répète :
+Je ne m'occupe pas du tout de cette compagnie et je ne suis pas au courant.
+[46] En l'espèce, la preuve, dont le fardeau incombait à l'appelant, n'a pas fait ressortir aucun fait ou élément qui soit de nature à amener la Cour à conclure que l'intimé a omis de prendre en compte un ou des faits pertinents qui auraient pu avoir un impact sur la conclusion.
+[47] Le ministre a conclu que, compte tenu des modalités d'emploi de l'appelant, de la rétribution qui lui a été versée, de la durée de l'emploi ainsi que de la nature et de l'importance du travail effectué, l'appelant et la société Le Homardier d'Anticosti inc. n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avait pas eu un lien de dépendance. Dans les circonstances, cette conclusion s'avérait tout à fait raisonnable.
+[48] La prépondérance de la preuve est à l'effet que l'appelant bénéficiait de conditions de travail qui n'avaient rien à voir avec celles d'une personne qui n'aurait eu aucun lien de dépendance. En effet, l'appelant était roi et maître et n'avait manifestement aucun compte à rendre à personne. Il agissait comme s'il était à la tête d'une entreprise à propriétaire unique.
+[49] Pour ces raisons, l'appel est rejeté, la détermination étant bien fondée en fait et en droit.
+Signé à Ottawa, Canada, ce 10e jour de mars 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI109
+No DU DOSSIER DE LA COUR :
+2004-102(EI)
+INTITULÉ DE LA CAUSE :
+Michel Lelièvre c. Le ministre du Revenu national et Le Homardier d'Anticosti inc.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATES
+Audiences :
+Soumissions de l'appelant :
+Jurisprudence de l'appelant :
+Notes et autorités de l'intimé :
+le 19 janvier et le 18 avril 2005
+le 15 septembre 2005
+le 19 septembre 2005
+le 14 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 10 mars 2006
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteur de la plaidoirie écrite)
+Avocate de l'intimé :
+Me Anne Poirier
+Avocats de l'intervenante :
+Me Sylvain L. Roy
+Me Annie Lelièvre (auteur de la plaidoirie écrite)
+AVOCATS INSCRITS AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Annie Lelièvre
+Étude :
+Ville :
+Bernier, Beaudry
+Sainte-Foy (Québec)
+Pour l'intimé :
+John H. Sims, c.r., sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

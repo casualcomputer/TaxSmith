@@ -1,0 +1,161 @@
+Title: 9215-9144 Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304093/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-253-304093-9215-9144-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2017-12-18
+
+# 9215-9144 Québec Inc. c. M.R.N.
+
+- Citation: 2017 CCI 253
+- Decision date: 2017-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7936, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9215-9144 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-18
+Référence neutre
+2017 CCI 253
+Numéro de dossier
+2016-2851(EI)
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2016-2851(EI)
+ENTRE :
+9215-9144 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 27 septembre 2017, à Chicoutimi (Québec)
+et décision rendue oralement par appel conférence
+le 21 novembre 2017, à Ottawa, Canada.
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Représentant de l'appelant :
+Pierre Allard
+Avocate de l'intimé :
+Me Valerie Messore
+JUGEMENT MODIFIÉ
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est accueilli, sans frais, et la décision du ministre du Revenu national est annulée, de sorte que Pierre Allard n’occupait pas un emploi assurable, lorsqu’au service de l’appelante, pour la période du 1er janvier 2013 au 9 novembre 2015, aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de la Loi.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2017.
+« Guy Smith »
+Juge Smith
+Dossier : 2016-2851(EI)
+ENTRE :
+9215-9144 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+VERSION RÉVISÉE DE LA TRANSCRIPTION DES MOTIFS
+DU JUGEMENT RENDUS ORALEMENT PAR APPEL CONFÉRENCE
+Je demande que soit déposée la transcription révisée ci-jointe des motifs du jugement rendus oralement par appel conférence le 21 novembre 2017 à Ottawa, Canada. J’ai révisé la transcription certifiée par le sténographe officiel pour en améliorer le style et la clarté et pour y apporter quelques corrections mineures seulement. Je n'y ai fait aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2017.
+« Guy Smith »
+Juge Smith
+Référence : 2017 CCI 253
+Date : 20171218
+Dossier : 2016-2851(EI)
+ENTRE :
+9215-9144 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Appel entendu le 27 septembre 2017, à Chicoutimi (Québec)
+et décision rendue oralement par appel conférence le
+21 novembre 2017, à Ottawa, Canada.
+Le juge Smith
+I. Introduction [1] La société 9215-9144 Québec Inc., l’appelante dans cette instance, fait appel d’une décision de l’Agence du revenu du Canada (ci‑après l’« Agence ») en date du 10 novembre 2015 qui a été rendue en vertu des dispositions de la Loi sur l’assurance‑emploi (ci‑après la « Loi »). L’Agence a conclu que l’emploi de Pierre Allard était un emploi assurable au sens du paragraphe 5(1) de la Loi pour la période du 1er janvier 2013 au 9 novembre 2015.
+[2] Plus précisément, l’Agence a conclu que bien que monsieur Allard avait un lien de dépendance avec l’employeur selon l’exclusion prévue à l’alinéa 5(2)i) de la Loi, il était raisonnable de conclure, compte tenu de toutes les circonstances, que l’employeur et monsieur Allard auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, et ce, selon l’alinéa 5(3)b) de la Loi.
+[3] L’appelante, pour sa part, fait appel de la décision et maintient que monsieur Allard contrôlait directement ou indirectement l’employeur, soit à titre d’actionnaire ou de créancier ou encore à titre d’administrateur — et deuxièmement, compte tenu de son rôle et de toutes les circonstances, il n’était pas raisonnable pour le Ministre de conclure que l’employeur aurait conclu un contrat de travail à peu près semblable, s’il n’y avait pas eu de lien de dépendance.
+[4] Avant de revoir les faits, je vais au départ souligner qu’il est bien établi que la Cour canadienne de l’impôt a le pouvoir de réviser la décision du Ministre mais qu’il ne s’agit pas de substituer son appréciation des faits à celle du Ministre, mais de vérifier si les faits retenus par le Ministre sont réels et ont été appréciés correctement. En fin de compte, la Cour doit décider si la conclusion dont était convaincu le Ministre paraît toujours raisonnable à la lumière des faits. C’est l’approche qui a été expliqué par la Cour d’appel fédérale dans la décision Légaré c. Canada, [1999] A.C.F. no 878 (QL), qui a été cité par l’intimé.
+A. Les faits pertinents [5] Les faits essentiels ne sont pas contestés. Monsieur Allard, son frère Gaston et sa soeur Nicole, étaient propriétaires d’un édifice à Chicoutimi dans lequel il y avait un restaurant opéré par des tiers.
+[6] Dans les années 1990, monsieur Allard et son frère ont constitué une société, soit Pizza Rodi Resto Inc., qui s’est porté acquéreur du fonds de commerce. Chaque frère détenait 50 % des actions quoique seul Pierre Allard, avait une part active à titre d’administrateur et de gérant/gestionnaire du restaurant. Il s’occupait de tous les aspects de la gestion, incluant la cuisine, avec l’aide de certains membres de sa famille, dont son fils, sa fille et son gendre. Son fils s’occupait notamment des livraisons.
+[7] Après une période d’environ 10 ans, soit jusqu’en 2009, le restaurant a connu un certain succès de sorte que monsieur Allard et son frère ont décidé de constituer une nouvelle société, soit l’appelante dans cette instance, pour l’ouverture d’un deuxième restaurant à Jonquière.
+[8] Au niveau de l’organisation de la société, monsieur Allard était toujours le seul administrateur mais un tiers des actions avaient été accordés à son fils Karl, non pas en raison d’un apport en capital, mais dans le but de lui donner une chance de se constituer un patrimoine.
+[9] Le restaurant à Jonquière avait le même menu que celui de Chicoutimi. Monsieur Allard assumait toujours la fonction de gérant/gestionnaire quoiqu’il devait aussi, au besoin, s’occuper de multiples tâches dont celui de la cuisine.
+[10] Les débuts ont été difficiles financièrement et la société de Chicoutimi a dû effectuer des avances de fonds allant jusqu’à 300 000 $. Pendant ce temps, monsieur Allard gérait les deux restaurants et était en appel sept jours semaine, mais éventuellement, les affaires se sont améliorées.
+[11] Pendant la période en question, monsieur Allard recevait un salaire de la société Pizza Rodi et, tel qu’indiqué dans la pièce A‑1, a reçu de l’appelante les montants suivants :
+2010
+18 110 $
+2011
+1 785 $
+2012
+13 719 $
+2013
+20 451 $
+2014
+26 520 $
+2015
+50 561 $
+[12] Suite à la décision du Ministre qui fait l’objet de cette instance, monsieur Allard a réduit son salaire de l’appelante à 2 900 $ pour 2016, ayant effectué un transfert des profits de l’appelante à la société Pizza Rodi.
+[13] Je vais ajouter que l’appelante a contesté certaines hypothèses de faits sur lesquelles le Ministre s’appuyait dont le paragraphe 8(f) — c’est‑à‑dire que les trois actionnaires prenaient ensemble par consensus toutes les décisions importantes de l’appelante; le paragraphe 8(i) que le travailleur et l’appelante avait conclu une entente verbale à Chicoutimi; le paragraphe 8(j) que le travailleur travaillait à titre de directeur/gérant de l’appelante; le paragraphe 8(r) que le travailleur était rémunéré selon un salaire annuel fixe; le paragraphe 8(u) que le salaire annuel du travailleur correspondait au taux horaire médian du marché d’emploi au Québec pour des travailleurs effectuant des fonctions similaires à celles effectuées par le travailleur — et finalement, le paragraphe 8(bb) selon lequel si le travailleur ne pouvait s’acquitter de ses tâches, l’appelante devait lui trouver un remplaçant.
+[14] Monsieur Pierre Allard et son comptable agréé, monsieur Potvin, ont témoigné pour l’appelante tandis que monsieur Luc Falardeau a témoigné pour l’intimé.
+B. La question du contrôle — alinéa 5(2)b) de la Loi [15] La première question en litige est de savoir si Pierre Allard contrôlait directement ou indirectement plus de 40 % des actions votante de l’appelante.
+[16] Selon le témoignage de monsieur Falardeau, le Ministre a conclu que monsieur Allard détenait seulement 33 % des actions et donc que personne n’avait un contrôle de jure de la société. Il n’y avait pas de convention entre actionnaires qui aurait pu accorder à un actionnaire, un contrôle de droit.
+[17] Or, monsieur Allard a clairement témoigné que non seulement son frère était inactif mais que son fils avait reçu des actions non pas en échange d’un apport en argent mais dans le but de lui permettre de se constituer un patrimoine suivant le succès éventuel de la société. Selon le témoignage de monsieur Allard, il avait le contrôle de la société en raison de son rôle comme administrateur et en raison du lien de dépendance entre lui et son fils. C’est‑à‑dire que même s’il détenait seulement 33 % des actions, il avait effectivement le contrôle de la société — au moins jusqu’à concurrence de 66 % des actions. J’accepte le témoignage de monsieur Allard sur cette question.
+[18] Cependant, la jurisprudence a clairement établi que la notion de contrôle dans l’alinéa 5(2)b) de la Loi est une question mixte de droit et de fait. Dans un premier temps, il faut déterminer qui est le titulaire des actions et ensuite voir s’il existe des circonstances entravant le titulaire dans l’exercice libre et autonome de son droit de vote et, le cas échéant, de voir qui peut légalement exercer ce droit à la place du titulaire.
+[19] Il est aussi bien établi que celui qui a le contrôle administratif et opérationnel d’une corporation ne contrôle pas nécessairement les actions de celle‑ci.
+[20] Dans cette instance, il est admis que monsieur Allard détient seulement 331/3 % des actions et il n’y a aucune preuve qui permettrait de conclure que son fils, Karl Allard, s’est dépouillé de son droit de vote ou a entravé de quelque façon que ce soit, le libre exercice de ce droit de vote.
+[21] Quant au fait que monsieur Allard détient 50 % des actions de la société Pizza Rodi Resto, qui a consenti un prêt à la société appelante, je suis d’avis que sans plus de preuve, ces faits ne sont pas pertinents dans l’analyse de la question de contrôle de l’appelante.
+[22] Conséquemment, je suis d’avis que la conclusion du Ministre sur cette question était raisonnable et appuyée par les faits et donc qu’il n’y a pas lieu de conclure que l’emploi de Pierre Allard était exclu en raison de l’alinéa 5(2)b) de la Loi.
+II. Lien de dépendance et personnes liées [23] Je me tourne maintenant à la deuxième question en litige à savoir si, nonobstant le lien de dépendance entre l’appelante et monsieur Allard, il était raisonnable de conclure qu’un contrat d’emploi à peu près semblable aurait été conclu s’il n’y avait pas de lien de dépendance, et ce, en vertu de l’alinéa 5(3)b) de la Loi.
+[24] Tel qu’expliqué ci‑haut, monsieur Falardeau a témoigné pour l’intimé. Il a expliqué qu’il avait revu les critères dudit paragraphe dont i) la rétribution versées, ii) les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli — avant de conclure que l’emploi de monsieur Allard s’apparentait à celui d’un gestionnaire dans le domaine des services alimentaires, gagnant environ 50 000 $ par année selon la pièce I‑1.
+[25] Or, je comprends les arguments de monsieur Allard quant au fait qu’il était l’unique administrateur et qu’il ne pouvait conclure un contrat avec lui‑même. Ceci dit, j’accepte les arguments de l’intimé que juridiquement, monsieur Allard portait deux chapeaux — dont celui d’administrateur de la société mais aussi celui d’employé.
+[26] Ceci dit, la question est encore de savoir s’il était raisonnable de conclure qu’un contrat à peu près semblable aurait été conclu sans lien de dépendance.
+[27] En regardant notamment le salaire versé, même si monsieur Allard recevait un montant par dépôt direct à toutes les deux semaines comme les autres employés, il n’y a aucune preuve qui permettrait à la Cour de conclure qu’une tierce partie aurait acceptée le salaire versé pour les années 2010 à 2014, notamment pour les années 2011 et 2012 où il a seulement reçu 1 785 $ et 13 719 $.
+[28] Selon le témoignage de monsieur Allard, il avait une grande discrétion quant au montant versé et qu’en dépit de la régularité des versements sur une base annuelle, il s’agissait en réalité du versement des profits disponibles.
+[29] Même si la Cour conclut que le montant versé en 2015, soit la somme de 50 561 $, est un montant que l’appelante aurait pu payer à un tiers, il reste que le salaire versé en 2016, soit 2 900 $, indique encore une fois qu’il s’agissait plutôt d’une répartition des profits qui ne relevait pas d’un emploi assurable mais du rôle d’administrateur assumé par monsieur Allard.
+[30] À mon avis, il serait artificiel de conclure que l’appelante aurait conclu un contrat à peu près semblable avec un tiers. Je suis plutôt d’avis qu’aucun tiers n’aurait accepté ces conditions d’emploi.
+[31] J’arrive donc à la conclusion que la décision du Ministre n’étais pas raisonnable dans les faits, compte tenu de toutes les circonstances.
+[32] Je distingue cette situation des faits dans la décision de la Cour canadienne de l’impôt dans F. Ménard Inc. c. M.R.N., 2009 CCI 208, où pendant la période en question, le payeur avait versé une somme de 75 000 $ à trois frères qui étaient aussi actionnaires et administrateurs d’une société qui avait été fondée par leur père. Je note que le salaire avait été versé de façon continuelle et sans interruption et que chaque frère avait un rôle bien établi dans l’entreprise — ce qui a porté la Cour canadienne de l’impôt à conclure qu’il s’agissait d’emplois assurables. Dans cette instance, l’appelante était en stade de démarrage, il y avait de grandes fluctuations dans le salaire et il est peu probable qu’un tiers aurait accepté de telles conditions.
+[33] L’intimé a aussi porté à l’attention de la Cour la décision de Puni c. M.R.N., 2013 CCI 172 — une décision de la Cour canadienne de l’impôt où la Cour a conclu qu’un actionnaire occupait un emploi assurable durant la période en question. Je distingue cette décision en indiquant que la Cour avait aussi conclu que le rôle d’actionnaire était distinct de celui d’un employé et que dans les faits, il était clair que l’employé en question n’était pas un membre du groupe lié au contrôle de la société. Cela n’était évidemment pas le cas en l’espèce, où monsieur Allard, dans les faits, contrôlait l’appelante à titre d’administrateur.
+III. Conclusion [34] À la lumière de ce qui précède, j’arrive à deux conclusions. La première est que l’emploi de Pierre Allard ne peut être exempt en vertu de l’alinéa 5(2)b) de la Loi puisqu’il ne contrôlait pas plus de 40 % des actions avec droit de vote de l’appelante. La deuxième conclusion est qu’il y avait un lien de dépendance entre monsieur Allard et l’appelante au sens de l’alinéa 5(2)i) de la Loi — mais qu’il n’était pas raisonnable pour le Ministre de conclure, compte tenu de toutes les circonstances, qu’un contrat d’emploi à peu près semblable aurait été conclu entre eux s’ils n’avaient pas eu le lien de dépendance au sens de l’alinéa 5(3)b) de la Loi.
+[35] En raison de ce qui précède, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2017.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2017 CCI 253
+Nº DU DOSSIER DE LA COUR :
+2016-2851(EI)
+INTITULÉ DE LA CAUSE :
+9215-9144 QUÉBEC INC. ET M.R.N.
+LIEU DE L’AUDIENCE :
+Chicoutimi (Québec)
+DATE DE L’AUDIENCE :
+Le 27 septembre 2017
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+MOTIFS DU JUGEMENT
+RENDUS ORALEMENT PAR
+APPEL CONFÉRENCE :
+Le 21 novembre 2017
+DATE DU JUGEMENT MODIFIÉ ET MOTIFS DU JUGEMENT CERTIFIÉS :
+Le 18 décembre 2017
+COMPARUTIONS :
+Représentant de l'appelante :
+Pierre Allard
+Avocate de l'intimé :
+Me Valerie Messore
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

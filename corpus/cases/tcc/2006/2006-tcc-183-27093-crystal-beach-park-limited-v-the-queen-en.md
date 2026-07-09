@@ -1,0 +1,259 @@
+---
+title: "Crystal Beach Park Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27093/index.do"
+last_modified: "2006-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 183"
+citation2: ""
+neutral_citation: "2006 TCC 183"
+decision_date: "2006-05-02"
+language: "en"
+item_id: "27093"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 963
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:06:42.154000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3bf0bcef40fdbd9dd4eebcdcc9a9ba4747b99586b260466120c347e93998c68b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crystal Beach Park Limited v. The Queen
+
+- Citation: 2006 TCC 183
+- Decision date: 2006-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 963, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crystal Beach Park Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-02
+Neutral citation
+2006 TCC 183
+File numbers
+2001-970(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-970(IT)G
+BETWEEN:
+CRYSTAL BEACH PARK LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 31, November 1 and November 2, 2005
+at St. Catharines, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Richard G. Fitzsimmons
+Counsel for the Respondent:
+Shatru Ghan
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1993 and 1994 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. Mr. Tiburzi and Mr. Gelder were each the legal and beneficial owners of 7,500 common shares of the Appellant;
+2. Mr. Tiburzi and Mr. Gelder held 15,000 common shares in trust for and on behalf of 425243 Ontario Ltd., the beneficial owner of the shares;
+3. Mr. Tiburzi and Mr. Gelder did not have de jure or de facto control of the Appellant;
+4. Mr. Tiburzi and Mr. Gelder did not acquire control of the Appellant under subsection 111(5) of the Act;
+5. Mr. Tiburzi and Mr. Gelder were not a "group of persons" under subsection 111(5) of the Act; and
+6. the same business was carried on before and after November 22, 1989
+in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of May, 2006.
+"G. Sheridan"
+Sheridan J.
+Citation: 2006TCC183
+Date: 20060502
+Docket: 2001-970(IT)G
+BETWEEN:
+CRYSTAL BEACH PARK LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] On November 22, 1989, the Appellant, Crystal Beach Park Limited, was incorporated by Articles of Amalgamation under the Business Corporations Act (Ontario) amalgamating two other corporations, Crystal Beach Park Limited and 385979 Ontario Limited[1].
+[2] In its 1993 and 1994 income tax returns, the Appellant claimed a non-capital loss deduction from 1989 of $290,247[2]. The Minister disallowed the deduction on the ground[3] that there had been an acquisition of control by a group of persons under subsection 111(5) of the Income Tax Act. Subsection 111(5) prevents a corporation from deducting past losses from future profits where "control" of the corporation has been acquired by a "group of persons", except to the extent that the corporation is carrying on the same business:
+(5) Idem. Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that [Emphasis added.]
+(a) such portion of the corporation's non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(l)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the aggregate of the corporation's income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+(b) such portion of the corporation's non-capital loss or farm loss, as the case may be, for a taxation year ending after that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(l)(k) in computing its taxable income for the year is deductible by the corporation for a particular year ending before that time
+(i) only if throughout the taxation year and in the particular year that business was carried on by the corporation for profit or with a reasonable expectation of profit, and
+(ii) only to the extent of the corporation's income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+[3] The Minister's position is that two individuals, Davis Tiburzi and Robert Gelder, acting together, acquired control of the Appellant on November 22, 1989 by purchasing 100% of the company's shares.
+[4] The Appellant accepts that all of the Appellant's voting shares were registered in the names of Tiburzi and Gelder but says that only 15,000 of the 30,000 common shares were held for their own benefit. The remaining 15,000 common shares they held as trustees for the beneficial interest of a third shareholder, 425243 Ontario Ltd. ("425 Ontario"), the holding company of one Alphonse Lacavera. According to the Appellant, Tiburzi and Gelder did not hold more than 50% of the Appellant's shares and therefore cannot be said to have acquired "control" of the company. The Appellant further argues that, in any event, there is not a sufficient common connection between Tiburzi and Gelder to justify their being considered a "group of persons" within the meaning of subsection 111(5).
+[5] Mr. Tiburzi and Mr. Lacavera testified at the hearing, I found them and, in particular Mr. Lacavera, entirely credible. Both were knowledgeable and forthcoming in the presentation of their evidence. George Kubarakos, the auditor and designated officer for the Canada Revenue Agency at examination for discovery, was called for the Crown. I was less impressed with his testimony. His answers were reluctantly given and often struck me as contrived to ensure their consistency with the Minister's position.
+Facts
+[6] Prior to November 22, 1989, CBPL owned a parcel of land at Crystal Beach on Lake Erie. CBPL had three equal shareholders, Bonifacio, Hall and Biondolillo. Sometime in the mid- to late-80's, Mr. Biondolillo approached Mr. Tiburzi, a real estate developer from Amherst, New York, to consult him about developing the property beyond its (then) use as an amusement park.
+[7] After touring the property with Biondolillo and hearing his development ideas, Mr. Tiburzi concluded that there was potential for continuing some aspects of the amusement park while at the same time, developing a marina and residential units on the site. So convinced was he that Mr. Tiburzi decided to go in with Biondolillo on the project. Negotiations commenced for the purchase of the shares of the other two CBPL shareholders, Bonifacio and Hall. Contrary to the implication in paragraph 19(dg) of the Minister's assumptions[4], at that time, Biondolillo's shares were not for sale as he was going to be part of the project with Mr. Tiburzi (and, as will be seen, with Mr. Gelder).
+[8] Throughout this time, the amusement park continued operating, albeit on a reduced scale. Mr. Tiburzi began to take an increasingly active role in the day-to-day management of the amusement park while at the same time, starting the work preparatory to land development, including such things as consulting his contacts in various administrative bodies regarding regulatory requirements. He made financial contributions throughout this period and by the time of the amalgamation, had advanced some $700,000 in unsecured amounts.
+[9] Mr. Tiburzi was not able to afford to purchase the Hall-Bonifacio shares on his own. He approached four or five individuals to canvass their interest in buying some of the shares; only Mr. Gelder agreed to do so. Not a land developer himself, Mr. Gelder was known to Mr. Tiburzi as the owner of Barden & Robeson, a building supply business located some 30 miles distant in Middleport, N.Y. Over the years, Barden & Robeson had supplied various materials in respect of Mr. Tiburzi's real estate development projects. Other than this commercial connection between their respective enterprises, they had no dealings with each other. They were not related by blood or marriage.
+[10] Throughout the first half of 1989, Gelder, Tiburzi, and Biondolillo continued to work towards finalizing the purchase of the Hall-Bonifacio shares. After several drafts and postponements, some sort of disagreement arose. In August 1989, Mr. Tiburzi and Mr. Gelder filed a Statement of Claim[5] seeking, among other things, to enjoin Biondolillo from acquiring all the shares of CBPL.
+[11] Their falling out with Biondolillo ultimately led to 425 Ontario's involvement with the Appellant. 425 Ontario is the holding company of Mr. Lacavera[6] who, in 1989, was a litigation lawyer with Blackadder Lacavera, the firm handling the Appellant's corporate matters. Prior to 1989, neither Mr. Tiburzi nor Mr. Gelder had had any dealings with Mr. Lacavera personally or the Blackadder Lacavera firm. When Mr. Tiburzi and Mr. Gelder decided to take legal action against Mr. Biondolillo, their corporate lawyer referred them to his partner, Mr. Lacavera. The law suit was ultimately settled. However, as part of the terms of settlement, in addition to proceeding with the purchase of the Hall-Bonifacio shares, Mr. Tiburzi and Mr. Gelder were also to buy out Biondolillo's interest in the company.
+[12] While this solved one problem, it created another: when he first became involved in the plan with Biondolillo, Mr. Tiburzi had funds enough to buy only a third of the company. This had necessitated the recruitment of Mr. Gelder to take the remaining third. With the departure of Biondolillo, Mr. Tiburzi found himself again looking for a replacement. With this in mind, in October or November 1989, Tiburzi and Gelder asked Mr. Lacavera if he would be interested in participating. Although he had only just met Mr. Tiburzi in the context of the law suit, Mr. Lacavera was favourably impressed with what he described as his "extraordinary skills" in real estate development. Mr. Lacavera decided to purchase the shares through his holding company, 425 Ontario.
+[13] On November 22, 1989, the Appellant was created under Articles of Amalgamation[7] with common voting shares and special non-voting shares[8]. Thirty thousand common shares and 15,000 special shares were issued and registered in the Appellant's shareholders' register[9] in the names of Mr. Tiburzi and Mr. Gelder, with a notation to indicate that 15,000 of the 30,000 common shares were "held in trust for" 425 Ontario by Mr. Tiburzi and Mr. Gelder. This was in accordance with a Trust Agreement[10] between them and 425 Ontario executed on that same date.
+[14] Pursuant to the Trust Agreement, for its 15,000 common shares, 425 Ontario advanced approximately one million dollars to Mr. Tiburzi and Mr. Gelder to permit them to pay the share purchase price. To secure payment of the share purchase price, Mr. Tiburzi and Mr. Gelder were required to grant a pledge of the shares to the vendors; accordingly, it was agreed under the Trust Agreement that until the shares were released from the pledge, the shares of 425 Ontario would be registered in the names of trustees Tiburzi and Gelder.
+Analysis
+Was There Acquisition of Control by a Group of Persons?
+[15] The case law is clear that "control" as it is used in subsection 111(5) means de jure control of the voting shares in a corporation. In Duha Printers (Western) Ltd. v. Canada[11], the Supreme Court of Canada summarized the test for de jure control as "... whether the controlling party enjoys, by virtue of its shareholdings, the ability to elect the majority of the board of directors."[12] Thus, the first step in the present case is to determine who owned the voting shares.
+[16] The Appellant has the onus of proving wrong the basis of the Minister's assessment. Key to the Minister's reassessments were the following assumptions in paragraph 19 of the Amended Reply to the Notice of Appeal:
+(df) In the (sic) May 1989 Davis Tiburzi and Robert Gelder as agents for a partnership to be formed entered into an agreement as a single purchaser to buy 2/3 of CBPL shares from Edward Hall and Rudy Bonifacio with a view to develop the CBPL property by subdividing and building condominiums and houses.
+(dg) DavisTiburzi and Robert Gelder did not succeed at that time to purchase the shares of the third shareholder Joseph Biondolillo.
+...
+(dj) Davis Tiburzi and Robert Gelder entered into an agreement on November 9, 1989 as a single purchaser to purchase the remaining 1/3 shares of CBPL from Joseph Biondolillo and purchased those shares on November 22, 1989.
+[17] The Minister further assumed at paragraphs 19(dm) and (dn) that:
+(dm) Davis Tiburzi and Robert Gelder entered into a trust agreement with 425243 Ontario (Ontario Ltd.) wherein Ontario Ltd. agreed to provide $1,000,000.00 (CND) for the purposes of assisting Davis Tiburzi and Robert Gelder to acquire the Vender's (sic) shares in CBPL and to provide the Appellant with working capital.
+(dn) Davis Tiburzi and Robert Gelder agreed in consideration of Ontario Ltd. advancing the above mentioned funds to hold 15,000 common shares of CBPL represented by a certificate i.e. certificate no. 7 for and on behalf of Ontario Ltd.
+[18] The Appellant submits that paragraphs 19(dm) and (dn) are entirely consistent with its position that Tiburzi and Gelder held 50% of the shares as trustees for the beneficial owner, 425 Ontario.
+[19] Counsel for the Respondent argues that, notwithstanding the reference to the Trust Agreement in paragraph 19(dm), the words "for and on behalf of" in subparagraph 19(dn) are indicative, not of their trusteeship, but rather of Tiburzi and Gelder's having held the shares as "security" for the funds 425 Ontario advanced to permit them to complete the share purchase. The Crown maintains, and has done from the outset, that 425 Ontario owned no shares in the Appellant nor was it part of the Tiburzi-Gelder "group of persons" assumed by the Minister.
+[20] Given the clear wording of assumptions 19(dm) and (dn) and the lack of an evidentiary or legal foundation for the Respondent's interpretation of them, I am unable to make any sense of the Crown's argument that the shares were held as "security". Both Mr. Lacavera and Mr. Tiburzi testified that the shares were pledged as security to the vendors pending payment in full of the purchase price. As Mr. Lacavera explained in his evidence, it was the pledging of the shares that had made it necessary for Tiburzi and Gelder to hold the shares in trust for 425 Ontario. Mr. Lacavera further testified that when the share purchase price was finally paid and the pledge released, the 15,000 common shares formerly held in trust were transferred to 425 Ontario in its own right. The transfer, showing 425 Ontario as the registered owner of the shares, was duly recorded as of December 1996 in the Appellant's share transfer register[13].
+[21] The second prong of the Respondent's argument depends on the drawing of certain inferences from the corporate records. On cross-examination, counsel for the Respondent put to Mr. Tiburzi a shareholder's resolution[14] electing Gelder and Lacavera as directors and signed only by Tiburzi and Gelder as the "shareholders of the corporation". To his question "Well, you and Gelder owned all of the shares and as the holders of all the shares the two of you elected Mr. Lacavera and Mr. Gelder as directors?", Mr. Tiburzi replied "Yes"[15]. I am unable to take Mr. Tiburzi's monosyllabic reply to what was a complex question of fact and law as an admission that he and Mr. Gelder owned 100% of the shares in the Appellant. He was not questioned further on the capacity in which they signed the resolution. The fact remains, however, that the shares in which they had a legal and beneficial interest, and those in which they had a legal interest as trustees for 425 Ontario were both quite properly recorded in their names. In respect of their holdings as trustees, the share register entry was annotated to indicate that they were "held in trust for" 425 Ontario. Mr. Kubarakos examined the minute books and the Trust Agreement at the time of the audit. He confirmed in his evidence that he had seen such entries when he audited the Appellant in 1997, thus eliminating any suggestion that the records had been manufactured after the fact to support the Appellant's claim. While the Appellant might have saved itself some difficulties had it been more precise in itsrecordskeeping, the statutory standard is adequacy, not perfection. In any event, Mr. Kubarako's evidence shows that such nuances had little, if any, influence on him when he reviewed these documents during the audit.
+[22] Taken as a whole, the evidence convinces me that Tiburzi and Gelder held 50% of the 30,000 common voting shares in trust for 425 Ontario. Each was the beneficial and legal owner of 7,500 of the remaining 15,000 common shares. As they did not (either individually or together) acquire in excess of 50% of the voting shares[16] of the Appellant on November 22, 1999, they did not have de jure control of the Appellant and accordingly, did not acquire "control" of the Appellant under subsection 111(5) of the Act.
+[23] As to whether Tiburzi and Gelder constituted a "group of persons" under subsection 111(5), counsel for the Respondent argued alternatively that even if Tiburzi and Gelder were found not to hold in excess of 50% of the voting shares, this issue was relevant in respect of certain rights attached to their 15,000 special shares. Under subsection 8(c) of the Articles of Amalgamation, Tiburzi and Gelder had the right to convert their non-voting special shares to common voting shares:
+The special shares shall have attached thereto the following designations, rights, preferences, conditions, restrictions, limitations, or prohibitions:
+...
+(c) The right, when confirmed by resolution of all the holders of said special shares either in writing or voting at a meeting of said special shareholders, called for that purpose, to convert all or part of said special shares, on a share for share basis, to common shares of the Corporation, which common shares shall be issued to the registered holder of the special shares, as fully paid and non-assessable;
+...
+[24] According to the Respondent, by agreeing to convert their shares, Tiburzi and Gelder could have acquired 2/3 of the shares of the Appellant. All that stood between them and de jure control of the Appellant were their signatures on a resolution of special shareholders.
+[25] In a situation such as this where no one shareholder holds a majority of the shares, it is a question of fact whether any group of persons has de jure control of the corporation[17]. Whether any two or more individuals constitute a "group of persons" under subsection 111(5) will also depend on the facts of each case. In Silicon Graphics Ltd. v. R.[18], the Federal Court of Appeal held that for individual shareholders to be considered a "group of persons", there must exist between them a "sufficient common connection"; evidence of such a link might include "inter alia, a voting agreement, an agreement to act in concert, or business or family relationship."[19]
+[26] Counsel for the Respondent argued that exactly such a connection existed between Tiburzi and Gelder: " --- they have trusted each other. Worked in harmony for years until 22nd of November, and they had a common interest. Business interest. And so that was a group of persons according to [Vina-Rug] and Buckerfield (sic)"[20]. This is essentially a restatement of the words appearing in assumption 19(dd) of the Amended Reply to the Notice of Appeal:
+(dd) Prior to the spring of 1989 Davis Tiburzi and Robert Gelder were long time business associates and land developers developing land acting as a team in the United States.[21]
+[27] Normally, the appellant has the burden of rebutting the Minister's assumptions and proving the merits of its position. In the present case, however, counsel for the Appellant argued that not only did the evidence not support the above allegations but that the Minister had not, in fact, relied on assumption 19(dd) in making his reassessments.
+[28] With both points, I must say I am inclined to agree. Turning first to the statements in paragraph 19(dd), Mr. Kubarakos was questioned extensively on the steps he took in conducting his audit in 1997. As can be seen from his evidence[22] as set out below, at the time of the audit, he did not turn his mind to the nature of the relationship between Tiburzi and Gelder:
+Q. The Minister -- the statement of fact here is prior to the spring of 1989 -- this is in paragraph 19 (dd). Do you have that?
+A. Yes.
+Q. The statement is:"Prior to the spring of 1989 Davis Tiburzi and Robert Gelder were long time business associates and land developers developing land acting as a team in the United States." And that wasn't really in your mind at all, was it? When you did your audit that wasn't an issue?
+A. No.
+Q. You never thought of these fellows as long-time business associates.
+A. That's what Mr. Gelder told me, that he knew Mr. Tiburzi for fifteen, twenty years and they had some dealings before. I don't know what kind of dealings, but at that time that kind of information was irrelevant to me.
+Q. It wasn't in your mind?
+A. It wasn't important to me at all.
+Q. Okay. Did you think of Mr. Gelder as a land developer? You knew he was in the building supply business, didn't you?
+A. Yes, that's what he told me.
+Q. And you didn't think that Tiburzi and Gelder were a team in any sense, did you?
+A. They had some dealings before.
+Q. Did you think of them, that they were some kind of a team? That wasn't in your mind in 1997 when you were doing this audit, was it? Was it?
+A. Again, they had some dealings. Now whether they were a team or not, it was irrelevant at that time.
+Q. That wasn't in your mind when you did your reassessment?
+A. No. No.
+[29] The Minister's obligations in the pleading of assumptions was considered extensively by Rip, J. in Anchor Pointe Energy Ltd. v. Canada[23]. In upholding Mr. Justice Rip's decision to strike out the assumptions not actually made by the Minister, the Federal Court of Appeal held that:
+The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet. There is no reason why the requirement for precision and accuracy does not apply to the Crown accurately stating the circumstances in which the assumptions arose, that is, on the assessment, reassessment or confirmation. For these reasons, I think Rip J. was correct when he found paragraphs 10(q), (r) and (z) to be inaccurate and struck them from the Reply.[24]
+[30] Given that the Minister did not assume the statement made in paragraph 19(dd), the Appellant is relieved of the burden it would otherwise have of "demolishing" such allegations. Even without the advantage of the shift in onus, however, I am satisfied that the Appellant has established there was not a "sufficient common connection" between Tiburzi and Gelder so as to convert them from individuals to a "group of persons". Analyzed in accordance with the Silicon Graphics criteria, the evidence does not establish a "sufficient common connection" between Tiburzi and Gelder to have caused them to act together to convert their shares from special to common thereby acquiring a majority of the voting shares in the company:
+1. Family relationship: I accept the unchallenged evidence of Mr. Tiburzi that there was no family relationship between him and Mr. Gelder. Nor did they socialize with each other.
+2. Business relationship: Mr. Gelder was not a land developer. He was a building materials supplier. Any past business dealings he had with Mr. Tiburzi were limited to his company, Barden & Robeson, having sporadically supplied some materials to Mr. Tiburzi's real estate developments. There was no evidence that Mr. Tiburzi and Mr. Gelder personally dealt with each other during these transactions, or to what extent, if any, such dealings engendered the kind of relationship that might cause one or the other of them to be able to influence the other to vote in accordance with his wishes. Indeed, militating against this conclusion is the fact that Mr. Gelder was only one of four or five potential participants Mr. Tiburzi approached regarding his interest in purchasing a portion of the Hall-Bonifacio shares.
+3. Agreement to act in concert: Mr. Kubarakos testified that the basis for the Crown's allegations as to Mr. Tiburzi and Mr. Gelder's having "acted in concert" was that they were signatories to the same share purchase agreement. Counsel for the Respondent argued that they had a common business interest[25] in the Appellant and that meant they were "acting in concert".
+In Lenester Sales Ltd. v. The Queen[26], Bowman, A.C.J. (as he then was) considered whether certain franchisees were at "arm's length". In rejecting the Minister's contention that their shared desire to make a success of the business was sufficient to establish their having "acted in concert", the learned Chief Justice held the view that:
+... To say that every time two independent business persons in pursuit of their own business interests work together to achieve a mutually beneficial commercial objective means that they are "acting in concert" and are, therefore, not at arm's length would mean that no business relationships would ever be at arm's length.[27]
+By the same token, although Tiburzi and Gelder shared the mutually beneficial commercial objective of seeing their investments realized, each was pursuing his own interest in the Appellant - the evidence falls far short of establishing their having "acted in concert" so as to be a "group of persons" under the Silicon Graphics test.
+4. Voting agreement: I accept Mr. Tiburzi's unchallenged evidence that there was no voting agreement between him and Mr. Gelder, that he was unaware of any provision in the Appellant's bylaws as to how jointly held shares were to be voted, or how a tied vote was to be broken. I also accept Mr. Tiburzi's evidence that he was unaware of the share conversion powers in subsection 8(c) of the Articles of Amalgamation. His testimony gave me no reason to think that even if he had known about such powers, he would have wished to or been able to influence Mr. Gelder to agree to exercise them.
+[31] The list of evidentiary items in Silicon Graphics is not meant to be exhaustive. In considering the existence of a "connection" between Tiburzi and Gelder, I am also mindful of the Trust Agreement and the effect of the fiduciary duty it imposed on them. A trust document is one of the exceptions to the general rule that external documents may not be considered in determining whether a shareholder or group of shareholders has de jure control of a company[28]. In Duha Printers, supra, Iacobucci, J. explained the rationale behind this distinction:
+... A trust imposes upon the trustee a fiduciary obligation to act within the terms of the trust instrument and for the benefit of the beneficiary. That is, the trustee is not free to act other than in accordance with the trust document, and if the trust document imposes limitations upon the capacity of the trustee to vote the shares then these must accordingly be taken into account in the de jure control analysis. By contrast, any limitations which might be imposed by an outside agreement are limitations freely agreed to by the shareholders, and not at all inconsistent with their de jure power to control the company. In other words, limitations on the voting powers of trustees must be seen as limitations on their capacity as free actors in the circumstances. No such limitations encumber the ordinary shareholder in his or her exercise of de jure control, even if an outside agreement exists to limit actual or de facto control.[29]
+In the present case, the Trust Agreement is silent as to the voting of shares. Nonetheless, its very existence is yet another factor militating against Tiburzi and Gelder's agreeing to vote together to exercise their subsection 8(c) conversion rights. Any ability they might otherwise have had to do so was shackled by their fiduciary obligations to 425 Ontario under the Trust Agreement.
+[32] For all of these reasons, I find that at no time was there a "sufficient common connection" between Mr. Tiburzi and Mr. Gelder so as to constitute a "group of persons" under subsection 111(5) of the Act.
+Was the Same Business Carried On?
+[33] Finally, in reassessing the Appellant, the Minister also assumed that after November 22, 1989, the Appellant was carrying on a different business from that of CBPL[30]. Counsel for the Respondent argued that pre-November 22, 1989, CBPL carried on an amusement park business; after that date, the Appellant started a new business, real estate development.
+[34] In support of the Appellant's position that the same business was carried on throughout, counsel for the Appellant referred to Canadian Dredge and Dock Company Limited v. The Minister of National Revenue[31]. In that case, the Tax Review Board considered whether there had been a "change in the business" when the taxpayer acquired the marine construction business of its predecessor. The Minister took the view that the taxpayer had ceased operating or, had so altered its marine construction operations that it could no longer be said to be carrying on the same business. The facts, as in the present case, are quite detailed but the taxpayer had, among other things, reduced the number of employees, moved its administrative office and sold some of its assets.
+[35] In considering how to approach the question, Chairman Cardin (as he then was) stated that "... it is necessary in my view to make a distinction between the "business" of a company and the various operations through which the company carries on business."[32] He went on to say:
+It is also important to consider the nature of the appellant's business. Although the concept of "business" suggests several elements which are common to all business, ... there are countless specific factors which differ from one business to another and which cannot be ignored in determining the instant issue.[33]
+After thoroughly canvassing the evidence of the business activities, the Tax Review Board held that the taxpayer's after-acquisition business was the same as in the loss years.
+[36] Looking at the evidence in the present case, I find that the essence of the business (pre- and post-amalgamation) was the exploitation of a recreational site. Historically, CBPL had depended upon the delights of an amusement park to generate business income. Times changed, however, and with the times, the recreational habits of its clientele. Realizing this, sometime in the mid-80's Mr. Biondolillo began reflecting on ways to maintain and enhance the interest of his customers in the lakeside site. Perhaps a marina and condo development would have greater appeal than a ferris wheel and ballroom dancing. Mr. Biondolillo consulted Mr. Tiburzi. His reaction was positive - so positive in fact, that Mr. Tiburzi decided to get involved in the project. Months before the amalgamation date, he participated in the amusement park management while at the same time exploring the land development requirements, investing some $700,000 in both initiatives[34]. Although most of the rides were cleared away and sold at auction, other aspects of the amusement park remained: the manager continued in his position and the dance hall and a bar continued to operate for some time after the amalgamation. Conversely, not all of the pre-amalgamation plans for the site had been completed by the time of this hearing: although the condo development had proceeded as planned, the marina project had not yet been fully realized. The property's pre-amalgamation name "Crystal Beach Park", was retained by the Appellant and continued to be used before and after the amalgamation.
+[37] Evidence of such overlap between the predecessor and taxpayer's business was one of the elements considered in Canadian Dredge and Dock. In the present case, rather than being evidence of the Appellant's having ceased to carry on the predecessor business, the changes effected demonstrate its efforts to enhance those aspects of the business that had been successful while improving those that had not. The Appellant sought to capitalize on the property's known reputation as a recreational site while at the same time updating its leisure facilities to maintain and enhance its appeal. All in all, I am satisfied that the Appellant's business after amalgamation was essentially the same as it had been during the loss years under CBPL. The business throughout was, in the words of counsel for the Appellant, "exploiting the income-producing potential of this great old recreational site"[35].
+Conclusion
+[38] The appeals are allowed, with costs, and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that:
+1. Mr. Tiburzi and Mr. Gelder were each the legal and beneficial owners of 7,500 common shares of the Appellant;
+2. Mr. Tiburzi and Mr. Gelder held 15,000 common shares in trust for and on behalf of 425243 Ontario Ltd., the beneficial owner of the shares;
+3. Mr. Tiburzi and Mr. Gelder did not have de jure or de facto control of the Appellant;
+4. Mr. Tiburzi and Mr. Gelder did not acquire control of the Appellant under subsection 111(5) of the Act;
+5. Mr. Tiburzi and Mr. Gelder were not a "group of persons" under subsection 111(5) of the Act; and
+6. the same business was carried on before and after November 22, 1989
+in accordance with these Reasons for Judgment. In light of the above, it is not necessary to consider the other issues in dispute.
+Signed at Ottawa, Canada, this 2nd day of May, 2006.
+"G. Sheridan"
+Sheridan J.
+CITATION: 2006TCC183
+COURT FILE NOS.: 2001-970(IT)G
+STYLE OF CAUSE: CRYSTAL BEACH PARK LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. Catharines, Ontario
+DATE OF HEARING: October 31, November 1 and 2, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: May 2, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Richard G. Fitzsimmons
+Counsel for the Respondent:
+Shatru Ghan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard G. Fitzsimmons
+Firm: Fitzsimmons & Company
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Because the Appellant is known by the same name as one of the pre-amalgamation corporations, the Appellant "Crystal Beach Park Limited" is referred to herein as "the Appellant" and the pre-amalgamation corporation, as "CBPL".
+[2] The amount of this deduction is not in dispute.
+[3] The parties have agreed that the following four issues are in dispute:
+(1) whether the Minister erred in reassessing the Appellant's 1993 taxation year;
+(2) whether the Minister erred in disallowing the non-capital losses the Appellant deducted in computing its taxable income for the subject taxation years;
+(3) whether the Minister erred in imposing penalties; and
+(4) whether the Minister erred in computing the amounts of the penalties and interest.
+[4] Amended Reply to the Notice of Appeal.
+[5] Exhibit A-1-10.
+[6] Since 1998, "Mr. Justice Lacavera", a judge of the Ontario Court of Justice but referred to in these Reasons for Judgment as "Mr. Lacavera" to reflect accurately his status as a practicing lawyer at all times relevant to these appeals.
+[7] Exhibit A-1-15.
+[8] Exhibit A-1-15, subsection 8(d) of Articles of Amalgamation.
+[9] Exhibit A-1-17.
+[10] Exhibit A-1-14.
+[11] [1998] 3 C.T.C. 303 (S.C.C.).
+[12] Supra, at paragraph 36.
+[13] Exhibit A-1-17.
+[14] Exhibit A-1-18.
+[15] Transcript, p. 136, lines 13 - 17.
+[16] Vina-Rug (Canada) Ltd. v. M.N.R., 68 DTC 5021 at p. 5023 (S.C.C.).
+[17] Yardley Plastics of Canada Limited v. M.N.R., 66 DTC 5183 at p. 5188 (Ex. Ct).
+[18] [2002] 3 C.T.C. 527 at paragraphs 35-36.
+[19] Supra at paragraph 36.
+[20] Transcript, p. 624, lines 9-14.
+[21] Similar allegations appear in paragraph 4 of the Amended Reply to the Notice of Appeal.
+[22] Transcript p. 470, line 15 to p. 472, line 9.
+[23] [2002] T.C.J. No. 502 at paragraphs 24 to 26.
+[24] Anchor Pointe Energy Ltd. v. Canada, 2003 F.C.A. 294 at paragraph 23; Bowens v. Canada, [1996] 2 C.T.C. 120 (F.C.A.); Pollock v. Canada (M.N.R.), (1993) 3 C.C.P.B. 307 (F.C.A.).
+[25] See footnote 20.
+[26] [2003] T.C.J. No. 451.
+[27] Supra, at paragraph 35.
+[28] At paragraph 48; The Queen v. Lusita Holdings Ltd., 84 DTC 6346 (F.C.A.).
+[29] At paragraph 49.
+[30] Paragraphs 19(t), (u) and (v) of the Amended Reply to the Notice of Appeal.
+[31] 81 DTC 154 (Tax Review Board).
+[32] Supra, at p. 157.
+[33] Supra, at p. 157.
+[34] Mr. Tiburzi, now older and wiser, mused at the hearing that this was perhaps a somewhat incautious approach to entrepreneurial financing.
+[35] Transcript, p. 598, lines 2-4.

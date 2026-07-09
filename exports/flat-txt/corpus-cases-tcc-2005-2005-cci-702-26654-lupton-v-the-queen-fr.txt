@@ -1,0 +1,107 @@
+Title: Lupton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26654/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-702-26654-lupton-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-11-10
+
+# Lupton v. The Queen
+
+- Citation: 2005 CCI 702
+- Decision date: 2005-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3596, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lupton v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-10
+Référence neutre
+2005 CCI 702
+Numéro de dossier
+2005-1104(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1104(IT)I
+ENTRE :
+GRAHAM LUPTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 30 août 2005 à Hamilton (Ontario)
+Devant : l’honorable juge G. Sheridan
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimée :
+Me Kandia Aird
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu sont accueillis et l’affaire est déférée au Ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que le revenu de M. Lupton pour 1998, 1999, 2000 et 2001 correspond au montant déclaré en 2003 pour chaque année d’imposition. Toutes les pénalités doivent être radiées.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2005.
+G. Sheridan
+Le juge Sheridan
+Référence : 2005CCI702
+Date : 20051110
+Dossier : 2005-1104(IT)I
+ENTRE :
+GRAHAM LUPTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] L’appelant, Graham Lupton, interjette appel des nouvelles cotisations établies pour les années d’impositions de 1998 à 2001 par lesquelles le ministre du Revenu national a déterminé qu’il avait sous-évalué son revenu et lui a imposé des pénalités pour faute lourde relativement aux montants non déclarés. M. Lupton n’a pas produit de déclarations de revenus pour les années en cause; après une vérification et une cotisation suivant l’avoir net, le Ministre a émis les nouvelles cotisations qui font l’objet de son appel. Les hypothèses pertinentes sont exposées au paragraphe 11 de la réponse à l’avis d’appel :
+[traduction]
+[...]
+(c) lorsqu’il a déclaré son revenu pour les années d’imposition 1998, 1999, 2000 et 2001, l’appelant a omis de déclarer les revenus tirés de ses activités d’entreprise;
+(d) l’appelant a omis de tenir des livres et des registres se rapportant à ses activités d’entreprise;
+[...]
+(f) pour les années d’imposition 1998, 1999, 2000 et 2001, l’appelant a déclaré en moins 19 300 $, 12 159 $, 16 584 $ et 13 479 $ respectivement de son revenu total;
+[...]
+(h) l’actif total de l’appelant à la fin des années d’imposition 1997, 1998, 1999, 2000 et 2001 était de 205 350 $, 212 700 $, 212 750 $, 214 800 $ et 214 850 $ respectivement, tel que détaillé à l’annexe A;
+(i) le passif total de l’appelant à la fin des années d’imposition 1997, 1998, 1999, 2000 et 2001 était de 123 088 $, 118 775 $, 114 199 $, 109 328 $ et 104 178 $ respectivement, tel que détaillé à l’annexe A;
+(j) en plus de l’augmentation nette de l’actif décrit précédemment, l’appelant a engagé des dépenses personnelles de 19 034 $, 19 082 $, 21 137 $ et 20 429 $ pendant les années d’imposition 1998, 1999, 2000 et 2001 respectivement, tel que détaillé à l’annexe A;
+(k) il a été pleinement tenu compte de toutes les sources de revenu non imposable gagné par l’appelant dans la cotisation suivant l’avoir net;
+[...]
+(m) l’appelant connaissait la rentabilité de ses activités d’entreprise.
+[Je souligne.]
+[2] M. Lupton nie avoir été engagé dans une quelconque « activité d’entreprise » et affirme avoir déclaré la totalité de son revenu provenant de toutes les sources pour la période de 1998 à 2001. Il soutient que, dans sa cotisation suivant l’avoir net, le Ministre n’a pas tenu compte de ses gains au jeu exonérés d’impôt ainsi que de l’aide financière reçue de sa petite amie et de ses parents.
+[3] Comme c’est le cas en l’espèce, la méthode de l’avoir net est souvent utilisée en dernier recours lorsque le contribuable n’a pas produit de déclarations d’impôt ou n’a pas tenu les livres et les registres appropriés. Dans de telles circonstances, le contribuable qui conteste la cotisation du Ministre a un lourd fardeau à relever. Dans Bigayan c. La Reine[1], le juge Bowman, tel qu’il l’était alors, a émis l’avis suivant :
+[3] Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff c. Ministre du Revenu national, 49 DTC 680, à la page 683 :
+[traduction]
+En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+[4] M. Lupton a le fardeau de démolir les hypothèses du Ministre et de convaincre la Cour, selon la prépondérance des probabilités, que sa version est la bonne. En plus d’offrir son propre témoignage, M. Lupton a appelé à la barre sa petite amie Tara ainsi que son locataire et employeur, Vince Kitching; les déclarations de ces deux témoins étaient crédibles.
+[5] Depuis au moins 1991, M. Lupton participe régulièrement à des jeux de hasard, et plus récemment à des jeux « underground » de Texas Hold 'Em. Il se décrit comme étant un « joueur professionnel », ce qui pour lui veut dire qu’il espère un jour pouvoir gagner sa vie grâce au jeu. Il n’a reçu aucune formation autre que celle qu’il a lui-même acquise aux tables de jeu. Il n’a jamais tenu de registre de ses gains et de ses pertes car il croyait que les gains au jeu n’étaient pas imposables. Son mode de vie est modeste; il ne boit pas et a peu de loisirs hormis le jeu.
+[6] Pour les raisons que j’exposerai plus loin de façon plus détaillée, je suis convaincu que M. Lupton a, d’une part, suivi avec succès le conseil fourni dans Bigayan puisqu’il a présenté une preuve crédible à l’effet que les seuls revenus « réellement » gagnés pendant les années d’imposition en cause provenaient, comme il l’avait indiqué dans sa déclaration, d’un bien locatif et d’un emploi; d’autre part, il a démontré que la cotisation fondée sur l’avoir net était « erronée » puisqu’elle tenait compte d’un revenu hypothétique provenant d’« activités d’entreprise » inexistantes et attribuait une valeur insuffisante aux fonds mis à la disposition de M. Lupton par des tiers ainsi qu’à ses gains au jeu.
+Revenus tiré d’un bien locatif
+[7] M. Lupton détient conjointement avec ses parents une maison acquise en 1997. Une portion du versement initial de 68 000 $ effectué par M. Lupton provenait d’un somme considérable qu’il avait gagné aux tables de jeu (un gain qui ne s’est jamais reproduit). Ses parents ont versé 14 000 $ et, pendant toutes les années pertinentes, ont assumé l’impôt foncier et les frais d’entretien de la résidence.
+[8] M. Lupton et sa petite amie Tara vivent ensemble depuis 1992. Avant l’achat de la maison en 1997, ils ont vécu dans des logements locatifs dont la totalité du loyer de 750 $ par mois était assumé par Tara. Cette dépense a été dûment déclarée dans ses déclarations de revenus pendant les années en cause. Lorsqu’ils ont emménagé dans la nouvelle maison de M. Lupton, elle a continué de payer et de déclarer un loyer de 750 $ par mois (malgré le fait qu’elle payait en réalité près de 900 $ par mois). Son chèque de paie était déposé dans leur compte conjoint. Plutôt que de verser un loyer à M. Lupton, elle déposait directement ce montant à titre de paiement hypothécaire mensuel. Le salaire de Tara servait également à acquitter les factures d’électricité et de téléphone ainsi que plusieurs autres dépenses liées au ménage. Bien que cela me paraisse une entente plutôt disproportionnée, son témoignage ne me donne aucun motif de douter qu’elle ait bel et bien payé ces montants.
+[9] L’autre source de revenus locatifs était M. Kitching, l’employeur de M. Lupton. M. Kitching lui versait, chaque mois, 200 $ en espèces. Son loyer était moins élevé que celui de Tara puisqu’il n’avait loué qu’une chambre et qu’il s’absentait souvent.
+[10] Ainsi, pendant chacune des années d’imposition en cause, les montants payés par les locataires de M. Lupton couvraient effectivement son versement hypothécaire annuel qui dépassait tout juste 11 000 $. Les revenus locatifs et les dépenses connexes ont été adéquatement indiqués par M. Lupton dans ses déclarations.
+Revenu d’emploi
+[11] Une autre part du revenu de M. Lupton provenait d’un emploi à temps partiel qui consistait à distribuer des dépliants pour le compte de M. Kitching pendant environ 35 à 40 jours chaque année. Il était payé en espèces et ne tenait pas de registre pour cet emploi occasionnel. Ces montants ont été dûment déclarés.
+Contributions provenant de tiers et gains au jeu
+[12] M. Lupton a fait preuve de beaucoup d’habileté à persuader d’autres de payer ses factures. Il a eu moins de succès pour ce qui est de gagner sa vie grâce au jeu. Bien qu’il ait raison d’affirmer que les « gains au jeu » ne sont pas imposables, s’il réussissait un jour à atteindre son but de gagner aux tables de jeu un revenu suffisamment élevé pour qu’il puisse dire qu’il exploite une « entreprise de jeux de hasard », ses gains seraient alors imposables. Dans une telle situation, il devrait non seulement déclarer son revenu, mais serait également obligé par la Loi de tenir des livres et des registres à l’appui de ses déclarations. Toutefois, pendant la période de 1998 à 2001, il ne vivait ni du jeu ni d’aucune autre entreprise. Ses gains, quoique peu élevés, avec les contributions de ses amis et de sa famille, suffisaient à remplir ses besoins plutôt modestes.
+Conclusion
+[13] Je suis convaincu, selon la prépondérance des probabilités, que M. Lupton n’a pas sous-évalué son revenu et que, par conséquent, rien ne justifie une augmentation de son revenu imposable ou l’imposition de pénalités pour faute lourde. Pour tirer cette conclusion, j’ai non seulement tenu compte de la preuve crédible apportée à l’appui de la position de M. Lupton mais également du fait qu’aucun élément de preuve fiable n’a été présenté pour le compte de l’intimée. Le seul témoin cité par la Couronne a été Paul Williamson, l’agent d’appel ayant examiné l’opposition de l’appelant. M. Williamson n’avait pas une connaissance personnelle des nouvelles cotisations, de la cotisation suivant l’avoir net ni de la vérification. La vérificatrice, Mme Bird, qui a établit un contact direct avec M. Lupton et qui est l’auteure du rapport sur lequel s’est fondé M. Willamson, n’a pas été citée comme témoin. Il aurait été utile que Mme Bird puisse éclairer la Cour concernant les questions relatives à la vérification et à la cotisation suivant l’avoir net.
+[14] Les appels sont accueillis et l’affaire est déférée au Ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que le revenu de M. Lupton pour 1998, 1999, 2000 et 2001 correspond au montant déclaré en 2003 pour chaque année d’imposition. Toutes les pénalités doivent être radiées.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2005.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de mars 2006.
+Jean Pierre Koch, LL.B., traducteur
+[1] 2000 DTC 1619, page 1619.

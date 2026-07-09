@@ -1,0 +1,349 @@
+Title: Estate of Myrth May Stuart v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26884/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-171-26884-estate-of-myrth-may-stuart-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-26
+
+# Estate of Myrth May Stuart v. The Queen
+
+- Citation: 2003 TCC 171
+- Decision date: 2003-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 756, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Myrth May Stuart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-26
+Neutral citation
+2003 TCC 171
+File numbers
+2000-1805(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket:2000-1805(IT)G
+BETWEEN:
+ESTATE OF MYRTH MAY STUART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on April 22, 2002 and December 16 and 17, 2002 at Vancouver, British Columbia.
+Before : The Honourable Judge Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Carl Januszczak
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1994 taxation year is dismissed with costs; costs for April 22, 2002 shall be on a solicitor and client basis.
+Signed at Ottawa, Canada, this 26th day of March 2003.
+"Gerald J. Rip"
+J.T.C.C.
+Citation: 2003TCC171
+Date: 20030326
+Docket:2000-1805(IT)G
+BETWEEN:
+ESTATE OF MYRTH MAY STUART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] In 1994 the late Myrth May Stuart transferred her principal residence which, her executors claim, consisted of her housing unit and 3.255 acres (1.31726 hectares), more or less ("Property"). Mrs. Stuart died on July 26, 1995. The Minister of National Revenue ("Minister") assumed the sale of the Property occurred in 1994 and assessed the Estate of Myrth May Stuart for 1994. In assessing, the Minister considered, among other things, that 45 per cent of the Property (0.592767 hectares) subjacent to Mrs. Stuart's housing unit was her principal residence, as defined in paragraph 54(e) of the Income Tax Act ("Act"), and no area of land in excess of 45 per cent of the Property contributed to Mrs. Stuart's use and enjoyment of her housing unit as a residence; the taxpayer had not established to the Minister's satisfaction that the excess land was necessary for the use and enjoyment of the housing unit. Accordingly, the Minister considered that Mrs. Stuart had a capital gain of $701,083 on disposition of the portion of the Property that he did not consider to be part of the appellant's principal residence.
+[2] The definition of "principal residence" in paragraph 54(e) of the Act provides that:
+the principal residence of a taxpayer for a taxation year shall be deemed to include . . . the land subjacent to the housing unit and such portion of any immediately contiguous land as can reasonably be regarded as contributing to the use and enjoyment of the housing unit as a residence, except that where the total area of the subjacent land and of that portion exceeds 1/2 hectare, the excess shall be deemed not to have contributed to the use and enjoyment of the housing unit as a residence unless the taxpayer establishes that it was necessary to such use and enjoyment,
+la résidence principale d'un contribuable pour une année d'imposition est réputée comprendre [...] le fonds de terre sous-jacent au logement ainsi que la partie du fonds de terre adjacent qu'il est raisonnable de considérer comme facilitant l'usage du logement comme résidence; toutefois, dans le cas où la superficie totale du fonds de terre sous-jacent et de cette partie excède un demi-hectare, l'excédent n'est réputé faciliter l'usage du logement comme résidence que si le contribuable établit qu'il était nécessaire à cet usage,
+[3] The Minister also assessed a late filing penalty because neither Mrs. Stuart nor the trustee of her estate filed a tax return for 1994.
+[4] The parties agreed on the following facts:
+1. Myrth Mae Stuart (the "Taxpayer") was born in 1900.
+2. The Taxpayer was born in North Dakota, USA.
+3. The Taxpayer was married to Charles Anderson Stuart ("Stuart") in 1921.
+4. On or about March 3, 1947 Stuart acquired a lot at what eventually became 2570 152nd Street, Surrey, BC (the "Property").
+5. Stuart died in 1954. The Taxpayer was the Executrix of his Estate.
+6. On or about February 26, 1957 the Taxpayer purchased the Property from Stuart's Estate for $6,000.
+7. As of February 26, 1957, the Property consisted of 3.5 acres (1.41641 hectares), more or less.
+8. The Municipality of Surrey ("Surrey") expropriated two portions of the Property in 1987 and 1990.
+9. After the expropriation in 1990, the Property consisted of approximately 3.255 acres (1.31726 hectares), more or less. Attached as Tab 1 are copies of various diagrams of the Property.
+10. The V-Day value of the Property was $60,800.
+11. From 1947 to April 8, 1994 the Taxpayer lived in a house on the Property (the "House").
+12. The House was situated approximately 80-120 feet East of 152nd Street and approximately 15-20 feet North of the South boundary of the Property.
+13. The House was approximately 960 square feet in size, and had 6 rooms, including 3 bedrooms.
+14. As of both August 30, 1992 and April 8, 1994 there was no road access leading from King George Highway onto the Property and the driveway access was from 152nd Street.
+15. As of both August 30, 1992 and April 8, 1994 the Property had trees on it as shown in the tree map in Tab 1.[1]
+16. The City of Surrey sewer line ran across the front of the Property but was not connected to the Property and the Property relied on a well and a septic field.
+17. At all relevant times Mr. Peter Burnet ("Mr. Burnet") was the husband of Charliss Allison Burnet, who in 1992 was the only child of the Taxpayer.
+18. In the period leading up to August, 1992, Mr. Burnet was involved in negotiating a sale of the Property to various persons on behalf of the Taxpayer.
+19. Some time prior to August 1992, Leare Developments Ltd. ("Leare"), acting through Mr. Tim Earle, introduced Mr. Burnet to First Allied Development Corporation ("First Allied") as a potential purchaser of the Property. Attached [. . .] is the Invoice from Leare.
+20. The Taxpayer executed an Offer to Sell the Property for $1.8 million on August 28, 1992, which offer was accepted by First Allied on August 30, 1992.
+21. The Offer to Sell was modified by a letter from First Allied to Mr. Burnet dated August 31, 1992.
+22. The Offer to Sell as modified by the August 31 letter contained all the terms of the contract (the "Contract") between the Taxpayer and First Allied in respect of the sale of the Property.
+23. At the time the Contract was entered into the Property was zoned R-F Single Family Residential, which zoning was defined by Part XVIII of Surrey By-Law 5942.
+24. BL 5942 required any land development on the Property to comply with Surrey Subdivision and Development By-Law, 1986, No. 8830 (the "Surrey Subdivision and Development By Law"-copy of which as it read on September 28, 1992 . . .).
+25. On November 27, 1992 First Allied applied to Surrey to have the Property re-zoned from R-F Single Family Residential to RM-2 Multi-Family Residential.
+26. As discussed in Tab 7, First Allied's application was made in conjunction with a similar re-zoning application for the property immediately to the South of the Property.
+27. The conditions in paragraphs 9.01.01 and 9.01.02 of the Contract were satisfied or waived by First Allied on or about November 27, 1992 and under covering letter dated November 27, 1992 First Allied paid $50,000 to the Taxpayer's solicitors in trust.
+28. By letter dated July 8, 1993 First Allied reported to Mr. Burnet as to the progress of its re-zoning application.
+29. Under covering letter dated August 16, 1993 First Allied exercised its right under the Contract to pay three, $5,000 payments to the Taxpayer for an extension of the period needed to obtain re-zoning of the Property.
+30. On September 13, 1993 BL 5942 was replaced by By-Law 12000. Under BL 12000 the Property was zoned RF Single Family Residential, which zoning was defined by Part 16 of BL 12000. Pursuant to Part 2(B)(1) of BL 12000, any development on the Property as permitted by Part 16(B) of BL 12000 would have to be in accordance with the Surrey Subdivision and Development By Law.
+31. Under covering letter dated November 22, 1993 First Allied exercised its right under the Contract to pay three, $5,000 payments to the Taxpayer for an extension of the period needed to obtain re-zoning of the Property.
+32. First Allied's application to re-zone the Property was allowed on or about February 7, 1994.
+33. As required by the Contract, under covering letter dated February 7, 1994 First Allied paid the Taxpayer's solicitors $75,000 in trust.
+34. By letter dated March 25, 1994 First Allied notified Mr. Burnet that it had assigned its interest in the Property to a corporation called Metroland Development Corporation ("MDC").
+35. By letter dated April 6, 1994 MDC's solicitors forwarded to the Taxpayer's solicitors a Vendor's Statement of Adjustments, Form A Freehold Transfer and a GST Exemption Form and notified the Taxpayer that MDC had assigned its interest in the Property to Metroland-152nd Street (No. 1) Development Corporation ("Metroland No.1").
+36. The Taxpayer executed the Vendor's Statement of Adjustments, Form A Freehold Transfer and GST Exemption Form on April 8, 1994 and caused her solicitors to return them to Metroland No.1's solicitors on that date.
+37. Under covering letter dated April 8, 1994 Metroland No.1's solicitors paid $1,595,302.04 (being the balance of the purchase price of the Property) to the Taxpayer's solicitors in trust.
+38. The $50,000 referred to in paragraph 27 above was deposited by the Taxpayer's solicitors in trust for her (see copy of Authorization for interest earning account dated November 27, 1992 . . .). The $75,000 referred to in paragraph 33 above was deposited into the same trust account in trust for the Taxpayer (see copy of Authorization dated February 9, 1994 . . .). The $1,595,302.04 referred to in paragraph 37 above was deposited into a second trust account in the Taxpayer's name (see copy of Authorization dated April 8, 1994 . . .). There is no indication as to why a second trust account was used. The first trust account of $125,000 (plus interest of $3,000.59) and the second trust account (including interest of $655.59) were closed on April 11, 1994 and the total funds (less $3000.59 which was paid to First Allied reflecting the interest earned on the initial $50,000 deposit-see copy of Trust Cheque Requisition dated April 12, 1994 . . .) were transferred to a new trust account in trust for the Taxpayer (see copy of Authorization dated April 11, 1994 . . .).
+39. As of April 8, 1994 the highest and best use of the Property was as a multi-family residential complex similar to the complex that First Allied proposed to build in its re-zoning application.
+40. As of April 8, 1994 the Property was larger in size than other properties in the area, which allowed for higher densities, which allowed for greater value on a per square foot basis in respect of potential residential complexes to be built on the Property.
+41. The Taxpayer did not report any income or gain from the disposition of the Property and did not file a tax return for her 1994 taxation year.
+42. The last date, pursuant to subsection 110.6(26) of the Income Tax Act (Canada) (the "Act"), on which to file an election referred to in subsection 110.6(19) of the Act was April 30, 1997.
+43. The Taxpayer died on July 26, 1995. A copy of her Probated Will and the Distribution of Assets and Liabilities on death are attached as Tab 20.
+44. Prior to her death the Taxpayer did not claim any part of her $100,000 Lifetime Capital Gains Exemption.
+45. The Minister first contacted the Taxpayer (or her Estate) in respect of the sale of the Property by letter dated October 3, 1997 requesting additional information in respect of the sale.
+46. By Notice of Assessment dated March 9, 1999, replaced by a Notice of Reassessment dated April 19, 1999, the Minister reassessed the Taxpayer for her 1994 taxation year in respect of the disposition of the Property.
+47. In addition to reassessing the Taxpayer in respect of the disposition of the Property, the reassessment imposed a late filing penalty of $63,722 for the Taxpayer's 1994 taxation year under subsection 162(1) of the Act.
+48. In reassessing the Taxpayer to include a late filing penalty the Minister made no assumption as to whether the Taxpayer was or was not duly diligent in filing or not filing her tax return for her 1994 taxation year.
+49. Had the entire gain from the Taxpayer's disposition of the Property been deductible under paragraph 40(2)(b) of the Act, and assuming the Taxpayer had no other taxable income for the year, the Taxpayer would have been correct in not filing a tax return for the year.
+50. The Taxpayer duly objected to the reassessment on June 1, 1999. The Minister confirmed the reassessment on February 2, 2000.
+51. For her 1998 and 1989 taxation years, the last years for which the Taxpayer filed tax returns, the Minister assessed the Taxpayer as having total income of $3,886 and $3,949 respectively. These amounts did not include the amounts the Taxpayer received from the Federal Government in those years as shown in the next paragraph.
+52. The following table shows the amounts received by the Taxpayer form the Federal Government under various programs:
+Year
+Old Age Security
+Guaranteed Income Supplement
+1994
+$4,647
+$5,405
+1993
+$4,586.16
+$5,291.16
+1992
+$4,509.03
+$5,205.48
+1991
+$4,380
+$5,206
+1990
+$4,147.62
+$4,916.97
+1989
+$3,949
+$4,636
+1988
+$3,779
+$4,398
+[5] The appellant's counsel raised four issues that arise out of the transaction:
+(a) whether the Minister was correct in considering that only 45 per cent, and not all, of the area of the Property was Mrs. Stuart's principal residence;
+(b) whether the Minister assessed the proper year; the appellant's position is that the sale of the Property did not take place in 1994, as assessed;
+(c) that if a portion of the gain on disposition of the Property is to be included in income for 1994, whether Mrs. Stuart was entitled to the lifetime capital gains exemption of $100,000 in accordance with section 110.6 of the Act, effective February 22, 1994; and
+(d) whether Mrs. Stuart or the executors of her estate exercised due diligence in failing to file an income tax return for 1994, if so, the penalty assessed under subsection 162(1) would be vacated.
+1. Property As Principal Residence
+(a) Objective Test
+[6] In the appellant's view, both objectively or subjectively, all of the Property was Mrs. Stuart's principal residence: she was "locked into" the entire Property as a single parcel, so that she was required to sell the entire Property as a single unit ("Objective Test") and the excess land was necessary to "use and enjoyment" of the entire Property as required by the deeming provision of section 54 ("Subjective Test").
+[7] An overall site map of the Property is attached as an annexe to these reasons.
+[8] When Mr. Earle took on the task of selling the Property, he assumed the Property would be developed for condominiums. He believed that the City of Surrey preferred condominiums in the area since that was the development in the neighbourhood. Mr. Earle did realize that the Property was zoned single family residential at the time. He told Mr. Burnet that he would market the Property for condominium development.
+[9] In July 1992 Mr. Earle prepared a project summary for 36 units on the Property. The project summary was prepared before Mr. Earle approached First Allied. The summary was based on current development Mr. Earle saw at the time in the neighbourhood and what he thought municipal authorities would approve. The cost of the land was projected to be $1,950,000, not including any land tax. In June 1992 the Surrey Planning Department published a draft plan amending the Official Community Plan designations pertaining to the area of the Property, called the Semiahmoo Town Centre Development. The draft Plan anticipated a maximum density of 15 units per acre.
+[10] The draft plan was followed by the Semiahmoo Town Centre Development concept in December 1992. The later plan also proposed a maximum permitted density of 15 acres per unit in the area of the Property. The published material states that commercial and multi-family residential developments had taken place along the 152 Street corridor and around the 24 Avenue and King George Highway intersection. According to the development concept plan, this had resulted in "considerable pressure for further similar developments" along 152 Street. An objective of the Plan was to recognize the multiple family residential character in the Property area.
+[11] A map attached as Schedule D to Exhibit A-7, a policy report, with respect to the Property's area, dated August 1991, suggests the development of garden apartments for the Property. Mr. Earle explained that "garden apartments" is a planning term for ground access units, that is, each unit has a front door at ground or second floor levels. There would be eight to ten units per acre.
+[12] Mr. Earle introduced Mr. Burnet to Bob Maderick of First Allied. Mr. Burnet informed Mr. Maderick of his mother-in-law's asking price for the Property. That, he said, "was my extent of the negotiations". Mr. Burnet did accompany Mr. Maderick to see the Property and introduced him to Mrs. Stuart.
+[13] The "Offer to Sell" the Property (sometimes referred to as the "Contract") to First Allied was accepted on August 30, 1992. Much of the offer originated from a previous "fatal sale" of the Property. Mr. Burnet said that his counsel, Mr. Nitikman, "came on just before" the Agreement was signed. Mr. Nitikman's name appears on the Offer to Sell as a person who was to receive a copy of any document to be delivered under the terms of the Offer to Sell. Mr. Nitikman's name appeared so as to impress the potential purchaser and protect Mrs. Stuart, according to Mr. Burnet. If necessary, he stated, he would have gone to Mr. Nitikman for advice.
+[14] It is the appellant's position that, prior to August 30, 1992, the City of Surrey would not have approved of a subdivision of the Property into 6,000 square foot single family lots, notwithstanding the zoning by-laws at the time. Any subdivision would require the approval of the Approving Officer[2] under an application for subdivision. The application would have been rejected by the City of Surrey because the area including the Property was targeted for higher density development. Also, Mrs. Stuart did not have the means to finance a subdivision application. Therefore, she had to sell all of the Property as a single parcel.
+[15] There are at least two tax cases[3] that stand for the proposition that even where by-laws governing a property allow for subdivision, the Objective Test will be met if in fact subdivision approval would not have been given or if the economics of subdivision are unfeasible: in other words, the taxpayer is forced to sell the entire property as a unit. In Carlile, the majority of the Court of Appeal relied heavily on the opinion of a planning consultant that the appellant had only a six in ten chance of obtaining subdivision approval in finding that necessity. This Court allowed the BrohmanEstate appeal because of the testimony of the chairman of the Regional District Planning Board who opined that the property in question did not meet the physical qualifications for subdivision and that the taxpayers could not have legally occupied their housing unit as a residence on less than ten acres.
+[16] The appellant did not lead evidence similar to that led in Carlile and Brohman Estate to prove that the City of Surrey would not have approved a subdivision application for the Property. Rather, counsel relied on two British Columbia cases, Wylesv. Penticton (City) and Elsomv. Delta (Corp.) Approving Officer[4] and asked me to conclude, as I understand it, that since the Approving Officer has the discretion to reject an application for subdivision in the public interest, Mrs. Stuart would not have been successful in obtaining subdivision approval for 6,000 square foot lots.
+[17] The cases of Wylesand Elsom, supra, are not of great help to the appellant. Their authority is for the proposition that an Approving Officer may consider public interest in considering a subdivision proposal. In determining public interest the Approving Officer may consider the Official Community Plan and current policy planning work underway in the area of the property. However, the Approving Officer may consider these factors; he or she is not compelled to do so and may consider other factors as well to determine whether a subdivision is in the public interest. There is no hard evidence before me from the Municipality of Surrey, or some knowledgeable person, to even suggest that the Approving Officer in Surrey would not have approved a subdivision proposal by Mrs. Stuart. In both Brohman and Carlile, supra, the taxpayers produced witnesses who had experience to testify whether or not in their views a subdivision would be approved, the chairman of the Regional District Planning Board in the former appeal and a planning consultant in the latter appeal. I cannot rely on decisions of courts with respect to municipalities different from that where the Property is situated to conclude in the appellant's favour, even if the findings in Wyles and Elsom assist the appellant to some degree. Different municipalities may have different approaches and different goals in considering subdivision applications. What may be good for Sooke or Delta may not be good for Surrey.
+[18] As far as the appellant's argument that it was simply impossible for Mrs. Stuart to subdivide the Property, given her age, lack of business experience and lack of money is concerned, it is within the realm of probability that if Mrs. Stuart had wished to sell the Property, a purchasing developer, like First Allied, perhaps, would absorb the costs of subdivision. There is no evidence to the contrary and in fact, it was First Allied who was obligated under the Contract to obtain subdivision at its cost.
+(b) Subjective Test
+[19] Mrs. Burnet, the executrix of her mother's estate, recalled the time she, at age 11, moved to the Property and resided on the Property until she went to University. While at university and later she would visit her mother on a "regular basis" every week or second week.
+[20] In 1947 the house on the Property was heated by an air tight wood burner. The kitchen stove used wood and kerosene. The wood came from maple, fir and hemlock trees on the Property. Mrs. Stuart had no need to purchase wood for heating and baking. When the house was renovated in the early 1950s, a wood burning fireplace was installed in the living room and served to heat the main floor of the two-storey house. In the 1960s a gas furnace was installed in the basement of the house. Mrs. Burnet stated her mother was frugal and made use of the gas furnace only in "really cold" weather.
+[21] Prior to 1992, Mrs. Stuart sold a "small piece of property" to a Mr. and Mrs. Jacobson and Mr. Jacobson cut wood for Mrs. Stuart. (See Annexe attached to these reasons.)
+[22] Mrs. Burnet also stated her mother lived on a modest income and could function independently. She had no interest in money. Fruit trees, apple, various plumb and peach, and vegetables grew on the Property. Mrs. Stuart made preserves from the fruit and daily ate the fruits and vegetables. If there were no fruits and vegetables growing on the Property, Mrs. Burnet testified, her mother "would have to call on us" for financial help. Her mother considered the Property her homestead.
+[23] Appellant's counsel argues that Mrs. Stuart's use of the Property brings her within the subjective test. He submits that given the word "necessary" in paragraph 54(e) of the Act, definition of "principal residence" modifies not only the word "use" but "enjoyment", a less restrictive interpretation of the word "necessary" is appropriate. Counsel referred to the definition of the word "necessary" in Black's Law Dictionary[5]where the authors state that the word "may import that which is only convenient, useful, appropriate, suitable, proper or conducive to the end sought: . . . an adjective expressing degrees, and may express more convenience or that which is indispensable . . . or it may mean something reasonably useful and proper, and of greater or lesser benefit or convenience, and its force and meaning must be determined with relation to the particular object sought". Counsel also finds support in Wallace Estate v. Canada (M.N.R.).[6] On the other hand, respondent's counsel denies that the excess amount of the Property was necessary for the use and enjoyment of the housing unit as a residence; he relies on the reasons of Christie, A.C.J. (as he then was) in Rode et al. v. M.N.R..[7]
+[24] In Wallace, supra, the property in issue was an estate manor, essentially the highest end home in Victoria, B.C. The estate consisted of two lots, the housing unit was located on the edge of one lot. Gardens, an artificial beach, servant quarters, the driveway and other luxuries surrounded the housing unit and were integrated into both lots.
+[25] The trial judge in Wallace, in allowing the appeal, referred to the reasons for judgment in Rode, supra, as well as those of the Federal Court of Appeal in The Queen v. Yates.[8]
+[26] In Yates, the taxpayers had no choice at the time of purchase but to acquire a 10-acre parcel of land if they were to live in the area in question, since 10 acres was the minimum residential parcel then permitted by the zoning by-law. The zoning by-law was subsequently amended to require a 25-acre minimum. The taxpayers continued to reside on their piece of land as legal non-conforming users. They did not actually use more than one acre for residential purposes and rented the balance to a neighbouring farmer. In 1978, the taxpayers sold 9.3 acres to the City of Guelph under threat of expropriation. The trial judge held that since the taxpayers could not legally have occupied their housing unit as a residence on less than 10 acres, the portion in excess of one acre was necessary to its use and enjoyment.
+[27] Mahoney J. opined in Yates[9] that:
+. . . It is possible that a subjective test, involving the actual contribution of the immediately contiguous land to the taxpayer's use and enjoyment of the unit as a residence, may be admissible. Perhaps such factors as are commonly taken into account in applying subsection 24(6) of the Expropriation Act could be relevant in appropriate circumstances. However, whether or not a subjective test is properly to be applied, an objective test surely is and if, in its application, it is found that the taxpayer has discharged the onus on him, it is unnecessary to consider the subjective.
+[28] The Federal Court of Appeal acknowledged that the task of establishing that the excess land is necessary to the use and enjoyment of the housing unit as a residence is a "formidable" one, as stated by Christie A.C.J., as he then was, in Rode.[10] The Court of Appeal, relying on the above comments of Mahoney J., stated that "where land does not qualify in the objective test it may, however, qualify as part of the residence by recourse to a subjective test".
+[29] I believe that the proper approach to determine if land in excess of 1/2 hectare is necessary to the use and enjoyment of a housing unit as a residence is the approach taken by Christie A.C.J. in Rode:[11]
+. . . To my mind, the proper approach to the determination of these appeals is to objectively consider all of the relevant circumstances adduced in evidence which were in existence immediately prior to the disposition of the property and in the light of that answer this question: Have the appellants established on a balance of probabilities that without the area of land which they contend constitutes the subjacent and immediately contiguous land component of their housing unit they could not practicably have used and enjoyed the unit as a residence?
+. . .
+. . . Even if an appellant establishes beyond controversy that what exceeds 1 acre did in fact make an important contribution to his use and enjoyment of the housing unit as a residence, this does not assist him because the fact has been nullified by the legislation unless he proves necessity. Therefore what an appellant must do in order to establish that his principal residence exceeds 1 acre is to prove that the excess was "necessary" to the use and enjoyment of the housing unit as a residence. I believe that in its context this requirement dictates that a stringent test shall be applied in determining the acreage of a principal residence.
+[30] The word "necessary" in the section 54 definition of "principal residence" connotes a term that is indispensable, not one that is convenient, useful or suitable. Christie A.J.C., correctly in my view, adopted the meaning assigned to the word "necessary" by the authors of the Oxford English Dictionary, that is, "indispensable, requisite, essential, needful; that cannot be done without" and was of the view that the phrase "that cannot be done without" best epitomizes what a taxpayer must meet in order to establish that his or her principal residence can be properly regarded as more than 1/2 hectare.[12] The Oxford English Dictionary states that in the sixteenth and seventeenth centuries the word "necessary" was used frequently approaching the sense of "useful" without being absolutely indispensable, but that meaning is today rare. Fowler's Modern English Usage[13] assimilates the words "essential", "necessary" and "requisite"; all mean "needed". In discussing the word "necessary", Fowler states that "when we call something n, we have in mind the irrestible action of causality or logic; the n thing is such that the other cannot but owe its existence to it or result in it. N doubles the parts of indispensable and inevitable".
+[31] Le Petit Robert[14] defines the word "nécessaire" : « se dit d'une condition, d'un moyen dont la présence ou l'action rend seule possible une fin ou un effet. [...] dont l'existence, la présence est requise pour répondre au besoin (de qqn) » .
+[32] It does not necessarily follow that because it was convenient and economical for Mrs. Stuart to live on the Property that the area of the subjacent land that exceeded 1/2 hectare was necessary to the use and enjoyment of the housing unit as a residence. Nor does the adoption of a particular life-style - deliberate or not - require one to conclude that all of the property was necessary for the use and enjoyment of the housing unit as a residence. The appellant has not satisfied me that the Minister erred in considering that a portion of the Property comprising 55 per cent of the Property was not necessary for the use and enjoyment of the housing unit on the Property as a residence.
+2. Year of Sale
+[33] Counsel for the appellant argues that Mrs. Stuart sold the Property in 1992, not 1994 as assessed by the Minister. He explains that Mrs. Stuart and First Allied entered into a binding agreement for the purchase and sale of the Property on August 30, 1992, when the Contract was accepted by First Allied.[15] He says that the Contract contained a number of conditions precedent, all of which could be waived by First Allied, at its option. The conditions appellant's counsel refers to are set out in article 9 of the Contract:
+9.01.01 The Vendor shall have delivered to the Purchaser and the Vendor hereby so covenants to deliver within seven (7) days following the Acceptance Date:
+(a) all of the Drawings, Permits and Documents relating to the development of the Lands that are in the possession or control of the Vendor;
+9.01.02 The Purchaser shall be allowed ninety (90) days from the date of acceptance of this Offer (the "Initial Subject Date") in which in its sole and absolute discretion to satisfy itself and approve of:
+(a) the physical condition, the construction and the state of repair of the Property during which time it shall be entitled to carry out such inspections as it may deem reasonably necessary;
+b) an economic feasibility study.
+9.01.03 In the event the Purchaser is satisfied with and does approve and/or has waived the matters referred to in Clauses 9.01.01 and 9.01.02, the Initial Deposit shall be paid to the Vendor's Solicitor, in trust, as set out in Clause 4.01.03, and the Purchaser shall proceed with the rezoning of the Property. The Purchaser shall be granted a time period of 365 days from the date of acceptance of this Offer within which to obtain the required rezoning. In the event the Municipality of Surrey does not grant such rezoning within the 365 days, then, at the sole option of the Purchaser, the Vendor will grant up to 6, 30 day extension periods upon the payment of Five Thousand Dollars ($5,000) to the Vendor for each extension period. Such extension payments shall not be credited on account of the Purchase Price on closing. In the event the Purchaser does obtain third reading from the Municipality of Surrey for rezoning the Property within 365 days from the date of acceptance of this Offer, or during one of the extension periods, then the Additional Deposit of Seventy Five Thousand Dollars ($75,000) will be paid to the Vendor's Solicitor, in trust, and the entire deposit shall become non-refundable, and the Purchaser shall proceed with the purchase of the property.
+[34] The sale of the Property closed on April 8, 1994. Appellant's counsel is of the view that the sale closed after the final condition precedent, re-zoning of the Property, was waived by First Allied in a letter to Mr. Burnet on February 7, 1994. The body of the letter, signed on behalf of First Allied by Mr. Madiuk, reads as follows:
+Dear Peter,
+Pursuant to Clause 9.01.03 of our Agreement, we wish to confirm that 3rd reading from the City of Surrey for rezoning the above property was delivered on February 7, 1994. Accordingly, we shall forward a cheque for the sum of $75,000 made payable to your solicitor, Fraser Beatty, "In Trust".
+Please accept this letter as our notification to Mrs. Myrth Mae Stuart that all of our conditions to purchase have been waived.
+We, therefore, now have a binding Agreement of Purchase and Sale and shall proceed to complete the transaction by Friday, April 8, 1994.
+Yours very truly
+In these circumstances, counsel concludes, the sale of the Property "related back" to August 31, 1992 and the disposition of the Property occurred in 1992.
+[35] The term "related back" appears to have originated in the reasons for judgment of Jessel, M.R. in Lysaghtv. Edwards[16]:
+. . . the moment you have a valid contract for sale the vendor becomes in equity a trustee for the purchaser of the estate sold, and the beneficial ownership passes to the purchaser . . .
+[36] James L.J.'s explained the term "related back" in Rayner v. Preston:[17]
+. . . But when the contract is performed by actual conveyance, or performed in everything but the mere formal act of seeking the engrossed deeds, then that completion relates back to the contract, and it is thereby ascertained that the relation was throughout that of trustee and cestui que trust. That is to say, it is ascertained that while the legal estate was in the vendor, the beneficial or equitable interest was wholly in the purchaser.
+[Emphasis added.]
+[37] In other words, a vendor holds the lands sold by way of a constructive trust for the purchaser, which trust "relates back" to the date the agreement was executed: Martin Commercial Fueling Inc. v. Virtanen (1997).[18]
+[38] The Ontario Court of Appeal considered when a purchaser is not treated as being in equity an owner of the property in Buchanan and James v. Oliver Plumbing:[19]
+In Cornwall v. Henson, [1899] 2 Ch. 710 at p. 714 Cozens-Hardy J. pointed out that to state that the effect of a contract for the sale of land was to make the owner the purchaser of the land in equity from that moment was to state the proposition too broadly. He expressed a qualification of that principium in these words: "The doctrine is subject to one obvious qualification - namely, that the contract is one of which the Court under the circumstances will decree specific performance. For instance, if the vendor is not in a position to obtain a decree for specific performance, whether by reason of some defect in title or by reason of some collateral misrepresentation, the purchaser never was in the view of the Court, owner in equity of the property. So, too, if by reason of delay or other circumstances the Court declines to grant to the purchaser specific performance, the purchaser is not treated as being in equity owner of the property".
+[39] The "relation-back" theory describes the nature of a purchaser's interest in a property in a specific fact situation, where the purchaser is entitled to specific performance. When that is the case, the sale date relates back to the earliest date the purchaser is entitled to specific performance because the purchaser is entitled to the property on demand, as a result of the constructive trust formed where the vendor holds the property in trust for the purchaser.[20] The earliest date the disposition can relate back is to the date of the agreement of purchase and sale. And this is what the appellant says occurred.
+[40] The parties do not agree what condition or conditions are set out in Clause 9.01.03. Clause 9.01.03 is poorly drafted and suggests several interpretations. The appellant claims the Clause contains two conditions, that the purchaser pursues rezoning and that upon third reading for rezoning of the Property, the purchaser is to pay $75,000 and proceed with the purchase of the Property. The Respondent interprets Clause 9.01.03 to provide only one condition, that third reading be obtained. Their interpretations, of course, support their positions. If the appellant's view is correct, once all conditions precedent were waived or fulfilled, the disposition relates back to the date of the Contract. If one accepts the respondent's position, the condition, third reading, was satisfied on February 7, 1994, when Mr. Madiuk of First Allied wrote to Mr. Burnet confirming third reading had been obtained.[21] It is only from February 7, 1994 that specific performance could have been demanded.
+[41] One would normally conclude from reading Clause 9.01.03, bearing in mind the intention of the parties, that the condition contained in that provision should be that rezoning of the Property be obtained, not merely pursued by the purchaser, First Allied. Without rezoning, First Allied may not be able to achieve its plans for the Property. Failure to obtain rezoning of the Property may be fatal to the intentions of the parties. Indeed, First Allied is given 365 days from date of the Contract, plus up to six 30 days extension periods, to obtain the rezoning. However, it is clear from the terms of the Contract that rezoning of the Property was not necessary to complete the transaction. Clause 5.01 of the Contract states that:
+The purchase of the Property shall be completed on the first business day that is after the expiry of sixty (60) days after the Purchaser receiving from the Municipality of Surrey third reading for rezoning of the Property, or such earlier date as the Purchaser and Vendor shall agree upon in writing (the "Closing Date"). [Emphasis added.]
+[42] It is third reading that triggers the closing of the transaction, not rezoning of the Property. The condition in Clause 9.01.03 was to obtain third reading, then the transaction would close, whether or not rezoning was eventually secured. Therefore the letter of February 7, 1994, from First Allied to Mr. Burnet only serves as notice of confirmation from First Allied that third reading for rezoning was received from the Municipality of Surrey and that closing would take place on April 8, 1994. I do not know what conditions were being waived by First Allied in that letter. Third reading for rezoning of the Property had been obtained and the parties were bound to close the transaction within 60 days of third reading. This is the position of the respondent and I agree with her.
+[43] Even if there were conditions in Clause 9.01.03 of the Contract that were not satisfied as of February 7, 1994, these conditions could not be waived by First Allied. In Turney v. Zhilka,[22] the parties contracted to sell land provided that "the property can be annexed to the village . . . and a plan is approved by the Village Council for subdivision". The date of completion was fixed at "60 days after plans are approved". No party undertook to fulfill this condition and neither reserved any power of waiver. The vendor repudiated the Contract because the annexation condition had not been complied with, the purchaser purported to waive the condition on the ground it was solely for his benefit and was severable, and sued for specific performance.
+[44] Judson, J. held that:
+. . . All that waiver means . . . is that one party to a contract may forego a promised advantage or may dispose with part of the promised performance of the other party which is simply and solely for the benefit of the first party and is severable from the rest of the contract.
+But here there is no right to be waived. The obligations under the contract, on both sides, depend upon a future uncertain event, the happening of which depends entirely on the will of a third party - the Village council. This is a true condition precedent - an external condition upon which the existence of the obligation depends. Until the event occurs there is no right to performance on either side. The parties have not promised that it will occur . . . Waiver . . . does at least presuppose the existence of a right to be relinquished.
+[45] In the appeal at bar, the condition in Clause 9.01.03 to obtain third reading for rezoning of the Property is not a promise to perform by either Mrs. Stuart or First Allied. The requirement to obtain third reading depended entirely on the will of a third party - the Municipality of Surrey. It is a true condition precedent that cannot be waived, as explained in Turneyv. Zhilka.[23] Until the third reading is obtained there is no right to performance by either Mrs. Stuart or First Allied, the parties have not promised that it will occur. First Allied obligated itself to proceed with the rezoning of the Property once it was satisfied with, or had waived, the conditions in Clauses 9.01.01 and 9.01.02 of the Contract. Mrs. Stuart promised only the delivery to First Allied of drawings, permits and documents and to permit First Allied time to inspect and approve the Property and to approve an economic feasibility study, the only conditions First Allied could have waived.
+[46] At all relevant times, section 54 of the Act defined "disposition" of any property, unless expressly otherwise provided in the Act, to include:
+(a) any transaction or event entitling a taxpayer to proceeds of disposition of property,
+a) toute opération ou tout événement donnant droit au contribuable au produit de disposition de biens;
+. . .
+[...]
+but, for greater certainty, does not include
+. . .
+il demeure toutefois entendu que le terme ne vise pas :
+[...]
+(e) any transfer of property by virtue of which there is a change in the legal ownership of the property without any change in the beneficial ownership thereof, . . .
+e) un transfert de biens à la suite duquel il y a un changement dans la propriété légale du bien sans changement dans la propriété effective de ce bien, [...]
+[47] "Proceeds of disposition" of property includes:
+(a) the sale price of property that has been sold.[24]
+a) le prix de vente du bien qui a été vendu;24
+[48] In the "Principles of Canadian Income Tax Law",[25] the authors write that:
+[i]n sales of real property, many agreements provide a "closing date" for the completion of the sale. This is normally the date that beneficial ownership is intended to pass from the vendor to the purchaser and the time the vendor is entitled to the sale price.
+[49] For a disposition of property to occur, for tax purposes, there must be a change in the beneficial ownership of the property. Possession, use and risk are primary attributes of beneficial ownership. Pursuant to Clause 14 of the Contract the Property remained at the risk of Mrs. Stuart until closing date. And it was only on the closing date that Mrs. Stuart was entitled to proceeds of the sale.
+[50] Until such a time as Mrs. Stuart could enforce payment of the purchase price for the Property, she is not entitled to any portion of the sale price.[26] It was only in 1994 that she was entitled to proceeds of disposition.
+[51] The disposition of the Property took place in 1994, not 1992.
+3. Eligibility for Capital Gains Exemption
+[52] Before February 23, 1994, subsection 110.6(3) of the Act provided for a lifetime capital gains exemption to individuals of $100,000. The exemption was eliminated with respect to dispositions of capital property after February 22, 1994. However, individuals were permitted to make an election in prescribed form to recognize the capital gains accrued on property owned on February 22, 1994: subsections 110.6(19) and (24) of the Act.
+[53] The purchase and sale of the Property closed on April 8, 1994.[27] If Mrs. Stuart wished to have $100,000 of her capital gain on the disposition of the Property exempt from tax, she would have had to file the election in prescribed form on or before April 30, 1995. She did not do so. And neither she nor Mrs. Burnet, as trustee of her estate - Mrs. Stuart died on July 6, 1995 - filed late the election pursuant to subsection 110.6(26) on or before April 30, 1997. Mrs. Stuart did not file an income tax return for 1994.
+[54] Appellant's counsel acknowledges that the appellant is "technically" out of time under subsection 110.6(26). Nevertheless, she should be allowed to file the election at this late date. It was only in October 1997 that officials of the Minister first contacted the representatives of the appellant's estate ("representatives") in respect of the issues in appeal. Until that time neither Mrs. Stuart nor her representatives had reason to think an election should be filed and by October 1997 the deadline for filing had passed. On or about April 8, 1994 Mrs. Stuart signed a certificate that the sale of the Property is an exempt supply for purposes of the Goods and Services Tax ("GST") because, among other things, the entire Property was a residential complex within the meaning of Part IX of the Excise Tax Act. The Canada Customs and Revenue Agency ("CCRA") did not question her statement. Counsel submits that Mrs. Stuart would have filed the required election if she had known or suspected the Property was taxable. She had no reason to believe that the sale of the Property could be subject to tax.
+[55] Robertson J.A., considered the situation where a taxpayer did not "designate" in its return of income, pursuant to paragraph 55(5)(f), a portion of a dividend for purposes of utilizing "safe income" in a corporation before its sale: The Queen v. Nassau Walnut Investments Inc.[28] Apparently the taxpayer's new accountants did not realize an amount was to be designated. Robertson J.A., held that the Minister only objected to the form of the late designation and agreed that the taxpayer was not trying to circumvent subsection 55(2). As such, he stated at page 5060:
+In conclusion, it is my opinion that Nassau is entitled to claim the benefit of paragraph 55(5)(f) of the Act. That right arose once the Minister issued the notice of reassessment and invoked subsection 55(2). In other words, the inference that Parliament did not intend to accord relief in these circumstances has been rebutted. Accordingly, the appeal should be dismissed with costs.
+[56] Robertson J.A. expressly distinguished designation cases from election cases, at page 5056:
+. . . First, the Minister notes that there is no provision in the Act which provides for the late-filing of a designation. This is to be contrasted with the legislatively permissible late filing of "elections" made under other provisions of the Act.
+[57] And at page 5058:
+Having decided that the present situation is not analogous to the election cases, . . .
+[58] In Miller v. The Queen,[29] Mahoney, J.A. decided that a late forward averaging election under subsection 110.4(1) of the Act was not permitted because of the nature of that provision. To allow such a late election would be to allow retroactive tax planning that was not meant by the legislation. He stated at page 5037:
+To allow amendment of the election, either by the Minister as part of the assessment process or the taxpayer after assessment, would, in my opinion, require an inadmissible reading into the Act of words that were not there. I would allow the appeal and restore the assessment.
+[59] Subsection 110.6(24) of the Act permits a late election during a specific time period. The provisions of subsections 110.6(26), (27) and (28) relating to late and amended election and the means to revoke or amend an election are restrictive and rigid. Section 110.6 does not contemplate elections filed after the periods prescribed in subsection (20). To allow a late election outside the statutorily specified window in section 110.6 would directly contradict the intention and purpose of Parliament in enacting the subsection, notwithstanding potential peculiar fact situations. The appellant is not entitled to file the election contemplated in subsection 110.6(19).
+4. Late Filing Penalty: subsection 162(1)
+[60] On the bases that Mrs. Stuart was taxable on gain from the sale of the Property in 1994 and that she failed to file a tax return for 1994, the Minister, in assessing, imposed a late filing penalty pursuant to subsection 162(1) of the Act. Section 162 imposes a penalty on:
+[e]very person who fails to file a return of income for a taxation year as and when required by subsection 150(1) . . .
+[61] In 1994, subsection 150(1) required a return of income for each taxation year to be filed by a corporation and
+. . . in the case of an individual, for each taxation year for which tax is payable by the individual or in which the individual has a taxable capital gain or has disposed of a capital property, shall, without notice or demand therefor, be filed with the Minister in prescribed form containing prescribed information.
+. . . dans le cas d'une société (sauf une société qui a été, tout au long de l'année, un organisme de bienfaisance enregistré) et, dans le cas d'un particulier, pour chaque année d'imposition pour laquelle un impôt est payable ou au cours de laquelle le particulier a un gain en capital imposable ou a disposé d'une immobilisation:
+[62] Mrs. Stuart disposed of a capital property in 1994. I have held that the Minister was correct in assessing Mrs. Stuart on the basis that a portion of the gain on the disposition of the Property is to be included in her income for 1994.
+[63] A penalty imposed under subsection 162(1) is subject to a defense of due diligence.[30] The appellant has the onus to show Mrs. Stuart was duly diligent, the respondent does not have the onus, as submitted by appellant's counsel, to show that Mrs. Stuart was not duly diligent. It is true that when the Minister assessed the penalty, he made no assumption as to whether Mrs. Stuart was or was not duly diligent with respect to her failure to file her tax return for 1994. The Minister only assumed she did not file her 1994 tax return. In assessing, the Minister can only assume facts he knows or assumes to be true. It would be foolhardy for the Minister to even try to predict potential defenses or positions of taxpayers in fighting an appeal. The respondent has no onus to show Mrs. Stuart was not duly diligent. A failure to file a timely tax return presumes a lack of due diligence to file the return within the required statutory period and it is for the taxpayer to establish the opposite. Counsel is overreaching.
+[64] Mrs. Stuart was 95 years old on April 30, 1995, the last day for filing her 1994 tax return, and she died three months later. An official of the CCRA questioned on discovery, acknowledged Mrs. Stuart never had a previous dispute with the CCRA or its predecessor, Revenue Canada.
+[65] There is no evidence whether Mrs. Stuart, Mrs. Burnet or Mr. Burnet ever asked for or received any tax advice with the sale of the Property. Mr. Nitikman is counsel for the appellant and has appeared in this Court on numerous occasions. He is the person who, under the Contract, was to receive copies of material sent by the Purchaser to the Vendor, who received at least one payment under the Contract on behalf of Mrs. Stuart and whose firm acted for Mrs. Stuart on her sale of the Property. When respondent's counsel cross-examined Mrs. Burnet concerning any legal advice she or Mrs. Stuart may have received concerning the sale of the Property, appellant's counsel, on his client's behalf, objected to the questioning on the ground of solicitor/client privilege, so there is no evidence on this point, one way or the other.[31]
+[66] Appellant's counsel also stated that Mrs. Stuart was 71 years old in 1971 when capital gains became taxable. He claimed there is no evidence that she knew about this change in the law. Mrs. Burnet said she doubted her mother knew what a capital gain was. Also, there is evidence that Mrs. Stuart never sold a capital property before 1994 that may have been subject to income tax and, therefore, counsel suggested "it is entirely reasonable to suppose that it never occurred to her that the sale of the Property might be taxable". She lived on the Property for nearly 50 years and lived off the land, counsel added. She would have thought that the whole Property was her principal residence.
+[67] Mrs. Burnet practiced Family Law with the British Columbia government during the period 1977 to 2001. She was called to the Bar in 1961, but left practice to raise a family. She is the sole heir of her mother's estate.
+[68] According to Mrs. Burnet, her mother was fully aware of the transaction and "what was happening". Mr. Burnet confirmed this. She stated that her mother's mail was addressed to her and her husband because her mother's mailbox was far from her mother's house. I assume this statement relates to the fact that under the Contract, all notices to Mrs. Stuart are to be sent to Mr. and Mrs. Burnet.
+[69] Mrs. Burnet, as trustee for her deceased mother's estate, did not file a tax return for her mother for 1995, the year of her death since no tax was payable. Mrs. Burnet said she did not seek tax advice on winding up the estate.
+[70] Mrs. Burnett testified she was not aware of the tax implications of the transaction. As a result of "casual chatting" with people who sold houses she believed a sale of a principal residence may not be taxable. However, she was not involved in the transaction and did not make any inquiries. "I had so little knowledge of the area." Mr. Burnet had conduct of the transaction. She also testified that receiving approximately $1,700,000 from her mother was "not a big event in my life" since she had a "decent income, a nice home and [was] not lacking for anything".
+[71] I was surprised at Mrs. Burnet's testimony that she had not realized that the disposition of a principal residence is free of tax. First of all, I found Mrs. Burnet to be an intelligent, no nonsense person and lawyer. I do not think she is a passive sort. She is no shrinking violet. Secondly, respondent's counsel produced a copy of a Notice of Appeal from reassessments issued to Mr. Burnet for 1987 and 1989. The date of the Notices is October 7, 1992. The Minister had assessed on the basis that a loss incurred on the sale of a property owned by both Mr. and Mrs. Burnet was not deductible since the property had been Mr. and Mrs. Burnet's principal residence. The principal residence had been demolished and the land was sold. The Court, agreeing with Mr. Burnet, held that there was a change in use of the property to inventory - the land was not a principal residence at time of disposition - and the loss was deductible.[32] As a result of my impression of Mrs. Burnet I infer that since she and Mr. Burnet owned the property subject to Mr. Burnet's appeals, the concept of "principal residence" must have been addressed by them as early as 1992.
+[72] Although through his work at a stock brokerage, Mr. Burnet knew what a capital gain was and the "favourable treatment" for a principal residence, he said he did not know of the half hectare limit. He said that he did not discuss the tax consequences of the sale with Mrs. Stuart because he was unaware of the consequences. If she had asked, he "would have told her to see a tax expert", probably a lawyer.
+[73] Mr. Burnet declared that neither he, Mrs. Burnet nor Mrs. Stuart received tax advice on the disposition of Property and "did not think of getting tax advice". Nobody consulted the CCRA publications on disposition of property, he added. Nobody turned their mind to the possible tax implications of the transaction.
+[74] To impose a penalty in such circumstances, counsel submits, is contrary to the whole purpose of imposing a penalty, to ensure people comply with the Act. If one cannot know in advance whether one is in compliance with the statute, there is no point in imposing a penalty.
+[75] Mr. Nitikman argued that since it is a question of fact as to much land in excess of 1/2 hectare is necessary for the use and enjoyment of the housing unit as a residence, no matter who Mrs. Stuart, or Mr. or Mrs. Burnet, went for advice, "even if they had gone to the top tax lawyer in Vancouver", the best they could have said is "well, you know, the facts are kind of grey. There is no exact precedent, we really don't know . . .". It is, he said, putting form over substance to say you should go to an advisor only to be told nothing can be done. In reply to my question, counsel declared that due diligence must mean "that you ask for competent advice which could have made a difference to the circumstances". If the advice could not make a difference, he asked, why insist on it.
+[76] Subsection 150(1) of the Act requires an individual who has disposed of capital property in the year, whether at a profit or a loss, is to file a tax return for the year.
+[77] If Mrs. Stuart or the Burnets had sought advice it is highly likely that a competent advisor would have informed them that the Act, at subsection 150(1), required Mrs. Stuart to file a tax return for 1994 since she disposed of capital property in that year. If (Mrs. Stuart or her advisers believed the disposition was in 1992, then in return should have been filed for that year) I do not appreciate the force of the submissions of appellant's counsel that none of Mrs. Stuart, Mrs. Burnet or Mr. Burnet would have received an answer from Mr. Nitikman's "top tax lawyer" that, in the circumstances, Mrs. Stuart need not file a tax return. A principal residence where there is no change in use is, after all, capital property and Mrs. Stuart did dispose of capital property.
+[78] In fact, if one is to believe the evidence of Mrs. Burnet and Mr. Burnet, no questions were asked because no answers were wanted. When one does nothing one can hardly be duly diligent. On the facts of this appeal there was no due diligence by Mrs. Stuart or Mr. or Mrs. Burnet as her representative to prevent the failure of Mrs. Stuart to file her 1994 income tax return on time or even late.
+[79] The appeal is dismissed with costs. Because this appeal had to be adjourned on April 22, 2002, during the testimony of Mr. Earle for failure of the appellant, among other things, to give proper list of documents to the respondent, costs for that day shall be on a solicitor and client basis.
+Signed at Ottawa, Canada, this 26th day of March 2003.
+"Gerald J. Rip"
+J.T.C.C.
+CITATION:
+2003TCC171
+COURT FILE NO.:
+2000-1805(IT)G
+STYLE OF CAUSE:
+Estate of Myrth May Stuart v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 22, 2002 and December 16 and 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge G.J. Rip
+DATE OF JUDGMENT:
+March 26, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman
+Counsel for the Respondent:
+Carl Januszczak
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel A. Nitikman
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+Annexe
+[1] The tabs are not included in these reasons and I have struck out references to the tabs.
+[2] I understand that the Approving Officer is appointed by a municipality to exercise jurisdiction conferred on him or her in the Land Title Act (R.S. B.C. 1979, c. 219) and other Acts (such as the Municipal Act (R.S. B.C. 1979, c. 290)). A subdivision plan is to be tendered for examination and approval by the Approving Officer who shall approve or reject the subdivision plan: sections 83 and 85 of the Land Title Act.
+[3]
+Carlilev. The Queen, 95 DTC 5483 (F.C.A.) and BrohmanEstate et al. v. The Queen, 2001 DTC 71 (T.C.C.).
+[4]
+Wyles, (1995) 28 M.P.L.R. (2d) 250 (B.C.S.C.) at para. 18 and Elsom, (1995) 7 B.C.L.R. (3d) 271 (C.A.) at para. 16. See also Cole v. Anderson (B.C.S.C.), [1993] B.C.J. No. 2557 (Q.L.), at p. 5, sustained by the Court of Appeal on February 6, 1995, Vancouver Registry CA018220, at p. 3.
+[5] (6th ed.) 1029.
+[6] [1990] T.C.J. No. 450 (Q.L.), at paras. 20, 21, 28, 31 and 32.
+[7] 85 DTC 272.
+[8] 83 DTC 5158 (F.C.T.D.), aff'd 86 DTC 6296 (F.C.A.).
+[9] At p. 5159.
+[10] Supra, p. 274.
+[11] Supra, p. 274.
+[12] Page 274.
+[13] 2nd ed. pp. 382, 168.
+[14] Le Petit Robert I, 1983 p. 1261.
+[15] The Offer was accepted by First Allied on August 30, 1992. By letter dated August 31, 1992, First Allied informed Mr. Burnet that "we have reached an agreement to purchase the . . . Property . . . today".
+[16] (1876), 2 Ch.D. 499.
+[17] (1881), 18 Ch.D. 1, 13 (dissent.).
+[18] 8 R.P.R. (3d) 1 (B.C.C.A.) paras 5 and 6.
+[19] (1959), 18 D.L.R. (2d) 575, 579. See also Lepage v. The Queen, 2001 DTC 324, [2000] T.C.J. No. 710 (Q.L.), per Lamarre J. and 227287 Alberta Ltd. v. The Queen, [1997] G.S.T.C. 1106, per Bell J.
+[20] This is not wholly unlike a conditional obligation in Civil Law, described in articles 1497, 1506 and 1507 of the Civil Code of Quebec:
+1497. An obligation is conditional where it is made to depend upon a future and uncertain event, either by suspending it until the event occurs or is certain not to occur, or by making its extinction dependent on whether or not the event occurs.
+1497. L'obligation est conditionnelle lorsqu'on la fait dépendre d'un événement futur et incertain, soit en suspendant sa naissance jusqu'à ce que l'événement arrive ou qu'il devienne certain qu'il n'arrivera pas, soit en subordonnant son extinction au fait que l'événement arrive ou n'arrive pas.
+1506. The fulfillment of a condition has a retroactive effect, between the parties and with respect to third persons, to the day on which the debtor obligated himself conditionally.
+1506. La condition accomplie a, entre les parties et à l'égard des tiers, un effet rétroactif au jour où le débiteur s'est obligé sous condition.
+1507. The fulfillment of a suspensive condition obliges the debtor to perform the obligation, as though it had existed from the day on which he obligated himself under that condition.
+The fulfillment of a resolutory condition obliges each party to return to the other the prestations he has received pursuant to the obligation, as though the obligation had never existed.
+1507. La condition suspensive accomplie oblige le débiteur à exécuter l'obligation, comme si celle-ci avait existé depuis le jour où il s'est obligé sous telle condition.
+La condition résolutoire accomplie oblige chacune des parties à restituer à l'autre les prestations qu'elle a reçues en vertu de l'obligation, comme si celle-ci n'avait jamais existé.
+[21] I note that paragraph 24 of the Agreed Facts reads that "First Allied's application to re-zone the Property was allowed on or about February 7, 1994," (see para. 4 of these reasons). Appellant's counsel advised that four readings are required to pass a by-law. In any event, it appears that on February 7, 1994, the parties intended, and were prepared, to close the transaction.
+[22] [1959] S.C.R. 578.
+[23]
+Supra.
+[24] S. 54 of the Act - article 54 de la Loi.
+[25] Peter Hogg, Joanne E. Magee and Jinyan Li, 4th ed. (Toronto: Carswell, 2002) 183.
+[26] See M.N.R. v. Benaby Realties Limited, 67 DTC 5275 (S.C.C.) per Judson J. (at pp. 5276-5277), where it was held that profits are to be taken into account or assessed in the year in which the amount is ascertained. Similarly, no amount of profits should be taken into account until it is ascertained that the taxpayer is entitled to the profits.
+[27] This is the date specified for closing in First Allied's letter of February 7, 1994 to Mr. Burnet and, according to the evidence, the actual date of closing. See paragraphs 36 and 37 (and Tabs) of the agreed facts in paragraph 4 of these reasons.
+[28] 97 DTC 5051 (F.C.A.).
+[29] 93 DTC 5035 (F.C.A.).
+[30] See Pillar Oilfield Projects Ltd. v. The Queen, 1993 G.S.T.C. 49, per Bowman J., as he then was, Ford v. The Queen, 95 DTC 848, per Bell J., Bennett v. Canada, 96 DTC 1630, per Lamarre Proulx J., among others.
+[31] The defence of "due diligence" depends on after subjective appreciation of the facts and, therefore, each case is different. It may well be that if a taxpayer takes the care of consulting a lawyer he or she, on proper facts, may exercise due diligence irrespective of the lawyer's advice. This, however, is not before me.
+[32] See 96 DTC 1686 (T.C.C.), per Bowman J., as he then was.

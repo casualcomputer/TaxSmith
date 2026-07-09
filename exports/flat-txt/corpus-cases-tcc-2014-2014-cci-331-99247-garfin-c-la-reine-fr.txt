@@ -1,0 +1,181 @@
+Title: Garfin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99247/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-331-99247-garfin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-09-19
+
+# Garfin c. La Reine
+
+- Citation: 2014 CCI 331
+- Decision date: 2014-09-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5268, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garfin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-19
+Référence neutre
+2014 CCI 331
+Numéro de dossier
+2013-4847(CPP)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2013‑4847(CPP)
+ENTRE :
+SUSAN W. GARFIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Susan W. Garfin (2014‑4848(EI))
+le 19 septembre 2014 à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 1er jour de décembre 2014.
+S. Tasset
+Dossier : 2013‑4848(EI)
+ENTRE :
+SUSAN W. GARFIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Susan W. Garfin (2014‑4847(CPP))
+le 19 septembre 2014 à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 1er jour de décembre 2014.
+S. Tasset
+Dossier : 2013‑4847(CPP)
+ENTRE :
+SUSAN W. GARFIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2013‑4848(EI)
+ET ENTRE :
+SUSAN W. GARFIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Que la transcription révisée ci‑jointe des motifs du jugement rendus oralement à l’audience à Toronto (Ontario), le 19 septembre 2014, soit versée au dossier. J’ai révisé la transcription (certifiée par le sténographe judiciaire) par souci de stylistique, de clarté et d’exactitude. Je n’y ai apporté aucune modification de fond.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 1er jour de décembre 2014.
+S. Tasset
+Référence : 2014 CCI 331
+Date : 20141107
+Dossier : 2013‑4847(CPP)
+ENTRE :
+SUSAN W. GARFIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2013‑4848(EI)
+ET ENTRE :
+SUSAN W. GARFIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Voici les motifs du jugement que j’ai prononcés de vive voix dans les appels de Mme Garfin relatifs au RPC et à l’AE. Mme Garfin, je rejette vos appels pour les motifs suivants.
+[2] Pour déterminer si Mme Walker était votre employée ou une entrepreneure indépendante, je suis tenu de suivre et d’appliquer la démarche analytique que la Cour d’appel fédérale a exposée dans l’arrêt Connor Homes. J’ai eu l’occasion de résumer la façon dont je conçois cet arrêt dans la décision que j’ai rendue plus tôt cette année dans l’affaire Loving Home Care Services, aux paragraphes 3 à 11.
+[3] Le droit applicable aux affaires de ce type est exposé de manière claire et complète par la Cour d’appel fédérale dans l’arrêt Connor Homes, dont je ne reproduirai pas tous les paragraphes pertinents. La question juridique qu’il faut trancher consiste simplement à savoir si une travailleuse particulière fournit ses services comme si elle exploitait sa propre entreprise, à son compte.
+[4] Cela m’oblige tout d’abord à décider si, subjectivement, au regard des faits, des circonstances et des éléments de preuve dans l’affaire en particulier, il y avait entre les parties une compréhension mutuelle ou une intention commune quant à leur relation, à savoir s’il s’agissait d’une relation d’employeur à employé ou de client à entrepreneur indépendant.
+[5] À ce stade‑ci, la Cour peut prendre en considération, notamment, la mesure dans laquelle un travailleur comprenait les différences qu’il y a entre une relation d’employeur à employé et une relation de client à entrepreneur indépendant, les forces et les faiblesses de la position de négociation relative, ainsi que la mesure dans laquelle les éléments de preuve à cet égard, qui sont souvent intéressés, sont corroborés par les autres éléments de preuve soumis à la Cour et concordent avec eux.
+[6] La réponse à cette question n’est pas déterminante. Les parties ne peuvent pas convenir de la qualification juridique correcte de leur relation de travail comme s’il s’agissait simplement d’une autre modalité ou condition concernant les droits, les obligations, les fonctions et les responsabilités liés à leur relation de travail. Une intention déclarée et convenue à l’égard d’une qualification particulière de la relation de travail en tant que relation d’employeur à employé ou de client à entrepreneur indépendant doit en fait reposer sur une réalité objective vérifiable.
+[7] Si les parties ont bel et bien convenu d’un commun accord d’une qualification de leur relation, la Cour doit décider si la relation de travail objective dans son ensemble étaye leur intention subjective et concorde avec elle. Cette deuxième étape oblige la Cour à examiner et à soupeser les facteurs traditionnels qui sont énoncés dans les arrêts Sagaz et Wiebe Door, à savoir le contrôle exercé sur le travail et le travailleur, y compris le degré de subordination du travailleur, la fourniture d’outils, de matériaux, d’attestations et de matériel dont le travailleur a besoin pour accomplir le travail, ainsi que l’ampleur des avantages et des risques financiers concernant les services que cette personne fournit.
+[8] Dans cette deuxième étape, la Cour peut là encore examiner l’intention des parties, de pair avec leur comportement réel, ainsi que toute entente écrite conclue entre elles. Dans l’arrêt Royal Winnipeg Ballet, la Cour d’appel fédérale a dit dans la même veine que les facteurs traditionnels énoncés dans les arrêts Sagaz et Wiebe Door doivent être examinés à la lumière de l’intention des parties.
+[9] Cette deuxième étape est par ailleurs la même que celle que suivrait la Cour dans les affaires où il n’existe pas d’intention commune quant à la qualification, par les parties, de la relation de travail.
+[10] Donc, pour suivre cette approche et l’appliquer, j’analyserai en premier la question de l’intention. Selon moi, il ressort clairement de la preuve que l’avocate payeuse, Mme Garfin, entendait que la relation soit une relation de cliente à entrepreneure indépendante et non une relation d’employeur à employée. C’est également le cas de sa collègue, Mme Amourgis, qui a eu une relation de travail semblable et contemporaine, mais distincte et à temps partiel, avec Mme Walker en 2010.
+[11] J’ai conclu également que Mme Walker n’avait pas l’intention d’être une employée, mais plutôt une travailleuse autonome. Je crois que sa compréhension des conséquences de cette distinction n’était pas aussi complète que celle des deux avocates pour lesquelles elle a travaillé. Je crois toutefois qu’elle était au courant des distinctions importantes. Je n’admets pas que sa compréhension ou la qualification souhaitée ait changé, soit en 2012 soit à un moment quelconque avant qu’elle quitte le poste qu’elle occupait auprès de Mme Garfin, qu’elle tente de percevoir de l’assurance‑emploi et qu’on lui dise qu’elle aurait besoin d’un T4 et d’un registre de gains.
+[12] Il est difficile de soupeser les éléments de preuve par rapport à l’intention qu’il y avait dans la présente affaire, car aucun contrat écrit n’a été déposé en preuve, et je ne suis même pas sûr qu’un tel contrat a été conclu. Le fait que Mme Walker n’a jamais produit de déclarations de revenus pour les années en question n’aide pas les choses non plus.
+[13] Pour ce qui est du contrôle, dans cette affaire‑ci comme dans bien d’autres, je conclus que les aspects relatifs à ce facteur sont particulièrement utiles et pertinents. Dans l’arrêt City Water, la Cour d’appel fédérale nous rappelle de mettre davantage l’accent sur le contrôle exercé sur les travailleurs que sur le contrôle de la qualité du travail effectué. Il y est question aussi du fait qu’un employé se trouve dans une position subordonnée par rapport au payeur. Dans l’arrêt D&J Driveway, la Cour d’appel fédérale reconnaît l’importance particulière que revêtent les aspects liés au contrôle dans de nombreuses affaires.
+[14] Mme Walker exerçait les fonctions d’assistante juridique de Mme Garfin. Ce poste exigeait que Mme Walker fasse tout ce que Mme Garfin lui demandait de faire, au moment choisi par cette dernière. Aucune preuve n’a donné à penser que cela ne faisait pas partie de l’éventail des services, des responsabilités et des exigences que l’on associe normalement au fait d’être l’assistante administrative d’une avocate. Je conclus que Mme Walker était censée faire ce qu’on lui demandait ou disait quand on le lui demandait ou disait.
+[15] Le reste de la preuve est que la disponibilité et les heures de travail auxquelles on s’attendait généralement de sa part s’étendaient de neuf à cinq, du lundi au vendredi, sous réserve bien sûr des hauts et des bas et des va‑et‑vient d’un cabinet d’avocats, ainsi que des absences liées à la vie personnelle.
+[16] Je conclus que le degré de contrôle auquel s’attendait Mme Garfin et que l’on exerçait régulièrement sur Mme Walker fait fortement pencher la balance en faveur de l’existence d’une relation d’employeur à employée.
+[17] Pour ce qui est des outils, je ne considère pas que la propriété des outils soit un facteur très utile dans le cas d’un travail d’assistante administrative ou juridique exercé de la manière requise dans le cabinet de Mme Garfin. On ne s’attendait pas à ce que Mme Walker possède des outils importants, ou des articles ou des qualifications semblables, pas plus que la situation ne serait différente si la personne occupant le poste était une employée, une entrepreneure indépendante ou une personne d’une agence de placement.
+[18] À mon avis, le facteur des outils ne fait pas pencher la balance dans un sens ou dans l’autre dans la présente affaire.
+[19] Quant aux chances de profit et aux risques de perte, Mme Garfin a admis que les aspects liés aux risques et au profit sur le plan financier font pencher la balance vers un statut d’employée pour Mme Walker. Il va sans dire que, dans le cas d’une personne travaillant à tarif horaire fixe sans dépenses connexes, la balance en l’espèce ne penche pas en faveur du scénario de l’entrepreneure indépendante qui exploite sa propre entreprise.
+[20] Je crois que la présente affaire est quelque peu semblable à celle de la stagiaire en droit dont il était question dans la décision Wilford, rendue par le juge suppléant Wiseman, relativement à la question du profit et des pertes et à la question de savoir si la travailleuse exploitait sa propre entreprise. Ce facteur est, dans le meilleur des cas, égal ou ne m’aide pas à trancher la présente affaire.
+[21] Pour ces motifs, je conclus tout compte fait que Mme Walker était l’employée de Mme Garfin en 2012.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 1er jour de décembre 2014.
+S. Tasset
+RÉFÉRENCE :
+2014 CCI 331
+Nos DU DOSSIER DE LA COUR :
+2013‑4847(CPP)
+2013‑4848(EI)
+INTITULÉ :
+SUSAN W. GARFIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 septembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 7 novembre 2014
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

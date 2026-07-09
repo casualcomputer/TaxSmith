@@ -1,0 +1,224 @@
+---
+title: "Kinguk Trawl Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25482/index.do"
+last_modified: "2003-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 842"
+citation2: ""
+neutral_citation: "2003 CCI 842"
+decision_date: "2003-11-14"
+language: "fr"
+item_id: "25482"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2360
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:32:31.721000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "463e1e6186e35fb8e97d57f360047b3cffd8a4cf4f4867e050de5727e9a42aa0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kinguk Trawl Inc. c. La Reine
+
+- Citation: 2003 CCI 842
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2360, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kinguk Trawl Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-14
+Référence neutre
+2003 CCI 842
+Numéro de dossier
+2000-674(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000‑674(IT)G
+ENTRE :
+KINGUK TRAWL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Farocan Incorporated (société ayant remplacé Aqviq Trawl Incorporated) (2000‑671(IT)G),
+le 14 octobre 2003, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Avocat de l’appelante :
+Me Edwin C. Harris
+Avocat de l’intimée :
+Me John P. Bodurtha
+____________________________________________________________________
+JUGEMENT
+À la suite de mon jugement rendu le 22 janvier 2002, ainsi que des motifs l’accompagnant, et à la suite de l’arrêt de la Cour d’appel fédérale renvoyant la présente affaire à la Cour canadienne de l’impôt pour qu’elle détermine la portion des intérêts, portés par appelante au crédit de Uhrenholt, qui se rapporte validement à l’exploitation de son entreprise dans un pays étranger conformément à la division 212(1)b)(iii)(E) de la Loi de l’impôt sur le revenu;
+Et vu les observations orales et écrites des deux parties, la Cour ordonne ce qui suit :
+(1) la portion des intérêts débiteurs totaux de l’appelante pour les années en cause qui est soumise à une retenue d’impôt sera calculée conformément à la formule arrêtée par les parties;
+(2) aux fins de la formule, les dépenses admissibles engagées à l’extérieur du Canada et réputées avoir été engagées dans le cadre de l’exploitation d’une entreprise située dans un pays étranger, comprennent les dépenses d’empaquetage, les fournitures et les services destinés aux navires dans les ports étrangers, et la moitié des frais juridiques pour les années en cause;
+(3) les intérêts sur la retenue d’impôt impayée qui sera déterminée par application de la formule seront calculés de la manière arrêtée par les parties; et
+(4) l’appelante a droit à un seul mémoire de dépens au regard de la présente instance.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+Dossier : 2000‑671(IT)G
+ENTRE :
+FAROCAN INCORPORATED,
+(société ayant remplacé Aqviq Trawl Incorporated),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Kinguk Trawl Inc. (2000‑674(IT)G), le 14 octobre 2003, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge T.E. Margeson
+Comparutions :
+Avocat de l’appelante :
+Me Edwin C. Harris
+Avocat de l’intimée :
+Me John P. Bodurtha
+____________________________________________________________________
+JUGEMENT
+À la suite de mon jugement rendu le 22 janvier 2002, ainsi que des motifs l’accompagnant, et à la suite de l’arrêt de la Cour d’appel fédérale renvoyant la présente affaire à la Cour canadienne de l’impôt pour qu’elle détermine la portion des intérêts, portés par appelante au crédit de Uhrenholt, qui se rapporte validement à l’exploitation de son entreprise dans un pays étranger conformément à la division 212(1)b)(iii)(E) de la Loi de l’impôt sur le revenu;
+Et vu les observations orales et écrites des deux parties, la Cour ordonne ce qui suit :
+(1) la portion des intérêts débiteurs totaux de l’appelante pour les années en cause qui est soumise à une retenue d’impôt sera calculée conformément à la formule arrêtée par les parties;
+(2) aux fins de la formule, les dépenses admissibles engagées à l’extérieur du Canada et réputées avoir été engagées dans le cadre de l’exploitation d’une entreprise située dans un pays étranger, comprennent les dépenses d’empaquetage, les fournitures et les services destinés aux navires dans les ports étrangers, et la moitié des frais juridiques des années en cause;
+(3) les intérêts sur la retenue d’impôt impayée qui sera déterminée par application de la formule seront calculés de la manière arrêtée par les parties; et
+(4) l’appelante a droit à un seul mémoire de dépens au regard de la présente instance.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+Référence : 2003CCI842
+Date : 20031114
+Dossier : 2000‑674(IT)G
+ENTRE :
+KINGUK TRAWL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2000‑671(IT)G
+ENTRE :
+FAROCAN INCORPORATED,
+(société ayant remplacé Aqviq Trawl Incorporated),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Ces deux instances ont été renvoyées à la Cour canadienne de l’impôt pour qu’elle détermine la portion des intérêts, portés au crédit de Uhrenholt par les appelantes, qui se rapporte validement à l’exploitation de leurs entreprises dans un pays étranger conformément à la division 212(1)b)(ii)(E) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] La Cour d’appel fédérale a aussi ordonné qu’il devrait y avoir un seul mémoire de dépens pour les instances devant la Cour d’appel fédérale et devant la Cour canadienne de l’impôt. Lors de la présentation des observations à la suite du prononcé de l’arrêt de la Cour d’appel fédérale, les parties ont fait savoir que la formule devant servir à calculer la portion des intérêts débiteurs qui était sujette à une retenue d’impôt avait été arrêtée. Cette formule, pour chacune des années, était la suivante : (1 – B/C) A = D.
+[3] Dans cette formule, A représente les intérêts débiteurs totaux portés au crédit de Uhrenholt; B est le total des « dépenses intégrées » et des « dépenses engagées en dehors du Canada » admissibles; C est le total des sommes créditées ou compte intersociétés de l’appelante concernée, plus les « dépenses intégrées »; et D représente les intérêts soumis à la retenue d’impôt, puisqu’ils ne sont pas exemptés selon la division 212(1)b)(iii)(E) de la Loi.
+[4] La retenue d’impôt est de 15 p. 100 de D.
+[5] Lors de l’audience ultérieure, les parties se sont entendues sur les sommes à inclure dans l’application de la formule, sauf pour la portion des « dépenses engagées en dehors du Canada » qui peut raisonnablement être considérée comme ayant été engagée « dans le cadre de l’exploitation d’une entreprise située dans un pays étranger ». L’arrêt de la Cour d’appel fédérale a eu pour résultat d’établir que les appelantes exploitaient une partie de leur entreprise « dans un pays étranger ».
+[6] Les dépenses en cause étaient les suivantes :
+(1) fournitures et services aux navires pendant qu’il se trouvent dans un port étranger;
+(2) assurance des navires;
+(3) matériel d’empaquetage;
+(4) entretien des navires, des moteurs et de l’atelier et autres frais du genre;
+(5) protection et indemnisation mutuelle;
+(6) agrès de pêche;
+(7) carburant et huile de graissage;
+(8) déplacements des équipages;
+(9) services juridiques et professionnels.
+[7] Dans des observations présentées à la Cour canadienne de l’impôt à l’époque de l’instruction, l’avocat de l’intimée a consenti à accepter tous les frais d’empaquetage et la moitié des frais juridiques, mais n’a pas voulu accepter les autres frais figurant dans la liste ci‑haut.
+[8] Lors de la présentation d’observations à la suite du prononcé de l’arrêt de la Cour d’appel fédérale, les appelantes étaient disposées à accepter la position de l’intimée, sauf une exception : « fournitures et services aux navires pendant qu’ils se trouvent dans un port étranger ». L’avocat des appelantes a fait valoir que ces frais devraient également être acceptés comme constituant des dépenses engagées dans le cadre de l’exploitation d’une entreprise située dans un pays étranger. Essentiellement, sa position en la matière était que ces frais avaient été engagés dans le cadre de l’exploitation d’une entreprise en dehors du Canada.
+[9] L’argument des appelantes était que, durant la période en cause, les deux navires, le Aqviq et le Kinguk, avaient quitté le Canada pour débarquer des prises et pour être réparés au Groenland et s’étaient rendus aussi au Danemark pour y subir d’importantes réparations et remises en état.
+[10] L’avocat des appelantes a fait aussi valoir que la Cour d’appel fédérale, dans sa décision, avait établi que les ventes effectuées par les appelantes se faisaient, par l’entremise de leur mandataire, en dehors du Canada. Il soutenait donc que, en raison de la nécessité pour les navires de se rendre au Groenland et au Danemark pour y exercer leurs activités de pêche, telles activités étaient, en partie, également exercées dans un ou plusieurs pays étrangers. Une partie des activités portant sur l’exploitation des navires avait lieu, et par conséquent était menée, dans des pays autres que le Canada.
+[11] L’avocat des appelantes a fait aussi valoir que l’arrêt de la Cour d’appel fédérale devait être vu comme un désaveu de l’argument de l’intimée selon lequel, lorsque les aspects les plus importants d’une entreprise se déroulent dans un pays, toute l’entreprise doit être considérée comme une entreprise exploitée dans le pays en question.
+[12] L’avocat des appelantes s’est référé aux paragraphes 39 à 42 de l’arrêt de la Cour d’appel fédérale. Plus précisément, il s’est fondé sur les conclusions du jugement London Life Insurance Company v. The Queen, 87 DTC 5312 (Section de première instance) et celles de l’arrêt The Queen v. London Life Insurance Company, 90 DTC 6001 (Cour d’appel), pour soutenir que les « fournitures et services aux navires pendant qu’ils se trouvent dans un port étranger » étaient des frais engagés dans le cadre de l’exploitation d’une entreprise située dans un pays étranger. Tous ces frais étaient rattachés à une partie essentielle des activités de pêche des appelantes.
+Argument avancé au nom de l’intimée
+[13] L’avocat de l’intimée a posé la question suivante : « Quel était l’objet des paiements? À quoi les paiements se rapportaient‑ils? En outre, les frais en cause se rapportent‑ils à la capture du poisson ou à la vente des prises? »
+[14] On a fait valoir que, du seul fait que les activités constituaient une partie essentielle des opérations de pêche, cela ne signifie pas que les appelantes « exploitaient une entreprise située dans un pays étranger ».
+[15] En résumé donc, les activités sont une partie essentielle des opérations de pêche, mais elles n’équivalent pas à « l’exploitation d’une entreprise ».
+[16] L’avocat de l’intimée a consenti, comme je l’ai dit auparavant, à accepter les frais énumérés aux points (1) et (3) des observations des appelantes, ainsi qu’à l’ensemble des frais mentionnés au point (2), à l’exception des fournitures et services aux navires lorsqu’ils se trouvent dans un port étranger.
+[17] La position de l’avocat de l’intimée était que les appelantes dans la présente affaire exerçaient deux activités principales : (1) les activités de vente au Danemark, et (2) les activités de capture au Canada. Ainsi, les frais en cause doivent se rapporter aux activités de capture au Canada parce qu’ils sont sans rapport avec les activités de vente au Danemark, et donc ils ne donnent pas lieu à l’exemption.
+[18] Par ailleurs, l’avocat de l’intimée a fait valoir que l’intimée devrait obtenir ses dépens dans la présente instance parce qu’il s’agit d’une nouvelle instance qui n’est pas visée par l’arrêt de la Cour d’appel fédérale.
+[19] En réponse, l’avocat des appelantes a dit que la Cour n’a pas le pouvoir d’adjuger les dépens à l’intimée en l’espèce. Selon l’arrêt de la Cour d’appel fédérale, il doit y avoir un seul mémoire de dépens dans la présente instance, et les appelantes devraient avoir droit aux dépens qu’elle a entraînés.
+[20] Par ailleurs, l’avocat des appelantes a fait valoir que les activités de pêche comprennent non seulement la capture du poisson, mais également les autres activités, dont celles qui ont conduit aux frais en cause. Les appelantes débarquaient les prises dans un pays étranger. Le débarquement des prises était une activité qui faisait partie intégrante de l’entreprise de pêche en général, une activité exercée dans un autre pays que le Canada. Cette activité n’était pas insignifiante.
+[21] La Cour d’appel fédérale n’a pas abordé le point de savoir quelle entreprise était exploitée en dehors du Canada. Cependant, les activités qui ont conduit aux frais en cause n’étaient pas accessoires à une entreprise exploitée dans un pays étranger, mais constituaient une partie essentielle de l’entreprise de la société, à savoir la pêche, et cette entreprise était exploitée en dehors du Canada et au Canada même.
+Décision
+[22] L’argument avancé par l’avocat de l’intimée selon lequel les frais en cause ne se rapportaient pas aux activités de vente est un argument habile, mais la Cour est d’avis que l’intimée interprète d’une manière trop étroite l’arrêt de la Cour d’appel fédérale. La Cour d’appel fédérale a jugé sans conteste que certains aspects des activités des appelantes se déroulaient en dehors du Canada, même si elle n’a pas précisé quelle était l’entreprise qui était exploitée en dehors du Canada. Au paragraphe 42 de son arrêt, la Cour d’appel écrivait ce qui suit :
+En fait, Uhrenholt accomplissait l’ensemble des fonctions liées à la vente, qui allaient de la commercialisation de la prise à l’élaboration des contrats. Tenant compte du fait que la vente des prises constituait une composante essentielle des activités commerciales des appelantes et que ces activités se sont déroulées au Danemark ou peut‑être ailleurs, je conclus que les appelantes ont exploité une entreprise dans un pays étranger au sens de la division 212(1)b)(iii)(E) de la Loi.
+[23] Se référant comme elle l’a fait à la décision London Life Insurance Company, précitée, la Cour d’appel fédérale écrivait que les activités exercées par Uhrenholt semblaient aller au‑delà de l’étendue des activités dont il s’agissait dans cette affaire‑là, où le mandataire était chargé d’une partie seulement des fonctions liées à la vente. En engageant des frais pour les fournitures et services destinés aux navires dans les ports étrangers, Uhrenholt, en tant que mandataire des appelantes, allait même plus loin que ce que la Cour d’appel fédérale avait à l’esprit lorsqu’elle a évoqué les activités de vente de Uhrenholt. Or, il ne fait aucun doute que ces activités additionnelles étaient néanmoins une partie essentielle de l’entreprise des appelantes, qui consistait généralement à pêcher du poisson et à vendre les prises. On a du mal à imaginer comment l’on pourrait exploiter une entreprise de pêche et de vente du poisson comme celle dont il est question dans la présente affaire, sans engager les sommes dont il s’agit ici.
+[24] La Cour rejette l’argument avancé au nom de l’intimée selon lequel, puisque ces frais ne sont de toute évidence pas rattachés à la vente du poisson, ils doivent manifestement se rapporter à la capture du poisson au Canada. Selon cette conclusion, il faudrait que la Cour dise que les appelantes exploitaient deux ou trois entreprises différentes, à savoir la capture du poisson, la vente du poisson, la préparation des navires et l’avitaillement des navires. Cependant, ce à quoi s’adonnaient les appelantes étaient des activités de pêche, activités qui englobaient plusieurs éléments différents et essentiels.
+[25] L’un de ces éléments les obligeait à payer des frais pour les fournitures et services procurés aux navires dans les ports étrangers. Ces frais se rapportaient à l’exploitation d’une entreprise dans un pays étranger.
+[26] En définitive, la Cour ordonne ce qui suit :
+(1) la portion des intérêts débiteurs totaux des appelantes pour les années en cause qui est soumise à une retenue d’impôt sera calculée conformément à la formule arrêtée par les parties;
+(2) aux fins de la formule, les dépenses admissibles engagées à l’extérieur du Canada et réputées avoir été engagées dans le cadre de l’exploitation d’une entreprise située dans un pays étranger, comprennent les dépenses d’empaquetage, les fournitures et les services destinés aux navires dans les ports étrangers, et la moitié des frais juridiques pour les années en cause;
+(3) les intérêts sur la retenue d’impôt impayée qui sera déterminée par application de la formule seront calculés de la manière arrêtée par les parties; et
+(4) les appelantes ont droit à un seul mémoire de dépens au regard de la présente instance.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« T.E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE :
+2003CCI842
+Nos DES DOSSIERS DE LA COUR :
+2000‑674(IT)G
+2000‑671(IT)G
+INTITULÉ :
+Kinguk Trawl Inc. et Farocan Inc. (société ayant remplacé Aqviq Trawl Inc.) et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 14 octobre 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge T.E. Margeson
+DATE DU JUGEMENT ET DES
+MOTIFS DU JUGEMENT :
+Le 14 novembre 2003
+COMPARUTIONS :
+Avocat des appelantes :
+Me Edwin C. Harris
+Avocat de l’intimée :
+Me John P. Bodurtha
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Daley Black & Moreira
+1791, rue Barrington, bureau 400
+Halifax (Nouvelle‑Écosse)
+B3J 2N7
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,187 @@
+Title: DHL Express(Canada) Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26106/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-178-26106-dhl-express-canada-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-03-04
+
+# DHL Express(Canada) Ltd. c. M.R.N.
+
+- Citation: 2005 CCI 178
+- Decision date: 2005-03-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4167, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DHL Express(Canada) Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-04
+Référence neutre
+2005 CCI 178
+Numéro de dossier
+2004-4055(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2004‑4055(EI)
+2004‑4057(CPP)
+ENTRE :
+DHL EXPRESS (CANADA) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Calgary (Alberta), le 9 février 2005.
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Gerald A. Grenon
+Avocat de l’intimé :
+Me R. Scott McDougall
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi et à l’article 28 du Régime de pensions du Canada sont accueillis, la décision que le ministre du Revenu national a prise à la suite de l’appel qui avait été porté devant lui en application de l’article 92 de la Loi et la décision que le ministre a prise à la suite de la demande qui lui avait été présentée en vertu de l’article 27.1 du Régime sont annulées compte tenu du fait que Ken Hiles n’exerçait pas auprès de l’appelante un emploi assurable ou un emploi ouvrant droit à pension pendant la période allant du 1er janvier 2002 au 8 juillet 2004 au sens des alinéas 5(1)a) de la Loi et 6(1)a) du Régime.
+Signé à Ottawa, Canada, ce 4e jour de mars 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 14e jour de mars 2006.
+Sara Tasset
+Référence : 2005CCI178
+Date : 20050304
+Dossiers : 2004‑4055(EI)
+2004‑4057(CPP)
+ENTRE :
+DHL EXPRESS (CANADA) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] DHL Express (Canada) Ltd. (« DHL ») interjette appel de la décision par laquelle le ministre du Revenu national (le « ministre ») a conclu que M. Ken Hiles exerçait un emploi assurable conformément à la Loi sur l’assurance‑emploi et un emploi ouvrant droit à pension conformément au Régime de pensions du Canada pendant la période allant du 1er janvier 2002 au 8 juillet 2004. DHL soutient que M. Hiles était un entrepreneur indépendant en vertu d’un contrat d’entreprise conclu avec elle. Je souscris à la position que DHL a prise.
+[2] M. Hiles n’est pas intervenu et il n’a pas témoigné. La preuve a été présentée par deux employés de DHL : M. Munro, directeur général responsable de la région de Nanaïmo, et Mme Parisienne, directrice générale s’occupant de la négociation de la convention collective avec le syndicat.
+[3] M. Hiles était conducteur‑livreur. Il a initialement conclu une entente avec le prédécesseur de DHL, Loomis, en 1994. Pour la période qui a commencé au mois de janvier 2002, M. Hiles était régi par les conditions d’une convention collective conclue entre les Travailleurs et travailleuses canadien(ne)s de l’automobile et DHL ainsi que par le contrat qu’il avait conclu avec DHL. Avant d’examiner la relation de travail elle‑même qui existait entre DHL et M. Hiles, il est utile d’examiner certaines conditions de ces ententes.
+[4] Dans la convention collective, une distinction est faite entre les employés et les entrepreneurs indépendants, étant donné qu’une section de la convention est intitulée [traduction] « Propriétaires‑exploitants » et qu’une autre section est intitulée [traduction] « Section de la rémunération à l’heure ». L’annexe A jointe à la convention renferme un tableau de rémunération quant aux taux minimaux applicables aux conducteurs. La rémunération comporte quatre éléments principaux; les taux minimaux pour l’année 2002 étaient les suivants :
+(i) un montant pour un premier arrêt selon le bordereau d’expédition – au moins 1,55 $;
+(ii) un montant pour de multiples arrêts au même endroit selon le bordereau d’expédition – au moins 0,59 $;
+(iii) un montant basé sur le poids – au moins 0,01 $ la livre;
+(iv) un montant basé sur la distance à parcourir (aucun minimum); et
+(v) un montant pour le triage.
+[5] M. Hiles a négocié sa propre rémunération globale telle qu’elle est indiquée à l’annexe A jointe à son propre contrat. Il a négocié des taux en sus des minima prévus : 1,79 $ pour un premier arrêt selon le bordereau d’expédition; 0,79 $ pour de multiples arrêts au même endroit selon le bordereau d’expédition; 0,01 $ la livre; 100 $ par jour pour la distance à parcourir et 5,75 $ à l’égard du triage à l’entrepôt.
+[6] Il importe de se rendre compte que DHL établit ce qu’elle appelle les [traduction] « parcours » ou les secteurs attribués à un conducteur. M. Hiles était responsable de la route 105, route Shawnigan Mill Bay, sur l’île de Vancouver. Le parcours était considéré comme un parcours rural. Certains parcours, comme les parcours urbains, peuvent être plus rentables que d’autres. La convention collective prévoyait un montant garanti minimal aux deux semaines, lequel variait en fonction du parcours. Selon la preuve, M. Hiles excédait toujours ce minimum.
+[7] La description des services que M. Hiles devait fournir figure à l’annexe B jointe à son propre contrat, laquelle est également l’annexe B jointe à la convention collective. Certaines des exigences sont ci‑après signalées : aller chercher et livrer les colis assignés, faire rapport chaque jour, assurer l’entretien du véhicule, conduire avec prudence, « scanner » les colis à l’aide d’un scanneur de la société, fournir un conducteur lorsqu’il fallait se faire remplacer, porter des uniformes propres, et ainsi de suite.
+[8] Les dispositions suivantes figurent dans le corps de la convention collective :
+[traduction]
+1.02
+b) Propriétaire‑exploitant : employé de la société selon la définition du Code canadien du travail, partie 1, chapitre L‑2, article 3.1; comprend les propriétaires‑exploitants « sous‑traitants » visés à l’appendice C joint à la présente convention collective.
+2.01
+Le syndicat reconnaît, sauf dans la mesure où les droits de la direction ont été limités ou modifiés par des conditions précises de la présente convention, que la société exerce les fonctions exclusives suivantes : embauchage, classification, promotions, rétrogradations, licenciements, suspensions, congédiements ou autres mesures disciplinaires prises à l’encontre des propriétaires‑exploitants pour un motif valable.
+6.07
+a) Il est reconnu que, de temps en temps, il est possible d’avoir recours à un remplaçant pour qu’il effectue le parcours prévu selon la présente convention. Toutefois, le conducteur peut uniquement se faire remplacer pour prendre un congé, pour cause de maladie ou en cas d’urgence. Il est également possible d’avoir recours à un conducteur remplaçant pour prendre la relève dans le cas où le permis du propriétaire‑exploitant a été suspendu pour une période d’au plus douze (12) mois, à condition que le propriétaire‑exploitant accompagne ce conducteur dans un véhicule comme « aide » pendant toute la période.
+b) L’assurance et les cotisations au titre des accidents du travail à verser pour toute personne qui conduit le véhicule du propriétaire‑exploitant conformément à la présente clause sont à la charge de ce dernier.
+c) Le propriétaire‑exploitant qui se fait remplacer doit obtenir au préalable l’autorisation de la société.
+8.01
+La société paie les nouveaux uniformes lorsque ces uniformes sont nécessaires et elle se charge de l’entretien et du nettoyage des uniformes (vestes et pantalons). Les propriétaires‑exploitants doivent en tout temps tenir les uniformes en bon état. Tous les uniformes seront retournés à la société au moment de la cessation de l’entente ou sur résiliation de l’entente.
+10.01
+Le propriétaire‑exploitant qui est tenu d’assister à une séance de formation ou à une réunion obligatoire touche l’équivalent du taux horaire applicable aux conducteurs si la séance ou la réunion est tenue pendant la journée normale de travail ou le taux horaire majoré de moitié si la durée de la séance ou de la réunion excède la durée de journée normale de travail. S’il a recours à un conducteur pour prendre la relève, la société paie les frais de ce conducteur.
+[9] En fait, qu’est‑ce que M. Hiles fournissait dans le cadre de la relation qu’il entretenait avec DHL? Premièrement, il fournissait son propre camion d’une tonne, un camion qu’il choisissait lui‑même, et il veillait à ce que le camion arbore les couleurs de la société, mais c’était DHL qui payait pour faire apposer sa décalcomanie sur le camion. M. Hiles s’occupait de tous les frais de réparation et d’entretien associés au camion, et il souscrivait à l’assurance appropriée. DHL exigeait un véhicule d’une certaine taille pour la route 105, à cause de la nature des livraisons dans ce secteur. DHL exigeait également une couverture minimale à l’égard de la responsabilité. M. Hiles fournissait son propre téléphone cellulaire et toutes les fournitures de bureau nécessaires. DHL fournissait tous les formulaires de factures, les téléavertisseurs, le scanneur, les uniformes et un montant annuel de 110 $ pour des chaussures à embout d’acier.
+[10] M. Hiles était également chargé de fournir les services d’un conducteur remplaçant pour assurer la relève s’il ne pouvait pas s’acquitter de sa tâche ou s’il ne voulait pas s’en acquitter. La question du remplaçant a fait l’objet d’un long témoignage. Même si une disposition de la convention collective prévoyait qu’il était possible chaque année d’avoir recours à un remplaçant pendant 30 jours ou moins, M. Munro a témoigné qu’aucun document n’était établi et qu’aucune surveillance n’était exercée à ce sujet. C’était M. Hiles qui décidait de la personne à embaucher. Et même si le contrat prévoyait que le conducteur devait fournir à DHL un dossier du conducteur et une autorisation de sécurité de la GRC pour tout remplaçant, M. Hiles a eu recours à au moins deux remplaçants, à savoir sa femme et Carolyn Dares, qui n’ont remis ces documents à DHL que bien longtemps après avoir commencé à conduire pour M. Hiles. De plus, malgré les dispositions de la convention collective portant sur le montant minimum à verser aux remplaçants, M. Munro a indiqué qu’il ne croyait pas que cela concernait DHL. M. Hiles et ses conducteurs s’entendaient sur la rémunération et si ceux‑ci n’étaient pas satisfaits, M. Munro leur conseillait de communiquer avec le syndicat. Il incombait également à M. Hiles d’assurer la formation de ces conducteurs, mais DHL s’occupait de la formation pour les marchandises dangereuses. M. Hiles a eu à maintes reprises recours à des remplaçants pendant la période en question.
+[11] M. Hiles commençait sa journée à temps pour effectuer les livraisons qui devaient être effectuées avant 9 h. Il se rendait à l’entrepôt où deux travailleurs chargeaient son camion. Il organisait les chargements en fonction des livraisons prioritaires. Il passait ensuite la matinée à effectuer les livraisons, en suivant le parcours qu’il jugeait le plus pratique. Il pouvait prendre des pauses s’il le voulait. Les livraisons étaient effectuées le matin et M. Hiles retournait chez lui pour le repas du midi. M. Hiles, ou un remplaçant, s’occupait ensuite d’aller chercher les colis au cours de l’après‑midi et retournait à l’entrepôt pour décharger le camion et trier les colis vers 17 h 30 ou 18 h, de façon que la marchandise soit prête pour les liaisons nécessaires. M. Munro a soutenu que M. Hiles terminait habituellement son travail vers 16 h 15 ou 16 h 30.
+[12] Quant au secteur desservi, la route 105, c’était M. Hiles qui décidait de la façon d’effectuer le parcours. Ainsi, il avait décidé de ne pas desservir une zone éloignée du secteur et de se contenter de laisser les colis dans une station‑service locale, les clients devant eux‑mêmes aller chercher les colis ou les déposer à cet endroit. M. Hiles touchait alors un montant de 1,79 $ seulement, plus 0,79 $ pour chacune des autres livraisons, plutôt qu’un montant de 1,79 $ pour chaque livraison, s’il livrait directement le colis au client.
+[13] Au fur et à mesure que M. Hiles effectuait son parcours, il remplissait une feuille de route, en indiquant l’heure de la livraison, du ramassage, les adresses, le poids et ainsi de suite. À la fin de la journée, il se fondait sur ces renseignements pour établir la facture destinée à DHL. De toute évidence, M. Hiles avait commencé à préparer un grand nombre de factures, mais un remplaçant avait achevé de les établir, ce qui donnait à entendre que M. Hiles s’occupait du parcours le matin et que quelqu’un d’autre s’en occupait l’après‑midi. M. Hiles devait également utiliser le scanneur de DHL pour chaque colis, à défaut de quoi il n’était pas rémunéré, à moins d’avoir obtenu une signature.
+[14] Quant à la commercialisation, M. Munro a souligné que les livraisons constituaient une entreprise fort compétitive et que la meilleure façon d’assurer la commercialisation consistait à fournir un service exemplaire. Ainsi, étant donné que M. Hiles obtenait énormément de travail de Shawnigan Drugs, il effectuait en priorité les livraisons et le ramassage à cet endroit. Les conducteurs pouvaient également offrir de petits cadeaux à leurs clients.
+[15] Quant au paiement, de nombreux clients traitaient directement avec DHL, mais certains conducteurs recevaient de l’argent ou des chèques. Si un client ne payait pas, il n’incombait pas à M. Hiles de s’occuper du recouvrement.
+Analyse
+[16] Au fil des ans, les tribunaux judiciaires ont entendu plusieurs affaires concernant des services de messagerie. Trois décisions portent expressément sur le statut des messagers qui se voient attribuer des secteurs géographiques précis, comme c’est le cas pour M. Hiles (Tiger Courier Inc. c. M.R.N., [2001] A.C.I. no 123 (QL), Livreur Plus Inc. c. M.R.N., [2004] A.C.F no 267 (QL) et Greyhound Canada Transportation Corp. v. Lefler and Kummer, [1999] C.L.A.D. no 155 (QL); toutefois, Greyhound est une décision rendue par un arbitre en matière de relations du travail.) Le point de départ de l’analyse de cette question est la remarque souvent citée que le juge Major a faite dans l’arrêt 671122 Ontario Limited c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, laquelle est reproduite ci‑dessous :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[17] Cela amène la Cour à adopter une approche plus souple lorsqu’elle soupèse tous les facteurs importants en s’attaquant à la question de savoir si M. Hiles travaillait à son compte. Or, l’équilibre est délicat – ce qui peut peser lourd dans un cas peut à peine faire pencher la balance dans un autre. Il faut soupeser les faits en tenant compte du contexte dans lequel s’inscrit toute l’entente de travail. Il ne s’agit pas d’une science, même si l’analyse doit parfois sembler fort mécanique aux yeux des participants.
+[18] Quels sont donc les facteurs, en l’espèce, qui permettent d’établir si M. Hiles travaillait à son compte : le contrôle, la propriété de l’outillage, le recours à des remplaçants, les risques financiers, la responsabilité afférente aux mises de fonds et à la gestion, les chances de bénéfice, le comportement de l’intéressé en tant que personne d’affaires, les répercussions de la convention collective.
+[19] Le contrôle : À coup sûr, les conducteurs de DHL devaient satisfaire à certaines exigences : les colis devaient être livrés avant 9 h, les véhicules devaient être d’une certaine taille, l’assurance devait dépasser un montant minimal ... pourtant, s’agit‑il de facteurs de contrôle qui touchent au coeur même de la relation de travail? L’entrepreneur, contrairement à l’employé, pourrait‑il par exemple omettre de tenir compte des exigences relatives à l’horaire? Non. Dans l’arrêt Livreur Plus Inc., la Cour d’appel fédérale a examiné la question comme suit :
+Un contracteur qui retient les services de sous‑traitants pour effectuer tout ou partie des tâches qu’il s’est engagé envers ses clients à accomplir conformément à un échéancier va identifier et délimiter ce qu’ils ont à réaliser et s’assurer de leurs disponibilités pour le faire [...]
+[I]l ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l’ouvrier chargé de les réaliser. [...] rares sont les donneurs d’ouvrage qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. [...]
+Le contrat de sous‑traitance revêt souvent un caractère léonin dicté par les obligations de l’entrepreneur général : il est à prendre ou à laisser. Mais sa nature n’en est pas altérée pour autant. [...]
+Un sous‑entrepreneur n’est pas une personne libre de toute contrainte qui travaille à son gré, selon ses inclinations et sans la moindre préoccupation pour ses collègues co‑contractants et les tiers. Ce n’est pas un dilettante à l’attitude cavalière, voire irrespectueuse, capricieuse ou irresponsable. Il oeuvre dans un cadre défini, mais il le fait avec autonomie et à l’extérieur de celui de l’entreprise de l’entrepreneur général.
+[20] Lorsqu’il s’agit d’établir si M. Hiles exploitait une entreprise, le contrôle influe sur la liberté de M. Hiles d’organiser la façon dont il s’acquittait réellement de son travail. Sur ce point, il y avait peu de supervision ou il n’y en avait peut‑être même pas. M. Hiles voyait rarement un gérant. Il allait chercher les colis le matin à l’entrepôt suffisamment tôt pour être en mesure de faire les livraisons voulues avant 9 h. Il organisait le chargement de son camion en fonction de l’itinéraire qu’il préférait suivre, itinéraire qu’il pouvait choisir en fonction des livraisons prioritaires. Ainsi, il veillait à ce que Shawnigan Drugs soit toujours servie en temps opportun, étant donné qu’il obtenait énormément de travail de cette source. Il pouvait prendre des pauses à son gré, aller prendre son repas du midi chez lui et demander à quelqu’un d’autre de s’occuper du ramassage des colis pendant l’après‑midi. Il devait de fait « scanner » chaque colis, mais il ne s’agit pas tant d’un élément de contrôle des employés de la part de la direction que d’un élément exigé par la nature du travail, indépendamment du type de contrat. Je conclus que M. Hiles exerçait énormément de contrôle sur la façon dont il s’acquittait de ses obligations, un degré de contrôle indiquant certes davantage qu’il travaillait à son compte.
+[21] Propriété de l’outillage : J’accorde énormément d’importance à ce facteur. Une personne qui s’occupe de livraisons a besoin d’un outillage crucial : un véhicule pour assurer la livraison. M. Hiles a acheté et assuré cette immobilisation majeure et il se chargeait de son entretien. Cependant, comme l’a soutenu l’intimé, DHL fournissait les décalcomanies de la société qui devaient être apposés sur le véhicule, elle fournissait le scanneur et elle fournissait un uniforme. La fourniture d’un uniforme donne davantage à entendre l’existence d’une entente conclue avec un employé, mais pas dans le cas du scanneur, qui était un élément propre à DHL. Le scanneur n’était d’aucune utilité pour M. Hiles si ce n’est dans le cadre de l’entente de travail qu’il avait conclue avec DHL; il importe peu que le scanneur n’ait pas appartenu à M. Hiles.
+[22] DHL a indiqué à M. Hiles la taille du véhicule qu’il devait utiliser pour ce parcours particulier, mais elle n’a pas indiqué la marque, ni si le véhicule devait être neuf ou si un véhicule d’occasion pouvait être utilisé. Il reste que c’est M. Hiles plutôt que DHL qui a acheté le camion. M. Hiles fournissait également son propre téléphone cellulaire, ses stylos, ses planchettes à pince et les autres articles de ce genre. Je conclus que selon le facteur « propriété de l’outillage », M. Hiles exploitait sa propre entreprise.
+[23] Recours à des remplaçants : L’avocat de l’appelante a insisté sur la régularité avec laquelle M. Hiles avait recours à des conducteurs pour le remplacer. Il est inutile de savoir exactement combien de fois M. Hiles a eu recours à des remplaçants. Il suffit de dire que je conclus que M. Hiles avait souvent recours à des remplaçants, et ce, sans consulter au préalable la direction de DHL. M. Hiles négociait en outre le taux de rémunération qu’il accordait aux conducteurs. L’intimé a signalé que la convention collective fixait le montant minimum qui devait être versé aux remplaçants. Toutefois, lorsqu’on le lui a demandé, M. Munro, qui représentait la direction de DHL, a reconnu que, quant à lui, la question de la rémunération versée aux remplaçants concernait uniquement M. Hiles et ses conducteurs.
+[24] De même, la convention collective fixait le nombre maximal de jours pour lesquels il était possible d’avoir recours à un remplaçant (cette restriction a toutefois été récemment supprimée), et elle établissait également les exigences à satisfaire avant qu’un propriétaire‑exploitant embauche des conducteurs. Encore une fois, la direction de DHL a confirmé que ces restrictions n’étaient pas rigoureusement appliquées. En fait, on avait recours aux remplaçants en sus de tout présumé maximum et, en outre, sans se plier aux exigences de la société. Ces dernières questions pourraient donner à entendre l’existence d’un certain degré de contrôle, mais cela ne l’emporte pas sur la réalité, à savoir que M. Hiles embauchait, rémunérait et formait dans une certaine mesure ses propres conducteurs. Cela indique fortement que M. Hiles travaillait à son compte. Une conclusion similaire a été tirée dans la décision Greyhound, dans le contexte toutefois d’un arbitrage effectué conformément au Code canadien du travail, les conducteurs dans cette affaire étant eux aussi assujettis, aux termes de la convention collective, à un nombre restreint de jours.
+[25] Risques financiers : DHL garantissait à M. Hiles, ainsi qu’aux autres propriétaires‑exploitants, un minimum au titre de la rémunération possible. Toutefois, M. Hiles n’a jamais eu à se fonder sur ce minimum garanti – il gagnait toujours un montant supérieur au montant de base. Les risques financiers ne sont pas pour autant complètement éliminés. Les risques ne sont pas « à prendre ou à laisser ». Le propriétaire‑exploitant se voit garantir le montant minimal qu’il peut gagner, mais il lui incombe de décider si l’activité en vaut la peine, compte tenu d’une telle garantie minimale. Les risques financiers ne sont pas simplement liés au fait que le travailleur se voit accorder une garantie minimale. Il y a un risque constant d’accident, un risque élevé, étant donné le temps passé par M. Hiles au volant de son camion. Ce risque était entièrement assumé par M. Hiles qui était en outre responsable des frais d’entretien et de réparation. Les coûts résultant de toute infraction commise par M. Hiles étaient également supportés par celui‑ci. Somme toute, M. Hiles était exposé aux risques financiers auxquels est normalement exposée la personne qui exploite sa propre entreprise.
+[26] Responsabilité afférente aux mises de fonds et à la gestion : L’acquisition et l’entretien d’un camion d’une valeur de 30 000 à 40 000 $ constitue une dépense majeure. Le fait qu’il faut diriger des employés et s’occuper du service à la clientèle pour faire face à la concurrence indique également un degré de gestion tel que celui assuré par la personne qui exploite sa propre entreprise.
+[27] Les chances de bénéfice : Il y avait le minimum garanti dont il a ci‑dessus été fait mention, mais le maximum qu’un propriétaire‑exploitant pouvait gagner dépendait davantage de ses propres initiatives, de la façon dont il gérait les livraisons prioritaires, de la façon dont il établissait son itinéraire et de la question de savoir s’il valait la peine d’aller ramasser certains colis ou de livrer certains colis, du recours à des conducteurs, des taux négociés, de l’ordonnancement efficace des travaux d’entretien, du contrôle global des coûts. La rentabilité dépendait surtout des compétences de M. Hiles sur le plan de la gestion et de la commercialisation ainsi que sur le plan financier, soit des compétences propres à un entrepreneur.
+[28] Le comportement d’une personne d’affaires : Les actions de M. Hiles, lorsqu’il exécutait le contrat conclu avec DHL, confirment qu’un contrat d’entreprise est ici en cause. M. Hiles versait des cotisations à la Commission des accidents du travail pour son compte et il avait la responsabilité de verser des cotisations pour ses conducteurs. Il avait souscrit à sa propre assurance. Il embauchait des employés. Il s’occupait de la commercialisation. Et ce qui est peut‑être encore plus révélateur, c’est l’exemple qui a été donné au sujet de la façon dont M. Hiles s’occupait principalement des problèmes qui survenaient avec les clients. M. Hiles agissait comme le ferait un homme d’affaires.
+[29] La convention collective : L’intimé soutient que la convention collective indique l’existence d’une relation d’emploi entre les propriétaires‑exploitants et DHL. À l’appui, il signale l’existence même du syndicat, avec tout ce que la chose comporte (comités syndicaux, restrictions concernant les activités syndicales, appartenance obligatoire au syndicat). L’intimé se fonde également sur les exemples suivants de dispositions indiquant l’existence d’un emploi :
+‑ l’embauchage, la classification, les rétrogradations, les promotions, les suspensions et ainsi de suite, qui sont des fonctions exclusives de la direction;
+‑ la procédure de présentation des griefs;
+‑ les dispositions relatives à l’ancienneté;
+‑ les congés (deuil, maternité, paternité et congés médicaux);
+‑ l’obligation de porter des chaussures de sécurité;
+‑ la fourniture d’uniformes;
+‑ l’obligation d’assister à des séances de formation ou à des réunions obligatoires;
+‑ l’obligation d’utiliser des scanneurs;
+‑ La description des services à fournir figurant à l’annexe B, notamment :
+‑ la préparation et la présentation de rapports exacts;
+‑ le chargement et le déchargement;
+‑ la propreté;
+‑ la prudence au volant;
+‑ l’interdiction de consommer des drogues ou de l’alcool;
+‑ l’obligation d’assurer la sécurité du véhicule;
+‑ l’interdiction de faire monter des passagers sans autorisation.
+[30] Pour examiner ces dispositions, qui donnent une apparence d’emploi, il faut tenir compte des circonstances qui ont été à l’origine de la convention collective. Le Code canadien du travail définit l’employé comme comprenant l’entrepreneur dépendant, et définit l’entrepreneur dépendant comme suit :
+a) le propriétaire, l’acheteur ou le locataire d’un véhicule destiné au transport, sauf par voie ferrée, du bétail, de liquides ou de tous autres produits ou marchandises qui est partie à un contrat, verbal ou écrit, aux termes duquel :
+(i) il est tenu de fournir le véhicule servant à son exécution et de s’en servir dans les conditions qui y sont prévues,
+(ii) il a droit de garder pour son usage personnel le montant qui lui reste une fois déduits ses frais sur la somme qui lui est versée pour son exécution;
+[...]
+c) la personne qui exécute, qu’elle soit employée ou non en vertu d’un contrat de travail, un ouvrage ou des services pour le compte d’une autre personne selon des modalités telles qu’elle est placée sous la dépendance économique de cette dernière et dans l’obligation d’accomplir des tâches pour elle.
+[31] Ainsi, pour l’application de la partie I du Code canadien du travail, l’employé inclut l’entrepreneur dépendant. Les entrepreneurs dépendants se livrent donc à la négociation collective et sont membres d’un syndicat et ils sont par conséquent régis par le type de convention collective qui m’a ici été soumise. Toutefois, cela veut‑il pour autant dire que l’entrepreneur dépendant est un employé aux fins de l’A‑E?
+[32] La notion même d’entrepreneur dépendant indique une dépendance économique; pourtant, cela n’indique pas nécessairement l’assujettissement au contrôle de l’« employeur ». Il s’agit d’une expression hybride, qui se situe à peu près au milieu du spectre allant de l’employé à l’entrepreneur indépendant. Aux fins de l’A‑E, l’accent devrait‑il être mis sur le mot « dépendant » ou sur le mot « entrepreneur »? En ce qui concerne M. Hiles, je crois que la balance penche du côté du mot « entrepreneur » plutôt que de celui du mot « dépendant ».
+[33] Une fois qu’il est reconnu que cette catégorie hybride d’entrepreneur dépendant est visée par le Code canadien du travail et peut donc être régie par une convention collective, il n’est pas surprenant de voir ce genre même de disposition dans une telle convention, indiquant selon l’intimé l’existence d’un emploi. L’entente découle de la législation du travail. Et, en effet, certaines dispositions touchent le contrôle de la part de DHL, mais un grand nombre de dispositions n’indiquent pas plus l’existence d’un emploi qu’un rapport avec un entrepreneur indépendant; il en est ainsi pour l’exigence voulant que le scanneur de la société soit utilisé, pour l’obligation de faire rapport, de conduire avec prudence, d’assurer la sécurité du véhicule. Indépendamment de la nature de la relation, DHL établirait, et devrait établir, de telles lignes directrices. Il reste néanmoins dans la convention collective des indices que l’on ne s’attendrait pas à trouver dans le cadre d’une véritable relation avec un entrepreneur indépendant, notamment les dispositions concernant l’ancienneté, les congés, l’interdiction de faire monter des passagers sans autorisation. Il s’agit donc d’une situation plus ou moins claire. Les ententes écrites faisant foi de la relation confirment l’existence d’une relation avec un entrepreneur dépendant, avec quelqu’un qui, pour l’application du Code canadien du travail, est un employé. Toutefois, je conclus, en soupesant ces documents par rapport à ce que faisait en réalité M. Hiles pour DHL ainsi qu’en tenant compte du facteur « contrôle » et du facteur économique dont il a ci‑dessus été fait mention, qu’en l’espèce, la notion d’« entrepreneur dépendant » aux fins de l’assurance‑emploi, se rapproche davantage de celle d’un entrepreneur indépendant que de celle d’un employé. M. Hiles fournissait les services conformément à un contrat d’entreprise en tant que personne travaillant à son compte. L’appel est accueilli.
+Signé à Ottawa, Canada, ce 4e jour de mars 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 14e jour de mars 2006.
+Sara Tasset
+RÉFÉRENCE :
+2005CCI178
+Nos DES DOSSIERS DE LA COUR :
+2004‑4055(EI) et 2004‑4057(CPP)
+INTITULÉ :
+DHL Express (Canada) Ltd. c. le M.R.N.
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 9 février 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 4 mars 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gerald A. Grenon
+Avocat de l’intimé :
+Me R. Scott McDougall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Gerald A. Grenon
+Cabinet :
+Osler, Hoskin & Harcourt LLP
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

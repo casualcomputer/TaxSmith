@@ -1,0 +1,144 @@
+---
+title: "Rogers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30050/index.do"
+last_modified: "2010-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 548"
+citation2: ""
+neutral_citation: "2010 TCC 548"
+decision_date: "2010-10-28"
+language: "en"
+item_id: "30050"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7698
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:54:17.248000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49972fe184f49323fd8090fdf792adad80dbabf9971ba2bc23c00ca230cc8ae6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rogers v. The Queen
+
+- Citation: 2010 TCC 548
+- Decision date: 2010-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7698, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rogers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-28
+Neutral citation
+2010 TCC 548
+File numbers
+2010-464(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-464(IT)I
+BETWEEN:
+EDWARD S. ROGERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 25, 2010, at Montreal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-France Dompierrre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montreal, Quebec, this 28th day of October 2010.
+“G.A. Sheridan”
+Sheridan J.
+Citation: 2010TCC548
+Date: 20101028
+Docket: 2010-464(IT)I
+BETWEEN:
+EDWARD S. ROGERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Edward Rogers, is appealing the disallowance by the Minister of National Revenue of a deduction for medical expenses claimed for massage therapy in the 2008 taxation year.
+[2] In 2006, Mr. Rogers’ wife suffered a massive stroke; Mr. Rogers is bothered by arthritis in his neck. Part of the treatment prescribed by their physician was massage therapy. The Minister accepts that in 2008, the Appellant paid $12,762.45 for their massage therapy treatments.
+[3] The only issue in dispute is whether that amount is deductible under sections 118.2 and 118.4 of the Income Tax Act, the relevant portions of which are:
+118.2(1) Medical expense credit - For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted the amount determined by the formula
+…
+118.2(2) Medical expenses - For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+(a) to a medical practitioner …in respect of medical … services provided to a person (in this subsection referred to as the “patient”) who is the individual, the individual’s spouse … in the taxation year in which the expense was incurred;
+….
+118.4(2) Reference to medical practitioners, etc. - For the purposes of sections 63, 64, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, physiotherapist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+. . .
+[Emphasis added.]
+[4] While acknowledging that a massage therapist might not be a “medical practitioner” within the meaning of subsection 118.2(2)(a), the Appellant submitted that because the massage therapy treatments had been administered pursuant to a prescription issued by a physician, that provision ought to be interpreted to include the cost of such treatments.
+[5] Although sympathetic to the Appellant’s situation, counsel for the Respondent argued that a deduction could not be allowed because the statutory criteria had not been fulfilled; specifically, that the $12,762.45 paid by the Appellant had not been paid to a “medical practitioner”; it was paid to massage therapists. In support of the Minister’s position, counsel cited Roy v. R.[1] and Parent v. R.[2], Quebec cases in which the Tax Court of Canada upheld the Minister’s disallowance of the taxpayers’ claims for medical expense deductions for thalassotherapy and naturopathy, respectively. As in the present case, such treatments had been prescribed by a physician but that was not sufficient to satisfy the requirements of paragraph 118.2(2)(a). That provision requires that the amount be paid to a “medical practitioner” which under paragraph 118.4(2)(a), must be determined in accordance with the laws of the jurisdiction in which the services were rendered:
+[25] The definition of "physician" in section 1 of the Medical Act, R.S.Q., chapter M-9, refers to a person entered on the roll. The term "roll", also defined in section 1, means the list of the members in good standing of the Order, prepared in accordance with the Professional Code and this Act. Lastly, the term "Order" is a reference to the Ordre des médecins du Québec, constituted by this Act. Here is how these definitions in section 1 of the Medical Act are worded:
+(c) "physician" or "member of the Order": any person entered on the roll;
+(g) "roll": the list of the members in good standing of the Order, prepared in accordance with the Professional Code and this Act.
+(a) "Order": the Ordre des médecins du Québec, constituted by this Act;
+[26] Thus, it is clear that the thalassotherapists and massage therapists that may have provided services for which the appellant seeks a deduction are not entered on the roll of physicians maintained by the Ordre des médecins in the province of Quebec.
+[6] Similar decisions can be found in other jurisdictions of Canada: see Laurie v. R.[3] (Nova Scotia) and in Pagnotta v. R.[4] (Alberta), both of which involved unsuccessful claims for the deduction of the cost of massage therapy. In the present matter, there is no evidence before me that the massage therapists paid by the Appellant were medical practitioners within the meaning of paragraph 118.2(2)(a); accordingly, the $12,762.45 paid by the Appellant cannot be deductible under that provision.
+[7] Because Revenue Quebec had allowed his claim for a medical expense deduction for massage therapy, the Appellant argued that, for the sake of consistency, a similar deduction ought to be allowed at the federal level. While I can follow the logic of the Appellant’s argument, the deductibility of any particular claim will depend on the precise criteria in the relevant federal or provincial income tax legislation. In the Roy case cited above, after considering the Quebec tax legislation, Tardif, J. concluded:
+[27] With regard to the argument that Revenu Québec accepted his claim, I will simply note that in order for a medical expense to be eligible for tax credits under Quebec's Taxation Act, it appears to be sufficient that it was paid to a "practitioner". Obviously, the term "practitioner" is more general than the term "medical doctor".
+[8] In the present case, whatever the Quebec tax authorities decided in respect of the deductibility of the massage therapy costs, this Court must determine the correctness of the Minister’s assessment in accordance with paragraph 118.2(2)(a) of the federal Income Tax Act. As explained to the Appellant at the hearing, this Court has no discretion to interpret that provision “equitably” out of consideration for the Appellant’s or his wife’s health problems, however serious they may be. Whether to expand the list of professionals in subsection 118.4(2) to provide a deduction under paragraph 118.2(2)(a) for the cost of alternative medical treatments is for Parliament to decide. And it is for the taxpayers in support of such an amendment to deliver their message to their federal representatives.
+[9] As the conditions of paragraph 118.2(2)(a) have not been satisfied, the appeal of the 2008 taxation year must be dismissed.
+Signed at Montreal, Quebec, Canada, this 28th day of October 2010.
+“G.A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC548
+COURT FILE NO.: 2010-464(IT)I
+STYLE OF CAUSE: EDWARD S. ROGERS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 25, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: October 28, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 TCC 753. (T.C.C.).
+[2] 2007 TCC 608. (T.C.C.)
+[3] 2003 TCC 104. (T.C.C.).
+[4] [2001] 4 C.T.C. 2613. (T.C.C.).

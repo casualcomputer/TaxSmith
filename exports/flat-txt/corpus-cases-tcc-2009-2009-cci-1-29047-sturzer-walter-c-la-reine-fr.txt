@@ -1,0 +1,549 @@
+Title: Sturzer Walter c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29047/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-1-29047-sturzer-walter-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-08
+
+# Sturzer Walter c. La Reine
+
+- Citation: 2009 CCI 1
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6855, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sturzer Walter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-08
+Référence neutre
+2009 CCI 1
+Numéro de dossier
+2006-3362(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3362(IT)G
+ENTRE :
+WALTER STURZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 12 et 13 mai 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 est rejeté avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 1
+Date : 20090108
+Dossier : 2006-3362(IT)G
+ENTRE :
+WALTER STURZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelant interjette appel des nouvelles cotisations établies à son égard par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2000, 2001 et 2002 (les « années en litige »). En établissant les nouvelles cotisations, le ministre a déterminé, en utilisant la méthode de l’avoir net, que l’appelant avait des revenus non déclarés de 213 115 $ en 2000, de 1 132 169 $ en 2001 et de 626 649 $ en 2002, selon les détails fournis à l’annexe A ci-jointe, et il a imposé, pour chacune de ces mêmes années, une pénalité selon le paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] Pour établir les nouvelles cotisations faisant l’objet du présent litige, le ministre a notamment tenu pour acquis les faits suivants énoncés au paragraphe 9 de la Réponse modifiée à l’avis d’appel :
+a) l’appelant était résident du Canada, au sens de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), dans sa version applicable au litige (LIR), depuis le 16 mars 1989; (admis)
+b) l’appelant fut l’unique actionnaire des sociétés par actions Les investissements W.M. inc. (Investissements W.M.) et 3090-1714 Québec inc. (3090-1714); (admis)
+c) Investissements W.M. oeuvrait dans le domaine des jeux automatiques et des machines d’amusement, tandis que 3090-1714 exploitait un bistro bar; (admis)
+d) Investissements W.M. et 3090-1714 ont été dissoutes au cours du mois de juillet 1997; (admis)
+e) l’appelant a fait faillite le 24 décembre 1997; (admis)
+f) dans le cadre de ses procédures en faillite, l’appelant a déclaré devoir une somme de 900 000 $ à Revenu Canada Impôt (maintenant l’Agence du revenu du Canada (Agence)); (admis)
+g) les raisons invoquées par l’appelant pour cette faillite étaient l’endossement des dettes d’Investissements W.M. et de 3090-1714 suite à des cotisations établies par Revenu Québec en matière de taxe sur les produits et services (TPS), de taxe de vente québécoise (TVQ) et d’impôt; (admis)
+h) l’appelant a été libéré de sa faillite le 24 septembre 1998; (admis)
+i) le 24 septembre 1998, jour de sa libération de sa faillite, l’appelant a été intercepté par les douanes canadiennes à l’Aéroport Dorval (maintenant Aéroport Pierre‑Elliott‑Trudeau) avec des devises étrangères équivalant à environ 48 000 $ canadiens); (admis sauf pour le montant)
+j) le 10 novembre 1999, l’appelant a acquis de monsieur Léopold Beaulieu, une personne non liée à l’appelant au sens du paragraphe 251(2) de la LIR, pour une contrepartie de 40 000 $ une parcelle de terrain située dans la municipalité de Saint‑Sauveur, Québec (première parcelle de terrain); (admis)
+k) le 2 mars 2000, l’appelant a acquis pour une contrepartie de 5 000 $, de la société par actions Les roulottes des Monts inc., une société par actions non liée à l’appelant au sens du paragraphe 251(2) de la LIR, une parcelle de terrain (deuxième parcelle de terrain) adjacente à la première parcelle de terrain; (admis)
+l) le même jour, soit le 2 mars 2000, l’appelant a acquis, dans le cadre d’une donation entre vifs, de madame Lyne Brunet, avec laquelle il était marié, une autre parcelle de terrain (troisième parcelle de terrain) adjacente à la première parcelle de terrain; (admis)
+m) le 18 septembre 2000, l’appelant a acquis, pour une contrepartie de 150 000 $, de la société par actions Développement Golfmont inc., une société par actions non liée à l’appelant au sens du paragraphe 251(2) de la LIR, un terrain vacant (terrain) d’une superficie de 5 688,7 mètres carrés situé dans la municipalité de Morin‑Heights, Québec; (admis)
+n) durant les années d’imposition en litige, l’appelant a assumé les frais de construction (frais de construction) suivants afin de faire construire une résidence (résidence) sur le terrain : (admis)
+Année d’imposition
+Frais de construction
+2000
+39 990 $
+2001
+978 753 $
+2002
+519 940 $
+Total
+1 538 683 $
+o) le 5 novembre 2002, l’appelant a disposé, en faveur de la société par actions Les Roulottes des Monts inc., pour un produit de disposition de 100 000 $, des première, deuxième et troisième parcelles de terrain. L’appelant n’a pas inclus dans sa déclaration de revenus pour l’année d’imposition 2002, le gain résultant de cette disposition; (nié)
+p) les seuls revenus déclarés (revenus déclarés) par l’appelant dans le cadre de ses déclarations de revenus pour les années d’imposition en litige furent les suivants : (admis)
+Année d’imposition
+Revenus de commission
+2000
+52 000 $
+2001
+41 000 $
+2002
+45 000 $
+q) l’utilisation de la méthode de cotisation fondée sur l’écart de l’avoir net (voir tableaux I et II et annexes I à V) par l’Agence a fait ressortir que l’appelant a omis de déclarer les montants de revenus suivants (revenus non déclarés) dans ses déclarations de revenus pour les années d’imposition en litige : (nié)
+Année d’imposition
+Revenus non déclarés
+2000
+213 115 $
+2001
+1 132 169 $
+2002
+626 649 $
+Total
+1 971 933 $
+r) les revenus non déclarés proviennent principalement de l’exploitation par l’appelant de machines d’amusement; (nié)
+s) les frais de construction ont été payés par l’appelant à l’aide uniquement des revenus déclarés et des revenus non déclarés; (nié)
+t) aucun passif n’a été retracé concernant la résidence; (nié)
+u) pour chacune des années d’imposition en litige, l’appelant a produit auprès de l’Agence des formulaire T1135 « Bilan de vérification du revenu étranger » indiquant qu’il possédait des fonds détenus à l’étranger d’une valeur supérieure à 100 000 $ et des biens immeubles étrangers d’une valeur excédant 500 000 $. Selon ces formulaires, ces fonds et immeubles étaient situés en Europe (ailleurs qu’au Royaume‑Uni); (admis)
+v) en janvier 2003, l’appelant indiqua à un inspecteur des douanes canadiennes qu’il revenait de Vienne, Autriche, où il était par affaires et qu’il effectue environ 5 voyages par années en Autriche; (nié)
+w) de plus, il a indiqué à ce dernier inspecteur être consultant pour des casinos européens et que ces entités le paient en effectuant des transferts à ses comptes bancaires canadiens; (nié)
+x) en ne déclarant pas les revenus non déclarés dans ses déclarations de revenus pour les années d’imposition en litige, l’appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude. (nié)
+[3] Les objections soulevées par l’appelant portent sur :
+i) l’imposition par le ministre d’une pénalité relative aux revenus additionnels pour chacune des années en litige;
+ii) quant aux revenus additionnels pour les années en litige, les éléments particuliers indiqués ci‑après :
+Dons du père
+a) l’appelant a soutenu que le ministre aurait dû tenir compte, dans son calcul de l’avoir net, des dons reçus de son père pendant les années en litige. L’appelant a prétendu, à cet égard, que son père, monsieur Rudolf Dominkovits, avait déposé dans un compte bancaire[1] (détenu conjointement par ce dernier et l’appelant) une somme d’environ 750 000 $ pendant les années en litige. L’appelant a soutenu qu’il avait utilisé à des fins personnelles pendant les années en litige toutes les sommes ainsi déposées par son père dans ce compte bancaire (le « compte conjoint »);
+Emprunts
+b) l’appelant a soutenu que le ministre aurait dû tenir compte, dans son calcul de l’avoir net, des prêts qui lui auraient été consentis pendant les années en litige par une banque autrichienne, la Raiffeisen Bank, et par la société Samisa Anstalt, une société dont le siège social est situé au Liechtenstein (« Samisa »). À cet égard, l’appelant a soutenu qu’il était endetté envers la Raiffeisen Bank d’une somme de 424 728 $ au 31 décembre 2001 et d’une somme de 434 390 $ au 31 décembre 2002. L’appelant a aussi soutenu qu’il avait emprunté de Samisa :
+- 109 009,25 euros, le 22 mars 2001;
+- 300 000 $, le 8 février 2002;
+- 100 000 $, le 13 mars 2002;
+- 273 250 euros, le 6 juin 2002.
+[4] Dans le présent appel, seule madame Danielle Langlois, vérificatrice de l’Agence des douanes et du revenu du Canada (l’« Agence »), a témoigné à l’appui de la position du ministre. L’appelant a témoigné. Monsieur Yves Ladouceur, le notaire instrumentant notamment pour l’acquisition des terrains par l’appelant et pour constituer l’hypothèque de 1 500 000 $ consentie par l’appelant à Samisa, a aussi témoigné à l’appui de la position de l’appelant.
+Analyse
+[5] Tout d’abord, il faut traiter du fardeau de la preuve qui repose sur l’appelant dans ses appels. Mon collègue le juge Tardif a eu l’occasion de traiter du fardeau de la preuve dans une affaire soulevant, comme c’est le cas ici, une cotisation établie selon l’avoir net.
+[6] Dans l’affaire Bastille c. Sa Majesté la Reine, no 96-4370(IT)G, 9 décembre 1998, 99 DTC 431, [1999] 4 C.T.C. 2155, il a écrit, aux paragraphes 5 et suivants :
+[5] Il m’apparaît important de rappeler qu’en cette matière, le fardeau de la preuve incombe aux appelants, à l’exception toutefois de la question des pénalités où le fardeau de preuve est imputable à l’intimée.
+[6] Une cotisation établie en vertu de la formule AVOIR NET ne peut jamais découler de la rigueur mathématique souhaitée et souhaitable en matière de cotisation. Il y a généralement une certaine partie d’arbitraire provenant de la détermination de la valeur des composantes. Le Tribunal doit décider de la raisonnabilité de cet arbitraire.
+[7] Le recours à ce procédé n’est d’ailleurs pas la règle. Il constitue en quelque sorte une exception utilisée dans les situations où le contribuable n’a pas en sa possession toutes les informations, documents et pièces justificatives pour permettre une vérification plus conforme aux règles de l’art et surtout plus précise quant au résultat.
+[8] Les assises ou fondements des calculs élaborés dans le cadre d’un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l’objet de la vérification.
+[9] La qualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+[7] Un autre de mes collègues, le juge Bowman (tel était alors son titre), tenait les propos suivants dans l’affaire Ramey c. La Reine, no 91-547(IT), 20 avril 1993, [1993] A.C.I. no 142 (QL), [1993] 2 C.T.C. 2119, 93 DTC 791 :
+Je ne sous-estime pas les difficultés énormes, sinon pratiquement insurmontables, auxquelles l’appelant et son avocat se heurtent dans leur tentative de contester les cotisations d’actif net établies à l’égard d’un contribuable décédé. Estimer le revenu annuel d’un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C’est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d’actif net repose sur une comparaison de l’actif net du contribuable, à savoir la valeur de l’actif moins le passif au début d’une année, avec son actif net à la fin de l’année. À la différence ainsi obtenue, on ajoute les dépenses qu’il a engagées pendant l’année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu’à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l’année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d’actif net s’impose est souvent l’artisan de son propre malheur.
+[8] Dans l’appréciation de la preuve fournie par l’appelant, il est nécessaire de commenter l’omission de faire comparaître certains témoins et de fournir de la preuve documentaire adéquate qui aurait pu confirmer les affirmations de l’appelant. Dans l’affaire Huneault c. La Reine, [1998] A.C.I. no 103 (QL), 98 DTC 1488, ma collègue la juge Lamarre rappelle au paragraphe 25 certains propos que tiennent les auteurs Sopinka et Lederman dans leur livre « The Law of Evidence in Civil Cases » et qui sont cités par le juge Sarchuk de notre cour dans l’affaire Enns c. M.R.N., no APP-1992(IT), 17 février 1987, 87 DTC 208, à la page 210 :
+Dans l’ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l’omission de faire comparaître un témoin, je cite :
+[TRADUCTION]
+Dans l’affaire Blatch v. Archer, (1774) , 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l’une des parties était en mesure de produire et que l’autre partie était en mesure de réfuter.
+L’appréciation de ce principe a conduit à établir une règle bien connue selon laquelle l’omission d’une partie ou d’un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d’élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l’omission a été attribuée.
+Dans le cas d’un demandeur auquel il incombe d’établir un point, l’effet de cette déduction peut être que la preuve produite sera insuffisante pour s’acquitter du fardeau de la preuve. (Lévesque et al. c. Comeau et al., [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e ) 425).
+[9] En l’espèce, avant d’analyser en détail les faits pertinents, il est utile de faire certains commentaires généraux sur la crédibilité de l’appelant. À mon avis, il serait dangereux d’accorder quelque valeur probante au témoignage de l’appelant sans preuve concordante et probante sous forme de documentation fiable ou de témoignage de témoins crédibles.
+[10] Non seulement les réponses et les explications de l’appelant étaient généralement vagues, imprécises et souvent incompréhensibles, mais elles étaient parfois contradictoires et contredites par une preuve documentaire. Le témoignage de l’appelant[2] selon lequel il avait déposé dans le compte conjoint pendant les années en litige environ 200 000 $ provenant de l’exploitation à l’étranger de son entreprise de consultation est assez révélateur à cet égard. L’appelant a expliqué que la somme d’environ 200 000 $ déposée dans le compte conjoint était liée aux honoraires facturés à ses clients tels qu’ils apparaissent aux factures déposées en preuve sous les cotes A-1, A-2, A-3, A-4 et A-5. À l’égard de la facture déposée en preuve sous la cote A-1, je note que les honoraires de 108 000 $ facturés le 31 décembre 2002 sont liés à des services qui auraient été rendus en 2001 et 2002. L’appelant a expliqué qu’environ 54 000 $ de ces honoraires facturés avaient été gagnés durant chacune de ces années et qu’il avait dû engager des dépenses d’environ 10 000 $ durant chacune de ces années pour gagner ce revenu. Il convient de préciser que l’appelant a admis que la répartition des revenus entre 2001 et 2002 et le montant des dépenses engagées durant chacune de ces années n’étaient que des approximations, puisqu’il ne pouvait se référer à des registres comptables ou à des pièces justificatives, cette documentation n’existant pas. L’appelant a expliqué qu’il avait déclaré des revenus nets d’environ 44 000 $ provenant de ce client durant chacune de ces années d’imposition. Je note aussi du document déposé en preuve sous la cote A-1 que l’appelant aurait déclaré des honoraires d’environ 44 000 $ en 2001, et ce, avant même d’avoir envoyé sa facture à son client qui, je le rappelle, a reçu la facture le 31 décembre 2002. Enfin, l’appelant a témoigné que son client avait payé par chèque la totalité des honoraires de 108 000 $ en 2003 (donc à un autre moment que pendant les années en litige) sans pour autant préciser la date où le chèque avait été encaissé. J’ajouterais que l’appelant n’a pas jugé nécessaire de produire une copie certifiée de ce chèque. À l’égard de la facture déposée en preuve sous la cote A-2, je note que les honoraires facturés de 14 000 $ le 15 septembre 2002 étaient liés à des services qui auraient été rendus durant cette même année. L’appelant a expliqué que son client l’avait payé en argent comptant sans pour autant préciser la date du paiement. Il convient de souligner que l’appelant a admis lorsqu’il a été interrogé à cet égard qu’il ne se souvenait pas de ce qu’il avait fait de cet argent comptant. À l’égard de la facture déposée en preuve sous la cote A‑3, je note que les honoraires de 7 400 $ facturés le 24 février 2000 étaient liés à des services qui auraient été rendus en janvier et février de cette même année. L’appelant a expliqué qu’il n’avait engagé aucune dépense pour gagner ce revenu et qu’il avait été payé en argent comptant sans pour autant préciser la date du paiement. Il convient aussi de souligner que l’appelant a admis à la fin de son témoignage qu’il ne se souvenait pas de ce qu’il avait fait de cet argent comptant. À l’égard de la facture déposée sous la cote A‑4, je note que les honoraires de 90 000 $ facturés le 21 avril 2000 étaient liés à des services qui auraient été rendus en 1999 et 2000. L’appelant a aussi déclaré qu’il avait engagé des dépenses d’environ 5 000 $ en 1999 et d’environ 10 000 $ en 2000 pour gagner ce revenu de 90 000 $. Il convient de souligner que l’appelant a déposé en preuve un document (pièce A‑26) qui tend à démontrer que le client avait payé en 2000 les honoraires facturés en transférant directement une somme de 90 000 $ au compte conjoint. À l’égard de la facture déposée en preuve sous la cote A‑5, je note que les honoraires de 10 000 $ facturés le 15 février 2001 étaient liés à des services qui auraient été rendus durant cette même année. L’appelant a expliqué qu’il n’avait engagé aucune dépense pour gagner ce revenu et que les honoraires ainsi facturés avaient été payés en argent comptant sans pour autant préciser la date du paiement. Il convient aussi de souligner que l’appelant a admis à la fin de son témoignage qu’il ne se souvenait pas de ce qu’il avait fait de cet argent.
+[11] Il ressort des factures déposées en preuve et du témoignage de l’appelant à leur égard que les honoraires ainsi facturés totalisaient 229 400 $ et que les dépenses engagées par l’appelant (en supposant que le montant des honoraires payés en argent comptant ait été déposé dans le compte conjoint durant les années en litige) pour gagner ces honoraires totalisaient environ 35 000 $ et qu’ainsi le montant maximal des honoraires encaissés qui aurait pu être déposé dans le compte conjoint pendant les années en litige ne pouvait excéder 121 400 $. Je rappelle que l’appelant a déclaré au début de son témoignage qu’il avait déposé dans le compte conjoint pendant les années en litige des honoraires d’environ 200 000 $ provenant de l’exploitation à l’étranger de son entreprise de consultation.
+[12] J’ajouterai que l’attitude de l’appelant à l’égard de notre système fiscal fondé sur l’autocotisation n’a fait qu’ajouter à mes doutes quant à la crédibilité de l’appelant. À cet égard, la preuve a révélé que :
+i) l’appelant ne conservait aucune pièce justificative relativement aux dépenses qu’il aurait engagées pour gagner son revenu d’entreprise pendant les années en litige;
+ii) l’appelant n’avait pas tenu, pendant les années en litige, de registres comptables à l’égard de son revenu d’entreprise;
+iii) l’appelant n’avait pas indiqué dans ses déclarations de revenus produites pour les années en litige son revenu d’entreprise brut et net aux postes prévus à cet égard dans les déclarations de revenus, pas plus qu’il n’avait annexé à ses mêmes déclarations de revenus un état des résultats de son entreprise. L’appelant a expliqué que le comptable agréé qui l’avait aidé à compléter ses déclarations de revenus pour les années en litige lui avait affirmé qu’il devait tout au plus indiquer dans ses déclarations de revenus sous le poste « autres revenus » le montant représentant son revenu d’entreprise net. Je n’en crois pas un mot. Je suis plutôt d’avis que l’appelant voulait cacher des choses à l’Agence en ce faisant;
+iv) l’appelant n’avait pas inclus dans sa déclaration de revenus pour l’année d’imposition 2002 un gain en capital de 55 000 $ résultant de la disposition de terrains acquis en 2000 pour la somme de 45 000 $. Les explications de l’appelant à cet égard méritent d’être citées:
+Q. Did you declare the gain on the sale of that?
+A. No, I did not declare the gain. I was believing that, so that I was living there, beside it and I wanted to build a home there, a new home there, it was also like personal property, you know, so it is why I did not declare this at that time[3].
+Je note que l’appelant n’avait évidemment pas demandé à son comptable qui préparait ses déclarations de revenus pendant les années en litige des explications à l’égard du traitement fiscal de ce gain;
+v) l’appelant n’avait pas produit de déclaration de revenus pour son année d’imposition 2004, année où il avait cessé d’être résident du Canada. Évidemment, l’appelant a déclaré qu’il ne savait pas qu’un résident canadien doit produire une déclaration de revenus pour l’année où il cesse d’être résident du Canada. Évidemment, l’appelant n’a pas demandé à son comptable la nature de ses obligations fiscales dans un tel cas;
+vi) l’appelant n’avait pas déclaré le gain en capital important réalisé à l’occasion de la disposition de la résidence construite sur le terrain acquis le 18 septembre 2000 pour une contrepartie de 150 000 $. Les explications de l’appelant à cet égard sont à ce point révélatrices de son attitude à l’égard de notre système fiscal qu’elles méritent d’être citées[4] :
+[63] Q. Okay. So your capital gain from the disposition of the house is $100,000?
+A. It should be, yes.
+[64] Q. Yes. Have you filed a tax return for the 2007…
+A. No, no, I did not.
+[65] Q. . . . taxation year ?
+A. Not yet, I don’t have the money.
+[13] Enfin, je note que le témoignage de l’appelant selon lequel le contrat de prêt intervenu entre lui et Samisa était verbal fut contredit par le témoignage crédible du notaire Ladouceur. En effet, je souligne que le notaire Ladouceur a témoigné que l’appelant lui avait affirmé qu’un contrat de prêt écrit était intervenu entre lui et Samisa.
+Dons du père
+[14] Je rappelle que l’appelant a soutenu que le ministre aurait dû tenir compte dans son calcul de l’avoir net des dons qu’il avait reçus de son père (qui serait âgé de 80 ans et qui vivait en Autriche) pendant les années en litige. La preuve de l’appelant à cet égard reposait sur son témoignage et sur deux documents déposés en preuve sous les cotes A‑9 et A‑20, documents qui (en supposant même qu’ils soient admissibles en preuve), à mon avis, ne démontrent nullement que monsieur Dominkovits (qui serait le père de l’appelant) avait déposé dans le compte conjoint des sommes totalisant 750 000 $ pendant les années en litige. Le témoignage de l’appelant à l’égard des prétendues donations pourrait se résumer ainsi : son père, un retraité (depuis environ 20 ans) qui avait fait fortune dans le domaine de la construction[5], avait déposé pendant les années en litige des sommes totalisant environ 750 000 $, sommes que l’appelant avait en partie utilisées pendant ces années pour payer les coûts de construction de sa résidence située dans la municipalité de Morin-Heights, au Québec. L’appelant a expliqué qu’il ne pouvait demander à son père de venir témoigner compte tenu de son âge et de son état de santé. Enfin, l’appelant a témoigné qu’il ne pouvait déposer en preuve des documents bancaires établissant que son père avait déposé de telles sommes dans le compte conjoint[6] puisque les documents des banques autrichiennes ne reflètent aucunement un tel renseignement. L’appelant a même ajouté que les banques autrichiennes ne fournissent même pas à leurs clients des relevés mensuels faisant état de toutes les transactions effectuées par leurs clients pendant un mois donné dans leurs comptes bancaires[7].
+[15] Je souligne immédiatement qu’il m’apparaît invraisemblable que les banques autrichiennes ne fournissent pas à leurs clients des relevés périodiques faisant état de leurs transactions effectuées (dépôts et retraits) dans leurs comptes. Le dépôt en preuve des relevés bancaires du père et des relevés bancaires du compte conjoint, étayé par le témoignage d’un représentant de ces institutions bancaires, aurait pu établir la vraisemblance des dépôts par le père dans le compte conjoint. L’appelant aurait aussi pu fournir une preuve adéquate établissant l’état du patrimoine de son père (en supposant même que monsieur Dominkovits soit le père de l’appelant qui, je le souligne, porte un nom de famille bien différent de son père) et donc de la vraisemblance de la capacité financière de son père de faire des dons aussi astronomiques. L’appelant était en mesure de fournir une telle preuve. Il ne l’a pas fait. J’en déduis que cette preuve lui aurait été défavorable. Puisque j’ai décidé précédemment que je n’accorderai aucune valeur probante au témoignage de l’appelant sans preuve concordante ou probante sous forme de documentation fiable ou de témoignages crédibles, je dois conclure en l’espèce que monsieur Dominkovits n’avait pas fait à l’appelant des dons totalisant environ 750 000 $ pendant les années en litige.
+Prêts de Samisa
+[16] Je rappelle que l’appelant a soutenu que le ministre aurait dû tenir compte, dans son calcul de l’avoir net, de prêts qui lui auraient été consentis pendant les années en litige par Samisa. À cet égard, l’appelant a soutenu qu’il avait emprunté de Samisa :
+i) 109 009,25 euros, le 22 mars 2001;
+ii) 300 000 $, le 8 février 2002;
+iii) 100 000 $, le 13 mars 2002;
+iv) 273 250 euros, le 6 juin 2002.
+[17] Il ressort du témoignage de l’appelant à l’égard des prêts qui lui auraient été consentis par Samisa que :
+i) un de ses amis l’avait renvoyé à Samisa en 1998. Le témoignage de l’appelant au sujet des circonstances dans lesquelles il a été présenté à Samisa, au sujet de la nature de ses relations avec cette dernière et finalement au sujet de la nature des activités de Samisa mérite d’être cité :[8]
+[163] Q. Who were you dealing with when you were dealing with Samisa during those years?
+A. In this time, Mr. Hoops(?)
+[164] Q. How did you meet Mr. Hoops, Mister...
+A. Through a friend of mine, he introduced me to him in ‘98 or ‘99.
+[165] Q. In what circumstances, Mr. Sturzer?
+A. What?
+[166] Q. In what circumstances did you meet this friend who introduced you to such...
+A. I made... for this friend I made a consulting job at this time and he introduced me after to the people from Samisa.
+HIS HONOUR:
+[167] Q. So Mr. Hoops is the one who introduced you to...
+A. No, Mr. Zaunmaier(?), it was this name who has introduced me, it was Mr. Zaunmaier.
+[168] Q. He's a friend...
+A. A friend of mine. He introduced me to Mr. Hoops.
+Me SERGE FOURNIER:
+[169] Q. So in 1998 you were doing business with Mr. Zaunmaier?
+A. Zaunmaier, yes.
+[170] Q. Can you spell the name for us?
+A. I have to write it down. So it was Z-A-U-N-M-A-I-E-R.
+HIS HONOUR:
+[171] Q. So who's that person?
+A. He's a friend of mine, he introduced me to Samisa.
+Me SERGE FOURNIER:
+[172] Q. What kind of friend, Mr. Sturzer?
+A. A business partner, a business friend.
+[173] Q. Okay. And when was the first time you met Mr. Hoops?
+A. Mr. Hoops, in '98.
+[174] Q. And what were the activities of Samisa as they were described to you?
+A. The activities of Samisa were lending money while making investments in numerous businesses. The exact extent I don't know of it exactly.
+ii) il ne serait lié d’aucune manière avec Samisa. L’appelant a expliqué qu’il ne détenait aucun intérêt dans Samisa ni directement, ni indirectement;
+iii) Samisa lui avait consenti les prêts suivants :
+a) 109 009,25 euros, le 22 mars 2001;
+b) 300 000 $, le 8 février 2002;
+c) 100 000 $, le 13 mars 2002;
+d) 273 250 euros, le 6 juin 2002;
+e) 30 000 euros, le 7 octobre 2003;
+f) 145 000 $, le 7 janvier 2004;
+g) 20 000 euros, le 12 octobre 2004;
+h) 20 000 euros, le 18 novembre 2004;
+iv) le contrat de prêt (marge de crédit) conclu par lui et Samisa était verbal[9]. L’appelant a expliqué qu’en vertu de cette entente verbale, Samisa lui avait consenti une marge de crédit non garantie de 1 500 000 $ portant intérêt au taux annuel de 5 % (calculé annuellement) et dont le capital prêté et l’intérêt étaient remboursables lors de l’échéance. Il convient de souligner que le témoignage de l’appelant ne permet pas d’établir la date d’échéance du prêt qui aurait été conclu initialement par lui et Samisa. Il ressort toutefois du témoignage de l’appelant que les parties auraient convenu par la suite que le capital prêté et l’intérêt seraient remboursables lors de la vente de la résidence[10];
+v) en raison du prêt, Samisa avait transféré au bénéfice de l’appelant directement dans le compte bancaire de Construction Raymond & Fils inc. des sommes de 300 000 $ et de 100 000 $, le 8 février 2002 et le 13 mars 2002 respectivement, et ce, pour acquitter les coûts de construction de la résidence située en la municipalité de Morin‑Heights;
+vi) dès la fin de l’année 2002 et avec plus d’insistance à partir de 2004, Samisa lui avait demandé de consentir une hypothèque sur la résidence en garantie du remboursement de sa créance[11];
+vii) l’hypothèque réclamée par Samisa avait enfin été consentie le 7 juillet 2005, soit quelques jours avant l’établissement des nouvelles cotisations qui font l’objet du présent appel. L’appelant a expliqué que la signature de l’acte d’hypothèque quelques jours avant l’établissement des cotisations était une pure coïncidence. Il a expliqué que dès le début du mois de mai 2005, il avait demandé au notaire Yves Lamoureux de préparer l’acte d’hypothèque. Il convient de souligner que le notaire Lamoureux a confirmé cette allégation lors de son témoignage. Le notaire Lamoureux a aussi déclaré que Samisa et l’appelant avaient fait parvenir en mai 2005, à un autre notaire de son cabinet, une procuration pour procéder à la signature de l’acte d’hypothèque.
+[18] Il ressort aussi de la déclaration assermentée de monsieur Hans‑Joachim Mechnig, un représentant de Samisa[12], et des documents y annexés, que cette dernière avait consenti une marge de crédit de 1 500 000 $ à l’appelant et qu’elle avait déboursé en vertu de cette marge de crédit les sommes suivantes :
+2.- Samisa’s commercial activities include loans to clients, and in fact opened a line of credit of $1,500,000. for Mr. Walter Sturzer;
+3.- Samisa disbursed numerous sums, as follows:
+o March 22nd, 2001
+Euros 109 009,25
+o February 8th, 2002
+Cdn $300,000.
+o March 13th, 2002
+Cdn $100,000.
+o June 6th, 2002
+Euros 273 250,00
+o October 7th,2003
+Euros 30 000,00
+o October 7th, 2003
+Euros 30 000,00
+o January 7th, 2004
+Cdn 145,000.
+o October 12th, 2004
+Euros 20 000,00
+o November 18th, 2004
+Euros 20 000,00
+as it appears from the wire transfer statement annexed under as Exhibit S-1.
+[19] L’appelant ne m’a pas convaincu que les sommes ainsi déboursées en sa faveur par Samisa l’avaient été en vertu d’un véritable prêt. En effet, il m’apparaît tout à fait invraisemblable qu’une société de prêts, même étrangère, non liée à l’emprunteur puisse consentir en vertu d’une entente verbale un prêt non garanti de 1 500 000 $ (portant intérêt au taux annuel de 5 % calculé annuellement et dont le capital prêté et l’intérêt sont remboursables lors de la vente éventuelle d’une résidence en construction) à quelque tiers que ce soit qui aurait le même profil que celui de l’appelant au moment où Samisa lui aurait consenti ce prêt de 1 500 000 $. Je rappelle qu’au moment de l’octroi du prétendu prêt, l’appelant était un nouveau client de Samisa qui se relevait à peine d’une faillite et qui avait peu de revenus. À mon avis, il est plus probable qu’improbable que les sommes ainsi déboursées au bénéfice de l’appelant par Samisa ne l’avaient pas été en vertu d’un véritable prêt. Je suis aussi d’avis qu’il est plus probable qu’improbable que la signature de l’acte d’hypothèque quelques jours avant l’établissement des cotisations faisant l’objet du présent appel n’était pas une coïncidence. Il est plus probable qu’improbable que l’appelant a été informé au début du mois de mai 2005, par les personnes que madame Danielle Langlois (vérificatrice de l’Agence des douanes et du revenu du Canada) avait rencontrées au début de ce mois, qu’une enquête était en cours à son égard. L’appelant a prétendu que Samisa avait exigé dès la fin de 2002 qu’une telle hypothèque lui soit consentie. Je n’en crois pas un mot. Comment Samisa pouvait-elle exiger de l’appelant dès la fin de 2002 qu’une telle hypothèque lui soit consentie pour protéger sa créance tout en continuant à débourser des sommes importantes en vertu de cette prétendue marge de crédit qu’elle aurait consentie à l’appelant? Cette hypothèque n’est, à mon avis, qu’un trompe-l’œil visant à masquer la vérité. Je souligne qu’il aurait été fort intéressant d’entendre le témoignage d’un représentant de Samisa sur toutes les circonstances entourant ce prétendu prêt. J’en conclus que le ministre était en droit de ne pas tenir compte dans son calcul de l’avoir net des sommes qui avait été déboursées par Samisa au bénéfice de l’appelant.
+Emprunt de Raiffeisen Bank
+[20] Je rappelle que l’appelant a soutenu que le ministre aurait dû tenir compte dans son calcul de l’avoir net des prêts qui lui auraient été consentis par la Raiffeisen Bank. À cet égard, l’appelant a soutenu qu’il était endetté envers cette banque d’une somme de 424 728 $ au 31 décembre 2001 et d’une somme de 434 390 $ au 31 décembre 2002. La preuve de l’appelant à cet égard reposait essentiellement sur son témoignage et sur les documents de cette banque déposés en preuve sous les cotes A-10, A-11, A-16 et A-17, dont le dépôt a fait l’objet d’une opposition de la part de l’avocat de l’intimée. Le document déposé sous la cote A‑10 est une lettre adressée par la Raiffeisen Bank le 8 septembre 2006 au procureur de l’appelant, lettre qui indique que l’appelant était endetté au 31 décembre 2001 envers cette dernière d’une somme de 151 838,35 $ et d’une somme de 147 833,83 euros. Le document déposé en preuve sous la cote A-16 est un relevé informatique de la Raiffeisen Bank indiquant que le compte 502-02664803 de l’appelant avait un solde débiteur au 31 décembre 2001 et que le compte 1‑02614.827 de l’appelant avait un solde débiteur à la même date de 147 583 euros. La même lettre déposée en preuve sous la cote A‑10 indique aussi que l’appelant était endetté au 31 décembre 2002 d’une somme de 220 000 euros envers la Raiffeisen Bank. Le document déposé en preuve sous la cote A‑11 est un relevé informatique de cette même banque indiquant que le compte 1‑02614.802 de l’appelant était, au 31 décembre 2002, débiteur d’une somme de 220 000 euros. L’appelant a aussi déposé en preuve sous la cote A‑11 un relevé informatique de la même banque indiquant que le compte 2 641 827 de l’appelant était débiteur au 31 décembre 2002 d’une somme de 43 267,21 euros. Je souligne immédiatement que la lettre adressée au procureur de l’appelant (qui est en quelque sorte un résumé des sommes dues par l’appelant à cette banque au 31 décembre 2001 et au 31 décembre 2002) ne fait pas état de ce passif de 43 267,21 euros au 31 décembre 2002. On peut en conclure que la preuve documentaire soumise par l’appelant, en supposant même qu’elle soit admissible, n’est pas fiable. Puisque j’ai décidé précédemment que je n’accorderai aucune valeur probante au témoignage de l’appelant sans preuve concordante ou probante sous forme de documentation fiable ou de témoignages crédibles et puisque cette preuve documentaire soumise par l’appelant ne m’apparaît pas fiable, je dois conclure, en l’espèce, que le ministre n’avait pas à tenir compte dans son calcul de l’avoir net de ce prétendu prêt qui lui aurait été consenti par la Raiffeisen Bank.
+[21] Il convient maintenant de répondre à la question suivante : le ministre s’est-il acquitté du fardeau qui repose sur lui en vertu du sous-alinéa 152(4)a)(i) et du paragraphe 163(2) avant, dans un premier temps, d’établir de nouvelles cotisations après la période légale et, dans un second temps, d’imposer une pénalité au contribuable? Puisque je suis persuadé que l’appelant a touché un revenu qu’il n’a pas déclaré et que l’explication offerte par celui-ci pour l’écart constaté et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de la preuve qui repose sur lui aux termes du sous-alinéa 152(4)a)(i) et du paragraphe 163(2).
+[22] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Paul Bédard »
+Juge Bédard
+ANNEXE A
+BILAN PERSONNEL
+AU 31 DÉCEMBRE
+ACTIF
+1999
+2000
+2001
+2002
+Institutions financières (voir Annexe I)
+13 507 $
+7 167 $
+26 415 $
+2 062 $
+Immobilisations (voir Annexe II)
+40 000 $
+234 990 $
+1 213 743 $
+1 688 683 $
+Meubles / Mobilier (voir Annexe III)
+1 $
+1 $
+1 $
+1 $
+Placements (voir Annexe IV)
+‑
+5 000 $
+5 000 $
+5000 $
+TOTAL DE L’ACTIF
+53 508 $
+247 158 $
+1 245 159 $
+1 695 746 $
+PASSIF
+TOTAL DU PASSIF
+0 $
+0 $
+0 $
+0 $
+AVOIR NET
+53 508 $
+247 158 $
+1 245 159 $
+1 695 746 $
+Tableau I
+CALCUL DE L’ÉCART PAR AVOIR NET
+1999
+2000
+2001
+2002
+Avoir net de la fin (Tableau I)
+53 508 $
+247 158 $
+1 245 159 $
+1 695 746 $
+Avoir net du début (Tableau I)
+53 508 $
+247 158 $
+1 245 159 $
+Augmentation (diminution) de l’avoir net
+193 650 $
+998 001 $
+450 587 $
+Rajustements (additions) :
+Dépenses personnelles et retraits inexpliqués (voir Annexe V)
+60 410 $
+165 015 $
+248 341 $
+Acomptes provisionnels Impôt fédéral payé
+11 055 $
+10 153 $
+3 044 $
+Total des additions
+71 465 $
+175 168 $
+251 385 $
+Rajustements (déductions) :
+Gain sur disposition des terrains
+‑
+‑
+27 500 $
+Remboursement d’impôt Fédéral (selon N.5)
+‑
+‑
+2 823 $
+Total des déductions
+0 $
+0 $
+30 323 $
+Rajustements nets
+71 465 $
+175 168 $
+221 062 $
+Revenu total par avoir net
+265 115 $
+1 173 169 $
+671 649 $
+Moins : Revenu total déclaré par Walter Sturzer
+52 000 $
+41 000 $
+45 000 $
+Écart par avoir net
+213 115 $
+1 132 169 $
+626 649 $
+Tableau II
+INSTITUTION FINANCIÈRE
+AU 31 DÉCEMBRE
+1999
+2000
+2001
+2002
+Nom de l’institution financière
+# compte
+Caisse Desjardins de la Vallée de St-Sauveur
+#23740
+13 507 $
+7 167 $
+26 415 $
+2 062 $
+Total du compte de l’institution financière
+13 507 $
+7 167 $
+26 415 $
+2 062 $
+Annexe I
+IMMOBILISATIONS
+AU 31 DÉCEMBRE
+1999
+2000
+2001
+2002
+Description
+Bâtisse – 17 St-Andrews, Morin Heights
+‑
+39 990 $
+1 018 743 $
+1 538 683 $
+Terrain – 17 St-Andrews, Morin Heights
+18 sept. 2000
+‑
+150 000 $
+150 000 $
+150 000 $
+Terrain – lot 259 partie 2
+10 nov. 1999
+40 000 $
+40 000 $
+40 000 $
+‑
+Terrain – Partie 334
+2 mar. 2000
+‑
+5 000 $
+5 000 $
+‑
+Terrain – Lot 334 partie 208
+2 mar. 2000
+‑
+‑
+‑
+‑
+Total des immobilisations
+40 000 $
+234 990 $
+1 213 743 $
+1 688 683 $
+Annexe II
+MEUBLES / MOBILIER
+AU 31 DÉCEMBRE
+1999
+2000
+2001
+2002
+Meubles
+1 $
+1 $
+1 $
+1 $
+Total des meubles / mobilier
+1 $
+1 $
+1 $
+1 $
+Annexe III
+PLACEMENT
+AU 31 DÉCEMBRE
+1999
+2000
+2001
+2002
+Date d’acquisition
+Caisse Desjardins St-Sauveur #23740-ET
+14 avril 2000
+‑
+5 000 $
+5 000 $
+5 000 $
+Total du placement
+‑
+5 000 $
+5 000 $
+5 000 $
+Annexe IV
+DÉPENSES PERSONNELLES ET RETRAITS INEXPLIQUÉS
+AU 31 DÉCEMBRE
+2000
+2001
+2002
+Dépenses personnelles et retraits inexpliqués :
+Achats
+21 363 $
+9 973 $
+23 565 $
+Frais d’administration
+91 $
+75 $
+704 $
+Chèques
+44 628 $
+124 328
+131 984 $
+Retraits par guichet
+5 383 $
+61 979 $
+126 009 $
+Paiement pré-autorisé
+‑
+52 $
+280 $
+Frais pour effet sans provision
+‑
+10 $
+‑
+Virements
+‑
+6 200 $
+18 800 $
+Frais de service
+‑
+‑
+43 $
+Paiements reliés à la construction de la résidence
+‑
+(28 823 $)
+(50 000 $)
+Paiements impôt fédéral
+(2 496 $)
+(2 329 $)
+(1 956 $)
+(3 000 $)
+(1 374 $)
+(544 $)
+(63 $)
+(2 538 $)
+(544 $)
+(2 748 $)
+(2 538 $)
+‑
+(2 748 $)
+‑
+‑
+Total des dépenses personnelles et retraits inexpliqués
+60 410 $
+165 015 $
+248 341 $
+Annexe V
+RÉFÉRENCE : 2009 CCI 1
+Nº DU DOSSIER DE LA COUR : 2006-3362(IT)G
+INTITULÉ DE LA CAUSE : WALTER STURZER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 12 mai 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 8 janvier 2009
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Benoît Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Serge Fournier
+BCF s.e.n.c.r.l.
+Cabinet : Montréal, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Compte bancaire auprès de la Raiffeisen Bank dont le numéro était 2 641 827.
+[2] Voir les notes sténographiques aux pages 91, 92, 93 et 114 à 150.
+[3] Voir les notes sténographiques à la page 22.
+[4] Voir les notes sténographiques du 13 mai 2008 aux paragraphes 63, 64 et 65.
+[5] Voir les notes sténographiques, paragraphes 6 à 9.
+[6] Voir les notes sténographiques, paragraphes 709 à 711.
+[7] Voir les notes sténographiques, paragraphe 695.
+[8] Voir les notes sténographiques du 12 mai 2008, paragraphes 163 à 174.
+[9] Voir les notes sténographiques, paragraphe 1284.
+[10] Voir les notes sténographiques, paragraphes 1405 à 1417.
+[11] Voir les notes sténographiques, paragraphes 1291 à 1293.
+[12] Voir la pièce I-22.

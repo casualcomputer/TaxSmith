@@ -1,0 +1,138 @@
+---
+title: "Pham c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29210/index.do"
+last_modified: "2009-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 235"
+citation2: ""
+neutral_citation: "2009 CCI 235"
+decision_date: "2009-04-28"
+language: "fr"
+item_id: "29210"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6706
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:56:14.544000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "53adf07f45048e7b8d8f7457304ae63ed72cd2365c0862b4d712fe3356686c3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pham c. M.R.N.
+
+- Citation: 2009 CCI 235
+- Decision date: 2009-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6706, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pham c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-28
+Référence neutre
+2009 CCI 235
+Numéro de dossier
+2008-2264(EI)APP
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-2264(EI)APP
+ENTRE :
+THUY PHAM,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 10 février 2009, à Edmonton (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour la requérante :
+La requérante elle‑même
+Avocate de l’intimé :
+Me Cynthia Isenor
+____________________________________________________________________
+ORDONNANCE
+VU la demande de prolongation du délai pour interjeter appel présentée par la requérante en application du paragraphe 103(1) de la Loi sur l’assurance‑emploi;
+ET VU les observations des parties;
+La Cour ordonne que la lettre reçue par la Division des appels du Bureau des services fiscaux d’Edmonton le 31 octobre 2007 soit réputée être un avis d’appel valide déposé le 31 octobre 2007.
+La Cour ordonne également que la lettre datée du 10 juillet 2008 déposée par Mme Pham soit traitée comme une modification à la lettre reçue le 31 octobre 2007 et donc comme un avis d’appel modifié. L’intimé a 60 jours, à compter de la date de la présente ordonnance, pour déposer une réponse à l’avis d’appel.
+Signé à Ottawa, Canada, ce 28e jour d’avril 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 235
+Date : 20090428
+Dossier : 2008-2264(EI)APP
+ENTRE :
+THUY PHAM,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+[1] Il s’agit des motifs de l’ordonnance que j’ai rendue dans le cadre de l’affaire intitulée Thuy Pham c. Le ministre du Revenu national.
+[2] Dans une lettre datée du 3 août 2007, le ministre du Revenu national (le « ministre ») a avisé la requérante, Mme Pham, qu’il avait conclu qu’elle n’occupait pas un emploi assurable dans le cadre de son emploi chez 115006 Alberta Ltd. pendant la période allant du 2 juillet 2004 au 31 mars 2005.
+[3] Mme Pham a envoyé à la Division des appels du Bureau des services fiscaux d’Edmonton (le « Bureau des services fiscaux ») une lettre, reçue le 31 octobre 2007, dans laquelle elle disait qu’elle voulait appeler de la décision du ministre. Dans des lettres datées du 2 novembre 2007 et du 19 novembre 2007, le ministre a avisé Mme Pham qu’elle devait déposer son avis d’appel directement auprès de la Cour canadienne de l’impôt (la « Cour »).
+[4] Le 17 juillet 2008, Mme Pham a déposé une demande de prolongation du délai pour interjeter appel devant la Cour.
+[5] Les questions à trancher sont les suivantes :
+1) La lettre que Mme Pham a déposée auprès du Bureau des services fiscaux peut‑elle être traitée comme un appel interjeté auprès de la Cour?
+2) Dans la négative, la demande déposée auprès du greffe de la Cour le 17 juillet 2008 a‑t‑elle été déposée dans le délai prévu au paragraphe 103(1) de la Loi sur l’assurance‑emploi (ci‑après la « LAE »)?
+[6] Le paragraphe 103(1) de la LAE prévoit qu’un appel doit être interjeté devant la Cour dans les 90 jours suivant la décision du ministre ou, avec la permission de la Cour, dans les 90 jours suivant l’expiration de la première période de 90 jours. Il a été établi dans la jurisprudence que la Cour ne peut pas instruire une demande de prolongation du délai pour interjeter appel après cette période de 180 jours (le total des deux périodes de 90 jours). Cela étant dit, si la lettre que Mme Pham a déposée auprès de l’Agence du revenu du Canada peut être traitée comme un avis d’appel déposé devant la Cour, il pourra être considéré que la lettre a été déposée dans les premiers 90 jours.
+[7] Le paragraphe 5(4) des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance‑emploi (les « Règles de la Cour à l’égard de la LAE ») prévoit comment un appel en matière d’assurance‑emploi doit être interjeté devant la Cour. Le paragraphe 27(3) des mêmes règles prévoit que la Cour peut, en tout temps, dispenser de l’observation de toute règle si l’intérêt de la justice l’exige.
+[8] Je crois qu’il serait dans l’intérêt de la justice de traiter la lettre que le Bureau des services fiscaux a reçue le 31 octobre 2007 comme un avis d’appel déposé devant la Cour.
+[9] Mme Pham a témoigné lors de l’audition de la demande de prolongation du délai. Elle ne comprend pas très bien l’anglais et a aussi de la difficulté à le parler. Je suppose qu’elle a aussi beaucoup de difficulté à lire en anglais. Elle a indiqué dans son témoignage qu’un proche parent dans son pays d’origine était tombé malade vers la période où elle avait envoyé la lettre au Bureau des services fiscaux. Elle affirme qu’elle avait éprouvé beaucoup d’anxiété et de désespoir et souffert de dépression. L’état d’esprit dans lequel elle se trouvait l’avait empêché d’avoir les idées claires pendant cette période. Elle était sans emploi à ce moment‑là, ce qui avait sûrement contribué à augmenter son niveau de stress. Elle a témoigné qu’elle était retournée dans son pays d’origine plus tard cette année‑là et que le proche parent était décédé par la suite. Je n’ai aucune raison de mettre en doute le témoignage de Mme Pham à cet égard.
+[10] Je ne crois pas que le ministre subirait un préjudice si j’assouplissais l’application des règles concernant la forme qu’un avis d’appel doit prendre et l’endroit où il doit être déposé. D’une part, Mme Pham avait avisé le ministre qu’elle avait l’intention de déposer un appel dans la lettre reçue le 31 octobre 2007. D’autre part, Mme Pham subirait un préjudice indu si je décidais que son appel n’était pas valide. Mme Pham perdrait son droit d’être entendue sur sa question de fond en raison de la maladie d’un proche parent, de son incapacité de bien comprendre l’anglais, de son manque de compréhension des règles relatives à la forme que doit prendre un avis d’appel et, finalement, du stress attribuable à la perte de son emploi au salaire minimum. Pour tous ces motifs, je suis d’avis qu’il s’agit d’un cas dans lequel il convient d’exercer le pouvoir discrétionnaire conféré par le paragraphe 27(3) des Règles de la Cour à l’égard de la LAE. Par conséquent, comme j’ai décidé de traiter la lettre du 31 octobre comme un appel valide interjeté devant la Cour en vertu du pouvoir discrétionnaire qui m’a été conféré par les Règles de la Cour à l’égard de la LAE, il n’est pas nécessaire que Mme Pham présente à la Cour une demande de prolongation du délai pour déposer son avis d’appel. Ma décision est aussi conforme à l’exigence selon laquelle un appel doit être déposé dans les 90 jours suivant la décision du ministre, faute de quoi une demande de prolongation doit être déposée dans les 90 jours suivant l’expiration de la première période de 90 jours. La LAE prévoit qu’un avis d’appel doit être déposé devant la Cour. Elle ne comprend pas de disposition concernant la forme que doit prendre l’avis d’appel ni, d’ailleurs, l’endroit où celui‑ci doit être déposé. Les Règles de la Cour à l’égard de la LAE comprennent des dispositions à l’égard de ces deux éléments. Elles me permettent également de modifier la façon dont ces règles sont respectées, lorsque c’est dans l’intérêt de la justice. L’affaire sera inscrite au rôle pour audition et je l’instruirai lors de ma prochaine séance à Edmonton. Le greffe avisera les parties à l’avance de la date d’audience.
+Signé à Ottawa, Canada, ce 28e jour d’avril 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 235
+NO DU DOSSIER DE LA COUR : 2008-2264(EI)APP
+INTITULÉ : THUY PHAM c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 10 février 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE : Le 28 avril 2009
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle-même
+Avocate de l’intimé :
+Me Cynthia Isenor
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

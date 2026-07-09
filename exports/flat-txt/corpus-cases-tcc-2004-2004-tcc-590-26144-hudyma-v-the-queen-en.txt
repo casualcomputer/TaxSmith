@@ -1,0 +1,70 @@
+Title: Hudyma v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26144/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-590-26144-hudyma-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-09-02
+
+# Hudyma v. The Queen
+
+- Citation: 2004 TCC 590
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4139, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudyma v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-02
+Neutral citation
+2004 TCC 590
+File numbers
+2004-503(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC590
+Date: 20040902
+Docket: 2004-503(IT)I
+BETWEEN:
+ERVIN W. HUDYMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Regina, Saskatchewan, on July 15, 2004)
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan, on July 14, 2004. The Appellant testified and called his son, Blair, to testify. The Respondent's counsel called Christine Adams, Appeals Officer on the file.
+[2] At the opening of the hearing, the Appellant abandoned all of his appeal except whether he was entitled to deductions respecting the following amounts allegedly paid to Blair under a contract for services:
+1999
+$4,279
+2000
+$4,090.11
+[3] The contract between Ervin's trade named business and Blair was filed as Exhibit A-1 and is dated July 23, 1999. It was drawn by the Appellant. The fourth paragraph of it states:
+Wages and equivalents are to be reflected in the annual Income Tax process by both parties.
+The evidence is that, on the advice of the accounting firm AGH Accounting, Blair filed no income tax return for 1999 and in 2000 Blair reported T-4 income from Ruckers of approximately $1,000, but he did not report any income from the Appellant. Thus, on their own contract, Blair did not receive income from the Appellant in 1999 or 2000.
+[4] On the face of Exhibit A-1 Blair did not report or "reflect" his alleged income in his "Income Tax process" in either year. Moreover the accounting firm was the Appellant's accountant and from the totality of the testimony, it is clear that Blair's income tax records were done by AGH with the Appellant's approval.
+[5] The Appellant also retained his son Andrew and paid Andrew by cheque as work was done.
+[6] That never happened with Blair. Some of Blair's alleged payments occurred by goods purchased by the Appellant for Blair in early 1999, long before the work or contract occurred. The remaining alleged payments were for goods the Appellant purchased later in 1999 and in 2000. Other amounts were allegedly paid in cash, allowance-like, payments made throughout each year, totalling about $2,000 per week, although they were not paid regularly or in equal amounts, and these sums are estimates and not the exact payments made.
+[7] The evidence is that neither the Appellant nor Blair kept a running record of the alleged hours Blair worked or the accumulative amounts of pay owed to Blair, or that any amounts alleged due to Blair were paid to him by cheque. The Appellant specifically stated that his 2000 year income tax return claim for wages paid to his sons Andrew and Blair was a guess given by him over the phone to his accounting firm just before his income tax return was prepared after the calendar 2000. The accountant allegedly told him that they would justify it or file an amended return later. The accountant is also alleged to have said that Blair need not report his income from his father.
+[8] At the audit and appeal the Appellant gave varying numbers and records from those originally reported or not reported which differed from the evidence given in Court and which had discrepancies between the alleged hours, hourly rate totals and the alleged amounts paid.
+[9] Mr. Hudyma stated a number of times that a family business is to be treated differently than an ordinary business. That is not so for accounting or for tax purposes. Indeed it is established law that business transactions between related persons must have their "i's" dotted and their "t's" crossed as carefully or more carefully than those between strangers for tax purposes.
+[10] In this case:
+1. Blair was allegedly paid more than the contract's hourly rate and more than the rate the Appellant paid to strangers for roughly similar work.
+2. Blair, who was 16 in 1999 and 17 in 2000 was allegedly paid far more than the minimum wage for his alleged work. In 1999 his rate was over three-times the minimum wage. No satisfactory justification was given for this discrepancy.
+3. Blair and the Appellant did not retain or submit a record of exact hours worked, or exact amounts of pay for those hours or log books or even such running signed records as would be kept by owners and workers in ordinary arm's length business relationships where pay was to occur over time.
+4. The Appellant's own statement varied respecting amounts over the period of the audit. This fact injured his credibility respecting this case.
+5. No cheques were paid to Blair for any of the amounts in dispute.
+[11] The Appellant has failed to rebut the assumptions in this case.
+[12] The appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 2nd day of September, 2004.
+"D.W. Beaubier"
+Beaubier, J.

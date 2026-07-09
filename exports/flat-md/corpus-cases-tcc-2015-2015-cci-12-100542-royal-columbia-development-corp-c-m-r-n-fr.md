@@ -1,0 +1,203 @@
+---
+title: "Royal Columbia Development Corp. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100542/index.do"
+last_modified: "2015-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 12"
+citation2: ""
+neutral_citation: "2015 CCI 12"
+decision_date: "2015-01-16"
+language: "fr"
+item_id: "100542"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2795
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:44:19.251000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e7d611ae26f2024fa392bd3ba81f0ce07dc1ff55f57a332d7ca94ae6f2ba3d1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Royal Columbia Development Corp. c. M.R.N.
+
+- Citation: 2015 CCI 12
+- Decision date: 2015-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2795, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Royal Columbia Development Corp. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-16
+Référence neutre
+2015 CCI 12
+Numéro de dossier
+2013-3312(CPP), 2013-3313(EI)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2013-3312(CPP)
+ENTRE :
+ROYAL COLUMBIA DEVELOPMENT CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KEVIN KRAUS,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Royal Columbia Development Corp. 2013-3313(EI) le 18 mars 2014 et le 6 novembre 2014, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocate de l’appelante :
+Me Dimitra Bizos
+Avocate de l’intimé :
+Me Holly Popenia
+Avocate de l’intervenant :
+Me Erin Pritchard
+JUGEMENT
+ATTENDU QUE, au début de l’audience, l’avocate de l’intimé a comparu et a fait savoir que le ministre se prononçait en faveur de l’appelante en tenant pour acquis que l’intervenant, Kevin Kraus, n’exerçait pas un emploi assurable au cours de la période décrite ci-dessous;
+ATTENDU QUE l’intervenant a fait savoir qu’il n’était pas d’accord avec l’intimé;
+ET ATTENDU QUE l’affaire a été instruite compte tenu du fait que les parties à l’appel ne s’entendaient pas toutes;
+PAR CONSÉQUENT, LA COUR STATUE QUE l’intervenant, Kevin Kraus, n’exerçait pas un emploi assurable auprès de l’appelante pendant la période allant du 5 octobre 2011 au 31 décembre 2011 ainsi que du 1er janvier 2012 au 31 décembre 2012. La détermination sera renvoyée au ministre pour qu’il rende une décision conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour de mai 2015.
+Marie-Christine Gervais, traductrice
+Dossier : 2013-3313(EI)
+ENTRE:
+ROYAL COLUMBIA DEVELOPMENT CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KEVIN KRAUS,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Royal Columbia Development Corp. 2013-3312(CPP) le 18 mars 2014 et le 6 novembre 2014, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocate de l’appelante :
+Me Dimitra Bizos
+Avocate de l’intimé :
+Me Holly Popenia
+Avocate de l’intervenant :
+Me Erin Pritchard
+JUGEMENT
+ATTENDU QUE, au début de l’audience, l’avocate de l’intimé a comparu et a fait savoir que ministre se prononçait en faveur de l’appelante en tenant pour acquis que l’intervenant, Kevin Kraus, n’exerçait pas un emploi assurable au cours de la période décrite ci-dessous;
+ATTENDU QUE l’intervenant a fait savoir qu’il n’était pas d’accord avec l’intimé;
+ET ATTENDU QUE l’affaire a été instruite compte tenu du fait que les parties à l’appel ne s’entendaient pas toutes;
+PAR CONSÉQUENT, LA COUR STATUE QUE l’intervenant, Kevin Kraus, n’exerçait pas un emploi assurable auprès de l’appelante pendant la période allant du 5 octobre 2011 au 31 décembre 2011 ainsi que du 1er janvier 2012 au 31 décembre 2012. La détermination sera renvoyée au ministre pour qu’il rende une décision conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour de mai 2015.
+Marie-Christine Gervais, traductrice
+Référence : 2015 CCI 12
+Date : 20150116
+Dossiers : 2013-3312(CPP)
+2013-3313(EI)
+ENTRE :
+ROYAL COLUMBIA DEVELOPMENT CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KEVIN KRAUS,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction [1] Les circonstances du litige entre les parties sont bien connues et ont souvent été soumises à la Cour; les positions adoptées par les parties devant la Cour sont plus inhabituelles. Une détermination initiale a été faite par le ministre du Revenu national, dans laquelle il a été déterminé que M. Kraus, l’intervenant, et l’appelante, Royal Columbia Development Corp. (« Royal Columbia ») étaient parties à un contrat d’entreprise selon lequel M. Kraus était entrepreneur indépendant. En réponse, M. Kraus a fourni des renseignements au ministre pour l’aider dans son enquête. Cela a amené le ministre à changer d’avis et à considérer qu’il y avait un contrat de louage de services ou une relation employeur-employé.
+[2] En réponse, Royal Columbia a porté l’affaire en appel devant la Cour. Juste avant la date d’audience initialement fixée, le ministre a convenu avec l’appelante, encore une fois, qu’il s’agissait d’une relation contractuelle ou d’une relation avec un entrepreneur indépendant. Le ministre a donc cessé de participer à l’audience devant la Cour. L’avocate de l’intimé a plutôt simplement avisé la Cour que le ministre était d’accord avec l’appelante. M. Kraus, quant à lui, continue de contester le fait qu’il y avait un contrat d’entreprise et prétend plutôt qu’il existait un contrat de louage de services ou une relation employeur-employé.
+II. Le critère juridique général [3] Le critère juridique à appliquer pour trancher la question de savoir s’il existe un contrat d’entreprise ou un contrat de louage de services n’est pas contesté. Bien que les parties puissent accorder une importance différente aux faits, le processus permettant de trancher la question centrale ne change pas : il faut savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte (Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, (« Wiebe Door »)), comme l’a approuvé la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59.
+[4] Le processus en deux étapes permettant de rendre une décision est le suivant : tout d’abord, il faut évaluer l’intention subjective des parties établie ou reflétée par écrit ou par le comportement des parties au départ, ensuite, il faut analyser les faits relatifs au comportement des parties afin d’établir s’ils étayent ou non l’intention subjective (TBT Personnel Services Inc c. Canada, 2011 CAF 256; 1392644 Ontario Inc. (Connor Homes) c. Canada (Ministre du Revenu national), 2013 CAF 85). Lorsqu’elle compare la réalité objective avec l’intention subjective, la Cour doit tenir compte des facteurs de l’arrêt Wiebe Door : le contrôle, la propriété des instruments de travail, la capacité d’avoir recours à des sous‑traitants, la possibilité de profit et le risque de perte. Après avoir examiné tous ces facteurs, la Cour doit décider si, selon la prépondérance des probabilités, la personne travaille pour son propre compte.
+III. Les faits A. L’embauche initiale du travailleur [5] M. Gu était le principal actionnaire et l’âme dirigeante de Royal Columbia. M. Gu a témoigné qu’au départ, M. Kraus était au service de Hikea Homes, mais qu’après que celle‑ci eut connu des difficultés financières, il avait été embauché pour fournir ses services à Royal Columbia. M. Kraus possédait de l’expérience dans les domaines de la conception d’usine et des charpentes préfabriquées. C’est principalement M. Gu qui s’est occupé des entrevues et des négociations avec M. Kraus. M. Gu a déclaré que les parties voulaient que M. Kraus s’occupe de la conception, des opérations et de la technologie, alors que M. Gu s’occuperait du marketing pour la nouvelle entreprise. Avant que l’entreprise soit prête à être exploitée, il fallait tout d’abord construire et installer une usine de construction de fermes et de charpentes dotée d’une chaîne de production. M. Gu a affirmé que c’était dans ce contexte qu’il avait énoncé la relation d’affaires qu’il voulait avoir avec M. Kraus. M. Gu a également témoigné que M. Kraus devait recevoir une avance mensuelle de 4 000 $, qui est plus tard passée à 5 000 $, à la demande de M. Kraus. Les sommes devaient être versées suivant la présentation de factures par M. Kraus, sommes auxquelles s’ajoutait la taxe sur les produits et services. Ce processus a commencé en septembre 2011 et, en octobre ou en novembre 2011, les parties ont commencé à faire les achats et à installer l’usine, ainsi que, respectivement, à présenter et à payer les factures qui faisaient état du travail accompli par M. Kraus.
+[6] Dans son témoignage, M. Kraus a déclaré qu’il n’existait pas de contrat écrit, mais que les services qu’il fournissait ne constituaient qu’une simple continuation de son emploi précédent auprès de Hikea Homes. Les services qu’il fournissait et les modalités de versement des avances étaient très semblables à ceux des autres employés de l’appelante (dont l’épouse de M. Kraus). M. Kraus a affirmé catégoriquement qu’il n’y avait pas eu de discussion initiale au sujet d’une relation d’affaires et que toutes les discussions qui avaient eu lieu étaient inachevées et n’avaient pas mené à la prise de mesures précises de nature commerciale ou relatives à l’établissement d’une entreprise. En revanche, lorsqu’il a rempli un questionnaire pour l’Agence du revenu du Canada (l’« ARC »), M. Kraus a déclaré qu’au début, il pensait qu’il travaillait pour son propre compte et qu’il était en voie d’établir une société de personnes avec l’appelante. M. Kraus a aussi mentionné dans son questionnaire qu’il avait l’intention de détenir une participation de 15 % dans toute nouvelle entreprise. Une société à responsabilité limitée devait finalement être constituée, dans laquelle M. Kraus détiendrait une participation de 50 %, les autres 50 % devant appartenir à M. Gu.
+B. Au cours de la période de travail [7] Un peu comme l’opinion différente qu’ils avaient de leur relation au début, M. Gu et M. Kraus ont donné dans leur témoignage une description différente du travail pendant la période en cause. Dans le contexte de chacun des facteurs pertinents de l’arrêt Wiebe Door, les faits suivants ont été fournis par M. Gu ou M. Kraus :
+(1) Le contrôle [8] D’après une photographie de la disposition des postes de travail sur le plancher de l’usine, M. Kraus et M. Gu semblaient être très près l’un de l’autre par rapport aux autres employés. M. Kraus effectuait de longues heures de travail, et il faisait des heures supplémentaires de son propre gré. Il ne touchait aucune rémunération supplémentaire pour le nombre considérable d’heures qu’il effectuait relativement à sa semaine de travail plus longue que la normale. M. Kraus exerçait en partie les fonctions de superviseur du processus de production, et conservait et se réservait un certain pouvoir d’approbation discrétionnaire relativement à diverses étapes de production des procédés industriels dans le lieu d’exploitation de l’entreprise. M. Kraus participait ainsi indépendamment à des salons professionnels pour faire la promotion de l’entreprise. Il a fourni ses services de façon continue, sans interruption, au cours de la période pour laquelle il a présenté des factures. Suivant la présentation de factures par Art Technology (un nom commercial sous lequel M. Kraus fournissait ses services), Royal Columbia émettait des chèques à M. Kraus sur lesquels figurait la mention [traduction] « travail à forfait ». Une telle pratique est compatible avec la pratique suivie pour les autres chèques émis aux entrepreneurs tiers engagés aux termes d’un contrat d’entreprise par Royal Columbia en ce qui concerne la mention inscrite sur la ligne relative à l’objet.
+[9] Par ailleurs, le directeur des opérations avoué de Royal Columbia considérait manifestement que M. Kraus était sous la supervision générale du directeur des opérations lorsqu’il était à l’usine. Dans un organigramme préparé par le directeur des opérations, il est clairement prévu que le directeur des opérations supervisait M. Kraus. En revanche, un organigramme de production beaucoup plus général montre que, dans les faits, c’était M. Kraus qui prenait principalement les décisions dans le processus de travail et que son approbation était requise pour au moins deux étapes distinctes dans la marche du travail.
+(2) La propriété des instruments de travail [10] En ce qui concerne la propriété des instruments de travail, il ressort de la preuve que M. Kraus fournissait ses propres outils à main, mais que l’équipement lourd et les véhicules étaient fournis par Royal Columbia, de même que l’ordinateur dont M. Kraus avait besoin pour le travail de conception. En revanche, M. Kraus a déclaré qu’il fournissait à Royal Columbia certains instruments de travail qu’il possédait pour que Royal Columbia puisse exercer ses activités. Ces instruments de travail fournis par M. Kraus étaient utilisés par d’autres travailleurs de Royal Columbia.
+(3) La capacité d’avoir recours à ses sous-traitants [11] La question de la sous-traitance n’était pas en litige. Dans l’ensemble, il ressort de la preuve qu’aucune des parties ne s’est préoccupée de cette question.
+(4) La possibilité de profit [12] C’est en fonction de ce facteur clé que les faits relatifs à l’entreprise commerciale naissante doivent être analysés. Il ressort de la preuve que M. Kraus avait entrepris des recherches afin de trouver un nom pour l’entreprise envisagée. M. Kraus a témoigné qu’il avait voix au chapitre en ce qui concerne la construction de l’usine ainsi que l’embauche des employés pour la société devant être créée. Au cours des négociations commerciales, qui sont devenues plus dures vers la fin de la relation entre M. Gu et lui, M. Kraus a consigné par écrit qu’on aurait dû lui accorder une plus grande latitude pour qu’il puisse [traduction] « continuer à rapporter de l’argent pour M. Gu et lui ». Des éléments de preuve montrent que M. Kraus a reçu des propositions à son nom relativement à l’entreprise de fermes de Royal Columbia. Cela est également compatible avec le fait que des tiers présentaient parfois des factures à M. Kraus pour le compte de Royal Columbia. De même, bien que la preuve ne fût pas tout à fait claire, des cartes professionnelles ont été produites, du moins sous forme d’ébauche, et, sur ces cartes, M. Kraus était décrit comme un directeur de Royal Columbia. De plus, au cours de la période de travail, M. Kraus a préparé un projet de contrat de société de personnes, dans lequel des modalités d’affaires proposées étaient exposées. En outre, en contre‑interrogatoire, M. Kraus a affirmé qu’il s’attendait à toucher des bénéfices relativement à la nouvelle entreprise envisagée.
+(5) Le risque de perte [13] M. Kraus a admis en contre-interrogatoire, en fonction du questionnaire qu’il avait fourni au ministre, qu’il avait accepté une rémunération moindre en contrepartie d’une part des bénéfices de la nouvelle entreprise et qu’il avait ainsi exposé à un risque un salaire qui aurait été autrement plus élevé. Cela était conforme à l’admission de M. Kraus, selon laquelle un autre employé avait refusé de devenir un associé en affaires potentiel de M. Gu et avait touché un salaire plus élevé en conséquence.
+IV. Analyse A. L’intention subjective des parties [14] Le témoignage de M. Gu révèle clairement qu’au début, les parties voulaient établir une relation d’affaires qui mènerait à l’établissement d’une société de personnes dont M. Gu et M. Kraus seraient les associés. M. Kraus l’a admis à contrecœur lors du contre‑interrogatoire. Malgré le fait que, du point de vue de M. Kraus, il n’existât aucun contrat, M. Kraus a néanmoins mentionné dans le questionnaire de l’ARC qu’il a rempli que M. Gu et lui avaient tous les deux l’intention de réaliser des bénéfices dans le cadre de leur nouvelle relation d’affaires.
+B. La réalité objective dans le cadre du travail [15] Les parties voulaient peut‑être initialement conclure un contrat d’entreprise ou avoir une relation d’entrepreneur indépendant, mais une question subsiste : en quoi la réalité objective étaye-t-elle ou contredit-elle l’intention subjective? Pour ce qui est de la question du contrôle, il ressort de la preuve que M. Kraus était traité comme un employé par le directeur des opérations, qui croyait qu’il était nécessaire qu’il supervise lui‑même les services que M. Kraus fournissait à Royal Columbia ainsi que les tâches que celui‑ci exécutait. En revanche, M. Gu et M. Kraus travaillaient ensemble à l’établissement de la nouvelle usine de charpentes et de l’entreprise y afférente. Il ressort aussi de la preuve que M. Kraus pouvait négocier des contrats pour le compte de la jeune entreprise et commander diverses parties constituantes et de l’équipement pour la nouvelle usine. Le salaire de M. Kraus, la méthode de facturation, le fait que le salaire était facturé par son entreprise à lui et le fait qu’il ait obtenu une augmentation de salaire sur demande sont autant d’éléments qui reflètent le suivi des apports en capital à l’entreprise envisagée et des retraits de fonds de celle‑ci. Selon la prépondérance des probabilités et compte tenu du contexte factuel, cela donne à penser que, pendant la période de travail, M. Gu et M. Kraus se consacraient, sous les auspices de Royal Columbia, à la création d’une nouvelle entreprise, et non que M. Kraus fournissait ses services à Royal Columbia à titre d’employé.
+C. Les instruments de travail [16] Pour ce qui est des éléments de preuve relatifs aux instruments de travail, les gros outils et les ordinateurs étaient fournis par Royal Columbia. Par contre, M. Kraus fournissait certains instruments de travail à l’entreprise, que d’autres travailleurs pouvaient utiliser. Dans l’ensemble, ce facteur particulier de l’arrêt Wiebe Door semble être équivoque.
+D. La sous‑traitance [17] Bien que cette question n’ait pas vraiment été envisagée par les parties, il convient de souligner que M. Kraus a joué un rôle clé dans l’embauche de son épouse et d’autres personnes comme employés de Royal Columbia. Cela n’est généralement pas compatible avec une relation employeur‑employé, à moins qu’une personne soit principalement embauchée pour s’occuper des ressources humaines ou du personnel d’un employeur, ce qui n’était manifestement pas le cas pour M. Kraus.
+E. La possibilité de profit et le risque de perte [18] Ce facteur particulier permet de clarifier la question de savoir si M. Kraus était un employé ou un entrepreneur indépendant. De l’aveu de M. Kraus, les parties voulaient initialement établir une relation entre entités en vue d’établir et d’officialiser une relation d’affaires continue. Pendant la phase transitoire de construction, M. Kraus a admis qu’il devait recevoir 15 % des profits et qu’il avait accepté un compromis quant au montant de son salaire de base en prévision de ces profits ultérieurs. Une fois la construction des installations terminée, la relation d’affaires naissante serait arrêtée et une nouvelle entité, à savoir une société ou une société de personnes, serait établie, dont M. Gu et M. Kraus seraient propriétaires en parts égales. En outre, compte tenu du directeur des opérations et de sa relation avec M. Kraus, les documents ne permettent pas clairement de savoir qu’il a jamais été prévu que le directeur des opérations devienne propriétaire d’une partie de la nouvelle entreprise, que ce soit au début ou après l’établissement de l’entreprise, une fois la construction de l’usine de charpentes terminée. La façon dont le directeur des opérations a traité M. Kraus s’explique peut‑être par le fait qu’une relation provisoire devait exister au sein de Royal Columbia, parce que la nouvelle entreprise recevait des apports en capital et en nature de M. Gu, par l’intermédiaire de Royal Columbia. C’est dans ce contexte que l’on peut considérer les apports en capital quantifiables de M. Gu, d’un côté, et les apports quantifiables en main‑d’œuvre de M. Kraus, de l’autre.
+[19] Le dernier fait qui convainc la Cour, et qui fait ressortir l’existence d’un contrat d’entreprise, est que l’entente n’a finalement rien donné parce que M. Kraus n’a pas fait les apports en capital supplémentaires ou ne s’est pas engagé à les faire aux dernières étapes du lancement de l’entreprise. Au cours de cette période de lancement, M. Kraus tirait de l’entreprise potentielle une avance ou un salaire qui devait être comptabilisé au cours du rapprochement final des apports en capital et des pourcentages de profit. Cela concorde avec le souvenir qu’avait M. Gu de la nécessité de faire le suivi des factures et des apports. Cette pratique est aussi étayée par l’aveu même de M. Kraus, selon lequel une entreprise était prévue et les apports provisoires respectifs devaient être comptabilisés. M. Kraus a également admis qu’il fournissait des apports en nature équivalents à ceux de M. Gu, et peut‑être disproportionnés, en vue de l’établissement de l’entreprise, non seulement au début, mais aussi pendant la période de travail.
+[20] Pour résumer, en l’espèce, la réalité objective n’est pas un cas où les tâches d’un travailleur étaient dictées par des guides et exécutées sous la supervision de l’employeur, où les taux salariaux étaient fixés et les heures déterminées par Royal Columbia et où il n’y avait aucun risque financier subi par le travailleur particulier ni investissement exigé de sa part. Au contraire, la Cour conclut qu’au tout début, le travailleur et M. Gu, par l’intermédiaire de Royal Columbia, avaient l’intention subjective d’établir une relation sur un pied d’égalité (ou presque) en vue d’avoir, après une période transitoire, une relation d’affaires menant à la mise au point d’une structure commerciale officielle après la construction d’une usine de charpentes et d’une chaîne de production. Bien qu’il y ait certaines incohérences factuelles, dans l’ensemble, la preuve révèle que la relation juridique entre Royal Columbia et M. Kraus correspondait à celle qu’il y a entre un employeur et un entrepreneur indépendant plutôt qu’à celle qu’il y a entre un employeur et un employé. En fait, il est vrai que M. Kraus travaillait dans le cadre de la structure commerciale existante de Royal Columbia, mais il y travaillait, pour son propre compte, avec M. Gu dans une entreprise commerciale.
+[21] Pour les motifs qui précèdent, l’appel est accueilli et la décision initiale du ministre portée en appel est annulée compte tenu des faits dont la Cour est saisie.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2015.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour de mai 2015.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2015 CCI 12
+NOS DES DOSSIERS DE LA COUR :
+2013-3312(CPP)
+2013-3313(EI)
+INTITULÉ :
+ROYAL COLUMBIA DEVELOPMENT CORP c. M.R.N. ET KEVIN KRAUS
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 18 mars 2014 et 6 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 16 janvier 2015
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Dimitra Bizos
+Avocate de l’intimé :
+Me Holly Popenia
+Avocate de l’intervenant :
+Me Erin Pritchard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Dimitra Bizos
+Cabinet :
+Bizos & Company
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenant :
+Nom :
+Erin Pritchard
+Cabinet :
+BC Public Interest Advocacy Centre

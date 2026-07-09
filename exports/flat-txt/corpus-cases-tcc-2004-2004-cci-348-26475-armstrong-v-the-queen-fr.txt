@@ -1,0 +1,61 @@
+Title: Armstrong v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26475/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-348-26475-armstrong-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-26
+
+# Armstrong v. The Queen
+
+- Citation: 2004 CCI 348
+- Decision date: 2004-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3159, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Armstrong v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-26
+Référence neutre
+2004 CCI 348
+Numéro de dossier
+2003-640(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI348
+Date : 20040526
+Dossier : 2003-640(IT)I
+ENTRE :
+BYRON MOREY ARMSTRONG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus à l'audience à
+Nanaimo (Colombie-Britannique), le 24 mars 2004)
+[1] Par la présente requête, l'avocat de l'intimée souhaite obtenir le rejet des prétendus appels formés par l'appelant relativement à ses années d'imposition 1991 et 1993.
+[2] En ce qui concerne ces deux années :
+(1) le 20 février 2002, la Cour canadienne de l'impôt a prononcé un jugement sur consentement qui règle l'appel de l'appelant relatif à l'année 1991 visé par un avis d'appel daté du 12 mars 1996;
+(2) le 24 février 1997, la Cour canadienne de l'impôt a prononcé un jugement qui règle l'appel de l'appelant relatif à l'année 1993 visé par un avis d'appel daté du 14 mars 1996. La Cour d'appel fédérale a confirmé ce jugement le 28 février 1999.
+[3] En décembre 1997, l'appelant a produit une déclaration modifiée pour 1993; cette déclaration n'a fait l'objet d'aucune cotisation ou détermination.
+[4] La Cour estime que les tribunaux se sont déjà prononcés sur l'ensemble des deux années d'imposition en cause. À ces occasions, n'importe quelle modification valable aurait pu être demandée avant l'instruction. Une fois l'appel interjeté, celui-ci vise toute l'année d'imposition de l'appelant dont la Cour est saisie. L'appelant est donc responsable de son omission de soulever une question à ce stade. Que cette omission soit le fait de sa négligence ou qu'elle ait eu lieu par inadvertance n'influe en rien sur cette responsabilité. En d'autres mots, il existe et il doit exister une limite. Conformément à ce qui est prévu dans la Loi de l'impôt sur le revenu, cette limite correspond à l'instruction de l'affaire par la Cour canadienne de l'impôt ou à l'instruction de l'appel par la Cour d'appel fédérale.
+[5] En l'espèce :
+(1) en ce qui concerne l'année 1991, l'appel de l'appelant est prescrit suivant l'article 152 de la Loi de l'impôt sur le revenu;
+(2) en ce qui concerne l'année 1993, la Cour n'a plus compétence suivant le paragraphe 169(2).
+[6] Il ne fait aucun doute qu'à ce stade-ci, la Cour canadienne de l'impôt n'a pas compétence, selon la Loi de l'impôt sur le revenu, pour connaître d'un autre appel qui vise les années d'imposition 1991 et 1993 de l'appelant et qui intéresse un quelconque argument lié à la présente requête et aux prétendus appels.
+[7] Pour ces raisons, les prétendus avis d'appel relatifs à ces années sont annulés.
+Signé à Ottawa, Canada, ce 26e jour de mai 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.

@@ -1,0 +1,202 @@
+Title: Woods c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29619/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-48-29619-woods-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-01-27
+
+# Woods c. La Reine
+
+- Citation: 2010 CCI 48
+- Decision date: 2010-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6188, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woods c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-01-27
+Référence neutre
+2010 CCI 48
+Numéro de dossier
+2009-1534(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1534(IT)I
+ENTRE :
+ELIZABETH A. WOODS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 novembre 2009, à Ottawa, Canada.
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante a reçu en 2007 une pension alimentaire pour enfants de 7 200 $ aux termes de l’accord de séparation intervenu en 1994.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour d’avril 2010.
+S. Tasset, réviseure
+Référence : 2010CCI48
+Date : 20100127
+Dossier : 2009-1534(IT)I
+ENTRE :
+ELIZABETH A. WOODS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+Question en litige
+[1] Il s’agit en l’espèce de décider si l’accord de séparation intervenu en 1994 entre l’appelante et son ancien époux a été modifié après 1997, ce qui établirait une « date d’exécution » au sens du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi ») et soustrairait l’appelante à l’obligation d’inclure dans le calcul de son revenu pour 2007 le paiement de 9 036 $ qu’elle a reçu de son ancien époux pendant l’année.
+Contexte
+[2] L’appelante et M. Reckenberg se sont mariés en 1987 et ont eu deux enfants. Après l’échec de leur mariage, ils ont conclu, le 22 décembre 1994, un accord de séparation (l’« accord de séparation de 1994 ») selon lequel M. Reckenberg devait payer 600 $ par mois de pension alimentaire pour enfants. La clause 6 de l’accord de séparation de 1994 prévoyait que cette somme ferait annuellement l’objet d’un ajustement au coût de la vie, mais cette stipulation n’a jamais été appliquée. En juillet 2006, après un échange de lettres entre l’appelante et M. Reckenberg, ce dernier a commencé à verser des paiements de 753 $ par mois. Il a continué de faire ces paiements jusqu’en 2009.
+[3] La seule année d’imposition frappée d’appel est l’année 2007. Cette année‑là, l’appelante a reçu de M. Reckenberg une somme totale de 9 036 $ (753 $ par mois fois 12 mois), laquelle n’a jamais été déclarée comme revenu. Le ministre a établi une nouvelle cotisation afin d’inclure le paiement de 9 036 $ à titre de pension alimentaire pour enfants dans le calcul du revenu de l’appelante pour 2007, en application du paragraphe 56.1(1) de la Loi.
+Thèse de l’appelante
+[4] L’appelante fait valoir que la somme de 9 036 $ qu’elle a reçue de M. Reckenberg ne doit pas être incluse dans le calcul de son revenu pour 2007. Elle soutient en premier lieu que cette somme a été payée dans le cadre d’un nouvel accord qui modifiait la pension alimentaire pour enfants payable aux termes de l’accord de séparation de 1994. Selon l’appelante, l’accord de modification est constaté dans les lettres qu’elle et l’avocat de M. Reckenberg ont échangées en 2006. L’accord de modification a établi une « date d’exécution » au sens du sous‑alinéa b)(ii) de la définition donnée au paragraphe 56.1(4); en conséquence, les paiements de pension alimentaire pour enfants ne faisaient plus l’objet du régime d’inclusion et de déductibilité applicable avant 1997.
+[5] L’appelante affirme à titre subsidiaire que, même s’il n’y avait pas d’accord visant à modifier l’accord de séparation de 1994 et que celui‑ci avait toujours effet en 2007, on ne peut avancer que le paiement de 9 036 $ a été versé aux termes des clauses de ce document. L’accord de séparation de 1994 prévoyait des paiements de 600 $ par mois; or, en 2007, M. Reckenberg payait 753 $ par mois. Comme il ressort des lettres échangées en 2006, cette somme avait été fixée en appliquant les Lignes directrices fédérales sur les pensions alimentaires pour enfants au revenu de M. Reckenberg pour 2005. La somme de 9 036 $ constituait donc, au mieux, un paiement ponctuel non visé par la définition de l’expression « pension alimentaire » et c’est pourquoi l’appelante n’était pas tenue de l’inclure dans le calcul de son revenu pour 2007.
+Thèse de l’intimée
+[6] D’après le ministre, comme aucun accord écrit visant à modifier l’accord de séparation de 1994 n’a été conclu, celui‑ci avait toujours effet en 2007 et c’est à juste titre que le paiement de 9 036 $ que l’appelante a reçu de M. Reckenberg a été inclus dans son revenu.
+Faits
+[7] L’appelante s’est représentée elle‑même et elle a témoigné à l’audience. M. Reckenberg, qui n’était pas partie à l’instance, est le seul témoin que la Couronne a appelé à témoigner. Ils ont tous deux rendu des témoignages dignes de foi.
+[8] Les clauses 5 et 6 de l’accord de séparation de 1994 sont ainsi rédigées :
+[TRADUCTION]
+5. PENSION ALIMENTAIRE POUR ENFANTS
+a) À compter du 15 juillet 1994, et le quinzième jour de chaque mois par la suite, le mari doit payer à l’épouse la somme de TROIS CENTS DOLLARS (300,00 $) par mois, par enfant, (soit une somme totale de 600,00 $ par mois) à titre de pension alimentaire pour enfants.
+b) Ces paiements de pension alimentaire pour enfants continueront d’être versés jusqu’à ce que l’une des situations suivantes se produise :
+(i) l’enfant cesse d’habiter principalement chez l’épouse (l’enfant sera réputé « résider principalement chez l’épouse » lorsqu’il vit ailleurs qu’à la résidence de cette dernière pour suivre des cours dans un établissement d’enseignement, pour travailler pendant l’été ou pour prendre des vacances, mais qu’il réside par ailleurs chez l’épouse);
+(ii) l’enfant atteint l’âge de 18 ans et cesse de suivre des cours à temps plein dans un établissement d’enseignement;
+(iii) l’enfant atteint l’âge de 22 ans;
+(iv) l’enfant se marie;
+(v) l’épouse décède;
+(vi) le mari décède, à la condition que l’assurance vie que doit détenir le mari suivant le paragraphe 11 des présentes ait toujours effet;
+c) Les époux reconnaissent et conviennent que tous les paiements de pension alimentaire pour enfants versés par le mari dans le cadre du présent accord seront, pour le calcul du revenu aux fins de l’impôt, réputés déductibles par le mari ou imposables entre les mains de l’épouse. Ces paiements seront considérés comme payés et reçus conformément aux dispositions des paragraphes 56.1(3) et 60.1(3) de la Loi de l’impôt sur le revenu, y compris les paiements susmentionnés versés avant la date du présent accord.
+d) L’épouse reconnaît expressément avoir reçu la somme de 600,00 $ par mois à titre de pension alimentaire pour enfants pour les mois de juillet, d’août, de septembre, d’octobre, de novembre et de décembre 1994, soit une somme totale de 3 600,00 $.
+e) Les parties reconnaissent expressément que le montant de la pension alimentaire pour enfants fixé selon le présent accord se fonde sur l’hypothèse voulant que le mari puisse déduire les paiements de pension alimentaire pour enfants qu’il versera et que l’épouse soit tenue d’inclure ces paiements dans le calcul de son revenu imposable. Si la Cour suprême du Canada confirme la décision rendue dans l’arrêt Thibaudau c. M.R.N. (c.‑à‑d. que l’épouse n’est pas tenue d’inclure dans le calcul de son revenu imposable le montant de pension alimentaire pour enfants qui lui est ainsi payé), il pourrait s’agir d’un changement de situation important justifiant la modification à la baisse du montant de pension alimentaire payé. Dans cette éventualité, les parties conviennent de respecter les modalités énoncées sous la rubrique intitulée « CHANGEMENT DE SITUATION IMPORTANT ».
+6. AJUSTEMENT ANNUEL AU COÛT DE LA VIE DE LA PENSION ALIMENTAIRE
+Le paiement de la pension alimentaire pour enfants en application du paragraphe 5 des présentes sera ajusté annuellement, à tous les 15 juillet, à compter du 15 juillet 1995, selon le moindre des pourcentages suivants :
+a) le pourcentage d’augmentation annuel, le cas échéant, de l’indice des prix à la consommation au Canada pour le prix de l’ensemble des biens et services au cours de l’année civile antérieure;
+b) le pourcentage d’augmentation (le cas échéant) du revenu brut du mari provenant de toutes les sources au cours de l’année civile antérieure, selon les déclarations de revenus du mari[1];
+[…]
+[9] Comme elles sont essentielles pour décider s’il existe un accord visant à modifier l’accord de séparation de 1994, les parties pertinentes de la correspondance échangée entre l’appelante et M. Reckenberg en 2006 sont reproduites ci‑dessous.
+[10] Le 20 mars 2006, l’appelante a notamment écrit ce qui suit à M. Reckenberg au sujet de la clause relative à l’ajustement au coût de la vie :
+[TRADUCTION]
+[…] le principal point tient au fait que les stipulations [de l’accord de séparation de 1994] prévoyant que les paiements de pension alimentaire pour enfants soient ajustés annuellement de manière à tenir compte de l’« ajustement au coût de la vie » n’ont pas été appliquées depuis que l’accord a été signé en décembre 1994. Les sommes que [les enfants] ont reçues au cours des années subséquentes sont donc moindres que celles auxquelles ils avaient droit. Cette iniquité est en outre exacerbée par le fait que les paiements sont toujours régis par les règles de droit fiscal en vigueur avant mai 1997 voulant que ces paiements constituent un revenu imposable pour moi. Je paye un montant d’impôt substantiel sur les paiements de pension alimentaire, en plus du montant approprié d’impôt sur mon revenu d’emploi qui est déjà déduit de ma paye. Le montant de pension alimentaire est donc sensiblement réduit, ce qui cause un tort financier direct aux enfants[2].
+[11] Par l’intermédiaire de son avocat, M. Reckenberg a répondu ce qui suit le 18 avril 2006 :
+[TRADUCTION]
+Monsieur Reckenberg m’a remis un double de votre lettre du 20 mars 2006 pour que j’y réponde. M. Reckenberg est disposé à négocier les questions en litige, comme il est mentionné plus loin.
+Monsieur Reckenberg reconnaît que vous avez le droit d’obtenir des documents financiers pour déterminer s’il y a lieu de modifier l’entente relative aux aliments. M. Reckenberg souhaite également obtenir de tels documents de votre part[3].
+[12] Le 13 juin 2006, l’appelante (qui a dit à la Cour que, même si elle avait choisi de se représenter elle‑même dans ses communications avec M. Reckenberg, elle consultait à ce moment un ami avocat de façon officieuse) a répondu ce qui suit à l’avocat de M. Reckenberg :
+[TRADUCTION]
+Je vous écris en réponse à la lettre susmentionnée, laquelle était accompagnée de renseignements relatifs au revenu d’emploi de Randy Reckenberg conformément à ma demande de modification du montant de la pension alimentaire payée pour les enfants.
+[J.B.] m’a en outre fait savoir que je devais être informée du salaire actuel de Randy puisqu’il semble que le revenu de ce dernier augmente de façon relativement importante chaque année. Comme je l’ai déjà demandé à Randy dans la lettre que je lui adressais le 20 mars 2006, je lui demande à nouveau ses trois plus récents talons de chèque de paye.
+À tout le moins, la pension alimentaire pour enfants devrait se fonder sur son revenu d’emploi en 2005, soit 61 165,03 $, et pourra faire l’objet d’un autre ajustement lorsque je connaîtrai son revenu pour 2006. Comme le prévoient les plus récentes tables de pension alimentaire pour enfants, le montant de base établi pour deux enfants est de 919 $ par mois. Comme l’obligation alimentaire de Randy s’élève à au moins 919 $ par mois, ses paiements devraient dès maintenant refléter cette somme. Cependant, je suis disposée à accepter qu’il commence à payer la nouvelle somme à compter du 15 juillet 2006[4].
+[13] Dans une lettre datée du 22 juin 2006, l’avocat de M. Reckenberg a fait parvenir la réponse suivante à l’appelante :
+[TRADUCTION]
+En réponse à votre lettre du 13 juin 2006, je vous signale que, depuis que les documents financiers de M. Reckenberg vous ont été transmis, ce dernier a reçu son avis de cotisation pour l’année 2005, lequel est joint à la présente.
+Veuillez prendre note qu’avec un revenu annuel de 50 002,02 $ par année, suivant la ligne 150 de l’avis de cotisation, M. Reckenberg devrait payer une pension alimentaire pour enfants de 753,00 $ par mois selon les Lignes directrices fédérales sur les pensions alimentaires pour enfants.
+Afin de régler la présente affaire sans délai, je vous propose de fixer une rencontre entre toutes les parties pour discuter des questions en litige. Cette rencontre ne sera toutefois possible que si vous y êtes représentée par avocat. Veuillez avoir l’obligeance de me faire savoir si vous avez l’intention de retenir les services d’un avocat dans la présente affaire et, en outre, si vous consentez à fixer une rencontre.
+J’attends votre réponse[5].
+[14] L’appelante a répondu par lettre le 10 juillet 2006. Elle débute en exposant les raisons pour lesquelles elle met en doute l’exactitude du revenu déclaré par M. Reckenberg pour 2005 et elle fait état des conseils que lui a prodigués son ami avocat. Elle ajoute ensuite :
+[TRADUCTION]
+[…]
+Par conséquent, je vous informe qu’en ce moment, à la lumière de ce qui précède et comme je n’ai pas reçu les doubles des trois derniers talons de chèque de paye de M. Reckenberg malgré mes deux demandes à cet effet, je ne suis toujours pas en mesure de savoir quel est le montant du revenu réellement gagné par M. Reckenberg et je n’ai pas l’impression que la présente affaire soit traitée avec transparence et en toute bonne foi.
+Comme je n’ai pas encore reçu les chèques de pension alimentaire pour enfants pour la période du 15 juillet 2006 au 15 décembre 2006 (habituellement, M. Reckenberg m’envoie des chèques de pension alimentaire pour enfants pour une période de six mois et je m’attends à ce qu’il me remette ces chèques vendredi prochain), j’accepterai des paiements de 753,00 $ par mois (soit la somme fondée sur un revenu de 50 002,00 $), lesquels pourront être modifiés rétroactivement lorsqu’il y aura entente définitive sur le montant exact du revenu de M. Reckenberg. Je vous signale que j’espère que ces dernières lettres permettront de résoudre la question mais que, dans le cas contraire, je suis disposée à intenter des poursuites judiciaires[6].
+L’appelante conclut en refusant l’invitation à une rencontre faite par l’avocat de M. Reckenberg parce qu’à son avis, [TRADUCTION] « il ne semble pas qu’une telle rencontre soit justifiée[7] ».
+[15] L’échange de correspondance sur ce point a pris fin le 12 juillet 2006 avec la réponse de l’avocat de M. Reckenberg et, au cours de 2009, l’appelante s’est adressée au tribunal de la famille relativement à la pension alimentaire pour enfants. Dans sa lettre du 12 juillet 2006, l’avocat de M. Reckenberg mentionne ce qui suit :
+[TRADUCTION]
+Nous avons bien reçu votre lettre du 10 juillet 2006, que nous avons examinée avec M. Reckenberg.
+Veuillez trouver sous pli six chèques de pension alimentaire pour enfants pour la période de juillet à décembre, chacun des chèques de 753,00$ étant établi à votre ordre. Comme vous pourrez le remarquer, le montant de la pension a été ajusté pour tenir compte de la pension alimentaire pour enfants exigible à la lumière de la ligne 150 de l’avis de cotisation de 2005 de M. Reckenberg. À notre avis, le montant de cette pension alimentaire ne saurait être fixé autrement.
+Si vous choisissez de persister dans la même voie, sachez que nous sommes prêts à défendre cette position avec détermination.
+Vous trouverez également sous pli les talons de chèque de paye que vous avez demandés à titre d’information [8].
+[16] L’appelante n’a pas répondu à cette lettre et aucune rencontre, avec ou sans avocat, n’a eu lieu entre les parties. Cependant, M. Reckenberg a versé à l’appelante, qui les a acceptés, les paiements de 753 $ par mois de juillet 2006 jusqu’à un moment donné en 2009.
+[17] Le 8 décembre 2008, le ministre a établi une nouvelle cotisation relativement à l’année d’imposition 2007 de l’appelante et il a ajouté au revenu de cette dernière à titre de pension alimentaire pour enfants la somme de 9 036 $ qu’elle a reçue de M. Reckenberg. La nouvelle cotisation a incité l’appelante à introduire une instance devant le tribunal de la famille afin de lever les incertitudes liées à ce qu’elle estimait être l’accord conclu avec M. Reckenberg en 2006 afin d’augmenter la pension alimentaire pour enfants. Il est louable que l’appelante et M. Reckenberg aient réussi à régler toutes les questions en suspens touchant à la pension alimentaire pour enfants sans avoir recours à la justice; de fait, tous leurs actes paraissent avoir été motivés par leur souci d’agir dans l’intérêt supérieur de leurs enfants.
+[18] Parmi les mesures préparatoires prises dans le cadre de l’instance devant le tribunal de la famille, une formule en blanc d’un document judiciaire type intitulé [TRADUCTION] « mémoire relatif à la conférence préparatoire »[9] a été remplie, apparemment par l’appelante ou, peut‑être, par un officiel du tribunal suivant les instructions de celle‑ci. Cette formule a été signée par l’avocat de M. Reckenberg conformément aux instructions de ce dernier. L’appelante a présenté ce document en preuve pour appuyer davantage son assertion voulant qu’elle et M. Reckenberg aient convenu en 2006 de modifier le montant de la pension alimentaire pour enfants payable aux termes de l’accord de séparation de 1994. Elle invoque plus particulièrement la première phrase de la réponse aux questions formulées au paragraphe 11 de ce document :
+[TRADUCTION]
+11. Quelles sont les questions visées par la présente conférence préparatoire? Quels sont les faits importants au regard de celle‑ci?
+[Réponse :] Les parties ont conclu en 2006 un accord modifié afin d’ajuster le montant de la pension alimentaire pour enfants selon la somme prévue par les lignes directrices. La pension alimentaire pour enfants était payable pour deux enfants à ce moment. Depuis ce temps, l’un des enfants a terminé ses études à temps plein et il n’est pas revenu. Le père intimé a continué de payer une pension alimentaire pour deux enfants pendant une année supplémentaire, jusqu’en décembre 2008. La pension alimentaire est maintenant payable pour un seul enfant. L’intimé a tiré son revenu d’un emploi ainsi que d’une entreprise à domicile. Cette entreprise a continué d’afficher un déficit et ses activités font l’objet d’une réduction progressive en 2009. Le revenu de l’intimé se fondera seulement sur le revenu d’emploi pour 2009, lequel est actuellement évalué à 56 000,00 $. [Non souligné dans l’original.]
+Analyse
+1. Existait-il un accord qui avait pour objet de modifier l’accord de séparation de 1994 et qui aurait établi une « date d’exécution »?
+[19] La définition de l’expression « date d’exécution » est donnée au paragraphe 56.1(4) de la Loi et c’est le sous‑alinéa b)(ii) de cette définition qui nous intéresse en l’espèce :
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+[…]
+(ii) si l’accord […] fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+[…]
+[20] Le terme « accord » employé au sous‑alinéa b)(ii) s’entend de l’« accord écrit » mentionné dans la définition de l’expression « pension alimentaire », laquelle figure aussi au paragraphe 56.1(4) :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit; [Non souligné dans l’original.]
+[…]
+[21] L’appelante fait valoir que les lettres échangées entre elle et M. Reckenberg constituaient un « accord » susceptible de modifier l’accord de séparation de 1994. À l’appui de son assertion, elle renvoie à la décision Paul M. MacDonald c. Sa Majesté la Reine[10]. Dans cette affaire, M. le juge Sarchuk a appliqué la décision Foley v. R.[11], dans laquelle l’ancien juge en chef Bowman a estimé que, selon les faits, un échange de lettres peut constituer un « accord écrit », mais a conclu que le « […] mot “accord” indique à tout le moins une obligation contraignante[12] ».
+[22] Le juge Sarchuk a suivi la même approche dans la décision Paul M. MacDonald, où il a en définitive conclu que, compte tenu des faits dont il était saisi, « […] rien n’indique que l’intention et l’effet des lettres dont il est question étaient de lier les clients[13] ».
+[23] Dans la présente affaire, je ne suis pas convaincue que la correspondance échangée en 2006 entre l’appelante et M. Reckenberg constituait un accord visant à modifier l’accord de séparation de 1994. On n’en était pas loin, l’appelante et M. Reckenberg allant jusqu’à reconnaître que la clause d’ajustement au coût de la vie prévue dans l’accord de séparation de 1994 n’avait pas été respectée et que les Lignes directrices fédérales sur les pensions alimentaires pour enfants (qui étaient entrées en vigueur en 1997, soit après la signature de l’accord de séparation de 1994) devraient servir de fondement pour établir un montant de pension alimentaire plus élevé. Mais leurs négociations se sont ensuite enlisées. L’appelante n’était pas convaincue que le revenu dévoilé par M. Reckenberg pour 2005 était exact. Après avoir examiné la question en détail et être demeurée insatisfaite de la réponse de M. Reckenberg, l’appelante a consenti à accepter des paiements de 753 $ par mois débutant le 15 juillet 2006, mais elle a expressément réservé son droit de contester le fondement de ce paiement et d’obtenir d’autres sommes de façon rétroactive dans l’éventualité où ses doutes seraient confirmés. L’appelante a menacé d’intenter des poursuites judiciaires pour faire valoir sa position. M. Reckenberg, quant à lui, était réticent à conclure les négociations à moins que l’appelante ne soit représentée par un avocat. Il a en outre affirmé que le revenu qu’il avait déclaré pour 2005 était exact et il a fait savoir à l’appelante que, si elle contestait son assertion, ce serait à ses risques et périls. Les choses en sont restées là.
+[24] Compte tenu de la situation, il m’est impossible de conclure que la correspondance qu’ils ont échangée en 2006 révèle une rencontre des volontés susceptible de transformer leurs lettres en un accord obligatoire visant à modifier l’accord de séparation de 1994 de sorte que la pension alimentaire pour enfants passe de 600 $ à 753 $ par mois.
+[25] L’appelante a également soutenu que les chèques que M. Reckenberg lui a remis constituaient un accord écrit. À l’appui de sa prétention, elle a invoqué la décision que j’ai rendue dans l’affaire Thomson c. Sa Majesté la Reine[14]. Or, cette décision ne permet pas d’étayer l’argument de l’appelante. Premièrement, il s’agissait de faits très inhabituels, qui n’existent pas en l’espèce. De plus, ma conclusion quant à l’existence d’un accord écrit ne se fondait pas uniquement sur les chèques que le père avait remis à la mère à titre de pension alimentaire pour enfants; j’ai examiné globalement l’effet de ces paiements, la preuve orale ainsi que les mentions manuscrites faites sur la formule type d’accord qui avait été fournie aux parties pour qu’elles la remplissent.
+[26] L’argument de l’appelante présente une autre faille : si les parties avaient réellement convenu de calculer, à compter de juillet 2006, le montant de la pension alimentaire pour enfants conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants, on peut présumer que ce montant aurait alors dû être déterminé à nouveau chaque année, en fonction de leur revenu respectif. Rien ne permet de penser qu’une telle mesure a, dans les faits, été prise relativement à 2007.
+[27] Enfin, en ce qui touche le paragraphe 11 du mémoire relatif à la conférence préparatoire, la simple affirmation suivant laquelle les [TRADUCTION] « parties ont conclu en 2006 un accord modifié afin d’ajuster le montant de la pension alimentaire pour enfants selon la somme prévue par les lignes directrices » ne permet nullement d’établir l’existence d’un accord obligatoire visant à modifier un accord antérieur en fonction de modalités précises. Cette phrase figure dans un document établi en vue de jeter les bases de ce qui devait devenir un accord visant à modifier les stipulations relatives à la pension alimentaire pour enfants prévues dans l’accord de séparation de 1994. Dans ces circonstances, je ne puis considérer qu’il s’agit d’une reconnaissance, par M. Reckenberg, de l’existence d’un accord obligatoire de modification remontant à 2006.
+[28] Pour ces raisons, je conclus qu’il n’existait aucun « accord » visant à modifier l’accord de séparation de 1994 au sens du sous‑alinéa b)(ii) de la définition du terme « date d’exécution » donnée au paragraphe 56.1(4).
+2. La somme de 9 036 $ a-t-elle été payée aux termes de l’accord de séparation de 1994?
+[29] L’appelante avance que, même s’il n’y avait aucun accord visant à modifier l’accord de séparation de 1994, la somme de 9 036 $ n’a pas été payée aux termes de ce document et qu’il s’agissait donc simplement d’un paiement ponctuel ne tombant pas sous le coup de la définition du terme « pension alimentaire ». L’appelante a à nouveau invoqué la décision Paul M. MacDonald, susmentionnée. Dans cette affaire, le juge Sarchuk a estimé que les stipulations de l’accord écrit initial relatives à la pension alimentaire pour enfants n’avaient plus effet au moment où l’ancienne épouse avait versé les paiements en cause dans l’appel et il est arrivé à la conclusion suivante :
+Les dispositions pertinentes de la Loi de l’impôt sur le revenu, c.‑à‑d. l’article 56.1 et l’alinéa 60b), établissent clairement qu’il doit y avoir un accord écrit. Cette exigence est aussi établie dans la définition de l’expression « pension alimentaire ». S’il n’y a pas d’accord écrit, les montants ne peuvent pas être inclus dans le revenu du bénéficiaire et ils ne sont pas déductibles dans le calcul du revenu du contribuable. J’ai conclu que les paiements faits par Mme MacDonald ne représentent pas une pension alimentaire au sens de la Loi, puisqu’ils ne sont pas payables aux termes d’une ordonnance de la Cour ou d’un accord. Ils pourraient plutôt être décrits comme des paiements ponctuels qu’a faits Mme MacDonald à l’appelant[15].
+[30] En l’espèce, après avoir conclu que l’accord de séparation de 1994 n’a pas été modifié par la correspondance échangée en 2006, la Cour doit se demander si cette entente avait toujours effet en 2007. Les situations mettant fin au versement de la pension alimentaire pour enfants sont énoncées à la clause 5b); comme aucun élément de preuve n’a été présenté pour établir que l’une ou l’autre de ces situations s’est produite, je suis convaincue que l’accord de séparation de 1994 avait toujours effet en 2007. Ainsi, la seule somme que M. Reckenberg était tenu de payer aux termes de la clause 5a) se chiffrait à 600 $ par mois. En conséquence, la somme supplémentaire de 153 $ par mois n’a pas été payée « aux termes d’un accord écrit » au sens de la définition de l’expression « pension alimentaire » prévue au paragraphe 56.1(4), mais plutôt sur une base volontaire ponctuelle. Pour cette raison, la somme supplémentaire de 1 836 $ (153 $ fois 12 mois) n’a pas été régulièrement incluse à juste titre dans le calcul du revenu de 2007 de l’appelante.
+[31] L’appel est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait qu’en 2007, l’appelante a reçu une pension alimentaire pour enfants de 7 200 $ aux termes de l’accord de séparation de 1994.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour d’avril 2010.
+S. Tasset, réviseure
+RÉFÉRENCE : 2010CCI48
+NO DU DOSSIER DE LA COUR : 2009-1534(IT)I
+INTITULÉ : Elizabeth A. Woods et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 16 novembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 27 janvier 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Anne-Maria Boutin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Pièce A-2.
+[3] Pièce A-3.
+[4] Pièce A-4.
+[5] Pièce A-5.
+[6] Pièce A-6.
+[7] Pièce A-6.
+[8] Pièce A-7.
+[9] Pièce A-8.
+[10] 2005 CCI 707, [2006] 1 C.T.C. 2188.
+[11] [2000] 4 C.T.C. 2016 (C.C.I.).
+[12] Précitée, au paragraphe 26. Voir aussi la décision James c. La Reine, 2008 CCI 340, 2008 DTC 4380.
+[13] Précitée, au paragraphe 11.
+[14] 2004 CCI 772, 2005 DTC 30.
+[15] Précitée, au paragraphe 13.

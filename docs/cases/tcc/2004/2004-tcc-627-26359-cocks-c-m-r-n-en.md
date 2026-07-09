@@ -1,0 +1,336 @@
+---
+title: "Cocks c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26359/index.do"
+last_modified: "2004-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 627"
+citation2: ""
+neutral_citation: "2004 TCC 627"
+decision_date: "2004-09-22"
+language: "en"
+item_id: "26359"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3372
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:00:24.326000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57d897fe169920cf4f3f7f31a821d2c82dce859d5adc6e644a6895588b8cd27d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cocks c. M.R.N.
+
+- Citation: 2004 TCC 627
+- Decision date: 2004-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3372, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cocks c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-22
+Neutral citation
+2004 TCC 627
+File numbers
+2003-536(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-536(EI)
+BETWEEN:
+JEAN-CHARLES COCKS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+CAROLE SIMARD,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on August 27, 2004, at Quebec City, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Véronique Racicot
+Counsel for the Respondent:
+Emmanuelle Faulkner
+For the Intervenor:
+The Intervenor herself, Carole Simard
+_______________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is upheld based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of September 2004.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 5th day of January 2005.
+Wendy Blagdon, Translator
+Citation: 2004TCC627
+Date: 20040922
+Docket: 2003-536(EI)
+BETWEEN:
+JEAN-CHARLES COCKS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CAROLE SIMARD,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal from a decision dated November 19, 2002. The decision involves the periods from: August 3, 1996 to December 5, 1997, October 12, 1998 to June 12, 1999, April 3 to December 30, 2000, and October 29, 2001 to June 1, 2002. The issue is whether the Appellant's employment was insurable employment when he was working for and on behalf of Carole Simard (the "Payer"), who was at that time doing business under the name of Locations et Services C. S.
+[2] The burden of proof is on the Appellant. The evidence consisted of the testimony of the Appellant and the Intervenor.
+[3] The Appellant's testimony must be analysed in light of the fact that the bulk of the assumptions of fact taken for granted were accepted. The admissions involved the following assumptions of fact:
+a) the Payer ran a business, registered on April 28, 1995, which provided a number of services under the company name of "Locations et Services C.S.";
+b) the Payer offered services such as truck washing, building stripping, pool and buoy cleaning and painting, and concrete slab unfreezing on construction worksites;
+c) the Payer is the sole proprietor of the business;
+d) the Payer's reported annual gross business income between 1996 and 2001 varied between $73,438 and $130,765;
+e) the Payer's income from truck washing is regular and year-round; the washing services are provided on Saturdays and Sundays;
+f) the Payer's largest income in the past few years is from a contract with Fisheries and Oceans Canada; this contract involves cleaning buoys in the St. Lawrence River;
+g) the Payer cleans the buoys primarily in the fall, starting in October or November and finishing on December 15 or 20; there are about 300 buoys to be cleaned;
+h) the Payer also carries out stripping and painting work for Fisheries and Oceans Canada on the radio range towers used for the beaconage of the St. Lawrence sea approach;
+i) the Payer carries out the work on the range towers primarily in the spring or summer;
+j) the Appellant, the Payer's husband, ran a business similar to the Payer's business between 1990 and 1996 before declaring personal bankruptcy in 1997;
+k) the Payer purchased the assets of the former business from her husband with a view to starting up her business in 1995;
+l) the Payer's assets include an Econoline pick-up truck, a 100-foot ladder truck, a trailer, two or three pressure machines, her personal automobile and the family home (in her name);
+[...]
+n) the Appellant works on bids and negotiates the rates and agreements with customers;
+[...]
+p) the Appellant's work schedule varies, but he claims that when he is on the Payer's payroll, he usually works between 40 and 42 hours a week;
+q) when there are no contracts, the truck washing service is the only service the Payer provides and the Appellant is hired to work part-time on Saturdays and Sundays;
+[...]
+t) during each of the years at issue, the Appellant received minimal remuneration (for part-time work) or no remuneration during certain weeks when the Payer was earning business income;
+u) in 2001, the Appellant was not on the Payer's payroll for 10 months while [...] the business was involved in carrying out its normal activities;
+v) the reason indicated on each of the Appellant's Records of Employment is shortage of work, which does not coincide with the Payer's periods of activity;
+w) the Appellant's periods of employment do not coincide with the actual periods of the Payer's business activity;
+The Appellant said that he has no knowledge of the following assumptions of fact:
+m) the Appellant has a great deal of experience with the type of contracts the Payer obtains and generally works on all the Payer's contracts;
+[...]
+o) the Appellant carries out some of the firm's daily activities; he physically works on all the contracts and hires and dismisses the staff required for each contract;
+The following assumptions of fact were denied:
+r) the Payer does not keep track of the Appellant's hours of work;
+s) when the Appellant was a full-time employee on the Payer's payroll, he received a fixed weekly salary that varied as follows: $420 in 1998 and 1999; $480, $600 and $900 in 2000; $420 in 2001 and 2002;
+[...]
+x) the Appellant's employment is essential to the smooth running of the Payer's business; the business would not succeed without the Appellant.
+[4] Before assigning his property, the Appellant owned the same business his wife purchased after he declared bankruptcy. The Appellant testified that he was the foreman because he had extensive experience in the field in which the business was involved when he owned the same business.
+[5] Given the scope and significance of his responsibilities in the business, one would expect the Appellant to have a constant and continuous presence in the business; he did not and was laid off for long periods of time.
+[6] The Appellant explained that the owner of the business, his wife, the Intervenor, had used employees who earned less than he did.
+[7] The Appellant explained that he did not deposit certain paycheques right away because he did not need money since his wife was looking after most of his living expenses.
+[8] The Appellant explained that he did not work during certain periods when the business was carrying out activities because after his bankruptcy, he adopted a new life philosophy and he had decided to take it a little easier since he had had to work so many hours during certain periods of his life.
+[9] The Appellant's testimony was hardly convincing, especially since a number of explanations were confusing, insufficient and totally incomplete. He often dodged questions by saying that he had no knowledge because his wife owned the business. Other explanations were simply not credible or improbable. I am referring in particular to the long periods of time when the Appellant said he did not work.
+[10] The testimony of his wife, the Intervenor, in this case showed that she had neither the ability, the authority nor the expertise required to substantiate and confirm the Appellant's version. Since he had already been the sole proprietor of the business transferred to his wife after he declared bankruptcy, it would have been important for the Appellant and the Intervenor to take nothing for granted given their very special circumstances resulting from the role reversal, that is, when the boss becomes the employee and the employee becomes the boss.
+[11] The Appellant had the qualifications, knowledge and experience required to run the business. He also clearly had the necessary authority and had a strong influence on his wife, to the extent where it is no exaggeration to conclude that he was the business' guiding spirit.
+[12] The salary fluctuations, the periods of employment, the reasons given to explain the beginning and end of the periods at issue, and the total lack of consistency between the income of the business and the periods of employment are all factors that lead one to conclude that the Appellant acted as if it were his own business, as it had been in the past.
+[13] The Appellant in fact ran his own business. It is possible that his wife became the actual owner and not simply a nominee. However, it was clear to me that she did not make any decisions; the Appellant was the only decision-maker, particularly when the time came to decide when his period of employment ended and when he would return to work.
+[14] Mr. Denis Hamel did impeccable investigative work on behalf of the Respondent. Among other things, he gathered the data and prepared tables based upon which clear conclusions were drawn as to the merits of the determination.
+[15] For example, certain information in the exhibits should be reproduced in the case at hand. Firstly, in his statutory declaration dated June 27, 2002, the Appellant made the following statement (Exhibit I-1):
+[TRANSLATION]
+[...] I cannot tell you whether she had employees in the past, probably not, because she only had to manage her business at that point. [...] I must explain based on my passbook that two weeks' pay was last deposited on February 11, 2002, two more weeks' pay on February 13, 2002, another two weeks' pay on February 20, 2002 and between February 20 and the last deposits on June 4, 2002, my wife did not deposit any salary in my account because there was enough money in the account and she was waiting for other money to come in before depositing all my other cheques. I agreed because I want the company to survive and it is my only source of income and the only work that I know well. I can afford to agree not to receive my salary because my wife is paying the household bills and living expenses and since I do not have a car I take the company car (which she allows me to do). I cannot demand my cheque every week because my wife's company might go under and that is not to my advantage. One day, all my payments will be up to date, but I agree to receiving my cheques later. I would need my salary if it were another employer because I would have expenses [...] I earn $420 a week, but in 2000 I earned $900 a week because there were government contracts and my accountant had agreed that I could earn that amount. My salary decreased because the business would not have continued to survive; business is good when there are government contracts. [...]
+(My emphasis.)
+The following information is in Exhibit I-2:
+[...]
+Employee/employer information
+RAPID, CORTAX and GST systems
+C and/or DD.3
+1996
+1997
+1998
+1999
+2000
+2001
+Name
+Jean-
+Charles
+Cock's
+237817663
+46 yrs
+T4/T4A income
+E-I benefits
+Gross rental
+Gross bus
+RRSP inc
+9,600
+10,000
+26,249
+8,147
+22,600
+11,911
+6,957
+16,741
+8,830
+7,165
+25,557
+1,686
+3,780
+12,704
+Name
+Carole
+Simard
+238259667
+48 yrs
+T4/T4A income
+E-I benefits
+Gross bus
+Net bus
+Cap gain
+90,009
+17,616
+91,876
+4,945
+82,407
+(1,028)
+31,187
+73,438
+1,489
+130,765
+1,491
+116,197
+38,351
+DD.2
+Name of the ER no
+Carole
+Simard
+BN
+898349055
+No of empl
+10
+17
+7
+23
+12
+GST
+End of Q
+Sales
+Appellant's status
+30-9-98
+31-12-98
+31-3-99
+30-6-99
+30-9-99
+31-12-99
+31-3-00
+30-6-00
+30-9-00
+31-12-00
+31-3-01
+30-6-01
+30-9-01
+31-12-01
+31-3-02
+30-6-02
+11,823
+12,435
+21,267
+17,376
+17,082
+17,713
+26,250
+26,632
+58,657
+19,227
+27,053
+56,134
+15,096
+17,913
+24,838
+0
+Unemployed
+Employed
+Employed
+Employed
+Unemployed
+Unemployed
+Unemployed
+Employed
+Employed
+Employed
+Unemployed
+Unemployed
+Unemployed
+Employed
+Employed
+Employed
+[...]
+Business assets based on the general ledger as at August 31, 2002 (Tab R)
+- Automotive equipment: $13,002.50
+Accumulated depreciation: $3,606
+- Equipment: $4,500
+Accumulated depreciation: $3,034
+- Machinery: $1,218.03
+Accumulated depreciation: $363
+Appellant's paycheques for 2002, starting on January 17, 2002 (Tab S)
+- The Appellant's paycheques for January 2002 were deposited on June 4, 2002.
+- The February 2002 cheques were deposited on July 3, 2002.
+- The March 2002 cheques were deposited on July 11, 2002.
+- The March 2002 cheques were deposited on July 11, 2002.
+- The subsequent cheques up to June 6, 2002, were deposited on August 16, 2002, but mostly on August 28, 2002.
+[16] The burden of proof was on the Appellant. The Respondent fleshed out the case by providing irrefutable evidence. The way for the Appellant to discharge the burden of proof was not by providing vague, confusing, incomplete and even improbable bare assertions regarding fundamental aspects.
+[17] The Appellant was indisputably the guiding spirit behind the business. He administered, managed and oversaw the business exactly as if he were the owner. Not only did he have special status, he was beyond a shadow of a doubt the person who decided when his periods of employment began and ended, and clearly orchestrated and planned these periods in order to qualify for employment insurance benefits.
+[18] This is a case where the Appellant had such freedom and independence that he arranged everything in the firm's payroll to suit himself and this was clearly to ensure that he qualified for employment insurance.
+[19] Not only did the evidence provided by the Appellant and the Intervenor not shed light on new information or facts not discovered during the investigation, it instead confirmed the soundness of the decision made further to the Respondent's impeccable and judicious investigation and analysis.
+[20] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of September 2004.
+"Alain Tardif"
+Tardif, J.
+Translation certified true
+on this 5th day of January 2005.
+Wendy Blagdon, Translator
+CITATION:
+2004TCC627
+COURT DOCKET NO:
+2003-536(EI)
+STYLE OF CAUSE:
+Jean-Charles Cocks
+and the Minister of National Revenue
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+August 27, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+September 22, 2004
+APPEARANCES:
+For the Appellant:
+Véronique Racicot
+For the Respondent:
+Emmanuelle Faulkner
+For the Intervenor:
+The Intervenor herself, Carole Simard
+SOLICITOR OF RECORD:
+For the Appellant:
+Name:
+Firm:
+City:
+Véronique Racicot
+APCHQ (Savoie Fournier Avocats)
+Anjou, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada Ottawa, Canada

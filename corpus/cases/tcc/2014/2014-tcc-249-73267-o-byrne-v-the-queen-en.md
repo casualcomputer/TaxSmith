@@ -1,0 +1,134 @@
+---
+title: "O'Byrne v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73267/index.do"
+last_modified: "2014-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 249"
+citation2: ""
+neutral_citation: "2014 TCC 249"
+decision_date: "2014-08-12"
+language: "en"
+item_id: "73267"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5208
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:36:38.615000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fefc6429532b27d2b3dd98bfa45da74bfa9484d07cd070021a917276de18f355"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Byrne v. The Queen
+
+- Citation: 2014 TCC 249
+- Decision date: 2014-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5208, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Byrne v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-12
+Neutral citation
+2014 TCC 249
+File numbers
+2013-3666(IT)APP
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3666(IT)APP
+BETWEEN:
+CONNIE O'BYRNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion in writing
+The Honourable Justice Patrick Boyle
+AMENDED ORDER
+Upon motion in writing made by the Appellant for an Order to amend the Reasons for Order dated May 12, 2014;
+And upon reading the material filed in support of the motion;
+It is ordered that the motion is allowed in part in accordance with the attached Amended Reasons for Order.
+This Amended Order is issued in substitution of the Order dated August 1, 2014.
+Signed at Ottawa, Canada, this 12th day of August 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 249
+Date: 20140812
+Docket: 2013-3666(IT)APP
+BETWEEN:
+CONNIE O'BYRNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Boyle J.
+[1] Following the hearing in Brandon on May 5, 2014 of Connie O'Byrne's application to late-file notices of objection to her 1986 through 1998 taxation years, I issued written reasons for my order dismissing her application.
+[2] Ms. O’Byrne has brought a motion asking that I amend my reasons in several respects in reliance upon the so-called slip rule.
+[3] Following a review of the transcript of the hearing, I see that my reasons contain a sentence with an error arising from an accidental slip on my part. In my Reasons, I wrote in paragraph [4]: “She had apparently received a letter in 2005 from CRA that no collection steps would be taken by CRA beyond set off of her old tax debts against future tax refunds or similar entitlements.” I am satisfied that this sentence should have read: “She had apparently received a letter from CRA that no collection steps would be taken by CRA after February 2005 beyond set-off of her old tax debts against future tax refunds or similar entitlements.”
+[4] It is clear from the transcript that Ms. O'Byrne never acknowledged having received any letter from CRA in 2005. However, it is not always clear from the transcript of her submissions which letter or letters she is talking about from time to time throughout the hearing.
+[5] I did not need to make, nor intend to make, any finding as to whether Ms. O'Byrne is correct in her assertions about which letters she did or did not receive from or send to CRA or anyone else, nor when she received any such letters, nor about which letters were sent to her or how they were mailed.
+[6] None of the several other matters raised in Ms. O'Byrne’s motion warrant any relief. These are largely an unfortunate and unhelpful rehash of a request for a public inquiry, production by the Crown of forensically verifiable documents from CRA’s file, and allegations of justice being thwarted notwithstanding matrimonial court orders, separation agreements, and voluntary disclosures by her “high income earner” ex-husband, and by virtue of bald claims of payment having been made of these taxes that weren’t recorded by CRA. They were addressed at the hearing and disposed of at the hearing and in my Reasons. Nothing further is warranted or required; what I have written I have written.
+[7] Ms. O’Byrne’s motion also requests that I expand on my first sentence in paragraph [3] of my Reasons that “It appears that Ms. O’Byrne in good faith set down the wrong path to pursue the tax concern she now has with CRA.” She asks that I clarify that she was sent down the wrong path only because she followed written instructions of CRA material and personnel. No amendment to my reasons is warranted in this regard. I would refer in this regard to the last sentence of paragraph [5] of my Reasons:
+Based upon the materials she filed with this Court or referred to at the hearing, the precise nature of her concerns may not be very clear to them.
+[8] I had also dealt with her similar claims at the hearing as follows:
+Registry officers try to be helpful. They are not lawyers. They are not able to give you legal advice and if you tell them you just got turned down by CRA for filing a Notice of Objection late, they are going to tell you, totally correctly, your next step is to come to Judge Boyle and ask him to give you an extension; but that does not help you because you started down the wrong path, and they did not know that.
+[9] And I earlier said at the hearing:
+It is very difficult when you’re filing as much as you are for public servants to be able to understand what your real complaint is, and what you are thinking they might just be able to help you with any way. . . . Be very clear and focused. Short and sweet . . . Don’t go into information dump. It starts to confuse people.
+[10] It is clear from the number, breadth and scope of the materials she filed on this motion and of her claims therein, that she has decided not to follow my suggestions. That is her right. Having heard from only Ms. O’Byrne at the hearing, I sense that she is not the drafter of the materials she is filing. I suspect that she is relying on advice from, and on the views of, another. I can only restate my earlier suggestion to her as a self represented litigant that this may be contributing to her difficulties with respect to her substantive complaint that she believes CRA is not properly applying the 10 year limitation period in section 222 of the Income Tax Act in her particular circumstances.
+[11] The applicant’s motion is allowed in part and amended reasons will be issued.
+[12] This Amended Reasons for Order is issued in substitution of the Reasons for Order dated August 1, 2014.
+Signed at Ottawa, Canada, this 12th day of August 2014.
+“Patrick Boyle”
+Boyle J
+CITATION:
+2014 TCC 249
+COURT FILE NO.:
+2013-3666(IT)APP
+STYLE OF CAUSE:
+CONNIE O'BYRNE AND THE QUEEN
+PLACE OF HEARING:
+Brandon, Manitoba
+DATE OF HEARING:
+May 5, 2014
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+August 12, 2014
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Paul Klippenstein
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

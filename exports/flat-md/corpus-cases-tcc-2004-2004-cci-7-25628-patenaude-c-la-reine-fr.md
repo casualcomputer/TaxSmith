@@ -1,0 +1,140 @@
+---
+title: "Patenaude c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25628/index.do"
+last_modified: "2004-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 7"
+citation2: ""
+neutral_citation: "2004 CCI 7"
+decision_date: "2004-01-09"
+language: "fr"
+item_id: "25628"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2434
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:08:53.380000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f064d6ea01b20b24d0b57a31387d6ea4f3a782a4acdbe086f38f5167f52aea7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patenaude c. La Reine
+
+- Citation: 2004 CCI 7
+- Decision date: 2004-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2434, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patenaude c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-09
+Référence neutre
+2004 CCI 7
+Numéro de dossier
+2003-1361(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1361(IT)I
+ENTRE :
+SERGE PATENAUDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 octobre 2003 à Montréal (Québec)
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa (Canada), ce 9e jour de janvier 2004.
+« B. Paris »
+Juge Paris
+Référence :2004CCI7
+Date : 20040109
+Dossier : 2003-1361(IT)I
+ENTRE :
+SERGE PATENAUDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Monsieur Serge Patenaude cherche à déduire dans le calcul de son revenu pour l'année d'imposition 2000, un montant de 10 000,00 $, à titre d'allocation payable périodiquement à son ex-conjointe, madame Lucie Villeneuve. Cette déduction a été refusée par le ministre du Revenu national (le « Ministre » ) dans une cotisation datée du 2 mai 2002.
+[2] La question en litige est de savoir si le montant était payable par monsieur Patenaude en vertu d'un jugement ou d'un accord écrit à titre d'allocation périodique pour subvenir aux besoins de madame Villeneuve en vertu de l'alinéa 60b) de la Loi de l'impôt sur le revenue (la « Loi » ).
+[3] La preuve démontre que monsieur Patenaude et madame Villeneuve ont divorcé le 31 janvier 1995. Selon un jugement de la même date de la Cour supérieure du Québec, monsieur Patenaude devait payer à madame Villeneuve la somme de 150 000 $ à titre de somme globale à la première de deux échéances : soit à la vente de la résidence familiale ou en décembre 1995. La Cour a aussi ordonné à monsieur Patenaude de payer à madame Villeneuve une pension alimentaire pour l'entretien des enfants de 1 700 $ par mois, et a ordonné le partage en parts égales du produit de la vente de la résidence familiale.
+[4] Cette ordonnance de la Cour supérieure a été modifiée le 17 novembre 1995 par un jugement de la Cour d'appel du Québec qui a donné acte de la convention des parties prévoyant que madame Villeneuve recevrait la propriété de la résidence familiale, que monsieur Patenaude paierait 26 500 $ à titre alimentaire dans un délai d'au plus quatre ans, soit au plus tard le 17 novembre 1999, au lieu de la somme globale de 150 000 $, et que la pension alimentaire pour l'entretien des enfants serait réduite à 1 275 $ par mois.
+[5] De nouvelles modifications ont été apportées aux obligations de monsieur Patenaude résultant du divorce le 2 juin 1998 à la suite d'une requête en modification des mesures accessoires en changement de garde d'enfants et en annulation de pension alimentaire, présentée par monsieur Patenaude. Par un consentement à jugement, monsieur Patenaude et madame Villeneuve ont consenti à des changements relatifs à la garde des enfants et à une réduction de la pension alimentaire à 275 $ par mois.
+[6] Bien que le montant de 26 500 $ figurant dans le jugement du 17 novembre 1995 fût censé être versé à madame Villeneuve avant le 17 novembre 1999, monsieur Patenaude éprouvait des difficultés financières, et, selon son témoignage, il a demandé une prolongation du délai pour payer. Par lettre du 9 février 2000, le représentant de madame Villeneuve a consenti à ce que le paiement soit échelonné sur quatre ans comme suit : 10 000 $ payable avant le 10 mars 2000, et les montants de 6 200 $, de 5 800 $ et de 5 400 $ payables en 2001, 2002 et 2003 respectivement à la date anniversaire du premier cheque. Les trois derniers montants comprenaient capital et intérêts.
+[7] Le premier versement de 10 000 $ a été fait selon cet échéancier et monsieur Patenaude réclame la déduction de ce montant.
+[8] Monsieur Patenaude a soutenu que le jugement de la Cour d'appel l'obligeait à payer 26 500 $ à madame Villeneuve pour subvenir à ses besoins et que ce montant était payable périodiquement parce qu'il devait être payé en quatre versements annuels, comme il avait été convenu par madame Villeneuve et lui dans une lettre du 9 février 2000.
+[9] Sur le premier point, je conclus que la somme de 26 500 $ qui paraît dans le consentement à jugement intervention Cour d'appel le 17 novembre 1995 était destinée à subvenir aux besoins de madame Villeneuve et n'était pas une somme globale en capital. Les deux parties concernées ont indiqué qu'il s'agissait d'une somme payable à titre alimentaire, et, selon le témoignage de monsieur Patenaude, le but du paiement était de donner à madame Villeneuve quatre ans pour se trouver un emploi.
+[10] Dans l'arrêt Larivière c. Canada[1], la Cour d'appel fédérale a décrit l'allocation périodique dont parle l'alinéa 60b) de la Loi comme « une somme payée dans le but de permettre au créancier de subvenir, au moins en partie, à son entretien jusqu'au prochain paiement plutôt que dans le but de lui permettre d'accumuler un capital » . Dans cette affaire, le juge de première instance avait considéré le paiement d'une somme globale de 20 000 $ en trois versements à l'ancienne épouse « comme une provision temporaire devant lui permettre de se recycler, de compléter sa formation et de s'établir dans une nouvelle vie » . La Cour d'appel a décidé que les trois versements étaient un revenu plutôt qu'un capital pour l'ancienne épouse et qu'ils servaient à subvenir aux besoins de celle-ci.
+[11] En ce qui concerne la question de la périodicité, je suis d'avis que les paiements dont il s'agit en l'espèce n'étaient pas à effectuer périodiquement. Le jugement de la Cour d'appel du Québec laissait au payeur le soin de déterminer, à son gré, dans un délai fixe, le moment et la fréquence des paiements à faire pour parvenir au total de 26 500 $.
+[12] Le payeur aurait même pu se conformer à ce jugement en ne faisant qu'un seul paiement du montant total à n'importe quel moment jusqu'au 17 novembre 1999. L'alinéa 60b) prévoit que le montant en question doit être « payable » périodiquement et non pas « payé » périodiquement et c'est l'ordonnance ou l'accord écrit établissant l'obligation de payer qui détermine comment le montant est payable.
+[13] Dans le cas présent, parce que l'ordonnance n'oblige pas le payeur à faire les versements selon un échéancier fixe, il est impossible de dire que le montant est payable périodiquement.
+[14] La lettre du 9 février 2000 ne changeait pas l'obligation qu'avait monsieur Patenaude en vertu du jugement du 17 novembre 1995, mais constituait un arrangement pour l'acquittement de la dette de monsieur Patenaude envers madame Villeneuve. Cette lettre ne vient pas modifier le jugement de la Cour d'appel. Pour le modifier, il faudra que ladite Cour rende un jugement modificatif.
+[15] En résumé, je conclus que le montant de 10 000,00 $ versé par monsieur Patenaude a été payé en vertu du jugement de la Cour d'appel daté du 17 novembre 1995, parce que ce jugement était toujours en vigueur au moment du paiement et régissait les obligations de monsieur Patenaude consécutives au divorce. Il est nécessaire de se référer au jugement qui crée l'obligation de payer l'allocation afin de déterminer si elle est payable périodiquement. Pour les motifs déjà exprimés plus haut, je suis convaincu que le montant en question n'était pas payable périodiquement, et qu'il ne satisfait donc pas aux conditions préalables à remplir pour qu'il y ait déduction en vertu de l'alinéa 60b) de la Loi.
+[16] L'appel est rejeté.
+Signé à Ottawa (Canada), ce 9e jour de janvier 2004.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2004CCI7
+No DU DOSSIER DE LA COUR :
+2003-1361(IT)I
+INTITULÉ DE LA CAUSE :
+Serge Patenaude et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 16 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 9 janvier 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Mounes Ayadi
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1989] 2 C.F. 104

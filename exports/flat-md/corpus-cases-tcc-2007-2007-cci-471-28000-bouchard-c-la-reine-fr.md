@@ -1,0 +1,159 @@
+---
+title: "Bouchard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28000/index.do"
+last_modified: "2007-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 471"
+citation2: ""
+neutral_citation: "2007 CCI 471"
+decision_date: "2007-09-25"
+language: "fr"
+item_id: "28000"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1782
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:16:04.292000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c77b318a5008ab1779113fb18127ae85fb872de9156fa6405254cb5de4c6952"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard c. La Reine
+
+- Citation: 2007 CCI 471
+- Decision date: 2007-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1782, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-25
+Référence neutre
+2007 CCI 471
+Numéro de dossier
+2007-1251(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1251(IT)I
+ENTRE :
+CLAUDE BOUCHARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 31 juillet 2007, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Jean-Jacques Truchon
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2007.
+« AlainTardif »
+Juge Tardif
+Référence : 2007CCI471
+Date : 20070925
+Dossier : 2007-1251(IT)I
+ENTRE :
+CLAUDE BOUCHARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation découlant d'un avantage conféré à un actionnaire lors d’une opération portant sur une automobile pendant l'année d'imposition 2001, en vertu de la Loi de l'impôt sur le revenu.
+[2] Pour établir et ratifier la cotisation concernant l'année d'imposition 2001, le ministre du Revenu national (le « ministre ») a tenu pour acquis plusieurs hypothèses de fait; ces hypothèses sont les suivantes :
+a) L'appelant est actionnaire, administrateur et vice-président de la société Soprema inc.;
+b) Au cours de l'année d'imposition, la société a acquis une automobile de marque Cadillac auprès de concessionnaire automobile B. Dupont Auto inc.;
+c) En tant qu'officier de la société, l'appelant a négocié les termes de la transaction;
+d) Lors de l'acquisition de cette automobile, la société a donné en échange une Cadillac 1996 véhicule d'une juste valeur marchande de 24 400 $.
+e) Lors de la transaction, l'appelant a fait personnellement l'acquisition du véhicule donné en échange par la société par le biais d'une vente d'accommodation du concessionnaire automobile pour une somme de 10 000 $;
+f) L'appelant a payé la taxe de vente du Québec sur une valeur de 24 400 $.
+[3] L'appelant est le représentant de la société Soprema S.A. au Canada. Dans le cadre de son travail, il a procédé, au nom de ladite société Soprema S.A., à l'achat d'un véhicule décrit au contrat produit sous la cote I‑1.
+[4] L’opération avait pour effet de disposer d’une voiture Cadillac Seville STS de l’an 1996, dont la société était propriétaire jusqu'au moment de l'acquisition du nouveau véhicule.
+[5] L'appelant a exprimé son intérêt à acquérir le véhicule d’occasion, dont la valeur attribuée est de l'ordre de 24 400 $, donné en échange lors de l'acquisition du nouveau véhicule.
+[6] La juste valeur marchande (la « JVM ») a été tout simplement établie selon le guide dont se sert la Société de l'assurance automobile du Québec pour déterminer la valeur d'une voiture aux fins de la taxe de vente.
+[7] Ce montant peut être réduit si la véritable JVM n'est pas celle utilisée lors du calcul de la taxe. Il peut alors y avoir recouvrement de la taxe versée en trop. Il s'agit là d'une procédure administrative assujettie à certaines conditions.
+[8] L'appelant n'a fait aucune demande à cet égard. Il a expliqué que l'évaluation établie selon le guide utilisé par la Société de l'assurance automobile est définitive et sans appel, ce qui m'apparaît n’avoir aucun fondement.
+[9] À la suite du contrat, l'appelant n’a entrepris aucune démarche pour récupérer la taxe qu’il a versée en trop en raison du fait que celle-ci était fondée sur un montant excédent la juste valeur marchande du véhicule, sous prétexte que les frais engagés auraient annulé ce qu’il aurait pu recouvrer.
+[10] À l'appui de ses prétentions, l’appelant a déposé une copie du guide « Les évaluations des voitures d'occasion », édition du 1er mai 2007, p. 48, où il a surligné la mention suivante :
+Année
+Modèle
+Extra Clean
+Clean
+Average
+Rough
+2000
+Cadillac Seville
+10 300
+8 600
+6 100
+4 100
+Il n'a cependant pas mentionné l'inscription au dos de la page couverture : « Canadian Black Book est une publication bimensuelle. Veuillez jeter ce numéro sur réception de la nouvelle édition. » La note qui suit est : « IMPORTANT La classification détermine le prix à offrir. »
+[11] En termes clairs, le guide « Black Book » sert d'outil de référence aux garagistes qui achètent une voiture d'occasion. Le prix indiqué n’est qu’un guide. L'utilisateur doit tenir compte des coûts de la remise en état avant la revente et du profit du vendeur, la JVM d'une automobile étant justement le prix de vente et non pas le prix qu'un concessionnaire paiera.
+[12] D'autre part, le fait d'avoir utilisé l'édition du 1er mai 2007 au lieu du numéro publié pour le mois de l’opération en 2001 démontre à quel point l'appelant a été peu soucieux de la qualité de la preuve qu'il devait soumettre.
+[13] Je n'ai aucun doute que le guide qui existait lors de l’opération en 2001, aurait indiqué une valeur totalement différente de l'évaluation de l'appelant.
+[14] De tels guides ne sont d'ailleurs pas des références d'une fiabilité absolue. D'autre part, le « Black Book » est un guide publié à l'intention des garagistes pour servir de référence quant au prix à offrir à un vendeur.
+[15] D'autres guides en la matière sont beaucoup plus utiles et surtout plus réalistes pour déterminer la JVM d'une automobile. Ce sont des guides que peuvent utiliser les consommateurs, étant donné que les montants qui y apparaissent correspondent au prix qu'un consommateur devrait payer, le prix incluant les coûts de la remise en état, ainsi que le profit du vendeur.
+[16] L'appelant, à qui incombait le fardeau de la preuve, a choisi de soumettre une preuve totalement déficiente. D'ailleurs, l'absence de possibilité de faire une véritable preuve à l'appui de ses prétentions a sans doute été à l'origine de sa non-contestation du montant de taxe payé en trop lors de l’opération.
+[17] Son explication voulant qu'il lui en aurait coûté l'équivalent en honoraires d'avocat est tout simplement farfelue, puisqu'une telle démarche est simple et facile. La véritable explication est sans aucun doute le fait que de telles démarches auraient entraîné l'obligation de fournir des explications gênantes au propriétaire de la nouvelle automobile, puisque le remboursement d'une partie de la taxe aurait été suivi d’une réclamation du montant équivalent auprès de l'acquéreur du véhicule neuf.
+[18] L'honorable juge G.-André Gobeil de la Cour du Québec, dans son jugement rendu le 12 septembre 2006, a très bien saisi le stratagème de l'appelant et je souscris sans réserve à son appréciation; bien plus, je fais mien le passage où il affirme ce qui suit :
+14. La compagnie Soprema S.A. est l’actionnaire fortement majoritaire de sa filiale Soprema inc., fondée puis gérée par monsieur Bouchard à titre de vice-président et directeur général.
+15. Le lien de subordination entre monsieur Bouchard et Soprema inc. et/ou Soprema S.A. est bien démontré et n’est d’ailleurs pas nié.
+16. C’est monsieur Bouchard qui a orchestré l’achat pour son employeur d’un véhicule neuf et l’échange du véhicule usagé en 2001. C’est lui qui a négocié le prêt au nom de son employeur et c’est par son intermédiaire qu’un prix d’échange de 10 000 $ a été fixé pour l’ancien véhicule.
+17. Il apparaît invraisemblable que monsieur Bouchard n’ait pas été au courant qu’il rachetait le véhicule donné en échange à un prix très inférieur à sa juste valeur marchande.
+18. L’échange du véhicule et son rachat ayant été faits la même journée et pour un même prix, il apparaît évident qu’il y a eu planification de la part de monsieur Bouchard et de son employeur, de concert avec un concessionnaire accommodant.
+19. De l’ensemble de la preuve, le Tribunal tire la conclusion logique que c’est en raison des relations employeur-employé que l’achat du véhicule à un si bas prix a pu être conclu.
+[19] Pour ces motifs, l'appel est rejeté et le bien‑fondé de la cotisation est confirmé.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI471
+Nº DU DOSSIER DE LA COUR : 2007-1251(IT)I
+INTITULÉ DE LA CAUSE : Claude Bouchard c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 31 juillet 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 25 septembre 2007
+COMPARUTIONS :
+Représentant de l'appelant :
+Jean‑Jacques Truchon
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Ville :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

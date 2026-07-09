@@ -1,0 +1,214 @@
+---
+title: "Laing v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521081/index.do"
+last_modified: "2023-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 50"
+citation2: ""
+neutral_citation: "2023 TCC 50"
+decision_date: "2023-04-19"
+language: "en"
+item_id: "521081"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5868
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:31:50.669000+00:00"
+cases_cited_count: 8
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8305501db14ff5fac2922dca48ad21f0ee96ef39cd40720d557d02472eb31c4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laing v. The King
+
+- Citation: 2023 TCC 50
+- Decision date: 2023-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laing v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-04-19
+Neutral citation
+2023 TCC 50
+File numbers
+2019-3822(IT)APP
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-3822(IT)APP
+BETWEEN:
+G DEWAR LAING,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on January 26, 2023, at Windsor, Ontario
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Amanda De Bruyne
+JUDGMENT
+Upon application made by the Applicant for an order extending the time within which a notice of objection to the reassessment made under the Income Tax Act for the 2012 taxation year may be served;
+And upon hearing submissions from the parties;
+The application is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Québec, Québec, this 19th day of April 2023.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2023 TCC 50
+Date: 20230419
+Docket: 2019-3822(IT)APP
+BETWEEN:
+G DEWAR LAING,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Introduction
+[1] This is an application by Mr. Laing for an extension of time to file a notice of objection with the Minister of National Revenue (Minister) pursuant to section 166.2 of the Income Tax Act, RSC 1985, c 1 (5th Supp), as amended (ITA) to a reassessment made by Notice of reassessment dated November 14, 2014 for his 2012 taxation year. The application was filed at the Registry of the Court on October 17, 2019.
+[2] Mr. Laing testified at the hearing. No other witnesses were called.
+II. Context
+[3] On or about April 30, 2014, the Applicant filed his 2012 income tax return.
+[4] On May 8, 2014, a few days later, a notice of assessment (arbitrary) was issued by the Minister for the 2012 taxation year of the Applicant.
+[5] On August 28, 2014, September 23, 2014 and November 12, 2014, the Canada Revenue Agency (CRA) sent correspondence to the Applicant regarding his filing for the 2012 taxation year.
+[6] The September 23, 2014 correspondence was a request for information and documents in order for the CRA to address the changes requested in respect inter alia of his 2012 taxation year.
+[7] The November 12, 2014 correspondence was a letter not made available to the Court and presumably confirming that the CRA could not process the change in the Applicant’s returns for the 2009, 2010, 2011 and 2012 taxation years.
+[8] On November 14, 2014, a notice of reassessment was issued by the Minister for the Applicant’s 2012 taxation year.
+[9] On July 4, 2019, a notice of objection was served on the Minister on behalf of the Applicant’s 2012 taxation year. The Applicant was then represented by an agent Mr. Graig Miller, a chartered accountant from BDO Canada LLP.
+[10] On July 18, 2019, the Appeals Division of the CRA informed the Applicant that the notice of objection was filed outside the prescribed time limit. The letter confirmed that the Minister could not grant him an extension of time to file a notice of objection as such application should have been made by the Applicant on or before February 12, 2016.
+[11] On October 17, 2019, the Applicant filed this application with the Tax Court of Canada requesting for an extension of time to file a notice of objection. The reason supporting the application to extend time is “I intended to file an appeal. I was waiting to hear back from accountant for advice. We ended up missing the date by 1 day.”
+[12] Between late 2019 and 2022, Mr. Miller ceased to act on behalf of the Applicant. No specific time was provided by the Applicant.
+III. Issue in dispute
+[13] The issue before this Court is whether the Applicant’s application for an extension of time to file the notice of objection should be granted.
+IV. Position of the Applicant
+[14] Mr. Laing believes that he is entitled to ask the Court to grant his application, although he does not recall perfectly the sequence of events as the application for an extension of time to file the notice of objection and the notice of objection attached to it were filed by his agent Mr. Graig Miller, a chartered accountant from BDO Canada LLP. Mr. Laing confirmed that Mr. Miller is not acting on his behalf anymore and following the termination of Mr. Miller’s mandate did not get a copy of his file including all correspondence he received from the CRA in respect of his 2012 taxation year. Considering this situation, Mr. Laing admitted having an incomplete understanding of the entire sequence surrounding his 2012 taxation year, both in respect of what was initiated by him or Mr. Miller and by the CRA because the entire file is still with Mr. Miller.
+[15] Notwithstanding the foregoing, he confirmed having filed his 2012 income tax return late on or about April 30, 2014. However, the CRA issued on May 8, 2014 an arbitrary notice of assessment in respect of his 2012 taxation year. Mr. Laing admitted having received the original 2012 notice of assessment. However, he believes that he did not receive a subsequent reassessment for his 2012 taxation year reflecting his filing for that year. He does not deny that he may have received a subsequent notice of assessment or reassessment on or about November 14, 2014 but the subsequent notice did not reflect the return he filed for his 2012 taxation year. He believes that the notice of reassessment filed before the Court at the hearing is a replicate of the original assessment.
+[16] Mr. Laing believes that there was a mistake by the CRA when he was reassessed or assessed him again in November 2014. According to him, this Court has to abide by rules of equity and fairness, and the submissions that were provided to the Court by the Respondent are proof that what they thought was a reassessment is not in fact the reassessment that was done. There was a mistake.
+V. Position of the Respondent
+[17] The Respondent is of the view that the Appellant filed the application for an extension of time to file the notice of objection outside the prescribed time limit for doing so. The Applicant’s 2012 taxation year was reassessed by notice of reassessment dated November 14, 2014. The Applicant filed a notice of objection on July 4, 2019. The notice of objection and the application to the Minister to extend the time for serving the notice of objection was due on or before February 12, 2016. The application does not satisfy the condition of paragraph 166.2(5)(a) ITA and therefore must be dismissed.
+VI. Analysis
+(a) legislative provisions
+[18] Subsection 165(1) ITA allows a taxpayer to object to an assessment by the Minister subject to certain deadlines:
+165(1) Objections to assessment — A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment;
+. . .
+[emphasis added.]
+[19] In the event a notice of objection is not filed by the individual against a notice of assessment or reassessment within the time period provided for in subsection 165(1) ITA, sections 166.1 and 166.2 ITA deal with a taxpayer’s ability to obtain an extension of the time to file the notice of objection:
+166.1(1) Extension of time by Minister — Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+. . .
+(7) When order to be made — No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+166.2(1) Extension of time by Tax Court — A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+. . .
+(5) When application to be granted — No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[emphasis added.]
+[20] The Applicant has the burden of proving that he meets the conditions which would allow the Court to grant him an extension.
+(b) applicable treatment
+- jurisdiction issue
+[21] The Court believes that the underlying matter raises a question of jurisdiction under subsection 161.2(1) ITA in fine. This question must first be addressed in order to determine whether the Court is lawfully seized of the Applicant's application. Without jurisdiction, the Court is not entitled to decide whether the conditions giving rise to the Applicant's application are met and therefore, the application must be dismissed.
+[22] The Applicant’s agent filed with the CRA a notice of objection on July 4, 2019. The main reasons raised in the objection relate to the issuance of an arbitrary assessment and the late filing of an income tax return by the taxpayer for the same year.
+[23] The Applicant received a response from the CRA dated July 18, 2019 regarding the objection filed. The CRA confirmed not being able to grant the application for an extension of time to file an objection on the basis that the application should have been filed no later than February 12, 2016.
+[24] In response to the CRA’s July 18, 2019 letter, the Applicant filed on October 17, 2019 with this Court an application for an extension of time to file a notice of objection in accordance with section 166.2 ITA. The Applicant’s reason for the application to extend time expressly refers to the intention to file an appeal but acknowledge he was waiting to hear back from the accountant for advice and they ended up doing so one day late. The Court understands that the deadline the Applicant refers to is subsection 166.2(1) ITA in fine’s deadline quoted in paragraph 19 above. The Court also understands that the accountant was still acting for the Applicant at that time of filing the application as the accountant wrote to the Court on October 24, 2019 confirming that he is representing the Applicant and wanted to add supporting documentation to the Applicant’s application filed before the Court.
+[25] Subsection 244(14) ITA states:
+(14) For the purposes of this Act, where any notice or notification described in subsection 149.1(6.3), 152(3.1), 165(3) or 166.1(5) or any notice of assessment or determination is mailed, or sent electronically, it shall be presumed to be mailed or sent, as the case may be, on the date of that notice or notification.
+[emphasis added.]
+[26] The Applicant did not assert or allege, at the hearing or upon filing the application with the Court, that the July 18, 2019 notification was not mailed or received.
+[27] The Applicant’s application filed with the Court on October 17, 2019 requesting for an extension to file a notice of objection was then filed after the expiration of 90 days after the day on which notification of the decision was mailed to the Applicant. The fact that the Applicant waited until October 17, 2019 to file the application with the Court is very unfortunate since the application is statute-barred. The Court has no authority to waive the statutory time limit referred to in subsection 166.2(1) ITA in fine.
+[28] The courts have firmly established that these deadlines are mandatory and may not be set aside. In applying section 166.1 ITA, Bowie J. of the Tax Court of Canada explained in Pereira (Pereira v The Queen, 2008 TCC 2, affirmed by 2008 FCA 264) that:
+22 . . . neither [the taxpayer’s] misfortune nor the apparent negligence of his solicitor gives me licence to ignore mandatory provisions of the two statutes that were put there by Parliament in very precise terms and for very good reasons.
+[29] This was also discussed by the Federal Court of Appeal in Canada v Carlson, 2002 FCA 145 where Nadon, J.A. stated:
+As this Court has held on numerous occasions, when a taxpayer is unable to meet the deadline prescribed by the Act, even by reason of a failure of the postal system, neither the Minister nor the TCC [Tax Court of Canada] can come to his help. (See Schafer v R., [2000] F.C.J. No. 1480 (Fed. C.A.) ; Bowen v Minister of National Revenue, 1991 CanLII 13528 (FCA)). Hence, if a postal failure cannot save a taxpayer, he will not be saved by his failure to grasp the significance of a notice of assessment served on him.
+[30] Based on the foregoing, the Court has no jurisdiction to hear the Applicant’s application as subsection 166.2(1) ITA precludes the Court from having authority to hear the Applicant’s application filed after the expiration of the mandatory 90 days’ delay. This situation suffices to dismiss the Applicant’s application.
+- observation: the circumstances of the present case on the jurisdiction issue
+[31] Whether or not the notice of reassessment dated November 14, 2014 was received by the Applicant does not affect the absence of jurisdiction. A similar situation was addressed by this Court in Burke v The Queen, 2012 TCC 378:
+[27] With respect to the 1999 taxation year, Ms. Burke has failed to meet the first hurdle. The Minister denied her subsection 166.1(1) of the Act application made in April 2008 and notified her in May 2008. She did not apply to this Court within the requisite 90-day period. The Appellant argues that, assuming that Notices of Assessment or Reassessment were mailed for 1998 and 1999, the Respondent has not proven the date of mailing so the time period remains open. If I find that the 1998 and 1999 Notices of Assessment were mailed, which I do, it follows that by making the subsection 166.1(1) of the Act application to the Minister, there is some acknowledgment from Ms. Burke that she was aware of that fact, obviously prior to mailing the subsection 166.1(1) of the Act application. While there may not be conclusive proof from the Respondent as to exactly when the notices were mailed, I cannot turn a blind eye to the specific procedural requirements of the Act. If a taxpayer applies to the Minister for an extension, which Ms. Burke did in April 2008, and that request is denied, which it was in May 2008, Ms. Burke had 90 days to apply to this Court. She did not do that and cannot now claim that it does not matter because there is no proof of the date of mailing of the Notice of Assessment, effectively picking which rule she will or will not abide by. Once she decided to file the subsection 166.1(1) of the Act application to the Minister, it was incumbent on her to follow the procedure she had chosen to continue her objection. She did not.
+[28] The Court does not have jurisdiction to grant an application for extension of time to file a Notice of Objection for the 1999 taxation year when it is made past the 90-day limitations set forth in subsection 166.2(1) of the Act. The application is quashed.
+[emphasis added.]
+[32] In De Lucia Estate v The Queen, 2010 TCC 479 [De Lucia], Justice Hogan of this Court was also dealing with a situation similar to the present case. In De Lucia, the applicant did not allege that the reassessment was not properly sent and the CRA did not introduce evidence that it was, but by letter dated August 4, 2009 the CRA rejected the notice of objection and the request for an extension of time on the grounds that the 90-day deadline to object had passed and more than one year had elapsed from the expiry of the 90-day deadline to object:
+The letter dated August 4, 2009 from the CRA to the Applicant clearly stated that they would not grant an extension of the time for filing an objection. Thus, the Applicant had 90 days from that date in which to file the application currently under consideration by the Court. The fact that she waited until February 19, 2010 to do so is unfortunate since the application is clearly statute-barred.
+[emphasis added.]
+[33] The sequence set by the Applicant that includes (i) a notice of objection filed on July 4, 2019, (ii) a decision letter from the CRA dated July 18, 2019 denying the Applicant’s right to object and to an extension of time, and (iii) an application filed by the Applicant on October 17, 2019 before this Court, confirmed the applicable provision of the ITA that could give this Court authority to act in the present case. This central provision is section 166.2 ITA.
+[34] Therefore, and notwithstanding the circumstances raised by the Applicant, section 166.2 ITA must be applicable in order to vest jurisdiction in the Court to hear the Applicant’s application. Unfortunately, subsection 166.2(1) ITA in fine does not give the Court jurisdiction to be seized of the Applicant’s application as the application was filed with the Court after the expiration of 90 days after the day on which notification of the decision under subsection 166.1(5) ITA was mailed to the Applicant.
+- additional observation: condition in 166.2(5)(a) ITA
+[35] Even if this Court accepts a moment that subsection 166.2(1) ITA in fine does not preclude the Court from having jurisdiction to hear the Applicant’s application, which it does not, it would then have to be established inter alia that the Applicant has fulfilled the condition of paragraph 166.2(5)(a) ITA.
+[36] According to the CRA’s decision letter dated July 19, 2019, the ultimate deadline for filing an application with the Minister under subsection 166.1(1) ITA covering the 90-day period to file a notice of objection and the one-year period following the 90-day period was February 12, 2016.
+[37] The notice of objection filed by the Applicant and his agent at the time was filed on July 4, 2019. Therefore, the only possibility for the Applicant to succeed would have been to establish that the notice of reassessment was not sent or mailed by the CRA on November 14, 2014. Otherwise, paragraph 248(7) ITA deems the notice to have been received and whether the notice is received by the taxpayer becomes irrelevant (see Mpamugo v The Queen, 2016 TCC 215 (upheld on appeal (2017 FCA 136) [Mpamugo]).
+[38] Justice Graham of this Court in Mpamugo, and later in DaSilva v The Queen, 2018 TCC 74, reviews the 4 steps that need to be satisfied when a taxpayer alleges that the Minister did not mail/send a notice of assessment. In some cases, this issue can become relevant because the limitation period for filing a notice of objection started with the sending of a notice of assessment or reassessment (subsection 165(1) ITA). Once the sending date is established (either through presumption in the ITA or through proof of a different date), the assessment is deemed to have been made on that date (subsection 244(15) ITA) and the notice of assessment is deemed to have been received on that date (subsection 248(7) ITA).
+[39] The first step identified by Justice Graham is for the taxpayer to assert that the notice of assessment was not sent. A taxpayer normally does so in one of two ways. The taxpayer may assert that he or she did not receive the notice of assessment and thus believes that it was not sent. Alternatively, the taxpayer may assert that the notice was sent to the wrong address through no fault of the taxpayer and was thus, in effect, not sent. The Federal Court of Appeal made it clear in Mpamugo that if the taxpayer’s assertion is not credible, there is no need to proceed to Step 2.
+[40] There is no mention in the application filed by the Applicant with the Court that a reassessment was not sent. Moreover, during the Applicant’s testimony and cross-examination, the Court is of the view that the Applicant did not, on a balance of probabilities, succeed in alleging that the notice of reassessment was not sent by the CRA. The Applicant was sometimes certain and sometimes uncertain about the fact that he received the notice of reassessment dated November 14, 2014 and sometimes believed that he might have received it. He mentioned initially in his testimony that he never received the reassessment. During the last segment of his testimony and the submissions, he was “absolutely positive that one was done,” “very positive, very sure, that there was a reassessment done, I have just never received it”. According to this Court, the fact that all his documents remain with his former agent combined with a limited understanding of the accountant’s reasons for the application made him hesitant, inconsistent and uncertain about important facts. Moreover, the initiative before the Court was his accountant’s advice at the time and the Applicant did not have a clear understanding of its legal value. The situation about whether the notice was received is not relevant for purposes of the test.
+[41] From the application, testimony and submissions, the Court found that the Applicant did not allege that the notice of reassessment was not sent. The lack of consistency during the Applicant’s testimony in relation to the notice of reassessment does not support a credible testimony on this central issue. The Court cannot find that the Applicant was credible if he has sought to assert that the notice of reassessment was not sent. Unfortunately, the explanations offered by the Applicant in this regard are ambivalent and unclear, and are not sufficiently convincing or persuasive in retrospect to allow the Court to accept a credible testimony from the Applicant that Step 1 could be satisfied. Even in respect of the possibility that the notice of reassessment might not have been received, which as mentioned is not in and of itself sufficient, the evidence and submissions at the hearing do not explain the rationale, or offer any reasons, explanations or circumstances that could have been responsible or relevant for not having received the reassessment, although all other correspondence was received. The Appellant's management and diligence with respect to his tax records, which were exposed at the hearing, were also not aspects that appeared supportive of his case.
+[42] Therefore, even if this Court accepts a moment as mentioned above, which it does not, that subsection 166.2(1) ITA in fine does not preclude the Court from having jurisdiction to deal with the Applicant’s application, Step 1 above would not be satisfied as no credible evidence or explanations on the issue of not sending the notice of reassessment was given or alleged at the hearing or in the proceedings.
+[43] The Court is a statutory court. The Court is not an equity court, and unfortunately cannot address unfair situations.
+VII. Conclusion
+[44] While the above analysis discusses various factors that might have been determinative in other circumstances, the lack of jurisdiction in this case is sufficient to justify the Court's decision. Regrettably, and although sympathetic circumstances were presented, no legal or factual basis or combination thereof affords this Court the power to grant the application.
+[45] For all these reasons, the application for an extension of time to file a notice of objection with the Minister pursuant to section 166.2 ITA relating to the Applicant’s 2012 taxation year will be dismissed, without costs.
+Signed at Québec, Québec, this 19th day of April 2023.
+“J.M. Gagnon”
+Gagnon J.
+CITATION:
+2023 TCC 50
+COURT FILE NO.:
+2019-3822(IT)APP
+STYLE OF CAUSE:
+G DEWAR LAING AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+January 26, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+April 19, 2023
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Amanda De Bruyne
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

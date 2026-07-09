@@ -1,0 +1,148 @@
+---
+title: "Peddle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71812/index.do"
+last_modified: "2014-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 177"
+citation2: ""
+neutral_citation: "2014 CCI 177"
+decision_date: "2014-05-27"
+language: "fr"
+item_id: "71812"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5385
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:55:44.975000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "894b7c24a98b596a2db33e27bd70b3001273937cd650ad1bb55af63d5f1015f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peddle c. La Reine
+
+- Citation: 2014 CCI 177
+- Decision date: 2014-05-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5385, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peddle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-27
+Référence neutre
+2014 CCI 177
+Numéro de dossier
+2013-381(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-381(GST)I
+ENTRE :
+DOUG PEDDLE, NANCY CLEVELAND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 novembre 2013, à Windsor (Ontario) et par conférence téléphonique le 22 janvier 2014
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ryan Gellings
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 14 mars 2012 pour la période allant du 1er novembre au 31 décembre 2011 au titre de la Loi sur la taxe d’accise est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 27e jour de mai 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 10e jour de juillet 2014.
+S. Tasset
+Référence : 2014CCI177
+Date : 20140527
+Dossier : 2013-381(GST)I
+ENTRE :
+DOUG PEDDLE, NANCY CLEVELAND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+Question préliminaire [1] À titre préliminaire, l’intimée a présenté une requête en vue d’obtenir une ordonnance voulant que l’intitulé du présent appel soit modifié pour que le nom de l’appelant, « Doug Peddle », soit remplacé par le nom de la société de personnes, à savoir « Doug Peddle, Nancy Cleveland ». L’appelante n’a pas fait opposition à la requête et l’intitulé a été modifié.
+[2] Le ministre du Revenu national (le « ministre ») a refusé à l’appelante un crédit de taxe sur intrants (« CTI ») de 5 850 $ en se fondant sur le fait que l’appelante n’exerçait pas une activité commerciale au cours de la période s’étendant du 1er novembre au 31 décembre 2011. En rejetant la demande de CTI, le ministre a invoqué un argument subsidiaire selon lequel la facture présentée par la société de personnes ne comportait pas le numéro d’inscription à la TPS du fournisseur comme l’exige le paragraphe 169(4) de la Loi sur la taxe d’accise (la « LTA »).
+[3] Doug Peddle et Nancy Cleveland sont mari et femme. Ils souhaitaient participer au Programme de tarifs de rachat garantis pour les microprojets de l’Ontario (« programme de TRG pour les microprojets »), grâce auquel ils obtiendraient un prix garanti pour toute l’électricité produite et livrée au réseau électrique de l’Ontario. À cette fin, le 29 décembre 2011, ils ont signé un contrat d’achat de panneaux solaires avec Trans Canada Solar Ltd. (« Trans Canada »). Le coût total des panneaux solaires était de 50 850,28 $. Ils ont versé un acompte de 22 350,03 $, dont 5 850,03 $ de TVH.
+[4] Trans Canada n’a pas livré les panneaux solaires à l’appelante.
+[5] La question est de savoir si l’appelante avait commencé son entreprise dans le cadre du programme de TRG pour les microprojets.
+[6] La définition d’« activité commerciale » donnée à l’article 123 de la LTA comprend notamment ce qui suit :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+[7] Le terme « entreprise » est ainsi défini à l’article 123 de la LTA :
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[8] L’entreprise envisagée par l’appelante devait vendre de l’électricité à l’Office de l’électricité de l’Ontario (« OPA ») dans le cadre du Programme de TRG pour les microprojets. Pour être acceptée dans le programme, l’appelante devait suivre la procédure mise en place par l’OPA. Selon les documents déposés en preuve, l’appelante devait signer un contrat avec une société locale d’électricité, En Win Utilities (« En Win »). En Win devait inspecter et approuver l’installation des panneaux solaires sur la toiture de l’appelante avant que l’appelante puisse présenter une demande à l’OPA dans le cadre du programme de TRG pour les microprojets.
+[9] À mon avis, l’entreprise de l’appelante n’a pas commencé entre le 1er novembre et le 31 décembre 2011 ou à n’importe quel autre moment. La seule mesure prise par l’appelante pour commencer son entreprise a été d’acheter les panneaux solaires. L’une des étapes essentielles pour la conduite de son entreprise était de signer un contrat avec En Win, ce qu’elle n’a pas fait : Gartry (WC) v. Canada, [1994] 2 C.T.C. 2021 (CCI).
+[10] À l’audition de l’appel, Doug Peddle a déclaré qu’il souffrait de dyslexie et il a obtenu un délai supplémentaire pour prendre connaissance de la jurisprudence invoquée par l’avocat de l’intimée et pour se préparer en conséquence. Une conférence téléphonique a eu lieu deux mois après la date de l’appel et M. Peddle a soulevé les points suivants :
+a) Il a été victime de fraude. Le ministre administre la TVH et devrait être tenu de faire enquête sur les personnes qui sont inscrites sous le régime de la LTA.
+b) Ses droits au titre des articles 7 et 15 de la Charte canadienne des droits et libertés (la « Charte ») ont été violés en raison de sa dyslexie. Il devrait pouvoir retenir les services d’une personne pour effectuer des recherches en son nom et les honoraires de cette personne devraient être payés par le gouvernement.
+[11] En ce qui a trait au premier point soulevé par M. Peddle, le litige entre lui et Trans Canada est une affaire privée. D’après les éléments de preuve, M. Peddle a poursuivi Trans Canada à la Cour des petites créances et a eu gain de cause et la cour lui a accordé 22 350,03 $, plus les intérêts après jugement, mais il n’a pu récupérer le montant total. La question de savoir si une fraude a été perpétrée contre M. Peddle ne relève ni du ministre, ni de la Cour.
+[12] Les droits garantis à M. Peddle par l’article 7 de la Charte n’ont pas été violés. En l’espèce, sa vie, sa liberté et la sécurité de sa personne n’ont pas été affectées.
+[13] M. Peddle a déclaré qu’il ne pouvait présenter adéquatement sa preuve parce qu’il avait besoin d’aide pour effectuer des recherches juridiques. Il estime que cette aide juridique devrait être payée par le gouvernement et que le défaut de fournir des ressources nécessaires pour qu’il puisse retenir les services d’un recherchiste constituait une atteinte à ses droits garantis par l’article 15 de la Charte.
+[14] À mon avis, l’article 15 de la Charte n’est pas en cause dans le présent appel. Il n’existe pas de droit constitutionnel général à l’assistance d’un avocat ou à l’aide juridique au Canada : Christie c. Colombie-Britannique (Procureur général), 2007 CSC 21.
+[15] En conclusion, l’appelante ne pouvait demander de CTI pour la période allant du 1er novembre au 31 décembre 2011 parce qu’elle n’exerçait pas d’activité commerciale. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de mai 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 10e jour de juillet 2014.
+S. Tasset
+RÉFÉRENCE :
+2014CCI177
+NO DE DOSSIER DE LA COUR :
+2013-381(GST)I
+INTITULÉ :
+DOUG PEDDLE, NANCY CLEVELAND ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 novembre 2013
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 27 mai 2014
+COMPARUTIONS :
+Pour l’appelante :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ryan Gellings
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

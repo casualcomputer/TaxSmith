@@ -1,0 +1,304 @@
+Title: Klemen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72944/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-244-72944-klemen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-07-29
+
+# Klemen c. La Reine
+
+- Citation: 2014 CCI 244
+- Decision date: 2014-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5360, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klemen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-29
+Référence neutre
+2014 CCI 244
+Numéro de dossier
+2009-3619(GST)G, 2010-128(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2010-128(IT)G
+2009-3619(GST)G
+ENTRE :
+EDWARD KLEMEN,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 28 avril 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me Sanjaya R. Ranasinghe
+Avocate de l’intimée :
+Me Cynthia Isenor
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies au titre de
+la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont accueillis, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints ainsi qu’aux concessions qui y sont indiquées.
+Les appels interjetés à l’encontre des cotisations établies au titre de
+la Loi sur la taxe d’accise pour les périodes de déclaration du 1er janvier au 31 décembre 2004 et du 1er janvier au 31 décembre 2005, ainsi que pour les périodes de déclaration du 1er janvier au 31 décembre 2006 et du 1er janvier au 31 décembre 2007 sont accueillis, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints ainsi qu’aux concessions qui y sont indiquées.
+Les parties ont trente jours pour s’entendre sur les dépens, à défaut de quoi chacune présentera des observations sur ces derniers, d’une longueur maximale de cinq pages, à l’expiration du délai susmentionné.
+Signé à Magog (Québec), ce 29e jour de juillet 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 7e jour de novembre 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 244
+Date : 20140729
+Dossiers : 2010-128(IT)G
+2009-3619(GST)G
+ENTRE :
+EDWARD KLEMEN,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu
+[1] En 2004 et en 2005, Edward Klemen (l’« appelant ») a transféré de l’équipement pour champ pétrolifère (l’« équipement »), à Canadian Hydrex Limited (« CHL »), une entreprise avec laquelle il avait un lien de dépendance. En contrepartie de cet équipement, CHL a porté les sommes de 135 000 $ et de 38 500 $ au crédit du compte de prêt d’actionnaire de l’appelant dans les années d’imposition de CHL se terminant les 30 septembre 2004 et 2005, respectivement. L’appelant n’a déclaré aucun revenu provenant du transfert de l’équipement pour son année d’imposition 2004, soutenant que le produit de la disposition était égal au prix de base rajusté (« PBR ») de l’équipement. Pour son année d’imposition 2005, l’appelant a déclaré un gain en capital de 43 500 $. Il n’a ni perçu ni versé la taxe sur les produits et services (« TPS ») à l’égard du transfert de l’équipement dans l’une ou l’autre de ces années d’imposition. Le ministre du Revenu national (le « ministre ») a établi à l’égard de ce transfert une série de cotisations pour revenu d’entreprise non déclaré, TPS non versée et avantages conférés à un actionnaire, dont une établie après l’expiration de la période normale de nouvelle cotisation. Les présents appels portent sur ces cotisations.
+[2] Avant le procès, les parties ont réglé la question de la cotisation concernant les avantages conférés à l’actionnaire et ont fait des concessions sur un certain nombre d’autres questions, dont certaines sont exposées en détail dans une lettre adressée à la Cour en date du 17 avril 2014, et d’autres décrites ci‑après (les « concessions »). La Cour demeure toutefois saisie de quatre points en litige. Le premier consiste à savoir si le ministre était en droit d’établir une cotisation à l’égard de l’appelant après l’expiration de la période normale de nouvelle cotisation. Le deuxième consiste à savoir si le produit de la disposition du transfert de l’équipement était à titre de capital ou à titre de revenu. Le troisième concerne la détermination du PBR de l’équipement. Et le quatrième et dernier est celui de savoir de quel montant de TPS, le cas échéant, l’appelant est redevable relativement au transfert.
+II. Le contexte factuel
+[3] Les parties ont déposé un exposé conjoint des faits qui, de pair avec les faits présentés au procès, est résumé ci-dessous.
+[4] À partir des années 1980, et pendant toute la durée d’une longue carrière dans le domaine pétrolier, l’appelant a fait l’acquisition de diverses pièces d’équipement pour champ pétrolifère, dont une partie est l’équipement visé par les présents appels.
+[5] Il a fait l’acquisition de cet équipement de diverses façons. Il en a acheté une partie d’occasion et il soutient en avoir reçu une autre en guise de paiement pour diverses dettes qui lui étaient dues. Cependant, il ne dispose d’aucun document qui explique en détail l’acquisition de l’équipement. Il a témoigné avoir détruit ses registres de stocks au cours de l’année 1999. En contre‑interrogatoire, il a admis qu’il ignorait combien il avait payé pour l’équipement.
+[6] Il a déclaré avoir fait l’acquisition d’une partie de l’équipement par l’intermédiaire d’Edge Energy Ltd. (« Edge Energy »), qu’il possédait conjointement avec son frère, George Klemen. Edge Energy était une entreprise de production de pétrole. L’appelant soutient avoir reçu une partie de l’équipement en guise de paiement pour un prêt d’actionnaire impayé. Il affirme que les états financiers d’Edge Energy exposent en détail le transfert de cet équipement.
+[7] L’appelant s’est servi de l’équipement dans le cadre de diverses entreprises commerciales. Habituellement, il le remettait en état et le louait à de petites sociétés pétrolières au dixième environ de son coût. Il a également utilisé une partie de l’équipement dans ses propres entreprises de production pétrolière, dont Edge Energy et Free West Energy.
+[8] CHL était l’une des nombreuses entreprises commerciales de l’appelant. Au cours de la période pertinente, ce dernier était l’unique actionnaire et administrateur de 328859 Alberta Inc., qui était propriétaire à 100 % de CHL. L’appelant était administrateur, dirigeant et actionnaire indirect de CHL.
+[9] CHL avait pour entreprise d’acheter, de remettre en état et de vendre de l’équipement pour champ pétrolifère, de procéder au nettoyage de déversements de pétrole et de démanteler des installations. L’appelant était la seule personne qui exploitait les activités commerciales de CHL. Avant la période pertinente, l’appelant autorisait CHL à utiliser l’équipement dans le cadre de ses activités commerciales. Il a témoigné qu’il ne percevait pas de loyer de CHL pour l’utilisation de l’équipement, parce qu’il ne voulait assumer aucune responsabilité qui soit associée à ce dernier.
+[10] En 2004 et en 2005, l’appelant a transféré l’équipement à CHL. Il a dit l’avoir fait pour prendre ses distances par rapport à toute responsabilité personnelle associée à son utilisation.
+[11] En contrepartie du transfert de l’équipement en 2004, CHL a porté la somme de 135 000 $ au crédit du compte de prêt d’actionnaire de l’appelant. Celui-ci avait estimé que cette somme était égale à ce que l’équipement lui avait coûté.
+[12] En 2005, l’appelant a transféré le reste de l’équipement à CHL. Pour cette année-là, il a déclaré le gain en capital suivant :
+2005 ($)
+Produit de la disposition
+73 500
+Coût des biens vendus (TPS incluse)
+(30 000)
+Gain en capital
+43 500
+CHL a porté la somme de 38 500 $ au crédit du compte de prêt d’actionnaire de l’appelant.
+[13] Pour les années 2004 et 2005, CHL a déclaré des gains en capital sur la vente de l’équipement à des tiers, selon ce qui suit :
+2004 ($)
+2005 ($)
+Produit de la disposition
+154 099,54
+405 300,00
+Coût des biens vendus (TPS incluse)
+(100 000)
+(153 500)
+Gain en capital
+54 099,54
+251 800,00
+Il vaut la peine de mentionner ici que CHL a déclaré que le PBR combiné de l’équipement transféré au cours des deux années en question était de 253 000 $, soit 80 000 $ de plus que ce que l’appelant prétend avoir reçu en crédits portés à son compte de prêt d’actionnaire. Dans les observations qu’elle a faites à
+la Cour , l’avocate de l’intimée a fait valoir que l’appelant avait reçu de CHL la somme de 80 000 $ en argent comptant, mais personne n’a témoigné sur ce fait.
+[14] En ce qui concerne l’impôt sur le revenu, le ministre a établi une première cotisation à l’endroit de l’appelant pour les années d’imposition 2004 et 2005 le 5 mai 2005 et le 11 mai 2006, respectivement. Le 26 février 2008, le ministre a établi une nouvelle cotisation à l’égard des années d’imposition 2004 et 2005 de l’appelant (collectivement, la « première nouvelle cotisation ») en vue d’inclure les revenus non déclarés et les avantages conférés à l’actionnaire, selon ce qui suit :
+2004 ($)
+2005 ($)
+Revenu net non déclaré
+126 154
+110 734
+Dépôts bancaires non identifiés
+10 096
+Revenu locatif – bureau à domicile
+3 000
+3 000
+Avantages à l’actionnaire
+68 873
+32 533
+Contre-passation du gain en capital imposable
+(21 750)
+Total des rajustements
+198 027
+134 613
+[15] Le ministre a tenu pour acquis que l’achat et la vente de l’équipement étaient un risque de nature commerciale et que, de ce fait, l’appelant avait tiré un revenu d’entreprise des opérations. Il a aussi tenu pour acquis que l’appelant avait acheté l’équipement à un prix global symbolique de 30 $.
+[16] L’appelant a dûment produit des avis d’opposition à la première nouvelle cotisation. Par la suite, le ministre a procédé à d’autres rajustements pour les années d’imposition 2004 et 2005 de l’appelant au moyen d’avis de nouvelle cotisation datés du 8 octobre 2009 (collectivement, la « seconde nouvelle cotisation ») et menant aux rajustements suivants :
+2004 ($)
+2005 ($)
+Revenu net non déclaré
+90 093
+Avantages à l’actionnaire
+(3 210)
+(3 210)
+Total des rajustements
+86 883
+(3 210)
+[17] La seconde nouvelle cotisation a été fondée sur le fait que la juste valeur marchande de l’équipement était le prix auquel CHL l’avait vendu à des tiers. Il en a résulté une cotisation à la hausse de 90 093 $ au titre de l’article 69 de
+la Loi de l’impôt sur le revenu (la « Loi »), soit la différence entre a) la valeur à laquelle l’équipement avait été transféré à CHL et b) la valeur à laquelle il avait été revendu à des tiers. La seconde nouvelle cotisation a été établie après l’expiration de la période normale de nouvelle cotisation de trois ans. À titre de question préliminaire, l’appelant soutient que la seconde nouvelle cotisation est frappée de prescription. Seul le rajustement à la hausse de 90 093 $ pour l’année d’imposition 2004 de l’appelant est en litige dans le cas de la seconde nouvelle cotisation.
+[18] En ce qui concerne l’appel relatif à
+la TPS , l’appelant n’a déclaré aucun montant de TPS perçu ou à percevoir à l’égard du transfert de l’équipement. Le ministre a établi par la suite une nouvelle cotisation à l’endroit de l’appelant pour avoir omis de percevoir
+la TPS sur la contrepartie qu’il avait reçue de CHL pour l’équipement. Plus précisément, une cotisation a été établie à l’endroit de l’appelant pour avoir omis de percevoir la somme de 22 889 $ pour les périodes de déclaration du 1er janvier 2004 au 31 décembre 2005 (la « période de déclaration de 2004‑2005 » et la somme de 13 748,92 $ pour la période de déclaration du 1er janvier 2006 au 31 décembre 2007 (la « période de déclaration de 2006‑2007 »).
+[19] Le ministre a initialement établi une cotisation à l’endroit de l’appelant pour un montant de taxe nette non déclaré à l’égard de la période de déclaration de 2004‑2005 par la voie d’un avis de cotisation daté du 18 janvier 2008. Par un avis de nouvelle cotisation daté du 19 août 2009, le ministre a par la suite modifié cette cotisation en la rajustant à la hausse.
+[20] Au début du procès, l’intimée a concédé que, pour ce qui était des appels relatifs à
+la TPS , l’article 155 de
+la Loi sur la taxe d’accise (la « LTA ») ne s’appliquerait pas de manière à considérer que la disposition de l’équipement avait eu lieu à sa juste valeur marchande. Cela annule le rajustement à la hausse établi par la nouvelle cotisation datée du 19 août 2009. Cette concession a pour effet de réduire le montant de TPS censément percevable de 6 307 $ pour la période de déclaration de 2004‑2005, lequel montant totalise maintenant 16 582 $.
+[21] Au procès également, l’avocate de l’intimée a fait valoir que, en plus des 38 500 $ portés au crédit de son prêt d’actionnaire en 2005, l’appelant a reçu de CHL une somme de 80 000 $ en argent comptant. Cette position n’a pas été expressément plaidée, pas plus que le témoin de l’intimée n’en a traité, mais le ministre soutient qu’elle figurait implicitement dans le montant de taxe nette pour lequel l’appelant a été l’objet d’une cotisation dans la période de déclaration de 2004‑2005.
+III. Analyse
+(1) Une question préliminaire : la prescription
+[22] À titre de question préliminaire, l’appelant soutient qu’il y a lieu d’annuler la seconde nouvelle cotisation, parce qu’elle a été établie après l’expiration de la période normale de nouvelle cotisation et que les conditions énoncées au paragraphe 152(4) de
+la Loi n’ont pas été remplies. L’intimée fait valoir que les limites énoncées au paragraphe 152(4) de
+la Loi ne s’appliquent pas à la seconde nouvelle cotisation, car celle‑ci a été établie après que le ministre a examiné l’avis d’opposition que l’appelant a déposé au sujet de la première nouvelle cotisation. L’intimée se fonde à cet égard sur le libellé du paragraphe 165(5) de
+la Loi :
+165(5) Validité d’une nouvelle cotisation – Les restrictions prévues aux paragraphes 152(4) et (4.01) ne s’appliquent pas aux nouvelles cotisations établies en vertu du paragraphe (3).
+[23] Je ne suis pas d’accord avec la manière dont l’intimée interprète le paragraphe 165(5) de
+la Loi. Certes, cette disposition, interprétée littéralement, pourrait étayer l’argument de l’intimée, mais dans l’arrêt Canada c. Anchor Pointe Energy Ltée [1]
+la Cour d’appel fédérale (la « CAF ») a décrété qu’une nouvelle cotisation établie après l’expiration de la période normale de nouvelle cotisation, postérieurement à l’examen de l’avis d’opposition du contribuable, ne peut faire augmenter l’impôt que le contribuable doit payer, sauf si l’on respecte les limites énoncées au paragraphe 152(4) de
+la Loi. Pour ce qui est de la portée des paragraphes 165(3) et (5) de
+la Loi , le juge Rothstein a fait le commentaire suivant [2] :
+Je ne puis partager l’avis du juge Rip selon lequel la période normale de nouvelle cotisation reste en suspens ou est prolongée jusqu’à ce que le ministre pose une action en vertu du paragraphe 165(5). Il découlerait d’une telle interprétation que, parce qu’un contribuable dépose un avis d’opposition, le ministre dispose d’un délai illimité pour établir une nouvelle cotisation à son endroit et augmenter le montant d’impôt qu’il doit payer, après l’expiration de la période normale de nouvelle cotisation.
+[…]
+À mon avis, le paragraphe 165(5) autorise le ministre à établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation lorsqu’un avis d’opposition a été déposé, mais pas de manière à inclure dans le revenu du contribuable des sommes qui n’étaient pas incluses dans une cotisation ou une nouvelle cotisation établie pendant la période normale de la nouvelle cotisation.
+[Non souligné dans l’original.]
+[24] Le ministre a ajouté une somme supplémentaire de 90 093 $ en revenu non déclaré par la voie de la seconde nouvelle cotisation, au motif que la juste valeur marchande de l’équipement était supérieure à la contrepartie que l’appelant avait reçue de CHL. Conformément aux principes reconnus dans l’arrêt Anchor Pointe, la seconde nouvelle cotisation doit être annulée sauf si l’on peut établir que les conditions énoncées au paragraphe 152(4) de
+la Loi ont été remplies.
+[25] L’application du paragraphe 152(4) de
+la Loi est soumise à deux conditions, et il incombe au ministre d’établir, selon la prépondérance des probabilités, que les deux ont été remplies. La première est que le contribuable doit avoir fait une présentation erronée des faits; la seconde est que cette présentation erronée a été faite par négligence, inattention ou omission volontaire [3] .
+[26] Bien que ce ne soit pas clairement établi, dans ses observations orales et écrites, l’avocate de l’intimée semble laisser entendre que la seconde nouvelle cotisation est valide, parce qu’il ressort de la preuve que l’appelant a fait une présentation erronée des faits en omettant de déclarer le revenu découlant de la vente de l’équipement à CHL et que cette présentation erronée était due à une négligence de sa part. Je signale que cette position n’a pas été mise de l’avant dans la réponse de l’intimée à l’avis d’appel (la « réponse »). En fait, d’après les paragraphes 26 et 27 de la réponse, les nouvelles cotisations ne sont pas frappées de prescription, et ce, pour les raisons suivantes [4] :
+[traduction]
+La déclaration de revenus de l’appelant pour
+2004 a été l’objet d’une première cotisation du ministre le 5 mai 2005, et sa déclaration de revenus pour
+2005 a été l’objet d’une première cotisation du ministre le 11 mai 2006. Le ministre a établi une nouvelle cotisation à l’égard des années d’imposition 2004 et 2005 de l’appelant pour la première fois le 26 février 2008, et il se situait tout à fait dans les limites de la « période normale de nouvelle cotisation » que définit le paragraphe 152(3.1) de
+la Loi. Il s’ensuit donc que tout argument relatif à la prescription de ces nouvelles cotisations est sans fondement.
+L’appelant a ensuite déposé, le 17 mars 2008, des avis d’opposition aux nouvelles cotisations du 26 février 2008. En réponse à ces avis, le ministre a établi des nouvelles cotisations en application du paragraphe 165(3) de
+la Loi le 5 mai 2008. Aux termes du paragraphe 165(5) de
+la Loi , les limites qu’imposent les paragraphes 152(4) et (4.01) ne s’appliquent pas à une nouvelle cotisation établie en vertu du paragraphe 165(3). Il s’ensuit donc que tout argument relatif à la prescription des nouvelles cotisations datées du 5 mai 2008 est sans fondement.
+[Non souligné dans l’original.]
+[27] L’avocat de l’appelant m’a renvoyé à la décision Bibby c. La Reine [5] à l’appui de la position selon laquelle une partie ne peut soulever un argument qu’elle a omis d’invoquer dans ses actes de procédure. Dans cette affaire, le ministre avait établi une cotisation à l’endroit de l’appelant en se fondant uniquement sur le fait qu’il y avait un avantage à l’actionnaire, conformément à l’article 15 de
+la Loi. Dans sa réponse, l’intimée n’avait pas plaidé la question d’un revenu non déclaré aux termes soit de l’article 5 soit de l’article 6 de
+la Loi. Au procès, elle avait avancé l’argument subsidiaire selon lequel l’appelant avait omis de déclarer un revenu sous la forme d’honoraires de gestion aux termes des articles 5 ou 6 de
+la Loi. Le juge Bowie a conclu qu’il n’était pas loisible au ministre, qui avait omis de faire état dans les actes de procédure de la question du revenu non déclaré, de se fonder sur ce motif de cotisation subsidiaire. Au paragraphe 23, il a conclu :
+Le paragraphe 49(1) des Règles de procédure générale exige que la réponse indique :
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder.
+Ces exigences visent à assurer que les points litigieux soient définis de façon appropriée aux fins de l’interrogatoire préalable et de l’instruction, de façon que l’appelant sache à quels arguments il doit répondre et qu’il soit en mesure d’organiser et de présenter sa preuve en conséquence. Il ne s’agit pas d’une simple formalité dont on peut omettre de tenir compte si elle n’a pas été respectée; il s’agit d’un élément crucial du processus d’instruction, et l’intégrité de ce processus serait minée si l’on ne faisait aucun cas du manquement : voir Glisic c. La Reine.
+[28] Il est évident que l’intimée a omis d’invoquer dans sa réponse l’argument qu’elle m’invite à prendre en considération. Pour des raisons d’équité procédurale seulement, je ne puis souscrire à cet argument à cette étape tardive de l’instance.
+[29] Quoi qu’il en soit, l’intimée n’a produit aucune preuve montrant que l’omission de déclarer le revenu tiré de la vente de l’équipement était imputable à une négligence de l’appelant. Il ne suffit pas de montrer que l’appelant a fait une présentation erronée de son revenu pour 2004. L’intimée doit montrer que cette présentation erronée est imputable, notamment, à une négligence de l’appelant. Comme l’intimée ne s’est pas acquittée de son fardeau à cet égard, la seconde nouvelle cotisation, qui a majoré le revenu de l’appelant d’une somme supplémentaire de 90 093 $ en revenu non déclaré pour l’année d’imposition 2004 doit être annulée.
+(2) La distinction entre le revenu et le capital
+[30] L’intimée soutient que le gain que l’appelant a réalisé sur le transfert de l’équipement à CHL était à titre de revenu, car l’appelant avait l’intention de vendre cet équipement à une date ultérieure, quand le marché s’améliorerait. L’intimée admet que, dans l’intervalle, l’appelant entendait louer l’équipement à des tiers ou s’en servir dans l’une de ses autres entreprises commerciales.
+[31] Les deux parties citent une longue liste de décisions à l’appui de leurs positions contraires sur la question de la distinction entre le revenu et le capital. Ces décisions sont, pour la plupart, tributaires des faits qui leur sont propres. Dans la décision Continental Bank of Canada v. The Queen [6] , le juge Bowman (tel était alors son titre) fait siens les critères qu’a énoncés le juge Rouleau dans la décision Happy Valley Farms Ltd. v. The Queen [7] pour décider si un gain est à titre de revenu ou à titre de capital :
+1. La nature du bien qui est vendu. [Le bien est-il habituellement une immobilisation, ou est-ce un produit qui est vendu et acheté?]
+2. La durée de la possession. [Il y a généralement disposition d’un élément de stock peu après son acquisition, ce qui n’est pas le cas d’une immobilisation.]
+3. La fréquence ou le nombre d’opérations similaires effectuées par le contribuable. [Le contribuable vend-il habituellement de tels biens?]
+4. Les améliorations faites sur le bien converti en espèces ou se rapportant à pareil bien. [Si le contribuable prend des mesures pour améliorer le bien en vue de la revente, il s’agit tout probablement d’un élément de stock.]
+5. Les circonstances qui ont entraîné la vente du bien. [S’agissait-il d’une disposition ordinaire, ou y avait-il des considérations commerciales prépondérantes?]
+6. Le motif. [Pourquoi la disposition en question a-t-elle eu lieu?]
+[32] Le juge Linden, de
+la CAF , a énuméré d’autres facteurs en examinant en appel la décision Continental Bank [8] :
+[traduction]
+a) l’intention des parties;
+b) si la conduite du vendeur était semblable à celle d’un commerçant ordinaire;
+c) la nature et la quantité du bien en question;
+d) si les opérations étaient isolées;
+e) le caractère singulier des opérations, par rapport aux activités ordinaires du contribuable.
+[33] Après avoir apprécié tous les facteurs qui précèdent, je déduis que le gain que l’appelant a réalisé dans chacune des années d’imposition 2004 et 2005 était à titre de capital. Pour commencer, il ressort de la preuve que l’appelant s’est servi de l’équipement dans le cadre de ses diverses entreprises commerciales sur une très longue période de temps. Cet équipement a été acheté au début des années 1980 et ensuite vendu à CHL en 2004 et en 2005. Aucune preuve ne montre que l’appelant a vendu de l’équipement semblable dans des périodes d’imposition antérieures. L’appelant a effectivement permis à CHL et à d’autres sociétés dans lesquelles il détenait une participation d’utiliser l’équipement dans le cadre de leurs entreprises commerciales. Aucune preuve ne montre que l’appelant a modifié ou transformé l’équipement en vue d’obtenir un prix supérieur.
+[34] Il ressort de la preuve qu’à partir de 2001 environ l’industrie des services pétroliers a connu une forte reprise et que l’appelant a vendu l’équipement à CHL en vue de profiter de la hausse considérable et imprévue que cette situation occasionnait dans les prix de l’équipement de services pétroliers d’occasion.
+[35] Je déduis de tout ce qui précède que l’appelant a acquis l’équipement en vue de s’en servir dans le cadre de ses diverses entreprises commerciales. Les circonstances entourant la longue période de détention corroborent la déclaration de l’appelant, à savoir qu’il avait acheté l’équipement pour en tirer un revenu, soit directement, soit indirectement.
+(3) Le prix de base rajusté de l’équipement
+[36] Le ministre a tenu pour acquis que le PBR de l’équipement était de 15 $ par année. D’après l’appelant, l’hypothèse du ministre est déraisonnable, mais il n’a pas pu produire aucune preuve fiable montrant ce que l’équipement lui avait coûté. Il admet qu’il ne détient aucun document décrivant en détail l’acquisition de l’équipement. Il admet également qu’il ne peut pas dire quelle somme il a payée pour l’équipement [9] .
+[37] Pour ce qui est du fardeau de la preuve, l’appelant doit réfuter, à première vue du moins, l’hypothèse du ministre selon laquelle les biens vendus lui ont coûté 15 $ par année d’imposition [10] . Il n’a fourni aucune preuve digne de foi qui parvient à réfuter cette hypothèse.
+[38] Au procès et dans ses observations écrites, l’avocat de l’appelant a invité
+la Cour à inférer que le PBR de l’équipement était d’au moins 76 243,86 $, soit la valeur du prêt d’actionnaire inscrit dans les registres d’Edge Energy en 1999. L’appelant soutient qu’il a pris une partie de l’équipement en guise de remboursement de ce prêt. L’équipement était une contrepartie en règlement du prêt. Son avocat a fait valoir que la somme de 76 243,86 $ est probablement nettement inférieure à ce que l’appelant a réellement payé pour acquérir l’équipement, mais que son client, toutefois, était [traduction] « satisfait de recevoir un crédit pour les 76 000 $ de prêt d’actionnaire à titre de PBR » [11] .
+[39] La preuve de l’appelant à l’appui de ce montant est un bilan d’Edge Energy en date du 30 septembre 1999 [12] . En 1998, ce bilan faisait état d’une somme de 76 244 $ à titre de prêt d’actionnaire dû à l’appelant. En 1999, ce prêt a été radié, et aucun prêt dû à l’appelant n’y était inscrit. Cependant, comme le fait remarquer l’avocate de l’intimée, il n’existe aucune preuve, à part le vague témoignage de l’appelant, qui corrobore la prétention selon laquelle il a bel et bien pris de l’équipement quelconque. Rien n’étaye la conclusion que l’appelant a bel et bien fait ce prêt ou qu’il a contribué un bien en capital quelconque à Edge Energy. En bref, la preuve de l’appelant à propos du PBR de l’équipement est insuffisante pour réfuter la présomption du ministre selon laquelle ce PBR était de 15 $ par année d’imposition.
+(4)
+La TPS
+[40] Le dernier point en litige a trait au montant de TPS, le cas échéant, que l’appelant était tenu de percevoir à l’égard du transfert de l’équipement à CHL.
+[41] Au cours de la période de déclaration de 2004‑2005, le paragraphe 165(1) de
+la LTA exigeait que l’acquéreur d’une fourniture taxable paie à l’égard de cette dernière un montant de TPS calculé au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[42] Au procès et dans ses observations écrites, l’avocat de l’appelant a invoqué deux arguments subsidiaires au sujet de l’appel relatif à
+la TPS de l’appelant. Le premier est que l’appelant ne devait aucun montant de TPS. De l’avis de l’avocat, le transfert de l’équipement n’est pas une « fourniture taxable », car elle n’a pas été faite dans le cadre d’une « activité commerciale », deux expressions définies dans
+la LTA. L’appelant se fonde sur une exception que prévoit
+la LTA pour les particuliers exploitant une entreprise sans attente raisonnable de profit. L’article 123 de
+la LTA définit ce qu’est une « activité commerciale » :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[Non souligné dans l’original.]
+[43] L’appelant soutient que, même s’il exploitait une entreprise de location, il n’avait pas d’attente raisonnable de profit, car l’équipement était loué à des sociétés liées, qui n’étaient pas légalement tenues de lui payer un loyer.
+[44] Cet argument est contredit par le témoignage de l’appelant. En contre‑interrogatoire, il a déclaré : [traduction] « [m]on intention, quand j’ai acquis l’équipement, était de m’en servir pour faire de l’argent » [13] . Selon son propre témoignage, il est clair que l’appelant exploitait une entreprise avec une attente raisonnable de profit. De ce fait, le transfert de l’équipement était une « fourniture taxable » effectuée dans le cadre d’une « activité commerciale ». Au vu de cette conclusion,
+la Cour doit donc déterminer quel était le montant de TPS à percevoir.
+[45] L’argument subsidiaire de l’appelant a trait au montant de la contrepartie réellement reçue de CHL pour l’équipement. Il soutient que la contrepartie qu’il a reçue était le crédit porté à son compte de prêt d’actionnaire auprès de CHL, et rien de plus. Par contraste, le ministre estime que les prêts d’actionnaire de l’appelant ne constituaient qu’une partie de la contrepartie des fournitures de l’équipement. L’appelant, allègue-t-il, a reçu une contrepartie supplémentaire de 80 000 $ en argent comptant.
+[46] Le ministre s’appuie sur le fait que CHL a réduit ses fonds en caisse de 80 000 $ en 2005. Le grand livre général de CHL comporte une inscription indiquant que les fonds en caisse ont été réduits de 80 000 $ pour rectifier le montant de l’achat de biens vendus au prix de 195 000 $ en juin 2005 [14] . De plus, quand CHL a déclaré un gain en capital sur la vente de l’équipement à des tiers, elle a fait état d’un PBR égal au montant des prêts d’actionnaire porté au crédit du compte de l’appelant, plus une somme additionnelle de 80 000 $. L’inférence que l’avocate de l’intimée invite
+la Cour à tirer est que l’appelant a reçu une somme supplémentaire de 80 000 $ en contrepartie de la fourniture de l’équipement. La contrepartie totale que l’appelant a reçue aurait été de 135 000 $ dans son année d’imposition 2004 et de 118 500 $ dans son année d’imposition 2005. Il aurait donc omis de rendre compte d’un montant total de taxe de 16 582 $ à percevoir à l’égard de la période de déclaration de 2004‑2005.
+[47] L’avocat de l’appelant fait remarquer qu’il ressort clairement de la propre réponse de l’intimée que la vente de l’équipement à CHL a eu lieu en échange de crédits au compte de prêt d’actionnaire de l’appelant d’un montant de 135 000 $ et de 38 500 $ en 2004 et en 2005, respectivement. De plus, nulle part dans la réponse le ministre ne tient-il pour acquis que l’appelant a reçu la somme prétendue de 80 000 $ en argent comptant. Il incombe donc au ministre d’établir, selon la prépondérance des probabilités, que l’appelant a bel et bien reçu ces fonds. Je crois que le ministre n’est pas parvenu à établir ce fait.
+[48] La seule preuve au procès qui corrobore la théorie selon laquelle l’appelant a reçu 80 000 $ en argent comptant est les états financiers de CHL. Cependant, aucune annotation ne mentionne - ou rien ne dénote - que l’appelant a reçu cette somme. La preuve n’étaye pas l’inférence selon laquelle l’appelant a bel et bien reçu la somme de 80 000 $ en argent comptant. La preuve illustre uniquement que CHL a calculé que le PBR s’appliquait à la vente de l’équipement à des tiers. De ce fait, aucune preuve digne de foi ne contredit l’affirmation de l’appelant selon laquelle il n’a reçu rien de plus qu’un crédit porté à son compte de prêt d’actionnaire au cours de la période de déclaration de 2004‑2005. La contrepartie réelle que l’appelant a reçue pour l’équipement est les montants portés au crédit de son compte de prêt d’actionnaire : 135 000 $ et 38 500 $ en 2004 et 2005, respectivement.
+IV. Conclusion
+[49] En conclusion, il convient de faire droit aux appels, compte tenu de ce qui suit. Premièrement, la seconde nouvelle cotisation est annulée, car le ministre n’a pas plaidé et n’a pu établir que les conditions énoncées au paragraphe 152(4) de
+la Loi étaient remplies. Plus précisément, il lui a été impossible de montrer que la présentation erronée des faits de l’appelant a été faite par négligence, inattention ou omission volontaire.
+[50] Deuxièmement, le transfert de l’équipement à CHL a été fait à titre de capital. Le temps pendant lequel l’appelant a détenu l’équipement et son intention déclarée d’en tirer un revenu étayent sa position selon laquelle il s’agissait d’un bien en capital, et non, comme le ministre l’a présumé, d’un élément de stock.
+[51] Troisièmement, l’appelant n’a pu réfuter la présomption du ministre selon laquelle le PBR de l’équipement était de 15 $ pour chacune des années d’imposition en cause. La preuve n’étaye pas l’inférence selon laquelle l’appelant a reçu une partie de l’équipement en règlement de son prêt d’actionnaire à Edge Energy. Aucune preuve digne de foi ne corrobore l’existence d’un montant autre que celui que le ministre a présumé.
+[52] Enfin, l’appelant est tenu de payer
+la TPS à l’égard de la contrepartie qu’il a réellement reçue pour le transfert de l’équipement, soit le montant porté au crédit de son compte de prêt d’actionnaire. Aucune preuve n’étaye l’inférence du ministre selon laquelle l’appelant a reçu 80 000 $ en argent comptant.
+[53] Pour ces motifs, les appels sont accueillis.
+Signé à Magog (Québec), ce 29e jour de juillet 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 7e jour de novembre 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 244
+NOS DE DOSSIER DE
+LA COUR :
+2010-128(IT)G
+2009-3619(GST)G
+INTITULÉ :
+EDWARD KLEMEN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 28 avril 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 29 juillet 2014
+COMPARUTIONS :
+Pour l’appelant :
+Me Sanjaya R. Ranasinghe
+Pour l’intimée :
+Me Cynthia Isenor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Sanjaya R. Ranasinghe
+Cabinet :
+Felesky Flynn LLP
+Edmonton (
+Alberta
+)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 2003 CAF 294 (« Anchor Pointe »).
+[2] Ibidem, paragraphes 33 et 35.
+[3] Boucher c. La Reine, 2004 CAF 46, autorisation de pourvoi refusée.
+[4] Réponse de l’intimée à l’avis d’appel.
+[5] 2009 CCI 588.
+[6] [1995]
+1 C .T.C. 2135 (CCI); confirmée par [1998] 2 R.C.S. 358; confirmée par [1996]
+3 C .T.C. 14 (CAF) (« Continental Bank »).
+[7] 86 DTC 6421 (C.F. 1re inst.), pages 6 423 et 6 424.
+[8] Précité, note 6, page 18 (CAF).
+[9] Transcription, page 68, lignes 20 à 23.
+[10] Réponse de l’intimée à l’avis d’appel, alinéa 13(t).
+[11] Transcription, page 130, lignes 19 et 20..
+[12] Recueil conjoint de documents, onglet 42.
+[13] Transcription, page 56, lignes 13 et 14.
+[14] Recueil conjoint de documents, onglet 2, page 33.

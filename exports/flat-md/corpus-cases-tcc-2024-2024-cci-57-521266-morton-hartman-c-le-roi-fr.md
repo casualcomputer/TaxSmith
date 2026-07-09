@@ -1,0 +1,275 @@
+---
+title: "Morton Hartman c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521266/index.do"
+last_modified: "2024-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 57"
+citation2: ""
+neutral_citation: "2024 CCI 57"
+decision_date: "2024-05-03"
+language: "fr"
+item_id: "521266"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5513
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-26T09:00:57.721000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2c428ea9795fa860d7f2fc586c48842eefd09d3b95db90e1a506f65705cc7c52"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morton Hartman c. Le Roi
+
+- Citation: 2024 CCI 57
+- Decision date: 2024-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5513, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morton Hartman c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-03
+Référence neutre
+2024 CCI 57
+Numéro de dossier
+2011-269(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-269(IT)G
+ENTRE :
+BRIAN MORTON HARTMAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 13 décembre 2022 à Vancouver (Colombie-Britannique).
+Devant : l’honorable juge Henry A. Visser
+Comparutions :
+Avocats de l’appelant :
+Me Robert W. Grant, c.r.
+Me Wendy Zhang
+Avocats de l’intimé :
+Me Ifeanyi Nwachukwu
+Me Shubir (Shane) Aikat
+Me Gabriel Caron
+ORDONNANCE
+La requête de l’appelant est accueillie en partie, conformément aux motifs ci-joints. La Cour ordonne à l’intimé de répertorier et de divulguer les éléments suivants :
+a)une copie complète et non caviardée du document de travail de l’Agence du revenu du Canada (l’« ARC ») rédigé par Roy Shultis et daté du 9 septembre 1997, dont un exemplaire figure à l’onglet 25 des documents sous scellé relatifs à l’avoir minier canadien;
+b)dans la mesure où ils n’ont pas déjà été fournis à l’appelant, une copie complète et non caviardée du document de travail de l’ARC rédigé par Wayne Adams et daté du 22 décembre 1997 et du document de travail du ministère des Finances rédigé par Daniel MacIntosh et daté du 20 mai 1998, dont des exemplaires figurent à l’onglet 24 des documents sous scellé relatifs à l’avoir minier canadien;
+c)des copies de l’ensemble des autres documents, communications, notes, dossiers et éléments d’information en la possession, sous le contrôle ou sous la garde de l’intimé, qui peuvent être considérés comme des éléments de preuve extrinsèques ayant un caractère institutionnel depuis le 1er janvier 1996 et qui ont trait à l’objet, à l’intention, à la signification ou à l’interprétation de l’expression « avoir minier canadien » au paragraphe 66(15) de la Loi de l’impôt sur le revenu, en particulier les modifications apportées qui sont en cause dans le présent appel et le groupe d’appels connexes.
+Les dépens relatifs à la requête suivront l’issue de l’instance.
+Signé à Ottawa, Canada, ce 3e jour de mai 2024.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 12e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 57
+Date : 20240503
+Dossier : 2011-269(IT)G
+ENTRE :
+BRIAN MORTON HARTMAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Visser
+[1] L’appelant, Brian Morton Hartman, est l’un des quelque 700 contribuables (les « investisseurs dans Red Mile ») qui ont investi dans certaines sociétés en commandite, communément appelées « Red Mile », au cours des années 2005-2009. M. Hartman a fait l’objet d’une nouvelle cotisation par le ministre du Revenu national (le « ministre ») au moyen d’un avis de nouvelle cotisation daté du 9 juin 2010 pour l’année d’imposition 2006, aux termes de laquelle le ministre a rejeté les déductions par M. Hartman de pertes comme commanditaire de 18 810 $ et de frais d’aménagement au Canada de 37 345 $[1]. Le 25 janvier 2011, M. Hartman a déposé son avis d’appel auprès de la Cour.
+[2] L’appel de M. Hartman est une cause type pour bon nombre d’autres investisseurs dans Red Mile qui ont accepté d’être liés par le résultat de l’appel. Un grand nombre d’investisseurs dans Red Mile ont aussi refusé d’être liés par la cause type. De nombreux appels connexes en sont encore à l’étape de l’opposition à l’ARC. Bien qu’il y ait une certaine ambiguïté quant au nombre total d’oppositions et d’appels connexes, l’intimé a précédemment estimé que les investisseurs dans Red Mile ont déposé 1 093 avis d’opposition, dont 879 ayant signé des ententes les liant à la cause type[2].
+[3] Les investisseurs dans Red Mile ont précédemment été visés par six demandes de la part de l’intimé aux termes de l’article 174 de la Loi de l’impôt sur le revenu[3] pour tenter de lier tous les différents investisseurs dans Red Mile par la décision de la Cour sur une ou plusieurs questions communes (les « questions communes »). L’intimé a ensuite retiré les demandes en application de l’article 174 à la suite de la décision de la Cour d’appel fédérale dans Canada (Revenu national) c. Boguski, 2021 CAF 118.
+[4] La présente requête, déposée par l’appelant, concerne la production par l’intimé de divers documents (les « éléments d’information relatifs à l’avoir minier canadien ») pendant la phase précédant l’instruction qui, selon l’appelant, sont pertinents pour trancher les questions communes et le résultat de l’appel de la cause type de l’appelant. Dans son avis de requête modifié, M. Hartman demande une ordonnance, aux termes de l’article 88 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), pour que[4] :
+[TRADUCTION]
+1. l’intimé répertorie et divulgue tous les documents pertinents qu’il a en sa possession, sous son contrôle ou sous sa garde qui ont trait à l’objet, à l’intention, à la signification ou à l’interprétation de la définition de l’expression « avoir minier canadien » au paragraphe 66(15) de la Loi de l’impôt sur le revenu (la « Loi »), notamment :
+a) une copie complète et non caviardée du document de travail de l’Agence du revenu du Canada (l’« ARC ») (le « document de travail de l’ARC ») rédigé par Roy Shultis vers le ou vers le 9 septembre 1997;
+b) des copies de l’ensemble des documents, des communications, des notes, des dossiers et des éléments d’information en la possession, sous le contrôle ou sous la garde de l’intimé qui portent sur les échanges entre l’ARC et le ministère des Finances concernant l’objet, l’intention, la signification ou l’interprétation du paragraphe 66(15) de la Loi;
+c) des copies de tous les autres documents, communications, notes, dossiers et éléments d’information que l’intimé a en sa possession, sous son contrôle ou sous sa garde depuis le 1er janvier 1996 et qui ont trait à l’objet, à l’intention, à la signification ou à l’interprétation des modifications apportées à la définition de l’expression « avoir minier canadien » au paragraphe 66(15) de la Loi.
+[5] Pour les motifs qui suivent, je suis d’avis que la requête de l’appelant doit être accueillie en partie.
+CONTEXTE
+[6] Les faits en l’espèce ne sont généralement pas contestés. Les parties ont déposé conjointement une lettre datée du 13 septembre 2022 dans laquelle elles ont indiqué ce qui suit[5] :
+[TRADUCTION]
+Nous souhaitons vous aviser que les parties ont convenu des faits suivants, aux seules fins de la requête en production de documents de l’appelant :
+1. Tous les documents préparés, examinés ou pris en compte (par les fonctionnaires de l’Agence du revenu du Canada concernés) dans le cadre du processus de vérification et de cotisation ayant mené à la délivrance de l’avis de nouvelle cotisation daté du 9 juin 2010, qui fait actuellement l’objet de l’appel dans la présente instance, ont été divulgués et fournis à l’appelant.
+2. Les documents demandés par l’appelant dans la présente requête n’ont pas été préparés, examinés ou pris en compte (par les fonctionnaires de l’Agence du revenu du Canada concernés) dans le cadre du processus de vérification et de cotisation ayant mené à la délivrance de l’avis de nouvelle cotisation.
+3. La question de savoir si la règle générale anti-évitement prévue à l’article 245 de la Loi de l’impôt sur le revenu s’applique n’a pas été prise en compte par le ministre du Revenu national dans le cadre du processus de cotisation relatif à l’avis de nouvelle cotisation. La question a plutôt été ajoutée par le Procureur général du Canada (le « PGC ») dans sa nouvelle réponse modifiée déposée le 5 novembre 2012 (la « réponse »).
+4. Les questions de savoir si :
+a. la « redevance annuelle de base » et la participation au revenu net aux termes des ententes de redevance ont été calculées en fonction du volume ou de la valeur de la production d’une ressource minérale au sens donné à l’expression « avoir minier canadien » aux termes de l’alinéa 66(15)e) de la Loi de l’impôt sur le revenu;
+b. une tranche d’au moins 90 % de la « redevance annuelle de base » ou de la participation au revenu net était payable sur la production provenant de la ressource ou sur le produit tiré de cette production, selon la définition de l’expression « avoir minier canadien » aux termes de l’alinéa 66(15)e) de la Loi de l’impôt sur le revenu;
+n’ont pas été prises en compte par le ministre du Revenu national dans le cadre du processus de cotisation relatif à l’avis de nouvelle cotisation. Les questions ont plutôt été ajoutées par le PGC dans sa réponse.
+5. Il est entendu que l’appelant ne considère pas que tous les documents pertinents à une quelconque question en litige dans le présent appel qui sont en la possession, sous le contrôle ou sous la garde de l’intimé aux fins de l’article 82 des Règles de la Cour canadienne de l’impôt (procédure générale) ont été divulgués ou fournis à l’appelant. [Italique ajouté.]
+[7] Les parties ont également présenté les affidavits suivants :
+a)l’affidavit de Yina Qi, de la ville de Vancouver, assistante juridique, datée du 9 décembre 2022[6];
+b)l’affidavit d’Anni Lam, de la ville de Vancouver, assistante juridique, datée du 12 avril 2017[7];
+c)l’affidavit de Swati Kinkar, de la ville de Brampton, agente d’appels, datée du 20 juillet 2022[8].
+[8] En ce qui concerne la présente requête, l’intimé a déposé divers documents que la Cour doit conserver sous scellés (les « documents sous scellés relatifs à l’avoir minier canadien »). Dans la lettre d’accompagnement datée du 21 juillet 2022, l’intimé note ce qui suit[9] :
+[TRADUCTION]
+[…] Nous comprenons que les documents ci-joints représentent une bonne partie des documents qui sont demandés par l’appelant, bien qu’il soit admis que si la requête de l’appelant est accueillie et qu’une ordonnance ultérieure confirmant la requête est rendue, il pourrait être nécessaire d’effectuer une nouvelle recherche. Nous remarquons en outre que la liste ci-jointe ne comprend pas les documents non remis au motif qu’il s’agit de renseignements confidentiels du Cabinet, que l’appelant ne cherche plus à obtenir (une liste de ces documents a été remise à l’avocat de l’appelant).
+L’intimé estime que tous les documents ci-joints ne sont pas pertinents pour l’instance. Toutefois, lorsque des privilèges supplémentaires précis sont revendiqués, ils sont indiqués. En outre, comme il est indiqué dans les éléments d’information relatifs à la requête de l’appelant, une grande partie de la documentation demandée a fait l’objet d’une précédente demande d’accès à l’information. L’index des documents fournit certaines précisions sur la relation entre les documents ci-joints et ce processus.
+[9] L’index des documents détenus sous scellés par la Cour et visés par la présente requête est inclus dans le dossier de la requête de l’intimé[10] et de l’appelant[11].
+[10] Le dossier de requête de l’appelant comprenait également des copies du renvoi modifié (la première demande en application de l’article 174), de la nouvelle réponse modifiée et de la réponse modifiée[12].
+[11] Le dossier de requête de l’intimé comprenait également des copies de la réponse à l’avis d’appel de l’appelant, de la réponse modifiée à l’avis d’appel de l’appelant et de la nouvelle réponse modifiée à l’avis d’appel de l’appelant[13].
+[12] L’avis de requête modifié de l’appelant comprend également le résumé suivant des motifs de la requête[14] :
+[TRADUCTION]
+1. L’intimé a déposé une demande en application de l’article 174 de la Loi le ou vers le 27 janvier 2016 (la « demande ») concernant Red Mile Resources Fund No. 3 Limited Partnership. Le 10 mars 2017, l’intimé a déposé un renvoi modifié aux termes de l’article 174 de la Loi. Le 10 mars 2017, l’intimé a aussi présenté des demandes sensiblement semblables à la demande relatives à Red Mile Resources Fund No. 2 Limited Partnership, à Red Mile Resources Fund No. 4 Limited Partnership, à Red Mile Resources Fund No. 5 Limited Partnership, à Red Mile Resources Fund No. 6 Limited Partnership et à Red Mile Resources Fund No. 7 Limited Partnership (collectivement avec la demande, telle qu’elle a été modifiée, les « demandes »).
+1.1 L’intimé a ensuite retiré les demandes en application de l’article 174, non pas que les questions n’étaient plus les principales questions soulevées dans les appels, mais parce que l’arrêt Canada (Revenu national) c. Boguski, 2021 CAF 118 [Boguski], rendait une demande en application de l’article 174 inapplicable du point de vue de la procédure.
+1.2 Les questions soulevées dans les demandes confirment en outre que l’une des principales questions qu’il reste à trancher porte sur la signification et l’application du paragraphe 66(15) de la Loi.
+2. Dans les demandes, l’intimé a cherché à obtenir une décision sur certaines questions communes. L’une des questions communes consistait à savoir si au moins 90 % de la redevance annuelle de base dans les opérations relatives à Red Mile était « payable sur la production provenant de la ressource ou sur le produit tiré de cette production » pour l’application de la définition d’« avoir minier canadien » à l’alinéa 66(15)e) de la Loi (la « question »).
+3. La phrase « si le payeur du loyer ou de la redevance a un intérêt ou, pour l’application du droit civil, un droit sur la ressource et si au moins 90 % du loyer ou de la redevance est payable sur la production provenant de la ressource ou sur le produit tiré de cette production » au paragraphe 66(15) de la Loi a été ajoutée à la Loi le ou vers le 20 décembre 2002, lorsqu’un avant-projet de loi a été présenté en vue d’ajouter ce passage à la définition (les « modifications »).
+4. Les modifications sont entrées en vigueur le 15 décembre 2011, avec effet sur les droits acquis après le 20 décembre 2002. Le passage a été ajouté pour rendre la définition compatible à la politique de l’ARC relative à la participation au revenu net en tant qu’avoir minier canadien, comme il est énoncé dans les Nouvelles techniques de l’impôt no 10 datées du 11 juillet 1997.
+5. Aucune jurisprudence ne porte sur la signification du mot « payable » ou de l’expression « payable sur » dans le contexte des alinéas d) et e) de la définition d’« avoir minier canadien ».
+6. Les documents, comme les documents d’information, les déclarations ministérielles et les rapports de comités, sont recevables pour aider la Cour à déterminer l’objet législatif d’une modification et la juste interprétation d’une disposition de la Loi (ou d’une modification).
+7. Les documents sollicités dans la présente demande sont nécessaires pour faciliter l’interprétation de l’alinéa e) de la définition d’« avoir minier canadien » au paragraphe 66(15) de la Loi, qui est la question juridique centrale de l’appel.
+8. L’avocat de l’appelant, Gall Legge Grant & Zwack LLP (« GLGZ »), a reçu certains documents (les « documents relatifs à l’avoir minier canadien ») qui portent sur la question par l’entremise d’une demande adressée au ministère des Finances en vertu de la Loi sur l’accès à l’information.
+9. Comme il est énoncé dans la déclaration sous serment d’Anni Lam :
+a) les documents relatifs à l’avoir minier canadien comprennent une copie largement caviardée du document de travail de l’ARC rédigé par l’intimé, et pour son compte, et remis par l’intimé au ministère des Finances;
+b) les documents relatifs à l’avoir minier canadien comprennent en outre une correspondance entre l’intimé et le ministère des Finances, ce qui montre qu’il existe d’autres documents pertinents sur la question qui n’ont pas été répertoriés ni divulgués par l’intimé;
+c) GLGZ a fourni les documents relatifs à l’avoir minier canadien à l’intimé et a demandé à l’intimé la divulgation d’une copie non caviardée du document de travail de l’ARC, de même que d’autres documents pertinents dans une lettre datée du 25 mai 2016;
+d) GLGZ a donné suite à la demande du 25 mai dans une lettre datée du 19 juillet 2016;
+e) l’intimé a répondu dans une lettre datée du 25 novembre 2016 et a rejeté la demande de l’appelant;
+f) à ce jour, GLGZ n’a pas reçu les documents demandés de la part de l’intimé.
+10. Les documents relatifs à l’avoir minier canadien confirment que des documents pertinents en la possession, sous le contrôle ou sous la garde de l’intimé ont été omis dans l’affidavit de documents de l’intimé.
+11. L’appelant sollicite la production de tous les éléments d’information pertinents afin que l’appel puisse aller de l’avant sans délai et avec tous les éléments de preuve pertinents.
+12. Comme l’appelant l’a demandé dans sa lettre du 25 mai 2016 à l’intimé, les éléments d’information suivants sont exigés :
+a. une copie non caviardée du document de travail de l’ARC;
+b. des copies de l’ensemble des documents, des communications, des notes, des dossiers et des éléments d’information que l’intimé a en sa possession, sous son contrôle ou sous sa garde qui portent sur les échanges entre l’ARC et le ministère des Finances concernant le paragraphe 66(15) de la Loi;
+c. des copies de tous les autres documents, communications, notes, dossiers et éléments d’information que l’intimé a en sa possession, sous son contrôle ou sous sa garde pour la période allant du 1er janvier 1996 au 31 décembre 2012 qui ont trait aux modifications législatives apportées à la définition de l’expression « avoir minier canadien » au paragraphe 66(15) de la Loi;
+d. des copies de l’ensemble des documents, des notes, des dossiers et des éléments d’information que l’intimé a en sa possession, sous son contrôle ou sous sa garde qui ont trait à la décision relative aux questions communes dans les demandes de l’intimé.
+13. L’appelant fait valoir que tous les documents et éléments d’information pertinents que l’intimé a en sa possession, sous son contrôle ou sous sa garde incluent tous les documents et éléments d’information en la possession du ministre des Finances, y compris les éléments d’information pertinents à l’historique législatif du paragraphe 66(15) de la Loi, comme les documents d’information, les déclarations ministérielles et les rapports de comités.
+14. Nous faisons respectueusement valoir qu’il est dans l’intérêt des parties, de la Cour et de l’administration de la justice de rendre l’ordonnance demandée pour la divulgation et la production de tous les documents pertinents (sans caviardage) en la possession, sous le contrôle ou sous la garde de l’intimé.
+DROIT ET ANALYSE
+[13] La question qui se pose en l’espèce est de savoir si les éléments d’information relatifs à l’avoir minier canadien, y compris les documents sous scellés relatifs à l’avoir minier canadien, doivent être divulgués conformément aux articles 82 et 88 des Règles, qui prévoient ce qui suit :
+82. (1) Les parties peuvent convenir ou, en l’absence d’entente, demander à la Cour d’émettre une ordonnance obligeant chaque partie à déposer et à signifier à l’autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui sont pertinents à toute question en litige entre les parties à l’appel. […]
+88. Si elle est convaincue qu’une partie n’a pas mentionné dans sa déclaration sous serment un document pertinent qui se trouve en sa possession, sous son contrôle ou sous sa garde ou que la prétention au privilège n’est pas fondée, la Cour peut :
+a) ordonner qu’il y ait contre-interrogatoire sur la déclaration sous serment de documents;
+b) ordonner la signification d’une autre déclaration sous serment de documents plus complète;
+c) ordonner la divulgation ou la production, à des fins d’examen, du document, en tout ou en partie, si celui-ci n’est pas privilégié;
+d) examiner le document afin d’établir sa pertinence ou de décider si la prétention au privilège est fondée. [Non souligné dans l’original.]
+[14] L’appelant soutient que la principale question en litige soulevée dans le présent appel concerne l’interprétation du paragraphe 66(15) de la Loi, en particulier les modifications législatives y afférentes qui sont entrées en vigueur le 15 décembre 2011, avec effet rétroactif pour les droits acquis après le 20 décembre 2002.
+[15] L’appelant soutient que les éléments d’information relatifs à l’avoir minier canadien, y compris les documents sous scellé relatifs à l’avoir minier canadien, sont des éléments de preuve extrinsèques qui sont pertinents quant à l’analyse textuelle, contextuelle et téléologique du paragraphe 66(15) de la Loi. Il fait en outre valoir que la pertinence représente une notion vaste en soi et que les documents pertinents comprennent tout ce qui « peut aider directement ou indirectement la partie interrogatrice à prouver ses moyens ou à réfuter ceux de son adversaire »[15].
+[16] L’intimé soutient que les éléments d’information relatifs à l’avoir minier canadien, y compris les documents sous scellé relatifs à l’avoir minier canadien, ne sont pas pertinents parce qu’ils n’ont pas été préparés, examinés, pris en compte ou utilisés de quelque façon que ce soit par le ministre dans le cadre de la vérification de l’appelant. L’intimé fait aussi valoir que ces documents ne contribuent pas à éclaircir la position juridique de la Couronne et que l’intimé ne les a pas divulgués ni n’a admis autrement leur pertinence. De plus, l’intimé avance que les éléments d’information relatifs à l’avoir minier canadien, y compris les documents sous scellé relatifs à l’avoir minier canadien, ne sont pas des moyens extrinsèques admissibles, car le législateur ne s’en était pas saisi au moment d’étudier et d’adopter la législation pertinente. L’intimé prend appui sur des affaires comme Canada c. CHR Investment Corporation, 2021 CAF 68 pour étayer sa position.
+[17] Je suis généralement d’accord avec les arguments de l’appelant dans la présente requête. À mon avis, l’issue d’une requête qui porte sur la production de documents lors de la communication préalable dépend toujours de la pertinence compte tenu des faits de l’espèce. Les questions soulevées dans la présente requête diffèrent de celles qui sont soulevées dans des affaires comme Canada c. CHR Investment Corporation, 2021 CAF 68. Par exemple, la principale question en litige soulevée dans la présente requête ne concerne pas la position du ministre à l’égard de l’application de la RGAÉ, mais plutôt la production de moyens extrinsèques dans le cadre de l’interprétation du paragraphe 66(15) de la Loi. De plus, les parties ont toutes deux convenu qu’aucun des documents demandés n’a été pris en compte par le ministre au cours de la vérification, étant donné que les principales questions relatives au paragraphe 66(15) de la Loi ont été soulevées pour la première fois par le PGC dans la nouvelle réponse modifiée de l’intimé déposée le 5 novembre 2012.
+[18] À mon avis, les principes énoncés par la Cour d’appel fédérale dans l’affaire Ahamed c. Canada, 2020 CAF 213, s’appliquent aux circonstances en l’espèce. Dans cette affaire, le juge Locke a fait les observations suivantes aux paragraphes 19 à 32 :
+[19] Au sujet de l’importante question de la pertinence, la Cour canadienne de l’impôt a rappelé, à juste titre, divers principes généraux s’appliquant à l’interrogatoire préalable, notamment (i) que la question de la pertinence doit être interprétée d’une façon large et libérale, (ii) que la pertinence est un critère moins strict au stade de l’interrogatoire préalable qu’à celui du procès, (iii) que les ébauches antérieures à la version définitive d’un exposé de thèse n’ont pas à être communiquées et (iv) que, même dans les cas où la pertinence est établie, la Cour a le pouvoir discrétionnaire résiduel de refuser d’ordonner la production de documents.
+[20] L’appelante affirme que les documents internes caviardés du ministère des Finances sont pertinents aux fins d’interprétation des lois et qu’ils devraient être produits sans caviardage. Elle affirme également que des documents produits par les fonctionnaires ayant participé au processus législatif sont recevables à titre de moyens extrinsèques admissibles. L’appelante soutient que la pertinence ne se limite pas aux documents qui sont publiés ou qui sont de quelque autre manière accessibles au public.
+[21] La Cour canadienne de l’impôt a fondé sa conclusion quant au peu de pertinence des documents internes en cause sur la décision Superior Plus Corp. c. La Reine, 2016 CCI 217, au paragraphe 34, où il est indiqué que ces documents ne sont pas pertinents pour juger du raisonnement du ministre lorsque celui-ci procède à une vérification et à l’établissement d’une cotisation à l’égard d’un contribuable, à moins qu’ils n’aient été communiqués au ministre. L’intimée affirme que la Cour canadienne de l’impôt a eu raison d’appliquer le même raisonnement à l’interprétation de la disposition : les documents financiers internes qui ne sont pas communiqués au ministre ne sont pas pertinents lorsqu’il s’agit de cerner l’intention du législateur.
+[22] Il est tentant de suivre ce raisonnement et de souscrire à la thèse de l’intimée selon laquelle les documents doivent être du domaine public pour être jugés pertinents aux fins d’interprétation des lois. Sinon, des membres du public pourraient se trouver incapables d’avoir accès à des renseignements qui sont nécessaires pour bien comprendre une loi particulière à laquelle ils sont tenus de se conformer. Une telle situation poserait problème, pour les motifs énoncés dans l’arrêt de la Chambre des lords du Royaume-Uni Pepper (Inspector of Taxes) v. Hart, [1992] 3 W.L.R. 1032, p. 1042 :
+[TRADUCTION]
+Tout bien considéré, une loi est l’énoncé officiel et intégral d’une règle de droit précise que les citoyens sont tenus d’observer, parfois sous peine de sanctions, et en regard de laquelle ils doivent régler leur conduite et ont le droit de régler leur conduite. J’estime donc que nous devons être très prudents avant d’étendre l’admissibilité de documents qui ne sont pas facilement et habituellement accessibles aux citoyens dont les droits et les obligations sont régis par le libellé par lequel le législateur a choisi d’exprimer sa volonté.
+[23] Nonobstant cette mise en garde, l’appelante affirme qu’il convient d’interpréter plus largement l’éventail des documents qui pourraient être utiles à l’interprétation des lois. L’appelante invoque notamment l’arrêt Delisle c. Canada (Sous-procureur général), [1999] 2 R.C.S. 989 (Delisle), dans lequel il était allégué qu’une disposition d’une loi fédérale contrevenait à la Charte canadienne des droits et libertés, partie I de la Loi constitutionnelle de 1982, constituant l’annexe B de la Loi de 1982 sur le Canada (R.-U.), 1982, ch. 11. Dans le cadre de son analyse au nom des juges majoritaires de la Cour suprême dans l’arrêt Delisle, le juge Bastarache a examiné l’objet de la disposition en question aux fins de son interprétation. Au paragraphe 17, il a déclaré ce qui suit :
+[…] Bien que les sources extrinsèques puissent être utilisées afin d’interpréter la loi et d’en dégager le sens véritable, elles sont de peu d’utilité pour déterminer l’objet d’une loi dans le but d’évaluer sa conformité avec la Charte lorsque le sens de la disposition en cause est clair. La Cour ne doit pas normalement invalider un texte dont ni le sens, ni la forme, ni les effets ne violent la Charte, ce qui forcerait le législateur à adopter à nouveau le même texte en l’accompagnant d’une manifestation extrinsèque d’un objet valide. Ce serait là un scénario absurde parce qu’il prévoirait un effet législatif direct pour de simples déclarations, rapports internes et autres sources externes qui, s’ils sont utiles lorsque le juge doit déterminer le sens d’une disposition obscure, ne suffisent pas pour invalider un texte de loi qui est par ailleurs conforme à la Charte. L’intention législative doit avoir un caractère institutionnel vu l’impossibilité de connaître la pensée de chaque député. Elle doit refléter ce qui était connu des députés à l’occasion du vote. Elle doit aussi tenir compte du fait que les députés ont été appelés à voter sur un texte en particulier, texte pour lequel une explication institutionnelle a été fournie. Si le texte et sa justification comptent, c’est que les députés ont le devoir de comprendre le sens de la loi sur laquelle ils sont appelés à voter. Ceci est plus important que les suppositions relatives à l’intention subjective de ceux qui auraient pu proposer le texte de loi. [Non souligné dans l’original.]
+[24] Dans cet extrait, on reconnaît la pertinence potentielle de documents internes pour l’interprétation de dispositions législatives « obscures ». Il n’y est toutefois pas indiqué clairement ce qui constitue une disposition « obscure », et je ne formulerai pas de conclusion sur ce point. Je prends note que ce passage ne précise pas non plus clairement si les documents internes non publics peuvent s’avérer pertinents pour l’interprétation des lois. En fait, l’importance accordée à la notion de « ce qui était connu des députés à l’occasion du vote » indique que les documents qui ne sont pas publics ne sont pas pertinents.
+[25] Ruth Sullivan, dans son ouvrage Sullivan on the Construction of Statutes, 6e éd., (Toronto : LexisNexis, 2014), au paragraphe 23.11, confère une large portée à ce qui constitue un document pouvant être utile à l’interprétation des lois :
+[traduction]
+Tout comme les éléments de preuve de source externe, les opinions sur l’objet et le sens d’une loi peuvent se trouver dans de nombreuses sources : avant son édiction, dans la documentation produite par les fonctionnaires qui participent au processus législatif (chargés de projet, rédacteurs, conseillers juridiques) et, après son édiction, dans les lignes directrices d’interprétation publiées par les organismes administratifs, dans la jurisprudence judiciaire ou administrative ainsi que dans les décisions quotidiennes des fonctionnaires chargés de l’exécution de la loi. Jusqu’à récemment, la jurisprudence constituait la principale source d’opinions sur le sens d’une loi. Les tribunaux étaient peu disposés à prendre en compte les pratiques des fonctionnaires ou les opinions des tribunaux administratifs et faisaient largement abstraction de la doctrine, à l’exception de certains ouvrages acceptés. La tendance actuelle veut toutefois que l’on examine tout document qui satisfait aux critères de pertinence et de fiabilité.
+[26] Là encore, je note que l’extrait ci-dessus ne précise pas clairement si les documents non publics peuvent s’avérer pertinents aux fins d’interprétation des lois. Il semble toutefois que le processus législatif (durant lequel des documents pertinents peuvent être créés) commence tôt. Dans l’arrêt Mikisew Cree First Nation c. Canada (Gouverneur général en conseil), 2018 CSC 40, [2018] 2 R.C.S. 765 (Mikisew), au paragraphe 120, le juge Brown affirme que « le processus législatif débute lorsque le projet de loi est à l’étape embryonnaire, et ce, même quand il est élaboré par des ministres de la Couronne ». Le juge Brown ajoute ensuite ce qui suit au paragraphe 121 :
+En effet, les fonctionnaires qui formulent des recommandations de politiques avant l’élaboration et le dépôt d’un projet de loi n’« exécutent » pas des politiques ou des directives législatives existantes. Au contraire, leurs mesures visent à orienter les changements qui seront éventuellement apportés aux politiques législatives et elles sont de nature strictement législative.
+[27] Il faut éviter de faire une interprétation trop large de l’arrêt Mikisew. Dans cette affaire, on cherchait à déterminer si le processus législatif (décrit au paragraphe 116 de cet arrêt comme étant constitué des étapes allant de l’élaboration initiale des politiques à la sanction royale) était assujetti à l’obligation de la Couronne de consulter les peuples autochtones sur les mesures susceptibles de porter atteinte à leurs droits. L’arrêt Mikisew ne portait pas sur l’interprétation des lois.
+[28] Mme Sullivan, s’appuyant sur l’arrêt de la Cour d’appel de Terre-Neuve-et-Labrador Reference re Upper Churchill Water Rights Reversion Act (1982), 134 D.L.R. (3d) 288, 36 Nfld. & P.E.I.R. 273, infirmé par [1984] 1 R.C.S. 297 (Upper Churchill), ajoute ce qui suit au paragraphe 23.13 :
+[traduction]
+Lorsque l’objet d’une disposition fait l’objet de discussions, ou que son sens est expliqué durant le processus d’adoption, et que le texte législatif est ensuite adopté en fonction de cette interprétation, ces explications ou discussions offrent des éléments de preuve convaincants (voire concluants) quant à l’intention du législateur.
+[29] Cependant, dans le Renvoi relatif à Upper Churchill Water Rights Reversion Act, la Cour suprême du Canada a présenté une approche plus nuancée pour juger de la pertinence des éléments de preuve extrinsèques. Après avoir examiné l’assouplissement de l’ancienne règle générale d’exclusion établissant l’irrecevabilité des éléments de preuve extrinsèques, la Cour suprême a déclaré ce qui suit, à la page 318 :
+Il est donc loisible à la Cour, dans un cas qui s’y prête, de recevoir et d’examiner des éléments de preuve extrinsèques concernant l’application et l’effet de la législation. Compte tenu des positions des parties, notamment de la prétention des appelants que la Reversion Act a un effet extra-provincial, nous sommes, à mon sens, en présence d’un tel cas.
+Je suis d’accord avec la Cour d’appel qu’en l’espèce les éléments de preuve extrinsèques sont recevables pour montrer le contexte dans lequel la législation a été adoptée. Je suis également d’accord que ces éléments de preuve ne sont pas recevables pour aider à interpréter la Loi. Je suis toutefois d’avis que dans les affaires constitutionnelles, notamment lorsqu’il y a allégation de législation déguisée, on peut tenir compte d’éléments de preuve extrinsèques pour vérifier non seulement l’application et l’effet de la loi contestée, mais aussi son objet véritable. C’est également l’avis exprimé par le juge Dickson dans le renvoi Re Loi de 1979 sur la location résidentielle, précité, à la p. 721 où il dit :
+À mon avis, une cour peut, quand l’affaire s’y prête, exiger des renseignements sur l’effet qu’aura la loi. L’objet et le but que vise la Loi en question peuvent également devoir être examinés même si, en général, les discours prononcés devant le corps législatif au moment de son adoption sont irrecevables vu leur faible valeur probante.
+Cet avis est assujetti, cela va de soi, à la restriction proposée par le juge Dickson à la p. 723 du même arrêt, selon laquelle seuls sont recevables les éléments de preuve qui ne sont pas douteux en soi et qui ne pêchent pas contre l’ordre public [...]
+[30] Non seulement la Cour suprême prévoit qu’il y aura des affaires où les éléments de preuve extrinsèques ne seront pas pertinents, mais elle limite également les questions par rapport auxquelles ces éléments de preuve pourraient s’avérer pertinents. Il convient en outre de préciser que le Renvoi relatif à Upper Churchill s’inscrivait dans le contexte du droit constitutionnel, un domaine où la Cour suprême s’est généralement montrée plus ouverte à la recevabilité d’éléments de preuve extrinsèques (voir page 317).
+[31] En fin de compte, bien qu’il existe de bonnes raisons d’hésiter à tenir compte de documents non publics dans l’interprétation des lois, on peut difficilement affirmer catégoriquement que de tels documents ne sont jamais pertinents. La question qu’il serait plus judicieux de poser est de savoir si les documents en cause dans le présent appel ont un caractère institutionnel tel qu’ils pourraient représenter la position du gouvernement sur le texte législatif visé. Si ce n’est pas le cas, ces documents ne sont pas pertinents.
+[19] Comme il est fait mention dans l’arrêt Ahamed, les documents non publics peuvent être pertinents en tant qu’éléments de preuve extrinsèques dans certains cas pour l’interprétation des lois, pourvu qu’ils aient un caractère institutionnel suffisant pour ne pas être douteux en soi. Je suis également d’avis que les catégories d’éléments de preuve extrinsèques ne sont pas fermées et qu’elles doivent être examinées dans le contexte de chaque cas.
+[20] En l’espèce, les modifications en cause à l’alinéa e) de la définition d’« avoir minier canadien » au paragraphe 66(15) de la Loi ont initialement été annoncées en 2002, mais elles n’ont été adoptées qu’en 2011, avec effet rétroactif. Il est évident pour la Cour que le processus législatif relatif aux modifications en cause dans le présent appel a commencé bien avant 2002. Il s’agit d’une définition relativement obscure d’une loi complexe. À mon avis, compte tenu de la longue période d’élaboration des modifications proposées ainsi que de la complexité et de l’effet rétroactif des dispositions concernées, des éléments de preuve extrinsèques pourraient s’avérer utiles à la Cour dans son analyse textuelle, contextuelle et téléologique de la législation dans toutes les circonstances en l’espèce. Ils peuvent aussi aider l’appelant à bien comprendre la position de l’intimé dans le présent appel, en plus d’éclairer l’intimé quant au caractère raisonnable de sa position.
+[21] Je note que le document intitulé Tech Interp (external) 2003-004860A — Canadian resource property — rentals and royalties, daté du 2 décembre 2003, est un exemple d’élément de preuve extrinsèque ayant un caractère institutionnel qui se rapporte directement aux questions faisant l’objet du présent appel. Comme il s’agit d’un document public, sa divulgation n’est pas en cause dans la présente requête.
+[22] En appliquant ces principes à la présente affaire, je suis d’avis qu’aucun des documents indiqués aux onglets 1 à 23 des documents sous scellé relatifs à l’avoir minier canadien ne devrait être divulgué. À cet égard, j’estime que ces documents ont peu ou pas de pertinence pour les questions faisant l’objet d’un appel en l’espèce. Je suis également d’avis qu’ils ont peu ou pas de caractère institutionnel.
+[23] Toutefois, j’estime que les documents énoncés aux onglets 24 et 25 des documents sous scellé relatifs à l’avoir minier canadien devraient être divulgués. À cet égard, je suis d’avis que ces documents présentent suffisamment de pertinence par rapport aux questions faisant l’objet du présent appel et qu’ils affichent un caractère institutionnel suffisant pour être divulgués dans les circonstances du présent appel.
+[24] Dans sa lettre à la Cour datée du 21 juillet 2022 concernant la présente requête, l’intimé a informé la Cour qu’il est [traduction] « admis que si la requête de l’appelant est accueillie et qu’une ordonnance ultérieure confirmant la requête est rendue, il pourrait être nécessaire d’effectuer une nouvelle recherche ». L’intimé a donc reconnu qu’il pourrait disposer d’autres documents pertinents qui devraient être produits dans le cadre du présent appel.
+CONCLUSION
+[25] Pour tous les motifs exposés, la requête de M. Hartman est accueillie en partie.
+[26] La Cour ordonne à l’intimé de répertorier et de divulguer les éléments suivants :
+a)une copie complète et non caviardée du document de travail de l’Agence du revenu du Canada (l’« ARC ») rédigé par Roy Shultis et daté du 9 septembre 1997, dont un exemplaire figure à l’onglet 25 des documents sous scellé relatifs à l’avoir minier canadien;
+b)dans la mesure où ils n’ont pas déjà été fournis à l’appelant, une copie complète et non caviardée du document de travail de l’ARC rédigé par Wayne Adams et daté du 22 décembre 1997 et du document de travail du ministère des Finances rédigé par Daniel MacIntosh et daté du 20 mai 1998, dont des exemplaires figurent à l’onglet 24 des documents sous scellé relatifs à l’avoir minier canadien;
+c)des copies de l’ensemble des autres documents, communications, notes, dossiers et éléments d’information en la possession, sous le contrôle ou sous la garde de l’intimé, qui peuvent être considérés comme des éléments de preuve extrinsèques ayant un caractère institutionnel depuis le 1er janvier 1996 et qui ont trait à l’objet, à l’intention, à la signification ou à l’interprétation de l’expression « avoir minier canadien » au paragraphe 66(15) de la Loi, y compris en particulier les modifications qui sont en cause dans le présent appel et le groupe d’appels connexes.
+DÉPENS
+[27] Les dépens relatifs à la requête suivront l’issue de l’instance.
+Signé à Ottawa, Canada, ce 3e jour de mai 2024.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 12e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 57
+NO DU DOSSIER DE LA COUR :
+2011-269(IT)G
+INTITULÉ :
+BRIAN MORTON HARTMAN C. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 13 décembre 2022
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Henry A. Visser
+DATE DE L’ORDONNANCE :
+Le 3 mai 2024
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Robert W. Grant, c.r.
+Me Wendy Zhang
+Avocats de l’intimé :
+Me Ifeanyi Nwachukwu
+Me Shubir (Shane) Aikat
+Me Gabriel Caron
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Nom :
+Me Robert W. Grant, c.r.
+Me Wendy Zhang
+Gall Legge Grant Zwack LLP
+Me Yves St-Cyr
+Me Mark Jadd
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir la nouvelle réponse modifiée de l’intimé au paragraphe 22.
+[2] Voir la correspondance de l’intimé à la Cour datée du 6 juillet 2017. Comme certains contribuables ont investi dans Red Mile pendant plusieurs années, le nombre total d’oppositions et d’appels potentiels est supérieur au nombre total de contribuables particuliers concernés. L’intimé a également fait savoir que certains contribuables avaient signé des ententes les liant à la cause type même s’ils n’avaient pas d’oppositions actives.
+[3] L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée.
+[4] Voir le dossier de la requête de l’intimé, à l’onglet 8.
+[5] Voir le dossier de requête de l’intimé, à l’onglet 3.
+[6] Voir le dossier de requête de l’appelant, à l’onglet 5.
+[7] Voir le dossier de requête de l’intimé, à l’onglet 1.
+[8] Voir le dossier de requête de l’intimé, à l’onglet 2.
+[9] Voir le dossier de requête de l’appelant, à l’onglet 1.
+[10] Voir le dossier de requête de l’intimé, à l’onglet 4.
+[11] Voir le dossier de requête de l’appelant, à l’onglet 1.
+[12] Voir le dossier de requête de l’appelant, aux onglets 2 à 4.
+[13] Voir le dossier de requête de l’intimé, aux onglets 5 à 7.
+[14] Voir le dossier de requête de l’intimé, à l’onglet 8, p. 3 à 5.
+[15] Voir les observations écrites en réponse de l’appelant concernant l’avis de requête en production de documents, par. 10 et 14, et Banque canadienne impériale de commerce c. La Reine, 2015 CCI 280, par. 18 et Paletta c. La Reine, 2017 CCI 233, par. 12.

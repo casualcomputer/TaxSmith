@@ -1,0 +1,303 @@
+---
+title: "Axa Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27125/index.do"
+last_modified: "2006-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 4"
+citation2: ""
+neutral_citation: "2006 TCC 4"
+decision_date: "2006-01-11"
+language: "en"
+item_id: "27125"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 929
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:26:27.723000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a63c65a18b2e9408ddc8af3f584f1c94d641c64575575cffb5a6340ecbba1de"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Axa Canada Inc. v. The Queen
+
+- Citation: 2006 TCC 4
+- Decision date: 2006-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 929, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Axa Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-11
+Neutral citation
+2006 TCC 4
+File numbers
+2003-3021(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3021(IT)G
+BETWEEN:
+AXA CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 26, 27 and 28, 2005, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Dominic C. Belley
+Counsel for the Respondent:
+Richard Gobeil
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The Appeal from the assessment under the Income Tax Act, the notice of which bears the number 60990091 and is dated March 26, 1999, in respect of the 1993 taxation year is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 22nd day of July 2006
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC4
+Date: 20060111
+Docket: 2003-3021(IT)G
+BETWEEN:
+AXA CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from an assessment under Part XIII of the Income Tax Act (the "Act"), for the Appellant's 1993 taxation year.
+[2] At issue is whether a benefit of at least $22 million was conferred by the Appellant on a French corporation, namely Abeille Réassurance S.A, ("Abeille Ré") within the meaning of subsection 15(1) of the Act.
+[3] In the instant case, and this is not disputed by the parties, the Appellant is subject to the tax under Part XIII, specifically under subsection 212(1) of the Act. It was deemed to have paid the above-mentioned amount to Abeille Ré, a non‑resident corporation, as a dividend from a corporation resident in Canada pursuant to subsection 214(3) of the Act and was required to withhold tax as a resident taxpayer pursuant to subsection 215(1) of the Act. Under the 1975 Canada-France Income Tax Convention, the withholding rate is 10%.
+[4] The events in the instant case occurred between June 18, 1990 and November 17, 1993.
+[5] On June 18, 1990, a "Memorandum of Agreement in respect of the assumption of participation by Compagnie financière Victoire in Laurentian General Holding Inc., an insurance company", (tab 1 of Exhibit A‑1), was signed between the Laurentian Group Corporation by Jacques A. Drouin for La Laurentian and for Compagnie Financière Du Groupe Victoire, by Jean A. Arvis.
+[6] The "Subscription Agreement" was signed on September 28, 1990 (Exhibit A-1, tab 2). One of the parties is 2844‑2267 Québec Inc. as subscriber. This corporation bore the name of Victoire Canada at the time the events occurred. It subsequently became AXA Canada Inc. Similarly, there was the party Compagnie Financière du Groupe Victoire or Victoire France. The issuing party is Laurentian General Holding Inc. On the same side, there is the party The Laurentian Group Corporation or CGL.
+[7] Prior to the signing of the Subscription Agreement, CGL transferred to Laurentian General Holding Inc. all the shares it held in Laurentian General or Boréal Assurances Inc. ("Boréal") and Victoire France proceeded with the constitution of the subscriber, Victoire Canada, one of the shareholders of which is Abeille Ré.
+[8] In the Agreement, Victoire France ceded to the subscriber, Victoire Canada, any rights and obligations that it might have under the terms of the agreement. This is one of the key provisions in this case.
+[9] The subscriber subscribed to 1,250 shares in the issuer at a price of $125 million. Payment was made that day. These shares, when issued, represented 50% of the shares issued in the capital of the issuer. Victoire Canada and CGL then became 50% shareholders in Laurentian General Holding Inc., the holding company of Laurentian General.
+[10] The guarantees given at the time of the signing of the Agreement on September 28, 1990, are essential to this case. The first guarantee, article 6.3, concerns the assets of the shareholders:
+[translation]
+6.3 The Laurentian Group Corporation hereby undertakes to pay to the subscriber the difference between $143,000,000 on the one hand and on the other the assets of the ordinary shareholders as shown in the closing balance, if the latter is less than $143,000,000. This payment will be made in cash within 30 days following the deposit of the closing balance.
+[11] CGL guaranteed that the assets of the shareholders amounted to $143 million on the date of the closing balance, namely September 30, 1990.
+[12] There was a second category of guarantee, namely that in respect of the adequacy of the reserves, which we find at article 7.3:
+[translation]
+7.3 Limit. The amounts in excess of the losses and any other item on the balance sheet that formed part of the guarantee by The Laurentian Group Corporation will be covered in the following order:
+...
+(iii) in the event that this reserve is exhausted, The Laurentian Group Corporation will indemnify Victoire for any impairment over $30 million that appears on the balance sheet up to a maximum of $50 million.
+[13] Clause 7.4 stipulates that these guarantees will be for a maximum of two years after September 28, 1990, and any analysis of deficiencies shall be made annually to the satisfaction of both parties:
+[translation]
+7.4 Payment of compensation. These guarantees shall be for a maximum duration of two (2) years following September 28, 1990 and the analysis of impairments, if any, shall be produced annually to the satisfaction of both parties.
+[14] We shall subsequently see that Victoire France agreed to extend the deadline for calculating the impairment.
+[15] The Appellant called four witnesses. Alain Lessard, an actuary, who at the time of the events was employed by Laurentian General and is now an employee of the Appellant. He described the situation of Laurentian General from September 1990 on, and the almost immediate need to sign agreements with Abeille Ré for the purposes of maintaining the financial situation of Laurentian General at the level shown in the September 1990 agreement. These agreements are a proportionate ownership stop loss and the assumption of the international reinsurance business of Laurentian General. The second witness was Pierre Bourrassa, an actuary who worked for Laurentian General at the time the events occurred. He presented an analysis of the losses suffered by Abeille Ré in connection with the two bailout agreements described above. The third witness was an expert witness, André Racine, an actuary, who prepared a report stating that the methodology used by both Mr. Lessard and Mr. Bourassa to determine the losses suffered by Abeille Ré, is a satisfactory, acceptable methodology. The fourth witness was Patrick Werner, who during the second part of the events was a financial director of the Victoire France group. He had become the main actor at the time of the 1993 transaction. He explained that the motivating factor for Abeille Ré in its negotiations to acquire the other 50% of the capital of Laurentian General Holding Inc. and why it was Abeille Ré and not Victoire Canada that made the acquisition.
+Testimony by Alain Lessard and description of the events
+[16] The first witness for the Appellant, Alain Lessard, is currently senior Vice President of the Actuarial and Reinsurance Department of the AXA Group in Canada. During the period at issue, he was in charge of the entire actuarial department. The witness stated that Laurentian General, or Boréal, engaged exclusively in F.A.A.P. insurance, i.e., fire, accident and all perils, in contrast to life insurance. It also handled reinsurance, in other words, it protected other companies against risks stemming from disasters, both internationally and in Canada.
+[17] The witness explained clause 6.3 (above) of the Subscription Agreement of September 28, 1990. The discussions surrounding the sale that took place in the spring of 1990 were based on the figures that were known on December 31, 1989. The purchase was finalized on September 30, 1990. The assets of the shareholders as of December 31, 1989, were in the order of $143 million.
+[18] According to the financial statements submitted in evidence, the assets of the shareholders throughout the events were at least that amount, according to the witness, as a result of agreements signed between Laurentian General and Abeille Ré.
+[19] The witness explained clause 7.3 (above) of that agreement. The balance was calculated as of a certain date, but the difficulty with an insurance company is to know whether the figure is accurate. The assets of the company are well known, as are the shares and bonds held by the company, but the evaluation of the liabilities remains an estimate. At the point where an insurance company is evaluated, the most accurate reading possible of the company's liabilities is made, and by definition the capital follows from that, because the capital is the assets minus the liabilities. But everyone knows that the cost of these liabilities may be different from the estimated cost, so only time will tell whether the amount put aside for the commitments is sufficient or not. This is the purpose of the guarantee. If the net amount is greater, CGL will pay an indemnity for the impairment exceeding $30 million up to a maximum of $50 million.
+[20] After September 30, 1990, Boréal began to discover that the amounts set aside for the international reinsurance that had been assumed would be insufficient. Boréal had not purchased enough protection. The two groups, CGL and Victoire France, were agreed that there should be no negative impact on the balance of Laurentian General Holding Inc.. This is explained in the letter from Mr. Drouin to Mr. Arvis dated December 14, 1990 (Exhibit A-1, tab 5). There would be a "stop loss" agreement with Abeille Ré to spread the loss over time.
+[21] Paragraphs two and three of this letter read as follows: [translation] "We wish to implement a "stop loss" agreement comprising a maximum risk of $5 million for Abeille Ré. This risk will be compensated through the usual channels and any loss in excess of $5 million will be compensated in accordance with the schedule proposed by Laurentian General Holding Inc.." "If it happened that the revenues of Laurentian General were insufficient to compensate Abeille Ré for a impairment in excess of $5 million, Laurentian General would issue capital in the form of ordinary or preferred shares to Abeille Ré ... ".
+[22] According to the witness, it was virtually certain on December 31, 1990, that the "stop loss" agreement would be in deficit. This is why an assessed contribution of 15% of the Canadian business of Laurentian General was added was added to the agreement. The premium was received immediately, but the losses were paid later. This resulted in there being a "stop loss" on which the reinsurer lost money, but there was an assessed contribution on which it made money. Only time would tell whether it lost or made money, but at the time it was signed, the agreement was intended to be neutral. According to the witness, time showed that the balance was not there, but at the time it was negotiated, it was done in good faith.
+[23] This transfer or this agreement was signed between Laurentian General, as assignor and Abeille Ré as reinsurer. The effective date was December 31, 1990. At Exhibit A-1, tab 6, we find a memorandum regarding the proportionate ownership stop loss agreement, but this is not the agreement itself, which can be found at Exhibit I-1, tab 21.
+[24] At Exhibit A-1, tab 7, there is a letter from Guy Rivard of CGL dated January 14, 1991, to Jacqueline Simon, Deputy Director General of Abeille Ré. This is a commitment on the part of CGL that, in the event that amounts due on the various dates stipulated in the agreement by Laurentian General could not be reimbursed without a significant impact on the latter's financial situation, the credit of Abeille Ré would be changed up to the limit thereof to a contribution of its own funds by means of an increase in capital.
+[25] This letter reads in part as follows: [translation] "In the unlikely event that amounts due on the various dates set out in the agreement by Générale could not be reimbursed without having a significant impact on the financial situation of General, the credit of Abeille would be changed up to the limit thereof to a contribution of its own funds by means of an increase in capital through an increase in the reserved capital in the form described by Mr. Jacques Drouin in his letter of December 14th. ... "
+[26] The witness told how, in 1991, the international reinsurance business deteriorated further. At Exhibit A-1, tab 10, there is a letter of agreement from Jacques A. Drouin of CGL to Jean Albert Arvis, the CEO of Victoire France, dated December 19, 1991. What is proposed in that letter was accepted that same day by Mr. Arvis. This letter describes the problems experienced by Laurentian General Holding Inc. with respect to international reinsurance. It was decided that the international reinsurance assets and liabilities should be sold to a subsidiary of Victoire France, namely Abeille Ré, or to any other company appointed by Victoire France.
+[27] In another letter of agreement dated December 19, 1991, (Exhibit A-1, tab 9), there is a commitment on the part of CGL that, if the impact of the transfer is not neutral, this will be compensated by shares on the part of CGL, as described in the previous letter of December 19, 1991.
+[28] The agreement to transfer the assets and liabilities from the international reinsurance business signed on December 19, 1991, between Laurentian General and Abeille Ré, appears at tab 11. According to the witness, the fact of selling the assets and liabilities to Abeille Ré instantly produced an improvement in the balance sheet of Laurentian General. The company was able to shed a larger amount of liabilities than the assets that it transferred.
+[29] Exhibit A-1, tab 12 contains a letter of agreement that is also dated December 19, 1991, between CGL and Victoire France. CGL agrees to an injection of preferred shares in the order of $125 million before January 1, 1992. There is also a statement regarding the possibility of an increase in capital in the event funds are insufficient. In addition, there is an agreement that the two reviews required under the September 1990 agreements will be delayed by one year and carried out in 1992 and 1993. No financial consequences will be drawn before December 1993.
+[30] This letter reads as follows:
+[translation]
+1. An injection of preferred shares, with no voting rights, in the order of $25 million will be made prior to January 1, 1992 by Laurentian as described in the subscription prepared to that effect by Laurentian.
+2. The stop loss agreement signed in 1990 contained guarantees for the benefit of Victoire, which are described specifically at paragraph 1, page 2 of the letter dated January 14, 1991, from Mr. Rivard to Ms. Simon. The balance of the transfer agreement would enjoy the same guarantees. If it turned out that the liabilities transferred on December 31, 1991, were insufficient, this impairment would be treated as a credit of Victoire and would be changed, with equality of rights, into a contribution of own funds by means of an increase in the reserved capital.
+3. Furthermore, the two reviews required with respect to the September 1990 agreements will be delayed by one year and carried out in 1992 and 1993, with no financial consequences being drawn therefrom prior to December 1993.
+[31] In 1993, CGL underwent a substantial restructuring, in which control passed to the Société financière Desjardins. CGL had first to divest itself of shares held in Laurentian General Holding Inc., amounting to 50% of the total shares. This share was acquired by Abeille Ré. Thus, all of Boréal became part of the Victoire France group, 50% Victoire Canada and 50% Abeille Ré, a French corporation forming part of the Victoire France group.
+[32] On June 17, 1993, a special committee was formed to supervise the reorganization of CGL in the context of the amalgamation with the Groupe Desjardins. Mr. Lessard was asked to prepare a report dated June 30, 1993, on the situation with respect to reserves in connection with the agreement of September 30, 1990. According to the witness, this assessment was to be carried out without taking the existence of the agreements into account. It evaluated the impairment at $104,694,000. The report dated October 25, 1993, can be found at Exhibit A-1, tab 23. The witness explained that, when the tax dimension is taken into account, this means that the shareholders' assets were in deficit by approximately $62 million.
+[33] Taking the agreements into account, the witness claimed that, while there was an impairment, it was of an amount which did not allow for a claim pursuant to article 7 of the Subscription Agreement.
+[34] He explained that he had been asked to evaluate the impairments without taking the proportionate ownership stop loss agreement into account, or the sale of the international reinsurance division, undoubtedly because Abeille Ré could easily identify on its own the losses due to these agreements and, moreover, it was important to know what the impairments would have been had the agreements not existed.
+[35] On July 6, 1993, a letter of intent was signed between the financial company Groupe Victoire and CGL. It was signed for Victoire by Patrick Werner and for CGL, by Jacques A. Drouin (Exhibit I-1, tab 46). Page 2, paragraph 2 reads as follows:
+[translation]
+THE PARTIES are agreed on the following intentions in respect of the property of Laurentian General and the financial compensations between them:
+...
+(2) In compensation for the impairment in the reserves of Laurentian General as of September 30, 1990 and in compensation for the guarantees provided by Laurentian in respect of the reinsurance agreements contracted by LAURENTIAN GENERAL with Victoire and its affiliates, Laurentian will transfer to Victoire 40% of the ordinary shares of Laurentian General currently in circulation.
+[36] The agreement dated October 8, 1993, is another essential document in this case. This is a Memorandum of Agreement between Victoire France, Victoire Canada and Abeille Ré signed in preparation for the acquisition by Abeille Ré of the 50% of the shares of Laurentian General Holding Inc. held by CGL (Exhibit A-1, tab 20 or Exhibit I-1, tab 52). The transfer clause is the aspect which determined the assessment:
+[translation]
+1. Transfer
+By reasons of (a) of the obligations undertaken by Abeille Ré described in the preamble, (b) the losses incurred by Abeille Ré on the international reinsurance portfolio acquired from Laurentian General and (c) the positive impact of the reinsurance agreements and the transfer of the international reinsurance portfolio on the property of the shareholders of Laurentian General and on the reserves and provisions for losses of Laurentian General, Victoire Canada and Victoire France transfer to Abeille Ré all rights, claims, interest, benefits of any kind whatsoever that each of them holds or may hold (d) under the terms of the Agreement and (e) by virtue of the guarantee provided by CGI [sic] in respect of the transfer of the international reinsurance portfolio.
+[37] Paragraphs 3, 4, 5 and 6 of the preamble to this Memorandum of Agreement read as follows:
+[translation]
+Following the signing of the agreement, discussions took place between the parties regarding the establishment of the balance on September 30, 1990, and with respect to the adequacy of the reserves and provision for losses. CGL proceeded to prepare a draft balance sheet, which was to establish the assets of the shareholders of Laurentian General as of September 30, 1990; variances in interpretation have prevented the parties from reaching an agreement in respect of the financial situation of Laurentian General as of September 30, 1990. Victoire Canada and Victoire France maintained at that time that the assets of the shareholders of Laurentian General as of September 30, 1990, were less than $143,000,000 and that the reserves and provision for losses appearing on the consolidated balance sheet of Laurentian General on December 31, 1989 were insufficient.
+In order to respond to any future impairment in its reserves and provisions, Laurentian General, with the agreement of Victoire Canada and Victoire France, concluded a number of reinsurance agreements with Abeille Ré in December 1990 and Laurentian General transferred to Abeille Ré the assets and liabilities related to its international reinsurance portfolio in December 1991.
+In the context of the transfer of the international reinsurance portfolio, CGL has undertaken to indemnify Victoire France for any impairment in assets transferred in relation to the liabilities assumed by Abeille Ré.
+The reinsurance agreements, together with the transfer of the international reinsurance portfolio have had the effect of rebalancing the assets of the shareholders of Laurentian General and of improving its reserves and provisions.
+[38] Mr. Lessard explained the transfer cause at issue by the fact that CGL and Groupe Desjardins wanted to settle all the guarantees given by CGL to Groupe Victoire once and for all, either through the agreement dated September 28, 1990, or by letters of agreement in respect of the various agreements.
+[39] The witness stated, based on the financial statements, that the impairment was transferred to Abeille Ré with the implementation of the proportionate ownership stop loss agreement and the sale of the international reinsurance portfolio. At the outset, Laurentian General had believed that, with these two agreements, the position of Abeille Ré would be balanced, but the reality is that Abeille Ré lost an enormous amount of money. Laurentian General benefited from these agreements.
+[40] As of November 17, 1993, there is the Agreement for the sale and purchase of shares of Laurentian General Holding Inc. between The Laurentian Group Corporation and Abeille Réassurance S.A., (Exhibit A-1, tab 24).
+[41] The purchase price is $75 million. The payment details are described at article 2.2 on page 5:
+[translation]
+2.2 Payment details. The purchase price shall be paid as follows:
+(a) $60,000,000 comprising compensation, as of the date of closure, between the purchase price, on the one hand, up to that amount, and the amount of any claims of any kind whatsoever which the Purchaser may have against the Vendor (with the exception of the rights, remedies and claims that the Purchaser may assert under the terms of this agreement), the amount of these claims being assessed by common agreement between the Vendor and the Purchaser at $60,000,00; and
+...
+[42] During the cross-examination, Counsel for the Respondent asked the witness whether, as he understood it, the amount of $60 million was to compensate for the losses suffered by Abeille Ré as a result of the agreements. He replied "Absolutely". But, Counsel asked, this compensation did not stem from any contract. The witness was not of this view and referred to the exchange of letters between Mr. Drouin and Mr. Arvis. These letters are agreements and they contain guarantees granted by CGL to the Victoire France group. According to the witness, this is how it was understood by the negotiators of the 1993 transaction that CGL had committed itself to Victoire France to compensate Abeille Ré for any losses it suffered.
+[43] The "Circular from the Board" in respect of the public offering for the exchange can be found at Exhibit I-1, tab 57. The circular included a recommendation to the minority shareholders. It included a report by Wood Gundy, accountants. At page 76, the accountants stated the following:
+Fairness of Sale to Victoire
+•
+Based on the foregoing, we believe that the agreed upon sale price of $75 million for LGC's 50% interest in Laurentian General is a reasonable price as it represents the mid‑range of our valuation range
+•
+However, as the consideration received is not in cash but rather:
+$60
+million set off for claim arising from initial 50% purchase
+15
+million note bearing interest at 7% and repayable in 3 years
+$75
+million
+− we must therefore assess the fairness of this consideration
+•
+Adjustment to initial purchase price (September 30, 1990)
+(MM)
+− the September 30, 1990 provisions' insufficiency as of June 30, 1993 is
+Canadian operations
+$ 32
+Assumed international
+reinsurance
+$ 72
+$105
+− the after‑tax cost is equal to 60% of this amount: $105 x 60% = $63 million
+[44] In response to a question put by Counsel for the Respondent as to where the agreements are mentioned, Mr. Lessard admitted that there is no mention in this notice to shareholders of the agreements or the losses of Abeille Ré.
+[45] He explained the background to the negotiations as follows (pages 163 to 165 and 174, 175, and 180 to 182):
+[translation]
+... There is no moral commitment on the part of the Laurentian Group Corporation. There is a clear written agreement in the letters. On the part of Laurentian General, when the agreement was negotiated, an agreement was submitted, and as I have said, a balanced agreement was submitted to Abeille at the moment where the 1991 negotiations took place, and something which seemed to us balanced, it was also presented to Abeille at the time of the sale of the presumed international, something which seemed balanced to us.
+So we went to see Abeille and said to them: we know that you are going to make a loss on the stop-loss agreement, we are sure of it, and at that time, we are convinced that you are going to make a profit on the proportionate ownership agreement. Will the two together amount to a loss or a profit? We don't know. But we think that it is in balance, we think that you will be all right.
+Thus, when you negotiate reinsurance agreements in general, you negotiate with people who are still going to be there in two years, in five years, in ten years. One cannot burn one's bridges and continually have someone incur losses. So there is always the idea, on the part of an assignor who is negotiating with a reinsurer, that this is a business partner with whom he will have to deal subsequently.
+So you are not there to make him lose money, you are there to share a situation and to exchange. So there is a moral commitment, or a business commitment, I think that is probably the most accurate word, to say that you are doing business so that everyone gets their share and everyone benefits from it.
+But there is no moral commitment on the part of the Laurentian Group Corporation, because the Laurentian Group Corporation is not party to the discussions regarding the agreements, the implementation of the proportional ownership stop loss agreement with Abeille, it is not in discussions as an assignor with Abeille, but it issues a letter subsequently to Abeille and to the Corporation, in fact, to Victoire, saying: look, I have an assignor here called Laurentian General who made a number of agreements with Abeille, and I can tell you that these agreements are loss-making for Abeille, I, the Laurentian Group Corporation, I guarantee you compensation and I guarantee you the credit that you may have under these agreements. That's the spirit in which all these negotiations were conducted at the time.
+...
+A. That is to say, the fact that full compensation of $60 million was given to Abeille Réassurances is ipso facto evidence of a desire on the part of Abeille to say that Abeille Réassurances was the party that suffered the losses, and that's where the compensation ought to go. For my part, this constituted an award that was made because the whole thing was given to Abeille.
+[46] Patrick Werner is now the Assistant Director General of the French Post Office. He left the Victoire group in July 1995. He said that he joined the Victoire group in September 1991 as the Director General of Finance. Prior to his arrival, the Victoire Group had acquired several insurance companies. The President, Jean Arvis, discussed with him a difficult acquisition, namely the 50% share of Laurentian General. According to the witness, the company's situation turned out to be radically different from that expected at the time of the acquisition. The president of the Victoire group who had made this investment was in a delicate position, because the company was not as he had thought it was and as he had told his shareholders, hence the need to provide assistance immediately after the acquisition, to avoid its finding itself in a serious position. This explains the various techniques used in succession to bring about a turnaround in the financial situation of Laurentian General.
+[47] He explained that the date on which the report was to be made with respect to the closing balance was postponed in 1993 to enable the company to get back on its feet. International reinsurance was the primary loss area. In late 1992, it was believed in Paris that the losses in connection with this investment exceeded $100 million. That was the point at which the possibility of a transfer had been raised. It had to be saleable. Ultimately, Groupe Victoire acquired it in its entirety. Groupe Victoire believed that the capital of Laurentian General provided the ultimate guarantee. The ultimate guarantee was exercised, since there was no money to pay. Abeille Ré was the holder of this guarantee:
+[translation]
+Q. Why was a decision taken to proceed by way of Abeille Ré making the acquisition rather than by way of Victoire Canada?
+A. For a variety of reasons. The first, I repeat, the credit or the guarantee was held in the name of Abeille Ré, the ultimate guarantee that I was talking about a moment ago. That was in any event a major element because if we had not done that, I will tell it like it is, we would have had to pay in cold hard cash.
+In one case, we have a company, Abeille Ré, which had this guarantee and which is ultimately owed money by the Laurentian Group Corporation. So we can handle this compensation. If we had not done so, we would have had to pay the price. The price had to be paid. So it was in the interest of Groupe Victoire to proceed that way.
+Two: bring the Laurentian General file back to Paris and make the directors of Abeille Ré and Victoire responsible for it. I had been working as part of a team on that occasion for all of 93 with Michel Laparat, the President of Abeille Ré here in Montreal for all the subsequent operations. So that was necessary, if you wanted to have the file managed direct from Paris.
+So, these two reasons, … but the first was sufficient itself, but these two reasons are two major reasons why Victoire handled this operation through Abeille Ré.
+...
+If we had not done that, Abeille Ré would first have had to enter $60 million, $115 million of losses on its books. The least we could do, was that this company, which in addition had these agreement from 90 and 91, which allowed it to obtain the shares of Laurentian General, the least we could do was to face up to these losses and invest, if I dare use the word, what remained of the assets in the Canadian company.
+...
+Q. And the Department, final question, the Customs Agency here, the Department of Revenue, claims that Victoire Canada assigned a benefit of $60 million to Abeille Ré. From your standpoint?
+A. I really don't see how you could say that. I really don't see how. I do not wish to repeat the entire sequence, but frankly, the $60 million, if you're talking about the amounts that were compensated, they were with Abeille Ré as part of the two elements of the bailout in 90 and 91. I am fully convinced of that.
+[48] Mr. Pierre Bourassa, an actuary, began working at Laurentian General in 1987. In 1993 he was Assistant Director in the company's actuarial division. In September 1997, he drew up a cost assessment for Abeille Ré of the two agreements, namely the proportionate ownership stop loss and the purchase of the international reinsurance division in 1993. His conclusion is that Abeille Ré had suffered losses of $59,679,000. Expressed in terms of a range, the minimum amount could be $54 million and the maximum $71 million:
+[translation]
+So Abeille Ré had lost approximately $60,000,000, but considering the volatility of this portfolio, these losses could range between $54,000,000 and $71,000,000.
+...
+In conclusion, I can say that Abeille Ré suffered estimated losses of $60,000,000 in December 1993 and the subsequent experience showed that the losses incurred were significantly higher in relation to the assessment of December 1993.
+[49] Mr. André Racine, an actuary, has testified as an expert witness. He is a Fellow of the Canadian Institute of Actuaries and of the Casualty Actuarial Society. His primary role at this point is to act as a designated actuary for a number of insurers and reinsurers. He is also a member of the Standards of Practice of the Canadian Institute of Actuaries. His report was tabled as Exhibit A-6 and his curriculum vitae as Exhibit A‑7.
+[50] He reviewed the reports of Mr. Bourassa and Mr. Lessard to determine whether they were in accordance with actuarial standards and whether the conclusions that had been drawn from them were reasonable and justified. He replied in the affirmative:
+[translation]
+A. Yes. What I was asked to do was to review the estimates that had been made by Mr. Bourassa in 1997, who based his work on a loss assessment report that had been made by Mr. Lessard on December 31, 1993. I also reviewed, even if this is not shown in my opinion, a report that was written on the liabilities as of June 30, 1993, for the same business, which was also filed. And the purpose was to assure myself that in those cases, both the work of Mr. Bourassa and the work of Mr. Lessard were consistent with actuarial standards and that the conclusions that were drawn from them were reasonable and justified.
+Q. For the purposes of the file, one could perhaps identify the documents. These are documents A-3 and tab 23; they are ultimately the two actuarial reports that we have in the exhibits.
+...
+... my opinion is that the methodology used is consistent with recognized actuarial practice and the applicable standards, and that the assumptions are reasonable and adequately reflect the data, and that the data are sufficiently credible and appropriately categorized for evaluation purposes.
+Position of the Minister
+[51] On the occasion of the 1993 transaction, the Minister of National Revenue (the "Minister") was of the opinion that a benefit had been conferred by Victoire Canada on Abeille Ré.
+[52] According to the Minister, Abeille Ré received $60 million because it was not required to pay part of the purchase price. This $60 million was given to it because Victoire Canada transferred to it, without compensation, its credit rights with regard to CGL. Thus, a benefit was conferred on Abeille Ré. The benefit would have been $60 million, but the final assessment was $22 million.
+Arguments
+[53] Counsel for the Appellant argued that the question at issue in respect of the assessment based on subsection 15(1) of the Act is whether, on October 8, 1993, when Victoire Canada ceded its rights at the expiry of the September 1990 Subscription Agreement to Abeille Ré, whether it had rights with respect to CGL? Under the agreement, Victoire Canada could have rights against CGL, only if the assets of the shareholders and the reserves were less than those anticipated in the Agreement. Counsel for the Appellant asserted that at all times this credit and these reserves were maintained at the level guaranteed by the Agreement as a result of the bailout actions and the expenses incurred by Abeille Ré.
+[54] Counsel for the Appellant recalled that as a result of agreements following the 1990 agreement, the latter was amended with respect to the date of the review of the adequacy of the assets of the shareholders and the reserves. Furthermore, these agreements anticipated specific agreements between CGL and Victoire France which are: (a) the injection of an additional $25 million by CGL to support the shareholders' assets; (b) the proportionate ownership stop loss agreement; and (c) the agreement regarding the sale of the international reinsurance division. These agreements are described in the exchange of letters between CGL and Groupe Victoire France.
+[55] Counsel argued that for there to be a benefit conferred by a corporation to a shareholder, the corporation must become poorer and the shareholder commensurately richer. Victoire Canada did not become poorer, for it was never entitled to a claim against CGL under the terms of the Agreement of September 1990. The bailout efforts made by Victoire France through Abeille Ré had the effect that Laurentian General Holding Inc. always maintained an appropriate financial image.
+[56] Counsel for the Appellant referred to the following case law, Canada (Attorney General) v. Hoefele, [1995] F.C.J. No. 1340 (QL):
+6 The first issue to consider therefore, is whether there was a "benefit".
+7 The classic statement of what comprises a taxable benefit derives from the Supreme Court of Canada case, The Queen v. Savage. In that case Mr. Justice Dickson, as he then was, explained in clear and simple terms the principle which distinguishes taxable from non-taxable receipts:
+If it is a material acquisition which confers an economic benefit on the taxpayer and does not constitute an exemption, e.g., loan or gift, then it is within the all-embracing definition of section 3.
+According to the Supreme Court of Canada, then, to be taxable as a "benefit", a receipt must confer an economic benefit. In other words, a receipt must increase the recipient's net worth to be taxable. Conversely, a receipt which does not increase net worth is not a benefit and is not taxable. Compensation for an expense is not taxable, therefore, because the recipient's net worth is not increased thereby.
+[57] Counsel for the Respondent stated that the amount of $60 million was calculated on the basis of the terms of the September 1990 Subscription Agreement.
+[58] Counsel admitted that the figure of $60 million did not take into account the injection of capital and the bailout agreements, but he suggested that these elements were not germane to the resolution of this case. When the agreements were signed, it was not with a view to transferring the losses to Abeille Ré nor to transferring profits, it was with the aim of being more or less neutral or in balance. It is part of the business of an insurance company to take risks. It took them and it lost. The only amendment that was made to the 1990 agreement concerned the period of the review to determine the balance at September 30, 1990. According to him, there had been no specific agreements between CGL and Abeille Ré creating an entitlement to $60 million.
+[59] Counsel stated that the parties to the 1993 transaction had recognized in September 1990 that the reserves were insufficient. Counsel referred to this in connection with a letter of intent dated July 6, 1993, between the Compagnie financière du Groupe Victoire and CGL (Exhibit I-1, tab 46). It is signed, for Victoire, by Patrick Werner and for CGL, by Jacques A. Drouin. He referred to page 2, paragraph 2:
+[translation]
+The PARTIES are agreed on the following intentions in respect of the ownership of Laurentian General and the financial compensation between them:
+...
+(2) In compensation for the impairment of the reserves of Laurentian General on September 30, 1990, and in compensation for the guarantees provided by Laurentian relative to the reinsurance agreements contracted by LAURENTIAN GENERAL with Victoire and its affiliates, Laurentian transfer to Victoire 40% of the ordinary shares of Laurentian General currently in circulation.
+[60] He also refers to paragraph 4 of the Memorandum of Agreement between Compagnie financière du Groupe Victoire, ("Victoire France"), Financière Victoire Canada Inc., ("Victoire Canada") and Abeille Réassurances S.A., dated October 8, 1993 (Exhibit I-1, tab 52):
+[translation]
+(4) In order to compensate for any impairment of its reserves and provisions, Laurentian General, with the agreement of Victoire Canada and Victoire France, concluded certain reinsurance agreements with Abeille Ré in December 1990 and Laurentian General transferred to Abeille Ré the assets and liabilities related to its international reinsurance portfolio in December 1991.
+[61] Counsel referred to the transfer clause, which is found in the same agreement (the clause is reproduced at paragraph 36 of these reasons) and asserted that the only rights that can have been transferred by Victoire Canada are the rights in respect of the 1990 agreement, valued at $60 million.
+[62] Counsel also referred to the report prepared by Wood Gundy, which is found at tab 57 of Exhibit I‑1, the wording of which is reproduced at paragraph 43 of these reasons. This report, in his view, clearly demonstrates that the amount of $60 million is in relation to the 1990 Subscription Agreement.
+[63] Counsel read clause 2.2 of the agreement of sale and purchase of shares dated November 17, 1993 (Exhibit I-1, tab 58): [translation] "Details of payment. The purchase price shall be paid as follows: (a) $60,000,000 in affording compensation, against any claim of whatever nature that the Purchaser may have against the Seller …". The purchaser is Abeille Ré. It had just acquired the rights that Victoire Canada had with respect to CGL and there was no other agreement that specified any rights held by Abeille Ré with respect to CGL.
+[64] He submitted that the losses that Abeille Ré sustained following the reinsurance and the transfer stop-loss agreements was not relevant to the case at issue. These are the losses and the risks of Abeille Ré. According to Counsel, there is no relationship in law between Abeille Ré and CGL.
+[65] Counsel for the Respondent does not believe that the meaning of the benefit in subsection 15(1) of the Act requires a balancing element of impoverishment and enrichment. He refers to the decision of Jérôme J. of the Federal Court (Trial Division) in Helen Vine, in her capacity as Executrix of the Last Will and Testament of William J. Vine v. The Queen, 89 DTC 5528, at page 5532:
+Youngman v. The Queen, [1986] 2 C.T.C. 475; 86 DTC 6584; 7 F.T.R. 141 (F.C.T.D.) involved a taxpayer who lived in a house built for him and his family by a company in which he was the controlling shareholder. The Court held that the taxpayer had received a taxable benefit from the company, the measure of which was the company's equity in the property, that is, the cost of acquiring the luxury home. Regarding s. 15(1)(c), on which the assessment was based, McNair J. states, at page 6587 (DTC):
+There is no definition of "benefit" or "advantage" in the Act and the words are thus capable of the broadest possible interpretation. Nor is there any simple, prescribed formula for resolving any question of shareholder benefit within the meaning of section 15(1)(c) essentially, each case must be decided on its own particular facts.
+Analysis and conclusion
+[66] Subsection 15(1) of the Act reads in part as follows:
+15(1) Benefits conferred on shareholder — Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by ...
+[67] In order to agree with the Minister and conclude that the Appellant, Victoire Canada, in 1993 conferred a benefit of $60 million and at least $22 million on Abeille Ré, I would have to be certain that in 1993, Victoire Canada had a credit of $60 million with CGL. To do so, I would have to set aside what happened in fact. What happened in fact was admitted by the Respondent, but Counsel for the Respondent proposes that I should not take this into account because the parties did not take it into account in calculating the credit.
+[68] The claim of $60 million was calculated as if the bailout agreements had not existed. It was the basis of the calculation. That cannot mean, however, that the Appellant was entitled to this claim if the financial situation of Laurentian General had been maintained. The bailout efforts had taken place with their positive effects in respect of the latter and the losses or the bailout costs remained with Abeille Ré. In other words, the financial loss was borne not by Laurentian General, but by Abeille Ré. That is what the evidence revealed.
+[69] It is true that the losses of Abeille Ré could not be claimed against Laurentian General and that these were losses of Abeille Ré. The bailout agreements were not worded in that way. Had they been, Laurentian General would have had to take these risks into account in the presentation of its financial statements. That would have had a negative impact on them.
+[70] However, the bailout efforts had been undertaken with the consent of CGL, which had undertaken to compensate Abeille Ré if its bailout efforts proved fruitless. This is how the various letters of agreement exchanged between CGL and Victoire France, which were reported at the beginning of these Reasons, must be read. It is also the understanding of the various witnesses who were party to these agreements and to the 1993 transaction.
+[71] The Agreement of September 1990 and the various letters of agreement had created a complex legal situation. The briefs by the legal advisers of Victoire France, from December 1992, which are found at tab 18 of Exhibit A-1, testify to this. It was difficult to establish with any certainty the right to claim the losses incurred by Victoire France.
+[72] In 1993, CGL wanted to divest itself of Laurentian General. The only acceptable purchaser was the Victoire group. The negotiations took place with this group. As is mentioned in one of the letters, these negotiations were long and difficult. They were spread over a period of six months. CGL agreed that it had obligations in respect of the various letters exchanged between Messrs Drouin and Arvis. These obligations were calculated as though the bailout efforts had not taken place. The credit of Victoire France was calculated not on the basis of the losses incurred by Abeille Ré but as a function of what the Appellant would have been entitled to had there not been the expensive Abeille Ré action.
+[73] Counsel for the Respondent made much of the report of the accountants submitted to the shareholders (paragraphs 43 and 62 of these Reasons) which mentions only the amount of the impairment in September 1990, without discussing the bailout agreements. This is the picture that was presented to the shareholders. The presentation of this picture cannot alone bind the Appellant. The situation must be accepted and the realities taken into account: the economic situation of the company, the negotiations between the two main groups and the actions taken to address the serious problems, and accept the agreements, if these agreements are reasonably founded.
+[74] Why was an assignment in law clause drafted, if there was nothing to assign? On the part of the seller, namely CGL, it gave it the security of a final settlement of all the elements at issue in a complex legal situation. It seems to me normal in agreements of this kind to want to give closure to all potential sources of litigation.
+[75] Counsel for the Respondent proposes that it is not necessary that there be a correlation of impoverishment and enrichment in the case of a benefit under subsection 15(1) of the Act. He cites as an example the use of an asset of the company, such as a house or a boat, placed at the disposal of a shareholder.
+[76] One would have to look at the basis on which the benefit is calculated in these cases. I do not want to analyze all the situations of benefit pursuant to subsection 15(1) of the Act, but it seems to me undeniable that in the case of a benefit that is calibrated as a function of the transfer of a credit, this credit must have existed on the balance sheet of the transferring company. The evidence must show the credit to be valid.
+[77] The evidence has revealed that, according to the financial statements of Laurentian General, thanks to the action of Abeille Ré, there was never the matter of a claim in relation to the insufficiency of the assets of the shareholders and reserves. This led to the result that there was never a credit belonging to the Appellant with respect to CGL.
+[78] The way a credit is calculated is one thing, the right to a credit is another. What happened in fact prevented the creation of a valid credit in favour of the Appellant against the vendor, CGL.
+[79] In consequence, I conclude that no benefit was conferred upon a shareholder of the Appellant under the agreement of October 8, 1993. The appeal is granted with costs.
+Signed at Ottawa, Canada, this 11th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 22nd day of July 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC4
+COURT FILE NO: 2003-3021(IT)G
+STYLE OF CAUSE: AXA CANADA INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 26, 27 and 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: January 11, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Wilfrid Lefebvre
+Dominic C. Belley
+Counsel for the Respondent:
+Richard Gobeil
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Wilfrid Lefebvre
+Firm: Ogilvy Renault
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

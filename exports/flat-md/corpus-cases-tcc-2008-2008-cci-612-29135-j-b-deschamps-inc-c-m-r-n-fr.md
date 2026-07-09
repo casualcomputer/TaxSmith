@@ -1,0 +1,235 @@
+---
+title: "J. B. Deschamps Inc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29135/index.do"
+last_modified: "2008-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 612"
+citation2: ""
+neutral_citation: "2008 CCI 612"
+decision_date: "2008-12-19"
+language: "fr"
+item_id: "29135"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6635
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:05:23.695000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf20f83f2b5406a8560401bb1070a68dcb6444dad5d45e74b0c784a1fac2221d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# J. B. Deschamps Inc c. M.R.N.
+
+- Citation: 2008 CCI 612
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6635, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+J. B. Deschamps Inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-19
+Référence neutre
+2008 CCI 612
+Numéro de dossier
+2008-1157(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1157(EI)
+ENTRE :
+J. B. DESCHAMPS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 23 octobre 2008, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 612
+Date : 20081219
+Dossier : 2008-1157(EI)
+ENTRE :
+J. B. DESCHAMPS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision selon laquelle le travail exécuté du 1er janvier 2006 au 15 mai 2007 par les frères Deschamps, à savoir Christian, Francis et Jean, pour le compte de la société appelante J. B. Deschamps inc., était assurable.
+[2] Lorsque les personnes qui exécutent un travail sont liées à leur employeur en vertu des dispositions de la Loi de l’impôt sur le revenu, et la Loi sur l’assurance-emploi («la Loi ») prévoit que le travail en question est exclu des emplois assurables. Cependant, le législateur a prévu une exception lorsque le travail en question a été effectué dans des circonstances et à des conditions semblables à celles qu’un travailleur et un employeur sans lien de dépendance accepteraient. Pour conclure à l’application de l’exception, le législateur a attribué à l’intimé un pouvoir discrétionnaire qu’il doit exercer en tenant compte de certains critères, le tout étant énoncé comme suit :
+5 (3)b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[3] Lorsque ce pouvoir discrétionnaire a été exercé d’une manière judicieuse et irréprochable, la Cour canadienne de l’impôt n’a pas le pouvoir de changer la décision.
+[4] Lorsqu’une personne initie un appel dans le but de faire annuler une décision et d’obtenir une nouvelle évaluation, celle-ci doit, dans un premier temps, faire la preuve que l’analyse a été réalisée d’une manière inadéquate en ce que certains faits et éléments n’ont pas été pris en compte ou qu’une importance démesurée a été donnée à des éléments anodins ou secondaires.
+[5] En d’autres termes, il incombe à la Cour de vérifier la qualité du travail fait par l’intimé dans le cadre de l’exercice de son pouvoir discrétionnaire.
+[6] Si tous les faits pertinents ont été pris en compte et évalués d’une manière objective et que la conclusion retenue s’inscrit dans une logique raisonnable, le tribunal devra simplement valider la raisonnabilité de la conclusion, et cela même si, à partir des mêmes faits et circonstances, il aurait pu en arriver à une autre conclusion.
+[7] Pour expliquer et justifier le bien-fondé de sa décision, l’intimé a tenu pour acquis les faits énumérés dans la Réponse à l’avis d’appel. Parmi ces faits, le procureur de l’appelante a admis ou nié les faits suivants :
+5. […]
+a) l’appelante a été constituée en société le 31 décembre 1979; (admis)
+b) l’appelante se spécialise dans l’impression commerciale de documents confidentiels, tels que des actes de naissance ou de décès; (admis)
+c) de part la nature de ses activités, l’appelante possède une usine opérant 24 heures par jour, 7 jours par semaine alors que les heures d’ouverture du bureau sont du lundi au vendredi, de 7 h 30 à 17 h; (admis)
+d) l’appelante a un chiffre d’affaires s’élevant à 25 millions de dollars par année et embauche plus de 240 employés; (admis)
+e) les travailleurs étaient actionnaires de l’appelante et travaillaient à l’année pour l’entreprise de l’appelante; (admis)
+f) les travailleurs étaient directeurs d’un secteur d’activité de l’appelante et étaient tous membres du conseil d’administration de l’appelante; (admis)
+g) les travailleurs étaient à l’emploi de l’appelante depuis plus de 20 ans et occupaient les postes suivants : (admis)
+- Christian était le vice-président administratif de l’appelante;
+- Francis Deschamps était le vice-président et approvisionnement, recherche et développement de l’appelante;
+- Jean Deschamps était le président de l’appelante;
+h) les travailleurs prennent ensemble toutes les grandes décisions concernant l’exploitation de l’entreprise de l’appelante; (admis)
+i) les travailleurs se rencontrent et se réunissent quotidiennement au bureau et assistent aux réunions annuelles du conseil d’administration de l’appelante; (admis)
+j) les travailleurs n’ont cautionné aucun prêt ou marge de crédit à l’appelante; (admis)
+k) les travailleurs et leur père, Jules Deschamps, possèdent le pouvoir de signature sur les comptes bancaires de l’appelante; (admis)
+l) pour le compte chèque de l’appelante, une seule signature est requise alors que pour les prêts et la marge de crédit, 2 signatures sont requises; (admis)
+m) de façon générale, les travailleurs exercent leurs fonctions dans les bureaux de l’appelante localisés dans ses succursales de Québec et de Montréal; (admis)
+n) les travailleurs n’ont pas à respecter un horaire fixe de travail; ils travaillaient généralement durant les heures d’ouverture du bureau et faisaient les heures suivantes : (nié)
+- Christian faisait entre 35 et 50 heures par semaine;
+- Francis faisait entre 35 et 55 heures par semaine;
+- Jean faisait entre 40 et 50 heures par semaine;
+o) les heures de travail des travailleurs n’étaient pas inscrites ou comptabilisées par l’appelante; (admis)
+p) les travailleurs, tout comme les autres employés cadres de l’appelante, possédaient une assurance salaire; (admis)
+q) les travailleurs avaient un fonds de pension à prestations déterminées alors que les autres employés de l’appelante avaient un fonds de pension à cotisations déterminées; (admis)
+r) chacun des travailleurs recevait une rémunération annuelle fixe déterminée lors des réunions du conseil d’administration; (admis)
+s) la rémunération des travailleurs était établi en fonction des tâches et responsabilités de chacun; (admis)
+t) en 2006, l’appelante a octroyé une augmentation salariale de 2 % à tous ses employés et les travailleurs ont reçu une augmentation de 2 000 $; (admis)
+u) en 2006, les travailleurs ont reçu les gains suivants : (admis)
+- Christian a reçu une rémunération de 117 899 $ et des avantages imposables totalisant 5 128,44 $,
+- Francis a reçu une rémunération de 109 572 $ et des avantages imposables totalisant 6 362,45 $,
+- Jean a reçu une rémunération de 146 152 $ et des avantages imposables totalisant 6 765,14 $,
+v) l’appelante fournie l’usage d’une automobile aux travailleurs et toutes les dépenses reliées à cette automobile sont remboursées par l’appelante; (admis)
+w) tous les frais engagés dans l’exécution de leurs tâches sont payés avec une carte de crédit fourni par l’appelante; (nié)
+x) les travailleurs ont droit à des vacances annuelles dont le nombre de semaines n’est pas établi; ils en prennent 6 ou 7 par année; (admis)
+6. […]
+a) le seul actionnaire de l’appelante était la compagnie Corporation Financière J. Deschamps; (admis)
+b) Corporation Financière J. Deschamps est une compagnie de "holding" dont l’actionnaire majoritaire était M. Jules Deschamps; (admis)
+c) entre le 1er janvier 2004 et la fin de la période en litige, les travailleurs ont détenu chacun, entre 2,72 % et 2,84 % des actions comportant droit de vote de la compagnie Corporation Financière J. Deschamps; (admis)
+d) durant cette période, M. Jules Deschamps détenait la balance des actions comportant droit de vote de Corporation Financière J. (plus de 91 %); (admis)
+e) M. Jules Deschamps est le père des travailleurs; (admis)
+f) les travailleurs étaient liés à une personne qui contrôlait l’appelante. (admis)
+7. […]
+a) les travailleurs ne comptabilisaient pas leurs heures de travail mais étaient assujettis au pouvoir de l’appelante exercé par la voix de son conseil d’administration dont ils faisaient partie avec leur père; (admis)
+b) même s’ils n’avaient pas à respecter un horaire de travail, ils exécutaient habituellement leurs tâches durant les heures d’ouverture des bureaux de l’appelante et faisaient généralement entre 30 et 55 heures par semaine; (admis)
+c) les travailleurs recevaient une rémunération raisonnable eu égard aux tâches qui leurs étaient assignées par l’appelante et leur rémunération était décidée lors des réunions annuelles du conseil d’administration de l’appelante; (nié)
+d) compte tenu de l’envergure de l’entreprise de l’appelante, des tâches et responsabilités de chacun des travailleurs, leur rémunération correspondait aux besoins économiques et opérationnels de l’appelante; (nié)
+e) chacun des travailleurs demeurait responsable de son secteur d’activités et rendait des services à l’appelante comme salarié tout en se consultant régulièrement sur le fonctionnement général de l’entreprise; (nié)
+f) le travail de chacun des travailleurs était essentiel et indispensable à la bonne marche des activités de l’appelante car ils détenaient, tous les 3 des postes de dirigeant; (admis)
+g) si les travailleurs avaient des conditions de travail particulières ce n’était pas en vertu de leur lien de dépendance avec l’appelante mais en vertu de leur statut de cadre de l’appelante; (nié)
+[8] En l’espèce, messieurs Jean et Christian Deschamps ont témoigné; la preuve soumise au soutien de l’appel repose essentiellement sur leur témoignage. Dans un premier temps, monsieur Jean Deschamps a fait l’historique de l’entreprise. Il a expliqué que l’entreprise avait été exploitée par sa famille depuis trois générations et qu’elle était maintenant dirigée par les trois frères Deschamps.
+[9] Fondée en 1926, l’entreprise a connu plusieurs transformations. En 1945, le père des trois travailleurs l’avait acquise de leur grand-père pour l’exploiter avec ses frères, soit les oncles de Jean, Christian et Francis.
+[10] En 1979, les trois frères dirigeaient l’entreprise avec leur père et leur sœur.
+[11] En 1995, à la suite d’une profonde mésentente sur l’orientation de l’entreprise, la sœur a vendu ses actions aux autres actionnaires qui ont continué à exploiter.
+[12] Le père détenait la très grande majorité des actions de la société « J. B. Deschamps inc. » et, au fil des ans, il s’est désintéressé graduellement de l’administration de la société.
+[13] Pendant la période en litige, monsieur Jules Deschamps, alors âgé de 80 ans, avait réduit le temps qu’il consacrait à la société.
+[14] Son fils Christian a même affirmé que leur père semblait plus préoccupé par les fleurs et les arrangements floraux que par les activités quotidiennes de l’entreprise.
+[15] Il a également été question de confiance que le père avait en ses trois fils qui gèrent l’entreprise comme si elle leur appartenait.
+[16] Jean Deschamps a fourni plusieurs exemples de décisions très importantes, telles des acquisitions, notamment l’achat d’équipement et de machinerie, dont le coût s’élevait à quelques millions. Il a affirmé que, par respect, les frères Deschamps lui en parlait, mais le plus souvent après coup.
+[17] Règle générale, le père n’était ni consulté, ni appelé à contribuer aux activités de l’entreprise même pour les opérations stratégiques comme la modernisation de l’entreprise rendue nécessaire pour lui permettre de demeurer compétitive.
+[18] De nouveaux créneaux se sont ajoutés, ce qui globalement a eu pour effet de rendre l’entreprise méconnaissable aux yeux de monsieur Jules Deschamps, père. La gestion se faisait normalement par le biais de réunions informelles où seuls les trois frères participaient à la prise de décisions courantes, importantes ou stratégiques.
+[19] Lors de la période en litige, l’entreprise comptait plus de 200 employés et un chiffre d’affaires annuel de l’ordre de plus de 25 millions de dollars. Œuvrant dans le domaine ultra-spécialisé de l’imprimerie et exécutant des travaux très sophistiqués, l’entreprise se doit de faire régulièrement des acquisitions d’équipement pour se maintenir à la fine pointe de la technologie.
+[20] L’évolution rapide et très importante de l’industrie, les nombreux changements, l’ajout de nouvelles avenues et les exigences multiples des clients de plus en plus nombreux sont des facteurs qui, combinés à l’âge avancé de leur père, expliquent pourquoi ce dernier s’est, à toutes fins pratiques, retiré complètement de la direction de l’entreprise bien qu’il possède encore un bureau dans l’entreprise et qu’il participe à l’occasion à certaines réunions, notamment à l’assemblée annuelle où sont déposés les états financiers.
+[21] L’intimé a ensuite fait témoigner madame Johanne Potvin, l’agente des appels. Cette dernière a expliqué le travail qu’elle avait effectué et a souligné les faits qu’elle avait notamment pris en considération pour rendre sa décision.
+[22] Lors des contre‑interrogatoires, il est ressorti qu’une dame Poirier aurait enregistré les conversations téléphoniques de l’agente des appels à son insu. La transcription de l’enregistrement aurait été remise au procureur de l’appelante qui l’aurait utilisée pour son contre‑interrogatoire. Cette façon de faire est tout à fait inappropriée, d’autant plus que l’enregistrement s’est manifestement fait à l’insu de madame Potvin dans le but évident de la piéger.
+[23] D’ailleurs, un des frères Deschamps a expliqué que certaines de ses réponses avaient été laissées volontairement incomplètes de manière à éviter certaines conséquences de nature fiscale.
+[24] Devant la Cour, le fardeau de la preuve incombe à la personne qui initie l’appel. D’une part, il n’est pas facile de s’acquitter d’un tel fardeau et, d’autre part, la Cour a une compétence très limitée en ce sens qu’elle ne peut intervenir si l’intimé a exercé correctement son pouvoir discrétionnaire en prenant en considération tous les faits pertinents, en leur donnant une interprétation judicieuse et raisonnable, et en procédant d’une manière honnête et transparente.
+[25] Dans certaines situations où l’appelant n’est pas représenté, l’agent des appels doit faire un effort particulier pour s’assurer que tous les faits pertinents ont été recueillis puisqu’un tel appelant pourrait très bien ne pas être en mesure de reconnaître tous les éléments qui sont pertinents à son dossier. Dans un tel cas, l’intimé serait mal vu d’alléguer que les renseignements obtenus sont insuffisants ou incomplets. Ce seul élément pourrait contribuer à discréditer la qualité du travail de l’intimé et ainsi mettre en doute son travail au niveau de l’exercice de son pouvoir discrétionnaire.
+[26] Par contre, si une personne représentée par une ou des personnes compétentes cache volontairement un élément pertinent dans le but de le soulever devant la Cour pour discréditer l’intimé en ce qui concerne l’exercice de son pouvoir discrétionnaire et obtenir ainsi une révision de la décision, cette façon de procéder doit être écartée car elle est manifestement déraisonnable. Accepter une telle façon de faire ou y souscrire aurait pour effet de discréditer l’administration de la justice en rendant l’étape de la révision tout à fait inutile.
+[27] En l’espèce, les seuls reproches ou griefs soulevés quant à la qualité de l’exercice du pouvoir discrétionnaire découlent d’une mise en scène ayant pour seul but de piéger l’agente des appels en lui cachant certaines informations ou en donnant des informations incomplètes ou mensongères; je ne retiens donc pas cette preuve ni aucun de ces griefs et je conclus que l’exercice du pouvoir discrétionnaire a été fait d’une manière irréprochable et ce à partir des seuls faits qui ont été admis par le procureur de l’appelante et qu’il y a lieu de reproduire :
+a) l’appelante a été constituée en société le 31 décembre 1979; (admis)
+b) l’appelante se spécialise dans l’impression commerciale de documents confidentiels, tels que des actes de naissance ou de décès; (admis)
+c) de part la nature de ses activités, l’appelante possède une usine opérant 24 heures par jour, 7 jours par semaine alors que les heures d’ouverture du bureau sont du lundi au vendredi, de 7 h 30 à 17 h; (admis)
+d) l’appelante a un chiffre d’affaires s’élevant à 25 millions de dollars par année et embauche plus de 240 employés; (admis)
+e) les travailleurs étaient actionnaires de l’appelante et travaillaient à l’année pour l’entreprise de l’appelante; (admis)
+f) les travailleurs étaient directeurs d’un secteur d’activité de l’appelante et étaient tous membres du conseil d’administration de l’appelante; (admis)
+g) les travailleurs étaient à l’emploi de l’appelante depuis plus de 20 ans et occupaient les postes suivants : (admis)
+- Christian était le vice-président administratif de l’appelante;
+- Francis Deschamps était le vice-président et approvisionnement, recherche et développement de l’appelante;
+- Jean Deschamps était le président de l’appelante;
+h) les travailleurs prennent ensemble toutes les grandes décisions concernant l’exploitation de l’entreprise de l’appelante; (admis)
+i) les travailleurs se rencontrent et se réunissent quotidiennement au bureau et assistent aux réunions annuelles du conseil d’administration de l’appelante; (admis)
+j) les travailleurs n’ont cautionné aucun prêt ou marge de crédit à l’appelante; (admis)
+k) les travailleurs et leur père, Jules Deschamps, possèdent le pouvoir de signature sur les comptes bancaires de l’appelante; (admis)
+l) pour le compte chèque de l’appelante, une seule signature est requise alors que pour les prêts et la marge de crédit, 2 signatures sont requises; (admis)
+m) de façon générale, les travailleurs exercent leurs fonctions dans les bureaux de l’appelante localisés dans ses succursales de Québec et de Montréal; (admis)
+o) les heures de travail des travailleurs n’étaient pas inscrites ou comptabilisées par l’appelante; (admis)
+p) les travailleurs, tout comme les autres employés cadres de l’appelante, possédaient une assurance salaire; (admis)
+q) les travailleurs avaient un fonds de pension à prestations déterminées alors que les autres employés de l’appelante avaient un fonds de pension à cotisations déterminées; (admis)
+r) chacun des travailleurs recevait une rémunération annuelle fixe déterminée lors des réunions du conseil d’administration; (admis)
+s) la rémunération des travailleurs était établi en fonction des tâches et responsabilités de chacun; (admis)
+t) en 2006, l’appelante a octroyé une augmentation salariale de 2 % à tous ses employés et les travailleurs ont reçu une augmentation de 2 000 $; (admis)
+u) en 2006, les travailleurs ont reçu les gains suivants : (admis)
+-Christian a reçu une rémunération de 117 899 $ et des avantages imposables totalisant 5 128,44 $,
+- Francis a reçu une rémunération de 109 572 $ et des avantages imposables totalisant 6 362,45 $,
+- Jean a reçu une rémunération de 146 152 $ et des avantages imposables totalisant 6 765,14 $,
+v) l’appelante fournie l’usage d’une automobile aux travailleurs et toutes les dépenses reliées à cette automobile sont remboursées par l’appelante; (admis)
+x) les travailleurs ont droit à des vacances annuelles dont le nombre de semaines n’est pas établi; ils en prennent 6 ou 7 par année; (admis)
+6. […]
+a) le seul actionnaire de l’appelante était la compagnie Corporation Financière J. Deschamps; (admis)
+b) Corporation Financière J. Deschamps est une compagnie de "holding" dont l’actionnaire majoritaire était M. Jules Deschamps; (admis)
+c) entre le 1er janvier 2004 et la fin de la période en litige, les travailleurs ont détenu chacun, entre 2,72 % et 2,84 % des actions comportant droit de vote de la compagnie Corporation Financière J. Deschamps; (admis)
+d) durant cette période, M. Jules Deschamps détenait la balance des actions comportant droit de vote de Corporation Financière J. (plus de 91 %); (admis)
+e) M. Jules Deschamps est le père des travailleurs; (admis)
+f) les travailleurs étaient liés à une personne qui contrôlait l’appelante. (admis)
+7. […]
+a) les travailleurs ne comptabilisaient pas leurs heures de travail mais étaient assujettis au pouvoir de l’appelante exercé par la voix de son conseil d’administration dont ils faisaient partie avec leur père; l’appelante a été constituée en société le 31 décembre 1979; (admis)
+b) même s’ils n’avaient pas à respecter un horaire de travail, ils exécutaient habituellement leurs tâches durant les heures d’ouverture des bureaux de l’appelante et faisaient généralement entre 30 et 55 heures par semaine; l’appelante a été constituée en société le 31 décembre 1979; (admis)
+[28] J’ajoute, en outre, que, même si l’appelante m’avait convaincu que l’exercice du pouvoir était entaché de vices quelconques ou de manquements importants, j’aurais quand même confirmé le bien‑fondé de la décision qui fait l’objet du présent appel.
+[29] En effet, l’appelante, par le biais de son procureur, a admis que les trois frères, à savoir Christian, Francis et Jean, assumaient dans les faits le contrôle de l’entreprise. Partant de cette admission, la prépondérance de la preuve est à l’effet que les liens familiaux n’ont joué aucun rôle dans l’établissement des conditions de travail et des salaires. Le litige porte sur la qualité des contrats de travail et non pas sur la particularité du partage des actions et des droits que conféraient de telles actions.
+[30] Les quelques comparaisons soumises, notamment quant à la possibilité d’utiliser un bien (en l’espèce les camions de l’entreprise) à des fins personnelles, de souscrire à une assurance-salaire, de jouir d’une certaine autonomie et d’utiliser les services d’un employé à des fins personnelles sont tous des avantages dont jouissent fréquemment les dirigeants d’entreprises qui ne sont pas liés à leur employeur.
+[31] D’ailleurs, il s’agit là d’avantages imposables faisant très souvent l’objet de cotisations. Or, ce genre de cotisation ne se limite pas aux dossiers où les personnes sont liées à leur employeur.
+[32] Pour toutes ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 612
+Nº DU DOSSIER DE LA COUR : 2008-1157(EI)
+INTITULÉ DE LA CAUSE : J. B. DESCHAMPS INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 23 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 19 décembre 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,329 @@
+Title: Roth v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27282/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-484-27282-roth-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-02
+
+# Roth v. The Queen
+
+- Citation: 2005 TCC 484
+- Decision date: 2005-08-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 889, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roth v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-02
+Neutral citation
+2005 TCC 484
+File numbers
+2003-474(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-474(IT)G
+BETWEEN:
+RAY ROTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Tri Pacific Gas Corporation (2004-473(IT)G) on November 17, 2004,
+at Calgary, Alberta
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy and
+Jonathan D. Warren
+Counsel for the Respondent:
+Julie Rogers-Glabush
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed with the result that the sum of $371,726 will be included in his income by virtue of subsection 15(1) of the Income Tax Act for his 1998 taxation year.
+Signed at Ottawa, Canada, this 5th day of August 2005.
+"R.D. Bell"
+Bell, J.
+Docket: 2003-473(IT)G
+BETWEEN:
+TRI PACIFIC GAS CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Ray Roth (2004-474(IT)G) on November 17, 2004, at Calgary, Alberta
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy and
+Jonathan D. Warren
+Counsel for the Respondent:
+Julie Rogers-Glabush
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed with the result that the sum of $363,552 is not deductible by it in its 1998 taxation year.
+Signed at Ottawa, Canada, this 5th day of August 2005.
+"R.D. Bell"
+Bell,
+Citation: 2005TCC484
+Date: 20050802
+Docket: 2003-474(IT)G
+BETWEEN:
+RAY ROTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+2004-473(IT)G
+AND BETWEEN:
+TRI PACIFIC GAS CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+ISSUE PERTAINING TO RAY ROTH (“Roth”)
+[1] Whether the amount of $371,726 received by Roth from Tri Pacific Gas Corporation (“Tri Pacific”) in his 1998 taxation year should be included in his income by virtue of Section 15(1) of the Income Tax Act (“Act”).
+ISSUE PERTAINING TO TRI PACIFIC
+[2] Whether Tri Pacific was entitled to deduct $363,552 in computing its income for its 1998 year ending March 31, 1998.[1]
+FACTS
+[3] The Appellants’ first witness was Ray Roth (“Roth”). He testified that Tri Pacific was incorporated on November 8, 1991 and became active in business in January 1992. He said he became a director on March 24, 1992. He also said that although BAS Ventures Inc. (“BAS”) was shown as a shareholder of Tri Pacific, in fact he and a Ron Cripps (“Cripps”) a chartered accountant and a partner of Ernst & Young, became the sole owners of Tri Pacific, each owning 50 percent thereof[2]. He stated that he was not related to Cripps. Roth said that in early 1992 Ernst & Young was chosen as the accounting firm and because Cripps worked there:
+… we utilized Mr. Cripps’ experience, plus the experience of Ernst & Young.
+He said further that Cripps was a director and the Chief Financial Office of Tri Pacific but is now deceased.[3] Roth testified that he had acquired Cripps’ shares of Tri Pacific prior to his death and that, at that point, Cripps ceased to be a director, shareholder and the Chief Financial Officer of Tri Pacific. He also said that an accountant, Mac Bender:
+… was retained for us and worked with us from early 92 through 1998 and still gives counsel.
+He then stated that Bender was still with Tri Pacific.
+[4] In answer to his counsel’s question as to why he was before the Court, he said:
+Yes, sir. I had a project. I had expenses. I had a project that I presented to Mr. Cripps to determine whether or not I should look at it in a particular sequence of events and at his suggestion, and with the monies that I had laid out over a period of time, at his recommendation, we set up a journal entry. And the journal entry so stated that three hundred and seventy thousand dollars ($370,000) would go to Tri Pacific Gas as a -- as pre-development costs and a promissory note would be given back to Roth for three hundred and seventy thousand ($370,000) as a loan -- payable loan.
+[5] Roth described a conversation with an acquaintance, Karey Sloane (“Sloane”), who described to him the revitalized interest of an LNG (Liquefied Natural Gas) purchasing group in South East Asia. Roth said that he had told Sloane that he thought the time was right for an LNG project. He described the project as shipping 3.5 million tons of liquefied natural gas each year from the west coast of Canada to South East Asia, the market being Japan, Taiwan and Korea. His enthusiasm for this project was that:
+… we had a gas bubble in western Canada and the price of gas was low, the price that we would receive for liquefied natural gas in the -- in South East Asia was based on a -- on what they call a basket of crude oil cost translated into a BTU equivalent from oil to gas and because of that, the return that we could give gas producers was far in excess of what they were receiving on a domestic or a market into the US.
+[6] The following exchange then took place between Roth and his counsel:
+Q: Now, Mr. Roth, you mentioned when you approached Mr. Cripps in -- in 1991, I believe it was, the end of 1991, you also mentioned certain expenses that you incurred which eventually became the subject of a journal entry. Can you explain to the Court what these pre-development -- or sorry, what these expenses you incurred were for?
+A: I had expenses to the tune of approximately three hundred and seventy thousand dollars ($370,000). It was for transportation, accommodation, entertainment, intellectual proprietary knowledge, engineering, designing consulting … I had access to knowledge about the cryogenics.[4]
+He stated that these fees were incurred from April 15, 1978 through 1981. He said that part of the expenses was in respect of travel between Singapore and Jakarta, Indonesia, between Singapore and Kuala Lampur, Malaysia and Bangkok, Thailand. He said that the travel also included Singapore to mainland U.S.A. and to Canada to visit with the various corporations interested in the project. He stated that these numerous trips were to develop the interest in LNG.
+[7] Roth then described the activities of PT Pertamina, the Indonesian government oil company. He said its LNG facility in East Kalimantan, Indonesia was capable of producing three and one-half million tons of LNG a year. He said that it imported huge quantities to Japan, and that it wanted two additional trains (production units) requiring capital in excess of “a couple hundred million dollars to bring these additional trains on stream”.
+I told Pertamina that I knew of potential sources of such funds and I travelled from Indonesia to Calgary and to San Francisco and Houston, for example, in connection with this Project.
+[8] Roth then produced two debit advices, one for $20,513.64 and the other for $25,036.25. He said that they formed part of the $370,000 submitted to Cripps. He said further, that the $25,036.25 was for agency fees, engineering and design. He explained that in South East Asia one requires an agent and the agent acquires his fees for work performed, this being “part and parcel of the engineering and design”. He then said that the amount of $20,513.64 was for agency fees and engineering.
+[9] In answer to a question from his counsel as to whether he had any receipts or invoices respecting the trips, Roth replied:
+I had receipts. The receipts were submitted in late May -- early June to Mr. Cripps at his suggestion and recommendation and that they would take those and take the -- to the tune of $373,000 -- I’m sorry, $370,000 -- and that those would be shown on the books of Tri Pacific as a debit to project development and a credit to notes payable and that notes payable was a promissory note to Ray Roth.
+Roth then affirmed that Cripps was, at that time, a director and the Chief Financial Officer of Tri Pacific.
+[10] When asked when the receipts were provided to him, Roth said:
+It was just after April. The taxation year was over. He wanted to clean up what we were doing relative to the paperwork on Tri Pacific Gas. It was his recommendation that we do a journal entry and that they produce -- Ernst & Young produce a promissory note to show that I had transferred my ownership in the Project to Tri Pacific Gas for the promissory note.
+He then said that the promissory note was held by Cripps or Ernst & Young who had produced same. He said that Cripps looked at the invoices and felt that they were justifiable expenses. He also stated that his interest in the Tri Pacific Gas project was transferred to Tri Pacific for $370,000. Roth then said that in 1994 he and Cripps visited with a gentleman who was part of a company called Capital Projects or Straits Crossing which had built the Northumberland Bridge. He said that in 1994:
+… we entered into a working agreement with Capital Projects Group. I was retained under the name of Tri Pacific Gas as a consultant to spend my time 100 percent on behalf of the project and in that management contract and in that agreement, we submitted the invoices, the receipts to the tune of $370,000, to PAC-RIM LNG, Capital Projects Group, and the contract and the agreement shows those invoices as being received.
+He then said that those receipts were retained by the PAC-RIM LNG, the final entity of the LNG project. He added that he and another man “went back and checked through the files and they were not there.” He said that he assumed that the promissory note was held by Ernst & Young and because the project started to slow down in 1993, that firm had nothing more to do with the project and there was “no reason for us to pursue the promissory note at that time.” He stated that he had taken no security for the note and that Tri Pacific, at that time, had no assets. He then said:
+I had -- if the project went forward, I had access to legal recourse.
+He said that at that time Tri Pacific was owned as to 50 percent by himself and 50 percent by Cripps. He stated that the amount that was in the journal entry reflected the amount of expenses that he had incurred to that date respecting the LNG product and that it was within $1,000 of the entry, the exact amount being $371,156.
+[11] Roth was then referred to a MANAGEMENT AGREEMENT dated November 1, 1994 between PAC-RIM LNG JOINT VENTURE, A JOINT VENTURE COMPRISED OF CAPITAL PROJECTS GROUP INC. AND BAS VENTURES INC. and Tri Pacific Gas Corporation, referred to as the “Consultant”. He referred to paragraph 9 of that agreement which reads as follows:
+The Joint Venture has been advised that the Consultant has incurred costs and accrued certain liabilities for the time period prior to August 1, 1994 in the amount of $371.146.00. The Consultant shall provide the Joint Venture with a detailed schedule and allow the Joint Venture to audit the prior period costs to confirm that such costs were properly paid or accrued with respect to the Project. The Joint Venture agrees, if the Project proceeds, the financing is in place and out of the first available project financing funds, that the Consultant shall be paid its prior period costs of $371,146.00 in full satisfaction of any claim by the Consultant with respect to the Project. The Joint Venture acknowledges that this obligation shall survive the termination of this Management Agreement and shall continue as a binding obligation of the Joint Venture until the Joint Venture has been terminated in accordance with its terms.
+In fact, the above costs, described as having been incurred prior to August 1 1994, had been incurred between April 1978 and the end of 1981.
+That Management Agreement also contained the following provisions, set out by paragraph number:
+1) The Consultant shall make available to the Joint Venture all of the information with respect to the Project and other similar projects in its possession in order to facilitate the evaluation and feasibility of the Project during Phase I.
+2) The Consultant represents and warrants to the Joint Venture that it has full right and authority to all of the information with respect to the Project and other similar projects and that there is no impediment, legal or otherwise, that would prevent disclosure by Consultant to the Joint Venture of such information.
+3) The Consultant has agreed to make available the services of Mr. Ray Roth, its President on a full-time and exclusive basis during Phase I.
+5) The Joint Venture shall pay to the Consultant the monthly fee described on Schedule “A” attached hereto by way of invoices submitted in writing on the last business day of each calendar month and shall be due and payable within three (3) business days of the date of submitting the prior month’s invoices. In addition, the Consultant shall be entitled to submit a separate invoice for the out-of-pocket expenses of Mr. Ray Roth while performing its responsibilities under this agreement.
+7) In the event of termination of this Agreement, all confidential information and other documents delivered by the Consultant to the Joint Venture shall be returned to the Consultant. Any work product developed during the Phase I Project shall remain the property of the Joint Venture.
+9) The Joint Venture has been advised that the Consultant has incurred costs and accrued certain liabilities for the time period prior to August 1 1994 in the amount of $371,146.00. The Consultant shall provide the Joint Venture with a detailed schedule and allow the Joint Venture to audit the prior period costs to confirm that such costs were properly paid or accrued with respect to the Project. The Joint Venture agrees, if the Project proceeds, the financing is in place and out of the first available project financing funds, that the Consultant shall be paid its prior period costs of $371,146.00 in full satisfaction of any claim by the Consultant with respect to the Project.
+Roth stated that the bundle of invoices was submitted to a Wilf Blood who was “part and parcel of BAS Ventures, PAC-RIM LNG.” He said that Wilf Blood was deceased. He also said that the schedule referred to in Article 9 was provided to the Joint Venture in November 1994. When asked whether it was audited at that time he answered that it was not audited but that it was looked at. He said that it was not rejected and “it basically went to file…”.
+[12] Roth also said that:
+The Joint Venture was a business transaction that went forward, that Capital Projects Group would supply the financing, BAS Ventures would supply the expertise on the LNG project and we would receive ten percent of the project. Capital Projects Group would receive 90 percent. They would be responsible for one hundred percent of the financing. If they were to bring in additional partners, it would come out of their 90 percent.
+Roth stated that the project did not proceed to “the magnitude that Phillips Petroleum became a partner”. He said that Phillips Petroleum “wanted their percentage” and proceeded to make an offer and an initial payment.
+[13] Roth then referred to the document whose face page read:
+PAC-RIM LNG PROJECT
+PURCHASE AND SALE AGREEMENT
+AMONG
+BAS VENTURES INC.
+(the “Vendor”)
+and
+CREIGHTON MANGEMENT LIMITED,
+SPECTRUM PROJECTS INC., HACKLE HOLDINGS LTD.,
+TRI PACIFIC GAS CORPORATION,
+and MESSRS. WILFRED C. BLOOD,
+WAYNE R. STANLEY AND RAY H. ROTH
+(collectively, with the Vendor, the “Releasors”)
+and
+PAC-RIM LNG INC.,
+BECHTEL ENTERPRISES INTERNATIONAL, LTC.,
+PHILLIPS PETROLEUM CANADA LTD. and
+DAEWOO CORPORATION
+(collectively, the “Purchasers”)
+[14] Roth said BAS Ventures Inc. was selling a five percent interest in the PAC-RIM LNG Project and that BAS was a bare trustee for Creighton, Spectrum, Hackle, Tri Pacific, Blood, Stanley and Roth. He stated further that the ten percent had been cut down to five percent and that that total amount was sold to the purchasers for $4.5 million. He stated that the $4.5 million was not paid in full. He said it was to be paid in two amounts, the first payment being $1 million on April 14th and the balance at the financial closing “and/or when they broke ground on the project.” The $1,000,000 dollars was described as having been paid to BAS Ventures and distributed by it, with Tri Pacific receiving $585,601.20. Roth testified that he had received out of the $1 million payment the sum of $421,000 comprised of the $370,000 being the aforesaid expenses and the additional $50,000 respecting costs incurred by Roth, Blood, Stanley and Rees which was referred to in a Memorandum of Understanding respecting the PAC-RIM LNG Joint Venture. He then said that he, Roth, received his money and the indebtedness from Tri Pacific to Roth was cancelled.
+[15] On cross examination, Roth said, with respect to the $370,000, that expenses were for accommodation while living in Singapore, for office, for secretarial assistance and meals and travel and entertaining Pertamina people, the people he was meeting with respect to the project for Pertamina, and partly for intellectual and proprietary information. Roth said that Tri Pacific did not exist at that point, this being in 1981, the year he returned from residence in Singapore to Canada. Roth stated again that the journal entry was for pre-development costs. He also said that the journal entry was made before the shareholding changed to Roth and Cripps[5].
+[16] Roth said that the promissory note from Tri Pacific was initialled by him but was not signed. He also said it was made in April or May of 1992. He stated further that Tri Pacific did not have the funds to pay the note in 1992 and that Tri Pacific had no money until 1994 at which time Roth was retained through Tri Pacific Gas, the monies having come from PAC-RIM LNG. Through a prolonged exchange of questions and answers it appeared that Tri Pacific owned 57.5 percent of the five percent interest in the Project.
+[17] Roth then testified that on August 31, 1980 he withdrew $566,759 from Tri Pacific’s account, that being a portion of the million dollars which had been paid. He said that at that time Roth was the sole shareholder and sole director of Tri Pacific. Respondent’s counsel then referred to his 1998 income tax return showing that the total income reported was $38,483.59 only.
+[18] The Appellants’ second witness was Wayne Richard Stanley (“Stanley”). He said that he had known Roth for many years and was experienced in a way that would assist Roth develop a liquefied natural gas project. He considered the project idea to be viable and worked with Roth on same. He said that for some time efforts had been made to develop an economic case, present that case for financing and look at the developing markets for the project. He said that the project never was built but that it was able to secure some interim financing allowing them to advance the project considerably. He stated that their position was diluted as the project developed. He said that some large companies were introduced into ownership of the project, namely Bechtel Corporation, Phillips Petroleum and Daewoo Corporation from Korea and that they advanced supplementary financing. He said that the project stopped around Christmas in 1997 because economic conditions had changed.
+[19] Stanley was referred by the Appellant’s counsel to a MEMORANDUM OF UNDERSTANDING. Stanley said that that document evidenced the relationship between BAS Ventures and Capital Projects Group Inc. involving the LNG Project. He said that he was one of the shareholders of that company.
+[20] Stanley testified that:
+I had seen the work that had been done and developed by Ray’s group, understood that there was a substantial effort made and costs incurred before that. When we put the proposal together to submit -- to Straits Crossing for financing, one of the things -- that Ray had requested was that those -- well, I -- among ourselves call them pre-development costs -- would be included in the agreement with Straits Crossing on the basis that if the project proceeded -- and there was lots of risk in whether the project would proceed or not -- if it did proceed, those projects we recognized as valid, development costs then would be repaid out of the proceeds of any sale or revenues from the project.
+He then stated:
+And I know that Ray had scheduled discussions to review those pre-development costs with David Pirie, the Vice President of Straits Crossing, who eventually became president of PAC-RIM LNG, the entity that -- that developed the project. And I know that those meetings were scheduled and that the -- the discussion on the -- the acceptability of those costs were made and that the agreement was made to include them in the agreement, both with respect to the first agreement with -- with Straits Crossing but more particularly, they formed part of that -- part of the negotiated agreement on the Sales and Purchase Agreement with -- Phillips Petroleum and Bechtel and Daewoo Corporation -- when our interests in the project were sold.
+He described how he knew that the meeting had been held by saying that they shared a very small office and that five or six of them in the development office work closely together and understood what each other did on a daily basis. Stanley also said that he had agreed with others that a fee of $50,000 would be paid to:
+… the four of us, Ray, myself, Wilf Blood and David Rees, who participated in the development of the -- of the financing proposals. It was just an effort to -- to recoup some of the costs and time that was put in in developing that proposal. It was put forward as part of the proposal and accepted by -- accepted by the Straits Crossing folks when they signed the Memorandum of Understanding.
+[21] Stanley then said that Roth’s initial idea was to try to export LNG from Canada to high-cost gas markets in Asia. He said that, based on their engineering design and cost estimating, they felt sure they would be able to buy gas in Canada, liquefy it and ship it to Korea and sell it for less than four dollars, U.S. per mcf. which was the cost that they were paying for LNG in that market, the cost in Canada being about one dollar per mcf. He said that in 1997 when the project ended the price of gas rose considerably in North America and the project effectively became uneconomic. He then stated that they did not receive the second part of the Agreement payment and that the only money paid by the project was one million dollars upon the signing the Sale and Purchase Agreement on April 14, 1997. He said:
+… when we put the project forward to Straits Crossing, which subsequently became the Capital Projects Group, that those earlier pre-development costs that Ray’s company had incurred, plus the $50,000 proposal development fee that our little group had incurred, would be paid in the event that the project proceeded to some place where we would be bought out or paid out for -- for costs.
+The following exchange then took place:
+Q: Okay. And do you recall whether or not the purchasers took any issue with that article being in there in relation of the $421,000, do you remember any discussion about it?
+A: Well, there was discussion about it but it was -- in the end it was -- it was approved. It was seen as -- as part of the cost.
+[22] On cross examination Stanley said that he never saw the schedule of costs described by Roth.
+[23] Appellants’ counsel then entered in evidence portions of the examination for discovery of Wendy Lee Schur, an appeals officer with Canada Customs and Revenue Agency. She admitted that the above described journal entry was made. A portion of the examination reads as follows:
+Q. Have you seen any evidence on any document that would lead you to conclude that Ray Roth did not deal with Tri Pacific at arm’s length in 1993?
+A. I haven’t seen any document that shows that Ray Roth owned more than 50 percent of Tri Pacific.
+Q. Accordingly, would it be a reasonable conclusion that he dealt at arm’s length with Tri Pacific at that time?
+A. Based on these tabs, 28 to 43, it would appear that he dealt at arm’s length.
+…
+Q. Based on the information provided, did the Agency make a determination as to when the journal entry was made by Tri Pacific Gas Corporation relating to the … $370,000 debit to pre-development costs?
+A. What was that?
+Q. When was a journal entry made for the $370,000?
+A. We don’t know when it was made. We know that it was -- it shows up in the corporate records, I believe, in the year ending 1993.[6]
+[24] Respondent’s counsel put in evidence some extracts from the examination for discovery of Ray Roth. The following exchange was contained therein:
+Q. Mr. Roth, for the year ended March 31, 1998, Tri Pacific Gas Corporation had revenue in that year of $585,601.20. What was the source of that revenue?
+A. Revenue I received from Phillips through BAS Ventures.
+Q. Was that from Tri Pacific selling its interest in the Pacific Rim LNG project?
+A. That’s correct.
+…
+Q. Mr. Roth, there was a journal entry made into (sic) the books of the company Tri Pacific Gas Corporation for the year ended 1993 that was a debit, pre-development cost, and a credit to note payable, Ray Roth, in the sum of $370,000?
+A. Yes sir.
+Q. You’re aware of that journal entry being made?
+A. By Mr. Cripps.
+Q. This journal entry, was it essentially made to reflect various out of pocket expenses that you incurred during the years 1978 to 1992 to develop LNG?
+A. Yes.
+Q. That’s a fair way of characterizing it?
+A. Yes.
+ANALYSIS AND CONCLUSIONS
+[25] The evidence in this case was, on occasion, scanty. Roth often strayed from the questions put to him and was somewhat general in his responses to other queries. I had the impression that this was not some tactic but was simply part of his style. It must be remembered that he was giving evidence in respect of events that transpired as far back as 27 years. Although I found his testimony hard to follow so far as its relation to the issues was concerned, I did not find him evasive or unbelievable. An intense study of the evidence including several reviews of same have led me, to the following conclusions:
+1. The amount of $363,552 included in his income by virtue of section 15(1) of the Act should be so included. Roth did not, in law, transfer any property to Tri Pacific even though he appears to have thought that he had transferred the “project” to it. Accordingly, he had no legally enforceable right to the aforesaid sum of $371,726 received by him in 1998.
+2. Tri Pacific is not entitled to deduct “pre-development expenses” in the sum of $363,552 in its 1998 taxation year. It did not incur those expenses and it did not acquire “property” from Roth.
+[26] Roth said, in evidence, that:
+I had a project. I had expenses. I had a project that I presented to Mr. Cripps to determine whether or not I should look at it in a particular sequence of events and, at his suggestion, and with the monies that I had laid out over a period of time, at his recommendation, we set up a journal entry. And the journal entry so stated that $370,000 would go to Tri Pacific Gas as a -- as pre-development costs and a promissory note would be given back to Roth for $370,000 as a loan -- payable loan.
+This commenced the confusion. Roth referred to or used the word “project” on many occasions during his testimony. When first asked what the expenses were incurred for, Roth replied:
+I had expenses to the tune of approximately $370,000. It was for transportation, accommodation, entertainment, intellectual proprietary knowledge, engineering, designing, consulting… I had access to knowledge about the cryogenics.
+He then said that the $370,000 was payment for intellectual proprietary knowledge and engineering, design and consulting fees. I have no doubt that Roth had a considerable accumulation of knowledge as a result of his various business activities and connection with those expenses, which knowledge was of great interest to Pac-Rim LNG Joint Venture, leading ultimately to the sale of the five percent interest in the existing project to Pac-Rim LNG Inc, Bechtel Enterprises International LTD, Phillips Petroleum Canada Ltd and Daewoo Corporation. Obviously, Roth had knowledge respecting engineering and design from his professional experience.
+As set out above, Roth said, with respect to Cripps:
+It was his recommendation that we do a journal entry and that they produced - - Ernst & Young produced a promissory note to show that I had transferred my ownership in the project to Tri Pacific Gas for the promissory note.
+[27] The Management Agreement, retaining Tri-Pacific as a Consultant carefully provided that the Consultant:
+“shall make available to the Joint Venture all of the information with respect to the Project and other similar projects in its possession…”
+Tri Pacific, the Consultant also represented and warranted that it had full right and authority to all of the information with respect to the project and other similar projects. The Consultant also agreed to make the services of Roth, its president, available on a full-time and exclusive basis during Phase I. It appears obvious that the Joint Venture wanted to ensure access to the knowledge Roth possessed. There was no assignment of any “project” or, indeed, anything else. One of the recitals stated that the Consultant, Tri Pacific:
+“has specific information in its possession that will assist in the evaluation of Phase I and has in its employ Mr. Ray Roth, who has considerable experience in design, construction and operation of liquefied natural gas facilities.”
+The Management Agreement provided, specifically, as set out above, that the Consultant would make available all information respecting the Project and other similar projects and the Consultant agreed to make the services of Roth available. Under the PAC-RIM LGN PROJECT PURCHASE AND SALE AGREEMENT the Purchasers purchased from BAS VENTURES INC., the Vendor the “Purchased Interest” free and clear of all encumbrances of any kind whatsoever. The term “Purchased Interest” was defined in that agreement to mean “the undivided five percent equity share interest of the Vendor in the Existing Project and was clearly the subject of the PURCHASE AND SALE AGREEMENT.
+[28] Appellant’s counsel, in his submission said:
+“..the key fact in this case is that Ray Roth dealt at arms length with Tri Pacific Gas at the time it acquired whatever it is he had from him…”
+(italics added)
+He submitted that if it’s an arm’s length transaction Tri Pacific’s cost is what it paid for it and that if it paid too much that was not relevant because it was acquired from an arm’s length party. He then said:
+So, accordingly, we submit that the $370,000 is outlaid to earn income and is properly deductible in the year the project is disposed of, in accordance with the method that the taxpayer has adopted to compute his profit.
+He said that:
+The corporation acquired the project from Ray Roth and all the parties acted on a basis consistent with that from that day forward. It disposed of the project for proceeds. So, accordingly, when we say how much money did the company make from this venture, you subtract its cost - from its revenues and you come up with the profit figures.
+The following exchange took place:
+Court: but you said that it was laid out to earn income. Why? What reason do you have for saying that? What was it that was sold and produced the $370,000?
+Counsel: I guess it was his - - what he had developed in terms of that project to that point in time, needing further amounts of - - money and energies expended on it, but it - - it was a - - an idea, and there were some costs incurred…
+(emphasis added)
+His thesis was that the value could not be challenged under section 69 of the Act, Roth and Tri Pacific being at arms length. Counsel then said:
+So it paid $370,000 to move this venture along, that’s what it gets to say its cost is. Now, if this were 1992, Ray Roth might have a problem in that he disposed of it to the corporation for a - - for a promissory note. But the 1992 year, Ray Roth is not before this Court and if it were before this Court, the Court might have some problems with the - - you know, establishing - - with any sufficient certainty that he had incurred these costs.
+(emphasis added)
+[29] With respect to the Appellant Roth, Counsel said:
+He owned a note of this corporation. He owned a chose in action. When it was paid, he disposed of that chose in action.
+…
+If the $370,000 note that Ray Roth held or that portion of that indebtedness that he held that is represented by the $370,000, if in fact he had no cost, then he has no cost based on the note. And when he gets paid the money by the corporation, he has a disposition that gives rise to a capital gain, not an appropriation, and that’s a different basis of assessment. You can’t find, for example, you could not find - - that you’re finding, that in fact the proceeds realized by Ray Roth in 1998 represented a capital gain and direct the Minister to reassess accordingly. You can’t do that because the file statute part and a capital gain is a different basis of assessment than subsection 15(1). So, I think he held property. He got money for the property. Perhaps he has a capital gain and that’s not being assessed.
+He then presented his submissions in that regard, referring to Pedwell v. the Queen 2000 DTC 6405.
+[30] Counsel then, again referring to Tri Pacific, said:
+Let’s assume that Roth was at arm’s length with the company…That means the corporation’s cost is what it paid. Section 69 does not apply. It paid $370,000 by way of a promissory note or an indebtedness, whatever you want to call it, so that’s its cost.
+(emphasis added)
+[31] After some discussion, he asserted that the company was deducting $370,000. Counsel then made submissions respecting the year in which any benefit might be received, whether 1992 when the journal entry was made or in 1998 when Roth actually received money. After other arguments, Counsel said:
+From the corporation’s point of view, it bought something from an arm’s length party and that forms part of its cost. It chose to capitalize that and deduct it when it received the proceeds. End of story for the corporation.
+(emphasis added)
+With respect to the individual, there might be a tax issue in there for him but its in 1992. Or its in 1998 but it’s a capital gain not an income, - - not an appropriation.
+[32] In Appellant’s Counsel’s response to Respondent’s Counsel’s submissions, the following exchange took place:
+Counsel: This statement that my friend is making that there’s no evidence that the project was transferred to Tri Pacific Gas the journal entry reflects the economic effects of the disposition. Another arm’s length party was involved. The behaviour from that point - -
+Court: Reflects the disposition of what?
+Counsel: The project to the corporation.
+Court: What is the project?
+Counsel: Liquid natural gas facility.
+Court: What is the project, in law?
+Counsel: Sorry sir, but what they ultimately sold for $585,000 - -
+Court: That’s one of Respondent’s Counsel’s points. What was it that was sold?
+Counsel: Economic studies, models, engineering studies, models, feasibility studies, expertise, know-how. These things just don’t fall out of thin air. You have to create them. So I call it a business plan, an intellectual property perhaps. In any event, the journal entry reflects the economic effects of the disposition. Another arm’s length party was involved. The behaviour of the parties was consistent with the project being transferred into the corporation. The corporation is named on agreements involving the sale of the project and it got the money and reported it on his tax return. I don’t know how much more evidence we need that the project was transferred to the corporation.
+Counsel then said that the Tri Pacific transaction was on account of income and that:
+The disposition by Roth to the corporation in 1998 of his note, is a capital transaction. Its completely unrelated to the income transaction of - - of Tri Pacific.
+[33] When the Court returned to the question of what property was transferred, Counsel said:
+Tri Pacific Gas bought the project off him for $375,000 and whether they got an empty box or they got whatever. His expenses are absolutely irrelevant.
+[34] I turn now to what, if anything, Roth transferred to Tri Pacific in 1992. He may have intended to transfer whatever interest he had in what he described as the LNG project. He and his counsel referred to whatever he had with various descriptions. Some of them were a “project”, “intellectual property”, “know-how”, “what he had developed in terms of a project to that point”, “an idea”, and “whatever it is he had”.
+[35] No evidence of any document of conveyance was proffered. Roth described some of the expenditures making up the total of some $370,000. They included personal expenditures. All amounts were incurred between April 1978 and the end of 1981. In 1992, at Cripp’s suggestion, a journal entry was made in the books of Tri Pacific to the effect that this amount was owing by it to Roth. The evidence also indicated that a promissory note was prepared by Earnst & Young, and that it was not signed but was initialled in the upper corner. That note evidently remained with Earnst & Young, Roth having testified that he did not attempt to obtain same from that firm. An accounting entry cannot create legal relationships. It can only reflect same. The journal entry, without evidence of Roth having, in law, conveyed something to Tri Pacific did not create a legally enforceable right which Roth could pursue to obtain the amount so recorded. This applies also to the purported promissory note. That document, not signed by Tri Pacific, does not support an enforceable claim by Roth.
+[36] Respondent’s counsel did not argue that Roth was at arm’s length with Tri Pacific. He and Cripps were the only two shareholders, having an equal number of shares. There was no reference to the incorporation documents indicating whether there was a casting vote in favour of the president. [7] However, that submission can only be valid if something was transferred by Roth to Tri Pacific. As stated above there are no documents whatever in evidence in respect of the alleged transfer.
+[37] Undoubtedly, Roth had knowledge of a number of factors relating to the proposed LNG project. There is no evidence that any of that knowledge was reduced to written or electronic form or indeed any other form. This suggests strongly that what Roth possessed was information, ideas, knowledge and know-how.
+[38] The definition of “property” in the Act applicable to the 1992 taxation year read as follows:
+“property” means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+(a) a right of any kind whatever, a share or a chose in action,
+(b) unless a contrary intention is evident, money,
+(c) a timber resource property, and
+(d) the work in progress of a business that
+is a profession;
+The question to be answered is whether Roth transferred any “property” to Tri Pacific. That inspires the question of whether Roth, in respect of the proposed project, had any “property”. In Musker v. English Electric Co., Ltd. (1964) 41 T.C. 556 as to whether “know-how” was property, Lord Denning, Master of the Rolls outlined the facts in succinct form. English Electric Co., Ltd. received certain sums for “sales of manufacturing technique or, in the modern phrase, know-how.” The question in issue was not whether the know-how had been sold but whether the sum received for the manufacturing technique was a capital receipt or a revenue receipt. A letter contract was made by the company with the Admiralty in England under which the company agreed to provide manufacturing techniques to licensees in return for lump sum payments. The company was not requested itself to manufacture marine turbines but was asked to licence manufactures in the United Kingdom and the Commonwealth. The Commonwealth of Australia wanted to make certain bombers in Australia. Accordingly the company made an agreement with the Commonwealth of Australia whereby it agreed to provide in Australia:
+(i) designs and drawings of the Canberra bomber, for which the Company was to be paid ₤13,000 per annum;
+(ii) manufacturing techniques justified in a schedule, for which the company was to be paid…
+(emphasis added)
+Lord Denning, discussing this matter, said at 582:
+Now it seems to me that this is a typical case of “know-how”. Manufacturing technique is just know-how. “Know-how” is an intangible asset, just as intangible as goodwill and just as worthy of recognition. It is a revenue-producing asset, just as goodwill is. “Know-how” can be put to use so as to produce revenue in two ways. The manufacturer can use it himself to make things for sale and make profit in that way; or he can teach it to others, so that they can make their own things, in which case he gets paid for the knowledge and information which he imparts to them. His fees and rewards are then revenue in his hands. I assume, of course, that the manufacturer, although teaching it to others, still retains the knowledge himself and intends to go on using it himself and making things from it. So long as he does this, he retains his capital asset himself and is only using it to produce revenue. But “know-how” can be used to produce a capital receipt. It can be sold outright and bring in a capital fund. This happens when a trader or manufacturer sells his goodwill or “know-how” outright to a purchaser, withdraws from the business himself, and agrees not to use the “know-how” or goodwill to the prejudice of the purchaser. The purchase price he receives is then capital in his hands.
+It is to be observed that in this case the company specified the manufacturing technique in a schedule. This I interpret as know-how reduced to writing and producing an asset that was property which could be assigned.
+[39] Viscount Radcliffe, in the House of Lords, in this case, said:
+There is no property right in “know-how” that can be transferred, even in the limited sense that there is a legally protected property interest in a secret process. Special knowledge or skill can indeed ripen into a form of property in the field of commerce and industry, as in copyright, trademarks and designs and patents, and where such property is parted with for money what is received can be but will not necessarily be, a receipt on capital account.
+[40] In Manrell v. R. 2003 DTC 5225 the Federal Court of Appeal analyzed whether the right to compete would be considered to be “property” within the meaning of the definition of that word in the Act. Paragraphs 24 and 25 of the Reasons for Judgement are reproduced;
+24 Professor Ziff, in Principles of Property Law, 33rd ed, (Scarborough: Carswell, 2000), says this about property (emphasis added) (at page 2):
+Property is sometimes referred to as a bundle of rights. This simple metaphor provides one helpful way to explore the core concept. It reveals that property is not a thing, but a right, or better, a collection of rights (over things) enforceable against others. Explained another way, the term property signifies a set of relationships among people that concern claims to tangible and intangible items.
+25 It is implicit in this notion of “property” that “property” must have or entail some exclusive right to make a claim against someone else. A general right to do something that anyone can do, or a right that belongs to everyone, is not the “property” of anyone. In this case, the only thing that Mr. Manrell had before he signed the non-competition agreement that he did not have afterward was the right he shares with everyone to carry on a business. Whatever it was that Mr. Manrell gave up when he signed that agreement, it was not “property” within the ordinary meaning of that word.
+Note, in Manrell, that there was an agreement. No document of conveyance exist, the only documents described being a journal entry and a purported promissory note in this case.
+[41] My conclusion is that information, ideas, knowledge and or know-how, do not fall within the meaning of the word “property”. They are not exclusive to one person and are not, in that simple form, capable of being described as property. It follows that no property was conveyed by Roth to Tri Pacific. It is to be noted that the Joint Venture’s Management Agreement with Tri Pacific required that the services of Roth “on a full-time and exclusive basis” be provided. He was to be paid for his services. This is, apart from the formalization of know-how into some marketable form, the manner in which know-how produces economic reward. In these circumstances, the provisions of section 15(1) of the Act as it read in 1998 apply to Roth with the result that his appeal will be dismissed. The pertinent part of that section reads as follows:
+Where at any time in a taxation year a benefit is conferred on a shareholder...
+otherwise than under circumstances which have no application in this case…
+the amount or value thereof shall… be included in computing the income of the shareholder for the year.
+[42] Tri Pacific cannot succeed in deducting the sum of $363,552 either as a business expense or as the cost of a capital asset disposed by it. It had no legal obligation to pay same to Roth. The evidence tells that Roth spent $371,726 in the period from April, 1978 to the end of 1981. Roth’s words were that, at Cripps’ suggestion:
+“I’ve set up a journal entry. And the journal entry so stated that $370,000 would go to Tri Pacific Gas as a - - as pre-development costs and a promissory note would be given back to Roth for $370,000 as a loan - - payable loan.”
+Tri Pacific was not incorporated until 1992. Having acquired no property from Roth, it cannot deduct expenses incurred by Roth 22 to 24 years earlier.
+[43] Although the purported transactions between Roth and Tri Pacific may have been capable of being arranged with the result sought by those two Appellants, such was not the case. The creation of a journal entry and a document purporting to be a promissory note did not create a legal relationship which would enable the parties to succeed in this case.
+[44] The appeal of each Appellant will be dismissed. One half of one set of costs will be payable to the Respondent by each Appellant.
+Signed at Ottawa, Canada, this 5th day of August, 2005.
+R.D. Bell
+Bell, J.
+CITATION: 2005TCC484
+COURT FILE NO.: 2003-474(IT)G
+STYLE OF CAUSE: RAY ROTH
+AND
+HER MAJESTY THE QUEEN
+AND
+COURT FILE NO.: 2003-473(IT)G
+STYLE OF CAUSE: TRI PACIFIC GAS CORPORATION
+AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 17, 2004
+REASONS FOR JUDGEMENT BY: The Honourable Justice R.D. Bell
+DATE OF JUDGMENT: August 5, 2005
+APPEARANCES:
+Counsel for the Appellant:
+James W. Dunphy and
+Jonathan D. Warren
+Counsel for the Respondent:
+Julie Rogers-Glabush
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James W. Dunphy and
+Jonathan D. Warren
+Firm: Warren Tettensor Amatea LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The pleadings referred to an amount of $370,000. However, the parties agreed at the hearing that the amount respecting Roth is $371,726 and the amount respecting Tri Pacific is $363,522. Roth, in evidence referred to the sum of $370,000.
+[2] Later the evidence showed that BAS was the initial shareholder of Tri Pacific and transferred its shares to Roth and Cripps.
+[3] Accordingly, no corroborating evidence or helpful evidence could be given by Cripps.
+[4] “Cryogenics” is defined in The Oxford English Dictionary, Second Edition Volume 4 as “that branch of physics which deals with the production of very low temperatures and their effects on matter.
+[5] This seems to be at variance with Appellants’ counsel’s apparent assumption, when describing the arm’s length relationship between Roth and Tri Pacific, that Roth and Cripps were not related.
+[6] It will be recalled that Tri Pacific’s year end would have been March 31, 1993, which includes the portion of Roth’s 1992 taxation year in which he stated the journal entry was made.
+[7] Such provision is not uncommon in incorporation documents. The arm’s length aspect led Appellant’s counsel to conclude that the value of what was transferred by Roth to Tri Pacific was irrelevant, a deal having been made for the sum of $370,000.

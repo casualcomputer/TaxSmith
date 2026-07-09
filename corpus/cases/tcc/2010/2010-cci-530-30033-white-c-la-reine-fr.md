@@ -1,0 +1,208 @@
+---
+title: "White c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30033/index.do"
+last_modified: "2010-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 530"
+citation2: ""
+neutral_citation: "2010 CCI 530"
+decision_date: "2010-10-22"
+language: "fr"
+item_id: "30033"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7687
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:30:52.351000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e3ef8d96eac0ded390593cccac22083c5cac6667308be67851143c2c08a26bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# White c. La Reine
+
+- Citation: 2010 CCI 530
+- Decision date: 2010-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7687, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-22
+Référence neutre
+2010 CCI 530
+Numéro de dossier
+2008-3624(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3624(IT)G
+ENTRE :
+BRADY WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 6 octobre 2010, à Halifax (Nouvelle‑Écosse).
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Stan McDonald
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2004, 2005 et 2006 sont rejetés, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 14e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 530
+Date : 20101022
+Dossier : 2008-3624(IT)G
+ENTRE :
+BRADY WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Le 29 octobre 2007, le ministre du Revenu national a établi une nouvelle cotisation à l'égard de l'appelant relativement aux années d'imposition 2004 et 2005 afin d'inclure des revenus tirés de son entreprise pour chacune de ces années d'imposition. Le 19 juin 2008, les montants de revenu supplémentaires ont été réduits au moyen d'un autre avis de nouvelle cotisation. Bien qu'aucun avis de nouvelle cotisation n'ait été établi pour l'année d'imposition 2006 de l'appelant, l'avis d'appel indique l'année 2006 comme étant l'une des années visées par l'appel. À l'audience, l'appelant a reconnu qu'il n'avait pas reçu d'avis de nouvelle cotisation pour l'année 2006 et qu'aucun rajustement n'avait été apporté au revenu déclaré pour cette année‑là. En conséquence, l'appel portant sur l'année d'imposition 2006 est rejeté, étant donné qu'il ne repose sur aucun fondement. La Cour est valablement saisie des appels portant sur les années d'imposition 2004 et 2005.
+[2] L'appelant est l'unique propriétaire d'un cabinet dentaire situé à Eastern Passage, en Nouvelle‑Écosse. Il exerce sa profession dans des locaux loués que Bill Chappell, l'évaluateur de biens immobiliers pour l'Agence du revenu du Canada (l'« ARC »), a décrits comme étant une maison unifamiliale. L'unique et principale résidence de l'appelant se trouve également dans ces locaux. Pendant les années 2004 et 2005, les deux fils de l'appelant, qui est divorcé, résidaient avec lui à l'occasion pendant les fins de semaine et les vacances.
+[3] Après le divorce et alors qu'il était incapable d'emprunter de l'argent, l'appelant a obtenu qu'un ami achète cette maison et, en avril 2003, ils ont conclu un bail écrit par lequel l'appelant s'engageait à louer la maison et à payer un loyer mensuel de 1 800 $, à partir du 1er juillet 2003, pour une période de cinq ans. Le deuxième étage de l'édifice à ossature de bois d'un étage et demi était réservé à l'usage personnel de l'appelant en 2004 et en 2005, et comportait deux chambres à coucher, la première donnant accès à la seconde. Les deux pièces du rez‑de‑chaussée qui sont désignées comme étant la « salle de soins dentaires » et le « laboratoire » étaient exclusivement réservées à l'usage du cabinet dentaire. Les autres parties de la maison étaient la cuisine, la salle de bains, la pièce servant à la fois de réception et de salle de séjour et le sous‑sol. Ces parties de la maison étaient utilisées à des fins personnelles et professionnelles, quoique l'appelant ait déclaré qu'il travaillait tout le temps et que ces locaux étaient principalement utilisés à des fins professionnelles. L'appelant a estimé à 80 pour cent l'usage de ces locaux à des fins professionnelles.
+[4] Selon la vérification initiale, la maison était utilisée à des fins professionnelles relativement au cabinet dentaire dans une proportion de 31 pour cent. L'agent des appels a fait passer le pourcentage de l'utilisation à des fins professionnelles de 31 pour cent à 69 pour cent, bien que la maison constituait l'unique résidence de l'appelant.
+[5] Bien qu'un certain nombre de dépenses aient été mentionnées dans les actes de procédure, l'appelant a reconnu à l'audience que la principale question concernait la façon dont l'ARC avait considéré les loyers qu'il avait payés conformément au bail. Les parties ont reconnu que la seule autre question dont j'étais saisie concernait les salaires payés aux deux fils de l'appelant pendant les périodes où ils étaient en visite chez leur père.
+[6] La question relative au loyer découle en grande partie de la décision de l'ARC d'appliquer le pourcentage de l'utilisation à des fins professionnelles de 69 pour cent à la juste valeur locative de la maison en 2004 et en 2005, suivant l'évaluation faite par Bill Chappell dans son rapport sur le marché locatif, plutôt que de l'appliquer au paiement mensuel de 1 800 $ fait par l'appelant. La juste valeur locative de la maison a été rétrospectivement évaluée à 900 $ par mois pour les années 2004 et 2005, et non aux 1 800 $ que l'appelant payait mensuellement conformément à son bail.
+[7] Monsieur Chappell s'est fondé sur la quatrième édition de l'ouvrage « Real Estate Appraisal » (The Appraisal Institute, Chicago, 2002), qui définit le [TRADUCTION] « loyer du marché » (« market rent ») de la manière suivante :
+[TRADUCTION]
+Le loyer le plus probable d'un bien locatif dans un marché concurrentiel et libre, en tenant compte de toutes les conditions et les restrictions du bail en question, y compris la durée, le rajustement et la réévaluation du loyer, les usages en question, les restrictions quant à l'utilisation et les obligations en matière de dépenses, le bailleur et le locataire agissant tous deux avec prudence et en connaissance de cause, et en présumant que la conclusion du bail se fait à une date déterminée et qu'au moment du transfert de l'intérêt à bail du bailleur au locataire :
+· le bailleur et le locataire sont motivés de la façon habituelle;
+· les deux parties sont bien informées ou bien conseillées et agissent dans ce qu'elles estiment être leurs intérêts;
+· la période de l'offre sur le marché libre est raisonnable;
+· le loyer est versé en espèces, en dollars, et sous forme d'un montant périodique, conformément au calendrier des paiements du bail;
+· le loyer représente la contrepartie normale versée pour le bien immobilier loué, libre de tous frais ou de toute concession spéciale que pourrait accorder une personne associée à la transaction.
+Monsieur Chappell a fait son rapport sur le marché locatif en 2007. Étant donné que l'ARC ne tient pas de base de données concernant les loyers résidentiels, il a comparé, entre autres, les loyers payés pour des duplex et pour des maisons unifamiliales en utilisant les annonces de logements à louer dans les journaux locaux en 2007. La plupart des maisons utilisées dans l'analyse comportaient trois chambres à coucher, alors que les locaux loués par l'appelant n'en comportaient que deux. Dans le rapport établi par M. Chappell, les résultats des données sur les loyers ont été compilés dans un tableau, et ce tableau fait état d'une fourchette des loyers allant de 750 $ à 1 300 $ par mois. Toutefois, à cause des petites dimensions des locaux en cause, M. Chappell a estimé que la fourchette des loyers du marché irait de 750 $ à 975 $ par mois en 2004 et en 2005, et il a fixé le montant à 900 $ par mois.
+[8] En outre, M. Chappell a analysé les loyers commerciaux dans le quartier. Il a procédé à cette analyse parce que, selon l'appelant, le bien en cause est un bien commercial et il se fait qu'il lui sert de résidence, et il ne s'agit pas, comme l'ARC l'a conclu, d'une résidence dont une partie est utilisée pour l'entreprise de l'appelant. Selon la preuve produite par M. Chappell, alors que les loyers résidentiels sont habituellement pour l'habitation entière, les loyers commerciaux font généralement la différence entre la superficie du rez‑de‑chaussée, du sous‑sol et des étages supérieurs. Les loyers commerciaux sont aussi exprimés comme étant un certain montant par pied carré de superficie louable par année. D'un point de vue commercial, M. Chappell a calculé au prorata le loyer de cette maison et, en tenant compte du rez‑de‑chaussée, du deuxième étage et du sous‑sol des locaux occupés par l'appelant, il a appliqué les taux suivants : 100 pour cent pour la superficie en pieds carrés du rez‑de‑chaussée, 50 pour cent pour la superficie du deuxième étage et 25 pour cent pour la superficie du sous‑sol. Le tableau suivant, tiré du rapport à la page 16, illustre cette répartition :
+[TRADUCTION]
+Répartition de la superficie
+Étage
+Superficie
+Coefficient
+Superficie équivalente
+Rez‑de‑chaussée
+732,21 pi2
+x
+100 %
+=
+732,21 pi2
+Deuxième étage
+212,16 pi2
+x
+50 %
+=
+106,08 pi2
+Sous-sol
+424,00 pi2
+x
+25 %
+=
+106,00 pi2
+Total
+1 368,37 pi2
+944,29 pi2
+[9] En utilisant la superficie totale équivalente de 944,29 pieds carrés, M. Chappell a déclaré que le taux de location de 100 pour cent équivaudrait à un loyer annuel de 11,44 $ par pied carré (10 800 $ ÷ 944,29 pi2), qu'il a arrondi à 11,50 $ par pied carré. Monsieur Chappell a appliqué ce chiffre à la maison de l'appelant et les résultats ont été consignés dans un deuxième tableau, à la page 17 du rapport :
+[TRADUCTION]
+Répartition du loyer
+Étage
+Superficie
+Taux de 100 %
+Coefficient
+Loyer par étage
+Rez‑de‑chaussée
+732,21 pi2 x
+11,50 $ / pi2
+x
+100 %
+=
+8 420,42 $
+Deuxième étage
+212,16 pi2 x
+11,50 $ / pi2
+x
+50 %
+=
+1 219,92 $
+Sous‑sol
+424,00 pi2 x
+11,50 $ / pi2
+x
+25 %
+=
+1 219,00 $
+Total
+1 368,37 pi2
+10 859,34 $
+[10] Monsieur Chappell a examiné les loyers commerciaux de cinq locaux dans le quartier où se situe le bien en cause et a conclu que les données sur les loyers commerciaux indiquaient une fourchette allant de 9 $ par pied carré par année à 14 $ par pied carré par année. Monsieur Chappell a conclu, à la page 18 de son rapport, que :
+[TRADUCTION]
+[...] lorsqu'on fait le calcul sur une base « par pi2 », l'estimation du loyer mensuel résidentiel de 900 $ du bien en cause revient à un loyer de 11,50 $ par pi2 par année pour le rez‑de‑chaussée, ce qui se situe dans la fourchette des loyers commerciaux examinés [...]
+[11] Monsieur Chappell a déclaré que l'examen et la comparaison du bien en cause avec des locaux à usage commercial, malgré le fait qu'il croyait que le bien constituait une résidence, ont été faits pour fournir un autre point de vue, en particulier parce que l'appelant soutenait qu'il ne s'agissait pas d'un bien à usage résidentiel. Quoi qu'il en soit, les résultats indiquent que le taux résidentiel appliqué par l'évaluateur serait comparable au taux commercial.
+[12] Le seul document qui démontrait en droit le rapport entre l'appelant et le bien en cause en 2004 et en 2005 était le bail (pièce A‑1, onglet 1). Ce document décrit les lieux comme étant une [TRADUCTION] « maison unifamiliale d'un étage et demi ». Le formulaire en soi est un bail résidentiel type établi conformément à la loi intitulée Residential Tenancies Act (Loi sur la location à usage d'habitation) de la Nouvelle‑Écosse. Il ne comporte aucune mention selon laquelle le bien est un local à usage commercial. Le locataire est présenté comme étant le Dr Brady C. White, les autres occupants étant ses fils. Le loyer qui y est mentionné est un montant mensuel global et non un montant par pied carré comme il en serait le cas dans la majorité des baux commerciaux.
+[13] L'appelant a déclaré qu'en plus des avantages financiers, l'une des raisons principales qui l'ont poussé à réinstaller son cabinet dentaire à cet endroit était de profiter de la vue sur la mer. Bien qu'il ait indiqué que cette vue sur la mer créait un environnement bénéfique pour ses patients, probablement parce que la vue sur la mer aidait les patients à relaxer pendant que des soins dentaires leur étaient procurés, il n'a présenté aucun élément de preuve pour étayer l'argument selon lequel la vue contribuait à son profit. Il a reconnu qu'il ne faisait pas de publicité pour attirer des patients, et aucun élément de preuve n'a été soumis à la Cour pour justifier que le loyer de l'appelant ait été plus élevé à cause de la vue sur la mer ou que cette vue ait été à l'origine d'une augmentation du nombre de patients et, par conséquent, de son profit. En fait, il ressort de la preuve fournie par l'appelant que, indépendamment de son cabinet dentaire, une des raisons qui l'ont amené à choisir cette maison était la sérénité que la vue de la mer procurait à l'appelant lui‑même. Même si la vue de l'eau peut avoir un effet favorable sur le prix de vente ultime de ce bien pour le propriétaire, il n'y avait aucun élément de preuve pour soutenir que la vue sur la mer influençait le tarif du marché locatif ou la marge de profit du cabinet dentaire.
+[14] Selon la preuve et le rapport de l'évaluateur, le zonage de la maison est C‑2, ce qui permet d'avoir quelques petits commerces dans la zone résidentielle. L'appelant estime que le bien est de nature commerciale parce que le cabinet accapare toute sa vie. Comme il l'a déclaré dans son avis d'appel, [TRADUCTION] « je ne travaille pas à la maison, je vis au bureau ». Toutefois, en 2004 et en 2005, c'est là que vivait l'appelant et c'est là que ses fils passaient leur temps de visite avec lui. Les schémas de l'intérieur de la maison, qui se trouvent à la pièce A‑1, démontrent un aménagement et un style qui, à première vue, semblent être ceux d'un immeuble d'habitation. L'emplacement et le zonage viennent aussi à l'appui de cette conclusion. Pour une grande partie de l'habitation, l'usage est mixte, à des fins personnelles et à des fins professionnelles. Sauf pour l'analyse faite dans le rapport d'évaluation et la conclusion qui y est contenue, l'appelant n'a fourni aucune preuve pour réfuter les conclusions de l'ARC voulant que la maison était utilisée à 69 pour cent pour des fins professionnelles et que le montant mensuel de 900 $ représentait la juste valeur locative. Les dimensions de chaque pièce ne m'ont pas été fournies pour me permettre de modifier la proportion de 69 pour cent, et l'appelant n'a produit aucun élément de preuve pour réfuter la conclusion contenue dans le rapport, à part le fait de déclarer que le loyer mensuel de 1 800 $ était basé sur des loyers qu'il avait auparavant payés relativement à des locaux où il exerçait sa profession de dentiste. Étant donné que l'appelant n'a produit aucun élément de preuve qui lui permettrait de s'acquitter du fardeau de la preuve, il me faut conclure que la juste valeur locative de la maison est de 900 $ par mois et que l'utilisation de la maison à des fins professionnelles a été établie à 69 pour cent à juste titre.
+[15] En ce qui concerne la deuxième question soulevée, à savoir les salaires payés aux fils de l'appelant, ce dernier a déduit des dépenses d'entreprise de 1 100 $ au titre de salaires versés pendant les années d'imposition 2004 et 2005. Il a été accordé à l'appelant une déduction de 550 $ pour chacune des années d'imposition au titre de ce qui a été considéré comme une dépense salariale raisonnable. L'appelant a déclaré qu'il avait versé un salaire à ses fils, âgés de 12 ans et de 15 ans pendant ces années d'imposition, pour accomplir les tâches suivantes : fixer des rendez‑vous, saisir des renseignements professionnels à l'ordinateur, effectuer des travaux d'entretien extérieur et enlever la neige. À part ces renseignements généraux, je ne dispose d'aucun élément de preuve particulier qui pourrait me permettre de modifier le montant que l'ARC a jugé raisonnable compte tenu des circonstances.
+[16] L'intimée a souligné que les appels avaient été enregistrés dans la catégorie B par inadvertance alors qu'ils auraient en fait dû être enregistrés dans la catégorie A.
+[17] Les appels sont par conséquent rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 14e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 530
+NO DU DOSSIER DE LA COUR : 2008-3624(IT)G
+INTITULÉ DE LA CAUSE : BRADY WHITE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L'AUDIENCE : Le 6 octobre 2010
+MOTIFS DU JUGEMENT : L'honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 22 octobre 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Stan McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

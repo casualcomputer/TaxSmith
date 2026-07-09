@@ -1,0 +1,209 @@
+---
+title: "ArendiBio Solutions Inc. v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521644/index.do"
+last_modified: "2026-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 105"
+citation2: ""
+neutral_citation: "2026 TCC 105"
+decision_date: "2026-06-02"
+language: "en"
+item_id: "521644"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5556
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-06-04T09:00:38.051000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "157b5d1d35443b4b3680c77de53c446b5b08a0615ee30f0fcb94102fbf5e201a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ArendiBio Solutions Inc. v. The King
+
+- Citation: 2026 TCC 105
+- Decision date: 2026-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5556, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ArendiBio Solutions Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-06-02
+Neutral citation
+2026 TCC 105
+File numbers
+2025-1950(IT)G
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-1950(IT)G
+BETWEEN:
+ArendiBio Solutions Inc.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion determined in writing, June 2, 2026
+Before: The Honourable Justice John A. Sorensen
+Appearances:
+Counsel for the Appellant:
+Philippe Hamelin
+Julien Tremblay-Gravel
+Counsel for the Respondent:
+Alexandre MacBeth
+ORDER
+The Respondent’s motion to strike paragraphs 18.1, 24.1 and 24.2 of the amended notice of appeal is partially granted. Paragraphs 24.1 and 24.2 are struck with leave to amend.
+If the Appellant does not propose to amend paragraphs 24.1 and 24.2 then the further amended notice of appeal must be re-filed with each of paragraphs 24.1 and 24.2 struck through.
+The further amended notice of appeal shall be filed on or before August 3, 2026.
+The Respondent may file an amended reply on or before October 5, 2026.
+There will be no award of costs in light of the mixed result.
+Signed this 2nd day of June, 2026.
+“J.A. Sorensen”
+Sorensen J.
+Citation: 2026 TCC 105
+Date: 20250602
+Docket: 2025-1950(IT)G
+BETWEEN:
+ARENDBIO SOLUTIONS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Sorensen J.
+I. Background [1] By notice of appeal dated August 19, 2025, the Appellant appealed a reassessment denying its 2023 scientific research and experimental development (“SR&ED”) claims. The reply was filed and served on January 30, 2026. An amended notice of appeal was filed and served on February 26, 2026.
+[2] The amended notice of appeal was filed before the close of pleadings. Among other things, the amendments included new paragraphs 18.1, 24.1 and 24.2.
+[3] Subparagraph 18(f) was amended to add that the Appellant owned all results and intellectual property resulting from Subcontractors’ work on certain defined Projects as per the legal agreements between the Appellant and the Subcontractors.[1] Then, new paragraph 18.1 provided examples by way of quotations from so-called Master Service Agreements with two Subcontractors.
+[4] A core issue in the appeal is whether the Subcontractors’ work was performed “on behalf of” the Appellant. The factual allegation that the Appellant owned the results and intellectual property produced by the Subcontractors would presumably advance the Appellant’s case.
+[5] New paragraphs 24.1 and 24.2[2] refer to the Minister of National Revenue’s (the “Minister”) review of the Appellant’s SR&ED claims for its 2024 and 2025 taxation years, which allegedly include the continuation of Projects from 2023 and conclusions arising from that review.
+[6] The grounds for the motion are that new paragraph 18.1 improperly states evidence (as does 24.2), and new paragraphs 24.1 and 24.2 concern taxation years that are not in issue, therefore the facts pled therein are immaterial and irrelevant. The Respondent relies on Rule 53(1)(a) and (d) of the Tax Court of Canada Rules (General Procedure).
+[7] The Respondent also asked for an extension of time to file an amended reply, 60 days from the date of this Order, and costs on the motion in any event of the cause.
+II. Positions of the Parties [8] At a high level, this motion concerns dueling understandings of what may constitute a “material fact” as opposed to evidence, and whether information concerning taxation years not in dispute may be pled to illuminate issues in the year under appeal. Ultimately, those issues must factor into the wording of Rule 53 for the motion to succeed. The following are summaries of the positions taken on the motion.
+1. New Paragraph 18.1 [9] The Respondent’s position is that new paragraph 18.1[3] impermissibly pleads evidence by way of examples, rather than material facts. According to the Respondent, an example might help establish a fact at trial, but that does not make the example a material fact. Were that not the case, parties would be able, if not obligated, to plead extensive examples or excerpts of agreements to ensure that they have pled all material facts. That scenario would violate another principle of pleading, namely, concision.
+[10] The Appellant argued that new paragraph 18.1 contains excerpts from agreements that support its central argument that subcontracted work was performed on its behalf, and that any intellectual property belonged to the Appellant. As the Appellant explained it, new paragraph 18.1 illustrates the terms that underpin the pleaded fact in paragraph 18(f). The Appellant also asserted that new paragraph 18.1 does not introduce a new issue or evidentiary narrative. Rather, it provides the precise language illustrating the rights and obligations as between the Appellant and Subcontractors – which language is material.
+[11] The Appellant stressed that Rule 51(1) expressly permits quoting from documents, that new paragraph 18.1 pleads material facts, not merely evidence, and that the excerpts help define the parameters of the dispute and permit the Respondent to admit, deny, or plead no knowledge of the factual allegations. The Appellant also argued, without support, that it is not required to plead every supporting document or example just to plead one material fact, and that new paragraph 18.1 does not need to be exhaustive.
+2. New Paragraphs 24.1 and 24.2 [12] Regarding new paragraphs 24.1 and 24.2,[4] the Respondent argued that information regarding the 2024 and 2025 taxation years is irrelevant and immaterial to the disputed 2023 claims, because: each taxation year stands on its own; facts arising after 2023 cannot illuminate what occurred in 2023; and the Minister/Respondent is not bound by positions taken in other years. The Respondent distinguished relevance and materiality, asserting that a fact may be relevant in a general evidentiary sense, but may not be a material fact for the purposes of pleadings – and 2024 and 2025 reviews and conclusions are not material to the validity of a 2023 claim. The Respondent also argued prejudice, in that allowing the 2024 and 2025 matters to be pled broadens the scope of discovery and of the litigation more generally, and would also waste court and party resources.
+[13] The Appellant argued that the 2024 and 2025 reviews are factual context because the projects, Subcontractors, and agreements spanned multiple years, and illustrate how the same contracts operated in practice. According to the Appellant, later-year reviews contain admissions and statements by CRA officials, and the Minister’s published SR&ED administrative guidance recognizes that multi-year projects can be interconnected. The Appellant also argued that new paragraphs 24.1 and 24.2 are “evidence of the Appellant’s role planning, directing, or managing a continuing project governed by the same agreements.”
+[14] Regarding new paragraph 24.2, the Appellant asserted that it quoted from the precise words of the Minister’s 2024-2025 report because, as per Rule 51(1) “those words are themselves material”.
+III. Analysis 1. General Principles [15] The general rules applicable to pleadings are well summarized in Hillcore:[5]
+12 The purpose of pleadings is “to define the issues in dispute between the parties for the purposes of production, discovery and trial” (citations omitted).
+13 Pleadings should contain a concise statement of the material facts a party relies on.
+14 As explained by this Court in Zelinski (paras 4 - 5):
+Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought.
+The applicable principle is stated in Holmsted and Watson:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+[Emphasis added.]
+15 Pleadings should be concise. Repetition should be avoided, as pleadings should only contain material facts relied upon for a claim or defense, which provide an overview of the case (citation omitted).
+[16] The distinction between materiality and relevance was explained by this Court in CIBC:[6]
+[41] …
+3. The pleadings must contain material facts that clearly and concisely define the issues before the Court. Rarely should facts which are relevant be pleaded if they are not material facts. One must be careful that one is not pleading evidence and further one must be careful not to be repetitive and redundant.
+[42] The task in reviewing an 83 plus page Reply is significant, to say the least; especially given the various grounds that one must look to in determining whether or not part of the Reply should be struck. The following are some of the grounds upon which portions of the pleadings could be struck:
+1. Material facts: Facts are not material if they are directed at a matter not in issue. This means that when one refers to materiality, in talking about the relationship between the fact and the matter at issue, one asks, what is the party trying to prove? If the item to be proven is not a matter in issue, then it is immaterial. (citations omitted)
+2. Relevance: Simply because something is relevant does not make it a material fact, and it can be that many facts are relevant but are not material facts. Questions of relevancy should generally be left to the trial judge, in the context of all evidence at trial, unless the pleadings are clearly irrelevant and doomed to fail …
+[17] Striking a portion of a pleading is a discretionary decision,[7] and relief will only be granted if it is “plain and obvious” that it discloses no reasonable cause of action or prospect or possibility of success.[8] Although the bar for striking pleadings is considered to be high, it is not meant to be so high as to be unreachable, since motions to strike are an important housekeeping tool.[9]
+[18] A motion judge should avoid usurping the trial judge regarding determinations of fact and relevance.[10] However, pleading irrelevant facts may prejudice the fair hearing of an appeal. Irrelevance must be apparent at first glance,[11] and a motion judge should not reach a conclusion regarding relevance unless it is plain and obvious that a fact could never be relevant.[12] It is also trite that information concerning years not under appeal may be irrelevant.[13]
+[19] The Respondent relies on Rule 53(1)(a) and (d), which reads as follows:
+The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+…
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+[20] Turning to Rule 51(1), the effect of a document may be briefly pled if it is material, but the precise words need not[14] be, unless those words are themselves material. The same wording appears in the Ontario Rules of Civil Procedure.[15] The provision comparable to Rule 51(1) in the Ontario Rules was applied in Weninger Farms.[16] There, the Ontario Superior Court stated that in some cases “it may not be possible to adequately understand and assess the allegations unless consideration is given to the actual contractual language used”. That court rejected the pleading of a report that was the source of two specific factual allegations, because it was not something that would allow the court to understand the allegations set out in the statement of claim – it was evidence. The Ontario court also previously stated that “[the] present rules of pleading require a concise statement of the material facts on which a party relies but not the evidence by which those facts are to be proved. There is not a bright line distinguishing material facts and evidence however and some types of claim require a greater level of particularity than others.”[17]
+2. Applying the Principles to the Case at Bar a. New Paragraph 18.1 [21] Whether the Subcontractors’ work was performed “on behalf of” the Appellant appears to be a key issue in the appeal. The allegation that the Appellant owned the results and intellectual property produced by the Subcontractors would likely advance the Appellant’s position. Adding the factual allegation that such ownership was pursuant to legal agreements is appropriate, and the subparagraph 18(f) amendment is permissible (and to be clear, subparagraph 18(f) was not challenged by the Respondent).
+[22] A written agreement is evidence, and to set out the precise wording of an agreement in a pleading is prima facie pleading evidence. But could pleading portions of a written agreement also constitute pleading a material fact? Not unless those words are themselves material. And while the line between evidence and material facts can be fuzzy, we can appropriately situate these kinds of excerpts by asking key questions. Is it possible to understand the factual allegations as pled without the actual contractual language? What in particular is unique about the case that should allow for a deviation from the prohibition on pleading evidence? Is the nature of the matter such that prolixity should surpass concision?
+[23] The Appellant alleged that it owned all results and intellectual property resulting from Subcontractors’ work on certain defined Projects as per the legal agreements between the Appellant and the Subcontractors (amendment underlined). That factual allegation is directed at a matter in issue, to be proven by the Appellant. It is likely material. It is also clear and understandable, and does not need to be illustrated by contractual excerpts. The truth of the factual allegation in paragraph 18(f) may be established by evidence, to wit, the written agreements.
+[24] I am unable to conclude that there is anything unique about this case, or in particular about the language of new paragraph 18.1 that would justify the Appellant’s reliance on Rule 51(1). The wording of new paragraph 18.1 is reproduced in a footnote above. If the precise wording of the quoted agreement was material in this case, then contractual language would be material in most any case. In accordance with normal commercial practice, contractual relationships are typically memorialized in writing, and would ordinarily be expected to be led as evidence to support the factual allegations in a pleading, if a dispute arose. The Appellant’s amended pleading includes unremarkable contractual language that supports a straightforward proposition. Does that mean that contractual excerpts should ordinarily be allowed to be pled? No. It is difficult to reconcile that outcome with the well-accepted principle that pleadings should be concise and limited to material facts, and evidence should not be pled. I therefore do not endorse the pleading of contractual excerpts that are on the wrong side of the fuzzy line between fact and evidence.
+[25] However, while I have concluded that new paragraph 18.1 constitutes pleading evidence, not material facts, the motion was brought in reliance on Rule 53(1)(a) and (d). Does the content of new paragraph 18.1 risk prejudicing or delaying the fair hearing of the appeal? No, it does not. The agreements with Subcontractors are evidence that will almost certainly be led. The snippets in the notice of appeal are not prejudicial nor will their inclusion cause delay. Yes, the snippets are improper, and in other circumstances pleading portions of agreements may flunk Rule 53(1)(a). But not these snippets, not in this case.
+[26] Similarly, regarding whether new paragraph 18.1 “discloses no reasonable grounds for appeal or opposing the appeal” per Rule 53(1)(d), I cannot so conclude. New paragraph 18.1 sets out evidence, but I would certainly not say that the information that was set out does not disclose (or support) grounds for the appeal.
+[27] Again, to be clear, while the impugned text of new paragraph 18.1 was improper and contrary to the generally accepted rules of pleading, it does not offend the principles relied upon by the Respondent under Rule 53(1)(a) or (d), and thus it will not be struck.
+b. New Paragraphs 24.1 and 24.2 [28] As noted above, the Respondent asserted that new paragraphs 24.1 and 24.2 are immaterial and irrelevant, because each taxation year is distinct, matters arising after a disputed year have no bearing, and the Crown is not bound by positions taken in years not in dispute. The Appellant asserted that the Minister’s position with respect to 2024 and 2025 adds important context since the subject work was ongoing, and later year reviews establish how the arrangements functioned in practice and include admissions by tax officials. The Appellant also favoured CRA administrative SR&ED guidance that speaks to the interconnectedness of multi-year projects.
+[29] The Respondent’s position is preferable, with some reservations. I agree that each taxation year is distinct and a separate cause of action,[18] and that the Minister’s position regarding the later 2024 and 2025 taxation years is not binding on the Respondent (or this Court) with respect to the 2023 taxation year. The text of new paragraphs 24.1 and 24.2 are exclusively concerned with the Minister’s review and determinations, and as such, must be struck pursuant to Rule 53(1)(d). However, the Appellant argued that SR&ED projects that straddle multiple years are unique. In my view, information from years not under appeal could potentially be relied upon to determine SR&ED eligibility in a disputed year, depending on the circumstances.
+[30] In support of its position, the Appellant argued that this Court has repeatedly affirmed that the history of a project may be relevant in SR&ED cases. The Appellant cited Indusol,[19] in which this Court considered historic taxation years and whether the fundamental technology in question existed prior to the disputed 2012 taxation year, which is an appropriate inquiry. Indusol cited Les Abeilles Service[20] and published CRA administrative guidance recognizes that in the case of multi-year SR&ED projects, work performed across multiple years may be relevant.[21]
+[31] Although new paragraphs 24.1 and 24.2 are being struck for the reasons provided above, the Appellant shall have leave to amend. If there are material facts concerning any Projects that span multiple years that may inform the determination of the disputed 2023 year, they may be pled – subject to the limitation that the Minister’s opinion is neither material nor relevant. To be clear, amendments should focus on the criteria for a valid SR&ED claim that are not determinable solely with reference to facts concerning the 2023 taxation year, and should state later year material facts to provide an accurate picture of the 2023 SR&ED claim.
+IV. Conclusion [32] The requested relief is granted and new paragraphs 24.1 and 24.2 are ordered to be struck, with leave to amend. The Appellant shall file a further amended notice of appeal on or before August 3, 2026. The Respondent may file an amended reply on or before October 5, 2026. There shall be no order as to costs.
+Signed this 2nd day of June, 2026.
+“J.A. Sorensen”
+Sorensen J.
+CITATION:
+COURT FILE NO.:
+2026 TCC 105
+2025-1950(IT)G
+STYLE OF CAUSE:
+ArendiBio Solutions Inc. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+In Writing
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John A. Sorensen
+DATE OF JUDGMENT:
+June 2, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Philippe Hamelin
+Julien Tremblay-Gravel
+Counsel for the Respondent:
+Alexandre MacBeth
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+Barsalou Lawson Rheault LLP
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Capitalized terms not defined in these reasons are defined in and taken from the parties’ filings.
+[2] The addition of new paragraph 24.2 includes footnotes.
+[3] New paragraph 18.1 reads as follows: Regarding paragraph 18(f) above, for example:
+a. the June 7, 2022 Master Service Agreement between the Appellant and the Sub-Contractor ITR states at section 9 that: Any results, data, information, discoveries, technology or inventions created, generated, made, conceived, developed, or reduced to practice (the IP) by [ITR] as a result of performance of the particular R&D shall be the exclusive property of [the Appellant]. [The Appellant] shall have the right to use such IP and the deliverables and other results of Services for any and all purposes, and shall have the full, unrestricted right to assign, license or otherwise transfer any such IP and the deliverables and other results of Services, in each case without any further payment to [ITR].
+Similarly, the September 19, 2022, Master Services Agreement between the Appellant and the Sub-Contractor Cirion states at sub-section 13.2 that:
+Any Invention made solely by CIRION or jointly with others which relates to any Material, or any compound or substance contained in or derived from any Material, or uses, relies on or refers to any Confidential Information of [the Appellant], or that comprises or embodies an improvement or modification to, or is useful with, [the Appellant]'s proprietary product that is the subject of Services hereunder ("Product Improvement") shall be the sole and exclusive property of [the Appellant]. Accordingly, and without additional consideration, CIRION hereby assigns its entire right, title and interest in and to Product Improvements and any and all deliverables (including any and all methods developed under a Work Order, and any and all reports, analyses and protocols generated under a Work Order including evaluations, results and underlying data), and related intellectual property rights including enforcement rights, to [the Appellant], and shall cause its employees, agents and contractors to do the same.
+[4] New paragraphs 24.1 and 24.2 read as follows:
+24.1 Between July 4, 2025, and December 24, 2025, the Minister conducted a review of the Appellant’s SR&ED claim for its fiscal years ended June 30, 2024, and June 30, 2025, which included, among others, the continuation of the Projects:
+a. for the same new drug candidates (VLTR-557 and AFM28);
+b. with the same Sub-Contractors;
+c. for the same clients; and
+d. under the same contracts.
+24.2 The Minister’s review resulted in the issuance of a project eligibility report, dated December 5, 2025 (the “2024-2025 Project Eligibility Report”), in which the Minister determined that:
+a. with regards to the VLTR-557 Project:
+i. “The [Appellant] worked in collaboration with all their hired subcontractors, helping to plan/direct and manage the experiments and studies performed.”;
+ii. “Based on the information obtained during the review meeting and the documentation, [the Appellant’s employee] was directly involved in SR&ED work.”;
+iii. “The contracts claimed by [the Appellant] paid to [the Sub-Contractors] were eligible since their objective was the SR&ED work.”; and
+b. with regards to the AFM28 Project, the Minister did not contest that the work claimed in the project was eligible, or that the work was performed by the Sub-Contractors on behalf of the Appellant.
+[5] Hillcore Financial Corporation v The King, 2023 TCC 71, paragraphs 12 through 15.
+[6] Canadian Imperial Bank of Commerce v The Queen, 2011 TCC 568.
+[7] Canada v Preston, 2023 FCA 178, at paragraph 12.
+[8] Brass Collar Capital Corp v The King, 2026 TCC 62 (“Brass Collar”), at paragraph 21.
+[9] R v Imperial Tobacco Canada Ltd., 2011 SCC 42, at paragraph 19.
+[10] Sentinel Hill Productions (1999) Corp. v R, 2007 TCC 742, at paragraph 4.
+[11] Heron v R, 2017 TCC 71 (aff’d 2017 FCA 229), at paragraph 12.
+[12] Cote Estate v The King, 2023 TCC 66, at paragraph 5.
+[13] Ibid, at paragraph 41.
+[14] Rule 51(1) says that the precise words of a document or conversation need not be pled unless they are material, which sounds permissive and open-ended, however, the general prohibition on pleading evidence still has overriding application. As a consequence, the words “need not” should be interpreted as shall not.
+[15] RRO 1990, Reg. 194 (“Ontario Rules”).
+[16] Weninger Farms Ltd v MNR, 2012 ONSC 4544, at paragraphs 11 to 13.
+[17] Sauer v Canada (AG), 9 CPC (6th) 298, at paragraph 13.
+[18] Brass Collar, at paragraph 40.
+[19] Indusol Industrial Control Ltd v The Queen, 2020 TCC 103, at paragraph 43.
+[20] Les Abeilles Service de Conditionnement Inc v The Queen, 2014 TCC 313, at paragraph 152.
+[21] Canada Customs and Revenue Agency, SR&ED Project Definition—Principles (20 March 2000), at page 2, and Canada Revenue Agency, 2015, Eligibility of Work for SR&ED Investment Tax Credits Policy (2015), at paragraph 3.3.

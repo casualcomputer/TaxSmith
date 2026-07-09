@@ -1,0 +1,184 @@
+Title: McDonough c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29359/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-413-29359-mcdonough-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-24
+
+# McDonough c. La Reine
+
+- Citation: 2009 CCI 413
+- Decision date: 2009-08-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6912, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDonough c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-24
+Référence neutre
+2009 CCI 413
+Numéro de dossier
+2004-919(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-919(IT)G
+ENTRE :
+PATRICIA MCDONOUGH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+DONALD SINCLAIR,
+mis en cause.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 19 et 20 mars 2009, à Montréal (Québec).
+Devant : L’honorable juge Pierre Archambault
+Comparutions :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocat de l’intimée :
+Me Bernard Fontaine
+Avocate du mis en cause :
+Me Keith Linda Lazard
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 15 août 2003 à l’égard de l’année d’imposition 2000, est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le transfert, en l’an 2000, de la résidence, à Westmount, ne constituait pas un paiement des arriérés de la pension alimentaire.
+Signé à Magog (Québec), ce 24e jour d’août 2009.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 15e jour de mars 2010.
+François brunet, réviseur
+Référence : 2009 CCI 413
+Date : 20090824
+Dossier : 2004-919(IT)G
+ENTRE :
+PATRICIA MCDONOUGH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+DONALD SINCLAIR,
+mis en cause.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Mme Patricia McDonough interjette appel d’une nouvelle cotisation d’impôt sur le revenu établie par le ministre du Revenu national (le « ministre ») en vertu de l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). Le ministre a assimilé le transfert du foyer conjugal par M. Donald Sinclair, l’ancien mari de Mme McDonough, au paiement des arriérés imposables de la pension alimentaire. Mme McDonough soutient que la résidence lui a été transférée dans le cadre d’un paiement forfaitaire qui ne constituait pas une pension alimentaire imposable pour conjoint. L’intimée ayant présenté une demande en vue de constituer M. Sinclair comme partie dans l’appel interjeté par Mme McDonough, le juge Bowman, qui était à l’époque juge en chef adjoint, a accueilli la demande au mois de novembre 2004.
+[2] Il est contestant que toutes les conditions énoncées aux alinéas 56(1)b) et 60b) de la Loi sont réunies, sauf en ce qui concerne la question de savoir si le transfert du foyer conjugal constituait une pension alimentaire pour conjoint « payable périodiquement ».
+Les faits
+[3] Mme McDonough et M. Sinclair se sont mariés au mois de décembre 1976. Ils se sont séparés au mois d’octobre 1997 et une procédure de divorce a été engagée au mois de janvier 2008. Ils avaient deux enfants, alors âgés de 11 et de 14 ans. Une ordonnance provisoire concernant le paiement d’une pension alimentaire pour conjoint avant impôt de 12 887 $ par mois et d’une pension alimentaire pour enfants de 4 605 $ par mois a été rendue par le juge Maughan, de la Cour supérieure du Québec, le 29 avril 1998. Du mois d’avril 1998 au 16 octobre 2000, M. Sinclair a accumulé des arriérés de pension alimentaire de 281 256 $.
+[4] Un peu avant l’audition au fond de la demande de divorce, laquelle a commencé le 6 juin 2000, une requête visant l’annulation ou la révision de l’ordonnance alimentaire provisoire a été présentée devant la juge Capriolo par l’avocat de M. Sinclair, Me Gerald Stotland. Cette requête était fondée sur le fait que le juge Maughan avait surestimé le revenu de M. Sinclair. M. Sinclair, un courtier en valeurs mobilières, était en service de CIBC Wood Gundy et, comme la plupart des courtiers en valeurs mobilières, il touchait un revenu de commissions qui était fonction du nombre d’opérations boursières et de l’importance des opérations boursières effectuées pour ses clients. Le juge Maughan a supposé que le niveau du revenu était proche de 500 000 $, alors que M. Sinclair affirmait que son revenu futur serait probablement d’environ 150 000 $. M. Sinclair a donc affirmé que son revenu ne lui permettait pas de payer la pension alimentaire pour conjoint et la pension alimentaire pour enfants qu’avait ordonnée le juge Maughan. Le problème découlait en partie du fait que le juge Maughan avait mis doutes quant à la crédibilité de M. Sinclair vu les éléments de preuve contradictoires qui lui avait été produits.
+[5] Malheureusement, cette procédure de divorce, comme de nombreuses autres, a mal tourné. Les deux enfants ont été obligés de témoigner devant la Cour supérieure du Québec. En outre, M. Sinclair avait dans une large mesure épuisé ses actifs, selon Me David Schatia, avocat représentant Mme McDonough dans la procédure de divorce, notamment des actifs que son père lui avait donnés, et ce, en partie à cause d’un mode de vie extravagant, et notamment de la possession de plusieurs voitures de luxe, et de la dépendance aux stupéfiants. Me Schatia s’inquiétait énormément de la sécurité financière de sa cliente ainsi que de la stabilité financière et de la santé de M. Sinclair. Il importe de noter que Mme McDonough n’avait jamais travaillé depuis sa première grossesse et qu’elle avait toujours été femme en foyer jusqu’à ce qu’elle se sépare de M. Sinclair. Me Schatia a donc présenté une proposition en vue de régler le litige. Afin d’assurer la sécurité future de Mme McDonough, il a proposé que la propriété du foyer conjugal situé avenue Upper Roslyn, à Westmount, soit transférée à celle-ci et qu’elle renonce à toute demande d’arriérés de pension alimentaire. Me Schatia a réussi à convaincre Me Stotland de l’intérêt de sa proposition.
+[6] Lorsqu’il a témoigné devant moi, M. Sinclair a déclaré qu’il estimait que cette résidence valait de 600 000 $ à 700 000 $. Dans sa réponse à l’avis d’appel modifié, le ministre tenait pour acquis que la maison valait plus de 500 000 $[1]. Les deux avocats qui sont intervenus dans les procédures de divorce ont déclaré dans leurs témoignages qu’ils s’entendaient sur le paiement d’une somme forfaitaire au sens de la Loi sur le divorce[2] afin que soit assurée la sécurité financière future de Mme McDonough. Me Stotland a déclaré qu’au cours des négociations, il n’avait pas été question de la nature imposable de cette somme forfaitaire. Comme il l’a dit, la somme forfaitaire représentait la solution globale du problème au complet. Aucune valeur n’a été attribuée aux arriérés, au patrimoine familial ou à toute demande de prestation compensatoire.
+[7] L’accord a été conclu au cours de l’audience tenue par la juge Capriolo et le consentement partiel au jugement portant sur les mesures accessoires a été signé le 8 juin 2000 (pièce A‑5). Ce document a été rédigé par Me Stotland, avocat de M. Sinclair. Les principales stipulations de l’accord sont les suivantes :
+[traduction]
+B. PAIEMENT FORFAITAIRE, PATRIMOINE FAMILIAL ET ARRIÉRÉS DE LA PENSION ALIMENTAIRE
+1. Le défendeur s’engage à transférer à la demanderesse, à titre de paiement forfaitaire pour son entretien, le titre et les droits afférents à un bien immeuble situé au 698, avenue Upper Roslyn, à Westmount, district de Montréal, dans les trente (30) jours qui suivront la signature du présent consentement;
+2. La demanderesse possédera à elle seule un droit de propriété absolu sur l’ameublement et les biens meubles qui sont dans la résidence, au 698, avenue Upper Roslyn;
+[...]
+4. Le transfert de la propriété de la résidence située au 698, avenue Upper Roslyn, est en outre effectué en paiement de tout arriéré accumulé au titre de l’obligation alimentaire et de la pension alimentaire pour enfants.
+[...]
+7. Le défendeur s’engage à obtenir la mainlevée et la purge du prêt garanti consenti par la Banque Royale du Canada dont est grevée à l’heure actuelle la propriété située au 698, avenue Upper Roslyn, dans les trois (3) mois qui suivront la signature du présent accord;
+C. SOMME FORFAITAIRE SUPPLÉMENTAIRE
+1. Le défendeur s’engage à verser à la demanderesse la somme de vint‑cinq mille dollars (25 000 $) dans les 30 jours qui suivront la signature du présent consentement afin d’aider la demanderesse à payer les frais afférents aux réparations et améliorations à apporter à l’ancien domicile commun;
+D. PROVISIONS POUR FRAIS
+2. Le défendeur s’engage à verser à l’avocat de la demanderesse une provision pour frais d’un montant de trente mille dollars (30 000 $) dans les trente (30) jours qui suivront la signature du présent consentement;
+[...]
+G. PENSION ALIMENTAIRE POUR CONJOINT ET PENSION ALIMENTAIRE POUR ENFANTS
+1. Les parties reconnaissent que le revenu brut tiré par le défendeur de son emploi au cours de l’année civile 1999 s’élevait en tout à cent soixante‑trois mille quatre cent trente‑cinq dollars et quatre‑vingt‑huit cents (163 435,88 $);
+2. Le défendeur reconnaît la somme de cent soixante‑trois mille quatre cent trente‑cinq dollars et quatre‑vingt‑huit cents (163 435,88 $) par année aux fins de l’établissement de la pension alimentaire pour enfants et de la pension alimentaire pour conjoint dans la présente instance;
+H. DISPOSITIONS DIVERSES
+1. La demanderesse s’engage à ne pas faire enregistrer le présent jugement contre tout bien immeuble appartenant au défendeur, sauf dans le cas où le défendeur tarderait à payer la pension alimentaire et où les arriérés ne seraient pas payés dans les quinze (15) jours qui suivront la réception d’un avis écrit;
+2. Sous réserve de l’exécution des engagements mentionnés aux paragraphes B. (1), (2), (6), (7), C. (1), D (1), E (1) and F.(1) et (2), les parties renoncent mutuellement par les présentes de manière irrévocable à toute demande, de quelque nature que ce soit, découlant de leur mariage, en ce qui concerne la réclamation d’une somme forfaitaire, d’une prestation compensatoire, d’un partage supplémentaire du patrimoine familial ou de demandes fondées sur le contrat de mariage ou sur des arriérés de pension alimentaire résultant du jugement portant sur les mesures provisoires;
+3. La demanderesse déclare que le contrat de mariage a été exécuté au complet et accorde par les présentes à son mari une libération et une quittance complètes à cet égard;
+[...]
+6. Les parties procéderont au partage de leurs régimes de pensions du Canada et de rentes du Québec respectifs conformément à la loi.
+[Non souligné dans l’original.]
+[8] Selon Me Stotland, M. Sinclair devait consentir à cette transaction partielle, compte tenu des problèmes de crédibilité, en particulier pour ce qui est de son niveau de revenu, qui s’étaient posés au cours de l’audition devant le juge Maughan de la requête visant l’obtention d’une réparation provisoire. Le seul point important sur lequel les parties n’arrivaient pas à s’entendre se rapportait au montant de la pension alimentaire pour conjoint future à verser à Mme McDonough.
+[9] Me Stotland espérait que la juge Capriolo tiendrait compte de l’actif important qui était transféré à Mme McDonough. À son avis, Mme McDonough n’aurait pas les moyens de payer les frais se rattachant à la propriété de la résidence, à Westmount, et la vente de la résidence était donc inévitable. Dans les observations qu’il a exposées devant la juge Capriolo, Me Stotland a déclaré que, selon lui, Mme McDonough pourrait obtenir au moins 500 000 $ pour la résidence, ce qui représentait un capital susceptible de générer un revenu de 30 000 $. Cet argument montre clairement que Me Stotland supposait que le transfert de la résidence, à Westmount, en faveur de Mme McDonough à titre de somme forfaitaire ne constituait pas une pension alimentaire imposable entre les mains de Mme McDonough et que le plein montant de la valeur de la résidence serait disponible à des fins de placement. Me Stotland a confirmé la chose dans son témoignage (voir paragraphes 303, 304, 583, 584, 592, 593 de la transcription). Il a également indiqué qu’il savait qu’un paiement des arriérés serait déductible pour le payeur (voir paragraphes 652 et 665 de la transcription).
+[10] Me Schatia a témoigné avoir informé Mme McDonough que le transfert de la résidence, à Westmount, ne serait pas imposable entre ses mains. La chose a été confirmée par Mme McDonough. D’autre part, Me Stotland et M. Sinclair ont tous deux indiqué qu’autant qu’ils s’en souviennent, ils n’avaient pas discuté, au cours des négociations, le traitement fiscal du transfert de la résidence, à Westmount. Si M. Sinclair lui avait demandé conseil sur ce point, Me Stotland aurait renvoyé celui‑ci à un fiscaliste. Il est intéressant de noter que, dans sa déclaration de revenus, M. Sinclair n’a pas déduit le montant de 314 647 $ au titre de la pension alimentaire pour conjoint que le ministre a inclus dans le revenu de Mme McDonough. Il a uniquement déduit un montant de 52 550 $, ce qui indique que M. Sinclair ne supposait pas qu’il payait les arriérés de la pension alimentaire lorsqu’il a accepté de transférer à sa femme la résidence, à Westmount.
+[11] Il importe également de noter que, lorsque la juge Capriolo a rendu son jugement, le montant de la pension alimentaire mensuelle qu’il avait été ordonné à M. Sinclair de payer a été ramené à 2 303 $ à l’égard de la pension alimentaire pour conjoint et à 2 683 $ à l’égard de la pension alimentaire pour enfants, soit une réduction importante par rapport aux montants de 12 887 $ et de 4 605 $ respectivement ordonnés par le juge Maughan. De toute évidence, la juge a tenu compte non seulement du fait que Mme McDonough acquérait la propriété de la résidence, à Westmount, mais aussi du fait que Mme McDonough reconnaissait que le revenu brut de M. Sinclair était de 163 435 $ aux fins de la détermination de la pension alimentaire pour enfants et de la pension alimentaire pour conjoint, comme il en est fait mention dans la clause G.2 du consentement partiel.
+[12] Lorsqu’il a été contre‑interrogé devant la Cour, Me Stotland a déclaré qu’il fallait lire la clause B.4 au regard du consentement partiel dans son ensemble. Il soutient que l’expression [traduction] « en paiement » était synonyme de [traduction] « au lieu de », c’est‑à‑dire que M. Sinclair n’avait pas à payer les arriérés (voir les paragraphes 438 à 440 de la transcription). Me Stotland a également attiré l’attention de la Cour sur la clause H.2 du consentement partiel, dans laquelle Mme McDonough renonçait à toute demande d’arriérés de la pension alimentaire découlant du jugement portant sur les mesures provisoires.
+[13] Me Stotland a également indiqué que, s’il avait voulu que le transfert de la propriété, à Westmount, s’applique au paiement des arriérés, il aurait rédigé l’accord différemment : il aurait inclus dans l’accord le ventilation des chiffres. Étant donné qu’aucune discussion n’a eu lieu au sujet des arriérés, il devait de toute évidence protéger son client en consentant au transfert de la propriété, à Westmount, et s’assurer que la somme forfaitaire représentée par le transfert vise toutes les demandes éventuelles que Mme McDonough pouvait présenter contre M. Sinclair, et notamment à toute demande découlant du mariage, comme une demande de prestation compensatoire, une demande se rapportant à tout droit résultant du partage du patrimoine familial, des demandes fondées sur le contrat de mariage et une demande concernant les arriérés. Les seules demandes qui n’étaient pas visées par l’accord concernant le transfert de la résidence, à Westmount, était celles qui se rapportaient à la pension alimentaire pour conjoint et à la pension alimentaire pour enfants futures ainsi qu’au partage afférent aux régimes de pensions du Canada et de rentes du Québec.
+[14] La résidence, à Westmount, a finalement été transférée au moyen d’un acte signé devant un notaire, le 1er septembre 2000. Conformément au consentement partiel, M. Sinclair devait obtenir l’annulation des diverses hypothèques qui grevaient la propriété.
+[15] Il est également intéressant de noter que le ministère du Revenu du Québec n’a pas assimilé le transfert de la résidence, à Westmount, au paiement des arriérés. Il l’a plutôt l’assimilé à l’annulation de ces arriérés (voir pièce A‑7, page 2).
+[16] Comme Me Stotland l’avait prévu, Mme McDonough, même si elle avait reçu un paiement forfaitaire de 25 000 $ pour les réparations et les améliorations à apporter à la résidence, à Westmount, a aliéné la maison en 2002.
+Analyse
+[17] Les principales dispositions de la Loi qui jouent en l’espèce sont l’alinéa 56(1)b), le paragraphe 56.1(4) (définition de « pension alimentaire ») et l’alinéa 60b), qui sont reproduits ci‑dessous :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement.
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+[...]
+56.1(4) « pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+[...]
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[Non souligné dans l’original.]
+[18] L’issue du présent appel dépend essentiellement de la question de savoir si le transfert de la résidence, à Westmount, peut être assimilé au paiement des arriérés dus par M. Sinclair. Il est constant que, si tel est le cas, l’appel interjeté par Mme McDonough doit être rejeté et M. Sinclair doit avoir droit à un montant équivalent au titre de la déduction de la pension alimentaire. Compte tenu de la décision rendue par la Cour d’appel fédérale dans l’affaire The Queen c. Sills, 85 DTC 5096, il est clair que le paiement des arriérés, qu’il ait été effectué sous la forme d’une somme forfaitaire ou par versements, représenterait néanmoins le paiement de la pension alimentaire pour conjoint payable « périodiquement ».
+[19] En l’espèce, l’avocat de Mme McDonough a soutenu que le transfert de la résidence constituait un paiement non imposable. Sa thèse est que, ce transfert constitue une nouvelle obligation, une novation au sens de l’article 1660 et suiv. du Code civil du Québec ou, subsidiairement, il constitue simplement une autre dette et l’ancienne dette (les arriérés) due par M. Sinclair a été éteinte par suite de la renonciation de Mme McDonough. Par conséquent, le transfert ne être assimilé au paiement des arriérés. L’avocat a invoqué la décision rendue par la Cour d’appel fédérale dans l’affaire McKimmon c. M.N.R., 1989 CarswellNat 406, [1990] 1 C.T.C. 109. Dans celle-ci, le juge Hugessen a défini les facteurs dont on peut loisiblement tenir compte lorsqu’il faut rechercher si un montant constitue un paiement périodique effectué à titre d’allocation d’entretien (lequel est déductible) ou le versement d’une somme forfaitaire ou un paiement de capital (lequel n’est pas déductible). L’avocat de Mme. McDonough s’est fondé en particulier sur les cinquième et huitième facteurs définis par le juge Hugessen aux paragraphes 15 et 18. Il a également cité à l’appui de sa thèse les observations incidentes de la juge Sharlow dans la décision Tossell c. R., 2005 CAF 223, 2005 DTC 5365, [2005] 3 C.T.C. 277, et en particulier les observations suivantes, aux paragraphes 36 et 46 :
+36 Selon moi, on ne peut dire d’un accord écrit ou d’une ordonnance judiciaire qu’ils obligent une personne à payer des arriérés de pension alimentaire pour enfants sauf si, au moment où cet accord ou cette ordonnance ont été établis, il existe : 1) une reconnaissance expresse ou implicite d’une obligation préexistante de payer une pension alimentaire pour enfants à l’égard d’une période antérieure, 2) une reconnaissance expresse ou implicite d’un manquement total ou partiel à cette obligation, qui donne lieu à des arriérés de pension alimentaire pour enfants, et 3) une obligation, énoncée dans l’accord écrit ou dans l’ordonnance judiciaire, de payer les arriérés en tout ou en partie.
+[. . .]
+46 Le juge de la C.C.I. a considéré que le fait de répartir la somme de 36 000 $ sur la période de 36 mois écoulée entre les mois de janvier 1994 et de décembre 1996 est l’interprétation « la plus raisonnable et la plus conforme au bon sens » de la clause 6 du procès-verbal de transaction. Ceci étant dit avec respect, je ne suis pas d’accord. Le 16 décembre 1996, chacune des parties faisait face à la perspective de contester l’accord de séparation de 1991, ce qui, pour chacune, présentait des difficultés considérables. Le litige aurait mis en jeu de nombreuses questions, dont certaines étaient susceptibles d’avoir des effets à long terme qui auraient été plus importants que des arriérés de pension alimentaire pour enfants. Les deux auraient pu régler les questions liées à la pension alimentaire pour enfants impayée d’une manière qui aurait constaté officiellement les arriérés, et prévoir le paiement intégral ou partiel de ces derniers. Ils auraient pu aussi mettre de côté la question des arriérés et créer une obligation tout à fait nouvelle. Il est impossible de déterminer, à partir du dossier, si l’une de ces deux solutions aurait été plus raisonnable que l’autre.
+[Non souligné dans l'original]
+[20] À mon avis, compte tenu de la preuve dans son ensemble, le transfert de la résidence, à Westmount, ne constituait pas un paiement d’arriérés. Premièrement, l’obligation de payer ces arriérés a été contestée par une requête visant l’annulation ou la révision de l’ordonnance alimentaire provisoire que le juge Maughan avait rendue. La solution proposée par l’avocat de Mme McDonough, Me Schatia, constituait une solution de rechange par rapport au recouvrement des arriérés. Il a recommandé à Mme McDonough de renoncer à la demande qu’elle avait présentée en vue d’obtenir les arriérés et d’accepter plutôt le transfert de la résidence, à Westmount, à titre de paiement forfaitaire de capital en vue d’assurer sa sécurité financière à long terme. La résidence, à Westmount, avait une valeur beaucoup plus élevée que le montant des arriérés. Il est évident que M. Sinclair lui‑même ne supposait pas payer des arriérés lorsqu’il a transféré cette propriété. Dans les observations qu’il a exposées devant la juge Capriolo, l’avocat de M. Sinclair a également supposé que le transfert de la résidence, à Westmount, ne constituait pas le paiement des arriérés. Au contraire, il a supposé qu’il s’agissait d’un paiement de capital qui permettrait à Mme McDonough de gagner finalement un revenu de placement. M. Sinclair n’a pas demandé de déduction à l’égard de la valeur de la résidence, à Westmount, qu’il a transférée à son ex-femme. Enfin, le ministère du Revenu du Québec, qui était responsable du recouvrement de la pension alimentaire, n’a pas assimilé ce transfert à un paiement d’arriérés. Il a simplement annulé les arriérés. À mon avis, la résidence, à Westmount, constituait un paiement de capital effectué en faveur de Mme McDonough.
+[21] Par conséquent, l’appel interjeté par Mme McDonough sera accueilli avec dépens, et la nouvelle cotisation sera renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le transfert de la résidence, à Westmount, en l’an 2000, ne constituait pas un paiement des arriérés de la pension alimentaire.
+Signé à Magog (Québec), ce 24e jour d’août 2009.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 15e jour de mars 2010.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 413
+No DU DOSSIER DE LA COUR : 2004-919(IT)G
+INTITULÉ : PATRICIA MCDONOUGH
+c.
+SA MAJESTÉ LA REINE ET DONALD SINCLAIR
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 19 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 24 août 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Aaron Rodgers
+Avocat de l’intimée :
+Me Bernard Fontaine
+Avocate du mis en cause :
+Me Keith Linda Lazard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Aaron Rodgers
+Cabinet : Spiegel Sohmer Inc.
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour le mis en cause : Keith Linda Lazard
+Cabinet : Dominique Larose, Avocats
+Montréal (Québec)
+[1] Il s’agit d’un chiffre que Me Stotland a utilisé dans le plaidoyer qu’il a présenté devant la juge Capriolo, qui a prononcé le divorce le 14 juin 2000 (pièce A‑6).
+[2] Il semble que les deux avocats se reportaient à l’article 15.2 de la Loi sur le divorce, lequel dispose que :
+15.2 (1) Sur demande des époux ou de l’un d’eux, le tribunal compétent peut rendre une ordonnance enjoignant à un époux de garantir ou de verser, ou de garantir et de verser, la prestation, sous forme de capital, de pension ou des deux, qu’il estime raisonnable pour les aliments de l’autre époux.

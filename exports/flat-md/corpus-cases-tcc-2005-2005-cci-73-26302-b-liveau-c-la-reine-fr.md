@@ -1,0 +1,334 @@
+---
+title: "Béliveau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26302/index.do"
+last_modified: "2005-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 73"
+citation2: ""
+neutral_citation: "2005 CCI 73"
+decision_date: "2005-01-27"
+language: "fr"
+item_id: "26302"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3314
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:19:12.106000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a75d8948439936674cbed8b05151ab9bb94fb7dec755801624f300b266de919e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Béliveau c. La Reine
+
+- Citation: 2005 CCI 73
+- Decision date: 2005-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3314, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Béliveau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-27
+Référence neutre
+2005 CCI 73
+Numéro de dossier
+2003-3653(GST)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2005CCI73
+Date : 20050127
+Dossier : 2003-3653(GST)I
+ENTRE :
+JEAN-MARC BÉLIVEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 29 octobre 2004
+à Montréal (Québec) et modifiés pour plus de clarté et de précision.)
+Le juge Archambault
+[1] Monsieur Jean-Marc Béliveau interjette appel de la cotisation établie par le ministre du Revenu national (ministre) en vertu de la Loi sur la taxe d'accise (Loi) pour la période du 1er janvier 1996 au 31 décembre 2000 (période pertinente). Le ministre a déterminé que monsieur Béliveau n'avait pas perçu et remis au ministre, pour cette période, les montants de TPS indiqués ci-dessous à l'égard des montants de fournitures taxables indiqués ci-dessous :
+ANNÉES
+TPS
+FOURNITURES TAXABLES
+1996
+3 216 $
+45 947 $
+1997
+3 347 $
+47 818 $
+1998
+3 401 $
+48 583 $
+1999
+3 194 $
+45 632 $
+2000
+3 029 $
+43 273 $
+Les faits
+[2] Au début de l'audience, la procureure de monsieur Béliveau a admis les alinéas suivants de la réponse à l'avis d'appel :
+18. [...]
+b) l'Appelant a effectué, dans le cadre d'activités commerciales, la fourniture taxable de services au Québec, notamment pendant la période visée;
+c) l'entreprise individuelle opérée par l'Appelant rend des services de consultation et de représentation dans le domaine notamment des indemnisations de santé et sécurité au travail;
+d) l'entreprise est opérée par l'Appelant depuis au moins le 1er janvier 1996;
+g) l'Appelant n'a tenu aucun registre en la forme et avec les renseignements permettant d'établir ses obligations et responsabilités aux termes de la Partie IX de la L.T.A. pendant la période visée;
+i) l'Appelant n'a produit ou présenté au Ministre aucune déclaration de taxe nette pour les périodes de déclaration contenues dans la période visée ni n'a versé au receveur général le montant positif de sa taxe nette ou demandé le remboursement de sa taxe nette, lorsque le montant de sa taxe nette est négatif;
+l) c'est l'Appelant qui fourni [sic] au Ministre les montants à retenir relativement à son coût de vie.
+[3] La preuve a aussi révélé les faits suivants. Monsieur Béliveau a été président de la Commission des normes du travail du Québec du 2 juin 1977 au mois d'août 1981. Il a été aussi l'un des derniers chefs, sinon le dernier, de l'Union nationale. Il a exercé la profession d'avocat pendant 27 ans, tout d'abord à Victoriaville, puis à compter de 1984, à Montréal. Selon le témoignage de monsieur Béliveau, certains le décrivaient comme un bon plaideur. Par contre, monsieur Béliveau a été rayé du Tableau de l'Ordre du Barreau le 4 décembre 1989 pour manquement à l'honneur de la profession; les motifs précis de la radiation n'ont pas été révélés à l'audience.
+[4] Les années 1989 à 1995 ont été difficiles pour monsieur Béliveau. Il aurait vécu durant cette période des moments de dépression. Il aurait, durant cette même période, consacré une partie de son temps à des poursuites judiciaires personnelles, notamment relativement à une question de taxes d'affaires non payées et à la reconnaissance d'une participation dans une société par actions (société immobilière) détenant un terrain vague d'une superficie d'environ neuf millions de pieds carrés situé à Victoriaville. À la même époque, il aurait également contesté une requête en faillite; le montant de ses dettes se serait élevé alors à environ deux millions de dollars. Cette requête aurait été réglée par une proposition concordataire dont les détails sont nébuleux. Les actions de la société immobilière - représentant une participation d'un tiers dans ladite société - auraient concouru à le faire sortir de l'impasse financière. Dans quelle mesure? La preuve ne fournit pas la réponse.
+[5] Durant la même période, de 1989 à 1995, monsieur Béliveau a conservé un bureau à l'extérieur de sa résidence pour s'y occuper de diriger ses anciens clients vers d'autres avocats et pour s'occuper de ses propres poursuites judiciaires. Toutefois, il n'y a aucune trace de revenus tirés d'une profession qu'il aurait gagnés durant cette période.
+[6] En 1994-1995, monsieur Béliveau aurait commencé à exploiter son entreprise de consultation et de représentation sous la dénomination sociale « Indemniteck » . Sur sa carte professionnelle (pièce I-5) produite à l'audience, il se décrit comme un spécialiste dans le domaine des recours de personnes ayant subi un accident du travail, un accident de la route ou un congédiement illégal et de personnes victimes d'actes criminels. Selon monsieur Béliveau, il pouvait défendre les intérêts de ces clients sans être membre du Barreau. De plus, sa rémunération dépendait du succès de ses démarches et plus particulièrement des montants recouvrés par ses clients. Cela expliquerait l'inexistence, au tableau (tableau de revenus) qu'il a remis aux autorités fiscales, de revenus tirés d'une profession pour les années 1995 et 1996. Voici les données apparaissant à ce tableau :
+REVENUS
+ANNÉE
+1995
+1996
+1997
+1998
+1999
+2000
+ENSEMBLE DE DOSSIERS
+5 000 $*
+10 000 $*
+5 000 $*
+10 000 $*
+RÉGIE DES RENTES
+DU QUÉBEC
+5 400 $
+5 400 $
+5 400 $
+5 400 $
+5 400 $
+5 400 $
+PENSION VIEILLESSE
+0
+0
+0
+0
+0
+5 400 $
+TOTAL
+5 400 $
+5 400 $
+10 400 $
+15 400 $
+10 400 $
+20 800 $
+*ces montants répresent [sic] une partie des dépenses avancé [sic] par certains clients.
+[7] Durant la période pertinente, monsieur Béliveau demeurait à Pointe-Claire et exerçait ses activités professionnelles dans un bureau situé sur le boulevard Rosemont à Montréal. Toutefois, monsieur Béliveau n'a produit aucune déclaration de revenus ni aucune déclaration de TPS. Il n'a conservé aucun registre comptable ni de pièces justificatives pour permettre aux autorités fiscales et à la Cour de déterminer le montant de ses revenus gagnés durant cette période. Lors de sa vérification, le vérificateur n'a pas eu d'autre choix que de procéder en utilisant la méthode de l'avoir net. Cependant, faute de coopération de la part de monsieur Béliveau, le vérificateur n'a même pas été capable d'appliquer de façon appropriée cette méthode de dernier ressort, puisque monsieur Béliveau n'a jamais produit tous les documents et les renseignements nécessaires pour l'utilisation de cette méthode.
+[8] Monsieur Béliveau a fourni au ministre un tableau (tableau de dépenses) sur lequel on trouve une simple estimation de certaines dépenses de la vie courante et des dépenses de bureau, ces dernières se limitant au loyer et aux frais de téléphone.
+Je reproduis ici en partie ce tableau[1] :
+TRAIN DE VIE
+ANNÉE
+1996
+LOYER
+MAISON
+12 000 $
+ÉLECTRICITÉ
+3 600 $
+CÂBLE
+840 $
+BOUFFE
+7200 $
+TÉLÉPHONE
+600 $
+LOYER
+BUREAU
+LOYER
+10 800 $
+TÉLÉPHONE
+6 000 $
+GAZOLINE
+4 800 $
+HABILLEMENT
+(Moi, Mathieu et Aimée)
+1 000 $
+LOISIR
+Je ne bois pas d'alcohol [sic]
+Je ne prends pas de drogue
+J'ai pas pris [de] vacances depuis 89
+Je ne joue pas les jeux de hasard
+ARGENT DE POCHE
+1 200 $
+PENSION ALIMENTAIRE
+6 000 $
+TOTAL
+54 040 $
+[9] Manifestement, la liste des dépenses de la vie courante paraît fort incomplète. Il n'y a aucun poste pour des dépenses de restaurant, de divertissement ou de cadeaux ou pour des frais d'éducation ou des primes d'assurance-vie, d'assurance automobile ou d'assurance logement. Relativement à la voiture de monsieur Béliveau, il n'y a que des dépenses d'essence. Il n'y a aucun poste de dépenses pour les soins de santé ou les soins personnels, ni pour lui ni pour sa femme, ses enfants ou sa mère, qui a habité chez lui un certain temps. Monsieur Béliveau a indiqué sur le tableau de dépenses qu'il ne buvait pas d'alcool ni ne prenait de drogue. Toutefois, aucune mention n'est faite quant à la consommation d'alcool par son épouse. De plus, il n'y est pas indiqué si lui ou sa femme faisait usage du tabac.
+[10] Le ministre lui a demandé à plusieurs reprises de fournir un bilan pour chacune des années allant de 1995 à 2000. Même une demande péremptoire en date du 3 mai 2001 est restée sans réponse, tout comme, d'ailleurs, celle du 4 avril 2002. Il est vrai que monsieur Béliveau a fourni une liste d'éléments d'actif et de passif (bilan informe). Toutefois, non seulement cette liste n'est pas datée, mais elle ne précise pas non plus à quelle date ces éléments d'actif et de passif auraient existé. Les seuls éléments d'actif que monsieur Béliveau reconnaît avoir possédés sont des meubles de bureau pour 1 500 $ et des meubles de maison pour 1 000 $. Sous la rubrique passif, on trouve toutes sortes de renseignements incohérents, à savoir des renseignements portant sur des dons, des emprunts, un jugement et une « valeur de rachat d'assurances » . Il s'agit donc d'un écrit sans valeur. Je le reproduis ici :
+ACTIF
+DEBENTURE
+0 $
+PLACEMENT
+0 $
+ARGENT
+0 $
+PRÊT
+0 $
+MEUBLES AU BUREAU
+1500,00$ (ENVIRON EN MEUBLES)
+MEUBLES À LA MAISON
+1000,00$ (ENVIRON EN MEUBLES. J'AI LOUÉ MEUBLÉE)
+AUTRES VALEURS
+0 $
+TOTAL
+2 500,00 $
+PASSIF
+EMPRUNT HYPOTHECAIRE
+407,000$
+EMPRUNT PERSONNEL (M. BOISVERT)
+20,000$
+VALEUR DE RACHAT D'ASSURANCES
+20,000$
+JUGEMENT ANDRÉ DESLISLE
+30,000$
+MA MÈRE M'A DONNÉ
+100,000$
+MADAME CARMEN LORANGER
+50,000$
+EMPRUNT
+80,000$
+TOTAL
+757,000$
+[11] N'ayant pu obtenir un bilan de monsieur Béliveau pour chacune des années pertinentes, le vérificateur n'a pas eu d'autre choix que de procéder à une évaluation de ses revenus bruts non déclarés sur la base de données fort incomplètes que monsieur Béliveau lui avait fournies, à savoir celles relatives à son coût de la vie et à certaines dépenses de bureau. Il faut souligner, de plus, que le vérificateur a tout simplement accepté les chiffres de monsieur Béliveau sans y ajouter d'autres dépenses qui auraient pu être évaluées en utilisant des statistiques comme celles de Statistique Canada. Il n'est donc pas surprenant que monsieur Béliveau n'ait offert aucune observation au vérificateur lorsque celui-ci lui a remis le projet de cotisation.
+[12] Il faut mentionner que monsieur Béliveau a demandé une remise au cours de la semaine qui a précédé l'audition de cet appel pour lui permettre de préparer des déclarations de revenus. Le procureur de l'intimée s'est opposé à cette demande. Il faut bien reconnaître qu'il s'agissait là d'une demande bien tardive de la part de monsieur Béliveau. Peut-être s'agissait-il d'une tentative de montrer sa bonne foi. Toutefois, j'en tire une conclusion tout à fait négative. Si monsieur Béliveau avait été sincère, il aurait préparé ses déclarations soit à l'étape de la vérification ou à celle de l'opposition. Il aurait même pu le faire durant la période de quatre mois et demi entre la date de l'avis d'audition que cette Cour lui a envoyé le 8 juin 2004 et la tenue de l'audience le 26 octobre 2004. Or, aucune preuve sérieuse n'a été fournie à la Cour sur les revenus que monsieur Béliveau a gagnés durant la période pertinente. Sa stratégie s'est limitée à tenter de démontrer que le total de ses honoraires annuels ne dépassait pas 30 000 $ pour chacune des années visées par la cotisation et qu'il avait été un « petit fournisseur » au sens de l'article 148 de la Loi au cours de la période pertinente. Par conséquent, selon lui, il n'était pas tenu de percevoir et de remettre la TPS relativement à la fourniture de ses services. Pour démontrer que les revenus en question ne dépassaient pas 30 000 $, il s'est contenté d'attaquer les calculs de l'avoir net effectués par le vérificateur, calculs qui, comme on l'a déjà vu et comme on le verra plus loin, sont fort incomplets.
+[13] En particulier, monsieur Béliveau a tenté de démontrer que son coût de la vie, qu'il avait lui-même chiffré, avait été couvert par d'autres sources que des revenus non déclarés. Il a fait état de dons de sa mère, madame Boisvert, et notamment d'un don de 100 000 $ qu'elle avait effectué en deux versements en espèces, l'un de 20 000 $ et l'autre de 80 000 $. La date de ces versements n'a pas été précisée. Il aurait obtenu aussi un autre don, de 400 000 $, de sa mère, lequel aurait été financé de la façon suivante : un ami de la famille, un monsieur Louis Leblanc, aurait consenti directement à monsieur Béliveau des avances totalisant 400 000 $ que sa mère aurait garanties par deux hypothèques sur une propriété qu'elle possédait à Victoriaville et que monsieur Béliveau a décrite dans son témoignage comme un « domaine » .
+[14] La première hypothèque consentie par madame Boisvert, pour un montant de 150 000 $, est en date du 14 décembre 1989. Le prêt portait intérêts à un taux de 14,5 %, les intérêts étant payables deux fois par an. Selon monsieur Béliveau, cette hypothèque de 150 000 $ couvrait des avances de 90 000 $ déjà effectuées par monsieur Leblanc depuis 1984 pour financer les opérations de son bureau. En plus de ces 90 000 $, monsieur Leblanc aurait fait d'autres avances, totalisant 60 000 $, à partir de décembre 1989.
+[15] La deuxième hypothèque a été consentie par madame Boisvert le 24 novembre 1993 pour garantir d'autres avances à monsieur Béliveau totalisant 250 000 $. Les intérêts, dont le taux s'élevait à 8 %, étaient aussi payables deux fois par année. Selon la preuve présentée lors de l'audience, ces 250 000 $ auraient été avancés par chèques de petits montants qui, en 1996, se seraient élevés à 2 000 $, à 4 000 $, à 5 000 $ et à 10 000 $. Ces chèques étaient parfois payables à monsieur Béliveau, mais le plus souvent ils étaient payables directement à ses créanciers. Monsieur Leblanc a apporté, le jour de l'audience, plusieurs de ces chèques[2], qui totalisent environ 139 530 $ et couvrent une période de cinq ans, de 1996 à 2000; cela représente une moyenne d'environ 27 900 $ par année. Selon monsieur Leblanc, ces chèques ne représentent qu'une fraction des chèques émis au bénéfice de monsieur Béliveau durant cette période. Il a même ajouté que plus de 20 000 $ avaient été prêtés à monsieur Béliveau après 2000.
+[16] Toujours selon monsieur Leblanc, son prêt de 400 000 $ a été remboursé le 17 août 1998 au moyen d'une dation en paiement de l'immeuble hypothéqué de madame Boisvert. On indique d'ailleurs dans l'acte du 17 août 1998 que le montant de la contrepartie s'élève à 400 000 $ et que, en vertu de l'article 18 de la Loi concernant les droits sur les mutations immobilières, le transfert n'était pas assujetti aux droits de mutation de 4 500 $.
+[17] Monsieur Leblanc a reconnu qu'il avait revendu cette propriété un ou deux ans plus tard en contrepartie d'une somme de 125 000 $ et d'un immeuble. Lorsque je lui ai demandé quelle était la valeur de cet immeuble indiquée sur l'acte de transfert de celui-ci, il a répondu 40 000 $. Sur la foi de ces réponses, monsieur Leblanc n'aurait dans les faits reçu que 165 000 $ pour les 400 000 $ avancés à monsieur Béliveau, subissant ainsi une perte de 235 000 $. Ce chiffre ne tient pas compte des intérêts qu'il n'a jamais reçus.
+[18] Dans le bilan informe, on trouve la mention d'autres prêts consentis par d'autres personnes. Lors de son témoignage, monsieur Béliveau a fait référence en particulier à un prêt de 50 000 $ d'une madame Loranger et d'un prêt de 25 000 $ de monsieur Boisvert. Toutefois, selon le bilan informe, ce prêt de monsieur Boisvert s'élèverait plutôt à 20 000 $. En outre, monsieur Béliveau a précisé qu'il ne s'agissait pas d'un véritable prêt. En effet, il aurait indiqué à monsieur Boisvert qu'il ne désirait pas effectuer un emprunt. Il l'aurait plutôt convaincu de traiter la somme de 25 000 $ comme un placement dans une sorte de coentreprise. Monsieur Boisvert serait devenu son associé. Lorsque je lui ai demandé de préciser la nature de cette association, monsieur Béliveau a indiqué qu'il avait consenti à monsieur Boisvert une participation dans les honoraires qu'il escomptait recevoir de trois de ses clients. Évidemment, il n'a pas été mis en preuve que monsieur Boisvert a tiré un bénéfice de cette association.
+Analyse
+[19] Pour décider si les cotisations du ministre sont bien fondées, il est utile de rappeler quelques principes établis par les tribunaux. Il y a d'abord ceux énoncés dans la décision que j'ai rendue dans Léger c. La Reine, 2001 DTC 471. Au paragraphe 13 et suivants, j'ai écrit ce qui suit :
+[13] Tout d'abord, il faut traiter du fardeau de la preuve qui incombe à monsieur Léger dans ses appels. Mon collègue le juge Tardif a eu l'occasion de traiter du fardeau de la preuve dans une affaire soulevant, comme c'est le cas ici, la question de l'application de la méthode de l'avoir net.
+[14] Dans l'affaire Bastille c. Sa Majesté la Reine, 99 DTC 431, ([1999] 4 C.T.C. 2155), il écrit aux paragraphes 5 et suivants :
+[5] Il m'apparaît important de rappeler qu'en cette matière, le fardeau de la preuve incombe aux appelants, à l'exception toutefois de la question des pénalités où le fardeau de preuve est imputable à l'intimée.
+[6] Une cotisation établie en vertu de la formule AVOIR NET ne peut jamais découler de la rigueur mathématique souhaitée et souhaitable en matière de cotisation. Il y a généralement une certaine partie d'arbitraire provenant de la détermination de la valeur des composantes. Le Tribunal doit décider de la raisonnabilité de cet arbitraire.
+[7] Le recours à ce procédé n'est d'ailleurs pas la règle. Il constitue en quelque sorte une exception utilisée dans les situations où le contribuable n'a pas en sa possession toutes les informations, documents et pièces justificatives pour permettre une vérification plus conforme aux règles de l'art et surtout plus précise quant au résultat.
+[8] Les assises ou fondements des calculs élaborés dans le cadre d'un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l'objet de la vérification.
+[9] La qualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+[15] Un autre de mes collègues, le juge Bowman, tenait les propos suivants dans l'affaire Ramey c. la Reine, [1993] A.C.I. no 142 (QL) ( [1993] 2 C.T.C. 2119, 93 DTC 791), au paragraphe 6 :
+Je ne sous-estime pas les difficultés énormes, sinon pratiquement insurmontables, auxquelles l'appelant et son avocat se heurtent dans leur tentative de contester les cotisations d'actif net établies à l'égard d'un contribuable décédé. Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur.
+[Je souligne.]
+[20] Il y a aussi les principes énoncés aux paragraphes suivants de la décision en date du 24 juillet 2001 rendue par la Cour d'appel fédérale dans Hsu c. La Reine, [2001] A.C.F. no 1174 (QL), citée par le procureur de l'intimée. Voici ce que la juge Desjardins a écrit :
+25 Dans son interrogatoire préalable, le vérificateur a admis qu'il n'appliquait pas la méthodologie précise établie dans le Manuel des opérations de l'impôt. Il a expliqué qu'une évaluation ordinaire de la valeur nette était impossible parce que l'appelant avait refusé de divulguer tout renseignement concernant sa valeur nette réelle en 1993 et en 1994. Le vérificateur ne disposait donc pas d'un chiffre de clôture comme point de repère lui permettant de déterminer toute augmentation de la valeur de l'appelant au cours des périodes en question[3].
+[. . .]
+29 Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu'il a produit une déclaration fort inexacte ou qu'il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd., Toronto : Carswell, (1995) à la page 1089.) [. . .]
+33 Je tiens à ajouter qu'il était loisible au juge de la Cour de l'impôt de conclure que la méthode que le ministre avait employée pour déterminer le revenu de l'appelant était raisonnable et logique eu égard aux circonstances de l'espèce. Les nouvelles cotisations établies par le ministre étaient clairement arbitraires, mais il ne faut pas oublier que cette approche était directement attribuable au refus de l'appelant de divulguer des renseignements ou documents financiers. Dans la décision Dezura, précitée, aux pages 1103 et 1104, le président de la Cour de l'Échiquier du Canada a donné les explications suivantes :
+[TRADUCTION]
+[...] Si son omission de convaincre la Cour est attribuable à sa propre faute ou à une négligence telle que l'omission de conserver des comptes ou des documents appropriés lui permettant d'étayer ses propres déclarations, il ne peut imputer la chose qu'à sa propre faute.
+34 Comme le juge de la Cour de l'impôt l'a fait remarquer, l'appelant n'a rien fait pour assurer une vérification exhaustive, complète et juste. L'appelant a toujours omis de fournir des éléments de preuve tendant à établir quel était son revenu réel au cours de la période en question. Il ne peut donc pas se plaindre du fait que le ministre s'est fondé sur des hypothèses.
+[Je souligne.]
+• Preuve peu crédible de monsieur Béliveau
+[21] Analysons maintenant la preuve présentée par monsieur Béliveau. Tout d'abord, je veux commenter la qualité de cette preuve. Je n'ai pas trouvé les témoignages de messieurs Béliveau et Leblanc crédibles. Celui de monsieur Béliveau a été trop souvent vague, élusif, contradictoire, peu plausible ou invraisemblable et confus. De plus, monsieur Béliveau avait une mémoire sélective. J'aimerais illustrer cette constatation par certains exemples.
+[22] Contre-interrogé sur le tableau de dépenses qu'il avait fourni au vérificateur[4], monsieur Béliveau a été incapable de reconnaître qu'il l'avait préparé lui-même. Or, on trouve sur ce tableau les affirmations suivantes : « je ne bois pas d'alcohol [sic] » , « je ne prends pas de drogue » , « je n'ai pas pris [de] vacances depuis 89 » , « je ne joue pas les jeux de hasard » .
+[23] Dans son tableau de revenus, monsieur Béliveau n'indique pour l'année 1996 aucun revenu tiré d'une profession, alors que dans son témoignage il a dit que son revenu provenant de cette source durant cette année pouvait avoir atteint 10 000 $. Lors de son témoignage, il a indiqué ne pas savoir s'il avait gagné en 1997 des revenus résultant de ses activités professionnelles, alors que dans son tableau il indique à cet égard un revenu de 5 000 $.
+[24] En répondant aux questions que je lui ai posées sur les revenus qu'il a pu tirer de ses activités professionnelles durant la période pertinente, il a été incapable de préciser quels avaient été ces revenus, sauf pour affirmer qu'ils n'avaient certainement pas dépassé 20 000 $. Or, le montant le plus élevé qu'on trouve dans son tableau de revenus est 10 000 $.
+[25] Monsieur Béliveau a été élusif dans ses réponses à plusieurs questions que je lui ai posées. J'ai dû m'y reprendre à quatre fois pour obtenir une réponse de sa part. De façon générale, le témoignage de monsieur Béliveau a été confus, de sorte qu'il m'est difficile de me faire une opinion précise sur ses activités professionnelles. Par exemple, dans le cas du prétendu prêt de 20 000 $ ou de 25 000 $ , ses explications concernant son association avec monsieur Boisvert et concernant le partage des honoraires découlant de trois réclamations effectuées pour ses clients sont loin d'être claires.
+[26] Il y a plusieurs éléments de contradiction dans son témoignage ou par rapport à des déclarations données antérieurement. Au début de son témoignage, il avait indiqué la période de 1996 à 2000 comme l'époque du début des opérations d'Indemniteck. Par la suite, il a plutôt situé leur début aux alentours de 1994 ou de 1995. Il existe également une contradiction entre le témoignage de monsieur Béliveau, qui prétend que la proposition concordataire a été faite aux alentours des années 1994 ou 1995, et celui de monsieur Leblanc, qui la situe aux alentours de 1992 ou de 1993.
+[27] Certains des faits relatés par monsieur Béliveau m'apparaissent peu vraisemblables. Il a indiqué qu'il avait gardé un bureau durant la période de 1990 à 1994, soit la période subséquente à sa radiation du Tableau de l'Ordre du Barreau, alors qu'il ne reconnaît pas avoir eu une source quelconque de revenus tirés d'une profession. Même s'il affirme qu'il a travaillé 50 heures par semaine et que ses factures mensuelles de cellulaire s'élevaient à entre 500 $ et 700 $, ses revenus provenant d'une profession pour la période pertinente ne représenteraient qu'une moyenne annuelle de 6 000 $.
+[28] Monsieur Béliveau fait aussi preuve d'une mémoire sélective lorsqu'il se rappelle de façon exacte la date de sa radiation du Tableau de l'Ordre du Barreau et de la date de sa nomination comme président de la Commission des normes du travail, mais ne se rappelle pas la date où sa mère a été placée en résidence ou la date du décès de celle-ci. Il a de plus été vague dans ses réponses sur la durée du séjour de sa mère chez lui et sur celle de son séjour dans une résidence pour personnes âgées.
+[29] Le témoignage de monsieur Leblanc m'est apparu également peu crédible. Ce dernier affirme avoir fait des prêts sur billet à monsieur Béliveau, mais il n'a apporté aucun des billets à l'audience. Selon lui, on ne le lui a pas demandé. Cela est fort surprenant quand on pense que la preuve de l'existence de ces prêts constitue un élément majeur de la défense de monsieur Béliveau.
+[30] Un autre élément qui me fait douter de la véracité du témoignage de monsieur Leblanc est le fait que les chèques qu'il a produits en Cour - il en est ainsi d'ailleurs pour les actes d'hypothèque aussi[5] - n'ont été montrés au représentant du ministre ni lors de sa vérification ni au cours des démarches faites au stade de l'opposition. Le ministre n'a donc jamais eu l'occasion de vérifier la provenance des fonds de monsieur Leblanc, les renseignements fournis par les actes d'hypothèque et la source des sommes d'argent remises par chèques à monsieur Béliveau par monsieur Leblanc. De plus, monsieur Leblanc a été plutôt vague en expliquant, à l'audience, la provenance d'une somme aussi colossale que 400 000 $ qu'il prétend avoir prêtée à monsieur Béliveau.
+[31] Toutefois, la raison la plus sérieuse pour laquelle je doute de la véracité de la version de monsieur Leblanc tient aux circonstances entourant le prétendu prêt de 400 000 $. En effet, ce prêt aurait été garanti par une hypothèque sur le « domaine » (pour utiliser l'expression de monsieur Béliveau), une propriété dont la valeur s'est révélée ne pas être supérieure à 165 000 $ lorsqu'elle a été revendue un an ou deux après la cession. Pour tenter de contrer l'effet négatif de sa réponse - que l'immeuble donné en échange n'avait qu'une valeur de 40 000 $, laquelle, ajoutée à la somme d'argent de 125 000 $, faisait une contrepartie totale de 165 000 $, monsieur Leblanc a parlé de l'existence d'une offre d'achat d'environ 700 000 $ qui aurait été faite relativement au domaine. Toutefois, non seulement cette offre n'a-t-elle pas été déposée devant la Cour pour appuyer ce témoignage, mais monsieur Leblanc a reconnu qu'il ne l'avait même pas vue lui-même. Un autre fait fort intriguant dans toute cette affaire du prétendu prêt de 400 000 $ est que des intérêts n'ont jamais été versés par monsieur Béliveau à monsieur Leblanc. Finalement, même après avoir constaté qu'il n'avait réalisé que 165 000 $ sur la garantie qu'on lui avait donnée pour le prétendu prêt de 400 000 $, monsieur Leblanc a continué à prêter des sommes d'argent à monsieur Béliveau après 2000, soit au moins 20 000 $!
+[32] Or, il me paraît plus plausible que la somme de 400 000 $ remise à monsieur Béliveau provenait, directement ou indirectement, de monsieur Béliveau lui-même, soit de son entreprise de consultant, soit d'autres sources occultes de revenus. Une de ces sources pourrait vraisemblablement être une participation de monsieur Béliveau dans un site d'enfouissement que monsieur Leblanc aurait acquis de clients de monsieur Béliveau et qu'il aurait exploité avec son fils. Cette acquisition se serait avérée une excellente affaire pour monsieur Leblanc. Je ne serais pas surpris que les Leblanc aient exploité le site d'enfouissement, en totalité ou en partie, comme prête-noms pour monsieur Béliveau. En effet, monsieur Leblanc et la procureure de monsieur Béliveau ont invoqué comme motif pour expliquer la générosité de monsieur Leblanc le fait que celui-ci avait acquis ce site d'enfouissement d'un client de monsieur Béliveau.
+[33] Un appui pour cette hypothèse peut se trouver aussi dans le fait que monsieur Béliveau avait intérêt à utiliser des prête-noms pour échapper à ses créanciers[6]. Ce ne serait pas la première fois que monsieur Béliveau aurait eu recours à un tel arrangement. En effet, il affirme s'être associé avec monsieur Boisvert, avec qui il devait partager ses honoraires en échange d'une somme de 20 000 $ ou de 25 000 $[7]. Un tel arrangement aurait donc pu être adopté également avec monsieur Leblanc pour l'exploitation du site d'enfouissement. Quand j'ai demandé à monsieur Leblanc comment il était rémunéré en ce qui concerne cette entreprise d'enfouissement, il a reconnu que les clients du site étaient des camionneurs et non pas des entreprises ou des municipalités. Il n'est donc pas inimaginable que ces camionneurs aient pu verser des sommes en espèces pour l'enfouissement des rebuts.
+[34] Je ne dis pas ici que monsieur Béliveau était un des propriétaires de cette entreprise d'enfouissement; la preuve, évidemment, n'est pas assez claire pour en arriver à une telle conclusion. Toutefois, cette hypothèse m'apparaît tout aussi, sinon plus, plausible que la version des faits fournie par monsieur Leblanc, selon laquelle il aurait versé des sommes considérables sans garantie suffisante et sans encaisser d'intérêts sur ces sommes et aurait continué à avancer à monsieur Béliveau des sommes additionnelles, même après avoir perdu environ 60 % de son prêt (235 000 $/400 000 $).
+• Calculs de l'écart de l'avoir net incomplets
+[35] D'autre part, il faut souligner le caractère incomplet des calculs de l'écart de l'avoir net effectués par le vérificateur. Tout d'abord, il manque tous les chiffres nécessaires pour établir l'écart de l'avoir net résultant de la fluctuation des éléments d'actif et de passif. Monsieur Béliveau n'a fourni de bilan pour aucune des années pertinentes, soit de 1995 à 2000. L'inexistence de ces données n'est pas le fait du vérificateur, qui a tenté à plusieurs reprises de les obtenir. C'est monsieur Béliveau qui a refusé de les communiquer.
+[36] Il aurait été fort intéressant de savoir dans quelle mesure les dettes que pouvait avoir accumulées monsieur Béliveau avant comme pendant la période pertinente ont pu être réglées au cours de la période pertinente et dans quelle mesure monsieur Béliveau a pu financer l'acquisition d'éléments d'actif, notamment sa voiture[8].
+[37] Non seulement les calculs du vérificateur sont-ils incomplets parce qu'il manque tout le volet écart de l'avoir net, mais les données relatives au coût de la vie sont erronées. Tel qu'il a déjà été mentionné, ces données sont erronées d'abord parce qu'incomplètes : bien des postes de dépenses ne se trouvent pas au tableau de dépenses. Elles sont erronées aussi parce que certaines des données du tableau de dépenses ont été sous-estimées. La preuve de cela est fournie en partie par les chèques qu'a produits en Cour monsieur Leblanc. Ces chèques, tirés sur le compte de monsieur Leblanc en faveur de fournisseurs ou de créanciers de monsieur Béliveau, révèlent notamment des dépenses additionnelles importantes de ce dernier.
+[38] Tout d'abord, pour l'année 2000, il y a dix chèques - soit un de 795 $ et neuf de 548 $ - totalisant environ 5 728 $ faits pour acquitter des primes d'assurance-vie. Calculant sur une base annuelle, on arrive à une prime annuelle d'environ 6 824 $. J'ai pu également constater l'existence de nombreux chèques émis pour acquitter des primes d'assurance-vie semblables pour la période de 1997 à 1999[9]. Comme la plupart des chèques pour cette période sont pour des montants de 548 $, sauf dans le cas de l'année 1997 pour laquelle on trouve des chèques de 560 $, on peut croire que monsieur Béliveau a versé un total de 27 296 $ (4 x 6 824 $) de primes d'assurance-vie durant cette période. Or, un tel poste de dépenses personnelles n'apparaît aucunement au tableau de dépenses : rien pour donner de la crédibilité au témoignage de monsieur Béliveau.
+[39] Un autre type de dépenses que l'on ne trouve pas au tableau de dépenses est les dépenses de monsieur Béliveau relatives à sa mère tant durant la période où elle a vécu chez lui que durant celle commençant quand il a dû la placer dans une résidence pour personnes âgées. Selon monsieur Béliveau, le montant de pension de vieillesse que recevait sa mère était insuffisant pour payer la somme mensuelle exigée par cette résidence. Il fallait ajouter de 800 $ à 900 $ à la pension. En présumant que madame Boisvert n'a habité cette résidence que pendant une année, on arrive à un écart de 10 800 $ (900 x 12) pour un an.
+[40] Dans son témoignage, monsieur Béliveau a indiqué qu'il se déplaçait pour aller à Québec pour défendre les intérêts de ses clients, et pourtant on ne trouve pas parmi ses dépenses des dépenses de restaurant. De plus, les seules dépenses reliées à sa voiture qui sont indiquées sont les dépenses d'essence. Où sont les frais d'assurance automobile, les frais d'immatriculation et les frais d'entretien de sa voiture?
+[41] Il n'y a aucune dépense pour les loisirs ou les divertissements, aucune dépense pour les soins de santé ou les soins personnels, aucune dépense d'entretien de logement et d'assurance logement pour lui et pour sa famille. Les seules dépenses de bureau qu'il a indiquées sont celles pour un local et pour les télécommunications. Où sont les dépenses de fournitures de bureau? N'a-t-il pas eu recours aux services d'une secrétaire durant toute la période pertinente?
+[42] Un autre fait qu'a révélé l'analyse des chèques fournis par monsieur Leblanc est que monsieur Béliveau versait une pension alimentaire de 1 000 $ par mois plutôt que de 500 $ tel qu'il l'indique dans son tableau de dépenses. En effet, j'ai pu trouver quatre chèques consécutifs de 1 000 $ pour les mois de mars à juin 1998. Donc, il est plausible que la pension alimentaire s'élevait plutôt à 12 000 $ par année et non pas à 6 000 $. Il y aurait ainsi un écart de 6 000 $ par année sur cinq ans, pour un total de 30 000 $ durant la période pertinente.
+[43] Les sommes que monsieur Béliveau a indiquées comme étant reliées à la « bouffe » s'élèvent à 600 $ par mois pour chacune des années de 1996 à 2000. Cela représente environ 140 $ d'épicerie par semaine pour une famille de cinq ou six personnes. En effet, monsieur Béliveau était marié; il avait trois enfants qui, en 1997, étaient âgés de un à 11 ans. En outre, la preuve a révélé que la mère de monsieur Béliveau avait aussi habité pendant un certain temps chez lui. Ce chiffre de 140 $ m'apparaît donc insuffisant.
+[44] En résumé, il faut conclure que les montants de revenus non déclarés déterminés selon la méthode de l'avoir net ne sont pas fiables. Ils ont été calculés selon des données fort incomplètes tant en raison de l'absence de chiffres montrant l'écart de l'avoir net que du fait que les dépenses au titre du coût de la vie ont été sous-estimées. Si la méthode de l'écart de l'avoir net avait été appliquée avec rigueur et selon les règles de l'art, des montants plus élevés auraient été établis comme revenus non déclarés. La faute pour l'imprécision de cette évaluation faite par le vérificateur revient principalement à monsieur Béliveau.[10] Comme on ne peut se fier aux montants des revenus bruts non déclarés établis par les calculs du vérificateur parce que ces revenus étaient en fait nettement plus élevés que les montants ainsi déterminés, il devient impossible, comme le déclarait le juge Bowman (tel était alors son titre) dans l'affaire Ramey, d'attaquer des éléments isolés de la cotisation du ministre. Même si j'acceptais qu'une partie du coût de la vie a été financée par des prêts réels consentis par certains des prêteurs mentionnés précédemment, on ne pourrait pas être certain que le montant des honoraires ne dépassait pas, pour chacune des années pertinentes, le chiffre magique de 30 000 $, ce seuil au-delà duquel on ne peut réclamer le statut de petit fournisseur. Seulement une reconstitution complète et crédible des revenus gagnés par monsieur Béliveau aurait pu démolir les faits sur lesquels la cotisation du ministre a été établie.
+[45] Même si je croyais que monsieur Béliveau a reçu un prêt véritable de 400 000 $, ce qui n'est pas le cas, ce prêt aurait été insuffisant pour financer le coût de la vie de monsieur Béliveau durant la période pertinente. En effet, la première partie de ce prêt, soit 150 000 $, aurait été avancée avant 1993. Sur ces 150 000 $, 90 000 $ auraient été déboursés de 1984 à 1989 pour financer les activités du cabinet d'avocat de monsieur Béliveau. Le solde, soit 60 000 $, aurait été avancé à compter de décembre 1989. Pour la période de 1990 à 1993, monsieur Béliveau ne reconnaît pas avoir eu quelque source de revenus que ce soit. Or, si on utilise comme coût de la vie annuel durant cette période le montant sous-estimé de 54 000 $ que monsieur Béliveau a indiqué lui-même sur le tableau de dépenses, la somme de 60 000 $ versée en 1989 se révèle insuffisante pour couvrir ses besoins pour la période de 1990 à 1993. Il y aurait un déficit de 156 000 $ puisqu'un coût de la vie annuel de 54 000 $ durant quatre ans représente un total de 216 000 $.[11]
+[46] Quant aux250 000 $ garantis par la deuxième hypothèque du mois de novembre 1993, il faut croire qu'une partie de cette somme aurait été nécessaire avant cette date et, comme cela avait été le cas pour l'argent obtenu grâce à la première hypothèque, une partie de ces 250 000 $, soit 156 000 $, aurait été avancée avant la date de l'hypothèque. Il ne serait resté plus alors que 94 000 $ à avancer à la fin de 1993[12]. Il aurait toutefois fallu 108 000 $ pour couvrir le coût de la vie pour les années 1994 et 1995, ce qui aurait créé un déficit de 14 000 $.
+[47] Or, pour la période pertinente, il resterait à couvrir un montant de 30 000 $ attribuable à la pension alimentaire supplémentaire que monsieur Béliveau aurait remis à son ancienne épouse[13], un montant de 27 300 $ pour les primes d'assurance-vie et un montant de 10 800 $ relatif au coût du séjour de sa mère dans une résidence pour personnes âgées. Cela donnerait en tout un déficit de 82 100 $. Et je n'ai pas encore tenu compte du coût plus élevé d'épicerie; en effet, à mon avis, la dépense d'épicerie a été sous-estimée tout comme l'ont été les dépenses relatives à la voiture, les dépenses de bureau, les dépenses de soins de santé et j'en passe.
+[48] Évidemment, il est possible qu'au don de 400 000 $ il faille ajouter l'autre don de sa mère, celui de 100 000 $[14]. Dans un tel cas, il resterait à la fin de 1995 un solde positif de 17 900 $ pour couvrir le coût de la vie annuel de 54 040 $ déclaré par monsieur Béliveau, qui représente en tout 270 200 $ pour la période pertinente. On est donc bien loin du compte, même si on soustrait de ce montant les 67 800 $ de revenus qu'il a indiqués à son tableau de revenus pour la période pertinente.
+[49] Les mêmes commentaires s'appliquent aux autres prétendus prêts consentis à monsieur Béliveau, soit ceux de monsieur Boisvert et de madame Loranger. Il n'y a eu aucune preuve sérieuse et crédible qui a été produite à l'audience pour établir que ces prêts existaient et dans quelle mesure et à quelle époque ils auraient été remboursés. De plus, il faut se rappeler que monsieur Béliveau avait à un moment donné des dettes de deux millions de dollars et qu'il aurait fait une proposition concordataire dont les modalités de paiement sont, comme je l'ai déjà mentionné, nébuleuses. De plus, il est possible que les dons et les prêts effectués avant la période pertinente aient été entièrement utilisés pour le règlement de ladite dette de deux millions de dollars.
+[50] En définitive, il m'est impossible de conclure selon la prépondérance des probabilités que les revenus non déclarés de monsieur Béliveau sont inférieurs à ceux révélés par les écarts calculés par le vérificateur selon sa méthode. Monsieur Béliveau a échoué lamentablement dans sa tâche de démontrer que les montants des fournitures taxables calculés sont erronés. S'il y a un cas où les commentaires du juge Bowman dans Ramey devraient être appliqués de façon littérale, c'est bien dans cet appel. Ici non seulement une méthode fort arbitraire a été utilisée par un vérificateur, mais cette méthode arbitraire est elle-même grandement déficiente parce qu'il y manque des éléments importants, à savoir, les calculs de l'avoir net, ainsi qu'une partie des dépenses constituant le coût de la vie.
+[51] Pour tous ces motifs, l'appel de monsieur Béliveau est rejeté.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2005.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI73
+No DU DOSSIER DE LA COUR :
+2003-3653(GST)I
+INTITULÉ DE LA CAUSE :
+Jean-Marc Béliveau et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 26 octobre 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Pierre Archambault
+DATE DU JUGEMENT :
+le 3 novembre 2004
+DÉCISION RENDUE
+ORALEMENT :
+le 29 octobre 2004
+MOTIFS DU JUGEMENT :
+le 27 janvier 2005
+COMPARUTIONS :
+Pour l'appelant :
+Me Rachel Laferrière
+Pour l'intimée :
+Me Mario Laprise
+AVOCATS INSCRITS AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Rachel Laferrière
+Étude :
+de Grandpré Chait, avocats
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je ne reproduis que la colonne pour l'année 1996, puisque les mêmes chiffres ont été répétés pour chacune des années 1997 à 2000.
+[2] Ils ont été copiés avant le début de l'audience, ce qui en a retardé le début.
+[3] Ces faits ressemblent étrangement à ceux de notre appel.
+[4] Le vérificateur a confirmé que monsieur Béliveau lui avait remis ce tableau.
+[5] M. Béliveau affirme ne pas les avoir remis à l'agent des appels en raison d'un sourire de cet agent. Cela m'apparaît plutôt surprenant de la part d'un ancien « bon plaideur » .
+[6] Une autre explication, plus gênante pour monsieur Béliveau, serait qu'il ne voulait pas apparaître comme l'acheteur de biens appartenant à ses clients.
+[7] Il faut mentionner aussi les ennuis que monsieur Béliveau a eus en tentant de faire reconnaître par les tribunaux sa participation dans la société immobilière. S'agissait-il là d'un autre arrangement de prête-nom?
+[8]
+Monsieur Béliveau n'a indiqué comme faisant partie de son coût de la vie aucun loyer pour l'usage d'une voiture. On peut donc penser qu'il était propriétaire de sa voiture (et/ou de celle de sa conjointe).
+[9] Comme je n'ai pu trouver de tels chèques pour 1996, j'ai présumé que des primes d'assurance-vie n'avaient été versées que pour la période de 1997 à 2000. Toutefois, il est loin d'être certain que monsieur Béliveau ne payait pas de telles primes avant 1997.
+[10] Le vérificateur aurait pu également faire preuve de plus de rigueur en ajoutant des dépenses évaluées selon les données de Statistique Canada pour les postes de dépenses omis par monsieur Béliveau.
+[11]
+(60 000 $ - 216 000 $ = - 156 000 $).
+[12]
+(250 000 $ - 156 000 $ = 94 000 $).
+[13] Le déficit de 14 000 $ pourrait être bien plus élevé si monsieur Béliveau a versé une pension alimentaire annuelle supérieure à 6 000 $ avant la période pertinente, par exemple entre 1989 et 1996.
+[14] Il est loin d'être certain toutefois que sa mère lui ait fait un tel don : il paraît plutôt surprenant qu'elle ait eu 80 000 $ « en espèces » pour effectuer un don. De plus, la date de ce prétendu don n'a d'ailleurs pas été précisée.

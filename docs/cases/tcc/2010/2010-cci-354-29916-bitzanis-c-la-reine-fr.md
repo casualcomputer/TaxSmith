@@ -1,0 +1,203 @@
+---
+title: "Bitzanis c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29916/index.do"
+last_modified: "2010-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 354"
+citation2: ""
+neutral_citation: "2010 CCI 354"
+decision_date: "2010-06-28"
+language: "fr"
+item_id: "29916"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6436
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:50:19.549000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f10c66b6c22109f4546ba8cb7eb345bed5e4a799882aa8e270e37ae63b53042"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bitzanis c. La Reine
+
+- Citation: 2010 CCI 354
+- Decision date: 2010-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6436, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bitzanis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-28
+Référence neutre
+2010 CCI 354
+Numéro de dossier
+2009-831(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-831(IT)I
+ENTRE :
+CONSTANTINA BITZANIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Nickolaos Bitzanis (2009-832(IT)I),
+le 21 juin 2010, à Montréal (Québec)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Sarom Bahk
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Morell, Île-du-Prince-Édouard, ce 22e jour de juillet 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Dossier : 2009-832(IT)I
+ENTRE :
+NICKOLAOS BITZANIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Constantina Bitzanis (2009-831(IT)I),
+le 21 juin 2010, à Montréal (Québec)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Sarom Bahk
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Morell, Île-du-Prince-Édouard, ce 22e jour de juillet 2010.
+« G.A. Sheridan »
+Juge Sheridan
+Référence : 2010 CCI 354
+Date : 20100628
+Dossiers : 2009-831(IT)I
+2009-832(IT)I
+ENTRE :
+CONSTANTINA BITZANIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2009-832(IT)I
+NICKOLAOS BITZANIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Les appels de Nickolaos Bitzanis et de Constantina Bitzanis ont été entendus ensemble, sur preuve commune. Les deux appelants ont témoigné à l’audience. L’intimée a appelé Clodie Robitaille, l’agente des appels chargée des dossiers des appelants à l’Agence du revenu du Canada (l’« ARC »), à témoigner. La seule question en litige dans le présent appel, entendu sous le régime de la procédure informelle, est de savoir si les appelants ont le droit de déduire des frais de gestion engagés dans le cadre de leur entreprise de biens locatifs.
+[2] Lorsqu’il a établi la nouvelle cotisation pour l’année d’imposition 2003 des appelants, le ministre du Revenu national (le « ministre ») s’est fondé sur les mêmes hypothèses de faits pours les deux appelants :
+[traduction]
+a) Pour déclarer le revenu de location pour l’année d’imposition 2003, [chacun des appelants] a déclaré les montants suivants au titre de revenu net de location :
+Bien
+Participation (%)
+Total (perte),
+profit
+Part de l’appelant ($)
+3960-662, Grande Allée, Montréal
+25 %
+1 391 $
+347,75 $
+1831-1835, rue Delorimier, Montréal
+50 %
+(8 898) $
+(4 449) $
+158, 1re avenue, Lasalle
+50 %
+(11 874) $
+(5 937) $
+3767-3771, avenue Verdun, Montréal
+25 %
+779 $
+194,75 $
+3773-3783, avenue Verdun, Montréal
+50 %
+(14 526 $)
+(7 263 $)
+2721-29, Sainte Hélène, Montréal
+25 %
+2 044 $
+511 $
+(31 084 $)
+(16 595,50 $)
+b) Pendant l’année d’imposition en cause, les propriétaires ont disposé des biens situés au 3767-3771, avenue Verdun, Montréal, au 3773‑3783, avenue Verdun, Montréal, et au 158, 1re avenue, Lasalle, et les gains réalisés ont été répartis parmi les propriétaires de la façon suivante : 25 % pour [chacun des appelants] et 50 % pour Adam Bitzanis, le neveu [des appelants].
+c) Pour ce qui est d’établir le revenu de location pour l’année d’imposition 2003 :
+i) pour le bien situé au 158, 1re avenue, Lasalle, [chacun des appelants] a demandé la déduction de 5 000 $ (proportionnellement à sa participation de 50 % de 10 000 $) au titre de frais d’administration;
+ii) pour les biens situés au 3773-3783, avenue Verdun, Montréal, [chacun des appelants] a demandé la déduction de 10 000 $ (proportionnellement à sa participation de 50 % de 20 000 $) au titre de frais d’administration;
+iii) pour les biens situés au 1831-1835, rue Delorimier, Montréal, [chacun des appelants] a demandé la déduction de 5 000 $ (proportionnellement à sa participation de 50 % de 10 000 $) au titre de frais d’administration;
+iv) les montants dont la déduction est demandée ont censément été payés par [les appelants] à Charalambos (Bobby) Bitzanis et à Adam Bitzanis;
+v) [les appelants] n’étai[en]t pas en mesure de fournir une preuve du paiement des 40 000 $ censément fait à Charalambos (Bobby) Bitzanis et à Adam Bitzanis;
+vi) [les appelants] n’[ont] demandé aucune autre déduction du genre au titre de frais d’administration pour les autres années au cours desquels [ils ont] été propriétaire[s];
+vii) le montant payé n’est pas un montant raisonnable, et l’ARC le considère comme un cadeau fait par [les appelants] à des membres de [leur] famille[1].
+[3] En 2003, les appelants ont demandé une déduction au titre de frais de gestion s’élevant à 40 000 $ pour trois des biens ci‑dessus[2], dont ils sont les copropriétaires avec leur neveu, Adam (ci‑après « Adam, le neveu »). Les appelants ont aussi un fils prénommé Adam (ci‑après « Adam le fils »), ainsi qu’un autre fils, Charalambos.
+[4] Dans leurs témoignages, les appelants ont affirmé que les 40 000 $ avaient été payés à leurs fils pour des tâches de gestion qu’ils effectuaient dans les biens locatifs, y compris de l’entretien, des réparations, le recouvrement des loyers et la gestion des problèmes qui pouvaient survenir avec les édifices ou bien avec les locataires. En plus des frais qui leur étaient remboursables (p. ex., les frais de transport, les matériaux de réparation, etc.), les fils des appelants recevaient un salaire. Comme c’est souvent le cas dans les entreprises familiales, il n’y avait pas d’entente écrite entre les appelants et leurs fils à l’égard du travail de gestion que ces derniers effectuaient, pas plus qu’il n’y avait de registre des paiements qui leurs avaient été faits. Les deux appelants ont affirmé que les 40 000 $ avaient été payés en espèces, en divers montants au cours de l’année, selon le travail effectué et le montant d’argent qui était à leur disposition pour payer leurs fils. Aucun des deux fils n’a déclaré un tel montant dans sa déclaration de revenu pour l’année 2003. Il semblerait que Charalambos a déclaré un montant d’environ 27 000 $ en 2009 après que son père lui a suggéré de le faire.
+[5] Le ministre a refusé la déduction des frais de gestion en partant du principe qu’il n’y avait aucune preuve démontrant que le travail avait effectivement été fait par les fils ou que les paiements avaient bel et bien été faits. Même si les paiements avaient bel et bien été faits, les 40 000 $ dont la déduction était demandée au titre de frais de gestion constituent un montant déraisonnable compte tenu du fait que le revenu brut tiré des biens se situait un peu au‑dessus des 29 000 $. En revanche, le ministre a admis toutes les déductions demandées pour d’autres dépenses, soit l’impôt foncier, les frais d’entretien et de réparation, la publicité, etc.
+[6] Il va sans dire qu’il incombe aux appelants de prouver que la cotisation établie par le ministre est erronée. Les deux appelants m’ont semblé être des gens travaillants qui comprennent leurs obligations prévues par la Loi de l’impôt sur le revenu (la « Loi »). Je ne doute aucunement du fait qu’ils ont payé 40 000 $ à leurs fils en 2003 ou même du fait que, de temps à autre, leurs fils les aidaient avec les biens locatifs. Cependant, la preuve dont je suis saisie ne suffit pas pour que je puisse conclure que les fils effectuaient véritablement des services de gestion afférents aux biens locatifs.
+[7] M. Bitzanis a invité la Cour à tenir compte du fait qu’en 2009, un des fils a suivi les conseils de ses parents et a déclaré un montant de 20 000 $ qu’il a reçu en 2003. Je suis du même avis que l’agente des appels, Mme Robitaille, lorsqu’elle affirme que ce n’est pas parce qu’un montant a été déclaré comme payé qu’il constitue automatiquement des frais de gestion valides. Les appelants doivent quand même être en mesure de prouver que leurs fils effectuaient des travaux de gestion et que le montant payé était raisonnable. Pour qu’une dépense d’entreprise puisse être déduite en application de l’alinéa 18(1)a) de la Loi, le contribuable doit être en mesure de prouver que les dépenses ont été effectuées en vue de tirer un revenu de l’entreprise.
+[8] En l’espèce, je ne suis pas convaincue que les 40 000 $ payés par les appelants à leurs fils aient contribué d’une quelconque façon à tirer un revenu des biens locatifs. Il me semble bien plus plausible que les montants aient été payés aux fils afin d’aider ceux‑ci pendant une période difficile de leurs vies. On ne peut pas reprocher cela aux appelants. On ne peut cependant pas en déduire que les fils fournissaient des services de gestion. Il ressort clairement de la preuve que le copropriétaire des biens locatifs, Adam, le neveu, était chargé de la gestion des biens. Je ne crois tout simplement pas l’assertion des appelants voulant que le rôle de gestion que jouait leur neveu se limitait à sa participation de 50 % dans les biens locatifs. Les appelants n’avaient aucun document à l’appui de cette assertion. Leurs fils n’ont pas été appelés à témoigner. Les appelants eux‑même ont prétendu ne pas être en mesure de se souvenir des montants qui ont été payés, du moment où ils ont été payés, et des tâches pour lesquelles ils ont été payés. Il y avait des contradictions entre l’information fournie par les fonctionnaires de l’ARC à différentes étapes de l’enquête et les témoignages qu’ils ont faits à l’audience. Même si je conclus que les fils ont effectivement effectué des tâches à l’égard des biens locatifs, j’ai l’impression qu’il s’agissait de travaux d’entretien et de réparation. La déduction des frais afférents à ces travaux a déjà été acceptée au titre de dépenses d’entreprise normales. Même si on pouvait qualifier ces travaux de services de gestion, étant donné le revenu brut tiré des biens locatifs en question, un montant de 40 000 $ pour de tels services n’est pas un montant raisonnable. Compte tenu du contexte, la preuve ne suffit simplement pas pour justifier la révision de la nouvelle cotisation établie par le ministre pour l’année d’imposition 2003. Par conséquent, les appels sont rejetés.
+Signé à Morell, Île-du-Prince-Édouard, ce 22e jour de juillet 2010.
+« G. A. Sheridan »
+Juge Sheridan
+RÉFÉRENCE : 2010 CCI 354
+Nos DES DOSSIERS : 2009-831(IT)I; 2009-832(IT)I
+INTITULÉ : CONSTANTINA BITZANIS c. SA MAJESTÉ LA REINE ET NICKOLAOS BITZANIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 21 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le juillet 2010
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocat de l’intimée :
+Me Sarom Bahk
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Réponse à l’avis d’appel de Nicholaos Bitzanis et réponse modifiée à l’avis d’appel de Constantina Bitzanis, paragraphe 16.
+[2] Pièces R-1 et R-2.

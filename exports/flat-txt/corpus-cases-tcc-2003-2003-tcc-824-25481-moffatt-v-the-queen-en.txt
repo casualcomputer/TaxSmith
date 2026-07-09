@@ -1,0 +1,127 @@
+Title: Moffatt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25481/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-824-25481-moffatt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-11-05
+
+# Moffatt v. The Queen
+
+- Citation: 2003 TCC 824
+- Decision date: 2003-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2359, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moffatt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-05
+Neutral citation
+2003 TCC 824
+File numbers
+2003-1956(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1956(IT)I
+BETWEEN:
+ANDREW ROBERT MOFFATT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 21, 2003, at Ottawa, Ontario
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roger Leclaire
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997 and 1998 taxation years are allowed to the extent of reducing the net professional income by an amount of $260.44 for 1997 and $164.93 for 1998 (with respect to the meal and entertainment expenses) and by a further amount of $2,808 (for workspace-in-home expenses mistakenly allowed for 1997 but in fact applicable to 1998).
+In all other respects the assessments remain unchanged except for the penalty under subsection 163(2), which should be recalculated in accordance with the foregoing.
+Signed at Ottawa, Canada, this 5th day of November 2003.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2003TCC824
+Date: 20031105
+Docket: 2003-1956(IT)I
+BETWEEN:
+ANDREW ROBERT MOFFATT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 21, 2003, and subsequently revised at Ottawa, Ontario, on November 5, 2003.)
+Lamarre, J.
+[1] The appellant is appealing the disallowance of certain expenses and the assessment of a penalty under subsection 163(2) of the Income Tax Act ("Act").
+The workspace-in-home expenses
+[2] The only issue in this regard is whether the appellant can add 150 square feet of the basement to the portion of his house used for the purpose of earning income.
+[3] Under subsection 18(12) of the Act, the appellant had to show that his house was his principal place of business. I agree with the respondent that it was not. Ms. Dannehl, the auditor for the Canada Customs and Revenue Agency ("CCRA"), testified that, at the relevant time, the appellant was advertising his office as being on McLaren Street (which was not his home address) and giving out a telephone number there at which he could be reached. He had his secretary working there and all the equipment necessary for his office was also there. I thus conclude that the appellant's principal place of business was not his home.
+[4] That being so, the appellant had to show that he used a portion of the basement exclusively for the purpose of earning income from business and that he used that portion on a regular and continuous basis for meeting clients in respect of the business. This condition is not met either, as it is clear that if the appellant used a portion of the basement for storage, he did not meet clients there. So the basement shall not be included in the workspace used to determine the percentage of deductible office-in-home expenses.
+[5] As for the deduction of a portion of the cable expense at home, the appellant did not mention to the auditor at the time of the audit that the cable service was used in his business. It is difficult to accept today that it was, as this point was raised well after the audit and could not be verified.
+[6] I therefore maintain the assessment in this respect, with the exception of an additional amount of $2,808 that the respondent mistakenly allowed for 1997 and that should have been allowed for 1998.
+The entertainment expenses
+[7] The Minister has already allowed half of the entertainment expenses claimed under subsection 67.1(1) of the Act. The appellant is now only claiming the other half of two restaurant bills, one for $520.87 in 1997 and another for $329.85 in 1998. The appellant said that these related to special events for his sole employee and two subcontractors, one of which was at Christmastime and the other in May, after the tax season. He has provided the bills in Exhibit A-1 and he claims that 100 per cent of those expenses is deductible pursuant to paragraph 67.1(2)(f) of the Act.
+[8] The respondent consented at the hearing to allow those additional expenses.
+The interest expenses
+[9] Ms. Dannehl said that the appellant claimed 100 per cent of the interest expenses he incurred on all his debts (including interest on numerous credit cards and on bank account overdrafts). She did not verify that the borrowed funds were deposited into the appellant's business account but she traced the use of them to determine what portion was used for business purposes and what portion was personal.
+[10] She used the same breakdown as was used by the appellant in his records, that is: gas, meals and entertainment, and personal expenses (Ms. Dannehl said that the personal expenses were characterized as drawings by the appellant in his ledger).
+[11] Ms. Dannehl arrived at a proportion of 45 per cent for gas, and meals and entertainment and 55 per cent for personal expenses. She then totalled the business expenses claimed and reduced that total by the amount of the expenses disallowed (such as a portion of the office-in-home expenses and some bad debts) and by the amount of the personal drawings. By so doing, she obtained a proportion of 63 per cent of total expenses that was attributable to business in 1997 and 58 per cent in 1998. She consequently accepted a proportion of 60 per cent of total expenses as being for business purposes. That is why she allowed 60 per cent of the interest expenses as being for business purposes.
+[12] At the objection level, the appeals officer verified what proportion of the borrowed funds went into the business account and he came up with the same result, namely that 60 per cent was used for business purposes.
+[13] The appellant now says that the appeals officer did not take into account a loan of $9,000 from London Life and a mortgage of $32,672 on his mother's house. The detailed statement of loan indebtedness filed by the appellant in Exhibit A-1 shows that the $9,000 is with respect to an insurance policy on the life of the appellant. We do not know who the beneficiary is. This is not proof of a business expense. What we have here is a loan taken out by the appellant to purchase life insurance. In my view, this is personal. Indeed, the appellant is working in sole proprietorship. His associate partner, as he called him, only shares expenses; they are not operating in partnership. There is no evidence that the life insurance taken out by the appellant was for the purpose of earning income from either a partnership or a business.
+[14] With respect to the mortgage on the mother's house, there is no evidence before me that that amount was used for business operations and I do not see why I should add it to the figures already accepted by the appeals officer.
+[15] With respect to the method Ms. Dannehl used in calculating 60 per cent of total expenses as being attributable to his business, the appellant said that she wrongly considered the drawings as being personal expenditures. He said that he had $80,000 in equity in his business (as per the financial statement filed for the year ended December 31, 1996) and that the drawings he made had to be reimbursed to the business's capital account. My understanding is that he relied on Singleton v. Canada, [2001] 2 S.C.R. 1046, to argue that he can draw amounts from his business's capital account and then deduct the interest expenses incurred in reimbursing that capital account.
+[16] On this point, there is simply not an iota of evidence that that is what the appellant did. First of all, he himself characterized the drawings as personal in his ledger (according to Ms. Dannehl's testimony and the financial statement for 1996 filed in Exhibit A-1, in which he deducted the drawings in calculating his equity in the business). Secondly, there is no evidence at all that he had an obligation to reimburse the amounts that he withdrew from his business's capital account for his personal needs. Such an obligation would in my view be very doubtful in the case of someone operating in sole proprietorship. Indeed, the appellant cannot owe anything to himself.
+[17] It is my opinion that there is absolutely no evidence that the borrowed funds were used by the appellant for the purpose of refinancing his capital account, as was the case in Singleton, supra. Here there is no direct link between the borrowed money and the reimbursement of capital.
+[18] In my view, the method used by Ms. Dannehl was reasonable in the circumstances and the appellant has not shown on a balance of probabilities that he is entitled to deduct more in interest expenses than has already been allowed by the Minister.
+Penalties
+[19] There is evidence that the appellant, who is a chartered accountant and earns his living from preparing financial statements and tax returns for his clients, has a personal habit of filing his own tax returns based on estimates of his income and expenses. The appellant acknowledged that he does so in order to avoid late-filing penalties. There is also testimony by Ms. Dannehl that he has been doing this at least since 1991 and that for the years after 1992 she was unable to trace amended tax returns filed by the appellant showing the exact figures for the calculation of his taxable income in those years.
+[20] The appellant testified that in 1997 and 1998, the years at issue, he could not prepare his financial statements on time because his daughter, who was his secretary, made errors in not registering all the invoices. Ms. Dannehl, however, testified that she was able to reconcile all invoices with the bank deposits. In her view, the appellant could easily have done the same. Furthermore, she noticed that the appellant had underestimated his income and overestimated his expenses for the two taxation years 1997 and 1998. The discrepancy was substantial. Income was understated by $3,992 for 1997 and $19,294 for 1998. Expenses were overstated by $4,583 for 1997 and $10,499 for 1998. The appellant did not subsequently amend his tax returns even though the financial statements for 1997 had been prepared.
+[21] The appellant was the sole proprietor of his business; he prepared his own income tax and GST returns and, according to Ms. Dannehl's testimony, all income and expenses were kept on file.
+[22] When she called the appellant for the first time, he asked for four weeks to prepare his financial statements for 1998. In Ms. Dannehl's view, if the appellant was able to file his financial statements within a four-week period, he could easily have done so in the six months allowed taxpayers for that purpose.
+[23] The appellant said that when he filed his GST returns the exact figures were provided therewith. In his view, the GST department could have transferred the figures to the income tax department of the CCRA in order to adjust his tax returns. In answer to that, Ms. Dannehl said that the appellant filed all of his eight quarterly GST returns for 1997 and 1998 late and all at the same time, in February 2000, following a request by the CCRA. She also said that documents filed for GST purposes are not necessarily used for amending income tax returns. I would add that it is the taxpayer's duty to see to it that all his files with the income tax department are in order.
+[24] I find that the evidence is more than sufficient to show constant delinquency on the part of the appellant in respect of his tax obligations. For someone who has an ethical duty to advise and serve his clients in conformity with the law, the appellant is far from being a good example.
+[25] I therefore conclude from the evidence that the appellant knowingly or under circumstances amounting to gross negligence made a false statement or omission in his 1997 and 1998 tax returns and is therefore liable to a penalty under subsection 163(2) of the Act.
+Decision
+[26] By consent, the appeals are allowed to the extent of reducing the appellant's net professional income by an amount of $260.44 for 1997 and $164.93 for 1998 (representing the other half of the meal and entertainment expenses) and by a further amount of $2,808 for 1998 (for workspace-in-home expenses mistakenly allowed for 1997 but in fact applicable to 1998). In all other respects the assessments remain unchanged except for the penalty under subsection 163(2), which should be recalculated in accordance with the foregoing.
+Signed at Ottawa, Canada, this 5th day of November 2003.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2003TCC824
+COURT FILE NO.:
+2003-1956(IT)I
+STYLE OF CAUSE:
+Andrew Robert Moffatt v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+November 5, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Roger Leclaire
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

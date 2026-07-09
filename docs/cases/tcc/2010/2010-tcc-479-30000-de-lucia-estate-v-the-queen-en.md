@@ -1,0 +1,184 @@
+---
+title: "De Lucia Estate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30000/index.do"
+last_modified: "2010-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 479"
+citation2: ""
+neutral_citation: "2010 TCC 479"
+decision_date: "2010-09-23"
+language: "en"
+item_id: "30000"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7808
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:00:07.748000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0b2f9d081317bc6a7d2b05cb1f6789b246c5499461b50e9f822a65de0202bb16"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# De Lucia Estate v. The Queen
+
+- Citation: 2010 TCC 479
+- Decision date: 2010-09-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7808, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Lucia Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-23
+Neutral citation
+2010 TCC 479
+File numbers
+2010-551(IT)APP
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-551(IT)APP
+BETWEEN:
+THE ESTATE OF THE LATE ELENA DE LUCIA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on May 20, 2010, at Montréal, Québec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the Applicant:
+Horst Grein
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+Upon application made by the Applicant for an order extending the time within which a notice of objection to the reassessment made under the Income Tax Act for the 2005 taxation year may be served;
+And upon hearing submissions from the parties;
+The application is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at
+Ottawa ,
+Canada
+, this 23rd day of September 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 479
+Date: 20100923
+Docket: 2010-551(IT)APP
+BETWEEN:
+THE ESTATE OF THE LATE ELENA DE LUCIA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Introduction
+[1] Lorena De Lucia (the “Applicant”) is the executor of the estate of her late sister, Elena De Lucia (the “estate”). The 2005 taxation year of the estate has been reassessed by the Canada Revenue Agency (the “CRA”). The time for the Applicant to object to this reassessment has expired. Therefore, the Applicant is applying to the Court for an order to extend this deadline pursuant to subsection 166.2(1) of the Income Tax Act (the “ITA”).
+Factual Background
+[2] The facts underlying this application are largely undisputed. They are as follows:
+(a) On May 26, 2006 the original notice of assessment was issued by the CRA for the 2005 taxation year of the estate.
+(b) On November 23, 2007 the CRA sent a letter to the Applicant at her then-current address (the “previous address”) informing her that they were proposing adjustments to the original assessment that would significantly increase the tax payable by the estate for the 2005 taxation year. In this letter, the CRA advised the Applicant that she would be the only person with whom they would communicate on this matter. They further advised that if she did not contact them within 30 days, they would proceed with the reassessment.
+(c) Towards the end of 2007 or the beginning of 2008, the Applicant relocated her residence from her previous address to a new address but did not inform the CRA of this relocation.
+(d) On February 22, 2008 the CRA issued a reassessment for the 2005 taxation year of the estate. The Applicant did not allege that the reassessment was not properly sent, and the CRA did not introduce evidence that it was.
+(e) On May 14, 2009 the CRA sent a new letter to the Applicant at the new address requesting payment of the estate’s unpaid balance from the 2005 taxation year, as per the reassessment.
+(f) On May 15, 2009 the Applicant’s accountant filed an objection to the reassessment with the CRA. [1]
+(g) On August 4, 2009 the CRA rejected the objection on the grounds that the 90-day deadline to object had passed. They also stated that, in addition, no request for an extension could be granted since (as of August 4, 2009) more than one year had elapsed from the expiry of the 90-day deadline.
+(h) On February 19, 2010 the Applicant filed the motion that is now under review by the Court.
+The Issue
+[3] The issue before the Court is whether the application for an extension of time to file the notice of objection should be granted.
+Analysis
+[4] Subsection 165(1) of the ITA allows a taxpayer to object to an assessment by the CRA subject to certain deadlines:
+165(1) Objections to assessment — A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment;
+. . .
+[Emphasis added.]
+[5] Sections 166.1 and 166.2 of the ITA deal with a taxpayer’s ability to obtain an extension of the time to object:
+166.1(1) Extension of time [to object] by Minister — Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+. . .
+(7) When order to be made — No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+166.2(1) Extension of time [to object] by Tax Court — A taxpayer who has made an application under subsection 166.1[(1)] may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+. . .
+(5) When application to be granted — No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[Emphasis added.]
+[6] The courts have firmly established that these deadlines are mandatory and may not be set aside. In applying section 166.1 of the ITA, Bowie J. of the Tax Court of Canada explained that:
+22 . . . neither [the taxpayer’s] misfortune nor the apparent negligence of his solicitor gives me licence to ignore mandatory provisions of the two statutes that were put there by Parliament in very precise terms and for very good reasons. [2]
+Discussion
+[7] There is a lack of evidence in this file that makes it difficult to determine exactly how the law should be applied to the facts at hand. The Applicant did not provide the Court with the documents that were sent to the CRA on May 15, 2009.This date fell within the one-year and 90-day limits during which she was permitted to ask for an extension of time for her objection. Without these documents, it is impossible to determine if they meet the requirements set out in paragraph 166.1(7)(b) of the ITA since the Applicant has the burden of proving that she meets the conditions which would allow the Court to grant her an extension. [3]
+[8] Even if we accept (without evidence) that the Applicant fulfilled all the conditions of paragraph 166.1(7)(b), her appeal must still fail because of the prohibition contained in subsection 166.2(1) of the ITA:
+166.2(1) Extension of time [to object] by Tax Court — . . . no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+[9] The letter dated August 4, 2009 from the CRA to the Applicant clearly stated that they would not grant an extension of the time for filing an objection. Thus, the Applicant had 90 days from that date in which to file the application currently under consideration by the Court. The fact that she waited until February 19, 2010 to do so is unfortunate since the application is clearly statute‑barred.
+Conclusion
+[10] For these reasons, the application is dismissed.
+Signed at
+Ottawa ,
+Canada
+, this 23rd day of September 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 479
+COURT FILE NO.: 2010-551(IT)APP
+STYLE OF CAUSE: THE ESTATE OF THE LATE ELENA DE LUCIA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: May 20, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: September 23, 2010
+APPEARANCES:
+Agent for the Applicant:
+Horst Grein
+Counsel for the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This document was not submitted to the Court as evidence. It is therefore impossible to determine if it could in fact serve as an application to the Minister to extend the time for serving the notice of objection.
+[2]
+Pereira
+v. The Queen, 2008 TCC 2, [2008] G.S.T.C. 8, affirmed by 2008 FCA 264, [2008] G.S.T.C. 187.
+[3] As found in section 166.2 of the ITA.

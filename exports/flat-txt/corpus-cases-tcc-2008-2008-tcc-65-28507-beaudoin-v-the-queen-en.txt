@@ -1,0 +1,151 @@
+Title: Beaudoin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28507/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-65-28507-beaudoin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-25
+
+# Beaudoin v. The Queen
+
+- Citation: 2008 TCC 65
+- Decision date: 2008-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1301, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaudoin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-25
+Neutral citation
+2008 TCC 65
+File numbers
+2005-3944(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket 2005‑3944(IT)G
+BETWEEN:
+PAUL BEAUDOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 22, 2008 at Ottawa, Ontario
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act with respect to the 1997 and 2000 taxation years is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+The appeal of the assessments made under the Income Tax Act with respect to the 1998 and 1999 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Each party shall pay its costs.
+Signed at Ottawa, Canada, this 25th day of February 2008.
+"François Angers"
+Judge Angers
+Translation certified true
+on this 11th day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC65
+Date: 20080225
+Docket: 2005‑3944(IT)G
+BETWEEN:
+PAUL BEAUDOIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] The Appellant appeals from a reassessment made by the Minister of National Revenue ("the Minister") dated May 27, 2003. By this notice of reassessment, the Minister amended the Appellant's income for the 1997, 1998, 1999 and 2000 taxation years as follows:
+Reported Income
+Unreported Income
+Revised Income
+1997
+$28,030
+$11,961
+$39,991
+1998
+$4,070
+$30,649
+$34,719
+1999
+$13,295
+$24,108
+$37,403
+2000
+$3,811
+$31,308
+$35,119
+[2] In addition, the Minister imposed the penalty set out in subsection 163(2) of the Income Tax Act ("the Act"), which was computed for each of the amounts and imposed for each of the years in issue.
+[3] The unreported income was computed using the net worth method. According to the Minister, the unreported amounts in the table represent the income that the Appellant failed to report and which must be taken into consideration for the purpose of calculating his taxes for the years in issue.
+[4] The Minister also submits that the Appellant, in filing his income tax returns for the 1997 through 1999 taxation years, did not present his true situation because he failed to declare significant income. Accordingly, the Minister submits that he was justified under the circumstances, pursuant to subsections 152(4) and 152(7) of the Act, in making a reassessment after the expiry of the normal assessment period. Finally, the Minister submits that the Appellant has knowingly or in circumstances amounting to gross negligence made false statements or an omission in his income tax returns for the 1997 through 2000 taxation years, thereby warranting imposition of the penalty set out in subsection 163(2) of the Act.
+[5] During the years in issue, the Appellant operated a business in the construction field; he performed snow removal, excavations and the installation of septic tanks. The evidence established that the Appellant did not keep any accounting records for his business for the years in issue and that he personally completed his income tax returns.
+[6] The Appellant was audited in 2003. According to the auditor, the Appellant was uncooperative and maintained that he had not earned any income in 1997 and 1998 from his snow removal and excavation business. However, the auditor succeeded in obtaining evidence of purchases from some suppliers, which clearly indicated that the Appellant had purchased certain materials, showing that he had in fact performed excavation work during those two years.
+[7] Following the issuance of letters of requirement seeking to obtain his bank accounts, the Appellant provided answers to a questionnaire regarding his living expenses, and the amounts were computed using the net worth method. Only the figures under the heading [TRANSLATION] "Unidentified Personal Expenses" were challenged by the Appellant at the hearing.
+[8] His objection is based on the fact that the auditor accepted only about half of his receipts for business expenses, which therefore increases the amount shown under the heading of unidentified personal expenses and as a result, the difference in income. However, the Appellant did not submit in evidence any receipt nor provide any explanation allowing me to change in any way the figures obtained through the net worth method.
+[9] The auditor based his refusal to allow almost half of the business expenses on the fact that he was unable to connect the expense referred to in the receipt to a corresponding bank withdrawal. If the Appellant pays his bills in cash, this means that he has funds in cash that he has not deposited. The audit also established that the Appellant had cashed a number of cheques without depositing the amounts. Since the Appellant did not keep any accounting records for his business, the auditors were obliged to reconstruct the Appellant’s business transactions in the years in issue.
+[10] The Appellant did not report any income from his excavation and snow removal business in his income tax returns for the 1997 and 1998 taxation years. However, it bears repeating, the auditors obtained from him receipts for expenses relating to these two activities for both years in issue. At the hearing, when asked if he had carried on business in the years in issue, the Appellant was evasive, despite receipts showing that he had performed certain activities; he finally admitted that he had carried on his business in this field in these two years.
+[11] The issues are the following:
+First, did the Appellant inaccurately report his income for the 1997 through 1999 taxation years?
+Second, was the Minister entitled to add to the Appellant’s reported income the sums of $11,961 for the 1997 taxation year, $30,649 for the 1998 taxation year, $24,108 for the 1999 taxation year and $31,308 for the 2000 taxation year?
+Third, did the Minister properly impose penalties on the Appellant for the 1997 through 2000 taxation years, in accordance with subsection 163(2) of the Act?
+[12] Subsection 152(4) of the Act allows the Minister to make an assessment after the expiry of the normal period for reassessment:
+Assessment and reassessment
+The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year; or
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+(i) is required pursuant to subsection 152(6) or would be so required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+(ii) is made as a consequence of the assessment or reassessment pursuant to this paragraph or subsection 152(6) of tax payable by another taxpayer,
+(iii) is made as a consequence of a transaction involving the taxpayer and a non‑resident person with whom the taxpayer was not dealing at arm's length,
+(iv) is made as a consequence of a payment or reimbursement of any income or profits tax to or by the government of a country other than Canada or a government of a state, province or other political subdivision of any such country,
+(v) is made as a consequence of a reduction under subsection 66(12.73) of an amount purported to be renounced under section 66, or
+(vi) is made in order to give effect to the application of subsection 118.1(15) or 118.1(16).
+[13] In the case at bar it is obvious, in view of the evidence, that the Appellant failed to report his income from his snow removal and excavation activities for 1997 and 1998, since he had in his possession receipts for expenses showing that he made purchases and therefore performed this kind of work. In fact, he finally admitted that he had indeed carried on business in these two years. Based on the balance of evidence, I can conclude that he did not report all his income from his snow removal and excavation activities in 1999. In my opinion, the Minister was therefore justified, in the circumstances, in assessing the Appellant after the expiry of the normal reassessment period. The Minister has therefore established, on a balance of probabilities, that the Appellant reported his income for the 1997 to 1999 taxation years inaccurately.
+[14] As to whether the Minister acted lawfully in adding to the income reported by the Appellant the sums of $11,961 for 1997, $30,649 for 1998, $24,108 for 1999 and $31,308 for 2000, I must allow the appeal for the 1997 and 2000 taxation years. At the beginning of the hearing, the Minister consented to judgment reducing the amount of income for 1997 from $11,961 to $1,960, and for 2000 from $31,308 to $30,307. The penalties must obviously be imposed on the basis of these new amounts.
+[15] It cannot be denied that calculating a taxpayer's income based on the net worth method does not necessarily present a true picture; and one of the ways to avoid this result is for the taxpayer to keep adequate accounting records for his business and to keep supporting documentation. In this case, the Appellant chose not to maintain adequate records, not to keep bills and even not to report all his income. In view of the evidence, I am unable to make any change whatsoever to the figures resulting from the net worth method for the years in issue, particularly those relating to unreported income.
+[16] Therefore the Appellant has not satisfied me, on a balance of probabilities, that the Minister was not entitled to add these amounts to the income that the Appellant had already reported, subject of course, to the changes submitted by the Minister for the 1997 and 2000 years.
+[17] The Minister also imposed penalties for the years in issue. Subsection 163(2) of the Act provides:
+False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of the following amounts
+…
+[18] Having determined that the Appellant reported his income inaccurately, and in view of the fact that the Appellant admitted having made inaccurate statements to the auditors as to his business activities, the Minister was lawfully entitled to impose the penalties set out in subsection 163(2).
+[19] The appeal is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment: the amounts of unreported income for 1997 and 2000 will be amended in accordance with the consent provided by the Minister's agent: a reduction to $1,960 for the 1997 taxation year and to $30,307 for the 2000 taxation year as well as an adjustment of the penalties. The appeal from the assessments for the 1998 and 1999 taxation years is dismissed and the assessments are upheld. Each party shall pay its costs.
+Signed at Ottawa, Canada, this 25th day of February 2008.
+"François Angers"
+Judge Angers
+Translation certified true
+on this 11th day of April 2008.
+Brian McCordick, Translator
+REFERENCE: 2008TCC65
+COURT FILE NO.: 2005‑3944(IT)G
+STYLE OF CAUSE: Paul Beaudoin and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February 22, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

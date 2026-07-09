@@ -1,0 +1,542 @@
+---
+title: "Robertson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/119834/index.do"
+last_modified: "2015-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 219"
+citation2: ""
+neutral_citation: "2015 TCC 219"
+decision_date: "2015-09-10"
+language: "en"
+item_id: "119834"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2676
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:11:32.578000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9edebb84d8cb28948920b87c1c9003bc7963db0864d3ef610b7beab8d1ce9df3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson v. The Queen
+
+- Citation: 2015 TCC 219
+- Decision date: 2015-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2676, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-09-10
+Neutral citation
+2015 TCC 219
+File numbers
+2004-2266(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-2266(GST)G
+BETWEEN:
+ÉDOUARD ROBERTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 27, 28 and 29, and June 4, 5, 6, 10, 11 and 12, 2014, at Alma, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+François Bouchard
+Jean-François Delisle
+Counsel for the respondent:
+Anick Pelletier
+Patrick Vézina
+Nancy Bonsaint
+JUDGMENT
+The appeal from the reassessment made with respect to the appellant's company by Quebec's Minister of Revenue, as agent for the Minister of National Revenue, under Part IX of the Excise Tax Act, dated February 17, 2004, and bearing number 1651017, regarding the reporting periods from June 1, 1996, to May 31, 2002, is dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of September 2015.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+On this 18th day of January 2016
+François Brunet, Revisor
+Citation: 2015 TCC 219
+Date: 20150910
+Docket: 2004-2266(GST)G
+BETWEEN:
+ÉDOUARD ROBERTSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessment made with respect to the appellant's company by Quebec's Minister of Revenue, acting as agent for the Minister of National Revenue (the Minister), under Part IX of the Excise Tax Act, R.S.C. 1985, c. E‑15, as amended (the ETA), dated February 17, 2004, and bearing number 1651017, regarding the reporting periods from June 1, 1996, to May 31, 2002 (the impugned assessment).
+[2] Under the impugned assessment, the Minister is claiming the following sums from the appellant: $302,689.40 in goods and services tax (GST), $39,712.04 in penalties under subsection 280(1) of the ETA, and $29,214.07 in interest. The amount of GST assessed per period is set out in Schedule A, as appended to the Amended Reply to the Notice of Appeal dated October 14, 2011, and reproduced at the end of this judgment.
+[3] The impugned assessment vacated and replaced the reassessment dated May 8, 2003, and bearing No. 1650879, which concerned the June 1, 1993, to May 31, 2002, reporting periods, and under which the Minister claimed $514,172.81 in total from the appellant: $334,438.97 in GST, $102,554.04 in penalties, and $77,179.80 in interest. In making the impugned assessment, the Minister relied on the same facts regarding the June 1, 1996, to May 31, 2002, reporting periods as those underlying the reassessment dated May 8, 2003, except for the operating period of the appellant's company. In fact, the Minister assumed that the appellant only started operating his company on or about June 1, 1996. When making the impugned assessment, the June 1, 1993, to May 31, 1996, reporting periods were assessed as zero, with adjustments for interest and penalties.
+[4] The reassessment dated May 8, 2003, was vacated and replaced by the original assessment dated August 5, 2002, and bearing number 1245832, under which the Minister was claiming from the appellant $751,626.18 in total, that is, $488,146.26 in GST, $150,264.01 in penalties, and $113,215.91 in interest.
+[5] At issue are the following points:
+(a) Did the Minister properly assess the appellant on the ground that, under the ETA, he was required to collect GST on taxable sales made to non-Indians and to remit this GST to the Minister?
+(b) In the impugned assessment, did the Minister properly calculate the percentage of non-taxable supplies made to Indians?
+(c) Was the impugned assessment time-barred?
+(d) Did the Minister properly impose a penalty on the appellant for failing to collect GST and to remit it to the Minister under subsection 280(1) of the ETA?
+[6] The appellant raises the following four errors, in fact and in law, against the impugned assessment:
+(a) The ETA's inconsistency with the Indian Act, R.S.C. 1985, c. I-5, as amended (the Indian Act);
+(b) The lack of procedural fairness towards the appellant;
+(c) The absence of a treaty with the Montagnais du Lac St-Jean and the appellant's Aboriginal rights;
+(d) The fact that the impugned assessment is overestimated and time-barred.
+Relevant facts
+[7] The appellant is an Indian within the meaning of the Indian Act and a member of the Mashteuiatsh Montagnais Band (Pointe-Bleue).
+[8] The appellant has been operating a fur manufacturing and sales business as René Robertson fourrures EDA since at least or about June 1, 1996. Before that, the company, which has been in the family for four generations, was operated by the appellant's father, René Robertson, and other ancestors.
+[9] During the period at issue, the appellant had a place of business at 1619 Ouiatchowan Street on the Mashteuiatsh Indian Reserve (Pointe-Bleue), Roberval District. The appellant operated the business publicly and openly.
+[10] In March 2000, Revenu Québec made its first request to the appellant to audit his books and records in order to assess whether he owed GST.
+[11] In a letter dated March 8, 2000, the appellant asked Revenu Québec to contact his local political representatives, the Conseil des Montagnais du Lac St-Jean, aware of the negotiations under way at the time between the Government of Canada, the Government of Quebec and the Conseil tribal Mamuitun mak Nutahquan to redefine the political and economic powers of the communities that were part of the Conseil tribal.
+[12] On or about April 17, 2001, Revenu Québec informed the appellant by telephone that its officials wished to audit the appellant's books and records on site on May 6, 2001.
+[13] On April 20, 2001, the appellant wrote to the Conseil des Montagnais to ask it to intervene, stating that he was willing to collect GST and to remit it to the local authority, in accordance with the repatriation of powers by the Conseil des Montagnais.
+[14] On May 2, 2001, Revenu Québec sent the appellant a requirement to produce information on GST and a similar requirement for Quebec sales tax (QST) so that it could assess him for the April 1, 1997, to March 31, 2001, period.
+[15] In a letter dated May 11, 2001, the Chief of the Conseil des Montagnais asked the Minister to order its officials to suspend their interventions in the Mashteuiatsh community pending the outcome of the tripartite negotiations between the Government of Canada, the Government of Quebec and the Conseil tribal Mamuitun mak Nutahquan.
+[16] In a letter dated July 5, 2001, the Deputy Minister of Revenu Québec denied the May 11, 2001, request of the Chief of the Conseil des Montagnais, explaining that the negotiations under way would not postpone, alter, suspend or cancel Revenu Québec's current efforts to fulfill its mission.
+[17] On or about October 29, 2001, Revenu Québec informed the appellant by telephone that it intended to audit his books and records on or about November 14, 2001.
+[18] On November 1, 2001, the appellant wrote to the Acting Chief of the Conseil des Montagnais to enquire about the status of the negotiations with the federal and Quebec governments and of the Conseil's current position on the question of tax.
+[19] On November 12, 2001, Revenu Québec sent the Caisse populaire Desjardins Pointe-Bleue a requirement to produce information and documents regarding René Robertson Fourrures and Édouard Robertson for the October 1, 1997, to September 30, 2001, period.
+[20] On January 8, 2002, Revenu Québec sent a requirement to produce information and documents, similar to the one described in the previous paragraph, to the Bank of Montreal's Grande-Allée branch in Québec, where the appellant had an account.
+[21] On February 3, 2002, the appellant again wrote to the local political authorities to request an update on the negotiations with the federal and provincial authorities.
+[22] By February 2002, Revenu Québec had still not audited the appellant's books and records, despite its many requests to do so.
+[23] On August 5, 2002, Revenu Québec sent the appellant a draft GST and QST assessment for the June 1, 1993, to May 31, 2002, period, without completing a full audit of the appellant's books and records given the appellant's repeated refusals to provide said documents for the purposes of an audit.
+[24] The draft assessment and the original notice of assessment for GST bear the same date, August 5, 2002, meaning that the appellant had no time to provide Revenu Québec authorities with additional information.
+[25] On August 26, 2002, Clifford Moar, Chief of the Conseil des Montagnais, sent Quebec's Minister of Revenue a letter asking him to suspend the proceedings regarding the assessments made against the appellant on the basis that the Conseil des Montagnais du Lac St-Jean had signed a framework agreement with the Government of Quebec covering several matters, including a sectoral agreement on taxation, and that this agreement was in the process of being approved by the Quebec Cabinet.
+[26] On September 25, 2002, Revenu Québec's collections division sent the appellant a final notice of payment for a total of $1,591,519.64 in GST and QST.
+[27] On October 2, 2002, the Deputy Minister of Revenu Québec replied to the August 26, 2002, letter from the Chief of the Conseil des Montagnais, reiterating that, until an agreement on taxation was reached, Revenu Québec was bound to apply current taxation rules fairly and to all the taxpayers and agents it serves. The Deputy Minister offered to meet with all Mashteuiatsh Reserve merchants who had received an assessment in order for both parties to attempt, in good faith, to agree on satisfactory payment terms.
+[28] In a letter dated October 4, 2002, the appellant reiterated his position that he recognized only one political authority within the Mashteuiatsh community, namely, the Conseil des Montagnais, and that he was willing, on a voluntary basis, to levy a sales tax as of January 1, 2003, and to remit that tax to the Conseil des Montagnais in order to give the respective political leaders the time to find realistic, achievable solutions that satisfied both parties.
+[29] On the same day, that is, October 4, 2002, the appellant again wrote to the Conseil des Montagnais asking it to clearly state its position on taxation to the federal and provincial governments.
+[30] In a letter dated October 9, 2002, the Chief of the Conseil des Montagnais asked the Premier of Quebec, Bernard Landry, to suspend any collection proceedings against Mashteuiatsh companies, including that of the appellant.
+[31] In response to the letter dated October 9, 2002, René Trudel, the Quebec Minister responsible for Aboriginal Affairs, wrote a letter to the Chief of the Conseil des Montagnais, dated December 20, 2002, stating that André Forget of Revenu Québec would contact Alain Nepton shortly in order to set up a sectoral negotiation table on taxation.
+[32] On or about January 31, 2003, Revenu Québec's collections division sent the appellant's financial institution an order to pay $783,191.34 in accordance with section 317 of the ETA.
+[33] On February 14, 2003, in accordance with section 316 of the ETA and following the appellant's refusal to comply with the final notice of payment, Revenu Québec's collections division registered with the Registry of the Federal Court a certificate having the same effect as a judgment rendered against the appellant, ordering him to pay $783,734 to Revenu Québec under Federal Court Docket No. GST-627-03.
+[34] In a letter dated February 18, 2003, the appellant, through his counsel, asked Revenu Québec to respond to his letter dated October 4, 2002, which the appellant saw as an objection to the original assessment dated August 5, 2002.
+[35] In a letter dated March 4, 2003, Revenu Québec's collections division served the appellant with copies of the two judgments held in favour of Quebec's Minister of Revenue. One of these decisions was made in accordance with the ETA, while the other was rendered under the Act respecting the ministère du Revenu. In accordance with both decisions, the appellant was liable to pay $1,655,999.47, including $783,734.83 payable in GST, including the duties, penalties and interest incurred until March 4, 2003. This amount was to be paid no later than April 4, 2003.
+[36] In an email dated March 14, 2003, André Forget of Revenu Québec's Aboriginal affairs directorate informed counsel for the appellant that Revenu Québec was willing to rapidly review the arguments of taxpayer Édouard Robertson if it was given quick access his company's books and records in order to analyze them.
+[37] In a letter dated April 1, 2003, Revenu Québec asked the appellant to provide it with documents to allow it to audit the years of 1994 to 2002.
+[38] In April 2003, the appellant, for the first time, offered to cooperate with Revenu Québec, by authorizing it to audit his books and records at his place of business on the Mashteuiatsh Reserve.
+[39] On April 15, 2003, Revenu Québec sent the appellant a new draft assessment, the result of this audit, claiming from him $514,172.81 in total, namely $334,438.97 in GST, $102,554.04 in penalties, and $77,179.80 in interest.
+[40] On May 8, 2003, the Minister made a reassessment bearing number 1650879, which replaced and vacated the August 5, 2003, assessment, and in which he sought $514,172.81 in total from the appellant for the June 1, 1993, to May 31, 2002, period.
+[41] On May 29, 2003, the appellant filed, through his counsel, a notice of objection in due and proper form against assessment number 1650879 made by Revenu Québec on May 8, 2003, [translation] "without prejudice to the first objection sent on October 4, 2002".
+[42] In a letter dated June 16, 2003, Revenu Québec informed the appellant that his notice of objection dated May 29, 2003, could not be accepted because it was served outside the time prescribed by the ETA.
+[43] On June 23, 2003, Revenu Québec sent the appellant a new final notice of payment for a total of $1,151,972.50 in GST and QST, including interest and penalties until June 23, 2003.
+[44] On June 30, 2003, and July 3, 2003, the appellant, directly and through his counsel, again demanded in writing a response to his original notice of objection dated October 4, 2002.
+[45] In a letter dated July 4, 2003, Revenu Québec's Direction des oppositions confirmed that the appellant's notice of objection for the June 1, 1993, to May 31, 2002, period had indeed been served within the time prescribed by the ETA.
+[46] On July 14, 2003, Revenu Québec sent the appellant's financial institution a new payment order for the sum of $556,660.30 under section 317 of the ETA.
+[47] In a letter to counsel for the appellant dated July 17, 2003, Revenu Québec explained that the reassessment replaced the preceding assessment regarding which the appellant had sent his letter dated October 4, 2002. The question of whether this letter amounted to a notice of objection had consequently become moot.
+[48] On July 21, 2003, counsel for the appellant wrote to Revenu Québec again about the prejudice suffered by the appellant from the lack of a response to the various notices of objection served by him in reply to the various notices of assessment he had received.
+[49] In a letter dated August 25, 2003, the appellant told the new chief of the Conseil des Montagnais, Gilbert Dominique, that he was at the point of giving up and filing for bankruptcy as a result of the pressure put on him by Revenu Québec and his financial institution.
+[50] Upon his receipt from Revenu Québec of a notice of revocation of his certificate of registration under the ETA on September 16, 2003, with the order [translation] "to cease operating his company immediately . . .", the appellant filed an application for an interlocutory injunction under docket No. 155‑17‑000043-030 with the Quebec Superior Court in order to have the notice of revocation of his certificate of registration stayed.
+[51] The parties reached an interim agreement, designed, among other things, to suspend the proceedings relating to the application for an interlocutory injunction and to bring before this Court the objection proceedings with respect to all issues concerning the validity of the notices of assessment.
+[52] On January 27, 2004, Revenu Québec's Direction des oppositions sent the appellant its response to the notice of objection by assessing the duties owed under the ETA at $233,763.29 in GST instead of $334,438.
+[53] On February 17, 2004, the Minister made a reassessment bearing number 1651017 for $302,690.20 in total, that is, $233,763.29 in GST, $39,712.84 in penalties, and $29,214.07 in interest.
+Testimony of Édouard Robertson
+[54] Mr. Robertson operates a business that buys and sells fur pelts and a workshop that produces leather and fur clothing on the Mashteuiatsh reserve. The fur trade is not the main item of his total sales.
+[55] The business's clients are mainly non-Indians. Sales to Indians account for only about 20% of the business's total sales.
+[56] In 1996, Mr. Robertson purchased the business then operated by his father, with the exception of the part of the business involving the purchase and sale of raw fur pelts, which he acquired in 2001. The business purchase price was $440,000, which was financed through a loan entered into with the Bank of Montreal.
+[57] When he purchased the business in 1996, there were four fur traders in Lac St‑Jean, including Mr. Robertson. Only 10% of the volume of fur pelts purchased by Mr. Robertson came from Indian trappers.
+[58] In 1996, Mr. Robertson's business had only four temporary employees, who made hats, mittens and accessories. At the time, the business's sales amounted to no more than $400,000. Over the following years, sales grew continuously, reaching $1,264,223.60 for the fiscal year starting June 1, 2001, and ending May 31, 2002. The number of employees grew as sales grew, reaching 15 to 20, both permanent and temporary, employees in total.
+[59] According to the income statement for each of the years at issue, with the exception of the year starting June 1, 1996, and ending May 31, 1997, for which there are no financial statements, the main items making up the sales figure were hats, mittens, boots, moccasins, handicrafts, and new, used and remodeled fur coats; the cleaning, repair and storage of fur coats; the sale of mounted animals; the sale of pelts; and wholesale (contracts).
+[60] For the main items making up his business's sales, Mr. Robertson provided many highly useful explanations. His business manufactured hats, mittens, moccasins and reverse lambskin coats. The hats were made from 80% wild animals and 20% farmed minks, while mittens and moccasins were produced from 100% beaver pelts. The business bought and resold tanned moose leather moccasins made by Huron or Atikamekw. Boots were made by an independent supplier from 100% wild animal skins.
+[61] Fur coats were tailored or remodeled by a Montréal company operating as Fourrures Micheline Inc., of which Mr. Robertson bought 49% of the voting shares in 1998. According to Mr. Robertson, about 40% of the pelts used by Fourrures Micheline Inc. came from farmed animals, and 60% from wild animals. Fourrures Micheline Inc. made an assignment in 2003 or 2004.
+[62] Handicrafts were mainly made by the local community and other Aboriginal communities.
+[63] Wholesale sales represented manufacturing contracts for the company Canuck. Sales to Canuck started in 1998 and, over the years, became the biggest item of the business's sales. To fill orders from Canuck, Mr. Robertson's business used both wild coyote pelts (90% of which came from Canada and 10%, from the state of Montana in the United States) and silver fox pelts. The main supplier of the Canadian coyote pelts and silver fox pelts was Roberge Fourrures, a company located in Montréal. Mr. Robertson also purchased dressed, or tanned, furs from Roberge Fourrures as well as from Finish and Norwegian supplies, and he had pelts tanned by Vaudry, a non-Aboriginal company.
+[64] Mr. Robertson bought raw furs from his father, who bought them from trappers. Ninety per cent of the raw furs were sold to Fourrures Micheline Inc., and the other ten to other non-Aboriginal manufacturers, who made coats from them. The other raw fur sales were excluded from the sales figure of Mr. Robertson's business until 2001 because they related to the business activities of the appellant's father.
+[65] Mr. Robertson also had reverse lambskin coats and fleece and leather (pig- and lambskin) clothing made by design studios in Montréal.
+[66] The sales of mounted hides related to bear skin rugs.
+[67] Before acquiring his father's business, Mr. Robertson was the director general of the Conseil des Montagnais du Lac St‑Jean from 1991 to 1996. From 1996 to 2010, he took care of the business on a full-time basis. In 2010, he became the director general of the Société de Développement Économique Ilnu (SDEI), whose mandate is to promote business development on the Mashteuiatsh reserve. According to recent figures, the reserve has some 125 businesses in a community of about 2,000 inhabitants.
+Expert testimony
+[68] Historian and anthropologist Claude Gélinas, Ph.D., testified for the appellant and filed an expert report entitled "Les Montagnais du Lac Saint-Jean et leur tradition de commerce des fourrures" [The Montagnais du Lac Saint‑Jean and the traditional fur trade]. The study begins by painting a picture of the trading tradition among the Aboriginal people of the Lac Saint Jean region from prehistoric times until the middle of the 20th century, more specifically, the tradition of trading in furs. The author attempts to show how, even in pre-contact times, Aboriginal peoples were participating in broad exchange networks across northeastern North America as part of which they were able to procure a variety of products from neighbouring groups in order to supplement their subsistence economies, very often in exchange for fur.
+[69] The study shows that the Montagnais's trading tradition always existed in a context of complete political and narrative autonomy. The absence of political institutions above the community level in the Eastern Subarctic before the arrival of the Europeans left Aboriginal families and bands free to establish trade relations with whomever they wished. This reality did not really change after contact, in the sense that the absence of treaties subjecting the Montagnais du Lac Saint-Jean to the authority of the Crown, the inexistence of effective governing institutions in the Lac Saint-Jean area before the second half of the 19th century and the absence of the major restrictions on the fur trade imposed by the Indian Act allowed the Montagnais to freely engage in this activity until the mid‑20th century.
+[70] The third part of the study deals with the historical size of the territory occupied and exploited by the Montagnais and to which they had access over the centuries, in order to hunt and trap.
+[71] The sources for this study were filed as Exhibit A-7 in 11 volumes of printed, double-sided documents. Given the relevance of the analysis provided in this study, I have appended all of its conclusions.
+[72] Historian Alain Beaulieu, Ph.D., testified for the respondent and adduced an expert report entitled "Commerce, Structure politique et changements sociaux : le cas des Montagnais du Saguenay-Lac-Saint-Jean, 1600-1950" [Trade, political structure and social change: the case of the Montagnais of the Saguenay-Lac-Saint-Jean, 1600–1950]. This authoritative study, covering three and a half centuries of history, provides an historical analysis of the role played by the Montagnais du Lac-Saint-Jean in the fur trade.
+[73] It is impossible to reproduce the wealth of historical data this study covers; it is worth reproducing, however, some particularly revealing excerpts, specifically with respect to the pre-contact period:
+[translation]
+Canada's colonial history is closely linked to the history of the fur trade. This commercial activity, which led to the foundation of a French colony in North America, also played a key role in the relations the Europeans established with the Aboriginal nations. The fur trade formed the basis for a network of alliances established by the French as early as the 17th century, the ramifications of which spread far into the continent, partly thanks to a series of trading posts and forts. Following the conquest of New France, in 1760, the fur trade continued to play an important economic role for many decades. It did not really start losing its central position in Eastern Canada's colonial economy until the 19th century, when a new activity, the forestry industry, took its place, by stimulating the economic growth of the British colonies and opening up new territories for colonization. (Page 1)
+The dynamic role played by Aboriginal people in the fur trade can therefore no longer be ignored. What must be avoided, however, is embellishing their participation, given that the fur trade also had disruptive effects on their own communities: in the medium term, participation in the fur trade resulted in a situation of dependence for most Aboriginal groups. (Page 2)
+In its early days, the fur trade certainly fostered the establishment of a harmonious relationship between Europeans and Aboriginal people, but it also integrated Aboriginal people into the economic and political sphere of the European powers. Indeed, in the 17th century, the French established themselves in the St. Lawrence Valley with the firm intention of asserting their authority, as was the intention of the British, when they replaced the French in 1760. The fur trade was certainly one of the first areas where the French exercised powers associated with the establishment of a new sovereignty. The granting of trade monopolies over large territories, in order to stimulate colonization or generate income for the state, is one of the most striking examples of this. (Page 2)
+Historically, the fur trade, specifically with respect to the relationship of dependence it established, initiated a process that led to the integration of Indian nations into the new political order, which structured their autonomy by limiting and governing it. It is certain, however, that as long the fur trade remained an activity that was essential to the colony's survival, the colonial powers could not gain a strong hold over the Aboriginal nations. It would be a mistake to deny the influence of the colonial power in this area; but it would be another one to give this influence an importance or role that it did not have. It is no accident then that when the fur trade began to decline in the 19th century, the colonial government strengthened its authority over eastern Canada's Aboriginal societies by creating reserves, enacting the Indian Act and deploying a strategy of guardianship in its relations with Aboriginal people. (Page 3)
+The Montagnais, like other Aboriginal people from northeastern North America, were integrated into bartering networks, through which they were able to procure certain goods and products they did not make themselves. Recent archeological digs have shed more light on this aspect of the economy of Aboriginal societies and support the descriptions of the first European observers.
+. . .
+Thanks to archaeological excavations carried out on various sites in central Quebec, the St. Lawrence Valley, southern Ontario, the United States and even Mexico, we know that there were already several trade routes before the arrival of the Europeans. Based on the artefacts discovered, archeologists have found that wares were circulating over great distances. It is not surprising then to find products from the Atlantic or Pacific coasts in the North American heartland, that is, far away from where they came from. Materials such as quartzite, jasper, copper and catlinite, which have been discovered at various North American sites, show that Aboriginal people were engaging in long-distance trade. They also exchanged other items, such as pottery, flintstone, rope, wampum and fishing nets, and various convenience goods, such as dried fish, corn and tobacco. (Page 12)
+Archeological discoveries and a reinterpretation of 17th-century historical sources have led many researchers to completely revise their vision of trade in the Aboriginal societies of northeastern North America. A common trend is to present Aboriginal people—and this is true of the Montagnais, including those of Tadoussac—as savvy, skilled traders seeking to outplay their competitors. This image, which is supported by documentation (see the following section), should not, however, make us lose sight of the overall context in which Aboriginal people conducted business. To properly understand the Montagnais's trading traditions at the time of contact, they must be looked at in the context in which they developed, that is, in an economy with a radically different foundation than that of a market or capitalist economy.
+It is especially important to avoid falling into the trap of presenting the Montagnais as capitalists before this term became the concept it is today. Their trading activities were essentially part of a subsistence economy, focused on satisfying the needs of the community and its families. Unlike that of a market economy, the commercial strategy of a subsistence economy is not to accumulate surplus: this would have been unthinkable in a society such as that of the Montagnais, where mobility was of primary importance. This clearly did not exclude the possibility of acquiring certain "luxury" or more unusual goods, as long as it did not undermine the Montagnais's fundamentally nomadic culture and lifestyle. The Montagnais could therefore acquire goods but only in such quantity that it would not hinder their group's ability to travel, and, in turn, threaten the group's survival.
+The fact that accumulating property was impossible is also reflected in other fundamental features of Montagnais culture, such as the Montagnais' disregard for material goods and any kind of behaviour displaying a desire for exclusive ownership of property. (Page 16)
+The St. Lawrence Valley's potential for developing the fur trade was quickly realized by the building of a trading post, including one in Québec, in 1608, and another one in Trois-Rivières, in 1634; however, the mouth of the Saguenay was the first area to welcome such a post. Built by merchant Pierre de Chauvin in 1600, the Tadoussac post was the centre of the fur trade in northeastern North America for a few decades. At the time, the mouth of the Saguenay River was controlled by the Montagnais of Tadoussac, who were then at the heart of a trading network that extended far into the interior. They would travel up the Saguenay River and buy furs from the Aboriginal people of the north. Their strategic position allowed them to position themselves as middlemen between Aboriginal peoples of the interior and European traders, who met to trade at the mouth of the Saguenay River every year. (Pages 24 and 25)
+To preserve their position as middlemen in the fur trade, the Montagnais strictly controlled access to the Saguenay, thus preventing the French from venturing up the river and establishing direct ties with their suppliers.
+. . .
+It was not until the end of the 1640s, after being significantly weakened, that the Montagnais relaxed their control over this area (see below). (Page 26)
+While freedom of trade benefitted the Montagnais—who clearly gained from the competition between traders—it disadvantaged the French traders, as it decreased their profit margins. Very quickly, therefore, certain traders attempted to have this freedom restricted by requesting that they be granted trade monopolies. . . .
+Similar requests multiplied in the late 16th and early 17th century, but it was not until the 1610s that a truly coherent policy was established by France, with the creation of the Compagnie de Canada in 1613–1614, a crucial step in this regard. Later, other companies took over, the most well-known of them being the Compagnie de la Nouvelle-France, also known as the Compagnie des Cent-Associés, or the Company of One Hundred Associates, which was founded by Cardinal Richelieu. In 1627, this company was granted not only New France by the King but also a monopoly over any trading in this territory for a 15-year period, after which it would preserve solely the monopoly of the trade in furs exported from the colony.
+In exchange for these monopolies, the French government required traders to assist in populating the colony, by transporting families of colonists there every year. In this manner, the Company of One Hundred Associates was to bring 4,000 people to Canada in the 15 years following its creation. Even though this population policy did not result in all of the anticipated goals, it was nonetheless a concrete example of France's desire to regulate the fur trade in order to establish a colony in the St. Lawrence Valley. (Pages 29 and 30)
+The breach in the monopoly exercised by the Montagnais of Tadoussac over the trade with the Aboriginal nations from the interior grew in 1650, when three Frenchmen—Louis Couillart de Lespinay, Courville and Simon Guion—travelled to the area to trade directly with the Montagnais. This trading approach, which would have been unthinkable a few decades, let alone a few years, earlier, marked the end of the first period in the history of Franco-Montagnais trading relations and, to some extent, laid the groundwork for a new phase, which saw the setting up of a new trading monopoly in this territory, one created by the colonial government. This monopoly—the Domaine du roi—defined the history of trade in this region for almost two centuries. (Page 40)
+The Agreement-in-Principle of General Nature [74] As Exhibit A-3, the respondent produced the February 12, 2009, sworn statement of Natalie Aubin, an employee of the Department of Indian Affairs and Northern Development and the senior negotiator representing the Government of Canada at the main negotiation table of the Conseil tribal Mamuitun mak Nutakuan (the CTMN) since January 2007. In support of her sworn statement, Ms. Aubin adduced the Agreement-in-Principle of General Nature (hereafter referred to as the APGN), which was ratified by the CTMN and the governments of Canada and Quebec in 2004.
+[75] The CTMN is made up of the Innu communities of Essipit, Mashteuiatsh and Nutakuan. The purpose of the APGN is to establish the structure, the general direction and the general principles that shall guide the drafting of a comprehensive land claims agreement and a treaty within the meaning of sections 25 and 35 of the Constitution Act, 1982.
+[76] The CTMN is currently the only negotiating table in Quebec to have reached the treaty negotiation stage. The APGN does not create legal obligations binding the parties, nor does it infringe on the obligations or existing rights of the parties.
+[77] The APGN has 19 chapters, a third of which have been the subject of ongoing negotiations since 2007. Chapter 12 deals with taxation and provides for the following:
+12.1 The Treaty shall provide that the legislative assemblies of the First Nations shall have the power to enact laws in the matter of direct taxation according to the provisions to be set out in the Treaty or complementary agreements.
+12.2 The Treaty or complementary agreements shall provide for the tax treatment of the Innu tshishe utshimaut and their public institutions. This tax treatment may be expressed by mean of immunities, exemptions or tax refunds, in the manner which shall be determined prior to the signing of the Treaty.
+12.3 The Parties shall conclude complementary agreements on the sharing and collection of taxes. The tax burden of taxpayers and administrative expenses shall be taken into account in the negotiation of such agreements.
+12.4 The Treaty shall determine the rules of transition between the tax regime provided for by section 87 of the Indian Act and the introduction of an Innu tax regime.
+Analysis
+[78] The issues fall under the following five subject areas:
+(a) The Aboriginal right to the fur trade and Aboriginal self-government;
+(b) Inconsistency between the Indian Act and the Goods and Services Tax Act;
+(c) Procedural fairness;
+(d) Limitation and penalties; and
+(e) Section 15 of the Canadian Charter of Rights and Freedoms.
+[79] Before embarking on an analysis of the issues, it is important to recall some of the principles underlying the ETA. Every person who makes a taxable supply in Canada in the course of a commercial activity engaged in by the person in Canada is required to be registered for the purposes of Part IX of the ETA (subsection 240(1)). The person required under subsection 240(1) to be registered must apply to the Minister for registration before the day that is 30 days after the day the person first makes a taxable supply in Canada, otherwise than as a small supplier, in the course of a commercial activity engaged in by the person in Canada (subsection 240(2.1)). The application for registration is to be filed with the Minister in prescribed manner and is to be made in prescribed form containing prescribed information (subsection 240(5)). In the present case, the appellant never filed an application for registration with the Minister, but on October 22, 2003, the Revenu Québec auditor had the Minister issue a GST/HST registration number, effective June 1, 1993, for the appellant in order to be able to assess him as of 1993. The reporting period assigned to the appellant is a monthly reporting period, with the first period covering the June 1, 1993, to June 30, 1993 period.
+[80] According to the evidence, the appellant did not file any tax returns during the period in issue, nor did he claim any input tax credits on his purchases. The appellant did not produce any supporting documents allowing him to claim input tax credits on his purchases. However, it should be mentioned here that property delivered on an Indian reserve is not subject to GST given that, under section 87 of the Indian Act, Indians are exempt from paying taxes on what they purchase within their reserves.
+[81] Every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate then in effect on the value of the consideration for the supply (subsection 165(1)). Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply (subsection 221(1)).
+[82] Every person who is required to file a return under Division V shall, in the return, calculate the net tax of the person for the reporting period for which the return is required to be filed (subsection 228(1)). Where the net tax for a reporting period of a person is a positive amount, the person shall, in respect of the reporting period, remit that amount to the Receiver General (subsection 228(2)).
+[83] During the period in issue, the appellant did not collect the tax payable by recipients of taxable supplies, that is, taxable supplies made at his business on the reserve to non-Indian purchasers. In addition, the appellant did not remit to the Receiver General the positive amount of his net tax for each reporting period during the period in issue.
+Aboriginal right to the fur trade
+[84] The appellant is challenging the constitutional validity and applicability of Division V entitled "Collection and Remittance of Division II Tax" (sections 221 to 251 of Part IX of the ETA) and, more specifically, and without limiting the generality of the foregoing, sections 221, 222, 223, 228, 238 and 240, and section 286 of Division VIII entitled "Administration and Enforcement" of Part IX of the ETA.
+[85] The legal basis for the constitutional questions raised by the appellant was explained in the Notice of Constitutional Questions produced in accordance with section 19.2 of the Tax Court of Canada Act, as follows:
+[translation]
+1. The Excise Tax Act (GST) is inconsistent with the Indian Act, in the light of section 88 of the Indian Act;
+2. In imposing a number of obligations on Indian merchants, including tax collection and remittance, which are obligations to act as agent and fiduciary of the federal Crown, the Excise Tax Act (GST) is inconsistent with the limited capacity of Indians as established by the Indian Act and enactments preceding that statute;
+3. The Excise Tax Act (GST) is also contrary to and irreconcilable with the Crown's fiduciary and agent obligations towards Aboriginal peoples, as arising from, among others things, subsection 91(24) of the Constitution Act, 1867;
+4. Requiring Indians to act as Crown agents in the collection of the goods and services tax (GST) would represent a role reversal;
+5. Consequently, the Excise Tax Act (GST) cannot be applied to Indians;
+6. Furthermore, the Excise Tax Act (GST) is of no force or effect with respect to the appellant under section 52 of the Constitution Act, 1982, as a result of the existing Aboriginal and treaty rights under section 35 of the same statute;
+7. Indeed, the exchange of furs against money or other goods is integral to the Montagnais's distinctive culture as it existed prior to contact;
+8. In imposing several duties, restrictions and limitations on Indians in business, including tax collection and remittance, which are duties to act as agent and fiduciary of the federal Crown, the Excise Tax Act (GST) violates the Montagnais's Aboriginal right to trade in fur.
+9. This violation is not justifiable, particularly because it is inconsistent with the Crown's fiduciary duty towards Aboriginal peoples and because there are other alternatives that only minimally impair this right.
+10. In applying the Excise Tax Act (GST), Indians merchants are not treated like any other non-Indian merchants, which is contrary to section 15 of the Canadian Charter of Rights and Freedoms, 1982, c. 11, and section 10 of the Charter of Human Rights and Freedoms, Q.L.R. c. C-12;
+11. The Excise Tax Act (GST) also violates the inherent right to self-government, which is the Montagnais's Aboriginal right;
+12. The Montagnais du Lac St-Jean's right to self-government includes the power to enact legislation and policies on their territory and to exercise the necessary authority to govern themselves;
+13. Prior to European contact, the Montagnais had their own form of government which distinguished them from other nations, which implies that they preserved the right to regulate business activities on their territory themselves, including the sovereign power to impose duties on all business transactions or exchanges, specifically in the fur trade;
+14. The application of the goods and services tax (GST) and the duty imposed on Indian merchants to act as Crown agents and to collect on its behalf duties on their business transactions have resulted in depriving the Aboriginal community of Mashteuiatsh of their right to self-government.
+[86] The Constitution Act, 1982 (R.S.C. 1985, App. II, No. 44, Schedule B), constitutionalized some of the rights of the Aboriginal peoples of Canada in section 35:
+RIGHTS OF THE ABORIGINAL PEOPLES OF CANADA
+35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed.
+(2) In this Act, "aboriginal peoples of Canada" includes the Indian, Inuit and Métis peoples of Canada.
+[87] Since the enactment of this constitutional statute, the Supreme Court of Canada has been called upon to interpret the meaning, scope and extent of this constitutional guarantee given to Aboriginal rights on several occasions; to my knowledge, however, no case specifically addresses the fur trade.
+[88] In R. v. Van der Peet, [1996] 2 S.C.R. 507, the Supreme Court of Canada provided a great deal of information on the Aboriginal rights of Aboriginal peoples. Among other things, the Court noted that "s. 35(1) should be given a generous and liberal interpretation in favour of aboriginal peoples" (para. 233, page 536). The Court further explained that Aboriginal rights are recognized because of one simple fact: ". . . when Europeans arrived in North America, aboriginal peoples were already here, living in communities on the land, and participating in distinctive cultures, as they had done for centuries" (para. 30, page 538). The Court further held that ". . . the test for identifying the aboriginal rights recognized and affirmed by s. 35(1) must be directed at identifying the crucial elements of those pre-existing distinctive societies. It must, in other words, aim at identifying the practices, traditions and customs central to the aboriginal societies that existed in North America prior to contact with the Europeans" (para. 44, page 548).
+[89] In paragraph 44 of Van der Peet, the Court identified the following principle:
+[I]n order to be an aboriginal right an activity must be an element of a practice, custom or tradition integral to the distinctive culture of the aboriginal group claiming the right (page 549) . . .
+In order to be integral a practice, custom or tradition must be of central significance to the aboriginal society in question (para. 54, page 553) . . .
+[90] In paragraph 59 of Van der Peet, the Court further held as follows:
+The practices, customs and traditions which constitute aboriginal rights are those which have continuity with the practices, customs and traditions that existed prior to contact (page 554) . . .
+[91] Aboriginal people wishing to establish the existence and nature of an Aboriginal right related to an activity that was an element of a practice, custom or tradition integral to their group's distinctive culture must be supported firmly by "an indisputable historical and anthropological record that 'readily bear[s] this out' (see Mitchell v. M.N.R., [2001] 1 S.C.R. 911 (para. 26)), in the knowledge that the historical sources available are not as reliable as written records produced by Aboriginal people if these existed for the pre‑contact period. Unfortunately, they do not.
+Application to the matter at bar [92] Before contact, the Montagnais du Lac Saint-Jean were nomads who lived from hunting game and birds, trapping, fishing and picking berries. In the summer, they would gather at easy-to-access strategic locations that were suitable for holding all kinds of social events and "trade fairs" at which fur pelts, clothing and birch bark products were exchanged for food (corn) and household items (such as arrowheads, knives and vessels for transporting corn and flour) with neighbouring tribes. In the fall, they would break up into smaller social units, made up of a few families, in order to travel to their respecting hunting grounds.
+[93] The two expert witnesses' reports are not contradictory and demonstrate that, before contact, the Montagnais were participating in exchange networks through which they acquired goods and products that they did not make or produce themselves. According to the expert witnesses, archeological finds support the idea that the Aboriginal people of Lac Saint-Jean took part in networks to exchange and move goods along east-west and north-south corridors, networks that put them in touch with various other Aboriginal nations across northeastern North America. According to Professor Gélinas, Lac Saint-Jean Aboriginal people were trading in furs before the arrival of the Europeans, as seems to be confirmed by the foreign pre-16th-century archeological remains discovered at sites in this region, despite the fact that North America's acidic soil has made it impossible to find items made of bone, wood or leather at archeological sites.
+[94] Professor Gélinas has even submitted that, despite the limitations of the data sources currently available, it is reasonable to believe that [translation] "the Aboriginal people of Lac Saint-Jean always maintained a fur trade tradition that was an intrinsic part of their distinctive culture and lifestyle as a strategy of adapting to their environment" (Conclusion No. 1 of his report) and that [translation] "the Aboriginal people of Lac Saint-Jean engaged in trade in order to survive and to improve their quality of life" (Conclusion No. 3 of his report).
+[95] The Court agrees with the conclusions described in the previous paragraph and finds that the fur trade was of fundamental importance for the Montagnais du Lac Saint-Jean since pre-contact exchanges involved the necessities of life and contributed to maintaining their livelihoods and social system.
+[96] The Court is aware that the pre-contact exchanges (bartering) the Montagnais du Lac Saint-Jean participated in were not commercial in the modern sense of the word as the Montagnais did not seek to gain profit from them or to accumulate goods, as this would have been incompatible with their lifestyle.
+[97] Having determined, in the light of the evidence adduced at trial, that the Montagnais du Lac Saint-Jean have established (a) the existence of the pre-contact practice, tradition or custom referred to in the pleadings to support the claimed right; and (b) the fact that this practice was integral to this distinctive Aboriginal society before it came into contact with Europeans, the Court must now determine whether the claimed modern right (namely, the fur trade in all its forms) has a reasonable degree of continuity with the pre-contact practice that was an integral part of society for the Montagnais du Lac Saint‑Jean. In Lax Kw'alaams Indian Band v. Canada (A.G.), [2011] 3 S.C.R. 535, Justice Binnie, on behalf of the Supreme Court of Canada, described the issue in the following manner:
+In other words, is the claimed modern right demonstrably connected to, and reasonably regarded as a continuation of, the pre-contact practice? At this step, the court should take a generous though realistic approach to matching pre-contact practices to the claimed modern right. As will be discussed, the pre-contact practices must engage the essential elements of the modern right, though of course the two need not be exactly the same. (para. 46, page 559).
+[98] At paragraph 49 of the same decision, Justice Binnie writes that an Aboriginal right can evolve:
+If established, an Aboriginal right is not frozen at contact, but is subject to evolution both in terms of the subject matter and the method of its exercise, depending on the facts. (Page 560).
+[99] The manner in which the claimed Aboriginal right, the fur trade, is exercised is not a problem in the matter at bar even though hunting and trapping methods have changed over time and techniques for preparing, conserving and using pelts have become much more sophisticated. In contrast, the territories where hunting and trapping activities took place have remained almost unchanged over time, and the places where fur trading took place have also largely remained the same. The Pointe-Bleue Reserve has always been a strategic location for the fur trade.
+[100] The situation becomes more complex when one considers how the purpose of the Aboriginal right has changed. The courts have recognized the need to allow Aboriginal rights to evolve within certain quantitative and qualitative limitations.
+[101] In Lax Kw'alaams Indian Band, supra at paragraph 97, Justice Binnie reiterated the conclusions of the trial judge:
+The trial judge concluded that transformation of the pre-contact eulachon grease trade into a modern commercial fishery would not be "evolution" but the creation of a different right. On that basis, the claim failed both the integrality and continuity requirements of the Van der Peet test. These findings were supported by the evidence. (para. 59, page 564)
+[102] The question here then is whether the fur trade, as engaged in by the appellant during the period in issue, respects the acceptable or reasonable limits for it to be considered to be a continuation or evolution of the fur trade as it was practiced by the Montagnais du Lac Saint-Jean before the arrival of the Europeans?
+[103] The evidence of record demonstrates that the activities that are part of the fur trade practiced by the appellant are quite different from those that were part of the fur trade practiced by his ancestors. The appellant did not trap, which the Montagnais du Lac Saint-Jean had to practise to be engaged in the fur trade. The evidence also shows that the main item traded in as part of this trade by the appellant's ancestors was raw furs, while the main items of the appellant's fur trade are remodeled fur coats and coats manufactured from raw animal furs, 90% of which come from non-Aboriginal producers, including many foreign ones. According to the evidence, only 5% of the raw furs used by the appellant come from Montagnais trappers.
+[104] On the basis of that information, I find that the claimed right to engage in the fur trade in the manner in which the appellant is doing so was not integral to pre‑contact Montagnais society. The recognized Aboriginal right to engage in the fur trade must be limited to the sale of raw furs of trapped animals (as opposed to raw furs from farmed animals). It should be noted here that for the purposes of the impugned assessment, raw fur sales were considered to be non-taxable sales.
+Self-government
+[105] As a descendant of the Montagnais du Lac Saint-Jean, may the appellant claim Aboriginal commercial rights to support his position that he may, on this basis, allege to have the constitutional right guaranteed by section 35 of the Constitution Act, 1982, to trade freely and openly, without being subject to any restrictions or regulations whatsoever?
+[106] What the appellant is claiming is another form of Aboriginal right, which is necessarily subject to the same burden of proof. This is one of the premises relied on by the Supreme Court of Canada in R. v. Pamajewon, [1994] 2 S.C.R. 821:
+The appellants' claim involves the assertion that s. 35(1) encompasses the right of self-government, and that this right includes the right to regulate gambling activities on the reservation. Assuming without deciding that s. 35(1) includes self-government claims, the applicable legal standard is nonetheless that laid out in Van der Peet, supra. Assuming s. 35(1) encompasses claims to aboriginal self-government, such claims must be considered in light of the purposes underlying that provision and must, therefore, be considered against the test derived from consideration of those purposes. This is the test laid out in Van der Peet, supra. In so far as they can be made under s. 35(1), claims to self-government are no different from other claims to the enjoyment of aboriginal rights and must, as such, be measured against the same standard.
+In Van der Peet, supra, the test for identifying aboriginal rights was said to be as follows, at para. 46:
+. . . in order to be an aboriginal right an activity must be an element of a practice, custom or tradition integral to the distinctive culture of the aboriginal group claiming the right. (Paras 24 and 25, pages 832 and 833).
+[107] According to Professor Gélinas, the Montagnais du Lac Saint-Jean were never made to do anything, as he states in Conclusion No. 8 of his report:
+[translation]
+There is nothing to suggest that at any time of their history, the Montagnais were subject to the French or British Crown, or to the governments of Canada and Quebec, in any manner whatsoever.
+[108] The establishment of the Pointe-Bleue Reserve in 1856 undoubtedly marks the starting point of the federal government's control over the Montagnais.
+[109] The main findings regarding the social system and living standards of Montagnais society from Professor Gélinas's report are the following:
+[translation]
+5.3 During the long hunting season, the Aboriginal people of Lac Saint-Jean broke up into small hunting groups made up of a few, generally related, families with a recognized hunting territory of which they exploited the resources under the leadership of the territory "steward," usually the hunter with the most experience;
+6.1 Given that the Aboriginal people of Lac Saint-Jean were a nomadic people until the middle of the 20th century, their lifestyle was not suited to a complex, coercive peacekeeping system;
+6.3 It was only during the few weeks that all the families were together that it was possible to have a recognized chief who was able to speak on behalf of everyone in interactions with representatives of other Aboriginal bands or various Westerners and to act as a mediator in conflicts between band members;
+6.4 The authority of these band leaders was very informal and essentially devoid of any coercive connotation: among the Aboriginal people of Lac Saint-Jean, as in other Algonquin nations of the Subarctic, it was public opinion that, ultimately, counted as both the guardian of social order and the main punitive authority when band members deviated from expected behaviour;
+7. In the later decades of the 19th century, the creation of a band council and the adoption of a voting system in Pointe-Bleue, under the Indian Act, did not necessarily change the Montagnais's traditional form of governance;
+[110] The clearest expression of the Montagnais's exercise of governmental authority over the fur trade prior to contact involved the assignment of hunting territories to the various families. There is no other evidence in the record to suggest that the fur trade was ever regulated by Aboriginal people during this period. Consequently, the appellant's claim to an Aboriginal right arising from the Montagnais's self-government of the fur trade in general and in all of its forms seems too broad to me and should be limited to the assignment and the management of hunting, fishing and trapping territories over which the Montagnais du Lac Saint-Jean can exercise their jurisdiction.
+[111] In this context, the Montagnais's self-government could not give the Montagnais an exclusive right to tax business transactions in their territory since this would violate Crown sovereignty. In Acadia Band v. Minister of National Revenue, 2008 FCA 119, the Federal Court of Appeal concluded that a 9% commodity tax imposed on goods and services supplied to clients on the reserve lands of the Acadia First Nation and requiring all corporations and businesses belonging to the Acadia First Nation to collect this tax and to remit it to the band council was not a modern expression of the "communal sharing" practice, custom or tradition and that it did not constitute the exercise of an Aboriginal right protected by section 35 of the Constitution Act, 1982. Consequently, the provisions in the ETA that require suppliers to collect GST/HST from non-Indian customers and to remit this tax to the Receiver General for Canada did not violate the applicant's Aboriginal rights.
+[112] The question of self-government necessarily calls for a review of the various types of lands on which Aboriginal rights can exist. The following excerpt from the reasons of Justice L'Heureux‑Dubé in Van Der Peet, supra at paragraph 88, is relevant here:
+This brings me to the different type of lands on which aboriginal rights can exist, namely reserve lands, aboriginal title lands, and aboriginal right lands: see Brian Slattery, "Understanding Aboriginal Rights", supra, at pp. 743-44. The common feature of these lands is that the Canadian Parliament and, to a certain extent, provincial legislatures have a general legislative authority over the activities of aboriginal people, which is the result of the British assertion of sovereignty over Canadian territory. There are, however, important distinctions to draw between these types of lands with regard to the legislation applicable and claims of aboriginal rights.
+(Page 579)
+[113] At paragraphs 118, 121 and 122 of Van Der Peet, supra, Justice L'Heureux-Dubé explained the concepts of reserve lands and Aboriginal right lands, the two types of lands relevant to the present dispute:
+Reserve lands are those lands reserved by the Federal Government for the exclusive use of Indian people; such lands are regulated under the Indian Act, R.S.C., 1985, c. I-5. On reserve lands, federal legislation, pursuant to s. 91(24) of the Constitution Act, 1867, as well as provincial laws of general application, pursuant to s. 88 of the Indian Act, are applicable. However, under s. 81 of the Indian Act, band councils can enact by-laws, for particular purposes specified therein, which supplant incompatible provincial legislation — even that enacted under s. 88 of the Act — as well as incompatible federal legislation — in so far as the Minister of Indian Affairs has not disallowed the by-laws pursuant to s. 82 of the Act. . . .
+(Pages 579 and 580)
+. . .
+Finally, aboriginal right lands are those lands on which only specific aboriginal rights exist (e.g., the right to hunt for food, social and ceremonial purposes) because the occupation and use by the particular group of aboriginal people is too limited and, as a result, does not meet the criteria for the recognition, at common law, of aboriginal title. In these cases, the aboriginal rights on the land are restricted to residual portions of the aboriginal title — such as the rights to hunt, fish or trap — or to other matters not connected to land; they do not, therefore, entail the full sui generis proprietary right to occupy and use the land.
+Both the Canadian Parliament and provincial legislatures can enact legislation, pursuant to their respective general legislative competence, that affect native activities on aboriginal right lands. . . .
+(Page 581)
+[114] Even though there is no land claim in this appeal, the explanations of the different types of lands that can be owned and/or occupied by Aboriginal people help in understanding what powers Parliament and the provincial legislatures have in regulating Aboriginal activities.
+Violation of Aboriginal rights
+[115] Since the Montagnais du Lac Saint-Jean have recognized Aboriginal rights, the Court must now determine whether the application of the ETA to the goods and services supplied by the appellant on the Pointe-Bleue Reserve to non-Indians prima facie interferes with these existing Aboriginal rights. The test for prima facie interference was set out in R. v. Sparrow, [1990] 1 S.C.R. 1075, as follows:
+The first question to be asked is whether the legislation in question has the effect of interfering with an existing aboriginal right.
+(Page 1111)
+[116] Prima facie, the ETA does not violate the Montagnais du Lac Saint-Jean's Aboriginal rights. The ETA does not stop the Montagnais du Lac Saint-Jean from trading in raw furs or from self-governing their hunting territories. At most, the ETA represents a mere administrative inconvenience for the appellant, by requiring him to collect and remit tax with respect to goods and services supplied to non‑Indians.
+[117] In R. v. Lefthand, 2007 ABCA 206, the Court of Appeal of Alberta summarized the burden of proof of Aboriginal people alleging an infringement of an Aboriginal right in the following manner:
+In summary, to show a prima facie infringement, the defendants must show some unreasonableness, hardship or interference with their preferred way of exercising their rights at the level set out in the cases.
+(Paragraph 126, page 47)
+[118] In Lefthand, supra, the Court also held that not all acts of government that affect Aboriginal rights constitute a prima facie infringement of these rights:
+Not every act of the government that has some impact on an aboriginal right amounts to a breach of that right, or amounts to what is termed a 'prima facie infringement'. Aboriginal rights are not immune from government regulations.
+(Paragraph 121, page 45)
+[119] That is precisely the case in this appeal: the provisions of the ETA impose an administrative burden on the appellant that one could characterize as a mere inconvenience. The issue of whether the assessment made against the appellant on the basis of the ETA because he failed to collect and remit the GST that should have been paid by his non-Indian clients on the goods and services he supplied to them amounted to a tax on his property situated on a reserve or a tax on him in respect of that property has been discussed many times by the courts in the following decisions:
+- Reference re Goods and Services Tax, [1992] 2 S.C.R. 445;
+Re Bernard and The Queen, 1986, 31 D.L.R. 303;
+Chahalis Indian Band v. B.C., 1988 CanLII 3172 (BC CA);
+Tseshaht Band v. British Columbia, 1992 CanLII 5970 (BC CA);
+R. v. Johnson, 1993 CanLII 3181 (NS CA);
+Québec (Sous-ministre du Revenu) c. Vincent, [1996] R.J.Q. 239 (QC CA);
+Pictou v. Canada, [2000] T.C.J. No. 321, aff'd Pictou v. Canada, [2003] 2 F.C. 737;
+Obonsawin v. Canada, [2010] T.C.J. No. 152; and
+Obonsawin v. R.; 2011 FCA 152.
+[120] Justice Louis Crête examined the issue in Leclaire c. Agence du revenu du Québec, 2013 QCCS 6083 (CanLII), drawing the following conclusion at paragraph 337:
+[translation]
+In the light of the above, the Court concludes that nothing in the legislation regarding the collection and remittance of federal and provincial sales taxes extinguishes let alone affects Indian businesspeoples' right not to be subject to the taxation of their property on their reserves. The applicants are not taxed; they are merely required to collect the taxes their non-Indian clients are legally required to pay and to remit these taxes to the tax authorities. That is the key difference. Reserves are not "free-trade" zones and neither are businesses on reserves duty-free stores for non-Indians passing by.
+(Page 86)
+[121] Although I agree with that conclusion, I must mention that the decision is currently under appeal with the Quebec Court of Appeal.
+Statutory inconsistency
+[122] The issue here is the following: is the ETA inconsistent with section 88 of the Indian Act? Section 88 of the Indian Act reads as follows:
+Subject to the terms of any treaty and any other Act of Parliament, all laws of general application from time to time in force in any province are applicable to and in respect of Indians in the province, except to the extent that those laws are inconsistent with this Act or the First Nations Fiscal Management Act, or with any order, rule, regulation or law of a band made under those Acts, and except to the extent that those provincial laws make provision for any matter for which provision is made by or under those Acts.
+[123] The statutory inconsistency arises from the fact that, under the ETA, Aboriginal merchants are required to act as agents and trustees of the federal Crown for the collection and remittance of taxes, while under the Indian Act and legislation predating this statute, they enjoy only limited legal capacity, equivalent to that of a minor or a ward of the state.
+[124] On its face, this situation may seem absurd, but it isn't. There is no real conflict between the two statutes. The appellant is a clear example of this since he has been operating his business for over 10 years while fulfilling his obligations under the ETA.
+[125] The appellant is an experienced businessman with the necessary skills to fulfill his obligations under the ETA. The appellant mentioned the difficulties of obtaining funding from financial institutions in order to be able to remit to the Receiver General for Canada the GST he did not collect from his non-Indian clients. According to the appellant, these difficulties result from section 89 of the Indian Act, which prevents financial institutions from seizing the real and personal property of an Indian situated on a reserve. Section 89 of the Indian Act reads as follows:
+89. (1) Subject to this Act, the real and personal property of an Indian or a band situated on a reserve is not subject to charge, pledge, mortgage, attachment, levy, seizure, distress or execution in favour or at the instance of any person other than an Indian or a band.
+(1.1) Notwithstanding subsection (1), a leasehold interest in designated lands is subject to charge, pledge, mortgage, attachment, levy, seizure, distress and execution.
+(2) A person who sells to a band or a member of a band a chattel under an agreement whereby the right of property or right of possession thereto remains wholly or in part in the seller may exercise his rights under the agreement notwithstanding that the chattel is situated on a reserve.
+[126] In principle, the ETA does not impose any financial obligations on merchants. Merchants do not have to pay GST; however, if they fail to collect or remit GST, they become personally liable for the GST they should have collected and remitted. The appellant's financial problems are not attributable to the application of section 89, but arise, rather, from the assessment. The appellant has failed to show that he was unable to obtain funding as a result of section 89. The funding would probably have been available but at a higher price.
+Section 15 of the Canadian Charter of Rights and Freedoms (the Charter) [127] The appellant argues that he is in an unequal position with respect to any other non-Indian merchant when it comes to the application of the ETA, which violates section 15 of the Charter. According to the appellant, he is treated differently from non-Indian merchants since, under section 89 of the Indian Act, he was unable to obtain the credit he needed to advance the GST payable. Section 15 of the Charter reads as follows:
+(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+(2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[128] As we saw above, the purpose of section 89 of the Indian Act is to preserve the heritage of people with Indian status by preventing the seizure of their real and personal property situated on a reserve.
+[129] In Ermineskin Indian Band and Nation v. Canada, [2009] 1 S.C.R. 222, the Supreme Court of Canada considered the constitutionality of sections 61 to 68 of the Indian Act on the grounds that they infringed the rights guaranteed by subsection 15(1) of the Charter. The case concerned the management of money earned mainly from royalties derived from the oil and gas reserves found beneath the surface of the Indian reserves, belonging to the Indian bands and held in trust for them by the Crown. The Indian bands argued that the fact that the Crown was not able to invest the money on their behalf disadvantaged them economically as it resulted in lower returns than those available to non-Indians. In that case, the Crown applied, to the money it was managing, interest rates set by Orders in Council made under the Indian Act rather than investing the money as a prudent investor would in a diversified portfolio of stocks and bonds.
+[130] The Supreme Court of Canada concluded that the impugned provisions of the Indian Act, which preclude the Crown from investing royalties, create a distinction between Indians and non-Indians, but that this distinction is not discriminatory in the sense that it does not create a disadvantage by perpetuating prejudice or stereotyping. Below are some excerpts from the decision:
+[188] This Court's equality jurisprudence makes it clear that not all distinctions are discriminatory. Differential treatment of different groups is not in and of itself a violation of s. 15(1). As this Court stated in Andrews v. Law Society of British Columbia, [1989] 1 S.C.R. 143, at p. 182 (restated in R. v. Kapp, 2008 SCC 41, [2008] 2 S.C.R. 483, at para. 28), a complainant must show "not only that he or she is not receiving equal treatment before and under the law or that the law has a differential impact on him or her in the protection or benefit accorded by law but, in addition, must show that the legislative impact of the law is discriminatory" (emphasis added). The analysis, as established in Andrews, consists of two questions: first, does the law create a distinction based on an enumerated or analogous ground; and second, does the distinction create a disadvantage by perpetuating prejudice or stereotyping.
+[189] In the circumstances of this case, it is evident that the first requirement is satisfied: the impugned legislation creates a distinction between Indians and non‑Indians because the legislation only applies to Indians.
+[190] The question that must therefore be asked is whether the money management provisions, which preclude investment of Indian moneys by the Crown, perpetuate prejudice or stereotyping. In my opinion, they do not.
+. . .
+[201] Given these considerations, I am unable to agree that the impugned provisions of the Indian Act infringe s. 15(1) of the Charter under the test established in Andrews and reaffirmed in Kapp: "(1) Does the law create a distinction based on an enumerated or analogous ground? (2) Does the distinction create a disadvantage by perpetuating prejudice or stereotyping?" (Kapp, at para. 17). There is a distinction between Indians and non-Indians, but that distinction is not discriminatory. . . .
+[202] I am therefore of the opinion that the provisions of the Indian Act that prohibit investment of the royalties by the Crown do not draw a distinction that perpetuates disadvantage through prejudice or stereotyping. There is no violation of s. 15(1) of the Charter.
+[131] In this appeal, the application of section 89 does not result in disadvantaging the appellant or prejudicing him. Yes, section 89 may make it harder for Indians to obtain funding, but, on the other hand, the provision also protects their assets. Aboriginal entrepreneurs who do not need the protection offered by section 89 may escape the application of the Indian Act by incorporating their business.
+[132] Section 89 does not apply to operations situated, as in the matter at bar, in the "commercial mainstream". This principle was clearly set out in R. v. Sewell, [2006] O.J. No. 2218, as follows:
+Mr. Sewell holds himself out as a retailer prepared to do business with non-Indians. He is prepared to remit the collected GST, but does not want to provide the documents to verify the accuracy of the collected tax. Non-Indian businesses similar to that of Mr. Sewell have to comply with various government reporting schemes. Such is part of the operating expenses of any business. To allow Mr. Sewell not to incur operating expenses in relation to the GST return would give him a competitive advantage over similar businesses owned by non-Indians. It was not the intention of section 89 to provide a competitive advantage in the commercial marketplace in relation to non-Indian businesses. If Mr. Sewell chooses to do business with non-Indians, then he must comply with the rules that apply to businesses of this nature. The historical context of section 89 is a shield against interference on the use and rights in property. There is no historical basis to support the use of section 89 as a sword to obtain a commercial competitive advantage. Mr. Sewell cannot expect to deal with property in the commercial mainstream on different terms than his fellow citizens. (para. 30, page 11)
+(Emphasis added by Justice J.D. Keast)
+[133] That principle seems to be based on Justice La Forest's observations in Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85 (at page 138):
+Personal property acquired by Indians in normal business dealings is clearly different; it is simply property anyone else might have acquired, and I can see no reason why in those circumstances Indians should not be treated in the same way as other people.
+There can be no doubt, on a reading of s. 90(1)(b), that it would not apply to any personal property that an Indian band might acquire in connection with an ordinary commercial agreement with a private concern. Property of that nature will only be protected once it can be established that it is situated on a reserve. Accordingly, any dealings in the commercial mainstream in property acquired in this manner will fall to be regulated by the laws of general application. Indians will enjoy no exemptions from taxation in respect of this property, and will be free to deal with it in the same manner as any other citizen. In addition, provided the property is not situated on reserve lands, third parties will be free to issue execution on this property. I think it would be truly paradoxical if it were to be otherwise.
+[134] In Bastien Estate v. Canada, [2011] 2 S.C.R. 710, Justice Cromwell reiterated Justice La Forest's observations in the following fashion:
+[54] As I mentioned earlier, La Forest J. in Mitchell also noted that the purpose of the legislation is not to permit Indians to "acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens": p. 131. However, he was clear that, even if an Indian acquired an asset through a purely commercial business agreement with a private concern, the exemption would nonetheless apply if the asset were situated on a reserve. As he emphasized, "[i]t must be remembered that the protections of ss. 87 and 89 will always apply to property situated on a reserve": p. 139.
+Lack of procedural fairness [135] In his Amended Notice of Appeal dated October 14, 2011, the appellant refers to the well-settled doctrine of the case law: that government owes a duty of fairness towards citizens, by respecting the fundamental rules of natural justice when making a decision that is likely to affect their interests. According to the appellant, the Canada Revenue Agency (the CRA), through its agent, did not respect the rules of natural justice towards the appellant, namely the principle of procedural fairness and application of the doctrine of the legitimate expectation of the citizen, who relies on the government authority's duty of care and good faith.
+[136] Contrary to the appellant's arguments, I cannot see that CRA or its agent breached procedural fairness in how it performed the audit or made the assessments. The arguments made by the appellant cannot affect the validity of the assessments made against him in any way.
+[137] The appellant refused to provide the tax authorities with the documents that they required to audit his books and records for over two years, and it was only after requirements to produce information were made to financial institutions that the tax authorities were able to make the first assessments, based on the financial statements obtained from the appellant's financial institutions.
+[138] The Quebec tax authorities put a great deal of pressure on the appellant by claiming the payment of the assessed amounts but collection measures were not initiated until January 2003. It was not until after these collection proceedings that the appellant finally agreed to showing his books and to allow an audit of his business. In contrast to the Income Tax Act (the ITA), the ETA does not include any GST collection restrictions, nor does it have an equivalent to section 225.2 of the ITA.
+[139] Once the appellant agreed to show his books, the audit and assessment process progressed normally and quickly. Reassessments were made on May 8, 2003, about a month after the audit. The appellant filed the notices of objection dated May 29, 2003, resulting in the reassessments dated February 17, 2004.
+[140] The appellant criticizes the tax authorities for their delay in dealing with the notices of objection dated October 4, 2002, which were produced in response to the initial assessments. The respondent acknowledged the delay in replying to these notices, but noted that, in fairness to the tax authorities, the appellant was largely responsible for the delay by not filing his notices of objection in the prescribed form and by failing to send them to the right directorate. The notices of objection produced by the appellant were nonetheless dealt with like proper notices of objection. In any event, I do not see what prejudice the appellant might have suffered as a result of the delay in the processing of his notices of objection. He could have exercised his rights to appeal before this Court given the lack of a reply from the tax authorities for over 180 days.
+[141] In the light of the position assumed by the appellant, that of withholding his cooperation in order to allow the respondent to audit his business, I do not feel that he is in position to complain about how he was treated.
+Limitation and penalties [142] Regarding the years at issue, the appellant never collected GST on sales to non-Indians or remitted GST to the Receiver General for Canada, never filed a tax return, never claimed input tax credits on his purchases and never registered for the purposes of the ETA. Ms. Rathé of Revenu Québec had a registration number issued for him, effective retroactively to 1993; this number was revoked on September 16, 2003. The appellant obtained a new registration number on October 22, 2003.
+[143] For GST, the normal assessment period, under subparagraph 298(1)(a)(i) of the ETA, is four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed. Subparagraph 298(1)(a)(i) reads as follows:
+298.(1) Subject to subsections (3) to (6.1), an assessment of a person shall not be made under section 296
+(a) in the case of
+(i) an assessment of net tax of the person for a reporting period of the person,
+. . .
+more than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed;
+[144] However, there is no limitation period in the event of misrepresentation, fraud or waiver. These exceptions are set out in subsection 298(4) of the ETA, which reads as follows:
+(4) An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+(a) made a misrepresentation that is attributable to the person's neglect, carelessness or wilful default;
+(b) committed fraud
+(i) in making or filing a return under this Part,
+(ii) in making or filing an application for a rebate under Division VI, or
+(iii) in supplying, or failing to supply, any information under this Part; or
+(c) filed a waiver under subsection (7) that is in effect at that time.
+[145] In this case, subsection 298(4) does not apply since the appellant did not make a misrepresentation, commit fraud or waive the limitation period. To determine the normal assessment period, the Court must refer to paragraph 298(1)(a).
+[146] The respondent submits that the four-year period never began because the appellant did not file any tax returns. Consequently, the Minister had the discretion to assess every year from the year when the appellant became the owner of the business.
+[147] The appellant argues that the limitation period began on the day on which he was required to file his returns, irrespective of the fact that he never filed them.
+[148] This issue was examined by the Federal Court of Appeal in Paquet v. Canada, 2004 FCA 391, where the interpretation suggested by the appellant was rejected in the following terms:
+[3] This interpretation requires that the clear and unequivocal wording of the provision be disregarded, something that the Court refused to do in Déziel v. Canada, [2004] F.C.J. No. 528, a decision which, incidentally, is binding on us.
+[149] Regarding subsection 298(1), the appellant submits that this provision could only apply to persons registered for tax purposes. According to the appellant, the ETA does not contain any clear and unequivocal provisions for persons who are not registered and who do not produce tax returns. Hence, there is a legal vacuum that can only be filled by the Civil Code of Québec, which provides for a three-year limitation period.
+[150] The respondent submits that subsection 298(1) applies as much to those who are registered as to those who are not and that there is no reason to distinguish between these two categories. According to the respondent, the problem is academic in any event as the appellant was assigned an applicable registration number as of 2003. Consequently, subsection 298(1) applies in his case.
+[151] To be registered for the purposes of the ETA, taxpayers must apply to the Minister (section 241), but the Minister may exercise his discretion and register a taxpayer who is engaged in commercial activity retroactively. Both registrants and non-registrants are required to collect and remit the GST applicable to taxable supplies (sections 238 and 245). Non-registered taxpayers are also required to file returns, in their case on a monthly basis (paragraph 238(1)(b)) and may not use another reporting period.
+[152] The penalty imposed on the appellant is set out in subsection 280(1) of the ETA, which provides as follows in the version in effect on October 20, 2000:
+280. (1) Penalty and interest – Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid:
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[153] The respondent has the burden of establishing that the conditions for subsection 280(1) have been met. When a taxpayer fails to file a tax return, the penalty is applied automatically, unless the taxpayer exercised due diligence to prevent the failure.
+[154] According to the evidence, the appellant did nothing to remedy the default even though he was well aware of the requirements to collect and remit GST and the duty to file tax return given his involvement in the corporation Fourrures Micheline Inc.
+[155] The appellant did not bother consulting a tax advisor or accountant for an opinion on his obligations under the ETA or for advice on what measures he should take to comply with the ETA. He did not make any financial arrangements with the tax authorities in order to remit the uncollected taxes under protest or any other conditions. It was not until February 2004 that the appellant finally concluded a provisional agreement with the tax authorities to collect and remit GST on taxable supplies made to non-Indians.
+[156] In these circumstances, I do not believe that the appellant succeeded in establishing that he exercised due diligence.
+[157] For all these reasons, the appeal from the reassessment made with respect to the appellant's company dated February 17, 2004, for the reporting periods from June 1, 1996, to May 31, 2002, is dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of September 2015.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+On this 18th day of January 2016
+François Brunet, Revisor
+[translation]
+Schedule A
+Start of fiscal year
+1996-06-01
+1997-06-01
+1998-06-01
+1999-06-01
+2000-06-01
+2001-06-01
+End of fiscal year
+1997-05-31
+1998-05-31
+1999-05-31
+2000-05-31
+2001-05-31
+2002-05-31
+Sales according to financial statements
+$599,261.001
+$599,261.00
+$659,493.00
+$803,865.00
+$904,704.00
+$1,271,099.00
+Approximately:
+Adjustment of bad debts
+$40,298.54
+($1,545.00)
+($140,000.00)
+Less:
+Non-taxable sales (raw furs)
+$525,659.00
+Non-taxable sales to Aboriginal people
+$119,852.002
+$119,852.003
+$135,040.00
+$160,005.00
+$215,941.00
+$120,611.00
+(% of sales to Aboriginal people)
+20%
+20%
+19%
+20%
+24%
+20%
+Taxable sales
+$479,408.00
+$479,409.00
+$564,751.54
+$642,315.00
+$688,763.00
+$484,829.00
+GST based on taxable sales (7%)
+$33,558.56
+$33,558.63
+$39,532.61
+$44,962.05
+$48,213.41
+$33,938.03
+GST collected based on reconciliation of tax
+$0.00
+$0.00
+$0.00
+$0.00
+$0.00
+$0.00
+Discrepancy / Amount assessed on February 17, 2004
+($33,558.56)
+($33,558.63)
+($39,532.61)
+($44,962.05)
+($48,213.41)
+($33,938.03)
+Note 1: Financial statements not available for 1996–1997. Revenu Québec used the same sales figure as for 1997–1998.
+Notes 2 and 3: Calculated based on the average percentage (%) for the other years since the appellant did not have any worksheets or invoices for 1996–1997 and 1997–1998.
+Conclusion
+Based on the historical overview provided here, and despite the many limitations of the data sources currently available, it is reasonable to draw the following conclusions:
+1. The Aboriginal people of Lac Saint-Jean have always maintained a fur trade tradition that was an intrinsic part of their distinctive culture and lifestyle as a strategy of adapting to their environment;
+1.1 Lac Saint-Jean Aboriginal people were trading in furs before the arrival of the Europeans, as seems to be confirmed by the foreign pre-16th-century archeological remains discovered at sites in this region;
+1.2 The Lac Saint-Jean Aboriginal people' practice of trading in furs in order to obtain goods of European origin began even before the first Europeans arrived in the region in the mid-17th century, as revealed by the discovery of late 16th-century glass pearls at some archeological sites;
+1.3. From the second half of the 17th century onwards, the Montagnais du Lac-Saint-Jean traded without interruption at the trading posts established by various successive traders: the lessees of the Domaine, the Hudson's Bay Company, smaller independent traders, and so forth;
+1.4 It was not until the second half of the 20th century that the fur trade ceased to be the main economic activity for the Montagnais of Pointe-Bleue; given both the lack of easily accessible hunting grounds and a wildlife shortage, they increasingly turned to paid work to generate income;
+2. The Aboriginal people of Lac-Saint-Jean have a long history of trading in furs with various partners;
+2.1 Archeology seems to support the idea that the Aboriginal people of Lac-Saint-Jean took part in networks to exchange and move goods along east-west and north-south corridors, networks that put them in touch with various other Aboriginal nations across northeastern North America;
+2.2 Following the establishment of trading posts in Saguenay-Lac-Saint-
+70
+[translation]
+5.2 The summer gathering places were usually the places where trading (fairs) would take place; archeological findings suggest that this was the case prior to contact, and we know that trading posts built as of the 17th century in the same areas also became favourite gathering spots;
+5.3 During the long hunting season, the Aboriginal people of Lac Saint-Jean broke up into small hunting groups made up of a few, generally related, families with a recognized hunting territory of which they exploited the resources under the leadership of the territory "steward," usually the hunter with the most experience;
+This continuity in the Montagnais's social structure was also associated with continuity in terms of their society's rules and living standards;
+6.1 Given that the Aboriginal people of Lac Saint-Jean were a nomadic people until the middle of the 20th century, their lifestyle was not suited to a complex, coercive peacekeeping system;
+6.2 During most of the year, families lived alone in the forest, meaning that the only peace-keeping authority were parents or the leader of the hunting group;
+6.3 It was only during the few weeks that all the families were together that it was possible to have a recognized chief who was able to speak on behalf of everyone in interactions with representatives of other Aboriginal bands or various Westerners and to act as a mediator in conflicts between band members;
+6.4 The authority of these band leaders was very informal and essentially devoid of any coercive connotation: among the Aboriginal people of Lac Saint-Jean, as in other Algonquin nations of the Subarctic, it was public opinion that, ultimately, counted as both the guardian of social order and the main punitive authority when band members deviated from expected behaviour;
+In the later decades of the 19th century, the creation of a band council and the adoption of a voting system in Pointe-Bleue, under the Indian Act, did not necessarily change the Montagnais's traditional form of governance;
+7.1 It seems that beyond the voting system imposed by the federal government, certain traditional procedures for electing chiefs have prevailed;
+7.2 The fact that the Montagnais continued their nomadic lifestyle until
+72
+around 1950 meant that during most of the year, each hunting group ensured that its members complied with the Montagnais's rules and standards of conduct;
+7.3 It was only when the Montagnais became sedentary and started living as a community permanently in Pointe-Bleue, as of the 1950s, that the band chief's role became more formal and more institutionalized;
+8. There is nothing to suggest that at any time of their history, the Montagnais were subject to the French or British Crown, or to the governments of Canada and Quebec, in any manner whatsoever;
+8.1 In the 17th century, the French colonizers tended to see the Montagnais as political and economic allies;
+8.2 After the British conquest, the British unilaterally agreed to protect the Aboriginal nations' rights and territorial assets, including those of the Montagnais, under the Royal Proclamation;
+8.3 In 1867, under the British North America Act, non-Aboriginal political stakeholders agreed to give the federal government full responsibility with respect to Aboriginal people;
+8.4 The fact that the Montagnais du Lac-Saint-Jean maintained their traditional lifestyle until the middle of the 20th century, despite the assimilationist pressures exerted on them since the 17th century demonstrates how free they were to govern themselves;
+8.5 In fact, the main socio-economic and political changes experienced by the Montagnais du Lac-Saint-Jean from the 1950s onwards had less to do with any power the federal government might have exercised in their respect than with the consequences of colonization, which forced them to abandon their subsistence economy, and the need for them to rely on the federal government's fiduciary obligations in their regard.
+8.6 The fact remains, however, that in some areas, the federal and provincial governments wish to impose certain obligations on the Montagnais, such as the obligation to collect tax on theses governments' behalf, even though this might be fundamentally inconsistent with the very limited capacity of Indians under the Indian Act.
+73
+CITATION:
+2015 CCI 219
+COURT FILE NO.:
+2004-2266(GST)G
+STYLE OF CAUSE:
+Édouard Robertson et Her Majesty the Queen
+PLACE OF HEARING:
+Alma, Quebec
+DATES OF HEARING:
+May 27, 28 and 29, and June 4, 5, 6, 10, 11 and 12, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+September 10, 2015
+APPEARANCES:
+Counsel for the appellant:
+François Bouchard
+Jean-François Delisle
+Counsel for the respondent:
+Anick Pelletier
+Patrick Vézina
+Nancy Bonsaint
+COUNSEL OF RECORD:
+For the appellant:
+Names:
+François Bouchard
+Jean-François Delisle
+Firm:
+Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

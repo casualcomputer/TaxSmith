@@ -1,0 +1,179 @@
+---
+title: "Bonev c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/23052/index.do"
+last_modified: "2005-02-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 98"
+citation2: ""
+neutral_citation: "2005 TCC 98"
+decision_date: "2005-02-01"
+language: "en"
+item_id: "23052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2307
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:04:54.382000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c6c7bf69d38e1baff245442f62a24fe986ebda7ad8db59451a8a5b66fa213d92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bonev c. La Reine
+
+- Citation: 2005 TCC 98
+- Decision date: 2005-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2307, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonev c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-01
+Neutral citation
+2005 TCC 98
+File numbers
+2004-2999(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2999(IT)I
+BETWEEN:
+ROUMÈNE BONEV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard January 13, 2005, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Soleil Tremblay
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments established under the Income Tax Act for the taxation years 2001 and 2002 are denied, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of February 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 14th day of June 2005.
+Elizabeth Tan, Translator
+Citation: 2005TCC98
+Date: 20050201
+Docket: 2004-2999(IT)I
+BETWEEN:
+ROUMÈNE BONEV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals are for the taxation years 2001 and 2002.
+[2] The issue is to determine whether the Appellant may deduct amounts he paid directly to his son, $2,626 in 2001 and $9,537 in 2002, in accordance with paragraph 60(b) or section 60.1 of the Income Tax Act (the "Act").
+[3] On September 20, 2002, the Appellant received a letter from the Canada Customs and Revenue Agency (CCRA) regarding a deduction claim for $2,626 in support for 2001. This letter was submitted as Exhibit A-1 and states:
+[translation]
+We regularly implement review programs that play an important role in the self-assessment taxation system. This letter is to notify you that we have chosen your claim for review. However, to verify the accuracy of your assessment, we need more information.
+Amount being reviewed
+Support paid
+$2,626.00
+SUPPORT PAID
+In support of your claim, please provide us with the following information:
+- A complete and signed copy of the order, decree or court judgment, or signed copy of the written agreement that states the amount of support you were to pay for the year.
+If the original document was amended, please provide a copy of the latest corrections that were made. A written separation agreement is a document through which a person consents to make regular payments to provide for the needs of a spouse, former spouse, children of marriage, or both the spouse, former spouse and children of marriage. The agreement must be duly signed and dated by the two parties. It must also state the custody expectations and the names of the children for whom the payments are made, and the start date for the payments.
+[4] On September 26, 2003, the same type of letter was sent for 2002 for a deduction claim for $9,537 in support.
+[5] On November 11, 2002, the Appellant responded to the CCRA request by stating that he did not have the judgment in his possession. He stated, in part:
+[translation]
+...
+In 2001, my son finished his secondary studies (at the French high school in Sofia) and after doing well at his exams, he was accepted to the Université de Bordeaux as a student (Specialization-MIAS-MATHS and applied sciences). He studied full time and was completely (100%) dependent on me. For each year of schooling, I agreed before the French government to pay him minimum support payments of 6,000 Euros (45,000 FF). ...
+[6] The documents proving the amounts in question were submitted as Exhibits I-2 and I-3.
+[7] The Appellant produced Exhibit A-2, a document called "Agreement," signed by him and his son, dated 16/12/2002 and 21/01/03. In part, this document states at clause 3:
+[translation]
+Mr. Roumène Bonev agrees to pay support for a minimum amount of 5,600 Euros per year of schooling for undergraduate university studies (the first 2 years of schooling) and support payments of 6,600 Euros per year of schooling for graduate university studies (the last 3 years of schooling). The minimum amount of support is established by the French authorities.
+[8] The Appellant submitted Exhibit A-3, a statement signed by his former spouse. This statement says: [translation] "Roumen Boyanov Bonev has taken responsibility for maintaining our son, Boyan Roumenov Bonev, and during the period of January 2002 to December 2002, he paid education fees of US$450 in France each month for a total of US$5,400."
+[9] The translation of the divorce judgment rendered in Sofia, Bulgaria, on October 17, 1988, was submitted as Exhibit A-5. The judgment states that custody of the child born September 8, 1982 was granted to the mother. It also states:
+[translation]
+Sentences Roumen Boyanov Bonev to pay his minor child Boyan monthly support fees of 45 leva starting on the effective date of the decision and until there is a legal case for change or cancellation, and to pay the State a State tax on the amount of support of 64.80 leva and for the SUB, 0.65 leva.
+Analysis and conclusion
+[10] Paragraph 60(b) of the Act allows for deductions of support paid to a former spouse or a taxpayer in accordance with a judgment or written agreement between the parties. However, in this case, there is no evidence that a periodic amount was paid to the Appellant's former spouse.
+[11] The payments were made directly to the Appellant's son. The provisions that might apply are subsections 60.1(1) and (2) of the Act, which state:
+60.1(1) Support - For the purposes of paragraph 60(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount by a taxpayer to a person or for the benefit of the person, children in the person's custody or both the person and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by that person; and
+(b) when paid, is deemed to have been paid to and received by that person.
+60.1(2) Agreement - For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount (other than an amount that is otherwise a support amount) that became payable by a taxpayer in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense (other than an expenditure in respect of a self-contained domestic establishment in which the taxpayer resides or an expenditure for the acquisition of tangible property that is not an expenditure on account of a medical or education expense or in respect of the acquisition, improvement or maintenance of a self-contained domestic establishment in which the person described in paragraph (a) or (b) resides) incurred in the year or the preceding taxation year for the maintenance of a person, children in the person's custody or both the person and those children, where the person is
+(a) the taxpayer's spouse or common-law partner or former spouse or common-law partner, or
+(b) where the amount became payable under an order made by a competent tribunal in accordance with the laws of a province, an individual who is a parent of a child of whom the taxpayer is a natural parent,
+and
+B is the amount, if any, by which
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which that person resides, including any payment of principal or interest in respect of a loan made or indebtedness incurred to finance, in any manner whatever, such acquisition or improvement
+exceeds
+(b) the total of all amounts each of which is an amount equal to 1/5 of the original principal amount of a loan or indebtedness described in paragraph (a),
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+[12] Subsection 60.1(1) of the Act cannot apply because the amount paid to the son is not mentioned in the judgment. The Appellant admitted that the amounts set out in the judgment no longer mean anything. The judgment mentions a minor son. However, at the time of the payment, the son was of age. Moreover, applying this subsection requires discretion on the part of the former spouse as to how the amounts paid are used. The evidence did not reveal this.
+[13] As for the application of subsection 60.1(2) of the Act, payments made to a third party to benefit the former spouse or the children in the other parent's custody may be deductible if the order or written agreement sets out that subsection 60.1(2) and subsection 56.1(2) apply to an amount paid in their name. In this case, the amount paid would be considered support payments and could be deductible under paragraph 60(b) of the Act.
+[14] On one hand, the Appellant's son was of age in 2001. He was no longer a child under a parent's custody. See, to this effect, Curzi v. Canada, [1994] F.C.J. No. 154 (Q.L.), Miguelez v. Canada, [1998] T.C.J. No. 375 (Q.L.) and Joncas v. Canada, [2002] T.C.J. No. 411 (Q.L.).
+[15] On the other, there is no judgment or written agreement between the parties that sets out the amount of the payment in question and that the payments made to the son were to be considered as support received by the mother.
+[16] For these reasons, the appeals must be denied.
+Signed at Ottawa, Canada, this 1st day of February 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 14th day of June 2005.
+Elizabeth Tan, Translator
+CITATION:
+2005TCC98
+COURT FILE NUMBER:
+2004-2999(IT)I
+STYLE OF CAUSE:
+Roumène Bonev and The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 13, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+February 1, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Soleil Tremblay
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,323 @@
+---
+title: "Crédit Ford du Canada Limitée c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22418/index.do"
+last_modified: "2006-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 441"
+citation2: ""
+neutral_citation: "2006 CCI 441"
+decision_date: "2006-08-04"
+language: "fr"
+item_id: "22418"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2275
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:50:42.352000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c1d209008e42289d0d751a3dae4e809df70a22fabbfc4fd6226ea77e6f8c512d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crédit Ford du Canada Limitée c. La Reine
+
+- Citation: 2006 CCI 441
+- Decision date: 2006-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2275, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crédit Ford du Canada Limitée c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-04
+Référence neutre
+2006 CCI 441
+Numéro de dossier
+2005-4286(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4286(IT)G
+ENTRE :
+CRÉDIT FORD DU CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 4 juillet 2006, à Toronto (Ontario).
+Devant : L'honorable D. G. H. Bowman, juge en chef
+Comparutions :
+Avocat de l'appelante :
+Me David E. Spiro
+Avocats de l'intimée :
+Mes Harry Erlichman et
+Catherine Letellier de St-Just
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001, 2002 et 2003 sont accueillis avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il procède à un nouvel examen et à une nouvelle cotisation en tenant compte du fait que le montant de 1 170 000 000 $ relatif aux actions spéciales de la catégorie C qui figure aux bilans de la société à titre de passif ne doit pas être inclus dans le calcul du capital de l'appelante pour l'application de la partie I.3 de la Loi de l'impôt sur le revenu.
+Signé à Ottawa, Canada, ce 4e jour d'août 2006.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 28e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI441
+Date : 20060804
+Dossier : 2005-4286(IT)G
+ENTRE :
+CRÉDIT FORD DU CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s'agit d'appels à l'encontre de cotisations établies pour les années d'imposition 2001, 2002 et 2003. Les cotisations ont été établies en application de la partie I.3 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] La question est de savoir si l'appelante est tenue, selon le paragraphe 181.3(3) de la Loi, d'inclure dans le calcul de son capital le montant de ses actions privilégiées de la catégorie C rachetables au gré du porteur pour les besoins de l'impôt des grandes sociétés (ci-après l' « IGS » ). L'appelante n'a pas inclus ce montant dans le calcul de son capital et prétend qu'elle n'avait pas à le faire. L'intimée allègue que l'appelante aurait dû inclure le montant dans le calcul de son capital.
+[3] Les parties ont produit un exposé conjoint des faits, qui constitue l'annexe A des présents motifs. En outre, l'appelante a appelé un expert-comptable à témoigner.
+[4] Le paragraphe 181.1(1) soumet certaines catégories de sociétés à un impôt. Les sociétés en question sont assujetties à un impôt qui correspond à leur « capital imposable utilisé au Canada pour l'année » moins leur « abattement de capital » .
+[5] L'appelante est une « institution financière » visée par règlement pour l'application de la partie I.3. Selon le paragraphe 181.3(2), le capital imposable d'une institution financière correspond à l'excédent de son capital pour l'année sur sa déduction pour placements.
+[6] L'alinéa 181.3(3)a) est libellé en ces termes :
+(3) Le capital d'une institution financière pour une année d'imposition correspond à l'un des montants suivants :
+a) dans le cas d'une institution financière, sauf une banque étrangère autorisée ou une compagnie d'assurance, l'excédent éventuel du total des éléments suivants à la fin de l'année :
+(i) les dettes de son passif à long terme,
+(ii) son capital-actions (ou, si elle est constituée sans capital-actions, l'apport de ses membres), ses bénéfices non répartis, son surplus d'apport et tout autre surplus,
+(iii) ses réserves pour l'année, sauf dans la mesure où elles sont déduites dans le calcul de son revenu pour l'année selon la partie I,
+sur le total des montants suivants :
+(iv) le solde de son report débiteur d'impôt à la fin de l'année,
+(v) tout déficit déduit dans le calcul de l'avoir des actionnaires à la fin de l'année;
+(vi) tout montant déduit en application des paragraphes 130.1(1) ou 137(2) dans le calcul de son revenu pour l'année en vertu de la partie I, dans la mesure où il est raisonnable de considérer les déductions comme incluses dans l'un des montants calculés en application des sous-alinéas (i), (ii) ou (iii) relativement à l'institution financière pour l'année;
+[7] Les passages pertinents de cette disposition sont « (i) les dettes de son passif à long terme » et « (ii) son capital-actions [...] » . Il s'agit en l'espèce de savoir si les 1 170 000 actions spéciales de la catégorie C que l'appelante a émises à Ford Credit Canadian Lending LP font partie du « capital-actions » de la société. Bien que le comptable ait considéré les actions de la catégorie C comme un passif de la société pour les besoins du bilan et comme une dette de son passif à long terme sur le plan de la comptabilité, tel qu'il est indiqué ci-dessous, ces actions ne font pas partie du « passif à long terme » de la société au sens du paragraphe 181(1).
+[8] Les paragraphes 7, 8, 9 et 10 de l'exposé conjoint des faits sont rédigés en ces termes :
+[traduction]
+7. Le 23 juillet 2001, l'émission d'un maximum de 1 400 000 actions spéciales de la catégorie C a été dûment autorisée par l'appelante. Les actions spéciales de la catégorie C sont rachetables au gré du porteur.
+Recueil conjoint des documents, onglet 3, aux pages 24 à 30
+8. Le 25 juillet 2001, Ford Credit Canadian Lending, LP, par l'entremise de son commandité, Ford Credit International, Inc. a souscrit 1 170 000 actions spéciales de la catégorie C au prix de 1 000 $ par action.
+Recueil conjoint des documents, onglet 4, aux pages 31 et 32
+9. L'alinéa b) de la note 5, qui est ajoutée aux états financiers de l'appelante pour son exercice 2001, et l'alinéa c) de la note 6, qui est ajoutée aux états financiers de l'appelante pour les exercices 2002 et 2003, sont rédigés en ces termes :
+[traduction]
+Le 31 juillet 2001, la société Crédit Ford du Canada Limitée (ci-après appelée « Crédit Ford » ) a émis 1 170 000 actions autorisées, à savoir des actions spéciales de la catégorie C à dividende non cumulatif avec droit de vote qui sont rachetables et encaissables par anticipation, et ce, à un prix de 1 000 $ par action; ces actions sont indirectement détenues par Crédit Ford. Les actions spéciales de la catégorie C donnent droit à un dividende non cumulatif allant jusqu'à 10 % du capital déclaré des actions et la catégorie à laquelle elles appartiennent représente 10 % des actions avec droit de vote en circulation de la société. Étant donné que les actions privilégiées sont rachetables au gré du porteur à n'importe quel moment après le 31 juillet 2002, elles sont considérées comme étant un passif pour les besoins des états financiers.
+Recueil conjoint des documents, onglets 5, 6
+et 7, aux pages 43, 62 et 81
+10. PricewaterhouseCoopers LLP a formulé l'opinion suivante relativement aux états financiers consolidés de l'appelante pour l'exercice 2001 de celle-ci :
+[traduction]
+À notre avis, ces états financiers consolidés exposent fidèlement, à tous égards importants, la situation financière de Crédit Ford du Canada Limitée en date des 31 décembre 2001 et 2000, ainsi que les résultats de ses opérations et ses flux de trésorerie pour les exercices qui se sont terminés à ces dates selon les principes comptables généralement reconnus du Canada.
+Recueil conjoint des documents, onglet 8, à la page 88
+[9] PricewaterhouseCoopers LLP a exprimé la même opinion relativement aux exercices 2002 et 2003 de l'appelante. De plus, les parties conviennent que les bilans pour les exercices 2001, 2002 et 2003 ont été dressés selon les principes comptables généralement reconnus (ci-après les « PCGR » ).
+[10] L'appelante a appelé à témoigner M. Robert Lefrançois, FCA, en tant qu'expert-comptable. Il est un associé au sein du bureau national de Deloitte & Touche LLP.
+[11] Son rapport et son témoignage étaient exhaustifs. Il n'a pas été contre-interrogé. Je donnerai ci-après un peu plus de précisions au sujet de son témoignage, mais, pour l'essentiel, il a témoigné que le fait que les actions spéciales de la catégorie C figurent au bilan consolidé de l'appelante dans la catégorie du « passif » plutôt que comme faisant partie des capitaux propres est conforme aux PCGR. La pertinence de cette conclusion dans le contexte de la présente affaire découle du paragraphe 181(3) de la Loi, qui est rédigé en partie ainsi :
+Pour déterminer la valeur comptable d'un des éléments d'actif d'une société ou tout autre montant en vertu de la présente partie afférent au capital d'une société, à sa déduction pour placements, à son capital imposable et à son capital imposable utilisé au Canada pour une année d'imposition ou afférent à une société de personnes dans laquelle une société a une participation :
+a) la consolidation et la méthode de comptabilisation à la valeur de consolidation ne peuvent être utilisées;
+b) sous réserve de l'alinéa a) et sauf disposition contraire de la présente partie, les montants à utiliser sont les suivants :
+(i) soit ceux qui figurent au bilan présenté aux actionnaires de la société - s'il s'agit d'une société qui n'est ni une compagnie d'assurance à laquelle le sous-alinéa (ii) s'applique, ni une banque - ou aux associés de la société de personnes, ou, si un tel bilan n'est pas dressé conformément aux principes comptables généralement reconnus ou si aucun bilan n'est dressé, ceux qui y figureraient si un tel bilan était dressé conformément à ces principes,
+[...]
+[12] Autrement dit, il faut accepter le bilan présenté aux actionnaires, et si celui-ci n'a pas été dressé conformément aux PCGR, les montants à utiliser sont ceux qui figureraient à un tel bilan s'il avait été dressé conformément aux PCGR.
+[13] Le témoignage de M. Lefrançois révèle clairement que les actions de la catégorie C devaient être classées dans le passif de la société et qu'un comptable qui établit les états financiers doit nécessairement les traiter ainsi et ne peut décider de les traiter autrement, comme dans les capitaux propres.
+[14] Selon M. Lefrançois, ce traitement comptable découle du fait que, sur le plan comptable, le fond l'emporte sur la forme. Son rapport expose les traits saillants des actions de la catégorie C qui, selon lui, expliquent pourquoi celles-ci sont considérées comme étant du passif de la société dans le bilan. Il n'est probablement pas nécessaire de répéter les clauses dont sont assorties les actions - elles sont rachetables et encaissables par anticipation - mais, dans une certaine mesure, certaines d'entre elles donneront plus de sens aux conclusions du comptable. Le texte suivant figure dans le rapport de l'expert :
+[traduction]
+a) Quelles sont les caractéristiques pertinentes des actions spéciales de la catégorie C en ce qui concerne les PCGR?
+Une description détaillée des modalités se rapportant aux 1 400 000 actions spéciales de la catégorie C autorisées par la société se trouve dans le certificat de modification délivré en vertu de la Loi canadienne sur les sociétés par actions en date du 24 juillet 2001. En ce qui concerne la présentation appropriée selon les PCGR, les traits saillants des actions en question sont les suivants :
+* * *
+6.3 Rachat − La société peut de temps à autre, après avoir avisé les détenteurs des actions devant faire l'objet du rachat par écrit pour préciser le nombre d'actions à racheter et la date du rachat, laquelle doit se situer à l'intérieur de la période commençant cinq jours après la transmission de l'avis et se terminant trente jours après celle-ci, racheter à cette date ou à une date ultérieure tout ou partie des actions spéciales de la catégorie C au prix de rachat. Si ce ne sont pas toutes les actions spéciales de la catégorie C qui doivent être rachetées, les actions visées doivent être rachetées proportionnellement au nombre d'actions spéciales de la catégorie C détenues par chacun des détenteurs ou d'une autre façon établie par les administrateurs avec le consentement de tous les détenteurs des actions spéciales de la catégorie C. À partir de la date de rachat, les détenteurs des actions faisant l'objet du rachat n'ont aucun droit relativement à ces dernières, sans égard à toute date de clôture des registres déjà fixée, à moins que le paiement de la contrepartie des actions concernées ne soit pas fait selon les modalités énoncées ci-après, auquel cas (en plus de tout autres droits ou recours) les droits de leurs détenteurs demeurent intacts, sauf pour la réception du paiement du prix de rachat, sans intérêts, dans les cinq jours suivant la présentation et la remise en bonne et due forme des certificats relatifs aux actions concernées au siège social de la société.
+6.4 Rachat au gré du porteur - Tous les détenteurs des actions spéciales de la catégorie C peuvent de temps à autre, après avoir avisé la société par écrit après le 31 juillet 2002 pour préciser le nombre d'actions à racheter et la date du rachat, laquelle doit se situer à l'intérieur de la période commençant cinq jours après la transmission de l'avis et se terminant trente jours après celle-ci, exiger que la société rachète tout ou partie des actions spéciales de la catégorie C détenues par de tels détenteurs au prix de rachat. À partir de la date de rachat, les détenteurs des actions faisant l'objet du rachat n'ont aucun droit relativement à ces dernières, sans égard à toute date de clôture des registres déjà fixée, à moins que le paiement de la contrepartie des actions concernées ne soit pas fait selon les modalités énoncées ci-après, auquel cas (en plus de tout autre droit ou recours) les droits de leurs détenteurs demeurent intacts, sauf pour la réception du paiement du prix de rachat, sans intérêts, dans les cinq jours suivant la présentation et la remise en bonne et due forme des certificats relatifs aux actions concernées au siège social de la société.
+* * *
+6.6 Dissolution − En cas de liquidation ou de dissolution de la société, volontaire ou non, ou de toute autre distribution des éléments d'actif de la société entre ses actionnaires pour mettre fin à ses activités, les détenteurs des actions spéciales de la catégorie C ont le droit, après remboursement des dettes ou des autres passifs de la société ou constitution d'une provision connexe et après paiement des montants payables dans un tel cas aux détenteurs des actions spéciales de la catégorie A et des actions spéciales de la catégorie B, mais avant toute distribution aux détenteurs d'actions ordinaires, de recevoir un montant équivalant au total du capital déclaré de toutes les actions spéciales de la catégorie C qu'ils détiennent à ce moment, en plus de tous les dividendes déclarés non versés sur les actions en question, mais n'ont pas le droit de participer davantage aux actifs de la société. Si le montant disponible n'est pas suffisant pour payer les montants intégraux dus à tous les détenteurs des actions spéciales de la catégorie C, ceux-ci se partageront le montant disponible proportionnellement aux montants qu'ils recevraient respectivement s'ils recevaient les montants intégraux auxquels ils auraient normalement droit.
+6.7 Prix de rachat − Pour les besoins des dispositions ci-dessus, le « prix de rachat » s'entend d'un montant relatif à une action spéciale de la catégorie C rachetée qui équivaut au capital déclaré par action spéciale de la catégorie C, plus un montant équivalant à tout dividende déclaré sur l'action qui est non versé à la date du paiement de la contrepartie de celle-ci.
+[15] Selon le témoin expert, vu qu'elles ont les caractéristiques susmentionnées, les actions de la catégorie C doivent, conformément aux PCGR, figurer aux bilans comme étant du passif de la société et non comme étant des capitaux propres de celle-ci. Le Manuel de l'Institut Canadien des Comptables Agréés (ci-après l' « ICCA » ) qui était en vigueur pendant les années en cause renferme les définitions suivantes :
+DÉFINITIONS
+Les définitions qui suivent s'appliquent au présent chapitre :
+a) Instrument financier - contrat qui est à la fois la source d'un actif financier pour une partie, et la source d'un passif financier ou d'un instrument de capitaux propres pour une autre partie.
+b) Actif financier - l'un ou l'autre des actifs suivants :
+(i) liquidités;
+(ii) droit contractuel de recevoir des liquidités ou tout autre actif financier d'une autre partie;
+(iii) droit contractuel d'échanger des instruments financiers avec une autre partie dans des conditions potentiellement avantageuses;
+(iv) instrument de capitaux propres d'une autre entité.
+c) Passif financier - tout passif qui représente une obligation contractuelle :
+(i) soit de livrer des liquidités ou de transférer un actif financier à une autre partie;
+(ii) soit d'échanger des instruments financiers avec une autre partie dans des conditions potentiellement désavantageuses.
+d) Instrument de capitaux propres - contrat qui constate un droit résiduel sur l'actif d'une entité, après déduction de tout son passif.
+e) Actif financier ou passif financier monétaires (aussi appelés instruments financiers monétaires) - actif financier ou passif financier à recevoir ou à payer sous forme de sommes d'argent déterminées ou déterminables.
+PRÉSENTATION
+Passif et capitaux propres
+L'émetteur d'un instrument financier doit classer l'instrument (ou ses composantes) dans le passif ou les capitaux propres, selon la substance du contrat au moment de la constatation initiale et conformément aux définitions du passif financier et de l'instrument de capitaux propres.
+[JANV. 1996]
+C'est la substance ou réalité économique de l'instrument financier, et non sa forme ou son apparence juridique, qui en détermine le classement dans le bilan de l'émetteur. La forme juridique d'un instrument est généralement conforme à sa substance, mais ce n'est pas toujours le cas. Ainsi, certains instruments financiers ont l'apparence juridique d'instruments de capitaux propres bien qu'ils soient en réalité des passifs, et d'autres combinent à la fois des caractéristiques associées aux instruments de capitaux propres et des caractéristiques associées aux passifs financiers. Le classement d'un instrument financier est fonction de l'appréciation de sa substance au moment de sa constatation initiale, et ce classement reste inchangé par la suite à chaque date d'arrêté des comptes, jusqu'à ce que l'instrument soit sorti du bilan de l'entité.
+La caractéristique déterminante pour distinguer un passif financier d'un instrument de capitaux propres est l'obligation contractuelle de l'une des parties à l'instrument financier (l'émetteur) soit de livrer des liquidités ou un autre actif financier à l'autre partie (le détenteur), soit d'échanger avec le détenteur un autre instrument financier dans des conditions potentiellement désavantageuses pour l'émetteur. Lorsque l'instrument financier comporte une telle obligation contractuelle, il répond à la définition du passif financier, quelle que soit la façon dont l'obligation sera exécutée. Toute restriction de la capacité de l'émetteur de remplir une obligation, par exemple l'inaccessibilité d'une devise ou la nécessité d'obtenir une autorisation de paiement auprès d'une autorité de réglementation, n'annule pas l'obligation de l'émetteur ou le droit du détenteur qui sont rattachés à l'instrument.
+Lorsqu'un instrument financier ne donne pas lieu à une obligation contractuelle pour l'émetteur de livrer des liquidités ou un autre actif financier, ou d'échanger un autre instrument financier dans des conditions potentiellement désavantageuses, il s'agit d'un instrument de capitaux propres. Bien que le détenteur d'un instrument de capitaux propres puisse avoir droit à une part proportionnelle des dividendes ou des autres distributions de sommes prélevées sur les capitaux propres, l'émetteur n'a aucune obligation contractuelle d'effectuer de telles distributions. Ainsi, les conditions dont sont assorties certaines actions privilégiées font que celles-ci répondent à la définition de l'instrument de capitaux propres et qu'elles sont classées en conséquence.
+Lorsqu'une action privilégiée comporte l'obligation pour l'émetteur de racheter l'action à un prix déterminé ou déterminable et à une date ultérieure déterminée ou déterminable, ou confère au détenteur le droit d'exiger que l'émetteur rachète l'action à une date donnée ou à compter d'une date donnée à un prix déterminé ou déterminable, l'instrument répond à la définition du passif financier et il est classé comme tel. Une action privilégiée qui n'est pas explicitement assortie d'une telle obligation contractuelle peut l'être implicitement en raison des conditions qui y sont rattachées. Par exemple, une action privilégiée qui ne prévoit aucune obligation de rachat pour l'émetteur ni aucun droit au rachat pour le détenteur peut être assortie d'une disposition contractuelle prévoyant le versement d'un dividende croissant qui se traduira, dans un avenir prévisible, par un rendement si élevé que l'émetteur sera forcé, pour des raisons économiques, de racheter l'instrument. Dans un tel cas, il convient de classer l'action comme un passif financier parce que l'émetteur se trouve pour ainsi dire forcé de racheter l'instrument. De même, lorsqu'un instrument financier qualifié d'action confère à son détenteur l'option d'en exiger le rachat et que l'exigibilité du rachat est subordonnée à un événement futur dont la réalisation est très probable, le classement de l'instrument comme passif financier au moment de sa constatation initiale traduit bien la substance de l'instrument.
+[16] M. Lefrançois a retracé l'évolution, depuis 1996, des règles comptables en ce qui concerne la présentation, dans les bilans, d'instruments financiers, comme les actions spéciales de la catégorie C. Aucun des changements apportés au fil des ans ne jette le doute sur la proposition voulant que le fait que ces actions figuraient aux bilans comme du passif de la société dans les années en cause était non seulement conforme aux PCGR, mais également qu'il s'agissait de la seule façon possible de les traiter en vertu des PCGR.
+[17] La façon de traiter ces actions conformément aux PCGR n'est guère surprenante. Elle ressemble à ce que les cours reconnaissent depuis plus d'un demi-siècle, à savoir que la situation des actionnaires privilégiés ressemble sur le plan économique, sinon juridique, à celle des porteurs de débentures.
+[18] Dans l'arrêt In re The Isle of Thanet Electricity Supply Co. Ltd., [1950] 1 Ch. 161, à la page 175, le maître des rôles Evershed a dit ce qui suit :
+[traduction]
+Pour ma part, j'estime que dans les soixante ans qui se sont écoulés depuis que l'affaire Birch v. Cropper (6) a été portée devant la Chambre des lords, l'opinion des tribunaux pourrait, en quelque sorte, avoir changé en ce qui concerne les droits relatifs des actionnaires privilégiés et ordinaires et en ce qui concerne la situation désavantageuse dans laquelle se trouvent les actionnaires privilégiés. La situation de ces derniers s'est plutôt rapprochée, pendant la période susmentionnée, au rôle que lord Horace Davey avait tenté de leur assigner, mais que le lord Macnaghten a rejeté dans l'arrêt Birch v. Cropper (6), à savoir le rôle de porteurs de débentures.
+[19] Me Erlichman prétend avec beaucoup de vigueur que, malgré le libellé du paragraphe 181(3), le terme « capital-actions » qui figure à l'alinéa 181.3(3)a) s'entend bien du capital-actions dans son sens normal, et que le fait que le capital-actions composé d'actions spéciales de la catégorie C rachetables et encaissables par anticipation soit considéré comme étant du passif pour les besoins du bilan n'a aucune importance. Je serais d'accord avec Me Erlichman si ce n'était du paragraphe 181(3). Je ne vois rien dans les décisions invoquées par Me Spiro dans ses observations écrites sous l'en-tête [traduction] « Interprétation judiciaire des lois provinciales sur l'impôt sur le capital ne comportant pas l'équivalent du paragraphe 181(3) » qui appuierait la position selon laquelle, si le paragraphe 181(3) n'existait pas, il ne faudrait pas donner au terme « capital-actions » son sens juridique courant. Si le paragraphe 181(3) n'existait pas, les actions spéciales de la catégorie C feraient partie du capital-actions de la société même si les comptables pourraient les considérer, pour des raisons ayant trait à la réalité économique, comme étant du passif de la société. Il est vrai que, de façon générale, il faut donner aux notions comptables non définies un sens qui leur serait donné par les comptables : voir Canfor Limited v. Minister of Finance for British Columbia, [1976] C.T.C. 429, à la page 431; [1977] C.T.C. 269; [1978] 1 R.C.S. 1047; Upper Lakes Shipping Ltd. v. M.N.R., [1998] 3 C.T.C. 281; Reford v. M.N.R., 71 DTC 5053. Néanmoins, les principes énoncés dans ces décisions ne permettent pas, en l'absence d'une directive législative expresse, qu'un traitement courant dans le domaine de la comptabilité l'emporte sur le sens juridique des termes que leur donne la Loi. Autrement dit, lorsque les circonstances le justifient, il faut donner aux notions comptables un sens qui est familier aux comptables. Toutefois, cela ne veut pas dire que, si les termes ont un sens juridique clair, on peut faire abstraction de ceux-ci lorsque les comptables peuvent leur attribuer un sens différent en raison du principe selon lequel le fond l'emporte sur la forme. Toutefois, si le législateur veut que l'on fasse cela, il a clairement le pouvoir d'établir une règle à cet égard.
+[20] La seule disposition que peut invoquer l'appelante pour obtenir gain de cause est le paragraphe 181(3).
+[21] L'appelante a reproduit le paragraphe 181(3) de la façon suivante :
+Pour déterminer la valeur comptable d'un des éléments d'actif d'une société ou tout autre montant en vertu de la présente partie afférent au capital d'une société, à sa déduction pour placements, à son capital imposable et à son capital imposable utilisé au Canada pour une année d'imposition [...] :
+a) la consolidation et la méthode de comptabilisation à la valeur de consolidation ne peuvent être utilisées;
+b) sous réserve de l'alinéa a) et sauf disposition contraire de la présente partie, les montants à utiliser sont les suivants :
+(i) [...] ceux qui figurent au bilan présenté aux actionnaires de la société [...] dressé conformément aux principes comptables généralement reconnus [...].
+[22] J'ai reproduit tout le paragraphe 181(3) ci-dessus, et je pense que le fait que certaines parties aient été supprimées du texte porte à confusion. Le texte qui reste après la suppression des parties en question donne l'impression que l'expression « dressé conformément aux principes comptables généralement reconnus » se rapporte au terme « bilan » qui figure également au sous-alinéa (i). Il se peut qu'il soit nécessaire de conclure qu'il s'agit bien du sens voulu compte tenu de l'ensemble du paragraphe 181(3), et ce, étant donné que le bilan présenté aux actionnaires est dressé conformément aux PCGR parce que, s'il ne l'était pas, il faudrait formuler une hypothèse sur la façon dont les montants auraient été présentés si les bilans avaient été dressés conformément aux PCGR. Il se peut que cela revienne au même, mais les expressions « dressé conformément aux principes comptables généralement reconnus » et « présenté aux actionnaires » mettent l'accent sur des éléments légèrement différents ( « the amounts reflected in the balance sheet presented to the shareholders [...] » dans la version anglaise).
+[23] Quoi qu'il en soit, nous avons en l'espèce un bilan qui a clairement été dressé conformément aux PCGR, et le « montant » des actions spéciales de la catégorie C est classé dans le passif de la société (mais pas dans le « passif à long terme » au sens du paragraphe 181) et non dans son capital-actions.
+[24] Me Erlichman a présenté tous les arguments possibles, mais, avec tout le respect que je lui dois, je ne pense pas qu'il peut contourner le fait que le législateur a, dans ce cas-ci, donné aux comptables et aux PCGR un rôle que ni le législateur ni les cours n'ont jugé approprié de leur accorder en l'absence d'une disposition expresse. De façon générale, les cours canadiennes saisies de questions fiscales font preuve de très peu de retenue vis-à-vis des PCGR (voir Ikea Limited v. The Queen, 94 DTC 1112 (CCI), 96 DTC 6526 (CAF), 98 DTC 6092 (CSC)). Selon la partie I.3, elles doivent faire preuve d'une telle retenue. Me Erlichman a dit ce qui suit au paragraphe 23 de ses observations écrites :
+[traduction]
+Si la Cour accepte que les actions spéciales de la catégorie C soient exclues de l'application du paragraphe 181(3) de la Loi et qu'elle conclut qu'il faut faire preuve de retenue vis-à-vis des principes comptables, même si les termes en cause ne se rapportent pas exclusivement à la comptabilité, cela aura pour résultat de laisser à un groupe de comptables non élu le soin de déterminer l'assiette fiscale pour les besoins de l'impôt des grandes sociétés.
+[25] Cette perspective risque d'être un peu contrariante pour les avocats et les juges, mais je crois qu'il s'agit précisément de ce qu'il faut faire selon le législateur et de ce que la Cour et la Cour d'appel fédérale ont fait.
+[26] La partie I.3 ne porte pas sur le calcul du revenu, fonction que les cours protègent jalousement. Elle se rapporte à l'impôt sur le capital et à l'assiette du calcul de cet impôt. Il n'est pas surprenant que le législateur précise que nous devons tenir compte de la façon dont les comptables mesurent cette assiette. Comme le juge Archambault l'a dit dans la décision Oerlikon Aérospatiale Inc. v. The Queen, [1998] 4 C.T.C. 2821, à la p. 2838 :
+[...] je crois que les principes comptables doivent servir à déterminer non seulement la valeur mais aussi la nature des éléments mentionnés au paragraphe 181.2(3) de la Loi. La valeur que l'on retrouve dans un bilan n'a un sens que lorsqu'on la rattache à un intitulé.
+[27] À la page 2834, il a dit ce qui suit :
+Quant à la portée de l'expression « réserves » , il faut noter que la Loi nous fournit une définition de cette expression à l'article 181. Toutefois, il s'agit d'une définition dans laquelle on retrouve le mot même à être défini. En effet, on définit le mot « réserves » comme étant « l'ensemble des réserves [...] d'une corporation » . Cette définition précise toutefois que le mot « réserves » , tel qu'il est utilisé dans la partie I.3, comprend les « provisions » et « réserves pour impôts reportés » mais non les provisions pour épuisement et l'amortissement cumulé.
+Cette définition ne précise donc pas en quoi consiste une réserve pour les fins de la partie I.3. Il faut en conséquence s'en remettre au sens usuel de cette expression telle qu'elle est utilisée dans le monde comptable. L'Institut Canadien des Comptables Agréés, de même que l'Ordre des experts comptables de France et l'Institut des Réviseurs d'Entreprises de Belgique ont collaboré à la confection du Dictionnaire de la comptabilité et de la gestion financière (Dictionnaire de la comptabilité). Ce dictionnaire donne trois sens à l'expression anglaise « reserve » à la page 631, dont deux sont pertinents ici :
+[28] La décision de la Cour canadienne de l'impôt a été confirmée par la Cour d'appel fédérale, [1999] 4 C.T.C. 358.
+[29] Dans la décision Manufacturers Life Insurance Company v. The Queen, [2000] 1 C.T.C. 2481, le juge O'Connor de la Cour a statué que le ministre du Revenu national devait accepter les qualifications figurant aux bilans pour le calcul du capital du contribuable. En confirmant la décision, le juge Rothstein de la Cour d'appel fédérale a dit ce qui suit à la page 175 :
+Le ministre persiste tout de même à prétendre qu'il y aurait lieu de donner aux termes « réserves » et « surplus » une définition plus générale. Cet argument semble se fonder uniquement sur une mention faite dans la décision Oerlikon Aérospatiale Inc. c. Sa Majesté la Reine, 99 D.T.C. 5318 (C.A.F.), selon laquelle une « avance » doit figurer dans le capital parce qu'elle contribue aux « ressources financières à la disposition de l'appelante » . Le ministre soutient qu'en l'espèce, les gains réalisés et non amortis constituent des ressources financières qui sont à la disposition de l'intimée. Toutefois, l'argument du ministre ne tient pas compte de ce qu'a effectivement dit le juge Noël dans l'affaire Oerlikon :
+Une avance soit-elle du type avance-acompte ou avance-prêt a comme effet de mettre à la disposition de celle ou celui qui en bénéficie la somme d'argent qu'elle représente. Ici, les avances faisaient partie intégrante des ressources financières à la disposition de l'appelante à la clôture de son année d'imposition 1989 selon les états financiers qu'elle a produits et rien dans le texte législatif ou dans la politique fiscale qui mena à son adoption n'indique que le législateur fédéral aurait voulu les exclure de l'impôt de la partie I.3.
+En l'espèce, les gains réalisés et non amortis ne figurent pas à titre de ressources financières à la disposition de l'intimée dans ses états financiers.
+[30] Dans le même ordre d'idées, le juge Bowie de la Cour a dit ce qui suit dans la décision PCL Construction Management Inc. v. The Queen, [2001] 1 C.T.C. 2132, à la page 2147 :
+Sauf si une autre disposition de la partie I.3 de la Loi prescrit expressément le contraire, il faut appliquer les PCGR pour déterminer « les montants » . Cela semble être une indication très claire qu'à défaut d'appliquer les PCGR il faut à tout le moins utiliser le « langage des comptables » pour qualifier les montants aux fins de cette partie.
+[31] Dans la décision Royal Trust Company v. The Queen, [2001] 3 C.T.C. 2268, le juge Sarchuk a dit ce qui suit aux pages 2291 à 2292 :
+Je suis convaincu que le sens à attribuer au terme non défini « bien corporel » doit être en fonction de son contexte immédiat ainsi que la partie I.3 prise dans son ensemble. Dans cette partie de la Loi, on se fonde sur les bilans et les PCGR pour déterminer le « capital imposable utilisé au Canada » d'une société. Il apparaît raisonnable de conclure que les termes techniques se rapportant au bilan doivent être définis et interprétés pour l'application de la partie I.3, conformément à la terminologie comptable. Les appelantes ont donc eu raison de ne pas inclure la valeur comptable des actifs dans leur « capital imposable utilisé au Canada » respectif, puisqu'elles n'avaient pas de « biens corporels » pour l'application du paragraphe 181.3(1).
+[32] Ce qui se dégage de ces décisions et, en fait, du sens ordinaire du paragraphe 181(3) c'est que la qualification comptable des termes figurant au bilan doit être acceptée lorsqu'il s'agit de déterminer les éléments constitutifs du capital de la société pour l'application de la partie I.3. Lorsqu'il a expressément attribué aux principes comptables une fonction qui est quelque peu unique en matière fiscale, le législateur voulait faire en sorte que l'on fasse preuve de retenue vis-à-vis de la qualification comptable des éléments du capital figurant aux bilans de la société.
+[33] Les appels sont accueillis avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il procède à un nouvel examen et à une nouvelle cotisation en tenant compte du fait que le montant de 1 170 000 000 $ relatif aux actions spéciales de la catégorie C qui figure aux bilans de la société à titre de passif de la société ne doit pas être inclus dans le calcul du capital de l'appelante pour l'application de la partie I.3 de la Loi.
+Signé à Ottawa, Canada, ce 4e jour d'août 2006.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 28e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2006CCI441
+NO DU DOSSIER :
+2005-4286(IT)G
+INTITULÉ :
+Crédit Ford du Canada Limitée c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 4 juillet 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable D. G. H. Bowman, juge en chef
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 4 août 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me David E. Spiro
+Avocats de l'intimée :
+Mes Harry Erlichman et
+Catherine Letellier de St-Just
+AVOCATS INSCRITS AU DOSSIER :
+Avocat de l'appelante :
+Nom :
+Me David E. Spiro
+Cabinet :
+Blake, Cassels & Graydon LLP
+Toronto (Ontario)
+Avocat de l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Annexe A
+[traduction]
+Énoncé conjoint des faits
+Les parties conviennent que, pour les besoins de la présente instance et pour tout autre appel ultérieur, les faits exposés ci-après sont véridiques. Les deux parties peuvent présenter d'autres éléments de preuve admissibles, y compris des preuves d'expert, qui ne sont pas incompatibles avec les faits ou les documents mentionnés ci-après. Les parties conviennent également de l'authenticité des documents dont il est question ci-après, mais ont le droit de prouver l'existence de tout document supplémentaire, dans la mesure où celui-ci n'est pas incompatible avec les documents ou les faits mentionnés ci-après.
+1. L'appelante a été constituée en société le 23 juillet 1962 en vertu des lois du Canada et a été prorogée sous le régime de la Loi canadienne sur les sociétés par actions le 5 décembre 1980.
+Recueil conjoint des documents, onglet 1,
+aux pages 1 à 13
+2. Toutes les actions autorisées et émises de l'appelante sont détenues par Ford Credit International Inc., une filiale à cent pour cent de la Ford Motor Credit Company (ci-après appelée « Ford Credit » ). Ford Credit est une filiale à cent pour cent indirecte de la société Ford du Canada.
+3. Pendant toutes les périodes pertinentes, l'appelante fournissait des services de financement sur stocks et des prêts de capital à des concessionnaires autorisés de la Ford du Canada Limitée et achetait des contrats de vente à tempérament de détail et des contrats de location de détail de ces concessionnaires. L'appelante consentait également des prêts aux sociétés de location de véhicules dont la plupart étaient affiliées aux concessionnaires.
+4. L'appelante est une institution financière au sens du paragraphe 181(1) de la Loi de l'impôt sur le revenu (la « Loi » ) et est assujettie à l'impôt de la partie I.3 de la Loi.
+5. Le 5 décembre 1980, l'émission d'un maximum de 410 630 actions spéciales de la catégorie A a été dûment autorisée par l'appelante. Les actions spéciales de la catégorie A ne sont pas rachetables au gré du porteur.
+Recueil conjoint des documents, onglet 1,
+aux pages 1 à 13
+6. Le 9 juillet 1981, l'émission d'un maximum de 2 400 actions spéciales de la catégorie B a été dûment autorisée par l'appelante. Les actions spéciales de la catégorie B ne sont pas rachetables au gré du porteur.
+Recueil conjoint des documents, onglet 2
+aux pages 14 à 23
+7. Le 23 juillet 2001, l'émission d'un maximum de 1 400 000 actions spéciales de la catégorie C a été dûment autorisée par l'appelante. Les actions spéciales de la catégorie C sont rachetables au gré du porteur.
+Recueil conjoint des documents, onglet 3,
+aux pages 24 à 30
+8. Le 25 juillet 2001, Ford Credit Canadian Lending, LP, par l'entremise de son commandité, Ford Credit International, Inc. a souscrit 1 170 000 actions spéciales de la catégorie C au prix de 1 000 $ par action.
+Recueil conjoint des documents, onglet 4,
+aux pages 31 et 32
+9. L'alinéa b) de la note 5, qui est ajoutée aux états financiers de l'appelante pour son exercice 2001, et l'alinéa c) de la note 6, qui est ajoutée aux états financiers de l'appelante pour les exercices 2002 et 2003, sont rédigés en ces termes :
+[traduction]
+Le 31 juillet 2001, la société Crédit Ford du Canada Limitée (ci-après appelée « Crédit Ford » ) a émis 1 170 000 actions autorisées, à savoir des actions spéciales de la catégorie C à dividende non cumulatif avec droit de vote qui sont rachetables et encaissables par anticipation, et ce, à un prix de 1 000 $ par action; ces actions sont indirectement détenues par Crédit Ford. Les actions spéciales de la catégorie C donnent droit à un dividende non cumulatif allant jusqu'à 10 % du capital déclaré des actions et la catégorie à laquelle elles appartiennent représente 10 % des actions avec droit de vote en circulation de la société. Étant donné que les actions privilégiées sont encaissables par anticipation au gré du détenteur à n'importe quel moment après le 31 juillet 2002, elles sont considérées comme étant un passif pour les besoins des rapports financiers.
+Recueil conjoint des documents, onglets 5, 6 et 7, aux pages 43, 62 et 81
+10. PricewaterhouseCoopers LLP a formulé l'opinion suivante relativement aux états financiers consolidés de l'appelante pour l'exercice 2001 de celle-ci :
+[traduction]
+À notre avis, ces états financiers consolidés exposent fidèlement, à tous égards importants, la situation financière de Crédit Ford du Canada Limitée en date des 31 décembre 2001 et 2000, ainsi que les résultats de ses opérations et ses flux de trésorerie pour les exercices qui se sont terminés à ces dates selon les principes comptables généralement reconnus du Canada.
+Recueil conjoint des documents, onglet 8,
+à la page 88
+11. PricewaterhouseCoopers LLP a formulé l'opinion suivante relativement aux bilans consolidés de l'appelante pour l'exercice 2002 de celle-ci :
+[traduction]
+À notre avis, ces états financiers consolidés exposent fidèlement, à tous égards importants, la situation financière de la société en date des 31 décembre 2002 et 2001, ainsi que les résultats de ses opérations et ses flux de trésorerie pour les exercices qui se sont terminés à ces dates selon les principes comptables généralement reconnus du Canada.
+Recueil conjoint des documents, onglet 9,
+à la page 106
+12. PricewaterhouseCoopers LLP a formulé l'opinion suivante relativement aux bilans consolidés de l'appelante pour l'exercice 2003 de celle-ci :
+[traduction]
+À notre avis, ces états financiers consolidés exposent fidèlement, à tous égards importants, la situation financière de la société en date des 31 décembre 2003 et 2002, ainsi que les résultats de ses opérations et ses flux de trésorerie pour les exercices qui se sont terminés à ces dates selon les principes comptables généralement reconnus du Canada.
+Recueil conjoint des documents, onglet 10,
+à la page 128
+13. Les bilans pour chacun des exercices 2001, 2002 et 2003 ont été présentés à l'unique actionnaire de l'appelante, Ford Credit, et ont été dressés conformément aux PCGR.
+14. L'appelante a produit des déclarations pour ses années d'imposition 2001, 2002 et 2003 en fonction du fait que le montant de son « capital-actions » au sens du sous-alinéa 181.3(3)a)(ii) de la Loi ne comprenait pas le montant des actions spéciales de la catégorie C.
+15. Dans la nouvelle cotisation datée du 13 décembre 2004 pour l'année d'imposition 2001 de l'appelante, le ministre du Revenu national (le « ministre » ) a fixé à 2 553 069 $ le montant supplémentaire de l'impôt des grandes sociétés (ci-après appelé l' « IGS » ) dû par l'appelante, en plus de l'intérêt couru sur ce montant.
+Recueil conjoint des documents, onglet 11,
+aux pages 149 à 155
+16. Dans la nouvelle cotisation datée du 13 décembre 2004 pour l'année d'imposition 2002 de l'appelante, le ministre a fixé à 2 632 500 $ le montant supplémentaire de l'IGS dû par l'appelante, en plus de l'intérêt couru sur ce montant.
+Recueil conjoint des documents, onglet 12,
+aux pages 156 à 162
+17. Dans la nouvelle cotisation datée du 13 décembre 2004 pour l'année d'imposition 2003 de l'appelante, le ministre a fixé à 2 632 500 $ le montant supplémentaire de l'IGS dû par l'appelante, en plus de l'intérêt couru sur ce montant.
+Recueil conjoint des documents, onglet 13,
+aux pages 163 à 171
+18. Le fondement de chacune des nouvelles cotisations est que le montant du « capital-actions » de l'appelante pour les années d'imposition 2001, 2002 et 2003, au sens du sous-alinéa 181.3(3)a)(ii) de la Loi, comprenait le montant des actions spéciales de la catégorie C.
+19. Le 11 mars 2005, l'appelante s'est opposée aux nouvelles cotisations établies pour ses années d'imposition 2001, 2002 et 2003 et a signifié des avis d'opposition au ministre du Revenu national conformément au paragraphe 165(1) de la Loi.
+Recueil conjoint des documents, onglet 14,
+aux pages 172 à 185
+20. Le 21 octobre 2005, le ministre a ratifié les nouvelles cotisations conformément au paragraphe 165(3) de la Loi.
+Recueil conjoint des documents, onglet 15,
+à la page 186
+21. La question à trancher est de savoir si le montant du « capital-actions » de l'appelante pour ses années d'imposition 2001, 2002 et 2003, au sens du sous-alinéa 181.3(3)a)(ii) de la Loi, comprenait le montant de ses actions spéciales de la catégorie C. L'intimée prétend que oui, mais l'appelante prétend que non.
+Fait à Toronto, ce 26e jour de mai 2006.
+___________________________ Avocat de l'appelante
+BLAKE, CASSELS & GRAYDON LLP
+Avocats et conseillers juridiques Case postale 25, Commerce Court West
+Toronto (Ontario) M5L 1A9
+David E. Spiro
+Tél. : 416-863-2755 Téléc. : 416 863-2653
+Courriel : david.spiro@blakes.com
+Fait à Toronto, ce 29e jour de mai 2006.
+__________________________
+Avocat de l'intimée
+John H. Sims, c.r.
+Sous-procureur général du Canada
+MINISTÈRE DE LA JUSTICE 130, rue King Ouest
+Bureau 3400, case postale 36
+Toronto (Ontario) M5X 1K6
+Harry Erlichman
+Tél. : 416-973-3108
+Téléc. : 416-973-0810
+Courriel : harry.erlichman@justice.gc.ca

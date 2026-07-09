@@ -1,0 +1,130 @@
+Title: Hovey Ventures Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28737/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-139-28737-hovey-ventures-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-15
+
+# Hovey Ventures Inc v. The Queen
+
+- Citation: 2007 TCC 139
+- Decision date: 2007-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1459, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hovey Ventures Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-15
+Neutral citation
+2007 TCC 139
+File numbers
+2006-3022(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3022(IT)G
+BETWEEN:
+HOVEY VENTURES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 13, 2007 at Vancouver, British Columbia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Douglas H. Christie
+Counsel for the Respondent:
+David Everett
+____________________________________________________________________
+JUDGMENT
+Upon motion by the Respondent:
+(a) for an Order under paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) ("Rules") striking out the Notice of Appeal because it discloses no reasonable grounds for appeal;
+(b) in the alternative, an Order under paragraph 53(b) of the Rules to strike out the Notice of Appeal on the ground that the Notice of Appeal is scandalous, frivolous or vexatious;
+(c) in the further alternative, an Order under paragraph 53(c) of the Rules to strike out the Notice of Appeal on the ground that the Notice of Appeal is an abuse of process;
+(d) in the further alternative, an Order under paragraph 44(1)(b) of the Rules extending the time in which the Respondent may file a Reply to the Notice of Appeal; and
+(e) costs.
+And having heard the submissions of counsel and read the materials filed by the parties;
+It is ordered that:
+1. the Notice of Appeal be struck out pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure); and
+2. the appeal is dismissed with costs to the Respondent, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 15th day of March, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC139
+Date: 20070315
+Docket: 2006-3022(IT)G
+BETWEEN:
+HOVEY VENTURES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Respondent brings a motion for an Order:
+(a) under paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) ("Rules") striking out the Notice of Appeal because it discloses no reasonable grounds for appeal;
+(b) in the alternative, an Order under paragraph 53(b) of the Rules to strike out the Notice of Appeal on the ground that the Notice of Appeal is scandalous, frivolous or vexatious;
+(c) in the further alternative, an Order under paragraph 53(c) of the Rules to strike out the Notice of Appeal on the ground that the Notice of Appeal is an abuse of process;
+(d) in the further alternative, an Order under paragraph 44(1)(b) of the Rules extending the time in which the Respondent may file a Reply to the Notice of Appeal; and
+(e) costs.
+[2] The Appellant, Hovey Ventures Inc., was assessed by the Minister of National Revenue for its failure to comply with a Requirement to Pay issued under Section 224 of the Income Tax Act. Pursuant to the Requirement to Pay, the Appellant was assessed for amounts owed to Witold Loykowski, the tax debtor named in the Requirement to Pay.
+[3] The Appellant filed a Notice of Appeal, challenging the assessment on the basis that it was not liable for any amounts under the Requirement to Pay assessment because, at all times relevant to the appeal, the tax debtor was acting in his capacity as a "natural person". According to the Appellant, a "natural person" is not subject to pay tax under the Act and therefore, the Canada Revenue Agency was without authority to assess the Appellant for any amounts it paid to the tax debtor for his services pursuant to their agreement. This theory has been used, without success, by defendants facing tax evasion charges. In the recent case of R. v. Sydel[1], Meyers, P.C.J., rejected the "natural person" argument which he summarized as follows:
+…[that] there is not proof beyond a reasonable doubt, that Parliament intended to tax people who declare themselves to be "natural persons"; any money earned by an individual in their capacity of a "natural person", as opposed to their capacity as a taxpayer or legal representative of the taxpayer is not subject to the Income Tax Act requirement to pay taxes, nor are they required by the Income Tax Act, to file T1 Individual Income Tax returns.[2]
+[4] According to the Respondent, the "natural person" premise upon which the Notice of Appeal is based is completely without merit. Further, the Crown argues that even if the "natural person" argument may properly form the basis for a challenge to the constitutionality of the Requirement to Pay provisions, such a claim is not properly brought before the Tax Court of Canada as its jurisdiction does not extend to the alleged inappropriateness of the actions of the Minister's officials:
+[7] … Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established. … Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p.84).[3]
+[5] Counsel for the Respondent went on to say that, although most of the Notice of Appeal is devoted to the "natural person" argument, what few facts there are support the correctness of the Minister's assessment: in paragraphs 2, 4 and 5 of Part 2: The Material Facts Relied Upon the Appellant alleges that there was a written agreement between the Appellant and the tax debtor[4] for the performances of services, such services were performed by the tax debtor who received compensation for them from the Appellant during the relevant period[5]. Furthermore, nowhere in the Notice of Appeal is there any challenge to the amount assessed. For the purposes of considering an application to strike, the facts in the pleadings must be taken as proved[6]. Counsel for the Respondent submitted it would be improper for the Court to allow the Appellant to use affidavit evidence to bolster pleadings which are, on their face, defective.
+[6] For these reasons, the Respondent's position is that the present case is one where it is "plain and obvious"[7] that the Appellant's case discloses no reasonable cause of action and accordingly, it ought to be struck out under Rule 58(1)(b) or alternatively, under Rules 53(b) or (c) for being, "respectively, scandalous, frivolous and vexatious", or "an abuse of process". Counsel for the Respondent submitted that a Notice of Appeal which discloses no reasonable cause of action or which is beyond the jurisdiction of the Court is, by definition, an abuse of process[8].
+[7] Counsel for the Appellant opposed the motion, arguing that it was by no means "plain and obvious" that the appeal had no chance of success. In his view, the jury was still out on the "natural person" argument, although he offered no case law in support of that position. He did, however, advise the Court that he had been counsel for the accused in the Sydel case, which, as of this hearing date, was being challenged on other grounds. He argued that affidavit evidence was properly admissible on an application to strike and urged the Court take into account the contents of two affidavits: that of Troy Hovey, president of Hovey Ventures Inc. and of Witold Loykowski, the tax debtor named in the Requirement to Pay.
+[8] The Appellant had not filed an application to seek leave to amend its Notice of Appeal. However, mid-way through the submissions of counsel for the Appellant, I asked counsel whether that possibility had been considered prior to the Respondent's motion. Counsel for the Respondent replied that he had raised the subject with counsel for the Appellant when he [Mr. Christie] became counsel of record. The only response he received was service of the Appellant's affidavits – which were, at that point, intended only for use in resisting the order to strike. While not responding directly to my question, counsel for the Appellant signaled his interest in seeking leave to amend and suggested that even if the affidavits were inadmissible for the purposes of the Respondent's motion, they ought to be considered in respect of the Appellant's request for leave to amend.
+[9] Not surprisingly, the Respondent was opposed to the Appellant's request, arguing that the defects of the Notice of Appeal were such that they could not be cured by a simple rewrite and that the affidavits (even if admissible) were equally flawed. Mindful of the consequences to the Appellant if an order to strike were granted, however, I felt compelled to consider the Appellant's last-minute request for leave to amend. I did so with some reluctance given the circumstances in which such leave was sought; it seems to me that in filing affidavits to resist the Respondent's motion, the Appellant recognized certain weaknesses in the Notice of Appeal and yet, chose not to take the proper steps to have it amended. In any event, turning to the Appellant's request for leave to amend, in Sweet v. Canada[9] Décary, J. considered the balancing act required in determining whether to strike out an appeal or to permit amendments to it:
+21 It is not the duty of a judge to redraft pleadings. It is his or her duty, however, to closely examine a proceeding before determining that it cannot be saved through proper amendments. To use the words of my brother Stone in Krause …, the judge seized with a motion [to strike pleadings[10]] must decide whether the document is "so defective that it cannot be cured by simple amendment". This determination requires a balancing act which cannot be subject to any definite norms. Each proceeding is to be assessed on its own merits, with consideration being given to, inter alia, the personal situation of the party, the issues and arguments raised, the manner and tone in which they are raised, the number and proportion of allegations that are defective and the readiness of the amendments needed. Where the Court is dealing with a self-represented litigant, it should resist being too easily put off by the mere phrasing of allegations and arguments that do not fall within established legal parameters. [Footnote added.]
+[10] Having considered the Notice of Appeal and supporting affidavits in light of the Sweet factors, I agree with the Respondent's position that the Notice of Appeal is "so defective it cannot be cured by simple amendment". The first step in Sweet is to consider the "situation of the Appellant", including whether the Appellant is self‑represented. In the present case, the Notice of Appeal is signed by "Troy Hovey", president of the Appellant. Below his signature appear the words "Legal Counsel yet to be retained", suggesting that the Notice of Appeal was drafted without the benefit of legal advice. By the time of the motion to strike, the Appellant was represented by counsel; indeed, by counsel who according to his own intervention, had considerable experience with the "natural person" argument upon which the Notice of Appeal is based. The "natural person" argument that dominates Part V: Reasons Relied Upon by Appellant of the Notice of Appeal employs the same sort of language used in the "natural person" cases cited[11] by the Court in Sydel. In these circumstances, the most likely conclusion is that the Appellant intended to frame its pleadings as it did; the defects in the Notice of Appeal are not attributable to the Appellant's stated lack of legal counsel at the time it was drafted. As for the "issues and arguments raised" in the Notice of Appeal, again, they are all premised solely on the "natural person" argument and are presented in a "manner and tone" more in keeping with the advancement of an anti‑tax campaign than an assertion of the incorrectness of the assessment. Probably for the same reasons, of "the number and proportion of allegations that are defective", all but some portions of a few paragraphs of the Notice of Appeal are dedicated to the "natural person" argument.
+[11] As for the affidavits, while unlike the Notice of Appeal, they call into question the amount assessed, the information deposed is contradictory and ambiguous; one has only to compare paragraph 5 of Part 2 of the Notice of Appeal with paragraph 4 of the affidavit of Troy Hovey in respect of the performance of services and the receipt of compensation. More damning, the contents of the affidavits, like the Notice of Appeal, are skewed by the affiants' fundamental belief that, as a "natural person", the tax debtor was not taxable.
+[12] All in all, I agree with counsel for the Respondent that more than a simple rewrite would be necessary to rehabilitate the Notice of Appeal; indeed, it would require the Court to engage in the sort of judicial redrafting specifically warned against in Sweet. Accordingly, the Appellant's request for leave to amend is denied.
+[13] Returning now to the Respondent's motion, having heard the submissions of counsel and read the materials filed, I am persuaded that the Respondent has made its case for the striking out of the Notice of Appeal under paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) and that the Notice of Appeal must be considered as drafted, not as further clarified in supporting affidavits[12]. Paragraph 58(2)(b) of the Rules provides that "no evidence is admissible on an application [under paragraph 58(1)(b)]". However, even if I had admitted the affidavits, for the reasons set out above in respect of the Appellant's request for leave to amend, their contents would not have persuaded me that the Notice of Appeal disclosed a reasonable cause of action. In my view, the "natural person" argument is without merit; further, the Tax Court of Canada is without jurisdiction to consider the issues raised with respect to the correctness of the actions of the CRA in assessing the Appellant under the Requirement to Pay. To the extent that there are facts buried in the "natural person" argument, when taken as proven, they do not set out a basis upon which the Appellant could successfully challenge the correctness of the assessment under the Requirement to Pay. The Notice of Appeal is struck out pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) and the appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 15th day of March, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC139
+COURT FILE NO.: 2006-3022(IT)G
+STYLE OF CAUSE: HOVEY VENTURES INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 13, 2007
+REASONS FOR ORDER: The Honourable Justice G. Sheridan
+DATE OF ORDER: March 15, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Douglas H. Christie
+Counsel for the Respondent:
+David Everett
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas H. Christie
+Firm: Douglas H. Christie
+Victoria, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2006] 5 C.T.C. 88 (British Columbia Provincial Court).
+[2] Supra, at paragraph 7. For a list of the cases upon which Meyers, P.C.J. relied to reject the "natural person" defence, see paragraph 8.
+[3] Main Rehabilitation Co. Ltd. v. Her Majesty the Queen, 2004 FCA 403. See also Hardtke v. Canada, [2005] T.C.J. No. 188.
+[4] Notice of Appeal, Paragraph 4.
+[5] Notice of Appeal, Paragraph 5.
+[6] Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 at paragraph 31.
+[7] Supra, Creaghan Estate v. Canada, [1972] F.C.732 at page 736, (F.C.T.D.).
+[8] Telus Communications (Edmonton) Inc. v. Canada, [2005] F.C.J. No. 775.
+[9] [1999] F.C.J. No. 1539 (F.C.A.).
+[10] On the grounds that the pleadings were "scandalous, frivolous and vexatious".
+[11] HMTQ v. Galbraith [2001] B.C.J. No. 2900, 2001 BCSC 675; R. v. Dick [2003] B.C.J. No. 187, 2003 BCPC 13 (B.C. Prov. Ct.); R. v. Carew [1992] B.C.J. No. 995 (BCSC); R. v. Sullivan [1991] 1 S.C.R. 489; PPG Industries Canada Ltd. v. Canada [1983] B.C.J. No. 2260 (BCSC); Kennedy v. Canada Customs & Revenue Agency [2000] O.J. No. 3313 (Ontario Supreme Court of Justice); R. v. Lindsay [2006] B.C.J. No. 636, 2006 BCCA 150.
+[12] Burleigh v. Canada, [2004] 2 C.T.C. 2797 at paragraph 2, (T.C.C.), Bowman, A.C.J. (as he then was).

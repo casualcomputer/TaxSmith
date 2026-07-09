@@ -1,0 +1,262 @@
+Title: 2763478 Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231704/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-98-231704-2763478-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-01
+
+# 2763478 Canada Inc. v. The Queen
+
+- Citation: 2017 TCC 98
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2138, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2763478 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-01
+Neutral citation
+2017 TCC 98
+File numbers
+2009-3842(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3842(IT)G
+BETWEEN:
+2763478 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 18 and 19, 2016, at Montreal, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Serge Amar
+Marie-Hélène Tremblay
+Counsel for the Respondent:
+Andrew Miller
+Justine Malone
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act dated July 3, 2008, of the appellant’s taxation year ending October 31, 2005 is dismissed, with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 10th day of May 2019.
+Janine Anderson, Revisor
+Citation: 2017TCC98
+Date: 20170601
+Docket: 2009-3842(IT)G
+BETWEEN:
+2763478 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from a reassessment made pursuant to the general anti‑avoidance rule (GAAR) set out in subsection 245(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “ITA”).
+[2] In this case, the Minister of National Revenue (the “Minister”) disallowed the deduction of an allowable capital loss in the amount of $6,423,650 reported by the appellant for the taxation year ending October 31, 2005.
+[3] The tax arrangement under which the loss arose is known as a “value shift”. The application of the GAAR to cases involving this technique has already been discussed in the case law of the Federal Court of Appeal and of this Court: Triad Gestco Ltd. v. Canada, 2012 FCA 258; 1207192 Ontario Limited v. Canada, 2012 FCA 259; Barrasso v. The Queen, 2014 TCC 156.
+[4] The transactions undertaken by the appellant in this case and the transactions in issue in Triad Gestco, 1207192 and Barrasso have a number of elements in common, in particular, that the taxpayer received shares from a new company controlled by the taxpayer in exchange for consideration of significant value (either property or a promissory note). The value of the shares at the time of their issuance to the taxpayer was equal to the value of the consideration provided by the taxpayer. Shortly after the issuance of the shares to the taxpayer, the new company declared a stock dividend (of a different class). These shares had a high redemption value and a low paid-up capital. The stock dividend had the effect of shifting the value of the shares initially issued to the taxpayer to the shares resulting from the stock dividend. Subsequently, the taxpayer sold the original shares to a related party and thus created a capital loss on the disposition.
+[5] In Triad Gestco, 1207192 and Barrasso it was decided that the losses created in those cases by means of a value shift constituted a misuse or abuse of paragraphs 38(b), 39(1)(b) and 40(1)(b) of the ITA.
+[6] The appellant in this case claims that certain elements distinguish this case from the above-mentioned cases. In light of all of the evidence and for the reasons that follow, I reject that argument.
+Witnesses
+[7] The parties filed an agreed statement of facts and Richard Jobin, founder, sole shareholder and director of the appellant, as well as his son, Maxime Jobin, testified on behalf of the appellant.
+The facts
+[8] The appellant is a management company that was incorporated in 1991 to serve as an investment vehicle for Richard Jobin, its sole shareholder and director.
+[9] At all material times, and up to January 4, 2005, Mr. Jobin was also the sole shareholder and director of Le Groupe AST (1993) Inc. (“Groupe AST”), which was incorporated on January 1, 1989, and which provided occupational health and safety services.
+[10] Towards the late 1990s, Groupe AST saw rapid growth, and in the fall of 2002, Automatic Data Processing Inc. (“ADP”), a leading pay management systems company, expressed a “firm” intention to purchase Groupe AST. However, negotiations were only finalized on January 17 2005, the date on which an agreement was signed.
+[11] For the sale of the Groupe AST shares, and for the purposes of an estate freeze, Mr. Jobin incorporated two companies. In July 2004, he incorporated 9144‑4075 Québec Inc. (“9144”). When it was incorporated, the appellant was its sole shareholder and Mr. Jobin was its sole director.
+[12] In November 2004, Richard Jobin incorporated 9149-2736 Québec Inc. (“9149”); Maxime Jobin was its sole shareholder and director.
+[13] Beginning on January 4, 2005, the following transactions took place. These transactions resulted in a capital gain and the creation of a capital loss on the part of the appellant:
+(i) on January 4, 2005, Richard Jobin transferred his Groupe AST shares to the appellant by a rollover under subsection 85(1) of the Act;
+(ii) on January 6, 2005, Groupe AST increased the paid-up capital on the shares held by the appellant, which resulted in a deemed dividend of $2,600,000 to the appellant;
+(iii) in its income tax return, the appellant reported a capital gain of $2,600,000 for the Groupe AST deemed dividend;
+(iv) on January 14, 2005, the appellant exchanged shares (including, in particular, the Groupe AST shares) with 9144, which resulted in a capital gain of $9,875,137, apportioned as follows:
+Shares
+Proceeds of disposition
+Adjusted cost base
+Gain (or loss)
+11,143,607 Groupe AST shares
+$11,143,607
+$2,941,413
+$8,202,194
+100 FHS (Focus on Health & Safety) shares
+$856,878
+$50
+$856,828
+100 AST Assurances shares
+$230,322
+$100
+$230,222
+100 Assurance Générale shares
+$0
+$100
+($100)
+400 Optimisst shares
+$168,280
+$400
+$167,880
+300 Groupe AGI shares
+$448,113
+$30,000
+$418,113
+Total
+$12,847,200
+$2,972,063
+$9,875,137
+(v) as consideration for the above-mentioned shares, 9144 issued to the appellant 9,999,900 Class A shares of its capital stock, the reported capital of which is $12,847,200;
+(vi) the appellant reported a capital gain of $12,475,137 and a taxable capital gain of $6,237,569 on its income tax return for the 2005 taxation year. The capital gain of $12,475,137 consists of the deemed dividend of $2,600,000 and the $9,875,137 from the share exchange with 9144.
+(vii) on January 17, 2005, 9144 sold to 6295231 Canada Inc. (an ADP-owned company) the shares received from the appellant in the share exchange mentioned in paragraph (iv) above. At the time of that sale, the proceeds of disposition and the adjusted cost base of the shares sold by 9144 were $12,847,200;
+(viii) on October 28, 2005, 9144 declared a stock dividend to the appellant on the Class A shares, payable by the issuance of 13,000 Class B shares of the capital stock of 9144;
+(ix) the Class B shares were non-voting shares, of which the capital issued and paid was $130 and with a total redemption value of $13,000,000;
+(xi) on October 29, 2005, the appellant sold its 10,000,000 Class A shares in 9144 to 9149 for $1;
+(xii) as a consequence of the sale of the Class A shares, the appellant reported an allowable capital loss on its income tax return for the 2005 taxation year, calculated as follows:
+Proceeds of disposition
+$1
+Adjusted cost base
+($12,847,300)
+Capital loss
+$12,847,299
+Allowable capital loss
+$6,423,650
+[EN BLANC]
+[EN BLANC]
+(xiii) the allowable capital loss of $6,423,650 reported by the appellant resulted in reducing the appellant’s taxable capital gain of $6,237,569 to $0 for the taxation year ending October 31, 2005;
+Appellant’s position
+(i) Preliminary arguments
+[14] The appellant asserts that, from the outset, its file was [TRANSLATION] “labelled” by the Canada Revenue Agency (the “CRA”) as a case where the GAAR should be applied. The appellant submits that, without a full review, the CRA saw, in the series of transactions in issue, an attempt to create an artificial, and therefore “abusive”, allowable capital loss.
+[15] The appellant emphasized the fact that the file was suspended for three years so that other files could proceed and that it was the appellant who had to demand that the case be reactivated. It also claimed that, up until very recently, the GAAR argument had been raised subsidiarily by the respondent.
+[16] In the appellant’s view, this means that the respondent was aware of the fragility of her stance on the application of section 245 of the ITA, and the appellant is asking this Court to give it the benefit of the doubt.
+[17] The appellant also notes the importance of Inland Revenue Commissioners v. Duke of Westminster, [1936] A.C. 1, which held that taxpayers are entitled to arrange their affairs to minimize the amount of tax payable.
+[18] Moreover, in its notice of appeal, the appellant cited a directive published by the Minister of Finance in June 1988 that takes the same view:
+Subsection 245(3) does not permit the “recharacterization” of a transaction for the purposes of determining whether or not it is an avoidance transaction. In other words, it does not permit a transaction to be considered to be an avoidance transaction because some alternative transaction that might have achieved an equivalent result would have resulted in higher taxes.
+[19] Similarly, the appellant invoked the doctrine of the Supreme Court of Canada expressed in Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622:
+[45] However, this Court has made it clear in more recent decisions that, absent a specific provision to the contrary, it is not the courts’ role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. . . . Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+[20] On several occasions, the appellant indeed submitted that taxpayers are not required to accept other conceivable planning opportunities.
+[21] In its view, although the series of transactions made was more beneficial for tax purposes, it does not call for the application of the GAAR because the plan had a bona fide purpose.
+(ii) Tax benefit amount
+[22] Although the appellant admits that a tax benefit resulted from the series of transactions in issue within the meaning of subsection 245(1) of the ITA, the parties disagree as to its amount. The appellant is of the opinion that even if the GAAR must apply, this Court must not remove the entire allowable capital loss.
+[23] In fact, in its opinion, the tax benefit is the taxation of the gain that was reduced by the deduction of the allowable capital loss. It was argued that an allowable capital loss is not a tax benefit per se, since it has no value if there is no capital gain from which it can be deducted.
+[24] Thus, in this case, the appellant maintains that the tax benefit must be limited to $4,101,097, namely, the taxable capital gain resulting solely from the disposition of its Groupe AST shares, the taxation of which was reduced by the allowable capital loss.
+[25] Lastly, the appellant is asking the Court to take into account the latent gain that resulted from the tax rollover, under subsection 85(1) of the ITA, between Richard Jobin and the appellant to transfer the Groupe AST shares.
+[26] It is submitted that if the Court decides to apply the GAAR to remove the capital loss, Richard Jobin would be taxed twice on the same fair market value.
+(iii) The series of transactions does not constitute an “avoidance transaction”
+[27] The appellant maintains that the transactions in issue cannot be characterized as avoidance transactions within the meaning of subsection 245(3) of the ITA since there were no transactions that were not undertaken “primarily for bona fide purposes”.
+[28] In fact, the appellant submits that each step in the series of transactions was taken in order to meet the established purposes.
+[29] It maintains that the evidence presented at the hearing shows that the bona fide purpose of the planning was the desire of Richard and Maxime Jobin to implement their shared plan to jointly operate a business and for Maxime to benefit from the company’s future increase in value.
+[30] Thus, the appellant strongly asserts that given the testimony and documentation filed, it has demonstrated that its transactions were undertaken for the general purpose of realizing the estate freeze.
+[31] More specifically, it submits that each step in the series of transactions was shown to be necessary to achieve this purpose.
+[32] It also explained that the way in which the value was transferred was thus planned to ensure that the asset remained with 9144, allowing it to benefit from a working capital in the company.
+[33] Furthermore, the appellant cited the explanatory notes from the Minister of Finance regarding section 245 of the ITA in support of its position that estate freeze transactions do not generally fall under the GAAR because it is assumed that they were undertaken for a non-tax purpose:
+The new paragraph 245(3)(a) refers to “bona fide purposes other than to obtain the tax benefit” rather than to “bona fide business purposes”, as originally proposed, because the latter expression might be found not to apply to transactions which are not carried out in the context of a business, narrowly construed. The vast majority of business, family or investment transactions will not be affected by proposed section 245 since they will have bona fide non-tax purposes.
+(iv) The avoidance transaction is not “abusive”
+[34] The appellant claimed that the respondent did not discharge the burden of proof that was upon the respondent with respect to the abusive tax avoidance position. It is submitted that its tax arrangement did not constitute an abuse and that it did not result in any inequity.
+[35] On the contrary, the appellant instead argued that applying the GAAR would result in an inequity if the loss was removed. In fact, according to the appellant, the deduction of the allowable capital loss is entirely consistent with the object, spirit or purpose of the provisions of the ITA.
+[36] In this regard, the appellant placed emphasis on paragraph 10 of Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, where the Supreme Court stated the following:
+[10] . . . The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[37] Therefore, since the provisions in issue in this case are clear, they require strict interpretation.
+[38] In addition, relying on the case law of Trustco, the appellant reminded the Court that if the existence of abuse of the ITA provisions is unclear, the benefit of the doubt goes to the taxpayer; the tax authorities must not automatically disallow any loss that is not economic, especially if it was incurred for a bona fide business purpose.
+[39] Lastly, according to the appellant, an estate freeze is a planning technique that is recognized by tax law and that authorizes, to that extent, the deferral of estate tax. It is a [TRANSLATION] “commendable” purpose that does not give rise to any abuse and that does not require the application of the GAAR.
+[40] The appellant claims that, through the transactions in issue, it did not seek to circumvent the ITA. The GAAR therefore cannot be applied since all of the transactions were undertaken in accordance with the provisions of the ITA. The creation and the deduction of the allowable capital loss were not contrary to the object, spirit or purpose of the relevant provisions.
+Analysis
+(i) Preliminary arguments
+[41] First, I reject the appellant’s position that the Court must take into account the actions of the CRA officers, actions which the appellant describes as “labelling”. The Federal Court of Appeal stated the following in Main Rehabilitation Co. v. Canada, [2004] F.C.J. No. 2030, 2004 FCA 403: “Courts have consistently held that the actions of the [CRA] cannot be taken into account in an appeal against assessments.” The Court stated the following at paragraph 8 of the decision:
+This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers’ Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[42] Regarding the appellant’s claims with respect to the Duke of Westminster principle, it is important to note that this principle is rejected in the presence of a provision to the contrary in the ITA. The Supreme Court stated the following at paragraph 12 of Canada Trustco Mortgage Co.:
+. . . As stated at para. 45 of Shell Canada Ltd. v. Canada, 1999 CanLII 647 (SCC), [1999] 3 S.C.R. 622:
+[A]bsent a specific provision to the contrary, it is not the courts’ role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. [Emphasis added.]
+The Court continued in paragraph 13:
+. . . To the extent that the GAAR constitutes a “provision to the contrary” as discussed in Shell (at para. 45), the Duke of Westminster principle and the emphasis on textual interpretation may be attenuated.
+GAAR
+[43] At paragraph 66 of Canada Trustco Mortgage Co., the Supreme Court summarized the approach that must be followed by the courts when analyzing the application of the GAAR:
+66 The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts could consider in the analysis of abusive tax avoidance allegations under section 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[44] The Supreme Court then reaffirmed this approach in Lipson v. Canada, 2009 SCC 1 and Copthorne Holdings Ltd. v. Canada, 2011 SCC 63.
+Tax Benefit
+[45] A “tax benefit” within the meaning of subsection 245(1) of the ITA is “a reduction, avoidance or deferral of tax or other amount payable” under the ITA or any other relevant tax law source, or an “increase in a refund of tax or other amount” under the ITA or tax legislation.
+[46] I cannot accept the argument that the amount of the tax benefit in this case must be limited to $4,101,097. It seems clear to me that the entire allowable capital loss created by the appellant in this case constitutes a tax benefit because it led to a tax reduction and stemmed from the avoidance transaction noted by the respondent in the reply to the notice of appeal. In the absence of transactions that gave rise to the value shift, the appellant would have had to pay tax on a taxable capital gain of $6,237,569 for the 2005 fiscal year. The tax benefit consists in reducing to zero the tax that would otherwise have been payable on that gain.
+Avoidance transaction
+[47] The appellant maintains that the purpose of the series of transactions in issue, and of each transaction in the series, was the estate freeze, specifying that had one of the transactions not been carried out, the freeze could not have been implemented. The burden of proof for this point rests with the appellant.
+[48] According to Richard Jobin’s testimony, he followed the plan he received, exactly as he had received it, because he understood that each step in the plan was essential to implementing the estate freeze and that the tax benefit that the appellant received was merely incidental.
+[49] Although I accept that the overall purpose of the series was to create an estate freeze, in my opinion, the evidence does not demonstrate that this purpose called for the issuance of Class A shares in 9144 to the appellant in exchange for the shares received from the appellant. Clearly, the estate freeze could have been implemented if the appellant had received the Class B shares in 9144 directly in exchange for the shares transferred to 9144 and if the Class A shares had been issued directly to 9149. In short, there is no proof that the purpose of an estate freeze required that Class A shares in 9144 be issued to the appellant prior to transferring them to 9149.
+[50] The appellant also claimed that the value shift made it possible to conserve working capital in 9144. However, the working capital would have remained had the appellant received the Class B shares in 9144 directly, instead of the Class A shares.
+[51] I conclude that the appellant did not objectively establish that the Class A shares in 9144 were primarily issued to the appellant for a bona fide non-tax purpose.
+Abuse
+[52] The appellant maintains that there was no abuse or misuse of paragraphs 38(b), 39(1)(b) and 40(1)(b) within the meaning of subsection 245(3) of the ITA.
+[53] However, the Federal Court of Appeal, in Triad Gestco and 1207192, has already ruled on the issue. The object, spirit or purpose of the relevant provisions is to provide tax relief when the taxpayer suffers an “economic loss” and therefore excludes the deduction of [TRANSLATION] “paper losses or artificial losses.”
+[54] The Court of Appeal made the following observations in Triad Gestco, at paragraph 39:
+It is common ground that the loss generated by the appellant as a result of the value shift is a loss on paper only in the sense that no economic loss was suffered (the term “paper loss” is used in that sense throughout these reasons). All that happened is that the high inherent value of the common shares was moved to the preferred shares – because they are paid in priority – with the result that the common shares were left with a nominal value and a high cost, thereby allowing for the loss to be realized on the disposition of these shares to the Peter Cohen Trust. The appellant was neither richer nor poorer after this disposition.
+[55] At paragraph 50 of Triad Gestco, the Court of Appeal specified the following:
+. . .these provisions, in particular paragraph 38(b), provide relief as an offset against capital gain where a taxpayer has suffered an economic loss on the disposition of property. I also agree with his further conclusion that offsetting a capital gain with the paper loss that was claimed results in an abuse and a misuse of the relevant provisions, specifically paragraphs 38(b), 39(1)(b) and 40(1)(b) (1207192 Ontario Limited, paras. 92 and 93).
+[56] For the same reasons, the transactions in this case can be seen as a misuse or abuse of the ITA.
+Double taxation
+[57] The appellant also maintains that, if the Court decides to confirm the application of the GAAR to remove the capital loss, the result will be double taxation of [TRANSLATION] “the same fair market value in the hands of Richard Jobin.”
+[58] The Court of Appeal already ruled on a similar argument in Triad Gestco. At paragraphs 57 and 59, the Court stated the following:
+The appellant argued for the first time during the course of the hearing of the appeal that the disallowance of the claimed loss gives rise to a form of unfairness given that it remains the holder of the preferred shares. It points out that since these shares have tax characteristics which inversely mirror those of the common shares – i.e. a correspondingly high value and low cost – their disposition would trigger a gain tantamount to the loss claimed.
+. . .
+That said, had the appellant been able to put forth a credible scenario indicating that the preferred shares were to be sold, thereby reducing the extent of the tax benefit obtained, it would have been open to it to request that the tax consequences resulting from the application of the GAAR be adjusted pursuant to subsection 245(5). No such request was made.
+[59] I note first that the appellant did not argue this point in its notice of appeal. Be that as it may, I would reject this argument. In this case, the appellant did not present a credible scenario for the sale of the appellant’s shares received by Richard Jobin in the course of the rollover under subsection 85(1), and the appellant did not request an adjustment of the tax consequences arising from the application of the GAAR to take into account a possible sale of the shares. Consequently, there is no need to vary the assessment on this basis.
+Conclusion
+[60] For all of these reasons, the appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 10th day of May 2019.
+Janine Anderson, Revisor
+CITATION:
+2017TCC98
+COURT FILE NO.:
+2009-3842(IT)G
+STYLE OF CAUSE:
+2763478 CANADA INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+May 18 and 19, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+June 1, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Serge Amar
+Marie-Hélène Tremblay
+Counsel for the Respondent:
+Andrew Miller
+Justine Malone
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Serge Amar
+Marie-Hélène Tremblay
+Firm:
+Miller Thomson, LLP
+Montreal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

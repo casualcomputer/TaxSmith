@@ -1,0 +1,147 @@
+---
+title: "Berry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26656/index.do"
+last_modified: "2005-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 787"
+citation2: ""
+neutral_citation: "2005 CCI 787"
+decision_date: "2005-12-09"
+language: "fr"
+item_id: "26656"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3598
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:13:21.469000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "768d01f5145275c7b27370dfe2fd9454f87e28774b2d938a4ee6dfe94bf35512"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Berry c. La Reine
+
+- Citation: 2005 CCI 787
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3598, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-09
+Référence neutre
+2005 CCI 787
+Numéro de dossier
+2004-4748(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4748(IT)I
+ENTRE :
+TREVOR BERRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 30 novembre 2005, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Représentant de l’appelant :
+L’appelant lui-même
+Représentant de l’intimée :
+Kevin MacGillivray,
+stagiaire
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9 e jour de décembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 30e jour d'août 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI787
+Date : 20051209
+Dossier : 2004-4748(IT)I
+ENTRE :
+TREVOR BERRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+[TRADUCTION FRANÇAISE OFFICIELLE]
+La juge Sheridan
+[1] L’appelant, Trevor Berry, interjette appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre »), lequel refuse d’accorder la déduction de ses frais de justice. Exception faite des sous‑paragraphes i) et j), l’appelant accepte les hypothèses du ministre, telles qu’elles sont formulées au paragraphe 14 de la réponse à l’avis d’appel :
+[TRADUCTION]
+14. Lorsqu’il a établi une nouvelle cotisation à l’égard de l’impôt à payer pour l’année d’imposition 2002 et qu’il a ratifié cette nouvelle cotisation, le ministre a présumé les faits suivants :
+a) l’appelant et Suzanne Elizabeth Thomas Hart (« Mme Hart »), anciennement appelée Suzanne Elizabeth Berry, se sont mariés le 1er septembre 1984;
+b) l’appelant et Mme Hart sont les parents de Kate E. A. Berry, née le 28 novembre 1987, de Thomas D. H. Berry, né le 10 avril 1990, de Jane C. S. Berry, née le 30 juin 1992, et de Ruth V. L. Berry, née le 18 avril 1995 (collectivement, les « enfants »);
+c) en vertu d’une ordonnance de la Cour suprême de la Colombie‑Britannique datée du 22 octobre 1998 :
+i) l’appelant et Mme Hart partageaient la garde et la tutelle des enfants, ces derniers demeurant surtout avec Mme Hart, plus particulièrement lorsque l’appelant était en mer;
+ii) entre autres choses, il avait été ordonné à l’appelant de verser à Mme Hart une pension alimentaire pour enfants provisoire, au montant de 1 328 $ par mois, payable le 15e jour de chaque mois, à compter du 15 octobre 1998;
+d) en vertu d’une ordonnance de la Cour suprême de la Colombie‑Britannique datée du 15 novembre 1999 (« l’ordonnance ») :
+i) l’appelant et Mme Hart ont divorcé, le divorce devant prendre effet le 31e jour suivant la date de cette ordonnance;
+ii) il a été ordonné à l’appelant, entre autres choses, de verser à Mme Hart une pension alimentaire pour enfants au montant de 1 300 $ par mois, payable le 1er jour de chaque mois, à compter du 1er novembre 1999;
+e) en mai 2002, l’appelant et Mme Hart ont présenté chacun une requête devant la Cour suprême de la Colombie‑Britannique, afin de demander à la Cour de rajuster le montant de la pension alimentaire pour enfants, chacun dans leur intérêt;
+f) en vertu d’une ordonnance de la Cour suprême de la Colombie‑Britannique datée du 3 juin 2002, l’ordonnance datée du 15 novembre 1999 a été modifiée, notamment afin de rajuster à 1 576 $ par mois le montant du versement de la pension alimentaire pour enfants payée à Mme Hart, à compter du 1er juin 2002, et par la suite le 1er jour de chaque mois, jusqu’à ce que les enfants ne soient plus admissibles à la pension alimentaire selon la loi. En outre, l’ordonnance de la Cour adjugeait à l'encontre de l’appelant les dépens au montant de 720 $, en faveur de Mme Hart;
+g) le 14 juin 2002, l’appelant a interjeté appel à l’encontre de l’ordonnance de la Cour suprême de la Colombie‑Britannique datée du 3 juin 2002 à la Cour d’appel de la Colombie‑Britannique;
+h) dans toutes les actions devant la Cour suprême de la Colombie‑Britannique et la Cour d’appel de la Colombie‑Britannique, l’appelant a agi pour son propre compte;
+i) l’appelant n’a engagé ces dépenses ni afin de déterminer le droit à la pension alimentaire pour enfants, ni afin de faire respecter le versement de cette pension alimentaire; il s’agissait de ses dépenses personnelles;
+j) l’appelant n’a pas engagé ces dépenses afin de tirer un revenu d’une entreprise ou d’un bien.
+[2] La question en litige est de savoir si les frais juridiques de 1 823.03 $[1] qui ont été engagés par l’appelant afin de demander que soit modifiée l’ordonnance de pension alimentaire pour enfants sont déductibles.
+[3] Les parties ne contestent pas qu’il y avait un droit déjà existant à une pension alimentaire pour enfants[2]. L’appelant fait valoir que ses frais juridiques sont déductibles parce qu’ils ont été engagés afin de tenter de faire respecter ce droit. Il allègue que, lorsque des parents divorcés ont la garde conjointe de leurs enfants, la pension alimentaire pour enfants qui est ordonnée devrait être versée aux enfants par l’entremise de leurs parents, en proportion du temps[3] que les enfants ont passé avec chacun des parents. C’est avec ce but en tête qu’il a demandé une ordonnance devant les tribunaux de la Colombie‑Britannique afin de répartir entre Mme Hart et lui le montant qu’on lui avait ordonné de verser à son ex‑conjointe. Par conséquent, il prétend que les frais juridiques n’ont pas été engagés afin de limiter son obligation en qualité de payeur, mais plutôt afin de faire respecter le droit de ses enfants à toucher leur pension alimentaire lorsqu’ils étaient sous sa garde. Pour cette raison, les frais devraient être déductibles.
+[4] L’appelant a déposé comme pièces les motifs de jugement de la Cour suprême de la Colombie‑Britannique et de la Cour d’appel de la Colombie‑Britannique[4]. Le tribunal de première instance et le tribunal d’appel ont tous deux rejeté[5] l’argumentation de l’appelant selon laquelle il était autorisé, à titre de payeur de la pension alimentaire pour enfants, à déduire ses dépenses du montant qu’on lui avait ordonné de verser. Au paragraphe 3 des motifs du jugement, la juge Saunders a déclaré ce qui suit :
+[TRADUCTION]
+[3] M. Berry demande une ordonnance l’autorisant à retenir une partie de la pension alimentaire établie selon les lignes directrices qui est versée à Mme Hart, au motif que lui aussi engage des dépenses alimentaires significatives pour les enfants à l’occasion des périodes que ces derniers passent auprès de lui, et au motif que la pension alimentaire pour enfants est un « droit des enfants », et qu’elle devrait les accompagner. Ces observations attestent une mauvaise compréhension du régime de pension alimentaire pour enfants, lequel permet à un parent qui reçoit une pension alimentaire au profit des enfants, fixée selon le barème prévu, de dépenser cet argent comme il le juge bon. La méthode qui s’applique à l’allègement du paiement du montant prévu selon le barème est établie à l’art. 9. Cet allègement, qui n’est pas nécessairement proportionnel à la durée de la période que l’enfant a passée avec le parent payeur, doit prendre en compte le montant attribué à chacun des parents dans les lignes directrices, les dépenses supplémentaires liées aux arrangements de la garde partagée, ainsi que les conditions, les moyens, les besoins et les circonstances propres à chacun des parents. Néanmoins, ces observations soulèvent la question du degré d’exactitude requis pour qu’un tribunal soit autorisé à modifier le montant de la pension alimentaire pour enfants prévu au barème, qui est exigé selon les lignes directrices, et à appliquer les dispositions discrétionnaires de l’art. 9.
+[C’est nous qui soulignons.]
+[5] La Couronne soutient que, sans égard à la formulation de sa demande de dérogation à l’ordonnance alimentaire au profit des enfants, pour l’essentiel, l’appelant cherchait à réduire le montant qu’il était par ailleurs tenu de verser à son ancienne épouse. En invoquant la décision de la Cour d’appel fédérale dans l’arrêt Nadeau c. M.R.N.[6], la Couronne allègue que ces frais juridiques ne sont pas engagés dans l’intention de toucher un revenu et que, par conséquent, ils ne sont pas déductibles :
+16 Ainsi, il est de jurisprudence constante que le revenu provenant d’une pension alimentaire est calculé en fonction du régime applicable au revenu tiré d’un bien (ou d’une entreprise) que l’on retrouve à la sous-section b de la Loi. Selon ce régime, une dépense encourue pour constituer une source de revenu est de nature capitale et sa déduction est prohibée (voir l’alinéa 18(1)b)). Par contre, une dépense encourue pour gagner un revenu issu de cette source (soit après qu’elle ait pris naissance), est dite « courante » et elle tombe sous l’exception prévue à l’alinéa 18(1)a) :
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+...
+[...]
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+17 Ce régime, tel qu’il fut appliqué par les tribunaux au cours des années fait en sorte que dans la perspective du récipiendaire, une dépense qui a comme but de donner naissance au droit à une pension alimentaire est de nature capitale et ne peut donc être déduite. Par contre, une dépense encourue pour recouvrer un montant dû en vertu d’un droit déjà existant est de nature « courante » et peut donc être déduite.
+18 Inversement, les dépenses encourues par le payeur d’une pension alimentaire (soit pour empêcher qu’elle soit établie ou augmentée, ou soit pour la diminuer ou y mettre fin), ne peuvent être considérées comme ayant été encourues pour gagner un revenu et les tribunaux n’ont jamais reconnu de droit à la déduction de ces dépenses (voir, par exemple, Bayer, précité)
+[6] L’appelant allègue que l’arrêt Nadeau est inadmissible, et que la Cour doit appliquer l’analyse exposée dans l’arrêt Bergeron c. R.[7] à l’affaire qui nous occupe. Comme nous l'avons expliqué à l’appelant lors de l’audience, la Cour canadienne de l’impôt est liée par les décisions de la Cour d’appel.
+[7] Au vu de la preuve qui a été soumise, je suis persuadée que les frais juridiques de l’appelant ont été engagés aux fins de l’instance, afin de réduire le montant de la pension alimentaire pour enfants qu’il était tenu de verser. Ces dépenses ne sont pas déductibles. Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 30e jour d'août 2006.
+Mario Lagacé, jurilinguiste
+[1] Tel que cela est détaillé à l’annexe A de la réponse à l’avis d’appel.
+[2] Richardson c. Richardson [1987] 1 R.C.S. 857.
+[3] Environ 60 p. 100 (Mme Hart) et 40 p. 100 (M. Berry). Par conséquent, s’il avait eu gain de cause, l’appelant aurait continué de payer en tout 1 300 $ par mois, mais il aurait versé 60 p. 100 (plutôt que la totalité) de ce montant à son ancienne épouse, et « se serait versé » (en conservant le solde) 40 p. 100.
+[4] Pièce A‑1.
+[5] Pièce A‑1, onglet 4, Motifs du jugement de l’honorable juge Saunders, au paragraphe 27; onglet 2, Motifs du jugement exposés oralement de l’honorable juge Stromberg‑Stein, au paragraphe 9.
+[6] [2004] 1 R.C.F. 587.
+[7] C.C.I. no 98-547(IT)I, 17 août 1999, [2000] 1 C.T.C. 201.

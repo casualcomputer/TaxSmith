@@ -1,0 +1,140 @@
+Title: Gaudreau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28457/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-761-28457-gaudreau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-11-25
+
+# Gaudreau c. La Reine
+
+- Citation: 2004 CCI 761
+- Decision date: 2004-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1190, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudreau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-25
+Référence neutre
+2004 CCI 761
+Numéro de dossier
+2004-1822(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1822(IT)I
+ENTRE :
+CHANTAL GAUDREAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 4 novembre 2004, à Montréal (Québec).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocate de l’appelante :
+Me Mélanie Danakas
+Avocate de l'intimée :
+Me Julie David
+JUGEMENT
+L’appel de la détermination de la prestation fiscale canadienne pour enfants (PFCE) établie à l'égard de l’année de base 2000 en vertu de la Loi de l'impôt sur le revenu est admis et la détermination est déférée au ministre du Revenu national pour nouvel examen et nouvelle détermination en tenant compte du fait que l’appelante était le particulier admissible à la PFCE pour la période de septembre 2001 à février 2002, le tout selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI761
+Date : 20041125
+Dossier : 2004-1822(IT)I
+ENTRE :
+CHANTAL GAUDREAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’une détermination faite par le ministre du Revenu national (le « ministre ») le 19 septembre 2003 selon laquelle l’appelante devait rembourser la somme de 1 186 $ qu’elle a perçue à titre de prestation fiscale canadienne pour enfants (la « PFCE ») pour la période de septembre 2001 à février 2002 pour l’année de base 2000. L’appelante en appelle de cette détermination au motif que durant la période au litige, elle était le particulier admissible à la PFCE.
+[2] L’appelante a admis toutes les hypothèses de fait que le ministre a tenu pour acquis en établissant et en ratifiant la détermination portée en appel. Ces énoncés de fait permettent de se situer dans le contexte et de comprendre comment il se fait que notre cour soit à nouveau saisie de la question de savoir lequel des deux parents est le particulier admissible aux fins de la PFCE. Je reproduis donc les hypothèses en question :
+En établissant et en confirmant la nouvelle détermination de PFCE datée du 19 septembre 2003, pour l’année de base 2000, le ministre a tenu pour acquis les mêmes hypothèses de fait, à savoir:
+a) L’appelante et Monsieur Jean-Guy Trépanier (ci-après, l’«ex-conjoint» ont fait vie commune de 1991 à 1995 ;
+b) L’appelante et l’ex-conjoint ont eu un enfant [. . .] né le 20 mai 1993 (ci-après, l’«enfant»);
+c) En vertu d’un jugement rendu en date du 16 avril 1999, par l’Honorable juge Gérard Turmel, J.C.S., de la Cour Supérieure du Québec, la garde légale de l’enfant a été confiée à l’appelante;
+d) En vertu d’une ordonnance rendue en date du 12 mai 2000, par l’Honorable juge Andrée Ruffo, l’enfant a été confié à l’ex-conjoint;
+e) À compter du mois de juin 2000, l’ex-conjoint était considéré par le ministre comme étant le parent qui assumait principalement le soin et l’éducation de l’enfant;
+f) Le 31 août 2001, l’Honorable juge Pierre G. Dorion, de la Cour Supérieure du Québec, prononçait, en réponse à une requête en révision d’ordonnance suivant les dispositions du paragraphe 95(1) de la Loi sur la protection de la jeunesse, un jugement dans lequel il est ordonné, entre autres, que l’enfant fasse une période de temps équivalente chez le père et la mère, y compris la possibilité d’une semaine chez la mère et une semaine chez le père;
+g) Le 20 septembre 2001, l’appelante a fait parvenir au ministre, une demande de PFCE, à l’égard de l’enfant, avec effet rétroactif au 30 août 2001;
+h) Suite à une analyse du dossier, le ministre a accordé à l’appelante le PFCE à l’égard de l’enfant, pour la période de septembre 2001 à février 2002 pour l’année de base 2000;
+i) Par conséquent, le ministre a révisé à néant les PFCE de l’ex-conjoint pour la période de septembre 2001 à février 2002 pour l’année de base 2000, à l’égard de l’enfant, [. . . ] ce, en date du 20 mars 2002;
+j) Le ou vers le 17 avril 2002, l’ex-conjoint a signifié à [sic] ministre, son opposition à l’encontre de la nouvelle détermination de PFCE du 20 mars 2002 pour l’année de base 2000;
+k) Le 28 mai 2002, le ministre a confirmé la nouvelle détermination de PFCE du 20 mars 2002 pour l’année de base 2000;
+l) Le 25 octobre 2002, l’ex-conjoint a déposé auprès de la Cour canadienne de l’impôt, un avis d’appel à l’encontre de la nouvelle détermination de PFCE du 20 mars 2002 pour l’année de base 2000;
+m) Lors du jugement rendu par l’Honorable juge Pierre Archambault en date du 21 juillet 2003 (ci-après, le «jugement»), celui-ci a accordé à l’ex-conjoint l’admissibilité à la PFCE pour la période de septembre 2001 à février 2002, pour l’année de base 2000;
+n) Le 19 septembre 2003, le ministre a émis à l’appelante un avis de nouvelle détermination de la PFCE refusant à celle-ci admissibilité à la PFCE pour la période de septembre 2001 à février 2002, pour l’année de base 2000, à l’égard de l’enfant, conformément au jugement.
+[3] La décision du juge Archambault a été rendue séance tenante et aucuns motifs écrits n’ont été publiés. Cette décision n’a pas été portée en appel.
+[4] Lors de cette audience devant le juge Archambault, l’appelante n’était pas une partie, puisque le ministre ne s’était pas prévalu des dispositions de l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »). En conséquence, elle ne disposait d’aucun statut en tant que partie et, même si elle le désirait, d’aucun pouvoir de porter en appel cette décision qui pourtant affectait, de façon directe, ses droits d’admissibilité à la PFCE. Son seul recours était donc de porter en appel la détermination du ministre. En passant, cela m’amène à me poser la question de savoir si cette détermination n’est pas, à toute fin pratique, une mise à exécution du jugement du juge Archambault par le ministre plutôt qu’une détermination en tant que telle; après tout, c’est la Cour qui a fait la détermination du particulier admissible.
+[5] Cet état de choses est évidemment très favorable à l’appelante, puisqu’elle dispose d’un recours qu’elle ne possédait pas. Par contre, elle a comme conséquence d’obliger la Cour à statuer sur la même question en litige pour la même période avec les mêmes parents sans que l’ex-conjoint ne soit une partie à l’instance. L’appréciation de la preuve, le poids à accorder à cette preuve et les questions de crédibilité pourront peut-être donner un particulier admissible différent, de sorte qu’il y en aura deux qui seront éligibles. Une telle conséquence n’est-elle pas contraire aux dispositions légales ?
+[6] Il faut reconnaître toutefois que sans cette possibilité pour l’appelante d’en appeler de la détermination du ministre, elle verrait ses droits s’éteindre sans recours possible. Pour éviter ce genre de situation, l’article 174 de la Loi permet au ministre, lorsqu’il est d’avis qu’un même événement donne naissance à une question de droit, de fait ou de droit et de fait, de demander à la Cour canadienne de l’impôt de se prononcer sur cette question qui se rapporte à des cotisations relatives à plusieurs contribuables suite à ce même événement. Ne s’agit-il pas, en l’espèce, d’un tel événement ?
+[7] Les dispositions légales pertinentes au présent litige sont :
+122.6 Définitions
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+[. . . ]
+Pour l'application de la présente définition :
+[. . . ]
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[8] Ces critères se trouvent donc à l’article 6302 du Règlement. Ils sont :
+Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l’existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[9] Il s’agit donc de déterminer si l’appelante est le particulier admissible pour la période allant de septembre 2001 à février 2002.
+[10] Les parents ont été les seuls à témoigner à l’audience et il ne fait aucun doute que la période après leur séparation et leurs relations avec l’enfant ont été très difficiles. L’appelante a obtenu la garde légale de l’enfant par ordonnance de la Cour supérieure du Québec le 16 août 1999. Plus tard, soit le 30 août 2001, le juge Dorion de la Cour du Québec a ordonné que l’enfant passe une période de temps équivalente chez l’appelante et chez son père, soit une semaine chez chacun à tour de rôle. Cette même ordonnance prévoit également qu’une personne travaillant pour un établissement ou un organisme apporte aide, conseil et assistance à l’enfant, au père et à l’appelante jusqu’au 30 juin 2002 et que les contacts parents/enfant soient sous le contrôle et la supervision de la directrice de la protection de la jeunesse (DPJ). L’ordonnance prévoit aussi que l’enfant et les parents participent activement à l’application des mesures qui ont pour but de mettre fin à la situation qui compromet la sécurité et le développement de l’enfant et éviter qu’elle ne se reproduise.
+[11] Durant la période en litige, l’enfant a donc résidé chez les deux parents. Chacun d’eux a témoigné en résumant le soin et l’éducation qu’il a apportés à son enfant durant la période en litige. Lequel des deux a donc principalement assumé cette responsabilité?
+[12] L’appelante a témoigné que durant la période en litige, elle s’est occupée de son enfant en lui procurant tout ce dont il avait besoin sur le plan matériel. Elle a donc déboursé de l’argent afin de voir à ce qu’il soit habillé, qu’il ait du matériel scolaire et qu’il puisse participer à des cours de natation et de judo. Même si elle travaillait à temps partiel, l’appelante était disponible afin de participer avec l’enfant à des activités récréatives et des loisirs. Elle s’est occupée de la santé de son fils en assurant un suivi médical et en l’accompagnant lors de ses visites chez les professionnels de la santé (pédiatre, dentiste, oculiste). Elle payait les médicaments et autres besoins du genre.
+[13] Pendant une journée normale, l’appelante préparait le déjeuner et le dîner de l’enfant et l’accompagnait à l’école. Lorsque son horaire le lui permettait, elle allait le chercher à la fin des classes; sinon, il allait à la garderie. Durant ses journées de congé, l’enfant allait dîner à la maison avec l’appelante. Elle s’assurait que l’enfant ait une alimentation saine et consultait au besoin. Elle voyait à ce qu’il fasse ses devoirs et elle l’aidait. Elle rencontrait ses professeurs. L’appelante s’assurait que l’enfant soit propre et au coucher, elle passait en revue sa journée et abordait les difficultés qu’il éprouvait face à la séparation de ses parents.
+[14] L’appelante a témoigné au sujet des menaces qu’elle a reçues de son ex-conjoint avant la période en litige et des raisons pour lesquelles elle habitait chez son père. Toutes ces difficultés ont fait en sorte que l’enfant avait un comportement difficile. Elle passait beaucoup de temps avec lui afin de l’encourager et de le récompenser au besoin. Tout cela est en conformité avec les directives dans l’ordonnance du 30 août 2001 afin d’amener l’enfant à dialoguer et à collaborer avec la DPJ.
+[15] De son côté, le père abonde un peu dans le même sens. Puisqu’il était à la maison tout le temps, l’enfant venait dîner chez lui les midis. Il voyait à ce que l’enfant fasse ses devoirs. Il rencontrait aussi les professeurs. Il s’occupait des soins médicaux de l’enfant et si l’enfant était chez lui lors des rendez-vous, il l’accompagnait. Il reconnaît toutefois que l’appelante s’occupait davantage des soins de santé de l’enfant et que sur ce point, elle était plus prévoyante.
+[16] Le père s’occupait également que l’enfant ait une bonne alimentation et il voyait à ce qu’il puisse participer à ses activités parascolaires. Sur le plan du comportement, le père reconnaît que l’enfant avait certaines difficultés, et quoiqu’il puisse avoir été plus disponible pour répondre à ce besoin, sa coopération avec la DPJ était nulle. Il n’était pas intéressé à appliquer un système de pointage proposé par la DPJ, se disant lui-même très contestataire. Il leur a dit de ne pas se présenter chez lui, quoiqu’il dit ne pas les en avoir empêchés. La preuve démontre toutefois que le 4 octobre 2001, le père a reçu une lettre du conseiller juridique d’un travailleur social pour les Centres jeunesse de la Montérégie lui rappelant son refus de collaborer et de s’impliquer et ce, à l’encontre des directives rendues par ordonnance de la Cour le 30 août 2001. Il a déclaré lors de son témoignage ne pas savoir ce qu’était le problème.
+[17] Il est donc important ici de signaler que les deux parents, chacun selon ses capacités et ses moyens, a vu au bien-être de l’enfant. Leur degré d’implication et la façon qu’ils s’y sont pris me permettent toutefois de faire une distinction entre les deux parents et de déterminer lequel a assumé principalement la responsabilité du soin et de l’éducation de l’enfant. En appliquant les critères prévus au Règlement et selon les témoignages entendus, l’appelante est, à mon avis, la personne qui répond le mieux à la définition de particulier admissible à l’égard de l’enfant.
+[18] Elle m’a paru une personne très sincère et crédible et m’a semblé celle qui avait un caractère sain face aux besoins de l’enfant. Sa collaboration et sa participation avec la DPJ afin de mieux gérer le comportement difficile de l’enfant ont été remarquables. Le temps qu’elle a consacré à son enfant dans le but de le stabiliser durant cette période difficile reflète un engagement responsable visant le bien-être de son enfant. Son attention à son hygiène et à sa santé est un élément qui fait de l’appelante celle qui a assumé principalement le soin et l’éducation de l’enfant. Je ne veux pas pour autant négliger la participation du père, sauf que son attitude et son approche à ce qui semble avoir été important dans le dénouement des conflits qui ont opposé les parties lors de leur séparation et dans le comportement de l’enfant ont sûrement retardé la bonne marche de l’enfant vers un comportement acceptable. L’appelante a donc satisfait, selon la prépondérance des probabilités, au fardeau qui lui incombait.
+[19] Pour ces motifs, l’appel est admis.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2004CCI761
+Nº DU DOSSIER DE LA COUR : 2004-1822(IT)I
+INTITULÉ DE LA CAUSE : Chantal Gaudreau et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 4 novembre2004
+MOTIFS DE JUGEMENT PAR : François Angers
+DATE DU JUGEMENT : le 25 novembre 2004
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Mélanie Danakas
+Avocate de l'intimée:
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : Me Mélanie Danakas
+Étude : Lafontaine, Lapierre & Associés
+Avocats
+Longueuil (Québec)
+Pour l’intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Ontario

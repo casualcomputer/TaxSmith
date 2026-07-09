@@ -1,0 +1,112 @@
+Title: Burns v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26374/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-491-26374-burns-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-07-09
+
+# Burns v. The Queen
+
+- Citation: 2004 TCC 491
+- Decision date: 2004-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3387, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burns v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-09
+Neutral citation
+2004 TCC 491
+File numbers
+2001-4111(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4111(IT)I
+BETWEEN:
+KIMBERLEY ANNE BURNS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 5, 2004 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+R. Steven Baldwin
+Counsel for the Respondent:
+Richard Gobeil
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed. However with the consent of counsel for both parties the amount in question in 1999 is $4,200.00 and that is the amount to be included in income in that year.
+Signed at Ottawa, Canada, this 9th day of July 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC491
+Date: 20040709
+Docket: 2001-4111(IT)I
+BETWEEN:
+KIMBERLEY ANNE BURNS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in this appeal is whether in the 1999 and 2000 years the Appellant was obliged to include in her taxable income certain child support payments received from Steven Perry, the Appellant's Former Spouse.
+[2] Counsel for the Appellant and the Respondent agreed to argue this appeal on an agreed set of facts set out in the following paragraphs of the Reply to the Notice of Appeal. Namely:
+8a) the Appellant and her former spouse, namely Steven Perry (the "Former Spouse") married on April 10, 1983 and separated in 1992;
+b) at all relevant times, the Appellant and the Former Spouse were living separate and apart;
+c) at all relevant times, the Appellant and the Former Spouse had one child, namely Ryan Perry born August 25, 1984 (the "Child");
+d) pursuant to an Order of the Ontario Court (Provincial Division) dated May 27, 1992, (the "Order"), [filed as Exhibit R-1] the Former Spouse was required to pay $500.00 per month to the Appellant with respect to the Child in regard to child support and said payments commenced on or about April 30, 1992;
+e) in 1995, the Appellant and Former Spouse verbally agreed to reduce the monthly payments referred to in subparagraph 8(d) herein to $350.00 effective with the June, 1995 payment;
+...
+[3] Counsel for both parties also agreed that for the 1999 year the total amount in question was $4,200.00 not $4,800.00 and that the amount in 2000 was correctly stated as being $4,200.00.
+[4] Of particular note was that neither counsel argued on the basis of the changes made to the relevant legislation in 1996 effective May 1, 1997 which altered the previous existing regime of inclusion of support payments in the income of the payee and deduction of same in the calculation of income of the payor.
+[5] Counsel for the Appellant simply states that for 56.1(4) of the Income Tax Act (the "Act") to apply there must be a Court Order or written agreement. He states further that in the present case the agreement in 1995 reducing the amount of the support payment was only an oral agreement and for the section in question to apply there must be a written agreement. Counsel for the Respondent argued that the reduced amount is the only thing covered by the oral agreement. In other words the oral agreement merely reduced the amount and it was the original order in 1992 which fixed the original amount and consequently the original order is the source of the actual amount at a reduced rate. Consequently, the obligation to pay child support has its origin in the Order. Counsel argues further that the parties had they wanted to specifically have the support not includable and not deductible they should have gone to the Family Court and had a new Amended Order.
+Analysis
+[6] In my opinion the submissions of counsel for the Respondent are correct. The origin of the support payments derive from the Original Order. The verbal agreement in 1995 simply reduced the amount; that had no effect on the law as it stood at that time of inclusion and deduction. Had the Appellant been required to sue for support payments at the reduced amount the Appellant would have had to plead the Original Order plus the reduction of the amount in 1995.
+[7] Consequently, the appeal from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed. However with the consent of counsel for both parties the amount in question in 1999 and 2000 is $4,200.00 and that is the amount to be included in income in that year.
+Signed at Ottawa, Canada, this 9th day of July 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC491
+COURT FILE NO.:
+2001-4111(IT)I
+STYLE OF CAUSE:
+KIMBERLEY ANNE BURNS AND H.M.Q.
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+July 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+July 9th, 2004
+APPEARANCES:
+Counsel for the Appellant:
+R. Steven Baldwin
+Counsel for the Respondent:
+Richard Gobeil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+R. Steven Baldwin
+Firm:
+Templeman, Menninga, Kort,
+Sullivan and Fairbrother
+Belleville, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

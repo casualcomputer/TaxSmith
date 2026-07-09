@@ -1,0 +1,297 @@
+Title: Artisan en Tuyauterie et Specialites en Plomberie Arts Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28107/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-605-28107-artisan-en-tuyauterie-et-specialites-en-plomberie-arts-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-09-11
+
+# Artisan en Tuyauterie et Specialites en Plomberie Arts Inc. c. M.R.N.
+
+- Citation: 2003 CCI 605
+- Decision date: 2003-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1692, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Artisan en Tuyauterie et Specialites en Plomberie Arts Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-11
+Référence neutre
+2003 CCI 605
+Numéro de dossier
+2002-1608(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-1608(EI)
+ENTRE :
+ARTISAN EN TUYAUTERIE ET SPÉCIALITÉS EN PLOMBERIE ATS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Nicole Tremblay (2002‑1609(EI)) le 16 juin 2003 à Jonquière (Québec)
+Devant : L'honorable J.F. Somers, juge suppléant
+Comparutions :
+Représentante de l'appelante :
+Lyne Poirier
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2003.
+«J.F. Somers»
+Juge suppléant Somers
+Référence : 2003CCI605
+Date : 20030911
+Dossier : 2002-1608(EI)
+ENTRE :
+ARTISAN EN TUYAUTERIE ET SPÉCIALITÉS EN PLOMBERIE ATS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+2002-1609(EI)
+NICOLE TREMBLAY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Ces appels ont été entendus sur preuve commune à Jonquière (Québec), le 16 juin 2003.
+[2] Les appelantes interjettent appel de la décision du ministre du Revenu national (le «Ministre»), selon laquelle l'emploi exercé par Nicole Tremblay, la travailleuse, au cours des périodes en cause, soit du 6 avril au 26 juin 1998, du 7 septembre au 16 octobre 1998, du 31 mai au 5 novembre 1999, du 5 juin au 6 octobre 2000, du 23 octobre au 27 octobre 2000, du 2 avril au 10 août 2001 et du 27 août au 31 août 2001, auprès d'Artisan en tuyauterie et spécialités en plomberie ATS Inc., le payeur, est exclu des emplois assurables aux sens de la Loi sur l'assurance‑emploi (la «Loi»), au motif qu'il existait un lien de dépendance entre eux.
+[3] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] Les paragraphes 5(2) et (3) de la Loi sont libellés en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance
+(1) Pour l'application de la Loi,
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de «personnes liées». Pour l'application de la loi, sont des «personnes liées» ou des personnes liées entre elles:
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[...]
+[6] Le fardeau de la preuve incombe aux appelantes. Ces dernières se doivent d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[7] En rendant sa décision, le Ministre, s'est fondé sur les présomptions de faits suivantes lesquelles ont été admises ou niées :
+a) l'appelante a été constituée en société le 1er septembre 1978; (admis)
+b) l'appelante exploitait une entreprise de plomberie et de chauffage principalement dans les secteurs commercial et industriel; (admis)
+c) l'appelante employait jusqu'à sept employés dans ses périodes les plus actives; (admis)
+d) les résultants financiers de l'appelante démontraient les informations suivantes : (admis)
+Exercice financier revenus bruts bénéfice net
+1998 439 249 $ 45 967 $
+1999 158 340 $ (12 996 $)
+2000 171 556 $ (6 922 $)
+2001 240 175 $ (16 417 $)
+e) l'appelante était en exploitation à l'année longue mais les revenus mensuels de l'appelante pouvaient varier considérablement pour le même mois d'une année à l'autre; (admis)
+f) durant les périodes en litige, les actionnaires de l'appelante étaient (admis)
+Claude Lapointe 9 990 actions
+la travailleuse 10 actions
+g) la travailleuse est l'épouse de Claude Lapointe; (admis)
+h) le bureau de l'appelante était situé à la résidence de la travailleuse et de Claude Lapointe et comprenait également un garage et un entrepôt de pièces au-dessus du garage; (nié)
+i) la travailleuse était commis de bureau; (nié)
+j) durant les périodes en litige, la tenue des registres, le journal des salaires, les factures aux clients, les rapports mensuels à la Commission de Construction du Québec étaient complétés par Claude Lapointe; (admis)
+k) les tâches de la travailleuse consistaient à répondre au téléphone, à recevoir les représentants, à faire l'entretien ménager des locaux et des deux camions, à peindre les locaux, à buriner les outils de l'appelante; (admis sauf à parfaire)
+l) en 1998, la travailleuse était rémunérée au taux horaire de 13,32 $; (nié)
+m) en 1999, la travailleuse était rémunérée au taux horaire de 14,42 $; (nié)
+n) en 2000, la travailleuse était rémunérée au taux horaire de 15,81 $; (nié)
+o) en 2001, la travailleuse était rémunérée au taux horaire de 16,65 $; (nié)
+p) le salaire de la travailleuse était déraisonnable compte tenu de ses tâches; (nié)
+q) Claude Lapointe ne recevait pas de salaire durant les périodes où la travailleuse était inscrite au journal des salaires; (nié)
+r) le 31 janvier 2002, à un représentant de l'intimé, Claude Lapointe admettait qu'il ne prenait pas de salaire lorsque la travailleuse était au journal des salaires afin de garder les dépenses de l'appelante au minimum; (nié)
+s) la travailleuse apparaissait au journal des salaires pour des semaines de 40 heures; (admis)
+t) le volume de travail de la travailleuse ne pouvait pas justifier 40 heures de travail par semaine; (nié)
+u) la travailleuse et l'appelante ne pouvaient pas déterminer le nombre d'heures réel de travail de la travailleuse; (nié)
+v) le journal des salaires ne reflétait pas la réalité quant aux heures réellement travaillées par la travailleuse. (nié)
+[8] Le payeur a été incorporé en 1978 exploitant une entreprise de plomberie et de chauffage principalement dans les secteurs commercial et industriel.
+[9] Les actionnaires de l'entreprise sont Claude Lapointe et son épouse, la travailleuse Nicole Tremblay détenant respectivement 9 990 actions et 10 actions.
+[10] La compagnie employait jusqu'à sept employés dans ses périodes les plus actives et avait des sous-traitants.
+[11] Les résultats financiers de la compagnie démontraient les informations suivantes :
+Exercice financier revenus bruts bénéfice net
+1998 439 249 $ 45 967 $
+1999 158 340 $ (12 996 $)
+2000 171 556 $ (6 922 $)
+2001 240 175 $ (16 417 $)
+[12] L'entreprise était en exploitation à l'année longue mais les revenus mensuels de la compagnie pouvaient varier considérablement d'une année à l'autre.
+[13] La compagnie, selon Claude Lapointe, avait comme clients Abitibi Consolidated Inc., Alcan et la Commission scolaire et les travaux se faisaient plutôt à l'extérieur de la région.
+[14] Le bureau d'affaires du payeur était situé à la résidence familiale et comprenait également un garage au-dessus duquel un entrepôt de pièces était aménagé. Des photos démontrant la résidence en 1982 sont déposées sous la cote A‑1.
+[15] La travailleuse était commis de bureau durant les périodes en cause et a débuté son emploi à la compagnie en 1979.
+[16] Durant les périodes en cause, la travailleuse faisait la tenue de livres, le journal des salaires et les factures aux clients. Les rapports mensuels, à la Commission de construction du Québec, étaient complétés par Claude Lapointe.
+[17] Claude Lapointe a déclaré qu'il embauchait son épouse au besoin surtout lorsqu'il avait des grosses soumissions car elle faisait le calcul des soumissions lorsqu'il était à l'extérieur. Elle faisait le ménage du bureau, du garage, de l'atelier et de l'outillage. Elle peinturait également les tuyaux, les locaux et burinait les outils qui sont évalués à environ 100 000,00 $.
+[18] Un document (pièce A-2), préparé par Claude Lapointe, démontre les revenus de l'entreprise pour les années 1993 à 2003.
+[19] Selon Claude Lapointe, son épouse a travaillé pour la compagnie à compter de 1979 selon les besoins de l'entreprise et de la famille. Son salaire était payé par chèque à chaque semaine pour 40 heures de travail, tel qu'indiqué à la pièce A-3. Son salaire variait entre 10,00 $ et 15,00 $ l'heure, mais il ajoute qu'elle a reçu jusqu'à 18,28 $ l'heure.
+[20] Claude Lapointe ne recevait pas toujours son salaire. Il était payé selon la capacité financière de la compagnie. Selon le décret, le taux horaire payé aux plombiers, incluant Claude Lapointe, était de 23,78 $ à 27,84 $.
+[21] Claude Lapointe a expliqué que son épouse pouvait travailler de 2 à 3 jours sur certaines soumissions. Entre mai et juin 2001, il y a eu environ 20 soumissions.
+[22] La travailleuse devait faire l'inventaire avant le 31 juillet 2001. La comptabilité se faisait manuellement.
+[23] En contre-interrogatoire Claude Lapointe a déclaré que les soumissions sont faites avant la signature des contrats. Il a ajouté que c'est lui qui préparait les soumissions selon les plans et devis et que son épouse faisait le calcul et l'addition des montants.
+[24] Claude Lapointe a admis qu'il a fait 90 % des factures déposées sous la cote I-2. Par contre, il a affirmé que 95 % de l'écriture apparaissant à la pièce I‑4 a été faite par la travailleuse.
+[25] La travailleuse a témoigné qu'elle a travaillé pour le payeur de 1979 jusqu'à la fin de septembre 2002 et qu'elle n'a pas travaillé pour celui-ci depuis.
+[26] Elle a admis qu'elle n'avait pas d'expérience dans ce domaine avant 1979 et que c'est son époux qui lui a enseigné.
+[27] Selon son témoignage, ses tâches, en plus de celles énumérées au paragraphe 5 k) de la Réponse à l'avis d'appel, consistaient à préparer les factures et les paies, faire les entrées dans les livres et faire les dépôts bancaires, dont ceux déposés sous la cote A-6 à l'exception de trois d'entre eux. De plus, elle faisait le calcul des soumissions, préparait les photocopies et les enveloppes adressées aux personnes concernées.
+[28] Pendant les périodes en cause, elle a ajouté qu'elle peinturait les locaux et environ 3 000 pieds de tuyau, faisait le ménage dans les locaux de la compagnie, préparait les inventaires, faisait des livraisons et burinait les outils.
+[29] En contre-interrogatoire, elle a déclaré qu'elle faisait le grand ménage de l'intérieur des camions une fois par année et qu'elle les lavait à tous les 15 jours et que l'inventaire se faisait une fois par année.
+[30] Louise Dessureault, agente des appels et témoin de l'intimé, a affirmé qu'elle a rencontré Claude Lapointe, le comptable de l'entreprise, Gabriel Lapointe, et la travailleuse dans les locaux des appels le 31 janvier 2002.
+[31] Selon le tableau préparé par l'agente des appels et déposé sous la cote I-7, la travailleuse a oeuvré pour le payeur à des périodes différentes et a continué pendant les années en litige.
+[32] Dans son rapport sur un appel (pièce I-6), Louise Dessureault y a noté, entre autres, les informations suivantes :
+Rétribution versée
+En 1998 : l'appelante est rémunérée au taux horaire de 13,32 $ pour 40 heures de travail.
+En 1999 : le taux horaire de l'appelante passe à 14,42 $ soit une augmentation de 8,25 % et ce, malgré une diminution drastique des contrats et d'une perte d'exercice de 12 000 $. Aucune augmentation n'est accordée aux autres travailleurs sauf un qui est augmenté de 0,24 $ de l'heure.
+En 2000 : le taux horaire de l'appelante passe à 15,81 $, soit une augmentation de 8,70 %. Les augmentations salariales accordées aux autres travailleurs varient de 4 % à 20 % (taux fixés par la CCQ)
+En 2001 : malgré une diminution des contrats, du chiffre d'affaires et une perte d'exercice, le salaire de l'appelante est augmenté à 16,65 $, soit une augmentation de 5,37 % alors que les autres travailleurs bénéficient d'une augmentation de 2,98 % et 3,18 %.
+Les rapports financiers du payeur rapportent les informations suivantes :
+EXERCICE TERMINÉ LE REVENUS DE CONTRATS BÉNÉFICE NET
+31-07-1997 439 670,00 $ 27 920,00 $
+31-07-1998 439 249,00 $ 45 967,00 $
+31-07-1999 158 340,00 $ (12 996,00) $
+31-07-2000 171 556,00 $ (6 922,00) $
+31-07-2001 240 175,00 $ (16 417,00) $
+[33] L'appelante a reçu des augmentations de salaire pour les années 1999, 2000 et 2001 alors que le payeur subissait des pertes. Les autres employés ont reçu des augmentations de salaire moins élevées que celles octroyées à la travailleuse.
+[34] De 1998 à 2000 un salaire est versé à Claude Lapointe uniquement lorsque la travailleuse ne figure pas au livre des salaires. En 2001, aucun salaire n'a été versé à Claude Lapointe de janvier à août. Il est à noter que l'entreprise est en exploitation à l'année.
+[35] L'agente des appels, dans son rapport (pièce I-6), a tracé le tableau suivant :
+Les entrées aux divers registres du payeur sont effectuées principalement par Claude Lapointe, aidé de l'appelante [la travailleuse] durant ses périodes d'emploi soit :
+Responsabilités conjointes de Claude Lapointe et de Nicole Tremblay :
+Mois DOCUMENTS COMPLÉTÉS PAR
+CLAUDE LAPOINTE NICOLE TREMBLAY
+Registre des fournisseurs intrants
+complète additionne les montants
+Rapports TPS et TVQ
+complète additionne les montants
+Factures mensuelles aux clients (travaux en cours) (...)
+complète et additionne en période d'emploi trouve les prix unitaires des matériaux dans les catalogues
+Relevé mensuel des comptes à recevoir (préparé pour la banque) (...)
+2001 janvier, février, mars et septembre 30 avril, 30 mai, 30 juin, 31 juillet, 31 août,
+31 octobre et 31 décembre
+mars et septembre
+2000 REGISTRE DES CHÈQUES MENSUELS (...)
+août 7 entrées 46 entrées
+sept 9 41
+oct 8 35
+nov 43 14
+déc 41 0
+2001
+janv 19 0
+fév 34 0
+mars 40 0
+avril 35 0
+mai 42 0
+juin 22 6
+juillet 33 0
+août 42 0
+sept 43 0
+oct 35 15
+nov 23 27
+déc 23 30
+[36] Il s'agit de faire la comparaison entre les données des pièces I-4 et I-6, c'est-à-dire les entrées aux divers registres du payeur et les périodes de travail de la travailleuse.
+[37] En contre-interrogatoire l'agente des appels a expliqué que Claude Lapointe recevait des chèques (salaire) plutôt lorsque la travailleuse était en période de chômage. Elle a admis que lorsque Claude Lapointe ne recevait pas de salaire lorsqu'il ne travaillait pas.
+[38] Ce témoin a admis que les augmentations de salaire aux employés autre que la travailleuse sont accordées par décret incluant le salaire de Claude Lapointe.
+[39] D'après la vérification des documents du payeur, les soumissions se faisaient quand la travailleuse était en période de chômage.
+[40] Selon les informations fournies dans un document préparé par le comptable du payeur, l'agente des appels, a décrit comme suit, dans son rapport, les tâches de la travailleuse et Claude Lapointe pour l'année 2001 :
+1) Travail général de bureau :
+· Elle répond au téléphone, (en période de chômage, Claude Lapointe utilise le répondeur lorsqu'il s'absente);
+· Elle complète différents documents (faits 24)
+· Elle reçoit les différents représentants en matériaux de construction qui lui remettent les catalogues de produits;
+2) Maintenance des locaux,
+· Grand ménage annuel du bureau en mai 2001, et ménage des classeurs
+· Ménage régulier du bureau (...)
+· Juin 2001, peinture de l'atelier les murs et le plancher et déplacer et replacer le stock (...)
+· Juillet et août, faire l'inventaire annuel des pièces et matériaux (stock), faire le décompte de chaque case pour compilation par monsieur Lapointe : 40 feuilles complétées par monsieur Lapointe (...)
+3) Lavage des camions et des stocks
+· Lavage des 2 camions intérieur et extérieur, nettoyage des outillages et reclassement de ceux-ci mai 2001 (...)
+· Travaux spécifiques à 2001 : burinage de tous les outils et outillage (900 outils) afin de réduire la franchise d'une compagnie d'assurance (l'avenant de la compagnie d'assurance précise que la diminution de la franchise à 1 000 $ entre en vigueur le 3 avril 2001, suite au burinage des outils, début de l'emploi de l'appelante : le 2 avril 2001. (...)
+· En avril 2001, l'appelante a peinturé les outils en vert (Onglet Plan 3 et photos)
+· Il est à noter qu'en 2000, l'appelante a peinturé 3 000 pieds de tuyau nécessitant 70 heures de travail.
+4) Assistance à la préparation des soumissions
+· En 2001 le payeur a répondu à 44 soumissions, exemples fournis : février: 1, mars 1, avril 2, mai 3, juin 2, juillet 1, août 3, octobre 4, novembre 1 (...)
+· Les soumissions peuvent demander de 30 à 90 heures de travail, et les tâches de l'appelante sont d'additionner les surfaces à couvrir pour les travaux de tuyauterie afin de déterminer le matériel requis par chaque soumission. Elle travaille de concert avec Claude Lapointe qui lui donne le nombre de pieds à additionner.
+· Elle fait les photocopies et expédie les documents par télécopie, dans la dernière semaine d'août 2001, 1 soumission a demandé les photocopies de 8 cartables (1 pouce d'épais 31 chapitres, 100 pages);
+Certaines tâches sont la responsabilité exclusive de Claude Lapointe soit :
+· Les salaires des travailleurs de la construction suivent les normes de la Commission de Construction du Québec qui dicte les taux et augmentations annuelles;
+· Il détermine le montant des déductions à la source et fait la majorité des entrées au livre des salaires;
+· Il complète les rapports de déductions à la source;
+· Il complète les rapports mensuels à la CCQ pour ses travailleurs de la construction;
+· Il engage les travailleurs et prépare les relevés d'emploi;
+· Les dépôts sont effectués majoritairement par Claude Lapointe;
+· Il fait les achats, matériaux et autres;
+· Il signe la grande majorité de chèques et Nicole Tremblay signe les chèques aux fournisseurs et autres lorsqu'il est absent (...)
+· Il travaille sur les chantiers
+· Il prépare les soumissions selon les plans et devis.
+[41] La Cour d'appel fédérale dans la cause Ferme Émile Richard et Fils et le ministre du Revenu national, [1994] A.C.F. no 1859, a indiqué que lorsqu'il s'agit d'appliquer le sous-alinéa 3(2)c)(ii) de la Loi sur l'assurance-chômage, maintenant l'alinéas 5(3)b) de la Loi sur l'assurance-emploi, la Cour doit se demander si la décision du Ministre «résulte d'un exercice approprié de son pouvoir discrétionnaire». La Cour doit exiger dans un premier temps que l'appelant «fasse la preuve d'un comportement capricieux ou arbitraire du Ministre».
+[42] Dans la cause Bérard c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.F. no 88 le juge Hugessen s'exprime ainsi :
+[...] Le but évident de la législation est d'exclure les contrats de travail entre des personnes liées qui ne sont pas de la même nature qu'un contrat normal conclu entre des personnes n'ayant pas un lien de dépendance entre elles. Il nous parait clair que ce caractère anormal peut aussi bien se manifester dans des conditions désavantageuses pour l'employé que dans des conditions favorables. Dans les deux cas, la relation employeur-employé n'est pas normale et il est permis de soupçonner qu'elle a été influencée par d'autres facteurs que les forces économiques du marché du travail.
+[43] Dans la cause Légaré c. Canada (ministre du Revenue national – M.R.N.) [1999] A.C.F. no 878 le juge Marceau s'est exprimé ainsi :
+[...] La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre: c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était «convaincu» paraît toujours raisonnable.
+[44] Les trois décisions précitées énumèrent les principes que cette Cour doit appliquer en analysant la preuve dans les causes en appel.
+[45] La preuve a démontré qu'il y a un lien de dépendance entre le payeur et la travailleuse.
+[46] La Cour doit vérifier si les faits sur lesquels le Ministre s'est basé pour rendre sa décision sont erronés ou si le Ministre a agi de mauvaise foi.
+[47] Les principaux faits retenus par le Ministre sont : le taux horaire de la travailleuse, les augmentations de salaire de celle-ci, la capacité financière du payeur, le nombre d'heures réel de travail de la travailleuse et le fait que l'actionnaire principal de la compagnie ne recevait pas de salaire lorsque la travailleuse était inscrite aux livres de salaire.
+[48] Il a été établi que Claude Lapointe ne recevait pas de salaire quand la travailleuse était inscrite au registre des salaires. Le but de cet arrangement était de garder les dépenses au minimum afin de satisfaire la banque. Cette exigence de la banque pourrait expliquer la situation financière de la compagnie; cependant, même dans cette situation financière la travailleuse a reçu des augmentations de salaire.
+[49] Le payeur a admis que la compagnie était déficitaire durant les années 1999, 2000 et 2001.
+[50] Ces faits ont été prouvés à l'audience devant cette Cour; donc ces faits retenus par le Ministre ne sont pas erronés.
+[51] Les tâches de la travailleuse consistaient principalement à répondre au téléphone, recevoir les représentants, faire l'entretien ménager des locaux et des deux camions, peindre les locaux et buriner les outils.
+[52] Claude Lapointe a expliqué que son épouse remplissait les soumissions et émettait les chèques de paie. Claude Lapointe et Nicole Tremblay avaient tous deux l'autorisation de signer les chèques. Une série de chèques déposée sous la cote A-5 démontre que Nicole Tremblay et Claude Lapointe se sont partagé la signature de ceux-ci.
+[53] Il est en preuve que la travailleuse effectuait certains calculs sur les soumissions mais que c'est Claude Lapointe qui mettait les chiffres appropriés basés sur les plans et devis. La travailleuse a expliqué qu'elle faisait l'addition des chiffres, préparait les photocopies et mettait les soumissions dans les enveloppes; sa participation est limitée donc à la préparation des soumissions. D'ailleurs les soumissions sont faites avant d'obtenir les contrats.
+[54] Claude Lapointe a admis que les documents déposés sous la cote I-4 (facturation) ont été préparés par la travailleuse et qu'il n'a fait que le calcul du solde.
+[55] La travailleuse ne faisait pas de travaux manuels à toutes les semaines; le grand ménage se faisait une fois par année, les camions étaient lavés à tous les 15 jours, les outils étaient peinturés à quelques occasions et l'inventaire se faisait une fois par année en juin et juillet; donc le travail manuel n'occupait pas beaucoup de ses heures de travail.
+[56] Dans l'ensemble, les tâches de Nicole Tremblay ne reflètent pas la réalité des heures réellement travaillées.
+[57] La travailleuse a reçu 11 % de sa rémunération en paie de vacances, soit le même pourcentage reçu par Claude Lapointe. L'explication donnée à la Cour est que ce pourcentage est établi par un décret alors que le salaire de la travailleuse n'est pas régi par décret. Était-il nécessaire d'établir même le pourcentage de la rémunération de la travailleuse.
+[58] Les autres employés ont reçu des augmentations de salaire moindres que celles accordées à la travailleuse. Le décret établit le minimum d'augmentation pour les employés soumis aux décrets et non le maximum.
+[59] Les augmentations de salaire de la travailleuse sont plus généreuses que celles octroyées aux autres employés et celles-ci sont déraisonnables compte tenu des responsabilités de la travailleuse et la capacité financière de la compagnie.
+[60] La jurisprudence a établi que la Cour ne peut substituer son appréciation à celle du Ministre si les faits sur lesquels il a basé sa décision ne sont pas erronés ou s'il n'a pas agi de mauvaise foi.
+[61] Compte tenu de toutes les circonstances en l'espèce, les appelantes n'ont pas réussi à établir, selon la prépondérance de la preuve, que le Ministre a agi d'une façon capricieuse ou arbitraire.
+[62] Les conditions de travail n'auraient pas été semblables si la travailleuse et le payeur n'avaient pas eu entre eux de lien de dépendance.
+[63] L'emploi de l'appelante Nicole Tremblay est exclu des emplois assurables en vertu de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi.
+[64] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2003.
+« J.F. Somers »
+Juge suppléant Somers
+RÉFÉRENCE :
+2003CCI605
+No DU DOSSIER DE LA COUR :
+2002-1608(EI) et 2002-1609(EI)
+INTITULÉ DE LA CAUSE :
+Artisan en tuyauterie et spécialités en plomberie ATS Inc. et M.R.N. et Nicole Tremblay et M.R.N.
+LIEU DE L'AUDIENCE :
+Jonquière (Québec)
+DATE DE L'AUDIENCE :
+le 16 juin 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable J.F. Somers,
+juge suppléant
+DATE DU JUGEMENT :
+le 11 septembre 2003
+COMPARUTIONS :
+Pour les appelantes :
+Lyne Poirier (représentante)
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelantes :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,192 @@
+Title: Létourneau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29748/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-203-29748-l-tourneau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-15
+
+# Létourneau v. The Queen
+
+- Citation: 2010 TCC 203
+- Decision date: 2010-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6555, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Létourneau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-15
+Neutral citation
+2010 TCC 203
+File numbers
+2008-941(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-941(IT)G
+BETWEEN:
+AGATHE LÉTOURNEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 10, 2009, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Jacques Matte
+Counsel for the respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated May 4, 2006, and bearing the number 43718, made by the Minister of National Revenue under subsections 152(4) and 227(10) and section 227.1 of the Income Tax Act and sections 82 and 83 of the Employment Insurance Act following two unpaid assessments against 9034‑1751 Québec Inc., is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2010.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 20th day of June 2010
+François Brunet, Revisor
+Citation: 2010 TCC 203
+Date: 20100415
+Docket: 2008-941(IT)G
+BETWEEN:
+AGATHE LÉTOURNEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from an assessment dated May 4, 2006, and bearing the number 43718. The assessment was made by the Minister of National Revenue (the Minister) under subsection 227(10) and section 227.1 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the ITA) and sections 82 and 83 of the Employment Insurance Act, S.C. 1996, c. 23 (the EIA) following two unpaid assessments against 9034‑1751 Québec Inc. One of the unpaid assessments is dated March 5, 2002, and is in the amount of $824.65, and the other is dated March 6, 2002, and is in the amount of $70,023.76. Both unpaid assessments are on account of unremitted source deductions.
+[2] The only issue is whether the appellant can be held solidarily liable, along with 9034‑1751 Québec Inc. for the total of $70,848.41 in source deductions (and interest and penalties thereon) which the company was required to deduct, withhold and remit to the Receiver General for Canada.
+[3] In making the assessment in issue, the Minister relied on the following facts:
+[TRANSLATION]
+a. 9034‑1751 Québec Inc. (hereinafter 9034) operated from April 1996 to April 18, 2002.
+b. The appellant was a director of 9034 starting on January 4, 1999.
+c. On March 5, 2002, the Minister issued an assessment against 9034 in relation to unpaid source deductions for 2002.
+d. On March 6, 2002, the Minister issued an assessment against 9034 in relation to unpaid source deductions for 2001.
+e. On April 18, 2002, 9034 made an assignment of its property.
+f. On March 31, 2003, the Minister asked 9034’s trustee in bankruptcy for the minute book of 9034, among other things.
+g. On June 16, 2003, the Minister received a copy of the register of directors contained in 9034’s minute book.
+h. On December 19, 2003, the Minister asked 9034’s trustee in bankruptcy, under paragraphs 231.2(1)(a) and (b) of the ITA, to send him 9034’s original minute book.
+i. On January 21, 2004, the Minister consulted 9034’s original minute book, including the register of directors.
+j. 9034’s register of directors was falsified in such a way as to make it appear as though the appellant had resigned from her directorship on December 9, 1999.
+k. In fact, the appellant was a director until at least as recently as January 3, 2002.
+l. On May 7, 2004, 9034 was dissolved.
+m. The appellant has not shows that she has exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[4] The dispute centres on the date the appellant resigned as director of 9034‑1751 Québec Inc. The company’s register of directors says that she resigned on December 9, 1999. The problem is that her mandate’s termination date was corrected. A new date was entered on top of an old one using correction tape. Despite this correction, the original date, January 3, 2002, is legible. Counsel for the appellant acknowledged at the hearing that the register was corrected, but stated that his client did not know who made the alteration or when it was made. He also noted that other corrections were made to the 9034‑1751 Québec Inc. minute book and that the respondent adduced no expert report.
+[5] 9034‑1751 Québec Inc. was incorporated on April 23, 1996, under Part 1A of the Quebec Companies Act. Its activities were those of a management company that operated six convenience stores under the banner “Pétroles Sonerco”, including the Saint-Hyacinthe location, which operated as “Accommodation Grandmaître.”
+[6] According to the company’s register of shareholders, the following individuals held Class “A” shares of the company.
+Name
+Period in which shares held
+Jean Fontaine
+1996-04-23 to 1996-02-12
+Roger Tardif
+1996-02-12 to 1997-05-12
+Jean Fontaine
+1997-05-12 to 1999-01-04
+Agathe Hébert Létourneau
+1999-01-04 to 2001-01-03
+Jean Fontaine
+2001-01-03 to [unspecified]
+[7] On April 23, 1996, Jean Fontaine became a shareholder of 9034‑1751 Québec Inc. by subscribing for 100 Class “A” shares in consideration for $1.00 per share. On December 2, 1996, Jean Fontaine transferred ownership of his 100 Class “A” shares to Roger Tardif for an undisclosed consideration. On May 12, 1997, Roger Tardif transferred ownership of his 100 Class “A” shares Jean Fontaine for an undisclosed consideration. On January 4, 1999, Jean Fontaine transferred ownership of his 100 Class “A” shares to the appellant for an undisclosed consideration. On January 3, 2001, the appellant transferred ownership of her 100 Class “A” shares of the company back to Jean Fontaine, for an undisclosed consideration. With respect to that last transfer, the Court noted that the date of the endorsement of share certificate A-4 for transfer and proxy purposes has also been altered, and that the transfer year originally entered on the certificate was 2002, not 2001. The Court was not given the reasons for these multiple share transfers. The Court also noted that the shareholder register of 9034‑1751 Québec Inc. was corrected as well. The year 2002 appears to have corrected to read 2001 with respect to the year the appellant ceased to be a shareholder of the company, and the year Jean Fontaine acquired the appellant’s shares.
+[8] According to the register of directors, the following individuals were directors of 9034‑1751 Québec Inc. from the time of its incorporation onward:
+Name
+Period in which office held
+David Saltzman
+1996-04-23 to 1996-04-23
+Alan Schauber
+1996-04-23 to 1996-04-23
+James Smith
+1996-04-23 to 1996-04-23
+Jean Fontaine
+1996-04-23 to 1996-12-02
+Roger Tardif
+1996-12-02 to 1997-05-12
+Jean Fontaine
+1997-05-12 to 1999-01-04
+Agathe Hébert Létourneau
+1999-01-04 to 1999-12-09
+Jean Fontaine
+1999-12-09 to [unspecified]
+The Court was not given the reasons for these multiple changes of directors.
+[9] Jean Fontaine testified at the hearing. He was employed by 9034‑1751 Québec Inc. from 1998 to 2002. He was the gas pump attendant and the manager at the Saint‑Hyacinthe convenience store. He managed his employees and purchased gasoline and various supplies. His management mentor was Marcel Létourneau, the appellant’s spouse. Marcel Létourneau offered him the position at the Saint‑Hyacinthe convenience store. Mr. Fontaine trusted him blindly and followed his advice to the letter. He testified that he never refused to sign documents that Marcel Létourneau placed in front of him, even if he did not understand the nature and consequences of the document that he was signing, and that, more often than not, the documents were signed hastily, in between serving two gas pump customers, without having been read. He has a Grade 10 education.
+[10] The documents signed by the witness as director and/or officer of 9034‑1751 Québec Inc. include (a) corporate resolutions; (b) an application to open an account at Caisse populaire Bourg-Joli dated January 24, 2000, on which he and company comptroller Guylaine Lemay were to be the two cheque signing officers; (c) cheques payable to Marco Dumond and dated March 30, 2001, and April 20, 24 and 25, 2001; (d) cheques payable to Marcel Létourneau and dated March 26, 28 and 30, 2001 and April 10 and 24, 2001; and (e) annual information returns by a legal person for the years 1998, 2000 and 2001.
+[11] On cross-examination, the witness admitted the he had not prepared the documents that he signed, and that he signed them at Marcel Létourneau’s request. He also acknowledged that he never the saw minute book of 9034‑1751 Québec Inc. or share certificate A-1, and yet he signed the latter document on April 23, 1996, as president and secretary of the company. Lastly, he said that he did not know Ginette Lambert, whose name is entered in the convenience store’s payroll journal, and that he did not know whether 9034‑1751 Québec Inc. owed $150,000 to Gestion Aghmana Inc. at the time that it went bankrupt.
+[12] The appellant also testified at the hearing. She said that she has been married to Marcel Létourneau since 1966. She confirmed that she was briefly a shareholder and director of 9034‑1751 Québec Inc. Specifically, she said that she was a shareholder from January 4, 1999, to January 3, 2001, and she was a director from January 4, 1999, to December 9, 1999. She also confirmed that she was a shareholder of Gestion Aghmana Inc. which was, among other things, the owner of a Rouyn‑Noranda commercial building in which 9034‑1751 Québec Inc. operated a convenience store. She did not explain why she became a shareholder and director of 9034‑1751 Québec Inc. and did not want to confirm that her spouse managed all the six convenience stores. Moreover, her spouse did not testify at the hearing.
+[13] The appellant did not recall the number of shares of 9034‑1751 Québec Inc. that she acquired and was unable to confirm whether she was the sole shareholder of that company. The purchase and sale price of the 100 shares that she acquired was $100, and she was unaware of their actual value. She said that she did not have the minute book of 9034‑1751 Québec Inc. in her possession.
+[14] Upon being questioned about the $158,000 loan that Gestion Aghmana Inc. advanced to 9034‑1751 Québec Inc. in 1999, she acknowledged that she signed a proof of unsecured claim that was submitted to Roy Mercier Roberge, trustee in bankruptcy, on May 6, 2002, for a $158,000 loan granted to 9034‑1751 Québec Inc., which was not a related person within the meaning of section 4 of the Bankruptcy and Insolvency Act. The appellant was unable to explain why Gestion Aghmana Inc. did not demand security for its loan when it ceased to be a director and/or shareholder of 9034‑1751 Québec Inc.
+[15] In her testimony, the appellant stated that, as director of 9034‑1751 Québec Inc., she was not involved in the day-to-day operations of the company, because it was managed in Victoriaville by Ms. Lemay, who did the bookkeeping and accounting. She was unable to confirm whether she signed cheques of 9034‑1751 Québec Inc. and whether she signed bank resolutions to that effect.
+[16] The appellant also confirmed that she knew Ginette Lambert, a person who lent money to her husband, but she did not recall whether Ms. Lambert was on the payroll of 9034‑1751 Québec Inc. in 2001 and 2002, when she was not working there. She also confirmed that she received a salary from 9034‑1751 Québec Inc. in 2001 ($16,900) and 2002 ($8,000) even though there were no source deductions from her salary in 2001 on account of Canada Pension Plan and Employment Insurance, and even though she had ceased to be a shareholder of 9034‑1751 Québec Inc. in January 2001 according to the information contained in that company’s minute book.
+[17] Daniel Thibeault, a collections officer for the Canada Revenue Agency (CRA), testified at the hearing. His involvement in the case began with the receipt of the notice of bankruptcy and first creditors meeting for 9034‑1751 Québec Inc., dated April 25, 2002. Prior to his involvement, an audit of the source deductions made by 9034‑1751 Québec Inc. for the period from January 1, 2001, to January 31, 2002, was done by Nicole Villeneuve, and the total arrears, penalties, and interest was $81,216.19. The appellant does not dispute this amount.
+[18] Mr. Thibeault also testified about how the minute book of 9034‑1751 Québec Inc., which was then in the possession of the trustee in bankruptcy, came to be obtained. Following telephone conversations with the trustee, a formal letter requesting the company’s minute book was sent to the trustee on March 31, 2003. In response, on June 16, 2003, the trustee provided a photocopy of excerpts from the company’s minute book, including the register of directors and registered shareholders. However, the right‑hand column of each register was missing from the photocopied excerpts. In the case of the register of directors, that column contained the end of each director’s mandate, and in the case of the register of shareholders, it contained the date that each shareholder cased to hold the shares. After the CRA received the incomplete documents, it sent the trustee a demand letter dated December 19, 2003, instructing the trustee to provide it with 9034‑1751 Québec Inc.’s minute book no later than January 24, 2004. On January 21, 2004, the trustee let the CRA consult the minute book on its premises. Finally, the CRA received the original of the company’s minute book in October 2005.
+[19] Mr. Thibeault explained that two proposed assessments were submitted in October 2005 and that there was no response to these proposed assessments, and no representations by the appellant with regard to them. There were two meetings with Jean Fontaine, one in May 2005 and the other in October 2005. At these meetings, Mr. Fontaine said that he agreed to be a shareholder and director of 9034‑1751 Québec Inc. at the request of Marcel Létourneau, and he acknowledged that he signed the documents without having more than a cursory look at them. Based on the information obtained at these meetings, Jean Fontaine never paid the price of his shares in 9034‑1751 Québec Inc., and did not know it had a $158,000 debt.
+[20] Mr. Thibeault told the court that a meeting was held with Ginette Lambert in February 2006. She explained that Ms. Lambert had a mortgage on a Florida condominium registered under the appellant’s name, and granted the appellant a release from her mortgage in 2002 without being paid. Ms. Lambert acknowledged that she was paid out of false wages coming from companies related to Marcel Létourneau’s group, including 9034-1751 Québec Inc. Her total income for the years 1998 through 2002 was roughly the same as the amount of her mortgage claim.
+Analysis
+[21] The reassessment against the appellant is dated May 4, 2006. That is more than two years after the appellant ceased, for the last time, to be a shareholder of 9034‑1751 Québec Inc., whether that date was December 9, 1999, or January 3, 2002. It is also more than two years after the CRA first consulted the original minute book of 9034‑1751 Québec Inc. on January 24, 2004, and more than two years after 9034‑1751 Québec Inc. made an assignment of its property on April 18, 2002. However, it is within the two-year period that began on the date that Quebec’s Registraire des entreprises cancelled 9034‑1751 Québec Inc.’s registration, because that cancellation took place on May 7, 2004.
+[22] The liability of directors for a failure to make source deductions is defined in subsection 227.1(1) of the ITA, which reads:
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+[23] Subsection 227.1(4) of the ITA grants a two-year window, after a director has last ceased to be a director of a corporation, to commence proceedings to recover an amount payable by a director under subsection 227.1(1). Subsection 227.1(4) of the ITA reads:
+(4) Limitation period. No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+[24] However, under subsection 227(10) of the ITA, the Minister has the power to assess, at any time, any amount payable by a person under section 227.1 of the ITA. Subsection 227(10) reads as follows:
+(10) The Minister may at any time assess any amount payable under
+(a) subsection 227(8), 227(8.1), 227(8.2), 227(8.3) or 227(8.4) or 224(4) or 224(4.1) or section 227.1 or 235 by a person,
+(b) subsection 237.1(7.4) by a person or partnership,
+(c) subsection 227(10.2) by a person as a consequence of a failure of a non‑resident person to deduct or withhold any amount, or
+(d) Part XIII by a person resident in Canada,
+and, where the Minister sends a notice of assessment to that person or partnership, Divisions I and J of Part I apply with any modifications that the circumstances require.
+[25] Under the above-cited statutory provisions, the Minister is under no time limit to assess an amount payable by a person under section 227.1 of the ITA, but the recovery proceedings are subject to a two-year limitation period which starts on the date that the person ceases for the last time to be a director of the corporation.
+[26] Hence, it is imperative to determine the date that the appellant last ceased to be a director of 9034‑1751 Québec Inc.
+[27] In the light of the evidence adduced, this Court believes that it was only on May 7, 2004, the date that the corporation was officially struck off the enterprise register, that the appellant ceased to be a director of 9034‑1751 Québec Inc.
+[28] In view of the evidence, it is clear that the minute book of 9034‑1751 Québec Inc. was inexplicably corrected in order to replace the date the appellant ceased to be a director of that company so that it would read December 9, 1999, instead of January 3, 2002. Consequently, the appellant’s true date of resignation from her directorship is unknown, and her letter of resignation dated December 9, 1999, cannot be recognized as valid and effective. Since the appellant produced no subsequent letter of resignation, she must be considered never to have resigned from position as director, and to have remained in office until the date that 9034‑1751 Québec Inc. was struck off the register. Indeed, it bears mentioning that no form reporting a change of directors was filed with the Registraire des entreprises to give notice of the appellant’s resignation.
+[29] Section 123.876 of the Companies Act, R.S.Q., c. C‑38, provides as follows with respect to the termination of a director’s office:
+123.76 Notwithstanding the expiry of his term, a director remains in office until he is re-elected, replaced, or removed.
+A director may resign from office by giving notice to that effect.
+[30] The other situations that terminate a director’s mandate include death, personal bankruptcy, inability to perform duties, institution of protective supervision, and the voluntary or court-ordered liquidation of a company incorporated under the laws of Quebec.
+[31] Since the evidence does not reveal that the appellant resigned from her position as director, went bankrupt, was unable to perform her duties, or availed herself of protective supervision, or that the company was liquidated before its registration was struck off, the appellant must be deemed never to have lost her status as director until the company was struck off the register.
+[32] In addition, the Federal Court of Appeal held, in Kalef, 96 D.T.C. 6132, that a corporation’s bankruptcy or cessation of commercial activity does not put an end to the directors’ liability for the purposes of subsection 227.1(4) of the ITA.
+[33] No explanations about the falsification of the register of directors, or the reasons therefor, have been provided. Obviously, the only person that it could benefit from it was the appellant herself. The register of directors was altered with the appellant’s full knowledge, in order to limit her liability following the CRA’s audit of the affairs of 9034‑1571 Québec Inc. during the years 2001 and 2002 and in anticipation of the filing of a notice of bankruptcy by 9034‑1751 Québec Inc. It should be recalled that the company filed a notice of intent to make a proposal in bankruptcy on February 1, 2002, that no such proposal was ultimately filed, and that the company declared bankruptcy on April 25, 2002. The appellant undoubtedly knew that 9034‑1751 Québec Inc. was operating in the red and that bankruptcy was imminent. In fact, she was familiar with the bankruptcy rules because she personally went bankrupt in 1997 and her spouse did so in 1996.
+[34] The appellant cannot successfully raise any legal or factual presumption that she was not a director of 9034‑1751 Québec Inc. in 2001 and 2002, even if, on the face of it, she does not appear to have carried out any duties of administration during those years. Many parts of the company’s minute book, including the register of directors and the register of shareholders, were altered. Consequently, the book absolutely cannot be used as the foundation of any presumption concerning the appellant’s status as a director. The evidence does not show that the appellant performed more duties as a director in 1999 than she did in 2001 and 2002.
+[35] The corrections to the register of directors cannot be attributed to a mere clerical error, and are very unusual given the more than 24-month gap between the two dates.
+[36] It is also difficult to imagine that the appellant abandoned her duties as director of 9034‑1751 Québec Inc. in 1999 when that company had a $158,000 unsecured liability to Gestion Aghmana Inc., a company of which she was the only manager. In her testimony, the appellant provided no explanations about the subject, not even what supposedly caused her to resign from her directorship in 1999.
+[37] The appellant’s testimony at the hearing was not credible and lacked detail. Among other things, she had no recollection, or merely vague recollections, of the $158,000 loan advanced by Gestion Aghmana Inc., of Ms. Lambert’s mortgage on her Florida condominium, of the reasons for her resignation as a director of 9034‑1751 Québec Inc., or of that company’s fake wage payments to Ms. Lambert to repay her personal mortgage debt.
+[38] Jean Fontaine’s testimony at the hearing clearly showed that he was merely used as a proxy for the appellant’s spouse. The evidence is that he signed the documents that Marcel Létourneau placed before him. In actual fact, Jean Fontaine was never a director of 9034‑1751 Québec Inc. and never did any accounting or bookkeeping. The administration of 9034‑1751 Québec Inc. was done from Victoriaville, not from Saint‑Hyacinthe. In addition, Mr. Fontaine had no knowledge of the business of the other five convenience stores managed by 9034‑1751 Québec Inc., with the exception of the information obtained during the yearly rounds of the stores with Marcel Létourneau. His claim that he could become the owner of a convenience store by virtue of his overtime is not realistic and cannot be accepted. No price for the store, and no terms and conditions of acquisition, were agreed upon with Marcel Létourneau. The purchases and sales of the shares in 9034‑1751 Québec Inc. were done with no regard for their actual value. Indeed, Mr. Fontaine’s memory faltered when it came to explaining why the shares of 9034‑1751 Québec Inc. were transferred so often and why EI source deductions were made from the salary that 9034‑1751 Québec Inc. paid him in 2002, when he was a shareholder of the company and was therefore not entitled to EI.
+[39] The assessment against the appellant was made beyond the normal reassessment period. Subsection 227(10) of the ITA authorizes the Minister to assess a person for an amount contemplated by section 227.1 of the ITA at any time, in which case Divisions I and J of Part I of the ITA apply to the assessment. Those divisions encompass subsection 152(4), which restricts the Minister’s power to reassess beyond the regular reassessment period to the situations contemplated in paragraphs (a) and (b) of that subsection. The situation contemplated in subparagraph 152(4)(a)(i) is one where the taxpayer or person filing the return has made a misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under the ITA.
+[40] Where a reassessment is made beyond the normal period, the burden of proof is on the respondent. In the instant case, the respondent has met her burden of proof by showing that the minute book of 9034‑1751 Québec Inc., and, in particular, the register of directors, was improperly altered, and that these alterations prevented the Minister from making a reassessment during the normal period contemplated by the ITA. In addition, the evidence has clearly shown that the appellant was aware of the scheme by signing documents, including a letter of resignation dated December 9, 1999.
+[41] For these reasons, the appellant’s appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 15th day of April 2010.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 20th day of June 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 203
+COURT FILE NO.: 2008-941(IT)G
+STYLE OF CAUSE: Agathe Létourneau and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 10, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: April 15, 2010
+APPEARANCES:
+Counsel for the appellant:
+Jacques Matte
+Counsel for the respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+Pour the appellant:
+Name: Jacques Matte
+Matte Bouchard
+Firm: Westmount, Québec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

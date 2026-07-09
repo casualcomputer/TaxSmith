@@ -1,0 +1,271 @@
+---
+title: "Kalib v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31160/index.do"
+last_modified: "2013-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 134"
+citation2: ""
+neutral_citation: "2013 TCC 134"
+decision_date: "2013-04-30"
+language: "en"
+item_id: "31160"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4749
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:08:59.608000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7fd07a3d794ddc2b989e67bc4e0c740137517933f1dcf9ef21517460c80cb5ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kalib v. The Queen
+
+- Citation: 2013 TCC 134
+- Decision date: 2013-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4749, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kalib v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-30
+Neutral citation
+2013 TCC 134
+File numbers
+2011-2739(IT)I, 2011-2740(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2013 TCC 134
+Date: 20130628
+Dockets: 2011-2739(IT)I
+2011-2740(IT)I
+BETWEEN:
+ISMAIL KALIB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Margeson J.
+[1] This appeal is from reassessments by the Minister of National Revenue (the “Minister”) of the Appellant for the 2006 and 2007 taxation years. These notices of reassessment were dated March 4, 2010, and increased the Appellant’s net business income to $60,280 in 2006 and $54,049 in 2007.
+[2] In doing so, the Minister increased the Appellant’s gross income to $472,434 in 2006 and $449,076 in 2007; reduced the Appellant’s cost of goods sold, motor vehicle expenses and capital cost allowance.
+[3] The Minister also levied gross negligence penalties of $2,455 on the Appellant’s unreported income for 2006 and $911 on the Appellant’s unreported income for 2007, pursuant to subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “Act”).
+Evidence
+[4] The Appellant testified that he was 56 years of age, had received high school education and three years of college training for teachers in East Africa. He had no business training. He was married and had eight children ranging in age from six months to twelve years.
+[5] He identified three photographs of his home showing bunk beds, a crib and the boys’ room. The address for his store was at 2192 Dundas Street West, Toronto. From these premises, he sold Halal meats, rice, pita bread, beans and some canned foods. He worked there with one other employee.
+[6] Exhibit A-2 was introduced by consent, subject to identification. With respect to his family’s food consumption, he said that he shopped at Price Chopper, No Frills and Walmart because it was cheaper than buying the groceries from his store. He used his debit card on his Bank of Montreal account.
+[7] His accountant prepared a list of expenditures from these stores as seen in Exhibit A-2 at Tab 2. The figures presented were reasonable as far as he was concerned and in accordance with his bank statement.
+[8] In cross-examination, he said that he did not tabulate the totals but he went through his bank statements and identified certain items. The information contained in Exhibit A-1, Tab 10, were in his own handwriting. He made notes when he made deposits once per month. He said that his brother-in-law gave him money to support his family. This money was a gift to him and his family. Some of these gifts were shown in Exhibit A-1 at Tab 10. Some of these amounts were put in his Bank of Montreal personal account and some of these amounts came from the Royal Bank of Canada account.
+[9] Sometimes he made deposits to the Bank of Montreal account every week or every two weeks. Sometimes he deposited these gifts to his account once or twice a day, sometimes weekly and sometimes every two weeks. Each entry contained in Exhibit A-2 at Tab 10 was made at a different time.
+[10] He submitted this document to the Canada Revency Agency (“CRA”) but not at the time of the audit. He made this type of document each month. It was provided to his accountant and then to CRA. He said that he had a note book to support these figures but did not put it before the Court. He still has it and the figures in the note book are the same as those in the exhibit. He remembered receiving the gifts as referred to in the exhibit. Then he said that he cannot locate the note book. This document was submitted subject to weight as was Exhibit A-1, Tab 11.
+[11] The Appellant said that Exhibit A-1, Tab 11, was a photocopy of his original calendar for January 2007. It was in his own handwriting and he made entries every day. He made reference to Tuesday, January 2, showing an amount of $250 and marked “store”. This amount was not deposited in the bank until January 25, together with other monies. It was kept in a drawer in the store until that time. There was no urgency in depositing it. It would be used for paying bills.
+[12] The notations in the calendar were made on the dates indicated and there were no changes made after that date. Some entries were made in pencil and some in ink. The calendar is kept near the cash register.
+[13] The date of February 26 shows a gift of $100 but it was not received until the 27th.
+[14] He said that he made an entry on March 1, 2007, to remind him that he had to go to the bank on that date. That entry showed a deposit of $800. When asked where it came from, he said that he withdrew it from the Royal Bank of Canada account and he remembered that fact, but did not remember when he took it out.
+[15] On March 30th, he put $2,500 and other money in the drawer and kept it there until April 2, when he deposited only $700 to the Bank of Montreal. He would deposit the rest of the money later.
+[16] By April 22nd, he had at least $2,200 in the locked drawer. Sometimes he notes Bank of Montreal and sometimes not. If there is no note on it, it is for the Bank of Montreal.
+[17] He kept $1,800 sitting on his shelf and deposited only $800 to the Bank of Montreal account. Exhibit A-2, Tab 11, was accepted into evidence, subject to weight. Tabs 11 to 20 contained various documents and statements. Some were accepted into evidence while some parts were not.
+[18] Tab 20 was the bank statement for Abdirahman Houssein for his personal account at the Royal Bank. From this account, the Appellant received various amounts as gifts from a member of the family to help out the Appellant’s family by way of support. Abdirahman told him in 2005 that he would support them. In the year 2006, he gave them $9,000 and in the year 2007 he gave them $9,400.
+[19] In the year 2005, his wife’s brother Muktar Houssein talked to him about their financial situation and he said that he would contribute as much as he could.
+[20] He was unable to come to Court as he was working in Africa. His sister could not come as she was living in Alberta. However, they both made gifts of cash to him.
+[21] The gifts received from Abdi, Muktar and Elham were mostly deposited to the Appellant’s bank account at the Bank of Montreal.
+[22] Exhibit A-2, Tab 21, was a copy of the bank account of Muktar Houssein in Fort McMurray, Alberta, from April 18, 2007 to December 31, 2007. This was produced in order to show that the gifts came out of that account. Likewise the account of Elham Hussein was produced. The Appellant identified various amounts from both accounts which he said came out of these accounts and represented gifts to him from these two account holders.
+[23] The Appellant indicated that his wife could not come to Court today and that she has nothing to do with his business.
+[24] The Appellant introduced a letter, purportedly signed by his sister-in-law, Elham Hussein, indicating that she had supported the Appellant’s family during the years 2006 and 2007. Likewise, she could not come to Court.
+[25] Tab 9 was a letter from Muktar Houssein indicating that he too had supported the Appellant and his family financially during the year 2007.
+[26] These documents were all admitted subject to weight.
+[27] Exhibit A-1, Tab 7, was a letter purportedly signed by Abdi Houssein indicating that he had supported the Appellant and his family to the extent of $600 a month during the year 2006 and also helped out by paying some of their utility services.
+[28] The Appellant said that Abdi is an engineer and earns about $60,000 per year.
+[29] With respect to the costs of running the home, the Appellant said that they buy in bulk, cook their own meals, do not eat in restaurants, buy food at Walmart, Price Chopper and No Frills, rather than other main grocery stores as it is cheaper.
+[30] They do not consume groceries from their own store except to the extent of $1,880 in 2006 and $900 in 2007. They received child tax credits in 2006 of $28,000 and $37,000 in 2007 which were deposited to his Royal Bank account.
+[31] He did not have the unreported income that the Canada Revenue Agency alleges. He accepts his accountant’s findings.
+[32] In cross-examination, he said that his wife was out of the country in the year 2007.
+[33] He identified his income tax returns for the years 2006 and 2007 and said that he provided the information and signed the returns. He sells meat and groceries at the store. He uses cash or debit cards and the monies go into the business account. When his in-laws shop at his store, they pay the retail price.
+[34] The store is also an agent for the Western Union by way of cash or Interac card. His in-laws do not use the Western Union services from his store.
+[35] His drawings do not go into the business account. Business expenses are paid out of the business bank account at the Bank of Montreal. He never withdrew cash from the Bank of Montreal account, only by cheque. Besides the business account, he has four other personal accounts.
+[36] All of the gifts of money were made in cash except three which were made by Interac.
+[37] All of the gifts made by Elham and Muktar were by cash.
+[38] The money was put into his business account and then withdrawn by him. He works seven days a week, twelve hours each day. He works the cash register as well as the employee, but the employee does not deal with the cash in the box.
+[39] He pays $1,491 per month on his mortgage. As of 2006, he had $70,000 equity in his property. His personal accounts all had positive balances and he has no other debts.
+[40] He did not go through each item with his accountant.
+[41] In the store, he sold quite a bit of Halal meat. He and his family eat Halal meat. He admitted that paragraph 9(q) of the Reply was an accurate listing of the goods that he sold.
+[42] He has eight children. They eat fruit and vegetables at home which they purchase at other stores. They consumed the type of goods that he sells from the store but they were purchased at other stores where the prices were lower. His three siblings got together at the end of 2006 and decided to give him money gifts. They told him around December 5 or 6 that they had met and had decided to help him out. They told him separately.
+[43] Abdi told him personally at home in December 2005. His wife was in the house but not in the same room. His wife told him that Abdi had advised her of the plan.
+[44] He did not know how they met. He had not asked them for money and had not told them that he needed money, but his wife told them about their problems.
+[45] Exhibit A-1, Tab 11, was a calendar that the Appellant kept to keep a record of his deposits. Tab 10 was a record of his drawings. The Appellant said that he completed the calendar found in Exhibit A-1, Tab 11, although his helper apparently made two entries on November 7 and November 14 of 2007.
+[46] Muktar’s wife sometimes gave him money. He admitted that he was not sure who gave it to him sometimes.
+[47] When he needed cash, he went to the Royal Bank of Canada and got it and then put it into his drawer. He took money from the drawer for his personal needs. He identified Exhibit R-3 as the business banking statement for the period ending January 31, 2006, showing an opening balance of $36,958.63 as of December 31, 2006 and Exhibit R-4 showing an opening balance of $60,904.21 as of December 30, 2007 and Exhibit R-5 showing a closing balance of $76,067.04 as of December 31, 2007.
+[48] Elham was employed in a call centre in 2006 and 2007 but he did not know her income. He did not know the salary of Muktar in 2005, 2006 and 2007.
+[49] In the year 2006, he gave his accountant all of his invoices, bank statements, cash register reports but no returned cheques. He gave him a copy of the calendar that he kept at the store showing the money that he took from the store.
+[50] He told the accountant that he took about $150 per month in groceries from the store but did not know if the accountant included that in his return. He did not question the accountant about his return.
+[51] He started running the store in 1995 with a partner and then the Appellant took over himself in 2003. Since 1995, the sales have been basically the same.
+[52] The figures set out in paragraph 13 of the Reply for net business income are basically correct. His income did not double when he took over the store himself, it went down.
+[53] He agreed with paragraph 14 of the Reply regarding the value of his property but did not know about paragraph 16.
+[54] In re-direct, Exhibits A-7 and A-8 were accepted, subject to weight. These documents related to $18,000 U.S. which the Appellant was purportedly holding in trust for his cousin, Mrs. R. Nur. This was subsequently taken back. She has children, lives four hours from Ottawa and would have difficulty coming to Court.
+[55] The Appellant said that he told the auditor about it and gave him a copy of the cheque.
+[56] With respect to the large amounts shown in Exhibits R-3, R-4 and R-5, the Appellant said that Western Union gave them a longer period to remit funds to them and $15,000 to $20,000 of their funds remained in his account during that period.
+[57] The other large balances of $67,431.97 and $76,679 had a lot of Western Union money in it.
+[58] Abdi Houssein testified that he was married to the Appellant’s sister. He has a Bachelor of Computer Science degree and a Master’s degree. He is now single and employed as a systems analyst and technician and has a salary of $75,000 per year. He had no dependents in the years 2006 and 2007.
+[59] He decided to do something to support the Appellant’s family and discussed it with Muktar and his sister. They decided to “do what they could to help”. No amount was discussed. He told the Appellant that they were going to give him support by way of a gift. He withdraws money from the ATM machines and by use of his debit card and gives it to the Appellant. He confirmed that he signed the letter found in Exhibit A-1 at Tab 7 written August 7, 2009. This letter said that he had provided support to the Appellant in the year 2006 with a minimum of $600 per month. He also paid some telephone and energy bills for the Appellant. He also paid his internet account of $28 per month for the years 2006 and 2007.
+[60] He discussed this assistance with his sister.
+[61] In the year 2006, he gave the Appellant $9,600 and in 2007 gave him over $9,000.
+[62] He identified Exhibit A-6 as his personal bank account with the Royal Bank in Toronto for the period 01 January 2006 to 31 December 2007. His payroll deposits were made to this account.
+[63] The X’s marked in this exhibit indicate the amounts he gave to the Appellant during this period. These amounts were not to be repaid. Sometimes he gave the money to his sister.
+[64] In cross-examination, he said that in the years 2006 and 2007, he had one savings account and one chequing account. He had three employers and those were his only sources of income. He leased an apartment with his sister and he paid $650 rent per month. He owned no property and no car in the years 2006 and 2007. He supported no one else in 2006 and 2007.
+[65] He put the X’s on Exhibit A-6 in the year 2010 based upon his memory. He kept no record before that. He shopped at the Appellant’s store for small items but received no discount even though he was giving the Appellant over $7,000. “It was part of our tradition to help,” he said.
+[66] Most of the time he gave the Appellant cash directly at the store or at his house as many as three times in one day. In March of 2007, he emptied his entire account by giving the Appellant $600 of his $610 balance. Most of the large withdrawals from his account were the monies he gave to his brother-in-law.
+[67] He earned $75,000 in 2005 and $60,000 in 2007. In 2006, he worked at Staff Works Ltd. He was not sure if he filed a tax return in 2006 and 2007, but he normally files one every three to four years.
+[68] He admitted that he received Employment Insurance benefits in the year 2005 of $23,562. In the year 2006, his total earnings were $27,904.
+[69] Then he said that in the year 2006 he did not report all of his income. In the year 2007, he received $60,000 in income but reported only $31,472. He said that he did not buy meat at the Appellant’s store and that a charge for $151.50 might have been for telephone calls.
+[70] Surendra Sharda was a Chartered Accountant and has been practicing for 50 years. He was the Appellant’s accountant until the end of 2006 and prepared his 2006 income tax return. His report was based upon consultations with the Appellant. He also considered the notices of reassessment. He reviewed the personal bank statements of the Appellant and his wife as well as an account of Muktar Houssein and one account of Elham Hussein. His main concerns were that of unreported income and disallowed costs of goods sold. He found no errors in the bookkeeping and said that the books conformed with generally accepted accounting principles.
+[71] He did not accept the Minister’s conclusions. He reviewed the undisclosed deposits. He said that the Canada Revenue Agency did not use the net worth method of assessment.
+[72] The Appellant has an agreement with Western Union not to take its money out at the regular time and therefore the balance in the account is often quite high.
+[73] According to this witness, the Appellant told him that he used $150 per month of store goods for personal use. He found $8,196.21 in debit card purchases for food in 2006 and $5,217.34 in 2007. The amount that the Appellant said that he spent for a year was reasonable because they prepared their own meals.
+[74] He used the deposit account history shown in Exhibit A-2 at Tab 20 to prepare his report.
+[75] The entries with an “X” beside them were identified by Abdi Houssein as monies he had withdrawn and given to the Appellant. He relied upon the X’s as being accurate to show where these monies came from.
+[76] The accountant’s report is found in Exhibit R-2 at Tab 8.
+[77] He was satisfied that he was able to explain the majority of the deposits. The Appellant’s main sources of income were cash drawings from the accounts, gifts from relatives and government benefits.
+[78] In cross-examination, he said that the documents were received by him shortly before the report date around March 12, 2012, except for the statement of business affairs, the tax return for 2006 and the statement of business activities.
+[79] He did not see any source documents for the handwritten notes found in Exhibit A-1 at Tab 10.
+[80] He reviewed the bank statements of Mrs. Kalib but could not see what was purchased by looking at them. However, the amount paid for groceries appeared to be reasonable under the circumstances. These included the debit card purchases together with $150 a month from the store groceries. This $150 a month was not accounted for in the statements he prepared.
+[81] The amount of $150 a month would not be reasonable if you took out the purchases from Walmart.
+[82] After June of 2007, there were no purchases from Price Chopper, Walmart and No Frills. There was no accounting for personal expenses after June of 2007.
+[83] There were no debit card purchases from any stores. Any money spent on groceries had to be from some other source.
+[84] The basis for his information for his analysis and his report was the Appellant. There was a withdrawal and a deposit. He did not consider that there was a time in between the deposit and the withdrawal.
+[85] He assumed that the amounts attributed as gifts from Muktar were given by him to the Appellant in cash.
+[86] He was told that the amount of $500 shown being withdrawn from Muktar’s account in Fort McMurray was the same amount deposited in the Appellant’s account four days later. He was told this by the Appellant. He did not tell him how the amount was delivered. His knowledge of the withdrawals from the bank account was the Appellant’s note book.
+[87] It was pointed out to the accountant that there were two transactions in the same day in the R.B.C. account and the B.M.O. account that do not match up.
+[88] He admitted that there were two entries in his reconciliation that were incorrect. The November 20 entry was incorrect. These amounts are not there in the R.B.C. account and therefore could not have been the source for the deposit to the B.M.O. account.
+[89] It was pointed out that on October 23, 2006, a gift of $1,200 was not needed as the account balance was over $10,000.
+[90] It was suggested to the witness that it would be strange for the Appellant to withdraw money from an interest-bearing account and deposit it to a non-interest bearing account that already had more than $10,000 in it. There was no comment.
+[91] The Respondent called Jason Matires to testify. He was an income tax auditor for CRA and had been at that position for four and one-half years.
+[92] He introduced Exhibit R-6 which he said he had created from CRA’s files. This document showed the income reported for Abdi Houssein for the years 2005, 2006 and 2007. He also identified the letter from the Appellant addressed to him and dated August 28, 2009. It refers to the monies purportedly given to the Appellant by his five brothers-in-law.
+[93] He viewed two cash register tapes given to him by the Appellant but did not rely upon them. He selected two months entries for verification. For a number of days, there were no tapes and the numbers on the tapes did not match the summary prepared by the taxpayer. He disregarded non-taxable items and transfers between accounts. Sales reported by the taxpayer were lower than those shown by the deposits. He also prepared an analysis of deposits as shown in Exhibit R-2, Tab 9.
+[94] The taxpayer told him that he had deposited all business receipts and credit card receipts into the bank account. The witness deducted from the deposit amounts all monies owing to Western Union. The GST reported by the taxpayer excluded the amounts contained in the B.M.O. analysis. This witness included them. There were unidentified deposits which were not non-taxpayer amounts. There was a difference between the sales reported and the unexplained deposits. He calculated the total deposits in the business account after taking out GST and the Western Union monies. He added the unexplained deposits in the personal accounts and compared it to the business income reported. The unexplained deposits in the taxpayer’s banks amounting to $28,490.87 were assessed as unreported income under subsection 9(1) of the Act, for the year 2007.
+[95] He also completed an analysis of deposits for the year 2006 as seen in Exhibit R-1 at Tab 10 in the same way. The unexplained deposits in the taxpayer’s books in 2006 amounted to $29,624.37 which was assessed as unreported income pursuant to subsection 9(1) of the Act.
+[96] The taxpayer was given time to respond to the report.
+[97] He referred to a $1,000 deposit to the Bank of Montreal account on January 31, 2006, but said that there was no indication where it came from.
+[98] He prepared the proposal plan in Exhibit A-1 at Tab 1. It included his audit working papers.
+[99] He received an Affidavit where relatives claimed that they had made gifts to the Appellant, and copies of relatives’ bank accounts.
+[100] He also prepared the document found at Exhibit R-1 at Tab 11 which was the taxpayer’s explanation of unidentified deposits. He concluded in it that the amounts of withdrawals did not match the amounts in the taxpayer’s bank accounts.
+[101] He made no adjustment for relatives’ gifts.
+[102] He made a similar document, Exhibit A-2, at Tab 12 for the taxpayer’s explanation of unidentified deposits for the year 2007.
+[103] The Appellant told him at the first interview that whatever money he received at the store went into the business account.
+[104] Exhibit R-3 was the bank business statement for January 31, 2006, which he reviewed. This was the only business statement. He also reviewed the 2007 business bank statement.
+[105] He said that there were no transfers from the business account to the personal accounts and there were no withdrawals from the business account. There were no withdrawals for living expenses.
+[106] The amounts referred to by the Appellant reflected in Exhibit R‑1, Tab 18, were never reported as sales because they were deposits to personal accounts.
+[107] He did not come across any amounts in the taxpayer’s other accounts that matched the unidentified amounts. He reduced the disallowed cost of goods sold.
+[108] He prepared the opening and closing inventory shown in Exhibit R-2 at Tab 14. It summarizes his adjustment for inventory and purchases for personal consumption.
+[109] He gave a conservative amount for the taxpayer’s personal consumption of store items.
+Argument on behalf of the Appellant
+[110] Counsel described the Appellant as a simple individual, not sophisticated. He was a small business proprietor. He had no advanced education and no business training. He earned a modest income and had a large family of a wife and eight children.
+[111] The auditor based his cost of living analysis on three adults not on a family of ten people.
+[112] The Appellant shopped at named stores, prepared his own meals and his family helped him out financially. His accountant totalled up the amount he bought from these stores by means of credit card receipts. The Appellant’s testimony and that of his auditor should be accepted.
+[113] In the year 2007, his family was out of the country for six months. The Appellant has conceded that he used $150 per month of groceries from his store for personal use. CRA has come to a different conclusion.
+[114] Counsel described Abdi as a sincere individual even though he admitted reporting less income than he had earned. He was unmarried during the relevant periods, had no car and no dependents, he was a member of a closely knit family and made gifts to the Appellant’s family.
+[115] The Court does not have to find that it was “all or nothing” with respect to his gifts to the Appellant. The Appellant received large amounts from the Government, he reported income, there were transfers between bank accounts which satisfy the questions raised in the Minister’s allegations.
+[116] Some of the money was put into personal bank accounts, but according to Mr. Sharda, these amounts were in line with what the Appellant was entitled to take out of the business.
+[117] With respect to penalties, the onus is on the Crown.
+[118] The Appellant took out from the store goods totalling $1,800 in 2006 and $900 or thereabouts in 2007 but Mr. Sharda failed to include these amounts in his calculations. The Appellant relied upon his expertise.
+[119] The amounts of income reported were not large. It was a small percentage of the sales amount.
+[120] He referred to the case of Reshad Omer O/A Kabul Auto Sell v. Her Majesty the Queen, 2009 TCC 158, 2009 DTC 1118, as a case similar to that at bar. There, the Court held that “the taxpayer’s conduct, while lacking in due diligence, did not evidence gross negligence, since the percentages of unreported income involved was relatively small compared with the taxpayer’s gross income, and the taxpayer’s failure to keep proper records, without more, was insufficient to justify a finding of gross negligence”. There the penalties were deleted.
+[121] Counsel also referred to Lucien Venne v. Her Majesty the Queen, 84 DTC 6247 (F.C.T.D.), where the Court was not satisfied that the taxpayer had shown gross negligence. Likewise, in Sunny J. Docherty v. Her Majesty the Queen, 2010 TCC 45, 2010 DTC 1063, where the Court was satisfied that the taxpayer had provided sufficient evidence to account for the funds that she had received. There the taxpayer was relying upon gifts received from family and friends.
+[122] The appeal should be allowed.
+Argument on behalf of the Respondent
+[123] Counsel for the Respondent submitted that the method of assessment used here was the modified net worth method and it was justified. As in Wang v. Canada, 2008 TCC 308, 2008 DTC 4303, this was a cash business. The auditor examined the tapes and compared them to those filed by the taxpayer and they did not add up.
+[124] What the examination by the auditor did was to identify deposits to bank accounts. If there was a reasonable explanation as to why they were not taxable, they were excluded.
+[125] Unreported sales were actually personal consumption amounts.
+[126] By using the net worth method, we do not change the burden of proof. The taxpayer must demolish the Minister’s conclusions that the income detected was taxable income. See Lacroix v. Canada, 2008 FCA 241, 302 D.L.R. (4th) 372. The question to be asked about the taxpayer’s examination is was the evidence of the Appellant credible? Is the explanation credible?
+[127] The two main witnesses in this case were the Appellant and his brother‑in‑law. Their evidence need not be accepted as the Court decided in Lacroix at paragraph 12. See also Dao v. Canada, 2010 TCC 84, 2010 DTC 1086, where the Court was satisfied that the taxpayer had failed to provide the “specific and convincing evidence required to challenge a net worth assessment”.
+[128] When common sense is applied to the explanations given in the testimony, does it suggest that the evidence is impossible or highly improbable?
+[129] The Appellant said that they only used groceries valued at $150 a month from the store while the Minister assessed $150 per week. Which was credible? There were eight children and two adults. The debit cards from the other store did not show that the expenses were for groceries. Further, the family consumed the type of goods sold at the store. Was it credible that the Appellant and his family did not consume these types of goods?
+[130] Even though Mr. Sharda was told that the Appellant consumed $150 of goods a month from the store, he did not include it in his report.
+[131] That statement is not consistent because his family was growing and yet the amount claimed was always the same. There was no evidence of what the prices for the goods that the Appellant sold at the store were at other stores.
+[132] When the Appellant’s family left in 2007, there were no more purchases at other stores. Therefore, the Appellant was using food from his store or funds from the store. Mr. Sharda stopped using the $150 figure after June of 2007. These actions were not credible.
+[133] The amount submitted by the Minister was more realistic even if you take into account the amounts allegedly bought at the other stores.
+[134] There were unidentified bank deposits. The Appellant’s explanation was that they came from cash drawings from the store; gifts from relatives and transfers from the accounts.
+[135] Mr. Sharda said that the Appellant took less out of the store account than he was entitled to but the Minister looked at the other accounts and not the store account. That means that the amount was under-estimated when the funds go into the store account.
+[136] In evidence, Mr. Sharda said that he could reconcile the transfers even though the numbers did not match up. When we look at three different accounts where Mr. Sharda said they were reconciled, he could not find them in the bank statements. The evidence regarding inter-account transfers was not credible.
+[137] With respect to gifts from relatives, the evidence was contradictory. In Court, the Appellant said that he received gifts from three relatives: Abdi, Muktar and Elham. Yet in Exhibit R-2, he said that he received money from five relatives. Then he said that the money came through Muktar. The evidence was not credible.
+[138] The Appellant had $70,000 of equity in his home. At the time of the meeting among those who were going to give him gifts of money, there was $37,000 in his business account. The change in Western Union’s policy to allow him to remit these funds later, did not come until later on. Exhibit A-7, a comparison of bank balances at December 31, 2005, 2006 and 2007, prepared by Mr. Sharda, shows a bank balance of $45,141 in the Appellant’s personal accounts. Counsel asks, was it consistent with common sense, that his siblings would give him gifts of money, or that he would take them under these circumstances? There was no evidence given to suggest that Elham or Muktar had money to give away.
+[139] Abdi was on Employment Insurance (“EI”) at a time when he had allegedly given the Appellant money. Also, his income was under-reported, so his credibility is in issue. In 2005, Abdi was on EI and his income was under $23,000. At one point, Abdi virtually allegedly wiped out his bank account to give gifts of money to the Appellant.
+[140] Abdi made no notes of gifts he made at any time he was making them but went back in 2010 and made notes from bank statements. Muktar did the same thing. Some of these withdrawals were made in Fort McMurray.
+[141] It makes no sense that he took the money personally to Toronto because he was in Fort McMurray for several days after that, according to the statements. The Appellant has not demolished the Minister’s assumptions.
+[142] It is unbelievable that the Appellant would take money out of the interest-bearing account and put it into a non-interest bearing account where it was not needed.
+[143] Counsel agreed that the burden with respect to penalties was on the Minister. In this regard, the understatement of income and the false cost of goods sold evidence is applicable. The explanation given was not credible and therefore there must have been some other source of income.
+[144] The burden of proof on the Minister has been met in accordance with Lacroix.
+[145] There is no evidence that the taxpayer did not control all aspects of the business or that he did not know about the under-reporting of income. He did not review the statements.
+[146] The gross sales reported in relation to those made in reality were large. The under-reporting of income was large. The taxpayer should have been aware of this.
+[147] In rebuttal, counsel said that the transfer of funds from an interest-bearing account to a non-interest bearing account amounted to only pennies per month.
+[148] Mr. Sharda’s evidence about the inter-account transfers was only challenged with respect to the $2,400 amount. The rest of his evidence should stand.
+[149] The Appellant’s equity in his home was not a large amount for its value.
+[150] The money gifts would have come by special delivery and it would not have taken a long time.
+[151] Abdi could afford to make these gifts.
+[152] Penalties should be deleted.
+Analysis and Decision
+[153] The Minister completed this reassessment based upon what has been referred to as a modified net worth assessment. In the auditor’s review, he reviewed the cash register tapes and found that he could not rely upon them. He attempted to reconcile the bank statements with the total sales reported but could not. He prepared an analysis of deposits in an attempt to reconcile them with the taxpayer’s statement that he had reported all business receipts, but was unable to do so.
+[154] He found a number of unexplained bank deposits in the business account. He gave the taxpayer an opportunity to respond to the reports but whatever information he received was insufficient to change his audit report. As in Wang, this Court is again satisfied that the method of assessment used by the Minister here was an appropriate method of assessment. The taxpayer here kept inadequate records, in spite of his accountant’s indication that the bookkeeping system used by the taxpayer was in accordance with commonly-accepted accounting practices. Here there was basically a cash business and the records provided by the taxpayer “did not add up”. There were inconsistencies in the figures provided by the taxpayer and in the information provided by him.
+[155] As in Lacroix v. Canada where the Minister, as here, presumes that the income detected by the net worth method (modified here) is taxable income, the onus is on the Appellant to demolish the assumption based upon credible evidence. If the taxpayer provides credible evidence that the amount in question is not income, then the Minister has a further burden of going beyond the presumption and filing evidence of the existence of this income.
+[156] In the present case, counsel for the Appellant argues that the taxpayer was a simple and unsophisticated individual. However, the Court finds that he was an educated person with considerable business acumen and experience. He was, or should have been, well aware that he had to keep proper records to show what were the total sales, the total deposits and the source thereof and be able to explain any amounts that came into his hands.
+[157] To this end, the Appellant testified himself that he used only $150 per month from the goods that he sold in the store to explain why he did not use the value of goods presumed by the Minister. He produced no evidence that satisfied the Court that his amount was correct and that of the Minister was incorrect. In any event, neither he nor his accountant claimed even the $150 per month amount he said that he used.
+[158] The Appellant explained the unaccounted for deposits in his accounts by stating that they were gifts from his relatives. To support this position, he provided no source documents but chose to rely upon his memory over a period of years and the memory of Abdi Houssein having identified the deposits some years later with nothing but his memory to back him up.
+[159] There was an indication that five relatives had provided the Appellant with monetary gifts, but at trial the Appellant relied basically on three of these relatives as the source of his funds. Only one of the relatives testified and there was no satisfactory evidence given as to why the others could not testify.
+[160] Mr. Sharda’s reports were based upon information supplied by the Appellant and apart from seeing the bank statements, he saw few, if any, source documents. The net income of Abdi Houssein would not appear to support his position that he could afford to give the Appellant $600 per month to support him and his family.
+[161] On the matter of his credibility, it was shown that some years he did not even report his income and at other times under-reported it.
+[162] Further, there was nothing to indicate that Muktar, Elham, Omar or Warsame were in a position to provide assistance and there were no specific amounts identified as coming from them.
+[163] As indicated in Nichols v. Canada, 2009 TCC 334, 2009 DTC 1203, the Court, in assessing credibility can consider many things, such as weakness in the evidence of witnesses or inconsistencies in their evidence. The Court has to assess the attitude and demeanour of each witness and whether there is any reason for it to be less than accurate or honest. The Court at the end of the day must consider the evidence as a whole, apply common sense to it and ask the question, is it reasonable, impossible or highly improbable.
+[164] In this case, the assessment of credibility has played an important role in the Court’s decision considering the almost complete lack of any source document evidence or any independent evidence to corroborate that of the Appellant and his relative who testified here. After considering all of the evidence presented and what I have said above, I attach very little probative value to the testimony of the two witnesses and no value at all on the statements presented by those relatives who did not testify. As the Court said in Lacroix –- “I note at this point that Courts are not required to believe witnesses, even if they are not contradicted. Their version may be implausible as a result of circumstances revealed by the evidence, or simply on the basis of common sense”. So it is here.
+[165] The Court is not satisfied that the Appellant has successfully rebutted the Minister’s presumptions and has not given a sufficient explanation as to where the unexplained deposits came from.
+[166] The appeals are dismissed and the Minister’s reassessments are confirmed.
+[167] With respect to penalties, due to the understatement of income and the improper cost of goods sold by the Appellant, both of which have been adequately established by the Minister, and the unexplained source of income as seen in the bank deposits, the Court is satisfied that the Minister has met the burden upon him under subsection 163(2) of the Act and the penalties are confirmed.
+This Amended Reasons for Judgment is issued in substitution of the Amended Reasons for Judgment dated May 15, 2013.
+Signed at New Glasgow, Nova Scotia, this 28th day of June 2013.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2013 TCC 134
+COURT FILE NO.: 2011-2739(IT)I and 2011-2740(IT)I
+STYLE OF CAUSE: ISMAIL KALIB and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: April 4, 2012 and December 3 and 4, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: April 30, 2013
+DATE OF AMENDED
+REASONS FOR JUDGMENT: June 28, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Howard J. Alpert
+Counsel for the Respondent:
+Christopher Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Howard J. Alpert
+Firm: Alpert Law Firm
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

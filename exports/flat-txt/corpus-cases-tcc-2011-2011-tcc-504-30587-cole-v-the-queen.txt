@@ -1,0 +1,112 @@
+Title: Cole v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30587/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-504-30587-cole-v-the-queen.md
+Document type: case_law
+Last modified: 2011-11-03
+
+# Cole v. The Queen
+
+- Citation: 2011 TCC 504
+- Decision date: 2011-11-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7145, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cole v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-03
+Neutral citation
+2011 TCC 504
+File numbers
+2011-535(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-535(IT)I
+BETWEEN:
+CLAIRE COLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 25, 2011 at London, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Donald Cole
+Counsel for the Respondent:
+Tamara Watters
+____________________________________________________________________
+ORDER
+The Respondent's motion to quash the Appellant's appeal in relation to the reassessment of her tax liability for 2006 is allowed and the Appellant's appeal is quashed, without costs.
+Signed at Halifax, Nova Scotia, this 3rd day of November 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC504
+Date: 20111103
+Docket: 2011-535(IT)I
+BETWEEN:
+CLAIRE COLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb, J.
+[1] The Appellant filed an appeal to this Court in which she indicated that she was appealing the reassessment related to her 2006 taxation year. The Respondent brought a motion to quash the Appellant’s appeal on the basis that a valid notice of objection had not been served in relation to the reassessment issued for 2006.
+[2] The Appellant’s tax liability for 2006 was initially assessed on May 25, 2007. The Appellant was subsequently reassessed on June 21, 2007 and on July 2, 2010. The subsequent reassessment of the Applicant’s tax liability for 2006 on July 2, 2010, nullified the reassessment for that year that had been issued on June 21, 2007[1]. The Appellant did not serve a notice of objection to the reassessment dated July 2, 2010 (which is the reassessment about which the Appellant is complaining) until September 28, 2011, which was approximately eight months after the Notice of Appeal was filed and approximately one month before the date scheduled for the hearing.
+[3] Subsection 169(1) of the Income Tax Act provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[4] In Bormann v. The Queen, 2006 DTC 6147, the Federal Court of Appeal stated as follows:
+3 Section 169(1) of the Income Tax Act obliges a taxpayer to serve Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+4 As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Ministry to extend the time to file a Notice of Objection.
+5 Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+Minuteman Press of Canada Company Limited v. M.N.R., 88 DTC 6278, (F.C.A.).
+6 As a result, there is no basis upon which it can be said that the Tax Court Judge erred in quashing the appellant's appeals for the 1992 to 1998 taxation years.
+[5] In order to appeal to this Court, the Appellant must first serve a valid notice of objection. The notice of objection in relation to the reassessment issued for 2006 was only served on September 28, 2011. Not only was this notice of objection served after the Appellant had filed her Notice of Appeal to this Court but it was also served after the expiration of the time within which a notice of objection may be served under the Act. Section 165 of the Act provides as follows:
+165. (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[6] If a notice of objection is not served within the time as provided in subsection 165(1) of the Act, a taxpayer may request an extension of time to serve the notice of objection as provided in section 166.1 of the Act. It appears that the Appellant has also requested an extension of time to serve the notice of objection.
+[7] Since the Appellant filed her appeal to this Court approximately eight months before she served a notice of objection in relation to the reassessment of her tax liability for 2006, her appeal cannot proceed. As noted by the Federal Court of Appeal in Bormann, above, “service of a Notice is a condition precedent to the institution of an appeal”.
+[8] It appears, in any event, that the Appellant’s complaint is not with respect to the amount of income that was reassessed for 2006 but with the tax imposed pursuant to section 180.2 of the Act (commonly referred to as the clawback of old age security benefits) as a result of her revised income and the length of time between the first reassessment and the second reassessment (and hence the amount of interest for which she is being charged). The increase in her income relates to the gain realized on the conversion of the shares of Aliant into units of an income trust.
+[9] The Appellant had filed a request for taxpayer relief but this request was denied. Appeals from decisions related to applications for a waiver of interest or penalties made under subsection 220(3.1) of the Act, cannot be made to this Court but are to be made to the Federal Court. As noted by Justice Dussault in Raby et al. v. The Queen, 2006 TCC 406:
+51 As I stated at the hearing, the cancellation of interest comes within the discretion granted to the Minister under subsection 220(3.1) of the Act. The Tax Court of Canada has no power in this regard because its jurisdiction is limited to determining whether an assessment is well founded. If a taxpayer who has asked the Minister to cancel his interest is dissatisfied with the Minister's decision, the taxpayer may file an application for judicial review in the Federal Court.
+[10] The Respondent's motion to quash the Appellant's appeal in relation to the reassessment of her tax liability for 2006 is allowed and the Appellant's appeal is quashed, without costs.
+Signed at Halifax, Nova Scotia, this 3rd day of November 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC504
+COURT FILE NO.: 2011-535(IT)I
+STYLE OF CAUSE: CLAIRE COLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 25, 2011
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: November 3, 2011
+APPEARANCES:
+Agent for the Appellant:
+Donald Cole
+Counsel for the Respondent:
+Tamara Watters
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Abrahams v. Minister of National Revenue, [1967] 1 Ex.C.R. 333, [1966] C.T.C. 690; Shair v. The Queen, 2006 TCC 278, [2006] 4 C.T.C. 2074, 2006 DTC 2869.

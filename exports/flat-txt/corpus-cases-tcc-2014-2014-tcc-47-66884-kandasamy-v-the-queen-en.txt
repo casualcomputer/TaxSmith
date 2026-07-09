@@ -1,0 +1,496 @@
+Title: Kandasamy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66884/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-47-66884-kandasamy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-17
+
+# Kandasamy v. The Queen
+
+- Citation: 2014 TCC 47
+- Decision date: 2014-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5958, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kandasamy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-17
+Neutral citation
+2014 TCC 47
+File numbers
+2013-1263(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1263(IT)I
+BETWEEN:
+THILEEBAN KANDASAMY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I), Thomas Havey (2013‑1793(IT)I, Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Dockets: 2012-4474(IT)I
+2013-2385(IT)I
+BETWEEN:
+COLLIN TERPSTRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I), Thomas Havey (2013‑1793(IT)I, Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2010 and 2011 taxation years are allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2013-735(IT)I
+BETWEEN:
+JENNY PEIH‑CHIR TSAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Andrew Yadegari (2013‑1509(IT)I), Thomas Havey (2013‑1793(IT)I, Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2013-1509(IT)I
+BETWEEN:
+ANDREW YADEGARI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Thomas Havey (2013‑1793(IT)I, Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2010 and 2011 taxation years are allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2013-1793(IT)I
+BETWEEN:
+THOMAS HAVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I, Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2013-2596(IT)I
+BETWEEN:
+HILARY MYRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I, Thomas Havey (2013‑1793(TI)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2013-2592(IT)I
+BETWEEN:
+SASSAN GHAZAN‑SHAHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I, Thomas Havey (2013‑1793(IT)I), Hilary Myron (2013‑2596(IT)I), Bita Hashemi (2013‑2597(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2013-2597(IT)I
+BETWEEN:
+BITA HASHEMI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I, Thomas Havey (2013‑1793(IT)I), Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I) and Brendon Trotter (2012‑4621(IT)I and 2013‑89(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellants:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Dockets: 2012-4621(IT)I
+2013-89(IT)I
+BETWEEN:
+BRENDON TROTTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Thileeban Kandasamy (2013‑1263(IT)I), Collin Terpstra (2012‑4474(IT)I and 2013‑2385(IT)I), Jenny Peih‑Chir Tsai (2013‑735(IT)I), Andrew Yadegari (2013‑1509(IT)I, Thomas Havey (2013‑1793(TI)I), Hilary Myron (2013‑2596(IT)I), Sassan Ghazan‑Shahi (2013‑2592(IT)I) and Bita Hashemi (2013‑2597(IT)I),
+on January 9 and 10, 2014, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2010 and 2011 taxation years are allowed, with party and party costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the education tax credit and textbook tax credit.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2014 TCC 47
+Date: 20140217
+Docket: 2013-1263(IT)I
+BETWEEN:
+THILEEBAN KANDASAMY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-4474(IT)I
+2013-2385(IT)I
+AND BETWEEN:
+COLLIN TERPSTRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2012-4621(IT)I
+2013-89(IT)I
+AND BETWEEN:
+BRENDON TROTTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-735(IT)I
+AND BETWEEN:
+JENNY PEIH-CHIR TSAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-1509(IT)I
+AND BETWEEN:
+ANDREW YADEGARI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-1793(IT)I
+AND BETWEEN:
+THOMAS HAVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-2596(IT)I
+AND BETWEEN:
+HILARY MYRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 2013-2597(IT)I
+AND BETWEEN:
+BITA HASHEMI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-2592(IT)I
+AND BETWEEN:
+SASSAN GHAZAN-SHAHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] After receiving the degree of Doctor of Medicine ("M.D.") from a university the individual who wishes to practice medicine in Ontario is required to register in a post-graduate program to qualify for a license to practice medicine in Ontario[1]. The post-graduate medical residency programs are administered through Faculties or Schools of Medicine at Canadian universities in conjunction with hospitals, referred to as teaching hospitals, affiliated with the university. The individual, identified as a "resident", pays a registration fee to the university but no tuition. The resident may follow the program from two to seven years depending on the medical specialty the resident wishes to undertake. The resident may work from anywhere from 50 to more hours a week for salary in a teaching hospital supervised by senior physicians who are appointed by the university. [This is referred to as the "clinical" portion of the program.] The programs also include from two to four hours of academic courses per month. The university issues to the resident the prescribed form known as "Tuition, Education and Textbook Amounts Certificate" (Form T2202A) for filing with the Minister of National Revenue ("Minister").
+[2] The nine appellants were registered in the medical residency programs in Ontario universities. Each appellant appeals from assessments in which the Minister denied their claims for the educational tax credit and textbook tax credit pursuant to Section 118.6 of the Income Tax Act ("Act") on the basis that each appellant was not enrolled in a "qualifying educational program" as a full‑time student at a "designated educational institution" as those terms are defined in Subsection 118.6(1) of the Act.
+[3] The appeals were heard on common evidence. The names of the appellants, the years in appeal and the university at which each was registered for the post-graduate program are:
+Name
+Year(s) under appeal
+University[2]
+Thileeban Kansasamy
+2011
+Toronto
+Andrew Yadegari
+2010-2011
+Western
+Thomas Havey
+2011
+Toronto
+Collin Terpstra
+2010-2011
+McMaster
+Hilary Myron
+2011
+Ottawa
+Sassan Ghazan-Shahi
+2011
+Queen's
+Bita Hashemi
+2011
+Toronto
+Brendon Trotter
+2010-2011
+McMaster
+Jenny Peih-Chir Tsai
+2011
+Toronto
+[4] The relevant portions of Section 118.6 of the Act read as follow:
+(1) For the purposes of sections 63 and 64 and this subdivision,
+(1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous‑section.
+"designated educational institution" means
+« établissement d'enseignement agréé »
+(a) an educational institution in Canada that is
+a) Un des établissements d'enseignement suivants situés au Canada :
+(i) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act, designated by an appropriate authority under the Canada Student Financial Assistance Act, or …
+(i) université, collège ou autre établissement d'enseignement agréé soit par le lieutenant-gouverneur en conseil d'une province au titre de la Loi fédérale sur les prêts aux étudiants, soit par une autorité compétente en application de la Loi fédérale sur l'aide financière aux étudiants, ou . . .
+"qualifiying educational program" means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and …
+« programme de formation admissible » Programme d'une durée minimale de trois semaines consécutives, aux cours ou aux travaux duquel l'étudiant doit consacrer dix heures par semaine au moins et . . .
+(2) There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+(2) Le montant obtenu par la formule suivante est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+A x B
+A x B
+where
+où :
+A is the appropriate percentage for the year; and
+A représente le taux de base pour l'année :
+B is the total of the products obtained when
+B la somme des produits suivants :
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full‑time student at a designated educational institution, and …
+a) 400 $ multipliés par le nombre de mois de l'année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d'un établissement d'enseignement agréé, . . .
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information …
+Pour que le montant soit déductible, l'inscription du particulier doit être attestée par un certificat délivré par l'établissement — sur le formulaire prescrit contenant les renseignements prescrits — et présenté au ministre et,
+. . .
+[5] My colleague Justice Paris considered a similar appeal in Pan et al v. The Queen[3] in 2010. A number of residents appealed from assessments denying them the education tax credit and they were successful. In Pan, the Crown's position was that the residents were not enrolled in a qualifying educational program because they derived a benefit by receiving instruction at no charge. Justice Paris held that in the context of Subsection 118.6(1) "benefit" is intended by Parliament to mean an economic or material benefit that can be measured in monetary terms rather than an intangible advantage. A free education offered by the university involved no monetary benefit to the residents.
+[6] In these appeals the Crown took a different position in denying the claims for the education tax credit. The Minister's position, among other things, is that the program is carried on by a hospital, not a university, that the residents spend less than ten hours a week on courses and are not full‑time students at a university.
+Evidence of Ms. Rhonda Trowell
+[7] Ms. Rhonda Trowell, Director of the Strategy Implementation Team for the Professional Association of Residents of Ontario ("PARO"), the bargaining agent for residents of Ontario, both testified and filed an affidavit in support of the appellants. I agree that Ms. Trowell's work at PARO makes her familiar with the educational and licensing requirements of residents in Ontario. In her affidavit, buttressed by her testimony, Ms. Trowell describes the residency program in Ontario, its purpose, its requirements, its administration, the nature of the residents' work and study and matters related generally to a "resident program". The cross‑examination of Ms. Trowell clarified her evidence but did not substantially challenge it. I have relied heavily on her evidence.
+[8] Ms. Trowell explained that the residency program is a multi‑year training program through which all physicians and surgeons in Ontario must follow and pass upon completion of medical school in order to be admitted to the practice of medicine. Any residency program must be accredited by the Royal College of Physicians and Surgeons of Canada ("Royal College") or the College of Family Physicians of Canada ("CFPC"), depending on the resident's choice of specialty.
+[9] The program trains residents to enter medical practice in the specialty of their choice, for example, paediatrics, ophthalmology, orthopaedics, neurology, etc.
+[10] The residents' presence at the hospital gives them the practical training to eventually practice their craft independently. The training includes direct clinical patient care work that they perform under supervision and assessment. They participate in patient‑related rounds at the hospital. They also undertake research and studies in medicine and prepare for and present at educational rounds. They also attend formal lectures and conferences, among other things. During rounds, residents are expected to describe to their peers the particular health problem.
+[11] Upon completion of a residency program, the person must pass certification exams administered by the Royal College or CFPC, depending on the specialty, before they can undertake the practice of medicine independently.
+[12] Upon receipt of a M.D. degree the doctor will normally apply for admission to a residency program in a particular specialty at a medical school of an accredited university. Once the university accepts the doctor for admission to the residency program, the university informs the College of Physicians and Surgeons of Ontario ("CPSO"). The CPSO is the professional regulating body for practitioners of medicine in Ontario.
+[13] Each accredited university is affiliated with one or more teaching hospitals where the residents are employed to engage in clinical training and provide clinical services to members of the public. The university classifies the residents as students of the university. The hospital pays the residents a salary.
+[14] The doctor applies to the accredited university for acceptance to a residency program. The resident pays a registration fee to the university to enroll in its program. The university assigns the student to its teaching hospital or if it has more than one teaching hospital, to a particular hospital.
+[15] It is the CPSO that grants a limited licence, known as an "educational licence", to the resident to practice medicine. The licence, called "certificate authorizing post-graduate education" permits the resident to practice only under the supervision of staff physicians and surgeons at the hospital the resident works. The resident is not permitted to practice medicine independently, without supervision. The CPSO will only issue an educational licence if it is satisfied that the applicant satisfies all CPSO's standards and qualifications. The student cannot practice medicine and cannot be a resident without an educational licence. At the beginning of each year of residence, the resident must apply for a new educational licence.
+[16] The teaching hospitals are staffed by medical teams including staff physicians as well as the residents who are learning to become independently licenced physicians through this program. Staff physicians and surgeons who supervise the residents also have a dual status: they have hospital privileges at the teaching hospital and are also professors with an academic appointment at the faculty of medicine of the university with which the hospital is affiliated. Each university assigns a Program Director to its residency program.
+[17] While the residency programs are established and administered by the universities all or virtually all instruction and work within the programs take place in teaching hospitals or other health care facilities under the affiliation agreement the hospital has with the university including, in Ontario, about 200 community hospitals. The University of Toronto has at least ten teaching hospitals and other than the Program Director, there may be a site director at each hospital.
+[18] The residents in a program work at the hospital or other health facility approximately 50 to 60 hours per week, 48 weeks a year, depending on the program. They work eight to ten hours a day, five days a week and are "on call" either overnight during the week or 24 hours on weekends. The employment of residents keeps hospitals operating overnight and on weekends.
+[19] There are also an insignificant number of residents who work on a part‑time basis, for example three days a week. The length of a program undertaken by part‑time residents would be, in such a case, double that of a full‑time resident. (None of the appellants was a part‑time resident.)
+[20] PARO has an agreement with the The Council of Academic Hospitals of Ontario ("CAHO") which represents all the teaching hospitals in Ontario. The Agreement governs terms and conditions of employment of the residents and recognizes that the residents are both physicians employed by the hospitals and post-graduate medical trainees registered in approved university programs leading to a licence or certification. The residents are paid by the university in accordance with the pay scale in the PARO‑CAHO Agreement.
+[21] If, for whatever reason, the resident ceases to be registered in the residency program at a university, including expulsion of the resident by the university, the doctor ceases to be a resident. The CPSO will revoke the educational licence of the resident and the resident will no longer be on the medical staff of the hospital. The person will no longer be permitted to practice medicine in Ontario. The decision is the university's. However, a resident may also be dismissed from employment by the hospital. The PARO‑CAHO Agreement provides protection for residents against dismissal from the hospitals without cause but dismissal from the program by the university is recognized as "just cause" for dismissal from the hospital's employ.
+[22] Each residency program is subject to accreditation and periodic review by the Royal College and, with respect to family medicine programs, the CFPC. General standards that apply to the programs ensure the type of training and instruction residents receive are legislated by the Royal College and CFPC. These standards include organized programs of rotations in the hospitals by the residents and "other educational experiences" to ensure competency in the specialty chosen by the resident. The standards also require an evaluation of each resident enrolled in the program.
+[23] The Royal College also establishes specific standards, requirements and objectives for each specialty. The program for residents in orthopaedics may have different requirements as to clinical patient care, research, surgery, than does the program for paediatrics, for example. The Royal College requirements are minimum requirements and the universities may have a program that exceeds the minimum.
+[24] Throughout his or her residency, during each rotation and the duration of the residency, the resident is subject to on‑going evaluation. Each university establishes its own policies subject to the requirements of the Royal College and CFPC. The assessments, referred to as "In‑training Evaluation Reports" ("ITERs"), are in writing. In the event a resident's performance is unsatisfactory, the resident may be placed on academic "remediation" or academic "probation" or dismissed from the program. There is an appeal process, internal to each university, available to the resident. Each university has its own policy but academic remediation or probation usually provides for an extension to the particular resident's residency during which he or she repeats rotations that were considered unsatisfactory.
+[25] At the end of a program a resident is subject to an overall final evaluation. In order for a resident to take the required certification examinations administered by the Royal College or the CFPC to enter independent practice in a specialty, the resident's residency educational program must assess him or her as having met the requirements of the residency program by completing what is called a "Final In‑Training Evaluation Report" ("FITER") confirming satisfactory completion of the program. Without a successful FITER, the resident cannot take the examination for the required Royal College or CFPC certificate. During the residency program the residents usually are continually preparing for the Royal College and CFPC exams by taking practice exams administered by the program.
+[26] The Province of Ontario funds the accredited universities for the residency programs. The Ontario Ministry of Training, Colleges and Universities uses full‑time registration codes and the universities consider the residents as full‑time students enrolled at the particular university[4].
+Respondent's witnesses
+[27] The respondent called five witnesses, all officials at the universities involved.
+[28] Dr. Lorne Wiesenfeld is a physician and Vice‑Dean of Post-graduate Medical Education at the University of Ottawa Faculty of Medicine. He oversees 67 residency and Fellowship programs at the university. Dr. Hilary Myron was a student at the university's paediatric program.
+[29] Dr. Wiesenfeld explained that when a potential resident applies to the University of Ottawa for acceptance to a residency program, the students are matched to the programs available at the university and the specialty the applicant is seeking to study. Once the applicant is approved for acceptance to a particular program, the Faculty of Medicine of the University sends a Letter of Appointment to the applicant. Dr. Myron's first Letter of Appointment was dated March 31, 2010 and, among other things, specifies and explains the program, in her case, paediatrics, the funding source, the Ontario Ministry of Health, and the training levels, that is, "Postgrad Year 1" and "Postgrad Year 2". She accepted a second appointment on February 28, 2012 for "Postgrad Year 3" level. Upon completion of the program she would receive a CPSO Post-graduate Education Certificate. The Letter of Appointment also states that she "may be assigned for varying lengths of time to any of the hospitals, institutions or teaching practices associated with the education program of this University".
+[30] The University of Ottawa charged Ms. Myron in 2010 a registration fee of $350, since increased. If a resident does not pay the fee he or she is suspended. The fee represents the cost of administration of the program and oversight of the program; it does not fully fund the course; funding is by the Ontario Government.
+[31] One of the arguments of the respondent is that the time spent by the residents on academic courses is less than the ten hours per week required for a program to be a "qualifying educational program" within the meaning of section 118.6 of the Act. Dr. Wiesenfeld testified that the University of Ottawa's Faculty of Medicine requires the residents to attend what is called "academic half‑day" programs, which could be anywhere from a half‑day to a full day. This is a compulsory weekly feature of the University of Ottawa program and students must leave their service in the hospital to attend the "academic half‑day" program. The program may take place in the hospital or at the university.
+[32] A Residency Program Committee, chaired by the Director of the Program and site directors, determine if a resident has acquired the medical requirements for promotion to the next level in the program.
+[33] The University of Ottawa issues a "generic" diploma to a resident who successfully completes the University's program; this permits the resident to sit for the Royal College or CFPC examination.
+[34] Finally, Dr. Wiesenfeld stated, "everybody involved [in the program] is a university appointment". The University of Ottawa considers the post-graduate residency program as university education.
+[35] Mr. Scott Rumas, Manager of the Post-graduate Medical Education Office at the Schulich School of Medicine and Dentistry at the Western University also testified as a witness for the respondent. Mr. Rumas produced a copy of a letter he wrote on January 6, 2014 in reply to a letter from the Department of Justice. The Department of Justice's letter appears to have requested "[a]ny documents, notes, by‑laws, contracts, policies, agreements or any information in respect of the definition of a 'full‑time' student in the post-graduate medical residency program at Western University", with reference to several appellants. Mr. Rumas' reply describes the appointment of the resident, responsibilities in post-graduate medical education and other topics, all previously referred to by Ms. Trowell and Dr. Wiesenfeld and consistent with their evidence. I did not find any of Mr. Rumas' evidence that would significantly distinguish the program at Western University from that of the University of Ottawa or as described generally by Ms. Trowell.
+[36] Ms. Sharon Cameron, Manager of Post-graduate Medical Education at McMaster University, Mr. Jordan Sinnett, Resident Program Manager at Queen's University and Ms. Loretta Muharuma, Director of Operations, Post-graduate Office of the Faculty of Medicine at the University of Toronto also testified. Their evidence was consistent with earlier evidence. One possible difference may distinguish the "Academic Half‑Day" programs. At McMaster University each program has its own half‑day program which is compulsory. Ms. Muharuma explained that the "Academic Half‑Day" programs at the University of Toronto are controlled by each Department of the Faculty, each with its own curriculum, and not controlled centrally. She testified the Academic Half‑Day program is compulsory in Neurology but could not speak to the other specialties. All witnesses confirmed that their university issues certificates to residents who have successfully completed their program of study to enable them to take the Royal College or CFPC examinations.
+[37] To reiterate the Crown's position:
+a) each of the appellants spends less than ten hours a week on courses in a program within the meaning of "qualifying educational program" as defined in Subsection 118.6(1) of the Act;
+b) none of the appellants are "full‑time student", let alone a student and therefore they do not qualify for and may not deduct an amount as an education tax credit described in Subsection 118.6(2) of the Act; and
+c) No appellant is enrolled in a qualifying educational program as a full‑time student at a designated educational institution.
+[38] Counsel for the respondent submitted that since the term "full‑time student" in Subsection 118.6(2) of the Act is not defined one should refer to that term in "companion" legislation, namely, regulations to the Canada Student Loans Act ("CSL Act") and the Canada Student Financial Assistance Act ("CSFA Act"). The term "full‑time student" is defined at Subsection 2(1) of the Regulations respecting Canada student loans[5] for purposes of the CSL Act and its regulations as follows:
+"full‑time student" means a person
+« étudiant à temps plein » Personne :
+(a) who, during a confirmed period within a period of studies, is enrolled in courses that constitute
+a) qui, durant une période confirmée d'une période d'études, est inscrite à des cours qui représentent, par rapport au nombre de cours que l'établissement d'enseignement agréé exige pour reconnaître que des études sont suivies à temps plein :
+…
+…
+(ii) at least 60 per cent of a course load recognized by the specified educational institution as constituting a full course load, in any other case,
+(ii) soit au moins 60 pour cent de ce nombre, dans les autres cas;
+(b) whose primary occupation during the confirmed periods within that period of studies is the pursuit of studies in those courses, and
+b) dont la principale activité pendant les périodes confirmées de cette période d'études est de suivre ces cours;
+(c) who complies with the requirements of subsection 3(1); (étudiant à temps plein)
+c) qui se conforme aux exigences du paragraphe 3(1). (full‑time student)
+[39] For the purpose of the regulations respecting the CSFA Act the word "course" means:
+2(1) …
+formal instruction or training that constitutes, or is determined by a specified educational institution to be equivalent to, an essential element of a program of studies at a post‑secondary school level at that specified educational institution but does not include any formal instruction or practical training required for acceptance in a professional corporation or for the practice of any trade or profession, unless that formal instruction or practical training is necessary to obtain a degree, certificate or diploma from that specified educational institution; (cours)
+2(1) . . .
+Formation ou enseignement formels constituant un élément essential d'un programme d'études de niveau postsecondaire offert à un établissement d'enseignement agréé, ou considéré comme tel par cet établissement. La présente définition ne comprend ni l'enseignement formel ni la formation pratique requis pour l'adhésion à une corporation professionnelle ou l'exercice d'un métier ou d'une profession, sauf si cet enseignement ou cette formation est nécessaire à l'obtention d'un diplôme ou d'un certificat de l'établissement agréé. (course)
+[40] The definitions of "full‑time student" and "course" in the CSFA Act[6] are identical to those definitions in the regulations respecting the CSL Act.
+[41] To be a "full‑time student" for purposes of the CSL regulations and CSFA regulations, the person's primary occupation must be "the pursuit of studies" in courses. And a "course" is formal "instruction" or "training", determined by a specified educational institution that constitutes studies at a post‑secondary level at that institution but not study or training for acceptance in a professional corporation such as the Royal College or CFPC unless — and this is a significant "unless" — instruction or training is required to obtain a certificate from that specified educational institution, that is, in the appeals at bar, the university.
+[42] The Crown's view is that the resident's primary occupation as a resident is an employee of the hospital and not a student. The only time that a resident is not an employee of the hospital during his or her residency is when he or she is not being paid. And the only time in one's residence that he or she is not paid is when the resident attends the Academic Half‑Day Programs. The Academic Half‑Day portion of the program is less than ten hours a week. Any "study" that is paid for cannot be included in the ten hours per week required to be spent by the resident in a qualifying educational program. In the Crown's view a resident cannot be both a full‑time student and full‑time employee.
+[43] The Crown cited the decision of Mayo Foundation for Medical Education and Research et al. v. United States[7]. In this case, the Mayo Foundation asked the Supreme Court of the United States to find that the Treasury Department of the United States did not have the authority to promulgate a rule that medical residents were required to pay a social security tax. The Supreme Court confirmed the decision of the U.S. Court of Appeals for the Eight Circuit[8]. The Internal Revenue Code does not define "student" or address medical residents. The Court held that focusing on hours worked and hours spent in studies reasonably distinguished between workers who studied and students who worked: employees working long enough hours to be considered full‑time filled the conventional measure of available time with work. The rule did not distinguish between classroom education and clinical training. It was held that residents — who worked long hours, were highly skilled, and typically shared some or all of the terms of employment of career employees — were the kind of workers Congress intended to contribute to and benefit from the Social Security Act.
+[44] The U.S. Court of Appeal held that the Treasury Department had authority to make the rule.
+[45] Respondent's counsel also referred to the reasons for judgment of my colleague Justice Archambault in Chabaud v. The Queen[9]. Dr. Chabaud held a doctorate in molecular biology and received an income of $36,101 (i.e. $36,601 — $500) to perform research in a laboratory. The Minister did not deny the $36,601 was a scholarship, fellowship or bursary within the meaning of paragraph 56(1)(a) of the Act but was of the view that the taxpayer did not qualify for any exemption in excess of $500 under paragraph 56(3)(a) of the Act because the taxpayer was not a student and, thus, was not entitled to an education tax credit.
+[46] Justice Archambault dismissed the appeal on the basis the $36,601 could not be a scholarship, fellowship, bursary or research grant because it was not paid to the taxpayer by way of financial assistance. The $36,601 was received as employment income; the taxpayer was an employee of the laboratory where he performed his research.
+[47] In finding that Dr. Chabaud was an employee, Archambault J. opined that
+… there is no relevant difference between the work Mr. Chabaud did as a postdoctoral research fellow and that of an articling law student, a medical resident, an accounting trainee or an apprentice. All must acquire more experience before moving on to the next stage of their careers. Judicial notice is taken of the fact that medical residents and articling law students must work for a number of months under the supervision of an 'attending staff physician' or 'articling principal' before being eligible for admission to their respective professional bodies. During this period, they receive remuneration for their work while acquiring more experience in their field.
+[48] Neither the Mayo Foundation case nor the Chabaud appeal is helpful. Both cases held that the subjects of the appeals were employees. In the Mayo Foundation, the U.S. Court had to find if the residents were either employees or students, they could not be both under the social security legislation. This is not the situation before me. In Chabaud, this Court held that Dr. Chabaud, who was not taking courses in a qualified educational program, but performing research, was an employee. In the case at bar the appellants do not contest that they are employees. Ms. Trowell described the residents as having a dual status, as students and employees.
+[49] Respondent seeks to give particular weight to the employee status of the residents as opposed to their student status. Hence, counsel for the respondent referred to the CSL Act and CSFA Act regulations as to the course load recognized by the university as constituting a full course load and, in particular, that a full‑time student's primary occupation is the pursuit of studies in the courses.
+[50] Subsection 118.6(1) of the Act refers to both the CSL Act and CSFA Act in defining the meaning of "designated educational institution". Subsection 118.6(2) requires that eligibility for an education credit depends on the student being enrolled as a "full‑time" student; yet Parliament does not define that term in the Act nor does it refer to the definition of "full‑time student" in other statutes, as it did with respect to "designated educational institution". The definition of "full‑time student" in the CSL Act regulations and CSFA Act regulations do not define "full‑time student" for purposes of section 118.6 of the Act.
+[51] Among the requirements of Subsection 118.6(2) is that to be eligible for the education credit the individual is to be enrolled in a qualifying educational program as a full‑time student at a designated educational institution. Each of the witnesses has acknowledged that the residents attending the resident program at their university is enrolled as a full‑time student at the university.
+[52] It is the respondent's view that the resident program is not at a designated educational institution, the residence program takes place at a hospital and not a university, as defined in Subsection 118.6(1).
+[53] The faculties and schools of medicine of the universities are responsible for the resident programs. The potential resident applies to the university for acceptance to the university's post-graduate study program. The decision to accept or reject the application is that of the university. There is no tuition fee charged to the residents but the Government of Ontario considers them as full‑time students in allocating financial grants to the universities. The teachers are doctors appointed by the university to various professorial ranks. The university considers the residents as full‑time students. The university determines whether a resident may advance to the next level in the resident program. The university may discipline a resident and the university's decision is binding on the hospital. It is true that the clinical portion of the program takes place at the hospital − and the clinical portion is the overwhelming portion of the program − but it is carried on under the umbrella and tutelage of the university.
+[54] I do not find it illogical in reading Subsection 118(6) that a person can be both a full‑time student and a full‑time employee or even carry on his or her own business on a full‑time basis while a full‑time student. It is not the average person's preference but it is not an infrequent choice that many people, both residents and others, are compelled to make.
+[55] The definition of "qualifying educational program" refers to a student taking the program and spending not less than ten hours a week "on courses or work" in the program. The word "or" in the phrase "course or work" in the definition of "qualifying educational program" in Subsection 118.6(1) of the Act must be conjunctive. The word "or" permits an individual to follow a qualifying educational program that is wholly made up of academic courses or one that is wholly made up of work. The phrase also allows an individual to follow a qualifying educational program that is made up of both academic courses and work, which is the situation at bar. And because one is being paid for one's labour does not disqualify him or her from being a student. We are not in the age of indentured service.
+[56] Subparagraph 118.6(a)(ii) of the Act defines a "designated educational institution" to include an institution certified by the Minister of Human Resources and Skills Development that furnishes a person with skills for, or improve a person's skills, in an occupation. Hence, Parliament has contemplated situations where individuals undertaking an occupation that is not university oriented to undertake a program of study to learn the skills required for that occupation. The program of study may comprise both courses and work. In other words, these individuals work at their occupation at the same time as they take courses to learn or improve their skills for their jobs. These individuals who spend at least ten hours on work or courses at a designated educational institution for not less than three consecutive weeks may be eligible for the education tax credit.
+[57] The same applies to residents. I cannot agree that they are not eligible for an education tax credit if they qualify under Subparagraph 118.6(1)(a)(i), Subsection 118.6(2) and are enrolled as full‑time student. Respondent's counsel startled me when he suggested that it would not be reasonable or fair to articling students seeking to qualify for the Bar or accounting students who want to become Chartered Professional Accountants if I allowed residents to claim the education tax credit and not them. As I understand it, the courses offered to articling and accounting students in Ontario are not offered by a designated educational institution and this may be one reason they would not qualify. Taxpayers often complain of the unfairness of the Act and often their complaint is well founded. However, this is the first time in my 30 years as a judge that I heard the Crown suggest that it may be prejudiced because the Act may not be fair.
+[58] The appeals will be allowed with party and party costs.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2014 TCC 47
+COURT FILE NO.: 2013-1263(IT)I, 2012‑4474(IT)I, 2013‑2385(IT)I, 2013‑735(IT)I, 2013‑1509(IT)I, 2013‑1793(IT)I, 2013‑2596(IT)I, 2013‑2592(IT)I, 2013‑2597(IT)I, 2012‑4621(IT)I and 2013‑89(IT)I
+STYLE OF CAUSE: THILEEBAN KANDASAMY v.THE QUEEN
+COLLIN TERPSTRA v. THE QUEEN
+JENNY PEIH‑CHIR TSAI v. THE QUEEN
+ANDREW YADEGARI v. THE QUEEN
+THOMAS HAVEY v. THE QUEEN
+HILARY MYRON v. THE QUEEN
+SASSAN GHAZAN-SHAHI v. THE QUEEN
+BITA HASHEMI v. THE QUEEN
+BRENDON TROTTER v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: January 9 and 10, 2014
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: February 17, 2014
+APPEARANCES:
+Counsel for the Appellants:
+Steven Barrett
+Derrick McIntosh
+Counsel for the Respondent:
+John Grant
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Derrick McIntosh
+Firm: Sack, Goldblatt Mitchell LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I understand the procedure is similar in other provinces.
+[2] There are six universities in Ontario offering a medical degree as well as post-graduate programs to qualify for a licence to practice medicine in Ontario. In addition to those mentioned on this list is the Northern Ontario School of Medicine in Sudbury.
+[3] 2010 TCC 147, 2010 D.T.C. 1138.
+[4] Ms. Trowell's information is based on correspondence from various officials of Queen's University, McMaster University and the University of Toronto as well as Ontario Operating Funds Distribution Manual (S. 3.2.1), all documents attached to her affidavit.
+[5] SOR/93‑392.
+[6] Subsection 2(2) of the CSFAR, SOR/95‑329.
+[7] 131 S.Ct. 704 (2011).
+[8] 568 F. 3d 675. See also Minnesota v. Apfel, 151 F.3rd 742 (8th Cir. 1998).
+[9] 2011 TCC 438, 2011 DTC 1313, 2012 DTC 1076 [Eng. trans.].

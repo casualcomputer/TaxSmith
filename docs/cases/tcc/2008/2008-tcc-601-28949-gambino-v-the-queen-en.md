@@ -1,0 +1,173 @@
+---
+title: "Gambino v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28949/index.do"
+last_modified: "2008-11-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 601"
+citation2: ""
+neutral_citation: "2008 TCC 601"
+decision_date: "2008-11-05"
+language: "en"
+item_id: "28949"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1389
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:41:01.504000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a6848f7eb0f55fa14f9c6ee7fcf05e022290569ecc5a393f97633f831bd0b7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gambino v. The Queen
+
+- Citation: 2008 TCC 601
+- Decision date: 2008-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1389, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gambino v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-05
+Neutral citation
+2008 TCC 601
+File numbers
+2007-4663(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4663(IT)I
+BETWEEN:
+MARIA GAMBINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 6, 2008, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Miles D. O’Reilly, Q. C.
+Counsel for the Respondent:
+Laurent Bartleman
+Ian Theil
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made under section 160 of the Income Tax Act is allowed and the assessment is vacated.
+By agreement of the parties, costs to the Appellant are fixed at $850.
+Signed at Ottawa, Canada, this 5th day of November 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008 TCC 601
+Date: 20081105
+Docket: 2007-4663(IT)I
+BETWEEN:
+MARIA GAMBINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] Mrs. Gambino is 78 years old. The Canada Revenue Agency has assessed her under section 160 of the Income Tax Act in respect of seven $1,500 cheques she cashed at her bank for her son.
+I. Facts
+[2] The facts are not in dispute and the taxpayer’s evidence is in all material respects acknowledged by the Crown as correct. The Crown did not challenge the taxpayer’s credibility.
+[3] In 2005 and early 2006, Mrs. Gambino cashed seven $1,500 cheques made out to her son by Manulife Financial. At the time, her son Francesco was in his late forties, was ill with a leg infection, was not working and was unable to walk. Mrs. Gambino was asked by her son to cash the disability cheques as they arrived so she walked to her nearby Canada Trust with his endorsed cheques, endorsed them at the bank for cash and returned home with the cash and gave it to her son. The endorsements were merely the signatures of the payee and his mother.
+[4] The Crown’s position in its Reply is that Mrs. Gambino deposited the cheques to her account. The Reply is silent on what happened after that. In fact, it is clear from the cheques and from her bank books that the cheques were never deposited to her account. It is clear from the bank’s transaction records for each of the seven transactions that the bank gave Mrs. Gambino cash against endorsement of the cheque by her, which had already been endorsed by her son, the payee. I do not believe this affects the result in any way.
+[5] In the case of all but one of the cheques, Mrs. Gambino brought home the $1,500 cash received from Canada Trust and gave it to her son the same day. In one case, he had told her to apply $500 from the endorsed cheque to repayment of a $500 loan she had made to him. In that case, Canada Trust credited her account with $500 and she returned to her son with the remaining $1,000. The Crown does not dispute that she had loaned her son $500 in the common meaning of the term, but, as discussed later, denies that the transaction necessarily gave rise to a contractual legal relationship.
+[6] In her own words (as translated by the interpreter), Mrs. Gambino cashed the cheques for her son and brought them home to him to use to buy his medicine or whatever.
+[7] In cross-examination, the Crown had Mrs. Gambino confirm that she loves her son and that she cashed his cheques as a favour to him because he was ill and she felt sorry for him. She also confirmed in cross-examination that she was not aware that he had an $85,000 tax liability at the time. While she was aware that he had debts, she did not get involved in his personal business and was unaware of any details. The Crown did not ask any other questions.
+[8] The Crown acknowledges that Mrs. Gambino never had beneficial ownership of the funds and was only ever a bare trustee. I take this to mean the funds were never hers to do with what she wanted at any point from when she set off for the bank to when she returned and gave her son the money. The Crown acknowledges that with respect to each cheque, Mrs. Gambino returned with the cash and gave it to her son on the same day. That would have been done with six of the $1,500 cheques in full and with $1,000 of the remaining $1,500 cheque. The Crown acknowledges that the remaining $500 that was credited by Canada Trust to Mrs. Gambino’s account was in repayment of money she had advanced to her son.
+II. Law
+[9] The relevant portions of section 160 of the Act are:
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+…
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+…
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under the Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+III. Position of the Parties
+[10] It is the taxpayer’s position that Mrs. Gambino was simply acting as an agent for her son in cashing his cheques as they were received by him. That is, each of those times that Francesco Gambino received a $1,500 cheque from Manulife Financial, he signed the back of it so his mother could go to the bank and cash it for him which each time she did. In each case but one, he had the full amount of his cash from his cheque in hand when his mother returned from her bank. In the remaining case he had $1,000 cash from his cheque in hand and had repaid $500 he had borrowed from his mother.
+[11] The taxpayer’s position has a certain common sense appeal to it since each day in question the son began with a $1,500 cheque from Manulife made out to him and, as soon as his mother returned from the bank, he had his cash in hand. I do not know what he did with the cash other than that he did not give it back to his mother.
+[12] The Crown’s position is that section 160 and the recent pronouncements on it from the Federal Court of Appeal in Livingston v. Her Majesty the Queen, 2008 D.T.C. 6233, are very technical and to be strictly applied in non-arm’s length situations. The Crown maintains this is so even though the result may be harsh because of the risk of CRA’s ability to collect taxes owing being able to be frustrated by non-arm’s length dealings.
+[13] The Crown relies very heavily on what the Court wrote in Livingston at paragraph 21:
+The deposit of funds into another person's account constitutes a transfer of property. To make the point more emphatically, the deposit of funds by Ms. Davies into the account of the respondent permitted the respondent to withdraw those funds herself anytime. The property transferred was the right to require the bank to release all the funds to the respondent. The value of the right was the total value of the funds.
+[14] It is the Crown’s position in this case that, upon giving the endorsed cheque to his mother, Mr. Gambino transferred to her the right to require the payor’s bank to pay all of the funds to her. Thus, the Crown contends it should be regarded as a transfer of valuable property to Mrs. Gambino by her son at the time he gave her his endorsed cheque applying the same analysis as the Court of Appeal applied to an actual deposit of funds.
+[15] The Crown further relies on Livingston for the proposition that even a transfer of legal ownership without beneficial ownership will render the transferee liable under section 160 for the entire value of the property. For this purpose the Crown relies on paragraph 22 of Livingston. While the Federal Court of Appeal is silent in that paragraph on valuing the transfer of mere legal ownership, it appears implicit in the decision that the value of the legal ownership absent beneficial ownership was the value of the entire property in question in that case. For this reason, the Crown maintains that Mrs. Gambino’s liability under section 160 is not reduced to reflect the amount of cash she promptly turned around and gave her son after cashing his cheque.
+[16] In the alternative, the Crown maintains that if Mrs. Gambino was not acting as trustee, but in some capacity akin to an agency or bailment, these may not have been contractual arrangements. Further, since section 160 only gives the transferee credit for “consideration” paid to the transferor and since consideration only exists in contract law, neither the cash she gave her son nor any promise to do so necessarily constituted consideration. The Crown relies on the 1919 U.K. Court of Appeal family law decision in Balfour v. Balfour, [1919] 2 K.B. 571 for the proposition that agreements between family members reflecting purely domestic arrangements do not necessarily give rise to contractual rights if the parties did not intend to create contractual rights. The Crown’s argument continues that, since the burden is on Mrs. Gambino to establish the fair market value of any consideration, she needed to establish that her agreement to cash the cheques for her son, her $500 loan to him, and its repayment were intended to be contractual and not purely a family arrangement.
+[17] It was the Crown’s further position that, even if the amounts of cash turned over to her son were consideration, they were not given by her at the time the endorsed cheque was transferred to her, but perhaps an hour or more later that same day. Since the potential transferee liability under section 160 is only reduced by the value of consideration given by the transferee to the transferor at the time the tax debtor transfers the property, even if the cash given by Mrs. Gambino was consideration, it would not reduce her section 160 liability.
+[18] With respect to the $500 Mrs. Gambino loaned her son and which he repaid with part of the proceeds of one of the cheques, it is the Crown’s position that the settlement of her loan was not demonstrated to be consideration that gets valued for purposes of subparagraph 160(1)(e)(i). The Crown relies again on the possibility that Balfour v. Balfour applies and the proposition that her loan may not have been intended to create contractual relationships since it was made for natural love and affection. The Crown does not in any way dispute that the loan had been made and was repaid in this manner. The Crown’s position is that the transferee, Mrs. Gambino, has the burden of establishing the fair market value of any consideration allegedly provided in exchange of the transferred property and has not done so because I should not presume a contractual loan to have been created by the mere intra-family lending and repayment of money.
+IV. Analysis
+[19] There are four conditions to be met for subsection 160(1) to apply. These were set out in Williams v. Her Majesty the Queen, 2000 D.T.C. 2340 and approved by the Federal Court of Appeal in Raphael v. Her Majesty the Queen, 2002 D.T.C. 6798 which upheld the decision of Justice Mogan of this Court. They are:
+1) There must be a transfer of property;
+2) The transferor and transferee are not dealing at arms length;
+3) There must be no consideration or inadequate consideration flowing from the transferee to the transferor; and
+4) The transferor must be liable to pay an amount under the Act in or in respect of the year the property was transferred or any preceding year.
+[20] These same four requirements are set out, albeit in different order and words, by the Federal Court of Appeal in Livingston.
+[21] In this case, requirements 2 and 4 are clearly met and are not in dispute.
+[22] With respect to the first requirement, the taxpayer’s counsel argues that, in the circumstances of this case, no property or rights of any value were transferred by the son to his mother when he gave her his signed cheque for her to cash for him.
+[23] With respect to the third requirement for consideration, it is the taxpayer’s position that if there was a transfer of property, sufficient consideration was given by the mother when she promptly did as asked in giving him the cash and in paying off his loan from her.
+[24] As stated, the Crown relies heavily on the Federal Court of Appeal’s decision in Livingston. However, it should be noted that the facts in Livingston were quite different from those here. In that case, a scheme was developed with the intention to hide assets in order to avoid creditors and the parties had in fact conspired to prejudice CRA. While this is not a precondition to the application of section 160, the Court of Appeal described it as a “crucial fact” for purposes of the Livingston appeal. That knowledge and intention was not present here. The Court in Livingston says at paragraph 19 that such knowledge and intention can be relevant in valuing the adequacy of the consideration given.
+[25] In Livingston the transferee set up a bank account into which the tax debtor could deposit her cheques. The transferee made available to the tax debtor the only bank card for the account and gave her signed blank cheques so the tax debtor could withdraw and use the account as her own and did so over time. Bank statements were sent to the tax debtor.
+[26] In Livingston, the Court describes the purpose of subsection 160(1) at paragraph 27 as follows:
+Under subsection 160(1), a transferee of property will be liable to the CRA to the extent that the fair market value of the consideration given for the property falls short of the fair market value of that property. The very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA. Where those assets are entirely divested, subsection 160(1) provides that the CRA's rights to those assets can be exercised against the transferee of the property. However, subsection 160(1) will not apply where an amount equivalent in value to the original property transferred was given to the transferor at the time of transfer: that is, fair market value consideration. This is because after such a transaction, the CRA has not been prejudiced as a creditor. Applying such principles to the case at bar, it is clear that the transaction between Ms. Davies and the respondent left Ms. Davies without anything equivalent to the property transferred that could be collected by the CRA, and thus there couldn't possibly be consideration.
+[Emphasis added]
+[27] The Court had earlier referred at paragraph 18 to its statement in Medland v. Her Majesty the Queen, 98 D.T.C. 6358 that “the object and spirit of subsection 160(1) is to prevent the taxpayer from transferring property to his spouse [or to a minor or non arm’s length individual] in order to thwart the Minister’s efforts to collect the money which is owed to him”.
+[28] The Crown also relied on the decision of Justice Bowie in Logiudice v. Her Majesty the Queen, 97 D.T.C. 1462. In that case, it is similarly stated that the purpose of section 160 is to prevent taxpayers from escaping their liabilities under the Income Tax Act by placing their liabilities and assets in the hands of relatives and other non-arm’s length persons and thus beyond the immediate reach of the tax collector.
+[29] No such tax collection avoidance motives exist here. Nor, given the chance, could the Crown describe any way the CRA could have been prejudiced by Mrs. Gambino cashing her son’s cheques before he spent them instead of cashing them himself before spending the money. Had CRA been aware that Manulife was sending regular payments to Francesco Gambino, it could have effectively garnished the amounts by issuing a requirement to pay to the financial institution. Once Francesco Gambino had the cash from the cheques, CRA might have executed before he spent it. That would be so whether he had cashed them or had his mother cash them for him. There was no serious suggestion the CRA would have been able to execute against the Manulife cheques at any time or the cash received for them but for Mrs. Gambino having taken the cheques to the bank and cashed them for her son. He could just as easily have made other arrangments himself. In this case, there is no causal link between CRA not collecting these amounts from Francesco Gambino and the fact that his mother walked to the bank to cash his cheques for him. The money never even found its way into her account for a moment in time.
+[30] The Minister’s position is completely lacking in common sense. Its obvious fallacy is that the Minister could make the same arguments against Mrs. Gambino even if her son had used the cash to pay CRA to reduce his tax debt. Even more ridiculous is that the Crown’s technical arguments could be advanced had Mrs. Gambino’s son given her his endorsed Manulife cheques and asked her to walk them to the CRA taxation office and credit the amounts towards his much larger tax liability.
+[31] I accept that Mrs. Gambino intended to and did oblige herself to bring the cash from the cashed cheques promptly back to her son. I also accept that Mrs. Gambino intended for her son to repay the $500 she had loaned him. I accept that she did not understand her son was intending to make a gift to her of any of the amounts. I am satisfied that there was consideration as that term is used in section 160 for all amounts that briefly passed through her hands. I am also satisfied that her commitment to do that, or in any event, her actually doing that, was at the time of the transfer of the endorsed cheques to her.
+[32] In the circumstances and for these reasons Mrs. Gambino’s appeal is allowed in full and the assessment is vacated.
+[33] By agreement of the parties, costs are fixed at $850 in favour of Mrs. Gambino.
+[34] I must close by expressing my strong disappointment that the government pursued Mrs. Gambino through to a trial. The government’s position makes no sense. While her son’s tax debt may remain unpaid, there is nothing she did that in any way contributed to that.
+Signed at Ottawa, Canada, this 5th day of November 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008 TCC 601
+COURT FILE NO.: 2007-4663(IT)I
+STYLE OF CAUSE: MARIA GAMBINO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 6, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: November 5, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Miles D. O’Reilly, Q.C.
+Counsel for the Respondent:
+Laurent Bartleman
+Ian Theil
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Miles D. O’Reilly, Q.C.
+Firm: Miles D. O’Reilly, Q.C.
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,172 @@
+Title: Fonds d'emprunt communautaire de la Gaspésie et des Îles c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26010/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-396-26010-fonds-d-emprunt-communautaire-de-la-gasp-sie-et-des-les-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-06-08
+
+# Fonds d'emprunt communautaire de la Gaspésie et des Îles c. M.R.N.
+
+- Citation: 2004 CCI 396
+- Decision date: 2004-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3743, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fonds d'emprunt communautaire de la Gaspésie et des Îles c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-08
+Référence neutre
+2004 CCI 396
+Numéro de dossier
+2003-2676(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2676(EI)
+ENTRE :
+LE FONDS D'EMPRUNT COMMUNAUTAIRE
+DE LA GASPÉSIE ET DES ÎLES
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 19 mai 2004 à New Carlisle (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelante :
+Sonia Gagnon
+Avocate de l'intimé :
+Me Marie-Claude Landry
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu de la Loi sur l'assurance-emploi à l'encontre de la décision du ministre du Revenu national ( « Ministre » ) en date du 10 juillet 2003 est rejeté; la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de juin 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI396
+Date : 20040608
+Dossier : 2003-2676(EI)
+ENTRE :
+LE FONDS D'EMPRUNT COMMUNAUTAIRE
+DE LA GASPÉSIE ET DES ÎLES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une décision en date du 10 juillet 2003 selon laquelle le travail exécuté par monsieur Harold Milligan au cours de la période allant du 21 juillet au 31 décembre 2002 pour le Fonds d'emprunt communautaire de la Gaspésie et des Îles ne rencontrait pas les conditions d'un véritable contrat de louage de services et ce, principalement parce qu'il n'avait pas existé de relation employeur-employé.
+[2] À l'appui de la décision dont il est fait appel, le ministre du Revenu national (le « Ministre » ) s'est fondé sur les hypothèses de fait suivantes :
+a) L'appelante est un organisme sans but lucratif immatriculé le 4 juillet 2002.
+b) L'appelante a pour mission de mobiliser des investisseurs pour donner accès au crédit et accompagner de personnes à faible revenu porteuses d'un projet d'entreprise.
+c) Au moment de son immatriculation, l'appelante était dirigée par un conseil d'administration de 5 personnes dont Madame Sonia Gagnon, conjointe de fait du travailleur.
+d) L'adresse d'affaires de l'appelante était au 12 A, boul. Perron est à Caplan.
+e) L'appelante en était à sa première année d'exploitation.
+f) Le travailleur est un handicapé auditif qui ne peut avoir de conversation téléphonique et qui ne peut travailler seul.
+g) L'appelante aurait embauché le travailleur pour faire le lien avec les communautés anglophone et amérindienne (Micmac).
+h) Le travailleur aurait été embauché pour faire de la sollicitation de nouveaux membres alors que le travailleur n'a participé qu'à quelques rencontres de sollicitation qui avaient lieu 2 fois par mois.
+i) Le travailleur aurait fait des courses et nettoyer les locaux de l'appelante.
+j) Le travailleur aurait travaillé avec Madame Gagnon à leur résidence sise au 256, 4e rang à Richmond.
+k) Les heures de travail du travailleur n'étaient pas comptabilisées et difficilement quantifiables.
+l) Le travailleur était la seule personne rémunérée par l'appelante.
+m) Le travailleur devait être rémunéré 600 $ par semaine, pour 40 heures de travail à 15 $ de l'heure, alors qu'en fait, durant la période en litige, il n'a reçu de l'appelante que trois chèques de 840 $ provenant d'Emploi-Québec.
+n) L'appelante avait obtenu une subvention d'Emploi-Québec en vertu d'un programme de création d'emploi pour les personnes handicapées.
+o) Emploi-Québec devait subventionner le salaire du travailleur pendant un an, à raison de 35 %, soit 840 $ par mois.
+p) Emploi-Québec versait mensuellement la subvention à l'appelante.
+q) En décembre 2002, Emploi-Québec a cessé de verser la subvention à l'appelante puisque l'appelante ne versait pas la rémunération prévue au travailleur et, ensuite, il a réclamé de l'appelante la somme de 4 872 $ qu'il lui avait versée.
+r) Le travailleur s'est présenté une première fois à son bureau de l'assurance-emploi avec un relevé d'emploi indiquant 800 heures de travail et, après avoir été informé qu'il lui manquait des heures, il est revenu le lendemain, avec un relevé d'emploi indiquant 920 heures de travail alors que 910 heures étaient requises pour lui permettre de se qualifier pour recevoir des prestations d'assurance-emploi.
+s) Rien ne justifie que le travailleur aurait fait 40 heures par semaine durant la période en litige.
+t) Le relevé d'emploi n'est pas conforme à la réalité quant au nombre d'heures travaillées ni quant à la rémunération versée.
+[3] L'appelante était représentée par madame Sonia Gagnon et a reconnu comme exact le contenu des alinéas 5a), b), d), e), f), g), i), l), n), o), p), q) et a nié tous les autres alinéas.
+[4] D'entrée de jeu, j'ai longuement expliqué à madame Gagnon la façon dont elle devait procéder en lui indiquant notamment quel point elle devait faire valoir pour relever le fardeau de la preuve qui incombait à l'appelante.
+[5] J'ai également beaucoup insisté sur les conditions requises pour qu'un emploi soit qualifié de contrat de louage de services. Les nombreuses interventions du tribunal pour permettre à madame Gagnon d'expliquer très précisément le travail qu'Harold Milligan avait effectué pour l'appelante n'ont guère donné de résultat; madame Gagnon affirmait et répétait que le travailleur avait principalement agi comme accompagnateur, ajoutant qu'il avait également fait des travaux d'entretien et de réparation, distribué de la publicité et accueilli les gens lors de rencontres, dont le nombre est demeuré nébuleux.
+[6] À la lumière des explications fournies par madame Gagnon, il était manifeste que le travail exécuté par Harold Milligan ne permettait pas de conclure que ce dernier avait exécuté du travail à raison de 40 heures/semaine pour la durée de la période en litige.
+[7] D'autre part, le genre de travail exécuté ne justifiait aucunement le salaire de 15 $/heure, d'autant plus que toutes les autres personnes impliquées dans les activités de l'appelante exécutaient un travail plus important et cela, à titre essentiellement bénévole.
+[8] La question de la rémunération ne fut guère plus précise et ce, bien que madame Gagnon ait fait témoigner une autre personne responsable de la comptabilité, soit madame Diane Allard, également étroitement impliquée dans les affaires de l'appelante.
+[9] De leurs témoignages, il est ressorti qu'Harold Milligan n'avait, dans les faits, reçu que 35 % de la rémunération indiquée au relevé d'emploi. L'autre 65 % du montant indiqué au relevé d'emploi était payé par l'appelante à des tiers pour le remboursement de deux prêts contractés pour l'acquisition de voitures, dont l'une au nom de Sonia Gagnon et de l'appelante et l'autre au nom du travailleur Harold Milligan.
+[10] Outre les mensualités pour les prêts automobiles, l'appelante payait également directement des dépenses engagées, semble-t-il, par monsieur Milligan. Aucun détail précis n'a été fourni, si bien que le tribunal est demeuré sceptique quant aux personnes qui ont vraiment profité des remboursements de dépenses.
+[11] Trente-cinq pour cent de la rémunération indiquée au relevé d'emploi était payé totalement par le biais d'une subvention d'Emploi-Québec dans le cadre d'une entente relative à la gestion d'un contrat d'intégration au travail.
+[12] Une des personnes responsables du programme ayant subventionné l'appelante, monsieur Michel Samuel, est venu expliquer qu'à la suite du constat de plusieurs irrégularités et de manquements au contrat intervenu, l'organisme a cru bon de réclamer le remboursement des montants de la subvention pour la période en litige.
+[13] Emploi-Québec a notamment reproché à l'appelante de ne pas tenir de registre fiable, de ne pas être en mesure d'indiquer précisément la nature du travail exécuté par Harold Milligan et ce qui était encore plus important, de ne pas avoir versé au travailleur la rémunération convenue, à savoir 600 $ par semaine, et de ne lui avoir versé, dans les faits, que 35 % de ce montant, ce qui correspondait au montant de la subvention.
+[14] À la lumière de la preuve soumise par mesdames Sonia Gagnon et Diane Allard, monsieur Harold Milligan n'ayant pas témoigné, il est clairement ressorti qu'il ne s'agissait aucunement d'un véritable contrat de louage de services, mais essentiellement d'un montage imaginé par madame Gagnon pour qu'Harold Milligan ait droit à d'éventuelles prestations d'assurance-emploi.
+[15] La preuve de l'intimé a d'ailleurs permis de confirmer l'impression dégagée du témoignage de mesdames Gagnon et Allard.
+[16] Dans un premier temps, il a été mis en preuve que l'appelante avait présenté une demande de subvention dans le cadre d'un programme relatif à l'intégration de certaines personnes au travail. À la rubrique intitulée « Poste occupé par l'employé » l'appelante, « Le Fonds d'emprunt communautaire de la Gaspésie et des Îles » , alors représentée par Diane Allard, a indiqué que le travail proposé à Harold Milligan serait un travail d'animateur-recruteur.
+[17] Or, Harold Milligan était, à ce moment, unilingue anglophone, en plus d'être lourdement handicapé sur le plan auditif. De plus, monsieur Lucien Gignac, enquêteur chez Développement des ressources humaines Canada, avait constaté qu'en plus des problèmes auditifs, Harold Milligan était extrêmement difficile à comprendre à cause d'un grave problème d'élocution.
+[18] Le tribunal n'a pas pu vérifier quoi que ce soit à cet égard, puisque madame Gagnon, étant manifestement responsable de tout le montage, a choisi de ne pas faire témoigner monsieur Milligan.
+[19] À la suite de la résilation du contrat par Emploi-Québec, un relevé d'emploi fut alors émis indiquant que Harold Milligan avait travaillé pendant 800 heures. Au moment du dépôt du relevé d'emploi pour obtenir des prestations d'assurance-emploi, Harold Milligan, alors accompagné de madame Gagnon, a appris que 920 heures de travail étaient nécessaires pour que le travailleur ait droit aux prestations d'assurance-emploi. Quelques jours plus tard, tous deux revenaient avec un nouveau relevé d'emploi indiquant, cette fois, 920 heures.
+[20] Diane Allard, qui représentait l'appelante lors de la demande de subventions, avait indiqué que le travail que devait effectuer Harold Milligan était un travail d'animateur-recruteur. Or, le 2 avril 2003, elle écrivait à l'Agence des douanes et du revenu du Canada la lettre dont une partie du contenu suit :
+[...]
+Ceci est pour contester la décision rendue le 28 mars 2003 par M. Michel Poirier.
+Nous ne sommes pas d'accord avec les points que vous avez établis concernant : la rémunération de son salaire et le choix de la méthode à employer pour l'exécution de son travail.
+M. Harold Milligan était handicapé auditif et unilingue anglais, ne pouvait pas travailler seul. Il était constamment accompagné d'un membre de notre organisme pour lui donner l'encadrement nécessaire dans les tâches de ses fonctions. Donc, il n'avait pas le choix de la méthode à employer.
+Pour ce qui a trait à la preuve des versements de salaire, nous vous avions déjà fait parvenir une copie de grand livre sur nos transferts de salaire concernant le travail de M. Harold Milligan pour le Fonds d'emprunt communautaire de la Gaspésie et des Îles. Nous vous faisons parvenir également un texte de lois qui explique que les avantages à l'employé sont imposables et par le fait même reliés à son salaire.
+Nous vous avons fait parvenir une copie de l'entente de salaire voté par le comité en juillet 2002, où vous avez pu constater que l'achat du véhicule pour M. Milligan est uniquement pour des fins personnels. M. Milligan devant toujours être accompagné d'un bénévole, il n'avait pas à utiliser sa camionnette pour travailler.
+Si le Fonds d'emprunt communautaire de la Gaspésie et des Îles a décidé de s'occuper de faire les paiements reliés à l'achat et l'entretien de la camionnette pour M. Milligan, c'est pour lui facilité la gestion de ses revenus, et ainsi s'assurer que les paiements seraient faits.
+Nous vous faisons également parvenir nos États financiers de 2002, où vous pourrez constater que nous avons reçu du financement pour payer le salaire de M. Milligan.
+En espérant obtenir une réponse favorable à notre demande de reconnaître l'assurabilité de M. Harold Milligan, veuillez accepter nos salutations distinguées.
+Diane Allard
+[...] (Je souligne.)
+[21] Quelques mois plus tard, soit le 20 juillet 2003, Sonia Gagnon en appelait de la détermination au moyen d'une lettre qui se lisait comme suit :
+[...]
+Ceci est pour demander un appel de la décision de la non assurabilité de l'emploi de M. Harold Milligan pour son travail d'animateur recherchiste au sein de notre organisme : Le Fonds d'emprunt communautaire de la Gaspésie et des Îles, pour la période du 21 juillet 2002 au 31 décembre 2002.
+La date de décision est du 10 juillet 2003 et Mme. Sonia Gagnon représentera notre organisme pour défendre les points reliés à la relation employeur-employé et au contrat de louage de services.
+Les raisons de notre appel est que M. Milligan a été engagé par un programme SEMO pour aider les personnes souffrant d'un handicap à retourner sur le marché du travail. Nous avions besoin d'un représentant de la communauté anglophone pour nous aider à la mise sur pied de comité pour notre organisme et M. Milligan était continuellement accompagné par les membres de notre équipe pour la réalisation de ses tâches au sein de notre organisme.
+[...] (Je souligne.)
+[22] Les personnes responsables des activités de l'appelante ont donc soumis une description de tâches fort différente. Devant le tribunal, Harold Milligan a été décrit comme un accompagnateur, ce qui ne correspond aucunement aux fonctions qui lui auraient été attribuées auparavant. Non seulement il n'était pas une personne-ressource, il était plutôt complètement dépendant.
+[23] L'appelante avait le fardeau de la preuve. La lumière n'a jamais été faite quant à la nature exacte du travail effectué par Harold Milligan. De plus, compte tenu des nombreuses contradictions, j'ai beaucoup de réserves quant à la véracité des explications soumises. Le fait qu'Harold Milligan ne se soit pas présenté devant le tribunal n'est pas de nature à améliorer la qualité de la preuve, déjà fort déficiente.
+[24] Un véritable contrat de louage de services doit résulter d'une charge de travail définie et délimitée exécute moyennant une rémunération raisonnable, adéquate et surtout compatible avec la nature du travail et cela, dans le contexte d'une relation employeur-employé.
+[25] Le travailleur doit être assujetti au pouvoir de contrôle de l'employeur. Il doit en outre s'agir d'un travail réel, utile et profitable dont les paramètres sont dictés principalement par des préoccupations à caractère économique. Un véritable contrat de louage de services peut découler de préoccupations humanitaires, communautaires ou sociales, mais il ne peut faire totalement abstraction de préoccupations liées à l'efficacité et à l'atteinte d'objectifs réels.
+[26] En l'espèce, le travail litigieux n'a pas été structuré en fonction d'un quelconque objectif, mais essentiellement dans le but de justifier l'obtention d'une subvention auprès d'Emploi-Québec. Le paiement de la subvention était assujetti au respect de conditions précises, notamment un encadrement serré et la consignation de toutes les données pertinentes pour vérifier en tout temps la qualité et la quantité du travail exécuté.
+[27] Le travail devait en outre faire l'objet d'une véritable rémunération, réellement payée au travailleur.
+[28] La recherche et l'obtention de subventions sont en soi des objectifs légitimes qui peuvent permettre la réalisation de projets bénéfiques et d'activités multiples. Lorsqu'un tel projet prévoit l'embauche de travailleurs dans le cadre des activités précises, il est essentiel que le travail projeté ou envisagé soit bien articulé et défini théoriquement, mais aussi exécuté de manière à ce qu'il soit possible de constater la qualité et la quantité du travail exécuté.
+[29] Le travail doit en outre prévoir une rémunération adéquate, réellement payée et correspondant à la nature du travail exécuté, et aussi fonction de la réalité économique qui prévaut.
+[30] La prestation d'un travail utile et nécessaire à des attentes précises doit faire l'objet d'un encadrement véritable permettant à l'employeur d'intervenir en tout temps.
+[31] Je ne doute pas qu'Harold Milligan ait rendu des services; par contre, les services rendus par Harold Milligan ne justifiaient pas la rémunération que mesdames Gagnon et Allard disent lui avoir payée. D'ailleurs, la prépondérance de la preuve a contredit les prétentions de mesdames Gagnon et Allard puisqu'il est clairement ressorti que monsieur Milligan ne recevait que l'équivalent de la subvention soit 35 % du prétendu salaire.
+[32] L'autre 65 % correspondait à des paiements pour l'achat de voitures, dont une était la propriété de l'appelante et de Sonia Gagnon, et le remboursement de diverses dépenses. Chose certaine, monsieur Milligan n'a pas vu la couleur de la majeure partie du salaire qu'il devait recevoir en vertu du contrat dans le cadre de la subvention. Une partie importante du 65 % a manifestement profité à l'appelante plutôt qu'à Harold Milligan.
+[33] Ce dernier a sans doute accepté toutes les conditions en espérant toucher ultérieurement des prestations d'assurance-emploi calculées en fonction d'un salaire de 600 $/semaine, soit plus que le 35 % qu'il recevait durant sa prétendue période d'emploi. Ce dernier n'ayant pas témoigné, le tribunal n'a pas pu savoir s'il a été complice ou victime du stratagème.
+[34] La description de tâches du travail litigieux a été élaborée non pas en fonction d'un quelconque but ou objectif, mais essentiellement pour satisfaire les exigences d'un programme offrant des subventions.
+[35] Présenté et soumis comme devant faire du travail d'animateur-recruteur, monsieur Milligan n'a, dans les faits, absolument rien fait qui se rapprochait à un tel travail et cela, pour la bonne et simple raison qu'il n'avait ni les compétences ni les qualifications pour ce faire.
+[36] Il devait recevoir un salaire de 15 $/heure pour 40 heures de travail par semaine pour une durée d'une année. Dans les faits, il n'a reçu que la partie subventionnée du salaire théorique de 600 $/semaine, soit 35 %; l'autre 65 % a plutôt profité directement à l'appelante elle-même.
+[37] Une demande de subvention qui devait profiter à un travailleur handicapé dans le cadre d'activités présentées comme devant contribuer au mieux-être des diverses communautés culturelles de la région gaspésienne, s'est avérée être un montage où les intérêts de l'appelante ont été favorisés au détriment de ceux du travailleur.
+[38] L'appelante avait le fardeau de la preuve. Non seulement il n'a pas été établi que le travail litigieux avait été exécuté dans le cadre d'un véritable contrat de louage de services, la preuve a plutôt fait ressortir qu'une subvention avait été obtenue à la suite de représentations fausses et mensongères.
+[39] L'appelante, manifestement dirigée et contrôlée par mesdames Sonia Gagnon et Diane Allard, a mis sur pied certaines initiatives auprès des diverses communautés que regroupe la grande région de la Gaspésie. Elles y ont associé Harold Milligan, d'abord décrit comme animateur, puis comme accompagnateur mais, dans les faits, il a sans doute plutôt agi comme chauffeur, puisque la majorité des membres du Conseil d'administration n'avaient pas de voiture et qu'ils avaient à se déplacer dans quelques municipalités régionales du comté, les distances étant très grandes entre chaque point.
+[40] L'appelante n'ayant pas relevé le fardeau de la preuve qui lui incombait, son appel est rejeté.
+Signé à Ottawa, Canada, ce 8 jour de juin 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI396
+No DES DOSSIERS DE LA COUR :
+2003-2676(EI)
+INTITULÉ DE LA CAUSE :
+Le Fonds d'emprunt communautaire
+de la Gaspésie et des Îles
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+New Carlisle (Québec)
+DATE DE L'AUDIENCE
+le 19 mai 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 8 juin 2004
+COMPARUTIONS :
+Représentante de l'appelante:
+Sonia Gagnon
+Avocate de l'intimé:
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

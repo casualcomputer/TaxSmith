@@ -1,0 +1,122 @@
+Title: Josipovic v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27875/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-322-27875-josipovic-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-06
+
+# Josipovic v. The Queen
+
+- Citation: 2005 TCC 322
+- Decision date: 2005-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 351, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Josipovic v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-06
+Neutral citation
+2005 TCC 322
+File numbers
+2004-4477(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4477(IT)I
+BETWEEN:
+TONY JOSIPOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 28, 2005, at Calgary, Alberta
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Hesletine
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 6th day of May 2005.
+“D.W. Beaubier”
+Beaubier, J.
+Citation:2005TCC322
+Date: 20050506
+Docket: 2004-4477(IT)I
+BETWEEN:
+TONY JOSIPOVIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Calgary, Alberta on April 28, 2005. The Appellant testified and called Alan Todofichuk.
+[2] The particulars in dispute are set out in paragraphs 2 – 10 of the Reply to the Notice of Appeal. They read:
+2. In filing his return of income for the 2002 year, the Appellant claimed moving expenses in the amount of $27,323 as follows:
+Transportation of household effects $ 8,500
+Other moving expenses $18,823
+Moving expenses claimed $27,323
+3. In assessing the Appellant’s 2002 taxation year return, by notice dated April 29, 2003, the moving expenses were allowed.
+4. In reassessing the Appellant’s 2002 taxation year return, by notice dated November 10, 2003, the Minister reduced the moving expenses from $27,323 to $18,904 as follows:
+Transportation of household effects $ 0
+Additional moving expenses $ 81
+Other moving expenses $18,823
+Moving expenses allowed $18,904
+5. In so reassessing the Appellant’s 2002 taxation year return, the Appellant’s claim for the transportation of household effects of $8,500 (hereinafter “the Amount”) was not allowed.
+6. By Notice of Objection received January 19, 2004, the Appellant objected to the 2002 taxation year reassessment.
+7. In response to the Notice of Objection, the Minister confirmed the reassessment for the 2002 taxation year, by means of a Notice of Confirmation dated September 8, 2004 as it was not shown that the Amount was incurred.
+8. In so reassessing and confirming, the Minister made the following assumptions of fact:
+(a) the Appellant moved from Ontario to Alberta, in 2002;
+(b) the Appellant received a moving allowance of $12,000 from his employer;
+(c) the Appellant incurred moving expenses totalling $18,904,
+(d) the Appellant did not incur moving expenses in excess of the amount allowed by the Minister, and
+(e) the Appellant did not incur the Amount.
+B. ISSUE TO BE DECIDED
+9. The issue to be decided is whether the Appellant is entitled to deduct moving expenses in excess of the amount allowed by the Minister for the 2002 taxation year.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+10. The Respondent relies on sections 62 and 231.2, subsection 248(1) and paragraphs 18(1)(a) and (h) of the Income Tax Act (the Act) as amended for the 2002 taxation year.
+[3] None of the assumptions were refuted by the evidence.
+[4] This appeal concerns the Appellant’s claim that he paid his wife’s relative, Bill Watmore, $8,500 for moving his family household goods and a Honda Civic from Ontario to Calgary in 2002.
+[5] The Appellant testified that he made the deal orally with Mr. Watmore. Mr. Josipovic alleged that he subsequently learned that he was not dealing with Mr. Watmore’s employer, Lewis Movers Ltd. The Appellant’s new employer gave him $12,000 for moving expenses. Mr. Josipovic testified that when Mr. Watmore arrived, he cashed the $12,000 cheque at a Royal Bank branch and gave Mr. Watmore the $8,500 in cash without getting a receipt. He testified that a receipt was promised but never delivered. No witnesses to the alleged payment testified or were referred to.
+[6] It is clear that, if there was a transaction, it was underground and from Mr. Watmore’s employer’s point of view it was illicit. But a relative, Mr. Watmore, is alleged to have done the move, so it may have been for free, as a gift; or it may have been for a lesser amount.
+[7] No witnesses testified that they saw the $8,500 pass. No documents indicating this cash cleared the bank were presented. Alan Todofichuk merely saw the household goods arrive. But he did not know who delivered them or the company name on the truck and he never saw any money paid.
+[8] It is not credible that anyone would have a mover move household goods across Canada without a written moving contract; or if they were to be insured (as here) without a written insurance contract. Nor is it credible that anyone would pay out $8,500 in cash and not get a receipt of some kind. On top of this, no third party testified to any of the contractual aspects of the alleged transaction.
+[9] In a different context, in Timothy P. Neeb v. The Queen, 97 DTC 895, where a convicted drug dealer was alleging differences in income and expenses in respect to an assessment of income, without any supporting records, Bowman, J. said at page 904:
+I do not think that the evidence is sufficiently reliable to justify my concluding that his income should be reduced. Moreover, as I stated above, the attack on the assessment starts with what the Minister assessed and attempts to reduce it by certain expenses and losses. A person who files no returns of income, keeps no records or, in order to avoid detection, destroys such rudimentary records as he may keep after their purposes has been served, faces a formidable task in challenging an assessment of the type involved here. The Income Tax Act requires that a taxpayer keep records of the business that he or she carries on. While the failure to keep records is not an absolute bar to deductibility, if expenses can otherwise be proved (Weinberger v. M.N.R., 64 DTC 5060), nonetheless where a person deliberately puts himself in a position in which he cannot establish his income he is the author of his own misfortune. …
+That is what happened here: there are no contracts; there is no certified cheque or ordinary cheque for $8,500; there is no receipt and there are no witnesses. The Appellant is the author of his own misfortune.
+[10] On this basis, without suitable corroboration or suitable records pursuant to Section 230 of the Income Tax Act, the Appellant has failed to meet his onus of proof to overcome the assumptions in this matter.
+[11] The appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 6th day of May 2005.
+“D.W. Beaubier”
+Beaubier, J.
+CITATION: 2005TCC322
+COURT FILE NO.: 2004-4477(IT)I
+STYLE OF CAUSE: Tony Josipovic v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 28, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Beaubier
+DATE OF JUDGMENT: May 6, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

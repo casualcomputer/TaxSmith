@@ -1,0 +1,404 @@
+Title: Ville de Québec v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28855/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-329-28855-ville-de-qu-bec-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-09
+
+# Ville de Québec v. The Queen
+
+- Citation: 2007 TCC 329
+- Decision date: 2007-11-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1364, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ville de Québec v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-09
+Neutral citation
+2007 TCC 329
+File numbers
+2004-4044(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4044(IT)G
+BETWEEN:
+VILLE DE QUÉBEC,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 8, 2006, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Nathalie Grenier
+Counsel for the Respondent:
+Bernard Fontaine
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years is allowed with costs to the Appellant and I vacate the assessments of the Appellant. The payments made by the Appellant to stop the accumulation of interest should be reimbursed with interest. The decision of the Minister of National Revenue is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of November 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 14th day of February 2008.
+Monica F. Chamberlain, Reviser
+Citation: 2007TCC329
+Date: 20071109
+Docket: 2004-4044(IT)G
+BETWEEN:
+VILLE DE QUÉBEC,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from assessments made under the Income Tax Act (the Act) and the Employment Insurance Act for the 2000, 2001 and 2002 taxation years. Under the assessment, the Canada Revenue Agency (the Agency) seeks from the Appellant the tax amounts that it should have deducted and withheld from the salary and/or remuneration of its employees who are victims of an industrial accident or occupational disease, but that it did not remit to the Receiver General of Canada.
+ISSUES:
+[2] Does the Tax Court of Canada have the jurisdiction to render a decision on assessments of the Minister in which he seeks amounts that should have been deducted and withheld from the salary and/or benefits of employees who are victims of an industrial accident or occupational disease and that have not been remitted to the Receiver General of Canada by the Appellant?
+[3] If yes, is the procedure used by the Appellant to make source deductions on the amounts it provides to its employees who are victims of an industrial accident or occupational disease, amounts that are later reimbursed by the Commission de la santé et sécurité au travail du Québec [Quebec board of occupational health and safety] (CSST), consistent with the Act, such that the Appellant may continue to operate this way in the future?
+[4] Is the Appellant entitled to retain amounts that have been deducted at source, given that it retained them in the belief that they had been deducted in excess? There is some confusion as to the nature of these amounts.
+THE FACTS
+[5] The parties submitted to the Court a partial agreement on the facts that summarizes the dispute well. The facts are as follows:
+[Translation]
+1. The Appellant employs thousands of employees, whose working conditions are governed by a variety of collective agreements;
+2. During the 1980s and the years under appeal, the Appellant had agreed to pay their regular net salary to employees prevented from working by an industrial accident or occupational disease;
+3. Before 1986, the Appellant observed a sharp increase the number of days that its employees were absent as a result of industrial accidents or occupational disease;
+4. Because the portion of remuneration paid to employees that was later recovered from the Commission de la santé et sécurité au travail ultimately was not considered taxable income, the employees were able upon filing their income tax returns to recover a significant amount of the cumulative source deductions made throughout the year, including for certain pay periods in which most of the amounts were ultimately recovered from the CSST.
+Adoption of new policy by Appellant
+5. In 1986, in order to put an end to the situation whereby, all other things being equal, an employee receiving his regular net salary during a period in which he was not working would (upon filing an income tax return) end up with an after-tax income greater than the remuneration he would have received if he had worked regular hours during the same period, the Appellant decided to implement a new procedure.
+6. (a) This new procedure involved using a regular or amended T4 statement to reduce retroactively the year-to-date remuneration paid to the employee in order to take into account the advance payment of the income replacement indemnity by the City to the employee that was subsequently recovered from the CSST by the Appellant, as well as the cumulative amounts of the source deductions that had been made, so that only the following amounts remained:
+the portion of remuneration described as a top-up;
+the remuneration paid for any days and hours that were really worked, as well as sick leave and other paid leave;
+a note alerting employees that the amount paid and recovered by the City was not included in box 14 of the CSST T4 slip.
+(b) After this new procedure was implemented in 1986, an employee who looked closely at his statements of earnings would have noticed a discrepancy in the year-to-date amounts over the course of the year he had been absent from work. He would have observed a reduction in the year-to-date amount on one of his last statements of earnings of the year:
+(c) In order to recover an amount equal to the total amounts deducted and remitted over the course of the year as a function of the amounts paid to employees targeted by the procedure described in the subparagraphs above, the Appellant subtracted from the amount it remitted for the final pay periods an amount equal to the total amounts received or expected from the CSST.
+7. The Appellant's objective was to recover the amounts it considered to be payments in excess to the Receiver General of Canada, and normally, its payroll information system allowed it to issue T4 slips and summaries corresponding to the data displayed in the boxes listing the year-to-date amount as it appeared on the final statement of earnings;
+8. These downward adjustments were made shortly before the end of the year, if the Appellant knew that the CSST had reimbursed or would reimburse to it the portion of the amounts paid for which the CSST was ultimately liable;
+9. In cases where the information was still unknown after December 31, or at least by the time the T4 slips had to be completed and sent out, if the CSST later indicated that it would reimburse the Appellant amounts other than the amount of the top-up, the Appellant would then issue a T4 slip in which the employment income (box 14) was reduced by the amount for which the CSST was ultimately liable and in which the deductions made on that amount were reversed.
+10. In certain situations, employees who were absent due to illness were being compensated pursuant to the provisions in the collective agreement governing sick leave, but were claiming that the illness was work-related; as long as the issue remained unresolved, the employee continued to be paid as though he were on sick leave, and the statements of earnings and T4 slips were completed on the assumption that the source deductions were appropriate;
+11. In cases where the period of uncertainty extended beyond one year, amended T4 slips were prepared for the year preceding the end of the uncertainty, and a T4 slip for the year in which the uncertainty was resolved listed the year-to-date amounts from the final statement of earnings for the year.
+12. Once the T4 was thus amended, a corresponding amendment was made to the T4 Summary and the Appellant recovered the corresponding amounts from the federal tax authorities;
+13. The federal tax authorities agreed to reimburse those amounts under the circumstances;
+Change of policy by tax authorities in response to Fraser
+14. No change was made to the 1999 or 2000 Income Tax Act that was relevant to the dispute between the Appellant and the Respondent.
+15. However, following the Federal Court of Appeal's dismissal of the appeal filed by the Respondent against the Tax Court of Canada's decision in Fraser, involving an employee of the City of Cornwall in Ontario, the Employers’ Guide for the years 2000 and following was amended to state that only in those cases where the employer has indicated in the payroll, at the time of payment, that the portion represents an advance on the amount of an indemnity from a worker's compensation board (such as the CSST) is the employer exempt from making the deductions and remittances corresponding to the amounts so identified (file decision in Fraser and Employers’ Guide). According to the policy in question, challenged by the Appellant, no source deduction is to be made with respect to that amount, as argued at paragraph 19 of the notice of appeal. Under that policy, the employer is not entitled to recover the amounts corresponding to the deductions that it has remitted, nor is it entitled not to remit the amounts deducted.
+16. The Appellant has dealt with this situation by indicating [Translation] "absence—industrial accident" in its payroll beside the income replacement indemnity amounts that it pays to its employees prior to a decision by the CSST.
+17. When the City makes these payments to the employee, the CSST has not yet disbursed the corresponding amount;
+18. Under the new policy, employers were prevented from amending T4 statements or entering year-to-date amounts other than those appearing on the statements of earnings;
+19. Quebec tax authorities were contacted to determine whether they had also changed their own policy or policies, but they said they had not;
+20. Mr. Sauvageau, the person in charge of compensation services for the Appellant, became aware of the new policy before the beginning of 2000, as it affected both employment insurance contributions and deductions, as well as source deductions for federal income tax;
+21. The Appellant was made aware of the new policy before the beginning of 2000 but did nothing to change its procedures. Mr. Blouin, counsel in the Appellant's legal department, was consulted;
+22. The Appellant and its representatives made no attempt to contact the federal tax authorities to determine the reasons for the policy changes;
+23. According to the legislation in force, the income replacement indemnity paid by the CSST is not taxable, nor does it constitute insurable earnings for employment insurance purposes;
+24. During each of the years under appeal, deductions and remittances were made on behalf of employees without distinguishing between those claiming to be entitled to the indemnities provided by the CSST, those recognized by all parties as being entitled to such indemnities, and those working normal workweeks;
+25. In early 2001, with respect to the T4 Summary for the year 2000, the Appellant determined that approximately $69,000 had been paid in excess in 2000 and should be reimbursed;
+26. On May 31, 2001, Mr. Sauvageau wrote to the Jonquière Tax Centre to obtain the excess payment in question, explaining that the Appellant's information system did not allow for downward adjustment. The year-to-date amounts could not be adjusted downward (file letter);
+27. The problem had been resolved for the 2001 pay periods;
+28. During the summer of 2001, Mr. Sauvageau was informed by Ms. Tremblay that these downward adjustments to the amounts paid were not possible under the new policy, and this did not come as a surprise to Mr. Sauvageau;
+29. Eventually, Jacques Côté, auditor, contacted Mr. Sauvageau. The Appellant made submissions to the Canadian tax authorities based primarily on fairness and the text of the applicable collective agreements.
+30. Régent Blouin, counsel, wrote to the tax authorities on November 5, 2002, to inform them of the Appellant's position and state the reasons it considered the assessment to be incorrect; (add letter)
+31. In cases where it is undisputed that the employee's absence is the result of an industrial accident, the statement of earnings indicates that the employee has been absent because of an industrial accident with the statement [Translation] "absence—industrial accident";
+32. Mr. Ruel's payroll records represent those of a typical person who is the undisputed victim of an industrial accident;
+33. Mr. Sauvageau estimates that most of the adjustments were made by reducing the year-to-date payment amounts and reversing the corresponding source deductions, and that approximately 5% of the adjustments were made by issuing amended T4 slips.
+November 8, 2006
+. . .
+[Emphasis in the original.]
+APPELLANT'S CLAIMS
+[6] The Appellant argued strongly that the amounts so advanced to its employees claiming to be victims of an industrial accident or occupational disease did not constitute remuneration, but rather advances from which it made source deductions for the sole purpose of preventing the compounding of interest.
+[7] The basis for the claim that the amounts do not constitute remuneration is that the employee who was subject to these holdbacks did not work during the period corresponding to the holdback. The Appellant had no choice, being obliged to proceed in this way by either the Act or the collective agreement, to prevent employees who are victims of industrial accidents or occupational diseases from being deprived of income. It is a means to support employees so that they do not have to go for several weeks without their salary. This procedure is practised not only by the Appellant but also, in principle, by all employers.
+[8] The Appellant submitted that the procedure described by the Agency in its Employers' Guide creates an unfair distinction between active and injured employees; the Appellant argued that such a situation clearly does not reflect the legislator's intent, following the principles set out by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corporation Notre‑Dame de Bon‑Secours et al., [1994] 3 S.C.R. 3.
+[9] The fact that an employee who is a victim of an industrial accident or occupational disease gains a net financial advantage from the injury or illness has the effect of encouraging some employees to do whatever they can to delay their return to work, at a significant loss to the Appellant.
+[10] The Appellant also challenged the Agency's procedure on the basis that in order to be considered an advance, the amount must meet two criteria: first, no source deduction may be withheld on the amount constituting the advance and, secondly, the employer must indicate in its records that it constitutes an "advance." In other words, the Appellant argued that only the nature of the payment should be taken into account; thus, the payment should be analyzed for what it is and not according to what is written in the records.
+[11] Because of the procedure adopted by the Agency, the amounts at issue become taxable; in reality, however, those amounts are non-taxable because they do not constitute employment income; they are benefits resulting from an industrial accident or occupational disease.
+[12] The Appellant, which has more than 5,000 employees, explained that considerable sums of money were at stake. Given the problems caused by a situation of uncertainty, the Appellant had set up a system that had the advantage of being coherent and, even more importantly, was difficult to abuse.
+[13] The Appellant explained that following the decision in Fraser, the Agency had, beginning in the year 2000, changed its procedure for dealing with "advances". The Respondent refused to change its position following another decision, Cité de la santé de Laval v. M.N.R., 2004 FCA 119, despite the fact that it changed considerably the interpretation of the nature of advances.
+[14] Finally, the Appellant submitted that there was no provision in the Act that prohibited it from following the procedure in question, namely doing the accounts at the end of the year so that they could be based on real figures as opposed to estimates.
+RESPONDENT'S CLAIMS
+[15] The Respondent argued that the source deductions that must be withheld by the employer must be calculated in accordance with the Act and its associated regulations. These deductions are a function of the remuneration paid during each pay period and the employee's personal income tax credits for the year, which are used to calculate the "notional gross earnings."
+[16] In other words, the Respondent argued that the deductions must be made precisely as though there had been no accident or illness. It argued that for the purposes of subsection 117(2) of the Act, these "notional gross earnings" become the taxable amount for the year and that the employer may not take into account any deduction to which the worker is potentially entitled under subparagraph 110(1)(f)(ii) of the Act (deduction for amounts received from the CSST) to reduce this taxable amount.
+[17] The Respondent is of the opinion that when the Appellant withheld the amounts at issue from its employees' remuneration and remitted them to the Receiver General of Canada, it was not open to it when preparing T4 statements and T4 summaries to reclaim these amounts by describing them as [Translation] "payments in excess," given that under subsection 227(9.4) of the Act, those amounts were paid as tax on behalf of the employee. Accordingly, the employee was entitled to claim the amounts at the end of the year; the fact that he was sick or injured therefore gave him an advantage over those who had worked throughout the year. In other words, the victim of an industrial accident or an occupational disease can claim, at the end of the year, the amounts withheld while he was not working; the deductions in question were therefore not part of the remuneration paid in exchange for work.
+[18] The Respondent argued that the Appellant should have been aware of the Minister's policy with respect to source deductions and that the practice was consistent with the Act and with the Regulations validated by case law; the Respondent added that whether or not Appellant was aware of the policy, it is the Act that determines its rights and obligations in this matter.
+[19] The Respondent attested that to the extent that, at year-end, the Appellant had reduced the amounts withheld because it judged that it had remitted excess deductions over the course of the year, it was not open to it not to remit to the tax authorities the full amount withheld.
+ANALYSIS
+Does the Tax Court of Canada have jurisdiction to hear this appeal?
+[20] First we must determine whether the Tax Court of Canada has the jurisdiction to decide this issue.
+[21] The Notice of Confirmation by the Minister dated August 19, 2004, states the following:
+[Translation]
+At page 2:
+Your assessments for failing to remit the amounts of $5,878.03 for the year 2000 and $4,229.90 for 2001, deducted or withheld under subsection 153(1) of the Income Tax Act, have been issued pursuant to subsections 227(9.4) and 227(10.1) of the Act.
+At page 4:
+Your assessments for failing to remit the amounts of $50,726.33 for the year 2000 and $64,993.49 for 2001, deducted or withheld under subsection 153(1) of the Income Tax Act, have been issued pursuant to subsections 227(9.4) and 227(10.1) of the Act.
+[22] According to the evidence, the assessments under appeal are based on the Appellant's failure to remit to the Receiver General of Canada amounts that it should have withheld from the salary of its employees.
+[23] The Respondent drew on the decision of the Honourable Judge Garon (as he then was) in Ville d’Outremont v. Canada, No. 92‑683(IT)G, [1995] T.C.J. No. 1438 (QL) and submitted to the Court that such assessments could not be issued by the Minister. It suggested that the Tax Court of Canada could not decide an appeal of such an assessment. Judge Garon wrote the following at pages 21 to 23:
+There is another difficulty in this case. That difficulty concerns the point that the Minister of National Revenue did not have the power, in my view, to issue the assessments under appeal.
+The power to assess is given by subsection 227(10.1) of the Income Tax Act, which, at the relevant time, read as follows:
+(10.1) The Minister may assess
+(a) any person for any amount payable by that person under subsection (9), (9.2), (9.3) or (9.4); and
+(b) any non-resident person for any amount payable by that person under Part XIII;
+and, where he sends a notice of assessment to that person, sections 150 to 167 (except subsections 164(1.1) to (1.3)) and Division J of Part I are applicable with such modifications as the circumstances require.
+Subsection 227(9.4) states that "a person who has failed to remit as and when required by this Act or a regulation an amount deducted or withheld from a payment to another person as required by this Act or a regulation is liable to pay as tax under this Act on behalf of the other person the amount so deducted or withheld."
+Subsection 227(9) provides for the assessment of a penalty in the case of a failure to remit the amounts deducted at source as and when required. In the case of such a failure, subsection 227(9.2) provides for the payment of interest on amounts deducted but not remitted.
+It is clear in the instant case that the provisions of subsections (9), (9.2) and (9.4) do not apply to the appellant because it did not fail in its obligation to remit to the Receiver General within the prescribed time limits the amounts withheld or deducted from the remuneration of the employees in question.
+Subsection 227(10.1) is the only provision of Part XV of the Income Tax Act that gives the Minister of National Revenue the power to assess in respect of the obligation to remit as and when required the amounts withheld and deducted from the employees' remuneration. The respondent's appropriate remedy in those circumstances could be exercised by means of an ordinary action before the Federal Court of Canada for payment of monies owed to the respondent.
+The Court thought it appropriate in the instant case to order that the hearing be reopened as it had not had the benefit of hearing the parties on the two points that it intended to consider, that is, (1) that the point at issue in this case raises the application of Part I of the Income Tax Regulations and is governed in particular by section 102 of those Regulations and (2) the absence of the power of the Minister of National Revenue to assess the appellant having regard to the circumstances of the instant case.
+Draft reasons for judgment dealing with the application of Part I of the Income Tax Regulations to the facts of this case were enclosed with the letter dated August 31, 1995 issued by the Deputy Registrar of this Court confirming the reopening of the hearing. Those draft reasons for judgment were virtually identical to the portion of the present reasons that precedes the discussion of the question of the power of the Minister of National Revenue to assess the appellant in respect of the amounts withheld and deducted from the remuneration of the employees concerned. This last question was raised and briefly dealt with in the letter of August 31, 1995 mentioned above.
+After considering the matter following that reopening of the hearing, I reconsidered the representations made by counsel in their supplementary arguments and I came to the conclusion that there were no grounds for altering my approach to the questions raised in these appeals.
+It is therefore my view, as to the merits of the case, that the respondent is entitled to payment, in particular, of the amounts representing the tax component of the assessments at issue. The "interest" component of those assessments and the "penalty" component of the assessment of August 3, 1990 made, according to the Minister of National Revenue, under subsections 227(9) and 227(9.2) of the Income Tax Act are not valid as the appellant did not fail in its obligation to remit the amounts deducted as and when required by the Income Tax Act and the Income Tax Regulations. However, the assessments themselves are null and void on the ground that the Minister of National Revenue did not have the power to issue them. The appeals are allowed and the assessments are vacated.
+[Emphasis added.]
+[24] My understanding of this excerpt from the judgment is that the only grounds on which the appeals arising out of such assessments were allowed were that the Minister did not have the power to issue the assessments and not that the Tax Court of Canada lacked jurisdiction.
+[25] Nevertheless, it is important to note that this case is very different from Ville d’Outremont, supra. In Ville d’Outremont, the dispute arose from the fact that the Appellant had not failed to remit the amounts deducted or withheld, while in this appeal, the Minister charges that the Appellant failed to remit the amounts that it should have deducted or withheld from its employees' salary.
+[26] In this case, the assessments were validly issued pursuant to subsections 227(9.4) and (10.1) of the Act, clearly distinguishing this case from Ville d'Outremont. For these reasons, I find that this Court has full jurisdiction to decide this appeal.
+[27] As for the other issue, regarding the validity of the procedure used by the Appellant to make deductions at source, in light of the somewhat contradictory case law it will be necessary to analyze the issue of source deductions when the employer is paying not a salary but rather its equivalent to an employee who is the victim of an industrial accident or occupational disease. It is therefore important to consider the concept of an advance.
+Legal obligation to make deductions at source
+[28] First, it is clear that the obligation to make source deductions flows from the Act and the Income Tax Regulations (the Regulations). The relevant provision of the Act reads as follows:
+PAYMENT OF TAX
+SECTION 153: Withholding.
+(1) Every person paying at any time in a taxation year
+(a) salary, wages or other remuneration, other than amounts described in subsection 212(5.1),
+. . .
+shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part XI.3, as the case may be, and, where at that prescribed time the person is a prescribed person, the remittance shall be made to the account of the Receiver General at a designated financial institution.
+[Emphasis added.]
+[29] This provision makes reference to the Regulations, the relevant provisions of which are as follows:
+DEDUCTIONS AND REMITTANCES
+101. Every person who makes a payment described in subsection 153(1) of the Act in a taxation year shall deduct or withhold therefrom, and remit to the Receiver General, such amount, if any, as is determined in accordance with rules prescribed in this Part.
+PERIODIC PAYMENTS
+102. (1) Except as otherwise provided in this Part, the amount to be deducted or withheld by an employer
+(a) from any payment of remuneration (in this subsection referred to as the "payment") made to an employee in his taxation year where he reports for work at an establishment of the employer in a province, in Canada beyond the limits of any province or outside Canada, and
+(b) for any pay period in which the payment is made by the employer
+shall be determined for each payment in accordance with the following rules:
+(c) an amount that is a notional remuneration for the year in respect of
+(i) a payment to the employee, and
+(ii) the amount, if any, of gratuities referred to in paragraph (a.1) of the definition "remuneration" in subsection 100(1)
+is deemed to be the amount determined by the formula
+A × B
+where
+A is the amount that is deemed for the purpose of this paragraph to be the mid-point of the applicable range of remuneration for the pay period, as provided in Schedule I, in which falls the total of
+(A) the payment referred to in subparagraph (i) made in the pay period, and
+(B) the amount of gratuities referred to in subparagraph (ii) declared by the employee for the pay period, and
+B is the maximum number of such pay periods in that year;
+(d) if the employee is not resident in Canada at the time of the payment, no personal credits will be allowed for the purposes of this subsection and, if the employee is resident in Canada at the time of the payment, the employee's personal credits for the year are deemed to be the mid-point of the range of amounts of personal credits for a taxation year as provided for in section 2 of Schedule I;
+(e) an amount (in this subsection referred to as the "notional tax for the year") shall be computed in respect of that employee by
+(i) calculating the amount of tax payable for the year, as if that amount were calculated under subsection 117(2) of the Act and adjusted annually pursuant to section 117.1 of the Act, on the amount determined in accordance with paragraph (c) as if that amount represented the employee's amount taxable for that year,
+and deducting the aggregate of
+(ii) the amount determined in accordance with paragraph (d) multiplied by the appropriate percentage for the year,
+(iii) an amount equal to
+(A) the amount determined in accordance with paragraph (c) multiplied by the employee's premium rate for the year under the Employment Insurance Act, not exceeding the maximum amount of the premiums payable by the employee for the year under that Act,
+multiplied by
+(B) the appropriate percentage for the year, and
+(iv) an amount equal to
+(A) the product obtained when the difference between the amount determined in accordance with paragraph (c) and the amount determined under section 20 of the Canada Pension Plan for the year is multiplied by the employee's contribution rate for the year under the Canada Pension Plan or under a provincial pension plan as defined in subsection 3(1) of that Act, not exceeding the maximum amount of such contributions payable by the employee for the year under the plan,
+multiplied by
+(B) the appropriate percentage for the year;
+(f) the amount determined in accordance with paragraph (e) shall be increased by, where applicable, the tax as determined under subsection 120(1) of the Act;
+(g) where the amount of notional remuneration for the year is income earned in the Province of Quebec, the amount determined in accordance with paragraph (e) shall be reduced by an amount that is the aggregate of
+(i) the amount that is deemed to be paid under subsection 120(2) of the Act as if there were no other source of income or loss for the year, and
+(ii) the amount by which the amount referred to in subparagraph (i) is increased by virtue of section 27 of the Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act; and
+(h) [Repealed, SOR/92-667, s. 1]
+(i) the amount to be deducted or withheld shall be computed by
+(i) dividing the amount of the notional tax for the year by the maximum number of pay periods for the year in respect of the appropriate pay period, and
+(ii) rounding the amount determined under subparagraph (i) to the nearest multiple of five cents or, if such amount is equidistant from two such multiples, to the higher multiple.
+(2) Where an employee has elected pursuant to subsection 107(2) and has not revoked such election, the amount to be deducted or withheld by the employer from any payment of remuneration (in this subsection referred to as the "payment") that is
+(a) a payment in respect of commissions or is a combined payment of commissions and salary or wages, or
+(b) a payment in respect of salary or wages where that employee receives a combined payment of commissions and salary or wages,
+made to that employee in his taxation year where he reports for work at an establishment of the employer in a province, in Canada beyond the limits of any province or outside Canada, shall be determined for each payment in accordance with the following rules:
+(c) an employee's "estimated annual taxable income" shall be determined by using the formula
+A – B
+where
+A is the amount of that employee's total remuneration in respect of the year as recorded by the employee on the form referred to in subsection 107(2), and
+B is the amount of that employee's expenses in respect of the year as recorded by that employee on that form;
+(d) if the employee is not resident in Canada at the time of the payment, no personal credits will be allowed for the purposes of this subsection and if the employee is resident in Canada at the time of the payment, the employee's personal credits for the year shall be the total claim amount as recorded by that employee on the return for the year referred to in subsection 107(1);
+(e) an amount (in this subsection referred to as the "notional tax for the year") shall be calculated in respect of that employee by using the formula
+C - [(D + E + F) × G] + H – I
+where
+C is the amount of tax payable for the year, calculated as if that amount of tax were computed under subsection 117(2) of the Act and adjusted annually pursuant to section 117.1 of the Act, on the amount determined under paragraph (c) as if that amount represented the employee's amount taxable for that year,
+D is the amount determined in accordance with paragraph (d),
+E is the amount determined in the description of A in paragraph (c) multiplied by the employee's premium rate for the year under the Employment Insurance Act, not exceeding the maximum amount of the premiums payable by the employee for the year under that Act,
+F is the amount determined in the description of A in paragraph (c) less the amount for the year determined under section 20 of the Canada Pension Plan multiplied by the employee's contribution rate for the year under that Act or under a provincial pension plan as defined in section 3 of that Act, not exceeding the maximum amount of such contributions payable by the employee for the year under the plan,
+G is the appropriate percentage for the year,
+H is, where applicable, the tax as determined under subsection 120(1) of the Act,
+I is, where the amount of total remuneration for the year is income earned in the Province of Quebec, an amount equal to the aggregate of
+(i) the amount that would be deemed to have been paid under subsection 120(2) of the Act with respect to the employee if the notional tax for the year for the employee were determined without reference to the elements H, I and J in this formula and if that tax were that employee's tax payable under Part I of the Act for that year, as if there were no other source of income or loss for the year, and
+(ii) the amount by which the amount referred to in subparagraph (i) is increased by virtue of section 27 of the Federal-Provincial Fiscal Arrangements Act;
+(f) the employee's notional rate of tax for a year is calculated by dividing the amount determined under paragraph (e) by the amount referred to in the description of A in paragraph (c) in respect of that employee and expressed as a decimal fraction rounded to the nearest hundredth, or where the third digit is equidistant from two consecutive one-thousandths, to the higher thereof;
+(g) the amount to be deducted or withheld in respect of any payment made to that employee shall be determined by multiplying the payment by the appropriate decimal fraction determined pursuant to paragraph (f).
+(h) [Repealed, SOR/2001-221, s. 2]
+(3) [Repealed, SOR/89-508, s. 2]
+(4) [Repealed, SOR/81-471, s. 3]
+(5) Notwithstanding subsections (1) and (2), no amount shall be deducted or withheld in the year by an employer from a payment of remuneration to an employee in respect of commissions earned by the employee in the immediately preceding year where those commissions were previously reported by the employer as remuneration of the employee in respect of that year on an information return.
+(6) [Repealed, SOR/83-349, s. 2]
+[30] Under these provisions, the employer is required to make source deductions throughout the year on the salary it pays to its employees, based on the concept of "notional gross remuneration."
+[31] Because these provisions can appear complex, the Agency produced a plain-language guide to make them more accessible; this guide, entitled Employers' Guide – Payroll Deductions (Basic Information) 2000-2001 (Exhibit I‑1) was prepared to help the taxpayer comply more easily with the statutory requirements.
+[32] Such a guide does not have force of law; it essentially presents the Agency's position on one procedure for making source deductions that complies with the Act.
+[33] Thus, there is no sanction for failing to follow the guide if the taxpayer can establish that the procedure he used to make his deductions at source respects the provisions of the Act and the Regulations. This interpretation is consistent with the approach taken by the Federal Court of Appeal in Canada (Attorney General) v. National Bank of Canada, 2003 FCA 242.
+[34] In this case, is the procedure used by the Appellant to make its source deductions consistent with the Act and the Regulations?
+Procedure used by Appellant
+[35] Claude Sauvageau, who was in charge of the Appellant's file, testified. Now retired, he used to work as a compensation officer for the Ville de Québec. Mr. Sauvageau began by explaining the procedure followed by the Appellant before 1986; he then stated that this practice had created problems for the Appellant, which led to the adoption of the new procedure to prevent abuses.
+[36] He insisted that this new procedure had been accepted by the Agency from 1986 to 2000. It is worth reproducing an excerpt from Mr. Sauvageau's testimony:
+[Translation]
+Q. O.K. Can you describe for us the procedure used by the City and explain why, all of a sudden, it adopted a new procedure in 1986?
+R. O.K. Over the years, let's say from '80 to '86, the medical office and human resources observed a startling increase in their industrial accident rates. Of course we are not saying that the employees were abusing the system, but we do know that there was an incentive that was not really, well, it was tempting for employees not to return to work automatically after two weeks because they knew that, even the first year, we would receive calls to the effect: "In theory, I should not be getting a tax refund, so why am I getting a tax refund?" "Well, you were absent because of your accident and you are recovering taxes that you did not owe in the first place." It seems silly to say it, but that was pretty much how it worked. So, we considered the accident rate unreasonably high, and, based on analyses it carried out, the City came to agreements with the unions to add a provision to the collective agreement to the effect that, from that moment on, the amounts collected during the accident leave period would be subtracted from the employee's earnings to prevent the employee from receiving a tax refund while absent due to an industrial accident.
+. . .
+[37] The Appellant's procedure was consistent with the provisions of the collective agreement, adduced in Exhibit A‑2, which sets out the following at pages 27 and 28:
+[Translation]
+ARTICLE 16 – OCCUPATIONAL DISEASES AND INDUSTRIAL ACCIDENTS
+16.01 In the case of an industrial accident or occupational disease, a regular employee shall receive the regular net salary that he/she would have received if he/she had remained at work, and shall continue to receive it until the first day of the month following a six (6)-month period, at which time he/she becomes eligible for disability benefits under the Ville de Québec's employee benefit plan. In all other situations, the Act respecting industrial accidents and occupational diseases applies.
+16.02 In the case of an industrial accident or occupational disease, a casual employee shall receive his/her regular net salary for a period of up to three (3) weeks, but not exceeding the normal date of layoff established pursuant to article 8. In all other situations, the Act respecting industrial accidents and occupational diseases applies.
+16.03 (a) In the case of absence due to an industrial accident or occupational disease, the employee shall receive from the employer an indemnity in an amount, when supplemented by otherwise payable income replacement indemnities, such that the employee's net income in a calendar year is equal to the regular net salary he/she would have received if he/she had been at work.
+(b) The regular net salary refers to the employee's regular salary based on rank in the case of a regular employee or based on the rate at the time of absence in the case of a casual employee, less contributions for income tax, public benefit plans and the City’s supplementary benefits plans.
+(c) The employee's net income refers to the sum, for the year, of income replacement indemnities payable under the Act respecting industrial accidents and occupational diseases, his/her salary and his/her indemnity less contributions to the City's supplementary benefits plan and deductions that would normally be made for income tax and public benefit plans on an annual salary amount equal to the sum of his/her salary and indemnity.
+(d) For administrative convenience, the payments made by the employer, from the beginning of the disability, are governed by the following provisions:
+1. During each pay period, the employee shall receive:
+i. an amount representing the income replacement indemnity payable pursuant to the Act respecting industrial accidents and occupational diseases paid by the employer on behalf of the Commission de la santé et de la sécurité au travail du Québec;
+ii a net amount equal to the difference between his/her regular net salary for the period and the income replacement indemnities payable pursuant to the Act respecting industrial accidents and occupational diseases as an advance on the indemnity to which he/she is entitled.
+2. No later than February 28 of each year, the employer shall determine the amount of the indemnity to which the regular employee is entitled for the previous year, make the appropriate adjustments and enter in the T4 slips and Relevé 1 the resulting amounts. Each employee shall receive a statement of the adjustments made by the employer and a copy shall be sent to the union.
+. . .
+[38] Thus, when an employee of the Appellant's suffers from an industrial accident or occupational disease, the Appellant must do everything possible to ensure that the employee's income does not decrease.
+[39] While awaiting a decision from the CSST, the Appellant paid what it considered to be an advance to the employee, as well as the difference between his net salary and the indemnity to be paid by the CSST.
+[40] Pursuant to the Act respecting industrial accidents and occupational diseases, R.S.Q. c. A‑3.001 (ARIAOD), a worker who suffers an industrial accident or occupational disease is entitled to an income replacement indemnity equal to 90% of his net salary. The relevant provisions read as follows:
+44. A worker who suffers an employment injury is entitled to an income replacement indemnity if he becomes unable to carry on his employment by reason of the injury.
+A worker who is no longer employed when his employment injury appears is entitled to the income replacement indemnity if he becomes unable to carry on the employment he usually held.
+45. The income replacement indemnity is equal to 90% of the weighted net income that the worker derives annually from his employment.
+. . .
+62. For the purposes of sections 59 to 61, the net salary or wages of the worker is equal to his gross salary or wages less the deductions usually made by his employer pursuant to
+1) the Taxation Act (chapter I-3) and the Income Tax Act (Revised Statutes of Canada, 1985, chapter 1, 5th Supplement);
+2) the Employment Insurance Act (Statutes of Canada, 1996, chapter 23);
+and
+3) the Act respecting the Québec Pension Plan (chapter R-9);
+. . .
+63. The weighted net income that the worker derives annually from his employment is equal to his gross annual employment income less the amount of deductions weighted by income brackets established by the Commission in relation to the family situation of the worker to take account of
+1) the income tax payable under the Taxation Act (chapter I-3) and the Income Tax Act (Revised Statutes of Canada, 1985, chapter 1, 5th Supplement),
+2) the employee's premiums payable under the Employment Insurance Act (Statutes of Canada, 1996, chapter 23), and
+3) the contribution payable by the worker under the Act respecting the Québec Pension Plan (chapter R-9);
+. . .
+[41] Despite these provisions, the employer remains responsible for making source deductions from an employee's salary. Under the Act, the payment received from the CSST is not taxable to prevent the CSST from having to make source deductions. The source deductions are therefore made by the employer, even though the employee is not working.
+[42] Such a procedure gives a considerable advantage to an employee who is not working over an employee working a regular week, as a result of the deduction provided for in subparagraph 110(1)(f)(ii) of the Act, which sets out the following:
+SECTION 110: Deductions
+(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer's income for the year or any amount that is
+. . .
+(ii) compensation received under an employees' or workers' compensation law of Canada or a province in respect of an injury, disability or death, except any such compensation received by a person as the employer or former employer of the person in respect of whose injury, disability or death the compensation was paid,
+. . .
+[43] The employee is also entitled to a refund of the tax collected on his salary equal to the indemnity received from the CSST; the effect of this is to give him an advantage over an employee who is working, since his income will be higher than that of his colleagues who are still on the job. In other words, a sick or injured person receiving CSST indemnities has a higher income, since he can recover some of the deductions made by the employer, while an employee who is working cannot.
+[44] This is clearly absurd; I do not believe that I am acting as legislator by refusing to accept the Respondent's guideline. In this case, the problem lies with the nature of the benefit paid to the worker who suffers from an industrial accident or occupational disease, which is why I do not think it is necessary to dismiss outright the procedure prescribed by the Agency.
+[45] The procedure set out in the Employers' Guide – Payroll Deductions (Basic Information) 2000-2001 is described as follows:
+At page 33:
+New policy – Reporting requirements
+For 2000 and subsequent years, an employer who continues to pay an employee’s salary before and after a workers’ compensation board claim is decided is no longer allowed to retroactively reduce earnings in the current year, or amend a previous-year T4 slip, and call the earnings workers’ compensation benefits. As a result, the employee has to report, in the year it is received, the salary he or she receives before and after a workers’ compensation board claim is decided.
+. . .
+At pages 34 and 35:
+How to treat workers’ compensation board payments under different circumstances
+Employer continues to pay regular wages
+Example
+John is injured at work on July 10, 2000. He continues to be paid his regular wages until February 6, 2002, when the workers’ compensation board accepts his claim. The employer is reimbursed by the workers’ compensation board.
+Results
+§ All wages paid in 2000, 2001, and 2002 are to be reported on a T4 slip for each of those years, with CPP contributions, EI premiums, and income tax withheld. John will report these T4 slips on his income tax return for the appropriate year.
+§ In 2002, the year of the award, the employer is not allowed to adjust box 14, “Employment income,” of the T4 slip or to reduce the CPP contributions, EI premiums, and income tax withheld in 2000, 2001, or 2002.
+§ When completing the T4 slip for 2002, the employer will enter code 77 in the “Other information” area, and report the total amount of the workers’ compensation board award for the three years.
+§ When John files his 2002 income tax return, he will claim this amount as a deduction for other employment expenses (repayment of salary or wages).
+§ If there is any unused amount and John does not have other types of income in 2002, this amount may become a non-capital loss and may be deducted against income from all sources in any of the three previous years. Any remaining loss is carried forward and can be deducted against income for the following seven years.
+Employer pays advances equal to the expected workers’ compensation board award and an amount in addition to this advance
+Example
+Mary is injured on April 2, 2000, and is away from work until June 6, 2001. Her employment contract states that her employer will pay an amount equal to her regular net pay. This amount will be in the form of advances equal to the anticipated workers’ compensation board award and an amount paid in addition to this advance.
+Results
+§ The amount of the advance received by Mary is not considered as employment income. As a result, the employer will not have to deduct CPP contributions, EI premiums, and income tax on this amount.
+§ The amount paid by the employer in addition to the advance, while waiting for a decision, is considered employment income in the year it is paid and is subject to CPP contributions, EI premiums, and income tax.
+§ In 2001, when the claim is decided, her employer has to offset the amount received from the workers’ compensation board against the advances made in the following way:
+- If the amounts are equal, no amount will be recorded in the “Other information” area of the T4 slip.
+- If the advances are more than the amount of the award, the difference is considered employment income. Mary’s employer has to report this income on a T4 slip with CPP contributions, EI premiums, and income tax withheld. No entry is needed in the “Other information” area.
+- If after the claim is accepted by the workers’ compensation board, the employer continues to pay an amount in addition to the workers’ compensation award, this amount is considered a top-up amount and he or she has to withhold CPP contributions and income tax but no EI premiums.
+§ If the claim is disallowed, the advance not repaid becomes employment income in the year the claim is disallowed. If Mary does not repay the advance the employer has to report the amount of the advance on a T4 slip with CPP contributions, EI premiums, and income tax withheld. If Mary repays the advance, the employer does not have to report the amount on a T4 slip.
+[46] As I understand it, the text addresses two situations: either the employer continues to pay the employee his regular salary, or the employer makes advances.
+[47] Moreover, the Agency stopped accepting retroactive adjustments following Fraser v. Canada, No. 95‑1251(IT)I, [1996] T.C.J. No. 367 (QL), a decision we shall consider in more depth below.
+[48] In this case, the payments were not treated as advances, given that the Agency only accepts them under the following two conditions:
+(a) the employer has not made source deductions from the payment;
+(b) the employer has entered the word "advance" in its payroll system.
+[49] According to the Respondent, the payment made by the Appellant did not constitute an advance because, on the one hand, the Appellant had made source deductions on those amounts and, on the other hand, [Translation] "ABSENCE—INDUSTRIAL ACCIDENT" was recorded in the payroll (Exhibit A‑1) and not "advance".
+[50] The dispute arises mainly from the procedure and the form of remuneration paid to sick or injured workers who are entitled to CSST benefits.
+[51] The Appellant cannot initially make a formal determination of the nature of the file because the CSST and the various superior tribunals have exclusive jurisdiction in this matter.
+[52] Until the CSST makes a decision regarding the application of the sick or injured worker, the employer must meet its obligations to the worker; it must pay remuneration that may turn out to be reimbursable by the CSST.
+[53] During the waiting period, the Appellant must handle these files with great care. The Agency, through its administrative practices or its guidelines that disguise the true nature of the payment, would have the employer adopt a procedure that is problematic with respect to the nature of the payment, but also with respect to the worker.
+[54] Given that the Agency seems fixated on a superficial interpretation of a decision, I feel it would be helpful to review the grounds for the Respondent's interpretation. In this respect, the Federal Court of Appeal's decision in Cité de la Santé de Laval v. M.N.R., 2004 FCA 119, seems to me to be inescapable.
+[55] In that case, the Federal Court of Appeal had to decide whether the remuneration received by two nurses during a precautionary cessation of work was insurable. To this end, the judges examined the purpose of the indemnity plans and held the following:
+30 The AOHS establishes a public group plan to indemnify persons who, because of their pregnancy or breast-feeding, are either unable to do their usual work or as a precaution are relieved of their obligations to do any work whatever. It therefore confers significant rights on those individuals. First, it preserves their employed status, and consequently the insurability associated with that employment. Then, it exempts them wholly or partly from performing work. Finally, it pays them an income replacement indemnity which the employer would not legally be required to pay if no work was done. The cost of paying the indemnities is borne by employers in general: see section 45 AOHS.
+31 Beyond these public plans, and to avoid employees making use of the plan being penalized by inevitable administrative delays, a practical reality has arisen: as a result of negotiations the employer in many cases undertakes, by collective agreements, interim obligations to pay the income replacement indemnities owed by public plans. This has the result of creating confusion and obscuring, or even sometimes obliterating, the purposes and aims sought by these public indemnity plans. I will give two examples of this. However, I will say at once that it seems clear these collective agreements, and the resulting obligations, were neither intended to alter the nature and universality of the public and collective insurance plans and income replacement indemnity plans in the event of precautionary cessation of work by the pregnant individual, nor did they have that consequence.
+32 The issue in the case at bar is one example of this confusion, resulting from the fact that, as it was bound to do by the agreement, the employer paid the amounts owed by the CSST. For example, when Ms. Lachambre was testifying one of the judge's concerns was whether the cheque the latter had received came from the CSST or from the employer: applicant's record, pages 502-503. In cross-examination and reexamination, questions also sought to establish whether these were regular pay cheques, whether there was any indication on the cheques that the amounts came from the CSST, whether the employee received a statement from the CSST, whether that statement was issued at the same time as the cheques and whether the cheques distinguished between the amounts coming from the employer as salary and those from the CSST as indemnity: ibid., pages 504-505. In fact, the witness confirmed that the cheques identified the amounts from the employer for days worked and those that were or would be paid by the CSST for precautionary cessation of work.
+33 In Attorney General of Canada v. Quinlan, A-1206-92, February 28, 1994 (F.C.A.), the discussion also dealt in large part with the fact that the cheques, which included salary insurance, were issued by the employer in accordance with the collective agreement. I will return to that decision below.
+34 All these matters, taken together with those involved in the interpretation of the collective agreements (was this a loan, did the collective agreement provide a reimbursement procedure, did the employer undertake to make payments and so on) tend to relegate if not to oblivion, at least to the back burner, the nature of the group plan, that of the amounts paid and, as Judge Lamarre Proulx said in Régie Intermunicipale de Traitement de l’eau potable, Saint-Romuald/Saint-Jean v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 744, at paragraph 19, the purpose and aim of the payments.
+35 These four matters, which because of their essential nature and importance are at the very heart of a solution to the question, lead me to conclude that in the case at bar the amounts at issue were not insurable earnings within the meaning of the Act.
+36 To begin with, the group plan established by the AOHS is in legal terms a legislative insurance plan covering indemnities for the pregnant person, which is not part of the contract of employment concluded between the applicant and its employees, and which as already mentioned is financed by contributions from employers: see by analogy the similar classification by the Supreme Court of Canada of workmen's compensation plans in Bell Canada v. Québec (Commission de la santé et de la sécurité du travail), [1988] 1 S.C.R. 749, at paragraph 294. By its universal and public nature, therefore, the plan differs from private insurance plans or special insurance plans that are found among employers, and in certain cases make the employer the insurer: see Université Laval, supra; Attorney General of Canada v. National Bank of Canada, 2003 FCA 242. In my humble opinion, the AOHS clearly indicates that the CSST is acting as a third party insurer for pregnant employees who exercise the right to precautionary cessation of work.
+37 Second, for income from an employer to be earnings, it must have been paid pursuant to a labour or employment contract: see Wong v. M.N.R., 12 C.C.E.L. (2d) 257; M.N.R. v. Visan, [1983] 1 F.C. 820 (F.C.A.); Biron v. Canada (Minister of National Revenue - M.N.R.), [1998] T.C.J. No. 76. The amounts paid by the CSST here were not paid pursuant to a contract of employment between the employees and the CSST.
+38 Further, the amounts from the CSST were legally classified by the AOHS as an “income replacement indemnity”. They were not in the nature of earnings. They did not correspond to services. To paraphrase Urie J., speaking for this Court in Visan, supra, at 829, they were at the opposite pole from payments of that kind as their purpose was to indemnify employees in part for the loss of payments that would have been made for services they would have rendered if they had not been prevented from doing so by their pregnancy: see also Brière v. Canada (Minister of National Revenue - M.N.R.), [1998] T.C.J. No. 111.
+39 Finally, and I will not dwell on the point at any length since I have already amply covered it, the purpose and aim of the payments contemplated by the AOHS, and made by the CSST, are to indemnify a pregnant employee for loss of income she would otherwise have been entitled to, a loss which would have resulted in a loss of earnings if there were no income replacement indemnity.
+[56] Based on the principles set out in that case, I conclude that the sums paid by the employer in this case do not constitute earnings, but are essentially advances.
+[57] This dispute focuses mainly on the cases of victims of industrial accidents or occupational diseases; thus there was no delivery of services to the employer by the employees of the Ville de Québec while they were absent due to an industrial accident.
+[58] The compensation paid to the employees who had ceased their regular work because of an industrial accident or occupational disease is completely unrelated to the quantity or quality of their work; it is essentially a form of economic support that in no way corresponds to the definition of remuneration or salary in exchange for work.
+[59] The parties in this case must act in a practical, transparent and coherent manner so that the rights and obligations of each are consistently respected. In other words, the caprices of one or another party are not justifiable, particularly if one of the parties creates requirements that have significant consequences for the other.
+[60] In this case, the Appellant must grapple both with uncertainty regarding the decision of the CSST, and with the possibility of abuse by some workers. In order to limit the negative effects and, preferably, prevent abuse, it implemented a procedure that in no way limits the rights of the Respondent, while at the same time enabling it to meet its obligations transparently.
+[61] The Agency's administrative policies and guidelines are neither justifiable nor reasonable. In determining whether the payments made by the Ville de Québec are advances, only the nature of the payment must be taken into consideration; administrative policy statements have no bearing on the nature of the amounts paid to the workers in question.
+[62] The existence of payroll records indicating that the reason for the advance was "absence—industrial accident" seems to me to be sufficient and fully acceptable.
+[63] The decision in Fraser, which, according to the Respondent, was the genesis for the new procedure and guidelines, lacks, with respect for the contrary opinion, the broad scope attributed to it by the Respondent.
+[64] It was following that decision that the Agency decided to change its position and cease accepting retroactive adjustments to source deductions. The facts in that case are similar to these facts, as is clear from paragraphs 6 to 9:
+6 The facts of this case are not in dispute. The appellant was employed by the City of Cornwall during the 1992 taxation year. As a result of a back injury, the appellant became entitled to receive compensation from the Workmen's Compensation Board (the "WCB") between June and December of 1992. Pursuant to the collective agreement under which the appellant was employed, if a worker is injured and is on compensation or in a position to receive worker's compensation, the employer "shall pay 100% of the Employee's net salary and shall be responsible for all benefits covered by the contract, until the Employee returns to normal duties".
+7 Between June 13, 1992 and December 26, 1992, the employer paid the appellant his regular salary, less the related deductions for tax. The amount paid by the WCB was remitted directly to the employer, who adjusted the appellant's gross income and tax withheld at source accordingly. Following these adjustments, an amount of $5,235.72 representing the excess amount of tax withheld and remitted was refunded to the employer by the Receiver General.
+8 A discrepancy therefore appeared between the amount of tax actually withheld and remitted to the Receiver General and the total of these amounts shown on the appellant's pay stubs. As evidenced by the appellant's pay stubs, the amount of tax withheld and remitted during the 1992 taxation year was $12,637.35. On the other hand, the appellant's T-4 slip indicates that the adjusted amount of tax withheld was $7,401.63.
+9 The appellant was issued a refund in the amount of $4,898.83 ($4,733.79 plus interest amounting to $165.04) when his 1992 return was reassessed on November 22, 1993. Based on the subsequent assessment of the appellant's 1992 income tax return on April 11, 1994, the respondent established that the said refund should have been nil.
+[Emphasis added]
+[65] In that case, the procedure used by Mr. Fraser's employer to make source deductions was clearly at the heart of the dispute.
+[66] The employer, the City of Cornwall, maintained that it had sought a reimbursement of the amounts it had already remitted to the Receiver General of Canada, given that the amounts paid to its employee were advances on amounts it would later receive from the indemnity plan. Because those amounts were not taxable, the employer was not obliged to make source deductions on them. In that case, the employer had not indicated anywhere on the pay stubs that the amounts in question constituted advances; it had simply continued to pay the regular salary.
+[67] The Honourable Judge Lamarre Proulx gave determinative weight to the collective agreement in her analysis in Fraser, above. At paragraph 14 she wrote the following:
+14 The agreement between the employer and its employees requires the employer to treat the injured employee as if he was still working. The employer's obligation is to pay the regular salary and all benefits covered by the contract to the injured employee when he is off the job. The amounts paid by the employer during the employee's absence are not an advance in respect of the compensation to be received from WCB. If that were the case, it is my view that it should have been clearly indicated in the Collective Agreement as such. In that sense, the employer (the City of Cornwall) should not have recovered from the Receiver General the amount of $5,235.72 as this amount did not represent an excess amount of tax withheld and remitted.
+[Emphasis added]
+[68] Invoking the collective agreement, she held that the amounts did not constitute advances; the employer was therefore required to make source deductions under the Regulations and remit the amounts to the Receiver General.
+[69] With respect for that decision, it is my opinion that the terms of a collective agreement cannot change the nature of a payment. The fact that it is indicated in a collective agreement that a payment is insurable is not in itself a determining factor; it is but one factor among many others.
+[70] Whether or not it is insurable depends on all the facts and the manner in which the work was performed. Similarly, in this case, we must consider all the facts to determine the nature of the payments that must be made by the employer and whether they constitute advances.
+[71] This approach is fully consistent with the decision of the Federal Court of Appeal in Cité de la santé de Laval, supra, in which it is clearly indicated that the interpretation of collective agreements must not override the analysis of the nature of a payment:
+34 All these matters, taken together with those involved in the interpretation of the collective agreements (was this a loan, did the collective agreement provide a reimbursement procedure, did the employer undertake to make payments and so on) tend to relegate if not to oblivion, at least to the back burner, the nature of the group plan, that of the amounts paid and, as Judge Lamarre Proulx said in Régie Intermunicipale de Traitement de l’eau potable, Saint-Romuald/Saint-Jean v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 744, at paragraph 19, the purpose and aim of the payments.
+[Emphasis added.]
+[72] I do not believe that Fraser is applicable here. In this case, in which the burden of proof rests with the Appellant, the evidence definitively established that it had proceeded in a fully acceptable manner in light of the particular facts and its particular constraints. The Appellant was in no way negligent, indifferent or careless.
+[73] The Appellant's approach respected the rights of all parties, particularly with respect to the nature of the deductions. Accordingly, I find that it was entitled to be reimbursed for amounts paid in excess to the Receiver General of Canada, or, as the case may be, to retain the amounts deducted. The employee therefore finds himself in a situation in which he receives 100% of his net salary. He is in no way disadvantaged by such an outcome.
+[74] For all these reasons, I find that the Appellant is not obliged to remit to the Receiver General of Canada the amounts that would have been deducted in excess, given that they were essentially advances. These were amounts that it was not obliged to withhold from the salaries of its employees.
+CONCLUSION
+[75] For all these reasons, I find that the Appellant is not required to remit to the Receiver General for Canada the amounts deducted in excess. I allow the appeal and vacate the assessments of the Appellant. The payments made by the Appellant to stop the accumulation of interest should be reimbursed with interest.
+[76] The appeal is allowed with costs to the Appellant.
+Signed at Ottawa, Canada, this 9th day of November 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 14th day of February 2008.
+Monica F. Chamberlain, Reviser
+CITATION: 2007TCC329
+COURT FILE NO.: 2004-4044(IT)G
+STYLE OF CAUSE: Ville de Québec v. Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: November 8, 2006
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF AMENDED JUDGMENT: November 9, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Nathalie Grenier
+Counsel for the Respondent:
+Bernard Fontaine
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Nathalie Grenier
+Firm: Giasson et associés
+City: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,377 @@
+---
+title: "McRae v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26362/index.do"
+last_modified: "2004-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 350"
+citation2: ""
+neutral_citation: "2004 TCC 350"
+decision_date: "2004-05-18"
+language: "en"
+item_id: "26362"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3375
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:26:58.285000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08665745631b3cab0f9b1f367ae7cdbf338ea5c848a7d49a40d37a99706180a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McRae v. The Queen
+
+- Citation: 2004 TCC 350
+- Decision date: 2004-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McRae v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-18
+Neutral citation
+2004 TCC 350
+File numbers
+2003-4627(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4627(IT)I
+BETWEEN:
+MARK McRAE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 29, 2004, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Lorraine Edinboro
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeals from the assessments made under the Income Tax Act for the 1997, 1998, 1999 and 2000 taxation years are dismissed.
+Signed at Montréal, Quebec, this 18th day of May 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC350
+Date: 20040518
+Docket: 2003-4627(IT)I
+BETWEEN:
+MARK McRAE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from assessments for the appellant's 1997, 1998, 1999 and 2000 taxation years. By those assessments the Minister of National Revenue restricted the appellant's farming losses to $8,750 under section 31 of the Income Tax Act. The issue is whether the premise upon which the Minister acted under section 31, that the appellant's chief source of income in those years was neither farming nor a combination of farming and some other source of income, was correct.
+[2] The background to the assessments may be summarized as follows: the appellant originally did not file income tax returns for those years. The Minister therefore assessed him based on the information available to him. This appears to have galvanized the appellant to file returns and the Minister then reassessed to take into account the information in the returns.
+[3] The appellant is a chartered accountant and his only source of positive income was his income from employment as an accountant with Monsanto Canada Inc. as well as withdrawals from his RRSPs, as set out in the Reply to the Notice of Appeal. This income ranged from between about $70,000 to over $100,000 per year.
+[4] The Reply also sets out the farming losses reported as follows:
+Taxation Year
+Gross Farming Income
+Net Farming Income (Loss)
+1988
+$ 13,991.00
+($ 1,384.00)
+1989
+$ 11,766.00
+($ 1,812.00)
+1990
+$ 1,478.00
+($ 2,983.00)
+1991
+$ ?
+($ 1,483.00)
+1992
+$ 47,407.00
+$ 3,326.00
+1993
+$ 45,266.00
+($ 1,308.00)
+1994
+$ 18,614.00
+($ 2,329.00)
+1995
+$ 64,953.00
+($ 4,354.00)
+1996
+$ 106,482.00
+$ 1,618.00
+1997
+$ 47,027.02
+($ 23,329.12)
+1998
+$ 32,766.40
+($ 28,090.54)
+1999
+$ 12,938.07
+($ 40,526.68)
+2000
+$ 24,655.83
+($ 38,854.68)
+[5] These figures are taken from the financial statements of Jones & McRae Racing Partnership in which the appellant stated he and Mr. Jones were 50:50 partners. The amounts shown are from the partnership and so the appellant should be entitled to only one half of the losses. The amounts shown as gross income are also set out in his returns of income but the losses claimed differ. For 1997 to 2000 inclusive, the losses claimed by the appellant were $18,870, $28,004, $27,475 and $33,458. The appellant says this is because he adjusted from an accrual to a cash basis. This may be a partial explanation but it is not a complete one. It is also, I think, attributable to the appellant's rather peculiar and, if I may say so, arbitrary method of allocating income and loss between himself and his 50 percent partner as well as expensing as salary paid to his partner drawings paid to him. I need not resolve this question because of the conclusion I have reached, but if I were prepared to allow the appellant his full farming losses I would have had great difficulty in determining just what those losses were.
+[6] Is farming or a combination of farming and some other source of income the appellant's chief source of income? More ink and more paper have been used up over the past half century on this question than almost any other tax issue in Canada. The leading case of course is Moldowan v. Canada, [1977] C.T.C. 310, [1978] 1 S.C.R. 480. In that case Dickson J., speaking for the Supreme Court of Canada, endeavored to make some sense of subsection 13(1) (now subsection 31(1)) of the Income Tax Act. Among the more frequently quoted passages are the following:
+[13] Whether a source of income is a taxpayer's "chief source" of income is both a relative and objective test. It is decidedly not a pure quantum measurement. A man who has farmed all of his life does not cease to have his chief source of income from farming because he unexpectedly wins a lottery. The distinguishing features of "chief source" are the taxpayer's reasonable expectation of income from his various revenue sources and his ordinary mode and habit of work. These may be tested by considering, inter alia in relation to a source of income, the time spent, the capital committed, the profitability both actual and potential. A change in the taxpayer's mode and habit of work or reasonable expectations may signify a change in the chief source, but that is a question of fact in the circumstances.
+[14] There has been difference of opinion on whether the word "combination" in subsection 13(1) requires some "connection" by way of physical relationship or integration or inter-connection between farming and the subordinate activity which provides another source of income. Paragraph 3(f) of the Income War Tax Act of 1917, as amended, made reference to "connection" in defining the permissible deductions from income derived from the chief business, trade, profession or occupation of the taxpayer in determining his taxable income. Paragraph 3(f) read:
+f) deficits or losses sustained in transactions entered into for profit but not connected with the chief business, trade, profession or occupation of the taxpayer shall not be deducted from income derived from the chief business, trade, profession or occupation of the taxpayer in determining his taxable income.
+The word "connected" is not found in section 13 of the present Act. As Thorson, P said, obiter, in Simpson v. Minister of National Revenue, [1961] C.T.C. 174, 61 D.T.C. 1117, there is no reason why there must be such a limitation. I share this view.
+See also Dorfman v. MNR (supra) at p. 154 [6134] and Bert James v. Minister of National Revenue, [1973] C.T.C. 457 at 464, 73 D.T.C. 5333 at 5337.
+[15] It is clear that "combination" in section 13 cannot mean simple addition of two sources of income for any taxpayer. That would lead to the result that a taxpayer could combine his farming loss with his most important other source of income, thereby constituting his chief source. I do not think subsection 13(1) can be properly so construed. Such a construction would mean that the limitation of the section would never apply and, in every case, the taxpayer could deduct the full amount of farming losses.
+The other relevant passages from Moldowan are quoted below in the Paquette decision.
+[7] Here we have a person whose commitment to raising and racing horses is undoubted. Racehorses do provide an important focus to his life. Nonetheless, it does not provide him with a livelihood nor, if the history of the operation since 1988 is any indication, is it ever likely to. He must look to his accounting job with Monsanto to do that. From 1988 to 2000 he (or the partnership which began in 1991) realized a small profit in only two years. He worked full time at Monsanto. His commitment of capital to the farm was relatively modest. In 1999 he contributed capital of $15,296; in 1998, $17,956; in 1999, $8,550 and in 2000, $443. Strangely, his 50 percent partner, Harry Jones, contributed different amounts and his draws were different as well.
+[8] In Paquette v. The Queen, [2000] 3 C.T.C. 2714, I dealt with a husband and wife who were engaged in full time farming but who had to supplement their income and to some degree finance their farming operation by working away from the farm.
+[9] In view of the extensive argument advanced by the appellant here, I shall set out the reasoning in that case because it illustrates the type of situation to which, in my view, subsection 31(1) does not apply.
+[9] Two cases that are in all significant respects indistinguishable from the Paquettes' case are Martin v. R. (1995), 96 D.T.C. 1915 (T.C.C.), and Miller v. R. (1999), 2000 D.T.C. 1502 (T.C.C. [General Procedure]). In the latter case the following appears:
+[2] For the reasons that follow I have concluded that Mr. Miller is entitled to deduct his full farming losses in the years in question. He does not fall within the restrictive provisions of subsection 31(1).
+[3] The case bears a striking resemblance to one that I decided three years ago, Martin v. The Queen, 96 D.T.C. 1915.
+[4] Mr. Martin had farmed all his life but had to teach school as an adjunct to his farming to enable him to carry on the farming operation. Mr. Miller is a full time farmer who has to work in the Safeway store in Regina to enable him to hold and to operate the family farm on which he grew up. He has worked on it all his life and acquired it from his father in 1980.
+[5] In Martin, I set out the basic principles upon which I proceeded in that case and upon which I propose to proceed here. At pages 1916 and 1917, the following appears:
+Each of the cases involving subsection 31(1) of the Act turns on its own facts. Before I review the facts it is useful to outline briefly the basic principles upon which cases of this type must be decided. The first is that, according to the leading case of Moldowan v. The Queen, 77 D.T.C. 5213, farmers in Canada fall, for the purposes of income tax, in three categories: full time farmers, part time farmers and hobby farmers. Dickson J. put it this way at p. 5216:
+In my opinion, the Income Tax Act as a whole envisages three classes of farmers:
+(1) a taxpayer, for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine. Such a taxpayer, who looks to farming for his livelihood, is free of the limitation of s. 13(1) in those years in which he sustains a farming loss.
+(2) the taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood but carried on farming as a sideline business. Such a taxpayer is entitled to the deductions spelled out in s. 13(1) in respect of farming losses.
+(3) the taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood and who carried on some farming activities as a hobby. The losses sustained by such a taxpayer on his non-business farming are not deductible in any amount.
+The reference in s. 13(1) to a taxpayer whose source of income is a combination of farming and some other source of income is a reference to class (1). It contemplates a man whose major preoccupation is farming, but it recognizes that such a man may have other pecuniary interests as well, such as income from investments, or income from a sideline employment or business. The section provides that these subsidiary interests will not place the taxpayer in class (2) and thereby limit the deductibility of any loss which may be suffered to $5,000. While a quantum measurement of farming income is relevant, it is not alone decisive. The test is again both relative and objective, and one may employ the criteria indicative of "chief source" to distinguish whether or not the interest is auxiliary. A man who has farmed all of his life does not become disentitled to class (1) classification simply because he comes into an inheritance. On the other hand, a man who changes occupational direction and commits his energies and capital to farming as a main expectation of income is not disentitled to deduct the full impact of start-up costs.
+At pp. 5215-5216 Dickson J. also observed:
+Whether a source of income is a taxpayer's "chief source" of income is both relative and objective test. It is decidedly not a pure quantum measurement. A man who has farmed all of his life does not cease to have his chief source of income from farming because he unexpectedly wins a lottery. The distinguishing features of "chief source" are the taxpayer's reasonable expectation of income from his various revenue sources and his ordinary mode and habit of work. These may be tested by considering, inter alia in relation to a source of income, the time spent, the capital committed, the profitability both actual and potential. A change in the taxpayer's mode and habit of work or reasonable expectations may signify a change in the chief source, but that is a question of fact in the circumstances.
+The second rule that must be observed is that the factors mentioned by Dickson J. must be considered cumulatively, and not disjunctively. In The Queen v. Morrissey, 89 D.T.C. 5080, Mahoney J., speaking for the majority of the Court said at p. 5084:
+With respect, I do not agree that Moldowan suggests disjunctive consideration of pertinent factors in quite the way the learned trial judge has dealt with them. The discussion in Moldowan begins as follows:
+Whether a source of income is a taxpayer's "chief source" of income is both a relative and objective test. It is decidedly not a pure quantum measurement.
+Moldowan also says, dealing with the difference between classes 1 and 2, "while a quantum measurement of farming income is relevant, it is not alone decisive". While the determination that farming is a chief source of income is not a pure quantum measurement, it is equally not a determination in which quantum can be ignored.
+The same view was expressed by the Federal Court of Appeal in Connell v. The Queen, 92 D.T.C. 6134 and The Queen v. Poirier, 92 D.T.C. 6335. In the latter case the Court stated at p. 6336:
+It must be remembered that it is the cumulative impact of the various factors for determination that governs, not any one factor taken disjunctively.
+From this it is clear that in determining whether a person's chief source of income is or is not farming, no single factor - time, mode of living, profitability, capital committed - may be taken as determinative. No single factor - either its presence or its absence - can be taken as governing in isolation.
+. . . . .
+Farming has had for Mr. Martin - as, I daresay, for farmers all over Canada - its ups and downs. Drought, fire, excessive rain, fluctuating prices and escalating costs, have taken their toll. Yet still he hangs in, like so many other members of this integral part of the Canadian economic fabric.
+What is the composite picture that emerges? A typical Canadian farmer. Not a wealthy professional or executive who dabbles in exotic cattle or horses with a view to enhancing his social standing but as a hard working Canadian farmer who cleans stables, harvests grain, fixes broken machinery, cares for sick cows and pigs and lives through the major and minor tragedies and heartbreaks that have beset farmers for millennia. Mr. Lockwood described him as a farmer who teaches and not a teacher who farms and I think this is an accurate characterization. The scale of his farming operation was comparable to that of persons who do nothing but farm and who do not have another job. Why is he denied his losses? Because he had another job that made it possible for him to engage in a full time farming operation. Whatever may be the type of person at whom subsection 31(1) is aimed, it is not Mr. Martin. Whatever may be the object and spirit of subsection 31(1), it is not to destroy the backbone of our farming community.
+Mr. Martin's mode of life, commitment of time, commitment of capital, and dedication to farming all point inexorably to the conclusion that Mr. Martin is a full time farmer within Class 1 of the Moldowan categories. Yet the Crown would deny him that on the basis of one factor, the lack of profitability. There are two reasons why this factor cannot determine the result in this case. In the first place although pleaded as a separate allegation, the so-called "no reasonable expectation or profit" point was not pressed by the Crown and no evidence was advanced to substantiate it. I must therefore assume, as Mr. Martin undoubtedly did, that there was a reasonable expectation of profit.
+Even more importantly, to permit this factor to prevail against all of the other factors would be to ignore the principles laid down by the Federal Court of Appeal in such cases as Morrissey, Poirier, and Connell, which require that no single factor can be determinative.
+[6] I turn now to the facts relating to Mr. Miller. He is 52 years of age. He was born and raised on the farm which he now operates. From early youth he worked on the farm doing the sort of jobs appropriate to his age - stone picking, driving implements, seeding, harrowing, combining, baling and hauling, tending cattle - all of the type of things that one would expect of a boy growing up on a farm and forming part of the family unit that operates a farm - a typical Canadian phenomenon that has been around for generations.
+[10] Following the above outline I set out certain financial details of Mr. Miller's operation. They bear a considerable similarity to the situation of Mr. and Mrs. Paquette.
+[7] In 1980, the appellant took over the family farm which consisted of three quarter sections.
+[8] I set out paragraphs 6 to 20 of the notice of appeal. They are either admitted or have been established in evidence. They demonstrate the commitment of capital that Mr. Miller made to the farming operation:
+6. The Appellant had significant capital in his farming operation by January 1, 1993:
+Description Opening UCC
+class 6..............................
+$16,797.57
+class 8..............................
+$29,763.65
+class 10............................
+$24,636.01
+7. The Appellant purchased the following capital assets in 1993:
+Description ($)
+Combine...........................
+$40,915.00
+Grain Box.........................
+$ 6,303.60
+Grain Truck......................
+$15,200.00
+Case Tractor....................
+$74,665.00
+8. The Appellant's liabilities at December 31, 1993 were:
+Description ($)
+Bank of Montreal..............
+$44,593.61
+Line of Credit...................
+$56,525.36
+9. The Appellant purchased the following capital assets in 1994:
+Description ($)
+Steel Quonset...................
+$13,950.00
+Swath Roller.....................
+$ 650.00
+Swather............................
+$17,013.00
+Weed Trimmer.................
+$ 399.98
+28ft Drill...........................
+$ 575.00
+Cellular Phone..................
+$ 545.00
+10. The Appellant's liabilities at December 31, 1994 were:
+Description ($)
+Case.................................
+$35,629.48
+Line of Credit...................
+$64,062.45
+11. The Appellant purchased the following capital assets in 1995:
+Description ($)
+Bin Sweep........................
+$1,474.98
+Pick up Reels....................
+$3,550.00
+Hay Rake.........................
+$5,049.00
+12. The Appellant's liabilities at December 31, 1995 were:
+Description ($)
+Case.................................
+$26,543.63
+Line of Credit...................
+$55,518.47
+13. The Appellant purchased the following capital assets in 1996:
+Description ($)
+Bins..................................
+$11,651.00
+Auger...............................
+$ 3,650.96
+Gyromower......................
+$ 425.00
+Garden Tractor.................
+$ 2,600.00
+14. The Appellant's liabilities at December 31, 1996 were:
+Description ($)
+Case.................................
+$15,000.00
+Line of Credit...................
+$46,200.00
+15. The Appellant had significant capital in his farming operation as at December 31, 1996:
+Description Closing UCC
+class 6..............................
+$32,823.88
+class 8..............................
+$45,592.62
+class 10............................
+$27,460.47
+16. The Appellant has no Registered Retirement Savings Plans because he has invested all his retirement capital into the farm operation.
+17. The Appellant's employment income from Safeway was necessary to finance the capital requirements of the farm. The Appellant's employment income decreased in 1996 because he is not meeting Safeway's requirements to achieve a bonus. This is due to time spent on the farm and not at Safeway's.
+18. The Appellant's employment income is:
+Taxation Year ($)
+1993................................
+$74,426.76
+1994................................
+$86,432.59
+1995................................
+$79,786.16
+1996................................
+$60,310.00
+19. The Appellant's gross farm income is:
+Taxation Year ($)
+1993................................
+$33,365.21
+1994................................
+$33,689.83
+1995................................
+$22,057.23
+1996................................
+$40,509.63
+20. The Appellant's farm loss is:
+Taxation Year ($)
+1993................................
+($40,802.00)
+1994................................
+($37,226.81)
+1995................................
+($50,798.36)
+1996................................
+($23,367.18)
+[9] It is significant that a substantial part of the losses for each year results from capital cost allowance claimed by the appellant on farm machinery and equipment purchased by him. Ironically, the more capital he devotes to the farming operation the greater his losses. The refunds of tax which the appellant receives are all put back into the farm. Counsel for the respondent invites me to draw an adverse inference from this fact. I think precisely the opposite inference is justified.
+[10] The farm is about a 1¼ hour drive from Regina. Mr. Miller as well as his wife and son spend virtually all their time at the farm when they are not working at Safeway. It is a typical farm family: all members - the appellant, his wife Ardis and his son Scott - work as a team. Mr. Miller's intention since he took over the original three quarter sections has been to expand and this he has done. In 1997, he bought two more quarter sections. In 1999 he bought two more quarter sections and in May of 1999, he bought five more quarter sections. Part of the price was raised by borrowing but a substantial part was raised by the exercise of stock options that he had with Safeway.
+[11] It has been his plan since 1980 when he took over the family farm to expand in the manner in which he has been doing. He could not carry on the farming operations, put the capital into it to expand it without the money earned in another job.
+[12] I was favourably impressed with his profound knowledge of all aspects of farming in Western Canada, including fertilisers, farm equipment, economics and crop rotation. His son, to whom he intends to give the farm when he retires, expects to take over the farming operation in due course and is studying agriculture as well as working on the farm.
+[13] The evidence discloses a traditional farming family in Saskatchewan, a deep devotion and commitment to the land and a determination to maintain that tradition in spite of the difficulties with which agriculture has been beset in recent years in Canada, particularly in the west - such as droughts, floods and low prices.
+[14] It is rare that one sees a case to which section 31 is more inapplicable. Mr. Martin was one such case. Mr. Miller is unquestionably another. Mr. Miller is a full time farmer who has to work to provide the cash to maintain and expand the farming operation. He falls within class 1 of the analysis of Dickson J. in Moldowan v. The Queen, 77 D.T.C. 5213.
+. . . . .
+[19] A recent case of the Federal Court of Appeal is R. v. Donnelly, [1998] 1 F.C. 513. It puts section 31 in its proper perspective. It involved a wealthy doctor who took up raising racehorses, and lost large amounts of money. One needs only to state those facts to realize why he lost. He was, one of those persons who, as Robertson, J.A. said, "earned their income in the city and lost it in the country". This cannot be said of Mr. Miller, whose situation is not even comparable. Dr. Donnelly was a doctor who dabbled in raising racehorses. Mr. Miller is a full time farmer who works at Safeway. It is instructive to re-read what Robertson, J.A. said in paragraphs 19 to 21 of the Donnelly judgment at pages 526 to 527:
+[19] In the end, Graham stands or falls on its unique facts. But there is at least one lesson that can be derived from the case. It seems to me that Graham comes closer to a case in which an otherwise full time farmer is forced to seek additional income in the city to offset losses incurred in the country. The second generation farmer who is unable to adequately support a family may well turn to other employment to offset persistent annual losses. These are the types of cases which never make it to the courts. Presumably, the Minister of National Revenue has made a policy decision to concede the reasonable expectation of profit requirement in situations where a taxpayer's family has always looked to farming as a means of providing for their livelihood, albeit with limited financial success. The same policy considerations allow for greater weight to be placed on the capital and time factors under section 31 of the Act, while less weight is given to profitability. I have yet to see a case where the Minister denies such a taxpayer the right to deduct full farming losses because of a competing income source. Perhaps this is because it is unlikely a hog farmer such as Mr. Graham would pursue the activity as a hobby.
+[20] As is well known, section 31 of the Act is aimed at preventing "gentlemen" farmers who enjoy substantial income from claiming full farming losses: see Morrissey v. Canada, supra, at pages 420-423. More often than not it is invoked in circumstances where farmers are prepared to carry on with a blatant indifference toward the losses being incurred. The practical and legal reality is that these farmers are hobby farmers but the Minister allows them the limited deduction under section 31 of the Act. Such cases almost always involve horse farmers who are engaged in purchasing or breeding horses for racing. In truth, there is rarely even a reasonable expectation of profit in such endeavours much less the makings of a chief source of income.
+[21] It may well be that in tax law a distinction is to be drawn between the country person who goes to the city and the city person who goes to the country. In future, those insisting on obtaining tax relief in circumstances approaching those under consideration should do so through legislative channels and not through the Tax Court of Canada. The judicial system can no longer afford to encourage taxpayers or their counsel to pursue such litigation in the expectation that hope will triumph over experience.
+[20] This passage clearly describes the type of person at whom section 31 is aimed and the type of person at whom it is not.
+[21] Agriculture in Canada and particularly in the western provinces is going through a difficult time. It will survive through the courage, sacrifices, initiative, optimism and dedication of people like Mr. Miller and his family. Section 31 was never intended to destroy such people but if it is applied indiscriminately to genuine farmers such as the Millers, it will.
+[11] Turning now to the facts of this case, it is clear beyond any doubt that both appellants regard farming as the central focus of their lives and the day jobs they have as auxiliary to their principal occupation as farmers. They spend far more time at their farming activities than they do at their jobs in the city. The problem is that they could not carry on the farming operation without the income from their city jobs. Mrs. Paquette is a high school teacher. Mr. Paquette works at the National Research Council. Mrs. Paquette has refused promotions within the teaching profession because it would interfere with her work on the farm. Similarly, Mr. Paquette has not sought promotions in the National Research Council. In fact, one of the reasons he has spent so much time and money expanding the farming operation is that from the early 1990s on, he was in danger of being laid off, as indeed he was in 1998. Both appellants in effect tailored their day jobs to permit them to leave and go back to the farm when necessary, such as in calving time. When the section of the National Research Council in which Mr. Paquette worked was spun off into a separate corporation he declined to go with it, because it would have necessitated his devoting more time to the job and less to farming.
+[12] It is not only the appellants who have dedicated the majority of their working hours to the farm. Their teenage children are also active and fully integrated into the farming operation.
+[13] The evidence discloses that the time spent by the appellants on the farming operation compared with the day job is at least in a ratio of 60:40.
+[14] The appellants have devoted substantial capital to the farming operation. Unlike the Miller and Martin cases, referred to above, where precise figures were put in evidence with the assistance of senior counsel, the appellants were not represented by counsel and I had to ask Mr. Paquette to reconstruct the amounts of their capital investment since it did not appear that the appellants or their representative appreciated the importance of adducing precise evidence of the capital invested. Nonetheless, I would not wish to draw an adverse inference from the fact that these taxpayers could not afford a lawyer. The best evidence before me of their capital investment is Mr. Paquette's testimony, as follows:
+Land $165,000
+Tractor $40,000
+Tractor $6,000
+Tractor $3,000
+Square baler $5,000
+Round baler $12,000
+Hay rake (side delivery) $2,500
+Levelling blade $3,000
+Wagons (2) $3,000
+Dump wagon $3,000
+Sleights $1,000
+Hay binder $6,000
+Harness $8,000
+Disc $2,000
+Plough $1,800
+Seeder $1,500
+Truck $22,000
+Livestock trailer $5,000
+Flatbed $3,000
+Circular saw $1,200
+Land roller $200
+Harrow $1,500
+Cattle chute $1,500
+Baler and wrapping machinery $14,000
+Livestock (about 30 herd, which, $50,000
+after calving, could reach 50)
+TOTAL $361,200
+[15] These figures could have been more exact, but I am satisfied that by and large they are substantially accurate, and indicate a significant commitment of capital to the farming operation. Some of the money was borrowed and some came from the appellants' own resources or salaries. As the capital expenditures increased so too did the claim for capital cost allowances and, correspondingly, so did the losses.
+[16] I was very favourably impressed with Mr. Paquette's detailed knowledge of the science of raising pure-bred livestock.
+[17] All of the above factors - dedication, lifestyle, commitment of time, investment of capital - clearly point to a class 1 farmer. The Paquettes are a very typical Canadian farming family. Given the state in which agriculture has found itself over the past decade in Canada operating a conventional farm requires, if this important part of Canada's social and economic life is to be maintained, that farmers take work in the city. This is not a case of wealthy urban professionals deciding to take up the raising of race horses and expecting the taxpayers of Canada to assist in subsidizing their expensive hobbies[1]. This is, rather, a case of genuine farmers who have to take another job to maintain the farming operation.
+[10] The situation that I describe in the Miller, Martin and Paquette cases is not the situation here. Farming was a full time occupation for those people. Their outside jobs were an incidental but necessary adjunct to the farming operation, essential to keeping the farming operation afloat. However sincere and devoted the appellant may be to his horses, he remains a city person who lives in the city but has gone to the country to take up raising and racing racehorses. Without suggesting that this is a mere hobby it is certainly incidental to his chief source of income.
+[11] Mr. McRae referred to a decision of the Federal Court of Appeal in Kroeker v. The Queen, [2002] DTC 7436. In that case the Federal Court of Appeal emphasized that the appellant was not "indulging in maintaining horses for racing". The court was reiterating a point made by Robertson J.A. in paragraph 20 of the Donnelly decision, quoted above, about section 31 being applied to people who raise racehorses. I doubt that as a matter of law there is a legal distinction between racehorses and cows or pigs for the purposes of section 31 but there is certainly a practical one. A rather cursory computer search indicates that of the multitude of farming loss cases under section 31 involving the raising of horses, only two or three appeals have been allowed. In other words, if you are hoping to get into the Moldowan category 1 you would be well advised to stay away from racehorses. Pigs, cows and chickens are probably a better bet, at least if the breeds are not too exotic.
+[12] Be that as it may, reading the Kroeker decision as a whole I think Mrs. Kroeker's situation was much closer to that described in Miller, Paquette and Martin. However great his devotion to his horses and to horseracing may be, Mr. McRae does not fall into the category of a class 1 farmer as did the Millers, Paquettes and Martins. He falls squarely within class 2. He is an accountant who raises horses, not a farmer who does accounting.
+[13] The appeals are dismissed.
+Signed at Montréal, Quebec, this 18th day of May 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC350
+COURT FILE NO.:
+2003-4627(IT)I
+STYLE OF CAUSE:
+Mark McRae and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+April 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+May 18, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Cf. Kuhlmann et al. v. The Queen, 98 D.T.C. 6652.

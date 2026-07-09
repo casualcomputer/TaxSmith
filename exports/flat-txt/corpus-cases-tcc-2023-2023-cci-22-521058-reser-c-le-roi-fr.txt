@@ -1,0 +1,199 @@
+Title: Reser c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521058/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-22-521058-reser-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-02-13
+
+# Reser c. Le Roi
+
+- Citation: 2023 CCI 22
+- Decision date: 2023-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5788, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reser c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-02-13
+Référence neutre
+2023 CCI 22
+Numéro de dossier
+2019-3821(IT)I, 2019-3850(IT)I
+Juges et Officiers taxateurs
+Joanna Hill
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-3821(IT)I
+ENTRE :
+VIVIANA RESER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Clarence Reser (2019-3850(IT)I) le 15 septembre 2022 à Victoria (Colombie-Britannique)
+Devant : l’honorable juge Joanna Hill
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Tawni Proctor
+JUGEMENT
+L’appel interjeté à l’encontre d’un avis de nouvelle détermination daté du 3 août 2018 relativement au droit de l’appelante au crédit pour la TPS pour les périodes de versement du 1er juillet 2018 au 30 juin 2019 est accueilli, sans dépens. L’affaire est renvoyée au ministre du Revenu national pour un nouvel examen et une nouvelle détermination pour le motif que l’appelante a gagné un revenu de non-résidente de 45 000 $ au cours de l’année d’imposition 2017.
+Signé à Ottawa (Ontario), ce 13e jour de février 2023.
+« Joanna Hill »
+La juge Hill
+Référence : 2023 CCI 22
+Date : 20230213
+Dossier : 2019-3821(IT)I
+ENTRE :
+VIVIANA RESER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Dossier : 2019-3850(IT)I
+ET ENTRE :
+CLARENCE RESER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+L’honorable juge Hill
+I. Introduction
+[1] La question fondamentale dans les présents appels consiste à savoir si le revenu de Viviana Reser gagné à l’extérieur du Canada pendant qu’elle et son mari, Clarence Reser, étaient séparés peut servir à établir si chacun a droit au crédit pour la TPS pour les périodes de versement après leur réconciliation.
+[2] Les appels ont été entendus ensemble sur preuve commune présentée par le témoignage de M. et Mme Reser. J’estime qu’ils étaient des témoins crédibles et fiables qui n’ont pas contesté les faits essentiels et pertinents dans le cas en l’espèce. Par conséquent, le véritable différend entre les parties est d’ordre juridique, à savoir la juste interprétation des dispositions relatives au crédit pour la TPS de la Loi de l’impôt sur le revenu.
+[3] Contrairement à la thèse de M. et Mme Reser dans leurs appels, le revenu de Mme Reser en tant que non-résidente était un renseignement nécessaire selon les définitions et les calculs pertinents de l’article 122.5 de la Loi de l’impôt sur le revenu. L’admissibilité au crédit pour la TPS est fondée sur le revenu familial net d’un contribuable au cours d’années d’imposition précises, et il est évident que le législateur a voulu que le revenu des non-résidents soit inclus dans ce calcul.
+II. Contexte – Changement d’état civil
+[4] M. et Mme Reser se sont séparé le 1er septembre 2003 ou vers cette date. Le coup de grâce de leur relation était que Mme Reser avait reçu une offre d’emploi à l’étranger. Elle souhaitait l’accepter, tandis que M. Reser ne voulait pas partir à l’étranger.
+[5] Mme Reser a déménagé aux Émirats arabes unis, où elle a été employée à plein temps pour enseigner l’anglais comme langue seconde. Elle a pris sa retraite en juillet 2017 et est revenue au Canada le 27 juillet 2017 ou vers cette date pour être près de ses parents âgés à Victoria. Elle s’est également réconciliée avec M. Reser peu de temps après.
+[6] Lors de la production de leurs déclarations de revenus de 2017, M. et Mme Reser ont déclaré leur état civil comme « marié ». En 2016, M. Reser avait déclaré son état civil comme « séparé ».
+[7] Le ministre du Revenu national a initialement conclu que M. Reser avait droit au crédit pour la TPS pour les périodes de versement du 1er juillet 2017 au 30 juin 2018 et que Mme Reser avait droit au crédit pour la TPS pour les périodes de versement du 1er juillet 2018 au 30 juin 2019.
+[8] Le ministre a par la suite demandé des renseignements supplémentaires à M. et Mme Reser en raison de leur changement d’état civil. Le ministre a demandé à M. Reser de divulguer les revenus que son épouse avait gagnés à l’extérieur du Canada pour l’année d’imposition 2016 et a demandé à Mme Reser de divulguer les revenus qu’elle avait gagnés à l’extérieur du Canada au début de l’année d’imposition 2017.
+[9] M. et Mme Reser ont refusé de fournir ces renseignements au ministre pour le motif que, durant cette période de 18 mois, 1) ils étaient séparés et 2) Mme Reser était une non-résidente dont le revenu n’était pas assujetti à l’impôt canadien. Le ministre a conclu que l’admissibilité de M. et Mme Reser au crédit pour la TPS ne pouvait être déterminée sans ces renseignements et, le 3 août 2018, il a établi de nouvelles déterminations réduisant à zéro les crédits déjà payés.
+[10] M. et Mme Reser maintiennent leur double thèse dans leurs appels à l’encontre de ces nouvelles déterminations. Toutefois, cette thèse va à l’encontre des dispositions pertinentes relatives au crédit pour la TPS de la Loi de l’impôt sur le revenu.
+[11] M. et Mme Reser ont naturellement eu de la difficulté à s’y retrouver dans l’application de ces dispositions quelque peu complexes. Dans ses observations orales, l’avocate de l’intimé a bien résumé de quelle façon les diverses définitions et les divers calculs de l’article 122.5 s’appliquent dans les présents appels. J’ai inclus les principales dispositions à l’annexe « A », et je tenterai de les simplifier davantage comme suit.
+[12] Fondamentalement, le crédit pour la TPS est calculé en fonction du revenu familial net d’une année précédente, même si un contribuable n’était ni marié ni résident au Canada durant cette période.
+III. L’admissibilité au crédit pour la TPS est fondée sur le revenu familial
+[13] Le législateur a instauré le crédit pour la TPS afin d’offrir un certain allègement aux familles à faible revenu pour la TPS qu’elles paient. Par conséquent, le droit au crédit pour la TPS est fondé sur le revenu du contribuable.
+[14] Afin de gérer la mise en œuvre du crédit, l’admissibilité d’un contribuable est déterminée automatiquement en fonction des revenus déclarés dans sa déclaration de revenus pour l’année ou les deux années précédentes, parfois qualifiée d’« années de base » [1] . Le crédit pour la TPS est calculé en fonction de ce revenu antérieur, même s’il n’est pas payé au cours de l’une ou l’autre de ces années.
+[15] Le crédit pour la TPS est versé chaque trimestre, pour des périodes déterminées commençant en juillet, en octobre, en janvier et en avril [2] . Ainsi, une année complète de périodes de versement s’étend du 1er juillet d’une année au 30 juin de l’année suivante.
+[16] Si un contribuable est marié, son admissibilité au crédit pour la TPS est fondée sur son revenu familial net, c’est-à-dire le revenu déclaré par le contribuable et son conjoint visé [3] .
+[17] Dans la décision McFadyen, notre Cour a résumé comme suit l’objet et la justification de la prise en compte de l’état civil d’un contribuable dans le calcul [4] :
+Le crédit est offert en fonction du revenu familial et en reconnaissance du fait qu’une grande partie des dépenses engagées pour les besoins fondamentaux le sont sur la base de l’unité familiale et non sur une base individuelle. Pour cette raison, le crédit pour la TPS est accordé en considération du revenu de l’unité familiale.
+[18] Par conséquent, les contribuables sont tenus d’aviser le ministre de tout changement à leur état matrimonial, conformément à l’alinéa 122.5(6.1)b) de la Loi de l’impôt sur le revenu.
+[19] En prenant la présente espèce en exemple, le ministre a utilisé les renseignements de la déclaration de revenus de 2016 de M. Reser pour déterminer initialement son admissibilité au crédit pour la TPS pour les périodes de versement commençant le 1er juillet 2017 et prenant fin le 30 juin 2018. M. Reser a déclaré son état civil comme « séparé » et un revenu de 18 103 $.
+[20] Le ministre a également utilisé les déclarations de revenus de 2017 de M. et Mme Reser pour déterminer initialement l’admissibilité de Mme Reser au crédit pour la TPS pour les périodes de versement commençant le 1er juillet 2018 et prenant fin le 30 juin 2019. Mme Reser n’a déclaré aucun revenu depuis son retour en tant que résidente canadienne en juillet 2017, tandis que M. Reser a déclaré avoir gagné 18 850 $ pour l’année complète.
+[21] Les calculs sont effectués conformément à l’article 122.5 en supposant que la situation d’une année d’imposition donnée restera la même au cours des deux années d’imposition suivantes [5] . Toutefois, s’il y a un changement de situation, un contribuable pourrait ne plus être admissible aux sommes déjà versées. C’est ce que le ministre a tenté de déterminer en l’espèce, après que M. Reser a changé son état civil de « séparé » à « marié ».
+[22] L’état civil de M. Reser a changé le 27 juillet 2017. Par conséquent, le ministre devait déterminer de nouveau le droit de M. Reser au crédit pour la TPS.
+[23] En application des définitions et des calculs pertinents de l’article 122.5, les renseignements requis comprenaient à la fois le revenu de M. et de Mme Reser en 2016, malgré le fait qu’ils étaient séparés au cours de cette année d’imposition.
+[24] Un décalage semblable s’est produit dans l’appel de Frenna que notre Cour a tranché [6] . M. Frenna s’est marié en juin 2009. Son droit au crédit pour la TPS pour les périodes de versement du 1er juillet 2009 au 30 juin 2010 avait initialement été calculé en fonction de son revenu de 2008 comme célibataire. Notre Cour a conclu que son admissibilité au crédit pour la TPS devait être recalculée pour inclure le revenu de son épouse pour l’année d’imposition 2008, même s’ils n’étaient pas mariés à ce moment-là [7] .
+[25] Le changement d’état civil de M. Reser le 27 juillet 2017 a eu une incidence semblable sur le calcul de son droit au crédit pour la TPS. Cependant, contrairement à la thèse de l’intimé, il n’a pas d’incidence sur les calculs pour toutes les périodes de versement en cause.
+IV. Le changement d’état civil doit avoir eu lieu « au début » de chacune des quatre périodes de paiement déterminées
+[26] Comme je l’ai mentionné ci-dessus, le crédit pour la TPS est versé chaque trimestre, pour des périodes déterminées commençant en juillet, en octobre, en janvier et en avril. Compte tenu de la date de réconciliation, le changement d’état civil de M. Reser ne s’est pas produit au début de la période déterminée commençant le 1er juillet 2017. Cela n’a d’incidence que sur le début de la prochaine période déterminée, soit le 1er octobre.
+[27] La définition de « proche admissible » au paragraphe 122.5(1) fait référence à l’époux « au début » d’un mois déterminé, et non « au cours » d’un mois déterminé :
+proche admissible Est un proche admissible d’un particulier par rapport à un mois déterminé d’une année d’imposition la personne qui, au début de ce mois, est l’époux ou le conjoint de fait visé du particulier. [Non souligné dans l’original.]
+[28] L’admissibilité au crédit pour la TPS pour un mois déterminé particulier est fondée sur des situations familiales survenues avant la fin de la période mensuelle déterminée précédente [8] .
+[29] Par conséquent, le changement d’état civil de M. et Mme Reser à la fin du mois de juillet 2017 n’a eu d’incidence que sur le mois déterminé commençant le 1er octobre 2017. Le revenu de Mme Reser pour 2016 devait donc être inclus dans le calcul du droit au crédit pour la TPS de M. Reser pour les trois périodes de versement commençant le 1er octobre 2017 et prenant fin le 30 juin 2018.
+[30] Cependant, le cas qui nous occupe est compliqué davantage par le fait que Mme Reser ne résidait pas au Canada en 2016.
+V. Un revenu de non-résident est requis pour le calcul du crédit pour la TPS
+[31] Bien que M. et Mme Reser ne soient pas d’accord avec l’application du paragraphe 122.5(6.2), cette disposition présume que le revenu de non-résidente de Mme Reser fait partie de son revenu pour l’année aux fins du calcul de leurs droits respectifs au crédit pour la TPS :
+Non-résidents et résidents pendant une partie de l’année seulement
+122.5(6.2) Pour l’application du présent article, le revenu d’une personne qui ne réside pas au Canada à un moment d’une année d’imposition est réputé être le montant qui correspondrait à son revenu pour l’année si elle résidait au Canada tout au long de l’année.
+[32] La note explicative du ministère des Finances pour la disposition décrit l’intention du législateur selon laquelle le revenu mondial d’un contribuable doit être utilisé dans le calcul du crédit pour la TPS [9] :
+Le nouveau paragraphe 122.5(6.2) de la Loi précise que, lorsqu’une personne ne réside pas au Canada tout au long d’une année d’imposition, le revenu de cette personne pour l’année aux fins du calcul du CTPS est, pour plus de précisions, égal au montant qui aurait été le revenu de la personne pour l’année si elle avait résidé au Canada tout au long de l’année.
+[33] Par conséquent, le revenu de non-résidente de Mme Reser pour l’année d’imposition 2016 doit être inclus dans le calcul du crédit pour la TPS auquel son époux a droit pour les périodes de versement commençant le 1er octobre 2017 et se terminant le 30 juin 2018.
+[34] De plus, le revenu de non-résidente de Mme Reser pour l’année d’imposition 2017 doit être inclus dans le calcul du crédit pour la TPS auquel elle a droit pour les périodes de versement commençant le 1er juillet 2018 et prenant fin le 30 juin 2019.
+[35] Pour étayer leurs thèses dans les appels, M. et Mme Reser ont tenté de s’appuyer sur les principes fiscaux généraux concernant la résidence, de même que sur les montants de revenu déterminés dans des appels distincts concernant le supplément de revenu garanti qu’ils avaient précédemment déposés auprès de la Cour [10] . Cependant, ces principes généraux d’établissement d’une cotisation et les montants calculés en application de lois distinctes ne sont pas pertinents pour les calculs requis du crédit pour la TPS. Les dispositions relatives au crédit pour la TPS de la Loi de l’impôt sur le revenu énoncent clairement les montants requis pour calculer l’admissibilité d’un contribuable à cette fin précise.
+VI. Conclusion – De nouveaux calculs de crédit pour la TPS sont requis
+[36] Le ministre a réduit à zéro les crédits pour la TPS de M. et Mme Reser pour le motif qu’ils ont refusé de fournir des renseignements concernant le revenu de non-résidente de Mme Reser pour 2016 et 2017.
+[37] Cependant, lors du contre-interrogatoire, Mme Reser a estimé que ses allocations de logement et son salaire aux Émirats arabes unis pour 2016 s’élevaient à 90 000 $. Elle a estimé le même montant annuel pour 2017, mais l’a actualisé pour une partie de l’année avant son retour au Canada en juillet.
+[38] J’accepte ces sommes, malgré l’argument de l’avocate de l’intimé selon lequel des renseignements supplémentaires et des pièces justificatives étaient nécessaires. Comme je l’ai mentionné précédemment, j’estime que Mme Reser était un témoin crédible et fiable. L’avocate de l’intimé n’a pas sondé ni mis en doute l’estimation fournie par Mme Reser. L’avocate n’aurait pas dû poser la question si elle n’était pas disposée à accepter la réponse [11] .
+[39] Par conséquent, le ministre ne peut plus affirmer qu’il ne dispose pas de tous les renseignements nécessaires pour calculer le revenu familial net de M. et Mme Reser pour les années d’imposition 2016 et 2017.
+[40] Je renvoie donc l’affaire au ministre pour un nouvel examen et une nouvelle détermination des éléments suivants :
+(a) L’admissibilité de M. Reser au crédit pour la TPS pour les périodes de versement du 1er octobre 2017 au 30 juin 2018, en tenant compte du revenu de non-résidente de Mme Reser de 90 000 $ pour l’année 2016
+(b) L’admissibilité de Mme Reser au crédit pour la TPS pour les périodes de versement du 1er juillet 2018 au 30 juin 2019, en tenant compte de son revenu de non-résidente de 45 000 $ pour l’année 2017 [12] .
+[41] Ce faisant, je ne présuppose pas que M. et Mme Reser ont droit au crédit pour la TPS [13] . Au contraire, cette décision est fondée sur ma conclusion selon laquelle les montants du revenu de non-résidente de Mme Reser sont désormais connus et que des déterminations finales peuvent être établies pour régler les questions en litige des présents appels.
+Signé à Ottawa, Canada, ce 13e jour de février 2023.
+« Joanna Hill »
+La juge Hill
+Annexe « A »
+122.5 (1) définitions de « revenu rajusté » et de « proche admissible » :
+revenu rajusté En ce qui concerne un particulier pour une année d’imposition par rapport à un mois déterminé de l’année, le total de son revenu pour l’année et du revenu pour l’année de son proche admissible par rapport à ce mois, calculés chacun comme si, dans le calcul de ce revenu, aucune somme :
+a) n’était incluse :
+(i) en application de l’alinéa 56(1)q.1) ou du paragraphe 56(6),
+(ii) au titre d’un gain provenant d’une disposition de bien à laquelle s’applique l’article 79,
+(iii) au titre d’un gain visé au paragraphe 40(3.21);
+(b) n’était déductible en application des alinéas 20(1)ww) ou 60y) ou z).
+proche admissible Est un proche admissible d’un particulier par rapport à un mois déterminé d’une année d’imposition la personne qui, au début de ce mois, est l’époux ou le conjoint de fait visé du particulier.
+Montant réputé versé au titre de l’impôt
+122.5(3) Le particulier admissible par rapport à un mois déterminé d’une année d’imposition qui produit une déclaration de revenu pour l’année est réputé avoir payé au cours de ce mois, au titre de son impôt payable en vertu de la présente partie pour l’année, un montant égal au quart du montant obtenu par la formule suivante :
+A - B
+où :
+A représente la somme des montants suivants :
+a) 213 $,
+b) 213 $ pour son proche admissible par rapport à ce mois,
+c) 213 $, s’il n’a pas de proche admissible par rapport à ce mois, mais peut déduire un montant pour l’année en application du paragraphe 118(1), par l’effet de l’alinéa 118(1)b), pour une de ses personnes à charge admissibles par rapport à ce mois,
+d) le produit de la multiplication de 112 $ par le nombre de ses personnes à charge admissibles par rapport à ce mois, à l’exclusion d’une telle personne pour laquelle un montant est inclus par application de l’alinéa c) dans le calcul du total pour le mois déterminé,
+e) si, par rapport à ce mois, il n’a pas de proche admissible, mais a une ou plusieurs personnes à charge admissibles, 112 $,
+f) si, par rapport à ce mois, il n’a ni proche admissible ni personne à charge admissible, 112 $ ou, s’il est moins élevé, le montant représentant 2 % de l’excédent éventuel de son revenu pour l’année sur 6 911 $;
+B 5 % de l’excédent éventuel de son revenu rajusté pour l’année par rapport à ce mois sur 27 749 $.
+Mois déterminés
+122.5(4) Pour l’application du présent article, les mois déterminés d’une année d’imposition sont juillet et octobre de l’année d’imposition suivante et janvier et avril de la deuxième année d’imposition suivante.
+Avis au ministre
+122.5(6.1) Un particulier est tenu d’aviser le ministre des événements ci-après avant la fin du mois suivant celui où l’événement se produit :
+a) le particulier cesse d’être un particulier admissible;
+b) une personne devient le proche admissible du particulier ou cesse de l’être;
+c) une personne cesse d’être une personne à charge admissible du particulier pour une autre raison que celle d’avoir atteint l’âge de 19 ans.
+Non-résidents et résidents pendant une partie de l’année seulement
+122.5(6.2) Pour l’application du présent article, le revenu d’une personne qui ne réside pas au Canada à un moment d’une année d’imposition est réputé être le montant qui correspondrait à son revenu pour l’année si elle résidait au Canada tout au long de l’année.
+RÉFÉRENCE :
+2023 CCI 22
+Nº DU DOSSIER DE LA COUR :
+2019-3850(IT)I et 2019-3821(IT)I
+INTITULÉ :
+VIVIANA RESER ET CLARENCE RESER c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 15 septembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Joanna Hill
+DATE DU JUGEMENT :
+Le 13 février 2023
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocate de l’intimé :
+Me Tawni Proctor
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la définition de « mois déterminés » au paragraphe 122.5(4) et la formule utilisée pour calculer le crédit au paragraphe 122.5(3).
+[2] Voir la définition de « mois déterminés » au paragraphe 122.5(4).
+[3] Voir les définitions de « revenu rajusté » et de « proche admissible » au paragraphe 122.5(1), et la définition d’« époux ou conjoint de fait visé » ainsi que la formule pour calculer le crédit au paragraphe 122.5(3).
+[4] McFadyen c. Canada, [2000] A.C.I. no 145, par. 10.
+[5] Frenna c. La Reine, 2011 CCI 411, par. 8.
+[6] Ibid., aux paragraphes 8 à 10.
+[7] Ibid., aux paragraphes 10 et 11.
+[8] Kervin c. Sa Majesté la Reine, 2006 CCI 697, par. 9.
+[9] Historical Explanatory Notes, Non-residents and part-year residents, projet de loi C-49; L.C. 2002, ch. 9, par. 38(2), publié par CCH AnswerConnect.
+[10] Les appels interjetés à l’égard du supplément de revenu garanti de M. et Mme Reser, 2019-3366(OAS) et 2019‑3367(OAS), ont été réglés sur consentements à jugement décrivant leur revenu commun pour des périodes de versement précises pour l’application de ce régime de prestations législatives particulier.
+[11] Notamment, Mme Reser n’a pas voulu répondre à la question, mais je lui ai demandé de le faire pour le motif que les renseignements étaient pertinents pour les appels.
+[12] Un montant de 90 000 $ divisés par 2, pour les six mois de janvier à juin 2017, avant que Mme Reser ne prenne sa retraite
+[13] L’intimé n’a présenté aucun élément de preuve concernant les montants maximaux du revenu familial net pour les années en cause qui rendraient autrement M. et Mme Reser inadmissibles au crédit pour la TPS.

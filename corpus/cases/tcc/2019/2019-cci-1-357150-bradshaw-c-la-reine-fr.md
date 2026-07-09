@@ -1,0 +1,276 @@
+---
+title: "Bradshaw c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/357150/index.do"
+last_modified: "2019-01-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 1"
+citation2: ""
+neutral_citation: "2019 CCI 1"
+decision_date: "2019-01-03"
+language: "fr"
+item_id: "357150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4997
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:28:33.708000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76272d3c44f6216b52a6cbbdcb931557d4ef1c4ff6073dcfc5a5a4daf83580da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bradshaw c. La Reine
+
+- Citation: 2019 CCI 1
+- Decision date: 2019-01-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4997, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradshaw c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-03
+Référence neutre
+2019 CCI 1
+Numéro de dossier
+2012-4744(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4744(IT)G
+ENTRE :
+JEFF BRADSHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 septembre 2018, à Hamilton (Ontario).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelant :
+Me Craig Burley
+Avocate de l’intimée :
+Me Meaghan Mahadeo
+JUGEMENT
+Le présent appel visant les nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 est rejeté, conformément aux motifs du jugement ci-joints.
+Les dépens calculés conformément au tarif sont adjugés à l’intimée.
+Signé à Montréal (Québec), ce 3e jour de janvier 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de décembre 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2019 CCI 1
+Date : 20190103
+Dossier : 2012-4744(IT)G
+ENTRE :
+JEFF BRADSHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Aperçu
+[1] La seule question à trancher en l’espèce est de savoir si l’appelant a fait, « sciemment ou dans des circonstances équivalant à faute lourde », de faux énoncés dans ses déclarations de revenus pour les années d’imposition 2008 et 2009.
+[2] L’appelant a déclaré d’importantes pertes d’entreprise nettes fictives lors des deux années d’imposition en question : 821 022,48 $ en 2008 et 89 982,16 $ en 2009.
+[3] En raison de ces pertes, l’appelant a demandé des remboursements de 29 547,08 $ et de 26 357,56 $, respectivement, pour les années d’imposition 2008 et 2009.
+[4] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations pour les années d’imposition 2008 et 2009 de l’appelant et lui a imposé les pénalités prévues au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »), pour avoir fait, « sciemment ou dans des circonstances équivalant à faute lourde », de faux énoncés dans ses déclarations de revenus pour les années visées.
+[5] L’appelant admet qu’il y avait de faux énoncés dans ses déclarations de revenus pour les années d’imposition 2008 et 2009 et qu’il n’avait pas le droit de déclarer des pertes d’entreprise et de demander des remboursements pour ces années. Il n’admet toutefois pas avoir fait ces faux énoncés « sciemment ou dans des circonstances équivalant à faute lourde ». Il affirme plutôt avoir été dupé par un groupe connu sous le nom de Fiscal Arbitrators.
+II. Les faits
+[6] L’appelant et son frère, Jason Bradshaw, sont propriétaires exploitants de Bradshaw Ironworks Ltd., une entreprise de fabrication d’acier (« Bradshaw Ironworks » ou « la société »). Ils exploitent Bradshaw Ironworks depuis 2000.
+[7] Au cours des années d’imposition en question, les deux frères participaient à la gestion de la société. L’appelant était responsable de l’aspect opérationnel de la société alors que son frère s’occupait des finances.
+[8] L’appelant était un employé de Bradshaw Ironworks. Il détenait le titre de [traduction] « chef d’atelier ». À ce titre, il recevait un salaire et des primes. Ses responsabilités consistaient entre autres à établir les horaires et à superviser le travail d’une équipe pouvant compter jusqu’à douze employés, à déléguer des tâches et à veiller au respect des procédures de sécurité.
+[9] Les frères se rencontraient quotidiennement pour discuter du déroulement des affaires au sein de la société. L’appelant a déclaré qu’il était important pour lui de savoir si la société faisait ou perdait de l’argent.
+[10] L’appelant a témoigné que, pendant plusieurs années, il avait fait appel au même cabinet comptable que la société, c’est-à-dire le cabinet Wormald Masse Keen Lopinski (« WMLK ») pour préparer ses déclarations de revenus. WMLK demandait entre 5000 $ et 6000 $ par année pour préparer les déclarations de revenus de la société, de l’appelant et de son frère. L’appelant a affirmé que, lorsque M. Keen de WMLK lui remettait sa déclaration de revenus pour qu’il la signe, il la survolait et posait des questions sur tout montant important qui attirait son attention.
+[11] À la fin de 2008, l’appelant a découvert Fiscal Arbitrators par l’entremise de David et Carol Braund. L’appelant a rencontré les Braund à un séminaire sur un programme de dons.
+[12] Larry Watts et Carlton Branch étaient les dirigeants de Fiscal Arbitrators. L’appelant a assisté à trois séminaires de Fiscal Arbitrators. De 50 à 100 personnes assistaient aux séminaires.
+[13] L’appelant a été impressionné par le professionnalisme de M. Watts ainsi que par ses connaissances de la Loi. Il a affirmé que M. Watts était capable de répondre à toutes les questions posées par les personnes qui assistaient aux séminaires et que toutes ses réponses semblaient plausibles.
+[14] L’appelant a fait appel à Fiscal Arbitrators pour préparer sa déclaration de revenus personnelle pour l’année d’imposition 2008. À cette fin, il a fourni à M. Watts l’ensemble des renseignements nécessaires pour la préparation de la déclaration, dont ses reçus de dépenses personnelles.
+[15] L’appelant a témoigné qu’il ne se rappelait pas des détails de la méthode de déclaration de Fiscal Arbitrators, mais qu’elle lui semblait plausible à l’époque. Cependant, l’appelant a retenu des séminaires qu’il aurait droit à des remboursements importants s’il faisait appel à Fiscal Arbitrators pour préparer sa déclaration de revenus. Selon la méthode de déclaration de Fiscal Arbitrators, les remboursements de l’appelant se sont élevés à 29 547,08 $ et à 26 357,56 $ pour les années d’imposition 2008 et 2009, respectivement.
+[16] Pour préparer les déclarations de revenus de l’appelant, Fiscal Arbitrators exigeait des honoraires équivalant à 20 % des remboursements. Bien que l’appelant ait trouvé ces honoraires élevés, il les avait jugés acceptables à l’époque, compte tenu du montant du remboursement qu’il s’attendait à recevoir. Pour l’année d’imposition 2008, Fiscal Arbitrators aurait facturé à l’appelant des honoraires d’environ 5900 $ pour préparer sa déclaration de revenus.
+[17] Après avoir rempli la déclaration de revenus de 2008 de l’appelant, Fiscal Arbitrators la lui a fait parvenir par la poste. L’appelant était prié d’examiner sa déclaration et de la transmettre à l’Agence du revenu du Canada (l’« ARC »). La déclaration était accompagnée d’une lettre de Fiscal Arbitrators qui donnait la directive suivante à l’appelant :
+[traduction]
+Veuillez examiner attentivement votre déclaration avant de la produire afin de vous assurer qu’elle est complète et exacte.
+[18] La lettre demandait à l’appelant d’ajouter [traduction] « par » devant sa signature sur la déclaration de revenus ainsi que sur le formulaire de demande de report rétrospectif d’une perte. La lettre précisait également que, si l’appelant recevait des demandes de renseignements de la part de l’ARC, sa seule réponse devrait être de demander à l’ARC de lui faire parvenir la question par écrit. Il devait alors transmettre la question à Fiscal Arbitrators, laquelle l’aiderait à rédiger une réponse convenable. L’appelant a dit avoir suivi ces instructions, bien qu’il les ait trouvées étranges.
+[19] Pour l’année d’imposition 2008, l’appelant a déclaré une perte d’entreprise nette de 821 022,48 $ pour un revenu négatif total de 652 918,52 $. L’appelant a utilisé 163 649,48 $ de la perte d’entreprise pour la déduire de son revenu de 2008. L’appelant a aussi rempli une demande de report rétrospectif d’une perte visant à reporter le solde inutilisé de 657 373,00 $ et à l’appliquer à ses années d’imposition 2005, 2006 et 2007.
+[20] L’appelant a déclaré avoir trouvé étrange qu’une perte d’entreprise soit inscrite dans sa déclaration de revenus, puisqu’il n’exploitait pas d’entreprise.
+[21] Le 16 décembre 2009, l’appelant a reçu une lettre de l’ARC lui demandant de fournir des documents faisant état de son revenu d’entreprise brut de 198 362,70 $ et de sa perte d’entreprise nette de 821 022,55 $.
+[22] Suivant les instructions de Fiscal Arbitrators, l’appelant a transmis la lettre de l’ARC à M. Watts de Fiscal Arbitrators.
+[23] En réponse à la lettre de l’ARC, Fiscal Arbitrators a préparé pour l’appelant une lettre qu’il devait transmettre à l’ARC. La lettre était datée du 11 janvier 2010. L’appelant a signé la lettre de la façon proposée par Fiscal Arbitrators, c’est-à-dire ainsi : [traduction] « Par : Jeff Bradshaw, représentant autorisé sans recours, tous droits réservés, dispensé de cotisation, non sous toutes réserves. » La lettre ne répondait pas à la demande de documentation de l’ARC.
+[24] Le 21 mai 2010, l’ARC a envoyé à l’appelant un avis de cotisation préliminaire pour l’année d’imposition 2008, indiquant que la perte d’entreprise déclarée ne serait pas reconnue et donc que sa demande de report rétrospectif de perte serait refusée. L’ARC a aussi informé l’appelant qu’une pénalité lui serait imposée comme le prévoit le paragraphe 163(2) de la Loi pour l’année d’imposition 2008. L’avis comportait l’avertissement suivant :
+[traduction]
+L’ARC n’entérine pas la participation à des stratagèmes visant à éviter de verser des impôts sur le revenu dans le cadre desquels le contribuable se désigne lui-même comme étant le mandataire du mandant.
+[25] L’appelant a affirmé qu’il a probablement lu la lettre de l’ARC, mais qu’il l’a transmise à Fiscal Arbitrators comme on le lui avait demandé. Malgré la lettre de l’ARC, l’appelant a une fois de plus eu recours aux services de Fiscal Arbitrators pour la préparation de sa déclaration de revenus en 2009. La déclaration a été présentée à l’ARC le 7 juin 2010.
+[26] Dans sa déclaration de revenus de 2009, l’appelant a déclaré correctement des revenus d’emploi, des dividendes, des revenus de placement, des revenus de société de personnes et des revenus de location. L’appelant a aussi déclaré des revenus d’entreprise fictifs de 119 608,68 $ et une perte d’entreprise nette fictive de 89 982,16 $ pour un revenu total de 11 381,13 $.
+[27] L’appelant a reçu un remboursement de 29 457,08 $ pour l’année d’imposition 2008.
+[28] Le 22 juillet 2010, l’ARC a écrit à l’appelant pour lui demander de fournir des documents prouvant la perte d’entreprise qu’il avait déclarée pour l’année d’imposition 2009.
+[29] L’appelant a transmis la lettre de l’ARC à Fiscal Arbitrators.
+[30] Il a déclaré n’avoir jamais reçu autant de lettres de l’ARC.
+[31] Le 24 octobre 2010, une nouvelle cotisation a été établie à l’égard de l’année d’imposition 2008 de l’appelant. Dans la nouvelle cotisation, la perte d’entreprise fictive n’a pas été reconnue et une pénalité de 142 164,36 $ a été imposée en vertu du paragraphe 163(2) de la Loi. La pénalité a par la suite été réduite de 28 507,61 $.
+[32] Le 31 janvier 2011, une nouvelle cotisation a été établie à l’égard de l’année d’imposition 2009 de l’appelant. Dans la nouvelle cotisation, la perte d’entreprise fictive n’a pas été reconnue et une pénalité de 24 881,84 $ a été imposée en vertu du paragraphe 163(2) de la Loi. La pénalité a par la suite été réduite de 16 799,14 $.
+[33] Le 17 mars 2011, Fiscal Arbitrators a préparé des avis d’opposition pour les années d’imposition 2008 et 2009 de l’appelant. Sur les avis d’opposition, l’appelant s’est désigné lui-même comme étant un [traduction] « représentant autorisé ». Le mot [traduction] « par » se trouvait devant sa signature.
+[34] L’appelant a déclaré avoir lu les avis d’opposition avant de les signer, mais n’en avoir pas compris le contenu.
+[35] Après avoir reçu les avis d’opposition, l’ARC a envoyé à l’appelant, le 22 août 2011, le 30 septembre 2011 et le 9 novembre 2011, des lettres lui demandant de fournir des documents prouvant ses pertes d’entreprise.
+[36] Fiscal Arbitrators a répondu aux lettres de l’ARC le 15 septembre 2011, le 14 octobre 2011 et le 24 novembre 2011. Les lettres de réponse ont été envoyées [traduction] « pour le compte de Jeff Bradshaw, ens legis ». Les lettres ne répondaient pas à la demande de documentation de l’ARC.
+III. Analyse
+A. Le droit applicable
+[37] Les dispositions de la Loi qui s’appliquent en l’espèce sont les paragraphes 163(2) et (3), qui sont rédigés ainsi :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...]
+[...]
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[38] Aux termes du paragraphe 163(3) de la Loi, l’intimée a la charge d’établir, selon la prépondérance des probabilités, les faits qui justifient l’imposition de la pénalité à l’appelant en vertu du paragraphe 163(2) de la Loi.
+[39] En l’espèce, l’intimée a donc le fardeau d’établir :
+– que l’appelant a fait un faux énoncé dans ses déclarations de revenus;
+– que l’appelant l’a fait sciemment ou dans des circonstances équivalant à faute lourde.
+[40] Dans l’arrêt Wynter c. La Reine [1] , le juge Rennie, dans une décision unanime de la Cour d’appel fédérale, a déclaré ce qui suit sur le sens à donner aux termes « sciemment » et « faute lourde » utilisés au paragraphe 163(2) de la Loi :
+[11] Lorsque le législateur utilise d’autres termes, il est présumé avoir eu l’intention de prêter des sens différents à ces termes. En d’autres mots, le législateur ne se répète pas : voir Ruth Sullivan, Statutory Interpretation, 3e éd. (Toronto : Irwin Law Inc., 2016), à la page 43. L’article 163 permet l’imposition de pénalités dans les cas où le contribuable a connaissance des faits ou dans des circonstances équivalant à faute lourde. L’article n’est pas conjonctif, et ces deux termes sont présumés avoir un sens et une teneur différents.
+[12] La distinction entre la faute lourde — établie par une appréciation objective du comportement du contribuable — et l’ignorance volontaire (également appelée « aveuglement volontaire ») — établie par renvoi à l’état d’esprit subjectif du contribuable — ne date pas d’hier. Il est vrai qu’il s’agit parfois d’une distinction ténue qui n’est pas toujours clairement établie. Néanmoins, le législateur est présumé avoir été au courant de cette distinction.
+[41] Dans l’arrêt Wynter, le juge Rennie explique que l’on considère qu’un contribuable a agi « sciemment » non seulement lorsqu’il a réellement l’intention de faire un faux énoncé, mais également lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Dans ces circonstances, le principe de l’ignorance volontaire impute une connaissance au contribuable :
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée : R. c. Briscoe, 2010 CSC 13 (CanLII), aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la doctrine de l’ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21. L’ignorance volontaire est la doctrine ou le mécanisme par lequel l’élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[...]
+[16] En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d’une intention de tromper.
+[17] Bien que la preuve, par exemple, de l’intention réelle de faire un faux énoncé suffirait à satisfaire à l’exigence que la personne doit avoir agi « sciemment » aux termes du paragraphe 163(2), l’exigence que l’intention de tromper soit prouvée pour établir l’ignorance volontaire ne trouve pas appui dans la jurisprudence bien établie selon laquelle l’ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d’éviter de vérifier ce qui pourrait être une vérité gênante. L’élément factuel essentiel consiste en une conclusion d’« ignorance délibérée », étant donné que cette expression « suggère l’idée d’[traduction] “un processus réel de suppression des soupçons” » : Briscoe, au paragraphe 24. J’ajouterais que, dans le contexte du paragraphe 163(2), les renvois à l’« intention de tromper » créent une distraction. L’élément essentiel de l’infraction visée au paragraphe 163(2) consiste à faire un faux énoncé, sachant (réellement ou implicitement, c’est-à-dire par ignorance volontaire) qu’il est faux.
+[42] Comme l’affirme le juge Rennie dans l’arrêt Wynter, le critère de la « faute lourde » se distingue de celui de « l’ignorance volontaire ». La faute lourde se manifeste lorsque la conduite d’un contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre d’un contribuable raisonnable. En termes simples, alors que le contribuable agissant par ignorance volontaire savait qu’il devait faire mieux, le contribuable coupable d’une faute lourde aurait dû le savoir.
+[43] La décision de principe sur ce qu’est la faute lourde au sens du paragraphe 163(2) de la Loi est la décision de la Cour fédérale Venne c. La Reine [2] . Le juge Strayer a décrit ce en quoi consiste la faute lourde dans les termes suivants :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré d’important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[44] Pour établir qu’il y a eu ignorance volontaire, l’intimée doit prouver, selon la prépondérance des probabilités, que le contribuable savait personnellement que les énoncés présents dans sa déclaration de revenus étaient faux, mais qu’il a choisi de ne pas se renseigner davantage, parce qu’il savait personnellement ou soupçonnait fortement qu’il découvrirait des renseignements qui confirmeraient que les énoncés étaient bel et bien faux [3] . Étant donné qu’il s’agit d’un critère subjectif, les qualités personnelles du contribuable peuvent être prises en considération pour déterminer si celui-ci fait preuve d’ignorance volontaire [4] .
+[45] À l’opposé, la norme de la « faute lourde » est un critère objectif. Pour établir qu’il y a eu faute lourde, il faut tenir compte de la conduite à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. Par conséquent, les qualités personnelles du contribuable ne doivent pas être prises en compte [5] . La Cour a déclaré qu’il incombe à la Couronne de prouver, selon la prépondérance des probabilités, que la conduite du contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. Dans la décision Sidhu c. La Reine [6] , le juge Hershfield a ajouté ce qui suit :
+Le fardeau de la preuve ne consiste pas à prouver au-delà du doute raisonnable l’intention coupable de se soustraire au paiement de l’impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l’égard de la diligence appropriée et raisonnable dans le contexte d’un système d’autocotisation qui contredit et insulte le sens commun.
+B. Les thèses des parties et application du droit aux faits
+(1) La notion de « sciemment » et l’application du principe de l’ignorance volontaire
+[46] Je vais commencer par déterminer si l’appelant a « sciemment » fait de faux énoncés dans ses déclarations de revenus au sens du paragraphe 163(2) de la Loi. Plus précisément, je vais déterminer si le principe de l’ignorance volontaire s’applique aux faits en l’espèce.
+[47] L’intimée soutient que l’appelant a fait preuve d’ignorance volontaire. L’appelant a admis avoir trouvé étranges les instructions que Fiscal Arbitrators lui avaient données. Il a aussi admis avoir demandé plus d’une fois à M. Watts de Fiscal Arbitrators si ses déclarations de revenus étaient légales. Même s’il avait des doutes, l’appelant a choisi de ne pas se renseigner sur la méthode de déclaration de Fiscal Arbitrators. De plus, les faux énoncés présents dans les déclarations de revenus de l’appelant étaient facilement décelables. L’appelant savait qu’il n’avait pas exploité d’entreprise au cours des années d’imposition 2008 et 2009. En dépit de ce fait, l’appelant a signé et produit des déclarations de revenus où il déclarait d’importantes pertes d’entreprise. L’intimée soutient également que les renseignements contenus dans l’état des activités de mandataire joint aux déclarations de revenus de l’appelant étaient non seulement incompréhensibles, mais aussi manifestement faux. L’intimée affirme que les faits démontrent que l’appelant a choisi d’ignorer les signaux d’alerte et les avertissements qui indiquaient à l’appelant qu’il devrait se renseigner. Elle soutient que l’appelant a fait preuve d’ignorance volontaire.
+[48] En réplique, l’appelant soutient que la Cour doit tenir compte du fait qu’il a un niveau d’instruction qui correspond à une dixième année et qu’il ne s’y connaît pas vraiment en matière fiscale. Il n’a jamais produit ses propres déclarations de revenus; il a toujours fait appel à un spécialiste pour le faire. L’appelant a assisté à trois séminaires de Fiscal Arbitrators et il a été impressionné par le professionnalisme de M. Watts, par sa connaissance de la Loi ainsi que par la façon dont il avait été capable de répondre aux questions des personnes présentes. Par conséquent, l’appelant n’avait aucune raison de ne pas faire confiance à M. Watts et à la méthode de déclaration utilisée par Fiscal Arbitrators. L’appelant croyait qu’il était en droit de recevoir des remboursements et que la méthode de déclaration utilisée par Fiscal Arbitrators était légale.
+[49] L’appelant soutient qu’il ne savait pas qu’il avait fait de faux énoncés dans ses déclarations de revenus de 2008 et de 2009 et qu’il n’a pas fait preuve d’ignorance volontaire.
+[50] L’appelant soutient également qu’il n’a pas ignoré les signaux d’alerte et les avertissements. Lorsqu’est venu le temps d’examiner sa déclaration de revenus de 2008, il a demandé pourquoi une perte d’entreprise avait été déclarée. Il a appelé M. Watts de Fiscal Arbitrators, qui lui a assuré qu’il était possible de déclarer une perte d’entreprise. Il a également demandé pourquoi il devait ajouter le mot [traduction] « par » devant sa signature. L’appelant a déclaré que les réponses de M. Watts à ses questions lui semblaient plausibles à l’époque.
+[51] Il en était de même pour l’année d’imposition 2009. À ce moment-là, l’appelant avait encore plus confiance en la méthode de Fiscal Arbitrators, puisqu’il avait reçu depuis un remboursement pour l’année d’imposition 2008.
+[52] Comme je l’ai dit plus tôt, le droit attribue une connaissance au contribuable lorsque les circonstances factuelles lui commandent de se renseigner, mais qu’il décide de ne pas le faire parce qu’il sait ou soupçonne fortement qu’il découvrira des renseignements qui confirmeront que les énoncés sont bel et bien faux. Dans de telles circonstances, le contribuable fait preuve d’ignorance volontaire. Dans la décision Torres c. La Reine [7] , le juge C. Miller de notre Cour a dû décider si le principe de l’ignorance volontaire s’appliquait à un groupe de contribuables qui avaient eu recours aux services de Fiscal Arbitrators pour produire leurs déclarations de revenus. Il a établi une liste de facteurs à prendre en considération pour déterminer si le principe de l’ignorance ou aveuglement volontaire s’appliquait au contribuable :
+[...]
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouges clairs », expression que j’employais à l’occasion de l’affaire Bhatti, comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers ou auprès de l’ARC elle-même.
+(2) Le niveau d’instruction et l’expérience
+[53] Même si l’appelant a un niveau d’instruction n’équivalant qu’à une dixième année, il possède une vaste expérience dans le monde des affaires et il y a obtenu du succès. Il travaillait pour Bradshaw Ironworks depuis ses 18 ans et il en était le propriétaire-exploitant aux côtés de son frère depuis 2000. L’appelant avait d’importantes responsabilités chez Bradshaw Ironworks. Il devait entre autres superviser des employés, déléguer des tâches, établir l’horaire de travail des employés et veiller à ce que les mesures de sécurité soient appliquées. Il rencontrait également son frère quotidiennement pour discuter des affaires de la société, y compris des questions financières. Il a déclaré qu’il était important pour lui de savoir si la société faisait ou perdait de l’argent. L’appelant a clairement su pallier son manque d’instruction par l’expérience.
+[54] De plus, les déclarations de revenus produites par l’appelant au fil des années reflètent son côté entrepreneur. Ses déclarations de revenus de 1987 à 2009 font état non seulement de revenus et de primes provenant de son emploi, mais aussi de revenus tirés de dividendes, d’intérêts, de gains en capital et de ventes d’actions. Ses déclarations de revenus ont également fait état de pertes liées à des sociétés de personnes ainsi que de revenus et de pertes de location.
+[55] Je suis d’avis que l’appelant ne peut invoquer son manque d’instruction pour affirmer qu’il n’a pas fait preuve d’ignorance volontaire. Comme je l’ai déjà fait observer, il est un homme d’affaires expérimenté. L’appelant savait pertinemment qu’il ne pouvait pas déduire des pertes d’entreprise, puisqu’il n’exploitait pas d’entreprise. L’appelant a reconnu qu’il savait que les pertes n’avaient rien à voir avec Bradshaw Ironworks. Il savait ce que signifie être un mandataire. Il savait également faire la distinction entre le fait d’être un employé et d’être un entrepreneur. Il comprenait les notions de profit et de perte, puisqu’il était important pour lui de savoir si Bradshaw Ironworks [traduction] « faisait ou perdait de l’argent ».
+(3) La nécessité de s’informer ou le soupçon d’une telle nécessité
+[56] L’appelant soutient qu’il s’est informé sur les renseignements contenus dans ses déclarations de revenus produites par Fiscal Arbitrators. Il affirme que, lorsqu’il a remarqué que sa déclaration de revenus de 2008 faisait état d’une perte d’entreprise de 821 022,50 $, il a appelé M. Watts de Fiscal Arbitrators afin de savoir pourquoi il déclarait cette perte. À cela, M. Watts a répondu à l’appelant [traduction] : « Chacun de nous est une société. » L’appelant n’a pas remis en question la réponse de M. Watts. Il a témoigné qu’à ce moment-là, il était satisfait de la réponse. Cependant, il a admis en contre-interrogatoire qu’il savait que les employés de Bradshaw Ironworks n’étaient pas des sociétés. Je suis d’avis que la réponse fournie par M. Watts aurait dû inciter l’appelant à se renseigner sur la méthode de déclaration de Fiscal Arbitrators.
+[57] De plus, l’appelant a déclaré avoir demandé à plusieurs reprises à M. Watts si [traduction] « sa déclaration de revenus était légale ». M. Watts lui a répondu qu’elle était [traduction] « parfaitement légale ». Il ressort clairement de la preuve que l’appelant avait des doutes. Il continuait de poser les mêmes questions parce qu’il doutait de la légitimité de la méthode de déclaration de Fiscal Arbitrators. Ces doutes auraient dû inciter l’appelant à se renseigner sur la méthode de déclaration de Fiscal Arbitrators.
+[58] Je vais maintenant analyser s’il existait d’autres signaux d’alerte ou avertissements qui auraient dû inciter l’appelant à se renseigner auprès de l’ARC ou d’autres professionnels au sujet de la méthode de déclaration utilisée par Fiscal Arbitrators.
+(i) L’importance de l’avantage
+[59] L’appelant a reconnu qu’il n’exploitait pas d’entreprise durant les années d’imposition 2008 et 2009. Cela dit, au cours des années d’imposition 2008 et 2009, l’appelant a déclaré des pertes d’entreprise nettes de 821 022,50 $ et de 89 982,16 $, respectivement; il a donc demandé des remboursements s’élevant à 29 457,08 $ et à 26 277,53 $, respectivement. Toutefois, les déclarations passées de l’appelant montrent que, de 1987 à 2007, il n’a jamais déclaré de perte d’entreprise et que le plus gros remboursement qu’il ait demandé était de 3 949,66 $.
+[60] De plus, l’appelant a rempli en 2008 une demande de report rétrospectif d’une perte, afin que les sommes de 146 768 $, 267 506 $ et 243 099 $ soient reportées aux années d’imposition 2005, 2006 et 2007, respectivement. Ce report rétrospectif aurait donné lieu au remboursement de tous les impôts sur le revenu payés pour les années d’imposition 2005, 2006 et 2007.
+[61] Soudainement, sans qu’il change quoi que ce soit à ses habitudes de travail ou à ses sources de revenus, en recourant aux services de Fiscal Arbitrators à titre de spécialiste en déclarations, l’appelant serait devenu en droit de déclarer d’importantes pertes d’entreprise et de demander d’importants remboursements pour les années d’imposition 2008 et 2009. En plus de cela, tout l’impôt sur le revenu qu’il avait payé pour les années d’imposition 2005, 2006 et 2007 lui aurait été remboursé. À mon avis, l’importance des sommes déclarées aurait dû inciter l’appelant à se renseigner sur la méthode de déclaration de Fiscal Arbitrators.
+(ii) Le caractère flagrant des faux énoncés et la facilité avec laquelle ils peuvent être décelés
+[62] L’appelant a reconnu qu’il n’exploitait pas d’entreprise durant les années d’imposition 2008 et 2009. Il a aussi reconnu qu’il savait que les pertes d’entreprise n’avaient rien à voir avec Bradshaw Ironworks, puisqu’il y travaillait comme employé.
+[63] Il a également reconnu qu’il n’avait pas touché de revenus pour des services fournis en tant que mandataire au cours des années d’imposition 2008 et 2009. Bien qu’il ait su qu’il n’exploitait pas d’entreprise, l’appelant a signé ses déclarations de revenus faisant état d’importantes pertes d’entreprise pour les années d’imposition 2008 et 2009 sans se renseigner davantage.
+[64] Même si l’appelant croyait qu’il avait droit à d’importants remboursements, il savait que certains des énoncés présents dans ses déclarations de revenus étaient manifestement faux. Les faux énoncés étaient facilement décelables.
+[65] En outre, la lettre qu’il a reçue de l’ARC le 21 mai 2010 ne pouvait être qu’un avertissement. La lettre avisait l’appelant que [traduction] « l’ARC n’entérine pas la participation à des stratagèmes visant à éviter de verser des impôts sur le revenu dans le cadre desquels le contribuable se désigne lui-même comme étant le mandataire du mandant ». De plus, la lettre l’informait que l’ARC envisageait de lui imposer des pénalités en vertu du paragraphe 163(2) de la Loi pour l’année d’imposition 2008. Le 7 juin 2010, deux semaines après avoir reçu la lettre de l’ARC, l’appelant a signé sa déclaration de revenus pour l’année d’imposition 2009, où il a déclaré des revenus fictifs reçus à titre de mandant et des pertes d’entreprise fictives.
+[66] Je suis d’avis qu’il y a suffisamment d’énoncés manifestement faux dans les déclarations de revenus de l’appelant pour les années d’imposition 2008 et 2009 qui auraient dû l’inciter à se renseigner sur la méthode de déclaration utilisée par Fiscal Arbitrators.
+(iii) L’absence, dans la déclaration elle-même, d’une attestation du spécialiste ayant préparé la déclaration
+[67] Dans les déclarations de revenus de l’appelant, ni M. Watts ni un quelconque représentant de Fiscal Arbitrators n’a rempli la case destinée aux professionnels de l’impôt. Cette case, à la dernière page de la déclaration, se trouve à côté de la case où l’appelant a certifié que les renseignements fournis dans la déclaration étaient exacts et où il a daté et signé la déclaration. La case destinée aux professionnels de l’impôt avait été laissée vide. Ce facteur peut sembler mineur, mais, combiné à tous les autres facteurs, il s’agit tout de même d’un autre signal d’alerte duquel l’appelant a choisi de faire abstraction.
+(iv) Les demandes inusitées du spécialiste
+[68] L’appelant a reçu de Fiscal Arbitrators la directive d’ajouter le mot [traduction] « par » devant sa signature dans ses déclarations de revenus. L’appelant a demandé à M. Watts de Fiscal Arbitrators pourquoi il devait faire cela. M. Watts lui a répondu qu’il s’agissait d’une formalité d’ordre technique. L’appelant était satisfait de cette réponse. Néanmoins, l’appelant a admis à l’audience que son spécialiste en déclarations précédent, WMLK, ne lui avait jamais demandé d’ajouter le mot [traduction] « par » devant sa signature.
+[69] De plus, Fiscal Arbitrators a demandé à l’appelant de fournir une liste de ses dépenses personnelles et les reçus afférents pour la préparation sa déclaration de revenus. L’appelant a dit ne pas se souvenir que WMLK lui ait demandé une chose pareille.
+(v) Le fait que le spécialiste était auparavant inconnu du contribuable
+[70] La preuve montre que l’appelant savait peu de choses à propos de Fiscal Arbitrators avant de retenir ses services et qu’il a fait très peu d’efforts pour en apprendre plus.
+[71] Avant novembre 2008, l’appelant ne connaissait ni Fiscal Arbitrators ni ses représentants, M. Watts et M. Branch. C’est à peu près à ce moment que les Braun lui ont parlé de Fiscal Arbitrators. L’appelant a rencontré les Braun lors d’un séminaire faisant la promotion de programmes de dons. L’appelant a déclaré qu’il ne savait pas si les Braun avaient fait appel à Fiscal Arbitrators pour la préparation de leurs déclarations de revenus. Il n’est pas resté en contact avec eux.
+[72] L’appelant n’a pas fait de recherches sur les compétences de Fiscal Arbitrators ni sur celles de M. Watts ou de M. Branch. L’appelant n’a jamais consulté l’ARC ou son spécialiste précédent, WMLK, pour savoir si la méthode de déclaration utilisée par Fiscal Arbitrators était légitime. Tout ce que l’appelant savait de Fiscal Arbitrators était fondé sur les trois séminaires auxquels il avait assisté, lors desquels M. Watts l’avait impressionné par ses connaissances et son habileté à répondre aux questions des personnes présentes.
+[73] Comme l’affirme le juge C. Miller dans la décision Torres [8] , le fait que le spécialiste était auparavant inconnu du contribuable constitue lui aussi « un facteur qui par lui-même ne sonne pas l’alarme très fort, mais, si l’on y ajoute tous les autres facteurs, l’alarme devient assourdissante ». C’est le cas en l’espèce : il s’agit d’un facteur qui augmente le volume de l’alarme.
+(vi) L’explication donnée par le spécialiste concernant les faux énoncés est inintelligible
+[74] L’appelant n’était pas en mesure d’expliquer la méthode de déclaration utilisée par Fiscal Arbitrators. Il n’arrivait pas à expliquer l’état des activités de mandataire joint à sa déclaration de revenus de 2008. Il n’arrivait pas non plus à se rappeler s’il avait posé des questions à M. Watts à propos de l’état des activités de mandataire.
+[75] L’état des activités de mandataire est tout simplement incompréhensible. Il dépasse l’entendement. L’appelant y est inscrit en tant que mandant et mandataire. Le numéro d’assurance sociale de l’appelant est inscrit à côté d’un en-tête intitulé [traduction] « Numéro (d’assurance sociale) de la société ». L’appelant, étant un homme d’affaires, sait que les entreprises n’ont pas de numéro d’assurance sociale. Les revenus bruts portent la description [traduction] « argent perçu auprès de mandants par des mandataires et déclaré par un tiers ». Les revenus bruts sont définis dans l’état des activités de mandataire comme étant des [traduction] « sommes perçues et échangées conformément à un contrat privé ». Aucun contrat n’a été déposé en preuve à l’audience. Des dépenses sont décrites comme étant des [traduction] « contrats de sous-traitance et dépenses salariales – somme versée au mandant en échange de travail » et s’élèvent à 652 918,50 $. À ce montant s’ajoutent les relevés T4, T5 et T3, et une perte d’entreprise nette de 821 022,48 $ a été déclarée.
+[76] La phrase suivante se trouve au bas de l’état des activités de mandataire : [traduction] « Le présent état, préparé par le mandant, est votre reçu original. » À la suite de cette phrase, l’appelant certifie son état des activités de mandataire dans les termes suivants : [traduction] « Je suis le mandant du mandataire, Jeff Bradshaw, et déclare que tous les renseignements fournis sont complets et exacts. »
+[77] Il suffit de jeter un coup d’œil pour voir les signaux d’alerte clignoter. Pourtant, l’appelant a décidé d’en faire fi. Il était tellement emballé par les remboursements qu’il ne voulait pas connaître la vérité sur la méthode utilisée par Fiscal Arbitrators pour produire ses déclarations de revenus. Comme c’était le cas dans l’affaire Torres [9] , tant qu’il y avait des remboursements, l’appelant voulait rester dans l’ignorance :
+Tant que le remboursement est escompté, il n’y a pas lieu de s’arrêter aux détails, telle est l’approche, et pas lieu non plus de chercher à comprendre ce qu’est l’état des activités commerciales ou des activités du mandataire, par exemple, documents dont les appelants ont certifié l’exactitude. Il y a décidément une faille quelque part.
+[78] L’appelant soutient qu’il s’est fait duper par Fiscal Arbitrators et que son intention n’était pas de frauder le système. Comme l’affirme le juge Rennie dans l’arrêt Wynter [10] , l’exigence que l’intention de tromper soit prouvée pour établir l’ignorance volontaire ne trouve pas appui dans la jurisprudence bien établie selon laquelle l’ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d’éviter de vérifier ce qui pourrait être une vérité gênante.
+[79] L’appelant soutient avoir posé des questions. Il a posé des questions à M. Watts quant à certains renseignements se trouvant dans ses déclarations, notamment pourquoi des pertes d’entreprise avaient été déclarées. Je suis d’avis que la réponse de M. Watts à l’appelant aurait dû susciter chez ce dernier plus de doutes et l’inciter à poser plus de questions. L’appelant savait que [traduction] « chacun d’entre nous n’est pas une société ».
+[80] Compte tenu des faits ci-dessus, je suis d’avis que l’appelant a fait preuve d’ignorance volontaire. Malgré les signaux d’alerte évidents qui auraient dû l’inciter à se renseigner davantage, l’appelant a décidé de ne pas le faire parce qu’il ne voulait pas découvrir la vérité au sujet de la méthode de déclaration utilisée par Fiscal Arbitrators tant qu’on lui promettait des remboursements.
+[81] Par conséquent, l’appelant est passible d’une pénalité au titre du paragraphe 163(2) de la Loi pour les années d’imposition 2008 et 2009 du fait qu’il a fait les faux énoncés « sciemment », puisque le principe de l’ignorance volontaire s’applique aux faits en l’espèce.
+(vii) Faux énoncés faits dans des circonstances équivalant à faute lourde
+[82] Dans l’éventualité où la conclusion que j’ai tirée ci-dessus serait incorrecte, l’appelant demeurerait tout de même passible de pénalités au titre de la seconde norme établie par le paragraphe 163(2) de la Loi, c’est-à-dire celle des « faux énoncés faits dans des circonstances équivalant à faute lourde » pour les années d’imposition 2008 et 2009.
+[83] Pour déterminer s’il y a eu faute lourde, il faut tenir compte de la conduite à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. En l’espèce, il faut comparer l’appelant à un contribuable qui a la même expérience des affaires, c’est-à-dire une personne qui possède et exploite une entreprise depuis environ huit ans. Par conséquent, les qualités personnelles du contribuable ne sont pas prises en compte.
+[84] Je ne répéterai pas les faits. Il suffit de dire qu’une personne raisonnable, dans les mêmes circonstances, n’aurait pas signé et produit des déclarations de revenus faisant état d’importantes pertes d’entreprise, tout en sachant pertinemment qu’elle ne pouvait déclarer de pertes d’entreprise puisqu’elle n’exploitait pas d’entreprise. Une personne raisonnable n’aurait pas accepté l’explication de Fiscal Arbitrators selon laquelle [traduction] « chacun d’entre nous est une société ». Un homme d’affaires devrait connaître la différence entre un employé et une société et savoir que [traduction] « chacun d’entre nous n’est pas une société ». En outre, une personne raisonnable n’aurait pas certifié l’exactitude de l’état des activités de mandataire. Cet état contenait plusieurs lacunes et faux énoncés, en plus d’être insensé dans son ensemble. Une personne raisonnable, dans les mêmes circonstances, n’aurait pas signé et produit de déclarations de revenus dans lesquelles d’importants remboursements étaient demandés sans comprendre la méthode de déclaration utilisée par le spécialiste pour en arriver à ces sommes.
+[85] Compte tenu du résultat fiscal extraordinaire en l’espèce et des faux énoncés contenus dans les documents fournis par Fiscal Arbitrators, une personne raisonnable dans les mêmes circonstances que l’appelant aurait demandé à ce qu’une certaine forme de vérification indépendante soit effectuée pour s’assurer de la légitimité de la méthode de déclaration utilisée, surtout à la lumière de la lettre d’avertissement qu’a reçue l’appelant le 21 mai 2010 de la part de l’ARC, dans laquelle celle-ci l’avise que des pénalités pourraient lui être imposées au titre du paragraphe 163(2) de la Loi, étant donné que [traduction] « l’ARC n’entérine pas la participation à des stratagèmes visant à éviter de verser des impôts sur le revenu dans le cadre desquels le contribuable se désigne lui-même comme étant le mandataire du mandant ».
+[86] Je suis d’avis que la conduite de l’appelant, en signant et en produisant ses déclarations de revenus et la demande de report rétrospectif d’une perte, se situe considérablement en deçà de celle à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. Par conséquent, je conclus que l’appelant a fait, dans des circonstances équivalant à faute lourde, de faux énoncés dans ses déclarations de revenus au sens du paragraphe 163(2) de la Loi pour les années d’imposition 2008 et 2009.
+IV. Conclusion
+[87] L’appel interjeté par l’appelant concernant les années d’imposition 2008 et 2009 est rejeté et les dépens, calculés conformément au tarif, sont adjugés à l’intimée.
+Signé à Montréal (Québec), ce 3e jour de janvier 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 6e jour de décembre 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 1
+Nº DU DOSSIER DE LA COUR :
+2012-4744(IT)G
+INTITULÉ :
+JEFF BRADSHAW c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 septembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 3 janvier 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Craig Burley
+Avocate de l’intimée :
+Me Meaghan Mahadeo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Craig Burley
+Cabinet :
+Craig Burley
+Avocat
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Wynter c. La Reine, 2017 CAF 195.
+[2] Venne c. La Reine, [1984] A.C.F. no 314 (QL), au paragraphe 37.
+[3] Sansregret c. La Reine, [1985] 1 R.C.S. 570, p. 584, R c. Jorgensen, [1995] 4 R.C.S. 55, aux paragraphes 102 et 103, et Briscoe c. La Reine, [2010] 1 R.C.S. 411, aux paragraphes 21 à 23.
+[4] Peck c. La Reine 2018 CCI 52, au paragraphe 50.
+[5] À moins que le contribuable prouve qu’il est incapable de comprendre le risque auquel il n’a pas su se soustraire, à savoir la preuve qu’il n’est pas en mesure de comprendre l’obligation qui lui incombe dans le cadre du système d’autocotisation de l’impôt sur le revenu du Canada.
+[6] Sidhu c. La Reine, 2004 CCI 174.
+[7] Torres c. La Reine, 2013 CCI 380, confirmée par la Cour d’appel fédérale dans l’arrêt Strachan c. La Reine, 2015 CAF 60.
+[8] Torres c. La Reine, précitée, au paragraphe 69.
+[9] Torres c. La Reine, précitée, au paragraphe 69 f).
+[10] Wynter c. La Reine, précité, note 1.

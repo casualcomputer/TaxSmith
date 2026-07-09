@@ -1,0 +1,316 @@
+Title: Dupuis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29193/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-220-29193-dupuis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-23
+
+# Dupuis v. The Queen
+
+- Citation: 2009 TCC 220
+- Decision date: 2009-04-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6689, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dupuis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-23
+Neutral citation
+2009 TCC 220
+File numbers
+2007-4577(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4577(IT)I
+BETWEEN:
+GINAUD DUPUIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 6, 2008, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act (the Act) for the 2003 taxation year is allowed, in accordance with the attached Reasons for Judgment, and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the appellant is entitled to a deduction of $1,430.16 for his employment expenses and a deduction of $3,389.07 as a resident of a remote area. The appellant's $100.00 filing fee shall be reimbursed.
+Signed at Ottawa, Canada, this 23rd day of April 2009.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 23rd day of July 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 220
+Date: 20090423
+Docket: 2007-4577(IT)I
+BETWEEN:
+GINAUD DUPUIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the 2003 taxation year.
+[2] The issues to be decided are whether
+(a) the Minister of National Revenue (the Minister) properly disallowed the $1,430.16 deduction for other employment expenses claimed by the appellant for the 2003 taxation year; and
+(b) the Minister properly limited to $2,767 the amount of the northern residents deduction.
+[3] The appellant clearly took this matter very seriously. His Notice of Appeal ran to 34 pages, including a table of contents.
+[4] Although the appellant filed two books of exhibits with a total of 44 tabs, to which other documents were added, the evidence is relatively simple to summarize.
+[5] As an education specialist, the appellant possessed expertise and knowledge that was of interest to the Cree and Naskapi community of Mistassini. In 2003, he was retained as a consultant to design a pilot project.
+[6] At the end of his mandate, the project he designed was accepted, and he was offered an employment contract to implement it. The duration was initially set at two years. The term of the first contract was fixed, but the contract was renewed several times and he ended up working until 2007.
+[7] His contract provided that he could live on site with his family. The lodging provided included the basic and usual facilities, including a stove, a refrigerator and four bedrooms.
+[8] This was a normal residence, with all the usual amenities, except that it was located in a very particular place, namely a territory where only the Band Council had jurisdiction.
+[9] The appellant, his spouse and their children remained there for several years. For the appellant, this was not his domicile or his residence, because he could be expelled at any time, but he lived there during his leave periods and at the end of the periods provided for in his employment contract.
+[10] In other words, the appellant explained that the lodging he occupied with his family was provided temporarily by the Band Council and was subject to numerous conditions, to which he was not a contracting party. Consequently, he could lose his right of residence, or rather the privilege, and any time and without notice.
+[11] The appellant explained that this was essentially a concession or a privilege that could be withdrawn at any time. It was legally impossible for him to consider establishing a permanent residence there, owing to legal impediments stemming from the various treaties between Aboriginal communities and governments.
+[12] Those treaties provided that the territory was under the exclusive jurisdiction of the Aboriginal community. The presence of any non-Aboriginal person was a sort of accommodation, a kind of privilege or concession granted by the Band Council. The right could be revoked at any time and the privilege was temporary and subject to the goodwill of the Band Council.
+[13] Owing to these particular circumstances, the appellant stated that he did not reside there, since the concept of residence implied a certain continuity or, at the very least, a certain control over the residence and a certain authority or a minimum of rights regarding that residence. In other words, the appellant submitted that his right of residence was not that of a tenant, let alone that of an owner. In fact, it was not a right at all, but only a concession.
+[14] He was effectively at the mercy of a unilateral decision by the Band Council. To the appellant, residence implies both the existence of a full right and the freedom and independence to choose how and for how long to enjoy it.
+[15] Although, according to the appellant, he was neither domiciled nor resident on the reserve, he stated that he lived there with his family and performed the work provided for by his contract. His spouse, for her part, worked there from time to time, and her remuneration from various sources is confirmed by T4 slips.
+[16] Both the appellant and his spouse returned occasionally to the Bellechasse area, where they bought a house which they considered their residence or home base.
+[17] The appellant also adduced evidence showing that he had indeed maintained certain ties with the Bellechasse area (lease, purchase of an immovable, insurance, bank account, etc.).
+[18] The appellant stated several times that if the premises occupied had been in Baie‑Comeau or in some other similar place, he would not have disputed the assessment, since those would have been places where he would have had the right, the power and the ability to establish himself permanently, either by acquiring an immovable or by signing a lease guaranteeing him stability and continuity. In other words, the appellant submitted that from the moment when he could have had full authority and power over his actions with regard to the premises needed to live with his family, he would have accepted the tax consequences of his choices or decisions. The reality, however, was entirely different.
+[19] He acknowledged, however, that the place where he and his family were lodged in Mistissini was the place where they lived, since that was where they ate, slept, and so on, during long and continuous periods. He also acknowledged that he gave that address when he applied for child tax benefits.
+[20] In preparing his appeal, the appellant gathered everything he could find that was likely to support his interpretation.
+[21] He stressed the fact that the assessment would have been justified if his family and he had lived in Baie‑Comeau or elsewhere in a remote area, except in a territory where an Aboriginal community had authority.
+[22] In fact, the appellant's sole argument in support of his appeal is that it was a special territory where all authority was held by a Band Council.
+[23] The agreement covered a definite period and created rights and obligations for the parties, respecting, inter alia, remuneration and the prestation of work.
+[24] The evidence disclosed that the parties were no doubt satisfied with the situation, since it lasted for several years thanks to the renewal of the employment contract.
+[25] I cannot accept the argument that the assessment would have been justified if not for the principal residence in Bellechasse. If that were so, a person who decided to keep his or her residence while living elsewhere would receive a different tax treatment from one who, for practical or financial reasons, disposed of his or her residence.
+[26] In the case at bar, the situation is different, however, since the appellant was subject to very special conditions regarding his residence, over which he had neither jurisdiction nor authority. The Bellechasse residence thus became a sort of guarantee, a sort of back-up solution, a sort of essential plan B, or, at least, a wise and prudent measure having regard to the fact that he could have found himself in a very precarious situation.
+[27] The Minister, for his part, assumed the following facts in making and confirming his assessment:
+[Translation]
+(a) The appellant worked for the Cree school board from August 2003 to 2006.
+(b) The appellant's family occupied the lodging provided during the school year.
+(c) The appellant received $1,430 as a housing allowance.
+(d) The appellant was allowed 50% of the transportation expenses claimed as a "northern residents deduction".
+[28] The Minister thus disallowed deductions, namely the other 50% of the transportation expenses, but also $1,430, on the ground that those amounts appear in box 14 of the T4 slip as benefits. The Minister also relied on paragraph 6(1)a) of the Act in disallowing the deduction, adding that subsection 6(6) did not apply. For the same year, the appellant also claimed the "northern residents deduction" provided for in section 110.7 of the Act. In his analysis, the Minister apparently disregarded all facts related to the special nature of the territory where the appellant and his family resided.
+Relevant Provisions
+Section 6 of the Income Tax Act
+Amounts to be included as income from office or employment
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+Value of benefits
+Employment at special work site or remote location
+(6) Notwithstanding subsection 6(1), in computing the income of a taxpayer for a taxation year from an office or employment, there shall not be included any amount received or enjoyed by the taxpayer in respect of, in the course or by virtue of the office or employment that is the value of, or an allowance (not in excess of a reasonable amount) in respect of expenses the taxpayer has incurred for,
+(a) the taxpayer's board and lodging for a period at
+(i) a special work site, being a location at which the duties performed by the taxpayer were of a temporary nature, if the taxpayer maintained at another location a self-contained domestic establishment as the taxpayer's principal place of residence
+(A) that was, throughout the period, available for the taxpayer's occupancy and not rented by the taxpayer to any other person, and
+(B) to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site, or
+(ii) a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment,
+if the period during which the taxpayer was required by the taxpayer's duties to be away from the taxpayer's principal place of residence, or to be at the special work site or location, was not less than 36 hours; or
+(b) transportation between
+(i) the principal place of residence and the special work site referred to in subparagraph 6(6)(a)(i), or
+(ii) the location referred to in subparagraph 6(6)(a)(ii) and a location in Canada or a location in the country in which the taxpayer is employed,
+in respect of a period described in paragraph 6(6)(a) during which the taxpayer received board and lodging, or a reasonable allowance in respect of board and lodging, from the taxpayer's employer.
+Section 110.7
+Residing in prescribed zone
+110.7 (1) Where, throughout a period (in this section referred to as the "qualifying period") of not less than 6 consecutive months beginning or ending in a taxation year, a taxpayer who is an individual has resided in one or more particular areas each of which is a prescribed northern zone or prescribed intermediate zone for the year and files for the year a claim in prescribed form, there may be deducted in computing the taxpayer's taxable income for the year
+(a) the total of all amounts each of which is the product obtained by multiplying the specified percentage for a particular area for the year in which the taxpayer so resided by an amount received, or the value of a benefit received or enjoyed, in the year by the taxpayer in respect of the taxpayer's employment in the particular area by a person with whom the taxpayer was dealing at arm's length in respect of travel expenses incurred by the taxpayer or another individual who was a member of the taxpayer's household during the part of the year in which the taxpayer resided in the particular area, to the extent that
+(i) the amount received or the value of the benefit, as the case may be,
+(A) does not exceed a prescribed amount in respect of the taxpayer for the period in the year in which the taxpayer resided in the particular area,
+(B) is included and is not otherwise deducted in computing the taxpayer's income for the year or any other taxation year, and
+(C) is not included in determining an amount deducted under subsection 118.2(1) for the year or any other taxation year,
+(ii) the travel expenses were incurred in respect of trips made in the year by the taxpayer or another individual who was a member of the taxpayer's household during the part of the year in which the taxpayer resided in the particular area, and
+(iii) neither the taxpayer nor a member of the taxpayer's household is at any time entitled to a reimbursement or any form of assistance (other than a reimbursement or assistance included in computing the income of the taxpayer or the member) in respect of travel expenses to which subparagraph 110.7(1)(a)(ii) applies; and
+(b) the lesser of
+(i) 20% of the taxpayer's income for the year, and
+(ii) the total of all amounts each of which is the product obtained by multiplying the specified percentage for a particular area for the year in which the taxpayer so resided by the total of
+(A) $7.50 multiplied by the number of days in the year included in the qualifying period in which the taxpayer resided in the particular area, and
+(B) $7.50 multiplied by the number of days in the year included in that portion of the qualifying period throughout which the taxpayer maintained and resided in a self-contained domestic establishment in the particular area (except any day included in computing a deduction claimed under this paragraph by another person who resided on that day in the establishment).
+Specified percentage
+(2) For the purpose of subsection 110.7 (1), the specified percentage for a particular area for a taxation year is
+(a) where the area is a prescribed northern zone for the year, 100%; and
+(b) where the area is a prescribed intermediate zone for the year, 50%. (Emphasis added.)
+Restriction
+(3) The total determined under paragraph 110.7(1)(a) for a taxpayer in respect of travel expenses incurred in a taxation year in respect of an individual shall not be in respect of more than 2 trips made by the individual in the year, other than trips to obtain medical services that are not available in the locality in which the taxpayer resided.
+Board and lodging allowances, etc.
+(4) The amount determined under subparagraph (1)(b)(ii) for a particular area for a taxpayer for a taxation year shall not exceed the amount by which the amount otherwise determined under that subparagraph for the particular area for the year exceeds the value of, or an allowance in respect of expenses incurred by the taxpayer for, the taxpayer's board and lodging in the particular area (other than at a work site described in paragraph 67.1(2)(e)) that
+(a) would, if not for subparagraph 6(6)(a)(i), be included in computing the taxpayer's income for the year; and
+(b) can reasonably be considered to be attributable to that portion of the qualifying period that is in the year and during which the taxpayer maintained a self-contained domestic establishment as the taxpayer's principal place of residence in an area other than a prescribed northern zone or a prescribed intermediate zone for the year.
+Idem
+(5) Where on any day an individual resides in more than one particular area referred to in subsection 110.7 (1), for the purpose of that subsection, the individual shall be deemed to reside in only one such area on that day.
+[29] It is important to situate the territory in question, namely the Mistissini area. Did the appellant live with his family in a northern zone or an intermediate zone? To answer that question, one must consult paragraphs 7303.1(1)(e) and 7303.1(2)(f) of the Income Tax Regulations.
+[30] Under those provisions, the zone where the appellant resided was either northern or intermediate. It is important to determine which zone it was, so that the appropriate percentage – 100% or 50%, respectively – can be applied to the deduction available to residents of the areas in question. Paragraph 7303.1(1)(e) delimits the northern zone.
+7303.1
+(1) An area is a prescribed northern zone for a taxation year for the purposes of section 110.7 of the Act where it is
+…
+(e) that part of Quebec that lies
+(i) north of 51°05‘N latitude, or
+(ii) north of the Gulf of St. Lawrence and east of 63°00‘W longitude;
+[31] Paragraph 7303.1(2)(f) delimits the intermediate zone:
+(2) An area is a prescribed intermediate zone for a taxation year for the purposes of section 110.7 of the Act where it is the Queen Charlotte Islands, Anticosti Island, the Magdalen Islands or Sable Island, or where it is not part of a prescribed northern zone referred to in subsection (1) for the year and is
+…
+(f) that part of Quebec that lies
+(i) north of 50°35‘N latitude and west of 79°00‘W longitude,
+(ii) north of 49°00‘N latitude, east of 79°00‘W longitude and west of 74°00‘W longitude,
+(iii) north of 50°00‘N latitude, east of 74°00‘W longitude and west of 70°00‘W longitude,
+(iv) north of 50°45‘N latitude, east of 70°00‘W longitude and west of 65°30‘W longitude, or
+(v) north of the Gulf of St. Lawrence, east of 65°30‘W longitude and west of 63°00‘W longitude.
+Did the appellant hold employment on a special work site or in a remote location and was it temporary employment?
+[32] The Minister disallowed the $1,430 deduction on the ground that paragraph 6(6)(a) does not apply. That paragraph reads as follows:
+(6) Notwithstanding subsection 6(1), in computing the income of a taxpayer for a taxation year from an office or employment, there shall not be included any amount received or enjoyed by the taxpayer in respect of, in the course or by virtue of the office or employment that is the value of, or an allowance (not in excess of a reasonable amount) in respect of expenses the taxpayer has incurred for,
+(a) the taxpayer's board and lodging for a period at
+(i) a special work site, being a location at which the duties performed by the taxpayer were of a temporary nature, if the taxpayer maintained at another location a self-contained domestic establishment as the taxpayer's principal place of residence
+(A) that was, throughout the period, available for the taxpayer's occupancy and not rented by the taxpayer to any other person, and
+(B) to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site, or
+(ii) a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment,
+if the period during which the taxpayer was required by the taxpayer's duties to be away from the taxpayer's principal place of residence, or to be at the special work site or location, was not less than 36 hours;
+[33] The Minister submits, first, that subparagraph (i) does not apply, on the ground that the workplace was not a special work site, and second, that the work was not of a temporary nature. The terms "special work site" and "remote location" are not defined in the Act.
+[34] Generally speaking, lodging, board and expenses of that nature that are essential to day-to-day life are personal expenses and thus their reimbursement should be included in income as a taxable benefit under paragraph 6(1)(a) of the Act.
+[35] However, subsection 6(6) of the Act provides for an exception in the case of a special work site. For that exception to apply, the duties performed by the taxpayer must be of a temporary nature.
+[36] Determining whether employment is of a temporary nature is essentially a question of fact. When the determination concerns a short period, the beginning and end of which are known, the exercise is a relatively simple one. However, when it is necessary to analyse a situation that continued for several years, or when a short period was extended, the exercise is much more delicate.
+[37] In reality, everything is temporary, including life. In a tax context, temporary means limited, of short duration, with a known beginning and end. With regard to employment, this is a very complex concept, for the following reasons among others.
+[38] Indeed, it is not uncommon to see jobs that were supposed to be permanent actually last only a few months, and, conversely, jobs that were supposed to be short-term become permanent.
+[39] The appellant explained the context and special circumstances of his arrival on Aboriginal territory and the details of the various contract renewals. Subsection 6(6) requires that employment be either at a special work site and of a temporary nature, or at a remote work location.
+[40] If those requirements are met, the reasonable benefit received by virtue of the employment will not be included in income. Dussault J. analysed the term "special work site" in Guilbert in 1991:
+The Act is indeed complex, and contains numerous definitions. However, we cannot assume, in the absence of a special statutory definition, that the usual words used by Parliament must have a meaning different from the generally recognized meaning set out in current dictionaries. A "work site" is a "work site" and this expression cannot refer to just any place of work. The newspaper's premises are not, in my humble opinion, a work site, or a "special work site", within the meaning intended by Parliament. By analogy, we could refer to the decision in Graham L. Harle. M.L.A.. and Calvin E. Lee. M.L.A. v. M.N.R., 76 DTC 1151, cited by counsel for the respondent, which refused to recognize that provincial legislative buildings were "a special worksite", or in French, "un chantier particulier".[1]
+[41] In finding that the appellant in Graham Harle was not employed at a special work site, Prociuk J. had this to say:
+From an historical point of view, the quoted subsections of section 6 are indeed a broadening of the scope of the former subsection (2) of section 5 which now relates not only to construction sites but to other work sites located in outlying areas where the duties of the employee would be temporary or where the availability of the usual amenities of life is nonexistent at or near the site.[2]
+[42] The definition of "chantier" ["work site" in the Act] in the French dictionary Le Robert reads as follows:
+[Translation]
+4. Place where materials are piled up – Workshop, warehouse. Construction site; demolition site. To work on a work site. He rarely left the work site. – Pierre, quot. 14. The workers at a work site. Mining, extracting site.
+[43] In support of his submissions, the Minister refers to Interpretation Bulletin IT‑91R4 and states:
+[Translation]
+Subparagraph 6(6)(a)(ii) stipulates that a taxpayer in a "remote location" could not reasonably be expected to establish and maintain a self-contained domestic establishment, by virtue of the location's remoteness from any established community, if the period during which the taxpayer's duties required him or her to be away from the taxpayer's principal place of residence, or to be at the special work site or location, was not less than 36 hours.
+[44] In Dubé, Docket 98-454(IT)I, August 27, 1998, Tremblay J. relied on the testimony and the contract of employment to make the factual finding that the different locations where the appellant performed his duties were remote locations for the purposes of the ITA.
+[Translation]
+The fact that the appellant worked in an intermediate zone under section 110.7 of the Act and section 7303.1 of the Regulations does not mean that the location was remote for the purposes of subsection 6(6). That subsection describes a remote location as being so far from any established community that a person could not reasonably be expected to maintain a self-contained domestic establishment.
+"Self-Contained Domestic Establishment"
+[45] The definition of "self-contained domestic establishment" is found in subsection 248(1) of the Act and reads as follows:
+A dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats.
+[46] This definition includes a place to which the person returns at the end of the day to eat and sleep. The expression therefore creates a sort of special category of accommodation. In this regard, the evidence adduced seems to support the finding that the appellant did indeed choose such an "establishment".
+[47] Is this fact in itself fatal to the application of subsection 6(6)? Although that provision assumes that the appellant cannot reasonably be expected to establish himself in that place, the fact that he chose to do so does not necessarily render the exception in subsection 6(6) inoperative.
+[48] The Minister submits that the establishment of a place of residence creates a "reasonable presumption" that the inclusion exception provided for in subsection 6(6) does not apply.
+[49] The Minister relies on Interpretation Bulletin IT-91R4 to justify his interpretation. The respondent adds that it was the employer who provided the residence and subsequently included that benefit in the appellant's T4 slip.
+[50] The residence made available to the appellant by his employer represents a benefit related to his employment, therefore it must receive the same tax treatment as that which was used as the basis of the assessment. The dispute therefore turns essentially on the remoteness of Mistissini from an established community and the temporary nature of the employment.
+Temporary Nature
+[51] The Minister's position, as stated in Interpretation Bulletin IT-91R4, is that employment for a period of less than two years will not be considered permanent employment. The employment contract in Dubé did not provide any guarantee of renewal. In addition, Tremblay J. relied on paragraphs 5 and 6 of Interpretation Bulletin IT-91R4 in finding that the employee's duties, and not the duration of the employer's project as a whole, will help to determine whether the employment is temporary. The Bulletin specifies:
+Duties of a temporary nature
+5. The expression “duties performed by the taxpayer were of a temporary nature” as used in subparagraph 6(6)(a)(i) (see 4(a) above) refers to the duration of the duties performed by the individual employee, not the expected duration of the project as a whole. For example, a project might take ten years to complete but the individual's duties at that project might take only a few months.
+6. The term “temporary” is not defined in the Income Tax Act. However, as a general rule, duties will be considered to be of a temporary nature if it can reasonably be expected that they will not provide continuous employment beyond a period of two years. The determination of the expected duration of employment must be made on the basis of the facts known at its commencement. In this regard, particular consideration should be given to the following factors:
+- the nature of the duties to be performed by the employee (certain types of work are, by their nature, short term engagements, such as repair work or trades which are involved only during a certain phase of a project);
+- the overall time estimated for a project, or a particular phase of a project, on which the employee is engaged to perform duties; and
+- the agreed period of time for which the employee was engaged according to the employment contract or other terms of the engagement.
+[52] In considering the evidence with regard to the duration of the contract, it is important to bear in mind the finding in Dubé that the duties were of a temporary nature despite the fact that the appellant had worked on several work sites over an 8-year period, always for the same employer.
+[53] The absence of a contract renewal guarantee was fatal to the Minister's position.
+[54] In Rozumiak, Beaubier J. dealt with a contract that was renewed once it was signed. He found that the intentions of the parties at the time the initial contract was signed determined its temporary nature:
+10 The appellant and VPA’s contract was not for an indeterminate period of employment. Moreover, VPA and Mr. Rozumiak both viewed Mr. Rozumiak and his duties as temporary – an experiment to discover the lay of the land. Mr. Rozumiak had never signed such a contract before and VPA had no office of its own in the United States. The contract was extended in 2004 for a further year to the end of Mr. Rozumiak’s Visa and the office was closed as a failure at the end of that time; but neither party foresaw these events in 2002.
+11 On this basis, the Court finds that the appellant’s duties were of a temporary nature when the original contract was signed. His duties were to test the market. He was an older, experienced man who had his roots in the Vancouver area who had the knowledge to test the market for VPA. Their contract was terminable by either party in 3 months’ notice. …[3]
+[55] The respondent submits that the fact that the contract was renewed several times between August 2003 and June 2006 means that the duties were not of a temporary nature. However, it is necessary to study the contract, as Tremblay J. did in Dubé, in order to ascertain its true nature. The answer could obviously depend on the presence or absence of an inherent renewal guarantee.
+[56] Le Robert defines "temporaire" ["temporary"] as follows:
+[Translation]
+◊ Which lasts or is meant to last for only a limited time. — Short, discontinuous, fleeting, momentary, transient, provisional.
+◊ Which is active only for a time.
+[57] Dussault J., ruling in Leduc, adopted the analysis of Robertson J.A. in Phillips, [1994] 2 F.C. 680, in which the latter tried to define the objectives of section 6.
+[58] The argument is drawn from the decision of the Federal Court of Appeal in Phillips, supra, where Robertson J.A. stated his understanding of Parliament's aim in the following terms, at pages 700 and 701:
+… Quite obviously, section 6 of the Act seeks to limit tax avoidance relating to monetary and non-monetary compensation not reflected in wages or salaries.
+Another primary and, for the purposes of this appeal, overriding objective of section 6 is to ensure that "employees who receive their compensation in cash are on the same footing as those who receive compensation in some combination of cash and kind;"... Two employees performing the same work for the same employer should receive the same tax treatment in respect of their employment.
+[59] The logic followed by Bowman J. (as he then was) in Pezzelato helps us to understand the distinction between a benefit and income:
+13 The matter has been much litigated in this court and in higher courts. Before I deal with the cases, I should like to approach the problem simply as a matter of principle and of common sense. Notwithstanding the breadth of its wording section 6 is not intended to create an artificial concept of income from employment. Rather, it is designed to recognize the numerous and varied ways in which an employee may be remunerated for his or her services and to bring them within the net of taxation. It is not intended to expand beyond the ordinary understanding of the word benefit (avantage) things that are not benefits at all. In other words, the wide net that section 6 casts relates to the manner in which the benefit is conferred, not to the definition of the benefit2. The point is easier to illustrate by examples than to articulate. If an employer, to induce an employee to move from a pleasant and low cost city in Southern Ontario (for example, Guelph) to an expensive and high pressure metropolis like Toronto, increases that employee's salary by 50% no one would doubt that the increased salary is income even though the increase is designed in part to compensate him or her for the increased cost of living and the diminution in the quality of life. If, on the other hand, the employer brings the employee to Toronto for a month, pays for a hotel room (or even a company owned apartment) and meals, no one would suggest that this is a taxable benefit. Similarly if an employer moves an employee from one city to another the reimbursement of the moving expenses is not taxable.
+14 It is easy to point to extremes at either end of the spectrum, but the cases that come with increasing frequency before the courts are not at either end. They fall somewhere in between. The courts must decide on which side of the line each case falls.[4]
+[60] Bowman J. gives an interesting overview of the case law and finds that it is not uniform. He reiterates, however, that a benefit must be treated as income if the allowance or property received by the taxpayer improves his or her economic position. When the amount paid by the employer merely compensates for a loss or reimburses an expense incurred as the result of a forced relocation, the amount is not considered a benefit.
+[61] A taxable benefit is recognized by the fact that it improves the taxpayer's economic position, or in other words, that it enriches the taxpayer.
+[62] Noting the discordance among the judgments rendered both by the Tax Court of Canada and by the Federal Court of Appeal, Bowman J. commented that some of them were based on logic and common sense, but not necessarily on legal analysis.
+26 … Visceral reaction, however much it may form the inarticulate premise upon which judicial decisions are sometimes founded, is not however a substitute for legal analysis. Any attempt to state a legal proposition that encompasses all four cases, and conflicts with none, must necessarily fail. The following is an attempt to state such a proposition but it is obvious that it is flawed: where an employee sustains a loss or incurs an expense as the result of his or her employment a reimbursement by the employer of that loss or expense is not a taxable benefit if the employee, after the reimbursement, is not in a better economic position than he or she would have been in had the loss or expense giving rise to the reimbursement had not been incurred (Splane and Ransom). Where, however, the employee, as the result of the payment, is in an economically better position than he would have been in had no loss occurred, the payment constitutes a taxable benefit (Phillips and Blanchard).
+23 … He was to that extent economically ahead of the position he had been in when he lived in Moncton. I can see very little difference between that situation and the example I gave above of an employer who increases an employee's salary to induce him or her to move from Guelph to Toronto.[5]
+[63] In Beaulieu, on the question of the temporary or permanent nature of employment, I stated the following:
+31 In other words, the evidence showed that the appellant had a strategic job and expertise that was quite indispensable; he was an employee who was essential to the efficient operation of the company[6].
+…
+43 The appellant did not work for several employers during various periods that were interrupted by periods without work. The situation in this case was quite different: the appellant worked regularly and was laid off very exceptionally. He always worked for the same employer or for a related or affiliated group.
+…
+45 In actual fact, unlike the various operators, the duration of whose work basically depended on the use of machinery, the appellant had a special status, primarily in terms of the benefits he received but also in terms of continuity, since he was directly associated with and involved in the activities that generated work.
+…
+48 Theoretically, the appellant had no contractual or formal guarantee with regard to the duration of his employment. However, given the conditions he was granted (car, credit card, reimbursement of expenses, various premiums), he was no doubt aware that his employer was doing everything possible and leaving absolutely nothing to chance to provide him with stability and continuity. Moreover, if the appellant's arguments were valid, the vast majority of jobs would be of a temporary nature.
+49 Very few people can claim to have absolute job security. All jobs are dependent on the economic situation of the company doing the hiring. The appellant certainly did not have job security, but this does not automatically mean that his duties were of a temporary nature, like those of a machine operator; rather, his status was comparable to the status of the people who had administrative responsibilities in the company. Was he not one of the main architects of most of the bids, which were the very foundation of the company's existence?
+Established Community
+[64] Le Petit Robert defines "agglomération" ["established community" in the Act] as follows:
+[Translation]
+◊ Fact of gathering naturally.
+◊ Union, close association.
+◊ Concentration of dwellings, city, town or village.
+◊ Whole formed by a city and its inner or outer suburbs.
+[65] According to Interpretation Bulletin IT-91R4, certain factors should be considered in determining whether the location where the duties are performed is "remote" from "any established community".
+[66] The appellant argues that there was indeed such an established community, but he adds a cultural element, so that in order to be considered an established community, the locality must permit integration, meaning that it must be possible to create or establish ties in that community.
+[67] That cultural aspect is not contained either in the provision of the Act or in Interpretation Bulletin IT‑91R4. Rather, the proximity of an established community should provide access to essential services such as a basic food store, a basic clothing store (not a mail-order outlet), housing, medical assistance and educational facilities.
+[68] Although Le Petit Robert does not allude to a cultural element as a necessary facet of an established community, as Mr. Dupuis argues, Le Grand Robert does include that element, to some extent, in its definition of "agglomération":
+[Translation]
+◊ Union, close association: packing together (of people, animals). Grouping, gathering. Groupings of animals. School, flock, colony, covey, swarm, bevy, herd, pack, cluster, hive, band, drove, flight. A gathering of tribes, peoples, men.
+The French nation is more heterogeneous than any other in Europe; it is in truth an international agglomeration of peoples. (Ch. Seignobos, Hist. sincère de la nation française.)
+◊ Concentration (of dwellings) forming a unit – borough, township, estate, hamlet, locality, village, town, city. A small cluster of farms, houses. …
+Whole formed by a city and its inner or outer suburbs. The greater Lyons area. He went to live in the Paris area.
+[69] There is thus a certain facet that can be characterized as cultural in that second definition. The word "heterogeneous" implies a certain consistency in the makeup of the established community.
+[70] The appellant relies on the Cree-Naskapi (of Quebec) Act to argue that he could work in that location only for the duration stipulated in the contract, and that taking up residence on a Cree reserve is not permitted except during the periods provided for in the contract.
+Right to reside on IA or IA-N land
+103.(1) The following persons have the right to reside on the Category IA or IA-N land of a band:
+(a) a member of that band;
+(b) the member’s consort, within the meaning of section 174; and
+(c) the family to the first degree of a person described in paragraph (a) or (b).
+Special categories of persons who may reside on IA or IA-N land
+(2) In addition to persons described in subsection (1), the following persons may reside on the Category IA or IA-N land of a band:
+(a) a person so authorized in writing by that band or by a by-law of that band;
+(b) a person so authorized by virtue of a grant from that band under Part VIII;
+(c) an administrator holding office pursuant to section 100; and
+(d) subject to subsection (3), a person engaged in administrative or public duties approved by that band or scientific studies approved by that band.
+Band’s control over number of outsiders
+(3) A band may prohibit a person described in paragraph (2)(d) from residing on its Category IA or IA-N land where the number of such persons would be such as to significantly alter the demographic composition of the community.
+[71] The appellant relies on the fact that it was impossible for him to settle in an established community near his work location and also on the possibility that he would be denied the right to reside there.
+[72] With regard to the continuity of employment as it concerns teachers, the Federal Court of Appeal stated as follows in Oliver:
+30 The jurisprudence of this Court has consistently held that, in cases where teachers' contracts terminate at the end of June and they are re-hired for the following school year, they are not entitled to employment insurance for the months of July and August. See Bishop v. Canada (Employment Insurance Commission), 2002 FCA 276; Canada (Attorney General) v. Partidge (1999), 245 N.R. 163 (F.C.A.); Gauthier v. Canada (Employment and Immigration Commission), [1995] F.C.J. No. 1350 (C.A.); and Canada (Attorney General) v. Hann, [1997] F.C.J. No. 1641 (C.A.). The only exception is Ying v. Canada (Attorney General), [1998] F.C.J. No. 1615 (C.A.).
+31 In the present case, the applicants are paid exactly the same amount as equivalent permanent teachers. Yet they also claim to be entitled to employment insurance benefits for the months of July and August. They were all re-hired before or shortly after the end of June for the subsequent school year. The dominant jurisprudence of this Court would deny their claims to employment insurance benefits[7].
+Malone J.A. dissented:
+37 In Dick v. Canada (Unemployment Insurance Commission), [1980] 2 S.C.R. 243 (Dick), the Supreme Court of Canada acknowledged that when a teacher's salary is paid in twelve monthly instalments for ten months of teaching, the payments relate to the work performed in the ten work months and not to the vacation months of July and August. This decision recognized that, depending on their contracts, some teachers will experience an annual interruption of their earnings in the non-teaching period of the school year. Therefore, because of Dick, school teachers would qualify for employment insurance benefits in the non-teaching summer months.
+38 Following Dick, section 46.1, now subsection 33(2) of the Regulations, was promulgated to prevent "double dipping" by teachers who were not truly facing the prospect of unemployment after their non-teaching period. The only exception, relevant to these applications, is found at paragraph 33(2)(a), which provides that a teacher will be entitled to benefits during a non-teaching period if "the claimant's contract of employment for teaching has terminated." The word "terminated" is not defined in either the Act or the Regulations.
+[73] On the balance of the evidence, it appears that the appellant held a temporary position in Mistissini, and, under subsection 103(3) of the Cree-Naskapi (of Quebec) Act, that he was in a location remote from any established community in 2003. The community of Mistissini does not seem to have the heterogeneous quality that Le Robert includes in its definition of "agglomération".
+[74] The appellant greatly stressed the fact that the premises in which he was lodged were in a special territory where he had no rights, since it was under the absolute jurisdiction of the Band Council.
+[75] This fact appears to me to be an element, if not the very basis, of the special nature of the territory. Indeed, when a person agrees to work in a location sufficiently remote that it would be unreasonable to expect him to return every day to the residence he occupied before obtaining the work, that person must decide on a steady, practical and reasonable place to sleep, at the risk of being denied the expenses reimbursed over a temporary and transitory period.
+[76] Any person having to make such a choice must make a decision based on control over all the elements required. The situation is very different in the case at bar, since the appellant could not make and could not have made such a choice, which was impossible because of the particular rules that applied with respect to the management of the territory.
+[77] In light of all the facts established by the evidence, I find on balance that during the period in issue the appellant worked on a special work site and that his employment was temporary in nature. For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 23rd day of April 2009.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 6th day of July 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 220
+COURT FILE NO.: 2007-4577(IT)I
+STYLE OF CAUSE: GINAUD DUPUIS and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 6, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: April 23, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Guilbert (A.) v. Minister of National Revenue, 1991 CarswellNat 473, [1991] 1 C.T.C. 2705, 91 D.T.C. 737, 91 D.T.C. 740.
+[2] Graham L. Harle, M.L.A., and Calvin E. Lee, M.L.A. v. the Minister of National Revenue, 76 DTC 1151.
+[3] Rozumiak v. R., 2005 CarswellNat 6662, [2006] 2 C.T.C. 2172, 2005 TCC 811 (informal procedure).
+[4] Pezzelato (F.) v. Canada, 1995 CarswellNat 606, [1995] 2 C.T.C. 2890, 9 C.C.P.B. 128, 96 D.T.C. 1285.
+[5] Ibid.
+[6] Beaulieu v. R., 2002 CarswellNat 77, [2003] 3 C.T.C. 2766, informal procedure.
+[7] Oliver v. Canada, 2003 FCA 98, 225 D.L.R. (4th) 307, [2003] 4 F.C. 47.

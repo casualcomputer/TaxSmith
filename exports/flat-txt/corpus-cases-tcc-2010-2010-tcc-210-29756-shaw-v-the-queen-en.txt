@@ -1,0 +1,133 @@
+Title: Shaw v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29756/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-210-29756-shaw-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-19
+
+# Shaw v. The Queen
+
+- Citation: 2010 TCC 210
+- Decision date: 2010-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6502, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shaw v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-19
+Neutral citation
+2010 TCC 210
+File numbers
+2008-3894(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3894(IT)I
+BETWEEN:
+CONNIE SHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 8, 2010 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sandra K.S. Tsui
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2005 and 2006 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to clergy residence deductions in the amounts of $10,148 and $10,383 for the 2005 and 2006 taxation years, respectively.
+The appellant is entitled to costs, if any, in accordance with the tariff.
+Signed at Toronto, Ontario this 19th day of April 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 210
+Date: 20100419
+Docket: 2008-3894(IT)I
+BETWEEN:
+CONNIE SHAW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question to be decided is whether the appellant, Ms. Connie Shaw, is entitled to the clergy residence deduction that is provided for in paragraph 8(1)(c) of the Income Tax Act. The relevant assessments are for the 2005 and 2006 taxation years.
+[2] Ms. Shaw claimed clergy residence deductions in the amounts of $10,148 and $10,383 for the 2005 and 2006 taxation years, respectively. The deductions were disallowed in their entirety.
+Background facts
+[3] None of the relevant facts are in dispute.
+[4] For many years, Ms. Shaw has been employed by the Province of Ontario as a chaplain at the Guelph Correctional Centre.
+[5] Since 2002, Ms. Shaw has been on extended sick-leave and is receiving benefits from The Great West Life Assurance Company under her employer’s wage replacement plan.
+[6] Under the terms of the plan, contributions are made equally by the employer and employee, provided that during periods of illness only employer contributions are made.
+[7] Benefits received under the plan in excess of contributions made are required to be included in computing income from employment pursuant to paragraph 6(1)(f) of the Act. The amounts that were included in Ms. Shaw’s income are $29,856 and $30,444 for 2005 and 2006, respectively.
+Discussion
+[8] The clergy residence deduction in paragraph 8(1)(c) of the Act is reproduced below.
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+[…]
+(c) where, in the year, the taxpayer
+(i) is a member of the clergy or of a religious order or a regular minister of a religious denomination, and
+(ii) is
+(A) in charge of a diocese, parish or congregation,
+(B) ministering to a diocese, parish or congregation, or
+(C) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination,
+the amount, not exceeding the taxpayer's remuneration for the year from the office or employment, equal to
+(iii) the total of all amounts including amounts in respect of utilities, included in computing the taxpayer's income for the year under section 6 in respect of the residence or other living accommodation occupied by the taxpayer in the course of, or because of, the taxpayer's office or employment as such a member or minister so in charge of or ministering to a diocese, parish or congregation, or so engaged in such administrative service, or
+(iv) rent and utilities paid by the taxpayer for the taxpayer's principal place of residence (or other principal living accommodation), ordinarily occupied during the year by the taxpayer, or the fair rental value of such a residence (or other living accommodation), including utilities, owned by the taxpayer or the taxpayer's spouse or common-law partner, not exceeding the lesser of
+(A) the greater of
+(I) $1,000 multiplied by the number of months (to a maximum of ten) in the year, during which the taxpayer is a person described in subparagraphs (i) and (ii), and
+(II) one-third of the taxpayer's remuneration for the year from the office or employment, and
+(B) the amount, if any, by which
+(I) the rent paid or the fair rental value of the residence or living accommodation, including utilities
+exceeds
+(II) the total of all amounts each of which is an amount deducted, in connection with the same accommodation or residence, in computing an individual's income for the year from an office or employment or from a business (other than an amount deducted under this paragraph by the taxpayer), to the extent that the amount can reasonably be considered to relate to the period, or a portion of the period, in respect of which an amount is claimed by the taxpayer under this paragraph;
+(Emphasis added)
+[9] The emphasized phrase above is the only part of the provision that is being challenged by the respondent. It provides that the deduction is limited to the taxpayer’s remuneration for the year from the office or employment.
+[10] The question to be decided is whether the income received by Ms. Shaw from the wage replacement plan is remuneration for this purpose.
+[11] Before considering this issue, I would briefly comment concerning the requirement in clause (ii). Counsel for the respondent stated at the opening of the hearing that this was not being disputed because the issue was not clearly mentioned in the reply. Reference was made to my recent decision in Fraser v. The Queen, 2010 TCC 23. Counsel emphasized that the respondent was not conceding that the requirement in that clause had actually been satisfied.
+[12] As for the main issue, counsel for the respondent submits that the benefits received by the appellant from the wage replacement plan do not have the character of remuneration, even though they are income from employment by virtue of paragraph 6(1)(f).
+[13] In my view, it is not appropriate to give the term “remuneration” such a restrictive interpretation in the context of s. 8(1)(c).
+[14] The narrow focus of paragraph 8(1)(c) is the clergy. The apparent object of the provision is to provide this group with tax assistance related to housing. It seems unlikely that Parliament would wish to provide such assistance to clergy who are healthy, and yet deny the assistance to clergy who are ill. I would be loath to accept the respondent’s position unless the legislation clearly provides for this result.
+[15] The term “remuneration” is not defined in the Act. According to dictionary definitions, it appears to have a very broad meaning of payment for services. The following is from The Shorter Oxford English Dictionary, 3rd ed.:
+1. To repay, requite, make some return for (services, etc.)
+2. To reward (a person); to pay (a person) for services rendered or work done.
+[16] Given the breadth of the definition, it could include benefits provided by an employer, including income from a wage replacement plan. Considering the object of s. 8(1)(c), it makes sense to give the term a reasonably broad interpretation.
+[17] Counsel for the respondent referred me to the decision of Blauer v. The Queen, 2007 TCC 706, 2008 DTC 2409. In that case, Hershfield J. concluded that benefits paid out of a disability plan to a non-resident were not taxable as they were not income from “duties … performed” for purposes of s. 115(1)(a)(i) of the Act.
+[18] In my view, the Blauer decision is distinguishable because of the different statutory language, and the context and object of the legislation at issue.
+[19] In the context of s. 115(1)(a)(i), it is appropriate to require a link between specific duties and the particular income at issue because the provision aims to limit taxation to income earned in Canada.
+[20] In my view, Justice Hershfield’s decision does not imply that there is no connection between income from a disability plan and services provided. Clearly there is some connection because the benefits are provided as part of the employment contract.
+[21] For these reasons, I conclude that the income received by the appellant from the wage replacement plan is remuneration for purposes of s. 8(1)(c).
+[22] The appeal will be allowed on this basis. The appellant will be entitled to her costs, if any, in accordance with the tariff.
+Signed at Toronto, Ontario this 19th day of April 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 210
+COURT FILE NO.: 2008-3894(IT)I
+STYLE OF CAUSE: CONNIE SHAW and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: April 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: April 19, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sandra K.S. Tsui
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

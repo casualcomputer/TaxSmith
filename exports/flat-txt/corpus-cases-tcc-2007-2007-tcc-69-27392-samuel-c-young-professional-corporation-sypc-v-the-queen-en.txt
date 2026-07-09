@@ -1,0 +1,128 @@
+Title: Samuel C. Young Professional Corporation (SYPC) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27392/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-69-27392-samuel-c-young-professional-corporation-sypc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-02-03
+
+# Samuel C. Young Professional Corporation (SYPC) v. The Queen
+
+- Citation: 2007 TCC 69
+- Decision date: 2007-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 149, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samuel C. Young Professional Corporation (SYPC) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-03
+Neutral citation
+2007 TCC 69
+File numbers
+2005-4300(GST)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-4300(GST)I
+BETWEEN:
+SAMUEL C. YOUNG PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 17, 2006, at Edmonton, Alberta
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Agent for the Appellant:
+Samuel C. Young
+Counsel for the Respondent:
+George F. Body
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 28, 2005, for the reporting period ending December 31, 2002, is dismissed.
+Signed at Ottawa, Canada, this 2nd day of February, 2007.
+"M.A. Mogan"
+Mogan D.J.
+Citation: 2007TCC69
+Date: 20070203
+Docket: 2005-4300(GST)I
+BETWEEN:
+SAMUEL C. YOUNG PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] On October 25, 2002, the Appellant purchased a parcel of land in the City of Edmontonhaving the legal description Plan 9823737, Block 78, Lot 20; and the municipal description 738 Hetu Lane, Edmonton. For convenience, that parcel of land will be referred to herein as the "Subject Land". The above purchase was an arm's length transaction and the purchase price was $136,500. On January 2, 2003, the Appellant transferred the Subject Landin a non-arm's length transaction. The principal issue in this appeal is whether the Appellant is liable to pay goods and services tax ("GST") in the amount of $9,555 on the purchase and transfer of the Subject Land.
+[2] Samuel C. Young was the only person to testify on behalf of the Appellant. Mr. Young is a chartered accountant authorized to practise public accounting in the Province of Alberta. He is the sole shareholder, director and agent of the Appellant Corporation. His wife is Winnie Yiu-Yeung (herein "Winnie"). The Appellant is a professional corporation engaged in the practice of public accounting. In October 2002, it was registered for GST purposes. The Subject Landwas transferred to Winnie on January 2, 2003. Winnie was not registered for GST purposes at any relevant time. When the Subject Land was purchased by the Appellant and later transferred to Winnie, it was bare land without any building or other structure thereon.
+[3] There were 16 documents entered into evidence as exhibits. Those documents are listed below with a brief description of what they are or appear to be.
+Exhibit A-1 In a document dated October 1, 2002 and addressed "To Whom It May Concern", Winnie appointed the Appellant as trustee to purchase the Subject Land.
+Exhibit A-2 A statement from Capital City Savings for the period October 18 to November 10, 2002 shows Winnie's account issuing a cheque on October 28 in the amount $136,900 increasing the negative balance by that amount.
+Exhibit A-3 Selected pages from the Edmontonprofessional directory and yellow pages show Nadia Koziak and Alann Nazarevich as practising lawyers.
+Exhibit R-1 An MLS purchase contract signed by Mr. Young on behalf of the Appellant on October 17, 2002 offers to buy the Subject Land for $136,500. Nadia Koziak and Alann Nazarevich are the vendors who accepted the offer on October 18, 2002.
+Exhibit R-2 The two vendors sign a "Transfer of Land" form on October 25, 2002 acknowledging receipt of the purchase price and conveying the Subject Landto the Appellant.
+Exhibit R-3 An Affidavit sworn by Mr. Young on October 28, 2003 stated that he is the agent for the Appellant transferee.
+Exhibit R-4 In a GST Indemnity Certificate signed on October 28, 2002, the Appellant certifies that it is a Registrant for GST purposes; and agrees to remit any GST relating to the purchase of the Subject Land; and agrees to indemnify the Vendors from any GST which may be payable with respect to such purchase.
+Exhibit R-5 A Statement of Adjustments shows the purchase price of the Subject Land to be $136,500.
+Exhibit R-6 A document issued by the North Alberta Land Registration District shows that a transfer of the SubjectLand to the Appellant was registered on November 1, 2002.
+Exhibit R-7 In a Declaration of Trust dated November 1, 2002, Mr. Young on behalf of the Appellant declares that the Appellant has acquired the Subject Land in trust for Winnie.
+Exhibit R-8 In an Agreement of Sale dated January 2, 2003, the Appellant sells the Subject Landto Winnie who agrees to pay the amount of $136,500 by an interest bearing Promissory Note.
+Exhibit R-9 Winnie signs a Promissory Note dated January 2, 2003 for $136,500 payable to the Appellant with interest at the rate of 3% per annum calculated from January 3, 2003.
+Exhibit R-10 A Transfer under the Alberta LandTitles Act shows the transfer of the Subject Land from the Appellant to Winnie for a consideration of $136,500. In the attached Affidavit re: Value of Land, Winnie swears that the value of the Subject Land is $136,500; and that she paid true consideration by a demand Promissory Note for $136,500.
+Exhibit R-11 Letter from Appellant's lawyer dated January 7, 2003 reporting on the transfer of the Subject Landto Winnie.
+Exhibit R-12 Letter dated December 9, 2004 from the Canada Revenue Agency to the Appellant.
+Exhibit R-13 Letter dated December 31, 2004 from the Appellant to the Canada Revenue Agency.
+[4] According to Mr. Young's testimony, Winnie signed a building contract in March 2003 for the construction of a house on the Subject Land. The house was completed by December. On December 19, 2003, Mr. Young, Winnie and their family moved into the new house. In 2004, Winnie applied under the GST legislation for a rebate of the GST on the construction costs of the new house. After certain correspondence with Canada Revenue Agency (see Exhibits R-12 and R-13), the Appellant was later assessed net GST of $9,555 on the purchase and transfer of the Subject Land. This appeal arises out of that assessment.
+[5] The position of Revenue Canadais summarized in subparagraph 23(bb) of the Reply to the Notice of Appeal:
+The Appellant was required to report net tax of $9,555.00 on the acquisition of the land and the subsequent transfer of the beneficial ownership of the land to Winnie calculated as follows:
+Self-assessment of tax on the acquisition of Land $9,555.00
+Tax collectible on transfer of the Land to the Trust
+for the benefit and use of Winnie 9,555.00
+Entitled to input tax credit on transfer to the Trust -9,555.00
+Net Tax $9,555.00
+[6] Under paragraph 221(2)(b) of the GST legislation, the vendors of the Subject Land were not required to collect GST on their sale to the Appellant on October 25, 2002 (Exhibit R-2).
+221(2) A supplier (other than a prescribed supplier) who makes a taxable supply of real property by way of sale is not required to collect tax under Division II payable by the recipient in respect of the supply where
+(a) ...
+(b) the recipient is registered under Subdivision d and, in the case of a recipient who is an individual, the property is neither a residential complex nor supplied as a cemetery plot or place of burial, entombment or deposit of human remains or ashes;
+In the purchase contract (Exhibit R-1), there is a provision in paragraph 7.6 that "It is understood that the purchasers are assuming the GST liability for the property". The Appellant did not pay any GST on the purchase of the Subject Land because it was a registrant. Section 268 of the GST legislation provides for the settling of property on an inter vivos trust:
+268. For the purposes of this Part, where a person settles property on an inter vivos trust,
+(a) the person is deemed to have made and the trust is deemed to have received a supply by way of sale of the property; and
+(b) the supply is deemed to have been made for consideration equal to the amount determined under the Income Tax Act to be the proceeds of disposition of the property.
+[7] As I view the exhibits, there is nothing in the documents between the Appellant as purchaser and Nadia Koziak and Alann Nazarevich (the "Vendors") as sellers to indicate that the Appellant is purchasing the Subject Landas trustee or agent for Winnie. In particular, I refer to Exhibits R-1, R-2, R-3, R-4 (GST Indemnity Certificate), R-5 and R-6. The Vendors or any third party would conclude from those six exhibits that the Appellant was purchasing for its own account the legal and beneficial interest in the Subject Land. There is no indication that the Declaration of Trust (Exhibit R-7) and the Memorandum "To Whom It May Concern" (Exhibit A-1) were seen by any person other than Winnie and her husband as sole shareholder of the Appellant Corporation.
+[8] The Appellant alleges in paragraph 2.1 of the Notice of Appeal that it purchased the SubjectLand as "bare trustee" for Winnie as beneficial owner. It further alleges in paragraph 2.2 that the Vendors were aware that the Appellant was purchasing the Subject Land for Winnie as beneficial owner. This allegation is denied by the Respondent and, when the Respondent called Nadia Koziak as a witness, Mr. Young did not ask her if she knew about the purchase "in trust".
+[9] The Appellant introduced Exhibit A-2 to prove that Winnie's account at Capital City Savings had issued a cheque for $136,900 on October 28, 2002. This same amount appears in the trust account of Bosco Yiu (the Appellant's lawyer) as received from the Appellant some time prior to November 1, 2002. See the second page of Exhibit R-5. If Winnie put up the funds on October 28, 2002 for the purchase from the Vendors (See Exhibit A-2), why was she required to purchase the Subject Land from the Appellant for $136,500 on January 2, 2003? See Exhibits R-8, R-9 and R-10.
+[10] The Appellant claims in the Notice of Appeal that it was a "bare trustee". In law, there is little difference between a bare trustee and an agent. Having regard to all of the exhibits (and in particular Exhibit A-2), I have concluded that Winnie was the de facto purchaser of the Subject Land on or about October 28, 2002; and that the Appellant was only an agent for Winnie in effecting the purchase. Because Winnie was not a registrant under the GST legislation in October 2002, there was GST payable upon her purchase from the Vendors.
+[11] In the purchase contract (Exhibit R-1), there is a statement in paragraph 7.6 that the purchaser assumed GST liability for the SubjectLand. In Exhibit R-4, the Appellant Corporation gives an indemnity to the Vendors with respect to any GST which the Vendors were required to remit upon their sale of the SubjectLand. As agent, the Appellant gave this indemnity for its principal, Winnie.
+[12] Winnie, as principal, did not need to purchase the SubjectLand from the Appellant, as agent. In my view, Exhibits R-8, R-9 and R-10 are redundant and misleading, if not deceptive. I will dismiss the appeal and uphold the assessment against the Appellant for GST in the net amount of $9,555 (7% of $136,500).
+Signed at Ottawa, Canada, this 2nd day of February 2007.
+"M.A. Mogan"
+Mogan D.J.
+CITATION: 2007TCC69
+COURT FILE NO.: 2005-4300(GST)I
+STYLE OF CAUSE: SAMUEL C. YOUNG PROFESSIONAL CORPORATION AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: August 17, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: February 3, 2007
+APPEARANCES:
+Agent for the Appellant:
+Samuel C. Young
+Counsel for the Respondent:
+George F. Body
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

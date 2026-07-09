@@ -1,0 +1,146 @@
+Title: Rogers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22835/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-225-22835-rogers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-22
+
+# Rogers c. La Reine
+
+- Citation: 2003 CCI 225
+- Decision date: 2003-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2341, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rogers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-22
+Référence neutre
+2003 CCI 225
+Numéro de dossier
+2002-4608(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4608(IT)I
+ENTRE :
+GORDON ROGERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Vancouver (Colombie‑Britannique), le 7 avril 2003.
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour d’avril 2003.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2003CCI225
+Date : 20030422
+Dossier : 2002-4608(IT)I
+ENTRE :
+GORDON ROGERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] En 1976, l’appelant et son épouse ont acheté une parcelle de fonds de terre de 19,6 acres près de Powell River (Colombie‑Britannique) (le « fonds de terre »).
+[2] En 1980, l’appelant a construit une maison sur le fonds de terre pour ensuite y résider avec son épouse et ses deux fils.
+[3] En 2000, l’appelant travaillait comme technicien de laboratoire dans une usine de pâte à papier appartenant à Pacifica Papers Inc. (maintenant Norske Canada Ltd.)
+[4] De 1980 à 2000, inclusivement, l’appelant a vendu du bois d’œuvre provenant du fonds de terre pour diverses raisons. Les ventes de bois d’œuvre réalisées par l’appelant et les raisons de ces ventes sont résumées dans le tableau suivant :
+Année
+Somme reçue
+Raison de la coupe du bois d’œuvre
+1980
+2 025 $
+Dégager le tracé de la route et l’emplacement de la maison.
+1986
+4 900 $
+Défricher une partie du terrain (½ acre).
+1994
+35 746 $
+Utiliser le produit de la vente de billes de bois pour payer le règlement du divorce et pour racheter l’intérêt de l’épouse dans le terrain.
+1995
+24 193 $
+Abattre des arbres malades.
+1998
+19 599 $
+Défricher une partie du terrain[1].
+2000
+24 050 $
+Abattre des arbres malades et défricher une partie du terrain.
+[5] Chaque fois que l’appelant a coupé des arbres, il a fait faire le travail par des entrepreneurs en exploitation forestière, sauf en 1998.
+[6] Lorsque l’appelant a rempli sa déclaration de revenus pour l’année d’imposition 2000, il a déclaré les revenus provenant de la vente de bois debout comme des gains en capital.
+[7] L’appelant n’a jamais déclaré, pour l’application de l’impôt sur le revenu, un seul des paiements qu’il avait reçus pour les ventes de billes de bois ou de bois d’œuvre faites en 1980, en 1986, en 1994, en 1995 ou en 1998.
+[8] Par avis de nouvelle cotisation délivré le 24 septembre 2001, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2000. Dans cette nouvelle cotisation, la somme de 24 050 $ tirée de la vente de billes de bois était considérée comme un revenu.
+B. QUESTION EN LITIGE
+[9] L’appelant est‑il tenu d’inclure dans ses revenus la somme de 24 050 $ qu’il a reçue en 2000 pour la vente de billes de bois?
+C. ANALYSE
+[10] Le ministre a inclus la somme de 24 050 $ dans les revenus de l’appelant parce qu’il avait conclu que l’appelant avait entrepris un « projet comportant un risque ou une affaire de caractère commercial » en vendant des billes de bois en 2000.
+[11] L’expression « projet comportant un risque ou une affaire de caractère commercial » a été examinée à maintes reprises dans la jurisprudence au Canada. Dans Jake Friesen v. The Queen, [1995] 2 C.T.C. 369, le juge Major de la Cour suprême du Canada s’est exprimé de la sorte :
+[13] […] L’expression « projet comportant un risque ou une affaire de caractère commercial » n’est pas définie dans la Loi, mais elle a un sens établi par la common law.
+[…]
+[15] La notion de projet comportant un risque de caractère commercial est une création jurisprudentielle visant à départager les opérations d’achat et de vente qui sont de nature commerciale de celles qui tiennent d’une immobilisation. Cette question revêtait une importance particulière avant 1972, puisque les opérations portant sur des immobilisations étaient alors totalement exonérées d’impôt. La question a été énoncée succinctement par le lord juge Clerk dans l’arrêt Californian Copper Syndicate c. Harris (1904), 5 T.C. 159 (Ex., Scot.), à la p. 166 :
+[TRADUCTION] Le gain est‑il une simple plus‑value due à la réalisation d’un titre, ou est‑ce un gain fait dans le cadre d’une entreprise conformément à un plan visant la réalisation d’un bénéfice?
+[16] La première condition de l’existence d’un projet comportant un risque de caractère commercial est qu’il comporte un « plan visant la réalisation d'un bénéfice ». Le contribuable doit avoir l’intention légitime de tirer un bénéfice de l’opération. […]
+[12] Dans un bon nombre de décisions, la Cour canadienne de l’impôt a déclaré que l’un des critères permettant de savoir si une opération constituait un projet comportant un risque ou une affaire de caractère commercial était de savoir si le contribuable avait déjà conclu des opérations similaires. Dans les cas où un contribuable avait fréquemment effectué des opérations, la Cour a habituellement conclu qu’il était un commerçant. En l’espèce, l’appelant a vendu des billes de bois ou du bois debout à six reprises pendant qu’il était propriétaire du fonds de terre.
+[13] Après avoir examiné la preuve et la jurisprudence, j’ai conclu que lorsque l’appelant a vendu des billes de bois et du bois debout provenant du fonds de terre en 2000, il avait entrepris un projet comportant un risque ou une affaire de caractère commercial, et que, par conséquent, la somme de 24 050 $ constituait un revenu.
+[14] L’appel est rejeté, sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 22e jour d’avril 2003.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2003CCI225
+No DU DOSSIER DE LA COUR :
+2002‑4608(IT)I
+INTITULÉ :
+Gordon Rogers et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 7 avril 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 22 avril 2003
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelant a obtenu 6 500 $ en vendant des billes de bois. Ses deux fils l’avaient aidé, et ils ont tous deux reçu 6 500 $.

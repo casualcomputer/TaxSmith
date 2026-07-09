@@ -1,0 +1,149 @@
+---
+title: "Nowlan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25511/index.do"
+last_modified: "2003-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 803"
+citation2: ""
+neutral_citation: "2003 CCI 803"
+decision_date: "2003-11-21"
+language: "fr"
+item_id: "25511"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2369
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:30:05.875000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76121b619bf5242b2352e9ed601af10b1afd6828716aa9705a173c0f821b6313"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nowlan c. La Reine
+
+- Citation: 2003 CCI 803
+- Decision date: 2003-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2369, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nowlan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-21
+Référence neutre
+2003 CCI 803
+Numéro de dossier
+2003-732(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑732(IT)I
+ENTRE :
+TOM NOWLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 1er octobre 2003 à Toronto (Ontario)
+Devant : L’honorable juge Georgette Sheridan
+Comparutions
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Bonnie Boucher
+____________________________________________________________________
+JUGEMENT
+Sur requête présentée par l’intimée visant à obtenir une ordonnance annulant l’appel interjeté pour l’année d’imposition 1999 au motif que l’appelant n’a pas déposé un Avis d’opposition valide conformément au paragraphe 169(1) de la Loi de l’impôt sur le revenu;
+L’appel interjeté à propos de l’année d’imposition 1999 est annulé.
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont rejetés sans dépens.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI803
+Date : 20031121
+Dossier : 2003‑732(IT)I
+ENTRE :
+TOM NOWLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Le présent appel est interjeté pour les années d’imposition 1999, 2000 et 2001.
+PARTIE 1 – Opposition préliminaire portant sur l’année d’imposition 1999
+QUESTION EN LITIGE
+Déterminer si l’Avis d’appel déposé par l’appelant pour l’année d’imposition 1999 est un Avis d’appel valide.
+[2] Avant d’examiner le bien‑fondé des appels, l’intimée s’est opposée à l’audition de l’appel pour l’année d’imposition 1999 au motif que l’appelant, avant de déposer son Avis d’appel, n’avait pas signifié au ministre un Avis d’opposition à la nouvelle cotisation pour ladite année comme l’exigent les articles 165 et 169 de la Loi de l’impôt sur le revenu (la « Loi »). Pour documenter sa demande, l’intimée s’est fondée sur l’affidavit de Tracey Cooper, une fonctionnaire du Bureau du contentieux des affaires fiscales de Toronto de l’Agence des douanes et du revenu du Canada (l’« ADRC »).
+[3] Une copie de l’Avis de nouvelle cotisation pour l’année d’imposition 1999 est jointe, comme pièce A, à l’affidavit de Mme Cooper. Selon les dispositions de la Loi, l’appelant disposait de 90 jours à partir du 11 décembre 2000, date de l’envoi par la poste de l’Avis de nouvelle cotisation, pour déposer son Avis d’opposition. Il ne l’a pas fait avant la date limite du 11 mars 2001. L’appelant pouvait alors, dans l’année qui suivait, demander une prorogation du délai au ministre pour déposer son Avis d’opposition. Là encore, il ne l’a pas fait dans les délais impartis. Ce n’est que huit mois plus tard, en novembre 2002, que le requérant a présenté sa demande au ministre. Il était alors trop tard, en vertu du paragraphe 169(1).
+[4] Par conséquent, parce que l’appelant n’avait pas déposé d’Avis d’opposition devant le ministre comme la Loi l’exige, la requête de l’intimée est accueillie et l’appel interjeté pour l’année d’imposition 1999 est annulé.
+PARTIE 2
+QUESTION EN LITIGE
+Déterminer si l’appelant a droit à une déduction pour les paiements de pension alimentaire pour enfants faits au cours des années d’imposition 2000 et 2001.
+FAITS
+[5] L’appelant interjette appel à l’encontre des cotisations établies pour les années d’imposition 2000 et 2001. Dans le calcul de son revenu pour chacune des années en litige, l’appelant a cherché à déduire les paiements de pension alimentaire pour enfants s’élevant respectivement à 7 200 $ et à 7 656 $.
+[6] Par Avis de cotisation datés respectivement du 12 avril 2001 et du 13 mai 2002, le ministre a refusé la déduction des paiements de pension alimentaire pour enfants pour lesdites années. L’appelant a déposé un Avis d’opposition. Dans un Avis de ratification daté du 28 novembre 2002, le ministre a ratifiée les cotisations établies pour 2000 et 2001.
+[7] L’appelant a témoigné en son propre nom. Aucun autre témoin n’a été appelé. Résumé brièvement, le témoignage non contesté de l’appelant est le suivant :
+a) il a épousé son ancienne conjointe en 1979. Deux enfants sont nés pendant le mariage. En 1991, l’appelant et son ancienne conjointe vivaient séparés;
+b) en 1993, un accord de séparation (l’« accord original de 1993 ») a été signé par l’appelant et son ancienne conjointe. Conformément audit accord, l’appelant devait payer 600 $ par mois à partir du 1er janvier 1993;
+c) l’accord original de 1993 a été déposé auprès du Bureau des obligations familiales;
+d) au cours de 1997, l’appelant a eu des difficultés financières qui se sont traduites, entre autres, par l’accumulation d’arriérés;
+e) dans une lettre envoyée au Bureau des obligations familiales datée du 7 janvier 1998 (l’« accord de 1998 »), l’appelant et son ancienne conjointe ont convenu qu’ils avaient [traduction] « […] été en mesure de régler la situation au moyen d’une modification amiable de [l’accord original de 1993 ] » et que l’appelant convenait [traduction] « de payer la pension alimentaire pour enfants au taux de 400 $ par mois non imposables pour les années 1997 et 1998 ». L’accord de 1998 ajoutait que [traduction] « si le présent accord est violé, [l’accord original] sera mis en œuvre et déposé de nouveau auprès du [Bureau des obligations familiales] »;
+f) en mars 1998, l’appelant et son ancienne conjointe ont signé un formulaire T1157 (97) exigé par Revenu Canada (maintenant l’« Agence des douanes et du revenu du Canada ») intitulé « Choix à l’égard de la pension alimentaire pour enfants » (le « choix conjoint »). Conformément à la partie B du formulaire, le choix conjoint devait s’appliquer aux paiements de pension alimentaire pour enfants à partir du 1er mai 1997. Il a été déposé auprès de l’Agence des douanes et du revenu du Canada où il est toujours demeuré pertinent en l’espèce;
+g) l’appelant a versé les paiements de pension alimentaire pour enfants de 400 $ par mois conformément à l’accord de 1998 jusqu’en mai 1999, date à laquelle son chèque de paiement de pension alimentaire pour enfants a été déclaré sans provision, déclenchant donc la stipulation de l’accord de 1998 qui prévoyait que [traduction] « si le présent accord est violé, [l’accord original de 1993] sera mis en œuvre et déposé de nouveau auprès du [Bureau des obligations familiales] »;
+h) quelque temps après mai 1999, l’accord original de 1993 a été déposé de nouveau auprès du Bureau des obligations familiales et l’appelant a recommencé à faire des paiements de 600 $ par mois conformément audit accord. Cela comprenait le paiement des arriérés pour les années 2000 et 2001 s’élevant respectivement à 7 200 $ et à 7 656 $.
+DISPOSITIONS LÉGISLATIVES
+[8] Le paragraphe 56.1(4) définit « date d’exécution » de la façon suivante :
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+ANALYSE
+I. Choix conjoint
+[9] L’appelant n’a pas nié que lui et son ancienne conjointe avaient signé le choix conjoint. Il a également reconnu qu’il comprenait que les répercussions de la signature du choix conjoint étaient de rendre non déductibles les paiements de pension alimentaire pour enfants qu’il versait après le 1er mai 1997. L’appelant a cependant soutenu qu’il avait droit à la déduction de ses paiements de pension alimentaire pour enfants car la remise en œuvre de l’accord original de 1993 avait pour conséquence de révoquer le choix conjoint et de remettre en vigueur le régime d’avant 1997.
+[10] Alors que je ne doute pas de la sincérité de la croyance de l’appelant dans le bien-fondé de son argument, la Cour ne disposait d’aucune preuve pour étayer la révocation, expresse ou tacite, du choix conjoint. Les intentions de l’autre signataire du choix conjoint, l’ancienne conjointe de l’appelant, n’étaient pas prouvées. L’appelant ne peut révoquer unilatéralement le choix qui a été signé conjointement par lui‑même et son ancienne conjointe.
+[11] Une fois le formulaire T1157 signé et déposé auprès de l’ADRC, le génie était sorti de la lampe. En vertu du sous‑alinéa 56.1(4)b)(i), la « date d’exécution » était devenue la date précisée dans le formulaire de choix conjoint, soit le 1er mai 1997. Tout montant payé au titre de la pension alimentaire pour enfants après le 1er mai 1997 était payé « à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement » au sens de l’alinéa 60b). Il en découle que la pension alimentaire pour enfants versée en 2000 et en 2001 ne peut être déductible du revenu de l’appelant.
+II. Modification de l’accord original ou variation contenue dans un accord subséquent
+[12] Subsidiairement, l’appelant a soutenu que la remise en vigueur et le nouveau dépôt de l’accord original de 1993 auprès du Bureau des obligations familiales en 1999 avaient pour conséquence la remise en vigueur des règles antérieures à 1997 en matière de déduction et d’inclusion qui s’y appliquaient au départ. L’avocate de l’intimée s’y est opposée en déclarant qu’une telle conséquence n’était pas possible. Elle a fait valoir que les diverses modifications apportées par l’accord de 1998 et le défaut subséquent de l’appelant en vertu dudit accord tombaient sans aucun doute sous le coup de l’alinéa 56.1(4)b). À son avis, l’accord de 1998 constituait soit une variation de l’accord original de 1993, soit un accord subséquent remplaçant l’accord original de 1993. Quoi qu’il en soit, la « date d’exécution » était déclenchée en vertu de l’alinéa 56.1(4)b), et l’alinéa 60b) de la Loi s’appliquait pour rendre non déductibles les paiements de pension alimentaire pour enfants.
+[13] Dans la décision Kovarik c. Canada, [2001] A.C.I. no 181), le juge en chef adjoint Bowman a expliqué les répercussions de la nouvelle législation sur les arrangements antérieurs à 1997 :
+[8] En vertu de ce que je pourrais décrire comme l'ancien régime (antérieur à mai 1997), les conjoints effectuant des paiements à leurs conjoints dont ils étaient séparés ou à leurs anciens conjoints à titre d'aliments pour les enfants pouvaient déduire ces paiements et les bénéficiaires devaient les inclure dans leur revenu. À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627, la loi a changé. Tant qu'un accord antérieur à mai 1997 demeurait inchangé, le système de déduction et d'inclusion en vertu de l'ancien régime prévalait.
+[9] Si un nouvel accord était conclu ou si un ancien accord était modifié d'une manière particulière, le régime de déduction et d'inclusion cessait, et seuls les paiements effectués à la « date d'exécution », ainsi qu'elle est définie, étaient déductibles par le payeur et devaient être inclus par le bénéficiaire dans son revenu.
+[14] Le fait est que l’accord de 1998 a changé la pension alimentaire pour enfants. Elle l’a fait passer des 600 $ par mois convenus dans l’accord original de 1993 à une nouvelle pension alimentaire pour enfants de 400 $ par mois. Après le défaut de l’appelant en vertu de l’accord de 1998, la pension alimentaire pour enfants a de nouveau changé pour revenir au montant prévu dans l’accord de 1993. Par conséquent, que lesdits changements constituent une variation de l’accord antérieur à 1997 conformément au sous‑alinéa 56.1(4)b)(ii) ou qu’ils débouchent sur un nouvel accord, le résultat est le même. Une date d’exécution est déclenchée, et l’alinéa 60b) s’applique pour rendre non déductibles les paiements de pension alimentaire pour enfants pour les années d’imposition 2000 et 2001.
+[15] Par conséquent, la Cour n’a d’autre choix que de rejeter les appels.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour de mars 2004.
+Sylvie Sabourin, traductrice

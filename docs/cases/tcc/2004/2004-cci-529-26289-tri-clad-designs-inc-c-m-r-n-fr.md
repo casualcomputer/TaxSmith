@@ -1,0 +1,224 @@
+---
+title: "Tri Clad Designs Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26289/index.do"
+last_modified: "2004-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 529"
+citation2: ""
+neutral_citation: "2004 CCI 529"
+decision_date: "2004-08-06"
+language: "fr"
+item_id: "26289"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3301
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:10:31.231000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1a88251cc9064d8a2f2419f2d098166a1f4902826df4e5ea0ce3b3d0acc56120"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tri Clad Designs Inc. c. M.R.N.
+
+- Citation: 2004 CCI 529
+- Decision date: 2004-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3301, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tri Clad Designs Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-06
+Référence neutre
+2004 CCI 529
+Numéro de dossier
+2003-3831(CPP)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003-3831(CPP)
+ENTRE :
+TRI CLAD DESIGNS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu le 22 juillet 2004 à Winnipeg (Manitoba)
+Devant : L’honorable L.M. Little
+Comparutions :
+Représentant de l’appelante :
+Mel L. Verin
+Avocat de l’intimé :
+Derwin Petrie
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté sans qu’aucuns dépens ne soient adjugés et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 6e jour d’août 2004.
+« L.M. Little»
+Juge Little
+Traduction certifiée conforme
+ce 6e jour de juin 2005. ‏
+Lucie Roberge, traductrice‏
+Référence : 2004TCC529
+Date : 20040806
+Dossier : 2003-3831(CPP)
+ENTRE :
+TRI CLAD DESIGNS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Exposé des faits :
+[1] L’appelante est une compagnie incorporée en vertu des lois du Manitoba.
+[2] L’appelante oeuvre dans le domaine de la conception, de la construction et de la rénovation d’édifices dans toute la province du Manitoba et dans le Nord de l’Ontario.
+[3] Bonnie Wright (la « travailleuse ») est l’épouse de Gordon Wright. Gordon Wright possède le tiers des actions émises de l’appelante.
+[4] En 1993, la travailleuse a commencé à offrir des services à l’appelante.
+[5] Dans un document soumis à l’Agence du revenu du Canada (« ARC »), la travailleuse a ainsi décrit les services qu’elle offrait à l’appelante et ses fonctions dans cette compagnie :
+Fonctions
+1. Comptabilité – préparation du rapport de fin d’année pour le comptable;
+– rapprochement et contrôle des comptes débiteurs et créditeurs;
+2. Supervision du personnel du service de comptabilité;
+3. Négociation de contrats financiers au nom de l’appelante (voir la pièce R-2).
+[6] La travailleuse a déclaré dans son témoignage qu’en plus des services qu’elle offrait à l’appelante, elle possédait et exploitait une entreprise de massothérapie et une entreprise de vente par correspondance.
+[7] Lorsque l’appelante a produit sa déclaration en vertu du Régime de pensions du Canada, elle a classé la travailleuse dans la catégorie des travailleurs autonomes pour la période allant du 1er janvier au 31 décembre 1999 (la « période pertinente »).
+[8] Dans une décision rendue par K. Storrier de la Division des appels de l’ARC et datée du 16 juillet, on trouve les commentaires suivants concernant la travailleuse :
+[Traduction]
+Il a été décidé de confirmer l’évaluation vous concernant pour le motif suivant :
+Vous étiez employée aux termes d’un contrat de louage de services et, par conséquent, vous étiez une employée de Tri Clad Designs Inc.
+La décision mentionnée dans cette lettre est rendue conformément au paragraphe 27.2(3) du Régime de pensions du Canada et elle est fondée sur l’alinéa 6(1)a) de cette même loi.
+[9] L’appelante a interjeté appel.
+B. Question à trancher :
+[10] La travailleuse occupait-elle chez l’appelante pendant la période pertinente un emploi ouvrant droit à pension au sens de ce terme dans le Régime de pensions du Canada?
+C. Analyse et décision :
+[11] Les parties pertinentes du Régime de pensions du Canada se lisent comme suit :
+6. (1) Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+. . .
+(2) Sont exceptés les emplois suivants :
+b) l’emploi d’une nature fortuite, qui n’est pas lié à l’objet du commerce ou de l’entreprise de l’employeur;
+[12] Il faut déterminer si la travailleuse était employée « aux termes d’un contrat de louage de services (…), exprès ou tacite ». Ce n’est que si la travailleuse était employée aux termes d’un contrat de louage de services qu’elle pouvait occuper un « emploi ouvrant droit à pension ».
+[13] Les tribunaux judiciaires ont examiné à maintes reprises ce qui constitue un « contrat de louage de services » lorsqu’ils cherchaient à distinguer pareil contrat d’un « contrat d’entreprise ». En d’autres termes, la Cour doit déterminer si la travailleuse était une employée de l’appelante ou une entrepreneuse indépendante.
+[14] Il faut examiner ce qui, de l’avis des tribunaux, constitue un contrat de louage de services. Les tribunaux ont élaboré un critère qui met l’accent sur l’ensemble de la relation existant entre les parties, leur analyse étant axée sur quatre éléments :
+- le degré de contrôle et de supervision,
+- la propriété des instruments de travail,
+- les chances de bénéfice,
+- les risques de perte.
+[15] Ce critère a été énoncé par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. M.N.R.[1]; il a été accepté et sa portée a été élargie dans des arrêts ultérieurs. La Cour suprême du Canada a récemment eu la chance de revoir la question dans l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2]
+[16] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations Ltd. v. Minister of Social Security[3] est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quel est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.[4]
+[17] Dans l’affaire Sagaz, le juge Major a conclu que la principale question consistait à déterminer si « la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte »[5] ou si elle les fournit en sa qualité d’employé.
+[18] La Cour d’appel fédérale a déjà fait remarquer qu’il faut adopter une approche holistique en examinant les quatre éléments :
+. . . nous considérons les critères comme des subordonnés utiles pour peser tous les faits relatifs à l’entreprise de la requérante. C’est maintenant l’approche appropriée et préférable pour la très bonne raison que dans une cause donnée, et celle-ci peut très bien en être une, un ou plusieurs des critères peuvent être peu ou pas applicables. Pour rendre une décision, il faut donc considérer l’ensemble de la preuve en tenant compte des critères qui peuvent être appliqués et donner à toute la preuve le poids que les circonstances peuvent exiger.[6]
+De même, le juge Major a déclaré ce qui suit dans l’arrêt Sagaz :
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.[7]
+[19] Avant d’appliquer les faits de la présente affaire aux principes susmentionnés, il faut noter que la décision du ministre selon laquelle le travailleur était employé aux termes d’un contrat de louage de services est assujettie à un examen indépendant par la Cour de l’impôt[8]. Il n’est pas nécessaire de faire preuve de retenue à l’égard de la décision du ministre.
+[20] Comme il a été déclaré ci-dessus, le critère de l’affaire Wiebe Door peut être divisé en quatre catégories :
+Le contrôle
+[21] Voici ce que le juge MacGuigan a dit dans l’arrêt Wiebe Door :
+En common law, le critère traditionnel qui confirme l’existence d’une relation employeur-employé est le critère du contrôle, que le baron Bramwell a défini dans Regina v. Walker (1858), 27 L.J.M.C. 207, à la page 208 :
+[TRADUCTION] À mon sens, la différence entre une relation commettant-préposé et une relation mandant-mandataire est la suivante : un mandant a le droit d’indiquer au mandataire ce qu’il doit faire, mais le commettant a non seulement ce droit, mais aussi celui de dire comment la chose doit être faite[9].
+[22] En d’autres termes, l’élément crucial du « contrôle » se rapporte à la capacité de l’employeur d’exercer un contrôle sur la façon dont l’employé s’acquitte de son travail; par conséquent, l’accent n’est pas mis sur le contrôle que l’employeur exerçait de fait sur l’employé. Ainsi, cette capacité comprend le pouvoir de fixer les heures de travail, de définir les services à fournir et de décider du travail à accomplir au cours d’une journée donnée.
+[23] La travailleuse a déclaré dans son témoignage qu’elle pouvait aller et venir comme elle le désirait. Elle a dit que son salaire était négocié chaque année et qu’elle recevait un montant précis toutes les deux semaines sur une base annuelle.
+[24] Divers documents déposés à la Cour soulèvent des doutes quant à certaines parties du témoignage de la travailleuse. Je vais citer ce qui suit :
+L’avocat de l’intimé a déposé une liste de factures (voir la pièce R-4). Ces factures auraient été établies par l’entreprise de la travailleuse – « BW Accounting Services »– au nom de l’appelante pour la période de 1999. Une facture a été établie toutes les deux semaines à compter du 16 janvier 1999. Chacune des factures (25 en tout) était d’un montant de 1 760 $, ce qui donne un total de 44 000 $ pour l’année 1999. Cependant, aucun chèque n’a été émis par l’appelante concernant spécifiquement ces factures individuelles (voir la pièce R-3).
+[25] L’avocat de l’intimé a aussi déposé la pièce R-5 qui est constituée de copies de 33 chèques fait par l’appelante à l’ordre de la travailleuse à diverses date en 1999.
+[26] Les détails de ces chèques ne correspondent pas à ce que la travailleuse a déclaré dans son témoignage ni aux factures figurant à la pièce R-4.
+[27] Je parle des chèques suivants :
+a) Chèque no 002999 (page 3800-6) d’un montant de 2 700 $ à l’ordre de la travailleuse et daté du 20 janvier 1999, où il est indiqué que le chèque en question vise une période de 135 heures au taux de 20 $ l’heure pour un total de 2 700 $. Le chèque indique aussi une paye de vacances accumulée de 320 $;
+b) Chèque no 002812 (page 3800-7) d’un montant de 1 350 $ à l’ordre de la travailleuse et daté du 3 février 1999 où il est indiqué que le chèque en question vise une période de 67,50 heures au taux de 20 $ l’heure pour un total de 1 350 $ plus une paye de vacances accumulée de 160 $ et une réserve accumulée équivalant à 250 $;
+c) Chèque no 003057 (page 3800-13) d’un montant de 1 000 $ à l’ordre de la travailleuse, daté du 10 mai 1999 et signé par la travailleuse, portant sur la paye de vacances;
+d) Chèque no 003109 (page 3800-16) d’un montant de 5 000 $ à l’ordre de la travailleuse, daté du 22 juin 1999 et signé par elle, accompagné de l’indication suivante :
+Une partie pour des heures de réserve
+Une partie pour la paye de vacances
+e) Chèque no 003199 (page 3800-21) d’un montant de 1 552,61 $ daté du 10 août 1999 et accompagné de l’indication suivante :
+Paiement de la paye de vacances
+f) Chèque no 003293 (page 3800-28) d’un montant de 820 $ à l’ordre de la travailleuse, daté du 6 octobre 1999 et accompagné de l’indication suivante :
+320 $ = paye de vacances
+500 $ = réserve
+g) Chèque no 003338 (page 3800-31) d’un montant de 2 950 $ à l’ordre de la travailleuse, daté du 7 décembre 1999 est accompagné de l’indication suivante :
+1 350 $ = paye régulière
+1 600 $ = paye de vacances et réserve facturées
+h) Il y avait aussi un certain nombre d’autres irrégularités dans les chèques émis par l’appelante à l’ordre de la travailleuse.
+[28] À mon avis, la référence à la « paye de vacances » sur les chèques de la pièce R‑3 indique que la travailleuse est une employée et non une entrepreneuse indépendante.
+[29] Je ne suis pas convaincu par le témoignage de la travailleuse que le critère du contrôle est respecté dans son cas. En d’autres termes, je crois que les chèques qui ont été émis à l’ordre de la travailleuse sont l’indication que celle-ci était une employée de l’appelante.
+La propriété des instruments de travail
+[30] La travailleuse a affirmé qu’elle possédait son propre ordinateur portatif qu’elle utilisait dans le cadre de sa prestation de services à l’appelante. Cependant, elle a admis que lorsqu’elle se trouvait dans l’établissement de l’appelante, elle utilisait l’ordinateur de l’appelante, le réseau de l’appelante, un bureau et d’autres biens et équipements appartenant à l’appelante.
+[31] Je conclus que ce critère n’est pas satisfait en ce qui concerne la travailleuse.
+Les chances de bénéfice et les risques de perte
+[32] La travailleuse a déclaré qu’elle recevait un montant fixe toutes les deux semaines. Elle a dit qu’elle négociait son salaire au début de l’année. Elle n’avait aucun investissement dans l’entreprise de l’appelante et ne pouvait donc pas faire de profit si l’entreprise était prospère.
+[33] Je conclus que ce critère n’est pas respecté en ce qui concerne la travailleuse.
+L’intégration
+[34] Comme il est mentionné ci-dessus, la travailleuse a dit qu’elle offrait des services de comptabilité à l’appelante. Elle n’avait aucun autre client à qui elle donnait des conseils sur l’administration ou la comptabilité.
+[35] Dans la pièce R-2, la travailleuse a dit ceci :
+[Traduction]
+Je suis la seule qui a des connaissances financières spécialisées (c’est-à-dire dans l’entreprise de l’appelante)
+[36] D’après le témoignage de la travailleuse, je crois que ses activités auprès de l’appelante faisaient partie intégrante de l’entreprise de l’appelante.
+[37] Pour les motifs mentionnés ci-dessus, je conclus que la travailleuse occupait chez l’appelante un emploi ouvrant droit à pension au sens de ce terme dans le Régime de pensions du Canada. L’appel est rejeté sans qu’aucuns dépens ne soient adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 6e jour d’août 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 6e jour de juin 2005.
+Lucie Roberge, traductrice
+RÉFÉRENCE :
+2004TCC529
+NO DU DOSSIER DE LA COUR :
+2003-3831(CPP)
+INTITULÉ DE LA CAUSE :
+Tri Clad Designs Inc. et le Ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+22 juillet 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable L.M. Little
+DATE DU JUGEMENT :
+6 août 2004
+COMPARUTIONS :
+Représentant de l’appelante :
+Mel L. Verin
+Avocat de l’intimé :
+Derwin Petrie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553, 70 N.R. 214, [1986] 2 C.T.C. 200, 87 DTC 5025 (C.A.F.).
+[2] [2001] 2 R.C. S. 983, 204 D.L.R. (4th) 542.
+[3] [1968] All E.R. 732
+[4] Sagaz, supra.
+[5] Sagaz, supra.
+[6] Moose Jaw Kinsmen Flying Fins Inc. c. M.R.N., , A-531-87, [1988] 2 C.T.C. 2377 (C.A.F.); 88 DTC 6099 à la page 6100).
+[7] Sagaz, supra, at para. 48
+[8] M.N.R. v. Jencan (1997), 215 N.R. 352, 2 Admin. L.R. (2d) 152 (C.A.F.) au paragraphe 24. Cité avec approbation dans Candor Enterprises Ltd. v. Canada (M.N.R.) (2000), 264 N.R. 149 (C.A.F.).
+[9] Wiebe Door, supra

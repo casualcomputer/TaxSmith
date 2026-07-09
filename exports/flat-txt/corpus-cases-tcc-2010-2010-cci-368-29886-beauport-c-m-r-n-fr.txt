@@ -1,0 +1,134 @@
+Title: Beauport c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29886/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-368-29886-beauport-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-07-08
+
+# Beauport c. M.R.N.
+
+- Citation: 2010 CCI 368
+- Decision date: 2010-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6380, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauport c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-08
+Référence neutre
+2010 CCI 368
+Numéro de dossier
+2009-3472(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-3472(EI)
+ENTRE :
+RÉJEAN BEAUPORT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 30 juin 2010, à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision du ministre du Revenu national par laquelle il a été déterminé que l’appelant exerçait un emploi assurable auprès de Excavation Normand Majeau Inc. (payeur) au cours de la période du 1er janvier 2005 au 31 juillet 2008, aux termes de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, est rejeté sur la base que l’appelant exerçait un emploi assurable au cours des périodes du 1er janvier 2005 au 21 mai 2005 et du 12 décembre 2005 au 31 juillet 2008. Quant à la période du 21 mai 2005 au 12 décembre 2005, je conclus que l’appelant ne travaillait pas pour le payeur au cours de cette période.
+Signé à Ottawa, Canada, ce 8e jour de juillet 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2010 CCI 368
+Date : 080710
+Dossier : 2009-3472(EI)
+ENTRE :
+RÉJEAN BEAUPORT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel d’une décision du ministre du Revenu national (ministre) par laquelle il a été déterminé que l’appelant exerçait un emploi assurable auprès de Excavation Normand Majeau Inc. (le payeur) au cours de la période du 1er janvier 2005 au 31 juillet 2008, aux termes de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (LAE). L’appelant est d’avis qu’il n’était pas un employé mais plutôt un travailleur autonome.
+[2] Les faits retenus par le ministre pour rendre sa décision se retrouvent au paragraphe 5 de la Réponse à l’avis d’appel, que je reproduis ci-après :
+5. Le ministre a déterminé que l’appelant exerçait un emploi auprès du payeur aux termes d’un contrat de louage de services, en s’appuyant sur les présomptions de faits suivants :
+a) le payeur a été constitué en société le 10 avril 1985, selon la partie 1A de la Loi sur les compagnies;
+b) le seul actionnaire du payeur est Michel Majeau;
+c) le payeur exploite une entreprise spécialisée dans l’excavation et le déneigement; [admis]
+d) l’appelant a été engagé chez le payeur pour exercer les fonctions de soudeur;
+e) l’appelant faisait de la soudure sur la machinerie du payeur; [admis]
+f) l’appelant travaillait au garage du payeur situé à Saint-Gabriel de Brandon et à la carrière de sable du payeur situé à Sainte-Ursule;
+g) soit le payeur soit le contremaître du payeur, Richard Frappier, informait l’appelant de son lieu de travail;
+h) le contremaître du payeur qui [sic] planifiait le travail à faire par l’appelant;
+i) le contremaître supervisait les travaux de soudure de l’appelant;
+j) l’appelant choisissait sa méthode de travail; [admis]
+k) l’appelant travaillait avec d’autres soudeurs, employés du payeur;
+l) l’appelant utilisait l’équipement et le matériel de soudure du payeur; [admis]
+m) le payeur fournissait à l’appelant des gants de soudure et des salopettes en jeans; [admis]
+n) l’appelant travaillait du lundi au vendredi de 7 h 30 à 16 h 30 ou 17 h,
+o) au début de son emploi chez le payeur, l’appelant ne travaillait que 3 jours semaines, plus tard il a demandé et obtenu du payeur de travailler plus de jours par semaine pour arriver à 5 jours; [admis]
+p) l’appelant prenait 30 minutes pour dîner, comme les autres employés du payeur; [admis]
+q) l’appelant complétait journellement [sic] des feuilles de temps sur lesquelles il inscrivait un numéro pour la machine et les heures de début et de fin, comme les autres employés du payeur;
+r) le payeur savait déjà le nombre d’heures qui allaient être inscrit sur les factures présentées par l’appelant;
+s) l’appelant a fixé son taux horaire à 18 $ que le payeur a accepté. Plus tard il a demandé et obtenu une augmentation et son taux est passé à 19 $; [admis]
+t) les factures présentées par l’appelant indiquent toutes des travaux de soudure, le nombre d’heures et le taux horaire sans aucune autre charge;
+u) le total annuel des factures correspond aux revenus brut déclarés par l’appelant sur ses déclarations d’impôt;
+v) l’appelant réclame des frais d’utilisation de son véhicule pour toute la période en litige et des frais d’utilisation d’une partie de sa résidence pour les années 2006 et 2007; [admis]
+w) pendant toute la période en litige, l’appelant n’a eu des revenus que de ce payeur;
+[3] Il ressort de la preuve que l’appelant est soudeur et qu’il a été engagé par le payeur pour réparer la machinerie du payeur. Il exécutait le travail que le contremaître lui demandait de faire sur une base régulière. Il pouvait travailler au garage du payeur ou directement sur les deux carrières détenues par le payeur, dépendamment où il y avait de l’ouvrage.
+[4] De concert, le payeur et l’appelant ont convenu que ce dernier aurait le statut de travailleur autonome. Ainsi, l’appelant donnait une facture hebdomadairement au payeur sur laquelle étaient inscrits le nombre d’heures qu’il avait travaillées ainsi que le taux horaire convenu. Ces factures ont été déposées sous la pièce I-1. On remarque qu’en janvier 2005, il était payé 16 $ de l’heure, et que ce taux est passé à 18 $ de l’heure en février 2005. L’appelant a travaillé chaque semaine, en moyenne entre 35 et 42 heures par semaine, jusqu’à la fin du mois de mai 2005. Il a repris le travail pour le payeur au mois de décembre 2005, à temps plein, jusqu’à la fin du mois de juillet 2008. De ces factures, il ne semble pas qu’il y ait eu arrêt de travail pour des vacances. Du mois de janvier au mois d’avril 2006, inclusivement, il recevait un taux horaire de 10 $ pour des semaines de 42 heures. Ce taux est remonté à 18 $ de l’heure au mois de mai 2006 et il a travaillé entre 25 heures et 42 heures par semaine en 2006. En 2007, l’appelant a travaillé en moyenne 37 heures par semaine au taux horaire de 18 $. En 2008, les heures de travail varient entre 29 et 46 heures par semaine, mais sont en moyenne de 40 heures. Le taux horaire est passé à 19 $ en juin 2008.
+[5] L’appelant a reconnu qu’il suivait l’horaire des autres employés afin que le travail se fasse régulièrement. Il se rendait le matin sur les lieux du payeur, ou bien il était informé le soir, en quittant, du travail à exécuter le lendemain. Les tâches pouvaient durer plusieurs jours. L’appelant ne se faisait pas remplacer, mais pouvait à l’occasion se faire aider par les autres soudeurs sur place.
+[6] Il se servait de son propre véhicule pour se déplacer entre le garage et les carrières, à ses propres frais. Il n’avait pas l’usage des camions du payeur. Ce dernier lui fournissait la machinerie et les vêtements requis. Selon l’appelant, il n’avait pas l’équipement adéquat, et s’il l’avait fourni lui-même, il aurait exigé un taux horaire supérieur.
+[7] Il a aussi travaillé pour le syndicat forestier en 2005 et en 2008(le revenu total de cette deuxième source serait, selon Lise Bérard, la conjointe de l’appelant, de 783 $ en 2005 et de 2 264 $ en 2008). Selon les factures fournies sous la pièce I‑1, j’ai calculé que l’appelant a gagné un revenu provenant du payeur de 15 632 $ en 2005, 24 787 $ en 2006, 30 078 $ en 2007 et 20 842 $ en 2008.
+[8] L’appelant a déclaré ses revenus en tant que travailleur autonome et a déduit ses dépenses en conséquence. Il a laissé entendre qu’il n’était pas payé pour ses vacances, mais je note qu’il ne semble pas en avoir pris.
+[9] Lors de son enquête, M.Victor Girard, agent de décision pour l’Agence de Revenu du Canada (ARC), a constaté que l’appelant ne faisait aucune soumission et qu’il allait sur les lieux de travail afin qu’on lui dise quel travail il devait exécuter. L’appelant ne faisait aucune publicité et n’était pas enregistré sous aucun registre d’entreprise. Il ne prélevait aucune taxe sur les produits et services (TPS).
+[10] Aux termes de l’article 2085 du Code civil du Québec (C.c.Q.), il y aura contrat de travail, et donc un statut d’employé, si on est en présence d’une direction ou d’un contrôle du travail par l’employeur. L’article 2085 du C.c.Q. se lit comme suit :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[11] Il y aura contrat d’entreprise, donc un statut de travailleur autonome, s’il y a absence d’un lien de subordination entre le payeur et l’appelant quant à l’exécution du contrat. C’est l’article 2099 du C.c.Q. qui régit le contrat d’entreprise, et qui se lit comme suit :
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[12] Aux termes des articles 1425 et 1426 du C.c.Q., il faut aussi tenir compte de la commune intention des parties.
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+[13] Toutefois, le comportement des parties dans l’exécution du contrat doit refléter et actualiser cette intention commune, sinon la qualification du contrat se fera en fonction de ce que révèle la réalité factuelle et non de ce que prétendent les parties (voir Grimard c. R., 2009 CAF 47, aux paragraphes 32 et 33).
+[14] Il y aura subordination si le payeur a la faculté de déterminer le travail à exécuter, encadrer cette exécution et le contrôler. Le salarié sera celui qui accepte de s’intégrer dans le cadre du fonctionnement d’une entreprise pour la faire bénéficier de son travail (voir Grimard, précitée, au paragraphe 36, qui cite un extrait de Robert P. Gagnon tiré de son volume Le droit du travail au Québec, 5e éd., Cowansville, Éditions Yvons Blais, 2003, p. 67 et repris par la Cour d’appel fédérale dans Wolf v. R., [2002] 4 F.C. 396.)
+[15] Dans le cas présent, il me semble que malgré le fait que les parties ont fait référence à la notion de travailleur autonome, ce n’est pas la réalité de la situation. L’appelant a accepté de s’intégrer dans le cadre du fonctionnement de l’entreprise du payeur, en acceptant une assignation régulière du travail à accomplir au cours des mois de janvier à la fin mai 2005 et de décembre 2005 à la fin juillet 2008.
+[16] Il était payé rigoureusement pour chaque heure de travail, travaillait sur les lieux-mêmes de l’entreprise avec l’équipement qu’on lui fournissait. Ce sont là des indices d’encadrement qui démontrent un lien de subordination avec le payeur.
+[17] Outre les autres petits revenus gagnés auprès du syndicat forestier en 2005 et en 2008, au cours des périodes où visiblement il n’était pas engagé par le payeur, l’appelant tirait sa source de revenu de son contrat de travail avec le payeur qui déterminait le travail à exécuter par l’appelant, lequel a accepté de le faire dans le cadre établi par le payeur.
+[18] Il est vrai que l’appelant utilisait son véhicule pour le transport entre le garage et les carrières à ses frais. Ce seul élément ne suffit pas à mon avis à changer la nature juridique de la relation de travail, fondée sur les autres indices d’encadrement formulés ci-haut.
+[19] Pour ces raisons, je conclus que l’appelant était un employé du payeur du 1er janvier 2005 au 21 mai 2005 et du 12 décembre 2005 au 31 juillet 2008 et la décision du ministre est confirmée pour ces périodes. Quant à la période du 21 mai 2005 au 12 décembre 2005, il ne semble pas que l’appelant ait travaillé pour le payeur au cours de cette période.
+[20] L’appel est rejeté
+Signé à Ottawa, Canada, ce 8e jour de juillet 2010.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2010 CCI 368
+Nº DU DOSSIER DE LA COUR : 2009-3472(EI)
+INTITULÉ DE LA CAUSE : RÉJEAN BEAUPORT ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 30 juin 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 8 juillet 2010
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

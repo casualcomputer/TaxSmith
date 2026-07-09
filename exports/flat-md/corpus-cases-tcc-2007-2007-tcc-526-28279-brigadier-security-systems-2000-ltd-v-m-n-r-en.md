@@ -1,0 +1,186 @@
+---
+title: "Brigadier Security Systems (2000) Ltd.  v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28279/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 526"
+citation2: ""
+neutral_citation: "2007 TCC 526"
+decision_date: "2007-04-02"
+language: "en"
+item_id: "28279"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1863
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:15:10.224000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "997f40c9324a0c315b86b7c8ecdf7e1a0a780f4067572b68ade588bac2784b7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brigadier Security Systems (2000) Ltd.  v. M.N.R.
+
+- Citation: 2007 TCC 526
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1863, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brigadier Security Systems (2000) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-02
+Neutral citation
+2007 TCC 526
+File numbers
+2006-1960(CPP)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1960(CPP)
+BETWEEN:
+BRIGADIER SECURITY SYSTEMS (2000) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+EDWARD BABIY,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Brigadier Security Systems (2000) Ltd. (2006-1961(EI))
+on June 5, 2007 at Saskatoon, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Doug Agnew
+Counsel for the Respondent:
+Lyle Bouvier
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, and the decision of the Minister of National Revenue is vacated on the basis that Edward Babiy was working as an independent contractor under a contract for services with Brigadier and not engaged in pensionable employment for the period February 12, 2004 to February 12, 2005.
+Signed at Ottawa, Canada, this 10th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+Docket: 2006-1961(EI)
+BETWEEN:
+BRIGADIER SECURITY SYSTEMS (2000) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+EDWARD BABIY,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Brigadier Security Systems (2000) Ltd. (2006-1960(CPP))
+on June 5, 2007 at Saskatoon, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Doug Agnew
+Counsel for the Respondent:
+Lyle Bouvier
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, and the decision of the Minister of National Revenue is vacated on the basis that Edward Babiy was working as an independent contractor under a contract for services with Brigadier and not engaged in insurable employment for the period February 12, 2004 to February 12, 2005.
+Signed at Ottawa, Canada, this 10th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2007TCC526
+Date: 20071010
+Dockets: 2006-1960(CPP)
+2006-1961(EI)
+BETWEEN:
+BRIGADIER SECURITY SYSTEMS (2000) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+EDWARD BABIY,
+Intervenor.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Brigadier Security Systems (2000) Ltd., is appealing the determination of the Minister of National Revenue that Edward Babiy worked for Brigadier as an employee. Mr. Babiy, who intervened in the appeals, supports the Minister's determination. Brigadier's position is that Mr. Babiy was an independent contractor and accordingly, that his work was not pensionable[1] or insurable[2]. The period under review is February 12, 2004 to February 12, 2005.
+[2] Counsel referred to the four-fold test for the determination of whether a worker is an employee or an independent contractor as developed in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue)[3] and applied by the Supreme Court of Canada in 671121 Ontario Ltd. v. Sagaz Industries Canada Inc.[4]:
+[47] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[3] In addition to the consideration of control, ownership of tools, chance of profit and risk of loss and the degree of integration, the Court may also take into account the intentions of the parties[5].
+Facts
+[4] Brigadier is in the business of selling, supplying and installing electronic security systems for both homes and businesses. Mr. Babiy began working as a salesperson with the company pursuant to a contract dated March 27, 2002[6]. His primary duties were to meet with customers to explain and demonstrate Brigadier's security products. If a visit resulted in a sale, Mr. Babiy was also responsible for completing the necessary paperwork and returning it to the offices of Brigadier.
+[5] Though well-experienced in sales, Mr. Babiy received training for which he received $70 per day; for the first month, he was guaranteed $1,000 as an advance against the commissions he would earn for each new contract. His remuneration also included a percentage of the purchase price of any "extras" he could convince clients to purchase at the time of the sale. However, if the client deferred that decision until after Mr. Babiy had completed his paperwork, the entire value was retained by Brigadier.
+[6] Most of Mr. Babiy's customers were "leads", people who had called Brigadier regarding their interest in purchasing a security system. Brigadier assigned the leads according to a "priority" list that ranked salespersons according to their weekly sales success rate. The priority system was conducive to sales, as it ensured that potential customers would get a call back before they lost their enthusiasm for the idea. It also had the effect of keeping the sales team motivated. If a salesperson refused a lead, his name went to the bottom of the list, and the lead was offered to the next person on the priority list.
+[7] Mr. Babiy was also entitled to and did find his own clients, contacts he made through cold calls, business connections, family or friends. One strategy for identifying new clients that he found particularly effective was to set up a security systems booth at home shows.
+Analysis
+[8] Based on the findings setout below, I am satisfied that the evidence supports the conclusion that Mr. Babiy was working as an independent contractor. His earnings depended entirely on his commissions from selling Brigadier's basic product and as many of the lucrative extras as possible. How he made such sales was left to Mr. Babiy. He was his own master in terms of how and when he made sales. He met with clients alone and relied on his own skill and judgment, the result of some 30 years in sales, to clinch the deal. As an incentive to purchase, Mr. Babiy could offer "free" items but it was he who bore their cost if ultimately Brigadier decided such an incentive was unwarranted. While he stood to pay a fiscal price for his decision, there is no doubt Mr. Babiy was free to accept or reject Brigadier's "leads". If he chose to, he could arrange with another seller (as long as the substituted person had the externally required certification) to cover an accepted lead, though again he took the risk of losing the contact and the commission.
+[9] Though his contract (and his own good sense) obliged him to dress presentably for customers, Mr. Babiy was not required to wear a company uniform. He was required to carry and present photo ID showing that he was authorized to sell the security products. This, however, had the mutually beneficial result of inspiring confidence in the customers who were letting him into their homes. Also mutually beneficial were the Brigadier business cards and magnetic car signs that were made available to him, though in the case of the signs, Mr. Babiy chose not to use them.
+[10] Brigadier held regular sales meetings geared to improving sales which Mr. Babiy and his colleagues were expected, if not required, to attend. From time to time, Mr. Babiy met with the sales manager to discuss his own sales performance. The purpose of these meetings had more to do with motivating the sales team than evaluating their work.
+[11] While Brigadier had office space available for Mr. Babiy and the other salespersons to use to complete post-sales paperwork, there was no requirement that it be done there. Brigadier's only concern was that the sale be finalized, an outcome equally important to Mr. Babiy as his commissions were calculated on completed sales.
+[12] Under his contract with Brigadier, Mr. Babiy was to sell only Brigadier products to his clients. He was free to work in other sales fields but was busy enough with his work at Brigadier that he chose not to work elsewhere.
+[13] Mr. Babiy received no vacation pay, sick leave or medical coverage. This is in stark contrast to others at Brigadier who were hired as "employees" and who enjoyed a range of such benefits. Although Mr. Babiy had the impression that he needed permission to take holidays, the evidence does not support that conclusion. His belief in this proposition seems to have stemmed from his reading of the Brigadier procedures manual (not in evidence) and from casual conversations with a former colleague named Kevin. In my view, however, what Mr. Babiy characterized as seeking permission was more in the nature of the professional courtesy of giving notice of his intention to do so.
+[14] All in all, I am satisfied that Brigadier did not exercise control over Mr. Babiy.
+[15] Not much was required in the way of tools, in the normal sense of the word. Brigadier provided Mr. Babiy with a demonstration kit, but he was liable for its replacement if it was lost or damaged. Though not technically required (or for that matter, provided) by Brigadier for the job, in a city like Saskatoon, a car was necessary to get to client meetings and transport the kit. Mr. Babiy provided his own car and was responsible for its expenses. Though Brigadier provided him with a cell phone, Mr. Babiy bore the more significant expense of paying for its use.
+[16] He incurred fuel and maintenance costs to follow up on leads, though he had no guarantee of a sale. He chose when and how much to offer as sales incentives, not knowing if he would ultimately be reimbursed by Brigadier. He invested time and money scouting for new customers, not knowing if it would pay off. In these circumstances, he had a risk of loss. However, by harnessing his considerable sales experience, taking advantage of sales opportunities and devising innovative strategies, Mr. Babiy stood to profit from his efforts.
+[17] Finally, there is the question of intention. The contract he signed with Brigadier stipulated that he was to work as an independent contractor. The contract is brief, written in uncomplicated language. It is not credible that a man of Mr. Babiy's intelligence and experience in sales would sign such a document without being aware of its terms, or that he would simply leave to chance whether he was self-employed or an employee. I am satisfied that he knew he was described therein as an "independent contractor", understood what that description entailed and willingly agreed to it. The contract accurately documents the parties' intentions that Mr. Babiy was to work as an independent contractor.
+[18] For the reasons set out above, the appeal is allowed and the decision of the Minister of National Revenue is vacated on the basis that during the period in question, Edward Babiy was working under a contract for services.
+Signed at Ottawa, Canada, this 10th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC526
+COURT FILE NOS.: 2006-1960(CPP) AND 2006-1961(EI)
+STYLE OF CAUSE: BRIGADIER SECURITY SYSTEMS (2000) LTD. AND THE MINISTER OF NATIONAL REVENUE AND EDWARD BABIY
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: June 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: October 10, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Doug Agnew
+Counsel for the Respondent:
+Lyle Bouvier
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Doug Agnew
+Firm: Agnew & Company
+Saskatoon, Saskatchewan
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to paragraph 6(1)(a) of the Canada Pension Plan.
+[2] Pursuant to subsection 5(1)(a) of the Employment Insurance Act.
+[3] 87 DTC 5025.
+[4] [2001] 2 S.C.R. 983.
+[5] Wolf v. Canada, 2002 FCA 96, 2002 DTC 6853 (F.C.A.); The Royal Winnipeg Ballet v. Canada (Minister of National Revenue), 2006 DTC 6323 (F.C.A.).
+[6] Exhibit A-1.

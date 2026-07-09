@@ -1,0 +1,120 @@
+Title: Winther v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29863/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-339-29863-winther-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-21
+
+# Winther v. The Queen
+
+- Citation: 2010 TCC 339
+- Decision date: 2010-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6420, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Winther v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-21
+Neutral citation
+2010 TCC 339
+File numbers
+2008-4168(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-4168(IT)I
+BETWEEN:
+LORNE WINTHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Lorne Winther (2008-4169(GST)I)
+on May 31, 2010, at Hamilton, Ontario.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Tonkovich
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of June 2010.
+"Paul Bédard"
+Bédard J.
+Docket: 2008-4169(GST)I
+BETWEEN:
+LORNE WINTHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Lorne Winther (2008-4168(IT)I)
+on May 31, 2010, at Hamilton, Ontario.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Tonkovich
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of June 2010.
+"Paul Bédard"
+Bédard J.
+Citation: 2010 TCC 339
+Date: 20100621
+Dockets: 2008-4168(IT)I
+2008-4169(GST)I
+BETWEEN:
+LORNE WINTHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The appellant was the sole director and shareholder of Investment Safe & Lock (the "Company") when it failed to remit to the Receiver General of Canada net tax due in the amount of $11,651.62 for periods between June 1, 1995 and July 31, 2000, as required by section 228 of the Excise Tax Act (the "ETA"). Since the Minister of National Revenue (the "Minister") was not able to recover that net tax amount from the Company, the Appellant was held jointly and severally liable with the Company, pursuant to subsection 323(1) of the ETA, for the amount that was not remitted by the Company ($11,651.62), and the Minister accordingly assessed the Appellant. The Appellant was also the sole director and shareholder of the Company when it failed to remit to the Receiver General of Canada federal tax source deductions in the amount of $6,877.06 (see Schedule A to the Reply to the Notice of Appeal), thereby contravening section 153 of the Income Tax Act (the "Act"). Since the Minister was not able to recover those federal tax source deductions from the Company, the Appellant was held jointly and severally liable with the Company pursuant to subsection 227.1(1) of the Act, and the Minister accordingly assessed the Appellant. The Appellant is appealing those assessments. The only basis for his appeals is his submission that in the two instant cases he exercised due diligence and therefore could not be held jointly and severally liable with the Company for the amounts not remitted.
+[2] In the two instant cases, the evidence clearly established that the Appellant was well aware of the Company's financial status at all times: the Appellant knew that the Company had filed both the returns required by the ETA for the relevant periods and those required by the Act and he also knew that the Company had failed to remit in a timely manner the net tax and the federal tax source deductions. In other words, the Appellant was well aware of the Company's financial difficulties and the status of the goods and services tax ("GST") and federal tax source deduction remittances. The evidence also clearly revealed that the Appellant's principal strategy with regard to remitting the net GST and the federal tax source deductions owed was to continue operating the business and to hope that the Company's allegedly bleak financial situation would turn around. In other words, faced with a choice between remitting those amounts to the Crown and drawing on them to pay key creditors (such as Ontario Hydro), whose goods and services were necessary to the continued operation of the Company, the Appellant chose the latter course.
+Analysis and conclusion
+[3] In the present appeals, the only question in issue is the following: did the Appellant exercise due diligence to prevent the company's failure to remit? As Evans J.A. said in Worrell v. Canada, [2000] F.C.J. No. 1730 (QL), in relation to the duty of a director to make the required deductions and remittances:
+70. In my opinion, it is essential to keep in mind the relevant question in this appeal: did the directors exercise due diligence to prevent the company's failure to remit? This is not necessarily the same as asking whether it was reasonable from a business point of view for the directors to continue to operate the business. In order to avail themselves of the defence provided by subsection 227.1(3) directors must normally have taken positive steps which, if successful, could have prevented the company's failure to remit from occurring. The question then is whether what the directors did to prevent the failure meets the standard of the care, diligence and skill that would have been exercised by a reasonably prudent person in comparable circumstances.
+71. It will normally not be sufficient for the directors simply to have carried on the business, knowing that a failure to remit was likely but hoping that the company's fortunes would revive with an upturn in the economy or in their market position. In such circumstances directors will generally be held to have assumed the risk that the company will subsequently be able to make its remittances. Taxpayers are not required involuntarily to underwrite this risk, no matter how reasonable it may have been from a business perspective for the directors to have continued the business without doing anything to prevent future failures to remit.
+The Appellant's duty as a director was to anticipate the failure to remit the sums owing and neither to himself fail to remit nor to perpetuate such failure as he did, in the hope that in the end the company would again be profitable or that there would be enough money to pay all creditors. The Appellant was aware of the Company's financial difficulties and of the status of the amounts owed to the Crown. Thus, it was up to him to ensure that the GST collected and the federal tax source deductions were remitted, regardless of the company's financial difficulties. In the instant cases, the Appellant had an obligation of result. The fact that the Appellant tried, after the failure to remit the amounts owed to the Crown, to remit those amounts himself, does not, in my opinion, absolve him of his responsibility, as this Court has decided so in many cases. I find that, in the circumstances, the Appellant cannot properly rely on the due diligence defence set out in subsection 323(3) of the ETA and in subsection 227.1(3) of the Act.
+[4] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 21st day of June 2010.
+"Paul Bédard"
+Bédard J.
+CITATION: 2010 TCC 339
+COURT FILE NOS.: 2008-4168(IT)I, 2008-4169(GST)I
+STYLE OF CAUSE: LORNE WINTHER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: May 31, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 21, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Tonkovich
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

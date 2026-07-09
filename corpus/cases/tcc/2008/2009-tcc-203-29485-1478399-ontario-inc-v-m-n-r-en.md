@@ -1,0 +1,220 @@
+---
+title: "1478399 Ontario Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29485/index.do"
+last_modified: "2008-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 203"
+citation2: ""
+neutral_citation: "2009 TCC 203"
+decision_date: "2008-11-24"
+language: "en"
+item_id: "29485"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6303
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:36:48.156000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "215fbfba5883a24acdc5247e068eb78bc1358752490af3c8cee75d22be1d2ee2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1478399 Ontario Inc. v. M.N.R.
+
+- Citation: 2009 TCC 203
+- Decision date: 2008-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6303, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1478399 Ontario Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-24
+Neutral citation
+2009 TCC 203
+File numbers
+2006-2196(EI), 2006-2197(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2009 TCC 203
+Dockets: 2006-2196(EI)
+2006-2197(CPP)
+BETWEEN:
+1478399 ONTARIO INC. c/o LARRY KRAUSS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario, on November 24, 2008, be filed.
+“N. Weisman”
+Weisman D.J.
+Signed in Toronto, Ontario, this 24th day of April 2009.
+Court File Nos. 2006-2196(EI)
+2006-2197(CPP)
+TAX COURT OF CANADA
+BETWEEN:
+1478399 ONTARIO INC. c/o LARRY KRAUSS
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+* * * * *
+ORAL REASONS
+HEARD BEFORE JUSTICE WEISMAN
+in the Courts Administration Service,
+Federal Judicial Centre, 180 Queen Street West,
+Toronto, Ontario
+on Monday, November 24th, 2008
+* * * * *
+APPEARANCES:
+Mr. Larry Krauss Self-Represented Appellant
+Ms. Sharon Lee for the Respondent
+Also Present:
+Mr. D.W. Burtnick Court Registrar
+A.S.A.P. Reporting Services Inc. © (2009)
+Suite 1105, 200 Elgin Street Suite 1800, 130 King Street West
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+(ii)
+INDEX
+PAGE
+Decision with Reasons 1
+* * * * *
+Toronto, Ontario
+--- Upon commencing the Decision with Reasons on
+Monday, November 24, 2008.
+JUSTICE WEISMAN: These were two appeals against decisions by the respondent Minister of National Revenue that the appellant, 1478339 Ontario Incorporated, was a deemed employer of Michael Gotkin from the 4th of March, 2003, to the 4th of March, 2005, while he was working as site manager on the project known as the Wallace Street Lofts. The Minister based his decision on regulation 10(1) of the insurable earnings and collection of premiums which is passed under the Employment Insurance Act, and regulation 8.1(1) passed under the Canada Pension Plan, both of which, in short, provide that if someone pays an employee they are a deemed employer and are responsible for deducting and remitting Canada pension contributions and Unemployment Insurance premiums.
+There are two prongs to the appellant's appeal. First is that Terradigm Developments Incorporated merely hired Mr. Gotkin as agent for the developer 1317621 Ontario Incorporated. That is relevant because when we come to decide control, which is one of the four-in-one guidelines under Wiebe Door Services Ltd. v. M.N.R. (1986), 87 DTC 5025, the question arises, whose control; if it is control of 1317621, the control of Terradigm, the control of 1478399. Who actually retained Mr. Gotkin?
+The second prong of the appellant's argument is that Mr. Gotkin was an independent contractor, in any event, and therefore not covered by the aforementioned two regulations.
+After considering all the evidence that I have heard, I find that Mr. Gotkin was retained by Terradigm Developments Incorporated as site manager of the project. It was Terradigm that advertised for a site manager, which advertisement was successfully replied to Mr. Gotkin. It also makes sense to me that a project manager with no experience in renovating and refitting an existing facility would need someone with Mr. Gotkin's qualifications to serve as site manager.
+Over and above that, in his testimony and in his submissions, Mr. Krauss kept referring to "our relationship with him", and I could not construe that as Mr. Krauss referring to 131's relationship with Mr. Gotkin, nor could I construe it as the relationship that consists merely, in one 1478339 issuing cheques to Mr. Gotkin.
+Mr. Gotkin was clearly paid by the appellant, so the sole remaining issue is whether he was an employee under a contract of service or was an independent contractor under a contract for services. In order to resolve this question, which has been variously characterized as fundamental, central, and key, the total relationship of the parties and the combined force of the whole scheme of operations must be considered.
+To this end, the evidence in this matter is to be subjected to the four-in-one test laid down as guidelines by Lord Wright in Montreal City v. Montreal Locomotive Works Ltd. et al, which is cited at [1947] 1 D.L.R. 161, which guidelines were adopted by Justice MacGuigan in Wiebe Door Services, which is cited at (1986), 87 DTC 5025, in the Federal Court of Appeal. The four guidelines consist of control over the worker; whether the worker or the payer owns the tools required to fulfill the worker's function; and the worker's chance of profit and risk of loss in his or her dealings with the payer.
+I think Mr. Krauss misconstrued the jurisprudence that he read, because the Wiebe Door and Montreal City guidelines are not in pursuit of the intention of the parties, it is in pursuit of the total relationship between the parties.
+Adverting first to the control guideline, the law differentiates between those in standard employment and those who are highly skilled and have expertise beyond the ability of their supervisors to tell them how to perform their functions. So in the case of a worker who is in standard employment, control necessitates that the supervisor have the right to tell a worker not only what to do but how to do it. In the latter case, when you are dealing with someone whose expertise exceeds that of a supervisor, it is sufficient if the supervisor has the right to tell the worker what to do, although he lacks the skill to tell him how to do it.
+The evidence was clear that Mr. Larry Spring was an employee of the project manager, Terradigm, and he had the right to tell Mr. Gotkin what to do, which was to manage the project. This indicates that Mr. Gotkin was an employee of Terradigm. But the evidence also indicates that there was little control exercised over Mr. Gotkin, above and beyond the aforementioned; he came and went as he pleased; he theoretically was obliged to report to Mr. Spring, but Mr. Spring was rarely at the job, the evidence being that he was there some two times a month.
+Aside from there being little actual control over Mr. Gotkin, I note that Mr. Gotkin negotiated his remuneration rather than it being set by Terradigm, which indicates that he was an independent contractor.
+Then in trying to resolve which way the scales should tilt when it comes to control, I agreed with Mr. Krauss that quite significant was the confrontation between Mr. Gotkin and Mr. Krauss about Mr. Gotkin's being aware of the conspiracy between Mr. Spring and Mr. Van Den Burg to defraud 131 out of money by accepting $20,000 honorariums from potential clients in exchange for a $50,000 reduction in the cost of the loft.
+The counsel for the Minister is quite correct; there is no jurisprudence saying that an employee has to be loyal, but an important element of control that has been imported from the Québec Civil Code is the concept of subordination. Employees are subordinate to their employers. Independent contractors are independent of those who retain them.
+In my view, this failure of Mr. Gotkin to forewarn Mr. Krauss of this conspiracy indicates to me that there was no relationship of subordination between him and Terradigm. I would quote for the record page 129 of the transcript, line 10. The exchange starts by Mr. Krauss saying:
+"When met in February 2005, you may recall that you advised me that Harold Spring and Gerard Van Den Burg had both been involved in purchasers paying George and Harold some cash up front and reducing the purchase price under the agreement of purchase and sale." (as read)
+Mr. Gotkin's answer was:
+"There were rumours.
+"Question: You brought that to my attention.
+"Answer: Yes.
+"Question: Was there a reason for waiting until that meeting to tell me?
+"Answer: You never came to the site. I never saw you.
+"Question: But you did come to my office on a number of occasions to pick up cheques.
+"Yes.
+"Did you ever ask to see me?
+"I never asked to see anyone.
+"That wasn't my question. Did you ever ask to see me?
+"No.
+"You had this relevant information.
+"I didn't know it was relevant. I didn't know how it was relevant.
+"Question: That George might be receiving money on the side, outside the terms of the agreement of purchase and sale? You didn't see the relevance of that?" (as read)
+On balance, few things in this world are completely black and completely white. There are elements in the relationship that indicate that Mr. Gotkin was an employee, but on balance, most of the indicia are that he was an independent contractor, and I so find that is the way the control factor indicates.
+So far as tools are concerned, there were not many involved in Mr. Gotkin's duties. He was provided with a workplace, being a vacant loft, but that was provided by the developer, 131, not by Terradigm. But Terradigm did equip that office with a fax machine and a telephone that Mr. Gotkin and others could avail themselves of. On the other hand, Mr. Gotkin provided his own hard hat and construction boots, and we have the Federal Court of Appeal in Precision Gutters Ltd. v. M.N.R., [2002] F.C.J. No. 771, in paragraph 25 saying:
+"It has been held that if the worker owns the tools of the trade which it is reasonable for him to own, this test will point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business."
+Here we have Mr. Gotkin supplying the tools that it is normal for him to supply. On the other hand, we do not have any very expensive special tools for this particular business that are being provided by the person that retained Mr. Gotkin. In the case of Precision Gutters, there was a very expensive machine that would take raw strips of aluminum and form them into eavestroughing.
+So I cannot see this particular factor leaning in either direction, and I declare and I find that the tools factor is equivocal and neutral.
+Chance of profit. Mr. Krauss on behalf of the appellant argues that yes, there was a chance of profit in two different ways. First, there was no restriction in the oral agreement between Mr. Krauss and Terradigm barring him from working for others, and therefore he could profit by working elsewhere in the 18-month hiatus that the project suffered while dealings were ongoing with CNR over whether there could be a berm or a crash wall. And according to Mr. Krauss, the second opportunity for Mr. Gotkin's profit was that he originally expected to earn $49,000 over seven months at the rate of $7,000 a month, but because the project took four years, he wound up grossing some $336,000, which in Mr. Krauss's view is a significant profit.
+On this particular point, I found Mr. Gotkin credible as to his -- as to the first branch of Mr. Krauss's argument that he could work elsewhere in the 18-month hiatus. Mr. Gotkin said the company expected him to be on the job site for tenants and trades and building inspectors. Mr. Krauss tried to advance the argument that two of the trades that worked on the job resided in lofts and were on site to look after whatever little had to be done during the 18 months, but I did not find that a realistic argument, to expect trades who had no responsibility whatsoever aside from their own jobs to take over Mr. Gotkin's duties if he was elsewhere.
+And then the second branch of the argument that a $7,000 earning turned into a $336,000 profit, I also reject agreeing with counsel for the Minister that this ongoing salary does not constitute profit. He was restricted to a fixed monthly income, and just because the income went on for considerably longer than it was supposed to, that is not profit, and I am sure that Mr. Krauss well knows what the definition of profit is in the business sense. It is business revenues exceeding business expenses, and that does not fit Mr. Gotkin's situation at all.
+There is authority for the proposition that if one works harder and longer or is on piece work and puts out more pieces and earns more money, that is not profit, and that is Hennick v. M.N.R., [1995] F.C.J. No. 294, in the Federal Court of Appeal.
+There being, in my view, no chance of profit for Mr. Gotkin, that indicates that he was an employee during the period under review.
+The risk of loss revealed an interesting tension between Mr. Gotkin and Mr. Krauss in their attitudes, because Mr. Gotkin says words to the effect that I have been on unemployment insurance, and so I am risk averse. I was out of business and did not want to be in business, so I answered the Star ad and went to work with Terradigm.
+A completely contrary attitude and expressed by Mr. Krauss, who says we would not hire an employee who had more expertise than we did, because we needed recourse in the case that he fouled up. We could not be exposed to third party claims without having an expert third party who we could recourse.
+In this regard, I prefer the evidence and the attitude of Mr. Krauss, because it makes more business sense, that as he explained on a number of occasions, they are into some endeavour that was new to them, meaning Terradigm, and they needed someone's expertise and they needed that person to be accountable and they needed him to be an independent contractor and not an employee.
+What detracts from Mr. Gotkin's argument is that he agreed to be an independent contractor, at least for the first seven months, which is directly contrary to his aforementioned quoted attitude. Not only that, Exhibit A-6 is an agreement drawn up by his counsel, which I understand was executed by him, although not by anybody representing the other side, being Terradigm, 131, or 147, in which he refers to himself as an independent contractor, still, and here we are in 2005.
+So that is one reason that I prefer Mr. Krauss's understanding of the relationship. Another is that throughout the period Mr. Gotkin collected and presumably remitted GST, which is nothing that employees do. Next, he filed his income tax returns throughout the period in question as an independent contractor, deducting from income allowable expenses under the Income Tax Act. There is jurisprudence that if someone does that, that is evidence of their intent to be an independent contractor and the case in support of that proposition is Combined Insurance Co. of America v. M.N.R., [2007] F.C.J. No. 124, in the Federal Court of Appeal.
+Finally, I heard no evidence that there was ever any change in the relationship between Mr. Gotkin and his employer over the entire period as he claims there was, so his working conditions did not change. His manner of remuneration did not change. There was no T4. There were no source deductions. I think that he was an independent contractor. He bore a great risk of loss if he misread the architect's drawings or if he misdirected the trades, and the risk of loss factor indicates, accordingly, that he was an independent contractor.
+If I may summarize, the control factor indicates that he was an independent contractor. The tools factor is neutral. The chance of profit factor indicates that he was an employee; the risk of loss factor that he was an independent contractor.
+Out of the three relevant -- out of the three probative considerations, two indicate that he is an independent contractor.
+Which brings me to the intention of the parties, which gains in weight as the four Wiebe Door criteria become less convincing, or predominant, or conclusive. The Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, says that in these circumstances, the intention of the parties is not to be ignored. I have already said that ab initio it was clear that the mutual intent of the parties was that Mr. Gotkin be an independent contractor, and nothing that I can see changed thereafter, particularly in view of Exhibit A-6, wherein that independent contractor agreement is extended right on through March of 2005.
+If I had to highlight the most important considerations under the heading of the relationship of the parties, I would point to the lack of subordination and to that 2005 contract, which designates Mr. Gotkin as an independent contractor.
+The law is that the burden is upon the appellant to demolish the assumptions set out in the Minister's reply to the notice of appeal, and in this case, there is an amended reply to the notice of appeal. The assumptions are to be found in paragraph 15. There is always a problem in demolishing assumptions which are not controversial, or are not probative, or do not point to the worker being either an independent contractor or an employee.
+In circumstances such as these, I am more than happy to go over the assumptions that the Minister makes. You will see that they are not determinative, like 15(a): "the owner of the project was 1317621." That is true. There is no way the appellant can demolish that, but it does not help me in any way decide the status of Mr. Gotkin. Similarly with (b): "the owner of the project hired the Appellant to provide “project management”." True. (c): "the Appellant was established to provide project management for one specific construction project ‘The Wallace Station Lofts’"; true. What we have here is a collection of history, but nothing that follows the Wiebe Door guidelines that help a court determine the status of a worker.
+Rather than taking everyone's time and going through all of these assumptions that do not get us anywhere, I will jump down to (f) as to the worker's duties, which is a very nice summary of his duties, but again, he could be doing these duties as an employee or independent contractor. It is not probative. It is not determinative.
+Now we get to (g), which is wrong: "the Worker performed his duties at the job-site location where an office was provided." An office was provided, but the problem is it was not provided by the right person or entity in order to establish that that entity was an employer.
+Then they set out the annual salary, and break it down on a weekly basis.
+Then they get to something that is true, (j) and (k): he did not receive vacation or paid vacation leave. No employment-related benefit package. Those assumptions are true, but they tend to indicate exactly what the Minister is arguing against. They indicate that he is an independent contractor. It would be difficult for the appellant to rebut or demolish those assumptions.
+(l) sets out the job hours.
+(m) sets out that the worker was expected to be at the work site during its working hours, and also be available nights and weekends. Finally we get to some assumption that tends to indicate that he is under the control of the project manager and might therefore be an employee.
+(n) is another assumption: "the Worker was not paid for overtime." That indicates an independent contractor, not an employee, and that is again an assumption that is very difficult for the appellant to demolish.
+(o) "the Worker's hours of work were not recorded." That is certainly true, but I do not think that indicates that he was an employee.
+(p) "the Worker was supervised by Harold Spring." Well, as I have said, the evidence is that, in theory, Mr. Spring probably had the right to supervise him, but in fact he was only on the site a couple of times a month and he did not really exercise supervision over him. But as I have said, he did have the right to tell him what to do, and that would indicate that Mr. Gotkin was an employee.
+(q) was demolished: "the Worker was in constant contact with his supervisor, Harold Spring since the Appellant made the final decision." The evidence produced by the appellant demolished that. That was not established.
+We are back to the job site office in (r): "the Appellant provided the job site office." The evidence does not support that. That was demolished.
+(s) is true: "the Worker was reimbursed for cellular expenses by the Appellant by the way of a monthly allowance." I do not know about the monthly allowance, but I agree it would be unusual to reimburse an independent contractor for cellular expense, so you might say that assumption (s) supports the minister's position that this man was an employee, and that has not been demolished by the appellant.
+(t): "the Appellant did not provide any training to the Worker." That is true, but it also indicates that he is an independent contractor. You do not train independent contractors, you train employees.
+(u): "the Appellant covered the costs of any materials." That is wrong. It was 131 that covered the cost of materials.
+(v): "the Appellant decided if work had to be redone and was responsible for the related costs." I have found that the appellant purposely set things up and wanted Mr. Gotkin to be an independent contractor for the very reason that they needed someone to be accountable other than themselves, someone who knew this retrofitting requirement as they did not. So that assumption has been rebutted and demolished.
+(w): "the Appellant was responsible for the cost of liability insurance." That really does not weigh very heavily with me one way or another.
+(x): "the Worker had no capital investment in ‘the’ business." That is true. That would tend to indicate that he was an employee.
+(y): "the Worker had to provide his services personally." That is very true, but that is not determinative because I am sure we would all like our surgeons to perform their services personally, but that does not make them employees. So there is another assumption that cannot be demolished, but it is not determinative.
+(z): "the Worker was performing services exclusively for the Appellant." I find that is true, but I also find it not determinative because there are many independent contractors who only have one client.
+In (aa), "the Appellant had the right to terminate the Worker's Services." That statement by itself does not get one very far. The question is: Do they have the right to terminate the service without notice, or without pay in lieu of notice? That statement does not help me decide whether the worker in question, Mr. Gotkin, was an employee or independent contractor.
+I find that the appellant has demolished sufficient of the controversial or probative assumptions that the remaining assumptions are not sufficient to support the Minister's determinations, and I am not sure I can provide you with a reference, but that was decided in Jencan Ltd. v. M.N.R., [1997] F.C.J. No. 876, where the Federal Court of Appeal holds that:
+"Even though some assumptions are demolished, if the remaining assumptions are sufficient to support to Minister's determination, it stands." (as read)
+I do not find that that is the case before me. The Minister's determination, both of them, are objectively unreasonable because I have heard new evidence at trial or the evidence known by the Minister has not been correctly assessed. In the result, I am going to allow both appeals, and vacate both decisions of the Minister.
+I am indebted to you for your assistance. I will close court now until 9:30 tomorrow morning.
+--- Whereupon the Decision with Reasons concluded.
+I HEREBY CERTIFY THAT I have, to the best
+of my skills and abilities, accurately transcribed the foregoing proceeding.
+Catherine Keenan, Computer-Aided Transcription
+CITATION:
+2009 TCC 203
+COURT FILE NOS.:
+2006-2196(EI)
+2006-2197(CPP)
+STYLE OF CAUSE:
+1478399 Ontario Inc. c/o Larry Krauss
+and The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 24, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman, Deputy Judge
+DATE OF ORAL JUDGMENT:
+November 24, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

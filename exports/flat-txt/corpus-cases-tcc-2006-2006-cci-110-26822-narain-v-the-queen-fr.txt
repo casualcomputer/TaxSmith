@@ -1,0 +1,92 @@
+Title: Narain v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26822/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-110-26822-narain-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-04-06
+
+# Narain v. The Queen
+
+- Citation: 2006 CCI 110
+- Decision date: 2006-04-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 693, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Narain v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-06
+Référence neutre
+2006 CCI 110
+Numéro de dossier
+2004-4613(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI110
+Date : 20060406
+Dossier : 2004-4613(IT)I
+ENTRE :
+GURUDATT NARAIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Pour l'appelant : l'appelant lui-même
+Avocate de l'intimée : Me Kandia Aird
+__________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Toronto (Ontario), le 18 avril 2005.)
+Le juge Bowie
+[1] Le présent appel est interjeté à l'encontre d'une cotisation d'impôt sur le revenu pour l'année 2001. Le ministre du Revenu national a nié à l'appelant le droit de déduire de son revenu un montant de 13 200 $ représentant la pension alimentaire destinée à subvenir aux besoins de son ancienne conjointe de fait et de ses enfants. En effet, l'appelant était tenu, en vertu d'un accord écrit de séparation daté du 23 avril 1997, de payer à son ancienne conjointe de fait 200 $ par mois à titre de pension alimentaire destinée à subvenir aux besoins de cette dernière et 900 $ par mois à titre de pension alimentaire destinée à subvenir aux besoins de ses enfants. D'entrée de jeu, on a soulevé la question de savoir si l'accord écrit de séparation en question avait été modifié par une ordonnance ultérieure d'un tribunal ou un autre accord écrit de séparation, mais la preuve démontre le contraire, comme Me Aird l'a à juste titre reconnu au début de son plaidoyer.
+[2] Il reste seulement à savoir si l'appelant a effectivement payé 13 200 $ en vertu de l'accord écrit de séparation en 2001. La preuve présentée par l'appelant à l'appui de cette prétention consiste en son propre témoignage et en un reçu signé par Janet Genge, son ancienne conjointe de fait, indiquant qu'il avait effectué les paiements, reçu qui a été admis en preuve sans objection de la part de l'intimée. L'appelant a affirmé avoir acquitté la pension alimentaire en partie par des paiements en argent comptant, en partie par chèque et en partie au moyen de paiements par carte de crédit versés au pharmacien auquel son ancienne conjointe était redevable. Il n'a pas pu présenter de chèques payés à la Cour parce que la banque l'a informé qu'il lui en coûterait 15 $ l'unité pour les obtenir. Il a déclaré qu'il essayait de faire les paiements avant le 15e jour de chaque mois et que s'il n'avait pas les fonds suffisants, il payait les médicaments dont les enfants avaient besoin de façon continue par carte de crédit, et que ces paiements ensuite étaient déduits de la somme de 1 100 $ qu'il devait payer chaque mois en vertu de l'accord écrit de séparation. Ce témoignage a été confirmé par Mme Genge. Ni l'appelant ni son ancienne conjointe n'ont tenté d'estimer quelle proportion des 13 200 $ pour l'année 2001 a été payée de cette façon.
+[3] Me Aird allègue que les sommes payées de cette manière ne sont pas visées par la définition de l'expression « pension alimentaire » qui se trouve au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu parce que selon cette définition le bénéficiaire doit pouvoir utiliser le montant à sa discrétion. Cette exigence est formulée dans la disposition liminaire de la définition, qui est ainsi rédigée :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et [...]
+Plus loin, la définition établit des exigences supplémentaires qui ne sont plus en cause en l'espèce. À mon avis, la définition délimite le genre de paiements effectués en vertu d'un accord de séparation ou d'une ordonnance d'un tribunal qui peuvent être considérés comme une pension alimentaire. En d'autres mots, si l'accord de séparation ou l'ordonnance d'un tribunal prévoit que des paiements doivent être versés à de tierces parties plutôt qu'à l'autre parent ou à l'ancien conjoint, alors le bénéficiaire ne peut peut-être pas utiliser ces sommes à sa discrétion. Cependant, il n'en est pas ainsi en l'espèce.
+[4] L'accord de séparation exige simplement, d'après son libellé, que l'appelant paie à son épouse la somme de 200 $ à titre de pension alimentaire pour subvenir à ses besoins et trois fois 300 $ à titre de pension alimentaire pour subvenir aux besoins de ses trois enfants. Mme Genge pouvait à bon droit insister pour que les paiements lui fussent directement remis si elle l'avait voulu. Selon l'explication de l'appelant, qui me semble tout à fait crédible et raisonnable, il est arrivé que son ancienne conjointe n'avait pas les moyens de payer les médicaments dont avaient besoin ses enfants, et qu'il n'avait pas immédiatement accès à l'argent comptant qui aurait permis à son ancienne conjointe de les acheter. Dans ces cas, d'un commun accord, il réglait par carte de crédit Visa les factures du pharmacien qu'elle devait payer, et déduisait ensuite les sommes payées de la pension alimentaire de 1 100 $ qu'il devait.
+[5] Selon moi, il ne s'agit pas d'un cas où la discrétion de la bénéficiaire a été limitée. Certains mois, elle demandait, comme il lui était loisible de le faire, que les paiements soient remis non pas à elle mais à une personne envers laquelle elle était endettée. Je suis d'avis que cette façon de faire n'a pas pour effet d'exclure les paiements effectués par l'intermédiaire de Visa à la pharmacie de l'application de la définition de l'expression « pension alimentaire » . Par conséquent, l'appel est accueilli.
+Signé à Ottawa, Canada, ce 6e jour d'avril 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 5e jour de juin 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI110
+N º DU DOSSIER DE LA COUR :
+2004-4613(IT)I
+INTITULÉ :
+Gurudatt Narain et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 18 avril 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 25 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Kandia Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

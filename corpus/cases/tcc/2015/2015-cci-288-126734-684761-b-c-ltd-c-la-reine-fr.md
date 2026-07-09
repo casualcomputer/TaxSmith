@@ -1,0 +1,170 @@
+---
+title: "684761 B.C. Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126734/index.do"
+last_modified: "2015-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 288"
+citation2: ""
+neutral_citation: "2015 CCI 288"
+decision_date: "2015-11-19"
+language: "fr"
+item_id: "126734"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2688
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:17:28.654000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7fa200cbc5a67fc726472477ab618a7ecaeaa7fd7538b2f828ba97f6ea76ac70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 684761 B.C. Ltd. c. La Reine
+
+- Citation: 2015 CCI 288
+- Decision date: 2015-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2688, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+684761 B.C. Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-19
+Référence neutre
+2015 CCI 288
+Numéro de dossier
+2013-3379(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3379(IT)G
+ENTRE :
+684761 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 22 octobre 2015 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Gavin Laird
+Avocats de l'intimée :
+Perry Derksen / David Everett
+ORDONNANCE
+VU la requête présentée par l’appelante, 684761 B.C. Ltd., visant à obtenir une ordonnance en vue de [TRADUCTION] « déterminer si l’‘avis de cotisation supplémentaire’ reçu par l’appelante [à l’égard de son année d’imposition 2008] constitue réellement une nouvelle cotisation » et, le cas échéant, si la nouvelle cotisation à l’égard de l’année d’imposition 2008 de l’appelante, datée du 16 décembre 2011 et portée en appel devant la Cour, est valide;
+ET VU les documents relatifs à la requête et les observations des parties;
+LA COUR ORDONNE :
+Il est sursis à l’audition de l’appel pendant une période de 60 jours à compter de la date de dépôt par l’appelante d’un avis d’appel à l’égard de la cotisation supplémentaire, mais au plus tard jusqu’au 30 juin 2016.
+La requête de l’appelante est à tous autres égards rejetée avec dépens au montant de 500 $ payables à l’intimée.
+Ordonnance signée à Ottawa, Canada, ce 19e jour de novembre 2015.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 13e jour de mai 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 288
+Date : 20151119
+Dossier : 2013-3379(IT)G
+ENTRE :
+684761 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Rip
+[1] L’appelante, 684761 B.C. Ltd., a soumis à la Cour une requête lui demandant de [TRADUCTION] « déterminer si l’‘avis de cotisation supplémentaire’ reçu par l’appelante [à l’égard de son année d’imposition 2008] constitue réellement une nouvelle cotisation » et, le cas échéant, de statuer que la nouvelle cotisation à l’égard de l’année d’imposition 2008 de l’appelante, dont la Cour a été saisie, n’est plus valide.
+[2] L’appelante interjette appel contre une nouvelle cotisation d’impôt sur le revenu établie le 16 décembre 2011 à l’égard de son année d’imposition ayant pris fin le 30 juin 2008.
+[3] Le ministre du Revenu national a par la suite établi un avis de cotisation supplémentaire, daté du 9 octobre 2014 et imposant des pénalités aux termes des paragraphes 163(1) et (2) de la Loi de l’impôt sur le revenu.
+[4] La nouvelle cotisation et la cotisation supplémentaire concernent toutes deux l’année d’imposition de l’appelante ayant pris fin le 30 juin 2008.
+[5] L’avis de nouvelle cotisation a été déposé lors de l’audition de la requête à titre de pièce jointe à l’affidavit de Denise Gauthier, vérificatrice à l’Agence du revenu du Canada. C'est sur cette nouvelle cotisation que porte l’appel devant la Cour.
+[6] Le ministre a établi un avis de nouvelle cotisation peu de temps avant la fin de la période normale de nouvelle cotisation pour l’année d’imposition 2008 de l’appelante. C’est après que l’année d’imposition 2008 soit devenue prescrite que le ministre a établi l’avis de cotisation supplémentaire[1].
+[7] L’avis de nouvelle cotisation concernait une nouvelle cotisation à l’égard du revenu de l’appelante pour l'année en question aux termes de la Partie I de la Loi de l’impôt sur le revenu. L’avis de cotisation supplémentaire visait l’imposition de pénalités et intérêts. L’appelante n’a pas encore porté en appel l’avis de cotisation supplémentaire. L’avis de cotisation supplémentaire n’a pas été soumis à la Cour. Quoi qu’il en soit, la nouvelle cotisation initiale fait l’objet d’un appel devant la Cour, et il relève de ma compétence d’en évaluer la validité.
+[8] Le document intitulé [TRADUCTION] Avis de cotisation supplémentaire d’une société – Résumé de la cotisation supplémentaire, délivré à l’appelante et soumis à titre de pièce « E » jointe à l’affidavit de Denise Gauthier, indique ce qui suit :
+[TRADUCTION]
+[…]
+Pénalités :
+[…]
+Pénalité aux termes des paragraphes 163(1), 163(2) et autres 97 381,00 $
+Pénalité aux termes des paragraphes 163(1) et 163(2) 56 123,00 $
+[…]
+Intérêts :
+[…]
+Intérêts sur arriérés 52 381,98 $
+[…]
+Résultat de la présente cotisation : 205 885,98 $
+Aucune somme n’est présentée comme ayant fait l’objet d’un calcul de l’impôt prévu à la Partie I dans l’Avis de cotisation supplémentaire d’une société – Résumé de la cotisation supplémentaire. Selon l’avis de nouvelle cotisation délivré à l’appelante pour 2008 et daté du 16 décembre 2011, le revenu révisé de l’appelante est de 2 445 020 $. La cotisation supplémentaire n’a pas eu pour effet de modifier ce montant.
+[9] Je souligne que, si je concluais que la cotisation supplémentaire constitue une nouvelle cotisation, cela emporterait annulation de la nouvelle cotisation initiale. Toute nouvelle cotisation ultérieure serait établie après que l’année d’imposition 2008 de l’appelante soit devenue prescrite, et il incomberait au ministre de prouver que l’appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, au moment de soumettre sa déclaration de revenu pour 2008 (voir le paragraphe 152(4)).
+[10] Selon l’avocat de l’appelante, la question que je dois trancher consiste à savoir si la cotisation supplémentaire constitue en réalité une nouvelle cotisation étant donné qu’elle rouvre et modifie la nouvelle cotisation antérieure et qu’elle est fondée, aux dires de l’avocat, [TRADUCTION] « sur la même transaction et fait forcément intervenir les mêmes faits et la même preuve ». De ce fait, selon lui, il s’agit essentiellement d’une nouvelle cotisation.
+[11] L’avocat de l'appelante qualifie la cotisation supplémentaire d’outil « ésotérique », de moyen par lequel le ministre [TRADUCTION] « scinde un processus de cotisation en deux produits distincts … ». De plus, il me demande [TRADUCTION] « [d’]agir avec prudence [...] afin de protéger les droits de la contribuable en matière de procédure »[2].
+[12] Je ne puis souscrire à l’avis de l’appelante selon lequel la cotisation supplémentaire est une nouvelle cotisation. Le paragraphe 152(4) de la Loi débute comme suit :
+Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités qui sont payables par le contribuable en vertu de la présente partie […] Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation pour l'année que dans les cas suivants […]
+The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part … except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if …
+[13] Dans l’arrêt Coleman C. Abrahams v. MNR, 66 DTC 5451, le président Jackett, tel était alors son titre, a expliqué qu’une première nouvelle cotisation se voit remplacée par une deuxième nouvelle cotisation, ce qui a pour effet d’annuler la première nouvelle cotisation. Cependant, si une nouvelle cotisation est suivie d’une cotisation « supplémentaire » à l'égard de la même année, la cotisation antérieure reste intacte. La cotisation supplémentaire ajoute un montant d'impôt, une pénalité ou des intérêts au montant qui a déjà été cotisé (voir également l’arrêt Lambert c. La Reine, [1977] 1 C.F. 199, 76 DTC 6373 (CAF)).
+[14] En l’espèce, le ministre avait cotisé un montant qui n’avait pas été cotisé auparavant, à savoir une cotisation supplémentaire prenant la forme d’une pénalité. Indépendamment du fait que la pénalité imposée ait pu découler d’événements ayant abouti à la nouvelle cotisation, elle n’en reste pas moins un montant, une pénalité qui vient s’ajouter au montant d’impôt fixé antérieurement à l’égard de l’année 2008. Il n’y a rien d’ésotérique dans la cotisation supplémentaire. C’est une procédure à laquelle il est loisible au ministre de recourir.
+[15] L’appel à l’encontre de la nouvelle cotisation pour l’année 2008 reste un appel en bonne et due forme; quant à la nouvelle cotisation, elle est toujours valide.
+[16] À la date de la présente requête, aucun appel n’avait été déposé à l’encontre de la cotisation supplémentaire. L’appelante soutient que la cotisation supplémentaire doit se fonder sur les faits à l’origine de la nouvelle cotisation et qu'elle subira un préjudice du fait qu'elle devra prouver que la nouvelle cotisation est erronée, tandis que le ministre devra prouver que la cotisation supplémentaire est juste. La contribuable donne à entendre que le fardeau de la preuve devrait incomber au ministre dans les appels à l’égard des deux cotisations. Il est fort possible que le ministre fasse valoir des faits nouveaux à l’appui de la cotisation supplémentaire. Pour l’instant, nous ne savons pas quels faits seront allégués par le ministre dans tout appel ultérieur à l’encontre de la cotisation supplémentaire. Quoi qu’il en soit, les droits de l’appelante n’ont pas été enfreints. Bon nombre de pénalités imposées aux termes du paragraphe 163(2) sont établies dans le même avis de cotisation que celui qui établit l’impôt du contribuable pour une année d’imposition donnée. Dans ces appels, le contribuable est dans la même position que l’appelante : c’est au contribuable que revient le fardeau de faire rejeter la cotisation d’impôt sur le revenu; c’est à la Couronne que revient le fardeau de prouver les faits à l’origine de la pénalité. La procédure en a été décrite par le juge Rouleau dans la décision La Reine c. Wellington Taylor, 84 DTC 6459, [1985] 1 CF 331.
+[17] Une fois que l’appelante aura porté en appel la cotisation supplémentaire, elle pourra juger bon de demander à la Cour une ordonnance regroupant les deux appels de façon qu’ils puissent être entendus ensemble. Le juge de première instance sera alors bien placé pour déterminer s’il y a eu violation des droits de l’appelante. En conséquence, je suspendrai les procédures dans le présent appel pendant une période de 60 jours à compter de la date de dépôt par l’appelante d’un avis d’appel à l’égard de la cotisation supplémentaire, mais au plus tard jusqu’au 30 juin 2016.
+[18] La requête de l’appelante est à tous autres égards rejetée avec dépens au montant de 500 $ payables à l’intimée.
+Ordonnance signée à Ottawa, Canada, ce 19e jour de novembre 2015.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 13e jour de mai 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 TCC 288
+N° DU DOSSIER DE LA COUR :
+2013-3379(IT)G
+INTITULÉ :
+684761 B.C. LTD. et SA MAJESTÉ LA REINE
+LIEU D’AUDIENCE :
+Vancouver, Colombie-Britannique
+DATE DE L’AUDIENCE :
+22 octobre 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Gerald J. Rip
+DATE DE L’ORDONNANCE :
+19 novembre 2015
+COMPARUTIONS :
+Avocat de l'appelante :
+Gavin Laird
+Avocats de l'intimée :
+Perry Derksen / David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Gavin Laird
+Société :
+Laird & Company
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelante a refusé de soumettre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable pour l'année 2008. Par la suite, au cours de ladite période, le ministre a établi une nouvelle cotisation à l’égard de son revenu pour cette année-là.
+[2] L’avocat de l’appelante a écrit à la Cour le 4 novembre 2015, après l’audience, pour soumettre les observations écrites de l’appelante, et une autre fois le 9 novembre 2015, pour attirer l’attention sur de légères différences entre les versions électronique et imprimée de la transcription de l’audience sur la requête, ainsi que pour soumettre un Recueil des textes de loi et de la jurisprudence, avec copies desdits documents, tout cela apparemment avec l’assentiment de la Couronne.

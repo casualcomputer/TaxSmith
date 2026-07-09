@@ -1,0 +1,262 @@
+Title: Ugro c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30415/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-317-30415-ugro-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-27
+
+# Ugro c. La Reine
+
+- Citation: 2011 CCI 317
+- Decision date: 2011-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7945, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ugro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-27
+Référence neutre
+2011 CCI 317
+Numéro de dossier
+2009-2166(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2166(IT)G
+ENTRE :
+ANDREW UGRO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus avec les appels de Kelly Ugro (2009‑2165(IT)G) le 2 février 2011, à Victoria (Colombie‑Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Bruce Senkpiel
+________________________________________________________________
+JUGEMENT
+Les appels relatifs aux cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2001, 2002, 2003, 2004 et 2005 sont accueillis avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour de juin 2011.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 21e jour de septembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2009-2165(IT)G
+ENTRE :
+KELLY UGRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus avec les appels d'Andrew Ugro (2009‑2166(IT)G) le 2 février 2011, à Victoria (Colombie‑Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Représentant de l'appelante :
+M. Andrew Ugro
+Avocat de l'intimée :
+Me Bruce Senkpiel
+________________________________________________________________
+JUGEMENT
+Les appels relatifs aux cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2002, 2003, 2004 et 2005 sont accueillis avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour de juin 2011.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 21e jour de septembre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 317
+Date : 20110627
+Dossiers : 2009-2166(IT)G
+2009-2165(IT)G
+ENTRE :
+ANDREW UGRO,
+KELLY UGRO,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] Les appelants sont mari et femme.
+[2] Les appelants exploitaient une entreprise de graphisme sous la raison sociale « Hub Media ». (Cette dernière est appelée ci-après l'« entreprise ».)
+[3] Hub Media fournit à ses clients des services de conception et de production de documents imprimés, de publicités, de présentations et de documents de commercialisation sur le Web.
+[4] De 1995 à 2001, l'appelant Andrew Ugro a exploité Hub Media en tant qu'entreprise individuelle.
+[5] En 2002, les appelants ont commencé à exploiter Hub Media en tant que société de personnes (la « société de personnes »).
+[6] Le ministre du Revenu national (le « ministre ») soutient que les appelants ou la société de personnes ont gagné les revenus suivants :
+a) en 2001, Andrew Ugro a facturé 56 648,70 $ à des clients; les biens vendus lui ont coûté 4 508,69 $, et il a eu des dépenses de 19 488,62 $;
+b) en 2002, la société de personnes a facturé 365 626,82 $ à des clients; les biens vendus lui ont coûté 269 540 $, et elle a eu des dépenses de 18 340,92 $;
+c) en 2003, la société de personnes a facturé 225 784,47 $ à des clients; les biens vendus lui ont coûté 155 456,91 $, et elle a eu des dépenses de 24 804,06 $;
+d) en 2004, la société de personnes a facturé 281 682,52 $ à des clients; les biens vendus lui ont coûté 215 653,16 $, et elle a eu des dépenses de 21 185,70 $;
+e) le ministre a calculé les montants facturés révisés de l'entreprise en 2001, en 2002, en 2003 et en 2004 en prenant les dépôts bancaires indiqués dans le grand livre des appelants, plus les créances courantes, moins les créances de clôture, et moins les taxes perçues pour chaque année;
+f) les appelants ont déduit la totalité des frais de repas et de représentation supportés par Hub Media en 2001, en 2002, en 2003 et en 2004. Le ministre soutient que les appelants n'avaient chacun le droit de déduire que 50 % des frais de repas et de représentation.
+[7] Les appelants ont déclaré avoir tiré les revenus suivants de Hub Media :
+Année
+Andrew Ugro
+Kelly Ugro
+2001
+9 302,83 $
+0 $
+2002
+20 424,53 $
+20 424,53 $
+2003
+17 152,71 $
+17 152,71 $
+2004
+16 626,60 $
+16 626,60 $
+2005
+16 684,06 $
+16 684,06 $
+(Nota : L'appelant Andrew Ugro a gagné 100 % du revenu de l'entreprise en 2001, et chacun des appelants a gagné 50 % des revenus de l'entreprise de 2002 à 2005.)
+[8] Le ministre soutient que chacun des appelants a omis de déclarer les revenus additionnels suivants tirés de l'entreprise :
+Année
+Andrew Ugro
+Kelly Ugro
+2001
+23 349 $
+0 $
+2002
+18 449 $
+18 449 $
+2003
+5 610 $
+5 610 $
+2004
+5 796 $
+5 796 $
+2005
+5 363 $
+5 636 $
+[9] Le ministre a établi en preuve que l'appelant Andrew Ugro avait omis de produire ses déclarations de revenus pour ses années d'imposition 2001 à 2005 dans les délais que prescrit la Loi de l'impôt sur le revenu (la « Loi »).
+[10] L'appelant Andrew Ugro reconnaît avoir produit ses déclarations de revenus pour 2001 à 2004 aux environs du 3 janvier 2007 et avoir produit en retard, soit le 31 janvier 2007, sa déclaration de revenus pour 2005.
+[11] Le ministre soutient que l'appelante Kelly Ugro a omis de produire ses déclarations de revenus concernant ses années d'imposition 2002 à 2005 dans les délais que prescrit la Loi.
+[12] Le ministre soutient que l'appelante Kelly Ugro a produit ses déclarations de revenus pour 2002 à 2004 aux environs du 3 janvier 2007 et qu'elle a produit en retard, soit le 31 janvier 2007, sa déclaration de revenus pour 2005.
+B. LES QUESTIONS EN LITIGE
+[13] Les questions en litige qu'il faut trancher sont les suivantes :
+a) Le ministre a‑t‑il inclus à bon droit les revenus non déclarés dans le calcul de la dette fiscale des appelants concernant les années d'imposition 2001, 2002, 2003, 2004 et 2005?
+b) Le ministre a‑t‑il rejeté à bon droit 50 % des frais de repas et de représentation que les appelants avaient déduits dans les années d'imposition 2001, 2002, 2003 et 2004?
+c) La Cour est‑elle en mesure de renoncer au montant des pénalités et des intérêts qui a été calculé sur la dette fiscale établie à l'égard des années d'imposition 2001, 2002, 2003, 2004 et 2005 des appelants?
+C. ANALYSE ET DÉCISION
+[14] Au début de sa plaidoirie, l'avocat de l'intimée a déclaré ce qui suit :
+[TRADUCTION]
+Le ministre admet que le paragraphe 15(l) [de la réponse] est inexact. Il y est déclaré que l'appelant a déduit la totalité des frais de repas et de représentation de l'entreprise en 2001, en 2002, en 2003 et en 2004. Selon des informations reçues en réponse aux engagements, il semble que ce ne soit en fait que 50 % des frais de repas et de représentation pour ces années qui ont été déduits. [...]
+(Transcription, volume I, de la page 30, ligne 24, à la page 31, ligne 5).
+[15] L'avocat de l'intimée a déclaré que le ministre acceptait les réductions suivantes des revenus des appelants :
+Année
+Andrew Ugro
+Kelly Ugro
+2001
+421,48 $
+0 $
+2002
+383,42 $
+383,42 $
+2003
+0 $
+0 $
+2004
+259,14 $
+259,14 $
+2005
+0 $
+0 $
+Nota : L'avocat de l'intimée a déclaré ce qui suit :
+[TRADUCTION]
+Pour ce qui est de 2003 [...] le montant de 760,10 $ est compensé par une erreur commise en 2003 par l'Agence du revenu du Canada en faveur du contribuable, d'un montant de 5 886,73 $. Il s'ensuit qu'à cause de l'erreur, qui excède de loin les frais de repas et de représentation, aucun rajustement ne doit être fait pour 2003.
+(Transcription, volume I, de la page 31, ligne 22, à la page 32, ligne 3).
+(Nota : L'avocat de l'intimée a déclaré qu'il ne devrait pas y avoir de rajustement pour 2005 parce que le ministre a établi une cotisation arbitraire pour cette année‑là.)
+[16] L'appelant Andrew Ugro a dit qu'il avait mis au point une [TRADUCTION] « formule » pour déterminer son revenu d'entreprise net pour 2001 ainsi que celui de la société de personnes pour les années 2002, 2003, 2004 et 2005.
+[17] Pour ce qui est de la « formule » ou de la position adoptée par les appelants en vue de la détermination de leur revenu net pour les années en question, je me reporte à la décision qu'a rendue le juge James Russell, de la Cour fédérale, dans Ugro c. Ministre du Revenu national, 2009 CF 826. Dans cette affaire, M. Ugro avait porté en appel devant la Cour fédérale la décision que le ministre avait rendue en vertu des dispositions en matière d'équité. Voici ce qu'a déclaré le juge Russell :
+[88] Au coeur de la présente demande, il y a un désaccord entre le demandeur et l'ARC relativement au nouveau système de comptabilité que le demandeur soutient avoir lui-même mis au point parce que son comptable précédent avait produit des déclarations frauduleuses en son nom, selon ce qu'il prétend. Il ne s'agit pas d'un différend sur les chiffres utilisés par l'ARC. Le demandeur soutient que son système comptable donne un portrait plus exact de son revenu d'entreprise net aux fins de l'impôt sur le revenu, et il conteste la façon dont l'ARC a calculé son revenu brut, son bénéfice brut et son revenu d'entreprise net. Le désaccord de l'ARC avec le système comptable du demandeur porte principalement sur sa méthode de calcul de son revenu et son bénéfice brut.
+[89] Le désaccord de l'ARC en ce qui a trait au système du demandeur lui a été expliqué lors de nombreuses discussions et décisions. Finalement, le demandeur n'est simplement pas d'accord avec les explications de l'ARC et avec les résultats que l'ARC obtient grâce aux méthodes comptables plus traditionnelles qu'elle a utilisées pour calculer son revenu d'entreprise net pour les années en cause.
+[90] En conséquence de ce désaccord, le demandeur soutient que l'ARC a fait preuve de mauvaise foi, de manquement à l'équité procédurale et de partialité, qu'elle a commis des erreurs de droit et de fait et qu'elle a été déraisonnable, et que tout cela a conduit à la décision de deuxième niveau en matière d'équité qui fait l'objet du présent contrôle judiciaire.
+[91] J'ai examiné attentivement le dossier écrit. Je constate que ce long différend a donné lieu chez les deux parties à des sentiments de frustration considérables. En fin de compte, toutefois, au moins en ce qui a trait aux demandes de rajustement des crédits du demandeur, le désaccord porte simplement sur la question de savoir si le système comptable inventé par le demandeur donne des résultats exacts.
+[92] Les objections et le désaccord de l'ARC en ce qui a trait au système comptable du demandeur lui ont été expliqués à de nombreuses occasions et la possibilité lui a été donnée à chaque fois de démontrer la raison pour laquelle l'ARC devrait accepter sa méthodologie et les résultats qu'elle donne.
+[93] J'estime qu'aucune preuve ne m'a été présentée concernant la mauvaise foi, la partialité ou le manquement à l'équité procédurale de la part de l'ARC ou de celle des agents et représentants qui ont eu affaire au demandeur et se sont penchés sur sa comptabilité et ses problèmes fiscaux.
+[94] En ce qui a trait à l'exactitude de sa méthodologie comptable et à la prétendue inexactitude des méthodes utilisées par l'ARC pour déterminer le revenu d'entreprise net pour les années en cause, le demandeur met de l'avant ses propres affirmations et sa propre interprétation de certaines dispositions législatives et de la jurisprudence. Cependant, en ce qui concerne la question centrale de savoir comment procéder pour calculer de la manière la plus exacte le revenu d'entreprise net du demandeur, celui-ci n'a pas démontré que l'ARC avait commis une erreur de droit, qu'elle n'avait pas tenu compte d'un fait important ou que ses calculs et ses conclusions étaient déraisonnables.
+(Nota : La décision du juge Russell a été portée en appel devant la Cour d'appel fédérale. L'appel est tenu en suspens jusqu'à ce que l'appel connexe que les appelants ont interjeté devant la Cour canadienne de l'impôt soit réglé de manière définitive.)
+(Transcription, volume I, de la page 28, ligne 24, à la page 29, ligne 2).
+[18] Selon la preuve présentée, les fonctionnaires de l'Agence du revenu du Canada (l'« ARC ») n'ont pas accepté la méthode employée par l'appelant pour calculer son revenu net ou celui de la société de personnes.
+[19] Dans sa plaidoirie, l'avocat de l'intimée a déclaré ce qui suit :
+[TRADUCTION]
+[...] la véritable question dont la Cour est aujourd'hui saisie a trait aux deux systèmes de comptabilité différents [...]
+(Transcription, volume II, page 69, lignes 19 à 21.)
+[20] L'avocat de l'intimée a ajouté :
+[TRADUCTION]
+L'intimée est d'avis que la jurisprudence qu'invoque l'appelant est dans une large mesure dénuée de pertinence. Dans la mesure où celui‑ci a cité des principes fiscaux pertinents au sujet des ventes, du profit brut et du profit net, cette jurisprudence étaye la position du ministre. Ce qui est pertinent, dans le cas présent, c'est ce que l'appelant a fait lors du calcul du profit, et la façon dont il l'a en fait calculé.
+Comme nous le savons, deux comptables agréés s'occupaient au départ de ses impôts, et le contribuable conteste la manière dont ils le faisaient. Son système a été examiné par deux vérificateurs de l'Agence du revenu du Canada, deux agents d'appel, deux paliers d'examen fondé sur l'équité, un juge de la Cour fédérale, et, hier, le témoin de l'appelant, un autre agent d'appel de l'Agence du revenu du Canada. Et l'appelant, qui n'a aucune formation en comptabilité, est d'avis que son système fonctionne.
+Le présumé système comptable de l'appelant ne peut pas fonctionner. Il n'a même pas de système comptable approprié, comme nous l'avons vu hier, quand il a présenté son système comptable avec le rétroprojecteur. Il ne fait pas d'écritures quotidiennes au journal tout au long de l'année et ne les reporte pas dans le grand livre. Il le fait à la fin de l'année. En fait, son compte de débours est un compte provisoire. Il s'agit simplement d'un chiffre établissant l'équilibre. Chaque année, son système ne balance pas et, chaque année, il inscrit un chiffre établissant l'équilibre pour que sa comptabilité soit équilibrée, parce que son système ne fonctionne pas.
+Dans sa plaidoirie, l'appelant a laissé entendre que le livre de compte bancaire pouvait être utilisé subsidiairement comme état des résultats. Cela est manifestement absurde. Les montants tirés du compte bancaire pourraient être des retraits ou des opérations personnelles. Ensuite, si les dépenses étaient payées à partir du même compte bancaire, il y aurait alors une double comptabilisation de ces dépenses. Ses explications au sujet de la façon dont fonctionne son système montrent que ce n'est pas le cas, et ce que j'aimerais faire, très brièvement, c'est jeter un coup d'oeil au recueil de documents de l'intimée, à l'onglet 43. Il s'agirait des onglets 43 et 17.
+(Transcription, volume II, de la page 70, ligne 7, à la page 71, ligne 17).
+[21] À la page 78 de la transcription, l'avocat de l'intimée cite des extraits de l'arrêt Canderel ltée c. Sa Majesté la Reine, [1998] 1 R.C.S. 147 :
+[TRADUCTION]
+Là encore, à la page 18, probablement le paragraphe le plus important pour les besoins de la présente affaire, le paragraphe 50, à la page 18 :
+« Il découle de tout ce qui précède que, dans le calcul de son revenu pour une année d'imposition donnée, le contribuable doit adopter une méthode de calcul qui ne soit pas incompatible avec la Loi ou les autres règles de droit établies, qui soit conforme avec les principes commerciaux reconnus et qui produise une image fidèle de son revenu pour l'année en question. »
+Et c'est la phrase suivante qui est importante :
+« Dans les cas les plus simples, il ne sera même pas nécessaire de recourir formellement aux divers principes commerciaux reconnus, car la simple formule qui consiste à appliquer aux revenus les dépenses engagées dans le but de les gagner est toujours le facteur déterminant fondamental. »
+C'est tout ce que nous faisons ici.
+Le paragraphe 52 traite du fardeau dont il faut s'acquitter en ce qui concerne le calcul du revenu. Je voudrais donc seulement examiner brièvement cette question. Ce paragraphe indique ce qui suit :
+« Revenu Canada est libre d'indiquer par voie de cotisation son désaccord avec la méthode de calcul choisie par le contribuable. Dans Johnston c. M.N.R., [1948] R.C.S. 486, notre Cour a conclu qu'il incombe au contribuable ayant fait l'objet d'une cotisation d'établir que les conclusions de fait sur lesquelles la cotisation est basée sont fausses. Cependant, pour s'acquitter de cette charge de la preuve, lorsque le différend porte sur la méthode de calcul appropriée, le contribuable n'a qu'à prouver que son revenu a été calculé d'une manière compatible avec le paragraphe précédent, c'est‑à‑dire que le chiffre obtenu était conforme au cadre juridique existant alors et donne une image fidèle de sa situation financière pour l'année en question. »
+Et l'intimée est d'avis qu'il a été prouvé devant la Cour que deux comptables agréés n'ont pas accepté cette méthode. C'est lui qui l'a inventée. L'ARC ne l'a pas acceptée. Rien n'indique que cette méthode soit admise par les principes commerciaux de base. Et nous ajouterions également qu'il a été démontré que cette méthode ne donne pas une image fidèle de son revenu.
+Ensuite, normalement, si le contribuable était capable de s'acquitter de ce fardeau, il incomberait alors au ministre de prouver soit que le chiffre ne constitue pas une image fidèle du revenu, soit qu'une autre méthode de calcul en donnerait une image plus fidèle.
+Et ensuite, au paragraphe 53, nous trouvons le sommaire des six principes que nous avons déjà vus plus tôt. Et ce sommaire est donc pertinent et important, mais je ne crois pas qu'il soit nécessaire de le passer en revue, sauf si la Cour le souhaite.
+LE JUGE : Allez‑y. Veuillez continuer, je veux dire. Ne le lisez pas; je l'ai lu plusieurs fois.
+Me SENKPIEL : Donc, la position de l'intimée est simplement la suivante : non seulement n'a‑t‑il pas été démontré que le système comptable que l'appelant a mis de l'avant concorde avec les principes commerciaux, mais il a été conclu que le système comporte de sérieux problèmes et qu'il mène, en fin de compte, à des résultats assez absurdes quand on l'applique concrètement. Nous sommes donc d'avis que, à l'exception des montants que l'intimée a admis, il convient de rejeter l'appel.
+(Transcription, volume II, de la page 78, ligne 14, à la page 81, ligne 5).
+[22] J'ai examiné avec soin la preuve et les arguments des appelants ainsi que les décisions judiciaires qu'a invoquées l'appelant Andrew Ugro, et j'arrive à la conclusion que le ministre a déterminé à juste titre le revenu net d'Andrew Ugro pour l'année d'imposition 2001 et celui de la société de personnes pour les années d'imposition 2002 à 2005. Je conclus donc que les appelants ne se sont pas acquittés du fardeau d'établir que les calculs du revenu net que le ministre a faits pour Andrew Ugro en 2001 et pour la société de personnes en 2002, en 2003, en 2004 et en 2005 étaient inexacts.
+Intérêts et pénalités
+[23] Dans leur avis d'appel, les appelants ont demandé à la Cour d'annuler la décision qu'avait prise l'ARC d'inclure des pénalités et des intérêts.
+[24] Pour ce qui est du cumul des intérêts, la Cour de l'impôt n'a pas le pouvoir de renoncer aux intérêts.
+[25] Les pénalités qui ont été imposées étaient des pénalités pour production tardive, car les déclarations de revenus de chacun des appelants ont été produites en retard. Voir les paragraphes [9], [10], [11] et [12] qui précèdent.
+[26] La Cour de l'impôt n'a pas le pouvoir de renoncer à ce genre de pénalité.
+Dépens
+[27] L'avocat de l'intimée a suggéré que la Cour impose des dépens. J'accorde les dépens suivants :
+a) des dépens de 1 000 $ que l'appelant Andrew Ugro est tenu de payer à l'intimée;
+b) des dépens de 1 000 $ que l'appelante Kelly Ugro est tenue de payer à l'intimée.
+[28] Les appels sont accueillis et le ministre est tenu d'effectuer les rajustements mentionnés dans les présents motifs.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de juin 2011.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 21e jour de septembre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 317
+Nos DES DOSSIERS DE LA COUR : 2009-2166(IT)G
+2009-2165(IT)G
+INTITULÉS : ANDREW UGRO c. SA MAJESTÉ LA REINE
+KELLY UGRO c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 2 février 2011
+MOTIFS DU JUGEMENT : L'honorable juge L. M. Little
+DATE DU JUGEMENT : Le 27 juin 2011
+COMPARUTIONS :
+Pour les appelants :
+M. Andrew Ugro
+Avocat de l'intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

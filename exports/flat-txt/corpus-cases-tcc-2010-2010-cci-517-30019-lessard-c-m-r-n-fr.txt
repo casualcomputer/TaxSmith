@@ -1,0 +1,167 @@
+Title: Lessard c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30019/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-517-30019-lessard-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-10-14
+
+# Lessard c. M.R.N.
+
+- Citation: 2010 CCI 517
+- Decision date: 2010-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7666, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-14
+Référence neutre
+2010 CCI 517
+Numéro de dossier
+2008-2177(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-2177(EI)
+ENTRE :
+Alain LESSARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+110319 CANADA LTÉE
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de 110319 Canada ltée (2008-2198(EI)), le 31 août 2010, à Baie-Comeau (Québec)
+Devant : l’honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelant :
+Marie-Josée Bernier, stagiaire en droit
+Avocate de l'intimé :
+Me Christina Ham
+Représentante de l’intervenante
+Marie-Josée Bernier, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est rejeté au motif que le travail de monsieur Alain Lessard, à titre de camionneur, pour la société 110319 Canada ltée, du 4 juin au 30 novembre 2007 et du 10 décembre au 14 décembre 2007, n’était pas un travail assurable aux termes de la Loi.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2008-2198(EI)
+ENTRE :
+110319 Canada Ltée,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Alain Lessard, (2008‑2177(EI)), le 31 août 2010, à Baie-Comeau (Québec).
+Devant : l’honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelante :
+Marie‑Josée Bernier, stagiaire en droit
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est rejeté au motif que le travail d’Alain Lessard, du 4 juin au 30 novembre 2007 et du 10 décembre au 14 décembre 2007, n’était pas un travail assurable aux termes de la Loi.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 517
+Date : 20101014
+Dossiers : 2008-2177(EI)
+2008-2198(EI)
+ENTRE :
+ALAIN LESSARD,
+110319 CANADA LTÉE,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision relative au caractère assurable du travail exécuté par monsieur Alain Lessard pour la société 110319 Canada ltée, dont l’actionnaire unique est monsieur Yvon Lessard, son père, du 4 juin au 30 novembre 2007 et du 10 décembre au 14 décembre 2007.
+[2] Tant l’employeur que le travailleur ont fait appel de la décision du 14 avril 2008. L’employeur a, de plus, choisi d’intervenir dans l’appel du travailleur.
+[3] Les parties ont procédé au moyen d’une preuve commune.
+[4] Pour établir et confirmer sa décision à l’origine de l’appel, l’intimé a tenu pour acquis les hypothèses de fait suivantes :
+7) L’appelante et le travailleur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) Yvon Lessard est l’actionnaire unique de l’appelante; (admis)
+b) Yvon Lessard est le père du travailleur; (admis)
+c) travailleur est lié par les liens du sang à une personne qui contrôle l’appelante; (admis)
+8) Le ministre a déterminé que l’appelante et le travailleur avaient un lien de dépendance entre eux dans le cadre de l’emploi. En effet, le ministre a été convaincu qu’il n’était pas raisonnable de conclure que l’appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) l’appelante a été constituée en société le 8 septembre 1981; (admis)
+b) l’appelante détenait un permis de transporteur en vrac; (admis)
+c) l’appelante était membre de l’Association des transporteurs en vrac de Baie‑Comeau (l’Association); (admis)
+d) l’appelante ne pouvait pas faire aucun transport en vrac sans l’autorisation et le contrôle de l’Association; (admis)
+e) le travailleur a été embauché comme camionneur; (admis)
+f) le travailleur conduisait un camion de 10 roues appartenant à l’appelante, le conducteur devait être qualifié de niveau classe 3 pour le conduire; (admis)
+g) le travailleur était toujours inscrit au journal des salaires de l’appelante pour une semaine de 40 heures avec une rémunération de 670 $, peu importe le nombre d’heures réellement travaillées; (nié)
+h) le 12 février 2007, le travailleur déclarait à un représentant de l’intimé qu’en 2007, il était le seul à conduire le camion de l’appelante; (admis)
+i) le 12 février 2007, le travailleur déclarait à un représentant de l’intimé que durant l’hiver 2007, il a transporté de la neige et qu’il a cumulé ses heures pour faire des payes plus élevées; (nié)
+j) en 2007, l’appelante n’avait aucune entrée au journal des salaires entre le 1er janvier 2007 et le 4 juin 2007; (admis)
+k) en 2007, les renseignements quotidiens fournis par l’appelante à l’Association ne coïncidaient pas avec les entrées au journal des salaires de l’appelante, des heures, des journées et des semaines travaillées par le travailleur; (nié)
+l) le 7 décembre 2007, l’appelante remettait au travailleur un relevé d’emploi qui indiquait comme premier jour de travail le 4 juin 2007 et comme dernier jour de travail le 30 novembre 2007 et le nombre d’heures assurables était de 512 heures et la rémunération assurable totalisait 8 576,00 $; (admis)
+m) le relevé d’emploi n’est pas conforme à la réalité ni quant aux heures travaillées ni quant à la période; (nié)
+n) du 9 janvier au 4 juin, le travailleur avait travaillé 167 heures pour l’appelante sans être inscrit au journal des salaires de l’appelante; (nié)
+o) un employé non lié n’accepterait pas de travailler sans rémunération; (nié)
+p) au mois d’août 2007, le travailleur obtenait un certificat médical avec arrêt de travail; (admis)
+q) le 12 février 2007, le travailleur déclarait à un représentant de l’intimé que durant l’été, il conduisait le camion même s’il était en maladie et même s’il n’avait pas de rémunération; (nié)
+r) durant la période du 22 août au 12 octobre, l’appelante déclarait 228,2 heures de transport à l’Association avec aucune entrée au journal des salaires; (nié)
+s) durant la période du 9 décembre au 14 décembre, l’appelante déclarait 18 heures de transport à l’Association; (admis)
+t) le 15 janvier 2008, l’appelante remettait au travailleur un relevé d’emploi qui indiquait comme premier jour de travail le 10 décembre 2007 et comme dernier jour de travail le 14 décembre 2007 et le nombre d’heures assurables était de 40 heures et la rémunération assurable totalisait 670,00 $; (admis)
+u) la rémunération inscrite du travailleur au journal des salaires ne correspondait pas aux périodes réelles d’activité de l’appelante; (nié)
+v) la véritable période d’emploi du travailleur ne correspondait pas avec la période en litige; (nié)
+w) le ministre est convaincu que la rémunération, la durée, les modalités et les conditions de travail du travailleur ne sauraient prévaloir sans l’existence du lien de dépendance existant entre les parties. (nié)
+[5] En cette matière, le fardeau de la preuve incombe aux appelants. Il s’agit d’un fardeau de la preuve un peu particulier, en ce sens qu’il est nécessaire de démontrer, selon la prépondérance des probabilités, que l’intimé a fait une erreur manifeste ou a fait une analyse des faits qui n’était pas raisonnable.
+[6] En d’autres termes, il faut prouver que des faits ont été omis, négligés ou occultés, ou qu’on a donné une importance démesurée à certains éléments, et démontrer ainsi que l’analyse n’était pas judicieuse et raisonnable pour que l’intervention de la Cour se justifie.
+[7] Pour déterminer si le contrat de travail a été influencé par le lien de dépendance entre les parties, le législateur a prévu divers critères dont il faut tenir compte, notamment la durée de l’emploi, ses conditions et ses modalités.
+[8] À partir de ces critères ou autres éléments pouvant s’avérer pertinents, si l’analyse a été faite judicieusement, la Cour doit essentiellement confirmer la décision, et ce, même si le tribunal aurait pu, à partir des mêmes faits, conclure d’une manière différente.
+[9] En l’espèce, les appelants ont fait témoigner le travailleur, son frère Yvan Lessard et leur père, Yvon Lessard, actionnaire unique de la société appelante.
+[10] En bref, ils ont témoigné que les heures de travail de l’appelant étaient en tout point conformes aux payes et aux salaires versés, et qu’il n’avait fait aucun travail non rémunéré, et que le salaire, les conditions de travail et les modalités de l’emploi étaient tout à fait similaires et comparables à ce qui existait lors d’un travail semblable qu’il avait effectué durant une dizaine d’années pour un autre employeur.
+[11] Pour expliquer certaines incohérences et ambiguïtés mises au jour lors de l’enquête et consignées dans le document intitulé « Rapport sur un appel CPT 110 » (pièce I-1), les appelants ont affirmé que les heures de travail qui semblaient avoir été effectuées par l’appelant l’avaient été en réalité par son frère et ce, même si ce dernier ne détenait pas le permis de conduire requis pour le travail en question.
+[12] Lors du contre-interrogatoire, les appelants ont soutenu que le travail en question avait été effectué à des terrains privés, ailleurs que sur les voies publiques, et qu’il n’était pas nécessaire de détenir un permis particulier pour conduire à de tels endroits.
+[13] De son côté, l’intimé a fait témoigner l’agent des appels, qui a expliqué le travail effectué lors de son analyse et dont fait état la pièce I-1 les autres documents consultés étaient notamment le registre de l’entreprise auprès de l’association des camionneurs en vrac qui voit à la répartition du travail d’une manière équitable dans la région sur laquelle elle a compétence.
+[14] Cette preuve a validé certaines ambiguïtés et incohérences, notamment quant aux explications données par l’appelant et son père lors de l’analyse au premier palier.
+[15] Cette preuve a aussi établi que l’agent des appels avait tenu compte de tous les éléments que les appelants lui avaient signalés, lors de son enquête, par téléphone, et cela, même si certains faits avaient été présentés d’une façon différente lors de l’enquête au premier palier ou niveau.
+[16] Selon ces documents, l’appelante a fait environ 325 heures de transport alors qu’elle n’avait qu’un seul conducteur détenant les permis requis, soit l’appelant. Or, ces heures n’apparaissent pas aux divers registres de l’appelant.
+[17] En d’autres termes, ces heures de travail ne coïncident pas avec les heures de travail attribuées à l’appelant, et ce, même si ce dernier, d’après la preuve, était le seul conducteur qualifié.
+[18] Pour réfuter les hypothèses tenues pour acquises, les appelants ont fait valoir qu’il s’agissait d’interprétations et de spéculations. En d’autres termes, ils ont soutenu que la preuve de l’intimé était incomplète et déficiente.
+[19] Les appelants soutiennent que le nombre d’heures est hypothétique, puisque la preuve n’a pas permis de distinguer les heures de travail attribuées à des endroits publics versus les endroits privés. Les appelants ont également affirmé que les comptes rendus préparés par l’association étaient incomplets et qu’ils n’étaient pas fiables.
+[20] De plus, les appelants ont admis que certaines heures de travail n’avaient pas été effectuées par l’appelant, mais plutôt par son frère Yvan, qui, même s’il n’avait pas de permis, acceptait de travailler comme conducteur, principalement à des chantiers privés où, selon eux, il n’était pas nécessaire de détenir un permis spécial.
+[21] Les explications ont été essentiellement spéculatives et hypothétiques. Personne n’a témoigné et aucun document n’a été présenté pour étayer les heures de travail non payées, les heures attribuées pendant lesquelles aucun travail n’a été fait, mais la non‑exigence de détenir un permis pour le travail effectué à des sites privés, ou le nombre d’heures de travail possiblement effectuées à des sites privés.
+[22] La preuve dont dispose le tribunal ne permet aucunement de relever une quelconque erreur déterminante dans le traitement du dossier ayant conduit à la décision; au contraire, la prépondérance de la preuve indique qu’il s’agissait d’une conclusion raisonnable.
+[23] Il aurait été approprié de soumettre une preuve dont les fondements ne reposaient pas que sur les explications essentiellement verbales, spéculatives et intéressées des appelants, d’autant plus que la preuve de l’intimé s’appuyait sur des assises documentaires raisonnables et très crédibles.
+[24] Je rappelle qu’en cette matière, le fardeau de la preuve incombe aux appelants et non à l’intimé. De plus, lorsque le dossier fait état de contradictions et/ou tout au moins de versions différentes entre la première enquête et celle effectuée par l’agent de révision, il devient particulièrement important que la version soumise au tribunal soit raisonnable avec des fondements sérieux et non pas, comme en l’espèce essentiellement spéculatif sous prétexte que l’intimé a fait une enquête incomplète : ni l’appelant ni l’intervenante n’ont assumé le fardeau de la preuve qui leur incombait.
+[25] Pour ces motifs, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 517
+Nºs DES DOSSIERS DE LA COUR : 2008-2177(EI) et 2007-2198(EI)
+INTITULÉS : Alain Lessard et 110319 Canada ltée et M.R.N.
+LIEU DE L’AUDIENCE : Baie-Comeau (Québec)
+DATE DE L’AUDIENCE : Le 31 août 2010
+MOTIFS DU JUGEMENT PAR : L’honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 14 octobre 2010
+COMPARUTIONS :
+Représentante des appelants :
+Marie-Josée Bernier, stagiaire en droit
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

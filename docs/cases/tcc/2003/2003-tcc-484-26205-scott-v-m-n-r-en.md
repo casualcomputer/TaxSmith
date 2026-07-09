@@ -1,0 +1,143 @@
+---
+title: "Scott v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26205/index.do"
+last_modified: "2003-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 484"
+citation2: ""
+neutral_citation: "2003 TCC 484"
+decision_date: "2003-07-14"
+language: "en"
+item_id: "26205"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3936
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:58:13.271000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e22db940c1d7e508d40afbc4b3924b6b76c311bdd4c603baa00180d030b2df19"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scott v. M.N.R.
+
+- Citation: 2003 TCC 484
+- Decision date: 2003-07-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3936, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-14
+Neutral citation
+2003 TCC 484
+File numbers
+2003-235(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2003-235(EI)
+BETWEEN:
+CINDY SCOTT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Cindy Scott (2003-236(CPP)) on May 27, 2003 at Hamilton, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nimanthika Kaneira
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 14th day of July 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation:2003TCC484
+Date:20030714
+Dockets: 2003-235(EI)
+2003-236(CPP)
+BETWEEN:
+CINDY SCOTT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] These appeals were heard on common evidence on May 27, 2003 at Hamilton, Ontario.
+[2] 1087338 Ontario Limited operating as The Neufeld Group, the Payor, appealed a ruling to the Minister of National Revenue (the "Minister") for the determination of the question of whether or not the Appellant was employed in insurable and pensionable employment while engaged by it during the period in question, from January 1 to June 18, 2001, within the meaning of the Employment Insurance Act (the "Act") and the Canada Pension Plan (the "Plan") respectively.
+[3] By letter dated October 23, 2002, the Minister informed the Appellant and the Payor that it had been determined that the Appellant's engagement with the Payor, during the said period, was insurable and pensionable employment for the reason that the Appellant was employed pursuant to a contract of service.
+[4] The issue before this Court is whether the Appellant was employed under a contract of service, during the referred period, within the meaning of the Act and the Plan or whether she was retained under a contract for services as an independent contractor. This Court has been given guidance to attempt to answer this question by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, where MacGuigan, J., speaking on behalf of the Court, analyzed Canadian, English and American authorities and referred to the four tests of Lord Wright in City of Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161, stated at page 5028 that:
+Taken thus in context, Lord Wright's fourfold test is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+and further at page 5029 he said :
+...I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations," even while the usefulness of the four subordinate criteria is acknowledged.
+[5] The trial judge must weigh all the facts in each situation in order to search for the total relationship of the parties.
+[6] The accepted tests can be summarized as follows: (a) the degree or absence of control exercised by the alleged employer; (b) the ownership of the tools; (c) the chance of profit and risk of loss; and (d) the integration of the work performed as part of the overall business of the alleged employer.
+[7] In this circumstance, it was agreed that the Payor carried out a business which includes the provision of consulting strategy, planning, leadership and governance. The Appellant provided bookkeeping and accounting services on a part-time basis, averaging approximately 30 hours per week and was paid at an hourly rate of $18 on a bi-weekly basis on the submission of an invoice for the hours worked. The work was generally performed at the office of the Payor, using the Payor's equipment. There was no written agreement between the Appellant and the Payor. The Appellant assumed she was an independent contractor and performed her services accordingly.
+[8] The application of the test of control is not easily disclosed as there is no clear control shown. The Court must look at the facts presented, keeping in mind that the control, although not clearly exercised, may be the right of the Payor. The Appellant had flexible hours but the Payor knew when she would be on his premises and approximately how many hours she would be in attendance. A pattern of attendance appeared to develop that indicated the Appellant was at the office of the Payor every other week from Monday to Thursday, depending on how busy the Payor was. There was a meeting on Monday mornings and the Appellant attended, although she was not required to be there. If there was an increase in volume of business because of month or year-end statements, then the Appellant was required to provide further time. It was admitted the Payor could terminate the Appellant at any time. The hourly rate was essentially set by the Payor depending on the norm in the business as a whole. There was no negotiated rate of pay established.
+[9] The work of the Appellant was performed at the office of the Payor using the equipment and office space provided. The Payor knew when the Appellant would be present and structured meetings accordingly so that she could answer accounting questions, if needed. The Payor did not supervise the Appellant directly. The Appellant was qualified to do the work and needed no supervision nor was there any training required other than to be shown the system of accounting that was required.
+[10] There does appear to be some elements of control that the Payor could exercise. In modern businesses, it is difficult to include supervision as a very important element as the worker - or employee - may have skills and expertise that cannot be understood by the Payor/employer but nonetheless the Payor can end the position occupied by the Appellant at any time whether the particular enterprise continued or not.
+[11] The Appellant performed her services at the office of the Payor because it was more convenient for both parties. The computer and its program was there along with letterhead, cheques and other supplies required by the Appellant to perform her work. The Appellant stated she could perform her services in her own home by taking supplies home and installing the Payor's accounting software but she would not be immediately available to answer inquiries of the Payor. An office was provided with the usual furniture and equipment including telephone availability. All of the above would indicate an employer/employee relationship.
+[12] There does not appear to be any evidence of a chance of profit for the Appellant in the entrepreneurial sense. The Appellant worked at an hourly wage and could only increase her income by working more hours. There, likewise, appeared to be no risk of loss. Once again, this would support the existence of a contract of service.
+[13] The integration test is difficult to apply as there is integration to the extent that the services of the Appellant were needed in the business of the Payor. The real question is whether the Appellant was in business for herself or merely a part-time employee of the Payor. The Appellant stated that she ran her own business and in fact was an employee with another organization; that employment was quite minimal and produced little income.
+[14] Having examined the whole relationship between the Appellant and the Payor and giving the proper weight to the aforementioned tests based on the evidence presented, it would appear that the arrangement between the parties was one of employee and employer and that the Appellant was operating under a contract of service. It may be that the parties called their arrangement a contract for services and that the Appellant was to be an independent contractor, but this is not supported by the facts presented. The parties cannot place a name on their relationship for their own convenience that is to be accepted by all others at face value. The relationship must exist, in fact, and supported by clear evidence in that regard.
+[15] The appeals are dismissed and the decisions of the Minister are confirmed.
+Signed at Toronto, Ontario, this 14th day of July 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2003TCC484
+COURT FILE NO.:
+2003-235(EI) and 2003-236(CPP)
+STYLE OF CAUSE:
+Cindy Scott and M.N.R.
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+May 27, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable W.E. MacLatchy, Deputy Judge
+DATE OF JUDGMENT:
+July 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

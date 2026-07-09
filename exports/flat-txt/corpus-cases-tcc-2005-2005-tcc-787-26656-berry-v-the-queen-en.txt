@@ -1,0 +1,128 @@
+Title: Berry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26656/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-787-26656-berry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-09
+
+# Berry v. The Queen
+
+- Citation: 2005 TCC 787
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3598, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-09
+Neutral citation
+2005 TCC 787
+File numbers
+2004-4748(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4748(IT)I
+BETWEEN:
+TREVOR BERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+__________________________________________________________________
+Appeal heard on November 30, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kevin MacGillivray
+Student at Law
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of December, 2005
+"G. Sheridan"
+Sheridan, J.
+Citation: 2005TCC787
+Date:20051209
+Docket: 2004-4748(IT)I
+BETWEEN:
+TREVOR BERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Trevor Berry, is appealing the reassessment of the Minister of National Revenue disallowing his claimed deduction for legal fees. With the exception of subparagraphs (i) and (j), the Appellant accepts the Minister's assumptions as set out in paragraph 14 of the Reply to the Notice of Appeal:
+14. In reassessing tax payable for the 2002 taxation year and in confirming that reassessment, the Minister assumed the following facts:
+a) the Appellant and Suzanne Elizabeth Thomas Hart ("Ms. Hart"), formerly known as Suzanne Elizabeth Berry, were married on September 1, 1984;
+b) the Appellant and Ms. Hart are the parents of Kate E.A. Berry, born November 28, 1987, Thomas D.H. Berry, born April 10, 1990, Jane C.S. Berry, born June 30, 1992 and Ruth V.L. Berry, born April 18, 1995 (collectively, the "Children");
+c) by Order of the Supreme Court of British Columbia dated October 22, 1998:
+i) the Appellant and Ms. Hart shared joint custody and guardianship of the Children, with the primary residence of the Children being with Ms. Hart, and in particular when the Appellant was at sea; and
+ii) among other things, the Appellant was ordered to pay Ms. Hart interim child support respecting the Children in the amount of $1,328.00 per month, payable on the 15th day of each and every month, commencing October 15, 1998;
+d) by Order of the Supreme Court of British Columbia dated November 15, 1999: ("the Order")
+i) the Appellant and Ms. Hart were divorced from each other, the divorce to take effect on the 31st day after the date of this Order; and
+ii) the Appellant was ordered, among other things, to pay Ms. Hart child support respecting the Children in the amount of $1,300.00 per month, payable on the 1st day of each and every month, commencing November 1, 1999;
+e) in May 2002, the Appellant and Ms. Hart each filed Motions in the Supreme Court of British Columbia petitioning the Court to adjust the amount of child support respecting the Children, to their respective advantage;
+f) by Order of the Supreme Court of British Columbia dated June 3, 2002, the Order dated November 15, 1999 was varied, among other things, to vary the child support payments paid to Ms. Hart to $1,576.00 per month, commencing June 1st, 2002 and continuing on the 1st day of each and every month thereafter until the Children are no longer eligible for support by law. Furthermore, the Court Order awarded costs against the Appellant in the amount of $720.00 in favor of Ms. Hart;
+g) on June 14, 2002, the Appellant appealed the Order of the Supreme Court of British Columbia dated June 3, 2002 to the British Columbia Court of Appeal;
+h) in all actions before the Supreme Court of British Columbia and the British Columbia Court of Appeal the Appellant was self-represented;
+i) the Expenditures were not incurred by the Appellant to establish the right to child support nor to enforce the receipt of child support payments but were personal expenses of the Appellant; and
+j) the Expenditures were not incurred by the Appellant to gain or produce income from a business or property.
+[2] At issue is whether the legal expenses of $1,823.03[1] incurred by the Appellant in seeking to vary the Order for child support are deductible.
+[3] There is no dispute between the parties that a child has a pre-existing legal right to support[2]. The Appellant argues that his legal expenses are deductible because they were incurred trying to enforce this right. His position is that where divorced parents have joint custody of their children, the child support ordered should be made available to the children through their parents in proportion to the amount of time[3] the children spend with each parent. It was with this goal in mind that he sought in the British Columbiacourts an Order to apportion between them the amount he had been ordered to pay to his former spouse. Accordingly, he argues that the legal expenses were incurred not to reduce his obligation as payor but rather, to enforce his children's right to child support while in his care. For that reason, they ought to be deductible.
+[4] The Appellant filed as exhibits the Reasons for Judgment of the Supreme Court of British Columbia and the British Columbia Court of Appeal[4]. Both the trial and appellate courts rejected[5] the Appellant's argument that he, as the payor of the child support, had a right of set off against the amount he himself had been ordered to pay. In paragraph 3 of her Reasons for Judgment, Saunders J.A. stated:
+[3] Mr. Berry seeks an order entitling him to withhold some of the Guidelines level support from Ms. Hart on the basis that he, too, incurs significant child support expenses in connection with the children's time with him, and on the basis that the child support is "the right of the child" and should follow the child. These submissions misconceive the scheme of child support which permits a parent receiving table level child support to spend the money as that parent sees fit. The basis for relief from payment of the table amount is established in s. 9 which, not necessarily proportional to the time the child is with the paying parent, must take into account each parent's Guidelines amount, the increased costs of shared custody arrangements, and the conditions, means, needs, and circumstances of each parent. Nevertheless, the submissions bring into issue the degree of exactitude required before a Court is entitled to move from the table amount of child support required by the Guidelines into the discretionary provisions of s. 9.
+[Emphasis added].
+[5] The Crown's position is that regardless of the Appellant's characterization of his application to vary the child support order, he was, in essence, seeking to reduce the amount he was otherwise obliged to pay to his former spouse. Relying on the decision of the Federal Court of Appeal in Nadeau v. Minister of National Revenue[6], the Crown argues that such legal expenses are not incurred for the purpose of gaining income and are, therefore, not deductible:
+16 Thus the courts have consistently held that income from support payments is computed by reference to the regime applicable to income derived from property (or from a business) that is found in subdivision b of the Act. Under this regime, an expenditure incurred in order to constitute a source of income is a payment on account of capital and its deduction is prohibited (see paragraph 18(1)(b)). However, an expenditure incurred in order to earn income from this source (i.e. after it has originated) is referred to as a "current" expense which falls within the exception in paragraph 18(1)(a):
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles:
+...
+[...]
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+17 This regime, as it was applied by the courts over the years, has meant that from the perspective of the recipient, an expenditure, the purpose of which is to give rise to a right to support is a capital expenditure and therefore cannot be deducted. But an expenditure incurred in recovering an amount owing under a pre-existing right is a "current" expense and may therefore be deducted.
+18 Conversely, the expenses incurred by the payer of support (either to prevent it from being established or increased, or to decrease or terminate it) cannot be considered to have been incurred for the purpose of earning income, and the courts have never recognized any right to the deduction of these expenditures (see, for example, Bayer, supra).
+[6] The Appellant argues that Nadeau, is wrong and this Court ought to apply the analysis in Bergeron c. R.[7]to the present case. As explained to the Appellant at the hearing, the Tax Court of Canada is bound by the decisions of the appellate court.
+[7] On the evidence presented, I am satisfied that the Appellant's legal expenses were incurred in proceedings to decrease the amount of child support he was obliged to pay. Such expenditures are not deductible; accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of December, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2005TCC787
+COURT FILE NO.: 2004-4748(IT)I
+STYLE OF CAUSE: Trevor Berry v. H.M.Q.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 30, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: December 9, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kevin MacGillivray
+Student at Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] As itemized in Schedule "A" of the Reply to the Notice of Appeal.
+[2] Richardson v. Richardson [1987] 1 S.C.R. 857.
+[3] Approximately 60% (Ms. Hart) and 40% (Mr. Berry). Thus, had he been successful, the Appellant would have continued to pay a total of $1,300 each month but he would have paid 60% (rather than 100%) of that amount to his former spouse and "paid" (by retaining the balance) 40% to himself.
+[4] Exhibit A-1.
+[5] Exhibit A-1; Tab 4, Reasons for Judgment of the Honourable Madam Justice Saunders, paragraph 27; Tab 2, Oral Reasons for Judgment of the Honourable Madam Justice Stromberg-Stein, paragraph 9.
+[6] [2004] 1 F.C.R. 587.
+[7] [2000] 1 C.T.C. 201.

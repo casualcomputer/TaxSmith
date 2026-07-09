@@ -1,0 +1,262 @@
+Title: Masa Sushi Japanese Restaurant Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301476/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-239-301476-masa-sushi-japanese-restaurant-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-28
+
+# Masa Sushi Japanese Restaurant Inc. c. La Reine
+
+- Citation: 2017 CCI 239
+- Decision date: 2017-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7809, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Masa Sushi Japanese Restaurant Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-28
+Référence neutre
+2017 CCI 239
+Numéro de dossier
+2017-3199(IT)G, 2017-3201(IT)G, 2017-3202(IT)G, 2017-3204(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Contenu de la décision
+Dossier : 2017-3199(IT)G
+ENTRE :
+MASA SUSHI JAPANESE RESTAURANT INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3201(IT)G
+ET ENTRE :
+HAI-GUANG LIU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3202(IT)G
+ET ENTRE :
+KA LEUNG LO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3204(IT)G
+ET ENTRE :
+2075957 ONTARIO INC. (s/n de KATSU JAPANESE RESTAURANT),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 6 novembre 2017, à Toronto (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant des appelantes Masa Sushi Japanese Restaurant Inc. et 2075957 Ontario Inc. (s/n Katsu Japanese Restaurant) :
+Pour l’appelant Hai-Guang Liu :
+Pour l’appelant Ka Leung Lo :
+Dennis Chow
+L’appelant lui‑même
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christopher Kitchen
+ORDONNANCE
+Les requêtes présentées par les appelants pour être représentés par Dennis Chow sont rejetées.
+2075957 Ontario Inc. et Masa Sushi Japanese Restaurant Inc. auront jusqu’au 28 février 2018 pour signifier et déposer un avis indiquant le nom, l’adresse aux fins de signification et le numéro de téléphone de leur avocat.
+Les appelants devront signifier et déposer de nouveaux avis d’appel modifiés conformément aux Règles de la Cour canadienne de l’impôt (procédure générale) au plus tard le 30 avril 2018.
+L’intimée devra signifier et déposer de nouvelles répliques modifiées au plus tard le 29 juin 2018.
+Un mémoire des dépens sera adjugé dans le cadre de cette action pour les quatre requêtes.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2017.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 5e jour d’octobre 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 239
+Date : 20171128
+Dossier : 2017-3199(IT)G
+ENTRE :
+MASA SUSHI JAPANESE RESTAURANT INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3201(IT)G
+ET ENTRE :
+HAI-GUANG LIU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3202(IT)G
+ET ENTRE :
+KA LEUNG LO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3204(IT)G
+ET ENTRE :
+2075957 ONTARIO INC. (s/n de KATSU JAPANESE RESTAURANT),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Les appelants ont déposé des requêtes pour que Dennis Chow les représente. M. Chow n’est pas un avocat. Il est comptable professionnel agréé.
+[2] L’intimée s’oppose à ces requêtes.
+[3] Deux des appelants sont des personnes physiques (les « personnes physiques appelantes »), tandis que les deux autres sont des personnes morales (les « personnes morales appelantes »). Les personnes physiques appelantes sont actionnaires des deux personnes morales appelantes. Selon ce que je comprends après lecture des documents de la requête, Hai‑Guang Liu est administrateur de Masa Sushi Japanese Restaurant Inc., tandis que Ka Leung Lo est administrateur de 2075957 Ontario Inc.
+[4] J’aborderai d’abord les requêtes déposées par les personnes physiques appelantes et je passerai ensuite à celles déposées par les personnes morales appelantes.
+Personnes physiques appelantes
+[5] La règle 30(1) des Règles de la Cour canadienne de l’impôt (procédure générale) prévoit que la partie à une instance qui est une personne physique peut agir en son nom ou se faire représenter par un avocat [1] .
+[6] La règle 30(1) ne donne pas à la Cour le pouvoir discrétionnaire de permettre à un représentant de représenter une personne physique (Moll c. La Reine [2] ). Une personne physique peut agir pour elle‑même ou être représentée par un avocat. Pour cette raison, les requêtes déposées par M. Liu et M. Lo doivent être rejetées. M. Liu et M. Lo sont libres de recourir aux services d’un avocat ou d’agir pour eux‑mêmes.
+Personnes morales appelantes
+[7] La règle 30(2) s’applique dans les cas où l’une des parties n’est pas une personne physique. Il énonce ce qui suit :
+La partie à une instance qui n’est pas une personne physique se fait représenter par un avocat, sauf avec l’autorisation de la Cour et sous réserve des conditions que celle-ci fixe.
+[8] Les requêtes déposées par les personnes morales appelantes soulèvent la question suivante : Qui peut représenter une personne morale en vertu de la règle 30(2)? La réponse n’est pas aussi simple qu’elle peut sembler l’être de prime abord. Pour les motifs qui suivent, je conclus que, en dépit du libellé de la règle 30(2), selon la procédure générale, les personnes morales peuvent uniquement être représentées par un avocat.
+[9] Les Règles ont été créées en application de la Loi sur la Cour canadienne de l’impôt (la « Loi »). Le paragraphe 20(1) de la Loi permet d’établir des règles concernant la pratique et la procédure devant la Cour. Comme c’est le cas des règlements pris en application d’une loi, les Règles n’ont pas préséance sur la Loi [3] . Elles ne peuvent ni interdire ce que la Loi permet ni permettre ce que la Loi interdit. Par conséquent, la Loi doit être le point de départ à toute analyse de la règle 30(2).
+[10] L’article 17.1 porte précisément sur le droit de comparaître devant la Cour en vertu de la procédure générale. Il énonce ce qui suit :
+(1) Les parties à une procédure peuvent comparaître en personne ou être représentées par avocat; dans ce dernier cas, toutefois, seules les personnes visées au paragraphe (2) peuvent agir à titre d’avocat.
+(2) Quiconque peut exercer à titre d’avocat ou de procureur dans une province peut exercer à ce titre à la Cour et en est fonctionnaire judiciaire.
+[Non souligné dans l’original]
+[11] Ainsi, le paragraphe 17.1(1) donne deux choix aux parties. Elles peuvent comparaître en personne ou être représentées par un avocat. Par conséquent, à moins de pouvoir conclure que le paragraphe 17.1(1) permet à une personne morale de comparaître en personne, une personne morale peut uniquement être représentée par un avocat.
+Selon une analyse textuelle, une personne morale ne peut rien faire en personne
+[12] L’expression « en personne » signifie « présent physiquement » [4] . Un être humain peut se présenter physiquement devant la Cour. Une personne morale, qui est une création du droit sans existence corporelle, ne le peut pas.
+[13] Le juge McGillivray de la Cour d’appel de l’Alberta a exprimé cette interprétation textuelle dans ses remarques incidentes dans l’arrêt R. c. Cook [5] :
+[traduction]
+La personne morale, bien qu’il s’agisse d’une entité juridique incluse dans la définition du terme « personne », n’est pas pour autant une personne visible; elle n’existe pas physiquement; elle n’a « aucune anatomie et aucune passion », ce qui signifie, à mon avis, qu’elle est plutôt incapable de faire quoi que ce soit qui doit être fait « en personne ».
+Lorsqu’un représentant ou un procureur agit au nom d’une personne morale, on peut dire qu’il s’agit de l’acte de la personne morale; on ne peut toutefois affirmer que la personne morale a agi « en personne ». C’est le représentant ou le procureur qui agit « en personne » : Wood v. Swann (1880) 25 Sol. J. 134; Holmested, à la p. 326.
+[14] Le raisonnement du juge McGillivray a été adopté par la Cour d’appel du Manitoba, à la majorité, dans l’arrêt 2272539 Manitoba Ltd. v. Manitoba (Liquor Control Commission) [6] .
+Selon l’interprétation traditionnelle de la common law, une personne morale ne peut pas comparaître en personne
+[15] La juge Quigg, qui parlait au nom de la majorité de la Cour d’appel du Nouveau‑Brunswick, dans l’arrêt Trifidus Inc. c. Samgo Innovations Inc., a décrit l’interprétation traditionnelle de la common law ainsi [7] :
+La common law accorde aux particuliers le droit de se représenter eux‑mêmes. L’identité juridique des corporations [NDT : personnes morales] a des caractéristiques communes avec celles des particuliers [NDT : personnes physiques], mais les corporations ont aussi plusieurs privilèges juridiques exclusifs. Les corporations sont considérées comme des [TRADUCTION] « entités ayant, de par la loi, le pouvoir d’agir en qualité de personnes distinctes des actionnaires qui en ont la propriété » (voir Bryan A. Garner, Black’s Law Dictionary, 8e éd. (St. Paul, Minnesota : Thomson, 2004), à « corporation », p. 365). Traditionnellement, les corporations jouissent d’une responsabilité limitée ainsi que de certains avantages fiscaux dont ne jouissent pas les particuliers (voir Pratts Wholesale Ltd. c. Canada, [1998] A.C.I. no 171 (C.C.I.) (QL), au par. 7). v. R., [1998] T.C.J. No. 171 (T.C.C.) at para. 7). Ces avantages sont compensés par d’autres obligations juridiques; l’une d’elles est de devoir être représentées par un avocat dans les procédures judiciaires. Contrairement aux particuliers, qui sont légalement et logiquement capables d’agir en leur propre nom, les corporations doivent inévitablement compter sur une personne mandatée pour les représenter. Même si le mandataire est le directeur et actionnaire unique de la corporation, il continue d’être considéré juridiquement distinct de la corporation et est considéré en conséquence comme un tiers. Si les particuliers n’ont pas le droit d’être représentés par un tiers autre qu’un avocat, il en est de même pour les corporations. […]
+[Non souligné dans l’original]
+[16] La Cour d’appel de la Colombie-Britannique a décrit ainsi l’interprétation traditionnelle de la common law dans l’arrêt Venrose Holdings Ltd. v. Pacific Press Ltd. [8] :
+[traduction]
+[…] On peut affirmer, sans aborder ces affaires en détail, qu’elles montrent qu’en Angleterre, en Irlande, aux États‑Unis et dans certaines provinces du Canada, y compris la Colombie‑Britannique, on a généralement déterminé qu’une personne morale ne peut amorcer une procédure devant la cour supérieure en personne, en tant que partie à cette procédure, en agissant par l’intermédiaire de son dirigeant sans l’intervention d’un procureur, et que son dirigeant ne peut la représenter devant la cour. À cette fin, il doit donc recourir aux services d’un avocat. Même si cette jurisprudence se penche davantage sur la question de la représentation devant la cour que sur le début de la procédure, il semble évident que nul n’a accepté la « personne morale » en tant que personne qui pourrait agir « en personne en tant que partie à une action » en vue d’entamer une procédure. […]
+[17] Vu tout ce qui précède, je conclus que, selon l’interprétation traditionnelle de la common law, une personne morale ne pourrait pas comparaître en personne.
+Selon une analyse contextuelle historique, une personne morale ne peut pas comparaître en personne
+[18] Une analyse contextuelle historique du paragraphe 17.1(1) soutient l’interprétation traditionnelle de la common law. Il y a trois versions de la règle 30(2). Dans la version originale créée au même moment que la Loi, les personnes morales devaient être représentées par un avocat. Elle se lisait ainsi :
+Sauf disposition contraire contenue dans un texte législatif, une personne morale ne peut engager ou continuer une instance que par avocat.
+[Non souligné dans l’original]
+[19] La règle 30(2) a été modifiée en 1993 afin de permettre aux personnes morales d’être représentées par un dirigeant avec l’autorisation de la Cour dans des circonstances spéciales. La version de 1993 indiquait ce qui suit :
+Une personne morale se fait représenter par un avocat dans toute instance devant la Cour, sauf lorsque dans des circonstances spéciales, la Cour autorise la personne morale à se faire représenter par un de ses dirigeants.
+[20] La version actuelle de la règle 30(2) a été mise en œuvre en 2007. Comme il est indiqué ci‑dessus, elle se lit comme suit :
+La partie à une instance qui n’est pas une personne physique se fait représenter par un avocat, sauf avec l’autorisation de la Cour et sous réserve des conditions que celle-ci fixe.
+[21] Les trois versions de la règle 30 ont toutes permis à des personnes physiques de comparaître en personne ou d’être représentées par un avocat, conformément au paragraphe 17.1(1).
+[22] Comme il est indiqué ci‑dessus, les Règles ne peuvent ni interdire ce que la Loi permet ni permettre ce que la Loi interdit. Les règles qui contreviennent à ces conditions sont ultra vires. Selon la façon dont on interprète le paragraphe 17.1(1), chacune des versions de la règle 30(2) a été ultra vires ou seule la version de 1993 et la version actuelle de la règle 30(2) ont été ultra vires.
+[23] Si j’interprète le paragraphe 17.1(1) comme ne permettant aux personnes morales de n’être représentées que par un avocat, la version originale de la règle 30(2) respectait le paragraphe 17.1(1) et était intra vires. Toutefois, la version de 1993 et la version actuelle de la règle 30(2) seraient ultra vires. Cela s’explique par le fait que, dans la version de 1993, un dirigeant pouvait représenter une personne morale, tandis que la version actuelle prévoit qu’une personne approuvée par la Cour peut représenter une personne morale. Ces deux dispositions permettent la représentation d’une manière allant à l’encontre d’une exigence prévue au paragraphe 17.1(1) selon lequel les personnes morales doivent être représentées par un avocat.
+[24] En comparaison, si j’interprète le paragraphe 17.1(1) comme permettant aux personnes morales de comparaître en personne ou d’être représentées par un avocat, les trois versions de la règle 30(2) seraient ultra vires puisqu’elles limiteraient indûment la capacité d’une personne morale à comparaître en personne. Dans la version originale, les personnes morales n’avaient aucunement l’option de comparaître en personne. Dans la version de 1993, il était permis aux personnes morales de comparaître en personne, mais uniquement avec l’autorisation de la Cour et dans des circonstances particulières. De même, la règle 30(2) dans sa version actuelle permet aux personnes morales de comparaître en personne uniquement avec l’autorisation de la Cour et, même dans ce cas, elle les assujettit possiblement à des conditions imposées par la Cour.
+[25] Après examen de l’historique de la règle 30(2), je préfère la première interprétation. Il est important de se rappeler que la Cour a été créée au même moment où les Règles sont entrées en vigueur. Dans ces circonstances, il est beaucoup plus probable que la version originale de la règle 30(2) respectait les limites du paragraphe 17.1(1) plutôt qu’elle ne les enfreignait. Il semble qu’au moment où la modification de 1993 a été apportée, on a oublié qu’il fallait modifier le paragraphe 17.1(1) avant de changer la règle 30(2). Il semble qu’une erreur semblable a également été commise en 2007. Cette interprétation de l’historique de la règle 30(2) semble beaucoup plus probable qu’une interprétation en vertu de laquelle les trois versions de cette règle auraient été ultra vires.
+[26] La Cour suprême du Canada a clairement indiqué qu’il convient de favoriser une méthode d’interprétation qui concilie le règlement avec sa loi habilitante de sorte que, dans la mesure du possible, le règlement puisse être interprété d’une manière qui le rend intra vires [9] . L’interprétation du paragraphe 17.1(1) qui respecte la position traditionnelle de la common law est celle qui fait le moins de dommages à cet égard, puisqu’elle rend, à tout le moins, la version originale de la règle 30(2) intra vires. Je n’arrive pas à imaginer une interprétation du paragraphe 17.1(1) qui permettrait aux trois versions de la règle 30(2) d’être intra vires.
+[27] Vu tout ce qui précède, je conclus qu’une analyse contextuelle historique du paragraphe 17.1(1) soutient la thèse selon laquelle les personnes morales ne peuvent comparaître en personne.
+Il est possible d’invoquer des arguments téléologiques en faveur de l’une ou l’autre des interprétations
+[28] De solides raisons en matière de politique expliquent pourquoi le législateur aurait voulu que les personnes morales soient en mesure de comparaître en personne. Le fait de permettre aux personnes morales de comparaître en personne accroît l’accès à la justice. C’est particulièrement le cas pour les personnes morales qui sont des petites sociétés fermées qui ne pourraient pas autrement se payer les services d’un avocat et pour les personnes morales engagées dans un litige portant sur un montant inférieur à celui qu’elles dépenseraient en frais d’avocat.
+[29] Toutefois, de solides raisons en matière de politique expliquent aussi pourquoi le législateur aurait voulu forcer les personnes morales à être représentées par un avocat. Le fait d’exiger des personnes morales qu’elles recourent aux services d’un avocat accroît l’efficacité du système judiciaire. Le gouvernement économise ainsi de l’argent, en tant que plaideur et qu’entité qui paye les coûts de fonctionnement du système. En exigeant des personnes morales qu’elles recourent aux services d’un avocat, on augmente aussi les coûts des litiges pour les personnes morales, ce qui signifie que les appels dont les chances de réussite sont minces seront probablement réglés ou ne seront jamais entamés. Le gouvernement économise ainsi de l’argent, tout en étant en mesure de percevoir des recettes fiscales plus rapidement et avec une opposition moindre.
+[30] Même si, dans le contexte actuel, l’accès à la justice devant tous les tribunaux peut être considéré comme plus important que l’efficacité, on ne peut toutefois dire que tel était nécessairement le cas au moment où la Loi et les Règles ont été établies. Qui plus est, l’accès à la justice profite aux contribuables, tandis que l’efficacité accrue et l’abandon des appels dont les chances de réussite sont minces profitent au gouvernement. Ainsi, même si l’accès à la justice était le but le plus louable sur le plan social, le législateur pourrait néanmoins avoir choisi de rédiger la Loi et les Règles à son propre avantage.
+[31] Vu tout ce qui précède, une analyse téléologique permet difficilement de s’orienter.
+L’utilisation du verbe « peut » ne permet pas la comparution par l’intermédiaire d’un représentant
+[32] Une partie peut comparaître devant la cour de trois façons seulement : en personne, par l’intermédiaire d’un avocat ou par l’intermédiaire d’un représentant.
+[33] Comme il est indiqué ci‑dessus, le paragraphe 17.1(1) indique que les parties à une procédure « peuvent comparaître en personne ou être représentées par avocat ». Je suis d’avis que l’utilisation du verbe permissif « peuvent » n’indique pas que la personne morale peut aussi choisir à sa guise d’être représentée par un représentant.
+[34] On peut comparer le paragraphe 17.1(1) et le paragraphe 18.14 de la Loi. L’article 18.14 porte sur la procédure informelle. Il se lit comme suit :
+Les parties à un appel visé à l’article 18 peuvent comparaître en personne ou être représentées par avocat ou par un autre représentant.
+[Non souligné dans l’original]
+[35] Le verbe permissif « peuvent » est utilisé au paragraphe 17.1(1) et à l’article 18.14. L’article 18.14 dresse toutefois la liste de tous les moyens possibles par lesquels les parties peuvent comparaître, tandis que le paragraphe 17.1(1) n’indique que deux de ces moyens. Cela sous‑entend que le verbe « peuvent » sert à transmettre l’idée que, même si les parties ont un choix, ce choix se limite aux options présentées dans l’article ou le paragraphe pertinent. Il ne serait pas logique d’interpréter le verbe « peuvent » comme signifiant que les parties peuvent choisir parmi les options présentées ou choisir une option qui n’est pas offerte. La différence entre le paragraphe 17.1(1) et l’article 18.14 perdrait tout son sens, sans compter qu’il y aurait violation de la présomption contre la tautologie. Si le paragraphe 17.1(1) permettait à un contribuable d’être représenté par un représentant, même s’il n’était aucunement question de la représentation par un représentant dans ce paragraphe, l’expression « ou par un autre représentant » à l’article 18.14 perdrait son sens.
+Le pouvoir implicite de la Cour de faire respecter sa procédure ne lui permet pas d’autoriser une personne morale à comparaître en personne ou par l’intermédiaire d’un représentant
+[36] On recense un certain nombre de cas où les cours d’appel provinciales ont reconnu la compétence inhérente de contrôler le « droit de plaider » devant elles [10] . Cette compétence inhérente a été utilisée afin de permettre aux dirigeants de représenter des personnes morales lorsqu’ils n’ont autrement aucun droit de le faire.
+[37] La Cour canadienne de l’impôt est une cour créée par la loi. Elle n’a pas de compétence inhérente. Elle a le pouvoir implicite de faire respecter sa procédure [11] . Si je conclus que le paragraphe 17.1(1) ne permet pas aux personnes morales de comparaître en personne, je ne peux recourir au pouvoir implicite de la Cour pour permettre néanmoins une telle comparution. On ne peut recourir au pouvoir implicite de la Cour afin de permettre une représentation d’une façon que la Loi interdit précisément [12] .
+Les Règles des Cours fédérales ne me sont d’aucune aide
+[38] Même si la Cour fédérale a elle aussi été créée par la loi, il ne sert à rien d’examiner les Règles des Cours fédérales. L’article 120 des Règles des Cours fédérales permet à une personne morale d’être représentée par un dirigeant avec l’autorisation de la Cour dans des circonstances particulières. La Loi sur les Cours fédérales ne prévoit toutefois pas une disposition équivalente à celle qui se trouve au paragraphe 17.1(1). Ainsi, les règles qu’il est possible d’établir pour traiter la représentation d’une personne morale devant la Cour fédérale ne sont pas limitées et le fait qu’il soit permis à des dirigeants de représenter des personnes morales devant la Cour fédérale ne révèle rien.
+Les décisions rendues par d’autres cours ne me sont d’aucune aide
+[39] Les cours supérieures et les cours d’appel provinciales ont eu à se prononcer, au fil du temps, sur l’interprétation traditionnelle de la common law selon laquelle les personnes morales ne peuvent comparaître en personne à la lumière des règles de leur cour respective et des lois provinciales régissant les services juridiques. Sans surprise, différentes règles et différentes lois ont donné lieu à des résultats différents dans des provinces différentes. La Cour d’appel de l’Alberta empêche depuis fort longtemps quiconque sauf des avocats de représenter des entreprises [13] . La Cour suprême de Terre‑Neuve, Cour d’appel, a tiré une conclusion semblable dans l’arrêt Aylward’s Ltd. v. St. Lawrence (Town) [14] . En comparaison, après avoir énoncé la position traditionnelle de la common law, la Cour d’appel de la Colombie‑Britannique, dans l’arrêt Venrose, s’est ensuite penchée sur les dispositions provinciales pertinentes et a conclu que le dirigeant d’une personne morale pouvait amorcer un litige et représenter une personne morale devant la cour. De même, dans l’arrêt Trifidus, la majorité a conclu que les dispositions pertinentes du Nouveau‑Brunswick permettaient à un dirigeant de représenter une personne morale. Toutefois, dans l’arrêt 2272539 Manitoba, la majorité était précisément en désaccord avec l’arrêt Venrose [15] , tout comme le juge en chef Goodridge dans l’arrêt Aylward’s [16] .
+[40] Aucune de ces décisions ne m’aide à interpréter le paragraphe 17.1(1). Elles portent toutes sur des règles et des lois qui ne m’ont pas été présentées. Ces décisions ont en outre été rendues dans un contexte différent – où le gouvernement n’est pas l’intimé dans tous les appels. Par conséquent, les objectifs concurrentiels d’efficacité et d’accès à la justice auraient pu jouer des rôles différents en matière d’interprétation. Enfin, les décisions où l’on conclut qu’une personne morale peut comparaître en personne se fondent, en partie à tout le moins, sur la compétence inhérente de la cour en question. Comme je l’ai indiqué ci‑dessus, je ne peux pas recourir au pouvoir implicite de la Cour canadienne de l’impôt de faire respecter sa procédure afin de passer outre la loi elle-même qui lui confère ce pouvoir.
+Les décisions antérieures de la Cour ne me sont d’aucune aide
+[41] La liste des décisions antérieures de la Cour qui appliquent la règle 30(2) de façon à permettre à des dirigeants, à des administrateurs et même à des actionnaires de représenter une personne morale dans un appel régi par la procédure générale est longue. Il semble que le conflit avec le paragraphe 17.1(1) n’a malheureusement jamais été porté à l’attention de la Cour dans aucun de ces cas. Ainsi, aucune de ces affaires ne m’aide à interpréter le paragraphe 17.1(1).
+Conclusion
+[42] Vu tout ce qui précède, je conclus que le paragraphe 17.1(1) ne permet pas à une personne morale de comparaître en personne. Dans la procédure générale, la seule option offerte à une personne morale est d’être représentée par un avocat. Par conséquent, d’ici l’abrogation ou la modification du paragraphe 17.1(1), il convient de lire ainsi la règle 30(2) :
+[traduction]
+La partie à une instance qui n’est pas une personne physique se fait représenter par un avocat.
+[43] Cette lecture simplifiée s’applique uniquement aux personnes morales. La règle 30(2) s’applique à toutes les parties qui ne sont pas des personnes physiques. En vertu de la Loi sur la taxe d’accise, des sociétés de personnes peuvent à la fois faire l’objet de cotisation et interjeter appel devant la Cour. Une société de personnes, étant donné qu’elle n’est pas une personne physique, est donc assujettie à la règle 30(2). Le paragraphe 17.1(1) permet aux parties de comparaître en personne ou d’être représentées par un avocat. Il est évident qu’une société de personnes qui interjette appel en vertu de la Loi sur la taxe d’accise peut être représentée par un avocat. Je n’ai pas à me demander si cette société de personnes peut aussi comparaître en personne et je refuse donc de le faire. Je n’ai pas non plus à me demander s’il y a d’autres parties possibles, qui ne sont ni des personnes morales, ni des personnes physiques, ni des sociétés de personnes, et je refuse de le faire.
+Conclusion subsidiaire
+[44] Si je suis dans l’erreur et que les personnes morales peuvent comparaître en personne, je conclus que la règle 30(2) est ultra vires, parce qu’elle exige des personnes morales qu’elles obtiennent une autorisation de la Cour et qu’elles soient possiblement assujetties à des conditions afin de comparaître en personne. Je ne vois pas comment il serait possible d’interpréter de façon étroite la règle 30(2) au point d’éliminer ces restrictions; j’interpréterais donc simplement la règle 30(2) de façon à faire abstraction de la partie qui porte sur les personnes morales. Il serait permis aux personnes morales de comparaître en personne sans obtenir l’autorisation de le faire.
+[45] Je n’ai pas à déterminer si une personne morale qui comparaît en personne le fait par l’intermédiaire d’un dirigeant, d’un administrateur ou d’un actionnaire; je refuse donc de le faire. Je refuse aussi de déterminer la façon dont la Cour, dans le cas d’intérêts contradictoires en matière de représentation, devrait désigner le candidat potentiel qui serait celui qui effectue la comparution en personne.
+[46] Pour les motifs présentés ci‑dessus, je refuse aussi de déterminer si la règle 30(2) s’applique aux sociétés de personnes qui interjettent appel en vertu de la Loi sur la taxe d’accise ou à toute autre partie qui n’est ni une personne physique ni une personne morale.
+Application aux personnes morales appelantes
+[47] Les requêtes déposées par les personnes morales appelantes sont rejetées. M. Chow n’est pas un avocat. En vertu du paragraphe 17.1(1), il est interdit à quiconque, hormis un avocat, de représenter une personne morale sous le régime de la procédure générale.
+[48] À titre subsidiaire, si je suis dans l’erreur et que les personnes morales peuvent comparaître en personne, je rejetterais tout de même les requêtes déposées par les personnes morales appelantes. M. Chow n’est pas un dirigeant, un administrateur ou un actionnaire de l’une ou l’autre des personnes morales appelantes. Je ne connais aucune interprétation du paragraphe 17.1(1) qui indique qu’une personne morale pourrait comparaître en personne par l’intermédiaire de son comptable externe.
+[49] À titre d’argument subsidiaire supplémentaire, si je suis tenu, en vertu d’une interprétation quelconque de l’article 17.1(1) que je n’ai pas examinée, d’appliquer la loi sous sa forme actuelle, je rejetterais tout de même les requêtes déposées par les personnes morales appelantes. Je n’accorderais que peu de poids, voire aucun poids, aux observations des personnes morales appelantes selon lesquelles M. Chow est un comptable fiscal expérimenté qui possède des années d’expérience, qui comparaît régulièrement devant la Cour dans le cadre de questions de procédure informelle et qui est engagé dans le litige des personnes morales appelantes depuis l’étape de la vérification. Il s’agit de motifs visant à garder M. Chow engagé dans la toile de fond du litige; il ne s’agit pas de raisons justifiant son droit d’agir à titre d’équivalent moins coûteux qu’un avocat. De même, je n’accorderais que peu de poids, voire aucun poids, au fait que M. Chow parle couramment l’anglais et le cantonais, tandis que M. Liu et M. Lo ne parlent que le cantonais. Le fait que M. Liu et M. Lo soient incapables de communiquer en anglais sans l’aide d’un traducteur n’est pas un motif pour permettre aux personnes morales appelantes d’être représentées par leur comptable externe. Il s’agit d’une raison pour laquelle les personnes morales appelantes pourraient vouloir recourir aux services d’un avocat qui parle le cantonais ou qui a accès à des services d’interprétation en cantonais. Les personnes morales appelantes allèguent qu’elles n’ont pas les moyens de recourir aux services d’un avocat. En vertu de la loi actuelle, la Cour est divisée sur la pertinence de ce facteur. Sans trancher ce point, je soulignerais que les personnes morales appelantes n’ont pas déposé des éléments de preuve suffisants de leur situation financière pour que ce facteur penche en leur faveur. En particulier, elles n’ont pas expliqué pourquoi elles ont les moyens de payer M. Chow, mais pas un avocat. En fin de compte, l’absence de lien entre M. Chow et les personnes morales appelantes constitue mon principal motif de rejet des requêtes déposées par celles‑ci. Comme le juge Jorré l’a indiqué récemment dans la décision WJZ Enterprises c. La Reine [17] :
+[…]La règle n’exige plus que la personne soit membre de la direction de la société [NDT : personne morale], mais, normalement, elle devrait occuper un poste de dirigeant ou d’administrateur et, si possible, être un actionnaire important ou un employé clé de la société. Je m’empresse d’ajouter qu’une requête au titre du paragraphe 30(2) ne peut être utilisée comme un moyen détourné de retenir les services d’un représentant qui n’est pas un avocat.
+[Non souligné dans l’original]
+Nomination d’un avocat
+[50] Les personnes morales appelantes ont demandé qu’on leur donne trois mois pour retenir les services d’un avocat si je rejetais leurs requêtes. L’intimée a accepté cette demande. Par conséquent, au plus tard le 28 février 2018, les personnes morales appelantes devront signifier et déposer un avis indiquant le nom, l’adresse aux fins de signification et le numéro de téléphone de leur avocat.
+Plaidoiries modifiées
+[51] Les avis d’appel déposés dans les appels en l’espèce ne présentent pas vraiment de détails. À l’audience sur les requêtes, les appelants ont accepté de déposer de nouveaux avis d’appel modifiés conformes aux Règles. Les parties se sont entendues pour que les appelants disposent de deux mois après l’échéance susmentionnée pour le faire. Par conséquent, les appelants auront jusqu’au 30 avril 2018 pour signifier et déposer de nouveaux avis d’appel modifiés conformes aux Règles.
+[52] Les parties se sont entendues sur le fait que l’intimée disposera de deux mois supplémentaires pour déposer de nouvelles répliques modifiées. Par conséquent, l’intimée aura jusqu’au 29 juin 2018 pour signifier et déposer de nouvelles répliques modifiées.
+Dépens
+[53] Même si les personnes physiques appelantes n’avaient aucun espoir de voir leurs requêtes être accueillies, je n’ai passé que très peu de temps à les aborder. La majeure partie du temps a été consacrée aux requêtes déposées par les personnes morales appelantes. L’issue de ces requêtes n’était pas liée aux thèses adoptées par l’une ou l’autre des parties. Vu l’état antérieur du droit, aucune des parties ne pouvait raisonnablement avoir prévu la conclusion que j’ai tirée. Dans ces circonstances, je crois qu’un seul mémoire des dépens devrait être adjugé pour les quatre requêtes et que ces dépens devraient suivre l’issue de la cause.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2017.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 5e jour d’octobre 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 239
+NOS DES DOSSIERS DE LA COUR :
+2017-3199(IT)G 2017-3201(IT)G 2017-3202(IT)G 2017-3204(IT)G
+INTITULÉS :
+MASA SUSHI JAPANESE RESTAURANT INC., HAI-GUANG LIU, KA LEUNG LO, 2075957 ONTARIO INC. (s/n KATSU JAPANESE RESTAURANT) c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 novembre 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 28 novembre 2017
+COMPARUTIONS :
+Représentant des appelantes Masa Sushi Japanese Restaurant Inc. et 2075957 Ontario Inc. (s/n Katsu Japanese Restaurant) :
+Pour l’appelant Hai-Guang Liu :
+Pour l’appelant Ka Leung Lo :
+Dennis Chow
+L’appelant lui‑même
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Christopher Kitchen
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Je suis conscient que la façon appropriée de renvoyer à une règle est « paragraphe 30(1) » et non « règle 30(1) ». J’ai choisi d’utiliser l’expression « règle 30(1) » dans les présents motifs afin de permettre au lecteur de faire plus facilement la différence entre les références aux Règles et celles aux articles de la Loi sur la Cour canadienne de l’impôt.
+[2] 2011 CCI 432.
+[3] Friends of the Oldman River Society c. Canada (Ministre des Transports), [1992] 1 R.C.S. 3, 1992 CarswellNat 1313, au paragraphe 50.
+[4] Canadian Oxford Dictionary, 2e éd., sub verbo « person ».
+[5] 1931 CarswellAlta 59 (CA de l’Alb.), aux paragraphes 25 et 26.
+[6] 1996 CarswellMan 402 (CA du Man.), au paragraphe 10.
+[7] 2011 NBCA 59, au paragraphe 20.
+[8] 1978 CarswellBC 129, au paragraphe 10.
+[9] Katz Group Canada Inc. c. Ontario (Santé et Soins de longue durée), 2013 CSC 64, au paragraphe 25.
+[10] Voir, par exemple : Great West Life Assurance Co. v. Royal Anne Hotel Co., 1986 CarswellBC 246 (CACB), aux paragraphes 4 à 8; Re Mondello, 1983 CarswellOnt 3892 (CA Ont); et Fast Trac Bobcat & Excavating Service v. Riverfront Corporate Centre Ltd., 2004 BCCA 279.
+[11] R. c. Cunningham, 2010 CSC 10, au paragraphe 19.
+[12] Dans la décision Shannon c. La Reine, 2016 CCI 255, j’ai recouru au pouvoir de la Cour de faire respecter sa procédure afin d’empêcher M. Shannon de comparaître sans autorisation en tant que représentant dans tout appel régi par la procédure informelle. Cet exercice rare du pouvoir de la Cour de faire respecter sa procédure est très différent du recours à la compétence inhérente vu dans les décisions indiquées précédemment. L’article 18.14 permet précisément aux appelants dans le cadre de la procédure informelle d’être représentés par des représentants. Le pouvoir de la Cour de faire respecter sa procédure ne me permettrait pas de retirer ce droit à tous les appelants, voire à un appelant en particulier. On ne peut exercer ce pouvoir afin de passer outre la Loi. Dans la décision Shannon, j’ai tout simplement exclu M. Shannon de la liste autrement infinie de personnes à qui les appelants peuvent demander d’agir en tant que leur représentant. Tout appelant qui aurait autrement recouru aux services de M. Shannon serait demeuré libre d’être représenté par un représentant différent.
+[13] Voir, par exemple, l’arrêt Park Avenue Flooring Inc. v. EllisDon Construction Services Inc., 2016 ABCA 211.
+[14] 1987 CarswellNfld 41.
+[15] Au paragraphe 9.
+[16] Aux paragraphes 33 à 36.
+[17] 2017 CCI 57, au paragraphe 5.

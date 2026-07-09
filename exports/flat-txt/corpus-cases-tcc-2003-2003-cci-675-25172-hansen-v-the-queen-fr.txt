@@ -1,0 +1,63 @@
+Title: Hansen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25172/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-675-25172-hansen-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-09-17
+
+# Hansen v. The Queen
+
+- Citation: 2003 CCI 675
+- Decision date: 2003-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2552, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hansen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-17
+Référence neutre
+2003 CCI 675
+Numéro de dossier
+2003-477(IT)I
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI675
+Date : 20030917
+Dossier : 2003-477(IT)I
+ENTRE :
+MICHAEL FRANCO HANSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Vancouver (Colombie-Britannique)
+le lundi 14 juillet 2003.)
+Le juge Bell
+[1] Cela n'a pas été facile, mais j'examine ces quatre critères parce que nous devons examiner quelque chose. J'ai également le sentiment que la nature générale de la relation est teintée par le fait que vous, M. Hansen, travailliez pour et avec une entreprise qui était contrôlée par votre mère. Maintenant, si nous examinons le critère des instruments, ma réaction et ma conclusion indiquent qu'il s'agit d'un critère neutre. Il y avait des choses dans le bureau que vous avez utilisées. Vous aviez également des choses à la maison que vous avez utilisées, alors je ne tirerai aucune conclusion en faveur de l'une des parties sur ce point.
+[2] La chance de profit n'est pas un point solide en faveur de l'intimée. Comme Me Caux l'a déclaré, ce n'est pas un coup de tonnerre. Je crois que le témoignage de M. Hansen est bien fondé, soit que s'il travaillait plus dur et qu'il amenait plus de clients, il aurait plus de revenus. Le commentaire de Me Caux sur ce point précisait que le revenu provenait d'Inc., et non de vos efforts, ou indirectement de vos efforts parce qu'Inc. vous paierait plus pour ce qui se produisait. De plus, je n'écarte pas le fait que votre contrat précisait que cela réduirait ou neutraliserait le montant du loyer que vous deviez payer pour l'utilisation de locaux à bureaux, etc.
+[3] Risque de perte - Je souscris certainement à l'argument de Me Caux au nom de l'intimée. Vous aviez des frais fixes, M. Hansen. Ils n'étaient pas nécessaires. L'arrangement ne vous obligeait pas à avoir un bureau à domicile, etc. Je crois qu'il vous serait difficile d'affirmer que vous aviez une perte si vous receviez ces taux horaires et si vous n'aviez pas ces autres frais que vous appelez vos frais fixes. C'était volontaire de votre part, et il était possible que vous rencontriez ce problème. Nous n'avons pas de preuve indiquant que vous en avez subi au cours de ces années. Il y a également la question de l'indemnité au titre des frais d'essence et celle de l'indemnité et des primes, qui n'existeraient probablement pas dans le cadre d'une relation sans lien de dépendance.
+[4] Vous souhaitiez faire du contrat un contrat conclu avec un entrepreneur indépendant en l'appelant de cette façon. Vous n'avez pas utilisé les mots « contrat conclu avec un entrepreneur indépendant » , mais vous avez dit [TRADUCTION] « Michael souhaite et peut fournir des services contractuels » . Je crois qu'il s'agit d'un arrangement que vous souhaitiez, en préparant cet accord, pour donner l'impression qu'en fin de compte il s'agissait d'un arrangement contractuel conclu avec un entrepreneur indépendant et que d'autres obligations, l'entreprise et la relation employeur-employé n'en découlent pas.
+[5] La question « à qui appartient l'entreprise? » était le point le plus déterminant parce que, comme je viens de le déclarer, et je le fais de nouveau, vous étiez payé à partir des profits d'Inc. et non à partir des vôtres, et cela détermine votre statut. Même pour les personnes que vous ameniez comme clients, les factures leur étaient envoyées par Inc. et vous étiez payé par Inc., même si c'était selon un taux horaire. On peut supposer que cela a augmenté en raison du nombre de clients que vous avez attirés.
+[6] Je souligne les commentaires de Me Caux selon lesquels vous n'avez pas vraiment pu dire à la Cour à quel moment votre entreprise a démarré, ne pouvant indiquer à quel moment vous êtes devenu, selon vous, un entrepreneur indépendant. Il se peut que cela n'ait pas été un événement capital, mais je crois que vous l'auriez réalisé. L'accord est daté du 3 janvier 1998. Je ne suggère pas qu'il n'a pas été conclu à cette date. Cependant, si vous aviez pu dire [TRADUCTION] « voici l'accord en réponse à votre question Me Caux » , vous auriez indiqué qu'il avait été conclu au début de 1998. Je n'ai pas entendu cette réponse lors de votre témoignage. Et oui, différents services dans les bureaux étaient à votre disposition. J'ai également été impressionné par la déclaration de Me Caux selon laquelle un service de tenue de livres sans un cabinet à service complet n'est pas une chose que la plupart des gens aiment.
+[7] Je n'aime pas avoir à prendre ces décisions lorsque les causes sont serrées, mais j'ai tendance à considérer que les circonstances laissent davantage croire que l'on est en présence d'une relation employeur-employé plutôt que d'une relation avec un entrepreneur indépendant, alors vous n'avez pas gain de cause pour ce motif.
+[8] Par ailleurs, pour ce qui est des dépenses d'emploi, je souscris aux observations de Me Caux selon lesquelles, en vertu de la Loi sous sa forme actuelle, vous ne pouvez pas réclamer les dépenses. Vous ne pouvez produire une déclaration accompagnée d'un formulaire que vous deviez produire avec votre déclaration de revenus pour l'une ou l'autre de ces années. Vous n'aviez pas normalement à remplir des fonctions à l'extérieur de votre domicile. Vous n'aviez pas normalement à défrayer vos propres dépenses, etc. De plus, vous ne remplissez pas les conditions établies au paragraphe 8(13) touchant les frais de bureau à domicile, la « partie d'établissement domestique autonome » ( « work space » dans la version anglaise comme le définit la Loi, à propos de ce que nous venons d'entendre.
+[9] Ainsi, en résumé, vous avez tout à fait le droit de venir ici et de présenter votre cause, et vous l'avez très bien fait dans les circonstances, mais je ne suis pas persuadé que vous devriez obtenir gain de cause. L'appel sera rejeté et vous recevrez un avis du rejet de la Cour.
+[10] Aucun dépens ne sera accordé en l'espèce.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Liette Girard, traductrice

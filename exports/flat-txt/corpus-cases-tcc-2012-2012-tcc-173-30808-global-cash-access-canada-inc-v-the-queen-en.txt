@@ -1,0 +1,347 @@
+Title: Global Cash Access (Canada) Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30808/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-173-30808-global-cash-access-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-18
+
+# Global Cash Access (Canada) Inc. v. The Queen
+
+- Citation: 2012 TCC 173
+- Decision date: 2012-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7551, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Global Cash Access (Canada) Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-18
+Neutral citation
+2012 TCC 173
+File numbers
+2008-922(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-922(GST)G
+BETWEEN:
+GLOBAL CASH ACCESS (CANADA) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 28 - 30, December 6 and 8, 2011
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Dalton J. Albrecht
+David W. Chodikoff
+Rahul Sharma
+David Carter (student-at-law)
+Counsel for the Respondent:
+Marilyn Vardy
+Annie Paré
+Sharon Lee
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that 25 percent of the goods and services tax paid by the appellant in respect of fees paid to casinos in Windsor and Niagara Falls was paid in error. The respondent is entitled to its costs.
+Signed at Toronto, Ontario this 18th day of May 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 173
+Date: 20120518
+Docket: 2008-922(GST)G
+BETWEEN:
+GLOBAL CASH ACCESS (CANADA) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction
+[1] Global Cash Access (Canada) Inc. (“Global”) provides a service to patrons of casinos whereby they are able to use VISA or Mastercard credit cards to obtain cash for gaming purposes. The service is called a “cash access service” or a “quasi-cash transaction.”
+[2] Patrons pay a fee to Global for the service (“Global Fee”). Global in turn pays a fee to the casinos for facilitating the service (“Casino Fee”).
+[3] This is an appeal under the Excise Tax Act regarding goods and services tax (GST) on Casino Fees. The question is whether the fees are consideration for an exempt financial service provided by the casinos.
+[4] The aggregate amount of GST in dispute, $2,155,507.85, relates to transactions undertaken in the period from 1996 to 2004, inclusive, at casinos in two Ontario cities, Windsor and Niagara Falls.
+[5] The casinos will be referred to as “Casino Niagara” and “Casino Windsor,” and collectively, the “Casinos.” For simplicity, the same terms will be used to describe the Ontario Casino Corporation, which is the entity that operates the casinos.
+[6] The appeal concerns an assessment issued to Global, but the Minister originally assessed the Casinos on the basis that they should have collected GST from Global. The Casinos paid the assessments and were reimbursed by Global.
+[7] Global then filed a rebate application on the ground that the GST was paid in error. In response, the Minister issued an assessment to Global which denied the rebate application. It is this assessment that is at issue in this appeal.
+[8] I assume that Global would be indifferent to the assessment if it were entitled to input tax credits. However, the cash access service that Global provides is a financial service, which does not enable Global to qualify for input tax credits.
+II. Background facts
+[9] At the hearing, testimony on behalf of Global was provided by Darren Simmons, Senior Vice President of International Development for Global’s parent corporation, and Christopher Vavricka, a business consultant who has an extensive background in credit card operations. The respondent called two employees of the Casinos: Victoria Vasiladis, Cashier Manager at Casino Windsor, and Greg Yott, Director of Cage and Coin at Casino Niagara.
+A. Description of Global’s business
+[10] Global is a Canadian subsidiary of a United States corporation which is a leading provider of cash access services in casinos in North America.
+[11] As a result of corporate acquisitions involving Global’s parent, Global’s corporate name was changed twice during the period at issue. Some of the exhibits reflect the earlier names, Cashcall Systems Inc. and First Data Financial Services Canada Inc.
+[12] As mentioned earlier, Global’s business enables patrons of the Casinos to use their credit cards to obtain cash. Global deals with VISA and Mastercard credit card associations and has merchant status under the rules of these associations. As a merchant, Global “sells” cheques to the patrons which are then exchanged for cash. Patrons can acquire cash up to the purchase limit on their cards, which is typically much higher than the amount available on a cash advance obtained through an ATM.
+[13] From the standpoint of the patrons, the transaction is similar to a typical credit card transaction used to purchase goods, except that a fee is charged. The process is highly automated and approvals from the card issuing banks are obtained quickly.
+[14] From the standpoint of the card issuing banks, the transactions are subject to more scrutiny than a typical credit card transaction. Global is able to satisfy the banks’ requirements through a combination of sophisticated technology, a relatively large infrastructure, and a multitude of business relationships.
+[15] Global has agreements with the Casinos which enables it to maintain equipment at the Casinos’ premises and to obtain the assistance of the Casino staff. Global’s own employees are at the Casinos’ premises only occasionally, for example, to take care of Global’s equipment and to train the Casino staff in the transaction procedures.
+[16] In a typical case, a transaction is initiated at one of several unmanned kiosks belonging to Global which are placed on the floor of the Casino. Each kiosk contains a small point of sale device to read a patron’s credit card, which is similar in appearance to any credit card reader at retail establishments. The kiosk also contains a telephone handset belonging to Global that links directly to Global’s offsite staff. The signs at the kiosks advertise “VISA” or “Mastercard.”
+[17] The first step requires the patron to swipe a credit card in the point of sale device. Through a series of prompts on the device, the patron requests an amount of cash and approves the Global Fee. The card issuing bank then has the option to approve or deny the request. The bank may also speak to the patron through Global’s dedicated telephone at the kiosk.
+[18] If the transaction is approved, the patron is directed to go to one of the Casinos’ cashier cages to complete the transaction. The cashier cages are used for many of the financial transactions undertaken by the Casinos, such as foreign exchange and cashing of gaming chips.
+[19] As an alternative to the kiosk, a patron may initiate a transaction at a cashier cage directly. It was explained that regular users of the service may skip the kiosk and go straight to the cashiers.
+[20] The Casinos have the right to limit the number of kiosks on the floor, and the right to dictate where they are located. On one occasion, Casino Niagara ordered the kiosks to be removed so that patrons had to initiate transactions at the cashier cages.
+[21] The cashier cages also have equipment belonging to Global. It consists of another terminal similar to the one at the kiosks, a printer, and stocks of cheque forms.
+[22] Once a transaction is approved by the card issuing bank, a cashier is required to follow specific transaction procedures such as obtaining verification information and written approval for the transaction from the patron. The transaction procedures also include printing a cheque payable by Global to the Casino. Once the transaction procedures are complete, the cashier negotiates the cheque and provides cash (or gaming chips) to the patron. The cheques are subsequently deposited by the Casinos into their bank accounts.
+[23] Settlement of the transaction takes place a few days later. In general, the card issuing bank remits to Global the amount of the cash advance and the associated Global Fee. Global then settles the cheque deposited by the Casino. The Casino Fee is paid by Global separately within a few weeks.
+[24] By undertaking the transaction, the patron has effectively received a cash advance from its card issuing bank. The advance reflects the cash received by the patron and the Global Fee.
+[25] The Global Fee is relatively large. A patron will pay approximately $17 for a $100 transaction. The aggregate Casino Fees are approximately 50 percent of the aggregate Global Fees.
+[26] The transactions involve some financial risk to the Casinos. In addition to the risk of Global’s insolvency, the Casinos are at risk if they do not follow the proper transaction procedures or if they neglect to deposit all of the cheques into their bank accounts. If a credit card transaction is reversed due to a dispute with a patron, the Casinos could bear the loss if a cashier has failed to strictly follow the transaction procedures. The actual losses incurred by the Casinos were very small.
+B. Agreements between Global and the Casinos
+[27] Global’s arrangements with the Casinos are governed by written agreements. Four main agreements are at issue in this appeal: two agreements with Casino Windsor effective in 1995 and 1999, and two agreements with Casino Niagara effective in 1996 and 2000.
+(1) Agreements made in 1995, 1996 and 1999
+[28] The two agreements made with Casino Windsor and the 1996 agreement with Casino Niagara are very similar. Below are some of the key terms from the 1996 Casino Niagara agreement.
+WHEREAS, Cashcall is engaged in the business of providing a funds access service whereby the holder of an approved credit card (“Cardholder”) may obtain funds by the purchase and negotiation of a payment instrument and subject to the Cardholder’s available credit limit, proper authorization of the transaction, payment of the applicable service fee and the internal security procedures of Cashcall (“Funds Access Services”); and
+WHEREAS, Cashcall and the Service Center wish to enter into an Agreement, under the terms of which Cashcall shall become a supplier of Funds Access Services at the Service Center;
+NOW, THEREFORE, for and in consideration of the mutual covenants set forth herein and for other good and valuable consideration received, Cashcall and the Service Center agree as follows:
+1. Supplier Status. Cashcall shall have the right to be the sole and exclusive supplier of Funds Access Services on the Service Center’s premises for the term of this Agreement. Cashcall acknowledges that the Service Center will accept credit cards through the use of Point of Sale devices.
+2. Maintenance of Equipment and Supplies. The equipment necessary to utilize the Cashcall Funds Access Service is and remains the property of Cashcall. It shall be supplied, installed and maintained by Cashcall. The Service Center shall install and maintain, at its expense, all telephone lines necessary to utilize the Cashcall Funds Access Service. Cashcall shall provide, at its expense, all supplies necessary to utilize such equipment, including Cashcall payment instruments.
+3. Transaction Procedures. The parties agree that the proper procedures for completing a Cashcall Funds Access Service transaction and issuing the payment instrument are as follows:
+i. If the credit card has a ‘Valid Date’ embossed on the card, the date of the transaction must be on or after such “Valid Date”.
+ii. The date of the transaction must be on or before the expiration date embossed on the credit card.
+iii. A valid authorization code must be obtained from Cashcall, either electronically or on a manual (voice) basis.
+iv. The front of the payment instrument must be completed (either manually or electronically).
+v. The Cardholder must initial by the Cashcall fee on the front of the payment instrument to acknowledge that he will be charged a service fee in addition to the funds access amount.
+vi. Proper identification information and the Cardholder’s address, telephone number and the credit card issuing bank’s BIN number must be written in the designated spaces on the payment instrument by the Service Center’s employee.
+vii. The Cardholder must sign in the space provided on the reverse side of the payment instrument, and the signature must match the signature on the credit card.
+viii. The payment instrument must be imprinted with the credit card and the imprint must be legible.
+[…]
+10. Commission Payments. Cashcall shall make a per transaction commission payment to the Service Center per Attachment A for each Cashcall Funds Access transaction completed during the term of this Agreement. Such payments shall be made in the month following the month in which the transaction was completed commencing the end of the month immediately following implementation of this Agreement. All commission payments to the Service Center covered under this Agreement shall be in Canadian funds.
+(2) Agreement made in 2000
+[29] The agreement with Casino Niagara made in 2000 has material differences from the others. In this agreement, Casino Niagara has the primary right to determine the amount of the fee to be charged to the patron, that is, the Global Fee.
+[30] There is also ambiguity in the agreement. Of particular relevance is that one clause contemplates a fee to be paid by Global to the Casino and another clause contemplates a fee to be paid by the Casino to Global. The two clauses reflect alternative fee structures, one of which is to be selected by the parties to the agreement. In this case, the parties selected the fee structure that requires a payment by Casino Niagara to Global. The alternative fee structure does not make much sense because the supply under the agreement is the same.
+[31] If the payor of the fee is Casino Niagara, as reflected in the agreement, then Global’s appeal should succeed in respect of this agreement because Global did not pay for a supply by Casino Niagara. Rather, Casino Niagara paid for a supply by Global.
+[32] Although this interpretation appears to be in Global’s favour in this appeal, Global did not advocate it, and neither party focussed specifically on it at the hearing. Written submissions were subsequently requested from the parties.
+[33] In the submissions, both parties submitted that this agreement is intended to have the same effect as the earlier agreements – that is, a fee is paid by Global to Casino Niagara for a supply by Casino Niagara. In effect, both parties submit that the payment mechanism as set out in the agreement does not mean what it says.
+[34] After consideration of the evidence as a whole, I will accept that the agreement is in error to the extent that it provides that a fee is paid by Casino Niagara to Global. As mentioned above, it does not make much sense for the agreement to contemplate alternative payment mechanisms going both ways.
+[35] I accept, then, that under this agreement Casino Niagara received fees for a supply to Global. This is in accord with the position of both parties.
+III. Legislative scheme
+[36] The relevant legislative provisions are reproduced in an Appendix.
+[37] Pursuant to subsection 165(1) of the Act, GST is payable by a recipient of a taxable supply and is calculated on the value of the consideration for the supply.
+[38] The supply of a “financial service,” as that term is defined, is an exempt supply and is not taxable (Part VI, Schedule V).
+[39] The definition of “financial service” is complex (section 123 of the Act, and Financial Services Regulations). At the risk of oversimplifying, a few salient features of the legislation are summarized below.
+(i) A financial service includes the payment or transfer of money, except the payment of money as consideration for the supply of property other than a financial instrument (paragraphs (a) and (n) of the definition of financial service).
+(ii) A financial service includes the issuance of a financial instrument (paragraph (d) of the definition of financial service).
+(iii) A financial service includes the arranging for a financial service (paragraph (l) of the definition of financial service).
+(iv) A financial service excludes certain services that are provided in conjunction with a financial service, such as collecting or providing information, document preparation or processing, and customer assistance (paragraph (r.4) of the definition of financial service).
+(v) A financial service excludes property made available to a person in conjunction with a financial service provided by that person (paragraph (r.5) of the definition of financial service).
+(vi) A financial service excludes an administrative service unless the service provider is at risk (paragraph (t) of the definition of financial service and subsection 4(3) of the Regulations).
+[40] It is also relevant to mention the principles adopted by the courts concerning single versus multiple supplies. The principles described by Rip J. (as he then was) in O.A. Brown Ltd. v The Queen, [1995] GSTC 40 (TCC) have recently been confirmed by the Supreme Court of Canada: City of Calgary v The Queen, 2012 SCC 20, para. 32. The test is “whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply” (para. 35). Further, “one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component of a composite whole” (para. 36).
+[41] The legislation also provides special rules applicable to multiple supplies for a single consideration.
+[42] A supply which is incidental to a main supply is ignored for purposes of the GST. Section 138 of the Act provides that where there are multiple supplies for a single consideration, an incidental supply is considered part of the main supply. The principles to be applied in making this determination were recently described in 9056-2059 Quebec Inc. v The Queen, 2011 FCA 296, at para. 34 of the certified translation:
+[…] section 138 refers to a secondary element in the sense of minor or non-essential. To fulfill the second condition, it is not enough for the supply or service to be secondary; this supply or service must also be of small value in relation to the principal activity. […]
+[43] Section 139 of the Act deals with circumstances in which a financial service is supplied with a non-financial service for a single consideration. In general, if the portion of the consideration for the financial service is greater than 50 percent of the total, the entire consideration is exempt from GST on the basis that all services are deemed to be financial services.
+IV. Overview of positions of parties
+[44] Global submits that the Casinos made only one supply and that it is a financial service.
+[45] The supply is described by Global as consisting of two parts, arranging for the issuance of Global’s cheques and cashing the cheques. Each part is encompassed by the definition of financial service, it is submitted. Arranging for the issuance of cheques is a financial service within the meaning of paragraph (l) of the definition of financial service. Cashing of the cheques is a financial service under either paragraph (a) or (d). Since each part is described as a financial service in the legislation, the composite single supply also qualifies.
+[46] Although Global’s primary argument is that there is a single supply, it submits in the alternative that if there are two supplies, each is a financial service.
+[47] The position of the respondent is the polar opposite to Global’s, that is, that the Casinos did not supply any financial services to Global. It submits that a bundle of supplies were made, all of which are excluded as financial services under a combination of paragraphs (r.4), (r.5) and (t) of the definition of financial service.
+[48] As part of the respondent’s argument, it is acknowledged that cheque cashing may be considered a financial service. The respondent submits, however, that the cashing of the cheques was a service provided directly to patrons and not to Global. It is submitted that this service was part of the Casinos’ regular financial services offered to patrons for no consideration.
+V. Analysis
+[49] This appeal requires a consideration of how a bundle of supplies should be characterized in the context of the definition of financial service. As mentioned above, one party suggests that all of the supplies are financial services; the other suggests that none of them are. I have concluded that the correct approach lies in between.
+[50] In my view, of the bundle of supplies provided by the Casinos, part are financial services and part are not. The financial service element is the cashing of the cheques, which qualifies under paragraph (a) of the definition of financial service. The remaining part of the supply is excluded by paragraphs (r.4) and (r.5).
+[51] Since the supply is a combination of financial and non-financial services, the question of allocation needs to be considered. Since both parties chose to only present all or nothing positions, neither party provided in depth submissions on the allocation issue.
+[52] The analysis below has been organized into the following headings.
+A. What supply (or supplies) did the Casinos make?
+B. Is the supply included as a financial service under any of
+paragraphs (a) to (m) in the definition of financial service?
+C. Is the supply excluded as a financial service under either paragraph (r.4), (r.5) or (t)?
+D. If some elements of the supply are financial services and others are not, how should the consideration be allocated?
+A. What supply (or supplies) did the Casinos make?
+[53] This section considers the nature of the supply. The question is: What was provided by the Casinos in consideration for Casino Fees?
+[54] The written agreements are central to this analysis. A key term in all of the agreements is that Global will be the sole and exclusive supplier of funds access services on the Casinos’ premises. The three earliest agreements provide that Global has the “right” to be the sole and exclusive supplier. The last agreement provides that Global “will” be the sole and exclusive supplier.
+[55] The recitals to the agreements, as well as the terms of the agreements, suggest that this term describes an essential supply under the agreements. In contrast, Mr. Simmons testified that it was not an important term.
+[56] With respect to Mr. Simmons’ testimony on this point, I would note that he is not a disinterested witness and he did not provide satisfactory reasons for downplaying the significance of this term. I did not find his testimony to be persuasive.
+[57] However, I do accept Mr. Simmons’ testimony that the provision of exclusivity was not a key term because Global had few competitors at the time.
+[58] An essential aspect of the agreements, then, is that the Casinos permitted Global to conduct its business at their premises. This seems to describe a passive role for the Casinos, but this does not accurately describe the relationship. The Casinos were passive in allowing kiosks on the premises but they were also active in the activities conducted at the cashier cages.
+[59] The respondent submits that not all of the cashiers’ services were part of the supply by the Casinos to Global. It is submitted that cashing the cheques was not part of the supply because the Casinos regularly performed financial services for patrons at no charge.
+[60] The evidence is not as clear on this point as I would have liked. On balance, I have concluded that cashing Global’s cheques was part of the Casinos’ supply to Global.
+[61] Three of the agreements define Global’s service as a service whereby patrons can obtain cash or funds. This suggests that Global’s service to patrons does not stop at the issuance of the cheques. It includes the provision of cash.
+[62] The fourth agreement, the 1996 agreement with Casino Niagara, refers to Global’s service as being “funds access or cash equivalent advance services” as defined by credit card association regulations. The regulations were not entered into evidence. In the absence of other evidence, I would conclude that this agreement should be construed in the same manner as the others, that is, the supply includes the cashing of cheques.
+[63] Accordingly, there are three main aspects to the bundle of supplies by the Casinos: (1) allowing kiosks on the premises, (2) providing support services at the cashier cages such as transaction procedures and initiating transactions on behalf of patrons, and (3) cashing Global’s cheques.
+B. Are supplies included as a financial service under any of paragraphs (a) to (m) in the definition of financial service?
+[64] The next question is whether the supplies by the Casinos are described in any of paragraphs (a) to (m) of the definition of financial service.
+[65] Global submits that paragraphs (a), (d) and (l) all apply. It is submitted that arranging for the issuance of cheques is within paragraph (l), and that cashing cheques is within paragraph (a) or (d).
+[66] I would agree with these submissions.
+[67] I will first consider the activities of the Casinos in relation to the issuance of cheques. This involves allowing kiosks on the premises, and providing support services at the cashier cages such as undertaking the transaction procedures and initiating transactions on behalf of patrons.
+[68] Paragraph (l) of the definition of financial service reads:
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (i), and
+(ii) not referred to in any of paragraphs (n) to (t),
+(Emphasis added)
+[69] The respondent submits that the Casinos’ actions were too passive to be accurately described as “arranging for.” In my view, this is a narrow interpretation that is not supported by the context or purpose of the legislation.
+[70] The term “arrange for” in this context has been broadly interpreted as “plan or provide for; cause to occur”: Royal Bank of Canada v The Queen, 2005 TCC 802, [2005] GSTC 198, at para. 15.
+[71] A broad interpretation is also supported by the administrative policy of the Canada Revenue Agency during the period at issue. The relevant part of Policy P‑239 (since repealed), which was in force during a portion of the relevant period, is reproduced below.
+(a) the intermediary will help either the supplier, or the recipient or both, in the supply of a financial service;
+(b) the supplier and/or the recipient count on one or more intermediaries for assistance in the course of a supply of a financial service; and
+(c) the intermediary is directly involved in the process of the provision of a financial service and will, therefore, expend the time and effort necessary with the intent to effect a supply of a service describe in paragraphs (a) to (i) of the definition of financial service.
+[72] The Casinos are directly involved in the issuance of cheques and are actively engaged in doing so, since they allow kiosks on the premises and provide support services such as transaction procedures and initiating transactions on behalf of patrons. Accordingly, the Casinos are “arranging for” the issuance of cheques within the above policy. The supply is contemplated by paragraph (l).
+[73] I now turn to the service of cashing Global’s cheques.
+[74] Global relies on Elgin Mills Leslie Holdings Ltd. v The Queen, 2000 GTC 739 (TCC), which concluded that a cheque cashing service was within paragraphs (a) and (d) of the definition of financial service. These provisions read:
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+[…]
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+[75] The analysis in Elgin Mills is certainly relevant, but I would comment that the Casinos are not engaged in a cheque cashing business in the conventional sense. The only cheques that are provided are Global’s cheques. In addition, the agreements provide that Global guarantees payment of the cheques, subject to performance of the transaction procedures. The role of the Casinos in cashing Global’s cheques is similar to that of a disbursing agent.
+[76] Although the role of the Casinos is similar to a disbursing agent, this activity is encompassed within the broad language of paragraphs (a) and (d). The limited nature of the role does not exclude the activity from these provisions.
+C. Are supplies excluded as a financial service under either paragraph (r.4), (r.5) or (t)?
+[77] The next question is whether any part of the supply is within the specific exclusions in the definition of financial service. I will consider separately the activities involved in facilitating the issuance of cheques and cashing the cheques.
+[78] As for facilitating the issuance of cheques, the respondent submits that these activities are excluded by paragraphs (r.4), (r.5) and (t). I agree with the submission with respect to paragraphs (r.4) and (r.5), but not with respect to paragraph (t).
+[79] In 2010, the definition of financial service was amended on a retroactive basis in response to judicial decisions. Paragraphs (r.4) and (r.5) were part of this legislation. They provide the following exclusions:
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+(r.5) property (other than a financial instrument or prescribed property) that is delivered or made available to a person in conjunction with the rendering by the person of a service referred to in any of paragraphs (a) to (i) and (l),
+[80] In my view, the activities of the Casinos in arranging for the issuance of Global’s cheques is encompassed by these two paragraphs. There are two main parts to this supply: (1) allowing kiosks on the premises, and (2) providing support services at the cashier cages, such as undertaking transaction procedures and initiating transactions on behalf of patrons.
+[81] In allowing kiosks on the Casinos’ premises, the Casinos are making a supply of property within the meaning of paragraph (r.5). The term “property” is broadly defined in subsection 123(1).
+[82] In providing the support services of the cashiers, the Casinos are making a supply described in paragraph (r.4). The services are provided in conjunction with the issuance of cheques, a financial service, and consist primarily of collecting and providing information, and document preparation and processing. The cashiers may also provide customer assistance. All of these activities are within paragraph (r.4).
+[83] I would conclude, therefore, that the supply by the Casinos in connection with arranging for the issuance of cheques is excluded as a financial service by virtue of a combination of paragraphs (r.4) and (r.5).
+[84] In light of this conclusion, it is not necessary that I consider the exclusion for administrative services in paragraph (t). I would comment briefly that this provision does not apply because the Casinos are at risk in providing the supply. At the very least, the risk involves bearing the loss if a transaction is reversed by the card issuing bank and the Casino has failed to follow the required transaction procedures.
+[85] As for the service of cashing Global’s cheques, I would conclude that none of the exclusions apply to this service. Specifically, cashing cheques is not encompassed by either paragraph (r.4) or (r.5). As for paragraph (t), the service may be considered an administrative service, but the Casinos are at risk with respect to the cheques, within the definition of “person at risk” in the Regulations. Accordingly paragraph (t) does not apply.
+[86] The appellant submits that cashing cheques is not an administrative service because it is a service specifically enumerated as a financial service. It relies on Royal Bank of Canada v The Queen, 2005 TCC 802, [2005] GSTC 198, at para. 18.
+[87] I agree that the Royal Bank decision provides support for the position that cheque cashing is not an administrative service for purposes of paragraph (t). However, I prefer to base my conclusion on the fact that the Casinos are a “person at risk” with respect to the cheques.
+[88] The Regulations define a person at risk to include a person who has provided an indemnity in respect of a financial instrument. The term “indemnity” is broad, and encompasses the protection that the Casinos provide Global on the cheques if the Casinos fail to properly perform the transaction procedures.
+[89] Further, a “person at risk” does not include a person who is at risk only by virtue of supplying a clearing or settlement service. This exclusion does not apply to the cheque cashing service. Even if cashing Global’s cheques is a clearing or settlement service, the “indemnity” does not arise by virtue of that service but by virtue of failing to perform proper transaction procedures.
+[90] I would conclude that the Casinos are at risk with respect to the cheques and therefore paragraph (t) does not apply to the service of cashing Global’s cheques.
+[91] Where does that leave us? I have concluded that one element of the supply is encompassed by the definition of “financial service,” and that is the cashing of Global’s cheques.
+E. How should consideration be allocated?
+[92] Since only part of the supply is encompassed by the definition of “financial service,” it must be considered whether there are multiple supplies for purposes of the Act.
+[93] The main elements of the bundle of supplies are: (1) allowing kiosks on the premises, (2) providing support services at cashier cages such as transaction procedures and initiating transactions on behalf of patrons, and (3) cashing Global’s cheques.
+[94] In my view, these supplies are not so interdependent that they should be considered a single supply within the principles described in O.A. Brown. It is convenient, but not necessary, that the Casinos provide all of these elements. I would also comment that this conclusion is also more compatible with the definition of financial services and the legislation as a whole.
+[95] Global submits that there is one supply because each part of the supply is of no use on its own (A’s Written Submissions, para. 124). I disagree with this. It would be possible for Global to provide parts of the supply itself. In that case, a supply of part by the Casinos would be of use on its own.
+[96] As for the incidental supply rule, none of these elements are a minor part of the supply so as to be incidental within the meaning described in 9056-2059 Quebec Inc., above.
+[97] An allocation of the consideration to taxable and exempt supplies is therefore appropriate. I would conclude that it is appropriate to allocate 25 percent of the consideration to the supply of cashing cheques. It is an essential supply, but not the predominant supply. The predominant supplies are involved with the issuance of Global’s cheques. This involves allowing kiosks on the premises and providing cashier services such as transaction procedures and initiating transactions for patrons. Global acknowledges this in its written submissions (para. 129).
+[98] In reaching these conclusions, I have considered that none of the supplies likely had a significant marginal cost to the Casinos. The Casinos already had the casino facilities, the cashier services and large amounts of cash. Further, I am not persuaded that the Casinos believed that the risks that were assumed were significant.
+[99] In the result, I would conclude that 25 percent of the Casino Fees are exempt as a financial service of cashing Global’s cheques and that the remaining portion of the Casino Fees are subject to GST.
+VI. Conclusion
+[100] The appeal will be allowed, and the assessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that 25 percent of the GST was paid in error. The respondent is entitled to its costs.
+Signed at Toronto, Ontario this 18th day of May 2012.
+“J. M. Woods”
+Woods J.
+APPENDIX
+Excerpts from Excise Tax Act, Part IX, S.C. 1990, c. 45, as amended
+123. Definitions (1) In section 121, this Part and Schedules V to X,
+[…]
+“debt security” means a right to be paid money and includes a deposit of money, but does not include a lease, licence or similar arrangement for the use of, or the right to use, property other than a financial instrument;
+[…]
+“financial instrument” means
+(a) a debt security,
+(b) an equity security,
+(c) an insurance policy,
+(d) an interest in a partnership, a trust or the estate of a deceased individual, or any right in respect of such an interest,
+(e) a precious metal,
+(f) an option or a contract for the future supply of a commodity, where the option or contract is traded on a recognized commodity exchange,
+(g) a prescribed instrument,
+(h) a guarantee, an acceptance or an indemnity in respect of anything described in paragraph (a), (b), (d), (e) or (g), or
+(i) an option or a contract for the future supply of money or anything described in any of paragraphs (a) to (h);
+[…]
+“financial service” means
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+(c) the lending or borrowing of a financial instrument,
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+(e) the provision, variation, release or receipt of a guarantee, an acceptance or an indemnity in respect of a financial instrument,
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+(f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy,
+(g) the making of any advance, the granting of any credit or the lending of money,
+(h) the underwriting of a financial instrument,
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+(j) the service of investigating and recommending the compensation in satisfaction of a claim where
+(i) the claim is made under a marine insurance policy, or
+(ii) the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+(A) the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+(B) the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province,
+(j.1) the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss,
+(k) any supply deemed by subsection 150(1) or section 158 to be a supply of a financial service,
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (i), and
+(ii) not referred to in any of paragraphs (n) to (t), or
+(m) a prescribed service,
+but does not include
+(n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service,
+(o) the payment or receipt of money in settlement of a claim (other than a claim under an insurance policy) under a warranty, guarantee or similar arrangement in respect of property other than a financial instrument or a service other than a financial service,
+(p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1),
+(q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+(i) a management or administrative service, or
+(ii) any other service (other than a prescribed service),
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust,
+(q.1) an asset management service,
+(r) a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice,
+(r.1) the arranging for the transfer of ownership of shares of a cooperative housing corporation,
+(r.2) a debt collection service, rendered under an agreement between a person agreeing to provide, or arranging for, the service and a particular person other than the debtor, in respect of all or part of a debt, including a service of attempting to collect, arranging for the collection of, negotiating the payment of, or realizing or attempting to realize on any security given for, the debt, but does not include a service that consists solely of accepting from a person (other than the particular person) a payment of all or part of an account unless
+(i) under the terms of the agreement the person rendering the service may attempt to collect all or part of the account or may realize or attempt to realize on any security given for the account, or
+(ii) the principal business of the person rendering the service is t he collection of debt,
+(r.3) a service (other than a prescribed service) of managing credit that is in respect of credit cards, charge cards, credit accounts, charge accounts, loan accounts or accounts in respect of any advance and is provided to a person granting, or potentially granting, credit in respect of those cards or accounts, including a service provided to the person of
+(i) checking, evaluating or authorizing credit,
+(ii) making decisions on behalf of the person in relation to a grant, or an application for a grant, of credit,
+(iii) creating or maintaining records for the person in relation to a grant, or an application for a grant, of credit or in relation to the cards or accounts, or
+(iv) monitoring another person’s payment record or dealing with payments made, or to be made, by the other person,
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+(r.5) property (other than a financial instrument or prescribed property) that is delivered or made available to a person in conjunction with the rendering by the person of a service referred to in any of paragraphs (a) to (i) and (l),
+(s) any service the supply of which is deemed under this Part to be a taxable supply, or
+(t) a prescribed service;
+[…]
+“money” includes any currency, cheque, promissory note, letter of credit, draft, traveller’s cheque, bill of exchange, postal note, money order, postal remittance and other similar instrument, whether Canadian or foreign, but does not include currency the fair market value of which exceeds its stated value as legal tender in the country of issuance or currency that is supplied or held for its numismatic value;
+[…]
+“property” means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money.
+138. Incidental supplies - For the purposes of this Part, where
+(a) a particular property or service is supplied together with any other property or service for a single consideration, and
+(b) it may reasonably be regarded that the provision of the other property or service is incidental to the provision of the particular property or service,
+the other property or service shall be deemed to form part of the particular property or service so supplied.
+139. Financial services in mixed supply - For the purposes of this Part, where
+(a) one or more financial services are supplied together with one or more other services that are not financial services, or with properties that are not capital properties of the supplier, for a single consideration,
+(b) the financial services are related to the other services or the properties, as the case may be,
+(c) it is the usual practice of the supplier to supply those or similar services, or those or similar properties and services, together in the ordinary course of the business of the supplier, and
+(d) the total of all amounts, each of which would be the consideration for a financial service so supplied if that financial service had been supplied separately, is greater than 50% of the total of all amounts, each of which would be the consideration for a service or property so supplied if that service or property had been supplied separately,
+the supply of each of the services and properties shall be deemed to be a supply of a financial service.
+165. Imposition of goods and services tax (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 6% on the value of the consideration for the supply.
+Schedule V, Part VII – Exempt Supplies
+1. A supply of a financial service that is not included in Part IX of Schedule VI.
+Excerpt from Financial Services Regulations - Regulations Prescribing Services for the Purposes of Paragraphs (m) and (t) of the Definition of “Financial Services”
+4. (1) In this section,
+"instrument" means money, an account, a credit card voucher, a charge card voucher or a financial instrument;
+"person at risk", in respect of an instrument in relation to which a service referred to in subsection (2) is provided, means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or by virtue of a guarantee, an acceptance or an indemnity in respect of the instrument, but does not include a person who becomes so at risk in the course of, and only by virtue of, authorizing a transaction, or supplying a clearing or settlement service, in respect of the instrument.
+(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act:
+(a) the transfer, collection or processing of information, and
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+(a) a person at risk,
+(b) a person that is a member of the same closely related group as a person at risk, if the recipient of the service is not the person at risk or another person closely related to the person at risk, or
+(c) an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person closely related to the person at risk.
+CITATION: 2012 TCC 173
+COURT FILE NO.: 2008-922(GST)G
+STYLE OF CAUSE: GLOBAL CASH ACCESS (CANADA) INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: September 28, 29, 30,
+December 6 and 8, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: May 18, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Dalton J. Albrecht
+David W. Chodikoff
+Rahul Sharma
+David Carter (student-at-law)
+Counsel for the Respondent:
+Marilyn Vardy
+Annie Paré
+Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Dalton J. Albrecht
+Firm: Miller Thomson LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

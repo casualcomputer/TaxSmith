@@ -1,0 +1,303 @@
+Title: Bernick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25996/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-433-25996-bernick-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-06-26
+
+# Bernick v. The Queen
+
+- Citation: 2003 TCC 433
+- Decision date: 2003-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3729, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-26
+Neutral citation
+2003 TCC 433
+File numbers
+1999-2485(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-2485(IT)G
+BETWEEN:
+HENRY BERNICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 11, 12 and 13, 2003, at Toronto, Ontario
+By: The Honourable Judge Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Barry Wortzman and Gaynor J. Roger
+Counsel for the Respondent:
+Margaret J. Nott
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1992, 1993 and 1994 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment only on the basis that the penalties are to be reduced to $100 in each of 1992, 1993 and 1994.
+In all other respects the appeals are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 26th day of June, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Citation: 2003TCC433
+Date: 20030626
+Docket: 1999-2485(IT)G
+BETWEEN:
+HENRY BERNICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] During 1992, 1993 and 1994, the Appellant, Mr. Henry Bernick, was a partner in a Bahamian partnership known as The Group of Eighteen (the "Partnership"). The Partnership owned certain securities, being a British Gas Zero Coupon Bond with a maturity value of US$7.5 million (the "UK Bond") and several Japanese Marine and Fire Insurance Convertible Bonds with a maturity value of $147 million yen (the "Fire Marine Bonds"). The Partnership disposed of the UK Bond and Fire Marine Bonds over the three years in question, and claimed losses of US$2,280,318, US$2,336,385 and US$1,710,165 in 1992, 1993 and 1994, respectively. These losses were based on an initial cost calculated on the basis of the maturity value of the UK Bond and Fire Marine Bonds (collectively the "Bonds"), a position Mr. Bernick claims is supported by Bahamian generally accepted accounting principles (GAAP). The Respondent denied the Appellant's 90 per cent share of such losses, and assessed on the basis there were net gains, not losses, relying on the initial cost of the Bonds being their market value, not their maturity value, a position the Respondent claims is supported by Canadian GAAP and international accounting standards.
+[2] The issues are:
+1. What is the proper determination of Mr. Bernick's income in 1993 and 1994 for Canadian tax purposes?
+The method relied upon by Mr. Bernick does not present an accurate picture of his income and the proper determination is as assessed by the Respondent.
+2. Has the Respondent proven that Mr. Bernick knowingly or under circumstances amounting to gross negligence made false statements or omissions in his 1992, 1993 and 1994 returns, justifying the imposition of penalties pursuant to subsection 163(2) of the Act?
+The Respondent has proven that Mr. Bernick knowingly acquiesced in the making of an omission in the financial statements filed with Mr. Bernick's 1992, 1993 and 1994 returns, though any understatement of income was not attributable to the omission, but attributable to the principles relied upon by Mr. Bernick. Therefore, the penalty pursuant to subsection 163(2) of the Act is limited to $100 in each of 1992, 1993 and 1994.
+Facts
+[3] During the late 1970s and early 1980s, Mr. Bernick, as a result of a long‑standing relationship with Wood Gundy, London, United Kingdom, was led to investigate the Japanese financial markets. His lengthy and thorough investigation resulted in a decision to invest, not in individual Japanese companies but in the fire and marine insurance companies who are major shareholders in individual Japanese companies, such as Toyota. Mr. Bernick was most successful in this investment strategy and clearly showed a comprehensive understanding of that market. In the mid-1980s, Mr. Bernick was also very involved in land development in Barrie, Ontario. His companies held a one-third interest in one real estate limited partnership and a one-quarter interest in another real estate limited partnership. He was personally engaged to manage these real estate businesses. By the early 1990s, Mr. Bernick realized these real estate enterprises would yield significant income in the upcoming few years.
+[4] In July 1992, Mr. Bernick's lawyer of longstanding, Mr. John McKellar of Weir & Foulds, suggested to Mr. Bernick that he talk to Mr. E.P. Toothe, a Bahamian lawyer who had an investment in which Mr. Bernick might be interested. Mr. Bernick followed up and contacted Mr. Toothe in July 1992. He determined that the investment consisted of several Japanese fire and marine insurance convertible bonds, an investment in which he was intimately familiar, along with a UK British Gas Zero Coupon Bond. Mr. Bernick asked for particulars and received a listing of the Bonds. He was also made aware that the investment would be by way of purchase of units in a Bahamian partnership, which would be the owner of the Bonds. Mr. Bernick analyzed the Bonds and came up with the following values:[1]
+Schedule "A" List of Securities
+No. of Bonds
+Denomination
+Name
+Maturity
+¥
+Million
+U.S$ Million
+US$ Value determined by Bernick
+1
+¥ Million
+Tokio Marine & Fire Insurance
+CV1
+31/03/97
+1
+59
+"
+Mitsui Marine & Fire Insurance
+CV1
+29/03/02
+59
+54
+"
+Sumitomo Marine & Fire Insurance
+CV2
+31/03/03
+54
+20
+"
+Nippon Fire & Marine Insurance
+CV2
+31/03/98
+20
+13
+"
+Yasuda Fire & Marine Insurance
+CV2
+31/03/98
+13
+147
+147
+1,000,050
+750
+U.S.$ 10000
+British Gas International Finance
+Zero
+4/11/21
+7.5
+750,000
+[5] In effect, Mr. Bernick valued the Partnership units, being 1,800 in total, at US$1.8 million or US$1,000 per unit. He requested, and received, a copy of the Partnership Agreement. Throughout August Mr. Bernick proceeded to arrange with friends, family and associates to put up the US$1.8 million to acquire 1,798 of the 1,800 Partnership units. Mr. Toothe, as managing partner, owned two of those units. He acquired a further 16 units to give himself a one per cent interest. The units were to be bought from P.T. Limited, a Bahamian corporation. Mr. Bernick was acquiring 1,620 and the rest of the group were acquiring 178 units. Mr. Bernick flew to Nassau on September 2, 1992 with cheques from the others in hand to close the transaction on September 3. Mr. Bernick's cheque for $1.62 million was dated September 2.
+[6] Meanwhile, in Nassau, matters were likewise moving ahead. The Partnership Agreement was entered into on August 10, 1992, between Mr. Toothe and one of his associates, Mr. Barry Sawyer. The Agreement was registered with the Registrar General for the Bahamas on August 21. That same day, P.T. Limited agreed to transfer the Bonds into the Partnership in exchange for 1,798 Partnership units, such transaction to close on September 3, coincidentally with the sale of the 1,798 Partnership units of P.T. Limited to Mr. Bernick and his group. The exchange agreement between P.T. Limited and the Partnership reads in full as follows:[2]
+Whereas the Vendor agrees to Sell and the Purchaser agrees to Purchase the Securities listed in Schedule 'A' attached hereto.
+The Vendor and Purchaser agree that the consideration for the Sale and Purchase of said Securities listed in Schedule 'A' shall be:
+The Issue by Purchaser to Vendor of 1,798 Partnership Units of the Partnership "The Group of Eighteen"
+The Transaction shall be completed on or before the 3 day of Sept. 1992 at the Offices of E.P. Toothe & Associates, 3rd Floor Maritime House, Frederick Street, City of Nassau.
+[7] The list of the bonds attached to the Agreement is the list that had been previously sent to Mr. Bernick for review. The UK Bond had a value at this point of $9.34 per $100 face value, or $700,500. Mr. Bernick realized that the UK Bond yielded a less attractive return than the Fire Marine Bonds. It was his view from the outset that it would be desirable for the Partnership to dispose of the UK Bond over time and acquire bonds similar to the Fire Marine Bonds. So, soon after Mr. Bernick and his group's acquisition, the Partnership disposed of a portion of the UK Bond with a maturity value of US$2.5 million. Again in January 1993, the Partnership disposed of an additional segment of the UK Bond with a face value of US$2.5 million. Both these sales were at values of just under ten cents on the dollar – ten cents being Mr. Bernick's estimate of the value for purposes of making the $1.8 million offer for the Partnership units. Later in 1993, the value of the UK Bond got up over fourteen cents on the dollar and the Partnership disposed of another segment with a face value of US$500,000. Finally, in January 1994 the Partnership disposed of the final US$2 million, then at a value of approximately twelve cents on the dollar.
+[8] Mr. Bernick, who served as the Partnership's sole investment advisor, did not suggest selling all of the UK Bond in 1992. He said it was simply a business decision to sell in part.
+[9] The Partnership produced a balance sheet as at September 4, 1992 which reads as follows:[3]
+The Group of Eighteen
+A Partnership organized Under the Partnership Laws of
+the Commonwealth of the Bahamas
+BALANCE SHEET
+(U.S. $)
+September 4, 1992
+ASSETS
+U.S. $
+Cash
+2,000
+Securities (Note A)
+147 Million ¥ C.V. Bonds (125¥/$)
+1,176,000
+7,500,000 U.S. $ British Gas Zero Bonds
+7,500,000
+8,676,000
+8,678,000
+LIABILITIES
+1,800 Partnership Units
+8,678,000
+[10] Both the Fire Marine Bonds and UK Bond were recorded at maturity value. The Partnership's December 31, 1992 year end balance sheet indicated the inventory of trading securities at a cost of US$6,394,107 (this takes into account the disposition of part of the UK Bond with a face value of US$2.5 million), but also had a line stating, "Market value of securities – $1,879,560". There was no indication the cost was based on maturity value. The 1993 and 1994 financial statements were similar in that regard.
+[11] Mr. Bernick indicated that he received the 1992 financial statements in February 1993 and was delighted to see his $1.8 million investment had grown to $1,879,560. He expressed no surprise and little interest in the recording of the Bonds at maturity value. He maintained it was only at this point he was aware that, because of recording cost at maturity value, the disposition of the UK Bond yielded a significant loss. Attached to the financial statements was a statement of 1992 income tax information, which spelled out Mr. Bernick's C$2,468,903 loss. He referred to this as a book loss. These financial statements were prepared by Mr. Graeme H.E. Jones, a Toronto chartered accountant. Mr. Jones' auditor's Report for those statements, which are similar for all three years at issue, reads in part as follows:[4]
+... These financial statements are the responsibility of the partnership's management. My responsibility is to express an opinion on these financial statements based on my audit.
+I conducted my audit in accordance with generally accepted auditing standards. Those standards require that I plan and perform an audit to obtain reasonable assurance whether the financial statements are free of material misstatement. ...
+In my opinion, these financial statements present fairly, in all material respects, the financial position of the partnership as at 31 December, 1992 and the results of its operations and the changes in its financial position for the period then ended in accordance with generally accepted accounting principles.
+[12] The advice Mr. Bernick received from his law firm, Weir & Foulds and from Mr. Jones, was that this loss could be offset by the significant gains he was realizing in his real estate business in Canada, and that tax could then be postponed until his or his wife's death. This, he was advised, was as a result of the cost of his Partnership units going into a negative position, which would trigger a tax liability on death. Mr. Bernick inquired as to the magnitude of such a liability, and upon being advised that it was approximately C$5,000,000, he proceeded to take out a life insurance policy for that amount. He has paid premiums in excess of US$700,000 to date on that policy, and still maintains the policy to cover this future liability.
+[13] In filing his 1992, 1993 and 1994 returns, Mr. Bernick attached copies of the Partnership Financial Statements prepared by Mr. Jones, including the statements of his loss position for tax purposes. Mr. Bernick, also on advice of Price Waterhouse, flowed business income in his companies in 1992, 1993 and 1994 of $2,382,000, $2,695,000 and $2,108,000 into his hands personally as management fees. No fees were paid to Mr. Bernick in 1995, 1996 and 1997, though in 1998, 1999 and 2000 there were again fees of $150,000, $350,000 and $900,000, respectively. In 2000, Mr. Bernick recorded Partnership losses of $870,527 arising from the disposition of certain Ontario Zero Coupon Bonds which the Partnership had acquired in an exchange with a company called Sycamore Investments in 1994. Sycamore, similar to P.T. Limited, had transferred into the Partnership some fire and marine convertible bonds and the Ontario Zero Coupon Bond in exchange for Partnership units. Mr. Bernick and his group then acquired the Partnership units. Mr. Bernick acknowledged that any bonds acquired on an exchange like that were recorded at maturity value, while any securities acquired by the Partnership in the market itself were recorded at market value. He believed there was a distinction.
+[14] Before turning to the experts' evidence, there are some provisions in the Partnership Agreement which should be mentioned. It provided as follows:[5]
+... Solely for the purposes of determining profits, losses, distributions and returns of capital, the aforesaid financial statements, except for manifest material error, shall be conclusive.
+...
+The partnership business shall be conducted and managed solely by the Managing Partner subject to the control of any resolution or decision of the partners ... .
+... Notwithstanding anything in this agreement contained, no partner owing [sic] more than fifty per cent of the outstanding units shall be entitled to a greater vote than fifty per centum of the votes attaching to the units then outstanding. ...
+[15] Within one year of investing in the Partnership, all partners, other than Mr. Bernick, had received a return of their capital. Mr. Bernick was to get his return in cash and in kind over time.
+[16] Each Party presented an accounting expert's report. The Appellant presented a report of Mr. Dayrrl R. Butler, a chartered accountant duly licensed in both the Bahamas and Canada. He has practiced in Nassau since 1984 with Butler & Taylor, a member firm of Moore Stephens International Limited. His opinion, succinctly, was that it was proper and acceptable for a Bahamian partnership to record in financial statements in 1992, 1993 and 1994 the value of its investment in long-term marketable securities at their maturity or face value. Mr. Butler divided his opinion between the period 1992 and earlier and the post‑1992 period, as it was not until 1993 that the Bahamian Institute of Chartered Accountants specifically defined generally accepted standards, or what we would call in Canada generally accepted accounting principles (GAAP). Until 1993, in the Bahamas, GAAP was simply the choice of the chartered accountant preparing the accounts, evaluated by the chartered accountant based on his or her experiences. The chartered accountant took into account what may be appropriate for disclosure to banks, trusts and insurance companies. The chartered accountant also would fall back on the GAAP of his or her mother country being normally either the United States, United Kingdom or Canada. According to Mr. Butler, accounting for securities in 1992 would be at cost, fair market value or the managing partner's valuation, provided it is fair and not misleading to intended users. Normally, in a partnership, the only users would be the partners themselves. Mr. Butler indicated it was a practice in the Bahamas for an auditor not to inquire of the managing partner, from whom instructions would be taken, as to the makeup of the partnership, that is, who were the partners.
+[17] Accounting for the securities after 1992 would be subject to Rule 7 of the Bahamian Institute of Chartered Accountant Regulations wherein applicable accounting standards are:[6]
+1. IAS, promulgated by the International Accounting Standards Committee (IASC), except for any IAS that are specifically excluded by BICA;
+2. accounting standards that differ from IASC standards, if there is substantial support for alternative treatment and disclosure is made;
+3. accounting standards that are generally accepted for ordinary industrial and commercial enterprises; and
+4. accounting standards required by any written law;
+5. provided, however, that where there is a conflict between any of the various accounting standards, the Chartered Accountant must ensure that appropriate disclosure is made in the financial statements and that his report is appropriately modified.
+[18] Mr. Butler went so far as to suggest that because the Partnership's financial statements referred to market value, that they would also be in accordance with Canadian GAAP or international accounting standards. Mr. Butler was not presented as an expert on other than Bahamian GAAP, and it was clear from his testimony that his knowledge of Canadian GAAP was outdated, though would have been current in the 1980s. While the Respondent raised no objection to his qualifications as an expert on Bahamian GAAP, his credentials were not much more than simply being a chartered accountant in the Bahamas. This goes to the weight to attribute to his testimony. The overall impression he left concerning Bahamian GAAP, as applicable to partnerships, was that prior to 1993 it was a managing partner's call as to how to account for acquisitions. Then, after 1992, with some guidelines in place, Mr. Butler suggested the principle of consistency should dominate, justifying continuing to account in the same way as before 1993.
+[19] When asked how he would explain the significant losses shown on the financial statements to an inquiring partner, his response was that it would be inappropriate to talk to the partners, as he could only talk to the managing partner. This type of answer, combined with Mr. Butler's limited credentials, weakened the value of his testimony.
+[20] The Respondent presented the report of Mr. Daniel B. Thornton, PhD, FCA, Professor of Financial Accounting and Distinguished Faculty Fellow at the School of Business, Queen's University, Kingston, Ontario. His credentials were exhaustive and impressive, and I accept his testimony as to GAAP without reservation. He has, however, not practiced for 30 years as an active chartered accountant: he is an academic.
+[21] Professor Thornton's opinion was that under GAAP, the cost of the Bonds is equal to their fair value on the date acquired. The fair value of bonds is obtained by discounting the maturity value at a rate of interest implicit in the prices of similar bonds, in this case about 8.25 per cent. The fair value on that basis would be $700,500 for the UK Bond. Subsequent carrying values might differ depending on whether Canadian or international GAAP on the one hand, or United States GAAP on the other, is relied upon. Professor Thornton's conclusion was that recording the Bonds at face or maturity value was not an acceptable accounting practice under any circumstances. He further indicated that in the early 1990s Canadian GAAP and international accounting standards were very similar. He cited specific principles of Canadian GAAP from The Canadian Institute of Chartered Accountants Handbook, which confirmed the appropriate recording of non-monetary exchanges, such as the P.T. Limited transfer of the bonds into the Partnership for Partnership units, should be at fair value. He also confirmed that every well-developed set of GAAP would have a similar framework.
+[22] Professor Thornton did not profess to be an expert on Bahamian GAAP, nor to be an active practicing accountant. However, he was incredulous that any system would accept as appropriate a managing partner setting whatever amount he wanted to as the cost in a non-monetary exchange. It simply was not reasonable in his opinion.
+[23] An example put forward by the Appellant's counsel, Mr. Wortzman, of KPMG statements reflecting bonds at maturity was discounted by Professor Thornton as attempting to compare apples to oranges, as the bonds KPMG was accounting for were fixed interest bonds, for which maturity and value would not be that far apart.
+[24] Professor Thornton stressed the underlying principle for any GAAP system was representational faithfulness. Recording securities at maturity of ten times their value, and reporting losses on such basis, could in no way be viewed as representatively faithful. Though Professor Thornton did acknowledge on cross-examination that GAAP is ever changing and is in constant evolution, with an ultimate goal of world-wide consistency, he did not go so far as to accept Mr. Butler's description of Bahamian GAAP in the early 1990s.
+[25] Finally, Mr. J. Nalevka, the Canada Customs and Revenue Agency (CCRA) audit team leader of Mr. Bernick's audit and of Mr. Bernick's companies' audits gave evidence. While he shed some light on the process, and some of the reasons for proceeding with a penalty assessment, his testimony added little factual background for deciding this case.
+Appellant's Argument
+[26] While it is not always necessary or desirable to attempt to summarize both sides' arguments, in this case it is appropriate given the meticulous manner in which Mr. Wortzman unfolded his argument, as an engineer might construct a building, one block at a time. The finish product, unfortunately for Mr. Bernick, has a structural flaw.
+[27] Mr. Wortzman commenced by casting aside any notion that the principle of determining costs at the lower of cost or market constituted a rule of law back in the early 1990s. He relied on the introduction of subsection 96(8) of the Income Tax Act, effective after December 21, 1992 in support of this contention. Subsection 96(8) mandated the lower of cost or market in connection with a Canadian resident partner becoming a member of a foreign partnership. So, argues Mr. Wortzman, prior to that time such a principle was not the law.
+[28] He then took me to the Friedberg v. Canada[7] case, of which he was intimately familiar, for the proposition that where there are two acceptable accounting treatments, the courts need not accept the accounting system which most accurately reflects the economical reality. Thus, in a case where a taxpayer deliberately plans to defer income, the taxpayer could rely on the lower of cost or market, and was not required, as the Crown contended in that case, to use the mark-to-market method, notwithstanding it was more accurate. Mr. Wortzman went on to limit the Supreme Court of Canada's analysis in Canderel Limited v. The Queen,[8] on this point, to the context of only dealing with the matching principle.
+[29] The next block put in place by Mr. Wortzman was the Duke of Westminister block or in Canadian terms, the Neuman block. It is still acceptable for a taxpayer to take advantage of tax-planning schemes to minimize taxes. A taxpayer can arrange affairs to defer income. And this was all that Mr. Bernick did. It is clear that he took out life insurance to cover the inevitable tax he was advised he would face on death. He relied on accounting principles to defer income, principles he believed were acceptable and not contrary to any legal principles.
+[30] The acceptability of the principle of recording the UK Bond at maturity was confirmed by the Appellant's expert, Mr. Butler. The contention by the Respondent's expert, Professor Thornton, that the financial statements did not accord to representational faithfulness, as they did not honour the economic substance, while perhaps a classic academic definition, ignored the practical application certainly as enforced in the Bahamas in the early 1990s.
+[31] Finally, on the main issue, Mr. Wortzman laid in place the block, drawn from the Shell Canada Limited v. The Queen[9] case, that the economic effects of a transaction cannot re-characterize a legal relationship. He recognized though that the issue here is not one of a legal relationship, but of an accounting determination, so relied on Shell by way of analogy only.
+[32] With respect to penalties, Mr. Wortzman identified four factors which he contended led CCRA, specifically Mr. Ken Parsons, auditor, to recommend penalties:
+1. Materiality;
+2. Difficulty in getting books and records;
+3. Age; and
+4. An obscured filing.
+[33] The elements of materiality were the discrepancy between fair value to maturity value (10 times) and Mr. Bernick's sophisticated business acumen. While the former is a fact, the latter does not imply a detailed understanding of either financial statements or tax matters. Mr. Wortzman confirmed age was not and should not be a factor. With respect to CCRA's difficulty in getting books and records, this arose due to the offshore nature of the investments, not any lack of cooperation on Mr. Bernick's part. This was not a matter of destroying documents or leading CCRA astray. Mr. Bernick sought advice as to how to deal with requests and acted accordingly.
+[34] On the factor of obscuring information, Mr. Wortzman made the point that Mr. Bernick was never advised by CCRA that this was a concern. Mr. Bernick provided audited financial statements, he showed he was earning business income and that he was not hiding anything. If Mr. Bernick believed he was taking proper steps to defer tax, he should not be penalized for it.
+Respondent's Argument
+[35] The Respondent's position was straightforward. The Partnership was involved in a trading operation. Even the Appellant's expert acknowledged that if the securities were short term on trading account, recording costs at fair market value should have been used. There is just no principle, whether Canadian GAAP, international accounting standards or Bahamian GAAP, or basic business principles that the Partnership's trading investment could or should be recorded at maturity. Presenting on that basis does not fairly present the Appellant's true income position.
+[36] The Respondent disagrees with the Appellant's characterization of Canderel as limited in any way. Canderel provides a clear recommended approach by the Supreme Court of Canada to the determination of income, and in following that approach there is no confusion – in law the UK Bond cannot be recorded at maturity value.
+[37] With respect to penalties, the Respondent says that Mr. Bernick knew he was asking CCRA to rely on financial statements he knew not to be true. The suggestion that Mr. Bernick was engaged in a legitimate tax deferral arrangement does not ring true, as the income giving rise to tax on Mr. Bernick's death would be on capital account (negative adjusted cost base of partnership interest) and not on income account, as were the purported losses triggered on the disposition of the UK Bond. Mr. Bernick knowingly or in circumstances amounting to gross negligence, made false statements to CCRA.
+Analysis
+[38] Notwithstanding Mr. Wortzman's attempt to limit the import of the Supreme Court of Canada's decision in Canderel,[10] I view that case as authority for the principles governing the computation of income which Justice Iacobucci set out as follows:
+(1) The determination of profit is a question of law.
+(2) The profit of a business for a taxation year is to be determined by setting against the revenues from the business for that year the expenses incurred in earning said income: M.N.R. v. Irwin, supra, Associated Investors, supra.
+(3) In seeking to ascertain profit, the goal is to obtain an accurate picture of the taxpayer's profit for the given year.
+(4) In ascertaining profit, the taxpayer is free to adopt any method which is not inconsistent with
+(a) the provisions of the Income Tax Act;
+(b) established case law principles or "rules of law"; and
+(c) well-accepted business principles.
+(5) Well-accepted business principles, which include but are not limited to the formal codification found in G.A.A.P., are not rules of law but interpretive aids. To the extent that they may influence the calculation of income, they will do so only on a case-by-case basis, depending on the facts of the taxpayer's financial situation.
+(6) On reassessment, once the taxpayer has shown that he has provided an accurate picture of income for the year, which is consistent with the Act, the case law, and well-accepted business principles, the onus shifts to the Minister to show either that the figure provided does not represent an accurate picture, or that another method of computation would provide a more accurate picture.
+[39] The road map starts at Justice Iacobucci's third principle. Does the system relied upon by Mr. Bernick yield an accurate picture of his profit? If so, then move to the next question of determining whether such method is inconsistent with the Act, rules of law or well-accepted business principles. If no inconsistency, then ask if the Minister of National Revenue (the Minister) can prove there is another method providing a more accurate picture.
+[40] While it would be easy to make this case more complicated than it really is, and delve at great length into the interplay between GAAP, rules of law and well-accepted business principles, the answer to the first question is so resoundingly no that little more analysis is required. Recording the UK Bond at maturity value, whether a principle of Bahamian GAAP or a well-accepted business principle, does not in any way lead to an accurate portrayal of Mr. Bernick's income. The law in 1992 was best expounded by Justice Thorson comments in M.N.R. v. Publishers Guild of Canada Limited (No. 90 v. M.N.R.)[11] where he stated:
+... I cannot express too strongly the opinion of this Court that, in the absence of statutory provision to the contrary, the validity of any particular system of accounting does not depend on whether the Department of National Revenue permits or refuses its use. What the Court is concerned with is the ascertainment of the taxpayer's income tax liability. Thus the prime consideration, where there is a dispute about a system of accounting, is, in the first place, whether it is appropriate to the business to which it is applied and tells the truth about the taxpayer's income position and, if that condition is satisfied, whether there is any prohibition in the governing income tax law against its use. If the law does not prohibit the use of a particular system of accounting then the opinion of accountancy experts that it is an accepted system and is appropriate to the taxpayer's business and most nearly accurately reflects his income position should prevail with the Court if the reasons for the opinion commend themselves to it.
+This approach appears to have been reaffirmed in the West Kootenay Power and Light Company Limited v. The Queen[12] decision and again set in stone in Canderel. They all require that, as the basic starting point there must be an accurate reflection of income; that is, tells the truth about the taxpayer's income. Mr. Wortzman suggests that the Friedberg case provides support for the proposition that the system relied upon need not result in the most accurate picture. Friedberg, I suggest, in this regard is out of sync with the law that went before and the law that followed that decision. But the difficulty for Mr. Bernick is not a matter of the most accurate portrayal, but is that the accounting principles upon which he relied bear no resemblance whatsoever to anything which could remotely be called an accurate portrayal of his income. It was quite the opposite – it was a most inaccurate picture. The fact that it might be acceptable for a managing partner to dictate the use of that accounting principle and that a Canadian accountant would prepare financial statements based on that decree, is in no way persuasive that it, therefore, is an accurate portrayal of income for Canadian tax purposes.
+[41] The notion that because the accounting principle relied upon by Mr. Bernick was applied in the context of a tax deferral plan somehow bestows a legitimacy or accuracy on the computation is ill-founded. First, it was the income in the early 1990s at issue, not the determination of income on death. In the early 1990s a business, the Partnership, sold trading assets – it is the income or losses from those sales which are at issue, not the gains on a deemed disposition of Partnership units (a capital disposition by the way).
+[42] This is not a matter of two accounting systems in competition for winner of the most accurate award. The system relied upon by Mr. Bernick is so out of whack with economic reality, that not even Mr. Wortzman's eloquent and elaborate argument can overcome the fundamental flaw; that is, that to be considered an acceptable system of accounting for Canadian tax purposes it must meet the underlying fundamental criteria of accuracy in computing income. It does not.
+[43] Further, this is not a Singleton v. Canada[13] or Ludco Enterprises Ltd. v. Canada[14] situation. Mr. Wortzman's analogy that the legal characterization of a relationship cannot be supplanted by economic reality is not a principle to be applied when dealing with accounting principles. Accounting principles are to be based on economic reality. It is simply a different situation.
+[44] Having concluded that the method employed by Mr. Bernick does not result in an accurate portrayal of income, it becomes unnecessary to follow the balance of Justice Iacobucci's road map, other than to confirm that the Respondent's portrayal of Mr. Bernick's income is accurate. By not following the balance of the recommended process, I am left with some sense of short-changing counsel, as I could indeed say a great deal about whether the accounting principles relied upon by Mr. Bernick were inconsistent with established case law principles or rules of law, or inconsistent with well-accepted business principles. I could also go on at some length about Bahamian GAAP, Canadian GAAP, US GAAP and international accounting standards and the role they might have played as interpretative aids in such an analysis. I could have carefully dissected Mr. Butler's opinion to determine how supportive it really was, if at all. While this is all superfluous as the prerequisite to entering such territory has not been met, I do want to, for Mr. Wortzman's benefit, indicate, briefly, my thoughts on one aspect of Mr. Butler's opinion.
+[45] Mr. Butler's opinion of the acceptability of the accounting principles relied upon by Mr. Bernick was premised on the UK Bond being considered a long‑term investment. The UK Bond was not a long-term investment. It constituted inventory to be traded in the short term. Mr. Butler's characterization was not appropriate to this particular business. I was not, therefore, convinced that Mr. Bernick had proven that his principle was a well-accepted business principle. I was satisfied with the Crown's expert's testimony, that recording acquisitions of inventory in a non-monetary exchange at its fair value was a well-accepted business principle. Consequently, Mr. Bernick's principle was inconsistent with well-accepted business principles.
+[46] How does a sophisticated businessman come to rely on a principle for computation of his income for Canadian tax purposes, that any reasonable commercially-minded person would, to borrow Mr. Wortzman's phrase, recoil from? Mr. Bernick recognized he had an economic gain, though that did not necessarily imply to him that he had an income gain for tax purposes. This is perhaps a matter of too much business sophistication. The less sophisticated businessperson presumes the economic gains as taxable. The more sophisticated presumes he can rely on what he believes is GAAP in a foreign jurisdiction to achieve a deferral of tax in Canada, due to the very interplay between accounting principles and taxation laws. This is an appropriate segue to the issue of penalties.
+[47] Subsection 163(2) for the years in question reads as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence in the carrying out of any duty or obligation imposed by or under this Act, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year as required by or under this Act or a regulation, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amount that would be deemed by subsection 120(2) to have been paid on account of the person's tax for the year
+if the person's taxable income for the year were computed by adding to the taxable income reported by the person in the person's return for the year that portion of the person's understatement of income for the year that is reasonably attributable to the false statement or omission and if the person's tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amount that would have been deemed by subsection 120(2) to have been paid on account of the person's tax for the year
+had the person's tax payable for the year been assessed on the basis of the information provided in the person's return for the year,
+[48] There are two possibilities as to what constitutes the false statement or omission. The first is that the false statement was Mr. Bernick's reporting in his income tax returns of significant losses in 1992, 1993 and 1994. I have no difficulty in finding Mr. Bernick knew he made economic gains from the UK Bond and not losses in those years. That, of itself, does not lead however to the conclusion that he knowingly filed false returns for tax purposes by incorrectly reporting losses. This whole case is premised on Mr. Bernick's belief that the differences in accounting systems allowed him to do exactly what he did – jump through a legitimate loophole. Indeed, he presented a Bahamian chartered accountant with Canadian training as an expert who suggested the financial statements upon which Mr. Bernick relied may have been appropriate even under Canadian GAAP. While I might dismiss that notion, after hearing Professor Thornton's testimony, can I assume that Mr. Bernick was so versed in Canadian tax laws that he should have ignored his professional advisors and said, no, wait a minute, this does not seem right? I do not believe so. I interpret Mr. Bernick's actions as those of a sophisticated businessman who believes he has found a legitimate loophole in the Canadian tax system, and has taken advantage of it. Unfortunately for Mr. Bernick, I have found that his loophole was illusory. That finding, however, cannot be presumed back ten years and imputed as self evident to Mr. Bernick, such that he should have known his returns were completed incorrectly.
+[49] Mr. Bernick knew he would face a tax liability. He believed that it would occur upon his or his wife's death, and he took out the appropriate insurance to cover that inevitability. I am satisfied that the import of a capital gain on death as opposed to an income inclusion during life was not a motivating factor.
+[50] The evidence does suggest that Mr. Bernick arranged his affairs to take advantage of the accounting treatment he believed was available to him. To find that he knowingly, or under circumstances amounting to gross negligence, made a false statement regarding the availability of losses would require proof that he went further than simply taking advantage of the Bahamian accounting treatment, but indeed orchestrated that treatment. Mr. Bernick may have orchestrated the Partnership investment, but the Respondent has not proven on a balance of probabilities that part of that orchestration involved a direction by Mr. Bernick to Mr. Toothe, the managing partner, and to Mr. Jones, the auditor, that the Bonds must be recorded at maturity value. In other words, Mr. Bernick did not set the accounting treatment to be followed, but he did take advantage of the perceived acceptable accounting treatment once known. The onus is on the Crown to prove Mr. Bernick's false statement with respect to losses. They did not call either Mr. Toothe or Mr. Jones. They received no evidence from Mr. Bernick that he made any demands regarding the accounting treatment. Failing that, I cannot find that Mr. Bernick acted falsely or with gross negligence in reporting losses.
+[51] I portray the circumstances in terms of Mr. Bernick trying one on with CCRA, based on the perceived idiosyncrasies of foreign accounting principles. His efforts have not proven successful.
+[52] The second possibility of the false statement or omission is the presentation of the financial statements themselves; firstly, by recording the UK Bond at its maturity value, and secondly, by the omission of not indicating that the UK Bond was recorded at its maturity value. Certainly, the financial statements do indicate the current value, but they do not indicate that the value shown as cost is the maturity value. Mr. Wortzman argued that the statements' intended users, the partners, all were aware of that. While I have found that the financial statements did not reflect a true and accurate picture of Mr. Bernick's income for Canadian tax purposes, were the statements in the financial statements false or was there an omission? Mr Bernick did not directly make the statement or omission, but in filing the financial statements with his returns, he did participate in, assent to or acquiesce in their making. To be penalized under subsection 163(2), the statements must be false "for purposes of this Act". I accept that Mr. Bernick believed that the financial statements were true in accordance with Bahamian GAAP. That is not the test. Did he believe they were true for purposes of the Income Tax Act of Canada? The onus is on the Crown to prove that on a balance of probabilities. What has been proven in that regard?
+1. Mr. Bernick was put in touch with Mr. Thornton prior to the formation of the Partnership.
+2. The formation of the Partnership, transfer into the Partnership of the UK Bond by a third party in exchange for units; and purchase of 90 per cent of the units by Mr. Bernick from the third party all happened within a very short period of time.
+3. Mr. Bernick was a sole investment advisor with the Partnership.
+4. Mr. Bernick would not normally invest in bonds such as the UK Bond – his expertise was with the fire and marine convertible bonds.
+5. Mr. Bernick offset significant income in each of 1992, 1993 and 1994 against the losses.
+6. Mr. Bernick went through a similar exercise in later years through Sycamore Investments.
+7. The financial statements recorded the cost of the UK Bond at an amount equivalent to its maturity value without revealing explicitly it was a maturity value and without revealing the nature of the marketable securities.
+8. The financial statements were prepared by a Canadian chartered accountant who stated they were prepared in accordance with GAAP.
+9. Mr. Bernick saw the September 4, 1994, Partnership balance sheet, which recorded the UK Bond at maturity value in 1992.
+10. Mr. Bernick reviewed the 1992 financial statements in the spring of 1993.
+11. Mr. Bernick received advice from accountants that he could offset the losses against his income.
+[53] The evidence supports the position that Mr. Bernick knowingly entered a tax-avoidance plan, but falls short of establishing a knowledge that the plan was doomed to fail. In other words, he hoped and believed that the losses would be acceptable to the Government of Canada. There was no evidence he received any advice to the contrary. The financial statements were integral to the plan. I accept that he believed the statements were true vis-à-vis what they stated. What they did not say however is another matter.
+[54] The financial statements could have been more clearly stated. They could have explicitly indicated that the cost of the UK Bond was recorded at maturity value. This was an omission, and it was misleading. This is the most that can be said of Mr. Bernick's behaviour that could possibly be caught by the opening words of subsection 163(2) of the Act. He knowingly acquiesced in the making of an omission, for by the time he filed his returns he knew his favourable tax treatment hinged on the recording of the UK Bond's cost at maturity. He knew the financial statements were not explicit in that regard, notwithstanding an auditor confirmed they were prepared in accordance with GAAP. Such confirmation does not preclude a finding of an omission for Canadian tax purposes.
+[55] It is not, however, the omission that leads to an understatement of income. Even had the financial statements clearly stated the cost was at maturity value, the issue would be the same – does the recording of the UK Bond at maturity value create an accurate picture of profit? The determination of the subsection 163(2) penalty is based upon taxable income computed by adding the portion of the understatement of income that is reasonably attributable to the omission. The understatement of income is not attributable to the omission: it is only attributable to the accounting principle which Mr. Bernick claims supports the recording of the UK Bond at maturity. The Government, because of the omission, had to dig a little deeper to get at that principle; the understatement of income flows from the principle, not from the omission.
+[56] I find there has been insufficient proof that Mr. Bernick knowingly understated his income for tax purposes. He believed he had found a defensible loophole. As it turns out, he has not. However, I do find that he knowingly acquiesced in the omission of some critical information in the financial statements filed with his returns; that is, the lack of disclosure of the recording of the UK Bond at maturity. He is subject to subsection 163(2), but the penalty is limited in each of the three years to $100 per year, as the omission itself was not what lead to the understatement of income.
+Conclusion
+[57] Our tax laws have become such a complicated patchwork of do's and don'ts, exemptions on exemptions, schemes within schemes, and case-law moulding statute, that I am in this case faced with a distinguished lawyer presenting a plausible, well-argued proposition that someone who has made an economic gain on a trade can legitimately deduct significant losses from that trade, due to a choice of accounting principles. As even Mr. Wortzman recognized, the immediate and understandable reaction is to recoil from such a notion. Yet he went on to weave a pattern of legitimacy that he hoped might lead to acceptance of such a proposition. It has not worked. To accept Mr. Wortzman's argument would be to place the role of GAAP, foreign or otherwise, on a higher level than the courts have found it deserves. Generally accepted accounting principles are interpretative aids only. The short answer in this case is that the Partnership's financial statements do not accurately reflect Mr. Bernick's income picture for Canadian tax purposes.
+[58] What I find most unsettling is that a sophisticated businessman would believe this could be possible. And yet I do not fault him for such a belief, nor do I presume that he could not hold such a belief. Indeed, I have concluded just the opposite. Mr. Wortzman argued ably as to the very possibility of such a proposition, giving credence to such a belief. This goes to a deeper concern that the Canadian taxpayer believes that in the complicated world of taxation laws anything is possible – the incredible becomes credible. As in the recently acclaimed novel, The Life of Pi, where one is drawn into being convinced that a young man and a Siberian tiger can truly live together in a lifeboat for 260 days, on reflection it just does not seem possible. It is not. Neither are Mr. Bernick's losses.
+[59] I allow the appeal only in connection with the penalties imposed by CCRA, referring the matter back for reconsideration and reassessment on the basis that penalties are to be reduced to $100 each for 1992, 1993 and 1994. Costs to the Respondent.
+Signed at Ottawa, Canada, this 26th day of June, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC433
+COURT FILE NO.:
+1999-2485(IT)G
+STYLE OF CAUSE:
+Henry Bernick and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 11, 12 and 13, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Campbell J. Miller
+DATE OF JUDGMENT:
+June 26, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Barry Wortzman and Gaynor J. Roger
+Counsel for the Respondent:
+Margarett J. Nott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Barry Wortzman and Gaynor J. Roger
+Firm:
+Shibley Righton LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tab 18, page 2.
+[2] Exhibit R-1, Tab 18, page 1.
+[3] Exhibit R-1, Tab 24.
+[4] Exhibit R-1, Tab 1.
+[5] Exhibit R-1, Tab 17.
+[6] Letter dated February 26, 2003 from Dayrrl R. Butler to Mr. Toothe and Wortzman.
+[7] [1991] F.C.J. No. 1255 (C.A.), upheld [1993] S.C.J. No. 123 (S.C.C.).
+[8] 98 DTC 6100 (S.C.C.).
+[9] 99 DTC 5669 (S.C.C.).
+[10] supra.
+[11] 57 DTC 1017 at page 1026.
+[12] 92 DTC 6023 (F.C.C.A.).
+[13] [2001] 2 S.C.R. 1046.
+[14] [2001] 2 S.C.R. 1082.

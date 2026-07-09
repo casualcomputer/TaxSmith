@@ -1,0 +1,186 @@
+Title: CalAmp Wireless Networks Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31222/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-201-31222-calamp-wireless-networks-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-06-25
+
+# CalAmp Wireless Networks Inc. c. La Reine
+
+- Citation: 2013 CCI 201
+- Decision date: 2013-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5127, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CalAmp Wireless Networks Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-25
+Référence neutre
+2013 CCI 201
+Numéro de dossier
+2010-3708(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3708(IT)G
+ENTRE :
+CalAmp WIRELESS NETWORKS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 avril 2013, à Montréal (Québec).
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Avocat de l’appelante :
+Me Louis-Frédérick Côté
+Avocat de l’intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 qui s’est terminée le 9 mai 2006 est rejeté, conformément aux motifs du jugement ci‑joints.
+Les parties ont jusqu’au 25 juillet 2013 pour en arriver à une entente sur les dépens, à défaut de quoi il leur est ordonné de déposer leurs observations écrites relatives aux dépens au plus tard le 26 août 2013. Ces observations ne doivent pas dépasser cinq pages.
+Signé à Ottawa, Canada, ce 25e jour de juin 2013.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 19e jour d’août 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 201
+Date : 20130625
+Dossier : 2010-3708(IT)G
+ENTRE :
+CalAmp WIRELESS NETWORKS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel interjeté en vertu de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de l’année d’imposition 2006. La question en litige est de savoir si l’appelante a droit au crédit d’impôt à l’investissement (le « CTI ») à l’égard des gratifications qu’elle a versées à ses employés exerçant des activités de recherche scientifique et de développement expérimental (« RS&DE »).
+[2] Plus particulièrement, par avis de cotisation daté du 25 février 2009, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelante pour l’année d’imposition qui s’est terminée le 9 mai 2006, réduisant de 131 260 $ le CTI remboursable de 302 973 $ que l’appelante avait demandé, compte tenu du fait que la somme de 1 990 036 $ (gratifications versées aux employés de l’appelante exerçant des activités de RS&DE) n’était pas une dépense pour des activités de RS&DE directement exercées par l’appelante et n’était donc pas une dépense admissible.
+[3] À tous les autres égards, cet avis de cotisation était une cotisation portant qu’aucun impôt n’était payable.
+[4] Le 19 mai 2009, l’appelante s’est opposée à la cotisation du ministre établie à son égard pour l’année d’imposition qui s’est terminée le 9 mai 2006.
+[5] Par avis de ratification daté du 17 septembre 2010, le ministre a ratifié la cotisation établie à l’égard de l’appelante pour l’année d’imposition qui s’est terminée le 9 mai 2010.
+[6] En l’espèce, la somme totale en litige s’élève à 131 260 $.
+Les faits
+[7] Pendant les années antérieures au mois de mai 2006, Dataradio Inc. (« Vieille Dataradio ») était une société constituée en vertu de la Loi canadienne sur les sociétés par actions dont le siège social était situé dans la région métropolitaine de Montréal, dans la province de Québec.
+[8] Pendant les années antérieures au mois de mai 2006, Vieille Dataradio était une société privée sous contrôle canadien.
+[9] Vieille Dataradio se consacrait à la conception, à la fabrication, à la mise en marché et à la vente de produits de technologie sans fil pour les applications fixes et mobiles.
+[10] Pour les années antérieures à 2006, l’année d’imposition de Vieille Dataradio se terminait le 31 juillet de chaque année civile.
+[11] À la fin de l’année 2005, ou au début de 2006, Vieille Dataradio a demandé que son année d’imposition soit modifiée de manière à se terminer le 28 février de chaque année civile, et à ce qu’elle corresponde ainsi à la fin de l’année d’imposition d’un acheteur potentiel : CalAmp Corp.
+[12] La première fin de l’année d’imposition de Vieille Dataradio pour 2006 était le 28 février 2006.
+[13] CalAmp Corp. est constituée en société en vertu des lois de l’État du Delaware et son siège social se trouve dans l’État de la Californie. Elle est cotée en bourse au NASDAQ.
+[14] 4308093 Canada Inc. (« 4308093 ») a été constituée en société en vertu de la Loi canadienne sur les sociétés par actions et est une filiale à cent pour cent de CalAmp Corp.
+[15] Le 9 mai 2006, CalAmp Corp. a acquis toutes les actions en circulation de Vieille Dataradio par le truchement de sa filiale à cent pour cent, 4308093, pour 54 291 000 $US (soit 60 100 000 $CAD).
+[16] CalAmp Corp. a payé une prime en plus de son évaluation de la juste valeur marchande des biens de Vieille Dataradio; une des raisons était qu’elle aurait accès aux ressources en ingénierie de Vieille Dataradio ainsi qu’à un nouveau marché.
+[17] CalAmp Corp. avait l’intention de poursuivre les opérations de Vieille Dataradio après l’acquisition et de garder tous les employés de Vieille Dataradio en les rémunérant selon la même échelle salariale.
+[18] Vieille Dataradio a affecté la somme de 5 355 000 $US (soit 5 900 000 $CAD) aux gratifications destinées au personnel de Vieille Dataradio; le personnel n’était pas tenu de rester au service de CalAmp Corp. pour toucher ces gratifications.
+[19] La seconde fin d’année d’imposition de Vieille Dataradio pour 2006 était le 9 mai.
+[20] Le 10 mai 2006, Vieille Dataradio a cessé d’être une société privée sous contrôle canadien.
+[21] Le 30 mai 2006, Vieille Dataradio a fusionné avec 4352491 Canada Inc. en vue de créer une nouvelle société portant le numéro 4366361 (en application de la Loi canadienne sur les sociétés par actions). Cette société constituée par suite d’une fusion, l’appelante, a continué de s’appeler Dataradio Inc. jusqu’au 5 février 2010, date à laquelle elle a changé sa dénomination sociale pour CalAmp Wireless Networks Inc.
+[22] Pendant l’année d’imposition antérieure à 2006, Vieille Dataradio a eu droit à des crédits d’impôt à l’investissement à l’égard de dépenses de RS&DE admissibles qui ont été soit remboursés, soit déduits de l’impôt de la partie I en application de la Loi de l’impôt sur le revenu (la « Loi »).
+[23] Pour l’année d’imposition qui a commencé le 1er mars 2006 et s’est terminée le 9 mai 2006, l’appelante a déclaré que Vieille Dataradio avait entrepris des activités de RS&DE relativement à 14 projets ayant exigé la participation de 15 chercheurs et ingénieurs, de 22 technologues et techniciens, de 5 gestionnaires et administrateurs et, pour finir, d’une personne chargée du soutien technique (les « employés exerçant des activités de RS&DE »).
+[24] Pour l’année d’imposition qui a commencé le 1er mars 2006 et s’est terminée le 9 mai 2006, l’appelante a déclaré que Vieille Dataradio avait versé la somme de 2 589 681 $ en salaires à ses employés exerçant des activités de RS&DE (cette somme n’inclut pas les salaires versés aux employés déterminés).
+[25] La somme de 2 589 681 $, qui a été déclarée à titre de salaires versés aux employés exerçant des activités de RS&DE de Vieille Dataradio, incluait une somme de 1 990 036 $ correspondant aux gratifications susmentionnées, au paragraphe 18.
+[26] Dans les années antérieures à 2006, Vieille Dataradio avait souvent versé des gratifications à ses employés exerçant des activités de RS&DE. Toutefois, la preuve a montré que : i) avant 2006, la politique de Vieille Dataradio consistait à payer de modestes gratifications de Noël aux salariés, que ce soit prévu dans leurs contrats ou non (pièce A‑1, sous les onglets 7 et 8); ii) le montant de ces gratifications variait en fonction des résultats financiers annuels de Vieille Dataradio, et M. Robert Rouleau (président de l’appelante pendant la période en cause) a déclaré que, dans le cas des employés exerçant des activités de RS&DE, l’objectif de Vieille Dataradio était de leur verser des gratifications équivalant à un peu plus de deux semaines de salaire. Le contre‑interrogatoire de M. Rouleau a donné lieu à l’étude d’un exemple typique, à savoir le cas de M. Jonathan Beaulieu, qui a reçu des gratifications de 2 500 $, de 1 500 $, de 2 020 $ et de 2 020 $ en 2002, en 2003, en 2004 et en 2005, respectivement; iii) au total, Vieille Dataradio a versé pour 201 233 $ de gratifications en 2002 et pour 140 171 $ de gratifications en 2003 (pièce I‑2); iv) Vieille Dataradio a versé à M. Beaulieu une gratification de 24 242 $ en 2006 (pièce I‑1, sous l’onglet 2, page 1) et, par année civile, le salaire annuel de celui‑ci s’élevait à environ 52 530 $ (pièce A‑1, sous l’onglet 9, page 2); v) pour l’année d’imposition 2006, les gratifications s’élevant à 5 900 000 $ ont été payées à différentes catégories d’employés, et pas uniquement aux employés exerçant des activités de RS&DE.
+[27] La direction de Vieille Dataradio (le « vendeur »), avec le consentement de CalAmp Corp. (l’« acheteur »), a défini le montant des gratifications versées pour 2006 en fonction du nombre d’années de service, du salaire courant et du mérite.
+[28] Les gratifications s’élevant à 1 990 036 $ qui ont été versées aux employés exerçant des activités de RS&DE de l’appelante ont été effectivement payées aux employés de l’appelante le 23 juin 2006 ou après cette date.
+[29] L’article 6.5 de la convention d’achat d’actions (pièce I‑1, sous l’onglet 9) établit clairement que CalAmp Corp. avait l’intention de continuer d’employer tout le personnel de Vieille Dataradio sur une base volontaire; toutefois, le versement des gratifications n’était pas assujetti à un quelconque engagement des employés de rester travailler pour CalAmp Corp.
+[30] L’article 6.11 de la convention d’achat d’actions (pièce I‑1, sous l’onglet 9) montre que les gratifications ont été comptabilisées à la date de clôture.
+[31] Je voudrais également souligner le fait que l’appelante n’a pas remis en cause les hypothèses de fait suivantes, énoncées au paragraphe 11 de la réponse à l’avis d’appel.
+[traduction]
+w) D’un point de vue légal, les employés exerçant des activités de RS&DE de Vieille Dataradio ne détenaient aucun droit au versement des gratifications.
+[…]
+z) Avant de verser les gratifications, la direction de Vieille Dataradio les a présentées à ses employés comme un cadeau.
+aa) Les gratifications qui ont été versées aux employés exerçant des activités de RS&DE de l’appelante n’étaient pas liées à la poursuite d’activités de RS&DE entreprises au cours de la période qui a commencé le 1er mars 2006 et s’est terminée le 9 mai 2006.
+bb) La portée et la nature des activités de RS&DE entreprises pendant la période qui a commencé le 1er mars 2006 et s’est terminée le 9 mai 2006 n’étaient en aucune manière liées au versement de gratifications.
+cc) Pour la période qui a commencé le 1er mars 2006 et s’est terminée le 9 mai 2006, les salaires ordinaires versés aux employés exerçant des activités de RS&DE de Vieille Dataradio s’élevaient au total à 600 887 $ (ce qui n’incluait ni les salaires versés aux employés déterminés ni les gratifications).
+[32] Pour finir, la preuve montre que l’appelante avait choisi (pièce I‑1, sous l’onglet 3D, page 45), conformément au paragraphe 37(10) de la Loi, d’employer la méthode de remplacement prévue à la division 37(8)a)(ii)(B) de la Loi afin de calculer le montant de ses dépenses de RS&DE. Pour calculer le montant de ses dépenses de RS&DE pour 2006, l’appelante a inclus le montant des gratifications versées à ses employés exerçant directement des activités de RS&DE, en application de la sous‑division 37(8)a)(ii)(B)(IV) de la Loi, lesquelles gratifications s’élevaient à 1 990 036 $.
+[33] Je voudrais également souligner le fait que l’appelante et l’intimée conviennent de ce qui suit :
+i) le présent appel porte sur la catégorie B et non sur la catégorie C;
+ii) dans l’intitulé du présent appel, l’appelante sera désignée correctement sous le nom de CalAmp Wireless Networks Inc.
+La question en litige
+[34] Vu que, dans la déclaration de revenus qu’elle a produite pour 2006, l’appelante a choisi, conformément au paragraphe 37(10) de la Loi, d’utiliser la méthode de remplacement prévue par la division 37(8)a)(ii)(B) de la Loi pour calculer ses dépenses de RS&DE, je suis d’avis que la seule question en litige en l’espèce est de savoir si la somme de 1 990 036 $ constituait « la partie d’une dépense faite relativement à des frais engagés [par l’appelante] au cours de l’année [2006] pour le traitement ou le salaire […] » au sens de la sous‑division 37(8)a)(ii)(B)(IV) de la Loi. Autrement dit, il suffit d’établir s’il existe un lien raisonnable entre les gratifications et les activités de RS&DE.
+La thèse de l’appelante
+[35] Les observations écrites de l’appelante sont les suivantes :
+[traduction]
+QUESTION :
+La question que la Cour doit trancher est de savoir si, dans la nouvelle cotisation qu’il a établie à l’égard de l’appelante pour l’année d’imposition qui s’est terminée le 9 mai 2006, le ministre a à juste titre réduit de 131 260 $ le montant du crédit d’impôt à l’investissement remboursable au motif qu’une somme de 1 990 036 $ ne constituait pas une dépense de RS&DE et ne devrait pas être considérée comme une dépense admissible.
+RÉPONSE :
+Au sens du paragraphe 127(9) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e supplément) (ci‑après la « Loi ») (sous l’onglet 3 du cahier de jurisprudence de l’intimée), une dépense admissible est une dépense engagée par un contribuable au cours d’une année d’imposition, soit une dépense engagée par le contribuable au cours de l’année relativement à des activités de recherche scientifique et de développement expérimental qui est, entre autres possibilités, visée à l’alinéa 37(1)a) (sous l’onglet 1 du cahier de jurisprudence de l’intimée). Il n’y a aucune restriction au sujet de la longueur d’une année d’imposition. Autrement dit, le législateur a tenu compte du fait qu’un contribuable pouvait se restructurer ou conclure une transaction susceptible d’avoir des répercussions sur la longueur de l’année d’imposition, et le législateur ne voulait pas restreindre le montant des dépenses admissibles en fonction de la longueur de l’année d’imposition.
+L’alinéa 37(1)a) de la Loi (sous l’onglet 1 du cahier de jurisprudence de l’intimée) fait référence aux montants dont chacun représente une dépense de nature courante qu’un contribuable a faite au cours de l’année ou d’une année d’imposition antérieure se terminant après 1973 pour des activités de recherche scientifique et de développement expérimental exercées au Canada directement par le contribuable ou pour son compte, en rapport avec une entreprise du contribuable. Encore une fois, il n’existe aucune restriction relative à la longueur de l’année d’imposition. En outre, la référence à une année d’imposition ou à une année d’imposition antérieure qui s’est terminée après 1973 montre que le législateur avait l’intention d’augmenter les avantages offerts aux contribuables. Il n’y avait aucune intention restrictive.
+Selon l’article 37 de la Loi (sous l’onglet 1 du cahier de jurisprudence de l’intimée), une dépense faite pour des activités de RS&DE est une dépense faite relativement à des frais engagés au cours de l’année pour le traitement ou le salaire d’un employé exerçant directement des activités de RS&DE au Canada, qu’il est raisonnable de considérer comme se rapportant à ce travail compte tenu du temps que l’employé y consacre; à cette fin, la partie de dépense est réputée correspondre au montant de la dépense si elle en constitue la totalité ou presque. Encore une fois, il n’est pas question de la longueur de l’année d’imposition. En outre, cet article renvoie à la nature du travail accompli par les employés. En l’espèce, les gratifications ont été versées aux employés exerçant des activités de RS&DE parce qu’ils effectuaient des travaux de RS&DE. Il existe un lien direct entre les gratifications qui ont été versées en l’espèce et la nature du travail accompli par les employés. Les déclarations du témoin de l’appelante sont claires : pour 2006, il existe un lien évident entre la nature du travail accompli (RS&DE) et les gratifications. En l’espèce, l’historique des gratifications en cause est évident : par personne, les employés exerçant des activités de RS&DE recevaient toujours plus de gratifications que les autres employés parce qu’ils effectuaient des travaux de RS&DE.
+Selon le paragraphe 37(9) de la Loi (sous l’onglet 1 du cahier de jurisprudence de l’intimée), pour l’application des dispositions relatives aux dépenses de RS&DE, une dépense ne comprend pas une gratification si celle‑ci se rapporte à un employé déterminé (sous l’onglet 1 du cahier de jurisprudence de l’intimée). En l’espèce, la preuve montre clairement que les gratifications n’ont pas été versées à des employés déterminés (voir l’alinéa 11s) de la réponse à l’avis d’appel).
+Par conséquent, quand le législateur a eu l’intention de limiter les dépenses de RS&DE, il l’a fait expressément. La Loi ne comporte aucune restriction visant les gratifications en cause en l’espèce. Par conséquent, comme la Cour suprême du Canada l’a jugé dans de nombreux arrêts (parmi lesquels Copthorne Holdings Limited, sous l’onglet 17 du cahier de jurisprudence de l’appelante, à la page 759, et Multiform Manufacturing Co. Limited, sous l’onglet 18 du cahier de jurisprudence de l’appelante, page 6), quand le législateur a l’intention d’imposer des limites dans un domaine particulier et qu’il légifère expressément en ce sens, il n’impose aucune limite relativement à d’autres domaines. Autrement dit, vu que le législateur a exclu les gratifications versées aux employés déterminés, les gratifications versées aux autres employés constituent des dépenses admissibles.
+En l’espèce, il est clair que les gratifications doivent être incluses dans le calcul du revenu imposable des employés (voir la définition de « traitement ou salaire » à l’article 248 de la Loi (sous l’onglet 4 du cahier de jurisprudence de l’intimée). À cet égard, je voudrais souligner que, dans sa lettre d’interprétation 9320837 datée du 26 novembre 1993, l’Agence du Revenu du Canada (« l’ARC ») a exprimé l’opinion selon laquelle tous les éléments à l’égard desquels un employé sera imposable sont des dépenses de RS&DE (voir l’onglet 7 du cahier de jurisprudence de l’appelante; voir le paragraphe à la page 2 de 6 qui commence par « En tenant compte… »). En l’espèce, l’intimée s’efforce de restreindre la portée de sa propre lettre d’interprétation.
+En outre, comme il ressort plus clairement d’une autre lettre d’interprétation publiée par l’ARC, 96‑06, le 28 juin 1996 (sous l’onglet 10 du cahier de jurisprudence de l’appelante; voir le paragraphe qui commence par « Gratification désigne… » à la page 38 de 47), l’ARC a expressément émis l’opinion selon laquelle il n’y avait aucune restriction à l’égard des gratifications accordées relativement aux dépenses de RS&DE. Ainsi, l’ARC fait expressément mention du fait que les gratifications sont admissibles à des fins de RS&DE et n’impose aucune restriction. En l’espèce, l’intimée s’efforce d’imposer des restrictions au concept de gratification. Cela va manifestement à l’encontre du point de vue adopté par l’ARC dans le passé.
+Comme la Cour suprême du Canada l’a clairement affirmé (dans l’arrêt Harel, sous l’onglet 19 du cahier de jurisprudence de l’appelante, à page 859), l’interprétation administrative ne peut pas aller à l’encontre d’un texte législatif clair; toutefois, une interprétation administrative a une valeur certaine et, en cas de doute sur le sens de la législation, devient un facteur important. Autrement dit, si la Cour entretient quelque doute que ce soit au sujet du sens de la législation, les interprétations administratives susmentionnées ont une valeur. Vu que l’ARC a toujours accepté la déduction des gratifications versées aux employés qui ne sont pas des employés déterminés, sans restriction, la Cour doit conclure qu’en l’espèce, les gratifications sont admissibles à titre de dépenses de RS&DE et doit rejeter les restrictions que l’intimée s’efforce d’introduire.
+Comme la Cour suprême du Canada l’a déclaré à maintes reprises (par exemple dans les arrêts Placer Dome, sous l’onglet 14 du cahier de jurisprudence de l’appelante, pages 727, 728 et 729, Hypothèques Trustco, sous l’onglet 15 du cahier de jurisprudence de l’appelante, page 610, et Corporation Notre‑Dame de Bon‑Secours, sous l’onglet 16 du cahier de jurisprudence de l’appelante, page 20), l’interprétation des lois fiscales devrait suivre les règles d’interprétation courantes. La Cour doit examiner l’objet de la loi. Comme nous l’avons vu plus tôt, le législateur n’a en aucune manière limité le concept d’« année d’imposition », et, quand il a souhaité limiter quelque chose, il l’a fait expressément (les gratifications versées aux employés déterminés étant exclues). Par conséquent, les gratifications accordées aux employés non déterminés doivent être incluses. Pour finir, un doute raisonnable et non dissipé par les règles ordinaires d’interprétation doit être résolu par le recours à la présomption en faveur du contribuable (voir l’arrêt Corporation Notre‑Dame de Bon‑Secours, à la page 20). Autrement dit, si la Cour nourrit un doute quant à l’interprétation de la loi, l’appelante doit avoir gain de cause.
+Pour finir, comme la Cour suprême du Canada l’a souligné dans l’arrêt Hickman Motors Limited (sous l’onglet 13 du cahier de jurisprudence de l’appelante, pages 26 et 27), dans le domaine du droit fiscal, la norme de la preuve est la prépondérance des probabilités. La charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable. Le contribuable s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie. En l’espèce, l’appelante a manifestement présenté une preuve prima facie selon laquelle les gratifications ont été versées aux employés, qui n’étaient pas des employés déterminés, parce qu’ils exerçaient des activités de RS&DE, et la loi ne prévoit aucune restriction à l’égard de tels employés. Quand le législateur a eu l’intention d’imposer des restrictions, il l’a fait expressément, et c’est ce qui ressort manifestement des dispositions relatives à l’exclusion des gratifications versées aux employés déterminés. En outre, la loi ne prévoit aucune restriction à l’égard de la longueur de l’année d’imposition. Par conséquent, si l’intimée souhaite introduire des restrictions (au sujet de la longueur de l’année d’imposition et des gratifications, en sus des restrictions particulières à l’égard d’employés déterminés), c’est à elle qu’incombe le fardeau de la preuve.
+[36] En l’espèce, les observations écrites de l’appelante sont instructives, mais elles n’abordent pas la seule question en litige pertinente : existe-t-il un lien raisonnable entre les gratifications et la poursuite des activités de RS&DE? L’appelante n’a pas reconnu que, en application de la méthode de remplacement, comme cela est le cas en l’espèce, les traitements et les salaires versés pour des activités de RS&DE sont déductibles en application de la sous‑division 37(8)a)(ii)(B)(IV) de la Loi, qui est ainsi rédigée :
+(8) Dans le cadre du présent article :
+a) les mentions des dépenses afférentes aux activités de recherche scientifique et de développement expérimental :
+[…]
+(ii) lorsqu’elles figurent ailleurs qu’au paragraphe (2), se limitent :
+[…]
+(B) si un contribuable en fait le choix sur formulaire prescrit et en conformité avec le paragraphe (10) pour une année d’imposition, aux dépenses engagées par lui au cours de l’année, représentant chacune :
+[…]
+(IV) soit la partie d’une dépense faite relativement à des frais engagés au cours de l’année pour le traitement ou le salaire d’un employé exerçant directement des activités de recherche scientifique et de développement expérimental au Canada, qu’il est raisonnable de considérer comme se rapportant à ce travail compte tenu du temps que l’employé y consacre; à cette fin, la partie de dépense est réputée correspondre au montant de la dépense si elle en constitue la totalité, ou presque,
+[…]
+[Non souligné dans l’original.]
+[37] La sous‑division 37(8)a)(ii)(B)(IV) de la Loi établit clairement que seule la partie du traitement ou du salaire qu’il est raisonnable de considérer comme se rapportant à des activités de RS&DE peut être déductible à titre de dépense de RS&DE.
+[38] Étant donné que la question de savoir si toute partie d’une gratification peut se rapporter à des activités de RS&DE exercées pendant l’année en cause constitue une question de fait, je dois établir la nature des raisons qui sous-tendent le versement de la gratification. À cette fin, je dois distinguer la méthode de calcul des gratifications des motifs de versement de ces gratifications. Les motifs de paiement des gratifications révéleront s’il existe un lien suffisant avec la RS&DE.
+[39] En l’espèce, M. Rouleau a déclaré que la méthode de calcul des gratifications était fondée sur le nombre d’années de service, le salaire courant et le mérite de chaque employé.
+[40] Toutefois, la preuve montre que les gratifications étaient principalement payées en fonction de deux critères :
+a. la conviction de l’actionnaire de Vieille Dataradio, qui pensait que les salariés devraient obtenir leur part des profits générés par la vente de la société (pièce I‑1, sous l’onglet 8, à la page 2);
+b. l’avantage qui résulte pour l’acheteur, CalAmp Corp., de la mise en place de conditions favorisant le maintien en poste des employés à la suite de l’acquisition de Vieille Dataradio (pièce I‑1, sous l’onglet 4, pages 50 et 51 : sous l’onglet 5, page 4 (3e paragr. : [traduction] « […] En outre, avec un changement de direction, beaucoup d’employés ont tendance à quitter ou à prendre leur retraite. Le versement d’une gratification est une décision stratégique à laquelle l’acheteur a consenti. […] »; sous l’onglet 9, page 43, paragr. 6.5.
+[41] Je suis d’avis qu’il n’y pas de rapport entre le versement des gratifications en cause et la politique de gratification adoptée dans le passé par Vieille Dataradio relativement à tout travail de RS&DE entrepris pendant l’année en cause. La politique traditionnelle de Vieille Dataradio contraste vivement avec les paiements qu’elle a faits à ses employés pendant l’année d’imposition en cause, qui se rapporte à une période d’environ deux mois. Par exemple, M. Beaulieu a reçu une gratification de 24 242 $ en 2006, soit une somme presque dix fois plus élevée que toute gratification reçue par le passé.
+[42] Il convient également de souligner que M. Rouleau (seul témoin de l’appelante) a admis en toute franchise que les gratifications qui avaient été versées aux employés exerçant des activités de RS&DE de Vieille Dataradio n’avaient pas de rapport avec les activités de RS&DE qui avaient été exercées pendant les deux mois de l’année 2006 (voir la transcription, à la page 56, lignes 17 à 24).
+[43] La sous‑division 37(8)a)(ii)(B)(IV) de la Loi limite également les montants déductibles aux dépenses engagées au cours d’une année. Il ressort clairement du début de la division 37(8)a)(ii)(B) de la Loi que le mot « année » qui est employé à la sous‑division 37(8)a)(ii)(B)(IV) renvoie au concept d’« année d’imposition », qui correspond, en l’espèce, à l’« exercice » de l’appelante, soit la période pour laquelle les comptes de l’appelante sont établis en vue de l’établissement d’une cotisation en vertu de la Loi (articles 249 et 249.1 de la Loi). En l’espèce, l’exercice en cause est la période qui va du 1er mars 2006 au 9 mai 2006 (pièce I‑1, sous l’onglet 3C, page 2; sous l’onglet 3D, page 44). C’est la seule période dont il convient de tenir compte pour établir si les gratifications versées aux employés exerçant des activités de RS&DE de Vieille Dataradio étaient directement liées à la poursuite des activités de RS&DE.
+[44] Je voudrais aussi souligner le fait que mon analyse s’inscrit dans le droit fil de la politique publiée par l’ARC, intitulée « Politique sur les traitements ou salaires RS&DE » (Politique sur les traitements ou salaires RS&DE, Agence du revenu du Canada : le 19 décembre 2012) qui énonce notamment ce qui suit :
+[…]
+Il n’existera aucun lien raisonnable entre la dépense et les activités de RS&DE si, par exemple, un employé […] reçoit l’un des montants suivants :
+• un salaire, y compris une gratification, lorsque le revenu qui a été utilisé pour verser ce montant n’a pas été tiré d’activités normales en cours de l’entreprise. Cela comprendrait un montant versé à un employé qui a été tiré d’une transaction en capital, comme la vente de l’entreprise, la vente d’actions ou la vente d’un bien,
+[…]
+Ces montants ne peuvent pas être attribués à la RS&DE (ne peuvent pas être des dépenses de RS&DE). En d’autres termes, la répartition du traitement ou salaire à la RS&DE est effectuée après l’exclusion de ces montants de la rémunération totale.
+[45] En outre, le versement des gratifications en cause ne répond pas au critère établi dans la décision Alcatel Canada Inc. c. Canada, 2005 CCI 149, au paragraphe 36, dans lequel il a été énoncé qu’une dépense serait notamment déductible s’il existait un « besoin récurrent de rémunérer les employés chargés » des activités de RS&DE. En l’espèce, le versement des gratifications en cause était un évènement isolé et non le résultat de l’application de la politique traditionnelle de Vieille Dataradio relative aux gratifications versées à Noël.
+[46] Pour finir, l’appelante n’a pas démontré que les dépenses en cause étaient « directement liées aux projets de recherche et également essentielles à [leur] réalisation » (Laboratoire Du‑Var Inc. c. Canada, 2012 CCI 366, aux paragraphes 27 et 34 à 38).
+[47] Pour ces motifs, l’appel sera rejeté.
+Signé à Ottawa, Canada, ce 25e jour de juin 2013.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 19e jour d’août 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 201
+NO DU DOSSIER DE LA COUR : 2010-3708(IT)G
+INTITULÉ : CalAmp Wireless Networks Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 15 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 25 juin 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Louis‑Frédérick Côté
+Avocat de l’intimée :
+Me Simon Petit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Louis‑Frédérick Côté
+Cabinet : Spiegel Sohmer Inc.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

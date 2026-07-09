@@ -1,0 +1,380 @@
+---
+title: "Desgagnés Marine St-Laurent Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521174/index.do"
+last_modified: "2023-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 147"
+citation2: ""
+neutral_citation: "2023 CCI 147"
+decision_date: "2023-10-12"
+language: "fr"
+item_id: "521174"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5695
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:35:00.677000+00:00"
+cases_cited_count: 28
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99206711d0a51829aad1a835b800679955a8c8e434f0ce367db38195c3fe9019"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desgagnés Marine St-Laurent Inc. c. Le Roi
+
+- Citation: 2023 CCI 147
+- Decision date: 2023-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5695, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desgagnés Marine St-Laurent Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-11-01
+Référence neutre
+2023 CCI 147
+Numéro de dossier
+2021-1759(EI), 2021-1761(EI)
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2021-1761(EI)
+ENTRE :
+DESGAGNÉS MARINE ST-LAURENT INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de
+Desgagnés Marine Petro inc., 2021-1759(EI)
+Le 10 janvier 2023, à Québec (Québec)
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Avocat de l’appelante :
+Me Sarto Veilleux
+Avocates de l’intimé :
+Me Anna Kirk
+JUGEMENT MODIFIÉ
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision de la ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints, sans frais.
+Ce jugement modifié est émis en remplacement du jugement daté du 12 octobre 2023.
+Signé à Toronto, Ontario, ce 12e jour d’octobre 2023.
+Signé à Montréal, Québec, ce 1er jour de novembre 2023.
+« J.M. Gagnon »
+Juge Gagnon
+Dossier : 2021-1759(EI)
+ENTRE :
+DESGAGNÉS MARINE PETRO INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de
+Desgagnés Marine St-Laurent inc., 2021-1761(EI)
+Le 10 janvier 2023, à Québec (Québec)
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Avocat de l’appelante :
+Me Sarto Veilleux
+Avocate de l’intimé :
+Me Anna Kirk
+JUGEMENT MODIFIÉ
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision de la ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints, sans frais.
+Ce jugement modifié est émis en remplacement du jugement daté du 12 octobre 2023.
+Signé à Toronto, Ontario, ce 12e jour d'octobre 2023.
+Signé à Montréal, Québec, ce 1er jour de novembre 2023.
+« J.M. Gagnon »
+Juge Gagnon
+Référence : 2023 CCI 147
+Date : 20231012
+Date : 2023-11-01
+Dossier : 2021-1761(EI)
+ENTRE :
+DESGAGNÉS MARINE ST-LAURENT INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimé.
+Dossier : 2021-1759(EI)
+ENTRE :
+DESGAGNÉS MARINE PETRO INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Gagnon
+I. Introduction
+[1] Les appelantes opèrent dans le domaine du transport maritime au Canada. L’entreprise de chacune des appelantes est basée dans la province de Québec. Chacune d’entre elles emploie des équipes de marins à bord des navires du groupe Desgagnés opérant dans ce cas-ci dans le secteur du transport pétrolier. Le déplacement d’un navire peut s’échelonner sur plusieurs semaines sans que le navire accoste ou que son équipage touche terre.
+[2] Chaque navire est constitué d’un équipage à l’emploi des appelantes. Dans le contexte, les employés occupent des postes qui requièrent dans la vaste majorité des cas une formation académique et pratique pertinente ou spécialisée propre aux fonctions et responsabilités que l’employé doit assumer dans le cadre de la prestation de services sur le navire.
+[3] Tout comme pour l’ensemble de l’industrie navale, la hiérarchie à bord du navire de marchandises est très importante et les écarts de conduite sont rarement tolérés. La sécurité est aussi omniprésente et réglementée par les autorités compétentes, l’industrie, les propriétaires et les opérateurs. Chaque membre de l’équipage assume donc des responsabilités et un rôle précis en fonction de son poste qui sont primordiaux au bon déroulement des opérations sur le navire.
+[4] Dans le cadre de ses opérations de transport commercial de marchandises, l’équipage d’un navire dont la gestion appartient aux appelantes peut aussi compter un ou plusieurs étudiants stagiaires qui sont en marge de compléter un programme académique et pratique dans le cadre de l’apprentissage d’un métier ou d’une profession lié au secteur maritime. Ces stagiaires sont notamment présents dans les équipes chargées de l’entretien et de l’opération des équipements et machineries mécaniques à bord des navires.
+[5] En lien avec le séjour d’un tel étudiant stagiaire du 4 janvier 2019 au 12 avril 2019 et du 23 septembre 2019 au 2 décembre 2019 (Période 1, Période 2 respectivement ou collectivement Périodes) sur un navire dont la gestion de la main-d’œuvre appartient à Desgagnés Marine St-Laurent inc. et Desgagnés Marine Petro inc. respectivement, le cadet Juyoung Cho (Cadet) a déposé une demande de décision quant à l’assurabilité de l’emploi auprès des appelantes. La Commission de l’assurance-emploi du Canada (Commission) a demandé à l’Agence du revenu du Canada, conformément aux dispositions de l’article 90 de la Loi sur l’assurance-emploi [1], de rendre une décision à savoir si un tel poste occupé par le Cadet au cours des Périodes était un emploi assurable ou non aux fins de la Loi.
+[6] Le 21 juillet 2020, une décision fût rendue confirmant que le Cadet était un employé et l’emploi assurable selon l’alinéa 5(1)a) de la Loi. Cette décision fut portée en appel par les appelantes devant la ministre du Revenu national (Ministre) en vertu des dispositions de l’article 91 de la Loi. Le 18 mai 2021, la décision en appel est rendue conformément au paragraphe 93(3) de la Loi (Décision révisée) et confirme que (i) même si aucun service n’a été fourni par ce travailleur aux appelantes ce travailleur exerçait un emploi à titre d’apprenti ou de stagiaire et qu’en conséquence cet emploi était inclus dans les emplois assurables au cours des Périodes et (ii) les heures assurables étaient de l’ordre de 792 (sans heure supplémentaire) et 656 (incluant 88 heures supplémentaires) durant la Période 1 et Période 2 respectivement selon les dispositions applicables du Règlement sur l’assurance-emploi, DORS/96-332 (Règlement).
+[7] Les appelantes interjettent appel de la Décision révisée devant cette Cour en vertu de l’article 103 de la Loi. En conséquence, cet appel est logé de la manière prévue par la Loi sur la Cour canadienne de l’impôt, LRC 1985, c T-2 et ses règlements applicables.
+[8] L’intimé retient au paragraphe 10 des réponses les présomptions de faits tenus pour acquis aux fins de la Décision révisée. Ces présomptions sont essentiellement au même effet dans les 2 réponses modifiées, exception faite de certaines particularités sans incidence importante aux fins des présentes.
+[9] Les présomptions de faits de l’intimé, communes aux appelantes, sont les suivantes :
+l’appelante est une entreprise qui fournit des services d'équipage à bord de divers pétroliers/navires-citernes appartenant à différentes sociétés/diverses compagnies;
+l’appelante avait son siège social au Québec;
+l'appelante fonctionnait toute l'année;
+l’appelante a participé au programme de recrutement des apprentis / stagiaires qui sert à donner de la formation et des expériences professionnelles aux stagiaires;
+l’appelante a rencontré et eu une entrevue avec le travailleur;
+l’appelante a payé un montant forfaitaire par jour en mer au travailleur pour ses services rendus comme stagiaire;
+l’appelante a émis un feuillet T4A pour les montants versés par rapport aux heures régulières de stage;
+le travailleur était stagiaire pendant la période en litige;
+le travailleur devait effectuer un stage dans le cadre d’un programme d’études coopératif durant lequel, il avait la possibilité d’accumuler le temps nécessaire en mer et d’acquérir des connaissances et de l’expérience;
+le travailleur a effectué son stage chez l’appelante durant la période en litige;
+le travailleur était un cadet de salle des machines à bord d’un navire;
+le travailleur observait les travailleurs expérimentés et rendait des services pendant les journées de stage;
+le travailleur effectuait les mêmes tâches qu’il faisait durant les heures supplémentaires pour lesquelles il percevait de l’assurance-emploi;
+le travailleur effectuait les tâches confier (sic) par le mécanicien en chef et qui incluait (sic) :
+i. le nettoyage;
+ii. la peinture, la révision;
+iii. l'assemblage et le démontage de pompes générales; et
+iv. le remplacement de valves, de l'installation de joints d'étanchéité sur des pompes de liaison et d'autres types d'entretien de moteurs;
+le travailleur était sous la supervision de l’appelante pendant toute la durée de son stage;
+le travailleur recevait des démonstrations des chefs mécaniciens comment effectuer le travail; et
+le travailleur était payé un montant fixe pour le stage d’une durée de 8 heures par jour soit :
+30$ par jour pour 0 à 90 jours de stage;
+40$ par jour pour 90 jours à 180 jours de stage.
+[10] Les présomptions de faits de l’intimé, distinctes à chacune des appelantes, sont les suivantes :
+Desgagnés Marine Petro inc. :
+l’appelante avait deux types d’ententes avec le travailleur :
+i. les jours de stage qui étaient de 8 heures, payées à la journée; et
+ii. le temps supplémentaire où le travailleur était traité comme un employé et était rémunéré à l’heure;
+l’appelante a émis un feuillet un T4 pour les montant (sic) versés par rapport aux heures supplémentaires du travailleur;
+le travailleur a reçu 1 147 $ pour 88 heures travaillées après le stage (heures supplémentaires) qui était déterminé assurables par l’appelante;
+le travailleur a reçu 2 840$ pour 71 jours en tant que cadet à 8 heures par jour (71 x 8 = 568 heures), sans interruption de travail durant la période déterminée non-assurable (sic) par l’appelante; et
+le total des heures assurables du travailleur auprès du payeur étaient (sic) de 656 pendant la période en litige.
+Groupe Desgagnés St-Laurent inc.:
+le travailleur a reçu 3,060$ pour 99 jours travaillées (sic) en tant que cadet à 8 heures par à jour (99 x 8 = 792 heures), sans interruption de travail durant la période déterminé (sic) non-assurable (sic) par l’appelante; et
+le total des heures assurables du travailleur auprès de l’appelante étaient (sic) de 792 pendant la période en litige.
+II. Question en litige
+[11] Les deux appels ont été entendus ensemble sur preuve commune. Au même effet dans les dossiers d’appel, la question en litige est de déterminer si le Cadet occupait pendant les Périodes un emploi assurable aux fins de la Loi.
+[12] Les appelantes ont admis qu’elles ne contestent pas le nombre d’heures établi par l’intimé. Ce qui est nié par les appelantes est que les heures accumulées pendant le stage durant lesquelles le Cadet était un étudiant stagiaire soit 792 pendant la Période 1 et 568 pendant la Période 2 (collectivement Heures Étudiant Stagiaire) sont des heures assurables aux fins de la Loi, considérant qu’elles ne sont pas accumulées dans le cadre d’un emploi assurable aux fins de la Loi.
+III. Position des parties
+[13] La position des appelantes est que, lors de la prestation des Heures Étudiant Stagiaire, le Cadet n’occupait pas un emploi assurable aux fins de la Loi. Le Cadet était un étudiant lors de l’exécution de ses Heures Étudiant Stagiaire et n’occupait pas un emploi. Il n’existait pas de relation employeur-employé. Les appelantes ne contestent pas la validité d’aucune des dispositions de la Loi ou du Règlement. [2]
+[14] L’intimé soutient que le Cadet occupait un emploi exercé aux termes d’un contrat de travail au sens de l’article 2085 du Code civil du Québec (CCQ) pendant les Périodes. Et ajoute que cet emploi était un emploi assurable auprès des appelantes au sens de l’alinéa 5(1)a) de la Loi.
+[15] Alternativement, l’intimé ajoute que si la Cour conclut que le Cadet ne rendait pas de services aux appelantes, le Cadet occupait un emploi assurable au sens de l’alinéa 6b) du Règlement pendant les Périodes, car il exerçait à titre d’apprenti ou de stagiaire.
+[16] Au soutien de leur position, les appelantes ont fait témoigner monsieur Pascal Lévesque, alors gestionnaire du personnel navigant à bord des navires du groupe Desgagnés. L’intimé a fait témoigner le Cadet monsieur Juyoung Cho.
+[17] À titre de rappel, le fardeau de la preuve, en matière fiscale, appartient généralement à l’appelant. L’appelant supporte le fardeau de démolir les présomptions de fait que la Ministre a présumé dans le cadre de l’établissement de la Décision révisée, et prouver, selon la balance des probabilités, les faits qui supportent sa position que la Décision révisée est mal fondée. [3] C’est ce même fardeau que les appelantes doivent assumer dans le présent appel et démontrer, selon la balance des probabilités, que le Cadet n’a pas occupé un emploi assurable au cours des Périodes relativement aux Heures Étudiant Stagiaire pour les fins de l’application de la Loi notamment du paragraphe 5(1) de la Loi et de l’alinéa 6b) du Règlement.
+IV. Analyse
+[18] Selon les appelantes, le Cadet n’a pas occupé, relativement aux Heures Étudiant Stagiaire, un emploi assurable aux fins de l’application de la Loi et du Règlement. La Cour ne retient pas d’autre enjeu.
+[19] La preuve à l’audition est à l’effet que le Cadet est inscrit au programme Officier mécanicien chargé de quart dans la chambre des machines de l’institut d’enseignement accrédité Fisheries and Marine Institute of Memorial University, Terre-Neuve-et-Labrador. Dans le cadre de ce programme, l’étudiant doit notamment réussir 3 stages en mer à bord d’un navire afin de permettre à l’institut d’enseignement de reconnaître que l’étudiant a complété avec succès son programme d’officier. Par la suite, le diplômé peut postuler pour l’obtention d’une certification (brevet) de Transport Canada.
+[20] Les dispositions législatives pertinentes dans l'analyse du présent appel incluent les suivantes:
+Loi sur l’assurance-emploi
+Définitions et interprétation
+2.(1) emploi Le fait d’employer ou l’état d’employé. (employment)
+2.(1) emploi assurable S’entend au sens de l’article 5. (insurable employment)
+2.(1) employeur Sont assimilés à un employeur une personne qui a été employeur, de même que, du point de vue de la rémunération qu’il en tire, le particulier promoteur ou coordonnateur d’un projet visé à l’alinéa 5(1)e). (employer)
+Sens de emploi assurable
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable:
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+Règlements élargissant la catégorie des emplois assurables
+5.(4) La Commission peut, avec l'agrément du gouverneur en conseil, prendre des règlements en vue d'inclure dans les emplois assurables: [...]
+c) l'emploi qui n'est pas un emploi aux termes d'un contrat de louage de services, s'il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d'un contrat de louage de services [...]
+Règlement sur l'assurance-emploi
+Emplois assurables
+Emplois inclus dans les emplois assurables
+6. Sont inclus dans les emplois assurables, s'ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants:
+[…]
+b) l’emploi exercé par une personne à titre d’apprenti ou de stagiaire, même si aucun service n’est fourni à l’employeur (employment of a person as an apprentice or trainee, notwithstanding that the person does not perform any services for their employer);
+Code civil du Québec
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+(notre soulignement)
+[21] Du paragraphe 5(1) de la Loi la Cour constate que plusieurs situations y sont prévues pour reconnaître l’existence d’un emploi assurable aux fins de la Loi. Aux fins des présentes, les alinéas 5(1)a) et d) ont été invoqués par les 2 parties.
+[22] L’alinéa 5(1)a) de la Loi évoque expressément l’existence d’un emploi aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal. Aux fins des présentes, l’alinéa 5(1)d) se résume à un emploi qui est prévu par règlement pris en vertu des paragraphes 5(4) et (5) de la Loi et est visé à l’alinéa 5(4)c) soit un emploi qui notamment n’est pas un emploi aux termes d’un contrat de louage de services. Dans le cas présent, l’un ou l’autre de ces alinéas suffit à établir un emploi assurable aux fins de la Loi et en conséquence déterminer l’issu de l’appel.
+[23] À sa face même, l’alinéa 5(1)a) de la Loi, bien que relativement permissif quant à sa portée, requiert incontestablement l’existence d’un contrat de louage de services, l’équivalent d’un contrat de travail au Québec. La preuve présentée à l’audition permet difficilement à la Cour de conclure qu’un contrat de travail unissait le Cadet et les appelantes. La Cour est davantage convaincue que la preuve supporte que la prestation des Heures Étudiant Stagiaire accumulées n’est pas suffisamment réconciliable avec la prestation qu’un employeur peut normalement attendre d’un employé lié par un contrat de travail. Et plus précisément, la Cour est d’avis que la preuve à l’audition n’a pas permis de maintenir, selon la balance des probabilités, que la subordination juridique du Cadet aux appelantes, qui constitue la caractéristique la plus importante du contrat de travail [4], a existé entre les parties au point de soutenir un contrat de travail. Au surplus, la preuve au dossier n’a pour effet de supporter, selon la balance des probabilités, qu’un contrat de travail était intervenu entre les appelantes et le Cadet.
+[24] La détermination de l’existence d’un lien de subordination est une question de fait. [5] Il résulte notamment de la faculté de l’employeur de déterminer le travail à exécuter, de l’encadrer et de le contrôler. Sont donc considérés comme indices de subordination le respect de l’horaire de travail, le contrôle des absences, la présence obligatoire sur le lieu de travail, le contrôle de la quantité et de la qualité du travail, l’imposition des moyens d’exécution, le pouvoir de sanctions sur les performances de l’employé, les retenues à la source et les avantages sociaux. [6] La subordination varie aussi selon le niveau hiérarchique de l’employé, l’étendue de ses compétences, la complexité et l’amplitude des tâches qui lui sont confiées, la nature du produit ou du service offert et le contexte dans lequel la fonction est exercée. [7]
+[25] La subordination permet à l’employeur de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. Elle est présente si, dans les faits, un rapport d’autorité s’exerce concrètement par celui-ci sur le travailleur. [8]
+[26] Dans un tel contexte, la présence d’une prestation de service doit être mesurable. La preuve au dossier n’a pas permis à l’intimé de maintenir qu’une telle prestation du Cadet avait existé dans les présents appels. En fait, le Cadet est un stagiaire à bord d’un navire en surplus de l’équipage, et ne fait pas partie intégrante de l’équipage. Il n’est pas sur le rôle d’appel, donc il n’a pas de fonction particulière en cas d’urgence. Les appelantes ont réussi à rencontrer leur fardeau à cet égard et l’intimé n’a pas été en mesure de rétablir une position qui lui est favorable à cet égard. La Cour retient à cette fin le témoignage de monsieur Lévesque, gestionnaire au recrutement des appelantes au moment des faits pertinents, alors que le témoignage du Cadet a été plutôt difficile à suivre et surtout n’a pas réussi à convaincre la Cour de facteurs déterminants identifiés plus haut et établir le lien de subordination et la prestation de travail qui doit en faire état. Aucun autre témoin n’a été entendu.
+[27] Monsieur Lévesque confirme que 5 établissements d’enseignement au Canada offrent le programme suivi par le Cadet et chacune prévoit des stages en mer dans le cadre du programme offert. Il précise que les stages permettent notamment à l’étudiant stagiaire de se familiariser avec l’environnement d’un navire, la vie en mer, d’un horaire de travail de 7 jours sur 7 pour normalement 8 heures de prestation pendant des périodes plus ou moins longues selon l’occasion, ce qui provoque de longues absences. L’expérience se vit dans un environnement assez structuré, hiérarchisé aussi. À la fin d’un stage, le Cadet retourne aux classes. Sur 3 stages, le Cadet en a fait 2 avec les appelantes. Il n’y a pas de promesse d’emploi après le stage. La série de stages ne mène pas nécessairement à un emploi. Le Cadet peut déposer sa candidature s’il le désire pour un poste après les études complétées. Ce qui n’a pas été le cas dans le présent appel.
+[28] Compte tenu de ce qui précède, l’alinéa 5(1)d) de la Loi sera traité aux fins de disposer de l’appel.
+[29] L’alinéa 5(1)d) de la Loi dicte que constitue un emploi assurable l’emploi prévu par règlement pris en vertu des paragraphes 5(4) et (5) de la Loi. L’alinéa 5(4)c) de la Loi élargit la portée aux fins de la Loi d’un emploi assurable en permettant à la Commission de prendre des règlements en vue d’inclure dans les emplois assurables un emploi qui n’est pas un emploi aux termes d’un contrat de louage de services. L’adoption de ces règlements est conditionnelle à ce que la Commission tire des conclusions sur les modalités des services rendus et la nature du travail exécuté. L’article 6 du Règlement constitue pareille adoption par la Commission d’emplois qui sont inclus dans les emplois assurables.
+[30] Tel qu’affirmé dans Canada c Nelson [9], il serait erroné d’ajouter des conditions supplémentaires à celles dictées à l’article 6 du Règlement, vu sa nature. Dans cette affaire, reprenant la décision Canada (Procureur général) c Agence de Mannequins Folio inc. [10], la Cour d’appel fédérale a conclu qu’il était erroné de traiter le paragraphe 5(4)c) de la Loi comme établissant des conditions préalables à l’application de l’alinéa 6d) du Règlement.
+[31] Dans Nelson, le juge de la Cour canadienne avait déterminé que les conditions de l’alinéa 6d) du Règlement étaient entièrement rencontrées par les coiffeuses locataires de fauteuil. Toutefois, le juge a conclu que l'alinéa 6d) du Règlement ne s'appliquait pas aux locataires de fauteuil. Il a statué que les modalités des services rendus par les locataires de fauteuil en l'espèce n'étaient pas analogues aux modalités des services rendus par les personnes employées par le salon de coiffure locateur aux termes d'un contrat de louage de services. Pour ce motif, il a statué que l'alinéa 6d) du Règlement est ultra vires dans la mesure où il vise les locataires de fauteuil et qu'il doit être interprété de façon restrictive comme ne s'appliquant pas à elles.
+[32] Pour la Cour d’appel fédérale, le juge de la cour de première instance avait traité l’alinéa 5(4)c) de la Loi comme établissant des conditions préalables à l'application de l'alinéa 6d) du Règlement. La Cour d’appel rappelle que le même raisonnement avait été rejeté par la Cour d’appel fédérale dans l'affaire Agence Folio qui traitait toutefois de l’équivalent de l’actuel alinéa 6g) du Règlement. Dans Agence Folio, le juge Hugessen au nom de la Cour d'appel souligne :
+[4] Nous sommes tous d'avis que le premier juge a erré en droit. L'article 4 [maintenant l’article 5 de la Loi] énonce les paramètres de l'exercice par la Commission de son pouvoir de prendre des règlements. La validité du Règlement 12 [maintenant l’article 6 du Règlement] n'est pas contestée en l'espèce. Les dispositions permettant l'exercice du pouvoir ne sont pas des conditions de l'application du règlement adopté en vertu de ce pouvoir. L'alinéa 12g) du Règlement énonce ses propres conditions et le premier juge n'avait pas à en chercher d'autres dans la disposition habilitante.
+[33] La Cour d’appel fédérale dans Nelson a alors appliqué le même raisonnement retenu dans l’affaire Agence Folio aux fins de l’alinéa 6d) du Règlement :
+L'alinéa 5(4)c) de la Loi sur l'assurance-emploi vise à permettre à la Commission d'identifier des catégories de personnes qui doivent être incluses dans le régime législatif. Il faut présumer que la Commission a édicté l'alinéa 6d) du Règlement sur l'assurance-emploi parce qu'elle a constaté que les modalités des services rendus et la nature du travail exécuté par les personnes travaillant dans un salon de barbier ou de coiffure dans les circonstances décrites à l'alinéa 6d) étaient analogues à celles des personnes employées dans de tels établissements. Cela ne signifie pas que l'application de l'alinéa 6d) du Règlement sur l'assurance-emploi à une personne en particulier peut être contestée parce que les modalités des services qu'elle rend ne sont pas analogues aux modalités des services rendus par un employé. Ainsi, après avoir conclu, quant aux faits, que les locataires de fauteuil satisfaisaient aux conditions établies par l'alinéa 6d) du Règlement sur l'assurance-emploi, le juge de la Cour de l'impôt ne pouvait plus décider que le règlement était inapplicable parce que des conditions additionnelles énoncées dans l'alinéa 5(4)c) de la Loi sur l'assurance-emploi n'avaient pas été remplies.
+[34] Les conditions d’application de l’alinéa 6b) du Règlement se retrouvent donc uniquement à l’alinéa lui-même. À la lecture de l’alinéa 6b) du Règlement, les conditions à rencontrer sont qu’un emploi doit être exercé par une personne à titre de stagiaire ou d’apprenti, sans égard à savoir si un service est fourni ou non à l’employeur. Et plus particulièrement, il n’est pas requis que l’emploi visé soit un emploi aux termes d’un contrat de louage de services (l’équivalent du contrat de travail au Québec).
+- le sens à donner au terme emploi
+[35] Le mot emploi est défini dans la Loi comme le fait d’employer ou l’état d’employé (dans sa version anglaise, the act of employing or the state of being employed).
+[36] L’affaire Sheridan c Canada [11] a permis à la division d’appel de la Cour fédérale de définir le terme emploi de l’article 6 du Règlement comme incluant un commerce, un métier ou une occupation et non pas seulement un rapport de commettant à préposé. [12] À cet effet, la Cour canadienne de l’impôt mentionne ce qui suit dans l’affaire Carver PA Corporation c MRN [13] :
+11. Il est bien établi en droit que le terme emploi tel qu'il est défini à l'alinéa 6g) du Règlement sur l'assurance-emploi désigne un commerce, un métier ou une occupation et non pas seulement un rapport de commettant à préposé. Il importe peu que le travailleur en cause soit un employé ou un entrepreneur indépendant. Cette disposition du Règlement sur l'assurance-emploi fait en sorte que les deux types d'emploi sont inclus dans les emplois assurables. [...]
+[37] Ces propos de la Cour canadienne de l’impôt sont apportés dans le cadre de l’analyse de l’alinéa 6g) du Règlement qui réfère à « l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence ».
+[38] Puisque l’expression « emploi exercé par une personne » se retrouve à la fois aux alinéas 6b) et 6g) du Règlement, il est approprié de conclure que le terme emploi, aux fins de l’alinéa 6b) du Règlement, désigne aussi un commerce, un métier ou une occupation, et n’exige pas un rapport de commettant à préposé, soit une relation employeur-employé. [14]
+[39] Les termes commerce, métier et occupation ne sont pas définis dans la Loi, mais le dictionnaire Larousse définit le mot occupation comme signifiant ce à quoi on consacre son temps, son activité.
+[40] Dans Brewster [15], stagiaire à l’alinéa 6b) du Règlement a reçu une interprétation libérale. Dans cette affaire, il s’agissait pour des chauffeurs intéressés à joindre l’entreprise de transport de passagers par autocars à titre de chauffeur-guide à participer à un stage où ces derniers étaient appelés à se déplacer pour la durée du stage aux lieux permettant de simuler l’apprentissage de la conduite dans des conditions les plus réelles possibles advenant la réussite du stage, la soumission de leur candidature à un poste ouvert et ultimement l’embauche par l’entreprise à titre de chauffeur-guide. Dans ce cas, les caractéristiques étaient les suivantes : (i) les stages étaient organisés annuellement par l’entreprise pour constituer une banque de candidats sans garantie d’emploi; (ii) il y avait plus de stagiaires que de postes à combler; (iii) une fois le stage réussi les stagiaires pouvaient postuler sur les postes disponibles; (iv) pendant le stage, les stagiaires ne sont pas employés, ne reçoivent pas de rémunération à ce titre, reçoivent une allocation journalière (per diem de 20$ par jour) et sont hébergés; (v) aucun service n’est considéré rendu à l’entreprise par les stagiaires. La Cour a confirmé l’application de l’alinéa 6b) du Règlement. Le mot emploi n’a pas fait l’objet de remise en question par les parties et l’exclusion de la nécessité de fournir des services à l’employeur apparaît avoir confirmé le respect des conditions de l’alinéa. [16]
+[41] En ce sens, les arguments des appelantes à l’effet que les étudiants stagiaires doivent toujours être supervisés pour effectuer les tâches, qu’ils ne sont pas sur le rôle d’appel (soit le rôle des personnes à bord en cas d’urgence) et qu’ils ne comblent pas de besoins organisationnels ne peuvent pas être retenus pour contrecarrer la portée de l’alinéa 6b) du Règlement.
+[42] La réflexion suivante faite par la Cour canadienne de l’impôt dans l’affaire Royal City Taxi [17], en lien avec l’utilisation du mot emploi à l’alinéa 6e) du Règlement, peut à juste titre s’appliquer pour l’utilisation du mot emploi à l’alinéa 6b) du Règlement :
+[…] quant au libellé de l'alinéa 6e) du Règlement sur l'assurance-emploi, la Cour d'appel fédérale a décidé dans Canada c Skyline Cabs (1982) Ltd. que bien que la première lecture de l'alinéa 12e) du Règlement sur l'assurance-chômage (désormais l'alinéa 6e) du Règlement sur l'assurance-emploi), et particulièrement le mot « emploi », laisse entrevoir que la personne doive avoir le statut employé, il s'agirait là d'une interprétation inadéquate. La Cour d'appel fédéral a déclaré de manière unanime que le mot « emploi » ne devait pas être interprété au sens plus étroit d'un contrat de service, mais plutôt au sens plus large d'une « activité » ou d'une « occupation »[18]. Cette interprétation correspond à celle de la Cour suprême du Canada dans l'arrêt Martin Service Station, et démontre que la disposition visait à aller au-delà de la seule existence d'une relation d'emploi.
+(notre soulignement)
+[43] Dans cette affaire aussi, la Cour canadienne de l’impôt a conclu que la personne n’a pas à avoir le statut d’employé auprès de l’employeur pour être considérée comme occupant un emploi au sens de l’article 6 du Règlement et que le mot emploi doit être interprété au sens large, soit au sens d’une activité ou d’une occupation. Cette interprétation correspond à celle de la Cour suprême du Canada dans l’affaire Martin Service et met de l’avant le fait que la disposition vise au-delà de la seule existence d’une relation d’emploi.
+[44] Par contre, un emploi interprété au sens large ne doit pas entraîner une contradiction avec le sens ordinaire des mots du Règlement. [19]
+[45] Le mot emploi, pour l’application de l’article 12 du Règlement sur l’assurance-chômage (qui a précédé l’article 6 du Règlement), a fait l’objet d’une interprétation large, tel que confirmé par la Cour suprême du Canada dans Scheer et Martin Service. [20] Dans Brewster en référence à ces deux décisions la Cour canadienne de l’impôt ajoute :
+These cases [sic] are authority for the proposition that the Unemployment Insurance Commission may, by regulation, include in insurable employment, self-employment or employment not under a contract of service. In the case at bar by section 12 of the regulations, the commission has included in insurable employment “the employment of a trainee notwithstanding that the person does not perform any service for his employer.”
+[46] L’alinéa 6b) du Règlement est une disposition promulguée en vertu des paragraphes 5(1)d) et 5(4)c) de la Loi. D’ailleurs, le juge Hogan, dans l’affaire Barbeau [21] fait la distinction suivante :
+Les emplois assurables décrits au paragraphe 5(1) sont, de façon générale, des emplois qu'occupent des personnes liées par un contrat d'emploi. Le paragraphe 5(4), par contre, est une exception à cette règle. En effet, il élargit la portée du paragraphe 5(1) en étendant le régime de l'assurance-emploi aux activités régies autrement que par « contrat de louage de services ». Conséquemment, les règlements pris en vertu du paragraphe 5(4) peuvent viser les activités exercées par des personnes autres que des employés, y compris le travailleur autonome.
+(notre soulignement)
+[47] À la lumière de ce qui précède, pour considérer qu’il y a un emploi selon les exceptions permises par le paragraphe 5(4) de la Loi, on ne peut pas exiger qu’il y ait un contrat d’emploi et donc, une relation employeur-employé, puisque l’objectif de cette disposition est d’élargir la portée de l’alinéa 5(1)a) de la Loi.
+[48] Considérant qu’on ne peut exiger qu’il y ait un contrat d’emploi, les arguments des appelantes selon lesquels il n’y a pas de contrat signé entre celle-ci et les cadets et le fait que les cadets ne sont pas syndiqués comme le reste de l’équipage ne peuvent pas être retenus aux fins du Règlement.
+[49] Le mot emploi tel qu’utilisé à l’alinéa 6b) s’apprécie dans un contexte autre qu’un contrat de louage de services ou qu’un contrat de travail. Un sens large doit aussi être retenu.
+[50] Les appelantes s’appuient sur la décision Université de Montréal [22] pour invoquer le fait qu’avant de conclure que le stage de cadet constitue un emploi assurable en vertu de l’alinéa 6b) du Règlement, il est nécessaire de déterminer s’il existe une relation employeur-employé et s’il y a présence d’un contrat de travail, ce qui selon eux, n’est pas le cas en l’espèce.
+[51] Dans cette affaire, la faculté de pharmacie de l’Université de Montréal offrait un programme de maîtrise qui, pour l’obtention du diplôme, exigeait un stage dans une entreprise pharmaceutique. Le stage était un programme d’enseignement conjoint entre l’industrie privée et l’université. L’industrie privée contribuait 14 000$ par stagiaire et le montant de la bourse était identique pour tous les étudiants à la maîtrise. C’est l’étudiant qui choisissait le sujet de son projet.
+[52] Ce qui posait problème dans l’affaire Université de Montréal était que la relation entre les parties et les obligations en découlant étaient celles entre professeur et étudiant, et que le montant payé était une bourse. Voici ce que la juge Lamarre Proulx affirme aux paragraphes 28, 29 et 31 de ses motifs :
+[28] Le document A-3 indique que le montant payé est une bourse. Bien rarement, une bourse peut‑elle être considérée comme un salaire. Il faut des circonstances particulières de lien de subordination dans une relation de travail. Dans la présente affaire, il n’y a pas de signature d’un contrat de travail. Il y a eu une demande de participer à un programme de maîtrise et il y a eu acceptation de la candidature. L’admission au programme de maîtrise signifiait l’octroi d’une bourse. Cette bourse est de la nature d’une assistance financière pour promouvoir les aptitudes à la recherche et la qualité de la recherche et nullement de la nature d’un salaire dans le cadre d’un contrat de travail.
+[29] Dans le guide du stagiaire (pièce A-5), les descriptions des rôles du directeur du programme, du coordonnateur du stage à la faculté, du coordonnateur du stage au site, du coordonnateur de l'option, du responsable de formation et de l'étudiant ont trait d'une part à des fonctions d'enseignement et de formation et d'autre part à des obligations afférentes au statut d'étudiant. […]
+[31] Le programme décrit tant par les témoins de l’appelante que par l’intervenant, est un programme qui a comme objet un stage dans une entreprise pharmaceutique pour des fins d’expérience de travail pratique dans un contexte d’études universitaires. Les différentes obligations décrites sont celles de professeurs et d’étudiants et non d’employeurs et d’employés.
+(notre soulignement)
+[53] Dans Université de Montréal, l’appel visait la relation entre l’étudiant et l’institut d’enseignement lui-même et non le partenaire privé où l’étudiant devait se retrouver. Et dans ce type de relation, l’étudiant reçoit une bourse plutôt qu’une rémunération pour sa présence et l’étudiant gère entièrement son emploi du temps avec les conseils du professeur. L’environnement où se poursuit le programme de maîtrise de l’étudiant n’est pas le même que dans le cadre d’un stage de formation visant à donner une expérience réelle auprès d’un employeur opérant une entreprise accueillant des employés ayant l’expertise que le stagiaire cherche à acquérir dans le cadre d’un programme académique. Le stage en milieu d’entreprise sous la gouverne d’un employeur de l’industrie où le stagiaire évoluera une fois son programme de formation complété est en quelque sorte un tremplin vers le marché du travail du stagiaire. Il fait certes partie du programme académique, mais son volet de mise en scène pratique auprès d’un employeur, de futurs collègues de travail, exposé à un environnement où un navire marchand avec à son bord des employés pratiquant le même travail pour lequel le stagiaire est aux études présente une situation tout autre qu’une relation professeur-étudiant.
+[54] L’expérience globale à laquelle est exposé le Cadet s’assimile davantage à l’expérience d’une relation d’employé-employeur que d’une relation étudiant-professeur, de l’apprentissage d’un milieu de travail sous le contrôle d’un employeur exigeant une prestation de travail, des tâches à compléter, des procédures et processus à suivre, une hiérarchie à respecter dans un lieu donné et un horaire donné. Le Cadet est immergé auprès d’un employeur dans un environnement et le milieu où il sera appelé à fournir une prestation de travail dans son domaine d’étude. Cette description correspond certes au sens à donner à l’alinéa 6b) du Règlement lorsque référant aux mots emploi et stagiaire sans qu’il soit nécessaire qu’un service soit fourni à l’employeur.
+[55] Cette situation est d’autant plus vrai que les employeurs tels que les appelantes participent à ces stages de formation, notamment parce que ces stagiaires sont la relève d’une main-d’œuvre dont ces employeurs ont un besoin constant. D’autres considérations sont aussi présentes et bien perçues, mais la possibilité de recrutements de ces futurs employés qualifiés ne doit pas être écartée.
+[56] Monsieur Lévesque lors de son témoignage a résumé comme suit le but du stage pour l’étudiant stagiaire, l’institution d’enseignement et les appelantes :
+étudiant stagiaire :
+C’est de mettre en pratique, en réalité, les connaissances théoriques. Donc de voir comment on peut les appliquer en pratique dans le milieu de travail.
+institution d’enseignement :
+En fait, pour les institutions maritimes, c’est de réussir à placer leurs étudiants, donc en stage. C’est encore là, c’est aller valider des acquis qu’ils ont vus en classe, s’assurer que… que eux diplôment des étudiants qui sont prêts à entrer sur le marché du travail une fois qu’ils vont avoir diplômé, obtenu leur certificat de Transport.
+les appelantes :
+Euh, les stages pour Groupes Desgagnés, ben c’est une… c’est une vitrine aussi, pour des carrières éventuelles. C’est aussi un rôle que Desgagnés s’est donné auprès de ses différents partenaires, aux institutions de formation de former… de former la relève, former les futurs officiers qui vont travailler dans le domaine maritime.
+[57] À propos d’une évaluation et de la supervision par les appelantes au sujet de la prestation de l’étudiant stagiaire, monsieur Lévesque confirme :
+Me Veilleux : OK, qui demande à… je comprends qu’il y a… Évaluation demandée par l’école sur quoi ? Sur ?
+M. Lévesque : Sur certains acquis, sur certains acquis pendant la période de stage.
+M. Lévesque (sic): OK. Et à votre connaissance, qu’est-ce qui est fait avec cette évaluation-là ?
+M. Lévesque : L’étudiant repart avec et puis le remet à son… à son… à l’école.
+Me Veilleux : Et qui décide de, ça a bien été le stage, ça n’a pas bien été… au final là, qui décide de la réussite du stage de l’étudiant ?
+M. Lévesque : C’est l’école.
+(COURTE PAUSE)
+Me Veilleux : Vous venez de parler là de… de l’évaluation. Une évaluation qui est transmise à l’école par… vous avez dit par qui ?
+M. Lévesque : Par l’étudiant, donc…
+Me Veilleux : Par l’étudiant, mais qui est préparé par qui, excusez-moi ?
+M. Lévesque : Le superviseur du stage à bord, que ce soit un officier, mécanicien dans ce cas-ci. Ça peut être le chef mécanicien aussi…
+Me Veilleux : OK.
+M. Lévesque : Donc…
+Me Veilleux : Donc il y a un superviseur du stage à bord du navire.
+M. Lévesque : Oui.
+Me Veilleux : C’est ça ?
+M. Lévesque : Oui.
+Me Veilleux : Qui est déterminé par qui et comment ?
+M. Lévesque : Qui est déterminé par les gens à bord du navire là, donc en fonction du… de la séquence de stage, généralement. Donc soit avec un officier mécanicien plus junior à bord, ou plus senior. Tout dépendant…
+Me Veilleux : Et quel est le rôle de l’institut maritime dans la détermination de l’officier responsable du…
+M. Lévesque : Euh, aucune.
+Me Veilleux : Aucune. Et quel est le rôle de cet officier-là, avec l’institut maritime et le PO, dont vous parliez tout à l’heure là, donc le program officer ?
+M. Lévesque : C’est de compléter là, l’évaluation… l’évaluation de fin de stage. C’est en fait, s’assurer aussi de, de… de lui montrer… de s’assurer que l’étudiant… voit, ce qu’il a vu de manière théorique, voir comment on l’applique aussi dans la réalité.
+[58] En contre-interrogatoire, monsieur Lévesque confirme que le Cadet est pendant son stage sur le navire sous la supervision du Chef mécanicien (premier officier de la salle des machines), et le premier, deuxième et troisième officier.
+[59] Le témoignage du Cadet a permis de confirmer qu’il était sous la supervision de l’équipe dirigeante de la salle des machines. On lui donnait des tâches à accomplir et du travail de réparation même en temps de stage, il assistait les mécaniciens en service, mais sous leur contrôle.
+[60] On lui a donné de la formation sur les consignes de sécurité. Il a reçu les vêtements à porter, sauf les bottes. S’il voulait changer de quart de travail il demandait à l’officier sur le navire qui approuvait ou non sa demande. À l’occasion, le Cadet a fait un peu plus que 8 heures dans une journée en raison d’un peu plus de travail à accomplir cette journée.
+[61] Monsieur Lévesque confirme également qu’il est permis aux appelantes de mettre fin à un stage avant sa fin et demander à l’étudiant stagiaire de quitter le navire. Ces situations ne seraient pas très courantes, mais se produisent.
+[62] Au sujet des tâches à accomplir pendant le stage, monsieur Lévesque confirme :
+Ils se familiarisent beaucoup avec l’environnement de travail. Ils vont se familiariser avec les divers outils à bord, divers équipements, divers (sic) machineries. Donc ils vont se coller là, beaucoup avec l’officier qui est de quart, donc l’officier qui est responsable du quart de travail. Puis qui vont… l’officier va les faire aussi participer là, dans le sens où il va leur montrer le travail. Donc le but du stage étant de, peut-être d’apprendre le métier, donc le superviseur direct du stage va… familiariser avec les équipements, avec la machinerie et avec les tâches à accomplir.
+[63] Monsieur Lévesque reconnaît cependant en contre-interrogatoire ne pas être plus spécifiquement familier avec les tâches que les superviseurs de la salle des machines peuvent demander à l’étudiant stagiaire d’accomplir. Il peut toutefois affirmer que les étudiants stagiaires complètent également des tâches, mais toujours sous la supervision des officiers responsables. Bien que sous supervision, un objectif est de rendre l’étudiant stagiaire autonome à la fin de son programme.
+[64] Monsieur Lévesque confirme en contre-interrogatoire que le remboursement des coûts de transport de l’étudiant stagiaire est sujet à ce que le stage soit complété à la satisfaction des supérieurs de Desgagnés.
+[65] Compte tenu des contextes différents notés plus haut, la conclusion dans Université de Montréal n’est pas applicable en l’espèce. L’expérience et les fonctions qu’occupe le Cadet à bord du navire dans le cadre de son stage sont d’une nature s’associant clairement au sens donné à l’emploi par la jurisprudence applicable en l’espèce.
+[66] Dans l’affaire Charron [23], le juge Archambault a souligné que l’utilisation du terme bourse n’est pas concluante dans la détermination de la nature de la somme versée.
+[67] À la lumière de cette affaire, il n’est pas déterminant que le témoin des appelantes, monsieur Lévesque, utilise le terme bourse pour qualifier les sommes reçues par le Cadet.
+[68] Le juge Archambault dans l’affaire Charron a également mentionné à propos d’une bourse :
+La situation aurait pu être différente si l’appelante avait été libre de choisir son projet de recherche et de la démarche à suivre. Si son travail avait été un de recherche pour avancer ses propres connaissances sans être soumis au contrôle du docteur Moss, on aurait pu conclure à l’existence d’une bourse plutôt que d’un salaire. […] Un étudiant qui reçoit une bourse d’études est libre dans le choix de son projet de recherche, a [sic] une grande marge de manœuvre dans le déroulement de sa recherche et est le propriétaire de ses résultats. De plus, on ne paie pas à toutes les deux semaines une bourse d’études en fonction de services rendus. Une bourse est généralement une aide financière fournie à un étudiant pour l’aider dans ses études. [24]
+(notre soulignement)
+[69] Dans la présente affaire, bien que le stage soit obligatoire dans le cadre du programme d’étude des cadets et qu’il mène à l’obtention de crédits universitaires (le cadet reçoit un avantage académique), la décision Charron supporte la conclusion que cette obligation n’est pas déterminante quant à savoir si un emploi assurable existe ou non aux fins de la Loi.
+[70] Le Cadet n’a pas demandé et obtenu une bourse d’études. Il a reçu une compensation journalière en lien avec sa participation aux journées de formation auxquelles il s’est présenté et où il a accompli des tâches assignées. La compensation reçue, qui n’est pas niée par le témoignage de monsieur Lévesque, est fonction du nombre de jours que le Cadet complète auprès des officiers à qui il se rapporte. L’institution d’enseignement ou autre organisme n’est pas impliquée dans cette compensation ou le financement de cette compensation. La compensation ne dépend pas d’un concours ou d’une inscription à une reconnaissance académique basée sur le parcours académique complété par le Cadet. De plus, le Cadet demeure sous la supervision des appelantes pour la durée du stage bien qu’il puisse demeurer en contact avec l’institution d’enseignement. L’horaire et l’emploi du temps du Cadet sont ceux déterminés par les appelantes. La Cour retient que la preuve à l’audition supporte que la compensation versée au Cadet n’est pas tributaire d’un programme de support aux étudiants, mais principalement à la présence du Cadet sur le navire, fonction de la durée de son séjour, des prestations que le Cadet effectue pendant la période son stage et dans une certaine mesure sujet à l’approbation des supérieurs du groupe Desgagnés dans le cadre des dépenses de transport. A contrario, somme toute, si le Cadet ne séjourne pas sur le navire, n’accomplit pas les tâches que l’on attend de lui, ne complète pas le stage, le Cadet ne reçoit aucune compensation.
+[71] Monsieur Lévesque parle de compensation et utilise aussi le mot bourse d’étude pour décrire le montant journalier versé. Il témoigne que l’étudiant stagiaire est compensé, qu’on lui verse une gratification sous forme de bourse d’études. Bien que l’utilisation du terme bourse d’études par les appelantes n’est pas déterminante quant à sa qualification, les avocats des appelantes n’auront pas donné suite au questionnaire sur les bourses demandé par l’Agence du revenu du Canada afin d’assister à la qualification. La Cour note également que dans le cadre de représentations les avocats des appelantes (pièce A-1) notent en référant au questionnaire sur les bourses que le questionnaire nécessiterait des ajustements afin de représenter la réalité des sommes versées à titre de bourse par Desgagnés aux cadets et ajoutent puisqu’il ne s’agit pas de bourses liées à des performances académiques ou à l’accomplissement de recherches académiques ou à une expérience clinique à proprement parler, comme le suggère le questionnaire.
+[72] La Cour est d’avis que la preuve à l’audition est insuffisante pour permette à la Cour de conclure selon la balance des probabilités que la compensation totale versée au Cadet dans le cas présent s’apparente à une bourse.
+[73] Considérant ce qui précède, selon la balance des probabilités, le Cadet occupe aux fins du présent dossier un emploi aux fins notamment de l’article 6 du Règlement et du paragraphe 5(1) de la Loi.
+- le sens à donner au terme stagiaire
+[74] La Loi ni le Règlement ne définit le terme stagiaire.
+[75] Selon le dictionnaire Larousse, un stagiaire est une « personne qui effectue un stage » et un stage est une « période pendant laquelle une personne exerce une activité temporaire dans une entreprise ou suit des cours en vue de sa formation ».
+[76] La version anglaise du Règlement mentionne trainee pour référer à stagiaire. Selon le dictionnaire anglais Cambridge, un trainee est « a person who is learning and practising the skills of a particular job » en donnant les exemples suivants « a trainee dentist/electrician ».
+[77] Les appelantes semblent conclure du sens donné à stagiaire aux fins des Normes du travail fédérales pour les stagiaires et les étudiants stagiaires et des Obligations des employeurs sous réglementation fédérale envers les stagiaires et les étudiants stagiaires en lien avec le Code canadien du travail [25] que lorsqu’un individu est considéré comme un stagiaire, il ne peut pas être considéré comme un employé, et donc, ne peut pas être couvert par la Loi.
+[78] Il se trouve que si l’on se fie à cette interprétation, l’alinéa 6b) du Règlement ne trouverait jamais application ou que très rarement. Cependant, pour que cet alinéa trouve application, un apprenti ou un stagiaire doit exercer un emploi à ce titre, ce qui ne dépend pas de la qualification du stagiaire ou de l’apprenti à titre d’employé. Comme dans l’affaire Barbeau, le but poursuivi par l’alinéa 6b) du Règlement, tout comme l’ensemble des alinéas de l’article 6 du Règlement, est d’élargir le régime de l'assurance-emploi aux activités régies autrement que par contrat de louage de services (contrat de travail) afin précisément d’inclure à l’alinéa 6b) les stagiaires et les apprentis dans certaines circonstances.
+[79] Dans le cas actuel, le Cadet agissait sur le navire comme stagiaire des appelantes, était engagé et compensé par les appelantes [26], les appelantes assumaient des responsabilités à l’égard du Cadet et le Cadet devait se soumettre à l'autorité des appelantes pour toute question impliquant sa présence sur le navire. Enfin, les appelantes possédaient un pouvoir de résilier le séjour du Cadet sur le navire et d’approcher les responsables de l’école à cet égard.
+[80] Ce n’est pas le Cadet qui a demandé le paiement des sommes, le Cadet devait se soumettre à l’autorité des appelantes, à son code de conduite et ses règles de sécurité sur le navire et un mois avant le début du stage, le Cadet a signé une fiche d’employé des appelantes. [27]
+[81] Tel qu’abordé plus haut, la notion de stagiaire n’implique pas que le stagiaire ait à rendre des services à l’employeur. L’alinéa 6b) du Règlement précise qu’un emploi peut être un emploi assurable, même si aucun service n’est fourni à l’employeur. Le libellé de l’alinéa 6b) du Règlement ne qualifie pas le mot stagiaire ni le délimite à un sens particulier. L’expérience et l’occupation du Cadet rencontrent en fait le sens généralement donné au mot stage et le contexte de l’alinéa n’apporte aucune limitation quant à son sens à donner. Il n’y a pas non plus de signe qu’un stage doit se limiter à une relation d’employé-employeur. L’interprétation des dispositions de l’article 6 du Règlement dicte plutôt une interprétation large. Dans ce contexte, la Cour ne saurait reconnaître l’argument des appelantes à l’effet qu’il faut faire une distinction entre un étudiant stagiaire et un étudiant dans le cadre d’un programme reconnu pour l’obtention d’un diplôme. [28] Le libellé de l’alinéa 6b) ne supporte pas une telle distinction.
+[82] En n’ayant pas à considérer qu’un service soit fourni ou non, l’emploi exercé à titre de stagiaire auquel réfère l’alinéa b) inclut le stage du Cadet complété sur les navires des appelantes.
+[83] Considérant ce qui précède, la preuve supporte, selon la balance des probabilités, que le poste occupé par le Cadet auprès des appelantes lors des Heures Étudiant Stagiaire se qualifie d’emploi à titre de stagiaire aux fins de l’alinéa 6b) du Règlement.
+V. Conclusion
+[84] Selon la prépondérance des probabilités, la Cour conclut que le Cadet occupait un emploi au sens de l’alinéa 6b) du Règlement et que, par conséquent, il occupait un emploi assurable au sens du paragraphe 5(1) de la Loi.
+[85] Considérant tout ce qui précède, l’appel est rejeté.
+Ces motifs du jugement modifiés sont émis en remplacement des motifs du jugement daté du 12 octobre 2023.
+Signé à Toronto, Ontario, ce 12e jour d'octobre 2023.
+Signé à Montréal, Québec, ce 1er jour de novembre 2023.
+« J.M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2023 CCI 147
+Nº DU DOSSIER DE LA COUR :
+2021-1761(EI)
+2021-1759(EI)
+INTITULÉ DE LA CAUSE :
+DESGAGNÉS MARINE ST-LAURENT INC. ET LA MINISTRE DU REVENU NATIONAL
+DESGAGNÉS MARINE PETRO INC. ET LA MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Québec, Québec
+DATE DE L’AUDIENCE :
+10 janvier 2023
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+12 octobre 2023
+1er novembre 2023
+COMPARUTIONS :
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes :
+Nom :
+Me Sarto Veilleux
+Cabinet :
+Langlois Avocats – Lawyers Complexe Jules-Dallaire, T3 2820, boul. Laurier 13e étage Québec QC G1V 0C1 Canada
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] LC 1996, c 23 (Loi).
+[2] Article 19.2 de la Loi sur la Cour canadienne de l’impôt.
+[3] Le fardeau de la preuve en matière d’appel fiscal a fait l’objet de discussions récentes dans plusieurs décisions de la Cour d’appel fédérale et la Cour canadienne de l’impôt. Le juge Webb dans Sarmadi v The Queen, 2017 FCA 131 (Sarmadi) a revisité le fardeau de la preuve en matière fiscale sans toutefois recevoir l’aval de ces collègues le juge Stratas and la juge Woods qui ont préféré ne pas se prononcer définitivement sur la question. Dans Eisbrenner v The Queen, 2020 FCA 93 (Eisbrenner), le juge Webb, au nom de la Cour d’appel fédérale, a réitéré la même ligne de commentaires soutenue dans Sarmadi en lien avec le fardeau de la preuve. La demande d’autorisation d’appel de l’arrêt de la Cour d’appel fédérale a été rejetée le 14 janvier 2021. Depuis la décision Eisbrenner, la position du juge Webb en regard du fardeau de la preuve en matière fiscale a été confirmée ou reprise dans quelques décisions de la Cour d’appel fédérale: Kufsky v Canada, 2022 FCA 66, Chibani v Canada, 2021 FCA 196, European Staffing Inc. v Canada (National Revenue), 2020 FCA 2019 et Van der Steen v Canada, 2020 FCA 168. Les principales décisions de la Cour canadienne de l’impôt traitant de cette question récente sont les décisions du juge Owen dans Morrison v The Queen, 2018 TCC 220 et Damis Properties Inc. v The Queen, 2021 TCC 24.
+[4] La création de ce rapport emporte acceptation, par l’employé, du pouvoir de contrôle et de direction de l’employeur. Entre autres, voir Bureau d’études Archer inc. c Dessureault, 2006 QCCA 1556 et Kalyta c Soquelec Ltée, 2018 QCCS 1951.
+[5] Voir Services immobiliers Asgaard inc. c Gareau, 2020 QCCA 1769, Agence Océanica inc. c Agence du revenu du Québec, 2014 QCCA 1385 (Océanica), et Gauthier c Ressources minières Radisson inc., 2015 QCCQ 6064.
+[6] Océanica, Maislin c Groupe Boutin inc., 2022 QCCS 412, Amzallag c Multidev Technologies inc., 2018 QCCS 1271, Leclerc c Constructions Louis-Seize & Associés inc., 2012 QCCS 5885, Marcotte c 9126-4333 Québec inc., 2012 QCCQ 4390 (appel rejeté 2014 QCCA 471) et Lavoie c 3171795 Canada inc., 2005 CanLII 32225.
+[7] Dicom Express inc. c Paiement, 2009 QCCA 611, 8237514 Canada inc. c Kucer, 2018 QCCS 12 et Bélanger c 9254-9328 Québec inc., 2014 QCCS 2976.
+[8] Notamment, 9026-1058 Québec inc. c Gestion Tidisan inc., 2009 QCCS 1567.
+[9] 2001 CAF 131 (Nelson), au para 10.
+[10] (1993), 164 N.R. 74 (CAF) (Agence Folio), au para 4.
+[11] [1985] A.C.F. no 230 (QL) (Sheridan).
+[12] La décision Sheridan repose notamment sur les propos de la Cour suprême du Canada dans La Reine c Scheer Ltd., [1974] RCS 1046 (Scheer) et Martin Service Station Ltd. c Ministre du Revenu national, [1977] 2 RCS 99 (Martin Service).
+[13] 2013 CCI 125 (Carver), au para 11.
+[14] Le mot emploi, pour l’application de l’article 12 du Règlement sur l’assurance-chômage (CRC 1978, c 1576 (qui a précédé l’article 6 du Règlement), doit avoir une interprétation large, tel que confirmé par la Cour suprême du Canada dans les affaires Scheer et Martin Service. Aussi, se fondant sur l’arrêt Martin Service, la Cour d’appel fédérale, dans Canada (Attorney General) v Skyline Cabs (1982) Ltd. [1986] FCJ No. 335 (QL), a considéré qu’il était maintenant de droit que le terme emploi de l’alinéa 12e) (maintenant l’alinéa 6e) du Règlement) du Règlement sur l’assurance‑chômage, adopté en vertu de la Loi sur l’assurance‑chômage de 1971 et qui remplace l’ancien article 64B du Règlement sur l’assurance-chômage, soit interprété dans le sens large d’une activité ou d’une occupation plutôt que dans son sens restreint de contrat de louage de services (contrat de travail au Québec).
+[15] Brewster Transportation & Tours v Minister of National Revenue, [1988] TCJ No. 936 (Brewster).
+[16] Pour les fins d’établir la rémunération aux fins de la Loi, la Cour canadienne de l’impôt dans Brewster a conclu que l’allocation journalière de 20$ pour subvenir à certains besoins et l’hébergement durant le stage étaient inclus dans la rémunération assurable, puisque les stagiaires occupaient un emploi assurable au sens de la Loi.
+[17] Royal City Taxi Ltd. c MNR, 2019 CCI 105 (Royal City Taxi).
+[18] Ibid, au para 5.
+[19] Yellow Cab Co. c Canada, 2002 ACF no 1062 (QL) et Canada (Attorney General) v Skyline Cabs (1982) Ltd., 1986 FCJ No. 335 (QL).
+[20] Voir note 14 en référence aux jugements de la Cour suprême du Canada.
+[21] Barbeau c Le ministère du Revenu national, 2015 TCC 131 (Barbeau).
+[22] Université de Montréal c MRN, 2005 TCC 499 (Université de Montréal).
+[23] Charron c Canada (ministre du Revenu national – M.N.R.), 1994 ACI no 47 (Charron).
+[24] Ibid, au para 12.
+[25] LRC, 1985, c L-2.
+[26] Le Cadet a confirmé en contre-interrogatoire ne pas se voir attribuer les stages par le service de l’école. Il a rencontré le représentant des appelantes à l’école, a assisté à une présentation, leur a soumis son curriculum vitae et les appelantes l’ont contacté par courriel personnellement. La Cour a confirmé avec le Cadet si l’école lui dictait le lieu de son stage ou s’il était responsable d’aviser l’école du lieu de son stage. Le Cadet a confirmé que l’école ne lui attribuait pas un stage et lui seul avisait l’école de sa décision.
+[27] Voir notamment Canada (Procureur Général) c Mondo-Tech International Inc., 2003 CAF 62.
+[28] La discussion plus haut entourant la notion d’emploi et des buts poursuivis par les stages du Cadet est également pertinente dans ce contexte.

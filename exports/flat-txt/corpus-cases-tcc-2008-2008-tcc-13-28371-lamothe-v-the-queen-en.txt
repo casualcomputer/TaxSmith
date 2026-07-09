@@ -1,0 +1,142 @@
+Title: Lamothe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28371/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-13-28371-lamothe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-11
+
+# Lamothe v. The Queen
+
+- Citation: 2008 TCC 13
+- Decision date: 2008-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamothe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-11
+Neutral citation
+2008 TCC 13
+File numbers
+2005-1780(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1780(IT)G
+BETWEEN:
+JOANNE LAMOTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 5, 2007, at Montréal, Quebec
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Pierre-Yves Leduc
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeals against the assessments made under the Income Tax Act, notices of which are dated August 20, 2004 are allowed; the assessment of which notice bears the number 32052 is reduced to $18,100; and the assessment of which notice bears the number 32053 is vacated.
+The Respondent shall be entitled to half her costs if she so requests.
+Signed at Ottawa, Canada, this 11th day of January 2008.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 8th day of May 2008.
+Brian McCordick, Translator
+Citation: 2008TCC13
+Date: 20080111
+Docket: 2005-1780(IT)G BETWEEN:
+JOANNE LAMOTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Rip A.C.J.
+[1] Joanne Lamothe is appealing against two tax assessments, notices of which are dated August 20, 2004, and bear the numbers 32052 and 32053; the amounts of these assessments are $20,777.74 and $6,700, respectively. The Minister of National Revenue ("the Minister") assessed the Appellant under subsection 160(1) of the Income Tax Act ("the Act") on the ground that her husband Guy Verreault, who owed $20,777.74 in tax under Part I of the Act at the time, transferred $6,700 to her on or about May 16, 1997, and $29,500 to her on or about May 23, 1997.
+[2] Mr. Verreault was reassessed for 1997, and the amount of the reassessment — tax, interest and penalties included — was $20,777.74. Ms. Lamothe therefore owes $20,777.74, not the total of the two assessments against her husband.
+[3] Mr. Verreault testified that, in 1997, his father gave him a property in Longueuil, Quebec, and that he wanted to sell it as quickly as possible so that he could buy a family residence in Shefford, which is in that province's Eastern Townships. However, he had a gambling, alcohol and drug addiction problem at the time and was not confident that he would be able to keep the money himself.
+[4] Mr. Verreault said that, because of this, he invested the proceeds of the sale of the Longueuil property in a term deposit. He said that the manager of the financial institution told him that the money would be held in trust and that he would be unable to touch it. On or about May 23, 1997, when the term deposit matured, Mr. Verreault transferred the total amount of $29,500, including interest, to the Appellant's bank account. Mr. Verreault and Ms. Lamothe both testified that she held the money for the purchase of a new house in Shefford, which purchase took place on or about June 25, 1997. The property was registered under Ms. Lamothe and Mr. Verreault's names as equal co-owners. The purchase price was $160,000.
+[5] Two weeks before the Shefford property was purchased, Mr. Verreault's father lent him $6,700 to help him buy it. On May 16, 1997, Mr. Verreault transferred $6,894.66, which included the $6,700, to Ms. Lamothe's bank account; he made this transfer for the same reasons that he transferred the $29,500.[1]
+[6] Ms. Lamothe confirmed that the funds for the purchase of the Shefford property came from the proceeds of the sale of the Longueuil property and from Mr. Verreault. She emphasized that the reason that she held the funds for the house purchase was to protect the family due to the addiction problems that her husband was having at the time. In her view, this money was not hers and she was not free to use it as she pleased. She held the money for a specific purpose: the purchase of a house.
+[7] The Appellant's principal argument was that Mr. Verreault never ceased to be the true owner of the $6,700 or the $29,500. Subsection 160(1) of the Act is worded, in part, as follows:
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common‑law partner or a person who has since become the person’s spouse or common-law partner,
+. . .
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+[...]
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[8] In her counsel's submission, the Appellant never owned the funds transferred to her bank account. Ms. Lamothe never considered the money as her own. She held the funds so that her husband would not waste them. The funds were put somewhere that her husband would be unable to touch them, so that they would be available for the anticipated purpose: the purchase of a house in Shefford.
+[9] Counsel for the Appellant acknowledges that there was a transfer of property but submits that it was not a legal transfer within the meaning of subsection 160(1) of the Act because the husband remained the owner of the money. She received no benefit as a result of the transfer.
+[10] At the beginning of his oral submissions, counsel for the Appellant produced, on consent, a report by Mr. Verreault's trustee in bankruptcy. Mr. Verreault went bankrupt on April 19, 2002. As part of the administration of the bankrupt's estate, the trustee sold Mr. Verreault's share of the family home to Ms. Lamothe for $3,000. Counsel for the Appellant submitted that her debt should therefore be reduced by $3,000.
+[11] I do not accept that argument. First of all, it is not relevant; the sale took place in 2002, five years after the transfers. Secondly, Ms. Lamothe did not purchase the share in question from her spouse; she purchased it from the trustee, and the proceeds of the sale were applied toward the trustee's expenses and the creditors' claims. The Minister received only $410.32. And nothing proves that the amount of $410.32 relates to Mr. Verreault's assessment for the year 1997.
+[12] I accept Ms. Lamothe and Mr. Verreault's testimony that Mr. Verreault was unable to avoid spending money on drugs and alcohol and that the funds in issue were held by Ms. Lamothe in order to ensure that Mr. Verreault would be unable to spend it on his addictive behaviour and that the money would be used for the purchase of a house. According to the Appellant, subsection 160(1) of the Act does not apply to such circumstances.
+[13] The Minister's position is that nothing in the Notice of Appeal questions that the money was transferred to the Appellant. The intent of the transferor, which was to protect him from himself, is not relevant for the purposes of subsection 160(1) of the Act. Counsel referred to the decisions in Wannan v. Canada, [2002] T.C.J. No. 653 (QL), and Raphael v. Canada, [2000] T.C.J. No. 688 (QL). In his submission, nothing prevented the Appellant from using the money for any other purpose.
+[14] I am troubled by the fact that these appeals could have been avoided if Ms. Verreault's father had given the property and the $6,700 to the Appellant instead of Mr. Verreault. According to the evidence adduced before me, Mr. Verreault and Ms. Lamothe would have purchased the Shefford property and the matter would probably not be before me at this time. However, even though what happened cannot be changed, an analysis of the true facts and of Mr. Verreault and the Appellant's intentions might help alleviate their tax problem.
+[15] The events in the instant appeals took place in Quebec. And the word "transfer" is not defined in the Civil Code of Québec.
+[16] In Fasken v. M.N.R.[2], Thorson P. explained:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer.
+[17] As Thorson P. explained, the words "transferred" and "transfer" in subsection 160(1) mean that the transferor divests himself of the property. This resembles the concept of a gift, which is described as follows at articles 1806 and 1807 of the Civil Code of Québec:
+Art. 1806. Gift is a contract by which a person, the donor, transfers ownership of property by gratuitous title to another person, the donee; a dismemberment of the right of ownership, or any other right held by the person, may also be transferred by gift.
+Gifts may be inter vivos or mortis causa.
+Art. 1806. La donation est le contrat par lequel une personne, le donateur, transfère la propriété d’un bien à titre gratuit à une autre personne, le donataire; le transfert peut aussi porter sur un démembrement du droit de propriété ou sur tout autre droit dont on est titulaire.
+La donation peut être faite entre vifs ou à cause de mort.
+Art. 1807. A gift which entails actual divesting of the donor in the sense that the donor actually becomes the debtor of the donee is a gift inter vivos.
+Art. 1807. La donation entre vifs est celle qui emporte le dessaisissement actuel du donateur, en ce sens que celui‑ci se constitue actuellement débiteur envers le donataire.
+[18] Let us now consider what happened in the instant case. Although the evidence is not absolutely clear, it is my opinion that the two transactions, namely the gift of the land and the gift of $6,700 by Mr. Verreault's father, reflected the father's intention to contribute financially to the purchase of a family home by his son and the Appellant. Ms. Lamothe and Mr. Verreault purchased the family home as equal undivided co-owners. The purchase price of the property was $160,000, plus a transfer tax of $1,350. Although the Amended Notice of Appeal refers to a hypothec in favour of a creditor to whom Mr. Verreault and Ms. Lamothe were solidarily liable, the evidence does not disclose the amount of the hypothec. It would appear that the amount of $36,200 ($29,500 + $6,700) was the down payment on the purchase of the property, and that the balance, $125,150,[3] was secured by hypothec.
+[19] The evidence at my disposal strongly suggests to me that when Mr. Verreault transferred the $29,500 and the $6,700 to Ms. Lamothe, he divested himself of only half of these amounts and that this half served to purchase an undivided half of the same property that Ms. Lamothe's half was applied to. Consequently, within the meaning of subsection 160(1) of the Act, Mr. Verreault appears to have transferred one-half of $36,200 (or $18,100) to Ms. Lamothe. In practice, $18,100 was applied to Mr. Verreault's purchase of an undivided half of an immovable; he "retained" $18,100 in assets. The amount that he transferred to Ms. Lamothe was $18,100. As a result, Ms. Lamothe is liable for up to $18,100 of Mr. Verreault's tax debt.
+[20] Consequently, these appeals are allowed. The assessment of which notice bears the number 32052 is reduced to $18,100, and the assessment of which notice bears the number 32053 is vacated. The Respondent shall be entitled to half her costs if she so requests.
+Signed at Ottawa, Canada, this 11th day of January 2008.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 8th day of May 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC13
+COURT FILE NO.: 2005‑1780(IT)G
+STYLE OF CAUSE: JOANNE LAMOTHE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Associate Chief Justice Gerald J. Rip
+DATE OF JUDGMENT: January 11, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Pierre‑Yves Leduc
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre‑Yves Leduc
+Firm: Lafortune Cadieux LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Apparently, the amount of the assessment is $6,700, not $6,894.66.
+[2] [1948] Exch. C.R. 580, at page 592.
+[3] $161,350 - $36,200 = $125,150.

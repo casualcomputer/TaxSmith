@@ -1,0 +1,259 @@
+Title: Rayner's Auto Sales c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28796/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-446-28796-rayner-s-auto-sales-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-07-30
+
+# Rayner's Auto Sales c. La Reine
+
+- Citation: 2008 CCI 446
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1516, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rayner's Auto Sales c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-30
+Référence neutre
+2008 CCI 446
+Numéro de dossier
+2006-1021(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1021(GST)I
+ENTRE :
+RAYNER’S AUTO SALES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Wayne Rayner (2006-1022(IT)G), le 17 juillet 2008,
+à Charlottetown (Île-du-Prince-Édouard).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Jeffery Cormier
+Avocat de l’intimée :
+Me John Gibb‑Carsley
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 12 mai 2004 et porte le numéro 01DC0110329 pour la période allant du 28 novembre 2000 au 31 décembre 2001, est rejeté sans frais, conformément aux motifs de jugement ci‑joints.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 30e jour de juillet 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 5e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+Dossier : 2006-1022(IT)G
+ENTRE :
+WAYNE RAYNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de
+Rayner’s Auto Sales (2006-1021(GST)I), le 7 juillet 2008,
+à Charlottetown (Île-du-Prince-Édouard).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelant :
+Me Jeffery Cormier
+Avocat de l’intimée :
+Me John Gibb‑Carsley
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 sont rejetés sans frais et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs de jugement ci‑joints.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 30e jour de juillet 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 5e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008CCI446
+Date : 20080730
+Dossiers : 2006-1021(GST)I
+2006-1022(IT)G
+ENTRE :
+RAYNER’S AUTO SALES,
+WAYNE RAYNER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Il s’agit d’appels de cotisations se rapportant aux années d’imposition 2000 et 2001 de Wayne Rayner, ainsi qu’à la période allant du 28 novembre 2000 au 31 décembre 2001 quant à Rayner’s Auto Sales. Le ministre du Revenu national (le « ministre ») a utilisé la méthode de la valeur nette afin d’ajouter certains montants au revenu déclaré de Wayne Rayner pour les années d’imposition en question et a établi des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu. Le ministre a également établi une cotisation à l’égard de Rayner’s Auto Sales en ce qui concerne la taxe sur les produits et services et la taxe de vente harmonisée additionnelles (la « TPS/TVH ») pour la période visée par les appels et a établi des pénalités pour faute lourde en application de l’article 285 de la Loi sur la taxe d’accise. Les appels ont été entendus ensemble sur preuve commune.
+[2] Les parties ont produit l’exposé conjoint des faits suivant :
+[traduction]
+Les parties s’entendent par les présentes, aux fins des présents appels seulement ainsi qu’aux fins de tout appel en découlant ou de toute autre instance engagée dans les présentes affaires, pour que le présent exposé conjoint des faits soit produit en preuve, les faits qui y sont énoncés étant exacts. Les parties s’entendent également pour que les documents mentionnés ci‑dessous dans les listes de documents de l’appelant et de l’intimée soient produits en preuve, les documents étant des copies conformes des documents représentés. L’une ou l’autre partie pourra soumettre d’autres éléments de preuve ou d’autres documents, s’ils ne sont pas incompatibles avec le présent exposé conjoint des faits.
+Les points en litige dans les présents appels
+1. L’appel portant le numéro de la Cour canadienne de l’impôt 2006‑1022(IT)G (l’« appel en matière d’impôt sur le revenu ») se rapporte aux années d’imposition 2000 et 2001 de Wayne Rayner ainsi qu’aux pénalités pour faute lourde établies pour chacune de ces années.
+2. L’appel portant le numéro de la Cour canadienne de l’impôt 2006‑1021(GST)I (l’« appel concernant la TPS ») se rapporte à la taxe sur les produits et services de Rayner’s Auto Sales (la « TPS ») établie entre le 28 novembre 2000 et le 31 décembre 2001 (la « période ») ainsi qu’à une pénalité pour faute lourde établie à l’égard de la cotisation concernant la TPS.
+3. Les parties s’entendent pour que l’appel en matière d’impôt sur le revenu et l’appel concernant la TPS soient entendus ensemble sur preuve commune.
+4. Dans l’avis d’appel qui a été déposé dans l’appel en matière d’impôt sur le revenu, l’appelant met en question : la valeur de sa maison (la « maison ») utilisée dans le calcul du revenu fondé sur la valeur nette; le montant (le cas échéant) d’un compte client d’Elmsdale Auto Sales au cours de l’année d’imposition 2001; l’imposition de pénalités pour faute lourde.
+5. Les parties conviennent qu’étant donné qu’il n’y a pas eu acquisition ni disposition de la maison au cours de la période pertinente, la valeur de la maison n’a pas d’incidences sur la cotisation relative aux années d’imposition 2000 et 2001 de l’appelant. Par conséquent, la valeur de la maison n’est pas en litige dans l’appel en matière d’impôt sur le revenu.
+6. Les parties conviennent que les seuls points en litige qu’il reste à trancher dans l’appel en matière d’impôt sur le revenu se rapportent au montant (le cas échéant) du compte client d’Elmsdale Auto Sales à la fin de l’année d’imposition 2001 et à l’application des pénalités pour faute lourde se rapportant aux années d’imposition 2000 et 2001.
+7. Quant à l’appel concernant la TPS, les seuls points en litige se rapportent au montant établi à l’encontre de l’appelante au titre de la TPS à l’égard du montant (le cas échéant) du compte client d’Elmsdale Auto Sales et à l’imposition de pénalités pour faute lourde.
+Les faits convenus
+Les parties s’entendent sur les faits ci‑après énoncés :
+8. En 2001 et en 2002, Roxanne Rayner était l’épouse de Wayne Rayner.
+9. En 2000 et 2001, Wayne Rayner était l’unique propriétaire d’une entreprise s’occupant de véhicules d’occasion qui était exploitée sous le nom de Rayner’s Auto Sales.
+10. Wayne Rayner exerçait un contrôle sur les activités quotidiennes de Rayner’s Auto Sales.
+11. Wayne Rayner était un inscrit aux fins de la TPS, son numéro d’inscription étant le 129034419RT0001.
+12. Rayner’s Auto Sales était un inscrit aux fins de la TPS, son numéro d’inscription étant le 129034419RT0002.
+13. Dans ses déclarations de revenus relatives aux années d’imposition 2000 et 2001, Wayne Rayner a déclaré un revenu d’entreprise tiré de Rayner’s Auto Sales comme suit :
+2000
+2001
+Revenu d’entreprise brut
+231 663 $
+637 110 $
+Revenu d’entreprise net (perte)
+(23 574 $)
+(44 296 $)
+14. Dans leurs déclarations de revenus se rapportant aux années d’imposition 2000 et 2001, Wayne Rayner et Roxanne Rayner ont déclaré un revenu total comme suit :
+2000
+2001
+Wayne Rayner (perte)
+(6 871 $)
+(29 605 $)
+Roxanne Rayner
+21 493
+22 063
+Total
+14 622 $
+(7 542 $)
+15. Rayner’s Auto Sales est tenue, en vertu de la Loi sur la taxe d’accise, de produire ses déclarations relatives à la TPS/TVH sur une base trimestrielle.
+16. Rayner’s Auto Sales a déclaré comme suit l’activité relative à la TPS au cours de la période en question :
+Fin de la période
+Recettes
+TPS
+CTI (crédit de taxe sur les intrants)
+2000-12-31
+33 150 $
+2 320 $
+(4 127 $)
+2001-03-31
+131 349 $
+8 509 $
+(10 569 $)
+2001-06-30
+160 305 $
+10 894 $
+(11 497 $)
+2001-09-30
+196 925 $
+13 952 $
+(16 894 $)
+2001-12-31
+211 870 $
+14 988 $
+(15 037 $)
+Total
+733 599 $
+50 663 $
+(58 124 $)
+Les documents convenus
+Les parties conviennent que les documents suivants sont des copies conformes des documents que ces copies représentent :
+1. Les documents énumérés dans la liste de documents de l’appelant;
+2. Les documents énumérés dans la liste de documents de l’intimée et dans la première liste supplémentaire de documents.
+FAIT à Summerside (Île-du-Prince-Édouard), le 25 juin 2008.
+« Jeffery Cormier »
+Jeffery A. Cormier
+Avocat de l’appelant
+FAIT à Vancouver (Colombie-Britannique), le 26 juin 2008.
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Avocat de l’intimée
+« John Gibb-Carsley »
+John Gibb-Carsley
+Avocat de l’intimée
+Ministère de la Justice
+900 – 840, rue Howe
+Vancouver (Colombie-Britannique)
+V6Z 2S9
+Téléphone : 604-775-7495
+Télécopieur : 604-666-2214
+Par :
+Cet exposé conjoint des faits restreignait en fait les points en litige dans les présents appels aux questions suivantes :
+1. Un compte client au montant de 44 261 $ (le « compte client ») d’Elmsdale Auto Sales (« Elmsdale ») a‑t‑il à juste titre été inclus dans le calcul du revenu de l’appelant fondé sur la valeur nette au cours de l’année d’imposition 2001?
+2. La TPS calculée sur ce compte client a-t-elle été à juste titre établie?
+3. Les pénalités pour faute lourde ont-elles été à juste titre établies?
+[3] Le ministre a recours à une cotisation de valeur nette en dernier ressort lorsque, de toute évidence, d’autres méthodes et d’autres mesures plus directes et plus exactes dont il dispose normalement n’ont donné aucun résultat ou qu’il est tout simplement impossible de les appliquer. Le but est d’obtenir une mesure appropriée du revenu du contribuable sur une période donnée. Par sa nature même, cette mesure est imprécise. Au paragraphe 2 de la décision Bigayan v. The Queen, 2000 DTC 1619, la méthode de la valeur nette a été décrite comme suit :
+La méthode de la valeur nette est, comme on le faisait observer dans l’affaire Ramey v. The Queen, 93 DTC 791, une solution de dernier recours que l’on emploie lorsque tout le reste a échoué. On l’utilise souvent lorsqu’un contribuable a omis de produire des déclarations de revenus ou n’a pas conservé de documents. C’est un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année de sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus‑values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+[4] À l’exception de la question des pénalités, il incombe aux appelants de produire une preuve crédible visant à démontrer que la cotisation résultant de l’emploi de cette méthode n’est pas fondée et que le revenu et la TPS ont été enregistrés et déclarés de la façon appropriée. Les appelants peuvent contester une cotisation de valeur nette en produisant des éléments de preuve sous forme de registres et d’autres documents qui établissent d’une façon satisfaisante quel est réellement le revenu. En l’absence de documents, il s’agit de la meilleure méthode à employer; toutefois :
+[traduction]
+[...] l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées. Chernenkoff v. Minister of National Revenue, 49 DTC 680, page 683)
+Les appelants ne peuvent pas se prévaloir de la meilleure méthode à employer parce qu’ils n’ont pas tenu de livres et de registres exacts et parce que, comme ils l’ont eux‑mêmes avoué, ils n’avaient pas la moindre idée de ce qu’ils faisaient en ce qui concerne les bonnes pratiques en matière de tenue de livres.
+[5] J’ai entendu les témoignages de Wayne Rayner, de son épouse, Roxanne Rayner, de Jaret Adams et de Gerald Adams. L’intimée s’est fondée sur le témoignage de la vérificatrice, Sharon MacNeilll.
+[6] Wayne Rayner est propriétaire‑exploitant de Rayner’s Auto Sales, une entreprise s’occupant de véhicules d’occasion qu’il a lancée en l’an 2000. C’était son épouse qui tenait les livres de l’entreprise. Avant d’établir Rayner’s Auto Sales, M. Rayner était pêcheur. M. Rayner s’est présenté comme étant celui qui s’occupait [traduction] « activement » de Rayner’s Auto Sales. Il voyageait presque tout le temps afin d’acheter des véhicules, d’aller chercher des véhicules et de revenir ensuite avec ces véhicules pour les vendre depuis son parc de voitures. Il connaissait peu le côté « tenue de livres » de l’entreprise, mais lors du contre‑interrogatoire, il a admis que certaines opérations avaient été conclues en espèces. Il a déclaré que, même s’il ne s’occupait pas des opérations bancaires, il était possible qu’environ 80 billets de cent dollars aient été déposés lorsque des dépôts étaient effectués. Il a également admis ne pas savoir grand‑chose au sujet du compte client qui est au cœur des questions ici en litige.
+[7] Pendant toutes les périodes en cause, Roxanne Rayner tenait les livres de Rayner’s Auto Sales. Mme Rayner est infirmière de profession; elle n’avait aucune formation antérieure en matière de tenue de livres. Elle a admis [traduction] « ne pas savoir exactement ce [qu’elle] faisai[t] ». Elle croyait qu’il suffisait de faire le suivi à l’égard des ventes de véhicules et de verser la TPS et la TVP. Elle préparait les contrats de vente et tous les autres documents, mais en se fondant toujours sur les renseignements et sur les montants fournis par son mari. Elle a déclaré que Jaret Adams achetait des véhicules de son mari avant d’avoir obtenu son permis de concessionnaire et qu’il remettait un acompte à Rayner’s Auto Sales pour chaque véhicule qu’il voulait acheter. Les véhicules avaient été conservés pour Elmsdale tant que Jaret n’avait pas obtenu son permis de concessionnaire. Roxanne Rayner croyait que ces achats avaient eu lieu vers l’an 2000 ou vers l’année 2001. Elle a expliqué que ces achats n’ont pas été menés à bonne fin tant que Jaret n’a pas obtenu son permis parce que, en l’absence de ce permis, Jaret devait également payer la TVP sur les achats. Elle croyait que chacun de ces acomptes correspondait au paiement intégral du prix d’achat d’un véhicule, à l’exception de la TPS, qui était payée lorsque les contrats de vente étaient conclus. Elle ne se rappelait pas à quel moment le transfert d’enregistrement d’un véhicule en faveur de Jaret avait finalement lieu. Certains reçus se rapportant à ces acomptes étaient libellés au nom de Gerald Adams, le père de Jaret, étant donné que les Rayner recevaient des acomptes de ces deux personnes. Elle a relaté que tous les acomptes reçus de Gerald et de Jaret Adams étaient versés en espèces et qu’ils étaient déposés dans le compte de banque, à la coopérative de crédit de Summerside. Elle a conclu que ces dépôts en espèces se rapportaient à Elmsdale en examinant le registre de ventes et en conciliant les montants et les dates auxquelles des montants similaires avaient été déposés, même si ces derniers montants ne correspondaient pas exactement aux montants des opérations. Elle avait déduit que les dépôts en espèces les plus élevés se rapportaient à Elmsdale, étant donné que la plupart des acheteurs effectuaient les paiements par chèque. Elle a admis ne pas savoir exactement à quel moment les acomptes avaient été versés, étant donné qu’elle avait appris après la vérification seulement qu’elle devait faire le suivi de l’argent qui était déposé dans le compte de banque ou qui en était retiré.
+[8] Lors du contre-interrogatoire, l’explication donnée par Mme Rayner quant au fait que toutes les factures concernant Elmsdale Auto Sales (pièce A‑1) portaient des numéros consécutifs, sans qu’il y ait d’autres factures intercalées établies pour un autre acheteur au cours de la période en cause, était que ces ventes étaient les seules ventes dans le cadre desquelles un acompte avait été versé et que l’entreprise possédait un grand nombre de carnets de factures, ce carnet particulier étant celui qu’elle utilisait exclusivement pour Elmsdale. Les factures produites sous la cote A‑1 se rapportaient aux ventes pour lesquelles un acompte avait été versé, mais les quatre factures produites sous la cote A‑2 étaient datées du 28 décembre 2001 et renfermaient tous les renseignements ayant trait à ces ventes, y compris le prix de vente et les taxes. Ce sont ces quatre factures qui ont été fournies à la vérificatrice.
+[9] Jaret Adams a déclaré s’être lancé dans la vente de voitures au mois de juin 2001, mais avoir obtenu son permis de concessionnaire aux fins de la vente et de l’achat de véhicules le 21 décembre 2001 seulement. Son père, Gerald Adams, l’avait aidé sur le plan financier à établir Elmsdale Auto Sales en lui donnant diverses sommes d’argent. Initialement, il achetait des véhicules des appelants en versant des acomptes correspondant au prix d’achat, moins les taxes applicables. Les appelants avaient conservé les véhicules jusqu’à ce qu’il obtienne son permis de concessionnaire, au mois de décembre 2001, et il avait alors payé les taxes et pris possession des véhicules. M. Adams a témoigné qu’il avait versé les acomptes à l’aide de l’argent qu’il avait reçu de son père, que, lorsqu’il versait un acompte, on lui remettait des reçus (partie de la pièce A‑1) et qu’il avait finalement acquitté les soldes dus à Rayner’s Auto Sales comme en font état les documents produits sous la cote A‑2.
+[10] Lors du contre-interrogatoire, Jaret Adams a déclaré avoir acheté les véhicules des appelants de cette façon parce qu’il ne détenait pas son permis de concessionnaire et qu’il avait fallu plus de temps que ce à quoi il s’attendait pour l’obtenir. Il n’a pas pu expliquer pourquoi le dernier reçu daté du 13 décembre 2001, pièce A‑1, contrairement aux autres, indiquait un montant au titre de la TPS. Il croyait qu’étant donné que cela s’était produit au cours de la semaine où il avait obtenu son permis de concessionnaire, il s’agissait d’une erreur commise de bonne foi. Il n’a pas pu expliquer pourquoi le reçu antérieur, pièce A‑1, était également daté du 13 décembre 2001, mais n’indiquait pas la TPS.
+[11] Gerald Adams a témoigné avoir prêté à son fils de 30 000 à 45 000 $ en espèces, en 2001, pour permettre à celui‑ci d’acheter des véhicules de Rayner’s Auto Sales. Son fils a commencé à acheter des véhicules des appelants aux mois de juin ou de juillet 2001. Le témoin ne se rappelait pas qu’il ait été question avec son fils du paiement de la taxe et, lorsqu’on lui a demandé s’il avait prêté des montants additionnels à son fils pour payer les taxes, il a répondu : [traduction] « [P]as à ma connaissance. » Il ne se rappelait pas avoir vu les documents produits sous la cote A‑1 ni avoir signé quoi que ce soit.
+[12] Le témoin de l’intimée, Sharon MacNeilll, a déclaré que l’examen des activités commerciales de l’appelant avait commencé par une vérification de la TPS, mais qu’étant donné qu’elle ne pouvait pas procéder à une analyse satisfaisante des dépôts bancaires, une cotisation de valeur nette avait été effectuée. Mme MacNeilll a déclaré que tous les documents des appelants étaient [traduction] « en piles, sur le plancher de leurs locaux ». Lorsque des opérations étaient conclues en espèces, il n’y avait jamais eu de rapprochement à l’égard des factures de vente. Mme MacNeilll n’a pas pu effectuer de rapprochement entre l’argent et les factures, étant donné qu’il y avait toujours plus d’argent que de dépôts. Les factures n’indiquaient pas si une opération était conclue en espèces ou par chèque parce que Mme Rayner inscrivait uniquement le mot [traduction] « payé » sur chaque facture. Par conséquent, si elle ne pouvait pas trouver ailleurs d’opération en espèces, elle ne pouvait pas résoudre ces questions. Mme MacNeill a déclaré qu’il arrivait parfois qu’il y ait des dépôts additionnels en espèces de 50 000 à 60 000 $ dont il n’était pas possible de rendre compte dans le journal des ventes ou dans les factures. De plus, certains dépôts en espèces sautaient aux yeux. Ainsi, il n’y avait aucun document à l’égard de quatre‑vingts billets de 100 $ ni aucune facture indiquant de quoi il s’agissait. Mme MacNeill a déclaré que Mme Rayner lui avait dit qu’elle ne donnait pas de reçus pour les opérations en espèces. Étant donné que Mme MacNeill n’avait pas pu reconstituer le journal des ventes et effectuer un rapprochement entre les dépôts et le journal, elle s’était vue obligée de passer à la méthode moins satisfaisante de la cotisation de valeur nette. Mme MacNeill a témoigné ne pas avoir vu de factures ou de reçus semblables à ceux qui étaient utilisés dans la pièce A‑1 pour d’autres clients de Rayner’s Auto Sales. Au cours de la vérification, on ne lui avait jamais remis les factures et reçus produits sous la cote A‑1. De plus, elle n’avait jamais vu de reçus qui ne faisaient pas également état des taxes appropriées. Mme MacNeill a fait remarquer que les reçus produits sous la cote A‑1 étaient différents des autres reçus que l’entreprise utilisait pour d’autres clients quant à la présentation.
+[13] Mme MacNeill a décidé d’établir des pénalités pour faute lourde, compte tenu des facteurs suivants :
+1. Les montants par lesquels l’appelant avait déclaré en moins son revenu au cours de chaque année étaient importants par rapport au revenu total indiqué dans les déclarations de revenus;
+2. Mme Rayner était chargée de la tenue de livres, mais elle suivait les instructions de M. Rayner. Il y avait de grosses sommes d’argent, sans toutefois la moindre preuve que des reçus avaient été remis aux clients qui payaient en espèces. M. Rayner avait retiré de l’argent de certaines ventes conclues en espèces lorsqu’il en avait besoin pour ses déplacements. Toutefois, aucun rapprochement ni aucun contrôle n’étaient en fin de compte effectués pour justifier les ventes en espèces et l’argent retiré;
+3. Mme MacNeill estimait qu’il était inhabituel pour une entreprise qui concluait un grand nombre de ventes en espèces de ne pas être en mesure de fournir des reçus, tout en étant certaine qu’un client avait payé un véhicule, et ce, sans avoir de pièce justificatrice. Lorsqu’elle a demandé à Mme Rayner comment celle‑ci pouvait identifier les montants qui provenaient de Jaret Adams, Mme Rayner a répondu que c’était sa [traduction] « meilleure estimation »;
+4. M. Rayner s’opposait à tout changement ou à toute suggestion visant à améliorer la méthode de tenue de livres qu’il employait;
+5. Mme MacNeill n’a pas pu établir de lien entre certaines factures ou un ensemble de factures et les totaux en espèces.
+[14] Lors du contre-interrogatoire, Mme MacNeill a déclaré que Jaret Adams lui avait initialement dit qu’il avait toujours payé les appelants par chèque pour les achats de véhicules, au mois de décembre 2001, mais qu’il lui avait par la suite dit qu’il avait effectué les paiements en espèces sur une certaine période, à compter du mois de juin ou de juillet 2001. Mme MacNeill a déclaré que, même si elle avait reçu les factures (pièce A‑1) au cours de la vérification, cette documentation l’aurait néanmoins laissée sceptique, étant donné qu’il serait inhabituel d’avoir pour Elmsdale un carnet de factures distinct dans lequel tous les reçus seraient numérotés consécutivement.
+Analyse
+[15] Les appelants ont admis avoir omis de déclarer tout le revenu généré par l’entreprise ainsi que la TPS perçue au cours des années d’imposition 2000 et 2001 conformément à la cotisation établie par la vérificatrice, à l’exception d’un compte client d’Elmsdale pour l’année d’imposition 2001. Les présents appels sont donc axés sur la question de savoir si l’appelant devait inclure ce compte client dans son revenu de 2001. Au cours de la vérification, on avait remis à Mme MacNeill les quatre factures (pièce A‑2), qui étaient toutes datées du 28 décembre 2001. Ces quatre factures, s’élevant en tout à 44 261 $, se rapportaient à la vente de sept véhicules et à la vente de pièces pour une Sunfire, par l’appelante, Rayner’s Auto Sales, en faveur d’Elmsdale. Mme MacNeill n’a pas pu effectuer de rapprochement entre les montants de ces factures et les dépôts bancaires pour la période allant du 28 décembre au 31 décembre 2001. De plus, l’appelant a inscrit la vente de ces mêmes véhicules et de ces mêmes pièces en faveur d’Elmsdale et leur achat le 28 décembre 2001.
+[16] La documentation produite sous la cote A‑1 n’avait pas été fournie à Mme MacNeill lorsque la cotisation de valeur nette avait été établie, mais les appelants ont produit ce second ensemble de factures, concernant les ventes en faveur d’Emsdale, après avoir fait opposition. Ces factures correspondaient à la preuve soumise par les témoins des appelants, à savoir que Jaret Adams avait acheté sept véhicules, en versant un acompte, à divers moments, entre le 23 juillet et le 13 décembre 2001. L’appelant a également soumis huit nouveaux reçus, produits sous la cote A‑1, pour justifier le paiement de ces véhicules. Ces reçus indiquent que c’était le père de Jaret, Gerald Adams, qui avait versé les montants aux appelants pour les achats. Le dernier reçu, pièce A‑1, est le huitième, daté du 13 décembre 2001, au montant de 4 525 $, qui, contrairement aux autres documents produits sous la cote A‑1, comprenait un montant au titre de la TPS. De plus, contrairement aux autres documents, il n’y avait pas de facture correspondant à ce reçu dans la pièce A‑1. Toutefois, la facture faisait partie des factures produites sous la cote A‑2. Il est également intéressant de noter que la vente d’une Cavalier 1998 qui, selon la documentation produite sous la cote A‑2, avait été vendue à Elmsdale, n’était pas incluse dans les factures produites sous la cote A‑2 fournies à la vérificatrice. Un autre facteur qui est suspect figure dans le grand livre de ventes et d’achats des appelants, qui indique que les appelants avaient acheté une « Coccinelle » Volkswagen de Mike’s Rebuidables, le 23 juillet 2001, soit la même date que celle qui était indiquée dans la documentation produite sous la cote A‑1, indiquant que l’appelant avait vendu le même véhicule à Elmsdale Auto Sales.
+[17] Selon la jurisprudence, les appelants doivent soumettre une preuve crédible qui me convaincra que ce compte client d’Elmsdale ne doit pas être inclus dans le revenu de l’année d’imposition 2001. Je souscris aux arguments de l’intimée, à savoir que les présents appels ne devraient pas être axés sur la question de savoir si les montants du compte client étaient payés au moyen d’acomptes pendant toute la période allant du mois de juin ou de juillet au 13 décembre 2001, mais que l’accent devrait plutôt être mis sur la capacité des appelants d’effectuer un rapprochement entre les ventes conclues au moyen d’acomptes et les dépôts bancaires, la charge de cette preuve incombant aux appelants. Or, les appelants ne se sont tout simplement pas acquittés de leur obligation. Ils n’ont pas employé la meilleure méthode pour attaquer une cotisation de valeur nette en soumettant une preuve au sujet de ce que le revenu des années pertinentes devrait être. De fait, les appelants ont accepté tous les calculs du revenu fondés sur la valeur nette effectués par le ministre, sauf l’inclusion de ce compte client. Je ne dispose d’aucun élément de preuve indiquant que ces montants ont été déposés dans les comptes de banque des appelants en 2001, parce que les appelants n’ont pas pu établir avec certitude que les dépôts se rapportaient de fait aux paiements effectués par Elmsdale. Les appelants ont soutenu qu’il est rendu compte ou qu’il est fait état du compte client dans la pièce A‑3, soit dans les bordereaux de dépôt se rapportant au compte à la coopérative de crédit, lesquels indiquaient des dépôts en espèces provenant des ventes de véhicules. Mme Rayner a déduit que ces dépôts se rapportaient aux opérations conclues avec Elmsdale, parce que les montants et les dates indiqués dans les documents de dépôt correspondaient à peu près à ceux des ventes conclues en espèces. Toutefois, on n’a rien offert de plus concret, si ce n’est que l’on a choisi de gros dépôts en soutenant qu’ils se rapportaient à Elmsdale. Je crois que, dans son témoignage, Mme Rayner a dit qu’il s’agissait de sa [traduction] « meilleure estimation ». Or, les conjectures et les estimations ne réussiront pas à convaincre un tribunal de modifier une cotisation de valeur nette.
+[18] De plus, je constate un certain nombre d’incohérences entre la documentation produite sous la cote A‑1 et celle qui a été produite sous la cote A‑2. Les documents initialement fournis à la vérificatrice (pièce A‑2) étaient contredits par la documentation subséquente remise après la vérification (pièce A‑1). Les factures et reçus produits sous la cote A‑1 ne l’ont été qu’une fois la vérification terminée. Mme MacNeill a reçu les documents produits sous la cote A‑2 au cours de la vérification; or, certains renseignements inscrits dans ces factures contredisaient ceux qui figuraient dans la pièce A‑1. Il semble que certains documents aient par la suite été produits en vue d’expliquer ce compte client. Cette documentation pose un autre problème : en effet, les factures produites sous la cote A‑1 se suivaient, et ce, bien que les soi‑disant ventes aient eu lieu sur une période de plusieurs mois. Il semble ici encore que ces factures aient été établies à un moment autre que la date indiquée. Un autre problème auquel font face les appelants se rapporte à l’inclusion d’un véhicule additionnel, une Cavalier 1998, dans les documents produits sous la cote A‑1, lequel ne figure pas dans les documents produits sous la cote A‑2. Aux dires de l’intimée, il était probable que l’appelant a oublié d’inclure les taxes pertinentes dans les factures produites sous la cote A‑1 et il fallait donc inclure ce véhicule additionnel pour arriver à peu près au montant de 44 261 $ du compte client. Je ne dispose d’aucun élément de preuve indiquant que ce soit le cas, mais si j’examine tous les points qui posent un problème dans leur ensemble ainsi que les incohérences par rapport aux documents, pour lesquels je ne dispose d’aucune réponse satisfaisante, je dois revenir à la question de la charge de la preuve, à savoir qu’il incombe aux appelants de soumettre une preuve crédible qui montre, selon la prépondérance des probabilités, que la cotisation de valeur nette ici en cause est erronée. Il existe également d’autres problèmes. Ainsi, le grand livre des appelants indique l’achat d’un véhicule de Mike’s Rebuidables le 23 juillet 2001, une vente étant conclue le même jour en faveur d’Elmsdale. S’il s’agissait de l’unique élément de preuve contestable, je pourrais sans aucun doute accepter une explication selon laquelle, dans cette industrie, il se peut qu’un achat et une revente aient lieu le même jour. Toutefois, si j’examine la preuve dans son ensemble, il y a tout simplement un trop grand nombre d’autres points contestables, d’incohérences et de contradictions qui l’emportent sur le point peu important à l’égard duquel j’aurais peut‑être par ailleurs accepté une explication de la part des appelants. Or, on ne m’a soumis aucun document suffisant, ni d’une façon plus appropriée de documents ou de relevés bancaires, à l’appui de l’assertion des appelants, à savoir que les montants payés pour ces véhicules ont été déposés dans leur compte bancaire. J’ai devant moi le témoignage d’une préposée à la tenue de livres qui a admis ne pas savoir ce qu’elle faisait, ne pas avoir fait le suivi des relevés bancaires et ne même pas savoir qu’elle devait le faire, ne pas avoir pris connaissance des relevés bancaires qu’elle recevait, avoir remis à son mari de l’argent provenant d’opérations conclues en espèces dont elle n’assurait pas le suivi ou pour lesquelles elle n’effectuait aucun rapprochement, n’avoir utilisé aucune mesure de sauvegarde en faisant le suivi des opérations conclues en espèces et, d’une façon générale, avoir fait des conjectures au sujet des montants et des dates lorsqu’il s’agissait d’effectuer un rapprochement entre les ventes conclues en espèces et les dépôts. On ne m’a soumis aucun élément de preuve crédible qui satisfasse à l’obligation qui incombe aux appelants et qui étaye le retrait de ce compte client du revenu de l’appelant au cours de l’année d’imposition 2001.
+[19] La conclusion que je tire, à savoir que le compte client doit être inclus dans le revenu, règle la deuxième question et la TPS calculée sur ce compte client a donc été à juste titre établie.
+[20] La troisième et dernière question se rapporte à l’imposition de pénalités pour faute lourde sur le revenu non déclaré et sur les montants non versés au titre de la TPS. Le paragraphe 163(3) de la Loi de l’impôt sur le revenu impose au ministre l’obligation de démontrer que des pénalités doivent s’appliquer conformément au paragraphe 163(2). L’article 285 de la Loi sur la taxe d’accise est fort semblable au paragraphe 163(2) et les mêmes principes de base s’appliquent aux deux lois lorsque des pénalités sont en cause. La définition généralement reconnue de la faute lourde a été énoncée par le juge Strayer dans la décision Venne v. The Queen, 84 DTC 6247, page 6256 :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi. [...]
+[21] Dans la décision DeCosta v. The Queen, 2005 DTC 1436, le juge en chef Bowman a fait une distinction, au paragraphe 11, entre la faute lourde et la faute ordinaire :
+Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qui convient dans le contexte de l’ensemble de la preuve.
+[22] L’importance de l’omission par rapport au revenu déclaré dans les présents appels était grande. En l’an 2000, le revenu non déclaré établi représentait 33,3 p. 100 du revenu brut déclaré par l’appelant. En 2001, le revenu non déclaré établi correspondait à 10 p. 100 du revenu brut déclaré par l’appelant. De plus, l’appelant a produit, en l’an 2000 et en 2001, des déclarations de revenus dans lesquelles il indiquait une position débitrice. Or, les déclarations relatives à la TPS qui ont été produites indiquaient une position créditrice, ce qui donnait lieu à des remboursements de la TPS. Je crois que, compte tenu de tous ces facteurs, l’appelant aurait dû se rendre compte qu’il y avait quelque chose qui n’allait pas. La femme de l’appelant s’occupait de la tenue de livres, mais elle suivait les instructions que son mari lui donnait au sujet des opérations d’achat et vente. Or, c’était le mari qui était responsable des activités courantes de l’entreprise et qui était mieux placé pour déceler les problèmes possibles se rattachant aux déclarations. Le mari était également mieux placé pour effectuer le contrôle nécessaire ou pour faire en sorte que le contrôle nécessaire soit effectué, de façon à pouvoir vérifier les opérations conclues en espèces. Ce n’était pas la première fois que l’appelant se lançait dans une entreprise. Avant de s’occuper de ventes de voitures, l’appelant était pêcheur. Lorsque des entreprises sont fondées sur des opérations en espèces, l’obligation de tenir des livres et registres adéquats qui sont passablement transparents et sont suffisamment explicites pour un tiers qui les examine est d’autant plus rigoureuse. En ce qui concerne l’entreprise ici en cause, les documents étaient incomplets et inexacts; de plus, ils renfermaient un grand nombre d’incohérences qu’il est impossible d’expliquer d’une façon satisfaisante. Dans un régime d’autocotisation, les contribuables ont la responsabilité d’assurer le suivi de leurs activités commerciales et de les déclarer d’une façon claire, exacte et uniforme, d’autant plus lorsque ces activités comportent des opérations en espèces. Selon les témoignages que j’ai entendus, rien n’indiquait que, dans cette entreprise, il était particulièrement difficile de faire le suivi d’une façon appropriée. L’appelant achetait des véhicules et des pièces qu’il revendait à des clients qui payaient apparemment en espèces ou par chèque. Le contribuable qui se rend compte qu’il est dépassé par les événements, comme Mme Rayner a déclaré l’être, et qu’il ne sait tout simplement pas ce qu’il fait, doit demander l’aide d’un expert. La situation a duré deux ans jusqu’à ce que la vérification ait lieu. Mme Rayner a admis que, lorsqu’elle a découvert qu’ils faisaient l’objet d’une vérification, elle espérait qu’on l’aiderait à faire le suivi des divers éléments et à établir de meilleurs documents. À vrai dire, les appelants soupçonnaient fortement que des problèmes se posaient. J’hésite toujours à imposer des pénalités à moins que la preuve n’établisse clairement le degré de négligence nécessaire aux fins de l’imposition d’une pénalité, mais je crois qu’en l’espèce, la preuve démontre que le ministre a satisfait à l’obligation qui lui incombait et que les pénalités sont justifiées.
+[23] Les appels sont rejetés. Aucuns dépens ne seront adjugés dans l’un ou l’autre appel.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 30e jour de juillet 2008.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 5e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008CCI446
+DOSSIERS DE LA COUR : 2006-1021(GST)I
+2006-1022(IT)G
+INTITULÉ : Rayner’s Auto Sales et
+Wayner Rayner
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 7 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 30 juillet 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Jeffery Cormier
+Avocat de l’intimée :
+Me John Gibb‑Carsley
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Jeffery Cormier
+Cabinet : Key, McNight et Maynard
+Summerside (Île-du-Prince-Édouard)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

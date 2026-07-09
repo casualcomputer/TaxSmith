@@ -1,0 +1,138 @@
+---
+title: "Webb c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26062/index.do"
+last_modified: "2004-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 619"
+citation2: ""
+neutral_citation: "2004 CCI 619"
+decision_date: "2004-09-09"
+language: "fr"
+item_id: "26062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4057
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:05:00.848000+00:00"
+cases_cited_count: 0
+cases_citing_count: 19
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5db4fce60917a84c6768b57642176865f799c9379b881051bdce2d5d0f95452f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Webb c. La Reine
+
+- Citation: 2004 CCI 619
+- Decision date: 2004-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4057, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Webb c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-09
+Référence neutre
+2004 CCI 619
+Numéro de dossier
+2004-263(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004TCC619
+Date : 20040909
+Dossier : 2004-263(IT)I
+ENTRE :
+DWIGHT WEBB,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Agent de l’appelant : Bob Rogers
+Avocat de l’intimée : Me Gavin Laird
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Vancouver (Colombie-Britannique), le 16 juillet 2004)
+Le juge Bowie
+[1] Ces appels découlent de nouvelles cotisations établies concernant l’impôt sur le revenu pour les années d’imposition 1997 et 1998. La question de chaque appel est de savoir si l’appelant a droit à un crédit d’impôt pour un don de bienfaisance, crédit tel que demandé dans ses déclarations de revenus pour ces deux années. Au départ, le ministre du Revenu national avait admis les crédits tels que demandés par l’appelant, mais il a ensuite établi une nouvelle cotisation dans laquelle les crédits ont été refusés en entier.
+[2] Les crédits demandés par l’appelant étaient pour un montant de 7 069 $ d’un don de 30 000 $ qu’il dit avoir fait en 1997, et pour un montant de 17 097 $ reporté prospectivement sur l’année 1998. Il dit avoir fait un don de 30 000 $ en 1997 à une organisation connue sous le nom de « Association for the Betterment of Literacy and Education », que je vais appeler ici ABLE.
+[3] Dans son témoignage, l’appelant a affirmé avoir donné 30 000 $ à ABLE parce qu’il voulait faire sa part pour la promotion de l’alphabétisation en Colombie-Britannique, et que cette organisation, selon ses dires, était dévouée à la cause en question. Il a dit que lui-même n’était pas un très bon lecteur et qu’il le regrettait. Il avait rencontré un certain Stuart MacPherson à Montecristo Jewellers, où il travaillait. M. MacPherson lui a recommandé ABLE comme organisation à laquelle il pouvait faire un don pour faire avancer la cause de l’alphabétisation. L’appelant a donc fait un don. Cependant, avant de faire le don, l’appelant a téléphoné à l’Agence des douanes et du revenu du Canada pour vérifier si ABLE était bel et bien un organisme de bienfaisance enregistré, et il en a eu la confirmation. À ce moment-là, ABLE était un organisme de bienfaisance enregistré, mais pas très longtemps après que l’appelant a fait son don, il y a eu désenregistrement de ABLE.
+[4] Dans son témoignage, M. Webb a également affirmé qu’il ne s’était pas fait offrir d’incitatif ou de récompense pour son don à ABLE. Il ne s’était pas non plus fait offrir de reçu pour un montant plus important que son don de 30 000 $. C’était là le fond de son témoignage en interrogatoire principal. Il a présenté une copie du chèque oblitéré qu’il avait fait au nom de ABLE, ainsi qu’un reçu correspondant au montant du don fait à son nom et signé au nom de ABLE. Les deux documents sont datés du 30 janvier 1998. M. Webb a affirmé qu’il avait donné le chèque à M. MacPherson à la bijouterie Montecristo et que c’est ce dernier qui lui a remis le reçu.
+[5] Il est évident que l’appel visant l’année 1997 doit être rejeté. Il est possible de demander des crédits d’impôt pour un don fait dans l’année à un organisme de bienfaisance enregistré. Un don (ou une partie d’un don) peut être reporté prospectivement sur une année ultérieure s’il n’a pas fait l’objet d’une demande de crédit pour l’année où il a été effectué. Cependant, il n’y a pas de disposition qui prévoit le report rétrospectif sur une année antérieure de la partie inutilisée d’un don. L’appel concernant l’année d’imposition 1997 est donc rejeté, étant donné que le don, s’il a été fait, n’a pas été fait avant la fin de 1997.
+[6] À la conclusion de son témoignage en interrogatoire principal, l’appelant et son agent ont demandé la suspension de la procédure pour la curieuse raison qu’avec leurs éléments de preuve ils avaient établi leur cause. De toute évidence, il ne voulait pas être soumis à un contre-interrogatoire. Le contre-interrogatoire a tout de même eu lieu et il a réussi, avec les éléments de preuve fournis par M. Larry Kuhn, à me convaincre que l’appelant n’avait pas dit la vérité dans son témoignage lorsqu’il a affirmé avoir donné 30 000 $ à ABLE en janvier 1998 sans s’être fait offrir un incitatif et sans s’attendre à recevoir un quelconque paiement en retour de la part de ABLE ou d’un tiers lié.
+[7] Au contre-interrogatoire, M. Webb a admis de mauvais gré que ses dons de bienfaisance dans les années 1992 à 2002, à l’exclusion du chèque de 30 000 $ fait à ABLE et d’un chèque de 150 $ fait à une organisation appelée Taxman, qui selon les éléments de preuve est une organisation liée à ABLE, étaient de 100 $ en 1994, 50 $ en 1997, 30 $ en 1998, 100 $ en 2000 et 100 $ en 2002. Donc, un total de moins de 400 $ pour une période de 11 ans ou une moyenne d’environ 35 $ par année.
+[8] M. Webb a été questionné au sujet de sa relation antérieure avec M. Stuart MacPherson et il a nié avoir déjà eu des relations d’affaires avec lui. Cependant, la preuve fournie par M. Kuhn a permis de démontrer que l’appelant et M. MacPherson avaient déjà participé en même temps à un certain nombre d’entreprises sur une période de quelques années, entreprises qui étaient toutes des sociétés appartenant à un petit nombre d’investisseurs. Il est peu probable que les deux ne se connaissaient pas et qu’ils ne savaient pas dans ces cas-là que l’autre était aussi un investisseur.
+[9] M. Larry Kuhn est un comptable agréé et a un diplôme en administration des affaires. Il est répartiteur pour Revenu Canada, ou l’Agence des douanes et du revenu du Canada, depuis 1992. Il a participé directement et largement à des vérifications menées à la suite de nombreuses demandes de crédit pour des dons de bienfaisance faits à ABLE pendant la période de 1993 à 1996. Il a mené une enquête sur les opérations de ABLE et connaît bien ses antécédents et son mode de fonctionnement.
+[10] Dans son témoignage, il a affirmé que ABLE était une création de M. Henry Thill, qui avait mis au monde l’organisation et l’avait dirigée au cours des premières années. M. Kuhn a indiqué un certain nombre de dépliants publicitaires qui expliquaient les activités de ABLE. Il a dit que l’organisation fonctionnait de différentes façons selon le moment considéré. Il a fourni une explication concernant les deux modes principaux de fonctionnement. D’abord, une entente selon laquelle une personne pouvait faire un don pour lequel elle se verrait attribuer un reçu d’une valeur quatre fois plus élevée que le montant donné. La personne utilisait alors le reçu pour demander des crédits d’impôt qui, de façon générale, dépassait le montant du prétendu don. Plus tard, à compter de 1995 environ, les donateurs recevaient un cadeau de 75 % du montant du don. Les cadeaux provenaient de ABLE ou d’une source liée. Ce mode de fonctionnement avait essentiellement le même effet que le premier. Une personne qui prétend faire un don de 1 000 $ et qui obtient un reçu pour 1 000 $ et un remboursement en espèces de 750 $ a en fait transféré seulement 250 $ à l’organisation, mais a un reçu de 1 000 $ qui peut être utilisé pour demander un crédit d’impôt frauduleux.
+[11] Dans son témoignage, M. Kuhn a affirmé que pendant la période où il faisait enquête sur les activités de ABLE et où il établissait des cotisations pour les personnes qui faisaient des dons à ABLE, il avait refusé les crédits d’impôt demandés par chacun des 550 soi-disant donateurs qu’il avait vérifiés. Il n’a trouvé aucun cas de donateur à ABLE qui avait payé plus de 25 % de la valeur du reçu qu’il avait obtenu. Ils avaient payé 25 % de la valeur nominale du reçu, ou bien ils avaient payé 100 % de la valeur nominale du reçu et avaient reçu un remboursement de 75 %.
+[12] Également, M. Kuhn a décelé une série de bons de commande que ABLE avait utilisés pour acheter ce qu’on pourrait appeler des « trousses de lecture », ou des trousses que l’organisation devait distribuer dans diverses écoles de la Colombie-Britannique. Il a aussi trouvé les factures selon lesquelles le fournisseur a obtenu les trousses. Sans entrer dans le détail des transactions, l’importance de la majoration vient démontrer qu’il ne s’agissait pas de transactions commerciales normales, mais que, suivant ce qui était usuellement le cas d’après le témoignage de M. Kuhn, une bonne partie de l’argent ne faisait simplement que circuler par les entreprises d’imprimerie et de distribution avant d’être renvoyé aux donateurs d’origine.
+[13] L’employeur de M. Webb, Pasquale Cusano, est une des personnes qui ont participé aux activités, tout comme Stuart MacPherson, qui semble-t-il est devenu directeur de ABLE en avril 1997 ou environ. Comme je l’ai déjà mentionné, à la suite des éléments de preuve obtenus grâce aux enquêtes menées par M. Kuhn concernant ABLE, l’organisation a été désenregistrée en 1999. Dans ses observations, M. Laird a dit assez franchement qu’il n’y avait pas de preuve irréfutable que le chèque fait par M. Webb au nom de ABLE pour un montant de 30 000 $ n’était pas un don. Il ne pouvait pas présenter de preuve tangible pour démontrer que M. Webb avait reçu un remboursement de 22 500 $ ou de quelque montant que ce soit.
+[14] Malgré le manque de preuve concluante, je conclus que M. Webb a reçu un tel remboursement, ou du moins a écrit son chèque et l’a donné à M. MacPherson dans la perspective de recevoir un tel remboursement. Ma conclusion quant au manque de crédibilité de M. Webb est fondée sur un bon nombre de facteurs. D’abord, il a été malhonnête en ce qui a trait à la date de son chèque dans sa déclaration de revenus de 1997. Il a fait une demande de crédit pour l’année 1997 même s’il savait nécessairement que le paiement, s’il a été fait, n’avait pas été fait avant 1998. Deuxièmement, il a été très vague dans le contre-interrogatoire au sujet de ses relations d’affaires avec Stuart MacPherson et Pasquale Cusano. Au début, il a nié avoir déjà eu des relations d’affaires avec M. MacPherson, même s’il était clair qu’il en avait eu. Troisièmement, il est foncièrement improbable qu’une personne qui n’a presque pas fait de dons de bienfaisance pendant plus de dix ans fasse tout à coup, dans une même année, un don aussi important que le don en cause ici, soit un don d’un montant quasi équivalent à son revenu net d’impôt pour l’année, et ce apparemment sans avoir fait de recherches sur les organismes de bienfaisance existants qui font la promotion de l’alphabétisation. M. Webb a parlé quelques fois de diligence raisonnable lors de son témoignage, mais il était incapable de nommer au moins une autre organisation en Colombie-Britannique, ou même dans le monde, dont les buts et objectifs comprenaient la promotion de l’alphabétisation. On pourrait croire qu’une personne qui se sent tout à coup poussée à faire un don aussi important aurait au moins examiné d’autres donataires possibles, et peut-être même plus méritants. Quatrièmement, ce serait une coïncidence remarquable si la transaction de 30 000 $ était la seule transaction faite à un moment où ABLE sollicitait des dons sans offrir l’incitatif de remboursement ou de reçus gonflés qui ferait en sorte que ce qui devait apparaître à première vue comme un don n’était en fait que l’achat de crédits d’impôt à un bon prix. J’ai de la difficulté à croire que dans ce cas particulier, ABLE a accepté un don et n’a rien donné ou promis en échange. À plusieurs occasions pendant l’audience, M. Webb et son agent ont tous deux désigné le prétendu don comme un achat. Je suis certain que, sur le moment, ils ne s’en sont pas rendu compte, mais « achat » n’est bien sûr pas un mot approprié à utiliser lorsqu’on parle d’un don. Selon moi, il s’agissait d’un lapsus révélateur. Finalement, M. Thill et M. MacPherson n’ont pas été appelés à témoigner au sujet de l’utilisation faite des fonds donnés à ABLE, au sujet de l’authenticité des activités de ABLE, ou au sujet de la transaction en question, même si dans la réponse il a été clairement établi que le ministre prendrait la position que, en fait, le don n’était pas un don, mais plutôt une transaction ayant pour but de conférer un avantage fiscal plus important que le montant versé à l’origine. Comme l’a admis M. Laird, il n’y a pas de preuve irréfutable. Malgré tout, les éléments de preuve fournis me convainquent que M. Webb a fait le paiement de 30 000 $, comme je l’ai déjà dit, au moins dans la perspective de recevoir le remboursement d’une importante partie de son don, par le truchement de ABLE ou par un moyen indirect, en plus du reçu comme tel.
+[16] Il s’est écrit beaucoup de documents au sujet des dons de bienfaisance au cours des années. Cependant, la loi est selon moi très claire. Je suis lié par la décision de la Cour d’appel fédérale dans l’affaire La Reine c. Friedberg,[1] entre autres. Ce cas et les autres du genre indiquent clairement que pour qu’un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu’il n’y ait d’avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu’il n’y ait d’attente d’avantage ou de contrepartie. En d’autres mots, l’intention du donateur doit être entièrement libérale.
+[17] Les circonstances que j’ai mentionnées m’amènent à conclure qu’il n’y avait rien du tout de libéral au sujet du paiement qu’a fait M. Webb à ABLE. Son intention était de recevoir un crédit d’impôt pour un don de bienfaisance, en plus d’un remboursement important du montant qu’il avait versé, de sorte qu’une fois additionnés, les deux éléments dépasseraient le montant de 30 000 $ pour lequel il a écrit le chèque.
+[18] Pendant la plaidoirie, on m’a renvoyé à la récente décision rendue par Mme la juge Campbell dans l’affaire Doubinin c. La Reine[2] et à son affirmation dans la première phrase du paragraphe 18 :
+« L’appelant n’a pas participé à un stratagème frauduleux d'évasion fiscale. Il est possible qu’il ait été motivé par un avantage fiscal potentiel, cependant je ne crois pas que cela puisse être considéré comme la contrepartie d’un don parce que les avantages fiscaux ne sont pas considérés comme des avantages. »
+Selon mon interprétation des propos de Mme la juge Campbell, l’intention n’est pas de donner de l’extension à ce qui a été dit par M. le juge Linden dans l’affaire Friedberg[3] et de donner à entendre qu’un stratagème par lequel une personne est en mesure de demander pour des dons de bienfaisance des crédits d’impôt d’un montant dépassant les dons réellement effectués, grâce à la production de faux reçus ou au remboursement d’une partie du don, est une transaction normale et qui ne serait pas considérée comme procurant un avantage dans le contexte de la définition de ce qui constitue un don. Comme l’a indiqué M. le juge Linden dans l’affaire Friedberg :
+« […] un don est le transfert volontaire du bien d'un donateur à un donataire, en échange duquel le donateur ne reçoit pas d'avantage ni de contrepartie. »
+Bien sûr, je suis lié par cette définition et je ne considère pas que cette définition a été restreinte par les propos de Mme la juge Campbell dans l’affaire Doubinin. De toute évidence, le montant payé dans le cas qui nous intéresse ici ne correspond pas à cette définition, et l’appel pour l’année 1998 sera également rejeté.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 23e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+RÉFÉRENCE :
+2004TCC619
+No DU DOSSIER DE LA COUR :
+2004-263(IT)I
+INTITULÉ DE LA CAUSE :
+Dwight Webb et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+13 juillet 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+19 juillet 2004
+COMPARUTIONS :
+Agent de l’appelant :
+Bob Rogers
+Avocat de l’intimée :
+Gavin Laird
+AVOCAT(E) INCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 92 DTC 6031.
+[2] 2004TCC438.
+[3] précité à 6032.

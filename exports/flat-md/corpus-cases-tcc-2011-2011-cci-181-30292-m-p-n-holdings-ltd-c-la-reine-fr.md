@@ -1,0 +1,224 @@
+---
+title: "M.P.N. Holdings Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30292/index.do"
+last_modified: "2011-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 181"
+citation2: ""
+neutral_citation: "2011 CCI 181"
+decision_date: "2011-03-31"
+language: "fr"
+item_id: "30292"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8060
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:58:23.222000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42fbbb70bd139d92ed30b7606a431026025d7d55b27b792ed8a3014b217238a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# M.P.N. Holdings Ltd. c. La Reine
+
+- Citation: 2011 CCI 181
+- Decision date: 2011-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8060, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.P.N. Holdings Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-31
+Référence neutre
+2011 CCI 181
+Numéro de dossier
+2010-1529(IT)APP
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1529(IT)APP
+ENTRE :
+M.P.N. HOLDINGS LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 15 mars 2011 à Winnipeg (Manitoba)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de la requérante :
+Me Paul K. Grower
+Avocate de l’intimée :
+Me Larissa Benham
+____________________________________________________________________
+ORDONNANCE
+La demande de la requérante en vue d’obtenir une prorogation du délai d’appel en application de l’alinéa 167(5)b) de la Loi de l’impôt sur le revenu pour ses années d’imposition 2001 et 2002 est rejetée conformément aux motifs de l’ordonnance ci‑joints.
+Chaque partie assume ses propres frais.
+Signé à Ottawa, Canada, ce 31e jour de mars 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de mai 2011.
+Marie-Christine Gervais
+Référence : 2011CCI181
+Date : 20110331
+Dossier : 2010-1529(IT)APP
+ENTRE :
+M.P.N. HOLDINGS LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] La requérante, M.P.N. Holdings Ltd. (« MPN Holdings »), demande une prorogation du délai imparti pour interjeter appel de l’avis de ratification du ministre du Revenu national (le « ministre ») à l’égard de ses années d’imposition 2001 et 2002. La demande présentée à l’égard de l’année d’imposition 2003 a été retirée à l’audience.
+[2] La requérante a présenté sa demande dans le délai prévu à l’alinéa 167(5)a) de la Loi de l’impôt sur le revenu (la « Loi »). Il suffit maintenant pour la requérante de démontrer qu’elle satisfait aux critères énoncés à l’alinéa 167(5)b) pour l’octroi d’une prorogation :
+167(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+[…]
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[3] Même si la requérante est en mesure de satisfaire aux critères précités, il faut aussi se demander si elle a renoncé à son droit d’appel.
+Les faits
+[4] Après une longue période de vérification et de négociation[1], la requérante a signé en bonne et due forme, le 30 mars 2007, un document intitulé [traduction] « Renonciation aux droits d’opposition » (la « renonciation »), dont voici le texte entier :
+[traduction]
+L’Agence du revenu du Canada (l’« ARC ») et MPN Holdings Ltd. (la « déclarante ») se sont entendues sur la façon dont au moins une question relative à la vérification devrait faire l’objet d’une cotisation ou nouvelle cotisation selon les explications données dans la lettre finale de l’ARC datée du 15 mars 2007, dont voici le détail :
+a. Revenu étranger accumulé, tiré de biens d’Arden Investments Inc., lequel revenu a été gagné en 2001 par suite de la détention d’un pourcentage de participation de 25 p. 100;
+b. Diminution des frais d’intérêt pour les années d’imposition 2001, 2002 et 2003;
+c. Refus de la déduction des honoraires de gestion des administrateurs pour les années d’imposition 2001, 2002 et 2003;
+d. Application de l’impôt de la partie XIII aux honoraires de consultation versés à Arden Advisors LLC en 2001, en 2002 et en 2003; [Non souligné dans l’original.]
+e. Capitalisation d’une partie des honoraires de consultation à titre d’immobilisations et de dépenses en capital admissibles en 2001, en 2002 et en 2003;
+f. Renonciation aux intérêts pour la période allant du 1er mars 2004 au 31 août 2005 sur tout impôt sur le revenu supplémentaire fondé sur la partie I ou sur la partie XIII pour les années d’imposition de 2001, 2002 et 2003.
+2001
+2002
+2003
+Revenu étranger accumulé, tiré de biens
+258 414 $
+– $
+– $
+Diminution des frais d’intérêt
+111 612 $
+284 908 $
+301 730 $
+Honoraires de consultation capitalisés
+270 937 $
+284 058 $
+265 636 $
+Honoraires de gestion des administrateurs refusés
+244 377 $
+538 000 $
+369 782 $
+Changement net
+885 340 $
+1 106 966 $
+937 148 $
+Impôt de la Partie XIII sur des honoraires de consultation
+[Non souligné dans l’original.]
+90 854 $
+142,029 $
+138 818 $
+Le contribuable se réserve le droit de s’opposer à l’impôt de la Partie XIII si un changement rétroactif est apporté à la Convention fiscale entre le Canada et les États-Unis de manière à accorder un allégement aux sociétés à responsabilité limitée dans le délai imparti pour déposer un avis d’opposition. [Non souligné dans l’original.]
+La déclarante renonce au droit de s’opposer à l’établissement par l’ARC d’une cotisation ou d’une nouvelle cotisation à l’égard des questions de vérification susmentionnées pour la période d’imposition pertinente.
+La déclarante reconnaît ce qui suit :
+1. les répercussions des dispositions du paragraphe 165(1.2) de la Loi de l’impôt sur le revenu ou du paragraphe 301(1.6) de la Loi sur la taxe d’accise, selon le cas :
+· ont été expliquées;
+· signifient qu’aucun autre recours, y compris le droit de déposer un avis d’opposition ou d’interjeter appel à l’égard de la cotisation ou nouvelle cotisation établie par l’ARC relativement aux questions exposées ci‑dessus ne peut être exercé à compter de la signature de la présente renonciation;
+2. l’établissement par l’ARC d’une cotisation ou nouvelle cotisation à l’égard des questions exposées ci-dessus conformément à la lettre finale susmentionnée de celle-ci peut donner lieu à des impôts, intérêts ou pénalités supplémentaires, selon le cas, en plus de ceux qui ont déjà fait l’objet d’une cotisation ou nouvelle cotisation;
+3. le présent document est signé de façon libre et volontaire[2].
+[5] Le 22 mai 2007, le ministre a établi un avis de nouvelle cotisation, en application de l’alinéa 212(1)a) de la partie XIII de la Loi, à l’égard de la retenue d’impôt, ainsi que des intérêts et pénalités connexes se rapportant aux honoraires de gestion que la requérante a versés à une société non résidente, Arden Advisors LLC.
+[6] Le 16 août 2007, la requérante a déposé, par l’entremise de son avocat, un avis d’opposition à l’égard de la cotisation fondée sur la partie XIII pour les motifs suivants :
+[traduction]
+La contribuable soutient que les nouvelles cotisations sont erronées et devraient être annulées pour les raisons qui suivent :
+1. Arden Advisors LLC, société à responsabilité limitée constituée aux États-Unis, n’avait pas d’établissement stable au Canada; en conséquence, l’article VII de la Convention fiscale entre le Canada et les États-Unis empêche le Canada d’exiger des retenues d’impôt sur les honoraires de gestion que la contribuable a versés à Arden Advisors LLC. L’ARC se fonde sur l’arrêt The Queen v. Crown Forest Industries Limited, 95 DTC 5389 (CSC), pour soutenir que les sociétés à responsabilité limitée ne sont pas des résidents des États-Unis aux fins de la Convention et qu’elles ne sont pas admissibles à l’allégement fiscal prévu à la Convention, étant donné qu’elles ne sont pas assujetties à l’impôt selon l’Internal Revenue Code des États-Unis. Cette position est incompatible avec la position de l’ARC selon laquelle les sociétés S des États‑Unis peuvent invoquer l’allégement fiscal prévu à la Convention, même si elles choisissent de ne pas être assujetties à l’impôt de l’Internal Revenue Code. De plus, l’ARC affirme que, dans le cas des sociétés de personnes des États-Unis, les associés sont les propriétaires bénéficiaires du revenu, de sorte que l’ARC permet aux associés qui résident aux États-Unis d’invoquer l’avantage de la Convention fiscale entre le Canada et les États-Unis en ce qui a trait à sa part du revenu de la société de personnes. À cet égard, voir, par exemple, les documents 9713120 et 2002-0133747 de l’ARC. Étant donné que, aux fins de l’impôt des États-Unis, une société à responsabilité limitée est considérée comme une société de personnes lorsqu’elle compte au moins deux membres, il n’y a aucune raison de dire que les États contractants n’ont pas l’intention d’accorder à la société à responsabilité limitée le même traitement que celui qui est accordé à la société de personnes en vertu de la Convention. De plus, la position de l’ARC ne tient pas compte du fait que, dans l’arrêt Crown Forest, il a été décidé que les conventions fiscales doivent être interprétées à la lumière de l’objet et de l’intention que visaient les parties à la convention. Tant le Canada que les États-Unis appliquent la Convention à des entités qui ne sont généralement pas assujetties à l’impôt – voir, par exemple, le paragraphe 1 de l’article IV de la Convention fiscale entre le Canada et les États-Unis en ce qui a trait aux entités non imposables comprises dans la définition de « résident ». La contribuable fait valoir que, étant donné que les caractéristiques qui rattachent Arden Advisors LLC aux États-Unis sont fondamentalement les mêmes que celles des entités admissibles à l’allégement prévu dans la Convention, elle est visée par la Convention fiscale entre le Canada et les États-Unis.
+2. Subsidiairement, la contribuable soutient qu’elle comprend que des modifications à la Convention fiscale entre le Canada et les États-Unis seront annoncées sous peu et que lesdites modifications auront pour effet d’étendre la protection de la Convention aux sociétés à responsabilité limitée. De plus, la contribuable comprend que ces modifications s’appliqueront rétroactivement aux années en cause. En conséquence, elle demande que le présent avis d’opposition demeure en suspens jusqu’à ce que les modifications soient apportées à la Convention[3].
+[7] En septembre 2007, le protocole modifiant la Convention fiscale entre le Canada et les États-Unis (la « Convention ») a été signé; le législateur a ratifié les modifications en décembre 2007 afin qu’elles entrent en vigueur en janvier 2011. Il est admis que les modifications finalement apportées avaient une application prospective.
+[8] Le 2 février 2009, le ministre a établi un avis de ratification[4] à l’égard de l’avis d’opposition déposé par la requérante.
+[9] Le 8 avril 2010, soit environ 14 mois plus tard, la Cour canadienne de l’impôt a rendu sa décision dans TD Securities (USA) LLC c. La Reine, 2010 CCI 186, laquelle décision a eu pour effet d’infirmer pour la première fois la position de longue date de l’Agence du revenu du Canada (l’« ARC ») selon laquelle les sociétés à responsabilité limitée n’étaient pas « assujettie[s] à l’impôt » aux États-Unis et n’étaient donc pas des résidents des États-Unis aux fins de la Convention fiscale entre le Canada et les États-Unis ni n’avaient droit aux avantages qui y étaient prévus. L’avis d’appel en cause dans l’affaire TD Securities avait été déposé le 17 juillet 2008 et la réponse à l’avis d’appel, le 22 octobre 2008, plus de trois mois avant la date de l’établissement de l’avis de ratification de la requérante (2 février 2009).
+[10] La requérante a été informée par hasard de la décision TD Securities environ une semaine après l’annonce de celle-ci dans une publication professionnelle de nouvelles fiscales. Le 3 mai 2009, une journée avant l’expiration du délai prévu pour demander une prorogation du délai imparti pour interjeter appel selon le paragraphe 167(5), la requérante a déposé la demande visée par la présente ordonnance.
+Analyse
+[11] En ce qui a trait d’abord à l’alinéa 167(5)b), il est clairement reconnu en droit qu’aucune demande ne saurait être accueillie à moins que le contribuable ne puisse satisfaire à tous les critères; Dewey v. Her Majesty the Queen, [2004] 2 C.T.C. 311 (C.A.F.). Après avoir entendu le témoignage de Warren Greenspoon, l’âme dirigeante de la requérante, et lu les documents déposés, je ne suis pas convaincue que la requérante peut démontrer qu’elle respecte la première des exigences prévues à l’alinéa 167(5)b), c’est-à-dire que, dans le délai de 90 jours suivant l’établissement de l’avis de ratification le 2 février 2009, elle n’a pu agir ni charger quelqu’un d’agir en son nom, ou elle avait véritablement l’intention d’interjeter appel. M. Greenspoon a témoigné de façon franche et directe; voici comment il a répondu en contre‑interrogatoire au sujet des facteurs énoncés au sous-alinéa 167(5)b)(i) :
+[traduction]
+Q Et, comme vous l’avez déjà dit à la Cour, M.P.N. n’a pas interjeté appel dans les 90 jours suivant la réception de l’avis de ratification, n’est-ce pas?
+R C’est exact.
+Q Il ne vous manquait aucun document dont vous aviez besoin pour interjeter appel, n’est-ce pas?
+R Non.
+Q Ce n’est pas votre état émotif ou psychologique qui vous a empêché d’interjeter appel?
+R Non.
+Q Ce n’est pas non plus votre état physique qui vous a empêché d’agir?
+R Non.
+Q En fait, si M.P.N. n’a pas interjeté appel dans le délai de 90 jours suivant la réception de l’avis de ratification, c’est parce qu’elle croyait qu’elle n’aurait pas gain de cause dans l’appel, n’est-il pas vrai?
+R Nous croyions que ce serait très difficile et que l’appel serait très coûteux et nous estimions que, en raison de la position de longue date de l’ARC au sujet de l’application des avantages prévus dans la Convention aux sociétés à responsabilité limitée, l’appel représentait un énorme défi.
+Q Alors, vous avez soupesé les différents facteurs et décidé de ne pas interjeter appel. C’est ça?
+R C’est exact.
+Q Et ce n’est que lorsque la décision TD Securities a été publiée que M.P.N. a décidé d’interjeter appel, n’est-ce pas?
+R C’est exact[5].
+[12] Même si je conviens que la requérante n’a jamais accepté l’interprétation que le ministre a donnée à la Convention et qu’elle continue de ne pas y souscrire, il appert clairement de l’extrait précité que la requérante n’avait pas l’intention de se prévaloir de son droit d’interjeter appel dans le délai de 90 jours suivant la ratification. L’avocat de la requérante a fait valoir qu’à l’instar d’une déficience mentale ou physique, le coût du litige pourrait être une raison pour laquelle elle « n’a pu […] agir » au sens du sous‑alinéa 167(5)b)(i). Même si c’est peut‑être vrai dans certaines circonstances, tel n’est pas le cas en l’espèce. La preuve montre que la requérante a examiné les options dont elle disposait et décidé de ne pas agir, en raison du coût anticipé de l’appel et de sa conviction selon laquelle ses chances de succès étaient minces. Il s’ensuit que la requérante n’est pas en mesure de démontrer non plus qu’elle avait véritablement l’intention d’interjeter appel au titre de l’autre critère prévu au sous-alinéa 167(5)b)(i) de la Loi. C’est la publication de la décision TD Securities le 8 avril 2010 et l’effet prévu de cette décision sur l’interprétation de la Convention fiscale entre le Canada et les États‑Unis qui ont incité la requérante à se raviser.
+[13] Compte tenu de la conclusion à laquelle j’en suis arrivée au sujet du sous‑alinéa 167(5)b)(i), il n’est pas nécessaire que j’examine les autres critères. Cependant, même si la requérante avait pu prouver qu’elle respectait le critère prévu à l’alinéa 167(5)b), il me semble que le texte de la renonciation est suffisamment clair pour empêcher la requérante d’interjeter appel de l’avis de ratification en ce qui a trait à la question concernant la partie XIII.
+[14] La validité de la renonciation elle-même n’est pas contestée. La requérante conteste uniquement l’interprétation de la clause concernant la renonciation à ses droits de s’opposer et d’interjeter appel. En contre-interrogatoire, M. Greenspoon a souligné que, lorsqu’il a signé la renonciation, il a compris que [traduction] « tout changement » à la Convention, y compris un changement touchant son interprétation, suffirait pour déclencher le droit de la requérante de s’opposer ou d’interjeter appel. L’avocat de la requérante a souligné à juste titre que la renonciation a été rédigée par l’intimée et que toute ambiguïté devrait jouer en faveur de la requérante.
+[15] Cependant, il n’en demeure pas moins que la requérante a été représentée de façon compétente par un avocat tout au long de la période de négociation qui a mené à la signature de la renonciation. Cette renonciation faisait état de l’entente des parties quant à la façon dont la nouvelle cotisation visant la requérante serait établie relativement aux questions qui y étaient exposées, y compris [traduction] « l’application de l’impôt de la partie XIII aux honoraires de consultation ». Les montants mentionnés dans la renonciation ont finalement fait l’objet d’une cotisation comme ce qui avait été convenu pour les années d’imposition 2001 et 2002[6]. La requérante avait accepté de ne pas s’opposer à ces nouvelles cotisations, sauf, uniquement, « si un changement rétroactif est apporté à la Convention fiscale entre le Canada et les États-Unis de manière à accorder un allégement aux sociétés à responsabilité limitée dans le délai imparti pour déposer un avis d’opposition ». La requérante a également reconnu que le paragraphe 165(1.2) de la Loi avait été expliqué et qu’elle comprenait que, à compter de la signature de la renonciation, [traduction] « aucun autre recours, y compris le droit de déposer un avis d’opposition ou d’interjeter appel [...] ne pourrait être exercé » à l’égard des nouvelles cotisations. Lorsque la renonciation a été signée, l’espoir que la requérante avait de contester la nouvelle cotisation fondée sur la partie XIII reposait exclusivement sur la possibilité que des modifications prospectives soient apportées à la Convention. L’avis d’appel examiné dans l’affaire TD Securities n’a été déposé que plus d’un an après la signature de la renonciation. Le 30 mars 2007, aucune des parties n’anticipait le résultat de cet appel ou l’effet qu’il aurait en dernier ressort sur la position de longue date de l’ARC au sujet de l’interprétation de la Convention fiscale entre le Canada et les États-Unis.
+[16] Dans ces circonstances, je ne suis pas convaincue que la renonciation est ambiguë, eu égard, surtout, à la façon dont l’avis d’opposition relatif à la nouvelle cotisation fondée sur la partie XIII a été rédigé. M. Greenspoon a déclaré au cours de son témoignage que, lorsque la requérante s’est opposée à l’avis de nouvelle cotisation, il ignorait la nature exacte des modifications proposées à la Convention. Même si c’est peut-être vrai dans le cas de M. Greenspoon lui-même, la compréhension que la requérante avait de la situation lorsque l’avis d’opposition a été déposé[7] est clairement exprimée dans le texte du motif d’opposition subsidiaire :
+[traduction]
+[…] la contribuable [la requérante en l’espèce] soutient qu’elle comprend que des modifications à la Convention fiscale entre le Canada et les États-Unis seront annoncées sous peu et que lesdites modifications auront pour effet d’étendre la protection de la Convention aux sociétés à responsabilité limitée. De plus, la contribuable comprend que ces modifications s’appliqueront rétroactivement aux années en cause. En conséquence, elle demande que le présent avis d’opposition demeure en suspens jusqu’à ce que les modifications soient apportées à la Convention.
+[17] Finalement, les modifications apportées à la Convention fiscale entre le Canada et les États-Unis s’appliquaient de façon prospective et ne sont entrées en vigueur que bien après le délai imparti pour déposer un avis d’opposition. En conséquence, les conditions auxquelles le droit d’appel de la requérante était assujetti en ce qui a trait à la nouvelle cotisation fondée sur la partie XIII n’ont jamais existé. L’avocat de la requérante a souligné que le fait que l’intimée avait examiné l’avis d’opposition déposé à l’égard de la nouvelle cotisation fondée sur la partie XIII et décidé d’établir un avis de ratification devrait empêcher le ministre d’affirmer aujourd’hui que la requérante avait abandonné son droit d’interjeter appel au sujet de cette question. Il aurait peut-être été préférable à mon avis, sur le plan procédural, que le ministre rejette l’avis d’opposition au lieu d’établir un avis de ratification s’y rapportant, mais je ne vois pas en quoi cette façon de procéder modifie l’effet de la renonciation sur le fond. Le motif subsidiaire de l’avis d’opposition résidait dans la possibilité que les modifications proposées s’appliquent de façon avantageuse pour la requérante; c’est la raison pour laquelle celle-ci a demandé une suspension jusqu’à la ratification desdites modifications. Le ministre a apparemment respecté cette demande, étant donné que ce n’est que lorsque les modifications ayant une portée prospective sont entrées en vigueur que l’avis de ratification a été établi.
+[18] Pour les motifs exposés ci-dessus, la demande de la requérante en vue d’obtenir une prorogation du délai d’appel en application de l’alinéa 167(5)b) de la Loi de l’impôt sur le revenu doit être malheureusement rejetée. Chaque partie assume ses propres frais.
+Signé à Ottawa, Canada, ce 31e jour de mars 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 26e jour de mai 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011CCI181
+No DU DOSSIER DE LA COUR : 2010-1529(IT)APP
+INTITULÉ : M.P.N. HOLDINGS LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 15 mars 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge G. A. Sheridan
+DATE DE L’ORDONNANCE : Le 31 mars 2011
+COMPARUTIONS :
+Avocat de la requérante :
+Me Paul K. Grower
+Avocate de l’intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom : Paul K. Grower
+Cabinet : Fillmore Riley, LLP
+Winnipeg (Manitoba)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1, onglets A, B, C, D et E.
+[2] Pièce R-1, onglet F.
+[3] Pièce R-1, onglet H, paragraphes 1 et 2, aux pages 4 et 5.
+[4] Pièce A-1.
+[5] Transcription, page 55, lignes 8 à 25, à la page 56, lignes 1 à 12.
+[6] Pièce R-1, onglet G.
+[7] Pièce R-1, onglet H.

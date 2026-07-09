@@ -1,0 +1,176 @@
+Title: Rachfalowski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28679/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-258-28679-rachfalowski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-15
+
+# Rachfalowski v. The Queen
+
+- Citation: 2008 TCC 258
+- Decision date: 2008-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1469, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rachfalowski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-15
+Neutral citation
+2008 TCC 258
+File numbers
+2007-4239(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4239(IT)I
+BETWEEN:
+HENRY RACHFALOWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 23, 2008, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to delete from the appellant’s income the amount of $2,047 paid to the Barrie Country Club as membership dues on the appellant’s behalf.
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 15th day of May 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2008TCC258
+Date: 20080515
+Docket: 2007-4239(IT)I
+BETWEEN:
+HENRY RACHFALOWSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment made under the Income Tax Act for the appellant’s 2002 taxation year. By that assessment the Minister of National Revenue included $2,047 in the appellant’s income, the amount of the membership fees for 2002 for the golf club, the Barrie Country Club, paid for by the employer.
+[2] The appellant joined Canada Life in 1998 as Vice‑President of the Investment Department. He was in charge of U.S. investments. As part of the employment package he was offered a membership, to be paid for by the employer, in a golf club of his choice provided it offered year‑round dining privileges. He was not a golfer and asked if he could have the cash equivalent of the initiation fees and the membership fees. This was refused. He asked if he could have a membership in a curling club instead but this was not permitted. He states that he tried to decline the membership but was told that he would draw attention to himself and would look like a maverick or a rebel. He therefore accepted a membership in the Barrie Country Club. The initiation fees of about $5,000 were paid by the employer as well as the membership fees for each year up to and including 2002. The annual fees in 2002 were $2,047. He was not taxed on the golf club membership until 2002. He used the club occasionally to entertain clients and on a couple of occasions he played golf with clients but he gave it up because he was such a bad player. He took his wife to the club a couple of times and paid for the meals himself.
+[3] His argument was essentially set out in his notice of appeal as follows:
+A. Reasons for the appeal
+• The membership was principally for the benefit of the employer, the Canada Life Assurance Company.
+• In order for there to have been a value, economic benefit or material economic advantage conferred upon the taxpayer, the taxpayer must in fact have received one, which he did not.
+• A golf membership for someone who hates golf and does not golf is not a benefit, unlike the availability of a car (even if not used) or a parking spot (even if not used).
+• The value of something that is received can be much different than the value conferred.
+• The assessment, review and objection processes were neglected, and hence unduly delayed, by CRA in this case because they mistakenly assumed that the taxpayer was part of the larger Canada Life employee‑group appeal, which he was not. As a consequence, the taxpayer was not provided with complete accurate clear and timely information, nor was the case handled in a timely manner.
+B. Statement of relevant facts in support of the appeal.
+• The taxpayer hated golf, could not golf and did not golf.
+• On the very rare occasions where the facilities were used, it was for purposes of Canada Life staff functions or for the development of business contacts for Canada Life.
+• The taxpayer was not offered an alternative to a membership. Moreover, declining the membership would have put the taxpayer at odds with his boss and his peers, all of who had accepted the benefit.
+[4] The basis of the Minister’s assessment is found in paragraph 6 of the Reply to the Notice of Appeal:
+6. In determining the Appellant’s income tax liability for the 2002 taxation year, the Minister relied on the following assumptions of fact:
+a) the Appellant held an executive position as the Vice-President of the Investment Department of Canada Life (“the Employer”) during the 2002 taxation year;
+b) the Employer’s policy was to provide club memberships to employees who held a position as Vice-President of a Department;
+c) the offering letter of employment agreement provided to the Vice‑Presidents by the Employer listed the club membership under “Executive Prerequisites”; [sic]
+d) the only condition placed by the Employer on the club membership provided to the Vice-Presidents is that the club contain a year-round entertaining and dining facility;
+e) the Appellant held a club membership at the Barrie Country Club;
+f) the Barrie Country Club’s annual dues were $2,049;
+g) the Employer did not include a taxable benefit for the club membership dues of $2,049 in the Appellant’s employment income for the 2002 taxation year.
+[5] It is set out more fully in the letter from the Appeals Division of the Canada Revenue Agency:
+Analysis:
+1. The membership plan is not available equally to all the employees of Canada Life.
+2. The membership plan was provided to you upon your promotion to Vice President. It was provided in the course of your employment. It was “perk”, a symbol, and a demonstration that rank has its privileges in the corporate structure; it provided you with an economic benefit.
+3. The membership plan was part of the benefit package to you. It is provided to you as a perquisite without any consideration of its use in connection with your employment duties.
+4. There are no requirement that you arranged all your formal and informal business gatherings and internal business meetings and events in the club you belonged to. You have a choice for the place to meet with your clients/associates. It is not supported that it would be more cost-effective to meet with your client/associates/staff in the club as opposed to in the other dining/meeting facilities. You choose to use your club for the formal and informal business gatherings as a matter of convenience only.
+5. The membership is with you and not the employer. You have the choice of clubs. There is no limitation of personal use. You can use it any time you want and bring anyone with you. The benefit of the membership was something enjoyed by you and did not flow to your employer.
+6. The maximum allowable of the initiation fee of $5,000 and the annual fees of $2,047 is not a small amount. It is a material economic advantage to you.
+7. There is no evidence that any possible increase in the sales and enhance Canada Life’s profile within the insurance industry as a result of providing the membership plan to you. Especially, when you used the club occasionally for golfing with your clients only.
+8. Keeping a good relationship with the business contacts by having lunch or playing golf with them enabled you to carry on your jobs easier. It is for your advantage. Canada Life received no measurable monetary benefit in return from the provision of the membership plan.
+9. The courts have established that a benefit is a benefit even when unilaterally conferred. Therefore, the fact that you did not like golfing should not be determinative.
+In conclusion, the membership plan was provided in the course of the employment. The membership was principally for your advantage rather than the employer’s. The payment of membership fees by your employer results in a taxable benefit to you under paragraph 6(1)(a) of the Act.
+[6] This relatively small case raises a difficult and important question of principle that affects the manner in which “benefits” are taxed where they come as part of an employment package and are provided whether the employee wants them or not.
+[7] I shall start with the statutory provision itself. Paragraph 6(1)(a) of the Income Tax Act, so far as is relevant, reads:
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable.
+(a) value of benefits — the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+. . . . .
+The French version reads:
+(1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+a) Valeur des avantages — la valeur de la pension, du logement et autres avantages quelconques qu’il a reçus ou dont il a joui au cours de l’année au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi, à l’exception des avantages suivants :
+. . . . .
+[8] There must therefore be a “benefit” (“avantage”) and it must be received or enjoyed. “Receive” or “recevoir” have broad and well established meanings. The word “enjoy” is defined in The Canadian Oxford Dictionary as follows:
+enjoy verb 1 transitive take delight or pleasure in. 2 transitive have the use or benefit of (something pleasant or advantageous). 3 transitive experience (enjoy good health). 4 intransitive esp. N. Amer. have an enjoyable experience. ? enjoy oneself experience pleasure. ? enjoyment noun [Old French enjoier give joy to or enjoïr enjoy, ultimately from Latin gaudère rejoice]
+The word “jouir” has similarly two meanings in French. The definition of “jouir” in the Petit Robert is extensive but the meaning that I think is most appropriate in this case is:
+JOUIR DE. 1. Avoir la possession (de qqch.). ð 1. avoir, bénéficier (de), posséder. Jouir d’une bonne santé, de toutes ses facultés, d’une grosse fortune, d’avantages. ð disposer. Ils « ne jouissent pas d’une grande considération » (Radiguet). — DR. Jouir d’un droit, en être titulaire. 2. PAR EXT. (CHOSES) Appartement qui jouit d’une belle vue.
+I think the meaning of “enjoy” or “jouir de” in section 6 has the meaning of “have the use or benefit of” or “avoir, bénéficier (de) posséder”.
+[9] I do not think, however, that the only part of the analysis is the meaning of “receive” or “enjoy” (“recevoir” or “jouir de”). It is undoubtedly a relevant question whether something that is available but is not used or taken advantage of is received or enjoyed. The analysis does not, however, stop there. The thing that is received or enjoyed must be a benefit in the first place. It is on this question that I think one may more usefully concentrate. In the result then, we have three questions: is it a benefit, is it received or enjoyed and what is its value? The three questions do not exist in hermetically sealed compartments. They merge into each other by imperceptible degrees so that in a sense they become different aspects of one question.
+[10] The question then is to determine in what circumstances something that is part of the employment package offered by an employer truly is a benefit. The short and, I am sorry to say, somewhat unsatisfactory answer is “sometimes it is and sometimes it is not. It all depends”.
+[11] I accept the appellant’s assertion that he did not want the golf club membership, that he asked for the cash equivalent and was refused and that he tried to decline the membership outright and was persuaded not to do so because he would stand out and look like a maverick and would not fit into the corporate culture. I also accept that he used the club a few times for entertaining clients and on a couple of occasions he took his wife to dinner there.
+[12] There have been many cases under paragraph 6(1)(a) and they are not necessarily easy to reconcile. I would say, looking at the multitude of cases and fact situations that arise under paragraph 6(1)(a), that they fall into two principal categories. Those that give taxable “benefit” a broad interpretation and those that give it a restricted interpretation.
+[13] At one end of the spectrum is Dunlap v. The Queen, 98 DTC 2053, where Sarchuk J. held that an employee’s attendance at a Christmas party put on by the employer was a taxable benefit. Similarly, in Faubert v. The Queen, 98 DTC 1380, it was held that reimbursement by Revenue Canada of the cost of an auditor’s attendance at an accounting course was a taxable benefit.
+[14] At the other end, we find Romeril v. The Queen, 99 DTC 221, in which the general manager of a General Motors dealership went, along with his wife, to Europe to attend a convention. The trip included a cruise and sightseeing. This court held that the value of the trip was not a taxable benefit since it related primarily to the business of General Motors. Bowie J. said at page 223:
+[8] Counsel referred me to a number of decisions of this Court, and of the Federal Court, which deal with the question whether attendance at a particular convention was a taxable benefit to an employee. As the Federal Court of Appeal recently observed, the answer to this question is largely fact driven. The question which a trial judge must answer in each case was succinctly formulated by Stone, J.A. in the Lowe case in these words:
+. . . The essential question in the present case, it seems to me, is whether on the facts the principal purpose of the trip was business or pleasure. . . .
+This, of course, does not mean that any pleasurable activities undertaken which would normally be associated with vacationing and which are enjoyed by the taxpayer during a business convention should be treated as a benefit, so long as the business aspect predominates.
+[9] Considering all the evidence in this case, I am satisfied that the primary reason for the Appellant's attendance at this convention was as part of the fulfilment of his duties as the general manager of CMP. . . .
+[15] Lowe v. The Queen, 96 DTC 6226, to which Bowie J. referred also involved the taxability of a trip for the taxpayer and his wife paid for by the employer. The Federal Court of Appeal, reversing the Tax Court of Canada, held that the trip was not a taxable benefit to the appellant. Stone J.A. said at page 6230:
+. . . It seems to me in light of existing jurisprudence that no part of the appellant's trip expenses should be regarded as a personal benefit unless that part represents a material acquisition for or something of value to him in an economic sense and that if the part which represents a material acquisition or something of value was a mere incident of what was primarily a business trip it should not be regarded as a taxable benefit within subparagraph 6(1)(a) of the Act.
+[16] In deciding as it did in Lowe, the Federal Court of Appeal referred to Hart v. The Queen, 82 DTC 6237, again a case involving a trip paid for by the employer. In Hart, the court held the trip was a taxable benefit. One could, superficially, distinguish Lowe and Hart but frankly they cannot be reconciled and I do not think it is useful to try to do so. In Pezzelato v. The Queen, 96 DTC 1285 at 1289, I said:
+There have been a number of cases in this court dealing with employer subsidized mortgage interest where employees were moved from Calgary to Toronto, owing to the increased costs of purchasing a house in Toronto. Some or all of these cases have been appealed to the Federal Court of Appeal. I shall not comment on them beyond noting that all but one (Krull) held that the mortgage interest subsidy was not taxable.
+On which side of the line does Mr. Pezzelato's case fall? I shall begin by observing that Ransom, Splane, Phillips and Blanchard are difficult, if not impossible to reconcile. It would appear that the Federal Court of Appeal, in Phillips, had a similar difficulty. The problem does not become apparent until one tries to extract from each decision a ratio that does not conflict with the ratio that one extracts from each of the others.
+[17] Instead of trying to find a consistent common thread in these and in the myriad of other employee benefit cases one may as well accept that philosophical differences do exist among judges and that although the expression “material acquisition conferring an economic benefit” used in many of the cases has a fine and impressively judicial ring to it, its repetition is no substitute for asking “just what did the employee get out of the alleged benefit that ought to increase his or her income?”. This is a practical, common sense sort of question that calls for a practical common sense answer.
+[18] During the argument I put to both the appellant and counsel for the respondent the hypothetical case of three vice‑presidents of the insurance company, all of whom are offered and accept a membership in a golf club. One is an enthusiastic golfer who spends as much time as possible on the golf course. One is an indifferent player who uses the club two or three times a year. The third plays no golf and does not use the club at all. I asked if the tax treatment of the three should differ. Counsel for the respondent answered that it should be the same because the test is the availability of the benefit, not the actual use. This is, I am sure, the orthodox departmental view, but does it really bear close scrutiny? I have serious doubts as a matter of common sense that it does. I have a fair idea what our friend on the Clapham omnibus would probably say. I think the more reasonable view is that the value to a particular taxpayer of such a benefit under paragraph 6(1)(a) should be determined on an individual basis of actual use as opposed to availability. This position is, I believe, consistent with the decision in McGoldrick v. The Queen, 2003 DTC 1375 (T.C.C.) aff’d., 2004 DTC 6407; 2006 DTC 2045, where the question was the taxability of the value of free meals provided to an employee. In the Federal Court of Appeal, Malone J.A. said at pages 6408 to 6409, 2004 DTC:
+[9] As a general rule, any material acquisition in respect of employment which confers an economic benefit on a taxpayer and does not constitute an exemption falls within paragraph 6(1)(a) (see The Queen v. Savage, 83 DTC 5409 at 5414 (S.C.C.)). In this case, the benefit is the money saved by the taxpayer in preparing a lunch or in making a food purchase from the casino vending machines while at work. Where something is provided to an employee primarily for the benefit of the employer, it will not be a taxable benefit if any personal enjoyment is merely incidental to the business purpose (see Lowe v. The Queen, 96 DTC 6226 at 6230). The Tax Court Judge found that although the meals were provided for a business purpose, the personal benefit to Mr. McGoldrick could not be said to be incidental. That was a factual finding, and no palpable and overriding error on the basis of the evidence has been established. Indeed, Mr. McGoldrick voluntarily signed an authorization for the employee meal tax benefit at the commencement of his employment.
+[10] In oral argument, the appellant frequently noted that, in his view, the meals were not worth the $4.50/day ascribed by the employer as the taxable benefit. That amount was based on the cost to the employer of providing the meals and seasonal gifts, including the PST and GST. He also indicated that although assessed a tax benefit on the basis that he received such a meal every day he worked more than five hours, in fact he often declined to go to the cafeteria. As a person living alone, he often did not take the turkeys or hams offered at holidays.
+[11] He did not, however, raise a quantum issue in the notice of appeal to the Tax Court. Before that Court, he specifically noted that he was confining his evidence and argument to the question of whether the meals and seasonable gifts were a taxable benefit and did not address the quantum of the benefit. While he might well have been able to challenge the value of the benefit received if it had been an issue before the Tax Court, that was not the case and accordingly that avenue of appeal is not open to him. Of course, this does not preclude him from objecting to the quantum of taxable benefits assessed in subsequent years if he is not out of time to file such objections.
+[19] Mr. McGoldrick acted on the suggestion of Malone J.A. and appealed an assessment for a subsequent year. It came on before McArthur J. and he held that the value of the benefit should be reduced by one half because he availed himself of the meals provided only one half of the time. Applying that reasoning to Mr. Rachfalowski’s case, the benefit to him of the membership in the golf club was minimal at most.
+[20] One further line of inquiry that might possibly be helpful in attempting to rationalize the seeming inconsistencies in the case law involves a consideration of the sort of benefit that is being conferred.
+(a) Meals. Generally, they are taxable but not if they involve a reimbursement of the cost of meals taken when traveling on the employer’s business. In McGoldrick, supra, there are statements that indicate that one can take into account the value to the taxpayer of the particular benefit.
+[21] The question of food and lodging has arisen in other countries. In Arthur Benaglia v. Commissioner of Internal Revenue, (1937) 36 B.T.A. 838, the U.S. Board of Tax Appeals held that the value of rooms and meals provided to a hotel manager and his wife at a resort hotel in Hawaii did not form part of his taxable income because his living in the hotel and taking his meals there were necessary to the performance of his duties and were for the convenience of the employer. At pages 839-840, Judge Sternhagen said:
+From the evidence, there remains no room for doubt that the petitioner’s residence at the hotel was not by way of compensation for his services, not for his personal convenience, comfort or pleasure, but solely because he could not otherwise perform the services required of him. The evidence of both the employer and employee shows in detail what petitioner’s duties were and why his residence, in the hotel was necessary. His duty was continuous and required his presence at a moment’s call. He had a lifelong experience in hotel management and operation in the United States, Canada, and elsewhere, and testified that the functions of the manager could not have been performed by one living outside the hotel, especially a resort hotel such as this. The demands and requirements of guests are numerous, various, and unpredictable, and affect the meals, the rooms, the entertainment, and everything else about the hotel. The manager must be alert to all these things day and night. He would not consider undertaking the job and the owners of the hotel would not consider employing a manager unless he lived there. This was implicit throughout his employment, and when his compensation was changed from time to time no mention was ever made of it. Both took it for granted. The corporation’s books carried no accounting for the petitioner’s meals, rooms, or service.
+Under such circumstances, the value of meals and lodging is not income to the employee, even though it may relieve him of an expense which he would otherwise bear. In Jones v. United States, supra, the subject was fully considered in determining that neither the value of quarters nor the amount received as commutation of quarters by an Army officer is included within his taxable income. There is also a full discussion in the English case of Tennant v. Smith, H.L. (1892) App. Cas. 150, III British Tax Cases 158. A bank employee was required to live in quarters located in the bank building, and it was held that the value of such lodging was not taxable income. The advantage to him was merely an incident of the performance of his duty, but its character for tax purposes was controlled by the dominant fact that the occupation of the premises was imposed upon him for the convenience of the employer. The Bureau of Internal Revenue has almost consistently applied the same doctrine in its published rulings.
+I think the principle that can be extracted from these cases – Canada, United Kingdom and United States – is that a “benefit” is not included in an employee’s income if it is primarily for the need or convenience of the employer. From the passage from Lowe quoted in paragraph 15 above, this is so even where it represents a material acquisition or something of value.
+(b) Parking. Where parking is provided, a distinction based on whether or not a particular space has been assigned seems to have arisen. If there is a difference in principle between the two it is hard to discern. While it is probably too late to refight this battle, I still have serious doubts whether providing an employee with a parking space is ever a taxable benefit.
+(c) Trips to conventions and business meetings. The more recent and I think more sensible view is that they are not taxable if they serve a significant business purpose of the employer. How any particular case is decided depends on what emphasis a judge puts on the business as opposed to personal use.
+(d) Home Relocation Costs. These include lump sum payments, payments to cover losses and assistance with mortgage interest. The cases in this area were reviewed in Pezzelato. Their tax treatment depends on very specific findings of fact.
+(e) Golf Club Membership. Interpretation Bulletins are not binding but they can be useful. Paragraphs 33 and 34 of IT‑470R read:
+33. Where employees generally are permitted to use their employer’s recreational facilities (e.g. exercise rooms, swimming pools, gymnasiums, tennis, squash or raquetball courts, golf courses, shuffle boards) free of charge or upon payment of a nominal fee, the value of the benefit derived by an employee through such use is not normally taxable. The taxable benefit received by an employee who is provided with board, lodging and accommodation is discussed in ¶s 4 to 6 and 10 above.
+34. Similarly, where the employer pays the fees required for an employee to be a member of a social or athletic club the employee is not deemed to have received a taxable benefit where the membership was principally for the employer’s advantage rather than the employee’s. See also IT‑148R2, “Recreational Properties and Club Dues”.
+[22] Assuming that paragraph 34 is an accurate statement of the law — and, I think it is (it is consistent with what Malone J.A. said in McGoldrick above and the decisions in Lowe and Romeril) — the question is whether the determination that an employee’s membership in a golf club is “principally for the employer’s benefit or the employee’s” is an objective one or whether it depends on the employee’s or the employer’s subjective view. I think weight should be given to the views of both parties but they are not determinative and by and large it requires an objective determination.
+[23] From the appellant’s point of view the membership was clearly not an advantage to him. He did not even want it. It is a fair inference that the employer wanted its senior executives to belong to a golf club. It enhanced the company’s image and prestige and provided a place for its executives to entertain clients of the company. I do not think the employer’s insistence that he join a golf club (or at all events the very strong pressure the employer put on him to do so) is particularly attributable to paternalistic altruism. Objectively, I think the membership in the golf club was primarily for the benefit of the employer.
+[24] I have concluded that the appeal should be allowed. There are two bases for doing so. In the first place the membership in the golf club was clearly primarily for the benefit of the employer. Even if I am wrong in that conclusion, the benefit, if any, to the appellant of the membership in the golf club was minimal at most and did not constitute a taxable benefit under paragraph 6(1)(a) of the Income Tax Act.
+[25] The appeal is therefore allowed and the assessment for the 2002 taxation year is referred back to the Minister of National Revenue for reconsideration and reassessment to delete from the appellant’s income the amount of $2,047 paid to the Barrie Country Club as membership dues on the appellant’s behalf.
+[26] The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 15th day of May 2008.
+“D.G.H. Bowman”
+Bowman C.J.
+CITATION: 2008TCC258
+COURT FILE NO.: 2007-4239(IT)I
+STYLE OF CAUSE: Henry Rachfalowski v.
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 23, 2008
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman,
+Chief Justice
+DATE OF JUDGMENT &
+REASONS FOR JUDGMENT: May 15, 2008
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

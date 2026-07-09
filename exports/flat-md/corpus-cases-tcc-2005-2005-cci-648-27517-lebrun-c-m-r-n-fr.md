@@ -1,0 +1,197 @@
+---
+title: "Lebrun c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27517/index.do"
+last_modified: "2005-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 648"
+citation2: ""
+neutral_citation: "2005 CCI 648"
+decision_date: "2005-10-18"
+language: "fr"
+item_id: "27517"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 13
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:25:33.382000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e81dc3209e8e5165cac5a6f332b7d2f0ecd77eaed6d3a1c4427cf18a9ee5d0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lebrun c. M.R.N.
+
+- Citation: 2005 CCI 648
+- Decision date: 2005-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 13, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lebrun c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-18
+Référence neutre
+2005 CCI 648
+Numéro de dossier
+2005-1847(EI)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-1847(EI)APP
+ENTRE :
+PIERRE LEBRUN,
+requérant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Demande entendue le 5 août 2005, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Yves Savard
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi en vue d'obtenir une ordonnance prolongeant le délai dans lequel un avis d'appel peut être interjeté;
+Et vu les représentations des parties;
+Par les présentes, la Cour rejette la demande de prorogation de délai, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI648
+Date : 20051018
+Dossier : 2005-1847(EI)APP
+ENTRE :
+PIERRE LEBRUN,
+requérant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Le requérant présente une demande pour obtenir une prorogation de délai pour lui permettre de faire appel d'une détermination en date du 7 juin 2004.
+[2] Les motifs à l'appui de sa demande sont mentionnés dans la lettre de son procureur, laquelle se lit comme suit (pièce A-5) :
+Lévis, le 17 mai 2005
+[...]
+Madame/Monsieur,
+Relativement au dossier de notre client, Monsieur Pierre Lebrun, nous en appelons de la décision rendue le 7 juin 2004 par la division des appels de l'Agence des douanes et du revenu du Canada.
+Nous contestons la décision du 7 juin 2004 concernant les périodes du 8 mai 2000 au 19 mai 2000, du 19 juin 2000 au 14 juillet 2000 et du 7 août 2000 au 11 août 2000 au motif que cette décision est mal fondée en faits et en droit.
+Vous pouvez contacter le soussigné à nos bureaux situés au 50, route Président-Kennedy, suite 265, Lévis, Québec, G6V 6W8 ou par téléphone au (418) 837-7777 ou par télécopieur au (418) 837-1668.
+Notre client, Monsieur Pierre Lebrun, nous a contacté le 10 mai 2005 afin que nous entreprenions les démarches nécessaires pour connaître les résultats de l'appel qu'il avait logé le 16 décembre 2003.
+Le 10 mai 2005, nous avons communiqué avec Monsieur Martin Croteau, agent de l'Agence des douanes et du revenu du Canada afin d'être informé des développements survenus dans le dossier de notre client.
+Le soussigné a reçu le 11 mai 2005 par télécopieur copie d'une décision rendue le 7 juin 2004 rejetant l'appel de notre client.
+Monsieur Lebrun n'ayant jamais reçu copie de cette décision, n'a évidemment pu la contester dans le délai prévu.
+En conséquence et compte tenu de cette situation des plus particulières, nous demandons une prolongation de délai afin que notre client puisse avoir l'opportunité de faire valoir ses moyens de contestation à l'encontre de la décision rendue le 7 juin 2004.
+En conséquence, compte tenu des circonstances, vous comprenez que notre client présente tout de même sa demande d'appel le plus rapidement possible.
+Nous vous demandons de nous transmettre copie complète du dossier dès qu'il sera constitué afin que nous puissions en prendre connaissance avant l'audition à venir. Nous joignons à cet effet une autorisation dûment signée par notre client.
+Nous vous demandons également de nous informer de la date d'audition dès qu'elle sera fixée afin que nous puissions nous assurer d'être présent pour faire valoir les intérêts de notre client.
+Si des informations additionnelles relativement à la présente vous apparaissaient nécessaires, n'hésitez pas à communiquer avec le soussigné qui se fera un devoir de répondre à vos questions.
+Espérant le tout conforme et dans l'attente de vos nouvelles, veuillez agréer, Madame, Monsieur, l'expression de nos salutations les plus distinguées.
+YVES SAVARD, avocat
+[...]
+[3] Le requérant a expliqué avoir demandé la révision de la première détermination dans une lettre en date du 16 décembre 2003, dont le contenu était le suivant (pièce A-1) :
+Saint-Bruno 16 décembre 2003
+Chef des appels
+Agence des douanes et
+Du revenu du Canada
+[...]
+Monsieur Alain Landry, j'accuse réception de votre lettre du 16 octobre 2003 m'informant de votre recourt relative à la décision d'assurabilité pour les périodes du 8 mai 2000 au 19 mai 2000, 19 juin au 14 juillet 2000, et du 7 août au 11 août 2000. Numéros des décisions CE 0326 5141 1156, CE 0326 5141 4229, CE 0326 5141 7179.
+Par la présente je vous informe que je conteste votre décision et que je la porte en appel. Car pour établir une telle décision (punition), plusieurs points importants à prendre en considération ont été à mon avis négligés.
+Bien entendu je désire assister à l'audition en français. Je serai également représenté par Me Jérôme Carrier avocat. Prenez note que j'autorise Me Jérôme Carrier avocat à prendre connaissance des documents concernant ma cause.
+Coordonnées de mon représentant : Me Jérôme Carrier avocat
+[...]
+[4] Le contenu de la lettre du requérant fait état de deux éléments importants. Le premier est à l'effet que le requérant n'était pas tout à fait dépourvu quant à la façon d'agir pour faire valoir ses prétentions. Deuxièmement, il avait mandaté un procureur pour s'assurer que tout se déroulerait dans les règles.
+[5] À compter du 16 décembre 2003, il était à prévoir qu'une décision serait rendue. Or, le requérant a mis fin au mandat de son avocat.
+[6] Une demande de prorogation est datée du 17 mai 2005, soit plus de 300 jours après la décision. Le seul fondement de sa demande est sa prétention qu'il n'a jamais reçu la décision. Selon le requérant, c'est à son insu que la décision a été rendue le 7 juin 2004, soit près de six mois après sa lettre du 16 décembre 2003.
+[7] L'intimé a fait témoigner madame Nicole Bérubé en sa qualité de chef d'équipe et de signataire de la décision du 7 juin 2004. Madame Bérubé a attesté que la procédure était simple et fiable et a ajouté que le cheminement était rigoureusement suivi et qu'il ne posait pas de problèmes. Selon le requérant, la procédure se serait avérée inefficace non seulement à son endroit, mais également à l'endroit de son représentant, Me Jérôme Carrier, qui n'est pas venu témoigner.
+[8] L'argument du requérant est très particulier, voire même invraisemblable, compte tenu de la preuve qui a été faite de la fiabilité du système d'envoi des décisions.
+[9] Même si je retenais la thèse du requérant, ce qui n'est pas le cas, je suis d'avis qu'il aurait pu et aurait dû agir plus tôt. Plus encore, il était tout à fait déraisonnable de laisser s'écouler un tel délai avant de réagir. Sa demande de révision fut inscrite le 16 décembre 2003 et la décision fut rendue le 7 juin 2004.
+[10] Il disposait, dans un premier temps, de 90 jours et, possiblement, d'un autre délai de 90 jours pour interjeter appel, ce qui constitue un délai de près d'un an après sa demande de révision. Ce manque de diligence, en soi, constitue un motif suffisant pour rejeter sa demande.
+[11] Sur cette question de délai, la Loi est très claire :
+Loi sur l'assurance-emploi :
+103. (1) La Commission ou une personne que concerne une décision rendue au titre de l'article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l'impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l'expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l'impôt de la manière prévue par la Loi sur la Cour canadienne de l'impôt et les règles de cour applicables prises en vertu de cette loi.
+(1.1) L'article 167 de la Loi de l'impôt sur le revenu, sauf l'alinéa 167(5)a), s'applique, avec les adaptations nécessaires, aux demandes présentées aux termes du paragraphe (1).
+[...]
+Loi de l'impôt sur le revenu :
+167. (1) Le contribuable qui n'a pas interjeté appel en application de l'article 169 dans le délai imparti peut présenter à la Cour canadienne de l'impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu'elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l'appel n'a pas été interjeté dans le délai imparti.
+[...]
+(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+[...]
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+[12] Au paragraphe 103(1) de la Loi sur l'assurance-emploi ( « Loi » ), il est expressément prévu que la demande pour obtenir un délai supplémentaire que peut accorder la Cour canadienne de l'impôt doit être présentée dans les quatre-vingt-dix jours suivant l'expiration du premier quatre-vingt-dix jours. Il s'agit là d'un délai de rigueur que la Cour n'a pas le pouvoir de prolonger.
+[13] Le requérant avait donc un délai de 180 jours pour demander la prorogation de son délai pour en appeler devant la Cour canadienne de l'impôt de la décision en date du 7 juin 2004.
+[14] Il est évident qu'une personne ne peut agir si elle n'a pas connaissance d'une décision qui la concerne. Par contre, lorsqu'une personne est partie à un litige, elle doit faire preuve d'un minimum de diligence pour s'assurer que son dossier chemine normalement.
+[15] En l'espèce, le requérant n'était manifestement pas dépourvu de moyens; il avait mandaté un procureur pour le représenter. Le fait que le requérant a laissé s'écouler près de 300 jours avant de poser un geste concret m'apparaît tout à fait déraisonnable et constitue en soi une fin de non-recevoir.
+[16] Le législateur a prévu un délai de rigueur en cette matière et, je n'ai pas le pouvoir de prolonger ce délai.
+[17] D'ailleurs, à cet effet, la jurisprudence est quasi unanime. L'article 103 de la Loi sur l'assurance-emploi qui régit le présent dossier correspond à peu de chose près à l'article 70 de l'ancienne Loi sur l'assurance-chômage, L.R.C. (1985), ch. U-1, ce qui explique pourquoi la jurisprudence citée fait souvent référence à cet article 70.
+[18] Dans la décision Sirois c. Canada (ministre du Revenu national - M.R.N.), [1995] A.C.I. no 268 (QL), paragraphe 4, le juge Léger écrivait ce qui suit :
+[c]'est pas moi qui a fait la Loi, et puis ça a été interprété par la jurisprudence qui confirme que la Cour canadienne de l'impôt ne peut pas prolonger cette limitation de quatre-vingt-dix jours.
+[19] Dans la décision Godin c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 706 (QL), paragraphe 7, l'honorable Somers disait que :
+[d]'ailleurs aucune raison valable ne fut offerte expliquant le retard. Dans les circonstances la Cour ne peut accorder de prolongation de délai pour interjeter appel.
+[20] Plusieurs autres jugements vont dans le même sens, dont la décision Murty c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.I. no 1595 (QL).
+[21] Au cours des années, divers arguments ont été invoqués pour tenter de renverser ce courant jurisprudentiel.
+[22] Ainsi, on a fait valoir que la forme ne devrait pas prendre le dessus sur le fond. Le paragraphe 27(3) des Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur l'assurance-emploi, DORS 60/690, a été invoqué, mais sans succès, dans Letemplier c. Canada (ministre du Revenu national - M.R.N.), [1995] A.C.I. no 1709 (QL). Dans la décision Pye c. Canada (ministre du Revenu national - M.R.N.), [1995] A.C.I. no 1248 (QL), paragraphe 3, le juge Taylor disait :
+Il se peut qu'il existe des circonstances dans lesquelles on pourrait invoquer le paragraphe 27(3) des Règles de la Cour canadienne de l'impôt [...] pour obtenir un certain redressement, mais je ne suis pas persuadé que la simple demande en l'espèce et le défaut de respecter normalement le délai de 90 jours figurent au nombre de ces circonstances. Même si le requérant avait présenté à la Cour une preuve substantielle indiquant une tentative réelle de sa part de respecter le délai - ce qui n'est pas le cas - cette preuve ne suffirait pas à permettre la prolongation du délai prévu au paragraphe 70(1) de la Loi.
+[23] De même, l'article 2904 du Code civil du Québec, L.Q. 1991, c. 64, a également été invoqué pour interrompre la prescription en raison d'une impossibilité d'agir. Malheureusement, cet argument n'a pas été retenu, le Code civil du Québec constituant, certes, le droit commun pour les questions relevant du droit civil, mais non pour le droit public. Le juge Archambault écrivait dans la décision Dumoulin c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 943 (QL), paragraphes 24-25, ce qui suit :
+[i]l s'agit de l'application d'une loi adoptée par le Parlement canadien [...]. Il ne s'agit pas ici d'une question relevant du droit civil [...]. Je ne crois pas non plus qu'il soit nécessaire ou opportun d'appliquer l'article 2904 C.c.[Q.] parce que le législateur fédéral a déjà prévu la procédure à suivre si un justiciable désire obtenir la prorogation du délai d'appel.
+[24] Le paragraphe 70(1) de la Loi sur l'assurance-chômage ne confère pas de pouvoirs discrétionnaires. Il dicte une procédure stricte, limitant à 90 jours (maintenant 180 jours) le délai pour interjeter appel fermant ainsi la porte à tout jugement fondé sur « l'équité » .
+[25] Lorsqu'une période est précisée ou définie dans une loi, chaque jour est compté : Horowitz v. M.N.R., 62 DTC 1038; Lamarre c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 1063 (QL), paragraphe 9; Chouinard c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.I. no 1026 (QL).
+[26] Ensuite, « l'interprétation libérale » a également été invoquée pour que « les personnes concernées puissent faire valoir leur droit » en vertu du paragraphe 5(1)[1].
+[27] La juge Lamarre Proulx n'a pas accepté cet argument, se fondant sur la décision de la Cour d'appel fédérale dans l'arrêt Canada c. Blais, 64 N.R. 378, paragraphes 8 et 10, où il s'agissait d'un délai de rigueur qui ne pouvait être étendu à la discrétion de la Cour et ajoutant qu' « [u]n règlement ne peut évidemment pas modifier un texte législatif » .
+[28] D'une manière assez colorée, le juge Léger, dans la décision Landry c. Canada (ministre du Revenu national - M.R.N.), [1993] A.C.I. no 98 (QL), paragraphe 18, affirme :
+Ça fait que je regrette, moi je suis lié par les décisions de la Cour. Voyez-vous, c'est fait pour qu'il y ait une fin à des choses. [...] si vous ne le faites pas en dedans de quatre-vingt-dix (90) jours, bonjour la visite, c'est terminé et finalisé. Vous n'avez pas le droit d'être entendu.
+[29] En conclusion, la Loi est très claire quant au sort qui doit être réservé à une demande de prorogation qui n'est pas faite dans les 180 jours.
+[30] Pour toutes ces raisons, la demande de prorogation est rejetée.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI648
+NO DU DOSSIER DE LA COUR : 2005-1847(EI)APP
+INTITULÉ DE LA CAUSE : Pierre Lebrun et M.R.N.
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 5 août 2005
+MOTIFS DE L'ORDONNANCE PAR : L'honorable juge Alain Tardif
+DATE DE L'ORDONNANCE : le 18 octobre 2005
+COMPARUTIONS :
+Avocat de l'appelant
+Me Yves Savard
+Avocate de l'intimé :
+Me Stéphanie Côté
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Yves Savard
+Étude : Savard, Pigeon
+Ville : Lévis (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur l'assurance-emploi, DORS 60/690.

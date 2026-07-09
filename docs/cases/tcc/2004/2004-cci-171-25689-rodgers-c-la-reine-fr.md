@@ -1,0 +1,128 @@
+---
+title: "Rodgers c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25689/index.do"
+last_modified: "2004-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 171"
+citation2: ""
+neutral_citation: "2004 CCI 171"
+decision_date: "2004-02-25"
+language: "fr"
+item_id: "25689"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3847
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:45:25.284000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f3786c5751ac9868bb9460a665cfd9303014d7b060666e4824d0071cf1d4fdf8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rodgers c. La Reine
+
+- Citation: 2004 CCI 171
+- Decision date: 2004-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3847, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rodgers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-25
+Référence neutre
+2004 CCI 171
+Numéro de dossier
+2002-1772(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI171
+Date : 20040225
+Dossier : 2002-1772(IT)I
+ENTRE :
+RAYMOND RODGERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Pour l’appelant : L’appelant lui‑même
+Avocat de l’intimée : Me Raj Grewal
+__________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Vancouver (Colombie‑Britannique), le 24 janvier 2003.)
+Le juge Bowie
+[1] M. Rodgers interjette appel de la cotisation d’impôt sur le revenu établie à son égard pour l’année d’imposition 1997. La seule question en litige a trait à un gain en capital imposable inclus dans la cotisation, gain réalisé par M. Rodgers à la suite de la vente d’un terrain de dix acres à Pemberton, en Colombie‑Britannique. M. Rodgers est d’avis qu’il ne devrait pas être imposé sur le gain relatif à cette vente étant donné que sa résidence principale, sa seule résidence en fait, était située sur le terrain en question.
+[2] Toutefois, les choses ne sont pas si simples, et ce, bien qu’il n’y ait qu’un seul fait qui soit sérieusement contesté, un fait sur lequel, en dernière analyse, je n’ai pas à me prononcer. La preuve établit que M. Rodgers a fait l’acquisition du terrain, d’une superficie légèrement supérieure à dix acres, en avril 1983. L’acte de transfert signé à l’époque montre que le terrain valait 44 900 $. Quand il a produit sa déclaration de revenu pour l’année d’imposition 1994, M. Rodgers a fait le choix de déclarer un gain en capital en application du paragraphe 110.6(19) de la Loi de l’impôt sur le revenu (la « Loi ») afin de bénéficier de l’exonération des gains en capital alors prévue par la Loi.
+[3] En 1995, M. Rodgers et sa femme ont élu domicile dans une caravane garée sur le terrain. Le ministre ne conteste pas le fait que cette caravane constitue un logement aux fins de la définition de « résidence principale » donnée par l’article 54 de la Loi. M. Rodgers et sa femme y ont vécu jusqu’en 1997, année où ils ont déménagé et où M. Rodgers a vendu le terrain. À l’époque, le produit net de la vente s’est élevé à 221 446 $. Aucun de ces faits n’est contesté.
+[4] L’appelant et sa femme ont prétendu avoir produit une déclaration de revenu conjointe pour l’année d’imposition 1997. La Loi ne permet pas à deux personnes de produire une déclaration de revenu conjointe, qu’elles soient mariées ou non. Par conséquent, le ministre a demandé à l’appelant de produire une déclaration de revenu individuelle, ce que ce dernier n’a jamais fait. L’appelant s’est ainsi vu imposer une pénalité pour production tardive en application de la Loi. Je n’ai pas compris pourquoi l’appelant affirmait ne pas être passible d’une telle pénalité d’un point de vue juridique. Compte tenu des faits qui n’ont pas été contestés, il était passible de cette pénalité, et il ne peut voir son appel accueilli à cet égard.
+[5] Par un avis de cotisation daté du 17 mai 2001, le ministre, qui était au fait de la vente du terrain, a établi à l’égard de M. Rodgers une cotisation dans laquelle il a fixé à 45 493,11 $ le gain en capital imposable réalisé par celui‑ci. Ce montant a été calculé en partant de la prémisse voulant que seul le gain réalisé sur la moitié du terrain entre 1995 et 1997 ait été exonéré d’impôt du fait qu’il s’agissait de la résidence principale du contribuable. Le ministre a adopté la position suivante : étant donné que les règlements de la zone rurale de Squamish-Lillooet prévoyaient à l’époque que les terrains zonés R1, tels que le terrain en cause, devaient avoir une superficie minimale de cinq acres, M. Rodgers aurait pu diviser son terrain en deux parcelles de cinq acres, et par conséquent, la moitié de son terrain constituait un excédent.
+[6] C’est sur ces fondements que le ministre a calculé le gain en capital imposable et établi la cotisation en cause à l’égard de l’appelant. Le document faisant état du calcul du montant du gain en capital imposable a été déposé sous la cote R‑18 à l’audience. Il appert de la pièce R-18 que ledit calcul était erroné. Le ministre est parti de l’hypothèse voulant que le terrain ait été acheté en 1992 plutôt qu’en 1982, et il en a résulté une sous‑évaluation du gain en capital imposable. Le temps que le ministre dépose la réponse à l’avis d’appel, ce qu’il a fait en juillet 2002, cette erreur avait été découverte. Dans la réponse, le ministre a soutenu, d’une part, que si le gain en capital devait être calculé en partant de l’idée que 50 % des terres constituaient un excédent de terrain qu’il était possible de séparer du reste, le gain en capital taxable s’élèverait à 45 037 $ pour l’excédent de terrain, et à 23 167 $ pour le terrain où se trouvait la caravane pendant les années précédant le moment où elle est devenue une résidence, ce qui donnerait un gain en capital imposable total de 68 204 $ et, d’autre part, que si le gain en capital devait être calculé en partant du principe que le terrain n’était pas divisible et qu’il ne comprenait pas d’excédent de terrain, alors le gain en capital imposable, calculé en tenant adéquatement compte de l’exonération pour résidence principale qu’on appliquerait à l’ensemble du terrain pour la période comprise entre 1995 et 1997, s’élèverait à 46 334 $. Ces deux calculs sont présentés en détail dans les pièces R-19 et R-20 respectivement. M. Dyak, qui a effectué les calculs en tant que tels, a expliqué comment il avait procédé, mais M. Rodgers ne l’a pas interrogé à ce sujet. J’ai examiné ces calculs, et je suis convaincu qu’ils ont été faits correctement, conformément aux dispositions de la Loi.
+[7] M. Rodgers remet en cause la cotisation, soutenant que le terrain n’était pas divisible pour un certain nombre de raisons sur lesquelles je n’ai nul besoin de m’attarder. Il a déclaré avoir déposé une demande en vue d’obtenir l’autorisation de diviser le terrain. Il n’a pas été en mesure de produire quelque preuve que ce soit établissant que cette autorisation avait été expressément refusée, bien qu’elle n’ait certainement pas abouti pendant la longue période au cours de laquelle il a cherché à l’obtenir. Au passage, je note que le propriétaire suivant, la personne à qui M. Rodgers a vendu le terrain, est parvenu à le diviser.
+[8] Quoi qu’il en soit, compte tenu des circonstances particulières de la présente affaire, la question de la division est théorique parce que, même si on donnait à M. Rodgers le bénéfice du doute en supposant que le terrain n’était pas divisible et qu’il n’y avait pas d’excédent, le gain en capital imposable, calculé correctement, est légèrement supérieur au montant fixé dans la cotisation en cause. M. Rodgers affirme que ce n’est que quelques jours avant l’audition du présent appel qu’on lui a expliqué pour la première fois que les nouveaux calculs du ministre relatifs au montant de son gain en capital aboutissaient à un tel résultat. En dépit du fait que les nouveaux fondements de la cotisation aient été exposés dans la réponse, M. Rodgers a déclaré qu’il ne les comprenait pas. À cet égard, je ne peux que faire preuve de compréhension à son endroit. Les nouveaux fondements sont présentés dans un langage abscons qui les rend difficiles à saisir. Il s’agit d’une autre illustration de la pratique à laquelle le sous‑procureur général du Canada se livre un peu trop souvent, et qui consiste à déposer des actes de procédure qui, s’ils ne compliquent pas délibérément les questions en litige, ne contribuent certainement pas beaucoup à les définir ou à les clarifier. C’est une pratique que certains de mes confrères et moi avons déplorée par écrit par le passé, demandant qu’elle soit portée à l’attention du sous‑procureur général, sans que cela ait permis de constater quelque amélioration que ce soit dans les actes de procédure présentés.
+[9] M. Rodgers demande que j’applique la théorie de l’irrecevabilité en equity, la doctrine de Scott et d’autres principes – dont la signification, j’en suis certain, lui échappe – et que je conclue ainsi que son gain en capital n’était pas imposable parce qu’on ne lui a jamais expliqué, ou qu’on ne lui a expliqué que très peu de temps avant l’audition du présent appel que, du fait de l’erreur à laquelle j’ai fait allusion, la question de l’existence d’un excédent de terrain était devenue théorique. Il est bien établi en droit que la Cour n’a pas le pouvoir de dispenser les contribuables de l’impôt qu’ils sont à juste titre tenus de payer en vertu des dispositions législatives, telles que le législateur les a rédigées, applicables aux faits établis à l’audience, dans la mesure où la cotisation dont les contribuables en question font l’objet est conforme à la loi. La Loi a été récemment modifiée et le paragraphe 152(9) y a été ajouté; ce paragraphe prévoit expressément que le ministre peut avancer un nouvel argument à l’appui d’une cotisation après l’expiration de la période de cotisation normale, sauf s’il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation de la Cour, et qu’il ne convient pas que la Cour accorde une telle autorisation. En l’espèce, cette exception ne s’applique pas, et il ne fait aucun doute que le ministre pouvait présenter dans ses actes de procédure et dans ses plaidoiries à l’audience des arguments au sujet du second calcul, ou peut‑être devrais‑je dire du calcul exact.
+[10] Quoi qu’il en soit, comme l’a déclaré le juge Stone au paragraphe 4 de l’arrêt R. v. Riendeau[1], en rendant l’arrêt unanime de la Cour d’appel fédérale, je suis lié par la loi. Voici le passage en question :
+Selon nous, le processus mental du Ministre pour établir une cotisation ne saurait modifier l'assujettissement d'un contribuable au paiement de l'impôt prescrit par la Loi même. Le Ministre peut corriger une erreur. Le juge de première instance était fondé à rejeter l'argument de la partie appelante et à statuer que le Ministre avait le droit de ratifier les nouvelles cotisations en question.
+Bien évidemment, c’est précisément ce dont il est question en l’espèce. Le ministre a commis une erreur. Il l’a par la suite corrigée, comme il avait le droit de le faire.
+[11] L’application de ce principe fait en sorte qu’il n’est pas pertinent de se demander qui du ministre ou de l’appelant a raison quand il s’agit de savoir s’il était possible de diviser le terrain en deux lots de cinq acres chacun. Si le ministre a raison, je n’ai pas le pouvoir d’augmenter le montant de l’impôt payable au‑delà du montant fixé dans la cotisation, même si cette cotisation est erronée (voir la décision Harris v. Minister of National Revenue[2]). Si le ministre a raison et que le terrain était divisible, alors l’appelant a bénéficié de l’erreur du répartiteur qui lui a permis d’économiser l’impôt sur la somme de 68 204 $ moins 45 037 $, soit de 23 167 $. Si M. Rodgers a raison, son économie représente alors l’impôt payable sur 46 334 $ moins 45 037 $, autrement dit sur la somme de 1 297 $. Dans tous les cas, la cotisation établie à l’égard de M. Rodgers fait état d’un montant moindre que celui qui était en fait exigible sur le gain en capital qu’il a réalisé.
+[12] Compte tenu des circonstances de la présente affaire, y compris de l’erreur de calcul qui a été commise, le ministre pourrait considérer favorablement une demande d’annulation d’une partie, voire de la totalité, des intérêts dus par M. Rodgers en application du paragraphe 220(3.1) de la Loi. Il ne s’agit toutefois pas là d’une question relevant de ma compétence. Celle‑ci se limite à examiner la légalité de la cotisation telle qu’elle a été établie.
+[13] Pour l’ensemble des motifs susmentionnés, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de février 2004.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce 27e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2004CCI171
+NO DU DOSSIER DE LA COUR :
+2002-1772(IT)I
+INTITULÉ :
+Raymond Rodgers et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 21 janvier 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge E. A. Bowie
+DATE DU JUGEMENT :
+Le 28 janvier 2003
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 91 DTC 5416.
+[2] 64 DTC 5332.

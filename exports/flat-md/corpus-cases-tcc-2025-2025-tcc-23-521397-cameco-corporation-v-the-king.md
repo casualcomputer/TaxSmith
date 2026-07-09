@@ -1,0 +1,382 @@
+---
+title: "Cameco Corporation v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521397/index.do"
+last_modified: "2025-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 23"
+citation2: ""
+neutral_citation: "2025 TCC 23"
+decision_date: "2025-02-11"
+language: "en"
+item_id: "521397"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6024
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:44:47.798000+00:00"
+cases_cited_count: 19
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3cbe8f597e81e4ae2c07aa107175d1bb6f7a402d22356964f65db26a3d4de48b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameco Corporation v. The King
+
+- Citation: 2025 TCC 23
+- Decision date: 2025-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6024, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameco Corporation v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-26
+Neutral citation
+2025 TCC 23
+File numbers
+2021-2686(IT)G, 2022-2715(IT)G, 2022-2717(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-2686(IT)G
+2022-2715(IT)G
+2022-2717(IT)G
+BETWEEN:
+CAMECO CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on November 29, 2024, at Toronto, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+David Jacyk
+Peter MacDonald
+Camille Andrzejewski
+Counsel for the Respondent:
+Elizabeth Chasson
+Laurent Bartleman
+Darren Prevost
+Isida Ranxi
+ORDER
+UPON hearing from the parties;
+AND in accordance with the attached Reasons, it is ordered that:
+[1] On or before June 30, 2025, the respondent is ordered, as part of their response to the demand for particulars, to provide the following:
+the arm’s length price the respondent relies upon which would have been agreed to between arm’s length parties for the purposes of paragraphs 247(2)(a) and (c) of the Act, set out in dollars per pound for each of the 12 agreements listed in Appendix 1 of the 2007‑2013 Reply, dated June 6, 2023. The equivalent information for the 2014 Reply and 2015 Reply shall also be provided;
+the terms and conditions for each of the 12 agreements listed in Appendix 1 of the 2007-2013 Reply, dated June 6, 2023, that differ from those that would have been made between arm’s length parties, and the equivalent information for the 2014 Reply and 2015 Reply; and
+a calculation of the income adjustments and tax reassessed resulting from the claimed arm’s length prices identified by the Minister and respondent for all three Replies referred to in this motion.
+[2] The parties will proceed in the litigation pursuant to the following schedule:
+List of Documents:
+Each party shall prepare a list of documents (partial disclosure) using form 81.
+Each party shall service their lists of documents with the Court on or before September 10, 2025.
+Examination for Discovery
+The parties shall complete examinations for discovery on or before January 10, 2026.
+The answers to undertakings arising from the examinations for discovery shall be served on or before April 10, 2026.
+Reporting to the Court
+On or before June 10, 2026, the parties shall file one of the following with the Court:
+a joint application to fix a time and place for the hearing using Form 123;
+a letter requesting a settlement conference (refer to Practice Note 21); or
+a letter confirming that the appeal will settle and the anticipated date of settlement.
+[3] Costs will be in the cause.
+Signed this 11th day of February 2025.
+“R. MacPhee”
+MacPhee J.
+Citation: 2025 TCC 23
+Date: 20250226
+Docket: 2021-2686(IT)G
+2022-2715(IT)G
+2022-2717(IT)G
+BETWEEN:
+CAMECO CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+MacPhee J.
+I. Introduction [4] Cameco Corporation (“Cameco”) is the appellant in three appeals before the Tax Court, arising from assessments of income tax for its 2007-2015 taxation years. These assessments, in large part, apply the transfer pricing provisions set out in paragraphs 247(2)(a) and (c) of the Income Tax Act (the “Act”).
+[5] This motion, brought by the appellant, relies upon a previous successful appeal, by Cameco, of similar assessments for the 2003, 2005 and 2006 taxation years (the “previous appeals”).[1]
+[6] The previous appeals also concerned the transfer pricing provisions of the Act (sham was the primary argument, both 247(2)(b) and (d) and 247(2)(a) and (c) were alternative arguments). As part of the previous appeals, procedural motions concerning the respondent’s pleadings were brought. In those motions, the court made rulings as to what must be included in a transfer pricing reply. The current motion before me, in large part relies on the premise that the respondent is ignoring previous rulings by the Tax Court of Canada and the Federal Court of Appeal concerning the drafting of proper pleadings in a transfer pricing matter.
+[7] Furthermore, the appellant takes the position that, due to the similarities in the previous appeals and the present appeals, issue estoppel should apply. Its application would either prevent the respondent from once again litigating the transfer pricing issues in the appeal filed by the appellant, or in the alternative, prevent the respondent from relying upon certain arguments, which arose in the previous litigation.
+Remedies sought
+[8] Cameco is seeking the following:
+an order striking the Replies and allowing the appellant’s appeals due to the respondent’s failure to disclose arm’s length terms and conditions in their Notice of Reply; or, in the alternative,
+an order striking certain paragraphs and directing that the respondent is precluded from disputing that the terms and conditions were ones which would have been made between persons dealing at arm’s length; or, in the further alternative,
+an order striking the Replies with leave to amend to include specified information regarding the prices, terms, and conditions that the respondent alleges are the prices, terms, and conditions that would have been accepted by arm’s length parties.
+[9] If the first remedy, or its alternatives, are not granted, the appellant is seeking the following remedies:
+an order striking specific paragraphs from the Replies on the basis of issue estoppel;
+allowing the appellant’s appeal for the 2007 taxation year and striking specific paragraphs of the Reply because it does not disclose any basis for the reassessment;
+an order pursuant to Rule 170.1 of the Tax Court of Canada Rules (General Procedure) (the “Rules”); and
+an order for a timetable regarding the conduct of the litigation.
+[10] The appellant is also seeking an award of solicitor-client costs for all costs incurred by the appellant between January 21, 2022, the day of the filing of the initial 2007-2013 Reply, and the date of the order of this Court.
+Background on the Issues Under Appeal
+[11] The appellant’s 2007-2015 taxation years are under appeal. The following taxation years relate to the following court file numbers:
+Taxation Year(s) Under Appeal
+Court File Number
+2007-2013
+2021-2686(IT)G
+2014
+2022-2717(IT)G
+2015
+2022-2715(IT)G
+[12] The issues under appeal can be summarized as follows:
+whether there should be transfer pricing adjustments;
+whether there should be transfer pricing penalties;
+whether the appellant is entitled to certain investment tax credits;
+whether the appellant is entitled to certain Canadian exploration expenses as defined in section 66.1 of the Act;
+whether the appellant is entitled to use certain loss carry backs or loss carry forwards; and
+determining the appropriate amount of Ontario transition tax credits, provincial taxes, interest, and instalment penalties.
+II. Issues [13] The appellant’s primary position is that the Replies should be struck because:
+The Replies fail to identify how the terms and conditions for the transactions in issue differ from those that would have been made between persons dealing at arm’s length, making it impossible to identify what portion of the transfer pricing adjustment relates to each particular contract[2];
+this omission is a deliberate failure to comply with the pleadings requirements set out by the Tax Court of Canada and the Federal Court of Appeal in the prior litigation between the parties (2010 TCC 636, 2011 TCC 356, and 2015 FCA 143); and
+the respondent was given an opportunity to correct the deficiencies in the Replies through the service of two separate demands for particulars, the first of which was served over two years ago. The appellant argues that this Court should not give the respondent further opportunities to delay the appeals.[3]
+Previous Cameco Orders and Minister’s previous Amended Reply for 2003 taxation year
+[14] In the previous appeal, the appellant brought a similar motion to strike portions of the Reply because the paragraphs in question:
+constituted an abuse of process pursuant to paragraph 53(c) of the Rules;
+may prejudice or delay the fair hearing of the action pursuant to paragraph 53(a) of the Rules; and
+failed to conform to the requirements of subsection 49(1) of the Rules.[4]
+[15] The respondent refused to supply particulars requested by the appellant to cure these defects.
+[16] In his decision on the motion, then Chief Justice Rip (“CJ Rip”) explained that when a party fails to supply particulars, the normal course of action is to apply to the Court for an order that the particulars be delivered under Rule 52.[5] A motion to strike a pleading for failure to provide particulars should generally be used only as a last resort, such as when a party has failed to provide particulars after the Court has ordered them to do so.[6]
+[17] However, CJ Rip ordered certain paragraphs of the respondent’s Reply to be struck with leave to amend, finding that the appellant is entitled to know what prices are consistent with arm’s length prices to the extent that such prices cannot be determined by reference to the amount of tax assessed.[7]
+[18] Sometime later, the respondent filed an amended Reply for 2003 that contained paragraphs identical to the paragraphs the Court ordered to be struck.[8] As a result, the Tax Court struck those paragraphs again, but this time without leave to amend.[9] This on the basis that if the Minister makes an assumption that the transfer prices differed from those that would have been made between persons dealing at arm’s length, then the taxpayer is entitled to know exactly how they differed.[10]
+[19] The paragraphs that were struck without leave to amend were:
+(bbb) the transfer prices for uranium on the sales by Canco to Swissco and the purchases by Canco from Swissco were not consistent with an arm's length price;
+(fff) the terms and conditions made or imposed in respect of the sale and purchase of uranium between Canco and Swissco differ from those that would have been made between persons dealing at arm's length.
+[20] The Federal Court of Appeal, ruling on a subsequent Cameco motion that arose from the respondent’s answers at discoveries, in obiter referenced CJ Rip’s decision:
+66. In response, counsel for the Crown made the point that the arm's length price between Cameco and CEL is irrelevant to her client's position which is based on the premise that arm's length parties would not have entered into these transactions. However, the arm's length price of uranium is relevant to Cameco's case and counsel for the Crown did not abandon or in any way resile from her client's entitlement based on the pleadings to take a distinct position at trial as to the arm's length price at which Cameco and CEL ought to have purchased/sold uranium transacted between them. To the extent that the Crown contemplates taking such a position at trial, it has the obligation to disclose that distinct arm's length price before the trial, as has already been held by Chief Justice Rip on two occasions.
+Current Pleadings Before the Court (2007-2013 taxation years)
+[21] The respondent’s Reply for the 2007 to 2013 taxation years include the following assumption paragraphs:
+14.78. the terms and conditions of the renegotiated agreements were not made at arm’s length;
+14.86. the Appellant sold uranium to CEL at prices that were below arm’s length prices in the Years in Issue.
+[22] There are various other paragraphs that speak to the whether the contracts in issue differed from those that would have been made between arm’s length parties.[11]
+[23] These pleadings again ignore the directions provided in CJ Rip’s decision, which bears repeating. If the Minister assumes that the transfer prices differed from those that would have been made between persons dealing at arm’s length, then the taxpayer is entitled to know exactly how they differed.
+Additional factors relied upon by the appellant
+[24] The appellant also stresses that there are additional aggravating factors that support the striking of the Replies. These factors include:[12]
+the respondent is improperly obscuring the fact that to support the reassessment, the Crown would have to re-litigate the holdings of this Court in the prior litigation or take patently absurd positions;
+the respondent’s extended opportunity to identify its transfer pricing position, with the benefit of three previous decisions of the courts, two demands for particulars in this appeal, and one amended pleading; and
+the Crown is trying to be sufficiently vague in order to find a theory at discovery.
+Respondent’s response to demand for particulars in this matter
+[25] The appellant, on May 6, 2022, served the respondent with a demand for particulars. This demand sought for the Crown to identify the arm’s length price and other terms assumed by the Minister to have been made by arm’s length parties for each of the 12 agreements listed in Appendix 1 of its 2007-2013 Reply. The equivalent information was sought for the 2014 and 2015 Reply.
+[26] In what I would describe as a surprising development, the Crown in their oral submissions say they did provide what they rely upon as an arms length price for the uranium in their answer to the demand for particulars. They say the arm’s length prices are found at paragraph 14.44 of the Reply, under a column entitled “Cameco Group average realized price”. For example, in 2007, the arm’s length price would be US$37.47.
+[27] While their response to the demand for particulars was not clear. I am left with submissions and evidence from the respondent that they communicated the most significant portion of what is being sought: the arm’s length price of the uranium for the years before the Court.
+III. Analysis [28] The purpose of pleadings is to define the issues in dispute for the purposes of production, discovery, and trial.[13]
+[29] This Court has previously stated that the appellant is entitled to know what prices are consistent with arm’s length prices to the extent that such prices cannot be determined by reference to the amount of tax assessed.[14] I agree that this must form part of the respondent’s Reply. It did not when the reply was first filed, yet it appears the arm’s length price was identified in response to the demand for particulars.
+Applicability of 53(1)(c) to strike
+[30] Pursuant to paragraph 53(1)(c) of the Rules, the Tax Court may strike out or expunge all or part of a pleading on the grounds that the pleading is an abuse of the process of the Court.
+[31] A party’s conduct is considered an abuse of process when the party has deliberately failed to cooperate or comply with the rules or court orders causing delay and prejudice.[15]
+[32] Moreover, it is possible for there to be an abuse of process when the Minister withholds facts central to the making of the assessment, as the Minister has an obligation to disclose the findings of fact and law on which the assessment was made.[16]
+[33] The party wishing to strike a pleading has the onus of establishing that it should be struck.[17] This onus has been described as a heavy one.[18]
+[34] This Court should only strike a pleading without leave to amend if the defect is incurable by amendment.[19] In order for a claim to be struck without leave to amend, there must not be a “scintilla” of a legitimate cause for action.[20]
+[35] Generally, amendments to pleadings should be permitted unless it would cause prejudice that cannot be compensated by an award of costs.[21]
+[36] The answer to the demand for the particulars by the respondent, poorly communicated as it was, has provided an arm’s length value that is relied upon by the respondent to support the assessment. The response to the demand for particulars is deemed a part of the respondent’s pleadings.
+[37] With this in mind, I do not find that the Replies (including the response to the request for particulars) were an abuse of the process of the Court.
+Striking out the Pleadings is Inconsistent with Jurisprudence
+[38] In coming to a decision on this matter, I also consider the recent statements made by Justice Monaghan in Preston,[22] in which she wrote, “the Tax Court must consider the need to facilitate the just, most expeditious and least expensive determination of” the matters in dispute (Rule 4(1), see also Rule 7). In exercising its discretion, it should consider whether there are other ways to address any perceived deficiencies in the pleadings. In this instance, to strike certain paragraphs with leave to amend would seem an inefficient and time-consuming solution.
+[39] Instead, I will order the respondent to answer the following two demands for particulars.[23] In doing so, I will not be ordering the Crown to amend its assumption paragraph, requiring additional information to be added to the assumptions. I accept that the Crown has plead the Minister’s assumptions as they existed at the time of pleading.
+[40] On or before June 30, 2025, the respondent is ordered, as part of their response to the demand for particulars, to provide the following:
+the arm’s length price the respondent relies upon which would have been agreed to between arm’s length parties for the purposes of paragraphs 247(2)(a) and (c) of the Act, set out in dollars per pound for each of the 12 agreements listed in Appendix 1 of the 2007‑2013 Reply, dated June 6, 2023. The equivalent information for the 2014 Reply and 2015 Reply shall also be provided;
+the terms and conditions for each of the 12 agreements listed in Appendix 1 of the 2007-2013 Reply, dated June 6, 2023, that differ from those that would have been made between arm’s length parties, and the equivalent information for the 2014 Reply and 2015 Reply; and
+a calculation of the income adjustments and tax reassessed resulting from the claimed arm’s length prices identified by the Minister and respondent for all three Replies referred to in this motion.
+Striking the Replies on the Basis of Issue Estoppel
+[41] The appellant has also requested, in the alternative, an order striking a portion of the Replies, relying upon the principle of issue estoppel.
+A. Appellant’s Position
+[42] The appellant claims that the following requirements for issue estoppel are met:
+an earlier court decision decided the same questions that is before this Court, and the question was fundamental to the earlier court’s decision;
+the earlier court decision was final; and
+the parties to the earlier judicial decision are the same persons as the parties in the current proceeding.[24]
+[43] In this instance, the appellant submits that the decision of the previous Cameco litigation is final and it involved the same parties as the current Cameco appeal.[25]
+[44] Moreover, the issue in the previous Cameco litigation was whether the long‑term bulk purchase contracts to purchase uranium from Cameco contained pricing formulas that gave rise to arm’s length prices. The same issue regarding the arm’s length terms and conditions for deliveries under the long-term bulk purchase contracts arises in the current Cameco litigation.[26]
+B. Analysis
+[45] Issue estoppel prevents parties from relitigating an issue that was decided in a previous proceeding.[27]
+[46] Even if the necessary conditions are met, issue estoppel does not automatically apply.[28] After the necessary conditions are met, the judge has the discretion to decide if issue estoppel should be applied or if it would be unfair to do so given the particular circumstances.[29]
+[47] In the current appeal, the second and third criteria of issue estoppel are clearly met. The earlier Cameco decision is final, given that leave to appeal to the Supreme Court of Canada was not granted.[30] Moreover, the earlier Cameco decision involved the same parties, Cameco Corporation and the Minister.
+[48] To satisfy the first requirement, that it is the same question being litigated, it must be determined that the question of mixed fact and law previously adjudicated on is the same question of mixed fact and law currently in front of the Court.[31]
+[49] In the present case, these are new taxation years being appealed. Different assessments are before the court, involving different calculations. On this basis alone I would not apply issue estoppel. I do not accept that the Minister is forever prevented from assessing Cameco, relying upon 247(2) because of the previous decision by the Tax Court (upheld by the Federal Court of Appeal).
+[50] There is no doubt that the previous decision will have precedential value in any future trial. The trial judge may also consider concepts such as judicial comity and will have discretion considering the award of costs. However, I do not accept that issue estoppel applies to a different year’s assessment.
+[51] If I am incorrect on this general principle, I also rely upon the fact that there are various new and amended contracts concerning the uranium purchases in the present appeals.
+[52] Therefore, it is my decision that issue estoppel will not be applied to strike paragraphs in the Replies that deal with transfer pricing.
+Issue estoppel to govern the admission of evidence at trial
+[53] As an alternative argument, the appellant requested that, if issue estoppel did not lead to the striking paragraphs in the Replies, then an order should be made directing that certain arguments not be made at trial by the respondent.
+[54] When I asked the appellant how such a such a ruling would apply, it was explained, in part, this way:
+MR. MACDONALD: I think what we're asking you to strike -- or we have also said, or a direction that the Crown cannot advance arguments with respect to these issues, because the -- Justice Owen found as a matter of fact that the primary purpose for entering into agreements with CEL -- and there are eight agreements that are now the -- that are now the focus of this litigation -- was not tax motivation. The Crown is looking for another kick at the can --
+[55] The appellant went on to give various examples, but as I understand the request, part of the order sought is that I direct that certain evidence not be called at the eventual trial of this matter. I am not willing to exercise my discretion in that manner.
+[56] In MacIver, the Tax Court dealt with a motion for the application of issue estoppel.[32] The Tax Court stated that if an estoppel motion is not for the dismissal of the appeal but instead for a finding that a party is estopped from denying certain facts, then that motion should be dealt with by the trial judge. Otherwise, a successful estoppel motion would split off the fact-finding portion of the trial and accordingly tie the hands of the trial judge.[33] As stated by Justice Hershfield:
+Respondent's issue estoppel motion asks me to apply the doctrine of issue estoppel to limit findings of fact as opposed to applying it to finally dispose of the appeal which is to bifurcate the appeal. I see no need to do that in the case at bar. I think, as a general rule, that it should be avoided. Findings of fact including findings of previously found facts are best left to the trial judge.[34]
+[57] While MacIver involved facts previously found at a criminal trial, the same principles apply to the current Cameco appeals. The issue estoppel motion is best left to the trial judge as the appellant is attempting to stop the respondent from relitigating certain facts. While I will not grant this portion of the motion, the appellant is free to bring this motion again before the trial judge.
+2007 Reply does not disclose any basis for reassessment
+[58] The appellant argues that the 2007 Reply does not disclose any basis for reassessing Cameco’s 2007 taxation year.
+[59] Moreover, as paragraphs 247(2)(b) and 247(2)(d) of the ITA are not advanced by the respondent, any statements in the Replies related to those provisions should be struck as they are not relevant.
+[60] According to the appellant, uranium sales from Cameco to CEL in 2007 were made pursuant to nine long-term bulk purchase contracts.[35] Eight of those contracts were found to contain arm’s length prices during the previous Cameco litigation.[36] All of the 2007 deliveries related to these eight contracts were under the original contract terms.[37] This suggests the implausible idea that the Minister’s 2007 reassessment of $325,581,808 is solely based on the one 2007 contract that was not previously litigated.[38]
+[61] The appellant argues that the reason for the Minister’s unclear pleadings is to leave the door open to come up with a new assessing basis during the discovery process.[39]
+C. Analysis
+[2]Notably, the respondent’s Reply states that:
+14.71 During the 2007-2009 period, the Appellant and CEL renegotiated the terms and conditions of the 1999-2001 agreements to provide for deliveries of uranium beyond the original term of the agreements, as set out in Appendix I to this Reply (renegotiated agreements);[40]
+[62] In other words, the respondent alleges that the terms of the agreements litigated in the previous Cameco litigation differ from the amended agreements in issue for the current appeals.
+[63] To strike out a pleading under Rule 53, it must be plain and obvious that the position has no hope of succeeding.[41] Moreover, the facts as alleged in the pleading must be taken as true.[42]
+[64] The respondent’s Reply alleges that many of the 2007 uranium deliveries were in accordance with long-term bulk purchase agreements that were renegotiated in 2004, 2006, and 2007.[43] Accordingly, it is not obvious that there is no basis for the Minister to reassess the appellant’s 2007 taxation year.
+[65] Moreover, an allegation in a pleading should only be struck due to irrelevancy if there is no doubt that the allegation is irrelevant.[44]
+[66] Therefore the appellant’s motion to strike the Reply for the 2007 taxation year is denied.
+Rule 170.1 Order
+[67] Rule 170.1 allows a party to apply for a judgment at any stage in the proceeding when there are no facts or legal issues in controversy.[45] Chief Justice Bowman hypothesized that the purpose of Rule 170.1 is to permit the court to grant “pro tanto” judgments in cases in which multiple issues are raised and the Crown is prepared to consent to judgement on one issue, so that a relieving reassessment can be issued and the parties can litigate the remaining issues.[46]
+A. Appellant’s Position
+[68] In March 2023, the Minister issued new reassessments for the 2007-2013 taxation years (the “March 2023 Reassessments”).[47] The March 2023 Reassessments reflected that the respondent’s Initial Reply conceded that $1.9 billion of transfer pricing adjustments related to CEL’s transactions with third parties should be reversed.[48]
+[69] Firstly, the appellant argues that the March 2023 reassessments do not align with the admission made in the 2007-2013 Initial Reply regarding CEL’s transactions with third parties. While the income adjustments correctly reflect the admission, the related transfer pricing penalties do not.
+[70] Secondly, the Crown has not issued a reassessment to implement its same admission in its 2014 Reply.
+[71] Thirdly, there is a $3 million refund shortfall that arose because the Minister refunded an amount to the appellant that was less than the amount confirmed by the Crown.
+B. $16 Million in Excessive Penalties (paragraph 69 above)
+[72] According to the appellant, the March 2023 Reassessments did not properly account for the adjustment to the transfer pricing penalty.
+[73] The appellant argues that the transfer pricing penalty provision is simply 10% of the transfer pricing adjustment.[49]
+[74] The appellant’s statement that the transfer pricing penalty is simply 10% of the transfer pricing adjustment is an oversimplification.
+[75] The respondent believes the transfer pricing penalty calculation is correct.[50]
+[76] Given that there are facts or legal issues under controversy, it would not be appropriate by a motions judge to issue a judgment under Rule 170.1 concerning the calculation of the penalty.
+C. 2014 Reassessment (paragraph 70 above)
+[77] The appellant further argues that the Minister has refused to issue a reassessment that reflects the concessions made in the 2014 Reply.
+[78] The respondent’s 2014 Reply admits that the 2014 transfer pricing adjustments should not include transactions between CEL and third parties and that the aggregate transfer pricing adjustment for 2014 was over-assessed by $226,446,028.[51]
+[79] Notably, a letter dated June 23, 2023, from the respondent to the appellant indicates that the respondent’s position is that a reassessment of the 2014 taxation year is not justified as no amounts have been paid in cash nor has any security been posted with respect to the outstanding liability for the 2014 taxation year.[52]
+[80] The appellant suffers no prejudice in how things presently stand. Given that there is a formal admission by the respondent, there is no prejudice for the appellant.
+[81] Furthermore, the respondent argues that the Court should not issue the order requested by the appellant, since it may well prejudice the appellant’s ability to pursue their appeal in the 2014 taxation year. The respondent made the following submission at the motion:
+“but what can the Tax Court of Canada do? There's the question. There's where the trouble lies.
+Under Section 171 of the Income Tax Act, which gives the powers to the Tax Court of Canada judge to do things, what does it say it can do? It can dismiss an appeal, allow an appeal, and vacate or send it back for reassess -- reconsideration and reassessment in respect of a taxation year.
+So my friend is not wholly accurate when he says the Crown says you can't do it. Of course you can. If my friend brings a motion, asks for judgment with respect to the 2014 taxation year that says the transfer pricing adjustment is this number, the lower number, Your Honour, under 171, could absolutely allow the appeal, send it back for reconsideration and reassessment, that the transfer pricing adjustment for the 2014 taxation year is this number.
+However, Your Honour will have adjudicated 2014.
+But the ramifications of you issuing the order that my friend seeks would close their tax issue, and therefore, there would be no appeal of the transfer pricing adjustments in any of the subsidiary issues which are present in 2014 that have nothing to do with this -- well, not nothing, are separate from the transfer pricing issues. They relate to another subsidiary and some sort of cash management, so it's slightly different, but 2014 would be adjudicated, as far as the transfer pricing.
+[82] Given the lack of prejudice to the appellant as the matter now stands, and the potential prejudice that may be suffered by the appellant should I make the order requested in the motion, I decline to make the order as requested by the appellant.
+D. $3 Million Refund Shortfall (paragraph 71 above)
+[83] After the March 2023 Reassessments were issued, respondent’s counsel provided Cameco with a calculation of the refund that Cameco would receive.[53]
+[84] The appellant requests that the respondent provide a clear accounting to reconcile the expected refund with the refund actually received by Cameco.[54] If the respondent cannot explain the discrepancy, the appellant wishes the Court to issue a judgement pursuant to Rule 170.1 that the Minister is to issue a reassessment that agrees with the refund amount calculated by respondent’s counsel.
+[85] Notably, subsection 152(3) of the ITA states that liability for Part I tax is not affected by an incorrect or incomplete assessment. Similarly, it would be logical that the appellant’s tax liability is calculated pursuant to the ITA, not calculations prepared by respondent’s counsel.
+[86] It cannot be said that there is no legal issue in controversy. Accordingly, it would be inappropriate to apply Rule 170.1 to issue a judgement regarding the $3 million refund shortfall.
+[87] Given the potential prejudice that could possibly arise should I exercise my discretion, and furthermore, the fact that no prejudice was set out by the appellant, I will not be issuing the order requested by the appellant pursuant to rule 170.1.
+IV. Conclusion [88] On or before June 30, 2025, the respondent will provide the following information, pursuant to the appellant’s demand for particulars:
+the arm’s length price the respondent relies upon which would have been agreed to between arm’s length parties for the purposes of paragraphs 247(2)(a) and (c) of the Act, set out in dollars per pound for each of the 12 agreements listed in Appendix 1 of the 2007-2013 Reply, dated June 6, 2023. The equivalent information for the 2014 Reply and 2015 Reply shall also be provided;
+the terms and conditions for each of the 12 agreements listed in Appendix 1 of the 2007-2013 Reply, dated June 6, 2023, that differed from those that would have been made between arm’s length parties, and the equivalent information for the 2014 Reply and 2015 Reply; and
+a calculation of the income adjustments and tax reassessed resulting from the claimed arm’s length prices identified by the Minister and respondent for all three Replies referred to in this motion.
+[89] The parties will proceed in the litigation pursuant to the following schedule:
+List of Documents:
+Each party shall prepare a list of documents (partial disclosure) using form 81.
+Each party shall service their lists of documents with the Court on or before September 10, 2025.
+Examination for Discovery
+The parties shall complete examinations for discovery on or before January 10, 2026.
+The answers to undertakings arising from the examinations for discovery shall be served on or before April 10, 2026.
+Reporting to the Court
+On or before June 10, 2026, the parties shall file one of the following with the Court:
+a joint application to fix a time and place for the hearing using Form 123;
+a letter requesting a settlement conference (refer to Practice Note 21); or
+a letter confirming that the appeal will settle and the anticipated date of settlement.
+[90] Given that the success in this motion was split costs will be in the cause.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated February 11, 2025, in order to correct the words underscored in paragraph 38 hereof.
+Signed this 26th day of February 2025.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2025 TCC 23
+COURT FILE NO.:
+2021-2686(IT)G
+2022-2715(IT)G
+2022-2717(IT)G
+STYLE OF CAUSE:
+CAMECO CORPORATION AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 29, 2024
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice Ronald MacPhee
+DATE OF ORDER:
+February 26, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+David Jacyk
+Peter MacDonald
+Camille Andrzejewski
+Counsel for the Respondent:
+Elizabeth Chasson
+Laurent Bartleman
+Darren Prevost
+Isida Ranxi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji David Jacyk Peter MacDonald Camille Andrzejewski
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Cameco Corporation v. The Queen, 2018 TCC 195; Canada v. Cameco Corporation, 2020 FCA 112.
+[2] Appellant’s Motion Submissions at para 71.
+[3] Appellant’s Motion Submissions at para 105.
+[4] Cameco Corp. v R, 2010 TCC 636 at para 2.
+[5] Ibid at para 28.
+[6] Ibid at para 29.
+[7] Ibid at para 48.
+[8] Cameco Corp. v R, 2011 TCC 356 at paras 2-4.
+[9] Ibid at paras 23-24.
+[10] Cameco Corp. v R, 2011 TCC 356 at para 20.
+[11] See paragraphs 2, 14.74, 14.75,, 14.79, 15.1-2, 18, 19, 20 and 23.
+[12] Appellant’s Motion Submissions at para 107.
+[13] Lark Investments Inc. v The King, 2024 TCC 30 at para 24.
+[14] Cameco Corp. v R, 2010 TCC 636 at para 48.
+[15] Marine Atlantic Inc. v R, 2016 TCC 46 at para 47.
+[16] Promex Group Inc. v R, 1998 CarswellNat 519 at paras 31-32.
+[17] Canada v Preston, 2023 FCA 178 at para 16.
+[18] Ibid.
+[19] Hillcore Financial Corporation v The King, 2023 TCC 71 at para 35.
+[20] Ibid.
+[21] Lark Investments v The King, 2024 TCC 30 at para 28.
+[22] Canada v Preston, 2023 FCA 178 at para 37.
+[23] See Damis Properties Inc. v The Queen, 2021 TCC 24 (appeal allowed on other grounds: Canada v. Microbjo Properties Inc., 2023 FCA 157), at footnote 115, where particulars may be ordered to assist in the discovery process.
+[24] Golden v R, 2008 TCC 173 at para 23.
+[25] Appellant’s Motion Submissions at para 132.
+[26] Appellant’s Motion Submissions at para 133.
+[27] Pastuch v The Queen, 2022 TCC 36 at para 8.
+[28] Golden v R, 2008 TCC 173 at para 24.
+[29] Ibid.
+[30] Cameco Corporation v The Queen, 2021 CarswellNat 377 and Canadian Imperial Bank of Commerce v The Queen, 2022 TCC 26 at para 24.
+[31] Canadian Imperial Bank of Commerce v The Queen, 2022 TCC 26 at para 34.
+[32] MacIver v R, 2005 TCC 250, aff’d 2006 FCA 73.
+[33] Ibid at paras 19-20.
+[34] Ibid at para 19.
+[35] Appellant’s Motion Submissions at para 109.
+[36] Appellant’s Motion Submissions at para 109.
+[37] Appellant’s Motion Submissions at para 109.
+[38] Appellant’s Motion Submissions at para 110.
+[39] Appellant’s Motion Submissions at para 121.
+[40] Respondent’s Reply at para 14.71.
+[41] Sentinel Hill Productions (1999) Corp. v R., 2007 TCC 742 at para 4.
+[42] Ibid.
+[43] Reply to the Amended Notice of Appeal at Appendix 1.
+[44] Basal v the King, 2022 TCC 154 at para 36.
+[45] Rafique v Canada (National Revenue), 2024 FCA 37 at para 5.
+[46] Spencer v R, 2001 CarswellNat 1955 at para 10.
+[47] Appellant’s Motion Submissions at para 42.
+[48] Appellant’s Motion Submissions at para 40.
+[49] Appellant’s Motion Submissions at para 161.
+[50] Appellant’s Motion Record, Volume 4, Tab F.
+[51] 2014 Reply at paras 22 and 28.
+[52] Appellant’s Motion Record, Tab L, Exhibit J.
+[53] Appellant’s Motion Submissions at para 170.
+[54] Appellant’s Motion Submissions at para 170.

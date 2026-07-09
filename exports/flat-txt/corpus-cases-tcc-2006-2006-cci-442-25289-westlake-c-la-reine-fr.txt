@@ -1,0 +1,138 @@
+Title: Westlake c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25289/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-442-25289-westlake-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-08-04
+
+# Westlake c. La Reine
+
+- Citation: 2006 CCI 442
+- Decision date: 2006-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2402, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Westlake c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-04
+Référence neutre
+2006 CCI 442
+Numéro de dossier
+2006-527(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-527(IT)I
+ENTRE :
+ALAN WESTLAKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 juillet 2006 à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Georgette Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu est accueilli, et la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant peut déduire des montants de pension alimentaire de 300 $ par mois pour la période allant de juin à décembre 2003, inclusivement.
+Signé à Ottawa (Ontario), ce 4e jour d’août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de mai 2008.
+Aleksandra Koziorowska
+Référence : 2006CCI442
+Date : 20060804
+Dossier : 2006-527(IT)I
+ENTRE :
+ALAN WESTLAKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Alan Westlake, interjette appel de la nouvelle cotisation par laquelle le ministre du Revenu national (le « ministre ») a refusé la déduction de certains montants de pension alimentaire pour enfants payés par l’appelant en 2003. La décision du ministre se fonde sur le fait que l’ordonnance de 1995[1] (l’« ordonnance initiale »), en vertu de laquelle la pension alimentaire de 300 $ par mois par enfant est initialement devenue payable, a été modifiée par une ordonnance subséquente[2] (l’« ordonnance modificatrice ») rendue en 2004. Selon le ministre, l’ordonnance modificatrice a eu pour effet de changer le montant de la pension que devait verser l’appelant par enfant; cela signifie que la date à laquelle le nouveau montant est devenu payable, soit le 1er juin 2003, était la « date d’exécution » au sens du sous‑alinéa 56.1(4)b)(ii) de la Loi de l’impôt sur le revenu (la « Loi »). Étant donné que cette date est postérieure à avril 1997, le montant de pension alimentaire pour enfants n’était pas déductible en vertu de l’alinéa 60b) de la Loi.
+[2] Les parties applicables du paragraphe 56.1(4) de la Loi sont les suivantes :
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur, soit le père ou la mère d’un enfant dont le père naturel ou la mère naturelle.
+« date d’exécution » Quant à un accord ou une ordonnance :
+[...]
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+[…]
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+[...]
+[3] À l’exception de l’alinéa f) et peut‑être h)[3], les parties s’entendent sur les hypothèses du ministre qui sont énoncées au paragraphe 5 de la réponse à l’avis d’appel :
+[TRADUCTION]
+Lorsqu’il a établi la nouvelle cotisation à l’égard de l’appelant et qu’il l’a ratifiée, le ministre s’est appuyé sur les hypothèses factuelles :
+a) […]
+b) l’appelant et son ex‑épouse ont deux enfants, Nicholas Alan, né le 25 mai 1984, et Matthew Thomas, né le 1er mars 1989;
+c) un jugement sur les mesures accessoires prononcé le 2 mars 1995 a obligé l’appelant à payer une pension alimentaire de 300 $ par mois pour chacun des deux enfants issus du mariage;
+d) une ordonnance modificatrice a été rendue le 27 février 2004;
+e) le premier paiement de pension alimentaire pour enfants en vertu de l’ordonnance modificatrice devait être fait le 1er juin 2003;
+f) l’ordonnance modificatrice obligeait l’appelant à payer une pension alimentaire pour enfants de 504 $ par mois à partir du 1er juin 2003 jusqu’au 1er décembre 2003, puis de 400 $ par mois à compter du 1er janvier 2004;
+g) les paiements de pension alimentaire pour enfants prévus dans l’ordonnance modificatrice étaient destinés à Matthew Thomas, car Nicholas Alan n’était plus considéré comme un enfant à charge;
+h) avant le 1er juin 2003, l’appelant a payé une pension alimentaire pour enfants de 600 $ par mois de janvier à avril inclusivement (2 400 $), puis de 300 $ en mai;
+i) avant le 1er juin 2003, l’appelant n’a pas payé plus de 2 700 $ au titre de la pension alimentaire pour enfants.
+[4] L’appelant s’est représenté lui‑même à l’audition de son appel régi par la procédure informelle. Les décisions rendues en vertu de cette procédure n’ont aucune valeur de précédent. L’appelant était un témoin crédible qui a présenté ses arguments clairement et avec concision. J’accepte la teneur de son témoignage lorsqu’il dit que le juge ayant prononcé l’ordonnance modificatrice avait l’intention de préserver, conformément à l’accord intervenu entre l’appelant et son ex‑épouse antérieurement et qui était toujours en vigueur, le traitement fiscal antérieur à 1997[4] concernant la pension alimentaire pour enfants. Ni l’appelant ni son ex‑épouse n’étaient représentés par avocat dans l’instance soumise au tribunal de la famille en 2004. Ils ont seulement rencontré un conseiller du tribunal de la famille afin d’essayer de résoudre certains points en litige; lorsque cette démarche s’est révélée infructueuse, le dossier a été présenté au juge, qui a rendu l’ordonnance modificatrice.
+[5] Les clauses pertinentes de l’ordonnance modificatrice sont les suivantes :
+[TRADUCTION]
+2. Du 1er juin 2003 jusqu’au 1er décembre 2003 inclusivement, [l’appelant] doit payer 504 $ par mois à titre de pension alimentaire pour l’enfant, [MTW], né le 1er mars 1989. Ces paiements de pension alimentaire sont imposables entre les mains de [l’ex‑épouse de l’appelant].
+3. Les montants impayés par [l’appelant] au 31 décembre 2003 sont établis à 1 228 $.
+4. À partir du 1er janvier 2004, et le premier de chaque mois par la suite, [l’appelant] doit verser une pension alimentaire pour enfants de 400 $ par mois.
+[6] Le problème en l’espèce, c’est que l’appelant s’est retrouvé dans une mauvaise position même s’il a bien agi et malgré les bonnes intentions de tous les intéressés, y compris les représentants de l’Agence du revenu du Canada. À la lumière de l’ordonnance modificatrice, et en l’absence de faits supplémentaires, ces derniers ont conclu que le sous‑alinéa 56.1b)(ii) de la Loi était applicable à la situation de l’appelant. Celui‑ci avait, tout au long de l’année 2003, payé consciencieusement sa pension alimentaire pour enfants régulièrement et à temps. De fait, au cours des deux derniers mois de 2003, même avant que ne soit prononcé le récent arrêt de la Cour suprême du Canada au sujet de la pension alimentaire rétroactive[5], il a volontairement versé 100 $ de plus par mois après avoir reçu une augmentation de salaire. Pour ce qui est de la pension de mai 2003[6] relative à son fils aîné, il a dû la verser deux fois, lorsque son ex‑épouse lui a reproché le fait qu’il ait donné l’argent la première fois directement à leur fils. Par conséquent, il a versé à son ex‑épouse 300 $ de plus pour ce même mois. Aucune preuve n’a été présentée à la Cour indiquant que l’ex‑épouse souhaitait modifier le traitement fiscal des paiements de pension alimentaire pour enfants. Finalement, comme on peut le lire à la dernière phrase du paragraphe 2 de l’ordonnance modificatrice, le tribunal s’était efforcé expressément de préserver le statut des montants de pension alimentaire pour enfants à titre de revenu pour l’ex‑épouse, et de faire en sorte, implicitement, que ces montants soient déductibles du revenu de l’appelant.
+[7] L’avocate de l’intimée a raison, toutefois, quand elle affirme dans ses observations que la Cour suprême de la Nouvelle‑Écosse n’a pas compétence pour rendre déductibles des montants de pension alimentaire pour enfants qui ne le sont pas en vertu de la Loi. Je souscris également à son argument suivant lequel le sous‑alinéa 56.1(4)b)(ii) est la disposition applicable pour déterminer la « date d’exécution » en l’espèce. Je ne suis pas convaincue, cependant, que le montant de 504 $ prévu au paragraphe 2 de l’ordonnance modificatrice soit un montant de « pension alimentaire pour enfants » tel que le présume le ministre dans son hypothèse contestée énoncée à l’alinéa 5f) de la réponse à l’avis d’appel :
+[TRADUCTION]
+f) l’ordonnance modificatrice obligeait l’appelant à payer une pension alimentaire pour enfants de 504 $ par mois à partir du 1er juin 2003 jusqu’au 1er décembre 2003, puis de 400 $ par mois à compter du 1er janvier 2004;
+[8] Selon la définition figurant au paragraphe 56.1(4), la « pension alimentaire pour enfants » désigne, par défaut, une pension alimentaire qui « d’après […] l’ordonnance aux termes [de laquelle] elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est […] l’ex‑époux […] du payeur » [non souligné dans l’original]. Ainsi donc, le montant de pension alimentaire pour enfants est ce qui reste une fois que le montant de pension alimentaire versé au profit de l’ex‑époux est soustrait du montant total payable en vertu de l’ordonnance. La « pension alimentaire » est définie en ces termes au paragraphe 56.1(4) :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[9] À mon avis, la conclusion qui se dégage lorsque les paragraphes 2, 3 et 4 de l’ordonnance modificatrice sont lus ensemble, est que le montant de 504 $ doit être ventilé entre ses parties constitutives : 300 $ par mois pour subvenir aux besoins de l’enfant qui est encore admissible à une pension alimentaire, et 204 $ par mois à titre d’allocation périodique pour subvenir aux besoins de l’ex‑épouse en 2003. Même si le total de 504 $ est payable en vertu du paragraphe 2, ce paragraphe doit être lu à la lumière du paragraphe 3, qui décrit la totalité des paiements de 204 $ comme des « montants impayés » de 1 228 $. L’appelant, toutefois, n’avait pris aucun retard pour ce qui est de ses obligations au titre de la pension alimentaire pour enfants. J’accepte le témoignage de l’appelant lorsqu’il explique que les paiements mensuels de 204 $ versés à son ex‑épouse ont été ordonnés par le juge du tribunal de la famille en raison de ce qui était selon lui les conséquences fiscales assumées par l’ex‑épouse. Même si ces paiements ont été ordonnés pour ce motif, rien dans l’ordonnance modificatrice n’obligeait l’ex‑épouse à s’en servir à cette fin; c’était laissé à sa discrétion. Par conséquent, lorsque les paragraphes 2 et 3 sont lus ensemble et qu’il est tenu compte du contexte dans lequel s’inscrit l’ordonnance modificatrice, le montant de 204 $ par mois satisfait aux critères qui en font une « pension alimentaire » : une allocation périodique pour subvenir aux besoins de l’ex‑épouse de l’appelant et qu’elle peut utiliser à sa discrétion. Cette interprétation est confirmée également au paragraphe 4; c’est la seule clause de l’ordonnance modificatrice qui vise à changer le montant de la pension alimentaire pour enfants de 300 $ en vigueur; en vertu du paragraphe 4, la Cour suprême de la Nouvelle‑Écosse a fait passer le montant à payer par l’appelant de 300 $ à 400 $ par mois, à compter du 1er janvier 2004. L’année d’imposition 2004 n’est pas visée par le présent appel. On peut en conclure qu’en 2003, la pension alimentaire qui était payable à l’égard de l’enfant est restée inchangée à 300 $ par mois.
+[10] Comme j’ai conclu que le montant de 204 $ par mois était une « pension alimentaire », le reste de la mensualité était donc une pension alimentaire pour enfants de 300 $ par mois payable à l’égard de l’enfant qui y était encore admissible. Par conséquent, l’ordonnance modificatrice n’a pas changé, comme l’envisage le sous‑alinéa 56.1(1)b)(ii) de la Loi, le montant de pension alimentaire pour enfants payable en 2003, et aucune « date d’exécution » n’est entrée en vigueur. Il s’ensuit que les paiements faits de juin à décembre 2003 ont été dûment déduits par l’appelant dans le calcul de son revenu pour cette année d’imposition.
+[11] Par conséquent, l’appel de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu est accueilli, et la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant peut déduire des montants de pension alimentaire de 300 $ par mois pour la période allant de juin à décembre 2003, inclusivement.
+Signé à Ottawa (Ontario), ce 4e jour d’août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2006CCI442
+NO DU DOSSIER DE LA COUR : 2006‑527 (IT)I
+INTITULÉ : Alan Westlake et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 6 juillet 2006
+MOTIFS DU JUGEMENT : L’honorable juge Georgette Sheridan
+DATE DU JUGEMENT : Le 4 août 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Catherine McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1.
+[2] Pièce A-1.
+[3] L’appelant payait un total de 600 $ par mois, c’est-à-dire 300 $ par mois par enfant pour chacun des deux enfants ayant droit à une pension alimentaire.
+[4] Suivant lequel les montants de pension alimentaire pour enfants qui font l’objet d’une ordonnance antérieure à mai 1997 sont imposables entre les mains de l’ex-épouse de l’appelant et déductibles du revenu de l’appelant.
+[5] D.B.S. c. S.R.G.; L.J.W. c. T.A.R., 2006 CSC 37 (C.S.C).
+[6] Ce paiement n’est pas en litige dans le cadre du présent appel.

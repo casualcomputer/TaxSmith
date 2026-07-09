@@ -1,0 +1,160 @@
+---
+title: "Kratochwil c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30698/index.do"
+last_modified: "2012-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 45"
+citation2: ""
+neutral_citation: "2012 CCI 45"
+decision_date: "2012-02-07"
+language: "fr"
+item_id: "30698"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7228
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:48:47.374000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55e8a9eda80c3b897b5d914a84833529fcb2e37ba1a5a0b579e681b4a1eee12a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kratochwil c. La Reine
+
+- Citation: 2012 CCI 45
+- Decision date: 2012-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7228, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kratochwil c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-07
+Référence neutre
+2012 CCI 45
+Numéro de dossier
+2010-3217(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3217(IT)G
+ENTRE :
+KARL KRATOCHWIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 13 janvier 2012, à Toronto (Ontario).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Sharon Lee
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie sous le régime de la Loi de l'impôt sur le revenu relativement à l'année d'imposition 2007 de l'appelant est rejeté sans dépens.
+Signé à Montréal (Québec), ce 7e jour de février 2012.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 26e jour de mars 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 45
+Date : 20120207
+Dossier : 2010-3217(IT)G
+ENTRE :
+KARL KRATOCHWIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Le 14 janvier 1987, l'appelant, Karl Kratochwil, a acheté une police d'assurance‑vie (la « police ») auprès de La Northern du Canada, Compagnie d'Assurance‑Vie. Au mois d'août 1993, la Compagnie d'assurance Standard Life du Canada (« Standard Life ») a assumé, en vertu d'une cession, l'ensemble des obligations prévues par la police.
+[2] Conformément aux conditions de la police, l'appelant a payé une prime de base de 421,75 $ par mois, soit 5 061 $ par année, pour une somme totale de 75 915 $ pendant la période de validité de 15 ans de la police. Il devait également verser une surprime de 262,90 $ par mois, soit 3 154,80 $ par année, pour une somme totale de 47 322 $, parce qu'il souffrait de troubles cardiaques, ce qui augmentait le risque de décès. Les primes payées au cours des premières années de la police ont excédé le coût de l'assurance pour ces années, ce qui a donné lieu à une réserve de capital, laquelle a généré un revenu de placement pour le titulaire de la police. À la suite de la cession de la police à Standard Life, on a exigé de l'appelant une prime mensuelle supplémentaire de 172,15 $ pendant une période de 24 mois. L'appelant a versé en primes une somme totale de 127 368 $ au cours de la période de validité de la police.
+[3] L'appelant avait droit à deux prestations suivant la police. Premièrement, il était assuré pour 300 000 $ pendant la période de validité de la police. Deuxièmement, la police était assortie d'une valeur de rachat. Les primes totales versées au titre de la police excédaient le coût de l'assurance pour l'appelant, ce qui a permis l'établissement d'une réserve de capital générant un revenu de placement.
+[4] En 2007, l'appelant a racheté la police et il a reçu la valeur de rachat de 150 365,75 $ exigible suivant la police. Il a déclaré un revenu d'environ 23 000 $ au titre de cette opération. Pour arriver à ce gain, il a déduit de la valeur de rachat qui lui a été versée ce qu'il estimait être la totalité des primes payées conformément à la police. Il croyait que ces primes lui avaient été remboursées parce qu'on ne lui avait versé aucune prestation de décès.
+[5] Comme les primes avaient été acquittées avec des dollars après impôt, il croyait pouvoir récupérer la même somme sans payer d'impôt. Il n'a pas tenu compte du fait qu'une grande partie des primes versées conformément à la police avait servi à payer le coût de l'assurance, de la même manière que les primes payées servent à couvrir le coût de l'assurance dans le cas d'une police d'assurance‑vie temporaire.
+[6] Après avoir produit sa déclaration de revenus relative à l'année d'imposition 2007, l'appelant a reçu de Standard Life un feuillet T5 selon lequel il avait gagné 112 094 $ par suite du rachat de la police. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l'égard de l'appelant afin d'inclure la somme de 89 094 $ dans son revenu pour l'année d'imposition 2007. Selon le ministre, cette somme correspond au gain supplémentaire au titre de la police que l'appelant a omis de déclarer. Le ministre a formulé les hypothèses suivantes afin de déterminer la dette fiscale de l'appelant pour l'année d'imposition 2007 :
+[TRADUCTION]
+a) avant le 2 août 2007, l'appelant détenait des intérêts dans la police;
+b) la police a été établie par Standard Life vers le 14 janvier 1987;
+c) l'appelant a résilié la police vers le 2 août 2007;
+d) lorsqu'il a résilié la police, l'appelant a reçu 150 365,75 $, soit la valeur de rachat de la police;
+e) avant de résilier la police, l'appelant avait versé des primes totalisant 127 368,60 $;
+f) sur les primes totales payées par l'appelant, 47 322 $ a été versé au titre des surprimes exigées par suite de l'évaluation du risque de sinistre que présentait l'appelant;
+g) avant la résiliation de la police, le coût net de l'assurance pure[1] de la police s'élevait à 41 771,26 $;
+h) le coût de base rajusté total de la police s'élevait à 38 275,34 $, selon le calcul suivant :
+primes totales versées
+127 368,60 $
+moins – surprimes
+47 322,00 $
+moins – coût net de l'assurance pure
+41 771,26 $
+coût de base rajusté total
+38 275,34 $
+i) le revenu que l'appelant a reçu au moment de la résiliation de la police était d'au moins 112 090,41 $ (le « revenu de placement »), selon le calcul suivant :
+valeur de rachat le 2 août 2007
+150 365,75 $
+moins – coût de base rajusté total
+38 275,34 $
+revenu de placement
+112 090,41 $
+j) Standard Life a déclaré le revenu de placement sur le feuillet T5 et a remis un double de ce feuillet à l'appelant;
+k) dans sa déclaration de revenus relative à l'année d'imposition 2007, l'appelant a omis de déclarer le montant total du revenu de placement reçu de Standard Life au cours de cette année‑là.
+[7] J'ai examiné les calculs effectués par le ministre aux alinéas h) et i) ci‑dessus et j'estime qu'ils sont exacts.
+[8] La Loi de l'impôt sur le revenu prévoit des règles complexes selon lesquelles les primes payées conformément à une police d'assurance sont d'abord affectées au coût de l'assurance pour le contribuable. Le solde, qui est défini comme le « coût de base rajusté » de la police pour le contribuable, est utilisé pour déterminer le gain tiré de la disposition de la police. Ce gain correspond à l'excédent du produit de disposition réalisé par le contribuable sur le coût de base rajusté de la police. Suivant ces règles, le coût total de l'assurance pour l'appelant s'élève à 89 093 $, soit le total du coût net annuel de l'assurance et de la somme des surprimes.
+[9] D'une façon très générale, l'appelant est réputé avoir payé 89 093 $ au cours des 15 ans pendant lesquels la police était en vigueur pour bénéficier d'une indemnité de décès de 300 000 $ pendant cette période. Ces primes ont été payées afin de couvrir le coût de l'assurance de la même manière que si l'appelant avait acheté une police d'assurance‑vie temporaire assortie d'une indemnité de décès de 300 000 $. L'appelant a payé des primes totales de 127 368 $ et il a assumé un coût d'assurance de 89 093 $. Cela signifie qu'il ne restait que 38 275,34 $ en primes à rembourser à l'appelant au titre d'une partie de la valeur de rachat de la police. La différence entre 150 365,75 $ et 38 275,34 $ s'élève à 112 090,41 $, ce qui correspond exactement au gain ou au revenu découlant de la police qu'a déclaré Standard Life dans le feuillet T5 remis à l'appelant.
+[10] Pour ces raisons, l'appel de l'appelant est rejeté sans dépens.
+Signé à Montréal (Québec), ce 7e jour de février 2012.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 26e jour de mars 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 45
+NO DU DOSSIER DE LA COUR : 2010-3217(IT)G
+INTITULÉ : KARL KRATOCHWIL c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 13 janvier 2012
+MOTIFS DU JUGEMENT : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 7 février 2012
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Sharon Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L'article 308 du Règlement de l'impôt sur le revenu fixe les règles applicables pour calculer le « coût net de l'assurance pure ». Celui‑ci correspond aux frais que le titulaire de la police a versés pour être assuré pendant la période où il a détenu la police, et il est défalqué de la somme qui est remise, libre d'impôt, au titulaire lorsque la police est résiliée.

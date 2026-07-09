@@ -1,0 +1,256 @@
+---
+title: "Ministic Air Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28696/index.do"
+last_modified: "2008-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 296"
+citation2: ""
+neutral_citation: "2008 CCI 296"
+decision_date: "2008-05-13"
+language: "fr"
+item_id: "28696"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1486
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:47:06.433000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bde36ee84a48a7703e83b13911b7548e402b0f99acc5eb2cc658abc621c969f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ministic Air Ltd. c. La Reine
+
+- Citation: 2008 CCI 296
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1486, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ministic Air Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-13
+Référence neutre
+2008 CCI 296
+Numéro de dossier
+2004-1998(GST)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1998(GST)G
+ENTRE :
+MINISTIC AIR LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 janvier 2007, à Winnipeg (Manitoba).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Représentant de l’appelante :
+M. Grant Nerbas
+Avocat de l’intimée :
+Me Julien Bédard
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 8 octobre 2001, pour la période allant du 1er au 31 mars 2001, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 13e jour de mai 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de juillet 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008CCI296
+Date : 20080513
+Dossier : 2004-1998(GST)G
+ENTRE :
+MINISTIC AIR LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Il s’agit d’un appel portant sur une cotisation relative à la taxe sur les produits et services (la « TPS ») établie le 8 octobre 2001, pour la période allant du 1er au 31 mars 2001 (la « période »). L’appelante, Ministic Air Ltd. (« Ministic »), est une personne morale qui, au cours de la période pertinente, s’occupait de fournir un service de transport aérien. Elle a produit une déclaration relative à la TPS en vertu de la Loi sur la taxe d’accise[1], partie IX, (la « Loi ») pour la période en question, mentionnant une TPS percevable de 1 227,58 $ et demandant des crédits de taxe sur les intrants de trois dollars, un redressement de 170 296,51 $ pour les comptes irrécouvrables et un remboursement net de 169 071,93 $. À la suite d’une vérification, cette demande de remboursement a été refusée au moyen de la cotisation du 8 octobre 2001. Ministic a produit un avis d’opposition le 26 juillet 2002. La cotisation a été ratifiée par un avis de décision daté du 4 février 2004.
+[2] La Loi, au paragraphe 231(1), prévoit un crédit pour créances irrécouvrables. En 2001, cette disposition était rédigée comme suit :
+231(1) La personne qui effectue une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d’un acquéreur avec lequel elle n’a aucun lien de dépendance peut, dans la mesure où il est établi que tout ou partie de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable, déduire, dans le calcul de la taxe nette pour sa période de déclaration où elle radie la créance de ses livres comptables ou pour une période de déclaration postérieure, le résultat du calcul suivant :
+A × B/C
+où :
+A représente la taxe payable relativement à la fourniture;
+B le total de la contrepartie, de la taxe et d’un montant qu’il est raisonnable d’attribuer à une taxe imposée en vertu d’une loi provinciale qui constitue une taxe visée par règlement pour l’application de l’article 154 (appelée « taxe provinciale applicable » au présent article), qui demeure impayé relativement à la fourniture et qui a été radié à titre de créance irrécouvrable;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable payables relativement à la fourniture.
+231(2) [abrogé, 2000, ch. 30, art. 58].
+231(3) La personne qui recouvre tout ou partie d’une créance irrécouvrable pour laquelle elle a déduit un montant en application du paragraphe (1) est tenue d’ajouter, dans le calcul de la taxe nette pour sa période de déclaration au cours de laquelle la somme est recouvrée, le résultat du calcul suivant :
+A x B/C
+où :
+A représente la somme recouvrée par la personne;
+B la taxe payable relativement à la fourniture à laquelle la créance se rapporte;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable payables relativement à la fourniture.
+231(4) La personne qui demande la déduction prévue au paragraphe (1) relativement à un montant qu’elle a radié de ses livres comptables au cours de sa période de déclaration doit produire une déclaration aux termes de la présente section dans les quatre ans suivant la date limite où la déclaration visant la période de déclaration en question est à produire aux termes de cette section.
+[3] L’avis de décision énonçait deux raisons à l’appui du rejet de la demande de remboursement de Ministic :
+[traduction]
+Selon les renseignements fournis, Ministic Air Ltd. avait obtenu un prêt bancaire. M. George Brotherston a garanti l’emprunt. La banque a recouvré le montant intégral du prêt de M. Brotherston, qui a ensuite pris la place de la banque. Peu de temps après, Ministic Air Ltd. a transféré ses comptes clients à M. Brotherston pour s’acquitter de l’obligation qu’elle avait envers lui.
+La radiation d’une créance irrécouvrable n’inclut pas le cas dans lequel une personne morale transfère volontairement son compte client à une autre personne en vue d’acquitter une dette envers cette personne. Cela montre que les créances étaient encore recouvrables au mois de mars 2001.
+L’article 231 de la LTA ne peut pas non plus être invoqué par une personne morale lorsque cette dernière a radié un compte client qui concerne une personne morale étroitement liée.
+Il n’a pas été satisfait aux critères nécessaires pour qu’un redressement soit apporté à la TPS en application de l’article 231 de la LTA; par conséquent, la cotisation est ratifiée.
+Un argument supplémentaire que l’avocat de l’intimée a avancé à l’instruction est que l’appelante n’avait pas radié les dettes en question avant ou pendant la période pour laquelle la demande de remboursement était faite, comme l’exige le paragraphe 231(1) de la Loi.
+[4] Ministic a été constituée en personne morale au mois d’octobre 1981. Elle exploitait un service passagers, un service marchandises et un service MEDEVAC entre Winnipeg et la réserve de Garden Hill en bordure du lac Island, dans le Nord‑est du Manitoba. M. George Brotherston était président et actionnaire de Ministic jusqu’au mois de février 1995. Après qu’il eut cessé d’agir comme président de Ministic, ses actions ont été acquises par la Première nation de Garden Hill (« Garden Hill »), et à compter de ce moment‑là, Garden Hill détenait environ 98 p. 100 des actions, alors que la Première nation de Wassagamach (« Wassagamach ») détenait le reste des actions.
+[5] Le 31 août 1998, Ministic, en tentant de développer son entreprise, a conclu une entente avec STP Wass Air, qui desservait les réserves de la Première nation de St. Theresa Point et de la Première Nation de Wassagamach, situées près de la réserve de Garden Hill en bordure du lac Island. L’entente écrite est difficile à comprendre, mais elle visait apparemment à ce que Ministic desserve ces deux premières nations conjointement avec le service fourni à Garden Hill, STP Wass Air devant vendre les billets aux passagers qui voyageaient entre Winnipeg et St. Theresa Point et le service devant être fourni par Ministic. Les recettes provenant de ce service étaient déposées dans un compte distinct, et les frais associés au service étaient payés à l’aide de ce compte. Tout bénéfice de plus de 20 p. 100 devait être versé à STP Wass Air. Le service ne s’est jamais avéré rentable et il y a été mis fin au mois de décembre 2000.
+[6] Vers la même époque, Ministic a créé un comité de planification dont la tâche consistait à réorganiser l’entreprise de façon à réduire ses coûts. M. Brotherston participait à cette tâche et, grâce à ses efforts, certaines réductions ont apparemment pu être effectuées. Toutefois, malgré tout, l’appelante était fortement endettée envers le gouvernement du Canada à l’égard de la TPS et des retenues à la source prévues par la Loi de l’impôt sur le revenu. Au mois de mars 2001, cette dette s’élevait aux montants suivants :
+TPS
+72 736,75 $
+Retenues à la source au titre de l’impôt sur le revenu
+277 114,63 $
+TOTAL
+349 851,38 $
+Lors d’une réunion qui a eu lieu le 26 février 2001, Ministic et les représentants de l’Agence du revenu du Canada (l’« Agence ») ont convenu, entre autre choses, qu’en échange de certains compromis, Ministic paierait chaque mois 70 000 $ à valoir sur cette dette, tout en versant toutes les nouvelles retenues à la source et les montants dus au titre de la TPS au fur et à mesure de leur échéance. Cet arrangement a été consigné dans une lettre que Kara Guse, agente de recouvrement à l’Agence du revenu du Canada, a envoyée à Melody Fraser, qui s’est présentée dans son témoignage comme ayant été la directrice financière de Ministic.
+[7] Malgré les bonnes intentions, cet arrangement ne s’est jamais concrétisé. Vers la fin du mois de mars 2001, par suite de renseignements reçus de M. Wuttke qui, jusqu’au moment de sa démission à la mi‑mars, avait été président de Ministic, les représentants de l’Agence ont conclu que Ministic avait mis fin à ses activités. Ces renseignements ont amené l’Agence à prendre des mesures immédiates en vue de réaliser les actifs de Ministic. L’Agence l’a fait en obtenant un bref d’exécution de la Cour fédérale et en le plaçant entre les mains du shérif. Cela a entraîné la saisie des actifs de Ministic, et notamment des classeurs et des documents financiers de la société qui y étaient rangés. Le résultat inévitable de la saisie des actifs a été la cessation des activités de Ministic, qui n’a pas repris ses activités, mais qui a été dissoute en 2003. En 2004, Ministic a été rétablie aux fins de la poursuite du présent appel.
+[8] Pendant toute la durée de l’audition du présent appel, M. Nerbas a soutenu vigoureusement que les problèmes de l’appelante peuvent être entièrement attribués à l’Agence, parce que les mesures que cette dernière a prises en exerçant les recours dont elle disposait à l’encontre des actifs étaient injustifiées et ont donc porté un coup fatal à l’entreprise de la société. La preuve et les arguments de l’appelante étaient en général fondés sur cette thèse. Toutefois, la preuve mise à ma disposition ne révèle aucun acte illégitime de la part de l’Agence. L’entente du mois de février dont il a été fait mention n’exigeait certes pas que l’Agence renonce aux recours dont elle disposait, étant donné qu’il semblait que Ministic mettait fin à ses activités. De fait, cette entente n’avait absolument aucun effet sur le plan juridique. Elle consignait simplement le compromis auquel l’Agence était prête à consentir en vue d’aider Ministic à régler ses difficultés. Ministic n’a versé aucune contrepartie en échange de l’abstention prévue par l’arrangement. Il semble ressortir de la preuve que Ministic avait en fait cessé, ou du moins qu’elle avait temporairement suspendu, ses activités après la mi‑mars. M. Brotherston et Mme Fraser affirment que les activités étaient simplement suspendues temporairement pendant que Ministic cherchait à se réorganiser. Toutefois, il est fort compréhensible que les principaux créanciers aient pris des mesures afin de protéger leurs intérêts lorsqu’il a semblé que la compagnie aérienne n’était plus exploitée.
+[9] Mais ce qui est peut‑être encore plus pertinent, c’est que la Cour a compétence uniquement pour examiner la question de savoir si la cotisation relative à la TPS établie en réponse à la déclaration du 31 mars 2001 était fondée en fait et en droit. La Cour d’appel fédérale a récemment confirmé la chose dans l’arrêt Moss v. Canada[2], où elle a fait les remarques suivantes :
+[3] Il semble que l’allégement que demandait Mme Moss à la Cour de l’impôt reposait sur l’hypothèse que la Cour de l’impôt pouvait accorder à Mme Moss un allégement pour des motifs fondés en equity. À ce sujet, un certain nombre de plaintes ont été déposées pour le compte de Mme Moss selon lesquelles le fisc aurait eu recours à des mesures de recouvrement de l’impôt qui était contraires à l’éthique, abusives, malveillantes et punitives, entre autres une ordonnance de saisie‑arrêt qui aurait donné lieu à l’encaissement d’une ou de plusieurs polices d’assurances, que Mme Moss a décrites comme exemptes d’impôt, d’une façon qui l’empêcherait de réinvestir ces fonds dans d’autres polices exemptes d’impôt. On a aussi soutenu au nom de Mme Moss que le fisc avait obtenu une ordonnance conservatoire en vertu de l’article 225.2 de la Loi de l’impôt sur le revenu en présentant un affidavit trompeur.
+[4] La juge a conclu qu’elle n’avait pas en droit le pouvoir d’annuler ou d’infirmer les nouvelles cotisations de Mme Moss en raison d’allégations d’un comportement injuste ou abusif de la part du fisc lors du recouvrement de l’impôt qu’elle devait, même si ces allégations avaient été prouvées. À notre avis, la juge avait raison.
+[5] Si des mesures de recouvrement illicites ou inappropriées sont utilisées et qu’il est prouvé qu’elles ont eu lieu, il est possible d’obtenir réparation en intentant une procédure auprès de la Cour fédérale, mais en droit, la Cour canadienne de l’impôt n’a pas la compétence d’infirmer ou d’annuler une nouvelle cotisation au motif que de telles mesures ont été prises. Dans le cadre d’un appel d’un jugement de la Cour de l’impôt, la compétence de la Cour est tout aussi limitée.
+[10] J’examinerai maintenant la déclaration relative à la TPS du mois de mars 2001, la demande de remboursement de la TPS au montant de 170 296,51 $ et la cotisation qui en a résulté et qui a donné lieu au présent appel. Comme je l’ai dit au début, le remboursement demandé par l’appelante s’élève à 170 296,51 $. Il est à remarquer qu’il n’existe aucune déclaration claire, dans l’avis d’appel ou dans les documents qui ont été produits en preuve à l’instruction, au sujet de la façon dont l’appelante est arrivée à ce montant. Ce n’est que grâce aux notes manuscrites figurant dans les documents versés aux onglets 27, 28 et 29 de la pièce R‑1, et au témoignage de Mme Melody Fraser, que j’ai réussi à reproduire ce calcul. L’appelante semble être arrivée à ce résultat selon le calcul suivant :
+Total des comptes clients de l’appelante dus depuis plus de 90 jours
+1 723 038,13 $
+Moins comptes à l’égard desquels aucune TPS n’a été payée
+163 660,24 $
+1 559 337,89 $
+Ajouter : total des comptes clients de STP Wass Air
+863 246,93 $
+total des comptes clients de Pim Air
+10 182,57 $
+2 432 807,39 $
+x 7 %
+TOTAL
+170 296,51 $
+[11] L’avocat de l’intimée a avancé un certain nombre de raisons pour lesquelles cette demande de remboursement de l’appelante ne satisfait pas aux exigences du paragraphe 231(1) de la Loi et ne peut donc pas être accueillie :
+(i) il n’a pas été établi que les créances en question étaient des créances irrécouvrables;
+(ii) les créances en question n’ont pas été radiées des livres de l’appelante;
+(iii) les créances n’ont pas été radiées avant ni pendant la période pertinente;
+(iv) il n’a pas été établi que la TPS avait été versée à l’égard de toutes les créances;
+(v) les créances de STP Wass Air et de Pim Air ne sont pas celles de l’appelante;
+(vi) l’appelante avait vendu ses comptes clients à M. George Brotherston;
+(vii) le compte le plus élevé était celui d’une personne ayant un lien de dépendance avec l’appelante.
+[12] La question de savoir s’il a été établi qu’une créance est irrécouvrable est une question de fait. Il ne suffit pas que la créance soit depuis longtemps non réglée. Le contribuable doit avoir pris des mesures raisonnables en vue de recouvrer la créance, sans succès, et avoir conclu que la dette ne serait probablement pas payée. En l’espèce, il existe peu d’éléments de preuve au sujet des mesures réelles que l’appelante a prises en vue de recouvrer une créance précise. L’appelante a présenté une preuve d’une nature générale au sujet du fait que ses débiteurs ne voulaient pas payer leurs comptes, en particulier ceux à qui Garden Hill devait de l’argent. Comme on peut le comprendre, ils n’étaient pas prêts à payer leurs comptes à une personne morale dont les actions étaient presque toutes détenues par Garden Hill. À mon avis, les généralités dont étaient composés le témoignage de Mme Fraser et celui de M. Brotherston sur ce point n’étaient pas suffisantes. Les créances doivent être considérées comme irrécouvrables ou il doit être conclu qu’elles sont irrécouvrables sur une base individuelle; or, la preuve ne démontrait tout simplement pas qu’il en était ainsi. Mme Fraser a plutôt simplement décidé à un moment donné, après que la société eut mis fin à ses activités que toutes ses créances devaient être radiées.
+[13] Le paragraphe 231(1) exige expressément que la créance ait été radiée des livres comptables du contribuable pour qu’elle puisse servir de fondement à une demande de remboursement de la TPS. De fait, aucune écriture du journal n’a été faite. L’appelante soutient que cette exigence ne peut pas s’appliquer dans son cas, étant donné que les livres n’étaient pas disponibles, puisque le shérif les avait saisis le 30 mars 2001. L’appelante a fait sa demande dans sa déclaration relative à la TPS se rapportant à la période qui a pris fin le 31 mars 2001. Il n’a pas été soutenu que l’appelante avait conclu que ces créances étaient irrécouvrables le 30 ou le 31 mars, soit les deux seuls jours au cours de la période où les livres n’étaient pas disponibles.
+[14] Dans la décision Burkman v. The Queen[3], le juge Beaubier a conclu qu’en l’absence de registre, une note, par opposition à une écriture de journal, pouvait satisfaire à l’exigence voulant que la créance soit radiée des livres comptables. Cette conclusion est selon moi exacte. La Cour a décidé il y a bien longtemps que les écritures de journal ne constituent pas en tant que telles des événements financiers dans la vie d’une entreprise; elles enregistrent simplement ces événements[4]. Néanmoins, il doit exister une déclaration écrite précise faisant état de la décision du contribuable. Il ne suffit pas de dire : « Les livres n’étaient pas disponibles, de sorte qu’il n’existe aucun document faisant état de la radiation. » En l’espèce, ce qui se rapproche le plus d’un document faisant état de la décision de radier les créances est une note de service manuscrite de Mme Fraser, en date du 14 mai 2001, adressée : [traduction] « À qui de droit. » Cette note est rédigée comme suit :
+[traduction]
+Ministic Air a versé la TPS sur tous les anciens comptes de STP Wass. Le montant s’élève à 800 000 $. Ce montant aurait été radié cette année et la TPS serait devenue percevable par Ministic Air.
+STP Wass exploitait une société distincte, mais c’était Ministic Air qui contrôlait toutes les transactions.
+Un compte client au montant de 1 900 000 $ de Ministic Air doit également être radié à titre de créance irrécouvrable et la TPS est percevable par Ministic Air.
+« Melody Fraser »
+ancienne directrice financière
+Remboursement de la TPS – 2 700 000 x 7% = 189 000 $
+Services médicaux – 153 000 $ – Revenu Canada a saisi ce montant.
+TOTAL 242 000 $
+340 000 $
+« G.Brotherston »
+Avec une feuille d’envoi par télécopie et un autre document manuscrit, cela formait le contenu de l’onglet 4 de la pièce A‑1 de l’appelante. Ces deux derniers documents sont également reproduits ci‑dessous :
+[traduction]
+FEUILLE D’ENVOI PAR TÉLÉCOPIE
+Le 15 mai 2001
+À : Denyse Coté
+N° du télécopieur : 984-5434
+MESSAGE :
+Vous trouverez ci‑joint un sommaire de la demande de remboursement de la taxe se rapportant au total des comptes de Ministic, plus le paiement de 153 000 $, soit 342 000 $.
+Une assemblée des actionnaires de Ministic Air doit avoir lieu ce matin [le mardi 15 mai 2001]; je m’attends à recevoir des instructions plus tard au cours de la journée et je vous informerai de la chose.
+« G. Nerbas »
+(Pièce jointe)
+COMPTES DE MINISTIC AIR
+1. STP-Waas – service de transport aérien de Ministic Air
+Dépenses de 800 000 $ assujetties
+à un remboursement de la TPS - 56 000 $
+2. Comptes clients de 1 900 000 $
+à titre de créances irrécouvrables
+Redressement de la TPS - 133 000 $
+3. Compte des services médicaux auprès de Ministic Air
+saisi par le gouvernement du Canada
+Paiement à imputer à la dette fiscale - 153 000 $
+342 000 $
+LA DÉDUCTION À EFFECTUER SUR LA DETTE FISCALE PRÉTENDUE EST DE 342 000 $
+NOTA – Deux aéronefs ont fait l’objet d’une reprise de possession au mois de décembre 2000; ils sont maintenant à Vancouver selon les recherches qui ont été effectuées. VALEUR 1 000 000 $
+[15] Je ne doute aucunement que ces documents n’ont pas été créés en vue de consigner une décision commerciale, mais qu’ils visaient plutôt à créer une preuve à l’appui d’une tentative de recouvrer la TPS demandée. Je note également que Mme Fraser s’est présentée comme étant [traduction] l’« ancienne directrice financière ». Il semble douteux qu’elle ait été autorisée à agir même à ce moment‑là. Quoi qu’il en soit, ces documents, isolément ou collectivement, ne répondent absolument pas à ce qui est exigé pour faire état d’une décision d’entreprise de radier tous les comptes clients de la société.
+[16] Selon l’une des exigences du paragraphe 231(1) de la Loi, la demande de remboursement doit être faite dans la déclaration se rapportant à la période de déclaration au cours de laquelle la créance est radiée, ou dans la déclaration concernant une période de déclaration postérieure. En l’espèce, la demande a été faite dans la déclaration concernant la période de déclaration qui a pris fin le 31 mars 2001. Même si la note du 14 mai 2001 était considérée comme une preuve suffisante aux fins de la radiation, elle ne pourrait pas justifier cette demande de remboursement, qui était faite dans la déclaration concernant une période antérieure. Cela peut sembler être un obstacle trop technique à la demande de l’appelante, mais je suis obligé d’appliquer la loi telle que le législateur l’a rédigée. Il ne m’est pas loisible d’établir des exceptions aux dispositions de la loi en me fondant sur certaines iniquités perçues dans son application à un cas particulier : voir Chaya v. The Queen[5]. Ce facteur à lui seul fait complètement obstacle à la demande de l’appelante.
+[17] Le paragraphe 231(1) exige également que la personne qui demande un remboursement démontre que la fourniture à l’égard de laquelle la créance est née était une fourniture taxable et que la TPS a de fait été déclarée et versée à l’égard de chaque facture pour laquelle le remboursement est demandé. Si je comprends bien la position de l’appelante, il est satisfait à cette exigence par suite de la déduction d’un montant de 163 660,24 $ du montant de base pour lequel la demande est faite, ce montant de 163 660,24 $ représentant, selon l’appelante, le total des créances radiées se rapportant aux fournitures exonérées, et plus précisément aux services ambulanciers. L’appelante n’a pas soumis au répartiteur ou à l’agent des appels les factures nécessaires en vue d’établir cette exigence et elle ne les a pas prouvées devant moi. L’approche adoptée par l’appelante a toujours été qu’il suffit de dire que tous les comptes clients sont radiés et de produire uniquement des chiffres globaux à l’appui de la demande. Toutefois, cela ne satisfait pas aux exigences de la Loi. Il ressort certes clairement de la preuve que la TPS sur un grand nombre des factures devait être impayée à la fin de la période de déclaration du mois de mars 2001, étant donné qu’à la fin de février, l’appelante devait environ 72 700 $ au titre de la TPS non versée, ce qui représente une taxe de plus d’un million de dollars pour des fournitures taxables. Cette dette a finalement été payée, mais pas avant le mois d’août de cette année‑là, lorsqu’elle l’a été à l’aide du produit des actifs saisis au mois de mars. Toutefois, la demande a été faite dans la déclaration du mois de mars, à un moment où la TPS sur ces fournitures, ou du moins sur une bonne partie des fournitures, n’était toujours pas payée.
+[18] L’appelante a inclus les comptes clients de STP Wass Air et de Pim Air en tant que fondement permettant de calculer le montant de la demande de remboursement. Elle a également inclus un montant d’environ 750 000 $ que Garden Hill lui devait. La prétention de l’appelante semblait être que, d’une façon ou d’une autre, les créances de STP Wass Air et de Pim Air étaient les siennes et qu’elle avait droit à un remboursement de la TPS à leur égard, par suite de l’entente du 31 août 1998 mentionnée au paragraphe 5 ci‑dessus. Or, l’entente ne renferme aucune disposition de ce genre et les explications que Mme Fraser a données au sujet de la façon dont l’arrangement s’appliquait en pratique n’étaient pas plus claires. Selon la preuve, le produit des ventes de billets, aux termes de l’entente, était déposé dans un compte distinct, mais on ne sait pas trop qui contrôlait ce compte ni qui versait la TPS relative aux ventes de billets. Il est clair que ces deux sociétés étaient toutes deux des personnes inscrites en vertu de la Loi, et en l’absence d’une preuve contraire claire, il est selon moi raisonnable de conclure que lorsque ces sociétés vendaient des billets, elles déclaraient et versaient la TPS y afférente. La preuve mise à ma disposition est certes loin d’établir que leurs créances appartenaient de quelque façon à l’appelante ou que l’appelante avait versé la TPS se rattachant aux billets vendus par ces deux sociétés.
+[19] Le paragraphe 231(1) ne permet pas le remboursement de la TPS lorsque le montant qui est radié est dû par une personne avec qui le contribuable avait un lien de dépendance au moment où il effectuait la fourniture. Lorsque l’appelante a mis fin à ses activités, au mois de mars 2001, la créance la plus importante était celle de Garden Hill, qui détenait 98 p. 100 des actions de l’appelante. Cela représentait un montant d’environ 750 000 $, soit près du tiers du montant de la demande. La question du lien de dépendance est prévue par la Loi, aux paragraphes 126(1) et (2) :
+126(1) Pour l’application de la présente partie, les personnes liées sont réputées avoir un lien de dépendance. La question de savoir si des personnes non liées entre elles sont sans lien de dépendance à un moment donné en est une de fait.
+126(2) Les paragraphes 251(2) à (6) de la Loi de l’impôt sur le revenu s’appliquent aux fins de déterminer si des personnes sont liées pour l’application de la présente partie.
+Le passage pertinent de l’article 251 de la Loi de l’impôt sur le revenu est rédigé comme suit :
+251(2) Pour l’application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+[…]
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+[20] M. Nerbas soutient que ces dispositions donnent simplement lieu à une présomption réfutable, à savoir que l’appelante et Garden Hill avaient entre elles un lien de dépendance, et que cette présomption est réfutée par la preuve montrant que l’appelante avait comme politique de fournir un service à Garden Hill et à ses membres, aux mêmes taux commerciaux que ceux qu’elle exigeait de tous des autres clients. M. Nerbas se fonde à l’appui de cette thèse sur l’arrêt Gray v. Kerslake[6], dans lequel il était question de l’article 134 de l’Insurance Act de l’Ontario[7]. À mon avis, l’énoncé exact, en ce qui concerne l’effet du mot « réputées » dans le présent contexte, figure dans l’arrêt Barclay’s Bank Ltd. v. Inland Revenue Commissioners[8], où le vicomte Simonds[9] a dit que, selon lui, la fonction principale de ce mot, lorsqu’il était employé dans une loi, était [traduction] d’« inclure quelque chose qui serait par ailleurs exclu ». Le juge Heald a adopté ce sens, dans le contexte de la Loi de l’impôt sur le revenu, dans l’arrêt Hillis and Hillis v. The Queen[10]. Dans un jugement rendu à l’unanimité par la Cour suprême du Canada dans l’affaire La Reine c. Sutherland[11], le juge Dickson a fait la remarque suivante, dans le même sens :
+L’objet d’une disposition qui crée une « présomption » est d’imposer une signification, de faire en sorte qu’une chose soit interprétée différemment de ce qu’elle aurait été en l’absence de la disposition.
+[21] Je dispose d’éléments de preuve contradictoires au sujet de la propriété effective des comptes clients de l’appelante. Le 15 mai 2001, le conseil d’administration de Ministic a adopté une résolution rédigée comme suit :
+[traduction]
+Les solutions proposées ayant été examinées et ayant fait l’objet de discussions, Harold Harper propose une résolution, que Judy Little appuie et que le conseil d’administration de Ministic Air Ltd. adopte à l’unanimité, de vendre à George Brotherston, pour la somme d’un dollar, tous les comptes clients au 23 mars 2001.
+Lors du contre‑interrogatoire, Mme Fraser a témoigné que M. Brotherston avait garanti un prêt bancaire au montant de 500 000 $ pour Ministic, que la banque avait demandé le remboursement du prêt, que M. Brotherston s’était vu obligé d’honorer sa garantie, que les comptes clients avaient été donnés en gage à la banque pour garantir l’emprunt et que c’était la raison pour laquelle la résolution du 15 mai avait été adoptée. Selon le témoignage de M. Brotherston, la propriété effective des comptes clients ne lui avait pas du tout été transférée. Selon son témoignage, il y avait tout simplement eu transfert symbolique des comptes en sa faveur, de façon qu’il puisse les recouvrer pour le compte de Ministic. Sa réputation, a‑t‑il dit, était telle que les gens qui n’acquittaient pas leurs comptes auprès de Ministic les payaient néanmoins s’ils croyaient que c’était lui le créancier. M. Brotherston a affirmé avoir recouvré environ 7 000 $ après que la résolution du 15 mai eut été adoptée et avoir remis cet argent à Ministic.
+[22] En l’absence de quelque corroboration des membres du conseil d’administration de Ministic, je conclus que le témoignage de Mme Fraser est plus probable. M. Brotherston, qui avait payé la banque conformément à la garantie, aurait eu droit à la garantie détenue par la banque, laquelle comprenait les comptes clients. Mme Fraser n’avait aucun intérêt personnel dans le résultat du présent appel et, puisqu’elle avait aidé M. Brotherston dans les efforts qu’il avait déployés pour recouvrer les comptes après le 15 mai, il semble probable qu’elle aurait été autant que lui au courant des faits. Il importe également de noter que la résolution a été adoptée le jour après que Mme Fraser et M. Brotherston eurent rédigé la note de service qui a ci‑dessus été reproduite, radiant censément les comptes clients en bloc. J’ai conclu que cette note de service n’avait pas effet, mais elle indique une intention qui est tout à fait incompatible avec le témoignage de M. Brotherston selon lequel le lendemain, Ministic prenait des mesures, par son entremise en sa qualité de fiduciaire, en vue de recouvrer ces comptes. Je conclus donc que le témoignage de Mme Fraser sur ce point est préférable à celui de M. Brotherston et que l’appelante, si elle avait un intérêt bénéficiaire dans les comptes avant la résolution du 15 mai 2001, n’en avait plus par la suite.
+[23] Pour les motifs susmentionnés, je conclus que l’appelante n’a pas satisfait aux exigences du paragraphe 231(1) de la Loi à l’égard du remboursement demandé, même à l’exclusion des comptes de Garden Hill et des créances de STP Wass Air et Pim Air qu’elle a inclus dans sa demande.
+[24] Je comprends bien la situation à laquelle l’appelante fait face. En effet, l’appelante a sans aucun doute été incapable de recouvrer un gros montant d’argent qui lui était dû au moment où elle a mis fin à ses activités. Ce montant était en grande partie dû par son principal actionnaire, mais des personnes sans lien de dépendance lui devaient également énormément d’argent. La TPS payée sur les derniers comptes aurait pu être recouvrée si l’appelante avait radié ces créances de manière professionnelle et si elle avait ensuite demandé le remboursement, comme la Loi l’exige. Toutefois, comme je l’ai dit ci‑dessus, je n’ai pas compétence pour déroger aux exigences strictes de la Loi. Le régime prévu par la Loi est complexe et les conditions de remboursement ont été édictées en vue d’empêcher les abus et les fraudes. Je ne veux pas laisser entendre qu’il y a eu abus ou tentative de fraude en l’espèce, mais comme je l’ai déjà signalé, je n’ai pas compétence pour décharger un appelant de l’obligation qui lui incombe d’observer strictement la loi. Je dois appliquer la Loi telle que le législateur l’a rédigée et je me vois donc obligé de rejeter l’appel. L’intimée aura droit aux dépens.
+Signé à Ottawa, Canada, ce 13e jour de mai 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de juillet 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008CCI296
+DOSSIER DE LA COUR : 2004-1998(GST)G
+INTITULÉ : MINISTIC AIR LTD.
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 17 janvier 2007
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 13 mai 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Grant Nerbas
+Avocat de l’intimée :
+Me Julien Bédard
+AVOCATS INSCRITS AU DOSSIER:
+Pour l’appelante :
+Nom : s/o
+Cabinet : s/o
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. E-15, dans sa forme modifiée.
+[2] [2006] 4 C.T.C. 36.
+[3] [1997] G.S.T.C. 98.
+[4] Chop v. The Queen, 95 DTC 527; conf. par 98 DTC 6014.
+[5] [2004] 5 C.T.C. 141 (C.A.F.).
+[6] [1958] S.C.R. 3.
+[7] R.S.O. 1950, ch. 183.
+[8] [1961] A.C. 509.
+[9] À la page 523.
+[10] 83 DTC 5365, à la page 5376.
+[11] [1980] 2 R.C.S. 451, à la page 456.

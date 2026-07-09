@@ -1,0 +1,369 @@
+---
+title: "Tozer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26341/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 411"
+citation2: ""
+neutral_citation: "2004 TCC 411"
+decision_date: "2004-06-22"
+language: "en"
+item_id: "26341"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3288
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:19:27.434000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2a3cddc9e3fac50cb6e57a0d7327fc31528dff2a777cb4a665fd717076359e9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tozer v. The Queen
+
+- Citation: 2004 TCC 411
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3288, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tozer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-22
+Neutral citation
+2004 TCC 411
+File numbers
+2000-4979(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4979(IT)I
+BETWEEN:
+BUDROW TOZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 5, 2004 in Miramichi, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Harold Parlee, C.A.
+Counsel for the Respondent:
+Christa MacKinnon
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+« François Angers »
+Angers, J.
+Citation: 2004TCC411
+Date: 20040622
+Docket: 2000-4979(IT)I
+BETWEEN:
+BUDROW TOZER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] These are appeals with respect to the Appellant's 1997 and 1998 taxation years. In computing the income for the Appellant, the Minister of National Revenue (the Minister) assessed as income an allowance the Appellant received from his employer for both taxation years. The Minister allowed a portion of the expenses claimed for both taxation years but disallowed others and with which the Appellant disagrees.
+[2] For both taxation years, the Appellant was an employee of the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada (the Union). As such, he was not operating a business, was not self-employed and did not receive any business income. He was not paid wholly or partly by commissions and was not paid any amounts according to the volume of sales made or contracts negotiated.
+[3] In 1997 and 1998, the Appellant received a fixed allowance from the Union in the amount of US $750 per week. The allowance was included in the Appellant's income and was reflected on his T-4 slips from the Union for both taxation years. The Appellant was not required to submit receipts to the Union for these expenses. The agreement with the Union provided, inter alia, the following terms:
+(1) The Union provided a fixed allowance of US $750 per week to help pay expenses and assist the Appellant in providing the following services:
+(a) entertainment and promotion of the Union's interest;
+(b) office facilities and secretarial services; and
+(c) hotels, meals, tolls, ferries and motor vehicle operating expenses.
+(2) The Union paid the following expenses:
+(a) air travel costs; and
+(b) office telephone and fax lines.
+(3) The allowance was included in the Appellant's T-4 by the Union on the basis of the understanding that taxes would have to be paid by the Appellant on any amount in excess of expenses paid.
+(4) The allowance was not meant to be part of the Appellant's salary; rather it was to be used to help pay the Appellant's expenses.
+[4] The amount of the allowance is determined every five years. The job requires extensive travelling which is estimated at about 200 days per year. The Appellant travels across Canada and parts of the United States. When he is not travelling, the Appellant works from his home where he has set up a small office. The Appellant describes himself as a sort of salesman since he needs to do a lot of lobbying and must keep good contacts in order to generate employment. In order to achieve that goal, he incurs expenses because he often pays for meals when he has guests. Part of the expenses claimed include costs of meals other than his own.
+[5] The appeals raise two issues:
+(1) Was the Minister correct in including the allowance received by the Appellant from the Union in his income for both taxation years?
+(2) Was the Minister correct in denying a portion of the expenses claimed by the Appellant against income for both taxation years?
+[6] The allowance received by the Appellant is to be included in computing his income under paragraph 6(1)(b) unless excepted. The relevant parts of that paragraph read as follows:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) ...
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+...
+(v) reasonable allowances for travel expenses received by an employee from the employee's employer in respect of a period when the employee was employed in connection with the selling of property or negotiating of contracts for the employee's employer,
+...
+(vii) reasonable allowances for travel expenses (other than allowances for the use of a motor vehicle) received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling away from
+...
+and, for the purposes of subparagraphs (v), (vi) and (vii.1), an allowance received in a taxation year by a taxpayer for the use of a motor vehicle in connection with or in the course of the taxpayer's office or employment shall be deemed not to be a reasonable allowance
+(x) where the measurement of the use of the vehicle for the purpose of the allowance is not based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the office or employment, or
+...
+[7] The amount received by the Appellant according to the agreement with the Union falls exactly within the above provision. It is an allowance put at the disposal of the Appellant which he needs not account for and which did not vary on the basis of actual expenses. The notion of an allowance was discussed by our Court in Bertrand v. The Queen, [1996] 1 C.T.C. 2992, by Mr. Justice Archambault and the facts of this case are very similar. They leave no doubt that the allowance in question must be added to the Appellant's income for both taxation years.
+[8] In addition, for the allowance not to be included in the Appellant's income for both taxation years, it must fall within the exceptions provided for in subparagraph 6(1)(b)(v), (vii) and (x) since the amount to which the appellant is entitled would have to meet this criteria. In our fact situation, although the criteria for negotiating contracts are met, the allowance is not broken down into categories, and it therefore makes it impossible to determine the allowance for travel expenses; furthermore, the measurement of the use of the vehicle for the purpose of the allowance is based solely on the number of kilometres for which the vehicle is used in connection with or in the course of the employment (see subparagraph 6(1)(b)(x)). It is therefore deemed not to be a reasonable amount and must therefore be included in income.
+[9] Having concluded that the Minister was correct in including the allowance for each taxation year in the Appellant's income, the issue remains as to whether he was correct in denying a portion of these expenses claimed by the Appellant against his income? Here is a breakdown of what was claimed and allowed by the Minister for both taxation years.
+SCHEDULE "A"
+Other Employment Expenses
+1997
+Budrow Tozer
+Year 1997
+Sin: X
+Apr. 3/00
+Oct. 17/00
+Expense Claimed
+Amount
+Claimed
+Receipts
+Supplied
+Original
+Reassess
+Second
+Reassess
+Meals & Entertainment
+$ 7,020.00
+$ 5,871.57
+$ 1,467.89
+$ 1,467.89
+Other
+Accounting & Legal
+$ 241.00
+$ 241.00
+Lodging
+$11,631.00
+$10,170.44
+$10,170.44
+$10,170.44
+Supplies
+$ 3,113.00
+$ 3,111.09
+$ 3,111.09
+$ 3,111.09
+Furniture
+$ 4,149.00
+$ 4,149.00
+Wages
+$ 6,050.00
+$ 4,050.00
+Taxis & Tolls
+$ 1,078.65
+$ 1,078.65
+$ 1,078.65
+Liability Insurance
+$ 277.00
+$ 100.00
+$ 138.70
+$ 138.70
+Rent
+$ 1,000.00
+Auto
+Fuel
+$ 3,132.00
+$ 2,663.01
+$ 2,663.01
+$ 2,663.01
+Repairs
+$ 193.77
+$ 193.77
+$ 193.77
+Insurance
+$ 2,320.00
+$ 2,320.00
+$ 2,320.00
+$ 2,320.00
+$ 5,452.00
+$ 5,176.78
+$ 5,176.78
+Total
+$38,933.00
+$21,143.55
+$25,193.55
+Allowance to cover expenses included in T4 $750.US or Canadian
+$57,720.00
+Total expenses claimed
+$38,933.00
+Total expenses allowed (Oct. 17/00)
+$25,193.55
+Net Expenses Disallowed
+$13,739.45
+SCHEDULE "B"
+Other Employment Expenses
+1998
+Budrow Tozer
+Year 1998
+Sin: X
+Expense Claimed
+Amount
+Claimed
+Receipts
+Supplied
+Original
+Assess
+Reassess
+Meals & Entertainment
+$ 7,134.00
+$13,685.08
+$ 3,421.27
+$ 3,421.27
+Other
+Accounting & Legal
+$ 138.00
+$ 138.00
+Lodging
+$15,280.47
+$14,936.12
+$14,936.12
+$14,936.12
+Supplies/CellPhone/
+Internet
+$ 4,316.39
+$ 3,103.41
+$ 2,318.90
+$ 2,574.48
+Wages
+$15,800.00
+$14,600.00
+Taxis & Tolls
+$ 1,410.00
+$ 1,410.00
+$ 1,410.00
+$ 1,410.00
+Liability Insurance
+$ 50.00
+$ 50.00
+$ 50.00
+Conference registration
+$ 912.50
+$ 912.50
+Rent
+$ 1,000.00
+$38,857.36
+$18,715.02
+$33,570.60
+Auto
+Fuel/car washes
+$ 4,930.14
+$ 4,574.52
+$ 4,930.14
+$ 4,930.14
+Repairs
+$ 619.16
+$ 619.16
+$ 619.16
+Insurance
+$ 2,026.00
+$ 2,026.00
+$ 2,026.00
+$ 2,026.00
+License & registration
+$ 104.00
+$ 104.00
+$ 104.00
+$ 104.00
+Lease
+$ 7,800.00
+$ 7,225.83
+$ 7,225.83
+$14,860.14
+$14,805.13
+$14,905.13
+Total
+$60,851.50
+$37,041.42
+$51,897.00
+Allowance to cover expenses included in T4
+$57,720.00
+Total expenses claimed
+$60,851.50
+Total expenses allowed (Oct. 17/00)
+$51,897.00
+Net Expenses Disallowed
+$ 8,954.50
+[10] The Appellant has not taken issue with all the items listed above and they shall remain as assessed by the Minister. I will therefore deal only with the ones in dispute. I will not comment either on the expenses allowed by the Minister. Below are the relevant subsections of the Act:
+[11] Paragraph 8(1)(h) provides in part:
+In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(h) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+...
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+...
+[12] A general limitation in subsection 8(2) reads:
+Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[13] The first item that appears in the above schedules is meals and entertainment expenses incurred while the Appellant was travelling. In order for these expenses to be deductible, the Appellant must meet the requirements of paragraph 8(1)(h) of the Act. The evidence disclosed that the Appellant was required to carry the duties of his employment in different places and was required to pay travel expenses he incurred in the performance of his duties. Since his travel allowance was included in his income, the appellant is not precluded from claiming these expenses. The question raised is whether the Appellant should be allowed to deduct what he refers to as entertainment expenses which are really meals and beverages paid for others? Are these incidental expenses allowed to be deducted under paragraph 8(1)(h)?
+[14] In Strong v. The Queen, docket 2003-2843(IT)I, Mr. Justice McArthur was faced with the same issue in a similar fact situation. Finding in favour of the Appellant, he concluded that it was common sense to allow an offsetting deduction with respect to such incidental travelling expenses given that the Appellant's employer gave him an allowance for that purpose and it was included in his income. He writes in part at paragraphs 16 et seq.:
+There is some ambiguity as to whether paragraph 8(1)(h) includes incidental treavelling expenses. Johns-Manville Canada Inc. v. The Queen,[1] assists in resolving the ambiguity in favour of the Appellant. The following conclusion of Estey J. of the Supreme Court of Canada, writing for the majority, applies equally to the present case:
+... the appropriate taxation treatment is to allocate these expenditures to the revenue account and not to capital. Such a determination is, furthermore, consistent with another basic concept in tax law that where the taxing statute is not explicit, reasonable uncertainty or factual, ambiguity resulting from lack of explicitness in the statute should be resolved in favour of the taxpayer. This residual principle must be the more readily applicable in this appeal where otherwise, annually recurring expenditures completely connected to the daily business operation of the taxpayer, afford the taxpayer no credit against tax either by way of capital cost or depletion allowance with reference to a capital expenditure, or an expense deduction against revenue.
+There is nothing in the wording of paragraph 8(1)(h) that suggests that only the expenses that relate personally to the taxpayer should be allowed and the incidental expenses should not. The incidental expense in question is the $20,000 for meals and beverages for others.
+There is no question that he travelled extensively throughout North America and Bermuda in 1999. He was away more than he was home. His work included negotiating union contracts which required paying for the meals and drinks for his guests. Having found that the allowance was unreasonable, his only hope for deduction is pursuant to paragraph 8(1)(h) of the Act.
+I agree with Appellant's counsel in quoting Johns-Manville to the effect that where there is ambiguity as to what is included in travelling expenses, it should be resolved in favour of the taxpayer. Paragraph 8(1)(h) is to be interpreted on its own if it is not ambiguous. There is nothing in the section that would lead to a conclusion that travel expenses, in the course of employment, does not include paying meals and beverages for business associates while away from home. These are business expenses for which his employer gave an allowance. He has to include that allowance in his income and it is common sense that he should have an offsetting deduction.
+The Minister questioned the quantum of these expenses in general terms. The Appellant provided a list of incidental expenses in Exhibit A-6 and the last column, totalled approximately $40,000, of which $20,000 is claimed after applying section 67.1 which reduces the cost of food and beverages by 50%. While this seems like a lot to spend on food and beverages, I accept the Appellant's evidence that this is how he conducted business. In other terms, he travelled on business over 200 days a year and the $20,000[2] represents about $100 per day. Surely the words "travel expenses" are broad enough in the context of paragraph 8(1)(h) to include the incidental amounts claimed. I accept that the third person food and beverage expense does not come under "entertainment" which is partly defined in paragraph 67.1(4)(b) as amusement and recreation. Entertainment is more in the category of tickets to a sporting or cultural event, a fishing trip or a cruise. The incidental to travel the Appellant is claiming has a more direct connection to his office or employment. He had business gatherings over a meal and picks up the bill as he would be expected to.
+[15] The amounts claimed by the Appellant for both taxation years under that heading represent a daily allowance of $65 for meals for which he had no receipts and the incidentals for which he had receipts (see Schedules). They total $7,020 for the 1997 taxation year and $7,134 for the 1998 taxation year. The 50% reduction under section 67.1 has been applied. Considering the number of days the Appellant was away from home, which is estimated at about 200 days per year, it is not unreasonable for him to have claimed the amounts he did. I would therefore allow the amount claimed by the Appellant for both taxation years.
+Accounting and Legal Fees
+[16] Since I have already concluded that the Appellant is an employee, these expenses are personal living expenses and are therefore not deductible. The Minister was therefore correct in disallowing this expense for both taxation years.
+Furniture
+[17] The Appellant claimed $4,149 for the cost of furniture and equipment for his home office in the 1997 taxation year. It is furniture for which he did not claim any capital cost allowance. The Appellant does not deny the fact that the home office is to help him function as an employee and it does not provide more income for himself. As an employee, it is not a deductible expense under the Act. Therefore, the Minister was correct in disallowing it.
+Rent
+[18] The Appellant claimed $1,000 for rent for the use of his home office in both taxation years. It occupies 154 square feet of a 1,144 square foot house. The Appellant arbitrarily determined that figure but did so on a pro rata basis of his home expenses for electricity, insurance, taxes and other costs. No receipts were provided to substantiate these costs. A deduction for the costs of work space at home may be allowed under subsection 8(13) of the Act which reads:
+Work space in home - Notwithstanding paragraphs (1)(f) and (i),
+(a) no amount is deductible in computing an individual's income for a taxation year from an office or employment in respect of any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the place where the individual principally performs the duties of the office or employment, or
+(ii) used exclusively during the period in respect of which the amount relates for the purpose of earning income from the office or employment and used on a regular and continuous basis for meeting customers or other persons in the ordinary course of performing the duties of the office or employment;
+...
+[19] Considering the fact that the Appellant is away from his home an estimated 200 days a year, I do not believe he qualifies for such a deduction. The expense is therefore disallowed.
+Supplies
+[20] The only issue for the 1998 taxation year expense under this item is the cost for the use of a cellular phone and the cost for using the Internet. The Appellant uses a cellular phone when travelling and working and he may use it for personal purposes only on rare occasions. He has one at home for that purpose. As for the Internet, it is used for research and primarily for e-mailing. The Minister has allowed this item except for these costs. Although the Appellant did not provide actual receipts, the amount $529 claimed is reasonable. I will therefore allow that additional amount.
+Conference Registration
+[21] The Appellant attended a few conferences during the 1998 taxation year and the expenses claimed were the registration fees. It is admitted that his attendance did not affect his income. They were conferences organized by local unions and those fees were not reimbursed; hence the claim for a deduction. I find that these expenses are not contingent on the Appellant's income and are therefore to be considered personal expenses. Therefore, the Minister was correct in disallowing that expense.
+[22] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+« François Angers »
+Angers, J.
+CITATION:
+2004TCC411
+COURT FILE NO.:
+2000-4979(IT)I
+STYLE OF CAUSE:
+Budrow Tozer and Her Majesty the Queen
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+April 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice François Angers
+DATE OF JUDGMENT:
+June 22, 2004
+APPEARANCES:
+Agent for the Appellant:
+Harold M. Parlee, C.A.
+Counsel for the Respondent:
+Christa MacKinnon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 85 DTC 5373 (SCC).
+[2] After applying section 67.1.

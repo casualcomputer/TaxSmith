@@ -1,0 +1,159 @@
+Title: Promark Construction Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108295/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-50-108295-promark-construction-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-02-26
+
+# Promark Construction Ltd. v. M.N.R.
+
+- Citation: 2015 TCC 50
+- Decision date: 2015-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2762, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promark Construction Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-26
+Neutral citation
+2015 TCC 50
+File numbers
+2014-1512(EI)
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-1512(EI)
+BETWEEN:
+PROMARK CONSTRUCTION LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 27, 2014, at Calgary, Alberta.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Paige MacPherson
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed, without costs.
+Signed at Ottawa, Canada, this 26th day of February 2015.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2015 TCC 50
+Date: 20150226
+Docket: 2014-1512(EI)
+BETWEEN:
+PROMARK CONSTRUCTION LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant is appealing a decision of the Minister of National Revenue (the “Minister”) that it employed Brett and Brian Alcorn in insurable employment during the period from January 1, 2010 to April 26, 2013 (the “Relevant Period”).
+[2] Brett and Brian Alcorn are two of the adult children of William (“Bill”) and Barbara Alcorn. Bill and Barbara Alcorn own, through a holding company, all of the shares of the Appellant.
+[3] Bill Alcorn testified during the hearing. As I will discuss, his credibility was seriously damaged on cross-examination.
+Summary of Facts [4] Bill Alcorn began a business in 1985 of renovating homes in Calgary. In 1991, he hired two arm’s length employees, who continued to work in the business until 2009 in one case and 2010 in the other. The business was transferred to the Appellant in July 1996.
+[5] Brian Alcorn started working for the Appellant part-time in 2005, while he was attending university. He became a full-time employee in 2009. Brett Alcorn joined the Appellant in 2007 on a full-time basis. Brian and Brett Alcorn apprenticed with the Appellant and graduated from the apprenticeship program in 2010 as carpenters.
+[6] During the Relevant Period, the Appellant had at least two other employees, who were not related to the company.
+[7] Bill Alcorn is the controlling mind of the Appellant. Brian and Brett Alcorn do not own shares of the Appellant, are not officers or directors of the Appellant and do not have signing authority over the Appellant’s bank account. Bill Alcorn testified that he hopes that at some point in the future his two sons will take over the business carried on by the Appellant.
+[8] During the Relevant Period, Brian and Brett Alcorn physically performed work at the Appellant’s various work sites, including framing homes, drywalling homes, and carpentry work. In addition, they supervised the other employees and the subtrades, ensured that the work was completed in a timely fashion, picked up any required supplies and materials, accepted delivery of supplies and materials ordered by the Appellant from third parties, and ran the business when Bill Alcorn was on holidays.
+The Issue Before the Court [9] Paragraph 5(2)(i) of the Employment Insurance Act (the “Act”) states that insurable employment does not include employment if the employer and employee are not dealing with each other at arm’s length.
+[10] Paragraph 5(3)(a) of the Act provides that “the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act.” Both parties accept that, under the relevant provisions of the Income Tax Act, the Appellant is not dealing at arm’s length with either Brian or Brett Alcorn.
+[11] However, paragraph 5(3)(b) of the Act reads as follows:
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[12] During the Relevant Period, the Appellant paid premiums under the Act in respect of the employment of Brian and Brett Alcorn. It then submitted a request to the Canada Revenue Agency (the “CRA”) for a refund of employment insurance premiums remitted during the period from January 1, 2010 to April 26, 2013 in respect of Brian and Brett Alcorn’s employment with the Appellant.
+[13] The Minister refused the request. She determined that it was reasonable to conclude that the Appellant and each of Brian and Brett Alcorn would have entered into substantially similar contracts of employment if they had been dealing with each other at arm’s length.
+[14] It is the Appellant’s position that paragraph 5(3)(b) does not apply to deem the Appellant to deal at arm’s length with either Brian or Brett.
+[15] My colleague Justice Campbell, in Porter v. MNR[1] summarized this Court’s role in an appeal involving subsection 5(3) of the Act as follows:
+[. . .] the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, consider all of the facts in evidence before the Court, including any new facts, and to then assess whether the Minister's decision still seems "reasonable" in light of findings of fact by this Court. This assessment should accord a certain measure of deference to the Minister.
+[16] In summary, the issue before the Court is, having regard to all of the circumstances of Brian and Brett Alcorn’s employment with the Appellant, was it reasonable for the Minister to conclude that the parties would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+The Appellant’s First Argument [17] The Reply lists 56 assumptions that the Minister relied on when reaching her conclusion. The Appellant did not rebut most of these assumptions.
+[18] The assumptions show that the Appellant generally treated Brian and Brett in the same manner as its arm’s length employees (the “unrelated employees”). The Appellant hired all employees for an indefinite period, and provided each employee with instructions on how to perform the work. All employees worked on the same work sites and performed the same building and renovation tasks.
+[19] All employees of the Appellant, including Brian and Brett Alcorn, were only paid for the hours noted on their time sheets; they were paid bimonthly, received 10% vacation pay and belonged to the same benefit plan. Workers were not paid if they were sick and could not report to the work site.
+[20] I recognize that Brian and Brett provided services that were not provided by unrelated employees. They were the only supervisors, the only employees (other than Bill Alcorn) permitted to deal with customers and suppliers, and the only employees who stored the Appellant’s equipment at their homes. In addition, Brett Alcorn maintained the Appellant’s computer.
+[21] Brian and Brett Alcorn’s and the unrelated employees’ rate of pay was “based on industry standards.” However, Brian and Brett were paid between $0.50 and $1.50 more per hour than the unrelated employees as a result of their higher level of responsibility.[2] The Appellant also provided them with cell phones and contributed to the payment of the cost of their vehicles.
+[22] Brian and Brett Alcorn also received substantially higher bonuses than the unrelated employees.
+[23] In my view, the additional remuneration paid to Brian and Brett Alcorn is similar to the amounts the Appellant would have paid to an unrelated party who performed the same role. In particular, I would expect the Appellant to have paid a higher bonus to an employee who was directly involved in the success of the business.
+[24] During his testimony, Bill Alcorn focused on four other areas that he felt reflected facts that either were not taken into consideration by the Minister or were inconsistent with the Minister’s conclusion. These areas related to the assignment of work, the provision of tools, the provision of vehicles, and the requirement to work overtime. Bill Alcorn’s testimony in chief with respect to these four areas seriously damaged his credibility. As I will discuss, on cross-examination he either changed his story or qualified his previous testimony.
+[25] The first area Bill Alcorn focused on was the ability of Brian and Brett Alcorn to pick their own jobs. He testified that he allowed them to pick jobs in the southern part of Calgary since this was close to their home. He described how unrelated employees never had the opportunity to pick their jobs; they were assigned to the jobs that Brian and Brett “weren’t at”.[3]
+[26] On cross-examination, Bill Alcorn testified that the unrelated workers always had to be supervised. As a result, when there were two or more work sites, he would send Brian to one work site and Brett to another. This directly contradicted his testimony in chief. In addition, Bill Alcorn testified that at least 40% of the time the Appellant only had one job site.[4]
+[27] The second area addressed by Bill Alcorn related to the provision of hand tools. During his testimony in chief, Bill Alcorn testified that the unrelated employees were expected to have their own tools, but Brian and Brett Alcorn used tools provided by the Appellant.[5] On cross-examination, counsel for the Respondent took Mr. Alcorn to Exhibit R-1, a submission that the Appellant made to the CRA, in which the Appellant states that Brian and Brett Alcorn provided their own hand tools.[6] Bill Alcorn then testified that all employees, including Brian and Brett were required to provide their own hand tools.[7] Mr. Alcorn’s testimony was not clear with respect to which employees, if any, provided their own speciality tools.
+[28] The next area discussed by Bill Alcorn was the trucks used by Brian and Brett Alcorn. During his testimony in chief, Bill Alcorn testified that the Appellant owned the trucks and paid for any maintenance or fuel costs. Trucks were not provided to the unrelated workers.
+[29] On cross-examination, Bill Alcorn stated that only his sons were required to have trucks. His sons needed the trucks to pick up materials and take them to the job sites. He also testified that Brian and Brett each paid approximately 50% of the purchase price of his truck. He felt that this represented payment for their personal use of the trucks.
+[30] The last area dealt with by Bill Alcorn was overtime. During his testimony in chief he implied that only Brian and Brett worked on weekends.[8] However, during cross-examination he admitted that unrelated employees also worked weekends if their services were required to get a job done.[9]
+[31] Bill Alcorn’s testimony on cross-examination with respect to hand tools, the trucks and overtime supports the Minister’s conclusion.
+[32] After considering the facts relied upon by the Minister and the additional facts presented at trial, I have concluded that the Minister’s decision was reasonable.
+The Appellant’s Second Argument [33] The Appellant’s second argument is that paragraph 5(3)(b) of the Act does not grant the Minister the authority to deem Brian and Brett Alcorn and the Appellant to have dealt with each other at arm’s length. It is the Appellant’s position that paragraph 5(3)(b) only applies where the parties wish the employment of the non-arm’s length party to be insurable.
+[34] Counsel for the Appellant argued, relying upon obiter comments of this court in C&B Woodcraft Ltd. v. Minister of National Revenue[10] (“C&B Woodcraft Ltd.”) that, as a result of the Federal Court of Appeal’s decision in Druken,[11] Parliament changed the law such that related individuals were no longer insurable. However, Parliament provided an exemption for persons who wished to be insurable.
+[35] He submitted that if a person related to the employer wishes to be insurable, then the Minister must make an assessment under the relevant provisions of the Act as to whether that person should be made insurable. It is the Appellant’s position that the Minister can only make such a determination if the related employee wishes to be considered an insurable person under the Act. The Minister cannot make the determination if the related employee does not wish to be considered an insurable person under the Act.
+[36] Counsel for the Appellant argued that this is consistent with the scheme of the Act and would not result in employees abusing the system since only employees who pay premiums can collect benefits.
+[37] Paragraph 90(1)(a) allows an employee, an employer and the Canada Employment Insurance Commission (the “Commission”) to request an officer of the CRA authorized by the Minister to make a ruling on whether an employment is insurable.
+[38] Under paragraph 5(1)(a), insurable employment is employment in Canada under an express or implied contract of service, written or oral. This is subject to the exclusions set out in subsection 5(2). As noted previously, paragraph 5(2)(i) states that insurable employment does not include employment if the employer and employee are not dealing at arm’s length.
+[39] Paragraph 5(3)(b) states that, for the purposes of paragraph 5(2)(i), if the employer is related to the employee they will be deemed to be dealing with each other at arm’s length if the Minister is satisfied, having regard to certain specified circumstances, that it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[40] In Actech Electrical Ltd. v. Minister of National Revenue,[12] Justice Mogan, after considering C&B Woodcraft Ltd, determined that the Minister had the discretion to include related employees and employers within the ambit of the employment insurance program. He stated the following:
+[13] . . . In some recent appeals to this Court, the Appellants have asked if the Minister may determine under paragraph 5(3)(b) whether certain employment is insurable where the non-arm's length employer and employee share the view that the employment is not insurable and no premiums are remitted. This is the precise question raised in these appeals.
+[14] Appellants' counsel referred to the legislative history of paragraph 5(3)(b) to argue that it is purely remedial in the sense that it permits a worker (related to her employer) to demonstrate to the Minister's satisfaction that her employment should be insurable notwithstanding the relationship. . . .
+[16] Returning to the argument of Appellants' counsel, there is no doubt in my mind that paragraph 5(3)(b) was intended by Parliament to be remedial following the decision of the Federal Court of Appeal in Druken. It does not necessarily follow, however, that paragraph 5(3)(b) is a one-way street permitting the Minister to determine that a non-arm's length employee is engaged in insurable employment when the employee wants that result but prohibiting the Minister from determining that a non-arm's length employee is engaged in insurable employment when the employee does not want that result. In my view, the EI Act is unusual because, on the one hand, it may be regarded as a taxing statute collecting premiums to create a fund (see sections 67, 68, 82 to 85, 92 and 103) while, on the other hand, it may be regarded as social legislation paying benefits to unemployed persons (see sections 7 et seq) . . .
+[17] Paragraph 5(3)(b) clearly authorizes the Minister to make a determination (which the Courts have characterized as "ministerial discretion") when the employer and employee do not deal with each other at arm's length; but I find nothing in the language of that paragraph which restricts the circumstances in which the Minister may make a determination if the fundamental condition is present: i.e. the employer and employee are not at arm's length. Accordingly, I reject the Appellants' argument that there is some impediment to the Minister concluding, in particular circumstances, that certain employment between a non‑arm's length employer and employee is insurable when one or both of the parties regard such employment as not insurable.
+[41] I agree with the conclusion of Justice Mogan. In my view, paragraph 5(3)(b) clearly provides the Minister with the unfettered authority to make the requested determination; there is no ambiguity in the legislation.
+[42] The Appellant is asking me to find that Parliament intended a related employee to have the option of opting into the employment insurance program.
+[43] Such discretion is not provided in the words of the legislation. As counsel for the Respondent noted, the Minister’s role is to make a determination under paragraph 5(3)(b) once a request for a ruling is made by an employer, an employee or the Commission under paragraph 90(1)(a).
+[44] Further, paragraph 5(3)(b) provides the Minister with the ability to limit abuses of the employment insurance program. The program is self-funding. Where related employers and employees contract with one another, one of the abuses that may arise is short-term work aimed at collecting insurance benefits.
+[45] For example, if the Minister was only entitled to apply paragraph 5(3)(b) if a related employee made a request under paragraph 90(1)(a), then the related employee could chose not to pay premiums when the business in question is doing well. The employee could then elect into the program (by requesting a ruling) when it appeared the business might be forced to shut down due to financial difficulties. This could result in the employee paying premiums for a short period and then collecting benefits under the self-funding program. In my view, this is the very type of abuse that paragraph 5(3)(b) is intended to stop.
+[46] For the foregoing reasons the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 26th day of February 2015.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2015 TCC 50
+COURT FILE NO.:
+2014-1512(EI)
+STYLE OF CAUSE:
+PROMARK CONSTRUCTION LTD. v. M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 27, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+February 26, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Paige MacPherson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Deryk W. Coward
+Firm:
+D’Arcy & Deacon LLP
+Winnipeg, Manitoba
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2005 TCC 364, at para. 13.
+[2] Exhibit R-1, page 2.
+[3] Testimony of William Alcorn, pages 13 and 14.
+[4] Ibid., pages 43 and 44.
+[5] Ibid., pages 26 and 27.
+[6] Exhibit R-1, page 4.
+[7] Testimony of William Alcorn, pages 57-59.
+[8] Ibid., pages 34 and 35.
+[9] Ibid., page 50.
+[10] 2004 TCC 477.
+[11] Canada v. Druken, [1989] 2 F.C. 24 (F.C.A.).
+[12] Actech Electrical Ltd. v. Minister of National Revenue, 2004 TCC 572.

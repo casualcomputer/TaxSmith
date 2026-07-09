@@ -1,0 +1,181 @@
+Title: Little c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521076/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-47-521076-little-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-04-13
+
+# Little c. Le Roi
+
+- Citation: 2023 CCI 47
+- Decision date: 2023-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5864, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Little c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-04-13
+Référence neutre
+2023 CCI 47
+Numéro de dossier
+2018-2703(GST)I, 2018-2712(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-2703(GST)I
+ENTRE :
+LUCY LITTLE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Len Little (2018-2712(GST)I)
+le 23 janvier 2023, à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me John D. Buote
+Avocates de l’intimé :
+Me Lalitha Ramachandran
+Me Andrea Jackett
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation portant le numéro 3620698 et daté du 2 février 2016, établi en application de la Loi sur la taxe d’accise, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2023.
+« Robert J. Hogan »
+Le juge Hogan
+Dossier : 2018-2712(GST)I
+ENTRE :
+LEN LITTLE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+Lucy Little (2018-2703(GST)I)
+le 23 janvier 2023, à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me John D. Buote
+Avocates de l’intimé :
+Me Lalitha Ramachandran
+Me Andrea Jackett
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation portant le numéro 3620681 et daté du 2 février 2016, établi en application de la Loi sur la taxe d’accise, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2023.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2023 CCI 47
+Date : 20230413
+Dossiers : 2018-2703(GST)I
+2018-2712(GST)I
+ENTRE :
+LUCY LITTLE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+ET ENTRE :
+LEN LITTLE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu
+[1] La question en litige dans les présents appels est de déterminer si les cotisations établies à l’égard des appelants – Len Little et Lucy Little, qui sont mari et femme – en application du paragraphe 323(1) de la Loi sur la taxe d’accise (Canada)[1], relativement à la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) exigible qui n’a pas été versée par Lucy’s Seafood Kitchen (Waterloo) Inc. (« Waterloo »), sont appropriées dans les circonstances décrites ci-après.
+[2] Les appels ont été entendus sur preuve commune.
+II. Faits
+[3] Les parties ont déposé un exposé conjoint partiel des faits. Les appelants acceptent la plupart des hypothèses de fait sur lesquelles le ministre du Revenu national (le « ministre ») s’est fondé, à l’exception des hypothèses de fait qui concernent l’enregistrement du certificat de 26 570,71 $, lequel correspondait à la somme présumée que Waterloo devait au titre de la TPS/TVH, le 22 juin 2015.
+[4] Les appelants nient également qu’il y a eu exécution de la somme indiquée dans le certificat, ce qui est une condition préalable à satisfaire pour qu’un administrateur soit tenu responsable aux termes du paragraphe 323(1), partie IX, de la Loi sur la taxe d’accise (« LTA »).
+[5] L’intimé n’a fait appel à aucun témoin. L’intimé a présenté tous les documents pertinents par affidavit, qui est souvent la manière dont la preuve est présentée dans le contexte d’appels soumis à la procédure informelle, interjetés à l’encontre de cotisations établies au titre de la responsabilité d’un administrateur en application du paragraphe 323(1).
+[6] M. et Mme Little ont été cités comme témoins dans leurs appels.
+[7] M. Little, qui était président et administrateur de Waterloo, a reconnu que lui et son épouse étaient les seules personnes autorisées à signer sur le compte bancaire de Waterloo. M. Little a également admis qu’il avait la responsabilité de veiller à ce que Waterloo respecte ses obligations en matière de déclaration et de perception aux termes de la LTA.
+[8] Ouvert en 2004, le restaurant Waterloo a vu sa situation rapidement se détériorer après la crise financière de 2008. Durant son témoignage, M. Little a affirmé que les déclarations fiscales de Waterloo ont été produites en retard en raison de problèmes de liquidités. Il a indiqué qu’il avait l’habitude de joindre plusieurs chèques avec chaque déclaration, certains de ces chèques étant postdatés[2]. M. Little a également déclaré qu’il payait certaines sommes au moyen de chèques postdatés établis en fonction de ses propres prévisions de ventes pour les mois à venir. Il a dit avoir adopté cette méthode parce que la personne morale n’avait pas suffisamment de fonds en caisse pour payer le montant total de la TVH indiqué sur ses déclarations.
+[9] Waterloo a finalement cessé toute activité en mars 2009[3]. M. Little a reconnu avoir rendu les clés au propriétaire à cette date et ne pas y être retourné depuis. J’en déduis du témoignage de M. Little que Waterloo ne disposait d’aucun élément d’actif qui aurait pu être cédé lorsque le certificat a été délivré par la Cour fédérale. M. Little a également admis n’avoir conservé aucun document financier, relevé bancaire ou dossier fiscal de Waterloo.
+III. Les thèses des parties
+[10] Les appelants soutiennent que Waterloo a payé l’intégralité de la taxe nette exigible au titre de la LTA avant la fermeture de son service de restauration. Les appelants allèguent également qu’il n’existe aucune preuve au dossier établissant qu’il y a eu exécution totale ou partielle à l’égard de la somme indiquée dans le certificat, ce qui est une condition préalable pour établir la responsabilité d’un administrateur aux termes du paragraphe 323(1) de la LTA.
+[11] Bien entendu, l’intimé défend la thèse contraire.
+A. La somme indiquée dans le certificat est-elle exacte?
+[12] Il ne fait aucun doute qu’un administrateur a le droit de contester une dette sous-jacente de la personne morale, lorsqu’une cotisation en découlant est établie en application du paragraphe 323(1) de la LTA. C’est ce que les appelants ont choisi de faire en l’espèce.
+[13] Lorsqu’un administrateur conteste une cotisation sous-jacente de la personne morale, le fardeau de prouver que la cotisation est fondée sur une dette fiscale erronée incombe généralement à cet administrateur. Dans certaines circonstances, toutefois, le contribuable peut bénéficier d’un renversement du fardeau de la preuve. Dans la décision Mignardi[4], le juge Paris a conclu que le fardeau de prouver l’existence de la dette fiscale n’est renversé et n’incombe au ministre que « lorsque le ministre a une connaissance exclusive ou particulière des faits relatifs à la dette fiscale sous‑jacente[5] ».
+[14] M. Little a reconnu qu’il avait la responsabilité de veiller à ce que Waterloo respecte ses obligations en matière de déclaration et de perception de la taxe aux termes de la LTA. Les déclarations fiscales de Waterloo ont été préparées par un conseiller en fiscalité externe de Waterloo, à partir des renseignements fournis par M. Little. M. Little établissait ensuite les paiements en fonction de la capacité de payer de Waterloo à un moment précis. M. Little savait que Waterloo était souvent en retard dans le paiement de la taxe nette exigible aux termes de la LTA.
+[15] Comme M. Little n’a pas conservé les registres ou dossiers de Waterloo, aucun élément de preuve documentaire n’a été produit pour prouver que la somme indiquée sur le certificat était erronée.
+[16] À l’opposé, l’intimé a produit des copies de toutes les cotisations qui ont été établies à l’égard de Waterloo durant la période pertinente. Ces cotisations ont été établies à partir des déclarations produites.
+[17] Les éléments de preuve documentaire montrent en outre que les acomptes provisionnels de la personne morale ont d’abord été appliqués aux arriérés de paiement.
+[18] Après avoir examiné la preuve dans son ensemble, je conclus que la dette exigible de Waterloo au titre de la LTA était de 26 570,71 $ lorsque le certificat a été délivré, le 22 juin 2015.
+B. Impossibilité de recouvrer les sommes de Waterloo
+[19] L’alinéa 323(2)a) de la LTA exige que l’Agence du revenu du Canada (« ARC ») démontre qu’il lui est impossible de recouvrer les sommes en litige directement de la personne morale. L’administrateur n’encourt de responsabilité que si la condition préalable énoncée à l’alinéa 323(2)a) de la LTA est satisfaite :
+a) un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 316 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+[20] Dans l’arrêt Barrett[6], la Cour d’appel fédérale (CAF) a conclu que l’ARC, en sa qualité de créancier, n’est pas tenue de démontrer qu’elle a fait des efforts raisonnables pour recouvrer la créance et qu’il lui suffit de démontrer qu’elle a agi de bonne foi, sans arrière-pensée ni motif inacceptable.
+[21] L’article 316 de la LTA, auquel renvoie l’alinéa 323(2)a), décrit comment une dette exigible aux termes de la LTA peut, par certificat du ministre, être déclarée payable et précise que le certificat doit ensuite être enregistré à la Cour fédérale. Un certificat enregistré a le même effet que s’il s’agissait d’un jugement rendu par la Cour fédérale contre le débiteur et il peut être exécuté à ce titre.
+C. Défaut d’exécution du certificat
+[22] Les parties prétendent qu’il incombe à l’intimé de démontrer qu’il y a eu défaut d’exécution du certificat. Les appelants affirment qu’aucun élément de preuve au dossier n’indique que cela a été fait.
+[23] Le paragraphe 335(5) énonce un processus simplifié qui permet à l’ARC de présenter une variété de documents au moyen d’affidavits. La disposition est rédigée comme suit :
+Preuve de documents
+(5) L’affidavit d’un fonctionnaire de l’Agence du revenu du Canada – souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir – indiquant qu’il a la charge des registres pertinents et qu’un document qui y est annexé est un document, la copie conforme d’un document ou l’imprimé d’un document électronique, fait par ou pour le ministre ou une autre personne exerçant les pouvoirs de celui-ci, ou par ou pour une personne, fait preuve de la nature et du contenu du document.
+[24] Les appelants prétendent que le bref de saisie et le relevé des prélèvements qui ont été présentés en preuve par affidavit sont inadmissibles aux termes du paragraphe 335(5), car ces documents, dont des copies figurent dans les dossiers de l’ARC, ne sont pas des documents faits par des personnes exerçant les pouvoirs du ministre. L’intimé prétend que tout document produit par l’ARC est admissible aux termes de cette disposition. Le relevé des prélèvements et le bref de saisie ne sont pas des documents qui proviennent de l’ARC.
+[25] Je ne souscris pas à l’interprétation que font les appelants du paragraphe 335(5). Cette disposition s’applique à un document qui est « fait par ou pour le ministre ou une autre personne exerçant les pouvoirs de celui-ci, ou par ou pour une personne » (non souligné dans l’original). Le dernier renvoi englobe les personnes qui produisent des documents qui sont déposés auprès de l’ARC aux termes de la LTA. Je suis d’avis que le paragraphe 335(5) comprend la preuve de tout document qui a été versé dans les dossiers de l’ARC, y compris les documents reçus par un inscrit.
+[26] Selon la définition présentée au paragraphe 123(1), le terme « document », qui est utilisé au paragraphe 335(5), comprend les registres. Un « registre », selon la définition présentée au paragraphe 123(1), comprend les renseignements, qu’ils soient par écrit ou sous toute autre forme. Le relevé des prélèvements, le certificat et le bref de saisie sont tous des copies électroniques de documents figurant dans les registres de l’ARC.
+[27] Si j’ai tort et que ces documents sont irrecevables aux termes du paragraphe 335(5), je conclus néanmoins qu’il y a eu défaut d’exécution du bref de saisie. M. Little a reconnu durant son témoignage que deux agents du bureau du shérif se sont présentés à son domicile pour lui poser des questions au sujet de Waterloo. Il a également reconnu que Waterloo avait cessé ses activités il y a longtemps et avait quitté les locaux loués du propriétaire.
+[28] La pièce F de l’affidavit est une copie d’une lettre adressée au bureau du shérif qui a exécuté le bref de saisie. La lettre avait été rédigée par M. Stevenson, un agent de recouvrement de l’ARC. Cette lettre précisait que la personne morale avait cessé toutes activités commerciales et chargeait le shérif de tenter d’exécuter le bref au domicile de M. Little.
+[29] M. Little a déclaré avoir été intimidé lorsque les deux agents du bureau du shérif se sont présentés à son domicile et il a dit ne pas se souvenir de tout ce dont ils avaient discuté. Je conclus que cet élément de preuve supplémentaire montre qu’il y a eu défaut d’exécution à l’égard de la somme indiquée sur le certificat.
+[30] Il est justifié de formuler une dernière observation en l’espèce. Les présents appels ont été entendus sous le régime de la procédure informelle. Le paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt[7] dispose que « la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent ».
+[31] Il ne fait aucun doute dans mon esprit que les appelants savent que le certificat n’a pas été exécuté. Les appelants n’ont subi aucun préjudice du fait de la décision de l’intimé de prouver, au moyen d’éléments de preuve documentaire, que le bref d’exécution avait été délivré. On ne gagnerait rien à convoquer les agents qui ont exécuté le bref de saisie au domicile des appelants, afin qu’ils témoignent que le bref d’exécution a été délivré conformément à l’alinéa 333(2)a).
+[32] Eu égard à l’ensemble de la preuve, l’intimé a établi que le bref d’exécution de la dette de Waterloo au titre de la TVH a été délivré avant l’établissement des cotisations en litige en l’espèce. Par conséquent, la condition préalable énoncée à l’alinéa 323(2)a) a été satisfaite.
+IV. Conclusion
+[33] Pour les motifs précités, je conclus que les cotisations établies en application du paragraphe 323(1) de la LTA sont fondées. Pour ces motifs, les appels des appelants sont rejetés.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2023.
+« Robert J. Hogan »
+Le juge Hogan
+RÉFÉRENCE :
+2023 CCI 47
+NOS DES DOSSIERS DE LA COUR :
+2018-2703(GST)I
+2018-2712(GST)I
+INTITULÉS :
+Lucy Little c. Sa Majesté le Roi
+Len Little c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 janvier 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 13 avril 2023
+COMPARUTIONS :
+Avocat des appelants :
+Me John D. Buote
+Avocates de l’intimé :
+Me Lalitha Ramachandran
+Me Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me John D. Buote
+Cabinet :
+BRS Tax Lawyers, LLP
+Toronto (Ontario)
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] L.R.C. (1985), ch. E-15 (« LTA »).
+[2] Transcription de M. Little, page 12, ligne 13.
+[3] Transcription de M. Little, page 33, lignes 1 à 4; page 34, lignes 6 et 7.
+[4] Mignardi c. La Reine, 2013 CCI 67 (procédure informelle).
+[5] Ibid., par. 41.
+[6] Canada c. Barrett, 2012 CAF 33, par. 38 et 42.
+[7] L.R.C. (1985), ch. T-2.

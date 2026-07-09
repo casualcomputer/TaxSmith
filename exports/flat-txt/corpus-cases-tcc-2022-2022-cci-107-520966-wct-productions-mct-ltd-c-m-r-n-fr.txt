@@ -1,0 +1,306 @@
+Title: WCT Productions MCT Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520966/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-107-520966-wct-productions-mct-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2022-09-22
+
+# WCT Productions MCT Ltd. c. M.R.N.
+
+- Citation: 2022 CCI 107
+- Decision date: 2022-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4492, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+WCT Productions MCT Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-09-22
+Référence neutre
+2022 CCI 107
+Numéro de dossier
+2018-777(EI), 2018-778(CPP)
+Juges et Officiers taxateurs
+Monica Biringer
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2018-777(EI)
+2018-778(CPP)
+ENTRE :
+WCT PRODUCTIONS MCT LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur une preuve commune, les 28, 29 et 30 mars 2022 à
+Vancouver (Colombie-Britannique)
+Devant : l’honorable juge Monica Biringer
+Comparutions :
+Avocats de l’appelante :
+Me Shawn Tryon
+Me Vivian Esper
+Avocats de l’intimé :
+Me Alexander Wind
+Me Daniel Cortes-Blanquicet
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+Les appels des décisions datées du 12 décembre 2017 rendues aux termes de la Loi sur l’assurance-emploi et du Régime de pensions du Canada sont accueillis, sans frais, et les décisions sont renvoyées au ministre du Revenu national pour réexamen et nouvelle cotisation au motif que les travailleurs n’exerçaient pas un emploi assurable aux fins de la Loi sur l’assurance-emploi ou un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada au cours des périodes pertinentes.
+Signé à Toronto (Ontario), ce 22e jour de septembre 2022.
+« Monica Biringer »
+La juge Biringer
+Référence : 2022 CCI 107
+Date : 20220922
+Dossiers : 2018-777(EI)
+2018-778(CPP)
+ENTRE :
+WCT PRODUCTIONS MCT LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Biringer
+I. LES FAITS
+[1] WCT Productions Ltd. (« WCT »), l’appelante, a pour activité de fournir des effets spéciaux et de l’animatronique pour des productions cinématographiques et télévisuelles. WCT interjette appel de la décision du ministre du Revenu national (le « ministre ») que certains travailleurs occupaient un emploi ouvrant droit à pension au sens du Régime de pensions du Canada [1] (le « RPC ») et un emploi assurable aux fins de la Loi sur l’assurance-emploi [2] (la « LAE »).
+[2] Les travailleurs, Bruce Houston, Kiana Larson, Brittney Bolzon, Christina Renaud et Amélie Soucy [3] (collectivement, les « travailleurs »), ont fourni des compétences en matière de sculpture, de fabrication de moules, de confection et de production de divers autres effets spéciaux de maquillage pour diverses productions. La période pertinente pour chaque travailleur s’étend du 1er janvier 2015 au 30 septembre 2016 (la « période ») [4] .
+[3] Les appels ont été entendus sur preuve commune. Brittney Bolzon a témoigné en faveur de l’appelante, et Bruce Houston a témoigné en faveur de l’intimé. Une agente des appels de l’Agence du revenu du Canada (« ARC »), Amber Michelle Raymond, a été citée à témoigner par l’appelante. Je considère qu’il s’agit de témoins crédibles.
+[4] Bill Terezakis était le président de l’appelante et était responsable de l’exploitation, y compris de l’embauche des travailleurs. Bill Terezakis et sa femme, Maureen Terezakis, possédaient toutes les actions de WCT. M. Terezakis est décédé subitement le 27 juin 2021. Avant l’audience, j’ai rendu une ordonnance en vue d’admettre en preuve de la transcription intégrale de l’interrogatoire préalable de M. Terezakis [5] , dans la mesure où elle serait admissible s’il témoignait devant la Cour. Tous les renvois au témoignage de M. Terezakis constituent des renvois aux réponses données lors de son interrogatoire préalable.
+II. RAPPEL DES FAITS
+[5] Le ministre, dans ses réponses, a admis certains faits tirés des avis d’appel, et l’appelante, dans ses observations écrites, a admis certains faits tirés des réponses. Ces faits convenus sont tirés intégralement des observations écrites de l’appelante à l’annexe « A » et sous-tendent les présents motifs.
+[6] WCT a été engagée pour fournir des effets spéciaux et de l’animatronique à des productions télévisuelles et cinématographiques en fonction de projets individuels. L’appelante a été engagée pour fournir des services en tant qu’entrepreneur. Ces services comprenaient des prothèses pour modifier les traits des acteurs, des reproductions d’animaux, des fabrications de créatures ou de monstres, des répliques humaines, des simulations de blessures, des études anatomiques et la fabrication de marionnettes.
+[7] Lorsque WCT était contactée en lien avec une production cinématographique ou télévisuelle, M. Terezakis lisait le scénario, examinait le type de fabrication, de personnages et d’effets spéciaux requis, déterminait le type de main-d’œuvre qualifiée et de matériaux nécessaires au projet, puis établissait un budget. M. Terezakis a contacté des travailleurs individuels pour leur demander de travailler sur le projet, en fonction de leurs compétences et des exigences du projet en question. Le nombre de travailleurs embauchés sur un projet dépend de l’ampleur de ce dernier. Les projets pouvaient durer de quelques heures à plusieurs mois. Les travailleurs étaient souvent embauchés sur plus d’un projet à la fois.
+[8] Au cours de la période, WCT a engagé environ 20 travailleurs, dont les cinq travailleurs, sur divers projets. Bruce Houston était un maître sculpteur et fabricant de moules. Il a travaillé pour WCT pendant toute la période; son taux horaire était de 32,50 $ à 37 $. Christina Renaud a travaillé à la perforation des cheveux, à la coloration des peaux en silicone et à la couture des prothèses et des corps en silicone. Elle a travaillé pour WCT pendant de nombreuses périodes de paie, mais pas toutes, au cours de la période [6] ; son taux horaire était de 30 $ à 34 $. Brittney Bolzon a travaillé à la couture de prothèses et de corps en silicone. Elle a commencé à travailler auprès de WCT en janvier 2016 et a travaillé avec WCT jusqu’à la fin de la période; son taux horaire était de 20 $ à 22 $. Amélie Soucy et Kiana Larson ont travaillé dans le domaine de la sculpture, des petites prothèses, de la correction des moulages vivants, de la fabrication de moules, etc. Amélie Soucy a travaillé pour la première fois auprès de WCT en mars 2015 et l’a fait jusqu’à la fin de 2015; son taux horaire était de 12 $ à 15 $. Kiana Larson a travaillé pour WCT pendant quelques semaines seulement en septembre 2016; elle était encore à l’école. Son taux horaire était de 15 $ [7] .
+[9] De plus amples détails sur les modalités et conditions de l’embauche des travailleurs par WCT sont discutés ci-dessous.
+III. QUESTIONS EN LITIGE DANS LES APPELS
+[10] La seule question en litige dans les appels est de savoir si, au cours de la période, les travailleurs occupaient un emploi ouvrant droit à pension aux fins du RPC et un emploi assurable aux fins de la LAE.
+IV. LES DISPOSITIONS LÉGISLATIVES
+[11] La définition d’« emploi assurable » figurant à l’alinéa 5(1)a) de la LAE est rédigée ainsi :
+5 (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+[12] L’alinéa 6(1)a) du RPC énonce qu’un emploi ouvrant droit à pension est un emploi au Canada qui n’est pas un emploi excepté. Le terme « emploi excepté » n’est pas pertinent dans les présents appels. Le terme « emploi » est défini au paragraphe 2(1) comme suit :
+emploi L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction.
+[13] Pour qu’il y ait un emploi assurable en vertu de la LAE ou un emploi ouvrant droit à pension en application du RPC, il doit y avoir un emploi ou un contrat de louage de services. Si les travailleurs étaient des entrepreneurs indépendants ou avaient un contrat d’entreprise avec l’appelante, ils n’exerçaient pas un emploi assurable ou ouvrant droit à pension.
+V. LES PRINCIPALES DÉCISIONS
+[14] La question centrale pour déterminer si une personne est un employé ou un entrepreneur indépendant porte à savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne exploitant une entreprise à son propre compte [8] . Ce critère est souvent décrit comme trompeusement simple à énoncer, mais difficile à appliquer [9] .
+[15] Les principaux arrêts sur cette question sont l’arrêt de la Cour suprême du Canada 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. (« Sagaz ») ainsi que les arrêts de la Cour d’appel fédérale Wiebe Door Services Ltd. c. M.R.N. (« Wiebe Door ») et 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National). Dans l’arrêt Sagaz, la Cour suprême a entrepris un examen détaillé de la distinction entre un employé et un entrepreneur indépendant, et a approuvé l’examen du droit pertinent et les conclusions de la Cour d’appel fédérale dans l’arrêt Wiebe Door. Dans l’arrêt Wiebe Door, la Cour d’appel fédérale a conclu qu’il n’existe pas de critère unique et concluant pour déterminer si une personne est un employé ou un entrepreneur indépendant; la relation globale des parties est examinée à la lumière de divers facteurs établis dans la jurisprudence. Dans l’arrêt Wiebe Door, la Cour d’appel fédérale a recensé certains facteurs clés.
+[16] Comme l’a indiqué la Cour d’appel fédérale dans l’arrêt Connor Homes, les facteurs à prendre en compte peuvent varier, mais certains facteurs seront généralement pertinents. Il s’agit notamment du degré de contrôle que l’employeur exerce sur les activités du travailleur, ainsi que de la question de savoir si le travailleur fournit son propre équipement, s’il engage ses propres aides, s’il gère et assume les risques financiers et s’il a la possibilité de réaliser des bénéfices dans l’exécution de ses tâches [10] .
+[17] Ces facteurs (souvent appelés facteurs exposés dans l’arrêt Wiebe Door) ne sont pas exhaustifs, et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits de l’affaire [11] .
+[18] Dans l’arrêt Connor Homes, la Cour d’appel fédérale a également abordé le rôle de l’intention commune des parties. La Cour a adopté un processus en deux étapes pour répondre à la question centrale de savoir si une personne est un employé ou un entrepreneur indépendant. La première étape de l’analyse consiste à déterminer s’il y a chez les parties une entente ou une intention commune touchant leur relation. Lorsqu’une telle intention commune est constatée, la deuxième étape consiste à analyser les faits de l’espèce pour déterminer si la réalité objective de la situation soutient l’intention des parties et est conforme à celle-ci. Lors de cette deuxième étape, les facteurs exposés dans l’arrêt Wiebe Door sont appliqués [12] .
+VI. LES THÈSES DES PARTIES
+A. Thèse de l’appelante
+[19] L’appelante prétend que les travailleurs étaient des entrepreneurs indépendants et qu’il n’y a aucune raison de traiter différemment un travailleur particulier dans les appels.
+[20] L’appelante prétend que WCT et les travailleurs partageaient une intention commune, à savoir que les travailleurs étaient des entrepreneurs indépendants.
+[21] La thèse de l’appelante quant aux facteurs exposés dans l’arrêt Wiebe Door est la suivante : [traduction]
+a) l’appelante n’avait pas le droit de contrôler les travailleurs, mais il les surveillait pour s’assurer que le produit fini serait conforme à la conception approuvée pour un projet;
+c) les « autres facteurs », notamment la sous-traitance ou l’embauche d’adjoints, la possibilité de faire un profit ou de subir une perte, le risque financier et la responsabilité de l’investissement et de la gestion, ont peu de poids dans l’analyse globale en raison de la nature hautement spécialisée du travail effectué.
+b) les travailleurs ont utilisé leurs propres outils pour la majorité des travaux qu’ils ont effectués pour l’appelante;
+[22] Dans l’évaluation des facteurs exposés dans l’arrêt Wiebe Door, l’appelante prétend que le degré de contrôle exercé par l’appelante est nettement inférieur à ce qui a été constaté dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national) [13] et que, de la même façon, les travailleurs en l’espèce exerçaient leurs activités aux termes d’un contrat d’entreprise.
+B. Thèse de l’intimé
+[23] L’intimé prétend que les travailleurs étaient des employés de WCT et que, même si l’intention subjective d’un travailleur particulier quant à la nature de son engagement par WCT peut différer, il n’y a pas de raison de traiter différemment un travailleur particulier dans les appels.
+[24] L’intimé fait valoir que l’appelante et les travailleurs n’avaient aucune intention commune quant à la nature juridique de leur relation.
+[25] La thèse de l’intimé quant aux facteurs exposés dans l’arrêt Wiebe Door est la suivante : [traduction]
+a) l’appelante avait le contrôle sur les travailleurs et l’exerçait souvent;
+b) l’appelante a fourni un atelier, des outils, des équipements et des matériaux aux travailleurs;
+c) les travailleurs n’avaient aucune chance de faire des profits parce qu’ils étaient payés à l’heure et ne pouvaient pas sous-traiter,
+d) les travailleurs n’avaient aucun risque de subir une perte, car l’appelante supportait le risque d’annulation de projets ou de corrections des travaux.
+[26] L’intimé fait valoir que même si la Cour conclut que l’appelante et l’un ou l’autre des travailleurs s’entendaient sur le statut d’entrepreneur indépendant, cette intention est contrebalancée par les faits objectifs.
+VII. DISCUSSION
+A. Intention ou entente commune des parties
+[27] Comme l’a fait remarquer la Cour d’appel fédérale dans l’arrêt Connor Homes, l’intention des parties peut être déterminée par un contrat écrit que les parties ont conclu ou par le comportement de chaque partie [14] .
+[28] L’appelante et les travailleurs n’ont pas conclu de contrat écrit [15] . Je dois donc fonder mes conclusions sur le témoignage des témoins et sur d’autres éléments de preuve. Comme l’a indiqué la Cour d’appel fédérale dans l’arrêt Connor Homes, l’intention des parties pourrait être révélée par les factures des services rendus, l’inscription d’un travailleur aux fins de la TPS et les déclarations d’impôt sur le revenu d’un travailleur en tant qu’entrepreneur indépendant [16] .
+[29] Bill Terezakis a témoigné qu’il n’avait pas discuté avec les travailleurs de leur statut, mais que [traduction] « [t]outes les personnes savaient » qu’il s’agissait d’une relation d’entrepreneur indépendant avant leur embauche, en raison de la nature de l’industrie [17] . Le travail de WCT était axé sur les projets. Le nombre de projets que l’appelante avait à un moment donné et leur portée étaient variables; les projets pouvaient être annulés ou modifiés. M. Terezakis a également témoigné que le comptable de l’appelante informait les travailleurs du fonctionnement du système et de la responsabilité des travailleurs quant à leurs propres impôts [18] . Bruce Houston a confirmé que, pour travailler pour WCT, les travailleurs devaient soumettre des feuilles de temps et des factures et ils devaient détenir un numéro de TPS [19] . Les feuilles de temps fournies par l’appelante portaient la mention [traduction] « Feuilles de temps des entrepreneurs ». Le formulaire de facture comportait une ligne pour inscrire le numéro d’enregistrement de la TPS et une ligne pour inscrire le pourcentage de la TPS (5 %). La preuve établit que l’appelante avait l’intention d’embaucher les travailleurs en tant qu’entrepreneurs indépendants.
+[30] Ensuite, j’examine les perspectives des travailleurs.
+[31] Brittney Bolzon a témoigné qu’avant d’être embauchée par l’appelante, elle savait qu’elle serait engagée en tant qu’entrepreneuse indépendante [20] . Mme Bolzon n’était pas inscrite aux fins de la TPS pendant la période; elle s’est inscrite en décembre 2016, une fois qu’elle a dépassé le seuil monétaire pertinent. Mme Bolzon a fourni des feuilles de temps et des factures à l’appelante. Elle a déclaré les sommes reçues de l’appelante en tant que revenu brut d’entreprise dans sa déclaration d’impôt de 2016 et a déclaré des frais professionnels, notamment l’utilisation d’une chambre-studio à son domicile. Elle tenait un grand livre et le donnait à son comptable pour préparer sa déclaration d’impôt.
+[32] La déclaration d’intention ex post facto de Mme Bolzon concernant la période est conforme aux manifestations objectives de sa compréhension pendant la période. J’ai conclu que Mme Bolzon et l’appelante avaient une intention ou une entente commune que Mme Bolzon était engagée en tant qu’entrepreneuse indépendante.
+[33] Bruce Houston a témoigné qu’il se considérait comme un employé de WCT pendant la période [21] . Sa déclaration dans le questionnaire de l’ARC est conforme à son témoignage [22] . Il a comparé son travail chez WCT à un travail similaire qu’il a effectué pour Healy FX Studios, en tant que sous-traitant; il a déclaré que dans son rôle chez Healy FX Studios, il avait une autonomie complète sur ce qu’il faisait, le moment où il effectuait son travail et comment il l’effectuait. Il a acheté des matériaux, investi dans des outils et payé un espace de travail où les travaux pouvaient être effectués [23] . En revanche, lorsqu’il travaillait pour WCT, [traduction] « tout ce que je faisais, c’était de me présenter au studio pour travailler. Aller à mon poste de travail, et faire le travail que l’on attendait de moi » [24] . Après la fermeture de WCT en 2020 en raison de la pandémie de COVID-19, M. Houston a travaillé essentiellement [traduction] « à temps plein » pour Amazing Ape Productions en tant qu’entrepreneur indépendant et a ensuite travaillé sur quelques projets pour l’appelante, également en tant qu’entrepreneur indépendant [25] .
+[34] Nonobstant la déclaration de M. Houston selon laquelle il se considérait comme un employé de WCT pendant la période, certains comportements de l’époque sont difficiles à concilier. M. Houston était inscrit aux fins de la TPS et percevait la TPS sur les sommes versées par WCT. M. Houston a témoigné qu’il comprenait qu’il avait besoin d’un numéro de TPS pour être payé [26] , mais aussi qu’en tant que [traduction] « propriétaire unique », il était tenu par la loi de percevoir la TPS [27] . Comme les autres travailleurs, M. Houston a soumis des feuilles de temps bihebdomadaires intitulées [traduction] « Feuilles de temps des entrepreneurs » et des factures pour les services rendus.
+[35] M. Houston a déposé ses déclarations de revenus 2015 et 2016 en considérant qu’il exploitait une entreprise en tant que propriétaire unique. Sur les conseils de son comptable, il a demandé des déductions de son revenu d’entreprise, notamment des dépenses de véhicule et des dépenses d’outils et d’équipement liées à son travail pour WCT [28] .
+[36] La déclaration d’intention ex post facto de M. Houston concernant la période doit être évaluée par rapport à ses actions durant la période. J’estime que les manifestations objectives d’intention au cours de la période permettent de conclure que lorsque M. Houston a accepté de fournir des services à l’appelante, il comprenait qu’il était engagé en tant qu’entrepreneur indépendant – bien qu’il ait pu croire que certains facteurs indiquaient une relation d’emploi. Par conséquent, je juge que M. Houston et l’appelante avaient une intention ou une entente commune que M. Houston était engagé en tant qu’entrepreneur indépendant.
+[37] Amélie Soucy, Kiana Larson et Christina Renaud n’ont pas témoigné. Les factures soumises par Christina Renaud comportaient un numéro d’inscription à la TPS [29] ; les factures soumises par Kiana Larson et Amélie Soucy n’en comportaient pas [30] . Il est possible qu’aucune des deux n’ait atteint le seuil monétaire pour l’inscription à la TPS. Les trois travailleuses ont soumis des factures toutes les deux semaines pour les services rendus, ainsi que des feuilles de temps portant la mention [traduction] « Feuilles de temps des entrepreneurs ». Les trois travailleuses ont rempli leur déclaration d’impôts pendant la période en déclarant avoir reçu des revenus d’entreprise. Aucune preuve n’indique que l’une de ces travailleuses avait l’intention d’être une employée de l’appelante.
+[38] Dans ses réponses, le ministre n’a fait aucune supposition quant à l’intention de l’appelante ou de l’un ou l’autre des travailleurs. Bien que les éléments de preuve concernant plus précisément l’intention de ces trois travailleuses soient limités, ils comprennent les éléments invoqués dans l’arrêt Connor Homes comme étant pertinents, soit les factures, l’enregistrement aux fins de la TPS (dans un cas) et la manière de remplir les déclarations de revenus. Je juge que ces trois travailleuses avaient également une intention ou une entente commune avec l’appelante qu’elles étaient engagées en tant qu’entrepreneuses indépendantes.
+[39] Après avoir conclu à l’existence d’une intention ou d’une entente mutuelle selon laquelle les travailleurs ont été embauchés en tant qu’entrepreneurs indépendants, j’examine les facteurs exposés dans l’arrêt Wiebe Door relatifs à la prestation de services par les travailleurs et je vérifie si les faits objectifs, tout bien pesé, soutiennent cette intention ou entente commune et s’ils sont compatibles avec celle-ci. Cette seconde étape consiste à établir si la relation que les parties ont nouée est, sur le plan juridique, une relation d’entrepreneurs indépendants ou d’employeur à employé [31] .
+[40] Comme l’a fait remarquer la Cour d’appel fédérale dans l’arrêt Connor Homes, la nature juridique de la relation entre les parties n’est pas déterminée en fonction de la déclaration d’intention des parties. Cette détermination doit aussi se fonder sur une « réalité objective et vérifiable » [32] .
+B. Facteurs exposés dans l’arrêt Wiebe Door
+[41] J’ai pris en compte le degré de contrôle que WCT exerçait sur les activités des travailleurs, la propriété des outils ou de l’équipement nécessaires à l’exécution du travail, le fait que les travailleurs engageaient ou non leurs propres aides, et le degré de risque financier et de possibilité de profit.
+(1) Le degré de contrôle
+[42] Le facteur de contrôle porte sur la nature de la relation entre le payeur et le bénéficiaire. Un contrat de travail entraîne un lien de subordination [33] .
+[43] La Cour d’appel fédérale dans l’arrêt Wolf c. Canada [34] décrit le critère du « contrôle » ainsi :
+Le critère de contrôle, comme on le désigne communément, consiste à se demander qui contrôle le travail et comment, et quand et où cela doit être fait. En théorie, si le travailleur a un contrôle total sur l’exécution de son travail une fois qu’il lui a été attribué, ce facteur pourrait faire que le travailleur est un entrepreneur indépendant. Par ailleurs, si l’employeur contrôle en fait l’exécution du travail ou a le pouvoir de contrôler la façon dont l’employé exécute ses fonctions (Gallant c. Canada (Ministère du Revenu national) (C.A.F.), [1986] A.C.F. nº 330 (Q.L.), le travailleur sera considéré comme un employé.
+[44] M. Terezakis était le président de WCT et contrôlait les activités quotidiennes. Il était l’entreprise. Compte tenu du critère de contrôle exposé dans l’arrêt Wolf, j’ai examiné si l’appelante, et plus particulièrement Bill Terezakis, contrôlait « comment, et quand et où » les tâches assignées aux travailleurs étaient exécutées.
+(i) Contrôle du moment où le travail était effectué – Calendrier
+[45] M. Terezakis a témoigné que les travailleurs étaient autorisés et encouragés à travailler dans d’autres ateliers [35] . Si WCT n’avait pas de projet adapté à un travailleur particulier, M. Terezakis s’attendait à ce que ce dernier trouve du travail dans un atelier d’effets spéciaux de maquillage qui en avait [36] . Brittney Bolzon a témoigné qu’elle pouvait refuser de travailler sans conséquence, si ce n’est de ne pas être payée, et qu’il lui était arrivé de refuser de travailler à l’occasion [37] . Bruce Houston a estimé qu’il ne pouvait pas refuser de travailler; il craignait que le fait de refuser de travailler ne compromette sa capacité à obtenir du travail futur de la part de WCT [38] . Bruce Houston a aimé travailler pour WCT parce que l’entreprise avait une solide réputation pour la qualité de son travail et une offre de travail régulière [39] . Il avait également noué une forte relation de travail avec Bill Terezakis; il tirait de sa collaboration avec WCT [traduction] une « une liberté et un épanouissement » qu’il ne trouvait pas dans d’autres ateliers [40] .
+[46] Au cours de cette période, Brittney Bolzon (à partir du moment où elle a commencé à travailler) et Bruce Houston ont travaillé presque exclusivement pour WCT, bien que M. Houston ait enseigné à l’école de cinéma de Vancouver et ait peut-être aussi travaillé pour Healy FX Studios. Christina Renaud a travaillé pour d’autres ateliers d’effets spéciaux pendant la période et a été instructrice principale à la Vancouver Film School [41] . Amélie Soucy venait de terminer l’école de cinéma lorsqu’elle a commencé à travailler pour l’appelante, et Kiana Larson a travaillé un nombre limité d’heures pendant la période, car elle était encore à l’école. Il n’y a eu aucun élément de preuve quant à savoir si Mme Soucy ou Mme Larson ont travaillé ailleurs que pour l’appelante pendant la période pertinente.
+[47] J’ai conclu que les travailleurs pouvaient accepter ou refuser de travailler pour WCT et étaient libres de travailler pour d’autres ateliers de production d’effets spéciaux de maquillage, bien que tous les travailleurs n’aient pas choisi de le faire pendant la période.
+[48] Les travailleurs n’étaient pas tenus d’informer M. Terezakis de leur absence. À plusieurs reprises, M. Terezakis n’a pas eu de nouvelles d’un travailleur pendant plusieurs jours. Les travailleurs informaient M. Terezakis de leur absence par simple courtoisie.
+[49] Les travailleurs n’avaient pas d’horaire de travail fixe, mais ils travaillaient habituellement une journée de travail normale, en fonction des heures d’ouverture de l’atelier de l’appelante. L’atelier était généralement ouvert de 9 h à 18 h et était autrement verrouillé. Les travailleurs n’avaient pas de clé pendant la période, bien que Bruce Houston et Brittney Bolzon en aient finalement obtenu une chacun. Bien que les travailleurs aient souvent une journée de travail normale, ils pouvaient aller et venir à leur guise, prendre un après-midi de congé ou ne pas se présenter du tout, à la condition d’exécuter leur travail à temps.
+[50] Les travailleurs n’étaient pas tenus de travailler sur des tâches ou des projets particuliers à tout moment. Les travailleurs étaient toutefois responsables de l’exécution des tâches qui leur étaient confiées dans les délais imposés par les clients de l’appelante.
+[51] Les travailleurs n’étaient pas tenus d’effectuer un nombre fixe d’heures, mais ils inscrivaient leurs heures, y compris leur affectation à des projets particuliers, sur des feuilles de temps. Les feuilles de temps étaient nécessaires pour que les travailleurs puissent préparer les factures et pour que l’appelante puisse utiliser les enseignements à des fins budgétaires.
+[52] Je juge que le contrôle que les travailleurs exerçaient sur leur emploi du temps – en ce qui concerne la décision d’accepter ou non des projets particuliers, la liberté de travailler pour d’autres ateliers et leur capacité à déterminer quand ils travaillaient sur des projets particuliers (sous réserve des contraintes mentionnées) – était plus conforme à une relation d’entrepreneur indépendant qu’à une relation d’employeur à employé. Le fait que certains des travailleurs ont choisi de travailler presque exclusivement avec l’appelante pendant la période ne modifie pas cette conclusion.
+(ii) Contrôle de l’endroit où le travail était effectué
+[53] La grande majorité des travaux étaient effectués dans l’atelier de l’appelante. Cela s’explique par plusieurs motifs. Le projet a été réalisé en collaboration et a nécessité une coordination avec d’autres travailleurs. M. Terezakis voulait voir le projet au fur et à mesure qu’il prenait forme. De plus, les sociétés de production avaient insisté pour que la conception des projets reste confidentielle. Bien que certaines tâches aient pu être effectuées au domicile d’un travailleur, cela se produisait rarement.
+[54] Le fait que les travaux étaient généralement effectués pendant les heures normales de travail et dans l’atelier de l’appelante ne permet pas nécessairement de conclure que les travailleurs étaient des employés. Étant donné la nature spécialisée du travail, la nécessité d’interagir avec d’autres personnes et les préoccupations en matière de confidentialité concernant les projets, on s’attendrait à ce que des contraintes similaires s’appliquent, que le travailleur soit un entrepreneur indépendant ou un employé [42] . Je trouve que les contraintes imposées sur le lieu d’exécution des tâches des travailleurs n’indiquent pas clairement l’un ou l’autre type de relation.
+(iii) Contrôle de la façon dont le travail était effectué – Subordination ou coordination?
+[55] En examinant la façon dont le travail était effectué, j’ai cherché à savoir si le lien entre les travailleurs et l’appelante était un lien de subordination ou de coordination. D’une part, les travailleurs étaient des artistes qualifiés, chacun embauché pour son domaine d’expertise particulier, ce que M. Terezakis respectait. D’autre part, M. Terezakis était responsable en dernier ressort de s’assurer que des résultats en matière de qualité étaient fournis aux clients de l’appelante, de surveiller le travail effectué dans l’atelier; il avait en outre doté son entreprise de normes élevées.
+[56] Il existe une distinction importante entre le contrôle du résultat ou de la qualité du travail et le contrôle de l’exécution du travail par le travailleur. La Cour d’appel fédérale donne l’explication suivante dans son arrêt Canada (Procureur général) c. Charbonneau : [43]
+[. . .] Rares sont les donneurs d’ouvrage qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[57] M. Terezakis a joué un rôle central dans l’exécution des travaux et l’achèvement de tous les projets. Il lisait le scénario, établissait un budget pour la main-d’œuvre et les matériaux, concevait les constructions, les personnages et les effets spéciaux, et organisait le travail des travailleurs pour respecter les spécifications et les délais du client. Même si les travailleurs partaient d’un dessin produit par M. Terezakis, il y a eu une collaboration sur la façon dont la construction était exécutée. Chaque travailleur avait un ensemble de compétences particulières qu’il mettait au service du processus. M. Houston, un sculpteur expérimenté, a décrit son travail avec M. Terezakis comme une [traduction] « dynamique à trois étroitement liée entre moi, Bill et la sculpture » [44] et a affirmé qu’ils étaient [traduction] « comme deux frères qui se chamaillent tout le temps » [45] .
+[58] M. Terezakis est resté impliqué tout au long de l’exécution de la construction. Les travailleurs devaient obtenir son approbation avant que les moules définitifs ne soient réalisés et que le travail assigné ne soit achevé. M. Terezakis partageait son temps entre l’atelier et le plateau. Il passait du temps dans l’atelier pour s’assurer que tout se passait bien, mais il ne [traduction] « faisait pas de gardiennage » auprès des artistes [46] . L’appelante ne dictait pas la méthode ou la technique utilisée pour produire le résultat; cela dépendait de l’artiste concerné [47] . M. Terezakis informait les travailleurs de tout changement artistique, par exemple, si un travailleur avait une idée fausse de ce qui était requis pour le projet [48] .
+[59] L’appelante s’appuie sur la décision de la Cour d’appel fédérale dans l’arrêt Royal Winnipeg Ballet et prétend que le contrôle exercé par l’appelante sur les travailleurs était loin d’être aussi étendu que le contrôle exercé par le Royal Winnipeg Ballet sur ses danseurs.
+[60] Dans l’arrêt Royal Winnipeg Ballet, les juges majoritaires de la Cour d’appel fédérale ont renversé la décision de la Cour canadienne de l’impôt et ont conclu que les danseurs embauchés par le Royal Winnipeg Ballet étaient des entrepreneurs indépendants. Les juges majoritaires de la Cour d’appel fédérale ont estimé que, malgré le contrôle « étroit » exercé par le Royal Winnipeg Ballet sur ses danseurs, il ne dépassait pas « ce qu’exige la présentation d’une série de ballets pendant une saison de spectacles bien planifiée ». Par conséquent, le degré de contrôle n’a pas été considéré comme incompatible avec l’intention commune des parties selon laquelle les danseurs étaient des entrepreneurs indépendants [49] .
+[61] Je n’ai pas établi si le contrôle exercé par WCT ou M. Terezakis sur les travailleurs était aussi « étroit » que le contrôle exercé sur les danseurs du Royal Winnipeg Ballet, car il ne s’agit là que d’un facteur considéré comme pertinent par la Cour d’appel fédérale. De même, en l’espèce, de nombreux autres facteurs entrent en jeu. Toutefois, j’ai tenu compte des orientations de la Cour d’appel fédérale sur l’application du critère du « contrôle » aux artistes et de la détermination selon laquelle le contrôle nécessaire pour monter une production n’est pas nécessairement incompatible avec le fait que les artistes sont des entrepreneurs indépendants.
+[62] Dans l’arrêt Royal Winnipeg Ballet, le contrôle étroit exercé par le Royal Winnipeg Ballet sur ses danseurs comprenait des décisions concernant les répétitions, les ballets présentés, les heures et les dates des spectacles, les costumes portés, la chorégraphie et la direction artistique. La Cour a observé que, même si un danseur n’est pas libre d’interpréter le rôle qui lui est attribué d’une manière qui s’écarte de la chorégraphie ou de la vision du directeur artistique, il contribue néanmoins à son expression artistique unique dans une production résultant d’une collaboration artistique.
+[63] Un raisonnement similaire a prévalu dans des affaires concernant d’autres travailleurs créatifs et artistes [50] . Par exemple, dans la décision On Masse Inc., la Cour a examiné le statut d’un artiste de texture fournissant des services à une société de production d’animation engagée pour travailler sur un projet d’animation particulier. En concluant que l’appelant était un entrepreneur indépendant, la Cour a estimé que le niveau de contrôle exercé sur le travailleur était inférieur à celui imposé aux danseurs dans l’arrêt Royal Winnipeg Ballet.
+[64] Dans la décision MWW Enterprises Inc. c. M.R.N. [51] , la Cour a examiné le statut de divers travailleurs embauchés pour travailler à la production d’une émission de télévision de l’appelante. La Cour a invoqué l’analyse qu’a faite le juge de première instance dans la décision Productions Petit Bonhomme Inc. [52] relativement à la question du contrôle. Dans la décision Productions Petit Bonhomme Inc., il a également été question du statut des travailleurs dans la production d’émissions de télévision. Le juge de première instance a fait remarquer que la production d’une émission de télévision est un travail d’équipe, le résultat des idées, du talent, de la créativité et du savoir-faire apportés par chaque professionnel sous le contrôle ultime d’un producteur. Comme cela se passe dans une atmosphère de collaboration entre professionnels, cela correspond à une relation d’entrepreneurs indépendants [53] .
+[65] L’appelante a exercé une supervision et un contrôle sur la façon dont les constructions étaient exécutées. Cependant, je juge que cela était conforme au contrôle nécessaire pour produire un produit final qui respectait les délais et les attentes des clients de l’appelante. Cela ne signifie pas que l’appelante contrôlait la façon dont les travailleurs accomplissaient les tâches qui leur étaient assignées. Ces tâches étaient assignées selon leurs compétences, et le produit final était en dernier ressort le résultat des diverses expressions artistiques des travailleurs.
+[66] En résumé, j’ai examiné la mesure dans laquelle l’appelante contrôlait « comment, et quand et où » les tâches assignées aux travailleurs étaient exécutées. Si certains éléments sont évocateurs d’un lien d’employeur à employé, des facteurs plus importants vont dans le sens contraire. J’ai conclu que, tout bien pesé, le facteur de contrôle appuie la qualification des travailleurs à titre d’entrepreneurs indépendants.
+(2) Propriété des instruments de travail
+[67] Ce facteur prend en compte le propriétaire de l’équipement ou des instruments nécessaires à l’exécution du travail. La fourniture d’outils aux travailleurs est généralement considérée comme reflétant une relation d’emploi. À l’inverse, si les travailleurs possèdent les instruments de travail, ils sont plus susceptibles d’être considérés comme des entrepreneurs indépendants. Lorsque les outils sont fournis par les deux parties, une analyse plus approfondie est nécessaire.
+[68] Par exemple, dans l’arrêt Precision Gutters c. Canada (Ministre du revenu national) [54] , la Cour d’appel fédérale a déterminé que les travailleurs qui installaient des gouttières d’immeuble et qui possédaient leurs propres « profils de gouttière » étaient des entrepreneurs indépendants, malgré la fourniture d’outils spécialisés par le prétendu employeur. La Cour a jugé que lorsqu’un travailleur possède des instruments de travail qu’il est raisonnable pour lui de posséder, cela indique son statut d’entrepreneur indépendant même si l’employeur présumé fournit des outils particuliers.
+[69] Dans la décision European Staffing Inc. c. M.R.N., la Cour canadienne de l’impôt a conclu que le fait de fournir du matériel de soudage coûteux et spécialisé aux travailleurs indiquait l’existence d’une relation d’emploi [55] . Bien que les travailleurs aient fourni des outils de base, la Cour a estimé que cela ne contredisait pas les indices d’un lien d’emploi, car cela était probablement dû à la préférence ou au confort des travailleurs. Des conclusions similaires ont été tirées dans les décisions de la Cour canadienne de l’impôt, notamment Morris Meadows Country Holidays and Seminars Ltd. c. M.R.N. [56] et AE Hospitality Ltd. c. M.R.N. [57] .
+[70] L’appelante fournissait l’atelier où tous les travailleurs effectuaient la quasi-totalité de leur travail. L’atelier était un grand entrepôt avec des postes de travail et des zones désignées pour les différentes étapes d’un projet. Par exemple, il y avait une « chambre chaude » avec une ventilation pour les produits chimiques dangereux, une zone pour les produits en silicone et une zone pour la peinture.
+[71] L’appelante fournissait des outils lourds et des outils plus petits qui pouvaient être utilisés par les travailleurs. Il s’agissait notamment d’un four de gélification, de ciseaux, de marteaux, de tournevis, de machines à coudre, d’outils électriques et de scies. Bruce Houston a témoigné qu’un sculpteur professionnel expérimenté comme lui n’irait pas chercher un coffre d’[traduction] « outils génériques » pour faire son travail [58] ; Bruce Houston a fourni ses propres outils de sculpture. Brittney Bolzon, qui a travaillé dans le domaine du silicone et des prothèses, a fourni ses propres outils de couture.
+[72] L’appelante mettait à disposition la quasi-totalité des fournitures et des matières premières pour les projets. L’appelante pouvait acheter des fournitures en gros, à prix réduit, ce qui permettait de maintenir les projets dans les limites des budgets. L’appelante n’a pas facturé les travailleurs pour l’utilisation de l’atelier, pour l’utilisation, la réparation ou l’entretien de tout outil fourni par elle ou pour la fourniture de matériaux.
+[73] L’intimé prétend que la fourniture par l’appelante d’un espace de travail, d’outils et de fournitures l’emporte sur la fourniture par les travailleurs de leurs propres petits outils. Je ne suis pas d’accord. Se fonder sur le coût relatif des outils fournis ou sur le fait que les travailleurs [traduction] « pouvaient » utiliser les outils fournis par l’appelante ne constitue pas une reconnaissance suffisante du métier des travailleurs. Les travailleurs étaient embauchés pour leurs compétences uniques, exprimées par l’utilisation de leurs outils personnels.
+[74] Compte tenu de la fourniture d’outils tant par l’appelante que par les travailleurs, j’estime que le facteur « outils » est neutre et qu’il n’est donc pas révélateur d’une relation d’emploi ou d’entrepreneurs indépendants.
+(3) Embauche d’aides
+[75] Les travailleurs ont été embauchés pour faire le travail eux-mêmes. Ils ne pouvaient pas sous-traiter ou engager des adjoints ou des aides. Si des adjoints ou des aides étaient nécessaires, l’appelante les embauchait. L’intimé fait valoir que cela indique le statut d’employé puisque les travailleurs ne pouvaient pas tirer profit de la sous-traitance. Je ne suis pas de cet avis. Cette contrainte peut s’expliquer par le fait que chaque travailleur a été embauché par l’appelante pour son expertise particulière. J’estime que l’impossibilité d’embaucher des aides ne justifie ni le statut d’employé ni celui d’entrepreneur indépendant.
+(4) Possibilité de profit et risque de perte
+[76] Pour déterminer si le travailleur est une « personne exploitant une entreprise à son propre compte », le facteur concernant la possibilité de réaliser des profits et de subir des pertes est pertinent. Ce sont des caractéristiques essentielles du fait d’être un entrepreneur.
+(i) Possibilité de profit
+[77] Les travailleurs étaient rémunérés à l’heure à un taux négocié avec l’appelante, en fonction de l’expérience et des compétences de chacun. Les travailleurs étaient également rémunérés pour les heures supplémentaires travaillées au-delà d’un certain seuil et recevaient occasionnellement des primes, si le budget d’un projet le permettait.
+[78] La rémunération horaire est considérée comme une indication d’un lien d’emploi. Le raisonnement est le suivant : les travailleurs rémunérés à l’heure ne peuvent pas réaliser davantage de « profits » en appliquant des pratiques de gestion saines ou trouvant des manières plus efficientes d’accomplir leurs tâches [59] . Si un travailleur rémunéré à l’heure peut faire plus d’heures pour gagner plus d’argent, on considère que cela n’équivaut pas à une possibilité de réaliser des profits [60] .
+[79] Les conditions de paiement des travailleurs sur les projets réalisés pour l’appelante ressemblent à celles d’employés rémunérés à l’heure. Bien qu’un travailleur puisse, en théorie, négocier un taux horaire plus élevé, je ne pense pas qu’il s’agisse d’une possibilité de profit significative.
+[80] L’analyse pourrait s’arrêter là si les travailleurs s’étaient engagés à travailler exclusivement pour WCT, mais ils ne l’ont pas fait. Les travailleurs pouvaient effectuer du travail en dehors de WCT, y compris travailler pour d’autres ateliers d’effets spéciaux; M. Terezakis a affirmé que cela était encouragé. À cet égard, les travailleurs avaient la possibilité de [traduction] « réaliser des profits » en générant des revenus de différentes sources, vraisemblablement à des taux qu’ils pouvaient négocier.
+[81] Cette pratique ne semble pas avoir été très répandue au cours de la période, car WCT a connu du succès et a fourni du travail de façon régulière [61] . M. Houston et Mme Bolzon ont tous deux affirmé qu’ils travaillaient au moins 40 heures par semaine pour WCT [62] . M. Houston a pu travailler pour une autre société d’effets spéciaux (Healy FX Studios), bien qu’il ait tiré la quasi-totalité de ses revenus de l’appelante au cours de la période. Christina Renaud a travaillé pour d’autres ateliers pendant la période et a également enseigné à la Vancouver Film School. Il n’y a eu aucun élément de preuve quant à savoir si Kiana Larson ou Amélie Soucy ont gagné des revenus d’autres sources pendant la période pertinente.
+[82] Le fait que les travailleurs avaient la liberté de travailler pour d’autres ateliers, et que certains l’ont fait, fait fortement pencher la balance du côté du statut d’entrepreneur indépendant. Un entrepreneur indépendant typique est à la disposition de quiconque est prêt à le rémunérer pour ses services. Le fait que certains travailleurs ont tiré de l’appelante la quasi-totalité de leurs revenus au cours de la période ne remet pas nécessairement en cause cette conclusion; il est important d’examiner pourquoi cela s’est produit.
+[83] Comme Bruce Houston l’a déclaré, il y avait de nombreuses raisons de préférer travailler auprès de WCT plutôt qu’auprès d’autres ateliers. WCT avait la réputation de fournir un travail de qualité et une offre régulière d’emploi. M. Houston aimait sa relation de travail avec M. Terezakis. J’en déduis que si certains travailleurs ont pu choisir de travailler substantiellement ou exclusivement pour WCT au cours de la période, ce n’était pas parce que l’appelante et les travailleurs avaient établi une relation de travail engagée. L’appelante n’a pas garanti aux travailleurs la sécurité d’emploi. Les travailleurs sont restés libres de fournir leurs services à d’autres.
+[84] Le choix d’un travailleur de travailler exclusivement avec l’appelante peut avoir limité les possibilités de réaliser des profits pour ce travailleur (à un taux horaire fixe provenant d’une seule source). Cela ne signifie pas que la possibilité de faire des profits n’existait pas, comme c’était le cas pour les travailleurs qui n’ont pas fait ce choix. La liberté d’exécuter des services pour d’autres fournit la possibilité de réaliser des profits.
+[85] Tout bien pesé, j’ai conclu que les travailleurs avaient la possibilité de faire des profits, ce qui appuie la qualification des travailleurs en tant qu’entrepreneurs indépendants.
+(ii) Risque de pertes
+[86] Les travailleurs n’ont pas reçu de l’appelante de rémunération des jours fériés, de vacances ou de congés de maladie, ni de soins dentaires ou médicaux; ces prestations sont courantes dans une relation de travail. Le risque associé au fait de ne pas bénéficier de ces avantages est révélateur d’un statut d’entrepreneur indépendant.
+[87] Une fois le projet lancé, les travailleurs étaient payés à leur taux horaire dans la plupart des cas. Si un projet était annulé, les travailleurs étaient payés pour leurs heures travaillées jusqu’à ce moment-là [63] . Si un travailleur devait refaire un projet, il était généralement payé pour le temps passé à corriger le travail. Ces limitations du risque de perte indiquent un statut d’emploi.
+[88] L’analyse pourrait s’arrêter là si WCT s’était engagée à fournir aux travailleurs du travail à temps plein, mais elle ne l’a pas fait. L’appelante n’a pas garanti un nombre fixe d’heures ou de projets, ni indiqué que l’engagement d’un travailleur était d’une durée illimitée. Compte tenu de la nature du secteur, axé sur les projets, cela se comprend aisément. Le nombre de projets que l’appelante avait en cours à un moment donné pouvait varier. Les projets pouvaient durer de quelques heures à plusieurs mois. Chaque projet était confié à une équipe d’artistes en fonction de l’ampleur du projet et des compétences requises. On peut supposer qu’il serait difficile de prévoir longtemps à l’avance le besoin de l’appelante d’embaucher des travailleurs particuliers.
+[89] Ce contexte explique pourquoi l’appelante a choisi d’embaucher des travailleurs parce qu’ils étaient des entrepreneurs indépendants. Le contexte indique également le risque pour les travailleurs que le flux de travail soit inégal en fonction de l’offre de projets de l’appelante et de la recherche de compétences particulières. Les travailleurs n’étaient pas rémunérés lorsqu’ils ne fournissaient pas de services à l’appelante. Si le flux de projets de l’appelante se tarissait ou si les spécifications d’un projet ne correspondaient pas aux compétences d’un travailleur, ce dernier supportait les conséquences financières du fait de ne pas être embauché. Ce risque financier fait pencher la balance du côté du statut d’entrepreneur indépendant.
+[90] Brittney Bolzon et Bruce Houston ont témoigné qu’il y avait suffisamment de travail pour les occuper à temps plein pendant la période. Tous deux ont choisi de travailler presque exclusivement pour l’appelante pendant la période. Ce que n’a pas fait Christina Renaud. Bien que le risque financier de travailler dans le cadre d’une entente fondée sur un projet puisse ne pas s’être matérialisé pour les travailleurs qui ont fini par travailler effectivement à temps plein pour l’appelante au cours de la période, cela ne signifie pas qu’il n’y a pas eu d’acceptation du risque.
+[91] Un travailleur restait exposé aux facteurs qui influent sur la demande de ses services – l’offre de projets de l’appelante et la correspondance avec ses compétences, qu’il ait choisi de travailler exclusivement pour l’appelante ou qu’il ait travaillé pour l’appelante et d’autres personnes au cours de la période. Tout bien pesé, j’ai conclu que les travailleurs ont été confrontés à un risque de perte, ce qui est compatible avec le statut d’entrepreneurs indépendants.
+VIII. CONCLUSION
+[92] Pour trancher la question qui m’est soumise, je dois peser tous les facteurs pertinents. L’arrêt Connor Homes indique que l’intention des parties – en l’espèce, l’entente commune entre l’appelante et les travailleurs que leur relation était celle d’entrepreneurs indépendants – est prise en compte dans l’examen des facteurs exposés dans l’arrêt Wiebe Door [64] . Je dois déterminer si les facteurs exposés dans l’arrêt Wiebe Door, qui sont objectifs, sont compatibles avec l’intention subjective des parties.
+[93] Il n’y a pas de manière préétablie d’appliquer des facteurs exposés dans l’arrêt Wiebe Door. Les facteurs qui indiquent une relation de travail ne sont pas comptabilisés et comparés à la somme de ceux qui indiquent qu’il s’agit d’un statut d’entrepreneur indépendant. L’importance relative des facteurs dépend des circonstances et des faits de l’affaire. Un contexte important qui influe sur mon examen des facteurs en l’espèce, est la nature axée sur les projets du secteur des effets spéciaux de maquillage et les compétences artistiques spécialisées que les travailleurs apportent.
+[94] Je conclus que les facteurs exposés dans l’arrêt Wiebe Door font pencher la balance du côté du statut d’entrepreneur indépendant.
+[95] Les travailleurs étaient libres d’accepter ou de refuser les projets proposés par l’appelante et de travailler pour d’autres ateliers de production d’effets spéciaux. Lorsqu’ils étaient embauchés par WCT, les travailleurs accomplissaient leurs tâches avec une liberté d’expression, en tant qu’artistes qualifiés. Ces libertés sont aux antipodes de la notion de contrôle inhérente à une relation de travail.
+[96] Bien que l’appelante ait contrôlé quelque peu « comment, et quand et où » les travailleurs accomplissaient leurs tâches, j’ai conclu que ces contraintes n’indiquent pas l’existence d’une relation d’emploi, mais qu’elles étaient motivées par la nécessité de veiller à ce que les projets répondent aux exigences et aux attentes du client. Par conséquent, le facteur de contrôle favorise le statut d’entrepreneur indépendant.
+[97] Bien que je n’accorde pas un poids important au facteur « outils », je considère qu’il est neutre. L’impossibilité pour les travailleurs d’embaucher des aides est également un facteur neutre.
+[98] Le fait d’être payé à l’heure indique que les travailleurs avaient des possibilités limitées de réaliser des profits et de subir des pertes et indique donc une relation d’employeur à employé. Toutefois, j’ai déterminé que les travailleurs ont été exposés à des pertes financières et ont eu la possibilité de réaliser des profits, en grande partie parce que l’appelante n’a pas garanti de flux de travail aux travailleurs et que ces derniers ont conservé la liberté corrélative de travailler auprès d’autres ateliers d’effets spéciaux.
+[99] Compte tenu de tous ces éléments, j’ai conclu que, tout bien pesé, les facteurs exposés dans l’arrêt Wiebe Door indiquent une qualification juridique de l’embauche des travailleurs par l’appelante en tant qu’entrepreneurs indépendants. Cette conclusion est conforme à la compréhension qu’ont les parties de la nature de leur relation. Par conséquent, j’ai conclu que les travailleurs étaient des entrepreneurs indépendants.
+[100] Les décisions du ministre devraient être modifiées en fonction du fait que les travailleurs n’exerçaient pas un emploi assurable aux fins de la LAE ou un emploi ouvrant droit à pension aux fins du RPC pendant les périodes pertinentes.
+IX. DÉPENS
+[101] Comme les deux parties le reconnaissent, la Cour n’a pas le pouvoir général d’accorder des dépens dans un appel d’une décision ministérielle rendue aux termes de la LAE ou du RPC. Aucune des exceptions à cette proposition générale ne s’applique et, par conséquent, aucuns dépens ne sont adjugés dans les appels.
+Signé à Toronto (Ontario), ce 22e jour de septembre 2022.
+« Monica Biringer »
+La juge Biringer
+ANNEXE A
+RÉFÉRENCE :
+2022 CCI 107
+NOS DES DOSSIERS DE LA COUR :
+2018-777(EI)
+2018-778(CPP)
+INTITULÉ :
+WCT PRODUCTIONS MCT LTD. c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 28, 29 et 30 mars 2022
+MOTIFS DU JUGEMENT :
+La juge Monica Biringer
+DATE DU JUGEMENT :
+Le 22 septembre 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Shawn Tryon
+Me Vivian Esper
+Avocats de l’intimé :
+Me Alexander Wind
+Me Daniel Cortes-Blanquicet
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Shawn Tryon
+Cabinet :
+Thorsteinssons LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. C-8.
+[2] L.C. 1996, ch. 23.
+[3] Avant l’audience, un avis de désistement partiel a été déposé par l’appelante, relativement à la décision du ministre, selon laquelle deux étudiants travailleurs embauchés par l’appelante, Devin Johnson et Ruby Jones, occupaient un emploi ouvrant droit à pension aux fins du RPC et un emploi assurable aux fins de la LAE pour la période du 1er janvier 2016 au 30 septembre 2016. Les présents motifs ne concernent pas le statut de Devin Johnson ou de Ruby Jones.
+[4] La période pertinente pour Bruce Houston, Christina Renaud et Brittney Bolzon s’étend du 1er janvier 2015 au 30 septembre 2016. La période pertinente pour Amélie Soucy est du 1er janvier 2015 au 31 décembre 2015. Pour Kiana Larson, la période pertinente s’étend du 1er janvier 2016 au 30 septembre 2016.
+[5] Pièce A-1 : Transcription de l’interrogatoire préalable de William Christopher Terezakis (22 janvier 2019).
+[6] Pièce A-R, onglets 44 et 45 : les factures de Christina Renaud indiquent qu’elle a travaillé pendant 36 des 45 périodes de paie de la période.
+[7] Pièce A-1 : questions et réponses, 286 à 292, 305 à 311, 322 à 331, 340 à 342 et 355 à 358.
+[8] Voir, par exemple, Wiebe Door Services Ltd. c. M.R.N., [1986] 3 CF 553, A.C.F. no 1052 (CAF); 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59; et 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National), 2013 CAF 85.
+[9] Voir, par exemple, Sagaz, ibid., par. 46; Connor Homes, ibid., par. 25.
+[10] Connor Homes, précité, note 8, par. 29 et 41.
+[11] Sagaz, précité, note 8, par. 48.
+[12] Voir également AE Hospitality Ltd. c. Canada (Revenu national), 2020 CAF 207, par. 14; European Staffing Inc. c. Canada (Revenu national), 2020 CAF 219, par. 7.
+[13] 2006 CAF 87 (« Royal Winnipeg Ballet »).
+[14] Connor Homes, précité, note 8, par. 39.
+[15] Annexe A, alinéa 2h).
+[16] Connor Homes, précité, note 8, par. 39.
+[17] Pièce A-1 : questions et réponses 112 et 115.
+[18] Pièce A-1 : question et réponse 113.
+[19] Transcription de l’audience, témoignage de Bruce Houston, p. 240.
+[20] Transcription de l’audience, témoignage de Brittney Bolzon, p. 118 et 160.
+[21] Transcription de l’audience, témoignage de Bruce Houston, p. 212.
+[22] Pièce AR, onglet 27 : questionnaire de Bruce Houston, daté du 8 novembre 2017, p. 11, question 80.
+[23] Transcription de l’audience, témoignage de Bruce Houston, p. 190 et 191.
+[24] Transcription de l’audience, témoignage de Bruce Houston, p. 191 et 192.
+[25] Transcription de l’audience, témoignage de Bruce Houston, p. 214.
+[26] Transcription de l’audience, témoignage de Bruce Houston, p. 195.
+[27] Transcription de l’audience, témoignage de Bruce Houston, p. 196.
+[28] Transcription de l’audience, témoignage de Bruce Houston, p. 251.
+[29] Pièce AR, onglet 45.
+[30] Pièce AR, onglets 36 et 48.
+[31] Connor Homes, précité, note 8, par. 40.
+[32] Connor Homes, précité, note 8, par. 37.
+[33] City Water International Inc. c. Canada, 2006 CAF 350 (« City Water »), par. 18; D & J Driveway Inc. c. Canada (Ministre du Revenu national), 2003 CAF 453 (« D & J Driveway »), par. 9.
+[34] 2002 CAF 96 (« Wolf »), par. 74.
+[35] Pièce A-1 : questions et réponses 169, 170 et 198.
+[36] Pièce A-1 : question et réponse 335.
+[37] Transcription de l’audience, témoignage de Brittney Bolzon, p. 121.
+[38] Transcription de l’audience, témoignage de Bruce Houston, p. 231 et 232.
+[39] Transcription de l’audience, témoignage de Bruce Houston, p. 224, 225, 226 et 227.
+[40] Transcription de l’audience, témoignage de Bruce Houston, p. 229.
+[41] Pièce A-1 : question et réponse 185.
+[42] Wolf, précité, note 34, par. 81.
+[43] [1996] A.C.F. no 1337, 1996 CarswellNat 2332, par. 10. Voir aussi City Water, précité, note 33, par. 18; D & J Driveway, précité, note 33, par. 9.
+[44] Transcription de l’audience, témoignage de Bruce Houston, p. 229.
+[45] Transcription de l’audience, témoignage de Bruce Houston, p. 228.
+[46] Pièce A-1 : question et réponse 117.
+[47] Pièce A-1 : question et réponse 64.
+[48] Transcription de l’audience, témoignage de Bruce Houston, p. 208 et 209.
+[49] Royal Winnipeg Ballet, précité, note 13, par. 66.
+[50] On Masse Inc. c. M.R.N., 2010 CCI 250, 1772887 Ontario Limited c. M.R.N. 2011 CCI 204; voir aussi la décision antérieure Productions Petit Bonhomme Inc. c. M.R.N., 2002 CarswellNat 3251, par. 104.
+[51] 2019 CCI 127 (« MWW Enterprises Inc. »).
+[52] Canada (Procureur général) c. Les Productions Bibi et Zoé Inc., 2004 CAF 54, conf. le jugement de la Cour canadienne de l’impôt de 2002.
+[53] MWW Enterprises Inc., précité, note 52.
+[54] 2002 CAF 207.
+[55] 2019 CCI 59, par. 57.
+[56] 2014 CCI 191.
+[57] 2019 CCI 116 (« AE CCI »).
+[58] Témoignage de Bruce Houston, p. 202.
+[59] AE CCI, précitée, note 58, par. 150.
+[60] AE CCI, précitée, note 58, par. 149; City Water, précité, note 33, par. 24.
+[61] Transcription de l’audience, témoignage de Bruce Houston, p. 205.
+[62] Transcription de l’audience, témoignage de Bruce Houston, p. 205; témoignage de Brittney Bolzon, p. 136 et 137.
+[63] Pièce A-1 : question et réponse 197.
+[64] Connor Homes, précité, note 8, par. 40.

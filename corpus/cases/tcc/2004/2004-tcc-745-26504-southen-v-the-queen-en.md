@@ -1,0 +1,163 @@
+---
+title: "Southen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26504/index.do"
+last_modified: "2004-11-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 745"
+citation2: ""
+neutral_citation: "2004 TCC 745"
+decision_date: "2004-11-05"
+language: "en"
+item_id: "26504"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3252
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:51:44.780000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c0a451e2393c18c48b3a851dbc0d50cc85184f04c3f6fb8f24f7151e1ea7d828"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Southen v. The Queen
+
+- Citation: 2004 TCC 745
+- Decision date: 2004-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3252, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Southen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-05
+Neutral citation
+2004 TCC 745
+File numbers
+2003-3388(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3388(IT)I
+BETWEEN:
+DAVID G. SOUTHEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on August 25, 2004, at London, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1999 and 2000 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deductions for interest of $5,915.45 in 1999 and $6,362.21 in 2000. There will be no order as to costs.
+Signed at Ottawa, Canada, this 5th day of November, 2004.
+"E.A. Bowie"
+Bowie J.
+Citation: 2004TCC745
+Date: 20041105
+Docket: 2003-3388(IT)I
+BETWEEN:
+DAVID G. SOUTHEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] Mr. Southen has appealed from his assessments under the Income Tax Act (the Act) for the taxation years 1999 and 2000. His complaint with the assessments is that in assessing him the Minister disallowed numerous claims that he had made to deduct interest on money he had borrowed, as well as some other carrying charges in respect of the property that he bought with the borrowed funds. By the time the matter came to trial before me in August 2004, the parties had agreed as to the majority of the matters that were initially in dispute. In fact, the Minister had conceded Mr. Southen's right to the deductions from income that he had claimed when filing his return, with the exception of those that relate to a residential property in Inwood, Ontario. Specifically, their agreement is that the Appellant is entitled to deductions amounting to $5,915.45 in the 1999 taxation year and $6,362.21 in the 2000 taxation year in respect of the properties other than the Inwood one. As to it, there remains an issue for me to decide.
+[2] Mr. Southen is in the real estate business in and around London, Ontario. He and his wife decided that they would like to live some distance from the city of London, so in May 1993 they bought a house in the village of Inwood for $68,250.00. They gave a first mortgage to Royal Trust Company of Canada for $51,187.00. Towards the end of 1996, they decided that they preferred to live in the city, and to rent out the Inwood property. The Appellant then bought his wife's half interest in the house for $40,000.00, giving a second mortgage to Laurentian Trust Company. Mr. Southen then rented the premises to tenants. This proved to be a disaster, for reasons that I need not go into for the purposes of this decision, other than to say that within two years Mr. Southen had decided that he should sell the property rather than attempt to operate it as a rental dwelling.
+[3] In the spring of 1998, Mr. Southen identified two individuals named Wendy and Colleen who wished to buy the property, and they entered into an agreement for sale at a price of $85,000.00. At this point the house was subject to the two charges in favour of Royal Trust and Laurentian Trust. Mr. Southen obtained a credit check on the purchasers, which confirmed his concern that they would be unable to obtain other financing to complete the transaction. The Appellant was anxious to ensure that the sale in fact closed, and so he took back from the purchasers what is sometimes called a wrap mortgage. Under this arrangement, the purchasers took title to the property subject to the two existing mortgages, as well as a new third mortgage in favour of the Appellant, and they agreed to pay monthly to the Appellant an amount that would cover the payments due on the first and second mortgages, the payment on the third mortgage, and one-twelfth of the estimated annual taxes on the property. For his part, the Appellant agreed to make the payments to the first and second mortgagees (for which he was already liable under the covenants in those mortgages), and he agreed to pay the taxes to the municipality as they fell due.
+[4] Had the purchasers only met their obligations each month the Appellant would have put a satisfactory end to a disastrous investment. However, instead of paying the $750.00 per month for which they were liable under the terms of the sale, Wendy and Colleen only paid a total of $2,250.00 in 1999, and $4,000.00 in 2000. Towards the end of 2000, they agreed to convey the property back to the Appellant, which they did by way of a quit claim deed in February 2001. In the meantime, however, the Appellant had made the payments that he was obliged to make to the first and second mortgagees. These included interest of $6,295.33 in 1999 and $6,603.46 in 2000, and it is these amounts, together with taxes of $2,012.39 for 1999 and $2,370.00 for 2000, that the Appellant claims to be entitled to deduct from his income for those years, but net of the amounts of $2,250.00 and $4,000.00 that Wendy and Colleen paid to him. He also claims to be entitled to deduct in 1999 the cost of the credit checks that he had done at the time of the sale, which was $22.58. The net deductions that he claims as expenses, then, are the following:
+1999
+2000
+Interest
+$6,295.33
+$6,603.46
+Taxes
+2,012.39
+2,370.00
+Credit check
+22.58
+Subtotal
+$8,330.30
+$8,973.46
+Less amount received
+2,250.00
+4,000.00
+Deduction claimed
+$6,080.30
+$4,973.46
+[5] Mr. Southen's argument was simply that after he and his wife stopped using the property as their residence, the ownership and subsequent sale of it was a business matter, and so the loss that he suffered in connection with it, as calculated above, was a business loss to be deducted in computing his income for the years in question. He made no attempt to distinguish between amounts spent on revenue and on capital account, or to take any of the provisions of the Act into consideration. Any amount that he paid out was regarded as an expense, and he netted the total of the payments that he received from Wendy and Colleen against these. The balance he considered to be a loss from the property, to be claimed for the purpose of computing his income under section 3 of the Act.
+[6] The following provisions of the Act are relevant.
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(a) ...
+(c) an amount paid in the year or payable in respect of the year (depending on the method regularly followed by the taxpayer in computing the taxpayer's income), pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business or property (other than borrowed money used to acquire property the income from which would be exempt or to acquire a life insurance policy),
+(ii) an amount payable for property acquired for the purpose of gaining or producing income from the property or for the purpose of gaining or producing income from a business (other than property the income from which would be exempt or property that is an interest in a life insurance policy),
+(iii) ...
+[7] The amounts of $6,295.33 for 1999 and $6,603.46 for 2000 are the amounts that the Appellant paid to the first and second mortgagees, respectively. These amounts cannot be brought within section 20(1)(c) of the Act, which is the only provision that would permit their deduction. There are four requirements that must be satisfied to bring an amount within that section.[1] The amount must have been paid, or become payable, in the year; there must have been a legal obligation to pay interest; the borrowed money must have been used for the purpose of earning non-exempt income from a business or property; and the amount must be a reasonable one. It is the third of these that the Appellant cannot satisfy in this case. It is well settled that the use of the money that is relevant in considering whether interest may be deducted is the current use of it in the year in which the taxpayer seeks the deduction. In this case, the Appellant and his wife originally borrowed the first mortgage funds to buy a residence - a non-eligible use. In 1996, the Appellant borrowed the second mortgage funds to purchase his wife's interest in the house, and then turned it into a rental property. During the period from 1996 to 1998, the use of the first and second mortgage funds was therefore an eligible one. In 1998, he sold the house to Wendy and Colleen, subject to the two existing mortgages, and a third mortgage which they gave back to him for the balance of the purchase price, some $7,475.00. From that point on, the only relevant income producing property that the Appellant owned was the third mortgage, but it was not purchased with the borrowed funds. It was taken by him in exchange for his remaining equity in the house at the time of the sale in 1998, and the source of that equity was not the borrowed funds, but the cash he had paid on the purchase of it and the subsequent increase in its value. It therefore cannot be said that the use of the borrowed funds was to acquire the mortgage.
+[8] For the Appellant to succeed in his claim to deduct the municipal taxes that he paid, he would have to show that they were paid for the purpose of gaining or producing income: see paragraph 18(1)(a) of the Act. Clearly they were not. The taxes were the responsibility of the owners of the land, Wendy and Colleen. The Appellant structured the payment obligations in the way that he did to ensure that they were paid in order to protect the value of his third mortgage on the property. If there had been a forced sale resulting from unpaid taxes, it is unlikely that his mortgage would have had any value. In no sense could his payment of the taxes be considered to be for an income-producing purpose, however.
+[9] There is a further reason that the Appellant is not entitled to deduct the 1999 and 2000 taxes. It appears from the evidence that he did not in fact make the payments until 2001. As he was operating on a cash basis, the amounts could not on any view of their nature have been deductible in the years under appeal.
+[10] There remains the Appellant's claim the he was entitled to deduct the amount of $22.58 that he spent in 1999 for a credit check on the purchasers of the property to find out if they would be approved as credit risks by the first and second mortgagees. Clearly the purpose of this expenditure was not to gain or produce income; it was simply a selling expense in relation to the sale of a capital asset, the house. It is therefore not a deductible expense in computing income. However it is available to reduce the proceeds of the sale, and thereby to increase the Appellant's capital loss on the house.
+[11] For these reasons, the appeals must fail in respect of the issues relating to the Inwood property. In accordance with the agreement filed on the other issues, the appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deductions for interest of $5,915.45 in 1999 and $6,362.21 in 2000. There will be no order as to costs.
+Signed at Ottawa, Canada, this 5th day of November, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC745
+COURT FILE NO.:
+2003-3388(IT)I
+STYLE OF CAUSE:
+David G. Southen and Her Majesty the Queen
+PLACE OF HEARING
+London, Ontario
+DATE OF HEARING
+August 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT
+November 5, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Singleton v. Canada[2001] 2 S.C.R. 1046.

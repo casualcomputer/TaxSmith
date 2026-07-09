@@ -1,0 +1,168 @@
+Title: Sidhu v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/310869/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-101-310869-sidhu-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2018-05-31
+
+# Sidhu v. M.N.R.
+
+- Citation: 2018 TCC 101
+- Decision date: 2018-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4671, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sidhu v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-31
+Neutral citation
+2018 TCC 101
+File numbers
+2017-1650(EI)
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-1650(EI)
+BETWEEN:
+GURMIT SINGH SIDHU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 12, 2017, at Vancouver, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Daljit Dhanoa
+Counsel for the Respondent:
+Shannon Fenrich
+JUDGMENT
+The Minister of National Revenue’s January 11, 2017 decision is varied by adding that also the Appellant engaged in 98 hours of insurable employment for Global Shake and Shingle Ltd. (GSS) in March 2011 and in 56 hours of insurable employment for GSS during the period May 8 – 21, 2011.
+Signed at Toronto, Ontario this 31st day of May 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC101
+Date: 20180531
+Docket: 2017-1650(EI)
+BETWEEN:
+GURMIT SINGH SIDHU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] These are reasons for judgment in the appeal brought by the Appellant pursuant to subsection 103(1) of the Employment Insurance Act (Canada) (EIA). He appeals a January 11, 2017 decision of the Respondent, made pursuant to subsection 93(3) of the EIA, which decision upheld the March 30, 2015 ruling of a CPP/EI Ruling officer respecting the Appellant (Ruling).
+Background:
+[2] The Ruling, made per subsection 90(3) of the EIA, was that the Appellant had been engaged in insurable employment with the company Global Shake and Shingle Ltd. (GSS) during the period February 14, 2011 to February 27, 2011; but that he had not continued to be engaged by GSS during the following period of February 28, 2011 to May 20, 2011 (Further Period). The GSS worksite was a cedar shake and shingle sawmill located in or about Maple Ridge, B.C.
+[3] The term “insurable employment” is defined at paragraph 5(1)(a) of the EIA as including:
+employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person...
+[4] Paragraphs 103(3)(a) and (d) of the EIA authorize this Court to decide an appeal from a decision of the Minister on a section 91 appeal of a ruling, as here, by vacating, confirming or varying the Minister’s decision, and giving reasons therefor that need not be in writing.
+Pleadings:
+[5] The Appellant in his brief Notice of Appeal pleaded that during the Further Period he had worked with GSS as an employee and was paid on a regular basis, he did not have any profit sharing of the GSS business and he worked as a labourer.
+[6] At paragraph 7 of the Amended Reply the Respondent has pleaded that the Minister in making his/her decision relied upon certain “assumptions of fact” as listed, particularly including:
+a) the sawmill of GSS (payor) at Maple Ridge closed on April 22, 2011 and reopened in mid-September 2011;
+b) between April 23 and May 20, 2011 no work was performed at the mill;
+c) Ravinder Dhaliwal was the spouse of the 100% shareholder of GSS and she ran the mill’s day-to-day operations and made the business decisions for GSS and she did not work between April 11 and September 25, 2011 and no replacement was hired or appointed during that time;
+d) a government inspection report dated July 4, 2011 for an inspection of the GSS mill that day stated that the mill was not operating;
+e) the Appellant worked as a shingle packer for GSS (separating shingles by grade and size and packing them in bundles) and did not perform work in any other capacity at the mill. He did not perform any work not recorded in payroll emails sent by GSS to its accountant stating number of hours worked for each worker and salary to be paid. These communications occurred solely by email;
+f) the payroll emails showed hours and gross earnings of the Appellant as follows:
+(i) February 14 - 27, 2011; 20.5 hours and gross earnings $256.25
+(ii) May 8 -21, 2011, 56.0 hours and gross earnings $700;
+g) GSS cheque #364 dated March 31, 2011 payable to the Appellant for $1,223.65 cashed April 1, 2011 was not payment for worked performed, and GSS cheque #428 dated May 27, 2011 payable to the Appellant for $627.49 cashed May 30, 2011 was payment for special earnings and was not payment for work performed;
+h) the Appellant did not perform work after February 27, 2011;
+i) GSS did not submit a record of employment (ROE) when the Appellant applied for EI benefits on February 21, 2011, and at that time the Appellant did not qualify for EI benefits due to lack of hours;
+j) on May 30, 2011 the Appellant filed his second EI benefit application and advised he worked for GSS from February 14, 2011 to May 20, 2011, and GSS issued the Appellant a ROE for that same period.
+[7] Also, at paragraph 8 of the Amended Reply are pleaded the following “additional material facts”:
+a) GSS was involved in a scheme by which it falsely issued ROEs indicating that there was a shortage of work;
+b) GSS’s statement that there was a shortage of work was not true;
+c) once a worker had been laid off, GSS would replace that worker with a new worker;
+d) at any given time, two-thirds of GSS’s workforce were collecting EI;
+e) GSS’s rate of pay was lower than industry standards in recognition of the workers’ ability to qualify for and collect EI.
+[8] These paragraph 8 pleadings are new assertions of fact, apparently not put forward when the Respondent Minister’s herein appealed decision to uphold the Ruling was made.
+[9] This appeal involved a hearing in which evidence of both parties including as to new facts was potentially admissible.
+[10] The Amended Reply concludes with the assertion that the Appellant was not a GSS employee during the Further Period and so was not insurable per paragraph 5(1)(a) of the EIA.
+[11] The Federal Court of Appeal (FCA) stated in respect of an EIA appeal of this nature to this Court that, “…the role of the judge is to verify the existence and accuracy of all the facts and the assessment that the minister made of them with a view to determining if the decision of the minister still appears reasonable.” Further, “…there is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.” (National Capital Outaouais Ski Team v. Canada (National Revenue), 2008 FCA 132, para. 11.)
+[12] As well, in Her Majesty v. Georges Laganiere, 2004 FCA 68 at para. 14 the FCA stated that this Court in deciding the reasonableness of the Minister’s decision,
+...must accord the Minister a certain measure of deference, as to the initial assessment, and cannot simply substitute his own opinion for that of the Minister unless there are new facts or evidence that the known facts were misunderstood or wrongly assessed.
+Evidence:
+A. The Appellant’s testimony:
+[13] The Appellant testified through a Punjabi/English interpreter. In his EI benefits applications he had reported having a basic level of formal education. His evidence was all vive voce; he did not seek to submit any documentation as evidence.
+[14] He testified that he had worked as a shingle packer at two Maple Ridge lumber mills between February 14, 2011 and May 20, 2011. They were the GSS mill and the Maple Ridge Red Cedar Products mill (MRRCP), sometimes called the “Fraser mill”. The Appellant knew the owners of the two mills were friends. He testified that he packed shingles in both places, and sometimes also did clean-up and other work. He said he would be sent from one place to the other as they were located relatively close to each other. It was suggested to him that the GSS mill closed on or about April 20, 2011. When asked if he worked there April 22 to May 20, he said that he did not remember dates as to when he was at one place or the other.
+[15] On cross-examination the Appellant said that when he was hired for work at the GSS mill in early February 2011 he anticipated working 40 hours a week, for a continuous period. He knows he started there February 14, 2011 but does not now remember when he afterwards found out there would be no more work there. He might have submitted an EI application on February 22, 2011, but he does not recall. He does not recall if there was a shortage of work there after February 14. It was suggested he was paid only $12.50 an hour and he said he thought this was so. His work packing shingles was for eight hours a day and he would stay longer if needed. He does not recall how often he stayed for extra time. He did not recall the last day in February that he worked. He did not recall if the hours in February that he claimed were for one week or two.
+[16] He did not know if February 7, 2011 shown as the first day at the GSS mill in the EI application (pg. 8, Ex. R-1) was a mistake - he said that whatever was written on the application (February 7, 2011) he agreed with.
+[17] After his last day at GSS, due to shortage of work, he began working at MRRCP, to change labels and repack. He did not know whether MRRCP work was included in his EI application. Sometimes he received a payroll cheque from GSS and sometimes a payroll cheque from MRRCP.
+[18] The Appellant was shown a March 21, 2011 letter to him from Human Resources and Skills Development Canada advising he had not worked sufficient insurable hours between February 21, 2010 and February 19, 2011 to qualify for EI benefits (464 hours versus 560 hours). He does not recall this letter, but does recall being aware at some point that he did not have enough hours for EI benefits. He knew when work had stopped for him at another mill that he did not have enough hours, so he went to work at the GSS mill.
+[19] The Appellant was shown Ex. R-3, being copies of both sides of three GSS cheques payable to him. The first cheque was for $245.67 dated March 3, 2011. He thought this was for his work there February 14 to 22, 2011. He was asked if he worked at the GSS mill 21 hours between February 14 and 27. He answered that he might have, perhaps more. Ultimately he agreed the payment for 21 hours was right.
+[20] He was asked when he had started working at the GSS mill in March, in view of the GSS cheque to him dated March 31, 2011 for $1,223.65. The Appellant’s response was he could not recall the exact date but definitely he was there. He said he had five days of work a week always and sometimes Saturday as well. He does not remember work dates in March. He was asked whether he left GSS in late February 2011 due to shortage of work only to be back working there in March 2011. Did he agree the GSS mill shut down April 23, 2011? His answer was that this was a long time ago and he cannot remember. He said that if it was closed he would have been working at the MRRCP mill.
+[21] When asked if he had submitted another EI benefit application in May 2011, his response was, “Maybe, it was a long time ago.” He said he was at the MRRCP mill for all of 2011 when not at the GSS mill.
+B. Ms. Zubrinic’s testimony:
+[22] The Respondent called Ms. J. Zubrinic of Service Canada as a witness. She testified she had investigated when ROEs from MRRCP started being issued for employees of GSS. She said Service Canada issues ROEs to employers and it keeps track of each issued ROE’s serial number. She testified that uncle and nephew owned MRRCP and GSS respectively. Also, they shared the same payroll clerk.
+[23] Ms. Zubrinic’s MRRCP investigation was stopped so she could investigate the larger GSS. Her GSS investigation established that for GSS two-thirds of its employees were laid off and this was more than were needed to run the mill. Her testimony was that the problem was that ROEs were issued for shortages of work and then new staff were hired. She said this practice impacted EI entitlement. This likely explained, she said, why GSS paid below market rates to its employees. She never revived the MRRCP investigation as that mill burned in October 2014, with, she believes, all its records. She testified that employers could only complete and issue for their employees ROE forms that had been supplied to them by Service Canada; they could not complete and issue ROE forms that Service Canada (presumably on behalf of the Canada Employment Insurance Commission) had supplied to another employer.
+[24] She identified the Appellant’s February 22, 2011 EI benefit application indicating GSS work for the period February 7 to 11, 2011 (Ex. R-1). She also identified the March 21, 2011 Service Canada letter to him advising he was short of insurable hours for the applicable one year period commencing February 21, 2010 (Ex. R-2).
+[25] Ms. Zubrinic identified the above-mentioned grouping of photocopies of both sides of each of three GSS cheques, payable to the Appellant. Cheque #364 dated 3 March 2011 was for $245.67, cheque #428 dated 31 March 2011 was for $1,223.65 and cheque dated 27 May 2011 was for $627.49. The cheque backs showed that each cheque had been negotiated. The 3 March 2011 cheque was accepted by Ms. Zubrinic as payment for the Appellant’s work for GSS February 14 - 27, 2011.
+[26] She identified a ROE from GSS regarding the Appellant received May 30, 2011 (Ex. R-5), indicating work for GSS from February 14, 2011 to May 20, 2011, at a payment rate of $15.82 per hour. She identified also an EI application of the Appellant received May 30, 2011 reporting GSS work from February 14, 2011 to May 20, 2011. She said there was no reference in this application to any MRRCP work. Lastly she identified a ROE filed by MRRCP for the Appellant issued November 26, 2012, for work April 11, 2010 to November 16, 2012 for 1,202 insurable hours and insurable earnings of $9,263.15 (Ex. R-7).
+[27] In cross-examination she testified that the GSS mill operated in 2011 until it closed on or about April 22, 2011, then re-opening in September 2011, after which it shut down permanently in December 2011 or possibly early January 2012.
+[28] Ex. R-5 was the aforementioned ROE from GSS for the Appellant dated May 27, 2011, indicating work from March 14, 2011 to May 20, 2011. Ms. Zubrinic testified that this ROE has a MRRCP serial number, showing it was not a ROE form that had been issued to GSS. She testified that if this ROE reflected work from both mills during that specified period then it had been “completed improperly, technically.” The Appellant’s representative asked for her comment as to his client applying in good faith for EI benefits based on work at the two related mills while through no fault of his own being caught by the two mills improperly sharing ROE forms. Ms. Zubrinic responded that she understood where the representative, “[was] coming from”. She did not know if the Appellant had returned to work for GSS when its mill re-opened in September 2011. She would have to review records in her office.
+Issue:
+[29] The issue is, did evidence adduced at the hearing verify the Respondent Minister’s pleaded facts including the “additional material facts”; and taking that into account did the evidence demonstrate that the Respondent Minister’s decision, “still appears reasonable”, while allowing that decision a measure of deference (such that the Minister’s opinion should not simply be replaced by mine) unless there were new facts or evidence that the known facts were misunderstood or wrongly assessed.
+Submissions:
+A. Appellant:
+[30] The Appellant submits he was engaged in insurable employment during the Further Period (February 28, 2011 to May 20, 2011), between working at the GSS mill and the nearby MRRCP mill, respectively owned by related individuals and utilizing the same payroll clerk. As such he was engaged in insurable employment during this period. His position should not now be disallowed on the basis of failure to recognize that he had worked during that Period at the nearby MRRCP mill in addition to the GSS mill.
+B. Respondent:
+[31] The Respondent submits that the oral evidence of the Appellant was vague and without corroboration. He could not remember dates. There is no basis to prefer his evidence over the pleaded facts supporting the Minister’s appealed decision, plus “additional material facts” as pleaded in the Amended Reply.
+Analysis:
+[32] As noted above the first question is, did the evidence at the hearing verify the Minister’s pleaded facts, including “additional material facts”? I found that the evidence verified the Minister’s pleaded facts, subject to the following matters. There was no evidence or reference verifying the GSS “payroll emails” pleaded in the Amended Reply with the Minister’s conclusion that no work other than as specified in those emails had occurred. The second factual matter pleaded in the Amended Reply but not addressed or verified in the hearing was anything as to the pleading regarding Ravinder Dhaliwal as spouse of the GSS 100% shareholder and that she ran the GSS mill’s daily operations and that she was not there from April 11 to September 25, 2011. The third factual matter that was pleaded but with little or no verification at the hearing, although Ms. Zubrinic did repeat it, was the pleading that no work was done at the GSS mill between April 23 and May 20, 2011. Lastly the pleaded fact in the Amended Reply, which is the crux of the appeal, that the Appellant did not perform work for GSS after February 27, 2011, was of course challenged by the Appellant’s testimony which constituted new evidence.
+[33] The remaining aspect of the issue in this matter is, taking into account the Minister’s pleaded facts that were and were not verified at the hearing, does the Minister’s decision still appear to be “reasonable”, while affording the Minister a measure of deference (such that the Minister’s opinion should not simply be replaced by mine) in the absence of new facts or evidence tending to show existing facts had been misunderstood or wrongly assessed.
+[34] I note that in the not completely different context of judicial review, the Supreme Court of Canada in its seminal decision of Dunsmuir v. New Brunswick, [2008] 1 SCR 190, identified “reasonableness” as one of two standards of judicial review (the other being “correctness”), and said the following (para. 47). Reasonableness is, “concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process [and] whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.”
+[35] Now as to whether the Minister’s decision, taking into account what was not verified at the hearing, was reasonable - I agree that the Appellant’s testimony was general, and was vague as to details such as actual dates worked and as to when filings of EI applications had been made. I do not consider that he was being evasive. These matters, largely as to specific dates, are not what one ordinarily would retain in memory over a period spanning six years. His evidence was consistent that he had worked in mills of both GSS and MRRCP during the Further Period. In this regard, as noted above, also in evidence was a MRRCP filed ROE that indicated he worked for MRRCP during a lengthy period encompassing this Further Period. In light of that separate ROE signed by MRRCP I do not differ with the Minister’s apparent conclusion that the GSS ROE does not also reflect MRRCP work. The Respondent did not particularly address this point, other than through Ms. Zubrinic saying that including work for more than one employer on a submitted ROE was technically improper.
+[36] As noted above, the Respondent pleaded as one of its assumed facts (Amended Reply, para. 7(t)) that according to certain “payroll emails” between GSS and its accountant, the Appellant had worked for GSS for 20.5 hours February 14 to 27, 2011 (which the Ruling recognized), and as well for 56 hours May 8 to 21, 2011. The Respondent also pleaded (Amended Reply para. 7(s)) that the Appellant did not perform any work not recorded in the payroll emails; and also pleaded (Amended Reply, para. 7(h)) that between April 23 and May 20, 2011, no work was performed at the GSS mill.
+[37] As indicated, my view is that these pleaded assertions of fact were not verified by evidence at the hearing.
+[38] And yet there is a GSS cheque #428 in evidence payable to the Appellant for $627.49, dated May 27, 2011.
+[39] This cheque is indicative that the Appellant did work the 56 hours for GSS during the said period of May 8 to 21, 2011 as referenced in the Respondent’s pleadings, and for which he received payment in the form of the $627.49 GSS cheque. As noted above, whether the GSS mill was closed during this period in May was not to my mind verified at the hearing. Further, the Appellant testified he also had done clean-up work in one or both mills, which is a type of work that might have been done while the particular mill was “closed”.
+[40] As well, the Appellant received GSS cheque #428 dated 31 March 2011 for $1,223.65. The Respondent had no evidence indicating this was not genuine, against the Appellant’s evidence that he had worked for GSS during March 2011, as submitted in his EI application of May 30, 2011. In my view this cheque is sufficiently corroborative of the Appellant’s position to accept that he had worked for GSS throughout much of March 2011. The Respondent argued that this was unlikely where in the Respondent’s view he had just ceased work for GSS late the prior month due to lack of work. If that were so, that could well be simply a function of short term fluctuations in supply and demand for small operators in the lumber industry.
+[41] As a partial aside, I understood Ms. Zubrinic to say that an employer could only submit a completed ROE using a ROE form that the Canada Employment Insurance Commission had issued to that same employer. In this regard I note that subsection 19(2) of the Employment Insurance Regulations under the EIA provides:
+Every employer shall complete a record of employment [i.e., a ROE], on a form supplied by the Commission, in respect of a person employed by the employer in insurable employment who has an interruption in earnings.
+[42] This provides that a ROE form used by an employer must have been supplied by the said Commission, but not that the form must have been supplied to that same employer (although I am sure that would normally be the case). Accordingly, a ROE form supplied by the said Commission to MRCCP but filled out and submitted by GSS (likely by the GSS/MRRCP shared payroll clerk) would seem not to contravene subsection 19(2).
+Conclusion:
+[43] For the reasons set out above, I respectfully have concluded that the Minister’s decision was reasonable only for some of the subject Further Period. Accordingly I would vary that decision, only to the extent of providing that also the Appellant engaged in 98 [1] hours of insurable employment for GSS in March 2011 (per his $1,223.65 GSS cheque #364 dated March 31, 2011), and in 56 hours of insurable employment for GSS during the period May 8 - 21, 2011 (per his GSS cheque #428 dated May 27, 2011).
+Signed at Toronto, Ontario this 31st day of May 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC101
+COURT FILE NO.:
+2017-1650(EI)
+STYLE OF CAUSE:
+GURMIT SINGH SIDHU AND M.N.R.
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 12, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+May 31, 2018
+APPEARANCES:
+Agent for the Appellant:
+Daljit Dhanoa
+Counsel for the Respondent:
+Shannon Fenrich
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The above 98 hours reference comes from the Respondent’s written representations, para. 21.)

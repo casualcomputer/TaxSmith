@@ -1,0 +1,231 @@
+Title: BlackBerry Limited c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521156/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-137-521156-blackberry-limited-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-09-12
+
+# BlackBerry Limited c. Le Roi
+
+- Citation: 2023 CCI 137
+- Decision date: 2023-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5471, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BlackBerry Limited c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-09-12
+Référence neutre
+2023 CCI 137
+Numéro de dossier
+2019-1378(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1378(IT)G
+ENTRE :
+BLACKBERRY LIMITED,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations orales et écrites relatives à la requête en voir-dire, entendues et reçues le 31 août 2023, à Toronto (Ontario).
+Devant : l’honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l’appelante :
+Me Justin Kutyan
+Me Salvatore Mirandola
+Me Kristen Duerhammer
+Avocats de l’intimé :
+Me Yanick Houle
+Me Christina Ham
+Me Katherine Savoie
+ORDONNANCE
+APRÈS avoir entendu les observations orales et reçu les observations écrites relatives à la requête en voir-dire portant sur l’admissibilité de certains rapports d’expert;
+ET APRÈS avoir publié ses motifs pour l’ordonnance à cette date;
+LA COUR ORDONNE ce qui suit :
+La requête de l’intimé contestant l’admissibilité de certains rapports en tant que preuve d’expert devant la Cour est accueillie pour les raisons suivantes :
+Les dépens relatifs à la présente requête en voir-dire suivront l’issue de la cause.
+a. la section 3 (qui figure aux pages 48 à 72) et les conclusions et opinions connexes du rapport d’expert du 24 juillet 2023 de Brad Rolph sont inadmissibles en tant que témoignage et preuve d’expert;
+b. l’intégralité du rapport d’expert de Jack Mintz est inadmissible en tant que témoignage et preuve d’expert.
+2. L’intimé doit signifier, au plus tard le 28 septembre 2023, le cas échéant, une copie de sa contre-preuve aux sections du rapport de M. Rolph qui sont admissibles en tant que preuve d’expert.
+Signé à Ottawa, Canada, ce 12e jour de septembre 2023.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour de juin 2025.
+Karyne St-Onge, jurilinguiste principale
+Référence : 2023 CCI 137
+Date : 20230912
+Dossier : 2019-1378(IT)G
+ENTRE :
+BLACKBERRY LIMITED,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+I. INTRODUCTION a) Contestation par l’intimé de l’admissibilité de certains rapports d’expert [1] Les présents motifs de l’ordonnance portent sur l’admissibilité de deux rapports d’expert présentés à l’appui de l’appel de l’appelante.
+[2] L’appelante souhaite présenter en preuve les rapports de deux experts :
+a)M. Jack Mintz Ph. D., économiste spécialisé en politique fiscale, professeur et ancien président du Comité technique de la fiscalité des entreprises (le « Comité technique »). Ce comité a rédigé le rapport de 1997 à l’intention du ministre des Finances sur la fiscalité des entreprises (le « rapport technique »). Les avocats de l’appelante lui ont demandé de [traduction] « s’exprimer devant la Cour sur l’élaboration, au Canada, de principes de fiscalité internationale qui sont d’un intérêt central dans le présent appel ».
+b)Brad Rolph, économiste spécialisé en prix de transfert, est un associé de Grant Thornton Consulting et a été, pendant une décennie jusqu’en 2022, le dirigeant national de la pratique de Grant Thornton en matière de prix de transfert au Canada, jouant un rôle de direction croisée au sein de la section internationale de Grant Thornton sur les prix de transfert. Les avocats de l’appelante lui ont demandé de se prononcer, d’une part, sur des structures de prix de transfert hypothétiques et, d’autre part, sur les répercussions, sur le plan de la politique, d’un modèle hypothétique que le ministre traiterait de la même façon qu’il a traité le modèle de l’appelante.
+[3] L’intimé demande l’exclusion des deux rapports. Le fondement de chacune de ces contestations est expliqué dans les motifs qui suivent. Ni l’impartialité ni les titres de compétence des deux experts ne sont contestés.
+b) Nature et contexte de l’appel [4] L’appel de l’appelante porte sur les règles du revenu étranger accumulé, tiré de biens (le « REATB »), sur le refus de toute déduction au titre de l’impôt étranger accumulé (l’« IEA ») et sur le régime du REATB connexe au titre de la Loi de l’impôt sur le revenu (la « LIR »). Le ministre a établi, à l’égard de l’appelante, BlackBerry Limited, une cotisation concernant environ 17,1 millions de dollars de REATB pour l’année d’imposition 2010. Le REATB est lié à des services de recherche et développement (« R et D ») fournis par des sociétés américaines affiliées de l’appelante, siège canadien de la société familiale.
+[5] De plus, dans son calcul de la déduction au titre de l’IEA, le ministre a réduit à néant l’impôt américain sur le revenu des sociétés payé par les sociétés américaines affiliées.
+[6] En résumé, le litige de nature législative porte sur les deux questions suivantes en lien avec le REATB :
+La somme de 17,1 millions de dollars américains que les sociétés américaines affiliées de l’appelante ont gagnée du fait de la prestation à cette dernière de services de R et D en matière de développement des TI constitue‑t‑elle un REATB aux fins de l’application de l’alinéa 95(2)b) et, par conséquent, un revenu?
+Dans l’affirmative, l’impôt étranger payé sur le REATB peut‑il être déduit en vertu du paragraphe 91(4) ou est-il réputé nul aux fins d’application du paragraphe 91(1)?
+II. RÉSUMÉ DES RAPPORTS D’EXPERT [7] À première vue, ces questions semblent simples, mais les profondeurs des règles et du régime du REATB sont plus obscures qu’il n’y paraît. Ainsi, les avocats de l’appelante sont d’avis que la Cour, comme ils l’ont soutenu, a besoin de toute l’aide qu’elle peut obtenir, en particulier en ce qui concerne l’objectif économique extrinsèque, la motivation et la politique à l’origine du régime du REATB et d’autres politiques analogues en matière d’érosion de l’assiette fiscale, comme les règles sur les prix de transfert.
+a) Rapport Rolph Énoncé des questions traitées [8] Premièrement, M. Rolph décrit les autres structures de prix de transfert que l’appelante et ses sociétés affiliées auraient pu mettre en place. Il est soutenu que, si l’une ou l’autre de ces solutions de rechange avait été mise en place, l’appelante n’aurait pas eu à inclure dans son revenu imposable le REATB lié aux services de R et D fournis par la société étrangère affiliée, ni à quantifier l’impôt canadien sur le revenu à payer pour l’année d’imposition 2010 en lien avec chacune des solutions de rechange.
+[9] Deuxièmement, M. Rolph fait état d’une situation où une société canadienne avait inclus le REATB et où des crédits d’impôt pour la R et D ou des incitatifs reçus d’un gouvernement étranger par une société étrangère affiliée réduisent la déduction au titre de l’IEA disponible pour l’impôt étranger. Il formule ensuite des commentaires sur l’incidence économique de la réduction de la déduction au titre de l’IEA par application des crédits d’impôt pour la R et D ou des incitatifs du gouvernement étranger.
+Résumé des opinions exprimées [10] À la section 2, en réponse à la première question, M. Rolph a examiné quatre autres structures de prix de transfert qui n’auraient entraîné aucune inclusion du REATB lié aux services de R et D fournis par les sociétés étrangères affiliées en 2010. M. Rolph affirme que, si elle avait procédé selon l’une ou l’autre de ces quatre options, l’appelante aurait payé moins d’impôt canadien sur le revenu des sociétés que ce qu’elle a payé pour l’année d’imposition 2010.
+[11] Il conclut que l’appelante, en centralisant sa propriété intellectuelle au Canada et en sous-traitant une partie de ses activités de R et D à des sociétés étrangères affiliées qui employaient des personnes qualifiées, a choisi une structure de prix de transfert qui a rehaussé, et non érodé, l’assiette fiscale de la société canadienne.
+[12] À la section 3, M. Rolph :
+a) compare (i) la politique administrative du ministre concernant les prix de transfert et les incitatifs gouvernementaux reçus du gouvernement du Canada pour les services de R et D fournis par les filiales canadiennes aux sociétés affiliées non résidentes; avec (ii) la façon dont il a traité le REATB et l’IEA en lien avec les crédits d’impôt pour la R et D que les sociétés affiliées non résidentes ont reçus de gouvernements étrangers;
+b) s’il y a lieu, il tire les conclusions suivantes quant à la situation hypothétique : (i) lorsqu’un contribuable canadien bénéficie d’une aide gouvernementale en lien avec la prestation de services de R et D par contrat à une société affiliée non résidente, le ministre présume que le contribuable canadien continuera à bénéficier de l’aide gouvernementale, sauf si le contribuable canadien peut prouver que des parties sans lien de dépendance bénéficieraient de cette aide en tout ou en partie; (ii) lorsqu’une société affiliée non résidente fournit des services de R et D contractuels au contribuable canadien et reçoit du gouvernement étranger des crédits d’impôt pour la R et D, ces crédits d’impôt réduisent la déduction au titre de l’IEA du contribuable canadien utilisée pour compenser l’augmentation de l’impôt à payer résultant de l’inclusion du REATB; (iii) par conséquent, le contribuable canadien paie de l’impôt sur l’aide gouvernementale que la société affiliée non résidente a reçue du gouvernement étranger;
+c)le cas échéant, (i) il affirme que la façon dont le ministre a traité, en application des dispositions sur l’IEA de la LIR, les crédits d’impôt pour la R et D que les sociétés affiliées non résidentes ont reçus de gouvernements étrangers est incompatible avec sa politique concernant le traitement de l’aide gouvernementale en application des règles sur les prix de transfert, puisque le fait de soustraire de la déduction au titre de l’IEA le montant des crédits d’impôt américains pour la R et D revient non pas à considérer les crédits d’impôt reçus des gouvernements étrangers pour la R et D comme des dépenses fiscales ou une aide financière dans le cadre d’un régime d’impôt sur le revenu, mais plutôt à les considérer comme une réduction de l’impôt sur le revenu dû aux gouvernements étrangers; (ii) par conséquent, l’application par le ministre des règles sur l’IEA fait en sorte que le gouvernement canadien impose l’aide financière qu’une société étrangère affiliée du contribuable canadien reçoit d’un gouvernement étranger; (iii) il est incohérent que l’entreprise multinationale qui a son siège social au Canada et qui reçoit de l’aide d’un gouvernement étranger en lien avec des activités de R et D exécutées à l’étranger ne puisse conserver qu’une partie de l’aide gouvernementale.
+b) Rapport Mintz Énoncé des questions traitées [13] Le rapport Mintz répond à six questions. M. Mintz a dû formuler les hypothèses suivantes pour se prononcer sur l’élaboration, au Canada, de principes de fiscalité internationale qui seraient d’un intérêt central dans l’appel. Le Comité technique, que M. Mintz a présidé en 1996 et 1997 et qui a rédigé un rapport à l’intention du ministre des Finances, s’est penché sur ces principes en détail.
+[14] M. Mintz a supposé que ces principes et politiques en matière de fiscalité internationale au titre du régime d’impôt sur le revenu des sociétés sont utiles au différend de nature fiscale entre l’appelante et le ministre. Il a poursuivi en expliquant qu’au cours de l’année d’imposition se terminant en février 2010, certaines sociétés étrangères affiliées et sociétés étrangères affiliées contrôlées de l’appelante ont fourni des services de R et D à cette dernière.
+[15] M. Mintz a soulevé une question qui est essentielle dans l’appel (et qui n’est généralement pas contestée) : le revenu que les sociétés étrangères affiliées contrôlées de l’appelante ont gagné de la prestation de services de R et D à celle‑ci devrait-il être imposé en tant que REATB?
+Résumé des opinions exprimées [16] Plus précisément, il avait été demandé à M. Mintz de répondre aux questions suivantes :
+[traduction]
+Question 1 : Quel a été votre rôle en lien avec le rapport du Comité technique de la fiscalité des entreprises (le « rapport du Comité technique »)? Quel était le mandat du Comité technique?
+Question 2 : Est-ce que le Comité technique s’est penché, dans le cadre de son mandat, sur des mesures fiscales internationales? Dans l’affirmative, quels étaient les principes de fiscalité internationale? Est-ce que les mesures ou principes en question étaient destinés ou non à interagir?
+Question 3 : Est-ce que le Comité technique s’est penché, dans le cadre de son mandat, sur les règles relatives au REATB? Dans l’affirmative, quels étaient les principes pris en considération? Quels facteurs ou réserves sur le plan de la politique le Comité technique a-t-il relevés, le cas échéant? À quels facteurs, sur le plan de la politique, les dispositions relatives au REATB visent-elles à donner suite? Y a-t-il eu ou y a-t-il des facteurs concurrents sur le plan de la politique associés au REATB? Si oui, lesquels?
+Question 4 : Est-ce que le Comité technique s’est penché, dans le cadre de son mandat, sur les règles sur les prix de transfert? Dans l’affirmative, quels étaient les principes de prix de transfert? Quelles conclusions le Comité technique a-t-il tirées au sujet des règles sur les prix de transfert? Quelles conclusions, le cas échéant, le Comité technique a-t-il tirées au sujet des prix de transfert?
+Question 5 : Les règles relatives au REATB étaient-elles destinées à interagir avec les règles sur les prix de transfert? Si oui, de quelle manière?
+Question 6 : La situation décrite dans l’énoncé des hypothèses de BlackBerry Canada tient-elle compte des facteurs et réserves sur le plan de la politique dont le Comité technique a tenu compte dans son examen des principes de fiscalité internationale, du REATB et des règles sur les prix de transfert? Dans l’affirmative, dans quelle mesure?
+[17] En résumé, son avis d’expert se veut une réponse écrite détaillée à ces six questions.
+III. OBSERVATIONS DES PARTIES [18] Les paragraphes qui suivent présentent un résumé des observations orales et écrites des parties.
+a) Rapport Rolph (i) Intimé [19] L’intimé, en sa qualité de partie contestant le rapport Rolph, soutient que le rapport est sans intérêt, inutile et préjudiciable.
+[20] En ce qui concerne la pertinence, l’intimé soutient que les hypothèses sur les prix de transfert et l’impôt qui en découle (section 2 du rapport) sont sans intérêt parce qu’il ne s’agit pas d’une affaire sur les prix de transfert et que les cotisations à l’égard des contribuables doivent être établies en fonction des déclarations de revenus réelles et non en fonction de comparaisons hypothétiques.
+[21] En outre, l’intimé soutient que la section 2 (et potentiellement la section 3 concernant les erreurs hypothétiques sur le plan de la politique) est inutile puisque les cotisations à l’égard des contribuables sont établies en fonction de la déclaration telle qu’elle a été produite, et non en fonction de diverses solutions possibles qui pourraient avoir une incidence sur le montant de l’impôt à payer.
+[22] L’intimé affirme que M. Rolph propose non pas une analyse économique, mais plutôt une opinion et un exposé sur l’application des dispositions de la LIR. Les politiques du ministre, les conventions fiscales auxquelles le Canada est partie et les conventions de l’Organisation de coopération et de développement économiques (« OCDE ») mentionnées et interprétées dans le rapport Rolph sont des éléments dont la Cour tiendra compte pour tirer des conclusions essentielles dans l’appel, comme l’indique l’appelante dans ses propres actes de procédure. Tout compte fait, cette preuve reflète l’intention du législateur[1]. L’admission de tels éléments de preuve revient à [traduction] « usurper les fonctions du juge des faits ».
+(ii) Appelante [23] De son côté, l’appelante soutient que le rapport Rolph est pertinent, qu’il est nécessaire et que son utilité l’emporte sur tout effet préjudiciable.
+[24] En règle générale, et par analogie, le rapport Rolph applique à quatre hypothèses l’expertise en matière de prix de transfert pour comparer et opposer les résultats économiques et les incohérences, sur le plan de la politique, de l’application des règles relatives au REATB et de l’élimination des crédits d’IEA par le ministre.
+[25] Les autres structures sont utiles pour illustrer le conflit potentiel entre, d’une part, l’objet des règles relatives au REATB et des crédits d’IEA et, d’autre part, leur application par le ministre lors de l’établissement de la nouvelle cotisation à l’égard de l’appelante.
+[26] L’argument de l’appelante repose essentiellement sur le fait que sa structure fiscale a permis de bonifier et non d’éroder l’assiette fiscale du Canada, tandis que les autres structures auraient entraîné une érosion. Les calculs illustrent d’abord ces autres structures, puis le fait que, si l’appelante y avait eu recours, elles auraient entraîné l’érosion de l’assiette fiscale. Ces éléments sont importants pour établir si le méfait que ciblent les règles relatives au REATB s’est produit en l’espèce (section 2). De tels calculs sont nécessaires au fondement de l’argument selon lequel aucun méfait ne s’est produit. Un niveau d’expertise élevé est nécessaire pour bien comprendre ainsi que pour transmettre cette compréhension.
+[27] La quantification faite à la section 3 est utile en lien avec l’importante question de l’interprétation et de l’application correctes de l’alinéa 95(2)b) de la LIR et du droit de l’appelante au crédit au titre de l’IEA.
+[28] Les questions techniques complexes et les illustrations comparatives dans le rapport Rolph [traduction] « sont des questions techniques relevant davantage de la recherche de faits » et le plus souvent traitées et réalisées à l’aide d’un ordinateur[2].
+[29] Enfin, la valeur probante l’emporte sur l’effet préjudiciable. Les comparaisons hypothétiques fournissent le contexte nécessaire pour faciliter l’interprétation des règles relatives au REATB et les crédits d’IEA. Aucun avis sur le droit n’est formulé, M. Rolph n’est ni avocat, ni juge. Seuls les juges du droit et des faits peuvent déceler tout risque de directive d’interprétation et répartir adéquatement le poids.
+[30] En résumé, la Cour bénéficierait du rapport Rolph parce que les hypothèses et l’analyse présentent des éléments extrinsèques comme l’ont fait des experts dans des appels précédents : un témoin expert de la Couronne qui a déclaré que la méthode de calcul de la partie appelante était contraire à certaines lignes directrices de l’OCDE[3], un témoignage d’expert concernant la portée et la fonction des lignes directrices de l’OCDE[4] et des éléments de preuve sur le contexte de l’« établissement stable » dans le traité modèle de l’OCDE et le traité modèle de l’ONU[5].
+[31] Le rapport Rolph contient, à titre indicatif, des calculs financiers et fiscaux, et ne porte pas sur l’objet ou le sens des lois ou des politiques.
+Le rapport Mintz (i) Intimé [32] L’intimé affirme que le rapport Mintz est inadmissible dans son intégralité parce qu’y sont formulés des avis juridiques sur la politique économique nationale interprétée et appliquée conformément à la législation fiscale en vigueur, propose une preuve anecdotique concernant la preuve extrinsèque existante et ne constitue pas un témoignage d’expert sur quelque analyse économique nécessaire à l’issue du présent appel.
+[33] Le rapport de M. Mintz vise à fournir un fondement quant aux principes nécessaires à l’interprétation des règles relatives au REATB et des crédits d’IEA. Cette tâche revient purement et simplement à la Cour de l’impôt : une cour supérieure spécialisée, exclusive et mandatée, chargée précisément d’interpréter la LIR par divers moyens, éléments de preuve factuelle et jurisprudences, et de rendre une décision.
+[34] En résumé, le rapport Mintz est inutile. Il fournit une interprétation en suggérant [traduction] « la raison d’être d’un certain article et son application idéale ».
+[35] Les considérations économiques invoquées, quelles qu’elles soient, ne sont pas pertinentes. Aucune analyse économique n’est exigée ni suggérée au titre des règles relatives au REATB. Ainsi, contrairement aux affaires portant sur les prix de transfert et la règle générale anti-évitement, les affaires portant sur les règles relatives au REATB n’exigent pas la réalisation d’une analyse économique.
+[36] Le rapport Mintz se concentre sur le rôle de l’auteur en sa qualité de président du Comité technique, rôle sur lequel les avocats ont mis l’accent dans chacune des six questions posées lors de la commande du rapport Mintz. Si le rapport technique est si essentiel, les avocats peuvent alors indiquer, dans leurs observations, qu’il s’agit d’une preuve extrinsèque. La Cour, en tant que juge des faits, peut la recevoir en tant que telle, et non simplement l’opinion singulière du président présentée à titre de preuve d’expert.
+[37] Enfin, l’intimé soutient que les deux rapports sont préjudiciables pour les raisons suivantes :
+les rapports donnent un avis sur l’interprétation de la loi;
+l’interprétation en question concerne le droit interne, et seul un juge peut s’acquitter de l’interprétation d’une telle loi.
+(ii) Appelante [38] Le rapport Mintz est pertinent parce qu’il explique et résume principalement l’analyse du Comité technique dans le rapport technique, jetant ainsi les bases nécessaires pour comparer la structure de l’appelante à des exemples indicatifs dans le but de déterminer si le méfait d’érosion de l’assiette fiscale s’est produit. Le REATB ne doit pas être examiné isolément des règles sur les prix de transfert et, s’il n’y a pas eu érosion de la base d’imposition, les références sur les prix de transfert sont utiles.
+[39] Le rapport Mintz est nécessaire parce qu’aucun avis sur le droit interne n’est formulé. Le rapport Mintz traite des principes économiques généraux pris en compte dans le rapport du Comité technique, et donc dans l’élaboration de la loi qui a par la suite été adoptée, et ne constitue pas une interprétation de l’alinéa 95(2)b).
+[40] En outre, en sa qualité d’économiste, M. Mintz ne tombe pas sous le coup de l’exclusion d’une source d’opinion juridique sur le droit interne qui vise habituellement les avocats canadiens.
+[41] Le témoignage d’un expert sur des faits législatifs est de plus en plus courant en droit canadien et est maintenant accepté lorsqu’il est allégué que la disposition contestée ne permet pas la réalisation de l’objet de la loi. Une analyse textuelle, contextuelle et téléologique sera vraisemblablement entreprise dans le présent appel. Les faits législatifs sont essentiels dans le cadre d’une telle analyse. La preuve d’expert ne saurait se limiter aux affaires de droit constitutionnel. L’expertise qu’expose le rapport Mintz est essentielle dans le présent appel.
+[42] Le témoignage de M. Mintz au sujet de son rapport constitue le moyen le plus efficace de présenter ces faits législatifs à la Cour. Les avocats ont indiqué que la Cour suprême avait reconnu qu’il n’y a pas de « preuve directe » de l’objet de l’exigence relative à l’absence de « lien de dépendance[6] » en matière de prix de transfert. L’analyse textuelle, contextuelle et téléologique exige l’existence d’une preuve extrinsèque.
+[43] Enfin, l’admissibilité du rapport Mintz ne cause aucun préjudice à l’intimé. Le rapport Mintz a été rédigé par le président du Comité technique, et le rapport dans son ensemble constitue un outil extrinsèque essentiel dans le présent appel.
+IV. DROIT APPLICABLE : CADRE RÉGISSANT L’ADMISSIBILITÉ D’UNE PREUVE D’EXPERT [44] Le critère à deux volets quant à l’admissibilité d’une preuve d’expert a d’abord été énoncé par la Cour suprême du Canada (la « Cour suprême ») dans l’arrêt Mohan, et clarifié par la suite dans l’arrêt White Burgess[7]. L’on peut résumer ainsi les directives de la Cour suprême :
+1. Critère d’admissibilité : Cette étape consiste à répondre à quatre questions : la preuve est-elle logiquement pertinente; est-elle utile au juge des faits; existe‑t‑il d’autres règles d’exclusion et l’expert est-il dûment qualifié?
+2. Rôle de gardien du processus judiciaire / pouvoir discrétionnaire résiduel d’écarter une preuve : Cette étape consiste en une analyse coûts/avantages de l’utilité de la preuve en regard des préjudices pouvant en découler. La valeur probante de la preuve l’emporte-t-elle sur le préjudice, la confusion et la prolongation de la durée de l’instance pouvant en résulter? On peut considérer qu’il s’agit d’une application de la règle générale d’exclusion[8].
+[45] L’établissement de la pertinence selon le premier volet de ce critère est habituellement possible. La question est de savoir si la preuve rend [traduction] « l’existence d’un fait en litige plus ou moins probable qu’elle ne le serait sans cette preuve », et elle doit être évaluée [traduction] « comme une question d’expérience et de logique humaines[9] ». Les éléments de preuve qui ne satisfont pas à ce critère sont strictement inadmissibles.
+[46] Ce critère est souvent singulièrement qualifié de « critère Mohan », mais il semble plus approprié de parler du « critère Mohan/White Burgess ». L’arrêt White Burgess est l’arrêt de principe de la Cour suprême sur la question de l’avis d’expert et énonce le critère d’une manière claire et succincte[10].
+[47] L’admissibilité de l’avis juridique d’un expert est fondamentalement une question de nécessité, puisqu’il s’agit de déterminer si l’avis juridique est « nécessair[e] au juge des faits pour apprécier les questions en litige en raison de la nature technique de celles‑ci[11] ». L’avis d’expert doit donner des renseignements qui dépassent l’expérience et la connaissance du juge. Sauf dans les domaines en évolution que sont les sciences naturelles, appliquées ou sociales, il est reconnu que les juges sont, en théorie du moins, des experts en matière de droit. Ainsi, l’avis juridique d’un témoin expert sur l’interprétation législative ou jurisprudentielle ne sera habituellement pas nécessaire et devrait être écarté par application du troisième volet du critère Mohan/White Burgess[12].
+[48] Après avoir admis une telle preuve et l’avoir entendue, le juge des faits conserve son pouvoir résiduel de décider du poids à lui accorder en tenant compte de sa valeur probante et de son effet préjudiciable, s’il y a lieu[13].
+V. ANALYSE [49] Logiquement, les deux rapports d’expert doivent être analysés séparément. Toutefois, le contexte du présent appel et les questions en litige sont des éléments communs aux deux analyses.
+[50] Les deux questions en litige dans l’appel sont succinctes :
+Le revenu de 17,1 millions de dollars de source américaine tiré de la prestation de services de R et D constitue-t-il un REATB?
+Dans l’affirmative, était-il justifié de refuser la déduction au titre de l’IEA?
+[51] Les dispositions applicables de la LIR utilisées aux fins de l’établissement de la nouvelle cotisation sont principalement, sinon exclusivement, des dispositions relatives au REATB : alinéa 95(2)b) et paragraphes 95(3) et 91(4).
+[52] Il s’agit d’une affaire portant sur le REATB. Aucune analyse économique n’est nécessaire en soi pour que ces deux questions puissent être tranchées. Le montant du REATB n’est pas contesté. Le REATB est inclus, ou non, selon la loi applicable aux faits. Comme l’ont indiqué les avocats des deux parties, la majorité des faits n’est pas contestée. La question relative au REATB en est essentiellement une de droit, qui peut être tranchée en appliquant l’interprétation législative dans le contexte factuel de l’appel.
+[53] La question de la déduction au titre de l’IEA, bien que le ministre l’ait réduite à néant, ne se rapporte pas au montant de la déduction. Il s’agit plutôt de déterminer en droit si le montant du crédit d’impôt américain pour la R et D doit être déduit de l’impôt étranger payé de manière à compenser l’IEA par ailleurs disponible.
+[54] Le présent appel se tient devant la seule cour supérieure nationale mandatée par le législateur et ayant compétence exclusive pour entendre les litiges concernant des contribuables. Il ne s’agit pas d’une cour de compétence générale qui se penche sur une question peu courante dans un domaine scientifique, médical ou socio‑économique. Il est peut-être tout aussi important de noter qu’il ne s’agit pas d’une cour spécialisée, qui entend un appel sur une question d’applicabilité générale, comme une question constitutionnelle ou une autre question accessoire, que d’autres cours sont plus susceptibles d’entendre. Les questions dont notre Cour spécialisée est saisie dans le présent appel relèvent entièrement de sa compétence. Elle est d’ailleurs fréquemment appelée à se pencher sur de telles questions.
+a) Rapport Rolph Le rapport Rolph – Il ne s’agit pas d’un appel sur les prix de transfert [55] Le rapport Rolph est proposé à titre de témoignage d’expert dans le but de poser les bases aux fins de la comparaison par analogie. Les avocats de l’appelante ont déclaré sans ambages qu’ils soutiendront que des structures fiscales plus sophistiquées auraient pu être mises en place pour éroder l’assiette fiscale du Canada. M. Rolph a énoncé ces structures hypothétiques dans le rapport. En revanche, l’appelante n’a pas eu recours à une structure de prix de transfert et en a été récompensée par l’établissement d’une nouvelle cotisation relativement au REATB lié au crédit d’impôt américain pour la R et D, et par la réduction à néant de la déduction au titre de l’IEA.
+La section 2 du rapport Rolph est-elle utile à première vue? [56] La section 2 du rapport Rolph constitue-t-elle [TRADUCTION] « une preuve qui rend l’existence d’un fait en litige plus ou moins probable qu’elle ne le serait sans cette preuve »? Le témoignage d’un expert sur des structures autres que le REATB est-il utile pour démontrer que la structure du REATB à laquelle l’appelante a eu recours n’a pas contribué, selon ce qui sera plaidé, à l’érosion de l’assiette fiscale, le méfait que le régime du REATB vise à éviter?
+[57] Mis à part les conjectures quant au caractère convaincant de l’argument de l’appelante au sujet des structures analogues et de la [traduction] « pureté » de celle utilisée, les hypothèses sont utiles à l’appelante pour l’aider à faire valoir l’argument proposé, à savoir que le REATB énoncé dans la nouvelle cotisation et la déduction au titre de l’IEA refusée sont en conflit avec l’objet du régime du REATB. Le critère relatif à l’admission de l’avis d’expert concernant ces modèles économiques étant peu élevé, la Cour est disposée à faire preuve d’une certaine prudence et à concéder que cette preuve est utile au fondement logique et théorique de l’appelante dans le présent appel[14].
+Dans quelle mesure la section 2 du rapport Rolph est-elle nécessaire? [58] Si la section 2 est utile en lien avec l’argument de l’analogie, et compte tenu de la complexité apparente des hypothèses, la Cour pourrait‑elle, sans le rapport et les explications, bien comprendre l’argument de l’analogie avancé? Les opinions exprimées sont-elles nécessaires à la compréhension de l’argument? Fondamentalement. Il est logique que la Cour ne puisse pas le faire facilement. En outre, la Cour entendra ce témoignage uniquement sur ce fondement et dans ce but précis. La Cour ne devrait pas associer la nécessité limitée de la preuve à son poids[15]. Également, comme il est indiqué ci-dessous, la Cour limitera la preuve d’expert à la section 2 du rapport Rolph et exigera que les hypothèses et analyses connexes présentées dans la section 2 ne soient produites que dans le cadre de l’interrogatoire principal, sous réserve d’un contre-interrogatoire et d’une contre‑preuve en réponse, le cas échéant. Si elle laisse entendre qu’il sera nécessaire de produire une preuve en réponse à la réfutation des hypothèses, lesquelles, précisons-le, ne sont admises qu’en lien avec l’argument de l’analogie, l’appelante devra redoubler d’efforts pour convaincre la Cour. Nous sommes déjà en présence d’éléments hypothétiques et subordonnés. Le fait d’en ajouter reviendrait à nous aventurer au-delà des limites de la conjecture de premier niveau, dans les méandres des « et si », des « supposons que » et des « si seulement ». La porte est ouverte, mais pas au point de transformer un élément indirectement utile et nécessaire en un élément purement spéculatif.
+Pour qui la section 3 du rapport Rolph est-elle nécessaire? [59] La section 3 du rapport Rolph constitue, par son intention même, un réquisitoire contre la cotisation faisant l’objet de l’appel, mise en apposition avec l’objectif et l’intention du législateur entourant le régime du REATB. On ne saurait se contenter de dire que les motifs ne sont que de nature économique. La section 3 présente une hypothèse calquée sur le présent appel. Elle dénonce ensuite toute cotisation établie fondée sur le REATB et tout refus de la déduction au titre de l’IEA qui sont contraires à divers principes d’interprétation : la politique du ministre, l’objet que visent les crédits d’impôt pour la R et D et la raison pour laquelle l’imposition de ces crédits d’impôt de source étrangère est contraire aux principes du REATB, à la politique du ministre et à la bonne politique fiscale.
+[60] Une distinction peut être faite quant à la jurisprudence invoquée à l’appui de l’admissibilité de la section 3 du rapport Rolph. Il ne s’agit pas en l’espèce d’un cas de conciliation de calculs d’experts concurrents[16]. Par ailleurs, la Cour n’est pas directement appelée à se pencher sur les rapports de l’OCDE et les conventions fiscales internationales en l’espèce, si ce n’est que pour en tenir compte dans le contexte du droit canadien, qui est lui‑même un domaine duquel sont exclus les témoignages d’expert[17]. L’on peut s’attendre à ce qu’un témoin expert en droit fiscal américain soit appelé devant la Cour pour y présenter des éléments de preuve sur le droit fiscal étranger. Il n’est pas ici question du montant de l’impôt, ni de l’incidence fiscale, ni même de la preuve d’expert nécessaire à une cour de compétence générale (qui n’a pas à se pencher fréquemment sur de telles questions) pour déterminer le montant de l’impôt ou l’incidence fiscale.
+[61] La section 3 du rapport Rolph contient des opinions judicieuses et exhaustives sur les raisons pour lesquelles le ministre a établi une nouvelle cotisation à l’égard de l’appelante en dérogation à la politique du ministre, aux dispositions relatives au REATB et à l’IEA, ainsi qu’à la réciprocité des obligations du Canada au titre des lignes directrices de l’OCDE et de la politique fiscale internationale. Il s’agit essentiellement d’un témoignage d’opinion sur l’interprétation du droit interne et, à ce titre, elles ne sont pas admissibles[18]. Ces observations d’expert sont sans aucun doute utiles si elles sont qualifiées autrement. La Cour est convaincue qu’elle les entendra de nouveau, mais comme il se doit, lorsque les avocats feront leurs observations finales.
+b) Rapport Mintz [62] Les avocats de l’appelante conviennent que le rapport Mintz permettrait à la Cour d’entendre [traduction] « la personne qui a rédigé » le rapport technique. C’est à la fois inutile et préjudiciable.
+La preuve extrinsèque sera mise en évidence [63] Ce n’est pas nécessaire, et ce, pour une raison étymologique fondamentale. Le rapport technique se veut un outil extrinsèque historique en lien avec les aspects téléologiques et possiblement contextuels de toute analyse textuelle, contextuelle et téléologique du REATB et de l’IEA. Les outils extrinsèques, comme le Hansard, les notes techniques, les commentaires ministériels, les livres blancs et les rapports de comités, fournissent des éléments de preuve circonstancielle et secondaire quant à l’objet de la loi. Ces éléments de preuve précisent, mettent en évidence et révèlent l’objet et la mise en œuvre de la loi. Ils peuvent être utiles au juge parce qu’ils constituent une pièce justificative fiable, officielle et sanctionnée en lien avec le document définitif, à savoir la loi ou le règlement.
+[64] M. Mintz était le président du Comité technique. Il avait qualité de premier parmi ses pairs, tout simplement. Ce comité, quoiqu’important, a produit le rapport technique à l’intention du ministre des Finances. Ce rapport se passe d’explications : l’aboutissement du regroupement de voix, de recommandations, d’opinions et de suggestions ayant toutes contribué, entre autres, à l’élaboration du régime de REATB.
+[65] On ne saurait remettre en question la fiabilité du rapport technique, comme dans d’autres affaires[19]. Il ne s’agit pas d’une affaire constitutionnelle où les économistes et les sociologues doivent conseiller la Cour sur des faits scientifiques de sciences sociales et des avantages économiques de nature sociétale[20]. Aucune convention fiscale n’est directement visée dans le présent appel[21].
+Une analyse textuelle, contextuelle et téléologique approfondie sera effectuée [66] Le rapport technique sera sans aucun doute soumis à la Cour. Dans leurs observations, les avocats, des plaideurs eux-mêmes formés en fiscalité, donneront leur opinion quant au poids à y accorder, à l’interprétation requise ainsi qu’au renvoi qu’il convient d’y faire. Cet effort sera déployé à la fin de l’argumentation quant à l’application pertinente des règles et du régime du REATB dans le présent appel. Cependant, lorsque les avocats s’adresseront la Cour, ils attireront son attention sur l’avis officiel qui était à la disposition du ministre et du législateur. C’est cet avis qui a orienté l’élaboration du régime du REATB en 1999; ce n’est pas l’analyse rétrospective affinée et taillée sur mesure d’un contributeur important, qui n’était pas le seul auteur.
+Le rapport technique est la meilleure preuve à l’appui du rapport technique [67] Enfin, en leur qualité d’avis complémentaire au sujet du rapport technique, le rapport Mintz et le témoignage de son auteur sont purement et simplement préjudiciables : ils placent l’intimé dans une position intenable ou risquent fort de faire perdre du temps à la Cour sur des éléments de preuve de deuxième ordre.
+La convocation des membres du comité prolongerait considérablement le litige [68] Si elle admet le rapport Mintz, la Cour pourrait être confrontée à la possibilité que le litige se prolonge. Pour réfuter le point de vue actuel de l’ancien président du Comité technique, l’intimé pourrait, en cas de désaccord, vouloir faire appel au vice‑président ou à d’autres membres du Comité technique; même le sous‑ministre de l’époque pourrait être appelé à témoigner. Comment l’intimé pourrait‑il raisonnablement retrouver ces personnes et les interroger au sujet d’un rapport rédigé il y a 24 ans et qui, au fil du temps, s’est élevé au rang de document phare?
+[69] Si l’intimé décidait d’avoir recours à une telle contre‑preuve d’expert, la Cour consacrerait son temps et ses ressources à recueillir des opinions sur le sens de ce qui a été écrit dans un document constituant une preuve extrinsèque. Ce rapport technique est lui-même fonction d’un document ayant statut d’autorité suprême, la LIR. L’outil extrinsèque, donc le rapport technique, constitue la preuve la plus fiable, après la LIR. Dans les délibérations sur cet aspect préjudiciable, la Cour hésite à autoriser l’admission de témoignages d’acteurs du passé qui seraient appelés à faire part de leur position actuelle quant à des outils extrinsèques fiables, importants et de nature publique, auxquels l’on peut accéder facilement et en permanence et qui ont déjà été pris en considération. Particulièrement lorsque ces rapports concernent la loi à laquelle renvoient principalement les affaires que notre Cour est appelée à trancher.
+VI. CONCLUSION ET DÉPENS [70] Les avis de M. Mintz et de M. Rolph, qui sont par ailleurs inadmissibles, pourront être pris en compte par la Cour, mais pas en tant que preuves d’expert. La Cour prendra connaissance de l’avis de M. Mintz, tel qu’il est formulé dans le rapport technique dans sa version officielle non modulée rédigée il y a 24 ans par différents auteurs, dont lui‑même. Pour ce qui est de l’avis de M. Rolph, il sera communiqué à la Cour par le truchement des arguments et observations des avocats de l’appelante, qui porteront notamment sur les hypothèses et conclusions analogues qu’il a formulées à la section 3 de son rapport. Les avocats de l’appelante présenteront ces deux avis sous forme d’arguments de nature économique et politique pour démontrer l’inexactitude, l’incohérence et l’absurdité alléguées de la cotisation établie par le ministre.
+[71] Les dépens relatifs à la requête en voir-dire suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 12e jour de septembre 2023.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour de juin 2025.
+Karyne St-Onge, jurilinguiste principale
+RÉFÉRENCE :
+2023 CCI 137
+Nº DU DOSSIER DE LA COUR :
+2019-1378(IT)G
+INTITULÉ :
+BLACKBERRY LIMITED c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 31 août 2023
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 12 septembre 2023
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Justin Kutyan
+Me Salvatore Mirandola
+Me Kristen Duerhammer
+Avocats de l’intimé :
+Me Yanick Houle
+Me Christina Ham
+Me Katherine Savoie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Justin Kutyan
+Me Salvatore Mirandola
+Me Kristen Duerhammer
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Ontario Teacher’s Federation v. Ontario (1998), 39 OR (3d) (C. Ont.), p. 10 et 11 [Ontario Teachers].
+[2] Walsh v. BDO Dunwoody LLP, 2013 BCSC 1463, par. 49 [Walsh].
+[3] Marzen Artistic Aluminum Ltd. C. SMR, 2014 CCI 194 [Marzen].
+[4] Knights of Columbus c. R, 2008 CCI 307, par. 34 et 35 [K. of C.].
+[5] Agracity Ltd. C. SMR, 2020 CCI 91 [Agracity].
+[6] Canada c. Loblaw Financial Holdings Inc., 2021 CSC 51 [Loblaw].
+[7] R c. Mohan, 1994 CSC 80, par. 19 à 24 [« Mohan »]; White Burgess Langille Inman c. Abbott et Haliburton Co, 2015 CSC 23, par. 23 et 24 [White Burgess].
+[8] R c. Bingley, 2017 CSC 12, par. 16 [Bingley].
+[9] R v. Abbey, 2009 ONCA 624, par. 82 [Abbey], propos repris par la Cour suprême du Canada [CSC] dans White Burgess, par. 23.
+[10] Voir Bingley, par. 13.
+[11] Canada (Bureau de régie interne) c. Canada (PG), 2017 CAF 43, par. 23 [Canada (BRI)].
+[12] Canada (BRI), par. 18, citant Mohan, par. 24.
+[13] Glenn Anderson, Expert Evidence, troisième édition, LexisNexis, 2014, par. 640; citant R c. Khelawon, 2006 CSC 57 et R v. K(A), [1999] OJ No 3280 (CA Ont.) (QL).
+[14] Abbey, précité, par. 82.
+[15] White Burgess, précité, par. 45.
+[16] Marzen, précitée, par. 180.
+[17] K. of C., précitée, par. 37.
+[18] Canada (BRI), précité, p. 10 à 12.
+[19] R v. Levkovic, 2010 ONCA 830, par. 1 à 2, par. 46 à 47.
+[20] Yao et al. c. SMR, 2022 CCI 23, par. 30 et 31 [Note : il s’agit d’un appel interjeté par plus d’un appelant sous le régime de la procédure générale et non sous le régime de la procédure informelle, comme l’affirme l’appelante dans ses observations].
+[21] K. of C., précitée, par. 30 à 39.

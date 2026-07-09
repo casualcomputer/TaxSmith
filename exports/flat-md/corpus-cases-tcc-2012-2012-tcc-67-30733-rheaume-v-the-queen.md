@@ -1,0 +1,177 @@
+---
+title: "Rheaume v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30733/index.do"
+last_modified: "2012-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 67"
+citation2: ""
+neutral_citation: "2012 TCC 67"
+decision_date: "2012-02-16"
+language: "en"
+item_id: "30733"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7527
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:36:01.178000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "797d1fdd95ce83d1ee32da292fe14271b2e30838e499adefba192f46ba89d3a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rheaume v. The Queen
+
+- Citation: 2012 TCC 67
+- Decision date: 2012-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7527, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rheaume v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-16
+Neutral citation
+2012 TCC 67
+File numbers
+2010-3257(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3257(IT)I
+BETWEEN:
+DANIEL RHEAUME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing on February 16, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+ORDER
+UPON motion made by the appellant to have the appeals adjourned;
+And upon motion made by the respondent pursuant to section 152 of the Tax Court of Canada Rules (General Procedure) for costs;
+And upon hearing the allegation of the parties;
+The adjournment is granted and it is ordered that the hearing in this matter, which was scheduled for February 16th, 2012 in Toronto, Ontario, be rescheduled before this Court at the Tax Court of Canada, Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, commencing at 9:30 a.m. on Tuesday, April 3, 2012, for a duration of one day.
+The order rendered by Justice Jorré dated August 17, 2011 is amended to read:
+The appellant shall provide to the respondent copies of any documents he intends to rely upon during the hearing no later than 10 days prior to the hearing.
+The motion for costs directing the appellant’s agent to reimburse his client for any costs ordered by this Court shall be addressed by presiding Judge.
+It is also ordered that the correspondence from this Court be sent to both the appellant and Mr. David Kisondath addresses.
+Signed at Ottawa, Canada, this 27th day of February 2012.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2012 TCC 67
+Date: 20120227
+Docket: 2010-3257(IT)I
+BETWEEN:
+DANIEL RHEAUME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Auray J.
+[1] This appeal has a long history of delay occasioned by the appellant and his agent.
+[2] The appeals of the appellant, Mr. Rheaume, were originally scheduled to be heard on May 5, 2011, but they were adjourned by the Court due to a scheduling conflict.
+[3] The next hearing date was canvassed with the parties who agreed for it to be set down on August 12, 2011.
+[4] On July 29, 2011, the appellant’s agent requested an adjournment because he claimed that he would be out of the country. The respondent opposed the adjournment.
+[5] This Court refused the adjournment and on August 12, 2011, the day of the hearing, the appellant’s agent appeared without the appellant and requested an adjournment so that the documents could be obtained and provided to the respondent.
+[6] The respondent consented to the adjournment on condition that costs be paid and the documents be provided as soon as possible, but not later than 30 days prior to the next hearing.
+[7] On August 17, 2011, Justice Jorré issued an order:
+ORDER
+Upon motion made by the appellant to have the appeal adjourned;
+And upon hearing submissions from the parties;
+For the reasons given from the bench, the adjournment is granted on the following terms:
+1. The appellant shall pay costs of $600 to the respondent.
+2. Those costs are to be paid on or before 12 September 2011.
+3. If those costs are not paid by 12 September 2011, the appeal shall, upon application by the respondent, be dismissed.
+4. The appellant shall provide the respondent copies of any documentation the appellant relies upon as soon as possible and, in any event, no later than 30 days prior to the hearing.
+5. If the appellant fails to provide any documents he relies on to the respondent no later than 30 days prior to the hearing, the appellant may not rely on the documents unless he obtains leave from the Court prior to the hearing.
+[8] The costs of $600 have been paid but documents with probation value were not remitted to the respondent.
+[9] On October 6, 2012, the Court set these appeals down for hearing on February 16, 2012.
+[10] On February 14, 2012, there was a request for another adjournment. The appellant’s agent, Mr. Kisondath advised that he was sick and could not come to the Court.
+[11] On February 15, 2012, a letter was sent by the Court’s Hearing Coordinator to the agent, Mr. David Kisondath:
+BY FAX AND MAIL
+February 15, 2012
+David Kisondath
+Transglobal Management Inc
+1425 Dundas Street East
+Suite 202
+Mississauga, Ontario L4X 2W4
+Dear Sir:
+RE: Daniel Rheaume
+v. Her Majesty the Queen
+2010-3257(IT)I
+This will acknowledge receipt of your letter received February 14, 2012, requesting an adjournment of the hearing in the above-noted case set down for February 16, 2012 in Toronto.
+Further to my telephone conversation with you today, this will confirm that your request for adjournment has been denied by Associate Chief Justice Rossiter. The Associate Chief Justice directed that if you have a medical certificate, you should present to the trial judge on February 16, 2012 at 9:30 a.m.
+Associate Chief Justice Rossiter further directed that the Appellant is required to appear in Court on February 16, 2012 at 9:30 a.m. I have made efforts to reach the Appellant by telephone; however, his telephone is turned off. I confirm your advice to me that you will contact the Appellant at his mother’s residence to advise him that his attendance is required in Court on February 16, 2012 at 9:30 a.m.
+Yours truly,
+Kimberly McIntee
+Hearings Coordinator
+c. Samantha Hurst (by fax)
+Daniel Rheaume (by fax)
+[12] On February 16, 2012:
+- The appeal was called for hearing at 9:30 a.m., no one was present for the appellant;
+- The Court adjourned for half an hour;
+- During the adjournment, the Commissioner gave a letter to the Court Registrar to be given to the Judge hearing the appeal;
+- In the envelope, there was a medical certificate signed by Dr. Sekely, dated February 15, 2012, attesting that Mr. Kisondath was advised to stay home away from work for 3 days.
+[13] By the time the Court resumed at 10:00, the appellant was present.
+[14] It was clear the appellant was not aware of what was going on with respect to his appeals. He did not have any documents. The appellant stated that he could not proceed without his agent, Mr. Kisondath, since he was his business partner and he was the one taking care of his tax affairs.
+[15] In light of this, I decided to grant an adjournment to ensure that the appellant had time to understand his case and to prepare accordingly.
+[16] It is to be noted that the respondent notified the appellant that she would subpoena Mr. Kissondath and that she will object at the hearing that Mr. Kissondath serves as a witness and as his agent.
+[17] The Court also explained to the appellant that he has chosen the informal procedure. Accordingly, if the appellant were to be successful, the Court will be limited to an amount of $12,000 per year not including any amount of interest.
+[18] The respondent also asked that the Court gives directions under section 152 of the Tax Court of Canada Rules (General Procedure). She was of the view that the appellant’s agent should be responsible for the costs of these appeals.
+[19] This is an informal procedure; section 152 applies to the general procedure and not the informal procedure.
+[20] I am in the view that with respect to costs, the costs will be better addressed by the presiding Judge.
+[21] Therefore, it is ordered that the hearing of this matter, be rescheduled before this Court at the Tax Court of Canada, Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, commencing at 9:30 a.m. on Tuesday, April 3, 2012, for a duration of one day. It will be a bilingual hearing.
+[22] It is also ordered that an amendment will be made to the Order of Justice Jorré allowing the appellant to provide to the respondent copies of any documents he intends to rely upon during the hearing, no later than 10 days prior to the hearing.
+[23] It is also ordered that the correspondence from this Court be sent to both the appellant and Mr. David Kisondath addresses.
+Signed at Ottawa, Canada, this 27th day of February 2012.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2012 TCC 67
+COURT FILE NO.: 2010-3257(IT)I
+STYLE OF CAUSE: DANIEL RHEAUME v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 16, 2012
+REASONS FOR ORDER BY: The Honourable Justice Johanne D'Auray
+DATE OF ORDER: February 27, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

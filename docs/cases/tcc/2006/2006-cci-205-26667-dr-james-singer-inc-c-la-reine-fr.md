@@ -1,0 +1,249 @@
+---
+title: "Dr. James Singer Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26667/index.do"
+last_modified: "2006-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 205"
+citation2: ""
+neutral_citation: "2006 CCI 205"
+decision_date: "2006-04-05"
+language: "fr"
+item_id: "26667"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3609
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:43:22.964000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a1b3befacb2e01c408435b0b60205063f295c21358dffdaf5577b26c7840e6f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dr. James Singer Inc. c. La Reine
+
+- Citation: 2006 CCI 205
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3609, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dr. James Singer Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-05
+Référence neutre
+2006 CCI 205
+Numéro de dossier
+2005-2726(GST)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2726(GST)I
+ENTRE :
+DR. JAMES SINGER INC.,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 mars 2006, à Vancouver (Colombie-Britannique).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Avocat de l’appelante :
+M. Carl Beck
+Avocate de l’intimée :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 17 décembre 2004 et porte le numéro 892232521RT0001, est rejeté.
+Signé à Ottawa (Ontario) ce 5e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 15e jour de mai 2007.
+D. Laberge, LL.L.
+Référence : 2006CCI205
+Date : 20060405
+Dossier : 2005-2726(GST)I
+ENTRE :
+DR. JAMES SINGER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Il s’agit d’un appel à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise (la « Loi ») relativement à la taxe sur les produits et services (« TPS ») pour la période de déclaration allant du 1er septembre 2002 au 31 août 2003.
+[2] L’appelante est une société appartenant au Dr James Signer, qui est dentiste. Ses activités commerciales consistent en la fourniture de services dentaires et de prothèses, de couronnes et de ponts dentaires. Pendant la période visée, l’appelante a demandé des crédits de taxe sur les intrants (« CTI ») de 14 900 $. L’Agence du revenu du Canada (« ARC ») a accordé des CTI de 2 195 $, mais a refusé d’accorder des CTI de 12 705 $. C’est ce dernier montant qui est en litige. La question est de savoir si la partie de l’entreprise de l’appelante qui consiste en la fourniture de prothèses, de couronnes et de ponts dentaires est une fourniture détaxée, exonérée ou taxable. Si la fourniture est détaxée ou taxable, l’appelante a droit à des CTI relativement à la fourniture. Si elle est exonérée, aucun CTI ne peut être reçu.
+[3] M. Beck, qui est comptable, a présenté avec habileté les arguments juridiques à l’appui de la position de l’appelante. Il a avancé qu’une portion d’environ 30 p. 100 de l’entreprise dentaire de l’appelante était consacrée à la fourniture de prothèses, de dents artificielles et de ponts et de couronnes dentaires et que l’appelante devrait donc avoir droit à des CTI à raison de 30,75 p. 100 des dépenses de l’appelante pour 2001 et à raison de 30,99 p. 100 pour 2002. La Couronne a calculé que le pourcentage des fournitures détaxées fournies dans le cadre de l’entreprise de l’appelante était de 9 p. 100.
+[4] Le problème quant à l’habile présentation de M. Beck de la cause de l’appelante était que, peu importe l’interprétation des dispositions pertinentes de la Loi, l’absence de fondement probatoire fait que je ne peux pas accorder d’allégement à l’appelante. Les fournitures qui étaient détaxées selon M. Beck sont incluses dans un certain nombre de catégories qui ont toutes leur propre code selon le British Columbia Association of Dental Surgeons Fee Guide. Elles sont indiquées dans l’analyse de M. Beck contenue à l’onglet 15 de la pièce A-1, dans laquelle ce dernier conclut que le pourcentage des fournitures détaxées était de 30,99 p. 100 ou de 30,75 p. 100. Cette analyse est reproduite ci-dessous :
+[traduction]
+DR. JAMES SINGER INC.
+ANALYSE DES REVENUS (fournitures détaxées)
+Le 31 août 2001-2002
+No de procédure
+__________Description_________
+Montant 2001
+Montant 2002
+22311
+Tiges permanentes préfabriquées
+1 720 $
+862 $
+23601
+Noyau ionomère composite-verre
+14 958
+10 280
+25731
+Tiges préfabriquées
+3 209
+2 763
+25732
+Tiges préfabriquées
+801
+747
+27201
+Couronne porcelaine/céramique
+19 516
+14 331
+27211
+Couronne porcelaine/céramique
+métal
+65 287
+65 030
+27301
+Couronne métal (non complexe)
+50 261
+47 226
+62501
+Pontique porcelaine de métal fondu
+7 874
+8 017
+62502
+"
+338
+-
+67201
+Pilier
+1 497
+4 118
+67211
+Pilier
+32 927
+17 401
+67301
+Pilier
+1 123
+1 824
+89700
+Frais orthodontiques mensuels
+35 267
+42 231
+89701
+Frais orthodontiques initiaux
+___8 830
+__11 786
+243 608
+226 616
+Total des revenus – 2001 792 222
+Pourcentage des revenus
+provenant de fournitures détaxées– 2001 30,75 %
+Total des revenus – 2002 731,284
+Pourcentage des revenus
+provenant de fournitures détaxées– 2002 30,99 %
+[5] Bien que les règles de la preuve sous le régime de la procédure informelle ne soient pas aussi rigoureusement appliquées que celles des Règles de la Cour canadienne de l’impôt (procédure générale), je ne crois pas toutefois que la présente analyse à elle seule permet à un appelant de s’acquitter de son fardeau de montrer que les hypothèses en fonction desquelles la cotisation a été établie sont fausses. Voici les hypothèses en question :
+[traduction]
+a) l’appelante est une société professionnelle qui fournit des services dentaires dans un cabinet privé;
+b) l’appelante est inscrite en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, dans sa forme modifiée, (la « Loi »); l’inscription est entrée en vigueur le 1er septembre 2002, et l’appelante a reçu le numéro d’inscription de la TPS 892232521RT;
+c) l’appelante était tenue de produire ses déclarations de TPS sur une base annuelle pour la période visée par la cotisation;
+d) pendant toute la période pertinente, l’appelante fournissait des dents artificielles et des appareils orthodontiques dans le cadre de la fourniture de services de soins dentaires;
+e) les dents artificielles et les appareils orthodontiques n’étaient pas fournis à des fins esthétiques;
+f) les revenus pour les dents artificielles et les services orthodontiques comprenaient les services de mise en place et la fourniture de dents artificielles et d’appareils orthodontiques;
+g) les dents artificielles et les appareils orthodontiques que l’appelante offre à ses patients constituent une fourniture;
+h) l’installation de dents artificielles et d’appareils orthodontiques est une fourniture distincte;
+i) pendant toute la période pertinente, la fourniture que l’appelante effectuait de dents artificielles et d’appareils orthodontiques ne générait pas plus de 9 p. 100 du total de ses revenus;
+j) dans sa déclaration de TPS pour la période visée par la cotisation, l’appelante a indiqué qu’aucune TPS n’était percevable, des CTI de 13 823 $ et un remboursement de la taxe nette de 13 823 $;
+k) l’appelante a par la suite modifié sa demande de CTI pour qu’elle s’élève à 14 901 $ pour la période visée par la cotisation;
+l) un montant de 2 195 $ des CTI demandés par l’appelante se rapportait à la fourniture de dents artificielles et d’appareils orthodontiques aux patients de l’appelante;
+m) un montant de 12 706 $ des CTI demandés par l’appelante se rapportait à des dépenses engagées pour la fourniture de services de soins dentaires, pour des frais généraux et pour des dépenses indirectes.
+[6] Il me faudrait des éléments de preuve du Dr Singer pour expliquer la nature des divers services exposés dans l’analyse et certaines explications au sujet des chiffres. Je peux comprendre que le Dr Singer ne souhaite pas s’absenter de son cabinet dentaire qui semble être bien lucratif pour appuyer une demande de CTI s’élevant à environ 12 000 $. C’est son choix, mais s’il y a une question de principe qui pourrait avoir une incidence sur la façon dont il calcule la TPS, il est important qu’il prenne cette affaire au sérieux. La plupart des gens ont une idée générale de ce qui se passe dans un cabinet de dentiste, mais je ne crois pas qu’il soit raisonnable de s’attendre à ce que je prenne connaissance d’office du sens des termes techniques des procédures.
+[7] Cela est suffisant pour trancher l’affaire. Par respect pour les observations soigneuses présentées par M. Beck et par l’avocate de l’intimée, je vais brièvement invoquer une question d’interprétation, quoique par voie d’un obiter dictum.
+[8] Les annexes V et VI sont en partie rédigées comme suit :
+ANNEXE V – FOURNITURES EXONÉRÉES
+PARTIE II – SERVICES DE SANTÉ
+2. La fourniture de services de santé en établissement, rendus à un patient ou à un résident d’un établissement de santé, effectuée par l’administrateur de l’établissement, à l’exclusion de la fourniture de services liés à la prestation de services chirurgicaux ou dentaires exécutés à des fins esthétiques plutôt que médicales ou restauratrices.
+5. La fourniture par un médecin de services de consultation, de diagnostic ou de traitement ou d’autres services de santé rendus à un particulier, à l’exclusion de services chirurgicaux ou dentaires exécutés à des fins esthétiques plutôt que médicales ou restauratrices.
+ANNEXE VI – FOURNITURES DÉTAXÉES
+PARTIE II – APPAREILS MÉDICAUX ET APPAREILS FONCTIONNELS
+1. Les définitions qui suivent s’appliquent à cette partie.
+« médecin » Personne autorisée par la législation provinciale à exercer la profession de médecin.
+11. La fourniture de dents artificielles.
+11.1 La fourniture d’un appareil orthodontique.
+25. La fourniture d’un article de prothèse médicale ou chirurgicale, d’un appareil d’iléostomie et de colostomie et d’un appareil pour voies urinaires ou autres articles semblables destinés à être portés par une personne.
+26. La fourniture d’un article et des matières, à l’exclusion des cosmétiques, devant servir à l’utilisateur d’une prothèse, d’un appareil ou d’un article semblable visé à l’article 25 et nécessaires à leur bonne application et leur entretien.
+34. La fourniture de services (sauf ceux dont la fourniture est incluse dans la partie II de l’annexe V, à l’exception de l’article 9 de cette partie, et ceux qui sont liés à la prestation de services chirurgicaux ou dentaires exécutés à des fins esthétiques et non à des fins médicales ou restauratrices) qui consistent à installer, entretenir, restaurer, réparer ou modifier un bien visé à l’un des articles 2 à 32 et 37 à 40 de la présente partie, et la fourniture en même temps que le service d’une pièce liée à un tel bien.
+[9] Il est donc évident que la grande majorité des services dentaires sont visés par l’annexe V et sont donc exonérés. La position de l’ARC est que les services dentaires sont soit exonérés, soit taxables, comme elle l’indique dans la lettre à l’appelante datée du 9 décembre 2004.
+[traduction]
+Vous trouverez également à titre d’information un résumé des rajustements après vérification et notre analyse des revenus détaxés. Veuillez noter que les revenus détaxés ont été calculés en fonction de la proportion moyenne des frais de laboratoire facturés par rapport au total des frais indiqués sur les formulaires de demande de remboursement des frais dentaires fournis par votre comptable. Cela a donné un pourcentage de 31,3 % du total des frais des codes de procédure se rapportant aux dents artificielles qui étaient détaxées. Ce pourcentage a été appliqué à l’analyse des revenus fournis par votre comptable pour 2001 et 2002. Lorsque le total de la partie des revenus détaxés a été établi, y compris les frais orthodontiques initiaux, la partie détaxée du total de vos revenus était de 9 %. Selon cette analyse, moins de 10 % de vos revenus sont des revenus commerciaux, et le résultat de cela est que les CTI ne sont pas accordés pour des frais généraux ou des frais indirects. Nous avons calculé des CTI admissibles de 9 % sur les fournitures dentaires déclarées.
+Votre représentant, Carl Beck, a fait savoir qu’il croit que la fourniture de dents artificielles est une fourniture détaxée parce que ces services sont effectués à des fins esthétiques. Il ne s’agit pas de la position de l’Agence. Notre position est que les services de dentiste sont soit exonérés, soit taxables, selon la mesure dans laquelle ils sont effectués à des fins esthétiques. Toutefois, comme nous l’avons indiqué ci-dessus, nous accordons un certain montant de CTI par suite de la détaxation des revenus provenant des dents artificielles et des appareils orthodontiques. Nous acceptons qu’un dentiste qui fournit des appareils qui sont détaxés en même temps que des services dentaires puisse séparer les deux fournitures si celles-ci sont facturées de façon à ce qu’il y ait une composante détaxée (la fourniture des dents artificielles ou des appareils orthodontiques fabriqués) et une composante exonérée (les services de diagnostic et les traitements qu’il fournit).
+[10] À mon avis, cela n’est pas correct. Certaines fournitures sont détaxées, et dans la cotisation, il est tenu compte de ce fait. La position de l’intimée est que la fourniture d’une dent artificielle est détaxée en vertu de l’article 11 de la partie II de l’annexe VI, mais que le coût pour installer les dents artificielles ne l’est pas. Avec respect, je ne suis pas d’accord avec l’intimée. L’article 34 mentionne expressément « la fourniture de services […] qui consistent à installer […] un bien visé à l’un des articles 2 à 32 […] ». Selon moi, le libellé est clair et précis. Je ne crois pas qu’il y ait en l’espèce quelque chose qui dépend de la question de savoir si l’une des procédures a été effectuée à des fins esthétiques. Si la question était pertinente, je voudrais que des éléments de preuve soient présentés.
+[11] L’avocate allègue que l’installation de dents artificielles consiste en « [l]a fourniture de services (sauf ceux dont la fourniture est incluse dans la partie II de l’annexe V […] ». À mon avis, le texte qui se trouve entre parenthèses à l’article 34 est de nature générale. Le texte qui n’est pas entre parenthèses est précis et l’emporte sur les termes généraux. Par conséquent, à l’égard de cette question de droit étroite, je crois que l’appelante a raison. Toutefois, vu les faits, je dois rejeter l’appel.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+Ce 15e jour de mai 2007.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2006CCI205
+NO DU DOSSIER DE LA COUR :
+2005-2726(GST)I
+INTITULÉ :
+Dr. James Singer Inc. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 20 mars 2006
+MOTIFS DU JUGEMENT :
+L’honorable D.G.H. Bowman, juge en chef
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 5 avril 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Carl Beck
+Avocate de l’intimée :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Cabinet :
+Beck & Associates
+6824 Chalet Court
+Delta (Colombie-Britannique)
+V4E 3C1
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

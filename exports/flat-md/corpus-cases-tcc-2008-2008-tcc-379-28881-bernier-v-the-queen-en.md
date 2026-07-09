@@ -1,0 +1,230 @@
+---
+title: "Bernier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28881/index.do"
+last_modified: "2008-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 379"
+citation2: ""
+neutral_citation: "2008 TCC 379"
+decision_date: "2008-09-16"
+language: "en"
+item_id: "28881"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1324
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:49:53.303000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec7a19718861bcdb9aca50ad500f3ada1432d63c000e6774ce40181d0ae35978"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bernier v. The Queen
+
+- Citation: 2008 TCC 379
+- Decision date: 2008-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1324, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-16
+Neutral citation
+2008 TCC 379
+File numbers
+2007-4141(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4141(IT)I
+BETWEEN:
+RÉAL BERNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 17, 2008, at Montréal, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sarom Bahk
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of September 2008.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 14th day of November 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 379
+Date: 20080916
+Docket: 2007-4141(IT)I
+BETWEEN:
+RÉAL BERNIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 17, 2008, at Montréal, Quebec, and amended for greater clarity and precision)
+Hogan J.
+[1] Réal Bernier is appealing an income tax assessment for his 2006 taxation year. Under section 18.1 of the Tax Court of Canada Act, the informal procedure applies to his appeal.
+[2] At the conclusion of the trial, I dismissed the taxpayer's appeal. For the parties' benefit, I consider it appropriate to put my reasons down in writing now.
+[3] The issue arises out of the fact that the Canada Revenue Agency (CRA) charged the Appellant a total of $120.21 in instalment interest.
+[4] The facts set out in paragraphs 3 to 6 of the Reply to the Notice of Appeal are as follows:
+[TRANSLATION]
+3. The Minister initially assessed the Appellant for the 2006 taxation year on May 22, 2007.
+4. On or about June 5, 2007, the Appellant served on the Minister his objection to the assessment dated May 22, 2007, for the 2006 taxation year.
+5. In reply to the Appellant's objection to the assessment dated May 22, 2007, for the 2006 taxation year, the Minister confirmed the assessment on July 18, 2007.
+6. In making and confirming the assessment of May 22, 2007, for the 2006 taxation year, the Minister relied on the following assumptions of fact:
+(a) In his income tax return for his 2006 taxation year, the Appellant reported the following amounts:
+Description
+Amount
+Quebec Pension Plan
+$6,263
+Other pension
+$19,774
+Interest/investment income
+$1,451
+RRSP* income
+$10,000
+Net business income
+$2,039
+TOTAL INCOME
+$39,527
+*Registered retirement savings plan
+(b) In his income tax return for his 2005 taxation year, the Appellant reported the following amounts:
+Description
+Amount
+Quebec Pension Plan
+$6,122
+Interest/investment
+income
+$1,392
+RRSP* income
+$7,000
+Other income
+$18,743
+Net business income
+$5,473
+TOTAL INCOME
+$38,730
+*Registered retirement savings plan
+(c) In his income tax return for his 2004 taxation year, the Appellant reported the following amounts:
+Description
+Amount
+Quebec Pension Plan
+$6,025
+Other pension
+$18,813
+RRSP* income
+$10,000
+Net business income
+$863
+TOTAL INCOME
+$35,701
+*Registered retirement savings plan
+(d) On May 22, 2007, the Appellant's tax account for his 2006 taxation year broke down as follows:
+Description
+Amount
+Federal tax
+$4,552.99
+Refundable abatement
+( $751.24)
+Tax deductions
+($1,953.90)
+(e) On May 11, 2006, the Appellant's tax account for his 2005 taxation year broke down as follows:
+Description
+Amount
+Federal tax
+$4,478.35
+Refundable abatement
+( $738.93)
+Tax deductions
+($1,623.85)
+(f) On June 9, 2005, the Appellant's tax account for his 2004 taxation year broke down as follows:
+Description
+Amount
+Federal tax
+$4,206.56
+Refundable abatement
+( $694.08)
+Tax deductions
+($1,945.34)
+(g) The Appellant was required to make tax instalment payments for the 2004 and 2005 taxation years;
+(h) During the 2006 taxation year, the Appellant was required to pay the following amounts quarterly, that is, on March 15, June 15, September 15 and December 15:
+Period
+Amount
+March 15
+$392.00
+June 15
+$392.00
+September 15
+$601.88
+December 15
+$461.96
+(i) The Appellant did not make his instalment payments for his 2006 taxation year;
+(j) Instalment reminders were sent to the Appellant on the required dates to inform him of the payments he had to make for the 2006 taxation year;
+(k) Since the Appellant did not make any tax instalment payments for the 2006 taxation year, the Minister claimed $120.21 in instalment interest;
+(l) As well, since the Appellant did not pay his tax balance until May 24, 2007, even though he was required to pay it on April 30, 2007, the Minister claimed $10.70 in arrears interest.
+Issues
+[5] The issues are whether, for the 2006 taxation year:
+(a) the Appellant was required to make tax instalment payments;
+(b) the Minister was right to charge the Appellant $120.21 in instalment interest;
+(c) the Minister was right to charge the Appellant $10.70 in arrears interest;
+(d) the Minister correctly calculated the instalment and arrears interest.
+[6] With regard to the interest, subsection 161(1) of the Income Tax Act (ITA) is clear and unambiguous. The Court has no jurisdiction to cancel or reduce interest properly charged under subsection 161(2) of the ITA.
+[7] The Appellant did not provide any valid reason to challenge the charging of interest by the CRA. As his only argument, he referred to sections 146 and 147 of the ITA without establishing their relevance. For these reasons, the Court dismisses the appeal.
+Signed at Ottawa, Canada, this 16th day of September 2008.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 14th day of November 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 379
+COURT FILE NO.: 2007-4141(IT)I
+STYLE OF CAUSE: RÉAL BERNIER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: September 16, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sarom Bahk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

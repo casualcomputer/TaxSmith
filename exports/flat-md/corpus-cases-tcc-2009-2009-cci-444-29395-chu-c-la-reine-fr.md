@@ -1,0 +1,255 @@
+---
+title: "Chu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29395/index.do"
+last_modified: "2009-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 444"
+citation2: ""
+neutral_citation: "2009 CCI 444"
+decision_date: "2009-09-11"
+language: "fr"
+item_id: "29395"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6886
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:35:29.844000+00:00"
+cases_cited_count: 4
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e825ec938e1055ef011bfc4b9e79caa4a841eab99195323730690ab88a323b88"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chu c. La Reine
+
+- Citation: 2009 CCI 444
+- Decision date: 2009-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6886, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-11
+Référence neutre
+2009 CCI 444
+Numéro de dossier
+2009-2442(IT)APP
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2442(IT)APP
+ENTRE :
+KAREN CHU,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes
+de Karen Chu, 2009-2076(GST)APP, et de Tai Shen Chu, 2009-2080(IT)APP,
+et motifs de l’ordonnance rendus oralement à l’audience
+à Toronto (Ontario), le 27 août 2009 et le 28 août 2009.
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de la demanderesse :
+Me Nick Ranieri
+Avocate de l’intimée :
+Me Alexandra Humphrey
+___________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai applicable à la signification d’un avis d’opposition aux cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2003 et 2004;
+Et après avoir entendu les allégations et les arguments des parties;
+La demande est rejetée pour les motifs énoncés dans les motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 29e jour d’octobre 2009.
+Hélène Tremblay, traductrice
+Dossier : 2009-2076(GST)APP
+ENTRE :
+KAREN CHU,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes
+de Karen Chu, 2009-2442(IT)APP, et de Tai Shen Chu, 2009-2080(IT)APP,
+et motifs de l’ordonnance rendus oralement à l’audience
+à Toronto (Ontario), le 27 août 2009 et le 28 août 2009.
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de la demanderesse :
+Me Nick Ranieri
+Avocate de l’intimée :
+Me Alexandra Humphrey
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai applicable à la signification d’un avis d’opposition à la cotisation établie sous le régime de la Loi sur la taxe d’accise relativement à la période du 1er janvier 2003 au 31 décembre 2004;
+Et après avoir entendu les allégations et les arguments des parties;
+La demande est rejetée pour les motifs énoncés dans les motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 29e jour d’octobre 2009.
+Hélène Tremblay, traductrice
+Dossier : 2009-2080(IT)APP
+ENTRE :
+TAI SHEN CHU,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes de Karen Chu, 2009-2442(IT)APP, et de Karen Chu, 2009-2076(GST)APP,
+et motifs de l’ordonnance rendus oralement à l’audience
+à Toronto (Ontario), le 27 août 2009 et le 28 août 2009.
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat du demandeur :
+Me Nick Ranieri
+Avocate de l’intimée :
+Me Alexandra Humphrey
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai applicable à la signification d’un avis d’opposition aux cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2003 et 2004;
+Et après avoir entendu les allégations et les arguments des parties;
+La demande est rejetée pour les motifs énoncés dans les motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 29e jour d’octobre 2009.
+Hélène Tremblay, traductrice
+Référence : 2009 CCI 444
+Date : 20090911
+Dossier : 2009-2442(IT)APP
+ENTRE :
+KAREN CHU,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2009-2076(GST)APP
+KAREN CHU,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+Dossier : 2009-2080(IT)APP
+TAI SHEN CHU,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Révisés à partir de la transcription des motifs rendus oralement à l’audience
+à Toronto (Ontario), le 28 août 2009.)
+Le juge Hershfield
+[1] Les trois demandes dont je suis saisi ont été présentées afin d’obtenir la prorogation du délai imparti pour produire des avis d’opposition à l’égard de certaines cotisations établies par l’Agence du revenu du Canada (l’« ARC »). Deux de ces cotisations concernent la demanderesse, Karen Chu; l’une a été établie sous le régime des dispositions de la Loi de l’impôt sur le revenu (la « LIR »), l’autre sous le régime des dispositions relatives à la TPS de la Loi sur la taxe d’accise (la « LTA »). La troisième cotisation concerne le demandeur, Tai Shen Chu. Elle a été établie sous le régime des dispositions de la LIR.
+[2] Les conditions auxquelles la Cour peut accorder une prorogation de délai sont énoncées au paragraphe 166.2(5) de la LIR et au paragraphe 304(5) de la LTA.
+[3] Les conditions prévues par chacune de ces dispositions sont les mêmes. Selon les avis de réponse modifiés produits à l’égard de toutes les demandes, celles‑ci n’ont pas été présentées dans le délai imparti à l’alinéa a) de chacune de ces dispositions.
+[4] Le délai dans lequel les demandes doivent être présentées pour que la Cour puisse les examiner est d’une année plus 90 jours à partir de la date où l’ARC a mis les avis de cotisation à la poste. Le libellé précis de chaque disposition figure ci‑dessous. En ce qui a trait à la LIR, l’alinéa 166.2(5)a) est ainsi rédigé :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition […]
+[5] Le délai par ailleurs imparti est prévu à l’alinéa 165(1)a) de la LIR :
+165. (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) […]
+et la date applicable en l’espèce est la suivante :
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation; […]
+[6] Les dispositions de la LTA fixent un délai pratiquement identique. C’est ce qui ressort de l’alinéa 304(5)a), lequel fait état d’un délai d’un an et renvoie au paragraphe 301(1.1) pour les 90 jours supplémentaires, ce qui totalise un an et 90 jours à partir de la date où l’ARC a mis les avis de cotisation à la poste.
+[7] L’avocat des demandeurs reconnaît que les demandes en cause n’ont pas été présentées dans le délai imparti. Voici les dates limites auxquelles les demandes devaient avoir été présentées et les dates auxquelles elles ont, dans les faits, été déposées. En ce qui concerne la demanderesse Karen Chu et sa demande fondée sur la LIR, la date limite était le 4 juillet 2008. Or, la demande a plutôt été présentée le 9 janvier 2009.
+[8] En ce qui concerne la cotisation relative à la TPS établie à l’égard de la demanderesse et la demande de cette dernière, la date limite à laquelle elle devait avoir produit la demande était le 25 juillet 2008, tandis qu’elle a, dans les faits, déposé celle‑ci le 9 janvier 2009.
+[9] Quant au demandeur Tai Shen Chu, la date limite à laquelle il devait avoir présenté sa demande pour respecter les dispositions susmentionnées était le 4 juillet 2008 et il a plutôt produit sa demande le 9 janvier 2009.
+[10] Je reconnais d’emblée que l’affaire dont je suis saisi est épineuse en ce que le défaut des demandeurs de produire des oppositions en temps opportun ne découle d’aucune omission de leur part. Au contraire, ils ont pris des mesures appropriées pour déposer des oppositions dans les délais impartis et ils croyaient avoir rempli leurs obligations à cet égard.
+[11] C’est un tiers engagé par les demandeurs pour les représenter qui a laissé croire à ces derniers que les mesures nécessaires avaient été prises pour interjeter appel des cotisations en cause. Il s’agit d’une affaire de négligence professionnelle, aggravée par une tromperie, qui s’est traduite pour les demandeurs par la perte de leur droit de poursuivre leur opposition, ou leur appel, visant les cotisations en cause.
+[12] Malheureusement, je n’ai aucune compétence pour remédier à cette situation. Lorsqu’une personne subit un dommage par suite de la négligence et de la tromperie d’un conseiller professionnel, il faut s’adresser ailleurs pour obtenir réparation.
+[13] L’auteur de la tromperie en l’espèce paraît être Taxperts Corp. (« Taxperts »). Les demandeurs ont d’abord retenu les services de ce cabinet pour qu’il s’occupe de la vérification qu’avait entreprise l’ARC et qui a donné lieu aux cotisations en cause. À son tour, Taxperts a délégué cette tâche à un comptable agréé, que j’appellerai M. H., ou a retenu ses services à cette fin.
+[14] Les cotisations en cause ont par la suite été établies et Taxperts et M. H. ont continué de travailler pour les demandeurs. M. H. avait assuré à ces derniers qu’il produirait les avis requis pour interjeter appel des cotisations. Dans un affidavit, M. H. avoue qu’il est alcoolique et qu’il a consommé de l’alcool, au moins à l’occasion, après s’être joint aux Alcooliques Anonymes en 2003.
+[15] Point davantage pertinent au regard des demandes dont je suis saisi, il a admis qu’il avait accru sa consommation d’alcool et que sa santé s’était détériorée pendant la période où on l’avait chargé de répondre aux cotisations en cause. Il reconnaît que les demandeurs l’ont téléphoné à maintes reprises au sujet de l’opposition aux cotisations et qu’il leur a assuré que les appels avaient été déposés. Il s’agissait d’une tromperie éhontée, et M. H. admet l’avoir commise. Il a reconnu qu’il avait trompé les demandeurs ainsi que Taxperts à de nombreuses occasions au sujet de l’évolution des cotisations.
+[16] Comme je l’ai déjà mentionné, je n’ai aucune compétence pour remédier à cette situation. Les arrêts et ouvrages sur la question et sur les dispositions analogues confirment tous que la Cour n’a pas compétence pour proroger le délai d’un an et 90 jours fixé par le législateur, même en présence de considérations touchant l’équité.
+[17] Dans la décision Hickerty c. R., 2007[1], qui est invoquée par les demandeurs, la Cour s’est néanmoins montrée plus magnanime au moment d’examiner la disposition applicable. Elle a en effet choisi d’appliquer la doctrine de la possibilité de découverte, de sorte que la date servant à déterminer le moment de l’expiration du délai ne soit pas celle du 90e jour suivant la date de la mise à la poste de l’avis de cotisation, mais bien celle du jour où la contribuable – qui croyait, de façon raisonnable, avoir produit le document requis – avait découvert l’omission.
+[18] Cependant, avec égards pour l’opinion contraire, la disposition applicable en l’espèce est absolument claire et non équivoque. Elle ne permet nullement de penser que la réception d’un avis de cotisation est pertinente. Par exemple, on a conclu dans les arrêts que la preuve du fait qu’une omission du service postal était à l’origine de la non‑réception n’a aucune incidence sur la date à laquelle le délai fixé commence à courir. Cette conclusion a été confirmée par la Cour d’appel fédérale en 2000 dans l’arrêt Schafer c. Canada[2]. Pour l’essentiel, les décisions de ce genre font obstacle à l’application de la doctrine de la possibilité de découverte. J’estime donc avoir les mains liées.
+[19] Dans la décision Hickerty, le juge a choisi, comme il est mentionné plus haut, de suivre une approche différente et, en réalité, d’appliquer la doctrine de la possibilité de découverte. Dans cette affaire, la demanderesse croyait, d’une façon raisonnable mais erronée, qu’elle avait valablement interjeté appel en conformité avec les exigences prévues par la Loi sur la Cour canadienne de l’impôt et par les règles de la Cour. Le juge a commencé à calculer le délai fixé à l’alinéa 167(5)a) – lequel vise la prorogation du délai imparti pour produire un appel sous le régime de la LIR – à la date où la demanderesse avait raisonnablement eu connaissance du fait que l’appel projeté n’avait pas été valablement interjeté. Dans cette affaire, l’appel n’avait pas valablement été introduit parce qu’il avait été envoyé à l’ARC au lieu d’être envoyé à la Cour.
+[20] Avec égards, je crois qu’il est possible de trouver dans cette décision un autre motif susceptible de justifier son issue. En effet, il s’agissait en l’occurrence de savoir s’il y avait eu production. L’examen d’une erreur de cette nature, laquelle relève de la Loi sur la Cour canadienne de l’impôt et des règles de la Cour, n’empêchait peut‑être pas le tribunal de conclure qu’il y avait eu, dans les faits, production et qu’une prorogation était inutile.
+[21] Quoi qu’il en soit, la présente affaire est fort différente. Le contribuable en l’espèce a choisi de traiter avec un cabinet offrant des services professionnels. Ce cabinet a fait défaut de remplir ses obligations professionnelles. Il a fait preuve de négligence, selon moi, et il n’appartient pas à la Cour de jouer le rôle d’assureur en matière de fautes de commission.
+[22] Je ne puis user de créativité à l’égard du libellé de la disposition applicable; je n’ai pas compétence pour le faire. Compte tenu du texte non équivoque des dispositions législatives applicables, je n’ai nullement le loisir d’agir ainsi et je ne puis appliquer la doctrine de la possibilité de découverte.
+[23] De fait, même s’il faut convenir qu’il ne s’agit que de remarques incidentes (comme l’a reconnu Mme la juge Woods de la Cour dans sa décision Nagle c. R.[3], rendue en 2005), la Cour d’appel fédérale, dans l’arrêt Carlson c. R.[4], a refusé, en 2002, d’appliquer cette doctrine dans le contexte de la disposition en cause.
+[24] La Cour, dans la décision Hickerty, a établi une distinction avec les faits de l’arrêt Carlson sur le fondement du retard à présenter la demande. Dans l’affaire Carlson, il s’agissait d’années, soit quelques six ans. À mon avis, cet argument, avancé pour justifier l’établissement d’une distinction avec l’affaire Carlson, n’est pas, en soi, convaincant.
+[25] L’avocat des demandeurs fait valoir le même argument relativement à d’autres précédents invoqués par l’intimée, à savoir qu’ils intéressent des demandeurs dont les demandes faisaient état de retards considérables comparativement aux quelques mois écoulés dans les demandes dont je suis saisi.
+[26] Je le répète, avec égards, j’estime que de telles distinctions ne justifient pas, en ce qui concerne la disposition visée en l’espèce, l’adoption d’une approche fondée sur une doctrine laissant entendre qu’un léger retard doive être traité différemment d’un très long retard.
+[27] Il existe ici un échéancier précis, un délai de prescription précis qui, selon le législateur, doit être respecté. Le fait d’avoir agi avec diligence pour corriger le problème dès qu’il a été connu ne change rien à ce délai précis. Ignorer un fait, sans qu’aucune faute ne soit en cause, comme le fait de ne pas savoir qu’un délai s’écoule, n’a pas pour effet de modifier ce délai précis.
+[28] Je n’ai donc d’autre choix que de rejeter les demandes, ce qui me préoccupe. Je m’inquiète principalement de laisser entendre que les demandeurs disposent d’éléments de preuve convaincants pour intenter une action en dommages‑intérêts contre Taxperts, ce qui pourrait signifier que j’incite les demandeurs à introduire devant un tribunal différent d’autres poursuites donnant lieu encore à d’autres frais et à d’autres questions, comme celle de savoir quels dommages ils ont subis.
+[29] Ironiquement, la Cour a compétence exclusive pour trancher cette question de manière définitive en première instance. Il n’en demeure pas moins que c’est l’état actuel des choses. Bien que je tire peu de satisfaction à renvoyer le problème à un autre tribunal, je ne puis qu’espérer que les demandeurs en l’espèce recevront une indemnité adéquate à la lumière des services professionnels qu’ils ont reçus de Taxperts.
+[30] Avant de terminer, je signale que, même si la réponse modifiée produite dans le cadre des présentes demandes porte uniquement sur le délai de prescription prévu par les dispositions applicables, l’avocate de l’intimée a soulevé la question de savoir si les demandeurs ont fait preuve d’une diligence suffisante pour justifier la Cour de conclure qu’ils ont agi dès que les circonstances le permettaient. Selon les dispositions en cause, il faut satisfaire à cette autre exigence pour que la Cour puisse accorder la prorogation demandée.
+[31] Je le répète, je conclus sans hésitation que les demandeurs en l’espèce ont fait preuve de diligence dans leurs efforts pour s’opposer aux cotisations dès qu’il était raisonnablement possible de le faire ou dès qu’on pouvait raisonnablement s’y attendre dans les circonstances.
+[32] Je signale aussi que j’ai examiné la décision Cheam Tours Ltd. (faisant affaire sous la dénomination Airport Link Shuttle) c. Canada (M.R.N.)[5] qui a été rendue par la Cour en 2007 et à laquelle l’avocat des demandeurs a également renvoyé. Cette affaire intéresse le pouvoir de la Cour de remédier aux vices d’ordre technique.
+[33] À mon avis, l’affaire dont je suis saisi ne se limite pas à remédier à un vice d’ordre technique. Il ne s’agit pas d’un cas où il serait loisible à la Cour d’adapter la disposition afin d’éviter que le contribuable soit privé de l’occasion de se faire entendre devant le tribunal par suite d’obstacles ou de pièges non délibérés.
+[34] En l’espèce, il est question du défaut manifeste d’observer les dispositions législatives applicables. Il n’y avait aucun piège caché, et l’inobservation ne découle pas d’un vice d’ordre technique.
+[35] Dans la présente affaire, où un spécialiste censément compétent a omis de se conformer à une exigence législative claire, il ne m’appartient pas de corriger la situation en faisant abstraction du libellé exprès de la Loi, même s’il pourrait bien être équitable de ma part de le faire, en particulier si on tient compte du fait que l’intimée ne devrait pas tenter de percevoir plus d’impôt que ne le prescrit la loi, le cas échéant. Mais je n’ai aucune compétence en equity m’autorisant à accorder un recours qui permettrait de trancher cette question.
+[36] Par conséquent, il m’incombe de rejeter les demandes.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 29e jour d’octobre 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 444
+NOS DES DOSSIERS DE LA COUR : 2009-2442(IT)APP; 2009-2076(GST)APP;
+2009-2080(IT)APP
+INTITULÉ : Karen Chu et Sa Majesté la Reine;
+et entre Karen Chu et Sa Majesté la Reine; et entre Tai Shen Chu et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 27 et 28 août 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.E. Hershfield
+DATE DE L’ORDONNANCE : Le 11 septembre 2009
+COMPARUTIONS :
+Avocat des demandeurs :
+Me Nick Ranieri
+Avocate de l’intimée :
+Me Alexandra Humphrey
+AVOCATS INSCRITS AU DOSSIER :
+Pour les demandeurs :
+Nom : Nick Ranieri
+Cabinet : 2200, rue Yonge, bureau 221
+2e étage du grand hall
+Toronto (Ontario), M4S 2C6
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2007 CCI 482; 2007 D.T.C. 1311.
+[2] [2000] A.C.F. no 1480; 2000 D.T.C. 6542; no du greffe : A-414-98.
+[3] 2005 CCI 462; [2005] 4 C.T.C. 2182 (C.C.I.).
+[4] 2002 CAF 145; [2002] 2 C.T.C. 212 (C.A.F.).
+[5] 2008 CCI 18; [2008] 4 C.T.C. 2001.

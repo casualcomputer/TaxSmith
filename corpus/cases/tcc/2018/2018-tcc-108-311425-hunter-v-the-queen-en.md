@@ -1,0 +1,191 @@
+---
+title: "Hunter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311425/index.do"
+last_modified: "2018-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 108"
+citation2: ""
+neutral_citation: "2018 TCC 108"
+decision_date: "2018-06-12"
+language: "en"
+item_id: "311425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4732
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:46:08.368000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb5b05eddef8909c2b20bb97e8acd78b5d5c759838d41f5a2107f7a60521f4cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hunter v. The Queen
+
+- Citation: 2018 TCC 108
+- Decision date: 2018-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4732, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-12
+Neutral citation
+2018 TCC 108
+File numbers
+2015-3019(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3019(IT)G
+BETWEEN:
+MELVILLE THOMAS HUNTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 30, 2018
+at Kamloops, British Columbia
+Before: The Honourable B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Wiebe
+JUDGMENT
+The appeal from the Notice of Assessment numbered 1961780 and dated October 16, 2012 made under the Income Tax Act is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of June 2018.
+“B.Paris”
+Paris J.
+Citation: 2018 TCC 108
+Date: 20180612
+Docket: 2015-3019(IT)G
+BETWEEN:
+MELVILLE THOMAS HUNTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant, Mr. Hunter, is appealing an assessment made against him on October 16, 2012 pursuant to section 227.1 of the Income Tax Act (“Act”). He was assessed as director of 0818428 British Columbia Ltd. (“081”) for payroll remittances that 081 failed to make in 2009.
+[2] The Appellant testified on his own behalf and also called his brother, Richard Hunter, as a witness.
+Facts
+[3] The Appellant incorporated 081 on March 4, 2008, and made himself the sole director of the company. He testified that he set up 081 for his brother, Richard, to run a golf course and restaurant business (the “Business”) near 100 Mile House, British Columbia. The Business operated for approximately a year and a half in 2008 and 2009. The Appellant said that he was not involved in the operation of the Business.
+[4] The Appellant said that he could not remember why Richard was not made a director, and that it was probably a mistake. The Appellant also set up 081’s bank account for Richard. In cross-examination, the Appellant conceded that he set up the company and bank account because Richard had “zero credit” at the time.
+[5] The Appellant testified that when he set up 081 he prepared a letter, which Richard signed, to the effect that Richard would run the Business and keep “deductions current”. Later in his testimony, the Appellant described the letter as setting out that Richard agreed to “keep everything in good standing” and that “stuff would be paid”. He said he kept the letter at home in 081’s minute book, which consisted of a notebook with the incorporation documents inserted in it.
+[6] The company had financial problems and, as a result, it shut down the Business after Thanksgiving 2009. Richard testified that 081 did not have enough to pay the employees their wages as well as make the payroll remittances and he chose to pay the employees. He said he decided that the government would have to wait.
+[7] It was not clear from the evidence when the Business’ financial problems first arose or over what period the remittances were not made. It is also not clear exactly when the Appellant first learned about those problems but the evidence suggests that he was aware in October 2009 that the Business had been shut down.
+[8] Richard testified that he told the Appellant about the situation with respect to the remittances on December 17, 2009, when he was at a family gathering at the Appellant’s house. He said that the Appellant became angry when he told him, and grabbed a notebook, wrote in it and said something like, “I’m done.”
+[9] The Appellant confirmed that he first learned that the remittances would not be paid at the meeting with Richard on December 17, 2009. He said he was angry and that he wrote in 081’s minute book that he resigned as a director and from any other positions he had in the company and that the company would be dissolved. He said he did not remember the exact words he wrote, but the gist of it was that there would be no more business conducted and that he resigned as a director and from all his positions in the company. I will deal more fully with the Appellant’s testimony concerning this point later in these reasons.
+[10] The Appellant said that no other directors were appointed and that he expected 081 would eventually be dissolved for failure to file its annual returns.
+[11] The evidence also showed that the Appellant had previously owned three other companies and that he had been the sole director of those companies. All of them had been dissolved for failure to file annual returns and in each case he did not resign as director.
+[12] By notices dated April 19, 2010 and May 12, 2010, the Minister of National Revenue (the “Minister”) assessed 081 for unremitted payroll deductions and related interest and penalties.
+[13] In October 2010, the Appellant’s home burned down and everything was lost in the fire, including 081’s minute book.
+[14] Between late 2010 and 2012 the Appellant was contacted a number of times by officers of the Collections Section of the Canada Revenue Agency (“CRA”) concerning 081’s unremitted payroll deductions. He admitted that he did not tell them at any point that he had resigned as a director. He also admitted that he knew that the CRA officers were contacting him because they understood he was a director of 081.
+[15] On February 4, 2011, the Minister registered a certificate in the Federal Court and the Federal Court issued a writ of seizure sale in respect of the tax debt. Execution on the writ was returned unsatisfied in whole on July 24, 2012.
+[16] On October 16, 2012, the Appellant was assessed personally for the unremitted payroll deductions of 081 which totaled $37,536.11, including penalties and interest to that date.
+Appellant’s position
+[17] The Appellant takes the position that he resigned as a director of 081 on December 17, 2009, and that the assessment was therefore barred by subsection 227.1(4) of the Act, which prevents an assessment being made against a director more than two years after the director last ceases to be a director of the corporation.
+[18] The Appellant says that there is no documentary proof of the resignation because the minute book was destroyed in the house fire.
+[19] Alternatively, the Appellant says that by having his brother sign the letter agreeing to keep the deductions up to date, he exercised due diligence to prevent the failure to remit.
+Respondent’s position
+[20] The Respondent maintains that the Appellant never resigned as a director of 081, and that subsection 227.1(4) does not apply.
+[21] In the alternative, the Respondent says that if the Appellant did resign, he nevertheless continued to act as a director of the corporation and was a de facto director.
+[22] The Respondent also submits that the Appellant did not exercise due diligence to prevent the failure to remit.
+[23] The relevant portions of section 227.1 of the Act read as follows:
+Legislation
+227.1(1) Liability of directors for failure to deduct — Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable together with the corporation, to pay that amount an any interest or penalties relating to it.
+…
+(3) Idem —A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) Limitation period — No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+Analysis
+Resignation defence
+[24] In order to determine when a director ceases to hold office it is necessary to refer to the relevant incorporating legislation: Canada v. Kalef, [1996] 2 CTC 1 FCA.
+[25] In this case, 081 was constituted under the B.C. Business Corporations Act, 2002 SBC c. 57. Section 128 of that statute provides, inter alia, that a director ceases to hold office when he or she resigns and that a director’s resignation becomes effective at the time a written resignation is delivered to the registered office of the company or at the time specified in the resignation, whichever is later. The relevant portions of section 128 read:
+(1) A director ceases to hold office when
+…
+(b) the director dies or resigns, …
+…
+(2) A resignation of a director takes effect on the later of
+(a) the time that the director's written resignation is provided to the company or to a lawyer for the company, and
+(b) if the written resignation specifies that the resignation is to take effect at a specified date, on a specified date and time or on the occurrence of a specified event,
+(i) if a date is specified, the beginning of the specified date,
+(ii) if a date and time is specified, the date and time specified, or
+(iii) if an event is specified, the occurrence of the event.
+[26] The question before me is whether the Appellant has shown that he delivered his written resignation to 081 on December 17, 2009. On the basis of the evidence that was presented at the hearing I conclude that he has not.
+[27] The Appellant’s testimony as to what exactly he wrote in the corporate minute book on December 17, 2009 was vague and confusing. Each time he talked about what was written, he used different wording. It was also difficult to understand whether he meant that he wrote specifically that he resigned as a director or from all his positions with 081 or whether he believed that this was the effect of him writing that the business of 081 was “over.” At one point he said, “When I say I’m stopping the business, that means I’m stopping as a director.”
+[28] To the extent that he testified that he wrote that he resigned or stepped away fromall of the positions he held, I do not find his testimony reliable. When he was examined for discovery one year prior to the hearing, he stated a number of times that he could not remember the wording of the entry he made in the minute book and said it was probably something like “this corporation is finished.”He also said:
+I don’t recall exactly what I wrote in that minute book, but I know we were looking at it. We decided this is …this company is over, finished, let’s just let the …we’ll not file any annual reports and let it disappear. (Examination for Discovery of Melville Hunter March 30, 2017 p. 33, line 3-7)
+[29] The inconsistencies between the Appellant’s answers on discovery and at the hearing lead me to conclude that his testimony at the hearing that he wrote that he resigned was not reliable. He gave no explanation for the discrepancies, and one would expect that answers given closer in time to when the events took place would be more accurate. I am not satisfied that he put in writing that he was resigning as a director of 081.
+[30] To the extent that the Appellant wrote that the business of 081 was finished, this cannot be construed as him resigning as a director. It certainly would not alert any third party reading those words that the Appellant had resigned. In the case of Canada v. Chriss, 2016 FCA 236, the Federal Court of Appeal held that an intention to resign, by itself, is not determinative and that the status of directors must be “objectively verifiable.” The Court wrote, at paragraphs 11 to 14 that:
+[11] The reasons underlying the requirement of a written resignation which is communicated to the company are self-evident. Third parties rely on representations as to who is responsible for the governance of a corporation. Business decisions may be made on the basis of directorship of a corporation.
+[12] Many laws attach liability to former directors within a certain period of time after resignations; see, for example, Employment Standards Act, 2000, S.O. 2000, c. 41, Part XIV.2. So too does the Income Tax Act subsection 227.1(4) of which provides a two-year limitation period on actions for recovery of amounts owing by directions. The two years is triggered by the date of resignation.
+[13] This limitation period demands, for its application, precision in the date of resignation. If a director has resigned, the Crown may no longer be able to look to the director for unremitted taxes, and other directors may have to absorb the director’s share of such liability. Further, there is a two-year limitation period which constrains the Minister’s ability to initiate proceedings against directors for unremitted source deduction.
+[14] It is thus self-evident that the status of directors must be capable of objective verification. Reliance on the subjective intention or say-so of a director alone would allow a director to plant the seeds of retroactive resignation, only to rely on it at some later date should a director-linked liability emerge…
+[31] I also note that the Appellant did not raise the resignation defence until he filed his Notice of Objection in January 2013, and that he had previously made no mention of the purported resignation during his discussions with CRA collections officers in 2010, 2011 and 2012. This suggests to me that he did not, in fact, intend to resign on December 17, 2009. The Appellant testified that he was aware that the collections officers were contacting him because he was the director of 081 but said he did not mention that he had resigned because he was “ignorant of the rules and regulations of corporations”. It seems to implausible to me, though, that if he had in fact resigned as director, he would not have advised the collections officers of that fact as soon as he was contacted.
+[32] Finally, the testimony of the Appellant’s brother, Richard, was not helpful to the Appellant. He recalled only that the Appellant said, “I’m done” while writing in the notebook on December 17, 2009, and admitted that he did not see what the Appellant wrote.
+[33] For all these reasons, I find that the Appellant has failed to show on a balance of probabilities that he resigned as a director of 081 on December 17, 2009.
+Due diligence defence
+[34] According to the Federal Court of Appeal decision in Canada v. Buckingham,2011 FCA 142, an objective standard must be applied when evaluating a director’s due diligence defence under subsection 227.1(3) of the Act andthe focus is on the actions taken by the director to prevent the failure to remit. It must be determined whether the Appellant exercised the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent the failure to remit.
+[35] The Appellant maintains that he took reasonable steps to prevent the failure to remit by having his brother agree in writing when 081 was set up “to keep deductions current” or “to keep everything in good standing.” The Appellant also testified that although he never asked to look at any books or records of 081, he enquired from time to time “if things were going OK”.
+[36] The evidence showed that at the time the Appellant set up 081 his brother, Richard, had no credit. Richard also needed the Appellant to open 081’s bank account for him. I infer from this evidence that Richard either had little financial experience or had had financial problems in the past. In either case, it does not seem reasonable that the Appellant did not do more to keep abreast of the financial performance of 081. It appears, instead, that he left all financial matters in the hands of his brother and was only told of the source deduction problem after it was too late and the business had ceased operating. This is not the conduct of a reasonably prudent person.
+[37] Also, the fact that the Appellant had his brother sign the initial agreement to keep deductions current indicates that he was concerned about the matter at the outset and it is difficult to understand why he would not have taken steps to satisfy himself that the remittances were being made. Entering into that initial agreement, without any follow up by the Appellant, is not the conduct of a reasonably prudent person.
+[38] Furthermore, I am not satisfied that the Appellant made any reasonable effort to inform himself about 081’s operations or to find out whether it was complying with its fiscal obligations. The Appellant’s testimony concerning the enquiries he made of his brother was vague, and he did not say what he was told by his brother in response.
+Conclusion
+[39] I therefore conclude that the Appellant has not shown that he exercised due diligence to prevent the failure by 081 to remit the payroll deductions.
+[40] Having reached this conclusion, it is not necessary for me to address the Respondent’s alternative argument that the Appellant was a de facto director of 081 after December 17, 2009.
+[41] The appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 12th day of June 2018.
+“B.Paris”
+Paris J.
+CITATION:
+2018 TCC 108
+COURT FILE NO:
+2015-3019(IT)G
+STYLE OF CAUSE:
+MELVILLE THOMAS HUNTER AND HER MAJESTY THE QUEEN
+PLACE AND DATES OF HEARING:
+Kamloops, British Columbia
+April 30, 2018
+REASONS FOR ORDER BY:
+The Honourable B. Paris
+DATE OF ORDER:
+June 12, 2018
+APPEARANCES:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

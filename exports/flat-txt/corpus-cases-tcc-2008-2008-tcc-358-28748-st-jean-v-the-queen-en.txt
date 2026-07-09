@@ -1,0 +1,290 @@
+Title: St-Jean v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28748/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-358-28748-st-jean-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-03
+
+# St-Jean v. The Queen
+
+- Citation: 2008 TCC 358
+- Decision date: 2008-07-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1535, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Jean v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-03
+Neutral citation
+2008 TCC 358
+File numbers
+2005-2731(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2731(IT)G
+BETWEEN:
+CHRISTIANE ST-JEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 19, 2007, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of July 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 3rd day of September 2008.
+Susan Deichert, Reviser
+Citation: 2008 TCC 358
+Date: 20080703
+Docket: 2005-2731(IT)G
+BETWEEN:
+CHRISTIANE ST-JEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a reassessment made on July 26, 2004, and confirmed on May 20, 2005, in respect of the 2001 taxation year.
+[2] The Minister submits that the issues are as follows:
+(a) Did the immovable constitute former business property immediately before its disposition?
+(b) If the Court finds that the immovable constituted former business property, can the Appellant designate a portion of that property for the purposes of subsection 44(1) of the Act?
+[3] In making and confirming the assessment under appeal, the Minister relied on the following assumptions of fact, most of which were admitted by the Appellant:
+[TRANSLATION]
+(a) The Appellant holds 100% of the shares of 9010-9109 Québec Inc., a management corporation (hereinafter "the Management Corporation"). (admitted)
+(b) The Management Corporation holds 100% of the shares of Re/Max Carrefour Duplessis Inc. (hereinafter "Re/Max"). (admitted)
+(c) Re/Max operates a real estate brokerage business. (admitted)
+(d) On March 8, 2001, the Appellant purchased an immovable from the Management Corporation. (admitted)
+(e) The immovable purchased from the Management Corporation ("the Immovable") is lot 1696992 in the cadastre of Quebec, registration division of Québec. (admitted)
+(f) The Appellant purchased the Immovable for $400,000. (admitted)
+(g) The adjusted cost base of the Immovable is $400,887. (admitted)
+. . .
+(j) The Immovable has an area of roughly 8444 square metres. (admitted)
+. . .
+(p) The area of the lot is approximately 6023 square metres. (admitted)
+(q) The Minister determined that the taxable capital gain from the disposition of the Immovable was $81,944, calculated as follows:
+Proceeds of disposition:
+$564,775
+Adjusted cost base:
+$400,887
+Capital gain
+$163,888
+Taxable capital gain (50%)
+$81,944
+(r) For her part, the Appellant reported a taxable capital gain of $26,539, calculated as follows:
+Proceeds of disposition:
+$564,775
+Adjusted cost base:
+$551,696
+Capital gain:
+$53,079
+Taxable capital gain (50%)
+$26,539
+. . .
+[4] As for the other facts, they were either denied, or the Appellant claimed to have no knowledge of them:
+Facts that were denied:
+[TRANSLATION]
+. . .
+(h) The Immovable has not been the subject of a cadastral subdivision. (denied)
+(i) The Immovable is a vacant lot. (denied)
+. . .
+(k) The Immovable has never been used to earn business income. (denied)
+(l) On April 3, 2001, the Appellant sold the Immovable to 3589711 Canada Inc. (denied)
+(m) The Appellant sold the Immovable for $564,775. (denied)
+(n) On April 5, the Appellant purchased another immovable, "the Lot", for $389,024.88. (denied)
+(o) The adjusted cost base of the Lot is $396,758. (denied)
+No knowledge:
+[TRANSLATION]
+(s) In order to arrive at her adjusted cost base of $511,696, the Appellant divided the cost of the Immovable and added the cost of the Lot, as calculated below:
+ACB of Immovable
+$400,887 X 6 024 m2 = $285,994
+8 444 m2
+$400,887
+($285,994)
+$114,938
+$114,938
+ACB of Lot
+$396,758
+ACB
+$511,696
+14. In addition to the factual assumptions relied on by the Minister, the Deputy Attorney General is relying on the following facts:
+(a) In 2004, the Appellant disposed of a portion of the Lot acquired on April 5, 2001.
+(b) In arriving at the adjusted cost base in calculating the capital gain on the Lot, the Appellant did not use the calculations that she herself had done in connection with the disposition of the Immovable in 2001.
+[5] The issues are as follows:
+· Did the immovable constitute former business property immediately before it was disposed of?
+· If the immovable did not constitute former business property, did the Minister correctly determine the Appellant's taxable capital gain to be $81,944?
+· In the alternative, if the Court finds that the immovable constituted former business property, is the capital gain calculation proposed by the Appellant consistent with the Act?
+Respondent's claims and arguments
+[6] The Respondent is relying on section 38 and subsections 39(1), 44(1), 152(4.3) and 248(1) of the Act.
+[7] She submits that, immediately prior to its disposition, Lot #1 did not constitute "former business property" within the meaning of subsections 44(1) and 248(1) of the Act.
+[8] That being the case, she submits that she calculated the taxable capital gain on the sale of Lot #1 correctly in accordance with subsection 38 of the Act.
+[9] In the alternative, even if the Court determines that Lot #1 was, immediately prior to its disposition, former business property, which she denies, she submits that the Appellant's proposed calculation of the capital gain is erroneous.
+[10] The Respondent denies that subsection 44(1) applies; however, if it does apply, she submits that the Appellant was not entitled to divide, as she did, the cost of Lot #1 in calculating the adjusted cost base.
+[11] Subsection 44(1) deals solely with the question of former business property and replacement property. It contains no reference to the disposition of a portion of a property, or to the possibility of taking account of only a portion of the proceeds of disposition.
+[12] Nothing in the Act permits the Appellant to artificially increase the adjusted cost base of the lot sold in order to take account of the area of the old lot in relation to the area of the new lot.
+[13] The Respondent submits that Lot #1 is not former business property because it was not "used" for the purpose of gaining or producing income from a business.
+[14] She submits that the mere fact of setting up a billboard announcing that the site would be the future home of the business is not sufficient to conclude that the lot was "used" for the purpose of gaining or producing business income.
+[15] Further, she submits that, although preparatory work was commenced, and the expenditures on that work were deductible or capitalizable, this does not mean that the lot was used for the purpose of gaining or producing business income.
+[16] In her submission, a vacant lot cannot be used by a real estate brokerage business for the purpose of gaining or producing business income.
+[17] The Respondent admits that the Appellant intended to set up her business on the lot, but maintains that this is not sufficient. In support of her interpretation, she cites Glaxo Wellcome, stating that the word "used" does not mean the same thing as "intended to be used".
+[18] Moreover, the Respondent submits that since section 44 is an exception to the general rule that capital gains are taxed, all of its conditions must be met in order for the taxpayer to be able to benefit from it. Her argument also relies on Edwynn Holdings Ltd. v. Minister of National Revenue, 89‑906(IT), 1989 CarswellNat 434, [1990] 1 C.T.C. 2108, 89 D.T.C. 720.
+The relevant parts of that decision are as follows:
+11. However the appellant, counsel submits, is not entitled to the replacement property rollover because the Act requires that the former business property must be an interest in real property, that subsection 44(1) is an exempting provision in which the appellant must fit within all of its four corners, Aubry v. The Queen, [1976] C.T.C. 598 at 600, 76 D.T.C. 6343 at 6344 (F.C.T.D.) , that as there are no ambiguities in the provision the words must be construed according to their ordinary and natural meaning; and that there is nothing cloudy or obscure in the notion of an interest in real property.
+. . .
+14. It is my view that the submissions of counsel for the respondent are to be preferred and are adopted as being the correct approach to be taken here.
+The decision was considered in Grove Acceptance Ltd. v. The Queen, Docket No. 2000‑4726(IT)G, October 30, 2002, [2003] 1 C.T.C. 2377, 2002 D.T.C. 2172:
+14. Sections 13 and 44 are exceptional provisions. Normally, when a property is disposed of, there is capital gain (almost $2 million in this case) and a deferred recapture of almost $300,000. Normally, a taxpayer has to pay the tax on the capital gain and has to pay the tax on the recapture. This is an exceptional provision allowing for deferrals. Indeed, this Court has said that, in the case of Edwynn Holdings Ltd. v. Minister of National Revenue, [1990] 1 C.T.C 2108, it allows a person to essentially defer tax that should otherwise be paid at that time. As a result, the taxpayer has to fit within the four corners of the provisions.
+[19] For her part, the Appellant cited several elements in support of her challenge. First of all, she specified the grounds of her challenge in her Notice of Appeal, notably at paragraphs 7 et seq. thereof, which read as follows:
+[TRANSLATION]
+. . .
+TAX TREATMENT APPLIED BY THE APPELLANT
+7. A portion of the lot sold (the “SERT lot”), corresponding to the area of the lot purchased ("the Roussin lot") was designated as "former business property" for the purposes of section 44(1).
+8. The disposition of the second part of the lot sold ("the SERT lot"), which was not considered former business property, and which corresponds to the remaining area, namely, 2421.2 square metres, was considered a capital gain.
+9. The full amount of the proceeds of disposition from the "SERT lot" portion, which was designated as "former business property", and in respect of which the election was made, was applied to the purchase of the new "Roussin lot".
+10. The deferral of the capital gain, which is permitted by section 44(1), is consistent with the Act.
+POINTS IN ISSUE
+11. The Appellant submits that the Canada Revenue Agency's decision to disallow her election, under section 44 of the ITA, to defer the taxation of the capital gain on the disposition of the "SERT lot" portion, which constitutes former business property, when replacement property, in this instance the "Roussin lot", is acquired, was not justified.
+12. The CRA claims that the "SERT lot" is not former business property within the meaning of subsection 248(1); the decision in Glaxo Welcome, on which the CRA is relying, pertains to an "unused" vacant lot that was held for 14 years for the eventual expansion of the business, and is therefore not appropriate.
+13. The CRA claims that the "SERT lot" is not the same business property as defined in subsection 44(1).
+14. The CRA is improperly interpreting the law regarding the disposition of replacement property, and did not substantiate its decision.
+15. The Appellant intends to show, through a question of actions, that the "SERT lot" was former business property as defined in subsection 248(1).
+16. The "SERT lot" was acquired and used solely for the purpose of erecting, in the very short term, a building to house the operations of RE/MAX ACCÈS Inc. in the course of its business activities. The acquisition process and the other transactions related to the eventual implementation and use of capital property in connection with the business are an integral part of the operations of the business, as are the plans and specifications associated therewith. Consequently, the lot constitutes former business property, and the intention and the facts demonstrate this.
+17. The definition of "property" is not restrictive. The election, justified and made in respect of a portion of a property in such a manner that the "former business property" has the same characteristics as the "replacement property", meets the objectives of subsection 44(1). A similar tax treatment has already been considered and accepted in other situations.
+18. The Appellant intends to show, through an expert witness, that the "SERT lot" is the same business property as defined in subsection 44(1).
+. . .
+[20] At the Court's request, the parties submitted their arguments in writing. At that stage, the Appellant argued as follows:
+[TRANSLATION]
+The Minister has not shown that the designation of a portion of Lot #1, having the same qualitative and quantitative characteristics as Lot #2 (the replacement property), as "former business property", did not comply with the requirements of subsection 44(1).
+Moreover, the Minister has not shown that the absence of a cadastral subdivision rules out any partial disposition of property. He fails to explain how the treatment of the excess area of a lot subjacent to a principal residence can warrant a distinct tax treatment, in the absence of an appropriate subdivision.
+The testimony and the explanations provided by Mr. Kirk in reference to paragraph 27 of Interpretation Bulletin IT‑259 pertain to two former business properties replaced by a single property and are therefore not relevant here.
+[21] Based on these arguments, the Appellant concludes the following:
+[TRANSLATION]
+The acquisition of Lot #1 was a business transaction and an essential prelude to the construction of a building. The work done on Lot #1 is an activity that was a regular part of the transformation process that was to result, in the short term, in the relocation of the operations of RE/MAX ACCÈS. Lot #1 is unquestionably "business property". The rules set out in subsection 44(1) permit taxpayers who have disposed of property to defer the tax consequences and relocate their businesses elsewhere without having to incur the consequences immediately. The Appellant submits that only such portion of Lot #1 as has the same dimensions as Lot #2 was the subject of an election in keeping with subsection 44(1).
+[22] The evidence did not disclose any important new facts; the relevant facts are relatively well summarized in the Notice of Appeal, and were, for the most part, admitted.
+[23] Above all, the Appellant's testimony provided context and the reasons for the various transactions that gave rise to this tax litigation.
+[24] To summarize, the Appellant began by acquiring the first immovable, with the specific intent of building thereon the headquarters of the business that she controlled. This was the transaction of March 8, 2001, which pertained to lot 1696992 of the cadastre of Quebec, registration division of Québec.
+[25] The lot contiguous to the Appellant's was to be used for a shopping mega-centre. Following discussions and negotiations with the mega-centre promoters, it was agreed that it was in the parties' interests, and to their benefit, to consider relocating the Appellant's project, as this would ensure that the site to be used for the shopping centre project and the nearby administrative centre for the business that the Appellant controlled would be more cohesive.
+[26] In other words, as part of the planning for a new administrative centre, the Appellant initially purchased a lot of a certain size, which she then sold because the intentions of the owner of a contiguous lot caused her interest to lessen.
+[27] She therefore sold the first lot, and acquired a second lot that was smaller but was located in the same area, and fit in better with all the projects that were going to be built on the site.
+[28] This sale and purchase enabled the owners of the contiguous lots to carry out their respective projects in a manner that was more consistent with their respective expectations, while ensuring better relations at the same time.
+[29] No major income-generating work was done on the first lot; there were simply one or more indications that the site would eventually be used to construct a building from which the Appellant's business would be run.
+[30] Further to the two transactions, which involved the two lots, the Appellant seeks to avail herself of the tax benefit contemplated in subsection 44(1) and thereby defer part of the gain realized on the sale of the first lot.
+44. Exchanges of property
+(1) Where at any time in a taxation year (in this subsection referred to as the "initial year") an amount has become receivable by a taxpayer as proceeds of disposition of a capital property that is not a share of the capital stock of a corporation (which capital property is in this section referred to as the taxpayer's "former property") that is either
+(a) property the proceeds of disposition of which are described in paragraph (b), (c) or (d) of the definition "proceeds of disposition" in subsection 13(21) or paragraph (b), (c) or (d) of the definition "proceeds of disposition" in section 54, or
+(b) a property that was, immediately before the disposition, a former business property of the taxpayer,
+and the taxpayer has
+(c) where the former property is described in paragraph 44(1)(a), before the end of the second taxation year following the initial year, and
+(d) in any other case, before the end of the first taxation year following the initial year,
+acquired a capital property that is a replacement property for the taxpayer's former property and the replacement property has not been disposed of by the taxpayer before the time the taxpayer disposed of the taxpayer's former property, notwithstanding subsection 40(1), if the taxpayer so elects under this subsection in the taxpayer's return of income for the year in which the taxpayer acquired the replacement property,
+(e) the gain for a particular taxation year from the disposition of the taxpayer's former property shall be deemed to be the amount, if any, by which
+(i) where the particular year is the initial year, the lesser of
+(A) the amount, if any, by which the proceeds of disposition of the former property exceed
+(I) in the case of depreciable property, the lesser of the proceeds of disposition of the former property computed without reference to subsection 44(6) and the total of its adjusted cost base to the taxpayer immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, and
+(II) in any other case, the total of its adjusted cost base to the taxpayer immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, and
+(B) the amount, if any, by which the proceeds of disposition of the former property exceed the total of the cost to the taxpayer, or in the case of depreciable property, the capital cost to the taxpayer, determined without reference to paragraph (f), of the taxpayer's replacement property and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, or
+(ii) where the particular year is subsequent to the initial year, the amount, if any, claimed by the taxpayer under subparagraph 44(1)(e)(iii) in computing the taxpayer's gain for the immediately preceding year from the disposition of the former property,
+exceeds
+(iii) subject to subsection 44(1.1), such amount as the taxpayer claims,
+(A) in the case of an individual (other than a trust), in prescribed form filed with the taxpayer's return of income under this Part for the particular year, and
+(B) in any other case, in the taxpayer's return of income under this Part for the particular year,
+as a deduction, not exceeding the lesser of
+(C) a reasonable amount as a reserve in respect of such of the proceeds of disposition of the former property that are payable to the taxpayer after the end of the particular year as can reasonably be regarded as a portion of the amount determined under subparagraph 44(1)(e)(i) in respect of the property, and
+(D) an amount equal to the product obtained when 1/5 of the amount determined under subparagraph 44(1)(e)(i) in respect of the property is multiplied by the amount, if any, by which 4 exceeds the number of preceding taxation years of the taxpayer ending after the disposition of the property, and
+(f) the cost to the taxpayer or, in the case of depreciable property, the capital cost to the taxpayer, of the taxpayer's replacement property at any time after the time the taxpayer disposed of the taxpayer's former property, shall be deemed to be
+(i) the cost to the taxpayer or, in the case of depreciable property, the capital cost to the taxpayer of the taxpayer's replacement property otherwise determined,
+minus
+(ii) the amount, if any, by which the amount determined under clause 44(1)(e)(i)(A) exceeds the amount determined under clause 44(1)(e)(i)(B).
+[31] These provisions are specific where there is an exchange of property, in which case the interested party may make an election.
+[32] When a taxpayer disposes of "former business property" and acquires, within a certain amount of time, capital property that replaces the former property ("the replacement property"), the taxpayer may use, in computing the capital gain, the adjusted cost base (ACB) of the replacement property (i.e., its acquisition cost) instead of that of the former property, thereby deferring the inclusion of at least part of the gain realized.
+[33] First of all, this provision is not universal, in that it does not necessarily apply to every case where one immovable is replaced by another. Certain conditions must exist in order for the election in subsection 44(1) to be available. Secondly, the property must be "former business property".
+[34] In the case at bar, the cost of acquiring Lot #2 is less than the ACB of Lot #1 ($396,758, as opposed to $400,887), and thus, subsection 44(1) is of no help because the gain computed when using the cost of Lot #2 is greater than the gain computed when using the ACB of Lot #1.
+[35] In order to justify the steps in her calculations, the Appellant draws an analogy between subsection 44(1) and paragraph 40(2)(b) so that she can use the ACB of Lot #2 and add a portion of the ACB of Lot #1 to it.
+[36] In fact, the Appellant is adding to the ACB of Lot #2 the fraction of the ACB of Lot #1 that represents the difference between the area of Lot #1 and the area of Lot #2.
+[37] Paragraph 40(2)(b) provides for the exemption from the capital gain realized on the sale of a principal residence. However, where the subjacent land is involved, the exemption is limited to one-half hectare, except under certain circumstances.
+[38] Thus, where the subjacent land exceeds one-half hectare, it is sometimes necessary to allocate the proceeds of disposition between the part that is eligible for the exemption and the part that is not.
+[39] Subsection 44(1) does not permit such an approach where replacement property is concerned.
+[40] Subparagraph 44(1)(e)(i) clearly states that a choice must be made between the lesser of the amount in clause (A) and the amount in clause (B), that is to say, the lesser of the capital gain computed using the ACB of the former property or the capital gain computed using the ACB of the replacement property, not a mixture of the two.
+[41] For an example of this calculation, see Van Lathing and Holding Co. v. Canada, No. 92‑2508(IT)G, January 26, 1996, [1996] T.C.J. No. 65, at paragraph 4:
+. . .
+• Deemed gain on disposition is lesser of:
+A
+Gain otherwise determined
+($711,177 - 40,000)
+$671,177
+A
+B
+Amount by which:
+Proceeds of disposition
+$711,177
+Exceed: Cost of replacement
+property
+465,699
+--------
+Formula Amount
+$245,478
+B
+Deemed gain under S. 44(1)(e)(i)
+(the lesser of A and B)
+$245,478
+[42] The situation in the case at bar is not similar to the one in Macklin v. Canada, Docket No. T‑653‑87, November 5, 1992, 1992 CarswellNat 448, [1993] 1 C.T.C. 21, 58 F.T.R. 42, 92 D.T.C. 6595 (F.C.T.D.) where there was a dispute as to whether only part of the former property constituted former business property.
+[43] Nor is this a case in which one property was replaced with two properties. Consequently, the example in paragraph 27 of Interpretation Bulletin IT-259R4 is not relevant.
+[44] Thus, I find that subsection 44(1) does not apply to the case at bar. Although this finding disposes of the instant appeal, it is appropriate to consider the other component of the Appellant's argument and assess whether Lot #1 constituted "former business property" as required by subsection 44(1).
+[45] Subsection 248(1) of the Act reads, in part, as follows:
+248. (1) "former business property" of a taxpayer means a capital property of the taxpayer that was used by the taxpayer or a person related to the taxpayer primarily for the purpose of gaining or producing income from a business, and that was real property of the taxpayer or an interest of the taxpayer in real property, but does not include
+(a) a rental property of the taxpayer,
+(b) land subjacent to a rental property of the taxpayer,
+(c) land contiguous to land referred to in paragraph (b) that is a parking area, driveway, yard or garden or that is otherwise necessary for the use of the rental property referred to in that paragraph, or
+(d) a leasehold interest in any property described in paragraphs (a) to (c),
+and for the purpose of this definition, "rental property" of a taxpayer means real property owned by the taxpayer, whether jointly with another person or otherwise, and used by the taxpayer in the taxation year in respect of which the expression is being applied principally for the purpose of gaining or producing gross revenue that is rent (other than property leased by the taxpayer to a person related to the taxpayer and used by that related person principally for any other purpose), but, for greater certainty, does not include a property leased by the taxpayer or the related person to a lessee, in the ordinary course of a business of the taxpayer or the related person of selling goods or rendering services, under an agreement by which the lessee undertakes to use the property to carry on the business of selling or promoting the sale of the goods or services of the taxpayer or the related person;
+[46] Thus, in order to constitute former business property, Lot #1 must have been used primarily for the purpose of earning or producing income from a business.
+[47] In the case at bar, the evidence has shown that the work done on the lot that was replaced was neither sufficient nor relevant enough in order to be able to find that it consisted of revenue‑generating initiatives.
+[48] Indeed, the minor work in connection with soil quality, levelling, and the announcement of the vocation of the temporarily laid-out and landscaped site are not of such nature as to necessarily consider a property to be primarily used for the purposes of gaining or producing business income.
+[49] With respect both to this second component and the first, the Appellant is giving the legal underpinnings of her arguments a meaning and scope inconsistent with the law but essentially consistent with her self-interested expectations. The provisions relevant to the instant matter must be assessed having regard to the relevant enactments and case law, not based on what might be desired.
+[50] For all these reasons, the appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 3rd day of July 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 3rd day of September 2008.
+Susan Deichert, Reviser
+CITATION: 2008 TCC 358
+COURT FILE NO.: 2005-2731(IT)G
+STYLE OF CAUSE: Christiane St-Jean and Her Majesty
+The Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: October 19, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 3, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

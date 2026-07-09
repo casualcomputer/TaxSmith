@@ -1,0 +1,152 @@
+Title: Rezayat c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30374/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-286-30374-rezayat-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-02
+
+# Rezayat c. La Reine
+
+- Citation: 2011 CCI 286
+- Decision date: 2011-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7892, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rezayat c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-02
+Référence neutre
+2011 CCI 286
+Numéro de dossier
+2010-2840(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2840(IT)I
+ENTRE :
+SAFORA REZAYAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 février 2011 à Toronto (Ontario)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentant de l’appelante :
+M. Mohammad Fayaz
+Avocate de l’intimée :
+Me Diana Aird
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 2e jour de juin 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 6e jour de juillet 2011.
+Marie-Christine Gervais, traductrice
+Référence : 2011 CCI 286
+Date : 20110602
+Dossier : 2010-2840(IT)I
+ENTRE :
+SAFORA REZAYAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel d’une décision du ministre du Revenu national (le « ministre ») par laquelle ce dernier a inclus dans le revenu de l’appelante la valeur des actions que celle‑ci a reçues d’une société établie aux Bermudes, Tyco International Ltd. (« Tyco International »), au cours de l’année d’imposition 2007.
+[2] Les faits et les points en litige en l’espèce sont identiques à ceux des affaires que trois de mes collègues ont déjà tranchées. Le plus récent des trois jugements est Yang c. Sa Majesté la Reine[1]. Les deux autres jugements sont Capancini c. Sa Majesté la Reine[2] et Hamley v. Her Majesty the Queen[3]. Les faits de ces trois affaires se rapportent aux mêmes opérations sur les actions de Tyco International. Dans Capancini, le juge Bowie a conclu que Tyco International n’avait jamais détenu les actions de Tyco Electronics Ltd. (« Electronics ») et de Covidien Ltd. (« Covidien ») telles qu’elles existaient au moment de leur transfert à l’appelant[4]. Le juge Hershfield (dans Hamley) et la juge Sheridan (dans Yang) ont quant à eux conclu le contraire. Je crois que d’autres appels similaires seront interjetés. Une décision éventuelle de la Cour d’appel fédérale serait la bienvenue.
+[3] Le ministre soutient que les actions de Tyco Electronics et de Covidien que l’appelante a reçues étaient un dividende en nature dont la valeur doit être incluse dans le revenu. Il s’agit d’une situation déplorable pour l’appelante, qui affirme, en partie, ce qui suit dans son avis d’opposition :
+[traduction]
+« […] la valeur des actions, tant avant qu’après le regroupement d’actions, est la même […] en raison des conditions actuelles du marché. Il est probable que je perde plus de la moitié de la valeur des actions et que je doive payer une somme additionnelle de 4 000 $ – en impôts et en pénalités – sur un revenu que je n’ai jamais reçu. […] »
+[4] Malheureusement, l’article 86.1 de la Loi de l’impôt sur le revenu (la « Loi »), qui offre un allégement fiscal dans des circonstances similaires, ne s’applique pas pour exempter les dividendes de l’impôt sur le revenu parce que les sociétés ont été constituées aux Bermudes, qui n’a pas conclu de convention fiscale avec le Canada. L’appelante ne conteste pas ce fait.
+[5] L’appelante détenait 700 actions de Tyco International avant le 29 juin 2007. Ce jour‑là, Tyco International a introduit deux de ses filiales en bourse : Electronics et Covidien. Les trois sociétés ont été constituées aux Bermudes. Un document rédigé pour la Securities and Exchange Commission des États-Unis (la « SEC ») et publié le 3 juillet 2007 contient le passage suivant[5] :
+[traduction]
+Distribution des actions ordinaires de Tyco Electronics Ltd. et de Covidien Ltd.
+Le 29 juin 2007, Tyco International Ltd. (« Tyco International ») a effectué la distribution des actions ordinaires de Tyco Electronics et de Covidien Ltd. aux actionnaires de Tyco International. Tyco International, Tyco Electronics et Covidien sont maintenant trois sociétés cotées en bourse tout à fait indépendantes.
+Chaque actionnaire de Tyco International a reçu une action ordinaire de Covidien et une action ordinaire de Tyco Electronics pour chaque bloc de quatre actions ordinaires de Tyco International qu’il détenait à la date de clôture le 18 juin 2007 (la date de clôture des registres).
+[…] Tyco International a reçu une décision anticipée en matière d’impôt de l’Internal Revenue Service (l’« IRS ») qui prévoyait essentiellement que la distribution constituerait un dividende libre d’impôt aux fins de l’impôt fédéral des États‑Unis […]
+Regroupement d’actions selon lequel quatre actions sont converties en une action
+Immédiatement après la distribution des actions ordinaires de Tyco Electronics et de Covidien, chaque bloc de quatre actions de Tyco International a été converti en une action ordinaire de Tyco International par suite d’un regroupement d’actions selon lequel quatre actions étaient converties en une action.
+[6] Le plan comportait deux étapes. Tout d’abord, les actionnaires de Tyco International ont reçu un quart d’action d’Electronics et un quart d’action de Covidien pour chaque action qu’ils détenaient dans Tyco International. Immédiatement après la distribution, un regroupement d’actions selon lequel quatre actions étaient converties en une action a été effectué à l’égard des actions de Tyco International. Collectivement, ces opérations sont appelées les « opérations sur les actions de Tyco International ». Les parties sont en désaccord au sujet de la nature fondamentale de ces opérations.
+[7] L’appelante a reçu 175 actions d’Electronics et 175 actions de Covidien. Elle affirme qu’immédiatement après la distribution, ses 700 actions de Tyco International ont été remplacées par 175 nouvelles actions de Tyco International. L’intimée considère que les 175 actions de Tyco International constituent un regroupement d’actions selon lequel quatre actions ont été converties en une action et qu’il ne s’agit pas de nouvelles actions obtenues en échange.
+[8] La maison de courtage de l’appelante, RBC Direct Investing Inc., a établi un feuillet T5 indiquant qu’elle avait reçu 14 665,35 $US (15 760 $CAN) pour ses 175 actions d’Electronics et ses 175 actions de Covidien, ce qui correspondait à la valeur sur le marché de ces deux ensembles d’actions à la date de leur émission. Compte tenu du feuillet T5, le ministre a établi une nouvelle cotisation à l’égard de l’appelante pour inclure la valeur de ces actions dans son revenu pour l’année d’imposition 2007.
+[9] L’appelante était représentée par son époux qui, on le comprend très bien, affirme que celle‑ci est imposée sur une somme qui ne constitue pas un revenu pour elle et qui correspond simplement à ce qu’elle possédait déjà, mais sous une forme différente. En date du 29 juin 2007, les 175 actions qu’elle détenait dans chacune des trois sociétés représentaient exactement la même participation dans exactement les mêmes entreprises que les 700 actions qu’elle détenait dans Tyco International le 28 juin 2007. Son époux a ajouté qu’étant donné que la valeur de son investissement était restée la même après les opérations sur les actions de Tyco International, l’appelante n’avait retiré aucun avantage économique de ces opérations et elle ne devrait pas être imposée sur la valeur des actions qu’elle détient dans Electronics et dans Covidien. En fait, elle est rentrée dans ses frais, mais le ministre a ajouté approximativement 14 000 $ à son revenu imposable. L’époux de l’appelante a conclu en disant ce qui suit[6] :
+[traduction]
+[…] J’affirme qu’il ne s’agit pas d’un dividende en nature parce qu’il n’y a pas eu de participation aux bénéfices. Il y a eu rendement du capital investi et Mme Rezayat a bel et bien reçu les nouvelles actions, mais elle a donné quelque chose en retour, soit la part de Tyco Electronics qui contrebalance la valeur de ce qu’elle a reçu.
+[10] Dans sa réponse, l’intimée mentionne entre autres choses que les actions reçues étaient un dividende en nature parce qu’il s’agissait de biens d’une société distribués aux actionnaires au prorata.
+[11] Dans une décision antérieure, Morasse c. Sa Majesté la Reine[7], le juge C. Miller s’est penché sur la question de savoir si les actions créées et distribuées en vertu de la loi mexicaine constituaient un dividende. L’appelante détenait 400 actions de Telmex. Cette société a réorganisé par dérivation son entreprise de télécommunications sans fil à l’aide d’une procédure appelée escisión ou « scission » existant en vertu du droit mexicain et a transféré des actifs à une société nouvellement constituée, América Móvil (« AM »). Les actions d’AM ont alors été données aux actionnaires de Telmex. À aucun moment avant la distribution les actions d’AM n’ont pu être achetées ou négociées, étant donné que ces actions n’ont commencé à exister, en droit, que lorsqu’elles ont été émises en faveur des actionnaires de Telmex.
+[12] Le ministre a établi une cotisation en vue d’inclure la valeur des actions d’AM dans le revenu de l’appelante à titre de revenu de placement. L’appelante a quant à elle fait valoir que les actions n’étaient pas imposables en vertu de l’article 86.1 et que, subsidiairement, les actions étaient une somme non imposable imputable au capital. Le juge C. Miller a conclu que l’article 86.1 ne s’appliquait pas, mais a jugé que les actions n’étaient de toute façon pas imposables.
+[13] Il a conclu que, d’un point de vue juridique, Telmex ne détenait pas les actions d’AM avant leur distribution et qu’elles ne pouvaient donc pas être un dividende en nature. Les actions d’AM n’auraient pas pu être imposées en tant que dividende en actions étant donné qu’elles ne faisaient pas partie du capital‑actions de Telmex. Il a décrit l’escisión comme une procédure particulière permettant le transfert d’une partie de la valeur de Telmex à AM. Comme la perte subséquente de valeur des actions de Telmex était presque égale à la valeur des nouvelles actions d’AM, la Cour a statué que l’opération n’était pas une distribution de bénéfices et qu’il s’agissait plutôt d’une distribution d’actifs dans une nouvelle société, et elle a accueilli l’appel.
+[14] La décision Morasse a été appliquée aux faits en l’espèce et dans les trois décisions précitées. Dans Capancini, la Cour a jugé que les opérations n’étaient pas imposables. Le juge Bowie a conclu que les faits dont il était saisi étaient identiques à ceux dans Morasse, et que, pour des raisons similaires, les actions d’Electronics et de Covidien n’étaient pas imposables en tant que dividende en nature. Même s’il s’agit d’une décision équitable s’il l’on tient compte de l’incidence qu’aurait le rejet de l’appel sur un contribuable innocent, pour les motifs qui suivent, je souscris à la thèse du ministre.
+Dispositions législatives
+[15] La Loi définit les termes « dividende » et « dividende en actions » (à l’article 248) :
+« dividende » Sont compris parmi les dividendes, les dividendes en actions, sauf s’ils sont versés à une société ou à une fiducie de fonds commun de placement par une société non‑résidente.
+« dividende en actions » Sont compris parmi les dividendes en actions les dividendes (déterminés compte non tenu de la définition de « dividende » au présent paragraphe) versés par une société, dans la mesure où ils sont versés par l’émission d’actions d’une catégorie du capital‑actions de la société.
+[16] Le paragraphe 52(2) de la Loi établit le prix d’un bien donné en tant que dividende en nature :
+Lorsque, à un moment donné après 1971, un actionnaire a reçu un bien d’une société au titre ou en paiement intégral ou partiel d’un dividende payable en nature (autre qu’un dividende en actions) sur une action qui lui appartient du capital‑actions de la société, cet actionnaire est réputé avoir acquis le bien à un prix égal à la juste valeur marchande du bien à ce moment, et la société est réputée avoir disposé du bien à ce moment à un prix égal à cette juste valeur marchande.
+Analyse
+[17] Encore une fois, la question générale est de savoir si la distribution, par Tyco International, d’actions d’Electronics et de Covidien était un dividende et par conséquent constituait un revenu pour l’appelante. La définition du terme « dividende » dans la Loi a une grande portée. Elle comprend une distribution à un actionnaire, sous forme d’argent ou d’actions d’une société différente. Un bref examen des onglets 2, 3, 4 et 5 du recueil de documents de l’intimée m’amène à conclure que les actions d’Electronics et de Covidien étaient détenues par Tyco International avant leur distribution et que la réception des actions par l’appelante constitue un dividende en nature. Les documents montrent qu’une société mère a distribué les actions qu’elle détenait dans ses filiales à cent pour cent. Le moment où la distribution a eu lieu indique que l’appelante a reçu les actions avant le regroupement des actions de la société mère, ce qui élimine la possibilité que les opérations aient été effectuées dans le cadre d’un échange ou d’un rachat.
+[18] De plus, l’appelante a bel et bien tiré un avantage économique des opérations. En vertu du paragraphe 52(2) de la Loi, elle a obtenu une augmentation du prix de base rajusté (« PBR ») de son investissement, ce qui aurait pour effet de réduire son gain en capital si elle vendait par la suite les actions à profit.
+[19] Le formulaire 8‑K susmentionné vient étayer la conclusion selon laquelle les actions de Tyco International ont été regroupées et non pas remplacées.
+[20] Ce relevé ne fait pas référence à la création de nouvelles actions de Tyco International. En outre, Tyco International détenait toutes les actions d’Electronics le 29 juin 2007. Les documents produits à la SEC montrent également que, en date du 20 mars 2007, les actions ordinaires d’Electronics et de Covidien avaient été émises à un certain moment avant cette date, mais que les actions n’étaient pas cotées en bourse. Tyco International a distribué les actions qu’elle détenait dans chacune des sociétés aux actionnaires de Tyco International le 29 juin 2007.
+[21] En 2007, Electronics et Covidien ont toutes les deux eu un revenu net de plus d’un milliard de dollars. Par exemple, en 2007, les ventes nettes de Covidien se sont élevées à 10,170 milliards de dollars, et Covidien est décrite comme un chef de file mondial dans le domaine des produits d’hygiène. La société a été constituée aux Bermudes en 2000 en tant que filiale à cent pour cent de Tyco International.
+[22] Les ventes nettes d’Electronics se sont élevées à 13,5 milliards de dollars la même année. Après la scission‑distribution, les actions d’Electronics ont commencé à être négociées à la Bourse de New York. Electronics a aussi été constituée en société aux Bermudes en 2000 en tant que filiale à cent pour cent de Tyco International.
+[23] Les formulaires 8-K et 10-K[8] montrent clairement que les actions d’Electronics et de Covidien existaient bien avant la distribution du 29 juin 2007 et qu’elles appartenaient à Tyco International. Les opérations ont été structurées comme une distribution d’actions suivie d’un regroupement d’actions, au lieu d’un échange d’actions. Rien dans la preuve ne montre que ces actions étaient un quelconque rendement du capital investi pour les actionnaires. Tyco International a qualifié cette distribution de dividende (quoique libre d’impôt aux États‑Unis). Étant donné que le bien donné n’était pas de l’argent, il s’agit d’un dividende en nature et il est réputé être un revenu fondé sur la juste valeur marchande du bien, suivant le paragraphe 52(2).
+[24] Le moment où l’opération a eu lieu est pertinent. En raison de la distribution des actions et de leur regroupement subséquent, les actionnaires n’ont pas échangé leurs actions de Tyco International pour recevoir les actions d’Electronics et de Covidien. On peut donc faire valoir qu’ils n’ont rien donné de valeur en échange des actions.
+[25] De plus, selon le paragraphe 52(2), les nouvelles actions sont réputées avoir été acquises à un prix égal à leur juste valeur marchande. Pour l’appelante, cela signifie que le PBR des actions reçues était de 6 994,75 $ pour Electronics et de 7 596,75 $ pour Covidien, ce qui donne un PBR total de 14 591,50 $ pour ces actions. Le regroupement d’actions subséquent a eu pour effet de réduire la quantité d’actions de Tyco International détenues par l’appelante, mais rien dans la preuve ne montre que cela a réduit le PBR total de ces actions[9].
+[26] Dans l’avenir, lorsque ces actions seront vendues, l’augmentation du PBR donnera lieu à des gains en capital en moins élevés (ou à des pertes en capital plus importantes). Cela constitue un avantage économique pour l’appelante.
+[27] Tyco International a essayé d’éviter ce résultat en garantissant aux actionnaires américains qu’il n’y aurait pas de conséquences fiscales négatives[10]. Au Canada, l’article 86.1 peut empêcher l’application du paragraphe 52(2), ce qui a pratiquement le même effet. Ce n’est toutefois pas le cas en l’espèce parce que, comme je l’ai mentionné plus haut, les sociétés concernées sont des résidentes des Bermudes, avec qui le Canada n’a pas conclu de convention fiscale, et le paragraphe 86.1(2) ne peut pas s’appliquer à la distribution.
+[28] La décision rendue par le juge Bowie dans Capancini et celle rendue par le juge Hershfield dans Hamley, qui mènent à des résultats différents, doivent être examinées à la lumière de la présente analyse. Encore une fois, c’est l’interprétation différente de l’affaire Morasse qui donne lieu à des conclusions différentes. Dans Capancini, il a été conclu que les faits de l’affaire étaient identiques à ceux dans l’affaire Morasse. On ne sait pas exactement comment les faits ont été présentés dans Capancini, mais je crois que les opérations sur les actions de Tyco International peuvent être distinguées des circonstances dans l’affaire Morasse.
+[29] Dans Morasse, les opérations sur les actions ont été effectuées suivant le concept de l’escisión, et les actions distribuées se rapportaient à une société nouvellement constituée. En l’espèce, les actions distribuées étaient les actions de filiales à cent pour cent qui existaient avant la distribution des actions. Cette disparité a été reconnue par le juge Hershfield dans Hamley. Il a mentionné qu’il n’avait aucune preuve selon laquelle la distribution effectuée par Tyco International avait produit le même effet que celle effectuée dans Morasse, et il n’a pas suivi la décision.
+[30] Dans la décision Yang, la juge Sheridan a formulé, au paragraphe 15, les commentaires suivants qui s’appliquent également en l’espèce :
+[15] Tout ce qui précède incite à établir une distinction entre les faits en l’espèce et ceux des affaires Capancini et Morasse où, dans chaque cas, la Cour a conclu que les actions reçues par les contribuables n’avaient jamais appartenu à la société mère distributrice et ne pouvaient donc pas être assimilées à un « dividende en nature ». Dans le présent appel, la preuve documentaire ne contribue nullement à réfuter l’hypothèse du ministre voulant que Tyco International ait effectivement détenu les actions de Tyco Electronics et de Covidien qu’elle a finalement distribuées, ce qui permet d’identifier le fondement factuel de la présente affaire avec celui de la décision Hamley et d’y appliquer l’analyse effectuée par le juge Hershfield, laquelle est exposée plus haut au paragraphe 7 des présents motifs. Dans ces circonstances, rien ne justifie la Cour d’intervenir à l’égard de la nouvelle cotisation établie par le ministre.
+[31] Pour ces motifs, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 2e jour de juin 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 6e jour de juillet 2011.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2011 CCI 286
+No DU DOSSIER DE LA COUR : 2010-2840(IT)I
+INTITULÉ : SAFORA REZAYAT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 23 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 2 juin 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Mohammad Fayaz
+Avocate de l’intimée :
+Me Diana Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2011 CCI 187.
+[2] 2010 CCI 581.
+[3] 2010 TCC 459.
+[4] Je ne crois pas que le juge Bowie disposait de tous les faits qui ont été présentés en l’espèce.
+[5] Pièce R-1, onglet 2, pages 8 et 9.
+[6] Transcription de la procédure, page 27, lignes 9 à 15.
+[7] 2004 CCI 239.
+[8] Pièce R-1, onglets 2 et 4.
+[9] Un simple regroupement d’actions n’a pas pour effet de changer le PBR total des actions. Le montant total payé pour faire l’acquisition des actions demeure le même : Brian J. Arnold, D. Keith McNair et Claire F.L. Young, Taxation of Corporations and Shareholders, (Toronto, Carswell, 1986). Voir également le bulletin d’interprétation IT-65, « Fractionnement d’actions et consolidations » (8 septembre 1972) de l’Agence du revenu du Canada. On ne sait pas exactement quel était le PBR des actions initiales de Tyco International détenues par l’appelante.
+[10] Pièce R-1, onglet 2, pages 10 à 18.

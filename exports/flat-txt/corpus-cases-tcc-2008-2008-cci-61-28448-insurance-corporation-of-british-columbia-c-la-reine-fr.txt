@@ -1,0 +1,113 @@
+Title: Insurance Corporation of British Columbia c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28448/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-61-28448-insurance-corporation-of-british-columbia-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-01-30
+
+# Insurance Corporation of British Columbia c. La Reine
+
+- Citation: 2008 CCI 61
+- Decision date: 2008-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1181, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Insurance Corporation of British Columbia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-30
+Référence neutre
+2008 CCI 61
+Numéro de dossier
+2007-858(GST)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2008CCI61
+Date : 20080130
+Dossier : 2007-858(GST)G
+ENTRE :
+INSURANCE CORPORATION OF BRITISH COLUMBIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE
+Le juge suppléant Beaubier
+[1] La présente requête de l'intimée a été instruite à Vancouver, en Colombie‑Britannique, le 18 janvier 2008. Elle vise à l'obtention d'une ordonnance :
+[TRADUCTION]
+1. modifiant la réponse à l'avis d'appel modifié, en vertu des articles 4, 12 et 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») et du paragraphe 298(6.1) de la Loi sur la taxe d'accise;
+2. autorisant l'intimée à procéder à l'interrogatoire préalable de l'appelante sur ces modifications, en vertu des articles 4 et 95 des Règles;
+3. enjoignant à l'appelante de répondre à certaines questions qui lui ont été posées à l'interrogatoire préalable, en vertu des articles 4, 95 et 110 et du paragraphe 107(3) des Règles;
+4. autorisant l'intimée à procéder à l'interrogatoire préalable de l'appelante sur les réponses fournies pour donner suite aux engagements, en vertu des articles 4 et 95 des Règles;
+5. adjugeant à l'intimée les dépens de la requête, en vertu des articles 110 et 147 des Règles;
+6. accordant à l'intimée toute autre réparation que la Cour estime juste.
+[2] En ce qui concerne les points 3 et 4 de la requête, la personne désignée par l'appelante pour être interrogée au préalable, Brian Stonnell, a) n'était pas employée par l'appelante, Insurance Corporation of British Columbia (ci‑après « ICBC »), pendant la période visée par le présent appel, et b) ne s'était pas renseignée pour les besoins de l'interrogatoire préalable. ICBC est une très grande société d'assurance automobile bien connue située en Colombie‑Britannique qui appartient à cette province et qui compte beaucoup d'employés et de cadres supérieurs. En l'espèce, de nombreux cadres supérieurs de cette société étaient directement au fait de l'objet du présent appel. Eu égard à ces circonstances, le recours à M. Stonnell comme le dirigeant à être interrogé au préalable est une tactique intéressante.
+[3] Comme il a été mentionné aux paragraphes 7 à 14, inclusivement, de l'affidavit de Mme Perillié déposé par l'intimée, M. Stonnell était [TRADUCTION] « incapable » de répondre aux questions portant sur les négociations conduites par ICBC qui ont abouti ou qui se rapportaient à un protocole d'entente (pièce E) signé par cette société, et ICBC a refusé de faire des recherches dans ses dossiers relativement à diverses questions posées (paragraphes 15 à 26, inclusivement). Dans ses plaidoiries, l'avocat de ICBC a affirmé que cela s'est produit parce que toutes ces questions portaient sur des points qui n'étaient pas abordés dans les actes de procédure et que l'intimée n'avait pas pris en compte au moment d'établir la nouvelle cotisation en cause.
+[4] Essentiellement, ICBC a signé un protocole d'entente avec le ministère de l'Enseignement postsecondaire de la Colombie‑Britannique et une personne morale, la société Tech BC, en vue de la création d'une nouvelle université dans cette province, à Surrey, une banlieue de Vancouver. ICBC devait construire et, directement ou par le truchement de ses filiales, louer à Tech BC des installations situées sur un site qu'on a plus tard appelé « Central City Development ». Tech BC est revenue sur son engagement. Les filiales concernées étaient IPL et Mall Co. Dans un [TRADUCTION] « Règlement amiable » daté du 16 juillet 2002 qui a été signé par la province de la Colombie‑Britannique, Tech BC, ICBC, IPL et Mall Co. (pièce K), Tech BC s'est engagée à payer à ICBC des [TRADUCTION] « sommes prévues par le règlement » (41,1 millions de dollars), et ce, afin de libérer Tech BC et la province de la Colombie‑Britannique de [TRADUCTION] « toute responsabilité à l'égard des pertes, dommages, coûts et dépenses subis ou supportés par les sociétés ICBC par suite de la cessation de la participation de la province et de Tech BC au projet de Central City Development » (paragraphe 4.2). Dans [TRADUCTION] l'« Accord portant sur l'aménagement du site » daté du 10 mars 2000 (pièce H) et signé par Surrey City Centre Mall Ltd. (aussi appelée ICBC Mall Co. et, dans les présents motifs, Mall Co.), par ICBC, par Tech BC et par la province de la Colombie‑Britannique, Tech BC s'est engagée à conclure un bail avec ICBC Mall Co. (paragraphe 3.1) pour une période de 25 ans (paragraphe 3.2). Dans l'éventualité d'un différend, il existait une clause d'arbitrage (paragraphe 5.3).
+[5] Le paragraphe 2.21 de l'avis d'appel modifié énonce que Tech BC [TRADUCTION] « s'est engagée à effectuer le paiement prévu par le règlement à ICBC ou à son représentant en échange de la libération par ICBC, IPL et Mall Co. de Tech BC et de la province de toute responsabilité découlant, entre autres, de l'Accord portant sur l'aménagement du site ». Le fait allégué au paragraphe 2.21 a été admis dans la réponse. Selon l'hypothèse 7t) de cette réponse, [TRADUCTION] « le 22 juillet 2002, Tech BC a payé à l'appelante 41,1 millions de dollars (le « paiement ») pour mettre fin au droit de Tech BC de louer les immeubles, en vertu de l'Accord portant sur l'aménagement du site ».
+[6] L'intimée a exigé de la TPS sur les 41,1 millions de dollars, au motif que le paiement était fait autrement qu'à titre de contrepartie pour une fourniture (Loi sur la taxe d'accise, L.R.C. (1985), ch. E‑13, par. 182(1) et art. 133).
+[7] La preuve déposée ne contient pas de précisions concernant la nouvelle cotisation en cause. De l'avis de la Cour, l'éventail des points soulevés dans les actes de procédure est suffisamment large pour que M. Stonnell, ou une autre personne désignée bien informée, soit tenu de répondre à toutes les questions qui ont été posées à M. Stonnell par l'avocat de l'intimée. C'est au juge présidant à l'audience qu'il revient d'apprécier, en définitive, la pertinence de ces questions et de ces réponses, si cela s'avère nécessaire. En fait, la désignation de M. Stonnell, les réponses données par celui‑ci et les raisons invoquées pour les justifier équivalent à de l'obstruction de la part de l'appelante.
+[8] Par conséquent, la Cour ordonne que la personne désignée par ICBC s'informe pleinement, de façon appropriée et sans restriction, et a) qu'elle se présente de nouveau, aux frais de ICBC, réponde aux questions et produise les documents requis, b) qu'elle réponde aux questions qui en découleront et produise les documents connexes, et c) qu'elle paie immédiatement les dépens de la requête, les frais qui ont été engagés inutilement et (comme il s'agit maintenant d'un second interrogatoire préalable et d'une seconde production de documents) ceux de l'interrogatoire ordonné par la présente et de la production de tous les documents requis.
+[9] Quant aux points 1 et 2 de la requête, l'avocat de l'appelante s'est opposé à ceux‑ci au motif que des renseignements à ce sujet auraient pu être recueillis lors d'une vérification, que l'intimée n'a pas effectuée en l'espèce, et que les modifications proposées par l'intimée ne sont nullement pertinentes. Par conséquent, celles-ci ne devraient pas être permises.
+[10] La pièce QQ jointe à l'affidavit d'Agnès Perillié daté du 20 décembre 2007 contient la réponse modifiée proposée par l'intimée. Les modifications que l'intimée souhaite apporter se trouvent aux paragraphes 9, 10, 11, 12, 13 et 19. Ils sont ainsi rédigés :
+[TRADUCTION]
+9. Les administrateurs et les dirigeants de Mall Co. étaient aussi les administrateurs et les dirigeants de IPL.
+10. Les administrateurs et les dirigeants de Mall Co. et de IPL étaient aussi les administrateurs et les dirigeants de l'appelante.
+11. Mall Co. a financé ses travaux de conception, de développement et de mise en oeuvre du projet par voie d'avances de IPL et de sommes empruntées à celle‑ci.
+12. IPL a financé ses avances à Mall Co. par voie d'avances de l'appelante et de sommes empruntées à celle‑ci.
+13. Lorsque Tech BC a effectué le paiement :
+a) l'appelante a réduit de 41,1 millions de dollars le montant qu'IPL lui devait;
+b) IPL a réduit de 41,1 millions de dollars le montant que Mall Co. lui devait et celui qu'elle devait à l'appelante;
+c) Mall Co. a réduit de 41,1 millions de dollars le montant qu'elle devait à IPL;
+d) Mall Co. a reçu le paiement en tant que revenu
+[...]
+19. Subsidiairement, en vertu de l'Accord portant sur l'aménagement du site, Mall Co. a donné à Tech BC le droit à un bail et, par conséquent, s'est engagée à réaliser une fourniture taxable. Tech BC a versé le paiement à Mall Co. au sens du paragraphe 182(1) de la Loi étant donné que celle‑ci l'a reçu indirectement ou est réputée l'avoir reçu. Ce paiement a été fait par suite de la résiliation de l'Accord portant sur l'aménagement du site relativement à cette fourniture, et non pas en contrepartie de cette fourniture. Par conséquent, en application du paragraphe 182(1) de la Loi, Tech BC est réputée avoir payé de la TPS relativement au paiement, et l'appelante doit verser cette TPS conformément aux paragraphes 225(1) et 228(2) de la Loi.
+[11] L'avocat de l'appelante a aussi fait valoir que les modifications ne devaient pas être permises parce que la déclaration de TPS de celle‑ci qui est en cause a été produite le 2 août 2002, et que le délai pour établir une cotisation relativement à cette déclaration est maintenant expiré. Mais la cotisation dont a fait l'objet ICBC a été établie dans les délais prescrits, et les modifications proposées ne constituent pas une nouvelle cotisation ni une modification d'une cotisation existante. Les modifications ne font que lier les parties concernées et les divers documents déposés en preuve.
+[12] Je ferais observer que les modifications ne portent pas sur les hypothèses. Par conséquent, il incombe à l'intimée de les prouver.
+[13] Dans l'arrêt Walsh c. La Reine, 2007 CAF 222, 2007 D.T.C. 5441, au paragraphe 18, la Cour d'appel fédérale a exposé les conditions qui s'appliquent à la requête présentée par l'intimée en vertu du paragraphe 152(9) de la Loi de l'impôt sur le revenu. Elles sont les suivantes :
+1) Le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable.
+Ce n'est pas le cas en l'espèce; voir la réponse à l'avis d'appel modifié.
+2) Le droit du ministre de proposer un autre argument à l'appui d'une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable.
+Les modifications proposées n'auraient pas pour effet a) d'obliger le contribuable à déposer des éléments de preuve qu'il n'est plus en mesure de produire sans l'autorisation du tribunal, ni b) d'obliger le tribunal à ordonner la production de ces éléments de preuve.
+3) Le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au-delà du délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée.
+Ce n'est pas non plus le cas parce qu'aucune des modifications proposées ne change la cotisation ou n'ajoute des faits ou des allégations qui ne sont pas déjà contenus dans la réponse à l'avis d'appel modifié.
+[14] En droit, la question qu'il faut se poser pour décider si les modifications en cause et les interrogatoires préalables portant sur celles‑ci doivent être permis est de savoir si cela est juste (ce l'est), si cela retarderait indûment l'audience (puisque l'appel est seulement rendu au stade de l'interrogatoire préalable, ce ne serait pas le cas), et si les précisions ajoutées ont un caractère vain et futile compte tenu de la nature de la cause d'action (ce n'est pas le cas).
+[15] Pour ces motifs, la Cour ordonne :
+1. L'intimée signifiera et déposera une réponse modifiée à l'avis d'appel modifié dans les 14 jours suivant la date de la présente ordonnance.
+2. L'appelante aura 30 jours après la date du dépôt de la réponse modifiée ci‑haut mentionnée pour présenter une réplique à celle‑ci.
+3. L'avocat de l'intimée procédera à l'interrogatoire préalable d'une personne bien informée désignée par l'appelante relativement aux modifications apportées dans les 75 jours suivant la date du dépôt de la réponse modifiée.
+4. Les dépens relatifs à la présente ordonnance suivront l'issue de la cause.
+Signé à Saskatoon (Saskatchewan), ce 30e jour de janvier 2008.
+« D. W. Beaubier »
+Le juge suppléant Beaubier
+Traduction certifiée conforme
+ce 27e jour d'octobre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008CCI61
+Nº DU DOSSIER DE LA COUR : 2007-858(GST)G
+INTITULÉ : Insurance Corporation of British Columbia c. La Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 18 janvier 2008
+MOTIFS DE L'ORDONNANCE : L'honorable juge suppléant D. W. Beaubier
+DATE DE L'ORDONNANCE : Le 30 janvier 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Joel A. Nitikman
+Avocat de l'intimée :
+Me Ron D.F. Wilhelm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Nom : Me Joel Nitikman
+Cabinet : Fraser Milner Casgrain
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

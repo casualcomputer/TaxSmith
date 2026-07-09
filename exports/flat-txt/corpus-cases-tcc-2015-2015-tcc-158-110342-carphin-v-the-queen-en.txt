@@ -1,0 +1,167 @@
+Title: Carphin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110342/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-158-110342-carphin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-06-23
+
+# Carphin v. The Queen
+
+- Citation: 2015 TCC 158
+- Decision date: 2015-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2654, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carphin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-23
+Neutral citation
+2015 TCC 158
+File numbers
+2013-510(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-510(IT)G
+BETWEEN:
+ROBERT GRANT CARPHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 25 and 26, 2015 at Victoria, British Columbia
+Before: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+Melissa Nicolls
+JUDGMENT
+It is ordered that:
+1. the appeal with respect to assessments made under the Income Tax Act for the 2001, 2002, 2004, 2005 and 2006 taxation years is dismissed;
+2. the appeal with respect to an assessment made under the Income Tax Act for the 2003 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that income should be reduced by $25,187.62 and the gross negligence penalty should be revised accordingly; and
+3. costs are awarded to the respondent in accordance with the tariff.
+Signed at Toronto, Ontario this 23rd day of June 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 158
+Date: 20150623
+Docket: 2013-510(IT)G
+BETWEEN:
+ROBERT GRANT CARPHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Overview [1] The appellant, Grant Carphin, was assessed on the ground that he failed to report all commission income that he earned over a six-year period as a salesman for The Institute of Financial Learning (the “Institute”). It turned out that Mr. Carphin, perhaps unwittingly, was promoting fraudulent investments in a classic Ponzi scheme.
+[2] Mr. Carphin maintains that he was unaware of the fraud and that he was also a victim because he had invested his own funds in the scheme. Regardless of whether or not this is true, it is not directly relevant to this appeal.
+[3] For taxation years from 2001 to 2006, Mr. Carphin was assessed under the Income Tax Act for alleged unreported commission income and related gross negligence penalties. The amounts that were added to his income for these years, respectively, are $12,200, $266,401, $127,347, $243,420, $130,500 and $21,676. The gross negligence penalties assessed are $491, $34,601, $15,382, $33,258, $16,681 and $2,157, for each year respectively.
+[4] At the commencement of the hearing, the Crown informed the Court that one of the items added to Mr. Carphin’s income, in the amount of $25,187.62, was inadvertently double counted for the 2003 taxation year. Accordingly, one of these amounts should be removed from income and from the calculation of gross negligence penalties.
+[5] Some of the participants in the fraudulent investment scheme, Milos Brost, Gary Sorenson, Steven Kendall and Christopher Houston, were recently convicted of fraud by courts in Alberta. (See R. v. Kendall, 2015 ABQB 177 and R. v. Brost and Sorenson, ABQB, Docket 120873872Q2, April 16, 2015.)
+[6] From a 60,000 foot level, it appears that individuals were lured into becoming members of the Institute on the promise that they would learn the secret to successful investing. Members would then be enticed into investing in corporations set up in tax havens which supposedly would earn extravagant returns from activities such as metal refining.
+[7] The Institute engaged sales agents such as Mr. Carphin who were given the fancy title of “structurist.” The agents were paid on a commission basis with respect to members that the agents recruited or that their recruits brought in. It appears that complex schemes were put in place to keep the commissions offshore.
+[8] It appears that the fraud was large scale and successfully perpetrated over a long period of time. The scheme involved the incorporation of a great number of offshore corporations and the participation of several financial institutions.
+[9] One of the central corporations used in the fraud was Syndicated Gold Depository S.A. (“SGD”). This entity received investors’ money for the purpose of being reinvested in a gold refining corporation. It appears that investors were lured by ridiculously high investment returns in SGD that would not be reported for Canadian tax purposes. It also appears that investors’ RRSPs were tapped for the funds. In actuality, SGD was one of the main entities used to implement the Ponzi scheme.
+[10] The evidence does not reveal how the fraud came to its inevitable end, but it appears that regulatory and/or tax authorities in the United States and Canada were on their trail before 2007.
+[11] As a result of documents obtained during criminal investigations of the main participants in the fraud, the Canada Revenue Agency (CRA) learned of Mr. Carphin’s role as a sales agent for the Institute. The CRA then audited Mr. Carphin to determine if all his commissions had been reported. For this purpose, the CRA searched through a massive number of documents obtained in the criminal investigations, as well as statements from Canadian bank accounts owned by Mr. Carphin, his spouse, and a Canadian corporation owned by them, Van Merlin Consulting Ltd. (“Van Merlin”).
+[12] The CRA auditor concluded that Mr. Carphin had meticulously reported all commissions that were paid into Canadian bank accounts and that these were the only commissions reported. The Canadian amounts were reported on Mr. Carphin’s own tax return or that of Van Merlin. As for other commissions that were not reported, Mr. Carphin directed these to be kept outside of Canada.
+[13] The assessments at issue were all issued after the normal reassessment period for purposes of subsection 152(4) of the Act. Accordingly, the Crown has the burden to prove misrepresentation of income. It also has the burden to prove the facts supporting gross negligence penalties. In light of this, the Crown presented its case first at the hearing.
+[14] By way of background, Mr. Carphin was self-represented at the hearing and he had very little to say throughout the two-day proceeding. Mr. Carphin indicated that he was hampered by health problems; however, he did not seek an adjournment on these grounds.
+[15] Mr. Carphin also informed the Court that he planned to file for bankruptcy if this appeal is dismissed because that he had lost everything as a victim of the Ponzi scheme.
+II. Issues to be decided [16] Mr. Carphin’s notice of appeal asks for several types of relief that are not within the jurisdiction of this Court. Mr. Carphin did not make specific submissions with respect to these at the hearing.
+[17] The Crown’s position on these were not stated in the Reply. At my request, counsel for the Crown responded to these issues at the commencement of the hearing, and it is not necessary that I discuss them further in these reasons.
+[18] The only issue that can be decided by this Court is whether the assessments issued to Mr. Carphin properly determine the amount that is payable under the Act. Included in this determination is whether it is appropriate to assess after the normal reassessment period and whether the conditions for the imposition of gross negligence penalties are met.
+III. Factual background A. The evidence [19] The Crown’s witnesses consisted of two employees of the CRA, Michael Weevers and Winnie Lin.
+[20] Mr. Weevers was an investigator with the CRA who was involved in the criminal investigations mentioned above. Through Mr. Weevers, the Crown sought to introduce documents that had been obtained as part of the investigations and were handed over to the CRA audit division to assist in an audit of Mr. Carphin’s commission income.
+[21] Mr. Weevers was very knowledgeable about the source of the documents. Some of them had been obtained through Canadian search warrants and requirements issued to financial institutions. Others were foreign documents that had been obtained from the U.S. Securities and Exchange Commission and an international organization of tax authorities, the Joint International Tax Shelter Information Centre, or JITSIC.
+[22] These documents are critical to the Crown’s case because the Crown had had very little other evidence. Almost all of the documents are hearsay, and they need to be both necessary and reliable to be admissible into evidence.
+[23] During the hearing, I was not able to review the documents in detail and accordingly the documents were entered into evidence with the question of necessity and reliability being taken to weight. Based on a review of the documents after the hearing, I determined that most of them are sufficiently necessary and reliable that significant weight should be given to them.
+[24] Mr. Carphin did not object to the introduction of the documents and on cross-examination he acknowledged the authenticity of documents that he was aware of.
+[25] On the whole, the necessity of most of the documents is clear given that the relevant parties were involved in illegal activity and it would not be feasible to obtain credible evidence from them. As for reliability, a large portion of the documents appear to be financial records that were kept in the ordinary course of business, either by the participants in the fraud or by financial institutions that were involved in handling the money. On their face, these documents appear to be reliable and I have no reason to think that they would not be.
+[26] In my view, it is appropriate to give weight to most of the documents, either because they are necessary and reliable or because they were verified by Mr. Carphin.
+[27] The second Crown witness was Ms. Lin, who was the auditor responsible for the assessments. Essentially, Ms. Lin made a determination of Mr. Carphin’s unreported commission income based on the above documents, supplemented by information obtained during the audit such as bank account statements from accounts owned by Mr. Carphin, his spouse and Van Merlin.
+[28] I found Mr. Weevers and Ms. Lin to be credible witnesses.
+[29] Mr. Carphin testified on his own behalf; however, his testimony was exceedingly brief. He was subject to a relatively lengthy cross-examination.
+[30] I found Mr. Carphin’s testimony as a whole to be vague and evasive, and not at all reliable.
+[31] The evidence does not provide a complete picture of the scheme or Mr. Carphin’s involvement, which is not surprising since Mr. Carphin provided almost no testimony in chief and much of the Crown’s evidence was spotty, having been partially obtained through seizures from participants in the fraud.
+B. Details of the fraud [32] A snapshot of the fraudulent scheme has been set out by the judge who heard the criminal trial of Milos Brost and Gary Sorenson (ABQB, Docket 120873872Q2, April 16, 2015). Below is an excerpt relating to two of the charges on which Brost and Sorenson were convicted.
+[…]
+[4] Sorenson controlled Merendon Mining Corporation Ltd. and its subsidiaries. Merendon, through a subsidiary, owned a property in Tegucigalpa, Honduras, which was being developed as a small sized gold refinery and a jewelry manufacturing outlet.
+[5] Brost and Sorenson, together with others, set up a company called Syndicated Gold Depository SA. Each of Brost and Sorenson was a beneficial shareholder of that company, although they never disclosed that beneficial interest to investors.
+[6] Brost set up a company called Capital Alternatives Incorporated (“Capital Alternatives”), beneficially owned by him. Capital Alternatives signed up potential investors into an investment club, which was said to exist to provide advice on alternate investment strategies to its members. Later, Brost set up the Institute for Financial Learning (“IFFL”) for a similar expressed purpose.
+[7] Brost trained sales people called “strategists” or “structurists” on presentations to be made to members of Capital Alternatives and then IFFL, which presentations were designed to persuade the members into investing through complicated means, in the offshore company SGD, and later into the company, Base Metals Corporation LLC (“Base Metals”), also controlled by Brost and Sorenson. The investors were told that SGD, and later, Base Metals, would lend the invested money to Merendon or its affiliates. The purpose of the loan was originally described as refining of gold. A number of false representations were made to investors, on the instructions of Brost, to induce them to invest. The investors were told that Merendon would pay SGD/Base Metals, returns of 4% per month. The returns promised to the investors ranged as high as 3.5% per month.
+[8] While Sorenson did not directly market to investors, he or his agents presented at conferences for investors, and he presided over tours of the Tegucigalpa refinery, making representations as to the soundness and security of the investments, and as to Merendon’s ability to make the interest payments from its operations; representations that were false.
+[9] In fact, by the direction of both Brost and Sorenson, the monies received from the investors after payment of various commissions and expenses, were not used for the purposes described. At no time did Merendon pay the high rates of interest to SGD for the purported loan to Merendon from SGD. While Merendon did do some gold refining, it was sporadic, and far less significant than would be required to justify the amount of the investment and loans, or to pay the interest rates proposed in the agreements, and promised to investors.
+[10] When investors sought to have some or all of their principal or interest or both repaid to them, payments were made to those investors from funds raised from other investors, rather than from any business pursuits. This was a classic Ponzi scheme, and constituted fraud on the investors. The investors were provided with monthly statements showing them that their investments were growing successfully at the interest rates promised to them. The results, on paper, looked so good that some of the investors who gave evidence were induced to invest more money. However, the results were on paper only. SGD was not in fact recovering any of the loan or any interest from Merendon or its subsidiaries.
+[11] The fraud perpetrated on the investors was complex and required a great deal of planning. As time went on, and there was insufficient money to repay investors, additional complex steps, changes and new arrangements were invented in an effort to assuage the investors and to hide the fraud from them.
+[12] Evidence from Elizabeth Brost was there were 2000 investors in this scheme investing into either SGD or into Base Metals Corporation LLC. In a recording of June 1, 2007, Brost speaks of there being 3000 investors.
+[13] Evidence from Bill Dallas a Merendon board member, is that he was told by Sorenson that the amount of Merendon’s debt to SGD was $200 million. In a recording by Owen Hoffman dated March 16, 2007, Sorenson advises that the debt owed was $124 million. In a recording of October 25, 2008, Brost states that Sorenson/Merendon received approximately $120 million during the course of this scheme. No records of the exact amounts invested, but not repaid, were placed into evidence. Evidence was received that Merendon Mining Corporation Ltd. had moved its office and records from Canada to Belize.
+[14] The Crown called 7 witnesses who invested in this particular scheme (Driesen, Goritshnig, Bruns, Williams, Campbell, Goldworthy, Tripodi). In total, those witnesses gave evidence that they had lost over $800,000 from investing in this scheme.
+[15] Brost and Sorenson directed that the investments being made were not used for their express intended purposes. They knew that there was no legitimate business justifying the significant amount of these loans from SGD to Merendon. They knew that Merendon was not paying called for interest to SGD; and they knew and directed that investors who made requests were being repaid, not from the business pursuits of SGD or Merendon, but instead from the monies contributed by other investors.
+[16] While it has not been proven where the monies have gone, it is clear the investors have been defrauded of those monies.
+[17] The above fraud was lengthy in duration, commencing in November, 1999 and carrying forward until December, 2008. The amounts lost by each investor were significant amounts, in the 10’s and 100’s of thousands of dollars. Some of the investors who gave evidence at trial lost virtually all of their life’s savings.
+[…]
+IV. Analysis A. Applicable legal principles [33] It is useful to review some of legal principles that are applicable in this appeal.
+[34] First, as mentioned above the assessments were all issued after the normal reassessment period had ended. Accordingly, the Minister is restricted in assessing in accordance with subsections 152(4) and 152(4.01) of the Act. Essentially, the assessed amounts must relate to fraud or to a misrepresentation due to neglect, carelessness or wilful default.
+[35] The burden of establishing a misrepresentation or fraud is on the Crown (M.N.R. v. Taylor, 61 D.T.C. 1139 (Ex. Ct.), at p. 1141).
+[36] The burden of proof in statute bar situations was elaborated on by former Chief Justice Bowman in Biros v. The Queen, 2007 TCC 248, at para. 26. In reasons that make a great deal of sense, the former Chief Justice concluded that for statute bar purposes the Crown only needs to prove misrepresentation in respect of a head or source of income. After that burden has been satisfied, the burden shifts to the taxpayer regarding the quantum. It is the taxpayer who must show whether the income from that source was less than the amount assessed.
+[37] As for gross negligence penalties under s. 163(2) of the Act, the test is whether a false statement has been made in the return either knowingly, or under circumstances amounting to gross negligence. The penalty is essentially 50 percent of the reduction in tax reasonably attributable to the false statement.
+[38] The burden of proof with respect to the facts supporting the penalties is on the Crown (s. 163(3) of the Act).
+B. Failure to report commission income [39] The seized documents used to support the assessments are far from complete and therefore they do not reveal either a clear or a complete picture of the commission income earned by Mr. Carphin.
+[40] At the outset, I would mention that in the notice of appeal Mr. Carphin submits that commissions not received by him should not be included in his income. This is not the correct test. Mr. Carphin must report and is taxable on commissions that were payable to him or payable at his direction. In this case, it is clear that Mr. Carphin had the ability to direct how the commissions were paid.
+[41] I would conclude based on the evidence as a whole that Mr. Carphin wrongly omitted from his tax returns commission income that was payable to him or as he directed.
+[42] It does not matter where the unreported commissions were directed to be paid. As far as the evidence reveals, at least some of the unreported amounts were directed by Mr. Carphin to be paid to Ciclon S.A., an offshore corporation owned by Mr. and/or Mrs. Carphin. It appears that some or all of the funds transferred to Ciclon S.A. were then invested in SGD. Other commissions were directed by Mr. Carphin to be transferred to non-Canadian cash cards. The cash cards could be converted to cash or used for purchases.
+[43] The circumstances as a whole strongly suggest that Mr. Carphin’s failure to report this income was made knowingly. Mr. Carphin was highly educated, with a masters’ degree in mathematics and philosophy. He was an experienced businessman with a background in financial matters. Moreover, Mr. Carphin did not have any credible explanation for not reporting this income, especially the commissions directed to cash cards. The only reasonable explanation of the facts is that Mr. Carphin was keeping significant amounts of commission income out of Canada in order to avoid paying tax on these amounts. He knew that the commissions were taxable in Canada and had to be reported on Canadian tax returns.
+[44] I would also comment that the tests do not require actual knowledge of wrongdoing. Wilful default (s. 152(4) and gross negligence (s. 163(2)) are sufficient. Without doubt, these requirements are satisfied.
+[45] As for the amount of commission income that was unreported, the CRA auditor undertook a thorough analysis of the documents that she had available and she made an estimate of the unreported commission income revealed by them. The auditor’s calculations are well-documented and are reasonable in the circumstances of this case.
+[46] Mr. Carphin made no attempt to dispute these amounts.
+[47] For completeness, I would mention that the Crown introduced for information purposes two documents that were not available to the auditor at the time of the audit and were only reviewed by her shortly before her testimony (Ex. R-8).
+[48] One of the documents appears to be a complete statement of amounts invested by Ciclon S.A. in SGD. These amounts are less than the amounts that the auditor has classified as being related to SGD. (See Ex. R-5, Schedule 1 which summarizes the amounts assessed.)
+[49] The two documents were made available to Mr. Carphin at the hearing and were entered into evidence by the Crown only for information purposes so that Mr. Carphin could testify with respect to them if he so chose. He did not do so.
+[50] Since these documents were not entered into evidence for the truth of their contents, it is not appropriate that I consider them. I would comment, however, that the documents are not inconsistent with the amounts assessed because the amounts invested by Ciclon S.A. into SGD are only one piece of the puzzle.
+[51] The conclusion that I have reached in this appeal is that Mr. Carphin knowingly did not report the income that was assessed. It is appropriate that the appeal be dismissed, subject to the concession by the Crown.
+[52] The Crown will be awarded costs in accordance with the tariff.
+Signed at Toronto, Ontario this 23rd day of June 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 158
+COURT FILE NO.:
+2013-510(IT)G
+STYLE OF CAUSE:
+ROBERT GRANT CARPHIN and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+May 25 and 26, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+June 23, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+Melissa Nicolls
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

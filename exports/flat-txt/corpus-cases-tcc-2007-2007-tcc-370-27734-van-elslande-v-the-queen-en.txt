@@ -1,0 +1,110 @@
+Title: Van Elslande v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27734/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-370-27734-van-elslande-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-19
+
+# Van Elslande v. The Queen
+
+- Citation: 2007 TCC 370
+- Decision date: 2007-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 388, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Van Elslande v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-19
+Neutral citation
+2007 TCC 370
+File numbers
+2006-1792(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1792(IT)I
+BETWEEN:
+CATHARINA J. VAN ELSLANDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 5, 2007 at Victoria, British Columbia
+Before: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jade Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Toronto, Ontario, this 19th day of June 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC370
+Date: 20070619
+Docket: 2006-1792(IT)I
+BETWEEN:
+CATHARINA J. VAN ELSLANDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on June 8, 2007)
+Woods J.
+[1] These are oral reasons in the appeal of Catharina Van Elslande v. Her Majesty the Queen in respect of an assessment for the 2000 taxation year.
+[2] The appeal concerns the income tax consequences of a pay equity award received by the appellant under the Canadian Human Rights Act. The award was received by thousands of persons who were employed by the federal government and who were determined to be victims of discrimination on the basis of sex.
+[3] The circumstances surrounding the award are outlined in a prior decision of this Court, Burrows v. The Queen and I will not repeat them here. In general, the award provided compensation for wage differentials for periods of employment beginning March 8, 1985, plus interest.
+[4] The appellant, Catharina Van Elslande, worked for the federal government from 1985 to 1987, and was a member of the bargaining unit that was entitled to the award.
+[5] The issue in this appeal concerns the nature of the award that Ms. Van Elslande received and accordingly I will attempt to use neutral terminology to describe it. I will refer to the amount received for the wage differential as the “principal component” of the award and the interest portion as the “interest component.”
+[6] In the 2000 taxation year, the appellant received a principal component in the amount of $3,972.31, for which her employer issued a T4 slip characterizing the amount as remuneration. She also received an interest component in the amount of $3,455.14, for which she received a T5 slip characterizing the amount as interest.
+[7] The income tax assessment issued to the appellant for the 2000 taxation year included both amounts in income.
+[8] The appellant objected to the assessment on the basis that both amounts should be non-taxable as damages. The Canada Revenue Agency placed the objection on hold pending the outcome of the Burrows case, which challenged the taxation of the interest component on Charter grounds.
+[9] After Burrows was decided, the assessment was confirmed.
+[10] I would note at the outset that the appellant feels aggrieved by the way her objection was handled by the Canada Revenue Agency. According to the appellant, there was no consultation during the objection stage and, after a period of four years, she received a rather poor explanation for the confirmation of the assessment. I would add to this that the Burrows decision did not consider either of the arguments made by the appellant in this case and the letter from the Canada Revenue Agency which accompanied the confirmation was misleading in that it inferred that the Court in Burrows had considered whether the interest component was taxable under s. 12(1)(c). In fact, the Court only considered a Charter argument and not whether the interest was taxable under the Income Tax Act. While I have sympathy for the appellant with how her objection appears to have been handled, I cannot allow an appeal on grounds that the taxpayer was unfairly treated during the audit and objection stages.
+[11] I turn now to the main issue.
+[12] The award provided to the appellant stemmed from complaints under the Canadian Human Rights Act filed by the Public Service Alliance of Canada alleging that the federal government had failed to provide members of the appellant’s bargaining group with equal pay for work of equal value.
+[13] A tribunal was set up to consider the complaint and after a lengthy and complex proceeding, the tribunal agreed that there had been discrimination, and ordered a wage adjustment retroactive to March 8, 1985, plus interest.
+[14] The appellant submits that the principal component of the award is not in fact wages but non-taxable damages for personal injury. She also argues that the interest component has the same character and should similarly be non-taxable.
+[15] I will first consider the nature of the award and then go to consider the tax consequences.
+[16] The award was made pursuant to s. 53(2)(c) of the Canadian Human Rights Act. This section provides that the tribunal may make an award against an employer of compensation for wages that the victim of the discrimination was deprived of.
+[17] In this case, the tribunal’s decision makes it clear that the nature of the award is compensation for lost wages rather than some other type of damages.
+[18] As for the tax principles that apply in this situation, neither party brought any prior judicial decisions to my attention on the issue. Upon a brief review of the case law, I discovered that there was a decision of the Federal Court of Appeal dealing with the taxation of a pay equity award. The decision, Morency v. The Queen, was issued in January 2005 and concerned a pay equity award in respect of an employee of the Quebec government. The claim in Morency was made for wage discrimination under the Quebec Charter of Human Rights and Freedoms, which is similar to the pay equity legislation that governs the award to Ms. Van Elslande. The Federal Court of Appeal upheld the decision of the Tax Court and decided that the award was taxable as income. In the appellate court, Noel J. states:
+The amount in question will count as income if the payment compensates the appellant for the pay she was entitled to receive but did not receive.
+[19] I do not see a basis to distinguish the Morency decision in this case and since it is from a higher court, it is binding on me. Accordingly the principal component of the award received by Ms. Van Elslande should be included in computing income.
+[20] Before leaving this issue, I feel compelled to note that I am perplexed, and dismayed, as to the Crown’s failure to refer Ms. Van Elslande to the Morency decision prior to this hearing, and as to counsel’s failure to refer it to me during the hearing. To my knowledge this is the first appeal involving this pay equity award in which a recipient has challenged the taxation of the principal component of the award as opposed to just the interest. I would have thought that this issue, which affects thousands of taxpayers, was sufficiently important to justify more care and attention than appears to have been given it on the part of the Crown.
+[21] I turn now to the interest component, which the Morency decision does not deal with. Ms. Van Elslande’s argued that the interest component was also non-taxable damages. This position cannot be accepted given my conclusion on the principal component. I see no reason not to characterize the interest component as interest which is included in income under s. 12(1)(c) of the Act. This is in accordance with the recent decisions of this Court, including my decision in Montgomery v. The Queen.
+[22] For the reasons above, I am compelled to dismiss Ms. Van Elslande’s appeal. In light of the rather dismissive approach by the government to the appellant’s claim, I would suggest that the Crown give consideration to exercising their discretion to waive the interest on the assessment, if there is any owing. It appears, though, that there may not be interest owing, because Ms. Van Elslande included the award in her initial tax return.
+Signed at Toronto, Ontario this 19th day of June 2007
+"J. Woods"
+Woods J.
+CITATION: 2007TCC370
+COURT FILE NO.: 2006-1792(IT)I
+STYLE OF CAUSE: CATHARINA J. VAN ELSLANDE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: June 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: June 19, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jade Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

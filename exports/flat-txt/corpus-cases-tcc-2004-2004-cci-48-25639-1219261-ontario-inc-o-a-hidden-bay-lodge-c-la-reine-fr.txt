@@ -1,0 +1,168 @@
+Title: 1219261 Ontario Inc o/a Hidden Bay Lodge c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25639/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-48-25639-1219261-ontario-inc-o-a-hidden-bay-lodge-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-16
+
+# 1219261 Ontario Inc o/a Hidden Bay Lodge c. La Reine
+
+- Citation: 2004 CCI 48
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3133, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1219261 Ontario Inc o/a Hidden Bay Lodge c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-16
+Référence neutre
+2004 CCI 48
+Numéro de dossier
+2002-706(GST)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-706(GST)I
+ENTRE :
+1219261 ONTARIO INC.,
+s/n HIDDEN BAY LODGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 septembre 2003 et le 6 janvier 2004, à Winnipeg (Manitoba).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelante :
+Me George E. Van Den Bosch
+Avocat de l’intimée :
+Me Michael Van Dam
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er avril 1997 au 31 décembre 1998 est accueilli, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2004CCI48
+Date : 20040116
+Dossier : 2002-706(GST)I
+ENTRE :
+1219261 ONTARIO INC.,
+s/n HIDDEN BAY LODGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] Il s’agit d’un appel d’une cotisation relative à la TPS établie en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er avril 1997 au 31 décembre 1998 à l’égard des activités commerciales des années 1997 et 1998 de l’appelante.
+[2] L’appelante exploite un pavillon de pêche, dans le nord‑ouest de l’Ontario, en utilisant sept camps de pêche éloignés à accès aérien, l’accès étant assuré depuis un pavillon principal. Les clients, qui viennent principalement des États‑Unis, se rendent au pavillon principal en voiture, certains clients ayant loué des voitures dans des aéroports régionaux, alors que d’autres viennent de plus loin.
+[3] Les forfaits de pêche comprennent la fourniture d’aliments aux clients pendant leur séjour. Il s’agit ici de savoir dans quelle mesure cette fourniture est détaxée conformément à la partie III de l’annexe VI de la Loi qui, sauf pour certaines exceptions énumérées, prévoit ce qui suit :
+1. La fourniture d’aliments et de boissons destinés à la consommation humaine (y compris les édulcorants, assaisonnements et autres ingrédients devant être mélangés à ces aliments et boissons ou être utilisés dans leur préparation), sauf les fournitures suivantes :
+[...]
+[4] Il n’est pas contesté que les forfaits de pêche vendus par l’appelante comprenaient la fourniture de produits alimentaires courants, mais l’intimée prend la position selon laquelle cette fourniture faisait partie intégrante des forfaits de pêche vendus aux clients. L’intimée se fonde sur le principe énoncé dans la décision O.A. Brown v. The Queen[1], à savoir que, lorsqu’il existe une seule fourniture globale, les fournitures séparées qui la composent ne peuvent pas être isolées pour l’application d’un taux nul visé à l’annexe VI.
+[5] L’appelante affirme que les vivres ne font pas partie intégrante de la fourniture globale. Elle soutient que l’essence de la fourniture qui était vendue n’exigeait pas que des aliments soient fournis et que l’inclusion de vivres dans le forfait ne constitue pas un facteur déterminant permettant de les considérer comme faisant partie intégrante de la fourniture globale.
+[6] À l’audition de l’appel, l’appelante a cité deux témoins : le président de la société appelante et le comptable de l’appelante.
+[7] Le président de l’appelante (« M. Reinke ») a témoigné que l’appelante ne percevait pas la TPS sur les aliments parce que l’ADRC lui avait dit de ne pas le faire. Il a déclaré que lorsque le régime de la TPS avait été adopté, il n’avait pas pu trouver de documents traitant du type d’entreprise exploitée par l’appelante, de sorte qu’il avait appelé le service d’assistance téléphonique concernant la TPS et qu’on lui a dit que la TPS n’avait pas à être perçue sur des aliments que l’on ne faisait pas cuire (que l’on ne préparait pas) pour les clients. M. Reinke n’était pas un bon témoin (à un moment donné, il a même dit : [traduction] « J’essaie d’être sérieux »), mais je retiens cette partie de son témoignage, c’est‑à‑dire que je crois qu’il a honnêtement tenté de suivre les règles. Je reconnais qu’il a de fait appelé l’ADRC au moins une fois afin d’obtenir des directives et qu’on lui a dit de ne pas percevoir la TPS sur les vivres. Une telle communication n’est pas fiable quant à la situation que M. Reinke a pu expliquer à ce moment‑là, mais il est facile de croire, même aujourd’hui, soit environ huit ans après que la décision O.A. Brown¸ précitée, a été rendue, que l’appelante pourrait bien encore être informée qu’eu égard aux circonstances, les produits alimentaires fournis dans les endroits éloignés sont détaxés. Je ne veux pas ici porter un jugement prématuré sur l’appel, mais je veux simplement souligner la difficulté qui existe lorsqu’il s’agit de déterminer si les vivres sont détaxés dans ce cas‑ci. L’application de la législation sans les restrictions préconisées dans la décision O.A. Brown permettrait clairement d’étayer l’avis selon lequel les aliments fournis dans ce cas‑ci sont détaxés.
+[8] Avant de donner des précisions sur les faits de l’affaire, j’aimerais faire remarquer que l’avocat de l’appelante a avancé l’argument fondé sur la diligence raisonnable à l’égard des pénalités et des intérêts qui ont été inclus dans la cotisation. Le moyen de défense fondé sur la diligence raisonnable, pour ce qui est de l’application des pénalités, est bien établi[2]. Toutefois, il n’existe aucun moyen de défense de ce genre pour les intérêts, ce qui est, à mon avis, approprié. Les intérêts viennent s’ajouter à l’obligation une fois qu’elle est déterminée, et seul le ministre peut annuler l’obligation relative aux intérêts ou y renoncer conformément au paragraphe 281.1(1). Il n’existe en common law aucun fondement permettant aux tribunaux de libérer une personne d’une obligation relative aux intérêts imposée par la loi. Seul le ministre peut le faire en vertu de la loi. D’autre part, le pouvoir que la loi confère au ministre de renoncer aux pénalités conformément au paragraphe 281.1(2) n’empêche pas pour autant les tribunaux d’exercer le pouvoir qu’ils possèdent en common law afin de libérer la personne en cause de l’obligation relative aux pénalités s’il est démontré qu’elle a fait preuve d’une diligence raisonnable.
+[9] Je donnerai maintenant des précisions au sujet des faits, que je résumerai comme suit :
+· Le pavillon principal est composé d’un bâtiment principal comportant un coin‑repas et une cuisine dont un cuisinier employé par l’appelante est responsable. L’hébergement n’est pas offert dans le bâtiment principal. Il y a, près de ce bâtiment, des chalets où il est possible de loger, mais il n’y a pas d’équipement pour cuisiner.
+· L’appelante propose des vacances de pêche sous la forme d’un forfait qui comprend les vivres ainsi qu’un dîner et un déjeuner préparés dans le pavillon principal. La plupart des clients (environ 60 p. 100) ne restaient pas dans le pavillon principal suffisamment longtemps pour prendre un repas préparé. Ils s’envolaient bien souvent directement vers leur camp de pêche dès leur arrivée (sans avoir dîné) et ils quittaient fréquemment le pavillon principal (sans avoir pris un repas) dès qu’ils revenaient des camps, le jour du départ. Toutefois, M. Reinke a témoigné que l’on s’occupait bien des clients et qu’il faisait souvent préparer des sandwichs pour les clients qui ne pouvaient pas dîner au pavillon principal.
+· Les chalets, dans les camps de pêche, étaient équipés de réfrigérateurs et de cuisinières à gaz. L’équipement et les ustensiles de cuisine étaient fournis ainsi que les produits d’entretien et articles ménagers. On ne fournissait pas les services d’un cuisinier. sauf dans certains cas précis dans l’un des sept camps. Les services de guides n’étaient fournis dans aucun des camps.
+· Chaque camp était pourvu de denrées de consommation courante, avec une profusion de condiments, de denrées sèches et d’aliments en conserve. Les denrées sèches comprenaient de la farine, de la semoule de maïs, de la chapelure pour poisson, de la pâte à bière, du mélange à crêpe, des spaghettis et des céréales. Les produits en conserve comprenaient des légumes, des fruits, des viandes et des potages. Les condiments comprenaient diverses sauces et confitures ainsi que des produits courants et les produits spéciaux habituellement utilisés pour préparer du poisson frais. Il y avait du café, du thé et du chocolat chaud ainsi que du jus en boîte. Il s’agissait de denrées de consommation courante plutôt que de produits commandés séparément par les clients. Ces produits étaient couramment fournis dans le cadre de l’exploitation des camps de pêche. À quelques exceptions près, on conservait ces produits dans chaque camp pendant toute la saison, et l’on réapprovisionnait au besoin le camp. Les clients et les pilotes dressaient au besoin une liste de stocks, de façon qu’il y ait suffisamment de provisions courantes dans chaque camp.
+· En plus des provisions courantes comme celles dont il a ci‑dessus été fait mention, les clients commandaient des denrées fraîches selon leurs propres préférences. Le pain frais, les produits laitiers, les fruits, les légumes et les viandes ainsi fournis étaient envoyés par avion aux camps avec les clients, dès que ceux‑ci arrivaient. Les commandes de denrées fraîches étaient exécutées depuis les réserves qui étaient dans le bâtiment principal, au pavillon principal.
+· Seuls les frais associés au transport en avion, aux permis de pêche et aux appâts figuraient séparément dans les factures des clients. Tous les autres frais étaient facturés selon un tarif quotidien par personne, de sorte que l’appelante n’a pas pu faire un suivi des frais associés aux aliments, sauf en revenant en arrière à l’aide des factures dans lesquelles la TPS était perçue uniquement sur une partie des frais facturés (qui, a‑t‑il été dit, représentaient la fraction du montant global facturé ne se rapportant pas aux aliments). Le comptable a préparé un tableau à l’aide d’un échantillon de factures qui, selon ce qu’il a témoigné, étaient représentatives. Selon le tableau, la fraction moyenne applicable aux aliments, sur des frais quotidiens moyens globaux par personne, s’élevait à 64 $ (sur un montant de 176,50 $). Compte tenu du chiffre d’affaires global déclaré, un nombre total de jours‑personnes a également été calculé. Le calcul ainsi effectué (frais quotidiens pour aliments x nombre de jours‑personnes) donnait, pour les aliments, un montant de 218 624 $ en 1997 et un montant de 173 120 $ en 1998. Il s’agit des totaux sur lesquels la TPS n’avait pas été payée, selon le comptable[3].
+· Compte tenu d’un examen des factures d’achat et des discussions qui ont eu lieu au cours d’une suspension d’instance, les parties se sont entendues sur la répartition suivante, s’élevant en tout aux montants fournis par le comptable de l’appelante[4] :
+1997
+1998
+Denrées fraîches (produits laitiers, viandes, fruits légumes, pain)
+99 167,84 $
+80 016,00 $
+Aliments en conserve
+28 486,71 $
+19 251,00 $
+Boissons
+28 530,43 $
+25 310,00 $
+Denrées sèches
+13 270,48 $
+88 988,00 $
+Condiments
+16 003,28 $
+12 482,00 $
+Approvisionnements
+17 402,47 $
+15 511,00 $
+Divers
+15 762,79 $
+11 652,00 $
+Total :
+218 624,00 $
+173 120,00 $
+· Les parties ne se sont entendues sur aucune répartition entre les vivres utilisés pour des aliments préparés au pavillon principal et ceux qui étaient utilisés dans les camps.
+· Le comptable a témoigné effectuer du travail (ou que son cabinet effectue du travail) pour 50 entreprises qui offrent des forfaits de pêche et que l’appelante est la seule à fournir des aliments. Il n’a pas fait de comparaisons précises, mais j’interprète son témoignage comme voulant du moins dire que d’autres camps de pêche ne prenaient pas de dispositions pour que des denrées fraîches soient fournies par l’exploitant. Je ne puis supposer qu’il voulait dire que les autres entreprises ne fournissaient pas d’aliments comme des condiments courants ou des provisions d’urgence.
+· Le comptable a témoigné que M. Reinke avait affirmé, lorsqu’ils s’étaient initialement rencontrés, qu’on lui avait dit de ne pas percevoir la TPS sur les aliments. Le comptable a témoigné que cette position était, selon lui, appropriée. Les produits alimentaires que l’on achetait pour les clients afin de leur permettre de préparer leurs propres repas étaient détaxés, à son avis, et, en parlant à M. Reinke, il avait confirmé la position prise par l’ADRC.
+[10] Je comprends bien l’appelante, qui n’a pas perçu la TPS en croyant d’une façon honnête et raisonnable que la composante « aliments » des frais n’était pas assujettie à la taxe, mais un système de facturation qui ne montre pas clairement, séparément, la fourniture détaxée et qui dépend en fin de compte d’une reconstitution mathématique et de déductions basées sur des moyennes tirées d’échantillons de factures représentatives est loin de m’impressionner. Malgré tout, les parties s’entendent suffisamment pour me permettre de laisser de côté la question de la charge de la preuve et je tiens à féliciter l’avocat de l’intimée pour les efforts qu’il a faits à cet égard. Par conséquent, on m’a fait part des répartitions dont il avait été convenu, lesquelles peuvent m’aider au cas où je conclurais que le principe énoncé dans la décision O.A. Brown, précitée, ne s’applique pas.
+[11] Dans la décision O. A. Brown, précitée, le juge Rip s’inspire de décisions anglaises dans lesquelles une distinction est faite entre une fourniture unique (mixte) et une fourniture multiple. Une fourniture multiple est une opération comportant la fourniture de biens ou de services séparables. Chaque fourniture serait considérée indépendamment pour la taxe. Une contrepartie unique payée pour une fourniture multiple doit être répartie entre les fournitures séparées. D’autre part, une fourniture mixte est une fourniture dont les parties constitutives déterminent la qualité (la nature) de la fourniture finale (globale). En pareil cas, il ne convient pas de faire une répartition.
+[12] Comme il a été reconnu dans les décisions anglaises qui ont été citées dans la décision O.A. Brown, précitée, il serait erroné, en l’absence d’un pouvoir conféré par la loi, de tenter de proposer une définition stricte précise de la fourniture unique (la fourniture mixte). Les facteurs à appliquer sont notamment les suivants : le point auquel les éléments constitutifs d’une fourniture sont liés les uns aux autres, le degré d’interdépendance et la question de savoir si chaque élément fait partie intégrante ou est un élément d’un ensemble mixte. Il importe de se demander si les services sont rendus aux termes d’un seul contrat, ou moyennant une seule contrepartie indivise, mais cela n’est pas concluant. Comment pourrait‑il en être ainsi? Cela voudrait dire que le ministre ne pourrait jamais établir de cotisation à l’égard d’une fourniture taxable séparée qui est associée à une fourniture non taxable en vertu d’un seul contrat comportant un seul prix.
+[13] Si le critère était simplement le suivant, à savoir si un ensemble mixte, dont une fourniture particulière est un élément, est fourni, l’appelante serait déboutée. Les forfaits de pêche constituent un ensemble mixte dans lequel les fournitures de vivres pourraient raisonnablement être considérées comme un « élément ».
+[14] D’autre part, si le critère exige qu’il y ait une certaine interdépendance entre les parties constituantes ou un lien tel que chaque élément fait nécessairement partie intégrante de l’ensemble, l’appelante pourrait bien avoir gain de cause, du moins en ce qui concerne certaines fournitures.
+[15] Le fait de conserver des denrées courantes dans les chalets éloignés fait partie des activités de l’appelante. Selon le sens commun, ces denrées semblent faire partie intégrante du forfait. Même M. Reinke a reconnu que les aliments en conserve fournis dans chaque camp étaient suffisants pour durer un mois. Les normes de sécurité voulaient qu’il en soit ainsi. Les approvisionnements, dans les régions éloignées, sont cruciaux. On s’attend à ce que ces approvisionnements soient dans une certaine mesure consommés, mais ils faisaient partie intégrante de la fourniture globale. D’autre part, la fourniture, par commande spéciale, de denrées fraîches n’a rien à voir, nécessairement, avec l’exploitation d’entreprises de pêche dans des régions éloignées. Je reconnais que d’autres entreprises de pêche n’offrent pas des denrées fraîches sur commande, de sorte qu’on ne saurait dire qu’il s’agit de fournitures inséparables. Il n’y a pas d’interdépendance à l’égard de cet élément. S’il y avait une épicerie au pavillon principal et que des factures distinctes étaient établies pour chaque commande de denrées fraîches, je ne serais pas saisi de la présente affaire. Le fait que l’appelante n’a pas séparé les transactions, comme il en a ci‑dessus été fait mention, ne peut pas être déterminant. L’avocat de l’appelante m’a demandé avec instance d’appliquer cette analogie aux denrées sèches et aux boissons. Or, je ne crois tout simplement pas que les faits, selon ce que j’ai constaté en l’espèce, permettent d’appliquer aux denrées sèches et aux boissons le traitement que j’appliquerais aux denrées fraîches spécialement commandées par les clients. M. Reinke traite les denrées sèches comme des produits de consommation courante nécessaires à l’exploitation des camps, qui doivent être aussi bien équipés que doivent l’être les embarcations pour ce qui est de l’essence et des lubrifiants. Compte tenu des témoignages, cela fait à mon avis partie du forfait global. Toutefois, je laisse à l’appelante le bénéfice du doute au sujet des denrées fraîches.
+[16] Par conséquent, j’accueillerais dans ce cas‑ci l’appel en ce qui concerne les denrées fraîches si le critère applicable est celui qui est énoncé ci‑dessus au paragraphe 14. Toutefois, je n’ai pas encore répondu à la question de savoir si le critère applicable est celui qui est proposé dans ce paragraphe plutôt que celui qui est proposé ci‑dessus au paragraphe 13. Le critère mentionné au paragraphe 13 serait plus facile à appliquer et pourrait bien être le critère pertinent compte tenu de certaines décisions rendues dans ce domaine; toutefois, il pourrait également être justifié d’appliquer le critère mentionné au paragraphe 14 compte tenu de décisions similaires. Il convient à cet égard de citer deux remarques que le juge Rip a faites dans la décision O.A. Brown, précitée :
+Dans chaque cas, il est utile de se demander s’il serait possible d’acheter chacun des divers éléments séparément et d’obtenir néanmoins un article ou service utile. Car si cela n’est pas possible, il faut alors nécessairement conclure qu’une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause[5].
+Et, en concluant que certaines activités ne constituaient pas des fournitures séparables, le juge Rip a dit ce qui suit :
+Il est difficile de considérer ces activités d’achat comme des fournitures distinctes, indépendantes de l’activité dans son ensemble. Elles ne forment un service utile que si elles sont considérées ensemble[6].
+[17] Dans la présente affaire, qui est régie par la procédure informelle, je ne veux pas carrément rejeter le critère proposé au paragraphe 13, mais je suis porté à accueillir l’appel, dans ce cas‑ci, en appliquant le critère proposé au paragraphe 14. La législation a chargé l’appelante de percevoir la taxe. Or, l’appelante s’est conformée à cette obligation comme elle l’interprétait. L’ADRC a certaines responsabilités, lorsqu’il s’agit de donner à ses mandataires de meilleures lignes directrices que celles qu’elle a ici fournies. Puisqu’elle a omis de le faire et que le ministre demande avec instance que la loi soit observée en affirmant être protégé contre la préclusion, j’estime raisonnable d’appliquer le critère qui assure un certain redressement à l’appelante.
+[18] En l’espèce, il est également question de la répartition entre les aliments préparés et les commandes de denrées fraîches. Seules les denrées fraîches sont détaxées. Les parties m’ont laissé le soin de procéder à la répartition.
+[19] Selon les calculs de moyennes effectués par le comptable, il y a eu 3 416 jours‑personnes en 1998 et 2 705 en 1997. Selon les répartitions dont il a été convenu à l’égard des denrées fraîches, de 99 167 $ en 1997, et de 80 016 $, en 1998, le coût des denrées fraîches par jour‑personne était de 36 $ en 1998 (ce qui semble élevé) et de 23 $ en 1997 (chiffre qui semble plus fiable). Étant donné que certains clients (40 p. 100) mangeaient au pavillon principal une fois et peut‑être deux fois et que la plupart des autres clients se voyaient offrir des sandwichs au moins une fois, et peut‑être deux fois, et que le besoin relatif de denrées fraîches dans les camps pourrait être de beaucoup moindre étant donné que les clients avaient à leur disposition du poisson frais et des produits de consommation courante et qu’à l’un des camps, les services d’un cuisinier étaient parfois mis à la disposition des clients et que certaines denrées fraîches qui avaient été acquises n’ont peut‑être bien jamais été mises à la disposition des clients (c’est‑à‑dire qu’il y avait du gaspillage), j’irais jusqu’à dire que moins de la moitié des fournitures de denrées fraîches de l’appelante étaient des denrées fraîches achetées pour être consommées dans les camps. La charge de la preuve incombe à l’appelante, mais même l’avocat de l’intimée a reconnu que si je concluais à l’existence d’une fourniture multiple (ce à quoi il s’oppose), il conviendrait d’attribuer une partie du montant aux denrées fraîches.
+[20] J’ai tenu compte des habitudes probables de consommation d’aliments, et je crois qu’il est raisonnable d’attribuer aux camps 40 p. 100 du coût des denrées fraîches. Le pourcentage est peut‑être plus élevé, mais selon la prépondérance des probabilités, il n’est probablement pas moins élevé, à mon avis. Par conséquent, la cotisation sera réduite de 7 % de 40 % du montant de 99 167 $ en 1997, et de 7 % de 40 % du montant de 80 016 $ en 1998.
+[20] En outre, je reconnais que, dans ce cas‑ci, une diligence suffisante justifiant l’annulation des pénalités a été exercée. Comme il en a été fait mention, je n’ai pas compétence pour annuler les intérêts.
+[21] Par conséquent, l’appel est accueilli sans dépens.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2004CCI48
+No DU DOSSIER DE LA COUR : 2002-706(GST)I
+INTITULÉ : 1219261 Ontario Inc. s/n Hidden Bay Lodge
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Les 30 septembre 2003 et 6 janvier 2004
+MOTIFS DU JUGEMENT : L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT : Le 16 janvier 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Me George E. Van Den Bosch
+Avocat de l’intimée :
+Me Michael Van Dam
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me George E. Van Den Bosch
+Cabinet : Tupper & Adams
+Winnipeg (Manitoba)
+Pour l’intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1995] G.S.T.C. 40 (C.C.I.).
+[2] Consolidated Canadian Contractors Inc. v. Canada, [1998] G.S.T.C. 91 (C.A.F.).
+[3] À 7 %, la réduction de la TPS attribuable aux aliments était de 27 422 $. Or, la cotisation ne s’élevait qu’à 24 277 $. L’intimée n’a pas soumis d’éléments de preuve au sujet de la façon dont elle avait déterminé le montant établi, mais si elle l’avait fait en se fondant sur le chiffre d’affaires global, les ventes attribuables aux aliments se seraient élevées à 346 814 $ par opposition au montant de 391 744 $ auquel est arrivé le comptable.
+[4] L’avocat de l’intimée a soutenu que la répartition dont il avait été convenu, compte tenu des factures d’achat, devait être considérée comme [traduction] « faible » étant donné qu’elle correspondait au [traduction] « coût » plutôt qu’au prix de détail que les clients devaient payer. D’autre part, si les montants globaux du comptable étaient utilisés, comme en ont convenu les parties, des montants plus élevés que ceux qui ont apparemment été utilisés dans la cotisation étaient utilisés.
+[5] Page 40‑7.
+[6] Page 40‑8.

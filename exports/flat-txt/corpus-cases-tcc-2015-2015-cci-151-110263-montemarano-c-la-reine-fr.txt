@@ -1,0 +1,126 @@
+Title: Montemarano c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110263/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-151-110263-montemarano-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-18
+
+# Montemarano c. La Reine
+
+- Citation: 2015 CCI 151
+- Decision date: 2015-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2649, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montemarano c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-18
+Référence neutre
+2015 CCI 151
+Numéro de dossier
+2013-2521(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2521(GST)I
+ENTRE :
+ANTHONY G. MONTEMARANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 juin 2015, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Renzo Isabella
+Avocate de l’intimée :
+Me Katie Beahen
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise en date du 1er mars 2012 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelant a rempli les conditions requises pour avoir droit aux remboursements pour habitations en litige.
+Signé à Ottawa, Canada, ce 18e jour de juin 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour d’août 2015.
+M.-C. Gervais
+Référence : 2015 CCI 151
+Date : 20150618
+Dossier : 2013-2521(GST)I
+ENTRE :
+ANTHONY G. MONTEMARANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question en litige dans le présent appel est de savoir si l’appelant a droit à des remboursements pour habitation neuve totalisant 27 297,85 $. Il s’agit d’un remboursement pour habitation neuve de 6 254,72 $ suivant le paragraphe 254(2) de la Loi sur la taxe d’accise (la « LTA ») et d’un remboursement pour habitation neuve (Ontario) de 21 043,13 $ suivant le paragraphe 256.2(1) de la LTA (les « remboursements »).
+Question préliminaire [2] Il y avait deux questions préliminaires à trancher au début de l’audience. L’avocate de l’intimée a présenté une requête en vue de déposer une réponse modifiée à la Cour. Celle-ci avait été envoyée à l’avocat de l’appelant avant l’audience, lequel avait consenti à son dépôt. La Cour ordonne que la réponse modifiée soit déposée.
+[3] L’avocat de l’appelant a demandé à déposer l’affidavit d’une personne qui est à l’emploi du service d’approvisionnement en eau et de traitement des eaux usées de la région de Peel. L’intimée s’y est opposée au motif qu’elle avait reçu l’affidavit la veille de l’audience et qu’on ne lui avait pas fait parvenir les coordonnées du souscripteur d’affidavit. L’intimée n’a donc pas été en mesure de contre‑interroger celui-ci. Je n’ai pas permis à l’appelant de déposer l’affidavit.
+Les faits [4] L’appelant travaille comme superviseur dans le domaine de la construction chez Brookfield Residential, depuis août 2014. À ce titre, il supervise la construction de maisons, de l’excavation jusqu’à la pose de cloisons sèches.
+[5] Dans son témoignage, l’appelant a expliqué qu’en 2009, il entretenait une relation sérieuse avec sa petite amie L. M. et il prévoyait se marier avec elle. Comme il allait se fiancer et se marier, il a décidé d’acheter une maison. Il a choisi de vivre dans la ville de Brampton, car celle-ci était située près de la maison de ses parents, de l’autoroute qu’il emprunte pour aller travailler et de la maison des parents de sa petite amie. Pendant une période de trois à quatre semaines, il a visité divers chantiers de construction à Brampton pour trouver une maison. Il s’est rendu aux bureaux des ventes des chantiers de construction et a examiné des plans de maison. Le 22 juin 2009, il a signé un contrat de vente avec Country Wide Homes pour l’achat du bien situé au 117 Fairwood Circle, à Brampton, en Ontario (le « bien »). La construction d’une maison de quatre chambres à coucher sur le terrain du bien était comprise dans le prix d’achat. L’offre de l’appelant a été acceptée le 27 juillet 2009, et la clôture de la vente était prévue pour le 30 décembre 2010. Le prix d’achat du bien était de 362 000 $. L’appelant a expliqué qu’il a fait un versement initial de 100 000 $ sur le bien, soit 50 000 $, qu’il a reçus de ses parents, 25 000 $, qu’il a retirés de ses REER, et 25 000 $, qu’il a versé au constructeur au moyen d’une série de dépôts.
+[6] Le 10 décembre 2010, l’appelant a cédé les remboursements au constructeur.
+[7] L’appelant accédait pour la première fois à la propriété. Il vivait chez ses parents avant d’acheter le bien. Il a expliqué qu’au moment d’acheter celui-ci, il avait l’intention d’en faire sa résidence habituelle et son foyer conjugal par la suite. Il fréquentait L. M. depuis quelques années. Leur relation était sérieuse et, en outre, leurs familles étaient devenues très proches. L’appelant avait l’intention de se fiancer avec L. M. et de se marier avec elle.
+[8] D’après le témoignage de l’appelant, L. M. l’a aidé à choisir la décoration concernant le bien, tandis qu’il a pris des décisions relatives aux détails de la construction, car il possédait davantage d’expérience dans ce domaine. Il a expliqué que, puisque le bien devait être sa résidence habituelle, il avait payé pour apporter des améliorations à la cuisine, à la salle de bain et à la salle de séjour, au prix de 7 507,50 $. C’est lui et L. M. qui avaient choisi d’apporter ces améliorations.
+[9] L’appelant a déclaré que la vente du bien n’a pas été conclue avant le 30 décembre 2010, car il avait demandé que la date de clôture soit [traduction] « reportée » afin que l’entrée et le terrain soient prêts avant qu’il emménage. Cette demande permettait de veiller à ce que la construction des maisons à proximité soit terminée et qu’il y ait moins de saletés et de débris dans le voisinage. L’appelant a assuré le bien à partir du 30 décembre 2010, et l’assurance couvrait ses biens personnels pour un montant de 277 500 $.
+[10] L’appelant a emménagé dans la maison en janvier 2011. Il ne possédait aucun meuble, et ses parents lui ont donné des meubles qu’ils avaient en trop. Son mobilier était composé d’un lit et d’un bureau, d’une table et de quatre chaises, de vaisselle, de verres et d’ustensiles. Lors de son témoignage, l’appelant a expliqué qu’il n’avait pas acheté de meubles, car il savait que L. M. et lui choisiraient de nouveaux meubles pour la maison une fois qu’ils seraient mariés. Il a également expliqué qu’il était d’usage, dans sa culture, que les parents donnent des meubles à un couple qui se marie.
+[11] Deux amis de l’appelant ont témoigné qu’ils avaient aidé celui-ci à emménager dans sa nouvelle maison en janvier 2011. Ils lui avaient également rendu visite à la maison, à quelques reprises, pour jouer au poker.
+[12] En mars 2011, l’appelant et sa petite amie ont rompu. L’appelant a expliqué qu’il ne s’intéressait plus autant à la maison et que celle-ci était trop grande pour une personne. Il a mis le bien en vente en juillet 2011. Il l’a vendu en septembre 2011, et un gain d’environ 130 000 $ a été réalisé.
+[13] Selon l’intimée, l’appelant n’a pas acquis le bien pour en faire sa résidence habituelle, et il n’y a pas vécu.
+Le droit applicable [14] La disposition pertinente en l’espèce est le paragraphe 254(2) de la LTA, qui est libellé ainsi :
+(2) Le ministre verse un remboursement à un particulier dans le cas ou, à la fois :
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[15] Selon la LTA, la question à trancher est de savoir si l’appelant avait l’intention d’utiliser le bien comme lieu de résidence habituelle au moment où il a assumé une responsabilité aux termes du contrat de vente. Dans le présent appel, l’appelant a assumé la responsabilité en juillet 2009 aux termes du contrat de vente.
+Analyse [16] À mon avis, l’appelant a acheté le bien avec l’intention d’en faire sa résidence habituelle et il a fourni suffisamment d’éléments de preuve quant à son intention. L’appelant a établi, à mon entière satisfaction, qu’il a vécu dans le bien de janvier à juillet 2011. Il a expliqué qu’il avait décidé de vendre le bien après que sa relation avec sa petite amie eut pris fin. L’appelant a témoigné avec franchise, et j’en conclus qu’il est crédible.
+[17] Outre la preuve présentée par ses deux amis, les explications de l’appelant concernant l’emménagement dans le bien étaient appuyées par ses factures d’électricité et une lettre de son agent immobilier. Dans sa lettre, datée de juillet 2011, l’agent immobilier a fait plusieurs recommandations à l’appelant sur la façon de préparer sa maison pour que celle-ci se vende rapidement. L’agent a recommandé à l’appelant d’enlever tous les meubles et de faire mettre la maison en valeur ou de la laisser vide. L’agent était d’avis que le style des meubles de l’appelant ne convenait pas à la maison. L’agent a également recommandé à l’appelant, entre autres, de faire nettoyer les tapis par un professionnel, de retoucher la peinture dans les chambres et d’enlever les ordures du garage.
+[18] Le ministre du Revenu national (le « ministre ») a présumé que l’appelant n’avait pas emménagé dans le bien en se fondant sur le fait que celui-ci n’avait pas changé son adresse dans son dossier auprès de l’Agence du revenu du Canada (l’« ARC »), du ministère des Transports, en ce qui a trait à son permis de conduire, et du ministère de la Santé et des Soins de longue durée, en ce qui concerne sa carte Santé. Cependant, compte tenu des circonstances en l’espèce, ce facteur n’est pas très important, car l’appelant résidait auparavant chez ses parents, où il recevait son courrier.
+[19] À l’étape de l’opposition dans le présent appel, l’appelant a fait parvenir divers documents à l’ARC, dont sa facture d’eau de la région de Peel. En se fondant sur celle-ci, le ministre a présumé que, [traduction] « en date du 28 février 2011, les services d’eau n’ont pas été utilisés en ce qui a trait au bien ». L’appelant a expliqué que les factures étaient difficiles à comprendre, et qu’il n’y avait pas de frais pour l’utilisation de moins de 10 000 litres d’eau. J’ai accepté la preuve de l’appelant.
+[20] Même si cela n’a pas été exprimé expressément dans la réponse, j’ai déduit de celle-ci, et des questions posées par l’avocate pour le compte de l’intimée, que le ministre croyait que l’appelant s’y connaissait dans le domaine du marché immobilier et qu’il avait acheté le bien en vue de le [traduction] « revendre rapidement ».
+[21] En 2009, l’appelant travaillait pour Madison Homes Holdings Ltd. (« Madison ») comme superviseur dans le domaine de la construction. Il a affirmé qu’il n’avait pas d’interactions avec les acheteurs des propriétés. L’appelant occupait chez Madison le même poste que celui qu’il occupe chez son employeur actuel. Il a déclaré dans son témoignage qu’il connaissait peu de chose au sujet du marché immobilier.
+[22] À l’audience, l’avocate de l’intimée a fait valoir que la raison que l’appelant avait donnée concernant la vente du bien était différente de celle qu’il avait donnée au vérificateur lorsque l’ARC avait communiqué avec lui. L’appelant a d’abord affirmé à l’ARC qu’il avait vendu le bien parce qu’il n’avait pas les moyens de le garder. L’appelant a expliqué qu’il était au travail lorsqu’il avait reçu l’appel de l’ARC et qu’il avait cru qu’il s’agissait d’une blague. Je conclus que l’explication de l’appelant est acceptable. Comme je l’ai expliqué ci-dessus, j’ai conclu que l’appelant était crédible et que son explication concernant la vente du bien était plausible.
+[23] À mon avis, l’appelant a rempli les conditions requises pour avoir droit aux remboursements pour habitation neuve en litige. L’appel est accueilli.
+Signé à Ottawa, Canada, ce 18e jour de juin 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour d’août 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 151
+Nº DU DOSSIER DE LA COUR :
+2013-2521(GST)I
+INTITULÉ :
+ANTHONY G. MONTEMARANO ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 juin 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 18 juin 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Renzo Isabella
+Avocate de l’intimée :
+Me Katie Beahen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Renzo Isabella
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

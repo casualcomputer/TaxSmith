@@ -1,0 +1,128 @@
+Title: Allard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26551/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-91-26551-allard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-01-28
+
+# Allard c. La Reine
+
+- Citation: 2005 CCI 91
+- Decision date: 2005-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3559, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-28
+Référence neutre
+2005 CCI 91
+Numéro de dossier
+2004-2643(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2643(IT)I
+ENTRE :
+PIERRE ALLARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 10 janvier 2005 à Montréal (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 28e jour de janvier 2005.
+« P.R. Dussault »
+Juge Dussault
+Référence : 2005CCI91
+Date : 20050128
+Dossiers : 2004-2643(IT)I
+ENTRE :
+PIERRE ALLARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] L'appelant conteste des cotisations établies pour les années d'imposition 1999 et 2000 par lesquelles le ministre du Revenu national (le « ministre » ) lui refusait des pertes locatives s'élevant à 9 168 $ et à 16 093 $ pour chacune de ces années respectivement.
+[2] L'appelant est propriétaire de trois immeubles locatifs soit deux duplex situés à Montréal (Québec) et une maison unifamiliale située au 400, chemin Lac des Piles à Grand-Mère (Québec).
+[3] L'appelant habite lui-même un logement de l'un des duplex à Montréal. La maison unifamiliale située à Grand-Mère est louée à ses parents depuis 1997. Seules les pertes locatives en rapport avec cette maison font l'objet du litige.
+[4] Aux fins des cotisations, le ministre a tenu pour acquis les hypothèses de fait énoncées aux alinéas a) à h) du paragraphe 6 de la Réponse à l'avis d'appel (la « Réponse » ). Ces alinéas se lisent :
+a) L'appelant est propriétaire de 3 immeubles locatifs lesquels sont situés au 2077, rue Marchand à Montréal, au 2257, rue Chapleau à Montréal ainsi qu'au 400 Chemin Lac des Piles à Grand-Mère;
+b) En produisant ses déclarations de revenus pour les années d'imposition en litige, l'appelant a déclaré des revenus bruts locatifs s'élevant à 21 336 $ pour chacune des années d'imposition respective et, à déduit des pertes locatives s'élevant à 13 985 $ pour l'année d'imposition 1999 et à 13 616 $ pour l'année 2000;
+c) À l'examen préliminaire du dossier, le vérificateur a relevé que l'appelant réclamait des pertes locatives, depuis l'année d'imposition 1993;
+d) Le vérificateur a limité sa vérification à la propriété sise au 400 Chemin des Piles à Grand-Mère;
+e) Les présumés revenus locatifs bruts annuels tels que déclarés par l'appelant, attribuables à ladite propriété, s'élevaient à 4 800 $ pour chacune des années d'imposition respective;
+f) Selon l'état de revenus et dépenses fourni par l'appelant, les dépenses locatives, attribuables à ladite propriété, s'élevaient à 13 960 $ pour l'année d'imposition 1999 et à 20 883 $ pour l'année d'imposition 2000;
+g) Les dépenses d'intérêts, d'impôts fonciers et d'assurances totalisent à elles seules 7 255 $ pour l'année d'imposition 1999 et 7 000 $ pour l'année d'imposition 2000;
+h) Étant donné que l'appelant n'a pas soumis les pièces justificatives appuyant les dépenses réclamées et qu'il n'a pas répondu au questionnaire du vérificateur, la perte locative a été corrigée à 0 $ pour chacune des 2 années relativement à cet immeuble;
+[5] En ratifiant les cotisations, le ministre s'est fondé sur les hypothèses de fait additionnelles énoncées aux alinéas a) à d) du paragraphe 7 de la Réponse. Ces alinéas se lisent :
+a) En date du 7 juillet 1997, l'appelant a acquis la propriété, de son père, au coût de 80 000 $;
+b) La propriété a été financée au moyen d'une hypothèque dont le solde actuel s'élève à environ 65 000 $;
+c) Les locataires de l'immeuble sont les parents de l'appelant;
+d) Le ratio de l'ensemble des dépenses locatives attribuables au bien est de 3 à 4 fois supérieur aux revenus qu'il génère;
+[6] La position de l'intimée pour refuser à l'appelant les pertes locatives mentionnées est qu'il n'existait aucun espoir raisonnable de profit et que cette propriété ne constituait pas une source de revenu.
+[7] L'appelant et madame Julie Grant, vérificatrice à l'Agence des douanes et du revenu du Canada (l' « ADRC » ) ont témoigné.
+[8] L'appelant a expliqué qu'il avait acquis la maison de ses parents en 1997 dans le but d'en faire une propriété à revenu et que c'est à cette condition expresse qu'il a pu obtenir un prêt hypothécaire d'environ 69 000 $, puisque son revenu était peu élevé n'ayant jamais dépassé 30 000 $ par année. Le contrat d'hypothèque avec la Caisse Desjardins des fonctionnaires du Québec (la « Caisse » ), soumis de consentement après l'audience, prévoit spécifiquement au paragraphe 2.2 une hypothèque additionnelle portant sur les loyers. L'appelant a ajouté qu'il n'avait pas les moyens de posséder une propriété qui n'était pas une propriété à revenu à l'extérieur de Montréal puisqu'il n'avait pas d'automobile pour se déplacer et qu'il devait se rendre à Grand-Mère par autobus.
+[9] Le prix payé pour la résidence a été de 80 000 $. L'évaluation municipale était alors de 57 000 $. Aux termes du contrat de prêt et d'hypothèque d'une durée d'un an signé le 7 juillet 1997 avec la Caisse, le montant du prêt de 69 187,50 $ portait intérêt au taux de 5.05 %. Les paiements en remboursement du montant du prêt hypothécaire et des intérêts étaient initialement de 404,37 $ par mois.
+[10] Après l'acquisition, les parents de l'appelant sont allés vivre quelque temps chez un parent à Bromont. La période exacte n'a pas été spécifiée mais tout porte à croire qu'il ne s'agit tout au plus que de quelques mois. L'appelant a affirmé avoir alors mis la résidence en location sans toutefois faire état de démarches spécifiques à cet égard. Ses parents qui n'étaient pas très heureux à Bromont manifestèrent le désir de revenir à Grand-Mère et l'appelant, qui n'avait pas trouvé de locataire, décida de leur louer la résidence. Le loyer a été fixé à 400 $ par mois. L'appelant a expliqué qu'il avait consulté son comptable qui l'avait assuré que la location à ses parents ne posait aucun problème pour autant que le loyer représente le prix du marché.
+[11] L'appelant a affirmé qu'il s'était informé du prix des loyers dans le journal régional. Il a d'ailleurs soumis en preuve un extrait du journal Le Nouvelliste en date du 18 avril 1997, faisant notamment état de l'annonce d'un logement de cinq pièces et demie pour 295 $ par mois et d'un autre de quatre pièces et demie pour 250 $ par mois dans la municipalité voisine de Shawinigan. Comme il y a très peu de maisons unifamiliales à louer à Grand-Mère, l'appelant n'a pu établir de comparaison directe. Toutefois, il a expliqué que la maison dont il est question est une résidence modeste composée de deux chambres, d'une cuisine et d'un salon ce qui équivaut à un logement de quatre pièces et demie (pièce A-1). L'appelant a donc affirmé que le loyer de 400 $ correspondait au prix du marché et même un peu plus.
+[12] L'appelant a également expliqué qu'il espérait que le taux d'intérêt de 5.05 % qu'il avait obtenu pour son prêt hypothécaire avec un terme d'un an en juillet 1997, pourrait encore baisser lors du renouvellement et qu'il serait aussi en mesure d'augmenter le loyer. Or, selon lui, les taux sur les prêts hypothécaires ont augmenté par la suite et il n'a pas pu augmenter le loyer.
+[13] Quant aux dépenses très élevées en 1999 et 2000, l'appelant a expliqué qu'elles avaient été causées par un problème de fosse septique, par l'affaissement d'une galerie sous le poids de la neige et par l'infiltration d'eau par le toit. Il a affirmé que ces problèmes ayant été réglés, la perte n'est plus maintenant que de l'ordre de 1 000 $ annuellement et qu'il espère rentabiliser son investissement bientôt tout en comptant sur une plus-value de la propriété qui lui procurera un « profit » éventuel.
+[14] Il est à noter que le loyer est demeuré inchangé entre 1997 et 2002 alors qu'il a été porté de 400 $ à 575 $ par mois. Il aurait été augmenté de nouveau en 2004 alors qu'il a été fixé à 595 $ par mois. Bien que la vérification du dossier de l'appelant par l'ADRC soit survenue en 2002, l'appelant a affirmé qu'il s'agissait là d'un hasard et que l'augmentation du loyer en 2002 reflétait une augmentation importante du prix des loyers à Grand-Mère.
+[15] Lors de son témoignage, madame Julie Grant a déposé un document faisant état des dépenses de l'appelant en rapport avec la propriété de Grand-Mère en 1999 et 2000 (pièce I-1). Ce document indique que des sommes de 5 166 $ et 5 059 $ auraient été réclamées au seul titre des intérêts pour les années 1999 et 2000 respectivement, que les taxes foncières s'élevaient à 1 674 $ et 1 521 $ pour chacune des années et que les frais d'assurance étaient de l'ordre de 415 $ et de 420 $ pour chacune des années. Par ailleurs, on sait que dès le départ en 1997, le loyer de 400 $ par mois était inférieur au montant du remboursement hypothécaire de 404,37 $ par mois.
+[16] Force est de constater que dès 1997, et jusqu'aux années 1999 et 2000 à tout le moins, les seules dépenses au titre des intérêts sur l'emprunt hypothécaire, des impôts fonciers et de l'assurance excédaient dans une large mesure, de l'ordre de 40 %, les revenus locatifs tirés de la propriété louée par l'appelant à ses parents. Pourtant le loyer de base de 400 $ par mois est demeuré rigoureusement le même au cours des quatre années suivantes et n'a été augmenté pour la première fois qu'en 2002 alors qu'il est passé à 575 $, soit une augmentation très substantielle de plus de 40 % d'un seul coup. Même avec un loyer qui a été subséquemment augmenté à 595 $ par mois en 2004, l'appelant a affirmé que sa perte se situait maintenant aux environs de 1 000 $ par année. Aucun détail ni aucun calcul n'ont été soumis à cet égard. Ainsi, plus de sept ans après l'acquisition de la propriété, l'appelant n'est toujours pas parvenu à rentabiliser son investissement.
+[17] Dans la présente affaire, je crois qu'il est évident qu'on ne peut faire abstraction de l'aspect personnel qui paraît sous-tendre d'une part l'acquisition par l'appelant de la propriété de ses parents et d'autre part la location qu'il leur a consentie peu de temps après pour un loyer qui ne couvrait même pas au départ les seuls paiements sur le prêt hypothécaire obtenu. L'appelant n'a nullement fait état de démarches précises qui auraient été faites avant l'acquisition pour s'assurer de la rentabilité de son investissement, s'il s'agissait là de sa véritable motivation pour l'acquisition de la propriété de ses parents. Il ne semble pas non plus s'être informé auprès de qui que ce soit, ni avoir conçu de plan d'affaires sérieux à cet égard, bien que je doive reconnaître que la Caisse lui a accordé un financement de 69 000 $ et que le contrat d'hypothèque couvre les loyers que l'appelant pouvait retirer de la propriété. Par ailleurs, l'appelant n'a fourni aucune information un tant soit peu précise concernant ses démarches pour trouver un locataire. Quant à la preuve apportée concernant le niveau des loyers à Grand-Mère en 1997, force est de constater qu'elle est plutôt mince et peu convaincante. Le prix annoncé pour des logements dans un journal régional est difficilement comparable à celui que l'on peut réclamer pour une maison unifamiliale. De plus, il est impossible de déterminer la qualité et l'état des logements annoncés. J'ajouterai ici qu'une photographie de l'extérieur de la propriété, soumise en preuve, ne me convainc pas qu'elle est aussi modeste que l'appelant a bien voulu le montrer et qu'elle puisse se comparer à un logement de quatre pièces et demie (pièce A-1). Toutefois, l'aspect le plus frappant, outre le loyer qui ne permettait même pas au départ de couvrir les paiements en remboursement du montant du prêt hypothécaire et des intérêts, est que l'appelant, alors qu'il devait faire face à des taux d'intérêt plus élevé et à des dépenses très importantes au cours des années en litige, n'ait aucunement augmenté le loyer qui est demeuré le même de 1997 à 2002. Une augmentation même minime ou dans les limites permises aurait pu démontrer que l'appelant était effectivement préoccupé de la rentabilité de son investissement et non motivé par d'autres considérations. Cela est d'autant plus vrai qu'il a dû encourir aux cours des années en litige des dépenses extrêmement importantes que son revenu relativement modeste permettait difficilement de supporter.
+[18] Dans l'affaire Stewart c. Canada, [2002] 2 R.C.S. 645, 2002 DTC 6969, la Cour suprême du Canada a décidé que le critère de l'espoir raisonnable de profit n'est applicable que dans certaines circonstances. Au paragraphe 60 du jugement, la Cour s'exprime dans les termes suivants :
+60 En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l'activité en cause. Lorsque l'activité ne comporte aucun aspect personnel et qu'elle est manifestement commerciale, il n'est pas nécessaire de pousser l'examen plus loin. Lorsque l'activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d'une manière suffisamment commerciale pour constituer une source de revenu. [...]
+[19] Par ailleurs, au paragraphe 54 de la même décision la Cour suprême précise ce qui suit :
+54 Il y a également lieu de souligner que la détermination de l'existence d'une source de revenu n'est pas un processus purement subjectif. Outre le fait que, pour qu'une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l'intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l'arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+(Je souligne.)
+[20] Malheureusement pour les raisons indiquées précédemment, j'estime que l'appelant ne m'a pas convaincu que son intention prédominante était de tirer un profit de la location à ses parents de la propriété située à Grand-Mère et qu'il s'est comporter objectivement comme un homme d'affaires sérieux à cet égard. Il m'apparaît en effet que le prix payé pour cette propriété et les engagements financiers découlant du prêt hypothécaire obtenu, sans oublier les taxes foncières et les assurances pour ne mentionner que ces éléments sont difficilement conciliables avec le loyer modeste de 400 $ par mois consenti par l'appelant à ses parents. L'absence d'un plan précis pour rentabiliser l'investissement et la non-augmentation du loyer durant plusieurs années malgré des dépenses importantes au cours des années en litige ont aussi été soulignées.
+[21] En conséquence de ce qui précède, les appels sont rejetés.
+Signé à Ottawa, Canada ce 28e jour de janvier 2005.
+« P.R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2005CCI91
+No DU DOSSIER DE LA COUR :
+2004-2643(IT)I
+INTITULÉS DES CAUSES :
+Pierre Allard et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 10 janvier 2005
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 28 janvier 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

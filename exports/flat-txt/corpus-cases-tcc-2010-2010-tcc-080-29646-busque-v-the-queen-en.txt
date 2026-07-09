@@ -1,0 +1,199 @@
+Title: Busque v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29646/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-080-29646-busque-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-02-10
+
+# Busque v. The Queen
+
+- Citation: 2010 TCC 080
+- Decision date: 2010-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6153, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Busque v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-10
+Neutral citation
+2010 TCC 080
+File numbers
+2009-3373(IT)APP, 2009-3375(IT)APP, 2009-3376(IT)APP, 2009-3377(IT)APP
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+[ENGLISH TRANSLATION]
+Docket: 2009-3376(IT)APP
+BETWEEN:
+GUY BUSQUE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for an extension of time heard
+on common evidence with the applications of
+Nicole Busque (2009-3373(IT)APP),
+Richard Bolduc (2009-3375(IT)APP) and
+Gino Busque (2009-3377(IT)APP),
+on January 27, 2010, at Québec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Applicant:
+Pier Émil Rodrigue
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+ORDER
+The application for an extension of time to appeal under section 167 of the Income Tax Act regarding the 2003, 2004, and 2005 taxation years is granted in accordance with the attached reasons for order.
+The Court orders that the time within which the notice of appeal may be filed be extended until the date of this order and that the notice of appeal filed with the Court on September 23, 2009, be considered a valid notice of appeal on the date of this order.
+The respondent shall file a reply within sixty days after the day on which the Registry of the Court transmits the notice of appeal.
+Signed at Montréal, Quebec, on this 10th day of February 2010.
+“Réal Favreau”
+Favreau J.
+Docket: 2009-3376(IT)APP
+BETWEEN:
+NICOLE BUSQUE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for an extension of time to appeal heard
+on common evidence with the applications of
+Guy Busque (2009-3376(IT)APP),
+Richard Bolduc (2009-3375(IT)APP) and
+Gino Busque (2009-3377(IT)APP),
+on January 27, 2010, at Québec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Applicant:
+Pier Émil Rodrigue
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+ORDER
+The application for an extension of time to appeal under section 167 of the Income Tax Act regarding the 2003, 2004, and 2005 taxation years is granted in accordance with the attached reasons for order.
+The Court orders that the time within which the notice of appeal may be filed be extended until the date of this order and that the notice of appeal filed with the Court on September 23, 2009, be considered a valid notice of appeal on the date of this order.
+The respondent shall file a reply within sixty days after the day on which the Registry of the Court transmits the notice of appeal.
+Signed at Montréal, Quebec, on this 10th day of February 2010.
+“Réal Favreau”
+Favreau J.
+Docket: 2009-3376(IT)APP
+BETWEEN:
+RICHARD BOLDUC,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for an extension of time to appeal heard
+on common evidence with the applications of
+Nicole Busque (2009-3373(IT)APP),
+Guy Busque (2009-3376(IT)APP) and
+Gino Busque (2009-3377(IT)APP),
+on January 27, 2010, at Québec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Applicant:
+Pier Émil Rodrigue
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+ORDER
+The application for an extension of time to appeal under section 167 of the Income Tax Act regarding the 2003, 2004, and 2005 taxation years is granted in accordance with the attached reasons for order.
+The Court orders that the time within which the notice of appeal may be filed be extended until the date of this order and that the notice of appeal filed with the Court on September 23, 2009, be considered a valid notice of appeal on the date of this order.
+The respondent shall file a reply within sixty days after the day on which the Registry of the Court transmits the notice of appeal.
+Signed at Montréal, Quebec, on this 10th day of February 2010.
+“Réal Favreau”
+Favreau J.
+Docket: 2009-3376(IT)APP
+BETWEEN:
+GINO BUSQUE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for an extension of time to appeal heard
+on common evidence with the applications of
+Nicole Busque (2009-3373(IT)APP),
+Richard Bolduc (2009-3375(IT)APP), and
+Guy Busque (2009-3376(IT)APP)
+on January 27, 2010, at Québec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Applicant:
+Pier Émil Rodrigue
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+ORDER
+The application for an extension of time to appeal under section 167 of the Income Tax Act regarding the 2003, 2004, and 2005 taxation years is granted in accordance with the attached reasons for order.
+The Court orders that the time within which the notice of appeal may be filed be extended until the date of this order and that the notice of appeal filed with the Court on September 23, 2009, be considered a valid notice of appeal on the date of this order.
+The respondent shall file a reply within sixty days after the day on which the Registry of the Court transmits the notice of appeal.
+Signed at Montréal, Quebec, on this 10th day of February 2010.
+“Réal Favreau”
+Favreau J.
+Citation: 2010 TCC 80
+Date: 20100210
+Dockets: 2009-3376(IT)APP,
+2009-3373(IT)APP,
+2009-3375(IT)APP,
+2009-3377(IT)APP
+BETWEEN:
+GUY BUSQUE,
+NICOLE BUSQUE,
+RICHARD BOLDUC, and
+GINO BUSQUE,
+Applicants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Favreau J.
+[1] Applicants Guy Busque and Nicole Busque filed their notice of objection on or around June 11, 2007, while Richard Bolduc and Gino Busque filed their notice of objection on or around June 12, 2007, and on or around June 15, 2007, respectively. The four applicants are contesting the income tax reassessments for the 2003, 2004, and 2005 taxation years on the following dates: May 3, 2007, for Guy Busque and Nicole Busque; April 18, 2007, for Richard Bolduc; and April 10, 2007, for Gino Busque. The main point that is being challenged concerned the deductibility of the expenses incurred by the applicants to commute to the construction sites in the United States where they provided services in the construction field and to stay near these sites. Under these reassessments, the Canada Revenue Agency (the “CRA”) claimed large sums of money from each of the applicants. For example, in the case of Guy Busque, the sums of money claimed were $8,893.12 for 2003, $5,829.09 for 2004, and $4,819.79 for 2005, which amounted to a total of $19,542.
+[2] A notice of confirmation was mailed to Guy Busque on February 20, 2009, confirming the reassessments dated May 3, 2007. Similar notices of confirmation were sent to the other applicants on February 24, 2009, for Nicole Busque and Gino Busque, and on February 26, 2009, for Richard Bolduc.
+[3] The applicants did not file an appeal with the Tax Court of Canada within the time limit set out at subsection 169(1) of the Income Tax Act, c. 1 (5th supp.), R.S.C 1985, as amended (the “Act”), which ended on May 21, 2009, in the case of Guy Busque; May 25, 2009, for Nicole Busque and Gino Busque; and May 27, 2009, for Richard Bolduc. Notices of appeal were produced by the applicants on September 23, 2009, and each of the applicants filed an application for an extension of time to appeal with the Tax Court of Canada on October 20, 2009.
+[4] The reason given by the applicants in their respective applications for an extension of time to appeal to justify their lateness in filing their notice of appeal is that they did not receive any statements from the CRA and that, for this reason, they could not appeal an amount of which they were unaware.
+[5] Applicant Guy Busque testified at the hearing and explained that he, his spouse Nicole Busque, his son Gino Busque, and a co-worker, Richard Bolduc, worked in the construction field. More specifically, they worked in the United States and for various contractors based on their labour needs. The applicants lived in Canada and returned to Beauce to spend their weekends. Mr. Busque also stated that for U.S. tax purposes, they were considered to be self-employed workers and could deduct the expenses they incurred in commuting to the construction sites and their accommodation expenses. For Canadian tax purposes, the status of self-employed worker was acknowledged, but their commuting and accommodation expenses were denied.
+[6] Guy Busque also explained that, following the notices of objection he produced, the CRA submitted to him a settlement proposal on November 7, 2008, under which the CRA proposed to decrease his total income by $11,854 for 2003, $8,313 for 2004, and $14,234 for 2005, and to maintain his eligibility for foreign tax credits with respect to the taxes paid in the United States. A similar settlement offer was also submitted to his spouse Nicole Busque. Applicant Guy Busque claimed that he turned down the settlement offer because the CRA was asking him to waive his right to object or appeal.
+[7] Section 167 of the Act allows the Tax Court of Canada to extend the deadline to commence an appeal to said Court if certain conditions are met. These conditions are set out at subsection 167(5). The first condition is that the application must have been submitted within one year after the deadline given for appealing has expired. This condition is met by the four applicants in this case.
+[8] The second condition is that the applicants must prove that, within the time allotted to file an appeal, they were unable to act or to instruct another to act on their behalf, or that they actually intended to file an appeal. The applicants were unable to prove that they were unable to act or instruct another to act on their behalf because, according to Guy Busque’s testimony, the applicants instructed their agent Pier Émil Rodrigue to handle heir cases. In any event, by turning down the settlement offer, Guy Busque clearly showed that he intended to file an appeal. He absolutely did not want to waive his right to appeal. Therefore, this condition is clearly met in his case. This second condition is also met by Nicole Busque, who received a settlement offer that she did not accept, presumably for the same reasons as her spouse. In the case of the two other applicants, nothing in the file indicates that they received a similar settlement offer from the CRA, and they did not testify at the hearing. However, since they instructed the same agent to handle their respective cases, the cases are similar and raise the same issues, and since said cases were addressed together and the same way by said agent, it is reasonable to consider that they also intended to appeal from the assessments.
+[9] The third condition is that it is fair and reasonable to allow this application given the reasons set out in the application and the circumstances in this case. Here, the circumstances in this case made it possible to conclude that it was fair and reasonable to allow this application. The sums of money involved are significant to the applicants given their respective incomes and that the facts underlying the assessments are complex because two jurisdictions are involved.
+[10] The fourth condition is that the application had to be submitted as soon as circumstances allowed it. Based on the information provided by the agent, the delay is apparently attributed to the difficulties experienced in contacting the four applicants concerned to develop a common appeal strategy. Given the fact that the four tax payers were involved and that they worked in the United States, it is reasonable to believe that this condition was met. The notices of appeal were filed approximately four months after the deadline to file an appeal was reached.
+[11] Finally, the fifth and final condition is that there must be reasonable grounds for the appeal. This condition is also met given the settlement offer submitted by the CRA.
+[12] In these circumstances, the applicants met the application conditions set out in section 167. The application for an extension of time to appeal is allowed.
+Signed at Ottawa, Canada, on this 10th day of February 2010.
+“Réal Favreau”
+Favreau J.
+CITATION: 2010 TCC 80
+COURT FILE NOS.: 2009-3376(IT)APP, 2009-3373(IT)APP,
+2009-3375(IT)APP, 2009-3377(IT)APP
+STYLES OF CAUSE: Guy Busque and Her Majesty the Queen,
+Nicole Busque and Her Majesty the Queen;
+Richard Bolduc and Her Majesty the Queen; and Gino Busque and Her Majesty the Queen
+PLACE OF HEARING: Quebec, Quebec
+DATE OF HEARING: January 27, 2010
+REASONS FOR ORDER BY: The Honourable Justice Réal Favreau
+DATE OF ORDERS: February 10, 2010
+APPEARANCES:
+Agent for the Applicants:
+Pier Émil Rodrigue
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,318 @@
+---
+title: "Mony c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520983/index.do"
+last_modified: "2022-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 120"
+citation2: ""
+neutral_citation: "2022 CCI 120"
+decision_date: "2022-10-27"
+language: "fr"
+item_id: "520983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4505
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:19:01.006000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "22b89e1402079c1eaadefa7014ef91fa2d2277c2c93831ebea478696798e7b81"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mony c. Le Roi
+
+- Citation: 2022 CCI 120
+- Decision date: 2022-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4505, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mony c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-10-27
+Référence neutre
+2022 CCI 120
+Numéro de dossier
+2019-2585(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2585(IT)G
+ENTRE :
+CHARLES MONY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 25 et 26 mai 2022, à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l’appelant :
+Me Bernard Gaudreau
+Me Émile Bresse
+Avocat de l'intimé :
+Me Michel Lamarre
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation datée du 13 octobre 2017 établie par la ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu, concernant l’année d’imposition 2009 de l’appelant est rejeté avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Québec (Québec), ce 27e jour d'octobre 2022.
+“Réal Favreau”
+Favreau J.
+Référence : 2022 CCI 120
+Date : 20221027
+Dossier : 2019-2585(IT)G
+ENTRE :
+CHARLES MONY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] M. Charles Mony (l’« appelant ») interjette appel d’une nouvelle cotisation, établie le 13 octobre 2017, par laquelle la ministre du Revenu national (la « ministre ») a ajouté à ses revenus pour l’année d’imposition 2009 la somme de 225 187$ à titre de gain en capital imposable.
+[2] Ce montant provient d’un gain en capital réalisé par sa conjointe, Mme Isabella Vitté lors de la disposition d’actions du capital-actions de Créaform inc. (« Créaform ») que la ministre a attribué à l’appelant en application de la règle générale anti-évitement (la « RGAÉ ») prévue à l’article 245 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « LIR »).
+[3] L’appelant a dûment renoncé à la période normale de nouvelle cotisation en vertu du paragraphe 152(4) de la LIR.
+LES FAITS
+[4] Créaform est une société privée sous contrôle canadien constituée en 2002 dont l’appelant était actionnaire. La société opérait une entreprise de vente d’une technologie numérique permettant la prise de mesures en trois dimensions.
+[5] Mme Vitté a été impliquée dans l’entreprise de Créaform depuis sa constitution. Outre une participation à un régime d’options d’achat d’actions, elle n’a pas été rémunérée pour sa contribution avant le 25 juin 2009.
+[6] L’appelant et Mme Vitté ont offert des actifs personnels en garantie pour les prêts contractés par Créaform.
+[7] Le 23 mars 2009, des investisseurs ont offert d’acheter des actions de l’appelant dans le capital-actions de Créaform. Cette offre a été acceptée.
+[8] Le 25 juin 2009, l’appelant a fait un don en faveur de Mme Vitté de 114 907 actions de catégorie B de Créaform. La juste valeur marchande (la « JVM ») de ces actions était de 985 728 $ et leur prix de base rajusté (le « PBR ») était de 1 242 $.
+[9] Le même jour, l’appelant a vendu le même nombre d’actions, ayant les mêmes JVM et PBR, à Mme Vitté en contrepartie d’un billet d’une valeur de 985 728 $ portant intérêt au taux prescrit.
+[10] L’appelant a produit un choix en vertu du paragraphe 73(1) de la LIR pour soustraire la vente des actions à sa conjointe de l’application de cette disposition. Conséquemment, l’appelant a réalisé un gain en capital de 984 486 $ sur lequel il s’est imposé.
+[11] Encore le même jour, Mme Vitté a vendu les 229 814 actions reçues de l’appelant aux investisseurs tiers en contrepartie d’un montant de 1 971 455 $. La moitié du gain en capital réalisé par cette transaction, soit 450 373 $, a été attribuée à l’appelant en application du paragraphe 74.2(1) de la LIR.
+[12] Le billet que l’appelant a reçu en contrepartie de la vente d’actions à Mme Vitté a été payé par Mme Vitté le 25 juin 2009 ou dans les jours qui ont suivi.
+[13] L’appelant et Mme Vitté ont chacun demandé la déduction pour gain en capital en vertu du paragraphe 110.6(2.1) de la LIR.
+[14] Par la nouvelle cotisation du 13 octobre 2017, la ministre cherche à attribuer la totalité du gain en capital réalisé par Mme Vitté à l’appelant en application de la RGAÉ.
+[15] L’appelant a aussi vendu des actions aux investisseurs sans qu’elles transigent par Mme Vitté. Il est resté actionnaire de Créaform après le 25 juin 2009.
+POSITIONS DES PARTIES
+Position de l’appelant
+[16] L’appelant concède que la série d’opérations réalisée le 25 juin 2009 lui a apporté un avantage fiscal en vertu du paragraphe 245(1) de la LIR.
+[17] Il allègue cependant que la série d’opérations ne comprenait aucune opération d’évitement en vertu du paragraphe 245(3) de la LIR.
+[18] L’appelant allègue que les seules raisons ayant motivé les transactions étaient de reconnaître la contribution de Mme Vitté à Créaform en lui permettant de profiter de la vente aux investisseurs. Il s’agissait d’instructions fournies à leurs conseillers qui ont monté la série d’opérations. Comme aucun avantage fiscal n’était recherché, toutes les opérations ont été effectuées principalement pour des objets véritables.
+[19] L’appelant soumet également que la série d’opérations n’a pas résulté en un abus des dispositions de la LIR en vertu du paragraphe 245(4). Comme la série d’opérations a été effectuée principalement pour des objets véritables, il ne peut s’agir d’un abus et cela distingue la présente affaire de l’arrêt Gervais, c. Canada, 2018 CAF 3 (« Gervais »).
+Position de l’intimé
+[20] L’intimé se fonde principalement sur l’arrêt Gervais de la Cour d’appel fédérale pour démontrer qu’il y a eu un abus des dispositions de la LIR en vertu du paragraphe 245(4). Les faits dans Gervais étaient essentiellement les mêmes qu’en l’espèce.
+[21] L’intimé soumet que la vente d’actions à Mme Vitté ne peut avoir été effectuée que dans le but d’obtenir un avantage fiscal. Il s’agit donc d’une opération d’évitement au sens du paragraphe 245(3) de la LIR. C’est d’ailleurs la conclusion à laquelle était arrivée la Cour d’appel fédérale dans Gervais.
+QUESTIONS
+[22] Les questions suivantes sont en litige :
+1. Y a-t-il une opération d’évitement dans la série d’opérations ayant mené à un avantage fiscal?
+La série d’opérations entraîne-t-elle un abus dans l’application des dispositions de la LIR?
+ANALYSE
+Le droit
+[23] Aux fins du présent litige, les dispositions pertinentes de la LIR sont les paragraphes 47(1), 73(1), 74.1(1), 74.2(1), 74.5(1), 110.6(1) pour la définition d’« action admissible de petite entreprise », 110.6(2.1) pour la déduction pour gains en capital d’actions admissibles de petite entreprise et les paragraphes 245(1) à (5). Pour fins de référence, ces dispositions sont reproduites à la fin du jugement.
+[24] Pour que la RGAÉ s’applique, trois conditions sont nécessaires. Le test élaboré par la Cour suprême dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54 (« Trustco »), par. 66(1) doit être satisfait :
+(1) il doit exister un avantage fiscal découlant d’une opération ou d’une série d’opérations dont l’opération fait partie (par. 245(1) et (2));
+(2) l’opération doit être une opération d’évitement en ce sens qu’il n’est pas raisonnable d’affirmer qu’elle est principalement effectuée pour un objet véritable ‑ l’obtention d’un avantage fiscal n’étant pas considérée comme un objet véritable;
+(3) il doit y avoir eu évitement fiscal abusif en ce sens qu’il n’est pas raisonnable de conclure qu’un avantage fiscal serait conforme à l’objet ou à l’esprit des dispositions invoquées par le contribuable.
+Avantage fiscal
+[25] Bien que l’existence d’un avantage fiscal a été concédée par l’appelant, il est utile de l’identifier pour la suite de l’analyse. L’existence de l’avantage fiscal doit souvent être établie au moyen d’une comparaison entre différents mécanismes.
+[26] En l’espèce, le 25 juin 2009, l’appelant a d’abord fait un don à Mme Vitté de 114 907 actions ayant une JVM de 985 728 $ et un PBR de 1 242 $. À moins d’un choix à l’effet contraire, en vertu des paragraphes 73(1) et (1.01) de la LIR, le transfert d’actions à un conjoint est réputé avoir été fait pour un produit de disposition (le « PD ») égal au PBR des actions et lesdites actions sont réputées avoir été acquises pour ce même montant. Il n’y a donc pas de conséquences fiscales pour l’appelant suite à cette transaction.
+[27] L’appelant a ensuite vendu 114 907 actions ayant les mêmes attributs fiscaux à Mme Vitté pour un montant égal à leur JVM. Comme l’appelant a produit un choix pour empêcher l’application du paragraphe 73(1) de la LIR, le PD était de 985 728 $ et le PBR de ces actions pour Mme Vitté était du même montant. L’appelant a réalisé un gain en capital de 984 486 $, calculé comme suit :
+PD – PBR = Gain en capital
+985 728 $ – 1 242 $ = 984 486 $
+[28] Avant l’application du paragraphe 47(1) de la LIR, les attributs fiscaux des actions de Mme Vitté étaient les suivants :
+Vide/Blank
+114 907 actions reçues par don
+114 907 actions reçues par vente
+PRB
+1 242 $
+985 728 $
+JVM
+985 728 $
+985 728 $
+[29] Comme les actions reçues par Mme Vitté sont des biens identiques, le paragraphe 47(1) de la LIR a pour effet de réputer que les actions ont toutes le même PBR, peu importe la manière dont elles ont été transférées, par l’application de la règle de la moyenne. Les attributs fiscaux des actions de Mme Vitté sont donc devenus les suivants :
+Vide/Blank
+114 907 actions reçues par don
+114 907 actions reçues par vente
+PRB
+493 485 $
+493 485 $
+JVM
+985 728 $
+985 728 $
+[30] En vertu du paragraphe 74.2(1) de la LIR, lorsqu’un particulier transfère des actions à son conjoint et que celui-ci en dispose, le gain en capital réalisé par le conjoint lors de la disposition de ces actions est réputé avoir été réalisé par le particulier qui est l’auteur du transfert. En vertu du paragraphe 74.5(1) de la LIR, ces règles d’attribution ne s’appliquent pas si le particulier reçoit une contrepartie égale à la JVM en échange des actions.
+[31] Ainsi, seul le gain en capital réalisé par Mme Vitté lors de la disposition des actions reçues par don doit être attribué à l’appelant en vertu du paragraphe 74.2(1) de la LIR alors que le gain en capital provenant des actions qu’elle a achetées reste imposable entre ses mains.
+[32] Lorsque Mme Vitté a vendu toutes ses actions aux investisseurs tiers (PD de 1 971 455 $ et dépenses de 83 740 $), un gain en capital de 450 373 $ a été attribué à l’appelant. Le solde du gain en capital de 450 373 $, est resté imposable entre les mains de Mme Vitté.
+[33] Sans l’application de la règle de la moyenne du paragraphe 47(1) de la LIR, tout le gain en capital de 900 745 $ aurait été attribué à l’appelant puisqu’il n’aurait été réalisé que lors de la vente des actions données à Mme Vitté. En effet, la disposition des actions achetées par Mme Vitté n’aurait pas généré de gain en capital puisque leur PBR aurait été égal ou supérieur au PD.
+[34] L’utilisation d’un transfert en deux étapes à Mme Vitté (don et vente), l’utilisation du choix du paragraphe 73(1) de la LIR ainsi que l’application de la règle de la moyenne du paragraphe 47(1) de la LIR ont donc entraîné une diminution de 225 187 $ (450 373 $ / 2) dans ce qui aurait autrement été le revenu de l’appelant.
+Opération d’évitement
+[35] En l’espèce, l’avantage fiscal ne découle pas d’une unique opération, mais plutôt d’une série d’opérations. La Cour doit donc évaluer chaque opération de la série pour déterminer si elle contient une opération d’évitement. Une opération est qualifiée, comme telle, lorsqu’elle est effectuée principalement pour des objets fiscaux.
+[36] L’appelant soumet que l’ensemble de la série d’opérations a été effectuée uniquement pour des raisons commerciales (vente d’actions à des investisseurs tiers) et pour reconnaître la contribution de Mme Vitté à Créaform. Or, la Cour ne doit pas évaluer la série d’opérations dans son ensemble, mais plutôt chaque opération de la série. La deuxième condition du test de la RGAÉ est remplie dès qu’une des opérations de la série est une opération d’évitement.
+[37] Il faut donc d’abord déterminer quelles sont les opérations de la série pour ensuite déterminer si chacune d’entre elles a été effectuée principalement pour des objets véritables.
+[38] Il ne fait pas de doute que les opérations effectuées le 25 juin 2009 font partie d’une série d’opérations au sens des paragraphes 245(2) et (3) de la LIR ayant mené à l’avantage fiscal. En effet, comme le démontre le mémorandum préparé par les conseillers de l’appelant, il s’agissait d’opérations déterminées d’avance de manière à produire le résultat donné et il n’existait pas de probabilités pratiques que ces opérations ne se produisent pas comme envisagées.
+[39] Il faut malgré tout bien cerner quelles sont ces opérations. La définition du terme « opération » au paragraphe 245(1) de la LIR est particulièrement large puisque « [s]ont assimilés à une opération une convention, un mécanisme ou un événement. » Malgré cette définition élargie, chaque opération doit être considérée dans son ensemble; une opération ne peut pas être fractionnée afin d'isoler ses objets commerciaux et fiscaux.
+[40] En l’espèce, la série d’opérations comprend les opérations suivantes réalisées le 25 juin 2009 :
+- don par l’appelant de 114 907 actions à Mme Vitté;
+- vente par l’appelant de 114 907 actions à Mme Vitté et choix pour éviter l’application du paragraphe 73(1) de la LIR;
+- vente par Mme Vitté de 229 814 actions à des investisseurs tiers.
+[41] Il faut maintenant déterminer si au moins une de ces opérations est une opération d’évitement. Selon le paragraphe 245(3) de la LIR, une opération ne sera pas qualifiée comme telle « s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables », c’est-à-dire pour des objets non fiscaux.
+[42] Il semble clair que la vente d’actions par Mme Vitté à des tiers n’est pas une opération d’évitement. En effet, l’objet principal de cette opération est de tirer un profit de la vente d’actions et d’intégrer de nouveaux partenaires dans Créaform.
+[43] Concernant le don, la preuve a démontré que Mme Vitté a grandement participé à l’entreprise de Créaform et que sa compensation était minimale avant le 25 juin 2009. L’idée que l’appelant ait voulu compenser Mme Vitté à travers la transaction avec des tiers n’est pas déraisonnable. Le fait qu’elle n’ait pas été compensée plus tôt ne change rien au raisonnement. L’achat d’actions par des tiers, a, en effet, amené une opportunité de faire profiter Mme Vitté monétairement, ce qui ne semblait pas être possible auparavant.
+[44] Il est vrai que l’appelant aurait pu vendre ces actions directement aux tiers pour ensuite transférer l’argent à Mme Vitté. Avoir procédé par don plutôt que de cette façon avait probablement des motifs d’ordre fiscal. Or, comme l’a expliqué la Cour suprême du Canada dans Trustco, le critère de l’opération d’évitement de la RGAÉ permet de respecter le principe du Duke of Westminster; on souhaitait ne pas obliger les contribuables à toujours devoir toujours choisir l’opération menant à l’impôt le plus élevé. Le principe du Duke of Westminster est reconnu comme étant la « pierre angulaire du droit canadien en matière d’évitement fiscal ».
+[45] Le paragraphe 245(3) de la LIR « ne permet pas de considérer une opération comme une opération d’évitement parce qu’une autre opération, qui aurait pu permettre d’obtenir un résultat équivalent, se serait traduite par des impôts plus élevés. » (voir Trustco, par. 30).
+[46] Même si le choix de procéder par don plutôt que par une autre méthode a probablement été fait en fonction de considérations fiscales, il est raisonnable de penser que l’objet principal du don était réellement d’offrir une contribution à Mme Vitté pour les services qu’elle a rendus à Créaform.
+[47] Malgré cela, certaines contradictions dans les témoignages de l’appelant et de Mme Vitté peuvent laisser croire que l’objet principal de cette opération était bel et bien d’ordre fiscal. En effet, les deux témoins considéraient les actions de l’appelant comme étant détenues conjointement par le couple. Selon leurs témoignages, ils ne faisaient pas de distinction entre les biens de l’appelant et ceux de Mme Vitté puisque ceux-ci sont mariés en vertu du régime français de la communauté de biens. S’ils considéraient réellement leurs biens comme appartenant au couple plutôt qu’à l’un ou à l’autre, pourquoi était-ce nécessaire de reconnaître monétairement la contribution de Mme Vitté dans Créaform?
+[48] Il n’est donc pas clair si cette opération en est une d’évitement ou non.
+[49] Par contre, il n’est pas essentiel de faire une telle détermination puisque l’opération de vente d’actions par l’appelant à Mme Vitté en est clairement une. En effet, cette opération ne peut avoir été faite que pour des objets fiscaux.
+[50] Selon l’appelant et Mme Vitté, ils n’ont fait que suivre les instructions qui leur avaient été fournies par leurs conseillers fiscaux. Pour eux, l’objet de la transaction a toujours été de reconnaître la contribution de Mme Vitté en lui faisant participer au profit de la vente d’actions.
+[51] Or, il est peu probable que l’appelant ait réellement cru que cette opération était dénuée d’objet fiscal. Après tout, il a complété les opérations, telles que proposées, dans un mémorandum préparé par des conseillers fiscaux qu’il a lui-même engagé. Le fait qu’il ne comprenait pas vraiment les mécanismes sous-jacents à cette opération est sans conséquence.
+[52] De plus, même s’il avait la croyance sincère que cette opération ne permettait aucunement d’accomplir des objets fiscaux, « [l]e contribuable ne peut se soustraire à l’application de la RGAÉ en déclarant simplement que l’opération a été principalement effectuée pour un objet non fiscal. » (voir Trustco, par. 29) L’utilisation des mots « s’il est raisonnable de considérer » au paragraphe 245(3) de la LIR démontre qu’il s’agit d’un test qui n’est pas que subjectif et qu’il est en partie objectif.
+[53] En l’espèce, la vente d’actions par l’appelant à sa conjointe ne peut avoir eu un but autre que fiscal. Mme Vitté n’a fait qu’agir comme intermédiaire et n’a reçu aucun bénéfice de cette opération. En effet, le produit de la vente des actions qu’elle a achetées a été remis en totalité pour rembourser le billet qu’elle a émis à l’appelant en contrepartie des actions. L’appelant a reçu le même montant en vendant ces actions à Mme Vitté que s’il les avait vendues directement aux tiers. Le bénéfice qu’il a tiré de cette opération provient de l’application de la règle de la moyenne grâce au paragraphe 47(1) de la LIR, du maintien du PBR des actions données à Mme Vitté à 985 728 $ grâce au choix en vertu au paragraphe 73(1) de la LIR et de l’attribution à l’appelant de la moitié du gain en capital réalisé par Mme Vitté sur la vente de ces actions en vertu du paragraphe 74.2 de la LIR.
+[54] Il est déraisonnable de considérer cette opération comme ayant principalement un objet non fiscal. Il s’agit donc d’une opération d’évitement au sens du paragraphe 245(3) de la LIR faisant partie d’une série d’opérations dont découle un avantage fiscal.
+[55] Il incombait à l’appelant de démontrer l’existence d’un objet non fiscal. En l’espèce, il n’a pas réussi à démontrer que cette opération était nécessaire pour accomplir la transaction avec les investisseurs tiers ou pour reconnaître la contribution de Mme Vitté.
+Abus
+[56] Les faits de la présente affaire sont très similaires à ceux de l’arrêt Gervais. Dans Gervais, pratiquement la même série d’opérations était en cause, c’est-à-dire un don d’actions par le contribuable à sa conjointe auquel s’appliquait le paragraphe 73(1) de la LIR, une vente à la JVM d’actions par le contribuable à sa conjointe à l’égard de laquelle le choix de ne pas appliquer le paragraphe 73(1) de la LIR a été produit, et la vente de ces actions par la conjointe à des tiers à la JVM. Les conséquences fiscales étaient également similaires, c’est-à-dire une attribution du gain en capital au contribuable diminuée grâce à l’application de la règle de la moyenne en vertu du paragraphe 47(1) de la LIR.
+[57] La Cour d’appel fédérale a conclu qu’un tel résultat avait entraîné un abus des paragraphes 73(1) et 74.2(1) de la LIR :
+Ce résultat, même s’il est conforme au libellé des dispositions en cause, va à l’encontre de l’objet et l’esprit des paragraphes 73(1) et 74.2(1) qui ont pour mission d’assurer qu’un gain (ou une perte) différé en raison d’un roulement entre époux ou conjoints de fait demeure celui de l’auteur du transfert. Le maintien du PBR de l’auteur du transfert comme l’envisage le paragraphe 73(1) et l’attribution à ce même auteur du gain (ou de la perte) réalisé par la suite en vertu du paragraphe 74.2(1), font état de cet objectif. En l’espèce, l’offre d’achat déposée par BW Technologies avant que ne s’engage la série d’opérations démontre de façon indubitable que le bloc d’actions données comportait une plus-value de 1 000 000.00$ au moment de son transfert à Mme Gendron. Puisque le roulement prévu au paragraphe 73(1) a eu pour effet de différer la réalisation de ce gain dans son entièreté, c’est la totalité de la partie imposable de ce gain qui devait être attribuée à M. Gervais selon l’objet et l’esprit du paragraphe 74.2(1). Il s’ensuit que le fractionnement de ce gain, suite à l’utilisation astucieuse qui fut faite du paragraphe 47(1), fait échec à la raison d’être de ces dispositions (par. 51) »
+[58] Les différences entre la présente affaire et Gervais sont somme toute mineures : dans Gervais, il y a eu un remaniement de capital au début de la série d’opérations et seule la conjointe avait profité de la déduction du paragraphe 110.6(2.1) de la LIR; la proportion d’actions données par rapport aux actions vendues n’était pas la même et les opérations de la série ont été effectuées sur plusieurs jours plutôt qu’un seul. Aucune de ces différences ne permet de distinguer l’arrêt Gervais du cas en l’espèce. En effet, dans les deux cas, la série d’opérations mène au même résultat abusif, soit le fractionnement du gain en capital. Le même raisonnement doit donc s’appliquer en l’espèce.
+[59] Selon l’appelant, l’arrêt Gervais peut être distingué puisqu’il ne peut pas y avoir d’abus s’il n’était pas au courant des impacts fiscaux de la série d’opérations et qu’il n’avait subjectivement pas l’intention de réaliser un avantage fiscal. Malheureusement pour l’appelant, la question de l’objet des opérations ne concerne que le critère de l’opération d’évitement, qui a déjà été analysé. Lorsqu’il y a bel et bien une opération d’évitement, la RGAÉ s’applique lorsqu’une telle opération entraîne un résultat que la loi vise à empêcher, va à l’encontre de la raison d’être des dispositions invoquées ou contourne l’application de certaines dispositions d’une manière contraire à l’objet ou à l’esprit de ces dispositions. L’état d’esprit de l’appelant n’est pas pertinent à ce stade-ci de l’analyse.
+[60] Conformément à l’arrêt Gervais, l’opération d’évitement a mené à un résultat qui entraînait l’abus des paragraphes 73(1) et 74.2(1) de la LIR de manière à entraîner l’application de la RGAÉ.
+[61] Pour toutes ces raisons, l’appel doit être rejeté avec dépens.
+Signé à Québec (Québec), ce 27e jour d'octobre 2022.
+“Réal Favreau”
+Favreau J.
+RÉFÉRENCE :
+2022 CCI 120
+Nº DU DOSSIER DE LA COUR :
+2019-2585(IT)G
+INTITULÉ DE LA CAUSE :
+CHARLES MONY ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+les 25 et 26 mai 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 27 octobre, 2022
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Bernard Gaudreau
+Me Émile Bresse
+Avocat de l'intimée :
+Me Michel Lamarre
+AVOCATS INSCRITS AU DOSSIER :
+Pour :
+Nom :
+Me Bernard Gaudreau
+Me Émile Bresse
+Cabinet :
+Norton Rose Fulbright S.E.N.C.R.L.
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+Annexe
+47(1) Biens identiques
+Lorsque, à un moment donné après 1971, un contribuable qui est propriétaire d’un bien acquis par lui après 1971 ou de plusieurs biens identiques dont chacun a été acquis par lui après 1971 acquiert un ou plusieurs autres biens (appelés « les biens nouvellement acquis » au présent paragraphe) dont chacun est identique à chaque bien acquis antérieurement, pour le calcul, à un moment ultérieur, du prix de base rajusté, pour le contribuable, de chacun de ces biens identiques :
+a) le contribuable est réputé avoir disposé de chaque bien acquis antérieurement, immédiatement avant le moment donné, pour un produit égal à son prix de base rajusté, pour le contribuable, immédiatement avant le moment donné;
+b) le contribuable est réputé avoir acquis chacun de ces biens identiques au moment donné, à un coût égal au quotient de la division :
+(i) du total des prix de base rajustés, pour le contribuable, immédiatement avant le moment donné, des biens acquis antérieurement et du coût supporté par lui (déterminé compte non tenu du présent article) des biens nouvellement acquis,
+par :
+(ii) le nombre de biens identiques appartenant au contribuable immédiatement après le moment donné.
+c) le résultat du calcul suivant est à déduire, après le moment donné, dans le calcul du prix de base rajusté, pour le contribuable, de chacun de ces biens identiques :
+A/B
+où :
+A représente le total des montants déduits en application de l’alinéa 53(2)g.1) dans le calcul, immédiatement avant le moment donné, du prix de base rajusté, pour le contribuable, des biens acquis antérieurement,
+B le nombre de ces biens identiques appartenant au contribuable immédiatement après le moment donné ou, en cas d’application du paragraphe (2), le quotient déterminé selon ce paragraphe relativement à l’acquisition;
+d) est à ajouter, après le moment donné, dans le calcul du prix de base rajusté, pour le contribuable, de chacun de ces biens identiques le montant déterminé selon l’alinéa c) relativement à ce bien.
+73(1) Transfert de biens entre vifs à un particulier
+Pour l’application de la présente partie, lorsque l’immobilisation d’un particulier (sauf une fiducie) a été transférée dans les circonstances visées au paragraphe (1.01) et que le particulier et le cessionnaire résident au Canada au moment du transfert, à moins que le particulier ne choisisse, dans sa déclaration de revenu produite en vertu de la présente partie pour l’année d’imposition du transfert, de soustraire l’immobilisation à l’application du présent paragraphe, celle-ci est réputée :
+a) d’une part, avoir fait l’objet d’une disposition par le particulier au moment du transfert, pour un produit égal au montant suivant :
+(i) si l’immobilisation est un bien amortissable d’une catégorie prescrite, le produit de la multiplication de la fraction non amortie du coût en capital pour le particulier, immédiatement avant ce moment, des biens de cette catégorie par le rapport entre la juste valeur marchande, immédiatement avant ce moment, de l’immobilisation et la juste valeur marchande, immédiatement avant ce moment, de l’ensemble des biens de cette catégorie,
+(ii) dans les autres cas, le prix de base rajusté, pour le particulier, de l’immobilisation immédiatement avant ce moment;
+b) d’autre part, avoir été acquise par le cessionnaire à ce moment, pour un montant égal à ce produit.
+74.1(1) Transfert ou prêt à l’époux ou au conjoint de fait
+Dans le cas où un particulier prête ou transfère un bien — sauf par la cession d’une partie d’une pension de retraite conformément à l’article 65.1 du Régime de pensions du Canada ou à une disposition comparable d’un régime provincial de pensions au sens de l’article 3 de cette loi —, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à une personne qui est son époux ou conjoint de fait ou qui le devient par la suite ou au profit de cette personne, le revenu ou la perte de cette personne pour une année d’imposition provenant du bien ou d’un bien y substitué et qui se rapporte à la période de l’année tout au long de laquelle le particulier réside au Canada et tout au long de laquelle cette personne est son époux ou conjoint de fait est réputé être un revenu ou une perte, selon le cas, du particulier pour l’année et non de cette personne.
+74.2(1) Gain ou perte réputé du prêteur ou de l’auteur du transfert
+Lorsqu’un particulier prête ou transfère un bien — appelé « bien prêté ou transféré » au présent article —, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à une personne — appelée « bénéficiaire » au présent paragraphe — qui est son époux ou conjoint de fait ou qui le devient par la suite ou au profit de cette personne, les règles suivantes s’appliquent au calcul du revenu du particulier et du bénéficiaire pour une année d’imposition:
+a) est réputé être un gain en capital imposable réalisé par le particulier pour l’année sur la disposition d’un bien, à l’exclusion d’un bien meuble déterminé, l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii):
+(i) le total des gains en capital imposables réalisés par le bénéficiaire pour l’année sur la disposition de biens (à l’exclusion de biens meubles déterminés) qui sont des biens prêtés ou transférés ou des biens y substitués, pendant la période — appelée « période d’attribution » au présent paragraphe — tout au long de laquelle le particulier réside au Canada et tout au long de laquelle le bénéficiaire est son époux ou conjoint de fait,
+(ii) le total des pertes en capital déductibles subies par le bénéficiaire pour l’année à la disposition, effectuée pendant la période d’attribution, de biens (à l’exclusion de biens meubles déterminés) qui sont des biens prêtés ou transférés ou des biens y substitués;
+b) est réputé être une perte en capital déductible subie par le particulier pour l’année à la disposition d’un bien, à l’exclusion d’un bien meuble déterminé, l’excédent éventuel du total visé au sous-alinéa a)(ii) sur le total visé au sous-alinéa a)(i);
+c) est réputé être un gain réalisé par le particulier pour l’année sur la disposition d’un bien meuble déterminé l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le montant qui représenterait le total des gains réalisés par le bénéficiaire pour l’année sur la disposition, effectuée pendant la période d’attribution, de biens meubles déterminés qui sont des biens prêtés ou transférés ou des biens y substitués, si le bénéficiaire n’avait, à aucun moment, été propriétaire de biens meubles déterminés autres que des biens meubles déterminés qui sont des biens prêtés ou transférés ou des biens y substitués,
+(ii) le montant qui représenterait le total des pertes subies par le bénéficiaire pour l’année à la disposition de biens meubles déterminés qui sont des biens prêtés ou transférés ou des biens y substitués, si le bénéficiaire n’avait, à aucun moment, été propriétaire de biens meubles déterminés autres que des biens meubles déterminés qui sont des biens prêtés ou transférés ou des biens y substitués;
+d) est réputé être une perte subie par le particulier pour l’année à la disposition d’un bien meuble déterminé l’excédent éventuel du montant visé au sous-alinéa c)(ii) sur le montant visé au sous-alinéa c)(i);
+e) tout gain en capital imposable ou toute perte en capital déductible ou tout gain ou toute perte pris en compte dans le calcul d’un montant visé à l’alinéa a), b), c) ou d) est réputé ne pas être un gain en capital imposable, une perte en capital déductible, un gain ou une perte du bénéficiaire, sauf pour l’application de ces alinéas et dans la mesure où le montant ainsi visé est réputé, en application du présent paragraphe, être un gain en capital imposable, une perte en capital déductible, un gain ou une perte du particulier.
+74.5(1) Transfert avec contrepartie à la juste valeur marchande
+Malgré les autres dispositions de la présente loi, les paragraphes 74.1(1) et (2) et l’article 74.2 ne s’appliquent pas à un revenu, un gain ou une perte dérivé, au cours d’une année d’imposition donnée, d’un bien transféré ou d’un bien y substitué si les conditions suivantes sont réunies :
+a) au moment du transfert, la juste valeur marchande du bien transféré ne dépasse pas la juste valeur marchande du bien que l’auteur du transfert reçoit en contrepartie du bien transféré;
+b) dans le cas où la contrepartie reçue par l’auteur du transfert comprend une créance, à la fois :
+(i) des intérêts sont comptés sur la créance à un taux égal ou supérieur au moindre des taux suivants :
+(A) le taux prescrit qui est en vigueur au moment de l’établissement de la créance,
+(B) le taux dont les parties, si elles n’avaient aucun lien de dépendance, seraient convenues à la date d’établissement de la créance, compte tenu des circonstances,
+(ii) le montant des intérêts qui était payable sur la créance pour l’année donnée est payé au plus tard 30 jours après la fin de l’année donnée,
+(iii) le montant des intérêts qui était payable sur la créance pour chaque année d’imposition précédant l’année donnée est payé au plus tard 30 jours après la fin de chacune de ces années d’imposition;
+c) dans le cas où le bien est transféré à l’époux ou conjoint de fait de l’auteur du transfert ou au profit de son époux ou conjoint de fait, l’auteur du transfert choisit, dans sa déclaration de revenu produite en vertu de la présente partie pour l’année d’imposition où le bien est transféré, de ne pas se prévaloir du paragraphe 73(1).
+Article 110.6(1) Déduction pour gains en capital – actions admissibles de petites entreprise
+S’agissant d’une action admissible de petite entreprise d’un particulier (à l’exception d’une fiducie qui n’est pas une fiducie personnelle) à un moment donné, action du capital-actions d’une société qui, à la fois :
+a) au moment donné, est une action du capital-actions d’une société exploitant une petite entreprise, action dont le particulier, son époux ou conjoint de fait ou une société de personnes liée au particulier est propriétaire;
+b) tout au long de la période de 24 mois qui précède le moment donné, n’est la propriété de nul autre que le particulier ou une personne ou société de personnes qui lui est liée;
+c) tout au long de la partie de la période de 24 mois qui précède le moment donné, où l’action est la propriété du particulier ou d’une personne ou société de personnes qui lui est liée, est une action du capital-actions d’une société privée sous contrôle canadien et dont plus de 50 % de la juste valeur marchande de l’actif est attribuable à des éléments visés aux sous-alinéas (i) ou (ii):
+(i) des éléments utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement, principalement au Canada,
+(ii) des actions du capital-actions ou des dettes d’une ou plusieurs autres sociétés rattachées à la société — au sens du paragraphe 186(4), selon l’hypothèse que chacune de ces autres sociétés est une société payante au sens du même paragraphe — dans le cas où, à la fois :
+(A) tout au long de la partie de la période de 24 mois qui précède le moment donné se terminant au moment où la société a acquis ces actions ou ces dettes, nul autre que la société, qu’une personne ou société de personnes qui lui est liée ou qu’une personne ou société de personnes liée à une telle personne ou société de personnes n’en est propriétaire,
+(B) tout au long de la partie de la période de 24 mois qui précède le moment donné, où ces actions ou ces dettes sont la propriété de la société, d’une personne ou société de personnes qui lui est liée ou d’une personne ou société de personnes liée à une telle personne ou société de personnes, il s’agit d’actions ou de dettes de sociétés privées sous contrôle canadien et dont plus de 50 % de la juste valeur marchande de l’actif est attribuable à des éléments visés au sous-alinéa (i) ou au présent sous-alinéa.
+Toutefois :
+d) dans le cas où, pour une période donnée comprise dans la période de 24 mois se terminant au moment donné, la totalité, ou presque, de la juste valeur marchande de l’actif d’une société donnée qui est la société ou une autre société rattachée à celle-ci n’est attribuable ni à des éléments visés au sous-alinéa c)(i), ni à des actions ou dettes de sociétés visées à la division c)(ii)(B), ni à une combinaison de tels éléments, actions ou dettes, le passage « plus de 50 % », à cette division, est remplacé, pour cette période donnée, par le passage « la totalité, ou presque, » quant à chacune des autres sociétés rattachées à la société donnée; pour l’application du présent alinéa, une corporation n’est rattachée à une autre que si, à la fois :
+(i) elle y est rattachée, au sens du paragraphe 186(4), selon l’hypothèse qu’elle est une société payante au sens du même paragraphe,
+(ii) l’autre société est propriétaire d’actions du capital-actions de la société et est réputée, pour l’application du présent sous-alinéa, propriétaire des actions du capital-actions d’une société quelconque qui sont la propriété d’une société dont les actions du capital-actions sont la propriété de l’autre société ou sont réputées l’être en application du présent sous-alinéa;
+e) l’action qui, au cours de la période de 24 mois se terminant au moment donné, remplace une autre action n’est censée remplir les conditions de la présente définition que si l’autre action, à la fois :
+(i) n’est la propriété de nul autre qu’une personne ou société de personnes visée à l’alinéa b) tout au long de la période commençant 24 mois avant le moment donné et se terminant au moment du remplacement,
+(ii) est une action du capital-actions d’une société visée à l’alinéa c) tout au long de la partie de la période visée au sous-alinéa (i) au cours de laquelle une telle action est la propriété d’une personne ou société de personnes visée à l’alinéa b);
+f) l’action visée au sous-alinéa c)(ii) qui, au cours de la période de 24 mois se terminant au moment donné, remplace une autre action n’est censée remplir les conditions de ce sous-alinéa que si l’autre action, à la fois :
+(i) n’est la propriété de nul autre qu’une personne ou société de personnes visée à la division c)(ii)(A) tout au long de la période commençant 24 mois avant le moment donné et se terminant au moment du remplacement,
+(ii) est une action du capital-actions d’une société visée à l’alinéa c) tout au long de la partie de la période visée au sous-alinéa (i) au cours de laquelle une telle action est la propriété d’une personne ou société de personnes visée à la division c)(ii)(A).
+Article 110.6(2.1) Déduction pour gains en capital – actions admissibles de petite entreprise
+Le particulier - — à l’exception d’une fiducie — qui réside au Canada tout au long d’une année d’imposition donnée et qui dispose au cours de cette année donnée ou d’une année d’imposition antérieure et après le 17 juin 1987 d’actions qui sont alors des actions admissibles de petite entreprise peut déduire, dans le calcul de son revenu imposable pour l’année donnée, le montant qu’il peut demander et qui ne dépasse pas le moins élevé des montants suivants :
+a) le montant déterminé selon la formule figurant à lalinéa (2)a) à l’égard du particulier pour l’année;
+b) l’excédent éventuel de son plafond des gains cumulatifs à la fin de l’année donnée sur le montant déduit en application du paragraphe (2) dans le calcul de son revenu imposable pour l’année donnée;
+c) l’excédent éventuel de son plafond annuel des gains pour l’année donnée sur le montant déduit en application du paragraphe (2) dans le calcul de son revenu imposable pour l’année donnée;
+d) l’excédent qui serait calculé selon l’alinéa 3b) à l’égard du particulier pour l’année donnée (dans la mesure où il n’est pas inclus dans le calcul de la somme déterminée selon l’alinéa (2)d) à l’égard du particulier) au titre des gains en capital et des pertes en capital si les seuls biens visés à l’alinéa 3b) étaient des actions admissibles de petite entreprise du particulier.
+Évitement fiscal
+Article 245(1) Les définitions qui suivent s’appliquent au présent article
+Attribut fiscal - S’agissant des attributs fiscaux d’une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l’impôt ou l’autre montant payable par cette personne ou le montant qui lui est remboursable.
+Avantage fiscal - Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi. Y sont assimilés la réduction, l’évitement ou le report d’impôt ou d’un autre montant qui serait exigible en application de la présente loi en l’absence d’un traité fiscal ainsi que l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi qui découle d’un traité fiscal.
+Opération – Sont assimilés à une opération une convention, un mécanisme ou un évènement.
+Article 245(2) Disposition générale anti-évitement
+En cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d’une série d’opérations dont cette opération fait partie.
+Article 245(3) Opération d’évitement
+L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+Article 245(4) Application du par. (2). Le paragraphe (2) ne s’applique qu’à l’opération dont il est raisonnable de considérer, selon le cas :
+a) qu’elle entraînerait, directement ou indirectement, s’il n’était pas tenu compte du présent article, un abus dans l’application des dispositions d’un ou de plusieurs des textes suivants :
+(i) la présente loi,
+(ii) le Règlement de l’impôt sur le revenu,
+(iii) les Règles concernant l’application de l’impôt sur le revenu,
+(iv) un traité fiscal
+(iv) tout autre texte législatif qui est utile soit pour le calcul d’un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu’elle entraînerait, directement ou indirectement, un abus dans l’application de ces dispositions compte tenu du présent article lues dans leur ensemble.
+Article 245(5) Attributs fiscaux à déterminer. Sans préjudice de la portée générale du paragraphe (2) et malgré tout autre texte législatif, dans le cadre de la détermination des attributs fiscaux d’une personne de façon raisonnable dans les circonstances de façon à supprimer l’avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d’une opération d’évitement :
+a) toute déduction, exemption ou exclusion dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l’impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction, exemption ou exclusion ainsi que tout ou partie d’un revenu, d’une perte ou d’un autre montant peuvent être attribués à une personne;
+c) la nature d’un paiement ou d’un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l’application des autres dispositions de la présente loi peuvent ne pas être pris en compte.

@@ -1,0 +1,227 @@
+Title: Bouchard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27621/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-484-27621-bouchard-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-09-13
+
+# Bouchard c. La Reine
+
+- Citation: 2006 TCC 484
+- Decision date: 2006-09-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 442, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-13
+Neutral citation
+2006 TCC 484
+File numbers
+2006-1116(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1116(IT)I
+BETWEEN:
+SERGE BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 22, 2006, at Chicoutimi, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, according to the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of September 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of January 2006.
+Gibson Boyd, Translator
+Citation: 2006TCC484
+Date: 20060913
+Docket: 2006-1116(IT)I
+BETWEEN:
+SERGE BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is the appeal from an assessment made by the Minister of Revenue under the Income Tax Act (the "Act") for the 2002 taxation year.
+[2] The issues are whether the Minister was justified, for this taxation year, in adding $55,079 to the Appellant's income and whether the Minister was justified in imposing a penalty on the Appellant under subsection 163(2) of the Act.
+[3] To make and confirm the assessment and the penalty under subsection 163(2) of the Act, the Minister relied on the following assumptions of fact listed in the Reply to Notice of Appeal:
+[translation]
+(a) During the 2001, 2002 and 2003 taxation years, the Appellant operated a window washing business; (admitted)
+(b) The Appellant operated his business under the name of "Laveur de vitres la Baie Enr." (the "Business"); (admitted)
+(c) The Appellant's spouse looked after the Business's accounting; (admitted)
+(d) In his income tax return for the 2002 taxation year, the Appellant declared the following income:
+DESCRIPTION
+Interest/Investment income
+Gross business revenue
+Net business revenue
+Total
+$49,336
+2002
+$595
+$33,750
+$34,345
+(admitted)
+(e) During an audit of a third-party, one of the Minister's auditors noted that the Appellant had acquired, during the 2002 taxation year, a motor vehicle (the "Vehicle"); (admitted)
+(f) The Appellant purchased this vehicle in cash; (admitted)
+(g) In consideration of the preceding, the Minister's auditor involved in the Appellant's file (the "Auditor"), proceeded using the indirect net worth method to perform the audit; (admitted)
+(h) Using the indirect net worth audit method, the auditor determined that the following income had not been declared for the 2001, 2002 and 2003 taxation years (see attached itemizations):
+Year
+2001
+2002
+2003
+Amount
+$8,881
+$55,079
+$1,056
+(denied)
+MOTOR VEHICLE
+(i) During the audit, the Appellant mentioned that he did not own a motor vehicle; (admitted)
+(j) Following that, the auditor presented to the Appellant a copy of a purchase contract for a motorized camper; (admitted)
+(k) The contract was in the Appellant's name; (admitted)
+(l) The contract stated that the Appellant had traded in another motor vehicle, a 1989 Ford Sterling, and paid $55,000 in cash; (admitted)
+(m) Since the Appellant affirmed that he did not own a motor vehicle and that he did not have any cash at the beginning of the audit period, the amount of $55,079 was considered to be undeclared business income from his 2002 taxation year; (admitted)
+[4] To justify the penalty, the Minister made the following assumptions of fact:
+(a) The Appellant's spouse looked after the accounting; (admitted)
+(b) The Appellant had been in business for a long time; (admitted)
+(c) The Appellant knew that he had use care in completing his tax return; (admitted)
+(d) The Appellant changed his version of the facts over the course of the audit; (admitted)
+(e) The adjustment was high relative to the income declared by the Appellant for the 2002 taxation year: (denied)
+Description
+Undeclared income
+Declared income
+Percentage
+2002
+$55,079
+$34,345
+160%
+[5] In support of his appeal, the Appelant essentially argued that he generally kept money in his safety deposit box, a habit that he had inherited from his father.
+[6] To explain the cash payment for the acquisition of the recreational vehicle, he filed a document listing the various operations that allegedly enabled him, over the years, to accumulate the substantial amounts kept in cash in a safety deposit box. The content of Exhibit A-1 is reproduced here:
+[TRANSLATION]
+La Baie, June 7, 2005
+CANADA CUSTOMS AND REVENUE AGENCY
+. . .
+DEAR SIR,
+WE HEREBY DISPUTE THE AMOUNT OF $55,079 IN ADDITIONAL INCOME FOR 2002.
+WE ARE SENDING EVIDENCE OF OUR SAVINGS SPREAD OUT OVER 30 YEARS AS A COUPLE.
+TRANSACTIONS
+SAVINGS
+#1
+PURCHASE FORMER SCHOOL ON BAIE SUD BLVD. $2,800 IN 1972 EXPROPRIATION IN 1974, RECEIVED FOR $36,000 IN 1976, RECONSTRUCTION OF ANOTHER HOUSE ON THE SAME LOT BY MYSELF COST $13,000
+DEPOSIT AT THE CAISSE D'ENTRAIDE $10,000
+$10,000
+#2
+SALE OF THIS HOUSE IN 1988 .......... $55,000
+PURCHASE OF HOUSE ON ST-PIERRE ST. 69,000$
+DOWN PAYMENT ................................ $45,000
+PAY THE REST OF THE HYPOTHEC
+AT THE TORONTO DOMINION BANK
+$10,000
+#3
+SALE OF HOUSE ON ST-PIERRE ST. IN 1995....$94,500
+PURCHASE OF COTTAGE ON GOTH LAKE IN 1991 $33,000$
+RENOVATION OF COTTAGE IN 1995 ................. $35,000
+$25,500
+#4
+#5
+#6
+#7
+SALE OF SHARE OF HUNTING AND FISHING COTTAGE........
+INHERITANCE UPON MY FATHER'S DEATH IN 1984...........
+DOWNPAYMENT ON BAIE SUD BLVD. LOT...........
+SALE OF BAIE SUD BLVD. LOT IN 2001 ...................
+$7,000
+$7,000
+$4,000
+$24,000
+#8
+DIVIDENDS PAID BY CIE LAVEURS DE VITRES
+FOR 5 YEARS: SERGE $7,500 AND MAGELLA $7,500, WE KEPT $2,000 OF THIS AMOUNT FOR OUR SAVINGS
+......................................................
+$10,000
+#9
+MONEY RECEIVED FROM VARIOUS TRANSACTIONS SUCH AS: SALE OF REAL ESTATE, CARS, TOOLS, ETC...
+$7,000
+#10
+MONEY KEPT FROM THE SALE OF TERRITORY OF
+CIE LAVEURS DE VITRES SAGUENAY INC., I.E.
+JONQUIÈRE, ALMA, CHICOUTIMI ET LA BAIE...
+GRAND TOTAL ............
+$40,000
+$140,000
+P.S.
+FOR THE MAINTENANCE OF THE HOUSE, OUR CHILDREN'S EDUCATION, FOOD AND ALL REGULAR EXPENSES, WE RECEIVE TWO SALARIES OF $600 PER WEEK EACH AND OUR BUDGET WAS DETERMINED ACCORDINGLY.
+WE DO NOT DISPUTE THE CAPITAL GAIN OF $7,000 IN 2001 ON THE SALE OF THE LOT.
+PLEASE SEND US THE ASSESSMENT NOTICE PERTAINING TO THIS AMOUNT.
+THANK YOU FOR YOUR ATTENTION IN DEALING WITH OUR FILE.
+SERGE BOUCHARD
+MAGELLA VANDAL
+[7] When questioned on the numbers indicated for the various operations described in the document, the Appellant often stated that he no longer had the supporting documents, the explanation being the passage of time.
+[8] During and following the audit, the Appellant gave contradictory answers. Generally speaking, he would acknowledge certain facts once the investigator showed that the initial version was completely implausible.
+[9] To validate or improve the plausibility of his explanations, it would have been important, if not fundamental, for the Appellant to completely demonstrate his accumulation of wealth over the course of the period considered; in other words, it was not sufficient to gather a listing of certain profitable transactions to demonstrate the possibility that he accumulated capital over the years that would enable him to acquire the recreational vehicle.
+[10] The transactions listed show profits. Did he make any transactions at a loss? Did his business take any losses over the years? Where did the capital come from to develop his business? Would the apparent profits generated by the transactions listed be deposited in cash into a safety deposit box rather than being used for vacations, for the purchase of equipment, for his living expenses, for business expansion, for traditional investments or even an RRSP?
+[11] In view of these hypotheses, the submitted explanation is doubtful to the point that it seems unreasonable to conclude that the Appellant submitted proof on a balance of probabilities, all the more so in that logic would dictate that, if the facts corresponded with his explanations, he would not hide the information at his first meeting with the Auditor.
+[12] Contrary to what he said, I do not believe that the large sums of money that the Appellant kept in his safety deposit box came exclusively from the transactions mentioned. I strongly doubt that these were savings kept in cash in a safety deposit box, as people used to do with food tins.
+[13] At the hearing, I verbally indicated to the parties that I did not believe a large part of the Appellant's explanations and that it seemed obvious to me that he had hidden the truth on various occasions during the audit.
+[14] The Appellant tried to convince the Court that he had not mentioned the recreational vehicle, which was worth more than $80,000 including taxes, because the auditor's questions were not sufficiently clear and precise.
+[15] Yet, the auditor went to see the Appellant with a single objective: to find out the circumstances surrounding the purchase of a recreational vehicle worth more than $85,000 including taxes.
+[16] The auditor was then in possession of a copy of the purchase contract obtained during an audit of the selling business. To claim that a person with a minimum of intelligence formulated their questions in such a way that it never occurred to the Appellant that he was speaking of the recreational vehicle is aberrant and completely absurd as an explication.
+[17] Clearly, the appellant was running a cash business, which leaves fewer traces and the aim of which is often to escape, at least in part, one's fiscal obligations.
+[18] As an astute, prosperous and dynamic businessman, the Appellant was obviously not the type to keep his savings "under the mattress."
+[19] On the other hand, can the Court, based on the fact that the Appellant deliberately hid certain facts, conclude that the addition of $55,079 to the Appellant's income just for the 2002 taxation year was justified?
+[20] To prove his case, the Appellant needed to submit reliable and credible evidence that the Minister's approach was unjustified and completely unreasonable. He chose to submit incomplete and circumstantial evidence.
+[21] At first sight, this could appear completely unacceptable; however, the Minister could have, with more sophisticated work, staggered the amount over a number of years, which would have the effect of considerably increasing the "interest" portion of the assessment.
+[22] As for the penalty, it seems obvious to me that the Appellant wanted to hide the source of this income. He deliberately hid the existence of the assets represented by the purchase of the recreational vehicle, the value of which was far from insignificant.
+[23] Although he did cooperate afterwards, it was only once it had become obvious that he had to acknowledge the facts behind the assessment.
+[24] He would have avoided all of that if he had spontaneously acknowledged all the facts. Not only was this not the case, he even argued that the auditor was responsible for the lack of disclosure due to his imprecise questions. Obviously, he would have liked the auditor to produce the copy of the contract.
+[25] This property was not so marginal in value nor so trivial in its use that its existence can be forgotten; this was a vehicle worth over $80,000 used for a period or periods that would leave significant imprints in the memory of an average reasonable man, which the Appellant was without the shadow of a doubt.
+[26] For all of these reasons, the appeal is dismissed and the validity of the penalty is confirmed.
+Signed at Ottawa, Canada, this 13th day of September 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of January 2006.
+Gibson Boyd, Translator
+CITATION: 2006TCC484
+COURT FILE NO.: 2006-1116(IT)I
+STYLE OF CAUSE: Serge Bouchard and Her Majesty the Queen
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: August 22, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 13, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

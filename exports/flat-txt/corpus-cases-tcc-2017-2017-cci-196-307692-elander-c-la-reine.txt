@@ -1,0 +1,138 @@
+Title: Elander c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/307692/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-196-307692-elander-c-la-reine.md
+Document type: case_law
+Last modified: 2017-09-28
+
+# Elander c. La Reine
+
+- Citation: 2017 CCI 196
+- Decision date: 2017-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7571, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elander c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-28
+Référence neutre
+2017 CCI 196
+Numéro de dossier
+2011-3409(IT)G
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3409(IT)G
+ENTRE :
+HEATHER ELANDER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Heather Elander, 2011-3775(IT)I, le 20 septembre 2017, à Kelowna (Colombie‑Britannique)
+Devant : L’honorable juge F.J. Pizzitelli
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Whitney Dunn
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l'avis porte le numéro 1083997 et est daté du 9 juillet 2010, est rejeté avec dépens à l’intimée.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2017.
+« F.J. Pizzitelli »
+Le juge Pizzitelli
+Dossier : 2011-3775(IT)I
+ENTRE :
+HEATHER ELANDER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Heather Elander, 2011-3409(IT)G, le 20 septembre 2017, à Kelowna (Colombie‑Britannique)
+Devant : L’honorable juge F.J. Pizzitelli
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Whitney Dunn
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis porte le numéro 834186 et est daté du 6 janvier 2010, est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2017.
+« F.J. Pizzitelli »
+Le juge Pizzitelli
+Référence : 2017 CCI 196
+Date : 20170928
+Dossiers : 2011-3409(IT)G
+2011-3775(IT)I
+ENTRE :
+HEATHER ELANDER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Pizzitelli
+[1] Les deux présents appels interjetés en vertu de la Loi de l’impôt sur le revenu (la « LIR ») ont été instruits en même temps et sur une preuve commune. Je suis également saisi d’un appel déposé en vertu de la Loi sur la taxe d’accise (la « LTA ») par la même appelante, le dossier 2011‑3776(GST)I, qui, à la demande de l’appelante, a été instruit séparément et pour lequel une décision orale a été rendue.
+[2] Les deux appels en matière d’impôt sur le revenu portent sur des cotisations établies à l’égard de l’appelante en application du paragraphe 160(1) de la LIR pour des biens que lui a transférés son époux, R. Elander, qui était débiteur fiscal. Dans les deux appels, R. Elander, un avocat, était un débiteur fiscal devant plus de 500 000 $ en impôts, pénalités et intérêts ayant fait l’objet de cotisations ou de nouvelles cotisations pour les années d’imposition 1999, 2000 à 2005 inclusivement et 2007 au moment où il a déposé des fonds dans le compte conjoint qu’il partage avec l’appelante ou dans les comptes bancaires personnels de l’appelante. Dans l’appel no 2011‑3409(IT)G, le ministre du Revenu national (le « ministre ») suppose que le débiteur fiscal a transféré à l’appelante des fonds s’élevant à 61 960,71 $, dont 47 933,41 $ ont été transférés dans leur compte conjoint de janvier 2003 à janvier 2007 et dont 14 027,30 $ ont été transférés dans le compte bancaire personnel de l’appelante du 1er novembre 2007 au 31 janvier 2008, pendant que R. Elander était un débiteur fiscal. Dans l’appel no 2011‑3775(IT)I, le ministre suppose que, de janvier 2002 à mai 2003, le débiteur fiscal a transféré des fonds s’élevant à 9 285 $ dans le compte bancaire personnel de l’appelante.
+[3] Le paragraphe 160(1) de la LIR impose une responsabilité solidaire à l’auteur et au bénéficiaire d’un transfert de biens lorsque l’auteur a une dette fiscale et que le bénéficiaire est son conjoint. Le montant de la responsabilité solidaire correspond généralement à l’excédent de la juste valeur marchande des biens sur toute contrepartie reçue au moment du transfert, mais ne peut pas excéder la dette fiscale réelle de l’auteur du transfert : voir R. c. Livingston, 2008 CAF 89, [2008] 3 R.C.F. F‑3.
+[4] Il est également établi en droit, ce qui n’est pas contesté par les parties, que le contribuable ayant reçu une cotisation établie au titre de ce paragraphe peut généralement contester la dette fiscale sous-jacente de l’auteur du transfert.
+[5] Il convient de mentionner que l’appelante a déclaré au début du procès qu’elle ne contestait pas les cotisations sous-jacentes établies à l’égard de son époux, qui n’a pas interjeté appel des nouvelles cotisations définitives à son égard. La seule thèse défendue par l’appelante lors du procès relativement aux cotisations est que l’intimée a établi à son égard une cotisation trop élevée de 9 500 $ concernant l’appel no 2011‑3409(IT)G au motif que son époux avait retiré les fonds qu’il avait transférés le jour même pour payer des factures liées à son cabinet d’avocats. L’appelante soutient également que, dans les deux appels en matière d’impôt sur le revenu, il y a eu une contrepartie pour les transferts. Il n’est pas contesté qu’elle était mariée avec le débiteur fiscal et que celui-ci a transféré des fonds dans les comptes bancaires susmentionnés.
+[6] En ce qui concerne la cotisation trop élevée de 9 500 $, les éléments de preuve présentés par l’époux de l’appelante, le débiteur fiscal, montrent que, le 26 décembre 2006, il a reçu un chèque de 9 499,40 $, qu’il l’a déposé dans le compte bancaire conjoint et que, le même jour, il a retiré 9 000 $ pour payer les factures de son cabinet d’avocats et 500 $ pour lui-même. Seuls ces montants, sans autres précisions, apparaissent au relevé bancaire produit en preuve et au relevé d’opération qui montre qu’on a tiré du compte une traite ou un mandat bancaire de 9 000 $ et qu’une somme de 500 $ a été versée en espèces.
+[7] Aucun élément de preuve, hormis son témoignage, n’établit que l’auteur du transfert a immédiatement utilisé 9 000 $ des fonds transférés pour payer les factures de son cabinet d’avocats. Dans son témoignage, il a déclaré avoir éprouvé des problèmes avec l’Agence du revenu du Canada (l’« ARC ») et avoir voulu éviter de déposer ses chèques d’honoraires dans le compte de son cabinet d’avocats de peur de ne pouvoir utiliser les fonds. Il les a donc déposés dans le compte conjoint et s’est servi des fonds pour payer les factures de son cabinet d’avocats. Aucune copie de la traite ou du mandat bancaire n’a été produite en preuve et aucune précision n’a été donnée sur l’identité du tireur du chèque déposé, sur l’identité du bénéficiaire de la traite ou du mandat bancaire ou sur la façon dont une seule traite ou un seul mandat bancaire peut servir à payer plusieurs factures. Il n’y a simplement aucun élément de preuve pour corroborer la thèse de l’appelante.
+[8] Bien que l’intimée n’ait présenté aucune preuve documentaire réfutant le témoignage du témoin de l’appelante, en s’appuyant exclusivement sur un contre‑interrogatoire, l’intimée a obtenu beaucoup d’éléments de preuve convaincants qui ont dénué l’auteur du transfert de toute crédibilité. Ce dernier a notamment reconnu avoir été accusé et déclaré coupable de 14 chefs d’accusation de fraude hypothécaire quand il était avocat en Alberta puis avoir été radié du barreau. Il a aussi admis avoir déjà été interdit d’exercice pendant quatre mois par le barreau de l’Alberta pour avoir omis de tenir les registres appropriés et de fournir les renseignements demandés, en plus d’avoir, à plusieurs reprises, omis de fournir à l’ARC les grands livres généraux et les renseignements financiers demandés pendant les vérifications qui ont mené à l’établissement des nouvelles cotisations non contestées à son égard. J’ai également constaté que son témoignage au procès était vague. Compte tenu de ces circonstances, je ne suis pas prêt à reconnaître que son témoignage sur la question en litige est crédible sans autres éléments de preuve corroborants, et aucun n’a été présenté. Par conséquent, il n’est pas nécessaire que j’examine la question de savoir si l’on peut considérer que ces fonds n’ont pas été transférés à l’appelante.
+[9] Dans l’arrêt Livingston, précité, la Cour d’appel fédérale a déclaré ce qui suit au paragraphe 21 :
+Le dépôt de sommes sur le compte bancaire d’une autre personne constitue un transfert de biens. Rappelons, pour lever toute ambiguïté, que le dépôt de sommes par Mme Davies sur le compte de l’intimée permettait à cette dernière de les en retirer n’importe quand. Le bien transféré était le droit d’exiger de la banque qu’elle remette à l’intimée la totalité des sommes déposées. [...]
+[10] En outre, au paragraphe 24 de l’arrêt Livingston, le juge Sexton a affirmé ce qui suit :
+Le juge de première instance a insisté dans son exposé des motifs sur le fait que l’intimée n’avait en fin de compte reçu aucun avantage pécuniaire. L’intimée soutient que c’est là un facteur crucial pour l’examen du point de savoir s’il y a eu transfert de biens. La question de savoir si l’intimée a en fin de compte reçu un « avantage » me paraît dénuée de pertinence. Peu importe que Mme Davies ait repris possession des sommes déposées. L’intimée a certainement reçu les biens au moment du transfert, qui est le moment pertinent pour l’application du paragraphe 160(1). Le fait que Mme Davies ait en fin de compte repris possession de cet argent ne suffit pas à annuler le déclenchement de l’application du paragraphe 160(1). Je reprends ici à mon compte les observations formulées par notre Cour au paragraphe 9 de Heavyside, précité :
+Une fois que les conditions du paragraphe 160(1) sont respectées [...] le bénéficiaire du transfert devient personnellement responsable de l’impôt payable en vertu de ce paragraphe [...] Cette responsabilité prend naissance au moment du transfert [...] et elle est solidaire avec celle de l’auteur du transfert. Le ministre peut donc établir « à une date quelconque » une cotisation à l’égard du bénéficiaire du transfert (selon le paragraphe 160(2)) et la responsabilité solidaire du bénéficiaire du transfert ne s’éteint que par le paiement que l’auteur du transfert ou lui-même effectue conformément au paragraphe 160(3). [Non souligné dans l’original.]
+[11] Je suppose qu’il est possible de faire valoir que le raisonnement de la Cour d’appel fédérale dans l’arrêt Livingston ne s’appliquerait pas lorsque le bénéficiaire du transfert n’a pas pu retirer les sommes déposées dans son compte bancaire parce qu’elles ont été retirées, immédiatement après avoir été déposées, pour l’usage exclusif de l’auteur du transfert. Toutefois, puisque je ne peux conclure que la version des faits de l’appelante est crédible, je n’ai pas à me pencher sur cette question.
+[12] En ce qui concerne l’argument principal de l’appelante dans les deux appels en matière d’impôt, selon lequel elle a donné une contrepartie pour les nombreux transferts de fonds dans ses comptes, je ne peux tout simplement pas y souscrire. L’appelante soutient qu'avant de se marier avec son époux en 2003, ils ont discuté du partage des frais du ménage, y compris le paiement des hypothèques pour les maisons dans lesquelles ils vivraient. L’appelante était l’unique propriétaire des maisons qu’ils ont occupées pendant toute la durée des périodes en question, d’abord en Alberta, puis en Colombie‑Britannique. Dans son témoignage, l’appelante a déclaré que son époux démarrait un nouveau cabinet d’avocats et qu’il avait besoin de fonds à cet effet; il a donc été convenu que tous les gains de l'appelante seraient consacrés aux frais du ménage, la dépense la plus importante étant l’hypothèque grevant la maison familiale, et que son époux apporterait une contribution de 1 000 $ par mois s’il le pouvait. Selon la preuve présentée par l’appelante, la contribution de son époux était de loin inférieure à la sienne chaque année et, de toute façon, la contribution de son époux était très certainement inférieure à la sienne de 2001 à 2004, période pour laquelle elle a déposé en preuve un relevé des dépôts. Essentiellement, l’appelante soutient que la contrepartie qu’elle a donnée pour les dépôts mensuels de 1 000 $ de son époux pour les frais du ménage était qu’elle accepte de déposer l’intégralité de ses gains pour ces frais.
+[13] Il est certain que, si l’on compare les gains de l’appelante pour la période de 2001 à 2008 aux sommes que son époux lui a versées, la contribution de l’appelante aux dépenses familiales semble être plus du double de celle de son époux. Bien entendu, aucun élément de preuve n’a été présenté quant aux sommes que l’époux pourrait avoir directement consacrées aux dépenses sans les avoir déposées dans le compte conjoint ou le compte personnel de l’appelante. Après tout, il a fait l’objet d’une nouvelle cotisation de plus de 500 000 $ pour la même période; on peut donc raisonnablement supposer qu’il avait les moyens de payer.
+[14] Cela dit, quelle que soit la contribution de chacun, la Cour d’appel fédérale, dans l’arrêt Yates c. Canada, 2009 CAF 50, [2010] 1 R.C.F. 436, a établi clairement deux points importants : d’abord, la nature des dépenses faites avec l’argent transféré, par exemple les dépenses ménagères, l’hypothèque ou d’autres dépenses familiales, n’est pas un facteur pertinent pour décider s’il y a eu transfert; ensuite, le fait d’autoriser un époux à vivre dans la résidence familiale ne constitue pas une contrepartie ayant la même juste valeur marchande.
+[15] Conformément à ce qui est exigé dans les arrêts Livingston et Yates, il doit y avoir une preuve qu’une contrepartie a été donnée au moment de chaque transfert. Cette preuve n’a pas été faite en l’espèce, et le simple fait pour une personne d’accepter à l’avance de payer une part plus importante des frais familiaux que son conjoint pendant une certaine période n’équivaut pas à donner une contrepartie ayant la même juste valeur marchande au moment de chaque transfert.
+[16] J’ajoute que je peux comprendre les préoccupations de l’appelante et même de tous les couples mariés, ou des couples qui ont déjà été mariés, d’avoir à composer avec la perte de transferts antérieurs devant servir aux dépenses familiales pendant le mariage en raison de l’obligation morale et même légale de subvenir aux besoins l’un de l’autre et à ceux des enfants en vertu des lois provinciales sur le droit de la famille, d’autant plus que les transferts ordonnés par une cour entre deux personnes qui ne sont plus mariées et qui vivent séparément peuvent être exemptés au titre du paragraphe 160(4) de la LIR. Il peut être difficile de rembourser de telles sommes dans certaines circonstances et les époux peuvent se demander pourquoi l’obligation d’assurer la conservation de la valeur des biens existants d’un contribuable aux fins de recouvrement par l’ARC, ce qui est l’objet de l’article 160, devrait l’emporter sur les besoins essentiels d’une famille. Cependant, les modifications à la loi, y compris à l’article 160, relèvent du législateur, et non pas des tribunaux.
+[17] Les appels sont rejetés, avec dépens à l’intimée seulement dans le dossier régi par la procédure générale, soit le dossier numéro 2011‑3409(IT)G.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2017.
+« F.J. Pizzitelli »
+Le juge Pizzitelli
+RÉFÉRENCE :
+2017 CCI 196
+NOS DES DOSSIERS DE LA COUR :
+2011-3409(IT)G
+2011-3775(IT)I
+INTITULÉ :
+HEATHER ELANDER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 20 septembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge F.J. Pizzitelli
+DATE DU JUGEMENT :
+Le 28 septembre 2017
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

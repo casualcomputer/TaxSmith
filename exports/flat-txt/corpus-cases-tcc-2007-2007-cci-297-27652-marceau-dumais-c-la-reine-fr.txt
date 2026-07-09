@@ -1,0 +1,116 @@
+Title: Marceau Dumais c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27652/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-297-27652-marceau-dumais-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-05-22
+
+# Marceau Dumais c. La Reine
+
+- Citation: 2007 CCI 297
+- Decision date: 2007-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 408, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marceau Dumais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-22
+Référence neutre
+2007 CCI 297
+Numéro de dossier
+2005-1871(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1871(IT)G
+ENTRE :
+GISÈLE MARCEAU DUMAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 avril 2007, à Québec (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me André Lareau
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu, pour l’année d'imposition 2000 est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2007CCI297
+Date : 20070522
+Dossier : 2005-1871(IT)G
+ENTRE :
+GISÈLE MARCEAU DUMAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante en appelle d’une cotisation établie pour l’année d’imposition 2000 en vertu du paragraphe 15(1) de la Loi de l’impôt sur le revenu (« Loi »), l’imposant sur un avantage de 42 000 $ et sur une pénalité aux termes du paragraphe 163(2) de la Loi.
+[2] L’appelante est l’unique actionnaire et administrateur de la société Ceaumais Inc. (« Ceaumais »), dont l’année financière et fiscale se termine le 31 janvier de chaque année. Le 11 juillet 2000, Ceaumais a acheté de la Caisse populaire Desjardins un immeuble situé au 1540 Cadillac, dans la ville de Québec, lequel immeuble avait été mis en vente pour non‑paiement des versements hypothécaires, pour un montant de 66 000 $. Le 9 août 2000, par acte notarié, Ceaumais a revendu l’immeuble à l’appelante, pour un prix indiqué au contrat de 132 000 $, dont 90 000 $ payé le jour même avec un emprunt hypothécaire obtenu par l’appelante et le solde de 42 000 $ « en remboursement d’avances effectuées avant ce jour par l’acquéreur à la venderesse, dont quittance totale et finale » (voir acte de vente, pièce I‑2, onglet 18, p. 3).
+[3] Or, selon les états financiers de Ceaumais pour l’année financière se terminant le 31 janvier 2000, un solde de 22 522,82 $ apparaît au bilan dans le passif au poste « dû à l’administrateur ». Pour l’année financière se terminant le 31 janvier 2001, le solde, non seulement n’a pas été réduit, mais est passé à 26 022,30 $ (pièce I‑1, onglet 6).
+[4] Pour l’année financière se terminant le 31 janvier 2002, on ne retrouve plus un compte « dû à l’administrateur » au passif, mais un compte « dû à un actionnaire » au montant de 27 043 $, lequel est passé à 37 371 $ pour l’année financière se terminant le 31 janvier 2003 (pièce I‑1, onglet 10). Au 31 janvier 2004, ce solde a été augmenté à 41 401 $ (pièce I‑1, onglet 12).
+[5] Ainsi, on réalise que selon les bilans de fermeture de Ceaumais pour l’année se terminant le 31 janvier 2001, et pour les années subséquentes, aucune quittance n’a été accordée par l’appelante à Ceaumais.
+[6] L’appelante reconnaît maintenant qu’elle ne pouvait donner une quittance à Ceaumais pour un montant de 42 000 $ en considération du prix d’acquisition de la propriété, puisqu’à la date d’acquisition, Ceaumais devait au plus à l’appelante entre 22 522,82 $ (au 31 janvier 2000) et 26 022,30 $ (au 31 janvier 2001). Celle‑ci invoque toutefois qu’elle a donné quittance pour le solde dû à l’administrateur au moment de l’acquisition de la propriété, même si telle quittance n’est pas reflétée aux états financiers. Si tel avait été le cas, le compte « dû à l’administrateur » aurait dû être réduit à nil, de sorte que Ceaumais ne devrait plus rien à l’appelante.
+[7] L’appelante dit ne pas comprendre pourquoi les états financiers ne reflètent pas cet état de fait. Elle dit qu’elle a toujours fait faire sa comptabilité par un dénommé Gaston Paradis, C.M.A. Or, à la fin de l’année 2000, celui‑ci, après le décès de son épouse, a avisé l’appelante qu’il ne s’occuperait plus, ni de sa comptabilité, ni de la production de ses déclarations de revenu. Prise au dépourvu, l’appelante a demandé au groupe « Metropolitain », l’équivalent de H&R Block, de faire sa déclaration de revenu personnelle pour l’année 2000. Ayant détecté une erreur dans l’établissement de ses revenus de placement (en rapport avec un retrait de son régime enregistré d’épargne-retraite) et ne pouvant entrer en contact avec le comptable qui avait préparé sa déclaration, elle n’a tout simplement pas envoyé sa déclaration de revenu pour l’année 2000. Elle a ensuite tenté de récupérer ses documents, lesquels ne lui ont été redonnés que l’année suivante. Entretemps, elle a confié le soin de faire la déclaration de revenu de Ceaumais à un dénommé M. Turmel. Celui‑ci a préparé les états financiers se terminant le 31 janvier 2001, sans faire allusion à la transaction notariée relativement à la vente de l’immeuble de la rue Cadillac en faveur de l’appelante. Aucun gain en capital n’a donc été reporté par Ceaumais sur la vente de l’immeuble, et aucune indication à ce sujet n’apparaît aux états financiers. Lors de la vérification par l’Agence du revenu du Canada (« ARC »), madame Sandra Sirois, vérificatrice fiscale, a communiqué avec M. Turmel. Ce dernier lui a dit ne pas avoir été mis au courant de cette transaction.
+[8] En 2002, l’appelante a enfin récupéré ses documents chez « Metropolitain » et a confié le mandat de préparer les déclarations de revenu tant personnelle que corporative à un autre comptable, du nom de M. Montpetit. Ce dernier a donc finalement produit la déclaration de revenu de l’appelante pour l’année 2000, le 29 avril 2002. Dans cette déclaration, il déclarait une perte locative de 10 478,65 $ sur l’immeuble de la rue Cadillac (pièce I‑2, onglet 13). Aucune allusion à la quittance sur le « dû à l’administrateur » n’a été faite dans la préparation des états financiers de Ceaumais pour l’année financière se terminant le 31 janvier 2002 et pour les années subséquentes. Lorsque, lors de sa vérification, Mme Sirois a parlé à M. Montpetit, celui‑ci, bien qu’en possession de l’acte notarié, n’a apporté aucune modification aux états financiers.
+[9] Ni M. Montpetit ni M. Turmel n’étaient à l’audition pour expliquer l’absence aux états financiers de la transaction sur l’immeuble de la rue Cadillac.
+[10] Le fils de l’appelante, Jean‑François Dumais, qui aide sa mère dans l’entretien des immeubles locatifs qu’elle détient, a dit que c’est la confusion créée par le départ du comptable de sa mère, M. Paradis, qui est probablement la source des erreurs. Il a dit que l’acte notarié avait probablement été inclus dans le dossier personnel de sa mère, lequel dossier n’a été récupéré qu’en 2002. Ceci expliquerait pourquoi M. Turmel n’aurait pas été au courant de cette transaction. L’appelante, de son côté, s’est contentée de dire qu’elle ne s’y comprenait pas en comptabilité et qu’elle croyait que les avances qu’elle avait faites à Ceaumais avaient été compensées par le transfert de la propriété que lui avait cédée Ceaumais.
+[11] Selon l’avocat de l’appelante, la date à laquelle il faut analyser la dette finale de Ceaumais envers l’appelante est, en vertu du paragraphe 15(2.6) de la Loi, le 31 janvier 2002 (la dette était alors de 27 043 $). Or selon lui, une partie de la dette de 42 000 $ de l’appelante à l’endroit de Ceaumais a été compensée de plein droit par la dette de 27 043 $ de Ceaumais envers l’appelante. Il invoque qu’il y a eu compensation légale de plein droit aux termes des articles 1672 et 1673 du Code civil du Québec (« C.c.Q. »). Or, puisque la compensation est une forme de paiement, il dit que la dette de l’appelante envers Ceaumais a été éteinte au moins jusqu’à concurrence de 27 043 $, en application de l’article 1671 C.c.Q. Il restait donc un solde payable par l’appelante de 14 957 $ envers Ceaumais (soit 42 000 $ - 27 043 $ = 14 957 $) (voir pièce A‑1), sur lequel l’appelante devrait se voir imposer un avantage aux termes du paragraphe 15(1) de la Loi.
+[12] L’avocat de l’appelante invoque par ailleurs que même si les parties ont omis de corriger les états financiers afin de préciser que l’appelante avait donné quittance de sa créance à Ceaumais à la suite de cette compensation de plein droit, cette omission ne signifie nullement que les parties ont renoncé à l’application de la compensation.
+[13] L’avocat de l’intimée ne conteste pas qu’il y ait pu y avoir compensation pour une partie de la dette. Il soutient plutôt que le défaut de refléter cette compensation aux écritures comptables constitue l’avantage imposable. En effet, non seulement la dette de Ceaumais envers l’appelante n’a pas été rayée aux états financiers, elle a au contraire augmenté au cours des années.
+[14] Après avoir analysé la preuve, j’en viens à la conclusion que l’appelante a bel et bien retiré un avantage de 42 000 $ lors de la transaction du mois d’août 2000 par laquelle Ceaumais lui cédait l’immeuble de la rue Cadillac d’une valeur de 132 000 $. Même s’il y avait eu compensation de plein droit pour un montant de 27 043 $ tel qu’invoqué par l’avocat de l’appelante, il ressort clairement de la preuve que Ceaumais n’en a jamais tenu compte dans ses états financiers. Au 31 janvier 2001, Ceaumais devait toujours 26 022,30 $ à l’appelante et la dette a augmenté au cours des années pour atteindre 41 401 $ au 31 janvier 2004.
+[15] Même s’il y avait eu intention au départ d’opérer compensation, il m’apparaît qu’il y a eu renonciation à cette compensation[1]. De fait, si c’est par erreur que les états financiers n’ont pas été corrigés, cette erreur a perduré au cours des années sans jamais être corrigée par la suite. Ni M. Montpetit, selon le témoignage de madame Sirois (la vérificatrice de l’ARC), ni l’appelante, ni le fils de l’appelante n’ont suggéré de remédier à cette situation. Quant à M. Turmel, il n’avait même pas été mis au courant de cette transaction. M. Montpetit de son côté devait être au courant puisque selon madame Sirois, il avait en main l’acte notarié et a de plus réclamé une perte locative sur cet immeuble dans la déclaration de revenu de l’appelante.
+[16] Dans Smith c. Canada, [1999] A.C.F. no 1605 (QL), il est dit ceci au paragraphe 5 :
+5 La question de savoir si oui ou non il y a eu un avantage, et celle de savoir s'il y a eu une erreur comptable de bonne foi, sont des questions de fait. Le juge de la Cour de l'impôt a conclu des preuves dont il était saisi que l'appelant a effectivement reçu un avantage.
+[17] La situation ici est différente de celle qui prévalait dans l’arrêt Franklin v. R., 2002 CAF 38, citée par l’intimée et relevée en argumentation par l’avocat de l’appelante. Le contribuable dans cette affaire s’était servi des fonds de l’entreprise qui lui avaient été versés personnellement pour les réinvestir dans l’entreprise. Il n’en avait tiré aucun avantage pour lui‑même. Ici, la dette de Ceaumais envers l’appelante, qui aurait dû être éteinte par l’effet de la compensation, n’a jamais été rayée des états financiers, et au contraire, a été augmentée. L’appelante en a certainement soutiré un avantage puisque la dette, apparaissant toujours aux livres, pourra toujours lui être remboursée sans conséquences fiscales, à titre d’avances qui lui sont dues. Dans Chopp c. Canada, [1997] A.C.F. no 1551 (QL), la Cour d’appel fédérale reprend avec approbation les propos du juge de première instance ainsi au paragraphe 4 :
+4 En accueillant l'appel du contribuable, le juge Mogan de la C.C.I. a interprété le paragraphe 15(1) de la manière suivante :
+[TRADUCTION]
+Je pense qu'un avantage peut être conféré, au sens du paragraphe 15(1), sans qu'on ait eu l'intention de le faire ou sans que l'actionnaire ou la société en ait été véritablement informé si les circonstances sont telles que l'actionnaire ou la société aurait dû savoir qu'un avantage était ainsi conféré et n'a rien fait pour annuler cet avantage, si on n'avait pas l'intention de le donner. Je parle de sommes d'une certaine importance. Si une erreur a véritablement été commise au niveau de la tenue de livres concernant une dépense particulière, et que la somme est assez importante comparativement aux revenus de l'entreprise ou à ses dépenses ou au regard du solde dans le compte de prêt d'un actionnaire, le tribunal peut conclure que l'erreur aurait dû être détectée par les employés ou les actionnaires de la société ou par les vérificateurs. Il ne faut pas encourager les actionnaires à mettre à l'épreuve les limites du paragraphe 15(1) pour ensuite faire valoir qu'ils n'avaient pas l'intention de conférer un avantage ou qu'ils n'étaient pas au courant.
+[18] L’appelante est la seule actionnaire et administratrice de Ceaumais. Elle a su détecter une erreur dans sa propre déclaration de revenu pour l’année 2000, au point de ne pas la produire dans les délais prescrits par la Loi. Il n’y avait pas eu beaucoup de transactions dans Ceaumais au cours de l’année 2000. Elle aurait dû vérifier que la transaction sur l’immeuble en question était bien reflétée tant aux états financiers que dans la déclaration de revenu de Ceaumais. En effet, aucun gain en capital n’a été rapporté et ceci aurait dû attirer l’attention de l’appelante. Elle a mentionné dans son témoignage qu’elle avait décidé de transférer l’immeuble en son nom, entre autres raisons, pour éviter de payer la taxe sur le capital. L’appelante n’est pas dépourvue du sens des affaires et à mon avis, elle était, ou du moins aurait dû être, consciente, qu’elle bénéficiait d’un avantage en prenant possession d’un immeuble d’une valeur de 132 000 $, sans que soit reflété le montant compensé de la dette envers elle dans les états financiers de Ceaumais. Le fait que l’on n’ait pas remédié à la situation par la suite, tant au niveau des états financiers, que dans la déclaration de revenu de Ceaumais, confirme d’autant, à mon avis, qu’il ne s’agissait pas d’une simple erreur.
+[19] J’adhère aux propos du juge Linden dans Friedberg c. Canada, [1991] A.C.F. no 1255 (QL), à la page 2 :
+En droit fiscal, la forme a de l'importance. Une simple intention subjective, en l'espèce comme dans d'autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d'une opération aux fins de l'impôt. Lorsqu'un contribuable prend certaines dispositions formelles à l'égard de ses affaires, il peut s'ensuivre d'importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d'éviter des impôts (voir La Reine c. Irving Oil, 91 DTC 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S'il n'en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d'amener les contribuables à payer des impôts qu'ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l'intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d'une intention subjective ne peut servir à « rectifier » des documents qui s'orientent clairement vers une direction précise.
+[20] Je suis également d’avis que l’appelante a commis une faute lourde au sens du paragraphe 163(2) de la Loi. Elle avait la faculté de découvrir l’erreur qui, dans les circonstances, était assez substantielle si l’on tient compte également du fait qu’elle savait que Ceaumais ne lui devait pas 42 000 $ au moment de la transaction.
+[21] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 22e jour de mai 2007.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2007CCI297
+Nº DU DOSSIER DE LA COUR : 2005-1871(IT)G
+INTITULÉ DE LA CAUSE : GISÈLE MARCEAU DUMAIS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 10 avril 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 22 mai 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me André Lareau
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me André Lareau
+Cabinet : Jolicoeur, Lacasse, Geoffrion
+Jetté & St‑Pierre
+(Québec, Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il peut y avoir renonciation expresse ou tacite à la compensation (voir Pineau, Burman, Gaudet, Théorie des obligations, 3e édition, Montréal, Les éditions Thémis, page 525, paragraphe 355, cité par l'avocat de l'appelante.

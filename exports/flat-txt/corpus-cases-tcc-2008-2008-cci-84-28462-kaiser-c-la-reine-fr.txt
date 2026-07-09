@@ -1,0 +1,393 @@
+Title: Kaiser c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28462/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-84-28462-kaiser-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-06
+
+# Kaiser c. La Reine
+
+- Citation: 2008 CCI 84
+- Decision date: 2008-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1195, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaiser c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-06
+Référence neutre
+2008 CCI 84
+Numéro de dossier
+2006-1125(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1125(IT)G
+ENTRE :
+MICHAEL R. KAISER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 11 janvier 2008 à Calgary (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Douglas Roberts
+Avocate de l’intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Les appels à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant n’a pas à payer d’impôt sur les montants auxquels ont donné lieu les écritures de journal faites en janvier 2003.
+De plus, les parties ont convenu que le revenu imposable de l’appelant pour l’année d’imposition 2000 doit être réduit d’un montant supplémentaire de 2 116 $ afin de tenir compte de l’avance de 44 196 $ qu’il a versée à Innovage Technologies Inc.
+Les dépens sont accordés à l’appelant.
+Signé à Ottawa (Canada) ce 6e jour de février 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 19e jour de mars 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A. Trad. jur.
+Référence : 2008CCI84
+Date : 20080206
+Dossier : 2006-1125(IT)G
+ENTRE :
+MICHAEL R. KAISER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] La présente affaire illustre bien les difficultés résultant de l’application des dispositions de la Loi de l’impôt sur le revenu (la « Loi ») à des transactions auxquelles ont veut donner un effet rétroactif. À la suite de l’échec de son union de fait avec Christina Seymour, M. Kaiser a décidé de faire certaines démarches comptables ayant des effets rétroactifs. Cela l’a conduit, en 2003, à passer des écritures dans les journaux de deux sociétés dont Christina et lui étaient actionnaires, Innovage Technologies Inc. (« ITI ») et Innovage Microsystems Inc. (« IMI »). Les écritures de journal en question avaient pour but d’opérer un transfert, en 1999 et en 2000, de certaines dettes des sociétés envers M. Kaiser à Mme Seymour. L’intimée a établi des cotisations à l’égard de M. Kaiser en partant de la prémisse que les montants en cause constituaient des transferts d’immobilisations (la créance de M. Kaiser) de M. Kaiser à Mme Seymour ayant pris effet en 1999 et en 2000, et que l’effet combiné de l’article 73 de la Loi et des règles d’attribution se trouvant à l’article 74.2 de la Loi était de faire passer les gains en capital résultant de la disposition de la créance par Mme Seymour à M. Kaiser.
+[2] Lors de l’audience, l’intimée a de plus affirmé que les montants en cause constituaient des prêts de l’actionnaire uniquement pour M.Kaiser, qu’une réduction quelconque de ces prêts constituait une disposition d’immobilisations pour ce dernier et qu’il était donc le seul à réaliser un gain en capital imposable.
+[3] M. Kaiser a fait valoir qu’aucun des montants en cause n’avait été retiré en 1999 et en 2000, ou, à titre subsidiaire, qu’il y a eu des transferts d’immobilisations de M. Kaiser à Mme Seymour, mais que ces transferts n’auraient pas pris effet en 1999 et en 2000, mais plutôt en 2003 – époque à laquelle ils étaient séparés – et que les règles d’attribution n’étaient donc pas applicables.
+[4] Les parties ont présenté un exposé conjoint des faits qui a été joint aux présents motifs en tant qu’annexe A. Je tiens cependant à résumer ainsi les faits importants :
+I. M. Kaiser et Mme Seymour étaient des conjoints de fait en 1999 et en 2000, mais leur relation a pris fin en 2001.
+II. M. Kaiser et Mme Seymour étaient tous deux des actionnaires d’ITI et d’IMI (les « sociétés »).
+III. M. Kaiser a acquis les prêts des actionnaires des autres actionnaires des sociétés en 1996, soit 1 974 675 $ de prêts consentis à ITI au prix de 4 $ et 1 677 951 $ de prêts consentis à IMI au prix de 4 $ (les « prêts »).
+IV. M. Kaiser et Mme Seymour ont tous les deux retiré des montants de leurs comptes chez les sociétés en 1999 et en 2000. Ces montants ont été imputés à leurs comptes de prêts de l’actionnaire respectifs et en ont été débités dans des projets d’états financiers établis à l’automne 2002.
+V. En janvier 2003, l’avocat de Mme Seymour a affirmé qu’elle avait droit à 50 % des prêts en raison de certains droits de propriété qu’elle détenait à l’égard de biens matrimoniaux.
+VI. Par conséquent, M. Kaiser, en tant qu’administrateur des sociétés, a ordonné aux sociétés de débiter, au moyen d’écritures de journal, les comptes de prêts de l’actionnaire de M. Kaiser et de créditer ceux de Mme Seymour des montants suivants :
+1999
+2000
+ITI - 74 149 $
+240 660 $
+IMI - 87 800 $
+23 419 $
+VII. M. Kaiser et les sociétés ont produit leurs déclarations d’impôt pour 1999 et 2000 en février 2003, soit après la passation des écritures de journal. Selon les déclarations de M. Kaiser, il n’avait aucun impôt à payer.
+Questions en litige
+[5] Les parties n’ont pas formulé les questions en litige de la même façon. L’intimée s’est fondée sur sa conception des faits, selon laquelle M. Kaiser a retiré les prêts de l’actionnaire en cause (c’est-à-dire les montants visés par les diminutions attribuables aux écritures de journal) des sociétés en 1999 et en 2000. L’intimée affirme ainsi que la question est de savoir si le ministre a eu raison d’établir de nouvelles cotisations à l’égard de M. Kaiser afin :
+a) d’inclure dans le calcul de son impôt sur le revenu, à titre de gains en capital, les montants de 90 089,24 $ et de 128 678,34 $ représentant le produit de la disposition d’immobilisations résultant des retraits qu’il a effectués des comptes de prêts de l’actionnaire chez ITI et IMI, respectivement, durant l’année d’imposition 1999;
+b) d’inclure dans le calcul de son impôt sur le revenu, à titre de gains en capital, les montants de 257 363,44 $ et de 80 813,59 $ représentant le produit de la disposition d’immobilisations résultant de retraits qu’il a effectués des comptes de prêts de l’actionnaire chez ITI et IMI, respectivement, durant l’année d’imposition 2000.
+[6] Je note que cela ne reflète pas la position prise par l’Agence du revenu du Canada (l’« ARC ») dans sa lettre datée du 3 novembre 2005. Elle y reconnaissait l’existence de transferts de biens – les prêts – de M. Kaiser à Mme Seymour, mais était d’avis que ces transferts avaient pris effet en 1999, en 2000 et en 2001. L’ARC a appliqué le paragraphe 73(1) et l’article 74.2 de la Loi de façon à ce que les gains résultant des rajustements aux comptes de prêt de l’actionnaire de Mme Seymour soient attribués à M. Kaiser pour les années 1999 et 2000, puisque les deux vivaient encore ensemble à cette époque-là. Il ne devait pas y avoir d’attribution pour l’année 2001 car ils étaient alors séparés.
+[7] La position de l’appelant est la suivante : les diminutions auxquelles ont donné lieu les écritures de journal n’ont été accompagnées d’aucun retrait de fonds et n’ont donc pas entraîné de dispositions d’immobilisations comme le soutient l’intimée. L’appelant a poursuivi en formulant les questions en litige de la façon suivante :
+[TRADUCTION]
+La diminution des soldes dus par ITI et Innovage Microsystems Inc. (« IMI ») (ensemble, les « sociétés ») à l’appelant figurant aux comptes de prêts de l’actionnaire de ce dernier chez les sociétés (ensemble, les « prêts ») résultant :
+1. des écritures de journal suivantes, qui on été passées dans les comptes des sociétés le 31 janvier 2003 ou après cette date mais qui visaient à prendre effet le 31 octobre 1999, doit-elle entrer dans le calcul des gains en capital réalisés par l’appelant en 1999 :
+a) un débit de 74 149 $ porté au compte de prêts de l’actionnaire de l’appelant chez ITI et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’ITI de 1999 »);
+b) un débit de 87 800 $ porté au compte de prêts de l’actionnaire de l’appelant chez IMI et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’IMI de 1999 »);
+(ensemble, les « écritures de journal de 1999 »);
+2. des écritures de journal suivantes, qui on été passées dans les comptes des sociétés le 31 janvier 2003 ou après cette date mais qui visaient à prendre effet le 31 octobre 2000, doit-elle entrer dans le calcul des gains en capital réalisés par l’appelant en 2000 :
+a) un débit de 240 660 $ porté au compte de prêts de l’actionnaire de l’appelant chez ITI et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’ITI de 2000 »);
+b) un débit de 23 419 $ porté au compte de prêts de l’actionnaire de l’appelant chez IMI et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’IMI de 2000 »);
+(ensemble, les « écritures de journal de 2000 »).
+[8] La question fondamentale est de savoir si les écritures de journal faites en 2003 ont un effet fiscal en 1999 et en 2000. Si tel est le cas, l’une des deux interprétations suivantes est la bonne, et elles mènent toutes deux à la conclusion que les montants visés par les écritures de journal constituent des gains en capital pour M. Kaiser. La première interprétation, celle qu’a avancée la Couronne, veut que puisque M. Kaiser était le seul à pouvoir retirer des fonds des comptes de prêts de l’actionnaire, il faut conclure qu’il est le seul à l’avoir fait en 1999 et en 2000. Selon la seconde interprétation, les écritures de journal ont donné lieu à un transfert d’une partie des prêts de M. Kaiser à Mme Seymour, laquelle les a immédiatement encaissés. En application de l’article 73 de la Loi le transfert se ferait pour le prix des prêts pour M. Kaiser, soit une somme symbolique, et, par coïncidence, au moment où Mme Seymour encaisserait les prêts par l’effet des écritures de journal, elle entraînerait un gain en capital attribuable à M. Kaiser, en tant que son conjoint de fait, en vertu de l’article 74.2 de la Loi. Si j’en venais à conclure que les écritures de journal ont pris effet du point de vue fiscal en 1999 et en 2000, je favoriserais la seconde interprétation.
+[9] Afin d’établir le moment où les écritures de journal ont pris effet, il me faut d’abord régler la question de savoir si M. Kaiser est préclus d’affirmer que les écritures de journal n’ont pas pris effet en 1999 et en 2000. Les deux parties s’en sont remises aux commentaires du juge en chef Bowman dans King c. La Reine[1] pour traiter de la question de la préclusion. Dans King, des écritures comptables avaient été faites en 1988 afin de porter un crédit au compte de prêts de l’actionnaire de Mme King pour l’année 1987. Mme King a produit une déclaration comme si le crédit avait été porté à son compte en 1987, et le vérificateur s’est fié à cette affirmation. Au moment de l’audience, l’année d’imposition 1988 était frappée de prescription. Le juge en chef Bowman s’est exprimé ainsi :
+[…] Même si je statuais qu'un gain en capital avait été réalisé, mais qu'il était attribuable à M. King en vertu de l'article 74.2, cela aurait pour conséquence le report du gain en capital imposable sur une année d'imposition de M. King qui est frappée de prescription. Agir de la sorte ne me dérangerait pas particulièrement dans un cas où le ministre avait le choix entre deux années et, délibérément et en connaissance de cause, en a choisi une qui s'est avérée la mauvaise. En l'espèce, toutefois, le ministre s'est fondé sur une déclaration de fait de l'appelante, dans sa déclaration de revenus pour 1987, à savoir que les transactions en question, indépendamment de leur effet juridique ultime, ont eu lieu en 1987. S'il est bien établi en droit que les termes d'une loi ne peuvent faire l'objet de préclusion, nous avons affaire en l'espèce à un cas classique de préclusion relative à une question de fait. La Couronne allègue parfois – à tort, à mon sens – que le contribuable qui adopte une position différente de celle qui est prise dans une déclaration de revenus ou dans un autre document est en quelque sorte « frappé de préclusion ». La préclusion fondée sur la conduite est une notion de portée bien plus étroite. Il s'agit d'une règle qui interdit à une personne qui a fait une déclaration à laquelle une autre personne s'est fiée et par suite de laquelle celle-ci a agi à son propre détriment, de nier la vérité de cette déclaration vis-à-vis de l'autre personne. C'est précisément ce qui s'est passé en l'espèce. Le moment auquel survient un événement est simplement une question de fait, et le ministre, en établissant sa cotisation pour 1987 en se fondant sur la déclaration selon laquelle les événements étaient survenus en 1987 et en n'établissant pas de cotisation pour 1988, s'est fié, à son détriment, à cette déclaration. En conséquence, l'appelante ne saurait soutenir maintenant que l'événement qui a donné lieu à l'imposition est survenu en 19882.
+2 Je ne voudrais pas que l'on croie que je ferme les yeux sur l'habitude qu'ont certains comptables, par le biais de « rajustements de fin d'année », de consigner à titre de transactions effectuées dans une année antérieure des faits auxquels on n'avait même pas songé au cours de cette année-là. La présente affaire est quelque peu inusitée en ce sens qu'on y trouve un exemple pur de préclusion fondée sur la conduite. Il y a une différence entre indiquer, après la fin d'un exercice, le montant des avantages imposables d'un dirigeant/actionnaire d'une corporation pour un exercice antérieur – pratique qui, bien que quelque peu artificielle, a au moins l'avantage d'être suivie depuis longtemps et d'être apparemment acceptée par le fisc – et créer de toutes pièces des transactions dans une année antérieure, transactions auxquelles, dans cette année-là, personne n'avait même songé. Je m'étonne toujours de ce que certains comptables croient pouvoir inventer rétroactivement la réalité en déplaçant, après coup, des chiffres sur un bout de papier.
+[10] M. Kaiser, lorsqu’il a demandé la passation des écritures de journal en janvier 2003, ne croyait pas – comme le démontre le fait qu’il a produit une déclaration portant qu’il n’avait pas d’impôt à payer – devoir payer de l’impôt sur les montants qu’il avait réellement retirés de son compte de prêts de l’actionnaire en 1999 et en 2000, et encore moins sur les montants visés par les écritures de journal. Il semble que l’avocat de Mme Seymour ait été du même avis. Dans une lettre datée du 10 janvier 2003, Me Dunphy, agissant au nom de Mme Seymour, s’est adressé à Czechowsky and Graham, un cabinet de comptables agréés, de la façon suivante :
+[TRADUCTION]
+De plus, nous croyons que les comptes de prêts de l’actionnaire de Michael Kaiser ayant un solde créditeur constituent des biens matrimoniaux, dont 50 % appartiennent à Christina Seymour. Nous sommes donc d’avis que vous pouvez produire la déclaration d’impôt de Christina Seymour sans tenir compte du solde débiteur de son compte de prêts de l’actionnaire, puisque nous croyons que ce solde est compensé par le solde créditeur de l’autre compte de prêts.
+[11] Le fait que M. Kaiser ait produit une déclaration de revenus ne peut donc pas être la conduite ou la déclaration de fait à laquelle s’est fiée l’ARC étant donné qu’une déclaration portant qu’aucun impôt n’est payable ne permet pas de conclure à une intention de voir les écritures de journal prendre effet en 1999 et en 2000. Cette conduite, aux fins de la préclusion, ne peut être que les états financiers des sociétés, lesquels reflètent les écritures de journal, que l’ARC a reçus en 2003. L’avocat de M. Kaiser soutient que ces états ne sont pas ceux de M. Kaiser, et que la préclusion n’est ainsi pas applicable. Il est toutefois évident, à la lecture des procès verbaux ayant autorisé la passation des écritures de journal, que c’est la conduite de M. Kaiser qui a donné lieu à ces écritures. L’ARC s’est fiée à ces écritures pour établir les cotisations à l’égard de M. Kaiser, tout en sachant très bien qu’elles n’avaient pas été inscrites avant 2003. Quelle est donc la déclaration dont M. Kaiser cherche maintenant à nier la véracité? Il est clair qu’il ne nie pas l’existence des écritures de journal. Il soutient plutôt que, aux fins fiscales, les écritures de journal n’ont pas pris effet en 1999 et en 2000 pour l’application des règles d’attribution. Il s’agit là d’une conclusion de droit et non du démenti d’une déclaration de fait. L’ARC a adopté une position différente en soutenant, en pleine connaissance de cause, que les règles d’attribution s’appliquaient en 1999 et en 2000, mais pas en 2001. Elle n’a subi aucun préjudice en raison d’une déclaration de fait prétendument erronée que M. Kaiser aurait faite. Je conclus que l’application du principe de la préclusion aux présentes circonstances ne m’empêche pas de considérer l’effet rétroactif, aux fins fiscales, des écritures de journal.
+[12] La question est donc de savoir si le transfert rétroactif de biens entre des conjoints de fait, effectué en raison de la rupture de leur relation, entraîne l’application des règles d’attribution pour la période débutant au moment où le transfert est censé prendre effet et se terminant à celui où on a décidé d’effectuer le transfert (longtemps après la séparation des conjoints). Pour reprendre les termes utilisés par le juge en chef Bowman, l’appelant a-t-il « cré[é] de toutes pièces des transactions dans une année antérieure, transactions auxquelles, dans cette année-là, personne n’avait même songé »? Personne n’avait songé, en 1999 et en 2000, à transférer les prêts durant ces années : il s’agit donc de transactions créées de toutes pièces.
+[13] Cette conclusion est conforme aux commentaires faits par le juge Bonner dans Wood v. Minister of National Revenue [2] :
+[13] Le passage de l’article 79 qui exige que la date d’inscription d’une résolution dans le registre « […] soit réputée être la date de son adoption […] » n’oblige pas les personnes autres que la société et ses actionnaires à traiter un événement comme s’il s’était passé à une date antérieure. Le paragraphe 29(1) du Companies Act de l’Alberta dispose :
+[TRADUCTION]
+29(1) Les articles des statuts, une fois enregistrés, lient la société et ses membres comme s’ils avaient tous été respectivement signés par chacun des membres, et les clauses qui y figurent en ce qui a trait à chacun des membres, leurs héritiers, leurs exécuteurs testamentaires et leurs administrateurs judiciaires et, dans le cas d’une société, leurs successeurs, et les engagent et doivent être respectées sous réserve des dispositions de la présente loi.
+Rien dans la loi n’oblige des personnes autres que la société et ses membres à être liés par les articles des statuts de la société. Ces articles n’engagent pas l’intimé, qui y est étranger5. Je juge inacceptable qu’une société et ses actionnaires puissent, dans des domaines qui remettent en cause les droits des tiers, réécrire l’histoire soit, en l’espèce, considérer comme réels des événements imaginaires. Le Parlement a le pouvoir d’imputer des événements. Les autres agents de la société ne l’ont pas.
+[14] C’est exactement ce que constituent les écritures de journal en cause : une réécriture de l’histoire, qui ne lie pas les tiers, à savoir l’ARC en l’espèce. L’ARC ne peut choisir quels événements imaginaires sont imposables et lesquels ne le sont pas. Pour la détermination de l’impôt que doit payer M. Kaiser, les prêts ne peuvent avoir été transférés avant qu’il n’en ait décidé ainsi, ce qu’il n’a fait qu’en 2003; un comptable ne peut, d’un trait de plume, changer cette réalité.
+[15] Quelle était la position fiscale de M. Kaiser en 1999 et en 2000 si les écritures de journal n’ont pas pris effet du point de vue fiscal dans ces années? Il est assurément tenu de payer de l’impôt sur les gains résultant des retraits qu’il a réellement effectués de ses comptes de prêt de l’actionnaire durant ces années. Il n’est toutefois pas tenu de payer de l’impôt sur les montants que Mme Seymour a retirés des sociétés durant ces années, et ce peu importe la façon dont ils avaient convenu de les traiter suite à la rupture de leur relation.
+[16] La raison et le bon sens viennent appuyer ma conclusion. La preuve révèle clairement que les écritures de journal avaient pour but le partage des immobilisations (les prêts) à cause des droits de propriété que Mme Seymour détenait en raison de son union de fait avec M. Kaiser. L’article 74.2 de la Loi est clair : l’attribution ne s’applique qu’aux périodes où les parties sont des conjoints de fait. Il serait illogique qu’un transfert de propriété ayant pour cause la fin d’une relation entraîne une quelconque attribution. Le cas contraire représenterait une véritable aubaine pour le destinataire du transfert : il n’aurait pas seulement reçu les 50 % des biens auxquels il avait droit, mais son ancien conjoint aurait été tenu de payer les impôts sur les gains en capital résultant de la disposition de ces biens. Sauf dans les cas où des arguments relatifs à la préclusion sont présentés, ce n’est pas la manière dont doivent opérer les règles d’attribution. Les couples qui en sont rendus au stade du partage des biens ne sont plus dans la période d’attribution, qui est celle où ils étaient encore des conjoints de fait.
+[17] J’accueille l’appel et je défère l’affaire au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant n’a pas à payer d’impôt sur les montants auxquels ont donné lieu les écritures de journal inscrites en janvier 2003. De plus, les parties conviennent que le revenu imposable de l’appelant pour l’année 2000 doit être réduit d’un montant supplémentaire de 2 116 $ afin de tenir compte de l’avance de 44 196 $ qu’il a versée à ITI.
+[18] Les dépens sont accordés à l’appelant.
+Signé à Ottawa (Canada) ce 6e jour de février 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 19e jour de mars 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A. Trad. jur.
+[TRADUCTION]
+Annexe A
+10046-001-20071220
+2006-1125(IT)G
+Cour canadienne de l’impÔt
+ENTRE :
+MICHAEL R. KAISER
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Les parties aux présentes, représentées par leurs avocats respectifs, admettent les faits suivants, à condition que les admissions faites ne puissent être utilisées que pour les fins du présent appel et qu’elles ne puissent pas être utilisées à l’encontre de l’une ou l’autre des parties à d’autres moments ou par des tiers.
+1. Lors des années en cause, 1999 et 2000, et à tous les autres moments pertinents, l’appelant :
+a) résidait à Bragg Creek (Alberta);
+b) était un actionnaire, un administrateur et un dirigeant d’Innovage Technologies Inc. (« ITI »), une société constituée sous le régime des lois de la Province d’Alberta;
+c) était un actionnaire, un administrateur et un dirigeant d’Innovage Microsystems Inc. (« IMI »), une société constituée sous le régime des lois de la Province d’Alberta.
+2. Lors des années en cause :
+a) l’appelant et Mme Christina Brokate, autrefois Seymour (« Mme Seymour »), étaient des conjoints de fait;
+b) et à tous les autres moments pertinents, Mme Seymour résidait à Bragg Creek (Alberta);
+c) Mme Seymour était une actionnaire, une administratrice et une dirigeante d’ITI et d’IMI (ensemble, les « sociétés »);
+d) l’appelant et Mme Seymour étaient les seuls actionnaires, administrateurs et dirigeants des sociétés.
+3. Avant les années en cause :
+a) l’appelant a racheté les parts de tous les autres actionnaires des sociétés en vertu d’une convention, datée du 29 mai 1996, par laquelle l’appelant a acquis :
+(i) toutes les actions de la société qu’ils détenaient, pour la contrepartie déclarée de 1 000 $,
+(ii) tous les prêts faits à ITI par les autres actionnaires, dont le montant total à cette date s’élevait à environ 1 974 675 $ (les « prêts consentis à ITI »), pour la contrepartie déclarée de 4 $,
+(iii) tous les prêts faits à IMI par les autres actionnaires, dont le montant total à cette date s’élevait à environ 1 677 951 $ (les « prêts consentis à IMI »), pour la contrepartie déclarée de 4 $;
+b) le montant total des prêts consentis à ITI a été porté au crédit du compte de prêts de l’actionnaire de l’appelant chez ITI et le montant total des prêts consentis à IMI a été porté au crédit du compte de prêts de l’actionnaire de l’appelant chez IMI.
+4. Les prêts consentis à ITI et les prêts consentis à IMI constituaient des immobilisations pour l’appelant.
+5. Lors des années 1999, 2000 et 2001, l’appelant et Mme Seymour ont tous les deux retiré des montants de leurs comptes chez les sociétés et ont fait payer, par les sociétés, des dépenses personnelles (ensemble, les « dépenses personnelles »).
+6. Le 1er août 2000, l’appelant a avancé la somme de 44 196 $ à ITI (l’« avance »).
+7. Le total des dépenses personnelles de l’appelant durant la période débutant le 1er août 2000 et se terminant le 17 octobre 2000 était de 12 696 $.
+8. L’appelant et Mme Seymour ont cessé d’être des conjoints de fait aux alentours du mois de juin 2000. Ils ont ensuite chacun fait appel à un avocat afin de diviser les biens matrimoniaux.
+9. Les projets d’états financiers des sociétés pour les exercices se terminant les 31 octobre 1999, 2000 et 2001 ont finalement été établis à l’automne 2002 (les « projets d’états financiers »). On y a :
+a) débité les dépenses personnelles de l’appelant et de Mme Seymour de leurs comptes de prêts de l’actionnaire respectifs;
+b) erronément porté l’avance au crédit d’un autre compte de prêts de l’appelant chez ITI.
+10. Puisque les soldes des comptes de prêts de l’actionnaire de Mme Seymour chez ITI et IMI étaient nuls le 1er novembre 1998, le fait de débiter les dépenses personnelles de ces comptes lors de l’établissement des projets d’états financiers a donné lieu à des soldes négatifs pour ces comptes à la fin des exercices des sociétés se terminant les 31 octobre 1999, 2000 et 2001.
+11. Le 10 janvier 2003, l’avocat de Mme Seymour a envoyé une lettre par télécopie au comptable des sociétés. Il y affirmait que Mme Seymour avait droit à 50 % du solde des comptes de prêts de l’actionnaire de l’appelant chez les sociétés (ensemble, les « prêts »), et ce en raison de ses droits de propriété sur des biens matrimoniaux résultant de son ancienne union de fait avec l’appelant. Il demandait que les soldes négatifs des comptes de prêts de l’actionnaire de Mme Seymour à la fin des exercices soient compensés par sa part des prêts.
+12. Le 31 janvier 2003, en réponse à la demande de Mme Seymour et pour donner satisfaction partielle à ses droits de propriété sur des biens matrimoniaux, l’appelant a autorisé les sociétés à réduire les soldes négatifs de fin d’exercice des comptes de prêts de l’actionnaire de Mme Seymour au moyen des écritures de journal suivantes :
+a) pour ITI :
+(i) avec effet rétroactif au 31 octobre 1999, un débit de 74 149 $ porté au compte de prêts de l’actionnaire de l’appelant et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’ITI de 1999 »),
+(ii) avec effet rétroactif au 31 octobre 2000, un débit supplémentaire de 240 660 $ porté au compte de prêts de l’actionnaire de l’appelant et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’ITI de 2000 »),
+(iii) avec effet rétroactif au 31 octobre 2001, un débit supplémentaire de 225 398 $ porté au compte de prêts de l’actionnaire de l’appelant et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’ITI de 2001 »);
+b) pour IMI :
+(i) avec effet rétroactif au 31 octobre 1999, un débit de 87 800 $ porté au compte de prêts de l’actionnaire de l’appelant et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’IMI de 1999 »),
+(ii) avec effet rétroactif au 31 octobre 2000, un débit supplémentaire de 23 419 $ porté au compte de prêts de l’actionnaire de l’appelant et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’IMI de 2000 »),
+(iii) avec effet rétroactif au 31 octobre 2001, un débit supplémentaire de 201 163 $ porté au compte de prêts de l’actionnaire de l’appelant et un crédit correspondant porté à celui de Mme Seymour (l’« écriture au journal d’IMI de 2001 »);
+(ensemble, les « écritures de journal »).
+13. Les effets des écritures de journal sur les soldes et les débits nets rajustés des comptes de prêts de l’actionnaire (les « comptes ») de l’appelant et de Mme Seymour auprès des sociétés ont étés les suivants :
+ITI
+Appelant
+Mme Seymour
+Solde des comptes au 31 octobre 1998
+1 946 352 $
+0 $
+Débits nets du 1er novembre au 31 décembre 1998
+3 001 $
+(8 172) $
+Solde des comptes au 31 décembre 1998
+1 949 353 $
+(8 172) $
+Débits nets du 1er janvier au 31 octobre 1999
+(40 498) $
+(65 978) $
+Écriture au journal d’ITI de 1999
+(74 149) $
+74 149 $
+Solde rajusté des comptes au 31 octobre 1999
+1 834 706 $
+(1) $
+Débits nets du 1er novembre au 31 décembre 1999
+(5 449) $
+(13 936) $
+Solde rajusté des comptes au 31 décembre 1999
+1 829 257 $
+(13 937) $
+Débits nets du 1er janvier au 31 octobre 2000
+(220 856) $
+(270 919) $
+Écriture au journal d’ITI de 2000
+(240 660) $
+240 660 $
+Solde rajusté des comptes au 31 octobre 2000
+1 367 741 $
+(44 196) $
+Débits nets du 1er novembre au 31 décembre 2000
+(1 714) $
+(27 211) $
+Solde rajusté des comptes au 31 décembre 2000
+1 366 027 $
+(71 407) $
+Débits nets du 1er janvier au 31 octobre 2001
+(138 048) $
+(198 221) $
+Écriture au journal d’ITI de 2001
+(225 398) $
+225 398 $
+Solde rajusté des comptes au 31 octobre 2001
+1 002 581 $
+(44 230) $
+Débits nets du 1er novembre au 31 décembre 2001
+(41 192) $
+(19 588) $
+Solde rajusté des comptes au 31 décembre 2001
+961 389 $
+(63 818) $
+IMI
+Appelant
+Mme Seymour
+Solde du compte au 31 octobre 1998
+1 972 534 $
+0 $
+Débits nets du 1er novembre au 31 décembre 1998
+(17 436) $
+(14 041) $
+Solde des comptes au 31 décembre 1998
+1 955 098 $
+(14 041) $
+Débits nets du 1er janvier au 31 octobre 1999
+(80 805) $
+(74 420) $
+Écriture au journal d’IMI de 1999
+(87 800) $
+87 800 $
+Solde rajusté des comptes au 31 octobre 1999
+1 786 493 $
+(661) $
+Débits nets du 1er novembre au 31 décembre 1999
+(2 957) $
+(2 400) $
+Solde rajusté des comptes au 31 décembre 1999
+1 783 536 $
+(3 061) $
+Débits nets du 1er janvier au 31 octobre 2000
+(103 144) $
+(21 020) $
+Écriture au journal d’IMI de 2000
+(23 419) $
+23 419 $
+Solde rajusté des comptes au 31 octobre 2000
+1 656 973 $
+(662) $
+Débits nets du 1er novembre au 31 décembre 2000
+(811) $
+(811) $
+Solde rajusté des comptes au 31 décembre 2000
+1 656 162 $
+(1 473) $
+Débits nets du 1er janvier au 31 octobre 2001
+(3 536) $
+(200 351) $
+Écriture au journal d’IMI de 2001
+(201 163) $
+201 163 $
+Solde rajusté des comptes au 31 octobre 2001
+1 451 463 $
+(661) $
+Débits nets du 1er novembre au 31 décembre 2001
+(2 692) $
+(13 089) $
+Solde rajusté des comptes au 31 décembre 2001
+1 448 771 $
+(13 750) $
+14. Les effets des écritures de journal sur la baisse des soldes des comptes de prêts de l’actionnaire de l’appelant chez les sociétés peuvent être ainsi résumés :
+ITI
+Baisse du solde du compte de l’appelant
+Sans les écritures de journal
+Avec les écritures de journal
+Différence
+Au cours de l’année 1999
+45 947 $
+120 096 $
+74 149 $
+Au cours de l’année 2000
+222 570 $
+463 230 $
+240 660 $
+Au cours de l’année 2001
+179 240 $
+404 638 $
+225 398 $
+IMI
+Baisse du solde du compte de l’appelant
+Sans les écritures de journal
+Avec les écritures de journal
+Différence
+Au cours de l’année 1999
+83 762 $
+171 562 $
+87 800 $
+Au cours de l’année 2000
+103 955 $
+127 374 $
+23 419 $
+Au cours de l’année 2001
+6 228 $
+207 391 $
+201 163 $
+15. Le 5 février 2003, après qu’une modification a été apporté aux projets d’états financiers afin qu’ils reflètent le contenu des écritures de journal, des déclarations de revenus des sociétés pour les exercices 1999, 2000 et 2001 de celles-ci et des déclarations de revenus des particuliers pour les années d’imposition 1999, 2000 et 2001 de l’appelant ont été produites à l’Agence du revenu du Canada (l’ « ARC »).
+16. Dans les déclarations de revenus des particuliers qu’il a produites pour les années d’imposition 1999, 2000 et 2001, l’appelant n’a pas inclus, dans le calcul du revenu imposable, les gains en capital découlant de la disposition partielle des prêts.
+17. L’appelant ne s’est pas prévalu du choix que lui donnait le paragraphe 73(1) de la Loi de l’impôt sur le revenu (Canada) à l’égard des transferts d’immobilisations de l’appelant à Mme Seymour.
+18. En 2003, une demande en justice portant sur des droits matrimoniaux et opposant l’appelant à Mme Seymour a été introduite. Dans cette demande, Mme Seymour, entre autres choses, réclamait la part restante des prêts qui lui revenait. Cette demande est toujours en instance.
+19. Le 5 août 2005, l’ARC a envoyé des lettres à l’appelant, où elle proposait, entre autres choses, de traiter l’ensemble des baisses des soldes des prêts survenues durant les années 1999, 2000 et 2001, y compris toutes les baisses dues aux écritures de journal, comme des gains en capital réalisés au cours de ces années par l’appelant grâce à la disposition de prêts de l’actionnaire au prix de base rajusté de 4 $.
+20. Dans des avis de nouvelle cotisation envoyés le 10 février et le 19 avril 2005 (ensemble, les « nouvelles cotisations de 2005 »), l’ARC a, entre autres, inclus dans le revenu de l’appelant les gains en capital imposables suivants :
+Année d’imposition
+Gains sur les prêts consentis à ITI
+Gains sur les prêts consentis à IMI
+1999
+90 089 $
+128 671 $
+2000
+279 461 $
+80 814 $
+2001
+211 464 $
+103 695 $
+21. Le 27 avril 2005, l’appelant a déposé des avis d’opposition aux nouvelles cotisations de 2005. Il a présenté des observations écrites supplémentaires – datées du 31 août, du 29 septembre et du 16 novembre 2005 – à la Division des appels de l’ARC afin d’appuyer ses avis d’opposition.
+22. Dans des avis de nouvelle cotisation envoyés à l’appelant le 16 janvier 2006, l’ARC a notamment :
+a) confirmé l’inclusion, dans le calcul des gains pour 1999, des baisses des soldes des prêts attribuables à l’écriture au journal d’ITI de 1999 et à l’écriture de journal d’IMI de 1999, au motif que l’appelant et Mme Seymour étaient encore conjoints de fait le 31 octobre 1999;
+b) confirmé l’inclusion, dans le calcul des gains pour 2000, des baisses des soldes des prêts attribuables à l’écriture au journal d’ITI de 2000 et à l’écriture de journal d’IMI de 2000, au motif que l’appelant et Mme Seymour étaient encore conjoints de fait le 31 octobre 2000;
+c) pris en considération l’avance versée par l’appelant en réduisant le montant des gains en capital imposables pour l’année 2000 de 22 093 $, soit 50 % du montant de l’avance;
+d) exclu du calcul des gains pour 2001 les baisses des soldes des prêts attribuables à l’écriture au journal d’ITI de 2001 et à l’écriture au journal d’IMI de 2001, au motif que l’appelant et Mme Seymour n’étaient plus conjoints de fait le 31 octobre 2001.
+FAIT à la ville de Calgary, dans la Province d’Alberta, ce 11e jour de janvier 2008.
+Me Douglas E. Roberts, avocat
+Procureur de l’appelant
+Par : _______________________________
+Me Douglas E. Roberts
+Avocat de l’appelant
+FAIT à la ville de Calgary, dans la Province d’Alberta, ce 11e jour de janvier 2008.
+John H. Sims, c.r.
+Procureur de l’intimée
+Par : _______________________________
+Me Margaret McCabe
+Avocate de l’intimée
+RÉFÉRENCE :
+2008CCI84
+Nº DU DOSSIER DE LA COUR :
+2006-1125(IT)G
+INTITULÉ :
+Michael R. Kaiser et La Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 11 janvier 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 6 février 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Douglas Roberts
+Avocate de l’intimée :
+Me Margaret McCabe
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Douglas Robert
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] [1994] A.C.I. no 933.
+[2] 88 DTC 1180.

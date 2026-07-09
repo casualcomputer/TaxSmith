@@ -1,0 +1,241 @@
+---
+title: "Libfeld v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520961/index.do"
+last_modified: "2022-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 91"
+citation2: ""
+neutral_citation: "2022 TCC 91"
+decision_date: "2022-08-12"
+language: "en"
+item_id: "520961"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4487
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:31:39.306000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69c52f302ed4bb031f9b67b6cd408ae54a1747eec60daf4ee2ea70980f412e87"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Libfeld v. The Queen
+
+- Citation: 2022 TCC 91
+- Decision date: 2022-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Libfeld v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-08-12
+Neutral citation
+2022 TCC 91
+File numbers
+2020-973(GST)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-973(GST)I
+BETWEEN:
+COREY LIBFELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 7, 2022 at Toronto (Ontario) and written submissions filed by the Appellant on April 13th and by the Respondent on April 28th, 2022
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant: Angelo Gentile
+Monica Carinci
+Counsel for the Respondent: Natasha Mukhtar
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal made in respect of the Notice of Assessment dated April 30, 2019 disallowing the Appellant’s Goods and Services Tax / Harmonized Sale Tax (GST/HST) New Housing Rebate Application, is hereby dismissed, without costs.
+Signed at Ottawa, Canada, this 12th day of August, 2022.
+“Guy R. Smith”
+Smith J.
+Citation: 2022 TCC 91
+Date: 20220812
+Docket: 2020-973(GST)I
+BETWEEN:
+COREY LIBFELD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+I. Overview
+[1] This appeal was heard under the Informal Procedure. The issue is whether the Appellant is entitled to the Goods and Services Tax / Harmonized Sale Tax (“GST/HST”) New Housing Rebate (“NHR Rebate”) that was disallowed by the Minister of National Revenue (the “Minister”) on the basis that the Appellant had not satisfied the requirements of subsection 254(2) of the Excise Tax Act, R.S.C., 1985, c. E-15 (“ETA”).
+[2] Following the acquisition of the subject property, the Appellant filed the GST 190 Form: New Housing Rebate Application for Houses Purchased from a Builder (the “NHR Application”) seeking a rebate of $24,000, being the maximum provincial new housing rebate amount for homes situated in Ontario. He did so relying on subsection 254(2) and section 256.21 of the ETA and section 41 of the New Harmonized Value-Added Tax System Regulations, No. 2 (SOR/2010-151).
+[3] The Minister denied the NHR Application on the basis that:
+the vendor was not a builder of a residential complex who had made a taxable supply by way of a sale to the Appellant;
+the Appellant did not pay any GST/HST on the purchase; and
+the vendor had renovated the home and occupied it for over one year as a personal residence and the Appellant was not the first occupant.
+[4] The applicable provisions of subsection 254(2) are as follows:
+New housing rebate
+254(2) Where
+(a) a builder of a single unit residential complex or a residential condominium unit makes a taxable supply by way of sale of the complex or unit to a particular individual,
+(…)
+(d) the particular individual has paid all of the tax under Division II payable in respect of the supply of the complex or unit and in respect of any other supply to the individual of an interest in the complex or unit (the total of which tax under subsection 165(1) is referred to in this subsection as the “total tax paid by the particular individual”),
+(…)
+(f) after the construction or substantial renovation is substantially completed and before possession of the complex or unit is given to the particular individual under the agreement of purchase and sale of the complex or unit
+(i) in the case of a single unit residential complex, the complex was not occupied by any individual as a place of residence or lodging, and
+(ii) (…)
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(a) in the case of a single unit residential complex, the particular individual or a relation of the particular individual, and
+(…)
+the Minister shall (…) pay a rebate to the particular individual (...).
+[5] A rebate will only be paid if all of these conditions have been satisfied. In Canada v. Ngai, 2019 FCA 181 (“Ngai”), the court explained that:
+[21] The rebate available under the Regulations is not payable under subsection 254(2) of the ETA but rather under subsection 256.21(1) of the ETA. This subsection provides that the rebate as set out in the Regulations is to be paid to a “prescribed person”. As provided in subsection 41(2) of the Regulations, a “prescribed person” is an individual who would be entitled to claim a rebate under subsection 254(2) of the ETA (if the total consideration was less than $450,000). Therefore, a “prescribed person” is the “particular individual” to whom reference is made throughout subsection 254(2) of the ETA. As a result, only an individual who is a “particular individual” for the purposes of subsection 254(2) of the ETA may apply for and be paid the rebate. A rebate will only be paid if that person satisfies the applicable conditions.
+[My Emphasis]
+[6] As set out below, the appeal must be dismissed as the vendor was not a builder and consequently the Appellant did not acquire the home in the context of a taxable supply. Further, the Appellant did not pay any GST/HST and was not the first individual to occupy the home after its substantial completion.
+II. The Relevant Facts
+[7] The Appellant testified on his own behalf and described himself as a real estate developer. There were no other witnesses.
+[8] It is not disputed that the Appellant entered into an agreement of purchase and sale on September 27, 2018 (the “Agreement of Purchase and Sale”) for the acquisition of a property described municipally as 308 Vesta Drive, Toronto, Ontario (the “Property”) for a purchase price of $6,370,000. He acquired title to the Property on November 1, 2018 and filed the NHR Application on November 2, 2018. He and his family then occupied it as their primary place of residence.
+[9] The vendor of the Property was an individual known as Leila Izadyar (the “Vendor”) whose name appeared as the “seller” in the Multiple Listing Service (“MLS Listing”) (Exhibits A-16 and A-17). The MLS Listing indicated that the Property was occupied by the “Owner” and that possession would be available in “30-60 days”. It also indicated that the Property was “New”. It described the Property as a “Spectacular Custom Home in Prime Forest Hill" and included a detailed feature sheet with a list of inclusions and upgrades.
+[10] The Agreement of Purchase and Sale was the standard Ontario Real Estate Association form (the “OREA Form”). Paragraph 7 was completed to indicate that “If the sale of the property (…) was subject to the Harmonized Sale Tax (HST)” then such tax would be “included in” (and not in addition to) the purchase price and the seller agreed to certify that the sale was not subject to HST.
+[11] On closing, the Vendor delivered a document titled “Exempt Real Property Supply” and “Vendor’s Declaration and Indemnity Re: Goods and Services Tax”, addressed to the Appellant and “Owens Wright LLP, his solicitors” (Exhibit R-8). It was signed by the Vendor and sworn before a Commission of Oaths on October 30, 2018 (the “Vendor’s Declaration and Indemnity”).
+[12] To summarize, the Vendor declared and certified “that the sale of the Property does not constitute a taxable supply of the Property to the Purchaser for the purposes of the [ETA] because (…) the property is not capital property and was not acquired in the course of business or adventure or concern in the nature of trade”. The Vendor then agreed “to indemnify and save harmless the Purchaser from and against all claims, actions (…)” that might later be made “by the Canada Revenue Agency arising from a default in payment of any harmonized sales tax” assessed against the Appellant “arising from the sale of the above noted property”.
+[13] The Vendor also delivered the Statement of Adjustments. It reflected the agreed purchase price less the deposit paid by the Appellant with a further adjustment for real property taxes. There was no mention of GST/HST.
+[14] The Appellant had initially viewed the Property in May 2018 when he submitted an initial offer to purchase that was rejected. He viewed the Property again in September 2018 and submitted a new offer that was accepted, as described above. In both instances, he concluded that the Property was unoccupied.
+[15] In particular, the Appellant concluded that the Property was a new home that had not been occupied after completion of the substantial renovations. He observed that except for a few pieces of furniture, there was no evidence that anyone was occupying the premises. He noted that there were no utensils or dishes, nor clothing or bedding in the bedrooms. It appeared to him that the kitchen appliances had never been used. There were no window coverings.
+[16] The Appellant tendered as evidence a series of photographs (Exhibit A-5) taken by him prior to closing. These included various rooms, all sparsely furnished in a staged-fashion and included the kitchen appliances, notably the fridge and stove, containing instruction booklets and warranties.
+[17] The Appellant explained that he attended the Property prior to closing to complete a Certificate of Completion and Possession / Warranty Certificate (Exhibit A-6) (the “Warranty Certificate”) as required by the Tarion Warranty Corporation (“Tarion”). The “Vendor/Builder” was identified as “Enirox Group Management & Consulting Inc.” (“Enirox”) with a corresponding enrollment number. The Property was also identified by a home enrolment number.
+[18] Following the inspection, the Appellant identified numerous deficiencies that were listed and attached to the Warranty Certificate signed by him and a representative of Enirox on October 29, 2018. The warranty coverage was made effective November 1, 2018. Deficiencies which had not been appropriately remedied by Enirox, were eventually settled in exchange for a final payment of $286,770 made by Tarion to the Appellant on July 22, 2020.
+[19] The Warranty Certificate indicated in bold letters at page 7 that it was “a formal record of the home’s condition before the purchaser takes possession” and that “it will be used as a reference for future warranty service requests”.
+[20] In the context of this appeal, the Appellant conducted a search of the Home Construction Regulatory Authority (“HCRA”) website and obtained search results indicating that the Property had been enrolled by Enirox on June 21, 2016 (Exhibit A-19). The search indicated that “all warranty information is updated quarterly with Tarion data that is shared with HCRA for posting to a builder’s profile”.
+[21] While acknowledging that it was hearsay, the Appellant submitted an article from Toronto Life magazine (Exhibit A-2) dated July 27, 2018, titled “House of the Week: $7 million for a newly built mini-mansion in Forest Hill”. It explained that the Property had been purchased for “$2,680,000, in 2015, prior to a rebuild” and that the “sellers (…) then tore down a pre-existing house and built this one in its place (…)”. Several photos showing empty or sparsely furnished rooms as part of an obvious staging were also included in the article.
+III. Analysis of the Issues
+Issue # 1: Was the Vendor a Builder?
+Position of the Appellant
+[22] The Appellant argues that the Vendor was a builder since the definition of the term “builder” in subsection 123(1) of the ETA includes an individual who engages another person to carry out the construction of a new home in the course of a business or adventure or concern in the nature of trade.
+[23] The definition of the term “builder” provides as follows:
+"builder" of a residential complex or of an addition to a multiple unit residential complex means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+(…)
+(iii) in any other case, the construction or substantial renovation of the complex,
+(…)
+but does not include
+(f) an individual described in paragraph (a), (b) or (d) who
+(i) carries on the construction or substantial renovation,
+(ii) engages another person to carry on the construction or substantial renovation for the individual, or
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade.
+[24] The Appellant refers to the Technical Notes to subsection 254(2) (Finance Technical Notes, Nov. 2007) where it is stated that individuals purchasing a new home may be able to claim a NHR Rebate even if they are purchasing a new home from a person who did not actually construct the building.
+[25] The Appellant also relies on a number of decisions to support his contention that the Vendor was engaged in a business or an adventure in the nature of trade.
+[26] In Sangha v. The Queen, 2013 TCC 69 (“Sangha”), two individuals had acquired a vacant lot, built a new home, claimed to have briefly lived in the premises, sold the new home and realized a profit. The Minister assessed the gain as business income from an adventure in the nature of trade and assessed GST pursuant to the ETA on the basis that they were “builders”. The taxpayers appealed claiming that they were entitled to rely on the principal residence exemption.
+[27] Justice C. Miller considered the testimony of two independent witnesses. The first one viewed the property once it was completed and saw “no furniture” and only “an area rug in the living room” (para. 10). The ultimate purchaser of the home testified that he visited it on several occasions. He described it “as an empty home (…) in new condition, with stickers still on windows, no appliances, no window coverings, no fences, etc.” (para. 14).
+[28] Justice C. Miller then considered the factors set out in Happy Valley Farms Ltd. v. Minister of National Revenue, [1986] 2 CTC 259 (Fed. T.D.) (“Happy Valley Farms”) (para. 18) including 1) the nature of the property sold; 2) the length of period of ownership; 3) the frequency or number of other similar transactions by the taxpayer; 4) work expended on or in connection with the property realized; 5) the circumstances that were responsible for the sale of the property; and 6) the motive for selling. He concluded that the gain was taxable and that the taxpayers were “builders”.
+[29] In Seni v. The Queen, 2005 TCC 126 (“Seni”), the taxpayer had built and sold three homes over a three-year period. He claimed that these sales were exempt supplies because he was not a builder and the homes were occupied by him as his principal residence. Justice McArthur found as follows:
+11. (…) Where the Appellant is obviously in the business of building homes, the Court will normally draw an inference that the taxpayer’s intention, in building a home, is to resell it. This is a rebuttable presumption. I have little difficulty in concluding the Appellant was a “builder” (…). To escape the “builder” definition, the dwelling must be constructed “otherwise than in the course of a business or adventure or concern in the nature of trade”.
+[My Emphasis]
+[30] In Wall v. The Queen, 2019 TCC 168 (“Wall TCC”), the taxpayer had built and sold three homes and a vacant lot over a four year period but did not report any income from these sales and did not collect, remit or report any GST or HST. Justice Visser reviewed the factors described in Happy Valley Farms (paras. 153-155) and found in particular that the taxpayer had routinely listed the properties as being new, while at the same time listing them as being owner-occupied (para. 127). He concluded that the taxpayer was a “builder” and that the homes were sold “in the course of a development business” (para. 223).
+[31] That decision was confirmed on appeal in Wall v. Canada, 2021 FCA 132 (“Wall FCA”). Justice Webb reviewed the evidence in detail noting that the taxpayer likely had not occupied the new homes as his principal residence since they were often listed for sale before the issuance of an occupancy permit. As such, he inferred that the taxpayer intended to build and sell houses for a profit, as explained at paragraphs 41-46. He agreed with the trial judge that the taxpayer “was carrying on a business in acquiring the properties, demolishing the existing dwellings, constructing new homes and selling them (…)” and was a “builder” (para. 46).
+[32] The Appellant argues that the obvious inference in this case is that the Vendor engaged Enirox to construct the property in the course of a business or an adventure or concern in the nature of trade. The dwelling was described as “new” in the MLS Listing and Toronto Life article and the photos taken by the Appellant prior to possession demonstrate that it was “unused and staged for resale to maximize profit”. The Appellant argues that “absent any evidence to the contrary,” the evidence is that the Property was acquired from a “builder” as defined in subsection 123(1) of the ETA and for the purpose of paragraph 254(2)(a).
+[33] In further written submissions, the Appellant argues “that the Minister has not met her burden to prove the assumptions that prior to selling the Property to the appellant, the Vendor had renovated the Property and occupied it for over a year as a personal residence” and “in selling the Property to the appellant, the Vendor was not a builder of a residential complex.” The Appellant argues that the “Minister has the burden of proving assumptions that are in dispute and exclusively or peculiarly within the Minister’s knowledge”.
+[34] The Appellant adds that “the Minister has in her possession information pertaining to the seller’s reported income and has the power to audit the seller to determine her intention with the Property” and that, having “failed to provide any evidence related to the seller whatsoever, the Minister has not met her burden, and this Appeal must be allowed”.
+[35] In any event, the Appellant submits that the “Minister’s assumptions have been demolished, as the Appellant’s evidence proves on a balance of probabilities that the seller did not live in the Property and was a builder for purposes of the ETA”.
+[36] In closing submissions, the Appellant argued that the Vendor’s Declaration and Indemnity was a self-serving document and that the parties to the transaction could not contract out of the provisions of the ETA.
+Position of the Respondent
+[37] The Respondent argues that the issue of onus is a distraction and that the Minister does not have the burden to prove that the Vendor actually occupied the Property for one year or that she was not a builder. The Respondent urges the Court to consider the facts and the evidence as presented. In particular, the Respondent refers to the “Vendor’s Declaration and Indemnity” wherein the Vendor certified that the sale of the Property did not constitute a taxable supply and further, at paragraphs 2 and 3, that the property was not capital property nor was it acquired in the course of a business or adventure or concern in the nature of trade. The Respondent argues that the Appellant accepted this document on closing, provided it directly to the Canada Revenue Agency in the context of the audit, did not challenge its authenticity at the hearing and did not provide an explanation as to why it was delivered to him on closing “other than to explicitly state that the sale was not a taxable supply”.
+[38] The Respondent argues that the declaration does not suggest that the parties intended to contract out of the ETA but that they agreed that the Property was not a taxable supply. There was no evidence that the Vendor then attempted to collect GST/HST or any evidence that it was included in the purchase price.
+[39] The Respondent submits that the language used in the declaration “runs directly counter to the requirement in subsection 123(1) of the Act that a builder is someone who builds or substantially renovates a new home in the course of a business or an adventure in the nature of trade.”
+[40] As a result, the Respondent submits that the Appellant has not met the requirements of paragraph 254(2)(a).
+Analysis of Issue # 1
+[41] The Appellant contends that the Vendor was a “builder” for the purposes of the ETA based on his conclusion that she acquired the Property in 2015, that the existing dwelling was demolished, that she engaged the services of a general contractor to build a new home, that the premises were never occupied by her after its construction and that it was listed for sale shortly thereafter.
+[42] The Appellant relies on Sangha, Seni and Wall, described above, and submits that the Vendor was involved in a similar pattern of activity such that this Court should conclude that she was a “builder” and that she was engaged “in the course of a business or adventure or concern in the nature of trade.”
+[43] The difficulty with this argument is that in those proceedings, the court heard direct evidence from the taxpayers involved in the alleged business activity and possibly other independent witnesses, and then considered the various factors identified in Happy Valley Farms. Only then was the court able to conclude that the taxpayers were builders involved in a business endeavour.
+[44] In this instance, the Court does not have the benefit of any direct evidence from the Vendor or other independent witness as to the frequency of similar transactions, what her intention was when she acquired the Property or what her motive was for selling. The Court is thus unable to conduct the required analysis to reach a conclusion that the Vendor was a “builder”. Moreover, there is an absence of direct evidence as to what transpired between the date of acquisition of the Property by the Vendor in 2015 and the MLS Listing in 2018.
+[45] The Appellant’s particular version of the facts might be supported by the short article and glossy images in the Toronto Life magazine published once the Property had been listed for sale. However, that article was clearly intended as an advertisement to solicit interest and promote the new home. As the Appellant has acknowledged, it constitutes hearsay. It is thus inherently unreliable.
+[46] The other difficulty with the Appellant’s position is that he accepted the Vendor’s Declaration and Indemnity, also titled “Exempt Real Property Supply”, certifying and declaring that the sale of the Property “does not constitute a taxable supply” and that the Property was not capital property and was not acquired in the course of business or adventure or concern in the nature of trade.
+[47] That document is a sworn declaration. It is also a contractual document because paragraph 7 of the OREA Form required that the Vendor “certify on or before closing that the sale is not subject to HST”. The Vendor did so and the Appellant accepted the declaration and its contents on closing. The Appellant cannot simply dismiss, gloss over or ignore its contents and suggest to the Court that it is merely a self-serving document from the Vendor, even if it appears to contradict his observations as to the state of the Property. It very likely supports or is consistent with the Vendor’s filing position for tax purposes but that is a separate matter that is not before the Court in this appeal.
+[48] For these reasons, the Court must conclude that the Vendor was not a “builder” of a residential complex and that the sale was not a taxable supply. It follows that the Appellant has not met the requirements of paragraph 254(2)(a).
+[49] On that basis alone, the appeal should be dismissed. As noted by the Federal Court of Appeal in Ngai, in order to be successful in a claim for the NHR Rebate, the Appellant must satisfy all the requirements of subsection 254(2).
+[50] I will nonetheless summarily review the two remaining issues.
+Issue # 2: Did the Appellant pay GST/HST on the Purchase?
+Position of the Appellant
+[51] The Appellant acknowledges that to be eligible for the NHR Rebate, the particular individual must have paid GST/HST in respect of the taxable supply of Property pursuant to paragraph 254(2)(d).
+[52] The Appellant argues that the parties may agree that the purchase price is inclusive of GST/HST since paragraph 223(1)(b) of the ETA provides as follows:
+Disclosure of tax
+223(1) If a registrant makes a taxable supply, other than a zero-rated supply, the registrant shall indicate to the recipient, either in prescribed manner or in the invoice or receipt issued to, or in an agreement in writing entered into with, the recipient in respect of the supply,
+(…); or
+(a) that the amount paid or payable by the recipient for the supply includes the tax payable in respect of the supply.
+[53] The Appellant submits that according to paragraph 7 of the OREA Form, the parties agreed that the GST/HST would be included in the purchase price which was paid in full on closing. Therefore, it is argued, that the Appellant has met the requirement set out in paragraph 254(2)(d).
+Position of the Respondent
+[54] The Respondent submits that there is no evidence that the Appellant paid GST/HST on the purchase of the Property and that there is no document to suggest otherwise. It is argued that the Vendor’s Declaration and Indemnity accepted by the Appellant on closing, is also titled Exempt Real Property Supply, clearly indicating the Vendor’s intention to make an “exempt supply”.
+[55] The Respondent argues that the OREA Form does not provide that GST/HST shall be included in the purchase price. Rather, it provides that “If” the sale is subject to HST, such tax shall be included in the purchase price. It is also argued that the Statement of Adjustments do not mention GST/HST or suggest that it is included in the purchase price.
+Analysis of Issue # 2
+[56] The Court agrees with the Respondent that this argument must fail. As argued by counsel in closing submissions, the operative word in the OREA Form is “if”, as in “if the transaction is subject to HST, it shall be included”.
+[57] The word “if” grammatically introduces a condition: that is “if” the transaction involves a taxable supply, HST is exigible but it is also included in the purchase price. This also meant that the Appellant could not be called upon to pay more than the purchase price and if he was called upon to do so, he had the benefit of the indemnity described in the Vendor’s Declaration and Indemnity.
+[58] Moreover, subsection 223(1) refers to a “registrant” but there is no evidence that the Vendor was a registrant for GST/HST purposes or that the Appellant requested and obtained or was denied her registration information. The provision also refers to “the invoice or receipt issued to (…) the recipient in respect of the supply”. If the Statement of Adjustments is viewed as an invoice or receipt, there is again no mention of GST/HST. There is also no evidence that the Appellant requested an amendment to include GST/HST prior to closing.
+[59] The Court concludes that the Appellant has not satisfied paragraph 254(2)(d).
+Issue # 3: Was the Appellant the First Person to Occupy the Property?
+Analysis of Issue # 3
+[60] The Appellant submits that paragraphs 254(2)(f) and (g) provide that in order to be entitled to the NHR Rebate, “the new house must not have been occupied as a place of residence before the particular individual obtains possession, and the particular individual must be the first person to occupy the new house at any time after substantial completion of the construction”.
+[61] As summarized above, the Appellant was of the view that the Vendor never occupied the Property after the date of substantial completion. The Respondent has assumed that the Vendor occupied the Property as a place of residence.
+[62] On the basis of the Appellant’s testimonial evidence, the Court concludes that the Property had been almost entirely vacated (including dishes, utensils, clothing or bedding) when the MLS Listing was first posted in early 2018, leaving only a few items of furniture for staging purposes. But there is no evidence to suggest that these items did not belong to the Vendor to be retrieved on or prior to closing. Moreover, the Vendor may have consciously decided to minimize use of the premises by not installing window coverings, for example, and not using the kitchen appliances because of the anticipated listing of the Property.
+[63] The Court also finds that the Certificate of Completion and Possession signed prior to closing in the context of the new home warranty program, does not necessarily lead to the conclusion, without further evidence, that the home had never been occupied by the Vendor. Although the Tarion warranty program applies to “new” homes, it does not exclude homes used for a short-term purpose or temporary use such as a showroom. While this might not be consistent with the suggestion that the Property was occupied by the Vendor “as a place of residence or lodging” for the purposes of the ETA, the previous occupation of a home would impact “whether the statutory warranties and protections apply to the dwelling” as noted in the Tarion Advisory (Exhibit R-6, page 5). Since the Appellant filed a list of deficiencies and was able to obtain the maximum amount available under the warranty program, Tarion was not concerned with this or, alternately had no knowledge of the Vendor’s occupation of the Property.
+[64] The Appellant refers to a Tarion document titled “Types of Homes Not Covered” (Exhibit A-12) where it is noted that the “statutory warranties apply to new homes and accordingly, do not apply to homes that have been previously occupied by the vendor/builder or rented out by the vendor/builder and occupied by other persons before being sold to a purchaser”. Again, the fact that the warranty would not apply if the Property had been occupied by the Vendor, does not inexorably lead to the conclusion that the property was not in fact occupied for a period of time following completion of the renovations, issuance of an occupancy permit and preparation of the MLS Listing in early 2018.
+[65] On the basis of the evidence, the Court concludes that the Vendor acquired the Property sometime in 2015, that the existing dwelling was demolished and that the Property was registered with Tarion on June 21, 2016. But the Court has no evidence as to the date of issuance of an occupancy permit and thus can only speculate as to when the Vendor occupied the Property. It is not improbable that she occupied it at some point after the issuance of the occupancy permit, but then removed the bulk of her belongings to prepare for the anticipated sale.
+[66] The individual who could have testified as to her occupancy of the Property, was the Vendor herself. The Appellant did not call her as a witness.
+[67] The Court rejects the suggestion that the Minister had the onus of calling the Vendor as a witness or disclosing her income and business activities over the years, that information being obviously confidential. That submission must be rejected entirely because it is the Appellant who has the burden of proving, on the balance of probabilities, that he satisfied the requirements of subsection 254(2).
+IV. Conclusion
+[68] For all the foregoing reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 12th day of August, 2022.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2022 TCC 91
+COURT FILE NO.:
+2020-973(GST)I
+STYLES OF CAUSE:
+COREY LIBFELD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 7, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+August 12, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Angelo Gentile
+Monica Carinci
+Counsel for the Respondent:
+Natasha Mukhtar
+COUNSEL OF RECORD:
+For the Appellant:
+Angelo Gentile
+Monica Carinci
+Firm:
+Aird & Berlis LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

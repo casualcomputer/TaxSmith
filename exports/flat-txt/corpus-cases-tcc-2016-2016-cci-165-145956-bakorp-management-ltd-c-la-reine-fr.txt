@@ -1,0 +1,158 @@
+Title: Bakorp Management Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/145956/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-165-145956-bakorp-management-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-07-05
+
+# Bakorp Management Ltd. c. La Reine
+
+- Citation: 2016 CCI 165
+- Decision date: 2016-07-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2919, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bakorp Management Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-07-05
+Référence neutre
+2016 CCI 165
+Numéro de dossier
+2015-1101(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1101(IT)G
+ENTRE :
+BAKORP MANAGEMENT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 14 octobre 2015 à Toronto (Ontario)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocate de l’appelante :
+Me E. Rebecca Potter
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints :
+La requête de l’intimée en vue d’obtenir une ordonnance, en application des Règles de la Cour canadienne de l’impôt (procédure générale), rejetant l’appel est rejetée;
+L’intimée doit déposer une réponse à l’avis d’appel dans les 60 jours suivant la date de la présente ordonnance.
+Les dépens de 2 000 $, exigibles immédiatement, sont adjugés à l’appelante.
+Signé à Antigonish (Nouvelle-Écosse), ce 5e jour de juillet 2016.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 25e jour de juillet 2017.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 165
+Date : 20160705
+Dossier : 2015-1101(IT)G
+ENTRE :
+BAKORP MANAGEMENT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge D’Arcy
+[1] L’intimée a présenté une requête en vue d’obtenir une ordonnance rejetant l’appel ou, si cette mesure n’est pas accordée, une ordonnance prolongeant le délai imparti pour déposer une réponse à l’avis d’appel à 60 jours suivant la date de mon ordonnance. L’intimée demande également des dépens de 1 000 $ exigibles immédiatement.
+[2] L’appelante a interjeté appel devant la Cour le 17 mars 2015. L’appel porte sur le montant des pertes autres qu’en capital que l’appelante est autorisée à déduire dans sa déclaration pour l’année d’imposition se terminant le 10 mars 1992 (l’« année d’imposition de mars 1992 »).
+[3] L’avis d’appel énonce ce qui suit en ce qui concerne les déclarations de l’appelante auprès de l’Agence du revenu du Canada relativement à l’année d’imposition de mars 1992 et à l’égard des cotisations établies par le ministre :
+[TRADUCTION]
+11. Le 10 février 2011, le demandeur a produit sa déclaration de revenus pour l’année d’imposition de mars 1992 [...]
+[...]
+13. [...] dans un avis de cotisation daté du 6 juin 2012 (la « cotisation »), le ministre a établi une cotisation à l’égard de l’année d’imposition de mars 1992 refusant la déduction de 439 581 $ en pertes autres qu’en capital reportées prospectivement à cette année (et a appliqué les crédits d’impôt à l’investissement qui n’ont pas été inclus dans le calcul du revenu tel que produit).
+14. La cotisation a donné lieu à des impôts de 257 923 $ en vertu de la Partie I de la Loi et à une pénalité pour omission de produire une déclaration en application du paragraphe 162(1) de la Loi de 43 846 $.
+15. Dans un avis d’opposition daté du 4 septembre 2012, l’appelante s’est opposée à la cotisation.
+16. Dans un avis daté du 17 décembre 2014, le ministre a avisé l’appelante de la réduction de la pénalité pour omission de produire une déclaration imposée à l’égard de l’année d’imposition de mars 1992. L’avis mentionnait également ce qui suit :
+Le 26 juin 2013, une nouvelle cotisation a été établie, et comme il n’y avait pas de changement relativement à l’impôt, aucun avis de nouvelle cotisation n’a été émis. Cependant, la pénalité pour omission de produire une déclaration a été réduite de 22 400 $. Ce montant a été imputé au solde à payer pour l’année d’imposition se terminant le 10 mars 1992.
+17. Par les présentes, l’appelante interjette appel de la cotisation à la Cour.
+[4] Le paragraphe 18 de l’avis d’appel de l’appelante énonce que la question à trancher est la suivante :
+[TRADUCTION]
+Le revenu de l’appelante a-t-il été correctement calculé pour l’année d’imposition de mars 1992? Plus précisément, le montant des pertes autres qu’en capital pouvant être reportées prospectivement et appliquées à l’année d’imposition de mars 1992 a-t-il été sous-évalué de 439 581 $?
+[5] L’avis d’appel indique clairement que les parties ne s’entendent pas sur le montant des pertes autres qu’en capital que l’appelante est autorisée à déduire en vertu de l’article 111 de la Loi de l’impôt sur le revenu (la « Loi »). Les parties ne s’entendent pas non plus sur l’application du paragraphe 152(4.3) de la Loi.
+[6] Dans son avis d’appel, l’appelante s’appuie, en partie, sur les faits suivants pour étayer son argument juridique :
+[TRADUCTION]
+3. L’appelante et le ministre du Revenu national (le « ministre ») étaient engagés l’un contre l’autre dans un vaste litige concernant la nouvelle cotisation de l’appelante pour l’année d’imposition 1989 (l’« appel de 1989 »), dont le résultat déterminerait, notamment, la valeur de certaines actions (les « actions ») et le montant des pertes autres qu’en capital qui pourraient être reportées prospectivement.
+[...]
+8. Conformément au procès-verbal de transaction modifié, qui a été dûment signé le 15 avril 2010, l’appelante et le ministre sont parvenus à un règlement en ce qui concerne l’appel de 1989. En conséquence de ce règlement, la valeur des actions a été déterminée et le montant des pertes autres qu’en capital de l’appelante pouvant être reportées prospectivement a été augmenté (mais pas au montant que l’appelante souhaitait).
+9. Puisque la résolution de l’appel de 1989 a donné lieu à un solde réduit sur les reports prospectifs pour des pertes autres qu’en capital, il fallait prendre des décisions sur la façon de bien appliquer le montant révisé des pertes autres qu’en capital pouvant être reportées.
+10. Dans une demande écrite datée du 7 décembre 2010 faite conformément au paragraphe 152(4.3) de la Loi (la « demande »), l’appelante a demandé que le ministre réduise le montant des pertes autres qu’en capital reportées prospectivement et appliquées par l’appelante à son année d’imposition se terminant le 18 janvier 1992 (l’« année d’imposition de janvier 1992 ») de 439 581 $ et qu’il applique plutôt 74 312 $ de crédits d’impôt à l’investissement disponibles pour cette année, préservant ainsi les pertes autres qu’en capital pouvant être reportées pour l’année d’imposition de mars 1992.
+11. Le 10 février 2011, l’appelante a produit sa déclaration de revenus pour l’année d’imposition de mars 1992 en fonction du résultat de l’appel de 1989 et en tenant compte du fait que la demande serait approuvée conformément au paragraphe 152(4.3) de la Loi. Sur ces bases, l’appelante a déduit 51 960 121 $ de pertes autres qu’en capital (montant qui comprenait les 439 581 $ de pertes autres qu’en capital que l’appelante a demandé au ministre de supprimer de l’année d’imposition de janvier 1992, comme il est décrit au paragraphe 10 ci-dessus).
+12. Dans une lettre datée du 23 novembre 2011, le ministre, à la surprise de l’appelante, a rejeté la demande, le résultat étant que les 439 581 $ de pertes autres qu’en capital reportées prospectivement de l’année d’imposition 1989 de l’appelante ont continué d’être appliquées à l’année d’imposition de janvier 1992.
+La thèse de l’intimée [7] La thèse de l’intimée est que l’appel de l’appelante devrait être rejeté parce que la Cour n’a pas la compétence requise pour accorder la mesure de redressement demandée par l’appelante.
+[8] L’avocate de l’intimée, dans sa plaidoirie, a donné les trois motifs suivants pour lesquels la Cour n’a pas la compétence requise :
+1. La compétence de la Cour canadienne de l’impôt exclue la possibilité de rendre une ordonnance de mandamus.
+2. La Cour n’a pas compétence pour obliger le ministre à établir une nouvelle cotisation en vertu du paragraphe 152(4.3) de la Loi.
+3. La Cour canadienne de l’impôt n’a pas compétence pour rendre une ordonnance concernant une année d’imposition qui n’a pas été présentée à la Cour.
+[9] L’intimée a fait valoir que la seule façon pour la Cour d’accueillir l’appel de l’appelante est en ordonnant au ministre d’établir une nouvelle cotisation pour l’année d’imposition de mars 1992 de l’appelante, pour le motif que les pertes autres qu’en capital de 439 581 $ subies dans son année d’imposition 1989 ne s’appliquent plus à l’année d’imposition de janvier 1992 et peuvent être appliquées à l’année d’imposition de mars 1992.
+[10] De l’avis de l’intimée, un tel résultat équivaudrait à rendre une ordonnance de mandamus contre le ministre.
+La décision de la Cour [11] Pour les motifs suivants, je dois rejeter la requête de l’intimée.
+[12] La Cour a compétence pour entendre l’appel et accorder la mesure de redressement demandée par l’appelante.
+[13] Le ministre a établi, en vertu de l’article 152, la cotisation pour l’année d’imposition de mars 1992 de l’appelante. L’appelante s’est ensuite opposée à la cotisation, en vertu de l’article 165. Elle interjette maintenant appel, en vertu de l’article 169, afin de faire modifier la cotisation. La décision portant sur le bien-fondé de la cotisation est de la compétence de la Cour. En fait, la Cour a compétence exclusive pour entendre un tel appel. Comme l’a souligné la Cour d’appel fédérale dans l’arrêt Canada (Revenu national) c. JP Morgan Asset Management (Canada) Inc.[1] :
+La validité des cotisations. La Cour canadienne de l’impôt a compétence exclusive quant à l’examen des cotisations au moyen d’un appel dont elle est saisie. Les articles 165 et 169 de la Loi de l’impôt sur le revenu établissent une procédure d’appel complète qui permet au contribuable de soulever devant la Cour canadienne de l’impôt toutes les questions relatives au bien-fondé des cotisations, à savoir si les cotisations sont fondées sur les faits et conformes à la loi applicable [...]
+[14] L’intimée indique en effet que l’appelante ne pouvait pas appliquer 439 581 $ de pertes autres qu’en capital à l’année d’imposition de mars 1992 parce que le ministre n’avait pas accueilli la demande relative au paragraphe 152(4.3).
+[15] L’appelante n’est pas d’accord. Au paragraphe 21 de son avis d’appel, elle soutient [TRADUCTION] qu’« en application de la Loi », la demande écrite datée du 7 décembre 2010 faite conformément au paragraphe 152(4.3) de la Loi a eu pour conséquence de lui permettre d’avoir 439 581 $ supplémentaires de pertes autres qu’en capital pouvant être reportées prospectivement et appliquées à l’année d’imposition de mars 1992. En réalité, l’appelante soutient que, compte tenu des faits, le ministre n’a pas besoin de prendre de mesure; les pertes autres qu’en capital existent en vertu de la Loi.
+[16] L’avis d’appel de l’appelante est un appel adéquat d’une cotisation. L’appelante demande à la Cour d’accueillir son appel en raison de l’application de la loi à ces faits pertinents. Elle ne demande pas à la Cour d’examiner la décision du ministre ni de rendre une ordonnance de mandamus. Si je comprends bien l’argument de l’appelante, elle dit que la décision du ministre n’est pas pertinente compte tenu des dispositions de la Loi.
+[17] L’appelante demande à la Cour de déterminer le montant qu’elle pouvait déduire dans l’année d’imposition de mars 1992 relativement au report des pertes autres qu’en capital. Une telle question litigieuse est recevable devant la Cour. Comme l’a indiqué l’ancien juge en chef Bowman dans la décision Aallcann Wood Suppliers Inc. c. Canada, au paragraphe 4,[2]
+[...] En contestant la cotisation portant sur une année pour laquelle de l’impôt est payable au motif que le ministre a incorrectement calculé le montant d’une perte relative à une année antérieure ou subséquente qui peut être déduite en vertu de l’article 111 dans le calcul du revenu imposable du contribuable pour l’année en question dans l’appel, le contribuable demande à la Cour de faire précisément ce que prévoient les dispositions de la Loi de l’impôt sur le revenu en matière d’appel : déterminer l’exactitude d’une cotisation d’impôt en examinant la justesse d’un ou de plusieurs de ses éléments constituants, soit en l’espèce le montant d’une perte d’une autre année pouvant être déduite.
+[18] Il me semble que l’intimée soutient que la Cour devrait rejeter l’appel sur la foi qu’il n’a aucune chance de succès. Toutefois, puisque les règles de la Cour ne prévoient pas un jugement sommaire, l’intimée me demande en fait de radier l’acte de procédure de l’appelante.
+[19] La Cour suprême du Canada a énoncé le critère pour radier un acte de procédure dans l’arrêt R. c. Imperial Tobacco Canada Ltée[3], comme suit :
+[...] La Cour a réitéré ce critère à maintes reprises : l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable : Succession Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, par. 15; Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, p. 980. Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours : voir généralement Syl Apps Secure Treatment Centre c. B.D., 2007 CSC 38, [2007] 3 R.C.S. 83; Succession Odhavji; Hunt; Procureur général du Canada c. Inuit Tapirisat of Canada, [1980] 2 R.C.S. 735.
+[20] Est-il évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration de l’appelante ne révèle aucune cause d’action raisonnable?
+[21] Non, l’appelante a interjeté appel d’une cotisation sur la foi de son interprétation de dispositions précises de la Loi, en particulier les articles 3 et 111, et les paragraphes 152(4.3), 152(4.4) et 162(1). Le juge saisi de la requête n’a pas à déterminer le bien-fondé de l’argument juridique de l’appelante.
+[22] Les parties présenteront les faits pertinents et leur interprétation de la loi à la Cour. Le juge qui préside décidera alors, en s’appuyant sur ces faits et en exprimant son opinion sur le droit, le montant des pertes autres qu’en capital que l’appelante est autorisée à déduire dans son année d’imposition de mars 1992. Après avoir déterminé son revenu imposable pour l’année d’imposition de mars 1992, il se peut très bien que l’appelante ne soit pas autorisée à déduire les 439 581 $ de pertes autres qu’en capital. Dans ce cas, le juge qui préside déterminera que la cotisation est exacte et rejettera l’appel.
+[23] Pour les motifs ci-dessus, la requête est rejetée. Des dépens de 2 000 $ sont adjugés à l’appelante.
+[24] L’intimée dispose de soixante jours à compter de la date de la présente ordonnance pour déposer sa réponse à l’avis d’appel.
+Signé à Antigonish (Nouvelle-Écosse), ce 5e jour de juillet 2016.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 25e jour de juillet 2017.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 165
+NO DU DOSSIER DE LA COUR :
+2015-1101(IT)G
+INTITULÉ :
+BAKORP MANAGEMENT LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 octobre 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE :
+Le 5 juillet 2016
+COMPARUTIONS :
+Avocate de l’appelante :
+Me E. Rebecca Potter
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me E. Rebecca Potter
+Cabinet :
+Thorsteinssons s.r.l.
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 2013 CAF 250, [2014] 2 R.C.F. 557, au paragraphe 82.
+[2] [1994] A.C.I. no 280 (QL).
+[3] 2011 CSC 42, [2011] 3 R.C.S. 45, au paragraphe 17.

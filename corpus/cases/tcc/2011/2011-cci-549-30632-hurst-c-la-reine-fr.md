@@ -1,0 +1,154 @@
+---
+title: "Hurst c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30632/index.do"
+last_modified: "2011-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 549"
+citation2: ""
+neutral_citation: "2011 CCI 549"
+decision_date: "2011-12-06"
+language: "fr"
+item_id: "30632"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7126
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:25:07.987000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0d668efa38c36a8ad2edd58e65a39a10b717d0a425dc9dc1fe5a2deb9cd6cf3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hurst c. La Reine
+
+- Citation: 2011 CCI 549
+- Decision date: 2011-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7126, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hurst c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-06
+Référence neutre
+2011 CCI 549
+Numéro de dossier
+2011-1147(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1147(IT)I
+ENTRE :
+KEN HURST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 30 novembre 2011, à Toronto (Ontario)
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+M. David Heti, stagiaire en droit
+_______________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l'appel interjeté à l'encontre de la cotisation établie par le ministre du Revenu national le 4 juin 2009 à l'égard de l'année d'imposition 2008 est annulé, et l'appel interjeté à l'encontre de la cotisation établie le 6 mai 2010 à l'égard de l'année d'imposition 2009 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de février 2012.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 549
+Date : 20111206
+Dossier : 2011-1147(IT)I
+ENTRE :
+KEN HURST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] La Cour est appelée à se prononcer sur la déductibilité de certains montants que l'appelant, Ken Hurst, a payés à son épouse en 2008 et en 2009, à la suite de leur séparation en juillet 2008.
+L'appel relatif à l'année 2008
+[2] Vu la requête de l'intimée, l'appel relatif à la cotisation établie le 4 juin 2009 pour l'année d'imposition 2008 a été annulé à l'audience pour le motif que M. Hurst n'avait pas déposé d'avis d'opposition à l'égard de cette cotisation et qu'une nouvelle cotisation a été établie le 31 août 2011 (affidavit souscrit par Warren O'Dwyer le 28 novembre 2011).
+L'appel relatif à l'année 2009
+[3] Les faits qui ont mené à l'appel de la cotisation établie pour l'année 2009 ne sont pas contestés. M. Hurst a quitté le foyer conjugal en juillet 2008. Environ un an plus tard, le 10 juin 2009, une ordonnance sur consentement[1] (l'« ordonnance de juin 2009 ») obligeait M. Hurst à payer à son épouse les sommes suivantes :
+[TRADUCTION]
+1. [...] 15 000 $ en règlement définitif et intégral du montant de pension alimentaire pour conjoint non payé jusqu'au 30 juin 2009 inclusivement, payable au plus tard le 13 juillet 2009;
+2. [...] pension alimentaire pour conjoint provisoire de 2 650 $ mensuellement, payable le premier jour de chaque mois à partir du 1er juillet 2009 [...].
+[Non souligné dans l'original.]
+[4] Entre le moment où M. Hurst a quitté le foyer conjugal en juillet 2008 et le moment où l'ordonnance de juin 2009 a été rendue, il n'existait pas d'ordonnance judiciaire ou d'accord écrit obligeant M. Hurst à verser une pension alimentaire à son épouse. Néanmoins, pendant cette période, M. Hurst a payé les impôts fonciers et l'électricité pour le foyer conjugal directement aux créanciers concernés et il a, à l'occasion, versé à son épouse des sommes diverses. Le montant payé avant l'ordonnance de juin 2009 s'élevait à 16 065,22 $[2] (les « paiements divers »).
+[5] Une fois rendue l'ordonnance de juin 2009, laquelle établissait la pension alimentaire pour conjoint mensuelle à 2 650 $, les parties ont déterminé que de juillet 2008 à juillet 2009, M. Hurst aurait dû verser 34 450 $ à son épouse[3]. Plus tard, afin de tenir compte du paiement de la pension alimentaire provisoire dû le 1er juillet 2009, 2 650 $ ont été soustraits de la somme de 34 450 $; les parties ont convenu que le solde restant était de 15 734,78 $[4]. À l'issue de négociations subséquentes, ce montant a été arrondi à 15 000 $; c'est à ce montant que renvoie le paragraphe 1 de l'ordonnance de juin 2009 (la « somme forfaitaire »).
+La question en litige
+[6] Dans sa déclaration de revenus pour l'année d'imposition 2009, M. Hurst a demandé une déduction pour le versement d'une pension alimentaire pour conjoint relativement aux sommes payées de juillet 2008 à juin 2009, soit les paiements divers de 16 065,22 $ et la somme forfaitaire de 15 000 $.
+[7] Le ministre n'a pas accordé la déduction demandée parce que les sommes en question ne répondaient pas à la définition du terme « pension alimentaire », telle qu'elle a été établie au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu et dont les parties pertinentes sont ainsi rédigées :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire [...] si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux [...] du payeur et vit séparé de celui‑ci pour cause d'échec de leur mariage [...] et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+[...]
+[Non souligné dans l'original.]
+[8] Selon M. Hurst, avant que le montant de la pension alimentaire mensuelle à verser à son épouse ne soit fixé par la Cour de la famille, il lui était impossible de savoir quelles étaient les sommes à verser. En attendant que ce montant soit déterminé, il a essayé de faire [TRADUCTION] « la bonne chose », en continuant de se charger de certains coûts relatifs au foyer conjugal et d'aider son épouse sur le plan financier. M. Hurst a soutenu qu'il pouvait être inféré de l'ordonnance de juin 2009 et de la correspondance entre les parties que les paiements divers et la somme forfaitaire avaient été versés à titre de pension alimentaire pour conjoint pendant la période précédant l'ordonnance de juin 2009 et que, par conséquent, tout le montant de la déduction qu'il demande devrait lui être accordé.
+Analyse
+[9] D'un point de vue pratique, l'argument de M. Hurst n'est pas sans attrait. Cependant, le droit de M. Hurst à une déduction à l'égard de la pension alimentaire pour conjoint ne découle pas du bon sens, mais plutôt de sa capacité de répondre aux critères précis établis par la loi. Je regrette de dire que M. Hurst n'est pas arrivé à le faire.
+[10] Je souscris aux observations de M. Heti, stagiaire en droit, à savoir que la nature des paiements divers et de la somme forfaitaire fait en sorte que ceux‑ci ne répondent pas à la définition du terme « pension alimentaire » au sens de la Loi.
+[11] En ce qui concerne les paiements divers, M. Hurst a admis volontiers qu'il les avait versés de façon volontaire plutôt qu'aux termes d'une ordonnance d'un tribunal ou d'une entente écrite, comme l'exige le paragraphe 56.1(4). De plus, les paiements relatifs aux impôts fonciers et à l'électricité ont été faits directement aux créanciers et non à l'épouse de M. Hurst, de sorte que son épouse ne pouvait pas les utiliser « à sa discrétion », comme l'exige la définition donnée dans la Loi.
+[12] Quant à la somme forfaitaire, bien qu'en certaines circonstances une somme forfaitaire puisse être considérée comme une « pension alimentaire », la chose est impossible en l'espèce. La somme forfaitaire ne répond pas à la définition du terme « pension alimentaire » parce qu'elle n'a pas été versée de manière « périodique »[5] et n'était pas non plus liée à quelque obligation préexistante de payer une pension alimentaire de manière périodique[6]. Le fait que la somme forfaitaire de 15 000 $ ne corresponde pas exactement aux 15 734,78 $ que devait réellement l'appelant fait ressortir cette difficulté; à la grande déception de M. Hurst, elle correspond à un règlement des arriérés négocié entre les parties. L'appelant pourra peut‑être trouver un certain réconfort dans le fait que la nature juridique de ce montant n'aurait pas été autre même s'il n'y avait pas eu arrondissement de cette somme. Dans le contexte de la présente affaire, le fait de renvoyer dans l'ordonnance de juin 2009 à une somme représentant le règlement du « montant de pension alimentaire pour conjoint non payé » ne peut suffire à faire de cette somme une « pension alimentaire » au sens de la Loi.
+[13] Pour les motifs qui précèdent, l'appel interjeté à l'égard de la cotisation établie pour l'année d'imposition 2008 est annulé et l'appel interjeté à l'égard de la cotisation établie pour l'année d'imposition 2009 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2011.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de février 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 549
+NO DU DOSSIER DE LA COUR : 2011-1147(IT)I
+INTITULÉ : KEN HURST ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 30 novembre 2011
+MOTIFS DU JUGEMENT : L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 6 décembre 2011
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+M. David Heti, stagiaire en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1, onglet 3.
+[2] Pièce R-1, onglet 1.
+[3] Pièce R-1, onglet 1.
+[4] Pièce R-1, onglet 4.
+[5] Tossell c. La Reine, 2005 CAF 223, au paragraphe 31.
+[6] Précité, au paragraphe 36.

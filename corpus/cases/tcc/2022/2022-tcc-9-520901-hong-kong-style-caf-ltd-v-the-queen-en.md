@@ -1,0 +1,681 @@
+---
+title: "Hong Kong Style Café Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520901/index.do"
+last_modified: "2022-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 9"
+citation2: ""
+neutral_citation: "2022 TCC 9"
+decision_date: "2022-02-11"
+language: "en"
+item_id: "520901"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4438
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:38:08.932000+00:00"
+cases_cited_count: 16
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8dbcbcc2da770d7ce34db37ac9faed720bdb2e7fec485ebd4d5910aa1ceb123"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hong Kong Style Café Ltd. v. The Queen
+
+- Citation: 2022 TCC 9
+- Decision date: 2022-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4438, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hong Kong Style Café Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-02-11
+Neutral citation
+2022 TCC 9
+File numbers
+2017-2747(IT)G, 2017-2749(GST)G, 2017-2753(IT)G, 2017-2754(GST)G, 2017-3727(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Notes
+Decision Content
+Dockets: 2017-2747(IT)G
+2017-2749(GST)G
+BETWEEN:
+HONG KONG STYLE CAFÉ LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2017-2753(IT)G
+2017-2754(GST)G
+AND BETWEEN:
+EMERALD SEAFOOD RESTAURANT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3727(IT)G
+AND BETWEEN:
+DECADE CHUN PING OR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard by written representations
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Jehad Haymour Sophie Virgi
+Counsel for the Respondent:
+Valerie Meier Katherine Creelman Amanda Wall
+ORDER
+UPON MOTION brought by the Appellant for an Order to strike portions of the reply;
+AND UPON reading the materials filed, containing the submissions and argument of respective counsel for the Appellants and Respondent;
+AND UPON publishing its reasons for order on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The motion to strike portions of certain assumptions in the reply is dismissed; and,
+Costs on the motion shall be reserved for determination by the trial judge in the cause.
+Signed at Ottawa, Canada, this 11th day of February, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022 TCC 9
+Date: 20220211
+Dockets: 2017-2747 (IT)G
+2017-2749(GST)G
+BETWEEN:
+HONG KONG STYLE CAFÉ LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2017-2753(IT)G
+2017-2754(GST)G
+AND BETWEEN:
+EMERALD SEAFOOD RESTAURANT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-3727(IT)G
+AND BETWEEN:
+DECADE CHUN PING OR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. INTRODUCTION
+[1] The Appellants in these case managed appeals bring this motion to strike certain assumptions within the Minister’s reply.
+[2] The motion is brought under section 53 of the Tax Court of Canada Rules (General Procedure). A relevant excerpt of that section of the Rules provides:
+53 (1) The Court may … on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document:
+(a) may prejudice or delay the fair hearing of the appeal;
+…
+(c) is an abuse of the process of the Court;
+[…]
+[3] The summary background to these assessments involve three companies operating asian food restaurants at multiple locations. The Minister assessed the Appellants for tax liability and penalties for 3 taxation years and periods: 2006, 2007 and 2008 and related GST reporting periods. The Minister asserts that the Appellants underreported income and the Appellant shareholder, Mr. Or, appropriated company revenue. Based upon the Minister’s assumptions and other grounds in the reply, the corporate Appellants (“companies”) used “zapping” software to delete or suppress recorded or cash transaction within point of sale (POS) records. The companies used the diminished record of underrecorded receipts to report lesser income, taxable supplies and GST. This allegedly allowed the Appellants to pocket the “vanished” cash sales. Under section 163(2) of the Income Tax Act, RSC 1985, c.1, as amended the (“ITA”) and under section 285 of the Excise Tax Act, RSC 1985, c.E-15, as amended (the “ETA”), penalties were also imposed. Certain, taxation years and reporting periods are outside the normal reassessment period and section 152(4) of the ITA and section 298 of the ETA are relied upon by the Minister to assess outside those periods.
+II. THE PARTIES SUBMISSIONS REGARDING THE MOTION
+The Appellants
+i) Overarching arguments and submissions
+[4] Generally, the Appellants’ grounds in bringing this motion are best summarized as follows:
+i) The issue at the heart of this motion is the need for a determination as to which facts in the replies to the notices of appeal must be proven by the Respondent; [1]
+ii) The Minister’s assessments are primarily, if not solely, based on the use of a “novel and unproven algorithm”, the electronic commerce audit section analysis program “ECAS Algorithm” or “Algorithm”. [2] Specific admissions by the ECAS auditor to substantiate the claim that the Minister’s assessments were raised exclusively on the basis of the ECAS Algorithm. Further, the only connection to the Appellants is the raw point-of-sale data obtained during the audit, in turn analyzed by the auditor using the Algorithm. [3] Otherwise, the Minister cannot substantiate its purported unreported cash amounts by reference to any bank statements or other financial information of any of the Appellants; [4]
+iii) The Algorithm, solely developed and used by the auditors, renders the Minister the only party in full possession of any and all information relating to the ECAS Algorithm, the factual basis for the assessments. [5] Consequently, the Appellants are not in a position to disprove any assumptions of fact or factual conclusions in the replies related to the ECAS Algorithm. Allowing these assumptions to remain requires the Appellants to disprove at trial the facts of the Minister’s Algorithm;
+iv) On this basis, the Minister, not the Appellants, should carry the burden of proof associated with the ECAS Algorithm and analysis; [6] and,
+v) Lastly, this motion under Rule 53 is not premature; such a determination at this interlocutory stage is justifiable, given the costs and the undue prejudice that would result from the need to disprove the ECAS Algorithm. [7]
+ii) Grouping of assumptions challenged
+[5] Specifically, the Appellants’ challenge itemized assumptions in the Minister’s reply. Minutely repeating each challenged paragraph within each reply is unnecessary to understanding the Appellants’ grouped arguments, which challenge the patterned assumptions among the four Appellants. Instead, to assist in these reasons, Appendix A is attached. Within Appendix A, the groups of arguments may be aligned with the nature of the assumption and the grouped assembled evidence from the Appellants’ affidavit materials. Across the replies of the three companies are the reply paragraphs, sorted by type of assumption, in turn, cross-referenced to the common grounds for striking the paragraph (“Argument Sets”) and the collated evidentiary basis (“Evidence Sets”) for doing so.
+[6] Generally, the groupings of arguments are sorted and described as follows within two Argument Sets:
+Argument Set I with reference to ECAS Algorithm and information sources
+The assumption in the reply refers to the Profitek software system generally and not to the specific system used by the Appellants; [8]
+The ECAS Algorithm is the source of information for the assumption; [9]
+Neither the Appellants nor their employees are the source of the information underlying the assumption. [10]
+Arguments Set II with reference to assumptive conclusions emanating from the ECAS Algorithm rather than Appellants’ records or physical audit [11]
+The assumption is a factual conclusion made by the ECAS Auditor and CRA Auditor based solely on the ECAS Algorithm by applying the Algorithm to the raw POS Data; [12]
+The only connection between the assumption and the Appellants and in raising the Prior Reassessments is the Raw POS Data; [13]
+The assumption is not based on a review by the CRA Auditor of Financial Records. [14]
+iii) Evidence Sets in support of striking assumptions
+[7] The Appellants argue these Argument Sets are reliably proven by the answers given below and specifically referenced against each paragraph in each company’s reply in Appendix A. In affidavit form, the Appellants assert that the following Evidence Sets given by the Respondent’s representative during discoveries prove the reply assumptions are mere camouflage for the data derived from the ECAS Algorithm:
+Evidence Set 1: Admitted by the Respondent at Exhibit B – Request Response 93, 98, Exhibit C – Transcript pp. 238-249. [15]
+Evidence Set 2: Factual conclusions made by the ECAS Auditor and the CRA Auditor: Exhibit B – Request Response 95(a), 95(b), 100(a), 100(b), 102(a), 102(b). [16]
+Evidence Set 3: Factual conclusions made by ECAS based only on applying the ECAS Theory to the Appellants’ Raw POS Data: Exhibit B – Request Response 95(c), 100(c), Exhibit C – Transcript pp 245, 246, 253, 254, 258-268, 275-283, 285, 286. [17]
+Evidence Set 4: The only connection to the Appellant in making the factual assumption referenced in the specific paragraph and in raising the Prior Reassessments is the Appellants’ Raw POS Data: Exhibit B – Request Response 95(d), 100(d). [18]
+Evidence Set 5: Assumptions were not based on any review by the CRA Auditor of the Appellants’ Financial Records: Exhibit B – Request Response 95(e), 100(e), 102(e). [19]
+[8] As noted, across the companies’ appeals, the critical assumptions charted against the Argument Sets and Evidence Sets are best described in the chart attached as Appendix A to these Reasons for Order. The assessment of Mr. Or utilizes similar grouped assumptions, but in a consequential format because of the shareholder benefit species of his assessment. It is awkward and superfluous to the purpose to infuse completely that reply into Appendix A, so it is done partially. In any event, the motion evidence, analysis and conclusions apply logically from the companies’ replies over to Mr. Or’s reply.
+The Respondent
+i) The Appellants “own” the disputed facts exposed by the assumptions
+[9] In response, the Respondent submits that the disputed assumptions do not relate to facts exclusively or peculiarly within the knowledge of the Minister. [20] As such, the Appellants bear the burden to disprove the assumptions of the Minister by presenting competing evidence at trial. [21]
+[10] Specifically, the Respondent submits that it is exclusively within the Appellants’ knowledge whether or not they deleted line items in their system databases and whether or not the shareholder, Mr. Or, appropriated cash from his restaurants. [22] The fact that the audit work involved reviewing electronic sales records, instead of paper sales records, is no basis for striking the Minister’s factual assumptions. [23]
+ii) The disputed evidence is for the trial judge
+[11] The Respondent argues that it is premature to determine the burden of proof as this is a matter to be decided by the trial judge after having had the benefit of all of the evidence laid before the Court. [24]
+iii) The Appellants’ reported income is the nub of the dispute
+[12] The Respondent asks the Court to give no weight to the Appellants’ alleged need to incur costly expert fees to disprove the ECAS algorithm use by the Minister’s agents. [25] Further, if the trial judge accepts that suppression of records did occur, critiques of the audit work and the ECAS Algorithm will not be sufficient for the Appellants to discharge their burden of proof. [26] The Appellants will still have to present evidence to satisfy the trial judge that their reported income is more likely than not preferable to those used by the Minister to levy the reassessments. [27]
+III. THE LAW
+The burden of proof in tax appeals
+[13] Submissions of both parties focus on the Minister’s assumptions and who bears the burden of proof regarding the issues arising before the Tax Court. The burden of proof in tax appeals is somewhat nuanced, but not quite unique. Many believe it is substantively unique. Undoubtedly, this feeds the mystique, but does not by itself make it so. Recently, further clarity has been added. In Sarmadi, Justice Webb summary in obiter dictum provides, often a very thorough review of the law on the burden of proof in tax appeals. [28]
+63 Once all of the evidence is presented, the Tax Court judge should then (and only then) determine whether the taxpayer has satisfied this burden, the burden of proof. If the taxpayer has, on the balance of probabilities, disproven the particular facts assumed by the Minister, based on all of the evidence, there is no burden to shift to the Minister to disprove what the Tax Court judge has determined that the taxpayer has proven. Either the taxpayer has disproven the assumed facts or he, she or it has not.
+[14] In the same case, Justice Stratas invited Tax Court judges to issue comments and provide insight on the matter. [29] A year later in Morrison, [30] Justice Owen largely agreed with the views expressed by Justice Webb in Samardi and provided another overview of the law of the burden of proof in tax appeals. [31] Justice Owen fulsomely wrote:
+[72] I will start by observing that there are only two burdens recognized by Canadian law: the burden of proof (which I will refer to as the “persuasive burden”) and the evidential burden. In The Queen v. Fontaine, 2004 SCC 27 (“Fontaine”), a unanimous nine judge panel of the Court summarily describes these two burdens at paragraphs 10 to 12:
+We are concerned with the evidential burden on a defence of mental disorder automatism and not with the “persuasive” burden [i.e., the burden of proof] on that defence.
+An “evidential burden” is not a burden of proof. It determines whether an issue should be left to the trier of fact, while the “persuasive burden” determines how the issue should be decided.
+These are fundamentally different questions. The first is a matter of law; the second, a question of fact. . . . [Emphasis added by Court]
+[73] A party with an evidential burden has the responsibility to ensure there is sufficient evidence of the existence or non-existence of a particular fact or issue to pass the threshold test for that particular fact or issue but is not required to actually prove anything. Whether an evidential burden is met is a question of law determined by the trial judge. Common examples of when an evidential burden must be met are by the plaintiff on a motion by the defendant for non-suit, by the Crown in a motion by the accused for a directed verdict and by the accused in order to place certain positive defences before the trier of fact.
+[74] A party with a persuasive burden must prove the facts material to the issue(s) in question to the civil or criminal standard of proof. The civil standard of proof is always on a balance of probabilities: H. (F.) v. McDougall, 2008 SCC 53 (“McDougall”) and Merck Frosst Canada Ltd. v. Canada (Health), 2012 SCC 3 (“Merck Frosst”) at paragraph 94.
+[75] As stated by Justice Webb in Sarmadi, whether a persuasive burden is met is determined by the trier of fact at the conclusion of the case (i.e., after the evidence of both parties has been placed into the record). In Robins v. National Trust Co., 1927 CanLII 469 (UK JCPC), [1927] A.C. 515 (“Robins”), the Privy Council describes the role of the persuasive burden as follows:
+But onus as a determining factor of the whole case can only arise if the tribunal finds the evidence pro and con so evenly balanced that it can come to no sure conclusion. Then the onus will determine the matter. But if the tribunal, after hearing and weighing the evidence, comes to a determinate conclusion, the onus has nothing to do with it, and need not be further considered.
+[76] The substantive law determines which, if any, of the two burdens is assigned to a party. Typically, the party with the persuasive burden for a fact or issue also has the evidential burden for that fact or issue. In civil actions, the plaintiff typically bears the persuasive burden because the plaintiff is seeking to change the status quo.
+[77] Importantly, once a persuasive burden or evidential burden is assigned to a party that burden does not “shift” to the other party. The authors of SLB state this point as follows:
+The authorities and the jurisprudence often refer to the shifting of the evidential burden or the persuasive (legal) burden of proof.
+Except for the operation of presumptions of law or rebuttable statutory provisions, these burdens do not shift.
+Who bears the Burden of Proof in Tax Appeals?
+[15] The party that has the burden of proof must prove the facts material to the issue. Under the general rule in other civil cases, the party alleging a particular fact must prove it. [32] In such civil matters, the applicable standard of proof to which facts are proved is “on a balance of probabilities”. [33] The burden of proof is a question of fact. [34]
+Assumption(s) matter(s)
+[16] In tax appeals, the taxpayer bears the burden of proof regarding the correctness of assessments (or more precisely proving the incorrectness) of disputed income tax (re)assessed by the Minister, barring certain exceptions. [35] This is consistent with the general rule for civil cases, since the taxpayer is the one challenging the correctness of the assessment (the status quo). [36] Once the burden of proof is assigned to a party that burden does not shift to the other party. [37]
+[17] In issuing an assessment, the Minister is permitted to rely on assumptions of fact since the pertinent facts are generally within the peculiar knowledge of the taxpayer. However, the Minister is under certain obligations as it relates to her assumptions of fact. As stated by Justice Létourneau in Anchor Pointe Energy Ltd. v. R. [38] [underlining in original]:
+27 In our self-reporting system of taxation, the Minister makes assumptions of fact in determining the tax liability of a taxpayer. As Rothstein J.A., as he then was, said in Anchor Pointe Energy Ltd. v. R., supra, “the practice is for the Crown to disclose in its pleadings assumptions of fact made by the Minister upon which his determination of the tax owing is based”; see paragraph 2. In the words of Bowman A.C.J.T.C., as he then was, these assumptions “are supposed to be a full and honest disclosure of the facts upon which the Minister of National Revenue relied in making the assessment”: Holm v. R. (2002), 2003 D.T.C. 755 (T.C.C. [General Procedure]), at paragraph 9.
+28 When pleaded, assumptions of fact place on the taxpayers the initial onus of disproving, on a balance of probabilities, the facts that the Minister assumed: see Anchor Pointe Energy Ltd. v. R., supra, at paragraph 2, Hickman Motors Ltd. v. R., [1997] 2 S.C.R. 336 (S.C.C.), at paragraph 92. Unpleaded assumptions have no effect on the burden of proof one way or the other: see Bowens v. R. (1996), 96 D.T.C. 6128 (Fed. C.A.), at page 6129, Pollock v. R. (1993), 94 D.T.C. 6050 (Fed. C.A.), at page 6053.
+29 Fairness requires that the facts pleaded as assumptions be complete, precise, accurate and honestly and truthfully stated so that the taxpayer knows exactly the case and the burden that he or she has to meet: Anchor Pointe Energy Ltd. v. R., supra, at paragraph 23, Holm v. R., supra, Loewen v. R., [2004] 4 F.C.R. 3 (F.C.A.) , at paragraph 9., Grant v. R., 2003 D.T.C. 5160 (Fed. C.A.), at page 5163, First Fund Genesis Corp. v. R. (1990), 90 D.T.C. 6337 (Fed. T.D.), at page 6340, Shaughnessy v. R., 2002 D.T.C. 1272 (T.C.C. [General Procedure]), at paragraph 13, Stephen v. R., [2001] T.C.J. No. 250 (T.C.C. [Informal Procedure]), at paragraph 6.
+Limits of assumptions
+[18] The rule that the assumptions of fact made by the Minister in assessing the income tax of the taxpayer are held to be true has three broad exceptions.
+[19] First, central to the present appeal, are facts not peculiarly within the taxpayer’s knowledge. In Anchor Pointe, the issue was whether the Crown bore the burden of proof with respect to the assumptions of fact relied upon by the Minister when confirming its reassessment. In the reply, the Minister included the assumptions that the predecessor companies' purchase of seismic data was not effected for the purpose of determining the existence, locations, extent, or quality of an accumulation of oil or gas, and that the seismic data was not used for exploration purposes. Thus, the Minister was reassessing the taxpayer for the claimed costs of the seismic data as a “Canadian Exploration Expense” (“CEE”).
+[20] In stating the applicable burden of proof (in this case, the term used was onus of proof), Justice Létourneau wrote:
+35 In Voitures Orly Inc. / Orly Automobiles Inc. v. R.,2005 FCA 425, 2006 G.T.C. 1115 (Eng.) (F.C.A.), at paragraph 20, this Court reasserted the importance of the rule in the following terms:
+To sum up, we see no merit in the submissions of the appellant that it no longer had the burden of disproving the assumptions made by the Minister. We want to firmly and strongly reassert the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted. There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see Anderson Logging Co. v. British Columbia , (1925) S.C.R. 45, Pollock v. Canada (Minister of National Revenue) (1993), 161 N.R. 232 (F.C.A.), Vacation Villas of Collingwood Inc. v. Canada (1996) 133 D.L.R. (4th) 374 (F.C.A.), Anchor Pointe Energy Ltd. v. Canada, 2003 FCA 294. It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self-reporting system. Any shifting of the taxpayer's burden to provide and to report information that he knows or controls can compromise the integrity, enforceability and, therefore, the credibility of the system. That being said, we recognize that there are instances where the shifting of the burden may be warranted. This is simply not one of those cases.
+36 I agree with Bowman A.C.J.T.C., as he then was, that there may be instances where the pleaded assumptions of facts are exclusively or peculiarly within the Minister's knowledge and that the rule as to the onus of proof may work so unfairly as to require a corrective measure: see Holm v. R., supra at paragraph 20.
+37 However, the case before us is, as was the Voitures Orly Inc. case, not one of those cases. The purpose in buying the seismic data and the subsequent use made of that data are within the exclusive and peculiar knowledge of the respondent.
+[21] As such, fairness commands that no onus be placed on the taxpayer to rebut a specific factual assumption made by the Minister. For example, where the fact is solely or peculiarly within the Minister’s knowledge, then the Crown does not have the benefit of relying on the assumed truth of the fact. [39]
+[22] Second, where the Minister wishes to reassess the taxpayer beyond the normal reassessment period, the burden of proving, on a balance of probabilities, both that the taxpayer made a misrepresentation and that that misrepresentation was attributable to carelessness, neglect or willful default lies with the Minister. [40] However, if a taxpayer fails to challenge the Minister to fulfill her onus, the Minister does not have a duty to lead evidence justifying the reassessment outside the normal reassessment period. [41]
+[23] Lastly, are situations in which the Minister seeks certain penalties. Where penalties are assessed for false statements or omissions made knowingly, or under circumstances amounting to gross negligence, the Minister bears the onus of proving the facts supporting the assessment of the penalties. [42] However, the taxpayer still bears the onus of demolishing the Minister’s assumptions supporting the assessment of tax. Although the burden will be borne by the Minister at trial in these appeals concerning both the second and last exceptions, these exceptions are not relevant in this motion.
+What does the prima facie case face?
+[24] Notwithstanding these exceptions, generally, the Minister will rest her assessment on a multitude of assumed facts; it is the taxpayer’s task to challenge them at trial. However, the exact level, extent to which the taxpayer must satisfy the Court to be able to win the appeal embodies the tax litigation twist and choice: the standard civil burden of proof versus the potentially unique “prima facie” standard.
+[25] The debate largely stems from the following comments made by Justice L’Heureux-Dubé. Usually fully referenced, the judge in Hickman Motors [43] stated:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95, and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 S.C.R. 164; Pallan v. M.N.R., 90 D.T.C. 1102 (T.C.C.), at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to “demolish” the Minister's assumptions in the assessment (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Kennedy v. M.N.R., 73 D.T.C. 5359 (F.C.A.), at p. 5361). The initial burden is only to “demolish” the exact assumptions made by the Minister but no more: First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (F.C.T.D.), at p. 6340.
+93 This initial onus of “demolishing” the Minister's exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 D.T.C. 62 (T.C.C.); Goodwin v. M.N.R., 82 D.T.C. 1679 (T.R.B.). In the case at bar, the appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the appellant “demolished” the following assumptions as follows: (a) the assumption of “two businesses”, by adducing clear evidence of only one business; (b) the assumption of “no income”, by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister's assumptions: see for example MacIsaac v. M.N.R., 74 D.T.C. 6380 (F.C.A.), at p. 6381; Zink v. M.N.R., 87 D.T.C. 652 (T.C.C.). As stated above, all of the appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of “two businesses” and “no income” have been “demolished” by the appellant.
+94 Where the Minister's assumptions have been “demolished” by the appellant, “the onus . . . shifts to the Minister to rebut the prima facie case” made out by the appellant and to prove the assumptions: Magilb Development Corp. v. The Queen, 87 D.T.C. 5012 (F.C.T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are “two businesses” and “no income”.
+95 Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at p. 6381) the “evidence was not challenged or contradicted and no objection of any kind was taken thereto”. See also Waxstein v. M.N.R., 80 D.T.C. 1348 (T.R.B.); Roselawn Investments Ltd. v. M.N.R., 80 D.T.C. 1271 (T.R.B.). Refer also to Zink, supra, at p. 653, where, even if the evidence contained “gaps in logic, chronology, and substance”, the taxpayer's appeal was allowed as the Minister failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such “gaps”. Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the appellant is entitled to succeed. [emphasis added]
+When the sun sets at trial, the best case, on balance, wins
+[26] Although these comments have given rise to several conflicting decisions, it is presently generally held that such comments were not intended to alter the standard of proof (i.e. the taxpayer must prove on the balance of probabilities that the assumed facts are not true). [44]
+[27] This embeds the general rule directing the Court to evaluate all the evidence on a balance of probabilities basis, and after hearing it, to determine whether the burden of proof on an issue has been met.
+IV. ANALYSIS
+[28] The Appellants argue that the ECAS Algorithm, used to identify missing line items in the raw point-of-sale data, is exclusively and peculiarly within the knowledge of the Minister. [45] They also assert it is an explicit and/or implicit assumption of fact concerning unreported income and missing sales. As such, the Court should grant the motion to strike (with leave to amend) the Respondent’s reply relating to the Minister’s assumptions regarding the Algorithm. [46] Without relief, the Appellants will be forced to incur substantial costs to disprove the ECAS Algorithm. [47]
+[29] Specifically, the Appellants’ submit at paragraph 10, 11 and 21 of their Motion to Strike [with emphasis added]:
+10. This Application is not premature. Without clarity on this issue at this stage of the litigation, it is impossible for the Appellants to know the case they have to meet at the hearing of the Appeals. The Appellants will be forced to incur substantial costs as part of trial preparation to attempt to disprove a novel and untested ECAS Theory, irrespective of what the trial judge may determine regarding burden of proof of the Disputed Assumptions, causing significant prejudice to the Appellants.
+11. Specifically, if this Court finds that the Appellants are required to disprove the Disputed Assumptions in the Respondent's Replies, the Appellants will necessarily be required to secure an expert witness to reverse engineer the novel and unproven ECAS Theory on which the Disputed Assumptions are based. These Disputed Assumptions are not assumptions within the knowledge of the taxpayer but solely within the knowledge of the Minister.
+[...]
+21. The Minister is the only party to this appeal in full possession of any and all information relating to this ECAS Theory and ECAS analysis upon which the Minister’s Assessments are based. On this basis, it is "plain and obvious"11 that the Minister must properly plead the assumptions of fact and other facts it has or will rely upon so as to provide the Appellants with clarity as to the case it has to meet and burden at trial. To do otherwise is to put the Appellants to the undue and perhaps insurmountable burden of disproving a novel theory that is not within the Appellants' knowledge.
+[30] At a high-level, the Appellants’ arguments can be summarized as follows:
+ECAS developed the ECAS Algorithm and performed its analysis using the Algorithm; [48]
+The ECAS Algorithm is unproven and untested; [49]
+The factual assumptions (line item suppression and modifications, shareholder appropriation of cash transactions, etc.) for the assessment are derived from ECAS Algorithm; [50]
+ECAS auditors did not analyze the Profitek software used by the Appellants; [51]
+The Minister never found a “zapper” in either of the restaurants (device or software that allegedly allows the user to suppress or modify the system data); [52] and
+The point of sale raw data was the only source of information that connected the Appellants to the ECAS Algorithm. Therefore, the Minister’s agents are the only ones with the knowledge of how the ECAS Algorithm applies to the assumptions and should have to prove it. [53]
+[31] The bull’s eye of the Appellants’ arguments is the ECAS Algorithm. However, this does not address the factual foundation of the assessment: the missing data line items.
+[32] The Minister’s assumed facts, which emphatically have not been proven or disproven at this motion stage, can be reduced to the following “Core Assumed Facts”:
+The Appellants deleted or modified line items from their system databases; [54]
+The Appellants underreported their income by altering the system databases and paying certain expenses in cash; [55] and
+The Appellant, Mr. Or, appropriated the unreported income. [56]
+Assumptions, methodology and evidence
+[33] The Respondent does not deny that the ECAS Algorithm is within the Minister’s knowledge. It rightfully argues that “[w]hile the Algorithm (i.e. process) used by the Minister to estimate some of the suppressed transactions is within the Respondent’s knowledge, the Appellants should know and be able to prove their actual revenues and net income.” [57]
+[34] In so admitting, the Respondent draws a key distinction between: (i) the method, analysis or evidence by which the Minister observed and estimated the missing line items (i.e. the Algorithm, being the process); and, (ii) the assumed facts that line items are missing and that the Appellants deleted or manipulated the system records. It is well within the Minister’s purview to assume that income was unreported because it asserts through assumptions that transactions were deleted.
+[35] Assumptions and evidence have been properly delineated by the Respondent. The ECAS Algorithm is (or will be) evidence presented by the Crown to illustrate how the Appellant manipulated the sales records, the existence of which is disclosed by the Respondent in her pleadings and described at examinations for discovery. The underlying assumption, that the had Appellants’ underreported income, is not altered by this, but will be proven by it. As such, the ECAS Algorithm is analogous to other alternative audit methods and evidence that would be used in a restaurant audit to suppositively identify unreported income.
+[36] New techniques utilized by the Minister’s agents associated with methodologies concerning alternative assessments arise frequently. Such novel techniques have been considered by the Court. In 9134-2485 Québec [58] , the Minister reassessed for GST purposes the Appellant, a restaurant, on the basis of missing transactions in its records. In that case, the Minister assumed that: (i) that supplies related to the Appellants’ commercial activities were registered using software with which the Appellants could use a device called a “zapper” to erase certain taxable supplies from its accounting records, and (ii) in view of the assumed use of a zapper, the Appellants’ records and accounting documents were incomplete and inaccurate, thus, GST was owed. The Agence du Revenu du Québec’s (“ARQ”) auditor and a computer technician analyzed the restaurant’s sales system data and concluded that the Appellants used “scripts” or a computer program to delete 7,307 invoices issued during the period in question. Ultimately, the ARQ team was able to recover 6,863 of the deleted invoices and the remaining missing invoices were assumed to have been also deleted and GST was accessed on all unreported invoices, both deleted and missing.
+The digitization of taxpayer records and evolving methods of analysis
+[37] In Xue [59] , the Minister reassessed Mr. and Mrs. Xue and their corporation, for unreported income and uncollected GST on sales from their restaurant. It was alleged and assumed by the Crown that the Appellants both underreported and appropriated cash sales by removing transactions from the Profitek sales system.
+[38] Broadly analogous to these appeals, Justice McPhee wrote [60] [emphasis added]:
+36 In Eisbrenner v. Canada (2020 FCA 93 (F.C.A.)), the Federal Court of Appeal recently reviewed, the burden of proof upon an Appellant before the Tax Court. A taxpayer has the burden to prove any facts that are alleged by that taxpayer in their Notice of Appeal and that are denied by the Respondent.
+37 Particular to tax appeals is the ability of the Respondent to plead and rely upon the assumptions made by the Minister. When this occurs, the taxpayer in order to be successful in their appeal, needs to demolish the properly plead assumptions that are detrimental to the appeal. In the Reply filed in this matter, several key assumptions were set and relied upon by the Respondent as part of their evidence. Few, if any, of the assumptions were specifically dealt with in the evidence lead by the Appellants.
+38 Furthermore, the Appellants plead that the Minister incorrectly interpreted the POS system data. The Respondent's pleadings denied this to be correct. The Appellants did not provide evidence, on a balance of probabilities that support this position.
+39 As a trial judge, I have certain expectations as to the evidence that would destroy assumptions. These expectations are not requirements of an Appellant. In many cases an Appellant can destroy assumptions through evidence not anticipated by the trial judge. It is trite to say that of the parties in Court, the Appellants best know their own business. At trial the Appellants only provided viva voce self-serving evidence, without corroboration. Their evidence was often contradicted by the various business records that were before the Court, and as noted above, did not have an air of reality.
+40 The evidence lead by the Appellants, as well as the cross-examination by the Appellants' counsel, was not effective in destroying the assumptions plead in the Replies 7. Even if the assumptions did not exist, I would have come to the same final conclusions that I have ultimately reached concerning unreported income. This conclusion is based on the evidence lead by the Respondent at trial, obtained most often through the business records as prepared in the Profitek system.
+[39] Justice McPhee acknowledges that the Minister’s reliance on raw point-of-sale data from the Appellants’ Profitek system does not negate the need for the Appellants to lead evidence to counter the Minister’s analysis of those data. Since it was assumed that the system database records were not reliable, the Appellants needed to present evidence to demonstrate their reliability or to explain the inconsistencies. The Appellants were not required to disprove the CRA’s analysis of the raw point-of-sale data; the marshalling of evidence concerning the correct revenue and receipts is the proper response.
+[40] The case of Lin [61] has a similar factual background, examined by this very Court. The Appellant restauranteurs were assessed for unreported sales and uncollected GST. The assumption was that the taxpayers manipulated point-of-sale data used to report the restaurants’ sales. In assessing that, I stated [emphasis added] :
+24 The CAS [computer audit section] analyzed the POS data using an analytical software program capable of summarizing information and detecting gaps. The CAS analyses were performed in the following weeks and highlighted the finding of inconsistencies and problems, the results of which were presented in the report to the auditors.
+[...]
+30 The CAS concluded that there were inconsistencies and the mismatching of information between the hard copy report and the POS data. For example, Bill #20551 in hard copy form did not have the same table number as Bill #20551 from the POS data, or where the hard copies said voided by Wilson the POS system indicated N/A.
+31 The bills had been renumbered using an electronic program. The CAS explained that these types of gaps are not something that can be manipulated by hand. The analysis also suggested that the data and records provided to CRA were incomplete.
+[...]
+49 The CAS retrieved the POS data during the “Initial Contact Phase”. Another CAS auditor analyzed the data and prepared the summary report. As is customary, an untouched copy of the raw data was retained.
+[41] The Appellants were called to present evidence to rebut the Minister’s assumed facts underlying the assessment or to present evidence to disprove on balance that the Minister’s alleged facts concerning unreported income and deleted sales were incorrect. The Crown was under no burden to prove the mechanics or the functioning, per se, of the Minister’s analysis of the raw point-of-sale data behind the assumptions. By similar measure, the taxpayers did not need to counter-engineer or understand the technology. The Appellants simply needed to provide their records, evidence and data files in order to challenge the assumptions [62] . These records are required under the ITA. [63] The Court weighs the competitive evidence and determines on balance which fact sets are more credible and reliable.
+[42] Technology and commerce advance in lock-step for the Minister and taxpayers alike. That progression is the main distinction between the present appeal and more traditional restaurant audit cases. Formerly, the Minister would assess a restaurant or tavern based upon notable time-tested techniques: missing paper transactions, napkin services, bottle inventory depletion or cutlery counts in order to assume underreported sales. More frequently now, like the case at hand, assumptions concerning underreported sales rest on electronic records and their completeness and integrity. As stated by the Respondent in submissions: “the fact that the audit work in these appeals involved reviewing electronic sales records, instead of paper sales records, is no basis for striking assumptions of fact or for a pre-trial determination that the ordinary burden of proof should be reversed.” [64] This is not different from the appeal where the Appellants are called upon to challenge the invoice audit, napkin count, bottle count or cutlery inventory by presenting their evidence grounded in the accuracy, credibility and reliability of the taxpayer’s books and records.
+[43] The Appellants are under no obligation to prove that the ECAS Algorithm is deficient or unreliable. Rather, their burden of proof will be discharged by disproving the Minister’s core assumed facts through the presentation of evidence at trial to substantiate, on balance, what were the correct sales, revenue and reportable income. Without intending to telegraph too many suggestions and as examples only, in any such trial these competitive “Evidence Sets” include (as a combination of old and new techniques): 1) witness testimony concerning the integrity of operations; 2) cash register receipts, credit card invoices and receipt ledgers; 3) unaltered data bases of daily, weekly, monthly reports supporting reported income and sales; 4) testimony concerning the completeness of the Appellants’ system databases. No such evidence directly analyzes or reverse engineers the ECAS Algorithm, analysis or theory; such evidence simply dislodges or displaces the Algorithm by being more reliable and credible evidence swaying the Court’s determination concerning the correctness of the assessments. In short, if convincing enough to meet the standard of proof threshold, that evidence demolishes the Minister’s core assumed facts.
+The premature nature of the request
+[44] A decision to strike the core assumed facts embeds itself in the determination of which facts and evidence the Court prefers. This evidentiary assessment is best decided by the trial judge after having the benefit of all the evidence presented by both parties. The Appellants will produce their evidence at trial that will or will not discharge their burden of proof against the set piece of assumptions made by the Minister. [65] The striking of assumptions derived from unpresented evidence and conclusions with which the Appellant on record disagrees or disputes is a premature and inappropriate determination for a motions judge to make. [66]
+V. CONCLUSION, COSTS AND FURTHER MATTERS
+Summary
+[45] The motion to strike the assumptions in dispute is dismissed. Costs are reserved and are to be determined by the trial judge in the cause. While the Appellants’ motion is dismissed, it is not a determination or finding in any way of the probative value of the ECAS Algorithm or whether it satisfactorily reinforces or supports the Minister’s assumptions and jettisons the Appellants’ records. That decision, which a motions judge cannot determine, is only further justification of why this issue is best left for a trial judge.
+[46] Presently, examinations for discovery are complete. Amended draft replies have been refined to reflect some more precise arithmetic and methodological assumptions. They are accepted and shall be served and filed by the Respondent, unless the Appellants otherwise object (which is not presently clear), within 30 days hereof.
+[47] Subject to the preceding paragraph concerning the amended draft replies, the parties should provide a joint application to the Court within 60 days after service and filing of the amended replies. Upon receipt, case management shall be at an end and the appeals shall be listed for hearing.
+Signed at Ottawa, Canada, this 11th day of February, 2022.
+“R.S. Bocock”
+Bocock J.
+APPENDIX A
+Minister’s Assumptions of Fact Disputed by the Appellants, grounds and affidavit evidence
+Subparagraph in the Minister’s Reply to the Notice of Appeal challenged by the Appellants
+Assumption(s) of Fact from the Minister’s Reply to the Notice of Appeal [67]
+Grounds Argued by Appellants in the Motion to Strike (as grouped in paragraph 7 of Reasons for Order)
+Evidence Set adduced By the Appellants in the Motion to Strike (as categorized in paragraph 8 of Reasons for Order) to demolish the assumption of fact
+Hong Kong Style Café Ltd [68]
+Emerald Seafood Restaurant Ltd. [69]
+Decade Chun Ping Or [70]
+28(q)
+28(q)
+-
+the Profitek system allows a user to remove or suppress cash sales from the system database (a practice colloquially known as "zapping")
+First Set of Arguments
+Evidence Set 1
+28(r)
+28(r)
+-
+more specifically, the Profitek system can be configured to allow a user to change or manipulate sales data, such as suppressing or omitting entire sales transactions or a specific food or beverage item attached to a sales transaction, or to renumber a series of sales transactions
+First Set of Arguments
+Evidence Set 1
+28(s)
+28(s)
+-
+the zapping feature (the "zapper") enables the Companies to deliberately
+underreport its revenues
+First Set of Arguments
+Evidence Set 1
+28(t)
+28(t)
+-
+Profitek recorded each sale transaction with a unique transaction number
+First Set of Arguments
+Evidence Set 1
+28(u)
+28(u)
+-
+Profitek also recorded and numbered deleted and voided transactions, such that every system entry was numbered
+First Set of Arguments
+Evidence Set 1
+28(v)
+28(v)
+-
+unlike with an ordinary deleted transaction, which has its data and transaction number remain in the Profitek database, a transaction deleted by the zapper has all its data, including its transaction number and the amount paid to the Companies, removed from the main Profitek data fields
+First Set of Arguments
+Evidence Set 1
+28(w)
+28(w)
+-
+Profitek ordinarily recorded each transaction with a consecutively sequential number
+First Set of Arguments
+Evidence Set 1
+28(x)
+28(x)
+-
+the Companies set up its Profitek system to assign non-sequential numbers to new transactions
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(y)
+28(y)
+-
+non-sequential transaction numbers were used in order to make it difficult to detect deleted transactions
+First Set of Arguments
+Evidence Set 1
+28(z)
+28(z)
+-
+the non-sequential transaction numbers were determined using the following algorithm, called the 20 second method:
+i) first, the algorithm would look at the time that the new transaction was opened and using the number of seconds shown in that field (for example, if the order was opened at 11:36:14 a.m. it would use the number 14) to arrive at a value between 1 and 20 as follows:
+a) where the seconds number was between 1 and 20, it would use that number as the value;
+b) where the seconds number was between 21 and 40, it would subtract 20 from it and use that as the value;
+c) where the seconds number was between 41 and 59, it would subtract 40 from it and use that as the value; and
+d) where the seconds number was 00, it would use 20 as the value; and
+ii) then, it would add this value to the immediately prior transaction number to arrive at the new transaction's number
+First Set of Arguments
+Evidence Set 1
+28(aa)
+28(aa)
+-
+the computer clock used to calculate the transaction number kept accurate time
+First Set of Arguments
+Evidence Set 1
+28(gg)
+28(gg)
+20(g), 20(h), 20(i)
+the Companies purchased and used suppression (zapping) software to remove or suppress records of cash sales from their electronic point of sale ("POS") system (a practice colloquially known as "zapping")
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 5
+*For Mr. Or – Factual conclusion made by ECAS based only on applying the ECAS Theory to
+the Hong Kong Raw POS Data, Emerald Raw POS Data, and/or the Tea Pot Raw
+POS Data: Exhibit C – Transcript pp 312-319.
+-
+-
+20(j)
+Mr. Or was aware that transactions were zapped in the Companies' POS records
+Second Set of Arguments
+Evidence Set 2
+28(nn)
+28(nn)
+-
+Mr. Or used a portion of the Companies' unreported cash revenues to pay certain business expenses in cash
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 5
+28(oo)
+28(oo)
+20(o)
+Mr. Or appropriated the Companies’ remaining unreported cash revenues and related GST
+Second Set of Arguments
+Factual conclusions made by the CRA Auditor : Exhibit B – Request Response 95(b),
+Evidence Set 5
+*For Mr. Or – Factual conclusion made by ECAS based only on applying the ECAS Theory to
+the Hong Kong Raw POS Data, Emerald Raw POS Data, and/or the Tea Pot Raw
+POS Data: Exhibit C – Transcript pp 312-319.
+-
+-
+20(q)
+Mr. Or appropriated, but did not report, income from the Companies in the amounts shown in Schedule C to this Reply
+Second Set of Arguments
+Factual conclusion made by ECAS based only on applying the ECAS Theory to
+the Hong Kong Raw POS Data, Emerald Raw POS Data, and/or the Tea Pot Raw
+POS Data: Exhibit C – Transcript pp 312-319.
+28(pp)
+28(pp)
+-
+Mr. Or and Mr. Lo generated daily POS reports of daily sales amounts after the zapping of certain cash transactions
+Second Set of Arguments
+Factual conclusions made by the CRA Auditor : Exhibit B – Request Response 95(b),
+Evidence Set 3,
+Evidence Set 5
+28(rr)
+28(rr)
+-
+source records such as daily reports, cash tapes, sales receipts and z-totals were not kept
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 5
+28(ss)
+28(ss)
+-
+the Companies provided its external accountant with information based on the altered Profitek records for the purpose of reporting the Companies’ revenues on its income tax and GST returns
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 5
+28(tt)
+28(tt)
+20(k)
+the Companies prepared its income tax and GST returns based on the altered Profitek records
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 5
+*For Mr. Or – Factual conclusion made by ECAS based only on applying the ECAS Theory to
+the Hong Kong Raw POS Data, Emerald Raw POS Data, and/or the Tea Pot Raw
+POS Data: Exhibit C – Transcript pp 312-319.
+28(uu)
+28(uu)
+-
+the Companies failed to report in its income tax and GST the omitted cash revenues that it had earned and deleted from its Profitek records
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 5
+28(vv)
+28(vv)
+-
+the 20 second numbering method allows one to predict the next number that the Profitek system assigns to a transaction based on the immediately prior transaction's number and the seconds figure associated with the new transaction
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(ww)
+28(ww)
+-
+wherever the next transaction number in the altered Profitek records matched the predicted next number the Companies had not deleted any transactions in between them
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(xx)
+28(xx)
+-
+wherever the difference between the next transaction number in the altered Profitek records and the predicted next number was one or more then the Companies had deleted at least one transaction in between them
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(yy)
+28(yy)
+-
+zapping was used to delete at least:
+i) one transaction wherever the difference between the next transaction number in the altered Profitek records and the predicted
+next number was I to 20;
+ii) two transactions wherever the difference between the next
+transaction number in the altered Profitek records and the predicted next number was 21 to 40; and
+iii) three transactions wherever the difference between the next transaction number in the altered Profitek records and the predicted next number was 41 to 60, etc.
+[34(c), 35(c)] Assumption is incorrect.
+[32(bbbb), 32(oooo)] Admitted by the Respondent at Exhibit C – Transcript pp. 278 – 279.
+28(zz)
+28(zz)
+-
+zapping was used to delete cash transactions from the Companies’ Profitek records during the 2006 taxation year
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence 5
+28(aaa)
+28(aaa)
+-
+zapping was used to delete cash transactions from the Companies’ Profitek records during the 2007 taxation year
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(bbb)
+28(bbb)
+-
+zapping was used to delete cash transactions from the Companies’ Profitek records during the 2008 taxation year
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(ccc)
+28(ccc)
+-
+in or about June 2008 the Companies began zapping line items
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(ddd)
+28(eee)
+28(ddd)
+-
+zapping was used to delete at least the following worth of line items from the Companies’ Profitek records:
+(1) During taxation year (“TY”) 2008:
+(a) HK Style Café: $94,677
+(b) Emerald: $53,658
+(2) Between October 1 and December 31, 2008:
+(a) HK Style Café: $53,246
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(fff) 28(ggg) 28(hhh)
+28(eee) 28(fff) 28(ggg)
+-
+the Companies earned and failed to report cash revenues of at least the following amounts, excluding GST, from deleted cash transactions:
+(1) HK Style Café:
+(a) in TY 2006: $649,340
+(b) in TY 2007: $559,297
+(c) in TY 2008: $461,790
+(2) Emerald:
+(a) in TY 2006: $632,029
+(b) in TY 2007: $453,672
+(c) in TY 2008: $484,712
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(iii)
+28(hhh)
+-
+the Companies earned and failed to report the following net income:
+(1) HK Style Café:
+(a) in 2006: $141,302
+(b) in 2007: $121,700
+(c) in 2008: $100,489
+(2) Emerald:
+(a) in 2006: $438,678
+(b) in 2007: $315,893
+(c) in 2008: $335,930
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(lll)
+28(kkk)
+-
+the Companies made sales in the amounts shown in the "Actual Supplies" column in Schedule D to this reply
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+28(mmm)
+28(lll)
+-
+during the Period the Companies collected, and failed to remit, net GST respecting its unreported cash sales as set out in Schedule D to this reply
+Second Set of Arguments
+Evidence Set 2,
+Evidence Set 3,
+Evidence Set 4,
+Evidence Set 5
+CITATION:
+2022TCC9
+COURT FILE NO.:
+2017-2747(IT)G; 2017-2749(GST)G; 2017-2753(IT)G; 2017-2754(GST)G; 2017-3727(IT)G
+STYLE OF CAUSE:
+HONG KONG STYLE CAFÉ LTD. AND HER MAJESTY THE QUEEN; EMERALD SEAFOOD RESTAURANT LTD. AND HER MAJESTY THE QUEEN; DECADE CHUN PING OR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+Motion by written representations
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+February 11, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Jehad Haymour Sophie Virgi
+Counsel for the Respondent:
+Valerie Meier Katherine Creelman Amanda Wall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Appellants’ written submissions [Appellants’ Submissions] at paragraph 55.
+[2] Appellants’ Submissions at paragraphs 11, 58.
+[3] Appellants’ Submissions at paragraph 62.
+[4] Appellants’ Submissions at paragraph 62.
+[5] Appellants’ Submissions at paragraph 58.
+[6] Appellants’ Submissions at paragraphs 15-16.
+[7] Appellants’ Submissions at paragraphs 10, 56.
+[8] Motion to Strike [Motion] at paragraphs 34(a)(i), 35(a)(i).
+[9] Motion at paragraphs 34(a)(ii), 35(a)(ii).
+[10] Motion at paragraphs 34(a)(iii), 35(a)(iii).
+[11] In the pleadings pertaining specifically to Mr. Or’s appeal, Mr. Or is the Appellant. Essentially, the same arguments are raised. Motion at paragraph 36.
+[12] This point is a combination of three points raised by the Appellant. Motion at paragraphs 34(b)(i), 34(b)(ii), 34(b)(iii), 35(b)(i), 35(b)(ii), 35(b)(iii).
+[13] Motion at paragraphs 34(b)(iv), 35(b)(iv).
+[14] Motion at paragraphs 34(b)(v), 35(b)(v).
+[15] Motion at paragraphs 32(cccc), 32(pppp).
+[16] Motion at paragraphs 32(dddd), 32(eeee), 32(qqqq), 32(rrrr), 32(bbbbb), 32(ccccc).
+[17] Motion at paragraphs 32(ffff), 32(ssss).
+[18] Motion at paragraphs 32(gggg), 32(tttt).
+[19] Motion at paragraphs 32(hhhh), 32(uuuu), 32(eeeee).
+[20] Response to Appellants’ Motion to Case Management Justice to Strike Assumptions from the replies at paragraph 10 [Motion Reply].
+[21] Motion Reply at paragraph 15.
+[22] Motion Reply at paragraph 11.
+[23] Motion Reply at paragraph 10.
+[24] Motion Reply at paragraph 16.
+[25] Motion Reply at paragraph 17.
+[26] Motion Reply at paragraph 17.
+[27] Motion Reply at paragraph 17.
+[28] Sarmadi v Canada, 2017 FCA 131 at paragraphs 18–68 [Sarmadi]. Justice Webb’s review of the law was reaffirmed by the same court most recently in Eisbrenner v Canada, 2020 FCA 93 [Eisbrenner].
+[29] Sarmadi at paragraphs 69–71.
+[30] Morrison v The Queen, 2018 TCC 220 [Morrison], aff’d Eisbrenner, supra note 20.
+[31] Morrison at paragraphs 72–77. See also Grenon v. The Queen, 2021 TCC 30 at paragraphs 177–179 in which Justice Smith adopts the view of Justice Webb on the law of the burden of proof as it pertains to assumptions by the Minister.
+[32] (Ontario (Human Rights Commission) v. Simpsons Sears Ltd., [1985] 2 S.C.R. 536 at paragraph 28.
+[33] F.H. v. McDougall, 2008 SCC 53, Merck Frosst Canada Ltd. v. Canada (Health), 2012 SCC 3 at paragraph 94.
+[34] R. c. Fontaine, 2004 SCC 27 at paragraphs 10–12.
+[35] R. v. Anderson Logging Co., [1925] S.C.R. 45 at paragraph 9, aff’d [1926] A.C. 140, Johnston v. Minister of National Revenue, [1948] S.C.R. 486 at paragraphs 7, 9, 14, 19. See also Dobieco Ltd. v. Minister of National Revenue, [1966] S.C.R. 95.
+[36] Sopinka, Lederman, Bryant [SLB] , The Law of Evidence in Canada (5th ed., 2018) at paragraph 5.62.
+[37] Ibid at paragraph 3.46. See also Morrison, supra note 22 at paragraphs 77, 97.
+[38] 2007 FCA 188 as cited [Anchor Pointe].
+[39] Transocean Oﬀshore Ltd. v. Canada, 2005 FCA 104 at paragraphs 34–35.
+[40] Income Tax Act, RSC 1985, c 1 (5th Supp), s 152(4)(a)(i) [ITA].
+[41] Naguib v. Canada, 2004 FCA 40.
+[42] ITA, supra note 31 s 163(2).
+[43] Hickman Motors Ltd. V. Canada [1997] 2 SCR 336, as cited [Hickman Motors].
+[44] Sarmadi at paragraphs 31–52, Morrison at paragraphs 92–110. See also Vine Estate v. The Queen, 2015 FCA 125 at paragraph 25.
+[45] Motion to Strike at paragraphs 19, 44.
+[46] Motion to Strike at paragraph 44.
+[47] Motion to Strike at paragraphs 10, 12, 44.
+[48] Motion to Strike at paragraph 3.
+[49] Motion to Strike at paragraphs 11, 71.
+[50] Motion to Strike at paragraph 20.
+[51] Motion to Strike at 63 [Response to Fact 77 of Request to Admit].
+[52] Motion to Strike at paragraph 32(ppp).
+[53] Motion to Strike at paragraph 21.
+[54] Reply to Motion at paragraph 11.
+[55] Reply to Motion note 11 at paragraph 11.
+[56] Reply to Motion note 11 at paragraph 11.
+[57] Reply to Motion note 11 at paragraph 11.
+[58] 9134-2485 Québec Inc. v. HMQ, 2012 TCC 401.
+[59] Xue v. HMQ, 2020 TCC 72 [Xue] .
+[60] Xue, as cited.
+[61] Lin v. HMQ, 2020 TCC 26 [Lin].
+[62] Lin, at paragraphs 103,105,106,111 and 112.
+[63] ITA at section 232.
+[64] Reply to Motion at paragraph 10.
+[65] Sarmadi at paragraph 63.
+[66] Kossow at paragraph 23.
+[67] For purposes of representation, the specifics of the challenged assumption (e.g. monetary value, sales allegedly suppressed) have been omitted.
+[68] Motion to Strike, paragraph 9(a).
+[69] Motion to Strike, paragraph 9(b).
+[70] Motion to Strike, paragraph 9(c).

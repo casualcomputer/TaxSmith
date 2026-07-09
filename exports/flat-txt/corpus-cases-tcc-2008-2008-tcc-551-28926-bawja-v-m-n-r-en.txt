@@ -1,0 +1,110 @@
+Title: Bawja v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28926/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-551-28926-bawja-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-10-17
+
+# Bawja v. M.N.R.
+
+- Citation: 2008 TCC 551
+- Decision date: 2008-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1401, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bawja v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-17
+Neutral citation
+2008 TCC 551
+File numbers
+2007-4184(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4184(EI)
+BETWEEN:
+RAJWINDER K. BAWJA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Conference call held on October 17, 2008 at
+Vancouver
+,
+British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Counsel for the Appellant:
+James Sayre and Sarah Khan
+Counsel for the Respondent:
+Selena Sit and Max Matas
+____________________________________________________________________
+ORDER
+WHEREAS BY Notice of Motion dated the 10th day of September, 2008, counsel for the Respondent requested an Order under section 110 of the Tax Court of Canada Rules (General Procedure) requiring the Appellant to provide the Respondent with copies of her Medical Records (“MSP Records”) for the period April 1, 2001 to September 30, 2001 inclusive;
+AND having heard counsel for the parties during a conference call held on Friday, October 17, 2008;
+NOW THEREFORE the Court orders that on or before December 1, 2008 the Appellant provide the Respondent with copies of the MSP Records for the period April 20, 2001 to September 29, 2001 inclusive.
+Signed at
+Saskatoon ,
+Saskatchewan
+this 17th day of October 2008.
+“D.W. Beaubier”
+Beaubier D.J.
+Citation: 2008 TCC 551
+Date: 20081017
+Docket: 2007-4184(EI)
+BETWEEN:
+RAJWINDER K. BAWJA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+Beaubier D.J.
+[1] Counsel for the Respondent maintained that the Medical Service Records (“MSP Records”) are relevant. Counsel for the Respondent referred to the decision of Bowman, C.J. where he said that the test is relevance.
+[2] Counsel for the Appellant maintained that the MSP Records were personal and she said that the Respondent was on a fishing expedition.
+[3] The MSP Records for the period in question, namely April 20, 2001 to September 29, 2001 inclusive, are relevant and shall be produced by the Appellant on or before December 1, 2008.
+Signed at
+Saskatoon ,
+Saskatchewan
+, this 17th day of October 2008.
+“D.W. Beaubier”
+Beaubier D.J.
+CITATION: 2008 TCC 551
+COURT FILE NO.: 2007-4184(EI)
+STYLE OF CAUSE: Rajwinder K. Bawja and
+The Minister of National Revenue
+PLACE OF HEARING:
+Vancouver ,
+British Columbia
+DATE OF HEARING: October 17, 2008
+REASONS FOR ORDER BY: The Honourable Justice D.W. Beaubier
+DATE OF ORDER: October 17, 2008
+APPEARANCES:
+Counsel for the Appellant:
+James Sayre and Sarah Khan
+Counsel for the Respondent:
+Selena Sit, and Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James Sayre
+Firm: Community Legal Assistance Society,
+Vancouver ,
+British Columbia
+Name: Sarah Khan
+Firm: The
+British Columbia
+Public Interest Advocacy Centre,
+Vancouver ,
+British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

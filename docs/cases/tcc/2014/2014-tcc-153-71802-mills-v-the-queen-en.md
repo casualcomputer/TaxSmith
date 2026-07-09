@@ -1,0 +1,163 @@
+---
+title: "Mills v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71802/index.do"
+last_modified: "2014-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 153"
+citation2: ""
+neutral_citation: "2014 TCC 153"
+decision_date: "2014-05-21"
+language: "en"
+item_id: "71802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5376
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:45:02.408000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c6910fa875f5888e0de16c765098034221793e120b0cfc81bb6c046adbebf074"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mills v. The Queen
+
+- Citation: 2014 TCC 153
+- Decision date: 2014-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5376, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mills v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-21
+Neutral citation
+2014 TCC 153
+File numbers
+2013-3203(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3203(IT)I
+BETWEEN:
+NICHOLAS MILLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 14, 2014, at Toronto, Ontario
+By: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lars Brusven, Andrea Jackett
+JUDGMENT
+The Appeal from the assessment made under the Income Tax Act for the 2011 taxation year is dismissed.
+Signed at Kingston, Ontario, this 21st day of May 2014.
+"Rommel G. Masse"
+Masse D.J.
+Citation: 2014 TCC 153
+Date: 20140521
+Docket: 2013-3203(IT)I
+BETWEEN:
+NICHOLAS MILLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an Appeal from a Notice of Reassessment in relation to the 2011 taxation year whereby the Minister of National Revenue (the “Minister”) disallowed legal expenses in the amount of $42,283.24 incurred by the Appellant in an attempt to have his former spouse contribute towards child support.
+Factual Context [2] Mr. Mills is a teacher. He was married in August 1993. This marriage produced three children now aged 12, 11 and 9. He also has a 19 year old step‑daughter. The marriage broke down in April 2007 and this led to divorce litigation between the Appellant and his former spouse. Mr. Mills is of the view that he was not well represented by his legal counsel throughout this litigation. He is of the view that his counsel pressured him into signing Minutes of Settlement that were very one-sided and disadvantageous to him.
+[3] These Minutes of Settlement were incorporated into a Final Order of Divorce dated November 4, 2008 (the “first order”). By the terms of this first order, Mr. Mills’ ex-wife was granted full custody of the three children and Mr. Mills was granted specified unsupervised access.
+[4] Paragraph 3(1) of this first order provided that Mr. Mills was to pay to his former spouse child support for the three children of the marriage pursuant to the Federal Child Support Guidelines in accordance with his salary at the time. Paragraph 3(3) of the first order provided for annual adjustments to the quantum of child support on September 1st of each year commencing in 2009 based upon any changes to Mr. Mills’ income. Paragraph 3(8) of the first order provided that:
+the obligation of the Applicant in (1) [re child support] shall continue notwithstanding that his parenting time as set out in paragraph 2 may exceed 40%.
+It is this provision of the first order that Mr. Mills finds to be most unfair since, by the terms of paragraph 3(8) of the first order, he was effectively precluded from varying the support provisions even if the children of the marriage were in his actual custody for more than 40% of the time. I tend to agree with Mr. Mills that the effect of this provision is indeed unfair.
+[5] Mr. Mills’ former spouse is also a high school teacher and she earns just about the same income as he does.
+[6] The children of the marriage are now with Mr. Mills about half the time. Mr. Mills certainly thought it was unfair for him to pay full child support to his former spouse when he had the care of the children about half the time. In September 2011, he brought an Application to Vary the Final Order of Divorce so as to oblige his ex-wife to pay her fair share of child support. Effectively, this Application sought a “set-off” of support payable for the children on the basis that the children were with him more than 40% of the time. What Mr. Mills wanted was for his former spouse to pay her fair share of the costs related to raising the children in proportion to her annual income – which was the same as his.
+[7] After a three day trial held in September 2011 before the Ontario Superior Court of Justice, a second order was issued. The reasons for decision regarding this second order were released July 12, 2012. This second order dismissed Mr. Mills’ claim for a “set-off” of child support. Therefore, neither the first order nor the second order required Mr. Mills’ former spouse to pay any child support for any of the children. Mr. Mills continues to pay full child support even though he has the care of the children for almost half the time. Mr. Mills did not appeal either of these orders and so they are valid and binding. I am not asked to vary them and even if I were, I do not have the jurisdiction to do so.
+[8] Mr. Mills’ efforts to vary the first order resulted in legal expenses to him exceeding $42,000.00. He sought to claim these legal fees as a deduction and this deduction was denied. This is what brings him before this Court.
+Theory of the Appellant [9] Mr. Mills argues that he incurred these legal expenses in an effort to enforce a right to child support. He is of the view that he was not incurring legal expenses for the purposes of reducing his child support obligations, but rather he incurred these expenses in order to have his wife pay to him her fair share of child support. It is his position that he should therefore be allowed to deduct these legal expenses from income.
+Theory of the Respondent [10] The Respondent submits that the legal fees incurred by the Appellant were incurred in order to reduce child support payments payable by the Appellant. As such, they were not incurred or paid in order to gain or produce income and so the legal expenses are not deductible through the operation of paragraph 18(1)(a) of the Income Tax Act, R.S.C., 1995, c. 1 (5th Supp.) (the “Act”).
+Legislative Provisions [11] The relevant provisions of the Act are as follows:
+18(1) In computing the income of a taxpayer from a business or property, no deduction shall be made in respect of
+(a) an outlay or expense, except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from business or property.
+248(1) “property” means property of any kind whatsoever whether real or personal, immovable or movable, tangible or intangible, or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+(a) a right of any kind whatever, a share or a chose in action,
+Thus, a right to sue is considered property under the Act.
+[12] The relevant provisions of the Federal Child Support Guidelines, SOR/97‑175, are as follows:
+8. Where each spouse has custody of one or more children, the amount of a child support order is the difference between the amount that each spouse would otherwise pay if a child support order were sought against each of the spouses.
+9. Where a spouse exercises a right of access to, or has physical custody of, a child for not less than 40 per cent of the time over the course of a year, the amount of child support order must be determined by taking into account
+(a) the amounts set out in the applicable tables for each of the spouses;
+(b) the increased costs of shared custody arrangements; and
+(c) the conditions, means, needs and other circumstances of each spouse and of any child for whom support is sought.
+Analysis [13] The effect of the above noted provisions of the Act is such that the right to receive child support is considered to be property and so an expenditure incurred to earn income from this property is deductible under paragraph 18(1)(a) of the Act. Unfortunately, expenses incurred by a taxpayer in an attempt to contest, decrease or terminate child support payments are considered to be personal expenses and not expenditures in order to receive income from property. This is a well settled proposition of tax law that has been consistently recognized in the jurisprudence. A brief survey of case law will establish the point.
+[14] In the case of Bayer v. Canada (M.N.R.), [1991] T.C.J. No. 511, the taxpayer incurred legal fees as the result of a legal action to reduce the amount of his alimony payments to his former spouse. He then deducted the amount of the legal fees in calculating his income for the year, on the basis that the fees were incurred to reduce his expenses, and thus to increase his income. The Minister disallowed the deductions on the grounds that they were not incurred for the purpose of gaining or producing income. The taxpayer appealed to the Tax Court of Canada. Justice Lamarre-Proulx in dismissing the appeal stated in the last paragraph of the reasons for judgment:
+The moneys expended by the Appellant for the legal fees incurred, has as an effect to increase the taxpayer’s income as calculated under Division B of the Act but this increase did not come from an income producing property but from a reduction of an obligation that he had which was not an income producing property. In these circumstances, the expenses in question were not within the meaning of those contemplated by paragraph 18(1)(a) of the Act. It is not moneys expended for any property that may be deducted by virtue of paragraph 18(1)(a) of the Act, it is moneys expended for a property that, in itself, produces income.
+[15] In Nadeau v. Canada, [2003] F.C.J. No. 1611, Mr. Justice Noel of the Federal Court of Appeal was unequivocal when he stated at paragraphs 14 and 18 of his reasons for decision:
+14. The cases have consistently held for more than forty years that the right to support, once established by a court, is “property” within the meaning of subsection 248(1) of the Act, and that the income from such support constitutes, in the hands of the person receiving it, income form property …
+…
+18. … the expenses incurred by the payer of support (either to prevent it from being established or increased, or to decrease or terminate it) cannot be considered to have been incurred for the purpose of earning income, and the courts have never recognized any right to the deduction of these expenses …
+[16] In Berry v. Canada, [2005] T.C.J. No. 605, Justice Sheridan of this Court was dealing with the case of a taxpayer who was claiming a deduction from income for legal fees related to the litigation of child support issues wherein he was self-represented. The Minister had disallowed the deduction. Justice Sheridan held that the Appellant’s legal expenses were incurred in proceedings to decrease the amount of child support he was obliged to pay. Such expenditures are not deductible and accordingly the appeal was dismissed.
+[17] Melnyk v. Canada, [2007] T.C.J. No. 549, is a case that bears some similarities to the case at bar. The taxpayer appealed a 2005 income tax assessment denying a claimed deduction for legal fees incurred in relation to child support. The taxpayer had been ordered to pay child support. The mother also had an obligation to contribute to the child’s support but this was set-off in the calculation of support owing. Mr. Justice Webb of the Tax Court of Canada, as he then was, dismissed the appeal and held that the amount of set-off would not be income to the Appellant father. Justice Webb defined the issue very clearly in paragraph 4 of his decision:
+4. The position of the Appellant is that this child support amount is only the net amount payable. His position is that because Kaila Melnyk was also employed (although at a lower salary than the Appellant), she was obliged to pay to him an amount of child support which was set off against his obligation to pay child support to her (based on 100% of the Guideline amount) and this amount payable by him is the net result of this set-off. Hence, it is the position of the Appellant that he did incur legal fees to earn income, i.e., the amount of child support that the Appellant claims was payable to him by Kaila Melnyk. I am unable to agree with this position.
+[18] Justice Webb then went on to discuss paragraphs 8 and 9 of the Federal Child Support Guidelines which deal with split custody and shared custody respectively. He then continued at paragraph 7:
+7. In my opinion in determining the amount of support payable under paragraph 9 of the Federal Child Support Guidelines, the factors set out in s. 9 of these Guidelines are to be analyzed to determine the amount of child support that will be payable by one parent to the other. While it is recognized that in situations where both spouses are earning income that each will contribute to the support of the child, the contributions are not made from one parent to the other. While Graeme [the child] was with Kaila Melnyk the amount that she would be paying for his food, clothing, shelter and other items that would be purchased for him would not be made by payments made from Kaila to the Appellant, but rather would be paid directly by Kaila to the provider of these goods and services. Kaila had an obligation to contribute towards the support of Graeme but not by making payments to the Appellant, but by making payments directly to the persons who were providing the goods and services to Graeme while Graeme was with her. Her contributions to the support of Graeme would not be income to the Appellant.
+[19] There is one decision that counsel for the Respondent has referred to me that goes in the opposite direction and favours the Appellant. Rabb v. Canada, [2006] T.C.J. No. 94, was an appeal by the taxpayer from an assessment refusing a claim for deduction of legal fees. A separation agreement provided for split custody of the two children of the marriage. The taxpayer was required to pay child support to his wife as his income was higher, but he paid only the offset amount as his wife was obliged to pay support for the child who was in the taxpayer’s care. The taxpayer claimed legal fees incurred to establish his former wife’s income in order to determine the amount of support payable to him. Justice Lamarre of this Court allowed the appeal holding that the Appellant’s purpose in incurring the legal fees was in part to establish entitlement to support for the one child that was in his custody. The Rabb decision is distinguishable from the other cases cited since it dealt with the situation of split custody of children pursuant to section 8 of the Federal Child Support Guidelines where one parent has custody of one or more children and the other parent has custody of the other children of the marriage. On the other hand, the case at bar deals with shared custody pursuant to section 9 of the Guidelines where a parent exercises a right of access to, or has the physical custody of a child for not less than 40% of the time over the course of a year. Unfortunately, the Appellant waived his section 9 right to apportion child support even if he had access or physical custody more than 40% of the time. Some might say that this distinction is a distinction without a difference and I would tend to agree; however, I hesitate to follow Rabb in the face of constant and unwavering jurisprudence to the contrary.
+[20] I have much sympathy for Mr. Mills. I agree with him that it is not right that a parent who incurs legal expenses in order to obtain child support is entitled to deduct the legal expenses from income whereas the parent who incurs legal expenses in order to prevent child support from being established or increased or to decrease or terminate child support cannot deduct these legal expenses from income. Such a result is unjust, unfair and inequitable. In my opinion both parents should have the right to deduct legal expenses in such circumstances or neither one should.
+[21] However, the Tax Court of Canada is not a court of equity. The Tax Court of Canada does not have the legal authority to set aside or vary a tax assessment for reasons based essentially on equity. In other words, the role of a judge of this Court is to decide whether or not an assessment is well founded, not to make or change the law: see Smith v. M.N.R., 1989, 89 DTC 299; Lamash Estate v. M.N.R., 1990, 91 DTC 9; Sunil Lighting Products v. M.N.R. [1993] T.C.J. No. 666; Tignish Auto Parts Inc. v. M.N.R. [1993] T.C.J. No. 446; Impact Shipping v. Canada, [1995] T.C.J. No. 409; Lassonde v. Canada, 2005 FCA 323; and Dubois v. the Queen, 2008 DTC 3205.
+[22] If I could provide Mr. Mills with some relief, I would do so. However, the position argued by Mr. Mills goes contrary to the weight of a strong body of jurisprudence. The principle of law that a payer cannot deduct legal fees incurred to prevent child support from being established or increased, or to have child support decreased or terminated, is so well entrenched that only Parliament can bring about legislative changes to the law. The fact that Parliament has not done so speaks to the will of our law-makers.
+Conclusion [23] For all of the foregoing reasons, this Appeal is dismissed.
+Signed at Kingston, Ontario, this 21st day of May 2014.
+"Rommel G. Masse"
+Masse D.J.
+CITATION:
+2014 TCC 153
+COURT FILE NO.:
+2013-3203(IT)I
+STYLE OF CAUSE:
+NICHOLAS MILLS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+May 21, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lars Brusven, Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

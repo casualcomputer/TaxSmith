@@ -1,0 +1,150 @@
+---
+title: "Drolet c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26483/index.do"
+last_modified: "2004-08-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 538"
+citation2: ""
+neutral_citation: "2004 CCI 538"
+decision_date: "2004-08-17"
+language: "fr"
+item_id: "26483"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3232
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:08:45.149000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "263236f9400e60db6a847707ce160407d4c9e3de62e3937fd9054ed1b983682f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drolet c. La Reine
+
+- Citation: 2004 CCI 538
+- Decision date: 2004-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3232, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drolet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-17
+Référence neutre
+2004 CCI 538
+Numéro de dossier
+2004-186(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-186(IT)I
+ENTRE :
+CATHERINE DROLET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 juillet 2004, à Montréal (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Représentant de l'intimée :
+Soleil Tremblay (stagiaire)
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI538
+Date : 20040817
+Dossier : 2004-186(IT)I
+ENTRE :
+CATHERINE DROLET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] En établissant une nouvelle détermination de prestation fiscale canadienne pour enfants le 20 février 2003, le ministre du Revenu national (le « ministre » ) a révisé à la baisse les prestations fiscales pour enfants de l'appelante, à l'égard de l'année de base 2000. En fait, le ministre a établi un paiement en trop de 2 839,15 $.
+[2] En établissant et ratifiant la nouvelle détermination datée du 20 février 2003, à l'égard de l'année de base 2000, le ministre a tenu pour acquis les mêmes faits, à savoir :
+a) par lettre datée du 31 octobre 2002, le ministre a fait parvenir à l'appelante un questionnaire à remplir afin de déterminer l'état civil de cette dernière, à l'égard de la période s'échelonnant du 1er janvier 2000 au 31 décembre 2000;
+b) cette vérification fut rendue nécessaire puisque les dossiers du ministre indiquaient que l'appelant était une personne célibataire au 31 décembre 2000, tandis que l'adresse de monsieur Steve Morin correspondait à celle de l'appelante;
+c) le 13 novembre 2002, l'appelante, en réponse au questionnaire daté du 31 octobre 2002, fournissait au ministre les renseignements suivants :
+i) l'appelante indiquait être conjointe de fait du mois de janvier 2000 au mois de juin 2000,
+ii) l'appelante se considérait célibataire pendant la période s'échelonnant du mois de juillet 2000 au mois de novembre 2000,
+iii) l'appelante se disait conjointe de fait pendant le mois de décembre 2000, ajoutant que monsieur Steve Morin était venu habiter avec elle au début du mois de décembre 2000,
+iv) pendant la période du mois de juillet 2000 au mois de novembre 2000, l'appelante nous indiquait que monsieur Steve Morin habitait au 2805, boul. Henri-Bourassa Est, appartement 405,
+v) selon bail soumis, l'appelante et monsieur Steve Morin résidaient, avant le mois de juillet 2000, dans le logement sis au 4310, 45e Rue dans la ville de Saint-Léonard,
+vi) selon le même bail, à partir du mois de juillet 2000, l'appelante a loué seule le logement sis au 4161, 43e Rue, appartement 3, dans la ville de Saint-Michel, puisque monsieur Steve Morin, avec l'accord du propriétaire, cessait d'assumer toute responsabilité, à l'égard de ce logement;
+d) aucun document ne fut fourni démontrant que l'appelante et monsieur Steve Morin demeuraient dans des logements distincts au 31 décembre 2000;
+e) le 8 janvier 2003, le ministre avisait par écrit l'appelante que son état civil sera modifié à celui de conjointe de fait, à compter du 31 décembre 2000;
+f) le ministre, en recalculant les prestations fiscales pour enfants de l'appelante, a pris en compte le revenu familial, à l'égard de l'année de base en litige.
+[3] La seule question en litige dans le présent dossier consiste à déterminer si l'appelante et monsieur Steve Morin vivaient en union de fait le 31 décembre 2000.
+Remarques préliminaires
+[4] Seule l'appelante a témoigné. Bien qu'il ait été assigné par l'intimée à témoigner, monsieur Morin n'est pas venu témoigner. Il convient de rappeler qu'en réponse à la question 8 du questionnaire daté du 31 octobre 2002 (pièce I-1), l'appelante a déclaré au ministre qu'elle était la conjointe de fait de monsieur Morin et qu'elle vivait avec ce dernier. Dans sa lettre du 13 novembre 2002 (pièce I-2), elle faisait la même affirmation.
+Analyse
+[5] Il ressort du témoignage de l'appelante :
+i) que monsieur Morin n'habitait avec l'appelante que quelques jours par semaine en décembre 2000 et que, le reste du temps, il habitait chez différents amis puisqu'il n'avait aucune résidence fixe;
+ii) qu'en tout temps en décembre 2000, les biens personnels de monsieur Morin se trouvaient à la résidence de l'appelante et qu'il recevait sa correspondance à cet endroit;
+iii) qu'à partir du 1er janvier 2001, l'appelante et monsieur Morin ont vécu en union de fait;
+iv) pour expliquer sa réponse à la question 8 du questionnaire daté du 31 octobre 2002 (pièce I-1) et son affirmation dans la lettre du 13 novembre 2002 (pièce I-2), selon lesquelles monsieur Morin était son conjoint de fait en décembre 2001 et vivaient ensemble durant ce mois, elle a affirmé que, pour elle, l'expression « conjoint de fait » signifiait avoir un copain et que, de toute façon, elle n'avait pas vraiment compris le sens de cette expression.
+[6] Dans la présente affaire, l'appelante a indiqué à deux reprises par écrit qu'en décembre 2000 monsieur Morin était son conjoint de fait et qu'ils vivaient ensemble. L'appelante a fourni à cet égard des explications qui sont loin d'être convaincantes. On conçoit difficilement que l'appelante, qui semble être une personne intelligente, ait pu faire de telles déclarations sans se poser plus de questions sur les conséquences de ces déclarations. Il ne s'agit pas là d'une question fiscale complexe et on s'étonne que l'appelante ait pu accepter si facilement de se présenter comme conjointe de fait de monsieur Morin si elle était convaincue que ce n'était pas le cas.
+[7] Étant donné l'absence de monsieur Morin à l'audition, il convient, dans les circonstances, de rappeler que la Cour peut tirer une inférence négative de cette absence. En effet, l'omission d'une partie ou d'un témoin de produire en preuve ce que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée. La Cour aurait aussi aimé entendre les amis de monsieur Morin qui l'ont hébergé en décembre 2000.
+[8] Dans les circonstances de la présente affaire, il incombait à l'appelante de démontrer, selon la prépondérance des probabilités, qu'elle ne vivait pas avec monsieur Morin en union conjugale durant le mois de décembre 2000. J'estime que la preuve présentée par l'appelante ne me permet pas d'en arriver à une telle conclusion. Au contraire, j'estime que l'ensemble des éléments relatés ci-haut me portent à conclure qu'une telle relation existait entre l'appelante et monsieur Morin au cours du mois de décembre 2000. J'ajouterai que les faits soumis en preuve par l'appelante ne sont pas suffisants pour me permettre d'en arriver à une conclusion différente.
+[9] En conséquence de ce précède, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 17e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI538
+No DU DOSSIER DE LA COUR :
+2004-186(IT)I
+INTITULÉ DE LA CAUSE :
+Catherine Drolet et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 28 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 17 août 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Représentant de l'intimée :
+Soleil Tremblay (stagiaire)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

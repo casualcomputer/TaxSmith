@@ -1,0 +1,387 @@
+Title: GLP NT Corporation (Formerly Varitech Investors Corporation) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26193/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-738-26193-glp-nt-corporation-formerly-varitech-investors-corporation-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-12-13
+
+# GLP NT Corporation (Formerly Varitech Investors Corporation) v. The Queen
+
+- Citation: 2004 CCI 738
+- Decision date: 2004-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3924, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GLP NT Corporation (Formerly Varitech Investors Corporation) v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-13
+Référence neutre
+2004 CCI 738
+Numéro de dossier
+2002-1002(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-1002(IT)G
+ENTRE :
+GLP NT CORPORATION
+(autrefois Varitech Investors Corporation),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue les 1er et 2 novembre 2004, à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelante :
+Me Joel A. Nitikman
+Avocats de l'intimée :
+Me David Jacyk
+Me Thomas Torrie
+ORDONNANCE
+Attendu que l'appelante a déposé un avis d'appel devant la Cour à l'égard d'avis de nouvelle cotisation délivrés par le ministre du Revenu national pour ses années d'imposition 1994 et 1995;
+Et attendu que l'avocat de l'appelante et l'avocat de l'intimée ont chacun déposé devant la Cour un avis de requête dans lequel ils demandaient à la Cour d'ordonner que les parties qui avaient fait l'objet d'un interrogatoire préalable répondent aux questions posées lors de l'interrogatoire préalable;
+Et vu les allégations des parties les 1er et 2 novembre 2004, la Cour ordonne ce qui suit :
+1. Objet : Avis de requête de l'intimée
+Monsieur Myhal (le représentant de l'appelante) devra répondre aux questions suivantes :
+19 mai 2004
+Les questions nos 35, 51, 85, 101, 116 à 123 et 133 et les demandes nos 281, 284, 286, 287, 289, 377, 455 et 559.
+23 juin 2004
+Les questions nos 122 et 123 et les demandes nos 253 et 286 ainsi que les engagements nos 19, 20 et 21.
+2. Objet : États financiers de Hees
+La Cour enjoint à M. Myhal de répondre aux questions suivantes : nos 504, 512, 621 et 622, 625 à 627, 645 et 646 et les demandes nos 721, 734 et 738 ainsi que la demande no 29.
+3. Objet : Dexleigh
+La Cour enjoint à M. Myhal de répondre aux questions suivantes : nos 134 à 137 et la demande no 314.
+4. Objet : Statuts constitutifs de l'appelante
+En ce qui concerne les questions qui ont été posées au sujet des statuts constitutifs de l'appelante, M. Myhal n'est pas obligé de répondre à ces questions.
+5. Objet : Évaluation de Hathaway
+En ce qui concerne l'évaluation de Hathaway, M. Myhal n'est pas obligé de répondre aux questions suivantes : demandes nos 2, 7 et 540; questions nos 36 et 38.
+6. Objet : Avis de requête de l'appelante
+a) Monsieur MacGibbon (le représentant de l'intimée) n'est pas obligé de répondre aux questions nos 296, 602, 717 et 849;
+b) L'intimée n'est pas obligée de modifier sa réponse à l'avis d'appel.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de décembre 2004.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 14e jour de février 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI738
+Date : 20041213
+Dossier : 2002-1002(IT)G
+ENTRE :
+GLP NT CORPORATION
+(autrefois Varitech Investors Corporation),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Little
+[1] Le ministre du Revenu national (le « ministre » ) a délivré des avis de nouvelle cotisation (les « nouvelles cotisations » ) pour les années d'imposition 1994 et 1995 de l'appelante.
+[2] Le ministre a délivré les nouvelles cotisations en application de l'article 191.1 de la partie VI.1 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] L'article 191.1 de la Loi établit un impôt spécial sur certains dividendes déclarés par une société. Toutefois, une société de placement à capital variable telle qu'elle est définie au paragraphe 131(8) de la Loi est considérée comme un « intermédiaire financier constitué en société » en application du paragraphe 191(1) de la Loi; or, l'article 191.1 prévoit que les dividendes d'un intermédiaire financier constitué en société sont exemptés d'impôt.
+[4] Afin d'être admissible à titre de société de placement à capital variable, la société doit satisfaire à un critère précis au moment où les dividendes sont déclarés. Selon ce critère, la juste valeur marchande des actions ordinaires émises de la société ne doit pas excéder cinq pour cent de la juste valeur marchande de la totalité du capital-actions de la société. Ce critère a été appelé le « critère des 95 p. 100 » .
+[5] Le 1er avril 1993, l'appelante a racheté 2 399 900 actions privilégiées moyennant le paiement d'une somme d'environ 59 997 500 $ en espèces.
+[6] Par suite du rachat des 2 399 900 actions privilégiées, le ministre a conclu que l'appelante ne satisfaisait plus aux conditions prescrites à l'égard d'une société de placement à capital variable et que les dividendes déclarés par l'appelante n'étaient donc plus exemptés d'impôt.
+[7] Dans les nouvelles cotisations, le ministre a fixé à 11 902 611 $, en application de la partie VI.1 de la Loi, l'impôt sur les dividendes déclarés au cours des années d'imposition 1994 et 1995.
+[8] À la suite de l'établissement des nouvelles cotisations, l'appelante a déposé des avis d'appel dans lesquels elle maintenait qu'il était satisfait au critère des 95 p. 100 et que les dividendes étaient donc exemptés d'impôt.
+[9] Après la clôture des actes de procédure, les deux parties ont produit des listes de documents, et des interrogatoires préalables ont eu lieu. Le mandataire de l'appelante aux fins de l'interrogatoire préalable était M. George Myhal. Le mandataire de l'intimée aux fins de l'interrogatoire préalable était M. Gordon MacGibbon.
+[10] L'interrogatoire préalable de M. Myhal a eu lieu à Toronto le 18 mai 2004; il s'est poursuivi à Vancouver les 23 et 24 juin 2004. L'interrogatoire de M. Myhal a été ajourné. Lorsqu'il a été interrogé, M. Myhal a refusé de répondre à certaines questions.
+[11] L'interrogatoire préalable de M. MacGibbon a eu lieu à Toronto le 18 mai 2004. Lorsqu'il a été interrogé, M. MacGibbon a refusé de répondre à certaines questions.
+[12] Le 19 octobre 2004, l'avocat de l'intimée a déposé devant la Cour un avis de requête dans lequel il demandait à la Cour d'enjoindre à M. Myhal de répondre à diverses questions qui avaient été posées lors de l'interrogatoire préalable.
+[13] Le 19 octobre 2004, l'avocat de l'appelante a déposé devant la Cour un avis de requête dans lequel il demandait à la Cour d'enjoindre à M. MacGibbon de répondre à diverses questions qui avaient été posées lors de l'interrogatoire préalable et d'ordonner en outre que certaines parties de la réponse de l'intimée soient supprimées.
+A. Avis de requête de l'intimée :
+[14] Pendant l'audition de la requête, l'avocat de l'intimée a proposé de ranger les questions auxquelles M. Myhal avait refusé de répondre lors de l'interrogatoire préalable dans les catégories suivantes :
+Catégorie I - Questions se rapportant aux liens que l'appelante avait avec le groupe Edper, ou avec le groupe Hees Edper, le groupe Edper Brascan et d'autres sociétés liées ou affiliées.
+Catégorie II - États financiers de Hees International Bankcorp. Inc. ( « Hees » ) pour les exercices 1994 et 1995.
+Catégorie III - Questions se rapportant au lien que l'appelante avait avec Dexleigh Corporation.
+Catégorie IV - Dispositions des statuts constitutifs de l'appelante.
+Catégorie V - Questions se rapportant à l'évaluation de Hathaway.
+POINT LITIGIEUX
+[15] Monsieur Myhal devrait-il être contraint à répondre aux questions précises que l'avocat de l'intimée a posées à l'interrogatoire préalable?
+ANALYSE
+[16] Les Règles de la Cour canadienne de l'impôt (procédure générale) renferment des règles concernant l'interrogatoire préalable. Les principales dispositions se rapportant aux points qui sont ici en litige sont rédigées comme suit :
+COMMUNICATION DES DOCUMENTS
+Liste de documents (communication intégrale)
+82(1) Les parties peuvent convenir ou, en l'absence d'entente, demander à la Cour de prononcer un jugement obligeant chaque partie à déposer et à signifier à l'autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui portent sur toute question en litige entre les parties à l'appel.
+INTERROGATOIRE PRÉALABLE
+Dispositions générales
+92. L'interrogatoire préalable peut être fait oralement ou par écrit, au gré de la partie interrogatrice, mais celle-ci ne peut soumettre une personne aux deux formes d'interrogatoire sans l'autorisation de la Cour.
+[...]
+Portée de l'interrogatoire
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu'elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l'objet de l'interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre-interrogatoire, à moins qu'elle ne vise uniquement la crédibilité du témoin;
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(2) Avant l'interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l'étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l'interrogatoire préalable peut être ajourné.
+(3) Une partie qui interroge au préalable peut obtenir la divulgation de l'opinion et des conclusions de l'expert engagé par la partie interrogée, ou en son nom, sur une question en litige dans l'instance ainsi que ses nom et adresse. Toutefois, la partie interrogée n'est pas tenue de divulguer le renseignement demandé, ni les nom et adresse de l'expert, si :
+a) l'opinion et les conclusions de l'expert sur une question en litige dans l'instance ont été formulées uniquement en prévision d'une poursuite envisagée ou en cours;
+b) la partie interrogée s'engage à ne pas appeler l'expert à témoigner à l'audience.
+(4) Sauf ordonnance contraire de la Cour, une partie qui interroge au préalable peut obtenir la divulgation des noms et adresses des personnes dont on pourrait raisonnablement s'attendre à ce qu'elles aient connaissance des opérations ou des situations en litige en l'instance.
+[17] Dans la décision 569437 Ontario Inc. c. La Reine, no 92-2304(IT)G, 20 juillet 1994, [1994] A.C.I. no 531, le juge Christie, de la Cour canadienne de l'impôt, a dit ce qui suit :
+[...] il est à noter que le paragraphe 95(1) des Règles de la Cour canadienne de l'impôt (procédure générale) [...] exige que la personne interrogée au préalable réponde, soit au mieux de sa connaissance directe, soit des renseignements qu'elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige en l'instance.
+[18] Dans la décision Sydney Steel Corp. c. Omisalj (Le), [1992] 2 C.F. 193, le juge MacKay, de la Section de première instance de la Cour fédérale, a dit ce qui suit, à la page 197 :
+Les avocats des parties conviennent que le critère relatif au bien-fondé d'une question posée dans le cadre d'un interrogatoire préalable est moins rigoureux que le critère relatif à l'admissibilité de la preuve au procès, et que le critère qu'il convient d'appliquer est de savoir si les renseignements sollicités par une question peuvent être pertinents aux points qui, au stade de l'interrogatoire préalable, sont litigieux dans les actes de procédure déposés par les parties. [...]
+[19] Dans la décision Baxter c. La Reine, no 2002-4035(IT)G, 6 octobre 2004, [2004] A.C.I. no 564, le juge en chef adjoint Bowman a cité la décision que le juge Hugessen avait rendue dans l'affaire Bande de Montana c. Canada, [2000] 1 C.F. 267, et il a dit ce qui suit au paragraphe 12 :
+L'interrogatoire préalable a pour objectif général de favoriser l'équité et l'efficacité de l'instruction en permettant à chacune des parties de se renseigner pleinement, avant l'instruction, sur la nature exacte des positions de toutes les autres parties, de façon à pouvoir définir avec précision les questions qui se posent. Il est dans l'intérêt de la justice que chaque partie soit le mieux informée au sujet des positions des autres parties afin de ne pas être défavorisée en étant surprise à l'instruction. [...]
+Catégorie I
+[20] Pendant l'interrogatoire préalable de M. Myhal qui a eu lieu le 19 mai 2004, l'avocat de l'intimée a posé à M. Myhal les questions suivantes :
+[TRADUCTION]
+Annexe 1 - Liens entre diverses sociétés
+Question 35 - Les sociétés mentionnées dans la brochure du groupe Edper auraient-elles fait partie du groupe Edper au moment où vous occupiez un poste de dirigeant chez Hees?
+Question 51 - Ces sociétés sont-elles assujetties à un contrôle commun?
+Question 85 - Hees, Noranda, Trilon Financial Corporation et Great Lakes Power Inc. sont-elles mentionnées dans la brochure parce qu'elles sont contrôlées par le groupe Edper?
+Question 101 - Noranda Inc. était-elle contrôlée par le groupe Edper?
+Questions 116 à 123 - Edper Group Limited exerçait-elle un contrôle sur Hees International Bancorp?
+Demande 133 - S'engager à faire savoir si Edper Group Limited exerçait un contrôle de droit sur Hees International Bancorp.
+Question 135 - Êtes-vous au courant de l'existence d'autres dispositions ou d'autres ententes par lesquelles le groupe Edper avait de fait une participation dominante?
+Question 142 - Existe-t-il des dispositions ou des ententes par lesquelles le groupe Edper avait de fait réellement une participation dominante?
+Demande 161 - S'engager à faire savoir si le groupe Edper exerçait un contrôle sur Great Lakes Power Inc.
+Demande 281 - S'engager à faire savoir si Brascan Limited détenait un droit de vote à 49 p. 100 dans Great Lakes Holdings Inc. pendant la période fiscale pertinente.
+Demande 284 - S'engager à faire savoir si Great Lakes Holdings Inc. détenait un droit de vote à 46 p. 100 dans Great Lakes Power Inc. pendant la période fiscale pertinente.
+Demande 286 - S'engager à faire savoir si Hees détenait un droit de vote à 49 p. 100 dans Brascan Limited pendant la période fiscale pertinente.
+Demande 287 - S'engager à faire savoir si Hees détenait un droit de vote à 49 p. 100 dans Great Lakes Holdings Inc. pendant la période fiscale pertinente, si Brascan Limited et Hees étaient propriétaires à 50 p. 100 de Braspower Holdings Inc. pendant la période fiscale pertinente, et si Braspower Holdings Inc. détenait un droit de vote à 46,2 p. 100 dans Great Lakes Power Inc. pendant la période fiscale pertinente.
+Demande 289 - S'engager à faire savoir si Brascan Limited et Hees exerçaient indirectement un contrôle sur Great Lakes Power Inc. pendant la période fiscale pertinente.
+Demande 377 - S'engager à faire des recherches raisonnables et à faire savoir si Great Lakes Group Inc. et Trilon Financial Corp. détenaient des actions privilégiées dans Varitech.
+Demande 455 - S'engager à faire des recherches raisonnables et à faire savoir si Hees était propriétaire de Dexleigh ou si elle possédait un droit sur Dexleigh pendant la période allant de 1988 à 1995.
+Demande 559 - S'engager à faire savoir si Hees ou une société du groupe Hees Edper exerce un contrôle, autrement qu'en raison des actions qu'elles détiennent, sur les décisions de Noranda Inc., Brascan Ltd., Brascan Holdings, Dexleigh Corporation, Great Lake Holdings Inc., Trilon Financial Corporation et Great Lakes Power Inc.
+23 juin
+Questions 122 et 123 - Votre expérience et le travail que vous faisiez chez Hees et chez Trilon, et en votre qualité de président de Varitech, ont-ils contribué à votre nomination à titre d'administrateur de Noranda?
+Demande 253 - S'engager à faire des recherches raisonnables et faire savoir si c'était Hees ou une société affiliée de Hees qui avait investi des fonds dans les actions privilégiées de Northstar Investment Corporation, et dans l'affirmative, à quel moment l'investissement a été effectué, pendant combien de temps, et indiquer l'ampleur de l'investissement.
+Demande 286 - S'engager à parler à Ian Cockwell et déterminer à quel moment il était administrateur de Canadian Northstar Corporation.
+Demandes relatives aux engagements 19, 20, 21 énumérés dans la lettre du 19 octobre 2004 de l'appelante - Nota : Il a été en partie répondu à ces questions.
+No 19 - Engagement à faire des recherches en vue de déterminer si Hees ou une société affiliée détenait des actions privilégiées dans Northstar Investment Corporation.
+No 20 - Engagement à faire des recherches en vue de déterminer si des employés de Hees ou de filiales ou de sociétés affiliées de Hees étaient employés par une société qui détenait des actions privilégiées dans Northstar Investment Corporation.
+No 21 - Engagement à faire des recherches en vue de déterminer si Hees ou une société affiliée détenait des actions privilégiées dans Canadian Northstar Corporation.
+[21] L'avocat de l'intimée a soutenu que le ministre veut examiner l'étendue de la relation ou des liens existant entre toutes les sociétés ici en cause à titre d'actionnaires ordinaires ou d'actionnaires privilégiés de l'appelante, en leur qualité de garants de l'appelante et en leur qualité de sociétés dans lesquelles l'appelante avait investi des fonds, et en particulier les liens qui existent entre ces sociétés et avec le groupe Edper.
+[22] À l'appui de son argument, l'avocat de l'intimée a soulevé les points suivants dans son mémoire de requête :
+[TRADUCTION]
+Liens établis entre Varitech et le groupe Edper
+20. Dans une instance antérieure sans lien avec la présente instance, M. Myhal a désigné Varitech comme étant une société qui était affiliée au groupe de sociétés Edper. Affidavit de M. Myhal établi sous serment le 8 août 1995 dans une instance de l'Ontario, dossier du greffe B209/95 (affidavit de CJ, pièce B).
+21. Dans une brochure d'information produite par l'appelante en l'espèce, les sociétés suivantes sont désignées comme faisant partie du groupe Edper : Hees, Great Lakes Power Inc., Noranda Inc., Trilon Financial Corporation, Brascan Limited, Carena Developments Ltd. Toutes ces sociétés sont d'une façon ou d'une autre en cause dans la présente affaire (affidavit de CJ, pièce D).
+22. Comme exemple de la pertinence des liens qui existent entre Varitech et des sociétés considérées comme faisant partie du groupe de sociétés Edper, l'appelante elle-même a donné un aperçu des relations générales existant entre les diverses sociétés dans une lettre que ses avocats, Tory Tory Deslauriers & Binnington, ont envoyée au vérificateur Gordon MacGibbon. Les auteurs de la lettre font remarquer que l'évaluation de Hathaway et l'évaluation de Revenu Canada des actions de Varitech « tiennent compte de l'association avec Varitech et le groupe de sociétés Edper, un escompte étant consenti en raison de l'incertitude qui régnait sur les marchés financiers au sujet de ces sociétés [...] » (affidavit de CJ, pièce F).
+[...]
+39. En ce qui concerne le premier élément, même si la question des liens existant entre les diverses sociétés est pertinente aux fins qui nous occupent, l'appelante n'a pas clairement indiqué pourquoi M. Myhal devrait être autorisé à se soustraire à l'obligation de répondre aux questions pertinentes compte tenu de la connaissance qu'il en a.
+40. En ce qui concerne le deuxième élément, l'appelante semble soutenir qu'elle n'est pas tenue de demander des renseignements à des « tiers » au sujet des divers liens existant entre ces sociétés et leurs dirigeants. Toutefois, il incombe à l'appelante de demander les renseignements pertinents aux anciens dirigeants de Varitech et aux employés des sociétés qui ont été désignées comme faisant partie du même groupe affilié.
+[23] L'avocat de l'appelante a invoqué un certain nombre de raisons en tentant d'établir que M. Myhal n'était pas tenu de répondre aux questions susmentionnées. Il a soutenu que les renseignements n'étaient pas pertinents et que l'appelante n'exerçait pas de contrôle sur les diverses sociétés mentionnées par l'avocat de l'intimée.
+[24] Dans les observations qu'il a présentées au sujet de la requête de l'intimée, l'avocat de l'appelante a dit ce qui suit :
+[TRADUCTION]
+5. Bref, certains administrateurs de Varitech et d'autres sociétés étaient peut-être les mêmes, mais rien ne montre que, pendant les années d'imposition pertinentes, Varitech exerçait un contrôle sur ces autres sociétés, ou que ces autres sociétés exerçaient un contrôle sur Varitech, et, fait encore plus important, rien ne montre que GLP NT (telle qu'elle est maintenant connue) exerce un contrôle sur l'une quelconque de ces sociétés ou que ces dernières exercent en ce moment un contrôle sur GLP NT.
+6. Bref, les paragraphes 19 et 40 du mémoire de l'intimée sont erronés : pendant l'année d'imposition pertinente, Varitech n'avait pas de sociétés affiliées, et, fait encore plus important, rien ne montre qu'elle a en ce moment des sociétés affiliées [...]
+[25] L'avocat de l'appelante et l'avocat de l'intimée ont chacun référé aux remarques figurant dans l'arrêt Crestbrook Forest Industries c. Canada, [1993] 3 C.F. 251 à l'appui de leur position respective. Dans l'arrêt Crestbrook, la Cour d'appel fédérale a fait la remarque suivante :
+Dans les cas appropriés, cette Cour a effectivement le pouvoir d'exiger le genre de réponses que tente d'obtenir le ministère public en l'espèce. Cependant, la Cour n'exercera ce pouvoir qu'exceptionnellement, lorsqu'il est démontré au préalable qu'il y va de l'intérêt de l'administration de la justice de faire abstraction de la personnalité morale.
+[26] Je ne souscris pas au point de vue strict adopté par l'avocat de l'appelante et je retiens d'une façon générale les arguments soulevés par l'avocat de l'intimée.
+[27] À mon avis, ce qu'on a appelé le « groupe de sociétés Edper » est lié à l'appelante à un point tel que « dans l'intérêt de la justice » , le témoin de l'appelante devrait être contraint à répondre à la majorité des questions susmentionnées.
+[28] En arrivant à cette conclusion, j'ai conclu que les renseignements demandés par l'avocat de l'intimée pourraient être pertinents lorsqu'il s'agit d'établir la position de l'intimée ou de se prononcer sur la position adoptée par l'appelante. Si M. Myhal ne répondait pas à ces questions, l'appel serait un « procès qui constitue une embuscade » qu'un tribunal judiciaire n'autorisera pas. (Voir Elders Grain Co. c. Ralph Misener (Le), C.F. 1re inst., no T-1836-90, 10 novembre 2000, 2000 A.C.F. no 1862).
+[29] Toutefois, je ne suis pas d'accord pour dire que M. Myhal devrait être contraint à répondre aux questions suivantes : questions nos 135, 142 et 161.
+J'ai conclu que M. Myhal ne devrait pas être contraint à répondre à ces questions, parce que les questions se rapportant au « contrôle de fait » ou à la question de savoir si une société « exerçait un contrôle » sur une autre société exigent une conclusion de droit.
+Catégorie II
+[30] Pendant l'interrogatoire préalable, on a posé à M. Myhal une série de questions au sujet des états financiers de Hees International Bancorp. Ltd. ( « Hees » ).
+[31] L'avocat de l'appelante a conseillé à M. Myhal de ne pas répondre aux questions concernant les états financiers de Hees.
+[32] Au paragraphe 3.27 de son avis d'appel, l'appelante a déclaré que Hees (qui est par la suite devenue Great Lakes Power Inc.) lui avait fourni une ligne de crédit d'un montant de 150 000 000 $ en vue de s'assurer que tout rachat des actions privilégiées de l'appelante pouvait être mené à bonne fin.
+[33] Il importe de noter que l'avocat de l'appelante a inclus les états financiers de Hees dans sa liste de documents.
+[34] Il importe également de noter que Hees agissait comme promoteur et commanditaire de l'appelante et que l'appelante et Hees faisaient partie du groupe Edper.
+[35] De plus, M. Myhal est actuellement administrateur et directeur de l'exploitation de Brascan Corporation qui, par suite d'une fusion, comprend effectivement Hees.
+[36] Dans son mémoire de requête, l'avocat de l'intimée a dit ce qui suit :
+[TRADUCTION]
+59. Même si elle avait produit les états financiers de Hees, et même si elle avait affirmé dans ses actes de procédure et dans une demande d'aveux que Hees était en mesure de s'acquitter des obligations qui lui incombaient envers Varitech, l'appelante a refusé de répondre aux questions se rapportant à des éléments figurant dans ces états financiers qui peuvent indiquer que Hees n'est pas en mesure de s'acquitter de ces obligations. De toute évidence, l'appelante pourrait probablement répondre à cette question si elle se renseignait auprès de Hees.
+60. À l'heure actuelle, M. Myhal est administrateur et directeur de l'exploitation de Brascan Corporation qui, à la suite d'une fusion, comprend effectivement Hees (affidavit de CJ, pièce G, page 11; affidavit de JH, pièce B).
+61. Dans ces conditions, les refus dans cette catégorie donnent à entendre qu'on avait l'intention de conduire un procès constituant une embuscade. Or, les règles relatives à la communication préalable visent à éviter les procès qui constituent une embuscade, et la Cour ne devrait pas permettre la chose.
+Voir Elders Grain Co. c. Ralph Misener (Le), [2000] A.C.F. no 1862.
+[37] Je souscris à l'argument de l'avocat de l'intimée. À mon avis, M. Myhal devrait être contraint à répondre aux questions relatives aux états financiers de Hees.
+Catégorie III
+[38] Les questions suivantes ont été posées à M. Myhal au sujet de Dexleigh Corporation :
+[TRADUCTION]
+Annexe 3 - Dexleigh (23 juin)
+Questions/demandes 134 à 137 - Engagement à faire des recherches, notamment auprès de Dexleigh, d'Edper Investments et d'autres sociétés du groupe Edper, en vue de déterminer pourquoi Dexleigh a vendu à Edper Investments Limited les actions qu'elle détenait dans Varitech.
+Demande 314 - Engagement à faire des recherches, notamment auprès de Bruce Flatt, en vue de faire savoir s'il a déjà été dirigeant de Dexleigh Corporation et à quel moment.
+[39] L'avocat de l'appelante a conseillé à M. Myhal de ne pas répondre à ces questions.
+[40] Il importe de noter que M. Myhal est l'un des dirigeants de Dexleigh Corporation et qu'il semble qu'à un moment donné, cette dernière ait détenu des actions privilégiées de premier rang de l'appelante. Dexleigh Corporation détenait également des actions dans d'autres sociétés qui faisaient partie du groupe de sociétés Edper.
+[41] À mon avis, M. Myhal doit être contraint à répondre à ces questions.
+Catégorie IV - Dispositions des statuts constitutifs de l'appelante
+[42] Au cours de l'interrogatoire préalable qui a eu lieu le 24 juin 2004, l'avocat de l'intimée a posé les questions suivantes à M. Myhal :
+[TRADUCTION]
+Question 42 - Malgré les caractéristiques des différentes catégories d'actions, existait-il une possibilité que la valeur des actions ordinaires augmente à un niveau supérieur à la valeur des actions de rang inférieur ou des actions de premier rang et, par conséquent, existait-il une possibilité que la valeur des actions ordinaires excède le seuil de 5 p. 100?
+Demande 69 - Lorsque la clause 7 qui a été incluse dans les statuts, visait-elle à prévoir que si les actions de l'une de ces deux catégories, soit les actions de rang inférieur ou les actions ordinaires, étaient divisées, regroupées, converties, échangées ou modifiées de quelque autre façon, les actions de l'autre catégorie devaient être divisées, regroupées, converties, échangées ou modifiées de quelque autre façon, et ce, dans la même proportion?
+L'avocat de l'intimée a fait valoir ce qui suit :
+[TRADUCTION]
+72. Les droits et obligations afférents à chaque catégorie d'actions sont nécessairement pertinents pour ce qui est de l'évaluation de chaque catégorie d'actions. Dans cette catégorie, il y a deux questions auxquelles on a refusé de répondre.
+L'avocat a fait remarquer ce qui suit :
+[TRADUCTION]
+73. Dans la question no 69 qui a été posée à M. Myhal lors de l'interrogatoire du 24 juin 2004, on demandait la raison pour laquelle Varitech avait inclus une disposition particulière des statuts (affidavit de CJ, pièce X).
+74. L'examen de la nature ou de l'effet d'un contrat ou des droits et obligations en résultant comporte nécessairement l'application de règles et de principes de droit ainsi que l'interprétation du document, et il ne s'agit pas d'une question de fait.
+[...]
+77. La deuxième question dans cette catégorie, la question no 42, vise simplement à permettre de savoir s'il existe une possibilité que la valeur des actions ordinaires augmente à un niveau supérieur à la valeur des actions de rang inférieur ou des actions de premier rang, malgré la présence d'une clause particulière. Encore une fois, l'interprétation juridique n'est pas en cause en ce qui concerne une telle question (affidavit de CJ, pièce W).
+[43] Je ne crois pas que M. Myhal doive être contraint à répondre à ces questions parce que les réponses y afférentes exigent une interprétation juridique des diverses dispositions des statuts constitutifs. En outre, la question no 42 est une question à laquelle seule une personne qui est qualifiée en vue d'exprimer une opinion sur la valeur des titres peut répondre.
+Catégorie V - L'évaluation de Hathaway
+L'annexe 5 du mémoire de requête de l'intimée est rédigée comme suit :
+[TRADUCTION]
+Annexe 5 - Évaluation de Hathaway (les 19 mai et 23 juin)
+Demande 540 - Fournir tous les documents concernant Brascan Holdings, Noranda Inc., Dexleigh Corporation, Great Lakes Holdings et HIL Corporation que l'appelante a fournis ou que Hathaway Corporation a obtenus lors de l'évaluation des actions de Varitech (et fournir les rapports annuels et trimestriels sur lesquels Hathaway s'est fondée - ajouté le 23 juin).
+Demande 2 - Engagement à fournir des renseignements concernant Brascan Holding, Noranda Inc., Dexleigh Corporation, Great Lakes Holdings et HIL Corporation pour les années 1992 à 1995, et notamment :
+- les documents de travail des vérificateurs; les documents portant sur les caractéristiques des titres de ces sociétés; les rapports de maisons de courtage; les états financiers annuels ou intermédiaires; les renseignements donnés par les analystes ou par la direction; les documents portant sur la structure ou sur la gestion interne (notamment les courriels, les notes de service et les analyses); les documents portant sur la stratégie fiscale; les renseignements concernant les évaluations, les rapports, les notes de service concernant ces sociétés; les renseignements et détails concernant les conditions afférentes aux actions privilégiées de ces sociétés ainsi que les droits, restrictions ou conditions concernant le rachat; toute autre entente se rapportant à l'exercice de ces droits; tout document de la société concernant la déclaration de dividendes et tout rapport annuel.
+Question 38 - Fournir tout rapport antérieur que Hathaway a fourni, toute ébauche et toute note prise par Hathaway au sujet de l'évaluation.
+Demande 7 - Engagement à faire des recherches, notamment au sein des sociétés du groupe Edper, en vue de déterminer les autres cas dans lesquels Hathaway a fourni des services à Hees ou à une autre société du groupe Edper.
+Question 36 - Quel montant l'appelante a-t-elle versé à Hathaway Corporation pour l'évaluation des actions de Varitech?
+Dans son mémoire de requête, l'avocat de l'intimée a dit ce qui suit :
+[TRADUCTION]
+80. Par la demande no 540, l'appelante s'est engagée à fournir tous les renseignements qui avaient été fournis à Hathaway (affidavit de CJ, pièce G). Il ressort des réponses écrites de M. Myhal que l'on ne s'est pas renseigné auprès d'autres sociétés du groupe Edper qui peuvent avoir fourni des renseignements directement à Hathaway (affidavit de JH, pièce A, pages 2 et 3, réponses nos 9 à 11).
+81. L'évaluation des actions est une question cruciale en l'espèce. L'appelante ne s'est pas engagée à ne pas citer un représentant de Hathaway à titre de témoin expert. Étant donné que le rapport a déjà été communiqué en tant que partie intégrante de la procédure d'appel (et non conformément à l'article 95 des Règles ou aux règles concernant la communication de rapports d'experts), l'intimée peut à bon droit examiner les renseignements précis sur lesquels Hathaway s'est fondée en arrivant à son opinion, en particulier s'ils ont été fournis avec un accès direct aux renseignements entre les mains des sociétés du groupe Edper.
+82. Les services de Hathaway ont déjà été retenus par d'autres sociétés du groupe Edper pour d'autres travaux. Il est intéressant de noter qu'avant que l'avocat soulève une objection, M. Myhal a indiqué qu'il pouvait se renseigner auprès du groupe Edper en vue de savoir qui, au sein du groupe Edper, avait eu recours aux services de Hathaway par le passé (affidavit de CJ, pièce H, page 9). Cela démontre qu'il était possible d'obtenir pareils renseignements au sein du groupe Edper.
+83. En outre, par la demande no 2 (23 juin), l'intimée a demandé un grand nombre de renseignements au sujet des cinq sociétés du groupe Edper dans lesquelles Varitech avait investi des fonds pendant la période fiscale mentionnée dans l'évaluation de Hathaway : Dexleigh Corp., Noranda Inc., Great Lakes Holdings, Brascan Holdings et HIL Corporation.
+84. L'appelante a retenu les services d'un second expert en vue de procéder à une évaluation. On s'attendrait à ce que cet expert puisse avoir facilement accès aux renseignements des cinq sociétés du groupe Edper dans lesquelles Varitech détenait des actions à diffusion restreinte. Monsieur Myhal est en fait administrateur de deux de ces sociétés, Dexleigh et Noranda Inc.
+85. Dans ces conditions, le refus de se renseigner auprès des sociétés du groupe Edper en vue de déterminer quels renseignements ont été fournis à Hathaway lorsqu'il s'est agi de préparer son opinion, et le refus de permettre pleinement l'accès aux renseignements aux cinq sociétés du groupe Edper donne à entendre qu'il existait une intention de conduire un procès qui constituerait une embuscade. Or, les règles relatives à la communication préalable visent à éviter un procès qui constitue une embuscade, que la Cour ne devrait pas permettre.
+Ébauches antérieures de Hathaway
+86. On a demandé à l'appelante de fournir les ébauches antérieures de l'évaluation de Hathaway. Étant donné que le rapport lui-même a été communiqué et inclus dans la liste de documents, il a été renoncé à tout privilège se rattachant au rapport et aux documents connexes et aucun privilège ne peut se rattacher à quelque ébauche que ce soit.
+Trask v. Canada Life Assurance Co., 2002 B.C.J. no 2823 (C.S.) (QL), 2002 BCSC 1741, paragraphes 69 et 72 (RJ, onglet 12)
+Browne (Litigation Guardian of) v. Lavery, [2002] O.J. no 564 (C.J. Ont.), (QL) (RJ, onglet 4).
+87. L'évaluation de Hathaway a été communiquée par l'appelante à l'étape de la vérification et de l'évaluation, et non conformément à l'article 95 ou à l'article 145 des Règles concernant la communication des rapports. Cela étant, il existe une renonciation au privilège étant donné que l'appelante aurait été au courant du privilège, qu'elle a volontairement manifesté l'intention d'y renoncer et qu'aucune disposition légale ne l'obligeait à communiquer les documents privilégiés.
+S & K Processors Ltd. v. Campbell Avenue Herring Producers Ltd., [1983] B.C.J. no 1499 (C.S.) (QL) (RJ, onglet 10).
+88. En outre, et indépendamment des questions de privilège, cet engagement a été accepté par l'appelante et il semble que l'appelante tente de le retirer (affidavit de JH, pièce F, page 16). Or, une partie ne peut pas se soustraire à un engagement à moins que la partie adverse ne la libère de son obligation.
+Towne v. Miller, [2001] O.J. no 4241 (C.J. Ont.) (QL) (RJ, onglet 11).
+Autres demandes relatives à Hathaway
+89. La demande no 7 du 23 juin se rapportait à l'engagement de faire des recherches en vue de déterminer les autres cas dans lesquels Hathaway avait fourni des services à Hees où à une autre société du groupe Edper. Monsieur Myhal a initialement confirmé qu'il pouvait se renseigner auprès du groupe Edper en vue de savoir qui, au sein du groupe Edper, avait eu recours aux services de Hathaway par le passé (affidavit de CJ, pièce H, page 9).
+90. Dans la question no 36 de l'interrogatoire du 23 juin 2004, on demandait à M. Myhal d'indiquer le montant que l'appelante avait versé à Hathaway Corporation pour l'évaluation des actions de Varitech (affidavit de CJ, pièce V).
+[44] En faisant des remarques au sujet de la demande de renseignements concernant l'évaluation de Hathaway, notamment les ébauches et les renseignements fournis à l'évaluateur, l'avocat de l'appelante a dit que sa cliente avait renoncé au privilège relatif au rapport principal, mais qu'elle n'avait pas renoncé au privilège relatif aux ébauches de rapport.
+L'avocat de l'intimée a également mentionné le paragraphe 95(3) des Règles de la Cour canadienne de l'impôt (procédure générale), qui est rédigé comme suit :
+95(3) Une partie qui interroge au préalable peut obtenir la divulgation de l'opinion et des conclusions de l'expert engagé par la partie interrogée, ou en son nom, sur une question en litige dans l'instance ainsi que ses nom et adresse. Toutefois, la partie interrogée n'est pas tenue de divulguer le renseignement demandé, ni les nom et adresse de l'expert, si :
+a) l'opinion et les conclusions de l'expert sur une question en litige dans l'instance ont été formulées uniquement en prévision d'une poursuite envisagée ou en cours;
+b) la partie interrogée s'engage à ne pas appeler l'expert à témoigner à l'audience.
+[45] Catégorie V
+J'ai minutieusement examiné la situation et j'ai conclu que l'appelante ne doit pas être contrainte à fournir les ébauches de rapports et les autres documents qui ont été demandés au sujet de l'évaluation de Hathaway. En tirant ma conclusion sur ce point, j'ai examiné la décision rendue par la Cour suprême de la Colombie-Britannique dans l'affaire Vancouver Community College v. Phillip Barratt, 20 B.C.L.R. (2d) 289. Aux pages 296 et 297, la Cour a dit ce qui suit :
+[TRADUCTION]
+Dans la mesure où l'expert se limite à agir comme conseiller à titre confidentiel, il existe des raisons valables de maintenir le privilège afférent aux documents qui sont en sa possession. Toutefois, une fois que l'expert devient un témoin, son rôle change énormément. Les opinions de l'expert et leur fondement ne constituent plus des conseils privés pour la partie qui a eu recours à l'expert. L'expert exprime son opinion professionnelle en vue d'aider la Cour à connaître la vérité. Le témoin n'est plus dans le camp partisan. Il témoigne d'une façon objective en vue d'aider la cour à comprendre des questions scientifiques ou techniques ou d'autres questions complexes relevant de son expertise professionnelle. Il a été présenté à la Cour comme une personne qualifiée et bien informée qui est sincère et fiable.
+[...] Il me semble qu'en faisant valoir que l'opinion du témoin est digne de foi, la partie qui cite le témoin renonce implicitement à tout privilège qui protégeait antérieurement les documents de l'expert contre leur production.
+Cette position a été adoptée par le juge Reed, de la Cour fédérale, dans la décision Jesionowski c. Gorecki et Wa-Yas (Le), [1999] 1 C.F. 36.
+[46] J'ai donc conclu que le témoin de l'appelante n'a pas à répondre aux questions suivantes de l'annexe 5 :
+Demande no 540
+Demande no 2
+Question no 38
+Demande no 7
+Question no 36
+[47] Avant de conclure mes remarques au sujet de l'évaluation de Hathaway, je dois décider si l'avocat de l'appelante (Me Nitikman) s'est engagé à fournir des ébauches.
+La question 38 est rédigée comme suit :
+[TRADUCTION]
+Q. Pouvez-vous vous engager à effectuer des recherches appropriées et à demander des renseignements, et à fournir des copies si vous en découvrez?
+Me Nitikman a répondu comme suit :
+« R. Nous nous engageons à les chercher. Quant à fournir des copies, nous devrons délibérer selon ce dont il s'agit et selon que vous y avez droit, selon nous.
+Q. D'accord.
+R. Mais nous nous engagerons certes à les chercher.
+Q. Très bien. Et quant au reste de l'engagement, vous délibérerez?
+R. Oui. »
+[48] L'avocat de l'intimée a soutenu que l'avocat de l'appelante s'était engagé à fournir des copies de projets.
+[49] À mon avis, un examen minutieux des réponses montre que l'avocat de l'appelante s'est engagé à chercher des projets. Toutefois, quant à la question de savoir s'il allait fournir des copies des projets, voici ce qu'il a dit :
+[TRADUCTION]
+[...] nous devrons délibérer selon ce dont il s'agit et selon que vous y avez droit, selon nous.
+À mon avis, Me Nitikman ne s'est pas engagé à fournir à l'intimée des copies des projets.
+Catégorie I
+[50] J'enjoins à l'appelante de répondre aux questions suivantes qui ont été posées lors des interrogatoires préalables. Interrogatoire de George Myhal, 19 mai 2004 : questions nos 35, 51, 85, 101, 116 à 123, demande no 133 et demandes nos 281, 284, 286, 287, 289, 377, 455 et 559. Interrogatoire de M. Myhal, 23 juin 2004 : questions nos 122 et 123, demandes nos 253 et 286 et engagements nos 19, 20 et 21.
+Catégorie II
+[51] Quant aux états financiers de Hees, la Cour enjoint à M. Myhal de répondre aux questions suivantes : nos 504, 512, 621 et 622, 625 à 627, 645 et 646 et demandes nos 721, 734, 738 et 29.
+Catégorie III
+[52] En ce qui concerne les questions qui ont été posées au sujet de Dexleigh Corporation, la Cour enjoint à M. Myhal de répondre aux questions nos 134 à 137 et à la demande no 314.
+Catégorie IV
+[53] En ce qui concerne les statuts constitutifs de l'appelante, M. Myhal n'est pas obligé de répondre à ces questions.
+Catégorie V
+[54] Quant à l'évaluation de Hathaway, M. Myhal n'est pas obligé de répondre aux questions ou demandes suivantes :
+Demande no 7
+Demande no 540
+Demande no 2
+(Nota : En examinant l'avis de requête de l'intimée, j'ai limité mes conclusions aux questions et remarques énoncées par l'avocat de l'intimée aux annexes 1-5 du mémoire de requête en date du 1er novembre 2004).
+B. Avis de requête de l'appelante :
+Question no 296
+[55] Dans la question no 296, l'appelante a demandé à l'intimée d'examiner certains renseignements financiers de Hees, y compris les déclarations de revenus de Hees, les états financiers vérifiés, et ainsi de suite, et de confirmer que les montants indiqués au titre des « dividendes versés » pour les années 1993, 1994 et 1995 de Hees et de l'appelante étaient exacts.
+[56] L'avocat de l'intimée a refusé de le faire pour le motif [TRADUCTION] qu' « ils ne vont pas procéder à une vérification de Hees et [qu']ils ne peuvent pas être contraints à le faire » .
+[57] L'avocat de l'appelante a dit que le ministre devrait être en mesure d'avoir accès aux feuillets T-5 et de déterminer le montant total des dividendes versés par Hees et par l'appelante pour chaque année.
+[58] À mon avis, l'intimée n'est pas tenue de fournir ce renseignement à l'appelante.
+[59] Dans l'avis de requête qui a été déposé devant la Cour le 19 octobre 2004, l'avocat de l'appelante a demandé à la Cour de contraindre M. MacGibbon à répondre à la question suivante :
+[TRADUCTION]
+Question no 602
+Q. J'aimerais que vous vous engagiez à demander à M. Demarco si les valeurs indiquées à l'onglet 76 à chacune des dates pour ces actions à diffusion restreinte représentent, à son avis, la juste valeur marchande réelle de ces actions à cette date.
+Et dans la négative, j'aimerais que vous lui demandiez son opinion à savoir quelle était la juste valeur marchande réelle de ces actions lors de chacune des ventes.
+[60] L'avocat de l'intimée a dit ce qui suit :
+[TRADUCTION]
+Je crois que nous pouvons accepter la première partie de l'engagement. Quant à la seconde partie, nous délibérerons. En effet, encore une fois, je crois que l'on cherche à obtenir une opinion qui n'a pas été donnée.
+[61] Dans son argumentation, l'avocat de l'appelante a dit ce qui suit :
+[TRADUCTION]
+11. Varitech dit que si la Couronne admet qu'il faut évaluer les actions de la société privée, et si la Couronne admet que l'évaluation de M. Demarco au prix coûtant ne représentait pas en fait la juste valeur marchande, la Couronne doit dire quelle était la juste valeur marchande réelle. La Couronne ne peut pas dire : « Oui, nous devons évaluer ces actions, et oui, nous admettons que nous ne les avons pas évaluées correctement, mais nous ne vous dirons pas quelle est leur valeur réelle. » En fait, M. Demarco lui-même a soutenu que la valeur réelle des actions de la société privée est inférieure de 25 à 35 p. 100 au prix coûtant.
+[...] Varitech demande simplement à M. Demarco de confirmer qu'il s'agit bien de la moins-value à imputer en déterminant la valeur réelle des actions de la société privée.
+[62] L'avocat de l'intimée maintient que l'appelante n'a pas droit aux renseignements demandés. Voici ce qu'il a dit :
+[TRADUCTION]
+Ils lui demandent d'aller faire quelque chose d'autre et de nous faire connaître le résultat. C'est clairement en dehors des paramètres de la communication préalable.
+[63] Je souscris à la position adoptée par l'avocat de l'intimée. Je ne crois pas que M. MacGibbon doive être contraint à répondre à ces questions.
+Question no 717
+[64] L'avocat de l'appelante a posé la question suivante à M. MacGibbon :
+[TRADUCTION]
+Étant donné ce qui s'est passé aujourd'hui, et que la société avait suffisamment d'argent pour racheter toutes les actions de premier rang, croyez-vous encore qu'il est raisonnable de supposer que la juste valeur marchande de ces actions est d'au plus 21,50 $?
+Et l'avocat de l'intimée a dit ce qui suit :
+[TRADUCTION]
+Vous essayez d'avoir recours à des moyens détournés en ce qui concerne ce qui vous a déjà été dit au sujet de la position de la Couronne dans ce cas-ci, que les valeurs n'étaient pas inférieures à un certain montant.
+[...]
+Nous vous avons fait connaître la position de la Couronne, de sorte qu'il ne s'agit pas d'une question légitime.
+[65] Je souscris à la position adoptée par l'avocat de l'intimée sur ce point. Je note également qu'il s'agit de questions qui seraient posées à un témoin qui est qualifié pour exprimer une opinion d'expert sur l'évaluation d'actions. Or, M. MacGibbon n'est pas qualifié pour répondre à cette question.
+Question no 849
+[66] L'avocat de l'appelante a posé la question suivante :
+[TRADUCTION]
+Q. J'aimerais que vous demandiez à M. Demarco si... il croit qu'un écart d'actualisation aurait dû être attribué aux actions ordinaires et, dans l'affirmative, quel devrait être cet écart.
+[67] À mon avis, M. MacGibbon ne devrait pas être contraint à répondre à cette question.
+[68] Dans son avis de requête, l'avocat de l'appelante a demandé à la Cour de radier le mot [TRADUCTION] « prétendus » figurant dans l'avant-dernière phrase du paragraphe 9 et la totalité de la dernière phrase du paragraphe 9 de la réponse à l'avis d'appel.
+[69] Les deux dernières phrases du paragraphe 9 de la réponse de l'intimée sont rédigées comme suit :
+[TRADUCTION]
+9. [...] Toutefois, il donne des précisions en disant que cette fourchette de pourcentages pour les justes valeurs marchandes des diverses catégories d'actions était fondée sur l'hypothèse selon laquelle les actions participatives de rang inférieur devaient se voir attribuer une partie du solde des bénéfices non répartis compte tenu de leurs droits légaux prétendus. Le ministre a également supposé que si les actions de rang inférieur ne devaient pas se voir attribuer une partie du solde des bénéfices non répartis compte tenu de leurs droits légaux prétendus, le pourcentage de la juste valeur marchande des actions ordinaires aux dates auxquelles les dividendes ont été versés par rapport à la juste valeur marchande de toutes les actions émises était le suivant : [...]
+(Dans la réponse, on indique ensuite la juste valeur marchande des actions ordinaires en tant que pourcentage de la juste valeur marchande totale de toutes les actions à certaines dates où des dividendes ont été versés.)
+[70] Quant à la requête visant à faire radier le mot [TRADUCTION] « prétendus » , l'avocat de l'appelante a soutenu que le mot [TRADUCTION] « prétendus » voulait dire que le droit de participation n'existait pas réellement.
+[71] Dans son mémoire de requête, pour la requête de l'appelante, l'avocat de l'intimée a dit ce qui suit :
+[TRADUCTION]
+5. L'article 53 des Règles prévoit qu'un acte de procédure peut être radié s'il est scandaleux, frivole, vexatoire, s'il constitue un recours abusif ou s'il peut compromettre ou retarder l'instruction équitable de l'appel. Les actes de procédure sont radiés uniquement dans les cas clairs et évidents.
+6. La Règle ne prévoit pas la radiation d'un acte de procédure compte tenu d'un aveu qui a été fait dans le cadre de la communication préalable. Il n'y a rien qui oblige une partie à modifier ses actes de procédure au fur et à mesure du déroulement de sa cause, à moins qu'elle ne décide de le faire.
+[...]
+9. En présentant cette requête, l'appelante allègue qu'un aveu a déjà été fait dans le cadre de la communication préalable. Même si c'est le cas, il n'existe aucune raison et aucun précédent permettant d'exiger la modification des actes de procédure. Le seul but apparent de la requête en radiation est de forcer l'intimée à faire un aveu qu'elle n'a pas déjà fait, ou de tenter de cristalliser une description inexacte de la nature de l'aveu qui a été fait. Cela ne saurait être permis.
+[72] Je souscris à la position adoptée par l'avocat de l'intimée et je rejette la requête que l'appelante a présentée en vue de faire radier quelque partie que ce soit des actes de procédure de l'intimée.
+[73] Étant donné que le succès est partagé, j'ordonne que les dépens suivent l'issue de la cause.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de décembre 2004.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 14e jour de février 2006
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2004CCI738
+No DU DOSSIER DE LA COUR :
+2002-1002(IT)G
+INTITULÉ :
+GLP NT Corporation
+(autrefois Varitech Investors Corporation)
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Les 1er et 2 novembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 décembre 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Joel A. Nitikman
+Avocats de l'intimée :
+Me David Jacyk
+Me Thomas Torrie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

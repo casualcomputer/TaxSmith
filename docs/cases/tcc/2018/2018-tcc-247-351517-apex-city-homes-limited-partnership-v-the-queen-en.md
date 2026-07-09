@@ -1,0 +1,169 @@
+---
+title: "Apex City Homes Limited Partnership v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/351517/index.do"
+last_modified: "2018-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 247"
+citation2: ""
+neutral_citation: "2018 TCC 247"
+decision_date: "2018-12-06"
+language: "en"
+item_id: "351517"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4976
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:32:54.137000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02598596560f6751531017e9ae2f25ec0355dedd99ec94da5683bd22230dea75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Apex City Homes Limited Partnership v. The Queen
+
+- Citation: 2018 TCC 247
+- Decision date: 2018-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4976, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Apex City Homes Limited Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-06
+Neutral citation
+2018 TCC 247
+File numbers
+2018-831(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-831(IT)I
+BETWEEN:
+APEX CITY HOMES LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 8, 2018, at Vancouver, British Columbia
+Before: The Honourable Justice R. MacPhee
+Appearances:
+Agent for the Appellant:
+Shawn Smith
+Counsel for the Respondent:
+Peter Campbell
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2013, 2014 and 2015 taxation years are dismissed. The parties are responsible for their own costs.
+Signed at Ottawa, Canada, this 6th day of December 2018.
+“R. MacPhee”
+MacPhee J.
+Citation: 2018 TCC 247
+Date: 20181206
+Docket: 2018-831(IT)I
+BETWEEN:
+APEX CITY HOMES LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+Introduction
+[1] These appeals arise from the assessment of penalties of $2,500 for each of the 2013, 2014 and 2015 taxation years pursuant to subsection 162(7) of the Income Tax Act (the “Act”). The Minister of National Revenue (the “Minister”) has assessed on the basis that the Appellant was required to file a form T5018 Summary in each of the years but failed to do so.
+[2] The Appellant is a partnership in the business of developing and selling residential condominiums in Calgary (the “Condos”). The sale of these units was the source of the Appellant’s revenue.
+[3] The question before the Court is twofold:
+1) whether the Appellant was required, pursuant to section 238 of the Income Tax Regulations (the “Regulations”) to file a form T5018 Summary for each of the 2013, 2014 and 2015 taxation years; and
+2) if so, whether the Minister properly levied a penalty pursuant to subsection 162(7) of the Act for the failure of the Appellant to file this form.
+Facts
+[4] The evidence of the Appellant was provided through the testimony of Shawn Smith, the CFO of the parent company of the Appellant, Pacific Capital Real Estate Ltd (“PCRE”). Mr. Smith testified that the Appellant is one of 60 different subsidiary entities under the parent company. New entities, such as the Appellant, are formed or incorporated as new projects are commenced, and the entities are dissolved when the projects are completed.
+[5] What was made clear in Mr. Smith’s testimony is that the Appellant and the other related entities have been good corporate citizens. They have been audited frequently by the Canada Revenue Agency (“CRA”), almost always without issue.
+[6] The Appellant does not employ people in the construction industry, such as gyprock installers, carpenters or other tradespeople. Instead what the Appellant did in the taxation years in question was to hire a general contractor to construct condo units in Calgary. The general contractor employed the necessary subcontractors. The general contractor was paid by the Appellant on monthly basis. Upon completion, the condos were sold by the Appellant.
+Analysis
+[7] The term “construction activities” is defined in subsection 238(1) of the Regulations to include the erection, excavation, installation, alteration, modification, repair, improvement, demolition, destruction, dismantling or removal of all or any part of a building, structure, surface or sub-surface construction, or any similar property.
+[8] Under subsection 238(2) of the Regulations, every person or partnership that pays or credits, in a reporting period, an amount in respect of goods or services rendered on their behalf in the course of construction activities shall make an information return in the prescribed form (Form T5018) in respect of that amount, if the person's or partnership's business income for that reporting period is derived primarily (more than 50% of a business' income-earning activities) from those activities.
+[9] If a party does not comply with their obligation to file a Form T5018 they are subject to a penalty pursuant to subsection 162(7) of the Act, which reads:
+Failure to comply
+(7) Every person (other than a registered charity) or partnership who fails
+(a) to file an information return as and when required by this Act or the regulations, or
+(b) to comply with a duty or obligation imposed by this Act or the regulations
+is liable in respect of each such failure, except where another provision of this Act (other than subsection 162(10) or 162(10.1) or 163(2.22)) sets out a penalty for the failure, to a penalty equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+[10] To determine whether the Appellant was properly assessed penalties pursuant to section 162(7) of the Act, I must first determine whether the Appellant had a responsibility to file a Form T5018 under Regulation 238.
+[11] It is a question of fact both as to whether a particular activity is a “construction activity” and also whether a corporation's business income for a reporting period is “derived primarily” from construction.
+[12] This determination involves a two part test. First, I must consider whether the Appellant has paid, in the reporting period, an amount for goods or services rendered on their behalf in the course of construction activities as that term is defined in 238(1) of the Regulations.
+[13] If the answer is yes, I must then determine whether the Appellant’s partnership business income is derived primarily from those construction activities.
+[14] If both these tests are met, then the Appellant was required, pursuant to 238(2) of the Regulations to file a Form T5018.
+Has the Appellant paid, in the reporting period, an amount for goods or services rendered on their behalf in the course of construction activities as that term is defined in the Regulations at 238(1)
+[15] The Appellant hired a general contractor, presumably gave directions in some form to that contractor concerning the construction of the condos and paid the contractor, on a monthly basis, for services rendered. These payments were made in order to erect condos in Calgary. There is no dispute that it is only because of various steps taken by the Appellant that the condo units in Calgary were constructed.
+[16] After the condo units were completed, the Appellant then sold the units to the public. Based on these facts, I have no problem in finding that the Appellant has paid, in the reporting periods, an amount for goods or services rendered on their behalf in the course of construction activities as that term is defined in the Regulations.
+[17] The Appellant therefore meets the first part of the test under 238(2).
+Was the Appellant’s partnership business income derived primarily from those construction activities
+[18] The Appellant argues that they are not in the business of constructing condos; they are in the business of selling condos after they are constructed.
+[19] It was admitted by the Appellant that the revenue of the partnership is derived exclusively from the sale of the condos. It was also admitted that the cost of constructing the condos made up part of the cost of goods sold on the Appellant’s financial statement.
+[20] In Minister of National Revenue v Hollinger North Shore Exploration Co. Ltd., [1963] SCR 131, the Supreme Court of Canada found, when reviewing the term “derived” that it is “broader than ‘received’ and ... equivalent to ‘arising or accruing’”.
+[21] In Garcia v Canada, [2007] TCJ No. 386, 2007 DTC 1593, Justice Lamarre, as she was then known, defined the meaning “derived” as follows:
+37 Accordingly, I do not believe that “derived” should be interpreted as referring to the “accrual basis of accounting”. Rather, I would suggest that it should be understood to mean something akin to “having its source”….
+[22] In this particular case, I find that the source of the Appellant’s business income comes from two integral phases of their business operations; 1) the construction of condos, and 2) the sale of the condos. The Appellant has incurred costs and assumed risk in constructing the condos prior to their sale. To ignore the construction component of the Appellant’s business would be an incorrect interpretation of the phrase “derived primarily from”.
+[23] Therefore I find the Appellant meets both components of the test set out in section 238 of the Regulations. The Appellant was required to file a Form T5018.
+Penalties under 162(7) of the Act
+[24] The analysis now turns to the penalty applied against the Appellant in each of the years. Based on my understanding of the Appellant’s argument, I must consider whether the Appellant can rely upon the defence of due diligence.
+[25] A due diligence defence was described as follows in Corp. de l’École Polytechnique v Canada, [2004] FCJ No. 563, 2004 FCA 127, at paragraph 28:
+The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen. v. Sault Ste. Marie (City), [1978] 2 S.C.R. 1299; The Queen v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+[26] Mr. Smith testified that he and those in his organization had given a lot of thought to the issue of whether the Appellant had to file a Form T5018. As part of the process he stated that he spoke with a representative from CRA to determine the Appellant’s obligations and was told that there was no necessity to file a form T5018 for any of the years in question.
+[27] The Appellant also put into evidence an information circular prepared for the public by the CRA, entitled Information for Payers of the T5018 which he claimed supported the Appellant’s position not to file a Form T5018.
+[28] Upon reviewing the information circular in question, I do not see how it supports the Appellant’s case. While the content of the circular did not specifically describe the Appellant’s situation, (a party hiring a contractor to run a construction project on their behalf), a review of this circular would not reasonably lead the Appellant to the conclusion that they did not have to file a Form T5018.
+[29] Furthermore, the Respondent put in evidence a letter from the CRA to the Appellant, dated October 12, 2016. In the letter the CRA requested the Appellant file a Form T5018 for the years in question. This letter preceded the application of the penalty to the Appellant under section 162(7) of the Act.
+[30] While Mr. Smith stated he was not familiar with this letter, I do accept the evidence of the Crown that this correspondence was in the Appellant’s file with the CRA. If in fact the Appellant did not receive this correspondence as he has stated, then I do find that if he were duly diligent in contacting CRA, as he claims he was, then he would have ensured he was aware of CRA’s position.
+[31] In reviewing the totality of the Appellant’s evidence and submissions, what is more likely is that the Appellant simply did not accept the CRA’s position that they had to file a Form T5018, and therefore they chose not to do so.
+[32] Based upon these facts, I do not find that the Appellant has a defence of due diligence regarding the 162(7) penalties.
+[33] I deny the appeals. Both parties are responsible for their own costs.
+Signed at Ottawa, Canada, this 6th day of December 2018.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2018 TCC 247
+COURT FILE NO.:
+2018-831(IT)I
+STYLE OF CAUSE:
+APEX CITY HOMES LIMITED PARTNERSHIP AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 8, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice R. MacPhee
+DATE OF JUDGMENT:
+December 6, 2018
+APPEARANCES:
+Agent for the Appellant:
+Shawn Smith
+Counsel for the Respondent:
+Peter Campbell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

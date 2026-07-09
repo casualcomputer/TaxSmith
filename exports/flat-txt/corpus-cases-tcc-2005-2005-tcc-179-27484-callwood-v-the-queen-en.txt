@@ -1,0 +1,193 @@
+Title: Callwood v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27484/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-179-27484-callwood-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-17
+
+# Callwood v. The Queen
+
+- Citation: 2005 TCC 179
+- Decision date: 2005-08-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 43, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callwood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-17
+Neutral citation
+2005 TCC 179
+File numbers
+2004-2013(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2013(IT)I
+BETWEEN:
+TRACEY CALLWOOD,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent,
+And
+JOHN G. CRAWFORD,
+Joined Party.
+____________________________________________________________________
+Reference heard on March 2, 2005 in Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Darrell Callwood
+Counsel for the Respondent:
+Aleksandrs Zemdegs
+Agent for the Joined Party:
+Suzanne Crawford
+____________________________________________________________________
+DETERMINATION AND JUDGMENT
+Whereas pursuant to an Order of this Court dated December 16, 2004 the Appellant and the Joined Party are parties described in paragraph 174(3)(b) of the Income Tax Act (Canada) such Order having been issued on application by the Minister of National Revenue for a determination, pursuant to subsection 174(1), of a common question relating to the Appellant's appeal of a reassessment of her 2000 and 2001 taxation years which included child support payments in her taxable income;
+And whereas a hearing was held in respect of the determination sought and, as well, written submissions were received including a submission in respect of a disability tax credit issue raised in the appeal but not affecting the Joined Party and not dealt with in the determination requested;
+The following determination and judgment are hereby rendered:
+DETERMINATION
+It is determined that the child support payments in 2000 ($20,800.00) and the child support payments less $533.00 in 2001 ($20,000.00) are properly includable in the taxable income of the Appellant and are properly deductible from the taxable income of the Joined Party for the reasons set out in the attached Reasons for Determination.
+JUDGMENT
+In accordance with the foregoing Determination and in accordance with the consent of the Respondent to the allowance of a non-refundable tax credit in respect of a disability amount for the Appellant for her 2000 and 2001 taxation years, the appeal is allowed, without costs and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on that basis.
+Signed at Ottawa, Canada, this 17th day of August 2005.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2005TCC179
+Date: 20050817
+Docket: 2004-2013(IT)I
+BETWEEN:
+TRACEY CALLWOOD,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+JOHN G. CRAWFORD,
+Joined Party.
+REASONS FOR DETERMINATION
+Hershfield J.
+[1] This is a reference for a determination of a common question pursuant to section 174 of the Income Tax Act (the "Act") and the Order of this Court dated December 16, 2004 (the "Section 174 Order").
+[2] The Appellant filed an appeal in respect of her 2000 and 2001 taxation years seeking to reduce the amount of support payments included in her taxable income in those years pursuant to paragraph 56(1)(b) of the Act. The Joined Party claimed a deduction of the subject payments in those years pursuant to paragraph 60(b) of the Act. The Section 174 Order recognizes that these are reciprocal provisions of the Act. That is, the Section 174 Order recognizes that a determination of the question of the Appellant's claim to reduce the amount of support payments included in her taxable income would also constitute a determination of the Joined Party's deductible amount as both determinations are based on the resolution of a common question of law and on common findings of fact arising from the same events. The Respondent has proposed to reassess the Joined Party accordingly in the event that the Appellant is correct in respect of her claim. Subject to subsection 174(4.1) of the Act, the determination of the question before me will be final and binding on all the parties pursuant to subsection 174(4).
+[3] The Appellant's current husband, a former paralegal in a U.S. law firm, gave evidence on behalf of the Appellant who I will refer to simply as "Tracey". He was a credible witness who was personally involved in the drafting of documents and had personal knowledge of all of the court proceedings and goings on between the parties and their lawyers at all relevant times. I accept his evidence but that is not to say that I accept certain inferences or arguments that he wished me to draw or accept. The Joined Party's current wife gave evidence on behalf of the Joined Party who I will refer to simply as "John". John's current wife was also a credible witness but had less personal knowledge of matters relating to the agreements and the child support payments. Accordingly, I do not give her evidence weight except in respect to exhibits she tendered, the authenticity of which was not challenged.
+[4] Tracey and John were divorced in 1997. Prior to the divorce they entered into a separation agreement in January 1997 which made provision for the support of three children of the marriage (the "original agreement"). In October 2000, the original agreement was amended (the "amending agreement") and the support provision in respect of the children was varied. The question to be determined pursuant to section 174 is whether the variance in the terms of the original agreement, or any other event, created a "commencement day" so as to bring the support payments made thereafter within the new child support regime introduced effective in May 1997, whereby child support payments are not taxable to the recipient (Tracey) and not deductible by the payor (John).
+[5] Tracey was assessed in respect of her 2000 and 2001 taxation years as having received taxable child support payments which reflects the position that there were no events including the entering into of the amending agreement that would create a commencement day so as to bring child support payments within the new regime. As noted, Tracey has appealed that assessment although it seems that both parties, at the time they filed their returns for the subject years, continued to believe that the old regime governed (i.e. that payments were deductible and that receipts were taxable) even after the original agreement was amended.[1] This is evidenced not only by the manner in which the parties filed their returns but by correspondence which I will refer to later in these Reasons and by the fact that no attempt was made to address the different economic affect on both parties that a change in tax treatment would cause. This suggests that the intention of the parties was not to regard the changes in the agreement as constituting a change in tax treatment. While intentions are not generally relevant in determining whether there is a commencement day that marks when child support payments are brought into the new non‑taxable/non‑deductible regime, since the Act itself seems to leave no room to consider intentions, in some cases, intentions may be considered as appeared to be the case in Dangerfield v. Canada as decided by the Federal Court of Appeal.[2] In any event, the changes to the original agreement need to be analyzed in light of the statutory provisions.
+[6] Paragraphs 56(1)(b) and 60(b) of the Act provide for the exclusion of "child support amount" payments which are defined in subsection 56.1(4). In brief, child support amount payments are not included in the taxable income of the recipient and not deductible in the calculation of the payor's taxable income if they are receivable and payable under an agreement or order made after its "commencement day". The "commencement day" of an agreement or order is defined in subsection 56.1(4) as follows:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+. . .
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[7] Consider now the agreements and orders present in this case.
+[8] The original agreement provided as follows:
+VII. CHILD SUPPORT
+Husband hereby agrees to pay Wife as child support, and Wife agrees to accept as child support, according to the following schedule:
+1997: $400.00 within three months of the signing of this Agreement by Wife
+Alicia Aileen Crawford: 1997-2003
+$1599.99 no later than March 31
+$1599.99 no later than June 30
+$1599.99 no later than September 30
+$1599.99 no later than December 31
+Bryce Gordon William Crawford: 1997-2008
+$1599.99 no later than March 31
+$1599.99 no later than June 30
+$1599.99 no later than September 30
+$1599.99 no later than December 31
+Alexandria Betty Crawford: 1997-2009
+$1600.02 no later than March 31
+$1600.02 no later than June 30
+$1600.02 no later than September 30
+$1600.02 no later than December 31
+Husband agrees to render payments on a weekly basis in the form of cashier's check or money order until a wage attachment is granted.
+It is specifically understood and agreed by the parties that if said minor children attend college, then the support payments will continue until graduation or enrollment ceases. It is also understood that the Husband will share the burden of expenses for clothing, medical insurance and any other necessary expenses of said children. Husband and Wife agree that these support payments shall not be modified by any Court during the lifetime of the parties hereto. (Emphasis added to highlight paragraphs deleted by amending agreement.)
+[9] It was acknowledged at the hearing that the payment schedule was based on $400.00 per week for all three children or $133.00 per week per child (rounded to the nearest dollar) but same was apparently mistakenly equated to $1,600.00 per month as an aggregate payment (whether there were four weeks in a month or not). That is, the payment schedule of essentially $1,600.00 per quarter per child mistakenly corresponds with a monthly obligation of $1,600.00 which is less than $400.00 on a weekly basis. It seems that I might have been the first person to draw the parties' attention to the difference. In any event, payments were required under the agreement to be made on a weekly basis and I gather that the parties had a common understanding, reflected in the actual payments made, that the required child support was $133.00 per week per child or $20,800.00 per year if paid in full.
+[10] The amending agreement provides as follows:
+3. Child Support
+The former wife acknowledges that there are no arrears outstanding of child support owed by the former husband to the former wife.
+Paragraph VII of the Domestic Contract (i.e. the original agreement) is amended by deleting therefrom the two ending paragraphs therein from "Husband agrees to ..." to "... lifetime of the parties hereto".
+[11] The deletion is of the highlighted portions of the original agreement reproduced above. It is clear that the deletion of the understanding to share expenses for clothes, medical insurance and other necessities is not a variation referred to in subparagraph (b)(ii) of the definition of "commencement day" as the "child support amounts" payable are the fixed amounts referred to in the original agreement and these have not been varied. This is the case as "child support amount" as defined in subsection 56.1(4) of the Act must first be a "support amount" which is defined in that subsection as an allowance payable or receivable on a periodic basis. The necessary expenses referred to in the original agreement were not payable on a periodic basis. Accordingly they were not part of the "child support amounts" provided for in the original agreement. Their deletion then cannot be a change to the "child support amounts" payable which is to say that there is no commencement day under subparagraph (b)(ii) of the definition by virtue of that deletion.
+[12] The Appellant argued that the total child support has been varied so as to meet the requirement for a commencement day in subparagraph (b)(iii) of the definition since an extension of child support was deleted in the amending agreement. This deletion does create the possibility that the total child support paid will be less under the amending agreement. However subparagraph (b)(iii) does not speak to possibilities. It speaks to a variation the effect of which is to actually change the total child support. Where the effect of changing the total is, under an amending agreement, contingent on an unknown future event, it cannot be a variation that creates a commencement day at the time of entering into the amending agreement.[3]
+[13] In addition to deleting the two highlighted paragraphs of the original agreement, a provision respecting life insurance is added as subclause 3(a) to the amending agreement. That subclause acknowledges that John carried a policy of life insurance on his life and that he would designate Tracey as the beneficiary of his life insurance benefits in trust for the children. The designation was to remain for so long as John is obligated to provide support for the children. John undertook, in the amending agreement, to maintain the policy in force and to pay the premiums on the policy as they fall due. It is also provided that if John dies without the insurance in effect, his obligation to pay child support pursuant to the amending agreement will survive his death and be a first charge on his estate.
+[14] This amendment (adding an annual or other periodic life insurance premium payable to benefit children) is argued to be a variation for the purposes of creating a commencement day. The issue is whether such payments are an "allowance" paid to Tracey as required under the definition of "support amount". As the premium payments are for the benefit of the children, subsections 56.1(1) and 60.1(1) of the Act apply to avoid any issue as to whether Tracey was the recipient of the premium amounts. Such subsections deem such third party payments to be payable to and receivable by Tracey and, when paid, to have been paid to, and received by, her. However, that is not sufficient to constitute the payment as an "allowance". To be an allowance, Tracey must have discretion as to the use of the amounts. While there is authority for the view that discretion can be exercised in advance of the receipt of periodic payments so that pre‑arranged and agreed upon third party payments have been found not to run afoul of the discretion as to use requirement,[4] there should, in my view, be some basis for drawing the inference that that was what the recipient parent intended.[5] In the case at bar I find that no such intention can be inferred. There is no exercise of discretion by Tracey as to the use of dollars available for the maintenance and support of the children. To the contrary, the dollars applied to insurance served a different purpose. Tracey wanted financial protection for the children after John's death if he died before his child support obligations ended. The subject clause in the amending agreement does that at a cost to John of the insurance premiums or failing that, effectively at his choice, at a cost to his estate in terms of its continued liability. As such, this added provision cannot be said to be an "allowance" and accordingly it cannot be said to be a variation in child support amounts payable or receivable.
+[15] In addition to the amending agreement there is another document pre‑dating the amendment that relates to the question as to whether or not there has been a commencement day in respect of the subject child support payments. This earlier document is a divorce judgment dated May 12, 1997, signed by the local registrar of the Ontario Court (General Division) on June 12, 1997 ordering and adjudging that Tracey and John are divorced effective June 12, 1997. The Order does not expressly acknowledge or refer to the original agreement but a provision of the original agreement - that Tracey has not relinquished or waived any rights she may have or acquire in and to any retirement plan that John or his estate may receive - is set out in the order. The order makes no mention of child support but I mention it as there was reference at the hearing to an agreement made in contemplation of the divorce judgment.
+[16] In April 1997, prior to the issuance of the divorce judgment, the parties signed and filed affidavits in respect of the divorce petition. These affidavits confirm or constitute an agreement to an equal division of John's CPP and GM pension plan as well to John making an irrevocable designation of Tracey as the sole beneficiary of his life insurance plans and his pension plan. The affidavits go on to provide as follows:
+3. The Respondent agrees that the child support will be increased annually in each year commencing in January 1998, for so long as child support is payable under the Separation Agreement, by an amount equal to the lesser of the annual percentage increase in the Cost of Living of the proceeding year and the annual percentage increase in the Respondents salary.
+[17] If these affidavits constitute an agreement to vary the original agreement, they are pre-May, 1997 variations so no commencement day is created by them. The June 1997 divorce judgment makes no reference to them or to their subject matter, so it does not create a commencement day. Further, there is virtually no evidence that the inflation provision seemingly agreed to by sworn affidavit was ever given effect. Indeed the evidence is to the contrary. Based on what I can gather from the evidence, which is lacking on this point, the affidavits seem to reflect some without prejudice pre-divorce negotiations which were never given effect and must therefore be ignored.[6]
+[18] The next series of events raised at the hearing relates to correspondence exchanged in the course of negotiating or working out the terms of the amending agreement. John's current wife tendered a letter dated September 1, 1999 from John's lawyer to Tracey's lawyer indicating that John would, under the amending agreement, "continue the existing $1,600.00 per month payments, tax deductible and includable, which includes any extraordinary expenses".[7] This letter was intended to suggest that the intention of the parties was that the amending agreement was not to amend the tax regime applicable under the original agreement.
+[19] Tracey's representative argued that this correspondence never reflected an agreement by the parties as to the tax treatment. He asserted that a letter of May 23, 2000 from Tracey's lawyer to John's lawyer supported his position. However, such letter does not strike me as suggesting anything other than Tracey's lawyer had thought that the child support payments would be taxable under the original agreement. He warns or cautions however of a different treatment than that expected. Such warning or caution cannot be taken as a reflection of intent in regard to the amending agreement. His letter provides as follows:
+However, I must advise you at this time that Revenue Canada has initially advised my client (Tracey) that the payments currently being made by your client (John) are not taxable in her hands and tax deductible in his hands given the writing of the existing agreement prepared in January of 1997. Therefore, it is incumbent upon me to advise you that we may wish to re-visit the issue of child support unless your client continues to be willing to pay the said sum on a non tax deductible basis.
+[20] The possible tax position posed in this last letter does not appear correct at law. Regardless, a letter of December 1, 2000 from Tracey's lawyer to Tracey confirms that he left the tax situation in respect of ongoing child support payments to her to deal with with Revenue Canada. There is no evidence that this was dealt with but if Tracey thought the child support payments were tax free under either the original agreement or the amending agreement it seems unlikely she would have filed her returns on the basis that they were taxable. Further, it does not appear that Tracey's lawyer's letter to John's lawyer in May 2000 dissuaded John from believing that the payments would continue to be deductible even under the amended agreement since he continued to deduct support payments. On balance then I find the evidence supports a finding that the parties never intended the amending agreement to cause a change in the tax regime applicable to the child support payments. While intention should not be determinative, if relevant at all, it is somewhat comforting to point out, where it is possible to do so, cases where the legal affect of actions coincide with intentions.
+[21] The events potentially impacting the question before me do not stop here. There was an additional Order in September 2002 of the Ontario Superior Court of Justice that provided as follows:
+1. The obligation of the respondent John Crawford to pay support for the child Alicia Alieen Crawford, born May 15, 1985 is suspended, effective December 14, 2001.
+This Order makes no reference to the reason for suspending the obligation to pay support but was apparently made as that child, Alicia, had commenced living with her father on December 14, 2001. I accept this to be the case.
+[22] Following the issuance of the September 2002 Order, John's lawyer wrote Tracey to confirm that effective December 31, 2001 his client would comply with the provisions of the agreement by continuing child support payments for two children in the total sum of $266.00 per week.[8] Notwithstanding that this letter states a compliance date of December 31, 2001, the actual effective date set out in the September 2002 Order would prevail in terms of establishing payables and receivables at particular times. As well, I note that John's actual payments in December 2001 were as required under the September 2002 Order which was clearly intended to confirm his legal obligation at that earlier time.
+[23] I note at this point that the scope of my determination, pursuant to the reference under section 174, is to deal with the Appellant's 2000 and 2001 taxation years. Under subparagraph (a)(ii) of the definition of commencement day, there is a commencement day when the first varied amount is payable. This raises two issues. Firstly, is there a varied or changed child support amount where the amount per child has not been varied and secondly if there is a change in the child support amount in such case, was there a varied amount payable in 2001 so as to impact the inclusions and deductions in that year?
+[24] A "support amount" is defined in subsection 56.1(4) of the Act as the amount payable for the maintenance of the recipient or children of the recipient or both. It is not defined on a per person basis where different persons are intended to benefit by specific, stipulated amounts. A "child support amount" is a "support amount" not identified as solely for the benefit of the recipient who is a parent of a child. None of the payments in the subject appeal are identified as solely for Tracey the recipient parent. To the contrary they are identified for specific children in specific amounts but that identification simply makes the total of all the support payments "child support amounts". No distinctions are made in the Act as to whether payments are for one or more children. Recipient parents are not presumed to be bound to apply receipts in accordance with the rationale that was the basis for formulating the amount of support. Under the Act for taxation purposes support is for children as a group regardless of their number and if the group support amount changes under written agreement or court order after April 1997, for any reason, the new regime governing child support payments applies.[9] Accordingly, notwithstanding that the support payments in the case at bar remained unchanged on a per child basis, the child support amount as defined in the Act did change from $400.00 per week to $266.00 per week and a commencement day is thereby created.[10]
+[25] An alternative approach would be to read the subject provisions and definitions as applying separately to each payment in respect of each child where such separation is evident from the agreement and order providing for them. In the case at bar then there would be three distinct support amounts payable to Tracy. One such support amount was changed but two were not. The two unchanged support amounts of $133.00 per week in respect of each child still living with Tracey have not changed so that the new tax regime governing child support payments would not apply to them.
+[26] Support for this latter construction can be found in Miller v. R[11]. In that case it was held that an order reducing child support by the amount applicable for one child who had attained the age of 21 years was not a change in the child support amount payable. The attraction of this decision is that it reflects the intentions of the parties who made no attempt to address taxation issues on the basis of the new regime and thwarts the seemingly unintended result sought by one of the parties who, unilaterally after continuing to file returns on the basis of the former regime, now seeks an advantage. Further, deference and comity among judges to add certainty and predictability in an area of such statutory complexity as exists here seems appropriate where doing so gives effect to the common understanding of the parties in a case where the Act provides for reciprocity between them. Still, I cannot ignore what seems to me to be the clear consequences of the subject provisions of the Act as written which is that a change in support, in respect of even one child, triggers the new regime both as a change in the child support amount under paragraph (b)(ii) and as a change in the total child support payable under paragraph (b)(iii).[12] Accordingly, I find that the September 2002 Order caused a commencement day to come into existence.
+[27] The next issue then is when the new, post-April 1997, child support taxation regime applies in the case at bar. The commencement day under subparagraph (a)(ii) of the definition is the day on which the first payment of the varied amount is required to be made. That day under the September 2002 Order is December 14, 2001.[13] Accordingly, all payments payable and receivable after that date are not deductible by John and not includable by Tracey in the calculation of their respective taxable incomes. Such amounts are determinable. The 2001 child support amount under appeal by the Appellant ($20,533.00) is two weekly payments, of $133.00 each, short of a full year's child support calculated under the original and amended agreements. Two weekly payments of $400.00 each were payable in December before the 14th under the original and amended agreements and two weekly payments of $266.00 each were payable in December after the 14th as required under the September 2002 Order. It is these latter payments totalling $533.00 that were required to be made after a commencement day and, accordingly, they fall under the new child support payment tax regime regardless of the intentions or understandings of the parties. Accordingly, I find that the full amount under appeal in 2000, and, the amount under appeal in 2001 less $533.00, were paid and received under the old child support payment regime. The $533.00 paid in December 2002 was paid and received under the new regime. John can therefore deduct the amounts ($20,800.00 in 2000 and $20,000.00 in 2001) paid prior to the December commencement day and Tracey must therefore include them in the calculation of their respective taxable incomes pursuant to subparagraphs 56(1)(b) and 60(b) of the Act.
+[28] The foregoing dictates the following determinations:
+1) The purported indexing of child support payments evidenced by the affidavits made in 1997 did not vary the child support payable and receivable under the original agreement or create a commencement day;
+2) The 1997 divorce judgment did not vary the child support payable and receivable under the original agreement or create a commencement day;
+3) The changes to the original agreement incorporated in the amending agreement did not vary the child support payable and receivable under the original agreement or create a commencement day;
+4) The September 2002 Order effective December 14, 2001 constitutes a variation in the child support amounts payable and receivable so as to create a commencement day at that effective date in respect of all child support amounts payable and receivable thereafter under the original agreement as amended and as varied by the September 2002 Order; and, accordingly
+5) The child support payments in 2000 ($20,800.00) and the child support payments less $533.00 in 2001 ($20,000.00) are properly includable in the taxable income of the Appellant and are properly deductible from the taxable income of the Joined Party.
+[29] Before signing theses Reasons I refer to the recent Federal Court of Appeal decision in Tossell and The Queen and Peterson.[14] While section 174 of the Act allows for determinations distinct from judgments, the practice of this Court is often to render judgments where binding determinations dispose of all issues under appeal by the party or parties who have in fact filed appeals the outcome of which hinges on the determination. The Federal Court of Appeal in Tossell has accepted this practice. Since there has been a consent made in a written submission of Respondent’s counsel to the only other issue raised in the Appellant’s Notice of Appeal, the foregoing determinations will be given effect, as will such consent, coincident with a judgement that I will sign disposing of the Appellant’s Notice of Appeal.
+Signed at Ottawa, Canada, this 17th day of August 2005.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2005TCC179
+COURT FILE NO.:
+2004-2013(IT)I
+STYLE OF CAUSE:
+Tracey Callwood and Her Majesty
+The Queen and John G. Crawford
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 2, 2005
+REASONS FOR DETERMINATION BY:
+The Honourable Justice J.E. Hershfield
+DATE OF DETERMINATION:
+August 17, 2005
+APPEARANCES:
+Agent for the Appellant:
+Darrell Callwood
+Counsel for the Respondent:
+Aleksandrs Zemdegs
+Agent for the Joined Party:
+Suzanne Callwood
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Counsel for the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] That is, Tracey filed the child support receipts as income for both her 2000 and 2001 taxation years and subsequently appealed the assessments that assessed her as filed.
+[2] [2003] F.C.J. No. 1930 (Q.L.); 2003 FCA 480. While I find it hard to embrace the notion that intentions matter in the determination of the existence of a commencement day, that does seem to be the finding of the Court of Appeal in Dangerfield which was referred to, with apparent approval, in Coombes v. The Queen 2005 FCA 191. As noted later in these Reasons, one interpretation of Dangerfield might be to consider the intention of the parties in recognizing the effective date (versus the actual date) of an order in terms of bringing child support payments into the new regime.
+[3] Subparagraph (b)(iii) of the definition of commencement day appears circular in that it defines commencement day by reference to another commencement day. That is, it seems that no reliance can be placed on subparagraph (b)(iii) in finding an earlier commencement day than already exists under paragraph (a) or subparagraphs (b)(i), (ii) or (iv). If that is the case, subparagraph (b)(iii) can only apply to ensure that a later commencement day cannot arise which is to ensure that there is only one commencement day where there is a series of orders or agreements all of which vary child support payments. To ensure this result, the reference to one or more “subsequent” agreements or orders must refer to one or more agreements or orders made after one already having a commencement day under subparagraphs (b)(i), (ii) or (iv). This ensures that the earliest commencement day prevails as paragraphs 56(1)(b) and 60(b) require that a particular commencement day be identified while the definition of commencement day leaves open the possibility of several commencement days. Without some such construction of (b)(iii), it is wholly redundant. This construction assumes that a change in total child support amounts under subparagraph (b)(iii) arises wherever child support amount payments have changed under subparagraph (b)(ii). I can think of no situation where that would not be the case. Similarly, I can think of no situation where the total child support amounts have been varied without a change in the child support amount.
+[4] See Moore v. Canada, [1998] T.C.J. No. 148 (Q.L.) at paragraph 15 and Hak v. Canada, [1998] T.C.J. No. 921 (Q.L.) at paragraph 17. See also Upshaw v. Canada, [2000] T.C.J. No. 468 (Q.L.) and Chute v. Canada, [1999] T.C.J. No. 173 (Q.L.).
+[5] I note here as well that the requirements of a statutory deeming provision in subsections 56.1(2) and 60.1(2) of the Act which deems payments to be allowances on a periodic basis are not met.
+[6] In a submission received by the Court on July 26, 2005, Appellant’s representative made certain assertions of fact relating to the cost of living provisions in the affidavits. These factual assertions are not evidence. No evidence of such assertions was brought at the hearing. In any event, as stated, even if an agreement existed under the affidavits, it would be a pre-May 1997 agreement and which has no impact on the creation of a commencement day.
+[7] This again shows confusion as to contractual obligation under the original agreement. However, it does not reflect a change or variation in the support amount payable which I have found to be $400.00 per week under the original agreement and under the amending agreement.
+[8] This again highlights that the original agreement was intended to provide for $133.00 per week per child.
+[9] Arguably subparagraph (b)(iii) of the definition of "commencement day" applies here but recourse to subparagraph (b)(ii) would still be required to identify the actual "commencement day". This did not seem to create a problem in Kovarik v. The Queen, [2001] 2 C.T.C. 2503 or at least no mention of such problem is made.
+[10] Kovarik is authority for this view. See Note 12.
+[11] [2003] T.C.J. No. 589 (Q.L.)
+[12] The Respondent in a submission received on June 29, 2005 also argued that a commencement day was created by paragraph (a) of the definition of “commencement day” since the September 2002 Order was a fresh order. This is an attractive position but it effects a new regime date some nine months too late. It ignores the retroactive affect of the September 2002 Order which is to vary the original agreement. Further, there actually was a variation in payments well before the September 2002 Order. The Respondent’s submission also relies on Kovarik where the cessation of support for one child, by amended (or new) agreement on that child attaining age 25, was found to be a variation to which paragraph (b)(iii) of the definition of commencement day applied.
+[13] In Dangerfield the Federal Court of Appeal seemed to speculate on intentions based on certain actions or non actions of the parties. The proceedings that gave rise to the September 2002 Order were premised on an event that occurred in December 2001, and the intent was to effect a change as of that date. To give effect to that intended date for tax purposes then seems consistent with the underlying principles in Dangerfield. Indeed, at paragraph 10 of that decision, it is suggested, in the context of determining a commencement day, that retroactivity to an order, or parts of it, can and should be read in even where not expressly stated.
+[14] [2005] FCA 223

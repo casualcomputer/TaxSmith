@@ -1,0 +1,156 @@
+---
+title: "Bergeron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29618/index.do"
+last_modified: "2010-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 56"
+citation2: ""
+neutral_citation: "2010 TCC 56"
+decision_date: "2010-01-25"
+language: "en"
+item_id: "29618"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6187
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:43:20.234000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fddab250694c4f700a4e4ddae8371e236101ff81b4c1f8746beb2ae9981f74e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bergeron v. The Queen
+
+- Citation: 2010 TCC 56
+- Decision date: 2010-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6187, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-25
+Neutral citation
+2010 TCC 56
+File numbers
+2007-1604(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1604(IT)G
+BETWEEN:
+CHRISTIAN BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 25, 2010, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (the Act) for the 2001 taxation year is dismissed, with costs to the respondent, under Tariff B of the Tax Court of Canada Rules (General Procedure), in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 28th day of January 2010.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 23th day of February 2011
+François Brunet, Revisor
+Citation: 2010 TCC 56
+Date: 20100128
+Docket: 2007-1604(IT)G
+BETWEEN:
+CHRISTIAN BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue (the Minister) for the 2001 taxation year, in which $61,751 was added to his employment income as a living expense and travel allowance that he received from his employer, Conseiller en informatique d’affaires CIA Inc. (CIA), in accordance with paragraph 6(1)(b) of the Income Tax Act (ITA). The Minister determined that that allowance was not exempt from tax under subsection 6(6) of the ITA, which concerns employment at a special work site or remote location.
+[2] Those statutory provisions read as follows:
+SECTION 6: Amounts to be included as income from office or employment
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+. . .
+(b) Personal or living expenses – all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+. . .
+(6) Employment at special work site or remote location Notwithstanding subsection 6(1), in computing the income of a taxpayer for a taxation year from an office or employment, there shall not be included any amount received or enjoyed by the taxpayer in respect of, in the course or by virtue of the office or employment that is the value of, or an allowance (not in excess of a reasonable amount) in respect of expenses the taxpayer has incurred for,
+(a) the taxpayer’s board and lodging for a period at
+(i) a special work site, being a location at which the duties performed by the taxpayer were of a temporary nature, if the taxpayer maintained at another location a self-contained domestic establishment as the taxpayer’s principal place of residence
+(A) that was, throughout the period, available for the taxpayer’s occupancy and not rented by the taxpayer to any other person, and
+(B) to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site, or
+(ii) a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment,
+if the period during which the taxpayer was required by the taxpayer’s duties to be away from the taxpayer’s principal place of residence, or to be at the special work site or location, was not less than 36 hours; or
+(b) transportation between
+(i) the principal place of residence and the special work site referred to in subparagraph 6(6)(a)(i), or
+(ii) the location referred to in subparagraph 6(6)(a)(ii) and a location in Canada or a location in the country in which the taxpayer is employed,.
+Facts
+[3] The appellant is a computer specialist, who was hired by CIA to work in France on contracts granted to CIA France, which was owned by CIA. His first contract commenced on June 30, 1997, and was later renewed to go until January 14, 2002. During that entire time, he worked for the same client, Qualitech, which later became IPSI.
+[4] The appellant testified that he was always on a contract of employment with CIA. He filed two of them dated January 1, 2000. The first contract indicated that its commencement date was January 1, 2000, and the second that its commencement date was May 1, 2000. It is stipulated in both contracts that the contracts of employment were for 12 months and were renewable for the following 12 months or less. In addition, each has a clause entitled [Translation] "early termination". According to that clause, the contract was to automatically end once the notice of termination of employment, provided for in the general conditions, ran out. Thus, either party could end the contract or decide not to renew it by providing the other party one month's written notice. The contract was also to end upon termination of employment or expiration of the temporary residence permit for France. Regarding the last point, the contract provides that it is conditional on obtaining a long-term visa for France, issued by France’s department of labour and employment.
+[5] The appellant filed in evidence two temporary residence permits, one of which was valid from May 15, 2000, to May 14, 2001, and the other from May 15, 2001, to February 13, 2002. He explained that those residence permits were valid only if he had a work permit. It is also indicated on those residence permits that the appellant was a temporary worker and that he had a temporary work permit.
+[6] The appellant explained that the contract he was working under at the beginning of 2000 ended in May 2000 and that CIA rehired him on another contract. From what I understand, he was assigned management duties and his responsibilities were more significant. His monthly salary increased from 33,600 French francs (FF) to 51,800 FF effective May 1, 2000. The fixed monthly payments to offset living costs and travel required for a stay abroad increased from 16,800 FF to 25,900 FF starting on May 1, 2000. That living allowance corresponds to 50% of the salary. The appellant explained, however, that that allowance was calculated on the basis of the cost of living and that, with his new duties, his cost of living had increased. He therefore asked for a higher allowance that would be fitting for his new duties, among other things, in order to buy a car in France. In addition to that allowance, the appellant was reimbursed for all his travel expenses to travel from his workplace in France to remote locations (United States, Canada and Lyon, France). The contract setting the salary and living allowance paid to the appellant in 2001 was not offered in evidence. However, the appellant is not challenging the amount of the living allowance he received from his employer, which was $61,751 in 2001, and he reported an employment income of $123,719 for that year. That allowance did not include the expenses reimbursed to the appellant for his travel to remote locations. The amounts reimbursed were not included in the appellant's income by the Minister.
+[7] The appellant also offered in evidence three medical insurance certificates for his stay in France. The first was established for an assignment not exceeding three years for a period from June 30, 1997, to April 10, 1999. The second and third were established for an assignment that could exceed three years: the second for the period from April 10, 1999, to April 10, 2002 and the third for the overlapping period from February 1, 2000, to April 10, 2002.
+[8] The appellant explained that he rented a furnished apartment in Paris because he never knew whether the client would end the contract he was working under. In the fall of 2001, his contract was ended. He had two months' notice and returned to Canada in January 2002.
+[9] In addition, he kept access to the accommodation rented by his mother in Montréal, for which he paid half the rent. He offered in evidence the lease signed by his mother and statements for his bank account in Canada showing the withdrawals attributed to rent. He stated that he had kept his vehicle and that it stayed in the garage next to the accommodation.
+Analysis
+[10] It seems that there is no dispute that the allowance of $61,751, which is at issue, was received by the appellant for his personal and living expenses in 2001. As such, it is taxable under paragraph 6(1)(b) of the ITA. The issue is whether it can be exempted under subsection 6(6) of the ITA. The first condition – whether the amount paid to the appellant for that living allowance was reasonable – is one of fact.
+[11] The respondent is of the view that the appellant did not prove that that allowance did not exceed a reasonable amount in respect of expenses incurred for his board and accommodation in France. According to the respondent, the allowance is a salary in disguise because it corresponds to 50% of the salary. Thus, if that allowance had really been set on the basis of the cost of living, it would not have been increased on the basis of the salary increase received by the appellant in May 2000. In addition, the appellant himself indicated that he had negotiated that allowance in view of his new responsibilities. The respondent points out that the allowance provided for in subsection 6(6) of the ITA must cover living expenses (board and lodging). Yet, the appellant stated that he had considered buying a vehicle in France.
+[12] For his part, the appellant believes that it was reasonable for him to receive that allowance since his work was at a higher level than that of other CIA employees and that, as a result, he had higher expenses because of his status within the company.
+[13] The evidence showed that the allowance simply corresponded to 50% of his salary and was adjusted on the basis of the salary increase in May 2000. The appellant negotiated the allowance with the employer in the same way he did his salary. I am of the opinion that the appellant did not show, on the balance of probabilities, that the allowance was not in excess of a reasonable amount in respect of expenses he had incurred for his board and lodging during his assignment in France. No evidence was submitted by the appellant in support of his argument. Since the first condition is not fulfilled, the allowance in question is taxable under paragraph 6(1)(b) of the ITA.
+[14] Having so ruled, it will not be necessary to consider the other conditions that must be fulfilled for subsection 6(6) of the ITA to apply, which were argued by the parties. Thus, I will not have to decide whether the appellant's work in France was of a temporary nature, which, in my opinion, in view of the evidence, could have been interpreted either way.
+[15] In addition, I will not have to rule on whether the appellant maintained at another location (in this case, Montréal) a self-contained domestic establishment that was, throughout the period, available for his occupancy and not rented by the appellant to any other person. I will just say that I could, on the basis of the evidence, answer that question in the affirmative.
+[16] For these reasons, I would dismiss the appeal, with costs to the respondent, under Tariff B of the Tax Court of Canada Rules (General Procedure).
+Signed at Montréal, Quebec, this 28th day of January 2010.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 23th day of February 2011
+François Brunet, Revisor
+CITATION: 2010 TCC 56
+COURT FILE NO.: 2007-1604(IT)G
+STYLE OF CAUSE: CHRISTIAN BERGERON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 25, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: January 28, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

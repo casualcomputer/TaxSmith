@@ -1,0 +1,201 @@
+Title: White c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29943/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-394-29943-white-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-07-27
+
+# White c. La Reine
+
+- Citation: 2010 CCI 394
+- Decision date: 2010-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6489, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-27
+Référence neutre
+2010 CCI 394
+Numéro de dossier
+2009-2458(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2458(IT)I
+ENTRE :
+STEPHEN PAUL WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 11 et 14 juin 2010 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui­‑même
+Avocats de l’intimée :
+Me Robert Quinn
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la détermination effectuée en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2007 est accueilli sans dépens, et la détermination est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et effectue une nouvelle détermination conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour de juillet 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de septembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 394
+Date : 20100727
+Dossier : 2009-2458(IT)I
+ENTRE :
+STEPHEN PAUL WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L’appelant et son ex-conjointe de fait, Lacey Bishop (« Mme Bishop »), sont les parents de trois enfants (ci‑après appelés « les enfants »). Les enfants sont mineurs. La fille est née en 1999. Les garçons jumeaux sont nés en 2001.
+[2] L’appelant et Mme Bishop ont la garde conjointe des enfants.
+[3] Le 20 janvier 2009, le ministre du Revenu national (le « ministre ») a avisé l’appelant qu’il avait droit, au titre de la Prestation fiscale canadienne pour enfants (la « PFCE »), à 544,19 $ par mois pour la période allant de janvier à mai 2009 inclusivement et à 544,28 $ pour le mois de juin 2009 relativement à l’année de base 2007.
+[4] Dans la réponse, le ministre déclare que, par avis daté du 20 mars 2009, il a avisé l’appelant qu’une nouvelle détermination avait été effectuée relativement à l’admissibilité de l’appelant à la PFCE pour l’année de base 2007 compte tenu d’un changement du nombre d’enfants à charge. Il est dit aussi dans la réponse que le ministre exigeait le remboursement par l’appelant des paiements en trop au titre de la PFCE s’élevant à 1 088,38 $ pour la période allant de janvier 2009 à février 2009 (la « période ») de l’année de base 2007.
+[5] Le 27 avril 2009, l’appelant a déposé un avis d’opposition contre la nouvelle détermination effectuée par le ministre.
+B. LA QUESTION EN LITIGE
+[6] La question en litige est de savoir si la détermination effectuée par le ministre au sujet de la demande présentée par l’appelant au titre de la PFCE pour la période l’a été à juste titre.
+C. ANALYSE
+[7] Pendant l’audience, les ordonnances suivantes ont été déposées en preuve :
+a) une ordonnance sur consentement rendue par le juge Dossa de la Cour provinciale de la Colombie‑Britannique, datée du 5e jour de novembre 2003. Le juge Dossa a ordonné en partie ce qui suit :
+[traduction]
+1. les parties auront la garde conjointe des enfants et l’administration commune des biens des enfants;
+2. la résidence principale des enfants sera le domicile de la requérante, Lacey Bishop, aux fins de l’obtention du crédit d’impôt pour enfants et des prestations fiscales canadiennes pour enfants;
+3. l’intimé, Stephen White, aura un droit de visite à l’égard des enfants lors de ses jours de congé prévus, lequel sera de trois nuits consécutives. Il pourra aller chercher les enfants à compter de 11 h le premier jour de congé prévu et les ramener à 19 h le quatrième jour, soit le dernier jour de son congé.
+4. l’intimé, Stephen White, aura un tel droit de visite et d’autres droits selon l’accord des parties, et la requérante ne pourra pas refuser de donner son consentement sans motif valable. L’intimé, Stephen White, devra donner à la requérante un préavis de cinq jours concernant toute demande.
+5. les parties se partageront également les jours fériés qu’ils passeront avec les enfants;
+6. l’intimé, Stephen White, versera à la requérante, Lacey Bishop, avec effet rétroactif, une pension alimentaire pour enfants de 600 $ par mois pour la période allant du 2 août au 2 octobre 2003 inclusivement, pour un total de 1 800 $ payable sans délai et au plus tard le 30 novembre 2003;
+7. l’intimé, Stephen White, versera à la requérante, Lacey Bishop, la somme mensuelle de 990 $ à titre de pension alimentaire pour enfants, et cette somme sera payable le deuxième jour de chaque mois à compter du 2 novembre 2003, tant que les enfants seront considérés comme des enfants à charge au sens de la Family Relations Act;
+8. l’intimé, Stephen White, assumera 75 % des frais extraordinaires engagés relativement aux enfants et la requérante, Lacey Bishop, assumera 25 % de ces frais;
+9. l’intimé fournira à la requérante, Lacey Bishop, une couverture médicale et dentaire aussi longtemps que l’intimé bénéficiera de cette assurance dans le cadre de son emploi;
+[…]
+(Pièce R-1, onglet 1)
+b) Le vendredi 28 juillet 2006, la juge Borowicz de la Cour provinciale de la Colombie-Britannique a rendu une ordonnance et des motifs en ces termes :
+[traduction]
+LA COUR ORDONNE que Stephen White verse à Lacey Bishop la somme mensuelle de 500 $ à titre de pension alimentaire pour enfants, à compter du 1er août 2006 et par la suite le premier jour de chaque mois, tant qu’une autre ordonnance de la Cour ne sera pas rendue ou qu’un accord des parties ne sera pas intervenu :
+[…, …, …]
+(les « enfants »)
+LA COUR ORDONNE ÉGALEMENT que chacune des parties communique à l’autre sa situation financière complète au plus tard le 1er juin 2007 et par la suite sur une base annuelle aussi longtemps qu’il faudra verser la pension alimentaire.
+LA COUR ORDONNE ÉGALEMENT que Stephen White ne puisse pas imposer ses préférences religieuses à Lacey Bishop et que, à moins que cette dernière ne donne son accord, les enfants fréquentent l’école publique, Lacey Bishop pouvant les inscrire à l’école publique la plus proche de sa résidence.
+LA COUR ORDONNE ÉGALEMENT que Stephen White n’inscrive pas les enfants à une école catholique sans le consentement écrit de Lacey Bishop.
+(Pièce A-1, onglet 3)
+[8] À la page 10 de sa décision, la juge Borowicz s’est ainsi exprimée :
+[traduction]
+Les deux parents fournissent une résidence principale pour eux‑mêmes et pour leurs enfants. M. White, toutefois, a une meilleure base financière que Mme Bishop. L’ordonnance de consentement de 2003 fait d’ailleurs état de cette distinction. À ce moment là, même s’il n’a pas été déclaré de manière expresse que les parents se partageaient la garde aux fins de l’établissement de leurs obligations alimentaires, il a été établi que la résidence principale était celle de Mme Bishop aux fins de l’obtention du crédit d’impôt pour enfants et des prestations fiscales canadiennes pour enfants. Cette désignation convenait et elle convient toujours.
+[9] À la page 11, la juge Borowicz écrivait ce qui suit :
+[traduction]
+En l’espèce, les parents se sont partagé le rôle parental dès le début, et M. White a assumé une grande partie des dépenses parce que, à ce moment là et encore aujourd’hui, la capacité de Mme Bishop de gagner un revenu était moins grande que la sienne. Toutefois, si l’on tient compte de l’ensemble des circonstances, il s’agit sans aucun doute d’une situation où, dans les faits, les responsabilités parentales sont partagées. […]
+[10] Le fardeau de la preuve repose sur l’appelant à qui il appartient d’établir selon la prépondérance des probabilités qu’il est la personne qui a principalement assumé la responsabilité pour le soin et l’éducation des enfants pour les mois de janvier et février 2009.
+[11] Après un examen très minutieux de la preuve, je vous livre mes commentaires ci‑après :
+a) L’appelant a déposé un certain nombre de documents sous la cote A‑1. La pièce A‑1 contient une copie d’une lettre datée du 5 janvier 2004 que Christine Eyjolfson de l’Agence du revenu du Canada (l’« ARC») a adressée à l’appelant. Voici le contenu de cette lettre :
+[traduction]
+Nous avons soigneusement examiné les renseignements que vous et une autre personne avez fournis à l’ARC au sujet de la responsabilité pour le soin et l’éducation de [les enfants]. Il a donc été établi qu’ils résident avec chacun d’entre vous et que vous assumez tous les deux également la responsabilité pour leur soin et leur éducation. Par conséquent, nous entendons alterner l’admissibilité à la Prestation fiscale canadienne pour enfant (PFCE) par rotation de six mois à compter du 1er janvier 2004.
+En conséquence, la Prestation fiscale canadienne pour enfant (PFCE) vous sera attribuée en alternance selon le calendrier suivant :
+- vous aurez droit à la Prestation fiscale canadienne pour enfant (PFCE) de janvier 2004 à juin 2004,
+- l’autre personne aura droit à la prestation de juillet 2004 à décembre 2004.
+Ce calendrier restera en place jusqu’au 18e anniversaire de chaque enfant, ou jusqu’à ce qu’il y ait un changement au sujet de la garde ou de la responsabilité pour le soin.
+Note : Il n’est pas nécessaire de présenter une nouvelle demande tous les six mois, tant qu’il n’y aura pas de changement au sujet de la garde ou de la responsabilité d’assumer le soin. L’admissibilité se fera par rotation de manière automatique.
+b) Je tiens à signaler que je suis d’accord avec Christine Eyjolfson au sujet des commentaires contenus dans la lettre qu’elle a envoyée à l’appelant le 5 janvier 2004. Elle s’exprimait ainsi :
+[…] Il a été donc établi qu’ils [c.-à-d. les enfants] résident avec chacun d’entre vous et que vous assumez tous les deux également la responsabilité pour leur soin et leur éducation. Par conséquent, nous entendons alterner l’admissibilité à la Prestation fiscale canadienne pour enfant (PFCE) par rotation de six mois à compter du 1er janvier 2004.
+[Non souligné dans l’original]
+c) Dans sa lettre, Mme Eyjolfson a expressément mentionné que l’appelant était admissible à la PFCE pour la période allant de janvier 2004 à juin 2004.
+d) Selon la preuve présentée, l’appelant n’a jamais reçu quelque portion que ce soit de la PFCE pour la période mentionnée dans la lettre de Mme Eyjolfson, ni pour toute autre période.
+e) La pièce A-1 contient aussi une copie de la lettre datée du 9 décembre 2008 que M. Hayer de l’ARC a adressée à l’appelant. Voici le contenu de cette lettre :
+[traduction]
+Nous avons soigneusement examiné les renseignements que vous et une autre personne avez fournis à l’ARC au sujet de la responsabilité pour le soin et l’éducation [des enfants].
+Il a été donc établi qu’ils résident avec chacun d’entre vous et que vous assumez tous les deux également la responsabilité pour leur soin et leur éducation. Par conséquent, nous entendons alterner l’admissibilité à la PFCE et à la portion du crédit pour la TPS/TVH relative aux enfants par rotation de six mois à compter de janvier 2009. Veuillez noter qu’une admissibilité par rotation de six mois ne peut pas être établie rétroactivement dans les cas d’admissibilité partagée.
+Lorsqu’un enfant réside avec deux personnes sur une base plus ou moins égale et que les deux personnes assument la responsabilité pour le soin et l’éducation de l’enfant, l’admissibilité à la PFCE et à la portion du crédit pour la TPS/TVH relative aux enfants peut seulement être partagée de manière égale par rotation de six mois.
+Par conséquent, la PFCE et la portion du crédit pour la TPS/TVH relative aux enfants sera attribuée en alternance selon le calendrier suivant :
+- vous aurez droit aux prestations de janvier 2009 à juin 2009,
+- l’autre personne aura droit aux prestations de juillet 2009 à décembre 2009.
+Ce calendrier restera en place jusqu’au 18e anniversaire de chaque enfant pour la PFCE et jusqu’au 19e anniversaire de chaque enfant en ce qui concerne la portion du crédit pour la TPS/TVH relative aux enfants, ou jusqu’à ce qu’il y ait un changement au sujet de la garde ou de la responsabilité pour le soin des enfants.
+Note : Il n’est pas nécessaire de présenter une nouvelle demande tous les six mois, tant qu’il n’y aura pas de changement au sujet de la garde ou de la responsabilité pour le soin des enfants. L’admissibilité se fera par rotation de manière automatique.
+[…]
+[Non souligné dans l’original.]
+(Il convient de souligner que M. Hayer a expressément mentionné dans sa lettre qu’il était prévu que l’appelant reçoive la PFCE de janvier 2009 à juin 2009, c.‑à.‑d. les dates couvertes par la période visée dans le présent appel. Selon la preuve présentée, l’appelant n’a jamais reçu une quelconque portion de la PFCE pour la période mentionnée dans la lettre ni pour toute autre période.)
+f) À mon avis, la position que Mme Eyjolfson et M. Hayer ont exposée dans leurs lettres adressées à l’appelant constitue une démarche juste et raisonnable visant à résoudre les disputes liées à l’attribution de la PFCE en l’espèce.
+g) L’appelant a aussi produit en preuve une lettre datée du 24 février 2009 que Diana Townley de l’ARC lui a adressée. Voici le contenu de cette lettre :
+[traduction]
+J’ai examiné la récente décision rendue au sujet de votre admissibilité à la Prestation fiscale canadienne pour enfant (PFCE) à l’égard de vos enfants.
+L’examen indique que vous n’êtes pas admissible aux prestations. Il ressort de l’article 112.6 [sic] de la Loi de l’impôt sur le revenu que la prestation est versée au particulier admissible. Le « particulier admissible » est, à un moment donné, à l’égard d’une personne à charge admissible, la personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière.
+Il est mentionné dans les renseignements que vous avez fournis précédemment que le droit de visite qui vous été accordé par l’ordonnance de la cour datée du 5 novembre 2003 est respecté. Comme le droit de visite qui vous a été accordé dans l’ordonnance de la cour ne vous permet pas d’avoir les enfants avec vous 50 % du temps, vous n’êtes pas considéré comme la personne qui assume principalement la responsabilité pour le soin des enfants.
+La rotation relative à la PFCE est une politique que l’Agence a mise en place pour les situations où chacune des personnes est principalement responsable des enfants pour des périodes de temps égales. Étant donné que cette situation ne s’applique pas à vous, j’annulerai votre admissibilité à la prestation.
+Un avis de nouvelle détermination sera établi sous peu.
+[Non souligné dans l’original.]
+[12] Il semble se dégager des commentaires que Diana Townley a faits dans sa lettre datée du 24 février 2009 qu’elle s’est fondée sur l’ordonnance sur consentement rendue le 5 novembre 2003. Cette ordonnance, signée par le juge Dossa contenait la déclaration suivante :
+[traduction]
+2. La résidence principale des enfants sera le domicile de la requérante, Lacey Bishop, aux fins de l’obtention du crédit d’impôt pour enfants et des prestations fiscales canadiennes pour enfants;
+(Voir pièce R-1, onglet 1)
+[13] Il convient de souligner que la décision quant à la détermination de la partie qui doit recevoir la PFCE dépend des faits au cours d’une période donnée. Les faits actuels sont très différents des faits qui existaient lorsque l’ordonnance sur consentement a été signée par le juge Dossa le 5 novembre 2003.
+[14] J’aimerais également signaler que, dans sa réponse, le ministre a fait les déclarations suivantes, au paragraphe 6 :
+[traduction]
+6. par avis daté du 20 mars 2009, le ministre a avisé l’appelant qu’une nouvelle détermination avait été effectuée relativement à l’admissibilité de l’appelant à la PFCE pour l’année de base 2007 compte tenu d’un changement du nombre d’enfants à charge […]
+[Non souligné dans l’original.]
+[15] J’ai soigneusement examiné la preuve et aucun élément de preuve n’a été présenté à la Cour au sujet d’un changement du nombre d’enfants à charge de l’appelant, lequel changement est indiqué au paragraphe 6 de la réponse.
+[16] J’ai aussi examiné l’argument de l’avocat de l’intimée et je n’y ai trouvé aucune mention quant au commentaire selon lequel il y a eu un changement du nombre de ses enfants à charge, changement dont il est question au paragraphe 6 de la réponse.
+[17] Par conséquent, j’ai conclu que les commentaires mentionnés au paragraphe 6 de la réponse sont erronés et qu’ils ne peuvent pas constituer le fondement de la nouvelle détermination.
+[18] L’appelant a aussi présenté en preuve un document de l’ARC intitulé « Admissibilité partagée » (12-11-2008) (Voir pièce A-1). On y retrouve les observations suivantes :
+1. Qu’est-ce que l’admissibilité partagée?
+L’admissibilité partagée arrive lorsqu’un enfant habite avec deux personnes différentes pour des périodes plus ou moins égales (que ce soit 4 jours avec l’une et 3 jours avec l’autre, une semaine chez l’une et une semaine chez l’autre ou toute autre rotation semblable) et chaque personne est principalement responsable des soins et de l’éducation de l’enfant durant le temps où l’enfant habite avec elle. La loi relative à la prestation fiscale canadienne pour enfants (PFCE) accorde l’admissibilité à un « particulier admissible » seulement au cours d’un mois. Pour aborder cette difficulté, l’Agence du revenu du Canada (ARC) a élaboré une politique d’admissibilité partagée qui reconnaît qu’il peut y avoir deux particuliers admissibles pour le même enfant. Par conséquent, il a été décidé de permettre l’admissibilité pour l’enfant (ou les enfants) à chaque personne par rotation de six mois, tant pour la PFCE que pour la partie enfant du crédit pour la taxe sur les produits et services / taxe de vente harmonisée (TPS/TVH).
+[19] Il ressort clairement de la preuve dont je suis saisi qu’en l’espèce, il s’agit d’une situation d’admissibilité partagée au sens du document de l’ARC. Je note en passant que la preuve que l’appelant a présentée au sujet de l’admissibilité partagée m’a convaincu, contrairement à celle que Mme Bishop a présentée lorsqu’elle a tenté de nier l’existence d’une admissibilité partagée.
+[20] Enfin, je tiens à signaler qu’il y a un certain nombre de faits nouveaux en 2009 qui n’existaient pas lorsque les décisions des juges Dossa et Borowicz ont été rendues.
+[21] Lorsque le juge Dossa a rendu sa décision en 2003, Mme Bishop avait les trois enfants dont l’appelant est le père. Après la décision de la cour de 2003, Mme Bishop est devenue mère d’un enfant né le 2 janvier 2005. Le père de cet enfant était M. Warrington, le futur mari de Mme Bishop.
+[22] Depuis lors, Mme Bishop a donné naissance à un autre enfant dont le père était M. Warrington, son mari. Mme Bishop a déclaré dans son témoignage qu’elle assumait la responsabilité pour le soin des trois enfants dont l’appelant était le père, des deux enfants dont M. Warrington était le père et des deux enfants de M. Warrington issus de son premier mariage (les fins de semaine seulement pour ces derniers).
+[23] En d’autres termes, Mme Bishop soutient qu’elle prend maintenant soin de sept enfants, pas simplement des trois enfants qui étaient nés au moment où l’action en justice était en cours en 2003. Je suis convaincu qu’il s’agit d’un fait nouveau important dont il faut tenir compte pour décider si une personne est principalement responsable pour le soin ou si on peut lui attribuer l’admissibilité partagée.
+[24] Il convient aussi de noter que l’appelant a présenté le témoignage selon lequel il bénéficie de l’aide, notamment financière, de sa mère et de sa sœur afin de veiller à ce qu’il soit capable de fournir le meilleur environnement possible aux enfants lorsqu’il s’occupe d’eux.
+[25] J’aimerais noter en passant que j’ai été convaincu par le témoignage de l’appelant et par celui de la mère et de la sœur de ce dernier. Je suis persuadé de l’honnêteté de l’appelant, de sa sincérité et du grand amour qu’il porte à ses enfants. Je suis aussi convaincu qu’il fait tout son possible pour subvenir aux besoins de ses enfants.
+[26] Je n’ai pas été convaincu par la preuve présentée par Mme Bishop lorsqu’elle a essayé de démontrer qu’elle était la principale responsable des soins des trois enfants.
+[27] Je tiens à signaler aussi qu’il ne semble pas équitable, raisonnable ni justifié que dans cette situation l’appelant fasse autant d’efforts pour ses trois enfants et qu’il ne reçoive aucune part de la PFCE.
+[28] Après une analyse minutieuse de la preuve, j’ai conclu que l’appelant était la personne principalement responsable pour le soin des enfants pour les mois de janvier et février 2009 de l’année de base 2007.
+[29] L’appel est accueilli sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour de juillet 2010.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de septembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 394
+NO DU DOSSIER DE LA COUR : 2009-2458(IT)I
+INTITULÉ : STEPHEN PAUL WHITE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE : Les 11 et 14 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 27 juillet 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Robert Quinn
+Me Max Matas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

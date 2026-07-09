@@ -1,0 +1,243 @@
+Title: Jawanda c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28274/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-583-28274-jawanda-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-04-02
+
+# Jawanda c. La Reine
+
+- Citation: 2007 CCI 583
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1957, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jawanda c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-02
+Référence neutre
+2007 CCI 583
+Numéro de dossier
+2006-2113(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-2113(EI)
+ENTRE :
+RAJWANT KAUR JAWANDA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+de Harbans Kaur Jawanda (2006-2114(EI)),
+de Davinder Jawanda (2006-2117(EI))
+et de Suba Singh Jawanda (2006-2118(EI))
+les 17 et 18 septembre 2007, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Christa Akey
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est modifiée, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-2114(EI)
+ENTRE :
+HARBANS KAUR JAWANDA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+de Rajwant Kaur Jawanda (2006-2113(EI)),
+de Davinder Jawanda (2006-2117(EI))
+et de Suba Singh Jawanda (2006-2118(EI))
+les 17 et 18 septembre 2007, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Christa Akey
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est modifiée, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-2117(EI)
+ENTRE :
+DAVINDER JAWANDA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+de Rajwant Kaur Jawanda (2006-2113(EI)),
+de Harbans Kaur Jawanda (2006-2114(EI))
+et de Suba Singh Jawanda (2006-2118(EI))
+les 17 et 18 septembre 2007, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Christa Akey
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est modifiée, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-2118(EI)
+ENTRE :
+SUBA SINGH JAWANDA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+de Rajwant Kaur Jawanda (2006-2113(EI)),
+de Harbans Kaur Jawanda (2006-2114(EI))
+et de Davinder Jawanda (2006-2117(EI))
+les 17 et 18 septembre 2007, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Christa Akey
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est modifiée, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI583
+Date : 20071001
+Dossiers : 2006-2113(EI)
+2006-2114(EI)
+2006-2117(EI)
+2006-2118(EI)
+ENTRE :
+RAJWANT KAUR JAWANDA,
+HARBANS KAUR JAWANDA,
+DAVINDER JAWANDA,
+SUBA SINGH JAWANDA,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+Introduction
+[1] Les quatre appels ont été entendus ensemble, sur preuve commune. Tous les appelants ont témoigné par l’intermédiaire d’un interprète panjabi. Les quatre appelants interjettent appel des décisions concernant leur rémunération assurable et leurs heures d’emploi assurable rendues par l’Agence du revenu du Canada (l’« ARC »), conformément à la Loi sur l’assurance‑emploi.
+[2] L’appel de Davinder Jawanda vise son emploi pour Bains Orchards en 2001. Les appels des trois autres visent leur emploi pour Bains Orchards en 2000 et en 2001.
+[3] Les quatre appelants sont liés et ont tous travaillé comme ouvriers de verger à titre d’employés. Ils prenaient soin des arbres, cueillaient les fruits et s’occupaient d’activités semblables. Ils n’étaient pas liés au propriétaire du verger. Ils occupaient leur travail saisonnier à l’été et à l’automne, et recevaient 9 $ l’heure. En raison de la nature de leur travail, les heures n’étaient pas toujours régulières et dépendaient du temps qu’il faisait.
+[4] Les Jawanda éprouvent des problèmes parce que Bains Orchards les payait de façon irrégulière, en partie par mandat ou traite bancaire, et en partie en espèces. Les dossiers de Bains Orchards étaient inadéquats et inconsistants. À cette époque‑là, Bains Orchards était en difficulté en raison de ses propres impôts et faisait l’objet d’une mesure de recouvrement. L’employeur s’efforçait donc d’utiliser de l’argent comptant pour les ventes et les dépenses, y compris les salaires. Les recettes en espèces étaient rapidement utilisées pour l’achat de mandats ou de traites bancaires, y compris les instruments servant à payer les employés. M. Bains achetait les mandats et les traites bancaires dans différentes succursales bancaires.
+[5] L’employeur a remis aux employés, aux fins de l’assurance‑emploi, des relevés d’emploi qui ne correspondaient pas exactement aux T4 délivrés; ils ne correspondaient pas non plus à sa déclaration de revenus T1, ni aux retenues remises, ni aux livres et aux dossiers de l’entreprise comme tels.
+[6] Les quatre appelants habitaient et travaillaient ensemble. Suba est le père de famille, et Harbans est son épouse. Davinder est le fils de Suba, et Rajwant est l’épouse de Davinder. Davinder et Rajwant ont trois enfants. La mère de Davinder habite également avec eux et s’occupe des enfants. À l’époque, ils habitaient dans la partie louée d’une maison avec deux membres de la fratrie de Davinder.
+[7] L’ARC ne conteste pas le fait que les appelants étaient des employés. L’ARC ne soutient pas non plus que les appelants ne travaillaient pas, même si elle a décidé que deux des appelants n’avaient pas de rémunération ni d’heures assurables pour 2000. En fait, l’enquêteur principal de Développement des ressources humaines Canada (« DRHC ») a déclaré qu’il avait vu trois des appelants travailler dans le verger à chacune des visites qu’il y avait faites en 2000. L’ARC n’insinue pas que l’un ou l’autre des appelants était de connivence avec Bains Orchards. Le témoin de l’ARC croit que l’employeur exploitait les appelants, et qu’il ne leur versait pas le salaire qu’ils auraient dû recevoir pour le travail qu’ils faisaient.
+[8] Selon la position de la Couronne, la rémunération assurable des appelants aux fins de l’assurance‑emploi se compose des salaires dont le versement est étayé par des documents écrits autres que les relevés d’emploi et les T4 délivrés par l’employeur. La Couronne avance que le reste des sommes qui étaient payables aux appelants n’a pas été versé en espèces ou n’a pas été versé du tout, et qu’il s’agit de salaires impayés. Les salaires impayés ne sont pas compris dans la rémunération assurable, à moins qu’une demande n’ait été présentée à la Direction des normes d’emploi appropriée, ce qui n’est pas le cas. Par conséquent, la Couronne a admis la rémunération assurable dans la mesure seulement où les sommes avaient été payées par chèque, mandat ou traite bancaire, et a refusé les sommes versées en espèces. L’ARC a calculé la rémunération assurable en ajoutant aux sommes versées par chèque ou mandat le montant des retenues obligatoires, et a divisé le tout par le taux horaire de 9 $ pour obtenir le nombre d’heures assurables.
+[9] Selon la position des appelants, la partie des sommes déclarées par Bains Orchards qui n’a pas été versée par chèque ou mandat a été payée en espèces. Puisque les appelants étaient entièrement payés, même si le paiement tardait parfois, ils n’avaient pas besoin de déposer de plainte. Les appelants soutiennent qu’à l’époque, ils consignaient adéquatement les heures travaillées et les salaires versés afin de vérifier s’ils étaient entièrement et correctement payés, mais qu’ils n’ont maintenant rien d’autre que leurs relevés d’emploi, leurs T4 et leurs déclarations de revenus.
+[10] La seule question est celle de savoir si Bains Orchards a payé une partie des salaires des appelants en espèces et, dans l’affirmative, à combien s’élèvent les paiements en espèces.
+[11] Les quatre appelants ont témoigné. La Couronne a appelé trois témoins, deux de DRHC, et un de l’ARC. Ni l’une ni l’autre des parties n’a appelé à témoigner M. Bains ou un autre représentant de Bains Orchards. L’ARC avait chargé PricewaterhouseCoopers d’effectuer une vérification judiciaire limitée de Bains Orchards, laquelle a été déposée en preuve, mais aucun représentant de cette société n’a été appelé à témoigner.
+Sommes en litige
+[12] Le relevé d’emploi de Davinder Jawanda pour 2001 que lui a remis son employeur indique une rémunération assurable de 10 935 $ et 1 215 heures d’emploi assurable. L’ARC a des copies de chèques et de mandats de Bains totalisant 7 200 $, ce qui représente une rémunération assurable brute de 8 563,35 $ et 952 heures de travail assurable.
+[13] Le relevé d’emploi de Suba Jawanda pour 2000 indique une rémunération assurable de 8 973 $ et 997 heures d’emploi assurable. L’ARC a conclu qu’il n’y avait ni rémunération assurable, ni heures d’emploi assurable parce qu’aucun chèque ni mandat de Bains ne venait étayer ces chiffres.
+[14] Le relevé d’emploi de Suba Jawanda pour 2001 indique une rémunération assurable de 9 225 $ et 1 025 heures d’emploi assurable. L’ARC a des copies de chèques ou de mandats totalisant 6 200 $, ce qui représente une rémunération assurable brute de 7 380,45 $ et 821 heures de travail assurable. Dans la preuve présentée par la Couronne, il semble y avoir un autre chèque ou mandat de 1 000 $ que l’ARC a obtenu; la Couronne a reconnu que cette somme devait être admise à titre de salaire net additionnel que Suba Jawanda a reçu pour 2001. La rémunération assurable brute sera donc augmentée d’un peu plus de 1 000 $ afin de tenir compte des retenues faites par l’employeur.
+[15] Le relevé d’emploi de Harbans Jawanda pour 2000 indique une rémunération assurable de 9 378 $ et 1 042 heures d’emploi assurable. L’ARC a conclu qu’il n’y avait ni rémunération assurable, ni heures d’emploi assurable parce qu’aucun chèque ni mandat de Bains ne venait étayer ces chiffres. Il a été révélé en preuve que l’ARC n’avait pas tenu compte de chèques et de mandats totalisant 3 000 $ qu’elle avait obtenus, et la Couronne a reconnu que cette somme devait être admise à titre de salaire net additionnel.
+[16] Le relevé d’emploi de Harbans pour 2001 indique une rémunération assurable de 9 765 $ et 1 085 heures d’emploi assurable. L’ARC a conclu qu’il s’agissait plutôt de 4 306,94 $ et de 479 heures.
+[17] Le relevé d’emploi de Rajwant Jawanda pour 2000 indique une rémunération assurable de 9 378 $ et 1 042 heures d’emploi assurable. L’ARC a d’abord conclu qu’il n’y avait ni rémunération assurable, ni heures d’emploi assurable. À la suite d’une opposition à l’ARC, il a été constaté que Rajwant avait reçu des chèques et des mandats totalisant 1 202,65 $ de rémunération assurable et 134 heures d’emploi assurable. Il a été révélé en preuve que l’ARC avait trouvé un autre chèque ou mandat de 1 000 $, et la Couronne a reconnu que cette somme devait être admise à titre de salaire net additionnel.
+[18] Le relevé d’emploi de Rajwant pour 2001 indique 9 765 $ de rémunération assurable et 1 085 heures d’emploi assurable. L’ARC a conclu qu’il s’agissait plutôt de 3 548,70 $ et de 395 heures.
+Preuve relative aux salaires versés
+[19] Les quatre appelants ont témoigné qu’ils avaient été entièrement payés pour le travail effectué pour Bains Orchards, selon les sommes indiquées dans les relevés d’emploi que Bains Orchards leur avait remis. Tous les quatre ont déclaré que Suba Jawanda consignait les heures travaillées par chacun d’eux et les salaires versés afin de s’assurer qu’ils étaient bien payés. Harbans et Rajwant ont témoigné qu’elles n’avaient jamais parlé d’argent avec M. Bains, ni reçu d’argent comptant ou de chèques directement de celui‑ci. Elles avaient choisi de laisser à leurs maris le soin de s’en occuper. Les deux maris ont témoigné qu’ils devaient insister régulièrement auprès de M. Bains afin d’être payés, peut-être pas toujours à temps, mais au moins sans trop de retard afin que la famille puisse payer ses factures. Ainsi, M. Bains devait souvent sortir son portefeuille quand il se trouvait dans le verger afin de verser aux Jawanda des sommes variées en espèces. La plupart du temps, selon les témoignages, M. Bains leur donnait 300 $ ou 400 $, mais parfois seulement 100 $ ou 200 $; à au moins une occasion, alors qu’ils devaient faire réparer leur voiture, les Jawanda ont eu 500 $ ou 600 $.
+[20] Selon le rapport préparé par PricewaterhouseCoopers, il est clair que Bains Orchards était très intéressée à faire la plus grande partie de ses opérations, en ce qui concerne à la fois les ventes et les dépenses, en espèces. Le rapport conclut que Bains Orchards aurait pu recevoir la majorité de ses recettes en espèces. La possibilité que Bains Orchards ait payé ses salaires en espèces n’est pas écartée. Au contraire, le rapport va dans ce sens. Étant donné le mandat limité et la portée limitée de l’examen, et compte tenu de l’absence de témoin de PricewaterhouseCoopers, le rapport ne semble guère plus utile.
+[21] En ce qui concerne Davinder Jawanda, la Couronne a remis en question la rémunération indiquée sur le relevé d’emploi de l’appelant délivré par Bains parce qu’elle est inférieure de plusieurs centaines de dollars au montant indiqué sur le T4 également délivré par Bains. Puisque la différence équivaut à peu près à la paie des jours fériés, qui semble avoir été impayée selon la demande de prestations d’assurance‑emploi de l’appelant, j’accorde peu d’importance à cette question. La Couronne a également attaqué Suba Jawanda parce que, dans sa demande de prestations d’assurance‑emploi, il avait répondu « non » à la question 22, à savoir s’il recevrait d’autres sommes de son dernier employeur, alors qu’il a indiqué, dans son témoignage, que le travail fait en 2001 ne lui avait été payé entièrement qu’en 2002. Je n’y accorde aucune importance. Premièrement, la référence à d’« autres sommes » doit s’entendre uniquement de la rémunération visée aux questions 17 et 19 et de la paye de vacances visée à la question 21. Puisque la « rémunération » que l’on demande de déclarer se présente sous forme de taux horaire ou de taux par période de paye, apparemment que la rémunération ait été versée ou non, la réponse de Suba Jawanda aurait été raisonnable même si l’anglais avait été sa première langue. Chose encore plus importante, à la question 23, les exemples des « autres sommes » qui peuvent être dues comprennent les primes, les indemnités de départ, les prestations d’assurance‑emploi, etc. Il est loin d’être clair que l’intention est de rattraper la rémunération visée aux autres questions qui n’a pas été payée.
+[22] La Couronne signale qu’aucune des sommes qui auraient été versées en espèces aux Jawanda n’a pu être corroborée par des dépôts dans leurs comptes bancaires. Selon le témoignage des Jawanda, la plus grande partie de l’argent gagné servait aux dépenses familiales, comme le loyer, les réparations automobiles et l’épicerie. Il s’agit d’une explication tout à fait raisonnable. Plutôt que de déposer l’argent comptant, ils faisaient des retraits sur les chèques qu’ils devaient déposer.
+[23] L’intervieweuse a témoigné qu’à l’époque de leur entrevue initiale avec DRHC en 2002, les appelants lui avaient dit qu’ils n’avaient pas encore été entièrement payés. Au cours d’une entrevue ultérieure avec DRHC, ils ont déclaré au deuxième intervieweur qu’ils avaient finalement reçu tout leur dû. Selon le témoignage de Suba Jawanda, après l’entrevue de 2002, M. Bains leur avait payé tout ce qu’il leur devait en espèces, en plusieurs versements. Ce témoignage est conforme à l’opinion que l’ARC s’est formée sur la façon de procéder de M. Bains, qui mettait généralement un an à payer ses employés lorsqu’il le pouvait. Il faut se préoccuper des réponses données au cours de l’entrevue initiale, parce qu’elles constituent un élément essentiel au litige que la Cour doit trancher.
+[24] L’intervieweuse‑interprète de DRHC de la Couronne s’est appuyée sur le fait que ces réponses de 2002 avaient été données au cours de l’entrevue et qu’elles devaient être exactes, puisque l’entrevue s’était déroulée en panjabi et que le rapport en anglais qu’elle avait préparé avait été lu aux appelants, qui l’avaient signé pour en attester l’exactitude. Il n’est pas exact de dire que les appelants ont signé pour attester le contenu et l’exactitude du rapport de l’entrevue, tel qu’il a été rédigé par DRHC. La formule que l’intervieweuse a signée indiquait simplement que [traduction] « le présent rapport et l’utilisation qui sera faite des renseignements recueillis ont été expliqués au particulier, qui a reçu une copie du rapport ». L’intervieweuse a signé, comme la formule l’exigeait. Elle semble en outre avoir fait signer les appelants à côté de sa propre signature.
+[25] Encore une fois, les appelants sont des ouvriers canadiens qui ont des compétences limitées en anglais. J’attache peu d’importance au fait que leurs signatures paraissent à côté de celle de l’intervieweuse; les appelants reconnaissaient simplement qu’ils avaient été mis au courant de la raison pour laquelle les renseignements étaient demandés et qu’une copie du rapport leur avait été offerte. Je remarque que la personne qui a préparé les rapports s’est emmêlée dans son témoignage concernant ce qui lui avait été dit. Elle a d’abord affirmé catégoriquement qu’au cours des entrevues, chaque appelant lui avait dit attendre encore de l’argent de l’employeur. Puis, elle s’est dite certaine que deux ou trois des appelants avaient fait cette déclaration. Il a fallu l’inviter à consulter ses rapports afin qu’elle puisse clarifier son témoignage sur ce point.
+Analyse et conclusions
+[26] Dans les circonstances, je conclus que les Jawanda ont produit un témoignage crédible relativement au fait qu’une partie de leurs salaires leur avait été versée en espèces. Ce fait est compatible avec les relevés d’emploi, les T4 et les déclarations de revenus des appelants. Je ne pense pas qu’il soit raisonnable de s’attendre absolument à ce que des ouvriers payés 9 $ l’heure conservent de plus amples documents après avoir constaté qu’ils avaient été entièrement payés pour les heures de travail accomplies.
+[27] Ce fait est également compatible avec les reçus ou les factures que M. Bains a produits après coup pour l’ARC, lesquels indiquaient que les Jawanda, pendant plusieurs mois, avaient été [traduction] « payés » en partie en [traduction] « argent comptant ». Même si par la suite M. Bains a pu déclarer à l’ARC qu’il ne voulait pas dire [traduction] « payés » quand il a écrit [traduction] « payés » et qu’il ne voulait pas dire [traduction] « argent comptant » quand il a écrit [traduction] « argent comptant », le témoignage des appelants n’est pas remis en question puisque, de toute façon, il s’agit de ouï‑dire.
+[28] Ce fait est aussi compatible avec le témoignage de l’ARC selon lequel il n’était pas rare que des ouvriers agricoles soient payés en espèces.
+[29] Ce fait est en outre compatible avec le témoignage de l’ARC et les commentaires formulés dans le rapport de PricewaterhouseCoopers selon lesquels Bains Orchards souhaitait vivement, dans son propre intérêt fiscal, recevoir de l’argent comptant et dépenser cet argent dans son entreprise.
+[30] Les appelants ont pu donner des exemples précis de paiements en espèces que Bains leur avait faits, notamment lorsqu’ils avaient eu à payer une grosse facture pour des réparations automobiles.
+[31] Je retiens la preuve selon laquelle les deux maris recevaient plus souvent que leurs femmes une part importante de leurs salaires sous forme de chèques. Cela me semble correspondre au fait qu’il incombait aux maris de pourchasser M. Bains pour obtenir un paiement.
+[32] J’accorde peu de poids au témoignage des femmes concernant le fait qu’elles étaient payées. Elles ont témoigné adéquatement et sans détour, et je retiens le reste de leur témoignage, mais elles ont affirmé toutes les deux qu’elles ne voyaient jamais la couleur de l’argent et qu’elles ne le recevaient pas personnellement, car leurs époux s’en chargeaient.
+[33] Tous ces éléments de preuve corroborant le fait que les Jawanda étaient payés en partie en espèces ont eu pour effet, à des fins pratiques, de déplacer le fardeau de la preuve : il incombait donc à la Couronne de prouver le contraire. Or, la Couronne n’a fait aucune tentative en ce sens. Elle continue de considérer que les seuls salaires versés sont ceux que les appelants ou M. Bains sont en mesure d’étayer en produisant un chèque, un mandat ou une traite bancaire. Elle maintient cette position malgré le fait qu’aucun représentant de la Couronne ne se dirait sincèrement convaincu que les Jawanda n’ont jamais reçu d’argent comptant de leur employeur.
+[34] Les appelants ont présenté une version des événements relativement cohérente. Par contre, les ressources et les pouvoirs combinés en matière d’enquête, de vérification et de recherche de l’ARC, de DRHC et de la Direction des normes d’emploi du ministère du Travail de la Colombie‑Britannique, appuyés par la vérification judiciaire que PricewaterhouseCoopers avait réalisée à leur demande et, ensuite, par les renseignements et les dossiers exigés de M. Bains, semblent n’avoir donné aucun élément de preuve à l’appui de la position selon laquelle les appelants n’avaient jamais reçu de salaire en espèces.
+[35] Le gouvernement recherche plutôt la sécurité que lui apporte sa position de prédilection, à savoir que le fardeau de la preuve incombe aux appelants. Or, cette réponse n’est pas acceptable dans les circonstances. Selon les termes employés par l’enquêteur principal de DRHC, la vérification effectuée par PricewaterhouseCoopers n’a pas permis d’établir irréfutablement la capacité de Bains de faire des paiements en espèces à ces particuliers. À d’autres moments pendant son témoignage, il a fait référence au besoin d’avoir une [traduction] « preuve définitive ». Dans les circonstances, il ne s’agit pas du critère approprié.
+[36] Je conclus que le témoignage selon lequel les Jawanda recevaient une partie de leurs salaires en espèces est entièrement crédible dans les circonstances. Par conséquent, je conclus qu’il est déraisonnable pour l’ARC de soutenir qu’il faut davantage d’éléments de preuve à l’appui de ces sommes versées en espèces afin qu’elles soient admises. Les Jawanda ont témoigné qu’ils avaient reçu la somme totale indiquée sur les relevés d’emploi en espèces, dans la mesure où elle n’avait pas été payée au moyen de chèques ou de mandats. Je conclus que tel est bien le cas. Quoi qu’il en soit, la Couronne n’a fourni aucun élément de preuve et n’a avancé aucune théorie ni aucun argument quant à la portion des salaires qui aurait pu être payée en espèces. Les seules concessions faites par la Couronne touchaient les chèques supplémentaires qu’elle avait sortis de sa manche dans le cas de Suba, de Harbans et de Rajwant.
+[37] Je conclus donc que les Jawanda se sont acquittés du fardeau qui leur incombait de me démontrer qu’ils avaient reçu tout l’argent indiqué sur leurs relevés d’emploi.
+[38] D’après les témoins de la Couronne, je comprends que la poursuite visait en réalité M. Bains et Bains Orchards, les voyous récalcitrants. Il semble que les ouvriers de verger n’aient été que d’innocentes victimes collatérales.
+[39] Je tranche en faveur des appelants et modifie les décisions en question afin que la rémunération assurable et les heures d’emploi assurable correspondent à celles qui sont indiquées sur les relevés d’emploi dans chaque cas. Je renvoie l’affaire au ministre pour qu’il rende une nouvelle décision, conformément aux présents motifs.
+[40] Je rendrai mon jugement probablement dans une ou deux semaines, lorsque j’aurai eu l’occasion de revoir et de corriger au besoin les motifs donnés aujourd’hui.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI583
+Nos DES DOSSIERS DE LA COUR : 2006-2113(EI), 2006-2114(EI),
+2006-2117(EI), 2006-2118(EI)
+INTITULÉ : Rajwant Kaur Jawanda,
+Harbans Kaur Jawanda, Davinder Jawanda, Suba Singh Jawanda c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Les 17 et 18 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 1er octobre 2007
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocats de l’intimée :
+Me Christa Akey
+Me Andrew Majawa
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,175 @@
+Title: Kash c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27384/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-662-27384-kash-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-12-01
+
+# Kash c. La Reine
+
+- Citation: 2006 CCI 662
+- Decision date: 2006-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 141, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kash c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-01
+Référence neutre
+2006 CCI 662
+Numéro de dossier
+2006-1122(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1122(IT)I
+ENTRE :
+BRIAN J. KASH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 23 novembre 2006 à Edmonton (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Tyler Lord
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre de nouvelles cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 19e jour de décembre 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI662
+Date : 20061201
+Dossier : 2006-1122(IT)I
+ENTRE :
+BRIAN J. KASH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Kash porte en appel sous le régime de la procédure informelle les cotisations établies par le ministre du Revenu national (le « ministre ») pour ses années d’imposition 2003 et 2004, par lesquelles le ministre a refusé à M. Kash des crédits d’impôt pour personnes handicapées. Pour les années antérieures à 2003, il avait obtenu les crédits d’impôt en question qu’il avait demandés au motif qu’il souffrait de la maladie cœliaque. Des modifications applicables aux années 2003 et suivantes ont été apportées par le gouvernement du Canada aux dispositions législatives portant sur le crédit d’impôt pour personnes handicapées. Le ministre a décidé que, compte tenu des nouvelles mesures législatives en vigueur, M. Kash n’est plus admissible à ce crédit d’impôt.
+[2] Les questions en litige sont les suivantes :
+(i) Le principe de préclusion pour même question en litige donne‑t‑il lieu à l’annulation des cotisations établies par le ministre dans lesquelles ont été refusés les crédits d’impôt pour personnes handicapées demandés par M. Kash pour les années 2003 et 2004?
+(ii) Les modifications législatives applicables aux années 2003 et suivantes ont‑elles pour effet de rendre les particuliers souffrant de la maladie cœliaque inadmissibles au crédit d’impôt pour personnes handicapées du fait qu’elles leur permettent de bénéficier, en guise d’allègement fiscal, du crédit d’impôt pour frais médicaux?
+(iii) La capacité de M. Kash d’accomplir l’activité courante de la vie quotidienne que représentent les fonctions d’évacuation intestinale ou vésicale est‑elle limitée de façon marquée? Pour pouvoir répondre à cette question, il s’agit de décider si M. Kash est presque toujours incapable d’accomplir cette activité courante de la vie quotidienne sans y consacrer un temps excessif. Une question litigieuse connexe est de savoir si une attestation d’un médecin est concluante à cet égard.
+Faits
+[3] M. Kash souffre de la maladie cœliaque. Il a témoigné qu’il y avait différents degrés de gravité de la maladie et qu’il croyait, sur l’avis de son médecin, souffrir d’un cas grave. Toute exposition mineure au gluten peut provoquer de un à quatre jours de diarrhée aiguë (M. Kash se rendra aux toilettes 20 fois par jour), qui rendent impossible l’accomplissement des activités normales de la vie quotidienne. Ces symptômes peuvent mener à un état de déshydratation persistante. M. Kash peut prendre des médicaments, mais un de leurs effets secondaires est de provoquer des vomissements constants et violents.
+[4] M. Kash remédie à ce problème par le biais de son alimentation. Il s’impose une discipline alimentaire très rigoureuse. Il prend toutes les mesures nécessaires pour éviter le gluten en ayant soin de n’acheter et de ne préparer que certains aliments. Cette attention portée aux détails demande du temps, mais elle lui permet de maîtriser sa maladie et en particulier de contrôler ses intestins.
+[5] Pour les années antérieures à 2003, M. Kash a obtenu les crédits d’impôt pour personnes handicapées qu’il avait demandés au motif qu’il était limité de façon marquée dans sa capacité d’accomplir l’activité courante de la vie quotidienne qui consiste à s’alimenter. Pour les années 2003 et 2004 (et aussi 2005, bien que cette année‑là ne soit pas en cause en l’espèce), il a demandé ce crédit d’impôt en faisant valoir qu’il était limité dans sa capacité d’accomplir l’activité courante consistant dans l’évacuation intestinale et vésicale. Son médecin, le Dr Schubert, a fourni le formulaire requis, qui est ainsi rédigé[1] :
+Évacuation intestinale ou vésicale
+Votre patient est considéré limité de façon marquée dans sa capacité d’évacuer si, toujours ou presque toujours, selon le cas :
+· il est incapable de s’occuper lui‑même de ses fonctions intestinales ou urinaires, même à l’aide de soins thérapeutiques, d’appareils et de médicaments appropriés;
+· il prend un temps excessif pour s’occuper lui‑même de ses fonctions intestinales ou urinaires, même à l’aide de soins thérapeutiques, d’appareils et de médicaments appropriés.
+Remarques :
+· Des appareils pour l’évacuation incluent les cathéters, les accessoires pour stomie, etc.
+· Prendre un temps excessif pour s’occuper lui‑même de ses fonctions intestinales ou urinaires signifie prendre considérablement plus de temps pour s’occuper lui‑même de ses fonctions intestinales ou urinaires que la moyenne des personnes n’ayant pas la déficience.
+Exemples de « limité de façon marquée » dans la capacité d’évacuer (les exemples ne sont pas exhaustifs) :
+· Votre patient a quotidiennement besoin de l’aide d’une autre personne pour vider et entretenir son accessoire pour stomie.
+· Votre patient souffre d’incontinence urinaire, et il consacre quotidiennement un temps considérable à gérer et entretenir ses serviettes pour incontinence.
+Votre patient est‑il limité de façon marquée dans sa capacité d’évacuer,
+tel que décrit ci‑dessus? .................................................................................. oui [√]
+Si oui, à quelle date est‑il devenu limité de façon marquée dans Année
+sa capacité d’évacuer? [1996]
+Dans une lettre de suivi datée du 14 juillet 2005, le Dr Schubert a écrit ce qui suit[2] :
+[traduction]
+Objet : Demande de crédit d’impôt pour personnes handicapées de
+Brian J. Kash
+Madame, Monsieur,
+J’ai lu la lettre datée du 7 juillet 2005 que vous avez écrite à M. Kash et dans laquelle vous indiquez que la raison pour laquelle il ne serait pas admissible au crédit d’impôt pour personnes handicapées est la suivante :
+Vous n’êtes pas toujours ou presque toujours limité dans votre capacité de vous occuper vous‑même de vos fonctions intestinale et vésicale.
+Je peux confirmer qu’il est toujours limité dans sa capacité de s’occuper de ses fonctions intestinale et vésicale. L’état de M. Kash est permanent, il est toujours limité dans sa capacité de s’en occuper, et il prend un temps excessif pour le faire.
+Finalement, le Dr Schubert a répondu ainsi à un questionnaire de l’Agence du revenu du Canada (l’« ARC »)[3] :
+Élimination :
+Votre patient peut‑il s’occuper lui‑même de ses fonctions d’évacuation intestinale ou vésicale à l’aide d’appareils appropriés, de médicaments, ou par suite d’une thérapie, au besoin?
+[traduction] Oui
+Pour chaque année que vous avez inscrite ci‑dessus, était‑ce toujours/presque toujours le cas?
+[traduction] Oui
+Lorsqu’il s’occupe lui‑même de ses fonctions d’évacuation intestinale ou vésicale, votre patient prend‑il un « temps excessif »?
+Remarque : Par « temps excessif », on entend toute activité qui prend considérablement plus de temps que ce qui est requis par la moyenne des personnes qui n’ont pas cette déficience.
+[traduction] Oui
+Si oui, en quelle(s) année(s) était‑ce le cas?
+[traduction] Depuis la fin de l’année 1995/début de 1996
+Pour chaque année que vous avez inscrite ci‑dessus, était‑ce toujours/presque toujours le cas?
+[traduction] Oui
+Le cas échéant, indiquez quelles sont la nature et la fréquence de l’aide requise par votre patient pour s’occuper de ses fonctions d’évacuation intestinale ou vésicale. [traduction] Malgré une attention particulière portée à sa diète, il peut lui arriver quelquefois de consommer accidentellement certains aliments contenant du gluten – il souffrira ensuite de diarrhée aiguë pendant plusieurs jours.
+[6] Il ressort clairement du témoignage de M. Kash et des réponses du Dr Schubert que le temps excessif qu’ils mentionnent constitue le temps pris par M. Kash pour contrôler sa diète, qui lui permet de s’occuper de sa fonction d’évacuation intestinale.
+[7] La Loi de l’impôt sur le revenu (la « Loi ») a été modifiée par l’ajout des alinéas 118.2(2)r) et 118.4(1)e), qui sont applicables aux années 2003 et suivantes. L’alinéa 118.2(2)r) est ainsi rédigé :
+Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+r) au nom du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) qui a la maladie cœliaque, la somme supplémentaire à débourser pour l’achat de produits alimentaires sans gluten, laquelle consiste en la différence entre le coût de ces produits et le coût de produits comparables avec gluten, si le particulier, l’époux ou le conjoint de fait ou la personne à charge est quelqu’un qui, d’après l’attestation d’un médecin, doit suivre un régime sans gluten en raison de sa maladie.
+Et l’alinéa 118.4(1)e) est rédigé en ces termes :
+Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+[…]
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire; […]
+Analyse
+(i) Le principe de préclusion pour même question en litige donne‑t‑il lieu à l’annulation des cotisations établies par le ministre dans lesquelles ont été refusés les crédits d’impôt pour personnes handicapées demandés par M. Kash pour les années 2003 et 2004?
+[8] M. Kash m’a renvoyé à la décision Leduc c. Canada[4], dans laquelle la juge Lamarre a affirmé ce qui suit au paragraphe 45 :
+Dans la situation actuelle, la Loi donne le pouvoir au ministre de fixer l’impôt d’un contribuable pour chaque année d’imposition. Toutefois, si la règle de droit est la même d’une année à l’autre, le pouvoir annuel prévu à la Loi de fixer cet impôt n’implique pas nécessairement, à mon avis, qu’il ne peut y avoir identité de cause d’une année à l’autre, si la qualification juridique des faits allégués est identique. Or, dans le cas en l’espèce, je suis d’avis que l’essence de la qualification juridique des faits allégués dans le jugement du 5 novembre 1999 – ayant donné à l’appelant le droit au crédit prévu aux articles 118.3, 118.4 et 118.8 de la Loi selon la règle de droit applicable en 1997 – est identique sous la règle de droit applicable en 1999.
+Malheureusement pour lui, M. Kash ne se trouve pas du tout dans la même situation que celle examinée par la juge Lamarre. Premièrement, pour qu’un tribunal puisse conclure à la préclusion pour même question en litige dans une affaire, il est essentiel qu’une décision judiciaire ait déjà été rendue sur la question litigieuse dont il est saisi, ce qui était le cas dans l’affaire Leduc (voir aussi la décision Ahmad v. R.[5]). M. Kash, lui, n’a jamais auparavant saisi les tribunaux de la question de savoir s’il avait droit aux crédits d’impôt pour personnes handicapées qu’il a demandés.
+[9] Deuxièmement, la juge Lamarre spécifie que la qualification juridique des faits en vertu des règles de droit applicables en 1997 est identique à celle fondée sur les règles de droit applicables en 1999. En l’espèce, les règles de droit ont changé entre 2002 et 2003. Pour ces motifs, M. Kash ne peut pas invoquer le principe de préclusion pour même question en litige. La Cour doit examiner la façon dont les règles de droit portant sur le crédit d’impôt pour personnes handicapées qui étaient en vigueur en 2003 et en 2004 s’appliquent à la situation de M. Kash en faisant abstraction du fait que ce crédit d’impôt a été admis dans les cotisations établies à son égard pour les années antérieures.
+(ii) Les modifications législatives applicables aux années 2003 et suivantes ont‑elles pour effet de rendre les particuliers souffrant de la maladie cœliaque inadmissibles au crédit d’impôt pour personnes handicapées du fait qu’elles leur permettent de bénéficier, en guise d’allègement fiscal, d’un crédit d’impôt pour frais médicaux?
+[10] Un rappel du contexte dans lequel s’inscrit cette question s’impose. Avant l’entrée en vigueur des modifications législatives précitées, la Cour a été saisie de plusieurs affaires concernant des particuliers souffrant de la maladie cœliaque. Ces causes ont conduit à des décisions allant dans les deux sens. En 2002, la Cour d’appel fédérale en est venue à la conclusion suivante dans l’arrêt Hamilton v. R.[6] :
+Bref, les personnes atteintes de la maladie cœliaque ou d’une autre maladie qui les oblige à suivre une diète sont admissibles au crédit d’impôt pour personnes handicapées si et seulement si elles peuvent démontrer qu’elles ont besoin de consacrer un temps excessif à leur approvisionnement en aliments propres à leur consommation personnelle et à la préparation de leur nourriture.
+[11] Peu après que cet arrêt a été rendu, le gouvernement du Canada a apporté les modifications en cause à la Loi. Celles‑ci visent la situation sur laquelle porte l’arrêt Hamilton, dans laquelle un particulier demande le crédit d’impôt pour personnes handicapées au motif qu’il est incapable de s’alimenter sans y consacrer un temps excessif à cause du temps nécessaire pour l’achat et la préparation des aliments. L’intimée fait valoir qu’en décidant de permettre, en application des nouvelles règles de droit en vigueur, à un particulier souffrant de la maladie cœliaque de déduire de son impôt à payer, à titre de frais médicaux, la somme supplémentaire qu’il doit débourser pour l’achat de produits alimentaires sans gluten, laquelle consiste en la différence entre le coût de ces produits et le coût de produits comparables avec gluten, et en décidant d’exclure de la définition de l’expression « s’alimenter » les activités qui consistent à acheter et à préparer des aliments le législateur a clairement voulu instaurer un régime exhaustif portant sur les crédits d’impôt dont peut se prévaloir un tel particulier pour des raisons médicales. C’est faux, rétorque M. Kash. Il fait valoir que les modifications législatives en cause portent seulement sur l’activité courante de s’alimenter et qu’elles ne peuvent être interprétées à bon droit comme l’empêchant de prouver qu’il est incapable d’accomplir sans y consacrer un temps excessif une activité courante différente de la vie quotidienne qui est reliée à sa maladie. Il serait certainement trop restrictif de refuser à M. Kash un crédit d’impôt pour personnes handicapées si la maladie cœliaque faisait en sorte qu’il était incapable d’accomplir une activité courante comme marcher. Cependant, il y a une différence évidente entre la capacité de marcher et la capacité de s’alimenter, et ce, en raison du fait que les activités consistant à acheter et à préparer des aliments, qui entraînent la nécessité de consacrer un temps excessif à l’alimentation, n’ont aucune incidence sur la capacité d’accomplir l’activité courante de marcher. C’est sur ces mêmes activités consistant à acheter et à préparer des aliments, qui sont exclues de la définition du terme « s’alimenter », que se fonde maintenant M. Kash pour prouver qu’il est limité de façon marquée dans ses fonctions d’évacuation intestinale et vésicale.
+[12] Je n’irais pas jusqu’à dire, comme le soutient l’intimée, que les modifications législatives en cause créent un régime exhaustif. La question qu’il faut se poser est plus précisément de savoir si, en excluant d’une activité donnée (s’alimenter) les actions d’acheter et de préparer des aliments, on exclut implicitement de toutes les autres activités courantes de la vie quotidienne le temps consacré à l’accomplissement de ces actions. Si l’on examine ces autres activités, il est clair que les fonctions d’évacuation intestinale et vésicale constituent la seule autre activité courante de la vie quotidienne à laquelle ces actions pourraient se rapporter. Mais, si l’on se fie au bon sens, est‑ce qu’il est raisonnable de s’attendre à ce que le législateur considère l’achat et la préparation des aliments comme faisant partie de l’activité que représentent les fonctions d’évacuation intestinale et vésicale? Je conclus que l’achat et la préparation des aliments ne font pas partie, selon une interprétation raisonnable, de l’activité courante correspondant aux fonctions d’évacuation intestinale et vésicale. Selon M. Kash, le critère à remplir est qu’un particulier doit être incapable, non pas d’accomplir l’activité courante d’évacuer sans y consacrer un temps excessif, mais de s’occuper de l’accomplissement de l’activité sans y consacrer un temps excessif : il doit être incapable de s’occuper du problème sans y consacrer un temps excessif. Bien que je ne partage pas ce point de vue, je l’examinerai plus en détail ci‑dessous en traitant de la dernière question litigieuse.
+(iii) La capacité de M. Kash d’accomplir l’activité courante de la vie quotidienne que représentent les fonctions d’évacuation intestinale ou vésicale est‑elle limitée de façon marquée?
+[13] J’examinerai d’abord la position de M. Kash selon laquelle une attestation d’un médecin prouve de façon concluante que la capacité d’une personne d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée. Il tire argument des commentaires formulés par le juge en chef Bowman dans la décision Noaille c. Canada[7]. Ce dernier estimait qu’il se devait de suivre l’arrêt rendu par la Cour d’appel fédérale dans l’affaire MacIsaac v. R.[8]. Selon mon interprétation de cet arrêt, la Cour d’appel fédérale a fait clairement savoir qu’un contribuable doit produire une attestation d’un médecin pour pouvoir être admissible au crédit d’impôt pour personnes handicapées. Mais, c’est tout autre chose que d’affirmer que chaque contribuable qui produit une attestation d’un médecin a droit à ce crédit d’impôt. Affirmer que, si vous ne produisez pas d’attestation d’un médecin, vous n’obtiendrez pas le crédit ne revient pas à dire que, si vous en produisez une, vous l’obtiendrez. Il incombe toujours à la Cour d’examiner les circonstances, notamment la question de savoir s’il existe une attestation d’un médecin, et de décider si, au sens de la Loi, la capacité d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée. En l’absence d’une attestation, il n’est pas nécessaire que la Cour délibère plus longuement sur ce point (arrêt MacIsaac), mais, s’il existe une attestation, elle doit pousser plus loin l’examen de la question : elle ne doit pas simplement tenir l’attestation pour concluante. Cette position est étayée par le libellé même de l’article 118.3, selon lequel la Cour doit conclure que le particulier a une déficience, qu’il est limité de façon marquée dans sa capacité d’accomplir une activité et qu’il a produit une attestation d’un médecin.
+[14] Donc, j’ai l’attestation du Dr Schubert. La section portant sur l’évacuation reproduite au paragraphe 5 des présents motifs fournit quelques informations aux médecins en donnant deux exemples de ce que constitue le fait d’être limité de façon marquée (entretien d’un accessoire pour stomie et entretien quotidien de serviettes pour incontinence). Ces actions sont directement reliées à l’acte même d’évacuer, et je les distinguerais certainement de l’achat et de la préparation des aliments. Pourtant, le formulaire traite aussi de l’action de s’occuper soi‑même de l’activité. Comme je l’ai déjà mentionné, M. Kash interprète ces termes comme signifiant l’action de s’occuper globalement de la diète ainsi que de son effet subséquent sur l’évacuation. Il fait valoir que, en « s’occupant » d’une diète et en prenant du temps pour le faire, il prend un temps excessif pour s’occuper d’une activité courante, ce qui constitue le critère qui est exposé, selon lui, dans l’attestation du médecin. La formulation de l’attestation est fâcheuse. La Loi elle‑même ne traite pas du fait de s’occuper de l’accomplissement d’une activité, mais simplement du fait d’« accomplir une activité [...] sans y consacrer un temps excessif ». Bien que je puisse certainement comprendre les raisons pour lesquelles M. Kash souscrit à une interprétation plus large de la formulation de l’attestation, je récuse cette interprétation, qui n’est pas appuyée par le libellé des dispositions législatives en cause. Le temps excessif doit se rapporter directement à l’activité courante. Jusqu’à l’entrée en vigueur des modifications législatives en cause, l’activité courante de s’alimenter consistait notamment à acheter et à préparer des aliments (arrêt Hamilton). Donc, le temps consacré à l’achat et à la préparation des aliments se rapportait directement à l’activité courante. En effet, il en faisait partie. J’en viens à la conclusion que, bien que l’achat et la préparation des aliments fassent partie des activités qui permettent de contrôler la diète et, du même coup, de s’occuper du problème d’évacuation, ils ne constituent pas des activités qui se rapportent directement à l’activité courante correspondant aux fonctions d’évacuation intestinale et vésicale.
+[15] M. Kash, en se fondant sur la position adoptée par le juge en chef Bowman dans la décision Radage c. Canada[9], me demande d’interpréter les dispositions en cause libéralement et humainement pour permettre aux particuliers qui, comme lui, vivent avec cette maladie quelquefois débilitante de bénéficier de l’allègement qui leur est destiné. À mon avis, je dénaturerais indûment la notion d’interprétation libérale si je concluais que le temps que M. Kash a consacré à l’achat et à la préparation des aliments constitue du temps consacré à l’accomplissement de l’activité courante d’évacuer.
+[16] J’en viens à la conclusion que les modifications législatives en cause offrent un certain allègement fiscal aux personnes comme M. Kash, mais que cet allègement n’est pas prévu par les dispositions portant sur le crédit d’impôt pour personnes handicapées. Pour ces motifs, je rejette les appels de M. Kash.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2006.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 19e jour de décembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI662
+Nº DU DOSSIER DE LA COUR : 2006-1122(IT)I
+INTITULÉ : Brian J. Kash et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 23 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 1er décembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Tyler Lord
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglet B.
+[2] Pièce A-1, onglet C.
+[3] Pièce R-1.
+[4] [2001] A.C.I. nº 852.
+[5] 2004 DTC 2355.
+[6] 2002 DTC 6836.
+[7] [2001] A.C.I. nº 603.
+[8] 2000 DTC 6020.
+[9] [1996] A.C.I. nº 730.

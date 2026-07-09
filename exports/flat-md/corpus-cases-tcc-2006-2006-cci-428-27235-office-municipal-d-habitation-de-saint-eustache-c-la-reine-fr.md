@@ -1,0 +1,158 @@
+---
+title: "Office municipal d'habitation de Saint-Eustache c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27235/index.do"
+last_modified: "2006-07-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 428"
+citation2: ""
+neutral_citation: "2006 CCI 428"
+decision_date: "2006-07-25"
+language: "fr"
+item_id: "27235"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 841
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:52:46.808000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ee96ff815e9d368c983a18bba91f1220ee363a234810f3e70bb0b09aae4cca3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Office municipal d'habitation de Saint-Eustache c. La Reine
+
+- Citation: 2006 CCI 428
+- Decision date: 2006-07-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Office municipal d'habitation de Saint-Eustache c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-25
+Référence neutre
+2006 CCI 428
+Numéro de dossier
+2006-1271(GST)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1271(GST)APP
+ENTRE :
+OFFICE MUNICIPAL D'HABITATION
+DE SAINTE-EUSTACHE,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 10 juillet 2006 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de la requérante :
+Me Louis-Frédérick Côté
+Avocat de l'intimée :
+Me Mario Laprise
+____________________________________________________________________
+ORDONNANCE
+La demande faite en vue d'obtenir une prorogation de délai dans lequel l'avis d'opposition à l'égard de la cotisation datée du 24 décembre 2004 établie en vertu Loi sur la Taxe d'accise, pour le période du 1er mars 2004 au 31 mars 2004, peut être signifié; est rejetée, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI428
+Date : 20060725
+Dossier : 2006-1271(GST)APP
+ENTRE :
+OFFICE MUNICIPAL D'HABITATION
+DE SAINTE-EUSTACHE,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Il s'agit d'une demande de prorogation de délai pour produire un avis d'opposition. La requérante a fait entendre des témoins, Nicole Carignan Lefebvre, Monique Ross, Marie-Christine Tétreault ainsi que Chantal Longtin. Les quatre témoins ont longuement fait état des faits et circonstances ayant entouré le cheminement du dossier.
+[2] Le 24 décembre 2004, l'intimée par le biais du ministre du Revenu du Québec, (ci-après le « ministre » ) a établi une cotisation à l'égard de la requérante pour la période du 1er mars 2004 au 31 mars 2004.
+[3] En vertu du paragraphe 301(1.1) de la Loi sur la taxe d'accise (la « Loi » ), la requérante devait, dans les 90 jours suivant le jour où l'avis de cotisation lui a été envoyé, produire son avis d'opposition à l'encontre de la cotisation dont la date était, en l'espèce, le 24 décembre 2004. La demande de prorogation de délai a été produite le 27 septembre 2005.
+[4] Le délai pour présenter l'avis d'opposition se terminait donc, le 24 mars 2005. L'avis d'opposition et la demande de prorogation de délai ont été présentés le 27 septembre 2005, soit plus de six mois après l'expiration du délai de 90 jours.
+[5] Les dispositions légales pertinentes sont les alinéas 304(5)b)(i) et (iii) de la Loi, lesquelles se lisent comme suit :
+(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+[. . .]
+b) la personne démontre ce qui suit :
+(i) dans le délai d'opposition par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait véritablement l'intention de faire opposition à la cotisation ou de présenter la requête,
+(Je souligne.)
+[. . .]
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+[6] La preuve soumise par la requérante a fait état d'une foule de faits et de divers éléments, lesquels étaient peu ou pas pertinents.
+[7] Je retiens, cependant, l'extrait du témoignage de madame Tétreault, lequel est hautement pertinent pour disposer de la présente demande. Il s'agit du témoignage de madame Marie-Christine Tétreault, laquelle s'est identifiée comme stagiaire C.A.; il s'agissait donc d'une personne qualifiée.
+Notes sténographiques aux pages 50 à 53 :
+Marie-Christine Tétreault contre-interrogée par Me Mario Laprise :
+Juste une ou deux petites questions.
+Q. Saviez-vous que l'avis de cotisation du vingt-quatre (240 décembre 2004, vous en avez pris connaissance, qui est à l'onglet 2 . . .
+R. Oui.
+Q. ... du cahier, à l'endos, il est bien indiqué, au niveau de l'avis d'opposition que l'avis d'opposition doit être produit dans les quatre-vingt-dix (90) jours suivant la date à laquelle l'avis de nouvelle cotisation a été délivré. Vous aviez connaissance de l'existence de ce délai de quatre-vingt-dix (90) jours?
+R. Oui. Par contre, si je peux me permettre d'ajouter, là, c'est que quand on a prix connaissance du dossier, on a essayé de faire bouger ou tout le moins d'être capable de se rasseoir avec elle, puisqu'il n'y avait personne à l'Office qui pouvait le faire. Donc, on a essayé de se rasseoir avec elle. Puis finalement, le délai s'est éteint.
+MONSIEUR LE JUGE : Excusez-moi! c'est bien important.
+Q. Vous avez pris connaissance de l'avis en vertu duquel c'est clairement indiqué quatre-vingt-dix (90) jours?
+R. Oui.
+Q. Étiez-vous encore dans les délais ou bien, quand vous en avez pris connaissance, vous aviez dépassé ce délai-là ?
+R. On était vers la fin, mais on était...
+Q. Encore dans les délais?
+R. Oui.
+Q. Puis, là, vous avez cru bon discuter au lieu de faire un avis comme indiqué à l'endos du document?
+R. Oui, parce que la . . . Comment je pourrais dire? La cotisation, l'autocotisation, on ne s'y opposait pas parce que c'est vrai qu'il fallait la faire. Donc, tout ce qu'on demandait, c'est, en même temps que votre autocotisation, est-ce que vous pouvez s'il vous plaît faire la ristourne comme il est de droit, puisque c'étaient des crédits auxquels nous avions droit. Donc, c'est seulement, en plus de faire la ristourne, ce qui aurait probablement annulé beaucoup d'intérêts et pénalités, ce qui ne nous aurait pas donné d'argent. Donc, c'est ce qui ne nous revenait pas. La ristourne, ça faisait seulement annuler l'autocotisation. Mais au moins, on n'avait pas, bon, une dette de 100 000 $ comme on a ici.
+Q. C'est quoi la raison pourquoi vous n'avez pas concrètement envoyé un . . . de dire que vous avisez de notre intention de contester?
+R. Parce qu'on faisait beaucoup de correspondance avec le Ministère. Dans le fond, pas, on contestait, mais on essayait d'avoir des explications sur, bien sûr, la cotisation étant donné qu'on était pas mal d'accord, mais aussi sur la ristourne. On essayait dans le fond seulement de faire les deux, de faire faire les deux étapes en même temps simultanément comme habituellement c'est fait dans les autres organismes pour éviter, bon, bien, une grosse cotisation comme ça, une dette dans le fond, qu'on n'avait pas.
+Q. Mais l'autocotisation à laquelle vous faites référence, c'était le fondement de la cotisation?
+R. Oui.
+Q. Et vous n'en aviez pas contre ça?
+R. Non.
+Q. Vous vouliez simplement qu'on vous reconnaisse le droit d'appliquer les ristournes correspondantes.
+D'accord. Avez-vous d'autres questions?
+[. . .]
+[8] Le contenu de ce témoignage permet de conclure, sans équivoque, que les conditions énoncées aux alinéas 304(5)b)(i) et (iii) n'ont pas été respectées, d'où la demande doit être rejetée.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI428
+N º DU DOSSIER DE LA COUR : 2006-1271(GST)APP
+INTITULÉ DE LA CAUSE : Office municipal d'habitation de Sainte-Eustache et La Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 10 juillet 2006
+MOTIFS DE L'ORDONNANCE PAR : L'honorable juge Alain Tardif
+DATE DE L'ORDONNANCE : le 25 juillet 2006
+COMPARUTIONS :
+Avocat de la requérante :
+Me Louis-Frédérick Côté
+Avocat de l'intimée :
+Me Mario Laprise
+AVOCATE INSCRITE AU DOSSIER :
+Pour la requérante:
+Nom : Me Josée Massicotte
+Étude : MacMillan, Binch, Mendelsohn
+Ville : Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

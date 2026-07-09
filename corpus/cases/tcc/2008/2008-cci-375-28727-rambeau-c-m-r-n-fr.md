@@ -1,0 +1,183 @@
+---
+title: "Rambeau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28727/index.do"
+last_modified: "2008-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 375"
+citation2: ""
+neutral_citation: "2008 CCI 375"
+decision_date: "2008-06-18"
+language: "fr"
+item_id: "28727"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1464
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:38:46.333000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "218e5787df13000ab1047d7156de184963e9820ca18efca58501328e643a685b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rambeau c. M.R.N.
+
+- Citation: 2008 CCI 375
+- Decision date: 2008-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1464, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rambeau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-18
+Référence neutre
+2008 CCI 375
+Numéro de dossier
+2008-197(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-197(EI)
+ENTRE :
+MICHELLE M. RAMBEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 mai 2008, à Dieppe (Moncton), au Nouveau‑Brunswick.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Lloyd J. A. Petrie
+Avocate de l’intimé :
+Me Lindsay D. Holland
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelante sous le régime de la Loi sur l’assurance‑emploi (la « Loi ») à l’encontre de la décision de l’intimé selon laquelle l’emploi de l’appelante ne constituait pas un emploi assurable au sens de l’article 5 de la Loi pendant la période du 30 avril 2007 au 21 juillet 2007 est rejeté.
+Signé à Ottawa (Ontario), ce 18e jour de juin 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour d’août 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008CCI375
+Date : 20080618
+Dossier : 2008-197(EI)
+ENTRE :
+MICHELLE M. RAMBEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le point en litige dans le présent appel consiste à savoir si la décision de l’intimé voulant que l’emploi de l’appelante, Michelle M. Rambeau, par son époux, George J. Rambeau, pendant la période du 30 avril 2007 au 21 juillet 2007 ne soit pas un emploi assurable pour l’application de la Loi sur l’assurance‑emploi (la « Loi ») est raisonnable. Les seules dispositions de la loi invoquées par l’intimé sont les alinéas 5(2)i) et 5(3)b) de la Loi.
+[2] Le paragraphe 5(2) de la Loi prévoit notamment ce qui suit :
+N’est pas un emploi assurable :
+[...]
+(i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi est libellé en ces termes :
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Comme l’employeur était (et est toujours) l’époux de l’appelante, cette dernière et son employeur étaient, selon les dispositions de l’alinéa 251(2)a) de la Loi de l’impôt sur le revenu, des personnes liées pour l’application de ce texte législatif et elles sont réputées avoir entre elles un lien de dépendance suivant l’alinéa 251(1)a) de cette loi. La question en litige en l’espèce est donc celle de savoir s’il était raisonnable pour le ministre du Revenu national de décider que l’appelante et son époux n’auraient pas conclu entre eux un contrat de travail à peu près semblable pendant la période en cause s’ils n’avaient pas eu de lien de dépendance.
+[5] Dans la décision Porter c. M.R.N., 2005CCI364, Mme la juge Campbell, de la Cour, a examiné les décisions de la Cour et de la Cour d’appel fédérale portant sur le rôle qui incombe à la Cour canadienne de l’impôt dans les appels de cette nature. Au paragraphe 13 de cette décision, la juge Campbell tient les propos suivants :
+En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] George J. Rambeau travaillait comme pêcheur de homards. Pendant 18 ans, avant 2007, l’appelante a travaillé comme matelot de pont sur le bateau de son mari. Cependant, en 2007, elle a souffert de maux de dos et, comme le travail de matelot de pont était trop rude, elle n’était plus en mesure de l’accomplir.
+[7] En 2007, l’époux de l’appelante a engagé cette dernière pour remplir des fonctions de tenue des comptes et d’entretien ménager. L’intimé reconnaît que l’appelante était employée par George J. Rambeau en 2007, mais il nie qu’il s’agissait d’un emploi assurable pour l’application de la Loi.
+[8] Selon son évaluation, l’appelante passait environ 40 pour 100 de son temps de travail à la tenue des comptes et 60 pour 100 à l’entretien ménager. Elle recevait 400 $ hebdomadairement sur une base de 48 heures de travail par semaine en moyenne.
+[9] Elle évalue, pour le travail de tenue des comptes, qu’elle consacrait environ dix minutes de travail au journal de bord du ministère des Pêches et des Océans (le « MPO »), environ une heure à l’examen des factures et aux écritures comptables, entre environ une heure et une heure et demie chaque jeudi pour la paye et environ deux heures chaque semaine pour les opérations bancaires.
+[10] Si on suppose que l’appelante travaillait au journal de bord du MPO pendant dix minutes chaque jour, et qu’elle établissait les factures et effectuait les écritures comptables pendant une heure chaque jour (elle a passé en tout 90 écritures pendant les trois mois de l’emploi), le nombre total d’heures qu’elle aurait consacrées au travail pendant une semaine de six jours se répartirait ainsi :
+Tâche
+Nombre d’heures estimatif
+hebdomadaire
+Journal de bord – MPO
+1,0
+Factures – écritures comptables
+6,0
+Paye
+1,5
+Opérations bancaires
+2,0
+Total :
+10,5
+[11] Le nombre d’heures total estimatif passé à ces tâches, selon les évaluations fournies par l’appelante, s’élèverait uniquement à 10,5 heures par semaine. L’appelante a mentionné qu’elle consacrait 40 pour 100 de son temps au travail à ces activités. Si ces dernières nécessitaient 40 pour 100 de son temps de travail, le temps total consacré à l’ensemble de ses fonctions chaque semaine ne serait que de 26,25 heures. Comme elle était payée sur la base d’une semaine de 48 heures, il ne semble pas déraisonnable de conclure que l’appelante et George J. Rambeau n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[12] L’autre préoccupation importante soulevée par l’intimé touche à la nature du travail effectué par l’appelante en 2007 et au point de savoir si George J. Rambeau aurait même conclu un contrat avec l’appelante pour l’exécution des tâches d’entretien ménager si elle n’avait pas été son épouse. Ces fonctions d’entretien ménager comprenaient diverses tâches d’entretien reliées à la propriété de l’appelante et de George J. Rambeau, comme la préparation des repas du matin et du soir de George J. Rambeau, la préparation d’une gamelle à l’intention de George J. Rambeau, la lessive du linge de George J. Rambeau, la réparation des trous dans l’entrée, la tonte et le râtelage du gazon et la teinture de la terrasse. Personne n’a été embauché pour remplir l'une ou l'autre de ces tâches avant la période où l’appelante était employée ni après la fin de son emploi. La thèse de l’intimé selon laquelle George J. Rambeau et l’appelante n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance ne paraît donc pas déraisonnable.
+[13] Si l’appelante a raison et que l’embauche d’un conjoint pour effectuer l’entretien ménager est assimilable à un emploi assurable dans les situations où aucune autre personne non liée n’a été engagée antérieurement ou postérieurement, cela signifierait qu’un mari et son épouse pourraient créer une situation où chacun d’eux serait admissible à des prestations d’assurance‑emploi. À titre d’exemple, un mari pourrait engager son épouse afin qu’elle se charge de l’entretien ménager pendant une période suffisamment longue pour qu’elle soit admissible à des prestations d’assurance‑emploi, puis mettre fin à son emploi. Elle pourrait ensuite embaucher son mari afin qu’il fasse l’entretien ménager pendant la période nécessaire pour lui permettre d’être admissible à des prestations d’assurance‑emploi, puis mettre fin à son emploi. Cette ronde d’embauche mutuelle pour la réalisation des travaux d’entretien ménager pourrait se poursuivre de sorte que chacun devienne admissible à des prestations d’assurance‑emploi uniquement sur le fondement de son embauche, par l’autre époux, pour l’accomplissement de ces tâches. Il ne me semble pas qu’il s’agisse là d’un genre d’emploi que la Loi permette d’assimiler à un emploi assurable.
+[14] Dans l’arrêt La Reine c. Hypothèques Trustco Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, 2005 DTC 5523 (angl.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, la Cour suprême du Canada a tenu les propos suivants :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[15] À mon avis, le passage suivant de l’alinéa 5(3)b) de la Loi, « […] compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance », dans le contexte de la Loi prise dans son ensemble, englobe le fait de décider si l’employeur et l’employé auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Dans l’éventualité où l’employeur n’aurait engagé aucune personne avec laquelle il n’avait pas de lien de dépendance pour faire un travail donné, il serait alors raisonnable de conclure que cet employeur et un employé lié embauché pour faire ce travail n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[16] Dans la décision Gauthier c. Le ministre du Revenu national, [2000] A.C.I. no 583, le payeur exploitait une ferme laitière et avait embauché la conjointe de fait de son fils pour exécuter diverses tâches, comme de l’entretien ménager léger, des travaux d’écriture, la préparation des repas, la réception des appels téléphoniques et l’entretien des fleurs et des jardins. M. le juge Somers a formulé les observations suivantes dans cette affaire :
+18 Il est bien évident que son emploi constituait un accord visant à accumuler suffisamment d’heures de travail pour avoir droit à des prestations d’assurance‑emploi. Elle était trop malade pour travailler pour la commission scolaire, mais elle était suffisamment bien pour travailler jusqu’au jour qui a précédé la naissance de l’enfant. Elle n’a pas prouvé que le payeur avait besoin qu’elle travaille au cours de la période en question. Son salaire était excessif, compte tenu du genre de travail.
+19 Compte tenu de toutes les circonstances en l'espèce, notamment les témoignages et la preuve documentaire, je suis convaincu que l’appelante n’a pas réussi à établir selon la prépondérance de la preuve que le ministre a agi d'une façon capricieuse ou arbitraire. En conséquence, l’emploi de l’appelante est exclu des emplois assurables selon l'alinéa 5(2)i) de la Loi sur l'assurance-emploi.
+[17] Lorsqu’il mentionne, dans cette décision, que l’appelante n’a pas réussi à établir que « le payeur avait besoin qu’elle travaille au cours de la période en question », le juge Somers paraît dire que le payeur ne l’aurait pas embauchée du tout s’ils n’avaient pas eu de lien de dépendance entre eux.
+[18] Dans la décision Pike c. Le ministre du Revenu national, [1994] A.C.I. no 973, l’appelante (Helen Pike) avait été employée par une personne liée (Sarah Pike) pour remplir les tâches de gardienne d’enfant et d’entretien ménager pendant une période de 21 semaines. Helen Pike avait besoin de 20 semaines d’emploi pour être admissible à des prestations sous le régime de la Loi sur l’assurance‑chômage alors en vigueur. M. le juge Mogan s’est exprimé en ces termes dans cette décision :
+9 Ce qui me préoccupe le plus dans cette affaire, c’est que (i) l’appelante n’a pas nié avoir eu besoin de 20 semaines de travail pour être admissible à des prestations d’assurance-chômage et (ii) après seulement 21 semaines de travail, les services assurés par l’appelante ont été pris en charge par la famille de Sarah et Gerald Pike. La Cour d’appel fédérale a déclaré dans l’arrêt Tignish Auto Parts :
+La requérante, qui en appelle du règlement du ministre, a le fardeau de prouver sa cause et a le droit de soumettre de nouveaux éléments de preuve pour réfuter les faits sur lesquels s’est appuyé le ministre.
+10 En l’espèce, Sarah n’ayant pas témoigné, on ne connaît pas le point de vue de l’employeuse. Étant donné le lien étroit qui existait entre Sarah et l’appelante, cette dernière aurait dû appeler Sarah à témoigner pour que la Cour entende non seulement le point de vue de l’employée, mais également celui de l’employeuse. Je dirais même que, lorsqu’une personne conteste la décision du ministre visée à l’alinéa 3(2)c)(ii) de la Loi sur l’assurance-chômage, il est hautement souhaitable et dans bien des cas nécessaire d’entendre le point de vue de l’employé et celui de l’employeur pour déterminer si ces personnes auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu un lien de dépendance.
+[19] George J. Rambeau n’a pas témoigné en l’espèce et il n’y avait donc aucune preuve de la part de l’employeur sur la question de savoir s’il aurait conclu un contrat de travail à peu près semblable avec une personne avec laquelle il n’avait pas de lien de dépendance. L’appelante a le fardeau d’établir le bien‑fondé de ses prétentions et elle avait donc l’obligation de prouver que George J. Rambeau aurait conclu un contrat de travail à peu près semblable avec une personne avec laquelle il n’avait pas de lien de dépendance. De même, lorsqu’il signale que les travaux visés ont été pris en charge par la famille après qu’il eut été mis fin à l’emploi de l’employée, le juge Mogan semble aussi affirmer que l’employeur dans cette affaire n’aurait pas engagé l’employée du tout s’il n’y avait pas eu de lien de dépendance entre eux.
+[20] Dans la décision Narvie c. Le ministre du Revenu national, 2006CCI368, l’employeur, pêcheur de homards, avait employé son fils à titre de matelot de pont. Le fils de l’employeur ne remplaçait aucun autre travailleur et il n’a pas non plus été remplacé lorsque son emploi a pris fin. M. le juge Savoie a déclaré ce suit dans cette décision :
+RÉTRIBUTION VERSÉE
+13 Il a été démontré que l’appelant fournissait des services au payeur avant et après la période visée par le présent examen, et ce, sans rétribution.
+14 De plus, la preuve a révélé que l’appelant avait été embauché en tant que second matelot de pont sur le navire de pêche et qu’il recevait un salaire à ce titre, indépendamment du fait que ses services n’étaient pas requis. Depuis 2003, le payeur faisait la pêche du homard avec un seul matelot de pont. Il a aussi été démontré que le revenu brut du payeur avec deux matelots de pont ne dépassait pas le revenu gagné avec l’aide d’un seul matelot de pont.
+15 Ceci soutient certainement la conclusion que le payeur n’aurait pas embauché un second matelot de pont dans les conditions en question, ni même du tout, si lui et l’appelant n’avaient pas eu entre eux un lien de dépendance.
+MODALITÉS D’EMPLOI
+16 Le payeur a embauché l’appelant alors que, comme il a été prouvé, il n’avait aucunement besoin de ses services. Le payeur a admis que l’appelant pouvait quitter son emploi après que celui‑ci aurait travaillé suffisamment d’heures pour être admissible à des prestations d’assurance‑emploi.
+DURÉE
+17 Le [sic] période visée par le présent examen s’étend du 9 mai au 21 mai 2005. La saison du homard dure du 1er mai au 30 juin. L’appelant a affirmé qu’il avait travaillé pour le compte du payeur avant et après la période en question sans rétribution. L’appelant a quitté son emploi lorsqu’il avait travaillé suffisamment d’heures pour être admissible à des prestations d’assurance‑emploi, ce que l’appelant et le payeur ont tous deux confirmé dans leur déclaration et leur témoignage. L’appelant et le payeur ont aussi tous deux confirmé qu’ils avaient conclu une entente à cet égard dès le départ. Il est difficilement concevable que le payeur et l’appelant auraient conclu une telle entente s’ils n’avaient pas eu entre eux un lien de dépendance.
+18 Il s’est dégagé clairement de la preuve que les services fournis par l’appelant n’étaient pas essentiels à la poursuite des activités économiques du payeur. Il y a lieu de répéter que l’entreprise économique du payeur pouvait être menée tout à fait adéquatement à l’aide d’un seul matelot de pont.
+19 La nature de l’entente aux termes de laquelle l’appelant a été employé correspond exactement au genre de stratagème qui contrevient à l’intention explicite de la législation en matière d’assurance‑emploi telle qu’elle est interprétée dans les décisions de la Cour et de la Cour d’appel fédérale.
+20 L’appelant n’a pas démontré l’opportunité de l’intervention de la Cour. Au contraire, une telle intervention ne serait pas fondée.
+21 Le ministre a fait une analyse correcte selon la Loi, et sa conclusion, même à la lumière de la preuve présentée à l’audience, est toujours fondée.
+[21] Les faits dont je suis saisi ne permettent nullement de penser que la décision du ministre selon laquelle l’appelante et George J. Rambeau n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance était déraisonnable. Le nombre d’heures pour lesquelles l’appelante a été rémunérée était sensiblement plus élevé que le nombre d’heures travaillées par celle‑ci. Personne d’autre n’a été engagé pour effectuer les travaux d’entretien ménager avant ou après la période d’emploi de l’appelante. L’employeur n’a pas témoigné et aucun élément ne laisse croire que George J. Rambeau aurait embauché une personne n’ayant pas de lien de dépendance avec lui dans le cadre d’un contrat de travail à peu près semblable pour remplir les fonctions exercées par l’appelante. Il me semble donc qu’il était raisonnable pour le ministre de conclure que l’appelante et George J. Rambeau n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[22] Par conséquent, j’arrive à la conclusion que la décision du ministre était raisonnable et l’appel est donc rejeté.
+Signé à Ottawa (Ontario), ce 18e jour de juin 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour d’août 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008CCI375
+DOSSIER DE LA COUR : 2008-197(EI)
+INTITULÉ DE LA CAUSE : Michelle M. Rambeau c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Dieppe (Moncton) (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 30 mai 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 juin 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Lloyd J. A. Petrie
+Avocate de l’intimé :
+Me Lindsay D. Holland
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

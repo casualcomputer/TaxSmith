@@ -1,0 +1,204 @@
+---
+title: "Boutin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26479/index.do"
+last_modified: "2004-07-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 290"
+citation2: ""
+neutral_citation: "2004 CCI 290"
+decision_date: "2004-07-19"
+language: "fr"
+item_id: "26479"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3196
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:13:25.800000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "94a9b226598ef7b4eca650dc32d9c57c3d67ad923336c7161defc269f4012f0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boutin c. La Reine
+
+- Citation: 2004 CCI 290
+- Decision date: 2004-07-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3196, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boutin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-19
+Référence neutre
+2004 CCI 290
+Numéro de dossier
+2003-3981(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3981(IT)I
+ENTRE :
+SYLVIE BOUTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 6 avril 2004, à Sherbrooke (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocate de l'appelante :
+Me Josée Gosselin
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont accueillis et les cotisations déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de juillet 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI290
+Date : 20040719
+Dossier : 2003-3981(IT)I
+ENTRE :
+SYLVIE BOUTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'appels, régis par la procédure informelle, relatifs à la prestation fiscale canadienne pour enfants (PFCE) pour les années de base 1999 et 2000.
+[2] En date du 20 janvier 2003, le ministre du Revenu national (le « ministre » ) a établi à l'égard de l'appelante des avis de nouvelle détermination concernant la PFCE pour les années de base 1999 et 2000.
+[3] Ces avis réclamaient à l'appelante des PFCE versées en trop s'élevant à 2 081,00 $ et à 790,66 $ relativement aux années de base 1999 et 2000 respectivement.
+[4] En établissant et maintenant les avis de nouvelle détermination concernant la PFCE pour les années de base en litige, le ministre s'est appuyé sur les faits suivants énoncés au paragraphe 4 de la Réponse à l'avis d'appel :
+a) l'appelante et monsieur Yvan Gauthier sont les parents d'une fille, nommée Priscilla, née le 21 octobre 1984;
+b) monsieur Yvan Gauthier vit maritalement avec madame Évelyne Loiselle depuis le mois de janvier 1997;
+c) monsieur Yvan Gauthier a obtenu la garde juridique de sa fille Priscilla, au terme d'un jugement de cour daté du 18 janvier 2001 dans lequel l'honorable juge Guy Daigle homologuait une convention, datée du même jour, intervenue et signée par les parties qui indiquait que l'enfant demeurait chez son père depuis le 2 mars 2000;
+d) sous la présidence d'une greffière spéciale, madame Ghislaine Champoux, l'appelante a obtenu la garde juridique de sa fille Priscilla au terme d'un jugement de cour daté du 13 décembre 2001;
+e) avant la période en litige, l'appelante a toujours été considérée comme étant le parent qui assumait principalement le soin et l'éducation de sa fille Priscilla;
+f) l'étude du ministre a démontré ce qui suit :
+i) pendant la période en litige, l'enfant Priscilla n'habitait pas avec l'appelante,
+ii) les divers documents fournis par les parties, voulant démontrer leur qualité de parent assumant principalement le soin et l'éducation de l'enfant Priscilla, ne militaient pas en faveur de l'appelante, entre autres raisons, parce que plusieurs pièces soumises ne se rapportaient pas à la période en litige;
+g) le ministre a considéré que l'appelante n'était pas le parent qui assumait principalement le soin et l'éducation de son enfant Priscilla pour la période s'échelonnant du mois de juillet 2000 au mois d'octobre 2001 inclusivement, quant aux années de base 1999 et 2000.
+[5] La seule question en litige est celle de savoir si le ministre a eu tort de décider que l'appelante n'était pas un particulier admissible pour les périodes en cause.
+[6] La définition de « particulier admissible » à l'article 122.6 de la Loi de l'impôt sur le revenu ( la « Loi » ) était à l'époque ainsi rédigée :
+« particulier admissible »
+S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne -- père ou mère de la personne à charge --qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est le conjoint visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son conjoint visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens de la Loi sur l'immigration,
+(ii) visiteur au Canada ou titulaire de permis au Canada (ces expressions s'entendant au sens de la Loi sur l'immigration) ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) quelqu'un à qui a été reconnu, en vertu de la Loi sur l'immigration ou de ses règlements, le statut de réfugié au sens de la Convention.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[7] Pour l'application des alinéas g) et h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les articles 6301 et 6302 de la partie LXIII du Règlement de l'impôt sur le revenu (le « Règlement » ) prévoient ce qui suit :
+NON-APPLICATION DE LA PRÉSOMPTION
+6301. (1) Pour l'application de l'alinéa g) de la définition de « particulier admissible » à l'article 122.6 de la Loi, la présomption mentionnée à l'alinéa f) de cette définition ne s'applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu'elle réside avec le père de cette personne et qu'il est celui qui assume principalement la responsabilité pour le soin et l'éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d'un particulier admissible et chacun d'eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d'une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la personne à charge admissible;
+d) plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents.
+(2) Il demeure entendu qu'est assimilée à la personne qui présente un avis visé aux alinéas (1)b), c) ou d) la personne qui, en vertu du paragraphe 122.62(3) de la Loi, est soustraite à l'obligation de présenter un tel avis.
+CRITÈRES
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[8] Nous ne nous préoccuperons ici que des conditions établies aux alinéas a) et b) de la définition de « particulier admissible » à l'article 122.6 de la Loi. Il s'agit donc de savoir :
+i) si l'appelante résidait avec son enfant Priscilla durant la période s'échelonnant de juillet 2000 au mois d'octobre 2001 inclusivement;
+ii) si l'appelante était le parent qui assumait principalement la responsabilité pour le soin et l'éducation de Priscilla au cours de cette période.
+Les faits
+[9] L'appelante, son ex-conjoint monsieur Yvan Gauthier, leur enfant Priscilla, la mère et la soeur de l'appelante, et la conjointe de monsieur Yvan Gauthier ont témoigné.
+[10] La preuve a révélé que :
+(i) à partir de juin 2000 Priscilla vivait à temps plein chez son ami, Patrick Labrecque, et ce, bien qu'elle fût âgée de 16 ans et bien que ce fût le père qui avait la garde juridique de sa fille;
+(ii) à l'été 2001, Priscilla a quitté son ami Patrick; elle a alors vécu quelques jours chez sa mère et chez son père avant d'aller vivre à temps plein chez un autre ami, Rocky;
+(iii) à la fin d'août 2001, elle est retournée vivre chez son père; après quelques jours, ils se sont chicanés; elle va alors vivre chez sa tante Nathalie Boutin pendant deux semaines, puis chez Denise St-Pierre, une amie de sa mère;
+(iv) en octobre 2001, Priscilla et l'appelante ont vécu chez la mère de cette dernière;
+(v) à partir de novembre 2001, l'appelante loue un appartement et Priscilla va vivre chez celle-ci.
+[11] Comme l'a affirmé la juge Lamarre dans l'affaire Loyer c. Canada, [2001] A.C.I. no 71 (Q.L.), au paragraphe 14 :
+Pour satisfaire à la définition de particulier admissible, un contribuable doit remplir deux conditions cumulatives : il doit résider avec la personne à charge et il doit assumer principalement la responsabilité pour le soin et l'éducation de cette dernière.
+[12] La notion de « résider avec la personne à charge » a été définie à maintes reprises par la jurisprudence. Voici un bref survol de cette jurisprudence.
+[13] Dans l'affaire Eliacin c. Canada, [1993] A.C.I. no 144 (Q.L.), [1993] 2 C.T.C. 2635, aux pages 2637 et 2638, le juge Rip expliquait :
+On peut dire à la lumière de cette jurisprudence que les mots « résider avec » ont une définition plus large et ne signifient pas vivre dans une relation conjugale; ils signifient seulement vivre dans la même maison que quelqu'un d'autre. Il apparaît également que le législateur aurait dû utiliser le mot « cohabiter » pour indiquer le fait de vivre en tant que mari et femme.
+La Loi n'emploie que les mots « résider avec » . Le mot « cohabitation » n'apparaît pas dans la Loi et n'a aucune pertinence pour les fins de cet appel. Donc, la jurisprudence anglaise ne nous aide pas.
+Le mot « résider » est défini par Le Petit Robert 1 comme suit :
+« 10 Être établi d'une manière habituelle dans un lieu; y avoir sa résidence... »
+En anglais, The Shorter Oxford English Dictionary définit le mot « reside » as [sic]:
+« ... 2. To dwell permanently or for a considerable time, to have one's settled or usual abode, to live, in or at a particular place.
+Le mot « avec » quand il est employé dans la phrase « ... le conjoint ... a résidé avec la contribuable... » dans l'aliéna [sic] 63(3)d) signifie deux choses; primo, le conjoint doit résider d'une manière habituelle dans le même immeuble que l'appelante et secondo [sic], il doit exister un lien de ménage entre les deux conjoints et leurs enfants.
+[14] Dans les affaires Burton c. Canada, [1999] A.C.I. no 833 (Q.L.) et Gibson c. Canada, [1999] A.C.I. no 834 (Q.L.), le juge Sarchuk reprenait en partie ce passage tiré de Eliacin et ajoutait :[1]
+Je fais également remarquer que le Black's Law Dictionary définit le mot « residence » ["résidence"] de la façon suivante : [TRADUCTION] « présence personnelle dans un lieu d'habitation quelconque sans intention actuelle de quitter ce lieu de manière définitive et prématurée et aux fins d'y demeurer pour une période indéterminée autrement que de façon sporadique, mais pas nécessairement dans le but avoué d'y demeurer de façon permanente » .
+[15] Dans l'affaire S.R. v. Canada, [2003] T.C.J. No. 489 (Q.L.), le juge Bonner affirmait au paragraphe 12 :
+The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single nontaxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode. The arrangement made between the Appellant and her former spouse with regard to S.F. recognized a need to separate S.F.'s settled and usual abode from that of T.
+Ce passage a été repris récemment par le juge O'Connor dans l'affaire Bachand v. Canada, [2004] T.C.J. No. 26 (Q.L.), au paragraphe 5.
+[16] Enfin, dans l'affaire Callwood v. Canada, [2004] T.C.J. No. 95 (Q.L.), au paragraphe 10, la juge Woods affirmait à son tour :
+Although the circumstances that gave rise to this appeal are unfortunate, I cannot agree with the interpretation of the word "reside" that is suggested by Mr. Callwood. The word "reside" generally means "to live in the same house as:" Burton v. R., [2000] 1 C.T.C. 2727 (T.C.C.). In the context of the child tax benefit, this court in other cases has held that residence is to be determined on a monthly basis and that "reside" is to have its ordinary meaning, not an expanded meaning from other statutory definitions that are enacted for different purposes: Armstrong v. R., [1999] 4 C.T.C. 2719 (T.C.C.).
+[17] Puisque la preuve démontre que Priscilla a vécu chez des amis de juillet 2000 jusqu'à la fin de septembre 2001, je suis d'avis que l'appelante n'était pas le particulier admissible pendant cette période, car la condition établie à l'alinéa a) de la définition de « particulier admissible » à l'article 122.6 de la Loi n'a pas été remplie. Par contre, puisque la preuve démontre que Priscilla résidait avec sa mère en octobre 2001 et que cette dernière a été, durant ce mois, le parent qui assumait principalement la responsabilité pour le soin et l'éducation de Priscilla, je suis d'opinion que l'appelante était le particulier admissible durant cette période d'un mois, car les conditions établies aux alinéas a) et b) de la définition de « particulier admissible » à l'article 122.6 de la Loi ont été remplies.
+Signé à Ottawa, Canada, ce 19e jour de juillet 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI290
+No DU DOSSIER DE LA COUR :
+2003-3981(IT)I
+INTITULÉ DE LA CAUSE :
+Sylvie Boutin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 6 avril 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 19 juillet 2004
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Josée Gosselin
+Avocate de l'intimée :
+Me Emanuelle Faulkner
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Josée Gosselin
+Étude :
+Lemay, Gladu, Collard
+Sherbrooke (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Au paragraphe 9 dans la décision Burton et au paragraphe 8 dans la décision Gibson.

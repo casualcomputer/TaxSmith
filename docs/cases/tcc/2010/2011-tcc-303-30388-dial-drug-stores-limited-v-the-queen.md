@@ -1,0 +1,291 @@
+---
+title: "Dial Drug Stores Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30388/index.do"
+last_modified: "2010-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 303"
+citation2: ""
+neutral_citation: "2011 TCC 303"
+decision_date: "2010-12-07"
+language: "en"
+item_id: "30388"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7846
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:46:40.375000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bccb87730e3f73e4985738c2c4f6db265b72fcd238211342ff5558d9274a308f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dial Drug Stores Limited v. The Queen
+
+- Citation: 2011 TCC 303
+- Decision date: 2010-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7846, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dial Drug Stores Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-07
+Neutral citation
+2011 TCC 303
+File numbers
+2009-3450(IT)G, 2009-3452(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3450(IT)G
+BETWEEN:
+DIAL DRUG STORES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2009-3452(IT)G
+BETWEEN:
+RONALD COWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 7, 2010 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Paul Stern
+James Clark
+Counsel for the Respondent:
+John P. Bodurtha
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for:
+(a) an Order pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) to strike out the Amended Notices of Appeal; or
+(b) in the alternative, an Order pursuant to paragraphs 53(b) and (c) of the Rules, striking out the portions of the Amended Notices of Appeal as follows:
+Portions of the Ronald Cowell (2009-3452(IT)G) Amended Notice of Appeal to be struck:
+(a) page 2 – paragraph 3;
+(b) page 2 – paragraph 9;
+(c) pages 3 to 13;
+(d) page 14 – paragraphs 77 to 81;
+(e) page 15 – paragraphs 85 to 88;
+(f) pages 16 to 26;
+(g) page 27 – paragraphs 127, 128 and 132;
+(h) page 28 – paragraphs 133 and 139;
+(i) page 29 – paragraph 144;
+(j) page 31 – subparagraphs 145 (a), (b), (c), (d) and (g);
+(k) page 32 – the portion of paragraph 146 that states “The Appellant also relies upon s. 7, 8, 10(a), 10(b) and 24 of the Canadian Charter of Rights and Freedoms”;
+(l) page 32 – paragraph 147 and 148; and
+(m) page 33 – subparagraphs 153(a), (b) and (c).
+Portions of the Dial Drug Stores Limited (2009-3450(IT)G) Amended Notice of Appeal to be struck:
+(a) page 2 – paragraph 3;
+(b) page 3 – paragraphs 10 to 14;
+(c) pages 4 to 14;
+(d) page 15 – paragraphs 82, 86 and 87;
+(e) pages 16 to 26;
+(f) page 27 – paragraphs 127, 128 and 129;
+(g) page 28 – paragraphs 133 and 134;
+(h) page 29 – paragraph 140;
+(i) page 30 – paragraphs 146, 148 and 149;
+(j) page 32 – subparagraphs 150(a), (b), (c), (d) and (g);
+(k) page 33 – the portion of paragraph 151 that states “The Appellant also relies upon the common law doctrine of abuse of process and sections 8 and 24 (and sections 10(a) and (b) in relation to the interrogation of Dials’s officer and director Mr. Cowell) of the Canadian Charter of Rights and Freedoms”;
+(l) page 33 – paragraphs 152 and 153; and
+(m) page 34 – subparagraphs 162(a), (b) and (c).
+and forming part of the Amended Notice of Motion;
+(c) if necessary, an Order pursuant to section 12 of the Rules granting the Respondent thirty (30) days from the date of the Order disposing of the Motion to file Replies to the Amended Notices of Appeal; and
+(d) such further and other relief as the Court considers just;
+And upon hearing submissions from the parties;
+IT IS ORDERED THAT:
+1. The Respondent’s motion to strike the paragraphs as noted is allowed in accordance with the Reasons for Order attached hereto;
+2. Costs shall be payable by the Appellant to the Respondent.
+Signed at Vancouver, British Columbia, this 14th day of June 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 303
+Date: 20110614
+Docket: 2009-3450(IT)G
+BETWEEN:
+DIAL DRUG STORES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2009-3452(IT)G
+BETWEEN:
+RONALD COWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] On November 3, 2009, the Appellant, Ronald Cowell (“Cowell”), filed Notices of Appeal in connection with Notices of Reassessment issued for his 1990, 1991, 1992 and 1993 taxation years.
+[2] On November 3, 2009, the Appellant, Dial Drug Stores Limited (“Dial”), filed Notices of Appeal in connection with Notices of Reassessment issued for the 1990, 1991, 1992, 1993 and 1994 taxation years.
+[3] On May 25, 2010, the Appellant, Cowell, filed Amended Notices of Appeal for the 1990, 1991, 1992 and 1993 taxation years.
+[4] On May 25, 2010, the Appellant, Dial, filed Amended Notices of Appeal for the 1990, 1991, 1992, 1993 and 1994 taxation years.
+[5] The Respondent seeks an Order pursuant to Section 58 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) striking out the Notices of Appeal of both the Cowell appeal and the Dial appeal on the grounds that the appeals do not disclose a reasonable cause of action.
+[6] In the alternative, the Respondent seeks an Order pursuant to paragraphs 53(b) and (c) of the Rules striking out portions of both the Cowell appeal and the Dial appeal, as listed in Appendix A to the Amended Notice of Motion, on the grounds that they are scandalous, frivolous and vexatious and an abuse of the process of the Tax Court of Canada.
+B. ISSUES:
+[7] The issues are:
+(a) whether the Amended Notices of Appeal disclose reasonable grounds for appeal; and
+(b) whether the subject paragraphs should be struck for being scandalous, frivolous and vexatious and an abuse of the process of the Tax Court.
+C. ANALYSIS AND DECISION
+[8] The Respondent has brought this Motion to strike certain parts of the Notices of Appeal. The parts that the Respondent has asked to have stricken are the following:
+Portions of the Ronald Cowell (2009-3452(IT)G) Amended Notice of Appeal to be struck:
+(a) page 2 – paragraph 3;
+(b) page 2 – paragraph 9;
+(c) pages 3 to 13;
+(d) page 14 – paragraphs 77 to 81;
+(e) page 15 – paragraphs 85 to 88;
+(f) pages 16 to 26;
+(g) page 27 – paragraphs 127, 128 and 132;
+(h) page 28 – paragraphs 133 and 139;
+(i) page 29 – paragraph 144;
+(j) page 31 – subparagraphs 145 (a), (b), (c), (d) and (g);
+(k) page 32 – the portion of paragraph 146 that states “The Appellant also relies upon s. 7, 8, 10(a), 10(b) and 24 of the Canadian Charter of Rights and Freedoms”;
+(l) page 32 – paragraph 147 and 148; and
+(m) page 33 – subparagraphs 153(a), (b) and (c).
+Portions of the Dial Drug Stores Limited (2009-3450(IT)G) Amended Notice of Appeal to be struck:
+(a) page 2 – paragraph 3;
+(b) page 3 – paragraphs 10 to 14;
+(c) pages 4 to 14;
+(d) page 15 – paragraphs 82, 86 and 87;
+(e) pages 16 to 26;
+(f) page 27 – paragraphs 127, 128 and 129;
+(g) page 28 – paragraphs 133 and 134;
+(h) page 29 – paragraph 140;
+(i) page 30 – paragraphs 146, 148 and 149;
+(j) page 32 – subparagraphs 150(a), (b), (c), (d) and (g);
+(k) page 33 – the portion of paragraph 151 that states “The Appellant also relies upon the common law doctrine of abuse of process and sections 8 and 24 (and sections 10(a) and (b) in relation to the interrogation of Dials’s officer and director Mr. Cowell) of the Canadian Charter of Rights and Freedoms”;
+(l) page 33 – paragraphs 152 and 153; and
+(m) page 34 – subparagraphs 162(a), (b) and (c).
+[9] In the case of Zelinski v The Queen, 2002 D.T.C. 1204, affirmed by the Federal Court of Appeal, 2002 D.T.C. 7395, Justice Bowie of the Tax Court stated that:
+[4] The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. Amendments to pleadings should generally be permitted, so long as that can be done without causing prejudice to the opposing party that cannot be compensated by an award of costs or other terms, as the purpose of the Rules is to ensure, so far as possible, a fair trial of the real issues in dispute between the parties.
+[5] The applicable principle is stated in Holmsted and Watson:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+I agree with the comments made by Justice Bowie.
+[10] Based upon the above judicial reasoning, the facts as recited in the Notice of Appeal must relate to the relief that is sought. In addition, a Notice of Appeal must state material facts and not include facts which are immaterial. A Notice of Appeal must state facts concisely in a summary manner AND not the evidence by which they are to be proved. In an appeal to the Tax Court, an Appellant is seeking either to vary or vacate an assessment under the Income Tax Act (the "Act").
+[11] Paragraph 169 of the Act provides as follows:
+Appeal
+169.(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[12] Section 171 of the Act provides that:
+Disposal of Appeal
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[13] In the decision of the Federal Court of Appeal in the case of Main Rehabilitation Co. v The Queen, 2004 D.T.C. 6762, (leave to appeal to the Supreme Court of Canada was dismissed (343 N.R. 196)). The Federal Court of Appeal made the following comments:
+ABUSE OF PROCESS
+[6] In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+[7] As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. Canada, (1999) DTC 5133 (F.C.A.)), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers' Gas Company Ltd. 87 DTC 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[14] The Main Rehabilitation Co. case dealt with a motion to strike certain provisions from the Notice of Appeal related to a claim that the actions of the Canada Revenue Agency (“CRA”) auditor resulted in an abuse of process. The test for striking pleadings was also set out in the Main Rehabilitation Co. case, which was stated as follows:
+THE TEST FOR STRIKING OUT PLEADINGS
+[3] The test to be applied for striking out pleadings is whether it is plain and obvious that Main's Notice of Appeal to the Tax Court discloses no reasonable claim. Only if its appeal is certain to fail should the relevant portions of the Notice of Appeal be struck out. As stated, the facts alleged in the Notice of Appeal are assumed to be true. See Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959.
+[15] As noted above, the only matter that can be dealt with by this Court on an appeal under section 169 of the Act is the validity of the assessment itself. The parts of the Notice of Appeal that deal with the conduct of the appeals officer or the Respondent are not relevant in determining the validity of the assessment and therefore are not material facts that relate to the relief that is being sought under section 171 of the Act.
+[16] With respect to the parts dealing with section 7 of the Canadian Charter of Rights and Freedoms (the "Charter"), Justice Rothstein, as he then was, made the following comments on section 7 of the Charter in relation to reassessments under the Act in the case of Mathew v. The Queen, 2003 D.T.C. 5644:
+[29] I will accept that the power of reassessment of a taxpayer implicates the administration of justice. However, I do not accept that reassessments of taxpayers result in a deprivation of liberty or security of the person.
+[30] If there is a right at issue in the case of reassessments in income tax, it is an economic right. In Gosselin, McLachlin, C.J.C., for the majority, observed that in Irwin Toy Ltd. v. Quebec (A.G.), [1989] 1 S.C.R. 927 at 1003, Dickson, C.J.C., for the majority, left open the question of whether section 7 could operate to protect “economic rights fundamental to human ... survival”. However, there is no suggestion in Gosselin that section 7 is broad enough to encompass economic rights generally or, in particular, in respect of reassessments of income tax. I am, therefore, of the view that the appellants have not demonstrated a deprivation of any right protected by section 7 of the Charter.
+[17] The Mathew decision was affirmed by the Supreme Court of Canada (2005 SCC 55) but the Supreme Court of Canada did not comment on the application of section 7 of the Charter to reassessments under the Act.
+[18] As a result of the comments of the Federal Court of Appeal in the Mathew decision, the references in the Notices of Appeal to section 7 of the Charter are, in my opinion, not relevant to the validity of the assessment against the Appellants.
+[19] Counsel for the Respondent maintains that if we apply the 4 principles as outlined in Zelinski (see paragraph [9] above), the Amended Notices of Appeal are deficient in terms of stating the material facts in a concise summary of the facts AND not the evidence by which the facts are to be proved.
+[20] Counsel for the Respondent said:
+It is the Respondent's position that, when we look at the amended Notices of Appeal that have been filed by the Appellants in this matter, the allegations in question or the subject paragraphs are frivolous, vexatious and constitute an abuse of the process of this Court and, as such, may prejudice or delay the fair hearing of the action as they are immaterial or irrelevant to the issue in the appeals, and they do not disclose a reasonable cause of action. That falls within the jurisdiction of the Tax Court.
+(Transcript, page 7, lines 13 to 23)
+[21] Counsel for the Respondent also said:
+The ultimate issue for the Court is the validity of the assessments. Was the Minister correct in adding these additional amounts to the income of Mr. Cowell and similar amounts for the corporation, Dial Drug Stores Limited.
+(Transcript, page 10, lines 18 to 22)
+The point that the Crown wants to put forward today is that what the Tax Court of Canada has jurisdiction to hear is the validity of the assessment, not the process upon which the assessment was issued.
+(Transcript, page 11, line 23 to page 12, line 2)
+[22] Counsel for the Respondent then made the following comments:
+1. “… abuse of process starts at paragraph 85 and continues on to paragraph 128.”
+(Transcript, page 14, lines 17 to 19)
+The Crown submits that all of those paragraphs relate to abuse of process and should be struck from the Notices of Appeal. (Note: Paragraphs 85 to 128 for Cowell and paragraphs 86 to 129 for Dial).
+Comment: I agree with respect to both appeals that paragraphs 85 to 128 for Cowell and paragraphs 86 to 129 for Dial should be struck. This type of “commentary” should not be contained in a Notice of Appeal.
+2. Counsel for the Respondent referred to paragraphs 132, 133 and 139 of the Amended Notice of Appeal and said that those paragraphs should be struck because they do not disclose material facts.
+(Transcript, pages 16 and 17)
+(Note: Paragraphs 132, 133 and 139 in Cowell and paragraphs 133, 134 and 140 in Dial).
+Comment: I do not agree. In my opinion, the fact that the Appellants made a voluntary disclosure could be a material fact. I order that the above noted paragraphs should not be struck from the Notices of Appeal.
+3. Counsel for the Respondent said that paragraph 3 should be struck.
+(Transcript, pages 18-19)
+Comment: I am not prepared to strike paragraph 3. However, I suggest that paragraph 3 should be reworded by Counsel for the Appellants to recognize the jurisdiction of the Tax Court regarding the Charter. (On this point, see comments of Justice Rothstein in Mathew at paragraph [16] above). I also refer to the decision of the Federal Court of Appeal in Main Rehabilitation Co. v The Queen. (See paragraphs [13] and [14] above.)
+4. Counsel for the Respondent said that the following paragraphs should be struck:
+Cowell – paragraphs 10 to 82;
+Dial – paragraphs 9 to 81.
+(Transcript, page 21)
+Comment: These “rambling comments” are not appropriate for a Notice of Appeal. The “comments” would appear to be from a previous submission made by Counsel for the Appellants relating to the criminal matter and these comments were simply added to the Notices of Appeal. The paragraphs as noted should be struck.
+5. Counsel for the Respondent said that paragraph 144 in Cowell and paragraph 149 in Dial talk about abuse of process and these paragraphs should be struck.
+Comment: I agree. However, this will not preclude the Appellants from introducing evidence of the conduct of the CRA if the Appellants believe that the actions of CRA officers were egregious or clearly offensive. (On this point, I refer to the decision of Justice Bowman in O’Neill Motors Ltd. v The Queen, 96 D.T.C. 1486.)
+[23] Counsel for the Respondent said that he wishes to have subparagraphs 2, 3 and 4 of paragraph 144 in Cowell and subparagraphs 2, 3 and 4 of paragraph 149 in Dial struck as they raise aspects of the Charter that are beyond the jurisdiction of the Tax Court.
+(Transcript, pages 26 and 27)
+Comment: I agree with the comments of Counsel for the Respondent. However, I suggest that the noted subparagraphs should be rewritten to recognize the restricted jurisdiction of the Tax Court regarding the Charter. (See Main Rehabilitation Co. in paragraphs [13] and [14] above.)
+[24] Counsel for the Respondent said that parts of paragraph 145 in Cowell and paragraph 150 in Dial should be struck, i.e., 145(a), (b), (c), and (d) or 150(a), (b), (c), and (d). However, Counsel for the Respondent does not object to subparagraphs 145(e) and (f) in Cowell and subparagraphs 150 (e) and (f) in Dial. (Transcript, page 31)
+Comment: I suggest that these paragraphs and subparagraphs should be rewritten to recognize the restricted jurisdiction of the Tax Court regarding the application of the Charter.
+[25] Counsel for the Respondent wishes to have subparagraph (g) of paragraph 145 in Cowell and subparagraph (g) of paragraph 150 in Dial struck.
+Comment: I suggest that these subparagraphs should be rewritten to recognize the restricted jurisdiction of the Tax Court regarding the application of the Charter.
+[26] Counsel for the Respondent wishes to have the following paragraphs under “relief sought” struck:
+Cowell – 153 (a), (b) and (c)
+Dial – 162 (a), (b) and (c).
+Comment: I do not agree. I have concluded that these subparagraphs should not be struck. However, the subparagraphs should be rewritten to recognize the restricted jurisdiction of the Tax Court.
+[27] I have reached the following conclusions:
+1. Although the Notices of Appeal contain some 35 pages of comments on many issues, I am not prepared to strike out the Notices of Appeal on the grounds that the appeals do not disclose a reasonable cause of action. However, in my opinion, the Notices of Appeal are improperly prepared because they deal with evidence and facts that are not material and other irrelevant statements;
+2. I have concluded that the paragraphs in the Notices of Appeal as noted above should be struck;
+3. The Appellants will be allowed to file Amended Amended Notices of Appeal to recognize the paragraphs that should be struck on or before July 15, 2011. I emphasize that the Amended Amended Notices of Appeal must state facts concisely in a summary form; and
+4. The Respondent will be allowed to file a Reply to the Amended Amended Notices of Appeal if the Reply is filed on or before September 15, 2011.
+[28] The Respondent’s Motion to strike the paragraphs as noted above is allowed, with costs.
+Signed at Vancouver, British Columbia, this 14th day of June 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 303
+COURT FILE NOS.: 2009-3450(IT)G;
+2009-3452(IT)G
+STYLE OF CAUSE: DIAL DRUG STORES LIMITED AND HER MAJESTY THE QUEEN
+RONALD COWELL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 7, 2010
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: June 14, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Paul Stern
+James Clark
+Counsel for the Respondent:
+John P. Bodurtha
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul Stern
+James Clark
+Firm: Stern, Landesman, Clark LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

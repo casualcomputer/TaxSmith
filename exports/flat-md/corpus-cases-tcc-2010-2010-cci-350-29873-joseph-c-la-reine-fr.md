@@ -1,0 +1,175 @@
+---
+title: "Joseph c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29873/index.do"
+last_modified: "2010-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 350"
+citation2: ""
+neutral_citation: "2010 CCI 350"
+decision_date: "2010-06-23"
+language: "fr"
+item_id: "29873"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6430
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:51:07.426000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5996a664c18e6f32aa7634af642c811c53df1c26a023f7bec02955a4c09e711"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Joseph c. La Reine
+
+- Citation: 2010 CCI 350
+- Decision date: 2010-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6430, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joseph c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-23
+Référence neutre
+2010 CCI 350
+Numéro de dossier
+2010-155(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-155(IT)I
+ENTRE :
+DONALD JOSEPH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 juin 2010 à Ottawa (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Natasha Wallace
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année 2008 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 26e jour de juillet 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 350
+Date : 20100623
+Dossier : 2010-155(IT)I
+ENTRE :
+DONALD JOSEPH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant a interjeté appel à l’encontre de la nouvelle cotisation établie pour son année d’imposition 2008. La question en litige est de savoir si l’appelant est tenu d’inclure dans son revenu le montant de 43 307,22 $ qu’il a reçu de la Fiducie houillère canadienne Fording (la fiducie « Fording »).
+[2] Il ressort du témoignage de l’appelant que ce dernier détenait 407 parts dans Fording. En 2008, Teck Cominco (la société « Teck ») a lancé une offre publique d’achat hostile visant Fording. Au mois de septembre 2008, Fording a demandé à ses porteurs de parts d’exercer leur droit de vote au sujet de l’offre publique d’achat. L’appelant a déclaré que son vote contre l’offre a été infructueux. Au mois d’octobre 2008, Fording a accepté une offre publique au comptant et en actions de Teck.
+[3] En 2008, Fording a envoyé à ses porteurs de parts des renseignements concernant entre autres toutes les distributions en espèces qu’elle avait faites à leur endroit. Ces renseignements comprenaient notamment les éléments suivants :
+[traduction]
+Les renseignements suivants sont fondés sur l’interprétation que la Fiducie fait de la Loi de l’impôt sur le revenu (Canada) et de ses règlements d’application et ne revêt qu’un caractère général. Les feuillets T3 – État des revenus de fiducie (Répartitions et attributions) devraient être prêts à la fin du mois de mars 2009.
+Le tableau suivant indique les distributions en espèces déclarées en dollars canadiens. Les montants sont déclarés par part et reflètent les parts en circulation au moment de la déclaration des paiements.
+$CAN par part
+Date de clôture des registres
+Date de règlement
+Autre revenu imposable
+Remboursement de capital
+Produit du rachat
+Distribution totale versée
+31 mars 2008
+15 avril 2008
+0,50000 $
+- $
+- $
+0,50000 $
+30 juin 2008
+15 juillet 2008
+2,50000 $
+- $
+- $
+2,50000 $
+Contrepartie conformément à l’arrangement
+103,50343 $
+0,94215 $
+0,01442 $
+104,46000 $
+Le montant « autre revenu imposable » est la fraction des distributions à inclure dans le revenu imposable des porteurs de parts. De manière générale, la fraction « remboursement de capital » (autre que celle représentant le produit du rachat) des distributions n’est pas imposable, mais elle doit être déduite du prix de base rajusté des parts d’un porteur de parts de la fiducie. Les deux montants seront indiqués sur le feuillet T3 – État des revenus de fiducie (Répartitions et attributions).
+Sur le rachat des parts de la fiducie conformément à l’arrangement, un résident canadien réalisera en général un gain en capital (ou subira une perte en capital) égal à l’écart entre, d’une part, le total du produit du rachat à recevoir par le porteur de parts et, d’autre part, la somme du prix de base rajusté des parts du porteur de parts de la fiducie et de tous autres frais de disposition raisonnables. (Veuillez vous référer à la section intitulée « Imposition des porteurs de parts résidents au Canada –Certaines incidences fiscales fédérales canadiennes » de la note d’information pour un exposé plus détaillé). Le produit du rachat sera indiqué sur le feuillet T5008 – État des opérations sur titres.
+[4] Au mois d’octobre 2008, il a été demandé à l’appelant d’envoyer ses certificats de parts à Computershare Investor Services Inc. (la société « Computershare »), l’agent agissant pour le compte de Fording. Le 6 novembre 2008, l’appelant a reçu un chèque de Fording. Le montant de ce chèque ne m’a pas été communiqué, mais l’appelant a déclaré qu’il avait immédiatement réinvesti le montant de 38 730,53 $CAN. Au mois d’avril 2009, l’appelant a obtenu dans le site Web de l’agent ses feuillets T3 et T5008 relativement à ces opérations. Il était mentionné sur le feuillet T3 que l’appelant avait reçu en 2008 d’« autres revenus » de 43 307,22 $ et un « remboursement de capital » de 383,46 $. Le feuillet T5008 faisait état d’un « produit de disposition » de 44,99 $ que l’appelant avait reçu.
+[5] L’appelant a déclaré qu’il avait reçu le document de 300 pages contenant l’offre que Teck avait faite à Fording. Il ne l’avait pas entièrement lu. Il n’avait pas compris que Teck et Fording avaient réalisé leurs opérations de sorte que le produit de la vente serait imposé comme un revenu ordinaire pour les porteurs de parts. Il a déclaré avoir appelé l’agent et que ce dernier lui avait répondu que toutes les décisions avaient été prises par Fording. Il a essayé d’appeler Fording et de lui envoyer un courriel, mais sans succès, étant donné que la fiducie n’avait plus une existence indépendante.
+[6] Selon l’appelant, il était ridicule de qualifier le montant de 43 307,22 $ d’« autre revenu ». Il a soutenu qu’il aurait dû recevoir les 38 730 $ à titre de gains en capital parce que ce montant représentait la vente des parts qu’il avait accumulées sur une période de plus de 40 ans. Il a ajouté que seul le montant de 4 577 $ aurait dû être qualifié d’« autre revenu ».
+[7] Voici la teneur des dispositions de la Loi de l’impôt sur le revenu (la « Loi ») qui s’appliquent en l’espèce :
+12. (1) Sommes à inclure dans le revenu – Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+m) Avantages provenant de fiducies – les sommes à inclure, en application de la sous-section k ou du paragraphe 132.1(1), dans le calcul du revenu du contribuable pour l’année, […]
+104. (13) Revenu des bénéficiaires – Les montants applicables suivants sont à inclure dans le calcul du revenu du bénéficiaire d’une fiducie pour une année d’imposition donnée :
+a) dans le cas d’une fiducie qui n’est pas visée à l’alinéa a) de la définition de « fiducie » au paragraphe 108(1), la partie du montant qui, si ce n’était les paragraphes (6) et (12), représenterait son revenu pour son année d’imposition s’étant terminée dans l’année donnée, qui est devenue payable au bénéficiaire au cours de l’année de la fiducie; […]
+104. (21) Gains en capital réputés réalisés par le bénéficiaire – Pour l’application des articles 3 et 111, sauf dans la mesure où ils s’appliquent dans le cadre de l’article 110.6, et sous réserve de l’alinéa 132(5.1)b), la fraction des gains en capital imposables nets d’une fiducie, pour une année d’imposition tout au long de laquelle elle a résidé au Canada, que la fiducie attribue à un bénéficiaire donné dans sa déclaration de revenu produite pour l’année en vertu de la présente partie est réputée être un gain en capital imposable, pour l’année, du bénéficiaire donné réalisé à la disposition par celui-ci d’une immobilisation, à condition :
+a) d’une part, qu’il soit raisonnable de considérer cette fraction (compte tenu des circonstances, y compris des modalités de l’acte de fiducie) comme faisant partie de la somme qui, en vertu du paragraphe (13) ou (14) ou de l’article 105, a été incluse dans le calcul du revenu pour l’année d’imposition :
+(i) du bénéficiaire donné de la fiducie, si celle-ci est une fiducie de fonds commun de placement,
+(ii) du bénéficiaire donné résidant au Canada de la fiducie, si la fiducie n’est pas une fiducie de fonds commun de placement;
+b) d’autre part, que la fiducie n’ait attribué cette fraction à aucun autre de ses bénéficiaires.
+[8] L’alinéa 12(1)m) exige que l’appelant inclue dans son revenu toute somme qu’il était tenu d’inclure dans son revenu en application de la sous-section k de la Loi. Selon le paragraphe 104(13) de la sous‑section k de la Loi, l’appelant devait inclure dans son revenu le montant reçu de Fording. Le montant aurait pu être considéré comme un gain en capital réputé réalisé par le bénéficiaire seulement si Fording l’avait attribué à l’appelant dans sa déclaration de revenu de 2008. Il n’y avait aucun élément de preuve pour démontrer que Fording avait attribué quelque montant que ce soit à l’appelant au titre de gain en capital imposable net. Au contraire, il était mentionné sur le T3 établi par Computershare pour le compte de Fording que le montant versé à l’appelant constituait d’« autre revenus », et le T5008 établi pour l’appelant faisait état d’un montant de 44,99 $ reçu par l’appelant à titre de produit de disposition.
+[9] L’avocate de l’intimée a déclaré que l’appelant avait subi une perte en capital lors du rachat de ses parts de fiducie. Le montant de cette perte en capital n’était étayé par aucun élément de preuve. L’appelant a déclaré qu’une perte en capital importait peu pour lui étant donné qu’il n’avait pas réalisé de gain en capital.
+[10] L’appelant n’a produit aucun élément de preuve pour démontrer que la nouvelle cotisation établie par le ministre n’était pas correcte.
+[11] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 26e jour de juillet 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 350
+NO DU DOSSIER DE LA COUR : 2010-155(IT)I
+INTITULÉ : DONALD JOSEPH
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 11 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 23 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada

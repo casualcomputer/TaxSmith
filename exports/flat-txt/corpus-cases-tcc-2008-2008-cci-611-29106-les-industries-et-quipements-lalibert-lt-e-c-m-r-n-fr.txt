@@ -1,0 +1,190 @@
+Title: Les Industries Et Équipements Laliberté Ltée c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29106/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-611-29106-les-industries-et-quipements-lalibert-lt-e-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-12-18
+
+# Les Industries Et Équipements Laliberté Ltée c. M.R.N.
+
+- Citation: 2008 CCI 611
+- Decision date: 2008-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6669, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Industries Et Équipements Laliberté Ltée c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-18
+Référence neutre
+2008 CCI 611
+Numéro de dossier
+2008-691(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-691(EI)
+ENTRE :
+LES INDUSTRIES ET ÉQUIPEMENTS LALIBERTÉ LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 21 octobre 2008, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté au motif que les emplois des travailleurs, messieurs Jean‑Charles, Lionel et Raynald Laliberté et madame Marcienne Laliberté, pour l’appelante, du 12 janvier 2006 au 13 juin 2007, étaient des emplois assurables aux termes de la Loi et ce, pour les motifs ci-après exposés.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 611
+Date : 20081218
+Dossier : 2008-691(EI)
+ENTRE :
+LES INDUSTRIES ET ÉQUIPEMENTS LALIBERTÉ LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision en vertu de laquelle l’intimé a conclu que le travail effectué du 12 janvier 2006 au 13 juin 2007 pour l’appelante, Les Industries et équipements Laliberté Ltée, (« appelante ») par messieurs Jean‑Charles, Lionel et Raynald Laliberté et par madame Marcienne Laliberté était assurable.
+[2] Il s’agit d’une décision dont le fondement juridique est l’alinéa 5(2)i) de la Loi sur l’assurance emploi (« Loi »). Cette disposition établit que le travail exécuté par une personne liée à son employeur au sens de la Loi de l’impôt sur le revenu est exclu des emplois assurables. Toutefois, le législateur a prévu une exception en vertu de laquelle ce travail est assurable s’il a été exécuté d’une manière semblable et à des conditions comparables à celles qui auraient existé s’il n’y avait pas eu de lien de dépendance. L’exception se lit comme suit :
+5(3)b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[3] Ainsi, en présence d’un lien de dépendance, la personne responsable de l’analyse du dossier doit faire une analyse beaucoup plus large que la simple vérification de la présence des conditions classiques, à savoir la rémunération, la prestation de travail et le lien de subordination; elle doit décider si le lien de dépendance a influencé l’exécution du travail.
+[4] Il s’agit là d’un dossier également particulier sous un autre aspect, puisque la jurisprudence a établi que la Cour canadienne de l’impôt n’avait pas compétence pour annuler la décision lorsque le pouvoir discrétionnaire avait été correctement et légalement exercé.
+[5] En d’autres termes, lorsque l’exercice du pouvoir discrétionnaire s’est fait d’une manière responsable et judicieuse et que tous les faits pertinents ont été pris en compte et que la conclusion s’avère un aboutissement raisonnable, la Cour canadienne de l’impôt ne peut pas modifier la décision, même si celle-ci ne souscrit pas à la conclusion retenue.
+[6] Pour expliquer sa décision, l’intimé a tenu pour acquis plusieurs hypothèses de fait, dont un grand nombre ont fait l’objet d’aveux. Les faits admis sont notamment les suivants :
+5. a) l’appelante a été constituée en société le 31 décembre 1981;
+b) l’appelante exploite une entreprise dans le domaine manufacturier; elle fabrique et fait la distribution d’équipements agricole surtout dans le secteur porcin;
+c) l’appelante développe aussi une ligne de produits dans le secteur laitier et exploite une autre division totalement différente faisant de la coupe de métal pour la compagnie Prévost Car;
+d) l’appelante a un chiffre d’affaires se situant entre 19 et 20 millions et embauche de 110 à 120 personnes;
+e) chacun des travailleurs détient, par l’entremise de sa propre entreprise, 25% des actions comportant droit de vote de l’appelante;
+f) selon le CIDREQ, Jean-Charles était président, Marcienne et Raynald étaient vice-présidents et Lionel était secrétaire-trésorier de l’appelante;
+h) les travailleurs/actionnaires, ainsi que le directeur des finances, ont tous le droit de signer les chèques au nom de l’appelante; 2 signatures sont requises;
+i) toutes les décisions importantes concernant l’exploitation de l’entreprise de l’appelante étaient prises par les 4 actionnaires;
+j) depuis l’an 2000, les travailleurs prétendent avoir délaissé leurs postes de directeurs et se considèrent comme des gestionnaires (dirigeants) de l’entreprise de l’appelante;
+k) depuis l’an 2000, l’appelante a embauché trois directeurs, deux directeurs de division et un directeur des finances, relevant des travailleurs;
+l) selon les travailleurs, leurs occupations se résumeraient à assister à des réunions de gestion à tous les mardis et jeudis ainsi qu’aux réunions du conseil d’administration et de plusieurs comités;
+m) depuis environ 4 ans (en 2004), l’appelante, à la demande des 4 travailleurs/actionnaires, a embauché un consultant afin de diriger les travailleurs dans leur approche de gestion de l’entreprise et de les aider à régler les situations lors de divergences d’opinions;
+p) selon les travailleurs, aucun d’eux n’avaient à respecter un horaire précis de travail; ils assistaient aux réunions des actionnaires et des dirigeants 2 jours par semaine, les mardis et jeudis, et se présentaient généralement au bureau les 2 autres jours « sans assignation particulière »;
+q) les réunions des mardis et jeudis s’étendaient habituellement de 10 h à 16 h;
+r) les heures de travail des travailleurs n’étaient pas comptabilisées par l’appelante;
+t) lors de conversations téléphoniques subséquentes avec un agent autorisé de l’intimé, les travailleurs ont mentionné travailler le nombre d’heures suivantes par semaine :
+- Jean-Charles Laliberté : environ 25 heures
+- Lionel Laliberté : de 20 à 25 heures;
+- Marcienne Laliberté : de 25 à 30 heures;
+- Raynald Laliberté : de 25 à 30 heures;
+u) les travailleurs recevaient une rémunération brute de 60 199 $ par année (1 157,67 $ par semaine);
+v) les travailleurs étaient rémunérés par dépôt direct à chaque semaine;
+6. a) Durant la période en litige, les actions comportant droit de vote de l’appelante étaient réparties ainsi :
+- 2966-5742 Québec inc. avec 25% des actions;
+- J.R.L.M. Laliberté inc. avec 25% des actions;
+- Gestion R. Laliberté inc. avec 25% des actions;
+- 9155-2547 Québec inc. avec 25% des actions;
+b) Lionel Laliberté était l’unique actionnaire de 2966-5742 Québec inc.;
+c) Jean-Charles Laliberté était l’unique actionnaire de J.R.L.M. Laliberté inc.;
+d) Raynald Laliberté était l’unique actionnaire de Gestion R. Laliberté inc.;
+e) Marcienne Laliberté était l’unique actionnaire de 9155-2547 Québec inc.;
+f) Lionel, Jean-Charles, Marcienne et Lionel Laliberté sont frères et sœur;
+g) Les travailleurs faisaient parties d’un groupe qui contrôlait l’appelante.
+7. a) les travailleurs recevaient une rémunération fixe de 60 199 $ par année répartie sur 52 semaines pour, selon la première version obtenue, 30 à 40 heures par semaine et, selon la seconde version obtenue, 25 à 30 heures de travail par semaine;
+b) les travailleurs/actionnaires déterminaient eux-mêmes leur rémunération annuelle;
+[7] Par contre, l’appelante a nié les faits allégués aux paragraphes 5 g), n), o), s), w), et x) ainsi qu’aux paragraphes 7 c), d) e), f), g) et h) qui se lisent comme suit :
+5. g) avant l’an 2000, les travailleurs occupaient les postes suivants auprès de l’appelante;
+- Jean-Charles était responsable de la vente et du marketing;
+- Lionel était responsable de la production et de l’informatique;
+- Marcienne s’occupait des achats;
+- Raynald était responsable de la flotte de camions, du transport et des bâtiments;
+n) durant la période en litige, les travailleurs travaillaient généralement du lundi au jeudi et prenaient congé les vendredis;
+o) les travailleurs rendaient leurs services à la place d’affaires de l’appelante et utilisaient tout le matériel et tous les équipements mis à leur disposition par l’appelante;
+s) lors de premières conversations téléphoniques avec un agent autorisé de l’intimé, les travailleurs ont mentionné travailler le nombre d’heures suivantes par semaine :
+- Jean-Charles Laliberté : de 25 à 30 heures sur 3 ou 4 jours;
+- Lionel Laliberté : de 30 à 40 heures sur 3 ou 4 jours;
+- Marcienne Laliberté : de 30 à 40 heures sur 3 ou 4 jours;
+- Raynald Laliberté : de 30 à 40 heures sur 3 ou 4 jours;
+w) s’ils devaient se déplacer dans le cadre de leur travail, les travailleurs recevaient un remboursement des dépenses encourues lors de ces déplacements;
+x) les travailleurs bénéficiaient de 5 ou 6 semaines de vacances annuelles (contre 4 pour la majorité des autres employés) et d’une assurance vie et médicament comme les autres employés de l’appelante;
+7. c) les travailleurs ne comptaient pas leurs heures de travail mais étaient assujettis au pouvoir de l’appelante exercé par la voix de son conseil d’administration dont ils faisaient partie;
+d) les travailleurs recevaient une rémunération raisonnable eu égard aux tâches qui leurs étaient assignées par l’appelante;
+e) chacun des travailleurs demeurait responsable de son secteur d’activités et rendait des services à l’appelante comme salarié en plus de son statut d’actionnaire dirigeant; de plus, ils devaient former leur relève;
+f) le travail de chacun des travailleurs était indispensable à la bonne marche des activités de l’appelante;
+g) si les travailleurs avaient des conditions de travail particulières ce n’était pas en vertu de leur lien de dépendance avec l’appelante mais en vertu de leur statut d’actionnaire de l’appelante;
+h) les travailleurs sont à l’emploi de l’appelante depuis plus de 20 ans, ils exécutent leurs fonctions à l’année longue et leur travail correspond aux besoins opérationnels de l’appelante.
+[8] Au soutien de l’appel, seul monsieur Lionel Laliberté a témoigné. Ce dernier a fait l’historique de l’entreprise appelante. Il a expliqué qu’au tout début, son père avait d’abord été vendeur dans le secteur de l’élevage de la volaille. À ce moment, il vendait notamment des cages aux clients auxquels il vendait des volailles. À un moment donné, il s’est fait offrir l’entreprise du fabricant de cages. Le tout a eu lieu durant les années 1950. À la suite de l’acquisition, il a déplacé les installations à l’endroit où l’appelante a depuis ses activités.
+[9] À un certain moment, la façon de faire ce genre de production a été chambardée; l’entreprise s’est alors réorientée vers l’équipement nécessaire à la production porcine. Toute la famille Laliberté était alors impliquée dans l’entreprise, c’est-à-dire dix frères et sœurs, ainsi que leur père.
+[10] Les frères et sœurs étaient alors tous associés à l’entreprise qui regroupe les 10 enfants et leur père.
+[11] Des suites du virage important vers la fabrication d’équipement pour la production porcine, une concession John Deere en 1978 est venue s’ajouter à l’entreprise.
+[12] En 1981, la ferme agricole est vendue et leur père et leur sœur prennent leur retraite, il reste donc dans l’entreprise six des enfants, soit quatre frères et deux sœurs, jusqu’à ce que le plus âgé décède. À ce moment, ses actions et celles d’une des deux sœurs sont acquises par les quatre membres de la famille visés par le présent appel.
+[13] À la fin des années 1990, les choses se gâtent quelque peu dans le secteur de la production porcine à la suite d’un resserrement de la réglementation et d’un moratoire touchant d’abord plus de 150 municipalités et, ensuite, élargi à tout le territoire du Québec.
+[14] L’essor et le développement de l’entreprise étant compromis, l’entreprise développe alors un volet industriel. L’entreprise fait ainsi l’acquisition de coupeuses au laser et d’une poinçonneuse, équipement très sophistiqué à la fine pointe de la technologie, le tout fonctionnant avec des contrôles numériques. Les trois frères et leur sœur voient alors l’entreprise évoluer très rapidement, au point même de se retrouver dans une situation un peu inconfortable sur le plan organisationnel.
+[15] Ils font appel à une équipe de soutien administratif. L’entreprise profite alors d’un programme identifié comme un CAMO que monsieur Laliberté définit comme un programme et plan personnalisé pour améliorer l’efficacité et la rentabilité de l’entreprise. Un consultant spécifique se joint alors à l’entreprise pour y apporter les modifications nécessaires pour en faire une entreprise très bien structurée, très efficace, et surtout très moderne quant à sa gestion.
+[16] Un véritable service des ressources humaines est mis en place et le consultant est toujours associé à la gestion de l’entreprise.
+[17] Plusieurs changements ont été mis en place, au point que les travailleurs visés par l’appel ont vu leur situation complètement modifiée, en ce sens qu’ils ne travaillent plus à la fabrication.
+[18] La période en litige est du 12 janvier 2006 au 13 juin 2007. Lors de cette période, les frères Laliberté et leur sœur se sont définis comme gestionnaires avec une charge de travail considérablement réduite d’environ 30 heures par semaine.
+[19] Lionel Laliberté a expliqué que leurs tâches sont maintenant, depuis quelques années et notamment durant la période en litige, plus liées à la gestion qu’à la fabrication dans l’usine comme au début.
+[20] Des personnes compétentes ont pris la relève et s’occupent de la production, leur travail étant de gérer le développement et la bonne marche globale de l’entreprise avec des outils et des méthodes modernes et très efficaces.
+[21] Monsieur Laliberté a affirmé avoir confié en 2004 un mandat au bureau d’experts conseils Saucier pour obtenir une évaluation du salaire approprié pour les postes occupés par les frères Lionel, Raynald et Jean‑Charles et leur sœur Marcienne.
+[22] Les consultants avaient alors conclu que les salaires devaient se situer entre 60 000 $ et 125 000 $. Lionel était celui qui méritait le salaire le plus élevé à cause de ses responsabilités. Cette période n’est ni pertinente, ni utile, puisqu’elle est avant la période en litige d’une part et, d’autre part, le travail n’est plus le même. Or, le travail constitue l’un des éléments fondamentaux dans un dossier qui porte sur l’assurabilité.
+[23] Monsieur Laliberté a dit, sans aller dans les détails, que les actionnaires dont le travail est en litige bénéficiaient d’assurances plus avantageuses que les autres employés. Les actionnaires avaient en outre conclu d’une convention d’achat-vente prévoyant toutes les situations possibles en cas d’un décès, d’une mésentente ou du départ de l’un d’eux. Il a indiqué que ses frères et leur sœur n’avaient pas d’enfants en mesure de prendre la relève ou intéressés à le faire.
+[24] Il a aussi expliqué que l’entreprise avait eu recours à un programme de soutien et de suivi fort efficace. Dans le cadre de ce programme, un certain monsieur Bherer a agi comme consultant et mentor. Il a d’abord mis en place une véritable structure pour les ressources humaines. Par la suite, il a continué à agir à tous les niveaux de gestion; il a tout récemment recommandé d’abandonner la formule des salaires aux actionnaires visés par l’appel pour la remplacer par un système de jetons de participation ou de présence.
+[25] Monsieur Laliberté a été très clair quant aux changements majeurs intervenus concernant leur prestation de travail pour l’entreprise appelante. Il a expliqué de plusieurs façons que l’entreprise est, depuis le début de la période en litige; structurée de manière à être autonome, de sorte que les actionnaires sont devenus des gestionnaires qui surveillent, contrôlent et planifient selon les divers comptes‑rendus préparés par les personnes mises en place.
+[26] Monsieur Laliberté a affirmé que leur travail était un travail de gestionnaire; il a beaucoup insisté sur la nature du travail de gestionnaire, croyant manifestement qu’une telle responsabilité ne pouvait pas constituer un travail assujetti à la Loi.
+[27] D’abord, les différences appréciables entre les salaires établis par le consultant ne sont pas pertinentes et, puisqu’il s’agit d’une situation antérieure à la période en litige et, d’autre part, les personnes en cause ne faisaient plus le même travail. Or, le travail est sans contredit l’aspect déterminant dans un dossier qui porte sur l’assurabilité.
+[28] Le contre‑interrogatoire de l’agente des appels, madame Hélène Venne, a principalement porté sur les faits énoncés dans le compte‑rendu préparé par cette dernière. Je reproduis les faits en question :
+10. Les quatre actionnaires se sont retirés des opérations depuis l’an 2000 et occupent maintenant un poste de gestion.
+28. Le travailleur nous dit que s’il devait être absent pour une longue période cela ne dérangerait pas les opérations.
+57. 90% de leur travail est d’assister aux réunions.
+59. Il décide lui-même ce qu’il fera les lundis et mercredis. S’il a le goût d’aller livrer de la marchandise il le fait.
+60. Il n’est cependant pas obligé de le faire, car ils ont des chauffeurs pour ce travail.
+[29] La preuve soumise par l’appelante est elle‑même déterminante quant à l’abondance d’influence du lien de dépendance au départ, il s’agissait d’une petite entreprise familiale, voire même artisanale, qui est cependant devenue, et était lors de la période en litige, une importante et prospère entreprise très bien structurée entre les mains de personnes compétentes.
+[30] Tout a été fait et mis en place pour que l’entreprise devienne entièrement indépendante de l’ascendant familial.
+[31] Lors de la période en litige, l’appelante était devenue une entreprise autonome, au point que monsieur Lionel Laliberté a clairement affirmé que l’entreprise fonctionne maintenant très bien sans leur présence ou lors d’absence prolongée. Les décisions prises quant au salaire et au nombre d’heures consacrées à l’entreprise sont des décisions essentiellement commerciales et le lien de dépendance n’a aucunement influencé la façon de faire.
+[32] Il s’agit d’ailleurs là d’une façon de faire tout à fait conforme à un scénario où il n’y aurait aucun lien de dépendance. Monsieur Lionel Laliberté a indiqué que l’entreprise leur offrait une assurance‑vie, une assurance-invalidité et ainsi de suite. Encore là, la preuve sur ces sujets n’a pas démontré que la situation aurait été différente si les travailleurs n’avaient pas eu de lien de dépendance.
+[33] Madame Venne a d’ailleurs affirmé n’avoir rien appris de nouveau lors du témoignage de monsieur Lionel Laliberté.
+[34] Le compte‑rendu fait effectivement état des principaux éléments pertinents. D’ailleurs, les faits qui furent niés se sont avérés exacts à l’exception des allégations résultant d’une interprétation, par exemple au sujet du caractère raisonnable de la rémunération ou de la présence ou non du pouvoir de contrôle, et ce, à partir du témoignage de monsieur Lionel Laliberté lui-même.
+[35] La preuve ne permet donc pas de discréditer le travail d’analyse effectué, et tant la qualité que la quantité des faits recueillis correspondaient aux faits pertinents et utiles pour tirer une conclusion.
+[36] Cette conclusion, qui correspond à la décision dont il fait appel, est en outre raisonnable; chose certaine, il ne s’agit pas d’un aboutissement déraisonnable. En conséquence, la Cour n’a pas à intervenir. L’appel est donc rejeté.
+[37] Dans l’hypothèse d’une analyse judicieuse et sans reproche, la conclusion retenue ne peut pas faire l’objet d’une révision par la Cour canadienne de l’impôt. En l’espèce, la preuve n’a pas démontré d’une manière prépondérante que l’exercice discrétionnaire effectué était entaché de manquements graves ou d’oublis significatifs. La conclusion retenue est validée par la preuve; même si la preuve avait démontré qu’il y avait eu des manquements sérieux, ce qui n’est pas le cas, j’en serais tout de même arrivé à la même conclusion quant à l’assurabilité.
+[38] En effet, la prépondérance de la preuve a établi que, lors de la période en litige, l’appelante avait structuré ses activités de manière à ce que la dimension familiale ou le fait que les actionnaires étaient liés en vertu des dispositions de la Loi n’ait aucun effet sur les contrats de travail litigieux.
+[39] L’entreprise, au fil des ans, s’est structurée et organisée de manière à occulter totalement l’influence ou les conséquences de la dimension familiale.
+[40] Les conditions de travail, la charge de travail et la rémunération étaient tout à fait conformes à celles dans une situation où les actionnaires n’ont pas de lien de dépendance.
+[41] D’ailleurs, monsieur Lionel Laliberté a clairement affirmé que la société appelante était devenue autonome quant à son fonctionnement, au point qu’ils envisageaient de modifier la rémunération versée à titre de salarié pour plutôt recevoir des jetons de présence lors des réunions ponctuelles ce qui, évidemment pourrait avoir des effets sur la qualité du contrat de travail eu égard aux circonstances et contextes.
+[42] Lors des périodes en litige, les membres de la famille Laliberté effectuaient une prestation de travail à titre de gestionnaires, ayant chacun un domaine d’expertise différent mais fort utile, auquel ils consacraient un nombre d’heures semblable et recevaient une rémunération identique. Toutes les composantes pour l’existence d’un contrat de louage de services étaient présentes lesquels contrats n’étaient d’ailleurs pas influencés ou façonnés par le lien de dépendance.
+[43] Pour toutes ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 611
+Nº DU DOSSIER DE LA COUR : 2008-691(EI)
+INTITULÉ DE LA CAUSE : LES INDUSTRIES ET ÉQUIPEMENTS LALIBERTÉ LTÉE ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 21 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 18 décembre 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

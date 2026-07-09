@@ -1,0 +1,248 @@
+Title: McIntyre c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28272/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-558-28272-mcintyre-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-04-02
+
+# McIntyre c. M.R.N.
+
+- Citation: 2007 CCI 558
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1958, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntyre c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-02
+Référence neutre
+2007 CCI 558
+Numéro de dossier
+2004-2589(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2589(EI)
+ENTRE :
+TONY MCINTYRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel de Paul Collette (2004-2684(EI)), le 24 juillet 2007, à Miramichi (Nouveau-Brunswick).
+Devant : L’honorable juge S.J. Savoie
+Comparutions :
+Avocat de l’appelant :
+Me George Martin
+Avocate de l’intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de septembre 2007.
+« S.J. Savoie »
+Juge Savoie
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2004-2684(EI)
+ENTRE :
+PAUL COLLETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel de Tony McIntyre (2004-2589(EI)), le 24 juillet 2007, à Miramichi (Nouveau-Brunswick).
+Devant : L’honorable juge S.J. Savoie
+Comparutions :
+Avocat de l’appelant :
+Me George Martin
+Avocate de l’intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de septembre 2007.
+« S.J. Savoie »
+Juge Savoie
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI558
+Date : 20070928
+Dossier : 2004-2589(EI)
+ENTRE :
+TONY MCINTYRE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2684(EI)
+PAUL COLLETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Savoie
+[1] Les présents appels ont été entendus ensemble à Miramichi (Nouveau‑Brunswick), le 24 juillet 2007.
+[2] L’appel visant Tony McIntyre sera ci‑après désigné comme l’appel « l’appel de M. McIntyre » et l’appel visant Paul Collette sera ci‑après désigné comme « l’appel de M. Collette ». À l’audience, la Cour a accueilli une requête visant à modifier le paragraphe 6 de la réponse à l’avis d’appel dans l’appel de M. McIntyre et dans celui de M. Collette, de sorte qu’il soit rédigé de la façon suivante dans les deux cas :
+[traduction]
+6. Il invoque les alinéas 5(1)a) et 5(2)i) de la Loi.
+[3] Une autre requête en modification a été accueillie à l’audience de sorte que la première période d’emploi mentionnée à l’alinéa 5b) de la réponse à l’avis d’appel dans l’appel de M. McIntyre, c.‑à‑d. la période du 29 avril au 7 juillet, ainsi que les heures et le revenu assurables applicables soient supprimés.
+[4] L’appel de M. McIntyre intéresse la décision par laquelle le ministre du Revenu national (le « ministre ») a informé l’appelant que, même s’il avait travaillé pour Wilmon Turbide, faisant affaire sous le nom de Turbide Engine Rebuilders (le « payeur »), du 5 janvier 2001 au 31 août 2003 (la « période frappée d’appel »), il n’exerçait pas un emploi assurable aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi »).
+[5] L’appel de M. Collette intéresse une décision analogue du ministre visant l’emploi de Paul Collette du 16 novembre 2001 au 2 novembre 2002.
+[6] Pour rendre sa décision dans le cadre de l’appel de M. McIntyre, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+[traduction]
+a) le payeur exploitait une entreprise de construction et de réparation de bateaux dans un garage suffisamment grand pour contenir deux embarcations; (niée)
+b) le payeur a délivré à l’appelant des relevés d’emploi mentionnant ce qui suit :
+PÉRIODE D’EMPLOI
+HEURES ASSURABLES
+REVENU ASSURABLE
+Du 29 avr. au 7 juill. 2001
+700
+8 000 $
+Du 23 juill. au 18 août 2001
+280
+3 240 $
+Du 10 au 14 sept. 2001
+70
+800 $
+Du 19 au 30 août 2002
+140
+1 620 $
+Du 9 sept. 2002 au 29 mars 2003
+401
+5 583 $
+(ignorée)
+c) les fonctions de l’appelant comprenaient la pose de fibre de verre et l’application de peinture; (admise)
+d) l’appelant ne possédait pas d’expérience antérieure dans ce domaine et n’a pas été formé par le payeur; (niée)
+e) l’appelant fixait ses propres heures de travail; (niée)
+f) l’appelant comptabilisait ses heures travaillées et fournissait ce renseignement au payeur à la fin de la semaine; (admise)
+g) l’appelant achetait des fournitures à Baie Ste-Anne Building Supplies deux ou trois fois par semaine pour le compte du payeur sans être inscrit sur la liste de paye de ce dernier; (admise)
+h) l’appelant réparait des bateaux pour le compte du payeur sans être inscrit sur la liste de paye de ce dernier; (niée)
+i) l’appelant a effectué les travaux de fibre de verre sur un bateau appartenant à Brian Ingalls; ce travail a débuté à la fin du mois de juillet ou au début du mois d’août 2001 et s’est terminé vers le 18 octobre 2001; (admise)
+j) l’appelant était inscrit sur la liste de paye du payeur pendant cinq semaines au cours des onze semaines environ où il a travaillé sur le bateau de Brian Ingalls. (niée)
+[7] Pour rendre sa décision dans le cadre de l’appel de M. Collette, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+[traduction]
+a) le payeur exploitait une entreprise de construction et de réparation de bateaux dans un garage suffisamment grand pour contenir deux embarcations; (niée)
+b) avant la période frappée d’appel, l’appelant exploitait une entreprise individuelle à titre de mécanicien de moteurs diesel sous le nom de Collette Diesel; (admise)
+c) le payeur ne faisait pas affaire avec l’appelant à titre de propriétaire d’une entreprise; (niée)
+d) l’appelant était inscrit sur la liste de paye du payeur pendant 20 semaines consécutives du 17 décembre 2001 au 3 mai 2002; (admise)
+e) les fonctions de l’appelant comprenaient le réusinage de moteurs de bateau, notamment le démontage des moteurs, le nettoyage de ceux‑ci et le remplacement de pièces selon les besoins; (admise)
+f) le 13 mai 2002, le payeur a délivré à l’appelant un relevé d’emploi faisant état d’un revenu assurable de 12 000 $ et de 1000 heures d’emploi assurables; (admise)
+g) l’appelant avait besoin de 910 heures d’emploi assurables pour établir son droit à des prestations d’assurance‑emploi; (admise)
+h) le 15 novembre 2001, le payeur a émis un chèque de 500 $ à l’ordre de l’appelant; (admise)
+i) le 6 mai 2002, l’appelant a acheté des fournitures pour le compte du payeur; (admise)
+j) en mai et en juin 2002, aucun mécanicien n’était inscrit sur la liste de paye du payeur; (niée)
+k) en mai et en juin 2002, l’appelant a délivré pour le compte du payeur des factures relatives à du travail mécanique effectué pendant cette période; (niée)
+l) le 10 juillet 2002, le payeur a facturé un client pour trois heures de travail fourni par l’appelant; (niée)
+m) le 30 juillet 2002, l’appelant a réparé un bateau pour le compte du payeur au quai du Cap Pelé; (niée)
+n) l’appelant travaillait à l’établissement du payeur le 16 juillet 2002 et le 14 août 2002; (niée)
+o) l’appelant a de nouveau été inscrit sur la liste de paye du payeur, à temps partiel, le 14 août 2002. (admise)
+[8] Pendant l’été 2002, une plainte a été reçue dans le cadre du programme Échec au crime relativement à des irrégularités dans la conduite du payeur au regard de la Loi sur l’assurance‑emploi et de ses règlements d’application. Ces plaintes ont été adressées à l’ARC, qui a chargé Laurie O’Kane, agente d’enquête et de contrôle, de procéder à une enquête. Initialement, 18 affaires faisaient l’objet d’une demande d’enquête, y compris celles qui sont visées par les présents appels. L’objectif était de découvrir des éléments de preuve en vue d’étayer les relevés d’emploi délivrés par le payeur. Au cours de cette enquête, des documents ont été remis aux enquêteurs, puis retournés au payeur à la demande de ce dernier; à la demande de l’ARC, ces documents ont subséquemment été remis de nouveau aux enquêteurs, qui ont découvert que, dans de nombreux cas, les documents avaient été altérés et falsifiés. Les incohérences visaient la plupart des employés, y compris les deux appelants.
+[9] La preuve selon laquelle les documents de la deuxième série remis par le payeur aux enquêteurs avaient été altérés et falsifiés n’a pas été contredite par les appelants.
+[10] On a produit en preuve des doubles des versions originales et falsifiées des factures. La preuve a établi sans équivoque l’existence d’altérations étayées par la différence de poids ou de taille du papier, par certaines signatures effacées au correcteur liquide, par l’absence de perforations sur le document altéré et par la confirmation de la photocopie sur la page.
+[11] Les enquêteurs n’ont pas réussi à déterminer la rémunération des employés. Certains d’entre eux étaient payés par chèque et en espèces. La véritable liste de paye n’a pu être vérifiée. Selon le payeur, les employés étaient payés le vendredi de chaque semaine. Aucun relevé de paiement n’a été découvert. Le payeur a mentionné que, s’il payait par chèque, il ne conservait pas les talons de ceux‑ci. Il a déclaré qu’il encaissait les chèques à la caisse populaire et qu’il payait ses employés en espèces. Il a également affirmé qu’il jetait tous les documents, quels qu’ils soient, qu’il avait à cet égard, comme les talons de chèque. Les appelants n’étaient pas non plus en mesure de produire de quelconques documents.
+[12] Après avoir examiné tous les documents produits, les enquêteurs n’ont même pas pu confirmer l’existence d’une liste de paye vraisemblable.
+[13] Les enquêteurs ont dressé des tableaux pour illustrer comment les appelants travaillaient pour le payeur pendant qu’ils touchaient des prestations d’assurance‑emploi. Les enquêteurs ont obtenu des renseignements de l’aide‑comptable du payeur, laquelle était réticente à fournir de l’information et affirmait qu’elle n’était pas au courant de l’existence de deux séries de livres de paye. Elle a ajouté simplement qu’elle avait fait ce que le payeur lui avait dit de faire.
+[14] À l’audience, on a produit certains documents qui ont permis d’étayer la plupart des hypothèses de fait formulées par le ministre qui étaient contestées par les appelants. Ces derniers ont établi que le payeur exerçait ses activités dans deux immeubles plutôt qu’un seul.
+[15] Dans son témoignage, Laurie Marlene Heckbert, agente d’intégrité, a affirmé qu’elle n’avait pu interroger Wilmond Turbide, le payeur. On lui disait toujours de s’informer auprès du comptable. Il ressort de la preuve que les enquêteurs ont été très conciliants envers le payeur lorsqu’ils lui ont remis un avis définitif daté du 30 janvier 2003. La plupart des témoins, y compris les appelants, ont confirmé le fait que M. Turbide était le plus souvent en état d’ébriété.
+[16] À l’audience, on a présenté aux appelants un certain nombre de factures selon lesquelles ils fournissaient des services pour le compte du payeur tout en recevant des prestations d’assurance‑emploi. L’appelant, M. McIntyre, a affirmé ce qui suit :
+[traduction] J’avais un camion d’une tonne et le payeur me demandait de ramasser différentes choses, pendant que je recevais des prestations d’assurance‑emploi. Je ramassais des fournitures. Lorsque je n’étais pas inscrit sur la liste de paye, il me donnait de l’argent comptant pour ramasser des fournitures […] dans mes conversations avec l’enquêteur, j’ai nié que je travaillais pour le payeur en dehors de la période […] J’étais nerveux au point de tout oublier.
+[17] La preuve montre que, pendant l’entrevue, après que M. McIntyre eut nié avoir fourni des services en dehors de la période visée, on lui a présenté une facture portant sa signature et il a alors mis fin à l’entrevue pour consulter un avocat.
+[18] L’autre appelant, M. Collette, a déclaré à l’audience qu’il avait effectué certains travaux en dehors de la période visée et qu’il en avait informé la Commission. On lui a aussi présenté des factures portant sa signature ou établissant que des travaux de mécanique avaient été effectués, ce qui montrait soit qu’il n’y avait pas de mécanicien de service à ce moment‑là, soit qu’il avait effectué les travaux alors qu’il n’était pas inscrit sur la liste de paye du payeur. Il a affirmé qu’il [traduction] « le faisait à titre de faveur, c’est un bon gars ».
+[19] La preuve entendue et les documents produits établissent que les services rendus au payeur par les deux appelants alors qu’ils touchaient des prestations d’assurance‑emploi ne constituaient pas des cas isolés. Bien au contraire. L’enquête a révélé et la preuve a montré que 99 cas de ce genre sont attribuables à l’appelant McIntyre. Il ressort sans équivoque de la preuve que l’appelant Collette a lui aussi souvent agi de cette manière pendant qu’il touchait des prestations d’assurance‑emploi, même si le nombre d’incidents n’a pas été établi avec exactitude.
+[20] Le témoignage de Louise Boudreau, agente des appels, agente des cas complexes et conseillère à Revenu Canada, région de l’Atlantique, a permis d’établir que l’enquête avait été exhaustive, compte tenu du manque de collaboration du payeur. Outre ce dernier, son aide‑comptable, son comptable et les appelants, Mme Boudreau a interrogé certains membres du service de police de Miramichi, du personnel de Pêches et Océans Canada et certains fournisseurs de la région de Baie Sainte-Anne.
+[21] Les appelants demandent à la Cour d’infirmer la décision du ministre. Il convient de signaler qu’il incombe aux appelants d’établir, selon la prépondérance des probabilités, que la décision du ministre est erronée et non fondée en droit.
+[22] Dans les deux affaires dont je suis saisi, le ministre a conclu que les appelants n’exerçaient pas un emploi assurable pour le payeur pendant les périodes visées, puisqu’ils n’étaient pas engagés aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi.
+[23] De plus, selon les observations du ministre, l’emploi des appelants constituait un emploi excepté au sens de l’alinéa 5(2)i) de la Loi puisque, dans les faits, les appelants et le payeur avaient entre eux un lien de dépendance pendant les périodes en cause.
+[24] Il s’agit donc de savoir si les appelants exerçaient un emploi assurable suivant la Loi sur l’assurance‑emploi et en particulier l’alinéa 5(1)a) de ce texte législatif, qui est ainsi rédigé :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[25] Cette disposition définit ce qu’est un emploi assurable. C’est un emploi exercé aux termes d’un contrat de louage de services. Le texte législatif ne donne toutefois pas de définition de l’expression « contrat de louage de services ».
+[26] Le contrat de louage de services est une notion de droit civil qui se trouve dans le Code civil du Québec. La nature du contrat visé en l’espèce doit donc être établie conformément aux dispositions du Code civil, comme il est mentionné dans l’arrêt 9041-6868 Québec Inc. c. Canada (M.R.N.), [2005] A.C.F. no 1720 :
+[3] L’entrée en vigueur du Code civil du Québec en 1994, puis l’adoption par le Parlement du Canada de la Loi d’harmonisation no 1 du droit fédéral avec le droit civil (c. 2001, ch. 4) et l’adjonction par cette Loi de l’article 8.1 à la Loi d’interprétation (L.R.C., ch. I-21) ont redonné au droit civil du Québec, en matière fédérale, ses lettres de noblesse que les tribunaux avaient eu parfois tendance à ignorer. Il suffit, à cet égard, de consulter l’arrêt de cette cour, dans St‑Hilaire c. Canada, [2004] 4 C.F. 289 (C.A.F.) et l’article du juge Pierre Archambault, de la Cour canadienne de l’impôt, intitulé « Contrat de travail : pourquoi Wiebe Door Services Ltd. ne s’applique pas au Québec et par quoi on doit le remplacer » et publié récemment dans le Deuxième recueil d’études en fiscalité (2005) de la collection L’harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, pour se convaincre que le concept de « contrat de louage de services », à l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi, doit être analysé à la lumière du droit civil québécois lorsque le droit provincial applicable est celui du Québec.
+[4] Il sera utile, d’entrée de jeu, de reproduire quelques extraits du Préambule de la Loi d’harmonisation no 1 ainsi que le texte de l’article 8.1 de la Loi d’interprétation :
+Préambule de la Loi d’harmonisation no 1 du droit fédéral
+avec le droit civil
+[...]
+Attendu :
+qu’une interaction harmonieuse de la législation fédérale et de la législation provinciale s’impose et passe par une interprétation de la législation fédérale qui soit compatible avec la tradition de droit civil ou de common law, selon le cas;
+[...]
+que, sauf règle de droit s’y opposant, le droit provincial en matière de propriété et de droits civils est le droit supplétif pour ce qui est de l’application de la législation fédérale dans les provinces;
+[...]
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[5] L’article 8.1 de la Loi d’interprétation est entré en vigueur le 1er juin 2001. Il vient codifier un principe de complémentarité entre le droit privé d’une province et une loi fédérale qui était reconnu (voir St-Hilaire, précité) mais qui n’était pas toujours mis en pratique. L’entrée en vigueur de cet article a eu comme effet immédiat de revaloriser le droit civil dans les domaines de compétence de cette Cour, de mettre en relief les emprunts à la common law qui au fil des ans ont pu avoir été faits dans des causes où le droit civil québécois s’appliquait ou aurait dû s’appliquer et de mettre en garde contre tout tel emprunt à l’avenir.
+[…]
+[7] […] c’est le Code Civil du Québec qui détermine les règles applicables à un contrat conclu au Québec. Ces règles se retrouvent notamment dans ces dispositions du Code qui traitent du contrat en général (art. 1377 C.c.Q. et suiv.), et dans celles qui traitent du « contrat de travail » (art. 2085 à 2097 C.c.Q.) et du « contrat d’entreprise ou de service » (art. 2098 à 2129 C.c.Q.). Les articles 1378, 1425, 1426, 2085, 2098 et 2099 C.c.Q. sont les plus pertinents pour les fins du présent dossier :
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s’obligent envers une ou plusieurs autres à exécuter une prestation.
+[...]
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+[...]
+1440. Le contrat n’a d’effet qu’entre les parties contractantes; il n’en a point quant aux tiers, excepté dans les cas prévus par la loi.
+[...]
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+[27] Dans les affaires dont je suis saisi, le ministre a conclu que le contrat de travail intervenu entre les appelants et le payeur n’était pas un véritable contrat de travail au sens de la Loi. Cette question a déjà été soulevée ailleurs. Elle a été tranchée par M. le juge Tardif de la Cour dans la décision Thibeault c. Canada, [1998] A.C.I. no 690 (Q.L.). Sa décision a été confirmée par la Cour d’appel fédérale, [2000] A.C.I. no 2152. Le juge Tardif s’est exprimé en ces termes :
+[22] Un véritable emploi est un emploi rémunéré selon les conditions du marché et qui contribue de façon réelle et positive à l’avancement et au développement de l’entreprise qui assume le salaire payé en contrepartie du travail exécuté. Il s’agit là d’éléments essentiellement économiques laissant peu ou pas de place à la générosité, à la compassion.
+[…]
+[29] Certes, il n’est ni illégal, ni répréhensible d’organiser ses affaires pour profiter de la mesure sociale qu’est le régime de l’assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent à la suite d’événements sur lesquels le bénéficiaire n’a pas le contrôle. Lorsque l’importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s’avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l’effet que les parties ont convenu d’un arrangement artificiel pour permettre aux parties de profiter des bénéfices.
+[28] Dans la décision Laverdière c. Canada, [1999] A.C.I. no 124 (Q.L.), M. le juge Tardif a déclaré :
+[48] Certes, un contrat de travail peut prévoir, tout en étant légal et légitime, toutes sortes d’autres conditions dont une rémunération beaucoup supérieure à la valeur du travail exécuté ou inversement; certains contrats peuvent même être à titre gratuit. Une prestation de travail peut être exécutée dans le cadre d’une opération de bénévolat. Il est possible d’imaginer toutes sortes d’hypothèses et de scénarios.
+[49] Tout contrat de travail prévoyant des particularités est généralement opposable aux seules parties contractantes et ne lie en rien les tiers, dont l’intimé.
+[50] Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d’étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+[51] La Loi n’assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n’est pas fonction de la période d’exécution du travail ne peut être définie comme un véritable contrat de louage de services. Il s’agit d’une entente ou d’un arrangement qui discrédite la qualité d’un véritable contrat de louage à ce qu’il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[29] Dans la décision Duplin c. Canada, [2001] A.C.I. no 136 (Q.L.), il a fait remarquer ce qui suit :
+[18] Lorsque des services et/ou des commissions sont rendus à l’employeur, je ne crois pas que cela vicie automatiquement la qualité d’un contrat de louage de services, si cela est fait de façon ponctuelle ou lors de circonstances particulières. Par contre, si cela est répétitif, fréquent et généralisé chez la majorité des employés d’un employeur, il y a matière à interrogation; même si celui qui rend de tels services et/ou exécute de telles commissions, qualifie sa prestation de libre et volontaire, de bénévolat d’entraide, de support ou de sa solidarité à l’endroit de ses compagnons de travail, il n’en demeure pas moins qu’il s’agit là de faits, modalités, circonstances difficilement conciliables avec un réel contrat de louage de services où tout travail doit être rémunéré.
+[...]
+[31] Les composantes fondamentales d’un contrat de louage de services sont d’ordre essentiellement économique. Les registres établis, tels livres de salaires, modalités de paye, etc. doivent être réels et correspondre également à la réalité. À titre d’exemple, le livre de salaires doit consigner les heures travaillées correspondant à la paye émise. Un livre des salaires qui consigne des heures non travaillées ou ne consigne pas des heures travaillées pour la période indiquée est une indication sérieuse qu’il y a eu falsification. Il en est ainsi d’une paye qui ne correspond pas aux heures travaillées. Dans un cas comme dans l’autre, cela crée une très forte présomption que les parties ont convenu d’un scénario faux et mensonger dans le but d’en tirer divers avantages dont notamment sur le plan fiscal et assurance‑emploi.
+[30] Le payeur a invoqué le manque de travail pour justifier la mise à pied des appelants en l’espèce. La preuve appelle toutefois une conclusion différente puisque ni l’un ni l’autre des appelants n’a cessé de fournir au payeur les services requis à la suite de leur mise à pied. Malgré les tentatives faites par les appelants pour qualifier ces services de [traduction] « travail bénévole effectué pour un ami », il n’en demeure pas moins qu’il s’agissait de travaux devant être effectués et qui, dans le cours normal des activités de l’entreprise, auraient dû être rémunérés.
+[31] Il importe en outre de signaler que toutes ces occasions où des personnes se trouvaient à l’établissement du payeur afin de lui fournir tous ces services gratuitement constituaient un avantage certain pour ce dernier sans entraîner une quelconque perte pour les appelants puisqu’ils étaient indemnisés par les prestations d’assurance‑emploi. Ce stratagème avait pour effet de subventionner l’entreprise du payeur, ce qui contrevient à l’objet fondamental de la législation en matière d’assurance‑emploi.
+[32] Les appelants peuvent estimer qu’ils ne doivent pas être tenus responsables du fait d’avoir aidé un ami dans le besoin. Bien que cela n’est peut‑être pas si répréhensible en soi, les contribuables n’ont pas à en faire les frais, comme c’est le cas en l’espèce.
+[33] Il est parfois arrivé que la Cour ferme les yeux sur certains genres de travail bénévole, comme les travaux bénévoles occasionnels effectués l’hiver dans des entreprises agricoles familiales, mais elle n’a jamais toléré le supposé bénévolat à une échelle aussi grande que ce qui se faisait en l’espèce.
+[34] Bref, je conclus que, pendant toutes les périodes en cause, le travail effectué par les appelants n’a pas été exécuté aux termes d’un véritable contrat de travail au sens de l’alinéa 5(1)a) de la Loi.
+[35] Compte tenu de cette conclusion, il est inutile que j’examine l’observation relative aux dispositions de l’alinéa 5(2)i) de la Loi formulée par le ministre.
+[36] Par conséquent, les présents appels sont rejetés et la décision du ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de septembre 2007.
+« S.J. Savoie »
+Juge Savoie
+Traduction certifiée conforme
+ce 5e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI558
+Nos DES DOSSIERS DE LA COUR : 2004-2589(EI), 2004-2684(EI)
+INTITULÉ DE LA CAUSE : TONY MCINTYRE c. LE MINISTRE DU REVENU NATIONAL et
+PAUL COLLETTE c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Miramichi (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 24 juillet 2007
+MOTIFS DU JUGEMENT : L’honorable S.J. Savoie
+DATE DU JUGEMENT : Le 28 septembre 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me George Martin
+Avocate de l’intimé :
+Me Stéphanie Côté
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me George Martin
+Cabinet : Martin & Cook
+Miramichi (Nouveau-Brunswick)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

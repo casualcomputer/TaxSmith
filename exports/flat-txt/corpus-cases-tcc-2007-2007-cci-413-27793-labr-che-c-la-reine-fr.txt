@@ -1,0 +1,124 @@
+Title: Labrèche c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27793/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-413-27793-labr-che-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-07-18
+
+# Labrèche c. La Reine
+
+- Citation: 2007 CCI 413
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 272, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labrèche c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-18
+Référence neutre
+2007 CCI 413
+Numéro de dossier
+2007-196(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-196(IT)I
+ENTRE :
+MARLYNE LABRÈCHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Yvon Labrèche (2007‑198(IT)I) le 5 juillet 2007, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu, pour les années d'imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2007-198(IT)I
+ENTRE :
+YVON LABRÈCHE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Marlyne Labrèche (2007‑196(IT)I) le 5 juillet 2007, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu, pour les années d'imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2007CCI413
+Date : 20070718
+Dossiers : 2007-196(IT)I
+2007-198(IT)I
+ENTRE :
+MARLYNE LABRÈCHE,
+YVON LABRÈCHE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les appelants ont acquis en décembre 2002, du frère de Marlyne Labrèche, un immeuble à deux logements pour la somme de 70 000 $. À ce moment, l’évaluation municipale de cette propriété était de 87 900 $. Les appelants habitaient le logement du bas depuis trois ans au moment d’acheter, et étaient conscients des problèmes au plancher causés par l’eau.
+[2] Ils ont alors déménagé dans le logement du haut et ont mis six mois à remettre à neuf le logement du bas. Il y avait des fissures dans le solage et des moisissures dans les murs. La pompe de puisard (« sump pump ») était non fonctionnelle, puisque la pente sous le plancher était dans le mauvais sens. Alors que la fondation était en pierre et en ciment, les appelants ont coulé une nouvelle fondation à base de ciment uniquement.
+[3] La pente sous le plancher a été refaite dans le bon sens pour rendre la pompe de puisard fonctionnelle. Les fissures ont toutes été réparées et on a installé un nouveau plancher en bois flottant. Le plafond étant croche, on y a rajouté des poutres. La salle de bain et la cuisine ont été refaites à neuf. Une laveuse et une sécheuse ont été achetées pour l’usage du logement du bas uniquement et un aspirateur central a été installé pour utilisation dans les deux logements.
+[4] Les appelants ont mentionné qu’ils n’ont pas eu le choix de refaire le logement du bas à neuf pour pouvoir en tirer des revenus de location. Ils ont mentionné qu’ils n’ont pas utilisé des matériaux de haute qualité, mais plutôt des matériaux de base.
+[5] En juillet 2003, ils ont loué le logement du bas à leur fils pour la somme de 300 $ par mois. En 2003, les appelants ont réclamé un total de 22 672,77 $, dont 18 333,38 $ en dépenses d’entretien et de réparation reliées au logement du bas, et un total de 12 186,26 $ pour les deux logements en 2004 pour lequel ils ont considéré la moitié comme étant personnelle.
+[6] En 2003, le ministre du Revenu national (« Ministre ») a considéré le montant de 18 333,38 $ comme dépenses de nature capitale et non comme des dépenses courantes. Le Ministre a également considéré un montant de 2 339,56 $ qui était inclus dans les dépenses réclamées en 2004, comme une dépense de nature capitale engagée en 2003. Ce dernier montant correspond au coût de la laveuse et de la sécheuse ainsi que de 50% du coût de l’aspirateur central.
+[7] En 2004, du 12 186,26 $ réclamé, outre le montant de 2 723,75 $ relié à la laveuse, sécheuse, et à l’aspirateur central qui a été considéré en 2003, le Ministre a refusé un montant de 1 151,57 $ puisque non appuyé de pièces justificatives, un montant de 654,42 $ puisque des dépenses personnelles, et a accordé un montant de 1 407,59 $ comme dépenses courantes, dont 50% déductible à l’encontre du revenu locatif. Le solde de 6 248,93 $ a été considéré de nature capitale.
+[8] Les appelants contestent uniquement les montants qui ont été considérés comme des dépenses de nature capitale par le Ministre. Selon eux, les travaux effectués au logement du bas étaient des réparations pour remettre le logement en bon état afin de pouvoir le louer. Ils considèrent qu’ils n’ont pas utilisé des matériaux de meilleure qualité que ce qui était en place auparavant.
+[9] On distingue les dépenses de nature courante de celles qui sont de nature capitale en analysant l’objet de la dépense (voir Bowland c. Canada, [1999] A.C.I. no 588 (QL)), confirmé par la Cour d’appel fédérale, [2001] A.C.F. no 839 (QL). Une dépense sera de nature capitale s’il s’agit d’une amélioration permanente de l’immeuble plutôt que d’une simple réparation, ou si la dépense donne lieu à un avantage durable par opposition à une dépense récurrente. On analyse également le coût que représente la dépense par rapport au coût du bien.
+[10] À mon avis, en refaisant la fondation tout en ciment (alors qu’elle était auparavant en pierre et en ciment), en refaisant complètement les murs, la salle de bain et la cuisine et en rajoutant des poutres au plafond, les appelants ont amélioré de façon considérable et permanente le logement du bas.
+[11] Ce sont des travaux qui n’auront pas à être repris de façon récurrente. De plus, la somme des dépenses considérées de nature capitale en 2003 et 2004 par l’intimée s’élève à 26 921,87 $ (soit 18 333,38 $ + 2 339,56 $ +6 248,93 $), soit 38% du prix d’acquisition de 70 000 $. Ceci représente un pourcentage important par rapport au coût d’acquisition, ce qui est également un indice que les dépenses engagées étaient plutôt de nature capitale. De plus, dans Haddon Hall Realty Inc., 62 DTC 1001, cité par le juge Rip dans Di Fruscia c. Canada, 2007 CCI 310 au paragraphe 8, la Cour suprême du Canada a conclu que « l’acquisition de cuisinières et de réfrigérateurs constituait non pas des réparations, mais des remplacements, et qu’il s’agissait donc de dépenses en capital ». En l’espèce, tout comme les autres dépenses pour remettre à neuf le logement du bas constituaient à mon avis des remplacements et non des réparations, et donc des dépenses de nature capitale, il en est de même de la dépense pour acquérir la laveuse, sécheuse et l’aspirateur central.
+[12] Par ailleurs, tel que le suggère la Cour d’appel fédérale dans Fiore c. Canada, [1993] A.C.F. no 249 (QL), « [l]orsque, comme dans le présent cas, des immeubles sont achetés à un prix inférieur [...] à leur valeur capitale normale au moment de l'achat [...] et que des dépenses sont nécessaires en raison de l'état de ces immeubles et sont encourues pour ramener ces derniers à leur valeur normale, nous sommes d'avis que ces dépenses sont de nature capitale. » À mon avis, c’est la même chose ici. Les appelants ont acquis la propriété évaluée à 87 900 $ pour une somme de 70 000 $ et y ont investi un peu plus de 25 000 $. Comme le disait la Cour d’appel fédérale dans Fiore, il s’agit de dépenses qui dépassent largement des dépenses d’entretien et de réparation que l’on fait pour conserver un bien capital et de fait, constituent une amélioration significative de ce bien.
+[13] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2007.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2007CCI413
+Nº DES DOSSIERS DE LA COUR : 2007-196(IT)I et 2007-198(IT)I
+INTITULÉS DES CAUSE : MARLYNE LABRÈCHE c. SA MAJESTÉ LA REINE et YVON LABRÈCHE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 5 juillet 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 18 juillet 2007
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-mêmes
+Avocate de l'intimée :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

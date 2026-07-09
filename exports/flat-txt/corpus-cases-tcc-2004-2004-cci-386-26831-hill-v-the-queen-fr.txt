@@ -1,0 +1,141 @@
+Title: Hill v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26831/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-386-26831-hill-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-28
+
+# Hill v. The Queen
+
+- Citation: 2004 CCI 386
+- Decision date: 2004-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 702, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hill v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-28
+Référence neutre
+2004 CCI 386
+Numéro de dossier
+2003-3965(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI386
+Date : 20040528
+Dossier : 2003-3965(IT)I
+ENTRE :
+L. CRAIG HILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Lethbridge (Alberta), le 17 avril 2004)
+[1] Il s'agit d'un appel régi par la procédure informelle qui a été entendu à Lethbridge (Alberta) le 19 avril 2004. L'appelant lui-même a témoigné et a appelé son père, Leo, et sa fille, Joy, comme témoins. L'intimée a assigné l'ex-épouse de l'appelant, Margie Spry, à venir témoigner.
+[2] Les points en litige sont décrits aux paragraphes 1 et 6 à 11 des documents comme suit :
+[TRADUCTION]
+1. L'appelant admet les faits énoncés dans l'avis d'appel, c'est-à-dire :
+a) l'appelant s'est remarié le 27 avril 2001;
+b) Margie n'est pas la mère biologique des enfants en question;
+c) l'appelant et Margie se sont séparés le 30 avril 2002;
+d) après la séparation, l'appelant a touché la prestation fiscale pour enfants à l'égard de quatre enfants, puis à l'égard d'un enfant à partir de mai 2002, et de deux enfants à partir de juin 2002;
+e) deux des enfants de l'appelant résidaient avec Margie en mai et en juin 2002;
+f) l'appelant et Taylor ont emménagé avec les parents de l'appelant le 30 avril 2002;
+g) Taniel a emménagé avec l'appelant après le 1er mai 2002;
+h) Margie a déménagé de la résidence après le 1er juin 2002;
+i) l'appelant et les deux enfants ont quitté la maison des parents de l'appelant pour habiter de nouveau dans la maison de l'appelant avec les deux autres enfants.
+[...]
+6. Au moyen d'avis de prestation fiscale canadienne pour enfants (PFCE) datés du 20 mai 2003, le ministre a informé l'appelant de ce qui suit :
+a) en ce qui a trait à l'année de base 2000, plus précisément le mois de juin 2002, l'appelant a reçu une prestation insuffisante au titre de la PFCE et du SPNE pour ce mois et il était un particulier admissible à l'égard de Taniel et de Taylor;
+b) en ce qui a trait à l'année de base 2001, plus précisément le mois de mai 2003, l'appelant avait droit à une somme de 794,90 $ au titre de la PFCE et du SPNE pour ce mois.
+7. Au moyen d'une lettre datée du 12 juin 2003, l'appelant a fait signifier au ministre un avis d'opposition relatif aux avis de PFCE datés du 20 mai 2003 pour les années de base 2000 et 2001.
+8. Le ministre a confirmé les avis de PFCE pour les années de base 2000 et 2001 dans une lettre de confirmation datée du 25 juillet 2003.
+9. Le 6 octobre 2003, un avis d'appel a été déposé à la Cour canadienne de l'impôt relativement aux années de base 2000 et 2001.
+10. Lorsqu'il a établi à nouveau le montant de la PFCE et du SPNE auquel l'appelant avait droit pour les années de base 2000 et 2001 et confirmé ce montant, le ministre s'est fondé sur les mêmes faits, à savoir :
+a) l'appelant et Margaret Spry (l' « épouse » ) se sont mariés le 27 avril 2001;
+b) l'appelant a quatre enfants (les « enfants » ) :
+Nom Date de naissance
+Joy 18 octobre 1985
+Rachelle 29 juillet 1987
+Taniel 27 août 1989
+Taylor 8 octobre 1993
+c) l'épouse de l'appelant n'est pas la mère biologique des enfants;
+d) l'appelant et son épouse résidaient avec les enfants au 424 Spruce Way, à Medicine Hat (Alberta) (la « résidence » );
+e) l'appelant et son épouse se sont séparés le 30 avril 2002;
+f) le 30 avril 2002, l'appelant et Taylor ont quitté la résidence;
+g) après le 1er mai 2002, Taniel a quitté la résidence;
+h) l'épouse de l'appelant, Joy et Rachelle ont continué d'habiter à la résidence;
+i) l'épouse de l'appelant a quitté la résidence après le 1er juin 2002;
+j) l'appelant, Taniel et Taylor ont réemménagé dans la résidence après le 1er juin 2002;
+k) le revenu net de la famille de l'appelant pour les années de base 2000 et 2001 s'est chiffré à 439 $ et à 2 854 $, respectivement;
+l) les années de base désignent les périodes suivantes :
+Année de base
+Mois
+2000
+de juillet 2001 à juin 2002
+2001
+de juillet 2002 à juin 2003
+m) l'appelant et son épouse vivaient séparés en raison de l'échec de leur mariage survenu le 30 avril 2002;
+n) l'appelant et son épouse se sont tous deux acquittés de leurs responsabilités pour la garde et l'éducation des enfants avant le 30 avril 2002;
+o) après le 30 avril 2002, l'épouse de l'appelant résidait avec les enfants et s'occupait de la garde et de l'éducation de ces derniers au cours des mois suivants :
+Nom de l'enfant
+Mois
+Joy
+mai et juin 2002
+Rachelle
+mai et juin 2002
+Taniel
+mai 2002
+Taylor
+jamais
+p) après le 30 avril 2002, l'appelant résidait avec les enfants et s'occupait de la garde et de l'éducation de ces derniers au cours des mois suivants :
+Nom de l'enfant
+Mois
+Joy
+de juillet 2002 à juin 2003
+Rachelle
+de juillet 2002 à juin 2003
+Taniel
+juin 2002
+Taylor
+de mai 2002 à juin 2003
+q) l'appelant a reçu une PFCE et un SPNE totalisant 1 544,68 $ pour l'année de base 2000, soit les mois de mai et de juin 2002, comme l'indique l'annexe A jointe à la réponse à l'avis d'appel et qui fait partie intégrante de cet avis (l' « annexe A » );
+r) l'appelant avait droit à une PFCE et à un SPNE de 581,66 $ pour l'année de base 2000, soit les mois de mai et de juin 2002, comme l'indique l'annexe A;
+s) l'appelant avait droit à une PFCE et à un SPNE de 9 539 $, montants qu'il a reçus, pour l'année de base 2001, soit de juillet 2002 à juin 2003, comme l'indique l'annexe A;
+t) l'appelant a reçu des montants excédentaires de PFCE et de SPNE totalisant 963,02 $ pour l'année de base 2000, et aucun excédent pour l'année de base 2001.
+B. QUESTION EN LITIGE
+11. La Cour doit trancher les questions suivantes :
+a) L'appelant était-il un particulier admissible pour :
+(i) Joy, Rachelle et Taniel, pour le mois de mai 2002;
+(ii) Joy et Rachelle, pour le mois de juin 2002?
+L'appelant avait-il droit à une PFCE et à un SPNE en vertu de l'article 122.6 de la Loi à l'égard de ces personnes à charge admissibles pour chacun des mois spécifiés?
+b) L'appelant a-t-il reçu des montants excédentaires de PFCE et de SPNE totalisant 963,02 $ pour l'année de base 2000 et aucun excédent pour l'année de base 2001?
+[3] Seules les hypothèses 10 e), f), g), n) et o) ont été réfutées par des éléments de preuve ou méritent d'être examinées plus longuement. Les autres hypothèses n'ont pas été réfutées.
+[4] À toutes les dates importantes, l'appelant souffrait de trouble psychiatrique dépressif et faisait l'objet de traitements par électrochocs. Il ne travaillait pas depuis un bon moment lorsqu'il a épousé Margie. Sa première femme avait la garde légale et physique de leurs enfants, ce qui était toujours le cas lors du mariage de l'appelant avec Margie le 27 avril 2001. Légalement, cela n'a pas changé.
+[5] Margie avait trois enfants d'un mariage antérieur, dont un fils appelé Mike, et elle en avait la garde lorsqu'elle a épousé Craig.
+[6] Nous accordons foi au témoignage de Margie. Lorsqu'un autre témoin contredit Margie, nous considérons que c'est cette dernière qui dit la vérité. Les motifs et les faits qui sous-tendent cette conclusion seront mis en lumière dans les motifs du jugement. Ils ont trait particulièrement aux événements qui se sont produits entre Mike et Craig de même qu'aux incohérences dans le témoignage de Craig en contre-preuve.
+[7] Lorsque Margie et Craig se sont mariés, l'ex-femme de Craig a envoyé les enfants vivre avec le nouveau couple et a déménagé à Calgary puis aux États-Unis.
+[8] Les parents de Craig ont acheté la maison située au 424 Spruce Way, à Medicine Hat (Alberta), pour que la famille reconstituée puisse y habiter. Eux-mêmes vivaient à deux rues de là et louaient la maison du 424 au couple. Craig dormait pendant de longues périodes à cause de sa maladie ou des électrochocs; parfois, il dormait chez ses parents. Le revenu de la famille provenait des prestations du Régime de pensions du Canada que touchait Craig, du prêt étudiant de Margie ainsi que du revenu que gagnait celle-ci en donnant du counseling à l'Église de Jésus-Christ des saints des derniers jours. Craig insistait pour que l'argent soit déposé dans un compte bancaire portant son nom, et les témoignages ne permettent pas de confirmer s'il s'agissait ou non d'un compte conjoint avec Margie.
+[9] Autour du 30 avril 2002, Craig et Mike se sont disputés; Mike a alors décidé de sortir prendre l'air, apparemment pour se calmer. Craig a refusé de le laisser faire et l'a poussé ou projeté en bas de l'escalier avec une force telle que le corps de Mike a fait un trou de plus d'un pied de diamètre dans un mur de placoplâtre solide. Craig s'est alors rendu près de Mike et l'a saisi par le cou pour l'étrangler. Margie et un des enfants se sont rués sur Craig pour essayer de l'éloigner de Mike. Le lendemain de ces événements, l'évêque mormon local a ordonné à Craig de s'en aller habiter chez ses parents pendant deux semaines; c'est ce qu'il a fait en amenant Taylor avec lui.
+[10] Cependant, Craig n'a jamais changé de lieu de résidence. Légalement et dans les faits, sa résidence se trouvait donc au 424 Spruce Way, ce qui est vrai aussi pour ses enfants qui sont venus habiter chez leurs grands-parents. Ces derniers réglaient les factures et s'occupaient des repas de tous ceux qui les visitaient. Les enfants en question allaient et venaient chez leurs grands-parents, mais ils se rendaient toujours à l'école à partir du 424 Spruce Way et y retournaient pour dormir.
+[11] Craig a habité chez ses parents seulement jusqu'à ce que Margie pût se trouver un autre endroit pour vivre et déménager du 424 Spruce Way avec ses enfants. Entre-temps, c'est elle qui s'occupait de tous les enfants. Les dispositions qui étaient prises par les grands-parents l'étaient à l'initiative de ceux-ci pendant que les petits-enfants faisaient le va-et-vient entre leur maison et le 424 Spruce Way.
+[12] Pendant toute cette période, c'est Margie qui tenait maison pour tous les enfants au 424 Spruce Way, alors que Craig y conservait sa résidence sur les plans juridique et factuel, tout comme les enfants. La personne ayant la garde et le contrôle du 424 Spruce Way et des enfants qui y résidaient était Margie à toutes les dates importantes. Les enfants en question ont continué d'y résider avec Margie à toutes les dates importantes également. C'est là que se trouvaient leurs lits et leurs chambres, leurs vêtements et leurs effets personnels. Ils partaient de là pour se rendre à l'école, et des repas y étaient préparés à leur intention s'ils le souhaitaient. Les grands-parents ont nourri les enfants quand ces derniers les visitaient et, durant la fin de semaine, les enfants dormaient souvent chez leurs grands-parents, par terre ou sur un divan.
+[13] Il s'agissait toutefois seulement de dispositions temporaires prises par Leo et sa femme pour aider leur fils malade, et Craig n'a jamais fourni ni payé quoi que ce soit. Il habitait simplement avec ses parents qui le faisaient vivre chez eux, ainsi que les enfants de temps en temps; aucun d'eux ne résidait là.
+[14] Pour ce motif, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de mai 2004.
+« D.W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL. L.

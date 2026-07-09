@@ -1,0 +1,179 @@
+---
+title: "Palangio c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31022/index.do"
+last_modified: "2012-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 405"
+citation2: ""
+neutral_citation: "2012 CCI 405"
+decision_date: "2012-10-24"
+language: "fr"
+item_id: "31022"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4904
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:19:09.452000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "501885afd2c1aab70b889d4a41a2322d1a73a004cf9131f0be55af48c532b65e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Palangio c. La Reine
+
+- Citation: 2012 CCI 405
+- Decision date: 2012-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4904, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palangio c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-24
+Référence neutre
+2012 CCI 405
+Numéro de dossier
+2011-2064(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2012CCI405
+Date : 20121116
+Dossiers : 2011-2064(IT)I,
+2011-2065(GST)I
+ENTRE :
+MICHAEL PALANGIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 24 octobre 2012, à Toronto (Ontario).)
+Le juge Paris
+[1] Les questions en litige dans l’appel en matière d’impôt sur le revenu de M. Palangio sont les suivantes :
+a) la question de savoir si l’activité consistant à écrire pour un journal local de la ville de Cochrane, en Ontario, était une source de revenu tiré d’une entreprise, de telle sorte que l’appelant peut déduire des pertes de 33 165 $ pour l’année d’imposition 2006 et de 3 708,60 $ pour l’année d’imposition 2007;
+b) la question de savoir si l’activité de location d’outils et de matériel était une source de revenu tiré d’une entreprise pour les années d’imposition 2005, 2006 et 2007, et, le cas échéant, quels étaient les revenus et les dépenses de cette entreprise;
+c) la question de savoir si l’appelant avait droit à des déductions additionnelles dans le calcul de ses pertes relatives à un bien locatif pour les années d’imposition 2005, 2006 et 2007.
+[2] En ce qui a trait à la dernière question, l’intimée a reconnu que l’appelant avait le droit de déduire les montants suivants à titre de dépenses locatives additionnelles :
+Pour 2005 : 989 $ d’impôt foncier et 748 $ de frais de téléphone;
+Pour 2006 : 644 $ d’impôt foncier, 748 $ de frais de téléphone et 375 $ de frais afférents à un véhicule à moteur;
+Pour 2007 : 748 $ de frais de téléphone, 644 $ d’impôt foncier, 2 887 $ d’intérêts, 287 $ de frais afférents à un véhicule à moteur et 60 $ de frais d’assurance.
+[3] Les seuls montants additionnels encore en litige relativement au bien locatif sont les déductions de frais de réparation et d’entretien de 8 527,86 $ qui ont été refusées.
+[4] L’appelant a également interjeté appel d’une nouvelle cotisation que le ministre a établie à l’égard de la taxe sur les produits et services (la « TPS »), par laquelle le ministre a établi que la partie commerciale des activités de location du bien immeuble et les activités de location d’outils de l’appelant n’étaient pas des activités commerciales au sens du paragraphe 123(1) de la Loi sur la taxe d’accise, et par conséquent, que toutes les fournitures réalisées dans le contexte de ces activités n’étaient pas des fournitures taxables. Le ministre a établi de nouvelles cotisations à l’égard de l’appelant pour la période allant du 1er avril 2005 au 31 décembre 2007, annulant la TPS qui avait été calculée ainsi que les crédits de taxe sur les intrants (les « CTI ») qui avaient été accordés à l’appelant à l’égard de ces fournitures. En l’espèce, je suis saisi de la question de savoir si les activités de l’appelant correspondaient à des entreprises exploitées avec une attente raisonnable de profit.
+[5] Quand il a déclaré son revenu pour les années 2005, 2006 et 2007, l’appelant a consolidé les revenus tirés de toutes ses activités ainsi que les dépenses y afférentes dans un seul état des résultats des activités d’une entreprise. Il est donc très difficile d’établir une correspondance entre chacune des activités de l’appelant et les revenus et les dépenses qui apparaissent sur cet état des résultats.
+[6] L’appelant n’a pas semblé avoir tenu de registres cohérents pour chaque activité, et son témoignage à cet égard a été très vague. Cette absence de registre a fait en sorte qu’il a été difficile d’évaluer la nature commerciale de ses activités, tant pour l’appel en matière d’impôt sur le revenu que pour celui en matière de TPS.
+[7] Je me pencherai d’abord sur la question de savoir si les activités de rédaction de l’appelant constituent une entreprise.
+[8] L’appelant a déclaré avoir été élu membre de la Commission des services publics (la « CSP ») de Cochrane en décembre 1999. Pendant qu’il occupait ces fonctions, il a écrit plusieurs lettres à la rédaction de deux journaux locaux, dans lesquelles il critiquait la façon dont la CSP s’acquittait de son mandat de supervision de la gestion et du fonctionnement du réseau d’égout et d’aqueduc ainsi que du réseau de téléphonie de Cochrane.
+[9] Dans ces lettres, l’appelant a attiré l’attention sur ce qu’il croyait être des pratiques professionnelles douteuses de la part de certains gestionnaires de la CSP et il a exprimé des inquiétudes quant au fait que les personnes engagées pour exploiter les usines de traitement des eaux usées n’étaient pas qualifiées.
+[10] En 2003, la CSP a poursuivi l’appelant en justice pour les lettres que ce dernier avait écrites ainsi que pour certains gestes qu’il avait posés. En juillet 2003, la CSP a obtenu qu’une injonction soit rendue contre l’appelant, en attendant le procès.
+[11] L’appelant a reçu l’interdiction de se conduire de la manière décrite à la sixième page du jugement rendu par le juge Riopelle de la Cour supérieure de justice de l’Ontario, qui se trouve sous l’onglet 16 de la pièce A‑1 :
+[traduction]
+a) de formuler des commentaires ou de critiquer les qualifications ou les compétences de Ross Peever, de Doug Theobald, de Gerry Robichaud, de Don Belisle ou de tout membre ou cadre supérieur de la CSP; cette interdiction ne s’applique pas à l’avocat de M. Palangio dans le contexte limité de la préparation du présent procès;
+b) en ce qui a trait à toute question qui aurait pu être soulevée le 11 juillet 2003 ou avant cette date, et dont M. Palangio a déjà connaissance, de tenir sur la place publique des propos concernant l’intégrité d’employés ou membres de la CSP (anciens, actuels ou futurs) ou de membres de leur famille, ou de critiquer ces personnes sur la place publique;
+c) en ce qui a trait à toute question qui aurait pu être soulevée ou être portée à l’attention de l’appelant pour la première fois après le 11 juillet 2003, de tenir sur la place publique des propos concernant l’intégrité d’employés ou membres de la CSP (anciens, actuels ou futurs) ou de membres de leur famille, ou de les critiquer sur la place publique, sauf si les propos ou la critique sont justes et que l’intervention est juste et proportionnelle à l’incident, le fardeau de prouver le caractère juste et proportionnel incombant à M. Palangio;
+d) d’adopter une conduite équivalant à du harcèlement à l’égard d’employés ou de membres de la CSP (anciens, actuels ou futurs) ou de membres de leur famille;
+e) de manquer à ses obligations de membre de la CSP en divulguant des informations confidentielles ou en posant tout autre geste.
+[12] En décembre 2003, l’appelant a été élu conseiller de la Ville de Cochrane. En mars 2004, il a commencé à écrire une chronique pour un journal que la [traduction] « Coopérative des contribuables de la ville de Cochrane et des environs » (Cochrane & Area Ratepayers’ Cooperative) (la « Coopérative ») avait récemment commencé à publier. L’appelant a déclaré avoir eu le sentiment que c’était son devoir de conseiller d’informer les citoyens de Cochrane de ce qu’il se passait au conseil municipal.
+[13] D’après l’appelant, il était prévu que la Coopérative lui verserait 100 $ par chronique par la suite, quand le journal commencerait à être rentable.
+[14] L’appelant a déclaré que ses chroniques avaient suscité la controverse et que la Ville de Cochrane avait demandé que soit rendue une injonction pour, dans ses propres mots, [traduction] « le museler ».
+[15] Il me semble que ces dernières procédures intentées par la Ville de Cochrane s’inscrivaient dans la continuité de l’action en justice intentée par la CSP en 2003. L’appelant a déclaré que la CSP avait fusionné avec la Ville de Cochrane, ou avait d’une certaine manière été absorbée par celle-ci, en 2003 ou en 2004, et qu’à partir de ce moment, la Ville avait repris à son compte la poursuite intentée par la CSP. Il a ajouté que la Ville l’avait poursuivi en justice en 2004 parce qu’elle estimait qu’il avait violé l’injonction rendue plus tôt. Cela m’amène à conclure qu’il n’y a eu qu’une seule action en justice intentée contre l’appelant, celle qui a été entamée par la CSP et poursuivie par la Ville.
+[16] À un moment donné, l’appelant a intenté une action reconventionnelle contre la CSP ou la Ville. Il n’y a pas d’élément de preuve quant au moment où cela s’est produit ou la réparation que l’appelant a demandée. Pendant que les actions en justice suivaient leur cours, l’appelant continuait d’écrire des articles pour le journal de la Coopérative, sur des sujets qui n’étaient pas visés par l’injonction. Il a écrit 24 chroniques en tout jusqu’en novembre 2006.
+[17] À la fin de l’année 2006, l’appelant et la Ville ont entamé des discussions en vue de régler leur différend. En mars 2007, ils ont consenti à ce que leurs demandes soient rejetées, sur la base d’une entente de règlement confidentielle. Aux termes de cette entente, la Ville a versé à l’appelant la somme de 45 000 $ pour couvrir une partie de ses frais juridiques, lesquels s’élevaient à 82 150 $.
+[18] L’appelant demande à déduire de son revenu la différence entre le montant total de ses frais juridiques et la somme qu’il a récupérée de la Ville à titre de frais d’entreprise pour 2006 et 2007, relativement à son activité de rédaction de chroniques.
+[19] L’intimée nie que l’activité de rédaction de l’appelant était une entreprise pour l’application de la Loi de l’impôt sur le revenu.
+[20] Dans l’arrêt Stewart c. Canada, 2002 C.S.C. 46, la Cour suprême du Canada a examiné la question de savoir comment établir si le revenu qu’un contribuable tire d’une activité particulière est une source de revenu tiré d’une entreprise. D’après la Cour suprême du Canada, il faut d’abord se demander si cette activité était exercée en vue de réaliser un profit ou s’il s’agissait d’une démarche personnelle du contribuable.
+[21] En l’espèce, je suis d’avis que la preuve ne suffit pas à établir que l’appelant a entrepris son activité de rédaction pour le journal de la Coopérative en vue de réaliser un profit. Je conclus que la rédaction de cette chronique faisait partie de ses activités politiques et qu’elle s’inscrivait dans le contexte de son mandat de conseiller municipal; il s’agissait d’un moyen de promouvoir la transparence dans la gouvernance de la Ville.
+[22] Cette vision des motifs pour lesquels il rédigeait ses chroniques est conforme aux premières observations que l’appelant a lui-même faites à l’Agence du revenu du Canada (l’« ARC ») sur le sujet, quand on lui a refusé la déduction de ses frais juridiques. Dans une lettre qu’il a envoyée au vérificateur en juillet 2008, l’appelant a écrit ce qui suit :
+[traduction]
+Pourriez-vous m’envoyer par écrit les raisons pour lesquelles je ne peux pas déduire mes frais juridiques de mon revenu? Je paie des impôts sur mon salaire de conseiller, alors pourquoi ne puis‑je pas déduire les frais que je supporte dans le contexte de cet emploi? »
+[23] L’appelant a déclaré avoir changé de position et avoir demandé à déduire les frais en cause à titre de frais d’entreprise liés à son activité de rédaction après avoir pris conscience du fait que tous ses problèmes juridiques venaient de ses écrits. Je voudrais également souligner le fait qu’il a changé de position après avoir appris qu’il ne pourrait pas déduire les montants en cause de son salaire de conseiller.
+[24] Je n’accepte pas les affirmations de l’appelant selon lesquelles la Coopérative l’a rémunéré, ou avait convenu de le rémunérer, pour les chroniques qu’il écrivait. L’appelant a lui‑même fourni une lettre écrite à l’ARC par la Coopérative et datée du 24 novembre 2010, dans laquelle il était précisé qu’entre mars 2004 et novembre 2006, l’appelant avait fait don de 24 articles au journal, et que la valeur de ces articles était de 2 400 $. Cette lettre contredit directement les déclarations de l’appelant selon lesquelles la Coopérative avait convenu de le rémunérer pour les articles et l’avait effectivement rémunéré en échange de certains de ces articles en 2007.
+[25] Pour ces motifs, je conclus que l’appelant n’avait pas l’intention de tirer un profit des chroniques qu’il rédigeait pour le journal de la Coopérative, et, par conséquent, qu’il n’avait pas de source de revenu tiré d’une entreprise de laquelle il aurait pu déduire le solde de ses frais juridiques.
+[26] Même si je n’avais pas tiré une telle conclusion, je n’aurais toujours pas été convaincu que les frais juridiques que l’appelant a supportés étaient une conséquence de son activité de rédaction de chroniques dans le journal de la Coopérative. À la lecture de l’ébauche de consentement à jugement (pièce R‑2), il ressort que la conduite pour laquelle l’appelant a été poursuivi avait entièrement trait à des gestes qu’il a posés entre décembre 1999 et novembre 2003, quand il était membre de la CSP.
+[27] Ces événements sont antérieurs à la rédaction des chroniques, et, par conséquent, l’appelant n’aurait pas pu engager les frais juridiques en cause dans le contexte de ses activités de rédaction de chroniques ou relativement au contenu de ces chroniques. Autrement dit, l’appelant n’a pas démontré l’existence d’un lien entre les poursuites dont il faisait l’objet et les chroniques qu’il a commencé à écrire en mars 2004.
+[28] La question en litige suivante est de savoir si l’activité de location d’outils de l’appelant constituait une source de revenu en 2005, en 2006 et en 2007.
+[29] L’appelant a déclaré avoir commencé à louer des outils dans les années 1990, après avoir fait l’acquisition d’un chariot élévateur de cloisons sèches pour son propre usage. Le chariot élévateur permettait de maintenir les panneaux de cloisons sèches en place pendant qu’un travailleur fixait les cloisons sèches aux montants de la structure.
+[30] Le chariot élévateur de l’appelant a été le premier de son genre à Cochrane, et après que l’information a circulé de bouche à oreille, les gens ont commencé à demander à l’utiliser. L’appelant le louait pour des sommes relativement modiques et il a prétendu avoir commencé par donner ces revenus à des organismes de bienfaisance. Par la suite, il louait une petite perceuse ainsi que du matériel de découpage de cloisons sèches en même temps que le chariot élévateur. Il a alors fait l’acquisition d’un échafaudage d’occasion, pour son propre usage, qu’il lui arrivait aussi de louer.
+[31] L’appelant a préparé pour l’audience un tableau des locations qu’il avait effectuées, montrant qu’il avait loué des outils à trois reprises en 2005, pour 800 $, à quatre reprises en 2006, pour 825 $, et à huit reprises en 2007, pour 2 850 $.
+[32] Pendant ces années, l’appelant a presque chaque fois loué ses outils à des amis. Il semble que l’appelant ait fait l’acquisition de tous les outils qu’il a loués pour effectuer des travaux d’entretien et de réparations sur le bien locatif dont il était propriétaire à Cochrane, et qu’il ait déduit le coût de tous ces outils des revenus tirés de son entreprise de location.
+[33] Les outils que l’appelant louait étaient entreposés au bien locatif, soit dans le sous‑sol avec le reste des outils utilisés pour la propriété, soit à l’extérieur dans le cas de l’échafaudage.
+[34] L’intimée soutient que l’appelant n’exerçait pas l’activité de location d’outils en vue de réaliser un profit et que, par conséquent, les revenus tirés de cette activité n’étaient pas des revenus tirés d’une entreprise. Si la Cour admet le fait que l’appelant avait l’intention de réaliser des profits, l’intimée déclare qu’il y avait une composante personnelle dans cette activité et que l’appelant ne l’a pas menée de manière professionnelle.
+[35] Je pense que l’activité de location d’outils n’a jamais été une entreprise autonome, et que l’appelant n’a jamais eu l’intention qu’elle le soit, mais qu’il s’agissait plutôt d’une activité accessoire à l’entreprise d’exploitation du bien locatif. Il avait acquis les outils pour entretenir et réparer le bien locatif et il a mis le coût de ces outils sur le compte des activités du bien locatif.
+[36] L’appelant ne semble pas avoir annoncé à qui que ce soit, exception faite de l’ARC, le fait qu’il exploitait une entreprise de location d’outils, compte tenu du fait qu’il n’y avait aucun affichage pour l’entreprise, qu’il n’y avait aucune publicité, qu’il n’y avait pas de nom commercial et qu’aucun effort organisé ne semble avoir été fait pour trouver des clients.
+[37] En outre, l’appelant n’a tenu aucune comptabilité distincte pour son activité de location d’outils et il ne l’a pas déclarée comme une source de revenus distincte dans ses déclarations de revenus, comme la Loi de l’impôt sur le revenu l’exige pour chaque source de revenu.
+[38] L’appelant soutient avoir, pour chaque année, déclaré les revenus qu’il tirait de son activité de location d’outils sur une ligne distincte dans son état des résultats des activités d’une entreprise, à titre d’autre revenu. Je ne suis pas en mesure de confirmer que tel était bien le cas.
+[39] Les montants que l’appelant a déclarés comme étant d’« autres revenus » sur ces formulaires ne correspondent pas aux revenus qui apparaissent sur la liste des biens loués que l’appelant a préparée pour l’audience. Sur les états des résultats des activités d’une entreprise, il était question d’autres revenus s’élevant à 900 $ en 2005, à 1 150 $ en 2006 et à 1 100 $ en 2007, alors que le total des revenus de location dont il était fait état sur la liste que l’appelant a produite à l’audience s’élevait à 800 $, à 825 $ et à 2 850 $ pour ces mêmes années.
+[40] Quoi qu’il en soit, dans ses déclarations de revenus, l’appelant ne s’est aucunement efforcé de séparer les dépenses liées à son activité de location d’outils de ses autres dépenses, et il n’a pas non plus tenu de registres distincts.
+[41] Même si j’avais conclu que l’activité de location d’outils était indépendante de l’activité de location du bien immeuble, j’aurais quand même conclu que cette première activité comportait un élément personnel et que l’appelant n’a pas démontré qu’il avait mené cette activité de manière commerciale pendant les années en cause.
+[42] L’élément personnel aurait été son désir d’aider ses amis et ses connaissances en leur louant les outils qu’il avait à sa disposition. Le fait que l’appelant ne fasse pas de publicité, n’ait pas d’enseigne, ne fasse pas d’efforts pour attirer des clients, n’ait qu’à très peu d’occasions loué des outils et n’ait tenu aucun registre formel pour cette activité sont autant d’éléments appuyant le point de vue selon lequel l’appelant ne menait pas cette activité de manière commerciale.
+[43] Vu mes conclusions, il est évident que les revenus tirés de l’activité accessoire de location d’outils auraient dû être inclus dans le calcul des revenus tirés du bien locatif, comme faisant partie de cette entreprise. Toutefois, étant donné qu’il n’y a aucun document établissant avec certitude le montant des revenus qui ont été effectivement tirés de cette activité, je ne propose pas d’effectuer des ajustements en conséquence dans ma décision.
+[44] La question en litige suivante en l’espèce est de savoir si l’appelant a le droit de déduire des dépenses d’entretien et de réparations supérieures à celles que le ministre a autorisées dans le calcul du revenu tiré de son activité de location du bien immeuble.
+[45] Au cours de sa plaidoirie, l’avocat de l’appelant a informé la Cour que son client souhaitait seulement obtenir une déduction supplémentaire au titre de trois dépenses, toutes faites en 2007 : un tachymètre, un compte‑tours et des réparations sur le toit. L’appelant a produit des factures pour chacune de ces dépenses.
+[46] L’appelant n’a pas montré que les deux premières dépenses avaient trait à l’entretien ou aux réparations du bien locatif. Il semble s’agir de frais afférents à un véhicule à moteur, mais l’appelant a déduit de son revenu un montant distinct au titre de ses frais afférents à un véhicule à moteur relatifs au bien locatif, et il lui appartient de prouver qu’il n’a pas déjà demandé la déduction de ces deux dépenses à ce titre. Il n’a présenté aucun élément de preuve à cet égard.
+[47] Toutefois, la réparation du toit correspond clairement à des frais d’entretien et l’appelant devrait être autorisé à les déduire. La preuve a montré que le travail effectué sur le toit avait pour but de rendre au toit son état d’origine et non pas d’améliorer le toit d’origine. Dans ces circonstances, la déduction de cette dépense devrait être accordée à titre de dépense courante plutôt qu’à titre de dépense en capital.
+[48] À cet égard, je renvoie au paragraphe 4 du bulletin d’interprétation de l’ARC elle‑même, IT 128 R, ainsi qu’à l’arrêt Québec (Sous‑ministre du Revenu) c. Denise Goyer, 1987 AQ 644, 1987 Carswell Quebec 122. Par conséquent, l’appelant a le droit de déduire de son revenu tiré du bien locatif un montant additionnel de 6 900 $ pour 2007.
+[49] La dernière question en litige dont la Cour est saisie a trait à la nouvelle cotisation de TPS établie à l’égard de l’appelant en vertu de la partie IX de la Loi sur la taxe d’accise. L’appelant conteste la conclusion du ministre selon laquelle son activité commerciale de location de bien immeuble et son activité de location d’outils n’étaient pas des activités commerciales au sens du paragraphe 123(1) de la Loi sur la taxe d’accise, et par conséquent, le fait qu’il n’avait pas à percevoir et à verser la TPS à l’égard des fournitures effectuées dans l’exercice de ces activités et qu’il n’avait pas droit à des CTI pour la TPS payée sur les fournitures utilisées dans l’exercice de ces activités.
+[50] La définition d’« activité commerciale » qui est donnée au paragraphe 123(1) de la Loi sur la taxe d’accise est ainsi rédigée, en partie : « Constituent des activités commerciales exercées par une personne : l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit […] »
+[51] Plus tôt dans mes motifs, j’ai conclu que l’activité de location d’outils de l’appelant ne constituait pas une entreprise pour l’application de la Loi de l’impôt sur le revenu, et qu’il n’y avait pas d’activité commerciale liée à cette activité. Les raisons pour lesquelles je tire ces conclusions m’amènent également à conclure qu’une telle entreprise n’existait pas non plus pour l’application de la partie IX de la Loi sur la taxe d’accise.
+[52] En ce qui a trait à l’activité de location commerciale de bien immeuble, pendant les années en cause, un tiers du rez-de-chaussée de l’immeuble dont l’appelant était propriétaire à Cochrane était un espace commercial à louer. Une autre partie du rez-de-chaussée comprenait un logement locatif. Cette superficie du rez‑de‑chaussée était d’environ 1 600 pieds carrés. La superficie commerciale était d’environ 550 pieds carrés. L’immeuble comptait trois étages, mais les deux étages supérieurs étaient inutilisables, ce qui était déjà le cas quand l’appelant a acheté l’immeuble au début des années 1990.
+[53] En 2005, l’appelant a loué l’espace commercial pendant trois mois, pour un loyer de 300 $ par mois, et, en 2006, il l’a loué à la Coopérative pendant quatre mois, pour un montant total de 700 $. Il n’a pas loué cet espace en 2007.
+[54] L’appelant a ajouté qu’il avait loué l’espace de stationnement au propriétaire d’un immeuble voisin pour 500 $ par année en 2005 et en 2007, et pour 400 $ en 2006. Par conséquent, en tout, il a touché des revenus de location non-résidentielle de 1 400 $ en 2005, de 1 100 $ en 2006 et de 500 $ en 2007.
+[55] Il a été admis que l’appelant avait subi des pertes relativement à la location de son espace commercial pour chaque année, et qu’il avait déclaré ces pertes dans ses déclarations de revenus pour chaque année depuis qu’il a acheté l’immeuble.
+[56] Il revient à l’appelant de prouver qu’il exerçait son activité de location commerciale avec des attentes raisonnables de profit en 2005, en 2006 et en 2007, malgré ces pertes continues. Je ne suis pas convaincu que l’appelant s’est déchargé du fardeau de la preuve.
+[57] Dans l’arrêt Stewart c. Canada, la Cour suprême du Canada a fait référence aux critères objectifs suivants, qui ont été formulés dans l’arrêt Moldowan c. La Reine, 1 R.C.S. 480 et qui devraient être pris en considération dans une analyse de l’attente raisonnable de profit :
+[…] l’état des profits et pertes pour les années antérieures, la formation du contribuable et la voie sur laquelle il entend s’engager, la capacité de l’entreprise, en termes de capital, de réaliser un profit après déduction de l’allocation à l’égard du coût en capital.
+[58] La formation du contribuable n’est pas un critère particulièrement pertinent en l’espèce et je ne lui accorde aucun poids.
+[59] J’ai déjà mentionné les pertes qui ont été subies de manière continue depuis le moment où l’appelant a acheté l’immeuble. Cet élément fait pencher la balance dans le sens inverse d’une attente raisonnable de profit. L’appelant avait apparemment l’intention de réparer les étages supérieurs pour qu’ils puissent aussi être loués. Il a déclaré que s’il avait trois locaux commerciaux à louer, il pourrait réaliser un profit. Toutefois, considérant le temps qui s’est écoulé depuis la date d’acquisition de l’immeuble, je conclus que la réparation des étages supérieurs n’était pas une priorité pour l’appelant, ou qu’il n’avait pas les moyens de mener ces réparations à bien.
+[60] De même, l’appelant n’a pas démontré que, même dans le cas où il aurait réparé les étages supérieurs, il y aurait eu suffisamment de demande à Cochrane pour lui permettre de louer ces espaces. En fait, il apparaît clairement que l’appelant n’est même pas parvenu à louer l’espace commercial limité qui était disponible en 2005, en 2006 et en 2007.
+[61] Finalement, l’appelant a admis qu’il ne pouvait pas réaliser de profit sur l’espace commercial à louer tel qu’il existait en 2005, en 2006 et en 2007.
+[62] Il n’y a aucun critère objectif qui appuie la conclusion selon laquelle l’appelant exerçait son activité de location commerciale avec des attentes raisonnables de profit, et son avocat n’a pas laissé entendre que d’autres facteurs devraient être pris en considération.
+[63] Sur cette base, je conclus que l’activité de location commerciale de l’appelant n’était pas une activité commerciale au sens du paragraphe 123(1) de la Loi sur la taxe d’accise.
+[64] Pour l’ensemble de ces motifs, l’appel en matière d’impôt sur le revenu est accueilli en partie, et les nouvelles cotisations seront déférées au ministre pour nouvelle cotisation, compte tenu du fait que l’appelant a le droit de déduire les montants additionnels dont il a été question au début des présents motifs ainsi que 6 900 $ au titre des frais de réparation et d’entretien additionnels pour l’année d’imposition 2007. L’appel en matière de TPS est rejeté.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 3e jour de janvier 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2012 CCI 405
+NO DU DOSSIER DE LA COUR : 2011-2064(IT)I
+INTITULÉ : Michael Palangio c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 16 novembre 2012
+COMPARUTIONS :
+Représentant de l’appelant :
+M. David Piccolo
+Avocat de l’intimée :
+M. Stephen Oakey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

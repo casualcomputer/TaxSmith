@@ -1,0 +1,271 @@
+Title: Soulliere c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482878/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-67-482878-soulliere-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-07-23
+
+# Soulliere c. La Reine
+
+- Citation: 2020 CCI 67
+- Decision date: 2020-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4596, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soulliere c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-23
+Référence neutre
+2020 CCI 67
+Numéro de dossier
+2016-2677(GST)I, 2016-2767(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2767(IT)G
+2016-2677(GST)I
+ENTRE :
+RYAN EDMOND SOULLIERE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 mars 2020 à Windsor (Ontario)
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Avocat de l’appelant :
+Me Craig J. Allen
+Avocat de l’intimée :
+Me Dustin Kenall
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est rejeté. Les dépens sont adjugés à l’intimée.
+Si les parties ne parviennent pas à s’entendre sur les dépens dans les 45 jours suivant la date du présent jugement, elles déposeront des observations écrites d’au plus six pages dans les 60 jours suivant la date du présent jugement [1] .
+Signé à Ottawa, Canada, ce 23e jour de juillet 2020.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 2e jour d'octobre 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 67
+Date : 20200723
+Dossier : 2016-2767(IT)G
+2016-2677(GST)I
+ENTRE :
+RYAN EDMOND SOULLIERE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+[1] La présente affaire porte sur la responsabilité des administrateurs. Des cotisations ont été établies à l’égard de l’appelant, en application de l’article 227.1 de la Loi de l’impôt sur le revenu et de l’article 323 de la Loi sur la taxe d’accise, en lien, respectivement, avec des retenues d’impôt à la source et à des montants de la taxe sur les produits et services (TPS) nette qui n’ont pas été versés. Comme dans de nombreuses affaires portant sur la responsabilité des administrateurs, les circonstances sous-jacentes en l’espèce sont malheureuses.
+[2] Le montant des cotisations n’est pas en cause, et le moyen de défense de diligence raisonnable n’est pas soulevé en l’espèce.
+[3] Selon le paragraphe 227.1(4) de la Loi de l’impôt sur le revenu et le paragraphe 323(5) de la Loi sur la taxe d’accise, toute cotisation au titre de la responsabilité des administrateurs doit être établie dans les deux ans suivant la date à laquelle l’administrateur « [...] cesse pour la dernière fois d’être un administrateur de cette société ».
+[4] Les cotisations en cause ont été établies le 25 juillet 2014. Elles portent sur des sommes qui n’ont pas été versées par la société Metro Catering & Vending Services (2010) Inc. Je désignerai cette société sous le nom de Metro 2010.
+[5] Les deux cotisations se rapportent à des versements qui n’ont pas été faits et qui totalisent environ 65 000 $. Les cotisations relatives à la TPS concernent les sommes exigibles pour les périodes mensuelles ayant pris fin le 31 août 2012 et le 30 septembre 2012, et celles relatives aux retenues d’impôt à la source portent sur l’année d’imposition 2012 [2] .
+[6] Metro 2010 a été constituée en société le 1er novembre 2010; l’appelant était l’administrateur lors de la constitution et le seul administrateur de la société. Selon le rapport sur le profil de la société, l’appelant était également le président et le secrétaire de la société, et sa mère en était la trésorière [3] . Lors de son témoignage, l’appelant a déclaré qu’il ne savait pas que sa mère était la trésorière de la société.
+[7] L’appelant ne détenait aucune participation dans Metro 2010.
+[8] Aucun autre administrateur de Metro 2010 n’a été nommé ou élu.
+[9] Metro 2010 exploitait des camions de cuisine de rue et des distributeurs automatiques.
+[10] Metro 2010 a cessé ses activités le ou vers le 30 septembre 2012.
+[11] L’appelant soutient qu’il a cessé d’être administrateur le 10 décembre 2010 et que la cotisation qui a été établie à son égard l’a été plus de deux ans après cette date. L’intimée conteste cette affirmation [4] .
+[12] Après avoir démissionné de son poste d’administrateur, l’appelant a continué de travailler pour Metro 2010 jusqu’à ce que l’entreprise cesse ses activités.
+[13] Si l’appelant a cessé d’être administrateur en décembre 2010, les appels doivent être accueillis. En revanche, s’il n’a pas cessé de l’être, les appels doivent être rejetés.
+[14] Cette affaire soulève une question de fait. Elle soulève également une question de droit; le différend relève du droit des sociétés ontarien.
+[15] La thèse de l’intimée comporte deux volets :
+l’appelant n’a jamais démissionné;
+même s’il a démissionné, selon les dispositions de la Loi sur les sociétés par actions de l’Ontario, sa démission ne pouvait prendre effet; il a donc continué d’être administrateur, et les cotisations sont opportunes.
+[16] Il n’y a rien dans les faits de l’espèce ou dans les dispositions législatives pertinentes qui donnerait lieu à une issue différente, qu’il s’agisse des cotisations au titre de l’impôt sur le revenu ou de la taxe sur les produits et services.
+[17] Avant la création de Metro 2010, le père de l’appelant exploitait une entreprise comparable qui avait été créée durant les années 1960; cette entreprise ne possédait au début que deux camions de cuisine de rue, mais elle a par la suite pris de l’expansion et est devenue relativement grande et prospère. Je désignerai cette société sous le nom de Metro Windsor. Durant la première décennie du XXIe siècle, Metro Windsor a commencé à éprouver d’importantes difficultés, attribuables à la conjoncture économique difficile à Windsor, en particulier dans le secteur de l’automobile. Ces difficultés ont finalement abouti à la mise sous séquestre de Metro Windsor, en 2010.
+[18] L’appelant a grandi à Windsor et, durant ses études, il a travaillé pendant de nombreux étés pour Metro Windsor. À la fin de ses études secondaires, il a quitté Windsor pour poursuivre ses études et il a par la suite travaillé dans le domaine de la radiodiffusion.
+[19] Il est revenu à Windsor en 2001 et a travaillé pour Metro Windsor. Il a alors constaté que la société éprouvait de plus en plus de difficultés.
+[20] Durant son témoignage, l’appelant a déclaré que son père était venu le voir un jour pour lui dire qu’il devait signer des papiers sur-le-champ, sans quoi la société serait forcée de cesser ses activités le lendemain. Les documents qu’il a alors signés ont abouti à la création de Metro 2010, dont il était l’unique administrateur.
+[21] Lorsque Metro Windsor a été mise sous séquestre, l’appelant a continué de faire chez Metro 2010 essentiellement le même travail qu’il faisait immédiatement avant la création de cette entreprise, c’est-à-dire diriger les activités quotidiennes, la majeure partie de son temps étant consacrée – au sens métaphorique – à « jouer les pompiers ».
+[22] Durant son témoignage, l’appelant a précisé que son père était responsable de la gestion globale de Metro 2010.
+[23] Concrètement, il semble que Metro 2010 ait poursuivi essentiellement les mêmes activités que Metro Windsor.
+[24] Sur le plan juridique, toutefois, la situation est moins claire. Il semble que le séquestre de Metro Windsor ait décidé de ne pas diriger l’entreprise et ait accepté que la famille Soulliere crée une nouvelle société pour mener les activités de l’ancienne société, dans l’espoir que la vente d’une entreprise en activité générerait un meilleur prix. À cette fin, le séquestre a conclu un « accord d’occupation » avec Metro 2010 [5] .
+[25] Quoi qu’il en soit, il ne ressort nullement des éléments de preuve, fût-ce implicitement, que Metro 2010 a été mise sous séquestre.
+[26] Je commencerai mon analyse par l'examen de la thèse subsidiaire de l’intimée. À cette fin, je tiendrai pour acquis, sans toutefois trancher la question, que l’appelant a démissionné, en ce sens qu’il a signé une lettre de démission et qu’il l’a remise à la société le 10 décembre 2010. Je tiendrai également pour acquis, là encore sans trancher la question, que le père de l’appelant gérait Metro 2010.
+[27] Les dispositions suivantes de la Loi sur les sociétés par actions de l’Ontario sont pertinentes :
+PARTIE IX
+ADMINISTRATEURS ET DIRIGEANTS
+Administrateurs
+115 (1) Sous réserve de toute convention unanime des actionnaires, les administrateurs dirigent ou supervisent les activités commerciales et les affaires internes de la société.
+[…]
+Conseil d’administration
+[…]
+Administrateurs réputés
+(4) Si tous les administrateurs démissionnent ou sont destitués par les actionnaires sans être remplacés, quiconque dirige ou supervise les activités commerciales et les affaires internes de la société est réputé un administrateur pour l’application de la présente loi.
+Exceptions
+(5) Le paragraphe (4) ne s’applique pas aux personnes suivantes :
+a) le dirigeant qui dirige les activités commerciales de la société sous la direction ou le contrôle d’un actionnaire ou d’une autre personne;
+b) l’avocat, le comptable ou tout autre professionnel qui participe à la direction de la société uniquement dans le but de fournir des services professionnels;
+c) le syndic de faillite, le séquestre, l’administrateur-séquestre ou le créancier garanti qui [...]
+[…]
+Première réunion du conseil d’administration
+117 (1) Après la constitution de la société se tient une réunion du conseil d’administration au cours de laquelle les administrateurs peuvent :
+a) adopter des règlements administratifs;
+b) adopter des formules de certificats de valeurs mobilières et de registres sociaux;
+c) autoriser l’émission de valeurs mobilières;
+d) nommer des dirigeants;
+e) nommer un ou plusieurs vérificateurs dont le mandat expire à la première assemblée annuelle ou extraordinaire des actionnaires;
+f) prendre avec les banques toutes les mesures nécessaires;
+g) traiter toute autre question.
+Résolution écrite
+(2) […]
+[…]
+Premiers administrateurs
+119 (1) Le mandat des administrateurs désignés dans les statuts commence à la date d’endossement du certificat de constitution et se termine à la première assemblée des actionnaires.
+Démission
+(2) Jusqu’à la première assemblée des actionnaires, la démission d’un administrateur désigné dans les statuts ne prend effet que si, au moment où sa démission doit prendre effet, un successeur a été élu ou nommé.
+Pouvoirs et fonctions
+(3) Les premiers administrateurs de la société désignés dans les statuts exercent les pouvoirs et les fonctions et assument les responsabilités des administrateurs.
+Élection des administrateurs
+(4) Sous réserve de l’alinéa 120 a), les actionnaires, à leur première assemblée, ainsi qu’à toute assemblée annuelle subséquente à laquelle il faut élire des administrateurs, élisent des administrateurs dont le mandat expire au plus tard à la clôture de la troisième assemblée annuelle qui suit l’élection.
+Mandat des administrateurs
+(5) Il n’est pas nécessaire que le mandat de tous les administrateurs élus à une assemblée des actionnaires soit de la même durée.
+Idem
+(6) Le mandat d’un administrateur élu pour une durée non expressément déterminée prend fin à la clôture de la première assemblée annuelle qui suit son élection.
+Idem
+(7) Malgré les dispositions du présent article, le mandat des administrateurs, à défaut d’élection de nouveaux administrateurs à une assemblée des actionnaires, se poursuit jusqu’à l’élection de leurs remplaçants.
+Défaut d’élire le nombre requis d’administrateurs
+(8) […]
+Consentement exigé
+(9) […]
+Vote cumulatif
+120
+[...]
+121 (1) Le mandat d’un administrateur prend fin lorsque se produit l’un des événements suivants :
+a) il décède ou, sous réserve du paragraphe 119 (2), il démissionne;
+b) il est destitué en vertu de l’article 122;
+c) il devient inhabile aux termes du paragraphe 118 (1).
+Idem
+(2) La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+Destitution des administrateurs
+122 (1) Sous réserve de l’alinéa 120 f), les actionnaires d’une société peuvent, à une assemblée annuelle ou extraordinaire, destituer un administrateur par voie de résolution ordinaire.
+Idem
+(2) […]
+[…]
+Devoirs des administrateurs, etc.
+134 (1) Les administrateurs et les dirigeants, dans l’exercice de leurs fonctions pour le compte de la société, agissent :
+a) d’une part, avec intégrité et de bonne foi au mieux des intérêts de la société;
+b) d’autre part, avec le soin, la diligence et la compétence dont ferait preuve, dans des circonstances semblables, une personne d’une prudence raisonnable.
+Obligation d’observer la présente loi
+(2) Les administrateurs et les dirigeants d’une société observent la présente loi, les règlements, les statuts, les règlements administratifs ainsi que toute convention unanime des actionnaires.
+Impossibilité d’exonération de la responsabilité
+(3) [...]
+PARTIE XVIII
+DISPOSITIONS GÉNÉRALES
+Avis aux administrateurs ou aux actionnaires
+262 (1) […]
+Idem
+(2) […]
+Administrateurs
+(3) Les administrateurs dont le nom figure dans les statuts ou le dernier rapport ou avis déposé aux termes de la Loi sur les renseignements exigés des personnes morales ou d’une loi que celle-ci remplace, sont présumés, pour l’application de la présente loi, être administrateurs de la société qui est mentionnée dans les statuts, le rapport ou l’avis.
+Avis retournés
+[…]
+Avis à la société
+263 (1) Sauf disposition contraire de la présente loi, les avis ou documents à envoyer à la société peuvent l’être par courrier affranchi au siège social de la société indiqué dans les dossiers du directeur ou remis à cet endroit à la société. Celle-ci est réputée les avoir reçus le cinquième jour qui suit leur mise à la poste.
+[…]
+[28] L’appelant soutient que, selon le paragraphe 121(2) de la Loi sur les sociétés par actions de l’Ontario, sa démission a pris effet à la date à laquelle la société l’a reçue. Le paragraphe 121(2) se lit comme suit :
+(2) La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+[29] Comme l’appelant a déclaré qu’il avait rédigé et signé sa lettre de démission et qu’il s’était rendu au bureau de son père, dans les locaux de la société, le 10 décembre 2010, il soutient que sa démission a pris effet cette journée-là.
+[30] L’intimée invoque, en réponse, le paragraphe 119(2) de la Loi sur les sociétés par actions de l’Ontario :
+Démission
+(2) Jusqu’à la première assemblée des actionnaires, la démission d’un administrateur désigné dans les statuts ne prend effet que si, au moment où sa démission doit prendre effet, un successeur a été élu ou nommé.
+[31] Or, la société n’a jamais tenu de première assemblée des actionnaires; l’intimée fait donc valoir que, selon le paragraphe 119(2), la démission n’a jamais pris effet, de sorte que l’appelant a continué d’être administrateur [6] .
+[32] En réponse à ce dernier point, l’appelant invoque le paragraphe 115(4) :
+(4) Si tous les administrateurs démissionnent ou sont destitués par les actionnaires sans être remplacés, quiconque dirige ou supervise les activités commerciales et les affaires internes de la société est réputé un administrateur pour l’application de la présente loi.
+[33] L’appelant soutient qu’une personne réputée être un administrateur au sens du paragraphe 115(4) équivaut à une personne « nommée » au sens du paragraphe 119(2).
+[34] Par conséquent, comme le père de l’appelant était chargé de la gestion globale de Metro 2010 et qu’il avait de ce fait été « nommé » en application du paragraphe 115(4), le paragraphe 119(2) ne jouait pas; la démission de l’appelant avait donc pris effet le 10 décembre 2010 [7] .
+[35] Je rejette l’argument de l’appelant, mais je retiens la position de l’intimée pour deux raisons.
+[36] Premièrement, comme le soutient correctement l’intimée, il existe un ordre séquentiel et que la personne qui dirige une société ne peut être réputée en être administrateur en application du paragraphe 115(4) de la Loi sur les sociétés par actions que si tous les administrateurs ont démissionné ou ont été destitués. Or, comme la démission de l’appelant ne pouvait prendre effet, selon le paragraphe 119(2) de la Loi, il s’ensuit que la condition préalable essentielle énoncée au paragraphe 115(4) n’était pas remplie; le père de l’appelant ne pouvait donc pas être réputé administrateur aux termes du paragraphe 115(4).
+[37] Deuxièmement, je conclus également que, quoi qu’il en soit, lorsqu'une personne est réputée administrateur en application du paragraphe 115(4), cela ne constitue pas une nomination au sens du paragraphe 119(2), et ce, pour les motifs suivants.
+[38] La Loi sur les sociétés par actions utilise le mot « nommé » dans plusieurs dispositions et il ne fait aucun doute, lorsqu’on examine cette loi dans son ensemble, que cela renvoie à des mécanismes de nomination très précis. L’article 107, par exemple, définit un processus pour la nomination des administrateurs par le tribunal [8] .
+[39] Lorsqu’on interprète des textes législatifs, on doit présumer que l’intention du législateur est de donner une interprétation uniforme à la terminologie qui y est utilisée, à moins qu’il n’existe de bonnes raisons de conclure le contraire. On doit donc présumer que le renvoi à un administrateur nommé, au paragraphe 119(2), s’entend d’une personne qui a été nommée conformément aux autres dispositions de la Loi.
+[40] Il s’ensuit que l’appelant est demeuré administrateur aux termes du droit des sociétés ontarien [9] .
+[41]
+[42] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2020.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 2e jour d'octobre 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 67
+NO DU DOSSIER DE LA COUR :
+2016-2767(IT)G
+2016-2677(GST)I
+INTITULÉ :
+RYAN EDMOND SOULLIERE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 4 mars 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DE PUBLICATION DE LA TRANSCRIPTION :
+Le ou vers le 9 avril 2019
+DATE DU JUGEMENT :
+Le 23 juillet 2020
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Craig J. Allen
+Avocat de l’intimée :
+Me Dustin Kenall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Craig J. Allen
+Cabinet :
+Craig Allen Law
+Windsor (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Il pourrait être utile aux parties de savoir qu’aucun des éléments qui m’ont été présentés à l’audience ne m’inciterait à m’écarter du tarif pour l’adjudication des dépens. Il pourrait toutefois exister d’autres éléments dont je n’ai pas été informé.
+[2] Voir la première page des deux rapports sur une opposition – pièce J-2, onglet 3, et pièce J-1, onglet 3. Comme l’appelant était un employé de la société, il est probable qu’une partie des retenues à la source non versées se rapportait à des retenues sur son salaire.
+[3] Voir l’onglet 13, pièce J-1.
+[4] Voir l’avis d’appel et la réponse à l’avis d’appel.
+[5] Voir les deuxième et troisième pages de l’onglet 10, pièce J-1. Les éléments de preuve ne précisent pas les modalités de cet accord.
+[6] Voir la décision Zwierschke v. MNR [1991] 2 CTC 2783, où le juge Mogan a conclu que, selon le paragraphe 119(2) de la Loi sur les sociétés par actions de l’Ontario, une démission ne prend effet que si un successeur a été élu ou nommé. Dans la décision Zwierschke, personne n’avait contesté le fait qu’un administrateur de facto avait été nommé aux termes de la disposition déterminative du paragraphe 115(4). Même si, dans la décision Bozzo c. La Reine [2001] 1 CTC 2461, le juge Teskey a établi une distinction par rapport à la décision Zwierschke du fait que le paragraphe 119(2) avait ultérieurement été modifié, je ne peux souscrire à cette interprétation du juge Teskey, car la modification n’a pas modifié le fondement de l’application de la Loi sur les sociétés par actions de l’Ontario. De fait, la doctrine professée par la décision Zwierschke a été retenue par le juge Rossiter, tel était alors son titre, dans la décision Sheperd c. La Reine, 2008 CCI 361, ainsi que par la juge D’Auray dans la décision Doncaster c. La Reine, 2015 CCI 127. L’appelant a également cité la décision Moll c. La Reine, 2008 CCI 234. Cependant, je ne crois pas que la juge, dans la décision Moll, en soit arrivée à une conclusion différente de celle formulée dans la décision Zwierschke. Bien qu’une observation générale au paragraphe 18 de la décision Moll précise qu’un administrateur peut démissionner, cette observation doit être interprétée en tenant compte du fait qu’il était inutile pour la Cour, dans cette affaire, d’examiner l’application du paragraphe 119(2) de la Loi sur les sociétés par actions de l’Ontario – voir la dernière phrase du paragraphe 17 où il est clairement indiqué qu’aucun élément de preuve n’indiquait que l’appelant avait été désigné à titre d’administrateur dans les statuts constitutifs.
+[7] Il semble qu’aucun argument du genre n’ait été invoqué dans la décision Zwierschke.
+[8] Le mot nommé, ou l’un de ses dérivés, est également utilisé aux paragraphes 124(1) et (2) et aux alinéas 186(3)b) et 248(3)e) de la Loi sur les sociétés par actions.
+[9] Étant donné la conclusion à laquelle j’en suis arrivé, il n’est pas vraiment nécessaire pour moi de statuer sur les autres questions en litige : 1) Le père de l’appelant gérait-il Metro 2010? 2) i) L’appelant a-t-il signé la lettre de démission le 10 décembre 2010 et ii) l’a-t-il remise à son père le même jour, dans les locaux de la société? 3) Si la réponse à ces deux questions est affirmative, était-ce suffisant pour que cela constitue une démission?
+J’examinerai néanmoins brièvement ces questions. Les deux premières sont des questions de fait, alors que la troisième est essentiellement une question de droit, compte tenu des faits.
+Premièrement, d’après les éléments de preuve présentés, je n’ai aucune raison de mettre en doute les éléments de preuve de l’appelant selon lesquels son père s’occupait de la gestion globale de l’entreprise; cela est conforme à l’historique général de Metro Windsor ainsi qu’au but de Metro 2010 qui était d’exploiter Metro Windsor. Je conclus que le père de l’appelant gérait bel et bien l’entreprise.
+Deuxièmement, en ce qui a trait à la démission, je note que les parties ont admis les pièces et ont notamment convenu de leur authenticité (voir la page 6 de la transcription). La lettre de démission fait partie de ces pièces (onglet 10 de la pièce J-1). Bien qu’il existe d’autres éléments de preuve qui pourraient aller dans le sens d'une conclusion différente, je dois tenir pour acquis que la lettre a été signée par l’appelant le 10 décembre 2010, étant donné la reconnaissance de l’authenticité de la preuve par les parties.
+Reste maintenant la question de la remise de la lettre. Si je pars du fait que la lettre a bel et bien été signée le 10 décembre 2010, je ne vois rien dans les éléments de preuve qui m’inciterait à rejeter le témoignage de l’appelant selon lequel il a quitté son bureau après avoir signé la lettre pour se rendre au bureau de son père et lui remettre la lettre.
+Je conclus que l’appelant a remis sa lettre de démission à son père, dans les locaux de l’entreprise, le 10 décembre 2010.
+Enfin, en ce qui concerne la question de savoir si la rédaction et la signature de la lettre de démission, et sa remise au père dans les locaux de la société, sont suffisantes pour constituer une démission effective, le point de départ de la réponse se trouve dans les dispositions suivantes des articles 121 et 263 de la Loi sur les sociétés par actions :
+121 (1) Le mandat d’un administrateur prend fin lorsque se produit l’un des événements suivants :
+a) [...] il démissionne;
+b) [...]
+Idem
+(2) La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+[…]
+Avis à la société
+263 (1) Sauf disposition contraire de la présente loi, les avis ou documents à envoyer à la société peuvent l’être par courrier affranchi au siège social de la société indiqué dans les dossiers du directeur ou remis à cet endroit à la société. Celle-ci est réputée les avoir reçus le cinquième jour qui suit leur mise à la poste.
+La Loi ne prévoit aucune autre formalité.
+Comme il s’agit d’une question de droit et qu’il n’est pas vraiment nécessaire que j’y réponde, je choisis de ne pas le faire.
+Je ferai néanmoins les observations suivantes.
+Le paragraphe 134(1) dispose ce qui suit :
+Devoirs des administrateurs, etc.
+134 (1) Les administrateurs et les dirigeants, dans l’exercice de leurs fonctions pour le compte de la société, agissent :
+a) d’une part, avec intégrité et de bonne foi au mieux des intérêts de la société;
+b) d’autre part, avec le soin, la diligence et la compétence dont ferait preuve, dans des circonstances semblables, une personne d’une prudence raisonnable.
+Il s’ensuit de cette obligation qu’un administrateur doit agir avec diligence lorsqu’il démissionne. Je conviens avec l’intimée qu’un administrateur ne peut pas simplement se présenter au siège d’une société et remettre une lettre de démission à un pur étranger qui se trouve dans le hall.
+Il est possible que la remise de la lettre au père de l’appelant ait été appropriée, mais, comme je l’ai mentionné, je ne statuerai pas sur cette question. Même si nous savons que le père s’occupait de la gestion globale de l’entreprise, il n’était pas un dirigeant de la société et, d’après les éléments de preuve présentés, nous ne savons pas s’il était un employé; de fait, les éléments de preuve ne semblent pas préciser s’il était un actionnaire.

@@ -1,0 +1,149 @@
+---
+title: "Cheikhezzein v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64569/index.do"
+last_modified: "2013-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 348"
+citation2: ""
+neutral_citation: "2013 TCC 348"
+decision_date: "2013-11-01"
+language: "en"
+item_id: "64569"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5917
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:45:56.269000+00:00"
+cases_cited_count: 7
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9a6a1b0a25fe52acab72f55df9c8e0104a6da1ca84038c2eb299805958b1112"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cheikhezzein v. The Queen
+
+- Citation: 2013 TCC 348
+- Decision date: 2013-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5917, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheikhezzein v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-01
+Neutral citation
+2013 TCC 348
+File numbers
+2013-1587(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-1587(GST)G
+BETWEEN:
+EZZEDDINE CHEIKHEZZEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion dealt with by written submissions
+By: The Honourable Mr. Justice Randall S. Bocock
+Participants:
+Counsel for the Appellant:
+Courtney West
+Counsel for the Respondent:
+Tanis Halpape
+____________________________________________________________________
+ORDER
+UPON MOTION brought by the Respondent for an Order striking certain paragraphs from the Appellant’s Notice of Appeal pursuant to rule 53 of the Tax Court of Canada Rules (General Procedure);
+AND UPON reading the written submissions from respective counsel for the Appellant and Respondent, including the Amended Notice of Appeal dated September 30, 2013 submitted with the Appellant’s Supplemental Written Submissions, and in accordance with the Reasons for Order attached;
+THIS COURT ORDERS THAT:
+1. subparagraph 49(g), the final two sentences of paragraph 50 and the entirety of paragraphs 59, 60, 62, 63, 64, 65 and 66 of the Amended Notice of Appeal dated September 30, 2013 be struck;
+2. the Respondent shall have 60 days from the date hereof to file its Reply; and
+3. costs are awarded to the Respondent and fixed at $500.00.
+Signed at Toronto, Ontario, this 1st day of November 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 348
+Date: 20131101
+Docket: 2013-1587(GST)G
+BETWEEN:
+EZZEDDINE CHEIKHEZZEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+[1] The Respondent brings this motion to strike certain pleadings or portions of pleadings within the Appellant’s Notice of Appeal on the grounds such pleadings contain issues which: prejudice or delay a fair hearing, are frivolous, scandalous or vexatious and/or are an abuse of process (rule 53 of the Tax Court of Canada Rules (General Procedure)(the “Rules”)) because such pleadings offer grounds or claim relief or remedies in respect of which this Court has no jurisdiction.
+[2] Generally, the issues and claimed relief objected to in the Notice of Appeal encompass the following grounds for appeal: arbitrary search and seizure, claims of statutory abuse of process in assessment, and/or seizure of property without legal due process.
+[3] Originally, the motion contained allegations of certain impugned factual pleadings, but the parties resolved such issues prior to submitting the remaining claims in dispute by way of written representations. The presently impugned paragraphs in the Amended Notice of Appeal are reproduced in Appendix “A” to these Reasons for Order.
+[4] A review of the impugned grounds for the appeal and the relief sought narrows the issue for the Court in considering the motion to strike. That issue in question form is: Is it plain and obvious that the alleged violations of constitutional and quasi-constitutional rights, arising from the process of levying the assessment and/or conducting the audit, have no chance of success as grounds of appeal before the Tax Court of Canada?
+[5] In considering such a question, a fundamental assumption is made. The party subject to the motion to strike is entitled to have his/her facts assumed to be correct (to the extent they are properly pleaded). Logically, this assumption exists because weighing and assessing the facts requires hearing, weighing and deciding evidence. Once such a step is needed, the matter is necessarily dispatched to the discovery process and the trial judge: HSBC Bank Canada v The Queen, 2007 TCC 307, [2007] 5 CTC 2466.
+[6] After assuming the impugned party’s facts are true, the Court must pose certain questions in order to ascertain whether no chance of success for the impugned grounds of appeal exists: Is the issue one in respect of which the Court has no statutory jurisdiction? (R. v Imperial Tobacco Canada Ltd, 2011 SCC 42, [2011] SCJ No. 42(QL))? Even then, is it a precise ground or basis previously decided against an appellant, therefore failing within the doctrine of res judicata or issue estoppel? Apart from jurisdiction, does the relief sought and issues related to that relief constitute a legal right for which there exists no remedy in this Court? As well, are the relief and issues impugned masquerading as legal arguments or evidence?
+[7] Should any one of these questions be answered in the affirmative in respect of the impugned paragraph, the Court’s response is simple: the pleading shall be struck. Under the Rules of the Tax Court of Canada (rule 53) it will be struck on the bases that its retention would be vexatious, will cause delay and/or would constitute an abuse of process since this Court is powerless to entertain the pleading as an issue or ground of appeal because its outcome, that of failure, is legally pre-ordained.
+[8] The Respondent submits that issues and related grounds in any appeals before this Court concerning conduct, omissions and processes of the Minister of National Revenue, her agents and officers in investigating, auditing and assessing taxpayers (“Ministerial Conduct”) are not properly brought before this Court as a basis for appeal. Simply, the Respondent states there is no jurisdiction in this Court to allow an appeal and/or vacate an assessment no matter how egregious such Ministerial Conduct may be. The Respondent states the impugned pleadings contain just such allegations of Ministerial Misconduct.
+[9] The Respondent submits that none of the Charter of Rights and Freedoms, the Canadian Bill of Rights, natural justice, abuse of process or errors in law invalidate an assessment or render it void or voidable solely because of Ministerial Conduct. Before this Court the basis of appeal is entirely about the correctness and validity of the assessment and its quantum.
+[10] In reply, Appellant’s counsel argues these issues and grounds are properly pleaded because they have a real or at least some chance of success at a hearing. There is jurisdiction because the Tax Court of Canada may “vacate” an assessment based upon Ministerial Conduct (in assessment and collection) where section 8 and subsection 24(1) of the Charter and/or sections 1 and 2 of the Canadian Bill of Rights (“Constitutional Rights”) have been violated. Firstly, the Charter is remedial and informs a remedy where a breach occurs. Secondly, and related to the first, it is not plain and obvious that such grounds have no chance of success.
+[11] Further, the Appellant argues that the Respondent’s claim of abuse of process (rule 53(c)) as grounds to strike is unclear as to its application to constitutional rights: there is no prejudice, no manifest unfairness or misuse of the Court’s process where violations of constitutional rights are concerned. However, the Appellant did concede that a “clear–cut” absence of jurisdiction would likely be an abuse of process.
+[12] Finally, Appellant’s counsel argues there is no established legal authority for striking claims referring to section 8, and by implication subsection 24(1), of the Charter. In citing authority, counsel suggested Charter challenges to assessment practices were properly placed before this Court (Smith v Canada, 2006 BCCA 237, [2006] 4 CTC 73) and that the Charter could apply to collection and remittance practices of Crown agents (Deputy Minister of National Revenue (Customs, Excise & Taxation) v Millar, 2007 BCCA 401).
+[13] For the following reasons, the impugned paragraphs are to be struck.
+[14] The Appellant is correct that a violation of constitutional rights may very well apply to Ministerial Conduct; however, that begs the question as to this Court’s jurisdiction. This Court cannot begin the legal and factual inquiry into such an issue since it is a means without end; it is a potential right without a statutory remedy in this forum. The exclusive jurisdiction of this Court is statutory: to determine whether the taxpayer is liable for tax and the basis of its validity and correctness under the assessing sections of the relevant Acts, in this case the Excise Tax Act (the “Act”): subsection 299(4) and Section 306. That enumerated jurisdiction is exclusive, but its jurisdiction in respect of Ministerial Conduct, irrespective of the other statutes or rights invoked or violated, does not exist: Main Rehabilitation Co. v Canada, 2004 FCA 403, [2005] 1 CTC 212(FCA) at paragraphs 7 and 8; Webster v Canada, 2003 FCA 388, [2003] FCJ No. 1569(QL) at paragraph 21. Moreover, this Court lacks inherent jurisdiction and has not been given statutory jurisdiction to conduct an analysis into, assess evidence of or invalidate an assessment upon Ministerial Conduct because it is irrelevant to the validity and correctness of the assessment: Ronald Ereiser v Canada, 2013 FCA 20, [2013] 3 CTC 49(FCA) at paragraphs 31 to 33.
+[15] The Court observes that the Appellant’s counsel may have conflated “abuse of process” as described in rule 53(c) as a stand alone requirement for striking the impugned pleading. Simply put, if a pleading relates to a matter which cannot succeed because the Court lacks jurisdiction, then it is the retention of those “impossibly successful” pleadings which causes the delay (rule 53(a)), is frivolous (rule 53(b)) or is abusive (rule 53(c)).
+[16] To be clear, Ministerial Conduct has no bearing, given the Tax Court of Canada’s jurisdiction, on the outcome of the appeal before the Court which, by will of Parliament, must be an inquiry and determination limited to the validity and correctness of the assessment, not the methodology of how the decision to levy an assessment began, proceeded or came to be. Remedies related to that Ministerial Conduct, if same exist, do so elsewhere.
+[17] Given this Order and its Reasons, the Court feels compelled to point out what it is not being said by the Court. Constitutional rights may be invoked before this Court when they relate to the assessment, its applicability, inequality or non-compliance (Smith). However, the impugned paragraphs in this appeal relate exclusively to Ministerial Conduct.
+[18] Therefore, on the basis of the foregoing, the impugned paragraphs are struck from the Amended Notice of Appeal dated September 30, 2013, namely, subparagraph 49(g), the final two sentences of paragraph 50 and the entirety of paragraphs 59, 60, 62, 63, 64, 65 and 66. The Respondent shall have 60 days from the date hereof to file a Reply. Costs are fixed at $500.00 in favour of the Respondent.
+Signed at Toronto, Ontario, this 1st day of November 2013.
+“R.S. Bocock”
+Bocock J.
+Appendix “A”
+Impugned paragraphs identified in italics
+49. The issues in this Appeal are as follow:
+g. Whether the Respondent has violated the Appellant’s section 8 and section 12 Charter rights;
+50. The Appellant intends to rely on Excise Tax Act generally, and specifically on sections 238 and 296, and subsections 123(1), 165(1), 240(1), 301(1.1), 301(2), 301(3), 315(1), 315(3), 317, 319, and 320. The Appellant further intends to rely on Tax Court of Canada Rules (General Procedure) generally, and specifically on Rule 147. The Appellant further intends to rely on sections 8 , 12 and 24(1) of the Canadian Charter of Rights and Freedoms. The Appellant further intends to rely on subsection 1(a) and section 2 of the Canadian Bill of Rights.
+59. The Respondent has violated the Appellant’s section 8 Charter rights against arbitrary search and seizure.
+60. The Respondent’s exercise of assessment and collection powers must not interfere with the Appellant’s rights under the Charter, and where such rights were not respected, and such interference was not justified, the Appellant is entitled to apply to the Tax Court of Canada for a remedy under section 24(1) of the Charter.
+62. The Appellant further submits that subsection 1(a) of the Canadian Bill of Rights provides individuals with the right to the enjoyment of property, and the right not to be deprived thereof except by due process of law.
+63. The Appellant submits that the Respondent’s issuance of arbitrary assessments and corresponding confiscation of the Appellant’s funds was not in accordance with due process of the law.
+64. The Appellant submits that, were due process afforded to him, the Respondent would have provided him with the opportunity to make representations in regard to the proposed assessments, prior to the assessments being issued. He further submits that, were due process afforded to him, the Respondent would have taken into account the information which the Appellant provided to her after the assessments were issued, and would have issued reassessments accordingly.
+65. The Appellant submits that he continues to be deprived of the enjoyment of his property without the benefit of due process of law, and accordingly submits that the Respondent has applied its powers granted under the Excise Tax Act in a manner contrary to section 2 of the Canadian Bill of Rights.
+66. Accordingly, the Appellant respectfully submits that the arbitrary GST/HST assessments could be vacated, in the alternative, under the authority of the Canadian Bill of Rights.
+CITATION: 2013 TCC 348
+COURT FILE NO.: 2013-1587(GST)G
+STYLE OF CAUSE: EZZEDDINE CHEIKHEZZEIN AND THE QUEEN
+REASONS FOR ORDER BY: The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER: November 1, 2013
+PARTICIPANTS:
+Counsel for the Appellant:
+Courtney West
+Counsel for the Respondent:
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Courtney West
+Firm: Doris Law Office P.C.
+Ottawa, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

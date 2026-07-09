@@ -1,0 +1,204 @@
+Title: Universo Home Construction Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405305/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-87-405305-universo-home-construction-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-04-26
+
+# Universo Home Construction Ltd. c. La Reine
+
+- Citation: 2019 CCI 87
+- Decision date: 2019-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4396, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Universo Home Construction Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-26
+Référence neutre
+2019 CCI 87
+Numéro de dossier
+2018-1225(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-1225(GST)I
+ENTRE :
+UNIVERSO HOME CONSTRUCTION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 janvier 2019, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelante :
+Gurdev S. Dhesi
+Avocate de l’intimée :
+Me Natasha Tso
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté à l’égard de la nouvelle cotisation daté du 20 juin 2017 établie en application de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, dans sa version modifiée, pour la période s’écoulant du 1er janvier 2013 au 31 décembre 2013 (la « période ») est accueilli, sans dépens.
+L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Toronto (Ontario), ce 26e jour d’avril 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 87
+Date : 20190426
+Dossier : 2018-1225(GST)I
+ENTRE :
+UNIVERSO HOME CONSTRUCTION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] Monsieur Dhesi est l’agent, l’administrateur et l’unique actionnaire d’Universo Home Construction Ltd. (« Universo Homes »). Il introduit le présent appel au nom d’Universo Homes, car le ministre du Revenu national a refusé de lui octroyer le remboursement de la taxe de vente harmonisée pour les habitations neuves (le « remboursement »). Le remboursement a été attribué à Universo Homes par les nouveaux premiers acquéreurs occupants (le « nouvel acquéreur »).
+[2] Il ne fait nul doute que le remboursement accordé au nouvel acquéreur aurait autrement été accordé par le ministre si celui-ci l’avait demandé. Le ministre admet ce point. Conséquemment, le seul fondement légal pour le refus du remboursement repose sur le fait que le ministre estime qu’Universo Homes n’est pas le « constructeur » au sens des dispositions de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la « LTA »), dans sa version modifiée, portant sur la définition, l’affectation et le transfert du remboursement.
+A. LE RÉGIME LÉGISLATIF
+[3] Deux articles de la LTA sont applicables en l’espèce afin de déterminer, en premier lieu, si Universo Homes est un constructeur et, en deuxième lieu, si elle est un constructeur admissible au versement du remboursement.
+[4] Le remboursement pour les habitations neuves peut être versé au constructeur aux termes du paragraphe 254(4) de la LTA; conformément aux dispositions suivantes :
+Demande présentée au constructeur
+Le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété peut verser un remboursement à un particulier, ou en sa faveur, ou le porter à son crédit, dans le cas où, à la fois : a) le constructeur a effectué la fourniture taxable de l’immeuble ou du logement par vente au particulier auquel il en a transféré la propriété aux termes de la convention portant sur la fourniture;
+b) la taxe prévue à la section II a été payée, ou est payable, par le particulier relativement à la fourniture;
+c) le particulier présente au constructeur, en la forme et selon les modalités déterminées par le ministre, dans les deux ans suivant le jour du transfert au particulier de la propriété de l’immeuble ou du logement, une demande contenant les renseignements requis par le ministre et concernant le remboursement auquel il aurait droit selon les paragraphes (2) ou (2.1) s’il en faisait la demande dans le délai imparti; Unit…. .
+d) le constructeur convient de verser au particulier, ou en sa faveur, le remboursement qui est payable à celui-ci relativement à l’immeuble, ou de le porter à son crédit;
+e) la taxe payable relativement à la fourniture n’a pas été payée au moment de la présentation de la demande au constructeur et, si le particulier avait payé cette taxe et en avait demandé le remboursement,
+celui-ci aurait été payable au particulier selon les paragraphes (2) ou (2.1), selon le cas.
+[5] De façon similaire, rappelons les sections pertinentes de la définition de « constructeur », que l’on retrouve au paragraphe 123(1) à la LTA :
+constructeur [...] la personne qui, selon le cas :
+a) réalise, elle-même ou par un intermédiaire, à un moment où elle a un droit sur l’immeuble sur lequel l’immeuble d’habitation est situé :
+[...]
+(iii) dans les autres cas, la construction ou des rénovations majeures de l’immeuble d’habitation;
+b) acquiert un droit sur l’immeuble à un moment où :
+[...]
+(ii) dans les autres cas, l’immeuble d’habitation est en construction ou fait l’objet de rénovations majeures;
+[...]
+d) acquiert un droit sur l’immeuble d’habitation au moment suivant, en vue principalement soit d’effectuer par vente des fournitures de tout ou partie de l’immeuble, ou de droits sur celui-ci, soit d’effectuer des fournitures de tout ou partie de l’immeuble par bail, licence ou accord semblable au profit de personnes autres que des particuliers qui acquièrent l’immeuble ou la partie d’immeuble en dehors du cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial :
+(i) dans le cas d’un immeuble d’habitation en copropriété ou d’un logement en copropriété, soit à un moment où l’immeuble n’est pas enregistré à titre d’immeuble d’habitation en copropriété, soit avant qu’il soit occupé à titre résidentiel ou d’hébergement,
+[...]
+(ii) dans les autres cas, avant qu’il soit occupé à titre résidentiel ou d’hébergement;
+for the primary purpose of
+(iii) making one or more supplies of the complex or parts thereof or interests therein by way of sale, or
+[...]
+e) dans tous les cas, est réputée par le paragraphe 190(1) être le constructeur de l’immeuble.
+N’est pas un constructeur :
+f) le particulier visé aux alinéas a), b) ou d) qui, en dehors du cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial :
+i) soit construit ou fait construire l’immeuble d’habitation ou l’adjonction, ou y fait ou y fait faire des rénovations majeures,
+(ii) soit acquiert l’immeuble ou un droit afférent;
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade… [….]
+[6] Monsieur Dhesi s’est adressé à la Cour et a assisté à l’audience par l’entremise d’un interprète. Bien que ce soit ne soit pas particulièrement pertinent, je souligne généralement que tous les documents liés au remboursement, à son transfert à Universo Homes par le nouvel acquéreur, ainsi que tous les autres documents étaient rédigés en anglais. Conséquemment, ils étaient quelque peu plus complexes et surprenants pour M. Dhesi que ce n’aurait été autrement le cas dans d’autres circonstances. Nonobstant cette difficulté générale, M. Dhesi a colligé et présenté sa demande de remboursement ainsi que les documents connexes à la Cour de façon méthodique et exhaustive. Dans le présent appel, il convient de tenir compte des documents suivants.
+i) L’état des rajustements pour l’acquisition de la propriété située avenue 77B.
+[7] L’état des rajustements pour l’acquisition du terrain, daté du 27 octobre 2011, précède la demande de remboursement de plusieurs années. Il définit l’épouse de M. Dhesi, Sukhwinder Deshi (« Mme Dhesi »), à titre d’acquéresse de la propriété située au 21152, avenue 77B, Langley (Colombie-Britannique) (« la propriété de l’avenue 77B »). Le document ne relève aucun autre acquéreur.
+ii) Les relevés de comptes bancaires pour l’acquisition de la propriété de l’avenue 77B.
+[8] Les relevés de comptes bancaires ont été produits par Universo Homes. Ces documents exposent que la principale source des fonds déposés pour l’acquisition de la propriété de l’avenue 77B provient de Mme Dhesi; à la fois le dépôt de 15 000 $ et le solde dû à la signature de 100 765,16 $. La propriété a été acquise le 27 octobre 2011.
+iii) L’état des rajustements pour la vente de la propriété de l’avenue 77B.
+[9] L’état des rajustements sur l’aliénation de la propriété de l’avenue 77B, daté du 25 janvier 2013, identifie le nouvel acquéreur, la propriété, le prix d’acquisition, la somme exacte en TVH ainsi que le montant du remboursement. Le remboursement a été dûment présenté au crédit au vendeur. Le vendeur est identifié comme étant Mme Dhesi. Aucune autre partie n’est nommée comme vendeur sur l’état des rajustements La vente est datée du 25 janvier 2013.
+iv) Le certificat de remboursement de la taxe de vente harmonisée pour les habitations neuves.
+[10] Ce certificat contenait les déclarations habituelles du nouvel acquéreur quant à son intention d’habiter la propriété et d’en faire sa résidence habituelle. Le certificat identifie seulement Mme Dhesi en tant que vendeur.
+v) La demande de remboursement de la taxe de vente harmonisée pour les habitations neuves.
+[11] Ce document a été soumis au nom d’Universo Homes. Le ministre ne conteste ni la somme, ni le crédit accordé au nouvel acquéreur à la signature et ni la fourniture taxable ayant été réalisée. Ce document a été produit par M. Dhesi. Une fois de plus, le principal enjeu demeure la question à savoir si Universo Home était un constructeur au sens de la LTA.
+vii) La déclaration de la convention de fiducie et de mandat.
+[12] Ce document, comme l’énonce son titre, vise à classifier l’intérêt de Mme Dhesi dans la propriété de l’avenue 77B comme étant celui d’une mandataire et simple fiduciaire pour le compte exclusif d’Universo Home, à titre de propriétaire principal et bénéficiaire. Ce document, long de plusieurs pages, comprend toutes les dispositions nécessaires pour établir une fiducie à l’égard d’un bien immobilier. Quant à la chronologie, la disposition suivante énonce ce qui suit dès le début du document :
+[traduction]
+Déclaration de convention de fiducie et de mandat
+La présente ENTENTE entre en vigueur le 27 octobre 2011; toutefois, elle ne sera pas exécutée avant d’être signée par le signataire autorisé.
+[13] L’entente prévoit les suivantes en conclusion, tout juste avant les lignes de signature :
+[traduction]
+EN FOI DE QUOI les parties ont signé le présent contrat qui entre en vigueur à la première date indiquée ci-dessus.
+[14] Les signatures du document indiquent que Mme Dhesi est mandataire, tandis que M. Dhesi est un signataire autorisé pour le bénéficiaire, le nom du bénéficiaire étant absent de la page des signatures, mais étant exposé dans le corps du texte.
+[15] La Cour remarque que l’avocat de l’intimée a présenté une version légèrement différente de cette entente à M. Dhesi durant son contre-interrogatoire. La deuxième version est identique, en ce qui a trait aux modalités; toutefois, et contrairement à l’autre version produite en interrogatoire-en-chef, celle-ci est paraphée à chaque page. De plus, les témoins à la page des signatures ne sont pas la même, et la signature de Mme Dhesi est différente.
+viii) Les états financiers et les déclarations de revenu d’Universo Homes.
+[16] Monsieur Dhesi a produit en preuve les états financiers, les déclarations de revenu des sociétés, les balances de vérification et le grand livre général d’Universo Homes. Ces documents portent trois exercices financiers et années d’imposition quant à la propriété de la propriété de l’avenue 77B. La capacité de M. Dhesi à repérer des inscriptions précises dans ces documents financiers était limitée; toutefois, il était formel que ceux-ci témoignaient de l’intérêt de bénéficiaire d’Universo Home dans la propriété de l’avenue 77B. Comme je l’indique ultérieurement dans les présents motifs, les documents financiers sont utiles, car ils témoignent des différentes transactions financières quant à l’acquisition, au financement, à l’achat et à l’aliénation de la propriété de l’avenue 77B ainsi que de certaines fournitures taxables connexes.
+B. LA QUESTION SOUMISE À LA COUR
+[17] La principale question à trancher par notre Cour, comme l’admet l’avocate de l’intimée, est à savoir si Universo Home est un « constructeur ». Le cas échéant, l’avocate reconnaît qu’Universo Home a droit au remboursement. Conséquemment, la Cour doit déterminer si Universo Home était titulaire d’un intérêt suffisant dans la propriété de l’avenue 77B durant la période visée étant donné ce qui suit :
+i) la convention de fiducie;
+ii) les actions des participants et des autres documents pertinents;
+iii) le fondement, eu égard à ces faits, outre la propriété bénéficiaire, selon lequel Universo Home détient un intérêt suffisant à titre de constructeur dans la propriété en cause.
+C. OBSERVATIONS ET POSITIONS DES PARTIES
+(i) Droits au privilège découlant des matériaux et de la main-d’œuvre
+[18] Durant les premières observations orales, la Cour a soulevé de la jurisprudence prévoyant certains fondements juridiques permettant à un entrepreneur de se saisir d’un intérêt suffisant dans une propriété, au moyen de ses droits au privilège découlant des matériaux et de la main-d’œuvre, pour ainsi se qualifier en tant que constructeur au sens du paragraphe 123(1). L’avocate de l’intimée ne connaissait pas cette jurisprudence lorsqu’elle lui a été présentée. Par souci d’équité, la Cour a accordé 30 jours à l’intimée afin qu’elle puisse présenter de brèves observations seulement sur celle-ci. L’appelante a obtenu un délai de 30 jours pour soumettre sa réponse. Les deux parties ont présenté des observations qui ont, le cas échéant, été prises en compte par la Cour aux fins des présents motifs.
+(ii) Les observations de l’intimée
+[19] Le ministre soutient que son refus d’accorder le remboursement à Universo Homes découle du fait que cette société n’est pas un constructeur au sens du paragraphe 123(1). Universo Home n’a pas acquis un intérêt dans la propriété de l’avenue 77B. Universo Home ne peut pas s’appuyer sur la convention de fiducie. Le ministre soutient que cette convention n’est pas exécutoire pour plusieurs motifs : les deux versions en font un élément de preuve peu fiable; la convention a fort probablement été exécutée par les signataires après la date d’acquisition; de plus, la date d’exécution ne peut être établie ni à partir de ce document ni de tout autre élément de preuve. Dans l’ensemble, les actions de Mme Dhesi, qui, à première vue, avait un droit légal et bénéficiaire, ainsi que de M. Dhesi, qui a financé l’acquisition de la propriété de l’avenue 77B, contredisent l’existence d’une fiducie ou d’un mandat en faveur d’Universo Home. Dans l’ensemble, il n’y a pas suffisamment d’étapes ou d’actions juridiques concrètes permettant, selon la prépondérance des probabilités, d’établir une fiducie ou un mécanisme semblable. À défaut d’une telle démonstration, Universo Home échoue à établir qu’elle était un constructeur ayant droit au transfert du remboursement en application du paragraphe 254(4).
+(iii) La position de l’appelante
+[20] Monsieur Dhesi a présenté les observations d’Universo Home par écrit. La Cour les résumerait comme suit : En ce qui a trait à la convention de fiducie, M. Dhesi a souligné que les deux signataires ont témoigné devant notre Cour. Les deux témoins ont affirmé avoir exécuté le document le 27 octobre 2011; Mme Dhesi a déposé un affidavit en ce sens devant notre Cour. Monsieur Dhesi n’a pas précisément expliqué l’existence de deux versions du même document; toutefois, il n’a pas tergiversé quant à la date d’exécution de la convention. Madame Dhesi était présente et a été assermentée, mais elle n’a pas été contre-interrogée à l’égard de son affidavit. Finalement, la propriété bénéficiaire de la propriété de l’avenue 77B par Universo Home est confirmée par l’examen des états financiers. Ces documents révèlent que la propriété de l’avenue 77B a été un actif d’Universo Home durant toute la période visée, comme le démontrent l’inscription et l’identification de l’acquisition, de la construction et de l’aliénation du bien.
+D. ANALYSE ET DÉCISION
+[21] L’intimée a revu sa position, après le dépôt des observations écrites, comme suit :
+(i) [traduction]
+La convention de fiducie est manifestement un écran créé ultérieurement. Elle n’est pas fiable, car il existe deux versions différentes de ce document. De plus, elle n’établit ni fiducie ni mandat légal et est, même en étant affaiblie et peu fiable, invalidée par les autres actions des principaux acteurs;
+(ii) Madame Dhesi a entrepris toutes les étapes de l’acquisition, de la vente et du transfert de la propriété de l’avenue 77B, sans informer quiconque, hormis vraisemblablement Universo Home et ses avocats, de l’existence d’une fiducie ou d’un mandat;
+(iii) La jurisprudence portant sur les droits au privilège à l’égard d’une propriété découlant des matériaux et de la main-d’œuvre en application de la Builder’s Lien Act SBC, 1997, ch. 45 (la « BLA ») se distingue de l’espèce, car Universo Home « n’était pas propriétaire » de la propriété de l’avenue 77B, et « fournissait simplement un service de construction », c’est-à-dire à titre d’entrepreneur général engagé pour construire la résidence pour le compte du propriétaire inscrit en titre. Aucun « élément de preuve ne démontre qu’Universo était titulaire d’un privilège ou qu’un privilège avait été enregistré, donnant droit à un intérêt à titre onéreux »;
+(iv) Finalement, même si l’entreprise était, par le fait de ses droits au privilège en raison de son apport en matériaux et en main-d’œuvre, un constructeur; en l’absence d’une fiducie ou d’un mandat valide, il ne s’agirait pas d’Universo Homes, mais de Mme Dhesi, car c’est elle qui a effectué la fourniture taxable au nouvel acquéreur admissible.
+[22] Le ministre n’a déposé aucun élément de preuve; il s’est appuyé sur ses hypothèses et des citations tirées du témoignage de M. Dhesi et de l’affidavit de Mme Dhesi. Les hypothèses pertinentes, résumées et modifiées (aux fins de la compréhension des présentes) du ministre sont les suivantes :
+[traduction] Madame Dhesi était propriétaire de la propriété de l’avenue 77B depuis le 27 octobre 2011, et ce, jusqu’à la date d’inscription de la vente de ladite propriété par madame;
+Durant la période de cette propriété, Universo Home n’a pas déclaré de TPS à payer à l’égard de l’acquisition du terrain lié à la propriété de l’avenue 77B;
+Universo Home était tenue de produire des déclarations annuelles de TPS;
+Universo Home n’avait pas, et n’a jamais eu, un intérêt légal ou bénéficiaire à l’égard de la propriété de l’avenue 77B.
+Madame Dhesi, et non Universo Home, était la vendeuse de la propriété de l’avenue 77B.
+[23] La convention de fiducie représente le cœur de la question dont est saisie notre Cour. En effet, le dédoublement de ce document devant notre Cour constitue la base de la prétention du ministre voulant qu’il s’agisse d’un écran, malheureux, car il échoue à établir les trois certitudes d’une fiducie. Le ministre se concentre sur l’apparence de conflit entre la date d’entrée en vigueur explicite et la date d’exécution réputée. Ainsi, il soutient implicitement que les éléments constitutifs d’une fiducie n’existaient pas avant que Mme Dhesi procède à l’acquisition de la propriété, à moins que les dates d’exécution et d’entrée en vigueur de la convention de fiducie soient toutes deux le 27 octobre 2011 (soit la date d’achat du terrain). Conséquemment, si elle n’a pas été exécutée à cette date, alors la date d’entrée en vigueur ne suffit pas pour établir que la fiducie était active à compter de ce moment et pour la suite.
+a) Y a-t-il suffisamment d’éléments de preuve étayant l’existence réelle d’une fiducie?
+[24] L’intimée a généralement raison lorsqu’elle avance les suivantes dans ses observations écrites :
+[traduction]
+« en l’absence d’éléments de preuve documentaire fiables de l’existence d’une convention de fiducie, il faudrait examiner l’état de la common law à l’égard des fiducies ».
+L’intimée poursuit que le fardeau revient à Universo Home de démontre que les exigences relatives à l’établissement d’une fiducie ont été satisfaites : Canpar Developments Inc. c. SMR, 2011 CCI 353.
+[25] Toutefois, je me permets de formuler quelques commentaires quant à ce raisonnement quasi motivationnel. L’énoncé de l’avocate de l’intimée devrait être modifié comme suit pour prendre en compte le droit ainsi que le dossier factuel de l’espèce [mes soulignements] :
+En l’absence d’éléments de preuve documentaire fiables du moment de l’exécution du document établissant une convention de fiducie, il faudrait examiner l’état de la common law à l’égard des fiducies.
+[26] En l’occurrence c’est le flou entourant la date d’exécution qui est source de confusion, et non pas la date explicite d’entrée en vigueur ou l’existence affirmée de la trilogie des certitudes nécessaires à la constitution d’une fiducie. La certitude de l’objet est énoncée dans le préambule : il s’agit de la propriété de l’avenue 77B. La certitude du but n’est pas mystérieuse : les paragraphes 2a) et b) déterminent expressément le lien fiduciaire, l’intérêt bénéficiaire d’Universo Home et l’intérêt purement légal de Mme Dhesi. La certitude de l’intention est claire et sans équivoque à la lumière du libellé direct qui sépare les composantes légales et bénéficiaires de la propriété au titre 1 sur la nomination et l’acceptation. Le ministre ne conteste pas l’effet légal réel de telles dispositions et modalités en soi; il conteste seulement leur existence au moment de la date d’entrée en vigueur. Or, tous les éléments susmentionnés entrent expressément en vigueur à la deuxième des deux dates, soit le 27 octobre 2011 ou l’exécution de la convention.
+[27] De plus, le ministre soutient que Universo Home et Mme Dhesi ne sont pas parvenus à illustrer la distinction entre la propriété légale et bénéficiaire en transmettant un avis à toutes les autres parties. Elle s’appuie principalement sur le fait que les documents relatifs à la vente et à l’achat de la propriété de l’avenue 77B ne déterminent pas la relation fiduciaire. Or, abstraction faite de la déclaration de la fiducie, la liste sommaire suivante des éléments de preuve déposés devant notre Cour démontre la division de la propriété légale et bénéficiaire :
+i) Tout au long de la durée de la propriété, les états financiers d’Universo Home témoignaient de son acquisition du terrain, des matériaux et des permis nécessaires à la construction de la propriété de l’avenue 77B.
+ii) Universo Home a assuré le service et a déduit les intérêts des prêts nécessaires au financement de l’acquisition de la propriété de l’avenue 77B.
+iii) Universo Home indique l’avance de fonds reçue de M. Dhesi pour l’acquisition du site de la propriété de l’avenue 77B dans ses états financiers;
+iv) Universo a inscrit dans ses livres les terres et les améliorations liées à l’immeuble de l’avenue 77B au chapitre de l’inventaire et a dûment indiqué la vente de celui-ci;
+v) Universo Home a payé la TVH (à l’époque) sur les fournitures, les matériaux, les électroménagers et les services de tiers et a réclamé le crédit de taxe de vente sur les intrants.
+[28] Ces documents détaillés produits par Universo Home démontrent un intérêt constant de propriétaire bénéficiaire sur le terrain et les améliorations qu’elle a apportées à la propriété de l’avenue 77B. De plus, Universo Home a présenté la demande de remboursement. Il y a là une distinction constante et marquée entre les rôles de propriétaire bénéficiaire et légal : Mme Dhesi a joué le rôle non contributif et passif d’un propriétaire du titre, tandis qu’Universo Home a joué le rôle actif et contributif du bénéficiaire dans l’acquisition, le développement et la vente de la propriété de l’avenue 77B.
+a) Y avait-il des droits au privilège?
+[29] La question des droits au privilège découlant des matériaux et de la main-d’œuvre est majoritairement théorique étant donnée l’existence factuelle d’une fiducie. Néanmoins, il est nécessaire de clarifier certains éléments. Il n’est pas exact au plan légal d’avancer que le fournisseur de la main-d’œuvre et des matériaux pour l’amélioration d’un terrain n’a aucun intérêt dans celui-ci, car il n’est pas propriétaire de la propriété améliorée : voir à ce sujet les alinéas 2d), e), f) et g) de la Builder’s Lien Act, SBC, 1997, ch. 45 (la « BLA »). Les droits des travailleurs et des fournisseurs au privilège des constructeurs reposent sur l’opposition de ce droit légal et de créance à la propriété franche ou au droit de tenure de bail du propriétaire en titre, particulièrement en dépit du fait que le créancier privilégié ne soit pas le propriétaire inscrit.
+[30] En outre, même si Universo Home n’avait pas été le propriétaire bénéficiaire par le fruit d’une fiducie, la preuve devant notre Cour établit qu’elle avait des droits au privilège du fait de la loi par la fourniture de matériaux et de main d’œuvre. Tout défaut d’entreprendre un recours judiciaire et de déposer un certificat d’affaire en instance annulerait ce privilège, mais seulement après l’échéance du délai prescrit pour la perfection : voir à ce sujet le paragraphe 33(1) de la BLA. À première vue, on retrouve des éléments de preuve qu’Universo Home a fourni de la main-d’œuvre et des matériaux à la propriété de l’avenue 77B à l’intérieur du délai restant du privilège, voire probablement jusqu’à tout juste avant la vente du 25 janvier 2013. Les livres et les documents d’Universo Home établissent que certaines améliorations n’ont pas été payées avant la réception des fonds du nouvel acquéreur suivant la vente de la propriété. En contrepartie, Universo Home a certainement démontré ces faits, non relevés par le ministre qui n’a offert aucun élément contraire en contre-preuve. Conséquemment, Universo Home détenait fort probablement encore des droits au privilège en application de l’article 20 de la BLA, n’eut-elle été propriétaire bénéficiaire.
+b) Rapprochement d’une fiducie réelle
+[31] Tout est une question de chronologie. La Cour est d’accord qu’en l’absence de l’établissement d’une fiducie entre Mme Dhesi et Universo Home, l’appel doit être rejeté.
+[32] Or, étant donné les faits susmentionnés, la Cour est prête à conclure qu’une fiducie réelle confiait les rôles de propriétaire légal à Mme Dhesi et de propriétaire bénéficiaire à Universo Home. Ladite fiducie a réellement été créée et consignée par écrit à un moment donné dans la déclaration de fiducie au cours de la période de « propriété conjointe » de la propriété de l’avenue 77B, ce qui correspond aux documents écrits antérieurs à la vente. La question des droits au privilège est théorique. Universo Home était le propriétaire bénéficiaire de la propriété de l’avenue 77B au cours de la période visée. Par conséquent, elle répondait à la définition d’un constructeur en application de la LTA, et était admissible à demander et à recevoir le remboursement dûment calculé et revendiqué.
+[33] Pour les motifs susmentionnés, l’appel est accueilli. Universo Home était un constructeur au sens des paragraphes 123(1) et 254(4) de la LTA et était admissible au crédit et au transfert du remboursement de la taxe de vente harmonisée à l’égard de la vente de la propriété de l’avenue 77B le 25 janvier 2013.
+[34] Il n’y aura aucune adjudication de dépens. Universo Home est une société inscrite aux fins de la LTA, le montant en cause est inférieur à 7 000 $ et le montant des fournitures taxables pour l’année d’imposition antérieure de la société existe, est vérifiable et ne dépasse pas la somme d’un million de dollars. Par conséquent, le pouvoir discrétionnaire de la Cour lui permettant d’octroyer des dépens est rigoureusement circonscrit par l’alinéa 1c) de l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2.
+Signé à Toronto (Ontario), ce 26e jour d’avril 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 87
+NO DU DOSSIER DE LA COUR :
+2018-1225(GST)I
+INTITULÉ :
+UNIVERSON HOME CONSTRUCTION LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 24 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 26 avril 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Gurdev S. Dhesi
+Avocate de l’intimée :
+Me Natasha Tso
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

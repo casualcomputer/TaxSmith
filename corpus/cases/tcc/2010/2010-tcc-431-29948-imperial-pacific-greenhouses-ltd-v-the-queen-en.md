@@ -1,0 +1,232 @@
+---
+title: "Imperial Pacific Greenhouses Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29948/index.do"
+last_modified: "2010-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 431"
+citation2: ""
+neutral_citation: "2010 TCC 431"
+decision_date: "2010-08-20"
+language: "en"
+item_id: "29948"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6494
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:05:09.349000+00:00"
+cases_cited_count: 8
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fea229a89c8d24feabe6d37d0cc245cd6427d2bfdd44bca6201786054f1e26e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imperial Pacific Greenhouses Ltd. v. The Queen
+
+- Citation: 2010 TCC 431
+- Decision date: 2010-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6494, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Pacific Greenhouses Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-20
+Neutral citation
+2010 TCC 431
+File numbers
+2008-2708(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2708(IT)G
+BETWEEN:
+IMPERIAL PACIFIC GREENHOUSES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 15 and 16, 2010, at Nanaimo, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Albert De Vries
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+David Everett
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 227(10) of the Income Tax Act (the “Act”) for the amount of $758,630 payable pursuant to subsection 224(1) of the Act as a result of the Appellant’s failure to comply with the requirement to pay issued pursuant to subsection 224(1) of the Act, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Halifax, Nova Scotia, this 20th day of August 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC431
+Date: 20100820
+Docket: 2008-2708(IT)G
+BETWEEN:
+IMPERIAL PACIFIC GREENHOUSES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue is this appeal is whether the amount of $758,630 was payable by the Appellant to Paul Houweling in 2006 for the purposes of subsection 224(1) of the Income Tax Act (the “Act”).
+[2] The Appellant is a limited company with a troubled history. Prior to the incorporation of the Appellant, Peter Bos and Mike Bryan acquired the greenhouse business from Weyerhaeuser who had apparently acquired it from MacMillan Bloedel. MacMillan Bloedel had started a tree nursery for reforestation. Water for the nursery was supplied by the same pipeline that supplied water to the pulp mill and the saw mill, which were all owned by MacMillan Bloedel. MacMillan Bloedel sold the pulp mill to one company and the saw mill and nursery to Weyerhaeuser. Weyerhaeuser operated the nursery for only a brief period of time before it was sold to Peter Bos and Mike Bryan. It appears that the purchase price for the nursery business was $900,000 of which $500,000 was paid in cash and a mortgage was provided for $400,000. It also appears that the $500,000 in cash was financed by a loan from Paul Houweling.
+[3] Paul Houweling had a history of being in the greenhouse business. In 1997 Paul Houweling sold his shares in Houweling Nurseries Limited to his brother[1]. It appears that Paul Houweling may, as part of his agreement with his brother, have agreed that he would not carry on a competing greenhouse or nursery business. This could explain why he would advance a significant amount of money to fund the purchase of this greenhouse operation but not have an ownership interest. Whether Paul Houweling’s involvement with this greenhouse business breached any agreement that he had with his brother is not an issue for this Court.
+[4] The greenhouse business in this case had problems from the beginning. The water supply was cut off by either the new owners of the pulp mill or the new owners of the saw mill. This was an unanticipated event and resulted in a lawsuit that was filed by the Appellant. There seems little doubt that the lack of water for the greenhouse operation made it difficult to carry on the business and contributed to the significant losses that were incurred by the Appellant.
+[5] The Appellant was incorporated on July 19, 2000 to acquire the assets used in carrying on the greenhouse business from Peter Bos. It appears that Mike Bryan had disposed of any interest that he may have had in the assets prior to the incorporation of the Appellant. Peter Bos was one of the initial shareholders but he ceased to be a shareholder on February 19, 2001. A portion of his shares were transferred to Christine De Vries (the spouse of Albert De Vries who represented the Appellant at the hearing) and to Elizabeth (Elsa) Houweling (the spouse of Paul Houweling).
+[6] The parties agreed that Paul Houweling, as of January 3, 2006, owed the amount of $4,596,399 under the Act in relation to taxation years prior to 2000. As of that date, the Appellant was indebted to Paul Houweling in the amount of $758,631. On January 3, 2006 the Minister issued a requirement to pay to the Appellant pursuant to subsection 224(1) of the Act in relation to amounts that the Appellant was liable to pay to Paul Houweling, not exceeding $4,596,399. No payments were made under the requirement to pay and the Appellant was assessed on October 12, 2007 in the amount of $758,630 for failing to comply with the requirement to pay dated January 3, 2006. This appeal relates to this assessment.
+[7] Subsections 224(1) and (4) of the Act provide as follows:
+224. (1) Where the Minister has knowledge or suspects that a person is, or will be within one year, liable to make a payment to another person who is liable to make a payment under this Act (in this subsection and subsections (1.1) and (3) referred to as the “tax debtor”), the Minister may in writing require the person to pay forthwith, where the moneys are immediately payable, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor's liability under this Act.
+…
+(4) Every person who fails to comply with a requirement under subsection (1), (1.2) or (3) is liable to pay to Her Majesty an amount equal to the amount that the person was required under subsection (1), (1.2) or (3), as the case may be, to pay to the Receiver General.
+[8] In The Queen v. National Trust Company, [1998] 4 C.T.C. 26, 98 D.T.C. 6409 Chief Justice Isaac of the Federal Court of Appeal stated that:
+34 In subsection 224(1) Parliament has invested the Minister with a discretion to issue a requirement in writing pursuant to the subsection if the following conditions precedent are satisfied:
+a) the Minister has knowledge or a suspicion,
+b) a person is or will be within 90 days liable to make a payment to a tax debtor, and
+c) the amount must be payable immediately or in the future.
+35 If those conditions are satisfied, the Minister may, in writing, require the person liable to make the payment to pay to the Receiver General on account of the tax debtor's liability under the Act, forthwith, if the moneys are payable immediately, or in any other case, as and when the moneys otherwise become payable to the tax debtor.
+[9] The conditions precedent would be satisfied if the Appellant was liable to make a payment to Paul Houweling. In this decision the Chief Justice of the Federal Court of Appeal noted that:
+46 The ordinary meaning of the word "liable" in a legal context is to denote the fact that a person is responsible at law*.
+(* denotes a footnote reference that was in the original text but which has not been included)
+[10] Subsection 224(1) of the Act was amended to change the reference from 90 days to one year. The Appellant did not argue that the conditions precedent were not satisfied in this case and since it appears that the Minister had been pursuing Paul Houweling for some time and was aware at least since August 4, 2004 that the Appellant owed $758,630 to Paul Houweling, that the conditions precedent were satisfied as at least the Minister suspected that the Appellant would be responsible at law to make a payment to Paul Houweling within one year of January 3, 2006.
+[11] The issue in this appeal is whether the amount of $758,630 was payable by the Appellant to Paul Houweling at any time during the one year period commencing January 3, 2006. The Appellant is only liable pursuant to subsection 224(4) of the Act if it failed to comply with its obligations under subsection 224(1) of the Act. This obligation was to pay to the Receiver General the amount that was payable to Paul Houweling if the amount was payable within the period referred to above. If the amount was payable to Paul Houweling then the Appellant had an obligation to pay such amount to the Receiver General. In this case, the amount of the debt owing to Paul Houweling was significantly less than his liability under the Act and therefore any amount payable to Paul Houweling would have to be paid to the Receiver General. It is the position of the Appellant that the amount was not payable to Paul Houweling during this period.
+[12] The Appellant raised a number of reasons in the Notice of Appeal and at the conclusion of arguments and I want to address these before dealing with the main argument. The Appellant submitted that the appeal should be allowed based on “business structure advice from accountant, December 21, 2000”. The business structure advice to which the Appellant was referring was a letter dated December 21, 2000 (which appears to be addressed to Peter Bos) in which the accountant states that:
+As discussed, you have advised us that you borrowed funds from a personal source, Paul Houweling. Because you owe the funds personally, the debt is reflected in your shareholder’s loan account in IPG Ltd. and was recorded upon incorporation of the company. Accordingly, we suggest you sign a promissory note documenting your ownership of the shareholder’s loan and your indebtedness to Paul Houweling.
+[13] This confirms that Paul Houweling lent money to Peter Bos. It is also clear from the evidence and the agreed facts that the Appellant does not dispute that this debt was assumed by the Appellant and that the Appellant was indebted to Paul Houweling and not Peter Bos. The issue is whether the amount was payable to Paul Houweling during the period referred to above. This letter, written in 2000, which does not refer to any terms of repayment, does not assist the Appellant.
+[14] The Appellant led evidence to suggest that Paul Houweling had received the money that he had advanced directly or indirectly to the Appellant, from his wife. Excerpts from an unidentified court proceeding involving Paul Houweling (of which there appear to be several) were introduced as part of the joint book of documents. Part of this excerpt includes the following direct examination (by Mr. Regier) and cross examination (by Paul Houweling) of Elizabeth (Elsa) Houweling:
+Q What did you pay for your shares in Imperial Pacific Greenhouses Limited?
+A I’m sorry, I don’t know.
+Q Who did you pay the money to for shares in Imperial Pacific Greenhouses Limited?
+A I had the money - - to Paul.
+…
+A I gave my money to Paul Houweling.
+MR. REGIER:
+Q How much money was it?
+A A million dollars.
+…
+CROSS-EXAMINATION BY MR. HOUWELING:
+Q Okay. Mrs. Houweling, the - - just to clarify one - - one point, when we ceased to be in Houweling Nurseries, you ended up with $1 million?
+A Yes.
+Q Then when - - when I got into money problems, you lent me that money back?
+A Yes
+[15] This seems to simply identify the source of funds for Paul Houweling. That Paul Houweling may have borrowed the money that he lent to Peter Bos (which debt was assumed by the Appellant) from Elizabeth (Elsa) Houweling does not change the fact that Paul Houweling lent the money to Peter Bos and that the Appellant, following the incorporation of the Appellant and the assumption of the debt, then was indebted to Paul Houweling. The Appellant also agreed, by letter dated June 27, 2010, with the following statement of fact:
+Over time Mr. Houweling made advances to Mr. Bos and IPG to support the Business totalling $758,631 (the Loan).
+[16] It therefore appears that a portion of the indebtedness of the Appellant to Paul Houweling arose as a result of the advancement of funds by Paul Houweling to Peter Bos (which debt was assumed by the Appellant) and the balance arose as a result of the advancement of funds by Paul Houweling directly to the Appellant.
+[17] The Appellant’s argument was that the amount advanced by Paul Houweling originated with Elizabeth Houweling. However, this does not change the fact that it was Paul Houweling who advanced such funds to Peter Bos and the Appellant and that the indebtedness was owing to Paul Houweling. In the agreement of purchase and sale for the shares of the Appellant between Albert De Vries and Elizabeth (Elsa) Houweling referred to below, Elizabeth (Elsa) Houweling warranted and represented in paragraph 4d that she was “not owed any amount by [the Appellant] and there are no outstanding shareholder’s loans listed in the financial records of the [Appellant] in the name of [Elizabeth (Elsa) Houweling]”. There is simply no evidence to support any finding that the amount of $758,630 was owing to anyone other than Paul Houweling.
+[18] The Appellant had also referred to a Writ of Seizure and Sale dated December 21, 2004 and settlement offers that had been made (but which were not accepted) in relation to the debt owing to Paul Houweling. However the issue in this case is whether the amount of $758,630 was payable by the Appellant to Paul Houweling during the period referred to above and these documents do not assist in determining that issue. The only assistance that these documents provide is that there was no settlement of the matter.
+[19] The Appellant also referred to a share purchase agreement between Albert De Vries and Elizabeth (Elsa) Houweling dated April 5, 2006 pursuant to which Elizabeth (Elsa) Houweling sold her shares in the Appellant to Albert De Vries for $80,000. This is an agreement between Albert De Vries and Elizabeth (Elsa) Houweling and does not assist in determining whether the amount was payable by the Appellant to Paul Houweling.
+[20] The Appellant also referred to an invoice from Paul Houweling dated April 28, 2006 in which Paul Houweling stated:
+I, Paul Houweling and Amethyst Greenhouses Ltd. FORFEIT FOR ALL TIME ANY INTERESTS ABSOLUTE in IPG!
+[21] A forgiveness of the debt of $758,630 was reflected in the financial statements prepared for the period ending July 31, 2006. At the time that the document was signed by Paul Houweling, the Appellant was under an obligation to pay to the Receiver General any amounts that were otherwise payable to Paul Houweling. Paul Houweling, at that time, did not have the right to receive any amounts payable by the Appellant and it seems to me that the purported forgiveness of the debt by Paul Houweling cannot affect the requirement to pay and if amounts were payable by the Appellant to Paul Houweling such amounts were to be paid to the Receiver General.
+[22] The main argument raised by the Appellant was that payment of the debt owing to Paul Houweling was linked to the lawsuit that was filed in relation to the failure to disclose that the water supply would be cut off and therefore was not payable to Paul Houweling in 2006. The lawsuit was not resolved until 2008.
+[23] The Respondent had requested that the Appellant agree with the following statement of fact:
+The Loan had no terms associated with it.
+[24] By letter dated June 27, 2010, the Appellant agreed that this fact was true. The Respondent had also requested that the Appellant agree with the following facts:
+The Loan was repayable immediately on demand.
+[25] The response of the Appellant was as follows:
+Incorrect. Verbal agreement in place depending on water case outcome.
+[26] The only evidence of this verbal agreement was the statement of Albert De Vries that it was his understanding that this loan was tied to the lawsuit and was to be repaid when the amount was received in relation to the claim made in the lawsuit. There was nothing in writing in relation to this condition nor did the Appellant call Paul Houweling as a witness to confirm this condition. Since the debt was owing to Paul Houweling and since this condition would have affected his right to receive payment, it seems to me that the Appellant should have called Paul Houweling as a witness.
+[27] It also seems to me that it is also important that this ground for allowing the appeal was not raised in the notice of appeal. In the section of the Amended Notice of Appeal (which is dated October 9, 2008) that is labelled as “Material Facts to be Relied Upon”, there is only one paragraph and this paragraph is as follows:
+At all material times, there was no written loan agreement between Imperial Pacific Greenhouses Ltd. (“IPG”) and Paul Houweling.
+There is no indication in the amended notice of appeal that it was a term of the loan that Paul Houweling would not be paid until the water case was concluded.
+[28] As a result while it may have been the understanding of Albert De Vries that the amount would not be payable by the Appellant to Paul Houweling until the lawsuit was resolved, I do not find that this was a condition of the loan.
+[29] In the financial statements the debt is categorized as “long term debt” and in the notes to the financial statements for the seven months ending July 31, 2006, it is described as “unsecured, non-interest bearing, no fixed terms of repayment”. It is the position of the Respondent that since the debt does not have any fixed terms of repayment that it is payable on demand and that the Requirement to Pay constitutes a demand for payment[2].
+[30] The issue of whether a debt that has no fixed terms of payment is payable on demand was recently considered by the Ontario Court of Appeal. In Animal House Investments Inc. v. Lisgar Development Limited, 2010 ONCA 322, the Ontario Court of Appeal stated that:
+8 At para. 40 of his reasons, the trial judge said that his finding of fact concerning the terms of the loan was "also consistent with jurisprudence which holds that a loan with no fixed term is payable within a reasonable time after a demand is made."
+9 We do not read the decisions the trial judge referred to as holding that, in the absence of specific terms of repayment, a term must necessarily be implied that a loan is payable within a reasonable time following a demand.
+10 Nor do we read the reasons of Blair J. in Naneff v. Concrete Holdings Inc., [1993] O.J. No. 1756, at paras. 135-6 and 139, varied on other grounds [1995] O.J. No. 1377 (C.A.), as holding that, when an estate freeze is involved, a shareholder's loan to a corporation from a non-controlling shareholder must, in the absence of specific terms of repayment, be interpreted as being payable when the directors consider repayment financially prudent.
+11 Rather, the question of what are the applicable terms for repayment of the loan is a matter to be determined having regard to the other terms of the loan and the overall factual context in which the loan was made.
+[31] Counsel for the Respondent had suggested that this case may not reflect the law of British Columbia where the debt in this case arose. However, one of the cases upon which the Trial Judge in the above case relied was the decision of Justice Kirkpatrick of the British Columbia Supreme Court in Koch v. Cactus Cafe Jasper Ave. [1995] B.C.J. No. 2550, in which it is stated that:
+15 The general rule is that, if a loan does not set out a fixed term for repayment, the law will imply that the loan is to be repaid within a reasonable time. See Surette v. Surette (1980), 40 N.S.R. (2d) 482 (N.S.S.C.); Burgess v. 041497 (N.B.) Ltd. (1993), 140 N.B.R. (2d) 15, appeal dismissed [1994] N.B.J. No. 471 (C.A.); Gill Bros. v. Mission Sawmills, [1944] 3 W.W.R. 310 (B.C.S.C.), aff'd, [1945] 2 W.W.R. 337 (B.C.C.A.) and [1945] 4 D.L.R. 449 (S.C.C.); Staffordshire v. South Staffordshire Waterworks Co., [1978] 1 W.L.R. 1387 (C.A.).
+[32] In the subsequent decision of Justice Wedge of the British Columbia Supreme in Glacier Creek Development Corp. v. Pemberton Benchlands Housing Corp, 2007 BCSC 286, 28 B.L.R. (4th) 109, it is stated that:
+56 Shaw J. observed that the chambers judge hearing the related application had concluded that the advances made by the other shareholders of the bankrupt company were demand loans despite the shareholders' expectations that the loans would not be repaid until the company began making a profit. The chambers judge held that as there were no terms as to time for repayment of the debts, they were, at law, due and owing and payable on demand. Shaw J. agreed with that conclusion of law.
+…
+58 As noted by the court in Marsuba, funds advanced to a company by its shareholder may be in the nature of a demand loan even though there is no expectation of repayment until the company is profitable. The fact that an advancement of funds does not contain terms as to time for repayment does not render the advancement something other than a loan. To the contrary, it is presumptively a debt due and owing and payable on demand.
+[33] It appears that not only is there a question of whether a debt, without specific terms of repayment, is payable on demand or on such terms as may be “determined having regard to the other terms of the loan and the overall factual context in which the loan was made” but also there appears to be a disagreement over whether the determination of this is a question of fact (as indicated by the Ontario Court of Appeal) or a question of law (as indicated by the British Columbia Supreme Court).
+[34] It seems to me that the decision of the Ontario Court of Appeal is simply that it will not always be the case that a debt that has no fixed terms of repayment will be payable on demand. It is possible that in examining “the other terms of the loan and the overall factual context in which the loan was made” that the conclusion may be that the loan is payable on demand but it seems to me that the Ontario Court of Appeal is saying that it will not necessarily always be so.
+[35] It seems to me that the approach that should be taken is that as set out by the Ontario Court of Appeal and “the other terms of the loan and the overall factual context in which the loan was made” should be examined to determine the terms of repayment.
+[36] The only term of the loan that was identified was that the loan did not bear interest. The factual context in which the loan was made is important in this case in determining the terms of repayment, which, as noted in the decisions referred by the trial judge in Animal House Investments Limited, supra, will be reasonable terms of repayment.
+[37] In this case the funds were advanced by Paul Houweling to allow Peter Bos and Mike Bryan to acquire the assets that were later transferred to the Appellant and to fund the operations of the business and that funds were also advanced by Paul Houweling directly to the Appellant. Paul Houweling’s spouse became a shareholder in the Appellant. It is also clear that Elizabeth (Elsa) Houweling was not involved in the business and that it was Paul Houweling who had the expertise in running a greenhouse operation. It seems clear that although it may have been Elizabeth (Elsa) Houweling’s money that Paul Houweling borrowed to invest in the business, Elizabeth (Elsa) Houweling was not involved in the business. It appears that the shares were issued to her but Paul Houweling was the one who was involved.
+[38] It is also clear that the Appellant struggled financially. The Appellant’s financial statements disclose the following in relation to the profit or loss of the Appellant:
+Fiscal Period
+Profit (Loss)
+4 months ending December 31, 2000
+($225,680)
+Year ending December 31, 2001
+($540,341)[3]
+Year ending December 31, 2002
+$7,167
+Year ending December 31, 2003
+($154,839)
+Year ending December 31, 2004
+$19,343
+Year ending December 31, 2005
+($1,082)
+7 months ending July 31, 2006
+($190,954)[4]
+[39] The deficit as of December 31, 2005 was $895,428 and as of July 31, 2006 (if the forgiveness of debt is not taken into account) was $1,086,382. If the forgiveness of debt is taken into account the deficit as of July 31, 2006 was $44,466.
+[40] The forgiveness of debt did not occur until April 28, 2006. Prior to that date, on April 5, 2006, Albert De Vries agreed to purchase 60 Class A Common shares from Elizabeth (Elsa) Houweling. She held 30 of these shares herself and 30 in trust. The purchase price for these shares was $80,000 and there is no reference in this agreement to Paul Houweling forgiving the debt owed to him by the Appellant. It appears from the Register of Members that at that time there were a total of 120 Class A common shares that were issued and outstanding as well as 100 Class E Preferred Shares and 100 Class F preferred shares[5]. The notes to the financial statements indicate that the class E and class F preferred shares were redeemable for $1 per share. Without the forgiveness of debt, the deficit of the company as of April 5, 2006 would have been close to $1 million. Why would Albert De Vries pay $80,000 for one-half of the common shares of a company with a deficit of close to $1 million? This raises questions about the fair market value of the assets of the Appellant and whether the fair market value of the assets may have been substantially in excess of the book value of the assets.
+[41] Albert De Vries testified that Paul Houweling had been involved from the beginning when the assets were acquired from Weyerhaeuser. It seems logical that a person who had experience running a greenhouse operation would, as Albert De Vries stated, feel some sense of responsibility for not confirming that the water supply would continue after the assets were acquired. Although the shares of the Appellant were not held by Paul Houweling, shares were held by his wife (which is the same situation for the De Vries family where the shares are held by Christine De Vries). There is nothing to suggest that the economic interest of Elizabeth (Elsa) Houweling was different from the economic interest of Paul Houweling. Since she lent him the money to invest in the business, it seems reasonable to conclude that they had a common economic interest in the Appellant.
+[42] It seems to me that since:
+(a) The Appellant was struggling financially;
+(b) an amount was advanced by Paul Houweling and his spouse acquired shares in the Appellant;
+(c) Paul Houweling is the one who has the knowledge and expertise related to the greenhouse business; and
+(d) Paul Houweling failed to ensure that an essential aspect of the business (the supply of water) would be available,
+it is reasonable to conclude that repayment of the debt to Paul Houweling would be deferred and not payable on demand.
+[43] However, it does not seem to me that such deferral would be forever. It seems to me that if the shares in the Appellant held by Elizabeth (Elsa) Houweling were to be sold, that it would be reasonable to conclude that the debt would then be payable. The debt did not bear interest and, without any shares in the Appellant, Paul Houweling could not indirectly (through the shares held by his spouse) participate in any growth in the company or realize any return on his investment. Elizabeth (Elsa) Houweling sold her shares in the Appellant pursuant to an agreement of purchase and sale dated April 5, 2006. Although the actual date that the share sale was concluded was not identified, it seems to me that it would have been either on April 5, 2006 or shortly thereafter. It seems to me the amount owing by the Appellant to Paul Houweling would then be payable. The purported forgiveness of the debt by Paul Houweling on April 28, 2006 does not affect the requirement to pay (although it might affect Paul Houweling’s right to receive payment if there was no requirement to pay), as this was after Elizabeth (Elsa) Houweling sold her shares to Albert De Vries and after the time when, it seems to me, the debt owing by the Appellant would have been payable to Paul Houweling.
+[44] Although the Appellant was in financial difficulty and may not have been able to pay the full amount of the outstanding indebtedness to Paul Houweling, the right of the Minister to assess the Appellant pursuant to subsection 227(10) of the Act for the amount payable pursuant to subsection 224(4) of the Act is based on the failure to comply with the requirement to pay issued pursuant to subsection 224(1) of the Act. This subsection provides that the amount payable to Paul Houweling was to be paid to the Receiver General when the amount was payable by Paul Houweling. The requirement to pay the Receiver General is determined based on amounts that are payable, not on amounts which are paid or which the Appellant has the financial ability to pay. There is no exception in subsection 224(1) of the Act based on the financial situation of the person upon whom the requirement to pay is served or their inability to pay amounts that are payable. Subsection 224(1) of the Act simply refers to “the moneys otherwise payable”. Whether a person has the financial resources to pay a particular amount does not affect whether the amount is payable, although it presumably would affect whether an amount is paid. The amount of the debt, in my opinion, would have been payable when Elizabeth (Elsa) Houweling sold her shares. The Appellant did not pay this amount to the Receiver General. This was a failure to comply with the requirement to pay.
+[45] Subsection 224(2) of the Act provides that:
+(2) The receipt of the Minister for moneys paid as required under this section is a good and sufficient discharge of the original liability to the extent of the payment.
+[46] It seems to me that any amounts paid by the Appellant as a result of the requirement to pay issued pursuant to subsection 224(1) of the Act or as a result of the liability arising pursuant to subsection 224(4) of the Act (for failing to comply with the requirement to pay) would both be amounts that would be paid as required under this section and hence the payment of an amount under either the requirement to pay or as a result of the Appellant being liable under subsection 224(4) of the Act, would result in a discharge of the liability of the Appellant to Paul Houweling. The Appellant is not being required to pay any more than it acknowledged as its debt to Paul Houweling - $758,630. Only the identity of the person to whom the amount to be paid has changed. Instead of Paul Houweling it is the Receiver General. The amount that was payable to Paul Houweling is now payable to the Receiver General. This is clearly an amount that the Appellant had received directly or indirectly (as a result of the advancement of funds by Paul Houweling to Peter Bos and the assumption of this debt by the Appellant) and which the Appellant acknowledged for several years was a debt of the Appellant. While the Appellant will not enjoy the windfall that it would have had from the forgiveness of the debt, it does not seem to me that a requirement of the Appellant to pay a debt that it had acknowledged for several years should be considered to be a penalty, nor did the Appellant argue that it was a penalty.
+[47] As a result the appeal is dismissed, with costs.
+Signed at Halifax, Nova Scotia, this 20th day of August 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC431
+COURT FILE NO.: 2008-2708(IT)G
+STYLE OF CAUSE: IMPERIAL PACIFIC GREENHOUSES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: July 15 and 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 20, 2010
+APPEARANCES:
+Agent for the Appellant:
+Albert De Vries
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+David Everett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Miles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Houweling v. The Queen, 2006 TCC 59, [2006] 2 C.T.C.2352, 2006 DTC 2258 (appealed to the Federal Court of Appeal 2006 FCA 346, [2007] 1 C.T.C.273, 2007 DTC 5006, leave to appeal to the Supreme Court of Canada denied [2006] S.C.C.A. No. 511)
+[2] 3087-8847 Québec Inc. v. The Queen 2007 TCC 302, [2007] 5 C.T.C. 2313, 2007 DTC 1064.
+[3] The financial statements for the year ending December 31, 2001 were not included. The loss was determined based on a deficit of $225,677 at the end of 2000 and a deficit of $766,018 at the beginning of 2002.
+[4] The loss for this year is the loss determined before the gains on forgiveness of debts are taken into account.
+[5] There is a reference in the notes to the financial statements for the Appellant for the period ending July 31, 2006 that the Appellant “cancelled 30 Class A shares for nil consideration and issued 60 Class A shares for an aggregate subscription price of $0.60”. These share transactions are not reflected in the Register of Members that was introduced as an Exhibit, nor was the transfer of shares from Elizabeth (Elsa) Houweling to Albert De Vries reflected in this Register of Members. It is impossible to determine whether the cancellation and issuance of Class A shares in 2006 occurred before or after Elizabeth (Elsa) Houweling sold her shares to Albert De Vries. In any event it appears that the purchase price for the shares held by Elizabeth (Elsa) Houweling was more than a nominal amount.

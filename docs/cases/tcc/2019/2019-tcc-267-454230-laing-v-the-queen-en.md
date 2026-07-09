@@ -1,0 +1,205 @@
+---
+title: "Laing v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/454230/index.do"
+last_modified: "2019-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 267"
+citation2: ""
+neutral_citation: "2019 TCC 267"
+decision_date: "2019-12-02"
+language: "en"
+item_id: "454230"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4289
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:58:08.615000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d30ab1aa1a433d3245d6eda20111036146ebd08ba8c0921069c8eabea7088efd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laing v. The Queen
+
+- Citation: 2019 TCC 267
+- Decision date: 2019-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4289, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laing v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-02
+Neutral citation
+2019 TCC 267
+File numbers
+2018-2820(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-2820(IT)I
+BETWEEN:
+JESSICA LAING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 14, 2019, at Hamilton, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kevin Hong
+JUDGMENT
+The appeal from the Notice of Determination dated January 17, 2018 made
+pursuant to the Income Tax Act is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 2nd day of December 2019.
+“Patrick Boyle”
+Boyle J.
+Citation: 2019 TCC 267
+Date: 20191202
+Docket: 2018-2820(IT)I
+BETWEEN:
+JESSICA LAING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The Appellant has appealed the determination by the Canada Revenue Agency (“CRA”) that she was not entitled to the disability tax credit (“DTC”) for the years 2014 to 2017.
+[2] Ms. Laing most ably represented herself in her appeal. She explained that when she went to file her notice of appeal she discovered that an official at The National Benefit Authority had filed one on her behalf a month earlier without notifying her. She promptly had The National Benefit Authority’s Mr. Levy removed as agent and represented herself. Looking only at the notice of appeal filed on her behalf this appears to have been wise on her part. The notice of appeal filed on her behalf does not address relevant facts which should properly have been pleaded. It appears to assume having a doctor certification Form T2201 is sufficient to qualify for the DTC. It is not. Ms. Laing fully recognised that, both in the notice of appeal she had sought to file and in her fulsome evidence and submissions to the Court.
+The Disability Tax Credit:
+[3] In order to qualify for the DTC, section 118.3 and 118.4 of the Income Tax Act (the “Act”) require that:
+1. The person have one or more severe and prolonged impairments in physical or mental functions. A prolonged impairment is defined as one that lasts, or can be expected to last, a continuous period of twelve months.
+2.(a) These impairments be such that the person’s ability to perform a basic activity of daily living is markedly restricted. The ability to perform a basic activity of daily living is markedly restricted if all or substantially all of the time, [1] the individual is blind or is unable, or requires an inordinate amount of time, to perform a basic activity of daily living, even with therapy, the use of appropriate devices, and medication; or
+(b) If no single basic activity of daily living is markedly restricted, a person may be considered to have the equivalent of that if their ability to perform more than one such activity is significantly restricted [2] and the cumulative effect of these restrictions is tantamount [3] to being markedly restricted in one’s ability to perform a basic activity of daily living.
+The basic activities of daily living are:
+(i) Mental functions necessary for everyday life, including a) memory, b) problem solving, goal setting and judgment taken together, and c) adaptive functioning;
+(ii) Feeding or dressing oneself;
+(iii) Speaking;
+(iv) Hearing;
+(v) Eliminating (bowel or bladder functions) or
+(vi) Walking.
+3. The appropriate healthcare professional has certified that the person has such an impairment on Form T2201.
+The Evidence
+[4] In Ms. Laing’s case, she has a Form T2201 doctor certification and the Respondent acknowledges that she had more than one severe and prolonged impairment. As attested to by her doctor on her Form T2201, Ms. Laing was not markedly restricted in any single basic activity of daily living.
+[5] The only issue to be decided in this case is that described in 2(b) above – whether or not the cumulative effect of being significantly restricted (short of being markedly restricted) in more than one basic activity of daily living is equivalent or tantamount to being markedly restricted in one such activity. This equivalency requirement is set out in paragraph 118.4(1)(b.1). [4] The definition of “markedly restricted” is set out in paragraph 118.4(1)(b). [5]
+[6] The 2017 Form T2201 doctor certification refers to Ms. Laing having been diagnosed with bipolar disorder and with irritable bowel syndrome (“IBS”). It also indicates she suffered severe chronic pelvic pain. Ms. Laing testified that she has since been diagnosed with psoas syndrome – a condition affecting her psoas, being a major back muscle.
+[7] The doctor explained in the Form T2201 that the effect of the severe chronic pelvic pain was that as it progressively worsened, at times it would become very debilitating making it difficult for her to walk, and requiring her to walk slowly and carefully not to worsen the pain. This made it harder for her to complete tasks or get anywhere.
+[8] In her follow-up questionnaire and answers the doctor confirms this and that she has seen Ms. Laing with a slow gait in her office.
+[9] The doctor explained the effect of the 2016 IBS diagnosis and Ms. Laing’s earlier frequent loose bowels was that she must be close to a washroom, and that if she was unable to get to a washroom in a timely manner this could worsen her abdominal pain.
+[10] The doctor explained that the effects of Ms. Laing’s bipolar disorder was that, although on medications, Ms. Laing had concerns with her memory, memory loss, attention and concentration which made it more difficult for her to complete tasks and process information. She also had more difficulty communicating and forming relationships with others. In general, it takes her longer to complete tasks compared to others.
+[11] In the T2201 certification form under the heading “Cumulative effect of significant restrictions”, the doctor checked off “Yes” to:
+1. Ms. Laing having significant restrictions in eliminating, walking and mental functions necessary for everyday life;
+2. These restrictions existing together all or substantially all of the time; and
+3. The cumulative effect of these significant restrictions are equivalent to being markedly restricted in one basic activity of daily living.
+[12] Ms. Laing’s testimony confirmed the doctor’s certification and explanations. She testified that she works full time at Humber College where she is a student recruitment leader. She had to take six months off work in January 2017 on short‑term disability leave related to her chronic pelvic and back pain conditions for the first half of 2017. She works very hard to succeed at work given some of her challenges. She has not needed to relocate her workspace closer to a washroom. She has a mobility scooter available for her at work to use when events are on the far side of the campus.
+[13] In her personal life and home life, Ms. Laing said she got by without any support or assistance from her then husband in the years in question or from her parents. On bad days of pelvic and back pain she would at times hold on to the walls to walk around the house or crawl to the bathroom when necessary. When shopping she would at times rely on the shopping cart as a walking aid.
+[14] Since her 2017 Botox injection treatments and her psoas syndrome diagnosis, her pelvic and back pain issues are manageable with getting through her daily life. In 2014 and 2015 these issues gave her one to five bad days a month where she had difficulty standing, bending and walking, and these coincided with her cycle. In 2016 these bad days increased to eight to eighteen days a month. In 2017 she experienced bad days constantly for the first six months then nothing further so significant.
+[15] Ms. Laing managed her IBS in the period in question with over the counter kaopectate, stool softeners and anti-diarrheal medications.
+[16] Ms. Laing takes lithium for her bipolar disorder and did so in the years in question and prior years. In a Humber College short-term disability claim prepared by her doctor in early 2019 regarding her anxiety and bipolar disorder, she indicated Ms. Laing was able to function in most stress situations and engage in most interpersonal relations (slight limitations). It also indicates Ms. Laing had no physical impairment limitation of functional capacity. (It also indicated Ms. Laing’s problem was the stress caused by her then supervisor and that she could return to work right away with a different supervisor.) A follow-up 2019 short-term disability assessment regarding her leave for anxiety and bipolar disorder indicated that she could return to work once her medications were fully titrated and that once medications were titrated a complete recovery was expected. [6]
+The Proper Interpretation and Application of the DTC Provisions:
+[17] I described the proper approach to interpreting and applying the DTC rules and requirements in Hughes v. The Queen, 2018 TCC 42:
+[10] In Johnston v. Canada,2 the Federal Court of Appeal wrote:
+10 The purpose of sections 118.3 and 118.4 is not to indemnify a person who suffers from a severe and prolonged mental or physical impairment, but to financially assist him or her in bearing the additional costs of living and working generated by the impairment. As Bowman T.C.J. wrote in Radage v. R. at . 2528:
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to everyone who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+The learned Judge went on to add, at p. 2529, and I agree with him:
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+11 Indeed, although the scope of these provisions is limited in their application to severely impaired persons, they must not be interpreted so restrictively as to negate or compromise the legislative intent.
+______________
+[1998] F.C.J. No. 169 (QL).
+[Emphasis added.]
+[18] In Watkin v. The Queen, [2002] T.C.J. 547, 2002 D.T.C. 2132, following the decisions in Johnston and Radage, [7] Justice Rip as he then was, considered the cumulative effect of multiple significant restrictions activities of daily living. In it, he demonstrated an excellent approach to the common sense, compassionate and humane construction of the DTC provisions (as then worded) to recognize the cumulative effect of multiple restrictions, even before paragraph 118.4(1)(b.1) was specifically enacted. He wrote:
+[16] Ms. Watkin argues that “whereas a tax credit is granted to a person with one severe disability there is a class of persons who suffer from multiple less severe disabilities which, in their total effect, should be seen as equivalent”. The disabilities Ms. Watkin refers to are the inability to perform more than one of the defined basic activities of daily living.
+[17] Ms. Walkin’s position is that the cumulative effect of the restrictions imposed on her ability to perform more than one basic activity of daily living due to her severe and prolonged impairment was at least as markedly restricted as an individual with a severe and prolonged impairment who is entitled to a disability tax credit when the individual’s impairment markedly restricts the individual’s ability to perform any one of the basic activities of daily living described in paragraph 118.4(1)(c). In other words, even though she was not markedly restricted from performing any one basic activity of daily living, because of her severe, but not marked, restrictions in performing several of the basic activities of daily living she experiences the same marked restrictions in her basic activities of daily living as a person who is otherwise entitled to the tax credit; the sum of her inabilities to perform several basic activities of daily living is markedly restricted. I refer to this as the “cumulative disability” submission.
+[18] There is much to be said in support of the cumulative disability argument. For example, if a taxpayer takes a very long time for the activity of eating and dressing and again for the activity of walking, and the time for each activity is inordinate, the taxpayer would not be entitled to a tax credit. But the aggregate lengh of times in a day that it takes to dress and eat and then to walk may be inordinate, and in such circumstances, a taxpayer suffering such disabilities should be entitled to the disability tax credit. Did Parliament intend to grant a tax credit to a person who is markedly restricted from performing one basic activity of daily living but not to a person whose ability to perform a single basic activity of daily living may be a degree shy of being markedly restricted but whose ability from performing a combination of more than one basic activity of daily living is markedly restricted?
+[19] In the appeal at bar Dr. Rao did certify that Ms. Watkin’s daily activities are markedly restricted, notwithstanding the answers to the specific questions put in the certificate, which Dr. Rao interprets as “criteria”.
+[19] Watkin also demonstrates how entitlement to the DTC is not delegated by deference to the medical practitioner certifying a Form T2201 and in particular to their answers to Yes and No check boxes. The CRA and the Courts are to give significant weight to the doctor’s more detailed explanations on the form and follow‑up questionnaires.
+[20] Finally, I make reference to the decision of this Court in Stewart v. The Queen, [1996] 1 C.T.C. 2394. In Stewart the Court was considering the activity of elimination of a post-cancer surgery patient who had a colostomy. The taxpayer had to empty his bowel discharge many times a day. The Court considered other elimination cases. These cases make it clear that, in deciding what is an inordinate of time for bowel elimination, it is necessary to consider the number of washroom trips and the time they took in determining if it occupied an inordinate amount of time. The Court also stressed that the issues cannot be reduced to a numbers game and that both quantitative and qualitative analysis and consideration is permissible. The Court further considered whether all of the taxpayer’s daily decisions and actions literally revolved around their disability from the standpoint of the time required each day on an ongoing basis to perform that function (or in this case functions).
+Analysis:
+[21] The Act does not provide any express specific direction on how to determine equivalency when comparing a person’s cumulative significant/important restrictions in performing multiple basic daily living activities to a person’s single marked restriction in performing one particular basic daily living activity. In order to consider and determine equivalency or tantamountcy it is necessary to consider the text of paragraphs 118.3(1)(a.1) and 118.4(1)(b.1), their context within the DTC provisions and their purpose or intent.
+[22] The purpose and intent of the DTC provisions is set out by the Federal Court of Appeal in Johnston and by former Chief Justice Bowman of this Court in Radage above. It is to provide the credit to a relatively restricted category of markedly impaired persons, not to everyone who suffers from a disability, by interpreting and applying them humanely, compassionately and with common sense, avoiding an overly restrictive or narrow or technical interpretation that would compromise their intent.
+[23] The intention of providing the DTC to a relatively restricted category of markedly impaired persons, and not everyone with a disability, heightens the attention that must be paid to the terms chosen by Parliament to describe the relatively restricted category within the DTC legislation and in paragraphs 118.3(1)(a.1) and 118.4(1)(b.1) in particular. [8] It was such an analysis and approach that our former Chief Justice Rip in Watkin followed to arrive at such a commonsensical and compassionate interpretation that recognized the cumulative effects of severe, but not marked restrictions in performing multiple daily living activities even before the enactment of paragraph 118.4(1)(b.1). He was able to rely upon the object or intent of the DTC provisions and the Interpretation Act to interpret and apply the provisions without inappropriately expanding the relatively restricted category of markedly impaired persons set out in the legislation.
+[24] The relevant text of the DTC provisions uses the term “equivalent” in both the English and French versions. Equivalency denotes equal values, and derives from those two words. In the English version the word “tantamount” is used in one sentence of paragraph 118.4(1)(b.1) to avoid defining equivalency using the term equivalent again. Tantamount is a synonym for equivalent, and equivalent was simply used again in the French version of that paragraph. The English term tantamount is of French/Italian/Latin origin, meaning so much as to add up to or amount to as much. Like equivalent, tantamount denotes adding and comparing values.
+[25] The term “markedly restricted” ability to perform a basic activity of daily living is defined in paragraph 118.4(1)(b) as:
+118.4(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+…
+(b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+118.4(1) Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+…
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif ;
+[26] Apart from the absolutes of being blind or being unable to perform a basic activity of daily living, the meaning of being markedly restricted in an activity is defined by reference to time values - “requiring an inordinate amount of time” and “all or substantially all of the time.”
+[27] A correct interpretation and application of paragraph 118.4(1)(b.1) dealing with the cumulative effects of multiple restrictions therefore requires one to at least focus primarily on time, whether the cumulative effect of more than one significantly restricted ability collectively requires an inordinate or excessive amount of time, all or substantially all of the time. This is not to suggest qualification or equivalency should be simply a numbers game; that would not be a compassionate or common sense approach nor would it reflect the fact that Parliament has not defined the terms inordinate or excessive. [9]
+[28] Inordinate and excessive imply unreasonable or disproportionately large amounts of time that are far more than usual or expected or appropriate.
+[29] Administratively, CRA considers that an impairment must restrict a person’s ability to perform a basic function at least 90% of the time in order to satisfy the “all or substantially all of the time” requirement.
+[30] Administratively, CRA recognizes that an inordinate amount of time is a judgment call based upon a recognizable difference in the time it takes a person to complete the activity as compared with a person without the restricted ability. CRA considers that to be inordinate usually requires taking at least three times as long as an unaffected but otherwise generally comparable person.
+[31] Administratively, CRA considers “significantly restricted” to mean “greatly restricted.”
+[32] Ms. Laing’s doctor’s explanations of the time needed by Ms. Laing to complete her basic daily living activities, were that she took longer than other persons, walked slowly, and completing tasks and getting places were harder for her.
+[33] Ms. Laing spoke of having five bad days a month in 2014 and 2015, eight to eighteen bad days monthly in 2016 and being effectively housebound only for the first six months of 2017.
+[34] There is no doubt that Ms. Laing faces several physical and mental health challenges, but I am unable to conclude on the evidence presented that collectively these caused her to require an inordinate or excessive amount of time to complete her basic activities of daily living all or substantially all of the time in the years in question.
+[35] For this reason the appeal is dismissed.
+Signed at Montreal, Quebec, this 2nd day of December 2019.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2019 TCC 267
+COURT FILE NO.:
+2018-2820(IT)I
+STYLE OF CAUSE:
+JESSICA LAING AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+November 14, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+December 2, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kevin Hong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In French "toujours ou presque toujours" - always or close to always.
+[2] In French "limité de façon importante" - limited in an important way.
+[3] In French "équivalent".
+[4] (b.1) an individual is considered to have the equivalent of a marked restriction in a basic activity of daily living only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual's ability to perform more than one basic activity of daily living (including for this purpose, the ability to see) is significantly restricted, and the cumulative effect of those restrictions is tantamount to the individual's ability to perform a basic activity of daily living being markedly restricted;
+[5] (b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+[6] I note that the Humber College medical form has five gradations for Physical Impairment and Mental/Nervous Impairment ranging from 0 to 10% through to 75 to 100%. They are: no limitations (0% to 10%), slight limitations (15% to 30%), moderate limitations (35% to 55%), marked limitations (60% to 70%) and severe limitations (75% to 100%). I do not know if these categories are standard in the medical and/or insurance sectors but the fact that marked is 60% to 70% impairment may help explain why doctors have difficulties at times completing the T2201 clearly and consistently. Consultations with these sectors, possible further revisions to the form's terminology and explanations, and informational outreach to the medical sector completing these forms may all prove beneficial to DTC applicants, health practitioners, CRA, the Department of Justice and the Court, as well as provide better interactions and outcomes.
+[7] [1996] 3 C.T.C. 2510.
+[8] The restrictive qualification threshold set out by Parliament in the DTC provisions makes it unsurprising that it might differ substantially from what an educational institution considers in accommodating students with such thing as extra time to write tests or examinations or other extended deadlines, or that employers or potential employers might consider in making accommodations for those with mental or physical impairments.
+[9] This is consistent with Chief Justice Rip's focus on the "aggregate lengths of time" to perform multiple basic daily activities in Watkin. This is also consistent with the Federal Court of Appeal's approach to interpreting the words "equal or nearly equal" in paragraphs 18 and 39 of Lavrinenko v. The Queen, 2019 FCA 51 at paragraphs 18 and 39. The word equal suggests Parliament intended the determination must be based on something to be measured and compared. The FCA adopted the reasons in Lavrinenko in Morrissey v. The Queen, 2019 FCA 56 at paragraph 29.

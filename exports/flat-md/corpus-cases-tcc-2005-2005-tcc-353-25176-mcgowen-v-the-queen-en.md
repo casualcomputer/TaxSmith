@@ -1,0 +1,194 @@
+---
+title: "McGowen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25176/index.do"
+last_modified: "2005-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 353"
+citation2: ""
+neutral_citation: "2005 TCC 353"
+decision_date: "2005-05-19"
+language: "en"
+item_id: "25176"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2556
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:42:22.466000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12385b8b7ddd2749a81aa06eed857c2a982a57077e17ef089ebba0a0efff64f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McGowen v. The Queen
+
+- Citation: 2005 TCC 353
+- Decision date: 2005-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2556, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGowen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-19
+Neutral citation
+2005 TCC 353
+File numbers
+2003-910(GST)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket:2003-910(GST)G,
+BETWEEN:
+CARL JEFFREY McGOWEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11, 2005, at Vancouver, British Columbia, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+P. Daniel Le Dressay
+Counsel for the Respondent:
+Lynn M. Burch
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Excise Tax Act, notice of which is dated July 17, 2002 and bears number 69340 is dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of May, 2005.
+"Campbell J. Miller"
+Miller J.
+Citation: 2005TCC353
+Date: 20050519
+Docket:2003-910(GST)G,
+BETWEEN:
+CARL JEFFREY McGOWEN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. McGowen appeals the assessment of the Minister of National Revenue (the Minister) pursuant to section 323 of the Excise Tax Act (the Act), whereby the Minister assessed Mr. McGowen, as a director of Panda Marketing (1997) Ltd. (Panda) for $61,215.98 in respect of Panda's failure to remit net tax. Mr. McGowen maintains he exercised the degree of care, diligence and skill required by subsection 323(3) of the Act to escape liability.
+[2] Mr. McGowen has been a successful businessman for many years. He struck me as a straight shooter with a keen sense for business. I accept his testimony that in all his business endeavours he has never had any problems with Canada Revenue Agency (CRA), until this current situation, in which he left management of his company to a less than capable manager. The issue to be determined is how far must a director go to ensure management, known to be incompetent, complies with the requirements of the Act. Did Mr. McGowen go far enough to meet the objective–subjective standard established by case law? Notwithstanding my impression of Mr. McGowen as an honest, forthright businessman, I find he did not meet the requisite standard.
+Facts
+[3] Mr. McGowen and his brother built up a chain of convenience stores known as Macs, which they sold in the early 1970s. In the 1980s, they developed another line of convenience stores called Hasty Market. Mr. McGowen has had extensive and successful experience in the retail industry.
+[4] In 1995, Mr. McGowen connected with Mr. David Chong, someone who formerly worked for Macs. Mr. McGowen helped him in franchising a convenience store in Calgary. Mr. McGowen was impressed with Mr. Chong's skills. In 1996, Mr. Chong was involved in franchising flower businesses. Mr. Chong wished to be independent from the Edmonton company, Growers Direct, with whom he was connected. He wanted Mr. McGowen to be his partner in expanding and franchising flower businesses.
+[5] Mr. McGowen saw this cut-flower business as ideally suited to being franchiseable, as he put it. He clearly liked Mr. Chong, and was impressed with Mr. Chong's marketing capabilities.
+[6] Mr. McGowen started financially assisting Mr. Chong with a view to the two of them becoming partners. Lawyers drew up papers to document the arrangement, but the deal was never consummated. Throughout 1996, Mr. Chong experienced significant financial woes operating his business in Alberta, as was evidenced by communications back and forth between Mr. McGowen in Vancouver and Mr. Chong in Calgary; for example, in January 1996, Mr. Chong writes to Mr. McGowen stating the "dire need for cash to keep suppliers from suing". Mr. Chong even suggested an amount of $120,000 was necessary to be injected. Mr. McGowen did not send $120,000 at that time, but up until January 1997, he did advance approximately $200,000 to Mr. Chong.
+[7] In October 1996, Mr. McGowen advised Mr. Chong by memo[1] that he needed to open a new bank account, as "the Feds have seized" funds in existing accounts. Mr. McGowen asked for a listing of payables, indicating what was supplied. Mr. McGowen testified that he asked Mr. Chong on an ongoing basis to have proper systems in place.
+[8] In November 1996, Mr. Chong advised the Appellant that payroll cheques were still bouncing, that CRA had taken $5,000 to $6,000, "the GST department" had taken about $9,600, the bank had taken $6,500 to lower its overdraft, Mr. Chong could not service his delivery vans and he was facing an eviction notice. Matters did indeed look grim for Mr. Chong. Mr. McGowen asked Mr. Chong for "GST and revenue statements".
+[9] In early 1997, Mr. McGowen suggested to Mr. Chong that the best course to follow would be for Mr. Chong to "sign over the company" to Mr. McGowen, but that Mr. Chong continue to manage it. On February 27, 1997, Mr. Chong's companies sold to Mr. McGowen's newly incorporated company, Panda, all their flower business assets in consideration for the forgiveness of the debt owed by Mr. Chong of approximately $203,000. Mr. McGowen was the sole shareholder and director of Panda.
+[10] Under this new regime, Mr. Chong continued to operate the business in Alberta, and it is clear that he continued to operate in what can best be described as a financially irresponsible manner. As an independent accountant, Mr. John W. Dicks later put it:[2]
+… It was run extremely poorly.
+Records were incomplete, missing, unfilled, unorganized resulting in a tremendous amount of time in rebuilding, requesting copies to complete the financial summaries. …
+Mr. McGowen acknowledged that this was an accurate representation of Mr. Chong's financial management skills.
+[11] Mr. Chong hired Mr. Doug Stone in 1997, though it was unclear exactly what Mr. Stone's responsibilities were. He only lasted a few months, as it was discovered he was taking funds from the company. Mr. Chong continued to have problems meeting the company's financial obligations. Mr. McGowen described how he personally had to deal directly with the authorities of the City of Calgary to make arrangement for Panda's obligation for the City's business tax.
+[12] By early 1998, Mr. McGowen knew Panda continued to have problems with CRA. He authorized CRA to deal directly with Mr. Chong or Mr. Randy Bloy, a resident of British Columbia who Mr. McGowen had asked to assist Mr. Chong, although Mr. Bloy declined to do so. Mr. McGowen indicated that he also sent his own bookkeeper, Lottie Frewin, three or four times to Alberta to help straighten things out. Ms. Frewin did not testify, nor were there any memos or documentation of any kind indicating when she went or what she did. Mr. McGowen described the situation as having a "tiger by the tail", yet he did not feel he had the option of firing Mr. Chong because:
+(a) Mr. Chong was in Alberta;
+(b) Mr. McGowen did not want to leave British Columbia, and more specifically did not want to manage the flower business;
+(c) Mr. Chong was a "nice guy"; and
+(d) Mr. McGowen still felt Mr. Chong would buy back the business.
+[13] Mr. McGowen was well aware of the company's financial difficulties, and specifically the problems with CRA, though he stated many suppliers were having problems and CRA was just one party.
+[14] On April 7, 1998, Mr. McGowen received a letter[3] from CRA:
+As for the company GST account, the required quarterly returns are not being submitted and, in fact, have not been since the company was registered effective March 18, 1997. At the present time, returns covering the periods ended 970331, 970630, 970930 and 971231 are well past due and we are considering raising further Departmental assessments for these periods unless immediate attention is paid to their filing. We do show having received a GST return reportedly covering the period from February 24, 1997 to June 30, 1997 and claiming a refund of GST in the amount of $512.79, This return is unacceptable, however, in that it starts from a date prior to the company's effective registration date and attempts to cover more than one reporting period on the same return.
+We have or will address all these account problems with Mr. Chong, however, we felt it timely to advise the company, and its sole Director, personally of the situation. As relayed earlier, the dollar and filing arrears which have developed on both accounts make for an unacceptable situation and we will expect to see matters rectified in the very near term, otherwise other enforcement action, not excluding legal action, may well have to be considered and implemented.
+Upon receipt of this letter, Mr. McGowen contacted Mr. Chong to "try and get something going". It appears, however, that Mr. McGowen himself had to deal with CRA, as in a letter of June 8, 1998 from CRA to Mr. McGowen, CRA confirms an arrangement had been reached with Mr. McGowen, whereby the company paid $3,000 towards arrears, plus provided 18 post-dated cheques of $1,000 each. This, however, was to cover source deduction arrears. Mr. McGowen memoed Mr. Chong concerning this arrangement.
+[15] In December 1998, CRA again wrote to Panda,[4] copying Mr. McGowen, asking the company to provide:
+1. A copy of the purchase agreement between Panda Marketing (1997) Ltd. and Panda Flowers Inc., 486567 Alberta Ltd., 504336 Alberta Limited, 548687 Alberta Limited, 676988 Alberta Limited, 674621 Alberta Limited, 674260 Alberta Limited, 685890 Alberta Limited and 455413 B.C. Ltd., including copies of all schedules or addendum listing the equipment, fixtures and any other assets in detail;
+2. Bank statements, cancelled cheques, and deposit records for the period March 1, 1996 to October 31, 1998;
+3. Cheques ledgers for the period March 1, 1996 to October 31, 1998;
+4. Accounts receivables records including invoice copies, journals, ledgers and, if maintained, aged accounts receivable listings for the period March 1, 1996 to October 31, 1998.
+On April 29, 1999, Mr. McGowen faxed Mr. Chong with a detailed list of questions about the company's financial affairs; for example:[5]
+5. We need copies of every deposit slip from the deposit book and/or individual deposits made to both banks since June 1, 1997. We are paying taxes on revenues even though some deposits are only loans, etc. Maybe Irene loaned money.
+6. We need proof (cancelled cheques, copies of deposit slips) of every transaction involving Irene Pang since February 1997.
+10. We need all info with respect to payroll and Revenue Canada from February/March, 1997, up to the time the bank started handling your payroll. We only receive the net amount of payroll, not the deducted or contributed portions.
+11. Same as above for G.S.T.
+Mr. McGowen recognized that Mr. Chong's managerial skills had been deteriorating. In June 1999, Panda sold its assets.
+[16] By notice of assessment dated September 29, 1999, the Minister assessed Panda for unreported GST (goods and services tax) of $142,685, interest of $8,432 and penalties of $11,173. Mr. McGowen hired Mr. John Dicks, an accountant, to review the corporate GST situation and respond to this assessment. Panda objected, the Minister confirmed the assessment and Panda appealed to the Tax Court of Canada. Mr. Dicks was Panda's only witness at the trial of the Panda matter. Following the Tax Court of Canada's decision reducing Panda's liability in March 2002, a writ of seizure and sale for Panda's liability was registered in the Federal Court of Canada, and execution for such amount was returned wholly unsatisfied. On July 17, 2002, the Minister assessed the Appellant for Panda's unremitted GST of $45,425.12 for the period April 1, 1998 to December 31, 1998, plus interest and penalties for a total of $61,215.98.
+Analysis
+[17] The sole issue to be determined is whether Mr. McGowen exercised such due diligence to rely upon subsection 323(3) of the Act which reads:
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[18] The first question to address is how to apply the standard of care set out in section 323 to Mr. McGowen. Both parties relied upon Soper v The Queen[6] a decision of the Federal Court of Appeal, though drawing different conclusions re: the application of the principle to an inside versus outside director to the facts of this case. The Appellant suggested Mr. McGowen only needs to meet the standard of an outside director while the Respondent urged me to invoke the higher standards of an inside director. The Respondent referred me to the Tax Court of Canada decision of Weyand v. The Queen[7] in which Justice Mogan held that where a corporation has only one director and that person knows he or she is a sole director, then that person is implicitly an inside director.
+[19] I do not believe it is always necessary to peg a director as an inside or outside director for as Justice Robertson stated in Soper:
+44 At the outset, I wish to emphasize that in adopting this analytical approach I am not suggesting that liability is dependent simply upon whether a person is classified as an inside as opposed to an outside director. Rather, that characterization is simply the starting point of my analysis. At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+Also, in The Queen v. Corsano,[8] the Federal Court of Appeal tweaked Soper as follows:
+23 It is true that in Soper, this Court wrote that "[t]he standard of care laid down in subsection 227.1(3) of the Act is inherently flexible". It is obvious, however, on the reading of the decision, that it is the application of the standard that is flexible because of the varying and different skills, factors and circumstances that are to be weighed in measuring whether a director in a given situation lived up to the standard of care established by the Act. For, subsection 227.1(3) statutorily imposes only one standard to all directors, that is to say whether the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+24 … All directors of all companies are liable for their failure if they do not meet the single standard of care provided for in subsection 227.1(3) of the Act. The flexibility is in the application of the standard since the qualifications, skills and attributes of a director will vary from case to case. So will the circumstances leading to and surrounding the failure to hold and remit the sums due.
+[20] The preferred course then is to examine the director's circumstances at the relevant time to determine how to apply the standard of care, not that there is any different standard of care. Whether an individual is an inside or outside director will impact on the application of the standard of care, although there are several other factors to be considered. What were Mr. McGowen's circumstances during the period of assessment, April to December 1998:
+(i) he was the sole director of Panda;
+(ii) he was a man of considerable business acumen;
+(iii) he was a resident of British Columbia, though the business was in Alberta;
+(iv) he was intimately aware of Panda's general financial woes, and specifically Panda's deficiencies in its affairs with CRA;
+(v) he knew these deficiencies were a result of Mr. Chong's incompetence in handling Panda's financial affairs, specifically as they related to CRA;
+(vi) he financed Panda to assist in dealing with these financial woes; and
+(vii) he knew he could be facing personal responsibility.
+[21] Whether Mr. McGowen is called an inside or outside director, he was certainly an involved director, with a strong business background and an ongoing appreciation of his company's deficiencies. This is not a case of a naïve director, or an unknowledgeable director, or an unaware director or a passive director. Quite the opposite. Under these circumstances, the duty of a director to take reasonable care to prevent ongoing default requires significant effort on the director's part. The efforts need not guarantee success but, in the circumstances just described, the effort must be immediate, forceful and have some reasonable likelihood of success.
+[22] What steps did Mr. McGowen take in the period April to December 1998? He constantly "got after" Mr. Chong. This is not a positive forceful step. Indeed, I find Mr. McGowen's unwavering support of someone that he knew had a history of inability to deal with this very issue, is a negative, not a positive approach. The reason Mr. McGowen cited for leaving Mr. Chong in charge shows at best an unrealistic optimism, and, at worst, a wilful blindness to the commercial reality. Either way it is not how a reasonably prudent person would have behaved.
+[23] Mr. McGowen said that over the two and one-half year period, he sent his bookkeeper from British Columbia to Alberta three or four times. I find that by the spring of 1998, the beginning of the assessment period at issue, Mr. McGowen knew that whatever Ms. Frewin was doing was having no impact whatsoever on the company's ability to comply with its filing and remittance requirements. I do not see this step as having any reasonable chance of success.
+[24] Mr. McGowen suggested that his request to Mr. Bloy was a positive step illustrating his due diligence in dealing with the problem. Mr. Bloy was approached before March 1998 and Mr. McGowen testified that Mr. Bloy, after meeting Mr. Chong, was not interested. This is not any significant effort on Mr. McGowen's part to remedy the default, and certainly not during the period assessed.
+[25] Mr. McGowen did deal with CRA directly, but the nature of that dealing went more to assisting with collection of arrears (and primarily source deduction arrears) than ensuring ongoing timely filings and remittances for GST purposes. It was only after the assessment period, that Mr. McGowen took a truly forceful positive step in hiring an independent accounting firm to review the company's records and put together the correct numbers for GST purposes. Mr. Dicks did this several months after the damage was done, once the assessment had been issued. Given Mr. Chong's ongoing disastrous track record, why did Mr. McGowen not hire Mr. Dicks in April 1998? That is what a reasonably prudent person would have done in comparable circumstances. Mr. McGowen has failed to meet the standard of care required by section 323.
+[26] Mr. McGowen indeed had a tiger by the tail, as he put it, yet whether by reason of friendship to Mr. Chong or unrealistic optimism, Mr. McGowen did next to nothing to tame that tiger. He did not exercise the degree of care, diligence and skill a reasonable prudent person would have exercised in comparable circumstances. The case is dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of May, 2005.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2005TCC353
+COURT FILE NO.:
+2003-910(GST)G,
+STYLE OF CAUSE:
+Carl Jeffrey McGowen
+and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 11, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+May 19, 2005
+APPEARANCES:
+Counsel for the Appellant:
+P. Daniel Le Dressay
+Counsel for the Respondent:
+Lynn M. Burch
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+P. Daniel Le Dressay
+Firm:
+Le Dressay & Company
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tab 3.
+[2] Exhibit A-1, Tab 25.
+[3] Exhibit A-1, Tab 11.
+[4] Exhibit A-1, Tab 18.
+[5] Exhibit A-1, Tab 15.
+[6] [1998] 1 F.C. 124.
+[7] 2004 TCC 355.
+[8] [1999] 3 F.C. 173.

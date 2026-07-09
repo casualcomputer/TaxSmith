@@ -1,0 +1,193 @@
+Title: Deblois v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28362/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-700-28362-deblois-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-12-06
+
+# Deblois v. The Queen
+
+- Citation: 2007 TCC 700
+- Decision date: 2007-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1947, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deblois v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-06
+Neutral citation
+2007 TCC 700
+File numbers
+2007-2480(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2480(IT)I
+BETWEEN:
+DANNY DEBLOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of
+Marie-Andrée Provencher (2007-2240(IT)I)
+on October 3, 2007, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+_______________________________________________________________
+AMENDED JUDGMENT
+The appeal from the notice of redetermination dated October 20, 2006, made under the Income Tax Act, by which the Minister of National Revenue denied the Appellant the Canada Child Tax Benefit, is allowed and the matter is referred to the Minister for reconsideration and redetermination on the basis that the Appellant, Danny Deblois, resided with the minor child during the months of September 2005 to March 2006 inclusive and during the months of September 2006 to June 2007 inclusive, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of February 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2008.
+Monica F. Chamberlain, Reviser
+Docket: 2007-2240(IT)I
+BETWEEN:
+MARIE-ANDRÉE PROVENCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of
+Danny Deblois (2007-2480(IT)I)
+on October 3, 2007, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christina Ham
+_______________________________________________________________
+AMENDED JUDGMENT
+The appeal from the notice of redetermination dated January 19, 2007, made under the Income Tax Act, by which the Minister of National Revenue denied the Appellant the Canada Child Tax Benefit, is allowed on the basis that the Appellant, Marie-Andrée Provencher, resided with the minor child during the months of July 2004 to June 2005 inclusive (2003 base taxation year), during the months of July 2005 to August 2005 inclusive (2004 base taxation year), during the months of April 2006 to June 2006 inclusive, and during the months of July 2006 to August 2006 inclusive (2005 base taxation year), in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of January 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2008.
+Monica F. Chamberlain, Reviser
+Citation: 2007TCC700
+Date: 20080111
+Docket: 2007-2480(IT)I
+2007-2240(IT)I
+BETWEEN:
+DANNY DEBLOIS,
+MARIE-ANDRÉE PROVENCHER
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENTS
+Tardif J.
+[1] These are two separate appeals that share in common the same set of facts, however; accordingly, the Respondent's request for a common hearing on the two appeals was allowed.
+[2] The appeals concern some decisions of the Respondent under which it was decided that the Appellants were not entitled to child tax benefits for the period from July 2004 to June 2005 inclusive (2003 base taxation year) and for the months of July 2005 to June 2006 (2004 base taxation year) in regard to their son, who was born in 1990.
+[3] The appeal also covers the decisions under which the female Appellant was denied child tax benefits for the period from September 2006 to December 2006 (2005 base taxation year), and the amounts for goods and services tax (GST) credits for the period from July 2004 to April 2005 (2003 taxation year), from July 2005 to April 2006 (2004 taxation year) and from October to January 2007 (2005 taxation year).
+[4] Finally, the appeal covers the Respondent's decision under which the female Appellant was denied the energy cost benefit for the period from July 2005 to June 2006 (2004 base taxation year).
+[5] The issues are the following:
+Docket Marie-Andrée Provencher (2007-2240(IT)I):
+(a) Was the Minister correct in reviewing the Appellant's child tax benefits and determining that the amounts received in excess came to $2,719.00 for the period from July 2004 to June 2005 for the 2003 base taxation year, to $1,744.52 for the period from July 2005 to June 2006 for the 2004 base taxation year, and to $914.19 for the period from September 2006 to December 2006 for the 2005 base taxation year?
+(b) Was the Minister correct in reviewing the Appellant's goods and services tax credit and determining that the amounts received in excess came to $342.00 for the period from July 2004 to April 2005 for the 2003 taxation year, to $227.00 for the period from July 2005 to April 2006 for the 2004 taxation year, and to $116.00 for the period from October 2006 to January 2007 for the 2005 taxation year?
+(c) Was the Minister correct in reviewing the energy costs benefit and determining that the amount received in excess came to $250.00 for the 2004 base taxation year?
+Docket Danny Deblois (2007-2480(IT)I):
+Did the Minister correctly deny the Appellant's child tax benefits for the base taxation years 2003 and 2004?
+[6] The facts are very simple: the Appellants are the parents of a boy born in 1990; they divorced in July 1998. Under the divorce decree, the female Appellant was given legal custody of the child. This judgment has never been reviewed or amended.
+[7] The Appellants both testified. Both stated that they had complied with the requirements of the Act and the Regulations and were entitled to the tax benefits for the periods in question.
+[8] The couple's son also testified at the Court's request and in the absence of the parents, who agreed to withdraw during the intervention of their adolescent son, aged 17.
+[9] He testified brilliantly. The only finding that I make from this testimony is that he loves both his parents, that he needs their presence and that they both assume their responsibility toward him. He deplored the tensions that exist between his father and mother.
+[10] His intervention has a totally neutral effect, that is, it favours neither party in any way.
+[11] The evidence from the Appellants' testimony established that although the legal custody of the child had been awarded to the mother, he had indeed resided with his father for a certain period.
+[12] His mother resided in the Beauce, but was not neglectful of her son. She was seeing him and ensuring his participation in his practice sessions. She took an interest in his health, his education and in the various needs of an adolescent of that age.
+[13] The male Appellant stated that his son had resided with him in Quebec City most of the time; he supported his statement by proving that his son attended a school in the neighbourhood. He also drew attention to a highly relevant objective fact when he stated that the female Appellant was living in the Beauce, thus making it quite improbable that a teenager would live with her and attend each day a school in the Quebec City area.
+[14] For her part, the female Appellant, more organized and more communicative, had prepared her case much more effectively. She tabled a voluminous file containing many documents attesting that her son was living with her. These were mainly documents indicating that the teenager had the same address as hers.
+[15] Asked to provide some explanations in the face of the obvious contradiction, the female Appellant had to provide some particulars and make certain clarifications; things were then explained and the male Appellant's version proved to be confirmed for two lengthy periods.
+[16] Although the female Appellant had legal custody, she admitted that her son attended school in Quebec City and that he was residing with his father. She hastened to add that the male Appellant had done nothing to obtain a change in custody; she stated that she came to Quebec City almost every weekend to see her son and attend the practices and matches in which he competed in the course of his extracurricular activities.
+[17] The record clearly disclosed that both Appellants were interested in and concerned with the equilibrium and development of the teenager, from their paternal and maternal perspectives.
+[18] In the interest of his equilibrium and well-being, the young man needs both his parents, who each have their own vision as to their son's development. In addition, the young man sees and understands the qualities and weaknesses of his parents. In such a context, no winner or champion can be determined from the evidence. We conclude, therefore, that both parents are ex aequo.
+Applicable legal provisions
+[19] The following definitions apply in this case. Only an eligible individual within the meaning of section 122.6 of the Act can claim the Canada Child Tax Benefit. An eligible individual is defined accordingly in section 122.6:
+122.6 "eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purpose of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+252(1) In this Act, words referring to a child of a taxpayer include
+. . .
+(c) a child of the taxpayer's spouse or common-law partner;
+[20] The tests for determining what constitutes care and upbringing of the child are prescribed in section 6302 of the Income Tax Regulations (the "Regulations"):
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[21] To satisfy the definition of an eligible individual, a taxpayer must fulfil two conditions: first, he must reside with the qualified dependent and, second, he must be the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant: Loyer v. Canada, [2001] T.C.J. No. 71, para. 14 (QL).
+[22] Overall, it is clear that both Appellants were very much attached to the child and that they devoted much time and energy to remaining in close contact with him over the course of the periods in question.
+[23] In this case, it is more a question of determining whom the child was living with during the periods in question. It should be noted that the eligible individual may change from one month to another since the question of who is the eligible individual is assessed "at any time": Loyer, supra, para. 13.
+[24] In Lapierre v. Canada, [2005] A.C.I. no. 538 (QL), the Court defined the notion of "reside with the qualified dependent" as follows:
+All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person's usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb "to reside" a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[25] The male Appellant did not deem it appropriate to take the initiative to obtain a judgment to confirm the de facto situation. The son has clearly chosen to live with his father, with the implied consent, at least, of his mother, the female Appellant.
+[26] The evidence has demonstrated unambiguously that the child who is the subject matter of the benefits resided with his father from September 2005 to March 2006 inclusive (2004 base taxation year) and from September 2006 to June 2007 inclusive (2005 base taxation year). Outside those periods, he resided primarily with his mother.
+[27] As to the other tests, I think that in this case they have a neutral effect since, clearly, the interest that both the male and female Appellants had, at least during the period in question, in the care and upbringing of their adolescent son was very comparable.
+[28] I do not think the evidence has demonstrated a significant demarcation between the attitude and conduct of the mother and father.
+[29] Obviously, the approaches of each of them are quite different; these differences derive essentially from the inescapable reality that a mother generally sees things differently from the father, and ideally one seeks a balance and consensus of the two parents.
+[30] When the father and mother are separated and relations are so tense that they display some aggressiveness, it becomes very difficult if not impossible to assign different appraisal scores to the two parents, especially if the young person to whom the benefits apply really needs both parents and is in a position to understand the situation perfectly.
+[31] For all these reasons, I am allowing both appeals from the determinations made under the Income Tax Act by the Minister and the matters are referred back to the Minister for reconsideration on the basis that the Appellant, Danny Deblois, resided with the minor child during the months of September 2005 to March 2006 inclusive (2004 base taxation year) and during the months of September 2006 to June 2007 inclusive (2005 base taxation year).
+[32] In the course of the reconsideration, the Minister will also have to consider the fact that the Appellant Marie-Andrée Provencher resided with the minor child during the months of July 2004 to June 2005 inclusive (2003 base taxation year), during the months of July 2005 to August 2005 inclusive (2004 base taxation year), during the months of April 2006 to June 2006 inclusive, and during the months of July 2006 to August 2006 inclusive (2005 base taxation year), in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of January 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2008.
+Monica F. Chamberlain, Reviser
+CITATION: 2007TCC700
+COURT FILE NOS.: 2007-2480(IT)I and 2007-2240(IT)I
+STYLES OF CAUSES: Danny Deblois and Marie-André Provencher and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: October 3, 2007
+Written memoranda of Respondent: October 22, 2007
+Comments of Appellants: October 31, 2007
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF AMENDED
+JUDGMENTS: January 11, 2008
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD
+For the Appellants:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

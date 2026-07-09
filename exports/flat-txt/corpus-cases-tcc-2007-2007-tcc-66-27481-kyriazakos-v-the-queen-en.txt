@@ -1,0 +1,141 @@
+Title: Kyriazakos v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27481/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-66-27481-kyriazakos-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-26
+
+# Kyriazakos v. The Queen
+
+- Citation: 2007 TCC 66
+- Decision date: 2007-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 40, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kyriazakos v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-26
+Neutral citation
+2007 TCC 66
+File numbers
+2002-1284(IT)G
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1284(IT)G
+BETWEEN:
+EVIE KYRIAZAKOS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 27, 2006, at Windsor, Ontario by
+the Honourable Justice M. Bonner and subsequently determined by review of the transcript by the Honourable Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+David M. McNevin
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1997 taxation year is allowed, with costs to the Appellant, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to an allowable business investment loss in 1997 based on a debt of $73,732 less the amount advanced by her to the Company after February 1, 1997 of $10,932.
+Signed at Ottawa, Canada, this 26th day of January 2007.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2007TCC66
+Date: 20070126
+Docket: 2002-1284(IT)G
+BETWEEN:
+EVIE KYRIAZAKOS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Evie Kyriazakos seeks the deduction of an allowable business investment loss (ABIL) for the 1997 taxation year based on advances to 1174429 Ontario Inc. (the Company) of $73,732. The Minister of National Revenue (the Minister) denied the ABIL in 1997 on the basis that Ms. Kyriazakos did not act reasonably and prudently in determining the debt had gone bad in 1997, or alternatively, if the debt had become bad in 1997, only advances prior to February 1, 1997 qualify, as any debt incurred thereafter was not for the purpose of gaining or producing income from a business or property.
+[2] This matter was heard before Justice Bonner in March 2006. Justice Bonner retired in the summer of 2006 without providing a judgment in the matter. In December 2006, Chief Justice Bowman discussed with the parties how to conclude this case. He determined to assign the file to me on the basis that I would review the transcript, and if I found any uncertainty requiring clarification in the facts or argument, I could reopen the case on that relevant point alone. I have not found it necessary to reopen the trial. I recognize that if a party wishes to appeal my decision, the likely result would be a new trial in any event. Practically though, it seems sensible to avoid the time and expense of a new trial at this stage, if there is some possibility my decision, based on the transcript, will be accepted by the parties.
+Facts
+[3] The parties provided the following partial Agreed Statement of Facts:
+1. The Appellant is an individual and was a shareholder in 1174429 Ontario Inc.
+2. 1174429 Ontario Inc. was incorporated on April 26, 1996. The shareholders at that time were the Appellant, George Sofos and Chris Kambouris.
+3. 1174429 Ontario Inc. was at all material times a Canadian Controlled Private Corporation ("CCPC") as defined by the Income Tax Act.
+4. 1174429 Ontario Inc. was engaged in active business from the date of its incorporation until sometime in the latter part of 2005 when it ceased to carry on business.
+5. The Appellant advanced the sum of $73,732 to 1174429 Ontario Inc. between March 29, 1996 and February 25, 1997.
+6. 1174429 Ontario Inc. recorded the shareholder's loan in favour of the Appellant in its financial statements for the period ended March 31, 1998 and all subsequent reporting periods.
+[4] Ms. Kyriazakos and her family have a history of involvement in the nightclub and restaurant business in Windsor, Ontario. In 1995, George Sofos, Chris Kambouris, the Appellant and her husband determined to open a nightclub together in the Windsorarea. Mr. Sofos sought out a suitable location, 1200 University West in Windsor. A lease was signed on March 29, 1996. The lease was conditional upon receiving a liquor license, such condition to be met or waived by May 14, 1996. They applied for the liquor license in April 1996.
+[5] Ms. Kyriazakos, Mr. Sofos and Mr. Kambouris agreed to deposit $10,000 each into an account to get the business started. Presuming they would get the liquor license, they waived the condition in the lease and took possession of the property in May, 1996. They commenced renovations. Ms. Kyriazakos continued to inject money into the Company, investing $40,000 in May, and $5,000 in September. It was agreed that she ultimately advanced $73,732 to the Company.
+[6] Hearings with respect to the liquor license took place in October 1996, and a decision was rendered by the Liquor Licensing Board of Ontario in January 1997, denying the license. Ms. Kyriazakos and the other two shareholders discussed not carrying on at this stage, though Mr. Sofos had an idea to shift gears and start a children's entertainment business instead. Ms. Kyriazakos was not interested, holding the view that such a business would simply not work. At this time, Ms. Kyriazakos considered the Company insolvent. After discussions with her accountant, Ms. Kyriazakos decided to sell her shares on February 1, 1997, to Mr. Sofos. Mr. Kambouris did likewise. He agreed with Ms. Kyriazakos that his interest was in a nightclub/restaurant, not a children's entertainment centre. He did not think it was a great idea and shared Ms. Kyriazakos' view that this would not get their money back.
+[7] In March 1997, Ms. Kyriazakos put another $3,000 into the Company to satisfy some debts the Company incurred while still active, which Ms. Kyriazakos indicated she felt obligated to pay. She had similarly injected an amount of $7,932 in late February.
+[8] Mr. Sofos carried on with his idea of a children's entertainment centre, opening the business in the Fall of 1997 under the name "The Junction". He had been able to obtain other investors to assist him with this venture. Ms. Kyriazakos visited the premises and noted there was no activity at that time. She was advised by Mr. Sofos that things were not going well and that the Company could not afford non-family employees. Ms. Kyriazakos admitted that she made no attempt to collect her loan from the Company, as she knew Mr. Sofos was in trouble, and, as a friend, she did not want to add to his problems. She felt it would be awkward to send her friend a letter. As she testified: "I never thought he could pay me back. I knew that he was going nowhere with that business and I never thought that he would ever be able to pay me back." She did not, however, talk to her accountants or to lawyers regarding collection of the debt, though she had advised her accountant that she did not think she was going to be repaid. As a result of Mr. Sofos taking on other partners, she concluded that he was not doing well.
+[9] After again consulting with her accountant in the Spring of 1998, at the time of preparing her tax return for 1997, she determined that she would claim an ABIL for 1997. She did not review the March 31, 1998 financial statements with her accountant at this time, as she felt she had no entitlement to such statements given she was no longer a shareholder. The evidence was that such statements were not, in any event, released by the accountant until May 9, 1998.
+[10] The Company's financial statements for the period ended March 31, 1998 indicated an increase in shareholders' loans from $242,117 (the original three investors, including Ms. Kyriazakos' $73,000) at March 31, 1997 to $439,478. In addition to this, there were bank loans of $233,500 and a note payable of $54,834 for total financing of $727,812. The income statement indicated revenues of $310,625 with income from operations, before depreciation and management salaries of $30,752, resulting in a loss of $54,849. It also shows cash of $43,196 and accounts payable of $61,946, which the accountant, Mr. George Reboulis, testified left the Company with no cash.
+[11] Mr. Reboulis suggested that, in his discussion with Ms. Kyriazakos in the Spring of 1998, he knew that Mr. Sofos was not going to make it. Mr. Reboulis indicated that at this time the Company was not operating and would not operate unless Mr. Sofos found some investors. I presume Mr. Reboulis is mistaken about the timing of this conversation, as Mr. Sofos had found investors in 1997 and was operating in March 1998, as the March 31, 1998 financial statements indicated. The Company had generated revenues from September 1997 to the end of March 1998 of over $300,000. However, I do accept that at some point in 1997 and 1998, Mr. Reboulis did indeed advise Ms. Kyriazakos to take the ABIL.
+Issue
+[12] To avail herself of an ABIL for the 1997 taxation year, Ms. Kyriazakos must establish, as provided in paragraph 50(1)(a) of the Act, that the debt became a bad debt in that year. All other conditions of paragraph 39(1)(a) of the Act for claiming an ABIL have been met by her.
+Analysis
+[13] The Federal Court of Appeal in Rich v. Canada[1] set out a number of principles for determining whether a taxpayer has made an honest and reasonable assessment that a debt is bad:
+(i) "After the creditor personally considers the relevant factors, the question is whether the creditor honestly and reasonably determined the debt to be bad."[2]
+This presupposes that the creditor has some obligation to consider the relevant factors.
+(ii) The factors a creditor should take into account are:[3]
+"1. the history and age of the debt;
+2. the financial position of the debtor, its revenues and expenses, whether it is earning income or incurring losses, its cash flow and its assets, liabilities and liquidity;
+3. changes in total sales as compared with prior years;
+4. the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+5. the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+6. the general business conditions in the country, the community of the debtor, and I the debtor's line of business; and
+7. the past experience of the taxpayer with writing off bad debts."
+(iii) "... there is no legal requirement that proactive steps be taken in all cases. The obligation to take such steps will only arise where there is some evidence to show that collection on the loan is reasonably possible. This, of course, would include cases in which the Minister has assumed that collection was reasonably possible and the taxpayer has failed to address or has inadequately addressed that assumption."[4]
+(iv) "Nor is it necessary for a creditor to exhaust all possible recourses of collection. All that is required is an honest and reasonable assessment. Indeed, should a bad debt subsequently be collected in whole or in part, the amount collected is taken into income in the year it is received."
+[14] I conclude from this approach that the steps a creditor is expected to take to collect a debt depend on the creditor's review of the factors suggested by Justice Rothstein in the Rich decision. If, upon such a review, the situation is found to be hopeless, then no steps at all are required. At the other end of the spectrum, if the review, conducted reasonably and honestly, suggests considerable hope for repayment, I would suggest some vigorous pursuit of collection should be expected before writing off the debt. The grey area of course is where the review leads to a conclusion that hope of collection lies somewhere between futile and likely. In such cases, I glean from principles in Rich that the creditor, while certainly not exhausting all remedies, should make some effort at collection before being able to say, the debt is bad.
+[15] The first question then to ask is, what did Ms. Kyriazakos do by way of considering the sort of factors suggested by Justice Rothstein in Rich? The Respondent suggests this is where the Appellant fails in her bid to establish the debt was bad, as she did not fully conduct a review. She made no inquiries for fear of upsetting Mr. Sofos, and therefore cannot be found to have reached a proper determination. In effect, the Respondent suggests a creditor cannot rely on a gut feeling the debt is bad - the creditor must engage in a reasonable review. The Respondent goes on to argue that had Ms. Kyriazakos done that, she would have found the situation not as bleak as she thought.
+[16] The Appellant argues that Ms. Kyriazakos personally investigated by attending at the premises, she made inquiries of Mr. Sofos, and she also consulted with her accountant before concluding that the situation was hopeless. Further, had she received more detailed financial information it would have led to a reasonable and honest determination that the debt was indeed not collectible.
+[17] Ms. Kyriazakos did not take any steps to collect the debt as it was her belief that it was uncollectible. What did she consider in reaching that decision? I will address this question by looking at the factors the Federal Court of Appeal suggests should be considered:
+(1) History and age of debt
+Ms. Kyriazakos obviously appreciated the debt was only a few months old. She also appreciated it had been intended for a nightclub/restaurant business, an industry in which she had some experience and confidence as to the viability of the business. But that business did not materialize. Within a few months she found her money was no longer backing the intended business; it was tied up in what she considered a losing enterprise, a children's entertainment business. So, although the debt was young, its brief history had transformed it, in Ms. Kyriazakos' mind, to money down the drain.
+(2-6) The financial position of the debtor (revenues, expenses, cash, liquidity, sales, receivables, payables etc.)
+Ms. Kyriazakos did not review any financial statements (in fact they were not available until after her meeting with her accountant), and she did not even ask to see that information. She felt it would be "awkward" to do so. Instead, she considered Mr. Sofos' assessment of his prospects, her own business acumen (based on a visit to the premises and her understanding of the need for new investors), her accountant's advice and her co-investor, Mr. Kambouris's similar view. Nothing, and no one, gave her any glimmer of hope.
+Although I have some concerns that Ms. Kyriazakos did not investigate the Company's finances, had she insisted upon obtaining more detailed financial information, what would she have seen? She would have seen a Company, which had tripled its debt load in a few months, had no cash and no salaried arm's length employees. Granted, the Company had $300,000 in revenues, but that number is meaningless unless put in context. The context was not financially pretty.
+(6) The general business conditions
+There was no evidence of the general economic climate locally or nationally. But Ms. Kyriazakos did indicate that a couple of children's entertainment centres had been attempted in Windsor, without success.
+(7) The past experience of Ms. Kyriazakos' with writing off bad debts
+There was no evidence indicating any history of writing off bad debts.
+[18] I harbour some reservations about a taxpayer not delving more diligently into a debtor's finances, but where, as here, such further investigation would have resulted in the same conclusion, I am inclined to give Ms. Kyriazakos, on balance, the benefit of the doubt. In effect, her decision is saved as being reasonable by the Company's true financial circumstances. Subjectively, she acted reasonably based on what she knew. Objectively, she acted reasonably based on what she did not know. I conclude that where a creditor could access financial information to assist in assessing the collectibility of a debt but chooses not to, the Court should take into account not only all the factors the creditor in fact considered, but the Court should also consider such financial information in assessing the reasonableness of the creditor's decision. If the objective financial review paints a picture of a financially healthy debtor, this would cast some serious doubt on the creditor's subjective analysis. That is not however the situation before me. The financial situation was subjectively and objectively hopeless: there was no requirement therefore for Ms. Kyriazakos to take any collection steps. I find, in the circumstances, that Ms. Kyriazakos honestly and reasonably determined the debt to be bad in the 1997 taxation year.
+[19] Having found the debt has been established to be bad in 1997, the question becomes whether the full amount of $73,732 is eligible for the ABIL? No. The amounts loaned to the Company after Ms. Kyriazakos ceased to be a shareholder cannot be held to be incurred for the purpose of gaining or producing income. She stood no chance of profiting as a shareholder. She also attached no interest rate to this debt. She admitted these amounts were injected into the Company to cover expenses incurred in connection with the nightclub/restaurant business, for which she felt some moral obligation. I have not been convinced there was any legal obligation to make these advances. Clearly, at the time she loaned those funds there was no possibility of earning income on that loan. In fact, there was little likelihood, in Ms. Kyriazakos' mind, of even seeing the principal. Applying paragraph 40(2)(g) of the Act, the loss is nil as it arises from the disposition of a debt that was not acquired for the purpose of gaining or producing income.
+[20] I therefore allow the appeal, with costs to the Appellant, and refer the matter back to the Minister for reconsideration and reassessment on the basis that Ms. Kyriazakos is entitled to an ABIL in 1997 based on a debt of $73,732 less the amount advanced by her to the Company after February 1, 1997 of $10,932.
+Signed at Ottawa, Canada, this 26th day of January, 2007.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2007TCC66
+COURT FILE NO.: 2002-1284(IT)G
+STYLE OF CAUSE: Evie Kyriazakos and
+Her Majesty The Queen
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: March 27, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: January 26, 2007
+APPEARANCES:
+Counsel for the Appellant:
+David M. McNevin
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. McNevin
+Firm: Ducharme Fox, LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2003] Q.L. F.C.J. No. 190 (FCA).
+[2] Paragraph 12.
+[3] Paragraph 13.
+[4] Paragraph 23.

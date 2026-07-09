@@ -1,0 +1,157 @@
+---
+title: "Mazzaferro c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/418232/index.do"
+last_modified: "2019-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 147"
+citation2: ""
+neutral_citation: "2019 CCI 147"
+decision_date: "2019-07-08"
+language: "fr"
+item_id: "418232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4386
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:14:12.387000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d7fb6284d120d7738960da270c10b9d6173b6630e9254a2cdff48b97c77b0eb8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mazzaferro c. La Reine
+
+- Citation: 2019 CCI 147
+- Decision date: 2019-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4386, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mazzaferro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-08
+Référence neutre
+2019 TCC 147
+Numéro de dossier
+2018-2619(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2619(IT)I
+ENTRE :
+JENNY MAZZAFERRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 juin 2019 et décision rendue de vive voix à l’audience du 7 juin 2019, à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Bruce Taub
+Avocats de l’intimée :
+Me Claude Lamoureux
+Me Annie Laflamme
+JUGEMENT
+Conformément aux motifs rendus à l’audience, l’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2009, 2010, 2011 et 2012 est accueilli en partie, sans dépens, et l’affaire est renvoyée au ministre du Revenu national aux fins de réexamen et d’établissement d’une nouvelle cotisation en conformité avec les motifs du jugement ci-joints.
+Signé à Ottawa (Ontario), ce 8e jour de juillet 2019.
+« Patrick Boyle »
+Le juge Boyle
+Dossier : 2018-2619(IT)I
+ENTRE :
+JENNY MAZZAFERRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement rendu de vive voix à l’audience, le 7 juin 2019, à Montréal (Québec). J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Ottawa (Ontario), ce 8e jour de juillet 2019.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2019 CCI 147
+Date : 20190708
+Dossier : 2018-2619(IT)I
+ENTRE :
+JENNY MAZZAFERRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Appel entendu le 4 juin 2019 et décision rendue de vive voix à l’audience du
+7 juin 2019, à Montréal (Québec).
+Le juge Boyle
+[1] Je suis ici pour rendre ma décision et exposer les motifs du présent appel, que j’accueille en partie. Cet appel soumis à la procédure informelle soulève trois questions en litige.
+[2] La première est de savoir si les années visées par l’appel sont frappées de prescription. Je conclus que la Couronne s’est acquittée de son fardeau de la preuve relativement à la prorogation du délai normal d’établissement de nouvelle cotisation pour les années visées. L’information trompeuse dans les déclarations de revenus de Mme Mazzaferro concerne les emprunts que l’appelante a souscrits auprès de Mazzaruss Inc., une société contrôlée par son frère et son épouse, et qui n’ont pas été inclus dans son revenu.
+[3] Aucune explication n’a été fournie pour justifier l’omission de ces emprunts, si ce n’est que l’appelante avait l’intention de les rembourser, ce qu’elle a fait plusieurs années plus tard. L’appelante n’a demandé conseil à personne, pas même au comptable de la société, au sujet des conséquences fiscales de ces emprunts, même si elle savait très bien que, durant ces années, elle avait emprunté la somme de 45 000 $ d’une société qui était contrôlée par des membres de sa famille. Cette négligence ou ce manque de diligence suffit pour autoriser l’établissement de nouvelles cotisations au-delà de la période normale de nouvelle cotisation.
+[4] La deuxième question concerne les emprunts précités. Il s’agit de déterminer s’il était justifié pour l’Agence du revenu du Canada d’inclure ces emprunts dans le revenu de l’appelante pour établir les nouvelles cotisations.
+[5] L’appelante a reconnu que les prêts lui avaient été consentis par Mazzaruss. Ils ont été remboursés, mais non au cours de la première année. Pour ce motif, l’appel interjeté par l’appelante à l’égard des prêts totalisant 45 000 $, qu’elle a contractés auprès de Mazzaruss de 2009 à 2012, est rejeté.
+[6] Comme je l’ai mentionné l’autre jour, la Loi prévoit des règles précises autorisant une déduction pour le remboursement des emprunts inclus dans le revenu, mais uniquement pour l’année au cours de laquelle est fait le remboursement. Dans la mesure où les prêts consentis par Mazzaruss ont été remboursés par l’appelante au cours d’une année subséquente, lequel remboursement peut inclure un paiement à une autre personne ou au profit d’une autre personne conformément aux directives du prêteur Mazzaruss, l’appelante pourrait être admissible à une déduction pour cette année ultérieure. Cependant, cette année ultérieure n’est pas visée par l’appel dont notre Cour a été saisie.
+[7] Il reste la troisième question qui concerne l’inclusion, dans le revenu de l’appelante, de l’avantage relatif à l’utilisation d’une automobile (BMW). J’accueille l’appel interjeté par l’appelante à l’encontre de l’inclusion dans son revenu de l’avantage relatif à l’utilisation d’une automobile.
+[8] La BMW en question avait été louée par Les Aliments Da Vinci Ltée. Les éléments de preuve non réfutés et non contestés de la contribuable montrent qu’elle n’a que rarement utilisé la voiture de fonction pour les affaires de la société et qu’elle ne l’a jamais utilisée à des fins personnelles. Elle n’a ni signé le contrat de location, ni pris possession du véhicule du concessionnaire, comme le présumait l’intimée. Son travail chez Da Vinci se résumait à environ une journée par mois, et non aux cinq jours par semaine présumés par la vérificatrice dans son témoignage.
+[9] L’appelante possédait sa propre voiture, une Lexus, qu’elle utilisait pour ses activités de courtage immobilier et son usage personnel. De plus, elle et son époux possédaient une voiture sport qu’ils utilisaient durant l’été. Elle conduisait sa Lexus pour se rendre chez Da Vinci et elle a, à l’occasion, utilisé la BMW chez Da Vinci dans le cadre de fonctions d’affaires de la société.
+[10] Le fait que l’époux de l’appelante ait exercé son option d’achat et fait l’acquisition de la voiture, à la fin du contrat de location de la BMW par Da Vinci, ne permet d’aucune façon d’en déduire que l’appelante a utilisé cette voiture à des fins personnelles au cours d’années précédentes.
+[11] Enfin, le fait que le concessionnaire BMW, qui a loué la voiture à Da Vinci et en a fait l’entretien durant toute la période de location, ait eu en sa possession une copie du permis de conduire de l’appelante ne peut étayer quelque conclusion voulant que l’appelante ait choisi la BMW ou en ait fait l’essai routier ou pris livraison pour Da Vinci en mars 2009, ni qu’elle l’ait déjà utilisée à des fins personnelles. D’autant plus qu’il semble que le permis en question a été délivré après l’acquisition du véhicule, au début du contrat de location. Il est tout au moins aussi possible qu’elle soit allée chercher le véhicule de Da Vinci chez le concessionnaire après un rendez-vous de service du véhicule. Je suis certain que d’autres motifs pourraient être invoqués.
+[12] L’appel interjeté par l’appelante à l’encontre de l’avantage relatif à l’utilisation d’une automobile est accueilli, mais celui à l’égard des prêts consentis par Mazzaruss est rejeté.
+Signé à Ottawa (Ontario), ce 8e jour de juillet 2019.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2019 CCI 147
+NO DU DOSSIER DE LA COUR :
+2018-2619(IT)I
+INTITULÉ :
+JENNY MAZZAFERRO c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 4 juin 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 8 juillet 2019
+COMPARUTIONS :
+[EN BLANC]
+Avocat de l’appelante :
+Me Bruce Taub
+Avocats de l’intimée :
+Me Claude Lamoureux
+Me Annie Laflamme
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+Me Bruce Taub
+Cabinet :
+Groupe BTLG avocats
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,100 @@
+Title: Mason v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100778/index.do
+Corpus path: corpus/cases/tcc/2014/2015-tcc-23-100778-mason-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-03
+
+# Mason v. The Queen
+
+- Citation: 2015 TCC 23
+- Decision date: 2014-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2772, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mason v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-03
+Neutral citation
+2015 TCC 23
+File numbers
+2011-3161(GST)G, 2011-3228(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3228(IT)G
+2011-3161(GST)G
+BETWEEN:
+DAN MASON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Heseltine
+ORDER
+IT IS HEREBY ORDERED that costs in the amount of $13,800 plus disbursements of $5,927.52 for a total of $19,727.52 be payable by the Appellant within six months of the final disposition of the Appellant’s appeal to the Federal Court of Appeal.
+Signed at Ottawa, Canada, this 27th day of January 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 23
+Date: 20150127
+Docket: 2011-3228(IT)G
+2011-3161(GST)G
+BETWEEN:
+DAN MASON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+C. Miller J.
+[1] The Respondent seeks costs in this Appeal in accordance with Tariff ‑ Class C. I had asked the Parties to provide written submissions on costs due to the unique manner in which this case unfolded. I have received those written submissions and I am prepared to order costs in accordance with the draft Bill of Costs submitted by the Respondent with the Respondent’s written submissions, in the amount of $19,727.52.
+[2] The trial of this matter was heard in two parts: the first on the 5th and 6th of February 2014, and the second on May 13, 2014. At the first hearing, the Appellant’s sole submission was that any income from his accounting practice was not his, but belonged to a trust. He did not raise as an issue the accuracy of income and expenses attributable to the accounting practice. I found there was no trust and that any income was in fact the Appellant’s income. The Respondent had not, at that stage, allowed for any expenses.
+[3] It was my view, notwithstanding the Appellant’s failure to address the numbers, that a further hearing was necessary to attempt to determine the true taxable income of Mr. Mason’s accounting practice. I encouraged the Parties in the interim to sit down and settle this matter. They were unable to do so, notwithstanding several offers made by the Respondent.
+[4] At the second phase of the trial, I ultimately accepted the Respondent’s position on both the income and the expenses, though with respect to the GST Appeal, I slightly increased the Input Tax Credits conceded by the Crown. In effect, the Crown was substantially successful.
+[5] Costs are at the Court’s discretion, guided by the factors set out in Rule 147 of the Tax Court of Canada Rules (General Procedure). I feel no need to go through each of these factors as they all so clearly point to an award of costs in favour of the Respondent. There is nothing in the Appellant’s submissions to support any deviation from an award of costs in the cause, as sought by the Respondent. I find the Respondent’s Bill of Costs is reasonable.
+[6] I understand from the Appellant’s submissions that he currently has no means to pay any costs award. I also note that he has appealed my decision. While I award costs in accordance with the attached Bill of Costs, I would allow the Appellant six months from the final disposition of this appeal at the Federal Court of Appeal within which to pay this costs award.
+Signed at Ottawa, Canada, this 27th day of January 2015.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2015 TCC 23
+COURT FILE NO.:
+2011-3228(IT)G, 2011-3161(GST)G
+STYLE OF CAUSE:
+DAN MASON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+n/a
+DATE OF HEARING:
+n/a
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+January 27, 2015
+APPEARANCES:
+For the Appellant
+The Appellant himself
+For the Respondent
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

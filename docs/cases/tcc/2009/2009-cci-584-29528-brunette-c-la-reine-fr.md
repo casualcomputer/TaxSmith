@@ -1,0 +1,132 @@
+---
+title: "Brunette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29528/index.do"
+last_modified: "2009-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 584"
+citation2: ""
+neutral_citation: "2009 CCI 584"
+decision_date: "2009-11-13"
+language: "fr"
+item_id: "29528"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6346
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:22:25.287000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a0992431e9c0e3f2a07532c13a243b3180cbf11b0bb065ecd8f0dd7d508e2f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brunette c. La Reine
+
+- Citation: 2009 CCI 584
+- Decision date: 2009-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6346, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brunette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-13
+Référence neutre
+2009 CCI 584
+Numéro de dossier
+2008-1410(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1410(IT)I
+ENTRE :
+KIMBERLEY ANNE BRUNETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juillet 2009, à Hamilton (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Ricky Tang
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies à l’égard de l’appelante en vertu de la Loi de l'impôt sur le revenu pour les années d’imposition 1999, 2000, 2001, 2002, 2003 et 2004 est rejeté, conformément aux motifs ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 11e jour de décembre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 584
+Date : 20091113
+Dossier : 2008-1410(IT)I
+ENTRE :
+KIMBERLEY ANNE BRUNETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Dans le présent appel, entendu sous le régime de la procédure informelle, la question à trancher est de savoir si Mme Brunette et M. Vesely vivaient en union de fait pendant la période en cause. L’Agence du revenu du Canada (l’« ARC ») a établi que Mme Brunette et M. Vesely étaient conjoints de fait, ce qui a eu des répercussions négatives sur le crédit pour TPS et les montants de la Prestation fiscale canadienne pour enfants de Mme Brunette. Une autre question relative à la pension alimentaire pour enfants a été soulevée à l’audience. Les éléments de preuve et les arguments relatifs à l’union de fait ont été présentés, à la suite de quoi l’audience a été suspendue afin de permettre à l’ARC d’étudier la question de la pension alimentaire pour enfants. On m’a avisé que l’ARC admettait à présent avoir désigné à tort les montants de pension alimentaire pour enfants de l’appelante comme étant des montants de pension alimentaire pour conjoint et qu’elle a établi de nouvelles cotisations à l’égard de Mme Brunette afin de corriger la situation.
+[2] Je suis entièrement convaincu du fait que Mme Brunette et M. Vesely vivaient en union de fait pendant la période en cause et je rejette l’appel.
+[3] La question de savoir si Mme Brunette et M. Vesely étaient conjoints de fait pendant la période en cause repose entièrement sur la définition de « conjoint de fait » énoncée au paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi »), autrement dit du fait de savoir s’ils vivaient dans une relation conjugale.
+[4] La Loi ne définit pas l’expression « vivre dans une relation conjugale ». Néanmoins, cette expression a un sens bien établi en droit. La Cour de district de l’Ontario, dans la décision Molodowich v. Penttinen, 17 R.F.L. (2d) 376, [1980] O.J. n° 1904 (QL), a établi une liste exhaustive de critères à prendre en considération. Dans l’arrêt M. c. H., [1999] 2 R.C.S. 3, la Cour suprême du Canada s’est penchée sur la place qu’il fallait accorder aux critères énoncés dans la décision Molodowich en vue d’établir l’existence d’une relation conjugale. La Cour suprême a déclaré que les caractéristiques de l’union conjugale, soit le partage d’un toit, les rapports personnels et sexuels, les services, les activités sociales, le soutien financier, les enfants et aussi l’image sociétale du couple, pouvaient être présentes à des degrés divers et n’étaient pas toutes nécessaires. Les conjoints de fait ne peuvent se soustraire à leurs obligations sous prétexte qu’ils ne se conforment pas parfaitement au « modèle matrimonial traditionnel ». D’après la Cour suprême du Canada, même l’existence de relations sexuelles ne constitue pas une exigence. Le poids à accorder à chacun des critères définis dans la décision Molodowich variera grandement, presque à l’infini. Les tribunaux doivent faire preuve d’ouverture et se faire le miroir de la réalité, à savoir que les relations de couple, qu’il s’agisse de couples mariés ou vivant en union de fait, varieront grandement.
+[5] Je dois examiner ces décisions en admettant le fait qu’au Canada, les relations familiales et personnelles évoluent et traduisent une infinité de choix différents, choix qui fonctionnent pour ceux qui les vivent. Comme les tribunaux l’ont déjà souligné, le modèle matrimonial traditionnel est manifestement dépassé. Après avoir entendu les témoignages à la fois de Mme Brunette et de M. Vesely, il est clair que leur relation correspondait tout à fait à ce que le concept de « vivre dans une relation conjugale » tend à décrire.
+[6] La relation de Mme Brunette et de M. Vesely a commencé quand l’appelante et son fils ont emménagé dans l’appartement situé en face de celui de M. Vesely. Ils sont devenus, selon les termes de M. Vesely, [traduction] « amis de cœur ». Peu de temps après, Mme Brunette et son fils ont emménagé dans l’appartement d’une chambre à coucher de M. Vesely. Pendant une partie de la période en cause, Mme Brunette et M. Vesely ont dormi dans le même lit, même si à un moment donné, Mme Brunette a acheté un autre lit pour son usage personnel, qu’elle installait tantôt dans la chambre à coucher, tantôt dans le salon. Mme Brunette et M. Vesely cuisinaient régulièrement l’un pour l’autre et faisaient leur lessive en commun. Mme Brunette s’occupait des tâches ménagères telles que l’époussetage, le nettoyage, l’entretien général et les améliorations mineures. Ils allaient dîner au restaurant ensemble et avaient des activités telles que les quilles, le mini-golf ou le cinéma. Il leur arrivait d’avoir des relations sexuelles et aucun des deux n’entretenait d’autre relation. Ils échangeaient des cadeaux à Noël et pour leurs anniversaires. M. Vesely faisait notamment livrer des roses à Mme Brunette pour son anniversaire. Ils avaient des discussions de nature personnelle. M. Vesely a aidé Mme Brunette à surmonter ses sérieuses difficultés personnelles ainsi que ses problèmes financiers. Elle l’avait fait ajouter sur sa police d’assurance automobile comme conducteur, même s’ils avaient chacun leur propre voiture. Ils faisaient leurs courses ensemble, allaient au restaurant et sortaient deux ou trois fois par mois. M. Vesely traitait le fils de Mme Brunette comme s’il était le sien. Considérant leurs situations financières différentes, M. Vesely aidait financièrement Mme Brunette, même si celle‑ci contribuait aux dépenses quand elle le pouvait, dans leur intérêt commun. Mme Brunette a déclaré qu’elle pensait que leurs voisins les considéraient comme un couple. Elle s’est rendue à une réunion de famille chez les parents de M. Vesely pour Noël. Elle a envoyé des lettres aux autorités gouvernementales, incitant M. Vesely à l’imiter, afin de les aviser qu’ils avaient été conjoints de fait, mais qu’ils ne l’étaient plus depuis le courant de l’année 2003. Je remarque qu’il n’y a rien dans la preuve qui permette de conclure que leur relation a pris fin en 2003, au moment indiqué.
+[7] Au début, ils étaient fidèles l’un à l’autre. Toutefois, en avril 2003, leur relation a commencé à se détériorer. Ils ont continué à vivre ensemble jusqu’à la fin de l’année 2004. Mme Brunette a déménagé dans le courant de l’année 2005.
+[8] Dans les circonstances, je suis convaincu que Mme Brunette et M. Vesely étaient conjoints de fait et vivaient dans une relation conjugale. Les gens commencent à vivre ensemble, cohabitent et cessent de cohabiter pour de nombreuses raisons. Le fait que Mme Brunette et M. Vesely prétendent n’avoir jamais souhaité qu’on les considère comme des conjoints de fait n’a pas beaucoup d’importance à la lumière des circonstances réelles ayant entouré leur relation. Celle‑ci doit être examinée en fonction des faits, en tenant compte des caractéristiques définies dans la décision Molodowich, soit le partage d’un toit, les rapports personnels et sexuels, les services, les activités sociales, le soutien financier, les enfants et aussi l’image sociétale du couple. À la lumière de ces caractéristiques, il est clair que Mme Brunette et M. Vesely vivaient en union de fait.
+[9] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 11e jour de décembre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 584
+NO DU DOSSIER DE LA COUR : 2008-1410(IT)I
+INTITULÉ : Kimberley Anne Brunette et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 22 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 13 novembre 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Ricky Tang
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

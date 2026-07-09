@@ -1,0 +1,122 @@
+Title: Desbiens c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26775/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-575-26775-desbiens-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# Desbiens c. M.R.N.
+
+- Citation: 2005 CCI 575
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3520, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desbiens c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-06
+Référence neutre
+2005 CCI 575
+Numéro de dossier
+2005-1239(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-1239(EI)
+ENTRE :
+JEAN-NOËL DESBIENS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 19 août 2005, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli en ce que le travail exécuté, lors des périodes du 9 juillet au 30 novembre 2001 et du 10 au 28 juin 2002, est considéré assurable et la décision du ministre du Revenu national est annulée; selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI575
+Date : 20050906
+Dossier : 2005-1239(EI)
+ENTRE :
+JEAN-NOËL DESBIENS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « ministre » ) en date du 3 mars 2005. Selon le ministre, l'appelant a effectué, du 9 juillet au 30 novembre 2001 et du 10 au 28 juin 2002, du travail dans le cadre d'un contrat de services et non d'un contrat de louage de services.
+[2] L'intimé s'est appuyé sur les hypothèses de fait suivantes pour rendre sa décision:
+a) le payeur, constitué en société en 1945, exploite une entreprise forestière; [passé outre]
+b) les activités du payeur sont essentiellement la récolte de bois et des travaux sylvicoles; [admis]
+c) le payeur ne possède aucune machinerie forestière, il en fait la location et embauche une centaine de travailleurs; [admis]
+d) en 2001, le payeur était à la recherche d'un travailleur possédant sa propre débusqueuse pour effectuer du travail en terrain montagneux; [admis]
+e) contrairement à ses habitudes, le payeur ne pouvait rémunérer le travailleur en fonction du volume de bois coupé ou à forfait car le terrain à couvrir était accidenté; [admis]
+f) le payeur a embauché l'appelant et sa débusqueuse, ainsi que le fils de l'appelant, en vertu d'une entente verbale; [admis]
+g) la principale condition d'embauche de l'appelant était qu'il fournisse sa débusqueuse; [admis]
+h) durant les périodes en litige, l'appelant fournissait sa débusqueuse d'une valeur d'environ 15 000 $ et devait en assumer tous les frais d'exploitation; [admis]
+i) l'appelant possédait une assurance responsabilité pour sa débusqueuse; [admis]
+j) l'appelant effectuait la coupe avec sa scie mécanique alors que son fils, Alexandre, sortait le bois avec l'aide de la débusqueuse; [admis]
+k) l'appelant travaillait à environ 2h30 ou 3h de sa résidence et, durant la semaine de travail, il logeait avec son fils dans le camp de Boisaco à Sacré-Coeur où il payait pension; [admis]
+l) durant les périodes en litige l'appelant travaillait généralement 45 heures par semaines (5 journées consécutives de 9 heures); [admis]
+m) le payeur avait un contremaître sur le chantier pour indiquer à l'appelant où effectuer ses coupes de bois et pour faire respecter les normes de sécurité applicables à tout travail forestier. [admis]
+n) durant les périodes en litige et selon l'entente verbale intervenue entre les parties, l'appelant recevait une rémunération fixe de 780 $ par semaine et le payeur lui versait une somme de 1 200 $ par semaine pour la location de sa débusqueuse; [admis]
+o) la rémunération versée à l'appelant était directement liée aux heures d'opération de sa débusqueuse; [admis]
+p) si la débusqueuse de l'appelant tombait en panne, l'appelant ne rendrait aucun service et ne recevrait aucune rémunération du payeur; [admis]
+q) en 2002, l'appelant a cessé d'offrir ses services et ceux de sa débusqueuse au payeur, afin d'accepter un autre contrat ailleurs; [nié]
+r) durant les périodes en litige, l'appelant rendait des services au payeur en vertu d'un contrat de services et non en vertu d'un contrat de louage de services. [nié]
+[3] Seul l'appelant a témoigné. L'intimé, quant à lui, n'a pas fait témoigner les personnes responsables de l'analyse du dossier.
+[4] Appelé à exprimer sa réaction quant aux faits tenus pour acquis pour expliquer et justifier la décision à l'origine de l'appel, l'appelant n'a pas tenu compte de l'alinéa a), a admis les alinéas b) à p) et a nié les alinéas q) et r).
+[5] Après avoir admis certains faits qui lui étaient nettement préjudiciables quant à la nature du contrat de travail, l'appelant a expliqué qu'il avait bel et bien exécuté le travail en question en tant que salarié. Il a également reconnu que la coopérative avait retenu ses services parce qu'il possédait une débusqueuse, admission assez surprenante eu égard à ses prétentions.
+[6] Il a expliqué qu'il s'agissait là d'un travail très particulier. Son travail consistait à couper au moyen de sa scie à chaîne les arbres difficiles d'accès parce qu'ils étaient situés sur un terrain montagneux ou marécageux. Il s'agissait là d'arbres qui ne pouvaient être abattus par un abatteur mécanique à cause de la nature du terrain.
+[7] Compte tenu des conditions de travail, il avait été convenu qu'il serait rémunéré à la semaine puisque la formule de rémunération habituelle, à savoir selon le volume de bois coupé, n'était pas possible puisqu'elle ne lui aurait pas permis de toucher une rémunération raisonnable ou convenable.
+[8] Un contremaître représentant la coopérative visitait deux ou trois fois par jour le chantier où l'appelant travaillait avec son fils pour leur indiquer quels arbres devaient être abattus.
+[9] Outre ce travail, l'appelant devait exécuter toutes sortes de travaux où il n'avait pas à utiliser sa débusqueuse. Il s'agissait notamment de réparer certains chemins et ponceaux et d'effectuer d'autres travaux dans le cadre des activités générales de la coopérative forestière.
+[10] Contrairement à ce que prétend l'intimé, l'appelant n'a pas mis fin au travail de sa propre initiative, mais a été licencié lors de la fermeture du chantier.
+[11] Les faits relatés par l'appelant ont permis de constater qu'il s'agissait là d'un travail qui se démarquait du travail normalement exécuté dans ce domaine, et cela, pour les raisons suivantes :
+· la quantité de bois coupé et transporté n'avait strictement rien à voir avec le calcul de la rémunération;
+· le travail exécuté par l'appelant n'était pas exclusivement lié à l'utilisation de la débusqueuse dont il était propriétaire et qu'il avait louée à la coopérative;
+· une partie des arbres transportés par la débusqueuse conduite par son fils avaient été coupés par les différentes équipes dont la rémunération était probablement conforme aux normes habituelles à savoir fonction du volume de bois coupé.
+[12] L'appelant a fourni de nombreux exemples concrets de travaux qu'il avait exécutés selon les directives du représentant de la coopérative et ce, sans avoir à utiliser sa débusqueuse. Le dossier de l'appelant est un cas d'espèce et nous ne pouvons donc nous inspirer des précédents classiques dans ce domaine.
+[13] Dans le présent dossier, il est impossible de partager de façon raisonnable le travail qui a été fait dans le cadre de l'exploitation de la débusqueuse par rapport au travail que l'appelant a exécuté sous les ordres du représentant de la coopérative forestière.
+[14] D'autre part, la valeur de la débusqueuse (15 000 $) n'était pas très importante, pouvant même être comparée à la limite à la valeur des outils d'un bûcheron bien équipé. Étant donné que ce dossier se trouve dans une zone crise, je conclus en faveur de l'appelant.
+[15] Pour toutes ces raisons, il y lieu de conclure que l'appelant s'est déchargé du fardeau de preuve qui lui incombait en démontrant qu'il avait effectué le travail en question dans le cadre d'un véritable contrat de louage de services. Par conséquent, la décision du ministre est annulée; je conclus donc que le travail exécuté par l'appelant lors des périodes allant du 9 juillet au 30 novembre 2001 et du 10 au 28 juin 2002 constituait un véritable contrat de louage de services.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI575
+NO DU DOSSIER DE LA COUR : 2005-1239(EI)
+INTITULÉ DE LA CAUSE : JEAN-NOËL DESBIENS et M.R.N.
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 19 août 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 6 septembre 2005
+COMPARUTIONS :
+Pour l'appelant
+L'appelant lui-même
+Avocat de l'intimé :
+Me Martin Gentile
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Ville :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

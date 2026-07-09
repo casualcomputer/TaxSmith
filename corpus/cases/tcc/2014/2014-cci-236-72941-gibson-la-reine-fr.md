@@ -1,0 +1,178 @@
+---
+title: "Gibson  La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72941/index.do"
+last_modified: "2014-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 236"
+citation2: ""
+neutral_citation: "2014 CCI 236"
+decision_date: "2014-07-23"
+language: "fr"
+item_id: "72941"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5357
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:48:57.227000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dbee715c1f421b8fa0a3e81b931ed05cf37b4630aee7623b4280e3e82d7968cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gibson  La Reine
+
+- Citation: 2014 CCI 236
+- Decision date: 2014-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5357, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gibson La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-23
+Référence neutre
+2014 CCI 236
+Numéro de dossier
+2014-597(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-597(IT)I
+ENTRE :
+JOAN A. GIBSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 juillet 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Paige MacPherson
+JUGEMENT
+L’appel relatif à une détermination établie en vertu de la Loi de l’impôt sur le revenu concernant un crédit d’impôt pour personnes handicapées est accueilli, et la détermination est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle détermination, étant entendu que l’appelante a droit au crédit d’impôt pour personnes handicapées. L’appelante a droit aux dépens, qui sont fixés à 100 $.
+Signé à Ottawa (Ontario), ce 23e jour de juillet 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de mars 2016.
+M.-C. Gervais
+Référence : 2014 CCI 236
+Date : 20140723
+Dossier : 2014-597(IT)I
+ENTRE :
+JOAN A. GIBSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+I. Contexte [1] Joan Gibson est une psychologue à la retraite chez qui un syndrome de fatigue chronique sévère a été diagnostiqué il y a de nombreuses années. En 2012, Mme Gibson a présenté une demande de crédit d’impôt pour personnes handicapées en vertu de la Loi de l’impôt sur le revenu, et sa demande a été refusée par avis de détermination daté du 14 juin 2013. L’appel concerne cette détermination.
+[2] Mme Gibson a agi pour son propre compte à l’audience, et elle a été le seul témoin. Il était clair à l’audience que la déficience de Mme Gibson minait assez sérieusement sa capacité de conduire le présent appel.
+[3] L’avocate de la Couronne a composé avec cette situation de façon louable. Au lieu de procéder à un long contre-interrogatoire de Mme Gibson, l’avocate s’est appuyée sur les attestations des médecins fournies à l’Agence du revenu du Canada (l’« ARC »). Il y avait quatre de ces documents :
+a) Une attestation datée du 27 février 2012 produite par le médecin de famille de Mme Gibson, le Dr Nicholas J. Morison (la « pièce R-1 »). Cette attestation n’étayait pas la position de Mme Gibson, et ni l’une ni l’autre des parties ne l’a invoquée. Il n’en sera pas traité plus avant.
+b) Une attestation datée du 18 mars 2013 d’un psychiatre, le Dr Flor‑Henry (la « pièce R-2 »).
+c) Un formulaire rempli par le Dr Flor-Henry daté du 4 juin 2013, qui avait été demandé par l’ARC (la « pièce R-3 »).
+d) Une version modifiée du formulaire susmentionné produite par le Dr Flor-Henry en date du 29 octobre 2013 (la « pièce R-4 »).
+II. Exigences législatives [4] Pour qu’un contribuable puisse avoir droit au crédit d’impôt pour personnes handicapées, il faut :
+a) que le contribuable ait une déficience grave et prolongée des fonctions physiques ou mentales,
+b) la déficience doit limiter de façon « marquée » ou « importante » la capacité d’accomplir une « activité courante de la vie quotidienne » ou plus, au sens où ces termes sont définis dans la loi
+c) un médecin doit fournir une attestation favorable de la déficience sur le formulaire prescrit (alinéas 118.3(1)a), a.1) et a.2).
+[5] Je formulerais deux observations au sujet de l’exigence relative à l’attestation.
+[6] Premièrement, une attestation favorable donnée par un médecin n’est pas suffisante pour satisfaire aux exigences législatives. Si les éléments de preuve n’étayent pas l’avis du médecin, l’appel devrait être rejeté.
+[7] Deuxièmement, l’absence d’une attestation favorable n’est pas nécessairement fatale au contribuable. La Cour peut prendre en compte le témoignage de vive voix d’un médecin, mais la Cour ne peut pas substituer son propre jugement à celui d’un médecin (La Reine c Buchanan, 2002 CAF 231).
+III. Analyse [8] La Couronne ne remet pas en question l’exigence relative à l’attestation. La seule question soulevée dans la réponse est celle de savoir si Mme Gibson a effectivement les déficiences attestées par le Dr Flor-Henry.
+[9] Je commencerai avec le témoignage de Mme Gibson. Mme Gibson a affirmé dans son témoignage qu’elle avait un grand nombre de symptômes, notamment qu’elle avait souvent l’esprit embrouillé. Elle a également affirmé que sa fatigue était si grande qu’elle passait la majorité du temps au lit ou dans un état d’inertie. Cependant, elle a aussi affirmé que le degré de gravité de ses symptômes fluctue de temps à autre.
+[10] Dans l’ensemble, j’ai trouvé que le témoignage de Mme Gibson n’était pas assez détaillé pour donner une bonne idée de la déficience. En particulier, je ne parviens pas à déterminer à quelle fréquence Mme Gibson a de bonnes périodes et jusqu’à quel point elle fonctionne bien durant ces périodes. Malheureusement, j’ai eu l’impression que Mme Gibson n’avait pas assez d’endurance pour présenter convenablement assez de détails au sujet de sa situation.
+[11] L’avocate de la Couronne a laissé entendre que la meilleure preuve de la déficience de Mme Gibson est l’information fournie par les médecins. Je suis d’accord avec elle sur ce point.
+[12] J’examinerai maintenant l’attestation du Dr Flor-Henry, qui a été produit en preuve comme pièce R-2. Le Dr Flor-Henry semble être hautement qualifié comme médecin qui connaît bien le syndrome de fatigue chronique. Il est professeur clinicien à l’Université de l’Alberta et a été membre d’un comité qui a établi une définition de cas clinique du syndrome de fatigue chronique (pièce jointe à l’avis d’appel).
+[13] L’attestation est un formulaire prescrit exigeant que le médecin déclare :
+a) si le patient est limité de façon marquée dans l’accomplissement d’une activité courante de la vie quotidienne et si la déficience est toujours ou presque toujours présente, ou
+b) si le patient est limité de façon importante dans l’accomplissement d’au moins deux activités courantes de la vie quotidienne (telles qu’elles sont définies), et si ces déficiences sont toujours ou presque toujours présentes et si, prises ensemble, elles équivalent à une limitation marquée dans l’accomplissement d’une activité courante de la vie quotidienne.
+[14] L’attestation du Dr Flor-Henry donnait des réponses affirmatives pour ces deux catégories.
+A. Déficience marquée [15] En ce qui concerne le point a) qui précède, une déficience marquée touchant une activité courante, le Dr Flor-Henry a décrit la déficience comme les « fonctions mentales nécessaires aux activités de la vie courante ».
+[16] Le Dr Flor-Henry a aussi coché la case « le fait de marcher » comme une déficience marquée, mais il a négligé de cocher la case relative à la question de savoir si cette restriction était toujours ou presque toujours présente, comme l’exige la loi
+B. Déficience importante [17] En ce qui concerne le point b) qui précède, déficiences importantes touchant au moins deux activités courantes de la vie quotidienne, le Dr Flor-Henry a attesté que Mme Gibson avait des déficiences importantes touchant le fait de s’alimenter, le fait de marcher, les fonctions d’évacuation et les fonctions mentales nécessaires aux activités de la vie courante.
+[18] L’attestation du Dr Flor-Henry était une attestation favorable aux fins de la loi, mais elle ne fournissait pas de détails quant aux effets de la déficience. Ces renseignements sont requis sur le formulaire prescrit, et ils aideraient l’ARC à vérifier s’il est satisfait aux exigences législatives.
+[19] Puisque ces détails n’ont pas été fournis, l’ARC a demandé au Dr Flor-Henry de remplir un autre formulaire comportant des cases à cocher. Selon le témoignage de Mme Gibson, le Dr Flor-Henry n’était pas content que l’ARC veuille plus d’information. Dans tous les cas, les réponses que le Dr Flor-Henry a données sur le deuxième formulaire n’aident pas Mme Gibson (pièce R-3). En général, elles dépeignent le portrait de quelqu’un qui fonctionne bien sauf durant des [traduction] « périodes d’exacerbation ou dans des situations stressantes ». Cela semble donner à penser que Mme Gibson ne souffre pas toujours ou presque toujours d’une déficience grave, tel qu’il est exigé.
+[20] Toutefois, le Dr Flor-Henry a produit par la suite un formulaire modifié (pièce R-4). Sur ce formulaire, le Dr Flor-Henry a modifié ses réponses à deux questions et a mentionné que Mme Gibson souffrait toujours ou presque toujours d’une déficience grave touchant le jugement et la capacité de planifier des activités quotidiennes.
+[21] La Couronne avance que les déficiences touchant seulement le jugement et la capacité de planifier des activités quotidiennes ne sont pas des déficiences suffisantes pour donner droit au crédit d’impôt pour personnes handicapées.
+[22] Selon ce que je comprends, la Couronne s’appuie sur la définition à l’alinéa 118.4(1)c.1) de la Loi, qui est ainsi rédigé :
+118.4 (1) Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+[…]
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+[23] La Couronne laisse entendre que la déficience de Mme Gibson ne lui donne pas droit au crédit parce qu’elle a seulement deux des trois déficiences énumérées au sous‑alinéa c.1)(ii) susmentionné. Elle soutient que les trois déficiences décrites au sous‑alinéa c.1)(ii) doivent être présentes. Mme Gibson est capable de résoudre des problèmes, et cela porte un coup fatal à sa demande, selon la Couronne.
+[24] Je ne souscris pas à ce point de vue. Les mots « considérés dans leur ensemble » au sous-alinéa c.1)(ii) impliquent qu’il faut examiner les trois fonctions mentales ensemble et décider si la combinaison de celles‑ci constitue une déficience grave. C’est cette interprétation qui a le plus de sens.
+[25] Cela est suffisant pour trancher l’appel, mais je tiens également à souligner que les formulaires de l’ARC ont leurs faiblesses et qu’il convient d’en tenir compte. Par exemple, le formulaire prescrit se présente sous forme de cases à cocher. Il s’agit peut-être d’une façon pratique pour l’ARC d’obtenir des renseignements, mais cela ne donne pas une idée très juste dans certains cas. Les contribuables ne devraient pas se voir refuser un avantage fiscal simplement parce que les questions sur le formulaire prescrit ne cadrent pas parfaitement avec leurs circonstances.
+[26] De plus, je suis préoccupée par le fait que les médecins en général n’auraient pas une connaissance personnelle des activités de la vie quotidienne d’un patient. Le formulaire exige toutefois que le médecin émette un avis à ce sujet si la déficience concerne les fonctions mentales. Puisque c’est ce régime législatif que le Parlement a instauré, il se peut qu’un médecin doive se fier dans une certaine mesure à des renseignements fournis par un patient. J’imagine que certains médecins doivent être réticents à émettre un avis sur ce fondement, et c’est quelque chose qui devrait être pris en compte.
+[27] En l’espèce, un spécialiste médical hautement qualifié a émis comme avis que Mme Gibson souffre d’une déficience qui a d’importantes répercussions sur sa capacité d’accomplir les fonctions mentales nécessaires aux activités de la vie courante. La déficience est toujours ou presque toujours présente. À mon avis, les avis émis sur les formulaires envoyés par le Dr Flor-Henry établissent adéquatement que Mme Gibson satisfait aux exigences législatives relatives au crédit d’impôt pour personnes handicapées.
+[28] Je ferais également remarquer ce qui suit :
+a) une forme grave de syndrome de fatigue chronique a été diagnostiquée chez Mme Gibson, ce qui porte à croire que ses symptômes sont particulièrement débilitants;
+b) Mme Gibson n’a pas appelé le Dr Flor-Henry à témoigner, mais cela ne devrait généralement pas être nécessaire à moins que le médecin n’ait pas donné une attestation favorable;
+c) la gravité de la déficience de Mme Gibson était évidente à l’audience;
+d) les dispositions relatives au crédit d’impôt pour personnes handicapées doivent être interprétées avec compassion.
+[29] Pour tous ces motifs, l’appel sera accueilli.
+Signé à Ottawa (Ontario), ce 23e jour de juillet 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de mars 2016.
+M.-C. Gervais
+RÉFÉRENCE :
+2014 CCI 236
+NO DU DOSSIER DE LA COUR :
+2014-597(IT)I
+INTITULÉ :
+JOAN A. GIBSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 14 juillet 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Woods
+DATE DU JUGEMENT :
+Le 23 juillet 2014
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Paige MacPherson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

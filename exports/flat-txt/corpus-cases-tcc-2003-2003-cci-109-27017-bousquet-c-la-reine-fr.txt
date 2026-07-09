@@ -1,0 +1,159 @@
+Title: Bousquet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27017/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-109-27017-bousquet-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-03-24
+
+# Bousquet c. La Reine
+
+- Citation: 2003 CCI 109
+- Decision date: 2003-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 627, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bousquet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-24
+Référence neutre
+2003 CCI 109
+Numéro de dossier
+2000-389(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-389(IT)G
+ENTRE :
+DENISE BOUSQUET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michel Tessier (2000-1136(IT)G) le 9 octobre 2002 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Alain L'Heureux
+Avocat de l'intimée :
+Me Stéphane Arcelin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 227.1(1) de la Loi de l'impôt sur le revenu dont l'avis porte le numéro 13350 et est daté du 12 juillet 1999 est accueilli, avec dépens, et la cotisation est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de mars 2003.
+« François Angers »
+J.C.C.I.
+Dossier : 2000-1136(IT)G
+ENTRE :
+MICHEL TESSIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Denise Bousquet (2000-389(IT)G) le 9 octobre 2002 à Québec (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Stéphane Arcelin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 227.1(1) de la Loi de l'impôt sur le revenu dont l'avis porte le numéro 13348 et est daté du 12 juillet 1999 est accueilli, avec dépens, et la cotisation est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de mars 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI109
+Date : 20030324
+Dossiers : 2000-389(IT)G
+2000-1136(IT)G
+ENTRE :
+DENISE BOUSQUET,
+MICHEL TESSIER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Ces deux appels ont été entendus sur preuve commune. Le ministre du Revenu national (le « Ministre » ) a, le 12 juillet 1999, établi des cotisations à l'égard des deux appelants, pour un montant de 30 426,34 $, conformément à l'article 227.1 de la Loi de l'impôt sur le revenu (la « Loi » ), à la Loi sur l'assurance-chômage et à la Loi sur l'assurance-emploi. Le montant de 30 426,34 $ représente la somme des retenues à la source relatives aux années d'imposition 1996 et 1997 que la société 9041-0895 Québec Inc. (ci-après « 9041 » ), faisant affaire sous le nom d' « Auberge du Grand Quai » , n'a pas remises au receveur général du Canada, ainsi que les intérêts et pénalités y afférents. Le montant de la cotisation n'est pas en litige.
+[2] Au début de l'audience, l'appelant Paulin Plamondon s'est désisté de son appel. Il a cependant rendu un témoignage dans lequel il a avoué être le seul administrateur et responsable des activités de 9041 et affirmé que les deux autres appelants, soit Michel Tessier et Denise Bousquet, n'avaient rien à voir dans les affaires de 9041. S'ils ont participé d'une quelconque façon, c'était sous son autorité. Michel Tessier aurait agi à titre de « prête-nom » . Denise Bousquet, de son côté, faisait ce que Paulin Plamondon lui demandait de faire, notamment signer des documents. Cette dernière est la conjointe de M. Plamondon depuis sept ans.
+[3] Cette affaire a commencé en 1995, lorsque Paulin Plamondon s'est porté acquéreur d'une propriété abritant une auberge et un bar. Il a lui-même exploité cet établissement au nom de la société 9016-6182 Québec Inc. à partir du mois de mai 1995. Il a par la suite apporté des modifications à l'établissement en y construisant à l'étage inférieur un nouveau bar avec terrasse. Paulin Plamondon a connu des difficultés, ce qui l'a amené à racheter par la suite la même propriété après que le créancier hypothécaire l'a vendue. Il a alors décidé de contistuer en personne morale une autre société à qui il pouvait louer l'établissement. C'est à ce moment qu'il a demandé à sa conjointe, l'appelante Denise Bousquet, de constituer en personne morale la société 9041, ce qu'elle fit le 11 septembre 1996. Il a alors demandé à l'appelant Michel Tessier de lui rendre un service, soit exploiter l'auberge en vertu d'un bail.
+[4] L'appelant Michel Tessier a commencé à travailler pour Paulin Plamondon en juin 1996. Il était gérant du bar situé à l'étage supérieur. Pendant les rénovations, M. Tessier a exprimé à M. Plamondon son désir de louer le bar de l'étage inférieur une fois les rénovations terminées. M. Plamondon a donné son accord. Ces discussions, visant la location du bar à l'étage inférieur, se déroulaient au même moment où M. Plamondon faisait constituer en personne morale la société 9041 par l'appelante Denise Bousquet. Pour exploiter le bar à l'étage inférieur, M. Plamondon a offert de vendre ladite société à Michel Tessier pour la somme de 1 $. Le 16 septembre 1996, d'après les registres de la société 9041, a eu lieu le transfert de la seule action émise de Denise Bousquet à Michel Tessier. À la même date, Denise Bousquet a signé une déclaration modificative indiquant l'ajout de Michel Tessier et le retrait de Denise Bousquet à titre d'administrateurs de 9041. La déclaration n'a toutefois été envoyée à l'Inspecteur général des institutions financières du Québec que le 17 avril 1998 et n'a jamais été enregistrée en tant que telle en raison d'un manque d'information.
+[5] Selon l'appelant Michel Tessier, il s'est porté acquéreur de la société 9041 dans le but d'exploiter le nouveau bar une fois les travaux effectués, soit vers décembre 1996. Les parties n'ont jamais réussi à s'entendre sur les termes de la location et, le 3 mai 1997, l'appelant Michel Tessier a quitté son emploi. Selon Michel Tessier, la société 9041 n'a jamais été exploitée. Il ignorait que Paulin Plamondon, par l'entremise de l'appelante Denise Bousquet, s'était servi de cette société pour louer l'établissement et exploiter l'Auberge du Grand Quai. Il a déclaré avoir reçu en tout temps un salaire hebdomadaire et un pourcentage des profits nets. Il n'aurait jamais acquiescé directement ou indirectement à l'exploitation de la société par l'appelant Paulin Plamondon. En fait, il a déclaré n'avoir été mis au courant du fait que M. Plamondon exploitait la société que lorsqu'il a rencontré le vérificateur de Revenu Canada en 1997. Il a alors informé le vérificateur qu'il n'était que gérant et non exploitant. L'appelant Michel Tessier ne tenait aucune comptabilité et n'a jamais fait de déclaration de revenu au nom de 9041. De plus, il n'a jamais exploité la société. Le livre des procès-verbaux et le registre de la société étaient conservés à son bureau à l'auberge. Lorsqu'on lui a demandé d'expliquer la rencontre qu'il avait eue avec des représentants d'Hydro-Québec en mai 1997 pour l'ouverture d'un nouveau compte, l'appelant Michel Tessier a nié cette allégation. Il a déclaré que Paulin Plamondon se serait fait passer pour lui. Michel Tessier a témoigné que, à l'interrogatoire préalable, l'appelante Denise Bousquet n'était pas plus au courant de ces faits que lui.
+[6] Ce qui s'est réellement passé dans cette affaire se trouve dans la documentation soumise en preuve par l'intimée. Malgré le transfert de l'action à l'appelant Michel Tessier et la démission de l'appelante Denise Bousquet, le 16 septembre 1996, à titre d'administratrice, la société 9041 concluait le 3 janvier 1997 un bail avec l'appelant Paulin Plamondon en vue de la location de l'immeuble de ce dernier, à l'exception du bar au sous-sol, pour un terme de dix ans. Le bail est signé par l'appelante Denise Bousquet en tant que présidente et unique actionnaire de 9041. À la même date, 9041 achetait de Paulin Plamondon, pour la somme de 25 000 $, une quantité de biens servant aux activités de l'auberge, du restaurant et du bar. La convention était encore signée par Denise Bousquet, en tant que présidente et unique actionnaire de 9041. Le 13 janvier 1997, lorsque 9041 ouvrait un compte à la Caisse d'économie Desjardins, Denise Bousquet était toujours présidente. À ce même titre, une série de documents, notamment une résolution, une demande d'admission à la Caisse, une demande de prêt, un contrat de prêt, une hypothèque et un cautionnement de Plamondon et Bousquet garantissant l'avance faite à 9041, sont tous signés par l'appelante Denise Bousquet.
+[7] Le 29 avril 1997, l'appelant Plamondon a signé un bail avec 9041 pour la location du bar situé au sous-sol. Denise Bousquet a même signé le relevé d'emploi identifiant l'employeur comme étant Auberge du Grand Quai Enr.
+[8] Selon Denise Bousquet, ses responsabilités pendant la période en question consistaient à agir à titre de secrétaire-comptable pour les activités des entreprises de son conjoint. Elle a donc fait ce travail pour trois compagnies à numéro, soit les sociétés 9016-6182 Québec Inc., 9041 et 9050-9951 Québec Inc. Un dénommé Jean Godbout était le président et l'unique actionnaire de cette dernière société. Denise Bousquet a déclaré avoir fait ce que son conjoint lui demandait de faire. Elle pensait vraiment avoir transféré son action à M. Tessier en 1996. Elle serait allée voir un notaire un an plus tard pour s'assurer qu'il en était ainsi. Une autre demande de changement aurait été envoyée à ce moment-là à l'Inspecteur général des institutions financières. Selon les pièces déposées, la demande aurait été envoyée le 17 avril 1998. Malgré le fait qu'elle ait transféré son action à Michel Tessier et qu'elle a démissionné de son poste, le 16 septembre 1996, en tant qu'administratrice provisoire de la société 9041, elle a continué à signer les documents et à agir comme si elle était actionnaire et administratrice de 9041. Elle ne se souvient pas des raisons l'ayant conduite à signer des documents ni à faire la demande d'un prêt de 50 000 $ auprès de la Caisse d'économie Desjardins. Elle reconnaît avoir signé des chèques et le relevé d'emploi de Michel Tessier. Après le départ de ce dernier en mai 1997, l'immeuble a été loué le 7 juillet 1997 à la société 9050-9951 Québec Inc. Denise Bousquet agissait à titre de témoin lorsque Paulin Plamondon et Jean Godbout, le président de 9050-9951 Québec Inc., ont apposé leur signature sur ce bail et aussi sur une convention modifiant ledit bail. Finalement, le 27 septembre 1997, l'immeuble en question a été détruit par le feu à la suite d'un complot auquel a participé l'appelant Paulin Plamondon et pour lequel il a été reconnu coupable.
+[9] Mario Simard est vérificateur aux revenus à la source pour l'intimée. Il a rencontré l'appelant Paulin Plamondon le 30 octobre 1996. C'est lors de cette entrevue que M. Simard a appris le changement touchant les activités de l'auberge à partir du 14 septembre 1996, soit la constitution en personne morale de 9041. Il a donc, après le 14 septembre 1996, procédé à la vérification des activités de la société 9041 et la société qu'elle remplaçait. C'est également lors de cette rencontre qu'il a pris connaissance du contenu des procès-verbaux de 9041 et du fait que Michel Tessier en était l'administrateur.
+[10] L'avocat de l'appelante Denise Bousquet a soumis que sa cliente n'est pas administratrice de 9041 ni de droit ni en fait. L'entente avec l'appelant Tessier et la démission de l'appelante Denise Bousquet en date du 16 septembre 1996 dégagent cette dernière de toute responsabilité. Dans les faits, même si elle a concrètement agi à titre d'administratrice, l'aveu de l'appelant Plamondon démontre que l'appelante Denise Bousquet a agi par complaisance et a tout simplement obéi à son conjoint. Paulin Plamondon était habile et était l'âme dirigeante dans cette affaire. De plus, l'avocat soumet que la cotisation est prescrite en vertu de l'alinéa 227.1(4) de la Loi au motif qu'elle a été établie le 12 juillet 1999 alors que la société avait mis fin à ses activités le 31 mai 1997, soit presque trois ans après que l'administratrice a cessé d'agir puisqu'elle a démissionné le 16 septembre 1996.
+[11] De son côté, l'avocat de l'intimée a soumis que l'appelante Denise Bousquet a posé des gestes précis et significatifs se rapportant aux activités de 9041 et, qu'en conséquence, elle est effectivement administratrice de 9041 et responsable à ce titre de remettre la somme des retenues à la source et des cotisations au régime d'assurance-emploi que 9041 avait l'obligation de remettre. En ce qui a trait à l'appelant Michel Tessier, l'avocat de l'intimée a soumis que la preuve est contradictoire en ce qui concerne la question de savoir s'il a vraiment été un « prête-nom » . La façon que cette question doit être tranchée dépend en grande partie du poids à accorder au témoignage de Paulin Plamondon.
+[12] Michel Tessier, de son côté, soutient, avec l'aveu de l'appelant Paulin Plamondon à l'appui, qu'il n'est pas responsable, n'ayant rien à voir avec les activités de 9041.
+[13] Il est admis que le Ministre a déposé, le 8 juin 1999, conformément à l'article 223 de la Loi, un certificat au greffe de la Cour fédérale attestant qu'une dette de 30 090,34 $, est payable par la société 9041. À la même date, un bref de saisie-exécution a été délivré, celui-ci n'a rien rapporté.
+[14] Les cotisations ont été établies à l'égard des appelants en vertu du paragraphe 227.1(1) de la Loi qui se lit comme suit :
+227.1(1) Responsabilité des administrateurs pour défaut d'effectuer les retenues - Lorsqu'une société a omis de déduire ou de retenir une somme, tel que prévu au paragraphe 135(3) ou à l'article 153 ou 215, ou a omis de remettre cette somme ou a omis de payer un montant d'impôt en vertu de la partie VII ou VIII pour une année d'imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s'y rapportant.
+[15] La défense de prescription soulevée par l'appelante Denise Bousquet se trouve au paragraphe 227.1(4), qui se lit comme suit :
+227.1(4) Prescription - L'action ou les procédures visant le recouvrement d'une somme payable par un administrateur d'une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l'administrateur cesse pour la dernière fois d'être un administrateur de cette société.
+[16] La première question en litige est de déterminer si les appelants Michel Tessier et Denise Bousquet étaient les administrateurs de 9041 pendant la période en question. Si la réponse est affirmative dans le cas de l'appelante Denise Bousquet, peut-elle se prévaloir des dispositions du paragraphe 227.1(4) de la Loi?
+Michel Tessier
+[17] Le témoignage de l'appelant Michel Tessier à l'interrogatoire préalable (la transcription a été déposée en preuve) et au procès démontre clairement que ce dernier s'est porté acquéreur, le 16 septembre 1996, de la seule action émise de 9041 dans le seul but de louer le nouveau bar construit à l'étage inférieur de l'immeuble de l'appelant Paulin Plamondon. Il n'a jamais exploité la société 9041 et n'était au courant ni des activités commerciales de cette société après son acquisition, ni des transactions dans lesquelles 9041 s'est engagée avec Paulin Plamondon. Dans les faits, il n'a signé aucun document qui lui aurait révélé les activités de 9041. Il était gérant du bar de l'étage supérieur et a agi ainsi jusqu'à son départ en mai 1997, lorsqu'il a constaté qu'il n'arriverait jamais à s'entendre avec Paulin Plamondon sur les conditions d'une location. La crédibilité de Michel Tessier n'a pas été misée au procès et j'accepte sa version des faits. Il ne semblait pas comprendre la nature du rôle de « prête-nom » qu'on semblait lui attribuer. L'aveu de l'appelant Plamondon, même s'il n'est pas crédible, semble confirmer le fait que l'appelant Michel Tessier n'était pas un administrateur au sens du paragraphe 227.1(1) et, par conséquent, il ne peut être tenu responsable du paiement des retenues que la société 9041 a omis d'effectuer durant son exploitation. Même si, habituellement, on doit se référer à la loi sur les sociétés applicable à la société 9041 pour déterminer si une personne a ou n'a pas le statut d'administrateur, je conclus en l'espèce que, dans les faits, l'appelant Michel Tessier n'a pas participé aux activités de 9041 de façon à engager sa responsabilité au sens du paragraphe 227.1(1) de la Loi. Son appel est donc accueilli avec dépens.
+Denise Bousquet
+[18] La transcription du témoignage de Denise Bousquet à l'interrogatoire préalable a été déposé devant la Cour. Il est évident, à la lecture de sa version des faits, qu'elle n'a jamais remis en question la raison d'être de tous les documents qu'elle a eu à signer à compter de la constitution en pesonne morale de 9041. Elle a reconnu sa signature, mais non la nature des documents où elle l'a apposée. En fait, elle ne se souvenait pas de la raison pour laquelle tous ces documents ont été signés.
+[19] Même après avoir signé sa démission en tant qu'administratrice en septembre 1996, elle a, peu de temps après, signé une série de documents et obtenu des prêts au nom de la même société sans poser de questions. Il est difficile de penser qu'une personne puisse poser des gestes aussi évidents et contradictoires.
+[20] La société 9041 n'a pas produit de déclaration modificative relativement à la composition du conseil d'administration, malgré que l'article 123.81 de la Loi des compagnies du Québec l'exige. Selon l'article 62 de la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales du Québec ( « L.p.l. » ), les informations relatives à chaque assujetti font preuve de leur contenu en faveur des tiers de bonne foi à compter de la date où elles sont inscrites à l'état des informations. Les tiers (en l'occurrence, l'appelante Denise Bousquet) peuvent contredire les informations contenues dans une déclaration par tous les moyens. En l'espèce, cette présomption n'a pas été renversée et l'information inscrite fait preuve de son contenu. De toute façon, à cause de sa conduite après sa démission, il aurait été difficile à l'appelante Denise Bousquet de renverser cette présomption.
+[21] Dans les faits, l'appelante Denise Bousquet a continué d'agir en tant qu'administratrice de 9041. Sa participation à toutes les opérations commerciales de 9041 après sa démission témoigne, à première vue, de son rôle comme présidente de 9041, même si les registres indiquent qu'elle en était la secrétaire. Même si on voudrait reconnaître sa démission en septembre 1996, ses actions après cette date pourraient l'amener à être considérée administratrice de facto.
+[22] Le principe de l'administrateur de facto et sa responsabilité en vertu du paragraphe 227.1(1) de la Loi a été reconnu dans l'arrêt de la Cour d'appel fédérale Canada c. Corsano, [1999] A.C.F. No 401 (Q.L.). Il faut déterminer si, en l'espèce, l'appelante Denise Bousquet agissait en tant qu'administratrice. Comme il s'agit d'une question de fait, il faut donc trancher la question à partir des faits particuliers mis en preuve en l'espèce.
+[23] Bien que l'appelante Denise Bousquet ait signé divers documents relatifs aux affaires de 9041, sa participation passive aux activités commerciales de 9041 et le fait qu'elle n'a pas investi d'argent dans cette entreprise ne font pas de cette dernière l'âme dirigeante que l'on recherche habituellement dans le cadre d'une telle détermination. L'appelante Denise Bousquet n'exerçait aucune influence sur le cours des événements ni sur le fonctionnement de l'entreprise (voir Silcoff [1998] R.D.F.Q. 18). Pour ces motifs, je conclus qu'elle n'était pas administratrice de facto.
+[24] Est-ce que l'appelante Denise Bousquet, à titre d'administratrice de jure, devient responsable du paiement des sommes d'argent que 9041 était tenue de payer au fisc?
+[25] Comme je l'ai mentionné ci-dessus, l'appelante Denise Bousquet ne remettait pas en question les directives de son conjoint. Il est évident que les gestes qu'elle a posés en l'espèce au nom de la société 9041 étaient planifiés par son conjoint. Le fait qu'elle ne semble pas avoir saisi tout ce qu'on lui a demandé de faire a été confirmé par le témoignage de l'appelant Michel Tessier. Ni lui, ni l'appelante Denise Bousquet, ne semblait être au courant de toutes les manigances de l'appelant Paulin Plamondon. Ce dernier se serait servi de sa conjointe et de Michel Tessier pour atteindre ses objectifs. Il est évident que l'appelante ne prenait aucune décision. Elle ne semblait pas être en mesure de s'imposer ou d'exiger quoi que ce soit. Son conjoint dirigeait les destinées de 9041. L'appelante Denise Bousquet n'a pas investi d'argent dans 9041 et n'avait aucune participation dans la société.
+[26] Le juge en chef adjoint Bowman de notre cour a abordé cette question dans l'affaire Émilio Dirienzo c. Canada, [2000] A.C.I. No 287 (Q.L.). Au paragraphe 11, il déclare :
+11 Sur la foi de la preuve, il est clair non seulement que l'appelant n'a rien fait, mais aussi qu'il n'avait pas le pouvoir de faire quoi que ce soit. L'oncle dominait la famille et dominait tous les aspects de l'entreprise. La présente espèce ressemble beaucoup à l'affaire Fitzgerald et al. c. M.R.N., C.C.I., no 88-2357(IT), 30 octobre 1991 (92 D.T.C. 1019), dans laquelle le juge Mogan déclarait, à la page 1021 :
+Il me semble que les appelants étaient administrateurs en droit (c'est-à-dire que leurs noms figuraient comme ceux des administrateurs dans le livre des procès-verbaux de la compagnie), mais non en fait. Il n'y a jamais eu de réunion du conseil d'administration. Les appelants n'ont jamais agi, seuls ou de concert, en qualité d'administrateurs. Ils ne savaient rien de la gestion et de l'administration des affaires de la compagnie. Ils ne détenaient aucune action de cette dernière. Ils n'avaient aucun moyen d'obliger le cinquième administrateur (Eugene Fitzgerald, actionnaire unique) à leur divulguer des renseignements sur les affaires financières de la compagnie. Ils étaient administrateurs en droit uniquement en raison de leur lien familial avec Eugene Fitzgerald. Ils auraient tous pu démissionner de leurs postes d'administrateurs s'ils y avaient pensé, mais cette démission aurait été une source de tension familiale et, du point de vue des trois fils, l'idée de quitter leurs postes d'administrateurs ne leur serait pas venue avant celle d'abandonner leurs emplois.
+Je ne suis pas prêt à déclarer qu'en règle générale, un administrateur passif ou inactif échappe à la responsabilité énoncée au paragraphe 227.1(1) de la Loi de l'impôt sur le revenu. Par exemple, la personne qui consent à être administrateur d'une corporation par complaisance pour un ami ou un client et qui omet ensuite de participer à titre d'administrateur à la gestion des affaires de la corporation reste, dans une très large mesure, assujettie aux obligations prévues au paragraphe 227.1(1). L'administrateur passif ou inactif n'est pas, en soi, dégagé de la responsabilité que prévoit le paragraphe 227.1(1). Cependant, lorsque l'administrateur passif ou inactif est devenu membre du conseil d'administration dans le cadre d'une entreprise familiale exploitée sous la forme d'une corporation placée sous la férule d'un patriarche inflexible, la responsabilité de préserver l'harmonie au sein de la famille s'entremêle à la responsabilité légale envers les tiers et, dans de telles circonstances, j'estime qu'il n'est pas raisonnable d'imposer la même norme de soin, de diligence et d'habileté à « l'administrateur familial » passif qu'à la personne qui est réellement libre de devenir administrateur et choisit de le devenir hors de tout contexte familial.
+[...]
+[27] En appliquant le même raisonnement en l'espèce, je suis convaincu que l'appelante a satisfait aux exigences établies au paragraphe 227.1(3) et qu'elle a agi dans les circonstances avec le degré de soin, de diligence et d'habileté qu'une personne raisonnable aurait exercé dans un contexte et des circonstances similaires. Une personne raisonnable aurait donc accepté d'agir à titre d'administrateur de nom et laissé la gestion à son conjoint. Étant donné les présents motifs, il n'est pas nécessaire d'aborder la question de la prescription prévue au paragraphe 227.1(4) de la Loi.
+[28] Les appels de Michel Tessier et de Denise Bousquet sont accueillis avec dépens et les cotisations sont donc annulées.
+Signé à Ottawa, Canada, ce 24e jour de mars 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI109
+No s DES DOSSIERS DE LA COUR:
+2000-389(IT)G et 2000-1136(IT)G
+INTITULÉS DES CAUSES :
+Denise Bousquet et La Reine
+Michel Tessier et La Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 9 octobre 2002
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DES JUGEMENTS :
+24 mars 2003
+COMPARUTIONS :
+Pour l'appelante :
+Pour l'appelant :
+Me Alain L'Heureux
+L'appelant lui-même
+Pour l'intimée :
+Me Stéphane Arcelin
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Alain L'Heureux
+Étude :
+Me Alain L'Heureux, Avocat
+Sainte-Marie (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

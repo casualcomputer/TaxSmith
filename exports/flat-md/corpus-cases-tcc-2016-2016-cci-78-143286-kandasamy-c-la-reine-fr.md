@@ -1,0 +1,172 @@
+---
+title: "Kandasamy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143286/index.do"
+last_modified: "2016-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 78"
+citation2: ""
+neutral_citation: "2016 CCI 78"
+decision_date: "2016-04-01"
+language: "fr"
+item_id: "143286"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3111
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:06:42.879000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f09dc00516ef793e75d258cf5182bc299893f6434187e8f31ff3b07a91620445"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kandasamy c. La Reine
+
+- Citation: 2016 CCI 78
+- Decision date: 2016-04-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3111, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kandasamy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-01
+Référence neutre
+2016 CCI 78
+Numéro de dossier
+2015-3701(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3701(IT)I
+ENTRE :
+VIJITHARAN KANDASAMY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 23 mars 2016 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+JUGEMENT
+L’appel à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 est accueilli, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour être examinées et évaluées de nouveau à partir du principe que des dépenses totalisant 5 000 $ pour 2010 et 2 400 $ pour 2011, qui ont été traitées par le ministre comme des dépenses d’immobilisation, devraient être traités comme des dépenses courantes entièrement déductibles.
+Signé à Toronto (Ontario) ce 1er jour d’avril 2016.
+« J. Woods »
+Juge Woods
+Référence : 2016 CCI 78
+Date : 20160401
+Dossier : 2015-3701(IT)I
+ENTRE :
+VIJITHARAN KANDASAMY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Cet appel interjeté en vertu de la Loi de l’impôt sur le revenu concerne des dépenses d’entreprise demandées par Vijitharan Kandasamy à l’égard d’une entreprise de nettoyage dont il est le seul propriétaire. Les déductions ont entraîné des pertes d’entreprise qui, si elles sont appropriées, pourraient être utilisées pour réduire d’autres revenus.
+[2] Le ministre du Revenu national a refusé une grande partie des déductions demandées, au motif que les documents à l’appui étaient insuffisants.
+[3] Les années d’imposition en cause sont les années 2010 et 2011.
+Aperçu [4] M. Kandasamy a exploité une entreprise de nettoyage dans la région de Toronto de 2009 à 2011. Il a témoigné qu’il avait des projets d’expansion, mais que l’entreprise n’a jamais atteint le seuil de rentabilité et qu’elle a fermé ses portes vers la fin de 2011.
+[5] L’entreprise demandait environ 60 $ pour un « nettoyage de base » et jusqu’à 300 $ pour un « nettoyage en profondeur ». M. Kandasamy effectuait lui-même le travail, principalement la fin de semaine.
+[6] Dans les nouvelles cotisations en cause, le ministre a :
+- accepté les recettes brutes déclarées par M. Kandasamy - 3 458 $ en 2010 et 7 251 $ en 2011;
+- réduit les déductions demandées pour les dépenses d’entreprise - en 2010 de 32 792 $ à 7 723 $ et en 2011 de 32 552 $ à 7 740 $.
+[7] À l’audience, M. Kandasamy a présenté des reçus pour une partie des déductions demandées. Il a expliqué ne pas avoir tous les reçus, parce que les autres reçus étaient entre les mains d’une ex-petite amie qui avait fait la tenue de livres pour l’entreprise.
+[8] Les reçus déposés en preuve étaient classés en liasses, séparées par année d’imposition pour les catégories ci-dessous. M. Kandasamy n’a pas indiqué le montant total pour chacune des liasses :
+- frais de bureau;
+- repas et divertissement;
+- entreposage et services publics;
+- téléphone;
+- dépenses d’automobile;
+- équipement;
+- essence;
+- assurance automobile;
+- traitement pour perte de cheveux.
+[9] Une cousine de M. Kandasamy et une amie de sa sœur ont également témoigné en appui à l’appel.
+[10] L’amie, Romashini Thanikasalan, a témoigné qu’elle facturait à M. Kandasamy la somme de 165 $ toutes les six semaines pour lui permettre d’entreposer son équipement de nettoyage dans son garage. Elle a indiqué que M. Kandasamy la payait comptant et qu’elle avait émis les reçus déposés en preuve.
+[11] Il est utile de mentionner qu’il s’agit là de l’une des trois ententes d’entreposage que M. Kandasamy a témoigné avoir conclues. Il entreposait également certains équipements dans son propre appartement. Des reçus faits à la main ont été présentés pour tous les frais de location, totalisant 6 000 $ pour 2010 et 4 250 $ pour 2011.
+[12] L’autre témoin entendu à l’audience était la cousine de M. Kandasamy, Shiyamini Thaneeskaran. Elle a témoigné que le téléphone utilisé par M. Kandasamy était le sien et que M. Kandasamy lui remboursait des frais d’utilisation d’environ 82 $ par mois. Des reçus faits à la main pour les remboursements faits en espèces ont été déposés en preuve. L’original des factures de téléphonie cellulaire n’a pas été déposé.
+[13] La Couronne n’a appelé aucun témoin.
+Analyse [14] Dans un appel portant sur une cotisation d’impôt sur le revenu, le contribuable a le fardeau de la preuve initial pour réfuter les hypothèses présentées par le ministre. Pour s’acquitter de ce fardeau, le contribuable doit présenter une preuve prima facie. Les hypothèses dans ce dossier se trouvent au paragraphe 9 de la réponse du ministre à l’avis d’appel.
+[15] Dans l’ensemble, je conclus que la preuve à l’appui de l’appel est très faible et que l’appelant n’a pas réussi à s’acquitter du fardeau de la preuve.
+Achat d’équipement [16] Même si j’ai conclu que le dossier de M. Kandasamy était faible, j’apporterais un ajustement en sa faveur, en raison d’un problème dans la réponse.
+[17] La question a trait aux achats d’équipement, qui totalisent 5 000 $ en 2010 et 2 400 $ en 2011 (pièce R-3). Le ministre a traité tous les achats comme des dépenses d’immobilisation et accepté une déduction pour amortissement au lieu d’une déduction complète.
+[18] Le problème pour la Couronne est que cette question n’a pas été abordée clairement dans la réponse. Il n’y a pas d’hypothèses à l’égard de la question des immobilisations, et le mot « capital » [immobilisations, en anglais] n’apparaît pas dans la réponse. La seule mention de cette question est un renvoi à un numéro d’alinéa de la Loi de l’impôt sur le revenu, l’alinéa 18(1)b).
+[19] Un renvoi à un numéro d’article de la Loi de l’impôt sur le revenu ne suffit pas à indiquer à M. Kandasamy que la Couronne entend soulever cette question. Par conséquent, des ajustements devraient être apportés aux nouvelles cotisations afin de renverser le traitement en immobilisation.
+[20] Il s’agit du seul ajustement justifié aux cotisations. En ce qui a trait aux autres points en litige, je suis d’avis que les nouvelles cotisations représentent un résultat équitable sur la foi de la preuve faite devant moi. Mes motifs sont énoncés ci-dessous.
+Caractère insuffisant des reçus [21] Mon premier commentaire portera sur les reçus. L’un des problèmes, comme je l’ai mentionné précédemment, est que les reçus ne correspondent pas au montant des dépenses demandées dans les déclarations de revenus. Même si j’acceptais l’assertion selon laquelle les reçus sont entre les mains d’une ex-petite amie, cette explication ne justifie pas d’accepter d’autres déductions.
+[22] Le deuxième problème présenté par les reçus est que les articles achetés ne sont pas toujours décrits sur les reçus et que même s’ils le sont, plusieurs de ces articles pourraient avoir été achetés à des fins personnelles. Les frais de bureau comprennent par exemple des dépenses pour un lit gonflable, une caméra Web, des timbres, et un « car-multi-freq.fm ». Les dépenses de repas et divertissement comprennent des reçus de l’hôtel Le Prestige à Québec, de la LCBO et de la boutique Stars Men Shop. De tels reçus n’inspirent pas la confiance envers la fiabilité de la preuve déposée.
+[23] Sauf dans le cas des reçus pour des articles clairement associés à une entreprise de nettoyage, je n’ai aucune confiance que les reçus aient un lien avec l’entreprise.
+Témoignage de M. Kandasamy [24] J’aimerais également faire un commentaire concernant le témoignage de M. Kandasamy. En général, son témoignage a été très court et vague. En contre-interrogatoire, lorsqu’on lui a demandé des détails, certaines de ses explications étaient tirées par les cheveux et pas du tout convaincantes.
+[25] Par exemple, M. Kandasamy a témoigné avoir déclaré comme dépense d’entreprise un traitement contre la perte de cheveux coûtant 4 400 $. Il a dit que c’était sur le conseil de son comptable, étant donné qu’il travaillait avec le public. Dans un autre cas, M. Kandasamy a tenté de justifier une déduction pour l’achat de jus chez Costco en affirmant que si un client venait chez lui, il lui offrirait un verre de jus. Ces prétentions sont si peu vraisemblables qu’elles mettent en doute la fiabilité de l’ensemble du témoignage de M. Kandasamy.
+Montants élevés [26] Le montant de certaines dépenses était extrêmement élevé comparativement à la taille de l’entreprise. Par exemple, M. Kandasamy déduit des dépenses pour trois lieux d’entreposage chez trois personnes différentes, pour un montant total de 4 250 $ en 2010 et 6 000 $ en 2011. Ces montants sont presque aussi élevés que les recettes totales tirées de son entreprise au cours de ces deux années. Il est peu probable que des dépenses aussi importantes soient engagées pour une si petite entreprise.
+Reçus faits à la main [27] Les reçus pour les frais d’entreposage et le remboursement des frais de téléphone cellulaire ont été fournis sous la forme de reçus faits à la main tirés d’un carnet de reçus ordinaire. Ces reçus pourraient facilement avoir été forgés. Comme il a été indiqué précédemment, deux des quatre personnes qui ont préparé les reçus ont témoigné.
+[28] Dans le cas des reçus d’entreposage, certains reçus font la preuve d’un arrangement avec la sœur de M. Kandasamy. Cette dernière n’a pas témoigné. Les reçus se rapportent à un lieu d’entreposage situé dans un appartement du 2405, avenue Finch Ouest. L’appartement a été utilisé par M. Kandasamy pendant une courte période au cours des années d’imposition en question et sa sœur n’y habitait pas. Aucune explication satisfaisante n’a été fournie pour l’utilisation de cet appartement et il n’y avait pas suffisamment de détails concernant l’entente d’entreposage alléguée.
+[29] En ce qui a trait à la cousine et à l’amie qui ont témoigné à propos de la location d’espace d’entreposage et des frais de téléphone cellulaire, aucun de leurs témoignages n’a été convaincant. Les témoignages ont été brefs, et les explications fournies en contre-interrogatoire concernant le fait que les numéros de reçus ne se suivaient pas n’ont pas du tout été convaincantes.
+[30] J’ai donc conclu qu’aucun des reçus faits à la main non plus que le témoignage des deux témoins n’étaient fiables et qu’aucun poids ne devrait être accordé à cette preuve.
+Véhicule automobile [31] L’allocation des dépenses de véhicule automobile à l’entreprise était très élevée, et n’était pas soutenue par une documentation contemporaine, comme un journal de bord.
+[32] M. Kandasamy a alloué 100 % de ses dépenses d’utilisation d’un véhicule automobile à l’entreprise en 2010 et plus de 80 % en 2011. Ce sont des proportions très élevées pour une aussi petite entreprise.
+[33] Un problème plus grave tient au fait que l’allocation en dépenses d’entreprise pour 2011 s’appuyait sur des données de kilométrage pour affaires et de kilométrage total, sans pourtant qu’aucune bonne explication n’ait été donnée sur la façon dont ces données ont été obtenues.
+[34] Il n’y a aucun motif raisonnable d’allouer d’autres déductions pour les dépenses d’utilisation d’un véhicule automobile. En particulier, l’allocation faite par le ministre aux dépenses d’entreprise, de 10 % en 2010 et de 16 % en 2011, est raisonnable dans les circonstances.
+Conclusion [35] De façon générale, la preuve à l’appui de cet appel pour des déductions au titre de dépenses d’entreprise supplémentaires était très faible. Le seul ajustement qui devrait être fait aux nouvelles cotisations a trait aux dépenses d’immobilisations, comme il a été mentionné plus haut.
+[36] L’appel sera accueilli, et les nouvelles cotisations seront déférées au ministre du Revenu national pour être examinées et évaluées de nouveau à partir du principe que les seuls ajustements à y apporter doivent l’être pour des dépenses totalisant 5 000 $ pour 2010 et 2 400 $ pour 2011 qui ont été cotisées comme des dépenses d’immobilisation et qui devraient être traités comme des dépenses courantes.
+[37] Comme M. Kandasamy a échoué dans la plupart de ses prétentions, il n’y aura pas d’ordonnance d’adjudication des dépens.
+Signé à Toronto (Ontario) ce 1er jour d’avril 2016.
+« J. Woods »
+Juge Woods
+RÉFÉRENCE :
+2016 CCI 78
+No DU DOSSIER DE LA COUR :
+2015-3701(IT)I
+INTITULÉ :
+VIJITHARAN KANDASAMY et SA MAJESTÉE LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 mars 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 1er avril 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Christopher M. Bartlett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

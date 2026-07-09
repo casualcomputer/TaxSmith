@@ -1,0 +1,112 @@
+Title: Ritter c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29867/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-514-29867-ritter-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-13
+
+# Ritter c. La Reine
+
+- Citation: 2008 CCI 514
+- Decision date: 2008-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6424, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-13
+Référence neutre
+2008 CCI 514
+Numéro de dossier
+2008-1566(IT)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1566(IT)APP
+ENTRE :
+SANDRA RITTER,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 2 septembre 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de la requérante :
+Me Pierre-Paul Bourdages
+Représentant de l'intimée :
+Alain Solliec
+____________________________________________________________________
+JUGEMENT
+La demande de prorogation pour interjeter appel établie en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2000, 2001, 2002 et 2003 est rejetée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008 CCI 514
+Date : 20081113
+Dossier : 2008-1566(IT)APP
+ENTRE :
+SANDRA RITTER,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’une demande faite en vertu du paragraphe 167(5) de la Loi de l’impôt sur le revenu (la « Loi ») en vue d’obtenir une ordonnance afin de prolonger le délai à l’intérieur duquel la requérante peut interjeter appel de la décision du ministre du Revenu national (le « ministre »). La Cour doit déterminer si la demande de la requérante visant la prolongation du délai d’appel pour les années d’imposition 2000, 2001, 2002 et 2003 (la « demande ») est bien fondée.
+Contexte
+[2] Le 18 octobre 2005, le ministre a expédié à la requérante des avis de nouvelle cotisation pour les années d’imposition 2000, 2001, 2002 et 2003. La requérante a elle-même préparé des avis d’opposition aux nouvelles cotisations, avis qu’elle a elle-même expédiés au ministre aux environs du 10 janvier 2006. Par courrier recommandé expédié par la poste le 29 mars 2007, le ministre a avisé la requérante qu’il ratifiait ces nouvelles cotisations datées du 18 octobre 2005. La requérante n’a pas interjeté appel auprès de la Cour dans le délai prescrit par l’article 169 de la Loi, qui se terminait le 27 juin 2007, relativement aux nouvelles cotisations datées du 18 octobre 2005 et ratifiées le 29 mars 2007. Le 27 mai 2008, la requérante a déposé auprès de la Cour une demande de prolongation de délai pour interjeter appel de ces nouvelles cotisations.
+[3] La preuve de la requérante à l’appui de la demande reposait sur son témoignage, sur des documents (pièces R-2, R-3, R-4 et R-5) émanant de la division de la perception de l’Agence des douanes et du revenu du Canada (l’ « Agence ») et sur une photocopie d’un plumitif faisant état des procédures en divorce de la requérante intentées contre son conjoint, monsieur Stephen St-Pierre (pièce R‑1).
+[4] La requérante se conforme-t-elle au paragraphe 167(5) de la Loi et a-t-elle le droit à une prolongation de délai pour loger son avis d’appel? Le paragraphe 167(5) de la Loi se lit comme suit :
+167(5) Acceptation de la demande -- Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+Législation
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+[5] Le délai pour interjeter appel en vertu de l’article 169 de la Loi expirait le 27 juin 2007. La requérante a présenté la demande le 27 mai 2008. La demande a donc été présentée dans l’année suivant l’expiration du délai imparti, en vertu de l’article 169 de la Loi, pour interjeter appel. Par conséquent, la requérante s’est conformée à l’alinéa 167(5)a) de la Loi.
+[6] Avant de faire droit à la demande, la Cour doit être convaincue que, dans le délai imparti pour interjeter appel (en l’espèce le délai expirait le 27 juin 2007), la requérante n’a pu agir ni charger quelqu’un d’agir en son nom, ou elle avait véritablement l’intention d’interjeter appel. La preuve de la requérante à cet égard reposait uniquement sur son témoignage qui m’a paru non seulement vague et imprécis mais aussi peu crédible. Son témoignage à cet égard pourrait se résumer ainsi : après avoir reçu des avis de ratification dont elle ne comprenait pas la teneur, compte tenu de son ignorance en matière de fiscalité, elle avait été prise de panique et avait confié à son conjoint, monsieur Stephen St-Pierre, le mandat de s’occuper de ces avis, compte tenu qu’elle n’avait pas alors les ressources financières pour confier un tel mandat à un avocat. La requérante a ajouté qu’elle avait réalisé beaucoup plus tard, c’est‑à‑dire après le 27 juin 2007, que son conjoint n’avait posé aucun geste à l’égard de ces nouvelles cotisations. Je souligne immédiatement que le témoignage de la requérante, à l’effet qu’elle était totalement dépourvue en matière de connaissances en fiscalité et qu’ainsi elle n’était pas en mesure de comprendre la nature des avis de ratification et donc des directives (accompagnant ces avis) sur la procédure à suivre pour en appeler des nouvelles cotisations, m’a paru peu crédible compte tenu qu’elle avait elle-même rédigé et signifié au ministre les avis d’opposition aux nouvelles cotisations. Il devient donc difficile par la suite d’accorder quelque valeur probante au témoignage de la requérante qui n’est pas appuyé par le témoignage de témoins indépendants et crédibles ou encore par une preuve documentaire sérieuse et pertinente. Compte tenu du peu de valeur probante que j’ai accordé au témoignage de la requérante, il m’est difficile de croire qu’elle a confié le mandat à son conjoint d’en appeler en son nom des nouvelles cotisations. La requérante était en mesure de faire témoigner monsieur St-Pierre pour appuyer ses propres allégations à cet égard. Elle ne l’a pas fait. J’en conclus que cette preuve lui aurait été défavorable. Je note aussi que la requérante n’a aucunement précisé lors de son témoignage la nature exacte du mandat qu’elle aurait confié à monsieur St-Pierre. En effet, en aucun temps lors de son témoignage, la requérante n’a précisé qu’elle avait confié, si tel est le cas, à monsieur St-Pierre le mandat d’en appeler en son nom des nouvelles cotisations. Non seulement la requérante devait me convaincre en l’espèce qu’elle avait confié à monsieur St-Pierre un mandat, mais elle devait aussi me convaincre qu’elle lui avait confié le mandat d’en appeler et non le mandat d’obtenir un règlement acceptable concernant les nouvelles cotisations ou encore le mandat d’obtenir des modalités acceptables de paiement des montants cotisés. J’en conclus que la requérante n’a pas répondu aux conditions figurant au sous-alinéa 167(5)b)i) de la Loi.
+[7] La requérante devait aussi me convaincre que la demande a été présentée dès que les circonstances le permettaient. Je souligne encore une fois que la preuve de la requérante à cet égard reposait uniquement sur son témoignage qui pouvait se résumer ainsi :
+a) Devant l’inertie de monsieur St-Pierre, elle décide de consulter un avocat. Ainsi, le 18 septembre 2007, elle rencontre Me Pierre-Paul Bourdages à qui elle aurait confié, en ces termes, le mandat suivant « contact them (en parlant de l’Agence) and take care of the whole thing ». Je note immédiatement que le témoignage de la requérante fut tout à fait silencieux sur la nature exacte du mandat qu’elle avait alors confié à Me Bourdages, sur la nature des documents qu’elle lui aurait alors remis et sur la nature des conseils que Me Bourdages lui aurait prodigués lors de cette rencontre et à la suite de cette rencontre.
+b) Le 30 avril 2008, elle reçoit de l’Agence une demande formelle de paiement des sommes cotisées. Elle est prise de panique et demande à Me Bourdages en ces termes : « to go to Court ».
+c) Pour expliquer les raisons pour lesquelles la demande de prorogation n’a pas été déposée auprès de la Cour avant le 27 mai 2008 (soit près d’un an après l’expiration du délai pour en appeler), la requérante a expliqué, en ces termes, que son avocat « was waiting for the file to be sent before doing something ». Il convient de souligner que le témoignage de la requérant fut tout à fait silencieux sur les points suivants :
+i) sur l’identité de la personne qui a demandé des documents;
+ii) sur la nature exacte des documents demandés;
+iii) sur l’identité du représentant de l’Agence à qui la demande avait été adressée;
+iv) sur la date où les documents demandés ont été reçus.
+[8] Je ne sais pas en quoi le fait d’attendre les documents demandés à l’Agence, en supposant qu’une telle demande ait été faite, ce dont je doute, constitue une circonstance qui empêchait la requérante de déposer la demande. D’ailleurs ces documents, en supposant même qu’ils aient été demandés et reçus, n’ont absolument pas servi à présenter l’avis d’appel qui accompagnait la demande de prorogation. En effet, l’avis d’appel reprend exactement les termes utilisés par la requérante dans l’avis d’opposition qu’elle a elle-même rédigé et signifié au ministre. J’en conclus que la requérante n’a pas répondu à la condition figurant au sous-alinéa 167(5)a)(iii) de la Loi.
+[9] Pour ces motifs, la demande est rejetée.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008 CCI 514
+Nº DU DOSSIER DE LA COUR : 2008-1566(IT)APP
+INTITULÉ DE LA CAUSE : SANDRA RITTER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 2 septembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 13 novembre 2008
+COMPARUTIONS :
+Avocat de la requérante :
+Me Pierre-Paul Bourdages
+Représentant de l'intimée :
+Alain Solliec
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante:
+Nom : Me Pierre-Paul Bourdages
+Cabinet : Bourdages Giard
+Ville : Saint-Jérôme, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

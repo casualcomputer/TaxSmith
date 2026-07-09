@@ -1,0 +1,134 @@
+Title: Janzen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28689/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-292-28689-janzen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-05-13
+
+# Janzen c. La Reine
+
+- Citation: 2008 CCI 292
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1479, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Janzen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-13
+Référence neutre
+2008 CCI 292
+Numéro de dossier
+2005-585(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-585(IT)G
+ENTRE :
+RICHARD LORNE JANZEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 avril 2008, à Calgary (Alberta)
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Darcie Charlton
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2000 et 2001 est admis et les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de mai 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 4e jour d’août 2008.
+Christian Laroche, juriste‑traducteur
+Référence : 2008CCI292
+Date : 20080513
+Dossier : 2005-585(IT)G
+ENTRE :
+RICHARD LORNE JANZEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Il s’agit d’un appel interjeté à l’égard des avis de nouvelle cotisation datés du 5 septembre 2003, visant les années d’imposition 2000 et 2001 de l’appelant, où le ministre du Revenu national (le « ministre ») a inclus des montants de 164 969 $ et de 2 997 $ respectivement à titre de revenu non déclaré. L’appelant avait inscrit un revenu de 0 $ et de 1 161 $ sur ses déclarations de revenus pour les années 2000 et 2001 respectivement.
+[2] Avant l’audition du présent appel, l’intimée a informé la Cour qu’elle avait examiné les documents fournis par l’appelant après le dépôt de l’avis d’appel. Par suite de cet examen, l’intimée a admis que, pour l’année d’imposition 2000, le montant de 48 562,79 $ devrait être soustrait du revenu de l’appelant, car il représentait des dépenses que l’appelant avait engagées pour Powernet Concepts Inc. (« Powernet ») et qui lui avaient été remboursées subséquemment. En outre, elle a concédé que, durant les années d’imposition 2000 et 2001, l’appelant avait dépensé 6 000 $ pour aménager un bureau à la maison.
+[3] À l’audience, l’appelant s’est représenté lui-même. M. Donald Zolc, M. Craig Peturson, agent d’appels à l’Agence de revenu du Canada (l’« ARC »), et Mme Kelly Storrier, agente des cas complexes à l’ARC, ont témoigné pour le compte de l’intimée.
+[4] Selon la thèse de l’intimée, l’appelant était un employé de Powernet; il retirait de l’argent de Powernet quand il en avait besoin; il n’a pas déclaré ces montants dans ses revenus. Selon la thèse de l’appelant, en 2000, tous les montants déposés dans le compte bancaire de Powernet étaient ses revenus à lui découlant de la vente de ses actions. Par conséquent, tout l’argent qu’il a retiré du compte bancaire de Powernet était son argent à lui. Il a fait valoir subsidiairement que, si la Cour en venait à la conclusion qu’il avait omis de déclarer des revenus en 2000 et en 2001, ces revenus n’étaient pas imposables, conformément à l’arrêt R. c. Powley, 2003 CSC 43, en raison de son statut de Métis.
+[5] En 1999, l’appelant et M. Donald Zolc ont commencé à travailler ensemble pour développer un logiciel. Ils avaient l’intention de le vendre au grand public par l’entremise de distributeurs. Le logiciel portera plus tard le nom de « Personal Growth Series » et je le désignerai donc ainsi.
+[6] L’appelant a décidé qu’il serait préférable d’exercer ces activités par l’entremise d’une société. Étant donné que son épouse et lui-même possédaient déjà toutes les actions de Powernet, l’appelant a décidé de se servir de Powernet plutôt que d’avoir à supporter les coûts de la constitution d’une autre société. Puisque la Personal Growth Series était à l’origine une idée de M. Zolc, l’appelant a promis à ce dernier de lui donner 50 p. 100 des actions de Powernet. La preuve a établi qu’en 1999, M. Zolc n’a reçu que 30 p. 100 des actions de Powernet mais qu’il le savait.
+[7] L’appelant était président, chef de la direction et gestionnaire de compte de Powernet.
+[8] En 1999 et pendant une partie de 2000, Powernet a mobilisé des capitaux en vendant des licences afin de concéder le droit de distribuer la Personal Growth Series. (L’appelant et M. Zolc ne s’entendaient pas sur le moment exact où Powernet a cessé de recueillir de l’argent par la vente des licences.) Le prix des licences variait entre 2 500 $ et 30 000 $, selon la grandeur du territoire visé. M. Zolc se rappelait avoir vendu 22 licences. L’appelant n’a pas indiqué combien de licences il avait vendues. L’appelant et M. Zolc espéraient que, s’ils vendaient un nombre suffisant de licences, Powernet disposerait des fonds nécessaires pour finir le développement du logiciel et le mettre en marché.
+[9] En avril 2000, l’appelant a commencé à mobiliser des capitaux en vendant des actions de Powernet. La preuve montre qu’il a fait passer le nombre d’actions de Powernet de 1000 en 1999 jusqu’à 1 100 000 en 2000 et à 10 000 000 en 2001. En 1999 et jusqu’en avril 2000, l’appelant et son épouse détenaient 60 p. 100 des actions de Powernet. Selon le registre des entreprises, au 11 septembre 2001, l’appelant détenait 51 p. 100 des actions de Powernet.
+[10] Il y a eu plusieurs ventes d’actions. Le registre des entreprises au 11 septembre 2001 nommait huit actionnaires en plus de l’appelant et de M. Zolc. Cependant, la preuve a montré qu’il y avait un autre actionnaire à cette date qui ne figurait pas au registre des entreprises.
+[11] Selon la preuve, l’appelant a vendu 10 000 de ses actions à M. Richard Dielschneider le 26 avril 2001 pour 15 000 $. Toutes les autres conventions d’achat d’actions présentées en preuve visaient la vente, par Powernet, de ses actions non émises. Le produit de ces ventes constituait un revenu pour Powernet.
+[12] Seuls l’appelant et son épouse détenaient un pouvoir de signature sur le compte bancaire de Powernet.
+[13] L’appelant et son épouse possédaient des cartes de débit leur donnant accès au compte bancaire de Powernet. En 1999, M. Zolc a reçu une des cartes de débit pour pouvoir accéder au compte bancaire lorsqu’il se déplaçait dans l’Ouest du Canada afin de vendre des contrats de distribution visant la Personal Growth Series.
+[14] J’ai conclu que M. Zolc était crédible et j’accepte son témoignage. Il a expliqué que, quand il était sur la route, il se servait de la carte de débit tous les jours pour payer ses dépenses. Il allait aussi à la banque régulièrement pour retirer des fonds du compte bancaire de Powernet. Il a déclaré qu’il avait constaté en 2000 le dépôt d’un montant de 80 000 $ dans le compte bancaire puis son retrait [traduction] « presque immédiat ». Il a interrogé l’appelant au sujet de cette transaction et a alors appris que ce montant provenait de la vente d’actions à M. Ronald Driscoll.
+[15] Le témoignage de M. Zolc est corroboré par les pièces présentées en preuve. La pièce A-6 montre que Powernet a vendu 110 000 actions à C.I.R. Holdings Ltd. le 4 avril 2000 pour 80 000 $. M. Ronald Driscoll et Mme Carolyn Driscoll ont signé la convention d’achat d’actions au nom de C.I.R. Holdings Ltd. Le relevé bancaire (pièce R-7) établit qu’une somme de 80 400 $ a été déposée dans le compte bancaire de Powernet le 7 avril 2000 et que, au moyen de trois transactions effectuées le 10 avril 2000, 80 000 $ ont été retirés par virement téléphonique.
+[16] M. Zolc a raconté qu’il avait remis la carte de débit à l’appelant quelque part en 2000, lorsqu’il a cessé de se déplacer pour Powernet. Ça se serait produit peu de temps après qu’il a vu la transaction décrite au paragraphe 15 ci-dessus. Je constate que, d’après l’écriture faite au grand livre datée du 31 décembre 2000 (pièce R-6), le dernier retrait par carte de débit effectué par M. Zolc est daté du 26 mai 2000. Par conséquent, je conclus que M. Zolc a remis la carte de débit à l’appelant peu après le 26 mai 2000.
+[17] En 2000, le logiciel n’était pas fini. M. Zolc et l’appelant ont décidé qu’il serait difficile de continuer à vendre des licences de distribution. Ils ont décidé que M. Zolc cesserait de se déplacer et que lui et l’appelant se concentreraient sur le développement du logiciel, puisqu’ils étaient programmeurs.
+[18] En 2000 et en 2001, Powernet exerçait ses activités à partir de la maison de l’appelant. Le bureau de Powernet occupait 46,5 % de la maison.
+[19] L’appelant prenait toutes les décisions relatives aux activités de Powernet. Aucune preuve n’indique qu’il y a eu des réunions des administrateurs en 1999 et en 2000.
+[20] Selon l’appelant, ses fonctions pour Powernet comprenaient [traduction] « à peu près tout ». Il aidait au développement du logiciel et à la programmation de la Personal Growth Series. Il décidait qui serait embauché pour aider au développement de la Personal Growth Series. Il prenait des décisions au sujet de l’argent, des échéances et des priorités. Il travaillait au moins 14 heures par jour, six jours par semaine.
+[21] Au début de 2000, les administrateurs et actionnaires de Powernet ont demandé des comptes à l’appelant. Ils voulaient voir les livres comptables et les états financiers de Powernet. Aucun livre comptable n’avait été établi. En octobre 2001, les administrateurs se sont réunis. L’appelant a été invité mais ne s’est pas présenté. À la suite de cette réunion, les administrateurs ont engagé un avocat qui a pu obtenir des copies des relevés bancaires de Powernet auprès de la banque.
+[22] Les administrateurs ont embauché un comptable qui a préparé un grand livre pour Powernet relativement aux périodes terminées le 31 décembre 1999, le 31 décembre 2000 et le 31 décembre 2001. Ces livres ont été montés à partir des relevés bancaires et des reçus de M. Zolc ainsi qu’avec l’aide de ce dernier et de certains administrateurs. M. Zolc a expliqué qu’il s’était assis avec le comptable et lui avait précisé quels débits figurant sur les relevés bancaires, selon ses souvenirs, lui étaient attribuables et ceux qui étaient attribuables à l’appelant.
+[23] Powernet a délivré un feuillet T4A à l’appelant totalisant 164 969 $ pour l’année d’imposition 2000. L’ARC a procédé à une vérification de l’observation par l’employeur et a établi des feuillets T4 au nom de l’appelant pour des montants de 164 969 $ et de 2 997 $ pour les années d’imposition 2000 et 2001 respectivement.
+[24] La preuve a établi que l’appelant avait omis de tenir compte du fait que Powernet était une entité distincte de lui-même. Il traitait le compte bancaire de Powernet comme s’il s’agissait de son compte bancaire personnel. Il a traité les actions non émises de Powernet comme si elles étaient ses propres actions. L’extrait suivant de la transcription de l’audience reflète bien son attitude. Alors qu’il interrogeait M. Zolc, l’appelant a déclaré :
+[traduction]
+Mon ami, c’était moi le conseil d’administration. C’était moi l’actionnaire majoritaire. Ne me parle donc pas du conseil d’administration. Je prenais toutes les décisions. Je payais les factures, je vous ai invités, vous tous […]
+[25] Globalement, l’appelant n’a pas expliqué les montants qui lui sont attribués dans le grand livre préparé par le comptable. Ses propos sont restés vagues.
+[26] L’appelant a déclaré qu’il avait consenti à Powernet un prêt de l’actionnaire de 11 000 $ en 1999. Le document de prêt était daté du 3 mai 1999 et n’est signé que par l’appelant. Le relevé bancaire de 1999 ne corrobore pas cette déclaration de l’appelant.
+[27] C’est seulement l’appelant et son épouse qui détenaient un pouvoir de signature sur le compte bancaire de Powernet. La preuve montre qu’en 2000, l’appelant ou son épouse ont utilisé le téléphone pour virer 109 310 $ à partir du compte bancaire de Powernet. L’appelant n’a pas expliqué ce virement.
+[28] À l’audience, l’intimée a relevé des erreurs dans le grand livre pour l’exercice terminé le 31 décembre 2000. Il y a eu des transactions de M. Zolc qui ont été incluses dans le revenu de l’appelant. Par conséquent, l’intimée a concédé que les montants en question devraient être déduits du revenu attribué à l’appelant pour 2000 dans l’avis de cotisation. Cependant, comme je le mentionne ci-après, j’ai majoré les montants supplémentaires qui devraient être supprimés du revenu de l’appelant pour l’année d’imposition 2000.
+[29] M. Zolc a affirmé dans son témoignage qu’il avait accès au compte bancaire de Powernet au moyen de la carte de débit. Il a raconté également qu’il utilisait la carte de débit pour payer des dépenses et retirer des espèces quand il se déplaçait afin de trouver des distributeurs pour Powernet. Selon l’écriture faite au grand livre datée du 31 décembre 2000, la dernière opération de débit de M. Zolc a eu lieu le 26 mai 2000, à Vancouver. Par conséquent, les seuls retraits par débit, virements et achats certainement imputables à l’appelant qui devraient être inclus dans son revenu sont ceux qui se sont produits après le 26 mai 2000. Le montant des virements par guichet automatique inclus dans le revenu de l’appelant devrait donc être de 300 $ et non pas de 1 350 $; le montant des retraits par guichet automatique inclus dans le revenu de l’appelant devrait être de 670 $ et non de 9 012,22 $; le montant des retraits personnels inclus dans le revenu de l’appelant devrait être de 1 595,30 $ et non pas de 3 455,45 $.
+[30] Je suis aussi convaincue que l’argent que l’appelant a reçu de Powernet constituait un revenu pour l’appelant. Comme le mentionne le juge Teskey dans l’affaire Palardy c. Canada, [1997] A.C.I. no 111, au paragraphe 21 :
+21 […] Une somme provenant d’une corporation ne peut qu’être :
+(1) un revenu pour le bénéficiaire;
+(2) un dividende dûment déclaré;
+(3) un prêt dûment documenté;
+(4) un retrait de capital dûment documenté.
+Il n’y avait aucun document indiquant que l’appelant se faisait rembourser des prêts qu’il avait pu consentir à l’entreprise ou qu’il recevait un prêt de celle-ci. Powernet n’a jamais déclaré de dividende. L’argent que l’appelant a reçu de Powernet constituait un revenu pour l’appelant.
+[31] L’appelant a aussi fait valoir subsidiairement que le revenu qu’il avait touché n’était pas imposable, conformément à l’arrêt R. c. Powley. Cette décision n’énonce pas que le revenu touché par un Métis n’est pas assujetti à l’impôt. Elle porte plutôt sur le droit ancestral des Métis de chasser à des fins de subsistance aux alentours de Sault Ste. Marie.
+[32] L’appel est admis sans frais au motif que le revenu de l’appelant pour l’année d’imposition 2000 devrait être recalculé, conformément au paragraphe 29 des présents motifs. En outre, le montant de 48 562,79 $ devrait être soustrait du revenu de l’appelant, comme l’a admis l’intimée au début de l’audience, après un examen des chèques, reçus et relevés de carte Visa présentés par l’appelant à l’ARC. L’appelant peut aussi déduire des dépenses de 6 000 $ engagées pour son bureau à la maison dans les années 2000 et 2001. Cependant, les dépenses relatives à la maison pour l’année d’imposition 2001 ne peuvent dépasser le revenu net de l’appelant, conformément à l’alinéa 8(13)b) de la Loi de l’impôt sur le revenu.
+Signé à Ottawa, Canada, ce 13e jour de mai 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 4e jour d’août 2008.
+Christian Laroche, juriste‑traducteur
+RÉFÉRENCE : 2008CCI292
+DOSSIER DE LA COUR : 2005-585(IT)G
+INTITULÉ : Richard Lorne Janzen c. La Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 3 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 13 mai 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Darcie Charlton
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

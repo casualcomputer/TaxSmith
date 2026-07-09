@@ -1,0 +1,140 @@
+---
+title: "ARCHIVED - Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it430r3-consolid/archived-life-insurance-proceeds-received-a-private-corporation-a-partnership-a-consequence-death.html
+last_modified: 2017-11-08
+---
+# ARCHIVED - Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-430R3 (Consolidated)**
+
+DATE: See [*Bulletin Revisions*](#P63_12904) section
+
+SUBJECT: INCOME TAX ACT**Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death**
+
+REFERENCE: The definition of "capital dividend account" in subsection 89(1) and paragraph 53(1)(*e*) (also section 80, the definition of "adjusted cost basis" in subsection 148(9), and paragraphs 148(2)(*a*) and 212(2)(*b*) of the *Income Tax Act*)
+
+***[Notice – Bulletins do not have the force of law](#Notice)***
+
+This document is also available for [download in other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it430r3-consolid.html).
+
+## Life Insurance Proceeds Received by a Private Corporation or a Partnership as a Consequence of Death
+
+[Latest Revision](#P63_12904) –¶ 6
+
+**This version is only available electronically.**
+
+## Contents
+
+- *[Application](#P30_2685)*
+
+- *[Summary](#P35_2906)*
+
+- *[Discussion and Interpretation](#P38_3932)*
+
+    - [Tax Consequences to Recipients of Life Insurance Proceeds](#P39_3961) (¶s 1-2)
+
+    - [Tax Consequences to Recipients of Dividends](#P42_4467) (¶s 3-4)
+
+    - [Definition of "Net Proceeds"](#P46_6336) (¶ 5)
+
+    - [Life Insurance Policy Used as Security for Indebtedness](#P51_8358) (¶s 6-8)
+
+    - [Application of Section 80](#P57_10833) (¶s 9-10)
+
+- *[Bulletin Revisions](#P63_12904)*
+
+## Application
+
+This bulletin is a consolidation of the following:
+
+- IT-430R3 dated February 10, 1997; and
+
+- subsequent amendment thereto.
+
+For further particulars, see the "[*Bulletin Revisions*](#P63_12904)" section near the end of this bulletin.
+
+## Summary
+
+This bulletin discusses the income tax consequences of the receipt, by a private corporation or partnership, of the proceeds of a life insurance policy as a consequence of the death of the person whose life was insured. The net proceeds of a life insurance policy (essentially the proceeds minus the adjusted cost basis of the policy), if received by a private corporation, are added to its capital dividend account. Generally, when the required election is made, a tax-free distribution of this amount can then be made to the shareholders of the corporation. The net proceeds of a life insurance policy, if received by a partnership, increase the adjusted cost base of each partner's interest in the partnership.
+
+The capital dividend account is part of the system for integrating the corporate and shareholder income tax of private corporations and is intended to preserve the character of non-taxable receipts (such as the proceeds of certain life insurance policies) of a corporation in the hands of its shareholders.
+
+## Discussion and Interpretation
+
+## Tax Consequences to Recipients of Life Insurance Proceeds
+
+**¶ 1.** Paragraph (*d*) of the definition of "capital dividend account" in subsection 89(1) provides the rules for the addition of the net proceeds of a life insurance policy to the capital dividend account of a private corporation.
+
+**¶ 2.** Subparagraph 53(1)(*e*)(iii) provides for an addition to the adjusted cost base of an interest in a partnership in respect of a partner's share of the net proceeds of a life insurance policy received by the partnership.
+
+## Tax Consequences to Recipients of Dividends
+
+**¶ 3.** A private corporation may elect to pay its shareholders a dividend out of its capital dividend account. These dividends do not constitute income to the shareholder resident in Canada and, in the case of capital dividends received by a private corporation, are included in the corporation's capital dividend account. If the dividend was paid from another corporation's life insurance capital dividend account, such a dividend received before May 24, 1985, is included in the recipient corporation's life insurance capital dividend account. Although a dividend paid from the life insurance capital dividend account was not included in the shareholder's income, the amount of the dividend reduced the adjusted cost base of certain shares, by virtue of paragraph 53(2)(*r*) as it then applied, if the shares were acquired as the result of any individual's death. The balance of the corporation's life insurance capital dividend account immediately before May 24, 1985, became a part of the corporation's capital dividend account at that time. The current version of IT-66, [*Capital Dividends*](https://www.canada.ca/E/pub/tp/it66r6/it66r6-e.html), discusses the procedures required to pay a dividend from a private corporation's capital dividend account.
+
+Non-resident shareholders are subject to a 25 per cent tax on dividends paid from a corporation's capital dividend account pursuant to paragraph 212(2)(*b*). However, a non-resident shareholder may qualify for relief in the form of a reduced rate of withholding tax on such dividends under a provision of a relevant tax treaty with a foreign country that has the force of law in Canada.
+
+**¶ 4.** Subparagraph 53(1)(*e*)(ii) provides for an addition to the adjusted cost base of an interest in a partnership on the receipt of capital and life insurance capital dividends by the partnership equal to each partner's share of those dividends.
+
+## Definition of "Net Proceeds"
+
+**¶ 5.** As indicated in ¶s [1](#P40_4020) and [2](#P41_4247) above, the "net proceeds" of a life insurance policy, if received by a private corporation, are added to its capital dividend account or, if received by a partnership, increase the adjusted cost base of a partner's interest in the partnership. The term "net proceeds" means the excess of the proceeds of the life insurance policy received as a consequence of the death of the person whose life was insured over:
+
+(a) the amounts paid as premiums (see the definition of "premium" in subsection 148(9)) under the policy where the proceeds were received after 1971 and before April 1, 1977; or
+
+(b) the adjusted cost basis of the policy, as defined in subsection 148(9), immediately before the death of the person insured, where the proceeds were received after March 31, 1977.
+
+Any accumulated policy dividends and interest paid out at the time of payment of the death claim are excluded from **proceeds** described above since the right to such payments does not arise as a consequence of the death of the person whose life was insured. Any policy dividend that a policyholder has become entitled to receive reduces the **adjusted cost basis** of the policy pursuant to paragraph 148(2)(*a*) and the definition of "adjusted cost basis." Accordingly, all such dividends (whether or not they are left to accumulate) will be reflected in the "net proceeds" if the proceeds were received after March 31, 1977. However, that portion of policy dividends received or receivable in taxation years beginning after December 20, 1991, that are automatically applied to pay a premium under the policy or repay a policy loan under the policy, as provided for under the terms and conditions of the policy, are excluded from the proceeds of disposition. The "adjusted cost basis" (as defined in subsection 148(9)) of a life insurance policy is not increased by that portion of such dividends because they are excluded from the total of all amounts paid in respect of a premium under the policy.
+
+## Life Insurance Policy Used as Security for Indebtedness
+
+**¶ 6.** A life insurance policy may be used to secure the indebtedness of a private corporation or a partnership with part or all of the proceeds arising upon the death of the person whose life was insured being paid directly to the creditor as beneficiary or as an assignee for security. In such cases, whether or not the premium cost is borne directly or indirectly by the debtor, the entitlement to the addition to the capital dividend account (or the entitlement of its partners to an addition to the adjusted cost base of each of their partnership interests) remains with that creditor (or its partners).
+
+However, when a life insurance policy has been assigned as collateral for securing indebtedness (as opposed to an absolute assignment of the policy) or is the subject of a hypothecary claim by a creditor, and the debtor remains the beneficiary or policyholder, the proceeds in excess of the adjusted cost basis of the policy would be included in the capital dividend account of the debtor. This is so because, in such cases, the proceeds of the insurance policy would be constructively received by the debtor in its capacity as beneficiary or policyholder, even though paid directly to the creditor in accordance with the assignment or hypothec. The creditor is neither the beneficiary of the policy nor the policyholder and would not be entitled to include the proceeds in its capital dividend account because the amount it receives would not be considered to be proceeds of a life insurance policy.
+
+Furthermore, the current version of IT-309, [*Premiums on Life Insurance Used as Collateral*](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it309r2/archived-premiums-on-life-insurance-used-collateral.html), contains information on the limited deduction available under paragraph 20(1)(*e*.2) for premiums payable under a life insurance policy when the policy has been assigned to a restricted financial institution for a loan.
+
+**¶ 7.** Where an amount to which subparagraphs 53(1)(*e*)(ii) and (iii) apply is received by a partnership and allocated to a partner that is a private corporation, the corporation may add the amount so allocated to its capital dividend account or life insurance capital dividend account, as described in ¶ [1](#P40_4020) above, as if the corporation had received the amount allocated to it at the time the partnership received it.
+
+**¶ 8.** The increase in the capital dividend account, or the adjusted cost base of a partnership interest occurs at the time of receipt of proceeds rather than the time of entitlement to proceeds.
+
+## Application of Section 80
+
+**¶ 9.** Section 80 applies to a gain realized by a taxpayer on settlement of a "commercial obligation" without payment or with insufficient payment. If the life of a debtor (or a principal shareholder or an officer of a debtor corporation or a partner of a debtor partnership) is insured and the cost is borne by the creditor without being passed directly or indirectly on to the debtor, proceeds received on death that are applied to extinguish or reduce the debtor's "commercial obligation" are not regarded as having been paid. Thus, the provisions of section 80 will apply. Similarly, if the creditor agrees to waive the repayment of the balance owing on a "commercial obligation" in the event of the death of the debtor, section 80 applies.
+
+**¶ 10.** Where an individual who has issued a "commercial obligation" dies, paragraph 80(2)(*p*) applies when such an obligation is subsequently settled if:
+
+- the commercial obligation is outstanding at the time of the individual's death; and
+
+- the individual's estate was liable for that obligation before it was settled or extinguished.
+
+Paragraph 80(2)(*p*) ensures that the estate is deemed to have issued the commercial debt obligation at the same time and in the same circumstances as the obligation was issued by the individual. With certain exceptions, if a commercial obligation that is issued by an individual has been settled by the estate of the individual within 6 months of the individual's death, and the estate was liable for the obligation immediately before the obligation was settled, the rules in paragraph 80(2)(*q*) apply. In particular, the obligation is deemed to have been settled at the beginning of the day the individual died. In effect, this means that the individual is subject to the debt forgiveness rules in section 80 at the time the obligation is deemed to be settled and if there is a "forgiven amount," as defined in subsection 80(1), it is applied to reduce the individual's tax attributes in a specified order, as required by subparagraph 80(2)(*c*), and subsections 80(3) to (12).
+
+## Bulletin Revisions
+
+¶s 1 to 5 and 7 to 10 have not been revised since the issuance of IT-430R3 on February 10, 1997.
+
+¶ [6](#P52_8415) is revised to clarify the CCRA's position on life insurance policies assigned as collateral for securing indebtedness or subject to a hypothecary claim in Quebec and the possible impact on the debtor's capital dividend account where the debtor remains the beneficiary or policyholder. This clarification had originally been explained, in part, in [*Income Tax Technical News*](https://www.canada.ca/E/pub/tp/itnews-10/itnews-10-e.html) No. 10 of July 11, 1997. In addition, our position with respect to hypothecary claims in Quebec has been clarified. (December 2, 2002)
+
+### Notice – Bulletins do not have the force of law
+
+At the Canada Customs and Revenue Agency (CCRA), we issue income tax interpretation bulletins (ITs) in order to provide technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, ITs are used primarily by our staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, we offer other publications, such as tax guides and pamphlets.
+
+While the comments in a particular paragraph in an IT may relate to provisions of the law in force at the time they were made, such comments are not a substitute for the law. The reader should, therefore, consider such comments in light of the relevant provisions of the law in force for the particular taxation year being considered, taking into account the effect of any relevant amendments to those provisions or relevant court decisions occurring after the date on which the comments were made.
+
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+
+***If you have any comments regarding matters discussed in an IT, please send them to:***
+
+***Manager, Technical Publications and Projects Section Income Tax Rulings Directorate Policy and Legislation Branch Canada Customs and Revenue Agency Ottawa ON K1A 0L5***
+
+Most of our publications are available on our [Web site](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax.html).

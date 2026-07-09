@@ -1,0 +1,154 @@
+---
+title: "Zeldap Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108838/index.do"
+last_modified: "2015-03-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 78"
+citation2: ""
+neutral_citation: "2015 TCC 78"
+decision_date: "2015-03-30"
+language: "en"
+item_id: "108838"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2853
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:27:00.481000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "adedf8f2f3fe55c623ec0d5307848a86e62a443bbff17fc25cfc4fa5ea90bcdd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zeldap Corporation v. The Queen
+
+- Citation: 2015 TCC 78
+- Decision date: 2015-03-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2853, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zeldap Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-30
+Neutral citation
+2015 TCC 78
+File numbers
+2012-5171(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-5171(IT)G
+BETWEEN:
+ZELDAP CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion in writing filed on November 28, 2014.
+Before: The Honourable Justice Réal Favreau
+Representation:
+Counsel for the Appellant:
+Marcela S. Aroca
+Counsel for the Respondent:
+Ryan R. Hall
+ORDER
+UPON motion in writing by the Respondent for an Order directing the Appellant to answer by affidavit certain written examination for discovery questions pursuant to section 116 of the Tax Court of Canada Rules (General Procedure) and directing the parties to communicate in writing with the Hearings Coordinator;
+AND UPON having read the written representations of the parties;
+IT IS ORDERED THAT the motion filed by the Respondent is allowed without costs in accordance with the attached Reasons for Order.
+Signed at Montreal, Canada, this 30th day of March 2015.
+“Réal Favreau”
+Favreau J.
+Citation: 2015 TCC 78
+Date: 20150330
+Docket: 2012-5171(IT)G
+BETWEEN:
+ZELDAP CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Favreau J.
+[1] This is an application under subsection 116(2) of Tax Court of Canada Rules (General Procedure) dated November 28, 2014 to compel the appellant to answer question number 32 served to the appellant in the written examination for discovery. The relevant queries are as follows:
+Question 32.
+Having regard to the meetings and discussions referenced in the document reproduced under tab 37 of the appellant's book of documents,
+a) when and where was each such discussion held?
+b) between whom was each discussion?
+c) who else, if anyone, was present for each discussion? Please provide their full names and contact information.
+d) what was said?
+[. . .]
+g) were any records created diarizing any part of the discussion, and if so, please produce any and all copies of the same or make your best efforts to obtain and produce the same, including making requests of parties who might reasonably be expected to have copies of the same (should your best efforts fail, please describe what efforts were taken)?
+[2] Counsel for the respondent served the appellant with question 32 in the written examination because in an enclosure to a letter dated April 15, 2004, the appellant provided the respondent with a copy of the Appellant’s Book of Documents reproducing under Tab 37, a letter dated December 18, 2007 from Mr. Michael Stebila, C.A. to Dr. Zbigniew Pona, then vice-president of Zeldap Corporation. The first paragraph of the letter reads as follows:
+This letter is further to the meetings and discussions we have had regarding various loans and investments made (sic) Zeldap Corporation (“Zeldap”) during the years 2003 to 2006 and how these loans and investments are to be reported in the Zeldap financial statements and corporation income tax returns for these years.
+[3] In an enclosure to a letter dated September 29, 2014, the appellant provided responses to undertakings but refused to answer question 32 of written examination for discovery claiming solicitor-client privilege.
+[4] Counsel for the appellant opposed the motion brought by the respondent and filed an affidavit of Dr. Zbigniew Pona, now president of Zeldap Corporation, stating that:
+(a) he met with Michael Stebila, an accountant, under the direction of his then lawyer, Scott Sullivan, in contemplation or anticipation of possible litigation, and
+(b) every meeting took place in Mr. Sullivan’s office with Mr. Sullivan being present at each meeting.
+[5] The appellant agreed with the facts as described in paragraphs 1 to 6 of the Motion Record of the respondent which includes the following facts described in subparagraphs (a) and (b) of paragraph 2 of the affidavit of Sylvie Julian sworn on November 28, 2014:
+(a) the appellant has appealed from reassessments dated March 29, 2011 and
+(b) the central issues in the appeal are whether, from 2002 to 2006, the appellant’s ordinary business included the lending of money and certain advances were made in the ordinary course of lending money.
+[6] The respondent requested that the motion either be heard by way of a telephone conference or be disposed of pursuant to section 69 of the Tax Court of Canada Rules (General Procedure) without appearance by the parties. The appellant did not express any preference and both parties made written representations.
+[7] In his written representations, the appellant adopted the text used by Ducharme J. in Kennedy v. McKenzie, [2005] O.J. No. 2060 to determine whether litigation privilege exists. In the Kennedy decision, Ducharme J. held that the party asserting litigation privilege must establish that the documents were created:
+(a) for the dominant purpose of existing, contemplated or anticipated litigation; and
+(b) in answer to inquiries made by an agent for the party’s solicitor; or
+(c) at the request or suggestion of the party’s solicitor; or
+(d) for the purpose of being laid before counsel for the purposes of obtaining his advice; or
+(e) to enable counsel to prosecute or defend an action or prepare a brief.
+(Emphasis added).
+[8] Ducharme J. also held that the onus of establishing that the document is subject to litigation privilege rests on the party asserting the privilege.
+[9] The appellant submitted that a prima facie case has been made that the meetings took place for the dominant purpose of contemplation or anticipation of litigation and that, at all material times, the meetings with Mr. Stebila were under the direction of his lawyer, Mr. Sullivan, only after seeking his legal advice and in compliance with that legal advice.
+[10] Even if the meetings took place in Mr. Sullivan’s office with Mr. Sullivan present at each meeting, no case has been made that the dominant purpose of the meetings was in respect of an existing, contemplated or anticipated litigation. No information has been given in this respect. The December 18, 2007 letter from Michael Stebila to Dr. Pona referred to a list of loans and investments made by the appellant and to the manner these loans and investments are to be reported in the financial statements and income tax returns of the corporation for the years 2003 to 2006. Most of the meetings and discussions to which the letter refers to, seem to have taken place in the year 2007, more than three years before those years were reassessed. The appellant did not explain why a litigation was anticipated at that time.
+[11] The fact that Mr. Sullivan was present at the meetings between Mr. Stebila and Dr. Pona does not necessarily mean that the dominant purpose of the meetings was in respect of an existing, contemplated or anticipated litigation. A lawyer’s presence at a meeting is not indicative that his legal advice was being sought. The appellant has not provided any information concerning the nature of the legal advice sought from Mr. Sullivan.
+[12] In the circumstances, the appellant has not established a prima facie case for litigation privilege to apply.
+[13] For the foregoing reasons, the respondent’s application for an order from the Court directing the appellant to answer by affidavit certain written examination for discovery questions by April 30, 2015 at the latest, is allowed without costs and the parties are directed to communicate in writing with the Hearings Coordinator by May 30, 2015 at the latest.
+Signed at Montreal, Canada, this 30th day of March 2015.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2015 TCC 78
+COURT FILE NO.:
+2012-5171(IT)G
+STYLE OF CAUSE:
+ZELDAP CORPORATION AND HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Réal Favreau
+DATE OF ORDER:
+March 30, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Marcela S. Aroca
+Counsel for the Respondent:
+Ryan R. Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Marcela S. Aroca
+Firm:
+Aroca Litigation
+Windsor, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

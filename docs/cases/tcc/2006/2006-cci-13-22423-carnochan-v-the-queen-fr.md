@@ -1,0 +1,155 @@
+---
+title: "Carnochan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22423/index.do"
+last_modified: "2006-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 13"
+citation2: ""
+neutral_citation: "2006 CCI 13"
+decision_date: "2006-01-05"
+language: "fr"
+item_id: "22423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2280
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:59:32.545000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "860968fb94995ac7a5dc9448ba0d12c467f85bf4223017712f8483e10f0313b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carnochan v. The Queen
+
+- Citation: 2006 CCI 13
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2280, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carnochan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-05
+Référence neutre
+2006 CCI 13
+Numéro de dossier
+2004-3838(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3838(IT)I
+ENTRE :
+PATRICIA A. CARNOCHAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Regina (Saskatchewan), le 13 décembre 2005
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Penny Piper
+____________________________________________________________________
+JUGEMENT
+L'appel est admis et l'affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que, pour la période allant de septembre à octobre 2003 inclusivement, l'appelante était le « particulier admissible » et, pour ces mois, avait le droit de recevoir la prestation fiscale pour enfants.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de décembre 2006.
+Christian Laroche, LL.B.
+Référence : 2006CCI13
+Date : 20060105
+Dossier : 2004-3838(IT)I
+ENTRE :
+PATRICIA A. CARNOCHAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] Le présent appel porte sur la question de savoir si l'appelante, Patricia A. Carnochan, avait le droit de recevoir des prestations fiscales pour enfants pendant la période allant de janvier à décembre 2003. La période s'étend sur deux années de base, soit 2001 et 2002[1].
+[2] Au moyen d'un avis de nouvelle détermination daté du 20 janvier 2004, le ministre du Revenu national (le « ministre » ) a fait savoir à l'appelante qu'elle avait reçu des prestations en trop de 1 822,71 $ pour les mois de septembre à décembre 2003 inclusivement. L'appelante a déposé un avis d'opposition et, en juillet 2004, le ministre a ratifié sa nouvelle détermination. Par contre, dans son appel, l'appelante a demandé à la Cour d'examiner la question de savoir si elle avait droit à la prestation fiscale pour enfants pendant la période allant de janvier à octobre 2003. L'intimée a adopté la position selon laquelle la Cour n'avait pas compétence pour examiner la question de savoir si l'appelante avait droit à des prestations pendant une période autre que celle exposée dans l'avis de nouvelle détermination, soit de septembre à décembre 2003. Pour ce qui est de cette dernière période, le ministre a avancé que la prestation fiscale pour enfants n'aurait pas dû être versée à l'appelante, parce que celle-ci n'était alors plus le « particulier admissible » au sens de l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ).
+Le contexte
+[3] L'appelante et son ex-époux se sont séparés en février 2002. En avril 2002, conformément à une ordonnance provisoire, l'appelante et son ex-époux ont obtenu la garde partagée des enfants, qui devaient passer une semaine sur deux avec chaque parent. Pour un jugement daté du 18 juillet 2003, la juge Dawson a maintenu l'ordonnance de garde partagée, mais a ordonné que la résidence de l'ex-époux de l'appelante soit la résidence principale des enfants. Le jugement exposait un calendrier détaillé des périodes pendant lesquelles les enfants devaient être avec chaque parent; cela[2] a fait en sorte qu'après le 18 juillet 2003, les enfants devaient passer plus de temps à la résidence de leur père qu'à la résidence de leur mère. Cependant, selon l'appelante, ce nouveau calendrier n'est réellement entré en vigueur qu'en novembre 2003, mois où elle a commencé à travailler à temps plein. Entre juillet et octobre 2003, le calendrier selon lequel les enfants passeraient une semaine sur deux chez chaque parent prévu par l'ordonnance provisoire a été plus ou moins respecté; c'est sur ce fondement que l'appelante prétend n'avoir reçu aucun paiement en trop au titre de la prestation fiscale pour enfants pour la période de septembre à octobre 2003 et demande un nouveau rajustement des dates des paiements établies par l'Agence des douanes et du revenu du Canada pour la période allant de janvier à août 2003.
+[4] L'appelante s'est représentée elle-même et a témoigné à l'audience. Je conclus qu'elle a donné une explication crédible de la répartition des tâches relatives aux enfants entre son ex-époux et elle pendant les mois de juillet à octobre 2003. J'accepte son témoignage selon lequel les enfants ont effectivement continué à passer la moitié de leur temps à la résidence de chaque parent pendant cette période, malgré les conditions du jugement.
+[5] L'ex-époux de l'appelante, K., a été appelé à témoigner par l'intimée. Je conclus que son témoignage était moins crédible que celui de l'appelante. Son langage corporel et ses réponses évasives aux questions posées ont corroboré le témoignage de l'appelante selon lequel l'hostilité de son ex-époux envers elle limite la capacité de celui-ci à porter un jugement objectif sur sa participation aux soins des enfants. En interrogatoire principal et en contre-interrogatoire, ses réponses aux questions avaient tendance à faire en sorte que ses actes soient interprétés de la manière qui lui était la plus favorable plutôt que d'être franches. Contrairement à l'appelante, qui avait admis que son ex-époux et elle avaient tous les deux manqué à leurs obligations, K. se montrait enclin à s'attribuer le mérite de tout ce qu'il y avait de positif dans cette affaire et à blâmer l'appelante pour tout ce qu'il y avait de négatif. Je n'ai donc pas pu accorder beaucoup de poids au témoignage de K.
+La question de la compétence de la Cour
+[6] Avant de déterminer lequel des deux parents était le « particulier admissible » , je vais régler la question de la capacité de la Cour de se pencher sur le droit de l'appelante de recevoir des prestations pour des mois autres que ceux énoncés dans l'avis de nouvelle détermination. J'accepte l'argument que fait valoir l'avocate de l'intimée voulant qu'aux termes du paragraphe 169(1) de la Loi, la Cour n'a pas compétence pour examiner une période autre que celle des mois de septembre à décembre 2003, période mentionnée dans l'avis de nouvelle détermination auquel l'appelante s'est opposée; il ne m'est donc pas loisible de réattribuer les prestations versées entre janvier et août 2003.
+La question du « particulier admissible »
+[7] Examinons maintenant les deux mois que conteste l'appelante dans ses avis d'opposition et d'appel, soit les mois de septembre et d'octobre 2003. L'intimée allègue que l'appelante n'avait droit à aucune prestation fiscale pour enfants pour ces mois, étant donné qu'elle n'était pas le « particulier admissible » aux termes de l'article 122.6 de la Loi. Il a été convenu à l'audience qu'il n'y avait que deux éléments de la définition de cette expression en litige, soit les alinéas a) et b). Il s'agit de savoir si l'appelante réunissait les conditions suivantes :
+a) elle réside avec la personne à charge;
+b) elle est la personne - père ou mère de la personne à charge - qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+[...]
+[8] La question de savoir si l'appelante « résid[ait] avec » ses enfants est une question de fait[3]. L'avocate de l'intimée prétend qu'étant donné que le jugement prévoyait qu'après le mois de juillet 2003, la résidence du père serait la [TRADUCTION] « résidence principale » des enfants, il est impossible d'affirmer que l'appelante résidait avec ses enfants en septembre et en octobre 2003. Je n'accepte pas cet argument. Tout d'abord, la définition de « particulier admissible » ne dit pas qu'une telle personne doit résider « principalement » avec les enfants; le simple fait que la personne réside avec ses enfants est suffisant. De plus, pour l'application de la Loi, il se peut qu'une personne ait plus d'un lieu de résidence. Dans ce cas-ci, le tribunal de la famille a déterminé qu'il était dans l'intérêt supérieur des enfants de rendre une ordonnance de garde partagée[4]. Bien que le jugement désigne la résidence du père comme étant la [TRADUCTION] « résidence principale » des enfants, il dit aussi que les enfants [TRADUCTION] « résideront avec [l'appelante] à tout moment raisonnable [tel qu'il est précisé ci-dessous] » [5].
+[9] La preuve montre que pendant les mois de septembre et d'octobre 2003, les enfants ont passé environ la moitié de leur temps à la maison de leur mère. Cette maison était l'ancien foyer conjugal où chacun des enfants avait sa propre chambre et ses effets personnels. Les enfants ont continué à fréquenter la même école qu'ils fréquentaient avant la rupture du mariage de leurs parents; l'école est située tout près de la résidence de l'appelante. L'adresse des deux parents figurait dans les dossiers des enfants à l'école. Les deux parents étaient censés recevoir et apposer leurs initiales au [TRADUCTION] « carnet de correspondance » [6] du cadet. Les enfants prenaient leurs repas, faisaient leurs travaux scolaires, jouaient avec leurs amis et dormaient chez leur mère. Dans un contexte de garde partagée, je suis convaincue que l'appelante « résid[ait] avec » ses enfants pour l'application de l'alinéa a) de la définition de « particulier admissible » .
+[10] Il faut maintenant déterminer si, selon l'alinéa b) de la définition, l'appelante était la personne - père ou mère - qui « assum[ait] principalement » la responsabilité pour « le soin et l'éducation » des enfants en septembre et en octobre 2003; la Cour doit examiner la preuve en fonction des critères énoncés à l'article 6302 du Règlement de l'impôt sur le revenu (le « Règlement » ) :
+Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[11] Je suis convaincue que l'appelante était la personne - père ou mère - qui assumait principalement la responsabilité pour le soin et l'éducation des enfants en septembre et en octobre 2003. L'appelante était très coopérative lors de son témoignage et c'est grâce à cela que la Cour a disposé de plus d'éléments de preuve crédibles sur sa participation dans la vie de ses enfants. Bien que K. et l'appelante aient subvenu également aux besoins médicaux et en matière d'hygiène des enfants, je conclus que la balance penche légèrement du côté de l'appelante sous tous les autres rapports. Il est plus probable que c'était elle qui préparait les repas de ses enfants quand ceux-ci étaient avec elle; il n'était pas rare que, lorsque K. déposait les enfants chez l'appelante le matin, il ne leur avait pas donné à manger, alors l'appelante ou la gardienne qu'ils partageaient devait s'occuper de cette tâche. Dans le même ordre d'idées, l'appelante donnait souvent à manger à ses enfants avant que K. ne passe les chercher après sa journée de travail; K. n'avait donc pas à s'occuper de cette tâche lorsqu'il retournait à la maison avec ses enfants. Elle s'intéressait chaque jour aux travaux scolaires et aux activités de ses enfants; entre autres, elle amenait le cadet à ses cours de natation le mardi et le jeudi. Bien que K. ait témoigné qu'il veillait à ce que l'aîné participe, le mercredi, à des activités communautaires destinées aux jeunes de son groupe d'âge, activités qui avaient lieu près de sa résidence, la preuve montre que l'aîné n'était pas chez son père ces soirs-là. De plus, le témoignage de K. a révélé que le défaut de l'appelante de se tenir au courant des programmes scolaires ou des besoins médicaux des enfants découlait souvent directement des actions délibérées de K. visant à garder l'appelante dans l'ignorance au sujet de ces programmes ou de ces besoins. Ce qui est également troublant, c'est que K. faisait des efforts pour discréditer l'appelante aux yeux de ses enfants. Ce genre d'action ne constitue pas une participation au « maintien d'un milieu sécuritaire » ou au « fait de guider » les enfants; ces actions ne respectent pas non plus « l'existence d'une ordonnance rendue par un tribunal » au coeur de laquelle se trouve la création d'un milieu de garde partagée qui est dans l'intérêt supérieur des enfants. Pour tous ces motifs, je suis convaincue que, selon la prépondérance de la preuve, l'appelante assumait principalement la responsabilité pour le soin et l'éducation des enfants pendant les mois de septembre et d'octobre 2003.
+[12] Par conséquent, l'appel est admis et l'affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que, pour la période allant de septembre à octobre 2003 inclusivement, l'appelante était le « particulier admissible » et, pour ces mois, avait le droit de recevoir la prestation fiscale pour enfants.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour de décembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2006CCI13
+NO DU DOSSIER : 2004-3838(IT)I
+INTITULÉ : PATRICIA A. CARNOCHAN c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Regina (Saskatchewan)
+DATE DE L'AUDIENCE : Le 13 décembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 5 janvier 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Penny Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Année de base 2001: de juillet 2002 à juin 2003; année de base 2002 : de juillet 2003 à juin 2004.
+[2] Pièce A-2, paragraphe 47.
+[3] Thomson v. M.N.R., [1946] S.C.R. 209; Eliacin v. Canada [1993] 2 C.T.C. 2635 (C.C.I.)
+[4] Alinéa 47a), pièce A-2.
+[5] Alinéa 47c), pièce A-2
+[6] Pièce A-4, un genre d'agenda dans lequel les enseignants et les parents pouvaient inscrire des commentaires pour chaque jour d'école.

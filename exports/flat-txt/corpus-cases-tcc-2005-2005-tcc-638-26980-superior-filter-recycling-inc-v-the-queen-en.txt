@@ -1,0 +1,151 @@
+Title: Superior Filter Recycling Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26980/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-638-26980-superior-filter-recycling-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-27
+
+# Superior Filter Recycling Inc v. The Queen
+
+- Citation: 2005 TCC 638
+- Decision date: 2005-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 525, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Superior Filter Recycling Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-27
+Neutral citation
+2005 TCC 638
+File numbers
+2004-4042(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC638
+Date: 20050927
+Docket: 2004-4042(IT)G
+BETWEEN:
+SUPERIOR FILTER RECYCLING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 22, 2005, at Vancouver, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+David-Kevin: Lindsay
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+REASONS FOR ORDERS ANDORDERS
+Beaubier, J.
+[1] Two motions respecting this appeal pursuant to the General Procedure were heard at Vancouver, British Columbia, on September 22, 2005. They are:
+1. Motion by the Appellant dated May 20, 2005 that:
+(i) The Appellant be granted judgment on its appeal, because:
+(a) The Respondent has not forwarded a list of documents.
+(b) The assessments for 2000, 2001 and 2002 are in error and unsupported in fact.
+(ii) David-Kevin: Lindsay, a director of the Appellant be allowed to conduct this appeal as agent. He represented the Appellant respecting these motions.
+2. Motion by the Respondent dated September 1, 2005 that the Court require the Appellant to be represented in this appeal by legal counsel.
+They will be dealt with in that order.
+[2] The Respondent filed a List of Documents (Partial Disclosure) on July 4, 2005. As a result the meaning of "Partial Disclosure" was explained to Mr. Lindsay and that matter was not dealt with further.
+[3] Mr. Lindsay argued that the assessments are not maintainable and are in error and unsupported in fact.
+1. The material dates respecting these matters are as follows:
+(i) Due dates for Appellant's income tax returns, by fiscal year:
+2000
+January, 31, 2001
+2001
+January, 31, 2002
+2002
+January, 31, 2003
+(ii) CRA assessed for all three years on the basis that no income tax returns had been filed on January 12, 2004.
+(iii) The Appellant filed Notices of Objection on April 8, 2004.
+(iv) The Respondent requested that the Appellant file income tax returns by June 25, 2004 by a letter dated May 14, 2004.
+(v) The Appellant filed income tax returns for 2000 and 2001 on June 29, 2004 and for 2002 on December 17, 2004.
+(vi) CRA confirmed the assessments by Notification dated July 14, 2004.
+2. Mr. Lindsay established in Exhibit H to the affidavit of Lisa Macdonell dated September 1, 2005 that the decision to confirm the assessments occurred July 12, 2004, the report of which stated:
+The Appeals Officer requested documentation to support the statement that the numbers assessed were grossly overstated. No support was received.
+Mr. Lindsay misinterpreted the word "support" to refer to the income tax returns and argued that the statement was wrong since the income tax returns were filed on June 29, 2004. As a result he argued that they were ignored. In tax parlance "support" means bank statements, cheques, receipts, invoices and similar documents. That is, the actual working and operation documents of the Appellant; none of these have been presented so far as the Court record shows.
+3. Mr. Lindsay argued that contrary to Section 150 or 152 (as he argued) of the Income Tax Act, the income tax returns of the Appellant were not examined respecting the assessments in question. Respondent's counsel argued quite correctly, that the income tax returns were not filed on time for such an examination. There is no evidence that the CRA has not examined them.
+4. Finally, Mr. Lindsay appears not to realize that once an assessment process has been completed and an appeal or Reply has occurred, the onus is on the taxpayer to refute the Reply's assumptions.
+[4] Based upon the foregoing and for the reasons enunciated herein, the Appellant's motion to grant its appeal is dismissed.
+[5] Respecting the motions of both parties as to whether the Appellant be required to retain a lawyer to conduct this appeal, the Court quotes the criteria set forth by Bowman, A.C.J., in paragraphs 2 to 7 inclusive of Chase Bryant Inc. v. R., 2003 DTC 145. They read:
+[2] Subsection 30(2) of the Tax Court of Canada Rules (General Procedure) provides
+A corporation shall be represented by counsel in all proceedings in the Court, unless the Court, in special circumstances, grants leave to the corporation to be represented by an officer of the corporation.
+[3] Mr. Gunderson is a 25% shareholder of the appellant and is also a director. He is not an officer and technically this would disqualify him from representing the company. If I were otherwise inclined to grant his request that would not be an insuperable obstacle because I would simply have made the order granting him permission to represent the company conditional upon his becoming an officer. He should have no difficulty since the remaining 75% of the shares are owned by his mother and his brother.
+[4] In Pratts Wholesale Limited v. The Queen, 98 DTC 1561, Beaubier, J. of this court applied the four factors stated by Muldoon, J. in Kobetek Systems Ltd. v. R., [1998] 1 C.T.C. 308 at page 310.
+From these cases the following factors appear to be relevant to the determination of whether special circumstances exist: whether the corporation can pay for a lawyer; whether the proposed representative will be required to appear as advocate and as witness; the complexity of the legal issues to be determined (and therefore whether it appears that the representative will be able to handle the legal issues) and whether the action can proceed in an expeditious manner.
+[5] These factors were referred to by Bowie, J. in RFA Natural Gas Inc. v. R., [2000] G.S.T.C. 40.
+[6] The factors referred to in these cases are a useful starting point but they are neither determinative nor exhaustive. For example in RFA Natural Gas Bowie, J. did not put much weight on the question whether the proposed representative might appear as a witness. I respectfully agree.
+[7] If there is one factor that outweighs the others it is whether the company can afford to pay a lawyer. If it can it is difficult to imagine circumstances which would justify a departure from the rule that a corporation must be represented by counsel. In Mavito Inc. c. R., [2001] 2 C.T.C. 2048, Tardif, J. considered a corporate appellant's inability to pay a lawyer's fees as 'a decisive factor' in such a motion as this.
+[6] David-Kevin: Lindsay is not an officer of the Appellant. He is a director of the Appellant. Therefore he cannot represent the Appellant in this appeal.
+[7] Bowman, A.C.J. went further, however, and stated that he could have made an order conditional upon the proposed agent becoming an officer. That is possible in this case as well.
+[8] Mr. Lindsay stated that he would not have to testify as a witness in this appeal. The issues are somewhat complex and may involve a small business corporation status. Respondent's counsel also raised the possibility that there may be a capital loss question - which is not clear from the material before the Court, but which the Court accepts. Mr. Lindsay did not understand that last concept and may not have understood the first concept. To date matters have not proceeded because the Appellant's address in the Notice of Appeal is inappropriate and Respondent had difficulty contacting and serving the Appellant.
+[9] Financially, Mr. Meikle testified that the Appellant could not afford the costs of a lawyer for an appeal such as this. The Court saw Mr. Lindsay and Mr. Meikle. Mr. Meikle testified that the Appellant's business in Penticton is located in a small market with about three competitors and the income figure assessed is well beyond the capacity of the Penticton market with its current competition.
+[10] The Appellant's late-filed income tax returns are exhibited in Lisa Macdonell's affidavit for the years in assessment. They show the Appellant's net income as follows:
+2000
+$14,215
+2001
+$14,215
+2002
+($494)
+The amounts of taxable income assessed by the Respondent are:
+2000
+$87,066
+2001
+$125,062
+2002
+$85,796
+Mr. Meikle testified that the Appellant's 2005 net income is over $1.00, but he could not tell how much more. The result is that the Appellant did not prove that it is unable to afford a lawyer. Mr. Meikle was most concerned about this in his testimony. However, he was the president of the Appellant when it failed to file income tax returns which caused all of the expenses that have arisen due to these assessments. Moreover, as will be described, the present state of the Appellant's documents, combined with Mr. Lindsay's lack of understanding of the appeal process for this case lead the Court to believe that if the Appellant continues the Court proceedings as it proposes, it cannot expect even a partial success, all of which will result in a much greater cost than the expense of legal counsel.
+[11] The result, using the criteria set out by Bowman, A.C.J. is as follows:
+1. The Appellant has not proved that it cannot pay for a lawyer.
+2. Mr. Lindsay states that he will not appear as a witness.
+3. The issues are, taken together, complex and Mr. Lindsay does not understand them, the onus on the Appellant in tax cases or the requirements necessary to prove the Appellant's case. For example, the list of documents he filed describes the T2 returns, Notice of Confirmation, Notice of Objection and "5. Various written correspondence" and that is all. Item 5, coupled with his misunderstanding of "support" means that the Appellant cannot upset the assessments at a hearing of the issue in an appeal of an assessment of this nature, because its proposed representative does not understand the process in a tax case. It is also clear that he does not understand concepts of the Income Tax Act related to this case.
+4. The Court is satisfied that this appeal will not proceed expeditiously if Mr. Lindsay is the agent for the Appellant. He told the Court in argument that he takes the orders of Mr. Meikle, the Appellant's president; Mr. Meikle was also president when the Appellant did not file the income tax returns in question. Both Mr. Meikle and Mr. Lindsay admitted that the address they placed on the Notice of Appeal was one which made it difficult to serve or contact the Appellant. Throughout the hearing of these motions Mr. Lindsay tried to adjourn them.
+[12] There is a final point that is referred to in Pratts; the Appellant is a corporation - a creature of law. It has a right to shelter its shareholders from general liability and it has certain rights as a taxpayer. With those rights there are corresponding duties; in this case it is that the Appellant must retain a lawyer to proceed with its appeal and that is so ordered. The Respondent's motion is granted.
+[13] It is therefore ordered that the Appellant retain legal counsel to proceed with its appeal and that the legal counsel enter an appearance in this Court on or before October 15, 2005 with the appropriate particulars for service in the future. If legal counsel finds it necessary to file an amended list of documents for the Appellant, leave is granted for counsel to do so on or before November 10, 2005. Until legal counsel is appointed, the Appellant's agent for the purposes of this appeal is its officer, Nelson Meikle.
+[14] Pursuant to the agreement of the parties made on the record of this Court on September 22, 2005, the Court also orders:
+1. Until the Appellant appoints legal counsel, the address, phone and fax numbers of the Appellant for the purposes of this proceeding are:
+(i) Address: 725 Franklyn Road
+Kelowna, British Columbia
+V1X 3T9
+(ii) Telephone: (250) 212-6855
+(iii) Fax: (250) 765-6813
+2. Examinations for discovery shall occur in Vancouver on or before November 30, 2005.
+3. Undertakings shall be provided on or before January 31, 2006.
+4. All proceedings in this matter shall occur in the City of Vancouver, British Columbia.
+[15] It is also ordered:
+1. Motions may be served by fax on the opposing party henceforth at the fax number of each party presently recorded in these proceedings.
+2. Costs respecting both motions are in the cause.
+Signed at Saskatoon, Saskatchewan, this 27th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC638
+COURT FILE NO.: 2004-4042(IT)G
+STYLE OF CAUSE: Superior Filter Recycling Inc. v. The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 22, 2005
+REASONS FOR ORDER BY: The Honourable Justice D.W. Beaubier
+DATE OF ORDER: September 27, 2005
+APPEARANCES:
+Agent for the Appellant:
+David-Kevin: Lindsay
+Counsel for the Respondent:
+Johanna Russell
+COUNSEL OF RECORD:
+Agent for the Appellant:
+Name: Nelson Meikle
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

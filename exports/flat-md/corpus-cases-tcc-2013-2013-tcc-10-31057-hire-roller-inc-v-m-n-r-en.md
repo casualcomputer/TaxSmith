@@ -1,0 +1,164 @@
+---
+title: "Hire Roller Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31057/index.do"
+last_modified: "2013-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 10"
+citation2: ""
+neutral_citation: "2013 TCC 10"
+decision_date: "2013-01-16"
+language: "en"
+item_id: "31057"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4726
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:22:07.821000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "991d984108d19c073bc56058507f49470713e972bfba91df9c622ca6d935aac6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hire Roller Inc. v. M.N.R.
+
+- Citation: 2013 TCC 10
+- Decision date: 2013-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4726, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hire Roller Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-16
+Neutral citation
+2013 TCC 10
+File numbers
+2012-1359(CPP), 2012-1360(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2012-1360(EI)
+2012-1359(CPP)
+BETWEEN:
+HIRE ROLLER INC.,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent,
+and
+GREG WOLSKI,
+intervener.
+____________________________________________________________________
+Appeals heard on November 13, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the appellant:
+James T. Marley
+Counsel for the respondent:
+For the intervener:
+Cherylyn Dickson
+The intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to the decisions of the Minister of National Revenue, made under the Employment Insurance Act and the Canada Pension Plan, that Greg Wolski was employed by the appellant in insurable and pensionable employment during the period from January 1, 2010 to January 13, 2011 are dismissed and the Minister’s decisions are confirmed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 16th day of January 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 10
+Date: 20130116
+Dockets: 2012-1360(EI)
+2012-1359(CPP)
+BETWEEN:
+HIRE ROLLER INC.,
+appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent,
+and
+GREG WOLSKI,
+intervener.
+REASONS FOR JUDGMENT
+Hogan J.
+Introduction
+[1] These are appeals from determinations by the Minister of National Revenue (the “Minister”) that Greg Wolski (the “Worker”) was an employee of Hire Roller Inc. (the “appellant”) during the period from January 1, 2010 to January 13, 2011 (the “Period”) for the purposes of the Employment Insurance Act (the “EIA”) and the Canada Pension Plan (the “CPP”).
+[2] The appellant requested a review of those determinations, which were confirmed. The Worker appeared as an intervener to support the Minister’s determinations.
+[3] The appellant submits that it has presented sufficient evidence for the Court to conclude that the Worker agreed to be treated as an independent contractor while working for the appellant. According to the appellant, the fact that the Worker accepted cheques from the appellant without statutory payroll deductions demonstrates that he accepted the appellant’s characterization of their relationship.
+[4] I do not agree with the appellant’s assertion that the evidence shows that the Worker accepted the independent contractor status given to him by the appellant. Mr. Wolski testified that he did not understand what the appellant meant when it declared that he was to be treated as a self-employed person. He explained that he had always been an employee in his prior positions. His day-to-day working arrangement with the appellant was similar to the arrangement in his previous positions. When he was presented with a written agreement prepared by the appellant, he refused to sign it. This agreement sought to confirm that the Worker was a contract driver.
+[5] Be that as it may, it is not a question of whether the Worker accepted or not the appellant’s description of their relationship. It is well accepted that the parties’ description of their relationship is not in and of itself determinative of the issue. In TBT Personnel Services Inc. v. Canada, 2011 FCA 256, the Federal Court of Appeal cautions that the factors outlined in Wiebe Door[1] must nonetheless be applied to discern the true nature of the parties’ relationship. Employers cannot avoid their contribution obligations under the EIA and the CPP simply by informing new workers that they will be treated as self-employed persons. If, in practice, the arrangement is not consistent with the existence of an independent contractor relationship, the label used to describe the relationship will be ignored.
+[6] Applying the Wiebe Door tests, does the evidence support the appellant’s claim that the Worker performed his services in the course of a business conducted for his own benefit?
+Control
+[7] The Minister assumed the following with respect to the control factor:
+(u) the appellant called the Worker the day before a scheduled run to let him know what runs were available and the Worker would either accept or decline the runs;
+(v) the start and end times of the runs were set by the appellant and/or its customers;
+(w) the appellant’s customers decided if the run would take longer than originally scheduled and the Worker was expected to comply with their request;
+(x) the appellant determined if the Worker was to perform supplemental runs between his main run;
+(y) Ken VanGeest and Patrick Wasiack supervised the Worker;
+(z) the appellant required the Worker to attend staff meetings;
+(aa) the Worker was required to comply with the appellant’s rules, regulations and directives;
+(bb) the Worker was required to obtain the appellant’s approval prior to taking certain actions, such as terminating a customer’s ride due to behaviour problems;
+(cc) the Worker was required to complete trip log sheets;
+(dd) the Worker was subject to disciplinary action as per the following:
+(i) if the Worker did not comply with company guidelines, he would receive fewer runs; and
+(ii) if the Worker provided false or misleading information on his job application or during the hiring interview, he could be discharged;
+(ee) the Worker was not authorized by the appellant to do cash jobs;
+(ff) the Worker was required to inform the appellant if he was going to be absent;
+(gg) the Worker was required to wear a suit and tie.
+[8] I found the Worker to be a credible witness. His testimony confirmed the accuracy of the Minister’s assumptions of fact with respect to the control factor.
+[9] The appellant’s witness failed to convince me that the Worker was not subject to the appellant’s direction and control. This factor points to an employer-employee relationship.
+Ownership of Tools and Equipment
+[10] The evidence shows that the appellant provided the Worker with the vehicles, trip log sheets, GPS, maps, pens, clipboard, pass key, etc. necessary to perform his duties, and that it did so at no cost to the Worker. The appellant paid all of the operating costs of the vehicles and was responsible for their maintenance. This factor also points to an employer-employee relationship.
+Chance of Profit/Risk of Loss
+[11] The Worker was paid $10 per hour when he drove a sedan limousine and $13 an hour when he drove the appellant’s other vehicles.
+[12] The evidence shows that clients dealt directly with the appellant. The appellant determined the fare and paid the Worker his hourly wage. The Worker earned tips, which is common in the industry. This is insufficient, however to provide real opportunity for profit. Waiters and waitresses earn tips for good service, yet they remain employees of the establishments they work for.
+[13] The evidence shows that the Worker provided his services personally. He did not hire substitutes or replacements. While the appellant’s witness claimed the Worker could do so, practically speaking he could not. The appellant’s witnesses acknowledged that any substitute driver would have had to have been pre-approved by the appellant. The Worker did not earn enough money to allow him to hire substitute drivers or helpers.
+[14] The appellant’s witnesses claimed that the Worker was free to turn down work and that he could work for others. The Worker denies this. Indeed, the evidence shows that he was on call seven days a week and that he would lose his priority if he did not make himself available on an on-call basis. The appellant’s witnesses failed to convince me that the Worker could arrange his work schedule as he saw fit. The appellant determined the Worker’s work schedule by assigning him trips. I accept the Worker’s testimony that, out of concern that he would not be called if he refused the assignments, he felt obligated to accept the Canadian work assignments offered to him.
+[15] In light of the evidence and on the basis of the application of the Wiebe Door tests, I conclude that the Worker was an employee of the appellant throughout the period under review.
+Signed at Ottawa, Canada, this 16th day of January 2013.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2013 TCC 10
+COURT FILE NOS.: 2012-1360(EI), 2012-1359(CPP)
+STYLE OF CAUSE: HIRE ROLLER INC. v. THE MINISTER OF NATIONAL REVENUE and GREG WOLSKI
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 16, 2013
+APPEARANCES:
+Agent for the appellant:
+James T. Marley
+Counsel for the respondent:
+Cherylyn Dickson
+For the intervener: The intervener himself
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the intervener:
+Name:
+Firm:
+[1] Wiebe Door Services Ltd. v. M.N.R, [1986] 3 C.F.553, [1986] 2 C.T.C. 200.

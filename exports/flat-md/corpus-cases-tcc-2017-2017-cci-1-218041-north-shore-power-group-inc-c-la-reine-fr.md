@@ -1,0 +1,247 @@
+---
+title: "North Shore Power Group Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218041/index.do"
+last_modified: "2017-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 1"
+citation2: ""
+neutral_citation: "2017 CCI 1"
+decision_date: "2017-01-16"
+language: "fr"
+item_id: "218041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2958
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:38:32.433000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a642628934660517a0018c62d632be3b4efb471ee0d4d4f08b40c5bc0060f1f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# North Shore Power Group Inc. c. La Reine
+
+- Citation: 2017 CCI 1
+- Decision date: 2017-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2958, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Shore Power Group Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-01-16
+Référence neutre
+2017 CCI 1
+Numéro de dossier
+2015-1269(GST)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-1269(GST)G
+ENTRE :
+NORTH SHORE POWER GROUP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 9 et 10 novembre 2016, à London (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelante : Me David J. Thompson
+Avocate de l’intimée : Me Suzanie Chua
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci‑joints, l’appel est rejeté pour le motif que les cotisations qu’a établies le ministre du Revenu national au sujet des périodes de déclaration se terminant le 30 avril 2011, le 31 janvier 2012 et le 30 avril 2012 sont exactes. Les dépens sont adjugés à l’intimée conformément au tarif, sous réserve des observations que présentera par écrit l’une ou l’autre des parties dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2017.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour de mars 2019.
+François Brunet, réviseur
+Référence : 2017 CCI 01
+Date : 20170116
+Dossier : 2015-1269(GST)G
+ENTRE :
+NORTH SHORE POWER GROUP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+a) TPS et paiements partiels – Observations générales
+[1] La taxe sur les produits et services (« TPS ») est exigible sur les paiements partiels qui sont faits aux fournisseurs à l’égard des produits achetés avant livraison. Lorsqu’ils sont payés par un acheteur inscrit aux fins de la TPS à un fournisseur de produits, cet acheteur a le droit de déduire la TPS payée sur ces paiements partiels de la TPS qu’il perçoit par ailleurs auprès de ses propres clients. Ces déductions au titre de la TPS payée constituent les crédits de taxe sur les intrants (« CTI »). Par contre, si les produits partiellement payés ne sont jamais livrés, l’acheteur procède à la contrepassation des CTI déduits au moyen de rajustements à la taxe à payer (les « contrepassations de CTI »). Cette mesure résulte en l’augmentation de la TPS nette à payer, habituellement dans la période de déclaration suivante.
+[2] L’appelante, North Shore Power Group Inc. (« North Shore »), a fait tout ce qui est indiqué ci‑dessus à l’égard de paiements partiels qu’elle avait faits pour des produits qui n’ont jamais été livrés. De plus, North Shore s’était fait remettre par le fournisseur/vendeur des avis de crédit (les « avis de crédit ») qui correspondaient à la valeur des paiements partiels en souffrance qui se rapportaient aux produits non livrés. Outre les produits commandés qui n’ont jamais été livrés, les avis de crédit n’ont jamais été honorés.
+b) Positions incohérentes en matière de production de déclarations et de cotisation
+[3] Les positions respectives de North Shore et du ministre en matière de production de déclarations et de cotisation ont été incohérentes. Premièrement, le ministre du Revenu national (le « ministre ») a tout d’abord qualifié les paiements partiels d’arrhes. La TPS n’est pas exigible sur les arrhes (par opposition aux paiements partiels). Par suite de cette qualification, le ministre a tout d’abord rejeté la totalité des CTI de North Shore, qui s’élevaient en tout à 388 412,50 $. Après que North Shore eut fait part de son opposition et présenté ses observations, le ministre a révisé cette qualification. Il a fait droit aux CTI liés à 8 contrats exécutés et achevés, mais pas à 10 contrats représentant les produits non livrés.
+[4] Deuxièmement, North Shore, après avoir reçu les avis de crédit, a haussé sa taxe nette à payer (les « contrepassations de CTI ») en y ajoutant le montant de la taxe de vente harmonisée (TVH), conformément à la Loi sur la taxe d’accise (« LTA »). North Shore affirme qu’il s’agissait là d’une erreur, parce que les avis de crédit n’étaient pas des notes de crédit au sens de la LTA. Le ministre affirme qu’elles l’étaient.
+c) La question en litige
+[5] La seule question en litige consiste donc à savoir si les avis de crédit constituent des notes de crédit au sens de la LTA. Dans l’affirmative, il n’est pas controversé entre les deux parties que, dans ce cas, la position de North Shore en matière de production de déclarations, relativement aux contrepassations de CTI, et les nouvelles cotisations révisées du ministre sont correctes et qu’il y a lieu de rejeter l’appel.
+II. Quelques faits supplémentaires
+[6] Les parties ont déposé un exposé conjoint partiel des faits, dont le résumé qui suit expose les faits qui sont pertinents quant aux motifs du jugement de la Cour. Quelques faits supplémentaires ont également été recueillis au procès dans le cadre des témoignages.
+a) L’achat de panneaux solaires, les paiements et les CTI
+[7] North Shore, filiale en propriété exclusive de la Ville de Blind River (Ontario), possède des installations de production d’énergie solaire, hydraulique et éolienne.
+[8] North Shore a conclu 18 contrats (les « contrats ») avec Menova Energy Inc. (« Menova ») le 30 juillet 2010, en vue de l’achat et de la mise en place d’une série d’installations de batteries solaires. En général, de même que dans les présents motifs, ces installations portent le nom de « panneaux solaires ».
+[9] À la signature des contrats, North Shore a payé à Menova la moitié du prix d’achat, qualifiée dans les contrats de [traduction] « versement initial », soit la somme de 3 376 197,05 $. Cette somme payée comprenait 2 987 785,00 $, plus un montant de 388 412,05 $ qui constituait la TVH de 13 %. À l’audience, il a été admis de manière générale que les montants payés étaient de la nature de paiements partiels et non d’arrhes (les « paiements partiels »).
+[10] North Shore a déduit des CTI de 388 412,05 $ en vertu du paragraphe 169(1) de la LTA à l’égard des paiements partiels, en appliquant la formule précisée au paragraphe 225(1) de la LTA. Elle a donc produit sa déclaration sur ce fondement pour la période de déclaration se terminant le 31 juillet 2010.
+b) Quelques contrats n’ont jamais été exécutés
+[11] Menova n’a exécuté que huit des contrats, soit une valeur totale de 604 780,00 $ et un montant de TVH correspondant de 78 621,40 $. Elle a également omis de verser au ministre la TVH qu’elle avait perçue.
+[12] Par la suite, Menova a remis à North Shore des documents, intitulés chacun [traduction] « Avis de crédit » (les « avis de crédit »), datés du 24 novembre 2010, du 20 avril 2011 et du 30 avril 2011. Ces avis de crédit se rapportaient aux contrats qui n’avaient pas été – et qui ne seraient jamais – exécutés (les « contrats annulés »). Le 25 avril 2012, Menova a remis à North Shore une convention de garantie générale pour garantir la totalité des créances. Par la suite, North Shore a reçu certaines sommes à titre de produit de la vente de biens donnés en garantie.
+c) Les contrepassations et les rétablissements de CTI
+[13] Pour sa période de déclaration se terminant le 30 avril 2011, North Shore a inscrit un ajout à la taxe nette d’un montant de 107 954,00 $ à titre de contrepassation de CTI antérieurement déclarés à l’égard des factures totalisant la somme de 107 954,00 $ et correspondant à neuf avis de crédit de Menova datés du 20 avril 2011 ou du 30 avril 2011 et d’un montant total de 107 954,00 $ (la « première contrepassation de CTI »). À cette fin, North Shore a tenu pour acquis que chaque avis de crédit était délivré en vertu de l’article 232 de la LTA.
+[14] Pour sa période de déclaration se terminant le 31 janvier 2012, North Shore a annulé le rajustement fait dans la déclaration du 30 avril 2011 et a déduit de nouveau un CTI de 107 954,00 $ (le « premier rétablissement de CTI »). Cette mesure a été prise au motif que North Shore avait conclu que les avis de crédit étaient des créances irrécouvrables. North Shore a agi ainsi en vertu de l’article 231 de la LTA.
+[15] À l’instar de la première contrepassation de CTI, dans la période de déclaration se terminant le 31 janvier 2012, North Shore a inscrit un ajout à la taxe nette d’un montant de 240 089,00 $ à titre de contrepassation de CTI antérieurement déclarés à l’égard d’une facture et correspondant au document de Menova daté du 24 novembre 2010 et intitulé « Avis de crédit », d’un montant de 240 089,00 $ (la « seconde contrepassation de CTI »).
+[16] À l’instar du premier rétablissement de CTI, pour sa période de déclaration se terminant le 30 avril 2012, North Shore a procédé à la contrepassation du rajustement fait dans la déclaration du 31 janvier 2012, déduisant de nouveau un CTI de 240 089,00 $ (le « second rétablissement de CTI »).
+[17] Finalement, pour sa période de déclaration se terminant le 30 avril 2012, North Shore a inscrit une autre réduction de CTI déclarés d’un montant de 39 311,00 $, montant antérieurement déduit à l’égard du solde de 50 % à payer, mais non payé par North Shore pour les huit contrats achevés.
+d) Les mesures ultérieures de North Shore et les nouvelles cotisations du ministre
+[18] La non-exécution par Menova des contrats et le non-remboursement des paiements partiels excédentaires que North Shore lui avait faits pour ces contrats annulés ont amené North Shore à prendre d’autres mesures sur le plan juridique. Le 29 juin 2012, North Shore a demandé la mise en faillite de Menova. Ce qui fut fait, par ordonnance de la Cour supérieure de justice de l’Ontario datée du 24 juillet 2012. North Shore a versé une preuve de créance au dossier de faillite de Menova, réclamant la somme de 3 025 302,67 $ (y compris un montant de TVH de 348 043,00 $) à payer en vertu des contrats annulés et des avis de crédit. Le 18 décembre 2013, North Shore a reçu de l’actif de Menova la somme de 300 448,00 $ à titre de dividendes de créancier.
+[19] L’historique des nouvelles cotisations que le ministre a établies pour de multiples périodes de déclaration a tenu compte des éléments suivants : le différend entourant les paiements partiels, les contrats annulés, les contrepassations de CTI et les rétablissements de CTI. Voici la meilleure façon de résumer la situation :
+(i) La qualification initiale des versements initiaux à titre d’aarrhes plutôt que de paiements partiels, l’annulation de cette position, tout d’abord à l’égard des contrats achevés et, plus tard, à l’égard des contrats annulés. Les CTI ont donc été rejetés et plus tard autorisés pour plusieurs périodes de déclaration;
+(ii) L’éventuelle déduction de toutes les contrepassations de CTI, au motif que les avis de crédit entraient dans les prévisions de l’article 232 de la LTA;
+(iii) Le rejet systématique du premier rétablissement de CTI et, par la suite, du second rétablissement de CTI.
+[20] Vu ces positions différentes et les différentes déclarations qui furent produites pendant plusieurs périodes de déclaration, l’historique des cotisations et leur l’ordre paraissent compliqués.
+[21] Cependant, en définitive, l’historique en matière de déclarations et de cotisations peut-être réduit aux points essentiels suivants, lesquels constituent l’essentiel du présent appel.
+a) North Shore a reçu en fin de compte les CTI qu’elle avait déduits pour les huit contrats achevés;
+b) La première contrepassation de CTI et la seconde contrepassation de CTI de North Shore, maintenant rejetées par North Shore, furent admises par le ministre qui a pris pour base les avis de crédit et l’application de l’article 232 de la LTA;
+c) Les rétablissements de CTI pour créances irrécouvrables, ont été entièrement rejetés;
+d) North Shore a donc payé à Menova un montant de TVH de 338 412,50 $, mais n’a eu droit qu’à des CTI de 78 620,00 $ en lien avec les huit contrats achevés et à aucun CTI pour l’un quelconque des contrats annulés.
+III. Les dispositions législatives pertinentes
+[22] Voici un résumé d’extraits des dispositions pertinentes de la LTA en cause dans le présent appel [les passages importants sont soulignés].
+Crédit de taxe sur les intrants
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+Remboursement ou redressement — taxe perçue en trop
+232(1) La personne qui exige ou perçoit d’une autre personne un montant au titre de la taxe prévue à la section II qui excède celui qu’elle pouvait percevoir peut, dans les deux ans suivant le jour où le montant a été ainsi exigé ou perçu :
+(a) si l’excédent est exigé mais non perçu, redresser la taxe exigée;
+(b) si l’excédent est perçu, le rembourser à l’autre personne ou le porter à son crédit.
+Ajustement
+(2) Remboursement ou redressement de la taxe de la section II [réduction de la contrepartie] — La personne qui exige ou perçoit d’une autre personne la taxe prévue à la section II, calculée sur tout ou partie de la contrepartie d’une fourniture, laquelle contrepartie est par la suite réduite en tout ou en partie au cours d’une de ses périodes de déclaration pour une raison quelconque peut, au cours de cette période ou dans les quatre ans suivant la fin de celle‑ci :
+a) si la taxe est exigée mais non perçue, la redresser en soustrayant la partie de la taxe qui a été calculée sur le montant de la réduction;
+b) si la taxe est perçue, rembourser à l’autre personne la partie de la taxe qui a été calculée sur le montant de la réduction, ou la porter à son crédit.
+Notes de crédit ou de débit
+(3) Les règles suivantes s’appliquent dans le cas où une personne redresse un montant en faveur d’une autre personne en application des paragraphes (1) ou (2), le lui rembourse ou le porte à son crédit :
+a) elle remet à l’autre personne, dans un délai raisonnable, une note de crédit, contenant les renseignements réglementaires, pour le montant remboursé ou le montant du redressement ou du crédit, à moins que cette dernière ne lui remette une note de débit, contenant les renseignements réglementaires, pour un tel montant;
+b) le montant est déductible dans le calcul de la taxe nette de la personne pour sa période de déclaration au cours de laquelle elle remet la note de crédit ou reçoit la note de débit, dans la mesure où il a été inclus dans le calcul de sa taxe nette pour cette période ou pour une de ses périodes de déclaration antérieures;
+(c) le montant est ajouté dans le calcul de la taxe nette de l’autre personne pour sa période de déclaration au cours de laquelle elle remet la note de débit ou reçoit la note de crédit, dans la mesure où il a été inclus dans le calcul d’un crédit de taxe sur les intrants qu’elle a demandé dans une déclaration produite pour une de ses périodes de déclaration antérieures;
+Formule de calcul de la taxe nette
+225(1) Sous réserve des autres dispositions de la présente sous-section, la taxe nette pour une période de déclaration donnée d’une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A - B
+où
+A représente la somme des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II;
+b) les montants à ajouter aux termes de la présente partie dans le calcul de la taxe nette de la personne pour la période donnée;
+Arrhes
+168(9) Pour l'application du présent article, les arrhes (sauf celles afférentes à une enveloppe ou un contenant auxquels l'article 137 s'applique), remboursables ou non, versées au titre d'une fourniture ne sont considérées comme la contrepartie payée à ce titre que lorsque le fournisseur les considère ainsi.
+IV. Les questions en litige et les observations de North Shore
+a) Les arrhes par opposition aux paiements partiels
+[23] Il est constant que les versements initiaux constituaient des paiements partiels et non des arrhes. Comme il s’agit là d’une question de droit qui doit être tranchée à partir des faits, la Cour y répondra rapidement. Les parties n’ont pas fait d’autres observations sur ce point.
+[24] Il est difficile de contester que les contrats, une fois achevés, constituaient en droit des obligations impératives, tant pour Menova que pour North Shore. Nul paiement n’a été versé sous forme d’arrhes pour garantir l’achèvement des contrats. Les paiements partiels, d’un montant considérable, avaient pour but de financer les frais élevés que représentaient les panneaux solaires. Les contrats, même s’ils qualifiaient les fonds payés d’arrhes, structuraient néanmoins ces fonds comme des paiements partiels : la première moitié à la signature et le solde à la livraison. De manière assez concluante, au vu de ces caractéristiques, les sommes payées constituaient des paiements partiels.
+b) Redressement de la taxe nette pour créances irrécouvrables
+[25] Si les exigences légales et les formules qui impose l’article 232 au sujet des redressements de l’excédent de taxe perçu sont satisfaites, il n’est donc pas controversé entre les parties, et la Cour abonde dans leur sens, que la manière dont le ministre considère présentement la position adoptée par North Shore à l’égard des déclarations est exacte. La position de North Shore comporte implicitement l’abandon de sa part, à l’audience, de sa déduction ultérieure de taxe nette en vertu du paragraphe 231(1). Le premier et le second rétablissement de CTI constituent ces déductions.
+[26] Il ressort de l’examen de la disposition qui précède qu’elle vise exclusivement le « fournisseur », si, après avoir « effectué une fourniture taxable […] pour une contrepartie […], il est établi que tout ou partie du total de la contrepartie et de la taxe payable […] est devenue une créance irrécouvrable et que le fournisseur radie cette créance […], le déclarant de la fourniture peut déduire […] le montant […] ». North Shore n’était pas un « fournisseur », pas plus qu’elle n’a effectué une « fourniture taxable ». Concrètement, North Shore était un acquéreur qui a reçu une fourniture taxable. Cette disposition, comme l’indique la lecture superficielle du texte, ne permet pas de réduire la taxe nette à cause d’une créance irrécouvrable que North Shore a subie a ce titre. En conséquence, pour que North Shore ait gain de cause, la seule raison qui reste est que la Cour conclue que l’article 232 ne vise pas les avis de crédit.
+c) L’article 232 vise‑t‑il les avis de crédit?
+[27] North Shore soutient que l’article 232 ne joue pas, et ce pour les raisons qui suivent.
+a) Les « avis de crédit » ne constituent pas des notes de crédit en tant que telles.
+[28] L’avocat de North Shore soutient que les avis de crédit ne constituent pas des notes de crédit au sens de l’article 232. Premièrement, la description qui figure dans le document établi n’est pas la même (c.‑à‑d., [traduction] « avis de crédit », et non [traduction] « note de crédit »). De plus, il soutient qu’aucune garantie concrète n’a été produite pour garantir le paiement en vertu des avis de crédit. La déclaration par North Shore de la première contrepassation de CTI et de la seconde contrepassation de CTI étaient des erreurs, commises aveuglément par un comptable ou un teneur de livre, qui n’a pas porté attention aux exigences légales que devaient remplir les avis de crédit pour donner lieu à la contrepassation des CTI déclarés.
+b) L’alinéa 232(1)a) ne joue pas vu les faits.
+[29] Plus précisément, en ce qui concerne l’alinéa 232(1)a), l’avocat de North Shore soutient que cette disposition ne joue que dans les cas où la TVH est facturée, mais non perçue. En l’espèce, elle a été à la fois facturée et perçue. Toute cotisation fondée sur cet alinéa est donc dénuée de tout fondement.
+c) L’alinéa 232(1)b) peut être pertinent, mais la condition d’application n’est pas remplie.
+[30] L’avocat de North Shore soutient que l’alinéa 232(1)b), qui joue bel et bien si la TVH a été perçue, comporte implicitement l’obligation qu’il y ait concrètement remboursement ou crédit. La simple inscription du crédit ne répond pas à ce critère. Premièrement, nul montant n’a été mis de côté ou aucune provision n’a été établie par Menova, la débitrice, en vertu des avis de crédit, dans le but d’honorer le crédit. Celui-ci n’était que théorique et n’avait aucune valeur. De plus, il n’y avait aucune autre commande éventuelle ou subsistante relativement à laquelle le crédit pouvait être soustrait. Là encore, les avis de crédit sont donc sans valeur et n’entrent pas dans les précisions de cet alinéa.
+d) En tout état de cause, l’intérêt public doit avoir préséance sur cette situation en vue d’éviter les abus.
+[31] L’avocat de North Shore soutient que si l’appel dont la Cour est saisi n’est pas accueilli, cette décision permettra facilement à des fournisseurs/vendeurs peu scrupuleux, au bord de l’insolvabilité, d’abuser facilement du système des CTI. Le processus serait simple. Produire des factures en paiement partiel d’un produit qu’on n’a jamais l’intention de fournir. Percevoir la TVH comme il est exigé de le faire et l’empocher. Émettre des notes de crédit la veille de la faillite. Le vendeur ne doit rien jusqu’à concurrence du montant des notes de crédit (alinéa 231(3)b)) (en occurrence, les avis de crédit). Le trésor public n’encourt aucune perte. L’acheteur, qui a payé le plein montant de la TVH sur un produit qu’il n’a jamais reçu se voit refuser les CTI (alinéa 231(3)c)) et ne peut se prévaloir d’une créance irrécouvrable en vertu du paragraphe 231(1). L’acheteur, comme dans le cas de North Shore, a peu de recours contre le fournisseur insolvable, que l’on autorise à émettre des notes de crédit théoriques et sans valeur pour se dégager de l’obligation en matière de TVH, en lui imposant la totalité de l’obligation relative à la TVH. Cette façon de faire constitue un abus de la LTA et est contraire à l’intérêt public.
+V. Analyse et conclusions
+a) La décision
+[32] La Cour retient la thèse de l’avocat de North Shore que l’alinéa 232(1)a) ne joue pas. Cependant, elle rejette l’appel pour les raisons suivantes : les avis de crédit constituaient des notes de crédit au sens du paragraphe 232(1) et de ses alinéas; les actions de North Shore elle-même étaient déterminantes et éclairaient les cotisations que le ministre a établies, et l’intérêt public, bien qu’il puisse jouer dans certaines circonstances et invalider les notes de crédit établies par un fournisseur en vertu de l’article 232, ne subit aucune atteinte en raison des faits du présent appel.
+b) Les avis de crédit constituaient des notes de crédit.
+[33] La thèse de North Shore, selon laquelle l’emploi des mots « avis de crédit » et l’absence de référence dans les documents au paragraphe 232(3) de la LTA, appellent d’une certaine façon la disqualification des avis de crédit de la notion de notes de crédit, est rejetée. Premièrement, pour ce qui est des notes de crédit, il n’existe dans la LTA aucune forme ou définition prescrite. Deuxièmement, il existe, pour les notes de crédit et les avis de crédit, diverses définitions qui varient peu :
+[traduction]
+Note de crédit : (Reconnaissance d’une somme portée au crédit, par exemple pour des marchandises retournées) [1] ;
+Note de crédit : Note remise par un magasin, etc. en échange de marchandises retournées et indiquant la valeur des marchandises due au client [2] .
+Avis de crédit : Document utilisé par un vendeur pour informer un acheteur que le compte à recevoir de ce dernier est porté au crédit (réduit) en raison d’une erreur, d’un retour ou d’une déduction [3] .
+Note de crédit : Une note qu’émet une entreprise pour indiquer qu’un client a droit à un crédit d’un certain montant de la part de l’émetteur [4] .
+[34] Cette uniformité, mais plus important encore, cette référence constante aux usages commerciaux reflètent l’intégration à la LTA du droit commercial et des conventions commerciales générales.
+[35] Ajouter à cet usage courant des mots « notes de crédit » ou « avis de crédit » des notions de titrisation, de sûreté ou de garantie et des références précises à la LTA dans la forme même d’un tel document confère à la LTA un degré de complication et de complexité qui, par ailleurs, est judicieusement rejeté. En bref, le mot « crédit » n’est pas utilisé de manière disjonctive dans les termes « note de crédit » ou « avis de crédit », mais il fait partie du même instrument qui est largement utilisé et reconnu chez les créanciers et les débiteurs actifs dans le secteur commercial.
+[36] À cette fin, la Cour suprême du Canada enseigne que les notes de crédit doivent être assimilées à une obligation à court terme ou un élément d’actif, selon le cas, jusqu’à ce qu’elles soient remboursées ou deviennent caduques. Dans l’arrêt Time Motors c. MNR, le juge Pidgeon a déclaré ce qui suit [5] au nom de la Cour :
+[traduction]
+Le fait que la marchandise à obtenir en vertu d’une note de crédit n’a pas été spécifiée ne veut pas dire que le client de l’appelante n’a aucune obligation exécutoire à l’égard du solde dû.
+Même si l’on considérait les notes de crédit isolément, celles-ci ne pourraient pas être considérées comme inexécutoires indéfiniment. Il convient de rappeler l’opinion incidente du vicomte Dunedin à l’occasion de l’affaire May & Butcher c. The King (22 février 1929, publié sous [1934] 2 K.B. 17) :
+Pour qu’un contrat soit valable, il faut qu’un marché soit conclu, et un contrat conclu est un contrat qui règle tout ce qui doit être réglé et qui ne laisse rien à régler par voie d’entente entre les parties.
+et qui a été expliquée par une jurisprudence ultérieure de la Chambre des lords, Hillas & Co. c. Arcos Ltd., [1932] All E.R. 494. Infirmant un arrêt de la Cour d’appel fondé sur elle, le lord Wright a déclaré (aux p. 507 et 508) :
+Quand le savant lord-juge dit que des termes essentiels n’ont pas été déterminés avec précision, c’est‑à‑dire par des termes explicites du contrat, il se trompe, si je puis dire, quand il déduit du point de vue juridique qu’il faut donc qu’ils soient déterminés par un contrat ultérieur; il fait abstraction, me semble‑t‑il, des répercussions juridiques, dans les contrats, de ce qui est raisonnable, qui s’applique dans l’ensemble du droit anglais moderne à l’égard des contrats commerciaux. À titre d’exemple, dans Hoadly v. McLaine, le juge en chef Tindal (après avoir cité une jurisprudence plus ancienne) a écrit (10 Bing, à la p. 487) :
+« Ce que la loi sous-entend lie autant les parties que si c’était elles qui l’avaient écrit. Il s’agit ici d’un contrat dans lequel les parties ne disent rien au sujet du prix, et laissent donc à la loi le soin de déterminer ce que vaut raisonnablement la marchandise pour laquelle elles ont conclu un contrat ».
+Le juge Estey s’est fondé sur cette jurisprudence à l’occasion de l’affaire Dawson c. Helicopter Exploration Co. Ltd., [1955] R.C.S. 868, à la page 878.
+[37] Les avis de crédit étaient concrètement suffisants pour indiquer clairement qu’un crédit avait été établi par écrit au détriment de Menova et à l’avantage de North Shore. Soutenir que les avis de crédit étaient sans effet fait abstraction de la jurisprudence citée.
+[38] Indépendamment de la jurisprudence, cela fait également abstraction des mesures prises par North Shore, qui a agi de manière cohérente et peut-être prémonitoire par rapport à la loi appliquée dans l’affaire Time Motors. Les mesures suivantes, qui démontrent qu’elle se fondait sur les avis de crédit, ont été prises par North Shore, qui :
+(i) a inscrit et redressé la première contrepassation de CTI et la seconde contrepassation de CTI dans ses déclarations;
+(ii) a demandé et reçu une convention de garantie générale pour garantir ses créances, laquelle incluait les avis de crédit;
+(iii) a reçu un produit de la vente de cette garantie en vue de réduire la créance que représentaient les avis de crédit;
+(iv) a versé, dans le dossier de faillite de Menova, une preuve de créance que représentaient les avis de crédit et a touché sur l’actif un dividende d’un montant de 300 488,00 $.
+[39] Les mesures susmentionnées que North Shore a prises, en se fondant sur les avis de crédit, maintenant rejetés, réfutent la position, en droit et en fait, selon laquelle les avis de crédit n’étaient pas valables ou inexécutoires ou ne représentaient pas une obligation de Menova émise en vertu de l’article 232 de la LTA. Ces mesures ont servi de fondement à l’ajustement et à la contrepassation des CTI que North Shore a deduits et au sujet desquelles elle interjette appel en l’espèce.
+[40] Cette démarche de North Shore va de pair avec le rejet, par la Cour, de l’idée selon laquelle le comportement répréhensible et radical d’un fournisseur impécunieux porte atteinte à l’intérêt public. Ce rejet est fondé sur un fait omniprésent. En exécutant les mesures (i) à (iv) qui précèdent, North Shore elle-même a accepté les avis de crédit quand Menova les a émis et quand North Shore les a reçus, et elle y a donné suite. Si elle avait répudié, rejeté ou désavoué les avis de crédit au moment de leur réception, les faits auraient été différents.
+[41] L’idée que les avis de crédit, qui représentaient plus de trois millions de dollars, ont été reçus et traités par North Shore comme une mesure prise dans le cours normal de ses activités, semble fabriquée, forcée et incohérente. Le témoignage du président confirme qu’il y a eu des discussions vives, prolongées et animées aux échelons les plus élevés à propos des contrats annulés, ainsi que des fonds payés par North Shore à Menova à titre de paiements partiels. North Shore est devenue très inquiète et a été très mécontente des contrats annulés et des avis de crédit. Cependant, il en ressort qu’elle a effectivement consacré toute son attention aux documents. Elle ne les a pas rejetés, répudiés ou contestés. Au lieu de cela, elle a ajouté les montants à la TPS qu’elle devait payer du fait de la première contrepassation de CTI et, par la suite, de la seconde contrepassation de CTI. Si elle avait rejeté ou répudié les avis de crédit et n’avait pas effectué la production requise, et, par la suite, si le ministre avait établi sa cotisation et annulé unilatéralement les CTI, la thèse fondée sur l’intérêt public aurait un certain poids.
+[42] Le ministre a simplement fait ce que North Shore a fait quand elle a produit ses déclarations. Il s’est fondé sur les avis de crédit pour établir la cotisation de North Shore, mais il ne l’a fait qu’après que North Shore eut d’abord examiné, qualifié et conclu que les avis de crédit constituaient des notes de crédit au sens du paragraphe 232(1) de la LTA.
+VI. Conclusion
+Pour les motifs indiqués, l’appel est rejeté au motif que la cotisation confirmant la contrepassation de CTI par suite des ajouts à la taxe nette déclarée par North Shore pour les périodes de déclaration se terminant le 30 avril 2011, le 31 janvier 2012 et le 30 avril 2012 est exacte. Les dépens sont adjugés à l’intimée conformément au tarif, sous réserve des observations que présentera par écrit l’une ou l’autre des parties dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2017.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour de mars 2019.
+François Brunet, réviseur
+RÉFÉRENCE :
+2017 CCI 01
+No DE DOSSIER DE LA COUR :
+2015-1269(GST)G
+INTITULÉ :
+NORTH SHORE POWER GROUP INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Les 9 et 10 novembre 2016
+MOTIFS DU JUGEMENT :
+Le juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 16 janvier 2017
+COMPARUTIONS :
+Avocat pour l’appelante :
+David J. Thompson
+Avocate pour l’intimée :
+Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me David J. Thompson
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Concise Oxford English Dictionary (6e éd.), à la page 223.
+[2] Canadian Oxford English Dictionary (2e éd.), à la page 357.
+[3] Blacks Law Dictionary (5e éd.) à la page 332.
+[4] A Dictionary of Canadian Law (1991), à la page 233.
+[5] Time Motors Ltd. c. MNR, [1969] 4 DLR (3d) 546 à 548; 69 DTC 5149 à la page 5151.

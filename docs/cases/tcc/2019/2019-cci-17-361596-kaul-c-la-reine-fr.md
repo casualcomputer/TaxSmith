@@ -1,0 +1,595 @@
+---
+title: "Kaul c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361596/index.do"
+last_modified: "2019-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 17"
+citation2: ""
+neutral_citation: "2019 CCI 17"
+decision_date: "2019-01-18"
+language: "fr"
+item_id: "361596"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4338
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:08.638000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f14ce8ff8db0189d698f792d307ec93b8b884b5d4088a4478db8fc3ea3cbcb7e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kaul c. La Reine
+
+- Citation: 2019 CCI 17
+- Decision date: 2019-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaul c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-18
+Référence neutre
+2019 CCI 17
+Numéro de dossier
+2012-754(IT)G, 2013-1882(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012754(IT)G
+ENTRE :
+WILLIAM KAUL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels d’Ian N. Roher, 20131882(IT)G, les 7, 8, 12 et 13 décembre 2017 et
+le 16 janvier 2018 à Toronto (Ontario).
+Devant : L’honorable juge en chef Eugene P. Rossiter
+Comparutions :
+Avocats de l’appelant :
+Me Irving Marks
+Me Adam Brunswick
+Me Matthew Sokolsky
+Me Ellad Gersh
+Avocats de l’intimée :
+Me Jenna L. Clark
+Me Erin Strashin
+Me Amit Ummat
+JUGEMENT
+Les appels visant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999 et 2000 sont rejetés, avec dépens, conformément aux motifs du jugement ci-joints.
+L’appel interjeté pour l’année d’imposition 2000 à l’égard de l’appelant, William Kaul, est renvoyé pour établissement d’une nouvelle cotisation sur le seul fondement que les gains en capital inscrits dans sa déclaration pour cette année seront supprimés.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2019.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+Traduction certifiée conforme
+ce 23e jour de janvier 2020.
+Elisabeth Ross, jurilinguiste
+Dossier : 20131882(IT)G
+ENTRE :
+IAN N. ROHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de William Kaul, 2012754(IT)G, les 7, 8, 12 et 13 décembre 2017 et
+le 16 janvier 2018 à Toronto (Ontario).
+Devant : L’honorable juge en chef Eugene P. Rossiter.
+Comparutions :
+Avocats de l’appelant :
+Me Irving Marks
+Me Adam Brunswick
+Me Matthew Sokolsky
+Me Ellad Gersh
+Avocats de l’intimée :
+Me Jenna L. Clark
+Me Erin Strashin
+Me Amit Ummat
+JUGEMENT
+Les appels visant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999, 2000, 2001, 2002, 2003 et 2004 sont rejetés, avec dépens, conformément aux motifs du jugement cijoints.
+Les appels interjetés pour les années d’imposition 2001, 2002 et 2003 à l’égard de l’appelant, Ian Roher, sont renvoyés pour établissement d’une nouvelle cotisation sur le seul fondement que les gains en capital inscrits dans les déclarations pour ces années seront supprimés.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2019.
+« E.P. Rossiter »
+Juge en chef Rossiter
+Traduction certifiée conforme
+ce 23e jour de janvier 2020.
+Elisabeth Ross, jurilinguiste
+TABLE DES MATIÈRES
+I. Introduction 1
+II. Les faits et la preuve 3
+Le programme d’Artistic 3
+L’origine du programme d’Artistic − M. Sloan et M. Pearlman 5
+La source des œuvres d’art 6
+Le processus d’évaluation et de don 7
+Jeffrey Sackman 9
+Edith Yeomans 9
+Charles Rosoff 13
+April Cornell 14
+III. Les questions à trancher 16
+IV. Le droit applicable 16
+V. Analyse 19
+Nash et Klotz − Différences 20
+1) Les œuvres d’art ont été données en groupe 21
+2) Les œuvres d’art données existaient déjà 24
+3) Il existe des preuves concrètes d’un marché de détail préexistant 25
+4) Une explication justifie que la valeur du don soit supérieure à celle du prix réellement payé 25
+5) Le critère énoncé dans la décision Succession Henderson 26
+a) Marché ouvert et libre de restrictions 26
+b) Les œuvres d’art étaient-elles évaluées à leur juste valeur marchande? 26
+c) Les œuvres sont­elles évaluées par pièce ou en groupe? 33
+VI. Conclusion 33
+Référence : 2019 CCI 17
+Date : 20190118
+Dossier : 2012754(IT)G
+ENTRE :
+WILLIAM KAUL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 20131882(IT)G
+ET ENTRE :
+IAN N. ROHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rossiter
+I. Introduction
+[1] William Kaul et Ian Roher (les « appelants ») sont les seuls appelants types qui restent d’un ensemble d’appels connexes portés devant notre Cour. L’unique question en litige dans les présents appels est la juste valeur marchande des œuvres d’art que les appelants ont achetées pour ensuite en faire don dans le cadre d’un programme de dons d’œuvres d’art qui a existé de 1998 à 2003 (le « programme d’Artistic »). Ce programme a été promu et dirigé par plusieurs entités au fil des ans, notamment par Artistic Ideas Inc., Artistic Expressions Inc. et Artistic Ideals Inc. (ciaprès appelées collectivement « Artistic »).
+[2] Le programme d’Artistic a fonctionné de la manière décrite dans l’exposé des faits plus loin.
+[3] La question est de savoir quelle est la juste valeur marchande des œuvres données par les appelants à la date du don. Les témoignages d’experts sont essentiels pour l’établissement de cette juste valeur.
+[4] Au moment du procès, les appelants ont tenté de produire des rapports d’expert préparés par deux évaluateurs, Edith Yeomans et Charles Rosoff, dont les services avaient été retenus par Artistic pour qu’ils effectuent des évaluations pour le programme d’Artistic pendant les années en cause (les « évaluateurs »). Ces rapports ont été exclus par décision de notre Cour. Une requête confidentielle a été présentée au juge D’Arcy de la CCI, dont je n’ai pas eu connaissance. À la suite de la décision de ce juge, la plupart des appelants types, à l’exception des appelants en l’espèce, ont réglé leurs appels avec l’Agence du revenu du Canada (l’« ARC »). Avant de donner suite à leurs appels, les appelants ont déposé une requête en vue d’obtenir une décision anticipée sur la question de savoir si les évaluateurs pourraient témoigner à titre d’« experts participants » au sujet de leurs évaluations initiales d’origine (les « rapports d’évaluation ») pour faire la preuve de leur contenu. J’ai rendu une décision le 2 juin 2017 dans laquelle j’ai conclu et ordonné, en vertu de l’article 145 des Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90688, avec ses modifications successives (les « Règles de la CCI »), que Mme Yeomans pourrait témoigner à titre d’experte participante en ce qui concerne le contenu du rapport d’évaluation qu’elle avait établi pendant sa collaboration avec le programme d’Artistic. Quant à M. Rosoff, la Cour ne disposait pas alors d’éléments de preuve suffisants pour arriver à la même conclusion, bien qu’il ait semblé avoir établi une évaluation semblable à celle de Mme Yeomans.
+[5] Au procès, Mme Yeomans et M. Rosoff ont tous deux témoigné à titre d’« experts participants ». Pour les motifs qui suivent, je suis d’avis de rejeter les appels.
+II. Les faits et la preuve
+[6] La preuve présentée au procès est provenue des témoins suivants :
+Mark Pearlman, un des administrateurs et dirigeants d’Artistic;
+PaulSloan, un homme d’affaires et marchand d’œuvres d’art américain ayant fourni les œuvres d’art utilisées dans le programme d’Artistic;
+JeffreySackman, un des appelants initiaux du groupe d’appelants ayant participé au programme d’Artistic;
+EdithYeomans, une évaluatrice d’œuvres d’art dont les services ont été retenus dans le programme d’Artistic;
+CharlesRosoff, un évaluateur d’œuvres d’art dont les services ont été retenus dans le programme d’Artistic;
+April Cornell, la directrice générale de l’Ontario Foundation for Visually Impaired Children (l’« OFVIC »), un des organismes de bienfaisance ayant reçu des œuvres d’art données par le programme d’Artistic.
+Les dépositions des témoins concordaient dans une large mesure avec les conclusions du juge Paris dans la décision Artistic Ideas Inc. c. Ministre du Revenu national, 2008 CCI 452 (l’« instance relative à la TPS »).
+[7] Les parties ont également présenté un exposé conjoint des faits partiel, qui établit un grand nombre des faits non contestés dans cette affaire.
+Le programme d’Artistic
+[8] Artistic a été conçu et commercialisé auprès des contribuables canadiens comme instrument de placements permettant d’économiser de l’impôt.
+[9] Le programme a été exploité en deux phases. De ses débuts à l’automne de 1998 jusqu’au 28 février 2000, les participants généralement payaient environ 3 500 $ pour un groupe ou une unité de 11 œuvres d’art. Après le 28 février 2000, ils versaient jusqu’à 3 750 $ pour leur sélection d’œuvres d’art.
+[10] Le matériel promotionnel type d’Artistic pour l’année d’imposition 1998 présentait les renseignements suivants :
+montant minimal du placement : 3 500 $;
+reçu pour don : 10 000 $;
+économie d’impôt : 5 029 $ (rendement de 43 %).
+[11] Avant le 28 février 2000, les participants achetaient des œuvres d’art par groupes ou unités de 11 gravures, dont 10 devaient aller à un organisme de bienfaisance de leur choix dans une liste établie au préalable par Artistic. Les participants conservaient à titre personnel la 11e œuvre. Ils n’ont jamais eu la possibilité d’acheter une seule gravure. D’après M. Pearlman, seules les œuvres d’art estimées à une juste valeur marchande de 1 000 $ CA ou plus étaient incluses dans un groupe. Indépendamment de l’évaluation proprement dite, des reçus pour don de bienfaisance étaient établis sur le fondement d’une juste valeur marchande de 1 000 $ par gravure donnée, même dans les cas où la valeur de la gravure était estimée à plus de 1 000 $. On agissait ainsi pour éviter tout impôt sur les gains en capital à l’égard des dons en tirant parti des dispositions relatives aux biens à usage personnel qui existaient à l’époque.
+[12] Après le 28 février 2000, en raison de modifications apportées aux dispositions en question, les dons d’œuvres d’art n’étaient plus soustraits à l’impôt sur les gains en capital. Les participants achetaient toujours les œuvres d’art par groupe, mais la taille des groupes rétrécissait, alors que le prix du groupe augmentait. Les reçus pour don de bienfaisance ont alors été établis en fonction de la juste valeur marchande des œuvres d’art obtenue à la suite d’une évaluation réelle. Les participants s’acquittaient de l’impôt sur les gains en capital calculé selon la différence entre le prix qu’ils avaient payé et la valeur indiquée sur les reçus pour don.
+[13] D’après le témoignage de M. Pearlman, dans les deux phases, le groupe acheté par les participants ne correspondait pas au groupe donné aux organismes de bienfaisance. La plupart du temps, lorsque plusieurs groupes étaient achetés, les employés d’Artistic divisaient les groupes pour que les gravures qui les composaient soient données à divers organismes de bienfaisance. Il y avait une petite exception : si un participant achetait un seul groupe, tout le groupe allait dans son intégralité au même organisme de bienfaisance, sauf la gravure conservée par l’intéressé. Apparemment, c’était plutôt rare. D’ordinaire, les participants achetaient plusieurs groupes ou unités. M. Pearlman a déclaré que la méthode avait été adoptée par crainte qu’on croie que les gravures aient été achetées et données en grande quantité, ce qui aurait eu un effet de déflation sur la juste valeur marchande des gravures, laquelle était établie en fonction de la valeur des gravures échangées individuellement sur le marché de détail.
+[14] En tout temps, le personnel d’Artistic était également autorisé à opérer des substitutions de gravures dans un groupe. D’après M. Pearlman, les substitutions visaient à remplacer des œuvres endommagées par d’autres pièces de valeur égale. À l’occasion, on suppléait des pièces manquantes ou ne figurant pas dans l’inventaire.
+[15] On a fait la promotion du programme d’Artistic de bouche à oreille auprès des participants en passant le plus souvent par leurs conseillers financiers, leurs comptables et, occasionnellement, leurs avocats. Jamais le programme n’a été publicisé auprès du grand public. En raison de cette commercialisation sélective, une majorité des participants étaient des contribuables assujettis aux taux marginaux d’imposition les plus élevés. En fait, le programme d’Artistic semblait si exclusif que, dans son propre langage de tous les jours, M. Sackman a forgé l’expression [traduction] « investisseurs qualifiés » pour désigner les gens qui, ayant atteint un certain niveau de revenu, pouvaient placer de l’argent dans ce programme ou y participer.
+L’origine du programme d’Artistic − M. Sloan et M. Pearlman
+[16] Les lithographies utilisées dans le programme d’Artistic étaient fournies par M. Sloan, un résident de la Californie. Celui-ci a témoigné sur sa participation à ce programme dans l’instance relative à la TPS ainsi qu’au procès en l’espèce.
+[17] M. Sloan a fait la connaissance de M. Pearlman au milieu des années 1990. À l’époque, ils faisaient ensemble la promotion auprès des Canadiens d’un abri fiscal rattaché à un logiciel appelé Protosource. M. Sloan a témoigné qu’il ignorait que Protosource était un abri fiscal, une déclaration qui contredit nettement le témoignage de M. Pearlman dans le procès en l’espèce et dans l’instance relative à la TPS, où il a affirmé que Protosource avait été conçu à l’origine par M. Sloan également. Ce n’était pas là non plus la première entreprise de M. Sloan liée aux abris fiscaux. Avant Protosource, il avait apparemment fait la promotion de plusieurs abris fiscaux aux ÉtatsUnis.
+[18] Dans le cas du programme d’Artistic, M. Pearlman a témoigné que, après l’entreprise Protosource, M. Sloan l’a d’abord pressenti, ainsi qu’Alan Grossman, l’autre dirigeant de ce programme, au sujet de la création possible d’un abri fiscal à l’aide d’œuvres d’art qui lui restaient d’une galerie d’art dont il avait été propriétaire auparavant. M. Sloan a nié que le programme avait été son idée et a déclaré avoir simplement accepté de fournir les œuvres d’art pour les dons.
+[19] Au départ, M. Pearlman avait certaines préoccupations au sujet du programme. Il s’inquiétait notamment de l’imposition des gains en capital sur les dons et de la juste valeur marchande des œuvres d’art utilisées dans le programme. Il a jugé que sa première préoccupation avait été dissipée par Graham Turner, un avocat fiscaliste ayant produit un avis juridique sur le programme d’Artistic, et que la seconde s’était réglée par l’obtention des estimations de deux évaluateurs indépendants.
+[20] Par la suite, le programme d’Artistic a eu son coup d’envoi sur une entente verbale entre M. Sloan et des dirigeants d’Artistic, selon laquelle Artistic agirait comme mandataire de M. Sloan dans la promotion du programme auprès d’investisseurs canadiens et toucherait une commission sur toute vente d’œuvres. Les bénéfices seraient essentiellement partagés à parts égales.
+La source des œuvres d’art
+[21] M. Sloan a constitué deux entreprises en société en vue de la fourniture d’œuvres d’art au programme d’Artistic, à savoir Coleman Fine Arts (« Coleman ») et Silver Fine Arts (« Silver »). Coleman a fourni les œuvres en 1998, 1999 et 2000 et Silver, en 2000, 2001 et 2002.
+[22] Avant de s’engager dans le programme d’Artistic, M. Sloan avait eu une carrière très féconde de marchand d’œuvres d’art. Dans les années 1980, il a travaillé comme directeur des ventes pour Jackie Fine Arts, qui avait acquis les droits sur certaines des œuvres du célèbre peintre espagnol Pablo Picasso. Après, il est devenu associé de Dyanson, une chaîne de galeries d’art cotée en bourse qui, à une certaine époque, comptait 12 établissements aux ÉtatsUnis. Une partie du stock d’œuvres de Dyanson venait de Jackie Fine Arts, notamment des œuvres de Picasso. Quand, en 1995, Dyanson a été vendue à London Fine Arts, une galerie d’art située à Detroit, au Michigan, M. Sloan a conservé plus de 100 000 pièces de Dyanson et les a entreposées en Californie (le « stock de Dyanson »).
+[23] Au début, la plupart des œuvres d’art employées dans le programme d’Artistic venaient du stock de Dyanson. Par la suite, des gravures ont été obtenues directement de divers artistes et galeries d’art. Mentionnons parmi les artistes Charles Lynn Bragg, Charles Bragg, Jim Jonson et Wayne Ensrud. Coleman et Silver payaient de 20 à 40 dollars américains par gravure de ces artistes. Elles ont acquis des œuvres de galeries comme la galerie Ro et Museum Master International Ltd.
+Le processus d’évaluation et de don
+[24] Pour le prix d’achat, les participants avaient droit à des services de facilitation d’Artistic et de M. Sloan, notamment les suivants :
+la prise de mesures avec des organismes de bienfaisance;
+l’évaluation;
+l’expédition;
+le contrôle de la qualité;
+le don subséquent.
+M. Sloan était chargé non seulement de l’approvisionnement en œuvres, mais aussi de l’expédition des spécimens de gravures aux évaluateurs. Au début, il y avait deux évaluateurs, Lesley Fink et Mme Yeomans. En général, les gravures évaluées par Mme Yeomans se voyaient attribuer une valeur de 1 000 $ CA et plus et se retrouvaient dans les groupes offerts en vente. Mme Yeomans donnait, après recherche, des assurances verbales, qu’elles faisaient suivre d’évaluations écrites officielles pendant les premiers mois de l’année suivante. Par la suite, M. Rosoff, recommandé par Mme Yeomans à Artistic, a remplacé Mme Fink comme second évaluateur, M. Pearlman ayant jugé que les évaluations de cette dernière étaient très peu fiables. Toute gravure jugée satisfaisante par Mme Yeomans était ensuite transmise à M. Rosoff pour un second avis.
+[25] Les participants au programme d’Artistic devaient signer trois documents, à savoir (i) un contrat d’achat, (ii) une convention de mandat et (iii) un acte de donation.
+[26] Les participants concluaient une convention de mandat avec Artistic chargeant celleci de trouver des organismes de bienfaisance prêts à remettre des reçus pour don de 1 000 $ la gravure pendant la période antérieure au 28 février 2000 et de la juste valeur marchande de l’estimation après cette date.
+[27] Les participants passaient également avec Coleman ou Silver un contrat d’achat stipulant qu’ils choisiraient le groupe à acheter d’après le titre de la gravure du lot qu’ils avaient l’intention de conserver et dont ils pouvaient voir l’image. Ils avaient également à choisir à partir d’une liste préétablie les organismes de bienfaisance auxquels ils souhaitaient faire un don.
+[28] Dans l’acte de donation, les participants indiquaient les organismes de bienfaisance auxquels les dons étaient destinés et autorisaient Artistic à prendre les mesures pour faire ces dons.
+[29] Une fois qu’Artistic recevait le paiement de l’acheteur, elle prenait contact avec M. Sloan et s’assurait qu’il y avait en stock de quoi remplir la commande. Après la fin d’année, M. Sloan expédiait les œuvres d’art au bureau d’Artistic à Toronto. Là, elles étaient inspectées, triées et remballées, comme il a été expliqué précédemment, et expédiées aux organismes de bienfaisance sélectionnés. Elles étaient accompagnées des actes de donation ainsi que d’une lettre faisant état de la valeur des gravures et demandant que des reçus pour don de bienfaisance soient remis comme il en avait été convenu. Artistic retenait alors les reçus jusqu’à la réception des évaluations écrites finales, dont copie était communiquée aux organismes de bienfaisance en question (l’intimée a remis en question le degré de connaissance que ces organismes pouvaient avoir de la valeur des gravures avant la remise des reçus).
+[30] Enfin, Artistic envoyait aussi copie des évaluations finales et des reçus des organismes de bienfaisance aux participants concernés, qui les utilisaient dans la production de leurs déclarations de revenus.
+Jeffrey Sackman
+[31] M. Sackman, un des appelants initiaux, a témoigné sur sa participation au programme d’Artistic et sur ce qu’il comprenait de celuici. Il m’a semblé être un homme d’affaires intelligent avec une vaste expérience de l’industrie cinématographique.
+[32] Il avait entendu parler du programme d’Artistic par son comptable, Elliot Richmond. Il s’en était remis à ce dernier et à l’avis fiscal professionnel de Fraser Milner. En 1998 et 1999, il a acheté 10 et 40 groupes d’œuvres par l’intermédiaire du programme d’Artistic au prix de 35 000 $ et 140 000 $ respectivement. Il a donné les œuvres à des organismes de bienfaisance en échange de reçus pour don de 510 000 $ au total.
+[33] M. Sackman a témoigné que, avec le programme d’Artistic, l’idée était d’acheter des œuvres d’art en gros à un prix de gros et d’en faire don à des organismes de bienfaisance à leur juste valeur marchande, c’estàdire au prix le plus élevé que chaque gravure pouvait commander sur le marché de détail.
+[34] M. Sackman se souvenait vaguement du nom de M. Sloan et peutêtre d’un entrepôt en Californie, mais il ignorait par ailleurs d’où venaient les gravures qu’il avait achetées.
+Edith Yeomans
+[35] Conformément à l’ordonnance de la Cour rendue dans la décision Kaul c. La Reine, 2017 CCI 55, Mme Yeomans a témoigné sur sa participation au programme à titre d’« experte participante ». Sa déposition s’est limitée aux faits et aux points de vue qui avaient été les siens pendant sa participation à Artistic comme évaluatrice. Je reproduis ici les passages utiles de cette décision :
+5 Mme Yeomans et M. Rosoff sont deux des évaluateurs engagés par Artistic pour apprécier les lithographies qui ont fait l’objet d’opérations lors de son programme.
+6 Mme Yeomans était établie à Toronto et était l’évaluateur principal qui avait lancé le programme d’Artistic. De 1998 à 2003, elle a évalué chacune des œuvres d’art qu’ont achetées les participants à ce programme et dont ils ont fait don.
+7 Mme Yeomans était une évaluatrice agréée par l’American Society of Appraisers (Société américaine des évaluateurs). Ses titres de compétence comme évaluatrice d’objets d’art n’ont pas été contestés au voirdire tenu en novembre 2016 aux fins de son habilitation comme témoin expert devant notre Cour.
+8 Au cours de ce voirdire, Mme Yeomans a déclaré qu’avant sa collaboration avec Artistic, elle avait reçu plusieurs offres d’autres programmes de dons d’objets d’art. Elle avait rejeté ces offres parce qu’on lui demandait d’attester sans examen propre la valeur d’objets d’art qu’on lui présentait sans qu’elle exerce son jugement et sa compétence professionnels.
+9 Selon son témoignage, elle avait accepté de travailler pour Artistic parce que celleci n’imposait pas une telle condition. Elle savait que le programme reposait essentiellement sur l’achat des œuvres à un prix faible pour en faire don à un prix élevé. Elle savait aussi que l’évaluation minimale qu’elle devait établir était d’environ 1 000 $ par œuvre. Néanmoins, c’est à elle qu’il appartenait d’établir, en qualité d’évaluatrice, la juste valeur marchande en dollars américains de chaque œuvre et par conséquent de décider si cette œuvre atteignait le seuil voulu. Les œuvres qui, selon son évaluation, atteignaient ou dépassaient ce seuil étaient admises pour le programme et proposées au choix des participants, et celles auxquelles elle attribuait une valeur inférieure au seuil étaient écartées. Artistic la rémunérait à l’heure, sans tenir compte des évaluations qu’elle établissait dans tel ou tel cas.
+10 Mme Yeomans procédait normalement comme suit. Elle examinait d’abord l’objet d’art en question aux bureaux d’Artistic, puis faisait des recherches sur cette œuvre, y compris sur l’artiste, la nature de l’œuvre, et ainsi de suite. Elle établissait ensuite une estimation préliminaire fondée sur le prix de vente d’œuvres identiques ou semblables, par exemple, du même artiste sur le marché américain. Elle obtenait ces renseignements en communiquant directement avec des marchands d’art, des galeristes, et ainsi de suite. Elle examinait chaque œuvre achetée et donnée par les participants au programme, mais pas chaque exemplaire de chaque œuvre. Elle communiquait ses estimations préliminaires à Artistic soit verbalement, soit par télécopie.
+11 Il n’y a aucun élément de preuve de contacts entre Mme Yeomans et les appelants ou un donateur participant.
+12 Après ses estimations préliminaires, Mme Yeomans remettait deux rapports d’évaluation à Artistic : i) un rapport détaillé qui comprenait les évaluations de toutes les œuvres qu’elle avait appréciées pour le programme; ii) un rapport abrégé qui ne portait que sur les œuvres retenues pour le programme, c’estàdire celles dont la valeur atteignait le seuil de 1 000 $. Ces rapports d’évaluation avaient principalement pour objet de noter par écrit les estimations préliminaires que Mme Yeomans avait déjà données verbalement. Les deux rapports d’évaluation ne différaient que par la longueur, en raison du nombre différent d’œuvres comprises. Seuls les rapports abrégés étaient plus tard remis aux donateurs participants et aux organismes de bienfaisance.
+13 Les rapports d’évaluation ont été remis à l’intimée dès le départ. Cependant, les appelants ont refusé de produire les documents de travail de Mme Yeomans et les pièces justificatives au motif qu’ils sont visés par le secret relatif aux litiges.
+[36] Au début du témoignage de Mme Yeomans, l’appelant a tenté de déposer en preuve les documents de travail créés par Mme Yeomans lorsqu’elle a procédé à son évaluation. L’intimée s’y est opposée au motif que, au départ, on avait invoqué le secret relatif aux litiges à l’égard de ces documents et que, conformément à l’article 96 des Règles de la CCI, il faut obtenir l’autorisation de la Cour avant de présenter ces documents en preuve à l’audience. L’appelant n’a jamais demandé cette autorisation avant l’audition de l’affaire. Concluant que l’intimée subirait un préjudice si les documents de travail étaient présentés en preuve sans ajournement permettant à l’intimée de les examiner et que tout autre report du procès n’était pas dans l’intérêt de la justice, je n’ai pas permis que ces documents soient admis en preuve.
+[37] Mme Yeomans a fourni des rapports d’évaluation à Artistic de 1998 à 2003. D’après ses rapports, les évaluations ont été réalisées conformément aux normes établies par l’American Society of Appraisers (Société américaine des évaluateurs) et l’International Society of Appraisers (Société internationale des évaluateurs). Il est déclaré dans ces documents que les évaluations ont été faites conformément aux Normes uniformes de pratique professionnelle en matière d’évaluation (les « NUPPE »).
+[38] Les rapports de Mme Yeomans définissent ce qu’est la juste valeur marchande, qu’elle a utilisée dans ses évaluations des œuvres. Dans son interrogatoire principal, l’intéressée a confirmé qu’il s’agissait là de la définition de juste valeur marchande donnée dans les publications de l’ARC et qu’elle concordait avec la définition énoncée dans la décision Henderson c. Ministre du Revenu national, [1973] A.C.F. no 800 (C.F. 1re inst.). Ces rapports présentaient la valeur estimée de chaque œuvre, ainsi qu’une [traduction] « juste valeur marchande totale » établie comme étant la valeur globale des œuvres évaluées.
+[39] Mme Yeomans a déposé que la définition de juste valeur marchande l’obligeait à estimer la valeur uniquement en fonction du prix que commanderait l’œuvre d’art si elle était vendue sur un marché ouvert et sans restrictions à un consommateur final libre de toute influence extérieure. Elle a utilisé la technique des données du marché dans ses rapports d’évaluation. Elle n’a pas expliqué dans ces rapports pourquoi elle a retenu cette technique plutôt qu’une autre parmi les possibilités qui s’offraient.
+[40] Mme Yeomans a choisi comme marché de comparaison le marché de détail. Selon l’endroit où l’artiste exposait le plus souvent ses œuvres, elle a pris en considération le marché des galeries commerciales aux ÉtatsUnis ou au Japon. Dans son interrogatoire principal, elle a nommé les trois marchés courants qu’elle a pris en considération avant d’opter pour un marché de détail : le marché de détail des galeries commerciales, le marché des ventes de détail et de gros aux enchères et le marché des ventes de gré à gré. Elle n’a pas présenté d’éléments de preuve justifiant son choix du marché de détail par rapport aux autres. Le lieu géographique du marché de détail choisi était celui où l’artiste exposait le plus souvent.
+[41] Les rapports énuméraient les sources consultées par Mme Yeomans dans son évaluation des œuvres. Son témoignage sur ces sources concordait avec les mentions dans ses rapports. Elle a précisé que ce n’est qu’après avoir considéré toutes les sources énumérées qu’elle jugeait du marché de comparaison à employer pour un artiste.
+[42] Mme Yeomans a témoigné qu’elle avait communiqué avec des galeries commerciales, dont la galerie Ro. L’intimée a mis en doute la fiabilité de ses évaluations qui se fondaient sur les indications fournies par la galerie Ro, puisque cette galerie fournissait des œuvres à Coleman et à Silver sans que le rapport de Mme Yeomans en fasse mention. Les NUPPE exigent que les évaluateurs tiennent compte des ventes intervenues antérieurement dans une période raisonnablement récente.
+[43] Si une galerie exploitait un site Web, Mme Yeomans s’appuyait aussi sur l’information présentée sur ce site, notamment pour les prix affichés des œuvres. En contreinterrogatoire, l’intimée a fait remarquer à Mme Yeomans que se fier aux prix affichés était contraire aux NUPPE, ces prix n’étant pas le reflet fidèle des prix de vente réels. Mme Yeomans a reconnu que les prix affichés n’étaient généralement pas représentatifs des prix de vente réels. Elle a toutefois affirmé que, dans le cas des ventes en ligne, on pouvait se fier au prix affiché, ces ventes ne donnant pas la possibilité de négocier le prix.
+[44] Mme Yeomans comptait également sur deux sources publiées. La première était ArtNet Online, une base de données surtout nordaméricaine, mais comportant aussi des données d’ailleurs dans le monde, sur les ventes aux enchères. La seconde était InformArt, une publication fournissant des renseignements sur les ventes d’œuvres de reproduction.
+[45] La dernière source d’information était les artistes eux-mêmes. Mme Yeomans a témoigné que, chaque fois qu’elle en avait la possibilité, elle communiquait avec l’artiste, qui la renseignait sur ses ventes d’œuvres identiques ou analogues. En contreinterrogatoire, l’intimée a mis en question la fiabilité des chiffres de vente autodéclarés par les artistes en faisant observer à Mme Yeomans que les artistes avaient intérêt à ce que leur travail soit estimé à une valeur élevée. Mme Yeomans a rejeté cette généralisation, affirmant que les artistes lui donnaient volontiers des renseignements sur leurs ventes passées, mais s’étendaient rarement sur ce qu’ils jugeaient être la valeur de leurs œuvres. Elle a dit que la grande motivation des artistes était d’être appréciés et de voir leurs œuvres achetées à leur juste prix. Cette affirmation est douteuse puisqu’elle est contraire à la fois au bon sens et au témoignage de M. Sloan devant notre Cour.
+[46] Les appelants et l’intimée conviennent que le rapport de Mme Yeomans laissait à désirer, parce qu’il ne respecte pas entièrement les NUPPE. Les appelants sont toutefois d’avis que la nonconformité du rapport d’évaluation ne concerne que la forme. De l’avis de l’intimée, le nonrespect des NUPPE remet en question les évaluations présentées dans le rapport.
+Charles Rosoff
+[47] L’appelant avait déjà tenté de faire témoigner M. Rosoff en tant qu’expert indépendant. Le rapport d’expert de l’intéressé n’était pas conforme aux Règles de la CCI, et c’est pourquoi la Cour n’a pas reconnu à M. Rosoff la qualité d’expert. Conformément à l’ordonnance Kaul, l’appelant a aussi présenté M. Rosoff comme « expert participant ». Le témoignage de M. Rosoff était limité par les mêmes contraintes que celui de Mme Yeomans.
+[48] Dans l’ensemble, j’ai trouvé que M. Rosoff hésitait à répondre aux questions, parfois au point de se montrer évasif. Il donnait souvent des réponses prudentes, apparemment par souci de protéger sa réputation d’évaluateur indépendant respecté, tout en évitant de donner des réponses susceptibles de nuire à la cause des appelants.
+[49] L’intimée soutient que le rapport de M. Rosoff laisse à désirer en grande partie pour les mêmes raisons que le rapport de Mme Yeomans. En outre, elle remet en question la fiabilité des conclusions de M. Rosoff, parce qu’il n’était pas indépendant de Mme Yeomans et s’en remettait à ses recherches et à ses sources à elle. M. Rosoff ne fait pas mention de ses sources dans son rapport, ce qui peut faire douter que l’opinion exprimée sur la juste valeur marchande des œuvres données soit digne de foi.
+April Cornell
+[50] Mme Cornell, exdirectrice générale de l’OFVIC, un organisme de bienfaisance ayant reçu des dons du programme d’Artistic en 2000, a témoigné pour l’intimée. Elle a témoigné sur la participation de son organisme au programme et sur ce qu’elle croyait savoir du programme. Au nombre de ses tâches comme directrice générale de l’OFVIC, on comptait la gestion et l’administration des programmes et des services de l’OFVIC, dont l’administration financière de cet organisme. Elle m’a donné l’impression de parler directement, franchement et sans détour.
+[51] L’OFVIC est un organisme de bienfaisance enregistré qui a existé jusqu’en 2012. Cette annéelà, la fondation a fusionné avec Surrey Place Centre, un organisme de bienfaisance fournissant déjà des programmes semblables à Toronto. Peu après, l’OFVIC a été dissoute.
+[52] Mme Cornell a déposé que, en 2000, de 85 % à 87 % du financement de l’organisme provenait de subventions du ministère des Services sociaux et communautaires de l’Ontario et des municipalités où l’organisme fournissait des services et des programmes. Le reste des fonds nécessaires à son budget de fonctionnement venait d’activités de financement de l’OFVIC. Mme Cornell a affirmé que l’OFVIC devait constamment recueillir des fonds d’année en année pour couvrir son budget de fonctionnement. C’est à cause de ce besoin d’acquitter ses dépenses d’exploitation que l’organisme s’était lié à Artistic.
+[53] L’OFVIC a commencé à faire affaire avec Artistic par la correspondance échangée entre Alan Grossman d’Artistic et William Findlay, président du conseil d’administration de l’organisme. Mme Cornell a témoigné ne pas avoir eu de communications directes avec Artistic, sauf un entretien téléphonique à la fin de 2000, Artistic ayant alors pris communication avec elle pour solliciter sa participation au programme en 2001.
+[54] Selon le témoignage de Mme Cornell, l’OFVIC remettait des reçus sans avoir obtenu copie du rapport d’évaluation. Elle s’en remettait aux actes de donation et à la correspondance reçue d’Artistic pour produire les reçus. La seule année (2000) où l’OFVIC a accepté des dons du programme d’Artistic, le rapport d’évaluation n’a été reçu que l’année suivante. Mme Cornell s’est dite préoccupée d’avoir à produire des reçus sans les rapports d’évaluation, mais les reçus ont quand même été donnés. L’OFVIC a reçu seulement le rapport de Mme Yeomans; elle n’a jamais reçu le second rapport d’évaluation indépendante de M. Rosoff. Le rapport qu’elle obtenait ne donnait aucune précision sur les gravures qui lui avaient effectivement été données, mais d’autres rapports d’évaluation préparés par Mme Yeomans estimaient bel et bien les gravures données. La valeur de ces gravures selon le rapport de Mme Yeomans concordait avec la valeur communiquée à l’OFVIC par Artistic.
+[55] Mme Cornell a témoigné que l’OFVIC n’a jamais vendu les gravures obtenues en don. En 2010, d’après les recherches faites par le conseil d’administration, les gravures valaient chacune 100 $. En 2010, les gravures ont été livrées à Waddingtons, une maison de vente aux enchères de Toronto, en vue de leur vente. Elles ont été retournées invendues en 2013. En contreinterrogatoire, Mme Cornell a admis qu’aucune évaluation professionnelle des gravures n’avait été effectuée et a précisé que Waddingtons n’était pas une maison de vente aux enchères spécialisée dans les gravures ou les reproductions.
+[56] Elle a témoigné que l’OFVIC avait reçu 11 000 $ d’Artistic.
+[57] En ce qui concerne ces 11 000 $, le but était apparemment d’indemniser l’OFVIC pour l’entreposage et l’assurance des œuvres en question. Que l’OFVIC n’ait pas payé l’assurance ni l’entreposage avec cet argent n’est pas déterminant. L’intimée n’a pas fait valoir que ce paiement était frauduleux ou trompe-l’oeil. Je n’ai donc pas à trancher la question. Si l’intimée avait fait valoir cet argument, la preuve dont je suis saisi n’aurait pas permis d’y souscrire.
+[58] Mme Cornell m’a paru un témoin digne de foi, mais je n’ai pas à m’appuyer sur son témoignage pour en arriver à ma décision, et ce, pour deux raisons : d’abord, si le témoignage de l’intéressée fait voir que l’OFVIC ne s’est pas directement fondée sur les rapports d’évaluation pour remettre les reçus pour don, Artistic s’est bel et bien fondée sur eux lorsqu’elle a communiqué à l’OFVIC les renseignements aux fins de l’établissement des reçus; en second lieu, conclure que la juste valeur marchande des œuvres données était de 100 $ par gravure en 2010 ne dit rien sur ce que pouvait avoir été leur juste valeur marchande dix ans plus tôt au moment où elles ont été données.
+III. Les questions à trancher
+[59] La question principale que doit trancher la Cour est celle de la juste valeur marchande des œuvres données. Pour ce faire, il faut répondre à trois questions :
+Quel est le marché pertinent?
+En quoi consistent les biens en question?
+Quelle est la juste valeur marchande d’après les éléments de preuve dont est saisie la Cour?
+IV. Le droit applicable
+[60] Les appelants ont demandé un crédit d’impôt pour don d’œuvres d’art qui dépassait le prix qu’ils avaient payé pour acquérir les œuvres. On doit se reporter à la définition de « total des dons de bienfaisance » au paragraphe 118.1(1) de la Loi de l’impôt sur le revenu (la « Loi ») :
+Total des dons de bienfaisance En ce qui concerne un particulier pour une année d’imposition donnée, le total des sommes représentant chacune le montant admissible — dans la mesure où il n’est pas inclus par ailleurs dans le calcul d’une somme déduite en application du présent article dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition — d’un don (sauf un don dont le montant admissible est inclus en tout ou en partie dans le total des dons de biens culturels ou le total des dons de biens écosensibles d’un particulier pour une année d’imposition) à l’égard duquel les faits ciaprès s’avèrent :
+a) le don est fait à un donataire reconnu,
+b) le don est fait au cours d’une année d’imposition autre qu’une année pour laquelle une somme est déduite en application du paragraphe 110(2) dans le calcul du revenu imposable du particulier;
+c) selon le cas :
+(i) si le particulier n’est pas une fiducie, un des énoncés ciaprès s’applique :
+(A) le don est fait par le particulier, ou par son époux ou conjoint de fait, au cours de l’année donnée ou des cinq années d’imposition précédentes,
+(B) le don est fait par le particulier au cours de l’année de son décès et l’année donnée est l’année d’imposition qui précède celle de son décès,
+(C) le don est fait par la succession du particulier, le paragraphe (5.1) s’applique au don et l’année donnée est l’année d’imposition du décès du particulier ou l’année d’imposition précédente,
+(ii) si le particulier est une fiducie, un des énoncés ciaprès s’applique :
+(A) le don est fait par la fiducie au cours de l’année donnée ou des cinq années d’imposition précédentes,
+(B) le don est fait par la fiducie et les énoncés ciaprès se vérifient :
+(I) la fiducie est la succession d’un particulier,
+(II) le paragraphe (5.1) s’applique au don,
+(III) l’année donnée est une année d’imposition :
+1. d’une part, dans laquelle la succession est la succession assujettie à l’imposition à taux progressifs du particulier,
+2. d’autre part, qui précède l’année d’imposition dans laquelle le don est fait,
+(C) le don est fait par la fiducie et les énoncés ciaprès se vérifient :
+(I) la fin de l’année donnée est déterminée selon l’alinéa 104(13.4)a) en raison du décès d’un particulier,
+(II) le don est fait après l’année donnée et au plus tard à la date d’échéance de production qui est applicable à la fiducie pour l’année donnée,
+(III) l’objet du don est un bien donné détenu par la fiducie au moment du décès du particulier ou un bien substitué au bien donné. (total charitable gifts)
+[61] Selon ces dispositions, le total des dons de bienfaisance d’un particulier dans une année est le total des sommes représentant chacune la juste valeur marchande des dons faits par ce particulier au cours de l’année ou des cinq années précédentes. Le « total des dons de bienfaisance » ainsi obtenu entre dans le calcul de la déduction pour dons que peut demander le particulier au titre du paragraphe 118.1(3) de la Loi.
+[62] La clé de l’application du paragraphe 118.1(1) de la Loi est l’application de la définition de juste valeur marchande. Dans l’arrêt Canada (Procureur général) c. Nash, 2005 CAF 386, la Cour d’appel fédérale a déclaré ce qui suit au sujet du critère applicable de la juste valeur marchande lorsqu’elle a cité la décision Succession Henderson :
+8. La définition généralement admise de la juste valeur marchande se trouve dans la décision du juge Cattanach, dans l’affaire Succession Henderson et Bank of New York c. M.R.N. 73 D.T.C. 5471, à la page 5476 :
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celleci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me sembletil, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me sembletil, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre.
+Bien que le juge Cattanach ait pris soin de signaler qu’il n’essayait pas de donner une définition « précise », le fait que la formule qu’il propose a été retenue telle quelle dans la jurisprudence depuis une trentaine d’années permet de penser que, même si elle n’est pas nécessairement exhaustive, sa définition est maintenant considérée comme la définition applicable.
+[63] La Cour d’appel fédérale a ajouté ce qui suit au paragraphe 12 :
+Selon cette définition, il s’agit fondamentalement du prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs et de vendeurs sérieux. Cette définition correspond précisément au mode d’évaluation employé par Mme Tropper.
+[64] La définition qui précède est celle qui a été appliquée par la Cour d’appel fédérale dans l’arrêt précité, ainsi que dans l’arrêt Klotz c. La Reine, 2005 CAF 158.
+[65] Dans l’analyse qui suit, j’applique le critère énoncé dans la décision Henderson en ce qui concerne la juste valeur marchande des œuvres d’art à la date à laquelle elles ont été données.
+V. Analyse
+[66] La preuve présentée au procès a porté principalement sur la juste valeur marchande des œuvres d’art données et sur le marché pertinent sur lequel les évaluateurs devaient se fonder pour tirer une conclusion sur la juste valeur marchande du don. Mme Yeomans et M. Rosoff étaient des « experts participants », et non des « experts » au sens des Règles de la CCI. Il a été jugé qu’ils n’étaient ni indépendants ni objectifs et la Cour n’a pas retenu leurs rapports, bien qu’ils aient été autorisés à témoigner à titre d’experts participants.
+[67] Je conclus que la juste valeur marchande en l’espèce est le prix payé par les appelants pour les œuvres d’art qu’ils ont données par la suite, et non la valeur estimée présentée par les appelants par les témoignages de Mme Yeomans et de M. Rosoff. Je cite le juge en chef adjoint Bowman (plus tard juge en chef) dans la décision Klotz c. La Reine, 2004 CCI 147, au paragraphe 46 :
+À mon avis, l’approche de l’intimée est plus réaliste. M. Alasko a qualifié la vente que Curated avait conclue avec l’appelant d’opération en gros ou d’opération en vrac. L’intimée aurait sans doute préféré que le témoin qualifie l’opération de vente au détail, mais en fin de compte, le nom attribué à la vente importe peu. Elle est ce qu’elle est. Il s’agissait de la vente de 250 gravures pour une somme de 75 000 $ entre deux personnes sans lien de dépendance. Le don de ces 250 gravures a été fait presque en même temps. Quelle meilleure preuve y atil au sujet de la valeur des 250 gravures à ce momentlà? Pourquoi aller à la recherche d’une JVM élusive et dans une bonne mesure hypothétique dans les galeries d’art haut de gamme en vogue à New York lorsque la meilleure preuve nous crève les yeux? Le problème qui se pose en l’espèce est le suivant : un bien est acquis pour une somme de 5 à 50 $, il est vendu à l’appelant pour une somme de 300 $ et on affirme deux jours plus tard que la JVM du bien est de 1 000 $; la chose n’a aucun sens et n’a rien à voir avec la réalité ordinaire du monde commercial. [Non souligné dans l’original.]
+[68] D’après la décision Henderson, il faut se pencher sur les questions suivantes : (1) Les œuvres d’art doiventelles être évaluées à la pièce ou en groupe? (2) Les œuvres d’art ontelles été évaluées selon le principe du marché ouvert et libre de restrictions? (3) La preuve confirmetelle la thèse des appelants selon laquelle les œuvres d’art ont été évaluées à leur juste valeur marchande?
+Nash et Klotz − Différences
+[69] Avant d’examiner les questions ci-dessus, dont la plus fondamentale porte sur la juste valeur marchande, je dois me pencher sur l’observation des appelants selon laquelle il existe quatre différences importantes entre la présente affaire et les affaires Nash et Klotz :
+Les œuvres d’art n’ont pas été achetées par les donateurs en groupe, mais par pièce.
+Les œuvres d’art données existaient déjà et n’ont pas été produites uniquement pour le programme d’Artistic et, par conséquent, il y avait un marché de détail préexistant pour elles.
+Il y a des preuves concrètes d’un marché de détail préexistant.
+On expliqué pourquoi la valeur du don était supérieure au prix réellement payé pour les œuvres d’art en question.
+1) Les œuvres d’art ont été données en groupe
+[70] L’intimée a soutient que les faits montrent que les biens en question ont été évalués en groupe, et non par gravure. Les éléments de preuve à cet égard sont particulièrement convaincants.
+(1) L’intimée a fait référence à certains documents faits par l’appelant, notamment un document promotionnel intitulé « Artistic Expressions, 99 » (pièce R4, volume 1, onglet 1B, page 1). Il fait partie du matériel promotionnel décrivant la possibilité de [traduction] « faire don d’œuvres d’art à divers organismes de bienfaisance et recevoir un avantage fiscal appréciable ». Il y était indiqué que le placement minimal était de 3 500 $ et il était précisé ceci à la fin :
+[traduction]
+Après avoir acheté onze œuvres d’art, chaque investisseur pourra faire don de jusqu’à dix de ces pièces. Chaque œuvre a une valeur marchande estimée à au moins 1 000 $, et les investisseurs choisiront d’en donner dix, ce qui donnera lieu à une économie d’impôt de 4 875 $ sur une œuvre d’une valeur approximative de 1 000 $.
+Cela montre qu’il y avait un placement minimal de 3 500 $, qui est en fait le prix d’un groupe de 11 pièces, et non pas le prix X pour une pièce.
+(2) Une convention de mandat, qui était une convention de mandat type, liait Artistic Ideas Inc. et chaque donateur éventuel. La convention de mandat du 31 mars 1999 entre Artistic Ideas Inc. et Jeffrey Sackman de Toronto (pièce R4, volume 6, onglet 16, pages 3 et 4) énonçait l’obligation pour le mandataire (1) d’acquérir des gravures d’un ou de plusieurs vendeurs, (2) de trouver un ou plusieurs organismes de bienfaisance, et (3) d’obtenir des reçus à la satisfaction de l’acheteur. Cela indique qu’il s’agissait de l’acquisition et du don de groupes d’œuvres d’art, plutôt que d’œuvres individuelles.
+(3) La convention de mandat était suivie d’un contrat d’achat (pièce R4, volume 6, onglet 20o), pages 5 à 7) entre le propriétaire initial, Coleman Fine Arts Limited, et M. Sackman, daté du 31 mars 1999. Ce contrat portait sur la cession de l’ensemble des droits, titres et intérêts sur les gravures et mentionnait un prix d’achat à payer par les acheteurs énoncé à l’annexe A. Il convient de noter qu’il n’y a pas d’annexe A qui ait été jointe. En outre, le contrat d’achat précisait que les gravures pouvaient être entreposées dans les locaux du vendeur. Là encore, on ne semble pas parler de gravures prises individuellement, mais plutôt de gravures considérées dans leur ensemble, comme s’il s’agissait d’un groupe.
+(4) Le contrat d’achat était suivi d’un document appelé [traduction] « commande et instructions » (pièce R4, volume 6, onglet 19h), pages 1 à 3). C’était la commande assortie d’instructions provenant d’Artistic Ideas pour les œuvres en question. L’acquéreur devait communiquer ses coordonnées et choisir un [traduction] « groupe » d’œuvres qu’il comptait acheter en encerclant et mettant en évidence le [traduction] « numéro de groupe ». Suivaient certains énoncés : [traduction] « choisissez les gravures que vous désirez recevoir »; [traduction] « une seulement pour chaque unité achetée, les dix autres ou plus seront envoyées à l’organisme de bienfaisance de votre choix ». Ces énoncés montrent que les appelants considéraient les œuvres en groupe, et non par pièce. De plus, on désignait les œuvres d’art par le mot [traduction] « unités » dans la commande et les instructions, par exemple dans l’énoncé suivant [traduction] : « Prenez note qu’une unité ne peut être partagée entre des organismes de bienfaisance. » Par contre, la commande et les instructions permettaient bien à l’acquéreur de faire don individuellement de chaque œuvre à un organisme de bienfaisance distinct.
+(5) Il ressort de la preuve que, s’il y avait substitution d’une œuvre dans un groupe, le prix ne changeait ni dans le crédit pour don demandé, ni dans le reçu pour don ou l’acte de donation. Tous ces documents demeuraient inchangés même en cas de remplacement individuel d’œuvres.
+(6) La commande et les instructions étaient suivies d’une [traduction] « lettre d’Artistic Ideas à un organisme de bienfaisance particulier » (pièce R4, volume 6, onglet 17o), page 1). Cette lettre confirmait que cent œuvres avaient été données à l’organisme de bienfaisance en question, que leur valeur était de 100 000 $ et que des évaluations individuelles suivraient dans un envoi séparé.
+(7) La lettre était suivie d’un exemple d’acte de donation. Ce spécimen était daté du 3 juin 1999 et avait été établi par Artistic Ideas à l’endroit d’un organisme de bienfaisance en particulier. L’exemple montre que l’acheteur savait qu’il envoyait cent œuvres d’art de la collection de Coleman Fine Arts Limited à un organisme de bienfaisance, mais sans être au fait des détails pour chaque gravure. Cet acte de donation confirme que l’organisme de bienfaisance destinataire savait qu’il obtenait 100 gravures, mais sans pour autant connaître les titres des diverses gravures (pièce R4, volume 6, onglet 18o), pages 2 à 5).
+(8) Dans un document consigné en preuve à l’audience concernant M. Sackman (engagement 66 de la transcription de l’interrogatoire préalable de Jeffrey Sackman du 15 janvier 2007), il était écrit :
+[traduction]
+À la suite de l’engagement antérieur de confirmer que, en 2000, M. Sackman a fait don des 40 gravures requises faisant partie des 40 groupes achetés en 1999 (le quatrième groupe de onze gravures), la réponse est oui.
+(9) Dans une lettre adressée par Artistic Ideas Inc. à un organisme de bienfaisance le 13 décembre 1999 (pièce R4, volume 5, onglet 6d), pages 1 et 2), il est écrit que le don minimal de chaque donateur à chaque organisme de bienfaisance était de la taille d’un groupe. Le premier paragraphe de la lettre est rédigé ainsi :
+[traduction]
+Nous connaissons un certain nombre de personnes désireuses de faire des dons appréciables d’œuvres d’art. La somme donnée par chaque investisseur sera d’une valeur minimale de 10 000 $ (10 pièces). Certains dons pourraient se monter à plus de 100 000 $. La somme totale des dons est difficile à établir pour l’instant, mais elle devrait se compter en millions de dollars.
+(10) Dans l’envoi d’Artistic Ideas à un organisme de bienfaisance, le 22 février 2000 (pièce R4, volume 5, onglet 6e), page 1), qui comprend l’acte de donation, une lettre comporte le passage suivant :
+[traduction]
+Vous trouverez cijoint les actes de donation originaux pour les dons faits à votre organisme de bienfaisance par l’intermédiaire d’Artistic Ideas Inc. Certains sont des télécopies d’origine (également valides) qui seront remplacées lorsque les originaux seront envoyés. Chaque acte s’accompagne d’une lettre de don précisant le nombre de gravures et leur valeur totale. Veuillez apposer votre signature au bas de chaque lettre et me renvoyer celleci par télécopieur immédiatement, puis me faire parvenir les originaux par la poste.
+Cette lettre a été produite lorsque les reçus ont été établis.
+Chaque participant a obtenu un reçu pour chaque groupe de gravures plutôt que pour chaque pièce.
+(11) Les substitutions ou la recomposition des groupes n’influaient pas sur la valeur marchande. La substitution était chose connue. Rien dans la preuve ne montre qu’elle ait fait une différence pour les participants. Artistic s’était réservé le droit de procéder à des substitutions. Elle avait le pouvoir de substituer des gravures à d’autres. Normalement, il y avait substitution seulement si des gravures étaient endommagées ou en nombre insuffisant. Si une substitution était effectuée, elle était sans incidence sur les listes de dons. Aucune liste de gravures n’était jointe à l’acte de donation, les œuvres étaient achetées et données en groupe.
+[71] La question est la suivante : qu’est-ce que le donateur a acheté et qu’a-t-il donné? Il est évident que ce qui était acheté était des groupes de gravures, onze par groupe. Le donateur en conservait une et faisait don des dix autres. Les gravures n’étaient jamais achetées par groupes de trois, cinq ou six, elles l’étaient toujours par groupes de onze ou de multiples de onze, desquels le donateur prélevait une gravure et donnait les autres.
+2) Les œuvres d’art données existaient déjà
+[72] Ce fait en soi est insuffisant pour qu’on puisse établir une distinction entre les appels en l’espèce et la jurisprudence établie. Dans l’affaire Klotz, les œuvres d’art données étaient également préexistantes. Comme le juge en chef adjoint Bowman (plus tard juge en chef) l’a fait observer dans la décision Klotz, les ventes d’œuvres d’art préexistantes sur un marché existant pourraient constituer des ventes comparables. Cependant, les éléments de preuve fournis par les appelants au sujet de ces ventes n’étaient pas suffisants. Je ne suis donc pas convaincu sur ce point qu’il faut établir une distinction entre les appels dont je suis saisi et la jurisprudence.
+3) Il existe des preuves concrètes d’un marché de détail préexistant
+[73] Je ne crois pas que la preuve ait établi la préexistence d’un marché de détail. Il me semble que les évaluateurs ont eu de la difficulté lorsqu’ils ont tenté d’utiliser cette affirmation pour étayer leurs évaluations. Comme je le dirai plus loin, je ne trouve particulièrement dignes de foi ni les évaluations de Mme Yeomens ni celles de M. Rosoff.
+4) Une explication justifie que la valeur du don soit supérieure à celle du prix réellement payé
+[74] Les experts participants ont fait de leur mieux pour expliquer pourquoi la valeur du don était supérieure au prix effectivement payé, mais je ne retiens pas leur témoignage à cet égard. Je reprends ici ce que le juge en chef adjoint Bowman a dit dans la décision Klotz : « [L]a chose n’a aucun sens et n’a rien à voir avec la réalité ordinaire du monde commercial. » C’est aussi simple que cela!
+[75] Pour les mêmes motifs, je conclus qu’il n’y a pas de différence importante entre les présents appels et les affaires Nash et Klotz.
+[76] Pour appliquer le critère de la juste valeur marchande, il faut examiner s’il y a un marché ouvert et libre de toute restriction. Ce facteur a été particulièrement important dans la décision Klotz, la Cour d’appel fédérale ayant déclaré au paragraphe 4 :
+Le juge de la Cour de l’impôt a refusé d’accepter la preuve d’évaluation soumise par le contribuable en ce qui concerne la juste valeur marchande des esquisses, pour le motif que l’évaluateur avait tenu compte du mauvais marché. Il a statué que « l’ampleur du programme de dons d’œuvres d’art en grande quantité a créé son propre marché » et que, contrairement à ce qu’alléguait le contribuable, le marché pertinent n’était pas constitué de galeries se spécialisant dans la vente au détail d’œuvres d’art où les œuvres sont vendues sur une base individuelle.
+[77] En outre, dans l’arrêt Nash, la Cour d’appel fédérale a dit, au paragraphe 25 :
+En l’espèce, il y avait un marché sur lequel les lots de gravures déterminés ont été échangés. En 1997, CVI a vendu 35 lots sur les 35 qu’elle avait mis en vente; en 1998, elle a vendu 150 des 155 lots offerts en vente et, en 1999, 298 sur une possibilité de 300. Ces chiffres démontrent qu’il existait effectivement un marché pour des lots de gravures déterminés. D’ailleurs, la presque totalité des lots mis en vente par CVI ont été vendus. C’était le cours ordinaire des affaires pour CVI. Par ailleurs, CVI et les contribuables ont traité sans lien de dépendance. Aucune contrainte n’a été exercée. CVI a librement vendu les lots en question et les contribuables les ont achetés librement. Contrairement à ce que Mme Tropper a affirmé, la preuve ne permet pas d’affirmer qu’il ne s’agissait pas d’un marché libre. Environ 480 opérations ont été effectuées sur une période de trois ans. Aucun élément de preuve n’a été présenté pour démontrer qu’il fallait remplir certaines conditions pour pouvoir acquérir des gravures de CVI ou pour en faire don à des organismes de bienfaisance ou à des universités.
+5) Le critère énoncé dans la décision Succession Henderson
+a) Marché ouvert et libre de restrictions
+[78] Les simples limites quant aux personnes pouvant être appelées à acheter les œuvres d’art ou au nombre de vendeurs, c’estàdire des avocats, des comptables ou des planificateurs financiers qui donnaient accès programme d’Artistic, ne créent pas une situation de marché restreint et ne signifient pas non plus que le marché était tel. Le marché étaitil ouvert ou fermé? Il n’y avait en réalité aucune condition d’admissibilité à ce programme. Les prix se communiquaient entre les parties. Il n’y avait ni obligation ni preuve d’admissibilité à fournir au moment d’acquérir ou de donner les œuvres d’art.
+b) Les œuvres d’art étaient-elles évaluées à leur juste valeur marchande?
+[79] Dans l’examen de la question clé de la juste valeur marchande des œuvres d’art, tout se ramène à la crédibilité des experts participants et de leur témoignage. Ils ont été appelés à témoigner précisément sur la juste valeur marchande des œuvres d’art au moment de leur évaluation. La crédibilité de Mme Yeomans et de M. Rosoff doit être examinée en détail.
+[80] Les appelants ontils fourni des éléments de preuve crédibles et fiables sur la juste valeur marchande des œuvres? La réponse est non.
+[81] Les avocats de l’intimée ont contreinterrogé abondamment et efficacement Mme Yeomans et M. Rosoff, en tant qu’experts participants, au sujet de leurs rapports d’évaluation.
+[82] Le rapport de Mme Yeomans (pièce A1, volume 2, onglet 12) était daté du 28 février 2000 :
+(1) Mme Yeomans a reconnu que son client était Artistic Ideas et qu’elle procédait à une évaluation complète. À la page 431, il est écrit que le rapport [traduction] « n’est pas valide s’il est utilisé dans une procédure judiciaire », mais l’intéressée ne savait au juste comment répondre à la question de savoir si le rapport était valide ou non à présent, puisqu’il a été utilisé dans une procédure judiciaire. Elle a néanmoins dit entièrement le cautionner. Lorsque le rapport a été établi, il ne devait pas servir à des fins contentieuses, mais on sait à présent qu’il a été présenté à la Cour justement à cette fin, c’estàdire dans une procédure judiciaire. En dépit de cette contradiction évidente, Mme Yeomans a affirmé défendre entièrement son rapport, bien qu’il ait servi à des fins contraires à celles qu’elle avait elle-même prévues dans ce même rapport!
+(2) Il est écrit dans le rapport de Mme Yeomans qu’il a été établi conformément aux NUPPE. Mme Yeomans a précisé qu’il s’agissait des normes qui s’appliquaient au rapport lorsqu’il a été produit en 2000. Ces normes figurent à la pièce R11. On y trouve une [traduction] « règle de dérogation » familière à Mme Yeomans. Elle s’est dite d’avis que cette règle s’applique maintenant, mais qu’elle n’était pas en vigueur en 2000 et qu’elle permet à l’évaluateur de s’écarter quelque peu des exigences des normes. Il est précisé qu’il est interdit de déroger aux règles 71, 72, 75, 81 et 82 et qu’il y a obligation, prévue aux sous-alinéas 8.2a)(ix), 8.2b)(ix) et 8.2c)(ix), de clairement indiquer et expliquer toute dérogation. Mme Yeomans n’a pas expliqué ses dérogations aux NUPPE.
+(3) Interrogée sur la nature du rapport, Mme Yeomans a dit qu’il ne s’agissait pas d’un [traduction] « rapport complet », mais plutôt d’un [traduction] « rapport sommaire ». Rien n’indiquait dans le rapport qu’il s’agissait d’un rapport sommaire, et non d’un rapport complet. Il ne précisait pas sa nature. Mme Yeomans s’est par la suite ravisée dans son témoignage et a affirmé qu’il s’agissait d’un [traduction] « rapport complet ».
+(4) À la pièce A1, volume 1, onglet 9, page 232, il est écrit que le rapport devait servir uniquement à des fins consultatives pour le calcul l’impôt sur le revenu. Mme Yeomans savait que le programme était destiné à l’achat et au don d’œuvres d’art. Rien n’indique que l’évaluation a été faite en vue des dons et le rapport ne mentionnait pas non plus qu’il pouvait servir en cas de litige.
+(5) Le numéro de tirage de chaque œuvre désigne la pièce, c’estàdire la gravure visée par l’évaluation, mais il n’est pas précisé que l’évaluation s’applique à plusieurs autres gravures.
+(6) Le rapport ne dit pas non plus que l’évaluation devait s’appliquer à d’autres gravures que l’évaluateur n’avait ni vues ni examinées.
+(7) Mme Yeomans ignorait à qui appartenaient les gravures et ne savait pas que M. Sloan, la galerie Ro ou Artistic Ideas étaient impliqués. Elle savait qu’une des sources principales des œuvres était la galerie Ro, mais les utilisateurs prévus ne connaîtraient pas le lien direct entre, d’une part, les fournisseurs, en l’occurrence le programme d’art et, d’autre part, une des sources sur lesquelles se fondait l’auteur du rapport pour faire ses évaluations.
+(8) Mme Yeomans ignorait qui était propriétaire des œuvres lorsqu’elle les a évaluées.
+(9) Mme Yeomans n’a jamais parlé au fournisseur principal des œuvres, M. Sloan, et elle n’a jamais demandé non plus combien avait payé Artistic Ideas pour les pièces. Elle ne s’est pas enquise de l’ampleur du programme et n’a pas demandé d’analyse sur les donateurs en lien avec le consommateur ultime.
+(10) En examinant la pièce R12, qui est la norme 73B des NUPPE, Mme Yeomans a jugé que le marché à utiliser était celui que déterminait l’évaluateur selon le lieu où serait utilisé le bien. Les normes exigeaient que l’évaluateur s’attache à l’offre et à la demande, mais il n’est nullement fait mention dans le rapport d’un déferlement d’œuvres sur le marché.
+(11) Mme Yeomans n’a jamais cherché ni obtenu de ventes comparables pour des programmes de dons. Elle n’a pas pris en considération le fait que les œuvres devaient être vendues au donateur, qui les donnerait ensuite à l’organisme de bienfaisance.
+(12) Mme Yeomans ignorait les rôles joués par les diverses entreprises soustraitantes, elle ne savait pas que les biens ne seraient pas vendus dans des galeries commerciales par les donateurs et elle ignorait même qui étaient les donateurs.
+(13) Les aspects juridiques et physiques de la rentabilité des œuvres n’ont pas été analysés comme constituant un facteur pertinent quant à l’objet et à l’usage prévu de l’évaluation.
+(14) Mme Yeomans a affirmé que l’assemblage n’est pas la même chose que la valeur globale.
+(15) Mme Yeomans ignorait le nombre de donateurs dans le programme ainsi que le nombre de multiples donnés dans le cadre du programme.
+(16) Mme Yeomans savait que le prix d’achat des œuvres comprenait les frais d’expédition et de livraison ainsi que les frais d’évaluation et de recherche d’organismes de bienfaisance, mais ces éléments ne figuraient pas dans le rapport.
+(17) Mme Yeomans n’a pas demandé de documents d’achat.
+(18) Le rapport ne fait aucune mention de contrats d’achat et de vente.
+(19) Mme Yeomans ignorait le nombre de dons de multiples dans le programme et ne savait pas que M. Sloan avait acquis les œuvres.
+[83] Malgré tout ce qui précède, Mme Yeomans n’a pas bronché et a estimé que ces nombreuses omissions de la part d’une évaluatrice professionnelle n’influaient pas sur ses avis.
+[84] Je ne souscris pas à l’opinion de Mme Yeomans. Son contreinterrogatoire abonde en coups portés à sa crédibilité – elle semblait presque assommée lorsque, point par point, les lacunes de son rapport ont été mises au jour. Ce qui est particulièrement préoccupant, c’est son manquement aux normes d’exercice de sa profession décrites dans les NUPPE. Bref, Mme Yeomans était « aux ordres ». Elle a rédigé un rapport pour donner l’impression que son client respectait les règles fiscales, rien de plus, rien de moins. Elle a eu à défendre son rapport en contreinterrogatoire, mais c’était trop peu trop tard. Le document est éloquent même après toutes ces années et ne résiste tout simplement pas à l’examen. J’estime qu’il est incomplet, qu’il regorge de lacunes et s’écarte de la pratique professionnelle de sa discipline. Il n’est pas fiable et la Cour lui accordera très peu de poids, voire aucun.
+[85] L’autre expert dont le rapport a été présenté pour les faits qu’il présente est M. Rosoff. Il a affirmé que ce document avait été préparé conformément aux pratiques et procédures des NUPPE et qu’il suivait le code de déontologie de l’American Society of Appraisers. Il a confirmé que, d’après lui, ce code avait été respecté. On lui a posé une question sur son rapport (pièce A1, volume 2, onglet 17), l’évaluation du 5 février 2003, à propos de ses sources. La date d’effet du document était le 1er septembre 2002, et on pouvait noter que celuici ne comportait ni bibliographie ni liste de sources. À sa lecture, le lecteur n’aurait pas su sur quelles sources se fondait l’auteur. M. Rosoff n’a pas répondu à la question sur ses éventuelles sources et n’a pas précisé non plus si l’utilisateur visé aurait dû être renseigné sur les sources. À une question sur l’utilisateur prévu du document, M. Rosoff a dit qu’il s’agissait d’Artistic Ideas. Il savait que le rapport serait remis aux donateurs et aux organismes de bienfaisance et se rendait compte que, logiquement aussi, il serait raisonnable que le donateur l’obtienne. Il savait que le donateur recevrait le rapport d’évaluation, mais il ne pouvait en dire autant des organismes de bienfaisance. Il a mentionné qu’il n’était pas question d’hypothèses extraordinaires dans les indications du rapport. Il a dit que les NUPPE comportaient des règles normalisées d’évaluation et que les règles étaient là pour clarifier les normes et en faciliter l’interprétation. Certaines règles étaient contraignantes et d’autres, spécifiques, mais la règle de dérogation permettait de s’écarter des règles spécifiques par opposition aux règles contraignantes.
+[86] M. Rosoff a dit qu’il était nécessaire de clairement indiquer et expliquer toute dérogation à la règle 7 et que le rapport sommaire était assujetti à cette règle particulière. J’ai constaté qu’il évitait de répondre à des questions auxquelles il y avait des réponses évidentes. En ce qui concerne l’utilisateur prévu du rapport par exemple, il a dit que son identité ne pouvait être établie à partir du document, puisqu’il s’agissait d’un rapport sommaire. Mais Artistic Ideas aurait été l’utilisateur. Le lecteur ne saurait pas à la lecture du rapport qu’il s’agissait d’un rapport sommaire, mais Artistic Ideas savait qu’il s’agissait d’un second rapport servant à confirmer que le premier (celui de Mme Yeomans) était juste et raisonnable.
+[87] On savait de toute évidence qui était l’utilisateur prévu par le titre du document et la lettre d’envoi. Ce qui est important pour le rédacteur du rapport, ce sont les normes de réputation et de crédibilité. M. Rosoff avait du mal à répondre et évitait les réponses évidentes. Il a affirmé qu’il y avait une certaine dose d’acceptation aveugle dans ce domaine et que les normes changeaient constamment. L’organisme a vu le jour au départ dans un contexte immobilier et, depuis, a fait évoluer ses règles pour inclure aujourd’hui les biens meubles. Lorsqu’on lui a demandé à quoi servaient des règles qui changeaient tout le temps, il s’est tout simplement abstenu de répondre. Il a affirmé que le but de la préparation du rapport était de confirmer le prix, mais il n’en est fait nulle mention dans le document. Il n’y avait pas d’analyse ni de motifs justifiant les valeurs indiquées dans le document.
+[88] M. Rosoff a fait remarquer que les valeurs étaient un instantané de ce qu’était l’activité sur le marché à l’époque, mais sans que les opérations à la juste valeur tiennent compte de ce qui suit :
+les ventes forcées;
+le fait que les ventes d’œuvres d’art ne s’ouvrent pas à tout le monde et que les opérations ne se font pas entre personnes sans lien de dépendance.
+Il savait que le rapport allait servir à des dons de bienfaisance. Il était d’avis que, tant que l’information est significative et qu’elle n’induit pas en erreur l’utilisateur prévu, on peut y mettre ce qu’on veut en fait de résultats crédibles qui soient à la fois significatifs et non trompeurs. Il a également témoigné que, si on lui avait dit que l’utilisateur serait l’ARC, son rapport aurait été totalement différent.
+[89] Je n’ai pas été particulièrement impressionné par les témoignages de Mme Yeomans et de M. Rosoff sur les évaluations qu’ils ont faites il y a de nombreuses années. Ils se prétendaient membres professionnels de l’American Society of Appraisers, mais ils ne satisfaisaient pas aux exigences et conditions d’admissibilité de leur organisme ni aux NUPPE. Ils ont passé par-dessus les NUPPE et n’ont même pas admis leurs erreurs. M. Rosoff en particulier a tenté à plusieurs reprises d’esquiver ce qui était évident. Lorsque les réponses allaient de soi, il cherchait simplement à se défiler en tempêtant.
+[90] Il ressort de la preuve que les évaluateurs se sont détournés délibérément des autres marchés. Ils prétendaient en même temps se conformer aux NUPPE, mais ce n’était pas le cas. Il est significatif que Mme Yeomans et M. Rosoff aient tous deux prétendu les suivre et attesté dans leurs rapports les avoir respectées, alors, comme je l’ai dit précédemment, qu’ils ne l’ont pas fait : (1) ils ne se sont pas reportés aux ventes antérieures des biens; (2) ils n’ont pas fait mention de la provenance; (3) des multiples des mêmes gravures ont été achetés et datés; (4) ils n’ont nullement fait mention du prix payé par les donateurs; (5) ils n’ont pas pris en considération l’utilisation des œuvres; (6) ils n’ont pas pris en compte l’effet du déferlement d’œuvres sur le marché.
+[91] Il ne faut pas oublier que la galerie Ro constituait la source d’une bonne partie des données d’évaluation dont se sont servis Mme Yeomans et M. Rosoff pour estimer la juste valeur marchande des œuvres. Ni Mme Yeomans ni M. Rosoff ne savaient que la galerie Ro était propriétaire d’une bonne partie des œuvres évaluées et acquises par un autre intervenant, M. Sloan, et qui ont fini par être vendues aux donateurs.
+[92] Mme Yeomans savait également qu’elle devait analyser les ventes antérieures des œuvres ayant eu lieu dans une période raisonnablement récente et pertinente. Cela a tout particulièrement de l’importance compte tenu de la relation qui existait au départ entre la galerie Ro et les personnes qui vendaient les œuvres aux donateurs. Dans l’arrêt La Reine c. Lavallée, [1990] 1 R.C.S. 852, la Cour suprême du Canada a dit au paragraphe 84, en partie :
+Lorsque, toutefois, les données sur lesquelles un expert fonde son opinion proviennent d’une partie au litige ou d’une autre source fondamentalement suspecte, un tribunal devrait exiger que ces données soient établies par une preuve indépendante. Suivant l’arrêt Abbey, l’absence d’une telle preuve influera directement sur le poids à donner à l’opinion, peutêtre au point de lui enlever toute valeur probante.
+[93] Tout bien considéré, je n’ai pas été particulièrement impressionné par le professionnalisme ni l’expertise de ces évaluateurs. Il se peut fort bien qu’ils aient des connaissances relatives aux œuvres individuelles ou aux groupes d’œuvres, mais ils n’ont pas fait appel à cette expertise dans la préparation de leurs rapports ni dans la présentation de leur témoignage. Par conséquent, j’accorde très peu de poids à l’ensemble de leurs témoignages.
+[94] De quelle preuve la Cour dispose-t-elle sur la juste valeur marchande? L’intimée n’a pas présenté de preuve concrète à la Cour sur ce point, mais s’en est remise à certaines hypothèses dans ses observations reproduites à l’annexe A.
+[95] Les renseignements obtenus par l’intimée en contreinterrogatoire de témoins comme M. Sloan, M. Pearlman ou Mme Cornell et par des documents transactionnels et autres indiquent que la juste valeur marchande des œuvres ne s’approchait pas du tout de celle qui a été présentée par les appelants.
+c) Les œuvres sontelles évaluées par pièce ou en groupe?
+[96] Vu ma conclusion quant à l’argument de la juste valeur marchande, je ne crois pas avoir à aborder cet aspect du critère énoncé dans la décision Henderson. Je me reporte à la déclaration de l’ancien juge en chef Bowman dans la décision Klotz, précitée au paragraphe 67 des présents motifs. Les appelants ont tenté d’établir que les œuvres avaient été évaluées individuellement. Je crois que cela a été fait uniquement pour documenter l’abri fiscal vendu au public. Le fait est que les évaluations ne veulent vraiment rien dire. Elles ne sont ni fiables ni dignes de foi, comme je l’ai constaté. Les œuvres ont été acquises en grande quantité, mises en démarchage en grande quantité, vendues en grande quantité, emballées en grande quantité et livrées en grande quantité – la quantité étant de onze (11) pièces à la fois. Les évaluations étaient au mieux une mise en scène.
+VI. Conclusion
+[97] Compte tenu de l’ensemble des éléments de preuve, je conclus que les appelants ne se sont pas acquittés du fardeau qui était le leur de démolir les hypothèses sur lesquelles s’appuyait l’intimée. La pierre angulaire de l’argumentaire des appelants était Mme Yeomans et M. Rosoff. Je doute grandement de leur crédibilité, comme j’en ai rendu compte. J’ai accordé très peu de poids, voire aucun, à leur évaluation douteuse de la juste valeur marchande des œuvres. Par conséquent, je rejette les appels avec dépens à l’intimée et j’ordonne que les appels soient renvoyés pour établissement d’une nouvelle cotisation sur le seul fondement, dans le cas de l’appelant Ian Roher, que les gains en capital inscrits dans sa déclaration pour les années d’imposition 2001, 2002 et 2003 soient supprimés et, dans le cas de l’appelant William Kaul, que les gains en capital inscrits dans sa déclaration pour l’année d’imposition 2000 soient supprimés. Une date sera fixée sous peu pour les observations sur les dépens.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2019.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+Traduction certifiée conforme
+ce 23e jour de janvier 2020.
+Elisabeth Ross, jurilinguiste
+ANNEXE « A »
+[traduction]
+Hypothèses relatives à M. Kaul
+15. Pour déterminer la dette fiscale de l’appelant pour les années d’imposition 1998, 1999 et 2000, le ministre a posé les hypothèses de fait suivantes :
+Participation au programme de dons d’Artistic Ideas
+a) en 1998, 1999 et 2000, l’appelant a participé à un programme de dons d’œuvres d’art exploité par Artistic Ideas Inc. (« Artistic »);
+b) Artistic est une société constituée sous le régime des lois de l’Ontario;
+c) le programme de dons d’œuvres d’art d’Artistica été mis en marché auprès des contribuables canadiens comme une manœuvre d’évitement fiscal;
+d) Artistic a fait établir et fourni des déclarations de valeur pour les gravures achetées par l’appelant (les « déclarations »);
+e) la valeur des gravures indiquée dans les déclarations représente plusieurs fois le montant réellement payé par l’appelant;
+f) les déclarations ont été préparées par Leslie Fink, Edith Yeomans et Charles T. Rosoff;
+g) Artistic a pris des mesures pour que des organismes de bienfaisance acceptent les gravures en don et produisent des reçus pour don du montant indiqué dans les déclarations;
+h) dans la manœuvre d’évitement fiscal d’Artistic, les contribuables achetaient des gravures à un fournisseur américain par l’entremise d’Artistic, en faisaient don à des organismes de bienfaisance à la suite des mesures prises par Artistic, obtenaient des reçus pour don de bienfaisance d’une valeur environ trois fois supérieure au prix d’acquisition payé par eux et demandaient un crédit d’impôt en fonction de ces reçus (le « stratagème »);
+i) le programme d’Artistic a débuté en 1998 et a fonctionné jusqu’en 2001 au moins;
+j) le fournisseur des gravures en 1998 et 1999 était Coleman Fine Arts;
+k) le fournisseur des gravures en 2000 était SilverFineArts;
+l) les contribuables qui participaient au stratagème versaient typiquement jusqu’à 3 500 $ pour un groupe de 11 gravures lors des années d’imposition 1996 à 1999; cette façon de faire a duré jusqu’au 28 février 2000, après quoi les contribuables ont payé jusqu’à 3 900 $ pour des groupes de gravures d’une taille variable;
+m) en contrepartie de la somme versée pour les groupes de gravures, l’appelant recevait divers services : expédition des œuvres, entreposage de cellesci, recherche d’un organisme de bienfaisance prêt à les accepter, livraison des œuvres à cet organisme, prise de mesures pour que soit faite une évaluation établissant la valeur à au moins trois fois le prix payé par l’appelant, paiement de frais d’entreposage à l’organisme de bienfaisance et obtention de l’assurance qu’un reçu pour don serait remis à l’appelant;
+n) au cours de ses années d’imposition 1998, 1999 et 2000, l’appelant a fait don des gravures à des organismes de bienfaisance parmi ceux proposés par Artistic;
+o) les organismes de bienfaisance remettaient pour les dons de l’appelant des reçus dont le montant correspondait à la valeur indiquée dans les déclarations;
+p) l’appelant a demandé un crédit d’impôt pour les dons de gravures aux organismes de bienfaisance pour les années d’imposition 1998, 1999 et 2000 (le « crédit d’impôt »);
+q) l’appelant a acheté les gravures directement de Coleman Fine Artsdurant ces mêmes années d’imposition;
+r) Coleman Fine Arts est une entreprise constituée en société dans l’État de la Californie;
+s) la valeur indiquée sur les reçus pour don de bienfaisance dépassait la juste valeur marchande des gravures;
+t) la juste valeur marchande des gravures au moment du don de l’appelant n’était pas supérieure au prix d’achat payé par celuici;
+Don des gravures
+1998
+u) le coût des gravures pour l’appelant n’a pas dépassé 7 000 $;
+v) les groupes achetés par l’appelant au cours de l’année d’imposition 1998 comprenaient 110 gravures au total;
+w) l’appelant a acheté les gravures le 17 décembre 1998;
+x) l’appelant a fait don des gravures le 22 décembre 1998;
+y) l’appelant a conservé 10 gravures;
+z) les 100 autres gravures ont été données à la B’nai Brith Foundation (la « fondation B’nai Brith »);
+aa) l’appelant a obtenu un reçu de 100 000 $ de la fondation B’nai Brith;
+bb) l’appelant a produit ce reçu avec sa déclaration de revenus pour l’année d’imposition 1998;
+cc) l’appelant a inclus 100 000 $ pour les gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 1998;
+dd) la juste valeur marchande des gravures données en 1998 était de 7 000 $;
+1999
+ee) le coût des gravures pour l’appelant n’a pas dépassé 7 000 $;
+ff) les groupes achetés par l’appelant au cours de l’année d’imposition 1999 comprenaient 110 gravures au total;
+gg) l’appelant a acheté les gravures le 15 décembre 1999;
+hh) l’appelant a fait don des gravures les 3 et 17 décembre 1999;
+ii) l’appelant a fait don des gravures aux organismes Regesh Family and Child Services (« Regesh »), Friends of Honduran Children (« Honduran Children »), Première Nation de Serpent River (« Serpent River ») et Ballet Creole;
+jj) l’appelant a obtenu des reçus pour don des montants suivants :
+40 000 $ de Regesh;
+30 000 $ de Honduran Children;
+30 000 $ de Serpent River;
+10 000 $ de Ballet Creole;
+kk) l’appelant a inclus 110 000 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 1999;
+ll) la juste valeur marchande des gravures données en 1999 était de 7 700 $;
+2000
+mm) le coût des gravures pour l’appelant n’a pas dépassé 44 694 $;
+nn) les groupes achetés par l’appelant au cours de l’année d’imposition 2000 comprenaient 271 gravures au total;
+oo) l’appelant a acheté les gravures le 24 février et le 21 décembre 2000;
+pp) l’appelant a fait don des gravures en 2000;
+qq) l’appelant a fait don des gravures aux organismes suivants : Regesh, Tel Aide Jewish Distress Line (« Tel Aide »), The ME Association of Ontario (« ME Association »), Honduran Children, Aladdin Children’s Charity (« Aladdin »), Love Cry − The Street Kids Organization (« Love Cry »),le conseil scolaire de district du comté de HastingsPrince Edward (« Hastings-Prince Edward County »), Don Mills Foundation for Senior Citizens (« Don Mills Foundation »), Univirus Research of Canada (« Univirus ») et Boys and Girls Clubs of Newfoundland and Labrador (« Boys and Girls Clubs »);
+rr) l’appelant a obtenu des reçus pour don des montants suivants :
+10 000 $ de Regesh;
+40 000 $ de Tel Aide;
+30 000 $ et 85 778,76 $ de ME Association;
+30 000 $ de Honduran Children;
+85 778,76 $ d’Aladdin;
+85 778,76 $ de Love Cry;
+64 334 $ de Hastings-Prince Edward County;
+85 778,76 $ de Don Mills Foundation;
+85 778,76 $ d’Univirus;
+85 778,76 $ de Boys and Girls Clubs;
+ss) l’appelant a inclus 638 486 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 2000;
+tt) l’appelant a reporté à l’année d’imposition 2001 un crédit de 50 521 $ au titre des dons;
+uu) la juste valeur marchande des gravures données en 2000 était de 44 694 $.
+Hypothèses relatives à M. Roher
+16. Pour déterminer la dette fiscale de l’appelant pour les années d’imposition 1998, 1999, 2000, 2001, 2002, 2003 et 2004, le ministre a posé les hypothèses de fait suivantes :
+Participation au programme de dons d’Artistic Ideas
+a) durant les années d’imposition 1998, 1999, 2000, 2001, 2002, 2003 et 2004, l’appelant a participé à un programme de dons d’œuvres d’art exploité par Artistic Ideas Inc. (« Artistic »);
+b) Artistic est une entreprise constituée en société sous le régime des lois de l’Ontario;
+c) le programme de dons d’œuvres d’art d’Artistica été mis en marché auprès des contribuables canadiens comme une manœuvre d’évitement fiscal;
+d) Artistic a fait établir et fourni des déclarations de valeur pour les gravures achetées par l’appelant (les « déclarations »);
+e) la valeur des gravures indiquée dans les déclarations représente plusieurs fois le montant réellement payé par l’appelant;
+f) les déclarations ont été préparées par Leslie Fink, Edith Yeomans et Charles T. Rosoff;
+g) Artistic a pris des mesures pour que des organismes de bienfaisance acceptent les gravures en don et produisent des reçus pour don du montant indiqué dans les déclarations;
+h) dans la manœuvre d’évitement fiscal d’Artistic, les contribuables achetaient des gravures à un fournisseur américain par l’entremise d’Artistic, en faisaient don à des organismes de bienfaisance à la suite des mesures prises par Artistic, obtenaient des reçus pour don de bienfaisance d’une valeur environ trois fois supérieure au prix d’acquisition payé par eux et demandaient un crédit d’impôt en fonction de ces reçus (le « stratagème »);
+i) le programme d’Artistic a débuté en 1998 et a fonctionné jusqu’en 2001 au moins;
+j) le fournisseur des gravures en 1998, 1999 et 2000 était Coleman Fine Arts;
+k) le fournisseur des gravures en 2000, 2001 et 2002 était Silver Fine Arts;
+l) les contribuables qui ont participé au stratagème versaient typiquement jusqu’à 3 500 $ pour un groupe de 11 gravures lors des années d’imposition 1998 et 1999; cette façon de faire a duré jusqu’au 28 février 2000, après quoi les contribuables ont payé jusqu’à 3 900 $ pour des groupes de gravures d’une taille variable;
+m) en contrepartie de la somme versée pour les groupes de gravures, l’appelant recevait divers services : expédition des œuvres, entreposage de cellesci, recherche d’un organisme de bienfaisance prêt à les accepter, livraison des œuvres à cet organisme, prise de mesures pour que soit faite une évaluation établissant la valeur à au moins trois fois le prix payé par l’appelant, paiement de frais d’entreposage à l’organisme de bienfaisance et obtention de l’assurance qu’un reçu pour don serait remis à l’appelant;
+n) au cours de ses années d’imposition 1998, 1999, 2000, 2001, 2002 et 2003, l’appelant a fait don des gravures à des organismes de bienfaisance parmi ceux proposés par Artistic;
+o) les organismes de bienfaisance remettaient pour les dons de l’appelant des reçus dont le montant correspondait à la valeur indiquée dans les déclarations;
+p) l’appelant a demandé un crédit d’impôt pour les dons de gravures aux organismes de bienfaisance pour les années d’imposition 1998, 1999, 2000, 2001, 2002, 2003 et 2004 (le « crédit d’impôt »);
+q) l’appelant a acheté les gravures directement de Coleman Fine Arts lors des années d’imposition 1998, 1999 et 2000;
+r) l’appelant a acheté les gravures directement de Silver Fine Arts lors des années d’imposition 2000, 2001, 2002 et 2003;
+s) Coleman Fine Arts est une entreprise constituée en société dans l’État de la Californie;
+t) Silver Fine Arts est une entreprise constituée en société dans l’État de la Californie;
+u) la valeur indiquée sur les reçus pour don de bienfaisance dépassait la juste valeur marchande des gravures;
+v) la juste valeur marchande des gravures au moment du don de l’appelant n’était pas supérieure au prix d’achat payé par celuici;
+Don des gravures
+1998
+w) l’appelant a payé 45 500 $ pour acheter un groupe de 176 gravures durant l’année d’imposition 1998;
+x) l’appelant a acheté les gravures le 24 décembre 1998;
+y) l’appelant a fait don de 160 gravures le 24 décembre 1998;
+z) l’appelant a conservé 16 gravures;
+aa) les 160 gravures ont été données à la Ligue des droits de la personne de B’nai Brith (« B’nai Brith »);
+bb) l’appelant a obtenu un reçu de 160 000 $ de B’nai Brith;
+cc) l’appelant a inclus 160 000 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 1998;
+dd) la juste valeur marchande des gravures données en 1998 était de 45 500 $;
+1999
+ee) l’appelant a payé 87 500 $ pour acheter un groupe de 275 gravures durant l’année d’imposition 1999;
+ff) l’appelant a acheté les gravures le 12 octobre 1999;
+gg) l’appelant a fait don de 266 gravures le 12 octobre 1999;
+hh) l’appelant a conservé 9 gravures;
+ii) les 266 gravures ont été données aux organismes Parents Against Drugs (« PAD »), Friends of Honduran Children (« Honduran Children »), TelAid Jewish Distress Line (« TelAid »), Ballet Creole et Regesh Family and Child Services (« Regesh »);
+jj) l’appelant a obtenu des reçus de 266 000 $ au total;
+kk) l’appelant a inclus 266 000 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 1999;
+ll) la juste valeur marchande des gravures données en 1999 était de 87 500 $;
+2000
+mm) l’appelant a payé 70 000 $ pour acheter un groupe de 220 gravures durant l’année d’imposition 2000;
+nn) l’appelant a acheté les gravures le 22 février 2000;
+oo) l’appelant a fait don des gravures le 22 février 2000;
+pp) l’appelant a fait don de 224 gravures durant l’année d’imposition 2000;
+qq) 220 des gravures données durant l’année d’imposition 2000 ont été acquises cette annéelà, et les 4 autres gravures avaient été achetées durant l’année d’imposition 1999;
+rr) l’appelant a fait don des gravures aux organismes Regesh, Canadian Society for Yad Vashem (« Yad Vashem ») et Univirus;
+ss) l’appelant a obtenu des reçus pour don des montants suivants :
+24 000 $ de Regesh;
+70 000 $ de YadVashem;
+60 000 $ d’Univirus;
+tt) l’appelant a inclus 224 000 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 2000;
+uu) la juste valeur marchande des gravures données en 2000 était de 70 000 $;
+2001
+vv) l’appelant a payé 94 162 $ pour acheter un groupe de 233 gravures durant l’année d’imposition 2001;
+ww) l’appelant a acheté les gravures le 11 mai 2001;
+xx) l’appelant a fait don des gravures le 14 mai et le 7 décembre 2001;
+yy) l’appelant a fait don des 233 gravures aux organismes Love Cry − The Street Kids Organization (« Love Cry »), National Children’s Burn Society (« Burn Society »), Aladdin The Children’s Charity (« Aladdin »), Yeshiva Gedola (« Yeshiva »), Univirus, ME Association of Canada (« ME Association »), Pride of Israel Synagogue (« Pride of Israel ») et Congregation Ohr Penimi (« Ohr Penimi »);
+zz) l’appelant a obtenu des reçus pour don des montants suivants :
+91 848 $ de Love Cry;
+91 848 $ de Burn Society;
+68 686 $ d’Aladdin;
+68 866 $ de Yeshiva;
+68 886 $ d’Univirus;
+68 886 $ de ME Association;
+136 868 $ de Pride of Israel;
+91 848 $ d’Ohr Penimi;
+aaa) l’appelant a inclus 650 318 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 2001;
+bbb) la juste valeur marchande des gravures données en 2001 était de 94 162 $;
+2002
+ccc) l’appelant a payé 39 900 $ pour acheter un groupe de 94 gravures durant l’année d’imposition 2002;
+ddd) l’appelant a acheté les gravures le 10 octobre 2002;
+eee) l’appelant a fait don des gravures le 10 octobre 2002;
+fff) l’appelant a fait don de 94 gravures en 2002;
+ggg) l’appelant a fait don des 94 gravures aux organismes Child Cyber Search (« Cyber Search »), Canadians Against Child Abuse (« CACA »), Our House et TOMA;
+hhh) l’appelant a obtenu des reçus pour don des montants suivants :
+i. 90 082 $ de Cyber Search;
+ii. 90 082 $ de CACA;
+iii. 90 082 $ de Our House;
+iv. 90 082 $ de TOMA;
+iii) l’appelant a inclus 360 329 $ au titre des gravures données dans le calcul de ses dons de bienfaisance pour l’année d’imposition 2002, en plus des 60 605 $ reportés de l’année d’imposition 2001;
+jjj) la juste valeur marchande des gravures données en 2002 était de 39 900 $;
+2003
+kkk) l’appelant a payé 46 875 $ pour acheter un groupe de 250 gravures durant l’année d’imposition 2003;
+lll) l’appelant a acheté les gravures le 14 octobre 2003;
+mmm) l’appelant a fait don des gravures le 14 octobre 2003;
+nnn) l’appelant a fait don de 250 gravures à divers organismes de bienfaisance durant l’année d’imposition 2003;
+ooo) l’appelant a obtenu des reçus d’une valeur estimative globale de 586 168,80 $ pour l’année d’imposition 2003;
+ppp) l’appelant a inclus 569 271 $ au titre des gravures données dans le calcul du total de ses dons de bienfaisance pour l’année d’imposition 2003;
+qqq) l’appelant a reporté 16 898 $ à son année d’imposition 2004;
+rrr) la juste valeur marchande des gravures données en 2003 était de 46 875 $;
+2004
+sss) l’appelant a inclus 16 898 $ au titre des gravures données durant l’année d’imposition 2003;
+ttt) la juste valeur marchande des gravures données pour l’année d’imposition 2004 était nulle.
+RÉFÉRENCE :
+2019 CCI 17
+Nos DE DOSSIER DE LA COUR :
+2012754(IT)G;
+20131882(IT)G
+INTITULÉS :
+WILLIAM KAUL ET SA MAJESTÉ LA REINE
+IAN N. ROHER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 7, 8, 12 et 13 décembre 2017 et le 16 janvier 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef Eugene P. Rossiter
+DATE DU JUGEMENT :
+Le 18 janvier 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Irving Marks
+Avocate de l’intimée :
+Me Jenna L. Clark
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Irving Marks
+Cabinet :
+Robins Appleby LLP
+Pour l’intimée :
+Nom :
+Nathalie G. Drouin
+Cabinet :
+Sousprocureure générale du Canada
+Ottawa, Canada

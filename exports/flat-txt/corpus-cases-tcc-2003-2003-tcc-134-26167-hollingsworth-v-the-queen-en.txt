@@ -1,0 +1,140 @@
+Title: Hollingsworth v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26167/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-134-26167-hollingsworth-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-03-18
+
+# Hollingsworth v. The Queen
+
+- Citation: 2003 TCC 134
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3965, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hollingsworth v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-18
+Neutral citation
+2003 TCC 134
+File numbers
+2002-2019(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2019(IT)I
+BETWEEN:
+DOROTHY HOLLINGSWORTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 8, 2003, at Toronto, Ontario.
+Before: The Honourable Judge E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Raymond F. Sim
+Counsel for the Respondent:
+Nimanthika Kaneira
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are allowed, with costs, if any, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing her income for the years 1997, 1998 and 1999, the Appellant is entitled to deduct losses from her employment by Know the World Tours Organizers Inc. of $3,943, $7,993 and $8,675, respectively, and the Appellant is entitled to the goods and services tax rebate as claimed in each of those years.
+Signed at Ottawa, Canada, this 18th day of March, 2003.
+"E.A. Bowie"
+J.T.C.C.
+Citation: 2003TCC134
+Date: 20030318
+Docket: 2002-2019(IT)I
+BETWEEN:
+DOROTHY HOLLINGSWORTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These appeals are brought from reassessments of the Appellant for income tax for the years 1997, 1998 and 1999. The issue they raise is whether the Appellant may, when computing her income under section 3 of the Income Tax Act (the Act), take into account a loss from her office, or employment, as president of a company from which she derived no income in the years under appeal. In my view she is entitled to do so, and her appeals must be allowed. A subsidiary and related issue is whether the Appellant is entitled to a goods and services tax (GST) rebate under section 253 of the Excise Tax Act in respect of the amount of her vehicle expenses that are subject to GST.
+[2] Ms. Hollingsworth started a business organizing tours for affinity groups of various kinds in 1991. She operated it as a proprietorship until 1994. In November of that year, she incorporated the business, principally to protect herself from personal liability as she was entering into very substantial contracts for the travel costs for some quite large groups. Since then she has been the sole shareholder and the president of Know the World Tours Organizers Inc. (KWTO).
+[3] Since its inception, Ms. Hollingsworth has devoted most of her time to developing her business. Since 1991, she has organized more than 50 group tours, and a considerable number of individual and family tours. The groups for which she has organized tours have been as small as two and as large as 40. She and her husband have done most of the work involved, and up to the end of the period with which these appeals are concerned they did it alone and without remuneration. Only recently has she added a paid employee, and started to pay a modest salary to herself and her husband. Prior to that, the company, although doing a substantial volume of business, made little profit. Ms. Hollingsworth contributed substantial working capital in the early years. In 1999 the company made a modest profit, and its prospects appear to be good. During the years with which the appeals are concerned, she paid herself no salary, simply because the company at that time could not afford to do so. It was always her intention that when there were profits she would take a reasonable salary.
+[4] The Appellant testified that her agreement with the company required that she use her private automobile while conducting the company's business, and that she pay the expenses of doing so without reimbursement. As is common when people enter into contracts with corporations of which they are the directing mind, the terms of her contract with KWTO were not reduced to writing. However she did file the prescribed form declaration of conditions of employment with her income tax return for 1997, signed by herself as president of KWTO, attesting that she was required to pay her own expenses, and that she received neither reimbursement nor an allowance for them. She also testified that she spent most of her time developing business, which frequently involved visiting representatives of potential group tours, and travel suppliers, meeting people at the airport, and other trips away from her office, which is located in her home.
+[5] Initially, the Respondent took the position that the Appellant had not incurred the expenses that she claimed in the three taxation years under appeal, that if she had incurred them they were not incurred for the purpose of earning income from a source of employment income, but instead were personal or living expenses, and finally that if all else failed they were not deductible because they were not reasonable. The Minister rejected the claim for a GST rebate on the basis that the expenditures were personal expenditures. At the conclusion of the evidence, counsel for the Respondent stated that she was satisfied that the Appellant had in fact incurred the expenses, and that they were not personal expenses but were incurred by the Appellant for the purpose of carrying out her duties as President of KWTO. She opposed the appeal simply on the basis that the Appellant did not have any income from employment by the company in the years under appeal and, therefore, was not an employee of the company, and did not have employment with the company that qualified as a source of income for the purposes of sections 3 and 5 of the Act.
+[6] The provisions of the Act that are relevant are set out in full in Appendix "A". It is sufficient, however, to know that sections 3 and 5 provide that, in computing income for the year, a taxpayer may take into account "loss for the year from an office, employment, business or property", and that a taxpayer's loss for a taxation year from an office or employment is the amount of the taxpayer's loss, if any, for the taxation year from that source. It is no longer disputed that the Appellant drove her automobile for the purpose of discharging her duties as the president of KWTO, or that in doing so she incurred expenses of $3,943, $7,993 and $8,675, respectively, in 1997, 1998 and 1999. The Respondent's opposition to the appeals, as I understood counsel, is grounded entirely in two propositions. The first is that a person cannot have a source of employment income in any given year unless she has employment income from that source in the year. The second is that a person cannot be an "employee" of a company unless she receives remuneration from the company.
+[7] I shall deal with the latter point first. The words "employee", "office" and "officer" are defined in section 248 of the Act in the following way:
+248(1) In this Act,
+"employee" includes officer.
+"office" means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and "officer" means a person holding such an office;
+It is clear from these definitions that Ms. Hollingsworth, who was undoubtedly an officer of the corporation at all material times, must at the same time have been an employee for purposes of the Act: see Scott v. Canada.[1] The Respondent's position is without any merit.
+[8] I am also of the view that the Appellant's employment must be considered to be a source of income, even though she derived no income from it in the relevant years. The appropriate analogy is to a business that produces no profit for its owner. It will nevertheless be considered to be a source of income if it is carried on as a commercial activity and in pursuit of profit, and not for personal reasons.[2] The Appellant devoted most of her time during the years under appeal to furthering the commercial interests of KWTO. She was engaged for only a few days in each year as a supply teacher, and that only to assist the principal for whom she had worked at an earlier time. She certainly carried out her duties for the company in a businesslike way, and with a view to making the company's business profitable. It was always the Appellant's intention that when the business became profitable, it would pay her a salary. Her employment by KWTO was a source of income in the relevant years, and the Appellant is, therefore, entitled to deduct her losses from that source from her income from other sources for the purpose of determining her income under section 3 of the Act. She is also entitled to the GST rebate provided for in section 253 of the Excise Tax Act in relation to her motor vehicle expenses incurred in the course of her employment for each year. There was no dispute as to the computation of these rebates.
+[9] The appeals are allowed and the reassessments are referred back to the Minister for reconsideration and reassessment on that basis. The Appellant is entitled to her costs, if any.
+Signed at Ottawa, Canada, this 18th day of March, 2003.
+"E.A. Bowie"
+J.T.C.C.
+APPENDIX "A"
+The relevant sections of the Act read:
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer's income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer's income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer's taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer's taxable net gain for the year from dispositions of listed personal property,
+exceeds
+(ii) the amount, if any, by which the taxpayer's allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer's allowable business investment losses for the year,
+(c) determine the amount, if any, by which the total determined under paragraph (a) plus the amount determined under paragraph (b) exceeds the total of the deductions permitted by subdivision e in computing the taxpayer's income for the year (except to the extent that those deductions, if any, have been taken into account in determining the total referred to in paragraph (a)), and
+(d) determine the amount, if any, by which the amount determined under paragraph (c) exceeds the total of all amounts each of which is the taxpayer's loss for the year from an office, employment, business or property or the taxpayer's allowable business investment loss for the year,
+and for the purposes of this Part,
+(e) where an amount is determined under paragraph (d) for the year in respect of the taxpayer, the taxpayer's income for the year is the amount so determined, and
+(f) in any other case, the taxpayer shall be deemed to have income for the year in an amount equal to zero.
+5(1) Subject to this Part, a taxpayer's income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(a) ...
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, by reason of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claimed a deduction for the year under paragraph (f);
+248(1) In this Act,
+"employee" includes officer.
+"office" means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and "officer" means a person holding such an office;
+CITATION:
+2003TCC134
+COURT FILE NO.:
+2002-2019(IT)I
+STYLE OF CAUSE:
+Dorothy Hollingsworth and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge E.A. Bowie
+DATE OF JUDGMENT:
+March 18, 2003
+APPEARANCES:
+Agent for the Appellant:
+Raymond F. Sim
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+94 DTC 6193 (F.C.A.) per Heald J.A. at p. 6196.
+[2]
+Stewart v. Canada, 2002 SCC 46, paragraphs 50-54.

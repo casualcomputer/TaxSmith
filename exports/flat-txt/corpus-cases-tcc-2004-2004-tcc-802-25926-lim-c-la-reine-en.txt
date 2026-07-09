@@ -1,0 +1,219 @@
+Title: Lim c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25926/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-802-25926-lim-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-12-08
+
+# Lim c. La Reine
+
+- Citation: 2004 TCC 802
+- Decision date: 2004-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3659, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lim c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-08
+Neutral citation
+2004 TCC 802
+File numbers
+2003-3033(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3033(GST)I
+BETWEEN:
+BUON HO LIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 19, 2004, at Montreal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Bruno Bernier
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears number 03110466, dated November 8, 2002, for the period from April 1 to September 30, 2000, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of December 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC802
+Date: 20041208
+Docket: 2003-3033(GST)I
+BETWEEN:
+BUON HO LIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal pursuant to the informal procedure from an assessment bearing number 03110466, dated November 8, 2002, in the amount of $19,551.81, for the period from April 1 to September 30, 2000.
+[2] The Appellant claims that did not have the capability to provide the services set out in the two invoices for the amounts of $100,000 and $125,000 respectively, and therefore, there was no taxable supply. The Respondent considers that, by issuing the two invoices, the Appellant took on the quality of a supplier of taxable supplies. The amount of the invoices indicates that he was not a small supplier and should have collected tax.
+[3] The first invoice is dated June 2, 2000, and the second is dated August 8, 2000. These invoices were filed as exhibits A-7 and A-8. They read as follows:
+[TRANSLATION]
+(Exhibit A-7)
+BUON HO LIM
+8820 10E AVENUE
+MONTREAL, QUEBEC
+H1Z 3C2
+JUNE 2, 2000
+2866-0272 QUÉBEC INC.
+15 GAMBLE STREET EAST, SUITE #204
+ROUYN-NORANDA, QUEBEC
+J9X 3B6
+ATTENTION: GILLES FISET, PRESIDENT
+FEES FOR CONSULTATION AND SEARCH FOR FUNDING FOR VARIOUS FUTURE INVESTMENT PROJECTS, AS PER DISCUSSIONS
+$99,500.00
+ALLOWANCE FOR AUTOMOBILE
+$65.00
+PER DIEM FOR LUNCH WITH POTENTIAL INVESTORS AND BROKERS
+$425.00
+MISCELLANEOUS DISBURSEMENTS (STATIONERY, STAMPS, ETC.)
+$10.00
+TOTAL
+$100,000.00
+P.S. These fees will be payable via the surrender of a total of four hundred thousand (400,000) shares in Exploration Loubel inc. belonging to the company 2866-0272 Québec inc. over the next few weeks.
+INVOICE #020600
+(initials)
+BUON HO LIN
+(signature)
+2866-0272 QUÉBEC INC.
+By Gilles Fiset, President
+(Exhibit A-8)
+BUON HO LIM
+8820 10E AVENUE
+MONTREAL, QUEBEC
+H1Z 3C2
+AUGUST 8, 2000
+2866-0272 QUÉBEC INC.
+15 GAMBLE STREET EAST, SUITE #204
+ROUYN-NORANDA, QUEBEC
+J9X 3B6
+ATTENTION: GILLES FISET, PRESIDENT
+FEES FOR CONSULTATION AND SEARCH FOR FUNDING FOR VARIOUS FUTURE INVESTMENT PROJECTS, AS PER DISCUSSIONS
+$124,325.00
+ALLOWANCE FOR AUTOMOBILE
+$85.00
+PER DIEM FOR LUNCH WITH POTENTIAL INVESTORS AND BROKERS
+$575.00
+MISCELLANEOUS DISBURSEMENTS (STATIONERY, STAMPS, ETC.)
+$15.00
+TOTAL
+$125,000.00
+P.S. These fees will be payable via the surrender of a total of one hundred thousand (100,000) shares in Exploration Tom inc. belonging to the company 2866-0272 Québec inc. over the next few weeks.
+INVOICE #080800
+(initials)
+(signature)
+BUON HO LIN
+2866-0272 QUÉBEC INC.
+By Gilles Fiset, President
+[4] In his testimony, the Appellant acknowledged that the initials shown on Exhibit A-7 were indeed his initials. He did not recognize the initials on Exhibit A-8. He also acknowledged that he had received the shares mentioned in Exhibit A-7, but he added that he was not their actual owner. He says he has never met Mr. Fiset.
+[5] He explained the circumstances surrounding the signing of at least one of the invoices to his counsel as follows:
+[TRANSLATION]
+Q. OK, so you did not provide those services?
+A. No.
+Q. All right, we see below on the . . . on the . . . who finally approached you? How did that work? Why is your signature on at least one of the invoices? How . . . can you describe to the Court how that took place?
+A. What happened, Madam Justice, was that my friend Jacky told me he had a deal for me. How do I say . . . how am I going to say that? All you had to do was sign an invoice and you'd have a little bit of money . . . and then I never got it; nothing ever happened.
+Q. And how did that invoice come to you?
+A. Well, I received it through him, Madam Justice, then they faxed it, and all I did was sign it. I signed it, that's all.
+Q. OK. Were you given a copy of that invoice?
+A. No.
+Q. Did you see the original invoice?
+A. No.
+Q. OK, did you receive something in return for that or further to that document?
+A. No.
+Q. OK. At the bottom it states, if you look in the . . . PS, there, do you see the note?
+A. Yes.
+Q. All right. It says that the fees will be payable. Did you receive any shares?
+A. Yes, I received some shares, Madam Justice, I received some shares. I'm just the name on the shares though; I'm not the real owner of them.
+Q. OK.
+A. And I gave all that, everything, over to my friends. His name is Tri Min, and his name is Hui. Yes, I gave them everything. I went to look for . . . I had come (inaudible) completed that; I had to give it over to those people. And I always gave it.
+Q. Finally, at the end of the process, did you receive money?
+A. No.
+Q. No money.
+A. No.
+[6] The Appellant said he had completed his fourth year of high school. He was three credits away from completing his fifth year of high school. He was currently employed in garment pressing.
+[7] Exhibit A-3 is a statement of information from the Registraire des entreprises regarding a sole proprietorship. It shows that, on February 14, 2000, there was a registration in the Appellant's name, and at his request, a deregistration took place on March 29, 2000. The economic activity concerned a restaurant located in Rouyn-Noranda.
+[8] The Appellant explained that a friend had allegedly asked him to take over a restaurant he had in Rouyn-Noranda. He had tried things out for two or three months, but when he realized it was not for him, he had requested the removal of his business registration.
+[9] The Revenu Québec auditor had met with the Appellant on September 16, 2002. His report was filed as Exhibit A-9. The auditor says that the Appellant did not deny the fact that he had worked on the subject of the business shares and had been paid in shares. However, he had told her that he did not remember issuing the invoices that had been submitted, and he had suggested to her that the signatures may have been copied. During that meeting, the Appellant's signatures on the two invoices had been analyzed in comparison with the signatures appearing on his driver's licences and other pieces of identification. The auditor found them to be identical.
+[10] The registration numbers already granted to the Appellant had been reactivated. He was not a small supplier, since the supplies that had been made far exceeded the threshold of $30,000. The Appellant had been assessed for unreported tax in connection with the two invoices for consultation services.
+[11] The Appellant's invoices had been invoiced by 2866-0272 Québec Inc. to Exploration Loubel Inc. and Exploration Tom Inc. Those invoices from 2866-0272 Québec Inc. added taxes to the total amount. Exploration Tom Inc. and Exploration Loubel Inc. had claimed input tax credits.
+Arguments
+[12] Counsel for the Appellant argued that the Appellant had not made a taxable supply because a taxable supply is a supply made in connection with a commercial activity. He maintains that the Appellant did not provide the services set out in the invoices without acknowledging that he participated in a scheme. He also claims that the Appellant is not carrying on any commercial activities.
+[13] Counsel for the Respondent argued that there is no proof that the invoices are fictitious. Therefore, the Minister of National Revenue was entitled to take them at their face value. It was the Appellant's responsibility to show that the services had not been provided to 2866-0272 Québec Inc. and there had been no commercial activity.
+Analysis and conclusion
+[14] The Appellant's versions of the facts have changed a number of times. During his meeting with the auditor, the Appellant said that his initials had been imitated, and he did not remember issuing the invoices, even though he remembered working on some investment projects. The notice of objection states that the invoices in question had been prepared without the taxpayer's knowledge. Then, at the hearing, the Appellant acknowledged that they were his initials on one of the invoices, but not on the other, whereas the initials appear to be similar in every aspect on both invoices.
+[15] I must conclude that the Appellant wrote his initials on the invoice himself and he wrote them of his own will, and not under threat.
+[16] Article 2863 of the Civil Code of Québec reads as follows:
+The parties to a juridical act set forth in a writing may not contradict or vary the terms of the writing by testimony unless there is a commencement of proof. - CCLC 1234
+[17] This provision has been interpreted a number of times by this court in income tax cases. I am referring in particular to Garon J.'s decision in Transport Touchette Inc. v. Canada, [1999] T.C.J., No. 550 (Q.L.), Dussault J.'s decision in Tanguay v. Canada, [1997] T.C.J., No. 16 (Q.L.), and Lamarre J.'s decision in Dubois v. Canada, [2003] T.C.J., No. 80 (Q.L.).
+[18] From this last decision, I cite paragraph 33:
+[TRANSLATION]
+Thus, if as a general rule, the parties to a juridical act in Quebec may not have recourse to testimonial evidence to contradict or vary the terms of the writingthat witnesses it, it seems that they could have recourse to third parties, at least in tax matters, or in any case, when there is a commencement of proof. This commencement of proof may arise where an admission of the party adverse to the written contract or its agent, or the production of a material thing gives an indication that the content of the writing may be inaccurate. (See Ducharme, Léo, summary of evidence, supra, page 270, paragraph 915, and page 331, paragraph 1109.) Thus, if the admission of the adverse party or the production of a material thing gives an indication that the content of the writing may be inaccurate, that is a commencement of proof giving rise to testimonial evidence to endeavour to show it.
+[19] These decisions concerned the Income Tax Act. Would the same interpretation be given in the context of this act? I do not need to decide on this aspect because, given the circumstances of this case, there were no admissions from the co-contracting party, and no material thing has been produced. There is nothing more than the Appellant's testimony. That is not sufficient. In fact, that cannot even be taken into consideration, especially when we consider the nature of the reasons cited to contradict the writing, a nature that is related to the Appellant's turpitude.
+[20] The principle whereby no one should be heard by pleading his own turpitude is one of the legal foundations of estoppel.
+[21] In National Bank of Canada v. Soucisse, [1981] 2 S.C.R. 339 (Q.L.), at page 362, Beetz J. clearly states that, when an individual pleads his own turpitude against some legal consequences, he may not derive any profit from it.
+70 One possible legal basis for a fin de no-recevoir is the wrongful conduct of the party against whom the fin de no-recevoir is pleaded. Mignault J. refers to this in the above-cited passage from Grace and Company v. Perras (supra) when he refers to arts. 1053 et seq. of the Civil Code. This is noted by Lemerle at p. 144 of his treatise, where he writes:
+[TRANSLATION]
+No complaint can be based on, nor advantage derived from, one's own action, negligence, imprudence, or incapacity, much less fault, to the detriment of another. This proposition is based on the fact that no one should derive a benefit from a fault committed by him: on the contrary, he should repair the damage he has caused.
+[22] By the same token, Louise Mailhot J., of the Court of Appeal of Québec, applied the maxim nemo auditur turpitudinem suam allegans to her decision in Fecteau c. Gareau, [2003] J.Q. no 39 (Q.L.), paragraph 49:
+[TRANSLATION]
+49 In my opinion, the maxim nemo auditur turpitudinem suam allegans is a general prohibition for any persons who base their arguments on their own turpitude and a basis for a fin de non-recevoir. Thus the fin de non-recevoir may, in a suitable case, be pleaded to prevent a party from putting forward an argument that would otherwise be a justification for his enrichment.
+[23] In conclusion, a person who represents himself in writing as having made a supply that has impacts with regard to the Act may not, when that person is taxed in respect of that supply, plead his own turpitude to contradict that writing and spare himself the consequences related to the act that was apparently done.
+[24] The appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of December 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC802
+COURT DOCKET NO.:
+2003-3033(GST)I
+STYLE OF CAUSE:
+Buon Ho Lim and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 19, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+December 8, 2004
+APPEARANCES:
+For the Appellant:
+Bruno Bernier
+For the Respondent:
+Benoit Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bruno Bernier
+Firm:
+Ravinsky, Ryan
+Montreal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,213 @@
+---
+title: "White v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27064/index.do"
+last_modified: "2005-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 656"
+citation2: ""
+neutral_citation: "2005 CCI 656"
+decision_date: "2005-10-11"
+language: "fr"
+item_id: "27064"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 519
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:27:28.502000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3cf507fa7090e8c8ffad235c17954a464a0f49262655a5578dd870751c2861d6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# White v. The Queen
+
+- Citation: 2005 CCI 656
+- Decision date: 2005-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 519, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-11
+Référence neutre
+2005 CCI 656
+Numéro de dossier
+2004-4557(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4557(IT)I
+ENTRE :
+ELISA WHITE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Calgary (Alberta), les 21 et 22 juin 2005
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2001, 2002 et 2003 sont admis sans frais et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour d'octobre 2005.
+Juge Little
+Traduction certifiée conforme ce 2e jour d'août 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI656
+Date : 20051011
+Dossier : 2004-4557(IT)I
+ENTRE :
+ELISA WHITE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS :
+[1] L'appelante et John James ( « M. James » ) se sont mariés le 29 juillet 1989.
+[2] L'appelante et M. James ont deux enfants :
+Date de naissance
+Robyn Jasper James 22 novembre 1990
+Brockton Zachary James 30 décembre 1992
+[3] L'appelante et M. James ont divorcé le 3 février 1997.
+[4] L'ordonnance de divorce rendue par la Cour du Banc de la Reine de l'Alberta prévoyait ce qui suit :
+a) l'appelante aura la garde exclusive des enfants;
+b) l'époux aura un droit de visite auprès des enfants;
+c) l'époux paiera à l'appelante une pension alimentaire pour enfants nette d'impôt de 600 $ par mois pour chaque enfant, à compter du 15 mars 1997 et, par la suite, le 15e jour de chaque mois tant que les enfants seront considérés comme des « enfants à charge » selon la Loi sur le divorce;
+d) la demande de l'appelante visant à obtenir une pension alimentaire rétroactive est rejetée;
+e) les sommes dues aux termes de l'ordonnance doivent être payées au directeur de l'exécution des ordonnances alimentaires et ce dernier doit en exiger le paiement à moins que l'appelante ne dépose à la Cour du Banc de la Reine de l'Alberta et auprès du directeur un avis écrit selon lequel elle ne veut pas que l'ordonnance soit exécutée par le directeur;
+[5] L'appelante a reçu une pension alimentaire de 14 400 $ pour chacune des années d'imposition 1999, 2000, 2001, 2002 et 2003.
+[6] La pension alimentaire a été reçue en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent, ou en vertu d'un accord écrit, à titre de pension alimentaire ou autre paiementadmissible payable périodiquement pour subvenir aux besoins de l'appelante, des enfants à charge ou à la fois de l'appelante et des enfants à charge.
+[7] L'appelante vivait séparée de M. James, lequel devait effectuer les paiements, au moment où les paiements étaient effectués et pendant le reste de l'année.
+[8] Le ministre du Revenu national (le « ministre » ) a établi des cotisations pour les années d'imposition 1999, 2001, 2002 et 2003 en vue d'inclure la pension alimentaire de 14 400 $ dans le revenu de l'appelante pour ces années-là.
+B. LES QUESTIONS EN LITIGE :
+[9] Voici les questions à trancher :
+a) La pension alimentaire que l'appelante a reçue pendant les années d'imposition 1999, 2001, 2002 et 2003 doit-elle être incluse dans le calcul de son revenu?
+b) La Cour canadienne de l'impôt a-t-elle le pouvoir d'accorder un allégement à l'appelante aux termes du paragraphe 220(3.1) de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard des pénalités et des intérêts établis?
+C. ANALYSE :
+[10] Sous ce qu'on a parfois décrit comme l'ancien régime fiscal (avant mai 1997), le conjoint qui versait à son ex-conjoint ou au conjoint dont il était séparé une pension alimentaire pour ses enfants pouvait déduire la pension et le bénéficiaire devait l'inclure dans son revenu.
+À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. Canada, [1995] 2. R.C.S. 627, la Loi de l'impôt sur le revenu (la « Loi » ) a été modifiée et de nouvelles dispositions ont été introduites concernant les pensions alimentaires pour enfants.
+[11] Selon la Loi modifiée, si un accord conclu avant mai 1997 reste inchangé, le système de déduction/inclusion de l'ancien régime fiscal continue de s'appliquer. Toutefois, si un nouvel accord est conclu par les parties, si une nouvelle ordonnance d'une cour est rendue ou si un ancien accord est modifié d'une façon quelconque, le régime de déduction/inclusion ne s'applique pas et seuls les versements effectués jusqu'à la « date d'exécution » , telle que définie dans la Loi, sont déductibles du revenu par le payeur et à inclure dans le revenu par le bénéficiaire.
+[12] Le paragraphe 56.1(4) de la Loi définit les expressions « date d'exécution » , « pension alimentaire » et « pension alimentaire pour enfants » . Voici le libellé du paragraphe 56.1(4) :
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[13] Et voici le libellé du paragraphe 60b) de la Loi :
+b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+[14] Au cours de l'audience, l'appelante a déclaré dans son témoignage que M. James lui versait un supplément de pension alimentaire mensuelle depuis le mois de mai 1999 selon un accord oral qu'elle avait conclu avec lui.
+[15] Je dois décider si l'accord oral que l'appelante a conclu avec M. James afin de changer la pension alimentaire mensuelle constitue une « modification » de l'accord conclu en avril 1997.
+[16] Dans le jugement de divorce et l'ordonnance de mesures accessoires rendus par le juge Hart de la Cour du Banc de la Reine de l'Alberta le 4 mars 1997, le juge a formulé les commentaires suivants :
+[traduction]
+4. LA cour ordonne que l'intimé paye à la requérante une pension alimentaire pour enfants nette d'impôt de 600 $ par mois pour chaque enfant, à compter du 15 mars 1997 et, par la suite, le 15e jour de chaque mois tant que les enfants seront considérés comme des « enfants à charge » selon la Loi sur le divorce. [Non souligné dans l'original.]
+[...]
+10. LA cour ordonne que les sommes dues aux termes de l'ordonnance soient payées au directeur de l'exécution des ordonnances alimentaires et que ce dernier en exige le paiement à moins que la créancière ne dépose à la Cour et auprès du directeur un avis écrit selon lequel elle ne veut pas que l'ordonnance soit exécutée par le directeur, conformément à l'article 7 de la Maintenance Enforcement Act(pièce A-1).
+[17] Dans les motifs du jugement rédigés le 4 mars 1997 par M. le juge D.G. Hart, le commentaire suivant est formulé :
+[traduction]
+[5] L'intimé paiera à la requérante une pension alimentaire pour enfants nette d'impôt de 600 $ par mois pour chaque enfant, à compter du 15 mars 1997 et, par la suite, le 15e jour de chaque mois jusqu'à ce que la Cour rende une autre ordonnance (pièce A-2). [Non souligné dans l'original.]
+[18] Une partie d'une lettre de Ruellen Forsyth-Nicholson (l'avocate de l'appelante) a été déposée comme pièce A-5. Le commentaire suivant y est formulé :
+[traduction]
+Sa proposition, par contre, était qu'il devait payer 1 200,00 $ nets d'impôt par mois [...] [Non souligné dans l'original.]
+[19] Dans l'affaire Dangerfield v. The Queen, 2004 DTC 6025, la question dont avait été saisie la Cour d'appel fédérale était de savoir si la « date d'exécution » du 1er mai 1997 avait été précisée dans un jugement rendu par la Cour du Banc de la Reine du Manitoba dans une affaire de droit de la famille, selon lequel une pension alimentaire périodique pour enfants devait être versée à la demanderesse. Aux pages 6027-6028, le juge Linden a dit ce qui suit :
+[6] Au cours de l'année d'imposition 1999, la demanderesse a reçu 3 182 $ au titre de la pension alimentaire pour enfants. Elle n'a pas inclus ce montant dans son revenu, mais M. Mountney a déduit le montant en question de son revenu dans sa déclaration de revenu. La défenderesse a établi une nouvelle cotisation à l'égard de la demanderesse, qui a interjeté appel devant la Cour de l'impôt, et cette dernière a rendu un jugement contre elle.
+ANALYSE
+[7] À la suite de la décision rendue par la Cour suprême du Canada dans l'affaire Thibodeau c. La Reine, [1995] 1 C.T.C. 382, même si le droit du gouvernement d'imposer les versements effectués au bénéficiaire au titre d'une pension alimentaire a été reconnu, la législation a d'une façon générale été modifiée en vue d'éliminer, entre autres, l'obligation de payer un impôt sur les versements effectués au titre d'une pension alimentaire pour enfants conformément à des ordonnances ou accords écrits après une « date d'exécution » particulière. Le sous-alinéa 56.1(4)b)(iv) de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la Loi) renferme la définition pertinente suivante de la date d'exécution :
+56.1(4) date d'exécution : Quant à un accord ou une ordonnance : [...]
+56.1(4) "commencement day" at any time of an agreement or order means : [...]
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[8] Le problème qui se pose ici est que le jugement de la Cour a été prononcé le 21 avril 1997 et qu'il a formellement été signé le 5 mai 1997; or, il était expressément prévu que la clause c) qui y figurait, laquelle portait sur la pension alimentaire pour enfants, devait commencer à s'appliquer le 1er mai 1997. Il est certain que les jugements et les ordonnances sont considérés de la même façon par les Règles de la Cour du Banc de la Reine, Règ. Man. 553/88.
+[9] Il n'est pas contesté que le jugement ou l'ordonnance dans l'ensemble a pris pour effet le jour où il a été prononcé, conformément à l'article 1.04.1 des Règles de la Cour du Banc de la Reine, à savoir le 21 avril 1997. Il n'est pas non plus soutenu que le 5 mai 1997, soit la date à laquelle le jugement ou l'ordonnance a été signé, était important dans le présent appel. En effet, le litige porte sur la question de savoir si la partie du jugement ou de l'ordonnance concernant la pension alimentaire pour enfants peut avoir une date d'exécution différente de la date de prise d'effet (le 21 avril) du jugement ou de l'ordonnance dans son ensemble, à savoir le 1er mai 1997, soit la date précisée dans la clause portant sur les versements à effectuer au titre de la pension alimentaire pour enfants.
+[10] Le juge de la Cour de l'impôt, qui était apparemment d'avis que l'ordonnance dans son ensemble devait prévoir une date d'exécution commune, a statué que « la date à laquelle les versements de pension alimentaire doivent commencer ne peut pas être considérée comme la « date d'exécution » de l'ordonnance elle-même dans le cadre du sous-alinéa b)(iv) de la définition de l'expression « date d'exécution » . Il a en outre conclu qu' « il n'y a toujours pas de date d'exécution dans l'ordonnance elle-même » . Avec égards, je ne suis pas d'accord. Le juge de la Cour de l'impôt a commis une erreur de droit en arrivant à cette conclusion. Une ordonnance relative à une pension alimentaire doit comporter une date d'exécution (voir : Pach c. La Reine et Rosenberg, [2003] CAF 363, juge Malone), mais le libellé de l'ordonnance ici en cause précise, en vue du paiement de la pension alimentaire pour enfants, une « date d'exécution » qui est conforme aux dispositions du sous-alinéa 56.1(4)b)(iv).
+[...]
+[13] À mon avis, une date d'exécution a été précisée dans ce cas-ci à l'égard des versements à effectuer au titre de la pension alimentaire. Telle était clairement l'intention du juge qui a rendu l'ordonnance en question. La transcription démontre d'une façon concluante que le juge a, entre autres, rendu oralement une ordonnance distincte en tant que partie intégrante du jugement qui a été prononcé le 21 avril 1997, des versements mensuels de 250 $ devant commencer à être effectués le 1er mai 1997 au titre de la pension alimentaire. Certains doutes ont été exprimés au sujet de la question de la date d'exécution dans la transcription, mais la question a été réglée à la satisfaction du juge, qui voulait clairement se conformer à la nouvelle législation en précisant une date d'exécution permettant la non-imposition des versements effectués en faveur de la demanderesse. Cet avis est confirmé dans le feuillet de résumé d'ordonnance signé par le juge le 21 avril 1997, lequel comportait une inscription distincte sous le titre [traduction] « Pension alimentaire » , indiquant qu'un montant mensuel de 250 $ devait être payé [traduction] « à compter du 1er mai 1997 » . Les autres ordonnances qui ont été rendues dans ce document ne précisent pas la date d'exécution, car il n'était pas nécessaire d'en préciser une à des fins fiscales ou à d'autres fins.
+[14] Il ressort également clairement de la documentation qu'une date d'exécution était précisée, ce qui démontre que les parties voulaient préciser une date d'exécution en vue du paiement de la pension alimentaire pour enfants afin d'éviter de payer l'impôt sur les versements effectués conformément à la nouvelle législation. De toute évidence, le juge de la Cour de l'impôt croyait comprendre que c'est ce que voulaient la demanderesse et son avocat. Dans la lettre du 10 décembre 1996 qui a été incluse dans la preuve, l'avocat de la demanderesse a écrit au père de l'enfant pour l'informer qu'en vertu de la nouvelle loi, la demanderesse [traduction] « n'aura[it] pas à payer d'impôt sur ce montant et [qu'il] ne pourr[ait] pas déduire ce montant » . Le père n'a pas répondu à cette lettre; de plus, il n'a même pas comparu à l'audience, ce qui montrait qu'il était prêt à se plier aux ordonnances qui étaient rendues contre lui. S'il s'opposait aux ordonnances demandées, il aurait dû prendre les mesures nécessaires pour se défendre. Toutefois, il a par la suite, paradoxalement, déduit de son revenu déclaré le montant des versements effectués au titre de la pension alimentaire, contrairement à ce que voulaient la demanderesse, l'avocat et, selon toute probabilité, le juge qui a rendu l'ordonnance.
+[15] L'argument selon lequel la disposition en question exige qu'il soit expressément mentionné dans l'accord ou dans l'ordonnance que la date d'exécution est précisée « pour l'application de la présente loi » est dénué de fondement. Il ressort clairement de la jurisprudence que pareille condition technique n'est pas nécessaire. On exige uniquement que la date d'exécution soit incluse dans l'ordonnance pour l'application de la Loi; l'ordonnance n'a pas à énoncer expressément que la date est précisée pour l'application de la Loi. Il est souvent parfaitement évident, comme c'était ici le cas, que la date est précisée pour l'application de la Loi; si cela n'est pas évident, une preuve peut être présentée à cet égard, comme cela a été fait en l'espèce.
+[16] La demande sera accueillie, la décision du juge de la Cour de l'impôt sera annulée et l'appel que la demanderesse a interjeté contre la nouvelle cotisation établie pour son année d'imposition 1999 sera accueilli, les dépens étant adjugés en appel et en première instance.
+[20] Cette décision fait autorité à l'appui de la proposition selon laquelle des éléments de preuve peuvent être présentés pour indiquer l'intention des parties lors de leur comparution devant le juge Hart. En l'espèce, j'ai conclu que l'ordonnance de la Cour et les documents entre les parties indiquent que les parties voulaient que l'appelante reçoive la pension alimentaire « nette d'impôt » , c.-à-d. que l'appelante n'était pas tenue de payer de l'impôt à l'égard du montant qu'elle recevait de M. James.
+[21] Dans l'arrêt Kennedy c. Canada, [2004] A.C.F. no 2122, la Cour d'appel fédérale a examiné le traitement fiscal des pensions alimentaires pour enfants.
+[22] Au paragraphe 13, le juge Sexton a dit ce qui suit :
+13. Il me semble que, même si la définition de « date d'exécution » au paragraphe 56.1(4) aurait pu être plus claire, l'objet de la loi est de faire en sorte que le nouveau régime s'applique aux ordonnances ou aux accords établis après avril 1997 qui créent effectivement de nouvelles obligations. Les obligations créées sous l'ancien régime demeurent assujetties aux anciennes dispositions. C'est ce que confirme d'ailleurs le sous-alinéa b)(ii), qui prévoit que l'accord ou l'ordonnance qui fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants crée une nouvelle date d'exécution; dans ce cas, une nouvelle obligation est créée par suite de la modification apportée après avril 1997. Il en est de même du sous-alinéa b)(iii), qui prévoit qu'un accord ou une ordonnance subséquent établi après avril 1997 ayant pour effet de changer le total des montants de pension alimentaire pour enfants crée une date d'exécution.
+[23] Le commentaire suivant figure dans une note de service rédigée par Ross Forbes de Collins Barrow, Chartered Accountants, datée du 20 février 2004 :
+[traduction]
+John (c.-à-d. M. James) payait 1 200 $ par mois à Elisa jusqu'à maintenant. Nous estimons que John verse un « supplément » de pension depuis 1999. Actuellement, il verse un montant de 227 $ par mois, volontairement, selon un accord oral conclu avec Elisa (pièce A-13).
+[24] Je mentionne également un courriel daté du lundi 20 juin 2005 que M. James à envoyé à l'appelante. Voici une partie du courriel :
+[traduction]
+J'ai payé la pension alimentaire pour enfants fidèlement le 15e jour de chaque mois. J'ai payé un supplément de pension alimentaire pour enfants [...]
+[25] La pièce A-14 comportait également plusieurs autres courriels que M. James et l'appelante se sont échangés et dans lesquels était mentionné le « supplément » de pension alimentaire que M. James avait commencé à verser à l'appelante en mai 1999.
+[26] Compte tenu des éléments de preuve mentionnés ci-dessus, j'ai conclu que les parties avaient « modifié » l'ordonnance de la Cour quand M. James avait commencé à verser des « paiements supplémentaires » à l'appelante en mai 1999.
+[27] Par conséquent, une nouvelle date d'exécution a été établie en mai 1999 et le nouveau régime fiscal est applicable pour une partie de 1999 et pour les années d'imposition suivantes. L'appelante n'est pas tenue d'inclure la pension alimentaire pour enfants dans son revenu du mois de mai au mois de décembre 1999. L'appelante n'est pas tenue d'inclure la pension alimentaire pour enfants dans son revenu pour les années d'imposition 2001, 2002 et 2003.
+[28] Les appels sont admis sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour d'octobre 2005.
+Juge Little
+Traduction certifiée conforme ce 2e jour d'août 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI656
+NO DU DOSSIER DE LA COUR :
+2004-4557(IT)I
+INTITULÉ DE LA CAUSE :
+Elisa White c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATES DE L'AUDIENCE :
+Les 21 et 22 juin 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 11 octobre 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Dawn Taylor
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

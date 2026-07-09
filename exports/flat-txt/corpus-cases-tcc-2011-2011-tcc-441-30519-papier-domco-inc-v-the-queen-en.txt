@@ -1,0 +1,124 @@
+Title: Papier Domco Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30519/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-441-30519-papier-domco-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-21
+
+# Papier Domco Inc. v. The Queen
+
+- Citation: 2011 TCC 441
+- Decision date: 2011-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7349, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papier Domco Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-21
+Neutral citation
+2011 TCC 441
+File numbers
+2009-886(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-886(IT)G
+BETWEEN:
+PAPIER DOMCO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 20, 2011, at Montreal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Édouard Robert
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of September 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 25th day of February 2014.
+Erich Klein, Revisor
+Citation: 2011 TCC 441
+Date: 20110921
+Docket: 2009-886(IT)G
+BETWEEN:
+PAPIER DOMCO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] Papier Domco Inc. (the appellant) is appealing from reassessments made by the Minister of National Revenue (the Minister) for the taxation years ending November 30, 2000 and 2001. These assessments were made following an income tax audit performed during 2001 by Revenu Québec (Revenu Québec) with respect to GST and QST for the period from December 1, 1998, to September 30, 2001.
+[2] The audit by Revenu Québec resulted in GST, QST and provincial income tax assessments. Following an information exchange between Revenu Québec and the Minister, the Minister made the reassessments at issue so as to effect the same changes as those made by Revenu Québec:
+2000
+2001
+Increase in business income
+$128,353
+N/A
+Penalty under subsection 163(2) ITA
+$10,689
+N/A
+Refusal of carry-forward of non-capital losses
+N/A
+$10,964
+II. Summary of facts
+[3] The appellant operates a printing shop in the Blainville region, in Quebec. Dominic Cayer, the president and sole shareholder of the appellant, testified that until November 30, 2000, a two-colour press, purchased in 1997 for $285,000, was used by the business to carry on its activities. Since then, the printing industry has rapidly evolved and four- and six-colour presses have become popular.
+[4] Mr. Cayer explained that four-colour presses can perform the same number of prints as a two-colour press in less time because, for printing in four colours, documents must go through the two-colour press twice but only once through the four-colour press.
+[5] In the fall of 2000, Mr. Cayer contacted Jean-Jacques Charbonneau, the president of Multidick Inc. (Multidick) to inquire about the price of a used four-colour press. Mr. Charbonneau explained to him that Multidick had purchased a four-colour Komori press following a repossession. Multidick was willing to resell it for $385,000 plus taxes.
+[6] Mr. Cayer testified that he contacted GE Capital Canada Inc. (GE Capital) to inquire about financing terms. According to him, GE Capital was willing to finance a conditional sale, provided that the appellant pay a deposit of $82,846 for the press and that it produce financial statements for the current fiscal year in order to demonstrate that it was able to repay the principal and the interest on the loan. The income statement of the appellant for the period ending November 30, 1999, indicates a net profit of only $26,110. In order to embellish the financial statements of the appellant for the current fiscal year, Mr. Cayer decided to indicate that the appellant had sold to Multidick its two-colour Komori press at the price of $130,000. Mr. Cayer admitted that Multidick did not undertake to purchase that press, but simply agreed to assist him in finding a purchaser. Mr. Cayer explained that at the end of the 2000 fiscal year the auditors required that he reverse the sale in his books, as the press had not been sold.
+[7] According to the witness, the difference of $128,353 observed by Revenu Québec and the Minister between the sales indicated in his sales journal and those reported in his financial statements for the 2000 taxation year is attributable solely to that fact. According to Mr. Cayer, the sale was reversed for the reasons mentioned above. However, in order to ensure that the financial statements for that fiscal year showed a financial situation that justified the maintaining of the company’s line of credit, Mr. Cayer and Mr. Gagnon, the company’s external accountant, agreed to indicate on the balance sheet a debt of $130,000 as financing advanced from a private corporation. The debt and advance of $130,000 were written off on the balance sheet produced for the 2001 fiscal year. Mr. Cayer claims that the appellant could afford to write off the debt in that fiscal year as self-financing for the period in question was $115,829, almost double that for the previous fiscal year.
+[8] France Lalonde, now an auditor for the Canada Revenue Agency (the CRA), testified that she undertook the GST and QST audit as an auditor for Revenu Québec in August 2001. Ms. Lalonde’s audit enabled her to determine that there was a discrepancy between the sales recorded in the financial statements and those entered in the GST and QST returns. The sales recorded in the general ledger and in the GST and QST returns amounted to $1,254,442, whereas those recorded in the income statement came to $1,138,588, that is, a difference of $128,353.
+[9] According to Ms. Lalonde, Raynald Gagnon, the appellant’s accountant, provided contradictory explanations for the difference. Mr. Gagnon first informed her that the company had sold its press. Apparently, Mr. Gagnon abandoned that explanation when Ms. Lalonde asked to verify the entry of the sale in the sales journal, to examine the invoice and then to go on site to see the equipment in question. Mr. Gagnon then offered a second explanation. He said that there were credit notes corresponding to bad debts of $130,077, which Ms. Lalonde had not taken into account. Ms. Lalonde decided not to accept that second explanation, as most of the credit notes had been issued to businesses belonging to Mr. Gagnon or to businesses that had been dissolved for a very long time.
+III. Analysis
+[10] Subparagraph 152(4)(a)(i) of the Income Tax Act reads as follows:
+152(4) Assessment and reassessment [limitation period] – The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+[Emphasis added.]
+[11] Under paragraph 152(4)(a), the burden of proof is on the respondent, who must establish, on a balance of probabilities, that the appellant failed to include $128,353 in its income for the 2000 taxation year and that the omission was attributable to neglect, carelessness or wilful default by the appellant. The respondent’s evidence is essentially based on the discrepancy noted by Ms. Lalonde between the sales recorded in the general ledger and those reported in the income statement of the appellant. The respondent is asking that I reject the explanations given by Mr. Cayer, as contradictory versions were provided by Mr. Gagnon to Revenu Québec officials. In my view, that is not a sufficient basis for rejecting the testimony of Mr. Cayer. Mr. Cayer acknowledged that he had requested that the financial statements be embellished in order to ensure that financing for his company would be maintained. His testimony is corroborated in part by the financial statements. On the one hand, $130,000 of financing disappeared in 2001; on the other hand, a debt equivalent to that same amount was written off. The respondent had the burden of proving that the circumstances justify reassessing beyond the normal reassessment period. The explanation given by Mr. Cayer is credible. I can understand why he would have decided to take extraordinary measures to save his business. I can also understand why Mr. Gagnon did not want to put any emphasis on the fact that he was a party to the entering of a non-existent sale in his client’s financial statements. It is entirely plausible that Mr. Gagnon abandoned that explanation when the auditor challenged it. It must be borne in mind that the financial institution and GE Capital relied on the financial statements in maintaining their funding. Mr. Charbonneau, the president of Multidick, corroborated in part the testimony of Mr. Cayer when he stated that Multidick did not purchase the appellant’s two-colour press. It would have been useful to hear Mr. Gagnon’s testimony, and since the burden of proof is on the respondent, I believe the respondent should have called Mr. Gagnon to the stand to attempt to contradict the explanations of Mr. Cayer. While the appellant’s evidence is not perfect, since the burden of proof is on the respondent the appellant should be given the benefit of the doubt.
+[12] Consequently, the assessment for the 2000 taxation year is vacated. Since the assessment for the 2001 taxation year is based on the assessment for the 2000 taxation year, it is also vacated. Costs are awarded to the appellant.
+Signed at Ottawa, Canada, this 21st day of September 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 25th day of February 2014.
+Erich Klein, Revisor
+CITATION: 2011 TCC 441
+COURT FILE NO.: 2009-886(IT)G
+STYLE OF CAUSE: PAPIER DOMCO INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 20, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: September 21, 2011
+APPEARANCES:
+Counsel for the appellant:
+Édouard Robert
+Counsel for the respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Édouard Robert
+Firm: Laval, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

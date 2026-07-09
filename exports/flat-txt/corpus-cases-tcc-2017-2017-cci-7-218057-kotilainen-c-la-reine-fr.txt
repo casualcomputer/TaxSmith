@@ -1,0 +1,148 @@
+Title: Kotilainen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218057/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-7-218057-kotilainen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-01-17
+
+# Kotilainen c. La Reine
+
+- Citation: 2017 CCI 7
+- Decision date: 2017-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2960, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kotilainen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-01-17
+Référence neutre
+2017 CCI 7
+Numéro de dossier
+2012-1830(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1830(IT)G
+ENTRE :
+ANTTI J. KOTILAINEN,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 28 et 29 novembre 2016, à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Tony Cheung
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli, et les nouvelles cotisations sont annulées conformément aux motifs du jugement ci‑joints. Les parties assumeront leurs propres frais.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2017.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2017 CCI 7
+Date : 20170117
+Dossier : 2012-1830(IT)G
+ENTRE :
+ANTTI J. KOTILAINEN,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. INTRODUCTION
+[1] Par avis simultanés de nouvelle cotisation datés du 12 avril 2011, le ministre du Revenu national (le « ministre ») a augmenté la dette fiscale d’Antti J. Kotilainen (l’« appelant ») pour les années d’imposition 2003 et 2004. L’appelant a fait l’objet de cotisations concernant des avantages conférés à un actionnaire, lesquelles s’élèvent à 96 451 $ pour l’année d’imposition 2003 et à 70 701 $ pour l’année d’imposition 2004; ces avantages se rattachaient aux fonds retirés par l’appelant de 933093 Ontario Ltd. (la « société »). L’appelant était, pendant toute la période en cause, le seul actionnaire de la société.
+[2] Le ministre a également imposé à l’appelant des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Les nouvelles cotisations ont été établies après l’expiration du délai de prescription normal de trois ans.
+[3] L’appelant reconnaît avoir reçu les fonds assimilés, dans la cotisation, à des avantages conférés à un actionnaire. Il reconnaît également que la société a versé 50 000 $ à son ex‑épouse afin qu’il puisse obtenir le titre de propriété absolu de leur résidence principale.
+[4] L’appelant soutient que la société a simplement remboursé une partie des emprunts à un actionnaire contractés auprès de lui. Il affirme que l’entreprise de la société, un motel, n’était pas rentable durant la période au cours de laquelle elle a exploité ce commerce. Il a dû prêter des fonds à la société afin qu’elle puisse poursuivre ses activités ou donner un nouvel essort à sa propriété.
+[5] L’avocat de l’intimée a mérité nos éloges pour avoir aidé l’appelant à présenter ses éléments de preuve documentaire et à faire valoir sa cause de façon générale en bonne et due forme devant la Cour. L’appelant croyait à tort que ses éléments de preuve documentaire seraient versés au dossier de la Cour par l’intimée. Il ne s’est pas fait représenter par un avocat et, comme c’est souvent le cas, il ne savait pas comment présenter sa preuve à la Cour.
+[6] Au cours du procès, après que la preuve eut été présentée, l’avocat de l’intimée a reconnu que l’appelant avait prêté des fonds à la société pendant l’année d’imposition 2002. Cette concession était fondée sur des éléments de preuve documentaire présentés par l’appelant et versés au dossier par l’intimée. Ces documents avaient déjà été montrés au vérificateur de l’Agence du revenu du Canada (l’« ARC ») lors de la vérification visant le contribuable. Le vérificateur de l’ARC chargé d’effectuer la vérification visant le contribuable n’a pas admis l’explication de l’appelant, soit que la société lui devait l’argent qu’il avait retiré, parce que les emprunts ne figuraient pas dans les bilans de la société. Le vérificateur a également conclu que les éléments de preuve documentaire présentés par l’appelant n’étaient pas fiables et ne permettaient pas d’établir le montant de ses prêts d’actionnaire.
+[7] Le ministre affirme maintenant que l’appelant a reçu des avantages conférés à un actionnaire à hauteur de 50 000 $ (la somme payée à l’épouse de l’appelant sur ordre de ce dernier) et de 44 637 $ pour les années d’imposition 2003 et 2004, respectivement (collectivement appelés « les montants révisés »). L’intimée convient également que l’appelant n’est pas passible des pénalités pour faute lourde. Elle a défendu le bien-fondé du reste des cotisations.
+II. LES QUESTIONS EN LITIGE
+[8] Les questions en litige sont les suivantes :
+a) L’intimée s’est‑elle acquittée du fardeau qui lui incombait de justifier l’établissement, après la période normale, de nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 2003 et 2004?
+b) Si oui, les montants révisés ont‑ils été inclus comme il se devait dans le revenu de l’appelant pour les années d’imposition qui font l’objet de l’appel?
+III. LE CONTEXTE
+[9] L’appelant, Antti J. Kotilainen, est un architecte qui mène ses activités sous le nom commercial Antti Kotilainen Architect.
+[10] À la fin des années 1980, l’appelant est devenu co‑investisseur dans un motel de 14 chambres situé à Parry Sound, en Ontario (la « propriété »). À ce moment‑là, le motel était délabré et n’était pas rentable. Toutefois, l’appelant et ses co‑investisseurs croyaient que la propriété était située à un endroit stratégique, c’est‑à‑dire à Parry Sound, un port en eau douce profond de la baie Géorgienne, une destination touristique populaire dans la région du lac Huron. Les co‑investisseurs prévoyaient donner un nouvel essor au motel grâce à des améliorations aux immobilisations.
+[11] Le projet initial s’est soldé par un échec. L’appelant a acheté les intérêts de ses co‑investisseurs. Il a fondé la société à cette fin et en est devenu l’unique actionnaire. La société a pris en charge l’hypothèque sur la propriété en échange d’une contrepartie symbolique versée aux co‑investisseurs.
+[12] La preuve montre que, vers 1991, l’appelant a commencé à consacrer une partie importante de son temps au réaménagement de la propriété. De ce fait, il a délaissé peu à peu ses activités d’architecte. Malgré tous les efforts de l’appelant, l’entreprise n’a jamais été rentable de 1991 à 2002. La société a déclaré des pertes fiscales totalisant environ 425 000 $ dans ses déclarations de revenus pour cette période. L’appelant affirme qu’il a dû couvrir ces pertes afin d’éviter la saisie de la propriété et qu’il a utilisé ses fonds personnels à cette fin. Il semble, selon la preuve, que les reports de perte importants de la société ont pesé lourd dans la décision du ministre de ne pas procédér à la vérification des activités de la société.
+[13] La preuve montre que, en 2002, l’appelant a hypothéqué de nouveau sa résidence principale située à Toronto. Il a reçu un prêt dont le produit net était d’environ 70 000 $, qui a été déposé dans son compte personnel de la Banque Royale du Canada. Comme il a été mentionné plus haut, l’avocat de l’intimée a reconnu que l’appelant avait utilisé plus de 50 % de l’emprunt pour financer les activités de la société en 2002. Je remarque que le prêt de l’appelant à la société n’a pas été inscrit au passif dans le bilan de la société pour l’exercice se terminant le 31 décembre 2002.
+[14] Les circonstances dans lesquelles a eu lieu la vérification sont dignes de mention. Celle‑ci a commencé le 20 novembre 2008 et s’est terminée le 12 avril 2011, lorsque le ministre a émis les avis de nouvelle cotisation simultanés.
+[15] Au départ, la vérification était effectuée par Rajini Masilamany. Il semble que Mme Masilamany ait quitté la fonction publique au printemps 2009, avant d’avoir terminé sa vérification. L’appelant affirme avoir communiqué avec Mme Masilamany et lui avoir fourni les documents qu’il avait en sa possession à ce moment‑là. Le délai de prescription normal de trois ans a expiré sans que l’ARC présente de demande de renonciation.
+[16] Dans son témoignage, l’appelant a dit avoir cru que Mme Masilamany était satisfaite des réponses qu’il avait données aux questions initiales. Il a été surpris d’apprendre que, à l’automne 2010, la vérification était toujours en cours. M. Gajewski avait été chargé de terminer la vérification entamée par Mme Masilamany. Il semble, selon le dossier de la vérification, qu’il a commencé son travail de vérification le 7 octobre 2010. Ses notes de vérification montrent qu’on le pressait de terminer la vérification. Il a été le seul témoin à comparaître pour l’intimée.
+[17] M. Gajewski a rencontré l’appelant le 22 novembre 2010 pour lui exposer les conclusions de sa vérification. En résumé, il a remarqué que la société avait réhypothéqué la propriété le 28 octobre 2003. La société a reçu un prêt dont le produit net était d’environ 235 000 $. La vérification de M. Gajewski révélait que l’appelant avait retiré de ces fonds 96 451 $ en 2003 et 70 701 $ en 2004 [1] .
+[18] M. Gajewski a dit à l’appelant que ces sommes seraient considérées comme des avantages conférés à un actionnaire pour le calcul des cotisations, conformément au paragraphe 15(1) de la Loi, à moins que l’appelant puisse établir que les sommes retirées n’étaient pas imposables. En fin de compte, M. Gajewski n’a pas admis l’explication de l’appelant selon laquelle la société ne faisait que rembourser les emprunts qu’elle avait contractés auprès de lui.
+[19] M. Gajewski a répondu sans réserve aux questions de la Cour sur son travail de vérification. Je lui ai demandé pourquoi il n’avait pas utilisé la méthode de l’avoir net combiné afin de déterminer si l’appelant avait omis de déclarer des revenus visés au paragraphe 15(1). Il s’est dit presque certain que la société n’avait pas de revenus non déclarés. Je présume que les nombreuses pertes annuelles déclarées par la société au fil des ans ont convaincu l’ARC à cet égard.
+[20] J’ai demandé à M. Gajewski pourquoi il n’avait pas admis l’explication de l’appelant selon laquelle il avait prêté de l’argent à la société afin de couvrir les pertes d’exploitation que cette dernière avait accumulées. Rien au dossier ne permet de conclure que, avant 2003, la société avait obtenu des prêts d’autres tiers ou des injections de capitaux pour couvrir ses pertes. Cela m’amène à penser que l’explication de l’appelant est vraie.
+[21] J’ai relevé d’autres lacunes en examinant les bilans de la société. Les pertes d’exploitation n’y figuraient pas. Je présume qu’il ne serait pas possible de comptabiliser correctement les prêts d’actionnaire consentis par l’appelant dans les bilans de la société sans tenir compte de l’incidence des pertes d’exploitation sur le compte de capitaux propres de la société.
+[22] À ce sujet, l’appelant a expliqué que c’était son beau‑fils qui préparait les états financiers et les déclarations de revenus de la société. La société ayant des ressources limitées, elle ne pouvait se permettre de retenir les services d’un professionnel. Le beau‑fils de l’appelant a fait de son mieux dans les circonstances. J’admets cette explication.
+IV. ANALYSE
+[23] Il est important de rappeler qu’il incombe à l’intimée de montrer que l’appelant a fait une présentation erronée de ses revenus en ne comptabilisant pas correctement, par négligence, inattention ou omission volontaire, des avantages conférés à un actionnaire visés dans les montants révisés pour les années d’imposition 2003 et 2004.
+[24] Le fait que le ministre ait utilisé la méthode des dépôts pour établir une nouvelle cotisation à l’égard de l’appelant a une incidence directe sur la décision de la Cour quant à savoir si l’intimée s’est acquittée du fardeau qui lui incombait au titre du sous-alinéa 152(4)a)(i) de la Loi. Cette méthode a été choisie plutôt que la méthode beaucoup plus précise de l’avoir net combiné, qui est habituellement celle qu’utilise l’ARC pour établir une cotisation à l’égard de revenus non déclarés.
+[25] L’issue de la présente affaire aurait pu être différente si la méthode de l’avoir net combiné avait été utilisée pour établir si l’appelant avait omis de déclarer des revenus pour 2003 et 2004 et si l’analyse avait porté sur une période de plus de deux ans. La méthode de l’avoir net tient compte des écarts liés à l’actif net qui ne sont pas attribuables à des sources de revenus non imposables, ce que la méthode des dépôts ne fait pas. En outre, le revenu familial combiné et les dépenses du contribuable sont comptabilisés avec la méthode de l’avoir net, mais pas avec celle des dépôts.
+[26] En l’espèce, l’intimée a allégué des faits qu’elle n’a pas été en mesure de prouver. Par exemple, au paragraphe 11 de la réponse, elle a affirmé que l’appelant avait des dépenses élevées. Aucune preuve n’a été apportée à cet égard parce que la méthode des dépôts ne tient pas compte du mode de vie du contribuable. L’intimée a également allégué que l’appelant avait omis des revenus personnels autres que les avantages conférés à un actionnaire à l’égard desquels les nouvelles cotisations ont été établies [2] . L’intimée n’a présenté aucun élément de preuve pour étayer cette allégation.
+[27] Comme il a été mentionné plus tôt, la société a déclaré d’importantes pertes fiscales. Compte tenu de la preuve, je conclus que les dépenses de la société étaient nettement supérieures à ses revenus. Cela étaye l’affirmation de l’appelant selon laquelle il a prêté des fonds à la société pour couvrir le manque de liquidités et éviter la saisie de la propriété.
+[28] J’aurais aimé voir des éléments de preuve documentaire qui auraient pleinement corroboré le témoignage de l’appelant à cet égard. Toutefois, je m’appuie sur le fait que l’appelant a présenté des éléments de preuve documentaire confirmant qu’il avait effectivement prêté des fonds à la société en 2002. Comme il a été mentionné précédemment, ce prêt n’a pas été consigné dans les bilans de la société, ce qui est compatible avec le témoignage de l’appelant concernant les pratiques comptables de la société par le passé. L’intimée a tout de même reconnu à la fin de l’audience que le témoignage de l’appelant était fiable. Le vérificateur avait auparavant jugé le témoignage de l’appelant peu fiable.
+[29] L’appelant a présenté un document supplémentaire à l’appui de son affirmation. La pièce A‑16 semble être une copie du résumé du grand livre de la société où figurent les emprunts aux actionnaires pour la période allant de 1991 à 1995. Le document montre que la société devait à son actionnaire 122 000 $ à la fin de 1995.
+[30] L’appelant a produit un deuxième document [3] pour montrer que les activités de la société ont engendré un flux de trésorerie négatif. Ce document comporte un tableau présentant les pertes d’exploitation subies par la société et les améliorations qu’elle a apportées aux immobilisations au cours de la période pertinente. Il semble que le document a été préparé par le beau‑fils de l’appelant pour étayer l’affirmation de l’appelant selon laquelle il a prêté beaucoup d’argent à la société. À la fin de 1995, le flux de trésorerie négatif découlant des seules pertes d’exploitation et améliorations aux immobilisations s’élevait à 98 613 $. Ce n’est pas bien loin du montant des prêts d’actionnaires figurant dans l’état du compte de prêts d’actionnaires à la fin de 1995 [4] . Le flux de trésorerie négatif cumulatif de la société, qui est composé uniquement des pertes d’exploitation et des améliorations aux immobilisations, s’élève au moins à 25 805,80 $ à la fin de 2002.
+[31] Il n’est pas rare de constater, lorsqu’une entreprise ou son propriétaire fait face à l’insolvabilité ou à la faillite, que la tenue des comptes n’est pas exemplaire. Dans de tels cas, la Cour peut s’appuyer sur les témoignages qu’elle juge crédibles et cohérents pour combler les lacunes. Les événements qui sont pertinents relativement aux nouvelles cotisations en l’espèce se sont produits il y a très longtemps. Je ne suis pas surpris que l’appelant n’ait pas conservé de copies de ses registres bancaires personnels depuis 1991. Ces années sont frappées de prescription depuis longtemps.
+[32] Enfin, je m’appuie sur le fait que la preuve de l’appelant cadre avec ses actions subséquentes. En 2009, l’appelant a réhypothéqué sa résidence personnelle et a utilisé les capitaux propres restants de celle‑ci pour payer, notamment, les versements hypothécaires en souffrance et les impôts impayés de la société [5] . Il n’avait pas vraiment le choix d’agir autrement, parce qu’il s’était porté garant du prêt hypothécaire de la société en 2003. Par la suite, la société a continué de perdre de l’argent. Malheureusement, l’appelant a épuisé toute sa fortune personnelle dans cette entreprise et n’a pas été en mesure d’aider davantage la société. Sa résidence a été saisie en 2012. Il habite maintenant, à titre temporaire, dans un foyer pour personnes âgées. Les prêteurs de la société ont également saisi la propriété en 2012.
+[33] Les explications fournies par l’appelant pour justifier les retraits non imposables de la société distinguent les faits en l’espèce de ceux dans Lacroix, arrêt dans lequel il avait été conclu qu’il y avait eu présentation erronée des faits par le contribuable [6] . Dans Lacroix, l’appelant n’avait pu donner de raison crédible pour expliquer l’écart que le vérificateur de l’ARC avait trouvé lorsqu’il avait établi la cotisation selon la méthode de l’avoir net et, par conséquent, il a été conclu que le ministre s’était acquitté du fardeau qui lui incombait au titre du sous‑alinéa 152(4)a)(i) de la Loi. En l’espèce, une explication crédible a été fournie pour expliquer en quoi les fonds retirés de la société n’étaient pas imposables en la possession de l’appelant.
+[34] À la lumière de ce qui précède, je conclus que l’intimée n’a pas établi que l’appelant a omis de déclarer des revenus en 2003 et en 2004 par négligence, inattention ou omission volontaire. En conséquence, les années d’imposition 2003 et 2004 demeurent frappées de prescription. Pour ces motifs, les appels sont accueillis, et les cotisations sont annulées.
+[35] Même si les dépens suivent normalement l’issue de la cause, j’estime que l’appelant a grandement bénéficié de l’aide qui lui a été fournie par l’intimée pour présenter sa preuve. Cela a permis à la Cour de s’appuyer sur un dossier plus clair pour rendre son jugement. Dans ces circonstances, il est juste que chaque partie assume ses frais.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2017.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 17e jour d’avril 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 7
+No DU DOSSIER DE LA COUR :
+2012-1830(IT)G
+INTITULÉ :
+ANTTI J. KOTILAINEN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 28 et 29 novembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 17 janvier 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Ce montant comprend la somme payée à l’épouse de l’appelant sur ordre de ce dernier.
+[2] L’omission par l’appelant de déclarer des revenus personnels est alléguée à l’alinéa 11(k) de la réponse. L’omission par l’appelant de déclarer des avantages conférés à un actionnaire est précisément abordée au paragraphe 11(l).
+[3] Pièce A‑9.
+[4] La pièce A‑9 ne tient pas compte d’un certain nombre d’éléments qui touchent le flux de trésorerie, comme les remboursements de capital de dettes. Pour cette raison, j’accorde très peu de valeur à ce document parce qu’il ne mesure pas précisément les changements dans le flux net de trésorerie.
+[5] L’appelant a ajouté une deuxième hypothèque de 100 000 $ sur sa résidence principale Le prêt hypothécaire a été accordé par les mêmes prêteurs que ceux de la société. Le produit net du prêt après les dépenses était de 93 226 $. Les prêteurs hypothécaires en ont affecté 53 274 $ au paiement des arriérés que leur devait la société et au paiement des impôts impayés. Un montant de 11 356 $ a été utilisé pour payer les arriérés que devait l’appelant sur la première hypothèque de sa résidence principale, et 14 299 $ ont servi à payer les taxes impayées liées à la résidence. Les intérêts du prêt hypothécaire de la société et de la deuxième hypothèque de l’appelant ont également été prépayés. L’appelant n’a reçu que 3 482 $ directement de ce nouvel emprunt.
+[6] Lacroix c. La Reine, 2008 CAF 241, au paragraphe 30.

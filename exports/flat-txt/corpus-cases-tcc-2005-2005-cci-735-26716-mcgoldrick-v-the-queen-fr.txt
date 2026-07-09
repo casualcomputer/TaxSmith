@@ -1,0 +1,128 @@
+Title: McGoldrick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26716/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-735-26716-mcgoldrick-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-12-07
+
+# McGoldrick v. The Queen
+
+- Citation: 2005 CCI 735
+- Decision date: 2005-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3397, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGoldrick v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-07
+Référence neutre
+2005 CCI 735
+Numéro de dossier
+2004-4470(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI735
+Date : 20051207
+Dossier : 2004‑4470(IT)I
+ENTRE :
+DOUGLAS J. McGOLDRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+le 30 septembre 2005, à Toronto (Ontario).)
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre des cotisations établies par le ministre du Revenu national à l’égard de M. McGoldrick pour les années d’imposition 2002 et 2003 concernant le montant des avantages imposables. Le ministre a inclus les montants de 990 $ et de 938 $ dans le revenu de l’appelant pour les deux années en cause, respectivement. Il a décidé que ces montants représentaient avec exactitude la valeur des repas gratuits fournis par l’employeur de l’appelant.
+[2] L’appelant a interjeté appel, à l’encontre des cotisations établies à son égard pour les années d’imposition 2000 et 2001, devant la Cour canadienne de l’impôt, puis devant la Cour d’appel fédérale. La question en litige concernait l’inclusion des avantages liés aux repas dans son revenu d’emploi. Les appels de l’appelant, plus particulièrement ceux interjetés devant la Cour d’appel fédérale, ont été rejetés.
+[3] L’appelant a été encouragé à interjeter les présents appels par le commentaire que le juge Malone a formulé au paragraphe 11 de la décision de la Cour d’appel fédérale[1] après avoir dit que les repas fournis constituaient un avantage imposable :
+Toutefois, il [l’appelant] n’a pas soulevé de question quant au montant de cet avantage dans l’avis d’appel à la Cour de l’impôt. Devant la présente Cour, il a précisément fait remarquer qu’il limitait sa preuve et sa plaidoirie à la question de savoir si les repas et les cadeaux des fêtes constituaient un avantage imposable et il n’a pas traité du montant de l’avantage. Bien qu’il eût fort bien pu être capable de contester la valeur de l’avantage reçu si cette question avait été débattue devant la Cour de l’impôt, cela n’était pas le cas et, par conséquent, il ne pouvait faire valoir ce moyen d’appel. Bien entendu, cela ne l’empêche pas de s’opposer au montant des avantages imposables calculés pour les années subséquentes, s’il est toujours temps de déposer de telles objections.
+[4] Les faits suivants, qui sont exposés dans le jugement rendu par la juge Woods[2], sont exacts, pour ce qu’ils valent :
+Un bon nombre de faits ne sont pas contestés. M. McGoldrick est un employé de Casino Rama Services Inc. (« Casino Rama ») situé près de Orillia, en Ontario. Casino Rama est un grand casino qui emploie plus de 2 000 personnes à temps plein. [...]
+La preuve indique qu’il y avait près de 4 000 employés.
+L’employeur fournissait à des employés comme M. McGoldrick un repas gratuit par quart de travail et déclarait les frais à titre d’avantages imposables sur les formulaires T4. Il offrait également d’autres « à côtés » tels que des billets de spectacles ainsi que des jambons et des dindes pendant le temps des Fêtes et il déclarait également ces coûts comme avantages imposables. Le montant des avantages imposables a été calculé en divisant le coût total des avantages par le nombre d’employés ayant le droit d’en profiter. Dans le cas de M. McGoldrick, environ 4,50 $ par jour ou un montant un peu moins de 1 000 $ par année était déclaré relativement à tous ces avantages.
+La majorité des témoignages étaient liés au repas gratuit offert pendant le quart de travail. Les employés pouvaient manger gratuitement à la cafétéria du personnel, le Turtle Island Café, pendant leur demi‑heure de déjeuner. En général, ils n’avaient pas le droit d’emporter d’aliments sur les lieux de travail pour des raisons d’hygiène, et en raison de l’endroit où se trouve le Casino Rama, il n’est pas facile d’aller manger ailleurs. De plus, les employés ne peuvent pas sortir sans permission pendant les quarts de travail. Par conséquent, en ce qui concerne leurs repas, les employés n’avaient pas d’autres choix que d’utiliser les distributeurs automatiques situés dans les salons. Selon le témoignage du vice‑président des ressources humaines de Casino Rama, le fait d’offrir des repas constituait un avantage pour l’employeur tout en rendant le casino plus attrayant.
+M. McGoldrick n’aimait pas manger au Turtle Island Café mais, puisqu’il n’y avait pas d’autre choix possible, il y mangeait presque tous les jours. […]
+J’accepte le témoignage de l’appelant selon lequel, pour les années 2002 et 2003, il a mangé à la cafétéria du personnel 50 pour 100 du temps. Son témoignage a été corroboré par ses cartes de repas d’employé[3].
+[5] La question du montant de l’avantage à trancher dans les présents appels diffère de la question examinée précédemment par la Cour de l’impôt et la Cour d’appel fédérale, soit la question de savoir si les repas constituaient un avantage. En tant que superviseur d’étage, l’appelant gagne un salaire annuel d’environ 37 500 $, et un montant d’environ 950 $ est ajouté à son revenu à titre d’avantage. Il paye approximativement 300 $ d’impôt chaque année pour cet avantage. C’est pour ce montant de 300 $ qu’il a interjeté appel devant la Cour de l’impôt. Il a fait référence à onze affaires figurant dans son recueil de jurisprudence et de doctrine, mais je ne crois pas qu’il soit nécessaire d’aller plus loin que la décision du juge Malone de la Cour d’appel fédérale susmentionnée.
+[6] Dans les décisions antérieures, les cours ont conclu que les repas, les dindes et les jambons constituaient un avantage. Je suis lié par la décision de la Cour d’appel fédérale à cet égard et je pars de ce principe. En ce qui concerne le montant, la position du ministre est tirée de la réponse à l’avis d’appel et, plus particulièrement, des hypothèses énoncées aux alinéas 9e) et h), qui sont rédigés ainsi :
+[TRADUCTION]
+e) les allocations et les avantages imposables déclarés dans les feuillets T4, État de la rémunération payée, que l’employeur a envoyés à l’appelant, et qui s’élèvent à 990,65 $ et à 938,37 $ pour les années 2002 et 2003, respectivement, représentent la valeur des repas fournis gratuitement par l’employeur à l’appelant;
+[…]
+h) la valeur des repas a été déterminée par l’employeur au moyen d’un calcul équitable qui tenait compte du coût des aliments ainsi que du coût lié à la préparation des aliments et au service;
+Pour appuyer sa position, l’intimée a appelé à témoigner Elizabeth Anne Huisman, la directrice exécutive des finances de Casino Rama, et j’accepte son témoignage.
+[7] La position de l’appelant, qui a été présentée par l’appelant et son représentant, était que la méthode de comptabilité utilisée par l’employeur pour déterminer la valeur des repas n’était pas bonne. Pour appuyer sa position, l’appelant a appelé à témoigner Steven Chase, le directeur responsable des aliments et des boissons de Casino Rama. Le témoignage de M. Chase appuie la position de l’appelant en ce qui concerne la valeur des repas. Le ministre a conclu que la valeur de chacun des repas offerts était de 4,50 $. L’appelant allègue que chaque repas a une valeur de 2 $.
+[8] Selon moi, compte tenu de tous les éléments de preuve présentés, la preuve relative au montant comprend les éléments suivants :
+(i) En fait, l’appelant mangeait au Turtle Lounge 50 pour 100 du temps. Toutefois, il est réputé, selon la méthode de comptabilité utilisée par l’employeur et selon le ministre, avoir mangé 100 pour 100 des repas gratuits offerts.
+(ii) L’appelant pouvait également acheter pour 2 $ un des repas offerts dans les distributeurs automatiques du casino, lesquels étaient au moins égaux, selon lui, à ceux offerts au Turtle Lounge. Le repas comprenait un sandwich aux oeufs à 75 ¢, un petit pouding à 75 ¢ et un fruit à 50 ¢.
+(iii) L’appelant a ajouté que si on lui permettait d’apporter son propre repas, la valeur du repas serait égale à celle des repas fournis par son employeur, ou moins élevée, y compris les repas fournis dans les distributeurs automatiques.
+[9] La plainte la plus importante formulée par l’appelant au sujet de la cafétéria de son employeur, outre les frais de 4,50 $, concernait le menu. À cet égard, l’appelant a présenté la pièce A‑1 suivante, soit un menu du mois de février 2005, qui n’est pas une année pertinente, où les poivrons verts farcis figurent quatre jours sur six au menu :
+[TRADUCTION]
+18 février : Sandwichs
+19 février : Poulet, porc, poivrons verts farcis
+20 février : Poivrons verts farcis, saucisse, pizza
+21 février : Boulettes de viande hongroises, poulet
+22 février : Poivrons verts farcis, bâtonnets de poisson, poulet
+23 février : Poivrons verts farcis, bâtonnets de poisson
+Même si les quelque 4 000 employés étaient traités de façon égale en ce qui concerne le repas de 4,50 $, chaque cas doit être examiné en fonction des faits qui lui sont propres.
+[10] Je n’hésite pas à conclure que pour M. McGoldrick, les repas du Turtle Lounge avaient une valeur de 2,25 $, soit 50 pour 100 de la valeur attribuée aux repas par le ministre pour les années pertinentes, c’est‑à‑dire 990 $ et 938 $. Je conclus donc que le montant de l’avantage devrait être de 495 $ et de 469 $ pour les années 2002 et 2003, respectivement. La décision ne se termine pas ainsi.
+[11] L’avocate du ministre a allégué qu’il importe peu que l’appelant ait utilisé l’avantage ou non. Si la valeur de chaque repas était de 4,50 $, ce qui correspond à la moyenne établie par l’employeur en fonction d’un calcul équitable pour les 4 000 employés, la question de savoir s’il mangeait au Turtle Lounge 50 pour 100 du temps, 100 pour 100 du temps ou bien n’importe quel autre pourcentage entre les deux n’est pas pertinente. Les repas gratuits étaient offerts tout au long de l’année de travail, et l’appelant n’a pas présenté d’élément de preuve pertinent ou utile selon lequel la valeur des repas était inférieure à celle évaluée par le ministre.
+[12] Pour appuyer la position de l’intimée, l’avocate a fait référence aux décisions Detchon v. The Queen[4], Soper v. M.N.R.[5] et Richmond c. La Reine[6]. Dans la décision Richmond, le contribuable travaillait au Metro Hall de Toronto, et son employeur lui avait réservé une place de stationnement gratuitement. Comme il demeurait très près du Metro Hall, M. Richmond n’a utilisé la place de stationnement qu’environ 20 pour 100 de l’année. La place de stationnement était mise à sa disposition tout au long de l’année. Le ministre a inclus dans le revenu de M. Richmond un montant 1 800 $, lequel représentait la valeur d’un stationnement réservé toute une année dans le secteur. Le juge Bell a conclu ce qui suit :
+Dans l’affaire Soper v. M. N. R., 87 D.T.C. 522, le juge Rip s’est penché sur cette question. Une société avait acheté en Floride trois maisons qu’elle a par la suite vendues. Au cours des années en question, l’appelante, l’actionnaire majoritaire de la société, pouvait utiliser l’une des propriétés à sa guise. Elle a choisi de l’utiliser quelques semaines seulement chaque année. La question à trancher était de savoir si l’avantage qui lui avait été conféré était égal à la juste valeur locative pour toute l’année ou pour les seules périodes pendant lesquelles elle avait réellement utilisé la propriété. La Cour a conclu que le ministre avait correctement déterminé le montant de l’avantage en utilisant la juste valeur locative parce que les propriétés étaient à l’évidence entretenues pour l’actionnaire toute l’année et qu’elle avait reçu essentiellement la totalité de l’avantage, à l’exclusion de toute autre personne.
+Il importe peu que l’appelant ait utilisé ou non la place de stationnement. Il y avait accès et c’était donc un avantage qui lui était conféré. Il n’a produit aucune preuve pour établir que la valeur de la place de stationnement qui lui était personnellement assignée était moindre que celle établie par le ministre. Dans les circonstances, l’appelant ne peut obtenir gain de cause en l’occurrence. Par conséquent, l’appel est rejeté.
+Pour ce qui est de M. McGoldrick, le ministre a suivi le même raisonnement.
+[13] Le juge Malone semble adopter une position différente de celle du juge Rip et du juge Bell. Il a mentionné sa position aux paragraphes 9, 10 et 11. Comme j’ai cité le paragraphe 11 précédemment, je citerai une partie des paragraphes 9 et 10 :
+En règle générale, toute acquisition matérielle liée à un emploi qui confère un avantage économique à un contribuable et ne constitue pas une exception tombe sous le coup de l=alinéa 6(1)a) [...]
+Et, il fait référence à l’arrêt Savage[7] :
+En l=espèce, l=avantage est l=argent épargné par le contribuable relativement à la préparation d=un repas ou à l=achat d=aliments aux machines distributrices du casino pendant ses heures de travail. […]
+Puis, au paragraphe 10, il ajoute ce qui suit :
+Dans sa plaidoirie, l=appelant a fréquemment fait remarquer qu=à son avis les repas ne valaient pas le montant de 4,50 $ par jour que lui a attribué l=employeur à titre d=avantage imposable. Ce montant était fondé sur le prix qu=il en coûte à l=employeur pour fournir les repas et les cadeaux des fêtes, y compris la TVP et la TPS. Il a également indiqué que bien qu=on ait calculé un avantage imposable en se fondant sur le fait qu=il a pris un tel repas tous les jours où il a travaillé plus de cinq heures, en fait il a souvent refusé d=aller à la cafétéria. Et comme il vit seul, il a souvent refusé les dindes ou les jambons offerts à l=occasion de certaines fêtes.
+Les commentaires du juge étaient des remarques incidentes, mais on ne peut simplement omettre de les prendre en compte. Je ne peux que conclure que les observations faites par la Cour d’appel fédérale sont des directives fournies précisément pour trancher la question dont j’ai été saisi.
+[14] Encore une fois, la Cour d’appel fédérale a mentionné au paragraphe 11 cité ci‑dessus que l’appelant aurait fort bien pu être capable de contester la valeur de l’avantage reçu si cette question avait été débattue devant la Cour de l’impôt, et elle a ajouté que cela n’empêchait pas l’appelant de s’opposer au montant pour les années subséquentes. La Cour d’appel fédérale estime que le montant de l’avantage conféré à l’appelant correspond à l’argent économisé relativement à la préparation d’un repas ou à l’achat d’aliments dans les distributeurs automatiques du casino pendant ses heures de travail. Je conclus que cela correspond à la moitié de l’avantage évalué par le ministre.
+[15] Ma conclusion ne s’applique d’aucune façon à tous les employés de Casino Rama, ou même aux quelque 200 employés mentionnés de façon générale par l’appelant et qui pourraient appuyer sa position. Chaque cas dépend des faits qui lui sont propres.
+[16] Selon moi, c’est un fait avéré que les montants de 938 $ et de 990 calculés par l’employeur et mentionnés dans les cotisations du ministre, qui, je crois, étaient fondés sur un coût de repas de 4,50 $, sont équitables; j’accepte le témoignage de l’appelant selon lequel il utilisait la cafétéria la moitié du temps.
+[17] L’appel est accueilli. L’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que la valeur des repas, qui constitue un avantage offert dans le cadre de l’emploi de l’appelant, et qui est à inclure dans le revenu de l’appelant, est réduite de 50 pour100 et passe à 495 $ et à 469 $ pour les années d’imposition 2002 et 2003, respectivement, comme l’exige l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu.
+[18] J’alloue la somme de 500 $ à l’appelant au titre des dépens.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2005.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 13e jour de juin 2007.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2005CCI735
+NO DU DOSSIER DE LA COUR : 2004‑4470(IT)I
+INTITULÉ : Douglas J. McGoldrick c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 septembre 2005
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 7 octobre 2005
+COMPARUTIONS :
+Représentant de l’appelant :
+Timothy Somers
+Avocate de l’intimée :
+Me Kandia Aird
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Ontario
+[1] 2004 DTC 6407.
+[2] 2003 DTC 1375.
+[3] Pièce A-2.
+[4] [1996] 1 C.T.C. 2475.
+[5] 87 DTC 522.
+[6] [1998] A.C.I. no 258.
+[7] 83 DTC 5409 (C.S.C.), à la page 5414.

@@ -1,0 +1,225 @@
+---
+title: "ZT22 Holding Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31067/index.do"
+last_modified: "2013-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 17"
+citation2: ""
+neutral_citation: "2013 CCI 17"
+decision_date: "2013-01-21"
+language: "fr"
+item_id: "31067"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4708
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:32:29.735000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6a619388d56a464fba4a415a35feff0d57efa0bdf2f1d1d4a1c72ad70f6f4eb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# ZT22 Holding Inc. c. La Reine
+
+- Citation: 2013 CCI 17
+- Decision date: 2013-01-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4708, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ZT22 Holding Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-21
+Référence neutre
+2013 CCI 17
+Numéro de dossier
+2011-2299(GST)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-2299(GST)I
+ENTRE :
+ZT22 HOLDING INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 octobre 2012, à Montréal (Québec).
+Devant : L'honorable Rommel G. Masse, Juge suppléant
+Comparutions :
+Avocat de l'appelante :
+Me Stéphane Rivard
+Avocate de l'intimée :
+Me Nadja Chatelois
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 20 mai 2009 et porte le numéro PL2009-1013, est accueilli et la cotisation annulée, le tout avec dépens contre l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Montréal, Québec, ce 21e jour de janvier 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+Référence : 2013 CCI 17
+Date : 20130121
+Dossier : 2011-2299(GST)I
+ENTRE :
+ZT22 HOLDING INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] En l’espèce, il s’agit d’un appel à l’encontre d’une cotisation datée du 20 mai 2009 et portant le numéro PL2009-1013, établie en vertu du paragraphe 325(2) de la Loi sur la taxe d'accise (la « LTA ») à l’égard de l'appelante, à la suite d’un transfert de biens effectué le 20 mars 2003 pour la dette fiscale de monsieur Antoine Tohme. Monsieur Tohme et l'appelante sont des personnes qui ont un lien de dépendance aux termes du paragraphe 325(2) de la LTA. Le montant de la cotisation se chiffre à 18 879,44 $. La cotisation a été confirmée par une décision sur opposition rendue le 27 août 2009, d’où le présent appel.
+Contexte factuel
+[2] L'appelante, ZT22 Holding inc. (ci-après « ZT22 ») est une personne morale, constituée le 21 janvier 2003. Elle exploite une entreprise dans le domaine de la location de biens immeubles. Monsieur Antoine Tohme était un des trois actionnaires de l'appelante. De plus, il était inscrit au Registre des entreprises du Québec comme secrétaire de ZT22. Il est évident qu’il est une personne liée à ZT22 aux termes du paragraphe 325(2) de la LTA et qu’il ne traite pas à distance avec l'appelante.
+[3] En date du 20 mars 2003, monsieur Antoine Tohme était redevable au ministre du Revenu national (le « ministre ») d’une somme de 34 576,21 $ en vertu de la LTA.
+[4] Le 10 février 2003, monsieur Tohme a acheté l’unité de condo numéro 508, située au 2555, Havre‑des Iles à Laval, Province de Québec. Le prix d’achat était 75 000 $. Cette même date, il a signé deux actes notariés à l’égard de cet achat. Dans le premier acte, il est décrit comme l’acquéreur du condo (voir pièce A‑2). Le deuxième acte notarié est une entente entre monsieur Tohme et ZT22 par laquelle monsieur Tohme reconnaît qu’il agit comme mandataire au compte de l'appelante ZT22 et que c’est l'appelante qui débourse toutes sommes d'argent pour l'achat et qui prend en charge l’hypothèque grevant le condo (voir pièce A‑4).
+[5] Le 11 février 2003, monsieur Tohme a acheté un autre condo, l’unité 1417, située à la même adresse. Le prix d’achat était 72 500 $. Encore, cette même date, il a signé deux actes notariés à l’égard de cet achat; dans le premier acte, il est décrit comme l’acquéreur du condo (voir pièce A‑1). Dans le deuxième acte notarié, monsieur Tohme reconnaît encore qu’il agit seulement à titre de mandataire pour l'appelante, ZT22 et encore c’est l'appelante qui débourse toutes sommes d'argent pour l'achat et qui prend en charge l’hypothèque grevant le condo (voir pièce A‑3).
+[6] En effet, par ces deux actes notariés (pièces A‑3 et A‑4), monsieur Tohme déclare qu’il a emprunté de la Caisse Populaire de Chomedey la somme totale de 100 625 $ pour l’achat des deux condos.
+[7] Les paragraphes 3, 4 et 5 de ces deux actes révèlent la vraie situation à l’égard de l’achat de ces deux condos. Ces paragraphes se lisent comme suit :
+3. Malgré le fait que l’emprunt hypothécaire soit au nom de Antoine TOHME, les parties déclarent qu’en fait la Compagnie ZT22 HOLDING INC. est responsable pour toutes les sommes déjà déboursées ou celles à être déboursées.
+4. Malgré le fait que la propriété a été acquise par ledit Antoine TOHME, les parties déclarent qu’en fait la propriété a été achetée par la Compagnie ZT22 HOLDING INC., cette dernière étant responsable pour toutes les sommes déjà déboursées.
+5. Ledit Antoine TOHME s’engage et s’oblige à transférer tous ses droits, titres et intérêts qu’il détient dans la propriété ci-dessus décrite, sur simple demande de la part du dirigeant de la Compagnie ZT22 HOLDING INC. et ce pour la somme de UN DOLLAR (1, 00 $) avec assumation de l’hypothèque.
+[8] Comme prévu par ces actes notariés, un mois plus tard, c'est-à-dire le 20 mars 2003, monsieur Tohme a transféré les deux condos à l'appelante par actes notariés (voir les pièces A‑5 à l’égard de l’unité 1417 et la pièce A‑6 à l’égard de l’unité 508). Dans ces troisièmes actes notariés, comme il était prévu, le transfert des biens immeubles fut accompli en contrepartie d’un dollar et la prise en charge du solde des deux hypothèques qui grevaient les condos, lesquels soldes totalisaient 110 416, 68 $.
+La thèse de l’appelante
+[9] L’appelante soutient que la cotisation établie contre elle devrait être annulée, car la valeur de la contrepartie reçue par monsieur Tohme était égale à la juste valeur marchande des biens transférés. L'appelante soutient qu’elle a assumé les obligations du cédant qui étaient égales au prix payé pour les biens transférés.
+La thèse de l’intimée
+[10] L’intimée soutient que monsieur Tohme a vendu les deux immeubles à l'appelante pour une contrepartie inférieure à leur juste valeur marchande. L'intimée soutient que les condos ont été achetés au montant total de 147 500 $ et furent vendus un mois plus tard à l'appelante pour le montant de 1 $ chacun. De plus, l'appelante devait prendre en charge les deux hypothèques qui grevaient les condos. Le solde total des deux hypothèques se chiffrait à une somme de 110 414,78 $. Au moment du transfert à l'appelante, la juste valeur marchande des deux condos était effectivement le prix d’achat qui avait été payé par monsieur Tohme un mois auparavant. Donc, l'appelante a acquis les condos pour une contrepartie inférieure de 37 085,22 $ à leur juste valeur marchande.
+[11] En date du 20 mars 2003, monsieur Tohme était redevable envers le ministre d’une somme de 34 576,21 $ en droits, intérêts et pénalités en vertu de la LTA. Puisque monsieur Tohme avait plusieurs dettes fiscales en 2003, le ministre a fait un prorata entre les dettes fiscales dues afin d’établir la cotisation en vertu de la LTA, ce qui représente 51 % de la dette fiscale. L'intimée affirme que l'appelante est donc solidairement tenue responsable de la dette fiscale de monsieur Tohme en vertu de paragraphe 325(2) de la LTA jusqu’à concurrence de l’excédent de la juste valeur marchande des biens sur la contrepartie payée, soit le montant cotisé de 18 879,84 $.
+[12] L'intimée soutient que tous les actes notariés d’achat et de vente font preuve de leur contenu. L'intimée soutient que les contre-lettres (pièces A‑3 et A‑4) à l’effet que monsieur Tohme n’aurait jamais été propriétaire véridique des deux unités de condo, mais que l'appelante était la réelle propriétaire, ne lui sont pas opposables. L'intimée soutient qu’elle peut se prévaloir des « contrats apparents », c'est-à-dire les actes notariés des achats et des ventes, et qu’elle peut effectivement ignorer les contre-lettres, quelle que soit la vraie situation entre monsieur Tohme et ZT22.
+Les dispositions législatives
+[13] Les dispositions pertinentes en matière de TPS se retrouvent au paragraphe 325(2) de la LTA. Les extraits pertinents sont les suivants :
+325. (1) La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+(1.1) Pour l’application du présent article, la juste valeur marchande, à un moment donné, d’un droit indivis sur un bien, exprimé sous forme d’un droit proportionnel sur ce bien, est réputée être égale, sous réserve du paragraphe (4), à la proportion correspondante de la juste valeur marchande du bien à ce moment.
+(2) Le ministre peut établir une cotisation à l’égard d’un cessionnaire pour un montant payable en application du présent article. Dès lors, les articles 296 à 311 s’appliquent, compte tenu des adaptations de circonstance.
+(3) Dans le cas où le cédant et le concessionnaire sont solidairement responsables de tout ou partie d’une obligation du cédant en vertu de la présente partie, les règles suivantes s’appliquent :
+a) un paiement fait par le cessionnaire au titre de son obligation éteint d’autant l’obligation solidaire;
+b) un paiement fait par le cédant au titre de son obligation n’éteint l’obligation du cessionnaire que dans la mesure où il sert à ramener l’obligation du cédant à un montant inférieur à celui dont le paragraphe (1) a rendu le cessionnaire solidairement responsable.
+[…]
+(5) Au présent article, l’argent est assimilé à un bien.
+[14] Les articles 1451 et 1452 du Code civil du Québec (« C.c.Q ») édictent ce qui suit :
+1451. Il y a simulation lorsque les parties conviennent d'exprimer leur volonté réelle non point dans un contrat apparent, mais dans un contrat secret, aussi appelé contre-lettre.
+1452. Les tiers de bonne foi peuvent, selon leur intérêt, se prévaloir du contrat apparent ou de la contre-lettre, mais s’il survient entre eux un conflit d’intérêts, celui qui se prévaut du contrat apparent est préféré.
+Analyse
+[15] Je commence mon analyse en acceptant comme principe général l’énoncé de la Cour suprême du Canada, tel que formulé par la juge McLachlin, aujourd'hui juge en chef, dans l'arrêt Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622. Au paragraphe 39, la juge McLachlin nous enseigne que les tribunaux doivent tenir compte, en matière fiscale, de la réalité économique qui sous-tend l'opération en cause, sans égard à la forme juridique apparente de celle-ci, en autant qu'elle ne contrevienne pas à une disposition expresse de la loi et dans la mesure où elle ne constitue pas un trompe‑l’œil. Les rapports juridiques établis par les contribuables doivent être respectés par les tribunaux en matière fiscale.
+[16] En l’espèce, l'intimée prétend que, selon les actes apparents d’achats et de ventes, il y a eu transfert de biens immobiliers par monsieur Tohme à ZT22 et donc cette dernière est solidairement tenue responsable de la dette fiscale de monsieur Tohme jusqu'à concurrence de l’excédent de la juste valeur marchande des condos, sur la juste valeur marchande de la contrepartie payée par ZT22 à monsieur Tohme pour le transfert des biens. L'intimée soutient aussi que les contre-lettres produites par l'appelante (les pièces A‑3 et A‑4) ne lui sont pas opposables et le ministre peut donc se prévaloir des actes d’achat et des actes de vente « apparents » à l’effet que monsieur Tohme était le propriétaire des deux condos et qu’il les a transférés à l'appelante. L'intimée invoque l’article 1452 du C.c.Q. D’après l'intimée, toutes les conditions prévues à l’article 325 de la LTA sont réunies et donc l'appelante est solidairement tenue responsable de la dette fiscale de monsieur Tohme à la mesure déterminée par le paragraphe 325(1) de la LTA.
+L’effet d’une contre-lettre
+[17] Une contre-lettre est un écrit privé qui a pour but de constater la véritable intention des parties qui en ont stipulé une autre devant le public. Il y a deux éléments essentiels qui composent une contre-lettre. Les deux composantes sont l'élément matériel et l'élément intentionnel. Ces éléments sont bien décrits par le professeur Royer dans La preuve civile, 2e éd., Cowansville (Qc), Yvon Blais, 1995 au no 1568 :
+L'élément matériel consiste dans l'existence de deux actes distincts, soit l'acte apparent qui renferme ce que les parties veulent faire croire aux tiers et l'acte secret qui exprime l'accord véritable. Si ce dernier est écrit, on le désigne sous le nom de contre-lettre.
+L'élément intentionnel consiste dans la volonté de tromper les tiers sur l'existence ou le contenu d'une convention.
+[18] Donc, il semble qu’une contre‑lettre équivaut à une tromperie de quelque sorte. Une contre-lettre est un document secret qui reflète l’existence d’une situation ou d’une relation entre les parties contractantes qui sont différentes de celle qui est exprimée dans le contrat apparent. Le secret ou l’élément intentionnel, de vouloir tromper les tiers, est un élément essentiel d’une contre-lettre. Dans le droit jurisprudentiel du Québec, il n’est pas nécessaire qu’une contre-lettre soit écrite; une entente verbale entre les parties contractantes suffit.
+[19] Les articles 1451 et 1452 du C.c.Q, stipulent que les contre-lettres n'ont leur effet qu'entre les parties contractantes et non contre les tiers. Les tiers de bonne foi peuvent invoquer l’acte apparent même en l’absence de préjudice résultant de la simulation. Il n’est pas nécessaire que la simulation ou la tromperie ait été dirigée contre la personne qui se prévaut de l’acte apparent : voir Transport H. Cordeau Inc. c. The Queen, 99 DTC 5765 (C.A.F), au paragraphe 20. Il n’est pas nécessaire que les tiers établissent que la contre-lettre occasionnait, à l’origine, un préjudice; il suffit qu’au moment où on la leur oppose, ils aient intérêt à la repousser : voir Transport H. Cordeau, précité, aux paragraphes 21 et 23. Il n’est pas nécessaire d’avoir voulu tromper le fisc pour que l’article 1452 du C.c.Q s’applique. Comme l’a dit le juge Létourneau dans l’affaire Transport H. Cordeau au paragraphe 29 :
+[29] De fait, au terme de l'article 1452, le tiers de bonne foi a le choix de se prévaloir de l'acte ostensible ou de la contre-lettre, selon son meilleur intérêt. Il s'agit là de la sanction de la simulation par contre-lettre car, comme le mentionnent les auteurs Mazeaud, précités, à la page 925, même si les contractants n'ont pas cherché à tromper le fisc ou leurs créanciers par leur simulation, il ne faut pas « oublier que les parties ne se contentent pas de ne point révéler le contrat; elles font plus: pour assurer le secret de l'acte, elles créent une apparence mensongère, elles passent un acte ostensible, qui est faux; elles trompent toutes les personnes qui auront connaissance de cet acte simulé ». Le législateur a voulu protéger le tiers qui se prévaut de l'acte ostensible après « avoir accordé aux apparences une confiance qui mérite de n'être pas trompée ».
+Encore, on voit que la tromperie ou la clandestinité fait partie d’une contre‑lettre.
+[20] Bien que l’article 1452 du C.c.Q. prévoit qu'une contre-lettre n'est pas opposable aux tiers, la jurisprudence fait une distinction à l’égard du ministre (ou sous-ministre) du Revenu selon son rôle comme « cotiseur » des impôts ou son rôle comme « percepteur » des impôts. Dans l’affaire Bolduc c. La Reine, 2003 DTC 221, le juge Archambault de cette Cour a statué que lorsque le sous-ministre agit comme « cotiseur », le sous-ministre n’est pas considéré comme un tiers aux fins de l’article 1452 du C.c.Q. Dans de telles circonstances, il doit calculer l’impôt dû par un contribuable selon la situation réelle. Par contre, lorsque le sous-ministre agit comme « percepteur », il devrait être considéré comme un tiers visé par l’article 1452 du C.c.Q. Les décisions dans les affaires Richelieu c. Québec (Sous‑ministre du Revenu), [2001] J.Q. no 8037, [2002] R.D.F.Q. 303 (rés.) (C.Q.), Dussault‑Zaidi c. Québec (Sous‑ministre du Revenu,) [1996] J.Q. no 2969, [1996] R.D.F.Q. 73 (C.A. Québec) (la juge Deschamps, dissidente), et Haeck c. Québec (Sous-ministre du Revenu), [2001] J.Q. no 8038, [2002] R.D.F.Q. 73 (C.Q.), sont citées au soutien de cet argument. De plus, le juge Archambault a conclu que l’article 160 de la Loi de l’impôt sur le revenu, qui est l'équivalent de l’article 325 de la LTA, est une mesure de perception et non de cotisation. De plus, il n’est pas nécessaire, pour que ces mesures de perception s’appliquent, qu’il y ait eu un avantage conféré au bénéficiaire du transfert. Tout ce que les dispositions législatives prévoient c’est que :
+[…] la responsabilité du bénéficiaire est limitée au montant représentant la différence entre la juste valeur marchande du bien transféré et la juste valeur marchande de la contrepartie qu’il a donnée.
+voir Bolduc, précitée au paragraphe 13.
+[21] Dans l'affaire Haeck c. Québec, précitée, il s'agissait de déterminer le montant d'une perte en capital résultant de la disposition de deux immeubles. Les parties avaient convenu d'un prix de vente de 175 000 $ dans les contrats notariés en vue de permettre à l'acheteur d'obtenir un financement plus élevé. Toutefois, dans une contre-lettre, les parties convenaient d'un prix de vente réel de 148 750 $. Le vendeur avait réclamé une perte en fonction de ce montant. Le sous-ministre du Revenu du Québec (le « sous‑ministre ») s'était appuyé sur les contrats notariés, donc sur le prix de 175 000 $, pour refuser la perte réclamée et a calculé la perte en fonction de ce montant. Le sous-ministre s'opposait à la preuve de la contre-lettre et affirmait que la contre-lettre ne pouvait être utilisée pour contredire un acte authentique et qu'elle ne lui était pas opposable vu les termes de l'article 1452 du C.c.Q. La juge Coté s’est posé la question :
+[1] Le sous-ministre du Revenu est-il tenu de cotiser les contribuables sur la base de leur situation réelle divulguée lors de la production d’une contre-lettre ou peut-il se prévaloir d’une situation apparente qui lui est plus avantageuse?
+La juge Côté a conclu que dans son rôle de « cotiseur », le sous-ministre devait s'assurer de la relation juridique véritable entre les parties et établir la cotisation en conséquence, particulièrement dans le cas où les actes du contribuable n'avaient pas pour but de tromper le fisc. Ainsi, selon elle, le seul intérêt du sous-ministre est que l'impôt soit établi en fonction des opérations réelles et non des opérations fictives des contribuables. Par ailleurs, la juge Coté affirmait que dans son rôle de « percepteur », le sous-ministre ne pouvait se voir opposer une contre-lettre pour l'empêcher de percevoir l'impôt déjà établi. Elle s’exprime ainsi aux paragraphes 30, 32 et 33 de sa décision :
+[30] De l'avis du Tribunal, le rôle du sous-ministre n'est pas d'invoquer les contrats susceptibles de lui permettre de percevoir le plus d'impôt possible mais bien d'établir l'impôt réellement dû en fonction des transactions faites de bonne foi et prouvées selon les exigences légales.
+[…]
+[32] Voilà donc où réside l'intérêt du sous-ministre lorsqu'il agit dans le rôle de cotiseur : cerner la relation juridique réelle entre les parties et cotiser celles-ci en conséquence.
+[33] Par ailleurs, une fois l'impôt dû établi, il est normal que le contribuable ne puisse opposer au sous-ministre une contre-lettre ayant pour effet de l'empêcher de percevoir cet impôt. Le sous-ministre est alors un tiers ayant intérêt à invoquer l'acte apparent pour sauvegarder les droits qu'il détient contre le contribuable, à savoir : le droit d'obtenir, à même le patrimoine de ce dernier, le paiement de l'impôt réellement dû.
+Donc, ce n’est pas dans tous les cas que le ministre puisse invoquer l’article 1452 du C.c.Q. Le ministre peut l’invoquer quand il agit dans son rôle de percepteur.
+[22] Par contre, la Cour d’appel du Québec semble attacher peu d’importance à la différence entre « cotiseur » et « percepteur » dans un cas d’une entente verbale assimilable à une contre-lettre, entre un père et son fils. Dans l’affaire Caplan c. Sous-ministre du Revenu du Québec, [2006] J.Q. no 11799, 2006 QCCA 1322 (CanLII)(CAQ), le contribuable a acheté un immeuble locatif en 1989, lequel fut inscrit au nom de son fils. Donc son fils était le propriétaire apparent de l’immeuble. Par contre, le contribuable était le véritable propriétaire, alors que son fils agissait comme son mandataire. Même si l’immeuble était inscrit au nom de son fils, c’est le contribuable qui avait financé et assumé la gestion et l’administration de l’immeuble. Il avait perçu et déclaré personnellement les revenus locatifs. Le fils, le propriétaire apparent, n’avait pas versé un sou à l’acquisition ou aux dépenses. Le 6 janvier 1999, l’immeuble est revendu à perte. Le contribuable a réclamé dans ses déclarations de revenus des déductions pour les pertes subies pour les années 1997 et 1998 ainsi que la perte terminale subie in 1999. Les avis de cotisation émis par le ministre ont refusé les déductions en raison que l’immeuble appartenait à son fils et non au contribuable. Le contribuable s’est donc porté en appel contre les cotisations. Le juge de première instance a refusé d’annuler les avis de cotisation. Il a jugé que le sous-ministre était un tiers de bonne foi au sens de l’article 1452 du C.c.Q., et donc n’était pas lié par l’entente verbale pouvant exister entre le contribuable et son fils. Le contribuable a interjeté appel à la Cour d’appel du Québec. Les questions en litige à trancher par la Cour étaient les suivantes :
+1) Le juge de première instance a-t-il erré en droit en décidant que l’intimé devait être considéré comme un tiers de bonne foi pouvant invoquer l’acte apparent?
+2) Le juge de première instance a-t-il erré en ne faisant pas la distinction entre le rôle du ministre du Revenu à titre de percepteur et celui à titre de cotiseur?
+[23] Le juge Dufresne de la Cour d’appel du Québec s’est prononcé comme suit :
+[30] La réponse à la première question, à savoir si le juge de première instance a eu raison de conclure que l'intimé devait être considéré comme un tiers de bonne foi pouvant invoquer l'acte apparent, suffit en l'espèce pour trancher le pourvoi. L'appelant oppose à l'acte apparent l'entente verbale qu'il avait avec son fils assimilable à une contre‑lettre.
+[…]
+[32] Le juge de première instance s'exprime ainsi relativement à l'application de l'article 1452 C.c.Q. :
+[22] Dans le cas qui nous concerne, l'intimé doit être considéré comme un tiers de bonne foi et n'est pas lié par le contrat apparent pouvant exister entre le requérant et son fils relativement à la propriété en question.
+[24] Le juge Dufresne se réfère ensuite au principe général énoncé par la juge McLachlin dans Shell Canada, déjà précité, et il continue :
+[35] S'il est exact que dans Shell Canada précité il n'y avait pas de contre‑lettre, la Cour suprême y a réitéré qu'en l'absence d'une disposition expresse contraire de la loi ou d'une conclusion selon laquelle l'opération en cause est un trompe‑l'œil, les rapports juridiques établis par les contribuables doivent être respectés par les tribunaux en matière fiscale.
+[36] Ainsi, l'intimé devait tenir compte de la situation réelle de l'appelant, puisque la preuve non contredite établit que celui‑ci n'a pas tenté de « jouer sur deux tableaux », en faisant valoir aux autorités fiscales tantôt le contrat apparent, tantôt la contre‑lettre. Le fils de l'appelant agissait à titre de mandataire de son père et en aucun moment l'appelant ou le fils de celui‑ci n'ont invoqué le contrat apparent pour en tirer des avantages fiscaux.
+[25] Le juge Dufresne continue aux paragraphes 40 jusqu'au paragraphe 53 :
+[40] Au contraire de la situation dans l'arrêt Zaidi, jamais, en l'espèce, le fils de l'appelant n'a réclamé d'avantages fiscaux de son titre de propriété, non plus que la preuve ne révèle que l'appelant et son fils auraient joué sur deux tableaux.
+[41] Le juge de première instance retient de la preuve « qu'il est clair et évident que c'est le requérant [appelant] qui a, à toute fin pratique, financé non seulement l'acquisition de cette propriété mais son maintien subséquent ». Les loyers étaient également payables à l'appelant. Il ressort aussi de la preuve que le fils de l'appelant était clairement le mandataire de ce dernier.
+[42] Par ailleurs, la preuve ne démontre pas qu'ils ont mis l'immeuble au nom du fils de l'appelant afin d'éviter de payer des impôts. Elle révèle plutôt que l'appelant a choisi de procéder à l'acquisition de cet immeuble au nom de son fils pour des raisons pratiques, comme son fils étudiait dans la région en Ontario où était situé l'immeuble en cause. Ce dernier pouvait ainsi plus facilement s'occuper de l'immeuble en résidant à proximité, alors que son père habitait à Montréal. Les témoignages successifs du fils et de ses parents à cet égard sont demeurés non contredits.
+[43] De plus, il ne s'agit pas en l'espèce d'une opération trompe‑l'œil qui préjudicie aux droits de l'intimé. […]
+[…]
+[45] […] En somme, il s'est en tout temps comporté envers le fisc comme le réel propriétaire de l'immeuble, n'essayant en aucun temps de jouer sur les deux tableaux en revendiquant tantôt les avantages qu'aurait pu lui conférer le contrat apparent, tantôt ceux de la contre‑lettre. Il s'en est toujours tenu envers l'intimé à faire valoir qu'il était le réel propriétaire, en invoquant, de toute évidence, la contre‑lettre. Rappelons, de plus, que tous les frais et dépenses associés à la conservation et à l'entretien de l'immeuble ont été assumés par l'appelant et non par son fils.
+[…]
+[47] La preuve prépondérante démontre que l'intention de l'appelant de procéder à l'acquisition de l'immeuble par l'entremise de son fils agissant à titre de mandataire est reflétée dans la contre‑lettre et correspond dans les faits à la situation réelle maintenue en tout temps par l'appelant. Dans le présent cas, la théorie du trompe‑l'œil ne s'applique pas vu l'absence d'un élément de tromperie dans la façon dont l'opération a été réalisée.
+[48] Il est difficile, dans les circonstances, de soutenir que l'intimé possède l'intérêt requis pour invoquer le contrat apparent, alors qu'il ne résulte aucun préjudice pour celui‑ci du traitement fiscal choisi par l'appelant qui se fonde sur la contre‑lettre. L'intimé a tout simplement choisi la situation qui était la plus avantageuse pour lui.
+[49] Il en aurait été tout autrement si la preuve avait démontré que l'opération n'était qu'un trompe‑l'œil ou que le contribuable avait cherché à tirer avantage tantôt du contrat apparent, tantôt de la contre‑lettre. […]
+[50] Si la preuve avait révélé la moindre contradiction dans le traitement fiscal par le contribuable, la conclusion du pourvoi aurait été tout autre, mais ici la preuve de l'appelant est demeurée non contredite à cet égard. Chaque cas est inévitablement un cas d'espèce : tout est fonction de la preuve administrée.
+[51] En somme, en l'absence de trompe‑l'œil ou de tentative démontrée de la part du contribuable pour jouer sur deux tableaux, l'intimé doit, conformément à l'arrêt Shell précité, cotiser en fonction de la situation juridique réelle entre les parties, quel que soit le contenu du contrat apparent ou de la contre‑lettre.
+[52] Soit dit avec égards pour le juge de première instance, le jugement dont appel comporte une erreur de droit dans la qualification des relations entre les parties : le propriétaire réel aux yeux du fisc, étant donné la proposition énoncée plus haut et l'arrêt Shell précité, était l'appelant, Howard Caplan. En concluant qu'il ne l'était pas, le juge de première instance a commis une erreur de droit déterminante.
+[53] Il n'est pas nécessaire, vu la conclusion à laquelle j'en arrive à propos de la première question soulevée par le pourvoi, d'aborder la seconde.
+[26] Le juge Dufresne n’a pas jugé nécessaire de décider si le juge de première instance a erré en ne faisant pas la distinction entre le rôle du ministre du Revenu à titre de « percepteur » et celui à titre de « cotiseur ». Le juge Dufresne s’est plutôt fondé sur le grand principe général énoncé par la juge McLachlin dans l’affaire Shell Canada auquel j’ai déjà fait allusion. Donc, semble-t-il que la distinction entre « cotiseur » et « percepteur » n’est plus si importante qu’auparavant?
+[27] L’analyse du juge Dufresne donne un résultat qui est juste et équitable entre le fisc et le contribuable. Quant à moi, les tribunaux doivent tenir compte, en matière fiscale, de la réalité économique qui existe parmi les contribuables à moins qu’il y ait une illégalité ou une tromperie. À mon avis, l’analyse du juge Dufresne ne devrait pas se limiter à des cas où le ministre agit dans le rôle de « cotiseur ». À mon avis, quoique soit le rôle du ministre, à titre de « cotiseur » ou de « percepteur », les rapports juridiques établis par les contribuables devront être respectés par les tribunaux et par le ministre du Revenu en matière fiscale, à moins qu’il y ait une illégalité ou une tromperie qui crée par conséquent un préjudice envers les intérêts du ministre.
+[28] Par contre, et malgré mon opinion, l’état de la jurisprudence est tel que, en l’espèce, l’intimée doit être considérée comme un tiers qui, agissant à titre de percepteur, peut se prévaloir des actes apparents; c'est-à-dire les actes notariés datés du 10 février 2003 (pièce A‑2) du 11 février 2003 (pièce A‑1) et également ceux datés du 20 mars 2003 (pièces A‑6 et A‑5) – ces derniers par lesquels monsieur Tohme a transféré les deux condos à l'appelante. Vu qu’il y a eu transfert des biens et vu qu’il y a un lien de dépendance entre monsieur Tohme et ZT22, toutes les conditions d’application de l’article 325 de la LTA sont réunies. Donc ZT22 est solidairement tenu, avec monsieur Tohme, de payer la dette fiscale de monsieur Tohme jusqu'à concurrence de l’excédent de la juste valeur marchande des deux condos sur la juste valeur marchande de la contrepartie payée par ZT22.
+La juste valeur marchande de la contrepartie
+[29] Ayant décidé que les conditions d'application de l’article 325 sont réunies, il s’agit en l’espèce de déterminer l’excédent de la juste valeur marchande des deux condos sur la juste valeur marchande de la contrepartie payée par ZT22.
+[30] Il n’est pas contesté que la juste valeur marchande des deux condos au moment du transfert se chiffre à 147 500 $, soit le coût d’achat total pour les deux condos au mois de février 2003 lorsque monsieur Tohme les a achetés. Il s’agit d’abord de déterminer la juste valeur marchande de la contrepartie payée par ZT22 pour les deux condos.
+[31] L'intimée prétend que la juste valeur marchande de la contrepartie payée pour les condos n’est plus ou moins que le prix qui est indiqué dans les actes de vente : c'est-à-dire, 1 $ pour chaque condo, et de plus, le cessionnaire doit assumer la responsabilité de payer les deux hypothèques qui grèvent les condos. Encore, l'intimée invoque l’article 1452 du C.c.Q. et prétend que les contre-lettres (pièces A‑3 et A‑4) ne lui sont pas opposables pour réfuter la cotisation. L'appelante soutient pour sa part que c’est la vraie valeur de la contrepartie, comme indiqué dans les contre-lettres, qu’on doit prendre en compte.
+[32] Rappelons-nous que la responsabilité de l'appelante est limitée à l’excédent de la juste valeur marchande des condos sur la juste valeur marchande de la contrepartie payée par l'appelante pour le transfert des condos. On doit donc se demander qu’est-ce que signifie l’expression « juste valeur marchande de la contrepartie » que l’on retrouve dans l’alinéa 325(1)a) de la LTA. La définition de « juste valeur marchande » au paragraphe 123(1) de la LTA se lit comme suit :
+Juste valeur marchande d'un bien ou d'un service fourni à une personne, abstraction faite de la taxe exclue de la contrepartie de la fourniture en application de l'article 154.
+[33] Comme l’a constaté la juge Lamarre-Proulx dans l’affaire 9004-5733 Québec Inc. c. La Reine, 2003 CCI 327 (CanLII), cette définition n’est d’aucune assistance dans la compréhension de cette notion juridique.
+[34] La définition de contrepartie au paragraphe 123(1) de la LTA est plus précise. Elle se lit comme suit :
+Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture.
+[Je souligne.]
+[35] Donc, lorsqu’on veut déterminer la suffisance ou non de la contrepartie, il faut considérer « tout montant » qui a été payé. Le mot « contrepartie » à l’alinéa 325(1)a) de la LTA est qualifié par les mots « juste valeur ». À mon avis, lorsqu’on cherche à déterminer la suffisance de la contrepartie dans le but d’établir l’excédant de la juste valeur marchande d’un bien sur la juste valeur marchande de la contrepartie payée pour ce bien, on doit se référer à « tout montant » payé et non seulement au montant fictif indiqué dans les actes de vente, C’est ceci que l’alinéa 325(1)a) de la LTA nous oblige à faire.
+[36] Dans l’arrêt The Queen v. Livingston, 2008 FCA 89, 2008 DTC 6233 (Eng.) (F.C.A.), la Cour d’appel fédérale a statué que l’intention de l’auteur et du bénéficiaire du transfert de frustrer l’Agence du revenu du Canada est pertinent, mais non déterminant pour analyser le caractère suffisant ou non de la contrepartie. Une intention trompeuse est certainement déterminante. L’absence d’une intention trompeuse bien que pertinente, n’est pas déterminante.
+[37] En l’espèce, les pièces A‑3 et A‑4 sont des actes notariés et donc sont présumés authentiques (voir l’article 2814 du C.c.Q), de même que les actes d’achat et les actes de vente. Il est évident que monsieur Tohme a acheté les condos et les a transférés à l'appelante peu de temps après; à peine un mois plus tard. Selon les actes de vente, l'appelante avait droit à la possession du condo no 1417 à compter du 11 février 2003, la même date que monsieur Tohme l’avait acheté; et l'appelante avait droit à la possession du condo no 508 à compter du 10 mars 2003, bien avant la date que les actes de vente aient été conclus. Il est évident que ceci permettait à l'appelante d’exploiter les condos le plus tôt possible comme des immeubles locatifs. Ceci est concordant avec une intention d’acquérir les condos pour les fins commerciales de l'appelante. Il n’y a aucune preuve que le patrimoine de l'appelante a été enrichi et il n’y a aucune preuve que le patrimoine de monsieur Tohme n’a été appauvri d’aucune façon. Il n’y a aucune preuve que l’appelante n’a tiré aucun avantage lors de son acquisition des condos. Il n’y a aucune preuve que monsieur Tohme a tenté de mettre ses biens hors de la portée du fisc en les transférant. Il n’y a aucune preuve que monsieur Tohme ou l'appelante ont tenté de « jouer sur deux tableaux », en faisant valoir aux autorités fiscales tantôt les contrats apparents, tantôt les contre-lettres. Il ne s'agit pas en l'espèce d'une opération trompe-l’œil qui préjudicie aux droits de l'intimée. Les pièces A‑3 et A-4 ne font que confirmer la provenance de ZT22 des sommes versées par monsieur Tohme lors de l’acquisition des condos. Par ces actes notariés, l'appelante admet qu’elle a versé une somme à monsieur Tohme et que ce paiement a été déclaré. Donc, j’arrive à la conclusion que monsieur Tohme et l'appelante n’avaient aucune intention de tromper le ministre. Monsieur Tohme a obtenu les condos pour le compte et comme mandataire de l'appelante. Bien que cette conclusion ne soit pas déterminante, elle est pertinente et elle alimente le débat à savoir : quelle est la véritable contrepartie payée pour les achats des condos par l'appelante ?
+[38] En l’espèce, j’arrive à la conclusion que la « juste valeur marchande de la contrepartie payée » ou en autres mots « tout montant payé » par l'appelante pour les deux condos est comme indiqué dans les pièces A‑3 et A‑4, et que ZT22 était responsable pour toutes les sommes déjà déboursées, et à être déboursées pour l’acquisition par monsieur Tohme des deux condos. Je conclus que la vraie contrepartie payée par l'appelante pour les condos est égale à la juste valeur marchande des deux condos et donc « l’excédent de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande de la contrepartie payée par le cessionnaire pour le transfert du bien » est zéro.
+Conclusion
+[39] Pour ces motifs, la Cour accueille l’appel de ZT22 Holding Inc., annule l’avis de cotisation, le tout avec dépens contre l’intimée.
+Signé à Montréal, Québec, ce 21e jour de janvier 2013.
+« Rommel G. Masse »
+Juge suppléant Masse
+RÉFÉRENCE : 2013 CCI 17
+Nº DU DOSSIER DE LA COUR : 2011-2299(GST)I
+INTITULÉ DE LA CAUSE : ZT22 HOLDING INC.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 25 octobre 2012
+MOTIFS DU JUGEMENT PAR : L'honorable Rommel G. Masse,
+Juge suppléant
+DATE DU JUGEMENT : Le 21 janvier 2013
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Stéphane Rivard
+Avocate de l'intimée :
+Me Nadja Chatelois
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Stéphane Rivard
+Cabinet : Rivard & Associés
+Westmount (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

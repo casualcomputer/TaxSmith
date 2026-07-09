@@ -1,0 +1,676 @@
+---
+title: "Schutz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28962/index.do"
+last_modified: "2008-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 523"
+citation2: ""
+neutral_citation: "2008 TCC 523"
+decision_date: "2008-11-12"
+language: "en"
+item_id: "28962"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4179
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:38:59.261000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "892fdf81279090652fb93e5907cfab83c46e809dbae039420a17fdfc37e0a98f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schutz v. The Queen
+
+- Citation: 2008 TCC 523
+- Decision date: 2008-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4179, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schutz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-12
+Neutral citation
+2008 TCC 523
+File numbers
+2004-4147(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC523
+Date: 20090123
+Docket: 2004-4147(IT)G
+BETWEEN:
+PAULA SCHUTZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4148(IT)G
+AND BETWEEN:
+DEBORAH SEWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4149(IT)G
+AND BETWEEN:
+PETER THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4150(IT)G
+AND BETWEEN:
+DAVID SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4151(IT)G
+AND BETWEEN:
+GUY McLEAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4153(IT)G
+AND BETWEEN:
+DAVID SUCHANEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4154(IT)G
+AND BETWEEN:
+MICHAEL PEIRCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED AMENDED REASONS FOR JUDGMENT
+Rossiter, A.C.J.
+Introduction
+[1] Appleby College (“Appleby”) is a boarding school, situated on the shores of Lake Ontario in Oakville, Ontario, comprising more than 500 students in total, 200 of whom are boarders, equally divided in terms of gender. In 1996 and 1997, approximately 25 of the 65 faculty members, resided on campus in accommodations owned and provided by Appleby. The employees who enjoyed this benefit included the Headmaster (the Principal of Appleby), Housemasters (staff who resided in and provided supervision to the students living in dormitories), Assistant Housemasters (personnel assisting Housemasters residing in dormitories), a Don (employee who occupied a small apartment in a dormitory and carried out supervision duties of students therein) and Teachers (staff members who resided in semi-detached or detached premises, separate and apart from dormitories).
+[2] Pursuant to the terms of employment established by Appleby, the above mentioned employees were required to reside on college premises in order to fulfill the duties of their employment. Certain staff members paid rent while others had a benefit attributed to them. All, save Paula Schutz, reported the benefit in one form or another on their income tax returns.
+[3] The Canada Revenue Agency (“CRA”) took the position that each such employee a) received a benefit; and b) the benefit reported was understated; resulting in CRA conducting reassessments on each Appellant for the 1997 taxation year.
+Issues
+[4] It was conceded by the Appellants that each received a taxable benefit in the form of lodging under subsection 6(1) of the Income Tax Act (“Act”). There are three remaining issues:
+(1) What is the fair market rental value of the lodging received by each of the Appellants?
+(2) What, if any, discount to the fair market rental value should be granted in view of the Appellants respective living circumstances?
+(3) Did the employer derive ancillary advantage from the benefit afforded to the Appellants, and if so, should the amount of the benefit included in the income of each respective Appellant be reduced?
+Facts
+Campus & Staff Living Accommodations
+[5] Appleby College is a boarding/day school, located near Lake Ontario in Oakville, Ontario, consisting of approximately 500 students in total, 200 of whom are boarders, equally divided in terms of gender.
+[6] A number of positions at Appleby require employees to live on campus in order to fulfill the duties of their employment so as to allow Appleby to operate as a boarding school. Approximately 25 staff members of Appleby reside in residential accommodations located on a 55 acre campus owned and provided by Appleby. These employees include the Headmaster; Housemasters; Assistant Housemasters; Dons and other faculty members, some of whom may or may not have particular duties associated with the accommodations in which they reside. The on-campus teachers either pay a specified annual rent to Appleby or are conferred a taxable benefit by virtue of their employment which is recognized when they file their annual income tax returns. There are no written leases. The staff members are assigned specific accommodations; they must acquire their own appliances and no changes can be made to the premises without express permission of Appleby including erecting fences. Additionally, they must vacate the property at the end of July if they are not to continue with their position during the following academic year. The accommodations range from single family dwellings and semi-detached housing (similar to a duplex), both situated on and off campus, to semi-detached housing attached to dormitories and small 500 square foot apartments located in the middle of dormitories where 50 to 60 students are housed. None of the Appellants had a lot, per se, associated with the premises assigned to them. All, except David Smith, were subjected to some level of noise in excess of ambient noise and suffered, to some extent, from excessive volumes of traffic and parking problems due to the location of their tenancy. All, with the exception of David Smith, had their residential privacy hindered due to students or others, such as alumni, attending the residential premises. Some of the accommodations were in better physical condition than others; all lacked air‑conditioning; some had quality finish and were historical in nature, while others had spartan quality finishing and could be categorized as old, tired and in dire need of renovation.
+[7] The students participate in academic as well as extra-curricular activities; the curriculum also includes extra service hours, increased study of international languages, mathematics and sciences. The age group ranges from 13 to 18 years and boarders are primarily grade 9 to grade 12 students (all grade 12 students are required to board-in). Monday to Friday is generally academic in nature whereas Wednesday afternoon and Saturday are viewed as sports days. Meals take place on campus and there is supervised study time in residence with other free time allocated to students later in the evenings. On the weekends, there is a small residential component but there are additional organized activities offered to the students. Supervision is required around the clock with sign-in and sign-out procedures in place for students who choose to leave the campus.
+[8] In an attempt to maximize revenues, Appleby rents out many of its facilities, on weekdays, weeknights and weekends. The rentals include the residential, classroom and athletic facilities. Appleby also operates camp programs during the spring break and summer months.
+[9] Appleby has four dormitories on campus, each housing 50 to 60 students. Every dormitory has a Housemaster, an Assistant Housemaster and a Don; all live in dwellings attached to the dormitories. The Housemaster’s duties include:
+(a) ensuring the smooth running of the house;
+(b) ensuring the safety and security of the students;
+(c) monitoring the students’ conduct and behaviour;
+(d) confirming the students’ rooms are in a reasonable state of repair;
+(e) ensuring the students attend meals when required;
+(f) organizing duty roster within the house;
+(g) making sure that the curfews are adhered to;
+(h) providing counselling and guidance to students when, and if, required;
+(i) acting as a communication liaison with parents and ensuring the general well-being of the students;
+(j) encouraging student involvement in Appleby and its offerings;
+(k) reporting to the parents on the general progress of a student and their level of enjoyment at Appleby;
+(l) trying to make residential life an enjoyable experience and encouraging a close bonding experience for the students by organizing fundraisers, student dances, casino nights and other similar activities.
+[10] Essentially, the Housemaster stands in loco parentis to the students. The Assistant Housemaster carries out the same functions as the Housemaster, however, the decision making authority is left in the hands of the Housemaster.
+[11] The Dons are usually university graduates who are considering becoming teachers; they work at Appleby for one academic year in order to acquire teaching experience. They reside in a small studio apartment in the middle of a dormitory and are expected to actively engage the students. A Don is responsible for the general overall supervision of students residing in dormitories especially during study time which takes place every evening from 7:30 p.m. to 8:30 p.m. He or she also organizes students’ activities and prepares the students for the weekends.
+Headmaster & Headmaster’s Residence
+[12] The Headmaster’s residence is a two-storey, fully detached house built in 1912. The home includes four bedrooms, living room, dining room, kitchen, a semi-finished basement for storage with low ceilings and a garage attached by a breezeway. The basement is principally used for storage of liquor supply, such as wine and beer, as well as other household storage, such as bookshelves for extra school books. The house is located in an area close to Lake Ontario. There is no fencing on the property; there is nothing on the property that would identify the surrounding lot of land as being part of a private residence.
+[13] The Headmaster’s residence is encircled by three playing fields: Main Field, Creek Field and Walker Field. Main Field is a football field used for physical education classes as well as fall and spring football or rugby practices and games. The field is also used for track and field events and rented out during the summer for camps and other activities. Adjacent is Creek Field, it is a rugby and soccer field; its usage is similar to that of Main Field. Also bordering is Walker Field, it is an artificial turf filed hockey pitch used in the summer, fall, and spring. The field has very significant rentals; it is rented out to various organizations and used for major university-level competitions. In 1996 and 1997, Walker Field was undergoing reconstruction and a bubble dome was eventually put over one third of the field. To the north of the Headmaster’s residence is an upper and lower bowl area located in front of and behind the residence; this area incurred daily traffic and activity due to intramural sports during the school year, more specifically Monday to Saturday, and always during the holiday season. Appleby rents out their various fields and facilities including the dining hall to local minor soccer and hockey teams, corporate and church groups, charitable associations for events, summer camps and alumni, all of which contribute to elevated noise levels, traffic, parking issues and a lack of privacy. The roads on campus are open and unsupervised permitting free flowing traffic to the public with constant ongoing parking problems. Additionally, there are several hills used for tobogganing and bobsledding, especially on the weekends.
+[14] Guy McLean joined the Appleby staff in 1971 as a teacher, he was later appointed as Headmaster in 1987. Appleby is run by a Board of Governors but the day to day operations of Appleby rest with the Headmaster. He hires all staff members, fixes their salary as well as their terms of employment.
+[15] The Headmaster was obligated to live on campus premises given that Appleby is a boarding school. He had no written lease for his residence and was required to pay $500 per month in rent (commencing July 23, 1997) as per his contract of employment. The utilities were paid by Appleby at $166 per month but the appliances were purchased and owned by the Headmaster.
+[16] The Headmaster and his wife own another residence approximately two hours from Appleby; they use the home for holidays, summers and weekends. Nevertheless, Mr. McLean does spend many holidays and Saturdays watching campus activities, particularly sports, and only leaves the campus approximately 145 days a year due to business travel or time-off where he returns to his other residence.
+[17] Various activities take place in and about the campus near the Headmaster’s residence; these activities put restrictions on the Headmaster’s own privacy, almost as if he were living in a very large public fish bowl. He is very visible in a vibrant busy campus with students, parents and the public coming and going at all hours; weekends tend to be somewhat busier. The Headmaster’s residence comes with a significant expectation of entertaining and a substantial piece of privacy is given up when one lives where one works, essentially making the Headmaster on duty 24/7. He meets students and parents in person and receives telephone calls in his residence. Moreover, there is a certain code of conduct that the Headmaster must adhere to in his own home, including dressing appropriately on certain days, all of which is scrutinized very closely due to the location of his residence. As a result, there are significant limitations imposed on the Headmaster and this restricts his ability to host personal functions or gatherings.
+[18] The basement of the Headmaster’s residence is used for storage with preparations for events being done in the garage. The Headmaster has an office in his residence where, in addition to the patio and living room, he meets with students, parents, teachers, members of the Board of Governors and also holds public relations meetings. The Appleby Board meets monthly during the academic sessions (10 times per year) and the Headmaster entertains the Board at his residence after the meetings take place. The members of the Board also meet at the Headmaster’s residence approximately every two months. In essence, the Headmaster uses his residence for functions or meetings about 12 times per month or 3 times a week.
+[19] The Headmaster has approximately 15 major, non-cancellable, annual events taking place at his residence; this includes drinks, dinners and brunch for 150 to 250 guests. The events are basically a two to three day affair; one day for set up, one day for the event itself and one day for the cleanup. These functions involve caterers, kitchen, setup and clean up personnel. Some of these gatherings are fundraisers and are a significant part of the Headmaster’s responsibility. In addition, there were collateral community and charity activities for which the residence was used, such as the United Way breakfast. One could say that the Headmaster’s residence is set up for entertaining in view of the fact that the kitchen is almost commercial in nature.
+[20] Appleby does not have quarters for visiting heads of other schools or dignitaries and, as a result, the Headmaster would host and boarder them for two to three days, or even a week at a time, approximately three times a year. Dignitaries such as Desmond Tutu and Prince Edward have been entertained at the Headmaster’s residence.
+[21] In 1996 and 1997, the Headmaster suffered higher levels of noise than he would normally endure; during this period, the Powell House was being torn down and reconstructed causing the main road on campus to be re-routed. On a typical day there would be no real disturbance to the Headmaster between the hours of 7:00 a.m. and 6:00 p.m. since he was not in his residence. From 5:30 p.m. to 7:15 p.m. there were considerable disturbances due to the activities on the adjacent fields, entertaining, public parking issues involving individuals parking in his driveway, joggers and pedestrians going passed his residence. The level of noise would vary from mild to aggravating; the Headmaster’s spouse constantly complained to him about the noise and disturbances but it was simply part of the Headmaster’s lifestyle. Furthermore, there were also many complaints from faculty members regarding the noise levels; as a result, some faculty members chose to move off campus, in particular the Appellant, Deborah Sewell.
+[22] Throughout the year in 1997 there were the usual school breaks in each term as well as summer break. The Headmaster would be away from the campus for part of those breaks.
+[23] Separate and apart from the noise and loss of peace and quiet enjoyment of the residence, the Headmaster’s hosting of events was an inevitable inconvenience; hosting events at other locations on or off campus was not a viable option due to the economical and logistical issues of Appleby. In addition, breakage occasionally occurred in the house when guests were present. Also, the Headmaster’s inability to use the outside property due to the constant flow of people and rental groups around the property as well as the lack of fencing and shielding from the day to day traffic, all added to the property’s lack of quiet enjoyment and privacy. The Headmaster often experienced problems getting out of his driveway, especially on Wednesdays and Saturdays, due to people parking on campus including in his driveway. On a daily basis, he would tend to leave the residence early in the morning to get a coffee and would park at another location on campus so as to be able to use his car throughout the day, given that his driveway had routine parking problems. Nevertheless, there were certain advantages to living in the Headmaster’s residence, such as the proximity to his employment, the attractiveness of the residence, the campus environment, saving on commute time and the stress of travel, the sense of a community atmosphere and the safety and security of his young children. Regardless of these advantages, the Headmaster did not have much privacy in his own home and one could say that he was not in his own space.
+Dormitories
+[24] Colley House is a student dormitory built in 1911; it houses approximately 60 boys per academic year. The residence is comprised of single dorm rooms that house up to four students per room. The basement has a common room with lockers and showers available to “day students”. One quarter of the “day students” would be assigned to the residence; they would drop off their personal belongings before school and return throughout the day, change in the locker rooms and use the shower facilities. The Housemaster has a two‑storey apartment on the main floor of the House with the front door opening into the student hallway. The outdoor property has a fenced area of approximately 15 by 20 feet. The Assistant Housemaster lives in an apartment on the third floor of the House with a connection to the student corridor and access to the outside area.
+[25] The Baillie House and the Walker House are student dormitories, with essentially the same set-up as the Colley House including “day student” lockers, showers, classrooms and laundry rooms in the basement in addition to a communal room on each floor. There is also direct student access to the Housemaster’s apartment from the top floor while the Assistant Housemaster’s apartment has direct student access from the first and second floors.
+[26] The Powell House is the newest residence on campus built in 1997; the original structure was constructed in 1917. In 1996, the House was partially built because the original structure had been torn down. All of the dormitories, with the exception of Colley House, had back door entrances to the apartments. None of the Houses had air-conditioning, appliances or garages.
+Paula Schutz
+[27] Paula Schutz was a Don in the Baillie House dormitory and was responsible for the general overall supervision of the students therein. Her duties included supervising study time several times per week as well as the organization of student events on weekends. She was a university graduate seeking experience that would assist her in becoming a teacher. The conditions of her employment included:
+(1) residing in a studio apartment located in the middle of the Baillie House (the entrance to the apartment was situated in the students residence);
+(2) salary of $15,000 for the first term; and
+(3) sharing the apartment, post‑Christmas, with a fellow Don.
+Deborah Sewell
+[28] Deborah Sewell had been an employee of Appleby for 17 years, initially as a drama teacher, then as an Assistant Housemaster and later appointed Housemaster of the Baillie House in 1996-1997; she was married with two children, then aged nine and seven.
+[29] The Baillie House was a three story structure. The Housemaster’s unit was two stories with three bedrooms, a walk-up studio, two and one-half baths, living room, dining room, kitchen, den and a great room. The top floor of the House had an entrance that opened from the students’ hallway into Mrs. Sewell’s study. The door was always open to students; essentially she was a parent figure to the students. There were parking spots available to Mrs. Sewell but no defined lot surrounding the House. Immediately adjacent was Walker Field where field hockey and soccer were played in addition to frisbee, picnics and barbecues.
+[30] The Housemaster position was a 10‑months teaching position. During the day, Mrs. Sewell taught six courses; supervised the students in their daily activities; acted in loco parentis for the girls in her dormitory; made sure they were up and about in the morning, attended their meals and classes. She dealt with medical issues, study time, parent-teacher meetings and looked after the students’ well-being. Her duties seemed to be more intense in the evenings; there were a variety of situations where Mrs. Sewell had to deal with girls running away; issues of mental instability and intoxication; girls sneaking out or others trying to get into the dorm to see them; students not in their dormitory when required; and girls requiring medical treatment. There were 52 girls in the dormitory and they enjoyed chatting and talking with the Housemaster; she essentially provided counselling on a daily basis, met with the girls, parents and others in positions of authority.
+[31] Mrs. Sewell experienced various disruptions to the peace and quiet enjoyment of her accommodations such as the ongoing activities on the Walker Field; noise from the arena; people traffic coming and going in all directions; dog walkers and pedestrians; students coming into her home; individuals seeking to use her unit’s washroom; the use of her children’s gym set; intoxicated students and numerous calls from parents. There was excessive noise 24/7 except for when all the girls left campus, however, there was always a certain level of disruption about to occur or occurring. This is a unique type of intrusion; the noise generated by 52 young girls is quite different from other environments as there was no privacy and people were constantly in the environs of the campus. The disruptions occurred so often that Mrs. Sewell requested a privacy fence and her nanny was under the impression that she was taking care of all the students in the dormitory.
+[32] After four years as Housemaster, Mrs. Sewell left her position due to the high intrusion it posed to her life; it was all consuming. In 1996, Mrs. Sewell paid Appleby $3,774 to reside in the Baillie House, but no payments were made in 1997; however, she did report a taxable benefit for each year on her income tax return.
+Michael Peirce
+[33] Michael Peirce was an Assistant Headmaster for Student Services at Appleby. He resided in a house adjacent to the Baillie House with his children then aged seven and nine. The house was a 1950’s chalet with a living room, dining room, office, powder room, kitchen and on the second level there were three bedrooms and a single bathroom.
+[34] There were many intrusions and disruptions at this location; to the west of the house was Walker Field where there would be constant noise caused by the field hockey games and the rentals on Sunday morning. Behind the house, there was a hockey arena with a parking lot and a one-way road system; during the hockey season there were parking issues as people would park in his space. Various individuals attempting to enter the arena would come to his house for help. He had a small fenced‑in yard with a swing set and a tree house. The lawn furniture was often moved outside the fenced area by individuals passing by and looking for somewhere to sit; they would also use his children’s swing set practically every weekend in the spring and fall. The house was in proximity to the Baillie House and there were various disruptions before and after study periods. Mr. Pierce could not entertain in his yard because he was constantly in the public eye. In the summer time, all day and every day, the sports fields were used; five days for sport camps and two days for rentals. He was living in a very public space and it became quite stressful in view of all the disturbances.
+[35] As Assistant Headmaster for Student Services, Mr. Pierce was head of the school’s crisis team and was required to carry a crisis cell phone with him at all times. He had to be in constant contact with the school and this was one of the reasons he lived on campus. If students had issues they would go to his house to talk; during a slow period they would drop by his house three to four times per month and during a busy period he would receive visits twice a week and people expected him to be accessible.
+[36] Mr. Pierce paid a utility fee in addition to $800 - $900 per month in rent totalling $10,044 in 1996 and $10,003 in 1997.
+David Suchanek
+[37] In 1996, David Suchanek was Housemaster at the Walker House and co‑director of the Residential Life Program; however, he left this position in August of the same year. The Walker House faced Walker field and was a two‑storey dormitory; there was direct access from the first and second floors into Mr. Suchanek’s accommodations where 60 boys could enter on a daily basis and shout his name. His daily activities were similar to that of Mrs. Sewell; they revolved around students, particularly those in the residence where he was Housemaster. Mr. Suchanek later moved into what is known as the Little Grey House; it was a very small 900 square foot cottage like home where he resided for roughly four months. He later moved into a duplex which became his family residence. The duplex was 1800 square feet; it comprised three bedrooms, two bathrooms, a living room and an open concept dining room/kitchen, an unfinished basement with an office and laundry room in addition to a living area. His children at the time were one and four years of age while his third child was born in 1997. Mr. Suchanek had an open door policy therefore students would be at his home every weekend. He also incurred many disruptions due to his close proximity to the soccer field and hockey arena. Various people, including alumni, were constantly knocking at his door in order to ask him to open the facilities so that they could play basketball, squash or hockey; he also received numerous telephone calls. In terms of location and proximity to the hockey arena, Mr. Suchanek could hear the constant whistling in the arena even though the semi-detached duplex was off the beaten track. He paid $8,300 in rent in 1996 and $9,800 in 1997. He also paid utilities after he moved from the Walker House and owned his own appliances.
+Peter Thompson
+[38] Peter Thompson was the Assistant Housemaster in the Powell House from September 1993 to summer 1996. Post‑September 1996 he was the Housemaster in the Colley House where 57 boys were housed. His daily activities were not unlike any of the other Housemasters or Assistant Housemasters. The Colley House was very old and Mr. Thompson’s apartment opened into the residence itself. Also, there was a lot of disruptive noise within the House at all hours, from music being played by the students to random incidences such as late night stomping, bullying, fighting and threats; the occurrence of these disturbances was unpredictable. Appleby provided him, his wife and their two children with lodging and normal household amenities, however, there was constant noise from the ongoing construction on the campus as well as loud banging due to the children and their activities. There were daily disturbances except for Saturday and Sunday when he would not ordinarily be called upon. Mr. Thompson felt he was responsible for the children of the House and therefore needed to act like a parent figure.
+[39] There were certain advantages to living in on campus residence as well as living in other areas of the campus, these included:
+(1) the proximity to one’s employment;
+(2) residing in a campus environment;
+(3) saving on commute time;
+(4) decreased stress levels in travel;
+(5) a sense of community; and
+(6) a sense of safety and security for the children.
+The maintenance of the property was carried out by Appleby and the campus was a nice area to raise children.
+Bruce W. Rae
+[40] Bruce W. Rae prepared an Appraisal Fair Market Rental Report of certain residences located on the Appleby campus for the Appellants and was qualified as an expert in the area of appraisals of the fair market rental value of property.
+[41] In conducting his analysis of the fair market rental value of the properties at Appleby, Mr. Rae assumed he was dealing with a real market where there was a real Landlord and a real Lessee. In other words, he assumed it was a fee simple where the Landlord would expose his property to the market, that is where the Landlord would not be Appleby and the Lessee would not typically be a teacher. Also, he assumed that the people who would occupy the specific units would have no responsibilities or duties associated with the occupation of the property.
+[42] Mr. Rae described the property as being unique in that it was a private school with recreational facilities for students, in a complete campus environment. He felt that there were no similar properties to properly analyze. He searched for sales or rentals similar to the subject properties and was unable to find any decent comparables; therefore he believed that there were problems with the comparables or the marketing information on which he would base his assessment.
+[43] Mr. Rae conducted seven analyses and ranked the properties in relation to the quality of accommodation. The higher rental rates would ordinarily go to the larger properties, for example a large detached house would rent at a greater value than a small detached house and a detached house would have a greater rental value than that of a semi-detached.
+[44] In conducting the analysis of each of the properties, Mr. Rae reviewed all of their attributes and then referred to a variety of comparables that he later analyzed (keeping in mind that he had a problem finding good comparables). He then provided his opinion with respect to a possible range of fair market rental values based on square footage and also a possible range of fair market rental values based on rent per month. Mr. Rae did not, however, analyse lot size, property configuration, location with regards to traffic volume and noise, or any other issues associated with a particular property such as the ravine located next to the Headmaster’s residence. In fact, he was instructed not to take into consideration the employer-employee relationship or any other disturbances that may be associated with the property when conducting his analysis.
+[45] Headmaster Residence - In conducting his analysis of the Headmaster home, Mr. Rae felt that there were certain comparables that were more relevant than others and explained the reasons as to why some comparables were of a particular significance. For example, in providing his analysis for the Headmaster’s property, he believed that the most pertinent comparable was 372 Lakeshore West due to the fact that the property was older and in poor condition while the other comparables were newer and of a higher quality. The comparable was also within 200 feet of Appleby, in a low density area with many estate houses in the vicinity, well treed and on a mature location much like the Headmaster’s property. As a result, he gave this property the most emphasis; however he noted that this comparable had a significant amount of privacy since it was located on a six and a half acres lot, with a pool and a garage, therefore superior to the Headmaster’s residence. Mr. Rae felt that the comparables utilized were very good in terms of size and utility; they were analogous to the subject properties in the sense that they provided similar accommodations but he was also of the opinion that the comparables were somewhat limited.
+[46] Baillie and Colley Houses - In analysing the Baillie and Colley residences, Mr. Rae referred to comparables that he believed were superior given that the properties had decks, yards, driveways, garages and air-conditioning (save 69 Armandie). The comparables were attached to other townhouses; three were mid‑row and one was an end unit; four were free-hold and one was a condo townhouse; moreover there was no internal access between the townhouses. The Colley and Baillie Houses were comprised of apartments therefore he used townhouses as comparables. In terms of the Baillie House, the comparables were the best he could find; however, there was a difference in square footage between the comparables and those of the subject property. In addition, they were free‑hold townhouses that had more value then condominium townhouses. The apartments in the Baillie and Colley Houses were attached to dormitories, this was factored in a negative way; Mr. Rae’s “gut feel” was that the high number of neighbours would have a harmful impact and there would be a substantial downward adjustment of approximately 20 to 30%. The Colley House fair market rental value was determined to be less than that of the Baillie House due to the fact that it was a 100 year old structure with old mechanics and facilities. The Baillie and Colley Houses had similar utilities but there was a large variation in the comparables used due to the difference in square footage, but the most influential factor on the estimated rental value was the latter subject property’s age, thus there was a downward adjustment of 30 to 40%. The age of the property reflected on the utility, mechanics, finish and condition of the residence and there was also a very small kitchen.
+[47] Don’s Apartment — The Don’s apartment was a very small unit, therefore Mr. Rae considered smaller units (600 to 800 square feet) as comparables. He did not factor in that the apartment was located in the middle of a dormitory and completed his analysis based on multiple listings, one being a very small apartment in a residential building. Also, he looked at high density areas similar in utility but could not find apartments as small as the unit in question.
+[48] Semi-detached — The semi-detached property was a duplex in operation; it was built in 1996 and was partitioned into two halves. The difficult comparisons for this property were those on Marine Drive located one block from Lake Ontario and in close proximity to a shopping mall; while the comparison on Matthew Street was a semi-detached, spartantly finished, fairly cheap and some four miles away thus too far away for comparison. Mr. Rae noted that they were better comparables than those of attached houses. The semi‑detached property did not have a garage, nor did it have a basement; it had poor quality finish and was built as a cheap accommodation; there was also a soccer field between the property and the road. The only aspects that the comparables had in common were the design as a semi‑detached and that all were $1,400 per month in rent.
+[49] 101 Whittington Place — This residence, occupied by David Smith, was located off campus and was therefore unique. It was over 100 years old and had been converted into a duplex, creating two units. It was originally a very old farmhouse, tired and in need of renovations or repairs.
+[50] Mr. Rae acknowledged that the properties used as comparables did not provide a similar environment and were not good comparables because they were only analogous in structure. The comparables were fee simple, with separate lots, separate parameters and different utility; some even had garages. The house located at 101 Whittington Place was essentially a tear down; the value was in the land not in the building. There were even concerns about it not being in compliance with the code. Nonetheless, the comparables were similarly located, in a quiet, sedate and mature location much like the Appleby campus.
+[51] In conducting his overall analyses Mr. Rae did not try to quantify the restrictions and parameters of Appleby, such as noise, traffic, parking problems and the various responsibilities of the residents or other problems that the occupants may have encountered due to all the different facets of their environment. Overall, there was a problem acquiring decent comparables because of the nature of the property, as a result, there was a 5 to 10% negative adjustment. In addition, there were other drawbacks at Appleby such as no definable lots or air‑conditioning, no garages, fireplaces or private yards. In essence, Mr. Rae’s analysis or valuations were, at best, estimates or a “gut feel”.
+Bruce W. Rae Fair Market Rental Value Appleby College
+(1996-1997)
+Property/Residence
+Appellant /Occupant
+Per Month
+Headmaster House
+Guy McLean
+$3,000 to $3,500
+Peirce Residence
+Dr. Michael Peirce
+$1,400 to $1,600
+Baillie House
+Deborah Sewell
+$1,000 to $1,200
+Colley House
+Peter Thompson
+$700 to $800
+Don’s Apartment
+Paula Schutz
+$500 to $600
+Semi-Detached
+David Suchanek
+$800 to $900
+101 Whittington Place
+David Smith
+$900 to $1,000
+Little Grey House
+David Suchanek
+No appraisal provided
+Walker House
+David Suchanek
+No appraisal provided
+Donovan Bennett
+[52] Donovan Bennett prepared an Appraisal Fair Market Rental Report for the Respondent and was qualified as an expert in the field of real estate valuations. Mr. Bennett initially approached his analysis in a different manner than that of Mr. Rae; he interviewed some of the occupants in order to determine the level of interference they may have experienced due to their close proximity to young students. Mr. Bennett conducted an analysis in terms of comparisons of on and off campus student housing costs at the university level. There was a 25 to 30% difference between on and off campus housing costs; on campus being about 25 to 30% lower. He used a Direct Comparison Approach by using comparable properties within a certain radius of Appleby, looking to properties that were similar in terms of utility with size also being considered.
+[53] In conducting his analysis, Mr. Bennett adjusted the rent for the loss of quiet enjoyment, this was not done by Mr. Rae [Mr. Rae’s figures were without regard to lot or lot size, property configurations, location in terms of traffic volume, noise and the effect of residing in a student dormitory or the effects of living on campus]. Mr. Bennett applied a discount when he felt it was appropriate but did not apply a premium for residing on or off campus. He analyzed the number of hours where there would be disturbances in the housing as well as the nature of those disturbances in order to arrive at an appropriate discount. He considered five days, Monday to Friday, as school days. He felt there were two hours pre-class with significant noise and disturbance (100% disturbance) and assigned it a value of nil. From 8:00 a.m. to 5:00 p.m., he suggested there were zero disturbances. From 5:00 p.m. to 8:00 p.m., he believed there were significant disturbances, therefore the value given was nil. During study, dinner, and sleep time there were rules and guidelines in place at Appleby that would curtail noise, thus he did not consider any disturbances past 8:00 p.m. He allowed a total of five hours per day or 25 hours per week of 100% disturbance for every week of the calendar year. In considering weekends, Saturday and Sunday, Mr. Bennett allowed 12 hours per day at a 100% discount, therefore a value of zero was allocated for 24 hours on weekends. The 25 hours of 100% disturbance during the week and the 24 hours on the weekends totalled 49 hours of disturbance per week. There are 168 hours per week minus 56 hours of sleeping time leaving 112 hours of awake time. The 49 hours of total 100% disturbance amounted to 29.16% of the hours per week. Mr. Bennett adjusted his fair market rental values by 30% where the disturbance was valued at 100%.
+[54] In terms of noise disturbance, Mr. Bennett considered that there were three basic levels:
+· Excessive = 30% reduction - 49 hours per week of disturbance due to loss of quiet enjoyment (this may include some loss of privacy).
+· Moderate = 15% reduction - locales adjacent to a dorm but not in a dorm itself.
+· Minimal = 0% reduction.
+Mr. Bennett felt that this technique to discounting for disturbance was the best and fairest approach short of getting an acoustic engineer. He did note that if there was an odour constantly present for 24 hours per day, he would apply the same analysis, if it could be measured on a daily basis.
+[55] In using the Direct Comparison Approach, Mr. Bennett noted that location was not a major factor but that utility was a key component. By utility he meant the number of rooms including the kitchen, but more specifically the bedrooms and bathrooms as well as their sizes. In giving his evidence, Mr. Bennett repeatedly used the phrase “most weight” in describing the factors considered in his analysis; by this he meant 100% weight given.
+[56] He confirmed his job was to conduct a fair market rent analysis based upon the unit being rented on the open market. Mr. Bennett said that there were two ways to conduct the analysis: a Quantative Analysis, trying to value what a corner lot, garage or pool would add in value, versus a Comparative Analysis Approach, trying to find similar properties; essentially, choosing a comparable was a judgment call. He believes that the Direct Comparison Approach seeks parallels for desirable subject properties with the major comparisons being size and utility; location in the same vicinity may be considered but it was not a major factor in Mr. Bennett’s analysis.
+[57] 101 Whittington Place — Mr. Bennett did not conduct an inspection on this property. He assumed it was in average condition and considered that he had good comparables for this property. The comparables were four attached homes and three townhouses; however, the properties seemed to be located at a distance from Appleby with 113 Stevenson Road being almost six kilometres away. He looked at square footage and utility for comparison purposes and the lease price was considered to be the actual price.
+[58] Peirce Property — Mr. Bennett also believed he had good comparables for this property, again, he looked at utility and square footage; the most weight was given to the average. He felt that there was only a moderate amount of noise disturbance because the dwelling was adjacent to a dormitory and was not located in a dorm itself, therefore, there was only a 15% discount allocated to this property. Mr. Bennett was of the view that someone who experiences 49 hours of excessive noise per week would agree to a discount in his lease equal to the number of noise disturbance hours to the total hours per week, expressed in a percentage. The percentage in hours of noise is a reflection to the reduction of the value of the lease.
+[59] Headmaster’s House — All of the comparables were in close proximity to Appleby and once again Mr. Bennett looked at square footage and utility; that is the number of washrooms and bedrooms. He felt that 372 Lakeshore was the best comparable as it enjoyed most of the same amenities as the Headmaster’s House hence the most weight was given to this property. It was an upper echelon luxury property with a six acres lot size just east of the subject property but in close proximity to Appleby; it was on the waterfront, with a pool, and had gleaming hardwood floors. The Headmaster’s property had no fence, was surrounded by other buildings (dormitories housing 200 children) as well as sports fields. There was access to an arena, basketball courts, facilities which were occupied and used by children in addition to rentals. Mr. Bennett thought that a 15% discount was satisfactory when considering the noise element on this property.
+[60] Little Grey House — In terms of comparables, Mr. Bennett was again looking for utility and square footage. All the comparables were within a 10 minute drive; the most weight was given to the lower end of the range, as the interior conditions were dated. There was a moderate reduction due to disturbances.
+[61] Semi-detached — Mr. Bennett was of the view that the finish was not spartan, in fact he stated that it was in good condition. The property was not on the lake, did not have a garage and there was no property lines or fences. His comparables were based on utility and square footage; they included a detached bungalow and a townhouse. He felt that there was only a moderate disturbance and allowed a 15% discount to the fair market rental value.
+[62] Baillie House and Colley House — The overall condition of these premises was average. The noise could at times reach unacceptable levels therefore he gave these properties the maximum 30% discount for loss of quiet enjoyment. The Baillie and Colley accommodations were attached to dormitories. Mr. Bennett used the same comparables for Baillie and Colley as they had similar square footage (2125 to 2230 sq. ft.). His assumption was that the average condition of Baillie was equivalent to that of Colley and that the difference in age between the two properties was not a factor since their conditions were similar. One of the comparable used for Baillie was 1200 Stirling Drive, a 1.7 acres detached split level lake front property; he also referred to 82 Forsythe Street, a townhouse complex, and 58 Brant Street, a detached two-storey custom built. The Stirling and Brant properties were detached homes and were used as substitutes for the Housemaster’s accommodations located in the Baillie House. Mr. Bennett’s comments on the Baillie House were also applicable to that of the Colley House, given that the comparables for the Colley House were the same as those of the Baillie House. The position taken was that it was a valid substitute to pay $1,600 per month to live in an apartment where one would be exposed to 50 students and experience noise 30% of the time, rather than live at 1200 Stirling Drive or 58 Brant Street.
+[63] Walker House — The Walker House was also a dormitory complex with about 1850 square feet. Properties used as comparables were: 113 Stevenson Road, a detached house with a 50’ x 108’ lot; 105 Ulster Drive, located in an urban setting on a separate 71’ x 111’ lot with an attached garage; 2295 Marine Drive, Unit 11, a townhouse complex on a separate 31’ x 86’ lot with no garage; 117 Tracina Drive, a detached back-split bungalow with air‑conditioning and an attached garage; 305 Sunset Drive, a detached house, with an attached garage, and no central air; 31 Southaven Place, a townhouse situated three kilometers west of the subject property; and 69 Nelson Street, an attached townhouse on a 19’ x 84’ lot with a garage. Essentially, the comparables for Walker House were four detached homes and three townhouses; none were apartments. The closest comparables would be the townhouses when examining square footage and utility. Mr. Bennett was of the view that so long as the properties had similar square footage and the same number of rooms they would be equivalent to an apartment.
+[64] Don’s Apartment — The Don’s apartment was in average condition, Mr. Bennett expressed that it was difficult to find good comparables due to its small size and its location on campus in comparison to an apartment on a busy street. However, he expressed that all the amenities of these sizes versus their location tended to balance out. Borders would be subjected to the same noise as that of the Don’s apartment. Mr. Bennett compared the Don’s apartment to residences located at 2345 Hixon Street and 124 East Street; they were detached homes both situated on separate lots.
+Donovan Bennett Fair Market Rental Value Appleby College
+(1996-1997)
+Property/Residence
+Appellant/Occupant
+Per month
+Without discount
+Per month
+With Discount
+Headmaster House
+Guy McLean
+$4,000
+$3,400**
+Peirce Residence
+Dr. Michael Peirce
+$1,300
+$1,105**
+Baillie House
+Deborah Sewell
+$2,300
+$1,610*
+Colley House
+Peter Thompson
+$2,300
+$1,610*
+Don’s Apartment
+Paula Schutz
+$750
+$525*
+Semi-Detached
+David Suchanek
+$2,200
+$1,870**
+101 Whittington Place
+Dave Smith
+$1,650
+$1,650***
+Little Grey House
+David Suchanek
+$1,000
+$850**
+Walker House
+David Suchanek
+$1,800
+$1,260*
+* Discounted by 30%
+** Discounted by 15%
+*** No Discount
+Position of the Appellants:
+[65] The Appellants take the position that the fair market rental values put forth by their expert witness, Bruce Rae, are reasonable. The Appellant, Mr. Smith, asserts that 101 Whittington Place is just a straight fair market rental valuation. The Appellants, Mr. Peirce and Mr. Suchanek, expressed that they were not seeking a discount due to their employer/employee relationship or the ancillary advantage derived by the employer but sought a discount for the loss of use and quiet enjoyment as well as the loss of privacy associated with their accommodations. The Appellants, Ms. Schutz, Mrs. Sewell, Mr. Thompson and Mr. McLean asserted that there should be deep discounts afforded to the fair market rental values of the properties they occupied due to the loss of use and quiet enjoyment as well as the loss of privacy that come with their accommodations. Also, they requested further reductions in view of the fact that their employer derived a significant ancillary advantage from the benefit afforded to them.
+Position of the Respondent:
+[66] The Respondent takes the position that Donovan Bennett’s appraisal report, on the fair market rental value of the properties, reflects the appropriate market rental values of the lodging received by the Appellants with a suitable discount already recognized for the loss of use, quiet enjoyment as well as the Appellants’ loss of privacy. He further asserts that there should be no discounting due to the ancillary benefit afforded to the employer from the Appellants’ occupancy of the premises.
+Law and Analysis:
+[67] Given the admission that each Appellant received a taxable benefit under subsection 6(1) of the Act, the question is: what is the value of the benefit and what, if any, discount should be given to this value, due to the properties respective circumstances, particularly: (a) the loss of quiet enjoyment (noise and disturbance); and (b) the loss of privacy? In addition, should there be further reductions to the value of the benefit due to the employer deriving an ancillary advantage from the benefit afforded to the employees? In effect, this case rests upon what expert’s report and/or evidence I accept, if any.
+[68] The parties have agreed that the Appellants, when employed by Appleby, received housing or lodging and in some cases board, but was the benefit enjoyed by the Appellants or by their employer? Linden J.A. of the Federal Court of Appeal in Blanchard v. Canada, 95 DTC 5479 (F.C.A.) stated at paragraph 22:
+. . . It does not matter that the employer may also have benefited from the housing policy by attracting employees to its project. There was economic benefit to the employee in receiving in advance money which he may or may not have had to pay out at some time in the future.
+. . . . .
+. . . It may have incidentally benefited the spouses and families of the employees as well, but this does not make it anything other than a benefit to the taxpayer.
+[69] Archambault J. of the Tax Court of Canada also stated in Dionne v. The Queen, 97 DTC 265 at paragraph 20:
+. . . These two benefits do not increase the employee's net worth. They merely spare him an expense which, if it had been incurred by the employee, would have reduced his net worth. No one will dispute that an employee receives a net economic benefit when an employer houses him free of charge.
+[70] It would appear that if an employer benefits from an arrangement, this does not preclude the employee from benefiting as well. Whether the employer and employee benefited from the Appleby arrangement and who if either benefited more than the other as well as the implications therefrom will be dealt with later in this judgment. (See paragraphs 103 to 114.)
+[71] There are no specific provisions in the Act that assist with the computation of taxable benefits associated with board and lodging, and as such, some review of the case law is required. However, one must first consider how the fair market rental value is to be calculated.
+[72] In National Capital Commission v. Marcus, [1969] 1 Ex. C.R. 327, Jackett J. was required to assess the value of a 13½ acre parcel of vacant land which was unserviced and unimproved, generally flat and at a grade with adjoining roads. It was agreed by the parties that there was no zoning by-law applicable to the lands although there was a township by-law restricting the disposition of land in the area in parcels less than 10 acres without consent. Both the plaintiff and the defendant’s expert witnesses derived different values. The Court held that the market value of the expropriated property is the amount to be arrived at by “the imaginary market” that would have ruled the expropriated property, had it been exposed for sale immediately before the expropriation, Jackett J. stated the following:
+. . . It follows that I must reach my own conclusion making the best use I can of the information and ideas that the witnesses and counsel have made available to me.
+What I must do, as I understand it, is put myself in the position of a person owning the subject property just before the expropriation willing to sell, but under no compulsion to sell, and capable of appreciating all the factors bearing on what a reasonably prudent and competent person would take into account and the circumstances and consider what amount he would insist on having before he would sell; and I must put myself in the position of a person desiring to buy a property such as the subject property just before the expropriation but under no necessity of obtaining that particular property, and capable of appreciating all the factors bearing on what a reasonably prudent and competent person would take into account in the circumstances, and consider what is the highest amount that he would be prepared to pay to acquire the property.
+[73] The Supreme Court of Canada seems to have adopted Jackett J.’s test in the appeal of Marcus v. National Capital Commission, [1970] S.C.R. 39, where Martland J. stated the following:
+In the case of each of these witnesses, after saying that he has considered certain matters (which are, generally speaking, proper matters to consider), the witness says that he has reached a certain conclusion as to market value of the subject property at the time of the expropriation. But when, for the purpose of assessing what weight, if any, to give to one of these opinions, one attempts to ascertain how the witness has allowed various factors mentioned by him to enter into the production of his ultimate conclusion, or why he had discarded certain of them as being of no importance in reaching a valid conclusion, one is faced with a lack of any such information in respect of many factors and, in respect of others, reasons for disregarding them that seem to lack validity. It follows that I must reach my own conclusion making the best use I can of the information and ideas that the witnesses and counsel have made available to me.
+What I must do, as I understand it, is put myself in the position of a person owning the subject property just before the expropriation willing to sell, but under no compulsion to sell, and capable of appreciating all the factors bearing on what a reasonably prudent and competent person would take into account in the circumstances, and consider what amount he would insist on having before he would sell; and I must put myself in the position of a person desiring to buy a property such as the subject property just before the expropriation but under no necessity of obtaining that particular property, and capable of appreciating all the factors bearing on what a reasonably prudent and competent person would take into account in the circumstances, and consider what is the highest amount that he would be prepared to pay to acquire the property.
+[Emphasis is mine]
+[74] In establishing the value of the taxable benefit in the case at bar, the Court should appreciate all the factors that a “reasonably prudent and competent” person would take into consideration. Moreover, the fair market rental value should be calculated on the use of property basis and any comparable used should be similar if not under the exact same circumstances as the benefit being valued.
+[75] It should also be noted that regardless of the methods of valuation undertaken, no consideration should be given to the individual circumstances of an employee receiving a taxable benefit.
+[76] The onus is on the Appellants to establish, on the balance of probabilities, that the method used by the Respondent or the result therefrom, was either inaccurate or inappropriate or that another mechanism or formula is more reasonable (Dunlap v. R. [1998] 4 C.T.C. 2644 at paragraph 16).
+[77] Finally, I am to reach my own conclusion making the best use I can of all the information before me including both experts’ reports and the submissions that the witnesses and counsel have made available to me.
+[78] In this case both experts approached the valuation of the fair market rentals by using the same method, the Direct Comparison Approach, but this is where the similarities end. They come up with significantly different results and although they both claim to have used the Direct Comparison Approach, they applied the test in very different fashions. The principal differences between the experts’ reports is the manner in which they both purport to apply the Direct Comparison Approach in terms of calculating the fair market rental value and whether or not they would apply a discount to the value due to the loss of use and/or quiet enjoyment and lack of privacy, if any, that affects each property. Neither discounted the fair market rental value because of the employer/employee relationship regardless of who profited the most from the benefit. Mr. Bennett applied discounts after analyzing the condition of each property; the discounts were based on how the circumstances of each property would affect the occupants’ loss of use, quiet enjoyment and privacy. Mr. Rae left any determination of discounting due to the occupants’ loss of use, quiet enjoyment or privacy to others, i.e. to be determined by the Court based upon the evidence before the Court.
+[79] What is the fair market rental value of each property? In answering this question, I must look to the expert evidence provided by both the Appellants and the Respondent. Both experts, Mr. Rae and Mr. Bennett, described the Direct Comparison Approach, and it is evident that they were in agreement that this was the proper approach to apply. However, they conducted their appraisals in very different ways and this resulted in significant differences in the rental values of the properties. The following is a comparison of the expert opinions provided on the fair market rental value by property.
+Experts Opinions Fair Market Value Appleby College
+(1996 – 1997)
+Property/
+Residence
+Appellant/
+Occupant
+Rae/
+Per Month
+Bennett/
+Per Month
+Bennett/
+Per Month with Discount
+Headmaster House
+Guy McLean
+$3,000 to $3,500
+$4,000
+$3,400 **
+Peirce Residence
+Dr. M. Peirce
+$1,400 to $1,600
+$1,300
+$1,105**
+Baillie House
+D. Sewell
+$1,000 to $1,200
+$2,300
+$1,610*
+Colley House
+P. Thompson
+$700 to $800
+$2,300
+$1,610*
+Don’s Apartment
+P. Schutz
+$500 to $600
+$750
+$525*
+Semi-Detached
+D. Suchanek
+$800 to $900
+$2,200
+$1,870**
+101 Whittington Place
+D. Smith
+$900 to $1,000
+$1,650
+$1,650***
+Little Grey House
+D. Suchanek
+No appraisal provided
+$1,000
+$850**
+Walker House
+D. Suchanek
+No appraisal provided
+$1,800
+$1,260*
+* Discounted by 30%
+** Discounted by 15%
+*** No Discount
+[80] The significant difference in the application of the Direct Comparison Approach for valuation can be described as follows:
+1. Mr. Bruce Rae, was of the view that there were very few, if any, good comparables that could be relied upon to assist him in arriving at the fair market rental value of the properties. He relied upon his experience as an appraiser and his 25 to 30 year involvement in real estate. He provided the Court with what he described as “a gut feeling” as to the fair market rental value of each property. In evidence he repeatedly stated that (a) there were no decent comparables that could be used due to the unusual nature of the properties; and (b) the comparables that were brought forth were, in most cases, as similar as comparing apples and oranges, and were therefore not reliable. Notwithstanding the foregoing, Mr. Rae did provide his expert opinion using the Direct Comparison Method; pointing out the fair market rental value of a variety of properties and comparing them to each property in question. He stated he did not apply any discount factors for what he described as the ancillary influential factors of the subject properties. In the scope of his appraisal report he stated in part as follows:
+As indicated, the comparables are no comparable in the large picture, as a wide range of ancillary influential factors must be placed upon the subject properties, in order to fully adjust for all differences with typical freehold homes.
+. . . . .
+The valuation reports provided are to be used in an effort [sic] to estimate the rental rates the subject properties might be expected to attract, if they were in direct competition with typical, similar, freehold homes in the vicinity. They obviously are not, and this is significant to the final analysis.
+. . . . .
+As required, the adjustments for the ancillary features are not attempted to be analyzed, and will be dealt with in another avenue of investigation, by other participants.
+Mr. Rae clearly understood the test to be utilized in determining the fair market rental value. I believe his evidence disclosed that he was basically using the test as referred to herein by Jackett J. in National Capital Commission v. Marcus, supra.
+2. Mr. Bennett used comparables that were somewhat similar to those of Mr. Rae, in fact, at times he used the same properties utilized by Mr. Rae in his valuation. However, he declared that, in his opinion, the comparables were very good and that he was not comparing apples and oranges. Mr. Bennett asserted on numerous occasions, throughout his evidence, that he was looking at utility and by this he meant the number of bedrooms, washrooms, and to some extent the square footage; location was certainly not a major factor in his analysis. He also considered, in his application of the Direct Comparison Approach, a study of university students and the rents they paid both on and off campus. Mr. Bennett undertook a mathematical calculation in arriving at the discounts by analyzing the hours of disturbance perceived in each property. I will discuss this discounting approach to the fair market rental value in more detail later in this judgment.
+[81] Of the analysis taken to determine the fair market rental value of the properties in question, I prefer the evidence and analysis provided by Mr. Rae.
+[82] Mr. Rae drew upon his experience from his years of dealing with real estate in and about the Oakville area. He pointed out quite candidly that the task was extremely difficult because he was attempting to use the Direct Comparison Approach in conducting an appraisal of a very unique parcel of land with housing and comparing it to individual housing properties. There were no comparables per se that were really applicable, in other words, he was not comparing apples and oranges; he was comparing two things that were substantially different. He acknowledged this fact throughout his evidence and explained in detail why the comparables might or might not be applicable to each particular property and then he gave what he felt was a reasonable assessment; a “gut feeling” with respect to the fair market rental value.
+[83] Mr. Bennett, on the other hand, took somewhat of a bookish approach. He went through a detailed mathematical calculation and analysis with respect to the number of hours per week that one might be disturbed in each of the particular premises and then applied that discount to the fair market rental value measured on the basis of excessive disturbance (30%), moderate disturbance (15%), and no disturbance (0%). He was of the view that all the comparables were good; he felt that all one had to look at was utility and to some extent the square footage, without regard to any other amenities that may have been associated with the property including lot, lot size, privacy, mature trees, swimming pools, location, air-conditioning, size of kitchen and the condition of the premises. In fact, all of these factors were ignored by Mr. Bennett. Throughout his evidence, he testified that he put the most weight on utility and when he was asked what was meant by the most weight he said it meant 100%. Therefore, 100% of his analysis of the properties was based upon utility.
+[84] Many of the comparables used by Mr. Bennett were not satisfactory and not viable for positive comparison purposes when applying the Direct Comparison Approach. He was seeking desirable subject properties with comparisons for utility, failing to consider size, location and/or other major factors. For example, in analyzing the comparisons for the Baillie Housemaster’s residence (housing attached to a dormitory) he looked at five comparables:
+9 Southhaven Place;
+1200 Stirling Drive (2 separate units);
+82 Forsythe Street;
+58 Brant Street.
+[85] The property at 1200 Stirling Drive was a 2274 square foot side-split lakefront, situated on 1.7 acres of land. This property was used by Mr. Rae as a comparable to the Peirce residence which I find more appropriate than Mr. Bennett used as a comparable to the Baillie Housemaster’s residence, which is in actual fact a dormitory environment. Other comparables used for the Baillie House were: 82 Forsythe Street, a townhouse complex and 58 Brant Street, a totally detached two‑storey custom built house. Mr. Bennett suggested that the properties at 1200 Stirling Drive and 58 Brant Street, detached homes, were appropriate substitutes for the Housemaster’s accommodations in the Baillie House. He felt they were suitable comparables solely on the basis of utility and square footage; utility being relied upon at 100%.
+[86] The same can be said with regards to Mr. Bennett’s analysis of comparables for the Colley Housemaster’s residence and that of the Walker Housemaster’s residence. For the Walker House Mr. Bennett used:
+(1) 101 Whittington Place located at 113 Stevenson Road, a detached house with a separate 50’ by 105’ lot;
+(2) 105 Ulster Drive, an attached house with a 71’ by 111’ lot with an attached garage, located one and a half kilometers from the subject property in an urban setting;
+(3) 2295 Marine Drive, Unit 11, a townhouse complex with a 31’ by 86’ lot size without a garage;
+(4) 117 Tracina Drive, a detached back‑split bungalow with an attached garage and air-conditioning;
+(5) 305 Sunset Drive, a detached-residence with an attached garage and no central air;
+(6) 31 Southaven Place, a townhouse, situated three kilometers west of the subject property; and
+(7) 69 Nelson Street, an attached townhouse, with a garage and a 19’ by 84’ lot.
+[87] In essence, Mr. Bennett was comparing the Walker Housemaster’s accommodations with four detached homes and three townhouses; none were apartments. Of the comparables referenced, the closest would be a townhouse, but once again, all Mr. Bennett looked at was utility and square footage. So long as the properties were similar in square footage and utility they were equivalent; it did not make any difference if the comparable was an apartment, detached or semi-detached dwelling, townhouse, condominium or other; they were valid substitutes according to Mr. Bennett.
+[88] In applying the Direct Comparison Approach to the Don’s apartment, Mr. Bennett compared it to residences located at 2345 Hixon Street and 124 East Street, both detached homes, both on separate lots.
+[89] The Suchanek property was a semi‑detached with a common wall, no garage, no property or fence lines and it was not a lakefront property. As comparables to this property, Mr. Bennett used, among others, 1320 Lakeshore Road West, a detached bungalow with a third of an acre lot on a lakefront and 2054 Water’s Edge Drive, a townhouse on a lakefront in an urban area.
+[90] In referring to the Headmaster’s House, the major comparable used by Mr. Bennett was 372 Lakeshore Road West; this property was also referred by Mr. Rae. This particular dwelling had a six acre lot and was in close proximity to Appleby; it was situated on the waterfront and contained a pool and hardwood floors. He believed that the property was a valid comparable even though the Headmaster’s residence did not have a fence or defined lot, was surrounded by other buildings including dormitories housing 200 children, school facilities including a rink and basketball courts ordinarily occupied by children, and at times campus rentals.
+[91] For comparisons to 101 Whittington Place, Mr. Bennett used four detached homes and three townhouses; one comparable was 113 Stevenson Road, some six kilometers away from Appleby in a significantly different market area. No inspection was done on this property and according to evidence adduced by the Appellants, it was in a dire state of repair.
+[92] Mr. Bennett assumed the entire college was on the market, 55 acres, effectively removing the location from his analysis. In truth, he did not value the property occupied by the parties but a fictitious property. As a result, there was no consideration given to the location as he placed 100% reliance on utility. I am not stating that utility is not important but it is not necessarily decisive; there are other factors to be considered in the whole analysis, such as location, amenities, privacy issues, lot size and noise. Mr. Bennett only took into account the noise factor in considering any discounting after he completed his comparable analysis.
+[93] Mr. Bennett also used a rather arbitrary measurement of noise disturbance. At what point does noise disturbance render the fair market rental value of property nil? Mr. Bennett acknowledged that the percentage of noise disruption does not equate to an appropriate discount. Although, in his analysis of noise disturbance, he accepted that the amount of and the duration of noise in addition to its timing are to be considered as important when discounting the fair market rent of a property; it is difficult to put a fixed percentage on the noise effect in certain categories. The type of noise disturbance, the duration and its timing can have different effects on different properties in different localities. For example, if rental property is next to a railway station and the trains go through the locale daily at nighttime with all their attending noise this would be considerably different then if the trains go through the locale in the daytime or on the weekdays, or weekends or only occasionally.
+[94] In my view, the percentage of noise disruption should equate reasonably to the appropriate discount considering the nature of the noise, its duration, level and timing; this I believe was not part of Mr. Bennett’s analysis. He looked at the time of the noise and to some extent its level in a rather arbitrary manner; he used a mathematical calculation based on the total number of hours of occupancy as it relates to the number of hours of disturbance along with the level of disturbance without considering the actual presence of the occupants in the premises when the disturbances occurred. For example, if person X occupied premises in which there was a major noise disturbance for eight hours a day but during those eight hours his family was completely absent from the premises, one would assume that this is quite a different noise disturbance than if it had occurred while they were actually in the premises. In Mr. Bennett’s analysis, the disturbance occurred when the occupants would normally be in the accommodations but his examination did not properly quantify the level of disturbance. Also, when discussing discounting, Mr. Bennett only spoke in terms of loss of quiet enjoyment and rarely mentioned the loss of privacy. I believe there are two aspects applicable to discounting in this case: the first is the loss of quiet enjoyment; this relates to the noise factor, that is an interruption to the quiet use of the property due to noise disruptions. The second is the loss of privacy; this relates to the occupants lack of privacy due to the public nature of their environment and the location of their accommodations in proximity to the Appleby campus and all that goes with such an environment. I believe that Mr. Bennett placed little if any weight on the loss of privacy; his evidence supports this as he only mentioned the loss of privacy on one occasion in relation to the Peirce residence.
+[95] I find Mr. Bennett to be somewhat unrealistic in his analysis; I believe he used a very narrow and bookish Direct Comparison Approach where he only relied upon utility without considering other factors such as the amenities of the surrounding property, location, lot or lot size, and other factors previously mentioned. Essentially, he used a mathematical analysis as opposed to using practical experience and common sense in trying to tackle what obviously can be described as a very difficult problem given that the analysis was to be conducted on a retrospective basis (going back over 10 years), on a very unusual piece of property for which there appeared to be very few, if any, good comparables. I find the comparables used by Mr. Bennett as well as their application to be unreliable, unsatisfactory and, contrary to his evidence, unsuitable.
+[96] Overall, I find Mr. Rae’s approach to a difficult problem and analysis forthright and frank; he recognized that it was a very complicated task, putting forth comparables just to show how out of line they could be. He explained that he had difficulty finding decent comparables and noted that he tried accessing a local Department of Defence facility but was unable to gain access in order to use it as a potential site for comparison purposes. In the end, he relied upon his many years of valuing real estate properties in and around the Oakville area, where he lived, to arrive at the fair market rental values presented.
+[97] In James et al. v. Canadian National Railway Company, [1965] Ex. C.R. 71, Cattanach J. expressed the view that experience operating in the market as a broker or dealer is important in order for the witness to express an opinion as an “expert”. Mr. Rae certainly had this experience and was obviously knowledgeable in the valuation of fair market rental values in the Oakville area.
+[98] Mr. Rae’s analysis was not without its faults, for example, he used some erroneous square footage for certain properties and used some of the same comparables as Mr. Bennett, however, he did acknowledge that they were not good comparables and were not of much use in many circumstances. The Appellants acknowledged the incorrect square footage in Mr. Rae’s report and accepted the square footage provided by Mr. Bennett.
+[99] In determining the fair market rental value for each of these properties I am very mindful of Jackett J.’s comments in National Capital Commission v. Marcus, supra. In arriving at the values, I believe I have considered all the relevant factors that a reasonably prudent and competent person would take into consideration, placing myself in the position of a person owning the subject property just before attempting to rent it, but under no compulsion to rent, and capable of appreciating all the factors bearing on which a reasonably prudent and competent person would take into account under the circumstances in order to consider what amount he would insist on receiving before he would be prepared to rent out the property. I have also placed myself in the position of a person desiring to rent the property, such as the subject property, but under no obligation to rent that particular property and capable of appreciating all the factors bearing on which a reasonably prudent and competent person would take into account in the circumstances and considering what is the highest amount that he would be prepared to pay to rent the property.
+[100] After considering all of the evidence provided by Mr. Rae and Mr. Bennett, I consider the following factors in making the fair market rental valuation:
+(a) utility, the number of bedrooms and washrooms in each property;
+(b) the square footage in each property;
+(c) property location;
+(d) nearby amenities;
+(e) lot and lot size;
+(f) amenities of the property such as garage, air-conditioning, state of finish, and quality of construction;
+(g) age of the property;
+(h) condition of the property.
+There possibly may be some other factors that might be applicable depending upon the circumstances of the property.
+[101] In applying the test from National Capital Commission v. Marcus, supra, I am making the best use I can of all the information before me including both expert reports, their evidence, the evidence of other witnesses and the submissions of counsel. I find that the fair market rental value of the following properties located on the Appleby campus in the 1996-1997 taxation years are as follows:
+Property/Residence
+Appellant/Occupant
+Fair Market
+Rental Value
+1996-1997
+Adjusted Fair Market Rental Value *
+Headmaster House
+Guy McLean
+$3,250
+$3,364
+Peirce Residence
+Dr. M. Peirce
+$1,500
+$1,212
+Baillie House
+D. Sewell
+$1,100
+$1,102
+Colley House
+P. Thompson
+$750
+$719
+Don’s Apartment
+P. Schutz
+$550
+$517
+Semi-Detached
+D. Suchanek
+$850
+$726
+101 Whittington Place
+D. Smith
+$950
+$1,333
+Walker House
+D. Suchanek
+$958
+$958
+Little Grey House
+D. Suchanek
+$750
+$750
+* I accept the square footage reported in Mr. Bennett’s report and adjusted the Fair Market Rental Values to reflect the properties actual square footage.
+[102] Mr. Rae did not provide a formal appraisal with respect to the Walker House; I believe the Walker House is basically the same type of housing as that of the Baillie House and as a result I gave it the same fair market rental value that Mr. Rae attributed to the Baillie House with an adjustment recognizing the square footage difference between the two Houses. [Baillie House, 2124 sq. ft and Walker House, 1850 sq. ft. [1100 ÷ 2124 sq. ft.) X 1850 sq. ft. = 958]. With respect to the Little Grey House, there was no formal appraisal provided by Mr. Rae therefore, I reevaluated Mr. Bennett’s appraisal and once again found the comparables somewhat wanting. In applying the test from National Capital Commission v. Marcus, supra., I find that $750 per month is the fair market rental value for the property and that it is fair and reasonable given the circumstances.
+[103] What if any discount ought to be made, with respect to the fair market rental values of the properties in question, because of the employer/employee relationship and the ancillary advantage derived by the employer from the benefit afforded to the employee?
+[104] The thrust of the Appellants’ argument is that it is the disturbance factors that should dictate the apportionment of the benefit between the employer and the employee and that these appeals deal with the determination of the personal enjoyment received by each taxpayer. However, the Respondent argues that it is a valuation issue and that any inconvenience experienced by the Appellants would have been addressed through salary and additional responsibility allowances or a reduction in their teaching load.
+[105] Sections 6 and 15 of the Act apply to specific circumstances and each section has extensive case law dealing with its particular application. After review of the arguments and authorities presented and considering the evidence before me, I believe valuation is the amount to be determined that is reasonable based upon the circumstances.
+[106] The Appellants were of the view that the basic issue of the trial was the determination of the value of the benefit. I am not in disagreement with this statement. The Appellants stated that there were three situations in which a benefit could arise:
+1) a benefit conferred by an employer, which is strictly for the benefit of the employee (i.e. the employer pays for a trip to be taken by the employee for their personal enjoyment);
+2) an arrangement in which the benefit is primarily for the employer, even though there could incidentally be a benefit to the employee (i.e. a doctor on duty for a week and the hospital offers him a room to sleep in the evening, there is no benefit to the employee because it is essentially for the benefit of the employer); and
+3) an arrangement that is partially for the employer’s purpose and partially for the benefit of the employee (i.e. janitor in an apartment building offered to reside in the building rent free to ensure his services are available 24 hours a day, seven days a week).
+[107] The Appellants assert that their position falls within the third situation, there being both a benefit to the employer and the employee, and that a judgement call must be made as to how the apportionment of the benefit should be made which would have a different result for each of the Appellants. The Appellants purported that it is the disturbance factors that should dictate the apportionment of the benefit between the employer and the employee and that despite the Respondent statements, this is not a valuation issue, rather it is a determination of the personal enjoyment received by each taxpayer.
+[108] The Respondent asserted that reliance should be placed on the qualified opinions of the experts to determine the fair market rental value of the lodging which would also include an appropriate discount. The Respondent was of the view that the disturbance or inconvenience of being on call 24/7 was part of the Appellants’ employment for which they were compensated through their salaries and “additional responsibility allowances” or a reduction in their teaching loads. The Respondent argued that there should be no discount allocated for these inconveniences given that the case at bar is a valuation issue.
+[109] I do not agree with this position. The evidence discloses that the Appellants are paid X amount per year for the services rendered. Most are required to reside on campus to carry out some of their duties. There was no evidence that the staff members received additional remuneration to live on campus, nor was there any evidence adduced to show that they were paid supplementary amounts to incur disturbances and loss of privacy that was associated with their occupancy on campus. Each was attributed a taxable benefit for their occupancy of the Appleby residences and each claimed the benefit on their T1, save Paula Schutz; the Appellants admitted a taxable benefit was received by each of them. I agree with the Respondent that we are concerned with a valuation issue; both parties agree on this point. Whether or not it is a straight valuation considering the disturbances and loss of privacy that comes with the properties or a valuation discounting for disturbance and loss of privacy that come with the properties is semantics. The bottom line is what is the fair market rental value of the properties, with their particular limitations? The Respondent by the type of discounting presented in their case, acknowledged that discounting is required one way or another as do the Appellants. There was no compensation for inconvenience or disturbances incurred by the Appellants.
+[110] Generally, section 6 of the Act applies to employee benefits and section 15 of the Act applies to shareholders benefits. The Respondent has taken the position that an apportionment between employer and employee is only relevant in benefits resulting from the application of section 15 of the Act. The Respondent purports that the apportionment has no relevance in the application of paragraph 6(1)(a) of the Act. I agree with the comment made in the Respondent’s Submissions at paragraph 17 in which he states that instances of lodging inherently have a benefit associated to the employer and employee:
+In virtually every instance where lodging is supplied to an employee, there will also be a direct or indirect consequential benefit to the employer. Indeed, it is difficult to imagine any scenario in which an employer would provide lodging to an employee without some reciprocal benefit. Nevertheless, in assessing value under para. 6(1)(a) the courts have repeatedly disregarded any benefit to the employer.
+[111] It is my view that section 15 of the Act applies to very specific situations such as where the taxpayer is a shareholder or contemplating becoming a shareholder. There are plenty of cases that deal with the interpretation of paragraph 6(1)(a) of the Act.
+[112] In this case the Appellants admitted that the employer received a benefit. None of the employees are or were shareholders of Appleby. Section 15 of the Act is not applicable nor are many of the cases referred to that dealt with this section: Cockerill v. M.N.R., 65 DTC 525; Lordly v. M.N.R., 78 DTC 1569; Paul’s Hauling Ltd. v. M.N.R., 79 DTC 167. Appleby certainly benefited from the employees occupancy of the premises, particularly the Headmaster’s Residence, Baillie, Colley and Walker Houses and the Don’s Apartment. Each Appellant lived on the premises as a condition of their employment, with the exception of David Smith and David Suchanek (when they resided in the Little Grey House and the semi-detached). Each Appellant who occupied a premise as a condition of their employment received compensation for their duties whether administrative, teaching or other; this therefore offsets the benefit to the employer.
+[113] Also, section 9 of the Act is not applicable nor are the cases that dealt with this section of the Act: Potvin et al., v. M.N.R., 90 DTC 1644 and Somodi v. M.N.R., [1987] T.C.J. No. 1162 (Q.L.).
+[114] Furthermore, some of the jurisprudence referred to by the Respondent as cases where no discount was permitted are also not applicable in the case at bar. In Williams v. R., [1955] C.T.C. 1, (Ex. Ct.), the taxpayer and the Minister of National Revenue agreed to value the benefit and the only issue was the position of the Appellant that the value was not part of his income for the year. In Hughes v. M.N.R., 95 DTC 295, there was malfeasance by the taxpayer and this I believe played a significant role in the outcome. In Bougain v. Quebec, [1987] A.Q. No. 400 (Q.L.), the only issue was whether Bougain was mandated by his employment to be at the hotel.
+[115] Similar to what the Respondent states, it is my view that the valuation is the amount to be determined that is reasonable based on the circumstances. I have already discussed the fair market rental values that should be attached to the benefits accruing to each of the Appellants. Given the fair market rental values I have determined that there must be some form of discounting allowed to some of the Appellants due to the loss of quiet enjoyment and loss of privacy for each particular property.
+[116] There is an acknowledgment by the Respondent, through his evidence, that some form of discounting is appropriate. Mr. Bennett went through a mathematical calculation and assessment with respect to the level of loss of quiet enjoyment in determining what discount he felt would be appropriate. Mr. Rae made no comment on the appropriate discount to be allocated, if any.
+[117] The CRA has commented that taxable housing benefits can be reduced due to the loss of quiet enjoyment and privacy. The CRA discusses reductions of taxable benefit to be included into a student’s (Don’s) employment income in the CRA’s Views, Interpretation 2004-010892E5 – Housing Benefit – Loss of Quiet Enjoyment - January 27, 2005:
+The value of a taxable benefit for free board and lodging should generally approximate its fair market. As noted in the Guide, there may be special circumstances where its appropriate to reduce the value of the housing benefit. For example, if the dwelling contains the equipment, public access or storage facilities that infringe upon an employee’s privacy or quiet and enjoyment of the dwelling, a reduction in the value of the benefit is appropriate. In our view, given the nature of the duties of the student’s Don’s as described in your letter it would be appropriate to reduce the value of the benefit they receive.
+Also, the agency provides an additional document of CRA Views, Interpretation-External 2005-0147831-E5 – Taxable Benefit – Rent Free Apartment, November 21, 2005, that further supports the reduction of taxable benefits as related to employment income where the following was noted:
+There may be special circumstances where it is appropriate to reduce the value of housing benefit for loss of quiet enjoyment. The CRA does not have a general position on the amount of a reduction that is appropriate in different situations; only that the reduction must be reasonable under the circumstances.
+[118] It is apparent that discounts have been permitted and incurred in the context of employment benefits. For example a 100% discount or no taxable benefit was considered to exist in the following cases: Lordly, supra; Paul’s Hauling Ltd., supra; Romeril v. The Queen, 99 DTC 221; Sorin v. M.N.R., 64 DTC 62 and Lowe v. The Queen, 96 DTC 6226, and also Ferguson v. M.N.R., 72 DTC 1097, a decision of the Tax Review Board where the Board permitted a 90% discount allowing for a 10% taxable benefit income inclusion. Some of these cases relate to section 6 while others relate to section 15 of the Act.
+[119] For the purpose of applying or considering a discount, I believe that the Appleby College properties should be divided into four categories; Category A – Headmaster’s residence; Category B – Dormitory classification (i.e. Baillie House, Colley House, Walker House and the Don’s apartment); Category C – Peirce residence, Little Grey House and the semi-detached dwelling; and Category D, 101 Whittington Place. I make these classifications because I believe that there are similarities between the properties within each category and significant differences between the categories themselves. For example in Category B, the properties are very much a dormitory type; all the residences are attached to a dormitory where 50 to 60 children are housed and where there is a significant interference with the use and quiet enjoyment of the premises by the particular Appellants including a considerable loss of their privacy. This is different from Category A, where the Headmaster’s residence, a detached dwelling, is separate, apart and independent in and of itself; somewhat on its own, yet still significantly affected by virtue of its location and the comings and goings of various individuals due to its occupancy by the Principal of the College. Category C, essentially relates to residences that are much more separate and apart than those of Categories A & B; they are private in nature yet still somewhat affected. The Appellants are seeking a discount on properties in Categories A, B & C but not D, 101 Whittington Place, as this is just straight valuation. I feel that the properties within each of the Categories A, B and C presented before me are sufficiently similar in environment so as to allow the appropriate discount to be addressed together.
+[120] As noted earlier, Mr. Rae did not attempt to apply any discount to the fair market rental values of the premises in question. Mr. Bennett undertook a mathematical calculation as previously described in arriving at the discounts. At page 12 of his report he described the mathematical process as follows:
+The degree to which one’s quiet enjoyment is disrupted varies from one situation to another. The nature and frequency of disruptions by students can vary from one location to another. The discount for loss of quiet enjoyment must be reasonable in the circumstances. For example, we cannot envision a situation where an individual’s quiet enjoyment is constantly being disrupted throughout the day.
+In our determination of the discount for “loss of quiet enjoyment”, we analyzed when the potentially “noisy” periods might occur during the day. In the morning hours before class starts, there would only be a couple of hours during which the students are up and about in their rooms and potentially making noise. During the school hours, the majority of students should be away from their living quarters, thus, making the area relatively quiet. During after school hours, most students are involved in their after school activities or study sessions. It is mainly during the few hours of free time in the evening before bedtime, or during the weekends, that students are hanging around their rooms and common areas and the noise levels might become unpleasant. In addition, many students also go home for the weekend so that should help reduce the potential noise levels to a certain degree.
+Assuming that students have about 5 hours each weekday of free time and about 12 hours each day during the weekends, these potentially “noisy” periods would only amount to 29.17% of the time in a given week. For simplicity, we will round it to 30%. This 30% assumes that the noise level is constantly high during those periods identified above, which is unlikely. Also if we apply this 30% to the entire year (52 weeks) this would include periods like Christmas holidays and summer holidays where students would be away from the campus and noise levels would be diminished or non-existent. Therefore, in our opinion, a 30% discount for loss of quiet enjoyment due to excessive noise levels would be very aggressive.
+It is our opinion that there are three basic levels of noise disruptions: “minimal”, in which case no discount is warranted; “moderate”, where a 15% discount is warranted; and “excessive”, where a 30% discount is warranted. These rates are supported by both our analysis of the amount of time that would be considered as periods where one’s quiet enjoyment is being disrupted, as well as the differences in costs between on and off campus housing. We have applied the discount for loss of quiet enjoyment to each property based on the facts of each case.
+[121] Mr. Bennett made a determination as to which premises he felt were entitled to a full discount, that is 30% and these were: the Walker House, the Don’s Apartment, the Colley House, and the Baillie House; while he allowed a 15% discount to the Peirce residence, the semi-detached, the Little Grey House and the Headmaster’s residence; no discount was permitted to 101 Whittington Place.
+[122] I find Mr. Bennett’s mathematical calculation unreliable and not to be something for which a reasonably prudent person would look to in determining what he or she would be willing to pay as rent for a particular property and what a landlord would be willing to rent the property for in the first place. In his evidence, Mr. Bennett focused almost entirely on the loss of quiet enjoyment; very little attention was given in his evidence to the loss of privacy. However, in his report he refers to the loss of privacy yet, all his evidence related to the loss of quiet enjoyment. As I noted earlier, I believe there are two aspects to discounting: (1) the loss of quiet enjoyment; the loss of enjoyment due to noise and disruption; and (2) the loss of privacy; the loss of personal space due to the environment, surroundings and interruptions into one’s private space. Depending on the circumstances, one could outweigh the other in terms of disturbance. Mr. Bennett put very little emphasis in his analysis on the loss of privacy focusing almost entirely on the noisy disruptions. It is nonsensical and unrealistic for anyone to expect someone to rent a property if, for 30% of the time there would be significant and constant high levels of noise. Mr. Bennett concluded that if there is going to be a constant level of noise 30% of the time, the landlord will rent the property for 30% less than the fair market retail rental value and the tenant would pay 30% less than the fair market rental value. At what disturbance level does property, from a fair market rental point of view, become valueless? There are 24 hours in a day; if the occupant of a premise is sleeping eight hours and is absent from the premises for another eight hours for work, that leaves eight awake hours where they would be in the premises and enjoying its occupancy. If there is constant noise for 30% of the time and it happens during the eight hours that the occupant is awake and in the premises or the eight hours that they are sleeping, the property is basically useless to the occupant and therefore valueless. I find it inconceivable that anyone would consider paying rent for a dwelling that would experience constant high levels of noise for 30% of the time of their occupancy, especially when it is during the time period when one expects some quiet enjoyment, such as early morning hours and in the evenings. You cannot simply use a strict mathematical approach in determining the level of disturbance whether it is for loss of quiet enjoyment or for loss of privacy. At some point in time the disturbances could be so pronounced, for such duration and at such times as to make the property valueless from a fair market rental value point of view. Individual circumstances cannot be considered; one must look at the property from an objective basis. A reasonably prudent person would simply not, given all the factors and considerations, pay the types of rents for the properties as presented by Mr. Bennett even if the discounts suggested by Mr. Bennett were applied. The discounts presented by Mr. Bennett are insufficient.
+[123] Referring to Category A, the Headmaster’s residence, I believe this property deserves a significant discount in the circumstances, given the “fishbowl” within which the house was occupied. I need not review the evidence of Mr. McLean with respect to the noise disturbances and lack of privacy that occurred or that come with this particular residence. The evidence is not one which I consider from a subjective point of view but rather the evidence describes the types of disturbances and loss of privacy that are associated with this particular property and would affect any occupant therein. The noise disturbance and loss of quiet enjoyment to a large extent from its on‑campus locations, being surrounded by four sports fields, with no bordering fences or defined lot, and the use of the premises as a storage facility and entertainment center for many comprise administrative functions. Also, there are impromptu visits by students and parents, accommodations for visiting dignitaries, constant traffic and parking problems. All of these activities also breach the privacy of his family all of which can be quite obtrusive. The occupant maintains another residence used on holidays and although not specifically stated was contractually obligated to reside in the premises.
+[124] I believe a discount of 65% of the fair market rental value is appropriate in the circumstances; resulting in a taxable benefit to Mr. McLean of $1,177.40 [35% x $3,364] per month.
+[125] Referring to Category B, the Dormitory classification [Baillie, Colley, Walker Houses, and the Don’s Apartment], I believe that this category should receive the largest discount for loss of quiet enjoyment and loss of privacy. Many of the cases referred to by counsel deal with on‑site caretakers or managers of motels or apartment complexes with a level of disturbance or degree of responsibility similar to those that accompany properties in Category B. The properties in Category B are however directly attached to student dormitories with entrances that lead out into the student hallways. There are about 50 to 60 students residing in each dormitory. All accommodations in this category have back door entrances with the exception of the Colley House and this could warrant a higher discount. These accommodations are in the middle of or adjacent to sports fields; therefore, the noise factor is very significant. Individuals who reside in the Colley House have their privacy severely limited since they would have to walk through the student quarters to gain access to their own residence making it virtually impossible to entertain guests or keep one’s personal life, private. Occupants were on call 24/7, acting not only as supervisors but as counselors, disciplinarians and acting in loco parentis.
+[126] The residences are in proximity to other college facilities including sport rental fields; the public come and go all the hours including parents and children. The level and intensity of noise is very significant according to those who reside there. The noise factor coupled with the lack of privacy due to direct access from student hallways and being attached to a dormitory that houses 50 to 60 children or teenagers should be enough to turn off any reasonably prudent and competent person from renting the premises and paying very much for it. I believe a discount of 80% would be appropriate for the accommodations in this category leaving a taxable benefit to the occupant of:
+Baillie House
+$220.40
+[20% x $1,102] per month
+Colley House
+$143.80
+[20% X $719] per month
+Walker House
+$191.60
+[20% X $958] per month
+Don’s Apartment
+$103.40
+[20% X $517] per month
+[127] Referring to Category C, Pierce Residence, Little Grey House and the semi‑detached dwelling, these accommodations are the least affected in terms of noise disturbance and loss of quiet enjoyment or loss of privacy as compared to other properties under consideration. These properties are not attached to student accommodations and are close to only one sporting field. These premises would be subject to disturbances due to the location, with passersby knocking on the door, visiting alumni in and about, traffic and certain parking issues. Living on‑campus results in some loss of privacy and loss of quiet enjoyment and these premises suffered to some extent from the on-campus location. I believe a discount of 25% would be appropriate for accommodations in this category leaving a taxable benefit to the occupant per month of:
+Peirce Residence
+$909.00
+[$1,212 x 75%] per month
+Little Grey House
+$562.50
+[$750 x 75%] per month
+Semi-Detached
+$544.50
+[$726 x 75%] per month
+[128] Referring to Category D, 101 Whittington, this is a straight valuation without discounting. I have already valued this property at $1,333 per month as per paragraph 101 hereof. In arriving at the valuations of the properties in question, I applied the test in National Capital Commission v. Marcus, supra. In doing so, there are a variety of factors which have been considered on an objective basis separate and apart from the expert evidence adduced on the Direct Comparison Approach. These factors include, inter alia:
+(1) utility in terms of number of bedrooms and washrooms in the property;
+(2) square footage of the property;
+(3) property location;
+(4) nature of lot and lot size;
+(5) amenities of the properties such as garage, air-conditioning, state of finish, quality of construction;
+(6) age of the property; and
+(7) nearby amenities.
+There are possibly some other factors which could be applicable depending upon the circumstances of the property.
+[129] There was reference in the course of the trial that utilities had also been paid by Appleby to some or all of the Appellants. The utilities would also constitute a benefit in the same sense as that of the accommodations provided to the Appellants. Therefore, the discounting provided to each property herein should also be extended to the utilities.
+Summary
+[130] There was no issue as to whether or not the Appellants received a taxable benefit in relation to the accommodations provided to them by Appleby. On the balance of probabilities, I believe that the Appellants have established the appropriate valuations and I consider the discounts suggested by the Appellants more reasonable than those presented by the Respondent and made specific findings of appropriate discounts by category of property.
+[131] I have found as a fact the following fair market rental values for each property which would translate into a taxable benefit subject to the discounting allowed. In arriving at these fair market rental values, I have accepted, for the most part, the values presented by the Appellants’ expert, Mr. Rae, subject to certain adjustments to the square footage of the properties.
+Property / Residence
+Appellant/Occupant
+Fair Market
+Rental Value
+1996-1997
+Adjusted Fair Market Rental Value *
+Headmaster House
+Guy McLean
+$3,250
+$3,364
+Peirce Residence
+Dr. M. Peirce
+$1,500
+$1,212
+Baillie House
+D. Sewell
+$1,100
+$1,102
+Colley House
+P. Thompson
+$750
+$719
+Don’s Apartment
+P. Schutz
+$550
+$517
+Semi-Detached
+D. Suchanek
+$850
+$726
+101 Whittington Place
+D. Smith
+$950
+$1,333
+Walker House
+D. Suchanek
+$958
+$958
+Little Grey House
+D. Suchanek
+$750
+$750
+[132] I have found that there should not be any reduction in the taxable benefit to any of the Appellants due to their employer deriving an ancillary advantage from the benefit afforded to them.
+[133] I have also found that the appropriate discount, for the taxable benefit received by each Appellant, due to lack of quiet enjoyment and/or loss of privacy is as follows:
+Property/Residence
+Appellant/Occupant
+Initial Taxable
+Benefit/month
+Discount
+Taxable Benefit
+Headmaster House
+Guy McLean
+$3,364.00
+65%
+$1,177.40
+Baillie House
+D. Sewell
+$1,102.00
+80%
+$ 220.40
+Colley House
+P. Thompson
+$ 719.00
+80%
+$ 143.80
+Walker House
+D. Suchanek
+$ 958.00
+80%
+$ 191.60
+Don’s Apartment
+P. Schutz
+$ 517.00
+80%
+$ 103.40
+Peirce Residence
+Dr. M. Peirce
+$1,212.00
+25%
+$ 909.00
+Little Grey House
+D. Suchanek
+$ 750.00
+25%
+$ 562.50
+Semi-Detached
+D. Suchanek
+$ 726.00
+25%
+$ 544.50
+101 Whittington Place
+D. Smith
+$1,333.00
+0%
+$1,333.00
+These discounts would equally be applicable to the utilities paid by Appleby for the Appellants.
+[134] The appeals are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+These Amended Amended Reasons for Judgment are issued in substitution for the Amended Reasons for Judgment dated December 18, 2008 and the Reasons for Judgment dated November 12, 2008.
+Signed at Ottawa, Canada, this 23rd day of January, 2009.
+"E. P. Rossiter"
+Rossiter, A.C.J.
+CITATION: 2008TCC523
+COURT FILES NOS.: 2004-4147(IT)G; 2004-4148(IT)G;
+2004-4149(IT)G; 2004-4150(IT)G;
+2004-4151(IT)G; 2004-4153(IT)G;
+2004-4154(IT)G
+STYLE OF CAUSE: PAULA SCHUTZ; DEBORAH SEWELL; PETER THOMPSON; DAVID SMITH; GUY McLEAN; DAVID SUCHANEK AND MICHAEL PEIRCE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: September 24, 25, 26, 27, 2007 and
+December 4 and 18, 2007
+REASONS FOR JUDGMENT BY: The Honourable E. P. Rossiter
+Associate Chief Justice
+DATE OF AMENDED
+REASONS FOR JUDGMENT: January 23, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Wilfrid Lefebvre
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Wilfrid Lefebvre
+Firm: Ogilvy Renault
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

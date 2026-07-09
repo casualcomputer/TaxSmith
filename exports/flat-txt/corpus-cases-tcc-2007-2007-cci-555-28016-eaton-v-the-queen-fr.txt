@@ -1,0 +1,119 @@
+Title: Eaton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28016/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-555-28016-eaton-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-07-06
+
+# Eaton v. The Queen
+
+- Citation: 2007 CCI 555
+- Decision date: 2007-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1602, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eaton v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-06
+Référence neutre
+2007 CCI 555
+Numéro de dossier
+2006-2531(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+RÉFÉRENCE : 2007CCI555
+COUR CANADIENNE DE L’IMPÔT LOI DE L’IMPÔT SUR LE REVENU 2006-2531(IT)I
+ENTRE :
+EUGENIE E. EATON,
+appelante,
+et
+SA MAJESTÉ LA REINE, intimée.
+--------------
+Décision
+Motifs du jugement rendus oralement à l’audience par l’honorable juge Joe E. Hershfield au bureau du Service administratif des tribunaux judiciaires situé à Winnipeg, au Manitoba, le vendredi 6 juillet 2007.
+---------------
+COMPARUTIONS
+Pour l’appelante : L’appelante elle-même
+M. R. Routledge
+Avocat de l’intimée : Me J. Pniowsky
+La greffière audiencière : Mme Cyrena Anderson
+Four Seasons Reporting Services
+91, rue Ashford
+Winnipeg (Manitoba)
+R2N 1K7
+Par : Krista Webb
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGE : Madame Eaton, compte tenu des circonstances de votre appel, non pas dans le sens de vos circonstances personnelles et de la mesure dans laquelle vous avez eu l’impression d’être traitée de façon injuste, non seulement en tant que victime de discrimination salariale fondée sur le sexe, mais aussi du point de vue du processus dans son ensemble et de la manière dont vous avez été représentée, bien que je sois sensible à ces questions, je veux que vous sachiez que, compte tenu de toutes ces circonstances et de l’état du droit, vous avez fait valoir des moyens raisonnables à l’appui de vos prétentions ce matin, c’est‑à‑dire des arguments qui m’ont en fait conduit à envisager la possibilité d’examiner votre appel sous un jour différent de celui sous lequel ont été examinés les appels qui ont déjà été instruits par la Cour.
+Cela dit, toutefois, ma conclusion ne vous donnera pas satisfaction, parce que je conclus que votre appel doit être rejeté.
+Je prononcerai de brefs motifs et je soupçonne que je ne vous donnerai pas personnellement satisfaction, cependant, je n’ai fait qu’exercer la charge que je suis tenu d’assumer.
+Le présent appel concerne des paiements en guise d’indemnité en matière d’équité salariale effectués conformément à une décision du Tribunal canadien des droits de la personne (ci‑après le « tribunal ») rendue en juillet 1998, dont une copie a été déposée en preuve sous la cote R-3.
+Pour donner suite à la décision, le tribunal a rendu, en novembre 1999, une ordonnance sur consentement dans laquelle a été incorporé un accord par lequel l’Alliance de la Fonction publique du Canada, au nom de plusieurs groupes de fonctionnaires, avait accepté qu’en règlement de demandes en matière d’équité salariale, le Conseil du Trésor effectue les paiements qui avaient été convenus aux membres de ces groupes.
+Après avoir lu l’accord conjointement avec l’ordonnance et la décision, je suis convaincu que les sommes en litige en l’espèce ont été versées à l’appelante conformément à la décision du tribunal.
+Je suis aussi persuadé que les sommes en cause sont, comme l’a fait valoir l’appelante, des sommes versées en application de l’alinéa 53(2)c) de la Loi canadienne sur les droits de la personne.
+Cet alinéa confère à la Commission, au tribunal, le pouvoir d’indemniser les victimes de discrimination salariale de la totalité ou d’une fraction de leurs pertes de salaire.
+Bien que cette disposition énonce que la victime d’un acte discriminatoire puisse être indemnisée des dépenses entraînées par l’acte, l’indemnité accordée en l’espèce, comme l’attestent la décision et l’ordonnance, se rapportait en fait manifestement à des pertes de salaire que la victime avait subies.
+Les sommes versées à l’appelante en exécution de l’ordonnance du tribunal ont été incluses dans le calcul de son revenu d’emploi pour l’année au cours de laquelle elle les a reçues. L’appelante affirme que les sommes en cause ne constituent pas un revenu d’emploi ni un salaire, mais plutôt des dommages‑intérêts libres d’impôt ou une autre indemnité quelconque en franchise d’impôt.
+L’appelante a soulevé plusieurs arguments. Je traiterai seulement de deux de ces arguments parce que, à mon avis, seul l’examen de ces deux‑là relève de la compétence de la Cour. J’ai expliqué à l’appelante les limites de ce domaine de compétence au cours de l’audience.
+D’abord, l’appelante a fait valoir que, puisque les sommes qui lui avaient été accordées ne l’indemnisaient pas de la totalité des pertes de salaire qu’elle avait subies, ces sommes ne pouvaient pas constituer un salaire.
+Un argument semblable a été avancé à l’égard de l’indemnité se rapportant aux iniquités touchant les heures supplémentaires ou le paiement des heures supplémentaires, à tout le moins pour une partie de la période visée par la décision, car le montant de cette indemnité n’a pas été fixé en tenant compte de chaque situation, et, donc, cette somme ne pouvait pas être considérée comme ayant été payée en tant que salaire.
+Un salaire, prétend-elle, est le revenu dont le montant correspond exactement à la somme à laquelle elle aurait droit en fonction de sa situation d’emploi réelle. Puisqu’elle a reçu une somme d’un montant inférieur, la somme touchée doit être considérée comme des dommages‑intérêts ou quelque chose d’autre qu’un salaire.
+Bien qu’habilement présenté, cet argument est, à mon avis, sans fondement et, de toute façon, il est en contradiction avec la jurisprudence actuelle portant sur les litiges en matière d'équité salariale et les principes généraux d’imposition.
+Affirmer que le fait de recevoir une partie d’un salaire n’équivaut pas à recevoir un salaire soulève la question de savoir qu’est-ce qui est reçu. Recevoir une partie d’un habit, ce n’est pas recevoir un habit, mais recevoir une partie d’une acre de terrain, c’est recevoir un terrain.
+À mon avis, recevoir une partie d’un salaire en souhaitant en obtenir davantage ne change pas la nature de la partie reçue.
+Quoi qu’il en soit, l’argument ne tient pas si l’on prend en considération les termes exacts employés dans la décision et la jurisprudence portant sur l’équité salariale. La décision, je parle de la décision du tribunal, prévoit expressément le paiement de l’indemnité en tant que rajustement salarial. L’indemnité est accordée en guise de salaire rétroactif en application de l’alinéa 53(2)c) de la Loi canadienne sur les droits de la personne, qui vise la totalité ou une fraction des pertes de salaire subies par une victime, selon ce que le tribunal juge approprié.
+Une indemnité d’un montant inférieur à la totalité des pertes de salaire ne change pas le fait que le tribunal a compétence pour accorder un montant de salaire rétroactif. Le fait que l’indemnité soit inférieure à la valeur des pertes n’en change pas la nature.
+En examinant ce même alinéa de la Loi canadienne sur les droits de la personne, la juge Woods a fait les commentaires suivants dans la décision Van Elslande, à laquelle a renvoyé l’avocat de l’intimée et sur laquelle j’ai aussi attiré l’attention des parties au litige vers le début de l’instruction. Je lirai les paragraphes 16 à 18 des motifs de ce jugement :
+« [16] L’indemnité a été accordée en application de l’alinéa 53(2)c) de la Loi canadienne sur les droits de la personne. Cette disposition énonce que le tribunal peut ordonner à un employeur d’indemniser la victime d’un acte discriminatoire des pertes de salaire entraînées par cet acte.
+[17] En l’espèce, la décision du tribunal montre clairement que la nature de l’indemnité est un dédommagement pour des pertes de salaire plutôt qu’un autre type de dommages‑intérêts.
+[18] Quant aux principes d’imposition qui s’appliquent en l’espèce, aucune des parties au litige n’a signalé à mon attention des décisions judiciaires rendues antérieurement sur cette question. En examinant brièvement la jurisprudence, j’ai découvert qu’un arrêt de la Cour d’appel fédérale portait sur l’imposition d’une indemnité accordée au titre de l’équité salariale. L’arrêt Morency c. La Reine a été rendu en janvier 2005 et concernait une indemnité accordée à une employée du Gouvernement du Québec relativement à l’équité salariale. La demande présentée dans l’affaire Morency concernait une situation de discrimination salariale visée par la Charte des droits et libertés de la personne du Québec, qui comporte des mesures législatives semblables aux dispositions régissant l’indemnité accordée à Mme Van Elslande. La Cour d’appel fédérale a confirmé la décision de la Cour canadienne de l’impôt et a décidé que l’indemnité était imposable en tant que revenu. Le juge Noël de la Cour d’appel a affirmé que :
+« La somme en question aura qualité de revenu si le paiement compense l'appelante pour le salaire qu'elle était en droit de recevoir mais qu'elle n'a pas reçu. »
+Je ne crois pas que le juge de la Cour d’appel voulait dire par là que l’indemnité ne représentera un revenu que si elle compense entièrement la perte du revenu auquel l’employé avait droit.
+À mon avis, le juge ne fait que répéter un principe bien établi en matière d’impôt, que l’avocat de l’intimée a mentionné et qui est exposé dans la décision Michelle Cloutier-Hunt de la Cour, au paragraphe 6. Quant à la question de savoir si une somme doit être considérée comme un revenu, les propos suivants tenus par la juge Sharlow de la Cour d’appel fédérale dans l’arrêt Transocean Offshore Limited ont été cités :
+« Pour les besoins de la partie I de la Loi de l’impôt sur le revenu, [...] »
+soit la partie en cause,
+« [...] il faut, pour répondre à cette question, appliquer la règle jurisprudentielle, parfois appelée "principe de la substitution", voulant que le traitement fiscal d’un paiement en guise de dommages‑intérêts ou de règlement soit le même peu importe l’objet du paiement. »
+Par conséquent, même si je ne me soumettais pas à la décision du tribunal et que je maintenais que la question n’est pas réglée parce que, comme l’appelante le fait remarquer en l’espèce, la somme versée est inférieure à ce qu’elle est en droit de recevoir, et que je ne suis donc pas lié par les décisions antérieures, et même si j’admettais que la Cour doit tenir compte de cette différence, j’aboutirais exactement à la même conclusion, en appliquant le principe de la substitution, selon lequel, comme il est expliqué dans un autre arrêt rendu par la Cour d’appel dans une cause semblable à la présente affaire, lorsque des dommages‑intérêts sont obtenus à la suite d’un règlement dans un litige quelconque, ceux‑ci doivent être considérés comme ayant la même nature, à des fins d’établissement de l’impôt sur le revenu, que ce que remplace le paiement en guise de règlement ou de dommages‑intérêts.
+Donc, les dommages‑intérêts deviennent un revenu, c’est‑à‑dire un revenu d’emploi, parce qu’ils servent à vous indemniser de vos pertes de salaire.
+Et le principe de la substitution, qui a été appliqué dans une cause semblable très récemment par la Cour d’appel, concorde avec la décision de la juge Woods, dans laquelle elle se fonde aussi sur un arrêt de la Cour d’appel portant sur les mêmes dispositions législatives que celles qui sont en cause en l’espèce.
+Par conséquent, je ne vois rien qui puisse étayer le premier argument que vous avez fait valoir à l’appui de vos prétentions.
+Le second argument dont je veux parler est celui selon lequel l’appelante ne doit pas être liée par la décision du tribunal étant donné qu’elle n’était pas une partie à l’instance, qu’elle n’était pas consciencieusement et diligemment représentée par son syndicat, ou que ses intérêts n’étaient pas consciencieusement et diligemment défendus, et qu’elle a accepté le montant de l’indemnité qui lui a été offerte en tant que dommages‑intérêts.
+Je reconnais que rien ne s’est passé comme l’appelante le prévoyait et le voulait. Elle estime que son employeur a décidé de façon irréfléchie du montant de l’indemnité au titre de l’équité salariale. Les sommes étaient, de fait, arbitraires.
+En ce qui concerne cet argument, tout ce que je peux dire c’est que le règlement résulte d’une ordonnance de la Commission canadienne des droits de la personne et ne peut être considéré comme étant inconsidéré. L’ordonnance et la décision du tribunal qui ont donné lieu à l’octroi de l’indemnité ont été rendues dans le cadre d’une instance où vos intérêts ont été diligemment et consciencieusement défendus et où il a été tenu dûment compte des personnes qui se trouvent dans des circonstances semblables aux vôtres.
+Et vous avez bien accepté le règlement. En effet, selon vos propres mots, vous avez accepté l’indemnité forfaitaire qui vous a été offerte. Votre acceptation de celle‑ci règle définitivement la question.
+Cet argument ne vous aide pas non plus.
+Finalement, au risque de me répéter, je tiens à souligner qu’il ressort de mon examen de la décision du tribunal que les membres de celui‑ci n’avaient aucun lien de dépendance avec votre employeur et que vos intérêts ont été défendus, malgré ce qui a pu être dit à ce sujet par l’Alliance de la Fonction publique du Canada.
+Vos attentes et vos circonstances personnelles, votre sentiment d’avoir été traitée injustement, et la déception que vous avez ressentie au cours de ce processus sont peut‑être justifiées à bien des égards, mais votre impression selon laquelle le Tribunal des droits de la personne n’a pas agi consciencieusement mérite selon moi que vous vous livriez à une réflexion critique.
+Quoi qu’il en soit, les appels sont rejetés.
+Traduction certifiée conforme
+ce 7e jour de novembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2007CCI555
+Nº DU DOSSIER DE LA COUR : 2006-2531(IT)I
+INTITULÉ : Eugenie E. Eaton et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 6 juillet 2007
+MOTIFS DU JUGEMENT : L’honorable juge
+J.E. Hershfield
+DATE DU JUGEMENT ORAL : Le 6 juillet 2007
+COMPARUTIONS :
+Pour l’appelante : L’appelante elle-même
+M. R. Routledge
+Avocat de l’intimée : Me Jeff Pniowsky
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

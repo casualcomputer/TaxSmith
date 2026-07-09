@@ -1,0 +1,209 @@
+Title: J. Hudon Enterprises Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28832/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-348-28832-j-hudon-enterprises-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-08-12
+
+# J. Hudon Enterprises Ltd. v. The Queen
+
+- Citation: 2008 TCC 348
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1342, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+J. Hudon Enterprises Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-12
+Neutral citation
+2008 TCC 348
+File numbers
+2004-3932(GST)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3932(GST)G
+BETWEEN:
+J. HUDON ENTERPRISES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 14 and 15, 2008, at London, Ontario
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+Counsel for the Appellant:
+Susan Fincher-Stoll
+Counsel for the Respondent:
+Michael Ezri
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, for the period January 1, 1999 to December 31, 2001, dated July 6, 2004 and bears number 08GP-GL0328 0093 0485, is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the exemption provided under subsection 188(2) of the Act.
+The penalties are deleted.
+The Appellant is entitled to its costs of this action, to be taxed
+Signed at New Glasgow, Nova Scotia, this 12th day of August 2008.
+“T.E. Margeson”
+Margeson J.
+Citation: 2008TCC348
+Date: 20080812
+Docket: 2004-3932(GST)G
+BETWEEN:
+J. HUDON ENTERPRISES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] This appeal is from an assessment under Part IX of the Excise Tax Act for the period January 1, 1999 to December 31, 2001 (the “Period”), and notice of reassessment number 08GP-GL0328 0093 0485 dated July 6, 2004.
+[2] In general the Minister takes the position that the amounts received by the Appellant during the Period were in respect of driver and training income.
+[3] The Appellant contends that the amounts in question were not subject to GST as they are amounts that were received as prizes given to a competitor and, thus, are not subject to GST pursuant to subsection 188(2) of the Act.
+Evidence
+[4] The parties introduced as part of the evidence, Exhibit A-1, which is a Joint Trial Book of Documents. This document was introduced without limitations.
+[5] Hugh Mitchell testified that he was the Chief Executive Officer of the Western Fair Association. He had three tenures with the Western Fair Association. April 2005 was his last one. He has been involved in the industry since 1982. He said that the Ontario Racing Commission (“ORC”) manages and controls racing in Ontario and that the Ontario Harness Horse Association (“OHHA”) requires an agreement with the various tracks as to how they share purses.
+[6] He referred to Exhibit A-1, Tab 23, Rule 18 on page 65 of the rules of standardbred racing with respect to the placing and money distribution. In each separate race the distribution of purse money goes to the first five places. He referred to Rule 18.11 which he said provided that drivers’ and trainers’ fees may be deducted and paid to them. Where there is an agreement between a recognized horse harness participants association and a racing association, it must be filed with the Commission. Western Fair has an agreement with OHHA. Such a rule has been in place for 20 years.
+[7] He referred to Exhibit A-1, Tab 3 which is an Agreement between the OHHA and Hiawatha Horse Park Inc. This is a typical agreement between horse people “and the race track”. Article 9.02 authorized the Company to withhold five percent of all purse money won by horses driven by each driver. The sums were to be paid once per month. Article 3.05 is an agreement with respect to the establishment of a separate purse or trust account, satisfactory to the OHHA, as a safeguard against unpaid purses. The monies go into a special purse account to protect “horse people”.
+[8] Out of this account, the morning after according to the order of finish, the owners and drivers are paid their entitlement with respect to how they finish the race. The agreement was with OHHA which represents the trainers and drivers. This agreement has been in place for 20 years.
+[9] He identified the agreement in Exhibit A‑1, Tab 3 as an agreement between the OHHA and Hiawatha Horse Park Inc. He said that this is an agreement between the horse people and the race track. It was registered by OHHA. Article 9.02 of that agreement said that:
+The Company shall, as authorized, by the Ontario Racing Commission Rule 18.11, withhold on behalf of all drivers competing at Hiawatha Horse Park five (5) percent of all purse money won by horses driven by each driver. All sums shall be paid within one month.
+[10]Article 9.01 provided that “Purse cheques shall be made available to horse owners by the Company weekly on a specified day”. He said that all monies would go into a special purse account to protect the horse people. Out of this account, the morning after, based on the finish, the owners and drivers are to be paid. The first place horse would receive 50 percent which would be paid to the owner, less five percent to the driver and five percent to the trainer.
+[11] Rule 18.08 provided that if a horse was disqualified, all monies would go back to the OHHA within 15 days and be redistributed. If the horse was disqualified, the owner, the driver and the trainer received nothing.
+[12] He referred to the document located in Exhibit A-1, Tab 22 as a Memorandum of Agreement between the Ontario Jockey Club and the OHHA. It is similar to the Hiawatha Horse Park Agreement. He said that Woodbine is the only track in Ontario that has thoroughbred racing and standardbred racing and has set up an account for each horse owner and deposits the money into their account. Only their share went into the owners’ account and the trainers’ and drivers’ share was paid directly to them by Woodbine. He referred to Exhibit A-1, Tab 5 which were the Auditor’s Working Papers with respect to the present matter which said that these conclusions are wrong with respect to standardbred horses. He did not know the procedure with respect to jockeys who rode thoroughbred horses.
+[13] He referred to Exhibit A-1, Tab 2 which he described as an apparent ruling letter for Revenue Canada. On page 2 of that document it referred to the practice of depositing the money for the jockeys and drivers directly into their own account and therefore the payment would not be taxable. At that time they would have followed the same procedure – drivers and trainers, 5% directly. He added that they account to the owners for the deductions.
+[14] The trainer is responsible for care and custody of the horse at all times. There is training required and a trainer is also paid a daily rate as well as a share of the prize money. The trainer is responsible for entering a race horse in the race. He also selects the driver. The trainer must declare the horse and driver eligible. If the driver is selected for more than one horse, he selects which horse he would like to ride.
+[15] In cross-examination he said that a groom is a caretaker of the horse. To a much lesser extent he has an effect on the success of a horse in a race. He was familiar with the document at Exhibit A-1, Tab 26 which is a document of the Ontario Racing Commission. It is a directive. He was also familiar with the directive at Exhibit A-1, Tab 25 as to rule changes. He said the grooms were added but it was not mandated unless the OHHA has such an agreement.
+[16] He considered the trainer to be a competitor but a blacksmith was not a competitor. Further, the veterinarian, the groom and the blacksmith do not get a share of the purse money.
+[17] A percentage of the fee is mandated by the Ontario Racing Commission but it is not in the rules. However, that is the way it works.
+[18] He agreed that rule 9.02 of the agreement between the OHHA and Hiawatha Horse Park Inc. did not refer to the trainer having his percentage withheld by the Company. He agreed that there was no reference to the drivers’ and trainers’ percentage in the Memorandum of Agreement between Ontario Jockey Club and the OHHA found in Exhibit A-1, Tab 22. Agreements vary although the Ontario Racing Commission mandates it and they all pay it.
+[19] He confirmed that Woodbine is the largest racetrack in Ontario and does 65% of the para-mutual betting. He referred to the document in Exhibit A-1, Tab 28, between J. Hudon Enterprises Ltd. and Her Majesty the Queen, which was the Affidavit of Bruce Murray and agreed that Woodbine treats these amounts as coming out of the owners’ account, and not paid to the driver or owner and trainer separately.
+[20] In response to questions by the Court, he said that Western Fair gets 50% of the purse and sends cheques to the driver and trainer for five percent and the balance to the owner. He also referred to Exhibit A-1, Tab 20 and, in particular, Rule 2.10 and he said that the OHHA deducts five percent for the trainer and five percent for the driver. This is standard in the business.
+[21] He referred to Exhibit A-1, Tab 28, paragraph 4. It said:
+During the Period, drivers and trainers of a horse who placed fifth or better in a given race received a payment equal to 5% of the portion of the purse awarded to the owner of the horse who competed.
+[22] Joseph Phillip Hudon testified that he was a horse trainer, owner and driver and was involved in harness racing for 46 years. He breeds four to five mares, trains harness racing horses and races them. Most of the work is done at his farm. He has 25 to 30 horses at any one time. His wife works at the farm as well. He charges so much a day for his services, this is a standard fee. He is familiar with the Ontario Racing Commission rules and regulations that were followed. He held a licence as an owner, trainer and driver. He is also a member of the OHHA and participates in standardbred racing. He never received a challenge from CRA with respect to his position as an owner. He never collected and paid GST. He is paid five percent for training and five percent for driving from the race track itself.
+[23] For a disqualification, he notified the Racing Commission and was told to give the money back.
+[24] The trainer is responsible at all time for the horse. The trainer needs a licence but the owner has nothing to do with the eligibility of a horse. That is for the trainer and he usually picks the driver. The drivers pick the best horse that will earn the most money.
+[25] He said that paragraph 7(c) in the assumptions in the Reply is incorrect. The Minister admitted that this was an incorrect assumption. The assumption provided that the Appellant was entitled to be paid a fee by the owner of a horse whenever the Appellant drove a horse in a race or trained a horse driven in a race. A jockey gets paid a fee if the horse wins or not. A flat rate. The owner pays the jockey. This witness only did standardbred racing.
+[26] In cross-examination he agreed that one of the reasons for the method of distribution of the money is to ensure that the trainers and drivers get paid without chasing the owner around. It did not matter to him where the money came from except for GST purposes. He admitted that he did not know who owned the purse.
+[27] Karen Rose Hudon testified that she was involved in harness racing since she was 12 years old. She trained and drove horses but now she just helps her husband out at the farm. She is a co-owner or helper, not the trainer of record. She is a licensed trainer, owner and racer. She is a member of the OHHA. She is familiar with the Ontario Racing Commission rules and said that a five percent payment to the driver and the trainer is not in the rules, but they are paid five percent each. Some tracks mail them out and sometimes she picks them up. Some tracks mail a separate fee for the driver and trainer and some issue a cheque with the breakdown. Some tracks show GST and some do not, for drivers and trainers.
+[28] Lona Linda Moffatt testified that she was a Commission Official with the Ontario Racing Commission. She does the licensing, finger-printing and collection of fines. She worked in that aspect of racing for 24 years. She had 42 years experience in horse racing. She is familiar with the rules of standardbred racing and is familiar with the OHHA. When the GST first came in Western Fair Racing was deducting five percent for trainers, and five percent for drivers and GST.
+[29] In October they no longer paid GST and so she wrote to Revenue Canada. She received the response from the District Excise Office found in Exhibit A‑1, Tab 2, regarding liability for GST for the amounts payable to drivers and trainers. Their letter indicated that if the monies were paid directly to them from purse winnings, there was no GST.
+[30] Purse money is money put up by the race track for that race. It is prize money. They have to finish in the first five in order to be entitled to any of the money. It is put in a purse account for the top five horses. The trainer and driver are listed. This money is split. The first place horse gets 50%. Western Fair gets the information at their bookkeeping department. The amount of five percent is deducted for the trainer, five percent for the driver and 90% goes to the owner.
+[31] The money comes from each race track. Cheques go out each month and it lists the names of the horses and their finished position. The sum of five percent is paid to each. If the owner was also the trainer and driver, then he received three cheques. It has been the same since 1985.
+[32] A trainer has the horse in his possession at the track at all times. He brings the horse in, unloads it, has a groom with him and warms him up before the race. There is no invoice for the efforts of the trainer at the track.
+[33] She referred to the letter dated April 8, 1992, in Exhibit A-1, Tab 29, which is a letter she received from the District Excise Office in response to her request for information. Several portions of the letter are blackened out. Revenue Canada was changing its position that they had earlier taken on December 20, 2000 which said that there was no GST for drivers and trainers.
+[34] She identified Exhibit A-2 which is a letter written to her from the Rulings Department of Revenue Canada dated November 23, 2005. It was a letter in which Revenue Canada was changing their stance that they had earlier taken with respect to the amounts paid to trainers and drivers.
+[35] In cross examination she said that the Ontario Racing Commission takes no position as to who is the owner of the purse money because it is dealt with by individual tracks.
+[36] In re-direct she said that the Rulings letter found in Exhibit A-1, Tab 2, was never revoked. Further, Exhibit A-2 was never revoked.
+[37] The Respondent called Bruce Edward Barbour, who was the Executive Director for Great Canadian Gaming, Georgian Downs and Flamboro Downs. This was a public traded company. He spent two and one-half years in that position. He ran racetracks in British Columbia. He was involved in the racetrack business for 23 years. He knew the Appellant for 23 years.
+[38] He was responsible for both racetracks and for the amount of profit or loss generated at the tracks. He was familiar with the document found in Exhibit A-1, Tab 20, which was an agreement between the OHHA and Flamboro Downs Holdings Limited. They had a contract with the OHHA about conditions at any of the tracks. Any driver or trainer can bring a horse to the track if they are a member or not. He referred to Article 2.10 and said that we “cut three cheques”. The money comes in from betting and from the slot machines and goes into a purse pool account. Cheques are drawn on the purse account.
+[39] Steven Leslie Lehman was an accountant and chief executive officer of the Ontario Racing Commission. He had been at that position for one year. He spent two years with the OHHA. The Ontario Racing Commission governs horse racing in Ontario. It governs licensing, racing rules and judging, fines, penalties, etc.
+[40] He was familiar with the purses and he oversees the purse money. With respect to the distribution of the prize money – he said that 90% goes to the owner, five percent to the driver and five percent to the trainer. He referred to Exhibit A‑1, Tab 23, Rule 18.11 which provided that “Where an agreement exists between a recognized harness participants’ association and a racing association, drivers’ and/or trainers’ fees may be deducted from the purses payable to owners and paid to the drivers and/or trainers within 30 days.” This should not be interpreted too literally. He did not agree that a fair reading would be that the purse belongs to the horse owner.
+[41] His association does have some input into laws which provides that they deduct five percent drivers’ fees and five percent trainers’ fees from purses payable to owners and pay the monies deducted in a manner satisfactory to both parties.
+[42] They do not insist that such a clause be in an agreement. Rule 18.11 was in effect at the time of this case.
+[43] Counsel for the Appellant read in questions 100 and 101 from the discovery transcripts.
+Argument on Behalf of the Appellant
+[44] Counsel for the Appellant argued that the only issue was whether or not money that was received as “purse money” was subject to GST. It was not subject to GST because it was a prize under GST provisions and is exempt under subsection 188(2) of the Excise Tax Act (“Act”). The situation at bar falls squarely within this section. Evidence given in Court supports this.
+[45] Subsection 188(2) of the Act provides as follows:
+Prizes in competitive events – Where, in the course of an activity that involves the organization, promotion, hosting or other staging of a competitive event, a person gives a prize to a competitor in the event,
+Legislation
+(a) the giving of the prize shall be deemed, for the purposes of this Part, not to be a supply;
+(b) the prize shall be deemed, for the purposes of this Part, not to be consideration for a supply by the competitor to the person; and
+(c) tax payable by the person in respect of any property given as the prize shall not be included in determining any input tax credit of the person for any reporting period.
+[46] There was an activity. Horse racing is an activity. The racing takes place at various hosting clubs. The Appellant falls within this provision.
+[47] The driver and the trainer are competitors in an event. Witnesses testified about the Rules in this regard. Without the driver, the horse cannot compete. The driver is a competitor.
+[48] The trainer is also a competitor according to the evidence of Mr. Mitchell and Ms. Moffatt. The trainer is responsible for the care of the horse. He enters the horse in the race, he selects the driver and he selects the race in order to increase his chances of winning. All of the things that he does impacts directly on where the horse places in the race or event.
+[49] Other evidence showed that only the top five places paid. Five percent goes to the driver and five percent to the trainer. The Rules set out how the prize money is to be divided. This is standard in the industry. This is a competition. Race and industry standards reflect the fact that the driver and the trainer are competitors. The Respondent submits that the owner of the horse pays the drivers and trainers. If so, why do the competitors from sixth place on get nothing? There is no fee for their service.
+[50] She referred to the definition of “prize” found in Black’s Law Dictionary, 5th edition, West Publishing Co., St. Paul Minn. 1979, p. 1080 which says:
+Anything offered as a reward of contest. A reward offered to the person who, among several persons or among the public at large, shall first (or best) perform a certain undertaking or accomplish certain conditions. An award or recompense for some act done; some valuable thing offered by a person for something done by others. It is distinguished from a “bet” or “wager” in that, it is known before the event, who is to give either the premium or the prize, and there is but one operation until the accomplishment of the act, thing, or purpose for which it is offered.
+[51] Generally, the purse money is clearly a prize. According to Mr. Langdon’s evidence, the purse is the prize for winning. Books are kept of the winners. The owner gets 90%, the trainer gets five percent and the driver gets five percent. The track is administering the horsepersons’ money to owners, drivers and trainers. Rule 18 cannot be read literally.
+[52] The Respondent contends that the prize is given to the owner who then pays the driver and trainer for a service. But the Appellant receives its share from the track and not from the owner. Rule 18.11 was introduced many years ago. The drivers and trainers had to chase around to obtain their money. This was indicative that the drivers and trainers were entitled to a share of the prize.
+[53] If it is a service, why do only the top five finishers have to give the money back if the horse is disqualified? If it was a service, why would the Commission be involved? The Commission gets involved because it is a part of the prize and those entitled should get their share of it.
+[54] Alternatively, even if the prize was given by the owner to the drivers and trainers, it is not subject to GST. The legislation does not require that the prize be given by the person hosting the event.
+[55] Counsel referred to the Government Publications, Technical Notes with respect to subsection 188(2). That Technical Note indicates that the awarding of the prize is not considered to be a supply, nor is the prize itself considered to be consideration for any supply.
+[56] In the case of R. v. Savage, [1983] C.T.C. 393, the Court referred to the case of The Queen v. McLaughlin, [1979] 1 F.C. 470 where it said
+In my opinion, the word “prize” connotes something striven for in a competition, in a contest, and I do not think that there can be a competition or a contest in the real sense without the participants being aware that they are involved.
+[57] The Court went on to say as follows:
+The word “prize”, in ordinary parlance, is not limited to a reward for superiority in a contest with others. A “prize” for achievement is nothing more nor less than an award for something accomplished. There is no need to pluck the word “prize” out of context and subject it to minute philological examination or to think of “prize” in the context of the medal or book one may have won at an earlier date on a field day or at school or in a music competition.
+[58] In that case the Court was considering a section of the Income Tax Act, but in the case at bar we are not considering the Income Tax Act we are merely considering the provisions of subsection 188(2) of the Excise Tax Act.
+[59] The owner of the prize does not have to be the stager of the event. Counsel referred to the Rulings letters dating back to 1992 in support of the argument that the Minister even considered these amounts not to be taxable but then changed his mind.
+[60] The facts of this case fall squarely within the provision of subsection 188(2). The appeal should be allowed with costs.
+Argument on Behalf of the Respondent
+[61] Counsel argued that this case comes down to, who has the legal obligation to pay for the “services” of the trainer and driver. If the obligation is owed by the race track, subsection 188(2) applies. If the obligation is owed by the owner and only administratively by the track, subsection 188(2) does not apply.
+[62] Counsel put forward that the trainer and the driver are not competitors although he did not put forward this argument with a great deal of zeal or obvious conviction.
+[63] The payment is owed to the Appellant by the owner of the horse and is consideration for the supply of the driver and training services. As a result the GST must be charged on the payments to the driver and the trainer.
+[64] The racetracks who organize the harness races are not personally liable to pay anything to the drivers and trainers. They simply administer what is owed by the owners to avoid repetition of past problems in the harness racing industry, that the drivers and trainers had to chase after the owners to get paid. The track does not take on liability for driver and trainer payments. They simply become conduits to which the payments flowed. The purse awarded for the race continued to belong to the owner of the horse.
+[65] In support of his argument counsel referred to the fact that Woodbine Raceway, the largest raceway in Ontario, transferred all purse money payable as a result of a race from the purse account to the account of the owner. The driver and trainer payments were drawn on the account of the owners and not on the purse account. Woodbine’s position is consistent with the contract entered into between themselves and OHHA. That contract contains no requirements that Woodbine make payments of any kind to the drivers and trainers. The cheques are made by custom in the industry and that same custom dictates that the payments are owed by the owners.
+[66] He referred to the agreement in Exhibit A-1, Tab 20, which is an agreement between the OHHA and Flamboro Downs Holdings Limited which states that driver and trainer fees are to be deducted, “from the purses payable to the owners”. Flamboro did not contemplate the assumption of any liability to the driver or trainer.
+[67] The agreement in Exhibit A-1, Tab 21 between the OHHA and Woolwich Agricultural Society is equally clear as to whom the purse money belongs. Paragraph 6.7 provides that the drivers’ and trainers’ fees are deducted from the “purses payable to owners”. The agreement in Exhibit A-1, Tab 3 between the OHHA and Hiawatha Horse Park Inc. also describes the purse amounts as money won by the horses driven by each driver. That agreement makes no mention of withholding for the trainers.
+[68] Mr. Mitchell testified on direct examination and confirmed on cross-examination that the purse money was owed to the owner of the horse. Consistent with that testimony, he explained that his race track accounted to the owner for deductions made from the purse.
+[69] At trial Mr. Hudon testified that he did not know who the owner of the purse was prior to its distribution. The position of Mr. Leeman of the ORC was that ORC takes no position as to whom a purse belongs and has no involvement in setting the amounts payable to drivers and trainers. He opined that it is equally clear from Rule 18.11 of the Rules of racing that the purses are initially payable to the owners. It is noteworthy that section 18.11 has since been amended to provide for the deduction and payment of fees to grooms out of purse amounts. There is no suggestion that the grooms are directly entitled to a share of the purse.
+[70] He submitted that the payments are not a prize given by the race tracks to the drivers and trainers. The race tracks simply administer the payment of driver and trainer fees owed by the owners of the horses. He took the position that the combined affect of the provisions of the Excise Tax Act is that the person who is liable to pay the driver and trainer fees, either by the custom of the harness racing industry and/or pursuant to a specific contract, is a recipient of a supply and is also liable to pay GST on the fees. Under section 188 of the Excise Tax Act, it would make no difference whether the payment was owed by the owner or the race track; GST would be payable.
+[71] Subsection 188(2) does not apply to the driver or trainer payments here. In this case, the only persons who can award a prize that qualifies under subsection 188(2) are the race tracks. However, it is the owners and not the race tracks who pay the driver and trainer fees.
+[72] The race track awards the purse to the owner of the horse and to no one else. The purses belong to the owners who are in turn obligated to pay the drivers and trainers.
+[73] The Appellant’s argument that the race tracks award part of the purse to the drivers and trainers runs afoul of the Criminal Code. He referred to paragraph 202(1)(c) of the Code which makes it an offence to have under one’s control “money or property relating to a betting transaction”. Subparagraph 204(1)(a)(ii) creates an exception for amounts to be paid to the owner of a horse. This assumption is not extended to amounts to be paid to drivers or trainers. The owners of the horses are the persons who are liable to make good the driver and trainer payments. However, the owners are not the organizers of the race so section 188 has no further application. The payments are taxed as consideration for the driver and trainer services.
+[74] He also argued that drivers and trainers are not competitors, nor is skill and ability an important element in determining the outcome of the race. Numerous other licensed participants in a harness race will also contribute to the outcome of the races.
+[75] The essence of the harness race is that the true competitors are the horses rather than the drivers and trainers.
+[76] In conclusion, the driver and trainer payments have historically been owed by the owners to the drivers and trainers. The administration of those payments by race tracks has not altered this historic relationship. The purse belongs to the owner and the payments out of the purse discharge the owner’s liability to the drivers and trainers and not the liability of the race track. This analysis is most consistent with the agreements and rules that have been placed into evidence and with the exception of section 204 of the Criminal Code which permits payments to the owner of the horses and not to the drivers and trainers.
+[77] The Respondent requests that this appeal be allowed, but only to the extent of $741.58 in 2000 and $3,563.03 for 2001 and further that the penalty imposed under section 280 of the Excise Tax Act be vacated.
+Analysis and Decision
+[78] Although not germain to the decision in this case, it is noteworthy that the Minster on two occasions made two different rulings. Firstly, the Minister decided that if the monies received by the trainers and drivers were paid by the race track they did not attract GST and the second ruling was that the GST was payable, immaterial of whether the money was paid by the racetrack or the owner.
+[79] One can appreciate the confusion that these two rulings must have created in this racing business and one can see the Appellants here throwing up their hands in despair wondering which way they should go.
+[80] However, whatever the Minister decided with respect to the rulings, they are not binding on this Court. This Court has to decide whether or not payments made to the owners and drivers were exempt under the provisions of subsection 188(2) of the Act.
+[81] The Court is satisfied that the answer to this question does not lie in the determination of who pays the money. It is satisfied that the payments might be taxable or non-taxable, immaterial of whether they were paid by the race track operators or by the owner of the horses.
+[82] The real question before the Court is who is the “owner” of the purse out of which come the amounts paid to the drivers and trainers.
+[83] In answering the question in this case the Court must look closely at the wording in subsection 188(2). There are a number of constituent elements of this section that the Appellant must satisfy if he is to be successful in satisfying the Court that these funds received by the trainers and drivers are exempt from GST.
+[84] One of these terms is “activity”. That activity must involve the organization, promotion, hosting or other staging of a competitive event where a person gives a prize to a competitor in the event.
+[85] Without question, on the basis of evidence in this case, there was an activity that involved the organization, promotion and hosting or staging of a competitive event. There can be no doubt that all of these factors have been met.
+[86] According to the argument of counsel for the Respondent, the Appellant runs afoul of the provisions of subsection 188(2) because there is no prize given to a competitor in the event. His argument is that the trainer and driver are not competitors in the event.
+[87] But in accordance with the evidence given, and any reasonable conclusions that the Court is entitled to draw from the evidence, it is satisfied that this was a competitive event and the Appellant was a competitor in the event whether it be as an owner, driver or trainer.
+[88] Furthermore it is noteworthy that according to the witness Hugh Mitchell, it was the trainer who was responsible for the care and custody of the horse at all times. He also indicated that the trainer was also paid a daily rate as well as a share of the prize money. This daily rate is not the subject matter of this hearing.
+[89] The witness said that the trainer is responsible for entering a race horse in the race. He also selects the driver. The trainer must declare the horse and driver eligible. It was obvious that the trainer is a very important part of the whole racing process, more so than a groom, who is really a caretaker of the horse, and to a much lesser extent has an effect on the success of the horse.
+[90] One can readily conclude from the evidence of this witness that the driver as well as the trainer is a very important part of the process and has a great deal of effect on the outcome of the race and the success of a horse, consequently the amount of money to be earned by the parties.
+[91] The Court does not believe that it makes any difference whether grooms are added to the list of persons where agreements mandate that they should be paid what they are entitled to. The Association has such an agreement. This witness said “the trainer is a competitor”, however a blacksmith is not and a veterinarian is not. He did consider that they received a portion of the purse.
+[92] Joseph Philip Hudon testified that he was a participant in standardbred racing and he participated as an owner, a driver and a trainer. He also distinguished his position from that of a jockey. He was paid a fee if the horse runs or not whereas the driver and trainer get no fee unless the horse runs and wins. The jockey has a flat fee and is paid by the owner. This is part of the situation of the trainer and driver in standardbred racing.
+[93] This witness was prepared to admit that he did not know who owned the purse. There was no question in his mind that he was a part of the competition and that he received a part of the prize (purse).
+[94] It is obvious from the evidence alone of Lona Moffatt, a very knowledgeable person in the horse racing industry, that the money was put up by the race track. Each trainer and driver is listed for each race and that the “purse money” is split (here she obviously was referring to a split between the owner, the trainer and the driver). As indicated, she also said that the ORC takes no position as to who was the owner of the purse as this money is dealt with by individual tracks.
+[95] The evidence of Bruce Edward Barber was that it was his understanding that the money payable to the trainer, driver and owner was drawn on the purse account set up by the track from monies that comes in from betting, the slots and other sources of income. He referred to it as the “purse pool account”. This evidence was corroborated by that of Stephen Leaham, who in his direct examination said that he did not agree that a fair reading of the rule would be that the purse belongs to the horse owner. He obviously believed otherwise.
+[96] The Court is satisfied that the Appellant has successfully rebutted some of the significant assumptions that the Minister made in the Reply. One such assumption was found in paragraph 7 (c) where it said that “the Appellant was entitled to be paid a fee by the owner of a horse whenever the Appellant drove a horse in a race or trained a horse driven in a race”. That is obviously incorrect and was refuted outright. The assumption obviously played an important part in the position that the Minister took in making this assessment.
+[97] The Court is further satisfied that the Appellant has successfully rebutted the assumption that money won in a race (the “purse”) was won by, and belonged to, the owner of the horse and not to the Appellant. In a fair interpretation of the evidence of all of the witnesses given in this case, and the Court drawing the appropriate conclusions that it is entitled to draw from the evidence; that is not the case.
+[98] The Court is satisfied that the purse belonged to the owner, the driver and the trainer in this instance. This finding is immaterial of how the money is distributed or who distributed it.
+[99] The Court is satisfied that from the beginning to the end the purse belonged to the owner, the driver and the trainer in the proportions that have already been referred to from many of the witnesses.
+[100] The Court is satisfied that the Appellant has successfully rebutted the assumption found in paragraph 7 (e) of the Reply that the Appellant is entitled to be paid a commission that is equal to five percent of the purse for driving and/or five percent for training. The Court is satisfied that the Appellant has successfully rebutted the assumption contained in paragraph 7 (f) of the Reply that “The Commission was owed to the Appellant by the Owner and never by the racetrack where the race was held, or by anyone else responsible for organizing, promoting, hosting or otherwise staging the race”. The Court is satisfied that the amount was not a commission as indicated above firstly, and secondly, that the amount payable to the driver and the trainer was payable by the race track where the race was held. These are the people who were responsible for organizing, promoting, hosting or otherwise staging the race.
+[101] With respect to the argument of counsel for the Respondent with respect to paragraph 202(1)(c) of the Criminal Code, the Court is satisfied that this can have no effect on the issue which is before this Court. If someone else, at some other time, offends that legislation then the action that has to be taken is by the appropriate authorities.
+[102] The Court is not deciding whether or not there was a violation of this Criminal Code section nor will it speculate as to why, if there was such a violation, no actions have been taken by any parties. Suffice it to say the Court is not prepared to conclude that because there was a possible violation of the Criminal Code if the monies were paid to anyone but the owner, then the monies must have been owed to the owner of the horse.
+[103] At the end of the day, the Court is satisfied that the Appellant has rebutted the necessary presumptions contained in the Reply and has satisfied the Court on the balance of probabilities that it is entitled to the exemption provided under subsection 188(2) of the Act.
+[104] The appeal is allowed and the matter is remitted to the Minister for reconsideration and reassessment on the basis of the Court’s finding that the amounts in issue, at this time, are not subject to taxation under the GST provisions of the Act.
+[105] It follows that the penalties will be deleted.
+[106] The parties have agreed that in the event that the appeal is allowed, the sum of $3,591.03 that was actually collected as GST by Appellant from Woodbine Race Track is remittable with $2,263.78 allocated to 1999, $604.03 allocated to 2000 and $723.22 allocated to 2001.
+[107] The Appellant is entitled to its costs of this action, to be taxed.
+Signed at New Glasgow, Nova Scotia, this 12th day of August 2008.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2008TCC348
+COURT FILE NO.: 2004-3932(GST)G
+STYLE OF CAUSE: J. HUDON ENTERPRISES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: May 14 and 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: August 12, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Susan Fincher-Stoll
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Susan Fincher-Stoll
+Firm: Harrison Pensa
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,107 @@
+Title: McGrath v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27667/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-295-27667-mcgrath-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-07
+
+# McGrath v. The Queen
+
+- Citation: 2007 TCC 295
+- Decision date: 2006-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 488, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGrath v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-07
+Neutral citation
+2007 TCC 295
+File numbers
+2006-1383(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC295
+Date: 20070528
+Docket: 2006-1383(IT)I
+BETWEEN:
+SUSAN McGRATH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant herself
+Counsel for the Respondent: Gatien Fournier
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on
+November 7, 2006, in Belleville, Ontario.)
+McArthur J.
+[1] The issue is whether the Appellant is entitled to deduct the tuition fee of $3,933 in the computation of her non‑refundable tax credits in her 2004 taxation year. The Minister of National Revenue states that the Appellant was not in full‑time attendance at a university outside of Canada within the meaning of paragraph 118.5(1)(b) of the Income Tax Act while she was taking a distant‑learning program via the internet or online.
+[2] The 54‑year‑old Appellant has been teaching elementary school for over 30 years and earns about $75,000 annually. She is a single mother of three boys, all over the age of 20. She completed her Master's Degree at Walden University, a recognized institution in Chicago, Illinois, and a member of the North Central Association of Colleges. All courses were on line. She did not set foot on a traditional campus with lecture rooms, libraries and the like. Her involvement included what she described as the face‑to‑face format where she worked with two or three other students, including two teachers under the same school board she works for. Her teaching duties were from 8:00 a.m. to 4:30 p.m. five days a week. Her studies occupied 25 hours per week, including two to two‑and‑a‑half hours each evening, all Saturday afternoon and all day Sunday. Much of her university work was done in concert with the two other teachers on her team. She succeeded in obtaining her Master's Degree which is recognized by her school board, and indeed recognized under the Income Tax Act. She stated it was a huge undertaking, but she is a much better teacher because of it.
+[3] She was motivated to commence this appeal after reading Krause v. The Queen,[1] a decision of Chief Justice Bowman from which she quoted the following paragraph:
+It is obvious therefore that the matter is by no means clear-cut. Although I need not decide the point since the appeal must be dismissed in any event because it is from a nil assessment, I think it is strongly arguable that full-time attendance at a foreign university can include full‑time attendance through the internet or on-line as is the case here. That view conforms to common sense and to the reality of modern technology. If there continues to be doubt on the point Parliament should move to resolve that doubt.
+I should point out that a copy of Krause was fairly given to her by an officer of CRA, and by Mr. Fournier, the Respondent's counsel at this appeal.
+[4] This raises an important issue that is answered with reference to paragraph 118.5(1)(b) of the Act which reads:
+For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+…
+(b) where the individual was during the year a student in full‑time attendance at a university outside of Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage of the year is multiplied by the amount of fees for the individual's tuition paid in respect of the year to the university.
+[5] It should be noted that the Minister has conceded that the Appellant is entitled to the $750 education amount she claimed under section 118.6. There are two parts to section 118.5 in deciding whether the Appellant was a student in full‑time attendance at Walden -- Walden advertises itself as America's premier online university -- (a) was she in attendance at Walden; and (b) if yes, then was her attendance full time?
+[6] I will first deal with (b). If following courses online is attendance, then I find she met the full‑time requirement. Minister's counsel submitted that the present facts could be distinguished from Krause in that Mr. Krause spent between 22 and 36 hours per week on his course while working 30 hours or less at a McDonald's Restaurant. The Appellant spent 20 to 25 hours weekly on her course and worked 40 hours weekly teaching school. I do not think these differences in hours have an appreciable effect on whether she was full time.
+[7] I accept her evidence that she was considered by Walden as in full‑time attendance. She received the following letter from the Elementary Teacher's Federation of Ontario. It is dated June 30, 2005 and reads in part:
+On behalf of the executive of the Elementary Teacher's Federation of Ontario, I wish to extend my personal congratulations to you for having been selected as a recipient of the Master's Scholarship Women's Program. Enclosed is a cheque for $1,500.
+Obviously, the Elementary Teacher's Federation of Ontario recognized Walden and the degree for which she was studying.
+[8] I find the Appellant is very deserving of the modest tax relief she seeks. After considerable effort and sacrifice, she completed studies that made her a better school teacher. She could not have left her family and her teaching salary to relocate on the campus of, for instance, Queen's University, or any other in or outside of a Canadian university. As stated, I find that she meets the full‑time requirement.
+[9] The more difficult question is whether she was in attendance at Walden. Mr. Fournier provided two cases with facts similar to the present situation where it was decided in favour of the Minister's position, and with these cases I will deal with the interpretation of the word "attendance" within the meaning of full‑time attendance as contained in subsection 118.5(1).
+[10] In Hlopina v. The Queen,[2] Bowie J considered the meaning of full‑time attendance. He concluded that taking a correspondence course was not attendance. He said in paragraph 12 of his decision:
+The ambiguity in the English text is resolved by reference to the French version of the Act. The expression "... le particulier fréquente comme étudiant à plein temps une université..." used in paragraph 118.5(1)(b) is in contrast to the expression "… université située à l'étranger, oừ le particulier ... est inscrit ..." used in paragraph 118.6(1)(b). Clearly, the former requires physical presence at the university, while the latter does not.
+And continuing on with the quotation from Judge Bowie's decision:
+… Where, as here, one version of the statute is clear and unambiguous, while the other might bear the same or a different meaning, I am bound to apply the meaning which is common to both versions. While the verb 'to attend' in English might connote something other than physical presence, the same cannot be said of the French verb 'fréquenter'. I must, therefore, reluctantly conclude that the tuition credit under section 118.5 of the Act is not available to a taxpayer who studies by way of correspondence courses taken at a university outside of Canada. I share the sentiment expressed by Heald J. in Richie where he said.
+I said at the trial that I was sympathetic to the respondent's position. He and others like him are to be commended for their industry, their perseverance and their dedication to self‑improvement. It may well be that the respondent and other taxpayers in a similar position should be able to deduct tuition fees in these circumstances. However, it is not the Court's function to legislate ‑‑ I can only interpret the statute as it presently exists.
+[11] The second case counsel provided was my own decision in Cleveland v. The Queen[3] where I agreed with Judge Bowie's above decision, and stated the following in Cleveland:
+… The Appellant took courses over the entire year. During 2001, he had full‑time employment … earning $101,355 annually while living in Saskatchewan.
+His courses were conducted online using course rooms, e‑mails, telephone and virtual libraries. It was clearly distinguishable from correspondence courses. He states, in effect, that he attended Capella in Minnesota through modern technology without leaving his home in Saskatchewan.
+The Respondent's position was:
+With respect to the tuition tax credit claimed, while the MNR admits that Capella is an online university, the Appellant was not in full‑time 'attendance' at Capella which is mandatory …. The key word is 'attendance'.
+and in paragraphs 7 and 8, I stated:
+Paragraph 118.5(1)(a) provides for a tuition credit for a student "enrolled" at an educational institution in Canada. In contrast, a university student outside of Canada must be in 'full‑time attendance' under paragraph 118.5(1)(b) as opposed to simply 'enrolled.'
+The issue narrows down to whether the Appellant was in 'full‑time attendance' at Capella situated outside of Canada in Minneapolis, Minnesota. …
+and in paragraph 12:
+I believe this is stretching the plain meaning of attendance too far. This conclusion is strongly supported by reference to the French version...
+and in paragraph 13:
+I find that there must have been a physical presence by the Appellant at Capella to benefit from section 118.5. If the legislature wanted to have an 'online' university included … it would state so explicitly and not leave the taxpayer to twist and turn and speculate to find an extended meaning of 'attend'. I cannot rewrite the legislation.
+[12] Justice Bowman obviously disagrees with Bowie J.'s conclusion that attendance means physical attendance and does not include online attendance. Bowman J. does not mention the Cleveland decision seven months before his Krause judgment but he obviously is of the opposite view of it also. There stands my dilemma. Both judges, Bowie and Bowman, are highly respected. Hlopina was decided in 1998; Krause in 2004. Students are increasingly taking courses online.
+[13] It was not possible for Susan McGrath to take this specialized Master Degree in Canada. Her only option was to attend online. My thinking has evolved since the Cleveland case, and I accept the reasoning of our Chief Justice. I agree that his opinion conforms with common sense and the reality of modern technology. Parliament may have to resolve any doubt, but for the reasons given, the appeal is allowed, with costs, if any.
+Signed at Ottawa, Canada, this 28th day of May, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC295
+COURT FILE NO.: 2006-1383(IT)I
+STYLE OF CAUSE: Susan McGrath and Her Majesty The Queen
+PLACE OF HEARING: Belleville, Ontario
+DATE OF HEARING: November 7, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 9, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 DTC 3265.
+[2] [1998] 2 C.T.C. 2669.
+[3] 2004 DTC 2199.

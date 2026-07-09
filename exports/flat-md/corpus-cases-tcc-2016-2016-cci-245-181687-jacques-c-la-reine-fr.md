@@ -1,0 +1,177 @@
+---
+title: "Jacques c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181687/index.do"
+last_modified: "2016-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 245"
+citation2: ""
+neutral_citation: "2016 CCI 245"
+decision_date: "2016-10-27"
+language: "fr"
+item_id: "181687"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2989
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:49:34.250000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "212cc884980b03611dd7dfd75bb7407407f261913beb4a74fbd8440f79ef1642"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jacques c. La Reine
+
+- Citation: 2016 CCI 245
+- Decision date: 2016-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2989, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jacques c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-27
+Référence neutre
+2016 CCI 245
+Numéro de dossier
+2014-4093(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4093(IT)G
+ENTRE :
+JULIE JACQUES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 septembre 2016 à Calgary (Alberta)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocat de l’appelante :
+Me Bryan H. Walker
+Avocate de l’intimée :
+Me Brooke Sittler
+JUGEMENT
+L’appel de la nouvelle cotisation de l’année d’imposition de 2009 de l’appelante est accueilli avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que le revenu de l’appelante est réduit de 389 502 $.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2016.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 17e jour de mai 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 245
+Date : 20161027
+Dossier : 2014-4093(IT)G
+ENTRE :
+JULIE JACQUES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Julie Jacques est une résidente canadienne. Sa sœur, Carrie Mechsner, était une résidente des États-Unis. Mme Mechsner est décédée en 2008. Au moment de son décès, elle détenait des fonds dans un régime connu sous le nom de Mohawk Carpet Corporation Retirement Savings Plan II (le « Régime »). Le Régime avait été créé par l’entremise de l’emploi de Mme Mechsner. Mme Jacques était la bénéficiaire désignée de Mme Mechsner en vertu du Régime. À la suite du décès de Mme Mechsner, Mme Jacques a reçu les prestations du Régime. Le ministre du Revenu national a établi une nouvelle cotisation à l’égard de Mme Jacques afin d’inclure ces prestations à son revenu pour l’année d’imposition 2009. Mme Jacques a porté cette nouvelle cotisation en appel.
+[2] Le sous-alinéa 56(1)a)(i) de la Loi de l’impôt sur le revenu inclus dans le revenu d’un contribuable tout montant que celui-ci a reçu au cours d’une année, au titre ou en paiement intégral ou partiel d’une prestation de retraite ou de pension. Le sous-alinéa 56(1)a)(i) énumère quelques prestations qui doivent être ajoutées comme prestations de retraite ou de pension. Les parties conviennent que les montants que Mme Jacques a reçus du Régime ne correspondent à aucune des prestations énumérées. La question reste à savoir si les montants qu’elle a reçus demeurent néanmoins des prestations de retraite ou de pension.
+[3] Le paragraphe 248 (1) définit « prestation de retraite ou de pension » comme comprenant les sommes reçues dans le cadre d’une caisse ou d’un régime de retraite de pension. L’expression « caisse ou régime de retraite ou de pension » n’est pas définie.
+[4] La seule question dans le présent appel consiste à savoir si le Régime était une caisse ou un régime de retraite ou de pension, et, dans l’affirmative, si les sommes que Mme Jacques a reçues auraient dû être ajoutées à son revenu.
+I. Le Régime était-il une caisse ou un régime de retraite ou de pension?
+[5] J’analyserai divers aspects du Régime et j’examinerai si ces aspects indiquent que le Régime était une caisse ou un régime de retraite ou de pension.
+Fondement législatif du Régime
+[6] Les parties sont d’accord que le Régime était un régime 401(k) et qu’il était assujetti à l’alinéa 401(a) du Internal Revenue Code des É.-U. Aucune des parties n’a présenté de témoignage d’expert au sujet des dispositions visées du Code. Par conséquent, je ne suis pas disposé à tirer une quelconque conclusion quant à la nature du Régime du fait qu’il est gouverné par ces dispositions particulières du Code. Je suis prêt à accepter que les régimes 401(k) constituent une forme courante de planification de la retraite aux États-Unis, mais en l’absence de preuves quant aux dispositions concernées, je ne suis pas prêt à conclure que de tels régimes, selon leur nature, constituent soit des régimes d’épargne ou des caisses ou régimes de retraite ou de pension.
+But du Régime
+[7] Le but du Régime est décrit dans son document constitutif comme suit [1] :
+[TRADUCTION]
+Le but de ce Régime consiste à encourager les participants à épargner en leur permettant d’accumuler des économies à impôt différé tout en offrant un incitatif grâce à des contributions de contrepartie par l’employeur.
+[8] Bien que l’accumulation d’économies soit une importante partie de la planification de la retraite, le seul fait que l’argent est épargné en vue de la retraite ne signifie pas que le moyen par lequel on l’économise constitue une pension. Je conclus que cet aspect du Régime n’appuie pas l’affirmation selon laquelle le Régime est une caisse ou un régime de retraite ou de pension.
+Adhésion au Régime
+[9] Les employés admissibles étaient automatiquement inscrits au Régime. Toutefois, ils devaient faire un choix avant d’y verser des contributions. Par conséquent, ils pouvaient en effet se retirer du Régime en choisissant de ne jamais verser de contributions.
+[10] Bien que la participation dans de nombreux, sinon dans la majorité, des régimes de retraite en milieu de travail soit obligatoire, je suis d’accord que le fait qu’un employé puisse se retirer du Régime ne signifie pas que le Régime ne constituait pas une caisse ou un régime de retraite ou de pension.
+Contributions de l’employé au Régime
+[11] Selon l’année pendant laquelle l’employé s’est inscrit au Régime, il est réputé avoir fait le choix de verser des contributions équivalant à 2 % ou à 3 % de sa rémunération. Malgré ce choix présumé, les employés peuvent choisir de contribuer aussi peu que 1 % de leur rémunération ou autant que 50 %. Les employés peuvent arrêter de verser des contributions à tout moment. Ceux qui ont arrêté de verser des contributions peuvent choisir de recommencer à les verser.
+[12] La possibilité qu’un employé puisse varier considérablement le montant qu’il verse, de 0 à 50 % de sa rémunération, fait en sorte que le Régime ressemble plus à un régime d’épargne qu’à une caisse ou à un régime de retraite ou de pension.
+Contributions de l’employé au Régime
+[13] L’idée du Régime était que l’employeur fournisse une contribution correspondante, mais que l’employeur n’y était pas tenu. Le Régime envisageait que l’employeur choisisse d’apporter une contribution correspondante, mais seulement à un pourcentage précis de la rémunération d’un employé, choisissant de verser des contributions correspondantes à un taux différent de la rémunération (p. ex., correspondant à 50 % des contributions pour le premier 4 % de la rémunération, et à 25 % des contributions pour les 2 % suivants de la rémunération), ou de fournir une contribution correspondant à un montant particulier exprimé en dollars.
+[14] Le fait que l’employeur avait le choix de ne pas contribuer au Régime semble inhabituel. Je m’attendrais à ce que les contributions d’un employeur fassent automatiquement partie d’un régime de retraite en milieu de travail standard. Cela dit, le fait est qu’on s’attendait à ce que l’employeur y contribue. Les contributions de l’employeur correspondent plus à une caisse ou à un régime de retraite ou de pension qu’à un régime d’épargne.
+Droits acquis
+[15] Un employé au Régime acquiert immédiatement un droit aux contributions. Une fois que l’employé travaille depuis un an, il acquiert également un droit à toutes les contributions de l’employeur. Cette caractéristique correspond à celle d’une caisse ou d’un régime de retraite ou de pension.
+Investissement
+[16] Le Régime de chaque employé était tenu dans un compte distinct. Chaque employé pouvait décider comment investir les fonds dans son compte. Les employés pouvaient choisir parmi des fonds d’investissement figurant sur une liste. Ils pouvaient changer de fonds d’investissement. Ces caractéristiques correspondent à certains types de régimes de retraite en milieu de travail et à des régimes d’épargne.
+Retraits précoces
+[17] Le Régime permettait aux employés de demander la permission de retirer des fonds du Régime pour ce qu’on qualifie de [TRADUCTION] « difficultés ». La définition de [TRADUCTION] « difficultés » dans le Régime comprend un certain nombre de situations qui seraient normalement considérées comme des difficultés, telles que payer des frais médicaux ou d’obsèques ou éviter l’expulsion ou la saisie. Aucune de ces situations ne se rapporte à la retraite. Elles constituent cependant toutes des situations pour lesquelles une personne peut avoir besoin d’économies d’urgence pour faire face à ces difficultés. La définition de [TRADUCTION] « difficultés » dans le Régime comprend aussi deux situations qui ne seraient normalement pas considérées comme des difficultés, à savoir l’achat d’une maison et le fait de payer les frais d’études postsecondaires de l’employé ou des membres de sa famille. Encore une fois, ces situations ne se rapportent aucunement à la retraite. Elles sont toutefois des situations pour lesquelles une personne peut avoir besoin d’économiser. Dans l’ensemble, la possibilité d’effectuer des retraits précoces du Régime indique que celui-ci constitue un régime d’épargne, et non une caisse ou un régime de retraite ou de pension.
+Distributions en dehors du Régime
+[18] L’aspect le plus important du Régime dont je dois tenir compte est la façon dont les fonds sont au bout du compte distribués en dehors du Régime.
+[19] Dans la décision Abrahamson c. M.R.N., [2] le juge Rip, tel était alors son titre, a examiné la question de savoir si un compte de retraite individuel aux É.‑U. ayant été créé au moyen de fonds retirés d’une pension constituait une caisse ou un régime de retraite ou de pension [3] . Il a déclaré que les termes «« prestation de retraite ou d’autres pensions » au sous-alinéa 56(1)a)(i) visent le versement d’une allocation – fixe ou pouvant être déterminée – à intervalles réguliers à une personne, généralement, mais pas toujours, par suite de la cessation d’emploi pour lui assurer des moyens minimums de subsistance ». Le juge Rip a poursuivi en déclarant que la régularité et le montant des prestations sont dictés par les modalités du régime et ne relèvent pas du pouvoir discrétionnaire ou des instructions du bénéficiaire [4] .
+[20] Dans la décision Woods c. La Reine [5] , le juge Boyle a déclaré qu’une « caisse ou un régime de retraite ou de pension est un mécanisme en vertu duquel des paiements périodiques sont versés à des employés à titre de revenu pendant la retraite, et par lequel sont fixés le droit à ces paiements, ainsi que leur montant et leur fréquence ». [6]
+[21] Le Régime ne prévoyait pas le versement d’un montant quelconque qu’on peut décrire comme une indemnité ou un revenu régulier fixe ou déterminable pendant la retraite. La règle par défaut du Régime était que les distributions provenant du Régime devaient être effectuées en un seul paiement forfaitaire. Un employé ayant atteint l’âge de 59,5 ans pouvait retirer tout ou partie du solde de son compte, sous forme de paiement forfaitaire, qu’il continue de travailler ou non. Toute personne prenant sa retraite entre l’âge de 59,5 ans et de 70,5 ans devait retirer son argent en un seul paiement forfaitaire. Un participant ne pouvait recevoir un montant quelconque ressemblant à une indemnité fixe ou déterminable que s’il atteignait l’âge de 70,5 ans et travaillait toujours, et que s’il n’avait pas encore retiré un paiement forfaitaire ni choisi d’en prendre un à ce moment-là. Dans ce cas, le participant était contraint de commencer à recevoir des distributions annuelles minimales. Même dans ce cas, le participant avait la possibilité de retirer du Régime autant d’argent qu’il le voulait à n’importe quel moment.
+[22] Selon moi, il ne suffit pas que certains participants au Régime soient contraints de recevoir un montant quelconque ressemblant à une distribution annuelle fixe. Le simple fait est que tous les autres participants ont reçu un seul paiement forfaitaire. Cette situation correspond beaucoup plus à un régime d’épargne qu’à une caisse ou à un régime de retraite ou de pension.
+Résumé
+[23] En fonction de tout ce qui précède, je conclus que le Régime n’était ni une caisse ni un régime de retraite ou de pension. Le Régime était manifestement conçu pour encourager les employés à épargner de l’argent en vue de la retraite. Il ne s’agissait toutefois pas d’une pension.
+II. Concession
+[24] Mme Jacques a aussi reçu les prestations d’un deuxième régime connu sous le nom de Mohawk Industries, Inc. Management Deferred Compensation Plan. Le ministre a en également établi une nouvelle cotisation dans le but d’ajouter ces prestations au revenu de Mme Jacques. Peu avant le procès, l’intimée a reconnu que les prestations du deuxième régime n’auraient pas dû être ajoutées au revenu de cette dernière.
+III. Conclusion
+[25] En fonction de tout ce qui précède, l’appel est accueilli avec dépens et l’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation au motif que le revenu de Mme Jacques de 2009 devrait être réduit de 389 502 $.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2016.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 17e jour de mai 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 245
+No DU DOSSIER DE LA COUR :
+2014-4093(IT)G
+INTITULÉ :
+JULIE JACQUES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary, Alberta
+DATE DE L’AUDIENCE :
+Le 21 septembre 2016
+MOTIFS DU JUGEMENT :
+Le juge David E. Graham
+DATE DU JUGEMENT :
+Le 27 octobre 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bryan H. Walker
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Bryan H. Walker
+Société :
+Norton Rose Fulbright
+Pour l’intimée :
+Me William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Exposé conjoint des faits, rubrique 3, page JAC000049
+[2] No 90-408(IT), le 20 novembre 1990, 1990 CarswellNat 534
+[3] La décision Abrahamson a été rendue avant l’adoption de la clause 56(1)a)(i)(C.1)
+[4] Décision Abrahamson, au paragraphe 23
+[5] 2010 CCI 106
+[6] Décision Woods (CCI), au paragraphe 30

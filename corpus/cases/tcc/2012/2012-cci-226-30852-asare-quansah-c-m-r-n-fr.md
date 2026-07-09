@@ -1,0 +1,301 @@
+---
+title: "Asare-Quansah c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30852/index.do"
+last_modified: "2012-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 226"
+citation2: ""
+neutral_citation: "2012 CCI 226"
+decision_date: "2012-06-21"
+language: "fr"
+item_id: "30852"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7381
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:32:53.176000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c089eb5ad21d5ffd9b4c27f6d999eaaf1d4e0933926fcd60ccc18b464a6887e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Asare-Quansah c. M.R.N.
+
+- Citation: 2012 CCI 226
+- Decision date: 2012-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7381, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Asare-Quansah c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-21
+Référence neutre
+2012 CCI 226
+Numéro de dossier
+2010-3852(CPP)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2010‑3852(CPP)
+ENTRE :
+EDWARD ASARE‑QUANSAH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 juin 2012 à Toronto (Ontario)
+Devant : L’honorable juge Campbell Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Iris Kingston
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada (le « Régime ») est accueilli et la décision du ministre du Revenu national rendue à l’égard de l’appel interjeté devant lui en vertu de l’article 27 du même Régime est annulée.
+Signé à Ottawa, Canada, ce 21e jour de juin 2012.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 31e jour de juillet 2012.
+Marie-Christine Gervais
+Dossier : 2011‑276(EI)
+ENTRE :
+EDWARD ASARE‑QUANSAH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 juin 2012 à Toronto (Ontario)
+Devant : L’honorable juge Campbell Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Iris Kingston
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est accueilli et la décision du ministre du Revenu national est annulée compte tenu du fait que le travailleur, Edward Asare‑Quansah, n’occupait pas un emploi assurable.
+Signé à Ottawa, Canada, ce 21e jour de juin 2012.
+« Campbell Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 31e jour de juillet 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 226
+Date : 20120621
+Dossier : 2010‑3852(CPP)
+2011‑276(EI)
+ENTRE :
+EDWARD ASARE‑QUANSAH,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] M. Asare‑Quansah interjette appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle, en 2007, il occupait un emploi assurable et ouvrant droit à pension au sens de la Loi sur l’assurance‑emploi (la « LAE ») et du Régime de pensions du Canada (le « Régime ») auprès de la School of Continuing Studies (la « SCS ») de l’Université de Toronto. M. Asare‑Quansah estime qu’il travaillait pour son propre compte en tant que chargé de cours à temps partiel.
+[2] Le droit est assez bien établi sur cette question dont est souvent saisie la Cour canadienne de l’impôt. Il est facile de rappeler le critère à quatre volets formulé dans l’arrêt Wiebe Door Services Ltd. c Canada[1], puis légèrement nuancé par les commentaires de la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2] et par d’autres arrêts récents de la Cour d’appel fédérale (voir l’arrêt The Royal Winnipeg Ballet c. M.R.N.[3] par exemple), mais il peut s’avérer délicat de l’appliquer à des faits précis. Par ailleurs, dans certains cas, et je crois que celui-ci en est un, l’arrangement peut aisément passer, moyennant quelques subtiles nuances, pour une relation employeur‑employé ou une relation employeur‑entrepreneur indépendant. J’ai conclu que nous avions affaire en l’espèce à un statut d’entrepreneur indépendant.
+[3] Les facteurs établis par la jurisprudence et qui permettent de définir une relation de travail sont le degré de contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte, quoique la Cour suprême du Canada ait noté dans l’arrêt Sagaz que cette liste n’était pas exhaustive. L’intention des parties est maintenant aussi prise en compte, mais seulement bien sûr s’il y a commun accord, ce qui n’est pas le cas dans cette affaire, car M. Asare‑Quansah a bien précisé qu’il n’a souhaité à aucun moment être employé et qu’il s’est toujours considéré comme un entrepreneur indépendant. La SCS a déclaré pour sa part, par l’entremise du témoignage de sa directrice financière, Mme Dundas, que, conformément à sa politique, ses chargés de cours à temps partiel étaient considérés comme des employés. Malheureusement, Mme Dundas n’a pas été en mesure d’expliquer les fondements de cette politique, qui, d’après elle, était en place avant qu’elle n’entre en vigueur. En l’espèce, l’intention des parties n’est d’aucune utilité.
+Le contrôle
+[4] Comme le souligne l’arrêt Sagaz, le contrôle est toujours un facteur pertinent et, d’après mon expérience, il s’agit souvent d’un facteur déterminant. Quel contrôle, le cas échéant, la SCS a donc exercé sur M. Asare‑Quansah en 2007? Revenons brièvement sur les faits.
+[5] À l’automne 2007, M. Asare‑Quansah, un comptable agréé, a fait deux choses pour la SCS : il a conçu et mis au point un cours intitulé [traduction] « Littératie financière à l’intention des cadres qui ne sont pas des dirigeants financiers », et il a enseigné la gestion financière. Je note que M. Asare‑Quansah donne depuis un certain nombre d’années des cours en classe et en ligne. À l’automne 2007, il offrait un cours en ligne, mais, comme l’a reconnu l’avocate de l’intimé, il serait absurde de déduire que la relation de travail change suivant le format des cours. En sa qualité de chargé de cours à la SCS, M. Asare‑Quansah est soit un employé soit un entrepreneur indépendant, que ses cours soient offerts en ligne ou en classe. Je souscris à l’approche de l’intimé.
+[6] Pour ce qui est de la conception du cours de littératie financière, il ressort clairement du contrat écrit que la SCS et M. Asare‑Quansah s’entendaient sur le fait qu’il était un entrepreneur indépendant. Des extraits du contrat daté du 21 août 2007 sont reproduits ci‑après :
+[traduction]
+[…]
+La lettre d’entente suivante porte sur nos responsabilités contractuelles communes à l’égard de la conception et de la mise au point du cours SCS1837, Littératie financière à l’intention des cadres qui ne sont pas des dirigeants financiers.
+[…]
+Vous consentez à concevoir et à mettre au point le cours de littératie financière à l’intention des cadres qui ne sont pas des dirigeants financiers, ainsi qu’à fournir un plan de cours détaillé.
+[…]
+En dehors de la rémunération précitée, vous ne recevrez aucun montant pour les dépenses ou les débours que vous supporterez.
+À titre d’entrepreneur indépendant et non pas d’employé de l’Université, vous n’avez droit à aucun avantage social, congé de maladie, congé annuel, protection, notamment en matière de santé, ni à aucune autre prestation. En tant qu’entrepreneur indépendant, vous êtes pleinement responsable du paiement rapide des taxes (notamment la taxe sur les produits et services), droits, contributions, primes ou cotisations (ainsi que tout intérêt ou pénalité y afférent), y compris les taxes de vente et taxes à la consommation fédérales et provinciales, l’impôt sur le revenu, les cotisations au régime d’indemnisation des accidents du travail, les cotisations d’assurance‑emploi, les cotisations au Régime de pensions du Canada ainsi que l’impôt‑santé des employeurs qui sont susceptibles de découler de la prestation des services au titre de cette partie de l’entente.
+Un bureau ne vous sera pas fourni relativement à la prestation des services visés par cette entente. De plus, aucune fourniture de bureau ne vous sera fournie et vous ne pourrez pas avoir recours aux services de personnel de soutien.
+[…]
+La School of Continuing Studies est heureuse de collaborer avec vous pour ce programme. Si vous souhaitez discuter des points soulevés par la présente lettre d’entente, n’hésitez pas à communiquer avec moi par téléphone ou par courriel. Autrement, veuillez signer la copie ci‑jointe de la lettre pour indiquer que vous acceptez la présente entente.
+[7] Outre cette lettre, un contrat d’enseignement d’une page de la SCS daté du 14 septembre 2007 stipulait notamment :
+[traduction]
+[…]
+Partie III Conditions du contrat
+Le chargé de cours soussigné confirme par la présente que le contrat d’enseignement et le Manuel des politiques à l’intention des chargés de cours constituent l’intégralité de l’entente entre lui et la School of Continuing Studies de l’Université de Toronto, pour ce qui est de l’enseignement du cours désigné dans la partie II.
+Le chargé de cours soussigné reconnaît par la présente avoir reçu et lu le Manuel des politiques à l’intention des chargés de cours et avoir pris connaissance de la version à jour en date d’aujourd’hui à l’adresse www.learn.utoronto.ca, et accepte d’être lié par ses dispositions, telles qu’elles ont été modifiées par ladite version, lesquelles dispositions, ainsi décrites, sont par la présente intégrées au contrat d’enseignement. En particulier, le chargé de cours soussigné reconnaît que la School of Continuing Studies de l’Université de Toronto a le droit d’annuler le présent contrat d’enseignement à tout moment avant la date prévue pour le début du cours, telle qu’elle figure dans la partie II, en raison d’un nombre insuffisant d’étudiants inscrits ou d’autres considérations liées à l’enseignement; dans ce cas, il sera mis fin au contrat sans que ne subsiste la moindre obligation de la part de la School of Continuing Studies de l’Université de Toronto à l’égard du chargé de cours soussigné.
+La durée du présent contrat correspond à celle du cours qui est indiquée à la partie II, à moins qu’il n’y soit mis fin plus tôt conformément à la présente. Il se peut que ce contrat ne soit ni renouvelé ni prorogé. Les droits des parties ci-après désignées sont incessibles. Le présent contrat est interprété conformément aux lois de la province d’Ontario.
+[…]
+Ce contrat n’est évidemment pas celui qui est en litige, mais je le mentionne pour illustrer les différences et les similitudes entre celui‑ci et le contrat qui fait l’objet du litige, sur lequel je me pencherai à présent.
+[8] La lettre d’entente portant sur l’enseignement du cours de gestion financière signée le 1er septembre 2007 par M. Asare‑Quansah prévoit :
+[traduction]
+Cher Edward,
+La lettre d’entente suivante porte sur nos responsabilités contractuelles communes à l’égard du (des) cours en ligne suivant(s)
+SCS 0976‑063 Gestion financière
+La présente lettre d’entente accompagne les dispositions du Guide du chargé de cours, dont la version mise à jour peut être consultée à l’adresse www.learn.utoronto.ca. Vous acceptez d’être lié par les dispositions de ce guide.
+Services prévus dans le contrat
+Vous acceptez de fournir le matériel didactique et de noter le travail de session ainsi que l’examen final. Le matériel didactique comprend un plan de cours détaillé.
+Paiement de la rémunération
+Votre rémunération pour l’enseignement de ce cours est de 500 $ + 125 $ par étudiant. Ils seront calculés au milieu de la session, de manière à pouvoir tenir compte des inscriptions tardives, des abandons et des transferts. Tout rajustement sera effectué à la fin du cours.
+En dehors de la rémunération précitée, vous ne recevrez aucun montant pour les dépenses ou les débours que vous supporterez.
+Un bureau ne vous sera pas fourni relativement à la prestation des services visés par cette entente. De plus, aucune fourniture de bureau ne vous sera fournie et vous ne pourrez pas avoir recours aux services de personnel de soutien.
+La School of Continuing Studies est heureuse de collaborer avec vous pour ce cours. Si vous souhaitez discuter des points soulevés par la présente lettre d’entente, n’hésitez pas à communiquer avec moi par téléphone ou par courriel. Autrement, veuillez signer la copie ci‑jointe de la lettre pour indiquer que vous acceptez la présente entente
+Bien à vous,
+Alison Baird
+Directrice des opérations
+Études commerciales et professionnelles Date : 20 août 2007
+Chargé de cours
+Signature : « Edward Asare‑Quansah » Date : 1er septembre 2007
+[9] Comme avec l’autre entente, il y avait aussi un contrat d’enseignement d’une page de la SCS, daté du 16 octobre 2007. Cette date ultérieure devait permettre aux parties de déterminer définitivement le nombre d’étudiants inscrits, étant donné que la rémunération en dépendait. Les parties III des deux contrats sont identiques.
+[10] En ce qui concerne le facteur de contrôle, l’intimé a accordé une grande importance au contenu du [traduction] « Guide du chargé de cours ». Il a été reconnu que le [traduction] « Manuel des politiques à l’intention des chargés de cours » mentionné dans la partie III des contrats était pareil au [traduction] « Guide du chargé de cours », que Mme Dundas a décrit comme un simple document d’encadrement. M. Asare‑Quansah ne l’a pas qualifié de document contraignant ni de guide étant donné que, jusqu’à l’instruction, il n’en avait jamais pris connaissance. En voici certains points saillants, suivis, le cas échéant, de la réplique de M. Asare‑Quansah à l’égard de ces dispositions :
+[traduction]
+[…]
+En tant que chargé de cours de la SCS, vous devenez un membre clé de l’un des groupes les plus dynamiques au Canada dans le domaine de l’éducation permanente. Nous avons créé ce guide du chargé de cours pour vous assister dans ce travail crucial. Vous trouverez au fil de ces pages des informations essentielles sur les éléments suivants :
+· la vision, la mission et les valeurs de l’école;
+· la manière de planifier et de concevoir votre cours;
+· la manière d’évaluer les progrès de vos étudiants;
+· les personnes à qui vous adresser si vous avez des questions ou des préoccupations.
+[…]
+Votre description de cours
+Dans certains programmes, la description des cours est déterminée au préalable par la SCS. Dans d’autres cas, nous vous demanderons de contribuer à l’élaboration de la description de cours. Cette description de cours est la propriété de l’École et sera utilisée dans son calendrier et (ou) d’autres documents conçus à des fins de promotion. Il pourra donc être modifié ou révisé pour être le plus efficace possible en tant qu’outil promotionnel. Par conséquent, vous ne pourrez changer la description de cours qu’avec l’accord du bureau des programmes.
+Votre plan de cours
+Veuillez vous assurer que le bureau des programmes dispose d’une copie électronique de votre plan de cours trois semaines avant le début du cours. Ainsi, il nous sera possible d’en réviser le contenu, de formuler des recommandations si nécessaire, et d’en préparer des copies pour vos étudiants.
+[…]
+Planification des ressources nécessaires pour votre cours
+En préparant votre plan de cours, vous devrez définir les ressources dont vous aurez besoin pour l’offrir. Il s’agit notamment des manuels, des documents de cours et d’autres ressources d’apprentissage, comme une disposition spéciale de la salle de classe, du matériel audiovisuel ou des conférenciers.
+[…]
+Affranchissement des droits
+La Loi sur le droit d’auteur exige l’affranchissement des droits d’auteur à l’égard de tous les documents, quel que soit leur format (imprimé, numérique, etc.). Avant d’autoriser la photocopie de documents pour vos cours, veuillez consulter le bureau des programmes qui vous aidera dans le processus d’affranchissement des droits d’auteur. En particulier, veuillez vous assurer de ne pas :
+· distribuer de copies ou autoriser la production de copies de tout document imprimé ou numérisé, à moins que le détenteur du droit d’auteur n’ait donné son autorisation ou que ce dernier n’ait fait figurer sur la publication un avis autorisant les copies à des fins pédagogiques;
+· montrer de films ou d’enregistrements vidéo, y compris un passage enregistré d’une émission de télévision, à moins que vous n’ayez obtenu l’autorisation de procéder à un visionnement public;
+· distribuer ou autoriser la reproduction de documents à partir d’un site Web ou de toute autre source numérique, à moins que le(s) détenteur(s) du droit d’auteur n’ait donné son autorisation ou qu’un avis figurant sur le site Web ou une autre source numérique en autorise la reproduction à des fins pédagogiques.
+Services de photocopie
+Vous pouvez faire photocopier des documents en les apportant, cinq jours avant la date requise, à la réception du 158, rue St. George, du lundi au jeudi, de 8 h 30 à 19 h 30, et le vendredi de 8 h 30 à 17 h. Durant les mois de juillet et août, la SCS ferme à 16 h 30 le vendredi. Veuillez vous assurer que les documents à photocopier respectent la politique d’affranchissement des droits d’auteur énoncée plus haut. Les photocopies seront placées dans votre boîte aux lettres au centre de ressources des chargés de cours.
+[…]
+Conférenciers
+Il se peut aussi que vous souhaitiez inviter à l’occasion un conférencier au profit de vos étudiants. Veuillez en discuter à l’avance avec le bureau des programmes pour fixer une rétribution adéquate.
+[…]
+Nous vous demandons de ne pas annuler, suspendre, manquer, ou raccourcir les cours prévus, sauf dans des circonstances inévitables (p. ex., maladie). Si vous annulez un cours, veuillez en aviser les services aux étudiants et aux chargés de cours le plus tôt possible de manière à ce qu’il soit possible de communiquer avec les étudiants en temps opportun. Vous devez rattraper les cours (ou les parties de cours) manqués, sans indemnisation additionnelle.
+[…]
+Chargé de cours suppléant
+Si vous n’êtes pas en mesure de donner le cours prévu, vous pouvez prendre des dispositions pour qu’un suppléant qualifié le fasse à votre place; vous devez toutefois en aviser au préalable le bureau des programmes. Il vous incombera d’indemniser financièrement votre remplaçant.
+M. Asare‑Quansah a déclaré qu’il n’avait jamais présenté de plan de cours pour le faire approuver. Il a mis au point le cursus, choisi le texte qu’il utiliserait et changé unilatéralement la description du cours. Comme il l’a souligné, il n’y avait personne à la SCS formée en comptabilité ou en finances et susceptible de l’aider à élaborer le plan de cours, personne à qui s’adresser tout simplement.
+M. Asare‑Quansah savait que la SCS pouvait lui fournir des photocopies gratuites, mais il n’en a pas profité. Tous les documents qu’il a utilisés provenaient des éditeurs des textes, et non de la SCS.
+M. Asare‑Quansah a déclaré que la question du droit d’auteur ne se posait pas dans ses cours. Quant aux conférenciers, il n’en a fait venir aucun, estimant que les étudiants avaient payé pour bénéficier de son expertise et de ses connaissances. Il n’a pas eu recours à des suppléants durant la période en question, contrairement à d’autres années. Il n’a pas offert de cours de rattrapage, mais a prolongé les cours prévus lorsque cela était nécessaire.
+[traduction]
+[…]
+Confidentialité
+Veuillez vous rendre raisonnablement disponible auprès des étudiants désireux de discuter avec vous de leurs progrès. Vous pouvez choisir de les recevoir de façon formelle ou informelle, au besoin.
+[…]
+M. Asare‑Quansah savait, simplement en tant que professionnel, qu’il serait soumis à des exigences en matière de confidentialité.
+[traduction]
+[…]
+Veuillez vous assurer que le bureau des programmes dispose d’une copie électronique de votre plan d’évaluation des étudiants avant la date de début du cours. Les méthodes de notation du cours sont établies en fonction du plan d’évaluation.
+Instruments d’évaluation
+Veuillez mentionner, dans votre plan d’évaluation, différents instruments d’évaluation.
+Modification du plan d’évaluation
+Il est important que vous soyez sûr de votre plan d’évaluation, car une fois que les étudiants en ont pris connaissance et qu’ils ont reçu le plan de cours, vous ne pouvez plus modifier les méthodes d’évaluation ou les coefficients partiels sans en discuter au préalable avec votre gestionnaire de programme et avoir obtenu son approbation.
+Valeur de l’examen/projet final
+L’examen/projet final de votre cours ne peut représenter moins de 33 % de la note finale.
+Commentaires
+Il serait utile, tout au long du cours, d’offrir des commentaires aux étudiants sur leurs travaux de session déjà évalués et de leur permettre d’y répondre et d’en discuter. En général, les commentaires sont composés de quatre éléments :
+· Positif – indiquer en quoi le travail est bien fait
+· Négatif – indiquer les lacunes
+· Directives – suggestions quant à la manière d’améliorer le travail et à la façon de s’y prendre pour ce faire
+· Appréciation – une note globale
+Échelles de notes
+Les notes sont une manière d’évaluer les connaissances de l’étudiant dans un cours particulier. Les échelles de notes utilisées par la SCS sont les suivantes :
+[…]
+Pas de courbe de Gauss
+Aucun système de quotas, comme la courbe gaussienne, ne sera employé pour calculer les résultats finaux.
+M. Asare‑Quansah se chargeait lui‑même de la notation. Il n’avait aucune idée de ce qu’était un plan d’évaluation de l’étudiant, il n’en a donc jamais fourni, pas plus que les commentaires qui devaient être fournis selon le guide. Il a reconnu qu’il avait tenté une fois d’utiliser une courbe de Gauss, mais qu’il s’était fait dire que ce n’était pas acceptable. Il n’était au courant d’aucune politique concernant les travaux.
+[traduction]
+[…]
+Non‑concurrence
+En acceptant de donner un cours à l’école, les chargés de cours consentent également à ne pas utiliser la description de cours ou tout autre document afférent produit aux frais de l’école, pour offrir un cours similaire dans un autre établissement d’enseignement, et ce, pour la durée du contrat plus une période d’un an suivant son expiration.
+[…]
+Le contrat est conditionnel
+Tout contrat d’enseignement conclu avec un entrepreneur ou un employé dépend de l’inscription d’un nombre suffisant d’étudiants dans les cours respectifs et d’autres considérations liées à l’enseignement, telles qu’elles sont établies à la seule discrétion de l’École. Par exemple, un cours peut être annulé dans la semaine précédant la date prévue pour le début des classes si l’École estime que le nombre d’étudiants inscrits est insuffisant.
+[…]
+M. Asare‑Quansah n’a pas considéré que cette clause de non-concurrence l’empêchait de donner des cours de finances ou de comptabilité dans d’autres établissements. Il se sentait libre de le faire et n’utilisait aucun document produit par la SCS. Mme Dundas a également reconnu que les chargés de cours étaient libres d’enseigner ailleurs et que la restriction d’un an ne concernait que les documents de la SCS, quoique, là encore, aucune surveillance n’ait été effectuée.
+[11] L’intimé a fait valoir que le guide prévoyait d’importantes modalités de contrôle du travail des chargés de cours, et qu’en signant la lettre d’entente le 1er septembre 2007, M. Asare‑Quansah avait accepté d’être lié par elles. À mon avis, le guide ne représente pas un facteur de contrôle aussi déterminant que le suggère l’intimé. Tout d’abord, la propre représentante de l’université a reconnu qu’il s’agissait simplement d’un guide, destiné à aider les chargés de cours. Deuxièmement, ce document précise, en page 23, sous la rubrique [traduction] « Le contrat est conditionnel » qu’il s’applique à la fois aux employés et aux entrepreneurs indépendants. Interrogée sur les conséquences liées au non‑respect de ce document, Mme Dundas a répondu que l’intéressé pourrait ne pas obtenir un autre contrat. Cela ne donne pas davantage à penser qu’il existe une relation employeur‑employé et non une entente conclue avec un entrepreneur indépendant, et ce genre de facteur de contrôle ne permet pas de les distinguer. Par ailleurs, le fait que M. Asare‑Quansah n’ait même pas lu le guide n’est pas déterminant; toutefois, il a mentionné lors de son témoignage que la SCS n’avait jamais invoqué ce document, ne l’avait jamais invité à s’y référer ni n’avait même suggéré qu’il y contrevenait. La question de savoir si le guide a été mentionné lorsque M. Asare‑Quansah a été informé qu’il ne pouvait pas utiliser de courbe gaussienne n’est pas claire. Par ailleurs, le contrat d’enseignement de la SCS auquel M. Asare‑Quansah a souscrit relativement à la préparation de son cours, et dans lequel la SCS a reconnu qu’il était un entrepreneur indépendant, précisait que le guide faisait partie de l’entente. Il devient difficile alors d’invoquer le guide comme preuve d’une relation employeur‑employé. Finalement, ma lecture de ce document m’a laissé l’impression que sa vocation était d’assister les chargés de cours plutôt qu’être un instrument de contrôle. Comme l’a déclaré M. Asare‑Quansah, il y avait une différence entre le guide et la réalité. Lorsqu’on lui a demandé si les chargés de cours devaient respecter tout ce qui était écrit dans le guide, même Mme Dundas a répondu : [traduction] « C’est difficile à dire ».
+[12] D’autres faits se rapportent à la question du contrôle. Il est vrai que l’université fixait la date et l’heure du cours, mais pas sans demander l’avis du chargé de cours. M. Asare‑Quansah a d’ailleurs mentionné qu’il avait recommandé que le cours dure entre six et huit semaines. Il a également déplacé certaines dates de cours en raison d’un conflit avec son horaire de travail. Enfin, les trois heures de classe étaient ce qui l’occupait le moins : l’essentiel du temps consacré au cours concernait la préparation et la notation, et ce, à l’heure, au lieu et suivant la méthode de son choix.
+[13] D’après M. Asare-Quansah, personne à la SCS n’a même jeté un œil à son plan de cours, assisté à un cours ou, autrement qu’au moyen des évaluations des étudiants eux‑mêmes, évalué ou commenté de quelque façon sa méthode d’enseignement. S’il avait des problèmes avec ses étudiants, il les réglait personnellement avec eux sans intervention de la SCS.
+[14] La SCS pouvait décider du nombre minimal et maximal d’étudiants pour un cours donné. Mme Dundas a toutefois déclaré que le nombre d’étudiants était déterminé après consultation avec le chargé de cours et que la SCS [traduction] « s’en remettait à [lui] », quoique la décision ultime revînt à l’école.
+[15] Pour ce qui est du facteur du contrôle lié à l’établissement de la rémunération, le témoignage de Mme Dundas était assez révélateur, étant donné qu’elle a déclaré que la SCS souhaitait engager des chargés de cours comme des [traduction] « partenaires avec qui elle pourrait se répartir les revenus ». Cette attitude de partage se découvre dans la lettre d’entente de la SCS :
+[traduction]
+[…]
+[…] La lettre d’entente suivante porte sur nos responsabilités contractuelles communes.
+[…]
+La School of Continuing Studies est heureuse de collaborer avec vous […]
+Elle a également reconnu que certains chargés de cours pouvaient demander, et parfois obtenir, après examen de certains facteurs, un autre taux salarial.
+[16] Comme je l’ai expliqué au début, l’emploi de chargé de cours à temps partiel est l’un de ceux qui peuvent aisément correspondre à l’un ou l’autre type de relations de travail. Le facteur du contrôle ne permet pas d’aller indiscutablement dans un sens ou dans l’autre. En fait, je conviens avec M. Asare‑Quansah que la SCS n’exerçait que peu de contrôle sur la manière dont il donnait le cours, ce qui n’est pas pallié par la possibilité de contrôle dont le guide fait état, compte tenu surtout de l’opinion même de la SCS à ce sujet. De suis d’avis, selon la prépondérance des probabilités, que trop peu d’éléments ayant trait au contrôle de la SCS attestent une relation employeur‑employé, et que plusieurs indices de l’indépendance de M. Asare‑Quansah me permettent de conclure que le facteur du contrôle n’appuie par la thèse de l’intimé.
+[17] On a laissé entendre que la SCS offrait une formation à ses chargés de cours, quoique pas en 2007. M. Asare‑Quansah a mentionné que ce genre de cours, sur la manière de retenir l’attention des étudiants par exemple, ne lui aurait pas été utile de toute façon. Les cours de perfectionnement professionnel dans le domaine des finances, du commerce ou de la comptabilité ont été suivis personnellement par M. Asare‑Quansah, de sa propre initiative, et pour son propre avancement. Les chargés de cours désireux qui suivaient des cours à la SCS n’avaient droit à aucun rabais. Encore une fois, cela ne donne pas à penser qu’il existait une relation employeur‑employé.
+Instruments de travail et équipement
+[18] Pour ce qui est des instruments de travail et de l’équipement, M. Asare‑Quansah a déclaré qu’il assumait ses propres dépenses pour son bureau à domicile, son ordinateur, sa formation de perfectionnement professionnel, l’impression et les photocopies. Il a reconnu qu’avec son ordinateur il pouvait accéder à ce qu’on appelle le [traduction] « Portail des chargés de cours », bien que celui-ci ne fût pas disponible en 2007. Il pouvait y trouver un modèle de plan de cours, un formulaire de demande de matériel audiovisuel et un formulaire d’affranchissement des droits d’auteur. Mme Dundas n’a pas pu en fournir une description plus détaillée, car elle n’avait jamais utilisé cet outil, pas plus que M. Asare‑Quansah.
+[19] La SCS fournissait une salle de classe et offrait un programme appelé Blackboard pour les cours en ligne. Elle disposait également de ce qu’elle a désigné comme un centre de ressources, M. Asare‑Quansah ayant toutefois précisé qu’il s’agissait d’un très petit espace où se trouvaient quelques vieux ordinateurs. Interrogée sur le type de ressources mises à la disposition des chargés de cours, Mme Dundas a elle-même reconnu qu’elles étaient [traduction] « très modestes ». En fait, ce centre n’était d’après elle qu’un lieu de contact, qui n’était même pas situé là où M. Asare‑Quansah enseignait. Il utilisait des documents provenant de l’éditeur du matériel de cours, et non des documents de la SCS.
+[20] M. Asare‑Quansah a fait valoir que ses connaissances étaient son principal instrument de travail, et qu’il les avait développées tout à fait indépendamment de la SCS. Ce n’est pas là le type d’instrument de travail ou d’équipement auquel les tribunaux font traditionnellement référence. Il n’est pas nécessaire que je m’attarde davantage sur cet argument intéressant, car je conclus que le facteur de l’équipement est neutre – qu’il ne pointe pas plus dans une direction que dans l’autre.
+Possibilité de profit
+[21] Pour ce qui est de la possibilité de profit, la preuve a établi que l’université avait deux systèmes de rémunération : M. Asare‑Quansah pouvait choisir entre un taux fixe ou un taux dépendant du nombre d’étudiants, et cette offre était à prendre ou à laisser. Cependant, Mme Dundas a reconnu que les chargés de cours pouvaient aussi négocier. Il est clair que M. Asare‑Quansah n’était pas motivé par l’argent et qu’il n’en avait pas vu l’utilité. Il avait choisi d’être payé en fonction du nombre d’étudiants. Mme Dundas a reconnu que le nombre maximal d’étudiants était fixé en consultation avec les chargés de cours et, comme nous l’avons noté plus haut, l’école cherchait à partager ses revenus avec eux. Comme pour n’importe quel cours, le nombre d’étudiants peut dépendre de la qualité et de la réputation, non pas seulement de l’établissement, mais aussi surtout du chargé de cours. Par ailleurs, même s’il consacrait un nombre d’heures fixe à l’enseignement, M. Asare‑Quansah décidait à son entière discrétion du temps alloué à la préparation et à la notation. Moins d’heures signifiait vraisemblablement un revenu plus rentable. Je conclus que le facteur lié à la possibilité de profit ne pèse pas lourd compte tenu du taux de rémunération choisi et des raisons pour lesquelles l’intéressé enseigne. Cependant, quelques petits éléments vont dans le sens d’une entente avec un entrepreneur indépendant.
+Risque de perte
+[22] Quant au risque de perte, il est difficile d’imaginer dans ce cas qu’il puisse y avoir des pertes importantes. M. Asare‑Quansah assumait l’ensemble des dépenses liées au cours, bien qu’elles ne fussent pas importantes. Le temps de préparation, si excessif, pouvait empiéter sur celui consacré avec plus de profit à la comptabilité. Le risque de perte est un facteur neutre.
+Jurisprudence
+[23] L’intimé m’a renvoyé à deux décisions portant sur des chargés de cours. La première, Heritage Baptist College c. Ministre du Revenu national[4], concernait les chargés de cours à temps partiel de ce collège biblique. Ces derniers devaient, à la fin du semestre, répondre à des questions sur le déroulement de leurs cours. Sur la foi de ces réponses, le directeur des études choisissait ceux qui reviendraient enseigner. Les chargés de cours étaient payés un montant fixe sans égard au nombre d’étudiants. L’un d’eux disposait également d’un bureau sur le campus. Le tribunal a conclu que les chargés de cours étaient des employés.
+[24] Dans le cas des chargés de cours à temps partiel, il s’en faut de peu pour faire pencher la balance d’un côté ou d’un autre. Il y a suffisamment de différences, comme je viens de les énumérer, entre l’affaire Heritage et l’affaire dont je suis saisi pour ne pas renoncer à ma conclusion selon laquelle M. Asare‑Quansah avait le statut d’entrepreneur indépendant à l’égard de la SCS.
+[25] Dans la décision Lopez c. Ministre du revenu national[5], M. Lopez était un chargé de cours à temps partiel au Collège Algonquin. Malgré quelques similarités, je relève une ou deux différences frappantes. Tout d’abord, le Collège « participait beaucoup au travail lui‑même, tant pour la composition de l’examen que pour la façon de le noter et le règlement de toute éventuelle contestation. » La Cour a également estimé que M. Lopez ne pouvait trouver de remplaçant.
+[26] Selon moi, ces affaires ne sont pas de la moindre utilité à l’intimé. Ces décisions reposent sur les faits qui leurs sont propres et sont tributaires des faits. Une nuance factuelle, même négligeable, dans un cas comme celui d’un chargé de cours à temps partiel, peut modifier la nature de la relation de travail.
+Conclusion
+[27] M. Asare‑Quansah a fait ce que de nombreux professionnels ont fait et a rendu à sa profession les bénéfices qu’il avait su tirer de ses connaissances et de son expérience de comptable agréé, et ce, en dehors de sa vie professionnelle normale. Il aurait pu le faire dans d’autres établissements, mais il a choisi la SCS. Il n’a jamais pensé avoir signé un contrat en tant qu’employé soumis aux normes de l’université, mais plutôt comme un spécialiste obéissant à des normes professionnelles élevées et libre d’enseigner à son gré la matière de son choix. Il est vrai que la SCS imposait certaines exigences pratiques à tous ses chargés de cours (employés ou entrepreneurs indépendants), mais j’estime que ces éléments de contrôle sont insuffisants pour conclure à l’existence d’une relation employeur‑employé. Et c’est bien là le facteur le plus important en l’espèce : les autres facteurs sont neutres ou pas assez déterminants, dans un sens ou dans l’autre; en fait, ils penchaient légèrement en faveur du statut d’entrepreneur indépendant.
+[28] Les appels sont accueillis et la décision du ministre selon laquelle M. Asare‑Quansah occupe un emploi assurable et ouvrant droit à pension est annulée.
+Signé à Ottawa, Canada, ce 21e jour de juin 2012.
+« Campbell Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 31e jour de juillet 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 226
+No DU DOSSIER DE LA COUR : 2010‑3852(CPP) et 2011‑276(EI)
+INTITULÉ : EDWARD ASARE‑QUANSAH c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Campbell Miller
+DATE DU JUGEMENT : Le 21 juin 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Iris Kingston
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : s. o.
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553.
+[2] 2001 CSC 59.
+[3] 2006 CAF 87.
+[4] CarswellNat 1554.
+[5] 2007 CCI 127.

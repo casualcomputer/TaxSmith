@@ -1,0 +1,243 @@
+---
+title: "Gauthier c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28175/index.do"
+last_modified: "2007-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 563"
+citation2: ""
+neutral_citation: "2007 CCI 563"
+decision_date: "2007-11-14"
+language: "fr"
+item_id: "28175"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1989
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:05:44.560000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12e3fa0bc00185ffd495597620f470cf2ed2cb3379c5330568ae1374d64daa3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gauthier c. M.R.N.
+
+- Citation: 2007 CCI 563
+- Decision date: 2007-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1989, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-14
+Référence neutre
+2007 CCI 563
+Numéro de dossier
+2006-2496(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-2496(EI)
+ENTRE :
+MARIO GAUTHIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LIETTE CÔTÉ,
+intervenante.
+____________________________________________________________________
+Appel entendu le 5 septembre 2007, à Chicoutimi (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Nancy Dagenais
+Pour l'intervenante:
+L'intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI563
+Date : 20071114
+Dossier : 2006-2496(EI)
+ENTRE :
+MARIO GAUTHIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LIETTE CÔTÉ,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelant interjette appel des décisions du ministre du Revenu national (le « ministre ») rendues en vertu de la Loi sur l’assurance-emploi (la « Loi »). Le ministre a décidé que l’intervenante (la « travailleuse ») n’exerçait pas un emploi aux termes d’un contrat de louage de services et qu’elle n’occupait donc pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi lorsqu’elle était au service de l’appelant, qui exploitait une entreprise d’excavation et de déneigement sous les raisons sociales Excavation et Déneigement MG Enr. et Rénovation et Entretien SC, pendant les périodes du 26 août 2002 au 6 juin 2003, du 30 juin 2003 au 12 mars 2004, du 5 avril 2004 au 7 janvier 2005 et du 7 février 2005 au 20 janvier 2006 (les « périodes pertinentes »). Le ministre a aussi décidé qu’un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre la travailleuse et l’appelant.
+[2] Pour rendre sa décision que la travailleuse n’exerçait pas un emploi aux termes d’un contrat de louage de services, et qu’elle n’occupait donc pas un emploi assurable lorsqu’elle était au service de l’appelant pendant les périodes pertinentes, le ministre s’est fondé sur les hypothèses de fait suivantes énoncées au paragraphe 5 de la Réponse à l’avis d’appel, lesquelles ont été admises ou niées selon le cas :
+a) l’appelant exploite, depuis le 20 mars 1995, une entreprise d’excavation et de déneigement sous les raisons sociales de Excavation et Déneigement MG Enr. et aussi, depuis le 5 octobre 1998, Rénovation et Entretien SC.; [admis]
+b) l’appelant offre les services d’excavation, de terrassement, de déneigement et de nettoyage de stationnement; [admis]
+c) il exploite son entreprise à l’année longue; [admis]
+d) l’appelant a démarré son entreprise en achetant une première machine pour laquelle la travailleuse a investi 3 000,00 $ sans en être remboursée; [admis]
+e) l’appelant possédait les équipements suivants : une pelle, une pépine, un camion 10 roues, une remorque 10 tonnes, un camion sableur et un camion avec une remorque fermée; [admis]
+f) l’appelant est opérateur de machinerie lourde et il confie tout le travail de bureau à sa conjointe, la travailleuse; [admis]
+g) les principales tâches de la travailleuse étaient de préparer les paies; préparer les rapports de TPS et de TVQ et faire les remises; préparer les soumissions et les contrats; s’occuper des achats et ventes de machinerie; s’occuper du financement; répondre au téléphone, etc. [admis]
+h) la travailleuse préparait seule ou avec l’aide de l’appelant les soumissions; [admis]
+i) la travailleuse pouvait signer les chèques au nom de l’appelant; [admis]
+j) le compte de banque de l’entreprise était ouvert conjointement aux noms de l’appelant et de la travailleuse; [nié]
+k) la travailleuse était conjointement responsable avec l’appelant de la marge de crédit de l’entreprise de l’appelant; [nié]
+l) la travailleuse s’occupait de tout l’aspect administratif de l’entreprise alors que l’appelant travaillait uniquement sur la machinerie; [admis]
+m) la travailleuse n’était pas contrôlée ni supervisée par l’appelant dans le cadre de son travail; [nié]
+n) lorsque l’appelant voulait faire une dépense importante, il consultait la travailleuse; [admis]
+o) la travailleuse travaillait à sa résidence (seule propriétaire) sans obtenir de compensation de l’appelant pour l’utilisation d’une pièce lui servant de bureau; [admis]
+p) dans le cadre de son travail, la travailleuse utilisait un ordinateur qui lui appartenait et le téléphone et numéro de téléphone de sa résidence; [admis]
+q) la travailleuse n’avait aucun horaire de travail à respecter; [nié]
+r) les heures travaillées par la travailleuse n’étaient pas comptabilisées par l’appelant; [nié]
+s) durant les périodes en litige, la travailleuse a reçu une rémunération qui est passée de 10 $ à 12 $ de l’heure; [admis]
+t) quand elle était inscrite au livre des salaires de l’appelant, la travailleuse l’était toujours pour 40 heures par semaine sans égard aux heures réellement travaillées; [nié]
+u) quand elle n’était pas inscrite au livre des salaires, la travailleuse prétend qu’elle ne travaillait pas et retirait des prestations d’assurance-emploi; [admis]
+v) le 19 avril 2006, l’appelant indiquait à un représentant de l’intimé que la travailleuse travaillait à l’année et parfois sans rémunération puisque les appels téléphoniques, la facturation, les fax et les soumissions ne pouvaient attendre, alors que la travailleuse affirmait que les semaines sans salaires étaient des semaines sans travail; [admis]
+w) la travailleuse cumulait son travail pour avoir des semaines de 40 heures afin de lui permettre de retirer des prestations d’assurance-emploi durant les autres semaines; [nié]
+x) à chaque année, la travailleuse a reçu le maximum de semaines de prestations d’assurance-emploi; [admis]
+y) la travailleuse était inscrite aux livres des salaires de l’appelant en fonction de ses besoins à retirer des prestations et non en fonction des besoins de l’appelant; [nié]
+[3] Pour rendre sa décision que la travailleuse et l’appelant étaient, pendant la période pertinente, des personnes liées au sens de la Loi de l’impôt sur le revenu, le ministre s’est fondé sur les hypothèses de fait suivantes énoncées au paragraphe 6 de la Réponse à l’avis d’appel, lesquelles ont été admises :
+a) l’appelant était le seul propriétaire de l’entreprise;
+b) la travailleuse était la conjointe de fait de l’appelant;
+c) la travailleuse était liée à une personne qui contrôlait l’entreprise de l’appelant.
+[4] Enfin, pour se convaincre qu’il n’était pas raisonnable de conclure que l’appelant et la travailleuse auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, le ministre s’est fondé sur les hypothèses de fait suivantes énoncées au paragraphe 7 de la Réponse à l’avis d’appel, lesquelles ont été admises ou niées selon le cas :
+a) le travail de la travailleuse était essentiel et requis à l’année longue pour le bon fonctionnement de l’entreprise de l’appelant; [admis]
+b) la travailleuse rendait des services à l’année longue mais était rémunérée de manière à se qualifier aux prestations de chômage; [nié]
+c) pour toutes les semaines où elle n’était pas inscrite au livre des salaires, la travailleuse recevait des prestations d’assurance-emploi; [admis]
+d) l’appelant ne supervisait pas le travail de la travailleuse, ne connaissait pas ses heures de travail et ne connaissait rien relié de l’administration quotidienne de son entreprise; [nié]
+[5] Il convient de souligner d’entrée de jeu que l’appelant et l’intervenante ont témoigné, alors que madame Sandra Boyer, l’enquêteur de premier niveau, et madame Colette Laberge, l’agent des appels de l’Agence des douanes et du revenu du Canada (l'« Agence »), ont témoigné à l’appui de la position de l’intimé.
+[6] Lors de son témoignage, madame Colette Laberge, l’agent des appels qui a statué sur l’application de l’alinéa 5(2)i) et du paragraphe 5(3) et sur l’alinéa 5(1)a) de la Loi, a essentiellement fait un résumé de son rapport qui a été produit sous la cote I‑6. Dans ce rapport, on trouve les déclarations faites à madame Laberge par l’appelant et la travailleuse lors d’entretiens téléphoniques. On trouve aussi, dans le rapport, l’analyse de madame Laberge qui a mené à la décision du ministre dans la présente affaire. À mon avis, les déclarations pertinentes faites à madame Laberge par l’appelant et la travailleuse méritent d’être citées, car elles m’ont permis d’établir la valeur probante des témoignages de l’appelant et de la travailleuse. Les déclarations pertinentes consignées dans le document intitulé « Rapport sur un appel » se lisent ainsi :
+Les faits suivants sont tirés d’une conversation téléphonique avec le payeur, Mario Gauthier :
+[ ]
+2. Le payeur exploite une entreprise qui opère dans le domaine de l’excavation durant l’été et dans le déneigement durant l’hiver. Le printemps, c’est du balayage de stationnement et l’automne, c’est la préparation pour l’hiver. Ca n’arrête pas, c’est à l’année.
+[...]
+4. Le payeur est opérateur de machinerie lourde et il fait entièrement confiance à sa conjointe Liette Côté, pour tout ce qui concerne le bureau, elle est bonne dans les chiffres.
+5. C’est elle qui décide s’il va accepter un contrat ou pas puisqu’elle sait compter. Ils préparent les soumissions ensemble, la plupart du temps.
+6. Quand c’est urgent, elle prend la décision d’un contrat, prépare la soumission et elle lui en parle après. Il lui fait entièrement confiance. Lui, il travaille sur le terrain.
+7. Le payeur est rémunéré par des retraits et c’est la travailleuse qui décide des retraits.
+8. La travailleuse est rémunérée par bloc de 40 heures. Elle accumule le travail de bureau et en fait le jour et le soir et ensuite elle dit qu’elle se sort une paie, qu’elle en a fait pour 40 heures.
+9. Son travail consiste à faire les payes, les DAS, les rapports de TPS, de TVQ, le classement, les soumissions, les contrats, les achats et les ventes de machinerie, le financement. Il conclue en disant que si elle n’est pas là, il n’y a rien qui marche.
+10. Les heures de Mme Liette Côté ne sont pas comptabilisées, il lui fait confiance.
+11. Elle est payée à l’heure mais ne sait pas combien elle gagne. Dernièrement, elle lui a dit qu’elle se prenait une augmentation de salaire et il ne sait pas de combien était cette augmentation mais, il est certain que c’est pas exagéré.
+12. Ne sait pas qui a décidé du salaire de la travailleuse ni comment son salaire a été déterminé, il ne sait pas combien elle gagne mais il pense que ce n’est pas exagéré.
+13. Il ne sait pas si elle a reçu une paye de vacances mais il sait qu’elle ne prend pas vraiment de vacances. En juillet 2006, ils vont prendre une semaine de vacances parce qu’ils vont se marier mais ce sera la première fois qu’ils prennent des vacances.
+14. Liette Côté effectue des tâches sans être rémunérée lorsqu’elle répond au téléphone pour des jobs ou des plaintes ou lorsqu’elle fait de la facturation. La facturation, c’est pas quelque chose qui peut attendre. C’est la même chose pour les fax ou les soumissions, ça peut pas attendre.
+15. Elle essaie de s’accumuler du travail pour une semaine mais il faut bien facturer si on veut que l’argent rentre. Ne peut dire son minimum d’heures par semaine, ça dépend de la demande.
+16. Le payeur ne connaît pas le chiffre d’affaire, et ce, pour aucune des quatre dernières années.
+17. Elle signe les transactions, elle en a l’autorisation. Parfois, c’est lui qui signe d’avance, c’est pas important pour lui, c’est elle qui prépare les papiers de toute façon, ça revient au même.
+[…]
+19. Elle travaille à la maison parce que c’est là qu’est le bureau, elle s’occupe aussi de la maison, du téléphone, des commissions, de la banque, des dépôts, de la facturation.
+[…]
+21. La situation est la même pour les quatre périodes en litige, même plus, ça fait 12 ou 15 ans.
+22. Elle travaille à l’année et ses heures ne sont pas consignées. Il ne sait pas si elle bénéficie d’avantages sociaux, il n’est pas au courant de ces choses-là.
+[…]
+24. Elle rend des comptes au payeur au fur et à mesure, elle n’est pas supervisée et n’a pas à faire approuver son travail.
+25. Il dit qu’il pourrait mettre fin à ses services mais, qu’il ne peut s’imaginer que quelqu’un d’autre viendrait travailler à la maison, le payeur précise que le bureau est dans sa maison à elle.
+26. Si elle n’était pas là, ce serait seulement qu’il n’y aurait plus d’ouvrage et il mettrait la clé dans la porte parce qu’il ne pourrait pas s’en passer, elle est indispensable et est là depuis le début.
+27. Les outils de travail utilisés appartiennent à Liette Côté. C’est à elle la maison où est situé le bureau. Elle possède aussi un ordinateur, un MAC qu’elle utilise pour le travail. Ils viennent d’acheter un deuxième ordinateur, un IBM, qui a été payé par l’entreprise et qu’elle va utiliser mais, c’est plus pour sa fille, pour l’école, parce qu’un MAC, ça faisait pas.
+[…]
+29. La travailleuse utilise son automobile personnelle pour le travail mais il ne sait pas si elle se rembourse des dépenses.
+[…]
+31. Aucun autre travailleur n’occupe les mêmes fonctions que Liette Côté, si elle n’était pas là, il ne pourrait continuer seul, il précise qu’il n’a pas d’instruction, qu’il ne sait pas compter.
+[…]
+Les faits suivants sont tirés d’une conversation téléphonique avec Liette Côté, la travailleuse :
+32. La travailleuse corrobore les faits 1 à 6, et 17 à 28 ci-haut mentionnés. De plus, elle apporte les précisions suivantes.
+33. Liette Côté indique que le payeur effectue les retraits qu’il veut dans le compte de banque de l’entreprise, et qu’il n’a pas à lui demander la permission pour faire des chèques ou des retraits personnels dans ce compte.
+34. La travailleuse dit qu’elle travaille une semaine de 40 heures lorsqu’elle a assez de papiers et des factures d'accumulés. Elle peut changer la date des factures ou des chèques pour faire ses 40 heures toutes dans la même semaine, de jour, entre 7h30 ou 8h00 et jusqu'à 17h00.
+35. Son travail consiste à faire la tenue de livre, les payes, les remises de CCQ, CSST, TVQ, TPS, tout le travail de bureau, les DAS, les soumissions, la réception, les téléphones.
+36. Durant notre conversation téléphonique, il est alors 10 h 15 et la travailleuse reçoit un appel sur l’autre ligne et elle me met en attente. Elle revient en disant qu’elle n’aurait pas dû répondre au téléphone puisque c’est pas une journée de travail pour elle.
+37. À 10 h 28, elle reçoit un autre appel téléphonique et, après hésitation, elle laisse sonner et dit que ça va tomber sur le répondeur.
+38. Elle m’explique aussi qu’elle a un afficheur et précise que ça lui permet de ne pas répondre quand c’est des clients qui appellent mais quand c’est le gouvernement, elle répond toujours.
+39. Elle me dit ensuite que quand elle ne travaille pas, elle donne le numéro de cellulaire de son conjoint afin que les clients l’appellent lui-même. Elle m’offre de me faire parvenir le compte de téléphone du cellulaire pour me prouver qu’il l’utilise beaucoup. OK, j’accepte, je l’examinerai.
+40. Elle est payée à la semaine mais sur une base de calcul de 12,50 $ de l’heure. Elle gagnait avant 11,50 $ et ensuite 12,00 $ de l’heure. Elle précise qu’elle pourrait se donner beaucoup plus en salaire et que son conjoint serait d’accord mais elle veut rester raisonnable.
+41. Elle dit que 12 $ c’est en comparaison avec le marché et que le payeur était d’accord avec ça.
+42. Elle n’a jamais pris de vacances, elle n’a même jamais pris de congé de maternité depuis qu’ils ont l’entreprise et elle ne reçoit pas de 4% non plus.
+43. Contrairement à son conjoint, elle dit qu’elle accumule même les soumissions à faire et que la facturation, ça peut attendre aussi à la semaine qu’elle travaille.
+44. Elle dit que l’entreprise, c’est ouvert 7 jours sur 7 mais seulement pour son conjoint. Pour elle, c’est juste du lundi au vendredi.
+[…]
+46. La travailleuse effectue son travail à sa résidence personnelle et, elle seule, en détient le titre de propriété. Pourtant, elle considère qu’elle ne fournit pas le lieu de travail pour autant.
+47. Elle n’est pas supervisée et son conjoint n’a pas à approuver son travail non plus.
+48. Elle travaille à sa résidence parce qu’elle s’occupe aussi des enfants et sa mère est à côté. Elle pourrait travailler au garage mais, c’est plus loin, il n’y a pas de bureau équipé et ça lui tente pas de travailler avec les souris.
+49. Tous les outils appartiennent à la travailleuse et le payeur a acheté un nouvel ordinateur qu’elle va commencer à utiliser prochainement (hors des 4 périodes en litige).
+50. Elle utilise très peu son automobile personnelle pour le travail puisqu’ils ont 3 pick-up pour aller faire des soumissions, elle peut en prendre un pour se rendre sur la job.
+51. Quand le payeur veut faire une dépense importante, il faut qu’il lui en parle avant parce qu’il n’est pas au courant des chiffres et que cela ne l’intéresse même pas.
+52. Il ne pourrait pas mettre fin à son emploi parce que si elle n’était pas là, il n’aurait pas de business et il ne serait pas rendu où il est rendu là.
+53. Si elle se trompe pour une soumission, c’est tout le monde qui est responsable parce qu’ils font les prix ensemble.
+54. Au sujet du risque de perte, elle précise que le chômage, c’est comme du salaire, ils ne roulent pas sur l’or et ont besoin de tous leurs revenus, ça fait partie de sa paye.
+55. Au sujet du remboursement de ses dépenses pour affaire, elle dit que de temps en temps, elle se prend un 20 $ d’essence sur l’argent de l’entreprise.
+[7] Il ressort aussi des tableaux préparés par madame Laberge produits sous la cote I‑7 et des tableaux préparés par madame Boyer produits sous la cote I‑5 que :
+i) la travailleuse avait reçu des prestations d'assurance‑emploi pendant la période la plus longue possible pour chacune des années en cause, soit pendant 24 semaines en 2003, pendant 26 semaines en 2004 et pendant 20 semaines en 2005;
+ii) la travailleuse faisait une demande de prestations dès qu’elle avait accumulé le nombre d’heures nécessaire pour avoir droit aux prestations d’assurance-emploi;
+iii) elle avait toujours travaillé 40 heures pendant ses semaines de travail;
+iv) l'entreprise de l'appelant n'était pas saisonnière.
+[8] L’appelant a témoigné que :
+i) il était le seul propriétaire du compte en banque de l’entreprise, tout en admettant par ailleurs que la travailleuse pouvait tirer des chèques sur ce compte;
+ii) la travailleuse n’était responsable d’aucune façon du remboursement de la marge de crédit de l’entreprise;
+iii) la travailleuse s’occupait de tout l’aspect administratif de l’entreprise, alors qu’il s'occupait uniquement de la machinerie. Il expliquait d’ailleurs ainsi cette répartition des tâches entre lui et la travailleuse : « Je suis bon pour faire un trou, mais dans les papiers, je ne suis pas capable. »;
+iv) il ne supervisait ni ne contrôlait le travail de la travailleuse, tout en insistant sur le fait qu’il lui donnait à l’occasion des ordres quant au travail à accomplir, ordres qu’elle devait respecter;
+v) la travailleuse ne travaillait pas lorsqu’elle recevait des prestations d’assurance-emploi.
+[9] Dans son témoignage, la travailleuse a essentiellement repris les propos tenus par l’appelant lors de son témoignage. Toutefois, la travailleuse a précisé que son horaire de travail était souple et qu’elle travaillait 8 heures par jour, du lundi au vendredi, pendant les périodes pertinentes. Enfin, elle a ajouté qu’elle ne travaillait pas hors des périodes pertinentes, si ce n’est qu’elle prenait à l’occasion des appels de clients à qui elle demandait alors d'appeler le téléphone portable de l'appelant. Elle a aussi expliqué que hors des périodes pertinentes, les appels des clients étaient automatiquement acheminés au téléphone portable de l’appelant.
+Analyse et conclusion
+[10] Nous examinerons d'abord la question de savoir si la travailleuse exerçait un emploi aux termes d’un contrat de louage de services. Il y a, à mon avis, trois éléments essentiels à un contrat de louage de services : l’exécution d’un travail véritable, le versement d’une véritable rémunération et le pouvoir de contrôle du payeur sur celui qui exécute le travail.
+[11] Avant de déterminer si l'on retrouve ces trois éléments essentiels à un contrat de travail, en l'espèce, je tiens à souligner que j’ai accordé peu de valeur probante au témoignage de l’appelant et de la travailleuse. À cet égard, je rappelle que la travailleuse a témoigné qu’elle ne travaillait pas pendant les périodes où elle recevait des prestations d’assurance-emploi, si ce n’est qu’elle répondait à l’occasion aux appels téléphoniques des clients de l’entreprise, appels qu’elle acheminait systématiquement à l’appelant. La travailleuse a expliqué qu’elle faisait une semaine de 40 heures de travail lorsqu’elle avait accumulé assez de travail pour travailler pendant 40 heures. L’appelant a tout simplement témoigné que la travailleuse ne travaillait pas pendant les semaines où elle recevait des prestations d’assurance-emploi. Ces témoignages contredisent clairement les déclarations antérieures de l’appelant. De toute façon, le témoignage de l’appelant et de la travailleuse à cet égard m’a paru tout simplement invraisemblable (voir les paragraphes 14 et 15 de la pièce I‑6). En effet, la preuve a révélé très clairement que l’entreprise de l’appelant n’était pas une entreprise saisonnière et que l’appelant ne faisait aucun travail administratif et qu'il n'en était pas capable. Il n’était même pas capable de faire une soumission sans l’aide de la travailleuse. La travailleuse a tenté de me faire croire que tout le travail administratif pouvait être accumulé et être fait pendant des semaines où elle travaillait et que ses services n’étaient donc pas requis pendant les semaines où elle recevait des prestations d’assurance-emploi. Pourtant, l’appelant a déclaré à madame Laberge que la facturation ne pouvait attendre. Je ne peux non plus accepter que, pendant les nombreuses semaines où la travailleuse recevait des prestations d’assurance-emploi, l’appelant ne faisait aucune soumission. Je rappelle encore une fois à cet égard que l’entreprise de l’appelant n’était pas une entreprise saisonnière et que l’appelant ne pouvait faire de soumission sans l’aide de la travailleuse. Je peux comprendre qu’une partie du travail administratif pouvait être accumulé et complété pendant les semaines où elle travaillait. Je pense aux rapports ayant trait aux remises de la Commission de la Construction du Québec, de la Commission de la Santé et de la Sécurité au travail de la taxe de vente, de la taxe sur les produits et services et des retenues à la source. Toutefois, je ne peux concevoir que l’entreprise de l’appelant pouvait se passer totalement des services de la travailleuse pendant une vingtaine de semaines par année, et ce, souvent pendant trois semaines consécutives.
+[12] Est‑ce qu’il existait un lien de subordination entre l’appelant et la travailleuse, un des trois éléments essentiels à l'existence d'un contrat de travail. Il m’est difficile de conclure à l’existence d’un tel lien à la lumière de la preuve soumise dans la présente affaire. En effet, comment puis-je conclure à l’existence d’un lien de subordination alors que la preuve démontre que c’est la travailleuse qui déterminait sa propre rémunération. L’appelant n’a‑t‑il pas déclaré à madame Laberge qu’il ne connaissait même pas la rémunération de sa conjointe et qu'il ne savait même pas si elle recevait des payes de vacances? En fait, nous sommes ici en présence d’une société de fait dont les associés sont l’appelant et sa conjointe. À mon avis, l’appelant et sa conjointe ont convenu, dans un esprit de collaboration, d’exploiter une entreprise, d’y contribuer par la mise en commun de biens, de connaissances ou d’activités et de partager entre eux les bénéfices pécuniaires qui en résultent. En l’espèce, les apports de la travailleuse à la société de fait étaient son travail, ses connaissances et ses biens. C’est sûrement pour cette raison que la travailleuse fournissait un local et un ordinateur à l'entreprise sans contrepartie. C’est aussi sûrement pour cette raison que la travailleuse acceptait de ne pas prendre de vacances et même de ne pas recevoir de paye de vacances. Elle considérait ces éléments comme des apports à la société. Par ailleurs, l’appelant apportait à la société de fait son travail, de l’argent, de la machinerie et son garage. Cette relation d’associés entre les deux parties explique le fait que l’appelant ne donnait aucune directive à la travailleuse. Comme deux associés, l’appelant et la travailleuse travaillaient dans un esprit de collaboration et de consultation et ils exerçaient leur jugement dans leur domaine de compétence respectif. L’appelant n’a‑t‑il pas déclaré à madame Laberge qu’il ne supervisait pas le travail de la travailleuse et que son conjoint n’avait pas à approuver son travail non plus?
+[13] Si j’ai conclu à tort que la travailleuse était l'associée d’une société exploitant une entreprise et que l'appelant était son co‑associé, je suis tout de même d’avis que la travailleuse n’exerçait pas un emploi aux termes d’un contrat de louage de services, non seulement parce qu’il n’existait pas de lien de subordination entre elle et l’appelant, mais aussi parce que nous avons affaire ici à une entente ou à un arrangement où la rémunération ne dépend pas du temps ou de la période d’exécution du travail, mais visait plutôt à tirer avantage des dispositions de la Loi. Cet arrangement ou cette entente vicie le contrat de louage de services. Comme le soulignait le juge Tardif dans la décision Laverdière c. Canada, no 97‑1902(UI), 25 février 1999, [1999] A.C.I. no 124 :
+50 Il en est ainsi au niveau de toute entente ou arrangement dont le but et objectif est d’étaler ou cumuler la rémunération due ou être due de manière à tirer avantage des dispositions de la Loi. Toute planification ou entente qui maquille ou altère les faits relatifs à la rétribution, dans le but de maximiser les bénéfices de la Loi, disqualifie le contrat de louage de services.
+51 La Loi n’assure que les véritables contrats de louage de services; un contrat de travail dont la rétribution n’est pas fonction de la période d’exécution du travail ne peut être définie comme un véritable contrat de louage de services. Il s’agit d’une entente ou d’un arrangement qui discrédite la qualité d’un véritable contrat de louage à ce qu’il associe des éléments étrangers à la réalité contractuelle exigée par la Loi.
+[14] Je suis convaincu que la travailleuse ne travaillait pas 40 heures par semaine pendant les semaines où elle était rémunérée. Je suis plutôt d’avis qu’elle consacrait à son travail à peu près le même nombre d’heures pendant toute l'année. La nature même des tâches exécutées par la travailleuse au sein de l’entreprise exigeait qu’il en soit ainsi. L’appelant et la travailleuse considèrent, à mon avis, l’assurance-emploi non pas comme une mesure sociale pour venir en aide à ceux qui perdent leur emploi, mais comme un programme de subvention pour venir en aide à leur entreprise.
+[15] Si j’ai conclu à tort que la travailleuse n’exerçait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi, la travailleuse n’occupait pas pour autant un emploi assurable parce qu’il s’agit en l’espèce d’un emploi exclu, puisqu'un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre la travailleuse et l’appelant. En effet, quel employé sans lien de dépendance avec l’appelant aurait accepté de travailler bénévolement une vingtaine de semaines par année? Quel employé aurait accepté d’utiliser sa résidence, son ordinateur et même son automobile aux fins de l’entreprise, sans compensation?
+[16] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI563
+Nº DU DOSSIER DE LA COUR : 2006-2496(EI)
+INTITULÉ DE LA CAUSE : Mario Gauthier et M.R.N. et Liette Côté
+LIEU DE L’AUDIENCE : Chicoutimi (Québec)
+DATE DE L’AUDIENCE : le 5 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 novembre 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Nancy Dagenais
+Pour l'intervenante:
+L'intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

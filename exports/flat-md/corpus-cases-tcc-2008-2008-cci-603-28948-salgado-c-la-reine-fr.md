@@ -1,0 +1,169 @@
+---
+title: "Salgado c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28948/index.do"
+last_modified: "2008-11-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 603"
+citation2: ""
+neutral_citation: "2008 CCI 603"
+decision_date: "2008-11-05"
+language: "fr"
+item_id: "28948"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1388
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:14:53.786000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "337d79f0febcab9e82ac0808a029da48d31bec46432be34dacf7497c7b314b89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salgado c. La Reine
+
+- Citation: 2008 CCI 603
+- Decision date: 2008-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1388, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salgado c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-05
+Référence neutre
+2008 CCI 603
+Numéro de dossier
+2008-1310(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1310(IT)I
+ENTRE :
+PAULO M. SALGADO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à London (Ontario) le 23 octobre 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanie Chua
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+1. les déductions pour l’entretien et les réparations du 205, rue Graham devraient être majorées de 500 $ pour chacune des années d’imposition, sous réserve d’un rajustement pour tenir compte de l’usage personnel;
+2. l’usage personnel du 205, rue Graham pour l’année d’imposition 2003 est de 50 %.
+Chacune des parties supportera ses propres dépens.
+Signé à Toronto (Ontario) ce 5e jour de novembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de décembre 2008.
+Sara Tasset
+Référence : 2008CCI603
+Date : 20081105
+Dossier : 2008-1310(IT)I
+ENTRE :
+PAULO M. SALGADO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 30 octobre 2008.)
+La juge Woods
+[1] Qu’il soit consigné au dossier que les présents motifs sont rendus oralement dans l’affaire Paulo M. Salgado et Sa Majesté la Reine.
+[2] M. Salgado interjette appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004.
+[3] L’avis d’appel déposé par M. Salgado soulève une seule question, à savoir des plaintes quant à la manière dont le processus de vérification a été mené par l’Agence du revenu du Canada.
+[4] Malheureusement pour M. Salgado, l’existence de lacunes dans le processus de vérification ne constitue pas un motif suffisant pour accorder les réparations qu’il recherche, soit une réduction des nouvelles cotisations. Pour que l’appelant puisse avoir gain de cause, il faut démontrer que la Loi de l’impôt sur le revenu n’exige pas l’impôt que le ministre a calculé dans les nouvelles cotisations.
+[5] À l’audience, il a été demandé à M. Salgado de préciser les parties des nouvelles cotisations auxquelles il s’opposait. M. Salgado a indiqué les parties contestées et s’est ensuite concentré sur celles-ci.
+[6] Je commencerai par expliquer un peu le contexte dans lequel les nouvelles cotisations ont été établies.
+[7] Les nouvelles cotisations se rapportent à des dépenses qui ont été déduites par M. Salgado relativement à deux maisons dont il était propriétaire pendant la période en cause. M. Salgado prétend que les dépenses étaient déductibles à juste titre en tant que dépenses engagées pour gagner un revenu.
+[8] Les circonstances entourant les deux propriétés sont très différentes, et je les aborderai séparément.
+189, rue Graham
+[9] La première propriété était une propriété résidentielle située au 189, rue Graham à West Lorne (Ontario). M. Salgado a acheté cette propriété vers la fin de l’année 2002, et celle-ci était inoccupée lorsque M. Salgado a entrepris de la rénover.
+[10] Une fois les rénovations terminées, au début de l’année 2004, M. Salgado a emménagé dans la maison avec ses parents et sa petite amie.
+[11] M. Salgado soutient essentiellement qu’il faisait payer un loyer à sa petite amie pour l’usage d’une chambre à coucher dans la maison, et qu’il devrait donc pouvoir déduire un pourcentage des dépenses liées à la maison.
+[12] Pour les deux années en cause, M. Salgado a demandé la déduction de pertes locatives relativement à la propriété s’élevant respectivement à 5 827 $ et à 3 426 $.
+[13] Selon le principe juridique applicable aux situations comme celle-ci, si l’usage que le contribuable fait du bien comporte un élément personnel, il faut alors déterminer si l’activité productrice de revenus est de nature suffisamment commerciale pour constituer une source de revenus.
+[14] Dans ce cas-ci, l’usage du bien comporte clairement un élément personnel. M. Salgado prétend qu’il louait la chambre à sa petite amie. Cependant, la chambre en question était également la seule chambre à coucher à la disposition de M. Salgado.
+[15] M. Salgado soutient qu’il dormait souvent sur le sofa et non dans la chambre à coucher. Même si cela était vrai, rien n’indique que la chambre à coucher en question n’était pas à sa disposition.
+[16] De plus, le fait que la petite amie de M. Salgado vivait dans la maison constitue un élément personnel considérable. Il n’est pas nécessaire que j’en dise plus long sur ce point.
+[17] Maintenant qu’il a été décidé qu’il y a un élément personnel, il reste à déterminer si l’arrangement était de nature suffisamment commerciale pour constituer une source de revenus.
+[18] Compte tenu de la preuve présentée, je ne suis aucunement convaincue qu’il s’agissait d’un arrangement commercial. Je souligne d’abord que M. Salgado avait indiqué dans sa déclaration de revenus qu’il faisait payer un loyer à sa petite amie à l’égard de cette propriété, et que ce loyer s’élevait à 1 920 $ par année pour les années 2003 et 2004. Cela pose problème étant donné que la petite amie de l’appelant n’a vécu dans la maison à aucun moment en 2003.
+[19] M. Salgado a soutenu que le fait que ses avoirs et ceux de sa petite amie soient séparés établit la nature commerciale de l’arrangement.
+[20] Je n’accepte pas cet argument. Fondamentalement, la relation entre M. Salgado et sa petite amie était de nature personnelle. Le fait que M. Salgado ait prétendu avoir fait payer un loyer à sa petite amie en 2003 alors que celle-ci ne vivait même pas dans la maison est une preuve de la nature non commerciale de l’arrangement.
+[21] Si M. Salgado veut demander des déductions pour pertes locatives à l’égard de sa résidence personnelle au motif qu’il faisait payer un loyer à sa petite amie, il doit fournir des éléments de preuve beaucoup plus convaincants indiquant qu’il s’agissait réellement d’un arrangement de nature commerciale.
+[22] Enfin, je souligne qu’après que tous les éléments de preuve ont été présentés, M. Salgado a affirmé qu’il avait avec lui des preuves de la nature commerciale de l’arrangement et qu’il pourrait les fournir à la Cour si une imprimante était mise à sa disposition parce qu’il avait dans son ordinateur portable des copies de ses déclarations de revenus pour des années ultérieures indiquant qu’il avait déclaré des revenus de location à l’égard de la propriété. Si je me souviens bien, M. Salgado a soulevé ce point très tard dans la journée, peut-être vers 18 heures, et ce, après qu’il ait eu toutes les occasions possibles de présenter des éléments de preuve. Je ne crois pas qu’il aurait été dans l’intérêt de la justice de prolonger l’audience pour que M. Salgado puisse fournir des éléments de preuve supplémentaires tirés de documents enregistrés dans son ordinateur. Il aurait alors fallu ajourner l’audience et reprendre un autre jour, ce qui aurait entraîné des coûts et des inconvénients considérables.
+[23] Pour ces motifs, les déductions demandées à l’égard de la propriété située au 189, rue Graham seront refusées.
+205, rue Graham
+[24] Je me penche à présent sur l’autre propriété, à savoir une propriété résidentielle située au 205, rue Graham. M. Salgado avait acheté cette maison de ses parents en 1998.
+[25] Pendant les années d’imposition en cause, soit 2003 et 2004, l’étage supérieur de cette maison à deux étages était loué à des tiers. Pendant l’année d’imposition 2003, M. Salgado, ses parents et sa petite amie vivaient au rez-de-chaussée pendant les rénovations de la maison du 189, rue Graham. Quand les rénovations du 189, rue Graham ont été achevées en 2004, la maison du 205, rue Graham a été entièrement louée à des tiers.
+[26] Au moment d’établir les nouvelles cotisations, le ministre a refusé à M. Salgado la déduction d’un certain nombre de dépenses à l’égard de cette maison. M. Salgado a contesté tous les rajustements effectués par le ministre.
+[27] Le premier rajustement effectué par le ministre consistait à refuser la déduction d’intérêts sur un emprunt d’environ 58 000 $. Dans sa déclaration de revenus, M. Salgado avait attribué les frais d’intérêt à la maison du 205, rue Graham. Or, les intérêts ne sont déductibles que si l’argent emprunté a effectivement été utilisé afin de produire un revenu. Une simple attribution dans une déclaration de revenus ne suffit pas.
+[28] Presque tout l’argent emprunté avait en réalité été utilisé par M. Salgado pour acheter la propriété du 189, rue Graham. Les intérêts sur l’argent emprunté pour le 189, rue Graham ne sont pas déductibles parce que la propriété du 189, rue Graham était un bien à usage personnel.
+[29] M. Salgado a soutenu que ce résultat était inéquitable et qu’il devrait pouvoir répartir les intérêts entre ses biens. Je comprends le point de vue de M. Salgado, mais il ne m’est pas loisible d’adopter une approche différente. La Cour suprême du Canada a clairement indiqué dans l’arrêt Singleton qu’un lien direct doit pouvoir être établi entre l’argent emprunté et une utilisation admissible.
+[30] Cela règle la question de la plus grande partie des intérêts. M. Salgado a affirmé dans son témoignage qu’une petite partie de l’argent emprunté, à savoir 2 700 $, avait servi à refinancer la propriété du 205, rue Graham. Les documents produits en preuve ne semblent pas appuyer cette affirmation, et, en l’absence de preuves corroborantes, je conclus que M. Salgado ne s’est pas acquitté du fardeau de la preuve en ce qui concerne l’utilisation du solde de 2 700 $.
+[31] Pour ces motifs, la déduction demandée à l’égard des intérêts doit être refusée en entier.
+[32] Le ministre a également refusé la déduction d’un élément désigné dans la réponse à l’avis d’appel sous la rubrique « frais de gestion ». Les déductions demandées sont de 300 $ pour chacune des années. M. Salgado ne conteste pas le refus de ces déductions.
+[33] Je passe maintenant aux autres rajustements effectués par le ministre, qui se rapportent à la déduction de frais d’entretien et de réparations et de dépenses relatives aux services publics et à un véhicule à moteur. Les rajustements effectués correspondent à une somme d’environ 2 000 $ pour les deux années.
+[34] Je crois qu’un certain allégement devrait être accordé à M. Salgado à l’égard de ces dépenses. J’ai l’impression que le vérificateur a adopté une approche très stricte lorsqu’il s’est penché sur ces dépenses. Lorsque le contribuable a fourni des reçus pour la plupart des dépenses, il convient d’accorder un certain allégement à l’égard des dépenses qui ont été engagées mais pour lesquelles il n’y a pas de reçus à l’appui. J’estime qu’il conviendrait de majorer les déductions accordées de 500 $ pour chacune des années 2003 et 2004, sous réserve d’un rajustement pour tenir compte de l’usage personnel, que j’examinerai à présent.
+[35] La question de l’usage personnel consiste à savoir si le ministre a eu raison de réduire la déduction accordée pour les dépenses relatives au 205, rue Graham pour tenir compte de l’usage personnel que la famille a fait de ce bien pendant l’année d’imposition 2003. Dans sa déclaration de revenus, M. Salgado n’a fait aucun rajustement pour tenir compte de l’usage personnel. Au moment d’établir la nouvelle cotisation, le ministre a supposé que l’usage personnel correspondait à 60 %, ce qui était fondé sur une répartition selon le nombre de chambres à coucher dans la maison.
+[36] La preuve présentée m’amène à conclure qu’il est plus approprié d’établir l’usage personnel à 50 % étant donné qu’il y a très peu de différence entre le nombre de pieds carrés de l’espace loué et de l’espace réservé à un usage personnel.
+[37] M. Salgado a avancé que le pourcentage de l’usage personnel devrait être rajusté en fonction de l’espace occupé par sa petite amie. Je ne crois pas qu’il y ait lieu de faire un tel rajustement. Pour les motifs énoncés ci-dessus, je crois qu’aucune partie de l’espace occupé par la petite amie de M. Salgado n’était un bien dont M. Salgado tirait un revenu. Je souligne également que, dans le questionnaire sur la location que M. Salgado a rempli pendant la vérification, la petite amie n’est pas mentionnée comme locataire de la propriété.
+[38] Enfin, M. Salgado a laissé entendre que son bureau à domicile devrait être considéré comme un espace n’étant pas utilisé à des fins personnelles. Il est raisonnable de conclure que M. Salgado exerçait certaines activités commerciales dans la maison compte tenu des activités de location, mais je ne suis pas convaincue, après avoir entendu le bref témoignage donné sur ce point, qu’il y avait une utilisation commerciale suffisante d’une pièce pour que celle-ci puisse être attribuée à un usage exclusivement commercial.
+[39] Par conséquent, je conclus que les seuls rajustements qui devraient être faits à l’égard des nouvelles cotisations consistent, dans un premier temps, à majorer les déductions pour l’entretien et les réparations du 205, rue Graham de 500 $ pour chacune des années, sous réserve d’un rajustement pour tenir compte de l’usage personnel, et, dans un deuxième temps, à faire passer le pourcentage de l’usage personnel du 205, rue Graham pour l’année 2003 de 60 % à 50 %. L’appel sera accueilli et l’affaire sera renvoyée au ministre pour nouvelle cotisation.
+[40] Aucuns dépens ne seront adjugés.
+Signé à Toronto (Ontario), ce 5e jour de novembre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de décembre 2008.
+Sara Tasset
+RÉFÉRENCE : 2008CCI603
+NO DU DOSSIER DE LA COUR : 2008-1310(IT)I
+INTITULÉ : PAULO M. SALGADO ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 23 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge J. Woods
+DATE DU JUGEMENT : Le 5 novembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,267 @@
+---
+title: "The City of Brandon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29317/index.do"
+last_modified: "2009-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 369"
+citation2: ""
+neutral_citation: "2009 TCC 369"
+decision_date: "2009-07-17"
+language: "en"
+item_id: "29317"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7056
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:07:00.106000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df1fa8de7dc08ffd43a4923b813fc3dd9e4fd401a146b1ed27588233e2398bd7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The City of Brandon v. The Queen
+
+- Citation: 2009 TCC 369
+- Decision date: 2009-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7056, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The City of Brandon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-17
+Neutral citation
+2009 TCC 369
+File numbers
+2007-4144(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-4144(GST)G
+BETWEEN:
+THE CITY OF BRANDON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 15, 2009,
+at Vancouver, British Columbia.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Lynn Burch
+Christa Akey
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act, notice of which is dated July 16, 2004, for the period from January 1 to 31, 2004, is dismissed with costs.
+Signed at Ottawa, Canada, this 17th day of July 2009.
+"Gaston Jorré"
+Jorré J.
+Citation: 2009 TCC 369
+Date: 20090717
+Docket: 2007-4144(GST)G
+BETWEEN:
+THE CITY OF BRANDON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] In the mid-1990s Maple Leaf Meats Inc. sought proposals across Canada for a location to build a hog-processing facility.
+[2] The City of Brandon felt that if such a facility were built in Brandon it would offer significant economic benefits, including a large number of new jobs.
+[3] The City and the Province of Manitoba wanted to encourage the construction of the plant in Brandon and entered into a Memorandum of Understanding with Maple Leaf in December 1997. One matter dealt with in the Memorandum was the treatment of Maple Leaf’s wastewater.
+[4] The municipality’s existing wastewater treatment plant would not be able to deal with the wastewater from the proposed Maple Leaf facility and, as a result of the Memorandum as well as arrangements between the City and the Province, Maple Leaf and the City entered into an Agreement for Waste Water Treatment Services on March 31, 1999.[1]
+[5] Pursuant to the Agreement, the City was to build, own and operate a wastewater treatment plant (the “new wastewater plant”) adjoining the hog‑processing facility that Maple Leaf would build. The City would accept and treat wastewater from the facility. Maple Leaf agreed that the wastewater would be pre-treated and that the wastewater sent to the City facility would meet certain standards.[2] Maple Leaf also agreed to certain limitations regarding the quantity of water per day and per week.
+[6] The Agreement provided that the City would bear the cost of constructing the wastewater facility[3] while Maple Leaf would pay all the operating costs, including an amount for administrative costs.
+Issue
+[7] The City claimed[4] input tax credits (“ITCs”) with respect to the goods and services tax (the “GST”) it paid on the expenditures for the construction of the wastewater treatment facility.[5] There is no substantive dispute as to the quantum.[6]
+[8] The Respondent says that the City is not entitled to claim the ITCs in issue because the wastewater treatment services supplied to Maple Leaf are exempt supplies.
+[9] ITCs may only be claimed to the extent that the City acquired the goods or services on which it paid GST, potentially giving rise to ITCs, for use in the course of a “commercial activity”.[7] “Commercial activity” is defined to include a business carried on by a person except to the extent that it involves the making of “exempt supplies”.[8] “Exempt supplies” are defined to mean supplies included in Schedule V.[9]
+[10] The Respondent says the supplies made by the City to Maple Leaf are exempt supplies because they fall within Schedule V, Part VI, section 21 of the Excise Tax Act (the “ETA”):
+21. A supply of a municipal service, if
+(a) the supply is
+(i) made by a government or municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area, or
+(ii) made on behalf of a government or municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area and that is not the government or municipality;
+(b) the service is
+(i) one which the owner or occupant has no option but to receive, or
+(ii) supplied because of a failure by the owner or occupant to comply with an obligation imposed under a law; and
+(c) the service is not one of testing or inspecting any property for the purpose of verifying or certifying that the property meets particular standards of quality or is suitable for consumption, use or supply in a particular manner.[10]
+Alternatively the Respondent says that the supplies are exempt supplies because they fall within Schedule V, Part VI, section 22:
+22. A supply of a service, made by a municipality or by an organization that operates a water distribution, sewerage or drainage system and that is designated by the Minister to be a municipality for the purposes of this section, of installing, repairing, maintaining or interrupting the operation of a water distribution, sewerage or drainage system.
+[11] The key portions of these two sections for the purposes of this appeal are set out below:
+21. A supply of a municipal service, if
+(a) the supply is
+(i) made by a . . . municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area, or
+. . . [and]
+(b) the service is
+(i) one which the owner or occupant has no option but to receive, or
+. . .
+22. A supply of a service, made by a municipality . . . of installing, repairing, maintaining or interrupting the operation of a water distribution, sewerage or drainage system.
+[Emphasis added.]
+Facts and analysis[11]
+[12] There is no substantive dispute as to the facts.
+[13] There was one witness, Mr. Theodore Snure. Mr. Snure has a Bachelor of Science in Civil Engineering and is a registered professional engineer in Manitoba. He joined the City in 1981 as Assistant City Engineer. Subsequently, he became City Engineer and, later, General Manager, Development Services. At the relevant times he was City Engineer and his responsibilities included water distribution, wastewater treatment and transit.
+[14] Mr. Snure testified that originally Maple Leaf was going to own and operate the new wastewater treatment facility. Ultimately, Maple Leaf decided that they were not in the business of wastewater treatment and it was agreed that the City would build, own and operate the facility.
+[15] There was no evidence that Maple Leaf could not have chosen to set up its own wastewater treatment system or that Maple Leaf could not have chosen to contract with a private company to treat its wastewater.
+[16] The Agreement of March 31, 1999 between Maple Leaf and the City provided for the possibility that the City could take other companies’ wastewater to the new wastewater plant built for the Maple Leaf hog-processing plant.[12]
+[17] The Agreement provided for circumstances under which Maple Leaf could assume the operation, but not ownership, of the wastewater facility. Before Maple Leaf could take over the operation of the facility, it would have to meet a number of conditions. Maple Leaf would have to demonstrate that it could operate the facility more economically or efficiently than the City and it would have to meet the requirements of any other (third-party) customers the City might then have who used the new wastewater plant.
+[18] Mr. Snure also testified that the new wastewater plant cost between $10 million and $12 million, that the annual charge by the City to Maple Leaf was about $1 million and that it took two to four employees to run the plant.
+Section 21, Part VI, Schedule V
+[19] There was no dispute that the condition in paragraph 21(a) was met: the supply was made by a municipality.
+[20] The term “municipal service” is not defined in the ETA. I am satisfied that, in receiving and dealing with Maple Leaf’s wastewater, the City was providing a service falling within what is commonly understood to be a “municipal service” and within the meaning of that term as used in section 21. The City did not challenge this.[13]
+[21] However, the City does not agree that receiving and dealing with wastewater is inherently a municipal service within the meaning of section 21 if the service is provided by a private company.
+[22] There is no suggestion that subparagraph 21(b)(ii) or paragraph 21(c) have any application.
+[23] Consequently, the core of the dispute regarding section 21 turns on subparagraph 21(b)(i) and whether or not “. . . the service is (i) one which [Maple Leaf had] no option but to receive . . .”.
+[24] Under the relevant Manitoba legislation, Maple Leaf could not operate the proposed hog-processing plant unless the water was suitably treated to comply with environmental requirements. The City does not contest this.
+[25] While the City agrees that Maple Leaf had to treat the water, it says that Maple Leaf was not obliged to receive the service from the municipality; Maple Leaf had a choice: it could do its own treatment, it could contract with a private company, or it could contract with the municipality.
+[26] The Respondent argues that the City is, in effect, reading into subparagraph 21(b)(i) a requirement that the service is one which the owner or occupant has no option but to receive from the municipality. The Respondent says that there is no such requirement; it is enough that the owner must have the wastewater treated and that the municipality provides the services, even if the owner (Maple Leaf) could have chosen another service provider.
+[27] The Respondent’s approach implies a set of “municipal services” which are inherently such irrespective of who provides them, and implies as well that if an owner must receive the particular “municipal service” from someone, then the service is exempt if provided by the municipality or government but taxable if provided by a private entity. Under the City’s approach the particular service would be taxable whether provided by a municipality or by a private company.
+[28] I have two difficulties with the Respondent’s approach. First, this is on its face an exemption for “municipal services”. The expression “municipal services” is undefined, and while there are a number of services that are generally accepted as “municipal services” — such as garbage collection — it does not follow that each such service is necessarily a municipal service when provided by a private entity.
+[29] Taking away wastewater and treating it is not inherently a municipal service if it is not provided by or on behalf of a municipality.[14]
+[30] Second, on a plain reading of subparagraph 21(b)(i), its purpose is very simply to remove from the exemption supplies by municipalities that are optional and would, in the absence of that subparagraph, be included in the exemption.[15] This is a more plausible interpretation than one attributing to Parliament a twofold intention of :
+(a) excluding optional supplies by municipalities of services that are not mandatory under any law and
+(b) adding to the exemption supplies of something that an owner is required by law to have done by someone if the supplies happen to be made by a municipality, even though they would be taxable if made by a private company.
+[31] In my view, section 21 does not apply where, as here, Maple Leaf could have chosen a private supplier. I note that this results in competitive neutrality as between a municipal supplier and a private supplier.[16]
+Section 22, Part VI, Schedule V
+[32] With respect to this section the City argues that:
+(a) the supply made by the City was the operation of the new wastewater plant and that this cannot be characterized as “installing, repairing, maintaining or interrupting”; and
+(b) a “sewerage system” is the network of pipes collecting sewage and does not include wastewater treatment.
+Scope of the term “sewerage system”
+[33] The City argues that the section cannot apply because a sewerage system is limited to the series of pipes collecting wastewater and does not include water treatment.
+[34] In response, the Respondent, citing definitions of “sewage”, “sewage works”, “sewerage” and “system” found in the Pocket Oxford Dictionary of Current English[17], reprinted in 1985, argues that sewerage is the drainage of wastewater, that a system is a complex set of interconnected parts and that, on its plain meaning in a modern environment, a sewerage system includes wastewater treatment. I note that "Sewage works" is defined as a place where sewage is treated.
+[35] While I agree with the City that it is not determinative, consideration of provincial legislation may help ascertain the meaning of terms.[18] Sewerage and wastewater fall in large measure under provincial legislation.
+[36] In Manitoba, where the wastewater plant in issue is located, the current Water Works, Sewerage and Sewage Disposal Regulation[19] provides that:
+“sewerage system” means all sewers, appurtenances, pumping stations, treatment works, and all physical properties of the system, but does not include extensions to the collection systems.
+I also note that in British Columbia, where the hearing of this matter took place, section 1 of the Sewerage System Regulations[20] provides that:
+“sewerage system” means a system for treating domestic sewage that uses one or more treatment methods and a discharge area, but does not include a holding tank or a privy.
+[37] The City noted that the B.C. regulation only refers to domestic sewage and that the plant in issue was specifically for industrial wastewater of Maple Leaf.
+[38] While the B.C. regulation does relate specifically to domestic sewage, it is still indicative of the fact that sewerage systems not only take away wastewater but also treat it to an acceptable state before general release into rivers. I do not see how the fact that the plant in issue was used primarily for industrial wastewater[21] or that, at the relevant time, it served one customer — with the possibility of additional future customers — would result in the plant and pipes not being a “sewerage system”. I note that the other City wastewater plant, which dealt with all wastewater other than that of Maple Leaf, took wastewater from another industrial customer and treated it in a specific lagoon cell dedicated to the other industrial customer.
+[39] I am satisfied that the Manitoba Water Works, Sewerage and Sewage Disposal Regulation is reflective of the contemporary meaning of “sewerage system” and that, accordingly, wastewater treatment falls within the scope of a sewerage system.
+“Installing, repairing, maintaining or interrupting”
+[40] In substance, the service Maple Leaf receives is this: the City takes its wastewater, treats it to ensure compliance with environmental standards and disposes it. The City says that, in effect, such a service amounts to “operating” a sewerage system.
+[41] The City, relying on dictionary definitions of “install”, “repair”, “maintain” and “interrupt”, says that none of those words include the actual operation of the plant. The City drew my attention to the following definition of “maintain” taken from Merriam-Webster’s Collegiate Dictionary, Tenth Edition, 2001:
+1: to keep in an existing state (as of repair, efficiency, or validity): preserve from failure or decline <~ machinery> 2: to sustain against opposition or danger: uphold and defend <~ a position> 3: to continue or persevere in: CARRY ON, KEEP UP <couldn’t ~ his composure> 4 a: to support or provide for <has a family to~> b: SUSTAIN <enough food to ~ life>5: to affirm in or as if in argument: ASSERT <~ed that the earth is flat>
+[42] In addition the City points out that section 22 begins with a reference to operators of water and sewerage systems, which shows that Parliament is quite conscious of the difference between “operating” and “installing, repairing, maintaining or interrupting”.
+[43] The Respondent argues that, under the Agreement of March 31, 1999, the City is obliged to “operate, maintain and repair” the new wastewater plant and that this falls within “repairing, maintaining or interrupting”. In support of this, the Respondent says that “maintain” includes “causing to continue” and cites the Pocket Oxford Dictionary of Current English, reprinted in 1985, which defines “maintain” as follows:
+cause to continue, continue one’s action in, retain in being; take action to preserve (machine, house, etc.) in good order; support, provide sustenance for; provide means for; assert as true.
+[44] The Canadian Oxford Dictionary, Second Edition, 2004, defines “maintain” as follows:
+1 cause to continue; keep up, preserve (a state of affairs, an activity, etc.) (maintained friendly relations). 2 (often foll. by in) support (life, a condition, etc.) by work, nourishment, expenditure, etc. (maintained him in comfort). 3 (often foll. by that + clause) support or uphold, esp. in speech or argument (maintained that she was the best; his story was true, he maintained). 4 preserve or provide for the preservation of (a building, machine, road, etc.) in good repair. 5 give aid to (a cause, party, etc.). 6 pay for the upkeep, repair, or equipping of (a garrison, etc.).
+[45] When one reads individually the words “installing, repairing, maintaining or interrupting” without considering the wider meanings of “maintain” they do not appear to include “operation”.
+[46] However, when one reads section 22 as a whole “[a] supply of a service, . . . of installing, repairing, maintaining or interrupting the operation of a water distribution, sewerage or drainage system”, bearing in mind the wider senses of “maintain” (“cause to continue” or “support by work” as in “maintain in life”), section 22 can also be read as covering the whole operation of a municipal water or sewerage system.[22] It is accordingly appropriate to take a purposeful and contextual approach and consider the scheme and object of the ETA.[23]
+[47] There are other considerations which assist in the interpretation.
+[48] It is accepted that, while not determinative, the views of the administrator have some weight and may be considered.[24] It is also accepted that, while not determinative, Technical Notes are entitled to consideration.[25]
+[49] In the 2009 Canada Revenue Agency (the “CRA”) publication, GST/HST Information for Municipalities, it is stated:
+A supply of a service of installing, repairing, maintaining or interrupting the operation of a water distribution, sewerage, or drainage system, is not subject to GST/HST if the supply is made by a municipality or by an organization designated as a municipality for this purpose.
+A separate fee charged to a property owner or occupant for a service of repairing or maintaining part of an existing sewer or water line is exempt.
+Note
+A supply of a service of operating or managing another person’s water distribution, sewerage or drainage system, or collecting waste water, is subject to GST/HST. Also, supplies where a user or connection fee is charged to an owner or occupant of a property connected to a water distribution system are subject to GST/HST unless the supplies are made on behalf of a municipality. For more information, see “Residential services” on this page.[26]
+[50] Although not certain, the quoted passage appears to be directed at section 22. The note clearly states that operating another person’s water system or collecting wastewater is taxable; it implies that installing, repairing, maintaining or interrupting the operation of another person’s water system is exempt when it is done by a municipality. This appears to support the City’s contention that section 22 distinguishes “operating” from “installing, repairing, maintaining or interrupting” and, consequently, that section does not cover “operating” a sewerage system.
+[51] The May 1990 Technical Notes[27] to the GST legislation state in part, with respect to section 22:
+Section 22 exempts basic water and sewerage system charges to residents, including installation or hook-up fees. However, where a municipality charges a separate fee to a property owner to repair or maintain a part of an existing line which is for the sole use of the property owner, GST applies.[28]
+[Emphasis added.]
+[52] The reference to exempting basic water and sewerage charges is clearly a reference to the usual charges paid by property owners for water and sewerage services. This clearly implies that section 22 covers the operation of a sewerage system.
+[53] As originally enacted in the ETA, section 22 reads as follows:
+A supply of a service, made by a municipality or by an organization designated by the Minister to be a municipality for the purposes of this section, of installing, repairing or maintaining a water distribution, sewerage or drainage system that is for the use of all occupants and owners of real property situated in a particular geographic area, other than a supply for which a separate charge is made to the recipient of the supply, of a service of repairing or maintaining a part of the system where the recipient is the owner or occupant of a particular parcel of real property situated in the particular geographic area and the part of the system is for the exclusive use of occupants and owners of the particular parcel.
+I note that the original text has no reference to “operation” or “operate”.[29]
+[54] It is surprising that a CRA publication seems to suggest that one should exclude “operation” from section 22 while the Technical Notes by the Department of Finance suggest the contrary. Although the CRA publication is subsequent to the year in issue, the Technical Notes are prior to the year in issue and section 22 has been amended over the years, the relevant portions of section 22, that is, the words “installing, repairing or maintaining . . . a water distribution, sewerage or drainage system” remain unchanged except for the addition of “interrupting the operation of” subsequent to the original enactment. It is hard to see how those additional words could justify a change of interpretation with regard to whether the words “installing, repairing or maintaining” include “operation”.[30] Nothing else in the evolution of section 22 suggests that the meaning of the portion of concern to us has changed.
+[55] However, where there is conflict between the two, more weight should be given to the Technical Notes than to the administrator’s stated view given that Parliament has the power to enact laws and it was the Technical Notes that were before Parliament.
+[56] Given the Technical Notes, I have concluded that the operation of the sewerage system falls within section 22. There is however one further consideration which also leads to this conclusion.
+[57] Section 22, as originally enacted, can be broken down into three parts:
+1. A supply of a service, made by a municipality or by an organization designated by the Minister to be a municipality for the purposes of this section, of installing, repairing or maintaining a water distribution, sewerage or drainage system
+2. that is for the use of all occupants and owners of real property situated in a particular geographic area,
+3. other than a supply for which a separate charge is made to the recipient of the supply, of a service of repairing or maintaining a part of the system where the recipient is the owner or occupant of a particular parcel of real property situated in the particular geographic area and the part of the system is for the exclusive use of occupants and owners of the particular parcel.
+As previously noted, the first part is, with respect to the portion thereof that concerns us, substantially the same as the text that applies to this appeal, apart from the subsequent addition of “interrupting” the operation of a system.
+[58] The second and third parts are, however, interesting. If the words “installing, repairing or maintaining a water distribution, sewerage or drainage system” in the first part do not cover charges for the “operation” of the system for taking away and dealing with wastewater, then, given the requirement of the second part and the restriction in the third part, the original exemption would have been very narrow. Indeed, all that would have been exempt would have been supplies of installation, repair and maintenance services that were specifically billed and were for the use of everyone in a specific geographic area.
+[59] I cannot accept that the original section could have been read so narrowly. It would have produced the surprising result that normal water and sewerage charges were taxable, as were repairs made to a pipe serving an individual owner exclusively and billed separately, but the repairs of pipe serving everyone in a particular geographic area would be exempt if billed separately.[31]
+[60] Given my conclusion that section 22 does exempt the operation of a sewerage system, the supplies in issue made by the City to Maple Leaf are exempt supplies.[32]
+Conclusion
+[61] Accordingly, the appeal will be dismissed with costs.
+Signed at Ottawa, Canada, this 17th day of July 2009.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2009 TCC 369
+COURT FILE NO.: 2007-4144(GST)G
+STYLE OF CAUSE: THE CITY OF BRANDON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: July 17, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Lynn Burch
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kimberley L. Cook
+Firm: Thorsteinssons
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tab 7.
+[2] For example, limits on the quantity of solids and nitrogen in the wastewater per day and per week.
+[3] The Province of Manitoba paid for about half of the municipality’s construction cost.
+[4] In its January 2004 return.
+[5] The City filed an election under section 211 of the ETA with its January 2004 return. This resulted in the claim for the ITCs in dispute.
+[6] The quantum is about $388,000. The notice of appeal claimed $745,345.20, but the parties advised me at trial that they agreed that the amount should be reduced because 57.14% of the ITCs had already been received by the City as municipal rebates. The parties advised the Court that there might be some minor adjustments to the amount of approximately $388,000 but said that if the appeal were allowed they would be content to have the principle enunciated and let any minor adjustment be made in the course of the reassessment.
+[7] Subsection 169(1), ETA.
+[8] Subsection 123(1), ETA.
+[9] Subsection 123(1), ETA.
+[10] This is section 21 of Part VI of Schedule V as amended by S.C. 2003, c. 15, s. 65. It is deemed to have come into force on December 17, 1990 by virtue of subsection 65(2).
+[11] The parties provided me with the following: Municipal District of Spirit River No. 133 v. The Queen, 2009 TCC 42; Canada v. 398722 Alberta Ltd., No. A-706-98, May 11, 2000 (FCA); Hidden Valley Golf Resort Assn. v. Canada, No. A-524-98, June 13, 2000 (FCA); City of Calgary v. The Queen, 2009 TCC 272; North Shore Health Region v. Canada, 2008 FCA 2; Ville de Gatineau (Communauté urbaine de l’Outaouais) v. The Queen, 2005 TCC 358; Ville de Gatineau v. The Queen, 2009 TCC 130; excerpts from the ETA: sections 123, 169, 211, 221, 306 and sections 21 and 22 of Part VI of Schedule V; The Environment Act (Manitoba), C.C.S.M., c. E125: sections 1, 2, 3, 11, 13, 14 and 41, and also the Water and Wastewater Facility Operators Regulation, Man. Reg. 77/2003; The Municipal Act (Manitoba), C.C.S.M., c. M225, sections 1, 3, 118, 161, 298, 304, 310-317 and 320; The Public Utilities Board Act (Manitoba), C.C.S.M., c. P280, sections 1 and 2(6); Department of Finance, Technical Notes (June 2003, July 1997 and May 1990) regarding Schedule V, Part VI, section 21; Pocket Oxford Dictionary of Current English, Seventh Edition, 1985, definitions of “maintain”, “sewage”, “sewer”, “sewerage”, “system”; Merriam‑Webster’s Collegiate Dictionary, Tenth Edition, 2001, definitions of “install”, “maintain”, “option”; Webster’s Revised Unabridged Dictionary, c. 1996, 1998, MICRA Inc., definition of “operate”; glossary of terms, www.crd.bc.ca/wastewater/marine/glossary.htm, definitions of “effluent”, “sanitary sewers”, “sewage”, "wastewater”.
+[12] Article 4.1 of the Agreement, Exhibit A-1, Tab 7. If the plant took other parties’ water there would be an allocation of part of the cost to the other users.
+[13] For the purposes of this appeal, it is unnecessary to decide whether “municipal services” are limited in scope and, if so, what that limit might be. Whatever the answer is, the services provided here are clearly within the scope of a municipal service.
+[14] The legislation brought to my attention certainly supports the proposition that in Manitoba providing for wastewater collection and treatment is a municipal service but I do not read that legislation as preventing the supply of such services by private suppliers in some circumstances.
+[15] The May 1990 Technical Notes to the GST legislation state:
+Section 21 is intended to provide a blanket exemption for standard municipal services provided to property owners in a particular locale. This includes such services as road building and snow removal. In most municipalities, these services are financed from general revenues. However, in some cases, the municipality may identify the cost of the service separately to the resident. This provision is intended to ensure that such charges are not taxable. However, optional services supplied to individual households on a fee-for-service basis are not covered under the exemption. This includes, for example, charges for snow removal on private property, driveway paving and tree removal — in essence, commercial activities which are in competition with the private sector. Also excluded from the exemption are testing and inspection services that are for the purpose of verifying compliance with standards or suitability of property for consumption, use or supply in a particular manner.
+[Emphasis added.]
+[16] The Respondent made an alternative argument to the effect that, if I understood it correctly, Maple Leaf was contractually bound by the Agreement of March 31, 1999 with the City and therefore had no option but to receive the service from the City.
+The Respondent reviewed the conditions in the Agreement that Maple Leaf would have to meet in order to take over the operation of the wastewater facility – see article 5 of that Agreement, Exhibit A-1, Tab 7. I accept (i) that there is no certainty that Maple Leaf could meet the conditions and (ii) that, if a takeover occurred, it could take some time to accomplish. I also accept that the “takeover” provisions were there to reassure Maple Leaf that the City could not let costs go out of control and not because of an existing intention by Maple Leaf to take over the operation.
+However, none of this matters. Even if the contract had absolutely locked in Maple Leaf for the 15 years over which the City planned to pay off the debt incurred by it to build the industrial wastewater plant, that would not affect the application of section 21. In this context, the test in subparagraph 21(b)(i) is not whether the owner had an option in a particular period but whether, initially, the owner had a choice.
+[17] The same dictionary defines "sewer" as a conduit for carrying off drainage water and sewage.
+[18] See for example North Shore Health Region v. The Queen, 2006 TCC 585, paragraphs 24 to 29. That case was overturned on appeal for reasons unrelated to those paragraphs.
+[19] Man. Reg. 331/88 R, made pursuant to The Public Health Act, C.C.S.M., c. P210.
+[20] B.C. Reg. 326/2004, made pursuant to the Public Health Act, S.B.C. 2008, c. 28.
+[21] Mr. Snure’s evidence was that the plant produced some non-industrial wastewater.
+[22] In the English text “maintaining” may modify “operation of a . . . sewerage . . . system” rather than “sewerage . . . system”; however, the French text does not support such a reading.
+To the extent that water, sewerage and drainage systems operate largely automatically, the “operational” component may be very small relative to repair and maintenance; in that sense, installation, repair and maintenance may cover most of the operations. Indeed, one normally thinks of repairs and maintenance as forming part of the operations of a business. In this case we do not know the relative scope of “operations” other than repair and maintenance.
+[23] Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, [2006] 1 S.C.R. 715, at paragraphs 21 to 24.
+[24] Harel v. The Deputy Minister of Revenue of the Province of Quebec, 77 DTC 5438 (SCC); Nowegijick v. The Queen, 83 DTC 5041 (SCC).
+[25] Silicon Graphics Ltd. v. Canada, 2002 FCA 260, paragraph 50 :
+Of course, Technical Notes are not binding on the courts, but they are entitled to consideration. See Canada v. Ast Estate, [1997] F.C.J. No. 267 (C.A.), para. 27:
+Administrative interpretations such as technical notes are not binding on the courts, but they are entitled to weight, and may constitute an important factor in the interpretation of statutes. Technical Notes are widely accepted by the courts as aids to statutory interpretation. The interpretive weight of technical notes is particularly great where, at the time an amendment was before it, the legislature was aware of a particular administrative interpretation of the amendment, and nonetheless enacted it.
+[26] GST/HST Information for Municipalities, R.C. 4049(E) Rev. 09, page 13.
+[27] Department of Finance, Technical Notes, May 1990, regarding Schedule V, Part VI, section 22, as found in GST Partner, version 2009, release 5.
+[28] The City argued that the second sentence of the Technical Notes led to the inference that where the supply was for the sole use of one owner then it was taxable and that only supplies to the general public were exempt. However, when one looks at the original section 22 at the time of the Technical Notes (see paragraph 53 below), it is clear that the second sentence does not support such a conclusion and that the sentence is the result of the specific exclusion from the exemption in the last part of the original section 22 (see the third part of the section in paragraph 57 below).
+[29] Although it should be noted that by S.C. 1993, c. 27, s. 173, the section was amended retroactively to the start of the GST to add the words “that operates a water distribution, sewerage or drainage system and that is” immediately after the word organization. However, the coming into force provision provided that with respect to supplies made before October 1, 1992 section 22 should be read without reference to the added words.
+[30] Neither of these documents was referred to by the parties. In the course of writing my reasons I came across them and invited the parties to make written submissions regarding them.
+[31] Although, under such an interpretation, if the municipality included such a repair for a wide area in the general charges for water and sewerage services, the repairs would in effect be taxable.
+[32] I would note that, if the City were correct, while the general charges for water and sewerage services to residents provided by or on behalf of a municipality might also be exempt pursuant to section 21, section 21 could not apply if the water and sewerage services were supplied by an organization designated by the Minister to be a municipality for the purposes of section 22.

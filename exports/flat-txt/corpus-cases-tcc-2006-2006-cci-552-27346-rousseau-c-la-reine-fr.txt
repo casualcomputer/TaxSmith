@@ -1,0 +1,111 @@
+Title: Rousseau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27346/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-552-27346-rousseau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-05
+
+# Rousseau c. La Reine
+
+- Citation: 2006 CCI 552
+- Decision date: 2006-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 168, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rousseau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-05
+Référence neutre
+2006 CCI 552
+Numéro de dossier
+2005-1208(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI552
+Date : 20061106
+Dossier : 2005-1208(IT)I
+ENTRE :
+SYLVAIN ROUSSEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 5 mai 2006, à Ottawa, Canada).
+Le juge Paris, C.C.F.
+[1] Il s'agit d'un avis de nouvelle cotisation à l'égard de l'appelant pour les années 2001 et 2002. Le Ministre a refusé à monsieur Rousseau la déduction prévue à l'alinéa 8(1)h.1) de la Loi de l'impôt sur le revenu des frais afférents à un véhicule à moteur qu'il avait demandée pour chaque année.
+[2] Monsieur Rousseau est plombier et était un employé chez S & R Mechanical (S & R) pendant toute l'année 2001 et en 2002 jusqu'au début mai. De mai 2002 à la fin de 2002, il était un employé chez Modern Ottawa inc.
+[3] Pour chaque année, monsieur Rousseau a demandé une déduction pour les frais d'utilisation d'un véhicule à moteur pour ses déplacements entre sa résidence et les chantiers où il a travaillé pour ces employeurs.
+[4] Il a aussi dit avoir voyagé certains jours entre différents chantiers et s'être servi de son véhicule pour faire des courses se rapportant à son travail.
+[5] La question en litige est de savoir si l'appelant est admissible aux déductions démontrées.
+[6] L'alinéa 8(1)h.1) de la Loi se lit comme suit :
+Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant:
+[...]
+dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, les sommes qu'il a dépensées au cours de l'année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas;
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l'effet de l'alinéa 6(1)b), n'est pas incluse dans le calcul de son revenu pour l'année,
+(ii) demandé une déduction pour l'année en application de l'alinéa f);
+[7] Les conditions que doit remplir un contribuable pour avoir droit à cette déduction sont les suivantes :
+1. il doit être habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits;
+2. il doit être tenu, en vertu de son contrat d'emploi, d'acquitter ces frais de déplacement ou les frais afférents à son véhicule à moteur;
+3. il doit avoir engagé les sommes déduites pour se déplacer dans l'exercice de ses fonctions.
+[8] Quant à la première condition, la preuve révèle que l'appelant ne se rendait jamais au siège social de S & R ni de Modern Niagara. Il se rendait directement de chez lui aux différents chantiers et de là il retournait directement chez lui.
+[9] Alors, en ce qui concerne la première condition, pour que monsieur Rousseau ait droit à la déduction en question, il faudrait que les chantiers où il a travaillé ne soient pas des lieux d'affaires de ses employeurs ou il faudrait que monsieur Rousseau soit tenu d'exercer les fonctions de son emploi à différents endroits.
+[10] Selon le témoignage de monsieur Serge Robert, président de S & R, l'appelant a travaillé à trois chantiers différents en 2001 et 2002 pour S & R.
+[11] Au premier chantier, situé au 219 rue Laurier (un édifice à bureau) S & R n'avait pas de bureau de chantier, tandis qu'aux deux autres chantiers, l'imprimerie St-Joseph et le club de golf de Kanata, S & R y en avait un.
+[12] Dans le bureau de chantier à l'imprimerie, il y avait du matériel de bureau, y compris un téléphone et un télécopieur.
+[13] Au club de golf, monsieur Robert a indiqué qu'il y avait un bureau, une table et possiblement un téléphone et un télécopieur dans le bureau de chantier qui se trouvait au sous-sol du club de golf.
+[14] Il me semble que les deux bureaux de chantier - à l'imprimerie et au club de golf - étaient des lieux d'affaires de S & R.
+[15] Je les différencierais des endroits décrits dans la décision Champaigne v. Canada, 2006TCC74, par le fait que, en l'espèce, les locaux servaient bien de bureaux provisoires pour S & R et non pas seulement de lieux de repos et de salles à manger pour les employés.
+[16] Dans le cas de Modern Niagara, monsieur Rousseau a témoigné qu'il avait travaillé sur quatre chantiers en 2002.
+[17] Cependant, une représentante de Modern Niagara a produit à la Cour un extrait des registres de la société qui indiquait que monsieur Rousseau n'avait travaillé qu'à l'aéroport d'Ottawa pendant cette année-là.
+[18] Bien qu'elle a admis que c'était possible que monsieur Rousseau ait travaillé à d'autres chantiers, j'avais l'impression que cette possibilité était minime.
+[19] De plus, monsieur Rousseau, en contre-interrogatoire, n'a pu dire avec certitude s'il avait travaillé à d'autres chantiers que l'aéroport dans le cadre de son emploi avec Modern Niagara cette année-là.
+[20] À la lumière de toute la preuve, je ne suis pas convaincu que monsieur Rousseau a travaillé à d'autres chantiers que celui de l'aéroport dans le cadre de son emploi chez Modern Niagara. La preuve révèle aussi que Modern Niagara avait un bureau de chantier à l'aéroport où il y avait du matériel de télécommunication et de bureau. Ceci serait à mon avis un lieu de travail de Modern Niagara au sens de l'alinéa 8(1)h.1) de la Loi. Pour ces raisons, l'appelant ne remplit pas la première condition pour la déduction des frais engagés pour ses déplacements entre sa résidence et son emploi chez Modern Niagara, et ces frais ne sont pas déductibles.
+[21] Il reste à déterminer si, pour la période où il a travaillé chez S & R, monsieur Rousseau était habituellement tenu d'exercer les fonctions de son emploi à différents endroits en 2001 et 2002.
+[22] Pour l'année 2001, comme je l'ai déjà indiqué, monsieur Rousseau a travaillé sur trois chantiers pour S & R. Quoique monsieur Rousseau a dit qu'il y en avait peut-être d'autres, ce fait n'a pas été démontré par une preuve adéquate.
+[23] Monsieur Rousseau a pourtant dit qu'il changeait de chantier pour S & R selon les directives de son employeur qu'il recevait chaque jour. Ceci me mène à croire que S & R avait plus qu'un chantier à la fois et que l'appelant pouvait se trouver à différents chantiers dans une même semaine.
+[24] Par ce fait, il aurait été tenu de travailler à différents endroits. Il répond donc à la première condition de l'alinéa 8(1)h.1) de la Loi pour l'année 2001 et pour une partie de l'année 2002 à titre d'employé de S & R.
+[25] Examinons maintenant la deuxième condition.
+[26] L'intimée prétend que monsieur Rousseau n'était pas tenu, en vertu de son contrat d'emploi, d'acquitter les frais afférents à son véhicule.
+[27] Or, le formulaire T-2200 signé par le représentant de chaque employeur indique bien que monsieur Rousseau était obligé de se déplacer dans l'exercice de son emploi et qu'il ne recevait pas d'allocation à cette fin.
+[28] Dans la décision Rozen c. Canada, [1985] A.C.F. no 1002, la Cour fédérale indique que :
+« Si un employé est tenu de se déplacer pour se rendre à son travail, et que son employeur n'est pas prêt à lui verser le montant exact et total du transport, alors cet employé répond aux exigences du sous-alinéa 8(1)h)(ii). »
+[29] Je conclus donc que l'appelant a respecté la deuxième condition au cours des deux années en question.
+[30] Finalement, je me réfère à la troisième condition de l'alinéa 8(1)h.1) selon laquelle les sommes déduites doivent avoir été engagées par le contribuable pour se déplacer dans l'exercice de ses fonctions.
+[31] Dans l'arrêt Canada c. Chrapko, [1984] A.C.F. no 934 la Cour d'appel fédérale a accepté, de façon implicite, que les déplacements d'un contribuable entre sa résidence et un lieu de travail pourraient être considérées comme étant des déplacements dans l'exercice des fonctions de son emploi si le contribuable était habituellement tenu d'exercer ces fonctions à différents endroits.
+[32] Ce même raisonnement a été appliqué dans la décision Sa Majesté la Reine c. J.U. Merten, 90 DTC 6600, par la Cour fédérale et dans la décision Royer c. Canada [1999] A.C.I. no 111, par la Cour canadienne de l'impôt.
+[33] En l'espèce, étant donné que j'ai déjà décidé que monsieur Rousseau devait travailler à différents endroits pour S & R, ses déplacements pour se rendre au chantier et pour retourner chez lui constituent des déplacements dans l'exercice de ses fonctions.
+[34] Par conséquent, les frais encourus pour faire ces déplacements sont déductibles.
+[35] Vu que monsieur Rousseau a travaillé toute l'année 2001 chez S & R, il lui est permis de déduire dans sa totalité la somme dont il a demandé la déduction pour cette année-là.
+[36] Pour l'année 2002, un tiers du montant, soit 3 603 $, sera déductible, ce qui correspond aux quatre mois sur 12 que l'appelant a travaillé chez S & R.
+[37] Pour ces motifs, l'appel est accueilli en partie avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de novembre 2006.
+Juge Paris
+RÉFÉRENCE : 2006CCI552
+N º DU DOSSIER DE LA COUR : 2005-1208(IT)I
+INTITULÉ DE LA CAUSE : SYLVAIN ROUSSEAU ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Ottawa (Canada)
+DATE DE L'AUDIENCE : le 5 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 6 novembre 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+Louis Leclair
+Avocat de l'intimée :
+Me Frédéric Morand
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

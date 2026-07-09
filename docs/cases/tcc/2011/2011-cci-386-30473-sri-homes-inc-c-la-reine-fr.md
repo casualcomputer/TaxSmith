@@ -1,0 +1,235 @@
+---
+title: "SRI Homes Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30473/index.do"
+last_modified: "2011-08-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 386"
+citation2: ""
+neutral_citation: "2011 CCI 386"
+decision_date: "2011-08-18"
+language: "fr"
+item_id: "30473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7269
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:42:06.351000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8709b16ff3285246721de2c4846bf411a903a79b090c306c2274565191c20fe9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SRI Homes Inc. c. La Reine
+
+- Citation: 2011 CCI 386
+- Decision date: 2011-08-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7269, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SRI Homes Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-18
+Référence neutre
+2011 CCI 386
+Numéro de dossier
+2007-4061(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4061(IT)G
+ENTRE :
+SRI HOMES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 28 février 2011, à Kelowna (Colombie‑Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelante :
+Me Kenneth Ihas
+Avocat de l'intimée :
+Me Bruce Senkpiel
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies au titre de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour d'août 2011.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 16e jour de novembre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 386
+Date : 20110818
+Dossier : 2007-4061(IT)G
+ENTRE :
+SRI HOMES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] La société SRI Homes Inc. (la « SRI ») est une société constituée en vertu des lois de la province d'Alberta dont le siège social se trouve à Edmonton, en Alberta.
+[2] L'activité de la SRI consiste à construire et à vendre des maisons préfabriquées.
+[3] Avant le 1er mai 2001, la société Norterra Inc. (la « Norterra ») possédait 100 p. 100 des actions émises et en circulation de la SRI.
+[4] Le 1er mai 2001, la société R&M Frontier Holdings Corporation (la « R&M ») a acheté de la Norterra 100 p. 100 des actions de la SRI.
+[5] L'achat des actions de la SRI par la R&M a entraîné une fin d'exercice réputée pour la SRI le 30 avril 2001.
+[6] Avant l'acquisition des actions de la SRI par la R&M, la SRI possédait 50 p. 100 des actions ordinaires de la société Valley Vista Seniors Park Inc. (la « Valley Vista ») et 33 p. 100 des actions ordinaires de la société Lakeside Pines Development Inc. (la « Lakeside Pines »).
+[7] La SRI a avancé des fonds à la Valley Vista et à la Lakeside Pines pour financer les activités générales de leurs entreprises, c'est‑à‑dire leurs dépenses en immobilisations et leurs dépenses d'exploitation (les « prêts de l'actionnaire »).
+[8] Les prêts de l'actionnaire portaient intérêt et la SRI a déclaré les intérêts courus.
+[9] Le 30 avril 2001, la SRI a vendu certains actifs (les « actifs »), y compris les actions qu'elle détenait dans la Valley Vista et dans la Lakeside Pines, ainsi que les prêts de l'actionnaire, à la société 3556514 Canada Inc. (la « 3556514 »). La 3556514 est une société faisant partie du groupe de sociétés de la Norterra.
+[10] Pendant toute la période pertinente, la Norterra dirigeait la 3556514.
+[11] Au moment de la vente des actifs mentionnée au paragraphe 9 ci‑dessus, la SRI et la 3556514 étaient des sociétés liées.
+[12] Le prix d'achat total versé à l'égard des actifs était de 4 430 366 $.
+[13] La SRI a versé 4 430 366 $ pour les actifs et a attribué 1 332 796 $ du produit de la disposition aux prêts de l'actionnaire.
+[14] Le ministre du Revenu national (le « ministre ») a affirmé que la juste valeur marchande des prêts de l'actionnaire était de 1 744 626 $.
+[15] Le ministre a également affirmé que la SRI n'avait pas tenté de recouvrer les prêts de l'actionnaire et n'avait pris aucune mesure juridique pour récupérer ces prêts.
+[16] Le ministre a affirmé que le principal et les intérêts courus sur les prêts de l'actionnaire pouvaient être entièrement recouvrés au moment de la disposition à la 3556514.
+[17] Le ministre a affirmé que la SRI s'attendait à ce que les prêts de l'actionnaire soient entièrement remboursés.
+[18] Le ministre a affirmé que ni la SRI ni la 3556514 n'avaient effectué le choix prévu à l'article 22 à l'égard de la vente des prêts de l'actionnaire par la SRI à la 3556514.
+[19] Le ministre a affirmé que la SRI avait inclus dans sa déclaration de revenus une partie du montant dû sur les prêts de l'actionnaire à titre de revenus d'intérêts.
+[20] Le ministre a affirmé que les intérêts avaient été passés en charges par la Valley Vista et la Lakeside Pines.
+[21] Le ministre a affirmé que la SRI n'avait renoncé à aucune partie des prêts de l'actionnaire dus par la Valley Vista et la Lakeside Pines.
+[22] Le ministre a affirmé qu'après la vente des actifs, la Valley Vista et la Lakeside Pines devaient à la 3556514 aussi bien le principal que les intérêts courus impayés sur les prêts de l'actionnaire.
+[23] Le ministre a affirmé que la juste valeur marchande des prêts de l'actionnaire le 30 avril 2001 était constituée aussi bien du principal que des intérêts y afférents.
+[24] Le ministre a affirmé qu'aucune perte de revenus ou perte en capital n'avait été subie lors de la disposition des prêts de l'actionnaire à la 3556514.
+[25] Le ministre a affirmé qu'il n'y avait pas eu de perte de revenus ou de perte en capital subie à la disposition des actions de la Valley Vista et de la Lakeside Pines à la 3556514.
+[26] Le ministre a affirmé que la créance à l'égard des prêts de l'actionnaire était un prêt de l'actionnaire et non une créance client.
+[27] Le ministre a affirmé que l'activité de la SRI ne consiste pas à prêter de l'argent.
+[28] Le ministre a affirmé que la Valley Vista avait remboursé la totalité de ses prêts de l'actionnaire à la 3556514 le 21 octobre 2002.
+[29] Le ministre a affirmé que l'attribution du produit de la disposition concernant le reste des actifs, sauf les prêts de l'actionnaire, était raisonnable.
+[30] Le ministre a affirmé que le produit de la disposition attribué concernant le reste des actifs, sauf les prêts de l'actionnaire, était égal à leur juste valeur marchande.
+[31] Le ministre a affirmé que, dans sa déclaration de revenus du 30 avril 2001, la SRI avait passé en charges les pertes non réparties de son investissement dans la Valley Vista et la Lakeside Pines (c'est‑à‑dire la part de la SRI des pertes nettes cumulatives de ces sociétés), qui étaient de 411 830 $.
+[32] Le ministre a affirmé que la SRI avait une perte autre qu'une perte en capital de 605 527 $ à l'égard de son année d'imposition terminée le 30 avril 2001.
+B. LES QUESTIONS EN LITIGE
+[33] Les questions en litige consistent à savoir si, pour son année d'imposition terminée le 30 avril 2001, la SRI :
+a) a le droit de passer en charges les pertes non réparties de son investissement dans la Valley Vista et la Lakeside Pines (c'est‑à‑dire la part de la SRI des pertes nettes cumulatives de ces sociétés), qui sont de 411 830 $;
+b) avait une perte autre qu'une perte en capital additionnelle de 411 830 $ qui pouvait faire l'objet d'un report rétrospectif à son année d'imposition terminée le 31 décembre 2000.
+C. ANALYSE ET DÉCISION
+[34] Dans ses observations préliminaires, l'avocat de l'appelante a fait la déclaration suivante :
+[TRADUCTION]
+Me IHAS : [...] Pour situer le contexte, la preuve démontrera — et il s'agit, Monsieur le juge, d'un bref aperçu des faits, manifestement, la preuve le démontrera, mais vers le mois de mai 2001, une société dénommée R&M Frontier Holdings Corporation a effectué une opération au moyen de laquelle elle a acheté les actions de l'appelante, la SRI Homes, de la NorTerra Inc. Dans cette opération, certains actifs — et ceux‑ci se rapportaient à des parcs de maisons préfabriquées, ont été transférés de la SRI à une société à dénomination numérique, à savoir la 3556514 Canada [Inc.], immédiatement avant le transfert des actions. Il s'agissait donc d'actifs qui devaient être exclus de l'opération d'acquisition des actions.
+Les questions principales en l'espèce seront de savoir si la disposition de ces créances par la contribuable a été faite à la juste valeur marchande, et si les pertes subies à la disposition étaient des pertes en capital ou des pertes autres que des pertes en capital. Bien entendu, s'il s'agit de pertes autres que des pertes en capital, la déduction est accordée, et je sais que mon confrère soutiendra que si ce sont des pertes en capital, la déduction n'est pas accordée.
+(Transcription, de la page 3, ligne 22, à la page 4, ligne 15)
+[35] Dans ses observations préliminaires, l'avocat du ministre a déclaré ce qui suit :
+[TRADUCTION]
+Me SENKPIEL : Monsieur le juge, l'intimée soutient qu'il ne s'agit pas du tout d'une affaire d'évaluation. Il s'agit d'une affaire qui concerne une société qui avait certains actifs qu'on lui a retirés. C'est la SRI Home[s] Inc. À ce moment‑là, la totalité de ses actions appartenait à la NorTerra Inc.
+Lorsque ces actifs lui ont été retirés, ils ont été vendus à une filiale soeur. Ces deux sociétés étaient des parties liées. Deux des points à l'annexe jointe à l'entente au sujet du transfert portent sur des créances de l'actionnaire. Ces créances de l'actionnaire font état d'une provision pour créances douteuses.
+Cependant, ce qui s'est vraiment passé se trouve dans les livres comptables de la SRI Home[s] Inc. Elle a simplement passé en charges sa quote‑part des pertes non réparties de deux sociétés qui étaient dans une certaine mesure détenues par la SRI Inc. Donc, la Lakeside Pines, qui est détenue à 50 p. 100 par la SRI Homes Inc., et la Valley Vista Seniors Park Inc., qui est détenue à 33⅓ p. 100, puisque ces sociétés ont des revenus, ou des pertes, elles mentionnent manifestement dans leurs états des résultats pour l'impôt si elles ont gagné un revenu ou si elles ont subi des pertes. Elles ont subi des pertes pendant un certain nombre d'années et, si vous faites le total de ces pertes, elles s'élèvent à 411 830 $.
+Lorsque les états consolidés de la SRI Home[s] Inc. ont été établis, les chiffres ont été inclus dans les états consolidés pour les besoins de la comptabilité, et non pour l'impôt. C'est donc ce qu'elle a fait; elle a pris sa quote‑part des pertes non réparties, qui s'élevait à 411 830 $. Lorsque l'opération a été réalisée, les actifs, les actions et les prêts de l'actionnaire, ont été transférés à la filiale soeur —
+(Transcription, de la page 8, ligne 11, à la page 9, ligne 15)
+[36] Me Senkpiel a poursuivi ainsi :
+[TRADUCTION]
+Lorsque le montant — lorsque les actifs ont été transférés à la filiale soeur, cela a été fait en vue de l'acquisition par une tierce partie indépendante, à savoir la R&M. Elle voulait acheter la SRI Homes Inc., mais elle ne voulait pas de ces actifs. Elle a donc passé en charges dans ses livres comptables les pertes non réparties de son investissement. Elle n'avait pas le droit de le faire. C'est ça — et c'est ce dont il est question dans cette affaire, en bref. Elle n'avait pas le droit de passer en charges les pertes non réparties de son investissement dans les sociétés.
+(Transcription, de la page 9, ligne 23, à la page 10, ligne 8)
+[37] Dans ses observations, l'avocat de l'appelante a déclaré ce qui suit :
+[TRADUCTION]
+Me IHAS : J'estime qu'il s'agit d'une affaire simple, Monsieur le juge. Tout compte fait, une décision doit être rendue sur le fait de savoir si les actifs qui ont été transférés de la SRI à la société à dénomination numérique, que j'appellerai la 514, l'ont été à leur juste valeur marchande, les actifs précis en question étant les prêts.
+(Transcription, à la page 359, lignes 10 à 15)
+Et mon confrère formulera la réponse suivante : « Eh bien, même si c'était le cas, les pertes étaient des pertes en capital. » Ainsi, la deuxième question sera de savoir si ces pertes sont des pertes en capital ou des pertes autres que des pertes en capital. J'affirmerai qu'il s'agit manifestement de pertes autres que des pertes en capital, et cela à la lumière des décisions découlant de l'affaire Easton et d'autres décisions contenues dans mon recueil de jurisprudence et de doctrine, qui, selon moi, démontrent clairement que dans les circonstances, compte tenu des faits dont la Cour est saisie, il s'agit de pertes autres que des pertes en capital.
+Dans ce cas, les déductions demandées par l'appelante étaient tout à fait appropriées et l'appel devrait donc être accueilli.
+(Transcription, à la page 360, lignes 6 à 17)
+[38] Dans ses observations, l'avocat de l'intimée a fait valoir ce qui suit :
+[TRADUCTION]
+Me SENKPIEL : J'aimerais maintenant présenter le recueil de jurisprudence et de doctrine de l'intimée. Et l'intimée estime que, bien que — comme l'a laissé entendre mon confrère, malgré la complexité des opérations mêmes, le droit et les faits sur lesquels nous nous pencherons aujourd'hui sont assez simples.
+(Transcription, à la page 405, lignes 4 à 10)
+Avec égards, aucun expert n'a témoigné que pour décider si des prêts de l'actionnaire sont recouvrables, il faut tenir compte de la valeur de liquidation d'une société. Comme je l'ai mentionné, ni la Valley Vista ni la Lakeside Pines n'ont été évaluées par un évaluateur d'entreprises compétent. La méthode suivie pour déterminer si des prêts de l'actionnaire sont recouvrables n'est pas appuyée par un témoignage d'expert. Nous sommes en présence d'une méthode fondée sur l'évaluation de biens immobiliers et la liquidation des actifs qui est erronée, et aucun témoignage d'un expert compétent ne suggère que cette méthode est appropriée.
+Par ailleurs, Lakeside Pines n'a fait l'objet d'aucune évaluation.
+LE JUGE : Vous laissez donc entendre, Me Senkpiel, qu'à votre avis, l'allégation selon laquelle ces prêts n'étaient pas recouvrables est sans fondement.
+Me SENKPIEL : À mon avis, il n'y a aucun témoignage d'expert qui laisse entendre qu'il est approprié d'essayer de calculer la valeur de liquidation d'une société qui vend son actif immobilier et de lier ensuite cette valeur à la possibilité de recouvrement. Tout ce que nous avons, c'est une évaluation de biens immobiliers, et il s'agit manifestement d'un élément dont il faudrait tenir compte. Cependant, est‑ce qu'une démarche fondée sur une valeur de liquidation est la méthode appropriée? Vaudrait‑il mieux se fonder sur la valeur d'exploitation de l'entreprise? Nous avons besoin d'un évaluateur d'entreprises qui établisse une expertise — qui donne un témoignage d'expert approprié en l'espèce, et nous n'en avons pas eu.
+Et en plus, la situation devient plus compliquée parce que, d'un côté, il y a une personne indépendante qui s'occupe de la valeur des biens immobiliers, mais, de l'autre, il y a Robert Adria et Brian Holterhus qui s'occupent des autres aspects, et qui ont manifestement un intérêt relativement au litige.
+(Transcription, de la page 406, ligne 7, à la page 407, ligne 13)
+[39] Me Senkpiel a fait la déclaration suivante :
+[TRADUCTION]
+Me SENKPIEL : À mon avis, le montant précis de 411 830 $ n'est pas déductible pour six raisons. Pour l'instant, je présente les raisons et je donnerai ensuite les précisions.
+La première raison se trouve à la page 6, à l'alinéa ee). Dans sa déclaration de revenus du 30 avril 2001, la SRI a passé en charges les pertes non réparties de son investissement dans la Valley Vista et la Lakeside Pines, c'est‑à‑dire la part des pertes nettes cumulatives de ces sociétés qui lui revenait, qui s'élevait à 411 830 $. C'est la première raison. La Loi n'autorise pas cette déduction.
+La deuxième raison est que les prêts de l'actionnaire pouvaient être recouvrés en totalité. Elle figure à la page 7, au paragraphe 21 de la réponse.
+La troisième raison —
+LE JUGE : Puis‑je vous demander de patienter une seconde?
+Me SENKPIEL : Certainement.
+Le dernier se trouve à la page 7, au paragraphe 21. Les prêts de l'actionnaire étaient recouvrables en totalité.
+LE JUGE : Et c'est le paragraphe 21. D'accord.
+Me SENKPIEL : La raison suivante se rapporte au paragraphe 22. Mais je la formulerai d'une manière légèrement différente. Pour qu'une créance à l'égard d'un prêt soit douteuse, la créance doit toujours être détenue. Le 30 avril 2001, la SRI Homes Inc. ne détenait plus la dette. Elle ne pouvait pas déduire de provision pour créances douteuses selon la Loi. C'est là ma troisième raison.
+LE JUGE : D'accord, voulez‑vous me donner quelques précisions? Expliquez‑moi ce que vous entendez par cela.
+Me SENKPIEL : Selon la manière particulière dont la disposition fonctionne, suivant l'article 22 de la Loi, il s'agit en fait d'une provision. Au cours de l'exercice, on déduit une provision pour créances douteuses en se fondant sur le fait qu'on a une créance, qu'il s'agisse d'une créance client pour des stocks ou d'une créance relative à un prêt. La société déduit une provision, une provision pour créances douteuses.
+LE JUGE : Je sais comment cela fonctionne.
+Me SENKPIEL : Et par la suite, l'exercice suivant, on l'inclut dans le revenu, et s'il s'agit toujours d'une créance douteuse, la société déduit une provision pour créances douteuses.
+LE JUGE : Et la SRI avait vendu le parc à ce moment‑là?
+Me SENKPIEL : Oui.
+LE JUGE : D'accord.
+Me SENKPIEL : Elle ne peut déduire de provision pour créances douteuses. La question suivante est donc la quatrième : la SRI Homes Inc. peut‑elle demander une déduction pour créances irrécouvrables? D'accord, nous avons une créance, qu'il s'agisse d'un compte client ou d'un prêt, du moment qu'on accepte que c'est à titre de revenu. La créance devait être irrécouvrable. Il était impossible que cette créance fût irrécouvrable. Et nous le verrons — je donnerai des précisions là‑dessus. Mais la créance devait être irrécouvrable. Cela est établi en droit.
+Ainsi, elle ne peut pas demander de déduction. Il n'existe pour elle aucun fondement pour demander une déduction. La juste valeur marchande est, alors, la valeur nominale de la créance selon la Loi. Et mon cinquième argument, il se trouve en quelque sorte à la page 7 de la réponse, au paragraphe 26, repose sur l'existence de parties liées. La juste valeur marchande est le montant intégral des prêts de l'actionnaire cédés. Il est impossible qu'elle soit autorisée à demander une déduction selon la Loi. Et il y a de nombreux — et nous analyserons les dispositions qui lui permettraient de le faire, mais cela doit être fait d'une certaine manière.
+Le dernier argument, soit le sixième argument, si nous allons à la page 8, au paragraphe 31, si la SRI avait une offre —
+LE JUGE : Juste avant que vous ne passiez à cet argument suivant —
+Me SENKPIEL : Certainement.
+LE JUGE : Que dites‑vous à propos de la SRI au numéro 27? L'activité de la SRI ne consiste pas à prêter de l'argent.
+Me SENKPIEL : Je soutiens que l'activité de la SRI consistait manifestement à prêter de l'argent à des revendeurs et à s'occuper d'affaires de ce genre. À mon avis, le prêt en question n'a pas été effectué dans le cours de cette activité qui consiste à prêter de l'argent, ce qui est une exigence de la disposition particulière. C'est là où j'allais en venir.
+LE JUGE : D'accord.
+Me SENKPIEL : Donc —
+LE JUGE : Je vous dis seulement que — J'ai entendu les témoignages, et j'ai entendu les observations de Me Ihas. Je ne pense pas qu'il est exagéré de reconnaître que la SRI exerce l'activité de prêter de l'argent. Elle aidait, financièrement, les revendeurs. Elle fournissait des services financiers de la même manière que la GMAC, ou comment s'appelle‑t‑elle, le faisait pour la General Motors, ou des sociétés de même nature. Ce n'est donc pas une exagération, et cela n'excède pas les éléments de preuve qui m'ont été présentés, que la SRI exerçait cette activité.
+Me SENKPIEL : Selon l'intimée, il ne s'agirait pas du tout d'une exagération. Nous accepterions le fait qu'elle prête manifestement de l'argent à des revendeurs.
+LE JUGE : Oui.
+Me SENKPIEL : La question est donc la suivante : est‑ce que le prêt en question est un prêt de ce genre? N'est‑ce pas? Parce qu'on ne peut pas — même si on exerce l'activité de prêter de l'argent, ce prêt‑ci doit être fait dans le cours de cette activité, comme nous aurons l'occasion de le constater selon la jurisprudence. Et selon la loi. Et nous soutiendrons que tel n'a pas été le cas en l'espèce eu égard au document que nous avons examiné, la lettre d'entente de 1992 entre les trois parties.
+Il y a là trois parties. Il n'y a pas seulement un revendeur : il y a la SRI Homes, il y a un revendeur, et il y a la personne qui possédait le terrain. En fait, ils se sont mis ensemble pour un investissement qui portait sur un projet précis. Et nous dirons donc que — et je souscris à l'argument, la jurisprudence invoquée par l'intimée, en particulier la décision Easton rendue par la Cour d'appel fédérale, aux paragraphes 15 et 16. Nous souscrivons aux dispositions juridiques que nous examinerons. Et comme vous pouvez le noter, il s'agit là de mon sixième argument.
+Ainsi, c'est cet argument qui aurait dû logiquement être notre premier argument, s'il était notre argument le plus fort, parce qu'il met fin au litige. [...]
+(Transcription, de la page 412, ligne 25, à la page 417, ligne 22)
+[40] Me Senkpiel a continué ainsi :
+[TRADUCTION]
+Me SENKPIEL : En ce qui concerne le choix prévu à l'article 22, je ne l'ai pas inclus dans mon recueil de jurisprudence et de doctrine — cela ne pouvait pas être fait dans les circonstances. La raison en est qu'une société doit vendre 90 p. 100 de ses actifs et que l'acquéreur doit continuer d'exploiter l'entreprise. Ce n'est pas la situation en l'espèce. Il ne s'agissait que d'une simple vente de créances et d'actions.
+Elle ne pouvait donc pas faire le choix prévu à l'article 22, mais elle aurait pu, comme je l'ai mentionné — renoncer à la dette et la 514 n'aurait pas pu recouvrer le montant. Et l'article 80 aurait été applicable pour obtenir que les montants soient inclus dans le revenu de la filiale.
+(Transcription, de la page 424, ligne 20, à la page 425, ligne 8)
+[41] Je souscris au raisonnement présenté par Me Senkpiel dans ses observations.
+[42] Les appels sont rejetés avec dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour d'août 2011.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 16e jour de novembre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 386
+NO DU DOSSIER DE LA COUR : 2007-4061(IT)G
+INTITULÉ : SRI HOMES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 28 février 2011
+MOTIFS DU JUGEMENT : L'honorable juge L. M. Little
+DATE DU JUGEMENT : Le 18 août 2011
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Kenneth Ihas
+Avocat de l'intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Kenneth Ihas
+Cabinet : Rush Ihas Hardwick LLP
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

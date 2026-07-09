@@ -1,0 +1,157 @@
+Title: Glasel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144871/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-147-144871-glasel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-06-08
+
+# Glasel v. The Queen
+
+- Citation: 2016 TCC 147
+- Decision date: 2016-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3099, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glasel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-08
+Neutral citation
+2016 TCC 147
+File numbers
+2014-1995(IT)I, 2015-1065(IT)I
+Judges and Taxing Officers
+Henry A. Visser
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2014-1995(IT)I
+2015-1065(IT)I
+BETWEEN:
+ROGER GLASEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 4, 2015, at Edmonton, Alberta.
+Before: The Honourable Justice Henry A. Visser
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeff Watson
+JUDGMENT
+The Appellant’s appeals with respect to the 2009 and 2011 taxation years are quashed. The appeals from the assessments made under the Income Tax Act for the Appellant’s 2012 and 2013 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgement.
+Signed at Toronto, Ontario, this 8th day of June 2016.
+“Henry A. Visser”
+Visser J.
+Citation: 2016 TCC 147
+Date: 20160608
+Docket: 2014-1995(IT)I
+2015-1065(IT)I
+BETWEEN:
+ROGER GLASEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Visser J.
+OVERVIEW [1] Roger Glasel and Lisa Glasel were married in 2000 and had three children before separating on July 3, 2011. All three children are under the age of 18. Mr. Glasel, who is a law student and lives in Edmonton, Alberta, filed for a divorce and paid support amounts to, or for the benefit of, Ms. Glasel and their children and deducted amounts in respect thereof in his 2011, 2012 and 2013 taxation years pursuant to paragraph 60(b) of the Income Tax Act[1] (the “Act”). The Minister of National Revenue (the “Minister”) disallowed the deductions claimed by the Appellant in respect of his support payments in each of those years, and also reassessed the Appellant to increase his T4 earnings in 2009 and to decrease his professional income in 2011.
+PRELIMINARY MOTION [2] Mr. Glasel has appealed the Minister’s assessments and reassessments of his 2009, 2011, 2012 and 2013 taxation years. These appeals are being heard on common evidence. As a preliminary matter, the Respondent brought a motion to quash the appeals with respect to the Appellant’s 2009 and 2011 taxation years on the basis that the Appellant did not file notices of objection with respect thereto pursuant to section 165 of the Act within the time permitted,[2] and they are thus not properly before this Court pursuant to section 169 of the Act. On consent of the parties, I have agreed to quash the 2009 and 2011 appeals as this Court lacks the jurisdiction to hear them having regard to the Appellant’s failure to file notices of objection with respect thereto. Therefore, only the Appellant’s 2012 and 2013 appeals remain to be considered.
+ISSUES [3] The sole remaining issue in these appeals is whether the Appellant is entitled to deduct support amounts in his 2012 and 2013 taxation years pursuant to paragraph 60(b) of the Act. The support amounts claimed by the Appellant and disallowed by the Minister were $15,576 in 2012 and $25,961 in 2013.[3]
+BACKGROUND FACTS [4] Mr. Glasel testified and submitted evidence in the hearing of these appeals. I found him to be a credible witness. He did not call any other witnesses, and the Respondent did not call any witnesses.
+[5] The Appellant filed a Statement of Claim for Divorce and Division of Matrimonial Property in Edmonton, Alberta, on August 30, 2012.[4] At such time, he and Ms. Glasel did not have any written agreements or court orders relating to the payment of support between them. There are three Orders from the Court of Queen’s Bench of Alberta which were pronounced in 2012 which provide for the payment of support by Mr. Glasel to Ms. Glasel. In summary, the three Orders provide as follows:
+(a) On November 8, 2012, Justice Goss of the Court of Queen’s Bench of Alberta ordered that Mr. Glasel pay:
+(i) child support to Ms. Glasel in the amount of $2,736 per month commencing on July 1, 2012, provided that Mr. Glasel be given a credit of $2,292 in respect of child support paid by him in August, September and October 2012, which resulted in arrears in the amount of $8,652 owing at the time of the Order;
+(ii) $1,500 per month, commencing on November 15, 2012 and continuing until the $8,652 of child support arrears are paid in full; and
+(iii) Spousal support to Ms. Glasel in the amount of $2,598 per month commencing November 1, 2012.[5]
+(b) On December 19, 2012, Justice Goss of the Court of Queen’s Bench of Alberta ordered that Mr. Glasel pay $8,472 by 4 p.m. on December 20, 2012 to counsel for Ms. Glasel in respect of child support and child support arrears;[6] and
+(c) On December 21, 2012, Justice Moreau of the Court of Queen’s Bench of Alberta ordered that the November 8, 2012 Order be varied, together with a number of other measures, which are summarized as follows:
+(i) Commencing January 1, 2013, child support in the amount of $2,736 per month and child support arrears in the amount of $1,500 per month shall be paid by Mr. Glasel through his counsel to counsel for Ms. Glasel until such time as Ms. Glasel has registered her Orders with the Office of the Director of Maintenance Enforcement, following which payments shall be made to the Director of Maintenance Enforcement;
+(ii) Commencing January 1 2013, spousal support in the amount of $2,598 per month shall be varied to be $2,561.57 per month and shall be paid directly by Mr. Glasel to the Royal Bank in payment of four specified mortgages and credit lines;
+(iii) By December 28, 2012, Mr. Glasel shall pay $3,805.24 directly to Ms. Glasel, being the balance of spousal support payable in November and December 2012;
+(iv) Paragraph 6 of the Order provides that amounts owing under the Order be paid to the Director of Maintenance Enforcement, which appears to conflict in part with other provisions within the Order requiring payment directly to Ms. Glasel or her counsel; and
+(v) Paragraph 7 of the Order provides that each of Mr. Glasel and Ms. Glasel are to annually provide to the other a copy of their income tax return filed with the Minister as well as a copy of any notices of assessment or reassessment received from the Minister, provided that if either of them has not filed a tax return with the Minister for a taxation year, that person shall provide the other person with copies of T4, T4A and any other relevant tax slips and statements for the purpose of disclosing all sources of income.[7]
+[6] By letter dated January 17, 2013, Mr. Glasel was advised by the Alberta Maintenance Enforcement Program (“MEP”) that a court order was registered with MEP on January 17, 2013 and that he was required to make monthly payments to MEP in the amount of $2,736 for maintenance and $2,598 for support, commencing on February 1, 2013. The MEP letter also noted that MEP had no record of any arrears claim at that time (or any such claim had not yet been processed).[8]
+LAW AND ANALYSIS [7] Paragraph 60(b) of the Act provides for a deduction in computing a taxpayer’s income in respect of support amounts paid in a taxation year as follows:
+60. Other deductions — There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+. . .
+(b) [spousal or child] support — the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[8] Pursuant to subsection 60.1(4), the definition of “support amount” in subsection 56.1(4) applies to sections 60 and 60.1 of the Act. Subsection 56.1(4) defines “support amount” as follows:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[9] Where an amount is paid to a third party, it will generally not qualify as a support amount as it is not paid to the recipient spouse and the spouse does not have discretion over its use. However, subsection 60.1(2) of the Act, which provides as follows, deems certain amounts paid to third parties to qualify as a support amount:
+60.1(2) Agreement [to make third-party support payments] — For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+A – B
+where
+A is the total of all amounts each of which is an amount (other than an amount that is otherwise a support amount) that became payable by a taxpayer in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense (other than an expenditure in respect of a self-contained domestic establishment in which the taxpayer resides or an expenditure for the acquisition of tangible property, or for civil law corporeal property, that is not an expenditure on account of a medical or education expense or in respect of the acquisition, improvement or maintenance of a self-contained domestic establishment in which the person described in paragraph (a) or (b) resides) incurred in the year or the preceding taxation year for the maintenance of a person, children in the person's custody or both the person and those children, if the person is
+(a) the taxpayer's spouse or common-law partner or former spouse or common-law partner, or
+(b) where the amount became payable under an order made by a competent tribunal in accordance with the laws of a province, an individual who is a parent of a child of whom the taxpayer is a legal parent,
+and
+B is the amount, if any, by which
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which that person resides, including any payment of principal or interest in respect of a loan made or indebtedness incurred to finance, in any manner whatever, such acquisition or improvement
+exceeds
+(b) the total of all amounts each of which is an amount equal to 1/5 of the original principal amount of a loan or indebtedness described in paragraph (a),
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+[10] The Appellant argues that he made support and maintenance payments substantially in excess of those required under the three Alberta Court of Queen’s Bench Orders discussed above,[9] and that the support amounts he claimed in each of 2012 and 2013 are deductible pursuant to the Act. As the Minister denied the deduction of support amounts in each of 2012 and 2013 on a different basis, I will deal with each year separately.
+2012 Taxation Year [11] As noted above, paragraph 60(b) of the Act provides for a deduction in respect of the payment of support amounts equal to the formula A - (B+C). The Respondent argues that the Appellant is not entitled to deduct amounts pursuant to paragraph 60(b) of the Act in the Appellant’s 2012 taxation year because the amount for “B” in the formula exceeds the amount for “A” in the formula, in essence because the Appellant was in arrears in making child support payments. While the Appellant argued to his detriment that the value for “C” in the formula in paragraph 60(b) was not zero for his 2012 taxation year, the Respondent’s position was that the value for “C” in the formula in paragraph 60(b) was zero for the Appellant’s 2012 taxation year. The Appellant also argues that he made other substantial payments in 2012 which should be considered as support payments and included in “A” in the formula. For the reasons that follow, I agree with the Respondent.
+[12] For an amount to be included in “A” in the formula in paragraph 60(b) of the Act, it must be a support amount, and pursuant to subsection 56.1(4) therefore must be an allowance payable on a periodic basis over which the recipient has discretion and receivable pursuant to either a written agreement or an order of a competent tribunal, depending on the circumstances. In this case, there was no written agreement between Mr. Glasel and Ms. Glasel. As such, only amounts paid pursuant to the three 2012 Orders from the Alberta Court of Queen’s Bench can be considered support amounts.
+[13] Pursuant to the three Orders, Mr. Glasel was obligated to make child support payments to Ms. Glasel of $16,416 in 2012.[10] This is the amount for “B” in the formula in paragraph 60(b). In determining the amount of “A” in the formula in paragraph 60(b), the November 8, 2012 Order provides Mr. Glasel with a credit of $2,292 in respect of amounts already paid. Based on the evidence presented at the hearing of this matter, Mr. Glasel also made additional payments totalling $13,668[11] pursuant to the three Orders before the end of 2012, for a total of $15,960.[12] As there were no written agreements or court orders before 2012 relating to this matter, “C” in the formula must be zero as there were no support amounts deductible in previous taxation years. As the amount for “B” exceeds the amount for “A”, the Appellant is not entitled to any deduction for the payment of support amounts in his 2012 taxation year.
+2013 Taxation Year [14] The Respondent argues that the Appellant is not entitled to deduct amounts pursuant to paragraph 60(b) of the Act in 2013 because the amounts were paid to a third party and therefore they were not received by his spouse and she did not have discretion over the use of the amounts. In addition, the Respondent argues that subsection 60.1(2) does not assist the Appellant because the three Orders pursuant to which support payments were paid by the Appellant in 2013 do not provide that subsections 56.1(2) and 60.1(2) apply to such amounts payable. For the reasons that follow, I agree with the Respondent.
+[15] Pursuant to the December 21, 2012 Order of Justice Moreau of the Alberta Court of Queen’s Bench, commencing January 1, 2013, Mr. Glasel was ordered to pay child support of $2,736 per month to Ms. Glasel (and subsequently to MEP once the order was registered) and $2,561.57 per month to the Royal Bank in payment of various specified mortgages and lines of credit. With respect to the 2013 child support payments, assuming Mr. Glasel paid these amounts and further assuming they otherwise qualify as support amounts, I note that they are generally equally included in both “A” and “B” in the formula in paragraph 60(b), and therefore set each other off and do not provide for a deduction under paragraph 60(b) of the Act.
+[16] With respect to the spousal support payments, I note that they were required to be paid directly to the Royal Bank and that therefore Ms. Glasel did not have any discretion over their use. As such, they are not a support amount unless they fall within subsection 60.1(2) of the Act. In this case, the three Orders do not make any reference to that section or subsection 56.1(2) of the Act or otherwise address the taxation of the payment and receipt of the spousal support payments. As such, the spousal support payments are not saved by subsection 60.1(2) of the Act, and Mr. Glasel is not entitled to any deduction in 2013 pursuant to paragraph 60(b) of the Act.
+CONCLUSION [17] Based on all of the foregoing, the appeals are dismissed, without costs.
+Signed at Toronto, Ontario, this 8th day of June 2016.
+“Henry A. Visser”
+Visser J.
+CITATION:
+2016 TCC 147
+COURT FILE NO.:
+2014-1995(IT)I, 2015-1065(IT)I
+STYLE OF CAUSE:
+ROGER GLASEL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 4, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Henry A. Visser
+DATE OF JUDGMENT:
+June 8, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeff Watson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. 1 (5th Supp.).
+[2] There was no evidence that the Appellant had filed any notices of objection with respect to his 2009 and 2011 taxation years.
+[3] Paragraph 3 of the Respondent’s Reply states that “In computing income for the 2013 taxation year, the Appellant sought to deduct support payments totaling $44,860 (the “Amount”) and an allowable support deduction of $25,961.” Read in conjunction with paragraph 4 of the Respondent’s Reply, it is my understanding that the amount of $44,860 relates to line 230 (Support payments made: Total) in the Appellant’s 2013 tax return and the amount of $25,961 relates to line 220 (Support payments made: Allowable deduction) in the Appellant’s 2013 tax return, so that the support amount deducted by the Appellant and denied by the Minister in 2013 was $25,961.
+[4] See Exhibit A-1.
+[5] See Exhibit A-10. I note that only part of the Order was submitted as evidence.
+[6] See Exhibit A-11. Paragraph 5 of the Order also requires the amounts owing under the Order to be paid to the Director of Maintenance Enforcement, which appears to conflict with the requirement in paragraph 1 that the amounts be paid to Ms. Glasel’s counsel.
+[7] See Exhibit A-12.
+[8] See Exhibit A-3. While the letter does not specify which Order it relates to, it appears to relate to the November 8, 2012 Order based on the amounts set out therein. It does not appear to reflect the December 21, 2012 Order that Mr. Glasel make spousal payments of $2,561.57 per month directly to the Royal Bank in respect of mortgages and credit lines.
+[9] See Exhibits A-4, A-5, A-6 and A-8.
+[10] $2,736 per month for 6 months.
+[11] $8,472 in child support and spousal support payments totalling $1,390.76 and $3,805.24.
+[12] Although Mr. Glasel may have paid substantially more to or for the benefit of Ms. Glasel in 2012 or 2013, either directly or indirectly, I note that any such amounts were not reflected or credited to him in any way pursuant to the three Orders. As such, they cannot be considered for the purposes of paragraph 60(b) of the Act.

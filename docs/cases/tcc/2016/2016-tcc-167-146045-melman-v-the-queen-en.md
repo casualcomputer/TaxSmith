@@ -1,0 +1,204 @@
+---
+title: "Melman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/146045/index.do"
+last_modified: "2016-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 167"
+citation2: ""
+neutral_citation: "2016 TCC 167"
+decision_date: "2016-07-08"
+language: "en"
+item_id: "146045"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2921
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:46:15.673000+00:00"
+cases_cited_count: 13
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dd3c6902939e2a1279c8c19f65c25a4a9b3f5db3a8d4a52c7a4f46347702204b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melman v. The Queen
+
+- Citation: 2016 TCC 167
+- Decision date: 2016-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2921, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-08
+Neutral citation
+2016 TCC 167
+File numbers
+2013-2353(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2353(IT)G
+BETWEEN:
+ANTHONY MELMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 2nd to 4th, 2016, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Keith M. Trusser
+Linda Smits
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+JUDGMENT
+In accordance with the reasons for judgment attached, the appeal in respect of gross negligence penalties assessed for the 2007 taxation year is hereby dismissed with costs awarded to the Respondent in accordance with the applicable tariff, subject to the right of either party to make further written submissions on costs within the 30 days of this judgment.
+Signed at Toronto, Ontario, this 8th day of July 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016 TCC 167
+Date: 20160708
+Docket: 2013-2353(IT)G
+BETWEEN:
+ANTHONY MELMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+Introduction [1] This appeal concerns gross negligence penalties. They were imposed against the Appellant, Mr. Melman, because he omitted reporting $18,850,000.00 of taxable dividend income in his 2007 tax return. Mr. Melman asserts the Minister has not established gross negligence in the filing of the return of income, itself entirely prepared, reviewed and filed by Mr. Melman’s trusted, longstanding accountants. Conversly, Mr. Melman admits he did not read or review his tax return before signing. The Minister asserts this omission together with other circumstances constitute gross negligence. The sole issue concerning gross negligence for the Court is: was Mr. Melman wilfully blind to indications, alerts or precautions which would have disclosed this admitted dividend income reporting error?
+The Facts How the unreported income arose [2] Counsel agree with the Court that any determination of gross negligence is fact-specific. Such facts were placed before the Court through various documents and witnesses referencing them: Mr. Melman himself; his accountants at the time, Mr. Newman, Mr. Rose and Ms. Pan: all partners or employees with the same accounting firm; and, lastly, a CRA auditor, M. Meunier. Their evidence is collectively summarized below.
+[3] In February 2007, two holding companies owned and controlled by Mr. Melman declared and paid him certain dividends totalling the sum of $15,080,000.00 yielding $18,850,000.00 in taxable dividends (the “dividends”). During February, March and April 2007, Mr. Melman was intimately involved in the instigation, calculation, declaration, payment and receipt of the dividends. At the time of declaration, payment and receipt, memoranda reflecting all these steps were prepared. As well, funds representing the then estimated tax liability, namely $4,725,000.00, were invested with a maturity dated coincident with the tax due date of the end of April, 2008.
+[4] The declaration and payment of the dividends arose from proceeds which Mr. Melman’s two holding companies received from the sale of their considerable holdings in a profitable, well-known and, at the time, privately held, merchant banking company, Onex Corporation. During the balance of 2007 and early 2008, additional, distinct non-taxable capital dividends were also paid to Mr. Melman from his two holding companies. Detailed spreadsheets crafted various alternatives for the timing, characterization, quantity, payment and taxation of all these dividends and moneys; these considerable and deliberate one-time realizations and payments tidied Mr. Melman’s affairs for retirement.
+Mr. Melman’s background, relationship with his accountants and the reporting omission
+[5] Mr. Melman is and was a meticulous, correct and exacting person. He was the same with his accountants. He mandated that response times from his advisers concerning information, actions and documents be measured in minutes and hours rather than days, weeks or months as they are for most. He possesses undergraduate and graduate degrees in business and financial management: an engineering degree in chemistry and math as well as an MBA and a PhD. His education, knowledge and business background are not justly described by these facts alone. In terms of these qualities, he stands unbettered as a party before this Court. His accountants knew all of this. They did their best to serve him. Regrettably, they failed, by neither including the dividends in his 2007 tax return nor completing a T-5 and a T-5 summary reflecting his two holding companies’ taxable payment to him of the dividends. Mr. Melman holds them responsible. In other proceedings, he prosecutes a civil claim against them for compensation for this non-compliance. Relevant to this proceeding, he asserts their gross negligence is not to be ascribed to him.
+Communications regarding the dividends and relate tax
+[6] Considerable vive voce evidence and documents referenced exchanges and commentary between Mr. Melman and his accountants concerning the dividends, related tax liability and remittance. Mr. Melman’s counsel spent considerable time and effort exploring these fact-laden strings of e-mails and communications which played out over 15 months: February 2007 to April 2008. Three accountants, two of Mr. Melman’s staff and the taxpayer himself were each cast a role. At the centre of it all, privy to and shepherding all detail was Mr. Melman.
+[7] The summarized, excerpted and documented exchanges and meetings generally followed the time frames below.
+A. Early 2007 dividend Payments
+a) Share Sales Analysis – February 20, 2007
+[8] After Mr. Melman’s companies received the Onex sale proceeds in February 2007, the plan to pay the holding company dividends to Mr. Melman began in earnest. At the inception of formulating the capital and taxable dividends, the accountants sent Mr. Melman a proposed spreadsheet, including a line item described as “payment of personal tax on the taxable dividend”. Mr. Melman received the attachments, personally made actual revisions to the document and included a draft list of transfer instructions to his bank. These instructions were to effect the payment of all dividends, both capital and taxable.
+b) Dividend Payment and Tax Estimate – February 21 to 24, 2007
+[9] During February 22, 2007, through an exchange of emails between Mr. Melman and the three accountants working on his file (Mr. Newman, Mr. Rose and Ms. Pan (now Grace)), the amounts of the taxable and capital dividends were refined with finality. Specific transfer instructions were scrutinized and honed by Mr. Melman himself. Reference in the same schedule under a separate heading identifies “Investments for Taxes Due” as not becoming due until April 30, 2008. After one of the accountants clarified that no installments need be made in respect of the dividends before April 30, 2008, the final instructions were given by Mr. Melman to his Bank to “invest the total amount of $4,725,000.00 until that date” as a reserve for these taxes otherwise due at that time.
+[10] Also on February 22nd, distinct capital dividend resolutions were executed by Mr. Melman and corresponding subsection 83(2) elections were filed. On the same day, taxable dividends – the subject of this appeal - totalling $15,080,000.00 were declared through resolutions executed by Mr. Melman. All the dividends were paid by electronic funds transfers from the companies to Mr. Melman on the same date according to Mr. Melman’s instructions to his bank. These transactions were recorded within the companies’ tax year ending February 28, 2007. As described above, the dividends were to be recorded in Mr. Melman’s 2007 taxation year ending December 31, 2007, with taxes due April 30, 2008, the failure of which gives rise to this appeal.
+c) March & April 2007 – Tax Estimate Escrow and Liability
+[11] After the declaration and payment of the dividends, Mr. Melman forwarded an email to his personal assistant reflecting two important memorials: the estimate of personal taxes due in April 2008 and the escrowed investment made with the bank to cover that liability, anticipated to be $4,725,000.00. He asked that she note the estimated tax liability amount and due date and diarize the matter for April 2008. The assistant did this, but queried whether the “due date in 2008” was a typo and ought to be “2007”. As an indication of Mr. Melman’s precision, attentiveness and alacrity, upon receiving this query on Saturday evening, he confirmed that “2008 is correct” before 5:00 am Sunday morning.
+[12] Subsequently, in April of 2007, Mr. Melman’s accountants confirmed again that no installments need be made during 2007 on account of the tax on the dividends. It was re-confirmed by email on April 5, 2007 that Mr. Melman would pay estimated personal income taxes of $4,725,000.00 due on April 30, 2008 in respect of the dividends.
+B. Fall of 2007
+a) Annual Tax Planning Meeting
+[13] At an annual tax planning meeting held each year, Mr. Melman would discuss with his accountants significant transactions, his income and other efforts that could be undertaken regarding tax planning. A memorandum arising from the meeting each year would be generated. In the 2007 tax year, a “draft only” document was prepared. Mr. Melman did not receive a copy. Within it, there was no reference to the previously estimated dividend tax liability of $4,725,000.00 otherwise due at the end of April 2008. The amounts for Mr. Melman’s employment and related income for 2007, including tax withholdings, were provided by a staff member from Mr. Melman’s former employer, Onex Corporation. Quite logically, in 2007, these did not include dividends received by Mr. Melman or related T-5s from his personal holding companies since Onex Corporation had not prepared Mr. Melman’s holding company returns since some date in 2005. Although having prepared his personal tax return for many years, it was in 2005 that Mr. Newman and his firm assumed and prepared the holding company tax returns for the first time.
+C. April 2008 – Completion of 2007 Tax Returns
+a) March 2008 – “What do I owe?”
+[14] On March 27th, 2008, Mr. Melman re-commenced his email solicitation regarding the refinement of his estimated personal tax liability due April 30, 2008 in respect of the tax year 2007. Mr. Melman indicated he wanted the information “ASAP/today when we talk”. Coincidentally, the next day, Mr. Melman’s new assistant, after reviewing “your personal donations, T5’s” and Mr. Melman’s family’s information slips, suggested that “considering the paperwork for your companies, the personal side seems a little skinny”. She was in the process of forwarding such tax information to Mr. Newman and his firm. Mr. Melman did not respond. Later that same day, Mr. Melman reminded his accountants he had not received his updated 2007 estimated tax liability by referencing his earlier emails.
+b) April 5, 2008 – “We cannot tell just yet.”
+[15] Mr. Melman’s lead accountant, Mr. Newman, wrote back on April 5, 2008 indicating preparation of personal tax returns would be commenced once corporate year ends were “closed” the beginning of the following week. After that, personal taxes for 2007 could be determined with finality.
+c) April 15, 2008 – outstanding 2007 tax and telephone call to discuss returns
+[16] Mr. Melman was not prepared to wait any longer. On April 15, 2008, at 5:03am, he wrote indicating “I am waiting to hear from you/your follow up re: …” his tax return and other matters. With respect to executing his tax returns, it is in this email that Mr. Melman advised he would be out of town from April 24th to May 3rd, 2008.
+[17] On April 15 and 16th, Mr. Melman’s primary accountant established that a telephone conference to discuss the tax return would occur on Friday April 18 at 10:30am.
+d) April 18, 2008 – Morning telephone review of 2007 tax liability
+[18] A telephone conference call was held between Mr. Melman and Mr. Newman during the morning of April 18. Mr. Melman did not have a copy of his draft tax return, an explanatory memorandum or additional information regarding the actual tax return in his possession prior to or during the call. The most recent information in his possession at that time was an outline of income sources and deductions in a memorandum format. On the other end of the telephone, Mr. Melman’s accountant had a summary of income sources, deductions and tax payable, but did not have a draft income tax return before him.
+[19] This written materials before Mr. Melman and lead accountant during the call was consistently confirmed by both Mr. Melman and his accountant during testimony. As well, Mr. Melman did not specifically ask about the difference between the “by then” currently estimated tax owing of $369,000.00 versus the previously estimated and corresponding invested amount of $4,725,000.00. The difference was also not explained to Mr. Melman by his accountants. No reference to the amount of the dividends to be recorded in the tax returns was made by either party.
+e) April 21 and 23, 2008 – “Any further company tax owing.”
+[20] On April 21, 2008, Mr. Melman requested the precise tax payment amounts in writing so he could relay payment instructions to his bank. At this time, all subsequent email correspondence began to reference the tax “arising from the Onex share sale.” Mr. Melman testified this referred globally to all corporate or personal tax arising from the disposition of shares in aid of his retirement. His accountants, in a reply email, specifically referenced a separate and distinct Onex share disposition in 2007 unrelated to the dividends. All email responses received by Mr. Melman during such exchanges referenced corporate taxes and not personal income taxes, aside from the amount of $369,000.00 ultimately due on April 30, 2008. Further clarification and specifics on taxes owing were received by email. The total personal tax liability owing April 30, 2008 for Mr. Melman for 2007 was described as $359,604.43. On April 23, 2008, Mr. Melman precisely confirmed no other outstanding taxes were to be paid by “any of the companies”. As such, the tax return, the file copy of which was dated April 21, 2008 and produced at the hearing, was filed omitting the dividends of $18,850,000.00 and related tax payable thereon.
+D. The Execution of the Return, Filing and Reassessment [21] Mr. Melman signed his tax return on April 21, 2008. He testified he did not review or read it in draft or final form. Although the attending junior accountant recalled little or nothing of the return or its execution during her testimony, Mr. Melman remembered executing the 2007 return at his house while the attending accountant waited for him to do so. During the execution, a taxi waited to return the accountant to her office. After returning with the executed return, it was filed by the accountants.
+[22] The reassessment was swift and sure. In uncontested evidence, the CRA auditor indicated that during minute book audits for the companies, the presence of the signed dividend resolutions bearing Mr. Melman’s signature in the corporate documents totalling the amounts of $15,080,000.00 were discovered and compared against the stark omission of $18,850,000.00 of taxable dividends in the return of income. This promptly led to a speedy inquiry by the CRA, admission by Mr. Melman and his accountants of the omission and reassessment by the Minister. The CRA auditor indicated the detection, reconciliation and confirmation of the omitted taxable dividend took no more than 10 minutes. On this point, he was unchallenged.
+E. Mr. Melman’s reaction to the omission and penalty [23] Upon being advised by his accountant of the omission, interest and penalties in early April, 2011, Mr. Melman was concerned with the possible perceived impropriety of the omission. He was in immediate contact (within hours) with a CEO of a board to which Mr. Melman was to be appointed. He referred to his tax returns and their vetting as part of the due diligence for the appointment. Mr. Melman identified his “good conduct” and the precautions he had taken. He copied his lawyer. Two minutes later, three years after the omission and upon 8 hours’ notice of the reassessment, Mr. Melman produced the following, subsequent email for his lawyer:
+“This is the paragraph I was referencing:
+? A.R. Melman to pay tax of $4,725,000 due April 30th 2008 so invest $4,725,000 in T-Bills for 90 days. Some portion of the tax liability will need to be paid during the year subject to personal tax installment requests by CRA
+David [Mr. Melman’s accountant] spoke to your tax partner who is aware of the situation and discussed possible actions with David”
+[parentheses added]
+Mr. Melman’s Filing History and Tax Returns [24] Mr. Melman’s tax returns are neither ordinary nor commonplace as to amounts reported in 2007 or in years prior. The amounts among one year to the others concerning total income, taxable income, dividends or tax payable on filing are disparate and lacking in pattern. Similarly, the relationship between total income, taxable income, dividends and tax payable on filing within any given year’s tax return also varied greatly.
+[25] In testimony, Mr. Melman was taken through certain of his annual tax returns: 2007 (not reviewed before signed) and other years, (2002 through 2006 and 2009). Mr. Melman testified the normal review and execution process entailed a face-to-face meeting with the return in hand and a document review before signing. The lead accountant, Mr. Newman, confirm this face-to-face tax return review service was offered to clients.
+[26] An analysis of the 2007 tax return reveals quantitatively large amounts in the primary four pages of the tax return where the omission of the dividends occurred. By comparison, the number of line entries is quite small and comparatively similar to most returns. In 2007, there are five sources of income, almost all of which income amount arose from employment. The balance of all other sources of income items, including the erroneously under-reported taxable dividend of $2,582.00, totalled only $48,389.00.
+[27] By contrast, the properly reported amounts would have produced very different proportional entries in the return than those reported: total income and taxable income would have been three times as large; dividends 7300 times as large; and, tax due on filing would have been 12.5 times more than that reported. In absolute terms the proper, but unreported amounts (with rounding), contrasted against those reported are as follows: taxable income of $27,000,000.00, versus $9,000,000.00; dividends of $18,850,000.00, versus $2,582.00; and, estimated tax due on filing of approximately $4,725,000.00, versus $367,000.00.
+The Law [28] Subsection 163(2) is a penalty section under the Act. Relevant to this appeal, the subsection applies where a taxpayer “under circumstances amounting to gross negligence” makes a false statement or omission within his or tax return. The relevant excerpt of the subsection reads as follows:
+False statements or omissions
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return…is liable to a penalty…
+[29] Although the statute reads comparatively simply, the jurisprudence has a long history. Circumstance is relative, factual and particular. The touchstone of gross negligence involves neglect beyond a failure to use reasonable care; it must include a high degree of negligence equal to intentional acting or indifference as to compliance: Venne v Her Majesty the Queen, 1984 CTC 223 at paragraph 37.
+[30] In assessing the circumstances related to the degree of indifference as to compliance, the Court must consider whether the penalized taxpayer was wilfully blind. This wilful blindness is comprised not necessarily of actual cognition to the act, but an aversion of observation and a resistance to attentiveness when presented with the usual opportunities of detection: Villeneuve v Her Majesty the Queen, 2004 FCA 20 at paragraph 6. Where circumstances direct or “strongly suggest” that an inquiry should be made, wilful blindness is the refusal or failure to commence the inquiry in the absence of good reason: Panini v Her Majesty the Queen, 2006 FCA 224 at paragraph 43.
+[31] Since Villeneuve, Tax Court judges have employed various methodologies for their factually based analyses of wilful blindness: the establishment of guiding principles, Torres v Her Majesty the Queen, 2013 TCC 380 at paragraph 65; glaring red lights and not subtle problematic signs, Bhatti v Her Majesty the Queen, 2013 TCC 143 at paragraph 24; and a balanced approach weighing the magnitude of error, opportunity for detection and education and intelligence of the taxpayer, DeCosta v Her Majesty the Queen, 2005 TCC 545 at paragraph 11 and Brisson v Her Majesty the Queen, 2013 TCC 235 at paragraphs 29, 30, 37 and 38.
+Analysis [32] Based upon the analysis contained in the reasons which follow and the facts and circumstances before it, the Court finds Mr. Melman was wilfully blind. On such basis, he assented to, participated or acquiesced in the omission of the dividends in his tax return under circumstances amounting to gross negligence. Therefore, the appeal is dismissed and the imposed penalties remain.
+[33] In so finding, the Court engaged a methodological approach approximating those contained in both Counsels’ submissions. No single factor or criteria predominated and each was afforded its rightful weight based upon context framed by the evidence: DeCosta at paragraph 11. In assessing the facts against such factors or criteria, the Court requires the Respondent to have proven Mr. Melman was, more likely than not, wilfully blind to the warnings or markers set before him which would, if taken, have likely led to detection of the omission. The Court now proceeds to its analysis of the scene and context before it which surrounded the circumstances leading to that omission. With such an analysis, there is inherently some repetition and overlap of facts.
+Education, experience and intellect of Taxpayer
+[34] If any taxpayer had a mind trained to detect the omission of the dividends, it was Mr. Melman. Mr. Melman was and is one of the most knowledgeable, highly educated and experienced merchant bankers in this country and perhaps beyond. He specializes in balance sheet enhancement and income stream optimization. He is a former executive vice-president of a major Canadian Chartered bank. He sat on boards directors of companies and organizations whose names appear daily in the business pages of national and international newspapers. Although he indicated he had a lack of knowledge regarding the specifics of the Canadian tax system, his testimony revealed a keen and deep knowledge of equities, debt and related income and profits generated from such property, namely shares and bonds of companies.
+[35] Mr. Melman understands dividends, both taxable and capital. His correspondence with his own professional advisers bears witness to his prowess and advanced working knowledge of equity income, its uses and classification. He has a working knowledge of tax arising from equities well exceeding that of an average, diligent taxpayer or even business person. Mr. Melman is the spectral opposite of a naпve, unsophisticated or inexperienced taxpayer. His background is dramatically distinguishable from cases which have found so and vacated penalties for such reasons: Agregan v Her Majesty the Queen, 2008 TCC 572 at paragraphs 28 and 29.
+Magnitude of the omission
+[36] The size of the omitted dividends is objectively massive and possibly factually unmatched in penalty cases before this Court. As well, their proportion to Mr. Melman’s income is relationally twice his other reported income. As to the dividends, instead of $18,850,000.00, only $2,582.00 in taxable dividends was reported. This reported amount is miniscule and its corresponding fraction is a speck to the proper unreported amount. With respect to the income and dividend amounts contained in previous tax returns of Mr. Melman, the evidence shows these vast one-time dividends in 2007 related to his planned, life changing event: retirement. Such a unique event contributes to the magnitude, necessitating the sizeable $4,725,000.00 reserve invested by Mr. Melman with a timed maturity date to pay the accruing, estimated tax.
+Ease of detection of error
+[37] Fundamentally and statutorily, gross negligence errors occur within the return of income and their filing. This appeal is no different. Instead of reporting taxable dividends of $18,850,000.00, the sum of just over $2,500.00 was reported. As factually outlined above, the contrasts between reported and unreported income amounts shout from the line items within the 2007 return, whether representing total, net, and/or taxable income. The primary, rudimentary and simplest way for Mr. Melman to have detected the error was to review a draft copy, duplicate copy or execution copy of his tax return before he signed it. This simple and required act he admittedly did not do.
+Departure from Usual Practice
+[38] Mr. Melman’s counsel submitted that Mr. Melman had good reason or excuse not to read his return: he trusted his longstanding accountants. The Court requires a closer examination of that assertion given the different practice followed in April 2008.
+[39] Mr. Melman testified that he had read before he signed all previous years’ filed tax returns during a face-to-face meeting with his prime accountant. He did not do so for 2007. This “drive-by signing” occurred while the attending accountant’s taxi waited outside Mr. Melman’s home. Mr. Melman was leaving town in short order. His usual accountant was unavailable. They met by telephone instead, without the benefit of the completed tax return before either of them. This purported review and execution process occurred and was acquiesced to, if not directed by Mr. Melman. This concerned a taxation year where so much work and effort was directed towards Mr. Melman’s financial plans for retirement, winding up his substantial business affairs and otherwise ensuring a proper reserve for tax liability. Yet, when the down-sized review and speedy execution process for the signing of the 2007 tax return was established, Mr. Melman, perhaps quite out of character and without any previous history of doing so, participated willingly because it accommodated his request: Laplante v La Reine, 2008 TCC 335 at paragraph 15.
+[40] This departure from the usual face-to-face meeting, page by page review and supervised execution with his primary accountant constituted an unusual casualness on the part of Mr. Melman: Hougassian v La Reine, 2007 TCC 293 at paragraph 12; Spunt v La Reine, 2007 TCC 571 at paragraph 11. Travel plans are not a good reason or excuse for not reviewing the return in such an important tax year. As well, although no T-5 was prepared by Mr. Melman’s accountants, his intimate knowledge and instigation of the dividends removes from his appeal, the situation of a large third party payment of dividends over which a taxpayer has no initial knowledge or control. In any event, the absence of a prepared T-5 information slip does not necessarily exonerate a taxpayer from penalties when failing to report the income: Gagnon v La Reine 2004 TCC 530.
+Familiarity with tax preparer
+[41] There were years of trusted service between Mr. Melman and his accountants, and specifically the partner-in-charge of the file, Mr. Newman. That trusted service involved attentive, carriage-trade service. Regrettably, this attentiveness did not extend to the preparation and review of the 2007 tax return. The familiar and trusted full service shrunk to a mutually condoned speedy and high-level review of a working memo and subsequent execution of the actual tax return without review. Mr. Melman and his primary accountant both confirmed no draft tax return was before them during the teleconference held to “review the tax return”.
+[42] Before February 2006, it appeared from testimony that Onex Corporation undertook the preparation of tax returns and related T-5s and T-5 summaries for Mr. Melman’s companies. The first year Mr. Newman’s firm did that was for the year end concluding in February 2006. The second was February 2007, the year for which no T-5 or T-5 summary for the dividends was prepared.
+[43] Trusted services in previous years had involved a face-to-face meeting, examination of written sources of income and deductions and review, prior to signing, of the tax returns. In 2007, a critical year, these departures from normal oversight by Mr. Melman definitionally reflect insouciance and an indifferent delegation of responsibility. This occurred at the critical time of measuring and determining the existence of wilful blindness, namely, the review, discussion and execution of the tax return: Saikali v La Reine, 1998 3 CTC 200 (FCA) at paragraph 3; La Reine v Columbia Enterprises Ltd., 1983 CTC 204 (FCA). None of these facts constitute good reason for relying upon accountants and not reviewing the 2007 tax return before signing.
+Other Circumstances
+[44] There are other circumstances surrounding the escrowed estimated tax liability of $4,725,000.00 where Mr. Melman’s departure, without good reason, from usual character and habit also leaves the Court unsettled. During testimony, Mr. Melman said his bank would normally contact him directly regarding the maturing of deposits; they had a close relationship. The testified absence of discussions or any recall of contact with or from the bank in April of 2008 seems uncharacteristic. Yet, Mr. Melman, in cross-examination, offered no recollection of an email or phone call to or from his bank regarding the multi-million dollar tax liability investment maturing exactly at the time of the tax due date.
+[45] As well, Mr. Melman mentioned nothing of querying his accountants regarding this large unutilized escrowed amount invested in April 2007 to satisfy his estimated, potential tax liability maturing in late April 2008. His reported tax liability was much less than one-tenth of the previously predicted amount. This “tickler” for that tax liability was unobserved, unmentioned and inexplicably re-deployed contemporaneously with the filing of the 2007 return. The maturity of such a large, matching, purpose-specific investment reasonably constitutes a clear reminder to make a specific inquiry as to why such funds were no longer needed.
+[46] In other circumstances noted throughout, Mr. Melman made such inquiries. Instead, Mr. Melman’s queries and attentions to his accountants during April 2008 focused predominantly on subsequent Onex Corporation share sales and not the shrunken tax liability and large related investment directly related to the omitted dividends. There exists little obvious good reason or excuse for not querying such a dangling item. This indifference is also in sharp contrast to Mr. Melman’s laser-like, avid recall of a specific email referencing the invested $4,725,000.00 escrow, its purpose and specifically timed maturity date more than 3 years later within one day of the penalty assessment.
+Sufficient inquiry regarding tax return
+[47] In this particular factual framework, the penalties against Mr. Melman are warranted because of the presence of wilful blindness to the content of the actual 2007 tax return at the time of its preparation, collation, review and execution of in April 2008. Mr. Melman failed to read or review his tax return, or even a copy. He signed it nonetheless. He certified he had reviewed the document in the certificate printed within the return. Concurrently, he also redeployed $4,725,000.00 directly related to his properly estimated tax liability without further thought, pause or query beyond receiving assurances relating specifically to corporate taxes. He dismissed his assistant’s query of “skinny” documentation regarding the absence of personal information slips. He did so on the basis of her relative newness to the job. On an isolated basis, this may not be meaningful. Cumulatively, it is another small indication that something may have been amiss. It further erodes the assertion there was good reason to ignore the sign.
+[48] At signing, the critical time relevant to the Court’s assessment, Mr. Melman’s otherwise meticulous, watchful and exacting self lapsed. But for these identifiable and cumulative lapses, the Court believes that the omission of the dividends in the return would likely have been detected by Mr. Melman. The manifest and dramatic impact of the dividend omission on every important summary line item in the 2007 tax return cannot be understated. The Court’s balanced prediction of probable detection marches squarely along with Mr. Melman’s lazer beam and frequently relished detection and communication of other far less and sometimes inconsequential omissions, typos and other stylistic errors committed by his longstanding, trusted accountants, who were, themselves, relatively new arrivals to his personal holding companies for which 2007 T-5s were not prepared.
+Conclusion [49] Given the surrounding circumstances of the uniqueness, history, memorialization and familiarity of the dividends, their purpose and timing, and Mr. Melman’s background, the Court finds that the warning signs of the omitted dividends were sufficient to strongly suggest that he initiate a specific inquiry and review of the actual 2007 tax return he signed in April of 2008.
+[50] Based upon a balanced application of the combined factors found in any one of Torres, Brisson, Bhatti and DeCosta, these strong amber beacons required a reasonable and attentive person, of which Mr. Melman was by a wide margin, to yield and merely ask: “Why?”. Instead, and apart from anything else, Mr. Melman averted his eyes to any possible warning: he did not read his tax return: none of a draft, a copy or the one he signed. In combination with the other suggestive signs and circumstances, this aversion was wilfully blind to a critical and mandatory act which would likely have led to detection of the omission.
+[51] On that basis, the appeal is dismissed and the Respondent is awarded costs in accordance with the applicable tariff, subject to the right of either party to make further written submissions on costs within the 30 days of this judgment.
+Signed at Toronto, Ontario, this 8th day of July 2016.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2016 TCC 167
+COURT FILE NO.:
+2013-2353(IT)G
+STYLE OF CAUSE:
+ANTHONY MELMAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 2-3-4, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+July 8, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Keith M. Trusser
+Linda Smits
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Keith M. Trusser
+Linda Smits
+Firm:
+McKenzie Lake Lawyers LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

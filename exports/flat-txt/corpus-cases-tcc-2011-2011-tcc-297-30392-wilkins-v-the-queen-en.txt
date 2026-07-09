@@ -1,0 +1,99 @@
+Title: Wilkins v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30392/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-297-30392-wilkins-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-07
+
+# Wilkins v. The Queen
+
+- Citation: 2011 TCC 297
+- Decision date: 2011-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7852, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilkins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-07
+Neutral citation
+2011 TCC 297
+File numbers
+2010-2822(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2822(IT)I
+BETWEEN:
+TIMOTHY WILKINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 7, 2011 at Windsor, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal from the reassessment made under the Income Tax Act that denied the Appellant’s claim for a deduction of $17,614 in computing his income for 2008 is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 16th day of June, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC297
+Date: 20110616
+Docket: 2010-2822(IT)I
+BETWEEN:
+TIMOTHY WILKINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was reassessed to deny a deduction in the amount of $17,614 that the Appellant had claimed in computing his income for 2008. The amount was identified as “Excess premium transferred to RRIF” and the deduction was claimed on line 232 of the Appellant’s income tax return, which is the line for “Other deductions”.
+[2] The only explanation provided for this claim was provided by the Appellant’s accountant who prepared the Appellant’s income tax return. He stated that he claimed the deduction because the amount appeared in box 24 of a T4RIF slip from the Royal Bank of Canada. He could not otherwise explain the amount or what it represented.
+[3] The bank manager from the Royal Bank testified and he stated that generally transfers from one registered plan to another registered plan are reported in box 24 of a T4RIF. Therefore, if an amount was transferred from the Appellant’s RRSP to his RRIF, based on the testimony of the bank manager, such amount would be reported in box 24 of a T4RIF slip.
+[4] In R. v. Find, [2001] 1 S.C.R. 863, Chief Justice McLachlin, writing on behalf of the Supreme Court of Canada stated that:
+48 In this case, the appellant relies heavily on proof by judicial notice. Judicial notice dispenses with the need for proof of facts that are clearly uncontroversial or beyond reasonable dispute. Facts judicially noticed are not proved by evidence under oath. Nor are they tested by cross-examination. Therefore, the threshold for judicial notice is strict: a court may properly take judicial notice of facts that are either: (1) so notorious or generally accepted as not to be the subject of debate among reasonable persons; or (2) capable of immediate and accurate demonstration by resort to readily accessible sources of indisputable accuracy: R. v. Potts (1982), 66 C.C.C. (2d) 219 (Ont. C.A.); J. Sopinka, S. N. Lederman and A. W. Bryant, The Law of Evidence in Canada (2nd ed. 1999), at p. 1055.
+[5] A copy of a printout of information from the Royal Bank’s computer system indicating the amounts that would have been shown on the T4RIF that would have been issued by the Royal Bank to the Appellant for 2008 was introduced into evidence. However, the instructions that would normally accompany this form were not introduced into evidence. It seems to me that I can take judicial notice of the instructions that would normally accompany this form because such instructions are readily accessible on the Canada Revenue Agency’s website and I do not doubt the accuracy of the forms (including the instructions) found on this website.
+[6] The instructions that are identified with the T4RIF form on the website for the Canada Revenue Agency indicate the following:
+Box 24 – This is the taxable part of amounts received in the year that is more than the minimum amount. This amount is already included in box 16. Only report the box 16 amount on your return. If the amount received relates to RRSP contributions you could not deduct from income, you may be able to claim an offsetting deduction on line 232. For more information, see line 232 of the General Income Tax and Benefit Guide and Form T746, Calculating Your Deduction for Refund of Unused RRSP Contributions.
+[7] The amount that would have been included in box 16 of the T4RIF issued by the Royal Bank was $18,499.
+[8] The Appellant was retired in 2008. His only sources of income in 2008 were Old Age Security and Canada Pension Plan payments and such other amounts as he withdrew from his RRSP or RRIF that he had with the Royal Bank of Canada.
+[9] The Appellant confirmed that he would not have made any contribution to his RRSP in 2008. He was actually withdrawing funds from his RRSP in 2008 and therefore it would be illogical to assume that he was making contributions to his RRSP in the same year that he was withdrawing funds from his RRSP. I also take judicial notice of the T1 General Income Tax Return form that is on the Canada Revenue Agency website and note that a deduction for an RRSP contribution would be reported on line 208 of such a return, not line 232. There is nothing to suggest that the Appellant was claiming that the $17,614 was an RRSP contribution that he had made.
+[10] Whether an amount can be deducted in computing income is to be determined based on the provisions of the Income Tax Act. There is simply no basis to support the deduction claimed. The Appellant did not make any contribution to his RRSP in 2008 and it appears that it was more likely than not that the amount in box 24, as noted in the instructions that would have accompanied the T4RIF, was simply the taxable amount that the Appellant had received from his RRIF that was in excess of the minimum amount. This amount would have been, based on the instructions noted above, already included in the $18,499 that would have been reported in box 16. There is nothing to indicate that this amount was related to RRSP contributions that the Appellant could not deduct in computing his income. Whether $17,614 was the correct amount that was paid from his RRIF in excess of the minimum amount is not the issue before me. The only issue is whether the Appellant was entitled to deduct this amount ($17,614) in computing his income for 2008.
+[11] As a result the Appellant’s appeal in relation to the reassessment that denied the Appellant’s claim for a deduction of $17,614 in computing his income for 2008 is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 16th day of June, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC297
+COURT FILE NO.: 2010-2822(IT)I
+STYLE OF CAUSE: TIMOTHY WILKINS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: June 7, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 16, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

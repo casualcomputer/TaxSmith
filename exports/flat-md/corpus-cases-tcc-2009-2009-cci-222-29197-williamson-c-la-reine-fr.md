@@ -1,0 +1,224 @@
+---
+title: "Williamson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29197/index.do"
+last_modified: "2009-04-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 222"
+citation2: ""
+neutral_citation: "2009 CCI 222"
+decision_date: "2009-04-23"
+language: "fr"
+item_id: "29197"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6693
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:57:40.339000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "87f89f47fba1c7a659b789a9c0ec95d57cf03c7a07f0e6b0f9795f94157091be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Williamson c. La Reine
+
+- Citation: 2009 CCI 222
+- Decision date: 2009-04-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6693, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williamson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-23
+Référence neutre
+2009 CCI 222
+Numéro de dossier
+2000-2382(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2000-2382(IT)G
+2002-1965(IT)G
+ENTRE :
+JOAN A. WILLIAMSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 30 mars 2009, à Edmonton (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocate de l’appelante :
+Me Priscilla Kennedy
+Avocate de l’intimée :
+Me Brooke Sittler
+____________________________________________________________________
+ORDONNANCE
+Vu les demandes de l’appelante pour que le ministère de la Justice cesse d’occuper, il est ordonné que Linda Plitt, Rhonda Nahorniak et les autres avocats du ministère de la Justice qui ont travaillé sur les appels dont les numéros de dossiers de la Cour sont 2000-2382(IT)G et 2002‑1965(IT)G sont inhabiles à occuper dans les présents appels.
+Chacune des parties assumera ses propres frais à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 222
+Date : 20090423
+Dossiers : 2000-2382(IT)G
+2002-1965(IT)G
+ENTRE :
+JOAN A. WILLIAMSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] La présente requête concerne des avocats, des assistantes juridiques et des conflits d’intérêts. L’appelante voudrait que soient rendues des ordonnances enjoignant au ministère de la Justice de cesser d’occuper dans deux appels déposés devant la Cour.
+[2] L’appelante, Joan Williamson, a déposé des appels devant la Cour en 2000 et 2002. Les avocates m’ont informée à l’audience qu’aucune de ces procédures n’a encore atteint le stade de l’enquête préalable.
+[3] Les appels peuvent être désignés sous les numéros de dossiers 2000‑2382(IT)G et 2002-1965(IT)G, et ils seront appelés dans les présents motifs « l’appel de 2000 » et « l’appel de 2002 », respectivement, ou bien collectivement « les appels déposés devant la CCI ».
+[4] Est également pertinente à l’égard de la présente requête une action qu’a déposée l’appelante devant la Cour du banc de la Reine de l’Alberta (l’« action déposée devant la CBR »). L’objet de cette action est essentiellement le même que celui de l’appel de 2000. L’appelante s’est désistée de l’action déposée devant la CBR.
+[5] Selon l’appelante, deux conflits d’intérêts démontrent l’inhabilité du ministère de la Justice.
+[6] Le premier vient de ce que le ministère de la Justice compte parmi ses avocats Diana Kwan, qui avait été mêlée, dans le secteur privé, à au moins l’un de ces dossiers. On ne prétend pas que Me Kwan est intervenue de quelque manière dans ces dossiers au ministère de la Justice.
+[7] Le deuxième vient de l’emploi occupé au ministère de la Justice par Linda Plitt comme assistante juridique et technicienne parajuridique. Selon l’appelante, un conflit entraînant inhabilité a surgi parce que Mme Plitt a déjà exercé un rôle dans ces dossiers lorsqu’elle travaillait pour un cabinet d’avocats, et parce qu’elle a travaillé sur les mêmes dossiers au ministère de la Justice.
+[8] D’après l’appelante, le ministère de la Justice n’a pas érigé une « muraille de Chine » en ce qui concerne Me Kwan et Mme Plitt, et il en a résulté des conflits d’intérêts entraînant inhabilité.
+Les questions préliminaires
+[9] Avant d’examiner le fond de cette affaire, il convient d’examiner deux questions de preuve qui ont été soulevées par l’intimée.
+[10] La première question concerne le poids à accorder à un affidavit de Dawn Repchinski, déposé au nom de l’appelante.
+[11] Selon l’intimée, aucun poids ne devrait être accordé à l’affidavit parce que l’avocate de l’appelante, Me Priscilla Kennedy, a une connaissance plus directe des faits pertinents et serait mieux à même de produire un tel affidavit. Mme Repchinski est une technicienne parajuridique qui travaille périodiquement pour Me Kennedy depuis avril 2001.
+[12] Au soutien de sa position, l’intimée invoque : (1) la décision rendue par le juge Hamlyn, de la Cour canadienne de l’impôt, dans l’affaire Belchetz v. The Queen, 98 DTC 1230, conf. par 99 DTC 5726, et (2) la décision rendue par le juge Rothstein, alors juge de la Cour fédérale – Section de première instance, dans l’affaire Harper c. Ministre de l'Emploi et de l'Immigration, [1993] A.C.F. n° 212.
+[13] S’agissant de savoir si Me Kennedy serait mieux à même de produire un affidavit, je partage l’avis de l’intimée. Elle était l’avocate chargée de ces dossiers durant la majeure partie, sinon la totalité, de la période considérée. L’affidavit de Mme Repchinski est pour l’essentiel fondé sur des renseignements qui lui ont été communiqués par Me Kennedy, renseignements qui ont été vérifiés par Mme Repchinski, dans la mesure du possible, après examen du dossier de l’appelante.
+[14] Me Kennedy a fait valoir à l’audience qu’elle n’était pas la mieux à même de produire l’affidavit parce que, durant la période considérée, elle était souvent en dehors de son bureau, absorbée par un autre dossier. Malheureusement, cela ne rend pas Mme Repchinski mieux à même de produire un affidavit. La quasi-totalité des paragraphes de l’affidavit de Mme Repchinski commence par les mots : [traduction] « Que je tiens pour véridique, sur la foi de renseignements communiqués par Priscilla Kennedy, le fait que […] »
+[15] Me Kennedy aurait manifestement été mieux à même que Mme Repchinski de rédiger l’affidavit, et j’ai pris cela en compte dans le poids que j’ai accordé à l’affidavit de Mme Repchinski. Un certain poids doit toutefois être accordé à l’affidavit.
+[16] Le deuxième point concerne un contre-interrogatoire mené par Me Kennedy sur l’un des affidavits de Mme Plitt.
+[17] Selon l’intimée, aucun poids ne devrait être accordé à ce contre‑interrogatoire parce que Me Kennedy aurait dû s’en abstenir. Je ferais observer que ce point a été soulevé par l’avocate de l’intimée durant le contre-interrogatoire et que Me Kennedy a choisi malgré cela de poursuivre le contre-interrogatoire.
+[18] Au soutien de la position de l’intimée, son avocate m’a renvoyée à un arrêt de la Cour d'appel du Manitoba, rédigé par le juge Twaddle, R. v. Deslauriers, [1993] 2 WWR 401.
+[19] En l’espèce, il est clair que Me Kennedy avait une connaissance approfondie des faits pertinents et qu’elle a également assumé un rôle d’avocate dans le contre‑interrogatoire de Mme Plitt. Comme il est indiqué dans l’arrêt Deslauriers, cela est répréhensible. Me Kennedy aurait également dû s’abstenir de comparaître à cette audience, même si l’intimée ne s’y est pas opposée.
+[20] L’extrait suivant de l’arrêt Deslauriers permet d’expliquer pourquoi la conduite de Me Kennedy est irrégulière :
+[traduction]
+[…] un avocat doit s’abstenir de comparaître en cette qualité dans une requête lorsque c’est son affidavit qui est produit devant la Cour. Il ne devrait pas non plus comparaître dans un appel interjeté d’une ordonnance donnant suite à telle requête.
+La rigueur de cette règle est parfois assouplie lorsque les faits attestés par l’avocat dans son affidavit ne sont pas sujets à controverse, ou lorsque l’intérêt de la justice l’exige. Cet assouplissement est toutefois une concession à l’opportunité, concession en général autorisée uniquement lorsque la crédibilité de l’avocat ne sera pas attaquée et lorsque son comportement ni son discernement ne seront mis en doute.
+La portée de la règle ne se limite pas aux cas où l’avocat témoigne directement. Elle s’étend aux cas où l’avocat se fonde sur un affidavit établi sous serment sur la foi de renseignements communiqués par lui, même si l’affidavit ne le dit pas explicitement. Mon collègue Philp se souvient d’une affaire, instruite le printemps dernier, où la Cour avait insisté pour qu’un avocat indépendant soit engagé dans un tel cas.
+L’objectivité du rôle de l’avocat est également mise en péril dans un cas comme celui-ci, où la Cour se doit de tenir compte de son comportement ou de son discernement pour décider un point litigieux entre les parties. L’avocat finit, dans ce genre de situation, par justifier son propre comportement et son propre discernement et par contester ceux de l’avocat de la partie adverse. C’est là une situation qui devrait être évitée. Dans la mesure du possible, un autre avocat devrait être engagé.
+Hésitants comme nous l’étions donc à entendre l’avocat, nous avons reconnu que, dans un cas comportant des allégations de retard, il n’était pas souhaitable qu’un autre retard survienne par l’effet d’une règle qui n’avait pas été appliquée devant la Cour du banc de la Reine et qui n’a peut-être pas été pleinement comprise. Devant choisir entre les deux maux, nous avons préféré fermer les yeux sur l’absence d’objectivité de l’avocat et maîtriser notre propre embarras à devoir débattre la question du caractère raisonnable ou non du délai avec ceux dont la conduite et les décisions étaient jugés, afin d’éviter le délai supplémentaire qui en aurait autrement résulté.
+[Non souligné dans l'original.]
+[21] La décision de Me Kennedy d’agir comme avocate dans la présente requête a mis la Cour dans la même position difficile que l’était la Cour d'appel du Manitoba dans l’affaire Deslauriers. Cependant, je ne crois pas que la bonne réaction soit de ne pas tenir compte du contre-interrogatoire de Mme Plitt, comme l’aurait souhaité l’intimée.
+[22] Comme la juridiction manitobaine l’a fait dans l’affaire Deslauriers, j’ai décidé de ne pas faire cas des décisions de Me Kennedy afin de ne pas retarder davantage la présente instance, ce qui se serait produit si j’avais exigé l’intervention d’un autre avocat. La présente instance a été introduite il y a déjà fort longtemps, et il est souhaitable qu’elle soit instruite au fond sans plus attendre.
+Les faits
+[23] À la plupart des époques pertinentes, l’appelante a été représentée, dans les appels déposés devant la CCI, par Me Kennedy, une avocate qui exerce actuellement sa profession dans un cabinet d’Edmonton, Davis LLP. Les actions ont été engagées à l’époque où Me Kennedy exerçait dans le cabinet Parlee McLaws LLP, également à Edmonton.
+[24] L’intimée était représentée jusqu’à récemment par la section des services fiscaux du ministère de la Justice, à Edmonton. Après le dépôt de la présente requête, la responsabilité de ces dossiers a été transférée au bureau de Saskatoon jusqu’à l’issue de la requête.
+[25] Quant à Diana Kwan, elle travaillait comme associée subalterne au cabinet Parlee McLaws, à Edmonton, en 1999 et 2000. Durant cette période, elle était intervenue parfois dans des dossiers qui concernaient l’appelante et dont s’occupait Me Kennedy.
+[26] À partir de novembre 2001, Me Kwan a commencé à travailler comme avocate au ministère de la Justice. Elle y a travaillé exclusivement dans des domaines non liés à la fiscalité, d’abord au bureau de Vancouver, puis à Ottawa.
+[27] Quant à Linda Plitt, elle a travaillé comme assistante juridique pour le cabinet Parlee McLaws durant une période de cinq mois, du 8 mai au 29 septembre 2000. C’est Me Kennedy qui lui attribuait ses tâches.
+[28] La mesure dans laquelle Mme Plitt est intervenue dans ces dossiers n’est pas claire. D’après son affidavit, elle ne se souvient pas d’être intervenue dans une affaire concernant l’appelante lorsqu’elle était chez Parlee McLaws. Nous savons en revanche que, s’agissant de l’appel de 2000, c’est elle qui avait déposé l’avis d’appel, et qu’elle avait écrit une lettre au ministère de la Justice au nom de Me Kennedy à propos d’une question de calendrier. En dehors de cela, on ne sait trop à quel niveau elle a pu intervenir dans les appels déposés devant la CCI ou dans l’action déposée devant la CBR.
+[29] L’affidavit de Mme Repchinski donne à penser que Mme Plitt a travaillé sur le dossier de l’appelante au cours des cinq mois qu’elle a passés chez Parlee McLaws. J’accorde très peu de poids à cet élément de preuve, surtout parce qu’il est très vague.
+[30] En octobre 2000, Mme Plitt a commencé à travailler au ministère de la Justice à Edmonton. Au début, elle ne travaillait pas dans la section des services fiscaux, mais elle y a été transférée à partir du 8 janvier 2001, après qu’elle eut perçu un conflit d’intérêts dans un dossier criminel dans lequel elle était déjà intervenue.
+[31] À la section des services fiscaux, Mme Plitt a d’abord travaillé comme assistante juridique de Me Rhonda Nahorniak, fiscaliste principale, et de trois ou quatre autres avocats. Il en fut ainsi jusqu’en 2004, à l’exception d’un congé de maternité allant de décembre 2001 à décembre 2002. À partir de 2004, Mme Plitt est devenue technicienne parajuridique, son travail consistant à accomplir une diversité de tâches pour de nombreux avocats.
+[32] Au ministère de la Justice, Me Nahorniak s’était chargée des appels déposés devant la CCI, jusqu’à ce que les dossiers soient réattribués récemment au bureau de Saskatoon.
+[33] Mme Plitt a rédigé sous serment deux affidavits se rapportant à la présente requête. Le premier précise que, à l’origine, le rôle de Mme Plitt dans ces dossiers au ministère de la Justice était uniquement un rôle de technicienne parajuridique, lorsqu’elle fut priée en décembre 2007 de traiter une question de dépens se rapportant à l’action déposée devant la CBR. C’était après que l’appelante s’était désistée de son action déposée devant la CBR.
+[34] Un affidavit supplémentaire fut rédigé sous serment après que l’avocate de l’intimée dans la présente requête eut réexaminé le dossier du ministère de la Justice pour l’appel de 2002. Cet affidavit précise que, tout au long de 2003 et 2004, Mme Plitt s’est chargée de diverses tâches administratives se rapportant à l’appel de 2002. Mme Plitt écrit dans son affidavit supplémentaire qu’elle ne se souvient pas des tâches en question.
+Analyse
+Généralités
+[35] Le principe à appliquer pour savoir s’il y a conflit d’intérêts entraînant inhabilité lorsqu’un avocat quitte un cabinet pour travailler dans un autre a été établi par la Cour suprême du Canada dans l’arrêt Succession MacDonald c. Martin, [1990] 3 R.C.S. 1235 (l’arrêt Martin). La question à laquelle il faut répondre est la suivante : le public, c’est-à-dire une personne raisonnablement informée, serait‑il convaincu qu’il ne sera fait aucun usage de renseignements confidentiels?
+[36] En général, le critère requiert de se demander si des renseignements confidentiels ont été reçus dans un ancien cabinet d’avocats et s’il y a lieu de croire qu’ils seront utilisés au préjudice du client dans un nouveau cabinet d’avocats.
+[37] Le point central de ce critère n’est pas de savoir s’il y a eu effectivement divulgation de renseignements confidentiels, mais de savoir si le système judiciaire est perçu comme loyal. Le critère vise à renforcer la confiance du public dans la profession juridique. En outre, l’accent mis sur l’intérêt public revient à reconnaître que l’utilisation de renseignements confidentiels n’est pas quelque chose qui soit en général susceptible de preuve.
+[38] Il est clair aussi que le même principe général vaudra si un assistant juridique quitte un cabinet pour se joindre à un autre : Hildinger v. Carroll, [2004] O.J. No. 291 (C.A. Ont.), et Chern v. Chern, 2006 ABCA 16.
+[39] En l’espèce, la question est de savoir si le critère est rempli en ce qui concerne Me Kwan et Mme Plitt.
+Diana Kwan
+[40] Appliquant ces principes à Diana Kwan, je suis d’avis que le critère est respecté sans peine.
+[41] S’agissant de la réaction d’un membre du public, il aurait le sentiment que Me Kwan détient sans doute, en raison de son travail chez Parlee McLaws, certains renseignements confidentiels intéressant les appels déposés devant la CCI. Cependant, le public ne penserait pas véritablement, dans un tel cas, que les renseignements confidentiels seraient utilisés au préjudice de l’appelante par le ministère de la Justice.
+[42] Selon l’appelante, il aurait fallu ériger une « muraille de Chine » lorsque Me Kwan a commencé à travailler pour le ministère de la Justice. Je ne vois pas la nécessité d’une telle mesure alors que Me Kwan ne travaille ni dans le bureau d’Edmonton ni dans la section des services fiscaux.
+[43] S’agissant de Me Kwan, il n’y a pas de conflit d’intérêts entraînant inhabilité.
+Linda Plitt
+[44] La question est moins évidente en ce qui concerne Mme Plitt.
+[45] Les précédents auxquels j’ai été renvoyé donnent à penser qu’il y a de nombreuses différences entre le rôle d’un non-avocat et celui d’un avocat, différences qui permettent de dire si, s’agissant d’un non-avocat, il y a ou non conflit d’intérêts entraînant inhabilité. Par exemple, un assistant juridique sera en général moins à même qu’un avocat d’avoir accès à des renseignements confidentiels. Selon la jurisprudence, ce sont les faits qui le plus souvent permettront de dire si un non-avocat se trouve dans une situation de conflit d’intérêts entraînant inhabilité.
+[46] Dans l’affaire Chern, la Cour d'appel de l’Alberta examinait la charge de la preuve dans un cas semblable à celui-ci.
+[47] La première chose que doit faire l’appelante, c’est montrer que Mme Plitt avait auparavant, chez Parlee McLaws, une position propre à faire naître une présomption réfutable selon laquelle elle détenait des renseignements confidentiels intéressant l’un ou l’autre des appels déposés devant la CCI.
+[48] Si elle réussit à établir une telle présomption, il revient alors à l’intimée de la réfuter.
+[49] La question suivante est de savoir s’il est possible que tels renseignements soient utilisés au préjudice de l’appelante par le ministère de la Justice.
+[50] L’intimée dit qu’il n’y a aucun risque de cette nature parce que Mme Plitt ne se souvient même pas d’avoir travaillé sur le dossier de l’appelante chez Parlee McLaws. Selon l’intimée, il est impossible d’imaginer, dans ces conditions, que Mme Plitt détienne des renseignements confidentiels.
+[51] La difficulté que cela pose, c’est que l’on a ici affaire aux propres affirmations de Mme Plitt. Mme Plitt est sans doute tout à fait digne de foi, mais, dans l’arrêt Martin, la Cour suprême écrivait que de telles affirmations ne suffisent pas. Si elles ne suffisent pas, c’est en raison de l’intérêt public.
+[52] Par ailleurs, même si l’on admet que Mme Plitt ne se souvient pas de cette affaire aujourd’hui, il demeure possible que les choses lui remontent à la mémoire lorsqu’elle travaillera plus tard sur ces dossiers.
+[53] On doit considérer la question d’un point de vue objectif. Le rôle de Mme Plitt dans le dossier de l’appelante était-il tel qu’il était susceptible de lui donner accès à des renseignements confidentiels?
+[54] Je relève que Mme Plitt est devenue l’assistante de Me Kennedy peu avant le dépôt de l’avis d’appel se rapportant à l’appel de 2000. En général, c’est le moment où des renseignements confidentiels seront communiqués à un avocat et pourraient venir en la possession d’une assistante juridique.
+[55] À mon avis, un membre du public serait d’avis que Mme Plitt a fort bien pu, pendant qu’elle travaillait chez Parlee McLaws, acquérir des renseignements confidentiels sur les appels déposés devant la CCI.
+[56] Dans le jugement Ocelot Energy Inc. v. Jans, [1998], 165 Sask.R. 252, la Cour du banc de la Reine de la Saskatchewan a jugé qu’une assistante juridique qui avait quitté un cabinet d’avocats pour se joindre à un autre était en situation de conflit d’intérêts entraînant inhabilité parce qu’elle avait travaillé sur le même dossier dans les deux cabinets. La Cour du banc de la Reine écrivait ce qui suit :
+[traduction]
+[30] À mon avis, une personne suffisamment informée ne serait pas persuadée qu’aucune utilisation des renseignements confidentiels ne sera faite dans un cas où un ancien membre du personnel d’un cabinet d’avocats qui avait libre accès au dossier d’un client et avait consacré beaucoup de temps à ce dossier travaille maintenant directement pour l’avocat représentant dans le litige la partie opposée au client et semble travailler directement pour le nouvel avocat dans le dossier en question.
+[57] L’intimée fait observer que les circonstances sont ici différentes de l’affaire Ocelot et d’autres précédents portant sur des assistants juridiques, et cela parce que Mme Plitt n’avait pas un rôle considérable dans le dossier de l’appelante chez Parlee McLaws.
+[58] La période au cours de laquelle Mme Plitt a travaillé au cabinet Parlee McLaws a été relativement brève, mais c’était une époque durant laquelle beaucoup de travail et d’énergie étaient consacrés à l’appel de 2000.
+[59] À mon avis, on peut fort bien imaginer, dans les circonstances actuelles, que Mme Plitt a pu acquérir des renseignements confidentiels pertinents lorsqu’elle travaillait chez Parlee McLaws.
+[60] Si Mme Plitt a effectivement eu accès à des renseignements confidentiels, alors son rôle dans ces dossiers au ministère de la Justice permet de penser que les renseignements pourraient être utilisés au détriment de l’appelante par le ministère de la Justice.
+[61] En 2003 et 2004, Mme Plitt travaillait directement pour Me Nahorniak. Me Nahorniak traitait avec Me Kennedy à propos des appels déposés devant la CCI, et Me Nahorniak savait que Mme Plitt avait travaillé pour Me Kennedy. Il semble qu’aucune mesure n’a été prise pour faire en sorte que Mme Plitt n’intervienne pas dans des dossiers sur lesquels elle avait déjà travaillé avec Me Kennedy.
+[62] Depuis 2004, Mme Plitt a travaillé comme technicienne parajuridique au service de plusieurs avocats. En 2007, elle a rédigé des documents se rapportant aux dépens dans l’action déposée devant la CBR.
+[63] Un membre informé du public pourrait fort bien, dans ces conditions, imaginer que des renseignements confidentiels utiles risquent d’être communiqués aux avocats travaillant sur ces dossiers au ministère de la Justice, pour être finalement utilisés au détriment de l’appelante.
+[64] Selon l’intimée, l’inhabilité, dans ces conditions, fait peser sur le ministère de la Justice un fardeau trop lourd. Elle affirme qu’il serait impossible de faire un tri lorsque l’intéressé n’a aucun souvenir de l’affaire.
+[65] Je ne partage pas ce point de vue. En l’espèce, par exemple, le ministère de la Justice savait que Mme Plitt avait travaillé pour Me Kennedy. Des précautions auraient pu être prises, lorsque Mme Plitt a commencé à travailler dans la section des services fiscaux, pour s’assurer qu’il n’y aurait aucun conflit d’intérêts ou, aspect plus important, aucune impression de conflit d’intérêts. Le ministère de la Justice aurait pu, par exemple, communiquer avec Me Kennedy à propos des dossiers dont Me Kennedy avait la responsabilité.
+[66] À mon avis, il importe, pour l’administration du système fiscal, que soit évitée toute impression de conflit d’intérêts dans les appels en matière fiscale. Le ministère de la Justice gère un grand nombre d’appels de cette nature, et de possibles conflits d’intérêts surgissent sans aucun doute de temps à autre. Le public doit avoir l’assurance que les mesures requises sont prises pour minimiser le risque de tout emploi inopportun de renseignements confidentiels. Je conclurais qu’il y a ici conflit d’intérêts entraînant inhabilité.
+[67] Quel est le redressement qui s’impose?
+[68] Dans l’arrêt Martin, la Cour suprême explique qu’il y a trois valeurs rivales à prendre en compte : l’intégrité du système de justice, le droit du justiciable de recourir aux services de l’avocat de son choix, enfin la mobilité raisonnable qu’il est souhaitable de permettre au sein de la profession.
+[69] J’ai tenté de prendre ces valeurs en compte et suis arrivée à la conclusion que la solution qui s’impose ici est de déclarer inhabiles à agir Mme Plitt, Me Nahorniak et les autres avocats du ministère de la Justice qui ont travaillé sur les appels déposés devant la CCI. Il n’est pas nécessaire de déclarer inhabile à agir la totalité du bureau d’Edmonton du ministère de la Justice, et encore moins l’intégralité du ministère de la Justice, comme l’a proposé l’appelante.
+[70] On pourrait prétendre que l’inhabilité des avocats dans la présente affaire est inutile. Il est très improbable que des renseignements confidentiels aient été communiqués aux avocats à ce jour parce que le rôle de Mme Plitt dans ces affaires au ministère de la Justice semble très limité. La décision de déclarer les avocats inhabiles à agir s’explique par un souci de prudence, étant donné l’importance de l’idée que se fait le public d’une situation comme celle-ci. Je ferais aussi remarquer qu’il ne devrait pas être trop difficile d’affecter de nouveaux avocats puisque les appels déposés devant la CCI n’ont pas encore atteint le stade de l’enquête préalable.
+[71] Avant de conclure, je dirais quelques mots sur la question de la mobilité des assistants juridiques. Dans une décision antérieure, la mobilité n’était pas considérée comme un facteur important pour trancher la question de l’inhabilité. Je ne partage pas cette manière de voir. Selon moi, la mobilité de l’assistant juridique est un facteur important qu’il convient de prendre en compte.
+[72] En l’espèce, l’intimée n’a pas prétendu que la mobilité des assistants juridiques était problématique. Il m’apparaît logique qu’elle ne le soit pas dans un grand ministère comme le ministère de la Justice.
+[73] S’agissant des dépens, Me Kennedy affirme que les dépens avocat-client devraient être accordés à sa cliente. Elle dit que Mme Plitt aurait dû savoir qu’elle était en situation de conflit d’intérêts à la suite de la décision la concernant rendue par le juge Binder dans l’affaire The Queen v. Le, 2001 ABQB 195.
+[74] Le jugement Le concernait un conflit d’intérêts dans le contexte d’un procès criminel.
+[75] Le fond de l’affaire Le, c’était que Mme Plitt avait reconnu elle-même le conflit lorsqu’elle avait commencé, au ministère de la Justice, à travailler sur un dossier sur lequel elle avait déjà travaillé pour un avocat dans le secteur privé. Le ministère de la Justice l’avait ensuite mutée de la section des poursuites criminelles à la section des services fiscaux.
+[76] Une question s’est posée à propos de l’inhabilité des avocats engagés dans le procès criminel. La question fut soumise au juge Binder, dans l’affaire Le, et le juge Binder a conclu que les avocats qui avaient travaillé dans le procès criminel étaient eux aussi inhabiles à agir.
+[77] L’argument de Me Kennedy concernant les dépens et la décision Le n’a nul bien-fondé. Le juge Binder avait précisé que sa décision devait se limiter au domaine du droit criminel. Il n’y avait aucune raison pour Mme Plitt, ou pour quiconque au ministère de la Justice, d’interpréter la décision Le comme un précédent ayant une quelconque application aux circonstances de la présente requête.
+[78] Ma conclusion concernant les dépens, eu égard à l’ensemble des circonstances, y compris le fait que l’appelante n’a obtenu gain de cause que partiellement, est que chacune des parties devrait supporter ses propres frais à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 222
+NOS DES DOSSIERS DE LA COUR : 2000-2382(IT)G
+2002-1965(IT)G
+INTITULÉ : JOAN A. WILLIAMSON ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 30 mars 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge J. Woods
+DATE DE L’ORDONNANCE : Le 23 avril 2009
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Priscilla Kennedy
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Priscilla Kennedy
+Cabinet : Davis LLP
+Edmonton (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,162 @@
+---
+title: "Boucher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27217/index.do"
+last_modified: "2006-08-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 439"
+citation2: ""
+neutral_citation: "2006 TCC 439"
+decision_date: "2006-08-10"
+language: "en"
+item_id: "27217"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 823
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:50:35.115000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98205517c3f09dcb699076d18746e528efce85e4abd001da41ff2d7729398b3e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boucher v. The Queen
+
+- Citation: 2006 TCC 439
+- Decision date: 2006-08-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 823, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-10
+Neutral citation
+2006 TCC 439
+File numbers
+2005-4265(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4265(IT)I
+BETWEEN:
+GÉRALD BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 7, 2006, at Québec, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Georges Bégin
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act concerning the 2000, 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 10th day of August 2006.
+Angers J.
+Translation certified true
+on this 16th day of January 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC439
+Date: 20060810
+Docket: 2005-4265(IT)I
+BETWEEN:
+GÉRALD BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing two reassessments, one dated July 28, 2003 and the other January 28, 2005. In the first reassessment, the Appellant’s employment income was raised by $5,989 for the 2000 taxation year and by $6,026 for the 2001 taxation year, and in the second reassessment, his employment income was raised by $6,443 for the 2002 taxation year and by $1,890 for the 2003 taxation year. The two reassessments were confirmed by the Minister of National Revenue on December 1, 2005. Additional employment income was determined to take into account the benefit of the use of an automobile supplied to the Appellant by his employer.
+[2] During the years in issue, the Appellant was the sole shareholder and employee of Les Éditions Atlas Inc. ("the Company"). The Company put an automobile at the Appellant's disposal. The annual mileage of this vehicle came to around 15,000 kilometres. During the years in issue, the Appellant was also the owner of a personal car. According to the Appellant, the average annual mileage of this vehicle was only about 3,000 kilometres and part of this distance was for travel on Company business.
+[3] The Company publishes annually a booklet entitled "Le Passe-Partout, services et bonne chère" in the Québec region. The booklet contains advertisements and coupons offering substantial discounts in certain restaurants and bistros.
+[4] The Appellant and his agent at the hearing acknowledged that the Company’s vehicle had been used for personal purposes during the taxation years in issue. The Appellant mentioned a proportion of 9% while his agent evaluated it at around 5%. One thing is certain, both of them acknowledged that the vehicle in question was at the Appellant’s disposal. The Appellant therefore could use it for personal purposes. The standby charge for an automobile is set out in paragraph 6(1)(e) and subsection 6(2) of the Income Tax Act ("the Act") and those provisions read as follows:
+(e) Standby charge for automobile -- where the taxpayer's employer or a person
+related to the employer made an automobile available to the taxpayer, or to a person related to the taxpayer, in the year, the amount, if any, by which
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available exceeds
+(ii) the total of all amounts, each of which is an amount (other than an expense related to the operation of the automobile) paid in the year to the employer or the person related to the employer by the taxpayer or the person related to the taxpayer for the use of the automobile.
+6(2) Reasonable standby charge for automobile — For the purposes of paragraph 6(1)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula
+A/B x [2% x (C x D) + 2/3 x (E - F)]
+where
+A is
+(a) the lesser of the total kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the total available days and the value determined for the description of B for the year in respect of the standby charge for the automobile during the total available days, if
+(i) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(ii) the distance travelled by the automobile in the total available days is primarily in connection with or in the course of the office or employment, and
+(b) the value determined for the description of B for the year in respect of the standby charge for the automobile during the total available days, in any other case;
+B is the product obtained when 1,667 is multiplied by the quotient obtained by dividing the total available days by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+C is the cost of the automobile to the employer where the employer owns the vehicle at any time in the year;
+D is the number obtained by dividing such of the total available days as are days when the employer owns the automobile by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+[5] These two provisions were analyzed by Robertson J. of the Federal Court of Appeal in Adams v. R., [1998] 3 F.C. 365, 98 D.T.C 6266. At paragraphs 14, 15 and 17 of this decision, Robertson J. concludes that their application requires that the employee be entitled to use the automobile for personal purposes. The strict consequences of their application can be tempered by the "minimal personal use" exception added on to subsection 6(2). The relevant passages of these paragraphs read as follows:
+[14] Against this background, it is apparent that both paragraph 6(1)(e) and subsection 6(2) are unconcerned with whether in fact an employee made use of an employer's automobile. Paragraph 6(1)(e) makes no reference to the purposes for which the automobile is made available and, in particular, no longer makes reference to personal use by an employee. . . .
+[15] . . . It is actual usage which is of significance not whether an employee had unrestricted or exclusive use of an employer's automobile. It is also important to note that actual usage only becomes relevant within the context of the minimal personal use exception articulated in subsection 6(2).
+. . .
+[17] In summary, the broad wording used in both linguistic versions of paragraph 6(1)(e), coupled with its legislative history, support the Minister's position. In my respectful view, unrestricted or exclusive use of an employer's automobile is not a condition precedent to the imposition of a standby charge. Nor is actual usage required, whether it be for personal or business purposes. What is required is that an employer have made an automobile available to, or at the disposition of, an employee and, correlatively, that he or she have had a right to use it. This is only logical since subsection 6(2) deems an employee to have made personal use of an employer's automobile, irrespective of whether this is so. In my view, the standby provisions were carefully crafted with the object of promoting certainty at the expense of flexibility. That being said the harsh consequences which flow from a deeming provision are tempered by the "minimal personal use" exception grafted on to subsection 6(2) in response to this Court's decision in Harman. This is the point in time where actual usage and the purposes for which the automobile was made available become relevant considerations.
+[6] Therefore there is a presumption that once the right to use an automobile is granted, 12,000 kilometres per year are driven for personal use. This presumption can be overturned by clear and express evidence of the actual use in terms of mileage, as explained by Tardif J. in Tremblay v. R., 2000 D.T.C. 2414. In this decision, Tardif. J. quoted an excerpt from the decision of Dussault J. in Lavigueur v. the Minister of National Revenue, 91 D.T.C. 445, on this obligation to provide evidence and to do so in a precise manner. Here is the excerpt:
+Thus the appellant admitted having had the automobile available to him in the evening and on weekends, but stated that he used it for personal purposes only exceptionally. He further stated that he had another automobile for that purpose, which, while it was much older and more modest, fully sufficed for the limited needs of going out in the evening or on weekends. The appellant, however, was not very specific in terms of the total kilometres travelled for business purposes; he stated that the total might be 40,000 to 60,000 kilometres per year, but that he had kept no record of this.
+. . .
+In order to control the benefit arising from the use for personal purposes of an automobile owned or leased by an employer, Parliament believed it advisable to establish a presumption that personal use amounts to 1,000 kilometres per month or 12,000 kilometres per year, as soon as an employer makes an automobile available to an employee. This presumption may be rebutted by the employee, and the Act imposes an obligation on him do so in a specific manner, "in the prescribed form", when there is less use for personal purposes. In that case, the application of the arithmetic formula in subsection 6(2) operates to reduce the amount to be included in the employee's income proportionately. If an employee does not comply with the obligation thus imposed by the Act, how can he later argue that the Department of National Revenue was wrong to include in his income the amount set out in subsection 6(2) of the Act, which results from the application of the presumption established therein?
+[7] In this case, the Appellant did not keep a record of his travel that would make it possible to calculate precisely the mileage and use of the automobile for personal purposes. The Appellant did however attempt to put together such a record based on a list of the Company's clients that he visited in 2003-2004 by calculating the distance between the clients' places of business and the Company's place of business using the Internet site Mapquest. According to this information, the distance travelled to visit the Company's clients totals 3,860 kilometres there and back. The Appellant estimates that he visits clients on average four times a year for a total of 15,440 kilometres a year. One of the Company's clients testified that he met with the Appellant six or seven times a year. However, he acknowledged that he considered himself a particularly difficult client and that he had no idea of the number of visits made by the Appellant to his other clients nor of the number of clients he had to visit. On cross-examination, he even reduced his estimate of the number of visits he received from six or seven a year to five or six a year.
+[8] The Appellant alleges that he goes to the Beauce region approximately 6 times per year to have the booklet printed, that he goes to Montréal about twice a year and, on occasion, meets with the graphic designers hired by the Company. This travel adds more than 2,000 kilometres to the estimate made by the Appellant in the previous paragraph.
+[9] The Appellant produced repair bills for the Company’s automobile for the period from November 18, 1999 to March 11, 2002. The total mileage indicated comes to 31,026 kilometres for a period of 27 months, or 1,149 kilometres per month. This makes for a 12-month average of 13,788 kilometres. The Appellant made a similar calculation for his personal car since it is sometimes used for business purposes. The annual mileage on his own car is 3,240 kilometres. The total for the two cars is 17,028 kilometres per year. According to the Appellant, the average yearly distance travelled for business, calculated using Mapquest, represents 91% of the total annual mileage.
+[10] The Appellant filed his agendas and copies of contracts from 2001, which show that the contracts were signed during visits to the clients. However, the agendas specify only the time of each appointment and not whether it was the Appellant who was travelling. Certain appointment pages indicate that the Appellant met with several people in one day (I counted up to ten in one day) and other pages (several) show no appointments at all.
+[11] The Appellant argues that he did not use the automobile for personal purposes as often as the Minister claims, as he often travelled outside the country. As for his personal car, he claims that he used it year round. In support of this last claim, he filed repair invoices for his car, but they date from 1990, 1991 and 1998. One of them was even billed to the Company.
+[12] There is no doubt that the estimates of personal use versus business use made by the Appellant are unreliable and far from accurate. The premise that the Appellant relies on to determine his annual mileage percentage, i.e. four visits for each client having signed a contract, based on a return trip, is not plausible. In any case, these cannot be return trips for each client. The agendas filed in evidence show successive appointments and enable us to deduce that the Appellant visited more than one client per trip.
+[13] Choosing at random, I reviewed two contracts, signed on May 11, 2001. Going over the period during which these contracts were signed in the Appellant’s agendas allowed me to determine that, for one of the contracts, only one visit is indicated, on May 11, 2001, date on which the contract was signed. The client was contacted by telephone three times, on April 17, May 1 and May 8, 2001. As for the second contract, there were three appointments, on May 3 and 7 and on the date of signing of the contract. That represents an average of two appointments per client, which, in my opinion, seems more realistic, since there are clients who only sign a renewal and often more than one client is seen during one trip. This exercise allows me to conclude that the Appellant’s personal use of the Company’s vehicle was much more significant than his estimate indicates. In my opinion, the Minister’s estimate, which evaluated the personal use at 25%, is closer to reality.
+[14] The repair bills on which the mileage is indicated give only a yearly average and not the exact mileage for each year. It is therefore difficult to determine anything precise that would allow one to conclude that these data reflect reality. On the contrary, this is imprecise and circumstantial evidence that fails to meet the requirements of the Act.
+[15] The Appellant was unable to discharge his burden of proof. For these reasons, the reassessments are upheld and the appeals are dismissed.
+Signed at Edmundston, New Brunswick, this 10th day of August 2006.
+“François Angers”
+Angers J.
+Translation certified true
+on this 16th day of January 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC439
+COURT FILE NO.: 2005-4265(IT)I
+SYTLE OF CAUSE: Gérald Boucher and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: July 7, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: August 10, 2006
+APPEARANCES:
+Agent for the Appellant:
+Georges Bégin
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

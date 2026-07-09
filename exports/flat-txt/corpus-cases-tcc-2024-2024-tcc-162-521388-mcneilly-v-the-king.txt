@@ -1,0 +1,650 @@
+Title: McNeilly v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521388/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-162-521388-mcneilly-v-the-king.md
+Document type: case_law
+Last modified: 2024-12-18
+
+# McNeilly v. The King
+
+- Citation: 2024 TCC 162
+- Decision date: 2024-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6015, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNeilly v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-12-18
+Neutral citation
+2024 TCC 162
+File numbers
+2017-2700(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2700(IT)G
+BETWEEN:
+KENNETH MCNEILLY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on December 4‑8, 2023, December 11 and 13, 2023, January 18, 2024 and February 15‑16, 2024, at Toronto, Ontario
+Before: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Adam Goldenberg
+Sajeda Hedaraly
+Pierre‑Gabriel Grégoire
+Safia Thompson
+Counsel for the Respondent:
+Arnold H. Bornstein
+Hye‑Won (Caroline) Ahn
+Kieran Woods
+JUDGMENT
+Having considered the evidence and the submissions presented by the parties, and in accordance with the attached Reasons for Judgment (the “Reasons”),
+IT IS ADJUDGED THAT:
+The Appeal is allowed, and the Reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the medical expense tax credit (the “METC”), but only to the extent conceded by the Respondent, as explained in the Reasons. For greater certainty, the METC is not available with respect to the expenses pertaining to the medical services, procedures, care, medications and other items or services provided to, or in respect of, the egg donors or the gestational surrogates referred to in the Reasons.
+The parties will bear their own costs.
+Signed at Ottawa, Canada, this 18th day of December 2024.[1]
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2024 TCC 162
+Date: 20241218
+Docket: 2017-2700(IT)G
+BETWEEN:
+KENNETH MCNEILLY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] Is the medical expense tax credit (the “METC”) available, under the Income Tax Act (the “ITA”),[2] to a gay cisgender single man who incurred expenses, in 2015, for services provided by a fertility clinic in respect of egg donation and gestational surrogacy? That is one of the questions put before the Court in this Appeal.
+[2] These Reasons pertain to the Appeal commenced by Kenneth McNeilly, after the Minister of National Revenue (the “Minister”), as represented by the Canada Revenue Agency (the “CRA”), disallowed his claim for an METC in respect of payments made in 2015 by Mr. McNeilly to fertility clinics in Toronto and Kathmandu.
+[3] During the second week of the trial, on December 13, 2023, after delivering brief oral reasons, I granted a confidentiality order, which had been requested by Mr. McNeilly. In addition to providing my reasons for the judgment granted in this Appeal, this document also sets out more extensive written reasons for the granting of the confidentiality order.
+[4] At the commencement of the trial, the parties filed a booklet containing a Partial Agreed Statement of Facts, to which were attached various exhibits, supposedly identified as Exhibits A through O respectively (collectively, the “PASOF”).[3]
+II. FACTS
+[5] For several years predating 2015, which is the taxation year in issue in this Appeal, Mr. McNeilly, a gay cisgender single man, desired to have a biological child. In 2012, he embarked on a search for a gestational surrogate.[4] He also worked with a medical clinic, The Create Fertility Associates (“Create”), and an egg donor agency. Over the course of two or three years, Mr. McNeilly endeavored to make arrangements, through a surrogacy agency, with three different potential surrogates. Although the arrangements did not solidify in respect of the first two, the third potential surrogate underwent three successive embryo transfers, none of which resulted in a successful pregnancy.
+[6] In mid‑2014, an Ottawa‑based friend of Mr. McNeilly (the “Ottawa Surrogate”) expressed a willingness to act as a surrogate. On September 13, 2014, Mr. McNeilly entered into a gestational carriage agreement (the “Ottawa Agreement”) with the Ottawa Surrogate and her husband. Thereafter, three successive embryo transfers took place, over a seven-month period, again without success.
+[7] About this time, Mr. McNeilly learned of Kiran Fertility Services Pvt Ltd. (“Kiran”), located in Nepal. After various inquiries and conversations, Mr. McNeilly concluded arrangements with Kiran, for it to provide its fertility services to assist him in his efforts to become a father.
+[8] Kiran made travel arrangements for an egg donor (as selected by Mr. McNeilly from a list provided by Kiran of ten potential donors, each of whom resided in South Africa) to travel to a fertility clinic in Nepal, where 22 of her eggs were retrieved.
+[9] Kiran arranged with a woman living in northern India to be the surrogate (the “Kiran Surrogate”) to assist Mr. McNeilly. On May 18, 2015, Mr. McNeilly entered into a surrogacy agreement (the “Kiran Agreement”) with the Kiran Surrogate and Kiran. Although the Kiran Surrogate did not speak or understand English, the Kiran Agreement was written only in English.
+[10] In July 2015, using Mr. McNeilly’s sperm and some of the donor’s eggs, at least ten embryos were created. Two embryos were transferred to the Kiran Surrogate and eight were frozen for future use.
+[11] Mr. McNeilly’s twin children, a boy and a girl, were born prematurely on February 3, 2016, by means of a caesarean section. On February 6, 2016, Mr. McNeilly left Toronto, to travel to Kathmandu, where he arrived on February 7, 2016, and met his children, who were in separate incubator bassinettes. Being premature, the twins struggled. After an initial infection, Mr. McNeilly’s son eventually began to progress. Sadly, his daughter passed away on March 1, 2016.
+[12] On or about March 12, 2016, in a location other than Kiran’s facilities, Mr. McNeilly met the Kiran Surrogate, and, for the first time since the delivery, the Kiran Surrogate saw the infant boy whom she had carried. It was not until this occasion that she learned that the infant girl had passed away.
+[13] In respect of Mr. McNeilly’s arrangement with Create in 2015, the following amounts (CAD) claimed by Mr. McNeilly are in dispute:
+(a)Frozen Embryo Transfer (“FET”) with laser assisted hatching (50% off procedure): $875.00;
+(b)Coordination with the previous gestational surrogate: $950.00
+(c)Out of country releasing: $500.00; and
+(d)Short term sperm storage: $450.00.[5]
+[14] The Crown conceded that the expense of DNA fragmentation completed by Create, being $175.00, on Mr. McNeilly’s own sperm, was an amount eligible for the METC pursuant to paragraph 118.2(2)(o) of the ITA.[6]
+[15] In respect of Mr. McNeilly’s arrangement with Kiran in 2015, the following amounts (USD) claimed by Mr. McNeilly are in dispute:
+(a)Sperm washing and analysis of IVF: $500.00;
+(b)Egg donor medical consultations, shots, scans and all necessary procedures: $2,000.00;
+(c)Egg retrieval (medical clinic, doctors, surgeons, specialist, products, etc.): $3,000.00;
+(d)Egg donor post‑operative care: $1,000.00;
+(e)Intracytoplasmic sperm injection (“ICSI”): $3,000.00;
+(f)Embryo tests and embryo processing: $5,000.00;
+(g)Embryo freezing and storage: $500.00;
+(h)Psychological screening for gestational surrogate: $500.00;
+(i)Surrogate medications and all necessary tests prior to embryo transfer: $2,000.00;
+(j)IVF procedure (clinic, doctors, specialist, products and medicine): $4,000.00;
+(k)Embryo transfer: $2,000.00; and
+(l)Surrogate post‑embryo transfer care: $500.00.[7]
+[16] As it relates to the amount of the METC in respect of the arrangement with Kiran, Mr. McNeilly claimed $30,467.00 CAD in accordance with applicable exchange rates.[8]
+[17] By the date of the trial, Mr. McNeilly was no longer seeking the METC in respect of an expense allowance for the Kiran Surrogate’s family ($2,000.00 USD) or the 2015 portion of the Kiran Surrogate’s compensation ($4,000.00 USD).[9]
+[18] A summary of the amounts invoiced by Create for the various services that it provided is set out in Schedule A. A summary of Mr. McNeilly’s estimated allocation of Kiran’s lump‑sum fee among the various services that it provided is set out in Schedule B.
+[19] In 2020, Mr. McNeilly became the father of a second son. The question of whether Mr. McNeilly qualified for the METC with respect to the costs incurred in respect of his second son are not in issue in this Appeal.
+[20] Based on his presentation and interaction with his older son in the courtroom, Mr. McNeilly appears to be a responsible, caring and loving parent, who sincerely and genuinely desired to become a biological father.
+III. ISSUES
+[21] Mr. McNeilly framed the issues in the Appeal as follows:
+(a)On the correct interpretation of paragraphs 118.2(2)(a), (n) and (o), and/or subsection 118.2(2.2) of the ITA, is Mr. McNeilly eligible for the METC for the medical expenses claimed?
+Does the definition of “patient” in paragraph 118.2(2)(a) of the ITA, as it applies to fertility‑related medical expenses claimed under paragraphs 118.2(2)(a), (n) and (o), and/or subsection 118.2(2.2) of the ITA, include intended parents when they are assisted by an egg donor and/or a gestational surrogate?
+Is an “existing illness, disease or condition” required to claim the METC under paragraph 118.2(2)(a) of the ITA?
+In the alternative, does Mr. McNeilly fulfill the requirement of an “existing illness, disease or condition” under paragraph 118.2(2)(a) of the ITA?
+Does Mr. McNeilly fulfill the requirement of a medical condition under paragraphs 118.2(2)(n) and (o) of the ITA?
+Does subsection 118.2(2.2) of the ITA apply to the present appeal?
+Do the expenses at issue fall within paragraphs 118.2(2)(a), (n) and/or (o) of the ITA?
+(b)If Mr. McNeilly is not eligible for the METC, do the impugned provisions unjustifiably violate the right to equality guaranteed in subsection 15(1) of the Charter?
+Should Mr. McNeilly be granted public interest standing on behalf of people with reproductive disorders?
+Does the requirement that Mr. McNeilly be a “patient” to claim the METC for fertility‑related expenses violate the right to equality guaranteed in subsection 15(1) of the Canadian Charter of Rights and Freedoms (the “Charter”)[10] on the basis of sexual orientation and/or physical disability?
+Does the requirement that Mr. McNeilly present a medical condition to claim the METC for his fertility‑related expenses violate the right to equality guaranteed in subsection 15(1) of the Charter on the basis of sexual orientation?
+Is any of the above violation(s) to subsection 15(1) of the Charter justified under section 1 of the Charter?
+(c)What is the appropriate remedy?
+[22] The Crown framed the issues in the Appeal as follows:
+(a)Is Mr. McNeilly entitled to the METC for the expenses in dispute under paragraph 118.2(2)(a), (n) or (o) of the ITA? In particular, for procedures performed on or drugs given to a surrogate or egg donor, is an intended parent a patient within the meaning of paragraph 118.2(2)(a)?
+(b)Should this Court grant Mr. McNeilly public interest standing to argue that the patient definition, insofar as it applies to fertility services under paragraphs 118.2(2)(a), (n) and (o), violates the rights of people with reproductive disorders under subsection 15(1) of the Charter on the basis of disability?
+(c)Does the patient definition in paragraph 118.2(2)(a) of the ITA, insofar as it applies to fertility services under paragraphs 118.2(2)(a), (n) and (o), violate subsection 15(1) of the Charter on the basis of sexual orientation and, if standing is granted, disability?
+(d)If the patient definition does violate or infringe subsection 15(1) of the Charter,
+Can the Crown justify this infringement under section 1 of the Charter?
+If not, what remedy — if any — ought the Court provide?
+(e)Does the requirement (if any) for a medical condition in paragraph 118.2(2)(a), (n) or (o) infringe subsection 15(1) of the Charter on the basis of sexual orientation?
+IV. MOTION FOR A CONFIDENTIALITY ORDER
+A. Background
+[23] As noted above, on September 13, 2014, Mr. McNeilly, the Ottawa Surrogate and her husband entered into the Ottawa Agreement, and on May 18, 2015, Mr. McNeilly, Kiran and the Kiran Surrogate entered into the Kiran Agreement. In these Reasons, I will refer to those two agreements together as the “Surrogacy Agreements”.
+[24] The title line on the first page of the Ottawa Agreement describes the agreement as a confidential agreement. Section 29 of that agreement contains a lengthy confidentiality clause, which, among other things, defines the term “Confidential Information” as including the terms of the agreement, and requires each party to keep that information confidential. The Ottawa Agreement also provides that, in the case of litigation, the parties are to seek a confidentiality or sealing order.
+[25] Section 16 of the Kiran Agreement states that a party thereto is not to disclose the terms of that agreement to the media, the public or any other individual. The provision goes on to state that a party may disclose his or her involvement in the surrogate program to his or her significant other, relatives and friends, but the specific terms of the agreement are not to be disclosed to other parties.
+[26] Mr. McNeilly did not intend to use the Surrogacy Agreements in evidence during the trial of this Appeal. Accordingly, he did not include either Surrogacy Agreement in the list of documents (partial disclosure) that he filed and served under section 81 of the Tax Court of Canada Rules (General Procedure) (the “Rules”). However, during his examination for discovery, the Crown required him to provide copies of the Surrogacy Agreements to it, which he did.
+[27] On the first day of the trial, Mr. McNeilly brought a motion for a confidentiality order under section 16.1 of the Rules. During the hearing of that motion, counsel for the Crown advised the Court that the Crown intended to put the Surrogacy Agreements into evidence. Subsequently, on the second day of the trial, during her cross‑examination of Mr. McNeilly, counsel for the Crown tendered the Surrogacy Agreements as exhibits.[11]
+B. Principles
+[28] While court openness is a fundamental principle of the Canadian judicial system, there are exceptional circumstances in which a court may issue a confidentiality order. In Sierra Club, the Supreme Court of Canada formulated a two-step test to qualify for such an order.[12] In Sherman Estate, the Supreme Court recast that test, without altering its essence, into a three-step test, as follows:
+In order to succeed, the person asking a court to exercise discretion in a way that limits the open court presumption must establish that:
+(1) court openness poses a serious risk to an important public interest;
+(2) the order sought is necessary to prevent this serious risk to the identified interest because reasonably alternative measures will not prevent this risk; and
+(3) as a matter of proportionality, the benefits of the order outweigh its negative effects.[13]
+These three steps are discussed below.
+(1) Serious Risk to Important Public Interest [29] The first step in the analysis is to ascertain whether there is an important public interest that will be adversely affected by the disclosure of the Surrogacy Agreements.
+(a) Privacy in Respect of an Individual’s Biographical Core [30] The Supreme Court held in Sherman Estate that privacy in respect of sensitive personal information is an important public interest, “aimed at allowing individuals to preserve control over their core identity in the public sphere to the extent necessary to preserve their dignity”, provided that “the information reveals something intimate and personal about the individual, their lifestyle or their experiences”, and provided that “the information … is sufficiently sensitive such that [court] openness can be shown to meaningfully strike at the individual’s biographical core in a manner that threatens their integrity.”[14]
+[31] Having read the Surrogacy Agreements, I am of the view that they each contain personal, intimate and sensitive information that pertains to the biographical core of each individual who is a party to the respective agreements. If that information were to be disclosed to the public, there may be a serious risk that the dignity and integrity of each individual might be adversely impacted in an inordinate manner.
+[32] In addition, Mr. McNeilly submitted that disclosure of the Surrogacy Agreements would harm the privacy and dignity interests of his children, both of whom are minors, and could expose them to harm, including bullying and harassment.[15]
+[33] In addressing the above submission, the Crown put forward the affidavit (the “Anderson Affidavit”) of a legal assistant at the Department of Justice.[16] Attached to the Anderson Affidavit, as exhibits, are copies of a magazine article and screen shots from three videos. The subject of the magazine article and the three videos is Mr. McNeilly and his path to parenthood. The first page of the magazine article shows a family photograph of Mr. McNeilly and his two sons.[17]
+[34] The three videos showed three different interviews in which Mr. McNeilly participated. Two of the interviews were conducted by journalists. For those two interviews, Mr. McNeilly appeared to be seated in his home, with the above‑mentioned family photograph positioned behind him and slightly to his side, so that viewers could plainly see it. In addition, both of those videos also showed other photographs of Mr, McNeilly and his sons. The third interview was conducted by a representative of a fertility organization. While the video of that interview did not show any photographs of Mr. McNeilly’s family, during the course of the interview, Mr. McNeilly referred to each of his children by name.
+[35] Although “detailed information about family structure … could in some circumstances constitute sensitive information”,[18] a review of the above‑mentioned magazine article and the three videos, leads one to conclude that Mr. McNeilly is not overly concerned about public exposure being given to his two sons. Therefore, I am not persuaded that disclosure of the Surrogacy Agreements would lead to greater exposure to harm than already exists.[19] Thus, I do not think that this particular privacy interest (relating to the risk of disclosure of sensitive, intimate information striking at an individual’s biographical core) is sufficient, in and of itself, to support a confidentiality order at the request of Mr. McNeilly.
+[36] Nevertheless, it has been acknowledged that matters “involving children frequently engage public interests that transcend the interests of the parties” to the particular litigation,[20] and that “the best interests of the children can be an interest of super‑ordinate importance”.[21] Recognizing those principles, as well as the principles that underlie Practice Note No. 16,[22] I am concerned about the dissemination of documents and evidence that might disclose the names or visual appearances of Mr. McNeilly’s children. In harmony with that practice note, I am of the view that the Anderson Affidavit and Exhibit R‑5 should be sealed and treated as confidential.[23]
+[37] Given the sensitive, intimate nature of some of the information in the Surrogacy Agreements, I suspect that public disclosure of that information would strike at the biographical core of the Ottawa Surrogate, her husband and the Kiran Surrogate, in a manner that would threaten their dignity. However, no evidence concerning the risk to their respective privacy interests was put before the Court on their behalf. In fact, there was nothing to indicate that any of those three individuals was even aware of the trial, let alone the possible loss of privacy. I will consider the interests of those three individuals in my discussion below of the confidentiality clauses set out in the respective Surrogacy Agreements.
+(b) Confidentiality during the Discovery Process [38] In the MediaTube case, Justice Locke of the Federal Court identified a public interest that is applicable here and that he described in these terms:
+… where a party … finds itself involved in litigation … and is compelled by the rules of discovery to divulge sensitive and confidential information, there is a strong public interest in that party being able to maintain the confidentiality of that information. Otherwise, no confidential information is safe.[24]
+[39] As noted above, Mr. McNeilly did not intend to use the Surrogacy Agreements at the trial of this Appeal, nor did he include them in his list of documents. Those agreements came before the Court only because the Crown required their disclosure during the examination for discovery, and then introduced them as exhibits at trial,[25] during its cross‑examination of Mr. McNeilly.
+[40] In keeping with the principle established in MediaTube, there is an important public interest in permitting Mr. McNeilly to maintain the confidential nature of the Surrogacy Agreements.
+(c) Preservation of Contractually Protected Confidential Information [41] As noted above, each of the Surrogacy Agreements contains a confidentiality clause, obligating Mr. McNeilly not to disclose the terms of the respective agreements. Where two parties enter into a contract, which imposes mutual confidentiality and non‑disclosure obligations, in my view, there is a public interest in not interfering with the fulfilment of those obligations. This interest “relates to the objective of preserving contractual obligations of confidentiality.”[26]
+[42] The above principles are supported by the Supreme Court’s decision in Sierra Club, in which Justice Iacobucci noted that “the preservation of … contractual relations” is an interest that may “be promoted by a confidentiality order”.[27] In that same case, he also stated that, “if … exposure of information would cause a breach of a confidentiality agreement,” there is a “general … interest of preserving confidential information.”[28]
+[43] Accordingly, there is an important public interest in not impeding Mr. McNeilly’s efforts to fulfill his obligations under the confidentiality clauses in the Surrogacy Agreements.
+[44] We also need to consider this interest from the perspective of the Surrogates and the husband of the Ottawa Surrogate. Those three individuals bargained for Mr. McNeilly’s covenant not to disclose the terms of the Surrogacy Agreements. That is sufficient to activate the Court’s concern for the privacy of those three individuals. It would be unreasonable to expect them to appear before the Court, in a legal proceeding to which they are not parties, to make their own motion for a confidentiality order, particularly as they would not have any practical way of even knowing of the trial of this Appeal. They have already extracted, from Mr. McNeilly, a covenant of non‑disclosure, and, in so doing, they have, by implication, made it clear that disclosure of the terms of the Surrogacy Agreements would threaten their integrity and dignity. Nothing further should be required of them to protect their respective interests in this situation.
+(d) Protection of Proprietary Information and Fair Competition [45] Some courts have recognized that, in certain circumstances, there might be a public interest in protecting a businessperson’s trade secrets and other proprietary information, and in preserving fair competition.[29]
+[46] The public interest in commercial confidentiality and fair competition might suggest that the Kiran Agreement should be kept confidential, so as to protect Kiran’s commercial interests, and so as to preserve its ability to compete with other fertility clinics. However, in viewing the documents taken from Kiran’s website or brochures, as set out in the attachments to the PASOF, I note that a significant number of the terms of the Kiran Agreement appear on its website or in its advertising brochures. Therefore, I decline to base the confidentiality order on this particular interest.
+(e) Summary [47] I have identified three important public interests that are supportive of the requested confidentiality order:
+(a)the interest of “limiting the disclosure of personal and confidential information to what is necessary for the disposition of the case”, particularly in respect of minor children, as enunciated in Practice Note No. 16;
+(b)the interest of enabling a litigant to maintain the confidentiality of sensitive and confidential information that the litigant is required to disclose during an examination for discovery; and
+(c)the interest of enabling an individual to fulfill his or her contractual obligation not to disclose information that is the subject of, and protected by, a confidentiality clause in a contract.
+[48] If the principle of court openness were to require the public disclosure of the Surrogacy Agreements and the identifying information in respect of Mr. McNeilly’s children, there would be a serious risk to the above important public interests.
+[49] The personal, sensitive and intimate information that is relevant here is found in several formats. The Court and the parties likely possess, as part of their working files, various copies of the Surrogacy Agreements, the McNeilly Affidavit and the Anderson Affidavit. As well, copies of the Surrogacy Agreements have been attached as Exhibits “A” and “B” to the McNeilly Affidavit, a copy of which is Exhibit A‑1 in the trial of this Appeal. In addition, other copies of the Surrogacy Agreement are Exhibits R‑3 and R‑4 in the trial. The information that discloses, or provides a road map to the disclosure of, the names and visual appearances of Mr. McNeilly’s children is found in the Anderson Affidavit and Exhibit R‑5. A copy of the Anderson Affidavit is Exhibit R‑1 in the trial. In these Reasons, I sometimes refer to the McNeilly Affidavit and the Anderson Affidavit together as the “Subject Affidavits”, and I sometimes refer to Exhibits A‑1, R‑1, R‑3, R‑4 and R‑5 collectively as the “Subject Exhibits”.
+[50] For clarity, the important public interest identified in subparagraph 47(a) above (i.e., the protection of the privacy of minor children) relates to the Anderson Affidavit and Exhibits R‑1 and R‑5. The important public interests identified in subparagraphs 47(b) and (c) above (i.e., the protection of confidential information required to be disclosed during the discovery process, and the protection of information that is the subject of a confidentiality clause) relate to the Surrogacy Agreements, the McNeilly Affidavit and Exhibits A‑1, R‑3 and R‑4.
+(2) Necessity [51] The second step in applying the Sherman Estate test is to show that the desired confidentiality order is necessary to prevent the serious risk to the three above‑identified important public interests because reasonably alternative measures will not prevent the risk.
+[52] While redaction might be a reasonable alternative to a confidentiality order in some situations, it is not practical here. The particular confidentiality clause in each of the Surrogacy Agreements requires each party thereto not to disclose, and to keep confidential, all the terms of the particular agreement. Therefore, if redaction were to be ordered, the totality of each Surrogacy Agreement would need to be redacted, leaving, essentially, an empty document.[30] It is simpler and more efficient to grant a confidentiality order.
+[53] With respect to the Anderson Affidavit and Exhibit R‑5, the overriding concern is the wellbeing of Mr. McNeilly’s children, who are minors. Redacted copies of that affidavit and that exhibit may still provide clues that might lead to disclosure of the names and appearances of the children.
+[54] During the hearing of the motion, neither party suggested any alternative to the granting of a confidentiality order. Accordingly, in my view, the confidentiality order is necessary to prevent the serious risk to the identified important public interests.
+(3) Proportionality [55] The third step is to confirm that, as a matter of proportionality, the benefits of the desired confidentiality order outweigh its negative effects.
+[56] The benefits of granting a confidentiality order are the protection of the names and visual appearances of Mr. McNeilly’s minor children, and the facilitation of Mr. McNeilly’s adherence to his obligations under the respective confidentiality clauses in the Surrogacy Agreements. A further benefit is that the Crown is able to refer to, and use, the Surrogacy Agreements during the trial, while carefully limiting the disclosure of the terms and conditions of the Surrogacy Agreements.
+[57] Mr. McNeilly has not sought a publication ban in respect of the trial, nor has he sought to impede public access to the courtroom. There was no suggestion from Mr. McNeilly that the Surrogacy Agreements, the Subject Affidavits or the Subject Exhibits should not be used during the trial. In fact, in the course of his examination for discovery, Mr. McNeilly provided copies of the Surrogacy Agreements to the Crown, and, in the trial of this Appeal, the Crown used those agreements in their cross‑examination of Mr. McNeilly and tendered those agreements as exhibits.[31] These are all factors that may be considered in the proportionality analysis.[32]
+[58] I acknowledge that, with any confidentiality order, there will likely be some impact on the open court principle.[33] However, having considered the above factors, I am of the view that the desired confidentiality order represents a relatively minimal intrusion into the principle of court openness, such that it would not have a significant deleterious effect on that principle.[34]
+(4) Decision [59] Accordingly, I allowed the motion and granted a confidentiality order under section 16.1 of the Rules. The order, which was dated January 17, 2024 , provides that the Surrogacy Agreements, the Subject Affidavits and the Subject Exhibits are to be sealed and treated as confidential.
+V. ANALYSIS OF THE ISSUES IN THE TRIAL
+[60] The Tax Court of Canada is not a court of equity, nor is it a court with plenary jurisdiction. Rather, it is a statutory court, with a limited jurisdiction, which is to determine whether a particular assessment of tax was validly issued and is correct (i.e., in conformity with the applicable legislative provisions). Nevertheless, the Court has the jurisdiction to consider whether a particular taxing provision infringes the equality right recognized in section 15 of the Charter.
+A. Legislative Provisions
+(1) ITA and ITR Provisions [61] In 2015, subsection 118.2(1) of the ITA provided, to an individual, a tax credit (i.e., the METC), to the extent that certain medical expenses, in respect of the individual, the individual’s spouse or common‑law partner or a minor child or other specified dependent of the individual, exceeded the lesser of an indexed threshold and 3% of the individual’s income for the year. The medical expenses that qualified for the credit were described in subsection 118.2(2) of the ITA. Paragraph (a) thereof read as follows:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the “patient”) who is the individual, the individual’s spouse or common‑law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+[62] Paragraphs 118.2(2)(l.1), (n) and (o) are also germane to this Appeal. In 2015, those paragraphs read as follows:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid …
+(l.1) on behalf of the patient who requires a bone marrow or organ transplant,
+(i) for reasonable expenses (other than expenses described in subparagraph (ii)), including legal fees and insurance premiums, to locate a compatible donor and to arrange for the transplant, and
+(ii) for reasonable travel, board and lodging expenses (other than expenses described in paragraphs (g) and (h)) of the donor (and one other person who accompanies the donor) and the patient (and one other person who accompanies the patient) incurred in respect of the transplant;….
+(n) for
+(i) drugs, medicaments or other preparations or substances (other than those described in paragraph (k))
+(A) that are manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder or abnormal physical state, or its symptoms, or in restoring, correcting or modifying an organic function,
+(B) that can lawfully be acquired for use by the patient only if prescribed by a medical practitioner or dentist, and
+(C) the purchase of which is recorded by a pharmacist, or
+(ii) drugs, medicaments or other preparations or substances that are prescribed by regulation;
+(o) for laboratory, radiological or other diagnostic procedures or services together with necessary interpretations, for maintaining health, preventing disease or assisting in the diagnosis or treatment of any injury, illness or disability, for the patient as prescribed by a medical practitioner or dentist;
+[63] Subparagraph 118.2(2)(n)(ii) of the ITA refers to drugs, medicaments or other preparations or substances that are prescribed by regulation.[35] The prescribed regulation is section 5701 of the Income Tax Regulations (the “ITR”),[36] which reads as follows:
+5701. For the purpose of subparagraph 118.2(2)(n)(ii) of the Act, a drug, medicament or other preparation or substance is prescribed if it
+(a) is manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder or abnormal physical state, or its symptoms, or in restoring, correcting or modifying an organic function;
+(b) is prescribed for a patient by a medical practitioner; and
+(c) may, in the jurisdiction in which it is acquired, be lawfully acquired for use by the patient only with the intervention of a medical practitioner.
+[64] Subsection 118.2(2.2) was added to the ITA by the 2017 budget bill no. 1.[37] At the time of its enactment, the subsection read as follows:
+(2.2) An amount is deemed to be a medical expense of an individual for the purposes of this section if the amount
+(a) is paid for the purpose of a patient (within the meaning of subsection (2)) conceiving a child; and
+(b) would be a medical expense of the individual (within the meaning of subsection (2)) if the patient were incapable of conceiving a child because of a medical condition.
+[65] Subsection 118.2(2.2) of the ITA applies in respect of qualifying medical expenses incurred in the 2017 and subsequent taxation years. In addition, a claim for an METC under subsection 118.2(2.2) may be made for a year preceding 2017, but within the parameters specified in subsection 164(1.5) of the ITA, which generally permits a claim to be filed up to 10 years after the expense is incurred.
+[66] After subsection 118.2(2.2) was added to the ITA, counsel for Mr. McNeilly sent a letter to the CRA, requesting the METC in respect of the egg donation, IVF and surrogacy expenses that are the subject of this Appeal, but also asking that his request be held in abeyance, pending the outcome of this Appeal.[38]
+[67] In 2022, Parliament added paragraph (v) to subsection 118.2(2) of the ITA, by means of the second budget bill that year.[39] This new provision reads as follows:
+(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid …
+(v) to a fertility clinic, or donor bank, in Canada as a fee or other amount paid or payable, to obtain sperm, ova or embryos to enable the conception of a child by the individual, the individual’s spouse or common‑law partner or a surrogate mother on behalf of the individual.
+[68] Concurrently with the addition of paragraph 118.2(2)(v) to the ITA, Parliament also added subsection 118.2(2.21) to the ITA.[40] Subsection 118.2(2.21) reads as follows:
+(2.21) An amount is deemed to be a medical expense of an individual for the purposes of this section if the amount
+(a) is paid by the individual or the individual’s spouse or common‑law partner;
+(b) is
+(i) an expenditure described under any of sections 2 to 4 of the Reimbursement Related to Assisted Human Reproduction Regulations, or
+(ii) paid in respect of a surrogate mother or donor and would be an expenditure described in subparagraph (i) if it was paid to the surrogate mother or donor;
+(c) would be a medical expense of the individual (within the meaning of subsection (2)) if the amount was paid in respect of a good or service provided to the individual or the individual’s spouse or common‑law partner;
+(d) is an expense incurred in Canada; and
+(e) is paid for the purpose of the individual becoming a parent.
+[69] Paragraph 118.2(2)(v) and subsection 118.2(2.21) of the ITA apply in respect of qualifying medical expenses incurred in the 2022 and subsequent taxation years. Unlike the transitional rule for expenses that are described in subsection 118.2(2.2) of the ITA and that were incurred before 2017, there is no provision for an METC to be obtained in respect of expenses that are described in paragraph 118.2(2)(v) or subsection 118.2(2.21) and that were incurred before 2022.
+(2) Charter Provisions [70] Subsection 15(1) of the Charter states:
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[71] Section 1 of the Charter provides that the equality right enunciated in subsection 15(1) of the Charter is “subject … to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.”
+B. Jurisprudence
+(1) METC Cases [72] In Foley, a case that dealt with the adoption expense tax credit (the “AETC”), Justice Hogan summarized, as follows, some of the fundamental principles underlying various tax incentives, particularly tax credits, found in the ITA:
+29. The ITA provides for numerous tax incentives that are meant to encourage actions or activities that Parliament wishes to encourage because such actions or activities are perceived to be of social good or beneficial to society as a whole. This is particularly true for tax credits that are tailored to cover expenses incurred in connection with the type of actions or activities that Parliament seeks to promote. Tax credits incentivize activities or actions undertaken by taxpayers by focusing on expenses that they incur in connection therewith. Expenses that are not incurred for the favoured objective are excluded because they are inconsistent with the specific purpose of the incentive.[41]
+[73] At the trial level in Ali, Justice Woods (then a member of the Tax Court of Canada) made the following comments about the purpose and history of the METC:
+56. The medical expense tax credit is designed to recognize above average medical expenses by providing tax relief for eligible expenses. The genesis of the provision goes back to 1942 when a deduction in computing income was allowed for a limited number of medical expenses. The provision has since been changed from a deduction in computing income to a tax credit and the number of qualifying expenses have been greatly expanded…. [42] [Footnote omitted.]
+[74] In Zieber, which was one of the earliest published decisions of this Court concerning the availability of the METC in respect of surrogacy expenses, Deputy Judge Beaubier (as he then was) held that the transplant of a married couple’s embryo into a surrogate mother, so that the couple’s child could be born, constituted an organ transplant, for the purposes of paragraph 118.2(2)(l.1) of the ITA. He also held that, for the most part, the expenses in question (which related primarily to legal fees paid in respect of the preparation of a surrogacy agreement, travel expenses paid to enable the couple to attend surrogacy information sessions, and expenses paid for a pelvic ultrasound and prescriptions for the surrogate mother) “were incurred by the Appellant [i.e., Mr. Zieber] on behalf of the patient who required the organ transplant….”[43] Consequently, Deputy Judge Beaubier allowed Mr. Zieber’s claim for an METC.
+[75] In the Zieber case, the surrogate was not the spouse or common‑law partner, or a dependant, of the individual claiming the METC. Therefore, she did not come within the definition of “patient”, as set out in paragraph 118.2(2)(a) of the ITA. Hence, when Deputy Judge Beaubier referred to the surrogate as “the patient who required the organ transplant”, he was presumably using the word “patient” in a medical or clinical sense.
+[76] The decision in Zieber has not been followed in later cases. For instance, in Carlson, a case dealing with a claim for an METC in respect of the costs of fertility treatment and surrogacy, Justice Archambault dismissed the appellant’s claim for an METC, on the basis that an embryo is an organism, not an organ; the surrogate was not the appellant’s spouse or relative; and the surrogate did not require an organ transplant (which is a requirement under paragraph 118.2(2)(l.1) of the ITA).[44]
+[77] The AB case dealt with a married woman who received fertility treatment at clinics in the United States and Ukraine. The Crown conceded that the amounts paid by the appellant to the clinics qualified for the METC. However, the Crown submitted that the METC was not available in respect of the egg‑donor fees and transportation and accommodation expenses of the appellant and her husband. Justice Campbell held that a donor egg was not an organ, and that an egg donation was not an organ transplant.[45] Therefore, she declined to follow Zieber.
+[78] In Warnock, expenses were incurred by an appellant (a married woman) in respect of medical services provided to a surrogate, who was the appellant’s sister‑in‑law. Justice Woods (who was then a member of this Court) denied the claim for an METC, for several reasons, one of which was explained as follows:
+14. It is not necessary for purposes of this appeal to decide whether an embryo is an “organ.” The problem is that the person receiving the transplant is not the appellant but the surrogate. The surrogate is not a patient, as defined.
+15. Subsection 118.2(2)(l.1) requires that a “patient” need a transplant. The term “patient” is defined in s. 118.2(2)(a), above, to mean the individual who is claiming the tax credit, or a spouse or a dependant. In this case, it is the surrogate who received the transplant and she is not a “patient,” as required by s. 118.2(2)(l.1).[46]
+[79] It is clear that, in making the above comments, Justice Woods was using the word “patient” as having the meaning assigned by paragraph 118.2(2)(a) of the ITA, and not the meaning that might be attributed to that word in a medical or clinical context.
+(2) Charter Cases [80] In Auton, Chief Justice McLachlin stated:
+41. It is not open to Parliament or a legislature to enact a law whose policy objectives and provisions single out a disadvantaged group for inferior treatment…. On the other hand, a legislative choice not to accord a particular benefit absent demonstration of discriminatory purpose, policy or effect does not offend this principle and does not give rise to s. 15(1) review.
+42. If a benefit program excludes a particular group in a way that undercuts the overall purpose of the program, then it is likely to be discriminatory: it amounts to an arbitrary exclusion of a particular group. If, on the other hand, the exclusion is consistent with the overarching purpose and scheme of the legislation, it is unlikely to be discriminatory.[47]
+[81] In the Ali case, which I mention because it dealt with the METC, Justice Woods stated the following:
+85. The Law decision at para. 39 sets forth a general analytic framework which breaks down the requirements of s. 15(1) [of the Charter] into three elements: (1) differential treatment under the law; (2) on the basis of an enumerated or analogous ground; and (3) which constitutes discrimination.…
+105. As indicated in Martin, the Charter does not require that broadly‑based legislation take everyone’s needs into account.
+106. Although Parliament does not need to make an individualized assessment of needs, it is necessary for a court to look behind the words of the statute and ask whether the legislation has the effect of singling out a disadvantaged group….[48]
+[82] On the appeal of the Ali decision, the Federal Court of Appeal stated:
+12. … In Auton, the Supreme Court of Canada held that subsection 15(1) of the Charter will not be infringed where the benefit that is sought is not one that is provided by the law that is being challenged…. How then can it be discriminatory to deny the appellants a benefit (the METC … ) that no one gets?
+14. It is apparent from the passage [i.e., paragraph 41] in Auton that a legislative choice to accord a particular benefit under the legislation under consideration can potentially give rise to a valid claim that subsection 15(1) of the Charter has been infringed. Paragraph 42 of Auton informs that such an infringement can arise if the legislation discriminates directly, by adopting a discriminatory policy, or indirectly, by effect. With respect to the more difficult issue of discrimination by effect, the Supreme Court of Canada stated, in that paragraph, that the non-inclusion of a benefit is unlikely to be discriminatory if that non‑inclusion is consistent with the purpose and scheme of the relevant legislation….
+16. The matter of discrimination by effect requires a consideration of whether the non-inclusion of a particular benefit is consistent with the purpose and scheme of the impugned legislation….
+17. With respect to the legislative scheme at issue in this case, the definition of “medical expense” in subsection 118.2(2) of the ITA contains an enumeration of the specific types of costs that are eligible for the METC. This indicates a legislative purpose of limiting the availability of the METC to a specific list of items…. [T]he purpose and scheme of the METC legislation … is to only provide the METC in respect of specifically enumerated types of medical expenses and not with respect to all types of medical expenses.[49]
+[83] In Zanatta, an appeal that dealt with the 2012 taxation year,[50] the appellant claimed an METC in respect of fees paid to a surrogate to carry an embryo and to deliver a baby. The appellant made the argument described below:
+The appellant also argued that gay male couples are being discriminated against by the application of paragraph 118.2(2)(a) of the ITA. He said that they deserve the same treatment as heterosexual and gay female couples who have the opportunity of claiming the medical expense tax credit in respect of in‑vitro fertilization treatments. In his words, because gay male couples do not have ovaries to produce eggs and wombs in which to gestate a foetus, they must work with surrogates, which heterosexual and female gay couples do not have to do.[51]
+[84] Justice Lamarre (as she then was) dealt with the above argument, as follows:
+17. Surrogacy fees are consistently non-deductible for anyone, whether heterosexual couples, female gay couples or male gay couples.
+18. In both Warnock, supra, and Carlson, supra, it was a heterosexual couple who paid for the services of a surrogate mother (in Warnock, the taxpayer, and in Carlson, the taxpayer’s wife, being women with infertility problems and unable to carry a child).
+19. In Ismael v. The Queen, 2014 CarswellNat 1817, 2014 DTC 1140, 2014 TCC 157, the female taxpayer underwent in-vitro fertilization using an egg provided by an egg donor, which, after being fertilized, was implanted into her body. All expenses related to the egg donor fees were disallowed.
+20. These are examples of cases where a woman (either the taxpayer or the taxpayer’s wife), because of infertility, required the services of either a surrogate or an egg donor in order to have a child and where the taxpayers [were] not allowed to deduct the surrogacy or the egg donor fees.
+21. The three cases referred to above show that, regardless of gender or sexual orientation, no one can deduct surrogacy fees under paragraph 118.2(2)(a). The burden imposed by the law on male gay couples is no greater than that imposed on anyone else.[52]
+[85] Justice Lamarre concluded that paragraph 118.2(2)(a) of the ITA did not infringe section 15 of the Charter.[53]
+[86] The Supreme Court has recognized that, where there is systemic inequality, section 15 of the Charter does not impose an obligation on a government to redress social inequalities. Likewise, the Charter recognizes that governments may act incrementally in addressing inequality. In this regard, in Alliance, Justice Abella stated:
+The result of finding that [certain legislative] amendments breach s. 15 in this case is not … to impose a freestanding positive obligation on the state to enact benefit schemes to redress social inequalities. Nor does it [i.e., section 15] undermine the state’s ability to act incrementally in addressing systemic inequality.[54]
+[87] About two years later, in Fraser, Justice Abella said the following about adverse impact discrimination:
+It is helpful to start by defining the concept [i.e., adverse impact or systemic discrimination]. Adverse impact discrimination occurs when a seemingly neutral law has a disproportionate impact on members of groups protected on the basis of an enumerated or analogous ground…. Instead of explicitly singling out those who are in the protected groups for differential treatment, the law indirectly places them at a disadvantage….[55]
+[88] Justice Abella described the test for proving a violation of section 15 of the Charter in these terms:
+In sum, then, the first stage of the s. 15 test is about establishing that the law imposes differential treatment based on protected grounds, either explicitly or through adverse impact. At the second stage, the Court asks whether it has the effect of reinforcing, perpetuating, or exacerbating disadvantage….[56]
+[89] In the 2022 Sharma decision, the Supreme Court of Canada described the test for assessing a claim under section 15 of the Charter in these terms:
+28. The two‑step test for assessing a s. 15(1) claim is not at issue in this case. It requires the claimant to demonstrate that the impugned law or state action:
+(a) creates a distinction based on enumerated or analogous grounds, on its face or in its impact; and
+(b) imposes a burden or denies a benefit in a manner that has the effect of reinforcing, perpetuating, or exacerbating disadvantage….[57]
+[90] Justice Brown and Justice Rowe then went on to state the following:
+40. We start with the difference between impact and disproportionate impact. All laws are expected to impact individuals; merely showing that a law impacts a protected group is therefore insufficient. At step one of the s. 15(1) test, claimants must demonstrate a disproportionate impact on a protected group, as compared to non-group members. Said differently, leaving a gap between a protected group and non-group members unaffected does not infringe s. 15(1).
+41. The disproportionate impact requirement necessarily introduces comparison into the first step. As McIntyre J. explained in Andrews: “[Equality] is a comparative concept, the condition of which may only be attained or discerned by comparison with the condition of others in the social and political setting in which the question arises”…. This Court no longer requires a “mirror comparator group”…. However, Withler confirms that comparison plays a role at both steps of the s. 15(1) analysis. At the first step, the word “distinction” itself implies that the claimant is treated differently than others, whether directly or indirectly….[58]
+C. Availability of METC
+(1) Definition of “Patient” [91] As noted above,[59] flanked by a pair of parentheses and buried within paragraph 118.2(2)(a) of the ITA, lurks a definition of the word “patient”. The definition is perhaps more akin to an abbreviation.
+[92] In drafting the parenthetical phrase in paragraph 118.2(2)(a), Parliament selected the word “patient” as a “short‑hand” way to refer to a person who is “the individual, the individual’s spouse or common‑law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred” (which is a lengthy phrase worthy of a one‑word abbreviation). In so using the word “patient”, Parliament merely designated the abbreviation that it had chosen to use in subsection 118.2(2) to refer to the persons to whom the medical or dental services had to be provided, in order to qualify for the METC. In particular, Parliament specified that those services had to be provided to the individual taxpayer who was claiming the METC, or to a person with a designated relationship to that taxpayer.
+[93] The precision of the meaning of the term “patient”, as defined in paragraph 118.2(2)(a) of the ITA, applies in respect of all medical expenses, and not just those pertaining to fertility treatment, egg donation or surrogacy. In Calek,[60] a taxpayer claimed the METC in respect of certain expenditures that, according to him, he had incurred in the context of health‑related concerns experienced by his adult daughter, who was a single mother and a registered nurse, with a full‑time nursing position, as well as a part‑time position. One of the issues in that appeal was whether the daughter came within the statutory definition of “patient”, which includes “a dependant of the individual (within the meaning assigned by subsection 118(6)”.
+[94] For the purposes of the Calek appeal, the relevant portion of the definition of “dependant” in subsection 118(6) of the ITA read as follows:
+… “dependant”, of an individual for a taxation year, means a person who at any time in the year is dependent on the individual for support and is
+(a) the child or grandchild of the individual or of the individual’s spouse or common-law partner….
+[95] Justice Hershield determined that, for the purposes of the above definition, dependency referred to “levels of subsistence not levels of maintenance of lifestyle.” After reviewing the daughter’s employment and financial situation, and considering the whole of her relationship with her parents, Justice Hershfield concluded that she was not dependent on her father for support. Therefore, she did not come within the definition of “dependant”, nor did she come within the definition of “patient”.
+[96] The Federal Court of Appeal, in brief reasons,[61] upheld Justice Hershfield’s dismissal of the father’s claim for the METC.
+[97] The Calek case illustrates that it is necessary to satisfy the definition of “patient” in order to qualify for the METC, even where there is a close familial relationship between the taxpayer (i.e., the individual who is claiming the METC) and the person who has received the medical treatment. In fact, in 2015, the statutory definition of “patient” required such a relationship (unless the METC claimant and the treatment recipient were the same individual).
+[98] The parenthetical phrase in paragraph 118.2(2)(a) does not define the word “patient” for medical or clinical purposes. Rather, that phrase defines the word “patient” only for the purposes of subsection 118.2(2) and a few other specified provisions of the ITA, such as subsection 118.2(2.2). Where a person is a patient, in a medical or clinical context, of a healthcare practitioner, who is paid by a particular individual, for the healthcare services provided by the practitioner to that person, in order for the individual to claim an METC in respect of the expenses pertaining to those services, that person must also be a “patient”, within the meaning assigned by the parenthetical definition in paragraph 118.2(2)(a).
+[99] Neither the woman who donated the eggs for fertilization by Mr. McNeilly’s sperm, nor the surrogate who carried the resultant embryo, was the spouse, common‑law partner or dependant of Mr. McNeilly. Therefore, neither the egg donor nor the surrogate was a patient for the purposes of subsection 118.2(2) of the ITA. Accordingly, based on this application of the definition of “patient”, the METC was unavailable to Mr. McNeilly, in respect of treatments, procedures, other services or medications provided to, or in respect of, the egg donor or the surrogate.
+[100] The above conclusion is supported by the Carlson, Warnock, Zanatta and Pearen cases, which are discussed above.[62]
+[101] However, as submitted by Mr. McNeilly, the above analysis is not the only way to interpret the statutory definition of “patient”.
+[102] Mr. McNeilly makes the argument that the definition of “patient” in paragraph 118.2(2)(a) includes an intended parent when that individual is assisted by an egg donor or a gestational surrogate. In other words, Mr. McNeilly argues that he was the patient in respect of the medical services that were rendered to, or were performed in respect of, the egg donor and the surrogate.
+[103] During the course of the trial, I pointed out that paragraph 118.2(2)(a) refers to “medical … services provided to a person”, who is parenthetically defined as the “patient”. I then suggested to counsel for the Crown that we sometimes speak of a service as being provided to a person if that person is contractually obligated to pay for the service on behalf of someone else (such as a child of that person).[63] Taking this approach, it might be arguable that, because Mr. McNeilly was contractually obligated to pay for Create’s services and Kiran’s services, it follows that Create and Kiran provided those services to him.
+[104] However, having thought further about the matter, and having scrutinized section 118.2 of the ITA more closely, I am not persuaded that the above approach is the preferred approach in respect of the METC. Rather, based on the textual analysis set out below, I prefer a narrower approach.
+[105] In examining the text of section 118.2 of the ITA, while considering Mr. McNeilly’s argument, I noted that the section uses both the words “individual” and “person”. The word “individual” is used when referring to:
+(a)the human being whose tax payable is being computed and who may claim the METC (see the opening lines of subsection 118.2(1)), and
+(b)the human being who paid the medical expenses (see the first line of the definition of factor B in the formula in subsection 118.2(1), the first line of paragraph (d) of that definition of factor B, and the opening lines of subsection 118.2(2)).
+The word “person” is used when referring to:
+(a)the human being in respect of whom the medical expenses were incurred (see the concluding portion of paragraph (d) of the definition of factor B in the formula in subsection 118.2(1)), and
+(b)the human being to whom the medical services were provided, and who is defined as the “patient”, provided that the other requirements are also satisfied (see paragraph 118.2(2)(a)).
+[106] Based on Parliament’s differentiation, as noted above, between an individual and a person, I am now of the view that, in section 118.2 of the ITA, the word “person” refers to the human being who is actually being treated by the medical practitioner, and not to the human being who pays, or who is obligated to pay, for that treatment (unless that human being is also the human being who is being treated).
+[107] Thus, for a human being to be a “patient”, as defined in paragraph 118.2(2)(a), the human being must be both:
+(a)the person who is being treated by the medical practitioner, and
+(b)either the individual who is claiming the METC, or a person who is the spouse, common‑law partner or dependant (within the specified degree of proximity and dependency) of that individual.[64]
+[108] Dr. Kimberly Liu, an expert witness called by Mr. McNeilly, answered several questions posed to her by Mr. McNeilly’s counsel, including the question, “Who is the patient?”. In her expert report, Dr. Liu described the basis of her opinion (i.e., her answer to that question), as follows:
+In order to answer the question, “Who is the patient?”, I have provided my opinion based on whom the procedures are performed on, who is required to provide consent for the procedure, and whether the procedure is a component of a larger treatment plan and who is involved in that treatment plan.[65]
+[109] In her report, under the heading “Whom is the expense for (who is the patient)?”, in the context of frozen embryo transfer (FET) and laser assisted hatching, Dr. Liu stated:
+If the embryo transfer and laser assisted hatching were performed on the embryo created with Ken’s [i.e., Mr. McNeilly’s] sperm for the purpose of a pregnancy conceived for him, Ken was the patient. In addition, the embryo was transferred to the gestational surrogate. Therefore, for this procedure, there are two patients. The gestational surrogate was undergoing the procedure of the embryo transfer with the intention to carry a pregnancy for Ken. The treatment would require consent from both the gestational surrogate and the intended parent, Ken. In addition, the embryo would be part of Ken’s medical chart and its use would only be permitted with Ken’s consent.[66]
+[110] In her expert report, Dr. Liu goes on to consider “who is the patient?” in respect of 11 other procedures. It is not necessary to go through each of those comments in these Reasons.
+[111] During her oral testimony, Dr. Liu confirmed that, at her clinic, Mount Sinai Fertility, an intended parent is considered to be a patient.[67]
+[112] I accept Dr. Liu’s opinion that Mr. McNeilly was the patient in the context of many of the procedures, tests and other services that she considered, and that were performed by Create or Kiran, but I limit that opinion to a medical or clinical context. I do not consider Dr. Liu’s opinion to be applicable to the issue of whether Mr. McNeilly was a patient for the purposes of section 118.2 of the ITA. The concepts of intended parent, consent and charting, while important for medical and clinical purposes, are not mentioned in, and do not form part of, the statutory definition of the word “patient”, as set out in paragraph 118.2(2)(a) of the ITA.
+[113] I have also reviewed the text of the specific legislative provisions that pertain to the medical services, procedures and medications that are the subject of this Appeal and that set out the link between the particular medical service, procedure or medication and the applicable patient. Those provisions are set out below:
+(a)Paragraph 118.2(2)(a) of the ITA refers to “medical … services provided to a person (in this subsection referred to as the “patient”)….”
+(b)Clause 118.2(2)(n)(i)(B) of the ITA refers to medications[68] “that can lawfully be acquired for use by the patient only if prescribed by a medical practitioner….”
+(c)Paragraph 118.2(2)(o) of the ITA refers to laboratory and other procedures or services, for various health-related purposes, “for the patient as prescribed by a medical practitioner….”
+(d)Section 5701 of the ITR refers to a medication[69] that “is prescribed for a patient by a medical practitioner” and that “may … be lawfully acquired for use by the patient….”
+[114] Note that the above four legislative provisions indicate that the medical services must be provided (within the narrow approach that I have identified) to the patient, the medications must be prescribed for use by the patient, and the laboratory procedures must be for the patient. To be a patient for the purposes of subsection 118.2(2), Mr. McNeilly would need to satisfy those requirements.
+[115] To summarize, and to reiterate, for the purposes of subsection 118.2(2) as a whole (i.e., in considering all of the paragraphs in that subsection), in order for a particular person to be a “patient”, as defined in paragraph 118.2(2)(a) of the ITA, the person must be both:
+(a)the person who is treated, or cared for, by a medical practitioner, caregiver or other healthcare provider; the person who is transported in an ambulance or by other means of transportation; the person for, or in respect of whom, specified medical devices and other specified items are acquired; the person for whom specified medications are prescribed and by whom those medications are to be used; or the person for whom specified laboratory or diagnostic procedures are intended;[70] and
+(b)a person who is either:
+the individual who is claiming the METC; or
+that individual’s spouse or common‑law partner, or a dependant (as described in subsection 118(6) of the ITA) of that individual.
+[116] In the context of the medical expenses that the Crown disallowed, because they were treatments, procedures or other services performed on, or in respect of, or were medications prescribed for, and used by, an egg donor, the Ottawa Surrogate or the Kiran Surrogate, Mr. McNeilly did not come within, or satisfy the requirements of, paragraph 118.2(2)(a), (n) or (o) of the ITA or section 5701 of the ITR, as the case may have been, because those treatments, procedures or other services were not performed on, or in respect of, him, and any medications were not prescribed for, or used by, him. In other words, in the context of the egg‑donor and surrogacy expenses, Mr. McNeilly was not a patient (as defined in paragraph 118.2(2)(a) of the ITA), even though he was a patient within the terminology used by Dr. Liu in a medical or clinical context.
+[117] To conclude the discussion of “patient”, as has already been indicated above, to the extent that the disallowed treatments, procedures, other services or medications were performed on, or in respect of, or prescribed for, and used by, an egg donor or either of the surrogates, neither the donor nor the surrogate was a patient (as defined in paragraph 118.2(2)(a)), because neither had the requisite relationship with Mr. McNeilly.
+(2) Requirement of an Existing Illness or Condition [118] In paragraph 1.27 of Income Tax Folio S1-F1-C1, the CRA stated:
+Payments to medical practitioners are considered eligible medical expenses where they are paid for medical services or procedures that relate to existing illnesses or conditions.[71]
+[119] Paragraph 118.2(2)(a) of the ITA does not contain any requirement similar to that set out above. However, paragraphs 118.2(2)(n) and (o) do contain provisions that are somewhat similar to the above administrative requirement. In particular, clause 118.2(2)(n)(i)(A) requires that the intended use of a particular drug, medicament, preparation or substance must be “the diagnosis, treatment or prevention of a disease, disorder or abnormal physical state, or its symptoms,” or that it be intended for use “in restoring, correcting or modifying an organic function”. Similarly, paragraph 118.2(2)(o) states that the particular laboratory, radiological or other diagnostic procedures or services must be “for maintaining health, preventing disease or assisting in the diagnosis or treatment of any injury, illness or disability”.
+(a) Medication or Services Provided to the Egg Donor or the Surrogate [120] Paragraphs 118.2(2)(a) and (o) and subparagraph 118.2(2)(n)(i) each indicate that the particular medical service, medication or procedure must be provided to, or be for the use of, a patient (i.e., the individual claiming the METC or a spouse, common‑law partner or specified dependant of that individual). As I have already determined that the egg donor and the surrogate did not come within the statutory definition of “patient”, it is not necessary for me to determine whether an existing illness, disease or condition is a requirement of paragraphs 118.2(2)(a) and (o) and subparagraph 118.2(2)(n)(i), in respect of any services, medication or procedure provided to the egg donor or the surrogate. Accordingly, I decline to make that determination.
+[121] Subparagraph 118.2(2)(n)(ii) does not contain the word “patient”, and thus, does not itself indicate that the particular medication must be for use by the individual claiming the METC or by a spouse, common‑law partner or specified dependant of that individual. However, that subparagraph applies only to medications that are prescribed by regulation. As noted above, the applicable regulation is section 5701 of the ITR. Both paragraphs 5701(b) and (c) of the ITR make it clear that the particular medication must be prescribed for, and acquired for use by, a patient (i.e., the individual claiming the METC or by a spouse, common‑law partner or specified dependant of that individual). Again, as I have already determined that the egg donor and the surrogate did not come within the statutory definition of “patient”, it is not necessary for me to determine whether an existing illness, disease or condition is a requirement of subparagraph 118.2(2)(n)(ii), insofar as services or medication provided to them are concerned. Accordingly, I decline to make that determination.
+(b) Medication or Services Provided to Mr. McNeilly as a Patient [122] To the extent that Create or Kiran provided any medication, laboratory services or other services to Mr. McNeilly personally or in respect of his sperm, the conditions specified in clause 118.2(2)(n)(i)(A) or paragraph 118.2(2)(o) of the ITA or in section 5701 of the ITR, as the case may have been, needed to be satisfied, in order for him to qualify for the METC in respect of the medication or services.
+[123] A long line of cases in this Court has established that the phrase “is recorded by a pharmacist” (or, as the provision formerly read, “as recorded by a pharmacist”) is an essential element of paragraph 118.2(2)(n) of the ITA. In Ray, Justice Sharlow listed some of those cases,[72] before going on to say:
+… it is not open to … the Tax Court, to disregard statutory requirements imposed by Parliament, even if they are difficult to rationalize on policy grounds. It is for Parliament alone to determine whether the words "as recorded by a pharmacist" should be removed from paragraph 118.2(2)(n).[73]
+[124] Similarly, in deciding this Appeal, it is not open to me to disregard the requirements imposed by paragraphs 118.2(2)(n) and (o) of the ITA, which specify that the METC is available only if the particular medication or service is administered or performed where, broadly speaking, there is an existing illness or condition.
+[125] In the context of the Charter, the Federal Court of Appeal has indicated in the Ali and Tall cases[74] that the specific requirements of paragraph 118.2(2)(n) are consistent with the “legislative purpose of limiting the availability of the METC to a specific list of items.” [75]
+[126] Accordingly, to the extent that Mr. McNeilly has not satisfied the specific requirements of paragraphs 118.2(2)(n) and (o) of the ITA, the METC is not available in respect of any medication, laboratory procedures or other services that would otherwise be described in those paragraphs.
+(3) Documentation of the Expenses [127] The formulaic rules for the computation of an individual’s METC are set out in subsection 118.2(1) of the ITA. Paragraph (a) in the definition of factor B in the formula in subsection 118.2(1) refers to the individual’s medical expenses “that are evidenced by receipts filed with the Minister.”
+[128] In the original invoice or billing document provided by Kiran to Mr. McNeilly, Kiran charged a lump-sum amount, US$53,000, which was not allocated among the various services, medications and other items that were provided. As advised by his accountant, Mr. McNeilly created an itemized list of expenses, based on items set out in Kiran’s advertising materials. As those materials did not allocate prices to specific items, Mr. McNeilly estimated an amount for each item, based on his experience with Create. The amount billed by Kiran included an additional charge of US$8,000 for twins. Using an estimate, Mr. McNeilly allocated the US$8,000 among the various line items.[76]
+[129] Mr. McNeilly then sent the invoice that he had created to Kiran.[77] Kiran’s business manager signed and stamped the invoice.
+[130] Given the manner in which the document purporting to be Kiran’s invoice was prepared, apart from the total amount charged, I have reservations about the document’s accuracy, particularly insofar as the allocation of the total price among the various line items is concerned.
+[131] In her expert report, Dr. Liu expressed an opinion as to the reasonableness of the estimated amounts allocated by Mr. McNeilly to the various procedures and other services shown on the invoice drafted by Mr. McNeilly for the business manager of Kiran to sign. While I do not disagree with Dr. Liu’s opinion in this regard, that opinion does not mean that Kiran actually charged those amounts for the respective services, nor does it satisfy the above statutory requirement that the expenses be evidenced by receipts filed with the Minister.
+D. Public Interest Standing
+[132] At the trial of this Appeal, Mr. McNeilly sought public interest standing to argue that the statutory definition of “patient” violated the Charter on the basis of physical disability (in addition to the basis of sexual orientation). If granted such standing, Mr. McNeilly’s argument (as I understand it) would be, briefly, that the METC provisions in the ITA discriminate against people with reproductive disorders, on the basis of their physical disability.
+[133] The Tax Court of Canada (the “TCC”) is a superior court of record, established by the Tax Court of Canada Act (the “TCCA”), [78] under the authority of section 101 of the Constitution Act, 1867. As a statutory court, even though it is a superior court of record, the TCC does not have a jurisdiction equivalent to that of a superior court of a province.[79] In particular, a statutory superior court, such as the TCC, is not the same as a provincial superior court, and does not have an inherent jurisdiction,[80] nor does it have a residual jurisdiction for matters not assigned to it by statute.[81]
+[134] The jurisdiction of the TCC, which is limited, is set out primarily in section 12 of the TCCA.[82] The TCC has exclusive original jurisdiction to hear and determine:
+(a)references and appeals to the TCC on matters arising under the statutes named in subsection 12(1) of the TCCA, including the ITA, when references or appeals to the TCC are provided for in those statutes;
+(b)appeals on matters arising under the statutes named in subsection 12(2) of the TCCA;
+(c)questions referred to the TCC under the statutory provisions described in subsection 12(3) of the TCCA;
+(d)applications for extensions of time under the statutory provisions described in subsection 12(4) of the TCCA; and
+(e)applications by a registered charity under subsection 188.2(4) of the ITA.
+[135] In other words, for the most part, “the jurisdiction of this Court is limited to appeals from an assessment.”[83]
+[136] Subsection 169(1) of the ITA provides that, where certain conditions are met, a taxpayer may appeal to the TCC to have an assessment varied or vacated. In 3488063 Canada Inc., the Federal Court of Appeal stated that “an appeal to the Tax Court of Canada is an appeal in relation to a particular assessment.”[84] In other words, the subject matter of an appeal under the ITA is the assessment of the appellant in that appeal, and not an assessment of a third party who is not before the Court. The Court does not have jurisdiction to consider whether a non‑litigant third party is entitled to a tax credit (be it the METC, the AETC or some other tax credit), or to determine whether that third party may have, because of a discriminatory legislative provision, been denied that credit.
+[137] Subsection 171(1) of the ITA states that the TCC may dispose of an appeal by:
+(a)dismissing it; or
+(b)allowing it, and
+vacating the assessment,
+varying the assessment, or
+referring the assessment back to the Minister for reconsideration and reassessment.
+[138] Thus, without there first being an assessment of tax under the ITA, there can be no appeal under the ITA to the TCC, nor can the TCC provide any relief. Furthermore, each assessment requires its own appeal, and each appeal requires a notice of appeal (although a notice of appeal may refer to more than one assessment and one appeal).[85]
+[139] Counsel for Mr. McNeilly did not provide any indication that the people with reproductive disorders, for whom Mr. McNeilly is seeking public interest standing, have received from the Minister an assessment of tax that they desire to put before this Court. Nor was I advised of any people with reproductive disorders who had filed a notice of appeal in this Court. Without such an assessment, and without a notice of appeal, this Court does not have jurisdiction.
+[140] Accordingly, I decline to grant the public interest standing requested by Mr. McNeilly.
+E. Section 15 Analysis
+[141] The issue in this Appeal is not whether the ITA should have been drafted in such a manner as to make the METC available for unrelated‑egg‑donor expenses and unrelated‑surrogacy expenses incurred in 2015. That was a matter for Parliament to decide. Rather, the issue is whether Parliament’s decision not to extend the METC to unrelated‑egg‑donor expenses and unrelated surrogacy expenses incurred in 2015 “amounted to an unequal and discriminatory denial of benefits under [section 118.2 of the ITA], contrary to s. 15 of the Charter.”[86]
+(1) Direct Discrimination [142] As explained in Sharma, the first step of the section 15 test requires a claimant “to demonstrate a disproportionate impact on a protected group, as compared to non-group members.”[87] Even though a court no longer looks at a “mirror comparator group”, “comparison [still] plays a role at both steps of the s. 15(1) analysis.”[88] Thus, it is necessary to determine whether “the claimant is treated differently than others, whether directly or indirectly”.[89]
+[143] As noted above, in 2015, no taxpayer was entitled to the METC in respect of expenses related to egg donation or gestational surrogacy, in circumstances where the egg donor or surrogate (or both) was (or were) not the spouse, common‑law partner or dependant of the taxpayer.
+[144] As Justice Lamarre pointed out in Zanatta, in the then previous cases dealing with egg donors and surrogates, the METC was not available “for anyone, whether heterosexual couples, female gay couples or male gay couples.”[90] Specifically, in each of Carlson[91] and Ismael[92] (also known as AB[93]), the METC was not available in the context of a heterosexual married couple. In Warnock,[94] the METC was not available in the context of a married couple (while the taxpayer was a woman, the gender of her spouse was not indicated).
+[145] Mr. McNeilly has not established that there was a distinction (of the type contemplated by the first step of the subsection 15(1) test) between the impact of subsection 118.2(2) on him, and the impact of subsection 118.2(2) on any other taxpayer.
+[146] As no one was entitled, in 2015, to the METC in circumstances involving an unrelated egg donor or surrogate, Mr. McNeilly was not treated differently than other taxpayers. Accordingly, he was not denied the equal protection of the law.
+[147] As the first step of the subsection 15(1) test has not been satisfied, there is no need to consider the second step of that test. Nevertheless, I will make a few comments below about the history, context, purpose and scheme of the METC.
+(2) Indirect Discrimination or Discrimination by Effect [148] As was stated by the Federal Court of Appeal in Ali, the question of whether there has been “discrimination by effect requires a consideration of whether the non-inclusion of a particular benefit [in this case, an METC in 2015 for expenses incurred in respect of fertility treatment and surrogacy] is consistent with the purpose and scheme of the impugned legislation [in this case, paragraph 118.2(2)(a), (n) and (o) of the ITA].”[95]
+[149] The METC was introduced in 1988, when Parliament replaced the group of deductions from income with a new system of tax credits. In particular, the METC replaced the medical-expense-deduction system in former paragraph 110(1)(c) of the ITA.
+[150] Former subsection 110(1) contained various paragraphs providing for deductions, in computing taxable income, for a variety of expenditures, such as charitable gifts, medical expenses and educational expenses. In 1988, those and other former deductions (such as personal deductions) were replaced with tax credits, which were grouped together in new sections 118 through 118.7 (and were supplemented with rules in new sections 118.8 through 118.94, dealing with things such as the transfer of unused credits to a spouse, and the ordering of credits).
+[151] Each of the new sections was precisely and meticulously drafted, setting out numerous distinctions. For instance, new section 118.1 indicated that a gift to any generic charity would not necessarily qualify for a tax credit; rather the gift had to be given to a registered charity. In addition, the first $250 of a taxpayer’s gifts in a year to a registered charity or other entity listed in the definition of “total charitable gifts” qualified for a different tax credit rate than gifts in that year in excess of that threshold (which, incidentally, has now been reduced to $200). As another example, the rules for the education credit in new section 118.6 distinguished between universities outside Canada and universities, colleges and other educational institutions in Canada.
+[152] Former paragraph 110(1)(c) of the ITA (as it read in 1987) provided a deduction, in computing a taxpayer’s income, of an amount equal to a specified portion (in excess of a stipulated threshold) of the medical expenses paid for, or in respect of, various medical services, care, procedures, medications and other listed healthcare items. The expenditures that qualified for the deduction were listed and described in 13 subparagraphs within paragraph 110(1)(c). Each of those subparagraphs specified certain requirements or conditions that needed to be satisfied to qualify for the deduction.
+[153] When subsection 118.2 was enacted, subsection (2) thereof contained 17 paragraphs, ranging from paragraph (a) to paragraph (q). As Justice Woods noted in Ali,[96] since 1988, the list of expenses that qualify for the METC has expanded on a regular (and I might add, incremental) basis. Subsection 118.2(2) now contains 41 paragraphs, ranging from paragraph (a) to paragraph (v), with numerous peculiarly numbered paragraphs, such as paragraphs (b.1), (l.1), (l.21) and (l.92), interspersed within that subsection. Like the subparagraphs in former paragraph 110(1)(c), the paragraphs of subsection 118.2(2) specify certain requirements or conditions that must be satisfied to qualify for the METC.
+[154] Thus, the number of eligible medical expenses has increased over the years, and continues to increase. For instance, listed below are only some of the more recent additions to the list of eligible expenses:
+(a)For taxation years after 2002, Parliament added paragraph 118.2(2)(r) to the ITA. This paragraph provided that the incremental cost of acquiring specified gluten‑free food products for a patient who suffers from celiac disease is a qualifying medical expense.
+(b)For taxation years after 2004, Parliament added paragraph 118.2(2)(u) to the ITA. This paragraph provided that, in specified circumstances, the cost of cannabis (described in the statutory marginal note as medical marijuana) is a qualifying medical expense. This provision has undergone several amendments since 2004.
+(c)As already noted, for taxation years after 2016, Parliament added subsection 118.2(2.2) to the ITA. This subsection provided that the cost of specified fertility treatments (such as in-vitro fertilization) is, in specified circumstances, a qualifying medical expense.
+(d)Again as already noted, for taxation years after 2021, Parliament added paragraph 118.2(2)(v) and subsection 118.2(2.21) to the ITA. Paragraph 118.2(2)(v) provided that, in specified circumstances, the cost to obtain sperm or ova to enable the conception of a child is a qualifying medical expense. Subsection 118.2(2.21) provided that, in specified circumstances, surrogacy expenses incurred in Canada are a qualifying medical expense.
+[155] The ongoing evolution of section 118.2 of the ITA has not always been expansive. For instance, in 2010, Parliament enacted subsection 118.2(2.1), so as to stipulate that, for expenses incurred after March 4, 2010, the cost of medical or dental services provided purely for cosmetic purposes would no longer qualify for the METC, unless necessary for medical or reconstructive purposes.
+[156] An analysis of the numerous qualifying medical expenses described in section 118.2 of the ITA confirms one of Parliament’s purposes, insofar as healthcare expenses are concerned. As Justice Ryer noted in Ali, the “enumeration of the specific types of costs that are eligible for the METC ... indicates a legislative purpose of limiting the availability of the METC to a specific list of items.”[97]
+[157] Justice Woods, as the trial judge in Ali, said something similar:
+112 The list of expenses that qualify for the tax credit is long and it is expanded on a regular basis. This seems to reflect a commitment by Parliament to be responsive to the medical needs of taxpayers.
+113 On the other hand, the decision to list specific qualifying expenses in s. 118.2(2) rather than making all medical expenses eligible has the result that some taxpayers will incur reasonable medical expenses that do not qualify. I think that this result is intended. Parliament has decided that it is not appropriate to allow tax relief for all medical expenses incurred either at the discretion of the taxpayer or even on the advice of a medical practitioner.[98]
+[158] Thus, Parliament’s actions over the years with respect to medical expenses in general, including those pertaining to fertility treatment, egg donation and surrogacy, are in keeping with “the state’s ability to act incrementally”.[99]
+[159] Accordingly, I am of the view that the unavailability, to Mr. McNeilly, of the METC for the egg donor, surrogacy and some other fertility expenses incurred by him in 2015 was consistent with the purpose and scheme of the ITA.
+F. Reasonable and Demonstrably Justifiable Limit
+[160] As I have concluded that, in 2015, the impugned provisions of subsection 118.2(2) of the ITA did not infringe section 15 of the Charter, it is not necessary for me to consider the condition set out in section 1 of the Charter.
+VI. CONCLUSION
+[161] For the reasons discussed above, including the Crown’s concession in respect of the expenses of DNA Fragmentation, the Appeal is allowed, and the Reassessment is referred back to the Minister for reconsideration and reassessment on the basis that Mr. McNeilly is entitled to the METC, but only to the extent conceded by the Crown. For greater certainty, the METC is not available with respect to the expenses pertaining to the medical services, procedures, care, medications and other items or services provided to, or in respect of, the egg donors, the Ottawa Surrogate or the Kiran Surrogate.
+[162] In accordance with an agreement reached by the parties, as well as a previous Order of this Court,[100] the parties will bear their own costs.
+Signed at Ottawa, Canada, this 18th day of December 2024.[101]
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+SCHEDULE A
+Create Invoices
+Invoice date
+Description on invoice
+Price per Unit (CAD)
+Units
+Amount (CAD)
+CRA’s reason for disallowance
+March 11, 2015
+FET[102] with laser assisted hatching
+1,750
+1.00
+1,750.00
+No patient
+FET — 50% off procedure
+(875.00)
+1.00
+(875.00)
+No patient
+Coordination Previous GEST[103]
+950.00
+1.00
+950.00
+No patient
+April 22, 2015
+DNA Fragmentation
+175.00
+1.00
+175.00
+Not in issue
+May 26, 2015
+Out of Country — Releasing
+500.00
+1.00
+500.00
+Lab or admin
+May 26, 2015
+Short Term Sperm Storage
+150.00
+1.00
+150.00
+Lab procedure
+May 28, 2015
+Short Term Sperm Storage
+150.00
+1.00
+150.00
+Lab procedure
+June 1, 2015
+Short Term Sperm Storage
+150.00
+1.00
+150.00
+Lab procedure
+Total
+2,950.00
+SCHEDULE B
+Kiran Charges
+Item No.
+Year
+Expense Claimed
+USD
+CRA’s reason for disallowance
+1.
+2015
+Sperm washing and analysis of IVF
+500.00
+Lab procedure
+2.
+2015
+Egg donor medical consultations, shots, scans, all necessary procedures
+2,000.00
+No patient
+3.
+2015
+Egg retrieval (medical clinic, doctors, surgeons, specialist, products, etc.)
+3,000.00
+No patient
+4.
+2015
+Egg donor post‑operative care
+1,000.00
+No patient
+5.
+2015
+ICSI[104]
+3,000.00
+Lab procedure
+6.
+2015
+Embryo tests and embryo processing
+5,000.00
+Lab procedure
+7.
+2015
+Embryo freezing and storage
+500.00
+Lab procedure
+8.
+2015
+Psychological screening for gestational surrogate
+500.00
+No patient
+9.
+2015
+Surrogate medications and all necessary tests prior to embryo transfer
+2,000.00
+No patient
+10.
+2015
+IVF procedure (clinic, doctors, specialist, products and medicine)
+4,000.00
+Lab procedure (or no patient)
+11.
+2015
+Embryo transfer
+2,000.00
+No patient
+12.
+2015
+Surrogate post embryo transfer care
+500.00
+No patient
+Total
+$24,000
+CITATION:
+2024 TCC 162
+COURT FILE NO.:
+2017-2700(IT)G
+STYLE OF CAUSE:
+KENNETH MCNEILLY v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+December 4‑8, 2023, December 11 and 13, 2023, January 18, 2024 and February 15‑16, 2024, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+December 18, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Adam Goldenberg
+Sajeda Hedaraly
+Pierre‑Gabriel Grégoire
+Safia Thompson
+Counsel for the Respondent:
+Arnold H. Bornstein
+Hye‑Won (Caroline) Ahn
+Kieran Woods
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Goldenberg
+Firm:
+McCarthy Tétrault LLP Suite 5300, P.O. Box 8 Toronto Dominion Bank Tower Toronto, Ontario M5K 1E6
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Signed pursuant to a written request and authorization issued by Chief Justice St‑Hilaire under section 16 of the Tax Court of Canada Act.
+[2] Income Tax Act, RSC 1985, c. 1 (5th Supplement), as amended. Unless otherwise stated, statutory references in these Reasons refer to the ITA.
+[3] Exhibit AR-1. There were no tabs, dividers, labels or other indicators to identify the various exhibits in my copy of the PASOF. However, all the pages in the booklet, including the exhibits, were numbered consecutively. To avoid confusion, when referring to specific exhibits in the PASOF (i.e., Exhibit AR-1), I will refer to those internal exhibits by the applicable tab designations, even though not all copies of Exhibit AR-1 contain actual tabs.
+[4] For the purposes of this Appeal, as far as terminology is concerned, several similar terms were used, not always with precise differentiation (which is not unusual, as many words have multiple meanings, and some pairs or groups of words or terms have overlapping meanings). I understand the term “surrogate” generally to refer to a woman who carries a pregnancy for the purpose of having a child to be raised by someone else, and the term “gestational surrogate” to refer to a surrogate whose eggs are not used in the creation of an embryo or embryos (see the Respondent’s Submissions (Redacted), dated February 14, 2024 (herein called the “Crown’s Submissions”)), p. 2-3, ¶8. As an indication of the multiplicity of terms, subparagraph 118.2(2.21)(b)(ii) of the ITA uses the term “surrogate mother”. In these Reasons, for brevity, I will generally use the word “surrogate” as having any of those meanings or usages, depending on the context.
+[5] PASOF at para. 42.
+[6] PASOF at paras. 45-46; Reply to Amended Fresh Notice of Appeal at para. 24; Respondent’s Written Submissions at para. 90.
+[7] PASOF at para. 55.
+[8] Supplementary Partial Agreed Statement of Facts at paras. 2-4.
+[9] PASOF at para. 54.
+[10] Subsection 15(1) of the Canadian Charter of Rights and Freedoms, section 7, Part I of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c. 11.
+[11] The Ottawa Surrogacy Agreement and the Kiran Surrogacy Agreement were marked as Exhibits R-3 and R-4 respectively.
+[12] Sierra Club of Canada v. Canada (Minister of Finance), [2002] 2 SCR 522, 2002 SCC 41, ¶53.
+[13] Sherman Estate v. Donovan, 2021 SCC 25, ¶38.
+[14] Ibid, ¶77 & 85.
+[15] Notice of Motion, filed December 1, 2023, fourth page, ¶6; and Affidavit of Kenneth McNeilly (the “McNeilly Affidavit”), affirmed November 28, 2023, and marked as Exhibit A-1 in this trial, p. 2, ¶4. Copies of the Surrogacy Agreements are attached as exhibits to the McNeilly Affidavit.
+[16] Affidavit of Kristina Ashley Anderson, affirmed December 1, 2023, and marked as Exhibit R-1 in this trial.
+[17] Due to a printing glitch, the copy of the magazine article attached to the Anderson Affidavit was missing some of its content. A complete copy of the article was subsequently entered as Exhibit R-5.
+[18] Sherman Estate, supra note 13, ¶77.
+[19] See Himel v. Greenberg, 2010 ONSC 2325, ¶65 & 67.
+[20] Fairview Donut Inc. v. The TDL Group Corp., 2010 ONSC 789, ¶46.
+[21] Himel, supra note 19, ¶61.
+[22] Practice Note No. 16 — “Notice Regarding Privacy and Public Access to Court Files”, as amended on September 3, 2020.
+[23] The Court, on its own initiative, raised the concern about disclosing the names and visual appearances of Mr. McNeilly’s children.
+[24] MediaTube Corp. et al. v. Bell Canada, 2018 FC 355, ¶22.
+[25] Specifically, Exhibits R-3 and R-4.
+[26] Drouin v. The Queen, 2011 TCC 425, ¶8.
+[27] Sierra Club, supra note 12, ¶51.
+[28] Ibid, ¶55.
+[29] Medicine Shoppe Canada Inc. v. Devchand et al., 2012 ABQB 375, ¶36; PearTree Securities Inc. v. NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455, ¶12; and Resolve Business Outsourcing Income Fund v. Canadian Financial Wellness Group Inc., 2014 NSCA 98, ¶31. While the CanLII copy of this latter decision uses the preceding citation, the actual style of cause in the court’s written decision shows the respondent as “The Canadian Financial Wellness Group Limited”.
+[30] Before the trial began, the parties agreed between themselves to redact the names of the Ottawa Surrogate, her husband and the Kiran Surrogate. In keeping with the confidentiality clauses in the Surrogacy Agreements, Mr. McNeilly’s motion for a confidentiality order goes beyond redaction and extends to the entirety of the terms and conditions of those agreements.
+[31] Specifically, Exhibits R-3 and R-4.
+[32] Sierra Club, supra note 12, ¶77-79; Drouin, supra note 26, ¶15; and Royal Bank of Canada v. Westech Appraisal Services Ltd., 2017 BCSC 773, ¶14.
+[33] Sierra Club, supra note 12, ¶74.
+[34] See Sierra Club, supra note 12, ¶79; and Drouin, supra note 26, ¶15.
+[35] For brevity, in these Reasons, I will sometimes use the word “medication” as meaning a drug, medicament, or other preparation or substance referred to in paragraph 118.2(2)(n) of the ITA or in section 5701 of the ITR (as defined in paragraph 63).
+[36] Income Tax Regulations, CRC, c. 945, as amended.
+[37] An Act to implement certain provisions of the budget tabled in Parliament on March 22, 2017 and other measures, SC 2017, c. 20, subsection 15(1).
+[38] Letter, dated January 25, 2021, from McCarthy Tétrault to the CRA, Exhibit AR-1, tab F, p. 55-57.
+[39] An Act to implement certain provisions of the fall economic statement tabled in Parliament on November 3, 2022 and certain provisions of the budget tabled in Parliament on April 7, 2022, SC 2022, c. 19, subsection 18(1).
+[40] Ibid, subsection 18(2).
+[41] Foley v. The Queen, 2021 TCC 92, ¶29.
+[42] Ali et al. v. The Queen, 2006 TCC 287, ¶56. Justice Woods’ comments about the applicable Charter issues are set out in paragraph 81 below. Her further comments about the legislative scheme of the METC are set out in paragraph 157 below.
+[43] Zieber v. The Queen, 2008 TCC 328, ¶2, 4 & 8.
+[44] Carlson v. The Queen, June 13, 2013, unreported oral reasons, docket no. 2012-3063(IT)I.
+[45] AB v. The Queen, 2014 TCC 157, ¶23. It is my understanding that this case was referred to by Justice Lamarre, in Zanatta, as Ismael; note that the citation is the same in both instances, i.e., 2014 TCC 157.
+[46] Warnock v. The Queen, 2014 TCC 240, ¶14-15.
+[47] Attorney General of British Columbia v. Auton, [2004] 3 SCR 657, 2004 SCC 78, ¶41-42.
+[48] Ali (TCC), supra note 42, ¶85 & 105-106. Justice Woods’ comments in respect of the METC are set out in paragraph 73 above and paragraph 157 below. In Withler v. Canada (Attorney General), 2011 SCC 12, ¶55-64, the Supreme Court indicated that it no longer requires a “mirror comparator group”; see also Fraser v. Attorney General of Canada, [2020] 3 SCR 113, 2020 SCC 28, ¶94.
+[49] Ali et al. v. The Queen, 2008 FCA 190, ¶12, 14 & 16-17.
+[50] The amendments that enacted subsection 118.2(2.2) (dealing with IVF costs), and paragraph 118.2(2)(v) and subsection 118.2(2.21), took effect in 2017 and 2022 respectively. Thus, those new provisions did not apply to Mr. Zanatta.
+[51] Zanatta v. The Queen, 2014 TCC 293, ¶11. See also Pearen v. The Queen, 2014 TCC 294, which was also decided by Justice Lamarre.
+[52] Zanatta, supra note 51, ¶17-21.
+[53] Ibid, ¶22.
+[54] Attorney General of Quebec v. Alliance du personnel professionnel et technique de la santé et des services sociaux et al., [2018] 1 SCR 464, ¶42.
+[55] Fraser, supra note 48, ¶30.
+[56] Ibid, ¶81.
+[57] R. v. Sharma, 2022 SCC 39, ¶28.
+[58] Ibid, ¶40-41.
+[59] See paragraph 61 above.
+[60] Calek v. The Queen, [2002] 2 CTC 2857, 2002 DTC 3850; aff’d, 2003 FCA 20.
+[61] Calek v. The Queen, 2003 FCA 20, ¶3-5.
+[62] See paragraphs 76, 78 and 83-85 above.
+[63] For a somewhat similar approach, see paragraphs (a) and (b) of the definition of “recipient”, as well as the definition of “supply”, in subsection 123(1) of the Excise Tax Act, RSC 1985, c. E-15, Part IX, as enacted by SC 1990, c. 45, and as further amended.
+[64] For brevity and simplicity, in the above analysis, I have referred only to medical services. The analysis also applies to other healthcare related procedures and treatments, as well as to medications, medical devices, and the like.
+[65] Expert Report of Dr. Kimberly Liu, dated September 5, 2023 and marked as Exhibit A-3, p. 4.
+[66] Ibid, p. 5.
+[67] Transcript, vol. 3 (December 6, 2023), p. 138, line 9 to p. 141, line 3.
+[68] See footnote 35 above.
+[69] See footnote 35 above.
+[70] This subparagraph is intended to catch as many of the services and things described in paragraphs 118.2(2)(a) through (u), using the fewest number of words, as I can. I have not included a reference to paragraph 118.2(2)(v) in the preceding sentence, because that subparagraph, in its current form, was not added to the ITA until 2022. I recognize that subparagraph 115(a) of these Reasons is an incomplete summary, but it is sufficient for the purposes of this Appeal.
+[71] Canada Revenue Agency, Income Tax Folio S1-F1-C1, July 28, 2020, ¶1.27.
+[72] Ray v. The Queen, 2004 FCA 1, ¶5.
+[73] Ibid, ¶11.
+[74] Ali (FCA), supra note 49; and ¶20Tall v. The Queen, 2009 FCA 342.
+[75] Ali (FCA), supra note 49, ¶20.
+[76] In an email dated September 12, 2016, from Mr. McNeilly to Kate Lopez of Kiran, Mr. McNeilly, in referring to an earlier version of the purported invoice that he had prepared, said, “I estimated these numbers so that they would add up to the total that I paid.” See Exhibit R-6.
+[77] PASOF, p. 139-140; and Exhibit R-2. The forms of the invoice in the PASOF and in Exhibit R-2, while similar, are not precisely the same.
+[78] Tax Court of Canada Act, RSC 1985, c. T-2, as amended; see section 3 of the TCCA; and Andrew Paving & Engineering Ltd. v. MNR, [1984] CTC 2164, 84 DTC 1157 (TCC), ¶8. In these Reasons, I will use “TCC” and “the Court”, interchangeably, to refer to the Tax Court of Canada.
+[79] Pintendre Autos Inc. v. The Queen, 2003 TCC 818, [2004] 3 CTC 2319, 2004 DTC 2016, 2004 DTC 2596, ¶32-34.
+[80] 407 International Inc. v. The Queen, 2019 TCC 245, ¶15-16.
+[81] Chao v. The Queen, 2018 TCC 202, 2018 DTC 1147, ¶17-19.
+[82] Hud v. The King, 2024 FCA 82, ¶21.
+[83] McIntosh v. The Queen, 2011 TCC 147, ¶19; as quoted in Gillies v. The King, 2024 TCC 53, ¶15.
+[84] 3488063 Canada Inc. et al. v. The Queen, 2016 FCA 233, ¶46.
+[85] 3488063 Canada, supra note 84, ¶46; and section 25 of the Rules.
+[86] See Auton, supra note 47, ¶2.
+[87] Sharma, supra note 57, ¶40.
+[88] Ibid, ¶41.
+[89] Ibid.
+[90] Zanatta, supra note 51, ¶17.
+[91] Carlson, supra note 44.
+[92] Ismael, supra note 45.
+[93] AB, supra note 45.
+[94] Warnock, supra note 46.
+[95] Ali (FCA), supra note 49, ¶16. See also the last sentence of paragraph 14 of that decision.
+[96] Ali (TCC), supra note 42, ¶112.
+[97] Ali (FCA), supra note 49, ¶17.
+[98] Ali (TCC), supra note 42, ¶112-113.
+[99] Alliance, supra note 54, ¶42.
+[100] Amended Order of Justice D’Arcy, dated March 23, 2021, last recital and paragraph 1.
+[101] Signed pursuant to a written request and authorization issued by Chief Justice St‑Hilaire under section 16 of the Tax Court of Canada Act.
+[102] “FET” means “frozen embryo transfer”.
+[103] “GEST” means “gestational surrogate”.
+[104] “ICSI” means “intracytoplasmic sperm injections”.

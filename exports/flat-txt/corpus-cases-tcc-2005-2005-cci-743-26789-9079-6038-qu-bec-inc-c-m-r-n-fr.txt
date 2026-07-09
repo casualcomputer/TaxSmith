@@ -1,0 +1,312 @@
+Title: 9079-6038 Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26789/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-743-26789-9079-6038-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-12-01
+
+# 9079-6038 Québec Inc. c. M.R.N.
+
+- Citation: 2005 CCI 743
+- Decision date: 2005-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3469, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9079-6038 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-01
+Référence neutre
+2005 CCI 743
+Numéro de dossier
+2004-1336(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1336(EI)
+ENTRE :
+9079-6038 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 18 janvier 2005 à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et les décisions rendues par le ministre sont confirmées selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI743
+Date : 20051201
+Dossier : 2004-1336(EI)
+ENTRE :
+9079-6038 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel de décisions en vertu desquelles le travail effectué par les travailleurs suivants pour le compte de l'appelante satisfait aux exigences d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ) :
+Patrice Blais, du 1er octobre 2002 au 8 avril 2003,
+Gino Gauthier, du 18 juin au 19 juillet 2002,
+Rémi Jean, du 3 septembre au 31 octobre 2002,
+Nicolas Élie Rodrigue, du 18 juin au 23 juillet 2002,
+Stéphane Thiboutot, du 5 août au 31 décembre 2002,
+André Tremblay, du 18 juin au 23 juillet 2002,
+Éric Tremblay, du 8 octobre au 31 décembre 2002,
+soient les « agents promotionnels » ;
+Pierre-Luc Blackburn, du 2 au 23 décembre 2002,
+Benoît Gauthier, du 1er janvier au 22 juin 2002,
+soient les « représentants » ;
+Nathalie Gagnon, du 17 juin au 24 juillet 2002,
+le « chef d'équipe » .
+[2] Pour expliquer ses décisions, le ministre du Revenu national (le « ministre » ) s'est appuyé sur les hypothèses de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par l'appelante comme il est indiqué entre parenthèses :
+5 a) l'appelante a été constituée en société le 9 juillet 1999; (admis)
+b) l'appelante exploitait une entreprise de vente et d'installation de systèmes de sécurité; (admis)
+c) l'appelante faisait affaires sous la raison sociale « Maxxcom systèmes de sécurité » ; (admis)
+d) l'appelante était un agent autorisé de ADT Canada; (admis)
+e) l'appelante avait son siège social à Sherbrooke et des succursales à Chicoutimi et à St-Jean-sur-Richelieu; (admis)
+f) l'appelante avait des clients dans ces trois municipalités et leurs environs; (nié)
+g) l'appelante donnait un système d'alarme à ses clients à la condition qu'ils signent un contrat de service de 3 ans avec ADT Canada; (nié tel que rédigé)
+h) l'appelante avait un service de télémarketing qui effectuait de la sollicitation par téléphone; (admis)
+i) de plus, l'appelante avait deux catégories de vendeurs : les agents promotionnels et les représentants des ventes; (admis)
+j) les agents promotionnels faisaient du porte à porte afin de vendre les services de la société ADT Canada; (admis)
+k) les représentants visitaient les clients potentiels déjà identifiés par le service de télémarketing; (nié tel que rédigé)
+PATRICE BLAIS, GINO GAUTHIER, RÉMI JEAN, NICOLAS ÉLIE RODRIGUE, STÉPHANE THIBOUTOT, ANDRÉ TREMBLAY, ÉRIC TREMBLAY
+l) Patrice Blais, Gino Gauthier, Rémi Jean, Nicolas Élie Rodrigue, Stéphane Thiboutot, André Tremblay et Éric Tremblay (les agents promotionnels) ont été embauchés par l'appelante comme agents promotionnels; (admis)
+m) chaque agent promotionnel signait une entente de travail avec l'appelante; (admis)
+n) les agents promotionnels étaient regroupés en équipe sous la direction d'un chef d'équipe; (nié tel que rédigé)
+o) ils travaillaient en équipe; (nié tel que rédigé)
+p) l'appelante motivait et formait les agents promotionnels; (nié)
+q) l'appelante assignait les territoires à démarcher à chaque équipe d'agents promotionnels; (nié tel que rédigé)
+r) les agents promotionnels n'étaient pas libres de choisir leur territoire à démarcher; (nié)
+s) les agents promotionnels voyageaient ensemble dans un véhicule de l'appelante; (nié tel que rédigé)
+t) l'agent promotionnel devait respecter l'horaire de travail établi par le chef d'équipe pour les membres de l'équipe; (nié tel que rédigé)
+u) les équipes avaient généralement un horaire de travail du lundi à vendredi de 8 h à 17 h ou de 13 h à 20 h 30; (nié tel que rédigé)
+v) en cas d'absence, l'agent promotionnel devait avertir son chef d'équipe; (nié)
+w) les heures de travail des agents promotionnels étaient contrôlées par l'appelante puisqu'ils voyageaient avec le chef d'équipe; (nié)
+x) les agents promotionnels devaient apprendre un texte de présentation préparé par l'appelante; (nié tel que rédigé)
+y) les agents promotionnels devaient respecter la tarification établie par ADT Canada; (admis)
+z) les agents promotionnels devaient laisser sur le terrain de la maison visitée une pancarte de ADT Canada qui indiquait à son chef d'équipe son emplacement; (admis)
+aa) à la fin de chaque journée, les agents promotionnels remettaient à leur chef d'équipe les contrats signés; (admis)
+bb) les agents promotionnels étaient rémunérés à commission seulement; (admis)
+cc) les agents promotionnels recevaient une commission de 100 $ par contrat de service de 3 ans et de 15 % sur les produits supplémentaires vendus; (admis)
+dd) les agents promotionnels étaient payés par dépôt direct à chaque semaine; (admis)
+ee) le transport sur les lieux du porte-à-porte, les contrats ADT Canada, les dépliants, les pancartes, les cartables et les vestes étaient fournis aux agents promotionnels par l'appelante; (nié)
+ff) les agents promotionnels n'avaient pas de dépenses à encourir dans leur travail; (nié)
+gg) les agents promotionnels n'assumaient aucun risque financier; (nié)
+hh) les agents promotionnels n'étaient pas soumis à un quota de vente mais ils étaient congédiés si leurs ventes étaient jugées insuffisantes par l'appelante; (nié tel que rédigé)
+ii) l'appelante payait à la CSST les cotisations nécessaires pour les agents promotionnels; (admis)
+jj) les agents promotionnels ne pouvaient pas se faire remplacer dans l'exécution de leurs fonctions pour l'appelante; (nié)
+kk) le travail des agents promotionnels était intégré aux activités de l'appelante; (nié)
+ll) vers le 29 août 2002, la Commission des normes du travail a réclamé à l'appelante une somme de 835,38 $ dont 803,25 $ en salaire impayé et 32,13 $ en vacance pour l'agent promotionnel Nicolas Élie Rodrigue; (admis)
+PIERRE-LUC BLACKBURN, BENOÎT GAUTHIER
+mm) Pierre-Luc Blackburn et Benoît Gauthier ont été embauchés par l'appelante comme représentants; (admis)
+nn) Benoît Gauthier travaillait 20 % de son temps comme agent promotionnel et le reste comme représentant; (admis)
+oo) chaque représentant signait une entente de travail avec l'appelante; (admis)
+pp) l'appelante fixaient les rendez-vous des représentants avec les clients potentiels; (nié tel que rédigé)
+qq) les représentants devaient respecter l'horaire de rendez-vous établi par l'appelante; (nié tel que rédigé)
+rr) les représentants n'étaient pas libres de choisir un territoire; (nié)
+ss) les représentants avaient généralement un horaire de travail du lundi à vendredi de 13 h à 21 h; (nié tel que rédigé)
+tt) les heures de travail des représentants étaient contrôlées par le nombre de rendez-vous; (nié tel que rédigé)
+uu) les représentants devaient respecter la tarification établie par ADT Canada; (admis)
+vv) les représentants remettaient le plus rapidement possible à l'appelante les contrats signés; (admis)
+ww) les représentants devaient contacter l'appelante à chaque semaine pour faire un compte-rendu; (nié tel que rédigé)
+xx) les représentants étaient rémunérés à commission seulement; (admis)
+yy) les représentants recevaient une commission de 100 $ par contrat de service de 3 ans et de 15 % sur les produits supplémentaires vendus; (admis)
+zz) les représentants étaient payés par dépôt direct à chaque semaine; (admis)
+aaa) les contrats ADT Canada, les dépliants, les pancartes, les cartables et les vestes étaient fournis aux représentants par l'appelante; (nié tel que rédigé)
+bbb) les représentants fournissaient généralement leurs automobiles; (admis)
+ccc) pendant une certaine période de temps, l'appelante a fourni un véhicule et un téléphone cellulaire au représentant Benoît Gauthier; (admis)
+ddd) l'appelante versait aux représentants 20 $ de frais d'automobile par contrat signé; (admis)
+eee) les représentants n'étaient pas soumis à un quota de vente mais ils étaient congédiés si leurs ventes étaient jugées insuffisantes par l'appelante; (nié tel que rédigé)
+fff) l'appelante payait à la CSST les cotisations nécessaires pour les représentants; (admis)
+ggg) les représentants ne pouvaient pas se faire remplacer dans l'exécution de leurs fonctions pour l'appelante; (nié)
+hhh) le travail des représentants était intégré aux activités de l'appelante; (nié)
+NATHALIE GAGNON
+iii) Nathalie Gagnon a été embauchée par l'appelante comme responsable administrative pour les deux premières semaines et, par la suite, comme chef d'équipe; (admis)
+jjj) comme responsable administrative, Nathalie Gagnon effectuait du travail de bureau pour l'appelante et elle était responsable d'embaucher et de congédier le personnel; (nié)
+kkk) elle travaillait alors au bureau de Chicoutimi; (admis)
+lll) après deux semaines, Lise-Anne Boucher a remplacé Nathalie Gagnon comme responsable administrative du bureau de Chicoutimi; (admis)
+mmm) comme chef d'équipe, Nathalie Gagnon établissait quotidiennement le quartier à démarcher pour les agents promotionnels de son équipe, conduisait le véhicule du payeur et recueillait les contrats signés; (admis)
+nnn) l'appelante et Nathalie Gagnon avaient signé une entente de travail; (admis)
+ooo) Nathalie Gagnon, comme chef d'équipe, voyageait avec les agents promotionnels dans un véhicule de l'appelante; (admis)
+ppp) Nathalie Gagnon, comme chef d'équipe, avait le même horaire de travail que les agents promotionnels membres de l'équipe; (nié tel que rédigé)
+qqq) Nathalie Gagnon, comme chef d'équipe avait généralement un horaire de travail du lundi à vendredi de 12 h à 20 h 30; (nié tel que rédigé)
+rrr) les heures de travail de Nathalie Gagnon étaient contrôlées par l'appelante puisque Nathalie Gagnon voyageait et travaillait avec l'équipe d'agents promotionnels; (nié)
+sss) à la fin de chaque journée, Nathalie Gagnon remettait les contrats signés à Lise-Anne Boucher; (admis)
+ttt) Nathalie Gagnon était rémunérée à commission seulement; (admis)
+uuu) Nathalie Gagnon recevait une commission de 150 $ si les agents promotionnels de son équipe effectuaient 10 ventes durant la semaine; (admis)
+vvv) si les ventes étaient supérieures à 10, elle recevait de plus un boni; (admis)
+www) elle ne recevait aucune commission si les ventes étaient moindres de 10 pendant la semaine; (admis)
+xxx) Nathalie Gagnon était payée par dépôt direct à chaque semaine; (admis)
+yyy) Nathalie Gagnon n'avait pas de dépenses à encourir dans son travail; (nié)
+zzz) l'appelante payait à la CSST les cotisations nécessaires pour Nathalie Gagnon; (admis)
+aaaa) Nathalie Gagnon ne pouvait pas se faire remplacer dans l'exécution de ses fonctions pour l'appelante; (nié)
+bbbb) le travail de Nathalie Gagnon était intégré aux activités de l'appelante. (nié)
+Remarques préliminaires
+[3] Monsieur Martin Croteau, agent des appels à l'Agence des douanes et du revenu du Canada, a été le seul témoin de l'intimé.
+[4] Les témoins de l'appelante étaient monsieur François Landreville, le président de l'appelante, madame Hélène Lemire qui, durant les années 2000 et 2001, était agent d'interprétation du Régime de pensions du Canada et de l'assurance-emploi et qui avait rendu une décision du 13 mars 2001 selon laquelle l'emploi des employés de l'appelante était non assurable, et monsieur Luc Baril, un représentant à l'emploi de l'appelante, mais qui travaillait à titre d'agent pour l'appelante en 2002. Il convient de souligner que monsieur Baril n'était pas visé par les décisions de l'intimé dans la présente affaire.
+[5] D'entrée de jeu, l'avocate de l'intimé s'est opposée au témoignage de Hélène Lemire parce que, selon le témoignage de monsieur Landreville, ce dernier aurait adressé une lettre à madame Lemire parce qu'il la connaissait, puisqu'elle était la personne qui avait, en 2001, rendu une décision relative à des travailleurs de l'appelante autres que ceux visés par le présent appel et pour des périodes autres que celles visées dans la présente affaire. Je tiens immédiatement à souligner que je n'ai pas tenu compte du témoignage de madame Lemire dans ma décision. Premièrement, la décision qu'elle a rendue, par laquelle je ne suis évidemment pas lié, concernait des travailleurs autres que ceux visés par le présent appel pendant des périodes autres que celles visées dans la présente affaire. Deuxièmement, sa décision m'éclairait d'autant moins qu'elle a été rendue uniquement à partir d'informations que madame Lemire a obtenues de l'appelante, donc sans interroger et rencontrer les travailleurs visés par sa décision.
+[6] Les parties ont soumis certaines décisions à la Cour, dont celles de cette cour dans les causes Shaw Communications Inc. c. Canada (ministre du Revenu national - M.R.N.), 2003 D.T.C. 1459, [2002] A.C.I. no 314, confirmée par la Cour d'appel fédérale, 2003 D.T.C. 5707, [2003] A.C.F. no 541, et Fatt c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 239, et celles de la Cour d'appel fédérale dans Hennick c. Canada (ministre du Revenu national - M.R.N.), 179 N.R. 315, [1995] A.C.F. no 294, Vulcain Alarme inc. c. Canada (ministre du Revenu national - M.R.N.), 249 N.R.I.,[1999] A.C.F. no 749, et Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553.
+Analyse
+Le droit
+[7] Quand les tribunaux ont à définir des notions de droit privé québécois aux fins de l'application d'une loi fédérale, telle la Loi sur l'assurance-emploi, ils doivent se conformer à la règle d'interprétation à l'article 8.1 de la Loi d''interprétation. Pour déterminer la nature d'un contrat de travail québécois et le distinguer d'un contrat de service, il faut, tout au moins depuis le 1er juin 2001, se fonder sur les dispositions pertinentes du Code civil du Québec ( « Code civil » ). Ces règles sont incompatibles avec les règles énoncées dans des arrêts comme 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 et Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553. Contrairement à la situation en common law, les éléments constitutifs du contrat de travail ont été codifiés et les tribunaux n'ont plus, depuis l'entrée en vigueur de l'article 2085 et de l'article 2099 du Code civil, le 1e janvier 1994, la latitude qu'ont les tribunaux de common law pour définir ce qui constitue un contrat de travail. S'il est nécessaire de s'appuyer sur des décisions jurisprudentielles pour déterminer s'il existait un contrat de travail, il faut choisir celles qui ont appliqué une approche conforme aux principes du droit civil.
+[8] Dans le Code civi, des chapitres distincts portent sur le « contrat de travail » (articles 2085 à 2097) et sur le « contrat d'entreprise et de service » (articles 2098 à 2129).
+[9] L'article 2085 porte que le contrat de travail :
+[...] est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[10] L'article 2098 porte que le contrat d'entreprise :
+[...] est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[11] L'article 2099 suit, rédigé dans les termes suivants :
+L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[12] On peut dire que ce qui distingue fondamentalement un contrat de service d'un contrat de travail est l'absence, dans le premier cas, d'un lien de subordination entre le prestataire de services et le client et la présence, dans le second cas, du droit de l'employeur de diriger et de contrôler l'employé. Il faut donc déterminer en l'espèce s'il y avait ou non un lien de subordination entre l'appelante et les travailleurs.
+[13] L'appelante a le fardeau de faire la preuve, selon la prépondérance des probabilités, des faits en litige pour établir son droit à l'annulation des décisions du ministre. Elle doit prouver le contrat que les parties ont conclu et établir leur intention commune quant à la nature de ce contrat. S'il n'y a pas de preuve directe de cette intention, l'appelante peut avoir recours à des indices conformément au contrat qui avait été convenu et aux dispositions du Code civil qui le régissaient. L'appelante devra en l'espèce prouver l'absence d'un lien de subordination si elle veut établir l'inexistence d'un contrat de travail et, pour ce faire, elle peut utiliser, si nécessaire, des indices d'autonomie tels que ceux qui ont été énoncés dans l'affaire Wiebe Door, précitée, soit la propriété des outils ainsi que le risque de perte et la possibilité de profit. Je suis d'avis toutefois que contrairement à l'approche en common law, une fois qu'un juge est en mesure de conclure à l'absence d'un lien de subordination, son analyse s'arrête là pour déterminer s'il s'agit d'un contrat de service. Il n'est pas nécessaire de considérer la pertinence de la propriété des outils ainsi que le risque de perte ou la possibilité de profit, puisqu'en vertu du Code civil, l'absence du lien de subordination constitue le seul élément constitutif du contrat de service qui le distingue du contrat de travail. Les éléments tels la propriété des outils et les risques de perte ou la possibilité de profit ne sont pas des éléments essentiels à un contrat de service. Par contre, l'absence d'un lien de subordination est un élément essentiel. À l'égard des deux formes de contrat, il faut décider s'il existe ou non un lien de subordination. Évidemment, le fait que le travailleur se comportait comme entrepreneur pourrait être un indice de l'absence de lien de subordination.
+[14] En dernier ressort, c'est habituellement sur la base des faits révélés par la preuve au sujet de l'exécution du contrat qu'une décision devra être rendue par la Cour, et cela même si l'intention manifestée par les parties indique le contraire. Si la preuve au sujet de l'exécution du contrat n'est pas concluante, une décision peut quand même être rendue selon l'intention des parties et la façon dont ils ont décrit le contrat, si la preuve est probante sur ces questions. Si cette preuve n'est également pas concluante, alors la sanction sera le rejet de l'appel de l'appelant pour cause de preuve insuffisante.
+Les agents promotionnels
+Lien de subordination
+[15] Est-ce que les agents promotionnels (les « agents » ) travaillaient sous le contrôle ou la direction de l'appelante, ou encore, est-ce que l'appelante pouvait ou était en droit de diriger ou de contrôler les agents?
+[16] Certes, l'entente de travail entre l'appelante et les agents mentionne clairement que l'agent comprend bien qu'il est un travailleur autonome. Toutefois, même si les parties contractantes ont en l'espèce manifesté clairement leur intention dans leur contrat écrit, cela ne signifie pas que je doive considérer ce fait comme décisif. Encore faut-il que le contrat soit exécuté conformément à ce qui y est prévu. Ce n'est pas parce que les parties ont stipulé que le travail sera exécuté par un travailleur autonome qu'il n'existe pas de relation employeur-employé. En définitive, je dois vérifier si la stipulation contractuelle correspond à la réalité. Cette vérification m'apparaît essentielle, car trop souvent les parties ont intérêt à masquer la nature véritable d'un contrat. En effet, trop souvent les employeurs, désirant diminuer leurs charges fiscales liées aux salaires, décident de traiter leurs employés comme des travailleurs autonomes. Souvent, les employés ne négocient pas leurs contrats d'égal à égal, contrats que je décrirais la plupart du temps comme des contrats d'adhésion. Ces employés ont généralement un besoin urgent de travailler et signent le contrat tel que soumis par leur employeur sans qu'il fasse l'objet de quelque négociation que ce soit. Voilà pourquoi il faut vérifier attentivement si la stipulation contractuelle est conforme à la réalité.
+[17] Je tiens à rappeler que l'appelante, en l'espèce, doit prouver, selon la prépondérance des probabilités, l'absence du lien de subordination si elle veut établir qu'il n'y avait pas de contrat de travail. Je tiens aussi à souligner que si la preuve révèle à la fois des éléments d'autonomie et de subordination, il faut conclure à l'existence d'un contrat de travail, puisque le contrat de service doit être exécuté sans lien de subordination. C'est ce que le juge Picard a décidé dans Commission des normes du travail c. 9002-8515 Québec inc., REJB 2000-18725 par. 15 (5e) (C.S. Qué.).
+15 Pour qu'il y ait un contrat d'entreprise, il ne doit y avoir aucun lien de subordination. Il existe dans ce cas un nombre suffisant d'indices d'un rapport d'autorité.
+[18] Est-ce que les agents étaient libres de choisir « quand » et « où » travailler. Il s'agit de deux indices que l'on doit notamment examiner lorsqu'il s'agit de déterminer, comme en l'espèce, l'existence ou non d'un lien de subordination entre les agents et l'appelante. Autrement dit, est-ce que les agents pouvaient librement choisir leur territoire et leurs heures de travail? Bien que la réponse à cette question ne soit pas nécessairement décisive en soi, elle doit néanmoins faire l'objet d'une analyse. Cette question doit aussi être examinée et évaluée par le biais de toute une série d'indices factuels qui seront aussi examinés.
+[19] Les faits énumérés dans la Réponse à l'avis d'appel liés au « quand » et au « où » du travail sur lesquels l'intimé s'est appuyé pour décider que les agents exerçaient un emploi assurable aux termes d'un contrat de louage de services sont les suivants :
+5o) ils travaillaient en équipe;
+5q) l'appelante assignait les territoires à démarcher à chaque équipe d'agents promotionnels;
+5r) les agents promotionnels n'étaient pas libres de choisir leur territoire à démarcher;
+5s) les agents promotionnels voyageaient ensemble dans un véhicule de l'appelante;
+5t) l'agent promotionnel devait respecter l'horaire de travail établi par le chef d'équipe pour les membres de l'équipe;
+5u) les équipes avaient généralement un horaire de travail du lundi à vendredi de 8 h à 17 h ou de 13 h à 20 h 30;
+5v) en cas d'absence, l'agent promotionnel devait avertir son chef d'équipe;
+5w) les heures de travail des agents promotionnels étaient contrôlées par l'appelante puisqu'ils voyageaient avec le chef d'équipe.
+[20] L'appelante devait démontrer, selon la balance des probabilités, que ces faits étaient inexacts. La preuve de l'appelante à cet égard reposait essentiellement sur le témoignage de son président, monsieur Landreville, et sur le témoignage de monsieur Baril.
+[21] Le témoignage de monsieur Landreville pourrait se résumer ainsi :
+i) Les agents étaient libres de choisir leur territoire, pourvu qu'il soit situé à l'intérieur du secteur qui leur avait été assigné par ADT.
+ii) Les agents étaient libres de travailler en équipe. Ils étaient aussi libres de voyager dans le véhicule de l'appelante. Le témoignage de monsieur Landreville à cet égard mérite d'être cité :
+Il y en a qui se déplaçaient en autobus de ville, d'autres avec leur propre véhicule. Normalement ce que ça faisait, c'était que ces gens-là étaient des amis en dehors du travail aussi ça fait qu'ils allaient travailler ensemble, parce que c'était plus agréable de travailler en équipe que de travailler seul[1].
+iii) Les agents étaient libres de travailler aux heures qui leur convenaient[2]. On ne leur imposait pas d'heures de travail.
+iv) L'appelante ne contrôlait pas les heures de travail de ses agents[3]. Les agents n'avertissaient pas leur chef d'équipe quand ils devaient s'absenter. Monsieur Landreville a même ajouté qu'il s'écoulait parfois plusieurs jours avant que l'appelante n'apprenne connaissance qu'un agent avait décidé de ne plus travailler[4].
+[22] Monsieur Baril a en quelque sorte corroboré le témoignage de monsieur Landreville sur ces faits. Il convient de se rappeler que monsieur Baril n'était pas un agent ou un représentant visé par les décisions de l'intimé. Toutefois, il a témoigné qu'il était un représentant de l'appelante à l'époque de l'audition et un agent de cette dernière en 2002.
+[23] Le témoignage de monsieur Landreville sur ces points m'a paru peu crédible car invraisemblable. À en croire ces deux témoins, l'anarchie régnait. Il n'y avait ni direction ni contrôle sur le « où » et le « quand » du travail. Il n'y avait aucun suivi de la direction de l'appelante sur les activités des agents. Les agents se lançaient sur le territoire au hasard. Je ne peux m'imaginer qu'un agent autorisé d'ADT le moindrement intelligent et qui a donc intérêt à ce que son territoire soit ratissé par ses agents de façon rationnelle laisse ces derniers totalement libres de choisir leur territoire et totalement libres de travailler aux heures et aux jours qui leur convenaient, et ce, sans faire l'objet de quelque suivi que ce soit. À mon humble avis, l'anarchie et la recherche de profit ne vont pas de pair. Je conçois que l'appelante pouvait et devait être flexible à ces égards compte tenu de la nature du travail et du mode de rémunération, mais de là à tenter de me faire croire qu'il n'y avait aucune directive et aucun suivi de l'appelante sur le « où » et le « quand » , il y avait un pas qu'il ne fallait pas faire. L'appelante avait le loisir de faire témoigner les agents pour appuyer ses assertions sur ces points. Elle ne l'a pas fait. J'en infère que cette preuve lui aurait été défavorable. Elle a préféré appuyer ses assertions en faisant témoigner monsieur Baril qui, rappelons-le, travaillait encore pour l'appelante.
+[24] Par ailleurs, les faits suivants ressortent du témoignage de monsieur Croteau, dont la crédibilité ne fait pas de doute, et de son rapport[5], auquel j'ai accordé une grande valeur probante, bien qu'il constitue du ouï-dire:
+i) La totalité des agents interrogés par monsieur Croteau travaillaient en équipe et voyageaient avec les autres agents dans le véhicule de l'appelante qui était conduit par un chef d'équipe qui les supervisait.
+ii) La totalité des agents interrogés par monsieur Croteau travaillaient soit de 8 h à 17 h, soit de 11 h 30 à 21 h, et ce, du lundi au vendredi. Seul monsieur Rémi Jean travaillait à temps partiel pour l'appelante, car il travaillait aussi à temps partiel pour un autre employeur.
+iii) Certains agents travaillaient parfois le samedi.
+[25] À mon avis, le contrôle de l'appelante sur le « où » et le « quand » était indirect et subtil, pour ne pas dire insidieux. Ces agents étaient sans emploi. Ils avaient besoin de travailler. Pour la quasi-totalité des agents, cet emploi constituait leur seul emploi. L'appelante ne remboursait aucune dépense. Par contre, les agents pouvaient se rendre aux lieux où ils devaient démarcher avec leur chef d'équipe gratuitement, dans le véhicule de l'appelante. D'ailleurs, la quasi-totalité des agents n'ont-ils pas déclaré à monsieur Croteau qu'ils utilisaient ce moyen de transport mis gratuitement à leur disposition par l'appelante[6]. À mon avis, l'appelante contrôlait ainsi indirectement l'horaire de travail des agents promotionnels parce qu'ils voyageaient avec leur chef d'équipe dans le véhicule de l'appelante. En effet, compte tenu des faits propres à cette affaire, cette liberté des agents sur le « où » et le « quand » , en supposant même qu'elle ait existée, n'était pas réelle. Comme le soulignait le juge Mogan de cette cour dans l'affaire Shaw[7]:
+Une personne qui vend un produit unique ... offert par un seul fournisseur ... et qui est rémunéré à 100 % à la commission peut paraître disposer d'une grande liberté de choisir quand et où travailler. Cette liberté, toutefois, est plus apparente que réelle quand la personne compte sur le revenu de commissions pour gagner sa vie... Le besoin de gagner sa vie constitue un incitatif puissant pour l'autodiscipline et une rigide éthique du travail...
+J'en conclus que l'appelante contrôlait en l'espèce le « où » et le « quand » du travail des agents promotionnels, deux facteurs importants pour déterminer s'il y avait ou non un lien de subordination.
+[26] De plus, la plupart des agents promotionnels ont déclaré[8] à monsieur Croteau qu'ils travaillaient en équipe sous la supervision de leur chef d'équipe. La supervision du chef d'équipe se manifestait non seulement par la décision du chef d'équipe sur le « où » et le « quand » , mais les agents promotionnels devaient travailler aussi selon des règles de conduite et de comportement imposées à ces derniers par l'appelante. Aussi, certains travailleurs ont déclaré ce qui suit à monsieur Croteau :
+i) Les chefs d'équipe faisaient des mises en situation pour aider les travailleurs à apprendre les techniques de vente.
+ii) Les agents avaient un texte à apprendre qu'ils devaient réciter au client pour augmenter leurs chances de vente. Les chefs d'équipe assistaient les agents quand ces derniers avaient des problèmes.
+iii) Les agents devaient laisser sur le terrain de la maison visitée une pancarte de l'ADT qui indiquait leur emplacement à leur chef d'équipe.
+iv) À la fin de chaque journée, les agents promotionnels remettaient à leur chef d'équipe les contrats signés.
+[27] L'appelante n'a-t-elle pas reconnu elle-même que les agents promotionnels étaient des employés lorsqu'ils ont signé[9], tout au moins à deux reprises, soit dans les cas de messieurs Tremblay et Rodrigue, son formulaire type de départ, où les termes « fin d'emploi » , « terminaison d'emploi » et « emploi » sont utilisés à profusion? Le témoignage de monsieur Landreville à cet égard lors de son contre-interrogatoire mérite d'être cité[10] :
+Q. On voit un formulaire de départ signé par Maxxcom...
+R. Oui.
+Q. ... et par l'employé.
+R. Oui. Nicolas Élie, bon, bien ça fait partie d'un des employés peut-être plus professionnel qui a rencontré son chef d'équipe pour lui dire qu'il quittait pour un nouvel emploi. À ce moment-là quand c'était possible pour ne pas qu'il y ait de litige il y avait un formulaire de départ qui était rempli.
+[28] Je tiens à rappeler que l'appelante a admis qu'elle versait à la CSST les cotisations requises pour les agents. Est-ce qu'une entreprise qui considère ses travailleurs comme des entrepreneurs paie habituellement de telles cotisations?
+[29] Je suis aussi d'avis que les faits suivants mis en preuve démontrent très clairement que le travail des agents s'intégrait très largement dans les activités de l'appelante. Non seulement les faits suivants sont individuellement des indices de subordination, mais ils constituent aussi, lorsque pris globalement, un indice d'un lien de subordination que je qualifierais d'indice d'intégration dans l'entreprise :
+i) La quasi-totalité des agents promotionnels ne travaillaient que pour l'appelante pendant les périodes visées[11].
+ii) L'appelante fournissait aux agents tout le matériel, tout l'équipement et les autres choses nécessaires pour accomplir leur travail. En effet, les dépliants, les pancartes, les contrats, les cartables, les vestes et les polos étaient fournis aux agents[12].
+iii) Les agents n'avaient pas personnellement de permis de vendeur itinérant leur permettant de vendre de porte en porte. En l'espèce, ils vendaient de porte en porte grâce au permis de vendeur itinérant de l'appelante.
+iv) La clientèle servie n'était pas celle des agents promotionnels, mais plutôt celle d'ADT ou de l'appelante[13].
+v) Les agents ne pouvaient pas négocier les termes et les conditions du contrat de vente. L'appelante fixait le prix des produits à vendre et les agents ne pouvaient vendre que les produits de l'appelante.
+vi) La quasi-totalité des agents travaillaient en équipe.
+vii) La quasi-totalité des agents utilisaient le moyen de transport mis à leur disposition par l'appelante. Ils se rendaient ensemble aux lieux du porte-à-porte dans le véhicule de l'appelante conduit par un chef d'équipe.
+viii) Les agents participaient à des réunions d'information et de motivation ( « RIM » ).
+[30] L'avocat de l'appelante a soutenu dans sa plaidoirie que les faits suivants démontrent que les agents n'étaient pas soumis à la direction ou au contrôle de l'appelante :
+i) Les agents n'exécutaient pas leurs tâches à l'établissement de l'appelante. Je ne vois aucunement la pertinence de ce fait, compte tenu de la nature du travail exigé des agents : ils devaient vendre les produits de l'appelante ou d'ADT en faisant du porte-à-porte dans les territoires désignés par l'appelante.
+ii) Les agents ne bénéficiaient d'aucun service de l'appelante. Ils n'utilisaient aucunement le service de secrétariat, les téléphones, les télécopieurs et les ordinateurs de l'appelante. Encore une fois, je ne vois aucunement la pertinence de ce fait, compte tenu de la nature du travail des agents. Les agents n'avaient tout simplement pas besoin des outils nommés par l'avocat de l'appelante. Par ailleurs, la preuve a établi très clairement que les agents promotionnels ont utilisé les outils de l'appelante dont ils avaient besoin : le véhicule de l'appelante, le permis de vendeur itinérant de l'appelante et le matériel de promotion de l'appelante (pancartes, vêtements, dépliants et cartables).
+iii) Les agents vendaient des systèmes d'alarme qui étaient fabriqués par ADT et non pas par l'appelante. Je ne vois tout simplement pas en quoi ce fait est pertinent dans la présente affaire.
+iv) Les agents n'étaient pas payés pour la formation qu'ils recevaient de l'appelante. Même si je suis d'avis que ce fait est habituellement un indice d'autonomie plutôt que de subordination, je rappelle que ce fait en soi ne rend pas probable l'existence d'un contrat de service, puisque la plupart des autres faits mis en preuve appuient l'existence d'un contrat de travail.
+v) Les clients étaient des clients d'ADT et non de l'appelante. Encore une fois, je ne vois pas en quoi ce fait est pertinent en l'espèce. L'avocat de l'appelante admet ainsi du moins que les clients n'étaient pas les clients des agents. Si tel avait été le cas, ce fait aurait pu constituer un indice d'autonomie intéressant à considérer.
+vi) Les agents pouvaient se faire remplacer, ou encore, ils pouvaient faire exécuter leurs tâches par d'autres personnes. En supposant même que cette liberté ait existé, ce qui est en soi un indice d'autonomie, je suis d'avis qu'elle était en l'espèce plus apparente que réelle. D'ailleurs, la preuve n'a-t-elle pas révélé que les agents n'avaient pas profité de cette supposée liberté?
+Le chef d'équipe
+[31] Le chef d'équipe était en somme un agent promotionnel avec des fonctions additionnelles : il devait conduire les agents promotionnels dans un véhicule appartenant à l'appelante, aux quartiers où ils devaient faire du porte-à-porte, et il recueillait les contrats signés à la fin de la journée et les remettait à la direction de l'appelante. Il devait également animer des « RIM » , dont le but était d'informer et de motiver les agents promotionnels.
+[32] Je suis d'avis que le chef d'équipe est clairement un employé de l'appelante, et ce, non seulement pour les motifs mentionnés dans mon analyse visant les agents promotionnels, mais aussi tout simplement parce que le lien de subordination entre le chef d'équipe et la direction de l'appelante dans le cas visé est plus direct, compte tenu des tâches additionnelles susmentionnées qu'il devait accomplir (obligation de rendre compte, de transporter les agents promotionnels et de les assister) et de l'utilisation supplémentaire des outils de travail appartenant à l'appelante, soit le véhicule automobile.
+Les représentants
+[33] Rappelons que l'appelante recrutait ses clients de deux façon distinctes. Elle envoyait des agents, qui sillonnaient les régions où elle faisait affaires, pour recruter des clients en faisant du porte-à-porte. L'appelante disposait également d'un service de télémarketing qui fixait des rendez-vous avec des clients intéressés pour que des représentants puissent les rencontrer et conclure des contrats en personne. D'entrée de jeu, il convient de souligner qu'il a été admis que les représentants utilisaient leur automobile dans le cadre de leur travail et que l'appelante ne remboursait aux représentants aucune dépense engagée dans le cadre de leurs fonctions. Il a toutefois été admis que l'appelante versait aux représentants 20 $ pour les frais d'automobile par contrat signé.
+[34] Est-ce que les représentants étaient libres de choisir le « quand » et le « où » du travail? Il s'agit de deux indices que l'on doit examiner lorsqu'il s'agit de déterminer, comme en l'espèce, l'existence ou non d'un lien de subordination entre les représentants et l'appelante. Autrement dit, est-ce que les représentants pouvaient librement choisir leur territoire d'activités et travailler aux heures qui leur convenaient?
+[35] Les faits énumérés dans la Réponse à l'avis d'appel liés au « quand » et au « où » du travail sur lesquels l'intimé s'est appuyé pour décider que les représentants exerçaient un emploi assurable aux termes d'un contrat de louage de services sont les suivants :
+pp) l'appelante fixaient les rendez-vous des représentants avec les clients potentiels; (nié tel que rédigé)
+qq) les représentants devaient respecter l'horaire de rendez-vous établi par l'appelante; (nié tel que rédigé)
+rr) les représentants n'étaient pas libres de choisir un territoire; (nié)
+ss) les représentants avaient généralement un horaire de travail du lundi à vendredi de 13 h à 21 h; (nié tel que rédigé)
+tt) les heures de travail des représentants étaient contrôlées par le nombre de rendez-vous; (nié tel que rédigé)
+[36] La preuve de l'appelante à cet égard reposait essentiellement sur le témoignage de monsieur Landreville, qui pourrait se résumer ainsi : les rendez-vous avec les clients étaient fixés par l'appelante, mais en fonction des disponibilités des représentants (transmises au préalable au service de télémarketing de l'appelante), qui étaient libres de travailler aux heures qui leur convenaient[14].
+[37] Par ailleurs, monsieur Pierre Blackburn a déclaré à monsieur Croteau lors d'une entrevue téléphonique le 26 janvier 2004 qu'il devait travailler 36 heures par semaine, du lundi au vendredi, de 13 h à 21 h[15].
+[38] Nous avons donc deux versions contradictoires des faits sur ce point. Compte tenu du peu de crédibilité que j'ai accordé en général au témoignage de monsieur Landreville, j'ai retenu la version des faits à cet égard donnée à monsieur Croteau, bien qu'elle constitue du ouï-dire. Monsieur Landreville avait le loisir de faire témoigner les représentants visés par les décisions pour appuyer ses assertions sur ce point. Il ne l'a pas fait. J'en infère que cette preuve lui aurait été défavorable. Je conçois que l'appelante pouvait à l'occasion être flexible à l'égard des horaires de travail des représentants, compte tenu de la nature du travail et du mode de rémunération des représentants et de la difficulté de l'appelante de recruter des représentants. Toutefois, je suis d'avis que l'appelante contrôlait le « quand » et le « où » du travail des représentants en fixant des rendez-vous avec des clients potentiels à l'intérieur d'un horaire de travail déterminé par l'appelante et non pas en fonction des disponibilités des représentants, comme l'a soutenu monsieur Landreville.
+[39] Je suis aussi d'avis que les faits suivants mis en preuve démontrent très clairement que le travail des représentants s'intégrait très largement dans les activités de l'appelante, un indice en soi du lien de subordination entre l'appelante et ses représentants :
+i) L'appelante fournissait tout le matériel nécessaire pour accomplir leur travail.
+ii) Les représentants n'avaient pas personnellement de permis de vendeur itinérant leur permettant de vendre de porte en porte. En l'espèce, ils utilisaient pour leur travail le permis de vendeur itinérant de l'appelante.
+iii) La clientèle desservie n'était pas celle des représentants, mais plutôt celle d'ADT ou de l'appelante.
+iv) Les représentants ne pouvaient pas négocier les termes et les conditions des contrats de vente. L'appelante fixait les prix des produits à vendre et les représentants ne pouvaient vendre que les produits de l'appelante.
+v) Le travail des représentants, tel que mentionné précédemment, était lié très étroitement au service de télémarketing de l'appelante, qui fixait les rendez-vous des représentants avec des clients potentiels, et ce, pendant les heures où les représentants devaient travailler.
+[40] De plus, il convient de souligner que monsieur Blackburn a déclaré à monsieur Croteau que son travail était supervisé par monsieur Jean Landreville, le directeur des ventes de l'appelante à Sherbrooke. Aussi, monsieur Blackburn devait contacter chaque semaine le directeur des ventes de l'appelante pour lui faire un compte-rendu de ses activités pendant cette période. Cette obligation de faire rapport constitue à mon avis un autre indice du lien de subordination entre l'appelante et ses représentants.
+[41] Je tiens à rappeler que l'appelante a admis qu'elle versait à la CSST les cotisations requises pour ses représentants. Est-ce qu'une entreprise qui considère les travailleurs qui lui rendent des services comme des travailleurs autonomes paie habituellement de telles cotisations?
+[42] Les représentants n'étaient pas payés pour la formation qu'ils recevaient de l'appelante. De plus, les représentants utilisaient leur automobile dans l'exécution de leurs tâches et les frais d'utilisation n'étaient pas remboursés par l'appelante. Toutefois, l'appelante versait aux représentants 20 $ pour les frais d'automobile par contrat signé. Même si je suis d'avis que ces deux faits sont habituellement des indices d'autonomie plutôt que de subordination, je rappelle que ces deux faits en soi ne rendent pas probable l'existence d'un contrat de service puisque la plupart des autres faits mis en preuve appuient l'existence d'un contrat de travail.
+[43] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2005CCI743
+No DU DOSSIER DE LA COUR :
+2004-1336(EI)
+INTITULÉ DE LA CAUSE :
+9079-6038 Québec Inc. et M.R.N
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 18 janvier 2005
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 1er décembre 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocate de l'intimé :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Louis Panneton
+Étude :
+Fontaine, Panneton Associés
+Sherbrooke (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Page 43 des notes sténographiques.
+[2] Page 43 des notes sténographiques.
+[3] Page 43 des notes sténographiques.
+[4] Page 73 des notes sténographiques.
+[5] Pièce I-3.
+[6] Pièce I-3.
+[7] Shaw Communications Inc. c. Canada (ministre du Revenu national - M.R.N.), précité, au par. 44.
+[8] Pièce I-3.
+[9] Pièce I-1.
+[10] Page 88 des notes sténographiques.
+[11] Pièce I-3.
+[12] Pièce I-3.
+[13] Pièce I-2.
+[14] Pages 56 et 92 des notes sténographiques.
+[15] Pièce I-3, paragraphe 56.

@@ -1,0 +1,132 @@
+Title: Dhaliwal c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28193/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-540-28193-dhaliwal-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-10-23
+
+# Dhaliwal c. M.R.N.
+
+- Citation: 2006 CCI 540
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1974, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhaliwal c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-23
+Référence neutre
+2006 CCI 540
+Numéro de dossier
+2006-152(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-152(EI)
+ENTRE :
+HARPALJIT K. DHALIWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 août 2006 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre du Revenu national est confirmée selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour d’octobre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI540
+Date : 20061004
+Dossier : 2006-152(EI)
+ENTRE :
+HARPALJIT K. DHALIWAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Harpaljit Dhaliwal, interjette appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle elle n’exerçait pas un emploi assurable auprès de la société Unique Drywall Inc. (ci‑après « Unique Drywall »), dont son époux est l’unique actionnaire, pendant les périodes allant du 1er juillet au 31 octobre 2003 et du 1er août 2004 au 31 janvier 2005.
+[2] En bref, l’appelante s’occupait des tâches administratives pour le compte de la société spécialisée dans la pose de cloisons sèches appartenant à son époux : elle répondait au téléphone, effectuait les opérations bancaires et aidait généralement, selon les besoins, au bon déroulement du processus de passation des marchés de la société. Elle travaillait à partir d’un bureau se trouvant dans le foyer familial, ce qui lui permettait d’amener ses enfants à l’école et de les ramener à la maison. De temps à autre, elle utilisait le camion de la société à cette fin.
+[3] Il est acquis aux débats que l’appelante accomplissait ses fonctions à titre d’employée engagée aux termes d’un contrat de louage de services. La décision du ministre selon laquelle elle n’exerçait pas un emploi assurable était fondée sur son lien de dépendance avec son employeur, Unique Drywall, à titre d’épouse du directeur de celle‑ci. Après avoir examiné les circonstances de l’emploi de l’appelante, le ministre n’était pas convaincu qu’une personne qui n’aurait pas eu de lien de dépendance avec l’employeur aurait conclu avec celui‑ci un contrat à peu près semblable à celui de l’appelante[1].
+[4] L’appelante a témoigné à l’audience. Elle m’a semblé être une femme intelligente et compétente qui avait une profonde connaissance de tous les aspects de l’entreprise de son époux. Celui‑ci a assisté à la plus grande partie de l’audience, mais il n’a pas témoigné.
+[5] Il incombait à l’appelante de réfuter les hypothèses sur lesquelles le ministre avait fondé sa décision. Au cœur du débat entre l’appelante et le ministre sont les hypothèses suivantes, que j’ai réparties dans quatre catégories et analysées ci‑dessous :
+Hypothèses 6p) et q) :
+Salaire
+[traduction]
+p) le taux de salaire de l’appelante du 1er juillet 2003 au 31 octobre 2003 était de 1 600 $ par mois;
+q) le taux de salaire de l’appelante du 1er août 2004 au 31 janvier 2005 était de 2 000 $ par mois;
+[6] Le ministre était d’avis qu’une augmentation de salaire d’une telle importance dans un aussi court laps de temps n’était pas typique d’un employé qui n’avait aucun lien de dépendance avec son employeur. Je suis encline à partager ce point de vue. L’appelante a été incapable de fournir quelque raison que ce soit pour expliquer l’augmentation, si ce n’est qu’elle a invoqué vaguement l’inflation sans fournir de renseignements ou de statistiques à l’appui de son allégation. De plus, il est difficile de comprendre la décision d’un employeur d’accorder une augmentation de salaire de cette ampleur à une employée qui, dans les derniers mois précédant immédiatement l’augmentation, avait été licenciée pour cause de manque de travail. Par conséquent, je ne suis pas en mesure de trouver quelque fondement probatoire que ce soit pour infirmer les conclusions du ministre à cet égard.
+Hypothèses 6t) à x) :
+Salaire
+[traduction]
+t) l’appelante a prêté au payeur 10 000 $ le 1er août 2002;
+u) l’appelante a prêté au payeur 10 000 $ le 11 avril 2003;
+v) l’appelante a prêté au payeur 20 000 $ le 1er mars 2005;
+[...]
+x) le payeur a allégué qu’il avait remboursé l’argent emprunté à l’appelante lorsqu’il avait obtenu les fonds nécessaires;
+[7] Essentiellement, selon ces hypothèses, l’appelante a prêté de l’argent à Unique Drywall, ce que n’accepterait probablement pas de faire un employé n’ayant aucun lien de dépendance avec son employeur. Cependant, je suis convaincue que l’appelante n’a pas, en fait, prêté son propre argent à son employeur; les fonds provenaient de la ligne de crédit accordée conjointement à l’appelante et à son époux. Ce dernier a emprunté des fonds sur cette ligne de crédit pour sa société, et Unique Drywall les a remboursés au moyen de chèques souvent établis à l’ordre de l’appelante. J’ajoute foi à l’explication de l’appelante voulant que cette méthode ait été utilisée pour aider à la tenue des registres de la société et qu’elle n’ait pas personnellement prêté de l’argent à Unique Drywall.
+Hypothèses 6z) et aa) :
+Heures
+[traduction]
+z) l’appelante déposait ses enfants à l’école à 8 h et allait les chercher à l’école à 15 h 15, du lundi au vendredi;
+En dehors de la période en cause
+[traduction]
+aa) l’appelante utilisait le camion du payeur comme le véhicule familial pendant les périodes au cours desquelles elle n’était pas employée par le payeur;
+[8] Selon ces hypothèses, l’appelante allait chercher et allait déposer ses enfants à l’école, quelquefois au moyen du camion de la société. Compte tenu du témoignage de l’appelante selon lequel cela se produisait rarement et vu la disponibilité de membres de sa famille élargie pour l’aider dans cette tâche et les réalités de l’exploitation d’une petite entreprise familiale, je suis convaincue que le ministre ne connaissait pas tous les faits pertinents à l’égard de cet aspect de sa décision. De plus, il n’est pas inhabituel pour des employeurs qui n’ont pas de lien de dépendance avec leurs employés de leur accorder suffisamment de marge de manœuvre pour leur permettre de s’occuper de tâches familiales de temps à autre.
+Hypothèses 6bb) et cc) :
+En dehors de la période en cause
+[traduction]
+bb) l’appelante fournissait des services au payeur sans rétribution pendant les périodes au cours desquelles elle n’était pas employée par le payeur;
+cc) l’appelante et le payeur ont fourni des renseignements incohérents et contradictoires à chaque étape de l’examen.
+[9] Ces hypothèses sont les plus problématiques pour l’appelante. L’intimé a cité M. Ken Miller, l’agent des décisions, et Mme Amelia Lo, l’agente des appels chargée du dossier de l’appelante. J’ai pu constater qu’ils étaient des témoins consciencieux et bien informés. Pendant leurs examens respectifs du dossier de l’appelante, les deux agents ont décelé certaines incohérences dans les renseignements fournis par celle‑ci, particulièrement en ce qui a trait à la question de savoir si elle avait continué d’accomplir certaines tâches, comme effectuer des opérations bancaires, livrer des fournitures et utiliser le camion de la société, pendant les périodes durant lesquelles elle a dit qu’elle était sans emploi, et en ce qui concerne la façon dont ont été calculées ses heures de travail déclarées.
+[10] L’appelante a traité de ces questions dans une certaine mesure lors de son interrogatoire principal et elle a été contre‑interrogée sur celles‑ci. Je ne peux pas dire que j’ai été convaincue par ses réponses. Vu l’importance de son rôle dans la bonne gestion de l’entreprise de son époux, son incapacité d’expliquer en détails les raisons de son licenciement va à l’encontre du bon sens. De plus, elle a admis avoir continué à faire des choses pour la société pendant qu’elle était sans emploi; vu la nature diligente de l’appelante et le fait que le bureau d’affaires de la société se trouvait dans le foyer familial, il est peu probable que, lorsque le téléphone sonnait, l’appelante n’ait pas répondu. Dans son ensemble, la preuve n’est pas suffisante pour réfuter l’hypothèse du ministre selon laquelle [traduction] « l’appelante fournissait des services [à Unique Drywall] sans rétribution pendant les périodes au cours desquelles elle n’était pas employée par [Unique Drywall] ».
+[11] J’ai également peine à comprendre pourquoi il y a divergence entre le nombre réel d’heures travaillées par l’appelante et le nombre d’heures déclarées dans le Relevé d’emploi (le « RE »). Bien que l’appelante ait témoigné qu’elle travaillait environ de 8 h à 15 h chaque jour et qu’elle faisait du travail la fin de semaine, pour accumuler les 712 heures déclarées dans le RE, elle aurait été obligée de travailler en moyenne 10,5 heures par jour au cours de ses périodes d’emploi. Elle n’a pas été en mesure d’expliquer l’écart, affirmant seulement que c’était son époux qui avait rempli le RE. Néanmoins, j’ajoute foi à son témoignage selon lequel elle n’a pas rempli les déclarations, et que c’est son époux qui s’est occupé de pareilles choses, qui a fixé le salaire de l’appelante et qui a décidé de la licencier. Malgré qu’il ait assisté à une bonne partie de l’audience et écouté les réponses de l’appelante, pour des raisons que la Cour ne connaît pas, l’époux de l’appelante a choisi de ne pas témoigner pour éclaircir les points laissés en suspens dans la déposition de son épouse.
+[12] Quoi qu’il en soit, bien que l’appelante ait réussi à réfuter certaines des hypothèses du ministre, la preuve portée à ma connaissance est, dans son ensemble, insuffisante pour me permettre de conclure que la décision du ministre était mal fondée. Pour tous ces motifs, l’appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 4e jour d’octobre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI540
+Nº DU DOSSIER DE LA COUR : 2006-152(EI)
+INTITULÉ : Harpaljit K. Dhaliwal et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Le 23 août 2006
+DATE DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 4 octobre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L’alinéa 5(3)b) de la Loi sur l’assurance‑emploi.

@@ -1,0 +1,214 @@
+---
+title: "Letarte v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27550/index.do"
+last_modified: "2005-07-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 420"
+citation2: ""
+neutral_citation: "2005 TCC 420"
+decision_date: "2005-07-28"
+language: "en"
+item_id: "27550"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 112
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:31:10.774000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "30ca801b569ee3f998f62be44a486765a31b2dde9f91161de335fbee83ecbc62"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Letarte v. The Queen
+
+- Citation: 2005 TCC 420
+- Decision date: 2005-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 112, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Letarte v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-28
+Neutral citation
+2005 TCC 420
+File numbers
+2004-3784(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3784(IT)I
+BETWEEN:
+ANDRÉ LETARTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 15, 2005, at Sherbrooke, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of July 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of March 2006.
+Garth McLeod, Translator
+Citation: 2005TCC420
+Date: 20050728
+Docket: 2004-3784(IT)I
+BETWEEN:
+ANDRÉ LETARTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The point for determination is whether, for the 2002 taxation year, the Life Income Fund ("LIF") held by the Appellant was a Registered Retirement Income Fund ("RRIF") or another type of "life annuity out of or under a superannuation or pension plan" not included in the definition of "pension income" in subsection 118(7) of the Income Tax Act (the "Act") granting entitlement to the pension credit provided for in subsection 118(3) of the Act.
+[2] The Appellant represented himself at trial. By his appeal, he disputes the refusal of the Minister of National Revenue (the "Minister") to allow him the pension credit under subsection 118(3) of the Act.
+[3] The facts on which the Minister relied in making and confirming the reassessment of January 30, 2004, are described in paragraph 7 of the Reply to the Notice of Appeal, as follows:
+[TRANSLATION]
+(a) the Appellant was 58 years old during the taxation year in issue;
+(b) in filing his return of income for the taxation year in issue, the Appellant reported pension income of $2,974;
+(c) the Minister noted, in verifying the slips attached to the Appellant's return of income for the 2002 taxation year, that the slip in support of the $2,974 amount was for income from a Registered Retirement Income Fund (RRIF);
+(d) given the Appellant's age, it is the Minister's view that the amounts received under a RRIF do not constitute eligible pension income granting entitlement to the pension credit.
+[4] The Appellant clearly summarized the nature of his claims in his notice of appeal of August 8, 2004:
+[TRANSLATION]
+I was disallowed the $1,000 retirement income deduction on the ground that that retirement income came from a Registered Retirement Savings Plan, which is false. That amount came from a L.I.F.
+Quebec's pension-plan legislation allows us to transfer pension amounts to a new employer or to a L.I.R.A. (locked-in retirement account), which I did.
+Now, to draw a pension, the Quebec act requires us to transfer that L.I.R.A. to a L.I.F. (Life Income Fund), which I also did. Since that money came directly and solely from my former employer, it therefore constitutes retirement income.
+Since officials in Ottawa have confused the L.I.F. with a R.R.S.F., because the L.I.F. was new and seemed to have the same characteristics as a R.R.S.F., we received a T4RIF, as though that money had come from RRSPs, whereas it was in fact money coming directly from my employer.
+The friends with whom I worked for many years and who elected to leave their pensions with the employer receive a T4A, which gives them a $1,000 pension income deduction.
+I am therefore being penalized because I decided to exercise an entirely legal right and because officials in Ottawa, out of intellectual laziness, did not understand the difference between a L.I.F. and a R.R.S.F. Believing them to be similar, they issued the T4s on the same forms (T4RIF).
+I therefore ask you to correct the situation and that the T4 for income from a L.I.F. be stated on a T4A rather than on a T4RIF, which would give me the same benefits as if I had left the amount of my pension with my employer.
+The proof of what I am stating is in the letter of June 17, 2004, in which the amount received was confused with a Registered Retirement Savings Plan.
+As evidence, I am sending you the letter received on June 17, 2004, and the T4RIF, which refers to income from a Registered Retirement Income Fund, and the T4 received from the Government of Quebec, which states that the amount is indeed income from a L.I.F.
+[5] In support of his claims, the Appellant filed various exhibits, including a photocopy of the confirmation of payment (A-1), his portfolio statement (A-2), the LIF to January 31, 2001 (A-3), a photocopy of the T4RIF, Statement of Income from a Registered Retirement Income Fund (A-4), a letter from the Canada Customs and Revenue Agency of Canada ("CCRA") dated June 17, 2004 (A-5), photocopies of the T4As of Gabriel Boisvert and Carol Demers (A-6) as well as a document concerning retirement options (A-7).
+[6] It is apparent from the Appellant's notice of appeal and from his careful and articulate presentation that he put a great deal of energy into preparing his case.
+[7] First, I think it useful to cite two paragraphs from the decision in Saucier v. Canada, [2001] 3 C.T.C. 2115, [2000] T.C.J. No. 346 (Q.L.) (T.C.C.):
+[12] To be entitled to the pension credit provided for in subsection 118(3) of the Act, an individual must have attained the age of 65 years before the end of the year. An individual who is not 65 years old may be entitled to the pension credit if he or she receives qualified pension income, which is defined in subsection 118(7) of the Act. Such income includes either a payment in respect of a life annuity out of a superannuation or pension plan or other annuity payments received by the individual as a consequence of the death of his or her spouse.
+[13] Since the Appellant had not attained the age of 65 years before the end of 1998, since the pension payment was not a payment in respect of a life annuity and since the pension amounts were not received as a consequence of his spouse's death, the Minister rightly disallowed the tax credit provided for in subsection 118(3) of the Act.
+[8] Receiving a pension of the kind contemplated in subparagraph 118(7)(a)(i) of the Act (definition of "pension income") would allow the Appellant to claim the credit under subsection 118(3). Subparagraph 118(7)(a)(i) of the Act reads as follows:
+(7) Subject to subsection 118(8), for the purposes of subsection 118(3),
+"pension income" received by an individual in a taxation year means the total of
+(a) the total of all amounts each of which is an amount included in computing the individual's income for the year that is
+(i) a payment in respect of a life annuity out of or under a superannuation or pension plan,
+[9] Subsection 118(3) reads as follows:
+(3) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the lesser of $1,000 and
+(a) where the individual has attained the age of 65 years before the end of the year, the pension income received by the individual in the year, and
+(b) where the individual has not attained the age of 65 years before the end of the year, the qualified pension income received by the individual in the year.
+[10] First, is a LIF and the same as a RRIF contemplated in subparagraph 118(7)(a)(ii)? Second, must it be concluded that a RRIF under subparagraph (a)(ii) cannot be contemplated in subparagraph (a)(i)?
+[11] The LIF has never been defined in case law. In view of the absence of any definition, it is thus useful to consider the law of the Province of Quebec[1] and the grammatical and ordinary sense of the term LIF,[2] and, lastly, any other interpretation source.
+[12] Section 18 of Quebec's Regulation respecting supplemental pension plans, R.S.Q., c. R-15.1, r. 1, provides as follows:
+A life income fund is a fund established under a contract entered into by a financial institution duly authorized for that purpose and a purchaser who is a former member, a member or the spouse thereof, and under the terms of which the institutions, in return for the capital that it receives, must pay the purchaser an income of which the amount may vary annually. That contract must fulfil the requirements of the Taxation Act (R.S.Q. c. I-3) to be a Registered Retirement Income Fund.
+[My emphasis.]
+[13] Of the dictionaries consulted, only the Grand dictionnaire terminologiqueof Quebec's Office de la langue française provides a definition of LIF:
+[TRANSLATION]
+Fund resulting from the conversion of retirement capital that, from the moment it is constituted, is to be used to pay payable pension benefits, for life, in accordance with the terms and conditions provided for by a written contract between a financial institution and the holder. Note: The amount of the benefits provided may vary periodically as the holder chooses.
+[14] In view of the difficulty in defining what a LIF is, it is, for all practical purposes, impossible to conclude that there is a common meaning that can be assigned to the term.
+[15] Since Quebec was the first province in Canada to make provision for this type of income fund, it should not come as a surprise that it is hard to find the ordinary meaning that should be assigned to the term.
+[16] The best, indeed the only, source of information on LIFs is undoubtedly Quebec writers.
+[17] Gary Nachshen made an interesting contribution on this question in Congrès 92, Association de planification fiscale et financière, at pages 365 and 366:
+[TRANSLATION]
+The life income fund ("LIF") is a new variety of RRIF that not only meets the requirements of the I.T.A., but also those of the supplemental pension plan legislation of certain jurisdictions. Quebec was the first Canadian jurisdiction to introduce the LIF, with the passage of section 19 of the Regulations made under the Supplemental Pension Plans Act in August 1990.
+Briefly stated, for members of a supplemental pension plan, a LIF is an alternative to immediately purchasing an annuity, with their pension credits, upon termination of employment or retirement. LIFs afford such members the opportunity to continue accumulating retirement funds with their pension credits, instead of immediately establishing the level of their retirement income for the term they choose until they reach the age of 80 years. In other words, a LIF gives former pension plan members more flexibility.
+Supplemental pension plan administrators are required to transfer the assets of their plan to a LIF only if a standard agreement on the LIF in question has first been signed with Revenue Canada, Taxation, and the Quebec Pension Plan [...]
+To allow pension plan assets to be rolled over directly to a LIF without tax consequences, it was necessary to amend section 147.3 of the I.T.A., which did not previously provide for any tax-free rollover of a RPP to a RRIF. This amendment to section 147.3 was introduced in December 1991 [...]
+[...] However, it is now possible for former pension plan members who have not yet reached early retirement age to transfer their pension credits from the pension plan to a LIF. Since there is no minimum starting age for the payment of benefits for a LIF, the said participants may immediately begin receiving at least a portion of the assets represented by their pension credits, even before they have reached early retirement age.
+[My emphasis.]
+[18] In "Le passage d'employé à travailleur autonome : Incidences fiscales d'un congédiement", Congrès 2000, Vol. 1, Association de planification fiscale et financière, Lucie Gaudreau writes, at pages 10:41 and 10:42:
+[TRANSLATION]
+The LIRA and the LIF were created in August 1990 by the Regulation respecting supplemental pension plans [R.R.Q., c. R-15.1, r. 1] in order to allow an annuitant to withdraw funds accumulated in a pension plan. The only vehicle previously offered was the locked-in RRSP. As a result, at retirement, annuitants had no choice but to convert the accumulated funds in a locked-in RRSP into an annuity. However, holders of a regular RRSP had two options at retirement, either to transfer the funds to a Registered Retirement Income Fund (hereinafter "RRIF") or to purchase an annuity. The introduction of the LIRA and the LIF corrected this situation, thus making it possible for funds from pension plans (which must retain their locked-in feature) to be transferred to an LIRA and then to a LIF (the operation of which is very similar to that of a RRIF) or directly to a LIF.
+When it created the LIRA, the government's primary objective was to replace the locked-in RRSP that existed at the time, and the LIF was created to preserve the lifelong character of the benefit. Previously, employees who had wanted to withdraw funds accumulated in their pension plan transferred their vested rights from a pension plan to a locked-in RRSP, then transferred that locked-in RRSP to another financial institution. The concept of a locked-in account ran the risk of disappearing, since, at the time, it lacked rigour for monitoring purposes. That mechanism is no longer possible under the current rules.
+The rules governing LIRAs and LIFs are similar to those for the RRSPs and RRIFs defined by the Income Tax Act. Furthermore, LIRAs and LIFs must meet the requirements of that act, in addition to the standards set by legislation applicable to pension plans [...]
+[19] It is therefore reasonable to conclude that a LIF is a form of RRIF governed by rules similar to those governing RRIFs. Two other authors have also come to that conclusion. Marcel R. Théroux writes in "Rémunération lors de la retraite",[3] at page 20:
+[TRANSLATION]
+The life income fund ("LIF") is a hybrid. It contains elements of the annuity and of the Registered Retirement Income Fund ("RRIF"). Pension plan members may replace their income from the plan with another annuity, the LIF.
+The LIF must be a RRIF. It is established under a contract consistent with a standard contract registered in advance with the Régie des rentes.
+[20] In "Traitement fiscal des dons - Partie 2 : Formes de dons et leur traitement fiscal",[4] Marc Jolin writes, at pages 15 (footnote on page 18) and 17:
+[TRANSLATION]
+[...] Note that, from a tax standpoint, Locked-in Retirement Accounts (LIRAs) and Life Income Funds (LIFs) are considered RRSPs and RRIFs respectively, even though they remain subject to legislation on pension plans, such as the S.P.P.A.
+[...]
+[...] RRSPs (including Locked-in Retirement Accounts, the Locked-in Retirement Account (LIRA)), RRIFs (including the Life Income Fund (LIF)) [...]
+[21] Lastly, Gary Nachschen wrote as follows:
+[TRANSLATION]
+As noted above, Quebec was the first jurisdiction to introduce the LIF concept. New Brunswick followed a little earlier this year, as did Manitoba. It can be expected that all Canadian provinces, in addition to the federal government, will follow Quebec's example in the coming years.[5]
+[22] Even though it is quite clear that an LIF is a form of RRIF, the Appellant is not entitled to the pension credit. Adding the RRIF to subparagraph (a)(i) would run counter to the principles of interpretation of legislation, given that it was at first expressly excluded. That exclusion cannot be disregarded.
+[23] One of those principles is well summarized by an author often quoted on the subject, Pierre-André Côté, in The Interpretation of Legislation in Canada, 3rd Edition, Carswell, 1999, at page 336:
+Examples of a contrario arguments in case law are numerous. Often, the maxim expressio unius est exclusio alterius is cited. For example, if a statute mentions a part of a whole and then defines a rule to be applied to that part, we may conclude that the rule does not apply to the unmentioned parts of the whole. A statute that permits a certain group to be sued should not be construed as permitting the group to sue; if an enactment declares certain sections of a statute applicable to a particular situation, then the other sections are inapplicable, [...]
+[My emphasis.]
+[24] What of the Appellant's argument that, since the funds used to acquire the LIFs came from "pension income", that type of income should not lose its origin when it takes the form of a LIF?
+[25] This argument cannot stand in view of O'Connor J.'s reasons in Whalen v. Canada, No. 93-2748(IT)I, June 2, 1994, [1994] T.C.J. No. 397 (Q.L.) (T.C.C.), at paragraph 5, which reads as follows:
+The law is clear that payments out of a R.R.I.F. do not entitle recipients under age 65 to the $1,000 pension credit. It is true that had the payments come directly from the Camco pension plan the credit would be available. Although there is a "paper trail" showing where the monies originated, this is not sufficient to alter the application of the Act. Payments under a R.R.I.F. are not the same as direct pension payments. The Appellant controls his R.R.I.F.'s investments and the amounts of the payments to him. The Appellant has probably acted prudently from a tax point of view in having his company pension rolled over on a tax free basis into his R.R.S.P. and subsequently converted on a tax free basis to a R.R.I.F. Having done that however he cannot now be heard to argue that payments from the R.R.I.F. are to be treated in the same manner as direct payments from his company pension plan. The appeal is dismissed.
+[26] In Kennedy v. Canada, No. 2000-2785(IT)I, [2001] T.C.J. No. 486 (Q.L.) (T.C.C.), dated June 21, 2001, Bowie J. of this Court wrote as follows:
+4 The Appellant chose the latter option and her funds were then subsequently transferred to two Registered Retirement Income Funds (RRIFs) from which she received annuity payments totalling $3,329, in 1998.
+5 This brings me back to the definitions of "pension income" and "qualified pension income". For present purposes, it is sufficient to understand that a payment under a life annuity "out of or under a superannuation or pension plan" would fall within the definition of "pension income", and also within the definition of "qualified pension income". Other types of pension income, including "a payment out of or under a registered retirement income fund" meet the definition of "qualified pension income" only if they are received as a consequence of the death of a spouse of the recipient.
+6 At the end of 1998, the Appellant had not attained 65 years of age. Nor did she receive her annuity payments as the result of the death of a spouse. In fact, she was not a widow. The Minister denied her the pension deductions, and it is from that decision that she now appeals.
+7 The Appellant argued first that her payments from the RRIFs qualify as being payments "out of or under a superannuation or pension plan" and are therefore "qualified pension income", because the original source of the funds which in 1998 comprised the RRIFs was from her entitlement under the Public Service Superannuation Fund. This argument cannot succeed. The language of subparagraph (a)(i) of the definition of pension income simply cannot bear the interpretation that payments from a RRIF funded with proceeds from a superannuation fund which are rolled over, first, to a RRSP and then to a RRIF are payments from the superannuation fund. This ground of appeal fails.
+[27] This reasoning was also followed in Debruin v. Canada, No. 94-3232(IT)I, January 15, 1996, [1995] T.C.J. No. 1729 (Q.L.) (T.C.C.), at paragraph 10.
+[28] For all these reasons, the appeal shall be dismissed.
+Signed at Ottawa, Canada, this 28th day of July 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of March 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC420
+COURT FILE NO.: 2004-3784(IT)I
+STYLE OF CAUSE: ANDRÉ LETARTE AND THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: February 15, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: July 28, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Federal Court of Appeal held as follows in Canada (Attorney General) v. National Bank of Canada, 2004 FCA 92, at paragraph 33, after referring to sections 8.1 and 8.2 of the Interpretation Act, R.S.C. 1985, c. I-21, as amended by S.C. 2001, c. 4, s. 8.:
+[...] if, in interpreting the application of a federal enactment in a province, one is to refer to the province's law of property and civil rights as suppletive law, reference to that law must be necessary and there must be no provision to the contrary in federal law.
+[2] I draw on the modern rule for interpreting statutes, which was recently cited by the Supreme Court of Canada in Markevich v. Canada, [2003] 1 S.C.R. 94, at paragraph 12:
+The noted author E. A. Driedger in Construction of Statutes (2nd ed. 1983), at p. 87, stated that the modern approach to statutory interpretation requires the words of an Act "to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament." These principles have frequently been adopted by this Court both generally and in the construction of taxation legislation: see Will-Kare Paving & Contracting Ltd. v. Canada, [2000] 1 S.C.R. 915, 2000 SCC 36, at para. 32; 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, both in the majority and minority concurring reasons, and Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 578.
+[3] Colloque : Rémunération des cadres, Montreal, February 19, 1992, Association de planification fiscale et financière, tab 7.
+[4] Colloque : Les dons planifiés, Montréal and Québec, September 20 and 21, 2000, Association de planification fiscale et financière, tab 3.
+[5] G. Nachshen, op.cit., p. 366.

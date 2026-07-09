@@ -1,0 +1,228 @@
+---
+title: "Bilodeau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26253/index.do"
+last_modified: "2004-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 685"
+citation2: ""
+neutral_citation: "2004 TCC 685"
+decision_date: "2004-10-13"
+language: "en"
+item_id: "26253"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3984
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:56:19.048000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5898ca7b5aee3e1b80f9be11c7ec5d5306faf9163e55de316303a885b73abdc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bilodeau c. La Reine
+
+- Citation: 2004 TCC 685
+- Decision date: 2004-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3984, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bilodeau c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-13
+Neutral citation
+2004 TCC 685
+File numbers
+2000-4207(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4207(IT)G
+BETWEEN:
+ROBERT BILODEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Rond Point Lincoln Mercury (1989) Inc. (2000-4225(IT)G))
+on June 17 and 18, 2004, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Daniel Marecki
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 1996 and 1997 taxation years are allowed and the assessments referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+As the appeals were heard on common evidence and the parties won or lost on a fairly equal basis, costs are not awarded.
+Signed at Ottawa, Canada, this 13th day of October 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Docket: 2000-4225(IT)G
+BETWEEN:
+ROND POINT LINCOLN MERCURY (1989) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeals heard on common evidence with the appeals of Robert Bilodeau (2000-4207(IT)G)) on June 17 and 18, 2004, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Daniel Marecki
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 1995 and 1996 taxation years are allowed and the assessments referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the legal fees can be deducted. Otherwise, the assessments remain unchanged.
+In accordance with the attached Reasons for Judgment.
+As the appeals were heard on common evidence and the parties won or lost on a fairly equal basis, costs are not awarded.
+Signed at Ottawa, Canada, this 13th day of October 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC685
+Date: 20041013
+Dockets: 2000-4207(IT)G
+2000-4225(IT)G
+BETWEEN:
+ROBERT BILODEAU,
+ROND POINT LINCOLN MERCURY (1989) INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals were heard on common evidence. For Rond Point Lincoln Mercury (1989) Inc., the taxation years at issue are 1995 and 1996; for Robert Bilodeau, 1996 and 1997.
+[2] The first issue is whether Rond Point Lincoln Mercury (1989) Inc. was entitled to deduct the legal fees paid to defend Mr. Bilodeau against charges under the Criminal Code of unlawful sexual conduct and whether those payments should be included as part of Mr. Bilodeau's income, under section 6 of the Income Tax Act (the "Act").
+[3] The second issue involves cash withdrawals credited to petty cash. The issue is whether kickbacks were paid to a car rental company for the acquisition of vehicles from Rond Point Lincoln Mercury (1989) Inc. These payments were allegedly made in cash to one of the shareholders of the acquiring company.
+[4] The third issue is whether the loss realized on the disposition of property acquired for the personal use of a shareholder of Rond Point Lincoln Mercury (1989) Inc. can be considered, following a series of exchanges, a business loss.
+[5] With regard to the first issue, the charges made against Mr. Bilodeau involved a sexual assault and an indecent act done in the presence of a person with intent to insult or offend that person. The sexual assault allegedly occurred in November 1993 during a trip to bring vehicles to an auction sale. The indecent act was allegedly done during a road test in July 1996.
+[6] Two rulings dated February 2, 2001, numbers 963 and 960, were filed as Exhibit A-1. In both cases, Mr. Bilodeau had testified and offered his version of the events. In the first case, his testimony and the documents produced clearly showed the judge presiding over the hearing that the complainant's version was not credible. As for the second complaint, the judge had to decide between two versions without any supporting documentary evidence. He ruled that he was not convinced beyond all doubt as to the commission of the offence.
+[7] Mr. Bilodeau has been in automobile sales since 1986. In 1996, he was the President and CEO of Rond Point Lincoln Mercury (1989) Inc., as well as one of its employees. The evidence showed that he was an excellent salesman. He was also the sole shareholder of Rond Point Lincoln Mercury (1989) Inc.
+[8] It was in 1996 that Mr. Bilodeau became subject to the above charges. Mr. Bilodeau stated that he required the services of a lawyer to defend his reputation and that of the business for which he was the president and sole shareholder.
+[9] Mr. Bilodeau stated that the charges stemmed from the malicious intentions of a former associate within the company. He said that he had to dismiss that associate in 1994 because of the abusive way in which he applied the guarantees offered by the manufacturer of the automobiles sold by Rond Point Lincoln Mercury (1989) Inc. In this regard, the manufacturer made claims of $50,000 and $20,000 against Rond Point Lincoln Mercury (1989) Inc.
+[10] When the charges were laid in November 1996, Mr. Bilodeau fell into a deep depression and sought refuge in the Montréal area. He was hospitalized for approximately six weeks and remained in Montréal for approximately six months. He returned for the preliminary investigation held around March 20.
+[11] To illustrate the torment Mr. Bilodeau felt and the connection between him and Rond Point Lincoln Mercury (1989) Inc., transcripts of radio broadcasts on November 26 and 27 and December 2, 1996, reporting on the charges against Mr. Bilodeau were filed as Exhibit A-3.
+[12] Exhibit A-2 is a graphic description of the vehicles sold each month from 1993 to 1997. The purpose of this exhibit is to show that sales dropped slightly after Mr. Bilodeau left.
+[13] No one from the Ford corporation, for which Rond Point Lincoln Mercury (1989) Inc. was a dealership, had contacted Mr. Bilodeau following the charges. Nonetheless, Mr. Bilodeau felt it was worthwhile to offer them an explanation.
+[14] The second issue involves kickbacks allegedly paid in cash to Nolicam, a car rental company in Chicoutimi. According to Mr. Bilodeau, one of Nolicam's shareholders had allegedly asked him to add $1,000 to the invoice of each vehicle and to pay him $1,000 in cash. The amounts were allegedly paid by either Mr. Bilodeau or Mr. Michel Pelletier, the sales director. The controller or his assistant placed the money into envelopes, using funds allocated to petty cash.
+[15] Mr. Bilodeau was unable to show on Exhibit A-2-the compilation of monthly vehicle sales from 1993 to 1997-which months contained vehicles for which kickbacks were allegedly paid. He could not remember.
+[16] He did, however, describe the scheme. A vehicle that was actually sold for $20,000 would have a selling price of $21,000 indicated on the contract. Nolicam paid the total amount indicated on the sales contract by cheque. The $1,000 was then paid in cash to Mr. L. P. at his request.
+[17] Mr. L. P., who at the time was president of Nolicam, testified. He stated that Nolicam was created in 1990 as a car and truck rental company. He and one other person were the shareholders, holding 51 and 49 percent of the shares respectively. He was president until 1998. He confirmed that Nolicam did indeed purchase vehicles from Rond Point Lincoln Mercury (1989) Inc.
+[18] Counsel for the Appellants asked him whether it was possible that, at that time, either he or his associate told Mr. Bilodeau or Mr. Pelletier that he wanted the invoice to be increased by a certain amount and that that amount had been placed in an envelope, in cash, and paid to Mr. L.P. personally. The witness categorically denied this. He said that his associate only wanted to pay the lowest price and that he would never have allowed such an underhanded deal.
+[19] Moreover, the witness was stunned by the number of vehicles (35) sold by Rond Point Lincoln Mercury (1989) Inc. to Nolicam in 1995. He thought that Nolicam had purchased 20, but 35 seemed astonishing.
+[20] The third issue pertains to a boat acquired by Mr. Bilodeau's associate while on vacation in Florida in February and March 1994. When he returned in April 1994, he brought back a boat that he had purchased in Florida on behalf of Rond Point Lincoln Mercury (1989) Inc. He had transferred funds to himself from Rond Point Lincoln Mercury (1989) Inc.'s accounts, according to Mr. Bilodeau, without his knowledge. The purchase invoice for the boat was filed as Exhibit A-5. It is dated February 8, 1994. The price is US$29,000.
+[21] At that time, the conflict was escalating between the shareholders. Mr. Bilodeau informed his associate that he would sell the boat.
+[22] The sale did not occur. At one point, he heard that someone might be interested in buying a boat. According to Mr. Bilodeau, that person told him that he was prepared to accept the boat in exchange for a camper. The camper was not selling either. It was exchanged for a larger camper. That camper was registered. It was used to attend truck shows in June 1996. In July came the flooding. Mr. Bilodeau allowed one of his employees who had lost his house to use the camper temporarily. The camper was sold in the fall of 1996.
+[23] Mr. Bilodeau confirmed that Rond Point Lincoln Mercury (1989) Inc. did not make any claim against the associate for purchasing the boat for his personal use without the knowledge of the other shareholder.
+[24] Mr. Michel Pelletier began working for Rond Point Lincoln Mercury (1989) Inc. in 1978. In 1986, he became the sales director. In 1992, when Mr. Bilodeau acquired the shares of Rond Point Lincoln Mercury (1989) Inc., the witness was no longer working for Rond Point Lincoln Mercury (1989) Inc. He then returned to work for the company in the same position. He confirmed Mr. Bilodeau's testimony regarding the dispute between the two associates, the attempts to sell the boat, and the cash payments made to Mr. L.P.
+[25] Mr. Bilodeau's criminal attorney, Rond Point Lincoln Mercury (1989) Inc.'s controller, and the office clerk also testified. In general, they corroborated Mr. Bilodeau's testimony: the lawyer testified about the first issue, and the other two witnesses testified about the other two issues. Furthermore, the lawyer stated that civil proceedings had been launched against the Crown prosecutors and other persons involved in the criminal suit but that, ultimately, they had been dropped.
+[26] Mr. Danny Drolet, a Canada Customs and Revenue Agency auditor, had begun his audit in April 1998. He also testified at the request of counsel for the Appellants.
+[27] He stated that although the boat had been acquired for personal use, it had been added to the inventory upon return from Florida, which is contrary to the Act. With regard to the kickbacks paid to Nolicam, he saw the stock cards, where $1,000 was indicated with an internal receipt in petty cash. There was no document indicating that it had been paid to Nolicam. In such cases, the amounts should be added to the principal shareholder's income. That is what he would have liked. But in view of Mr. Bilodeau's explanations, he gave him the benefit of the doubt. To allow Rond Point Lincoln Mercury (1989) Inc. to deduct those amounts, he told either the accountant or Mr. Bilodeau to ask Nolicam or Mr. L.P. to sign a statement indicating that those amounts had been received. This was not done. It could have been deducted, but he needed to have documentary evidence. In this case, the documentary evidence would have consisted of a receipt from someone acknowledging receipt of the amounts.
+[28] With regard to the first issue, i.e., the legal fees, the auditor admitted that the events at issue are events that took place within the framework of Mr. Bilodeau's work. However, he added that his alleged actions were not part of his job description.
+[29] Counsel for the Appellants referred to the following rulings, interpretation bulletin, and technical interpretation: 166 v. M.N.R., [1954] 10 Tax A.B.C. 285; Transocean Shipping & Coal Co. Inc. v. M.N.R., 24 Tax A.B.C. 262; Car Strip Ltd. v. M.N.R., [1967] Tax A.B.C. 361; St-Germain v. M.N.R., 83 DTC 36 (Tax Review Board); and Border Fertilizer (1972) Ltd. v. M.N.R., [1987] 2 C.T.C. 183, IT-99R5 (Consolidated) - Legal and Accounting Fees, and 2003-0035475 - Technical Interpretation (External).
+[30] From the interpretation bulletin, he cited paragraph 30 entitled "Legal Expenses of Employees Paid by Employers":
+30. An employer may deduct the legal expenses incurred in defending an employee, officer or director against charges of having committed an illegal or wrongful act in the ordinary course of carrying on the employer's business. This could include expenses incurred in relation to allegations of offences under business practices or competition law. See for example, the criteria set out in The Car Strip Ltd. v. MNR, [1967] Tax A.B.C. 361, 67 DTC 259 and the decision of the Federal Court, Trial Division, in Border Chemical Company Ltd. v. The Queen, [1987] 2 CTC 183, 87 DTC 5391.
+[31] Counsel for the Respondent referred to the following rulings: Car Strip Ltd. v. M.N.R., [1967] Tax A.B.C. 361; Border Fertilizer (1972) Ltd. v. M.N.R., [1987] 2 C.T.C. 183; Clemiss (A.) v. M.N.R., [1992] 2 C.T.C. 232; 412237 OntarioLtd. v. R., [1994] 1 C.T.C. 2177; and Strachan v. R., [2000] 3 C.T.C. 2863.
+[32] Counsel for the Respondent pointed out that the charges were against Mr. Robert Bilodeau personally, that they had nothing to do with the normal carrying on of Rond Point Lincoln Mercury (1989) Inc.'s business, that they did not pose an inherent risk to the operation of the business, and that they did not stem from the normal exercise of Mr. Robert Bilodeau's duties. Rond Point Lincoln Mercury (1989) Inc. did not spend $47,955 in 1996 and $40,768 in 1997 for the purpose of earning income. Moreover, those amounts paid by Rond Point Lincoln Mercury (1989) Inc. on behalf of Mr. Robert Bilodeau constitute a taxable benefit for him.
+[33] With regard to the benefit taxed under section 6 of the Act, counsel for Mr. Bilodeau referred to the following rulings: Huffman v. The Queen, [1990] 2 C.T.C. 132 (F.C.A.); Clemiss (A.) v. M.N.R., [1992] 2 C.T.C. 232; and Strachan v. The Queen, [2000] 3 C.T.C. 2863.
+[34] Specifically, he referred to paragraph 10 in Huffman:
+Based on this passage, the learned Trial Judge set out the test which he applied to the facts at bar (A.B. p. 99):
+It is therefore necessary to consider whether the facts here show that there was a material acquisition conferring an economic benefit on the taxpayer.
+He then proceeded to review the evidence and to make the findings of fact referred to supra. In applying the Savage test as enunciated supra to the factual situation at bar, he stated (A.B. p. 102):
+Based on the jurisprudence defining benefit in s. 6(1)(a) of the Income Tax Act, I am unable to conclude in these circumstances that the plaintiff received a benefit. The plaintiff was required, in order to carry out his duties as a plainclothes officer and receive a salary as such, to incur certain expenses regarding his clothing, and reimbursement of these expenses should not be considered as conferring a benefit under s. 6(1)(a) of the Act. ... The taxpayer was simply being restored to the economic situation he was in before his employer ordered him to incur the expenses.
+[35] With regard to the cash kickbacks, counsel for the Respondent pointed out that Rond Point Lincoln Mercury (1989) Inc. did not submit any documentary evidence. As for the third issue, the Respondent's position is that the property is personal-use property and never really was inventory property. Counsel for the Respondent relied on the ruling in Installations GMR Inc. v. Q., 2003 DTC 387.
+Analysis and conclusion
+[36] I will begin with the second and third points at issue.
+[37] With regard to the kickbacks allegedly paid in cash to Nolicam in 1995, the evidence has shown that they were not paid to Nolicam. According to the scheme described, they were allegedly paid to one of Nolicam's associates without the knowledge of the other associate. When the auditor arrived at Rond Point Lincoln Mercury (1989) Inc. in April 1998, that would have been the time to present convincing evidence, if any. That did not happen. The cars had been sold in 1995. Even the number of vehicles sold to Nolicam is uncertain. There was no reason why definitive evidence as to that number could not be produced.
+[38] There was nothing more than testimonial evidence regarding the kickbacks, both in terms of the payment and the number of vehicles involved. This is not sufficient to convince me that payments in the amount of $35,000 were made in 1995, in cash, to Mr. L.P. to promote the sale of the vehicles.
+[39] With regard to the loss incurred on the sale of the boat, I believe that the Respondent's position should be accepted. There was no evidence of change in use of the personal property acquired by Rond Point Lincoln Mercury (1989) Inc. in 1994 in accordance with the Act. There is no entry, in Rond Point Lincoln Mercury (1989) Inc.'s books, showing the deemed disposition of the personal property and its subsequent acquisition for the purposes of inclusion in the inventory. The only entry made was that in the inventory when the boat arrived, a boat acquired for personal use by one of Rond Point Lincoln Mercury (1989) Inc.'s managers.
+[40] Let us now consider the issue of the legal fees. The evidence has shown that the sexual assault and indecent act with which Mr. Bilodeau was charged, if they occurred, allegedly took place while carrying out his work activities and that Mr. Bilodeau was acquitted of both charges.
+[41] As I began deliberating, I was of the opinion that in circumstances involving acts of a sexual nature, acquittal was a major factor in whether an employer deducts the legal fees incurred to defend an employee.
+[42] Existing jurisprudence allows for the deduction of legal fees incurred to defend an employee who has or has allegedly committed unlawful acts while performing his duties. Until now, the unlawful acts considered were those that went against any regulation whatsoever related to the work activity. The alleged act remained linked to the employee's sphere of activity.
+[43] Tax jurisprudence does not appear to have yet dealt with the deductibility of legal fees incurred to defend an employee accused of unlawful sexual acts committed in the course of his work activities.
+[44] In the case of an alleged act that is not inherently linked to work activities, if the person is found guilty, the person has committed an act that is outside the sphere of work. A sexual act is necessarily outside an employee's sphere of activity.
+[45] At the time the decision was made to incur legal fees to defend its president and employee, Rond Point Lincoln Mercury (1989) Inc. knew that the alleged acts were acts committed in the course of work activities. The company believed him to be innocent and falsely accused. Furthermore, our legal system upholds the principle of the presumption of innocence of any accused.
+[46] It is true that if these acts were committed, they are not inherently linked to work activities. Moreover, if an employee or president is falsely accused of sexual misconduct in the exercise of his duties, the only issue at stake is the performance of the individual's work activities.
+[47] It therefore seems to me that the employer is entitled to defend an employee or a president with respect to the performance of work activities. Such an expense must be part of the costs of work.
+[48] The fact that the employee is later found guilty does not prevent the deduction of legal fees incurred to defend the employee against the charges. Deductibility is determined at the time the expense is incurred. It is deductible if it is related to work activities.
+[49] Is Mr. Bilodeau required to include these amounts as a benefit within the meaning of section 6 of the Act?
+[50] A salary is deducted by the employer as an expense, but the salary must be included in the calculation of the employee's income. It is therefore not surprising that the expense for legal fees is included in the calculation of the employer's income but must be included in the calculation of the employee's income as a benefit.
+[51] There was a trial. The witnesses were heard and the judge ruled that the charges were unfounded. The charges arose from a trip to sell automobiles at auction and a road test. In both cases, the context was specific to the work activities. These were not acts allegedly committed while carrying on a work activity, such as a truck driver who drives while intoxicated, but rather acts that were allegedly committed while carrying on a normal work activity.
+[52] With regard to the inclusion of the legal fees, it is my opinion that the acquittal or culpability of the employee is a determining factor. If the employee is found guilty of the alleged acts, these are acts not part of the employee's job description, hence the legal fees are fees that should have been incurred by the employee personally. Because they were paid by the employer, they must be included in the calculation of the employee's income as a benefit under section 6 of the Act.
+[53] If the person is found innocent, the principles of Huffman apply. There is no economic benefit conferred on an employee unfairly accused of sexual misconduct while carrying on his duties. In the case at hand, the charges were brought against Mr. Bilodeau personally but were dismissed. These were therefore not personal legal fees and do not need to be included in the calculation of Mr. Bilodeau's income.
+[54] Mr. Bilodeau's appeal is allowed. With regard to Rond Point Lincoln Mercury (1989) Inc., the company is entitled to deduct the legal fees. For the other two issues, the assessments are upheld.
+Signed at Ottawa, Canada, this 13th day of October 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 31st day of January 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC685
+COURT FILE Nos.:
+2000-4207(IT)G
+2000-4225(IT)G
+STYLES OF CAUSE:
+Robert Bilodeau and the Queen
+Rond Point Lincoln Mercury (1989) Inc. and the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+June 17 and 18, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+October 13, 2004
+APPEARANCES:
+For the Appellants:
+Christopher R. Mostovac
+For the Respondent:
+Daniel Marecki
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Christopher R. Mostovac
+Firm:
+Starnino Mostovac
+Montréal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,387 @@
+---
+title: "Louis Sheff (1984) Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26610/index.do"
+last_modified: "2003-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 589"
+citation2: ""
+neutral_citation: "2003 TCC 589"
+decision_date: "2003-09-10"
+language: "en"
+item_id: "26610"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3552
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:45:25.871000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9b849dcf8ced02af3838f55ff903a43e49fdeacd36e486d3352f1298ef500bc5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Louis Sheff (1984) Inc. v. The Queen
+
+- Citation: 2003 TCC 589
+- Decision date: 2003-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3552, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Louis Sheff (1984) Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-10
+Neutral citation
+2003 TCC 589
+File numbers
+2002-834(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-834(IT)G
+BETWEEN:
+LOUIS SHEFF (1984) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Louis Sheff (2002-836(IT)G) on November 7 and 8, 2002, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+André Gauthier
+Josée Vigeant
+Counsel for the Respondent:
+Stéphane Arcelin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is allowed and the reassessment issued against the appellant for that year is quashed on the basis that it is statute-barred.
+The appeals from the assessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of September 2003.
+"Lucie Lamarre"
+Lamarre, J.
+Docket: 2002-836(IT)G
+BETWEEN:
+LOUIS SHEFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard common evidence with the appeals of Louis Sheff (1984) Inc. (2002-834(IT)G) on November 7 and 8, 2002, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+André Gauthier
+Josée Vigeant
+Counsel for the Respondent:
+Stéphane Arcelin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is allowed and the reassessment issued against the appellant for that year is quashed on the basis that it is statute-barred.
+The appeals from the assessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of September 2003.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2003TCC589
+Date: 20030910
+Docket: 2002-834(IT)G
+BETWEEN:
+LOUIS SHEFF (1984) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+2002-836(IT)G
+AND BETWEEN:
+LOUIS SHEFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] These are appeals from assessments made by the Minister of National Revenue ("Minister") that included in both appellants' income an amount of $22,500 for the 1995 taxation year and $90,000 for each of the 1996, 1997 and 1998 taxation years. The Minister is of the opinion that the amounts in question were paid to Louis Sheff (1984) Inc. ("LS 1984") pursuant to a contract for services entered into on September 13, 1985 between Sheff, Weiser, Perelman & Associates Inc. ("SW") and the appellants and that those amounts are taxable in LS 1984's hands as income pursuant to section 9 of the Income Tax Act ("Act"). The monies having been deposited in the joint personal account of LS 1984's principal shareholder, Louis Sheff, and his wife Sally, the Minister is also of the view that the same amounts are taxable in the hands of Louis Sheff personally, pursuant to subsection 15(1) of the Act, as a benefit conferred upon him by LS 1984.
+Facts
+[2] The parties filed a Joint Statement of Facts (Exhibit A-1), which reads as follows:
+1. According to the September 13th, 1985 agreement (hereinafter "the Agreement"), Mr. Louis Sheff and his spouse, Mrs[.] Sally Sheff, sold their 300 preferred shares and 98 common share[s], being all the shares owned by them in Sheff, Weiser, Perelman & Associates Inc. (hereinafter "the Shares") to their son, Mr. Allan Sheff, and nephew Mr. Joseph Weiser.
+∙ Table 7, page 2, September 13th, Agreement
+2. The sale of the Shares in Sheff, Weiser, Perelman & Associates Inc. (hereinafter "SW") was the result of disputes and clashes between himself and Mr. Allan Sheff and Mr. Joseph Weiser, each owner of one-third of SW at the time.
+∙ Table 17, p. 6, of the French version of the Judgment of the Superior Court of Quebec
+3. Among other things, the Agreement stipulates that:
+a. Allan Sheff and Joseph Weiser will pay the sum of $120,000 payable to Mr. Louis Sheff at closing by certified cheque, less any sums withdrawn from SW by Mr. Louis Sheff or Sally Sheff over and above their regular payroll salaries during 1985;
+b. the sum of $325,000 will be payable to the Estate or as may be directed in the relevant last will and testament of the last surviving of Mr. Louis Sheff and his spouse, but in no event before October 1st, 1995; and
+c. SW will pay to Louis Sheff (1984) Inc. (hereinafter "LS1984") the sum of $90,000 per year ($7,500 per month starting on October 1st 1985) payable during the lives of Mr. Louis Sheff and his spouse, for a minimum of 10 years.
+∙ Table 7, page 2, September 13th, 1985 Agreement
+4. At the time of the sale of the shares, Mr. Louis Sheff was 74 years old and Mrs. Sally Sheff was 70 years old.
+5. Shortly following the signature of the Agreement, other disputes arose between Mr. Louis Sheff, Mr. Allan Sheff and Mr. Joseph Weiser.
+6. Neither LS1984 nor Mr. Louis Sheff reported any amount paid or payable under the Agreement for the 1985 and 1986 taxation years.
+7. On May 21st, 1986 Counsel Gary H. Waxman, Mr. Louis Sheff's representative, obtained from Marcel Chapados, f.s.a., f.i.c.a. from Blondeau & Company, actuaries, an evaluation of the actual value (on September 13th, 1985) of the amounts payable to Mr. Louis Sheff and Mrs. Sally Sheff according to the Agreement. The September 13th, 1985 value of the payments was established at $1,058,619.
+∙ Tab 9, Letter from Marcel Chapados, f.s.a., f.i.c.a.
+8. On or around September 16th, 1987 the Minister transmitted to Mr. Louis Sheff the result of an evaluation of the fair market value of the shares of SW. On September 13th, 1985 the evaluation of the common shares by the Minister was of the amount of $4,071 each (98 shares x $4,071 = $398,598).
+∙ Tab 11, Letter from M. Richard and F. Flibotte in regards of the valuation of the shares, dated September 16th, 1985.
+∙ Tab 12, Valuation (with attachments) of the disposition of the Shares in SW
+9. On or around November 18th, 1987, Mr. Louis Sheff transmitted a letter to the Minister indicating that he was in disagreement with the September 16th, 1987 valuation. Mr[.] Louis Sheff indicated in his letter that the cash value purchase price was calculated by a licensed actuary to be more than $1,000,000.
+∙ Tab 13, Letter of Mr. Louis Sheff in regards of the valuation of the shares of SW.
+10. Mr. Sheff personally reported all sums that he considered received or receivable from SW under the terms of the Agreement as being the proceeds of disposition of the Shares in his 1987 taxation year, on a similar basis as the valuation by Blondeau & Company, actuaries, thus reporting a capital gain of $869,416 in regards of such.
+∙ Tab 1, Louis Sheff's income tax return for the 1987 taxation year.
+11. Due to the circumstances (dispute) surrounding the transaction, the Minister accepted, 1987 to be the effective year of transaction.
+12. On July 4th, 1991, the Minister reassessed Mr. Louis Sheff's 1987 taxation year to adjust the proceeds of disposition of the Shares to $1,345,000 (and consequently his capital gain and reserve). The $1,345,000 is the aggregate of $120,000, plus $325,000, plus $900,000 (i.e. $90,000 X 10 years).
+13. On or around July 1990, following the refusal of Mr. Louis Sheff to sign a letter to the Minister to the effect that he was rendering services to SW, the tax treatment of the monthly payments of $7,500 resulted in another legal dispute between SW and LS1984. SW stopped making the monthly payments of $ 7,500.
+∙ Table 14, Project of letter in regards of the September 13th, 1985 agreement
+14. On July 15th, 1992 by way of judgment of the Superior Court of Quebec, the Honourable Justice Victor Melançon ordered SW to continue paying LS1984 the monthly payments of $7,500 contracted by way of the Agreement.
+∙ Table 17, Judgment of the Superior Court of Quebec.
+15. On November 15th, 1993 the Quebec Court of Appeal rejected the appeal of SW.
+∙ Table 18, Judgment of the Court of Appeal of Quebec.
+16. On or around January 8th, 1996 (during the course of an audit of Mr. Louis Sheff's 1993 and 1994 taxation years) LS1984 and Mr. Louis Sheff were informed in writing by CCRA to include the monthly payments of $7,500 ($90,000 per year), in LS1984's income, beginning October 1st, 1995.
+∙ Tab 21, Letter by Serge Desjardins
+17. The cheques in regards of the monthly payments of $7,500 were made in the name of "Louis Sheff (1984) & /or Louis Sheff & /or Sally Sheff". They were signed by LS1984, by Mr. Louis Sheff and by Sally Sheff and were deposited in the joint bank account of Mr. Louis Sheff and Sally Sheff (hereinafter "the bank account").
+∙ Tab 8, Example of cheque payable
+18. As of October 1st, 1985, Mr. Louis Sheff was the majority shareholder, the president and director of LS1984. Sally Sheff was a director of LS1984.
+19. The initial Notice of Assessment of LS1984 for [the] taxation year ended December 31, 1995 was issued September 3, 1996.
+20. The initial Notice of Assessment for taxation year 1995 of Mr. Louis Sheff was issued May 30, 1996.
+21. By notice of reassessment, the Minister included in LS1984 & Mr. Louis Sheff's income the monthly payments received as of October 1st, 1995 and deposited in the joint bank account of Mr. Louis Sheff and his spouse, accordingly.
+22. On February 24, 2000, the CCRA issued a first notice of reassessment to LS1984 for taxation years 1995 to 1998.
+23. On February 24, 2000, the CCRA issued a first notice of reassessment to Mr. Louis Sheff for taxation years 1995 to 1998.
+24. On January 24, 2001, the CCRA issued notices of reassessment whereby it cancelled the penalties levied under subsection 163(2) of [the] Income Tax Act, but maintained the monthly instalments of $7,500 to be to be [sic] included in the income of LS1984.
+[3] It is worthwhile reproducing here the September 13, 1985 agreement ("1985 agreement") signed by Allan Sheff and Joseph A. Weiser on the one hand, and agreed to and accepted by Louis Sheff, Sally Sheff, SW and LS 1984 on the other hand. A copy of it is to be found at Tab 7 of the joint book of documents (Exhibit I-1) and it reads as follows:
+ALLAN SHEFF
+. . .
+-and-
+JOSEPH A. WEISER
+. . .
+September 13, 1985
+Mr. Louis Sheff and
+Mrs. Sally Kapustin Sheff
+. . .
+Re: Sheff, Weiser, Perelman &
+Associates Inc. (the "Company") and
+Louis Sheff (1984) Inc. ("Company B")
+Dear Mr. and Mrs. Sheff:
+This will confirm our discussions with respect to the captioned matters only as herein set forth, all previous offers and counter offers being hereby expressly revoked:
+A. Company
+1. Allan Sheff ("A.S.") and Joseph Weiser ("J.W.") hereby purchase all three hundred (300) preferred shares and ninety-eight (98) common shares presently owned by Louis Sheff ("L.S.") and Sally Sheff ("S.S.") being all the shares owned by them in the Company, in consideration of the payment to L.S. at closing by certified cheque of the sum of One Hundred and Twenty Thousand Dollars ($120,000 Cdn) less, if any, sums withdrawn by L.S. and/or S.S. from the Company over and above their regular payroll salaries during 1985.
+2. The Company shall pay a consulting fee to Louis Sheff (1984) Inc. ("Company 'B'") the sum of Ninety Thousand Dollars ($90,000 Cdn) per year for and during the lives of L.S. and S.S., but in any event for a minimum of ten (10) years from the date of closing. Such sum shall be payable in equal monthly amounts of Seven Thousand Five Hundred Dollars ($7,500 Cdn) on the first day of each month, the first payment to be made on October 1st, 1985. The responsibility as consultant to the Company shall be limited to the promotion of its image.
+3. The sum of Three Hundred and Twenty-Five Thousand Dollars ($325,000 Cdn) shall be paid to the Estate (or as may be directed in the relevant last will and testament of the last surviving of L.S. and S.S.) upon the decease of the last surviving of L.S. and S.S.. Such $325,000 Cdn shall in no event be paid prior to October 1st, 1995, even if both L.S. and S.S. are deceased prior to such date.
+B. Company B
+1. A.S. and J.W. hereby sell all shares presently held by them in Company B to L.S. and S.S. for the price of One Hundred Dollar[s] ($100 Cdn).
+2. L.S. shall have access to all general files which are now part of the portfolio of the Company. This is for the purpose of enabling L.S. to solicit his clients for the sale and service of new and old business in the field of Life Insurance Pension Plans, Registered Retirement Savings Plans, Annuities and other kindred Plans. To facilitate the foregoing, L.S. shall be provided, upon request, with a computer print-out of the Company's clients' names, addresses and telephone numbers.
+3. A.S. and J.W. represent and warrant that they will not, themselves or through others, knowingly directly compete with L.S. or this class of business mentioned in the immediately preceding paragraph.
+C. General
+1. Company shall transfer to L.S. for no consideration at closing the 1983 Oldsmobile 98 Regency vehicle he presently drives, the balance of payment therefor to GMAC to be assumed by L.S. to the exoneration of the Company.
+2. Closing shall be held on Thursday, September 19, 1985, at 11:00 a.m., at the offices of Gascon, Gibson, Larose, 1210 Sherbrooke Street, West, 5th Floor, Montreal, Quebec:
+i) At closing, all shares being sold hereby shall be endorsed over to the relevant party and they shall sign and execute such other documentation as may be reasonably required by their attornies [sic] in order to effect the transfer of all said shares;
+ii) At closing:
+a) L.S. shall be elected as a member of the Board of Directors and Chairman of the Company, which positions he may hold for as long as he so desires;
+b) S.S. shall resign as a Director and Officer of the Company; and
+c) A.S. and J.W. will resign as Directors and Officers of Company B.
+iii) L.S. shall be entitled to use and occupy the office at the Company which he presently uses and occupies and shall be entitled to an allowance of Seven Thousand Five Hundred Dollars ($7,500) to refurbish his office and
+iv) L.S. shall be entitled to the requisite secretarial services for purposes of his personal affairs.
+3. Sheff, Weiser, Perelman & Associates Inc. shall pay all legal fees and expenses relating to this Agreement.
+4. The parties shall execute such other documents and do such other acts as may be necessary to give effect to the foregoing.
+If the foregoing is acceptable, please indicate by your signature below.
+Yours very truly,
+________________________ ____________________________
+Witness Allan Sheff
+________________________ ____________________________
+Witness Joseph A. Weiser
+Agreed and Accepted this
+13th day of September, 1985.
+________________________ ____________________________
+Witness Louis Sheff
+________________________ ____________________________
+Witness Sally Sheff
+SHEFF, WEISER, PERELMAN &
+ASSOCIATES INC.
+________________________ Per:_________________________
+Witness
+LOUIS SHEFF (1984) INC.
+________________________ Per:_________________________
+Witness
+[4] The evidence disclosed that Louis Sheff founded in 1939 a Montreal-based insurance brokerage company that eventually became SW. It was a family business. Louis Sheff's nephew Joseph Weiser joined it at the end of the 1960s, and his son Allan Sheff did so in the mid-70s. The business expanded over the years and, in 1981, Joseph Weiser and Allan Sheff acquired two-thirds of the SW shares for the shares' nominal value. In 1985, Louis Sheff, then almost 75 years old, was convinced by the other two shareholders to sell them the remaining third of the SW shares. According to Louis Sheff, they threatened to bankrupt the business unless he sold his interest. Louis Eidelman, the appellants' accountant, stated that Allan Sheff and Joseph Weiser had threatened the appellant that they would break up the business to start another business on their own if Louis Sheff did not sell his shares. Louis Sheff ultimately agreed to sell and negotiations ensued over the price. Louis Sheff wanted enough money to support his wife, Sally Sheff, and to ensure a comfortable retirement. Allan Sheff testified that he and Joseph Weiser wanted to buy out Louis Sheff and also provide him with the security he needed through either a pension or a retirement allowance for the number of years he had given to the business. After most difficult negotiations, they eventually all agreed on the 1985 agreement.
+[5] Allan Sheff had established an approximate value for the whole business of $646,000, one-third of this amount being $215,000 (Exhibit I-1, Tab 12). It was finally agreed that he and Joseph Weiser would pay forthwith $120,000 to buy Louis Sheff's shares and that an amount of $325,000 would be paid to the estate of either Louis Sheff or Sally Sheff upon the decease of the last surviving of the two, but not prior to October 1, 1995. Allan Sheff testified that the purpose of the $325,000 was to leave an estate for his two sisters. It was also agreed, as stated in the 1985 agreement, that a consulting fee of $90,000 per year (payable in equal monthly amounts of $7,500) would be paid to LS 1984 for and during the lives of Louis and Sally Sheff but in any event for a minimum of ten years. That amount was to be paid by SW.
+[6] Allan Sheff testified that shortly after the agreement was signed his father wanted to rescind it, saying that it was signed under extreme duress. Nonetheless, he said, Louis Sheff, who had access to an office on the business's premises, went to that office on a regular basis, spoke to clients and gave instructions to the staff. According to Allan Sheff, his father was supposed to provide the benefit of his 50 years of experience in the insurance business to whatever extent he could.
+[7] However, the situation became bitter as time passed. This led SW, Allan Sheff and Joseph Weiser in December 1985 to file for an injunction against Louis Sheff to, as I understand it, restrain him from attending at the office. By a judgment dated June 26, 1986, Reeves J. of the Superior Court of Quebec ordered Louis Sheff to [TRANSLATION] "refrain from acting in such a manner as to obstruct or hinder the work of [SW] employees". The judge also stated that it would be up to the officers of SW to assess the situation and determine whether it was in their interests to remain present on the premises if Louis Sheff decided to stay at the office outside reasonable hours. It is worth mentioning here the following comments by Reeves J. preceding the order:
+In this context, the Court . . . will first observe that R-1 [1985 agreement] remains a contract that binds the parties. It is the law which the parties have agreed to and they have to abide by it. There are reciprocal obligations in this contract. The Court has no comments to make on whether the contract is executed or not. Each party has its rights and if this give rise to further proceedings, it will be for the tribunal to adjudicate on them as questions are put, submitted to the Court. Some question naturally has arisen to find out whether there have been any steps taken to execute the contract. The evidence reveals that attempts have been made and it is hoped that these will prove fruitful in shortest possible delay. What is the concern of the Court in regarding the injunction, is the interest, the further and continuing interest of the business. This is paramount to the interest of all parties involved in this particular question and should be their guide.
+(Exhibit I-1, Tab 9, page 2.)
+[8] Despite the bitterness of the situation, between October 1985 and June 1990 SW made the monthly payments of $7,500 to LS 1984 as provided for in the 1985 agreement.
+[9] This stream of payments (the $7,500 monthly payments) was the subject of an audit by Revenue Canada (as it was then called) in 1990. Louis Sheff considered those payments as being part of the proceeds of disposition of his shares, and thus declared a capital gain in his 1987 taxation year, based in part, presumably, on an estimate of the value at that time of all the amounts to be received in the future pursuant to the 1985 agreement. In that connection, Louis Sheff obtained a valuation from Blondeau & compagnie, actuaires et conseillers, of the amounts payable to him as per the 1985 agreement and [TRANSLATION] "the present value" of all the amounts thus payable was estimated at $1,058,619 (Exhibit I-1, Tab 10). Based on that value, Louis Sheff declared a capital gain of $869,416 in his 1987 tax return (Exhibit I-1, Tab 1).
+[10] SW, now controlled by the younger generation, wanted to expense the $7,500 monthly payments as salary. On January 16, 1990, Revenue Canada asked Louis Sheff to sign a declaration stating that the monthly payments of $7,500 were paid as consulting fees and should not be part of the proceeds of disposition of the shares (Exhibit 1, Tab14). He refused to do so as he did not agree with that statement.
+[11] Mr. Serge Clairoux, the auditor for Revenue Canada, finally agreed to consider the sum of all the amounts to be paid to Louis Sheff over a ten-year period pursuant to clause A of the 1985 agreement to be the proceeds of disposition of the shares. He arrived at a figure of $1,145,000, being the aggregate of $120,000, $325,000 and $900,000 ($90,000 x 10 years), less a deduction of $200,000 pursuant to subsection 73(5) of the Act (see notice of reassessment and auditor's report, Exhibit I-1, Tabs 2 and 15).
+[12] In Mr. Clairoux's view, the $1,345,000 figure (before the deduction of $200,000) was very close to the 1,2 million dollar value arrived at by Revenue Canada for SW's shares (see business equity valuation made in 1987 by Revenue Canada, Exhibit I-1, Tabs 11 and 12). Louis Sheff finally agreed to settle and to be taxed on a capital gain calculated on the basis of a higher valuation of the sale price of the shares than he had previously claimed ($1,345,000 instead of $1,058,619). Louis Sheff was therefore reassessed accordingly for his 1987 taxation year.
+[13] But this settlement (the "1990 settlement") put SW in a bind. If the $90,000 yearly payments were capital, the company could not expense them as salary. Revenue Canada thus denied the salary expense and added a corresponding amount to the adjusted cost base of the shares that Allan Sheff and Joseph Weiser had purchased from Louis Sheff (Exhibit I-1, Tab 23).
+[14] The Revenue Canada audit poisoned relations between Louis Sheff and SW. Each accused the other of trying to unfairly shift the tax burden. On July 1, 1990, SW ceased paying the $7,500 per month. Relying on Louis Sheff's denial, in his dealings with Revenue Canada, that he rendered any services to the company, SW claimed that he had repudiated their contract. LS 1984 sued SW to force it to make the $7,500 monthly payments. SW contested that action and, by means of a counterclaim, asked for a declaratory judgment establishing whether the 1985 agreement contained two contracts, one relating to the sale of shares and the other to LS 1984's commitment as a consultant.
+[15] In July 1992, Melançon J. of the Superior Court of Quebec upheld the obligation to make the monthly payments and ordered SW to pay LS 1984 back pay. In so doing, he declared that the 1985 agreement constituted a whole of which a part comprised SW's obligation to pay LS 1984 $7,500 per month for and during the lives of Mr. Louis Sheff and Mrs. Sally Sheff, or until October 1, 1995, should they die before that date.
+[16] Melançon J. mentioned the following in the course of his judgment, at page 3 of the English version (Exhibit I-1, Tab 17).
+Does the document P-1 [1985 agreement] consist of one or two contracts : that is to say, a sale of shares and a committment [sic] as a consultant ?
+In the case of Bock & Tétreault Inc. vs Corporation Eagle Lumber (J.E. 88-243, reported in extenso in "Jurisprudence en matière d'obligations," published by Soquij, page 355 and following), jurisprudence has acknowleged [sic] that a contract of sale of shares can also entail a consultant's contract. The defendant, via its shareholders, undertook to pay, from October 1, 1985 on, and this for at least ten years, the sum of $7,500 per month to the plaintiff. As already stated, these payments were interrupted as of July 1, 1990.
+The defendant claims to have this right because the plaintiff's principal and sole shareholder claimed not to be providing any services. In actual fact, it appears to the undersigned that the providing of services is not very important in the context. These services are both of a positive nature (to promote the company's image) and of a negative one, as understood by Mr. Louis Sheff, the father and the plaintiff's principal and sole shareholder, that is to say, not to speak against the defendant company, which he did do. It shoul[d] also be noted that nothing in evidence indicates, on the part of the defendant, regarding the plaintiff or its sole shareholder, any request for services whatsoever.
+[17] In November 1993, the Quebec Court of Appeal confirmed Melançon J.'s decision. In his 1994 personal tax return, Louis Sheff claimed as a capital loss the legal fees incurred before the Quebec courts in the action launched against SW to recover the $7,500 monthly payments. However, in the course of a second audit, conducted by Revenue Canada in 1995 and 1996 with respect to the appellants' 1993 and 1994 taxation years, Mr. Joseph Waxman, one of the accountants who was acting on behalf of Louis Sheff at the time, argued that the $7,500 monthly payments constituted consulting fees and that the legal fees incurred with respect thereto should be deductible as a business expense (Exhibit I-1, Tab 31). Because Revenue Canada had considered those payments as being part of the proceeds of disposition of the shares payable over a ten-year period ending on October 1, 1995, it first considered the legal fees to be a non-deductible capital expenditure (Exhibit I-1, Tab 20). Finally, in order to settle, Revenue Canada agreed to allow half of the legal fees as a deduction against Louis Sheff's personal income for the 1994 taxation year (Exhibit I-1, Tab 31). In his report, the auditor at the time indicated that Mr. Eidelman acknowledged that the $7,500 monthly payments should be taxed as consulting fees as of October 1, 1995, but was of the view that they should be taxed in Louis Sheff's personal tax return because those amounts were received by LS 1984 [TRANSLATION] "on behalf of" Louis Sheff (see T-2020 report, from Revenue Canada, Exhibit I-1, Tab 19). As a matter of fact, at his discovery and at trial, Louis Sheff was very vague as to why the 1985 agreement stipulated that the $7,500 monthly payments were to be made to LS 1984. At discovery, he mentioned that LS 1984 was never involved in SW's business. He said, however, that LS 1984 was used in order to protect his wife in the event of his death. In Exhibit I-1, Tab 35, pages 12-15, there is the following:
+Q. Mr. Sheff, there was an agreement at the effect that $90,000.00 was paid by... to Louis Sheff (1984) Inc.?
+A. That's in there.
+Q. You recall that?
+A. Yes, it's in there.
+Q. Why was it paid to Louis Sheff (1984) Inc.? Why it had to be paid to Louis Sheff (1984) Inc.?
+A. In the event of my death, I wanted the money to go to her, to protect her.
+Me VIGEANT :
+Q. I'm sorry, when you say her, can you be more precise?
+A. My wife.
+Me ARCELIN :
+Q. Why was it made through Louis Sheff (1984) Inc.?
+A. I couldn't answer that. I've been up nights trying to figure out how that name of Louis Sheff (1984) ever came into the picture. It never had any interest near the business, none whatsoever. I'm still trying to figure that one out.
+Q. So, did you participate in any mean... in any way in the negotiation of the September 13th 1985 agreement?
+A. I was there.
+Q. You were there. Did you participate in the negotiation that led to that agreement that you signed?
+A. I must have.
+Q. You must have.
+A. I must have.
+Q. So, you must have but you don't recall the rational?
+A. I know I was under extreme pressure.
+Q. That we understand, Mr. Sheff. We understand that. You were... there was an assessment that was made... what... Ok, no, sorry, I will rephrase that. When was the first time that you declared revenues, not the revenues, I mean the product of disposition, the gain that you realized on the sell [sic] of those actions? The shares?
+A. Louis Adelman (ph) would be in a better position to explain than I could.
+Q. Can you repeat that, please?
+A. Louis Adelman, the accountant, would be in a better position to explain it that [sic] I could.
+. . .
+Q. After September... after October 1st... no, on and after October 1st 1995, why neither you or Louis Sheff (1984) Inc. declared any amount received by Sheff, Weiser, Perelman and Associate?
+A. I don't see, I cannot understand how Louis Sheff Inc. became involved in this in the first place. I just can't see it. I can't recall any reason for it. Louis Sheff is not... Inc. was never in it, never had any shares, never had any income. They are not in it.
+[18] At trial, the question was put to Louis Sheff as follows (transcript, November 7, 2002, page 63):
+[36] Q. They were. So, Louis Sheff (1984) was an active business and was an active business that was actually, you're carrying some insurance business through Louis Sheff (1984) company?
+A. That is right.
+[19] On the expiration of the ten-year period, that is, as of October 1, 1995, Mr. Louis Sheff and his wife, being still alive, continued to receive and are still receiving the $7,500 monthly payments. A monthly cheque drawn on SW's account continued to be made out to the order of LS 1984 and/or Louis Sheff and/or Sally Sheff. All cheques received were endorsed by Louis Sheff for LS 1984, and by Louis Sheff and Sally Sheff personally, and deposited in Louis and Sally Sheff's joint personal account. Neither LS 1984 nor Louis Sheff declared those monthly payments in their income for tax purposes after October 1, 1995. The appellants obtained legal advice in June 1994 stating that:
+. . . Since, however, Revenue Canada has accepted in respect of the 1987 taxation year (and subsequent years) to include in the calculation of the capital gain the $90,000 annual payments and the lump sum payment, an argument can be made that subsection 4(4) of the Income Tax Act will preclude Revenue Canada from including such amounts in income in the future since they have already been included in calculating the amount of the taxable capital gain included in your income in 1987 and subsequent taxation years by use of the reserve. We are of the view, therefore, based on this analysis that no amount already included by you in proceeds of sale of the SCo shares should be included in your income in the future.
+[Exhibit I-1, Tab 22, page 3.]
+[20] Revenue Canada disagreed. By letter dated January 8, 1996, it asked that LS 1984 include the payments in its income starting October 1, 1995. LS 1984 ignored this request and Revenue Canada, that became the Canada Customs and Revenue Agency ("CCRA") on November 1st, 1999,[1] reassessed both LS 1984 and Louis Sheff personally to include in their income the sum of $22,500 for 1995 ($7,500 x 3 months) and $90,000 for each of the 1996, 1997 and 1998 taxation years. LS 1984 was reassessed on the basis that in those years it received consulting fees that had to be included in income pursuant to section 9 of the Act. The same amounts were included in Louis Sheff's income pursuant to subsection 15(1) of the Act, on the basis that a benefit was conferred on him by LS 1984 in those years. The parties admit that Louis Sheff is the majority shareholder of LS 1984. Although it is stated in paragraph 4 of the Notice of Appeal that Louis Sheff owns 75 per cent of LS 1984's common shares, the balance being owned by Mrs. Sally Sheff, this has not been admitted by the respondent and there is no evidence on that point. The appellants appealed the aforementioned reassessments before this Court.
+Issue
+[21] The main issue is the tax treatment, as of October 1995, of the monthly payments of $7,500 received by the appellants. For 1995, it must also be determined whether Revenue Canada was allowed to reassess the appellants beyond the normal reassessment period.
+Appellants' arguments
+[22] The appellants have not included the $7,500 monthly payments in their tax returns filed since the 10th anniversary of the 1985 agreement because they firmly believe that they are part of the proceeds of disposition of the shares sold in 1985, which sale was declared in 1987 for income tax purposes. According to the appellants, the cash value of the purchase price of the SW shares had been calculated by a licensed actuary to be over one million dollars (Exhibit I-1, Tab 13). In the appellants' view, the proceeds of disposition were calculated taking into account the $90,000 per year (the $7,500 monthly payments) component at its value at that time and that amount should not be added to their income after the expiration of the ten-year period. Their counsel argued that, when first reassessing the appellants in 1991, pursuant to the 1990 settlement, Revenue Canada accepted for the 1987 taxation year the inclusion of the $90,000 per year component in the proceeds of disposition from the sale of Louis Sheff's SW shares. In counsel's view, the 1990 settlement was comprehensive, that is to say, Louis Sheff has already paid tax on the capital gain based on the proceeds of disposition which included the value at that time of an indefinite stream of $90,000 payments. Since Mr. Sheff has already paid tax, Revenue Canada's efforts amount to double taxation, which is not acceptable pursuant to subsection 248(28) (former subsection 4(4)) of the Act. Under the 1990 settlement, Mr. Sheff paid more tax than was due because Revenue Canada did not discount for inflation the ten guaranteed payments of $90,000 or the payment due at death.
+[23] According to the appellants' counsel, Revenue Canada is therefore now estopped from changing its mind and recharacterizing the $90,000 per year payment as consulting fees as it did with respect to the payments made since October 1995. In counsel's view, the $90,000 cannot be treated as both income and a capital gain at the same time. For 1995 particularly, Revenue Canada's reassessment is unreasonable as it taxed the $7,500 monthly payments as a capital gain for the first nine months of the year but, for the last three months of the same year, it taxed monies from the same source as income.
+[24] In counsel's view, estoppel bars Revenue Canada from reassessing the same transaction on a basis different from that of its 1990 settlement with Mr. Sheff. To conclude otherwise would be to enable Revenue Canada to disavow the settlement, which confirmed that all proceeds arising from the sale, including the $90,000 per year, gave rise to a capital gain that was declared by Mr. Sheff in his 1987 tax return. Mr. Sheff relied on that settlement as accurately stating all amounts received from SW. This also is a bar to Revenue Canada's reassessing beyond the limitation period for the 1995 taxation year. Furthermore, counsel stated that, according to the evidence, neither Mr. Sheff nor LS 1984 ever rendered any consulting services after 1985 and he argued that the appellants cannot be taxed as though they did.
+[25] Counsel also argued that the $90,000 per year should not be reported as a capital gain for each year it was received after 1995 because there was no disposition giving rise to a capital gain in those years. Finally, counsel argued in the alternative that the $90,000 per year received after 1995 could be characterized as a payment made to prevent Mr. Louis Sheff from competing with SW and argued that such a payment is not taxable, as per the decision in Fortino et al. v. The Queen, [1996] T.C.J. No. 1457 (Q.L.), affirmed [1999] F.C.J. No. 1964 (Q.L.).[2]
+Respondent's arguments
+[26] The respondent, on the other hand, is of the view that the $90,000 per year has been taxable in LS 1984's hands as consulting fees since October 1995, even though it could be argued by the appellants that no services were rendered (which, in counsel's view, is not the case on the evidence). Counsel for the respondent relied on the 1985 agreement and on the judgment of the Superior Court of Quebec forcing SW to pay the $90,000 per year to LS 1984. Counsel put forward his argument notwithstanding the fact that Revenue Canada has in the past considered the $7,500 monthly payments to be part of the proceeds of disposition of Louis Sheff's shares in SW. In counsel's view, Revenue Canada is not bound by previous assessments. The respondent is of the opinion that the appellants freely structured their affairs to produce a certain outcome and, therefore, should be bound by the resulting tax consequences.
+[27] The respondent is also of the view that subsection 15(1) of the Act applies and, accordingly, the $90,000 per year should be included in Louis Sheff's income because the cheques made out to the order of LS 1984 and/or Louis Sheff and/or Sally Sheff, and endorsed by the three of them, were deposited in the joint personal account of Louis and Sally Sheff. The money not having been distributed by way of a dividend, the respondent considered that a benefit was conferred by LS 1984 on Louis Sheff personally and the total amount thereof should consequently be included in Louis Sheff's income pursuant to subsection 15(1) of the Act.
+[28] The respondent argues in the alternative that if the $7,500 monthly payments are not business income for LS 1984, they are business income for Louis Sheff personally as they were paid in consideration of some kind of services to be rendered by him personally.
+[29] The respondent also argues in the further alternative that the $90,000 per year should be included in Louis Sheff's income as an annuity pursuant to paragraph 56(1)(d) of the Act. If the amount in question is not an annuity, counsel argues, it should be taxable as a capital gain pursuant to section 40 of the Act even though no disposition has taken place after 1995. In his view, the share sale agreement was based on the occurrence of future, uncertain events and, accordingly, a capital gain can be included in Louis Sheff's income for each year that he received the $90,000 after October 1995.
+[30] Finally, counsel submits that, in filing their income tax returns for the 1995 taxation year, the appellants made with respect to the undeclared consulting fees received from SW a misrepresentation that is attributable to neglect, carelessness or wilful default under paragraph 152(4)(a) of the Act. It was therefore open to Revenue Canada to reassess the appellants for that year.
+Analysis
+[31] My first comment is that the circumstances of this case as they have unfolded from the beginning resulted in an imbroglio in which each of the parties concerned has tried to interpret in that party's own way the tax consequences of a desperate settlement agreement reached by people having intertwined interests.
+[32] It is also my perception that neither Mr. Louis Sheff nor Mr. Allan Sheff wanted to bring back at the hearing memories of the acrimonious relationship that had existed years ago when they were negotiating the departure of Louis Sheff as a shareholder of SW, the company he had founded. Thus, both were vague in describing how the 1985 agreement was finally reached, and what the real intention of each party in drafting that agreement had been. Furthermore, it is my perception as well that although Joseph Weiser and Allan Sheff had a common interest in pushing Louis Sheff out of his position in the business, they were concerned at the same time with their family relationship with Louis and Sally Sheff, for whom they wanted to ensure a lifetime income. Allan Sheff also testified that the 1985 agreement was drafted in part to benefit his two sisters.
+[33] The reason for the involvement of LS 1984 is also mysterious. It is not clear why it was decided that the $7,500 monthly payments would be made to LS 1984 under the 1985 agreement. Allan Sheff testified that it was at the request of his father. On the other hand, Louis Sheff said many times at his discovery that LS 1984 never rendered any services to SW either before or after the 1985 agreement. He said, however, that LS 1984 got involved in the agreement to protect his wife in case he predeceased her. At the hearing, Louis Sheff acknowledged that LS 1984 was an active business and that he was carrying on the insurance business through LS 1984.
+[34] Furthermore, the facts as they have been presented show that neither Louis Sheff nor Revenue Canada differentiated between the company and the individual in the tax treatment of the monies received or expensed in relation to the 1985 agreement. Thus, although it was stated in that agreement that the $7,500 monthly payments were to be made to LS 1984, both Revenue Canada and Louis Sheff treated those amounts as proceeds of disposition of Louis Sheff's shares in SW. The capital gain was declared in Louis Sheff's personal income in 1987. Subsequently, although it was LS 1984 who sued SW for the payment of the $7,500 monthly amount in the Superior Court of Quebec, the legal fees relating to that action were claimed as a deductible expense for Louis Sheff personally and half of them were accepted as such by Revenue Canada. These are examples of how this case has been misunderstood from the beginning by everyone having to deal with the tax consequences of the transaction in question.
+[35] Finally, I want to say that Louis Sheff, who was 91 years old at the time of the trial, struck me as still being very lucid and alert. Without showing any sign of fatigue, he attended with his wife Sally at a hearing that lasted for a whole day.
+[36] Having said this, I will now try my best to reconcile it all and to reach a decision that I hope will define in accordance with the law the real nature of the payments at issue and the tax treatment to be given them.
+[37] First of all, it seems quite clear to me that the $90,000 annual payments did not form part of the proceeds of disposition of the SW shares sold by Louis Sheff. On the one hand, the 1985 agreement clearly stipulates in paragraph A (1) that the consideration for the purchase of the shares is the amount of $120,000 less any amounts owed by Louis or Sally Sheff to SW and that the purchase price is to be paid by the purchasers of the shares, Allan Sheff and Joseph Weiser.
+[38] In a separate paragraph, paragraph A (2), the agreement provides that SW (not the purchasers of the shares) is to pay to LS 1984 (not the vendor of the shares) a consulting fee of $90,000 per year during the lives of Louis and Sally Sheff, but in any event for a minimum of 10 years from the date of closing. The wording of this paragraph alone is explicit enough to demonstrate that the $90,000 yearly payment was not in consideration of the sale of the shares.
+[39] Secondly, Allan Sheff had determined an approximate value of $646,000 for the entire business. Revenue Canada arrived at a value of $1,200,000 for all the shares in SW (including $3,000 for the preferred shares owned by Louis Sheff as per Exhibit A-1, Tab 12). Louis Sheff was selling one-third of his common shares and all his preferred shares. So, even taking the higher figure of $1,200,000, one ends up with a value of $402,000 (1/3 x $1,197,000 = $399,000 plus $3,000 for a total of $402,000) for the shares Louis Sheff was selling. It is therefore difficult to argue that an amount of $900,000 ($90,000 per year for ten years) was paid for the shares on top of the $120,000 paid on closing and the $325,000 payable in the future. The valuation obtained from Blondeau & compagnie by Louis Sheff estimated the value at that time of all amounts payable to him under the 1985 agreement at $1,058,619. It did not provide an estimation of the value of the shares as such. The amounts payable under the 1985 agreement represented payment for the sale of the shares and the payment of something else that was referred to as being consulting fees.
+[40] In my view, Revenue Canada was misled when it agreed to include in the proceeds of disposition of Louis Sheff's shares an amount of $900,000 representing the $90,000 yearly payment over a period of ten years. This should never have been done in the first place and, consequently, the amount of $900,000 should not have been included in the capital gain resulting from the sale of Louis Sheff's shares in 1987. Revenue Canada abided by the 1990 settlement for ten years. But at the expiration of the ten-year period, it reassessed the appellants on the basis that the $90,000 yearly payment was income for LS 1984.
+[41] The appellants argued that Revenue Canada is now estopped from reassessing them in subsequent taxation years on a different basis.
+[42] In Nova Scotia Power Inc. v. The Queen, 2002 DTC 1432 (T.C.C.), a case referred to by the appellants, the estoppel issue was raised by the Minister. The Minister had argued that, owing to a representation said to have been made to him by the taxpayer's counsel that the taxpayer was an agent of Her Majesty the Queen, the taxpayer was now estopped from contesting that position. However, the representation relied on was essentially a conclusion of law based on a solicitor's opinion. Bowman A.C.J. of this Court held that such a representation could not give rise to an estoppel and bind the Court.
+[43] Bowman A.C.J. addressed the estoppel issue as follows, at pages 1440-41, paragraphs 28 and 29:
+[28] I do not think that these representations give rise to an estoppel. In S. Goldstein v. Canada, [1995] 2 C.T.C. 2036, the question of estoppel was discussed at some length at pages 2045-6:
+. . .
+. . . In Canadian Superior Oil Ltd. v. Paddon-Hughes Development Co., [1970] S.C.R. 932 at pages 939-40 Martland, J. set out the factors giving rise to an estoppel as follows:
+The essential factors giving rise to an estoppel are I think:
+(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+(3) Detriment to such person as a consequence of the act or omission.
+Estoppel is no longer merely a rule of evidence. It is a rule of substantive law. Lord Denning calls it "a principle of justice and of equity". (See Moorgate Mercantile Co. v. Twitchings, [1976] 1 Q.B. 225, at page 241.)
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to the Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment. The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.
+The question of the interpretation of paragraph 146(1)(c) is a matter of law and I must decide it in accordance with the law as I understand it. I cannot avoid that obligation because the Department of National Revenue may previously have adopted an interpretation different from that which it now propounds. The question is not whether the Crown is bound by an earlier interpretation upon which a taxpayer has relied. It is more to the point to say that the courts, who have an obligation to decide cases in accordance with the law, are not bound by representations, opinions or admissions on the law expressed or made by the parties.
+The result of the application of the rule in Maritime Electric and the many other cases to the same effect can have, in particular cases, unfortunate consequences for a taxpayer who, in good faith, relies upon a departmental interpretation that is subsequently changed. Nonetheless it is not in the interests of justice that the courts should be fettered by erroneous interpretations of the law by departmental officials.
+[29] The representation relied upon is essentially a conclusion of law, based upon an opinion from a firm of solicitors. Such an opinion or conclusion of law is entitled of course to respect but it cannot bind the court. Lawyers routinely make representations to the taxing authorities and in the course of doing so may express conclusions of law. The fact that the taxing authorities may accede to the tax result sought by the lawyers, whether or not they concur in the legal reasoning upon which the lawyers' arguments are premised, cannot give rise to an estoppel.
+[Footnotes omitted.]
+[44] In Cohen v. Canada, [1980] F.C.J. No. 501 (Q.L.), the reverse situation occurred. Pratte J. of the Federal Court of Appeal summarized the case and decided as follows:
+¶ 4 The appellant's second argument was that the Minister could not legally reassess the appellant on the basis that the profit in question was income because he had previously agreed to treat that profit as a capital gain. Counsel submitted that this agreement had been made during the course of negotiations between representatives of the appellant and officers of the Department of National Revenue concerning the appellant's assessments for the years 1961 to 1964. The appellant had agreed, said counsel, not to appeal his assessments for the 1961 to 1964 taxation years on the understanding that his income tax for 1965 would be computed on the basis that the profit here in question was a capital gain. Counsel argued that the Minister could not repudiate that understanding, particularly after the expiry of the time within which the appellant might have appealed the 1961 to 1964 assessments.
+¶ 5 In my view, the Trial judge correctly dismissed that argument. "... the Minister has a statutory duty to assess the amount of tax payable on the facts as he finds them in accordance with the law as he understands it. It follows that he cannot assess for some amount designed to implement a compromise settlement ..." [See Note 1 below]. The agreement whereby the Minister would agree to assess income tax otherwise than in accordance with the law would, in my view, be an illegal agreement. Therefore, even if the record supported the appellant's contention that the Minister agreed to treat the profit here in question as a capital gain, that agreement would not bind the Minister and would not prevent him from assessing the tax payable by the appellant in accordance with the requirements of the statute.
+_________________________________________________________________
+Note 1: Galway v. M.N.R. [1974] 1 F.C. 600 at page 602.
+_________________________________________________________________
+[45] Here there was no representation or conduct by Revenue Canada amounting to a representation intended to induce a course of conduct on the part of the appellants. Indeed, the appellants accepted the 1985 agreement (with which Revenue Canada had had nothing to do) and only reported the transaction in their 1987 tax returns. In the course of the 1990-1991 audit, Revenue Canada agreed to treat the $90,000 annual payment for a ten-year period as being part of the proceeds of disposition of the shares. I do not see that as a representation intended to induce a course of action on the part of the appellants. When Revenue Canada became involved in the matter, the appellants had already decided on their course of action. The question raised by Revenue Canada was simply how the payments should be treated from a tax point of view. The issue of whether payments received by the appellants are taxable as income, capital gain or simply constitute a windfall is a question of law. The 1990 settlement cannot have the effect of narrowing the Court's jurisdiction or displacing the Act. Numerous other authorities state that an estoppel cannot override the law of the land and that the Crown is not bound by the errors or omissions of its servants (see also, for example, M.N.R. v. Inland Industries, 72 DTC 6013 (S.C.C.) at 6017; Gibbon v. The Queen, 77 DTC 5193 (F.C.T.D.)).
+[46] In light of the case law cited above, the doctrine of estoppel has no application here. In the present case, Revenue Canada erred in its belief that the stream of $90,000 yearly payments was part of the proceeds of disposition of the shares and it is open to this Court to revisit the case and determine the true nature of those payments for taxation years that were not even comprised within the ten-year period covered by the 1990 settlement.
+[47] In order to determine the true nature of the $7,500 monthly payments, I will rely on all the factors that have been presented before me. First, the 1985 agreement stipulates that SW is to pay a consulting fee to LS 1984. The agreement also stipulates that the responsibility as a consultant to SW is to be limited to the promotion of its image. Louis Sheff, the controlling shareholder of LS 1984, is entitled to use and occupy an office on the premises of SW. He has also been elected as a member of the board of directors and as chairman of SW, which positions he may hold for as long as he so desires.
+[48] Second, Allan Sheff testified that the 1985 agreement had a twofold purpose. He and Joseph Weiser wanted to buy out Louis Sheff and they wanted to provide him with the security he needed through either a pension or a retirement allowance for the number of years that he had given to SW (see transcript, November 7, 2002, at page 92). He also testified that Louis Sheff went to the office on a regular basis after 1985, spoke to clients and gave instructions to the staff, when he was in town. Mr. Sheff would go to Florida for several months in the wintertime. Allan Sheff said that Louis Sheff had an office at SW's premises up until two or three years ago.
+[49] Third, Mr. Louis Sheff was vague and not very cooperative in his testimony at trial. At discovery he had seemed to say that the $90,000 yearly payments were to be made to LS 1984 in order to protect his wife in case he predeceased her (Exhibit I-1, Tab 35, page 12). He also said that neither he nor LS 1984 ever rendered any services to SW after the 1985 agreement. As to the situation prior to 1985, there are contradictions in the evidence, so it is not clear whether services were rendered by Louis Sheff personally or through LS 1984.
+[50] Fourth, the testimony of Louis Eidelman was in direct contradiction with what the appellant's other accountant, Joseph Waxman, had said to the auditor during the second audit, done in 1995-1996. At that time, Mr. Waxman was of the view that the professional fees incurred for the action brought before the Superior Court of Quebec were related to collecting the consulting fees for Louis Sheff (Exhibit I-1, Tab 31). At the hearing, however, Mr. Eidelman said that the same professional fees were "not to collect consulting fees [but] to collect the continuing payments of his capital gain, his disposition of property" (see transcript, November 7, 2002, at page 77). Mr. Eidelman also testified that he was present as a professional advisor to Louis Sheff during the negotiations that culminated in the 1985 agreement. It is worth noting that he agreed during the 1995-1996 audit to the $7,500 monthly payments being included in LS 1984's income as of October 1995 (Exhibit I-1, Tab 19).
+[51] Fifth, application for an injunction was filed by Joseph Weiser and Allan Sheff against Louis Sheff to, as I understand it, restrain him from attending at the office. The Superior Court of Quebec ordered the parties to abide by the 1985 agreement.
+[52] Sixth, when SW stopped making the payments in 1990, it was LS 1984 (not Louis Sheff personally) that sued SW in order to get paid. Melançon J., after hearing the evidence, was of the opinion that providing services was not very important in the context of the signature of the 1985 agreement and he ordered that the monthly payment amounts owing be paid to LS 1984 in accordance with that agreement.
+[53] Seventh, the cheques were made out by SW to the order of LS 1984 and/or Louis Sheff and/or Sally Sheff and endorsed by the three of them and deposited in the joint personal account of Louis and Sally Sheff.
+[54] In my view, analysing the whole, the $90,000 yearly payment could perhaps be an annuity payment to Mr. Louis Sheff payable through LS 1984, within the meaning of paragraph 56(1)(d) of the Act. The term "annuity" is defined as follows in subsection 248(1):
+SECTION 248: [Interpretation].
+4248(1)3
+(1) Definitions. In this Act,
+"annuity" - "annuity" includes an amount payable on a periodic basis whether payable at intervals longer or shorter than a year and whether payable under a contract, will or trust or otherwise.
+[55] Indeed it would be plausible that SW had agreed to pay a retiring allowance in the form of an annuity to Louis Sheff for the services he had rendered in the past.
+[56] However, in view of the various contradictions referred to above, the ambiguity surrounding the drafting and signing of the 1985 agreement, and the attitude thereafter of the parties concerned, I find it more prudent to go along with the decisions already rendered by two judges of the Superior Court of Quebec and rely on the only document that was signed by all, that is, the 1985 agreement. I agree with Reeves J. that this agreement contains reciprocal obligations and that it is the law which the parties have agreed to and they must abide by it in all respects.
+[57] The 1985 agreement states that the $90,000 yearly payment is a consulting fee payable to LS 1984 and that LS 1984's responsibility as a consultant shall be limited to the promotion of SW's image. It is therefore plausible, in the context of the particular facts of this case, that it was in consideration of services rendered in the past that SW undertook the obligation to pay LS 1984 for the minor services requested in the 1985 agreement.
+[58] In my view, the evidence is insufficient to support the appellants' alternative argument that the $90,000 annual payment should be characterized as a payment made to prevent Louis Sheff from competing with SW. The respondent's alternative argument that it should be characterized as a capital gain after 1995 does not stand up either, as it was not a payment for the disposition of property.
+[59] In those circumstances, I am of the view that, with the exception of the 1995 taxation year, which I will address below, the assessments are well-founded with respect to LS 1984 and that the $90,000 yearly payment had to be included in its income pursuant to section 9 of the Act. The 1985 agreement indicated that the payments were to be made to LS 1984 as consulting fees; it was LS 1984 that sued SW for payment of those fees; and Louis Sheff finally acknowledged at trial that the insurance business was carried on through LS 1984 in the past. Furthermore, there is no clear indication that LS 1984 was acting only as a conduit for Louis Sheff.
+[60] With respect to Louis Sheff's assessments, the cheques having been endorsed by LS 1984 and deposited in the joint personal bank account of Louis and Sally Sheff, there was a benefit conferred on him as a shareholder of LS 1984 within the meaning of subsection 15(1) of the Act. In Chopp v. Canada, [1997] F.C.J. No. 1551 (Q.L.), the Federal Court of Appeal approved the interpretation of subsection 15(1) given by Mogan J. of this Court, which interpretation is reproduced in paragraph 4 of the Court of Appeal's decision as follows:
+¶ 4 In allowing the taxpayer's appeal, Mogan J.T.C.C. interpreted subsection 15(1) as follows:
+"I think a benefit may be conferred within the meaning of subsection 15(1) without any intent or actual knowledge on the part of the shareholder or the corporation if the circumstances are such that the shareholder or corporation ought to have known that a benefit was conferred and did nothing to reverse the benefit if it was not intended. I am thinking of relative amounts. If there is a genuine bookkeeping error with respect to a particular amount, and that amount is truly significant relative to a corporation's revenue or its expenses or a balance in the shareholder loan account, a court may conclude that the error should have been caught by some person among the corporate employees or shareholders or outside auditors. Shareholders should not be encouraged to see how close they can sail to the wind under subsection 15(1) and then plead relief on the basis of no proven intent or knowledge."
+[61] It is clear here that a benefit was conferred on Louis Sheff as the money went directly into his bank account. The situation is somewhat akin to that in Smith v. Canada, [1999] F.C.J. No. 1605 (Q.L.), a case in which the individual taxpayer was credited with amounts that were paid to the company he controlled. Those amounts were taxed both in the company's and in the individual's hands.
+[62] This seems at first sight to be unfair as the same amount is taxed in LS 1984's hands and in Louis Sheff's hands. However, it is the result of what the parties decided in the 1985 agreement. After all, Louis Sheff negotiated through his professional advisors, and the decision to make the payments to LS 1984 must have been a deliberate one at the time, especially when we consider, again, that it was LS 1984 that sued SW five years later for payment of the amounts unpaid. Furthermore, there is no evidence that LS 1984 expensed the payments as salary paid to Louis Sheff or that it declared a dividend in favour of Louis Sheff. Louis Sheff cannot now repudiate an agreement that he agreed to sign on the advice of professionals. I adopt the words of Bowman A.C.J. in Molinaro v. The Queen, 98 DTC 1636 (T.C.C.) (conf. by 2000 DTC 6114 (F.C.A.)) at paragraphs 26 and 27, which read as follows:
+[26] Quite apart from that fact it strikes me as most anomalous that where a person enters into a binding agreement with an arm's length party who relies upon the maintenance of a legal relationship as set out in the formal documentation and that person is advised of the legal and fiscal consequences of what he or she is signing that person should be entitled to repudiate the agreement not only as against the Minister of National Revenue but as against the other party. I suppose that in theory one might be able to make a case that a party to an agreement can invoke the substance over form doctrine but it seems to run counter to all principles of commercial morality and indeed of commonsense that one can, after solemnly and formally entering into carefully drafted legal documents upon which the other party relies, simply snap his fingers and say "That legal relationship isn't to my liking. It doesn't suit my fiscal objectives. Therefore I shall clothe it in a different nomenclature that I like better." I cannot believe that Mr. Molinaro's advisors would have told him to go ahead and sign the agreements because it was necessary to get the deal through, but it was not the real deal and he could ignore it and conjure up another deal that was more attractive to him and, perhaps more importantly, to Bluevest.
+[27] I do not need to resurrect the ancient doctrine of estoppel by deed, although it might apply (the employment contract was in fact under seal, an essential prerequisite to invoking this venerable rule). Rather I prefer to place my reasoning upon an even more ancient principle that if one makes one's bed in a particular way one should - particularly if one has had help from professional accountants and lawyers in making the bed - be prepared to lie in it.
+[63] In view of the foregoing, and as counsel for the appellants has not really argued on the application of subsection 15(1), I have no choice but to maintain the assessments issued against Louis Sheff for the 1996, 1997 and 1998 taxation years. I must add here that no evidence was given as to whether Sally Sheff was also a shareholder of LS 1984. Consequently, the entire benefit is Louis Sheff's.
+[64] With respect to the appellants' argument that subsection 248(28) (former subsection 4(4)) of the Act precludes a reassessment where the taxpayer has already been taxed on the same income from a particular source, that argument does not hold water. The $90,000 yearly payments are recurrent year after year and I have decided that the source of the payments is the 1985 agreement, which specifies that they are annual consulting fees. The fact that Louis Sheff was able to include the amount of those payments corresponding to a ten-year period in his income as a capital gain in 1987 and that, as luck would have it, LS 1984 was able to avoid including any of those same payments in its income, does not mean that the appellants have already paid tax on the annual payments made after 1995. In fact, those payments should indeed have been taxed on a yearly basis, and in my view the appellants took advantage of the 1990 settlement.
+[65] As regards the appellants' 1995 taxation year, Revenue Canada has reassessed beyond the normal reassessment period. It accordingly had to show that the appellants had made misrepresentations that were attributable to neglect, carelessness or wilful default in filing their returns, as required by subparagraph 152(4)(a)(i) of the Act. I am of the view that the respondent has not discharged that burden. The appellants were under the impression in 1995 that the $90,000 yearly payment was included in the proceeds of disposition even after the expiration of the ten-year period. Mr. Clairoux from Revenue Canada testified that in reaching the 1990 settlement, he did not consider what would happen if the Sheffs survived beyond the ten-year period. Furthermore, the appellants obtained legal advice in 1994 that no amount already included by Louis Sheff in the proceeds of disposition of the SW shares should be included in his income in the future. Louis Sheff, who is also the controlling mind of LS 1984, was therefore under the impression that LS 1984 did not have to include the yearly payment amounts in its income. He did not agree with the position taken by Revenue Canada in January 1996 that these amounts were to be included in LS 1984's income (Exhibit I-1, Tab 21).
+[66] I do not think that in the circumstances it can be said that the appellants made misrepresentations that were attributable to neglect, carelessness or wilful default and that would justify Revenue Canada in reassessing with respect to the statute-barred 1995 taxation year. After all, Revenue Canada could have reassessed earlier, being aware in 1996 of the misleading approach adopted by one of its auditors in reaching the 1990 settlement.
+[67] For these reasons, the appeals are allowed for the 1995 taxation year and the reassessments issued against the appellants for that year are quashed on the basis that they are statute-barred. The appeals for the 1996, 1997 and 1998 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of September 2003.
+"Lucie Lamarre"
+J.T.C.C.
+CITATION:
+2003TCC589
+COURT FILE NO.:
+2002-834(IT)G and 2002-836(IT)G
+STYLE OF CAUSE:
+Louis Sheff (1984) Inc. v. The Queen
+Louis Sheff v. The Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 7 and 8, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+September 10, 2003
+APPEARANCES:
+Counsel for the Appellant:
+André Gauthier and Josée Vigeant
+Counsel for the Respondent:
+Stéphane Arcelin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+André Gauthier and Josée Vigeant
+Firm:
+Heenan Blaikie LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] For the sake of simplicity, CCRA will be referred to as "Revenue Canada" in the present reasons.
+[2] See also the latest decision on this topic, Manrell v. Canada, [2003] F.C.J. No. 408 (Q.L.).

@@ -1,0 +1,146 @@
+Title: Vogan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25346/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-657-25346-vogan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-28
+
+# Vogan v. The Queen
+
+- Citation: 2004 CCI 657
+- Decision date: 2004-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2409, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vogan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-28
+Référence neutre
+2004 CCI 657
+Numéro de dossier
+2000-4322(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4322(IT)G
+ENTRE :
+SAM VOGAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 14 septembre 2004, à Thunder Bay (Ontario).
+Devant : L'honorable G. Sheridan
+Comparutions :
+Avocat de l'appelant :
+Me Dennis C. Roddy
+Avocate de l'intimée :
+Me Tracey Telford
+__________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1996 est accueilli avec dépens, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu'il l'examine à nouveau et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI657
+Date : 20040928
+Dossier : 2000-4322(IT)G
+ENTRE :
+SAM VOGAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L'appelant, M. Sam Vogan, a interjeté appel d'une nouvelle cotisation établie pour son année d'imposition 1996 par laquelle le ministre du Revenu national a conclu que le profit tiré de la vente d'une maison dont l'appelant était propriétaire constituait un revenu d'entreprise. Selon l'avocate de l'intimée, la vente de cette propriété n'était que l'une d'une série d'opérations permettant de conclure que M. Vogan exploitait une entreprise visant à construire des maisons en vue de leur vente. Elle a affirmé que les profits tirés de la vente de la maison doivent donc être imposables à titre de revenu d'entreprise. M. Vogan avance plutôt que la maison était sa résidence principale et que le produit de la vente est donc exonéré d'impôt suivant l'alinéa 40(2)b) de la Loi de l'impôt sur le revenu.
+[2] M. Vogan vit à Dryden (Ontario). À tous les moments pertinents, il exerçait un emploi à plein temps à titre de monteur-ajusteur de classe « A » . Avant d'obtenir cette reconnaissance professionnelle, il a occupé divers emplois dans la même usine de pâtes et papiers, mais il n'a jamais eu d'emploi dans le secteur de la construction individuelle ni suivi de formation dans ce domaine. Les compétences qu'il a acquises lui viennent de son travail à la ferme laitière de ses parents ainsi que des briqueteurs, électriciens et autres hommes de métier qualifiés qui travaillaient à l'usine de pâtes et papiers. En 1995, M. Vogan a acheté le bien visé par le présent appel, soit un terrain situé au 33, croissant Clearwater, à Dryden. Il a commencé la construction à la fin de l'été et a déménagé dans la nouvelle maison en décembre 1995, après y avoir installé tous les gros électroménagers et apporté ses meubles et effets personnels. Il a vendu la propriété en mars 1996.
+[3] Il ne s'agissait pas de la première opération commerciale à risque qu'entreprenait M. Vogan dans le domaine immobilier. Voici d'autres opérations dans lesquelles il est intervenu entre 1992 et 1998 :
+Propriété
+Date d'achat
+Date de vente
+143, rue Lakeside
+Janvier 1992
+Mars 1994
+49, croissant Clearwater
+Avril 1994
+Juillet 1995
+33, croissant Clearwater[1]
+Août 1995
+Mars 1996
+29, croissant Clearwater
+Printemps 1996
+Août 1996
+20, rue Gamble
+Août 1996
+Début 2004
+11, rue Gamble
+Après 1996
+Au cours de 1998
+Les gains tirés des ventes du 29, croissant Clearwater, et du 11, rue Gamble, ont été déclarés à titre de revenu d'entreprise à la suite d'une vérification visant les activités de M. Vogan; rien ne permet de croire que la vérification est à l'origine de cette déclaration. Quant au 143, rue Lakeside, et au 49, croissant Clearwater, le ministre a conclu, après l'établissement de la nouvelle cotisation, que la vente de ces propriétés ne donnait pas lieu à un revenu d'entreprise. Enfin, le 20, rue Gamble, résidence de M. Vogan pendant environ huit ans, a fait l'objet d'une disposition après la vérification et n'a pas de pertinence directe en l'espèce.
+[4] C'est dans ce contexte qu'il faut analyser l'opération relative au 33, croissant Clearwater. Les deux avocats ont renvoyé au critère énoncé dans la décision Happy Valley Farms Ltd. c. La Reine[2]. Selon eux, ce critère permet d'orienter la Cour dans son examen de la question de savoir si les profits tirés de la vente du bien constituaient ou non un revenu d'entreprise :
+1. Nature du bien vendu. - Une propriété immobilière peut tout autant constituer un bien en immobilisation qu'être l'objet d'une opération commerciale.
+2. Durée de la possession à titre de propriétaire. - La vente a eu lieu quatre mois suivant la date d'occupation et sept mois suivant la date d'achat du terrain. Pour décider des inférences qui peuvent être tirées de ce fait, je dois tenir compte de la mise en garde faite par le juge Rouleau voulant qu'il « [...] existe de nombreuses exceptions [...] » à la règle générale selon laquelle « [...] les biens destinés à faire l'objet d'un commerce sont convertis en espèces peu de temps après avoir été acquis » . La présente affaire se distingue de la décision Isaaks c. Canada[3] invoquée par l'intimée, dans laquelle l'appelant a acheté et revendu trois propriétés dans un court laps de temps. Bien que M. Vogan ait été propriétaire de cinq résidences entre 1992 et 1998, la durée de la possession de chacune varie. En outre, l'avocate de l'intimée a soutenu que le fait qu'il restait certains travaux à effectuer, que ce soit au moment où l'appelant a déménagé au 33, croissant Clearwater, ou lorsqu'il a vendu la propriété, montre une intention de n'y demeurer que peu de temps. Cet argument ne me convainc pas. M. Vogan effectuait les travaux de construction lui-même tout en occupant un emploi à plein temps; le fait de vivre « sur les lieux » permettait d'accélérer le processus de finition. Il devait débourser de l'argent pour vivre ailleurs dans l'attente que la maison soit terminée. Il n'avait aucune personne à charge vivant avec lui et dont les besoins auraient pu l'obliger à terminer la maison plus rapidement. Il est légitime, dans cette situation, qu'il ait eu l'intention de déménager dans la maison dès que cela lui serait possible. Enfin, comme il n'avait pris aucune mesure pour mettre le 33, croissant Clearwater, à vendre, c'est d'une manière tout à fait indépendante de sa volonté qu'un acheteur s'est spontanément présenté au moment où il l'a fait.
+3. Fréquence ou nombre d'opérations similaires effectuées par le contribuable. -M. Vogan a participé à cinq opérations immobilières entre 1992 et 1998. La vente du 33, croissant Clearwater, chevauche le moment où le ministre a conclu que les ventes du 143, rue Lakeside, et du 49, croissant Clearwater, n'ont pas donné lieu à un revenu d'entreprise et celui où M. Vogan a déclaré à titre de revenu d'entreprise les profits tirés de la vente du 29, croissant Clearwater, et du 11, rue Gamble. Même s'il y avait cinq opérations en tout, les deux premières n'avaient aucune conséquence fiscale; les deux dernières ont produit un revenu d'entreprise imposable. À quelle catégorie la vente du 33, croissant Clearwater, appartient-elle? Bien qu'elle ressemble dangereusement à une disposition d'un bien d'entreprise, la preuve n'est pas suffisante pour faire pencher la balance en faveur de l'existence d'un revenu d'entreprise. La vente du 33, croissant Clearwater, a marqué le moment où il y a eu transition dans la nature de ces différentes opérations, mais, selon la prépondérance des probabilités, je suis convaincue qu'il ne s'agissait pas d'une opération analogue à la disposition des deux dernières propriétés, lesquelles ont donné lieu à un revenu d'entreprise.
+4. Améliorations apportées au bien réalisé ou se rapportant à pareil bien. - En qualité de constructeur, M. Vogan a investi à la fois de l'argent et du travail dans le 33, croissant Clearwater. Or, le critère applicable pour trancher la question de l'existence d'une activité commerciale est le suivant : ces efforts du contribuable visaient-ils à « [...] mettre le bien dans un état qui lui permet de le vendre plus facilement pendant qu'il en est le propriétaire, ou [a-t-il] fait un effort particulier afin de trouver ou d'attirer des acheteurs[...] » . La preuve ne permet pas de croire que M. Vogan a jamais pensé à ce qu'un éventuel acheteur pourrait vouloir; selon son témoignage non contredit, il a entièrement construit la maison suivant les caractéristiques qu'il avait lui-même fixées, tout comme il l'avait fait pour les deux premières maisons. Il a choisi des plafonds voûtés et une salle de séjour en contrebas pour sa première maison, située au 143, rue Lakeside. Lorsqu'il a quitté cette demeure pour une résidence plus petite et plus abordable, il a découvert à sa grande consternation que le modèle plus modeste du 49, croissant Clearwater, ne permettait pas d'aménager un plafond voûté, caractéristique à laquelle M. Vogan tenait beaucoup. Lorsqu'il a commencé à construire sa maison suivante, M. Vogan a retenu les services d'un nouveau dessinateur pouvant remédier à cette lacune. L'avocate de l'intimée a écarté les plafonds voûtés en affirmant qu'ils n'étaient pas [TRADUCTION] « suffisamment particuliers » pour être assimilés aux préférences de l'appelant dans la décision Freer c. Sa Majesté la Reine[4], où l'appelant, qui a obtenu gain de cause, avait « [...] personnalisé [sa] porte d'entrée avec un heurtoir [...] » . Ce point de vue est certainement tout à fait subjectif, la pacotille de l'un étant le trésor de l'autre. Ce qui est pertinent, c'est que M. Vogan, à tort ou à raison, était résolu à avoir un plafond voûté pour son propre plaisir et non pour accroître l'attrait commercial du 33, croissant Clearwater. Quant au second volet de ce facteur, soit le fait de déployer un « effort particulier afin de trouver ou d'attirer des acheteurs » , il ressort du témoignage non contredit de M. Vogan que ce dernier n'a pris aucune mesure pour annoncer la vente du 33, croissant Clearwater, ni pour confier celle-ci à un agent immobilier, que ce soit de manière formelle ou non.
+5. Circonstances ayant entraîné la vente du bien. - J'accepte le témoignage de M. Vogan, qui n'a pas été contesté pendant le contre-interrogatoire, selon lequel il a vendu le 33, croissant Clearwater, parce qu'il a reçu une offre spontanée. L'avocate de l'intimée a demandé avec insistance à la Cour d'écarter les raisons avancées par l'appelant au motif que, si une personne n'a véritablement pas l'intention de vendre lorsqu'elle achète un bien, il n'est alors pas possible de la faire changer d'avis au moyen d'une offre intéressante. Je rejette cet argument non seulement parce qu'il est en contradiction flagrante avec les normes comportementales d'une société capitaliste, mais aussi sur le fondement des observations formulées par le juge Noël dans la décision Racine et al. v. Minister of National Revenue lorsqu'il conclut que [TRADUCTION] « [...] le fait qu'une personne achetant un bien en vue de l'utiliser à titre de bien en immobilisations pourrait être portée à le revendre, si un prix suffisamment élevé lui était offert, ne suffit pas pour en faire un projet comportant un risque de caractère commercial. De fait, ce n'est pas là ce qu'il faut entendre par "intention secondaire", si je puis employer cette expression[5] » .
+6. Motif. - Quelle était l'intention de M. Vogan lorsqu'il a acheté le 33, croissant Clearwater? Selon la décision Happy Valley, le juge des faits doit tenir compte des circonstances ainsi que des intentions mentionnées par le contribuable lui-même. L'avocate de l'intimée renvoie en outre au paragraphe suivant de la décision Racine et al. v. Minister of National Revenue[6], où le juge Noël énonce le critère relatif à l'intention secondaire :
+[TRADUCTION]
+Pour qu'une transaction qui implique l'acquisition de capitaux soit en même temps une initiative de caractère commercial, l'acheteur doit avoir l'intention, lors de l'achat, de revendre et ce doit être le motif de l'achat; c'est-à-dire qu'il doit avoir l'intention de revendre le bien à profit au lieu de l'immobiliser dès que surviendront certaines circonstances. D'une façon générale, si l'on décide qu'un tel motif existe, l'on doit se fonder sur des présomptions découlant des circonstances qui entourent la transaction plutôt que sur la déposition de l'acheteur quant à son intention.
+Ce paragraphe est toutefois nuancé par le paragraphe qui le précède et auquel j'ai renvoyé dans l'examen du facteur numéro cinq plus haut. Le critère fondé sur le « motif » énoncé dans la décision Racine a été appliqué dans la décision Isaaks et le tribunal est arrivé à la conclusion que le fait, pour l'appelant, d'avoir acheté et revendu des biens en un court laps de temps établissait son intention de traiter la propriété visée comme un projet comportant un risque de caractère commercial. L'avocate de l'intimée a soutenu que M. Vogan se trouvait dans une situation analogue et que ses antécédents concernant la construction de maisons et leur revente ultérieure permettait d'inférer qu'il avait toujours eu l'intention (principale ou secondaire) de vendre le 33, croissant Clearwater. Je ne suis pas d'accord. Dans la décision Isaaks, le contribuable exploitait une entreprise de construction et il ressort sans équivoque des motifs prononcés par le juge Bonner que ce dernier n'a tout simplement pas accepté les raisons, qu'il a qualifiées de [TRADUCTION] « dérisoires » , données par l'appelant pour expliquer pourquoi il avait revendu les biens. En l'espèce, M. Vogan exerçait un emploi à plein temps dans un autre domaine. Les propriétés ont été détenues pendant des périodes diverses avant d'être vendues, et cela, dans des circonstances plus variées que dans l'affaire Isaaks. Enfin, J'estime que les raisons données par M. Vogan pour expliquer sa décision de vendre chacune des propriétés, et le 33, croissant Clearwater, en particulier, sont dignes de foi. Son témoignage a été corroboré dans une certaine mesure par M. Komm, agent qui a agi pour son compte dans le cadre de certaines opérations. Bien que l'avocate de l'intimée ait fait mention d'une vérification pendant les débats, aucun fonctionnaire susceptible de donner des précisions sur les opérations mises au jour par ce processus n'a été appelé à témoigner, et M. Vogan n'a jamais dévié de sa thèse pendant le contre-interrogatoire.
+[5] Comme il est mentionné plus haut, je suis d'avis que l'opération visée en l'espèce se rapproche sensiblement du point à partir duquel M. Vogan a commencé à établir une entreprise de construction et de vente de maisons. Cependant, je ne puis conclure qu'au moment où il a acheté le terrain situé au 33, croissant Clearwater, M. Vogan avait l'intention de construire une maison en vue de la revendre rapidement. À la lumière de la preuve présentée, je suis convaincue que son intention était de se construire une maison, laquelle il a occupée à titre de résidence principale jusqu'à sa vente en mars 1996. L'appel est accueilli avec dépens et la nouvelle cotisation est renvoyée au ministre pour qu'il établisse une nouvelle cotisation fondée sur le fait qu'au moment de la disposition du 33, croissant Clearwater, cette propriété constituait la résidence principale de l'appelant au sens de la Loi de l'impôt sur le revenu, et que cette disposition ne pouvait être assimilée à un projet comportant un risque à caractère commercial donnant lieu à un revenu d'entreprise.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour de mai 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI657
+NO DU DOSSIER DE LA COUR :
+2000-4322(IT)G
+INTITULÉ DE LA CAUSE :
+Sam Vogan c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L'AUDIENCE :
+Le 14 septembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 28 septembre 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Dennis C. Roddy
+Avocate de l'intimée :
+Me Tracey Telford
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Dennis C. Roddy
+Cabinet :
+Cheadle Johnson Shanks MacIvor
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le bien en cause.
+[2] Happy Valley Farms Ltd. c. La Reine, 86 D.T.C. 6421, C.F. 1re inst., no du greffe : T-6632-82, 16 juillet 1982.
+[3] [2001] A.C.I. no 312.
+[4] 2003 D.T.C. 738, C.C.I., no de dossier : 2001-1008(GST)G, référence : 2003CCI20, 5 février 2003, paragraphe 11.
+[5] 65 D.T.C. 5098, p. 5103.
+[6] Précitée, p. 5103.

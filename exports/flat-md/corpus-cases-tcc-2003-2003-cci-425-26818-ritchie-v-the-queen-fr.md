@@ -1,0 +1,140 @@
+---
+title: "Ritchie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26818/index.do"
+last_modified: "2003-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 425"
+citation2: ""
+neutral_citation: "2003 CCI 425"
+decision_date: "2003-06-26"
+language: "fr"
+item_id: "26818"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 689
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:02:38.323000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "baf4fe87967530e9cdd02edb06e13b36036c0b1d73afb34c944489f26704e81c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ritchie v. The Queen
+
+- Citation: 2003 CCI 425
+- Decision date: 2003-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 689, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritchie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-26
+Référence neutre
+2003 CCI 425
+Numéro de dossier
+2002-3898(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3898(IT)I
+ENTRE :
+ROBERT G. RITCHIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu, et jugement rendu oralement,
+le 13 juin 2003 à Winnipeg (Manitoba)
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Représentant de l'appelant :
+Nori Rubert
+Avocat de l'intimée :
+Derwin Petri (Stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli avec dépens et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Toronto, Canada, ce 26e jour de juin 2003.
+« J. E. Hershfield »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI425
+Date : 20030626
+Dossier : 2002-3898(IT)I
+ENTRE :
+ROBERT G. RITCHIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield, C.C.I.
+[1] L'appel a été rejeté à l'audience le 13 juin 2003, sur des motifs oraux. Cependant, j'ai rappelé aux parties que le jugement n'était pas définitif jusqu'à sa signature[1]. Je leur ai rappelé ce détail, après avoir disserté sur certaines de mes conclusions qui touchent à des dispositions modificatrices afférentes à la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] L'appelant a demandé pour l'année 2000 qui fait l'objet du présent appel un crédit d'impôt non remboursable en vertu de l'alinéa 118(1)b) de la Loi, le crédit pour personne entièrement à charge. Le ministre a rejeté sa demande en vertu du paragraphe 118(5), aux motifs que l'appelant était tenu de payer une « pension alimentaire » (selon le paragraphe 56.1(4) de la Loi) à son épouse pendant l'année en question, d'une part et qu'au moins l'une des deux conditions supplémentaires d'application du paragraphe 118(5) étaient satisfaites, d'autre part. Ces conditions sont formulées ainsi aux alinéas a) et b) du paragraphe 118(5) :
+(5) Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son conjoint ou ancien conjoint pour la personne et, d'autre part, selon le cas :
+a) vit séparé de son conjoint ou ancien conjoint tout au long de l'année pour cause d'échec de leur mariage;
+b) demande une déduction pour l'année par l'effet de l'article 60 au titre de la pension alimentaire versée à son conjoint ou ancien conjoint.
+[3] Il est clair, d'après les faits en l'espèce, que la condition énoncée à l'alinéa a) est satisfaite. L'appelant et son épouse vivaient séparés en raison de l'échec de leur mariage depuis le mois de mai 1996 au moins, alors qu'ils ont conclu un accord de séparation écrit. L'accord prévoyait des versements de pension alimentaire pour les enfants du couple. Cependant, l'accord prévoyait que l'appelant ne demanderait pas de déductions quant à ces versements. Ce qui signifie que la condition b) n'est pas satisfaite. En dépit de cela, le paragraphe 118(5) semble quand même être applicable puisque la condition a) est satisfaite et que l'appelant était tenu de payer une « pension alimentaire » pendant l'année en question. Comme je l'explique plus loin dans mes motifs, il ne peut y avoir de « pension alimentaire » à moins que les parties vivent séparées en raison de l'échec de leur mariage. Ceci semble, à première vue, rendre la condition à l'alinéa 118(5)a) superflue. La différence, cependant, provient du fait que cette dernière condition, qui limite l'admissibilité au crédit pour personne entièrement à charge, doit être satisfaite tout au long de l'année, alors que le versement d'une « pension alimentaire » est applicable à n'importe quelle partie de l'année pendant laquelle les parties vivent séparément.
+[4] Avant d'examiner la déductibilité de la « pension alimentaire » (expression dont la définition a été insérée dans la Loi en 1997) en l'espèce, je voudrais faire remarquer deux particularités de la présente affaire : D'abord, nous avons affaire à une « pension alimentaire » selon la définition du paragraphe 56.1(4), même si les versements de pension alimentaire découlent d'un accord signé en 1996 qui ne prévoit pas de « date d'exécution » . Selon une formule assez compliquée de l'alinéa 56(1)b), d'une manière générale la « date d'exécution » ne sert que pour calculer la « pension alimentaire pour enfants » et non pas une « pension alimentaire » . Cependant, il y a une disposition modificatrice qui aborde ce problème. La deuxième particularité de la présente affaire est l'effet causé par la modification apportée au par. 118(5) en 1997, qui a eu lieu en même temps que l'insertion dans la Loi de la définition de « pension alimentaire » . Il existe, bien sûr, une disposition d'entrée en vigueur afférente au paragraphe 118(5), mais il n'y a pas de mesure transitoire applicable en l'espèce à l'année 2000 au sujet des versements de pension alimentaire effectués en vertu d'un accord de séparation datant de 1996.
+[5] Avant d'examiner les dispositions transitoires afférentes aux articles pertinents, il convient de lire le paragraphe suivant, extrait de l'accord de séparation de 1996 :
+[traduction]
+3. PENSION ALIMENTAIRE POUR ENFANTS :
+L'époux doit verser à l'épouse une pension alimentaire auxdits enfants, au montant total de 250 $ par mois, payable le 1er jour de chaque mois, à partir du 1er jour de juin 1996. Les parties conviennent que l'époux n'aura pas le droit de déduire cette pension alimentaire pour enfants et que l'épouse ne sera pas tenue de déclarer cette pension alimentaire pour enfants comme revenu pour l'impôt sur le revenu.
+[6] La première ligne de ce paragraphe énonce le paiement d'une versement de pension alimentaire qui répond à de nombreux critères applicables dans de nombreux contextes. Par exemple, il s'agit de versements périodiques en vertu d'un accord écrit. À première vue, il s'agit d'une allocation que le récipiendaire peut utiliser à son gré, facteur qui a été soulevé par l'appelant. L'argument de l'appelant, soutenu par la preuve, est qu'il n'a accepté de verser les aliments que dans l'intention et dans le but qu'ils soient utilisés pour financer certaines dépenses extraordinaires de ses enfants (cours de natation et de danse, ainsi que certains frais de scolarité). À l'appui de sa position, on trouve des lettres qui démontrent que l'épouse lui a demandé de l'argent supplémentaire pour des dépenses précises qu'il a accepté de défrayer. Il y a des preuves qui démontrent que certaines de ces dépenses ont été payées directement par l'appelant et il y a des archives judiciaires qui démontrent que certaines demandes de remboursement demeurent en suspens. Il y a une ordonnance sur consentement, datant de 2002, qui confirme l'obligation, du moins prospective, de l'appelant de défrayer certains articles extraordinaires concernant l'entretien des enfants en lieu et place des versements mensuels. D'un autre côté, la preuve révèle aussi qu'il est possible que ses intentions et ses croyances ont pu manquer à définir la portée et la nature de ses obligations juridiques en application de l'accord de 1996. Selon le libellé même de cet accord, il ne pouvait verser moins que le montant convenu, quelle que soit la manière dont l'argent était dépensé. Et il n'était pas autorisé non plus à demander une reddition de comptes ou un remboursement pour les versements de pension alimentaire excédentaires ou qui n'avaient pas été utilisés pour les dépenses extraordinaires qu'il avait l'intention de défrayer. Bien sûr, il ne s'agit que d'exemples hypothétiques, car il n'y a pas de preuve que de telles situations se soient produites. L'épouse de l'appelant a financé davantage que sa propre part des dépenses extraordinaires que l'appelant avait l'intention de financer lui-même. Cependant, en l'espèce, il semble qu'il n'ait pas été possible de lui demander une reddition de comptes si les dépenses extraordinaires avaient dépassé le montant des versements de pension alimentaire auxquels il était tenu. En fait, quand l'avocat de son épouse lui a demandé une reddition de comptes en equity pour des dépenses supplémentaires, il semble qu'il ait été en droit de refuser en common law, ce qu'il a fait. Il n'a versé que des contributions supplémentaires dans la mesure de ce qu'il jugeait être dans ses moyens. Vraisemblablement, le montant mensuel de 250 $ n'était qu'un plafond pour son obligation de défrayer ces dépenses extraordinaires et précises.
+[7] Je remarque aussi que l'épouse de l'appelant a témoigné à l'audience pour le compte de l'intimée. Son témoignage a soutenu la formulation claire de la première ligne du paragraphe 3 de l'accord : elle croyait être en mesure d'utiliser les versements de pension alimentaire à son gré.
+[8] La seconde ligne du paragraphe 3 de l'accord de séparation va à l'encontre de l'effet fiscal que la Loi donnait, selon son interprétation en 1996, à la première ligne de l'accord. Selon le libellé de la première phrase, le versement de pension alimentaire est déductible pour le payeur et doit être déclaré comme revenu par la récipiendaire. Même si l'appelant a accepté de ne pas demander de déduction (obligation qui pourrait le lier en vertu du droit des contrats), cela ne signifie pas qu'il ne soit pas admissible aux déductions en vertu de la Loi. La question est de savoir si je dois inférer de la seconde ligne qu'elle est censée refléter, et en dépit de la première ligne, que les paiements étaient assujettis à la condition résolutoire tacite mais convenue qu'ils seraient utilisés pour défrayer des dépenses extraordinaires et précises. Alors que, dans des conditions normales, une interprétation aussi ample serait impossible à soutenir en raison de la clarté du libellé de la première ligne du paragraphe 3 de l'accord, il peut exister des circonstances où l'intention des parties en ce qui concerne leur traitement fiscal respectif peut faire pencher la balance au moment de juger si une disposition expresse signifie bien ce qu'elle semble signifier. En l'espèce, je n'aurai pas à trancher cette question, puisque l'appel doit être accueilli pour d'autres motifs et sous égard à la réponse à cette question.
+[9] Je vais maintenant aborder les dispositions transitoires qui portent sur les articles de la Loi dont dépend le sort du litige. Je dois affronter la situation suivante : en 1996, a été conclu un accord qui prévoyait que l'appelant ne demanderait pas de déduction à l'égard du versement de pension alimentaire. À cette époque, le paragraphe 118(5) de la Loi était formulé ainsi :
+(5) Dans le cas où un particulier a droit à une déduction prévue à l'alinéa 60b), c) ou c.1) dans le calcul de son revenu pour une année d'imposition au titre d'un paiement effectué pour subvenir aux besoins de son conjoint ou de son enfant, le conjoint ou l'enfant sont réputés, pour l'application du présent article - sauf pour l'application de la définition de « revenu de pension admissible » au paragraphe (7) -, ne pas être le conjoint ou l'enfant du particulier. (Je souligne.)
+[10] Selon cette disposition, il semble que l'appelant ait été admissible à l'époque à une déduction en application de la version contemporaine de l'alinéa 60b) de la Loi. Dans ce cas, il n'aurait pas été admissible au crédit pour personne entièrement à charge. Cette conclusion dépend, bien sûr, de la qualification du versement de pension alimentaire comme allocation que la récipiendaire pouvait dépenser selon son gré.
+[11] Le paragraphe 118(5) a été modifié par L.C. 1997, ch. 25, par. 25(8), à compter de l'année d'imposition 1997. Selon cette disposition de mise en vigueur, le paragraphe 118(5) cité au paragraphe 3 des présents motifs, est applicable en dépit du fait qu'il s'agisse ici d'un accord datant de 1996[2]. En vertu de la nouvelle disposition, il doit y avoir une « pension alimentaire » définie ainsi :
+« pension alimentaire » - Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ses enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[12] Cette définition de la « pension alimentaire » a été ajoutée, pour être applicable après 1996, par L.C. 1997, ch. 25, par. 9(6); mais la disposition de mise en vigueur a été modifiée à partir du 25 avril 1997, par L.C. 1998, ch. 19, par. 307(1), ainsi libellé[3] :
+(8) Le paragraphe (6) s'applique à compter de 1996. Toutefois :
+a) les montants suivants ne sont pas des pensions alimentaires, au sens du paragraphe 56.1(4) de la même loi, édicté par le paragraphe (6) :
+(i) le montant reçu aux termes d'un arrêt, d'une ordonnance ou d'un jugement d'un tribunal compétent, ou d'un accord écrit, sans date d'exécution au sens du paragraphe 56.1(4),
+(ii) le montant qui, s'il était payé et reçu, ne serait pas inclus, si ce n'était la présente loi, dans le calcul du revenu du bénéficiaire;
+[13] Puisque l'accord de 1996 ne contient pas de « date d'exécution » [4], il n'y a pas de « pension alimentaire » en l'instance. Ceci veut dire que le paragraphe 118(5) ne peut être appliqué pour interdire le crédit pour personne entièrement à charge et l'appel doit, par conséquent, être accueilli.
+[14] Ma conclusion est fondée sur mon interprétation de la disposition transitoire. J'estime qu'il y a deux situations dans lesquelles il n'y a pas de « pension alimentaire » : d'abord, lorsque les versements découlent d'un accord ancien qui n'a pas été actualisé pour s'ajuster au système actuel au moyen d'une « date d'exécution » ; deuxièmement, lorsque les versements reçus en vertu d'un accord ancien ne sont pas inclus dans le revenu du récipiendaire, c'est-à-dire lorsque les versements ne satisfont pas l'une des conditions obligatoires comme leur périodicité ou le caractère discrétionnaire de leur utilisation. Dans ces deux cas, il n'y a pas de « pension alimentaire » [5]. À l'audience, j'ai suggéré que la conjonction « and » (et) placée entre les sous-alinéas (i) et (ii) [dans la version anglaise] de la disposition transitoire susvisée, signifie que les deux conditions (i) et (ii) doivent être satisfaites pour qu'il n'y ait pas de « pension alimentaire » . Maintenant, je suis d'un autre avis. Il n'y a pas de « pension alimentaire » en l'espèce aux fins du paragraphe 118(5). Les dispositions transitoires afférentes aux modifications apportées à la Loi conservent le statu quo des anciens accords[6].
+[15] Par conséquent, le présent appel est accueilli avec dépens.
+Signé à Toronto, Canada, ce 26e jour de juin 2003.
+« J. E. Hershfield »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+[1] Shairp c. M.R.N., C.F. 1re inst., no T-2681-84, 30 mars 1987 (87 DTC 5206); confirmée par [1989] 1 C.F. 562 (88 DTC 6484); Chadwick, succession c. Canada, C.C.I., no 93-1802(IT)I, 8 mars 1994 ([1994] C.T.C. 158).
+[2] Je voudrais remarquer que la version actuelle de la Loi reflète d'autres modifications ayant été apportées au même paragraphe. Ces modifications ont fait l'objet de dispositions modificatrices afférentes qui n'ont aucun effet en l'espèce. Les modifications subséquentes portaient sur les conjoints de fait.
+[3] La modification de 1998 a ajouté le sous-alinéa a)(i). La modification de 1997 exclut simplement le montant prévu au sous-alinéa a)(ii) du montant de la « pension alimentaire » .
+[4] Il n'a pas été contesté qu'il n'y a pas eu de choix, d'accords écrits subséquents, ni d'ordonnances judiciaires tenant compte des versements de pension alimentaire effectués en l'année 2000 en vertu de l'accord de 1996. Par conséquent, il ne peut y avoir de « date d'exécution » aux termes du paragraphe 56.1(4) de la Loi.
+[5] La modification de 1998 à la disposition de mise en vigueur mentionnée dans la note 3, ci-dessus, semble soutenir cette interprétation.
+[6] Il est intéressant de constater que, dans ce cas particulier, il existe une anomalie potentielle quant au maintien du statu quo pour ce qui est de la demande du crédit pour personne entièrement à charge. En vertu du paragraphe 118(5) modifié, on ne pourrait pas rejeter la demande du crédit pour personne entièrement à charge demandée par l'appelant en raison de son admissibilité (le cas échéant) à la déduction pour la pension, étant donné que celui-ci n'a pas demandé cette déduction par respect pour les modalités de l'accord qu'il a signé. En vertu du paragraphe 118(5) modifié, le rejet du crédit pour personne entièrement à charge n'est possible que si on a demandé une déduction sans égard au fait qu'on y soit admissible ou non.

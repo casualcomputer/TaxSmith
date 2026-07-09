@@ -1,0 +1,174 @@
+---
+title: "McKay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/107973/index.do"
+last_modified: "2015-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 33"
+citation2: ""
+neutral_citation: "2015 TCC 33"
+decision_date: "2015-02-10"
+language: "en"
+item_id: "107973"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2748
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:30:44.647000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa19a459be0dc7706a86e09c1a7ec0d70a11a4584dcb0c33fbc5f8b9de1d0be8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKay v. The Queen
+
+- Citation: 2015 TCC 33
+- Decision date: 2015-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2748, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-10
+Neutral citation
+2015 TCC 33
+File numbers
+2012-3636(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3636(IT)G
+BETWEEN:
+DAWN MCKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on November 5, 2014, at Thunder Bay, Ontario.
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Brian MacIvor and
+Shannon Nelson
+Counsel for the Respondent:
+Andrew Miller
+ORDER
+The respondent's motion for an order granting leave to amend the Reply to the Notice of Appeal, by adding subparagraph 8 c) and paragraphs 9 and 18 to the proposed Amended Reply, is dismissed.
+Costs of this motion shall be in the cause.
+Signed at Ottawa, Canada, this 6th day of February 2015.
+"K. Lyons"
+Lyons J.
+Citation: 2015 TCC 33
+Date: 20150206
+Docket: 2012-3636(IT)G
+BETWEEN:
+DAWN MCKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] The respondent is seeking an order granting leave to amend the Reply to the Notice of Appeal (“Reply”) on the ground that Dawn McKay, the appellant, has declined in part to consent to the filing of a proposed Amended Reply which adds an alternative legal argument based on subsection 56(2) of the Income Tax Act (the "Act"). The respondent brought the motion under section 54 of the Tax Court of Canada Rules (General Procedure).
+[2] The appeal concerns the assessment by the Minister of National Revenue of the appellant’s tax liability in 2008 pursuant to subsection 160(1) of the Act, in the amount of $68,543.72 for the transfer of a Cadillac Escalade (the “Cadillac”) from Henry Wetelainen (“Mr. Wetelainen”) to the appellant on the basis that she became jointly and severally liable for Mr. Wetelainen's pre-existing tax liability.
+[3] The respondent contends that she is merely adding a legal argument pursuant to subsection 156(2) of the Act and that pleadings can be amended at any time to determine the real controversy between the parties, provided it is in the interests of justice and there is no prejudice to the appellant that cannot be remedied by costs.
+[4] At the hearing, the appellant opposed only the amendments to subparagraph 8 c) and paragraphs 9 and 18 of the proposed Amended Reply which read as follows:
+8. c) In the further alternative, whether the amount of $68,543.72 was properly added to the appellant's income for the 2008 taxation year pursuant to subsection 56(2) of the Act.
+9. He relies on subsections, 56(2) and 152(9) and sections 3, 160, 248, and 251 of the Act.
+18. In the further alternative, the Minister properly included the amount of $68,543.72 in the appellant’s income for the 2008 taxation year. The appellant either directed that or concurred with the transfer of $75,000 by BLIG to Mr. Wetelainen by way of the Cheque. In addition, the transfer by BLIG of $75,000 to Mr. Wetelainen either benefited the appellant or was done because the appellant desired to confer a benefit on Mr. Wetelainen. As such, the appellant is liable pursuant to subsections 56(2) and 152(9) of the Act for an amount of $68,543.72.
+[5] The first ground upon which the appellant opposes the motion is that the amendments in the proposed Amended Reply include a different transaction than those that formed the basis of the assessment which focuses solely on the Cadillac (the transfer, registration and fair market value).
+[6] The transactions giving rise to the assessment set out in the assumptions of fact in the Reply are as follows:
+7. In so confirming the appellant's tax liability under subsection 160(1) of the Act, the Minister relied on the following facts:
+a) the appellant is a shareholder, director, officer and employee of Bending Lake Iron Group ("BLIG");
+b) Henry Wetelainen, also known as Henry Wetelainen Jr., ("Mr. Wetelainen") is a shareholder, director, officer and employee of BLIG;
+c) on August 13, 2008 Mr. Wetelainen purchased a 2008 Cadillac Escalade Vehicle Identification Number 1GYFK63858R133816, (the "Cadillac Escalade") from Courtesy Chevrolet in the amount of $68,543.72;
+d) on the Transfer Date, Mr. Wetelainen transferred and registered the Cadillac Escalade to the appellant;
+e) prior to the Transfer Date, Mr. Wetelainen was not indebted to the appellant;
+f) the appellant provided no consideration for the transfer of the Cadillac Escalade;
+g) the appellant lives at 402 Grand Point Road, Thunder Bay ON;
+h) on the Transfer Date, BLIG issued a cheque to Mr. Wetelainen at the address 401 Grand Point Road, Thunder Bay ON in the amount of $75,000 (the "Cheque");
+i) the Cheque was signed by the appellant;
+j) on August 15, 2008, the appellant deposited the Cheque into Mr. Wetelainen's TD Canada Trust bank account 6053-6327838 ("TD Bank Account");
+k) on August 15, 2008, Mr. Wetelainen purchased a Credit Voucher -45006469, from his TD Bank Account, made payable to Courtesy Chevrolet in the amount of $64,232.87;
+l) at the Transfer Date of the Cadillac Escalade, the appellant and Mr. Wetelainen, were not dealing at arm's length; and
+m) on the Transfer Date of the Cadillac Escalade, Mr. Wetelainen was indebted to the Minister for not less than $977,831.
+[7] The right of the Minister to present an alternative argument in support of an assessment is governed by subsection 152(9) of the Act. That subsection reads:
+Alternative basis for reassessment
+152(9) The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[8] The respondent is precluded from advancing an alternative argument if other transactions are taken into account that did not form the basis of the reassessment or there is an increase in tax payable relative to the assessment in issue. This was established by the Federal Court of Appeal in Anchor Pointe Energy Ltd. v R, 2003 FCA 294, [2004] 5 CTC 98 (FCA), which held that the underlying transaction and the amount of tax assessed is what matters.
+[9] In Walsh v R, 2007 FCA 222, [2007] 4 CTC 73 (FCA), the Federal Court of Appeal set out the following conditions when the Minister seeks to rely on subsection 152(9):
+1) the Minster cannot include transactions which did not form the basis of the taxpayer’s reassessment;
+2) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+3) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the Act, or to collect tax exceeding the amount in the assessment under appeal.
+[10] In this motion, only the first two conditions are relevant.
+[11] With respect to the first condition of subsection 152(9), according to subparagraphs 7 h), i), j) and k) of the Reply in respect of the appellant, Mr. Wetelainen and BLIG, in assessing the appellant the Minister relied upon those assumptions of fact. Those and other assumptions as plead, indicate that the day after Mr. Wetelainen purchased the Cadillac from Courtesy Chevrolet in the amount of $68,543.72, he transferred the Cadillac to the appellant on the same date that BLIG had issued the Cheque to him, signed by the appellant.[1] As well, on the subsequent day, she deposited the Cheque into his bank account and he then purchased a credit voucher from his bank for $64,232.87, made payable to Courtesy Chevrolet.
+[12] It can, therefore, be seen that the proposed amendments do not involve a different transaction than the transactions that formed the basis of the assessment. In my view, the transactions that formed the basis of the assessment was not restricted - as suggested by the appellant – and focused solely on the Cadillac (the transfer, registration and value), but included other transactions. The other transactions involved the issuance of the Cheque by BLIG to Mr. Wetelainen as at the date of the transfer of the Cadillac, the appellant’s involvement in signing and depositing the Cheque into his account and the steps Mr. Wetelainen subsequently took, all of which gave rise to the income on which the Minister seeks to tax the appellant. I note that the reference to the Cheque was mentioned thrice in the assumptions and fail to see how this could not be viewed as part of the transactions that form the basis of the Minister’s assessment.
+[13] On this aspect, the respondent meets the first condition under subsection 152(9) of the Act.
+[14] I now turn to the second condition and the second ground that the appellant opposes the motion. Appellant counsel asserts that the appellant would suffer prejudice should the respondent’s motion be granted because effective September 11, 2014 BLIG was placed into receivership by virtue of the Notice of Receivership Order issued by the Superior Court of Justice. Therefore, it will prove to be difficult to obtain information from the receiver rather than BLIG.[2] An affidavit was adduced at the hearing confirming that BLIG was placed into receivership.
+[15] The criteria to be considered by the Court in deciding whether to allow a party to amend its pleadings is enunciated in Canderel Ltd. v R, [1993] 3 CTC 213 (FCA), at paragraph 10. The general rule is that an amendment to pleadings should be permitted at any stage to determine the real questions in controversy between the parties, provided that it would not result in an injustice to the opposing party and the amendment can be compensated by an award of costs.
+[16] The Notice of Appeal was filed with the Court on August 29, 2012 and served on the respondent on October 12, 2012. The Reply was filed with the Court on December 10, 2012. At the time of and subject to the respondent’s motion seeking leave to amend the Reply, the matter was ready to proceed to the hearing as all the litigation steps had been completed.
+[17] According to the respondent’s motion record, a formal request for consent to amend the Reply was sent to appellant counsel by letter dated September 26, 2014, and filed as Exhibit "B" to the Affidavit filed in support of the respondent’s motion. I note that the receivership pre-dates the request for consent.
+[18] I accept that BLIG’s receivership will present challenges in the appellant’s ability to access relevant documentary evidence and information associated with the issuance of the Cheque nor is it appropriate to order evidence to be adduced. Further, dealing with the receiver could potentially prove to be difficult in seeking to obtain evidence relating to BLIG. I agree that in these circumstances there would be prejudice to the appellant.
+[19] Relying on the test in the Walsh decision, I find that while the respondent met the first condition, the circumstances relating to the receivership would likely prejudice the appellant from an evidentiary perspective, therefore, the second condition under subsection 152(9) of the Act has not been satisfied to enable the respondent to raise the new argument detailed in the proposed Amended Reply.
+[20] Since the amendment in paragraph 13 of the proposed Amended Reply went unopposed, this amendment is to be accepted as part of an Amended Reply to be filed by the respondent within 15 days of the date of this Order.
+[21] For the above reasons, the motion relating to the amendments in subparagraph 8 c) and paragraphs 9 and 18 of the proposed Amended Reply, is dismissed. Costs of this motion shall be in the cause.
+Signed at Ottawa, Canada, this 6th day of February 2015.
+"K. Lyons"
+Lyons J.
+CITATION:
+2015 TCC 33
+COURT FILE NO.:
+2012-3636(IT)G
+STYLE OF CAUSE:
+DAWN MCKAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+November 5, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+February 6, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Brian MacIvor
+and Shannon Nelson
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian MacIvor
+Firm:
+MacIvor Harris Roddy LLP
+Thunder Bay, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In referring to the “Cheque”, I am using the $75,000 amount as defined in the assumptions.
+[2] In his submissions, appellant counsel alluded to it already having been difficult in dealing with the receiver.

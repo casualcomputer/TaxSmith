@@ -1,0 +1,126 @@
+Title: Jobin c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521003/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-135-521003-jobin-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-12-16
+
+# Jobin c. Le Roi
+
+- Citation: 2022 CCI 135
+- Decision date: 2022-12-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5804, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jobin c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-16
+Référence neutre
+2022 CCI 135
+Numéro de dossier
+2020-598(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-598(IT)I
+ENTRE :
+CHRISTIANE JOBIN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête entendu le 26 Avril 2022, à Granby (Québec); transcription reçu le 23 mai 2022.
+Devant : L'honorable juge Gaston Jorré, juge suppléant
+Comparutions :
+Agent de l'appelante :
+M. Roger Couture
+Avocat de l'intimé :
+M. Julien Wohlhuter
+ORDONNANCE MODIFIÉ
+Conformément aux motifs ci-joints, la requête de l’intimé visant à obtenir une ordonnance cassant les appels interjetés à l’égard des cotisations établies pour les années d’imposition 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 et 2019 est accueillie, sans frais.
+La conséquence de cette ordonnance est que cette cour n’est valablement saisie que des appels à l’égard des années d’imposition 2003, 2004, 2005 et 2009.
+Signé à Ottawa, Ontario, ce 16e jour de décembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+Référence : 2022 CCI 135
+Date : 20221216
+Dossier : 2020-598(IT)I
+ENTRE :
+CHRISTIANE JOBIN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE MODIFIÉ
+Le juge suppléant Jorré
+Introduction
+[1] L’intimé a déposé une requête visant à limiter l’appel devant la cour aux années d’imposition 2003, 2004, 2005 et 2009. Pour les raisons qui suivent, je suis d’accord avec l’intimé.
+[2] Au premier paragraphe de son avis d’appel signé le 20 février 2020, l’appelante écrit qu’elle appelle les années d’imposition 1990 à 2009 inclusivement, en tout 20 années d’imposition.
+[3] Toutefois, dans ses conclusions, l’appelante demande, entre autres, l’annulation de toutes les cotisations faites depuis 1989. En conséquence, l’appel vise 31 années d’imposition, 1989 à 2019 inclusivement.
+[4] Selon l’année en question l’intimé invoque différentes raisons à l’appui de sa requête, absence d’opposition, cotisations néant, appel prématurées, aucune cotisation, aucune opposition valide, chose jugée et appel hors délai. Dans certaines années, l’intimé invoque plus d’un motif.
+[5] Il n’y a aucun doute quant aux faits pertinents. [1]
+[6] Vu mes conclusions, il n’est pas nécessaire que j’examine toutes les prétentions de l’intimé relatives à chacune des années.
+Les années 1993, 1994, 1995 et 1996
+[7] Vu la décision du 14 avril 2003 du juge Dussault de cette cour rejetant les appels des années d’imposition 1993,1994,1995 et 1996 (Dossier 1999-2474(IT)I), il ne peut y avoir d’appels valables relatifs à ces quatre années en raison du principe de la chose jugée. L’appelante a porté en appel le jugement du juge Dussault ; la cour fédérale d’appel a rejeté l’appel dans un jugement du 17 novembre 2004 (dossier: A-269-03). [2]
+Les années 1989, 1990, 1991 et 1992, 1997, 1998, 1999, 2000, 2006, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 et 2019
+[8] Un appelant doit obligatoirement déposer un avis d’opposition à une cotisation avant de faire appel à cette cour. Aucune opposition n’a été déposée pour les années d’imposition énumérée ci-dessus et, en conséquence, il ne peut y avoir d’appel valable. [3]
+L’année 2001
+[9] Quand le ministre ratifie une cotisation, un appel doit être déposé dans un délai de 90 jours. [4] En ce qui concerne l’année 2001, l’appel a été déposé hors délai et, en conséquence, n’est pas valable.
+[10] La possibilité de proroger ce délai existait. [5] L’intimé a indiqué à la deuxième page de sa réponse à l’avis d’appel que l’appelante avait la possibilité de proroger ce délai. Malheureusement, cela n’a pas été fait.
+L’année 2002
+[11] En ce qui concerne l’année 2002, l’appelante n’a jamais produit de déclaration de revenus et le ministre n’a jamais cotisé l’appelante à l’égard de cette année. [6] En conséquence, il ne peut y avoir d’appel valable de l’année 2002. [7]
+Les années 2007 et 2008
+[12] Pour ce qui est des années 2007 et 2008, il n’y a pas d’appel valable par ce qu’il n’y a jamais eu d’opposition à l’intérieur des délais. [8]
+Conclusion
+[13] Pour toutes ces raisons la requête de l’intimé est accueillie, sans frais.
+Cette ordonnance et motif de l’ordonnance modifiée est émise en remplacement de l’ordonnance datée du 16e jour de novembre 2022 afin de corriger les erreurs typographiques.
+Signé à Ottawa, Ontario, ce 16e jour de décembre 2022.
+« G. Jorré »
+Juge suppléant Jorré
+RÉFÉRENCE :
+2022 CCI 135
+Nº DU DOSSIER DE LA COUR :
+2020-598(IT)I
+INTITULÉ DE LA CAUSE :
+CHRISTIANE JOBIN ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Granby (Québec)
+DATE DE L’AUDIENCE :
+Le 26 avril, 2022
+DATE DE RÉCEPTION DE LA TRANSCRIPTION PAR LA COUR:
+Le 23 mai 2022
+MOTIFS DE L’ORDONNANCE PAR :
+L'honorable juge Gaston Jorré, juge suppléant
+DATE DE L’ORDONNANCE MODIFIÉ :
+le 16 décembre 2022
+COMPARUTIONS :
+Agent de l'appelante :
+M. Roger Couture
+Avocat de l’intimé :
+M. Julien Wohlhuter
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Vide
+Cabinet :
+vide
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelante a soulevé d’autres faits et d’autres questions mais rien dans sa preuve ne met en doute les faits résumés très brièvement ci-dessous.
+[2] Voir les paragraphes 22 à 33 de la déclaration sous serment de Thi Bich Hà Nguyen (pièce I-1).
+[3] Voir les paragraphes 7 à 9 de la déclaration sous serment de Thi Bich Hà Nguyen (pièce I-1) et le paragraphe 169(1) de la loi de l’impôt sur le revenu. En ce qui concerne l’année 2019, voir les paragraphes 11 à13 de la déclaration sous serment.
+[4] Voir les paragraphes 3 à 6 de la déclaration sous serment de Thi Bich Hà Nguyen (pièce I-1) et le paragraphe 169(1) de la loi de l’impôt sur le revenu.
+[5] Voir le paragraphe 167(1) de la loi de l’impôt sur le revenu.
+[6] Voir le paragraphe 14 de la déclaration sous serment de Thi Bich Hà Nguyen (pièce I-1).
+[7] Un prérequis à la validité d’un appel est qu’il y ait eu une opposition valable (voir l’article 169(1) de la loi de l’impôt sur le revenu) ; or, il ne peut y avoir d’opposition valable à moins qu’il y ait eu une cotisation (voir l’article 165(1) de la loi de l’impôt sur le revenu). Il suit qu’il ne peut y avoir un appel valable devant cette cour en absence d’une cotisation. Voir aussi Dawson c. La Reine [1998] 3 CTC 2734 au paragraphe 11.
+[8] Voir les paragraphes 15 à 21 de la déclaration sous serment de Thi Bich Hà Nguyen (pièce I-1).

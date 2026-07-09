@@ -1,0 +1,718 @@
+Title: Antifaiff c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72578/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-216-72578-antifaiff-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-07-17
+
+# Antifaiff c. La Reine
+
+- Citation: 2014 CCI 216
+- Decision date: 2014-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5354, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Antifaiff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-17
+Référence neutre
+2014 CCI 216
+Numéro de dossier
+2012-4884(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4884(GST)I
+ENTRE :
+BENTON ANTIFAIFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 mars 2014, à Regina (Saskatchewan)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Larissa Benham
+JUGEMENT
+L’appel formé contre un avis de cotisation – tiers (A112511), établi en vertu de la Loi sur la taxe d’accise et daté du 6 décembre 2007, est rejeté conformément aux motifs ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 17e jour de juillet 2014.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 28e jour d’août 2014.
+M.-C. Gervais
+Référence : 2014 CCI 216
+Date : 20140717
+Dossier : 2012-4884(GST)I
+ENTRE :
+BENTON ANTIFAIFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] L’appelant interjette appel à l’encontre d’une cotisation établie à son égard, au titre de sa responsabilité en tant qu’administrateur, en application de l’article 323 de la Loi sur la taxe d’accise (la « Loi »). Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’encontre de l’appelant au titre de la taxe sur les produits et services (la « TPS ») non versée et des intérêts et pénalités y afférents, pour un total de 53 575,74 $, somme due par FIS Financial Information Systems Inc. (« FIS ») pour ses périodes de déclaration terminées entre le 30 septembre 1996 et le 30 septembre 2000.
+Les points litigieux [2] Les points litigieux soulevés dans le présent appel sont les suivants :
+i) Le ministre a-t-il dûment porté certains crédits en diminution des sommes dues par FIS?
+ii) Le ministre a-t-il correctement calculé les pénalités dues par FIS au titre de la Loi, à savoir les pénalités pour production tardive et les pénalités pour non-versement?
+iii) FIS avait-elle droit à d’autres crédits de taxe sur les intrants (les « CTI ») pour ses périodes de déclaration terminées entre le 1er octobre 1998 et le 30 septembre 2000?
+iv) L’appelant a-t-il exercé une diligence raisonnable pour empêcher le défaut de versement, par FIS, de la taxe nette due?
+v) L’appelant avait-il droit à un allégement compte tenu de la lenteur du ministre à établir une cotisation à son encontre au titre de la TPS due par FIS?
+Les faits [3] FIS a été constituée en société en Saskatchewan le 20 mai 1993. L’entreprise exerçait des activités de conseil en informatique. À toutes les époques pertinentes, l’appelant était l’unique actionnaire et administrateur.
+[4] FIS a été radiée du registre des sociétés de la Saskatchewan le 31 octobre 1997, apparemment pour non-production de ses déclarations annuelles. Cependant, elle a continué d’exercer ses activités jusqu’à la fin de 2000.
+[5] La preuve a révélé que FIS produisait toujours tardivement ses déclarations de TPS et ne versait aucune taxe nette au moment de produire ses déclarations de TPS.
+[6] L’annexe A des présents motifs donne le résumé des déclarations de TPS de FIS et des redressements apportés par l’Agence du revenu du Canada (l’« ARC ») aux montants indiqués par FIS dans ses déclarations.
+[7] Les dernières nouvelles cotisations TPS applicables aux périodes de déclaration de FIS terminées entre le 30 septembre 1994 et le 31 mars 1998 ont été établies le 16 septembre 1998. Ces nouvelles cotisations ont donné lieu à une hausse appréciable de la taxe nette devant être payée par FIS. FIS ne s’est pas opposée à ces nouvelles cotisations.
+[8] Pour les périodes de déclaration de FIS terminées entre le 30 juin 1996 et le 30 septembre 2000, le ministre a établi les cotisations en fonction des déclarations de TPS telles quelles avaient été produites. FIS ne s’est pas opposée aux cotisations.
+[9] Le 10 novembre 2005, le ministre a produit et enregistré auprès de la Cour fédérale, conformément à l’article 316 de la Loi, un certificat attestant la dette de FIS pour la TPS impayée au titre de ses périodes de déclaration terminées entre le 30 septembre 1996 et le 30 septembre 2000. La dette, chiffrée à 53 575,74 $, comprenait une TPS non versée de 22 335,79 $, des intérêts de 13 325,43 $ et des pénalités de 17 914,52 $. Les détails de la dette sont exposés à l’annexe B des présents motifs.
+[10] Un bref de saisie-exécution délivré par la Cour fédérale a été exécuté, puis renvoyé le 27 janvier 2006 avec la mention « pas de biens ».
+[11] Le 6 décembre 2007, le ministre a établi une cotisation à l’encontre de l’appelant en sa qualité d’administrateur de FIS, pour la taxe non versée ainsi que pour les intérêts et les pénalités dus par FIS au titre de la Loi.
+Point n° 1 : Application de crédits
+(i) Non-application de certains crédits
+[12] L’appelant a prétendu que le ministre n’avait pas porté au crédit de FIS les remboursements de taxe nette pour ses périodes de déclaration terminées le 31 mars 1998, le 30 juin 1998 et le 30 septembre 1998. Selon l’annexe A, FIS avait droit à des crédits de 7 007,75 $, de 452,47 $ et de 510,27 $ pour ces périodes, respectivement.
+[13] Cependant, la preuve produite par l’intimée a montré que toutes ces sommes avaient été défalquées des sommes dont FIS était redevable pour diverses périodes antérieures au 31 décembre 1996 (selon l’affidavit de Lori Boussad, alinéas 12e) à g), et l’affidavit supplémentaire de Lori Boussad, paragraphes 6 et 7). Ces remboursements avaient été défalqués de la manière suivante des sommes dues par FIS :
+Période de déclaration à l’origine du rembour­sement
+Montant du rembour­sement
+Période de déclaration à laquelle s’appliquait le rembour­sement
+Taxe due avant application du rembour­sement
+Portion appliquée du rembour­sement
+Taxe restant à payer après application du rembour­sement
+Montant imputé aux intérêts
+Montant imputé aux pénalités
+Rembour­sement restant
+98/03/31
+7 007,75
+1 870,41
+1 870,41
+5 137,34
+98/03/31
+2 616,76
+2 616,76
+2 520,58
+98/03/31
+95/03/31
+245,32
+249,66
+-
+2,10
+2,24
+2 270,92
+98/03/31
+95/12/31
+1 518,52
+1 988,49
+-
+193,83
+276,14
+282,43
+98/03/31
+96/03/31
+721,68
+282,43
+439,25
+-
+98/06/30
+452,47
+96/03/31
+439,25
+446,29
+-
+3,11
+3,93
+6,18
+98/06/30
+96/09/30
+777,69
+6,18
+771,51
+-
+98/09/30
+510,27
+96/09/30
+771,51
+510,27
+261,24
+-
+[14] L’appelant n’a pas contesté cette preuve et je tiens pour acquis que les remboursements de taxe nette ont été portés au crédit de FIS.
+(ii) Ordre d’application des crédits
+[15] L’appelant a ensuite fait valoir que le ministre n’avait pas appliqué les crédits au compte de FIS de la manière la plus favorable pour FIS. Selon lui, si les crédits avaient été appliqués d’abord aux montants de taxe nette qui étaient dus plutôt qu’aux intérêts et aux pénalités exigibles, les intérêts et pénalités grevant le compte de FIS auraient été moindres. L’appelant affirmait qu’aucune disposition de la Loi n’oblige le ministre à appliquer les crédits aux intérêts et aux pénalités avant de les appliquer à la taxe nette.
+[16] Selon moi, l’argument de l’appelant n’est pas fondé. Il n’a pas été prouvé que la dette de FIS aurait été réduite si le ministre avait appliqué dans un ordre différent les crédits aux sommes dues par FIS. Il est d’ailleurs de droit constant que lorsqu’un débiteur fait un paiement à son créancier sans lui préciser à quel compte s’applique le paiement, le créancier a le droit d’affecter le paiement comme il l’entend. Ce principe est énoncé par la Cour fédérale, Section de première instance, dans la décision 464734 Ontario Inc. v. The Queen, 90 D.T.C. 6206, à la page 6215 :
+À défaut de recevoir des directives du débiteur, le créancier est libre d’imputer les sommes d’argent reçues comme bon lui semble. Le débiteur doit expressément autoriser la manière dont les fonds qu’il verse au créancier doivent être imputés, et, s’il fait défaut de le faire, il est permis au créancier de décider à sa place : Can Fishing & Tackle Sports Limited c. Dawe [1960] OWN 499; et Re Northern and Central Gas Corp. Ltd. c. Kidd Creek Mines (1988) 66 OR (2d) 11.
+[17] Il n’apparaît pas que FIS a donné des directives à l’ARC sur la manière d’appliquer les crédits.
+Point n° 2 : Calcul des pénalités
+[18] Dans son troisième argument, l’appelant affirme que les pénalités imposées à FIS, à savoir les pénalités pour non-versement de la taxe et les pénalités pour production tardive, n’ont pas été bien calculées par le ministre et dépassent de 4 591,81 $ la somme due.
+[19] Avant le 1er avril 2007, l’alinéa 280(1)a) de la Loi prévoyait une pénalité de 6 % l’an pour non-versement ou non-paiement d’une somme au titre de la partie IX de la Loi :
+280. (1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année,
+b) des intérêts au taux réglementaire.
+[20] Le paragraphe 280(1) a été modifié, à compter du 1er avril 2007. La pénalité sur les montants non versés ou non payés a été supprimée et remplacée par une hausse du taux d’intérêt applicable à tels montants.
+[21] L’article 280.1 prévoit une pénalité pour non-production d’une déclaration au titre d’une période de déclaration selon les modalités et dans le délai prévus par la partie IX de la Loi. Le montant de la pénalité est calculé d’après une formule en deux parties : la première partie représente 1 % de la taxe nette qui est due, et la deuxième partie représente 25 % du montant de la première partie pour chaque mois complet de retard, jusqu’à concurrence de 12 mois.
+[22] Il n’est pas contesté par l’appelant que FIS était astreinte à des pénalités au titre de l’alinéa 280(1)a) jusqu’au 31 mars 2007, ainsi qu’à des pénalités au titre de l’article 280.1. Cependant, d’après l’appelant, ces montants étaient inférieurs à ceux qu’avait établis le ministre.
+[23] Le ministre a calculé les pénalités combinées comme il est indiqué à l’annexe B, par période de déclaration.
+[24] Les calculs de l’appelant, figurant dans la pièce A-2, se présentent ainsi :
+Application des règles antérieures au 1er avril 2007
+Pénalités composées quotidiennement
+Pénalité pour non-production
+A B C
+Taux annuel de la pénalité
+Taux quotidien
+Taxe nette
+1 %
+25 % de A
+Max de 12 mois
+Pénalité
+Jours de retard
+Montant à 6 %
+Selon le ministre
+Écart
+Dates
+6 %
+0,00016
+261,24
+2,61
+0,65
+7,84
+10,45
+4053
+175,80
+444,18
+268,38
+Jusqu’au 30-09-1996, exigible du 31-10-1996 au 06-12-2007
+6 %
+0,00016
+3 727,70
+37,28
+9,32
+111,83
+149,11
+3961
+2 451,65
+3 394,97
+943,32
+Jusqu’au 31-12-1996, exigible du 31-01-1997 au 06-12-2007
+6 %
+0,00016
+3 394,58
+33,95
+8,49
+101,84
+135,78
+3872
+2 182,40
+2 749,60
+567,20
+Jusqu’au 31-03-1997 exigible du 30-04 1997 au 06-12-2007
+6 %
+0,00016
+3 433,54
+34,34
+8,58
+103,01
+137,34
+3780
+2 154,99
+2 781,13
+626,14
+Jusqu’au 30-06‑1997 exigible du 31-07-1997 au 06-12-2007
+6 %
+0,00016
+1 624,01
+16,24
+4,06
+48,72
+64,96
+3688
+994,47
+1 315,42
+320,95
+Jusqu’au 30-09-1997 exigible du 31-10-1997 au 06-12-2007
+6 %
+0,00016
+4 666,72
+46,67
+11,67
+140,00
+186,67
+3596
+2 786,40
+3 780,00
+993,60
+Jusqu’au 31-12-1997 exigible du 31-01-1998 au 06-12-2007
+6 %
+0,00016
+1 050,00
+10,50
+2,63
+31,50
+42,00
+3231
+563,30
+793,18
+229,88
+Jusqu’au 31-12-1998 exigible du 31-01-1999 au 06-12-2007
+6 %
+0,00016
+787,50
+7,88
+1,97
+23,63
+31,50
+3142
+410,84
+568,30
+157,46
+Jusqu’au 31-03-1999 exigible du 30-04-1999 au 06-12-2007
+6 %
+0,00016
+787,50
+7,88
+1,97
+23,63
+31,50
+3050
+398,81
+540,41
+141,60
+Jusqu’au 30-06-1999 exigible du 31-07-1999 au 06-12-2007
+6 %
+0,00016
+787,50
+7,88
+1,97
+23,63
+31,50
+2958
+386,78
+514,78
+128,00
+Jusqu’au 30-09-1999 exigible du 31-10-1999 au 06-12-2007
+6 %
+0,00016
+787,50
+7,88
+1,97
+23,63
+31,50
+2866
+374,75
+489,47
+114,72
+Jusqu’au 31-12-1999 exigible du 31-01-2000 au 06-12-2007
+6 %
+0,00016
+6,30
+0,06
+0,02
+0,19
+0,25
+2684
+2,81
+3,52
+0,71
+Jusqu’au 30-06-2000 exigible du 31-07-2000 au 06-12-2007
+6 %
+0,00016
+1 021,70
+10,22
+2,55
+30,65
+40,87
+2592
+439,71
+539,56
+99,85
+Jusqu’au 30-09-2000 exigible du 31-10-2000 au 06-12-2007
+13 322,71
+17 914,52
+4 591,81
+[25] Les colonnes quatre à sept des calculs de l’appelant apparaissant dans la pièce A-2 concernent les pénalités de l’article 280.1 pour production tardive, et les colonnes huit et neuf se rapportent aux pénalités de l’alinéa 280(1)a) pour non‑versement de la taxe.
+[26] Il semble toutefois que l’appelant a commis une erreur de taille dans le calcul des pénalités de l’alinéa 280(1)a) pour non-versement de la taxe, car il a oublié que les pénalités établies doivent être composées quotidiennement, comme le prévoit le paragraphe 124(1) de la Loi :
+124. (1) Les intérêts calculés au taux réglementaire et les pénalités calculées à un taux annuel, en application de la présente partie, sont composés quotidiennement.
+[27] L’appelant applique le taux quotidien de 0,00016 % pour la pénalité, ce qui équivaut à 6 % l’an sans capitalisation des intérêts. On peut le constater en divisant le taux de 6 % l’an par les 365 jours de l’année (j’arrondis à la 5e décimale) :
+0,06 = 0,00016
+365
+[28] La formule permettant de calculer un montant qui doit être composé quotidiennement est la suivante :
+A = P(1+r)n
+où « P » est le montant initial, « r » est le taux d’intérêt ou de pénalité (exprimé en décimale), « n » est le nombre total des périodes de composition, et « A » est le montant final : V. Krishna, Understanding Financial Statements (Toronto, Irwin Law Inc. 2013), à la page 32.
+[29] Il est évident que, si le montant de la pénalité n’est pas composé, l’erreur est de taille, et je suis donc d’avis que les calculs de l’appelant sont inexacts, sans compter qu’il n’a pas prouvé que les pénalités établies à l’encontre de FIS étaient trop élevées.
+Point n° 3 : Prétention à des crédits de taxe sur les intrants additionnels [30] L’appelant a aussi prétendu que FIS devrait bénéficier d’autres crédits de taxe sur les intrants (les « CTI ») pour les périodes de déclaration terminées entre le 31 décembre 1998 et le 30 septembre 2000. FIS n’avait pas demandé de CTI dans ses déclarations produites pour ces périodes, mais, selon l’appelant, il allait de soi que FIS avait dû payer la TPS sur les fournitures taxables qu’elle avait acquises dans l’exercice de ses activités à l’époque. Il a estimé les CTI pour ces périodes à l’aide d’un coefficient déterminé pour d’autres périodes de déclaration, en comparant les CTI admis par le ministre à la TPS totale perçue par FIS.
+[31] L’argument de l’appelant concernant les CTI n’est pas recevable parce que l’appelant n’a pas produit la preuve requise des CTI. Le paragraphe 169(4) de la Loi oblige l’inscrit qui entend demander un crédit de taxe sur les intrants pour une période de déclaration à obtenir « les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement ». L’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91-45 (le « Règlement »), énumère les renseignements qui doivent appuyer une demande de CTI, y compris certains détails concernant les fournitures sur lesquelles l’inscrit a payé la TPS. La quantité de détails dépend du montant payé pour les fournitures, mais, à tout le moins, l’article 3 exige le nom du fournisseur ou de l’intermédiaire en ce qui concerne la fourniture, la date de la fourniture ou la date de la facture délivrée pour la fourniture, enfin le montant total payé pour la fourniture.
+[32] Les renseignements exigés suivant le paragraphe 169(4) de la Loi et le Règlement connexe sont obligatoires : Key Property Management Corporation c. La Reine, 2004 CCI 210, au paragraphe 14.
+[33] L’appelant n’a produit aucun des renseignements requis à l’appui de sa demande de CTI additionnels pour FIS, et la Loi ne renferme aucune disposition permettant de fonder une demande de CTI sur des estimations. L’appelant n’a donc pas prouvé que FIS avait droit à des CTI additionnels durant les périodes pertinentes.
+Point n° 4 : Diligence raisonnable
+[34] Dans son argument final, l’appelant affirme qu’il a exercé une diligence raisonnable pour faire en sorte que FIS s’assure de verser la taxe nette due, et donc qu’il devrait échapper à sa responsabilité au titre du paragraphe 323(3) de la Loi.
+[35] En ce qui concerne la défense de diligence raisonnable, la Cour d'appel fédérale a fait observer ce qui suit, au paragraphe 52 de l’arrêt La Reine c. Buckingham, 2011 CAF 142 :
+Le Parlement n’a pas requis des administrateurs qu’ils soient assujettis à une responsabilité absolue relativement aux versements de leurs sociétés. En conséquence, le Parlement accepte qu’une société puisse, dans certaines circonstances, ne pas effectuer des versements sans que la responsabilité de ses administrateurs ne soit engagée. Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés. [Non souligné dans l'original.]
+[36] En l’espèce, l’appelant a témoigné que FIS connaissait des difficultés financières. Il ne s’est pas étendu sur les difficultés en question, si ce n’est pour affirmer qu’il n’avait pas été en mesure d’emprunter davantage pour renflouer FIS, ce qui aurait permis à l’entreprise de payer ses dettes. Il a ajouté qu’il avait, en 1998, en 1999 et en 2000, réduit la rémunération qu’il recevait de FIS et qu’il avait travaillé autant qu’il avait pu pour faire prospérer FIS.
+[37] Selon moi, l’appelant n’a pas montré qu’il a pris des mesures précises suffisantes pour prévenir le défaut de versement, par FIS, de la TPS perçue auprès de ses clients. La preuve montre que le non-versement de la taxe par FIS, qui avait conduit à la cotisation établie à l’encontre de l’appelant s’était produit de nombreuses fois sur une période d’environ quatre ans. Il semble aussi que FIS manquait souvent à son obligation de produire à temps ses déclarations de TPS à partir de 1994 et qu’aucune déclaration de TPS pour ses périodes de déclaration terminées entre le 30 septembre 1998 et le 30 septembre 2000 n’a été produite avant septembre 2005.
+[38] Le témoignage de l’appelant ne permet pas de dire clairement quelles circonstances précises ont conduit FIS à ne pas produire de déclarations et verser la TPS comme l’exige la Loi, et l’on ne sait pas non plus quelles mesures, hormis la réduction de son salaire, l’appelant a prises pour faire en sorte que FIS ne manque pas de verser la taxe. Il a dit qu’il avait réduit son salaire, mais, en soi, cela ne permet pas d’affirmer qu’il a exercé une diligence raisonnable, puisqu’il n’a pas été prouvé que les économies ainsi réalisées aient été affectées à des versements de TPS. Il n’a été question d’aucune stratégie cohérente de nature à garantir que la TPS serait dûment versée. En fait, pour les années durant lesquelles l’appelant a réduit son salaire (ainsi que pour toutes les périodes antérieures), FIS n’a versé aucune TPS. Toutes les réductions de la taxe nette dont était redevable FIS se faisaient par application des remboursements de taxe nette attribuables à d’autres périodes de déclaration.
+Point n° 5 : Lenteur d’établissement de la cotisation
+[39] À l’audience, l’appelant s’est plaint de la longue période qui s’était écoulée entre la date à laquelle FIS avait cessé ses opérations, à la fin de 2000, et la date à laquelle une nouvelle cotisation avait été établie à son encontre, en décembre 2007. Il a fait observer qu’un fort pourcentage de la somme qui lui était réclamée consistait en des intérêts et des pénalités, ce qui aurait pu être en partie évité si la cotisation avait été établie plus tôt.
+[40] Le délai de prescription fixé pour l’établissement d’une cotisation au titre de la responsabilité d’un administrateur selon la Loi est précisé au paragraphe 323(5) :
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[41] Selon l’article 103 du Business Corporations Act de la Saskatchewan, RSS 1978, ch. B-10, le mandat d’un administrateur prend fin lorsque se produit l’un des événements suivants :
+a) il décède ou démissionne;
+b) il est destitué par les actionnaires;
+c) il devient inhabile.
+[42] En l’absence d’une preuve montrant que l’appelant a démissionné, a été destitué ou est devenu inhabile à exercer les fonctions d’administrateur, on ne saurait dire que le délai de prescription de deux ans fixé pour l’établissement d’une cotisation au titre de la responsabilité d’un administrateur a jamais commencé à courir.
+[43] Comme FIS a été radiée du registre des sociétés, on pourrait sans doute prétendre que la société a cessé d’exister à ce moment-là et que l’appelant a cessé d’en être l’administrateur. Cependant, selon une décision rendue par la Cour du Banc de la Reine de la Saskatchewan, R. v. Rasmussen and Saskatoon Salvage Co. (1985) Ltd., 130 Sask. R. 308, une société qui est radiée du registre en Saskatchewan n’est pas pour autant dissoute et peut continuer d’exercer ses activités. La seule conséquence d’une radiation du registre est que la société n’a plus la capacité d’ester en justice à l’égard d’un contrat conclu en Saskatchewan. En l’espèce, rien ne permet d’affirmer que FIS a été dissoute.
+[44] Je suis donc d’avis que la cotisation en litige, fondée sur la responsabilité de l’administrateur, n’a pas été établie en dehors du délai de prescription fixé au paragraphe 323(5).
+Conclusion
+[45] Pour tous ces motifs, l’appel est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 17e jour de juillet 2014.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 28e jour d’août 2014.
+M.-C. Gervais
+Annexe A
+Date de fin de la période
+Date de production de la déclaration
+Taxe déclarée perçue
+Crédits de taxe sur les intrants demandés
+Taxe nette à payer déclarée
+Taxe perçue suivant la vérification
+Crédits de taxe sur les intrants suivant la vérification
+Redressement total après vérification
+Taxe nette révisée à payer (remboursable)
+30/09/1994
+09/06/1995
+2 673,15
+-3 295,31
+-622,16
+s.d.p.
+-3 122,76
+172,55
+-449,61
+31/12/1994
+10/12/1996
+1 309,69
+-1 485,23
+-175,54
+s.d.p.
+-1 146,85
+338,38
+162,84
+31/03/1995
+02/10/1997
+475,15
+-460,25
+14,90
+5 064,67
+s.d.p.
+4 589,52
+4 604,42
+30/06/1995
+10/03/1997
+2 864,38
+-6 256,31
+-3 391,93
+s.d.p.
+-5 992,92
+263,39
+-3 128,54
+30/09/1995
+10/03/1997
+2 291,82
+-3 979,98
+-1 688,16
+s.d.p.
+-3 685,22
+294,76
+-1 393,40
+31/12/1995
+10/03/1997
+4 698,73
+-2 793,35
+1 905,38
+s.d.p.
+s.d.p.
+0,00
+1 905,38 (s.d.p.)
+31/03/1996
+02/10/1997
+4 653,44
+-5 650,28
+-996,84
+s.d.p.
+-3 931,76
+1 718,52
+721,68
+30/06/1996
+02/10/1997
+2 300,23
+-2 462,89
+-162,66
+s.d.p.
+s.d.p.
+0,00
+-162,66 (s.d.p.)
+30/09/1996
+02/10/1997
+11 679,30
+-10 838,86
+840,44
+s.d.p.
+s.d.p.
+0,00
+840,44 (s.d.p.)
+31/12/1996
+02/10/1997
+3 862,59
+-2 213,12
+1 649,47
+3 890,36
+0,00
+2 240,89
+3 890,36
+31/03/1997
+10/11/1997
+0,00
+0,00
+0,00
+3 394,58
+s.d.p.
+3 394,58
+3 394,58
+30/06/1997
+10/11/1997
+0,00
+0,00
+0,00
+3 433,54
+s.d.p.
+3 433,54
+3 433,54
+30/09/1997
+10/11/1997
+0,00
+0,00
+0,00
+1 624,01
+s.d.p.
+1 624,01
+1 624,01
+31/12/1997
+13/07/1998
+0,00
+0,00
+0,00
+4 666,72
+s.d.p.
+4 666,72
+4 666,72
+31/03/1998
+13/07/1998
+0,00
+0,00
+0,00
+3 609,80
+-10 617,55
+-7 007,75
+-7 007,75
+30/06/1998
+09/11/1998
+1 343,34
+1 795,81
+-452,47
+s.d.p.
+s.d.p.
+0,00
+-452,47 (s.d.p.)
+30/09/1998
+09/11/1998
+2 222,94
+2 733,21
+-510,27
+s.d.p.
+s.d.p.
+0,00
+-510,27 (s.d.p.)
+31/12/1998
+08/09/2005
+1 050,00
+0,00
+1 050,00
+s.d.p.
+s.d.p.
+0,00
+1 050,00 (s.d.p.)
+31/03/1999
+08/09/2005
+787,50
+0,00
+787,50
+s.d.p.
+s.d.p.
+0,00
+787,50 (s.d.p.)
+30/06/1999
+08/09/2005
+787,50
+0,00
+787,50
+s.d.p.
+s.d.p.
+0,00
+787,50 (s.d.p.)
+30/09/1999
+08/09/2005
+787,50
+0,00
+787,50
+s.d.p.
+s.d.p.
+0,00
+787,50 (s.d.p.)
+31/12/1999
+08/09/2005
+787,50
+0,00
+787,50
+s.d.p.
+s.d.p.
+0,00
+787,50 (s.d.p.)
+31/03/2000
+08/09/2005
+0,00
+0,00
+0,00
+s.d.p.
+s.d.p.
+0,00
+0,00 (s.d.p.)
+30/06/2000
+08/09/2005
+6,30
+0,00
+6,30
+s.d.p.
+s.d.p.
+0,00
+6,30 (s.d.p.)
+30/09/2000
+08/09/2005
+1 021,70
+0,00
+1 021,70
+s.d.p.
+s.d.p.
+0,00
+1 021,70 (s.d.p.)
+s.d.p. = selon la déclaration produite
+Annexe B
+Date de fin de la période
+Taxe
+Intérêts
+Pénalités
+Total
+1996-09-30
+261,24 $
+319,79 $
+444,18 $
+1 025,21 $
+1996-12-31
+3 727,70 $
+2 515,21 $
+3 394,97 $
+9 637,88 $
+1997-03-31
+3 394,58 $
+2 057,15 $
+2 749,60 $
+8 201,33 $
+1997-06-30
+3 433,54 $
+2 080,76 $
+2 781,13 $
+8 295,43 $
+1997-09-30
+1 624,01 $
+984,19 $
+1 315,42 $
+3 923,62 $
+1997-12-31
+4 666,72 $
+2 808,10 $
+3 780,00 $
+11 254,82 $
+1998-12-31
+1 050,00 $
+592,27 $
+793,18 $
+2 435,45 $
+1999-03-31
+787,50 $
+423,66 $
+568,30 $
+1 779,46 $
+1999-06-30
+787,50 $
+402,23 $
+540,41 $
+1 730,14 $
+1999-09-30
+787,50 $
+382,58 $
+514,78 $
+1 684,86 $
+1999-12-31
+787,50 $
+363,17 $
+489,47 $
+1 640,14 $
+2000-06-30
+6,30 $
+2,60 $
+3,52 $
+12,42 $
+2000-09-30
+1 021,70 $
+393,72 $
+539,56 $
+1 954,98 $
+22 335,79 $
+13 325,43 $
+17 914,52 $
+53 575,74 $
+RÉFÉRENCE :
+2014 CCI 216
+NO DU DOSSIER DE LA COUR :
+2012-4884(GST)I
+INTITULÉ :
+BENTON ANTIFAIFF c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE:
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 27 mars 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 17 juillet 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

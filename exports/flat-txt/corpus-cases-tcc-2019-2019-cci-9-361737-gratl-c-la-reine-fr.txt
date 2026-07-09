@@ -1,0 +1,268 @@
+Title: Gratl c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361737/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-9-361737-gratl-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-01-14
+
+# Gratl c. La Reine
+
+- Citation: 2019 CCI 9
+- Decision date: 2019-01-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4344, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gratl c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-14
+Référence neutre
+2019 CCI 9
+Numéro de dossier
+2015-2778(IT)G, 2015-2874(IT)G, 2015-2879(IT)G, 2015-2884(IT)G, 2015-2890(IT)G, 2015-3018(IT)G, 2015-3021(IT)G, 2015-3028(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2015-2778(IT)G
+2015-2874(IT)G
+2015-2879(IT)G
+2015-2884(IT)G
+2015-2890(IT)G
+2015-3018(IT)G
+2015-3021(IT)G
+2015-3028(IT)G
+ENTRE :
+BRIGITTE GRATL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 4 décembre 2018, à Ottawa (Ontario).
+Devant : L’honorable juge Johanne D’Auray.
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Shauna Hall-Coates
+ORDONNANCE
+VU la requête présentée par l’intimée visant à obtenir une ordonnance de prorogation de délai pour le dépôt de sa réponse au nouvel avis d’appel modifié de l’appelante conformément à l’alinéa 44(1)b) des Règles de la Cour canadienne de l’impôt (procédure générale);
+ET APRÈS lecture des pièces produites et après avoir entendu les observations des parties;
+La requête de l’intimée est rejetée.
+Les dépens suivront l’issue de l’affaire.
+Signé à Montréal (Québec), ce 14e jour de janvier 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 12e jour de décembre 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2019 CCI 9
+Date : 20190114
+Dossiers : 2015-2778(IT)G
+2015-2874(IT)G
+2015-2879(IT)G
+2015-2884(IT)G
+2015-2890(IT)G
+2015-3018(IT)G
+2015-3021(IT)G
+2015-3028(IT)G
+ENTRE :
+BRIGITTE GRATL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge D’Auray
+I. Aperçu
+[1] Par voie de requête déposée le 10 octobre 2018, l’intimée sollicite, en vertu de l’article 12 et de l’alinéa 44(1)b) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), une ordonnance de prorogation de délai pour le dépôt de sa réponse au nouvel avis d’appel modifié de l’appelante (la « réponse »).
+[2] Le délai que l’intimée cherche à proroger a été fixé par le juge Visser dans une ordonnance [1] rendue le 12 juin 2017. Aux termes de l’ordonnance, l’intimée devait signifier et déposer une réponse dans les 60 jours suivant la signification du nouvel avis d’appel modifié de l’appelante. L’appelante a déposé son nouvel avis d’appel modifié le 25 juin 2017. Par conséquent, la réponse de l’intimée devait être signifiée et déposée au plus tard le 24 août 2017.
+[3] Le 5 juillet 2018, l’intimée a signifié sa réponse à l’appelante.
+II. Les faits
+[4] Les 9 et 11 juin 2015, l’appelante a déposé des avis d’appel et des avis d’appel modifiés.
+[5] Le 8 septembre 2015, l’intimée a sollicité une ordonnance de rejet des appels ou, à titre subsidiaire, de radiation des avis d’appel modifiés en tout ou en partie ou, également à titre subsidiaire, de prorogation de délai pour déposer une réponse.
+[6] Le 3 novembre 2015, l’appelante a déposé une requête en ordonnance rejetant la requête de l’intimée visant à faire annuler les appels de l’appelante.
+[7] Les requêtes des parties ont été reportées à une date indéterminée pour permettre la tenue de séances de médiation en vue d’un règlement. Les parties ne sont toutefois pas parvenues à s’entendre.
+[8] Le 31 mai 2017, le juge Visser de notre Cour a entendu les requêtes.
+[9] Le 12 juin 2017, le juge Visser a ordonné la réunion des avis d’appel déposés par l’appelante et a fixé un délai pour la signification et le dépôt d’un nouvel avis d’appel modifié et d’une réponse. Le passage pertinent de l’ordonnance est le suivant :
+[...]
+c) les appels de l’appelante dans les dossiers d’appel 2015-2778(IT)G, 2015-2874(IT)G, 2015-2879(IT)G, 2015-2884(IT)G, 2015-2890(IT)G, 2015-3018(IT)G, 2015-3021(IT)G et 2015-3028(IT)G sont réunis, et les avis d’appel déposés par l’appelante à leur égard sont radiés dans leur intégralité, y compris les pièces jointes, mais avec autorisation de les modifier par le dépôt d’un nouvel avis d’appel modifié relatif aux appels réunis, où la seule question traitée sera le calcul du montant des intérêts établis par le ministre à l’égard des années d’imposition visées dans ces appels;
+d) l’appelante doit signifier et déposer le nouvel avis d’appel modifié réunissant les appels au plus tard le 17 juillet 2017;
+e) si l’appelante signifie et dépose un nouvel avis d’appel modifié réunissant les appels le 17 juillet 2017 au plus tard, l’intimée doit signifier et déposer sa réponse au nouvel avis d’appel modifié réunissant les appels dans les 60 jours suivant la signification de ce dernier par l’appelante;
+[...]
+[10] Le juge Visser a également rejeté la demande de prorogation de délai déposée par l’appelante pour le dépôt d’avis d’appel concernant ses années d’imposition 2003 et 2004.
+[11] L’appelante a fait appel du rejet de sa demande devant la Cour d’appel fédérale.
+[12] Le 25 juin 2017, l’appelante a déposé et signifié son nouvel avis d’appel modifié.
+[13] Par conséquent, en application de l’ordonnance du juge Visser, l’intimée avait jusqu’au 24 août 2017 pour signifier et déposer sa réponse.
+[14] En réponse à une question de l’avocate de l’intimée sur l’état des appels, un agent du greffe l’a informée, dans une lettre du 16 février 2018, que l’intimée devait obtenir une prorogation de délai pour le dépôt de sa réponse.
+[15] Le 26 avril 2018, l’appelante a déposé une requête et, le 1er juin 2018, l’appelante a déposé une requête modifiée demandant à la Cour de suspendre ses appels concernant les années d’imposition 2001, 2002, 2007, 2008, 2009, 2010 et 2013 en attendant que la Cour d’appel fédérale se prononce sur son appel du rejet par le juge Visser de sa demande de prorogation de délai pour le dépôt d’un avis d’appel concernant les années d’imposition 2003 et 2004.
+[16] Le 5 juillet 2018, l’intimée a signifié à l’appelante sa réponse au nouvel avis d’appel modifié.
+[17] Le 19 septembre 2018, j’ai entendu la requête de l’appelante demandant la suspension de ses appels en attendant la décision de la Cour d’appel fédérale sur sa demande de prorogation de délai pour les années d’imposition 2003 et 2004. Après avoir entendu les deux parties, j’ai rejeté la requête.
+[18] Le 19 septembre 2018, j’ai également entendu la requête en prorogation de délai de l’intimée pour le dépôt de sa réponse. L’appelante s’est opposée à cette requête.
+[19] Après avoir entendu les parties, j’ai demandé des observations écrites sur la question de savoir si la Cour a compétence pour proroger un délai fixé par une ordonnance plutôt que par les Règles.
+III. Les dispositions applicables
+[20] Les dispositions applicables des Règles sont les paragraphes 2(1) et 12(1) ainsi que l’article 44 :
+[Définition de jugement à l’article 2] Est assimilée à un jugement l’ordonnance.
+[…]
+12 (1) La Cour peut, par directive, prolonger ou abréger le délai imparti par les présentes règles ou par une directive, à des conditions appropriées.
+(2) La requête qui vise à obtenir la prolongation d’un délai peut être présentée avant ou après l’expiration du délai.
+(3) Le délai imparti par les présentes règles pour la signification, le dépôt ou la remise d’un document peut être prolongé ou abrégé par consentement donné par écrit.
+[…]
+44 (1) La réponse à l’avis d’appel doit être déposée au greffe dans les 60 jours suivant la signification de l’avis d’appel, à moins que :
+a) l’appelant ne consente, avant ou après l’expiration de ce délai, au dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci;
+b) la Cour ne permette, sur demande présentée avant ou après l’expiration de ce délai, le dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci.
+(2) Si la réponse n’est pas déposée dans le délai applicable prévu au paragraphe (1), les allégations de fait énoncées dans l’avis d’appel sont réputées vraies aux fins de l’appel.
+(3) La réponse doit être signifiée :
+a) soit dans les cinq jours suivant l’expiration du délai de 60 jours prescrit au paragraphe (1);
+b) soit dans le délai imparti aux termes d’un consentement accordé par l’appelant en vertu du paragraphe (1);
+c) soit dans le délai imparti aux termes d’une prolongation de délai accordée par la Cour en vertu du paragraphe (1).
+(4) Le paragraphe 12(3) ne s’applique pas au présent article et la présomption établie au paragraphe (2) est une présomption réfutable.
+[Non souligné dans l’original.]
+IV. Les thèses des parties
+[21] L’intimée fait valoir que notre Cour a compétence pour proroger un délai fixé par ordonnance, car, si on interprète les paragraphes 12(1) et 12(2) des Règles selon le sens ordinaire des mots, le mot « directive » figurant dans la version française du paragraphe 12(1) et son équivalent « direction » figurant aux paragraphes 12(1) et 12(2) de la version anglaise doivent désigner une ordonnance.
+[22] L’intimée soutient également qu’elle satisfait au critère pour la prorogation de délai que la Cour d’appel fédérale a établi dans son arrêt Hennelly c. Canada [2] .
+[23] L’intimée soutient en outre que l’alinéa 44(1)b) des Règles permet à la Cour de proroger le délai pour le dépôt d’une réponse après l’expiration du délai de 60 jours prescrit par les Règles.
+[24] L’appelante soutient que l’intimée, qui a déjà bénéficié d’une prorogation de délai pour le dépôt de sa réponse par l’ordonnance du juge Visser, ne peut maintenant demander une deuxième prorogation au titre du paragraphe 12(1) des Règles.
+[25] L’appelante soutient également que, de toute façon, l’intimée ne satisfait pas au critère établi dans l’arrêt Hennelly c. Canada (Procureur général) [3] applicable à la prorogation de délai.
+V. Analyse
+[26] À mon avis, notre Cour a compétence pour proroger un délai fixé par ordonnance. Bien que les mots « directive » et « direction » utilisés respectivement dans la version française et anglaise de l’article 12 ne soient pas définis dans les Règles, le libellé, la structure et la logique de l’article 12 étayent la conclusion que ces mots désignent l’octroi d’une prorogation par ordonnance.
+[27] Le mot « directive » et son équivalent anglais « direction » sont utilisés respectivement dans la version française du paragraphe 12(1) et dans la version anglaise des paragraphes 12(1) et 12(2). Aux termes du paragraphe 12(1), la Cour peut, « par directive, prolonger ou abréger le délai imparti par les présentes règles ou par une directive ». Pour que la Cour prononce cette directive, une partie doit, conformément au paragraphe 12(2), présenter une requête en ce sens : « La requête qui vise à obtenir la prolongation d’un délai peut être présentée avant ou après l’expiration du délai. »
+[28] Dans ce contexte, le mot « directive » comprend une « ordonnance » par laquelle la Cour accorde une prorogation de délai. L’ordonnance accordant la prorogation de délai est en soi le résultat de la requête sollicitant une prorogation accordée par directive. L’ordonnance est le véhicule par lequel la directive est donnée. Le fait d’interpréter le mot « directive » autrement enlèverait tout son sens à cette disposition, puisque la Cour, en ce qui concerne la requête en prorogation de délai, ne donne pas une directive, mais rend une ordonnance [4] . Cette interprétation est étayée par les décisions Ward c. La Reine [5] et Burke v. HMQ [6] .
+[29] Selon l’intimée, la Cour pourrait proroger le délai pour le dépôt de sa réponse en se fondant sur l’alinéa 44(1)b) des Règles. Je ne suis pas d’accord. À mon avis, la disposition qui s’applique est l’article 12 des Règles. Cette dernière s’applique lorsqu’une partie n’a pas respecté le délai fixé par la Cour (comme c’est le cas en l’espèce) ou le délai fixé par les Règles. En revanche, l’alinéa 44(1)b) ne s’applique que lorsqu’une partie n’a pas respecté le délai prévu par les Règles pour le dépôt d’une réponse, à savoir le délai de 60 jours prévu à l’alinéa 44(1)a) [7] .
+[30] L’appelante soutient que l’intimée ne peut pas invoquer le paragraphe 12(1) des Règles pour obtenir une deuxième prorogation de délai. Rien dans les Règles ne l’interdit explicitement. Cependant, l’appelante se réfère à la décision Ward [8] et, en particulier, aux commentaires suivants du juge Angers au paragraphe 21 des motifs :
+Il faut se rappeler que la présente requête porte sur la prolongation d’un délai prévu par une ordonnance, mais une ordonnance rendue conformément au délai prescrit par les deux lois en question. Je répète les propos du juge Muldoon dans l’affaire Bertold c. Canada, [1997] A.C.F. no 241 voulant qu’une autre ordonnance non prévue par le code procédural de la loi semble interdite.
+[31] Je ne peux souscrire à l’observation de l’appelante. Les faits dans l’affaire Ward diffèrent de ceux en l’espèce. Dans la décision Ward, les parties étaient parvenues à un règlement. Au titre du règlement, une ordonnance avait été rendue autorisant M. Ward à déposer ses avis d’appel contre les nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise.
+[32] M. Ward n’a pas respecté le délai imparti par l’ordonnance pour déposer ses avis d’appel. Il a déposé une autre requête en prorogation de délai pour le dépôt de ses avis d’appel. Toutefois, lorsque M. Ward a déposé sa requête, la Cour n’avait plus compétence pour accorder une prorogation de délai. En vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise, la Cour ne peut accorder de prorogation de délai pour le dépôt d’avis d’appel lorsque plus d’un an et 90 jours se sont écoulés depuis la date de l’avis de cotisation. Par conséquent, contrairement à ce que l’appelante soutient, le juge Angers n’a pas conclu dans la décision Ward qu’une ordonnance faisant droit à une demande de prorogation de délai ne peut jamais faire l’objet d’une seconde requête en prorogation de délai, mais que l’article 12 des Règles ne peut pas l’emporter sur un délai prescrit par une loi.
+[33] Dans l’arrêt Grewal c. Ministre de l’Emploi et de l’Immigration [9] rendu en 1985, la Cour d’appel fédérale a établi un critère à quatre volets pour déterminer si une prorogation de délai devait être accordée. Ce critère a été réitéré en 1999 par la Cour d’appel fédérale dans l’arrêt Hennelly [10] . Le critère est le suivant :
+Le demandeur doit démontrer :
+1. une intention constante de poursuivre sa demande;
+2. que la demande est bien fondée;
+3. que le défendeur [ou l’appelant] ne subit pas de préjudice en raison du retard; et
+4. qu’il existe une explication raisonnable justifiant le retard.
+[34] Récemment, soit le 1er novembre 2018, le juge Webb de la Cour d’appel fédérale a confirmé, dans l’arrêt Akanda Innovation Inc. v. HMQ [11] , que le critère à quatre volets établi dans l’arrêt Grewal demeure applicable. Le juge Webb a également souligné que la principale considération est celle de savoir s’il serait dans l’intérêt de la justice d’accorder une prorogation de délai.
+[35] Le juge Webb a également déclaré dans l’arrêt Akanda Innovation Inc. v. HMQ [12] qu’un demandeur n’a pas à satisfaire à tous les facteurs énumérés dans l’arrêt Grewal pour obtenir une prorogation de délai. La décision doit être prise en fonction des faits propres à l’espèce.
+[36] Je vais examiner si l’intimée devrait obtenir la prorogation de délai demandée en examinant chacun des facteurs énumérés ci-dessus.
+1. Une intention constante de poursuivre sa demande
+[37] L’intimée affirme qu’elle avait l’intention constante de poursuivre sa demande. À mon avis, les faits montrent le contraire. Selon l’ordonnance du juge Visser datée du 12 juin 2017, l’intimée devait signifier et déposer sa réponse dans les 60 jours suivant la signification du nouvel avis d’appel modifié pour les appels réunis. Par conséquent, l’intimée devait déposer et signifier sa réponse au plus tard le 24 août 2017.
+[38] Bien qu’un agent du greffe de la Cour ait avisé l’intimée le 16 février 2018 qu’elle devait obtenir une prorogation de délai pour le dépôt de la réponse, elle a signifié sa réponse le 5 juillet 2018 sans avoir obtenu l’autorisation de la Cour.
+[39] L’intimée n’a déposé sa requête en prorogation de délai pour le dépôt de sa réponse que le 10 octobre 2018, soit près de 14 mois après l’expiration du délai fixé par le juge Visser dans son ordonnance, et près de huit mois après avoir été avisée par le greffe qu’elle devait présenter une requête en prorogation de délai.
+[40] À mon avis, les faits qui précèdent ne démontrent pas que l’intimée avait l’intention constante de poursuivre l’instance, à savoir déposer une requête en prorogation de délai pour le dépôt d’une réponse.
+2. La demande est bien fondée
+[41] Je suis d’avis que la thèse de l’intimée à l’égard des nouvelles cotisations est fondée.
+3. L’autre partie ne subit pas de préjudice en raison du retard
+[42] L’intimée soutient que l’appelante n’a pas subi de préjudice en raison du retard dans le dépôt de la réponse. L’intimée soutient que le nouvel avis d’appel modifié ne précise pas de quelle façon le ministre aurait commis une erreur dans le calcul des intérêts dus ni quels seraient les calculs exacts. Le dépôt de la réponse aiderait la Cour à trancher la question. Par conséquent, les intérêts de la justice seraient mieux servis par le dépôt de la réponse.
+[43] L’intimée soutient également que, si elle était autorisée à déposer sa réponse, il incomberait à l’appelante de prouver que le calcul des intérêts faits par le ministre est inexact. À l’inverse, si l’intimée n’était pas autorisée à déposer sa réponse, il lui incomberait d’établir que le calcul des intérêts faits par le ministre est exact. Cela dit, l’intimée soutient que, dans les affaires portant sur le calcul des intérêts, même si le fardeau incombe à l’appelant, en pratique, l’intimée devra établir comment le ministre a calculé le montant des intérêts. Par conséquent, le dépôt tardif de la réponse ne porte pas atteinte à la capacité de l’appelante de défendre la thèse qu’elle a énoncée dans son nouvel avis d’appel modifié.
+[44] L’intimée soutient également que l’appelante ne peut affirmer subir un préjudice en raison du retard, puisqu’elle demande la suspension de ses appels en attendant la décision de la Cour d’appel fédérale concernant ses années d’imposition 2003 et 2004.
+[45] De son côté, l’appelante soutient qu’elle subit un préjudice en raison du retard. Sa thèse n’est pas la plus facile à comprendre, alors j’ai décidé de reproduire ses observations écrites sur ce point pour m’assurer de bien les rapporter :
+[traduction]
+Manifestement, l’appelante subit un préjudice en raison du retard. L’appelante a elle-même demandé une prorogation de délai pour la mise au point des appels, au motif de la nécessité d’attendre une décision dans son appel devant la Cour d’appel fédérale, mais sa requête a été rejetée. Si l’intimée avait déposé sa réponse environ 15 mois plus tôt, la question aurait été tranchée beaucoup plus tôt, ce qui aurait permis d’éviter l’engagement émotionnel lié à l’affaire.
+[46] Si la réponse avait été déposée dans le délai imparti, l’instance relative aux appels aurait possiblement progressé plus rapidement. Cela dit, le dépôt de la réponse n’aurait peut-être pas empêché l’appelante de déposer, comme elle l’a fait en juin 2018, une requête en suspension des appels devant la Cour. Au lieu de déposer une requête pour faire avancer les appels, comme une requête visée à l’article 63 des Règles, l’appelante a choisi de déposer une requête pour obtenir la suspension des appels. Cela n’excuse pas le comportement de l’intimée, mais cela n’a pas aidé à faire avancer les appels.
+[47] À mon avis, l’avantage pour l’appelante, si le ministre ne dépose pas de réponse, est que les allégations de fait dans l’avis d’appel sont présumées vraies. De plus, l’intimée devra démontrer l’exactitude du montant des intérêts calculés par le ministre pour chaque année visée par un appel. L’appelante n’a subi aucun autre préjudice.
+4. Il existe une explication raisonnable justifiant le retard
+[48] La raison invoquée pour expliquer le retard est que l’avocat chargé de l’affaire pour le compte de l’intimée, qui n’était pas l’avocat ayant comparu à l’audience sur la présente requête, attendait que la Cour réunisse les appels sous le même numéro de dossier de la Cour. Bien que l’avocat n’ait déposé aucun affidavit en ce sens, l’intimée soutient que c’est ainsi que l’avocat avait interprété l’ordonnance du juge Visser.
+[49] Cette explication ne tient pas la route à mon avis. Dans son ordonnance, le juge Visser a donné à l’appelante la directive de déposer un « nouvel avis d’appel modifié réunissant les appels ». Selon l’ordonnance, une fois le nouvel avis d’appel modifié regroupant les appels sous un seul numéro de dossier signifié à l’intimée, cette dernière avait 60 jours pour déposer une réponse. L’ordonnance était claire et simple. On se serait attendu à ce que la réponse soit déposée dans le délai prévu.
+[50] À supposer que l’ordonnance ait pu prêter à confusion, ce à quoi je ne souscris pas, cette confusion aurait pris fin en février 2018 lorsque le greffe a informé l’intimée qu’elle devait obtenir une ordonnance de prorogation de délai pour le dépôt. Malgré cela, l’intimée n’a présenté sa requête qu’en octobre 2018, près de huit mois plus tard. L’intimée n’a donné aucune explication pour justifier ce délai de huit mois.
+[51] Comme la Cour fédérale l’a fait observer dans la décision Lesly c. Canada (Citoyenneté et Immigration) [13] , la Cour s’attend à ce que l’avocat demande une prorogation de délai dès qu’il constate l’expiration d’un délai. S’il fait preuve de laxisme et ne présente pas la demande avec autant de diligence que ce à quoi on pourrait logiquement s’attendre, ce facteur militera fortement contre l’octroi de la prorogation.
+[52] Compte tenu des facteurs énoncés dans l’arrêt Hennelly [14] et des intérêts de la justice, je suis d’avis qu’à la lumière des faits en l’espèce, les intérêts de la justice seront mieux servis si le dépôt d’une réponse par l’intimée n’est pas autorisé. L’intimée a fait preuve d’indifférence à l’égard du délai fixé par le juge Visser et n’a pas agi avec diligence pour remédier à son omission d’agir dans le délai imparti.
+[53] Aucune raison valable n’a été donnée pour justifier le retard dans l’exécution de l’ordonnance du juge Visser. De plus, l’intimée n’a donné aucune raison expliquant pourquoi elle a tardé à présenter une requête pour obtenir une directive prorogeant le délai pour le dépôt de sa réponse, soit près de quatorze mois après l’expiration du délai fixé par le juge Visser dans son ordonnance. À mon avis, c’est tout simplement inacceptable.
+[54] Par conséquent, la requête de l’intimée en prorogation de délai pour le dépôt de sa réponse est rejetée.
+[55] Les dépens suivront l’issue de l’affaire.
+Signé à Montréal (Québec), ce 14e jour de janvier 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 12e jour de décembre 2019.
+Elisabeth Ross, jurilinguiste
+Dossiers : 2015-2890(IT)G; 2015-3018(IT)G
+2015-2778(IT)G; 2015-3021(IT)G
+2015-2874(IT)G; 2015-3022(IT)G
+2015-2879(IT)G; 2015-3026(IT)G
+2015-2884(IT)G; 2015-3028(IT)G
+2015-2880(IT)APP; 2015-2881(IT)APP
+ENTRE :
+BRIGITTE GRATL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue et décision rendue oralement à l’audience le 31 mai 2017, à Hamilton (Ontario).
+Devant : L’honorable juge Henry A. Visser.
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me David Besler
+ORDONNANCE
+ATTENDU QUE l’appelante a présenté des demandes d’ordonnance prorogeant le délai pour le dépôt de l’avis d’appel à l’égard des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour ses années d’imposition 2003 et 2004;
+ATTENDU QUE, le 8 septembre 2015, l’intimée a déposé un avis de requête en ordonnance radiant tout ou partie de l’avis d’appel dans chacune des présentes affaires ou, à titre subsidiaire, en ordonnance radiant toute pièce jointe aux avis d’appel ou, également à titre subsidiaire, en ordonnance réunissant les appels ainsi qu’un avis de requête en ordonnance prorogeant le délai pour le dépôt sa réponse à l’égard de chacun des avis d’appel;
+ATTENDU QUE, le 3 novembre 2015, l’appelante a déposé des avis de requête sollicitant le rejet des requêtes de l’intimée ou, à titre subsidiaire, sollicitant l’ajournement de l’audience sur les requêtes de l’intimée;
+ET APRÈS avoir entendu les parties;
+LA COUR ORDONNE ce qui suit :
+a) les demandes d’ordonnance prorogeant le délai pour le dépôt et le traitement d’un avis d’appel dans les dossiers 2015-2881(IT)APP et 2015-2880(IT)APP à l’égard des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 de la demanderesse sont rejetées, sans dépens;
+b) les avis d’appel déposés par l’appelante dans les dossiers d’appel 2015-3022(IT)G et 2015-3026(IT)G pour ses années d’imposition 2011 et 2012 sont radiés dans leur intégralité sans autorisation de les modifier;
+c) les appels de l’appelante dans les dossiers d’appel 2015-2778(IT)G, 2015-2874(IT)G, 2015-2879(IT)G, 2015-2884(IT)G, 2015-2890(IT)G, 2015-3018(IT)G, 2015-3021(IT)G et 2015-3028(IT)G sont réunis, et les avis d’appel déposés par l’appelante à leur égard sont radiés dans leur intégralité, y compris les pièces jointes, mais avec autorisation de les modifier par le dépôt d’un nouvel avis d’appel modifié relatif aux appels réunis, où la seule question traitée sera le calcul du montant des intérêts établis par le ministre à l’égard des années d’imposition visées dans ces appels;
+d) l’appelante doit signifier et déposer le nouvel avis d’appel modifié réunissant les appels au plus tard le 17 juillet 2017;
+e) si l’appelante signifie et dépose un nouvel avis d’appel modifié réunissant les appels le 17 juillet 2017 au plus tard, l’intimée doit signifier et déposer sa réponse au nouvel avis d’appel modifié réunissant les appels dans les 60 jours suivant la signification de ce dernier par l’appelante;
+f) les requêtes de l’appelante sont rejetées, sans dépens;
+g) les dépens afférents aux requêtes de l’intimée sont adjugés quelle que soit l’issue de la cause.
+Signé à Ottawa, Canada, ce 12e jour de juin 2017.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 12e jour de décembre 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 9
+Nos DES DOSSIERS DE LA COUR :
+2015-2778(IT)G, 2015-2874(IT)G
+2015-2879(IT)G, 2015-2884(IT)G
+2015-2890(IT)G, 2015-3018(IT)G
+2015-3021(IT)G, 2015-3028(IT)G
+INTITULÉ :
+Brigitte Gratl c. La Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 4 décembre 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 14 janvier 2019
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Shauna Hall-Coates
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L’ordonnance du juge Visser est jointe aux présents motifs de l’ordonnance.
+[2] Hennelly c. Canada (Procureur général), 1999 CanLII 8190, [1999] A.C.F. no 846 (C.A.F.) (C.F. 1re inst.).
+[3] Précité à la note 2.
+[4] Voir l’article 8 des Règles des Cours fédérales, selon lequel « [l]a Cour peut, sur requête, proroger ou abréger tout délai prévu par les présentes règles ou fixé par ordonnance ». Pour l’application de ces Règles, une directive n’équivaut pas à une ordonnance. Sous le régime des Règles des Cours fédérales, les directives sont des instructions données sur la procédure à suivre. Une directive ne peut faire l’objet d’un appel. Ce n’est pas le cas dans les Règles de la Cour canadienne de l’impôt (procédure générale), où le mot « directive » n’est pas défini et désigne indistinctement une ordonnance ou une directive.
+[5] Ward c. La Reine, 2008 CCI 510.
+[6] Burke v. HMQ, 2010 TCC 398.
+[7] Même si je me trompais en ce qui concerne l’application de l’article 44 des Règles, l’issue de la requête examinée en l’espèce serait la même puisque, pour accorder une prorogation de délai, il faut appliquer le même critère pour l’article 12 et pour l’article 44 des Règles.
+[8] Précitée à la note 5.
+[9] Grewal c. Ministre de l’Emploi et de l’Immigration, [1985] 2 C.F. 263.
+[10] Précité à la note 1, au paragraphe 4.
+[11] Akanda Innovation Inc. v. HMQ, 2018 FCA 200, au paragraphe 19.
+[12] Précité à la note 11, au paragraphe 19.
+[13] Lesly c. Canada (Citoyenneté et Immigration), 2018 CF 272; voir aussi : Canada c. Tran, 2008 CF 297, au paragraphe 24.
+[14] Précité à la note 2.

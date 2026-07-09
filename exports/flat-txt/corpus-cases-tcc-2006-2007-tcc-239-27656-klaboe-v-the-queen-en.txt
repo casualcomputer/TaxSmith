@@ -1,0 +1,155 @@
+Title: Klaboe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27656/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-239-27656-klaboe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-03
+
+# Klaboe v. The Queen
+
+- Citation: 2007 TCC 239
+- Decision date: 2006-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 412, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klaboe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-03
+Neutral citation
+2007 TCC 239
+File numbers
+2005-1906(IT)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC239
+Date: 20070501
+Docket: 2005-1906(IT)G
+BETWEEN:
+STEINAR KLABOE,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sarchuk D.J.
+[1] The motion by the Applicant, Steinar Klaboe, is for an order requiring production by the Respondent of the following documents in its possession: all notes, files, memoranda, minutes of conferences, and drafts of the Treaty prepared in connection with the negotiation of the 1980 Canada-Barbados Tax Convention (the “Treaty”). [1]
+[2] The background to this motion was briefly summarized by counsel for the Applicant as follows. In 1999, Klaboe owned shares of Sonora Sea Farm Ltd. He rolled over the Sonora shares under section 85 of the Income Tax Act (the “Act”) to another company, 594951 BC Ltd., took back common, non-voting shares of 594951, and then transferred those shares to a new Barbados Trust.[2] The Trust then sold the 594951 shares at a gain and claimed that it was not taxable in Canada on its gain pursuant to Article 14(4) of the Treaty.
+[3] In 2003, the Minister of National Revenue reassessed the Applicant and the Trust for their 1999 taxation years on the basis, inter alia:
+The Avoidance Transactions may reasonably be considered to have resulted directly or indirectly in a misuse of paragraphs 39(1)(a) and 94(1)(c), subsection 73(1), and Article 14 of the Treaty, or an abuse having regard to the provisions of the Act (GAAR) and the Treaty read as a whole, all within the meaning of subsection 245(4).
+[4] As part of the pre-trial procedures in this appeal, counsel for the Applicant discovered Mr. Derek Carroll appearing on behalf of the Respondent. In the course of discovery, the policy underlying the Treaty was raised and the Applicant requested an undertaking from the Respondent to provide the “travaux préparatoires” related to the negotiation of the Treaty. Counsel submitted that the Applicant’s purpose was to obtain the necessary evidence relating to the policy behind the Treaty, the background circumstances leading to its enactment and to assist in determining the interpretation of the Treaty.
+[5] The Respondent refused to give the undertaking on the grounds of (a) public interest privilege pursuant to subsections 38.01(1) and (6) of the Canada Evidence Act; and (b) to the extent that materials relate to portions of the Treaty not relevant to the issues under appeal, these are not subject to disclosure. I propose to deal with the public interest privilege issue first.
+Applicant’s submission
+[6] Sections 38.01 and 38.09 of the Canada Evidence Act set out a procedure for disclosure of “sensitive information” or “potentially injurious information”. The “triggering event” is a notice in writing to the Attorney General under section 38.01 which would preclude disclosure of the sensitive information.[3] The Attorney General, or an affected person, may then bring a motion regarding disclosure of the sensitive information which, by virtue of section 38.04, such motion must be in the Federal Court.
+[7] Counsel submitted that pursuant to paragraph 38.01(6)(c), the foregoing procedure does not apply if the Government has previously authorized disclosure of the sensitive information. The Applicant relies on this exception for the following reasons.
+[8] On May 23, 1969, numerous countries signed the Vienna Convention on the Law of Treaties (the Convention). Canada acceded to the Convention on October 14, 1970 and Barbados on June 24, 1971. The Convention itself came into force on January 27, 1980, i.e. a year before the Treaty entered into force. Specific reference was made by counsel to Article 32 of the Convention which provides that a “preparatory work” may be taken into account in determining the interpretation of a Treaty and submitted that it applied to Canadian Income Tax Treaties.[4] Furthermore, by virtue of Article 27, Canada may not use its internal domestic law to override Article 32, since neither Canada nor Barbados entered a reservation or observation on either Article. As well, Articles 27 and 32 of the Convention were in force when sections 38 and 38.01 of the Canada Evidence Act “came into play” and
+If the government meant that this would overrule Article 32, you’d think they would have put it in something equivalent to the Income Tax Convention’s Interpretation Act, which domestically overrules certain portions of Canada’s Tax Treaties. In essence, the Applicant’s submission was summarized as “Canada can’t rely on its internal domestic law to overrule Article 32.
+[9] Accordingly, the Applicant maintains that the provisions relating to public interest and privilege do not apply to the documents in issue since their disclosure was authorized by virtue of Articles 31, 32 and 27 of the Convention to which Canada was a signatory.
+Respondent’s submission
+[10] With respect to the Applicant’s reliance on the provisions of paragraph 38.01(6)(c) of the Canada Evidence Act, counsel for the Respondent submitted that the Applicant has failed to establish that disclosure of the information had been authorized by the Government institution in or for which the information was produced.
+[11] Furthermore, should this Court consider that any of the documents requested are producible, the Respondent is required to raise the matter of sections 38 and 38.01 to 38.16 of this Act. Accordingly, this Court should not make an order requiring disclosure until the Attorney General consents, or the question of whether the disclosure of the sensitive information would be injurious to international relations is decided by the Federal Court.
+Does paragraph 38.01(6)(c) apply?
+[12] Section 38 of the Canada Evidence Act sets out a procedural and substantive code for the protection of information that could injure international relations, national defence, or national security. Section 38 specifically defines the nature of the information as follows:
+“potentially injurious information” means information of the type that, if it were disclosed to the public, could injure international relations or national defence or national security.
+“sensitive information” means information relating to international relations, international defence, or national security that is in the possession of the Government of Canada, but originating from inside or outside Canada, and is of a type that the Government of Canada is taking measures to safeguard.
+[13] Section 38.01 imposes a duty on everyone in a proceeding who expects “sensitive” or “potentially injurious information” to emerge to inform the Attorney General of Canada when this disclosure will take place. The section itself reads:
+38.01(1) Every participant who, in connection with a proceeding, is required to disclose, or expects to disclose or cause the disclosure of, information that the participant believes is sensitive information or potentially injurious information shall, as soon as possible, notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the proceeding.
+38.01(6) This section does not apply when
+(a) …
+(c) disclosure of the information is authorized by the government institution in which or for which the information was produced or, if the information was not produced in or for a government institution, the government institution in which it was first received …
+[14] I am unable to accept the Applicant’s submission that because Canada was a signatory to the Convention, disclosure of the information in issue was authorized by the Government institution for which the information was produced.
+[15] Although “travaux préparatoires” was intended to be an undefined term in the Convention, the fact remains that their use as a supplementary means of interpretation of a Treaty is restricted by Article 32 to the confirmation of:
+The meaning resulting from the application of Article 31, or to determine the meaning when the interpretation according to Article 31: (a) leaves the meaning ambiguous or obscure; or (b) leads to a result which is manifestly absurd or unreasonable.
+[16] Article 31 states:
+2. The context for the purpose of the interpretation of a Treaty shall comprise, in addition to the text, including its preamble and annexes:
+(a) any agreement relating to the Treaty which was made between all the parties in connection with the conclusion of the Treaty;
+(b) any instrument which was made by the one or more parties in connection with the conclusion of the Treaty and accepted by the other parties as an instrument related to the Treaty.
+(Emphasis added)
+[17] The Shorter Oxford English Dictionary defines the word conclusion as follows:
+1. the end, close, finish, windup; 2. an issue, outcome; 3. a judgment arrived at by reasoning; 4. final determination; final agreement. 5. law. a binding act;
+[18] Given the broad range of documents listed by the Applicant in the request for production, i.e.
+“all notes, files and memoranda, etc., prepared in connection with the negotiation of the Treaty”,
+it is quite possible, if not probable, that a document or documents in the Respondent’s possession may come within the meaning of the phrases “potentially injurious information” or “sensitive information”. Furthermore, although the Applicant’s request is based on the proposition that all of the documents sought constitute “travaux préparatoires”, the actual request is so open-ended as to include, by way of example, documents such as those specifically prepared for internal discussions with respect to the ongoing progress of negotiations, the development of strategy, as well as internal reports and comments on the other parties’ proposals, etcetera. It would also require the production of documents not related to the “conclusion of the Treaty”. Such documents, without question are not “travaux préparatoires”, and some of which might readily be said to contain “sensitive information”.
+[19] I have concluded that (a) disclosure of all of the documents sought was not authorized by the Articles referred to by the Applicant; and (b) accordingly, paragraph 38.01(6)(c) of the Canada Evidence Act does not apply in the present case.
+[20] I note in passing that although section 38 of the Canada Evidence Act is relatively new, the protection of confidential information has a long and established history. More specifically, subsections 41(1) and (2) of the Federal Court Act, were in force from 1970 to 1982, at which time the Canada Evidence Act came into force, and sections 36.1, 36.2 and 36.3 (later renumbered as sections 37, 38 and 39) were enacted. In essence, such legislation has been in existence throughout the same period as the Convention, which, I might add, did not come into force until December 1980.
+Production of Documents - Relevance:
+[21] Counsel for the Applicant referred to MIL (Investments) S.A. v. The Queen,[5] the issue in which concerned the Canada Luxembourg Treaty and noted that in his reasons, Bell J. stated:
+80 The Vienna Convention to which Canada was an original signatory has been found to be the correct starting approach for interpreting a Treaty to which Canada is a party. Specifically mentioned are Articles 26, 31 and 32.”
+[22] Furthermore, the Draft Articles on the Law of Treaties with Commentaries, 1996, which were adopted by the International Law Commission specifically noted that there was no definition of “travaux préparatoires” in the Convention, and concluded that “nothing would be gained by trying to define “travaux préparatoires”; indeed, to do so might only lead to the possible exclusion of relevant evidence”.
+[23] Thus, in the absence of any definition in the Convention, consideration should be given to the decision in Ward v. Commissioner of Police (1989),[6] where the issue has previously arisen. In that case, the Court ruled that in the course of interpreting a labour Treaty, Article 32 of the Convention:
+Permits recourse to “supplementary means of interpretation” including “the preparatory work of the Treaty and the circumstances of its conclusion” to confirm the meaning derived from a consideration of the terms of the Treaty in light of its objects and purpose.
+and:
+It may now be regarded as a settled principle of interpretation of treaties, tribunals, international and national, will have recourse, in order to elucidate the intention of the parties, to the records of the negotiations preceding the conclusion of the Treaty, the minutes of the conference which adopted the Treaty, its successive drafts and so on.
+[24] The Applicant’s position is that “preparatory works” were deliberately not defined in Article 32 to ensure that all relevant evidence was admitted. Furthermore, at discovery, the test of relevance is “quite low” and must be “broadly and liberally construed” since these documents may afford evidence of the Treaty’s policy, purpose and the background against which it was entered into. Also, if certain items of the “travaux préparatoires” are completely irrelevant, the trial judge may exclude them. The production of all “notes, files, memoranda, etc.”, is warranted and what constitutes admissible “preparatory work” is to be left to the trial Judge.
+[25] Counsel for the Respondent made reference to Canada v. Canada Trustco Mortgage Company,[7] in which the Supreme Court of Canada considered the GAAR provisions and their application. The specific issue was the legislator’s purpose with respect to subsection 245(4)[8] in respect of which the Court stated:
+55 In summary, s. 245(4) imposes a two-part inquiry. The first step is to determine the object, spirit or purpose of the provisions of the Income Tax Act that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids. The second step is to examine the factual context of a case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+[26] It was noted that “extrinsic aids” was a reference to the comment of Rothstein J. in OSFC Holdings Ltd v. Canada,[9] i.e. that in determining the object and spirit of a particular provision for purposes of subsection 245(4) analysis:
+… It will be necessary for the Court to have regard to the context of the provisions in question and, in the abuse analysis, the Act as a whole, and that reference may be made to extrinsic aids such as technical notes, writings, Hansard and enacting notes.
+and that the two common elements in the foregoing cases is that they deal with the final version of the provision, rather than a draft.
+[27] Furthermore, Rule 82(1) allows a party to apply for an Order directing another party to file and serve all documents relating to any matter in question between the parties in the appeal. However, as a general rule, the taxpayer is required to establish a connection and cannot simply claim discovery of any document pertaining to the matter in issue. In this context, reference was made to Owen Holdings Ltd. v. The Queen[10] in which the Applicant’s application for an Order was denied by Rip J. on the basis that:
+(a) the documents are not legislative facts; they do not establish the purpose and background of the legislation in question; (b) the documents are simply the opinions of writers and thus the Court cannot take them into consideration when determining the purpose, subject, manner and nature of the provisions at issue; (c) that materials include documents that were considered by the draftsman of the legislation and policy and persons testifying before Committees of Parliament that these documents were not legislative facts; (d) neither are these materials admissible legislative history and there is no evidence that they would lead directly or indirectly to any admissible legislative history. The documents requested precede the reports, papers, studies, statements and speeches that are legislative history. Simply put documents prepared in contemplation of a report, papers, study, statement or speech, are not included in legislative history. … [11]
+[28] In a Treaty context, the aim is the same, i.e. to determine the purpose of the Treaty or its provisions and accordingly, the permissible extrinsic aids are those that go to the legal context of the Treaty. Without some indication that the notes, files, and information sought by the Appellant were considered by Parliament in implementing the Treaty in question, the materials can have no relevance in determining Parliament’s intent with respect to the purpose of the Treaty or its provisions.
+Conclusion
+[29] In MIL (Investments), Bell J. observed that section 4.1 of the Income Tax Conventions Interpretation Act[12] and section 245 of the Act were retroactively amended effective September 12, 1988, to make explicit reference to Tax Treaties, and stated:
+28 In my view, the impact of the amendments to section 245 is that tax treaties must be interpreted in the same manner as domestic legislation when analyzing potentially abusive avoidance transactions.
+[30] Thus, whether the Court is dealing with abuse of domestic legislation or abuse of a Treaty, or as in this case both, the aim is the same, i.e. to examine the factual context of the case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+[31] In Mathew v. Canada,[13] another GAAR assessment, the Supreme Court noted:
+42 … There is an abiding principle of interpretation: to determine the intention of the legislator by considering the text, context and purpose of the provisions at issue. This applies to the Income Tax Act and the GAAR as much as to any other legislation.
+43 We add this. While it is useful to consider the three elements of statutory interpretation separately to ensure each has received its due, they inevitably intertwine. For example, statutory context involves consideration of the purposes and policy of the provisions examined. And while factors indicating legislative purpose are usefully examined individually, legislative purpose is at the same time the ultimate issue -- what the legislator intended.
+In a GAAR and Treaty context, the same principle applies.
+[32] The Applicant’s motion is for an Order requiring the Respondent to produce “travaux préparatoires” which counsel described as “all of the notes, the files, the conference minutes, all of the drafts, everything that went into negotiating the Canada-Barbados Income Tax Treaty. All of the internal files that Canada probably has somewhere that led up to the actual entering into force and the signing of the Canada-Barbados Treaty”.
+[33] Furthermore, it is the Applicant’s position that all of the “travaux préparatoires” should be disclosed because, at the discovery stage, a semblance of relevance would suffice. I am unable to agree. In Owen Holdings, Marceau, J. speaking for the majority, stated:
+We indicated at the hearing that we disagreed with counsel's argument. Although obviously not synonyms, the words "relating" and "relevant" do not have entirely separate and distinct meanings. "Relating to" in Rule 82(1) necessarily imparts an element of relevance, otherwise, the parties would have license to enter into extensive and futile fishing expeditions that would achieve no productive goal but would waste judicial resources. …
+[34] The Treaty was proclaimed in force on December 22, 1980. The background note[14] indicates that the Treaty is divided into seven parts. Scope (Articles I and II); Definitions (Articles III to V); Taxation of Income (Articles VI to XXIII); Taxation of Capital (Article XXIV); Elimination of Double Taxation (Article XXV); Special Provisions (Articles XXVI to XXX); and Final Provisions (Articles XXXI and XXXII).
+[35] A review of the foregoing discloses that the majority of the Articles have no relevance whatsoever to the issue in this appeal.[15] It is an accepted fact that reference may be made to extrinsic materials which form part of the legal context. However, there is no dispute that the legal context in this case relates primarily to paragraphs 39(1)(a), 73(1), 94(1)(c), the GAAR provisions of the Income Tax Act, and Article 14 of the Canada and Barbados Treaty.
+[36] In “Gatoil International Inc. v. Arkwright-Boston Manufacturers Mutual Insurance Co.,[16] Lord Wilberforce observed:
+“two conditions must be fulfilled before “travaux prépartoires” can be used: first, that the material is public and accessible; secondly, that it clearly and indisputably points to a definitive legislative intention”.
+[37] I have concluded that “travaux préparatoires” related specifically to Article 14 may include documents that clearly point to the legislator’s intent and may be relevant to the matter in issue. These, and only these, are to be produced by the Respondent. I must add that by limiting production to this one Article, I do not intend to preclude the Applicant from establishing that there may be a legitimate relevancy connection to another Article or Articles. In that case, if no agreement is reached with the Respondent, the issue may be referred back to this Court for consideration.
+[38] As previously noted, the parties have agreed that this Order will be deferred to permit the Respondent to bring the motion regarding disclosure of sensitive information in accordance with the provisions of section 38.
+Signed at Ottawa, Canada, this 1st day of May, 2007.
+“A.A. Sarchuk”
+Sarchuk D.J.
+CITATION: 2006TCC239
+COURT FILE NO.: 2005-1906(IT)G
+STYLE OF CAUSE: STEINAR KLABOE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 3, 2006
+REASONS FOR ORDER BY: The Honourable Justice A.A. Sarchuk
+DATE OF REASONS: May 1, 2007
+APPEARANCES:
+Counsel for the Applicant:
+Joel Nitikman
+Counsel for the Respondent:
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Joel Nitikman
+Firm: Fraser Milner Casgrain
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] These documents were referred to by counsel for the Applicant as the “Travaux Préparatoires” or “Preparatory Works” ‑ Undertaking no. 30.
+[2] Barbara MacTavish Spousal Trust (Tax Court of Canada Appeal, 2005-1905(IT)G).
+[3] This step has not been taken. The parties agree that in the event disclosure is ordered this Court’s order will be deferred to permit the notice to be made in accordance with the provisions of section 38.
+[4] Cudd Pressure Control v. The Queen, 98 DTC 6630 (F.C.A.).
+[5] 2006 DTC 3307 @ 3318 (T.C.C.).
+[6] 151 A.L.R. 604 @ 610 (Federal Court, Australia).
+[7] 2005 DTC 5523.
+[8] Subsection 245(4) For greater certainty, subsection (2) does not apply to a transaction where it may reasonably be considered that the transaction would not result directly or indirectly in a misuse of the provisions of this Act or an abuse having regard to the provisions of this Act, other than this section, read as a whole.
+[9] 2001 FCA 260.
+[10] (1997) 3 C.T.C. 2286 (T.C.C.); 97 DTC 5401 (F.C.A.)
+[11] This decision was upheld on appeal.
+[12] R.S.C. 1985, c.14.
+[13] 2005 DTC 5538.
+[14] Exhibit no. 1, page 1.
+[15] By way of example, the Taxation of Income category in which Article 14 is located also includes Articles such as income from immovable property, shipping and air transport, royalties, director’s fees, athletes/artists, pension/annuities, alimony, government service, students, etc.
+[16] [1985] A.C. 255 at 263 (H.L.).

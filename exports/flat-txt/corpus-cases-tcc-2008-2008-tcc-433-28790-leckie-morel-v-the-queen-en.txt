@@ -1,0 +1,148 @@
+Title: Leckie Morel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28790/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-433-28790-leckie-morel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-28
+
+# Leckie Morel v. The Queen
+
+- Citation: 2008 TCC 433
+- Decision date: 2008-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1510, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leckie Morel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-28
+Neutral citation
+2008 TCC 433
+File numbers
+91-509(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+BETWEEN:
+LINDA LECKIE MOREL,
+GEOFFREY D. BELCHETZ,
+ALLAN GARBER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on July 8, 2008, and decision rendered orally
+on July 23, 2008, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellants:
+Howard W. Winkler (July 8 and 22)
+Counsel for the Respondent:
+Gordon Bourgard (July 8)
+Alexandra Humphrey (July 22)
+____________________________________________________________________
+ORDER
+UPON motion by the Appellants for an Order granting leave to amend the Notices of Appeal as follows:
+(a) for the Appellant Allan Garber, in the form attached as Schedule “A” to the Notice of Motion;
+(b) for the Appellant Geoffrey Belchetz, in the form attached as Schedule “B” to the Notice of Motion;
+(c) for the appellant Linda Leckie Morel in File No. 91-509(IT)G, in the form attached as Schedule “C” to the Notice of Motion;
+(d) for the appellant Linda Leckie Morel in File No. 91-1816(IT)G, in the form attached as Schedule “D” to the Notice of Motion;
+AND UPON FURTHER motion by the Appellants for an Order striking out the following paragraphs in the Amended Replies and Fresh as Amended Replies:
+(a) paragraphs 16, 17, 18, 19, 22 (the reference to reasonable expectation of profit) and 30 of he Amended Reply to the Notice of Appeal of the Appellant Alan Garber;
+(b) paragraphs 13, 14, 15, 16, 19 (the reference to reasonable expectation of profit) and 29 of the Amended Reply to the Notice of Appeal of the Appellant Geoffrey Belchetz;
+(c) paragraphs 12, 13, 14, 15, 18 (the reference to reasonable expectation of profit) and 27 of the Fresh as Amended Reply to the Notice of Appeal of the Appellant Linda Leckie Morel in File No. 91-509(IT)G; and
+(d) paragraphs 13, 14, 15, 16, 19 (the reference to reasonable expectation of profit) and 27 of the Amended Reply to the Notice of Appeal of the Appellant Linda Leckie Morel in File No. 91‑1816(IT)G;
+AND UPON reading the materials filed, and hearing counsel for the parties;
+AND UPON the Respondent consenting to the following paragraphs being struck from the Amended Replies and Fresh as Amended Reply in:
+(i) the appeal of Allan Garber, paragraphs 19 and 30,
+(ii) the appeal of Geoffrey Belchetz, paragraphs 16 and 29,
+(iii) the appeal of Linda Leckie Morel, File 91-509(IT)G, paragraphs 15 and 26; and
+(iv) the appeal of Linda Leckie Morel, File No. 91‑1816(IT)G, paragraphs 16 and 27;
+IT IS ORDERED THAT:
+1. The Appellants’ motion to amend the Notices of Appeal is allowed in accordance with the Amended Notices of Appeal attached to the Notice of Motion as Schedules “A”, “B”, “C” and “D”;
+2. Paragraphs 19 and 30 shall be struck from the Amended Reply to the Notice of Appeal of Allan Garber;
+3. Paragraphs 16 and 29 shall be struck from the Amended Reply to the Notice of Appeal of Geoffrey Belchetz;
+4. Paragraphs 15, and 26 shall be struck from the Fresh as Amended Reply to the Notice of Appeal of Linda Leckie Morel, File No. 91‑501(IT)G;
+5. Paragraphs 16 and 27 shall be struck from the Amended Reply to the Notice of Appeal of Linda Leckie Morel, File No. 91‑1816(IT)G;
+6. The parties will forthwith file Fresh as Amended pleadings to reflect the result of these motions; and
+7. Costs of these motions are reserved, to be dealt with at the hearing of the Respondent’s motions on August 18, 2008.
+Signed at Ottawa, Canada, this 28th day of July, 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008 TCC 433
+Date: 20080728
+Docket: 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+BETWEEN:
+LINDA LECKIE MOREL,
+GEOFFREY D. BELCHETZ,
+ALLAN GARBER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie
+[1] The two motions before me are brought by the appellants. One is to amend their Notices of Appeal. The other is for an Order striking out certain paragraphs of the Amended Replies.
+[2] The Respondent opposes the two substantial proposed amendments to the Notices of Appeal, but does not oppose other minor amendments.
+[3] The appeals are concerned with the appellants’ claims that they are entitled to deductions in computing their income for losses sustained by certain limited partnerships during the years under appeal, and for interest paid in connection with their acquisition of their partnership interests.
+[4] The appellants have been examined for discovery. They now wish to amend the language used in the Notices of Appeal to describe the interest payments, originally said to have been interest on loans entered into to acquire their partnership interests, as interest on promissory notes given to acquire their partnership interests. They wish also to delete references to a reasonable expectation of profit, and replace those with the allegation that they specifically contemplated that in the course of the limited partnership business substantial start-up costs would be incurred.
+[5] The Respondent opposes the amendments, both upon the ground that the appellants have delivered no affidavit evidence to support their motions to amend their pleadings, and on the basis that what they seek to do amounts to withdrawing judicial admissions, and that they should therefore be required to show by evidence that the statements they wish to withdraw are not true, and how they came to be made.
+[6] The appellants’ position is that the proposed amendments as to interest are simply to make the Notices of Appeal conform to the facts as they appear from the examinations for discovery. The amendment to delete the reference to no reasonable expectation of profit, it is said, is simply to recognize and accord with the Supreme Court of Canada judgments in Stewart v. Canada and Walls v. Canada.[1]
+[7] In my opinion, the interests of justice will be best served by permitting the appellants to make the amendments that they seek.
+[8] The overarching principle that should be applied in considering applications to amend pleadings was expressed this way by Décary J.A. in Canderel Ltd. v. Canada:[2]
+… while it is impossible to enumerate all the facts that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.
+[9] It is difficult to see how the respondent in these cases could be prejudiced by the amendment concerning interest paid relevant to the acquisition of the appellants’ limited partnership interests, as the respondent in her Amended Replies has pleaded that one of the assumptions on which the Minister relied in assessing the appellants is that:
+[The General Partner] committed to provide financing to the individual investors … in exchange for non-assignable promissory notes from each investor …
+Amended Reply in Belchetz v. The Queen, p. 9(o)
+[10] Nor has the respondent shown that she would suffer any prejudice from the removal of the reference to reasonable expectation of profit from the Notice of Appeal. The Amended Replies in part D - GROUNDS RELIED ON AND RELIEF SOUGHT – make reference to the absence of a reasonable expectation of profit, and that is one of the parts of the Replies that the appellants move to strike out. Perhaps they consider that they need to withdraw the allegation from their own pleadings to argue credibly to strike it from the Replies. In any event, I see no possibility of prejudice if those words are deleted from the Notices of Appeal.
+[11] I am not persuaded by the respondent’s argument that the proposed amendments would have the effect of withdrawing judicial admissions. Neither averment meets the modern test for a judicial admission that was accepted by Braidwood J. in British Columbia Ferry Corp v. T & N plc,[3] that it must be a deliberate concession made by one party for the benefit of the other. This test has been adopted in Ontario by Master MacLeod in Hughes v. Toronto-Dominion Bank.[4]
+[12] The respondent relies on the decision of Tardif, J. in Le 11675 Société Commandite c. La Reine,[5] in support of the submission that the allegations the appellants seek to remove from their Notices of Appeal are judicial admissions, and that they should therefore be put to proving them to be untrue and explaining the reason for the withdrawal. In that case Tardif, J. applied, by analogy, the provisions of the Civil Code of Québec. That, of course, was appropriate as the case involved a hearing in Québec of the appeal of a Québec corporation. The present cases arise in Ontario, where all the appellants reside, and in my view it is appropriate to adopt the practice that is now accepted in Ontario.
+[13] Nor am I troubled by the absence of affidavit evidence in support of the motions. Rule 71 provides that evidence in a motion may be given by affidavit, but it does not require it. If the motion does not require the proof of any facts then no affidavit is needed. Both counsel referred in argument to certain questions and answers from the transcripts of the examinations for discovery. It appears that the appellants may have been somewhat equivocal in their answers with respect to the interest issue, but, as I have said, the effect of the proposed amendments is to make the appellants’ pleadings accord with the Minister’s stated position on assessing.
+[14] If anything, the amendments that the appellants propose will tend to narrow the issues for trial somewhat. There is no discernible prejudice to the respondent that would result from the amendments. The appellants will therefore have leave to amend the Notices of Appeal in accordance with Schedules A, B, C and D to the Notice of Motion.
+[15] I turn now to the motion to strike certain paragraphs from the Amended Replies. These paragraphs were added to the Replies by leave of the Court, and formed the basis for seven questions that were the subject of a pre-trial determination under Rule 58. The paragraphs are identical in the four Amended Replies, although their numbering varies. In the appeal of Allan Garber, they are numbers 16, 17, 18, 19 and 30. Paragraphs 16, 17 and 18 contain particulars of the charges laid against the promoters of the limited partnerships and the disposition of those charges. Paragraph 19 purports to provide a summary of the findings of the Ontario Superior Court of Justice that form the basis of that Court’s disposition of the charges. Paragraph 30 found in Part D – GROUNDS RELIED ON AND RELIEF SOUGHT – argues that the appellants are precluded by the doctrine of abuse of process from litigating the findings set out in paragraph 19.
+[16] By way of pre-trial determination under Rule 58, it has now been established by this Court, and affirmed on appeal, that the appellants are not precluded from litigating the issues that were central to the convictions of the promoters. In view of that decision, Mr. Shipley has agreed that paragraphs 19 and 30 of the Reply in the Garber appeal and the corresponding paragraphs in the other Replies should be removed. I was advised at the hearing of the motion that he had so indicated to counsel for the appellants.
+[17] Mr. Winkler submits that paragraphs 16, 17 and 18 must also be struck from the pleading because they are simply an attempt by the respondent to associate the appellants with the criminal conduct of the promoters, and thereby prejudice them in these proceeding.
+[18] I do not agree. In paragraph 13 it is alleged that the promoters perpetrated a fraud on the individual investors and on the Crown by creating and uttering false financial statements, invoices and other documents. Paragraphs 16, 17 and 18 give further particulars of these allegations. There is no doubt that the issue of fraud by the promoters on the investors will be before the Court at the trials, and that the allegations in the impugned paragraphs will be relevant to that issue.
+[19] The appellants’ only objection to the respondent’s motion two years ago to add paragraphs 16, 17, 18, 19 and 30 to the Replies was directed to paragraph 30. Had they argued then that paragraphs 16, 17 and 18 were pleas of evidence rather than of material facts, they might well have been excluded on that basis. Not having taken the point then, however, it is too late to do so now.
+[20] The other attack on the Amended Replies is to have struck out of paragraph 22 the last eight words, where it is said that the partnerships “never had a reasonable expectation of profit”. The basis for this attack on the pleading is the decisions of the Supreme Court of Canada in Stewart and Walls. Those decisions rejected the doctrine that there could not be a source of income where there is no reasonable expectation of profit. It is not correct, however, to say that the Supreme Court has rendered expectation of profit totally irrelevant, and it is conceivable that such a submission might be appropriately made in argument at the trial. Since the words appear in Part D of the pleading, they do not have the character of allegations of fact, but are simply notice of an argument to be made at trial. To strike out the words would have no effect on either the length or the complexity of the trial, and I am not prepared to say that no submission as to expectation of profit could properly be made at the end of the trial. For that reason, I am not inclined to strike the words from the pleading.
+[21] In the result then, paragraphs 19 and 30 will be struck from the Amended Reply in the Allan Garber appeal, and the corresponding paragraphs will be struck from the Amended Replies in the other three appeals, to reflect the result of the pre-trial determination in respect of the abuse of process issue made under Rule 58, and the motion is otherwise dismissed.
+[22] Costs of the motions are reserved to be dealt with after hearing argument on the Respondent’s motions on August 18, 2008.
+Signed at Ottawa, Canada, this 28th day of July, 2008.
+“E.A. Bowie “
+Bowie J.
+CITATION: 2008 TCC 433
+COURT FILE NO.: 91-509(IT)G, 91-1816(IT)G, 91-1946(IT)G, and 2004-2787(IT)G
+STYLE OF CAUSE: LINDA LECKIE MOREL, GEOFFREY D. BELCHETZ, ALLAN GARBER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 8, 2008
+REASONS FOR ORDER BY: The Honourable Justice E.A. Bowie
+DATE OF ORDER: July 28, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Howard W. Winkler
+Counsel for the Respondent:
+John Shipley
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Howard W. Winkler
+Firm: Aird & Berlis
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] 2 S.C.R. 645 and [2002] 2 S.C.R. 684.
+[2] [1994] 1 F.C. 33, p.10.
+[3] (1993) 31 C.P.C. (3rd) 3279.
+[4] (2002) 21 C.P.C. (5th) 388.
+[5] 2002 CanLII 47037.

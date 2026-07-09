@@ -1,0 +1,1351 @@
+---
+title: "Damis Properties Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/515550/index.do"
+last_modified: "2021-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 24"
+citation2: ""
+neutral_citation: "2021 CCI 24"
+decision_date: "2021-03-26"
+language: "fr"
+item_id: "515550"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4476
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:57:58.501000+00:00"
+cases_cited_count: 48
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a750ee70270789f9c9f6173e1a7e81ff33c942d3374970e4b4984749a34d6f04"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Damis Properties Inc. c. La Reine
+
+- Citation: 2021 CCI 24
+- Decision date: 2021-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4476, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Damis Properties Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-03-26
+Référence neutre
+2021 CCI 24
+Numéro de dossier
+2016-4783(IT)G, 2016-4785(IT)G, 2016-4787(IT)G, 2016-4788(IT)G, 2016-4789(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4783(IT)G
+ENTRE :
+DAMIS PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Sabel Investments II-A Limited (2016-4785(IT)G), Zagjo Holdings Limited (2016-4787(IT)G), Devamm Investments II-A Limited (2016‑4788(IT)G) et Microbjo Properties Inc. (2016-4789(IT)G)
+du 11 au 12 mars 2020 et du 21 au 23 septembre 2020, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l’intimée :
+Me Natalie Goulard
+Me Dominic Bédard-Lapointe
+Me Simon Vincent
+Me Alain Gareau
+JUGEMENT MODIFIÉ
+Conformément aux motifs de la décision ci-joints, l’appel est accueilli et la cotisation établie au titre de l’article 160 de la Loi sur l’impôt sur le revenu est annulée. L’appelante dispose d’un délai de 30 jours à compter de la date de la présente décision pour présenter une seule observation concernant les frais et dépens et l’intimée dispose de 15 jours pour répondre à cette observation. Les observations sur les frais et dépens ne doivent pas dépasser dix pages pour l’appelante et dix pages pour l’intimée.
+Le jugement modifié remplace le jugement daté du 24 mars 2021. Le jugement modifié corrige l’ordonnance de l’avocat de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de mars 2021.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 8e jour de mars 2023.
+François Brunet, réviseur
+Dossier : 2016-4785(IT)G
+ENTRE :
+SABEL INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Damis Properties Inc. (2016-4783(IT)G), Zagjo Holdings Limited (2016‑4787(IT)G), Devamm Investments II-A Limited (2016‑4788(IT)G) et Microbjo Properties Inc. (2016-4789(IT)G)
+du 11 au 12 mars 2020 et du 21 au 23 septembre 2020, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l’intimée :
+Me Natalie Goulard
+Me Dominic Bédard-Lapointe
+Me Simon Vincent
+Me Alain Gareau
+JUGEMENT MODIFIÉ
+Conformément aux motifs de la décision ci-joints, l’appel est accueilli et la cotisation établie au titre de l’article 160 de la Loi sur l’impôt sur le revenu est annulée. L’appelante dispose d’un délai de 30 jours à compter de la date de la présente décision pour présenter une seule observation concernant les frais et dépens et l’intimée dispose de 15 jours pour répondre à cette observation. Les observations sur les frais et dépens ne doivent pas dépasser dix pages pour l’appelante et dix pages pour l’intimée.
+Le jugement modifié remplace le jugement daté du 24 mars 2021. Le jugement modifié corrige l’ordonnance de l’avocat de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de mars 2021.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 8e jour de mars 2023.
+François Brunet, réviseur
+Dossier : 2016-4787(IT)G
+ENTRE :
+ZAGJO HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Damis Properties Inc. (2016-4783(IT)G), Sabel Investments II-A Limited (2016-4785(IT)G), Devamm Investments II-A Limited (2016‑4788(IT)G) et Microbjo Properties Inc. (2016-4789(IT)G)
+du 11 au 12 mars 2020 et du 21 au 23 septembre 2020, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l’intimée :
+Me Natalie Goulard
+Me Dominic Bédard-Lapointe
+Me Simon Vincent
+Me Alain Gareau
+JUGEMENT MODIFIÉ
+Conformément aux motifs de la décision ci-joints, l’appel est accueilli et la cotisation établie au titre de l’article 160 de la Loi sur l’impôt sur le revenu est annulée. L’appelante dispose d’un délai de 30 jours à compter de la date de la présente décision pour présenter une seule observation concernant les frais et dépens et l’intimée dispose de 15 jours pour répondre à cette observation. Les observations sur les frais et dépens ne doivent pas dépasser dix pages pour l’appelante et dix pages pour l’intimée.
+Le jugement modifié remplace le jugement daté du 24 mars 2021. Le jugement modifié corrige l’ordonnance de l’avocat de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de mars 2021.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 8e jour de mars 2023.
+François Brunet, réviseur
+Dossier : 2016-4788(IT)G
+ENTRE :
+DEVAMM INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Damis Properties Inc. (2016-4783(IT)G), Sabel Investments II-A Limited (2016-4785(IT)G), Zagjo Holdings Limited (2016-4787(IT)G) et Microbjo Properties Inc. (2016-4789(IT)G)
+du 11 au 12 mars 2020 et du 21 au 23 septembre 2020, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l’intimée :
+Me Natalie Goulard
+Me Dominic Bédard-Lapointe
+Me Simon Vincent
+Me Alain Gareau
+JUGEMENT MODIFIÉ
+Conformément aux motifs de la décision ci-joints, l’appel est accueilli et la cotisation établie au titre de l’article 160 de la Loi sur l’impôt sur le revenu est annulée. L’appelante dispose d’un délai de 30 jours à compter de la date de la présente décision pour présenter une seule observation concernant les frais et dépens et l’intimée dispose de 15 jours pour répondre à cette observation. Les observations sur les frais et dépens ne doivent pas dépasser dix pages pour l’appelante et dix pages pour l’intimée.
+Le jugement modifié remplace le jugement daté du 24 mars 2021. Le jugement modifié corrige l’ordonnance de l’avocat de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de mars 2021.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 8e jour de mars 2023.
+François Brunet, réviseur
+Dossier : 2016-4789(IT)G
+ENTRE :
+MICROBJO PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+Damis Properties Inc. (2016-4783(IT)G), Sabel Investments II-A Limited (2016-4785(IT)G), Zagjo Holdings Limited (2016-4787(IT)G) et Devamm Investments II-A Limited (2016‑4788(IT)G)
+du 11 au 12 mars 2020 et du 21 au 23 septembre 2020, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l’intimée :
+Me Natalie Goulard
+Me Dominic Bédard-Lapointe
+Me Simon Vincent
+Me Alain Gareau
+JUGEMENT MODIFIÉ
+Conformément aux motifs de la décision ci-joints, l’appel est accueilli et la cotisation établie au titre de l’article 160 de la Loi sur l’impôt sur le revenu est annulée. L’appelante dispose d’un délai de 30 jours à compter de la date de la présente décision pour présenter une seule observation concernant les frais et dépens et l’intimée dispose de 15 jours pour répondre à cette observation. Les observations sur les frais et dépens ne doivent pas dépasser dix pages pour l’appelante et dix pages pour l’intimée.
+Le jugement modifié remplace le jugement daté du 24 mars 2021. Le jugement modifié corrige l’ordonnance de l’avocat de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de mars 2021.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 8e jour de mars 2023.
+François Brunet, réviseur
+Référence : 2021 CCI 24
+Date : 20210324
+Dossier : 2016-4783(IT)G
+ENTRE :
+DAMIS PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-4785(IT)G
+ET ENTRE :
+SABEL INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-4787(IT)G
+ET ENTRE :
+ZAGJO HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-4788(IT)G
+ET ENTRE :
+DEVAMM INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-4789(IT)G
+ET ENTRE :
+MICROBJO PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+I. Introduction
+[1] Les présents appels portent sur les conséquences fiscales pour les cinq appelantes, en application de l’article 160 de la Loi de l’impôt sur le revenu (la « LIR ») et de la règle générale anti-évitement prévue à l’article 245 de la LIR (la « RGAÉ »), des opérations effectuées par les appelants pour augmenter le rendement après impôt de la vente de terres agricoles à Brampton (les « terres agricoles ») appartenant à cinq sociétés en nom collectif (les « sociétés en nom collectif »), qui étaient elles-mêmes détenues à 99,99 % par les appelantes, chacune d’elles détenant une participation de 99,99 % dans l’une des cinq sociétés en nom collectif.
+[2] Au début de l’audience, les parties ont convenu que les appels interjetés par toutes les appelantes seraient entendus sur preuve commune, mais que, pour éviter les répétitions, la preuve porterait uniquement sur les opérations effectuées par Microbjo Properties Inc. (« MPI ») et Damis Properties Inc. (« DPI ») (les « opérations de référence »).
+[3] Les opérations entreprises par chaque appelante, qui ont toutes eu lieu en 2006, ont transféré le produit et le revenu provenant de la vente des terres agricoles dans une filiale nouvellement constituée de chaque appelante (individuellement, une « filiale » et collectivement, les « filiales »). Chaque appelante a ensuite vendu sa filiale à Wilshire Technology Corporation (« WTC »), une société constituée par une personne non liée en vue d’acquérir les actions de toutes les filiales.
+[4] Au moment où les actions des filiales ont été vendues à WTC, trois des filiales ne détenaient que des espèces et deux des filiales détenaient des espèces et une créance interentreprises.
+[5] Microbjo (Chinguacousy) Inc. (« MCI ») [propriété de MPI] est représentative des deux filiales qui détenaient des espèces et une créance interentreprises et 1685471 Ontario Inc. (« 471 ») [propriété de DPI] est représentative des trois filiales qui détenaient uniquement des espèces.
+[6] Par conséquent, les opérations de référence portent collectivement sur les deux façons dont les opérations ont eu lieu. Les parties ont convenu que la décision de la Cour concernant les opérations de référence déterminerait l’issue des cinq appels.
+[7] Les opérations de référence sont exposées en détail dans les exposés conjoints partiels des faits (les « ECPF ») déposés auprès de la Cour en ce qui concerne les appels interjetés par DPI et MPI, dont des copies sont jointes aux présents motifs en tant qu’annexe A et annexe B, respectivement.
+[8] Chacun des ECPF renvoie à des documents qui figurent dans un recueil conjoint de documents concernant l’appel auquel l’ECPF s’applique. Les parties ont convenu que les documents contenus dans les recueils conjoints sont authentiques et pertinents et les recueils conjoints ont été introduits comme preuve sans aucune hésitation pour ce motif (pièces AR-1 et AR-2) sous réserve, bien entendu, de l’exercice ultérieur du pouvoir discrétionnaire de la Cour d’exclure tout ou partie d’un document particulier en vertu des règles de preuve applicables. Toutes les autres pièces ont été déposées individuellement au fur et à mesure de l’audience.
+[9] Les opérations exposées dans les ECPF se résument comme suit :
+A. Avant la clôture, le 16 janvier 2006, de la vente des terres agricoles par les sociétés en nom collectif, demander à chaque appelant de constituer une nouvelle société canadienne imposable (c.-à-d. les filiales), émettre une action de catégorie B de la filiale à l’appelante pour une contrepartie nominale, transférer la participation de 99,99 % de l’appelante dans sa société en nom collectif à la filiale pour 100 actions ordinaires de la filiale et faire un choix conjoint avec la filiale aux termes du paragraphe 85(1) de la LIR pour que le produit de disposition de l’appelante et le coût de la participation de la filiale dans la société en nom collectif soient égaux au prix de base rajusté de cette participation pour l’appelante.
+B. Conclure la vente des terres agricoles par les sociétés en nom collectif, déposer le produit de la vente dans le compte bancaire des sociétés en nom collectif et, dans le cas de deux des sociétés en nom collectif, prêter une partie importante du produit à l’appelante ou à la société mère de l’appelante.
+C. Après la clôture de l’exercice des sociétés en nom collectif le 31 mai, attribuer à chaque filiale la part de 99,99 % du revenu de la société provenant de la vente des terres agricoles.
+D. Distribuer à chaque filiale, à partir des sociétés en nom collectif, soit des espèces, soit des espèces et une créance interentreprises.
+E. Le 28 décembre, augmenter le capital déclaré des 100 actions ordinaires détenues par chaque appelante dans sa filiale à un montant correspondant approximativement au prix de vente prévu des actions dans la filiale afin d’augmenter le prix de base rajusté de ces actions du même montant.
+F. Le 29 décembre, conclure un accord de vente d’actions avec WTC aux termes duquel chaque appelante peut vendre les actions de sa filiale à WTC pour un prix égal à la valeur après impôt de la filiale, plus 46 % de la dette fiscale de la filiale résultant de l’attribution par la société en nom collectif à la filiale du revenu de la vente des terres agricoles.
+G. Le 29 décembre, faire en sorte que l’administrateur et dirigeant démissionne et soit remplacé par Craig Nerland, le représentant de WTC.
+H. Le 31 décembre, exercer l’option de vente et conclure la vente des actions de la filiale à WTC, WTC utilisant les liquidités ou les créances de la filiale pour acquitter le paiement du prix d’achat immédiatement après le transfert des actions achetées.
+[10] Le ministre du Revenu national (le « ministre ») a établi une cotisation pour chaque appelante en vertu du paragraphe 160(1) de la LIR pour l’impôt sur le revenu de la filiale de cette appelante (la « dette fiscale sous-jacente ») pour son année d’imposition se terminant le 31 décembre 2006 (l’« année d’imposition »)[1], déterminé sans tenir compte d’une déduction pour amortissement demandée par chaque filiale pour l’année d’imposition qui, si elle avait été accordée, aurait réduit le revenu de chaque filiale à zéro.
+[11] Les appelantes soutiennent que le ministre n’a pas établi l’existence de la dette fiscale sous-jacente des filiales pour l’année d’imposition et que, même si cette dette existait, trois des quatre conditions d’application du paragraphe 160(1) n’ont pas été remplies : il n’y a pas eu transfert de biens des filiales aux appelantes; même s’il y a eu transfert, les filiales et les appelantes n’avaient aucun lien de dépendance au moment du transfert; la juste valeur marchande de la contrepartie donnée par les appelantes était égale ou supérieure à la juste valeur marchande des biens transférés par les filiales.
+[12] À titre subsidiaire, le ministre a établi les cotisations des appelantes en vertu de la RGAÉ. L’intimée soutient que les opérations résumées ci-dessus étaient des opérations d’évitement qui ont entraîné directement ou indirectement un abus dans l’application de l’article 160 de la LIR. Les appelantes soutiennent que les opérations étaient des opérations commerciales ordinaires auxquelles l’article 160 ne s’applique tout simplement pas et qu’il n’y a donc pas abus. Les dispositions pertinentes à cette analyse sont reproduites en annexe C des présents motifs.
+II. Les témoins
+[13] Cinq témoins factuels et un témoin expert ont déposé pour les appelantes. Nul n’a témoigné pour l’intimée.
+[14] Les témoins factuels sont :
+A. Michael Naiberg, un membre de la famille qui possède MPI et diverses sociétés connexes. En 2006, M. Naiberg était un administrateur de MPI et l’unique administrateur, président et secrétaire de MCI.
+B. Howard Meyer, un ancien membre par alliance de la famille qui possédait DPI et diverses sociétés connexes. En 2006, M. Meyer était un administrateur de MPI et l’unique administrateur, président et secrétaire de 471.
+C. Paul Bleiwas, avocat fiscaliste chez Goodman & Carr LLP (« G&C ») en 2006, qui a offert des conseils à MPI et à Devamm Investments II-A Limited (« DIL ») concernant les opérations. Un autre avocat de G&C a conseillé les trois autres appelantes au sujet des opérations en cause.
+D. David Steinberg, un comptable professionnel agréé chez RSM Richter LLP en 2006, qui a préparé des états financiers pro forma et effectué des calculs liés à la fiscalité pour MPI.
+E. Craig Nerland, administrateur de WTC pendant la période en cause et la personne nommée comme administrateur unique des filiales le 29 décembre 2006.
+[15] En outre, Helen Mallovy Hicks de PricewaterhouseCoopers LLP a été qualifiée d’experte en évaluation des actions. Mme Hicks a rendu un témoignage d’expert concernant la juste valeur marchande des actions détenues dans les filiales immédiatement avant la vente de ces actions à WTC le 31 décembre 2006. Les évaluations n’ont pas tenu compte des opérations effectuées dans les filiales après le 29 décembre 2006, c’est-à-dire des opérations effectuées dans les filiales par WTC.
+III. Les dépositions des témoins
+A. M. Michael Naiberg et M. Howard Meyer
+[16] Dans les années 1950, le grand-père de M. Naiberg (le mandant initial de MPI) et deux autres personnes (les mandants initiaux de DPI et Sabel Investments II-A Limited (« SIL »)) ont créé une société de développement immobilier appelée Nu Style Group, qui a construit des maisons à vendre et des immeubles d’habitation et acquis des terrains aux fins d’aménagement. Ces activités étaient parfois exercées en partenariat avec d’autres, dont DIL et Zagjo Holdings Limited (« ZHL »).
+[17] Dans les années 1970, les appelantes et d’autres personnes ont acquis les terres agricoles (connues sous le nom de terres agricoles de Chinguacousy) dans le but de les transformer en propriétés résidentielles à un moment donné dans l’avenir.
+[18] En 2005, les appelantes détenaient une participation globale de 70 % dans les terres agricoles par l’intermédiaire de cinq sociétés en nom collectif comme suit :
+A. MPI par l’intermédiaire de la société Irber II Partnership quant à un intérêt indivis de 16 2/3 % dans les terres agricoles.
+B. DPI par l’intermédiaire de la société Damis II Partnership quant à un intérêt indivis de 16 2/3 % dans les terres agricoles.
+C. SIL par l’intermédiaire de la société Sabel II Partnership quant à un intérêt indivis de 16 2/3 % dans les terres agricoles.
+D. DIL par l’intermédiaire de la société Devamm II Partnership quant à un intérêt indivis de 10 % dans les terres agricoles.
+E. ZHL par l’intermédiaire de la société Zagjo II Partnership quant à un intérêt indivis de 10 % dans les terres agricoles.
+[19] À un certain moment en 2005, les appelantes et les personnes qui possédaient les 30 % restants des terres agricoles (collectivement, les « propriétaires ») ont déterminé qu’il était peu probable qu’ils s’entendent sur la façon et le moment d’aménager les terres agricoles. Les propriétaires ont décidé que la meilleure solution était de mettre les terres agricoles en vente dans le cadre d’une vente aux enchères publique.
+[20] Les propriétaires ont retenu les services d’un avocat autre que G&C pour procéder à la vente aux enchères et à la vente des terres agricoles. Le 8 décembre 2005, chacune des cinq sociétés en nom collectif a signé un accord pour vendre sa participation dans les terres agricoles à l’un des propriétaires qui n’est pas une appelante dans les présents appels. La vente des terres agricoles par les sociétés en nom collectif a été conclue le 16 janvier 2006.
+[21] G&C a fourni des conseils aux appelantes concernant la planification après la vente. Ces conseils comprenaient la mise sur pied d’un plan visant à réaliser les opérations résumées dans la section d’introduction des présents motifs (le « plan »). G&C a fourni les conseils séparément à chacune des appelantes. Les appelantes ne se sont pas rencontrées pour discuter du plan et aucune appelante n’a pris la direction recommandée par G&C, mais le plan a été discuté lors de conversations entre elles.
+[22] M. Naiberg n’a pas pu se souvenir du conseil précis donné par G&C ou des détails concernant le plan. Il a témoigné que G&C a présenté le plan à MPI et qu’il a accepté le plan en fonction de la recommandation de G&C[2]. Lors du contre-interrogatoire, M. Naiberg a qualifié le plan de proposition globale qui émanait de G&C. Il a également déclaré que son père avait été avocat fiscaliste chez G&C pendant de nombreuses années avant 2006 et qu’il aurait été un point de contact avec G&C et aurait eu des questions concernant le plan.
+[23] M. Naiberg a témoigné que la créance interentreprises détenue par MCI résultait du fait que MCI n’avait pas de compte bancaire. La société Irber II Partnership a donc avancé les fonds provenant de la vente des terres agricoles à Microbjo Holdings Inc. (« MHI ») sous la forme d’un prêt ne portant pas intérêt et MHI a investi les fonds dans une dette à court terme. La société Irber II Partnership a ensuite versé une créance interentreprises à MCI. M. Naiberg a témoigné que la mise en commun des fonds excédentaires au sein de MHI était une pratique courante pour le groupe de sociétés liées à MHI.
+[24] Lors du contre-interrogatoire, Il a été demandé à M. Naiberg pourquoi la société Irber II Partnership avait prêté 3 254 012 $ à MHI, laissant derrière elle 767 000 $ du produit de la vente des terres agricoles. M. Naiberg n’a pu se rappeler quelle en était la raison. M. Naiberg n’a pas non plus pu se rappeler s’il y avait un lien entre le montant de la créance interentreprises et le montant que WTC a accepté de payer à MPI pour ses actions dans MCI.
+[25] Lors du contre-interrogatoire, M. Naiberg a été interrogé sur la raison de la constitution en société de MCI et du transfert de la participation de MPI dans la société Irber II Partnership à MCI à titre de « transfert libre d’impôt ». M. Naiberg a affirmé à plusieurs reprises que ces mesures avaient été prises sur le conseil de G&C et qu’il ne connaissait pas la raison précise de ces mesures.
+[26] M. Naiberg a convenu avec l’avocat de l’intimée que le seul but de MCI était de détenir la part de MPI dans les terres agricoles en acquérant sa participation dans la société Irber II Partnership et de détenir le produit de la vente par la société de sa participation dans les terres agricoles.
+[27] Lors du réinterrogatoire, M. Naiberg a convenu avec l’avocat des appelantes que la participation de MPI dans la société Irber II Partnership a été transférée à MCI pour isoler dans MCI le produit et le revenu de la vente des terres agricoles.
+[28] Lors du contre-interrogatoire, M. Naiberg a reconnu que MCI avait une dette fiscale d’environ 1 300 000 $ découlant de la vente des terres agricoles par la société Irber II Partnership.
+[29] Il a été demandé à M. Naiberg s’il y avait une raison, d’un point de vue commercial, de vendre les actions de MCI à WTC. M. Naiberg a affirmé qu’on lui avait conseillé de vendre MCI à WTC dans le but d’économiser certaines taxes.
+[30] Il a été demandé à M. Naiberg pourquoi on avait procédé par le truchement d’un accord de vente d’actions avait été utilisé plutôt que dans le cadre d’une vente directe des actions de MCI. M. Naiberg a convenu avec l’avocat de l’intimée qu’il s’agissait d’un mécanisme particulier pour réduire l’impôt sur le revenu de la vente des terres agricoles, mais il ne savait pas précisément pourquoi la vente des actions de MCI a été faite de cette façon. M. Naiberg a affirmé que l’accord avec WTC était différent des accords d’achat et de vente qu’il conclut normalement.
+[31] M. Naiberg a convenu avec l’avocat de l’intimée que le prix reçu par MPI pour ses actions de MCI dépassait la valeur après impôt de MCI d’environ 600 000 $ et que cette somme était liée aux économies d’impôt réalisées sur la vente des terres agricoles.
+[32] Il a été demandé à M. Naiberg pourquoi MPI avait élu Craig Nerland comme administrateur de MCI le 29 décembre 2006 alors que MPI contrôlait encore MCI. M. Naiberg a témoigné qu’une fois l’accord de vente d’actions exécuté, il ne s’est pas intéressé à ce qui allait arriver à MCI car il avait la possibilité de vendre les actions de MPI deux jours plus tard. Il a également déclaré qu’il n’avait aucune idée de ce que M. Nerland allait faire avec MCI.
+[33] M. Meyer a témoigné qu’après la signature de l’accord de vente des terres agricoles par la société Damis II Partnership, G&C a présenté à DPI un plan visant à augmenter le montant après impôt reçu par DPI à la suite de la vente des terres agricoles par la société. M. Meyer a décrit son objectif comme étant de maximiser le rendement de la vente des terres agricoles à la famille et a déclaré qu’il était convaincu que le plan présenté par G&C permettrait d’atteindre ce résultat.
+[34] Lors du contre-interrogatoire, M. Meyer a déclaré à plusieurs reprises qu’il n’avait pas posé de questions, mais qu’il s’était fié aux conseils qui lui avaient été donnés et qu’il ne se souvenait pas des détails. Il a déclaré qu’[traduction] « une certaine structure a été mise en place afin de veiller à ce que toutes les familles puissent optimiser leur argent ».[3] Il a également déclaré ce qui suit :
+[traduction]
+La structure nous a été expliquée par notre équipe [de conseillers], qui l’a mise en place. Je n’ai donc aucune connaissance de la raison pour laquelle les pièces ont été placées comme elles l’ont été. Ce n’était pas de mon ressort. Ma responsabilité consistait à suivre les conseils, à écouter les autres familles, et à se mettre d’accord. Et à signer[4].
+. . .
+... ce dont je me souviens, c’est qu’il y avait une structure et un calendrier précis pour tout ce qui devait se passer, et que les avocats venaient nous voir, apportaient des documents, nous disaient ce qui devait être signé, quand et où, et c’est ainsi que cela se passait, point final[5].
+[35] Il a été demandé à M. Meyer pourquoi Damis Holdings Limited (« DHL ») a déposé des fonds auprès de G&C plutôt que de DPI[6]. M. Meyer confirme que DHL possède toutes les actions de DPI, mais il ne sait pas pourquoi DHL a transféré des fonds à G&C plutôt qu’à DPI[7].
+[36] M. Naiberg et M. Meyer ont chacun témoigné qu’ils n’avaient pas entendu parler de WTC ou de Craig Nerland avant la signature des documents mettant en œuvre la vente des actions des filiales à WTC en décembre 2006, qu’ils n’ont rencontré personne de WTC à aucun moment, et que la clôture de la vente des filiales à WTC n’a pas eu lieu en présence de WTC.
+[37] M. Naiberg et M. Meyer ont également témoigné qu’ils n’avaient pas eu connaissance à l’époque des opérations que WTC a fait effectuer dans MCI et 471 après leur démission en tant qu’administrateurs le 29 décembre 2006. Les seules connaissances dont ils disposaient provenaient des présents appels.
+[38] M. Naiberg et M. Meyer ont tous deux reconnu en contre-interrogatoire avoir reçu des demandes péremptoires de l’Agence du revenu du Canada (l’« ARC ») et ont tous deux affirmé avoir transmis les demandes à leurs conseillers professionnels et ne pas avoir examiné les réponses.
+B. M. Paul Bleiwas
+[39] M. Bleiwas a témoigné qu’il avait fourni des conseils concernant le plan à MPI et DIL et que Earl Miller, un autre associé de G&C à l’époque, était la principale personne-ressource pour les autres appelantes.
+[40] La principale personne-ressource de M. Bleiwas du côté de WTC[8] était Robert J. MacRae, un avocat situé à Vancouver. M. Bleiwas connaissait M. MacRae depuis une année ou deux avant décembre 2006 et il savait qu’il avait pris part à une ou deux opérations similaires réalisées par d’autres avocats de G&C. M. Bleiwas n’a jamais rencontré M. MacRae en personne et n’a communiqué avec lui que par téléphone et par courriel.
+[41] M. Bleiwas a pris connaissance de la participation de Craig Nerland dans WTC en décembre 2006. M. Bleiwas n’a pas rencontré Craig Nerland en personne.
+[42] M. Bleiwas a témoigné que G&C a présenté le plan aux appelantes peu de temps après que les accords de vente des terres agricoles eurent été signés par les sociétés en nom collectif en décembre 2005.
+[43] Au cours de son interrogatoire principal et de son contre-interrogatoire, M. Bleiwas a fourni une explication pour certaines des opérations composant le plan.
+[44] MCI a été constituée en société et la participation de MPI dans la société Irber II Partnership a été transférée aux filiales parce que WTC exigeait que la société achetée (c.-à-d. MCI) soit une société à but unique avec uniquement des actifs liquides ou presque liquides. MPI ne répondait pas à ce critère, car elle avait d’autres actifs.
+[45] Le 28 décembre 2006, avant la vente des actions de MCI à WTC, le capital déclaré des actions de MCI a été augmenté de 3 053 000 $ pour atteindre 3 336 643 $ par une série de résolutions spéciales prises par MPI en sa qualité d’actionnaire unique de MCI. L’augmentation du capital déclaré a donné ouverture à un dividende imposable proportionnel et à une augmentation du prix de base rajusté de MPI[9] dans les actions qu’elle détient dans MCI. M. Bleiwas a qualifié cette opération de technique standard de prévente.
+[46] Le 29 décembre 2006, M. Naiberg a démissionné de son poste d’administrateur unique de MCI et MPI a choisi Craig Nerland pour le remplacer. M. Bleiwas a témoigné que WTC avait insisté pour que cette étape lui permette de conclure [traduction] « une sorte d’entente avec la société [MCI] pour que leur planification fonctionne »[10].
+[47] M. Bleiwas a déclaré qu’il avait obtenu l’avis des conseillers juridiques de MPI (c.-à-d. d’autres avocats de G&C) et qu’il croyait que la principale raison pour laquelle l’entente était acceptable pour eux était que MPI pouvait remettre les actions de MCI à WTC deux jours plus tard [traduction] « de sorte que ce que les administrateurs ont fait ou n’ont pas fait pendant cette courte période n’avait pas vraiment d’importance »[11].
+[48] M. Bleiwas a témoigné que la stipulation de MPI dans l’accord de vente d’actions avec WTC concernant les actifs de MCI a été modifiée à la dernière minute pour repléter le fait que MCI disposait de liquidités et d’une créance interentreprises plutôt que de simples liquidités. M. Bleiwas a expliqué que la pratique bancaire de MPI consistait à consolider ses liquidités investissables et que, pour ce faire, une partie importante des liquidités provenant de la vente des terres agricoles avait été prêtée par la société Irber II Partnership à MHI. M. Bleiwas l’a qualifiée de [traduction] « pratique bancaire très courante pour eux »[12]. Il pense que la créance n’a pas été reconvertie en espèces avant la vente de MCI car cela aurait fait jouer une pénalité sur le dépôt à terme.
+[49] En ce qui concerne le montant de la créance interentreprises, M. Bleiwas a témoigné que MPI était au courant du prix d’achat à payer pour les actions de MCI et que les 767 000 $ restant en espèces représentaient environ 54 % de la dette fiscale de 1 302 731 $ de MCI en raison de la vente des terres agricoles[13].
+[50] M. Bleiwas a témoigné que les conditions financières ont été fixées par WTC dès le départ et que l’accord a été présenté à MPI en fonction du principe « à prendre ou à laisser ». Toute négociation qui a eu lieu ne concernait que le calendrier des opérations.
+[51] Lors du contre-interrogatoire, M. Bleiwas a témoigné qu’il était évident que WTC devrait faire quelque chose au sein de MCI pour réduire la dette fiscale de MCI, mais qu’il ne savait pas précisément ce que c’était. Il a également affirmé que G&C n’avait pas fourni d’avis fiscal écrit à MPI, que les opérations n’avaient rien de controversé et que les conseils donnés verbalement n’étaient ni longs ni compliqués. Il a qualifié les étapes de transfert libre d’impôt, une répartition des revenus de la société, une augmentation du capital déclaré et une vente d’actions.
+[52] Il a été demandé à M. Bleiwas s’il y avait une contrepartie à la créance de 3 253 687 $ détenue par MCI que celle-ci a cédée à WTC le 31 décembre 2006. M. Bleiwas a déclaré qu’il ne lui appartenait pas de savoir s’il y avait une contrepartie pour cette cession, mais il a noté que l’ECPF indiquait que cette cession était comptabilisée comme un prêt de MCI à WTC. L’alinéa x) de l’ECPF stipule que le total de la créance et de la somme de 83 603 $ (c’est-à-dire 3 337 723 $ – le montant du prix d’achat payé par WTC à MPI) a été enregistré comme créance de MCI à l’annexe 100 de ses déclarations de revenus T2 pour les années 2007 à 2012.
+[53] Lorsque l’avocat de l’intimée lui a demandé de se reporter à la cession exécutée par MCI en faveur de WTC (onglet 25 du dossier AR-1) et à la cession effectuée par WTC en faveur de MPI (onglet 27 du dossier AR-1), et à l’absence de toute mention de contrepartie dans la première cession, M. Bleiwas a affirmé : [traduction] : « Eh bien, le but de cette cession n’est pas d’étayer l’ensemble de l’entente concernant la créance. Ce n’est qu’une cession. Il s’agit simplement d’une directive donnée aux parties pour qu’elles agissent. Ce n’est pas un contrat complet, si vous voulez »[14]. M. Bleiwas a également affirmé qu’il ne pensait pas qu’il était important que WTC donne une contrepartie à MCI pour la créance.
+C. M. David Steinberg
+[54] M. Steinberg a témoigné qu’en 2006, son cabinet comptable de l’époque, RSM Richter LLP, était le comptable de MPI et de la société Irber II Partnership.
+[55] M. Steinberg a témoigné que M. Bleiwas lui a fait part des étapes pertinentes de l’opération dans un courriel daté du 19 décembre 2006 et qu’il a fourni divers numéros à M. Bleiwas dans un courriel daté du 20 décembre 2006[15].
+[56] Le personnel comptable de RSM Richter LLP a préparé un projet d’états financiers pro forma pour MCI pour la période du 10 janvier 2006 au 31 décembre 2006[16]. L’avis au lecteur est daté du 20 décembre 2006 et indique que les projets d’états financiers se fondent sur les renseignements fournis par la direction. M. Steinberg a affirmé qu’il n’avait eu aucune communication avec WTC ou M. MacRae avant la clôture le 31 décembre 2006.
+[57] M. Steinberg a témoigné qu’en 2007, on lui a demandé de préparer et de produire les déclarations de revenus de MCI pour son année d’imposition 2006, mais qu’il a refusé parce que MCI n’était plus un client de RSM Richter LLP à la suite de la vente à WTC. Il a plutôt fourni le numéro d’entreprise de MCI et divers autres renseignements à M. MacRae[17]. M. Steinberg a témoigné qu’il n’avait pas eu d’autres communications avec M. MacRae et qu’il ne détenait aucune information concernant les opérations de MCI effectuées par WTC.
+D. M. Craig Nerland
+[58] M. Craig Nerland a obtenu le titre de comptable agréé en 1977. Vers 1986, M. Nerland a quitté la pratique publique en tant que comptable agréé et a commencé à travailler dans d’autres domaines, notamment pendant deux ans à Revenu Canada. De 2005 à 2017, M. Nerland a été le contrôleur d’un groupe de cabinets d’architectes en Colombie-Britannique.
+[59] M. Nerland a témoigné qu’en 2005, il avait été pressenti par son frère, Philip Gordon Nerland, pour agir en tant qu’administrateur de diverses sociétés, dont WTC, qui faisaient l’acquisition de logiciels. En échange, il a reçu une rémunération pour ses services. M. Nerland a témoigné que son frère travaillait avec un avocat fiscaliste de Vancouver appelé Robert MacRae.
+[60] Lors de son contre-interrogatoire, M. Nerland a affirmé qu’il n’était pas un administrateur « touche-à-tout », qu’il ne participait pas aux opérations quotidiennes de WTC et que ses fonctions consistaient à [traduction] « examiner les choses qui avaient été faites et à signer les documents qui devaient l’être »[18]. Il a également affirmé qu’il n’était pas un dirigeant de WTC et qu’il ne savait pas qui était dirigeant de WTC.
+[61] M. Nerland a compris que les opérations concernaient l’acquisition de logiciels. Il a témoigné qu’il n’avait aucune connaissance de la manière dont les parties intéressées avaient été désignées ou qui avait dirigé les parties intéressées vers WTC. Il a affirmé que son frère l’avait informé que [traduction] « nous avons une entente fiscale » et que [traduction] « nous avons besoin que tu signes certains documents »[19].
+[62] Il a été demandé à M. Nerland de décrire plus en détail les opérations conclues par WTC. Il a indiqué que WTC a acheté des logiciels de catégorie 12 et a vendu des intérêts dans ces logiciels à d’autres personnes. Lorsqu’on lui a présenté l’ECPF, M. Nerland a reconnu que sa description des opérations était incorrecte et qu’en fait, WTC avait acheté des sociétés dans le cadre d’un accord de vente d’actions. M. Nerland a affirmé qu’il y avait toujours un accord de vente d’actions.
+[63] M. Nerland n’a pas pu se rappeler pourquoi un accord de vente d’actions était nécessaire ou comment le prix d’achat a été déterminé. Il ne connaissait pas non plus la raison pour laquelle les principales modalités de l’accord de vente d’actions avaient été incluses ni pourquoi WTC avait accepté de payer plus que la valeur nette de MCI pour les actions de MCI.
+[64] Il a été demandé à M. Nerland comment WTC a bénéficié des opérations et il a répondu ceci :
+[traduction] Une société, soit les vendeurs des terres agricoles, a donc souhaité trouver un moyen de mettre ses revenus à l’abri. Elle l’a fait. Elle nous a versé de l’argent. Nous avons effectué une série d’opérations, pour lesquelles j’ai reçu un tout petit peu d’argent, mon frère Philip, je suppose, a reçu un peu d’argent, l’avocat a été payé, et ainsi de suite. Le résultat final est que les vendeurs des terres agricoles ont fini par obtenir un abri ou un gain sur la vente de ces terres, et je suppose que c’est ce qu’ils essayaient de faire[20].
+Lorsqu’on lui a demandé pourquoi il était nécessaire d’aller au-delà de la vente des logiciels, M. Nerland a affirmé qu’il ne savait pas et qu’il ne se souvenait pas.
+[65] M. Nerland a affirmé que les sociétés achetées par WTC ont continué d’exister pendant plusieurs années, mais qu’il ne savait pas ce qu’elles étaient devenues. Il a été demandé à M. Nerland ce qui s’est passé entre les parties après l’achat et il a affirmé ce qui suit : [traduction] « Ce qui se passe – je veux dire, les entreprises ont été acquises sous la bannière de Wilshire, et à ma connaissance, l’entreprise, Microbjo dans le cas qui nous intéresse, ou MCI, ce serait la fin de tout cela, à ce que je sache »[21].
+[66] M. Nerland a également affirmé qu’il n’avait pas communiqué avec Michael Naiberg et qu’[traduction] « il n’y a eu aucune communication, pour autant que je m’en souvienne »[22]. M. Nerland a également affirmé qu’il n’avait aucunement pris part aux activités de G&C.
+[67] L’avocat de l’intimée a présenté à M. Nerland une lettre de 2014 qui lui était adressée et dans laquelle l’ARC demandait des renseignements. Après avoir examiné la lettre avec son avocat, M. Nerland a supposé qu’il avait pu être administrateur de 50 sociétés. M. Nerland a affirmé qu’il avait démissionné de son poste d’administrateur de toutes les sociétés en octobre 2014 et qu’il ne savait pas ce qu’il était advenu d’elles après cette date.
+[68] M. Nerland a affirmé qu’il avait envoyé la lettre de l’ARC à Robert MacRae pour [traduction] « [l]’aider à rédiger les réponses à M. Lee »[23].
+[69] M. Nerland a été interrogé à l’égard de Securitas Video Corp (« Securitas ») et sur les logiciels achetés par MCI auprès de Securitas. Il a affirmé qu’il ne savait rien de Securitas, des logiciels ou de ce qu’elle faisait.
+[70] On a demandé à M. Nerland s’il y avait des paiements faits à Securitas pour les logiciels. M. Nerland a répondu qu’il ne se souvenait d’aucun paiement sur les billets à ordre faits à Securitas et que les intérêts sur les billets étaient courus, mais non versés. Lorsqu’on lui a demandé s’il y avait eu des paiements autres que par billet à ordre, il a déclaré qu’il n’y avait pas eu de paiements en espèces et que tout autre paiement aurait été effectué par chèque sur le compte en fidéicommis de l’avocat, car MCI n’avait pas de compte bancaire.
+[71] Il a été demandé à M. Nerland s’il pouvait [traduction] « nous dire quoi que ce soit sur [... NG Global Marketing Corp. » Il a déclaré qu’il ne pouvait pas[24]. M. Nerland n’avait pas non plus connaissance de l’accord de services de marketing conclu avec NG Global Marketing Corp. (« NG Global »), si ce n’est que NG Global avait accepté de commercialiser les logiciels à l’échelle mondiale. Il a affirmé qu’il n’avait pas vu les accords de services de marketing.
+[72] M. Nerland a affirmé qu’il ne savait pas si NG Global avait déjà fourni des services de marketing. Il a également déclaré qu’il ne se souvenait pas qu’un rapport de marketing ait été préparé, alors que le contrat de service exigeait le dépôt de rapports annuels.
+[73] M. Nerland a été interrogé sur la déclaration de revenus de 2006 déposée par MCI. M. Nerland a reconnu qu’il avait signé la déclaration et qu’il était la personne-ressource nommée sur la déclaration. Cependant, il a déclaré que c’est un cabinet comptable de Vancouver qui a préparé la déclaration. M. Nerland a affirmé qu’il examinait la déclaration de MCI et d’autres déclarations pour confirmer que la société n’avait pas de dette fiscale.
+[74] M. Nerland a témoigné qu’il était convaincu qu’il n’était pas personnellement responsable du fait qu’il était administrateur de WTC, car l’entreprise n’avait pas d’employés ni de ventes susceptibles de l’assujettir à la TPS. M. Nerland a également affirmé qu’il ne pensait pas que WTC exerçait de quelconques activités, mais qu’il ne s’en souvenait pas[25]. M. Nerland ne sait pas pourquoi la déclaration de revenus de 2006 de MCI a été déposée le 16 novembre 2009.
+[75] Il a été demandé à M. Nerland pourquoi M. Naiberg a démissionné de son poste d’administrateur et de dirigeant de MCI le 29 décembre 2006 et pourquoi il a été élu administrateur à cette même date. Il a répondu que c’était parce que son frère lui avait demandé de devenir administrateur dans le but d’effectuer les opérations. Il a fourni la même réponse quant à la raison pour laquelle il a été nommé président et secrétaire de MCI.
+[76] Il a été demandé à M. Nerland qui a signé le contrat d’achat des logiciels avec Securitas. M. Nerland a affirmé qu’il ne savait pas, qu’à sa connaissance, il n’avait jamais rencontré quelqu’un de Securitas et qu’il n’avait participé à aucune négociation concernant l’accord. Il pensait que son frère avait défini les modalités de l’accord. M. Nerland a affirmé qu’il avait rencontré un particulier des îles Vierges britanniques, présenté comme un ami de son frère et qui, selon lui, pourrait être à l’origine des diverses sociétés étrangères.
+[77] M. Nerland a également affirmé qu’il ne pensait pas qu’une quelconque compensation pour l’achat des logiciels ait changé de main, à l’exception du billet à ordre de 8,1 millions de dollars. Il ne sait pas si MCI a gagné de l’argent avec les logiciels, mais il a affirmé qu’il n’avait aucune raison de croire que les états financiers de 2007 à 2012 qui montraient un revenu nul étaient incorrects.
+[78] Il a été demandé à M. Nerland si la cession par MCI à WTC de la créance de 3,253 millions de dollars due par MHI à MCI était à titre onéreux et M. Nerland a déclaré qu’il ne s’en souvenait pas. M. Nerland a également été interrogé sur deux accords de refinancement de la dette datés du 31 janvier 2007 – l’un conclu par MCI et l’autre par 471 – qui indiquaient que des paiements avaient été effectués sur les 8,1 millions de dollars de billets à ordre pour l’achat des logiciels, mais il a affirmé qu’il ne savait pas d’où venaient les paiements et qu’il ne se souvenait pas pourquoi ces accords étaient nécessaires.
+[79] On a interrogé M. Nerland au sujet d’un contrat d’achat de logiciels daté du 30 mai 2007, conclu par MCI, qui indiquait que MCI avait vendu ses intérêts dans les logiciels achetés auprès de Securitas à une société à numéro pour 9 millions de dollars[26]. M. Nerland n’avait aucune explication et aucun souvenir de la vente ou de l’absence de tout changement dans les états financiers de MCI correspondant à la vente. Il ne sait pas non plus pourquoi cette vente n’a pas été déclarée dans la déclaration de revenus T2 de MCI en 2007.
+E. Mme Helen Mallovy Hicks
+[80] Mme Helen Mallovy Hicks a témoigné en ce qui a trait à la juste valeur marchande, au 31 décembre 2006, des actions détenues par les appelantes dans les filiales, sans tenir compte des opérations effectuées dans les filiales par WTC après le 29 décembre 2006.
+[81] Mme Mallovy Hicks a estimé que sur les trois méthodes d’évaluation possibles, l’approche fondée sur la valeur des actifs était la plus appropriée dans les circonstances. Cette approche a donné une valeur médiane pour les actions de chaque filiale essentiellement égale à l’argent liquide, ou à l’argent liquide et aux créances, détenu par la filiale particulière moins la dette fiscale de la filiale résultant de la vente des terres agricoles[27].
+[82] Les évaluations de Mme Mallovy Hicks ont également pris en compte la valeur des créances interentreprises détenues par MCI et une autre filiale et ont conclu que la valeur de ces créances était égale à leur valeur nominale.
+[83] L’intimée n’a pas contesté le témoignage de Mme Mallovy Hicks.
+IV. Les thèses des parties
+A. La thèse des appelantes
+[84] Les appelantes contestent l’exactitude des évaluations des années d’imposition 2006 des filiales. La dette fiscale des filiales pour l’année d’imposition n’a pas été établie par l’intimée parce que celle-ci a omis d’appeler le vérificateur de l’ARC et de présenter le fondement sur lequel l’ARC a établi les cotisations.
+[85] Si les filiales sont jugées responsables de l’impôt établi par le ministre pour leurs années d’imposition 2006, trois des quatre conditions d’application du paragraphe 160(1) aux appelantes ne sont pas remplies. Plus précisément, il n’y a pas eu de transfert de biens des filiales aux appelantes, directement ou indirectement, de quelque manière que ce soit, les appelantes n’avaient aucun lien de dépendance avec WTC au moment de tout transfert de biens pouvant être retracé jusqu’aux filiales, et les appelantes ont donné une contrepartie pour ces biens égale à leur valeur.
+[86] En ce qui concerne l’application de la RGAÉ, l’avantage fiscal allégué par l’intimée suppose l’application du paragraphe 160(1). Le défendeur ne peut pas requalifier la série d’opérations pertinentes pour établir l’existence d’un avantage fiscal.
+[87] Toutefois, si l’on conclut à l’existence d’un avantage fiscal, les seules opérations pertinentes pour déterminer si cet avantage a profité aux appelantes sont celles qui ont débuté par la constitution des filiales et qui se sont terminées par le paiement par WTC du prix d’achat des actions détenues par les appelantes dans les filiales.
+[88] L’intimée ne peut pas requalifier la série pertinente pour faire entrer les opérations dans le champ d’application du paragraphe 160(1) et soutenir sur ce fondement qu’un avantage fiscal a été accordé aux appelantes. Si, compte tenu d’une interprétation textuelle, contextuelle et téléologique du paragraphe 160(1), celui-ci ne s’applique pas aux appelantes, aucun avantage fiscal ne peut leur être accordé en raison de la non-application du paragraphe 160(1) aux opérations pertinentes.
+[89] Bien qu’il ait pu y avoir des avantages fiscaux à la suite de la série d’opérations pertinentes, comme la réduction du gain en capital sur la vente des actions des filiales à WTC en raison de l’augmentation du capital déclaré effectuée avant la vente, l’intimée n’a décelé aucun avantage autre que la non-application du paragraphe 160(1).
+[90] L’intimée ne peut pas requalifier la série pertinente pour établir l’existence d’une opération d’évitement. La série en question a été conclue à des fins non fiscales de bonne foi : réaliser un gain financier sur la vente des actions des filiales. Toute dette fiscale n’existait que dans les filiales et on ne peut donc pas dire que les appelantes ont mis en œuvre ou organisé les séries en question afin d’obtenir un avantage fiscal.
+[91] Dans le cas où la Cour conclue à l’existence d’un avantage fiscal et d’une opération d’évitement, il n’y a pas eu d’abus. Le fait que l’article 160 ne s’appliquait pas aux appelantes n’est pas en soi suffisant pour conclure à un abus. Le libellé du paragraphe 160(1) est concluant quant à la raison d’être de la disposition. Les appelantes n’ont pas abusé des dispositions de la LIR sur lesquelles elles se sont appuyées pour effectuer les opérations pertinentes et le paragraphe 160(1) a eu l’effet escompté comme tenu de sa raison d’être.
+B. La thèse de l’intimée
+[92] L’intimée soutient qu’il ne lui incombe pas de vérifier l’exactitude des cotisations établies à l’égard des années d’imposition 2006 des filiales. Aux termes de l’accord de vente d’actions, les appelantes auraient pu examiner les déclarations de revenus de 2006, mais ont choisi de ne pas le faire. Quoi qu’il en soit, l’intimée soutient que, compte tenu de la preuve de ce qui s’est passé dans les filiales après le 29 décembre 2006, les filiales ne pouvaient pas demander de déduction pour amortissement pour leur année d’imposition 2006 parce qu’elles ne satisfaisaient pas à l’exigence de l’alinéa 1102(1)c) du Règlement de l’impôt sur le revenu (le « RIR »), qu’elles ne satisfaisaient pas aux exigences du paragraphe 13(24) de la LIR ou que les logiciels acquis par les filiales n’étaient pas disponibles aux fins d’utilisation à la fin de 2006.
+[93] En ce qui concerne le paragraphe 160(1), l’intimée fait valoir que toutes les conditions de son application aux appelantes ont été remplies.
+[94] Le paragraphe 160(1) exige que les filiales aient transféré des biens directement ou indirectement, de quelque manière que ce soit. Compte tenu de la portée large des mots « biens » et « transfert », pour qu’il y ait transfert de biens au sens de la disposition, il suffit que l’auteur du transfert traite des biens de manière à s’en dessaisir et à les attribuer au bénéficiaire du transfert. Le transfert peut être direct ou détourné. En l’espèce, les filiales ont indirectement transféré des biens – des espèces ou des espèces et une créance – aux appelantes par l’intermédiaire de WTC.
+[95] Le paragraphe 160(1) exige que le montant qui peut faire l’objet d’une cotisation en vertu de la disposition soit réduit de la contrepartie donnée pour le bien. L’expression « contrepartie donnée », lorsqu’elle est interprétée conformément à l’approche préconisée par la Cour suprême du Canada, doit, dans le présent contexte factuel, signifier « contrepartie donnée à l’auteur du transfert », car toute autre interprétation irait à l’encontre de l’objet du paragraphe 160(1) en permettant aux filiales de s’appauvrir au détriment de l’ARC. Les filiales ont transféré des biens à WTC sans contrepartie.
+[96] Il n’existe aucune preuve de l’existence d’un prêt entre les filiales et WTC autre que les déclarations de revenus déposées par les filiales, et la déclaration de 2006 n’a été déposée que tardivement en 2009. Si, toutefois, un prêt existait, il s’agissait d’une imposture, car WTC et les filiales n’avaient aucunement l’intention que le montant du prêt soit remboursé. Par ailleurs, les prêts des filiales à WTC n’avaient aucune valeur, car, compte tenu des conditions des prêts et de l’identité du débiteur, aucune personne sans lien de dépendance ne paierait pour ces prêts.
+[97] Les appelantes et les filiales n’avaient aucun lien de dépendance au moment du transfert. Les appelantes ont dirigé les opérations pertinentes pour les filiales et ces dernières n’ont agi dans leur propre intérêt à aucun moment des négociations. Les appelantes et les filiales ont agi de concert pour transférer indirectement les actifs des filiales aux appelantes. Les négociations conduisant à la planification, à la mise en œuvre et à la gestion d’un intérêt commun ne transforment pas ces négociations en preuve d’intérêts indépendants. Même si le contrôle effectif des filiales a été transféré à WTC avant le transfert, les appelantes ont contrôlé l’exercice de l’option de vente et ont forcé l’exécution des opérations préétablies. Enfin, les appelantes et WTC ont agi de concert pour ordonner aux filiales de transférer indirectement leurs actifs aux appelantes. Par conséquent, les appelantes, WTC et les filiales avaient des liens de dépendance.
+[98] En ce qui concerne la RGAÉ, la série pertinente d’opérations commence avec la constitution en société des filiales et se termine avec la clôture de la vente des actions des filiales par les appelantes à WTC (c.-à-d. que la série pertinente est telle que désignée par les appelantes).
+[99] L’existence d’un avantage fiscal peut être établie par comparaison avec une autre opération. En l’espèce, l’autre opération qui aurait pu raisonnablement être réalisée sans l’existence de l’avantage fiscal est une distribution des actifs des filiales aux appelantes sous forme de dividende.
+[100] Le ministre peut supposer les faits qui donnent ouverture à l’existence d’une opération d’évitement et il incombe à l’appelante de démontrer que les hypothèses de fait ne sont pas exactes. Les appelantes ne se sont pas acquittées de leur fardeau de démontrer que l’objectif principal des opérations suivantes était d’éviter l’assujettissement à l’impôt des filiales en vertu du paragraphe 160(1)[28] :
+A. La constitution en société des filiales.
+B. Le transfert des participations des appelantes dans les sociétés en nom collectif aux filiales à titre de transfert libre d’impôt aux termes du paragraphe 85(1) de la LIR.
+C. L’augmentation du capital social des actions des filiales détenues par les appelantes.
+D. La conclusion des accords de vente d’actions le 29 décembre 2006.
+E. L’exercice de l’option de vente par les appelantes le 31 décembre 2006.
+F. La cession des biens des filiales à WTC.
+G. La cession des biens reçus des filiales aux appelantes en paiement du prix d’achat des actions des filiales.
+[101] Pour que la RGAÉ s’applique, la ou les opérations d’évitement donnant ouverture à l’avantage fiscal doivent être abusives. Une opération d’évitement est abusive lorsqu’elle produit un résultat que les dispositions législatives visent à exclure, est contraire à la raison d’être des dispositions ou contourne l’application des dispositions de manière contraire à leur objet ou à leur esprit. Le caractère abusif d’une opération d’évitement ne se révèle alors que dans le contexte de la série dans laquelle elle s’inscrit et à la lumière de l’effet global obtenu.
+[102] En l’espèce, l’effet global des opérations pertinentes est que les filiales ont transféré des biens aux appelantes d’une manière qui va à l’encontre de l’objet, ou de la raison d’être sous-jacente, du paragraphe 160(1), qui est d’empêcher les filiales d’épuiser, par des transferts à des personnes ayant un lien de dépendance, les actifs disponibles pour payer l’impôt auquel les filiales sont redevables en raison de la vente des terres agricoles.
+V. Analyse
+[103] Dans l’arrêt Eyeball Networks Inc. c. Canada[29], le juge en chef Noël résume comme suit l’application et l’objet du paragraphe 160(1) :
+Le paragraphe 160(1) dispose que, dans le cas d’un transfert de biens entre personnes ayant un lien de dépendance, le bénéficiaire et l’auteur du transfert sont solidairement responsables de toute somme payable par l’auteur du transfert en application de la Loi pour l’année d’imposition au cours de laquelle le transfert a eu lieu et les années précédentes. Aux termes de l’alinéa 160(1)e), le bénéficiaire du transfert est responsable du paiement jusqu’à concurrence de l’excédent de la juste valeur marchande des biens transférés sur la juste valeur marchande de la contrepartie offerte...
+. . .
+Comme le confirme notre Cour, le paragraphe 160(1) a pour objet de supprimer pour le fisc toute vulnérabilité découlant d’un transfert de biens entre personnes ayant un lien de dépendance fondé sur une contrepartie inférieure à la juste valeur marchande des biens transférés [...][30]…
+[104] Conformément au résumé que fait le juge en chef Noël de l’application du paragraphe 160(1), il peut être disjoint en deux parties. La première partie, qui comprend les mots avant le passage intercalaire (c.-à-d. avant les mots « les règles suivantes s’appliquent »), détermine les conditions qui doivent être remplies pour que le paragraphe s’applique. La deuxième partie, qui comprend les mots après le passage intercalaire, expose les règles qui s’appliquent lorsque les conditions de la première partie sont remplies. Je renverrai à ces deux parties comme étant la « première partie » et la « seconde partie ».
+[105] L’intimée affirme, à l’égard des appelantes, que les conditions de la première partie sont remplies dans le cadre des présents appels. Les appelantes rétorquent que trois des quatre conditions ne sont pas remplies.
+[106] Lors des débats, les parties ont qualifié la question de savoir si le bénéficiaire du transfert a fourni une contrepartie à sa juste valeur marchande de condition d’application du paragraphe 160(1). Toutefois, compte tenu du texte du passage intercalaire, l’alinéa 160(1)e) n’est pas une condition d’application du paragraphe, mais l’une des règles qui s’appliquent si les conditions de la première partie sont remplies.
+[107] Par conséquent, les questions soulevées par les thèses des parties sont de savoir si les événements en cause relèvent de la première partie et, dans l’affirmative, quelles sont les conséquences pour les appelantes en vertu de la seconde partie. Voilà qui appelle l’interprétation des deux parties du paragraphe 160(1).
+[108] Il va sans dire que le paragraphe 160(1) doit être interprété conformément à l’approche moderne en matière d’interprétation des lois professée par la Cour suprême du Canada. La Cour suprême a récemment réitéré la bonne approche dans l’arrêt Bell Canada c. Canada (Procureur général), 2019 CSC 66 :
+L’étendue du pouvoir conféré au CRTC doit être déterminée en interprétant cette disposition conformément à la démarche moderne d’interprétation des lois. Comme l’a maintes fois répété notre Cour, conformément à cette démarche, les termes d’une loi doivent être lus [traduction] « dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » (E. A. Driedger, Construction of Statutes (2e éd. 1983), p. 87, cité dans Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, par. 21, et plus récemment dans R. c. Barton, 2019 CSC 33, [2019] 2 R.C.S. 579, par. 71)[31].
+[109] Dans l’arrêt Canada (Procureur général) c. Utah[32], le juge Stratas souligne la nécessité d’interpréter les lois de façon neutre, objective et sans parti pris :
+Nous déterminons le sens véritable de l’alinéa 3(1)a) en prenant le sens ordinaire de ses termes, en les examinant dans leur propre contexte et en prenant à l’esprit l’objet de la disposition visée : [citations omises]. Nous le faisons de façon neutre, objective et sans parti pris [citations omises][33].
+[110] Dans l’arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54 (« Hypothèques Trustco Canada »), la Cour suprême a donné les indications supplémentaires suivantes concernant expressément l’interprétation de la LIR :
+... L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+En raison du principe du duc de Westminster (Commissioners of Inland Revenue c. Duke of Westminster, [1936] A.C. 1 (H.L.)), selon lequel le contribuable a le droit d’organiser ses affaires de façon à réduire au maximum l’impôt qu’il doit payer, le droit fiscal canadien a reçu une interprétation stricte à une époque où l’interprétation littérale des lois était plus courante qu’aujourd’hui. De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent[34].
+[111] La dernière phrase de la citation ci-dessus dans Hypothèques Trustco Canada peut être reformulée comme suit aux fins des présentes : « lorsque le législateur précise les conditions à remplir pour qu’une disposition législative s’applique, il est raisonnable de supposer qu’il avait l’intention que les contribuables se fondent sur ces conditions pour déterminer si la disposition s’applique à eux ». La question en litige dans les présents appels est de savoir quelles sont précisément les conditions de la première partie qui doivent être remplies pour que la seconde partie s’applique aux appelantes?
+[112] La partie pertinente du préambule est la suivante :
+Lorsqu’une personne a [...] transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes : [. . .] une personne avec laquelle elle avait un lien de dépendance[35]…
+[113] Dans le préambule figure le mot « personne »[36] trois fois. Selon le sens grammatical et ordinaire du texte, la première référence est celle d’une personne qui a transféré un bien (l’« auteur du transfert »), la seconde référence à une personne à qui le bien a été transféré (le « bénéficiaire du transfert ») et la troisième référence vise à nouveau l’auteur du transfert. Le contexte et l’objet du paragraphe 160(1) ne n’appellent pas un sens différent.
+[114] Pour l’année d’imposition en cause, le paragraphe 248(1) définissait le mot « biens » comme suit :
+« biens » Biens de toute nature, meubles ou immeubles, corporels ou incorporels, y compris, sans préjudice de la portée générale de ce qui précède :
+a) les droits de quelque nature qu’ils soient, les actions ou parts;
+b) à moins d’une intention contraire évidente, l’argent;
+c) les avoirs forestiers;
+d) les travaux en cours d’une entreprise qui est une profession libérale.
+[115] La définition de « biens » utilise en anglais le mot « means », de sorte que la définition est donc déterminante pour le sens du mot aux fins de la LIR. En ce qui concerne l’alinéa b) de la définition, rien dans le texte, le contexte ou l’objet du paragraphe 160(1) ne permet d’inférer que le mot « biens » dans cet alinéa ne visait pas à inclure des sommes d’argent.
+[116] Les biens concernés dans les présents appels sont les espèces, ou les espèces et la créance, détenues par les filiales le 29 décembre 2006 lorsque les accords de vente d’actions ont été signés[37]. Je désignerai ces espèces, ou ces espèces et cette créance, comme étant les « biens ». Aux fins de l’analyse requise par le préambule, je ne vois pas la nécessité de faire une distinction entre les espèces, et les espèces et les créances, détenues par les filiales, puisque la preuve d’expert appuie la conclusion que les créances avaient une valeur non inférieure à leur valeur nominale.
+[117] Le premier point de controverse majeur par rapport au préambule est de savoir si les biens ont été transférés par les filiales, directement ou indirectement, par l’intermédiaire d’une fiducie ou par tout autre moyen, aux appelantes. Les appelantes disent qu’il n’en était rien, alors que l’intimée dit que c’était le cas.
+[118] Dans l’arrêt Eyeball Networks, le juge en chef Noël fait remarquer que « le concept de la “série d’opérations” est étranger à l’application du paragraphe 160(1) »[38], mais que le libellé du préambule « vise toutes les formes de transferts, y compris ceux qui résultent de l’effet combiné de multiples opérations, que ces dernières soient prédéterminées ou non »[39].
+[119] La jurisprudence qui a interprété le mot « transfert » a donné à ce mot un sens large. Dans l’arrêt David Fasken Estate c. Minister of National Revenue, [1948] Ex CR 580 (« Fasken Estate »), le président Thorson a observé aux pages 591 et 592 :
+[traduction]
+La question suivante est de savoir s’il y a eu un transfert de ces biens de David Fasken à son épouse. Le mot « transfert » est un autre mot qui a une signification très large. Le New English Dictionary en donne cette signification :
+2. Droit. Transférer ou transmettre (un titre, un droit ou un bien) par un acte ou par une procédure légale.
+Et le Webster’s New International Dictionary, deuxième édition, dit ceci :
+2. Transférer la possession ou le contrôle d’un bien, effectuer un transfert; passer; transmettre, comme un droit, d’une personne à une autre; par exemple, le titre de propriété d’un terrain est transféré par un acte.
+Dans l’arrêt Gathercole c. Smith, le juge James a parlé du mot « transfert » comme étant « l’un des termes les plus larges qui puissent être utilisés » et le juge Lush a affirmé, à la page 9 :
+Le mot « transférable », j’abonde dans le sens du lord juge James, est un mot de la plus grande portée et comprend tous les moyens par lesquels le bien peut être transmis d’une personne à une autre.
+Le mot « transfert » n’est pas un terme consacré et n’a pas de sens technique. Il n’est pas nécessaire qu’un transfert de biens d’un mari à sa femme revête une forme particulière ou qu’il soit fait directement. Il suffit que le mari se départisse [sic] des biens en faveur de son épouse, c’est-à-dire qu’il lui cède les biens. Le moyen par lequel il parvient à ce résultat, que ce soit directement ou indirectement, peut à juste titre être appelé un transfert.
+[Non souligné dans l’original.]
+[120] Dans le préambule, le mot « transfert » est suivi des mots « directement ou indirectement, au moyen d’une fiducie ou de toute autre façon ». Dans l’arrêt Eyeball Networks, le juge en chef Noël fait remarquer que « cet énoncé liminaire rédigé en termes généraux vise à élargir la notion de transfert »[40].
+[121] Bien qu’il soit indubitablement large, le sens de l’expression « directement ou indirectement, au moyen d’une fiducie ou de toute autre façon » n’est pas illimité, mais est assujetti à des limites raisonnables. Dans l’arrêt R. c. Hinchey, [1996] 3 RCS 1128, la juge L’Heureux-Dubé observe :
+Je ne suis pas d’accord pour dire que l’expression «de quelque nature» était destinée à élargir la portée de l’alinéa. L’expression utilisée n’était pas censée signifier «de quelque montant que ce soit» ou «de quelque valeur que ce soit», si bien que la personne à qui l’on offre une tasse de café serait visée par l’alinéa. Au contraire, je crois que l’intention réelle du législateur en ajoutant les termes «de quelque nature» était d’englober diverses formes de bénéfices et non pas de prévoir que constitue un acte criminel le fait d’accepter des bénéfices de quelque valeur que ce soit...
+. . .
+Je crois que l’analyse qui a été faite dans Pezzelato c. The Queen, 96 D.T.C. 1285 (C.C.I.), est fort révélatrice à cet égard. Cette décision concerne l’al. 6(1)a) de la Loi de l’impôt sur le revenu qui vise à déterminer si la personne reçoit des avantages «quelconques qu’[elle] a reçus ou dont [elle] a joui... au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi».
+Même si les faits de l’affaire Pezzelato ne sont pas particulièrement utiles étant donné qu’il s’agissait principalement de déterminer si le bénéfice reçu par l’appelant lui avait été conféré en raison de son emploi, l’analyse pragmatique qu’a faite le juge Bowman de l’expression «avantage quelconque» mérite d’être prise en considération. Je reconnais évidemment qu’étant donné qu’il s’agissait d’une affaire d’impôt, cette décision concerne des principes nettement différents; toutefois, elle est intéressante parce qu’elle indique clairement que l’expression «avantage quelconque» n’a pas une portée illimitée[41]…
+[122] À l’occasion, la jurisprudence a reconnu qu’une formulation ouverte telle que « de toute autre façon » peut avoir une portée limitée. L’arrêt Manrell c. Canada, 2003 CAF 128[42] et la décision Aitchison Professional Corporation c. La Reine, 2018 CCI 131, qui interprètent l’expression « un droit de quelque nature que ce soit », sont de bons exemples de décisions qui imposent une limite raisonnable à un tel libellé ouvert lorsque cette limite est conforme à une analyse textuelle, contextuelle et téléologique de la disposition en cause. L’imposition d’une limite raisonnable à la portée du libellé non limitatif est également conforme à l’objectif d’assurer la certitude, la prévisibilité et l’équité du droit fiscal.
+[123] La question est donc de savoir où se situe la limite raisonnable des mots « transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon »?
+[124] Dans l’arrêt Medland c. Canada, 98 DTC 6358 (CAF) (« Medland »), un particulier effectuait des paiements hypothécaires à une banque qui détenait une hypothèque sur une maison appartenant uniquement à son conjoint. La Cour a examiné les faits et observé dans l’arrêt Fasken Estate :
+Les termes “indirectement [. . .] de [. . .] toute autre façon” figurant dans le paragraphe 160(1) de la Loi renvoient à toute façon détournée dont un bien de quelque nature peut être transmis d’une personne à une autre. En l’espèce, lorsque M. Medland a effectué les paiements au créancier hypothécaire, il a indiqué que cet argent devait être imputé à la réduction de l’emprunt hypothécaire grevant le bien sur lequel il n’avait plus d’intérêt. Bien qu’il soit exact que le paragraphe 160(1) n’emploie pas les mots “ au profit de ” ni “ au nom de ” comme les paragraphes 15(1) ou 74.1(1) ou l’alinéa 224(1.1) [sic] de la Loi, la demanderesse ne nie pas que sa dette a diminué grâce aux paiements et que la valeur nette de son bien a augmenté. La façon d’obtenir ce résultat consistait à verser des montants à la Banque que celle-ci imputait à un emprunt hypothécaire grevant une maison dont la demanderesse était l’unique propriétaire. Le paiement à la Banque n’était qu’un moyen pour transmettre les fonds indirectement du mari à la demanderesse.
+L’argument de la demanderesse portant qu’il n’y a pas eu transfert de biens parce que M. Medland s’est départi d’argent et que ces sommes n’ont jamais été transférées [physiquement] à la demanderesse est sans fondement. La façon de procéder en l’espèce, bien qu’elle diffère de celles en cause dans les affaires Sa Majesté la Reine c. Kieboom et White (D.P.) c. Canada, mène au même résultat[43].
+[125] En ce qui concerne l’affaire Kieboom c. La Reine, [1992] 2 C.T.C. 59 #2 (CAF) (Kieboom), M. Kieboom possédait neuf actions ordinaires d’une société et son épouse une action ordinaire. Aucune autre action n’était en circulation. Après la création d’une nouvelle catégorie d’actions ordinaires (les actions ordinaires de catégorie A), le conjoint a acquis huit de ces actions pour une contrepartie nominale, ce qui était bien inférieur à leur juste valeur marchande. Cela a eu pour effet de faire passer la participation au capital de la société d’une proportion de 90-10 en faveur de M. Kieboom à une proportion de 50-50.
+[126] La question examinée par la Cour d’appel qui nous intéresse en l’espèce est de savoir si M. Kieboom avait « transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon, à son épouse » de sorte qu’une règle d’attribution s’appliquait.
+[127] La Cour d’appel a passé en revue la jurisprudence interprétant les mots « transfert » et « biens » et a ensuite observé :
+Ainsi donc, en l’espèce, le contribuable a transféré un bien à sa femme en lui donnant une partie de sa participation dans sa compagnie. La participation de 40 % du capital-actions de sa compagnie qu’il a donné à sa femme constituait de toute évidence un bien. Sa participation dans sa compagnie a été réduite de 40 % et celle de sa femme a été augmentée de 40 %. Le fait qu’il a réalisé ce transfert de bien en faisant émettre des actions par sa compagnie ne fait pas de différence. Le paragraphe 74(1) s’applique aux transferts qui sont faits “directement ou indirectement” ou “par tout autre moyen que ce soit”. Le transfert, qui en l’espèce était indirect, étant donné que le contribuable a pris des dispositions pour que sa compagnie émette des actions à sa femme, constitue néanmoins un transfert du mari à la femme. Il n’est pas nécessaire qu’il y ait un transfert d’actions pour déclencher l’application de cette disposition de la Loi, comme le juge de la Cour de l’impôt l’a conclu à tort. Par ce transfert de bien à sa femme, le contribuable s’est départi de certains droits de recevoir des dividendes, si des dividendes étaient déclarés. Ainsi, lorsque les dividendes ont été distribués à sa femme en 1982, il s’agissait d’un revenu qui provenait du bien transféré et qui était à juste titre attribuable au contribuable.
+En outre, le bien transféré à Mme Kieboom en 1980 représentait une partie de la participation du contribuable. À la suite du transfert, la participation de 40 % du contribuable a été transférée à Mme Kieboom[44]…
+[Non souligné dans l’original.]
+[128] À mon avis, la jurisprudence Kieboom est le point culminant de ce qui constitue un transfert de bien d’une personne à une autre[45]. La participation de M. Kieboom dans une société a été diluée et la participation de son épouse dans la même société a été augmentée parce que M. Kieboom a « pris des dispositions » pour que la société émette huit actions ordinaires de catégorie A à Mme Kieboom.
+[129] Deux aspects de la conclusion de la Cour sont à noter.
+[130] Tout d’abord, la Cour constate que M. Kieboom a « pris des dispositions » pour que les opérations constituent le transfert du bien de lui-même à son épouse. À mon avis, il s’agit d’un résumé de ce qui s’est passé et non d’une condition dans le préambule. Les mots « une personne a : [...] transféré des biens [. . .] » appellant une détermination objective de ce qui s’est passé. Ces mots n’exigent pas de déterminer qui a provoqué ce qui s’est produit.
+[131] Ensuite, la Cour rejette la classification étroite des biens en cause par M. Kieboom comme étant des actions particulières de la société. Cela m’indique que plutôt que de tenter de retracer un bien particulier, il faut considérer toutes les circonstances et déterminer s’il est raisonnable de conclure qu’il existe un lien entre la diminution du bien d’une personne et l’augmentation du bien d’une autre personne. Telle est l’approche consacrée par la décision Kieboom et par l’arrêt Medland.
+[132] Les filiales ont transféré les biens à WTC. WTC a à son tour transféré environ 82 %[46] des biens aux appelantes pour payer les parts dans les filiales. Ces transferts ont eu lieu immédiatement l’un après l’autre le 31 décembre 2006, en conformité avec les modalités et conditions des ententes entre les appelantes et WTC[47]. Bien que les paiements en espèces semblent avoir eu lieu le 2 janvier 2007, soit le premier jour bancaire après la clôture, les droits des appelantes sur les biens ont pris naissance le 31 décembre 2006.
+[133] Les transferts des filiales à WTC ont été effectués par les filiales exécutant des cessions de créances ou des directives en faveur de WTC[48]. Les transferts de WTC aux appelantes ont été réalisés par l’exécution par WTC de cessions de créances ou de directives en faveur des appelantes[49]. Tous ces documents ont été signés par M. Nerland.
+[134] La forme qu’a prise le transfert des biens des filiales aux appelantes est sans conséquence. Ce qui est important, c’est qu’environ 82 % des biens sont passés des filiales aux appelantes par l’intermédiaire de WTC. Même si je retiens la thèse portant que les opérations étaient des « opérations commerciales ordinaires » comme le soutiennent les appelantes, cela ne change rien à ce qui s’est passé en fait par rapport au bien.
+[135] Vu la preuve, WTC a présenté les opérations aux appelantes selon la formule « à prendre ou à laisser ». Les appelantes ont déterminé si les opérations se produiraient ou non en raison de leur acceptation ou non-acceptation des opérations proposées. Une fois que les appelantes ont accepté les conditions des opérations, les parties étaient engagées dans les opérations qui ont eu lieu. Ces opérations ont eu pour effet de transférer environ 82 % des biens des filiales aux appelantes.
+[136] Le fait que WTC aurait pu obtenir des fonds autrement qu’auprès des filiales n’est pas pertinent pour déterminer si les biens ont été transférés des filiales aux appelantes. De même, le fait que les filiales n’aient pas participé au transfert de WTC aux appelantes ne change rien au fait qu’à la suite de la série de transferts initiés par les filiales par l’exécution de cessions de créances ou de directives en faveur de WTC, les filiales ont cessé de détenir les biens et les appelantes ont commencé à détenir environ 82 % des biens.
+[137] De même, la participation de WTC au transfert indirect des biens ne modifie pas le fait fondamental que les biens qui étaient à l’origine dans les filiales se sont retrouvés entre les mains des appelantes. En ce qui concerne l’arrêt Medland, M. Medland a versé de l’argent à une banque. La banque a ensuite utilisé l’argent pour réduire la dette de l’épouse de M. Medland sur une hypothèque détenue par la banque. La participation de la banque dans le transfert de biens de M. Medland à son épouse n’a eu aucune incidence sur la conclusion de la Cour portant que M. Medland avait indirectement transféré des biens à son épouse.
+[138] En l’espèce, le lien entre la diminution des biens des filiales et l’augmentation des biens des appelantes est clair parce que les parties ont convenu et que WTC a effectué des opérations qui ont entraîné le transfert des biens essentiellement à un moment donné le 31 décembre 2006[50] et parce que les biens qui ont pris naissance dans les filiales sont les mêmes biens qui ont abouti dans les mains des appelantes (moins la partie des biens conservée par WTC).
+[139] En conclusion, il existe un lien évident entre la réduction des biens des filiales et l’augmentation des biens des appelantes. Par conséquent, je conclus que les filiales ont indirectement transféré environ 82 % des biens aux appelantes le 31 décembre 2006.
+[140] Ayant conclu qu’il y a eu transfert indirect de biens des filiales aux appelantes, le prochain point controversé est de savoir si, au moment où les filiales ont transféré les biens aux appelantes, chacune d’elles et leur ancienne filiale n’avaient aucun lien de dépendance. Pour cela, il faut déterminer à quel moment les transferts des biens aux appelantes ont eu lieu.
+[141] En ce qui concerne la décision Kieboom, le transfert a eu lieu lorsque l’épouse a acquis les huit actions ordinaires de catégorie A qui ont simultanément dilué la participation de M. Kieboom. En ce qui concerne l’arrêt Medland, le transfert a eu lieu lorsque la banque a crédité le compte hypothécaire de l’épouse de M. Medland. Dans les deux affaires, l’acquisition des biens par le bénéficiaire du transfert a déterminé le moment du transfert.
+[142] Dans l’arrêt Eyeball Networks, le juge en chef Noël observe :
+... un transfert de biens intervient instantanément, tant en droit civil qu’en common law. Le moment précis et manifeste où le transfert a lieu sous le régime de chacun des systèmes juridiques fonde le choix du législateur qui a prévu, d’une part, que la valeur des biens est déterminée « au moment du transfert » et, d’autre part, que la valeur de la contrepartie est déterminée « à ce moment ». En effet, si l’on estime que ces termes renvoient à une notion temporelle élastique qui s’entend d’un laps de temps allant du début au terme de la série d’opérations, comme le prétend la Couronne, on doit chercher à savoir quand exactement il convient de déterminer et de comparer les valeurs respectives. La question est importante, car la valeur des biens fluctue et peut varier considérablement en un très court laps de temps[51].
+[143] Dans cette affaire, le transfert en cause était un transfert direct de l’auteur au bénéficiaire du transfert. Il n’était donc pas nécessaire d’examiner le moment du transfert lui-même, car le transfert et la réception étaient simultanés. En l’espèce, le transfert a eu lieu en deux étapes et il est donc nécessaire de déterminer « le moment précis »[52] où le transfert a eu lieu.
+[144] Lorsqu’on interprète la loi, [traduction] « [i]l est présumé que le législateur est un utilisateur accompli de la langue et qu’il maîtrise parfaitement les conventions linguistiques par lesquelles le sens est communiqué à un public »[53]. Il est donc instructif d’examiner le sens grammatical du texte utilisé par le législateur.
+[145] Dams le préambule figure l’expression « a transféré ». Le mot « transféré » est le verbe principal et est le participe passé du verbe « transférer ». Le mot « a » dans ce contexte est utilisé comme un verbe auxiliaire. L’utilisation du mot « a » associé au participe passé du verbe « transférer » indique l’utilisation du passé composé. Le passé composé indique l’achèvement de l’action « transféré » et la continuation de cette action achevée dans le présent.
+[146] Compte tenu de l’utilisation du passé composé, il est raisonnable de conclure qu’une personne a transféré un bien à une autre personne aux fins du paragraphe 160(1) seulement lorsque toutes les étapes requises pour effectuer ce transfert ont été franchies[54]. Dans certains cas, il n’y aura qu’une seule étape pour effectuer un transfert de biens, comme dans les affaires Canada c. Livingston[55] et Kieboom, tandis que dans d’autres cas, il peut y avoir plus d’une étape, comme dans l’arrêt Medland et dans les présents appels.
+[147] L’utilisation de l’imparfait « avait » avec les mots « un lien de dépendance » à l’alinéa 160(1)c) connote une action continue. Ce temps est généralement utilisé pour décrire une action ou un événement qui a commencé dans le passé et qui était toujours en cours lorsqu’une autre action ou un autre événement s’est produit – l’autre action en l’espèce étant le transfert de biens.
+[148] La dernière étape du transfert des biens aux appelantes a eu lieu lorsque WTC a transféré les biens aux appelantes pour payer les actions des filiales[56]. À la fin de la dernière étape, le transfert indirect qui a commencé par le transfert des biens par les filiales à WTC et qui s’est terminé par la propriété d’environ 82 % des biens par les appelantes a pris fin. La question en litige est donc de savoir si, à ce moment précis, les appelantes et les filiales n’avaient pas de lien de dépendance.
+[149] La LIR utilise deux approches pour déterminer le degré de dépendance. Selon la première approche, les personnes qui sont liées aux termes des règles de la LIR sont réputées avoir un lien de dépendance entre elles. En règle générale, les règles utilisent certains liens familiaux et le contrôle légal, c’est-à-dire de jure, pour déterminer quand des personnes sont liées.
+[150] Pendant la période où une appelante possédait toutes les actions émises dans une filiale, celle-ci avait le contrôle légal de cette filiale et était donc liée à cette filiale. Au moment précis où l’appelante a cessé de posséder des actions dans la filiale, elle a cessé d’avoir le contrôle légal de la filiale et a donc cessé d’être liée à la filiale. WTC avait le contrôle juridique des filiales à partir du moment où elle a acquis la propriété des actions des filiales.
+[151] Pour déterminer si deux ou plusieurs personnes sont liées dans les circonstances de l’espèce, il faut également tenir compte de l’alinéa 251(5)b) et du paragraphe 256(9).
+[152] L’alinéa 251(5)b) comprend une série de règles qui traitent une personne ayant certains droits particuliers comme si ces droits avaient été exercés. Par exemple, une personne qui a le droit d’acquérir des actions est réputée par le sous-alinéa 251(5)b)(i) « occuper la même position relativement au contrôle de la société que si elle était propriétaire des actions à ce moment ».
+[153] L’exécution par WTC des accords de vente d’actions avec les appelantes n’a pas donné à WTC le droit d’acquérir des actions dans les filiales. Le contrôle de la vente était exclusivement entre les mains des appelantes. Par conséquent, WTC n’était pas réputée, en vertu du sous-alinéa 251(5)b)(i), posséder des actions dans les filiales du fait de la conclusion des accords de vente d’actions.
+[154] Lors de l’exercice de l’option de vente le 31 décembre 2006, un accord contraignant d’achat et de vente a été réputé exister[57]. Selon les ECPF, il y a eu une série d’étapes consécutives le 31 décembre 2006[58] et l’étape finale s’est conclue par le paiement du prix d’achat par WTC aux appelantes[59]. À ce moment précis, toutes les conditions de la vente ont été remplies et la propriété des actions des filiales est passée des appelantes à WTC. C’est également à ce moment précis que WTC a pris le contrôle des filiales. D’après l’horodatage d’un courriel de Ruby Wong de G&C, les opérations ont été effectuées au plus tard à 12 h 28 le 31 décembre 2006[60].
+[155] Le paragraphe 256(9) prévoit qu’aux fins de la LIR (sauf pour certaines fins précises non pertinentes en l’espèce)[61], lorsque le contrôle d’une société est acquis par une personne ou un groupe de personnes à un moment particulier d’une journée, sous réserve qu’un choix soit fait, le contrôle de la société est réputé avoir été acquis au début de cette journée. Rien dans les faits présumés ou dans les éléments de preuve verbaux et documentaires ne permet d’inférer que des choix ont été déposés en application du paragraphe 256(9); je ne peux donc que conclure que la règle du délai par défaut s’applique.
+[156] Dans l’arrêt Survivance c. Canada, 2006 CAF 129, la Cour d’appel fédérale a conclu que le paragraphe 256(9) s’applique également à la personne qui renonce au contrôle, de sorte que le contrôle est réputé cesser au début du jour où l’acheteur acquiert celui-ci[62].
+[157] En l’espèce, les appelantes étaient réputées, aux termes du paragraphe 256(9), avoir cessé d’exercer le contrôle des filiales au début de la journée du 31 décembre 2006. Ceci avant le transfert des biens le jour même. Par conséquent, les appelantes n’étaient pas liées aux filiales au moment où les biens ont été indirectement transférés des filiales aux appelantes.
+[158] Il ne reste donc que la détermination à faire en vertu de l’alinéa 251(1)c). Cet alinéa dispose que « dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait ».
+[159] L’alinéa 251(1)c) dispose que la question de savoir si des personnes ont un lien de dépendance est une « question de fait ». Dans la décision RMM Canadian Enterprises Inc. c. R. (1997), [1998] 1 CTC 2300 (CCI), le juge Bowman (tel était alors son titre) explique cette qualification du critère comme suit :
+[traduction]
+Tout ce que l’alinéa 251(1)b) [maintenant l’alinéa 251(1)c)] signifie, c’est que pour déterminer si, en droit, des personnes non liées n’ont pas de lien de dépendance, il faut établir les faits qui sous-tendent leur relation. La signification de l’expression « sans lien de dépendance » dans la Loi de l’impôt sur le revenu est évidemment une question de droit[63].
+[160] Dans l’arrêt Keybrand Foods Inc. c. Canada[64], la Cour d’appel fédérale a examiné l’approche consacrée par la majorité de la Cour suprême du Canada dans l’arrêt Canada c. McLarty[65] et a conclu :
+L’expression « question de fait » (figurant au paragraphe 45 cité ci-dessus) semble simplement reprendre le libellé de la Loi. À mon avis, il reste nécessaire de définir l’expression « lien de dépendance » pour l’application de la Loi. Le sens de cette expression est une question de droit, exigeant une interprétation de la jurisprudence des cours qui ont examiné le problème. Le droit applicable sera alors appliqué aux faits de la situation donnée. Le résultat, dans toute affaire donnée, dépendra dans une large mesure des faits de l’espèce[66].
+[161] Dans l’arrêt McLarty, la Cour suprême du Canada s’est penchée sur la question de savoir si M. McLarty, un acheteur de données sismiques vendues à un groupe d’acheteurs cherchant un abri fiscal, n’avait pas de lien de dépendance avec le vendeur des données sismiques. L’entente était structurée de telle sorte que le vendeur intervenait pour lui-même et en tant que mandataire de M. McLarty et les autres acheteurs de données sismiques.
+[162] Les juges majoritaires affirment qu’« il faut prendre en considération la totalité des circonstances pertinentes pour déterminer s’il existait ou non un lien de dépendance entre le contribuable acquéreur et le vendeur »[67]. Les juges majoritaires examinent et approuvent ensuite les trois critères suivants[68] :
+- un seul cerveau dirige les négociations pour les deux parties à une transaction;
+- les parties à une transaction agissent de concert sans intérêts distincts;
+-il y a exercice effectif (de fait) du contrôle.
+[163] Les juges majoritaires et minoritaires[69] concluent que, malgré la structure employée pour réaliser la vente qui indique que le vendeur intervenait des deux côtés de l’opération, M. McLarty n’avait pas de lien de dépendance avec le vendeur des données sismiques parce qu’il n’avait pas subordonné son intérêt indépendant au vendeur. Les juges majoritaires ont observé :
+Si le juge de première instance était arrivé à la conclusion que M. McLarty avait totalement abandonné son pouvoir de prise de décision à Compton à titre de mandataire, les opérations qu’il a effectuées avec Compton à titre de vendeur n’auraient pas constitué des opérations sans lien de dépendance. Il n’aurait pas pris la décision relative à l’achat en toute indépendance, mais s’en serait complètement remis à Compton en cette matière. Mais les conclusions de fait et les inférences tirées par le juge de première instance ne vont pas dans ce sens[70].
+Il était opportun pour le juge de première instance de prendre en considération la totalité des opérations par lesquelles M. McLarty s’est engagé à faire l’acquisition d’un intérêt dans les données sismiques et à fixer des limites à Compton à titre de mandataire quant au prix d’acquisition des données. Il appartenait au juge de première instance de tirer des inférences de ces faits…
+[Non souligné dans l’original.]
+[164] En ce qui concerne les critères individuels, le critère de l’âme dirigeante a été défini dans la decision MNR c. T.R. Merritt Estate[71], comme suit :
+[traduction]
+lorsque les négociations menées au nom de chacune des deux parties au contrat sont en fait dirigées par le même « cerveau », on ne peut dire que les parties traitent à distance[72]…
+[165] Le critère du contrôle de fait consiste à rechercher si une partie a un contrôle de fait sur une autre partie. Si un tel contrôle existe (qu’il soit exercé ou non), les parties ont un lien de dépendance. L’application du critère est examinée à l’occasion de l’affaire Special Risks Holdings Inc. c. La Reine[73], où le juge de première instance a observé ce qui suit :
+[traduction]
+La conclusion est toutefois inéluctable : malgré la propriété légale de 50 % des actions de MHR, il n’a jamais été question que M. Melling perde le contrôle de fait de RMC. La correspondance d’août et septembre 1976 décrit, à mon avis, l’intention constante des parties[74]…
+[Non souligné dans l’original.]
+[166] En appel, la section d’appel de la Cour fédérale du Canada résumé les conclusions du juge de première instance comme suit :
+[traduction]
+La preuve devant le juge de première instance a démontré clairement que pendant toute la période pertinente, RMC était demeurée sous le contrôle « de fait » de l’appelante. Il était donc clair que, immédiatement après la disposition dont il est question ici, l’appelante et RMC n’étaient pas des personnes qui pouvaient traiter sans lien de dépendance[75].
+[167] Le contrôle de fait aux fins du critère d’une relation sans lien de dépendance est semblable, mais non identique, à la forme de contrôle décrite aux paragraphes 256(5.1) et 256(5.11), qui traitent du contrôle d’une société lorsque l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit » est utilisée[76]. Par exemple, contrairement à ce qui est prévu au paragraphe 256(5.1), le contrôle de fait selon le critère de la relation sans lien de dépendance peut exister lorsqu’un particulier exerce un contrôle ou une influence importante sur un autre particulier.
+[168] Dans l’arrêt Keybrand Foods, la Cour d’appel fédérale déclare qu’« il n’existe pas de différence concrète entre les concepts de contrôle de fait et de « cerveau dirigeant » lorsqu’il s’agit d’établir si deux personnes ont ou non entre elles un lien de dépendance »[77] et dans l’arrêt Robson Leather Company Ltd. c. Canada (Ministre du Revenu national)[78], la section d’appel de la Cour fédérale du Canada a effectivement confondu les deux concepts. Néanmoins, comme l’illustre la décision Special Risks, le contrôle de fait permet de déterminer si une personne exerce une influence suffisante sur une autre pour contrôler les actions de cette dernière sans nécessairement tenir compte d’une opération particulière[79].
+[169] Le juge Thurlow définit comme suit le critère de l’action de concert dans l’arrêt Swiss Bank Corp. et al. c. MNR[80] :
+... lorsque plusieurs parties, qu’elles soient des personnes physiques, des compagnies ou une combinaison des deux, agissent de concert et dans le même intérêt pour diriger ou dicter la conduite d’une autre, le « cerveau » directeur peut à mon avis être celui de l’ensemble des parties agissant de concert ou celui d’une seule d’entre elles qui remplit un rôle ou des fonctions particulières qu’il faut accomplir pour atteindre l’objectif commun… D’autre part, si l’une des parties à une opération agit dans un intérêt différent de celui des autres ou le représente, le fait que le but commun soit de diriger les actes d’une autre partie de façon à obtenir un résultat bien précis ne suffira pas en soi à enlever à l’opération son caractère d’opération entre personnes traitant à distance[81]…
+[Non souligné dans l’original.]
+[170] En confirmant le jugement de la Cour de l’Échiquier, la Cour suprême[82] a souligné l’importance des intérêts distincts comme suit :
+Bien que les circonstances de l’espèce ne présentent pas le genre ordinaire d’opérations non à distance dont cette Cour a parlé dans l’arrêt Ministre du Revenu national c. Sheldon’s Engineering Ltd., elles assujettissent le présent litige au principe qui est sous-jacent à l’interdiction qu’exprime l’art. 106(1)b)(iii)(A), savoir, que le payeur et le bénéficiaire ne doivent pas être des personnes qui, en réalité, traitent exclusivement l’une avec l’autre au moyen d’un fonds constitué par le bénéficiaire au profit du bénéficiaire. Une bonne raison pour cela, suggérée par le texte législatif lui-même, c’est l’assurance que le taux d’intérêt sera le reflet d’opérations commerciales ordinaires entre des parties agissant dans le sens de leurs intérêts distincts. Il faut conclure que des rapports de prêteur à emprunteur qui n’offrent pas cette assurance parce que, effectivement, les intérêts ne sont pas distincts, ne s’insèrent pas dans l’exception qui exempte tout non-résident de l’impôt sur des paiements d’intérêt canadiens. Le fait que l’intérêt réellement autorisé ou payé est compatible avec une opération à distance ne suffit pas en soi à esquiver cette conclusion[83].
+[Non souligné dans l’original.]
+[171] Dans l’arrêt Petro-Canada c. Canada[84], la Cour a confirmé la conclusion de la Cour de l’impôt selon laquelle il y avait un lien de dépendance au motif que « [l]es termes des opérations ne traduisaient pas des relations commerciales ordinaires entre fournisseurs et acheteurs agissant dans leurs propres intérêts »[85].
+[172] Dans l’arrêt Canada c. Remai Estate[86], la Cour d’appel fédérale a confirmé la conclusion du juge de première instance[87] selon laquelle un particulier (Frank) et une société (Sweet), détenue à 90 % par le neveu de Frank (Darrell), n’avaient aucun lien de dépendance.
+[173] Frank avait une fondation privée à laquelle il a versé des billets à ordre émis par une société qu’il possédait (FRM) en paiement de frais de gestion qui lui étaient destinés. Après une modification de la loi en 1997, les crédits d’impôt pour dons de bienfaisance demandés par Frank pour 1998 et 1999 ont été refusés au motif que les billets étaient des « titres non admissibles ».
+[174] Frank a pris des mesures pour remédier à cette situation en vendant les billets à ordre à Sweet en échange de billets à ordre de cette dernière. Le ministre a de nouveau refusé la demande de crédits d’impôt pour dons de bienfaisance au motif que Frank et Sweet avaient un lien de dépendance. En appel devant la Cour de l’impôt, le ministre a également invoqué la RGAÉ[88].
+[175] La Cour de l’impôt a accueilli l’appel et le ministre a interjeté appel devant la Cour d’appel fédérale. La Cour d’appel fédérale a résumé les faits les plus saillants et a déclaré ceci :
+... il est évident que l’idée d’échanger des billets venait exclusivement de Frank et de M. Grozell, que l’opération visait à procurer un avantage à Frank et à la Fondation et que les modalités de l’échange n’ont pas fait l’objet de négociations. Bien que Sweet ait consulté des professionnels au sujet de la légalité de l’opération et des risques financiers auxquels il s’exposait, il est évident que c’est Frank qui dictait les conditions du marché. D’ailleurs, Darrell a expliqué que, même s’il supposait que l’objet de l’opération était commercial, il ne savait pas de quoi il en retournait et il n’avait pas posé de questions (dossier d’appel, aux pages 246 et 247).
+. . .
+Il est vrai que, après avoir examiné à tour de rôle les facteurs énoncés dans la décision Peter Cundill, le juge n’a pas ensuite pris du recul pour se demander si, lorsqu’on la situait dans l’ensemble de son contexte factuel, l’opération constituait une opération commerciale ordinaire entre des parties qui agissaient dans leur propre intérêt. Ainsi que je l’ai déjà dit, il n’était pas légalement tenu de se poser cette question, bien que la réponse à cette question puisse s’avérer utile pour le juge chargé d’examiner la conclusion à laquelle le juge est parvenu, sur le fondement des facteurs énoncés dans la décision Peter Cundill, sur la question de savoir si l’opération avait été conclue ou non avec un lien de dépendance.
+Je me contenterais de dire que les « opérations commerciales ordinaires » se présentent sous diverses formes et modalités et que le fait que l’opération peut sembler avoir été conclue en grande partie pour rendre service ne signifie pas nécessairement qu’elle ne peut pas avoir été effectuée sans lien de dépendance. Tout dépend des faits particuliers de l’espèce. Vu l’ensemble des faits dont il disposait, j’estime que le juge n’a pas commis d’erreur manifeste ou dominante ou tiré de conclusion manifestement erronée ou déraisonnable en qualifiant l’achat par Sweet à la Fondation des billets de FRM d’opération sans lien de dépendance. Le juge n’a pas non plus commis d’erreur de droit en n’abordant pas explicitement dans ses motifs chacun des aspects des relations entre Frank et Darrell ou de l’opération elle-même[89].
+[Non souligné dans l’original.]
+[176] Il ressort de la jurisprudence précédente que le fil conducteur des critères de relation sans lien de dépendance est le concept d’intérêts indépendants. Voilà l’important, que les opérations soient commerciales ou non.
+[177] Les indices sanctionnés dans l’arrêt McLarty sont des circonstances qui connotent une absence d’intérêts indépendants[90]. Si une personne dirige les deux parties d’une entente, cela implique que l’autre personne n’a pas exercé ses intérêts distincts. Si une personne est sous le contrôle de fait d’une autre, cela signifie que cette personne n’a pas exercé, ou n’est pas en mesure d’exercer, ses intérêts distincts. Et, comme l’ont observé la Cour de l’Échiquier et la Cour suprême du Canada à l’occasion de l’affaire Société de banque Suisse, le critère de l’action de concert vise à déterminer si les personnes agissent dans leur propre intérêt.
+[178] A l’égard de ceux qui pourraient être d’un avis contraire, la notion d’« opération commerciale ordinaire » n’est pas utile. Le caractère commercial n’est pas une caractéristique nécessaire d’une opération effectuée dans des conditions sans lien de dépendance. Par exemple, un don à un organisme de bienfaisance n’est pas en soi une preuve que le donateur et l’organisme ont un lien de dépendance.
+[179] Comme il est observé dans l’arrêt Remai Estate, même les opérations commerciales se présentent sous toutes sortes de formes et de tailles et le mot « ordinaire » ne reflète pas ce fait. Dans l’arrêt Société de banque Suisse, la Cour suprême s’attache à déterminer si les parties ont agi dans leurs intérêts distincts de manière à garantir un taux d’intérêt commercial. La Cour suprême déclare que le fait que le taux d’intérêt réel puisse être un taux commercial n’est pas déterminant.
+[180] Dans les présents appels, les seules opérations entre les appelantes et les filiales ont eu lieu à un moment où les appelantes possédaient toutes les actions des filiales et ont donc été considérées comme ayant un lien de dépendance avec les filiales.
+[181] Les opérations en cause en vertu du paragraphe 160(1) (c.-à-d. les opérations du 31 décembre 2006) ont été effectuées entre les filiales et WTC et entre WTC et les appelantes et, comme nous l’avons déjà dit, elles ont eu lieu après que le contrôle légal des filiales eut été réputé abandonné par les appelantes et acquis par WTC.
+[182] Le critère imposé par l’alinéa 251(1)c) est appliqué « à un moment donné » en fonction de tous les faits et circonstances, et le moment particulier en cause est celui où le transfert des biens a eu lieu le 31 décembre 2006. À moins que les faits ne dictent la conclusion contraire, il serait contraire à la certitude et à la prévisibilité créées par les règles de relation d’utiliser des événements qui se sont produits alors que les filiales étaient légalement contrôlées par les appelantes (et donc liées à elles) pour déterminer à un moment ultérieur que les filiales et les appelantes avaient un lien de dépendance en vertu de l’alinéa 251(1)c).
+[183] Le transfert des biens des filiales à WTC, puis de WTC aux appelantes le 31 décembre 2006, n’impliquait aucun contrat ou autre entente entre les filiales et les appelantes. Au contraire, les transferts de biens ont eu lieu en raison des accords de vente d’actions entre les appelantes et WTC, qui, lors de l’exercice de l’option de vente, sont devenus des accords contraignants d’achat et de vente.
+[184] Les appelantes ont renoncé au contrôle des filiales en ce qui a trait au conseil d’administration et à la direction le 29 décembre 2006 afin de faciliter les opérations que WTC voulait effectuer et a bel et bien effectuées dans les filiales[91]. Deux jours plus tard, le 31 décembre 2006, les appelantes ont renoncé au contrôle juridique des filiales lorsque la vente des actions a été conclue. Le changement légal de contrôle a été réputé, selon le paragraphe 256(9), avoir eu lieu au début du 31 décembre 2006. Par conséquent, au moment du transfert des biens, les appelantes n’avaient ni le contrôle du conseil d’administration ou de la direction, ni le contrôle juridique des filiales. Rien ne permet de penser qu’après le 29 décembre 2006, les appelantes ont continué à diriger les actions des filiales ou ont continué à influencer ou à contrôler les activités des filiales.
+[185] Il n’y a pas non plus de preuve portant qu’après le 29 décembre 2006, les appelantes ont agi de concert avec WTC pour diriger les actes des filiales. Les actes des filiales avant le 30 décembre 2006 ont été autorisés et effectués par des personnes élues ou nommées par les appelantes et les actes des filiales après le 29 décembre 2006 ont été autorisés et effectués par des personnes élues ou nommées par WTC. Tous ces actes étaient compatibles avec les intérêts distincts des appelantes et de WTC dans les opérations.
+[186] WTC a convenu d’acheter les actions de chacune des filiales pour un montant qui, dans chaque cas, était égal à la valeur des biens dans la filiale en question moins 54 % de la dette fiscale de cette filiale déterminée en date du 29 décembre 2006. Le bénéfice économique de WTC dépendait de sa capacité à effectuer des opérations dans les filiales qui réduisaient les dettes fiscales des filiales à moins de 54 % de ces dettes déterminées au 29 décembre 2006. WTC a assumé le risque relatif à cette stratégie en s’obligeant à acheter les actions des filiales lors de l’exercice de l’option de vente par les appelantes.
+[187] WTC a pris des mesures pour réaliser son bénéfice économique en effectuant des opérations dans les filiales après le 29 décembre 2006. Avec le recul, ces opérations étaient manifestement d’une efficacité douteuse, mais cela n’est pas pertinent pour déterminer si les filiales n’avaient pas de lien de dépendance avec les appelantes au moment où les biens ont été transférés aux appelantes. M. Naiberg et M. Meyer ont chacun témoigné qu’ils n’avaient eu aucun contact d’aucune sorte avec WTC ou ses représentants et qu’ils n’avaient aucune connaissance de l’achat de logiciels par les filiales, ni n’y avaient participé. Je retiens ce témoignage et je note qu’il n’y a pas de preuve en sens contraire.
+[188] Les appelantes ont bel et bien facilité la capacité de WTC à effectuer des opérations au sein même des filiales et avec elles en élisant ou nommant M. Nerland comme unique administrateur et dirigeant des filiales le 29 décembre 2006. Cette étape a été dictée par WTC et les appelantes n’ont accepté cette étape qu’après avoir obtenu un avis professionnel selon lequel leurs intérêts étaient protégés par l’accord de vente d’actions. Cette étape n’est pas courante, mais cela ne constitue pas en soi une preuve de relation avec lien de dépendance. La question qui se pose est de savoir si les parties ont agi dans leur propre intérêt en concluant des ententes, et non si les ententes elles-mêmes sortent de l’ordinaire.
+[189] Cela ne veut pas dire qu’il faut faire abstraction des ententes inhabituelles. Elles font certainement partie du contexte factuel qui sert de base pour déterminer si les parties n’ont pas de lien de dépendance. Par exemple, si une opération est à première vue non rentable et que, compte tenu de tous les éléments de preuve, il n’y a pas d’explication discernable pour expliquer pourquoi tel est le cas, autre que le fait que les parties n’ont pas agi dans leurs propres intérêts distincts (c.-à-d. qu’elles avaient un lien de dépendance), alors l’opération a en fait révélé la nature de la relation. C’était le cas dans l’arrêt Keybrand Foods.
+[190] Toutefois, à moins que la LIR n’en dispose autrement, les aspects économiques de l’opération ne sont pas déterminants. Comme l’a observé la Cour suprême dans l’arrêt Société de banque Suisse, lorsque la LIR exige un résultat commercial, c’est l’assurance qu’il s’agit d’opérations commerciales qui est requise. Par conséquent, l’accent est mis sur la question de savoir si les parties à l’opération ont agi dans leurs propres intérêts distincts, ce qui est implicitement supposé garantir un résultat commercial.
+[191] Pour leur part, les appelantes ont cherché à réaliser un bénéfice économique en vendant les actions des filiales à un prix supérieur à la valeur des biens détenues par les filiales moins les dettes fiscales prévues dans les filiales. Bien que les conseillers des appelantes aient conjecturé sur ce que WTC ferait pour réaliser son bénéfice prévu, cette conjecture n’est pas pertinente pour déterminer si les filiales n’avaient en fait aucun lien de dépendance avec les appelantes au moment où les biens ont été transférés à ces dernières.
+[192] Contrairement à l’affaire Keybrand Foods, les ententes entre WTC et les appelantes étaient motivées par des considérations économiques. Ces considérations économiques ont été déterminées en fonction des biens que détenaient les filiales et les dettes fiscales prévues dans les filiales. Le fait que l’impôt soit une considération dans les opérations entre les parties n’est pas en soi un indice portant que les parties ont un lien de dépendance. Je me risquerais à dire que l’impôt est probablement une considération importante dans de nombreuses ententes commerciales et non commerciales.
+[193] Les actes posés par les filiales après le 29 décembre 2006 ont été dictés par WTC conformément aux intérêts économiques de celle-ci, qui étaient de préserver son bénéfice prévu en éliminant les dettes fiscales dans les filiales (ou du moins de donner l’impression au ministre que tel était le cas).
+[194] Les appelantes étaient convaincues qu’elles étaient protégées de toute mesure que WTC pourrait entreprendre dans les filiales après le 29 décembre 2006, car elles pouvaient vendre les actions des filiales à WTC. En bref, les appelantes et WTC avaient des intérêts distincts et les opérations ont été structurées de manière à réaliser et à protéger ces intérêts.
+[195] WTC a utilisé les biens des filiales pour s’acquitter de son obligation, en vertu des accords de vente d’actions, de payer aux appelantes le prix d’achat des actions des filiales. Bien que cela ait pu être envisagé par toutes les parties impliquées dans les opérations avant l’exécution des accords de vente d’actions, au moment où les biens ont été transférés aux appelantes, les opérations nécessaires pour y parvenir étaient dépendantes de la volonté de WTC. Le contrat de vente des actions stipulait simplement que [traduction] « [l]e prix d’achat des actions sera payé par la remise par l’acheteur d’un chèque certifié ou par transmission électronique de fonds immédiatement disponibles à une banque canadienne désignée par le vendeur, au montant du prix d’achat à la clôture ». WTC a satisfait à cette obligation en exécutant des cessions et des directives en faveur des appelantes concernant les biens qu’elle avait à son tour acquis auprès des filiales.
+[196] Le fait que les appelantes aient mis en œuvre la série d’opérations requises pour placer le produit de la vente des terres agricoles dans les filiales et qu’elles aient accepté de conclure les accords de vente d’actions en sachant qu’elles seraient probablement payées par WTC à l’aide des fonds des filiales ne constitue pas en soi une preuve portant que les appelantes et les filiales avaient un lien de dépendance au moment du transfert des biens. Les restructurations préalables à la vente ne sont pas inhabituelles dans les opérations de vente d’actions et l’on pourrait raisonnablement s’attendre à ce que le vendeur d’un bien immobilier soit indifférent à la source de paiement du prix d’achat du bien, à condition qu’elle soit légale.
+[197] Le fait que les appelantes aient accepté les opérations présentées par WTC selon le principe « à prendre ou à laisser » ne constitue pas non plus en soi une preuve que les appelantes et les filiales avaient un lien de dépendance au moment du transfert des biens. Les conditions de nombreux accords commerciaux sont dictées par l’une des parties à l’accord (par exemple, la location d’une voiture). Accepter des conditions stipulées et conclure des accords conformément à ces conditions ne constituent pas en soi une preuve de relation avec lien de dépendance. La question (là encore) est de savoir si, en acceptant les conditions stipulées, la partie a agi dans ses propres intérêts distincts et tel était clairement le cas en l’espèce compte tenu des éléments de preuve.
+[198] Dans l’arrêt Remai Estate, la Cour a déclaré que l’existence d’opérations commerciales ordinaires n’est pas une exigence distincte des critères juridiques permettant de déterminer le lien de dépendance[92], mais il est également vrai, comme cela a été reconnu dans l’arrêt Keybrand Foods, que des conditions extraordinaires appellant un examen minutieux. En l’espèce, les risques et les avantages des opérations ont été répartis entre WTC et les appelantes par les accords de vente d’actions et chaque partie a obtenu un rendement économique. Le fait que le rendement économique ait été déterminé par rapport à une dette fiscale dans les filiales ne modifie pas cette conclusion.
+[199] L’intimée a beaucoup insisté sur la motivation fiscale des appelantes et plus précisément, sur leur volonté d’éviter de payer de l’impôt. Dans l’arrêt Eyeball Networks, le juge en chef Noël résume le droit relatif au motif :
+Le droit est sans équivoque : l’application du paragraphe 160(1) n’est pas subordonnée à l’intention de se dérober au paiement d’une dette fiscale. Or, un mobile illicite peut jouer sur la manière dont la Cour évalue les opérations et leurs répercussions[93]…
+[200] Les appelantes n’ont rien fait pour éviter le paiement de l’impôt par les filiales. Les appelantes ont simplement vendu leurs parts dans les filiales à WTC. WTC a pris des mesures pour éviter le paiement de l’impôt par les filiales.
+[201] WTC a cherché à profiter des ententes en prenant des mesures pour réduire les dettes fiscales des filiales. Les appelantes ont obtenu plus pour leurs actions que ce à quoi on pourrait s’attendre en théorie compte tenu des dettes fiscales, car WTC a assumé le risque fiscal relative à la propriété des filiales. Pour ses propres raisons, WTC a évalué les dettes fiscales des filiales à un montant inférieur au montant réel des dettes.
+[202] L’offre de WTC aux appelantes était fondée sur la possibilité de prendre des mesures pour réduire la dette fiscale des filiales. Les opérations commerciales étaient telles que le risque lié à la dette fiscale des filiales incombait clairement à WTC en tant qu’acheteur des filiales. Les appelantes ont déclaré et garanti que la divulgation des actifs et des passifs fiscaux des filiales dans les accords de vente d’actions était exacte au 29 décembre 2006, mais rien de plus.
+[203] À la lumière de ce qui précède, je conclus que les appelantes et les filiales n’avaient pas de lien de dépendance au moment du transfert des biens des filiales aux appelantes le 31 décembre 2006 et que, par conséquent, la condition prévue à l’alinéa 160(1)c) pour l’application des alinéas 160(1)d) et e) n’est pas remplie.
+[204] La conclusion selon laquelle le critère de relation sans lien de dépendance figurant dans le préambule empêche de poursuivre les appelantes en vertu du paragraphe 160(1) est, à mon avis, compatible avec le fait que WTC a assumé le risque fiscal lorsqu’elle a acheté les filiales. Étant donné qu’il y a eu transfert de biens des filiales à WTC après le moment où WTC était réputé avoir acquis le contrôle légal des filiales, on aurait pu raisonnablement s’attendre à ce que l’ARC poursuive WTC pour la dette fiscale des filiales. À mon avis, cette approche aurait été compatible avec le fait que WTC a assumé le risque fiscal et a contrôlé le transfert des biens des filiales aux appelantes.
+[205] Nonobstant ma conclusion sur les opérations sans lien de dépendance, afin d’être exhaustif, j’examinerai également l’application de la règle énoncée à l’alinéa 160(1)e) dans les circonstances.
+[206] L’alinéa 160(1)e) prévoit que lorsque les conditions de la première partie sont remplies, l’auteur du transfert et le bénéficiaire du transfert sont solidairement tenus de payer en vertu de la LIR le moindre des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+[207] Le sous-alinéa 160(1)e)(i) exige que l’on détermine, au moment du transfert du bien, la juste valeur marchande du bien et la contrepartie donnée pour le bien.
+[208] J’ai précédemment conclu que le moment où les biens ont été transférés est le moment où le transfert des droits dans les biens des filiales aux appelantes était complet. Il n’y a pas de controverse concernant la juste valeur marchande des biens à ce moment-là. Il y a controverse sur la contrepartie donnée pour les biens. L’intimée soutient que pour réduire la responsabilité en vertu du sous-alinéa 160(1)e)(i), la contrepartie doit être donnée par le bénéficiaire à l’auteur du transfert.
+[209] Au risque d’être accusé d’ajouter des mots dans la LIR, je pense que les mots « contrepartie donnée pour le bien » lorsqu’ils sont lus au regard de l’ensemble du paragraphe, ne peuvent signifier que la contrepartie donnée par le bénéficiaire du transfert pour le bien, peu importe qui reçoit cette contrepartie. Je m’efforcerai d’expliquer mes motifs pour cette conclusion.
+[210] Le paragraphe 160(1) impose une responsabilité au bénéficiaire du transfert pour la responsabilité de l’auteur du transfert en application de la LIR. Cela ne peut se faire de manière juste et raisonnable que si le bénéficiaire du transfert reçoit un crédit pour la contrepartie donnée pour le bien qui fait jouer la responsabilité. Dans le cas contraire, le paragraphe impose une responsabilité au bénéficiaire du transfert, même si ce dernier n’a pas à payer le montant de la contrepartie. Je ne peux cerner aucun motif rationnel pour lequel le législateur rechercherait un tel résultat sans une formulation claire et sans ambiguïté à cet effet.
+[211] L’économie explicite de la LIR est d’imposer une dette fiscale à un contribuable en fonction de sa situation. Le paragraphe 160(1) en constitue une exception à cet objectif. Le législateur a choisi d’utiliser un libellé large dans la première partie pour englober les transferts de biens qui peuvent ne pas se produire directement entre l’auteur et le bénéficiaire d’un transfert et le texte de l’alinéa 160(1)e) doit être lu en tenant compte de ce contexte et de l’économie générale de la LIR.
+[212] La décision Kieboom en est un bon exemple. Si Mme Kieboom avait payé à la société une contrepartie à la juste valeur marchande des actions ordinaires de catégorie A que cette société lui a émises, il aurait été absurde de lui imposer une responsabilité en vertu du paragraphe 160(1) parce qu’elle n’a pas donné la contrepartie à M. Kieboom. Les dispositions législatives doivent être interprétées de manière à éviter les résultats absurdes si une autre interprétation raisonnable est possible.
+[213] Les appelantes ont donné une contrepartie pour les biens sous la forme d’actions dans les filiales. Cette contrepartie a été accordée par les appelantes à WTC parce que cela était dicté par les modalités des accords commerciaux conclus entre les appelantes et WTC. Il se trouve que le texte général de la première partie reprend ces dispositions, car les biens se trouvaient à l’origine dans les filiales. L’alinéa 160(1)e) garantit que les appelantes ne sont pas tenues responsables en vertu du paragraphe en accordant un crédit complet pour la contrepartie payée pour les biens.
+[214] L’intimée soutient que cette interprétation va à l’encontre de l’objet du paragraphe 160(1). Bien que je convienne que la Cour d’appel fédérale a déclaré que « l’objet et l’esprit de ce paragraphe consistent à empêcher un contribuable de transférer ses biens à son conjoint [ou encore à un mineur ou à une personne avec qui il a un lien de dépendance] afin de faire échec aux efforts déployés par le ministre pour percevoir l’argent qui lui est dû »[94], conformément à l’observation incidente de la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada reproduit ci-dessus, cette formulation d’intention générale ne doit pas être utilisée pour écarter le texte de l’alinéa 160(1)e) lu au regard du contexte.
+[215] Dans l’arrêt Copthorne Holdings Ltd. c. Canada, 2011 CSC 63 (« Copthorne »), le juge Rothstein a observé qu’« [u]n auteur assimile cet objet ou cet esprit à la [TRADUCTION] “raison d’être qui sous-tend des dispositions particulières ou interdépendantes de la Loi” »[95] et que « [l]’objet ou l’esprit peuvent être circonscrits grâce à la méthode qu’emploie systématiquement notre Cour en matière d’interprétation des lois, à savoir la “méthode textuelle, contextuelle et téléologique unifiée” »[96].
+[216] En d’autres termes, l’objet d’une disposition est déterminé par renvoi à la loi interprétée selon les règles reconnues d’interprétation des lois. La seule différence est que le but de la manoeuvre n’est pas de déterminer le sens du texte en soi, mais de déterminer la philosophie de la disposition (c’est-à-dire l’objet ou l’esprit de la disposition). Le juge Rothstein fait toutefois cette mise en garde : « il ne faut cependant pas confondre la détermination de la raison d’être des dispositions applicables de la Loi avec le jugement de valeur quant à ce qui est bien ou mal non plus qu’avec les conjectures sur ce que devrait être une loi fiscale ou sur l’effet qu’elle devrait avoir »[97].
+[217] Puisqu’il existe une circularité dans la notion selon laquelle l’objet doit être déterminé par référence au texte, au contexte et à l’objet, on pourrait conclure que l’objet est déterminé principalement par renvoi au texte et au contexte de la disposition en tenant compte toutefois du texte, du contexte et de l’objet de toute autre disposition pertinente.
+[218] Quoi qu’il en soit, à mon avis, selon l’analyse textuelle, contextuelle et téléologique du paragraphe 160(1), la raison d’être du paragraphe 160(1) est de permettre au ministre de recouvrer auprès de bénéficiaires d’un transfert de biens ayant un lien de dépendance (et de certains autres) une dette fiscale de l’auteur du transfert, quelle que soit la façon dont le transfert est effectué, mais seulement dans la mesure de cette dette fiscale et seulement dans la mesure où le bénéficiaire du transfert a payé une contrepartie pour le bien transféré qui est inférieure à la valeur du bien transféré. Mon interprétation du sous-alinéa 160(1)e)(i) est entièrement conforme à cette philosophie.
+[219] Je note que l’objet ou la raison d’être du paragraphe 160(1) n’est pas atteint ici, non pas parce que mon interprétation du sous-alinéa 160(1)e)(i) est en contradiction avec cet objet, mais parce que le ministre a choisi de ne pas poursuivre WTC pour les impôts dus par ses filiales. Le ministre ne peut pas compenser cette décision en ne tenant pas compte du texte de l’alinéa 160(1)e) lu au regard du contexte, étendant ainsi la portée déjà très large du paragraphe 160(1) au détriment des bénéficiaires de transfert qui paient une contrepartie pour des biens visés par les termes généraux de la première partie.
+[220] Les appelantes soutiennent que la contrepartie donnée par les appelantes pour les biens est égale au prix d’achat payé par WTC pour les actions dans les filiales. Les appelantes soutiennent que ce prix est par définition la juste valeur marchande de la contrepartie, car il constitue une preuve objective du prix le plus élevé qu’un acheteur consentant paierait pour les actions dans un marché non exposé à des pressions indues, composé d’acheteurs et de vendeurs consentants qui traitent sans lien de dépendance. J’abonde dans le même sens[98].
+[221] L’évaluation retient une valeur inférieure pour les actions en fonction de considérations financières générales. Cependant, le critère de la juste valeur marchande est souple et reconnaît que les parties agissant dans leur propre intérêt sont les mieux placés pour déterminer la valeur. En l’espèce, les appelantes et WTC ont convenu d’un prix qui reflétait les intérêts distincts (sans lien de dépendance) de chaque partie et, par conséquent, le prix correspond à la juste valeur marchande de l’opération. Par conséquent, la responsabilité des appelantes aux termes du sous-alinéa 160(1)e)(i) est nulle et, par conséquent, la responsabilité des appelantes aux termes de l’alinéa 160(1)e) est nulle.
+[222] En ce qui concerne le sous-alinéa 160(1)e)(ii), les appelantes soutiennent que, conformément à la doctrine professée par la Cour de l’impôt à l’occasion de l’affaire Gestion Yvan Drouin Inc. c. La Reine, [2001] 2 CTC 2315 (CCI) et d’autres affaires[99], le fardeau d’établir la dette fiscale des filiales incombe au ministre et qu’il ne s’est pas acquitté de ce fardeau.
+[223] L’intimée réplique que les faits concernant la dette fiscale des filiales ne sont pas exclusivement ou particulièrement à la connaissance du ministre et que, par conséquent, les circonstances ne justifient pas un renversement du fardeau de la preuve. Toutefois, même si le fardeau incombe au ministre, la preuve est suffisante pour conclure que les déductions pour amortissement demandées par les filiales pour leurs années d’imposition 2006 ont été refusées à juste titre par le ministre et que, par conséquent, les filiales étaient redevables de l’impôt sur le revenu qui leur était attribué par les sociétés en nom collectif.
+[224] Dans la décision Gaucher c. Canada, [2001] 1 CTC 125 (CAF), le juge Rothstein (tel était alors son titre) a dit :
+Lorsque le Ministre établit une cotisation à titre dérivé en application du paragraphe 160(1), il invoque une disposition législative particulière qui l’autorise à demander paiement à une seconde personne pour la cotisation d’impôt visant un premier contribuable. Cette seconde personne doit jouir d’un plein droit de défense pour contester la cotisation établie à son endroit, y compris celui d’attaquer la cotisation primaire sur laquelle se fonde la cotisation touchant la seconde personne[100].
+[225] La Cour d’appel fédérale a réitéré cette position dans l’arrêt Canada c. 594710 British Columbia Ltd., 2018 CAF 166 (« 594710 ») comme suit :
+La société de portefeuille a interjeté appel de la cotisation établie en application de l’article 160 devant la Cour de l’impôt pour plusieurs motifs, dont l’un avait pour but de nier que la société partenaire avait une obligation fiscale. Dans un appel interjeté à l’encontre d’une cotisation établie en application de l’article 160, la société de portefeuille a le droit de contester la cotisation établie à l’endroit partenaire pour quelque motif que ce soit qu’aurait pu invoquer la société partenaire si elle avait interjeté appel directement (Gaucher c. Canada, 2000 CanLII 16513 (C.A.F.))[101].
+[226] Cette jurisprudence ne porte nullement sur le fardeau de la preuve dans un appel concernant une cotisation établie en application du paragraphe 160(2). Pour répondre à la question de savoir quelle partie a le fardeau de la preuve, il est important de comprendre la distinction entre le fardeau de la preuve et la règle générale dans les appels en matière d’impôt sur le revenu selon laquelle les faits supposés par le ministre lors de l’établissement ou de la confirmation d’une cotisation d’impôt doivent être tenus pour exacts à moins qu’ils ne soient réfutés, qu’il soit démontré qu’ils ne sont pas pertinents ou qu’ils n’appuient pas la cotisation, ou qu’il est démontré qu’ils n’ont pas été établis au moment de la cotisation ou de la confirmation[102].
+[227] Il y a plus de 70 ans, dans l’arrêt Johnston c. MNR[103], quatre des cinq juges de la Cour suprême du Canada ont conclu que le fardeau de la preuve dans un appel en matière fiscale incombe au contribuable[104]. Pour comprendre le fondement de cette décision, il est nécessaire d’examiner le contexte législatif dans lequel elle a été rendue.
+[228] La Loi de l’impôt de guerre sur le revenu[105] (la « LIGR ») prévoyait qu’un contribuable pouvait interjeter appel d’une cotisation d’impôt établie en vertu de cette loi devant la Cour de l’Échiquier. Toutefois, pour ce faire, le contribuable devait d’abord suivre la procédure prévue par la LIGR.
+[229] Aux termes de la procédure d’opposition aux termes de la LIGR, un contribuable insatisfait « du montant de sa cotisation ou qui estimait qu’il n’était pas redevable d’un impôt » pouvait d’abord interjeter appel auprès du ministre en exposant les motifs de l’appel et les faits pertinents. À la réception d’un avis d’appel, le ministre était tenu de l’examiner, de confirmer ou de modifier la cotisation faisant l’objet de l’appel et d’aviser le contribuable par écrit de sa décision.
+[230] Si le contribuable n’était pas satisfait de la décision du ministre, il pouvait interjeter appel auprès de la Cour de l’Échiquier en envoyant un avis de mécontentement au ministre qui était tenu de répondre en admettant ou en niant les faits allégués et en confirmant ou en modifiant la cotisation. Dans les deux mois suivant sa réponse, le ministre était tenu d’envoyer à la Cour de l’Échiquier les documents pertinents pour l’appel, notamment l’avis de mécontentement et la réponse à cet avis. Par la suite, l’affaire était réputée comme une action devant la Cour de l’Échiquier en tant qu’appel[106].
+[231] Dans ce contexte, le juge Rand, s’exprimant au nom de trois des cinq juges de la Cour, a expliqué comme suit la raison pour laquelle le fardeau de la preuve incombe au contribuable :
+[traduction] L’appel soulève également la question du fardeau de la preuve. En vertu de l’article 58, une personne contestant le montant de sa cotisation peut interjeter appel auprès du ministre. Si le ministre rejette l’appel, un avis de mécontentement peut être envoyé au ministre en vertu du paragraphe 60(1) et le contribuable peut y énoncer qu’il souhaite que son appel soit inscrit au rôle. En vertu du paragraphe (2),
+l’appelant doit transmettre un exposé définitif des autres faits, des dispositions légales et des motifs qu’il compte invoquer à la Cour à l’appui de l’appel et qui n’étaient pas esposés dans l’avis d’appel initial déposé au ministre, ou subsidiairement, un résumé des faits, des dispositions légales et des motifs énoncés dans l’avis d’appel mentionné ci-dessus, ainsi que les autres faits, dispositions et motifs que l’appelant a l’intention d’invoquer à la Cour à l’appui de l’appel.
+L’article 61 prévoit un cautionnement pour dépens par « la partie qui interjette appel ». L’article 62 prévoit une réponse du ministre à l’avis de mécontentement. L’article 63(1) exige que le ministre, dans un délai de deux mois à compter de la réponse, fasse transmettre à la Cour de l’Échiquier a) la déclaration d’impôt sur le revenu, b) l’avis de cotisation, c) l’avis d’appel, d) la décision du ministre, e) l’avis de mécontentement, f) la réponse du ministre, et g) tous les autres documents et pièces relatifs à la cotisation faisant l’objet de l’appel. Le paragraphe (2) dispose que [traduction] l’« affaire est alors réputée une action devant la Cour, prête à être jugée ou entendue : Toutefois, si la Cour ou l’un de ses juges estime qu’il est souhaitable que des actes de procédure soient déposés, une ordonnance peut être rendue enjoignant aux parties de déposer des actes de procédure ». [. . .
+En vertu de l’article 65(1), « tout fait ou toute disposition législative qui n’est pas énoncée dans cet avis d’appel ou avis de mécontentement peut être invoqué ou mentionné de la manière et aux conditions que le tribunal ou un juge de ce tribunal peut l’ordonner »; et en vertu du paragraphe (2), « [l]e tribunal peut renvoyer la question au ministre pour plus ample considération ».
+Nonobstant le fait que l’on y fasse référence au paragraphe 63(2) en tant qu’action prête pour le procès ou l’audience, l’instance constitue l’appel de l’imposition; et comme l’imposition est fondée sur certains faits et certaines dispositions de la loi, ce sont soit ces faits, soit l’application de la loi qui sont contestés. Tout fait que détermine ou que suppose l’évaluateur ou le ministre doit donc être accepté de la façon dont ces personnes en ont traité, à moins que l’appelant ne le mette en doute. Si le contribuable en l’espèce avait eu l’intention de contester le fait qu’il subvenait aux besoins de son épouse au sens des Règles susmentionnées, il aurait dû soulever la question dans ses actes de procédure, et il lui aurait incombé, comme à tout autre appelant, de faire la preuve que la conclusion tirée par les décideurs de rang inférieur n’était pas justifiée. À cette fin, le contribuable pourrait soumettre des éléments de preuve à la Cour même s’ils n’ont pas été présentés à l’évaluateur ou au ministre, mais il lui incombait de démolir le fait fondamental sur lequel l’impôt reposait.
+. . .
+Il s’ensuit que je ne peux souscrire à ce que la présente instance soit soumise à un changement fondamental concernant les procédures. Les allégations nécessaires à l’appel dépendent de la construction de la loi, et l’application de cette loi sur les faits et les actes de procédure doit pouvoir faciliter le règlement de la question. On doit évidemment tenir pour acquis que la Couronne, puisqu’elle en a l’obligation, a pleinement divulgué au contribuable les constatations de fait et les décisions de droit qui ont donné lieu au litige. Cependant, à moins que la Couronne ne soit placée dans la position d’un demandeur ou d’un appelant, je ne peux voir de quelle façon appliquer les actes de procédure de façon à renverser le fardeau de la preuve. Puisque le contribuable, dans ce cas-ci, doit établir quelque chose, il me semble que ce quelque chose est l’existence de faits ou de lois qui démontrent une erreur par rapport à l’impôt qu’on lui exige[107].
+[Non souligné dans l’original.]
+[232] Le juge Rand retient deux principes liés, mais distincts.
+[233] Le première principe concerne le fardeau de la preuve. Le juge Rand fait remarquer qu’en application du régime de la LIGR, le contribuable a entamé le processus par un appel administratif auprès du ministre concernant l’exactitude de la cotisation. Si le contribuable n’est pas satisfait de la décision du ministre, il peut entreprendre les démarches qui feront finalement de l’appel interjeté à l’encontre de la cotisation une action devant la Cour de l’Échiquier.
+[234] Le juge Rand conclut que, bien que l’affaire soit considérée comme une action devant la Cour de l’Échiquier, il s’agit, selon le régime de la LIGR, d’un appel interjeté à l’encontre de la cotisation. Étant donné que la cotisation se fonde sur l’opinion du ministre quant aux faits, le contribuable conteste la thèse du ministre concernant les faits et, par conséquent, le contribuable doit établir l’existence de faits [traduction] « montrant une erreur par rapport à l’impôt qu’on exige »[108] du contribuable[109]. En d’autres termes, la procédure d’appel prévue par la LIGR fait peser le fardeau de la preuve sur le contribuable et ce fardeau porte sur les faits qui sous-tendent la cotisation établie par le ministre[110].
+[235] Les juges Rand et Kellock concluent tous deux que, contrairement à ce qui se passe dans d’autres instances civiles, les actes de procédure ne déterminent ni ne modifient l’attribution du fardeau de la preuve. Au contraire, les actes de procédure définissent les questions et facilitent la détermination de ces questions[111]. C’est toujours le cas aujourd’hui[112].
+[236] Le deuxième principe concerne ce que l’on appelle aujourd’hui les hypothèses de fait. Le juge Rand conclut que la thèse du ministre concernant les faits sur lesquels est fondée la cotisation d’impôt doit être considérée comme saine à la condition que ces faits soient divulgués au contribuable[113].
+[237] L’objectif factuel présenté par les hypothèses de fait établit une distinction entre les appels fiscaux et les autres appels civils. Dans le cadre d’un recours civil tel qu’une plainte pour négligence, le demandeur doit établir selon le niveau de preuve[114] les faits qui soutiennent l’allégation de négligence. Les faits substantiels sont donc exposés dans le document qui permet d’engager la procédure (par exemple, la déclaration du demandeur) et ce sont ces faits qui doivent être admis par le défendeur ou établis par les éléments de preuve selon la norme de preuve si le demandeur veut avoir gain de cause.
+[238] Dans un appel fiscal, l’appelant a le même fardeau de la preuve que dans une plainte civile pour négligence, mais les faits sur lesquels ce fardeau est principalement (mais pas nécessairement exclusivement) concentré sont les hypothèses de fait sur lesquelles la cotisation d’impôt se fonde. Bien que l’avis d’appel du contribuable dans un appel de procédure générale doive exposer les faits matériels sur lesquels le contribuable s’appuie[115], pour reprendre les termes des juges Rand et Kellock dans l’arrêt Johnston, les actes de procédure ne font que définir les questions et faciliter la détermination de ces questions[116].
+[239] En résumé, les deux principes du juge Rand imposent le fardeau de la preuve sur le contribuable et visent le ou les faits présumés sur lesquels la cotisation d’impôt est fondée[117]. Le juge Rand affirme [traduction] qu’« il lui incombait de démolir le fait fondamental sur lequel l’impôt reposait »[118].
+[240] Étant donné qu’un appel devant la Cour de l’impôt est une affaire civile (par opposition à une affaire pénale), la norme de preuve à laquelle le contribuable doit satisfaire pour s’acquitter du fardeau de la preuve est la « prépondérance des probabilités », ce qui, depuis la décision de la Cour suprême du Canada dans l’arrêt F.H. c. McDougall, 2008 CSC 53 (« McDougall ») est une norme unique plutôt qu’une norme variable[119]. La jurisprudence antérieure à l’arrêt McDougall qui portait sur la norme de preuve dans les affaires civiles doivent maintenant être lue à la lumière de l’arrêt McDougall.
+[241] Il est important de noter un autre principe de l’arrêt Johnston. En ce qui concerne cet arrêt, le contribuable n’a pas plaidé en opposition au « fait fondamental sur lequel l’impôt reposait », qui ne figurait que dans la réponse comme une dénégation. Bien que le juge Rand ait noté que M. Johnston aurait dû soulever le fait invoqué par le contribuable dans la demande, il a conclu que cela ne faisait pas obstacle à l’instruction de l’appel de M. Johnston parce [traduction] qu’« il incombe à la Cour de veiller à ce que ce soit le fond, et non la forme, d’un litige qui soit considéré »[120].
+[242] L’accent mis par le juge Rand sur le fond de l’appel est particulièrement important dans le cas des appels interjetés dans le cadre de la procédure informelle de la Cour, car il arrive souvent que les contribuables qui interjettent appel ne plaident pas de faits matériels, mais se contentent d’examiner, lors de l’audition de l’appel, les hypothèses de fait plaidées par le ministre. L’approche du juge Rand exige que la Cour se penche sur le fond du différend, ce qui se fait par renvoi aux hypothèses de fait et aux éléments de preuve, le cas échéant, qui portent sur ces hypothèses.
+[243] En règle générale, les principes ci-dessus ont été suivis par la Cour de l’Échiquier et par la Cour d’appel fédérale à l’occasion de nombreuses affaires, notamment Pillsbury Holdings, Pollock (J.A.) c. Canada, (1993) [1994] 1 CTC 3 (CAF) (« Pollock »), Canada c. Loewen, 2004 CAF 146 (« Loewen »), Anchor Pointe 2003, Voitures Orly Inc. c. Canada, 2005 CAF 425, Anchor Pointe 2007 et House c. Canada, 2011 CAF 234 (« House »).
+[244] Comme nous l’avons déjà dit, la doctrine professée par le juge Rand selon laquelle le fardeau de la preuve incombe au contribuable est liée, mais indépendante, du principe selon lequel les hypothèses de fait du ministre doivent être considérées comme exactes. La Cour d’appel fédérale l’a reconnu dans l’arrêt Anchor Pointe 2007 :
+Les hypothèses non plaidées n’ont pas d’effet sur le fardeau de la preuve, ni dans un sens, ni dans l’autre [...][121]
+[245] Dans de nombreux appels en matière d’impôt, les faits présumés par le ministre et exposés dans la réponse sont les seuls faits à l’appui de la cotisation du contribuable, particulièrement dans les appels interjetés aux termes de la procédure informelle de notre Cour. Le ministre peut choisir de présenter des éléments de preuve à l’appui d’hypothèses de fait, même si celles-ci sont considérées comme exactes. Il s’agit toutefois d’une décision purement tactique prise par le ministre.
+[246] Si le ministre n’a pas présumé d’un fait en établissant ou en confirmant la cotisation d’impôt, ou si une hypothèse de fait qui a été faite n’est pas plaidée dans la réponse, le fardeau de la preuve incombe toujours au contribuable, car ce dernier conteste l’exactitude de la cotisation d’impôt. Toutefois, le fait « manquant » n’a aucune incidence sur l’issue de l’appel, à moins que le dossier ne contienne une preuve du fait qui soit acceptée par le juge[122].
+[247] Par conséquent, si le ministre souhaite s’appuyer sur un fait controversé[123] qui n’est pas une hypothèse de fait valide[124] et qui n’a pas été admis ou établi par des éléments de preuve présentés lors du contre-interrogatoire de l’appelante ou des témoins de l’appelante, le ministre doit s’assurer qu’il existe des éléments de preuve au dossier pour étayer ce fait. Il s’agit toutefois d’un fardeau purement tactique qui repose sur le ministre[125].
+[248] Le contribuable n’est pas tenu de prouver des faits ou de présenter des éléments de preuve sur des faits simplement parce qu’ils sont allégués comme faits dans l’avis d’appel. Comme l’a exprimé la juge L’Heureux-Dubé dans l’arrêt Hickman Motors Ltd. c. Canada[126], « [l]e fardeau initial consiste uniquement à “démolir” les présomptions exactes qu’a utilisées le ministre, mais rien de plus »[127]. De même, dans l’arrêt Placer Dome Canada Ltd c. Ontario (Ministre des Finances)[128], la Cour suprême du Canada a observé : « [i]l incombe donc au contribuable d’établir que les conclusions de fait sur lesquelles le ministre s’est fondé pour établir la cotisation sont erronées » et « [i]l appartient au contribuable de réfuter les présomptions de fait du ministre... »[129]. Par conséquent, une fois que les actes de procédures sont clos, le contribuable peut choisir de ne pas présenter d’éléments de preuve concernant les faits plaidés dans l’avis d’appel et de s’attaquer directement aux hypothèses de fait énoncées dans la réponse.
+[249] Un contribuable n’est pas tenu de présenter des éléments de preuve pour réfuter un fait sur lequel est fondée une cotisation d’impôt si ce fait n’est pas une hypothèse de fait valable et qu’il n’y a pas de preuve au dossier pour établir l’existence de ce fait[130]. L’absence du fait est, en soi, suffisante pour que le contribuable s’acquitte du fardeau de la preuve[131]. Cette proposition repose sur le fait qu’il serait manifestement injuste pour le contribuable d’exiger qu’il prouve un élément défavorable.
+[250] La discussion qui précède peut donner à penser que le fardeau de la preuve est d’une importance capitale dans les appels en matière d’impôt sur le revenu. En fait, dans la plupart des cas, l’application du fardeau de la preuve n’est pas du tout nécessaire pour résoudre un appel de nature fiscale. Comme l’indiquent les auteurs de SLB : [traduction] « Dans une procédure civile, le fardeau de la persuasion [fardeau de la preuve] ne joue pas de rôle dans le processus de décision si le juge des faits peut parvenir à une conclusion déterminée compte tenu de la preuve »[132]…
+[251] Si toutefois, à l’issue de l’audition de l’affaire, les hypothèses de fait et les éléments de preuve laissent le juge dans un état d’incertitude, le fardeau de la preuve ou la norme de preuve est appliqué pour déterminer l’issue[133]. Bien compris, le fardeau de la preuve est donc un mécanisme de départage qui est appliqué à la fin de l’affaire dans le cadre du processus de décision.
+[252] Dans l’arrêt Hickman Motors, la juge L’Heureux-Dubé parle du « fardeau initial » du contribuable. De même, il est courant que l’avocat de l’appelant renvoie au fardeau du ministre d’établir un fait plaidé dans la réponse qui n’est pas une hypothèse de fait.
+[253] En ce qui concerne le « fardeau » auquel il est fait référence de cette manière, on ne saurait mieux dire qu’il s’agit d’un fardeau procédural. En d’autres termes, dans les appels en matière d’impôt sur le revenu, en règle générale, le contribuable, en tant qu’appelant, présente ses moyens en premier et le ministre présente ses moyens après le contribuable[134]. Toutefois, seul le contribuable a le fardeau de la preuve en ce qui concerne l’exactitude d’une cotisation d’impôt et le fardeau de production de la preuve qui accompagne généralement cette charge n’a aucun rôle pratique dans les appels en matière d’impôt sur le revenu[135].
+[254] Un renvoi au fardeau qui ne peut être ni une charge de présentation ni un fardeau de la preuve selon les qualités juridiques de ces fardeaux[136] est simplement un moyen commode de décrire la procédure par laquelle une partie présente des éléments de preuve à l’appui de sa cause. Comme l’explique un document intitulé [traduction] « Burden of Proof » (fardeau de la preuve) publié par l’université Savitribai Phule Pune (anciennement, l’université de Pune) en Inde :
+[TRADUCTION]
+Il existe une distinction entre « fardeau de la preuve » et « charge de la preuve ». Le fardeau de la preuve incombe à la personne qui doit prouver le fait et il ne se déplace jamais, alors que la charge de la preuve se déplace d’une partie à l’autre. Ce transfert de la charge de la preuve est un processus continu dans l’évaluation des éléments de preuve[137].
+[255] Je retiens l’enseignement de l’arrêt Eisbrenner c. Canada[138] : la norme de preuve dans les appels en matière d’impôt doit être celle de la prépondérance des probabilités (et non une preuve de prime abord) et le fardeau de la preuve imposé au contribuable par la jurisprudence Johnston ne se déplace pas vers le ministre[139]. Toutefois, je suis d’avis que seule la Cour suprême du Canada peut analyser ces questions, car elles découlent des observations explicites dans la décision de la juge L’Heureux-Dubé dans l’arrêt Hickman Motors, qui ont par la suite été retenues comme faisant autorité par la Cour d’appel fédérale dans l’arrêt Amiante Spec Inc c. R.[140], par. 15 et House, par. 30 et 31[141]. Je parviens à cette conclusion malgré le fait que, le 14 janvier 2021, la Cour suprême du Canada a refusé l’autorisation d’interjeter appel dans l’arrêt c. Ross Morrison c. Sa Majesté la Reine (dossier de la CSC no 39359).
+[256] En toute déférence, je rejette l’enseignement de l’arrêt Eisbrenner qui est contraire aux observations incidentes des juges majoritaires dans l’arrêt Johnston, de la juge L’Heureux-Dubé dans l’arrêt Hickman Motors et de la Cour unanime dans l’arrêt Placer Dome[142], plus précisément, l’enseignement de l’arrêt Eisbrenner selon lequel il y a un rôle différent pour les actes de procédure du contribuable que celui énoncé dans l’arrêt Johnston et retenu à plusieurs reprises par la Cour d’appel fédérale[143] et l’enseignement déplace le fardeau de la preuve des hypothèses de fait du ministre vers les faits plaidés par le contribuable[144].
+[257] Je présente l’analyse qui précède non seulement pour répondre aux questions soulevées dans les présents appels, mais aussi dans l’espoir que, pour le bénéfice de tous les contribuables et du ministre, la Cour suprême du Canada (dans un avenir pas trop lointain) réexaminera et clarifiera les rôles du fardeau de la preuve et des hypothèses de fait dans les appels en matière d’impôt sur le revenu[145].
+[258] En ce qui concerne la cotisation des appelantes en vertu du paragraphe 160(2), vu l’analyse qui précède, puisque les appelantes contestent l’exactitude des cotisations en vertu du paragraphe 160(2), le fardeau de la preuve incombe à celles-ci.
+[259] Toutefois, cette conclusion ne porte pas sur la question distincte de savoir si le ministre peut se fonder sur des hypothèses de fait pour établir la dette fiscale des filiales. Dans l’arrêt Transocean Offshore Ltd. c. Canada, 2005 CAF 104 (« Transocean »), la Cour a observé :
+34 Dans la décision Redash, le juge a déclaré ce qui suit concernant les hypothèses factuelles non connues de l’appelante (au paragraphe 31) :
+... Les perceptions de fait qui ne sont connues que de l’intimée et qui sont présentées dans la réponse à l’avis d’appel comme des hypothèses, n’étant pas connues de l’appelante et difficiles ou impossibles à réfuter sans que cette dernière n’ait à fournir un effort extraordinaire ou à engager des frais importants, ne doivent pas être considérées comme des faits simplement parce qu’ils n’ont pas été précisément réfutées par l’appelante dans son témoignage. Dans ces circonstances, les hypothèses de fait ne peuvent pas remplacer le devoir de l’intimée de présenter des preuves pour justifier ou appuyer ce qui peut être pertinent afin de contrer ou influencer la version des faits de l’appelante.
+35 Cet énoncé part du principe général que, dans un appel en matière d’impôt, les hypothèses factuelles de la Couronne sont considérées comme vraies à moins d’être réfutées (voir la décision Pollock, précitée). Elle part aussi du principe que ce principe général, comme tous les principes généraux, comporte des exceptions. La justification du principe général est que le contribuable connaît ou peut connaître tous les faits relatifs à l’établissement de l’impôt sur le revenu. [...] Il se peut cependant que l’équité exige que l’on ne fasse pas porter au contribuable le fardeau de réfuter une hypothèse factuelle de la Couronne. Il pourrait s’agir, par exemple, d’un fait dont seule la Couronne aurait connaissance, mais je ne crois pas que ce soit le cas en l’espèce.
+[Non souligné dans l’original.]
+[260] Contrairement à l’arrêt Transocean, à mon avis, il serait manifestement injuste pour les appelantes que le ministre puisse présumer des faits à l’appui de l’assujettissement des filiales à l’impôt après la vente, alors qu’on ne peut raisonnablement s’attendre à ce que les appelantes connaissent ces faits.
+[261] L’intimée soutient que les appelantes auraient pu demander les déclarations de revenus T2 de 2006 des filiales. S’il est vrai qu’aux termes de l’accord de vente d’actions, les appelantes pouvaient demander la copie des déclarations de revenus T2 de 2006 des filiales, les déclarations de revenus n’auraient fourni aucune information aux appelantes sur les opérations qui ont donné ouverture à la déduction pour amortissement demandée dans ces déclarations de revenus et les appelantes n’avaient aucun droit ou raison d’obtenir cette information. Par conséquent, il s’agit d’un cas où l’équité dicte que le ministre ne soit pas autorisé à s’appuyer sur des hypothèses de fait pour prouver la dette fiscale des filiales après la vente. Par conséquent, j’évaluerai cette dette fiscale des filiales en me fondant uniquement sur les éléments de preuve figurant au dossier.
+[262] M. Nerland a fait preuve d’un manque frappant de connaissances ou de mémoire concernant les opérations dans les filiales après leur achat par WTC. Cependant, M. Nerland a fait plusieurs déclarations qui, combinées aux éléments de preuve documentaires, remettent sérieusement en question l’efficacité de la stratégie fiscale des filiales après leur vente à WTC.
+[263] En ce qui concerne l’achat supposé par MCI et par 471 de logiciels contre un billet à ordre de huit millions de dollars, M. Nerland a témoigné en chef que [traduction] « [j]e ne me souviens pas qu’il y ait jamais eu de paiements effectués. Tout intérêt facturé a été accumulé, mais non remis »[146]. M. Nerland a également affirmé qu’il n’y a jamais eu de paiements en espèces, que MCI n’a jamais eu de compte bancaire et que s’il y avait eu des paiements dans l’une des entités, ils auraient été payés par chèque sur le compte bancaire de l’avocat[147]. Lors du contre-interrogatoire, M. Nerland a affirmé que [traduction] « [j]e ne pense pas que les dépôts aient jamais changé de mains »[148] avec le fournisseur du logiciel.
+[264] M. Nerland a également convenu avec l’avocat de l’intimée que, de 2007 à 2012, MCI et 471 n’ont déclaré aucun revenu à l’adresse[149] et que, à sa connaissance, aucun rapport de commercialisation n’a jamais été préparé par l’entité censée commercialiser le logiciel pour MCI et 471[150].
+[265] Enfin, M. Nerland a témoigné en contre-interrogatoire qu’on ne lui a fourni aucun livre et registre des filiales[151] et qu’il a confirmé à plusieurs reprises à Robert MacRae que les filiales n’avaient aucun employé et aucune responsabilité en matière de TPS[152].
+[266] À mon avis, la seule conclusion raisonnable que l’on peut tirer du témoignage de M. Nerland et des pièces pertinentes est que l’achat présumé de logiciels par les filiales n’a pas été effectué dans le cadre d’une entreprise commerciale de bonne foi entreprise par les filiales, mais uniquement pour permettre aux filiales de demander une déduction pour amortissement dans leurs déclarations de revenus T2 afin de réduire l’impôt à payer par les filiales à la suite de la vente des terres agricoles. Par conséquent, je conclus que le logiciel n’a pas été acquis dans le but de gagner ou de produire un revenu, comme l’exige l’alinéa 1102(1)c) du RIR, et qu’aucune déduction pour amortissement ne peut être demandée par les filiales à l’égard du logiciel.
+[267] Je conclus également que la dette censée être attestée par les billets à ordre de huit millions de dollars n’a pas été contractée par les filiales dans le but de tirer un revenu du logiciel, comme l’exige le sous-alinéa 20(1)c)(ii) de la LIR, et que, par conséquent, les intérêts sur les billets n’étaient pas déductibles dans le calcul du revenu des filiales.
+[268] Bien qu’il existe d’autres faits pertinents, comme le fait que MCI n’ait pas eu de compte bancaire même après avoir prétendument commencé à vendre des logiciels, à mon avis, l’absence de revenus pendant six ans (de 2007 à 2012), l’absence de rapports de marketing de la part du prétendu commercialisateur du logiciel, l’absence d’employés des filiales et l’existence d’un accord[153] par lequel MCI aurait vendu le logiciel à une société à numéro en 2007 et que M. Nerland n’a pas pu expliquer, fournissent un soutien plus qu’adéquat aux deux conclusions ci-dessus.
+[269] La dernière question est de savoir si la RGAÉ s’applique pour redéterminer les conséquences fiscales de la série d’opérations afin de refuser un avantage fiscal qui résulterait autrement, directement ou indirectement, de la série d’opérations.
+[270] Il est constant que la série pertinente d’opérations commence avec la constitution en société des filiales et se termine avec la clôture de la vente des actions des filiales par les appelantes à WTC (la « série »). Compte tenu des ECPF et des éléments de preuve, les opérations composant la série sont les suivantes :
+A. La constitution en société des filiales.
+B. Le transfert des participations des appelantes dans les sociétés en nom collectif aux filiales et les choix associés par les appelantes et leurs filiales aux termes du paragraphe 85(1) de la LIR.
+C. L’augmentation du capital social des actions détenues par les appelantes dans les filiales.
+D. La conclusion par les appelantes et WTC des accords de vente d’actions le 29 décembre 2006.
+E. L’exercice des options de vente par les appelantes le 31 décembre 2006.
+F. La cession ou le transfert des biens des filiales à WTC.
+G. La cession et le transfert par les appelantes à WTC des actions dans les filiales.
+H. La cession ou le transfert des biens par WTC d’environ 80 % des biens aux appelantes en règlement du prix d’achat des actions des filiales.
+[271] L’interprétation et l’application de la RGAÉ sont éclairées et encadrées par l’observation incidente de la Cour suprême du Canada dans trois arrêts : Hypothèques Trustco Canada, Lipson c. Canada, 2009 CSC 1 (« Lipson ») et Copthorne[154]. Les principes suivants sont tirés de cette jurisprudence.
+[272] La RGAÉ a été adoptée en tant que disposition de dernier recours afin de lutter contre l’évasion fiscale abusive[155]. La RGAÉ n’a pas été conçue pour introduire l’incertitude dans la planification fiscale[156].
+[273] Des mots comme « mauvaise utilisation » et « abus » dans la RGAÉ ne signifient pas que les mesures prises par un contribuable qui utilise les dispositions de la LIR de manière créative sont moralement offensantes[157]. Le contribuable peut opter pour les avenues ou les opérations qui sont propres à réduire son obligation fiscale[158]. Une décision relative à la RGAÉ doit donc être examinée avec prudence, en gardant à l’esprit que « [l]e législateur recherche [...] l’uniformité, la prévisibilité et l’équité en matière de droit fiscal »[159].
+[274] Une analyse relevant de la RGAÉ m’oblige à répondre à trois questions[160] :
+A. Y a-t-il eu avantage fiscal?
+B. L’opération ayant généré l’avantage fiscal[161] était-elle une opération d’évitement?
+C. L’opération d’évitement ayant généré l’avantage fiscal était-elle abusive?
+[275] L’existence ou la non-existence d’un avantage fiscal est une question de fait[162]. Il incombe au contribuable de réfuter l’existence d’un avantage fiscal[163]. Le fardeau de la preuve fonctionne de la même manière que dans le cadre d’un appel interjeté à l’encontre d’une cotisation d’impôt[164].
+[276] La définition de l’avantage fiscal m’oblige à déterminer si le contribuable a réduit, évité ou reporté un impôt ou une autre somme payable en application de la LIR, ou augmenté un remboursement d’impôt ou une autre somme payable en application de la LIR[165]. L’ampleur d’un avantage fiscal n’est pas pertinente pour déterminer l’existence d’un avantage fiscal[166].
+[277] Dans certains cas, l’avantage fiscal sera clair, par exemple lorsque le contribuable demande une déduction de son revenu imposable[167]. Dans d’autres cas, la détermination peut nécessiter de comparer la situation du contribuable par rapport à un autre mécanisme[168]. Si une comparaison est utilisée, il faut que l’autre mécanisme en soit un qui aurait pu raisonnablement avoir été employé n’eût été l’avantage fiscal[169].
+[278] La définition de l’« opération d’évitement » comprend un renvoi à des critères juridiques tels que la signification de la « série d’opérations » et de l’expression « principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable » et requiert des faits pour déterminer si les critères juridiques sont remplis[170]. Ces critères juridiques ont été expliqués dans l’arrêt Hypothèques Trustco Canada et, dans le cas de la « série d’opérations » dans l’arrêt Copthorne. Par conséquent, l’existence ou la non-existence d’une opération d’évitement est une question de droit et de fait[171].
+[279] Le fardeau de la preuve incombe au contribuable qui doit réfuter les hypothèses de fait sur lesquelles repose l’existence d’une opération d’évitement[172]. Le fardeau de la preuve fonctionne de la même manière que dans le cadre d’un appel interjeté à l’encontre d’une cotisation d’impôt[173].
+[280] Sont assimilés à une opération une convention, un mécanisme ou un événement[174]. Une opération constituera une opération d’évitement si l’opération, ou la série d’opérations dont l’opération fait partie, donne ouverture à un avantage fiscal et que l’opération n’est pas entreprise principalement dans un but non fiscal[175].
+[281] Si une opération comporte à la fois un objet fiscal et un objet non fiscal véritable, je dois alors apprécier objectivement l’importance relative des forces motrices de l’opération pour déterminer quel en est l’objet principal[176]. Cela m’oblige à peser les éléments de preuve pour déterminer s’il est raisonnable de conclure que l’opération n’a pas été principalement effectuée pour un objet non fiscal véritable[177]. Plus précisément, je dois examiner les relations entre les parties et les opérations réelles qui ont été effectuées entre elles[178]. Le paragraphe 245(3) ne permet pas de requalifier une opération afin de déterminer s’il s’agit ou non d’une opération d’évitement[179].
+[282] La norme « principalement effectuées pour un objet non fiscal » n’est pas un critère de finalité commerciale; l’expression « objet non fiscal » a une portée plus large que l’expression « but commercial »[180]. Par exemple, les opérations effectuées principalement à des fins familiales ou aux fins de placement (véritables) ne sont pas des opérations d’évitement[181].
+[283] Pour chaque opération d’évitement, je dois déterminer si l’opération résulterait en un évitement fiscal abusif lorsqu’elle est considérée, le cas échéant, dans le contexte de la série d’opérations dont l’opération fait partie[182]. Cette analyse requiert une approche unique et unifiée de l’interprétation textuelle, contextuelle et téléologique des dispositions de la LIR en cause[183] afin de déterminer s’il y a eu évitement fiscal abusif[184]. La RGAÉ ne peut être appliquée pour refuser un avantage fiscal que si le caractère abusif de l’opération est évident[185].
+[284] Le cœur de l’analyse réside dans une interprétation contextuelle et téléologique des dispositions de la LIR en cause et dans l’application des dispositions correctement interprétées aux faits de l’espèce[186]. La question centrale est de savoir, compte tenu du texte, du contexte et de l’objet de cette (ces) disposition(s), si l’opération est contraire à l’objet ou à l’esprit de cette (ces) disposition(s)[187].
+[285] Le ministre est tenu de cerner l’objet ou l’esprit des dispositions qui sont censées avoir été trahis[188]. De plus, le ministre doit montrer clairement que l’opération d’évitement a un caractère abusif, et le contribuable a le bénéfice du doute[189].
+[286] Pour effectuer l’analyse requise par le paragraphe 245(4), la première étape consiste à cerner l’objet et l’esprit des dispositions donnant ouverture à l’avantage fiscal[190]. La seconde étape consiste à déterminer si l’opération est conforme à cet objet ou si elle y est contraire[191]. La première étape est une question de droit[192] tandis que la seconde étape est une question de fait[193]. L’analyse globale porte donc sur une question de droit et de fait[194].
+[287] L’objet et l’esprit d’une disposition, ou de dispositions interdépendantes, est la philosophie qui sous-tend cette disposition ou ces dispositions[195]. Cette philosophie est déterminée par l’application de la même approche textuelle, contextuelle et téléologique que celle utilisée pour interpréter toutes les dispositions législatives, mais en mettant l’accent sur l’objet et l’esprit (philosophie) des dispositions.
+[288] Le libellé de la loi doit être respecté et doit être interprété selon son sens juridique bien établi (en supposant qu’il y en ait un), bien que l’analyse contextuelle et téléologique puisse apporter des nuances à ce sens[196]. Le paragraphe 245(4) ne réécrit pas les dispositions de la LIR[197].
+[289] La recherche porte sur la philosophie qui sous-tend le texte des dispositions, en reconnaissant qu’elle peut ne pas être saisie par le sens strict du texte[198]. La détermination de la raison d’être d’une disposition, ou de dispositions interdépendantes, ne doit pas être confondue avec un jugement de valeur sur ce qui est bien ou mal, ni avec des théories sur ce que le droit fiscal devrait être ou ne devrait pas faire[199]. De même, il faut reconnaître que lorsqu’une disposition confère un avantage fiscal, l’octroi de cet avantage fiscal peut servir divers objets indépendants et interdépendants[200].
+[290] La deuxième étape exige un examen minutieux du contexte factuel dans lequel l’opération d’évitement se produit afin de déterminer si l’opération a contrecarré l’objet ou l’esprit (raison d’être) des dispositions en cause[201]. La question de savoir si l’application d’une disposition exige une circonstance particulière (telle que l’existence d’une « réalité économique ») est déterminée par renvoi à l’interprétation correcte de la disposition[202]. Par conséquent, la constatation de l’absence d’une circonstance particulière (telle que la « réalité économique » ou l’objet économique ou commercial d’une opération) fait simplement partie du contexte factuel et ne permet pas en soi de conclure qu’une opération d’évitement résulte en un évitement fiscal abusif[203].
+[291] D’autre part, « on peut conclure à l’existence d’un évitement fiscal abusif si les rapports et les opérations décrits dans la documentation pertinente sont dénués de fondement légitime relativement à l’objet ou à l’esprit des dispositions censées conférer l’avantage fiscal, ou si ces rapports et opérations diffèrent complètement de ceux prévus par les dispositions »[204].
+[292] De façon plus générale, on conclura à l’évitement fiscal abusif (1) lorsque l’opération produit un résultat que les dispositions législatives visent à exclure; (2) lorsqu’elle est contraire à la raison d’être des dispositions ou (3) lorsqu’elle contourne l’application des dispositions de manière contraire à leur objet ou à leur esprit[205].
+[293] En gardant ces principes à l’esprit, j’examinerai l’application de la RGAÉ aux opérations composant la série.
+[294] La première question qu’il faut discuter est celle de l’existence d’un avantage fiscal. La thèse de l’intimée dans les réponses est la suivante :
+La série d’opérations a été effectuée afin d’obtenir un avantage fiscal, à savoir éviter d’être solidairement responsable, en application du paragraphe 160(1) de la LIR, de la dette fiscale de [la filiale] et donc d’une somme à payer en application de la LIR.
+[295] L’observation écrite de l’intimée indique ce qui suit :
+S’il n’y avait pas eu d’avantage fiscal en l’espèce, il n’y aurait eu aucune raison de laisser plus de liquidités dans les filiales qu’un montant correspondant à 54 % de leur dette fiscale accumulée aux fins d’opération envisagée avec Wilshire. Le prix d’achat reçu par les appelantes pour les filiales n’a pas eu à passer par Wilshire puisqu’il a été payé avec des actifs indirectement en sa possession tout au long de l’année d’imposition 2006. Le transfert indirect de ces actifs par l’intermédiaire de Wilshire, s’est fait sur papier et seulement pendant une fraction de seconde. Le mécanisme qui aurait pu raisonnablement être réalisé sans l’existence de l’avantage fiscal aurait impliqué une distribution des fonds aux appelantes sous forme de dividende, un transfert sans contrepartie aux fins du paragraphe 160(1)[206].
+[296] La prémisse de la thèse de l’intimée porte que si les biens dans les filiales avaient été payés sous forme de dividende aux appelantes, l’article 160 se serait appliqué aux appelantes parce qu’un dividende est un transfert de biens sans contrepartie. Cette hypothèse suppose nécessairement que les appelantes ont conservé la propriété des filiales et que celles-ci n’ont pas payé leurs impôts à l’échéance (ou jamais).
+[297] La série comprenait la constitution en société des filiales afin qu’elles puissent être vendues à WTC. La possibilité d’un dividende interentreprises n’existait que si les filiales existaient et les filiales n’existaient que pour pouvoir être vendues à WTC.
+[298] Le rôle des filiales en tant que sociétés à but unique créées pour être vendues à WTC excluait tout dividende, car cela aurait été contraire aux conditions de la vente pour laquelle les filiales ont été expressément créées. De même, s’il n’y avait pas eu de proposition de création et de vente des filiales à WTC, il n’y aurait pas eu de filiales et aucune possibilité de dividende interentreprises tombant sous le coup de l’article 160. Au contraire, les revenus et les liquidités des sociétés de personnes seraient attribués et distribués directement aux appelantes.
+[299] Soit les filiales ont été créées et vendues à WTC, soit elles n’ont pas été créées. Ces deux circonstances ne sont pas alternatives, mais sont mutuellement exclusives. Par conséquent, le mécanisme de dividendes interentreprises proposé par l’intimée n’est pas une solution de rechange raisonnable à ce qui s’est réellement passé.
+[300] En revanche, en ce qui concerne l’arrêt Copthorne, le contribuable aurait pu entreprendre la réorganisation souhaitée d’au moins deux manières différentes. La Cour a fait remarquer ce qui suit :
+La fusion était nécessaire pour que Copthorne atteigne les objectifs visés en 1993 lors des opérations intervenues entre VHHC Holdings, Copthorne I et Big City, à savoir la simplification de la structure d’entreprise du groupe et la possibilité de mettre les gains escomptés à l’abri de l’impôt grâce aux pertes des quatre sociétés fusionnantes. La seule question qui se posait était celle de savoir si la fusion serait horizontale ou verticale. Comme la juge de la Cour de l’impôt le fait remarquer, la fusion verticale aurait été la solution la plus simple. Copthorne I a vendu à Big City ses actions de VHHC Holdings seulement parce qu’une fusion verticale aurait entraîné l’annulation du CV. Pour paraphraser le professeur Duff, « n’eût été » l’incidence différente sur le CV, la fusion verticale aurait été une option raisonnable[207].
+[301] Je conclus, compte tenu des hypothèses de fait et de l’ensemble des éléments de preuve, que l’avantage fiscal désigné par l’intimée n’existe pas.
+[302] Bien que cela évite d’examiner la RGAÉ, par souci d’exhaustivité, j’examinerai la question de savoir s’il s’agit d’une opération d’évitement et s’il y a évitement fiscal abusif. Je le fais en partie parce que la série a donné ouverture à au moins un avantage fiscal identifiable – l’augmentation du prix de base rajusté des actions des filiales et la réduction du gain en capital résultant de la vente de ces actions – et que les opérations de la série ont été effectuées pour obtenir cet avantage fiscal.
+[303] Une opération est une opération d’évitement si un avantage fiscal résulte directement ou indirectement de l’opération ou d’une série d’opérations dont l’opération fait partie. Une opération est exclue de la définition s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.]
+[304] Les appelantes soutiennent qu’elles ont effectué les opérations de la série (les « opérations ») dans le but de vendre les filiales à WTC pour réaliser un gain économique. Bien que je reconnaisse que l’objet général était un gain économique, la série comprend des opérations dont le seul but était d’obtenir un avantage fiscal.
+[305] Par exemple, les résolutions spéciales en date du 28 décembre 2006 qui ont augmenté le capital social des actions des filiales[208] avaient pour seul but d’augmenter le prix de base rajusté des actions des filiales pour les appelantes[209]. Cette augmentation a à son tour éliminé le gain en capital qui aurait autrement été réalisé par les appelantes lors de la vente de leurs actions dans les filiales[210].
+[306] La thèse de l’intimée porte essentiellement que, parce que près de dix ans après la série, le ministre a établi une cotisation à l’égard des appelantes plutôt que WTC en application de l’article 160, le but des opérations était d’obtenir l’avantage de l’article 160 qui ne s’applique pas aux appelantes.
+[307] Cependant, la preuve ne permet pas de conclure qu’une opération ou la série elle-même a été effectuée pour éviter l’article 160, qui est « l’avantage fiscal » désigné par l’intimée. L’intimée reconnaît que [traduction] « l’objet principal qui doit être déterminé est l’objet principal au moment où les opérations ont été effectuées », déterminé sans le bénéfice du recul[211].
+[308] La preuve va amplement dans le sens de la conclusion portant que les appelantes ont effectué les opérations pour effectuer la vente de leurs actions dans les filiales à WTC de manière avantageuse sur le plan fiscal. Rien ne permet de penser qu’en 2006, les appelantes ont envisagé l’application de l’article 160 et pris des mesures pour éviter l’application de cette disposition.
+[309] Il ressort bel et bien des éléments de preuve que les opérations ont été entreprises par les appelantes afin qu’elles puissent vendre les filiales pour obtenir un gain économique. Pour des raisons connues uniquement du ministre, ce dernier a choisi en 2016 d’établir une cotisation à l’égard des appelantes plutôt qu’à l’encontre de WTC en vertu de l’article 160. Cette mesure unilatérale du ministre ne permet pas de conclure qu’en 2006 les appelantes ont effectué les opérations pour éviter l’application de l’article 160.
+[310] Le libellé du paragraphe 245(3) met l’accent sur les objets d’une opération et exclut expressément une opération lorsque celle-ci a été principalement effectuée pour des objets véritables autres que l’obtention de l’avantage fiscal. L’avantage fiscal ne peut être que l’avantage fiscal allégué par le ministre, car le contribuable ne peut se défendre contre une cotisation fondée sur la RGAÉ sans connaître l’avantage fiscal en cause.
+[311] Puisqu’aucune des opérations n’a été effectuée pour éviter l’application de l’article 160 – l’avantage fiscal allégué par le ministre – et puisqu’il n’y a aucun fondement factuel pour conclure que les opérations de la série n’étaient pas des opérations véritables, il est raisonnable de conclure que les opérations ont été principalement effectuées pour des objets véritables – l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable. Il en est ainsi même si les opérations ont permis d’obtenir d’autres avantages fiscaux qui ne sont pas allégués par le ministre.
+[312] Même si des avantages fiscaux qui ne sont pas allégués par le ministre ont permis de conclure à l’existence d’une ou de plusieurs opérations d’évitement, l’analyse requise aux termes du paragraphe 245(4) est résolue facilement, car, comme on peut s’y attendre compte tenu de l’objet de la cotisation fondée sur la RGAÉ par le ministre, ce dernier n’a fait état d’aucun fondement permettant de conclure qu’une opération d’évitement effectuée pour obtenir un avantage fiscal autre que celui allégué par le ministre constitue un évitement fiscal abusif.
+[313] Pour en revenir à l’analyse de la RGAÉ dans le contexte de l’avantage fiscal désigné par le ministre, la dernière étape de l’analyse consiste à déterminer si les opérations – dont l’intimée affirme qu’elles sont toutes des opérations d’évitement parce qu’elles ont été effectuées pour éviter l’application de l’article 160 – résultent en un évitement fiscal abusif. Nonobstant le fait que j’ai conclu que l’avantage fiscal désigné par le ministre n’existait pas et qu’aucune des opérations n’est une opération d’évitement même si cet avantage fiscal existait, j’examinerai la troisième étape de l’analyse de la RGAÉ.
+[314] L’intimée soutient que l’objet et l’esprit de l’article 160 sont [traduction] « de protéger la capacité du ministre de recouvrer les dettes fiscales en empêchant les contribuables de transférer leurs biens à une personne liée afin de contrecarrer cette capacité »[212]. L’intimée invoque l’enseignement de plusieurs arrêts de la Cour d’appel fédérale à l’appui de cette thèse et poursuit en examinant d’autres arrêts allant dans le même sens. Toutefois, un seul de ces arrêts – 594710 – portait sur l’application de la RGAÉ.
+[315] Dans l’arrêt 594710, la Cour a observé :
+Il est d’abord nécessaire de déterminer l’objet et l’esprit de l’article 160 après avoir procédé à une interprétation textuelle, contextuelle et téléologique de la Loi.
+Selon son libellé, l’article 160 a comme objet d’imposer une responsabilité solidaire lorsqu’un transfert de biens survient durant la même année d’imposition où a été contractée une obligation fiscale ou durant une année d’imposition ultérieure[213].
+[316] Cette formulation d’intention était suffisante pour les circonstances de cette affaire, car l’article 160 était contourné par le déclenchement d’une fin d’exercice dans le but de placer l’obligation fiscale dans une année différente (future) du transfert de biens en cause. Je ne crois pas que la Cour d’appel ait voulu définir de manière exhaustive et exclusive la raison d’être de l’article 160.
+[317] Dans l’arrêt Eyeball Networks Inc. c. Canada, le juge en chef Noël définit l’objet du paragraphe 160(1) comme suit :
+... le paragraphe 160(1) a pour objet de supprimer pour le fisc toute vulnérabilité découlant d’un transfert de biens entre personnes ayant un lien de dépendance fondé sur une contrepartie inférieure à la juste valeur marchande des biens transférés[214]…
+[318] Contrairement à l’objet avancé par l’intimée, le juge en chef Noël retient une definition d’objectif qui reflète non seulement le libellé inclusif de la première partie, mais aussi les limites incluses dans les règles de la deuxième partie.
+[319] L’intimée allègue que toutes les opérations ont été effectuées pour contourner l’application de l’article 160. Compte tenu de la variété des opérations effectuées par les appelantes et du fait que ces opérations échappent à l’application du paragraphe 160(1) pour diverses raisons (relation sans lien de dépendance, contrepartie, etc.), et malgré l’utile formulation de l’objet dans l’arrêt Eyeball Networks, étant donné que l’objet du paragraphe 160(1) est un élément important de l’analyse de la RGAÉ, je dois examiner en détail l’objet du paragraphe 160(1) pour m’assurer que les faits en cause sont jugés en fonction d’une compréhension appropriée de l’objet de l’article. Comme observé dans l’arrêt Copthorne, étant donné que le caractère abusif de l’opération doit être clair, la cour, en effectuant une analyse de l’abus, doit :
+... se livrer à une analyse objective, approfondie et point par point, puis justifier sa conclusion[215].
+[320] Pour déterminer la raison d’être d’une disposition, la Cour suprême n’a pas exigé que le texte de la disposition soit écarté. Bien au contraire, la Cour suprême a observé qu’« il faut respecter le libellé de la loi et lui donner son sens juridique bien établi »[216]. Bien que la Cour suprême ait bel et bien fait remarquer qu’une analyse textuelle, contextuelle et téléologique peut ajouter des nuances à un sens juridique établi, elle a également observé que le paragraphe 245(4) ne rémanie pas la LIR; il exige seulement qu’un avantage fiscal soit conforme à l’objet et à l’esprit des dispositions invoquées[217].
+[321] La définition de l’objet par l’intimée ne porte que sur l’aspect lié au recouvrement du paragraphe. La définition de l’objet faite par l’intimée implique que tout transfert de biens doit être considéré comme abusif si le transfert entrave la capacité du ministre de recouvrer une dette fiscale. Cependant, cette thèse ne prend pas en considération le large libellé inclusif de la première partie ou les règles de la deuxième partie.
+[322] La première partie comprend deux critères généraux qui déterminent si les règles de la deuxième partie s’appliquent.
+[323] Le premier critère de la première partie exige un transfert de biens direct ou indirect de quelque manière que ce soit. J’ai conclu que le transfert d’environ 82 % des biens des filiales aux appelantes constitue un transfert de ces biens des filiales aux appelantes au sens de la première partie.
+[324] Le deuxième critère de la première partie exige que l’auteur du transfert du bien soit un époux ou un conjoint de fait actuel ou futur, une personne ayant un lien de dépendance ou une personne âgée de moins de 18 ans.
+[325] La question de savoir si deux personnes n’ont pas de lien de dépendance soulève l’application d’autres règles générales de la LIR, notamment la règle résiduelle selon laquelle, dans tous les cas où les règles particulières ne s’appliquent pas, la question de savoir si deux personnes n’ont pas de lien de dépendance est une question de fait.
+[326] La Cour suprême enseigne que les « dispositions de la Loi de l’impôt sur le revenu relatives aux opérations entre des personnes ayant un lien de dépendance visent à empêcher que des opérations artificielles procurent des avantages fiscaux à ces personnes ou à l’une d’elles »[218].
+[327] La raison précise de l’utilisation d’un critère de relation sans lien de dépendance est déterminée par renvoi au contexte légal dans lequel il se trouve. Par exemple, dans l’arrêt Société de banque Suisse, la Cour a observé que le critère de relation sans lien de dépendance dans une disposition de retenue à la source qui s’appliquait aux intérêts donnait « l’assurance que le taux d’intérêt [...] sera le reflet d’opérations commerciales ordinaires entre des parties agissant dans le sens de leurs intérêts distincts »[219].
+[328] La norme factuelle de relation sans lien de dépendance exige la prise en compte de toutes les circonstances pertinentes pour déterminer si deux personnes n’ont pas de lien de dépendance[220]. La norme utilise souvent les « [critères utiles] que les tribunaux ont élaboré[s] et accepté[s] », mais d’autres considérations peuvent entrer en jeu[221].
+[329] La norme de relation sans lien de dépendance est une norme souple qui vise à déterminer la véritable nature de la relation entre deux ou plusieurs personnes. La nature souple de la norme de relation sans lien de dépendance est telle que la manipulation ou l’artificialité des circonstances peuvent être prises en considération lors de l’application de la norme.
+[330] Le critère de relation sans lien de dépendance de la première partie définit un groupe de personnes qui sont potentiellement assujetties aux règles de la deuxième partie. L’objet du critère de relation sans lien de dépendance peut être décrit sous deux angles différents[222].
+[331] Premièrement, sous réserve que le bénéficiaire du transfert soit l’une des autres personnes visées par la première partie, le critère de pleine concurrence exclut du champ d’application du paragraphe 160(1) les transferts de biens entre personnes lorsqu’il est assuré quelles forces du marché déterminent les conditions du transfert parce que ces parties ne sont pas liées et agissent dans leurs intérêts distincts.
+[332] Deuxièmement, le critère de relation sans lien de dépendance inclut dans le champ d’application du paragraphe 160(1) les transferts de biens entre personnes lorsqu’il n’y a aucune assurance que les forces du marché déterminent les conditions du transfert parce que ces parties sont liées ou n’agissent pas dans leurs intérêts distincts.
+[333] Aux termes de la deuxième partie, les transferts visés par la première partie font l’objet du critère pour s’assurer que la contrepartie donnée pour le bien transféré est au moins égale à la juste valeur marchande de ce bien. Si le bénéficiaire du transfert donne une contrepartie égale à la juste valeur marchande, alors, même s’il est visé par la première partie, il n’est pas assujetti à l’obligation en vertu du paragraphe 160(1).
+[334] En plus de contrôler la contrepartie donnée par le bénéficiaire du transfert pour le bien transféré, conformément à la fonction de recouvrement du paragraphe 160(1), la deuxième partie prévoit une limite absolue à la responsabilité du bénéficiaire du transfert. Vu cette limite, lorsque la contrepartie donnée par le bénéficiaire du transfert est inférieure à la juste valeur marchande du bien transféré (un « manque à gagner »), le paragraphe 160(1) s’applique au manque à gagner, mais seulement dans la mesure où il y a un montant dû par le bénéficiaire du transfert en vertu de la LIR (une « dette »). Le bénéficiaire du transfert ne peut jamais être responsable de plus que le moindre du manque à gagner et de la dette.
+[335] Le manque à gagner constitue un enrichissement du bénéficiaire du transfert parce qu’il a donné une contrepartie inférieure à la juste valeur marchande du bien transféré. Par conséquent, le paragraphe 160(1) permet au ministre de percevoir les montants dus par l’auteur du transfert en vertu de la LIR, mais seulement dans la mesure où le bénéficiaire du transfert est enrichi par le transfert.
+[336] Le mécanisme de recouvrement prévu au paragraphe 160(1) n’est pas axé sur le montant dû par l’auteur du transfert, mais sur les modalités du transfert et sur la question de savoir si ces modalités ont pour effet d’enrichir le bénéficiaire du transfert. Conformément à la fonction de recouvrement du paragraphe, le montant dû par l’auteur du transfert est simplement une limite au montant qui peut être récupéré auprès du bénéficiaire du transfert.
+[337] J’en conclus que l’objet ou la raison d’être du paragraphe 160(1) est d’interdire les transferts de biens entre personnes ayant un lien de dépendance (et certaines autres) et de percevoir des bénéficiaires du transfert le moindre du montant dû par l’auteur du transfert en vertu de la LIR et du montant par lequel le bénéficiaire est enrichi par le transfert. L’objet du paragraphe 160(1) n’est pas, comme l’indique l’intimée, de recouvrer les sommes dues par l’auteur du transfert afin de ne pas contrecarrer les mesures de recouvrement du ministre.
+[338] Je tire ma definition de l’objet du libellé du paragraphe 160(1), lu au regard du contexte global et en tenant compte d’autres indices de l’intention du législateur (comme l’intention découlant de la portée des expressions utilisées dans la première partie). Le fait que l’objet que j’ai désigné s’accorde avec la mécanique générale du paragraphe n’indique pas que cet objet est fondé uniquement sur le libellé de la disposition, mais représente simplement la nature de la disposition en tant que règle détaillée assortie de conditions précises.
+[339] À cet égard, il est important de rappeler que la Cour suprême du Canada a reconnu à maintes reprises que la LIR est une loi particulièrement détaillée et que, bien que la RGAÉ puisse atténuer l’importance accordée à l’interprétation textuelle[223], l’objet n’est pas de faire abstraction du texte (ou les caractéristiques d’une disposition législative que le texte révèle), mais de « dégager l’intention du législateur en tenant compte du libellé de la disposition, de son contexte et d’autres indices de l’objectif législatif ».[224]
+[340] Plus précisément, l’objet d’une disposition ne doit pas être fondé sur une supposition ou sur la conviction que le législateur ne pouvait pas avoir voulu un résultat particulier[225]. L’objectif doit plutôt être fondé sur une approche unifiée, textuelle, contextuelle et téléologique de l’interprétation des dispositions précises qui donnent ouverture à l’avantage fiscal. Comme il est observé dans l’arrêt Copthorne :
+... N’oublions pas qu’« il faut [...] considérer [que le législateur] recherche l’uniformité, la prévisibilité et l’équité en matière de droit fiscal »…
+. . .
+... il ne faut [...] confondre la détermination de la raison d’être des dispositions applicables de la Loi avec le jugement de valeur quant à ce qui est bien ou mal non plus qu’avec les conjectures sur ce que devrait être une loi fiscale ou sur l’effet qu’elle devrait avoir[226].
+[341] Quoi qu’il en soit, l’objet (ou la raison d’être) du paragraphe 160(1) que j’ai cerné est conforme à l’objet cerné par le juge en chef Noël dans l’arrêt Eyeball Networks et à la description du paragraphe 160(1) que l’on trouve dans une note technique publiée en 1987 par le ministère des Finances :
+[traduction]
+Le paragraphe 160(1) prévoit que le bénéficiaire du transfert d’un bien avec lien de dépendance est solidairement responsable du paiement des impôts de l’auteur du transfert pour l’année d’imposition au cours de laquelle le bien est transféré ou pour toute année antérieure, jusqu’à concurrence de l’excédent de la juste valeur marchande du bien sur la contrepartie donnée pour le bien.
+[342] L’étape suivante de l’analyse consiste à déterminer si l’opération d’évitement s’inscrit dans le cadre de l’objet du paragraphe 160(1) ou le contrecarre.
+[343] Le paragraphe 160(1) ne s’applique pas aux opérations en cause pour deux raisons. Premièrement, les filiales et les appelantes n’avaient aucun lien de dépendance au moment du transfert des biens. Deuxièmement, la contrepartie payée par les appelantes pour les biens était au moins égale à la juste valeur marchande de ces biens.
+[344] La première raison est le résultat du fait que le 31 décembre 2006, les appelantes ont exercé leur option de vente et ont vendu leurs actions dans les filiales à WTC, une personne qui n’avait aucun lien de dépendance avec les appelantes. Par conséquent, la LIR a considéré que WTC avait acquis le contrôle des filiales au début du 31 décembre 2006. L’achat par WTC des actions des filiales n’était pas fabriqué ou artificiel.
+[345] WTC avait également le contrôle de fait des filiales au moment où elle était réputée acquérir le contrôle juridique des filiales en vertu de la LIR, car M. Nerland était l’unique dirigeant et administrateur des filiales à ce moment-là. L’élection ou la nomination de M. Nerland avant la clôture a été convenue par les appelantes et WTC, c’est-à-dire par des personnes sans lien de dépendance ayant des intérêts distincts dans les mécanismes utilisés. L’élection ou la nomination de M. Nerland n’avait pas pour but d’éviter l’application du paragraphe 160(1), mais de faciliter l’exécution d’opérations dans les filiales qui servaient les intérêts distincts de WTC en tant qu’acheteur des filiales.
+[346] L’utilisation d’une option de vente d’actions pour entreprendre la vente des actions dans les filiales peut ne pas être aussi courante que l’utilisation d’un accord de vente d’actions. Cependant, l’option de vente a servi à donner à WTC la possibilité de prendre des mesures dans les filiales tout en protégeant les intérêts des appelantes. Il n’y a rien d’inhabituel ou d’inconvenant à ce que des personnes n’ayant aucun lien de dépendance conviennent d’étapes d’opérations qui favorisent les intérêts distincts de chacune de ces personnes. Il n’y a rien d’inhabituel ou d’inconvenant non plus à ce qu’une partie à une opération s’accommode des exigences de l’autre partie à l’opération pour obtenir un résultat qui satisfait les intérêts distincts de chacune de ces parties.
+[347] Quoi qu’il en soit, l’accord de vente d’actions n’a pas eu d’incidence quant à l’application du paragraphe 160(1). La relation sans lien de dépendance entre les filiales et les appelantes au moment du transfert des biens résultait de la vente des actions des filiales à WTC et non de l’utilisation d’un accord de vente d’actions. Une fois que les appelantes ont exercé les options de vente le 31 décembre 2006, l’effet commercial des contrats d’options de vente d’actions était exactement le même que celui d’un accord de vente d’actions.
+[348] WTC a utilisé les biens des filiales pour payer le prix d’achat des actions aux appelantes. Il y a donc eu transfert indirect de biens des filiales aux appelantes au sens de la première partie du paragraphe 160(1). Toutefois, ce transfert était sous le contrôle de WTC et n’a eu aucune incidence sur la relation entre les filiales et les appelantes au moment du transfert (c’est-à-dire qu’il n’a pas contourné le critère de relation sans lien de dépendance de la première partie). Le transfert a cependant satisfait à l’un des deux critères de la première partie par rapport aux appelantes et par rapport à WTC.
+[349] Le transfert des filiales à WTC a eu lieu à un moment où WTC avait un lien de dépendance avec les filiales. Par conséquent, les deux conditions de la première partie étaient remplies en ce qui concerne les transferts de biens des filiales à WTC et les règles de la deuxième partie s’appliquaient à ce transfert.
+[350] Dans ces circonstances, le paragraphe 160(1) n’a pas été trahi ou contourné. Le paragraphe s’est appliqué exactement comme il se doit. Le transfert des filiales aux appelantes n’était pas visé par la première partie, mais le transfert des filiales à WTC l’était. Étant donné qu’au moment de ce dernier transfert, WTC possédait et contrôlait les filiales et qu’à ce titre, elle avait assumé l’intégralité du risque associé aux dettes fiscales des filiales, l’application du paragraphe 160(1) à WTC est tout à fait conforme à l’objet du paragraphe 160(1).
+[351] De même, étant donné qu’au moment de ce dernier transfert, les appelantes ne possédaient plus ou ne contrôlaient plus les filiales et qu’elles avaient renoncé au risque de dettes fiscales dans les filiales parce qu’elles avaient été vendues à une personne sans lien de dépendance, la non-application du paragraphe 160(1) est également tout à fait appropriée.
+[352] Le caractère approprié de ces résultats dans les circonstances est renforcé par le fait que l’entente concernant l’échange de la contrepartie pour les biens transférés a été conclue par deux parties n’ayant manifestement aucun lien de dépendance – les appelantes et WTC. D’autre part, WTC a dicté la contrepartie qu’elle a versée aux filiales pour les biens transférés, ce qui indique que ce transfert est le transfert approprié à contester en application du paragraphe 160(1).
+[353] Le prix offert pour les actions des filiales par WTC reflétait à première vue l’évaluation de WTC de la valeur des filiales avec une stratégie fiscale en place. Le prix convenu était fondé sur l’actif et le passif des filiales et sur une hypothèse particulière de WTC concernant le passif. Il n’y a rien d’inhabituel à ce qu’un acheteur fasse des hypothèses sur l’actif et le passif d’une cible et conclue un accord sur le fondement de ces hypothèses. La justesse de ces hypothèses n’est pas pertinente, en particulier lorsque la « justesse » ne peut être déterminée qu’avec le recul.
+[354] Enfin, je note que l’application de la RGAÉ dans ce cas pourrait avoir des conséquences défavorables importantes pour d’autres opérations de vente d’actions sans lien de dépendance où les actifs de la cible sont utilisés en tout ou en partie pour financer le prix d’achat des actions. Comme il est observé dans l’arrêt Copthorne :
+... Parce que sa décision relative à l’application de la RGAÉ peut avoir un effet sur autant d’opérations, la cour doit faire preuve de prudence…
+. . .
+C’est pourquoi « la RGAÉ ne permet de supprimer un avantage fiscal que dans les cas où l’opération en cause est manifestement abusive »[227]…
+[355] Je conclus donc que la RGAÉ ne s’applique à aucune des opérations.
+[356] Pour les motifs qui précèdent, les appels sont accueillis et les cotisations établies à l’égard des appelantes en vertu de l’article 160 sont annulées. Les appelantes disposent d’un délai de 30 jours à compter de la date de la présente décision pour présenter une seule observation concernant les frais et dépens et l’intimée dispose de 15 jours pour répondre à cette observation. Les observations sur les frais et dépens ne doivent pas dépasser dix pages pour les appelantes et dix pages pour l’intimée.
+Signé à Ottawa, Canada, ce 24e jour de mars 2021.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 8e jour de mars 2023.
+François Brunet, réviseur
+ANNEXE A
+2016-4783(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DAMIS PROPERTIES INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+L’appelante et l’intimée conviennent des faits suivants et admettent l’authenticité des documents à l’appui[228]. Les parties sont autorisées à présenter des éléments de preuve supplémentaires qui ne contredisent pas ces faits.
+1) Les faits
+a) L’appelante est une société constituée aux termes de la Loi sur les sociétés par actions de l’Ontario. Ses activités consistent en la détention et la gestion de biens immobiliers locatifs, ainsi que d’autres activités liées à l’immobilier[229].
+b) Avant les opérations exposées aux présentes, la société Damis II Partnership (la « société ») était une société de personnes détenant une participation indivise de 16 2/3 % dans les terres agricoles de Chinguacousy à Brampton, en Ontario (les « terres agricoles »). Ses associés étaient l’appelante (pour une participation de 99,99 %) et Damis Investments II-B Limited (pour une participation de 0,01 %)[230].
+2) Vente des terres agricoles
+c) Le 11 janvier 2006 :
+i. 1685471 Ontario Inc. (« 471 ») a été constituée en société aux termes de la Loi sur les sociétés par actions (Ontario) en vue de la vente des terres agricoles[231].
+ii. L’appelante a souscrit une action de catégorie B de 471 pour 1,00 $[232].
+iii. Howard Meyer a été nommé administrateur unique, président et secrétaire de 471[233]. Il était également administrateur de l’appelante.
+iv. La société 471 a acquis, à titre de transfert libre d’impôt en application du paragraphe 85(1) de la Loi de l’impôt sur le revenu (Canada) (la « LIR »), la participation de l’appelante dans la société en échange de 100 de ses actions ordinaires. À la lumière du choix déposé, la participation dans la société avait une juste valeur marchande de 4 000 000 $ et un prix de base rajusté de 312 941 $, tandis que le capital déclaré des 100 actions ordinaires de 471 émises était de 312 941 $[234].
+d) Le 16 janvier 2006, la société a cédé son titre bénéficiaire de 16 2/3 % sur les terres agricoles à un acheteur sans lien de dépendance[235]. Le produit de la vente, de 3 985 079 $, a été déposé sur le compte bancaire de la société[236].
+e) Après la cession des terres agricoles, la société a déclaré un bénéfice net de 3 701 853 $ pour son exercice financier se terminant le 31 mai 2006, calculé comme suit[237] :
+Gain sur la vente des terres agricoles
+3 650 880 $
+Revenu d’intérêts
+51 848 $
+Frais bancaires
+(75 $)
+Honoraires d’audit
+(800 $)
+Revenus nets
+3 701 853 $
+f) Une somme de 3 701 332 $ (soit environ 99,99 % de 3 701 853 $) du revenu de la société a été attribuée à 471 pour son année d’imposition se terminant le 31 décembre 2006[238].
+3) Vente de 471 à Wilshire Technology Corporation
+g) Le 22 décembre 2006, Damis Holdings Limited a déposé la somme de 4 132 886 $ auprès de Goodman & Carr LLP (« G&C »), en fidéicommis pour 471, dans le cadre de la vente des actions de 471[239].
+h) Le 28 décembre 2006, le capital déclaré des actions ordinaires de 471 a été augmenté de 3 079 000 $ (de 312 941 $ à 3 391 941 $) par une série de résolutions spéciales de son unique actionnaire, l’appelante[240]. Un dividende réputé du même montant en a résulté en application du paragraphe 84(1) de la LIR, et une somme similaire a été ajoutée au prix de base rajusté des actions de 471 en application de l’alinéa 53(1)b) de la LIR.
+i) Le 29 décembre 2006, l’appelante et Wilshire Technology Corporation (« Wilshire »), une société constituée en application des lois de la Colombie-Britannique, ont signé un accord de vente d’actions en application duquel l’appelante avait le droit d’exiger que Wilshire achète les actions de 471 pour 3 302 217 $ (l’« option de vente »)[241].
+j) Conformément au paragraphe 3.1(l) du contrat de vente d’actions, l’appelante a déclaré et garanti à Wilshire que la dette fiscale de 471 pour son année d’imposition 2006 ne serait pas supérieure à 1 371 608 $.
+k) Conformément à l’alinéa 3.1s) du contrat de vente d’actions, l’appelante a déclaré et garanti à Wilshire que 471 n’avait aucun actif autre que des liquidités d’au moins 4 132 885 $.
+l) Le 29 décembre 2006, Howard Meyer a également démissionné de son poste d’administrateur unique, de président et de secrétaire de 471 et a été remplacé par Craig Nerland[242], qui a également représenté Wilshire à toutes les fins pertinentes dans le présent appel[243].
+m) Le 31 décembre 2006, l’appelante a exercé son option de vente pour amener Wilshire à acheter toutes ses actions de 471[244].
+n) Le même jour, l’appelante a cédé et transféré toutes ses actions de 471 à Wilshire[245].
+o) Immédiatement après, 471 a ordonné à G&C de payer la somme de 3 392 217 $ à Wilshire[246].
+p) Immédiatement après, en règlement du prix d’achat des actions de 471, Wilshire a ordonné à G&C de payer la somme de 3 392 217 $ à l’appelante[247].
+q) Enfin, toujours le 31 décembre 2006, 471 a ordonné à G&C de verser une somme correspondant approximativement au reste des fonds déposés le 22 décembre 2006, (740 668 $) à Hungerford Tomyn Lawrenson et Nichols (« HTLN »), en fidéicommis[248].
+Cette somme a été regroupée avec les paiements relatifs aux opérations réalisées dans les décisions Sabel, Zagjo, Devamm et Microbjo, puis transférée sur un compte bancaire à la CIBC Bank & Trust Company (Cayman) Limited le 8 janvier 2007 (moins des frais de 19 000 $ et une provision de 25 000 $ facturés par HTLN)[249].
+r) Depuis la cession des terres agricoles jusqu’à la conclusion du contrat de vente d’actions, les seuls actifs détenus directement ou indirectement par 471 étaient des liquidités ou des actifs financiers à court terme (pour une somme d’environ 4 132 885 $, au moment de sa vente)[250]. La société 471 avait également un passif d’impôt accumulé qui concernait en grande partie le bénéfice réalisé sur la vente des terres agricoles (pour une somme d’environ 1 371 608 $, au 29 décembre 2006)[251].
+s) Le ou vers le 12 novembre 2009, la déclaration d’impôt sur le revenu T2 de 471 pour son année d’imposition du 31 décembre 2006 a été déposée[252]. La somme de 3 397 603 $, correspondant approximativement à la somme cédée par 471 à Wilshire le 31 décembre 2006 (c.-à-d. 3 392 217 $), a été inscrite comme comptes débiteurs de 471 à l’annexe 100 de ses déclarations d’impôt sur le revenu T2 pour ses années d’imposition 2007 à 2012[253].
+t) Pour son année d’imposition se terminant le 31 décembre 2006, 471 a demandé une déduction pour amortissement (« DPA ») de 3 939 041 $ à l’égard d’un logiciel de catégorie 12 (le « logiciel »), mettant ainsi à l’abri la totalité de son revenu imposable.
+4) Processus d’évaluation
+u) Le 23 novembre 2012, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition de 471 se terminant le 31 décembre 2006, aux termes de laquelle il a refusé la déduction de la DPA demandée à l’égard du logiciel[254].
+v) Le 3 juin 2016, le ministre a établi une cotisation à l’égard de l’appelante aux termes de l’article 160 de la LIR concernant la dette fiscale de 471 découlant de son année d’imposition se terminant le 31 décembre 2006 (la « cotisation aux termes de l’article 160 »)[255]. La dette fiscale fédérale de 471 à cette époque était détaillée ainsi :
+Impôt
+Remboursement de dividendes
+Pénalités
+Intérêts
+Total
+853 411 $
+(25 839 $)
+140 687 $
+664 013 $
+1 632 272 $
+w) Le 13 juin 2016, l’appelante a déposé un avis d’opposition à la cotisation aux termes de l’article 160[256].
+x) L’appelante a déposé un avis d’appel à l’égard de la cotisation aux termes de l’article 160 le 7 novembre 2016, plus de 90 jours après le dépôt de l’avis d’opposition mais avant la confirmation de la cotisation aux termes de l’article 160.
+Toronto, dans la province de l’Ontario, ce 6e jour de mars 2020.
+Montréal, dans la province de Québec, ce 5e jour de mars 2020.
+Signé
+DENTONS CANADA LLP
+77, rue King Ouest, bureau 400
+Toronto-Dominion Centre
+Toronto (Ontario) M5K 0A1
+Télécopieur : 416-863-4592
+LE PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice du Canada
+Bureau régional du Québec
+Complexe Guy-Favreau
+200, boul. René-Lévesque Ouest
+Tour Est, 9e étage
+Montréal (Québec) H2Z 1X4
+Télécopieur : 514-283-3103
+Par : Me Yves St-Cyr
+Me Jacob Yau
+Par : Me Natalie Goulard
+Me Alain Gareau
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+Téléphone : 416-863-4712
+416-863-4676
+Téléphone : 514-496-6546
+514-283-8744
+514-496-6084
+514-283-0440
+Courriel : yves.stcyr@dentons.com
+jacob.yau@dentions.com
+Courriel : natalie.goulard@justice.gc.ca
+alain.gareau@justice.gc.ca
+simon.vincent@justice.gc.ca
+dominic.bedard-lapointe@justice.gc.ca
+Avocat de l’appelante
+Avocat de l’intimée
+DESTINATAIRE : Greffier
+Cour canadienne de l’impôt
+180, rue Queen Ouest, bureau 200
+Toronto (Ontario) M5V 3L6
+ANNEXE B
+2016-4789(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+MICROBJO PROPERTIES INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+L’appelante et l’intimée conviennent des faits suivants et admettent l’authenticité des documents à l’appui[257]. Les parties sont autorisées à présenter des éléments de preuve supplémentaires qui ne contredisent pas ces faits.
+1) Les faits
+a) L’appelante est une société constituée aux termes de la Loi sur les sociétés par actions de l’Ontario. Ses activités consistent en la détention et la gestion de biens immobiliers locatifs[258].
+b) L’unique actionnaire de l’appelante est Microbjo Holdings Inc. (« MHI »).
+c) Avant les opérations exposées aux présentes, la société Irber II Partnership (la « société ») était une société de personnes détenant une participation indivise de 16 2/3 % dans les terres agricoles de Chinguacousy à Brampton, en Ontario (les « terres agricoles »). Ses associés étaient l’appelante (pour une participation de 99,99 %) et Irber Investments II-B Limited (pour une participation de 0,01 %)[259].
+2) Vente des terres agricoles
+d) Le 10 janvier 2006 :
+i. Microbjo (Chinguacousy) Inc. (« MCI ») a été constituée en société aux termes de la Loi sur les sociétés par actions (Ontario) en vue de la vente des terres agricoles[260].
+ii. L’appelante a souscrit une action de catégorie B de MCI pour 1,00 $[261].
+iii. Michael Naiberg a été nommé administrateur unique, président et secrétaire de MCI[262]. Il était également administrateur de MHI et de l’appelante.
+iv. La société MCI a acquis, à titre de transfert libre d’impôt en application du paragraphe 85(1) de la Loi de l’impôt sur le revenu (Canada) (la « LIR »), la participation de l’appelante dans la société en échange de 100 de ses actions ordinaires. À la lumière du choix déposé, la participation dans la société avait une juste valeur marchande de 4 000 000 $ et un prix de base rajusté de 283 643 $, tandis que le capital déclaré des 100 actions ordinaires de MCI émises était de 283 643 $[263].
+e) Le 16 janvier 2006, la société a cédé sa propriété effective de 16 2/3 % dans les terres agricoles à un acheteur sans lien de dépendance[264]. Le produit de la vente, de 3 985 079 $, a été déposé sur le compte bancaire de la société[265].
+f) Le 28 avril 2006, la société a consenti un prêt sans intérêt de 3 254 012 $ à MHI, sans modalités de remboursement précises, en émettant un chèque de 3 258 000 $[266]. En raison de sa participation de 99,99 % dans la société, une partie de la créance de 3 253 687 $ appartenait indirectement à MCI (la « créance de MHI »).
+g) Après la cession des terres agricoles, la société a déclaré un bénéfice net de 3 617 565 $ pour son exercice financier se terminant le 31 mai 2006, calculé comme suit[267] :
+Gain sur la vente des terres agricoles
+3 581 002 $
+Revenu d’intérêts
+40 605 $
+Intérêts et frais bancaires
+(54 $)
+Honoraires
+(3 988 $)
+Revenus nets
+3 617 565 $
+h) La somme de 3 617 203 $ (soit environ 99,99 % de 3 617 565 $) du revenu de la société a été attribuée à MCI pour son année d’imposition se terminant le 31 décembre 2006[268].
+3) Vente de MCI à Wilshire Technology Corporation
+i) Le 20 décembre 2006, David Steinberg, le comptable de MCI[269], a échangé des courriels avec Paul Bleiwas, le conseiller juridique de l’appelante chez Goodman & Carr LLP (« G&C »), concernant le calcul du prix d’achat en prévision de la vente prochaine de MCI à Wilshire Technology Corporation (« Wilshire »), une société constituée en application des lois de la Colombie-Britannique. Le prix d’achat était basé sur la valeur de l’actif net de MCI, moins 54 % de sa dette fiscale accumulée[270].
+j) Plus tard le même jour, Paul Bleiwas a confirmé à Michael Naiberg les mécanismes de clôture de la vente prochaine des actions de MCI à Wilshire[271].
+k) Le 22 décembre 2006, MCI a déposé la somme de 785 737 $ auprès de G&C, en fidéicommis pour MCI, dans le cadre de la vente des actions de MCI[272].
+l) Le 28 décembre 2006, le capital déclaré des actions ordinaires de MCI a été augmenté de 3 053 000 $ (de 283 643 $ à 3 336 643 $) par une série de résolutions spéciales de son unique actionnaire, l’appelante[273]. Un dividende réputé du même montant en a résulté en application du paragraphe 84(1) de la LIR, et une somme similaire a été ajoutée au prix de base rajusté des actions de MCI en application de l’alinéa 53(1)b) de la LIR.
+m) Le 29 décembre 2006, l’appelante et Wilshire ont signé un accord de vente d’actions en application duquel l’appelante avait le droit d’exiger que Wilshire achète les actions de MCI pour 3 337 290 $ (l’« option de vente »)[274].
+n) Conformément à l’alinéa 3.1l) du contrat de vente d’actions, l’appelante a déclaré et garanti à Wilshire que la dette fiscale de MCI pour son année d’imposition 2006 ne serait pas supérieure à 1 302 731 $.
+o) Conformément à l’alinéa 3.1s) du contrat de vente d’actions, l’appelante a déclaré et garanti à Wilshire que MCI n’avait aucun actif autre que des liquidités et des créances d’au moins 4 040 765 $.
+p) Le 29 décembre 2006, Michael Naiberg a également démissionné de son poste d’administrateur unique, de président et de secrétaire de MCI et a été remplacé par Craig Nerland[275], qui a également représenté Wilshire à toutes les fins pertinentes dans le présent appel[276].
+q) Le 31 décembre 2006, l’appelante a exercé son option de vente pour amener Wilshire à acheter toutes ses actions de MCI[277].
+r) Le même jour, l’appelante a cédé et transféré toutes ses actions de MCI à Wilshire[278].
+s) Immédiatement après, MCI (i) a cédé la créance de MHI à Wilshire[279] et (ii) a ordonné à G&C de verser la somme de 83 603 $ à Wilshire[280].
+t) Immédiatement après, en règlement du prix d’achat des actions de MCI, Wilshire (i) a cédé la créance de MHI à l’appelante[281] et (ii) a ordonné à G&C de payer la somme de 83 603 $ à l’appelante[282].
+u) Enfin, toujours le 31 décembre 2006, MCI a ordonné à G&C de verser la somme correspondant approximativement au reste des fonds déposés le 22 décembre 2006, (703 475 $) à Hungerford Tomyn Lawrenson et Nichols (« HTLN »), en fidéicommis[283]. Cette somme a été regroupée avec les paiements relatifs aux opérations réalisées dans les décisions Damis, Sabel, Zagjo et Devamm, puis transférée sur un compte bancaire à la CIBC Bank & Trust Company (Cayman) Limited le 8 janvier 2007 (moins des frais de 19 000 $ et une provision de 25 000 $ facturés par HTLN)[284].
+v) Depuis la cession des terres agricoles jusqu’à la conclusion du contrat de vente d’actions, les seuls actifs détenus directement ou indirectement par MCI étaient des liquidités ou des actifs financiers à court terme (pour une somme d’environ 4 040 765 $, au moment de sa vente)[285].
+La société MCI avait également un passif d’impôt accumulé qui concernait en grande partie le bénéfice réalisé sur la vente des terres agricoles (pour une somme d’environ 1 302 731 $, au 29 décembre 2006)[286].
+w) Le 17 mai 2007, Paul Bleiwas a envoyé un courriel à Alexandra Spinner et David Steinberg relativement à la préparation des déclarations d’impôt sur le revenu de MCI[287].
+x) Le ou vers le 16 novembre 2009, la déclaration d’impôt sur le revenu T2 de MCI pour son année d’imposition du 31 décembre 2006 a été déposée[288]. La somme de 3 337 723 $, correspondant approximativement au total (i) de la créance de MCI et de (ii) 83 603 $ (c.-à-d., 3 337 290 $) a été inscrite comme compte débiteur de MCI à l’annexe 100 de ses déclarations d’impôt sur le revenu T2 pour ses années d’imposition 2007 à 2012[289].
+y) Pour son année d’imposition se terminant le 31 décembre 2006, MCI a demandé une déduction pour amortissement (« DPA ») de 3 950 137 $ à l’égard d’un logiciel de catégorie 12 (le « logiciel »), mettant ainsi à l’abri la totalité de son revenu imposable.
+4) Processus d’évaluation
+z) Le 27 novembre 2012, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition de MCI se terminant le 31 décembre 2006, aux termes de laquelle il a refusé la déduction de la DPA demandée à l’égard du logiciel[290].
+aa) Le 10 mai 2016, le ministre a établi une cotisation à l’égard de l’appelante aux termes de l’article 160 de la LIR concernant la dette fiscale de MCI découlant de son année d’imposition se terminant le 31 décembre 2006 (la « cotisation aux termes de l’article 160 »)[291]. La dette fiscale fédérale de MCI à cette époque était détaillée ainsi :
+Impôt
+Pénalités
+Intérêts
+Total
+806 692 $
+137 138 $
+642 051 $
+1 585 881 $
+bb) Le 26 mai 2016, l’appelante a déposé un avis d’opposition à la cotisation aux termes de l’article 160[292].
+cc) L’appelante a déposé un avis d’appel à l’égard de la cotisation aux termes de l’article 160 le 7 novembre 2016, plus de 90 jours après le dépôt de l’avis d’opposition mais avant la confirmation de la cotisation aux termes de l’article 160.
+Toronto, dans la province de l’Ontario, ce 4e jour de mars 2020.
+Montréal, dans la province de Québec, ce 4e jour de mars 2020.
+Signé
+DENTONS CANADA LLP
+77, rue King Ouest, bureau 400
+Toronto-Dominion Centre
+Toronto (Ontario) M5K 0A1
+Télécopieur : 416-863-4592
+LE PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice du Canada
+Bureau régional du Québec
+Complexe Guy-Favreau
+200, boul. René-Lévesque Ouest
+Tour Est, 9e étage
+Montréal (Québec) H2Z 1X4
+Télécopieur : 514-283-3103
+Par : Me Yves St-Cyr
+Me Jacob Yau
+Par : Me Natalie Goulard
+Me Alain Gareau
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+Téléphone : 416-863-4712
+416-863-4676
+Téléphone : 514-496-6546
+514-283-8744
+514-496-6084
+514-283-0440
+Courriel : yves.stcyr@dentons.com
+jacob.yau@dentions.com
+Courriel : natalie.goulard@justice.gc.ca
+alain.gareau@justice.gc.ca
+simon.vincent@justice.gc.ca
+dominic.bedard-lapointe@justice.gc.ca
+Avocat de l’appelante
+Avocat de l’intimée
+DESTINATAIRE : Greffier
+Cour canadienne de l’impôt
+180, rue Queen Ouest, bureau 200
+Toronto (Ontario) M5V 3L6
+ANNEXE C
+[1] Le paragraphe 160(1) de la LIR énonce ce qui suit :
+Transfert de biens entre personnes ayant un lien de dépendance
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toutes autres façons à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[2] Les principales dispositions de l’article 245, qui contient la règle générale anti-évitement (la RGAÉ), sont les suivantes :
+Définitions
+245 (1) Les définitions qui suivent s’appliquent au présent article.
+« avantage fiscal » Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi. Y sont assimilés la réduction, l’évitement ou le report d’impôt ou d’un autre montant qui serait exigible en application de la présente loi en l’absence d’un traité fiscal ainsi que l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi qui découle d’un traité fiscal.
+« attribut fiscal » S’agissant des attributs fiscaux d’une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l’impôt ou l’autre montant payable par cette personne ou le montant qui lui est remboursable;
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+Disposition générale anti-évitement [RGAÉ]
+(2) En cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d’une série d’opérations dont cette opération fait partie.
+Opération d’évitement
+(3) L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+Application du par. (2)
+(4) Le paragraphe (2) ne s’applique qu’à l’opération dont il est raisonnable de considérer, selon le cas :
+a) qu’elle entraînerait, directement ou indirectement, s’il n’était pas tenu compte du présent article, un abus dans l’application des dispositions d’un ou de plusieurs des textes suivants :
+(i) la présente loi,
+(ii) le Règlement de l’impôt sur le revenu,
+(iii) les Règles concernant l’application de l’impôt sur le revenu,
+(iv) un traité fiscal,
+(v) tout autre texte législatif qui est utile soit pour le calcul d’un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu’elle entraînerait, directement ou indirectement, un abus dans l’application de ces dispositions compte non tenu du présent article lues dans leur ensemble.
+RÉFÉRENCE :
+2021 CCI 24
+NOS DES DOSSIERS DE LA COUR :
+2016-4783(IT)G, 2016-4785(IT)G
+2016-4787(IT)G, 2016-4788(IT)G
+et 2016-4789(IT)G
+INTITULÉS :
+DAMIS PROPERTIES INC; SABEL INVESTMENTS II-A LIMITED; ZAGJO HOLDINGS LIMITED; DEVAMM INVESTMENTS II-A LIMITED ET MICROBJO PROPERTIES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 11 et 12 mars 2020
+Du 21 au 23 septembre 2020
+MOTIFS DES JUGEMENTS :
+L’honorable juge John R. Owen
+DATE DES JUGEMENTS :
+Le 24 mars 2021
+DATE DES JUGEMENTS MODIFIÉS :
+Le 26 mars 2021
+COMPARUTIONS :
+Avocats des appelantes :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l’intimée :
+Me Natalie Goulard
+Me Dominic Bédard-Lapointe
+Me Simon Vincent
+Me Alain Gareau
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Me Yves St-Cyr
+Me Jacob Yau
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Les parties n’ont pas discuté la question de savoir si le 31 décembre 2006 (plutôt que le 30 décembre 2006) était la fin exacte de l’année d’imposition compte tenu de l’application du paragraphe 256(9) dont il est question plus loin dans les présents motifs.
+[2] Lignes 23 à 28 de la page 31 et lignes 1 et 6 à 10 de la page 32 de la transcription de l’audition des présents appels les 11 et 12 mars 2020 et du 21 au 23 septembre 2020 (la « transcription »).
+[3] Lignes 2 à 4 de la page 177 de la transcription.
+[4] Lignes 3 à 8 de la page 186 de la transcription.
+[5] Lignes 14 à 19 de la page 192 de la transcription.
+[6] Alinéa g) de l’ECPF pour DPI.
+[7] Lignes 12 à 28 de la page 189 et lignes 1 à 6 de la page 190 de la transcription.
+[8] M. Bleiwas renvoie à WTC tout au long de son témoignage principal, mais WTC n’a pas été constituée en société avant le 18 décembre 2006; je considère donc que ses renvois à WTC désignent Robert MacRae.
+[9] Le prix de base rajusté était de 283 643 $ avant l’augmentation du capital déclaré et de 3 336 643 $ après cette augmentation.
+[10] Lignes 27 et 28 de la page 229 et ligne 1 de la page 230 de la transcription.
+[11] Lignes 24 à 26 de la page 230 de la transcription.
+[12] Ligne 13 de la page 225 de la transcription.
+[13] En fait, la somme de 767 000 $ représente environ 58,8 % de la dette fiscale.
+[14] Lignes 27 et 28 de la page 253 et lignes 1 à 3 de la page 254 de la transcription.
+[15] Les courriels figurent à l’onglet 13 du dossier AR-1.
+[16] Pièce R-3.
+[17] L’information fournie se trouve dans une chaîne de courriels déposée en preuve comme pièce A-2.
+[18] Lignes 5 à 6 de la page 354, lignes 14 à 28 de la page 360 et ligne 1 de la page 361 de la transcription.
+[19] Lignes 7 à 10 de la page 319 de la transcription.
+[20] Lignes 22 à 28 de la page 357 et ligne 1 de la page 358 de la transcription.
+[21] Lignes 17 à 21 de la page 325 de la transcription.
+[22] Lignes 2 à 3 de la page 326 de la transcription.
+[23] Lignes 1 à 15 de la page 359 de la transcription.
+[24] Lignes 22 à 24 de la page 338 de la transcription.
+[25] Lignes 27 et 28 de la page 372 et lignes 1 à 3 de la page 373 de la transcription.
+[26] Pièce R-12.
+[27] Les calculs détaillés figurent à l’annexe H du rapport d’expert de Mme Hicks daté du 19 novembre 2019.
+[28] J’ai paraphrasé la description des opérations faite par l’intimée.
+[29] 2021 CAF 17 (« Eyeball Networks »).
+[30] Eyeball Networks, aux paragraphes 2 et 44. Le juge en chef Noël cite Canada c. 9101-2310 Québec Inc., 2013 CAF 241, au paragraphe 60.
+[31] Au paragraphe 41. Driedger explique l’origine de son approche en matière d’interprétation des lois dans E.A. Driedger, Statutes : The Mischievous Literal Golden Rule, Revue du Barreau canadien, vol. 59, no 4, décembre 1981, aux pages 780 à 786.
+[32] 2020 CAF 224.
+[33] Au paragraphe 9.
+[34] Aux paragraphes 10 et 11.
+[35] Les mots omis n’ont aucun rapport avec les faits en causee (c.-à-d. « depuis le 1er mai 1951 » et les alinéas 160(1)a) et b)), mais sont pris en considération dans l’interprétation du paragraphe. La version française du texte n’est pas différente de façon importante de la version anglaise et je ne traiterai donc que de la version anglaise.
+[36] Le mot « personne » est défini au paragraphe 248(1) et inclut une « société », qui à son tour est définie au paragraphe 248(1) et inclut une compagnie. Par conséquent, les appelantes et les filiales sont des personnes.
+[37] L’alinéa g) de l’ECPF pour DPI indique que le 22 décembre 2006, DHL a déposé 4 132 886 $ auprès de G&C en fidéicommis pour 471. L’alinéa k) de l’ECPF pour MPI indique que le 22 décembre 2006, MCI a déposé 785 737 $ auprès de G&C en fidéicommis pour MCI. L’ECPF de MPI ne traite pas du transfert de la créance de MHI de la société Irber II Partnership à MCI, mais le ministre a considéré comme un fait, au paragraphe 7.10 de la réponse à l’appel de MPI, que la créance due par MHI a été cédée par la société Irber II Partnership à MCI le 28 avril 2006 et les appelantes n’ont pas contesté ce fait.
+[38] Eyeball Networks, par. 47.
+[39] Eyeball Networks, par. 48.
+[40] Eyeball Networks, par. 50.
+[41] Aux paragraphes 53, 55 et 56.
+[42] Plus précisément, au paragraphe 50.
+[43] Aux paragraphes 20 et 21.
+[44] Page 65.
+[45] Voir, également Strachan c. La Reine, 2013 CCI 362.
+[46] Le pourcentage varie légèrement pour chaque filiale. Le prix d’achat des actions dans les filiales était égal à la valeur des biens dans les filiales au 29 décembre 2006 moins 54 % de la dette fiscale des filiales au 29 décembre 2006. Par conséquent, WTC a conservé 54 % de l’impôt sur le revenu des filiales au 29 décembre 2006.
+[47] Alinéas m) à q) de l’ECPF dans l’appel DPI, alinéas q) à u) de l’ECPF dans l’appel MPI et les documents mentionnés dans ces alinéas.
+[48] Voir la pièce AR-1 aux onglets 25, 26 et 29 et la pièce AR-2 à l’onglet 21.
+[49] Voir la pièce AR-1 aux onglets 27 et 28 et la pièce AR-2 à l’onglet 22.
+[50] Eyeball Networks, par. 52 et 53.
+[51] Eyeball Networks, par. 52.
+[52] Eyeball Networks, par. 53.
+[53] Ruth Sullivan, Statutory Interpretation (L’interprétation des lois), 3e éd. (Toronto : Irwin Law, 2016), p. 40.
+[54] Eyeball Networks, par. 55 à 57.
+[55] 2008 CAF 89 (« Livingston »). En l’espèce, chaque dépôt serait un transfert de biens.
+[56] Pour la mécanique du paiement par WTC à MPI et DPI, voir l’affectation à la pièce AR-1 à l’onglet 27 et la directive à la pièce AR-2 à l’onglet 22.
+[57] Alinéa 2.2(b) des accords de vente d’actions.
+[58] Alinéas q), r), s) t) et u) de l’ECPF pour MPI et alinéas m), n), o) p) et q) de l’ECPF pour DPI.
+[59] Alinéa u) de l’ECPF pour MPI et alinéa q) de l’ECPF pour DPI.
+[60] Onglet 23 de la pièce AR-1 et onglet 19 de la pièce AR-2.
+[61] Le paragraphe 256(9) ne s’applique pas lorsqu’il s’agit de déterminer si une société est, à un moment donné, une société exploitant une petite entreprise ou une société privée sous contrôle canadien. En outre, l’alinéa 88(1)c.6) annule expressément le paragraphe 256(9) en faveur de sa propre règle de fin de journée.
+[62] L’analyse du paragraphe 256(9) par la Cour se trouve aux paragraphes 53 à 79. Le principe pertinent est énoncé au paragraphe 63 et appliqué au paragraphe 66.
+[63] Au paragraphe 33. L’alinéa 251(1)b) est devenu l’alinéa 251(1)(c) lorsque le nouvel alinéa 251(1)b) a été ajouté par un projet de loi technique de 2001 entré en vigueur le 24 décembre 1998.
+[64] 2020 CAF 201 (Keybrand Foods).
+[65] 2008 CSC 26 (McLarty).
+[66] Au paragraphe 39.
+[67] McLarty, par. 61.
+[68] McLarty, par. 62. Les juges majoritaires invoquent également Peter Cundill & Associates Ltd. c. Canada, [1991] 1 CTC 197 (C.F. 1re inst.), conf. par [1991] 2 CTC 221 (CAF), dans lequel les tribunaux ont retenu ces critères à partir d’une version antérieure du bulletin IT-419R2.
+[69] McLarty, par. 79. Les juges minoritaires n’ont pas fourni une analyse distincte de la question de l’absence de lien de dépendance.
+[70] McLarty, par. 72 et 73.
+[71] [1969] CTC 207 (C. de l’É.) (Merritt Estate).
+[72] Page 217.
+[73] [1984] CTC 553 (C.F. 1re inst.), conf. par [1986] 1 CTC 201 (SACF) (Special Risks).
+[74] Page 556.
+[75] Special Risks, p. 205 (CTC).
+[76] Voir Keybrand Foods, par. 45.
+[77] Au paragraphe 53.
+[78] [1977] CTC 132, 77 DTC 5106 (SACF).
+[79] Il en va de même de l’approche liée au contrôle de fait consacrée au paragraphe 256(5.1).
+[80] [1971] CTC 427 (C. de l’É.).
+[81] Ibid., p. 437 et 438.
+[82] Société de banque Suisse et al. c. Ministre du Revenu National, [1974] RCS 1144 (« Société de banque Suisse »).
+[83] Société de banque Suisse, p. 1152.
+[84] 2004 CAF 158.
+[85] Au paragraphe 55.
+[86] 2009 CAF 340 (« Remai Estate »).
+[87] Remai c. La Reine, 2008 CCI 344.
+[88] La RGAÉ a été ajoutée après le dépôt de l’appel.
+[89] Remai Estate, par. 37, 47 et 48.
+[90] Dans l’arrêt McLarty, au paragraphe 63, les juges majoritaires qualifient ces trois critères de « critères selon lesquels on peut reconnaître les opérations sans lien de dépendance ».
+[91] Plus précisément, après le 29 décembre 2006, le seul dirigeant et administrateur de MCI était M. Nerland, qui défendait les intérêts de WTC et effectuait les opérations dirigées par son frère.
+[92] Aux paragraphes 33 et 34.
+[93] Au paragraphe 39.
+[94] Medland, par. 14.
+[95] Au paragraphe 69.
+[96] Au paragraphe 70.
+[97] Au paragraphe 70.
+[98] Voir, de manière générale, Canada (Procureur général) c. Nash, 2005 CAF 386, par. 8 et D’auteuil Lumber Co. Ltd c. Ministre du Revenu national, [1970] Ex CR 414.
+[99] Lavie c. La Reine, 2006 CCI 655, Cappadoro c. La Reine, 2012 CCI 267 et Mignardi c. La Reine, 2013 CCI 67.
+[100] Au paragraphe 7.
+[101] Au paragraphe 5.
+[102] En ce qui concerne les hypothèses de fait, voir Minister of National Revenue c. Pillsbury Holdings Ltd, [1965] 1 R.C.É. 676 (« Pillsbury Holdings »), Canada c. Anchor Pointe Energy Ltée, 2003 CAF 294 (« Anchor Pointe 2003 »), par. 29 à 41 et Canada c. Anchor Pointe Energy ltd., 2007 CAF 188 (« Anchor Pointe 2007 »), par. 28.
+[103] (1948) RCS 486 (« Johnston »).
+[104] Cela confirme un jugement antérieur de la Cour concernant le fardeau de la preuve dans Anderson Logging Co. c. The King (1924), [1925] RCS 45, p. 49, confirmé sans commentaire sur cette question dans Rex c. Anderson Logging Co. (1925), [1926] AC 140.
+[105] SRC 1927, ch. 97, en sa version modifiée.
+[106] Voir les articles 58 à 69 de la LIGR.
+[107] Pages 488 à 490.
+[108] À la page 490.
+[109] Le juge Rand dit également que le contribuable peut contester la position du ministre concernant la loi, mais que le fardeau de la preuve n’est pas pertinent quant à une question de droit.
+[110] Aujourd’hui, le paragraphe 169(1) de la LIR permet à un contribuable qui a déposé un avis d’opposition à une cotisation de faire appel devant la Cour de l’impôt pour faire annuler ou modifier la cotisation. Ainsi, contrairement à la LIGR, la LIR définit explicitement le différend comme un appel interjeté à l’encontre de la cotisation. L’article 12 de la Loi sur la Cour canadienne de l’impôt désigne également le processus prévu au paragraphe 169(1) comme un appel.
+[111] Sous la plume du juge Rand, aux pages 489 et 490 et du juge Kellock, à la page 492. En dissidence, le juge Locke a retenu une position contraire.
+[112] Zelinski c. La Reine (2001), [2002] 1 CTC 2422 (CCI), conf. sans motifs par 2002 CAF 330 (« Zelinski »), par. 4 et Beima c. La Reine, 2016 CAF 205 (« Beima »), par. 17.
+[113] Le ministre est tenu par les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles générales ») et les Règles de la Cour canadienne de l’impôt (procédure informelle) de plaider toutes les hypothèses de fait.
+[114] D’un point de vue technique, pour éviter un jugement sommaire ou une requête en non-lieu fructueuse, le demandeur doit d’abord s’acquitter d’un fardeau de preuve. Une fois ce seuil atteint, tel que déterminé par le juge, le demandeur doit établir les faits qu’il allègue selon la norme de preuve.
+[115] Si les faits plaidés par le contribuable appellant des éclaircissements afin que le ministre puisse discuter correctement ces faits lors de la communication préalable, aux termes du paragraphe 52(1) des Règles générales, le ministre peut exiger (et, en cas de non-respect, la Cour peut ordonner) des précisions.
+[116] Voir, également, Zelinski et Beima, ainsi que Sidney N. Lederman, Alan W. Bryant et Michelle K. Fuerst, Sopinka, Lederman & Bryant : The Law of Evidence in Canada, 5e éd. (Toronto : LexisNexis, 2018) (« SLB »), par. 2.51 à 2.53.
+[117] Une certaine doctrine enseigne qu’une hypothèse de fait peut être considérée comme une observation qui, si elle n’est pas réfutée, conduit à la déduction défavorable portant que le fait exposé est exact. Je préfère considérer qu’une hypothèse de fait valable est simplement un fait qui, s’il est pertinent et soutient la cotisation d’impôt, doit être réfuté par le contribuable selon la prépondérance des probabilités. Si le contribuable admet une hypothèse de fait particulière (et je n’ai pas encore entendu d’affaire où le contribuable rejette toutes les hypothèses de fait du ministre), ce fait fait partie du dossier factuel à partir duquel l’appel est décidé. Bien que l’acceptation d’une hypothèse de fait puisse être qualifiée d’admission de ce fait par le contribuable, je ne vois pas la nécessité de compliquer davantage les choses avec cette description puisque les hypothèses de fait sont déjà considérées comme vraies sous réserve de réfutation.
+[118] Page 489.
+[119] Voir également Merck Frosst Canada Ltée c. Canada (Santé), 2012 CSC 3, par. 94, et SLB, par. 5.73 à 5.76.
+[120] Page 489.
+[121] Au paragraphe 28.
+[122] Voir Pollock, par. 20.
+[123] Comme déterminé par les actes de procédure.
+[124] Une hypothèse de fait valide est celle qui est plaidée par le ministre et qui a été faite par le ministre lors de l’établissement de la cotisation d’impôt en litige ou de la confirmation de la cotisation d’impôt en litige. Voir, en règle générale, Loewen, au paragraphe 8 et l’alinéa 49(1)d) des Règles générales.
+[125] La Cour suprême du Canada décrit ce qu’est un fardeau tactique dans R. c. Darrach, 2000 CSC 46, par. 50.
+[126] [1997] 2 RCS 336 (« Hickman Motors »).
+[127] Hickman Motors, par. 92.
+[128] 2006 CSC 20, [2006] 1 RCS 715 (« Placer Dome »).
+[129] Ibid., par. 25 et 26. Ces observations se rapportent à la Loi de l’impôt sur l’exploitation minière (Ontario), mais la Cour dit au paragraphe 25 que « [c]e fardeau de la preuve est identique à celui qui s’applique en vertu de la Loi de l’impôt sur le revenu ».
+[130] McLarty, par. 64, qui doit être lu de concert avec l’observation du juge de la Cour de l’impôt à 2005 CCI 55, par. 51. Le renvoi du juge Rothstein au « fardeau » est expliqué ci-dessous.
+[131] Ibid. et Andersen c. La Reine, 2020 CCI 51, par. 25 à 30.
+[132] SLB, par. 3.14. Voir également Robins c. National Trust Co, [1927] AC 515. La décision des juges majoritaires dans l’arrêt Hickman Motors est un bon exemple de la manière dont la Cour est parvenue à une conclusion déterminée compte tenu de la preuve.
+[133] SLB, par. 5.60. Étant donné le rôle du fardeau de la preuve, il n’est pas logique de soutenir que le fardeau peut être déplacé ou changé au cours de l’audience ou qu’un fardeau de la preuve particulier peut être réparti entre les parties. Un fardeau de la preuve est attribué dès le départ par le droit matériel et reste en place tout au long de la procédure (SLB, par. 3.11 et 3.46 à 3.53). Chaque partie peut assumer un fardeau de la preuve distinct, comme dans le cas d’un appel à l’encontre d’une cotisation d’impôt et d’une pénalité. En outre, il peut y avoir des questions subsidiaires, comme celle de savoir si un avis de cotisation a été reçu ou si un avis d’opposition a été déposé en temps utile par le contribuable, qui soulèvent des fardeaux distincts (charge de présentation ou fardeau de la preuve). Voir, par exemple, le paragraphe 244(10) de la LIR et Mpamugo c. Canada, 2017 CAF 136.
+[134] Le paragraphe 135(2) des Règles générales le prévoit explicitement, mais la même approche s’applique aux appels interjetés dans le cadre de la procédure informelle de la Cour, sous réserve dans chaque cas d’une décision contraire du juge, par exemple dans le cas d’un appel portant uniquement sur l’imposition d’une pénalité : La Reine c. Taylor (1984), [1985] 1 CF 331, [1984] CTC 436, 84 DTC 6459 (CF 1re inst.), p. 441 (CTC) et Pompa (G.) c. Canada (1994), [1995] 1 CTC 466, 94 DTC 6630 (CAF), p. 470 (CTC).
+[135] Étant donné que le contribuable a le fardeau de la preuve et que ce fardeau de la preuve est en substance dirigée vers les hypothèses de fait, il n’est pas logique que le ministre affirme à la fin du plaidoyer du contribuable que celui-ci ne s’est pas acquitté de sa charge de présentation, qui est une norme inférieure au fardeau de la preuve (voir SLB, par. 3.7). Le ministre peut simplement choisir de ne présenter aucune preuve et soutenir lors des débats que le contribuable ne s’est pas acquitté du fardeau de la preuve. Voir également Barkwill c. Canada, 2013 CAF 34; le ministre a présenté une requête en non-lieu, mais en appel, la Cour a tranché l’affaire au motif que le contribuable n’avait pas démoli les hypothèses de fait du ministre (c.-d. qu’il ne s’était pas acquitté du fardeau de la preuve).
+[136] Le droit canadien ne reconnaît que deux fardeaux : la charge de la preuve et la charge de présentation : R. c. Fontaine, 2004 CSC 27. Chacun a ses propres caractéristiques juridiques distinctes : SLB, par. 3.2 à 3.25. Par exemple, le fardeau de la preuve ne peut jamais être un « fardeau initial », car il est appliqué à la fin de l’affaire pour déterminer l’issue lorsqu’une décision déterminante ne peut être rendue sur la base des hypothèses de fait et des éléments de preuve.
+[137] Le document peut être consulté sur le site http://studymaterial.unipune.ac.in:8080/jspui/bitstream/123456789/5338/1/topic 16.pdf, à la page 1.
+[138] 2020 CAF 93 (« Eisbrenner »).
+[139] Voir également mon analyse dans Morrison c. Sa Majesté la Reine, 2018 CCI 220, par. 91 à 97.
+[140] 2009 CAF 139.
+[141] Canada c. Craig, 2012 CSC 43 (« Craig »), par. 18 et Agracity Ltd. c. La Reine, 2020 CCI 91, par. 105.
+[142] Ibid.
+[143] Par exemple, Zelinski et Beima.
+[144] Dans l’arrêt Canada c. 984274 Alberta Inc., 2020 CAF 125, par. 55, le juge en chef Noël a dit qu’une décision de la Cour d’appel fédérale qui a « n’a manifestement pas tenu compte » d’un courant jurisprudentiel établi ne fait pas autorité.
+[145] Voir, en général, Kroft et Pelletier, « Onus of Proof in Canadian Tax Litigation: Is There Uncertainty and Confusion in the Law? », janvier 2021, Tax Disputes and Resolution Centre sur Taxnet Pro.
+[146] Lignes 27 et 28 de la page 337 de la transcription.
+[147] Lignes 3 à 10 de la page 338 de la transcription.
+[148] Lignes 13 et 14 de la page 388 de la transcription.
+[149] Les comptes de résultat de MCI et 471 sont respectivement à l’onglet 32 de la pièce AR-1 et à l’onglet 24 de la pièce AR-2.
+[150] Lignes 5 à 8 de la page 393 de la transcription.
+[151] Lignes 12 et 13 de la page 380 de la transcription.
+[152] Lignes 26 à 28 de la page 370 et lignes 1 à 8 de la page 371 de la transcription. [152] Lignes 27 et 28 de la page 337 de la transcription.
+[152] Lignes 3 à 10 de la page 338 de la transcription.
+[152] Lignes 13 et 14 de la page 388 de la transcription.
+[152] Les comptes de résultat de MCI et 471 sont respectivement à l’onglet 32 de la pièce AR-1 et à l’onglet 24 de la pièce AR-2.
+[152] Lignes 5 à 8 de la page 393 de la transcription.
+[152] Lignes 12 et 13 de la page 380 de la transcription.
+[152] Lignes 26 à 28 de la page 370 et lignes 1 à 8 de la page 371 de la transcription.
+[153] Pièce R-12.
+[154] Une quatrième jurisprudence de la Cour suprême du Canada applique l’approche retenue par Hypothèques Trustco Canada.
+[155] Hypothèques Trustco Canada, par. 21 et Copthorne, par. 66.
+[156] Hypothèques Trustco Canada, par. 21.
+[157] Copthorne, par. 65.
+[158] Copthorne, par. 65.
+[159] Copthorne, par. 67. Voir également Hypothèques Trustco Canada, par. 41 et 42.
+[160] Copthorne, par. 33.
+[161] L’opération, ou la série dont l’opération fait partie, peut donner ouverture à l’avantage fiscal : Hypothèques Trustco Canada, par. 18 et Copthorne, par. 39.
+[162] Hypothèques Trustco Canada, par. 19 et 63, Copthorne, par. 34 et Lipson, par. 22. À mon avis, le renvoi par la Cour à une question de fait vise simplement à souligner que l’existence d’un avantage fiscal est une détermination purement factuelle. Toutefois, étant donné qu’il existe une définition légale obligatoire de l’« avantage fiscal » et que les faits détermineront si cette définition est respectée, il s’agit techniquement d’une question de droit et de fait : Canada (Directeur des enquêtes et recherches) c. Southam Inc., [1997] 1 RCS 748 (« Southam »), par. 35. Par conséquent, le ministre ne peut pas supposer qu’il existe un avantage fiscal sans indiquer le ou les faits qui donnent ouverture à cet avantage fiscal (p. ex., une réduction de l’impôt ou une augmentation d’un remboursement). De même, si un tribunal applique mal la définition, par exemple en ne prenant pas en compte un autre mécanisme raisonnable, il s’agirait d’une erreur de droit puisqu’elle va à l’encontre du critère juridique imposé par la définition de l’avantage fiscal.
+[163] Hypothèques Trustco Canada, par. 63, Lipson, par. 21 et Copthorne, par. 34.
+[164] Hypothèques Trustco Canada, par. 63.
+[165] Hypothèques Trustco Canada, par. 19. Voir également l’analyse du juge Sommerfeldt dans Rogers Enterprises (2015) Inc. c. La Reine, 2020 CCI 92, par. 28 à 37, que je retiens.
+[166] Hypothèques Trustco Canada, par. 19.
+[167] Hypothèques Trustco Canada, par. 20.
+[168] Hypothèques Trustco Canada, par. 20 et Copthorne, par. 35.
+[169] Copthorne, par. 35.
+[170] Au paragraphe 63 de l’arrêt Hypothèques Trustco Canada, la Cour dit :
+Au départ, il incombe au contribuable de « réfuter » ou de mettre en doute les présomptions de fait du ministre, en contestant l’existence d’un avantage fiscal ou en démontrant que l’opération visait principalement un objet non fiscal véritable [un fait pertinent pour déterminer l’existence ou la non-existence d’une opération d’évitement au sens juridique de cette expression].
+Southam, par. 35.
+[172] Hypothèques Trustco Canada, par. 63 et 66 (points 1(2) et 2) et Lipson, par. 21.
+[173] Hypothèques Trustco Canada, par. 63.
+[174] Hypothèques Trustco Canada, par. 22.
+[175] Hypothèques Trustco Canada, par. 21 et 22 et Copthorne, par. 39.
+[176] Hypothèques Trustco Canada, par. 28 et Copthorne, par. 59.
+[177] Hypothèques Trustco Canada, par. 29.
+[178] Hypothèques Trustco Canada, par. 30.
+[179] Hypothèques Trustco Canada, par. 30 et 31.
+[180] Hypothèques Trustco Canada, par. 32 et 33.
+[181] Hypothèques Trustco Canada, par. 33.
+[182] Hypothèques Trustco Canada, par. 43, Lipson, par. 34 et Copthorne, par. 71.
+[183] J’ai évité d’utiliser de l’expression « s’appuyer sur », car une stratégie fiscale peut s’appuyer sur une ou plusieurs dispositions, ou bien contourner une ou plusieurs dispositions, ou les deux.
+[184] Hypothèques Trustco Canada, par. 43 et Copthorne, par. 73.
+[185] Hypothèques Trustco Canada, par. 50 et Copthorne, par. 68.
+[186] Hypothèques Trustco Canada, par. 44 et Lipson, par. 25.
+[187] Hypothèques Trustco Canada, par. 49.
+[188] Hypothèques Trustco Canada, par. 65.
+[189] Copthorne, par. 72.
+[190] Hypothèques Trustco Canada, par. 44.
+[191] Hypothèques Trustco Canada, par. 44.
+[192] Hypothèques Trustco Canada, par. 44.
+[193] Hypothèques Trustco Canada, par. 46.
+[194] Hypothèques Trustco Canada, par. 44.
+[195] Hypothèques Trustco Canada, par. 45 et Copthorne, par. 69.
+[196] Hypothèques Trustco Canada, par. 54.
+[197] Hypothèques Trustco Canada, par. 54.
+[198] Copthorne, par. 70.
+[199] Copthorne, par. 70.
+[200] Hypothèques Trustco Canada, par. 53.
+[201] Hypothèques Trustco Canada, par. 55 et 59.
+[202] Hypothèques Trustco Canada, par. 57.
+[203] Hypothèques Trustco Canada, par. 57 à 60.
+[204] Hypothèques Trustco Canada, par. 60.
+[205] Hypothèques Trustco Canada, par. 45, Lipson, par. 40 et Copthorne, par. 72.
+[206] Paragraphe 110 des observations écrites de l’intimée.
+[207] Au paragraphe 37.
+[208] Onglet 16 de la pièce AR-1 et onglet 12 de la pièce AR-2.
+[209] Paragraphe 84(1) et alinéa 53(1)b) de la LIR.
+[210] La Cour d’appel fédérale, dans l’arrêt 626468 New Brunswick Inc. c. Canada, 2019 CAF 306, a conclu, en traitant d’opérations presque identiques, que le revenu protégé n’inclut pas une obligation fiscale qui existe immédiatement avant le paiement du premier dividende, ce qui a une incidence sur l’efficacité de cette planification. Pour les sommes d’argent reçues après le 8 novembre 2006, cette jurisprudence a également une incidence sur le coût d’une action reçue sous forme de dividende en actions en application du sous-alinéa 52(3)a)(ii) de la LIR.
+[211] Paragraphe 114 des observations écrites de l’intimée.
+[212] Paragraphe 136 des observations écrites de l’intimée.
+[213] Aux paragraphes 119 et 120.
+[214] Eyeball Networks, par. 44.
+[215] Au paragraphe 68.
+[216] Hypothèques Trustco Canada, par. 54.
+[217] Ibid. L’importance éventuelle du libellé d’une disposition est démontrée par l’analyse que la Cour a faite du paragraphe 87(3) aux paragraphes 79 à 82 de l’arrêt Copthorne.
+[218] McLarty, par. 43.
+[219] Page 1152 de l’arrêt Société de banque Suisse. Voir également McLarty, par. 43.
+[220] McLarty, par. 61.
+[221] McLarty, par. 62.
+[222] La première partie tient également compte explicitement des transferts entre époux et conjoints de fait actuels ou futurs et des transferts à une personne de moins de 18 ans. La désignation de ces personnes dans la première partie répond aux mêmes préoccupations que le critère de relation sans lien de dépendance de la première partie.
+[223] Hypothèques Trustco Canada, par. 13.
+[224] Hypothèques Trustco Canada, par. 40.
+[225] Dans l’arrêt Remai Estate, la Cour d’appel fédérale a rejeté la formulation de l’objet du ministre parce que « [r]ien dans le texte de la disposition n’appuie une telle interprétation » (au paragraphe 58). De même, une conclusion quant à l’objet ne peut pas simplement écarter les conditions importantes imposées par le texte.
+[226] Copthorne, par. 67 (citant Hypothèques Trustco Canada, par. 42) et par. 70.
+[227] Aux paragraphes 67 et 68 de l’arrêt Copthorne.
+[228] Les renvois aux onglets constituent des renvois aux différents onglets du recueil conjoint de documents préparé à l’appui du présent exposé conjoint partiel des faits.
+[229] Onglet 1, documents du registre des sociétés de l’Ontario relatifs à l’appelante.
+[230] Onglet 2, états financiers de la société pour son exercice financier se terminant le 31 mai 2006, page 4 et 5.
+[231] Onglet 3, documents du registre des sociétés de l’Ontario relatifs à la constitution en société de 471 et onglet 4, résolutions relatives à la constitution en société de 471.
+[232] Onglet 4, résolutions relatives à la constitution en société de 471.
+[233] Onglet 3, documents du registre des sociétés de l’Ontario relatifs à la constitution en société de 471, onglet 4, résolutions relatives à la constitution en société de 471 et onglet 5, registre des administrateurs et dirigeants de 471.
+[234] Onglet 6, documents relatifs au transfert de la société à 471 et onglet 7, formulaire T2057 – Choix relatif à la disposition de biens par un contribuable en faveur d’une société canadienne imposable.
+[235] Onglet 8, convention d’achat et de vente relative aux terres agricoles. Les quatre dossiers liés aux présentes affaires concernent également la disposition d’une participation effective indivise dans les terres agricoles le 16 janvier 2006 :
+-Sabel Investments II-A Limited c. Sa Majesté la Reine, 2016-4785(IT)G (« Sabel ») – 16 2/3 %;
+-Zagjo Holdings Limited c. Sa Majesté la Reine, 2016-4787(IT)G (« Zagjo ») – 10 %;
+-Devamm Investments II-A Limited c. Sa Majesté la Reine, 2016-4788(IT)G (« Devamm ») – 10 %;
+-Microbjo Properties Inc c. Sa Majesté la Reine, 2016-4789(IT)G (« Microbjo ») – 16 2/3 %;
+[236] Onglet 9, feuille de calcul des opérations bancaires de la société.
+[237] Onglet 2, états financiers de la société pour son exercice financier se terminant le 31 mai 2006, page 2.
+[238] Onglet 10, déclaration d’impôt sur le revenu T2 de 471 pour son année d’imposition se terminant le 31 décembre 2006.
+[239] Onglet 11, directive de Damis Holdings Limited et extrait des relevés de compte bancaire de la société.
+[240] Onglet 12, résolutions spéciales des actionnaires de 471 visant à augmenter son capital social, datées du 28 décembre 2006.
+[241] Onglet 13, contrat de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006. Des accords similaires ont été conclus avec Wilshire dans les décisions Sabel, Zagjo, Devamm et Microbjo. Onglet 14, courriel de Ruby Wong à Robert MacRae concernant l’exécution du contrat de vente d’actions et demandant certains documents à HTLN, daté du 29 décembre 2006.
+[242] Onglet 15, résolutions de 471 relatives à la démission d’Howard Meyer et à la nomination de Craig Nerland en tant qu’administrateur, président et secrétaire de 471, onglet 16, courriel de Linda Sterling à Ruby Wong joignant le formulaire 1 – Déclaration initiale/avis de changement pour 471 daté du 29 décembre 2006 et onglet 5, registres des administrateurs et des dirigeants de 471.
+[243] Voir par exemple l’onglet 13, contrat de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006, page 15.
+[244] Onglet 17, avis d’exercice d’options de vente, onglet 18, courriel de Ruby Wong concernant l’exercice d’options de vente daté du 31 décembre 2006 et onglet 19, courriel de Ruby Wong à l’avocat de HTLN confirmant la réalisation des opérations liées à l’accord de vente d’actions et demandant certains documents, daté du 31 décembre 2006. Des options de vente similaires ont également été exercées pour amener Wilshire à réaliser des opérations dans les décisions Sabel, Zagjo, Devamm et Microbjo.
+[245] Onglet 20, transfert des actions de 471 de l’appelante à Wilshire.
+[246] Onglet 21, directive de 471.
+[247] Onglet 22, directive de Wilshire. Dans les affaires Sabel, Zagjo, Devamm et Microbjo, le prix d’achat des sociétés acquises par Wilshire a également été satisfait exclusivement par la cession des actifs détenus par ces sociétés.
+[248] Onglet 21, directive de 471.
+[249] Onglet 23, documents en liasse, indiquant les sommes transférées à HTLN et à CIBC Bank & Trust Company (Cayman) Limited.
+[250] Onglet 2, états financiers de la société pour son exercice financier se terminant le 31 mai 2006, page 3 et onglet 13, accord de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006, page 8.
+[251] Onglet 13, contrat de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006, page 7.
+[252] Onglet 10, déclaration d’impôt sur le revenu T2 de 471 pour son année d’imposition se terminant le 31 décembre 2006.
+[253] Onglet 24, états des résultats et bilans Cortax T2 de 471 pour ses années d’imposition se terminant le 31 décembre 2006 au 31 décembre 2012.
+[254] Onglet 25, avis de nouvelle cotisation émise à 471 pour son année d’imposition se terminant le 31 décembre 2006.
+[255] Onglet 26, avis de cotisation établie aux termes de l’article 160 émise à l’appelante pour l’année d’imposition de 471 se terminant le 31 décembre 2006.
+[256] Onglet 27, avis d’opposition de l’appelante.
+[257] Les renvois aux onglets constituent des renvois aux différents onglets du recueil conjoint de documents préparé à l’appui du présent exposé conjoint partiel des faits.
+[258] Onglet 1, documents du registre des sociétés de l’Ontario relatifs à l’appelante.
+[259] Onglet 2, états financiers de la société pour son exercice financier se terminant le 31 mai 2006, page 6.
+[260] Onglet 3, documents du registre des sociétés de l’Ontario relatifs à la constitution en société de MCI et onglet 4, résolutions relatives à la constitution en société de MCI.
+[261] Onglet 4, résolutions relatives à la constitution en société de MCI.
+[262] Onglet 3, documents du registre des sociétés de l’Ontario relatifs à la constitution en société de MCI, onglet 4, résolutions relatives à la constitution en société de MCI et onglet 5, registre des administrateurs et dirigeants de MCI.
+[263] Onglet 6, documents relatifs au transfert de la société à MCI et onglet 7, formulaire T2057 – Choix relatif à la disposition de biens par un contribuable en faveur d’une société canadienne imposable.
+[264] Onglet 8, convention d’achat et de vente relative aux terres agricoles. Les quatre dossiers liés aux présentes affaires concernent également la disposition d’une participation effective indivise dans les terres agricoles le 16 janvier 2006 :
+-Damis Properties Inc c. Sa Majesté la Reine, 2016-4783(IT)G (« Damis ») – 16 2/3 %;
+-Sabel Investments II-A Limited c. Sa Majesté la Reine, 2016-4785(IT)G (« Sabel ») – 16 2/3 %;
+-Zagjo Holdings Limited c. Sa Majesté la Reine, 2016-4787(IT)G (« Zagjo ») – 10 %;
+-Devamm Investments II-A Limited c. Sa Majesté la Reine, 2016-4788(IT)G (« Devamm ») – 10 %.
+[265] Onglet 9, déclaration indiquant le calcul du produit de la vente et la preuve du dépôt.
+[266] Onglet 10, extrait du compte bancaire de la société et copie du chèque émis par la société. La différence entre le montant du prêt et le chèque (c’est-à-dire 3 988 $ = 3 258 000 $ - 3 254 012 $) a été comptabilisée par la société comme un remboursement de prêt.
+[267] Onglet 2, états financiers de la société pour son exercice financier se terminant le 31 mai 2006, page 4.
+[268] Onglet 11, déclaration d’impôt sur le revenu T2 de MCI pour son année d’imposition se terminant le 31 décembre 2006. Le montant total du revenu de la société déclaré par MCI est de 3 646 893 $.
+[269] Onglet 12, résolution de MCI concernant la nomination de son comptable.
+[270] Onglet 13, courriel de David Steinberg à Paul Bleiwas concernant le calcul du prix d’achat de MCI, daté du 20 décembre 2006.
+[271] Onglet 14, courriel de Paul Bleiwas à Michael Naiberg confirmant la mécanique de fermeture daté du 20 décembre 2006.
+[272] Onglet 15, détails du compte fiduciaire de MCI auprès de G&C.
+[273] Onglet 16, résolutions spéciales des actionnaires de MCI visant à augmenter son capital social, datées du 28 décembre 2006.
+[274] Onglet 17, contrat de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006. Des accords similaires ont été conclus avec Wilshire dans les décisions Damis, Zagjo et Devamm. Onglet 18, courriel de Ruby Wong à Robert MacRae concernant l’exécution du contrat de vente d’actions et demandant certains documents à HTLN, daté du 29 décembre 2006.
+[275] Onglet 19, résolutions de MCI relatives à la démission de Michael Naiberg et à la nomination de Craig Nerland en tant qu’administrateur, président et secrétaire de MCI, onglet 20, courriel de Linda Sterling à Ruby Wong joignant le formulaire 1 – Déclaration initiale/avis de changement pour MCI daté du 29 décembre 2006 et onglet 5, registres des administrateurs et des dirigeants de MCI.
+[276] Voir par exemple l’onglet 17, contrat de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006, page 15.
+[277] Onglet 21, avis d’exercice d’options de vente, onglet 22, courriel de Ruby Wong concernant l’exercice d’options de vente daté du 31 décembre 2006 et onglet 23, courriel de Ruby Wong à l’avocat de HTLN confirmant la réalisation des opérations liées à l’accord de vente d’actions et demandant certains documents, daté du 31 décembre 2006. Des options de vente similaires ont également été exercées pour amener Wilshire à réaliser des opérations dans les décisions Damis, Sabel, Zagjo et Devamm.
+[278] Onglet 24, transfert des actions de MCI de l’appelante à Wilshire.
+[279] Onglet 25, cession de créances à Wilshire.
+[280] Onglet 26, ordre de payer Wilshire.
+[281] Onglet 27, cession de créances à l’appelante.
+[282] Onglet 28, ordre de payer l’appelante. Dans les affaires Damis, Sabel, Zagjo et Devamm, le prix d’achat des sociétés acquises par Wilshire a également été satisfait exclusivement par la cession des actifs détenus par ces sociétés.
+[283] Onglet 29, ordre à G&C de transférer 703 475 $ à HTLN.
+[284] Onglet 30, documents en liasse, indiquant les sommes transférées à HTLN et à CIBC Bank & Trust Company (Cayman) Limited.
+[285] Onglet 2, états financiers de la société pour son exercice financier se terminant le 31 mai 2006, page 2 et onglet 17, accord de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006, page 8.
+[286] Onglet 17, contrat de vente d’actions entre l’appelante et Wilshire daté du 29 décembre 2006, page 7.
+[287] Onglet 31, courriels entre David Steinberg, Alexandra Spinner et Paul Bleiwas concernant la préparation de la déclaration d’impôt sur le revenu de MCI pour son année d’imposition se terminant le 31 décembre 2006, datés du 17 mai 2007.
+[288] Onglet 11, déclaration d’impôt sur le revenu T2 de MCI pour son année d’imposition se terminant le 31 décembre 2006.
+[289] Onglet 32, états des résultats et bilans Cortax T2 de MCI pour ses années d’imposition se terminant le 31 décembre 2007 au 31 décembre 2012.
+[290] Onglet 33, avis de nouvelle cotisation émise à MCI pour son année d’imposition se terminant le 31 décembre 2006.
+[291] Onglet 34, avis de cotisation établie aux termes de l’article 160 émise à l’appelante pour l’année d’imposition de MCI se terminant le 31 décembre 2006.
+[292] Onglet 35, avis d’opposition de l’appelante.

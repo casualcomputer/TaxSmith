@@ -1,0 +1,180 @@
+---
+title: "La Banque Toronto-Dominion c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29518/index.do"
+last_modified: "2009-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 522"
+citation2: ""
+neutral_citation: "2009 TCC 522"
+decision_date: "2009-11-10"
+language: "en"
+item_id: "29518"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6275
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:45:41.170000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47c3a0cd6ee7e186622afa9ba66535461209a01a3d7a2b5d1d32f574e19fd70c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# La Banque Toronto-Dominion c. La Reine
+
+- Citation: 2009 TCC 522
+- Decision date: 2009-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6275, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+La Banque Toronto-Dominion c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-10
+Neutral citation
+2009 TCC 522
+File numbers
+2009-114(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-114(GST)I
+BETWEEN:
+TORONTO DOMINION BANK
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 10, 2009, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Éric Potvin
+Counsel for the Respondent:
+Michel Beauchamp
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of September 26, 2008, made under Part IX of the Excise Tax Act bearing the number PQ-2008-11711 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 2nd day of February 2010.
+Bella Lewkowicz, Translator
+Citation: 2009 TCC 522
+Date: 20091110
+Docket: 2009-114(GST)I
+BETWEEN:
+TORONTO DOMINION BANK
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing its assessment made on September 26, 2008, establishing its tax liability at $2,867.97. The reassessment is based on the following facts:
+(a) Corporation 9161-3505 Québec Inc. (hereinafter 9161) with a debt of
+$12,014.93 to the respondent, the Quebec Minister of Revenue (the Minister), through one of its authorized employees, sent the appellant a Requirement to Pay on December 11, 2007, pursuant to subsections 317(1) and (3) of the Excise Tax Act (the Act);
+(b) when the Minister sent the Requirement to Pay to the appellant, the appellant had $8,868.19 belonging to 9161;
+(c) on December 24, 2007, 9161 filed a notice of intention to make a Proposal to its creditors under the Bankruptcy and Insolvency Act (the BIA);
+(d) on December 24, 2007, the trustee of the 9161 proposal sent the appellant, pursuant to the BIA, a notice to stay the Requirement to Pay;
+(e) the appellant did not comply with the Requirement to Pay from December 11, 2007, to December 24, 2007, although the bank account for 9161 had a positive balance of $8,868.19;
+(f) on April 9, 2008, the Minister issued a Notice of Assessment to the appellant for $6,000.22 pursuant to section 317 of the Act and on April 22, 2008, the appellant filed an objection;
+(g) on or around October 21, 2008, the objection officer dismissed the objection but recommended that the amount of the assessment be reduced to $2,867.97 because the $6,000.22 required had already been assessed pursuant to sections 15.5 and 15.6 of the Act by Quebec’s Ministère du Revenu, as the positive balance in the bank account was only $8,868.19, leaving only $2,867.97 in the account;
+(h) a reassessment was made on September 26, 2008, and is the subject of the current appeal.
+[2] It must therefore be determined if the appellant, in these circumstances, must pay the amounts in question to the respondent pursuant to subsection 317(3) of the Act. Before answering this question, other underlying questions must be addressed. When must the amount in question be paid? What is the effect of 9161’s proposal on the amount claimed and unpaid at the time the proposal was made? Did the presumed trust the respondent benefited from include all the money in 9161’s account? Was the written notice sent to the appellant equivalent to the execution of the assumed trust and the recovery of property held for the benefit of the respondent? Is there a transfer of the ownership of money following the written notice and, if so, did the Notice to Stay cancel the right of ownership?
+[3] Subsection 317(3) titled “garnishment” states the following:
+Despite any other provision of this Part, any other enactment of Canada other than the Bankruptcy and Insolvency Act, any enactment of a province or any law, if the Minister has knowledge or suspects that a particular person is, or will become within one year, liable to make a payment
+(a) to a tax debtor, or
+(b) to a secured creditor who has a right to receive the payment that, but for a security interest in favour of the secured creditor, would be payable to the tax debtor,
+the Minister may, by notice in writing, require the particular person to pay without delay, if the moneys are payable immediately, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor or the secured creditor in whole or in part to the Receiver General on account of the tax debtor’s liability under this Part, and on receipt of that notice by the particular person, the amount of those moneys that is so required to be paid to the Receiver General shall, despite any security interest in those moneys, become the property of Her Majesty in right of Canada to the extent of that liability as assessed by the Minister and shall be paid to the Receiver General in priority to any such security interest.
+Subsection 317(7) provides as follows:
+Every person who fails to comply with a requirement under subsection (1), (3) or (6) is liable to pay to Her Majesty in right of Canada an amount equal to the amount that the person was required under subsection (1), (3) or (6), as the case may be, to pay to the Receiver General.
+The power to assess is outlined in subsection 317(9), which states the following:
+Assessment — The Minister may assess any person for any amount payable under this section by the person to the Receiver General and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+[4] These issues have already been addressed by this Court and the Federal Court of Appeal, specifically in Judge Sarchuk’s decision in Wa-Bowden Real Estate Reports Inc. v. Her Majesty, [1997] G.S.T.C. 49, confirmed by the Federal Court of Appeal [1998] F.C.J. No. 641 and Judge Hershfield’s decision in Absolute Bailiffs Inc. v. Canada, [2002] T.C.J. No. 549, also confirmed by the Federal Court of Appeal, [2003] F.C.A. No. 1574.
+[5] In Wa-Bowden, Judge Sarchuck was of the opinion that the wording of the relevant paragraphs was not ambiguous. Here is the relevant excerpt:
+The language of the relevant subsections is clear and unambiguous. …the provisions of subsection 317(3) stipulate that where monies are due and owing from the party receiving the Requirement (in this case the Appellant) to the tax debtor (Mid Canada), the property in those monies is transferred to Her Majesty the Queen in right of Canada. Subsection 317(3) also specifies that its application is subject to the Bankruptcy and Insolvency Act (Bankruptcy Act). This has been interpreted in a number of instances to mean that where monies were immediately due and owing prior to the date of bankruptcy, those monies are subject to the application of the Act, but where service of the Requirement occurs after the date of bankruptcy, or where the amount at issue was not immediately due and payable prior to the date of bankruptcy, any monies otherwise payable in the latter two instances are not available to the Respondent.
+[6] In Absolute Bailiffs, supra, the appeal dealt with the issue of determining whether the Minister identified the right party in his Requirement to Pay, pursuant to subsection 317(3) of the Act, and with the issue of determining the effect of the BIA, specifically subsection 71(1) of the BIA, and subsection 317(3) of the Act, when a bankruptcy occurs after a Requirement to Pay is issued pursuant to subsection 317(3). In paragraphs 14 and 15 of his decision, Judge Hershfield drew the following conclusion:
+…the bankruptcy occurred subsequent to the sale of the seized assets and subsequent to the receipt of the proceeds of sale so that the Requirement to Pay was in place when moneys, which become the property of Her Majesty if subsection 317(3) otherwise applies, were held by the Appellant. That proprietary interest (arising if subsection 317(3) otherwise applies) keeps the moneys from the Trustee where the requirement to pay precedes the bankruptcy.
+Accordingly, for the purpose of the Act, I am satisfied that section 317 applies notwithstanding the bankruptcy. That being the case, the Requirement to Pay served on the Appellant is the Crown's best protection to ensure payment of funds owed by the tax debtor. Revenue Canada seized upon a priority given by Parliament, …
+[7] The Courts of Appeal in Ontario, British Columbia and Saskatchewan respectively drew the same conclusions in Bank of Montreal and Attorney General of Canada, 66 O.R.(3d)161, In the matter of the bankruptcy of Canoe Cove Manufacturing Ltd., [1994] G.S.T.C. 36 and Encor Energy Corp. v. Slaferek's Oilfield Services (1983) Ltd., [1995] G.S.T.C. 54.
+[8] In Bank of Montreal, supra, the Court had to determine if the bankruptcy of a tax debtor affected the Canada Customs and Revenue Agency’s right to receive payment, pursuant to subsection 317(3) of the Act, which was required before the debtor’s bankruptcy to the benefit of the Bank of Montreal. According to Justice Weiler, subsection 317(3) of the Act contains a transfer of ownership upon receiving the notice. She wrote, in paragraph 12:
+In essence s. 317(3) provides a form of garnishment enabling the federal government to intercept monies owed to tax debtors. Once a notice to pay is served, the funds acquired thereafter never become the property of the tax debtor.
+[9] Justice Weiler also referred to the argument raised by Counsel for the appellant. In paragraph 14, she states:
+The appellant submits that under s. 70(1) of the BIA a receiving order takes precedence over a garnishment that has not been completely executed by payment being made because s. 317(3) of the ETA is made subject to the BIA. Otherwise, the appellant submits the court would not be giving effect to the words, "other than the BIA". The words "Other than the BIA" have meaning apart from the interpretation suggested by the appellant. They mean that any GST payments that become due after a receiving order in Bankruptcy has been made no longer can be collected in priority to other creditors.
+[10]In Canoe Cove Manufacturing, supra, Justice Thackray said the same thing.
+However, in my opinion the position of the Attorney General is correct in that the Excise Tax Act now provides for an explicit transfer of property from the "particular person" to the government upon receipt of a 'demand letter'. Therefore, the monies owing were no longer the property of the bankrupt at the time of the bankruptcy and are not subject to the Bankruptcy and Insolvency Act's scheme of distribution.
+[11]In response to the argument that subsection 317(3) of the Act is subject to the BIA, the judge added the following:
+The Trustee submitted that Parliament intended, by having the exclusion to the Bankruptcy and Insolvency Act in subsect. 317(3) of the Excise Tax Act, that the Excise Tax Act would not interfere with the distribution scheme found in the Bankruptcy and Insolvency Act upon the bankruptcy of a tax debtor. In my opinion subsect. 317(3) is specifically phrased so as to overcome the rights of a secured creditor and the distribution scheme of the Bankruptcy and Insolvency Act. The case law showed confusion over the exact nature of the government's interest under a 317(3) claim and the government clarified this by stating it was a transfer of property to the government upon receipt of a demand letter.
+Finally, with respect to the question regarding the fact that this provision is onerous for the secured creditors, he added:
+The Excise Tax Act legislation does seem harsh to the extent that it allows the government to usurp a secured creditor's security for a tax debtor's previously incurred tax liability. However, a debtor should not be allowed to conduct business yet remain immune from the normal incidents of the legal process, such as liability for the goods and services tax. To the extent Revenue Canada's claim is for goods and services tax incurred through ongoing business after the security agreement was in place, this legislation does not seem unjust. The bank, as a secured creditor, should not be entitled to any more than the tax debtor would have been entitled to had it not assigned its book debts.
+[12]These views were also repeated in Encor Energy:
+He was also of the view, and again we agree, that having regard for the operation of ss. 317(3) of the Act, the contract debt owing by Encor Energy Corporation Inc. to Slaferek's Oilfield Services (1983) Ltd. became the property of the Minister on the deemed receipt by Encor Energy of the Minister's letter of October 29, 1993. Having thus become the property of the Minister on that date, the contract debt ceased to be the property of either Slaferek's Oilfield Services or Canadian Imperial Bank of Commerce, and in the result the matter was unaffected by the later bankruptcy of Slaferek's.
+[13]All this to say that, notwithstanding that subsection 317(3) is subject to the BIA, if the requirement made to the tax debtor to pay a sum of money is served before filing a notice of intention to make a proposal to his or her creditors or before the tax debtor declares bankruptcy, the sum in question becomes the property of Her Majesty the Queen and is not longer part of the tax debtor’s patrimony.
+[14]The argument made by Counsel for the appellant is based on three decisions that contradict the aforementioned decisions. According to these decisions, the amounts claimed from a third party pursuant to subsection 317(3) of the ETA before the tax debtor’s bankruptcy and unpaid at the time of the bankruptcy, cannot be paid in priority to the Crown. According to these decisions, the section in question provides that it applies despite any other statutes, except the BIA. This would mean, according to these courts, that once bankruptcy occurs, the BIA applies, especially to unpaid amounts that were claimed before the bankruptcy pursuant to subsection 317(3) of the ETA. In other words, according to these decisions, subsection 70(1) of the BIA gives priority to bankruptcy orders and assignments over all proceedings against the property of a bankrupt that are not settled by a payment before bankruptcy or assignment.
+[15]Subsection 70(1) of the BIA states:
+Every bankruptcy order and every assignment made under this Act takes precedence over all judicial or other attachments, garnishments, certificates having the effect of judgments, judgments, certificates of judgment, legal hypothecs of judgment creditors, executions or other process against the property of a bankrupt, except those that have been completely executed by payment to the creditor or the creditor’s representative, and except the rights of a secured creditor.
+[16]The three decisions in questions are Giguère et le Ministre du Revenu du Québec v. Lloyd Woodfine et la Banque Nationale du Canada, [2001] Q.C.C.A. 2584, Forget et Druker & Associés Inc. v. Le sous-ministre du Revenu du Québec, [2003] J.Q. No. 1026 and Sous-ministre du Revenu du Québec v. De Courval, [2009] R.J.Q. 597.
+[17]In Giguère, a notice (garnishment) was sent to a bank pursuant to subsection 15.3.1 of An Act respecting the Ministère du Revenu (AMR). Under this subsection, which is similar to subsection 317(3) of the ETA, the amount that the bank had to pay to its creditor became the property of the State and had to be paid in full in priority over any other security granted in respect of this amount. Giguère made an assignment of his property pursuant to the BIA before the bank followed-up on the Minister’s notice. The Quebec Court of Appeal therefore had to decide if the amount held by the bank became the property of the State upon receiving the Notice or if it remained in the possession of the bankrupt as part, after assignment, of the bankrupt’s property. The Court concluded that the right of ownership granted by the Crown pursuant to subsection 15.3.1 of the AMR was a legal fiction of limited effect. And this fiction did not invalidate subsection 70(1) of the BIA, which gives priority to bankruptcy orders and assignments over all proceedings that are not settled by a payment prior to bankruptcy or assignment.
+[18]In Forget, the Superior Court of Quebec had to answer the same question as the one addressed in Giguère. Here again, a notice was sent pursuant to section 15.3.1 of the AMR of Quebec, but also pursuant to subsection 317(3) of the ETA. The Court relied on Giguère to decide whether the absence of full payment before the bankruptcy date means that the garnishment ceases to be enforceable and cannot be set up against the trustee. The Court confirmed that if Parliament had decided to grant such a privilege to Revenue Canada, it would not have written subsection 317(3) of the ETA creating an exception to the effect that the BIA must be applied.
+[19]Finally, the Quebec Court of Appeal, in Québec (Sous-ministre du Revenu) v. De Courval, supra, again addressed this issue. In this case, the requirement was made pursuant to section 15.3.1. of the AMR of Quebec only, and the amount due in the notice was not paid before the bankruptcy of the tax debtor. The Court of Appeal decided that the notice did not transfer to the Minister ownership of the money because only the property held in a real trust are excluded from the patrimony of the bankrupt. The notice, according to the Court, did not change the trust that was deemed to be created pursuant to section 20 of the AMR of Quebec into a real trust as the amount claimed pursuant to section 15.3.1 was mixed in with other amounts in the bankrupt’s bank account. The amount claimed pursuant to section 15.3.1 therefore stopped being held in trust at the time of bankruptcy given subsection 67(2) of the BIA establishes that property is not regarded as held in trust for the purpose of the BIA unless, in the absence of a statutory provision (such as section 20 of the AMR of Quebec), it would be so regarded. Finally, the Court concluded that, to avoid the application of section 70 of the BIA, the payment would have had to have been made before the bankruptcy. The Court also said that other courts did not mention subsection 70(1) of the BIA.
+[20]That being said, it is important to note that the Supreme Court of Canada in Alberta (Treasury Branches) v. M.N.R., [1996] 1 SCR 963, confirmed the decision of the trial court, without doing an analysis, (Canada Trustco Mortgage Corp. v. Port O'Call Hotel Inc., [1993] 1 W.W.R. 639), as it decided that the amounts claimed in the Minister’s Notice had to be paid to the Minister first, as per the notice. In this case, the Supreme Court had to decide if the Crown had the right to the monies claimed from lending institutions pursuant to section 224 of the ITA and section 317 of the ETA before the bankruptcy of tax debtors. The establishments in question granted loans to tax debtors and held assignments of book debts from these debtors to secure their loans. The Court had to decide if these establishments were the secured creditors of these tax debtors pursuant to sections 224 of the ITA and 317 of the ETA in order to determine whether the notices issued pursuant to these sections were enforceable.
+[21]Justice Cory, writing for the majority, decided that the institutions were secured creditors and the amounts in question had to be paid to the Minister of Revenue as per the notices.
+[22]In De Courval, the Court of Appeal of Quebec noted that the Supreme Court of Canada had not discussed the transfer of ownership provided in subsections 224(1.2) of the ITA and 317(3) of the ETA or the application of subsection 70(1) of the BIA. If we look at the judge’s decision from the trial court in Canada Trustco Mortgage Corp, supra, we conclude that the result is the same: the notices issued pursuant to these provisions before the bankruptcy of the tax debtors are enforceable on third parties despite the bankruptcy of these debtors.
+[23]In Canada Trustco Mortgage Corp., supra, Justice Forsyth said that the changes made to subsection 224(1.2) of the ITA in 1990 that we find in subsection 317(3) of the ETA corrects the situation resulting from the contradictory caselaw as it states that the transfer of ownership takes place at the receipt of the notice and therefore gives the Minister priority over the secured creditors.
+[24]Justice Forsyth also discussed the application of the BIA and the exclusion of the application of the BIA to subsection 317(3) of the ETA in his decision. He concluded that the exclusion could not help secured creditors as the notice was sent before the bankruptcy of the tax debtor, meaning that at the time of bankruptcy, the rights of secured creditors to the property of the bankrupt are lost.
+[25]It is important to remember that Parliament’s intention for enacting subsection 317(3) of the ETA, was to create a stronger garnishing right in that it gives Revenue Canada priority to a tax debtor’s assets to the disadvantage of secured creditors. The Courts explored the application of this paragraph in the event where there is an assignment of book debt by a tax debtor to a financial institution before a notice is sent to a creditor of the tax debtor and also in cases where there was, as in this case, a bankruptcy or a proposal to creditors under the BIA before the tax debtor’s creditor has made a payment required by Revenue Canada.
+[26]According to the investigator’s testimony, the appellant refused to comply with the Minister’s Notice because the Notice to Stay received from the bankruptcy trustee and because the tax debtor had a debt to the appellant. In my opinion, what subsection 317(3) of the ETA does is permit Revenue Canada to replace the appellant as the primary creditor of the tax debtor, provided, of course, that the bank held securities entitling it to this money. With respect to the proposal to creditors, which came before the appellant’s payment to Revenue Canada, the effect of subsection 317(3) of the ETA is clear in that not only must the payment be made immediately, but at the receipt of the notice from the Minister, this money becomes the property of Her Majesty the Queen and as a result, is no longer part of the tax debtor’s patrimony.
+[27]Regardless of the fact that subsection 317(3) of the ETA excludes the application of all federal, provincial or other enactments, with the exception of the BIA, that could have an effect on the application of subsection 317(3), it is still clear that its application here does not contradict the provisions of the BIA, especially subsection 70(1) of the BIA, which only applies to a bankrupt’s property. So the tax debtor’s property in this case became the property of Her Majesty the Queen at the time the notice pursuant to subsection 317(3) of the ETA was sent, which was before the bankruptcy proposal was made to the creditors.
+[28]Therefore, in this case, there was no reason for the appellant not to comply with the provisions of subsection 317(3), especially since the bank did not have any priority claim on the money and was not unclear about whom to give the money to before it received the Notice of Stay from the trustee. The Minister was therefore justified in assessing the appellant pursuant to subsection 317(9) of the ETA. The appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of November 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 2nd day of February 2009.
+Bella Lewkowicz, Translator
+CITATION: 2009TCC522
+COURT FILE NO.: 2009-114(GST)I
+STYLE OF CAUSE: Toronto Dominion Bank v. Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 10, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 10, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Éric Potvin
+Counsel for the Respondent:
+Michel Beauchamp
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Éric Potvin
+Firm: Lapointe Rosenstein, S.E.N.C.R.L.
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,158 @@
+Title: 6398316 Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493859/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-17-493859-6398316-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-03-04
+
+# 6398316 Canada Inc. v. The Queen
+
+- Citation: 2021 TCC 17
+- Decision date: 2021-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4615, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6398316 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-04
+Neutral citation
+2021 TCC 17
+File numbers
+2018-528(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-528(IT)G
+BETWEEN:
+6398316 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 19 and 20, 2020, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Mark S. Grossman
+Counsel for the Respondent:
+Rebecca L. Louis
+JUDGMENT
+The appeal of the two loss determinations made September 23, 2015 under the federal Income Tax Act respecting the Appellant’s 2012 and 2013 taxation years is dismissed, with costs.
+Signed at Halifax, Nova Scotia, this 4th day of March 2021.
+“B. Russell”
+Russell J.
+Citation: 2021 TCC 17
+Date: 20210304
+Docket: 2018-528(IT)G
+BETWEEN:
+6398316 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] The corporate Appellant, carrying on business as Global Sustainable Solutions, appeals two federal Income Tax Act (Act) loss determinations made September 23, 2015 by the Minister of National Revenue (Minister). These loss determinations pertain to the Appellant’s 2012 and 2013 taxation years respectively. Specifically, the appeal concerns the Minister’s denial, reflected in the loss determinations, of claimed scientific research and experimental development (SR&ED) expenditures (and accordingly refundable investment tax credits) under the Act. These claimed expenditures were incurred in connection with a construction project carried on by the Appellant during those two years. The construction was of a house, in southern Ontario, intended to be uniquely energy efficient while staying within the price range of a “regular home”.
+Issue:
+[2] The issue is whether the Minister erred in determining that none of the Appellant’s expenditures relating to this construction project constituted SR&ED expenditures.
+Law:
+[3] The Appellant claimed SR&ED under the category “experimental development”. The relevant portion of the SR&ED definition at subsection 248(1) of the Act reads:
+248(1) “scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is . . .
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto . . .
+[4] The most often cited SR&ED decision is from this Court, per Justice Bowman as he then was, styled Northwest Hydraulic Consultants Ltd. v. R., [1998] 3 CTC 2520 (TCC). At para. 15 thereof, Justice Bowman set out a five step approach for identifying whether SR&ED had been conducted, as opposed to, for example, basic research and development. Subsequently in C.W. Agencies Inc. v. R., 2001 FCA 393, the Federal Court of Appeal approved of the Northwest Hydraulic approach.
+[5] The five steps per Northwest Hydraulic for identifying conduct of SR&ED are:
+(a) was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+(b) did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating the technological uncertainty?
+(c) did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?
+(d) did the process result in a technological advancement?
+(e) was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[6] In formulating these five steps, Justice Bowman described the term “routine engineering” (appearing in step (a)) as being, “techniques, procedures and data that are generally accessible to competent professionals in the field.”
+[7] That is the five step test to be applied in this appeal, in deciding whether the various house construction related expenses that the Appellant has identified as being SR&ED expenditures, do in fact so qualify.
+Evidence:
+[8] At the opening of the hearing, Appellant’s counsel stated that his client’s total of claimed SR&ED expenditures for the 2012 taxation year had now been reduced by $3,485.65 to the amount of $139,631.67; and likewise the 2013 taxation year total had now been reduced by $34,032.69 to the amount of $61,752.60.
+[9] The corporate Appellant called one witness – Mr. Cory Smith (CS). At all material times CS was the Appellant’s president. Neither party called any expert evidence and the Respondent called no witnesses.
+[10] CS testified that he has experience in house construction and has earned various training certifications relating to house construction. They include a 2008 certificate from Sir Sanford Fleming College marking completion of a six month study program in “sustainable building design and construction”. He spoke of the Appellant’s project of building a small house (bungalow) in southern Ontario in 2012 and 2013, seeking that it, “can function without the need for active life support” (by which he means) “grid-tied energy for fuel”, meaning no electricity or natural gas or any other grid-tied fuel. [1] He added:
+It may still use electricity and propane, depending on the circumstances, or wood for fuel, depending on the choice of the home owner, but the overall idea was to create a home that could function by manipulating the natural forces around us for a low maintenance, low impact environment, but also do it affordably at the same time so the main stream housing could [sic] market had access to a home like this. [2]
+[11] His reference to “natural forces” primarily means sun, wind, rain and temperature fluctuations. He was inspired by the “passive house” concept. The expenditures at issue basically were payments the Appellant had made to various subcontractors that the Appellant, through CS, had engaged in constructing the subject house.
+[12] As a first step, the Appellant engaged a company knowledgeable in passive house design to render formal, computer software generated design plans for the small house. These design plans were generated in full consultation with CS and allowing for elements and concepts he wanted included.
+[13] CS testified that the aspects of the project upon which the SR&ED claim was based were various natural force interactions such as thermal mass, thermal bridging, passive cross-ventilation, passive heating and cooling, and air sealing. Thermal mass is the ability to absorb and store heat energy – here in the building’s concrete footings. In winter, warmer daytime temperature warmth would be released throughout the colder night. Thermal bridging is the movement of heat across an object more conducive to that than surrounding materials. For example, warm air can relatively readily migrate though wood framing from indoors to outdoors, resulting in heat energy loss. Passive ventilation is manipulating air movement within the building environment entirely or mostly absent the use of active ventilation sources, such as a furnace. Passive cross-ventilation, a term coined by CS, refers he said to an even, passive distribution of hot air and cold air.
+[14] Passive heating and cooling typically relates to passive solar design – selectively using the sun’s energy to improve energy efficiency. Finally, air sealing refers to sealing gaps within the building envelope to avoid heating or cooling loss. As stated, CS’s objective with this building was to integrate these various forces into one passive building product not requiring life support in the form of grid-tied energy sources.
+[15] The Appellant broke ground in August 2012 and completed the structure in the fall of 2013. CS’s evidence focused upon various passive energy steps taken in the course of construction. One such step was using rigid styrofoam to insulate around the structure’s concrete footings and as well under the concrete slab, to a significantly greater extent than utilized in usual house construction including, he said, custom built homes. Styrofoam acts as a thermal break to reduce thermal bridging.
+[16] Also, the Appellant in conjunction with a concrete contractor tried several differently proportioned mixtures of recycled material (30, 45 and 60%) within the concrete mix to see if such adjustments might helpfully affect interior thermal mass and passive cross-ventilation. Having 60% of recycled material caused the concrete to take too long to cure. The Appellant ended up staying with the standard mix of 15% of recycled material.
+[17] Styrofoam was also installed on the interior top edge of the footings, “to provide a thermal break to interrupt the thermal bridging process that would typically happen on [sic] a code built home between the exterior of the home and the interior”. [3] As well, CS air-sealed with tape the styrofoam seams to inhibit heat transmission. Repeatedly he favourably compared these actions to the standard found in a “code built” house.
+[18] Further, wall construction included use of ICF (insulated concrete forms) for walls, running from the footings to the eaves. This is done elsewhere but is not common. [4] Four inches of foam insulation was added to the exterior side, and additional insulation added also on the interior side. Four inches of exterior insulation is “above and beyond” the norm. [5]
+[19] Regarding attic insulation, 27 inches of cellulose insulation (recycled newspaper mixed with a binder) was put in place, having a notably high thermal resistance rating. The house was positioned with southern exposure to maximize solar heat coming in through windows (“glazing”) on the south facing wall, as well as on the eastern wall to maximize capture of sunrise solar energy. The south exposure glazing is designed to capture solar energy from a winter sun sitting lower in the sky than in summer. Excessive summer sun energy also was somewhat blocked by installed exterior blinds over the southern exposure glazing. Rigid foam insulation was installed around the perimeter of main floor window openings to provide a thermal break for heat transmitting through concrete to the window pane and into the next plane of concrete. [6]
+[20] Solar panels were intended to be installed but ultimately were not, due to difficulty with Hydro One grant eligibility. They would have been expected to “power the home”. [7]
+[21] The connection between roof trusses and tops of walls was the focus of air sealing utilizing a peel and stick membrane to ensure air tightness. [8] This is more air sealing than in a code built home, but is important because much heat loss typically occurs through the attic. Also there was no penetration to the attic for electrical service. Instead, all such wiring was run just underneath the attic zone.
+[22] As well, a “subsoil heat exchange system” was installed, consisting of a ground loop installed surrounding the foundation prior to backfilling. It was done because a proper geothermal system would have cost over $30,000. CS said the system he (said he) designed was one tenth of that cost and provided “roughly” one tenth of energy demand. The loop would connect to a “water to air coil module” in the house. It was not fully explained in testimony, but the intended result was providing some warmer air in the winter and cooler air in the summer. [9]
+[23] CS testified that there was no data they could identify to test his “custom heating and cooling system”, so as to measure or quantify its effectiveness, or to rate it. [10]
+[24] The home as built received an “Energuide” efficiency rating of 91 out of 100. The Energuide document (Ex. A-17) provides inter alia that the “typical rating” for a “New house built to minimum building code standards” would be “65 to 70”. It provides that the typical rating for its top category, being a “Highly energy-efficient house”, would be “80 or more”.
+Analysis:
+[25] Per above, the first and second of the five Northwest Hydraulic steps which constitute the test for determination of SR&ED are, (a) “was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?”, and (b) “did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating the technological uncertainty?”
+[26] In oral submissions, Appellant’s counsel addressed these two steps. He submitted: [11]
+Your Honour, in questioning I submit you asked, well, in a better designed home they come with more insulation. That’s true. So there’s no trick there to just add more insulation. He sealed it up presumably again, there’s no real trick to being more careful in terms of the air leaks. That’s not the hypothesis. The hypothesis is I can build a house without, that doesn’t need a furnace, at a price point that’s similar to a regular home. That’s the hypothesis. And the technical [sic: technological] uncertainty is the cost. [underlining added]
+[27] Thus the Appellant’s position is not that there was any technological issue vis-à-vis the various aspects of construction referred to in CS’s testimony in constructing this energy efficient home. And I would agree with that. None of these various aspects, including extra insulation of the footings and foundation, walls and attic, extra taping of gaps and seams, and as well development of the modified ground loop as a cheaper and less energy efficient geothermal system, were described by CS as reflecting new technological knowledge. That is, none of these various aspects that CS testified to reflected development of technological knowledge new to the home construction industry.
+[28] Furthermore the Appellant presented no expert evidence as to the state of technological knowledge within this industry, that might suggest that the Appellant had broken new technological ground in constructing this energy efficient house. No supposedly new knowledge was identified by CS, let alone by an expert witness, as having been sought or developed in the construction of this house.
+[29] The Appellant’s position however is that keeping the construction cost, of a house so energy efficient it does not require a furnace, to a level equating with the construction cost of a house built to regular code standards is itself a technological advance.
+[30] I disagree. Conceptually there is no technological aspect implicit in the notion of an item costing or priced at ‘x’ rather than ‘y’ dollars. Of course one might envisage that the cost (or price) of an item could be reduced in the event of some particular technological advancement. But the relevant question for SR&ED purposes would remain – what is that contemplated technological advancement itself, that could lead to the achieving the commercial objective of lowered pricing, comparable to that of standard code constructed housing.
+[31] Furthermore and in any event, that would not accord with the nature of an hypothesis specified by Northwest Hydraulic – being an hypothesis, “specifically aimed at . . . the technological uncertainty”. An hypothesis “specifically aimed” at reduction of a cost or price quite misses that Northwest Hydraulic target.
+[32] Also I note we heard no organized and specific comparison costs evidence regarding either construction or operating costs post-construction as compared to standard houses. The fact that electricity bills were somewhat equivalent to another house is insufficient. This again is where neutral expert evidence would or could have assisted.
+[33] Conceivably, uniquely combining several known procedures that result in rendering a process more efficient might constitute SR&ED. However, that would only be so if the unique combination is itself accomplished through application of the scientific method contemplated by Northwest Hydraulic. Merely combining known procedures characteristic of sustainable housing in what may have been a unique way (although if so, that was not made clear) does not without more constitute SR&ED. Again, certainly expert evidence, not adduced in this appeal, would be desired to identify that new technological knowledge had resulted.
+[34] The third of the five identified steps is, “did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?” What slight evidence of testing there was in this matter, basically being the tested three different percentages of recycled material in the concrete mix, struck me as entirely being routine engineering, and not based on any identified hypotheses. Trial and error seem to be the basis for this testing.
+[35] The fourth of the five Northwest Hydraulic tests is, “did the process result in a technological advancement?” This has basically been answered above, in the negative. Of course technological advancement includes new knowledge that results even from a failed attempt to achieve a technological advance. We have no evidence here of new knowledge of a technological nature.
+[36] The fifth of the five Northwest Hydraulic tests is, “was a detailed record of the hypotheses tested, and results kept as the work progressed?” I do not consider that any scientific methodology testing was done in this matter. In any event there was no detailed compilation of hypotheses testing results, kept as the work progressed.
+Disposition:
+[37] In conclusion, while the work done by the Appellant is admirable, it was not reflective of SR&ED. Accordingly the appeal will be dismissed. The two appealed loss determinations made September 23, 2015 will be upheld.
+Signed at Halifax, Nova Scotia, this 4th day of March 2021.
+“B. Russell”
+Russell J.
+CITATION:
+2021 TCC 17
+COURT FILE NO.:
+2018-528(IT)G
+STYLE OF CAUSE:
+6398316 CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+October 19 and 20, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+March 4, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Mark S. Grossman
+Counsel for the Respondent:
+Rebecca L. Louis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mark S. Grossman
+Firm:
+Shuh Cline & Grossman
+Kitchener, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, pp. 25-6.
+[2] Ibid.
+[3] Transcript, p. 58.
+[4] Transcript, pp. 70-1.
+[5] Ibid.
+[6] Transcript, p. 79.
+[7] Transcript, pp. 75-6.
+[8] Transcript, p. 78.
+[9] Transcript, pp. 95-6.
+[10] Transcript, p. 98.
+[11] Transcript, p. 255.

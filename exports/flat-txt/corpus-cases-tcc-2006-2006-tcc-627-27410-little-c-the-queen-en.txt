@@ -1,0 +1,83 @@
+Title: Little c. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27410/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-627-27410-little-c-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-29
+
+# Little c. The Queen
+
+- Citation: 2006 TCC 627
+- Decision date: 2006-11-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 232, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Little c. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-29
+Neutral citation
+2006 TCC 627
+File numbers
+2006-1435(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC627
+Date: 20061129
+Docket: 2006-1435(IT)I
+BETWEEN:
+ARTHUR D. LITTLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Deanna M. Frappier
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench
+on September 28, 2006, in Halifax, Nova Scotia)
+McArthur J.
+[1] This motion is for an order quashing the Appellant's appeal from an assessment made by the Minister of National Revenue for the 2004 taxation year, on the grounds that this Court does not have the jurisdiction to determine whether provincial income tax is payable and, in this instance, to the Province of Nova Scotia.
+[2] The appeal was brought under the Informal Procedure and the Respondent was granted leave to proceed with the motion on short notice. At the conclusion of the motion hearing I reserved my decision, and the Appellant proceeded with his appeal. After the hearing of the motion, and of course before giving a decision, I had stated that if I was of the same opinion after reviewing the evidence and submissions, I would grant the motion quashing the appeal for 2004. I am of the same mind. The appeal is quashed, and because I have no jurisdiction to make a binding decision with regard to residency, my opinion in that regard is just that, an opinion.
+[3] I did hear the evidence of Mr. Little and his wife with regard to the issue of whether he was a resident of Nova Scotia or Nunavut. Had I to make the decision in the Appellant's appeal, I would find that he had been a resident of Nunavut during the relevant taxation year 2004. But again, unfortunately, I do not have that jurisdiction.
+[4] The proper forum for the Appellant may be before the Supreme Court of Nova Scotia, under provincial tax regulations and the Nova ScotiaIncome Tax Act.
+The reasons for quashing the appeal are as follows. In his Notice of Appeal, the Appellant states that his residence in 2004 was Nunavut, and that he should not be forced to pay the higher taxes in the Province of Nova Scotia. During the 2004 taxation year, he was employed as the Director of Finance by the Municipality of Igloolik, in Nunavut. In effect, the Appellant appeals the provincial income tax which was imposed. He does not appeal the federal income tax.
+[5] The Tax Court of Canada is a statutory Court, and its jurisdiction is limited by statute. Section 12 of the Tax Court of Canada Act provides for the matters over which this Court has jurisdiction. In addition, in the case of Gardnerv. The Queen,[1] Sexton J. of the Federal Court of Appeal, stated:
+Both the federal government and provinces have the jurisdiction to enact income tax laws. The Tax Court has jurisdiction with respect to provincial income tax only to the extent that jurisdiction is conferred upon it by the province. It is open to a province to reserve onto itself jurisdiction to decide particular issues with respect to its income tax ...
+[6] I accept the Respondent's submission that the province of Nova Scotia has reserved onto itself jurisdiction with respect to its own income tax, although the federal government, through arrangements with the provinces, does the original collecting. Further, Justice Noel of the Federal Court of Appeal, dealing with a similar issue in Sutcliffe v. The Queen,[2] stated:
+In this respect, the Tax Court of Canada does not have jurisdiction to pronounce on the validity of an assessment of provincial income tax. This jurisdiction belongs to the superior courts of the respective provinces, pursuant to provincial statutes. ...
+And I refer to the statute for the Province of Nova Scotia with regard to income tax.
+[7] I need not go further. The Respondent's motion is granted and the appeal for 2004 is quashed. This is an unfortunate situation, but I have to agree with the Respondent's counsel that I indeed have no jurisdiction to hear and determine this appeal.
+Signed at Ottawa, Canada, this 29th day of November 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC627
+COURT FILE NO.: 2006-1435(IT)I
+STYLE OF CAUSE: ARTHUR D. LITTLE AND THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: September 28, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: October 10, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 FCA 401.
+[2] 2004 FCA 376.

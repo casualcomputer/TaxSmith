@@ -1,0 +1,277 @@
+---
+title: "9022-0377 Québec Inc. (Évasion Sport D.R.) c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26771/index.do"
+last_modified: "2005-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 474"
+citation2: ""
+neutral_citation: "2005 CCI 474"
+decision_date: "2005-09-06"
+language: "fr"
+item_id: "26771"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3517
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:33:11.414000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c41c3d7b51baebaac1b285e7031af63299ef77f0255b834065b277e0b59a36f6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9022-0377 Québec Inc. (Évasion Sport D.R.) c. M.R.N.
+
+- Citation: 2005 CCI 474
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3517, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9022-0377 Québec Inc. (Évasion Sport D.R.) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-06
+Référence neutre
+2005 CCI 474
+Numéro de dossier
+2004-3731(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3731(EI)
+ENTRE :
+9022-0377 QUÉBEC INC., (ÉVASION SPORTS D.R.),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ROGER GAGNON,
+DENIS GAGNON,
+intervenants.
+____________________________________________________________________
+Appel entendu le 6 juillet 2005, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Représentant des intervenants :
+Me Martin Gentile
+Alain Savoie
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI474
+Date : 20050906
+Dossier : 2004-3731(EI)
+ENTRE :
+9022-0377 QUÉBEC INC., (ÉVASION SPORTS D.R.),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ROGER GAGNON,
+DENIS GAGNON,
+intervenants.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel où la question en litige est de déterminer si l'emploi exercé pendant la période allant du 1er septembre au 17 novembre 2003, dans le dossier de Denis Gagnon et pendant la période allant du 1er janvier au 17 novembre 2003, dans le dossier de son frère Roger, tous deux intervenants, devait être exclu des emplois assurables en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi ( « Loi » ).
+[2] Les emplois en cause ont été exercés pour le compte de la société 9022-0377 Québec inc., l'appelante. Les frères Denis et Roger Gagnon détenaient respectivement 30 % et 25 % des actions avec droit de vote et le reste, 45 %, était la propriété de Denis Coiffier.
+[3] Pour expliquer et justifier la détermination, l'intimé a énuméré les faits tenus pour acquis. Plusieurs faits relatés au paragraphe 7 de la Réponse à l'avis d'appel (la « Réponse » ) ont fait l'objet d'une admission et d'autres ont été niés, comme suit :
+a) l'appelante, constituée en société le 15 juin 1995, exploite un commerce de vente, de location et de réparation de véhicules récréatifs (motoneiges, motos, VTT) sous la raison sociale de « Évasion Sport D.R. » ; (admis)
+b) l'appelante exploite son entreprise à l'année longue, durant la saison hivernale, elle est ouverte de 6 à 7 jours par semaine alors que durant la saison estivale, elle est ouverte de 5½ à 6 jours par semaine; (admis)
+c) Roger Gagnon est le directeur des ventes, il est responsable des commandes, du financement, des ventes des gros véhicules, des locations et des soumissions; (admis)
+d) Denis Gagnon est responsable des pièces et du service de réparation ainsi que de la supervision du personnel administratif et il fait de plus de la vente et de la location; (admis)
+e) chacun des travailleurs est responsable, dans son secteur de travail, de l'embauche du personnel, des horaires de travail et de la supervision des employés; (admis)
+f) Denis Coiffier, le troisième actionnaire du payeur, n'est pas impliqué dans les activités quotidiennes de l'appelante, mais il est consulté par les travailleurs lorsqu'il y a des changements ou des investissements majeurs à faire; (nié)
+g) les travailleurs travaillaient généralement sur les lieux du commerce en utilisant l'équipement de l'appelante; (admis)
+h) les travailleurs travaillaient du lundi au vendredi et ils étaient, à tour de rôle, présents au commerce le samedi; (nié)
+i) l'horaire de travail des travailleurs tenait compte des besoins de l'appelante; ils estimaient faire environ 60 heures par semaine; (nié)
+j) les travailleurs recevaient une rémunération fixe annuelle de 50 000 $, soit 1 912 $ par quinzaine; (admis)
+k) lorsqu'ils avaient à se déplacer pour l'appelante, tous les frais reliés à ces déplacements étaient remboursés par l'appelante. (nié)
+[4] Le paragraphe 8 de la Réponse a également été admis. Il se lit comme suit :
+8. Chaque travailleur est lié à l'appelante au sens de la Loi de l'impôt sur le revenu car :
+a) Les détenteurs des actions avec droit de vote de l'appelante étaient :
+- Denis Gagnon avec 30 % des actions;
+- Roger Gagnon avec 25 % des actions;
+- Denis Coiffier avec 45 % des actions
+b) Denis et Roger Gagnon sont frères
+c) les travailleurs formaient un groupe lié qui contrôlait le payeur.
+(admis)
+[5] Le paragraphe 9 de la Réponse a été nié ainsi que les alinéas 9a) et 9b). Les alinéas 9c) et 9d) ont été admis. Le tout se lit comme suit :
+9) Le ministre a déterminé aussi que les travailleurs étaient réputés ne pas avoir de lien de dépendance avec l'appelante dans le cadre de leur emploi car il a été convaincu qu'il était raisonnable de conclure que chaque travailleur aurait conclu avec l'appelante un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance avec elle, compte tenu des circonstances suivantes : (nié)
+a) La rémunération versée à chaque travailleur était raisonnable compte tenu qu'ils faisaient chacun 60 heures de travail par semaine et compte tenu de leurs responsabilités administratives; (nié)
+b) l'horaire de travail de chacun des travailleurs, comme celle des autres employés de l'appelante, était déterminé selon les besoins de l'appelante; (nié)
+c) la durée de travail des travailleurs répondait aux réels besoins de l'appelante; (admis)
+d) chacun des travailleurs rendait des services à l'appelante, dans son secteur d'activités respectif, qui étaient essentiels aux activités de l'appelante. (admis)
+[6] Messieurs Denis Gagnon et Roger Gagnon ont témoigné pour l'appelante.
+[7] Le troisième actionnaire, Denis Coiffier, résidant en France, se rendait, de façon périodique, dans la région du Saguenay pour s'y occuper de ses intérêts financiers, mais aussi pour se consacrer à sa passion, la motoneige.
+[8] Décrit comme un investisseur passif, il est devenu après les périodes en litige détenteur de 50 % des actions. Denis Gagnon est alors devenu le détenteur de l'autre 50 %, Roger Gagnon ayant choisi de vendre ses actions; Au moment de l'audition, messieurs Denis Gagnon et Denis Coiffier étaient les seuls actionnaires dans une proportion de 50-50.
+[9] La preuve de l'appelante reposait principalement sur le témoignage des frères Gagnon. Denis Gagnon s'occupait du service de location et du service après-vente tandis que son frère Roger s'occupait du département des ventes. Le volet location était une composante fort importante de l'entreprise et il exigeait une grande disponibilité pour répondre aux appels de service à la suite de bris pouvant se produire loin de la place d'affaires de l'entreprise et particulièrement au niveau des nombreux véhicules que l'entreprise louait les fins de semaine.
+[10] Bien que Denis se soit joint à l'entreprise plus tard que son frère Roger, il est rapidement devenu son égal en ce qui concerne les conditions de travail, notamment en ce qui touche le niveau salarial.
+[11] Les frères Gagnon jouissaient d'une très grande autonomie dans le cadre de leurs responsabilités respectives. Ils étaient en quelque sorte rois et maîtres de la gestion de leurs départements respectifs. Ils se respectaient, se faisaient confiance et s'appuyaient mutuellement. L'harmonie existait et ils prenaient généralement ensemble les décisions relatives à la gestion et à l'administration courante de l'entreprise.
+[12] Certes, il pouvait y avoir certains petits détails qui ne faisaient pas l'unanimité, mais, de façon générale, le climat était serein, productif, voire même dynamique.
+[13] L'entreprise a d'ailleurs connu une progression démontrant l'existence d'un dynamisme tout à fait exceptionnel. Le chiffre d'affaires a progressé comme suit : (pièce I-2)
+Exercice financier se
+terminant le
+Chiffre d'affaires
+Bénéfice net
+31 mai 2003
+31 mai 2002
+31 mai 2001
+31 mai 2000
+3 903 037 $
+3 161 415 $
+2 046 405 $
+1 832 073 $
+47 052 $
+71 797 $
+7 419 $
+24 847 $
+[14] Non seulement le chiffre d'affaires a progressé, mais les profits étaient également au rendez-vous. Durant la même période, les profits ont été les suivants : (pièce I-2)
+Année
+Revenus de
+Denis Gagnon
+Revenus de
+Roger Gagnon
+2003
+2002
+2001
+2000
+47 883 $
+7 467 $
+47 890 $
+42 345 $
+38 748 $
+38 579 $
+[15] Pour trancher l'appel, la Cour doit, dans un premier temps, déterminer si l'emploi des intervenants, pendant les périodes en question, était exercé en vertu d'un véritable contrat de louage de services, conformément à l'alinéa 5(1)a) de la Loi.
+[16] Dans un deuxième temps, s'il s'avérait que les emplois en question étaient exercés dans le cadre d'un contrat de travail, la Cour doit vérifier s'il s'agissait d'emplois qui devaient être exclus des emplois assurables en raison de la présence du lien de dépendance entre les actionnaires dont le pourcentage des actions détenues avait pour effet de leur conférer le contrôle de la société, l'exclusion étant prévue à l'alinéa 5(2)i) de la Loi.
+[17] Cette deuxième étape devra cependant tenir compte de la qualité du travail d'analyse réalisé par les responsables du dossier. Ainsi, si le travail d'enquête et d'analyse effectué dans le cadre du pouvoir discrétionnaire octroyé par le législateur à l'alinéa 5(3)b) de la Loi a été judicieusement réalisé par la prise en considération adéquate de tous les faits pertinents, la Cour ne pourra pas intervenir.
+[18] Dans l'hypothèse inverse, à savoir que certains éléments ont été oubliés, négligés, sous-évalués, ou surévalués, la Cour devra se poser la question suivante : la détermination est-elle raisonnable eu égard aux nouveaux éléments de la preuve ou aux manquements ou omissions ou erreurs? Dans l'affirmative, il n'y aura pas d'intervention; par contre, si la réponse est négative, la Cour devra procéder à une nouvelle analyse devant conduite à la confirmation ou annulation de la détermination dont il est fait appel.
+[19] Deux textes législatifs dont il faut tenir compte dans le cadre de cette analyse portent sur le contrat de travail, ou contrat de louage de services. Il s'agit du Code civil et de la Loi.
+[20] L'article 2085 du Code civil définit le contrat de travail comme suit :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[21] L'alinéa 5(1)a) de la Loi prévoit ce qui suit :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[22] Un contrat de travail doit répondre à trois conditions - exécution d'un travail - rémunération - lien de subordination. Les deux premières conditions étant manifestement présentes en l'espèce, il y a lieu d'analyser les faits aux fins de déterminer s'il y avait pouvoir de contrôle. Y avait-il un lien de subordination? La société 9022-0377 Québec inc. avait-elle le pouvoir de contrôle, le pouvoir d'intervention à l'égard du travail exécuté par les frères Gagnon?
+[23] La preuve est à l'effet que monsieur Denis Coiffier était présent de façon essentiellement ponctuelle. Était-il désintéressé pour autant? A-t-il fait le nécessaire pour s'assurer que son placement soit profitable et que l'entreprise fonctionne selon ses attentes?
+[24] La preuve a permis de constater que les actionnaires avaient conclu une convention, en vigueur pendant les périodes en litige, la date de signature par les trois actionnaires étant le 18 août 1998. Cette convention prévoyait, notamment, ce qui suit :
+RESTRICTIONS AUX POUVOIRS DES ADMINISTRATEURS :
+5. Tout règlement ou résolution de la compagnie ayant pour objet ou effet, direct ou indirect, l'un des points suivants, relèvera non pas des administrateurs, dont le pouvoir en ces matières est restreint par les présentes, mais des actionnaires eux-mêmes, et devra être adopté à 100 % des voix détenues par ces derniers pour être valide :
+a) l'émission d'actions et autres valeurs mobilières de la compagnie.
+b) l'approbation ou l'inscription de transfert d'actions du capital-actions de la compagnie non conforme aux dispositions des présentes;
+c) la déclaration de dividende et la distribution de biens ou d'argent aux actionnaires de la compagnie;
+d) la détermination et le paiement de tout salaire, boni, gratification ou autre forme de rémunération à un ou plusieurs des actionnaires, leurs familles ou associés, (si un tel paiement a pour effet d'accorder à un actionnaire, directement ou indirectement, un revenu supérieur à celui auquel il a droit, conformément à l'article 6 ci-après);
+e) la nomination des officiers de la compagnie;
+f) l'adoption, la modification ou l'abrogation de tout règlement;
+g) la désignation des signataires autorisés des chèques et effets négociables de la compagnie;
+h) toute décision autre qu'une décision administrative prise dans le cours ordinaire des affaires de la compagnie.
+PARTAGE DES REVENUS :
+6. Les actionnaires conviennent que les revenus de chacun d'eux tirés de la compagnie, sous quelque forme que ce soit, seront proportionnels à leur détention d'actions ordinaires, sauf, les intérêts dont il est question à l'article 2 ci-avant, ainsi que les rémunérations qui pourraient être allouées par le conseil d'administration pour des fonctions déterminées ou encore à titre d'employé salarié de la compagnie.
+[25] Le contenu de ces clauses démontre de façon assez évidente que l'actionnaire Denis Coiffier s'intéressait aux activités de la société dans laquelle il détenait 45 % des actions. Eu égard à la preuve dont le fardeau, je le rappelle, incombait à l'appelante, il n'y a aucun doute que l'actionnaire Denis Coiffier tenait mordicus aux droits que lui conféraient ses actions.
+[26] Prétendre le contraire va tout simplement à l'encontre de la logique la plus élémentaire et constitue une insulte à l'intelligence d'un homme d'affaires qui, en plus de l'éloignement, devait composer avec une méconnaissance du domaine dans lequel il avait investi, sachant, en outre, que ses co-actionnaires étaient deux frères ayant les connaissances nécessaires et contrôlant ensemble plus de 51 % des actions avec droit de vote. Est-ce raisonnable et vraisemblable de penser ou de croire qu'une personne intelligente renonce, dans de telles circonstances, aux droits que lui confèrent ses actions? La réponse sans équivoque est non.
+[27] La principale préoccupation d'un homme d'affaires est de maximiser le rendement de son investissement. Dans certaines situations, un investisseur peut être motivé par un besoin, une passion ou un passe-temps, auquel cas ses décisions ne sont pas toujours rationnelles. En l'espèce, il n'y a eu aucune preuve à cet effet.
+[28] Monsieur Denis Coiffier n'a pas témoigné. Par contre, il m'apparaît raisonnable d'affirmer que ce dernier était sans doute très satisfait des performances économiques de l'entreprise dans laquelle il avait décidé d'investir. Tant les ventes que les profits étaient de nature à satisfaire tout investisseur.
+[29] Avec de tels résultats, il n'est pas surprenant que l'actionnaire Denis Coiffier se soit montré discret.
+[30] Le fait qu'il ait pu être passif ne veut aucunement dire qu'il avait renoncé à exercer les droits que lui conféraient ses actions. Les résultats étaient très bons et les affaires allaient très bien, de sorte que monsieur Coiffier n'avait pas à intervenir.
+[31] Si les choses s'étaient détériorées, si les résultats avaient été décevants, si des tensions étaient apparues dans les relations entre les investisseurs, si un des frères Gagnon avait commis des abus dans sa gestion, dans les dépenses, il n'y a aucun doute que la société aurait exercé son pouvoir de contrôle pour corriger la situation résultant de certains faits et gestes commis par l'un ou l'autre des frères Gagnon dans le cadre de leur travail.
+[32] Pour déterminer si la société 9022-0377 Québec inc. possédait un pouvoir de contrôle, je réitère qu'il est important de déterminer le statut de l'actionnaire Denis Coiffier.
+[33] Décrit comme investisseur passif, peut-on conclure au désintéressement de Denis Coiffier ou à une indifférence tel qu'il aurait en quelque sorte renoncé aux droits que lui conféraient ses actions? La preuve ne permet pas de conclure qu'il s'agissait d'un investissement symbolique ou philanthropique. Il s'agissait plutôt d'une relation d'affaires.
+[34] Monsieur Denis Coiffier a d'ailleurs acquis d'autres actions lorsque monsieur Denis Gagnon a décidé de se départir des siennes, devenant désormais détenteur de 50 % du capital-actions. Cet accroissement du capital-actions par monsieur Coiffier n'est cependant pas pertinent puisque cela s'est produit après la période en litige.
+[35] Pour toutes ces raisons, je conclus, dans un premier temps, qu'il existait bel et bien un véritable contrat de louage de services entre les intervenants et la société 9022-0377 Québec inc. pendant les périodes en question.
+[36] Rendu à la deuxième étape, il y a lieu d'évaluer la qualité du travail réalisé par l'agente des appels.
+[37] Madame Jacynthe Bélanger a fait le travail d'enquête et d'analyse dans le dossier. Pour ce qui est des faits, éléments et documents pertinents, ils étaient disponibles et ont tous été pris en considération.
+[38] En guise de préparation pour une conférence téléphonique à laquelle ont participé les frères Gagnon et leur représentant Alain Savoie, madame Bélanger avait préalablement fait préparer ce questionnaire pour couvrir tous les éléments et faits qu'elle croyait pertinents. Lors de l'enquête réalisée par cet appel conférence, ces derniers avaient le droit de soumettre tous les renseignements qu'ils jugeaient pertinents et utiles pour soutenir le bien-fondé de leurs prétentions.
+[39] Si les questions de madame Bélanger étaient incomplètes ou imprécises, l'appelante, représentée lors de la conférence téléphonique par une personne qu'elle avait mandatée, en l'occurrence Alain Savoie, avait le loisir de le signaler.
+[40] Le seul reproche qui pourrait être fait à madame Bélanger en ce qui concerne le dossier est qu'elle n'a pas communiqué avec monsieur Denis Coiffier, ce qu'elle a elle-même reconnu. L'appelante, par le biais de son représentant, a-t-elle soulevé cet élément lors de la conférence téléphonique? La preuve n'a pas fourni la réponse à cette question.
+[41] L'appelante a-t-elle suggéré ou proposé la participation de Denis Coiffier à la conférence téléphonique? Si c'était important, pourquoi l'appelante n'a-t-elle pas fait le nécessaire pour qu'il vienne témoigner? Dois-je rappeler que le fardeau de la preuve incombait à l'appelante?
+[42] L'intimé a-t-il correctement appliqué aux alinéas 5(3)a) et b) de la Loi? Cette disposition se lit comme suit :
+5. (3) Pour l'application de l'alinéa (2)i :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance
+[43] Dans le cadre de cette disposition, l'intimé avait le devoir de vérifier tous les faits pertinents et d'en tenir compte d'une manière juste et équilibrée, auquel cas la Cour n'a pas à intervenir. Si l'intimé a fait preuve de certains manquements, la Cour doit vérifier si la conclusion retenue est toujours raisonnable et cohérente, compte tenu de la preuve de nouveaux faits.
+[44] Dans le cadre de son analyse des faits, madame Jacynthe Bélanger a demandé et obtenu la convention des actionnaires. Le contenu de cette convention a confirmé son appréciation quant à la présence du pouvoir de contrôle réfutant en outre l'argument voulant que Denis Coiffier était un actionnaire passif, désintéressé et aucunement préoccupé par les affaires de la société.
+[45] Cela ressort tout particulièrement de l'extrait de la convention reproduit précédemment. Pour faciliter la lecture des présents motifs, je reproduis à nouveau ce texte :
+RESTRICTIONS AUX POUVOIRS DES ADMINISTRATEURS :
+5. Tout règlement ou résolution de la compagnie ayant pour objet ou effet, direct ou indirect, l'un des points suivants, relèvera non pas des administrateurs, dont le pouvoir en ces matières est restreint par les présentes, mais des actionnaires eux-mêmes, et devra être adopté à 100 % des voix détenues par ces derniers pour être valide :
+a) l'émission d'actions et autres valeurs mobilières de la compagnie.
+b) l'approbation ou l'inscription de transfert d'actions du capital-actions de la compagnie non conforme aux dispositions des présentes;
+c) la déclaration de dividende et la distribution de biens ou d'argent aux actionnaires de la compagnie;
+d) la détermination et le paiement de tout salaire, boni, gratification ou autre forme de rémunération à un ou plusieurs des actionnaires, leurs familles ou associés, (si un tel paiement a pour effet d'accorder à un actionnaire, directement ou indirectement, un revenu supérieur à celui auquel il a droit, conformément à l'article 6 ci-après);
+e) la nomination des officiers de la compagnie;
+f) l'adoption, la modification ou l'abrogation de tout règlement;
+g) la désignation des signataires autorisés des chèques et effets négociables de la compagnie;
+h) toute décision autre qu'une décision administrative prise dans le cours ordinaire des affaires de la compagnie.
+PARTAGE DES REVENUS :
+6. Les actionnaires conviennent que les revenus de chacun d'eux tirés de la compagnie, sous quelque forme que ce soit, seront proportionnels à leur détention d'actions ordinaires, sauf, les intérêts dont il est question à l'article 2 ci-avant, ainsi que les rémunérations qui pourraient être allouées par le conseil d'administration pour des fonctions déterminées ou encore à titre d'employé salarié de la compagnie.
+[46] Quant aux faits pris en considération, elle a notamment fait porter son analyse sur les éléments suivants :
+· importance des salaires en relation avec la compétence et l'étendue des responsabilités;
+· qualité de l'administration et des résultats obtenus;
+· contenu de la convention conclue par les actionnaires;
+· nature et importance des responsabilités assumées.
+[47] L'intervention de madame Bélanger dans le dossier découlait de l'initiative de l'appelante qui avait initié le processus d'appel à la suite d'une première décision du ministre (le « ministre » ) avec laquelle elle était évidemment en désaccord.
+[48] Compte tenu de l'importance de l'intervention de la personne responsable de la révision du dossier, l'appelante et les intervenants pouvaient et devaient soumettre tous les renseignements et documents pertinents susceptibles de démontrer le bien-fondé de leurs prétentions.
+[49] L'appelante a beaucoup insisté sur la pertinence de la comparaison disponible entre le statut de Roger Gagnon et celle qui a suivi son départ. En effet, après la vente des actions de Roger Gagnon aux deux autres actionnaires, soit à son frère Denis et à monsieur Denis Coiffier, devenus chacun détenteurs de 50 % des actions, la société a dû combler le vide créé par le départ de Roger. Elle a alors retenu les services de monsieur Pierre Deschênes.
+[50] À l'appui de ses prétentions, l'appelante a comparé le salaire, les conditions de travail, les contraintes au niveau des absences, les vacances, etc., de Roger Gagnon et de Pierre Deschênes; ce dernier, après le départ de Roger Gagnon, s'est vu confier une grande partie du travail exécuté jusque-là par Roger Gagnon.
+[51] La comparaison ne m'apparaît pas totalement pertinente étant donné que Pierre Deschênes ne possédait aucune action dans l'entreprise. Ce qu'une société demande et exige de ses actionnaires qui occupent un emploi dans le cadre des activités commerciales, après avoir accepté les modalités de l'emploi, n'a rien à voir avec le traitement réservé, offert ou accepté par quelqu'un qui ne possède aucune action dans la société.
+[52] Lorsque des actionnaires ayant ou non un lien de dépendance entre eux décident d'avoir une politique salariale pour les actionnaires-travailleurs, qui est très mesquine ou généreuse, très permissive ou très contraignante, cela n'a rien à voir avec les conditions de travail des autres employés.
+[53] Si des actionnaires-travailleurs ont accepté des conditions, que cela les avantage ou les désavantage face aux autres travailleurs de la société, cela n'a rien à voir avec l'existence d'un lien de dépendance. La seule question pertinente est de savoir s'il y a eu travail, rémunération, pouvoir d'intervention et contrôle de la société sur un ou tous les actionnaires-travailleurs? Si oui, il y a contrat de travail. En présence d'une situation concernée par l'exclusion prévue à l'alinéa 5(2)i) de la Loi, la comparaison du travail doit se faire entre un actionnaire-travailleur n'ayant aucun lien de dépendance,et non pas avec les autres employés ne possédant aucune action, et cela, même le statut d'actionnaire et le statut de travailleur sont deux statuts fondamentaux distincts.
+[54] Prétendre le contraire aurait pour effet de créer une grave incohérence à l'endroit de toutes les P.M.E. où les actionnaires qui n'ont pas de lien de dépendance entre eux décident de prévoir une politique particulière pour les actionnaires-travailleurs . N'étant pas assujettis à l'exercice d'un pouvoir discrétionnaire, étant donné l'absence de lien de dépendance entre eux, ils verraient leur entente de travail jugée assurable et ce, même si leurs conditions de travail étaient extrêmement différentes de celles des autres travailleurs de la même entreprise.
+[55] La très grande autonomie dont les actionnaires-travailleurs jouissent dans le cadre de l'exécution de leur travail, l'importance de l'emploi, le salaire substantiellement inférieur ou supérieur des actionnaires-travailleurs par rapport aux autres travailleurs, l'absence totale de vacances ou la possibilité de prendre des vacances sans avis d'une durée dépassant celle des autres employés et ainsi de suite, sont tous des éléments que les actionnaires-travailleurs n'ayant pas de lien de dépendance ne peuvent invoquer pour se soustraire à l'obligation de payer des cotisations au motif que leur entente de travail n'est pas un véritable contrat de louage de services.
+[56] Le législateur a expressément prévu la question du travail exécuté par des personnes qui détiennent des actions dans l'entreprise pour laquelle elles travaillent. Il s'agit de l'alinéa 5(2)b) de la Loi, qui prévoit que le travail exécuté par un actionnaire-travailleur, propriétaire de plus de 40 % des actions avec droit de vote, est automatiquement exclu des emplois assurables.
+[57] Le statut du actionnaire-travailleur détenant moins de 40 % des actions avec droit de vote est reconnu par la Loi. Conséquemment, lorsqu'une ou des comparaisons sont nécessaires dans le cadre d'un dossier où il existe un lien de dépendance, l'analyse et les comparaisons doivent se faire entre travailleurs ayant la ou les mêmes qualités et la qualité d'actionnaire ne peut être occultée de l'analyse.
+[58] Lorsqu'une personne investit dans un domaine dans lequel elle n'a pas ou elle a peu de connaissances et que ses co-actionnaires ont compétence et expertise, il est plus que normal de s'en remettre à eux pour la bonne gestion de l'entreprise.
+[59] Il devient alors fondamental pour cette personne de disposer de certains outils de contrôle ou d'intervention. En l'espèce, Denis Coiffier, outre les droits que lui conférait sa part de 40 % d'actions, a probablement été le promoteur de la convention des actionnaires qui lui fournissait un élément additionnel pour s'assurer de la bonne marche de l'entreprise et de la viabilité de son investissement.
+[60] L'argument voulant que les frères Gagnon aient acquis le contrôle de facto des actions détenues par l'investisseur passif qu'était Denis Coiffier est totalement non fondé. D'abord, rien dans la preuve ne permet d'en arriver à une telle conclusion; en deuxième lieu, la personne concernée n'a pas été entendue et, en troisième lieu, ce qui m'apparaît encore plus déterminant, comment pourrait-on concilier un tel argument avec les articles 5 et 6 de la convention des actionnaires?
+[61] L'agente des appels, Jacynthe Bélanger, a tenu compte de tous les faits pertinents dans le cadre de son analyse. Elle a retenue la comparaison soumise par l'appelante comme étant pertinente. Cependant, elle a conclu que la comparaison n'appuyait pas les prétentions de l'appelante et des intervenants.
+[62] Même si elle n'a pas communiqué avec l'actionnaire Denis Coiffier, et même si elle a tenu pour acquis que le travail de Roger Gagnon pouvait être comparé au travail de Pierre Deschênes, cela n'à pas eu pour effet de rendre la conclusion déraisonnable. Au contraire, la conclusion retenue est toujours raisonnable.
+[63] Pour toutes ces raisons, je rejette l'appel et confirme le bien-fondé de la décision du ministre.
+Signé à Ottawa, Canada, ce 6e jour de septembre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI474
+NO DU DOSSIER DE LA COUR : 2004-3731(EI)
+INTITULÉ DE LA CAUSE : 9022-0377 Québec inc., (Évasion sports D.R.) c. M.R.N. et Roger Gagnon et Denis Gagnon
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 6 juillet 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 6 septembre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Représentant des intervenants :
+Me Martin Gentile
+Alain Savoie
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

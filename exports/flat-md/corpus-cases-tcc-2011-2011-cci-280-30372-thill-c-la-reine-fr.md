@@ -1,0 +1,218 @@
+---
+title: "Thill c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30372/index.do"
+last_modified: "2011-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 280"
+citation2: ""
+neutral_citation: "2011 CCI 280"
+decision_date: "2011-05-30"
+language: "fr"
+item_id: "30372"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7890
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:50:48.085000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ad28bb28d638e1b2635031e9a7d68e992bdf461bc99f3f08063292d68b48199"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thill c. La Reine
+
+- Citation: 2011 CCI 280
+- Decision date: 2011-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7890, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thill c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-30
+Référence neutre
+2011 CCI 280
+Numéro de dossier
+2008-1482(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1482(IT)G
+ENTRE :
+BERNICE THILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 juin 2010 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Patrick William Watson
+Avocate de l’intimée :
+Me Elizabeth (Lisa) McDonald
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 de l’appelante est rejeté.
+Les dépens sont adjugés à l’intimée.
+Signé à Saskatoon (Saskatchewan), ce 30e jour de mai 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+François Brunet, réviseur
+Référence : 2011 CCI 280
+Date : 20110530
+Dossier : 2008-1482(IT)G
+ENTRE :
+BERNICE THILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelante, Bernice Thill, conteste les avis de nouvelle cotisation relativement à ses années d’imposition 2005 et 2006. La Cour est appelée à rechercher si l’appelante a omis de déclarer des revenus de 353 000 $ et de 164 551 $ pour les années d’imposition 2005 et 2006 (le « revenu non déclaré ») et si le ministre a imposé à juste titre des pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard du revenu non déclaré.
+[2] Les parties ont déposé un exposé conjoint des faits (partiel) (l’« ECF »), qui est joint à la présente à l’annexe A. En outre, j’ai entendu deux témoins, à savoir l’appelante et Mme Shellen Leung, une vérificatrice de l’Agence du revenu du Canada (l’« ARC »).
+[3] Je conclus que le témoignage de l’appelante était vague et contradictoire, et contredit par la preuve documentaire objective dont je suis saisi. En bref, je conclus que l’appelante n’était pas un témoin crédible.
+[4] Je conclus que Mme Leung était un témoin crédible.
+Résumé des faits pertinents
+[5] L’appelante était mariée à M. Henry Thill. M. Thill est décédé le 10 juin 2006. Le revenu non déclaré se rapporte à des montants déposés dans les comptes bancaires de l’appelante par deux sociétés qui avaient été constituées par M. Thill, à savoir Prime Packaging Ltd. (« Prime ») et Quadrant Management Systems Ltd. (« Quadrant »).
+[6] Selon l’appelante, son mari se livrait à la promotion d’abris fiscaux ou de stratagèmes fiscaux[1]. Un des ces abris fiscaux semble avoir mis en cause Prime, Quadrant, la Canadian Literacy Enhancement Society (« CLES »), un organisme de bienfaisance canadien, et Reading Enhancement and Development (« READ »), un organisme de bienfaisance américain. Il ressort clairement des éléments de preuve dont je suis saisi que CLES et READ ont versé des sommes d’argent importantes à Prime et à Quadrant.
+[7] L’appelante était administratrice de CLES. Elle a signé des chèques qui ont servi à des transferts de fonds de CLES et de READ à Prime et à Quadrant.
+[8] L’appelante a déclaré qu’elle est agente immobilière depuis 1990. Toutefois, il semble qu’elle n’ait tiré aucun revenu de l’immobilier en 2005 et en 2006.
+[9] Dans sa déclaration de revenus pour 2005, l’appelante a déclaré une seule source de revenus, à savoir un revenu d’entreprise de 120 000 $ composé de « ventes nettes, commissions ou frais » tiré de Prime. Aucune dépense n’a été déduite du revenu brut de 120 000 $.
+[10] Dans sa déclaration de revenus pour 2006, l’appelante a également inclus une seule source de revenus, à savoir un revenu d’entreprise de 12 743 $. Ce revenu d’entreprise était composé de 8 243 $ de ventes nettes, commissions ou frais tirés de Quadrant et de 4 500 $ de ventes nettes, commissions ou frais tirés de TCOB Management[2]. Aucune dépense n’a été déduite du revenu brut de 12 743 $.
+[11] Lorsqu’on lui a pour la première fois posé des questions au sujet de ses déclarations de revenus pour 2005 et 2006, l’appelante a déclaré qu’elle ne se rappelait pas avoir examiné les déclarations avant de les envoyer à l’ARC. Toutefois, lorsque l’avocate de l’intimée a attiré l’attention de l’appelante sur la signature qu’elle avait apposée sur sa déclaration de revenus pour 2005, l’appelante s’est rappelée qu’elle avait en effet examiné la déclaration de revenus.
+[12] L’appelante a déclaré qu’elle ne connaissait pas la « provenance » des renseignements contenus dans la déclaration de revenus. Son comptable lui avait simplement remis une copie des déclarations. Les déclarations ont été produites et elle a émis un chèque en paiement de l’impôt dû.
+[13] Elle a apparemment accepté le fait que le revenu d’entreprise de 120 000 $ tiré de Prime avait été correctement inclus dans sa déclaration de revenus pour 2005. Elle a qualifié cette somme de fonds que son mari avait déposés dans le compte bancaire de l’appelante au titre de frais de gestion[3].
+[14] Les déclarations de revenus de l’appelante pour 2005 et 2006 ont été produites après le décès de son mari.
+[15] Comme je l’ai mentionné précédemment, en l’espèce, il faut rechercher si certains montants déposés dans le compte bancaire de l’appelante constituent un revenu pour l’appelante. Un des comptes bancaires était détenu à la Prospera Credit Union (le « compte Prospera ») et l’autre compte était détenu à la Banque Royale du Canada (le « compte RBC »). L’appelante était l’unique signataire des deux comptes, le compte Prospera et le compte RBC. L’appelante a signalé que son mari n’avait pas détenu de compte bancaire pendant une [traduction] « longue, longue période » parce qu’il [traduction] « devait beaucoup d’argent à Revenu Canada, et il était conscient du fait que s’il détenait un compte bancaire personnel, Revenu Canada lui prendrait l’argent[4]. »
+[16] L’appelante a reconnu que Prime et Quadrant avaient déposé 548 157 $ dans son compte bancaire en 2005 et en 2006[5] (les « dépôts »). En outre, elle a admis que, en 2006, Prime avait émis à l’ordre de Chrisdale Homes Ltd. des chèques d’un montant total de 97 637,39 $ relativement à des travaux de rénovation effectués sur la maison de l’appelante[6]. Ce sont ces montants (moins les montants inclus dans les déclarations de revenus de l’appelante pour 2005 et 2006) qui constituent le revenu non déclaré.
+[17] L’appelante a déclaré qu’elle n’avait rien fait pour que ces paiements soient effectués. C’est son défunt mari qui avait déposé les montants dans le compte bancaire de l’appelante. Elle a affirmé que, bien que son mari ne fût pas signataire du compte, il effectuait des dépôts dans le compte au moyen de transferts par téléphone.
+[18] Selon l’appelante, son mari avait déposé ces montants pour lui permettre de payer les factures du ménage. Elle a également souligné que son mari déterminait les montants à payer à partir des comptes bancaires.
+[19] L’appelante a déclaré qu’elle ne travaillait ni pour Prime ni pour Quadrant, et qu’elle n’était administratrice d’aucune de ces deux sociétés.
+[20] L’appelante a souligné que son mari avait fait d’elle un signataire autorisé pour les comptes bancaires de Quadrant après qu’il fut tombé malade.
+[21] Je ne retiens pas le témoignage de l’appelante. Après examen de tous les éléments de preuve dont je suis saisi, je conclus que l’appelante prenait bel et bien part aux activités de Prime et de Quadrant et que les montants déposés dans son compte constituaient un revenu qu’elle avait tiré de ces sociétés.
+[22] L’appelante était dirigeante de Quadrant et avait un pouvoir de signature pour le compte bancaire de Quadrant. Elle était aussi administratrice de CLES, l’organisme de bienfaisance qui avait versé des montants importants à Prime et à Quadrant. En outre, elle était exécutrice testamentaire de la succession de son mari. Ses déclarations selon lesquelles elle n’était pas au courant des activités commerciales de Prime et de Quadrant ne sont tout simplement pas crédibles.
+[23] Dans ses déclarations de revenus pour 2005 et 2006, l’appelante a inclus un revenu d’entreprise de près de 130 000 $ tiré de Prime et de Quadrant. Le fait d’avoir déclaré un tel revenu contredit manifestement le témoignage de vive voix de l’appelante selon lequel elle ne participait pas aux activités de Prime et de Quadrant.
+[24] En outre, une partie importante des dépôts a été faite après le décès du mari de l’appelante et à un moment où l’appelante avait un pouvoir de signature pour le compte bancaire de Quadrant. Manifestement, ces montants n’ont pas été déposés à la demande du mari de l’appelante. Prime a également versé des sommes à l’appelante après le décès de son mari. L’appelante a déclaré qu’elle n’était pas certaine de la manière dont cela était arrivé. Elle n’avait pas de pouvoir de signature pour le compte bancaire de Prime. Elle pensait que peut‑être son mari lui avait laissé [traduction] « quelques » chèques en blanc. Voilà un autre exemple de déclaration non crédible de l’appelante.
+[25] À l’automne 2005, l’appelante a demandé un crédit hypothécaire à la Prospera Credit Union (« Prospera »). L’hypothèque était de 305 000 $ et était garantie par la maison dont l’appelante était propriétaire, qui est située à Richmond, en Colombie‑Britannique.
+[26] La responsable des prêts à Prospera a fait les observations suivantes dans une note de service qui résumait l’entretien qu’elle avait eu avec l’appelante et son mari :
+[traduction]
+[...] Capacité : ABD_ATD 33 % fondé sur le revenu [de l’appelante] uniquement de 120 k$ confirmé par la cotisation d’impôt pour 2004 (exception). Le revenu provient de la Prime Packaging, société dont ils sont copropriétaires, compte no 1816560. Les membres ne nous ont pas fourni les états financiers, étant donné qu’ils disent que ces états financiers sont entreposés et qu’ils ne font pas état d’un profit pour des raisons fiscales. Les mouvements du compte montrent des dépôts annuels de 4,24 M. […][7]
+[Non souligné dans l’original.]
+[27] L’appelante soutient que les renseignements mentionnés ci‑dessus sont inexacts; elle n’était pas propriétaire d’une partie de la société. Elle a déclaré que c’est son mari qui avait fourni ces renseignements. Elle ne savait pas que Prime recevait des dépôts annuels de 4,2 millions. Elle signait simplement les documents. L’appelante est une femme d’affaires avisée, une agente immobilière et l’administratrice d’un organisme de bienfaisance (CLES) qui, manifestement, récoltait des fonds substantiels. Je ne puis retenir l’idée qu’une telle personne signerait un document pour solliciter un crédit hypothécaire sans discuter de la question avec le responsable du prêt.
+[28] Les paragraphes qui précèdent contiennent des exemples de déclarations de l’appelante relativement à tout élément de preuve écrite contradictoire présenté à la Cour. Ou bien elle n’avait aucune idée de ce sur quoi portaient les documents ou bien les documents avaient été préparés par son défunt mari et n’étaient pas exacts. Je ne puis retenir aucune de ces explications.
+[29] En résumé, je conclus que les montants que Prime et Quadrant ont déposés dans le compte bancaire de l’appelante constituaient un revenu pour cette dernière.
+[30] Je tire cette conclusion après avoir pu constater que les montants en cause n’étaient pas inclus dans la déclaration du défunt mari de l’appelante. L’appelante, en sa qualité d’exécutrice testamentaire de la succession de son défunt mari, a produit les déclarations de revenus de ce dernier pour les années d’imposition 2005 et 2006. Les montants en cause n’étaient pas inclus dans ces déclarations.
+Faute lourde
+[31] Selon le paragraphe 163(2) de la Loi, est imposée une pénalité à
+[t]oute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce [...]
+Selon le paragraphe 163(3) de la Loi, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[32] Comme le juge Strayer l’a déclaré dans la décision Venne c. the Queen, 84 DTC 6247 (C.F. 1re inst.), [1984] C.T.C. 223 :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[33] Compte tenu des éléments de preuve dont je suis saisi, il est évident que l’appelante a délibérément omis de déclarer le revenu en cause ou a fait preuve d’une totale indifférence quant à la question de savoir si le revenu devrait être déclaré. Elle a donc, sciemment ou dans des circonstances équivalant à faute lourde, fait une fausse déclaration ou une omission dans ses déclarations de revenus pour les années d’imposition 2005 et 2006 ou y a acquiescé.
+[34] Pour les motifs exposés ci‑dessus, l’appel est rejeté, les dépens étant adjugés à l’intimée.
+Signé à Saskatoon (Saskatchewan), ce 30e jour de mai 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+François Brunet, réviseur
+[traduction]
+ANNEXE A
+2008-1482(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+BERNICE THILL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+Les parties admettent les faits suivants uniquement aux fins des présents appels et de tout autre appel les concernant. Elles conviennent également de l’authenticité des documents mentionnés à l’annexe « A » ci-jointe et consentent à leur admission en preuve uniquement aux fins des présents appels et de tout autre appel les concernant. Les parties peuvent toutes les deux produire d’autres éléments de preuve qui concernent les présents appels et qui ne sont pas incompatibles avec les faits énoncés dans le présent exposé et dans les documents qui y sont joints.
+1. L’appelante était mariée à Henry Nicholas Thill (l’« époux »).
+2. Pendant toute la période pertinente, l’appelante était courtier en immeuble autorisé.
+3. L’époux est décédé le 10 juin 2006.
+4. Pendant toute la période pertinente, l’appelante était propriétaire d’une maison, où elle habitait avec son époux, située au 7720, rue Alouette, à Richmond, en Colombie‑Britannique.
+5. Pendant toute la période pertinente, l’appelante détenait un compte bancaire à la Prospera Credit Union se terminant par les chiffres 629 (le « compte Prospera »).
+6. L’appelante était l’unique signataire du compte Prospera.
+7. pendant toute la période pertinente, l’appelante détenait un compte bancaire à la RBC se terminant par les chiffres 6074 (le « compte RBC »).
+8. L’appelante était l’unique signataire du compte RBC.
+9. L’appelante était administratrice de la Canadian Literacy Enhancement Society, un organisme de bienfaisance canadien enregistré.
+10. Pendant toute la période pertinente, Prime Packaging Ltd. (« Prime ») détenait un compte bancaire à la Prospera Credit Union se terminant par les chiffres 560 (le « compte Prime »).
+11. pendant toute la période pertinente, Quadrant Management Systems Ltd. (« Quadrant ») détenait un compte bancaire à la Prospera Credit Union se terminant par les chiffres 144 (le « compte Quadrant »).
+12. L’appelante et l’époux étaient tous les deux signataires autorisés du compte Quadrant.
+13. L’époux était le signataire autorisé du compte Prime.
+14. En 2005 et en 2006, des sommes d’argent ont été déposées dans le compte Prospera et dans le compte RBC de l’appelante en provenance de Quadrant et de Prime comme cela est décrit dans le document numéro 2 de l’intimée.
+15. En 2006, des chèques d’un montant total de 97 637,39 $ ont été émis par Prime à l’ordre de Chrisdale Homes Ltd. relativement à des travaux de rénovation effectués sur la maison de l’appelante.
+16. L’appelante a produit les déclarations T1 pour les années d’imposition 2005 et 2006.
+17. Les déclarations T1 de l’appelante pour les années d’imposition 2005 et 2006 ont été remplies par un comptable.
+18. L’appelante a signé sa déclaration T1 pour l’année d’imposition 2005.
+FAIT ce 17e jour de juin 2010.
+­­­–––­­­­­­––––––––––––––––––––––––– –––––––––––
+Patrick W. Watson Elizabeth (Lisa) McDonald
+Avocat de l’appelante Ministère de la Justice
+Avocat Avocate de l’intimée
+6800, Chemin Francis Bureau régional de Vancouver
+Richmond (Colombie‑Britannique) V7C 1K5 840, rue Howe, bureau 900
+Vancouver (C.‑B.) V6Z 2S9
+À : Le greffier
+Cour canadienne de l’impôt
+200, rue Kent
+Ottawa (Ontario) K1A 0M1
+RÉFÉRENCE : 2011 CCI 280
+No DU DOSSIER DE LA COUR : 2008-1482(IT)G
+INTITULÉ : BERNICE THILL
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 14 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 30 mai 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Patrick William Watson
+Avocate de l’intimée :
+Me Elizabeth (Lisa) McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Patrick William Watson
+Cabinet : Patrick W. Watson
+Richmond (Colombie-Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, à la page 53.
+[2] TCOB Management était une société constituée par M. Ed Cop, un associé de longue date du défunt mari de l’appelante. TCOB a pris le contrôle des activités de Quadrant.
+[3] Transcription, à la page 78.
+[4] Extraits de l’interrogatoire préalable de l’intimée, questions 294 et 298.
+[5] Exposé conjoint des faits (partiel), au paragraphe 14.
+[6] Ibid., au paragraphe 15.
+[7] Recueil de documents de l’intimée, onglet 12.

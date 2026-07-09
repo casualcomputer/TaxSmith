@@ -1,0 +1,170 @@
+---
+title: "Mathieu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26636/index.do"
+last_modified: "2004-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 135"
+citation2: ""
+neutral_citation: "2004 TCC 135"
+decision_date: "2004-06-28"
+language: "en"
+item_id: "26636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3644
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:17:47.908000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "042f2c54f4103a4e3414a8b18df66b72f7e4d1e711d865388c92965ed2d43555"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mathieu c. La Reine
+
+- Citation: 2004 TCC 135
+- Decision date: 2004-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3644, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathieu c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-28
+Neutral citation
+2004 TCC 135
+File numbers
+2003-2668(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2668(IT)I
+BETWEEN:
+MARYSE MATHIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 7, 2004, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+François Gérin
+Counsel for the Respondent:
+Yannick Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated December 18, 2002, and numbered 23387, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of June 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of September 2004.
+Sophie Debbané, Revisor
+Citation: 2004TCC135
+Date: 20040628
+Docket: 2003-2668(IT)I
+BETWEEN:
+MARYSE MATHIEU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue (the "Minister") under section 160 of the Income Tax Act (the "Act") regarding Maryse Mathieu in which she was required to pay the amount of $12,880.
+[2] Marc Ouellette and Maryse Mathieu were married under the regime of partnership of acquests on August 19, 1994. However, they had been cohabitating since July 1990. During the 2000 and 2001 taxation years (the "period covered"), they were still married and had three children.
+[3] On May 28, 1993, Ms. Mathieu purchased a cottage for $74,000. In order to make the purchase, she had to borrow $45,000. To guarantee repayment of the loan, she agreed to mortgage the cottage. In 1994, the mortgage loan was $75,000. The additional proceeds from the loan had been used to renovate the cottage. During the period covered, the cottage was used as a secondary residence by the Mathieu family.
+[4] During the period covered, Ms. Mathieu was working part-time and took care of the children. Her net annual income was approximately $20,000.
+[5] Family expenses during this perio.d were in the order of $4,830 per month as appears in a letter dated August 22, 2002 (Exhibit A-3), that Ms. Mathieu had sent to the tax services office in Sherbrooke, Quebec.
+[6] Mr. Ouellette's contribution to the family's expenses was $39,686.47 in 2000 and $40,141.77 in 2001. His contribution was specifically as follows:
+(i) every month he wrote a cheque for $560 payable to his spouse, who deposited it in a bank account that was used to pay the mortgage on the cottage. During the period covered, Mr. Ouellette thus transferred a total of $12,880 to Ms. Mathieu, which is the sum at issue in the case at bar;
+(ii) in addition, every month he deposited $1,800 in a bank account that he held jointly with Ms. Mathieu. Ms. Mathieu took care of paying the family's basic expenses from that account.
+[7] The sums Mr. Ouellette owed the Minister for the 2000 and 2001 taxation years were:
+2000
+2001
+TOTAL
+Tax
+$7,233.44
+$15,098.01
+$22,331.45
+Interest
+$799.35
+$567.62
+$1,366.97
+Total
+$8,032.79
+$15,665.63
+$23,698.42
+[8] In addition, Mr. Ouellette owed the Minister $54,795.96 as a result of an assessment issued April 26, 2002, under section 160 of the Act regarding dividends received from the company "Expertises en Sinistre Ouellette & Ass. Inc." during the 2000 and 2001 taxation years.
+[9] The matter at issue is to determine whether Ms. Mathieu is required to pay the sum of $12,880 under section 160 of the Act.
+Analysis
+[10] The relevant provision for the purposes of the case is subsection 160(1) of the Act which reads:
+160(1) Tax liability re property transferred not at arm's length - Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or a person who has since become the person's
+spouse,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act. [Emphasis added]
+[11] Counsel for Ms. Mathieu challenged the assessment by relying on the decision rendered by my colleague McArthur, J. in Ferracuti v. Canada, [1998] T.C.J. No. 883, and on the decisions rendered by Lamarre Proulx, J. of this Court in Michaud v. The Queen, [1998] T.C.J. No. 908 and in Dupuis v. M.N.R., 93 DTC 723. These three cases basically established the principle that the performance of a legal obligation does not constitute a transfer under section 160 of the Act. Relying on these three judgments, he argued, as it were, that the monthly payments of $560 made by Mr. Ouellette to his spouse did not constitute transfers under section 160 of the Act because, by making those payments, Mr. Ouellette was discharging his obligation under articles 392 and 396 of the Civil Code of Quebec (Civil Code) to provide for his family's needs.
+[12] In my opinion, the interpretation given to section 160 in Ferracuti, Michaud and Dupuis, supra, is not consistent with the spirit and the letter of that section.
+[13] In fact, two conditions must be met in order for section 160 to apply. There must be:
+(i) a transfer by an individual (the transferor) of goods after May 1, 1951, and
+(ii) this transfer must have been made for the benefit of one (transferee) of the following three individuals:
+(a) the spouse or an individual who has since become the person's spouse;
+(b) a person who was under 18 years of age;
+(c) a person with whom the transferor was not dealing at arm's length.
+[14] When these two conditions are met, the two following rules apply. First of all, the rule stated at paragraph 160(1)(d) of the Act applies. According to this rule, the transferee and the transferor are jointly and severally liable to pay a part of the transferor's tax on the income from the property transferred to the transferee or the capital gain resulting from the disposition of that property when that income or that capital gain are subject to the attribution rules provided for in sections 74.1 to 75.1 of the Act and in section 74 of the Income Tax Act, chapter 148, Revised Statutes of Canada1952 (Act of 1952)[1]. It must be emphasized that, in this case, it is not a matter of determining whether there is an amount that exceeds the fair market value (FMV) of the property transferred over the FMV of the consideration. The joint liability applies from the time there is tax attributable to income or capital gain that is subject to attribution rules.
+[15] According to the second rule, the rule at paragraph 160(1)(e), the transferee and the transferor are jointly and severally liable with respect to all amounts the transferor must pay under the Act for the taxation year in which the property was transferred. However, the transferee's liability is limited to the amount, if any, that exceeds the FMV of the property at the time it was transferred over the FMV at that time of the consideration given for the property.
+[16] Therefore, subsection 160(1) of the Act can be applicable whether or not the transfer is with sufficient consideration. Moreover, it is obvious that subsection 160(1) of the Act applies whether there was a sale or gift of property. For the purposes of calculating the transferee's liability, the fair market value of the consideration given, if there is a consideration, is taken into account for the property transferred by the transferor. This calculation mechanism applies only for the purposes of the rule at paragraph 160(1)(e) of the Act. It is thus incorrect to state: "For there to be a transfer within the meaning of section 160 of the Act, there must be a transfer without valuable consideration."[2]
+[17] Let us apply subsection 160(1) of the Act to the facts of this appeal. In fact, paragraph 160(1)(e) is the relevant provision here. With regard to the two conditions necessary for this paragraph to apply, there is no doubt that the second condition is met here: the transfer, if there was a transfer, was made in favour of the Appellant after May 1, 1951, and the Appellant was Mr. Ouellette's spouse at the time of the transfer. It now remains to be determined whether the first condition is fulfilled, that is, whether there has been a transfer. I am of the opinion that monthly payments of $560 made by Mr. Ouellette to his spouse were transfers for the purpose of subsection 160(1) of the Act. In fact, there was a transfer since Mr. Ouellette then gave up his ownership right over those amounts and these were allotted to Ms. Mathieu. I am of the opinion that even if Mr. Ouellette had paid those amounts directly to the mortgagee, there would still have been an indirect transfer under subsection 160(1) of the Act. Thus both conditions necessary for section 160 of the Act to apply have been met.
+[18] Since in the case at bar there was a transfer to the spouse, the only other issues that must be raised are whether a consideration was given and, if applicable, what was its fair market value. Can it be argued that the Appellant's right, as transferee of the husband's domestic obligation (to contribute to the needs of the marriage), to receive money for payment of the mortgage debt on her cottage constitutes the consideration given to the husband? In my opinion, the contribution to the expenses of the marriage is in the nature of a donation by which a property is given without any consideration. In other words, domestic obligations cannot be consideration within the meaning of section 160. This analysis of the domestic obligation concurs with that made by my colleagues Mogan, J. in Raphael v. Canada, [2000] T.C.J. No. 688; Bowie, J. in Logiudice v. Canada, [1997] T.C.J. No. 742; and Sobier, J. in Sinnott v. Canada, [1996] T.C.J. No. 424 (Q.L.) (97 DTC 596). Finally, this analysis seems consistent with that of Archambault, J. in Suzanne Tétrault v. Her Majesty the Queen, [2004] T.C.J. No. 265 (2002-4333(IT)I). His analysis of articles 392 and 393 of the Civil Code is worth quoting since, in my opinion, it is the most correct and most developed:
+[45] It should be noted, first of all, that these provisions do not create any obligation for a spouse to transfer to the estate of the other spouse a particular asset, be it a residence, a car or a fur coat. Even if only one of the spouses had the financial resources to purchase this residence, this car or this coat, that spouse would be under no obligation to give this property to the other spouse, unless he had undertaken to do so under a marriage contract. Thus one spouse could discharge his obligation to provide a roof, a means of transportation and even clothing to the other spouse by supplying her only with the enjoyment or use [See Note 24 below][[3]] of such properties, while retaining for himself the ownership of these properties [See Note 25 below][[4]]. Moreover, it is necessary to consider the fact that this obligation to contribute to the expenses of the marriage applies to both spouses according to "their respective means". And the extent of the obligation may vary from year to year according to the ability of each of the spouses to contribute towards the expenses in question.
+[46] An analysis of the relevant provisions of the Civil Code does not disclose any obligation on the part of the other spouse to provide consideration in exchange for this domestic obligation; in other words, in our example, the wife is not required to give some thing or to render some services to her husband in order to benefit from the husband's domestic obligation. As we saw earlier, the domestic obligation is binding on both spouses, and in this regard, the Civil Code "[TRANSLATION] in so many words enshrines, in its principles, the absolute legal equality of the spouses."[See Note 26 below][[5]] Moreover, "The spouses may make their respective contributions by their activities within the home." However, this domestic obligation may be asymmetrical. Since the extent of the domestic obligation is "in proportion to their respective means", a woman who earned an appreciably higher income than her husband's would be required to contribute more than he to the expenses of the marriage. On the other hand, a husband would be required to discharge his domestic obligation even if his wife were in a coma and contributing nothing to the expenses of the marriage. The domestic obligation of each of the spouses is therefore unilateral and the obligation of the one depends neither on the value of the contribution of the other nor on the latter's capacity to fulfill his or her obligation: the obligation of the one is not correlative to the obligation of the other. A domestic obligation exists by virtue of the law - the Civil Code - and it is in no way dependent on the existence of consideration, although the spouses "owe each other... succour and assistance."
+[47] The contribution to the expenses of the marriage is, in my opinion, in the nature of a donation by which a property is given without any consideration.[See Note 27 below][[6]] This analysis of the domestic obligation concurs with that made by Judge Mogan in the Raphael decision, where he says "[t]hose same domestic obligations, however, cannot be 'consideration' within the meaning of section 160 ..." (paragraph 27 of the decision). It also concurs with that in Logiudice, where it is explained that "The word consideration, as it is used in the context of section 160 of the Act, in its ordinary sense refers to the consideration given by one party to a contract to the other party, in return for the property transferred" and that "The limiting provision in subparagraph 160(1)(e)(i) of the Act is to protect genuine business transactions from the operation of the section" (paragraph 16 of the decision). It is also consistent with the analysis made by Judge Sobier in Sinnott v. The Queen, supra, at paragraph 19 (Q.L.), page 598 DTC:
+The Appellant's counsel put a good deal of emphasis on the argument that consideration was given for the transfer. But what was that consideration? Can it be said that the paying of household expenses is consideration for the transfers? Subparagraph 160(1)(e)(i) states that the joint liability of the transferor and transferee is an amount equal to the lesser of the amount by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property. At the time the transfers were made, no consideration was given.
+[Emphasis added.]
+[48] The absence of any consideration given in return for the performance of the domestic obligation readily explains why it [sic] highly problematic, if not impossible, to determine what the FMV would be of the transferee's right to receive the property transferred by the transferor pursuant to the latter's domestic obligation. Furthermore, as Judge Mogan said, even if a FMV could be determined, this right would not constitute "consideration given for the property". [See Note 28 below][[7]]
+[19] I therefore find that the monthly payment of $560 by Mr. Ouellette to his spouse constitutes a transfer under section 160 of the Act and that it is subject to that section. The mere right to be the beneficiary of an obligation does not necessarily constitute a consideration. In other words, in performing a domestic obligation, the transfer of property to the other spouse constitutes a transfer for which no consideration was given and nothing at section 160 authorizes this Court to exempt the transfer from its application.
+[20] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 28th day of June 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of September 2004.
+Sophie Debbané, Revisor
+[1] This is the Act of 1952 in its version amended by section 1 of chapter 63 of the Statutes of Canada 1970-71-72 and by all subsequent acts receiving Royal assent before December 1991. (Section 69 of the Income Tax Application Rules, R.S.C. 1985, c. 2 (5th suppl.))
+[2] See in particular paragraph 18 of Ferracuti and paragraph 19 of Michaud, supra.
+[3] Note 24: There is no question here of dismemberments of the right of ownership, such as usufruct (articles 1120 et seq. of the Civil Code) or the right of use (articles 1172 et seq. of the Civil Code).
+[4] Note 25: Of course, there is nothing to prevent the husband from giving his wife the money or property in question. Many husbands do so.
+[5] Note 26: Michel Tétrault, Droit de la famille, 2nd ed. (Éditions Yvon Blais), at page 66.
+[6] Note 27: Strictly speaking, it can be argued that the liberality that is necessary for the existence of a donation is missing here. However, most people who live together would contribute quite voluntarily to the expenses of the marriage, even in the absence of such a domestic obligation; it is generally during a separation or a divorce that the situation becomes conflictual and the existence of this obligation becomes significant.
+[7] Note 28: Paragraph 27 of Raphael and subparagraph 160(1)(e)(i) of the Act.

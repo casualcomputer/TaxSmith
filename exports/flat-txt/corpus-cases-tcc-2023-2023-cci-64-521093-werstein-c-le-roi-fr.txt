@@ -1,0 +1,147 @@
+Title: Werstein c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521093/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-64-521093-werstein-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-10
+
+# Werstein c. Le Roi
+
+- Citation: 2023 CCI 64
+- Decision date: 2023-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5880, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Werstein c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-10
+Référence neutre
+2023 CCI 64
+Numéro de dossier
+2013-1185(IT)G
+Juges et Officiers taxateurs
+Joanna Hill
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1185(IT)G
+ENTRE :
+ALLAN WERSTEIN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 novembre 2022 à Windsor (Ontario).
+Devant : L’honorable juge Joanna Hill
+Comparutions :
+Avocat de l’appelant :
+Me Roland P. Schwalm
+Avocat de l’intimé :
+Me Jason Stober
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de cotisation du 14 novembre 2011 pour l’année d’imposition 2009 est rejeté conformément aux motifs du jugement ci-joint et les dépens sont payables à l’intimé selon le tarif.
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« Joanna Hill »
+La juge Hill
+Référence : 2023 CCI 64
+Date : 20230510
+Dossier : 2013-1185(IT)G
+ENTRE :
+ALLAN WERSTEIN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Hill
+I. Introduction [1] Allan Werstein a interjeté appel de la décision du ministre du Revenu national de lui imposer une pénalité en raison des faux renseignements qu’il avait inclus dans sa déclaration de revenus de 2009. À l’instar de centaines de contribuables qui ont eu recours aux services des spécialistes en déclarations Fiscal Arbitrators, M. Werstein a demandé la déduction de pertes d’entreprise fictives afin d’obtenir le remboursement de l’impôt sur le revenu retenu à la source en 2009 et durant trois années d’imposition antérieures.
+[2] Même si M. Werstein a déposé le présent appel, il incombe à l’intimé d’établir que le ministre a imposé à juste titre la pénalité dans les circonstances de l’espèce.
+[3] Si j’applique l’analyse énoncée par notre Cour dans la décision Torres[1] pour les appels concernant les pénalités en lien avec Fiscal Arbitrators, j’estime que l’intimé s’est acquitté de ce fardeau. M. Werstein a fait preuve d’aveuglement volontaire à l’égard des faux énoncés contenus dans sa déclaration de revenus. Les facteurs déterminants en l’espèce sont le caractère flagrant des faux énoncés et l’importance de l’avantage résultant de la déclaration de revenus. M. Werstein a fait abstraction de ces signaux d’avertissement dans le but d’obtenir un remboursement d’impôt important.
+II. Analyse [4] M. Werstein ne nie pas que sa déclaration de revenus de 2009 contenait de faux énoncés. Ainsi, la seule question à trancher dans le présent appel est de savoir s’il a fait ces faux énoncés sciemment ou dans des circonstances équivalant à faute lourde, au sens du paragraphe 163(2) de la Loi de l’impôt sur le revenu[2].
+[5] Les avocats des parties ont, de façon utile, concentré l’essentiel de leurs arguments sur les facteurs qu’ils considéraient comme pertinents dans l’analyse énoncée dans Torres et l’abondante jurisprudence portant sur l’imposition d’une pénalité en lien avec Fiscal Arbitrators. J’ai adopté une approche semblable pour expliquer pourquoi l’appel de M. Werstein ne peut être accueilli.
+A. L’aveuglement volontaire selon l’analyse énoncée dans la décision Torres [6] On peut conclure à l’aveuglement volontaire d’un contribuable lorsqu’il a connaissance d’un faux énoncé. Le contribuable qui ferme les yeux sur l’inexactitude des renseignements fournis dans sa déclaration de revenus et qui ne veut pas connaître l’existence de cette inexactitude fait preuve d’ignorance volontaire[3]. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner dans des circonstances qui lui commandent de le faire.
+[7] Si M. Werstein a fait fi des signaux d’avertissement de l’analyse énoncée dans la décision Torres, la pénalité s’applique.
+[8] Le témoignage de M. Werstein à l’audience portait principalement sur les circonstances entourant la production de sa déclaration de revenus de 2009[4]. Même s’il a reconnu sa faute à cet égard, son témoignage n’était pas toujours crédible ou fiable. Il n’a pas été en mesure d’expliquer convenablement pourquoi il avait produit sa déclaration de revenus sans tenir compte des signaux d’avertissement que sont les énoncés manifestement faux et le remboursement d’impôt anormalement élevé.
+i) Le niveau d’instruction et d’expérience
+[9] Je reconnais que le diplôme de 12e année de M. Werstein, le certificat qu’il a obtenu du collège St. Clair en [traduction] « machines, outils et technologie » et son travail par quarts à la Ford Motor Company ne constituent pas un niveau d’instruction et d’expérience important dans le domaine des finances.
+[10] Toutefois, je rejette l’argument présenté par son avocat selon lequel c’est là que [traduction] « s’arrête la thèse du ministre ». Le niveau d’instruction et d’expérience de M. Werstein n’était pas limité à ce point qu’il ne pouvait voir les signaux d’avertissement importants. Ce facteur n’est pas déterminant et doit être examiné en fonction de l’ensemble de l’analyse énoncée dans la décision Torres[5].
+[11] M. Werstein était au service de la Ford Motor Company depuis 1983 et gagnait plus de 90 000 $ en 2009. Il était responsable des finances du ménage pour sa famille de quatre personnes, renouvelait son hypothèque à la Banque de Montréal tous les cinq ans et détenait des REÉR à la même banque.
+[12] Le programme de Fiscal Arbitrators n’était pas compliqué. Il n’était pas fondé sur une série complexe de transactions, d’obscures dispositions techniques de la Loi de l’impôt sur le revenu ou un nombre considérable d’états financiers et de dossiers. Il reposait sur un seul document, l’État des résultats des activités d’une entreprise ou d’une profession libérale, qui contient une quantité limitée de renseignements sur les activités d’entreprise présumées de M. Werstein.
+[13] M. Werstein n’avait pas besoin d’un haut niveau d’instruction ou d’une grande expérience pour reconnaître que demander la déduction de dépenses d’entreprise de 320 000 $ alors qu’il n’exploitait aucune entreprise constituait un énoncé manifestement faux.
+ii) Le caractère flagrant des faux énoncés
+[14] En l’espèce, on pouvait facilement détecter les faux énoncés.
+[15] M. Werstein a signé sa déclaration de revenus, de même que les formulaires État des résultats des activités d’une entreprise ou d’une profession libérale et Demande de report rétrospectif d’une perte qui y étaient joints, lesquels contenaient les faux énoncés significatifs et flagrants qui suivent :
+a)un revenu d’entreprise brut de 116 746,30 $ [traduction] « REÇU À TITRE DE MANDATAIRE »;
+b)des dépenses d’entreprise totales de 436 909,80 $ indiquées sous « Autres dépenses » et décrites comme [traduction] « MONTANT DU MANDATAIRE AU MANDANT »;
+c)une perte d’entreprise nette de 320 163,50 $;
+d)une perte de 221 225,96 $ inscrite comme revenu total.
+[16] M. Werstein a affirmé lors de son témoignage avoir vu [traduction] « quelques gros chiffres » quand il a reçu sa déclaration de revenus pour la signer. Il a demandé à son spécialiste en déclarations, Bruce Blair, ce qu’ils signifiaient et on lui a répondu : [traduction] « C’est nous les professionnels. Tout a été fait en bonne et due forme. Signez la déclaration et envoyez-la. » M. Werstein a donc signé sa déclaration de revenus.
+[17] M. Werstein n’a fourni aucun détail concernant les questions qu’il a posées à M. Blair. Selon son témoignage, il a présumé que les [traduction] « gros chiffres » concernaient un investissement dans un prétendu projet foncier à Whitby fait par l’intermédiaire des mêmes spécialistes. Toutefois, sa déclaration de revenus ne fait aucune mention de ce projet ni de tout type d’investissement foncier.
+[18] Même s’il n’a jamais été propriétaire d’entreprise, M. Werstein a signé la déclaration de revenus et le formulaire Demande de report rétrospectif d’une perte, qui déclarait d’importantes pertes d’entreprise, et a fait d’autres faux énoncés concernant son revenu.
+iii) L’importance de l’avantage
+[19] S’appuyant sur ces faux énoncés, M. Werstein a demandé un remboursement de 25 981,85 $, soit le remboursement intégral de l’impôt sur le revenu retenu à la source en 2009. M. Werstein savait que ce remboursement était plus élevé que ce qu’il recevait habituellement; ses remboursements des années précédentes, alors que H&R Block préparait ses déclarations de revenus, ne dépassaient jamais les quelques milliers de dollars.
+iv) Les explications inintelligibles du spécialiste
+[20] Avant de signer et de produire sa déclaration de revenus, M. Werstein a signé une série de documents le 23 novembre 2009 en présence des personnes qui ont préparé sa déclaration. L’un de ces documents, intitulé [traduction] « Demande et entente (autres renseignements sur la déclaration de revenus) », se rapportait expressément au programme de Fiscal Arbitrators. Aucun détail concernant le programme n’y figurait.
+[21] M. Werstein a affirmé n’avoir rien compris à la plupart des documents qu’il a signés et a indiqué en avoir discuté avec Bruce Blair. Toutefois, il n’a rien retenu de ces discussions et ne se souvient pas non plus s’il a compris les explications de Bruce Blair. M. Werstein a affirmé : [traduction] « Souvent, je repartais de là confus à cause, je ne dirais pas des propos ambigus, mais plutôt à cause de sa façon d’expliquer les choses. »
+[22] M. Werstein a indiqué qu’il avait supposé que les documents qu’il avait signés concernaient le projet foncier à Whitby. Toutefois, son témoignage sur ce point n’était pas fiable, parce que M. Werstein a été incapable de donner des détails ou de fournir des documents à l’appui concernant ce prétendu investissement.
+[23] Le témoignage de M. Werstein concernant les faux énoncés dans sa déclaration de revenus de 2009 n’était également pas fiable, en plus de manquer de crédibilité. Ses affirmations selon lesquelles il s’est fié à des professionnels ne suffisent pas dans les circonstances, surtout étant donné qu’il n’a fait aucun effort pour s’assurer qu’il faisait bel et bien affaire avec des spécialistes.
+[24] C’est un collègue de M. Werstein chez la Ford Motor Company qui lui a présenté Bruce Blair. Il n’a pas établi si Bruce Blair avait de l’expérience en matière d’investissement ou de préparation de déclarations de revenus. M. Werstein s’est fié à une recommandation faite verbalement et sur ce qui lui semblait être, de l’extérieur, une [traduction] « entreprise très professionnelle, en apparence très légitime » avec une secrétaire et [traduction] « des plaques et des certificats sur le mur ».
+v) Le contribuable connaissait déjà le spécialiste
+[25] En ce qui concerne ce facteur énoncé dans la décision Torres, pour étayer leur argument, les deux parties ont invoqué le fait que M. Werstein avait précédemment fait appel à Bruce Blair pour préparer sa déclaration de revenus de 2008.
+[26] En 2008, M. Werstein a demandé un crédit d’impôt lié à des reçus pour dons de bienfaisance de 35 000 $ émis aux termes d’un arrangement de don pour lequel il n’a eu à verser que 5 000 $ en espèces. Le ministre a refusé en totalité la déduction, mais a modifié en partie sa décision, un mois avant que M. Werstein ne produise sa déclaration de revenus de 2009.
+[27] L’avocat de M. Werstein a affirmé que M. Werstein s’était donc fié à bon droit à sa déclaration de revenus de 2009 préparée par Fiscal Arbitrators, sans poser de questions, comme il venait tout juste de recevoir un remboursement lié au programme de 2008 dont Bruce Blair faisait la promotion.
+[28] L’intimé a fait valoir que l’historique de cette déclaration de 2008 constituait un signal d’avertissement supplémentaire montrant que Bruce Blair adoptait des pratiques inappropriées. Le ministre est revenu sur sa décision concernant le crédit demandé en s’appuyant sur les observations présentées par Bruce Blair, selon lesquelles un reçu de 30 000 $ avait été délivré par un autre organisme de bienfaisance enregistré. Toutefois, M. Werstein a reconnu ne pas avoir obtenu de reçu de cet organisme[6].
+[29] Les arguments de l’une et l’autre des parties ne m’ont pas convaincue. La déclaration de revenus de 2008 n’a pas été préparée par Fiscal Arbitrators et comportait une déduction distincte étayée, du moins de manière superficielle, par deux reçus pour dons de bienfaisance s’élevant au total à 35 000 $.
+[30] En revanche, M. Werstein a déclaré une perte d’entreprise fictive de près de dix fois cette somme en 2009. Cette perte d’entreprise nette de 320 163,50 $ n’était pas corroborée par des documents. Rien ne justifiait que M. Werstein accepte simplement les [traduction] « gros chiffres » et signe la déclaration. Les circonstances entourant la déclaration de 2008 sont pertinentes et appuient l’imposition de la pénalité, mais pas de la manière proposée par l’intimé.
+vi) Le fait que le contribuable ne s’est pas enquis auprès d’un tiers
+[31] Les signaux d’alarme étaient suffisamment importants pour que le défaut de M. Werstein de se renseigner auprès d’un tiers constitue de l’aveuglement volontaire. Malgré les sommes importantes indiquées dans sa déclaration et sa grande confusion, M. Werstein n’a pas consulté les spécialistes en déclarations qui avaient précédemment préparé ses déclarations de revenus, H&R Block, l’Agence du revenu du Canada, ses amis ou sa famille.
+III. Conclusion [32] Pour favoriser l’honnêteté des contribuables dans le système fiscal d’autocotisation du Canada, le paragraphe 163(2) de la Loi autorise le ministre à imposer une pénalité au contribuable qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans une déclaration de revenus.
+[33] M. Werstein est passible de cette pénalité parce qu’il aurait dû être plus avisé. Il a choisi de faire fi des faux énoncés manifestes dans sa déclaration de revenus afin d’obtenir un remboursement substantiel de l’impôt sur le revenu retenu à la source.
+[34] Par conséquent, l’appel est rejeté avec dépens à l’intimé conformément au tarif.
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« Joanna Hill »
+La juge Hill
+Traduction certifiée conforme
+ce 2e jour de mai 2024.
+Nathalie Ayotte, jurilinguiste
+RÉFÉRENCE :
+2023 CCI 64
+No DU DOSSIER DE LA COUR :
+2013-1185(IT)G
+INTITULÉ :
+ALLAN WERSTEIN c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 novembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Joanna Hill
+DATE DU JUGEMENT :
+Le 10 mai 2023
+COMPARUTIONS :
+Avocat de l’appelant :
+Roland P. Schwalm
+Avocat de l’intimé :
+Jason Stober
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Roland P. Schwalm
+Cabinet :
+Roland P. Schwalm, avocat
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Torres c. La Reine, 2013 CCI 380 (conf. par Strachan c. Canada, 2015 CAF 60), par. 65.
+[2] Lors de l’audition de l’appel, l’avocat de M. Werstein a soulevé un argument supplémentaire, soit que le ministre a mal calculé la pénalité prévue au paragraphe 163(2) en utilisant les pertes fictives totales de 320 163,50 $ plutôt que la perte moins importante déclarée pour compenser son revenu en 2009. M. Werstein a concédé ce point à la lumière des arguments de l’intimé invoquant la jurisprudence qui établit que la pénalité inclut les pertes disponibles pour d’autres années d’imposition, malgré les conséquences financières plus importantes. (Voir, par exemple, Wardlaw c. La Reine, 2019 CCI 199, par. 11 à 14.)
+[3] Wynter c. Canada, 2017 CAF 195, par. 13 et 16.
+[4] L’intimé s’est appuyé sur le témoignage et la preuve d’une fonctionnaire de l’Agence du revenu du Canada, Janilee Sawatzky, qui a travaillé à la vérification ayant mené à l’imposition de la pénalité. Même si son témoignage était crédible et fiable, il n’était pas pertinent pour les besoins de l’analyse énoncée dans la décision Torres.
+[5] Voir Manhue c. La Reine, 2018 CCI 71, où notre Cour a conclu que le critère du niveau d’instruction et d’expérience n’est pas très élevé (par. 32) et a examiné d’autres affaires dans lesquelles ce critère a été appliqué (par. 33 à 37).
+[6] M. Werstein a obtenu deux reçus de Greater Works Ministries of Canada, mais Bruce Blair a présenté au ministre des observations au nom de M. Werstein, selon lesquelles le second reçu de 30 000 $ a été délivré par l’organisme Furry World’s Rescue Mission.

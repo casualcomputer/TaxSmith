@@ -1,0 +1,173 @@
+---
+title: "Turner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143278/index.do"
+last_modified: "2016-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 77"
+citation2: ""
+neutral_citation: "2016 TCC 77"
+decision_date: "2016-04-01"
+language: "en"
+item_id: "143278"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3110
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:55:32.212000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90d1089bb04a7f9ac4aae395429fcc46d0bbdb4ed4223858d6fb8476f87e339f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Turner v. The Queen
+
+- Citation: 2016 TCC 77
+- Decision date: 2016-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3110, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Turner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-01
+Neutral citation
+2016 TCC 77
+File numbers
+2015-541(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-541(IT)I
+BETWEEN:
+FRANK R.A. TURNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 1, 2015, at Toronto, Ontario.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aaron Tallon
+JUDGMENT
+For the attached reasons for judgment, the appeal from the reassessments made under the Income Tax Act for the 2012 and 2013 taxation years is dismissed.
+Signed at Toronto, Ontario, this 1st day of April 2016.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2016 TCC 77
+Date: 20160401
+Docket: 2015-541(IT)I
+BETWEEN:
+FRANK R.A. TURNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+Overview [1] The Appellant is appealing reassessments for the 2012 and 2013 taxation years. In the 2012 taxation year, the Appellant claimed $44,959.18 as business losses carried forward from prior years. In the 2013 taxation year, the Appellant claimed $47,274.58 as non-capital losses of other years carried forward. The Canada Revenue Agency (the “CRA”) disallowed these claimed business losses carried forward from prior years on the grounds that the Appellant was not operating a business and so he had no source of business income from which to deduct business expenses and incur business losses pursuant to sections 3 and 9 of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) (the “Act”). The CRA disallowed deductions for non-capital loses carried forward from prior years on the grounds that the Appellant did not incur non‑capital losses, as defined in subsection 111(8) of the Act in any taxation year subsequent to 1991.
+Factual Context [2] The Appellant is a professional electrical engineer. He obtained his engineering degree at the University of New Brunswick and he also obtained a master’s degree at Ohio State University. Prior to becoming an engineer, he had a career in the military for 20 years having attained the rank of major. He worked for Ontario Power Generation up to the time of his retirement. After his retirement, he did some consulting work on a self‑employed basis. He testified that he has been fully retired now for about five years.
+[3] The Appellant began investing in securities quite some time ago. Unfortunately, he is either a very bad or a very unlucky investor and he has lost a great deal of money over the years. He says that 2012 and 2013 were the worst years of his life. He indicates that he did not do any investing in those years and so he did not realize any capital gains for those two years. It is also clear that he did not conduct any business activities during those two years.
+[4] He testified that when he began to deal in securities, he needed investment capital and so he borrowed from the banks at the usual rates of interest. When his credit with the banks ran out, he began to borrow heavily against his credit cards, which command very high interest rates. He testified that he would get tips from different investment services and he would act on these tips. These tips all dealt with high risk investments and he lost money. Consequently, he decided to purchase long‑term investments. In 1991, he began to invest heavily in a company called Central Capital Corporation (“Central”). However, the share price of Central began to nosedive. As the share price went down, he kept buying up more shares hoping that the share price would turn around. However, the shares kept going down in value and he lost more and more money. He testified that the share price of Central dropped from $25 per share to around 5 cents a share. Central eventually went bankrupt. As a result, the Appellant lost everything.
+[5] The Appellant states that he invested somewhere in the neighbourhood of $260,000 in his ill‑fated investments. In the meantime, the interest on the money he borrowed in order to invest kept accumulating. He estimates his total losses amount to some $306,000. He testified that he has not traded in any securities since 2005 and so he has not incurred any capital losses or non-capital losses since 2005. He was just paying interest on the money that he borrowed to invest.
+[6] When the Appellant filed his 2012 tax return (Exhibit R-1), he claimed business losses of $44,959.18 (line 135). The Appellant included in his return a financial statement. At the top of this financial statement, the Appellant describes himself as a CRA recognized dealer in securities; however, there is no evidence that the CRA recognized him as such. This financial statement indicates that accrued interest characterized as “Accrued Annual Interest Carrying Charges (AAIC) on Debt Service for Investment Loans negotiated and expressively utilized solely for the ‘On Margin’ purchases of securities carried forward from previous trading years” amounted to $42,716.57 and current interest amounted to $2,242.61. The Appellant describes this total amount of $44,959.18 as “Retained Deficit Loss” as of December 31, 2012, reported as net business losses at line 135 of his return. He testified that these are business losses carried forward from prior years, specifically 2005. When the Appellant filed his 2013 tax return (Exhibit R-2), he reported the sum of $47,274.58 as non-capital losses of other years at line 252 of his return. The Appellant essentially characterized the claimed 2012 and 2013 losses as business losses incurred while operating the business of a dealer in securities. He states that these business losses were incurred in 2005 and they include carrying charges on borrowed money.
+[7] In 2005, he did not claim any gain or loss from the disposition of securities. In 2005, he reported total income of $44,890. This is from various pensions such as Old Age Security, Canada Pension Plan and other pension earnings. He reported negative business earnings of $30,545.73 in 2005. Together with his 2005 return, he filed a financial statement (Exhibit R-3) claiming a loss of $28,816.73 described as “Accrued Annual Interest Carrying Charges on Debt Service for Investment Loans negotiated and utilized solely for the ‘On Margin’ purchases of Securities, in particular 20,000 shares of Central Capital Class A, Dividend bearing, retractable Shares at an original cost of $150,130 paid to TD Waterhouse”. He also claimed interest of $1,729 resulting in a total aforementioned loss of $30,545.73. This was used to offset other sources of income that he had reported in 2005. He did not report any additional losses in 2005, and he did not report any losses from the disposition of securities in 2005. The only expenses reported were carrying charges that he wished to carry forward as business losses.
+[8] Exhibit R-8 is an affidavit sworn by Paul Culliton, a litigation officer in the Toronto Centre Tax Services Office of the CRA. This affidavit was admitted into evidence pursuant to section 244 of the Act. This affidavit indicates that in 2002 the Appellant reported net business losses of $42,944, which were offset against pension, dividend and interest income resulting in total income of $29,124. In 2003, the Appellant reported net business losses of $45,186, which were offset against pension and interest income resulting in total income of $26,694. In 2004, the Appellant reported net business losses of $43,137, which were offset against pension earnings resulting in total income of $30,621. In 2005, the Appellant reported net business losses of $30,545, which were offset against pension income resulting in total income of $44,890. In 2006, the Appellant reported net business losses of $30,640, which were offset against pension earnings resulting in total income of $46,735. In other words, from 2002 through to 2005, the Appellant claimed net business losses totalling more than $192,000. Mr. Culliton attests that he performed a search of the records of the CRA and he was unable to find that the Appellant requested that the Minister of National Revenue (the “Minister”) determine the amount of a loss in the 2002 through to 2006 taxation years pursuant to subsection 152(1.1) of the Act.
+[9] The Appellant cannot tell us when Central went bankrupt. He has no record of the date of bankruptcy other than to tell us it was prior to 1995. He believes that YMG Capital bought out Central some time in 1993 through to 1995, but he cannot dispute the Crown’s suggestion that the bankruptcy occurred in 1992. The Appellant has no proof of ownership of any successor shares. He states that the shares of Central simply expired shortly after the bankruptcy.
+[10] The Appellant is a poor record keeper. He does have some documents relating to the acquisition of Central shares but they are dated prior to 2000. He had no documentation indicating when there would have been any disposition of any securities owned by him. There are no ledgers, bank statements, trading vouchers or any documentation that one would expect a commercial enterprise to maintain. He has identified credit card statements (Exhibits R-4, R-5 and R-6) to show that he was heavily indebted to credit card companies but these statements are dated December 2001, June 2003 and October 2003. These credit card statements also include expenditures that are of a strictly personal nature, and one of them was in relation to his wife’s credit card account. It is clear, therefore, that the Appellant did not segregate his personal expenditures from his supposed business expenditures. None of these statements itemize any security purchases.
+[11] In 2012 and 2013, the Appellant did not trade in any securities at all and so he did not report any capital gains at all in those two years.
+Issues [12] It is the Appellant’s position that he was operating a business in 2005 and prior years, that of a dealer in securities. He incurred business losses and these business losses are available to be carried forward and can be offset against his income in his 2012 and 2013 taxation years.
+[13] It is the Respondent’s position that the Appellant was not operating a business as a dealer in securities and, therefore, there were no business losses incurred which were available to be carried forward and used to offset income in his 2012 and 2013 taxation years. It is the Respondent’s position that any losses in the nature of carrying charges incurred by the Appellant in 2005 were personal in nature and not business losses. As such, the Minister properly disallowed the claimed losses.
+[14] In addition, if the Appellant borrowed money to invest, then the carrying charges can only be characterized as forming part of the adjusted cost base of the securities. If the securities were disposed of at a loss, then the carrying charges are subsumed as part of the net capital losses related to the disposition of the securities. The Respondent submits that the Appellant did not incur any net capital losses that would still be available to be carried forward and, even if he did, then such net capital losses can only be carried forward and set off against capital gains. There were no capital gains in 2012 and 2013 and therefore the Minister was justified in disallowing the claimed losses in those taxation years.
+Analysis [15] In determining the Appellant’s tax liability for the 2012 and 2013 taxation years, the Minister assumed the following facts:
+a) the Appellant did not carry on a business in either the 2012 or 2013 taxation years;
+b) the Appellant did not incur a business loss in either the 2012 or 2013 taxation years;
+c) the Appellant last incurred a non-capital loss prior to March 23, 2004;
+d) the Appellant did not incur a non-capital loss in the 2004 or 2005 taxation year;
+e) the Appellant has no amount of unapplied non-capital losses available to carry forward to either the 2012 or 2013 taxation years;
+f) the Appellant has no amount of unapplied capital losses available to carry forward to either the 2012 or 2013 taxation years;
+. . .
+[16] In Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, the Supreme Court of Canada outlined the principles applicable when a person challenges the assumptions made by the Respondent. Justice L’Heureux‑Dubé said:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities . . . and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter . . . . The Minister, in making assessments, proceeds on assumptions . . . and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment . . . . The initial burden is only to “demolish” the exact assumptions made by the Minister but no more . . . .
+93 This initial onus of “demolishing” the Minister’s exact assumptions is met where the appellant makes out at least a prima facie case . . . . The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister’s assumptions . . . .
+94 Where the Minister’s assumptions have been “demolished” by the appellant, “the onus . . . shifts to the Minister to rebut the prima facie case” made out by the appellant and to prove the assumptions . . . .
+[17] To satisfy the obligation of demolishing the assumptions of the Respondent, the Appellant is required to call sufficient evidence, by way of sworn testimony or documentation, to establish a prima facie case. A prima facie case is one supported by evidence that raises such a degree of probability in its favour that, if believed by the Court, must be accepted.
+[18] Subsection 230(1) of the Act imposes on every person carrying on a business the duty to keep records and books of account containing such information as this will enable the taxes payable under the Act to be determined. This positive duty on the taxpayer is essential if the self‑reporting and self‑assessing aspects of the Canadian income tax system are to function properly. This was made clear by Justice C. Miller of the Court in the case of Quaidoo v. The Queen, 2003 TCC 677. In Quaidoo, as in the case at bar, the Minister denied the taxpayer’s claim for business losses for 1999 on the basis that the taxpayer was not in business at the time of the loss. The taxpayer had few records and only vague recollections of the goods acquired and the manner of business. In dismissing the taxpayer’s appeal, Justice C. Miller commented on the requirement set out in section 230 of the Act requiring taxpayers to keep records:
+18 Section 230 of the Act requires a taxpayer to keep books and records. How else in a self-assessment system is the government to assess properly and not arbitrarily? Mr. Quaidoo has the onus of proving the Minister’s assumptions and consequently his assessment is wrong. He is the only one in a position to do so. There may be exceptional situations where the only proof is verbal and a highly credible taxpayer may satisfy Canada Customs and Revenue Agency or this Court as to the proper expenditures. The Federal Court of Appeal put it this way in Njenga at paragraphs 3 and 4:
+The income tax system is based on self‑monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self-written receipts and assertion without proof are not sufficient.
+The problem of insufficient documentation is further compounded by the fact that the trial judge, who is the assessor of credibility, found the applicant to be lacking in this regard.
+19 While I accept Mr. Quaidoo’s position that he entered upon a commercial venture, his lack of record keeping, the oddity of invoices as receipts, his vagueness as to exactly what goods were acquired and how, his vagueness as to the nature of the business as a proprietorship or partnership, and if the latter with whom, leaves me unable to rely solely on his oral testimony as to his expenditures. If a taxpayer is going to incur significant expenses with a hope of earning a profit, he must be diligent in accounting for those expenditures. He cannot expect the government to guess. The system would fall apart.
+Was the Appellant Carrying on a Business? [19] It is the Appellant’s contention that he was carrying on the business of trading in securities and, therefore, any losses which he incurred including carrying charges were business losses that would be available to carry forward against future income.
+[20] What constitutes a business has been the subject of determination by the Supreme Court of Canada in the matter of Stewart v. Canada, 2002 SCC 46. Justices Iacobucci and Bastarache set out a two‑step test for determining whether or not a taxpayer has a source of income from a business or property. The Supreme Court stated:
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+[21] The Supreme Court went on to note:
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer’s training; (3) the taxpayer’s intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.’s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer’s activity which must be evaluated, not his or her business acumen.
+[22] In the case at bar, I have no doubt that the Appellant subjectively intended to make a profit — no one would invest the kind of money that the Appellant did with no intention of earning some return on investment. However, I come to the conclusion that the Appellant was not carrying on the business of a dealer in securities; I do so for the following reasons:
+(a) The Appellant’s profit and loss experience from 2002 through to 2006 is abysmal. He never showed a profit and he always experienced a loss. He himself stated that he made no money and kept losing to the point where his strategy was to continue buying more shares of Central even as the share prices were taking a nosedive.
+(b) The Appellant admits that he had no formal training in securities trading. He had no industry certifications and he has taken no business or financial planning courses. It is difficult to resist the conclusion that he was dabbling in the stock market as so many citizens do.
+(c) The Appellant’s business plan was to act on tips and wait to see if the securities he purchased went up. He finally settled on just one investment, Central. His strategy regarding that investment was to throw good money after bad — his stop‑loss strategy was to buy more shares as the price went down. This was a disastrous business plan and not at all businesslike.
+(d) The capability of the venture to earn a profit was tenuous. The Appellant was borrowing money on his credit cards in order to finance his investment. I can take judicial notice of the fact that the rate of interest on credit card accounts is very high — much higher than business loans negotiated with a bank. The Appellant could not have reasonably expected his investments to have a return on investment greater than the rate of interest he was paying on his credit cards. He claimed expenses significantly higher than any profit and it must be pointed out that his interest expenses alone were outrageous. Borrowing on credit cards is not good business. He would have had to have about 20% appreciation in value just to break even. He could not have had any reasonable expectation of profit.
+(e) The Appellant did not keep detailed records and books of account. His record keeping was essentially non‑existent. He did not segregate his business records from his personal records. He did not maintain a separate bank account for his so-called business. There is no evidence that he had any dedicated space in his home to be used as a home office. There is no evidence of any office expenses, trading software, market research, accounting software or business ledgers. There is no evidence of any trading activities or receipts for his expenses or business records. The only document he produced regarding business activity in 2005 was his very brief and self‑serving financial statement that is before the Court as Exhibit R‑3. There was virtually no documentation which one would expect to see in a commercially active business. This activity was not conducted in a businesslike or commercial manner.
+(f) The Appellant dealt only in one security, Central. If he were in the business of trading in securities, one would expect a much more diversified portfolio. He held on to the shares of Central when they were continually decreasing in value. If he was a trader, he would have sold the shares and cut his losses so that he could recoup whatever he could and invest in other securities. That is how a trader makes money or minimizes his losses. He buys and sells. When a taxpayer enters into an isolated transaction or only a few transactions, he is not a trader.
+(g) The Appellant failed to show that he made any trade at all from 2002 and following for profit or loss. He has not shown by any documentary evidence that there was any disposition of the shares he owned in Central from 2002 and following. There is an absence of evidence that Central declared or was forced into bankruptcy from 2002 and following or that YMG Capital took over the shares or the assets of Central at any time from 2002 and following.
+[23] The onus is on the Appellant to establish on the balance of probabilities that he was in the business of trading in securities. He has provided little to no evidence that he was conducting a business other than his self‑serving testimony that he believed he was. He did not bring any receipts, trading records, account records, ledgers, bank statements or any third party records capable of establishing that his activity had the requisite degree of commerciality. The Appellant failed to produce a single document to show that he either acquired or disposed of shares during the period of 2002 and following. There is no evidence that he still owned any shares of Central or that there was a disposition of those shares in that period by way of bankruptcy or otherwise. I come to the conclusion that the Appellant was not carrying on the business of a dealer in securities and therefore he had no business losses that could be carried forward.
+[24] Even though I have concluded that the Appellant was not carrying on a business, I have no difficulty in concluding that he still suffered losses in the form of carrying charges on money borrowed to purchase shares. These carrying charges can be considered as part of the cost of acquiring and disposing of the shares. They form part of the adjusted cost base of the shares and, if the shares are disposed of at a loss, then the carrying charges form part of the capital loss on the disposition of the shares. These capital losses are then available to be carried forward and used to offset capital gains in future years. There is no evidence that the Appellant incurred any net capital losses from 2002 and following and so he has no net capital losses to carry forward. In any event, since the Appellant did not realize any capital gains in 2012 and 2013, these carrying charges, which could be considered to be part of net capital losses, could not be carried forward to those years.
+Conclusion [25] On considering all the above factors, I come to the conclusion that the Appellant has failed to show that his activities in relation to the trading in securities were conducted in a commercial manner. I conclude that the Appellant has failed to establish that he was conducting a business as a dealer in securities. In addition, the Appellant did not have any net capital losses available to carry forward to 2012 and 2013.
+[26] For all the foregoing reasons, this appeal is dismissed.
+Signed at Toronto, Ontario, this 1st day of April 2016.
+“Rommel G. Masse”
+Masse D.J.
+CITATION:
+2016 TCC 77
+COURT FILE NO.:
+2015-541(IT)I
+STYLE OF CAUSE:
+FRANK R.A. TURNER v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 1, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+April 1, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aaron Tallon
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,180 @@
+---
+title: "Woods c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29661/index.do"
+last_modified: "2010-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 106"
+citation2: ""
+neutral_citation: "2010 CCI 106"
+decision_date: "2010-02-24"
+language: "fr"
+item_id: "29661"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6229
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:14:33.950000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d515dd7f9d3fbeabc2e9f0016b8cac6e0c3291229a8c3d05cf43be3278f296fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Woods c. La Reine
+
+- Citation: 2010 CCI 106
+- Decision date: 2010-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6229, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Woods c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-24
+Référence neutre
+2010 CCI 106
+Numéro de dossier
+2008-518(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-518(IT)G
+ENTRE :
+SHEILA WOODS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu le 10 février 2010, à Ottawa, Canada.
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocat de l'appelante :
+Me Bruce F. Simpson
+Avocat de l'intimée :
+Me Pascal Tétrault
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2004 de l'appelante est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 24e jour de février 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 13e jour de mai 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 106
+Date : 20100224
+Dossier : 2008-518(IT)G
+ENTRE :
+SHEILA WOODS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Madame Woods, une résidente du Canada, a reçu en 2004 une somme d'environ 65 000 $ relativement au décès de son frère, Martin Kaye, un résident du Royaume‑Uni, qui travaillait alors dans ce pays pour un employeur britannique (ci‑après l'« employeur »), qui était soit la société QinetiQ Group PLC, soit la société QinetiQ Limited.
+[2] La somme a été payée à Mme Woods en application des dispositions relatives aux prestations de décès du régime de pension de QinetiQ, un fonds en fiducie établi par QinetiQ Group PLC pour administrer un régime de prestations de retraite pour les employés de QinetiQ Group PLC et d'autres employeurs liés. L'avis de crédit que Mme Woods a reçu de sa banque canadienne identifiait l'expéditeur des fonds comme [TRADUCTION] « Régime de pension de QinetiQ » et la nature du paiement comme [TRADUCTION] « Pension de QinetiQ ». Dans sa déclaration de revenus pour 2004, Mme Woods a déclaré la somme reçue de QinetiQ et a affirmé que cette somme devait être exemptée d'impôt au Canada parce qu'il s'agissait en fait du produit d'une assurance‑vie.
+[3] Plus tard, une nouvelle cotisation a été établie à l'égard de Mme Woods pour inclure la somme en cause dans le calcul de son revenu. L'intimée soutient que la somme constitue une prestation de retraite ou de pension qui doit être incluse en application du sous‑alinéa 56(1)a)(i) de la Loi de l'impôt sur le revenu (la « Loi »), ou, subsidiairement, que la somme en cause constitue une prestation consécutive au décès qui doit être incluse dans le revenu de Mme Woods en application du sous‑alinéa 56(1)a)(iii) de la Loi. L'appelante soutient que l'employeur de son frère menait des activités d'assurance en administrant le régime de pension de QinetiQ et en versant ce qui y était qualifié de prestations de décès, ou, subsidiairement, que les prestations de décès versées en application du régime de pension de QinetiQ étaient l'équivalent financier du produit d'une assurance. Madame Woods affirme que, dans un cas comme dans l'autre, aux fins de l'impôt du Canada, la somme devrait être considérée comme le produit non imposable d'une assurance‑vie.
+I. Les faits
+[4] Martin Kaye, le frère de Mme Woods, a longtemps été fonctionnaire au Royaume‑Uni, où il travaillait à un centre de recherche pour la défense situé en Angleterre. En 2001, l'organisme gouvernemental a été privatisé et QinetiQ est devenue le nouvel employeur de Martin Kaye. La constitution et l'administration du régime de pension de QinetiQ sont assujetties à un acte de fiducie et à un ensemble de règles détaillées. Les fiduciaires du régime de pension de QinetiQ sont des personnes physiques, et c'était la société britannique Towers Perrin qui administrait le régime pendant la période en cause. Le régime de pension prévoit des prestations de retraite, des prestations de décès, des augmentations de pension et le transfert des prestations de retraite. Le régime prévoyait que certains employés participeraient à un régime à prestations déterminées, et d'autres, à un régime à cotisations déterminées. Le régime à prestations déterminées était réservé aux employés de QinetiQ qui étaient auparavant fonctionnaires. Les dispositions relatives au régime à prestations déterminées s'appliquaient au frère de Mme Woods.
+[5] Les dispositions du régime à prestations déterminées prévoient le versement de paiements réguliers et récurrents aux employés en fonction de leur ancienneté et de leur rémunération. Ces dispositions prévoient aussi des retraites anticipées et ajournées et des retraites pour raisons médicales.
+[6] De plus, les règles du régime de pension de QinetiQ applicables aux employés admissibles au régime à prestations déterminées prévoient des prestations de décès. Dans le cas du frère de Mme Woods, qui n'avait ni conjoint ni enfant au moment de son décès, cette prestation était une somme forfaitaire s'élevant à trois fois ses gains ouvrant droit à pension au moment de son décès, ce qui correspondait à environ trois fois son salaire annuel. L'ancienneté de l'employé n'a pas d'incidence sur le montant de la prestation de décès.
+[7] Les règles du régime de pension de QinetiQ prévoient le versement de prestations de décès au conjoint survivant. Si, comme dans la présente affaire, l'employé décédé n'a pas de conjoint, les règles donnent aux fiduciaires du régime de pension de QinetiQ l'entière discrétion, dans les deux années suivant le décès de l'employé, de verser la prestation de décès à ses proches parents, à ses personnes à charge, à ses anciens conjoints, et ainsi de suite. Les employés peuvent remettre à l'administrateur du régime de pension un avis écrit non contraignant expliquant comment ils souhaitent voir la prestation versée. Il semble que ce mécanisme ait été minutieusement conçu pour réduire au minimum les impôts sur le revenu et sur les successions à payer, puisqu'au Royaume‑Uni, les paiements discrétionnaires de ce genre sont exemptés d'impôts. Si aucun paiement discrétionnaire n'est versé dans les deux années suivant le décès de l'employé, la prestation de décès doit être payée au représentant successoral du défunt.
+[8] En l'espèce, le frère de Mme Woods n'avait déposé aucun avis écrit de ce type, mais les fiduciaires du régime de pension de QinetiQ ont décidé de diviser la prestation de décès en parts égales entre la mère de Martin Kaye et chacune des trois soeurs de celui‑ci. Madame Woods, sa mère et au moins l'une des deux autres soeurs résident au Canada.
+[9] Les règles du régime prévoient la méthode de calcul des cotisations versées par les employés au régime de pension de QinetiQ. Pour les employés admissibles au régime à prestations déterminées, ces cotisations sont calculées en fonction de leur rémunération. Les employés n'ont pas à verser de cotisation distincte pour avoir droit à la prestation de décès ou à d'autres prestations particulières. L'acte de fiducie exige que l'employeur verse des cotisations suffisantes pour couvrir les obligations du régime de pension de QinetiQ.
+[10] Les fiduciaires du régime de pension de QinetiQ sont autorisés à souscrire des polices d'assurance‑vie pour couvrir le paiement des prestations de décès. Selon une partie de la correspondance entre les administrateurs du régime de pension de QinetiQ et Mme Woods et sa soeur, au sujet de la nécessité de présenter un certificat de décès acceptable à l'assureur avant de pouvoir verser la prestation de décès, je dois déduire que la prestation de décès en cause dans la présente affaire a été financée, en tout ou en partie, au moyen d'une police d'assurance‑vie qui assurait Martin Kaye.
+II. Le droit
+[11] Selon le sous‑alinéa 56(1)a)(i) de la Loi, « [...] sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition [...] toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel [...] d'une prestation de retraite ou de pension [...] ».
+[12] Le paragraphe 248(1) de la Loi prévoit que : « sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d'une caisse ou d'un régime de retraite ou de pension, et, notamment, tous versements faits à un bénéficiaire dans le cadre de la caisse ou du régime, [...] conformément aux conditions de la caisse ou du régime [...] ».
+[13] Les paiements faits « dans le cadre d'un mécanisme de retraite étranger » n'ont pas à être inclus dans les revenus du contribuable en vertu du sous‑alinéa 56(1)a)(i) de la Loi si ces paiements sont exclus du calcul du revenu du contribuable aux fins de l'impôt sur le revenu dans ce pays. Cependant, en application de la définition du terme « mécanisme de retraite étranger », le régime ou mécanisme doit être visé par règlement. Le seul mécanisme de retraite étranger visé par règlement, à l'article 6803 du Règlement de l'impôt sur le revenu, est le mécanisme des États‑Unis appelé Individual Retirement Account (« IRA »).
+[14] Selon le sous‑alinéa 56(1)a)(iii) de la Loi, « [...] sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition [...] toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel [...] d'une prestation consécutive au décès [...] ».
+[15] Le paragraphe 248(1) de la Loi définit la prestation consécutive au décès comme suit : « Le total des sommes qu'un contribuable a reçues au cours d'une année d'imposition au décès d'un employé ou postérieurement, en reconnaissance des services rendus par celui-ci dans une charge ou un emploi [...] ». Plus loin dans cette définition, le législateur exempte les premiers 10 000 $ reçus au titre d'une prestation consécutive au décès et prévoit que, si plusieurs personnes se partagent une même prestation consécutive au décès, elles doivent aussi partager l'exemption de 10 000 $ — ce qui est le cas en l'espèce. (La disposition de la Loi qui fixe à 10 000 $ l'exemption pour la prestation consécutive au décès n'a pas été modifiée depuis au moins 45 ans.)
+III. Analyse
+[16] D'un point de vue juridique, il est tout à fait impossible de considérer le régime de pension de QinetiQ comme une police d'assurance‑vie consentie par QinetiQ à Martin Kaye. Il s'agit indiscutablement d'un régime de pension; il comporte toutes les caractéristiques habituelles d'un régime de pension. Je ne peux pas souscrire à la thèse voulant que les prestations de décès constituent un régime d'assurance‑vie distinct du régime de pension. Les sommes destinées aux pensions et celles destinées aux prestations de décès n'ont pas à être distinctes. Le régime de pension de QinetiQ ne prévoit pas que les cotisations servant notamment à financer les prestations de décès doivent varier selon les risques médicaux, le sexe, l'âge ou d'autres facteurs semblables, et rien de prévoit un examen médical ou un examen des risques. De plus, il semble que la prestation de décès ne soit pas fixée d'avance et que l'employé ne puisse pas désigner le ou les bénéficiaires de la prestation. Toutes les caractéristiques traditionnelles d'une police d'assurance sont absentes.
+[17] De même, les faits établis ne permettent aucunement de conclure que les fiduciaires du régime de pension de QinetiQ aient agi comme mandataires, que ce soit pour les assureurs avec lesquels le régime faisait affaire ou pour le compte de Martin Kaye relativement à une police d'assurance‑vie que lui aurait consentie un de ces assureurs.
+[18] Il n'est pas impossible que la prestation de décès joue à peu près le même rôle qu'une police d'assurance‑vie ou qu'elle en soit l'équivalent économique, mais cela n'en fait pas une police d'assurance‑vie. L'interprétation et l'application des dispositions de la Loi ne dépendent pas de l'interprétation faite par la Cour des réalités économiques, ou des structures commerciales ou juridiques qui auraient pu servir à atteindre les mêmes objectifs économiques (voir l'arrêt de la Cour suprême Shell Canada Ltd. c. La Reine, [1999] 3 R.C.S. 622).
+[19] Je tiens à ajouter que, même si j'admettais que l'employeur fournissait une assurance‑vie, l'Agence du revenu du Canada ne considérerait pas nécessairement ce paiement comme exempt d'impôt, parce qu'il n'a pas été établi que l'employeur retenait à la source les sommes versées à titre de primes ou d'autre contrepartie.
+[20] Les questions en litige restantes sont les suivantes :
+(1) La somme reçue par Mme Woods est‑elle une prestation de retraite ou de pension à inclure dans le calcul de son revenu en vertu du sous‑alinéa 56(1)a)(i) de la Loi?
+(2) La somme en question est‑elle une prestation consécutive au décès à inclure dans le calcul du revenu de Mme Woods en application du sous‑alinéa 56(1)a)(iii) de la Loi? Si c'est le cas, la nouvelle cotisation établie à l'égard de Mme Woods devra être révisée pour tenir compte de sa part de l'exemption de 10 000 $ applicable aux prestations consécutives au décès.
+(3) Si, pour l'application de la Loi, la somme en cause peut à la fois être considérée comme une prestation de retraite ou de pension et comme une prestation consécutive au décès, quelles règles faut‑il appliquer?
+[21] Selon le paragraphe 248(1) de la Loi, « sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d'une caisse ou d'un régime de retraite ou de pension »; la Loi ne définit cependant pas ce que sont les caisses ou les régimes de retraite ou de pension. Plus loin, la définition de « prestation de retraite ou de pension » inclut expressément tous les versements faits à un bénéficiaire dans le cadre de la caisse ou du régime conformément aux conditions de la caisse ou du régime. À mon avis, dans la présente affaire, cette deuxième partie de la définition n'ajoute rien à la première. La question fondamentale est de savoir si le régime de pension de QinetiQ constituait une caisse ou un régime de retraite ou de pension.
+[22] Dans Crown Trust Co. c. M.R.N., [1965] R.C.S. 723, la Cour suprême du Canada a dû se prononcer sur la nature d'une somme versée par un régime de pension, conformément aux conditions du régime, à la suite du décès d'un employé. Les dispositions du régime de pension prévoyaient à la fois des prestations d'assurance et des prestations de retraite, mais la Cour s'est seulement penchée sur les prestations de retraite. La somme en cause était une prestation de retraite payable après le décès de l'employé, et ce paiement était financé à même les cotisations des employés, les cotisations de l'employeur et les bénéfices du régime de pension. Dans cet arrêt, la Cour suprême a conclu que [TRADUCTION] « la somme reçue par l'appelante constitue clairement une somme reçue dans le cadre d'une caisse ou d'un régime de retraite ou de pension » et, plus loin, que « cette somme constituait indiscutablement une prestation consécutive au décès au sens [d'une disposition particulière] du régime de pension. À mon avis, il n'existe aucune différence de principe entre ce type de paiement et les autres prestations de retraite payables après le décès à partir d'une caisse ou d'un régime de retraite auquel le défunt a contribué. » Les conclusions de la Cour suprême expliquent clairement qu'une caisse ou un régime de retraite ou de pension est un mécanisme qui donne à l'employé le droit de recevoir des prestations de retraite. Il est aussi manifeste qu'une caisse ou un régime de retraite ou de pension peut verser des prestations de décès, notamment sous la forme de remboursement de cotisations.
+[23] Dans la décision Smith c. M.R.N., no 88‑902(IT), 19 octobre 1990 (C.C.I.), la Cour a pu considérer l'arrêt Crown Trust. Dans Smith, une fonctionnaire décédée avait droit à une pension en vertu de la Loi sur la pension de la fonction publique, et, comme cette fonctionnaire n'avait laissé ni conjoint ni enfant, un paiement forfaitaire correspondant à une prestation minimale garantie de cinq ans avait été fait à sa succession. La Cour a alors conclu que la Loi sur la pension de la fonction publique avait établi une caisse ou un régime de retraite ou de pension. Dans cette affaire, l'appelante soutenait que le paiement forfaitaire constituait une prestation consécutive au décès, ce qui le rendait admissible à l'exemption de 10 000 $. La Cour a rejeté cet argument parce que le paiement forfaitaire n'avait pas été versé en reconnaissance des services rendus par la fonctionnaire au sein de la fonction publique. Le paiement a plutôt été versé parce que la fonctionnaire était tenue de cotiser à une caisse ou un régime de retraite ou de pension. Le simple fait que le paiement minimal était qualifié de prestation de décès dans les documents constitutifs de la caisse de retraite n'en faisait pas une prestation consécutive au décès au sens du paragraphe 248(1) de la Loi.
+[24] La décision de la Cour dans Smith s'appuyait sur la décision R. c. Cumming, [1977] 1 C.F. 152 (C.F. 1re inst.), dans laquelle la Cour fédérale avait dû décider si une prestation de décès payée en vertu du Régime de pensions du Canada était aussi une prestation consécutive au décès au sens de la Loi. La Cour fédérale a suivi le même raisonnement pour conclure que ce n'était pas le cas :
+[...] Il est exact que le défunt était un cotisant du RPC à cause de son emploi et de plus, que la prestation de décès du RPC était exigible parce qu'il était un cotisant; mais affirmer que la prestation a été versée « en reconnaissance de son service dans un... emploi », c'est forcer considérablement l'idée clairement exprimée par ces termes courants de la langue anglaise.
+Je tiens à ajouter que les définitions anglaise et française de « prestation consécutive au décès » sont formulées de façon similaire.
+[25] Dans R. c. Herman, [1978] 2 C.F. 756 (C.F. 1re inst.), la Cour fédérale s'est penchée sur le cas du fonds commun de pension du personnel des Nations Unies. Dans cette affaire, les contribuables soutenaient que les prestations mensuelles de retraite qu'ils avaient reçues ne provenaient pas d'une caisse ou d'un régime de retraite ou de pension parce qu'ils n'avaient pas pu déduire les cotisations versées au fonds au moment du versement, et ce, à cause du régime particulier des cotisations que paient les fonctionnaires des Nations Unies au lieu de l'impôt. La Commission de révision de l'impôt avait donné raison aux contribuables, en interprétant l'expression « caisse ou régime » comme visant un fonds qui assure un revenu pendant la retraite et à l'égard duquel les cotisations sont déductibles. La Cour fédérale s'est exprimée de la sorte en rejetant la cause des contribuables :
+[...] Je ne saurais cependant souscrire à l'opinion selon laquelle on doit limiter le nom de fonds de pension à celui à l'égard duquel les contributions sont déductibles aux fins de l'impôt. Nous sommes bel et bien en présence d'un fonds de retraite ou de pension, ce que confirment avec force les Règlements versés au dossier. Ni la définition de la prestation de retraite ou de pension [...] qui fait état de tout montant reçu « sur un fonds ou un plan de pension de retraite ou de pension » conformément aux dispositions du fonds ou du plan, ni aucune autre disposition de la même loi ne permet, à mon avis, de décomposer ce fonds en ses éléments premiers pour conclure qu'il ne s'agit pas là d'un fonds de retraite du point de vue des primes versées par le contribuable et qu'il ne peut déduire aux fins de l'impôt sur le revenu, en même temps qu'il s'agit bien d'un fonds de retraite ou de pension pour ce qui est des contributions faites par l'employeur. Bien qu'une telle interprétation puisse paraître équitable, nulle disposition de la Loi ne l'autorise.
+[26] La Cour fédérale s'est ensuite exprimée de la sorte :
+En imposant le revenu provenant d'un fonds de retraite ou de pension, la Loi ne fait aucune distinction quant à son origine. Le législateur se contente d'imposer l'ensemble du revenu reçu par un contribuable résidant au Canada. [...]
+[27] À cet égard, je tiens à souligner que l'alinéa 6(1)g) de la Loi précise clairement que les prestations de retraite ou de pension au sens de la Loi peuvent inclure des sommes liées à des emplois à l'étranger.
+[28] Dans Abrahamson c. M.R.N., no 90‑408(IT), 30 novembre 1990 (C.C.I.), la Cour a eu l'occasion de se demander si l'IRA des États‑Unis était une caisse ou un régime de retraite ou de pension et si les sommes reçues de son IRA par le contribuable constituaient des prestations de retraite ou de pension[1]. La Cour a conclu qu'une caisse ou un régime de retraite ou de pension est un programme formel en vertu duquel sont fixés le montant et la fréquence de versements périodiques faits à une personne, habituellement, mais pas nécessairement, à cause de la fin d'un emploi, et dans le but de fournir à cette personne des moyens de subsistance minimaux. L'IRA des États-Unis ne satisfaisait pas du tout à cette exigence, parce que le bénéficiaire du compte peut en retirer le solde à tout moment, comme peut le faire le bénéficiaire d'un régime enregistré d'épargne‑retraite au Canada. La Cour a conclu que l'IRA ne constituait pas une caisse ou un régime de retraite ou de pension.
+[29] Dans Bardsley c. M.R.N., 23 janvier 1970 (C.A.I.), la Commission d'appel de l'impôt a décidé que lorsque les dispositions d'un régime de pension prévoient le versement, à la veuve, à titre de prestations de décès, des cotisations versées par l'employé défunt, ou des cotisations de l'employé et de l'employeur avec intérêts, ces paiements constituent des prestations de retraite ou de pension, et non pas une prestation consécutive au décès. La Commission avait tranché que ces sommes constituaient des prestations de retraite ou de pension, car ce terme signifie « tout montant reçu d'une caisse ou régime de pension de retraite ou de pension, et [...] il comprend tous paiements faits à un bénéficiaire en conformité de la caisse ou régime [...] conformément aux dispositions du fonds ou du plan ». La Commission a conclu qu'une prétendue prestation consécutive au décès versée en vertu d'une caisse ou d'un régime de retraite ou de pension ne peut pas constituer une prestation consécutive au décès au sens de la Loi.
+[30] Ainsi, la jurisprudence et les dispositions de la Loi peuvent être résumées de la sorte :
+(1) Une caisse ou un régime de retraite ou de pension est un mécanisme en vertu duquel des paiements périodiques sont versés à des employés à titre de revenu pendant la retraite, et par lequel sont fixés le droit à ces paiements, ainsi que leur montant et leur fréquence.
+(2) Une caisse ou un régime de retraite ou de pension peut aussi accorder aux employés, ou pour leur compte, d'autres paiements ou avantages relativement à leur retraite.
+(3) Toute somme reçue d'une caisse ou d'un régime de retraite ou de pension constitue une prestation de retraite ou de pension, sauf exception prévue à la Loi. Aucune exception ne vise les paiements faits à d'autres personnes que l'employé ou la succession de celui‑ci. De même, aucune exception ne vise les sommes liées à un emploi exercé à l'extérieur du Canada par un non‑résident du Canada. Pour l'application de la Loi, la prestation de décès prévue par une caisse ou un régime de retraite ou de pension constitue une prestation de retraite ou de pension, et non pas une prestation consécutive au décès au sens de la Loi. Cette prestation n'est pas payée en reconnaissance des services rendus par l'employé, mais bien parce que l'employé a participé — et habituellement cotisé — à la caisse ou au régime de retraite ou de pension.
+[31] L'application de ces principes à la présente affaire fait que l'appel de Mme Woods ne peut pas réussir. Le régime de pension de QinetiQ est une caisse ou un régime de retraite ou de pension, et la prestation de décès payée à Mme Woods en vertu du régime constitue une prestation de retraite ou de pension et non pas une prestation consécutive au décès au sens de la Loi.
+[32] L'appel est rejeté, avec dépens.
+Signé à Toronto (Ontario), ce 24e jour de février 2010.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 13e jour de mai 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2010 CCI 106
+No DU DOSSIER DE LA COUR :
+2008-518(IT)G
+INTITULÉ :
+Sheila Woods c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Ottawa, Canada
+DATE DE L'AUDIENCE :
+Le 10 février 2010
+MOTIFS DU JUGEMENT :
+L'honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 24 février 2010
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Bruce F. Simpson
+Avocat de l'intimée :
+Me Pascal Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Bruce F. Simpson
+Cabinet :
+Barnes, Sammon LLP
+Ottawa (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette décision a été rendue avant la création du concept de « mécanisme de retraite étranger » à la division 56(1)a)(i)(C.1) de la Loi. L'affaire a été tranchée par le juge Rip, maintenant juge en chef de la Cour, et c'est D. G. H. Bowman, le juge en chef précédent de la Cour, qui avait représenté avec succès le contribuable.

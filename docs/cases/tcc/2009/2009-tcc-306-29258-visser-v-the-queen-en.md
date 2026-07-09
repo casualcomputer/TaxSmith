@@ -1,0 +1,159 @@
+---
+title: "Visser v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29258/index.do"
+last_modified: "2009-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 306"
+citation2: ""
+neutral_citation: "2009 TCC 306"
+decision_date: "2009-06-05"
+language: "en"
+item_id: "29258"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6998
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:13:42.022000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b591272749c65708eaffe4a9a0e86b9b70ac14e4467a1e373aef1de04af7ef9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Visser v. The Queen
+
+- Citation: 2009 TCC 306
+- Decision date: 2009-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6998, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Visser v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-05
+Neutral citation
+2009 TCC 306
+File numbers
+2008-3819(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3819(IT)I
+BETWEEN:
+GEORGE VISSER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 4, 2009, at Edmonton, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Holly A. Peterson
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is allowed, and the sum of $400 is awarded to the Appellant to cover out-of-pocket disbursements for the purpose of prosecuting the appeal.
+It is further ordered that the filing fee of $100 be refunded to the Appellant.
+Signed at Edmonton, Alberta, this 5th day of June 2009.
+“D.W. Beaubier’
+Beaubier D.J.
+Citation: 2009TCC306
+Date: 20090605
+Docket: 2008-3819(IT)I
+BETWEEN:
+GEORGE VISSER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, D. J.
+[1] This appeal pursuant to the Informal Procedure was heard at Edmonton Alberta on June 4, 2009. The Appellant testified and called his accountant Anthony Jullion, C.G.A. The Respondent called Cheryl Ritchie, the Canada Revenue Agency’s litigation officer.
+[2] The particulars stated by the Respondent in paragraphs 11-14 inclusive of the Reply are as follows:
+11. In so reassessing the Appellant for the 2006 taxation year, and in confirming the reassessment, the Minister assumed the following facts:
+(a) the Appellant was issued a T4RIF slip from CWT in the amount of $1,803 for the 2006 taxation year;
+(b) the amount of $1,803 is pension income;
+(c) the Appellant was the annuitant of RRIF;
+(d) the Appellant turned 71 in the 2006 taxation year and a minimum amount must be withdrawn from the RRIF;
+B. ISSUES TO BE DECIDED
+12. The issue to be decided is:
+(a) whether the Appellant is required to include the pension income of $1,803 as stated on the T4RIF into his income for the 2006 taxation year.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+13. He relies on section 146.3, paragraph 56(1)(t) and regulation 215 and 7308 of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp) (the “Act”), as amended, for the 2006 taxation year.
+14. He submits that the Appellant:
+(a) received pension income of $1,803 per the T4RIF from CWT;
+(b) is required to include the amount of $1,803 into his income for the 2006 taxation year;
+[3] The assumptions in paragraph 11 are correct except for subparagraph (b).
+[4] The Appellant testified that his RRSP purchased shares in Barrhead Park Processing Inc. (“Barrhead”). These shares were transferred “in kind” into his RRIF which was managed by Canadian Western Trust Company (“CWT”).
+[5] The Appellant was a director of Barrhead. Barrhead became insolvent in 2003 and its last financial statement was for the fiscal year ended August 31, 2004. On March 2, 2006 a Certificate of Dissolution was issued for Barrhead
+(Exhibit C-1).
+[6] CWT then issued the T4RIF for $1,803 to the Appellant for his 2006 tax year. He did not receive any shares or any benefit of any kind from CWT respecting the alleged $1,803, the shares of Barrhead or the RRIF contents from CWT.
+[7] Canada Revenue Agency issued this reassessment based upon the T4RIF.
+[8] Subsection 146.3(5) of the Income Tax Act reads as follows:
+Benefits taxable
+(5) There shall be included in computing the income of a taxpayer for a taxation year all amounts received by the taxpayer in the year out of or under a registered retirement income fund other than the portion thereof that can reasonably be regarded as
+(a) part of the amount included in computing the income of another taxpayer by virtue of subsections 146.3(6) and 146.3(6.2);
+(b) an amount received in respect of the income of the trust under the fund for a taxation year for which the trust was not exempt from tax by virtue of subsection 146.3(3.1); or
+(c) an amount that relates to interest, or to another amount included in computing income otherwise than because of this section, and that would, if the fund were a registered retirement savings plan, be a tax-paid amount (within the meaning assigned by paragraph (b) of the definition "tax-paid amount" in subsection 146(1)).
+[9] Paragraph 56(1)(t) of the Income Tax Act requires the following to be included in the income of the taxpayer:
+(t) Registered retirement income fund - amounts in respect of a registered retirement income fund required by section 146.3 to be included in computing the taxpayer’s income for the year;
+[10] The word “amount” is defined in subsection 248(1) of the Income Tax Act as:
+"amount" means money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing, except that,
+(a) notwithstanding paragraph (b), in any case where subsection 112(2.1), 112(2.2) or 112(2.4), or section 187.2 or 187.3 or subsection 258(3) or 258(5) applies to a stock dividend, the "amount" of the stock dividend is the greater of
+(i) the amount by which the paid-up capital of the corporation that paid the dividend is increased by reason of the payment of the dividend, and
+(ii) the fair market value of the share or shares paid as a stock dividend at the time of payment,
+(b) in any case where section 191.1 applies to a stock dividend, the "amount" of the stock dividend for the purposes of Part VI.1 is the greater of
+(i) the amount by which the paid-up capital of the corporation that paid the dividend is increased by reason of the payment of the dividend, and
+(ii) the fair market value of the share or shares paid as a stock dividend at the time of payment,
+and for any other purpose the amount referred to in subparagraph (i), and
+(c) in any other case, the "amount" of any stock dividend is the amount by which the paid-up capital of the corporation that paid the dividend is increased by reason of the payment of the dividend;
+[11] Thus an “amount” or shares is to be included in a taxpayer’s income if it is “received by the taxpayer in the year out of or under a registered retirement income fund.” (subsection 146.3(5))
+[12] The uncontroverted evidence is that the taxpayer only received a T4RIF. He did not receive any shares or transfer of shares in Barrhead or $1,803 from CWT.
+[13] For this reason, the appeal is allowed and this file is remitted to the Minister of National Revenue for reconsideration and reassessment.
+[14] Barrhead is about 100 km northwest of Edmonton city limits – about a 1 ½ hour drive each way from the Court itself. The Appellant brought his Certified General Accountant with him from Barrhead to testify in this case which lasted about 2 hours in Court. The Appellant is awarded costs and disbursements in this appeal which are fixed at $400.00. He is also to be refunded his filing fee of $100.00.
+Signed at Edmonton, Alberta, this 5th day of June 2009.
+“D.W. Beaubier”
+Beaubier D.J.
+CITATION: 2009TCC306
+COURT FILE NO.: 2008-3819(IT)I
+STYLE OF CAUSE: GEORGE VISSER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 4, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: June 5, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Holly A. Peterson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

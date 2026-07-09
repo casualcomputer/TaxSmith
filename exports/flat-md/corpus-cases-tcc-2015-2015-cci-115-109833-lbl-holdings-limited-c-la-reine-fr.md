@@ -1,0 +1,285 @@
+---
+title: "LBL Holdings Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109833/index.do"
+last_modified: "2015-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 115"
+citation2: ""
+neutral_citation: "2015 CCI 115"
+decision_date: "2015-05-14"
+language: "fr"
+item_id: "109833"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2817
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:33:34.968000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82f552ce0199393759d4677d15bef89ee0c3b02ef81ee7d3c8a67efce841904d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# LBL Holdings Limited c. La Reine
+
+- Citation: 2015 CCI 115
+- Decision date: 2015-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2817, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+LBL Holdings Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-14
+Référence neutre
+2015 CCI 115
+Numéro de dossier
+2012-4371(GST)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4371(GST)G
+ENTRE :
+LBL HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 10 février 2015, à Ottawa, Canada.
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocats de l’appelante :
+Me David D. Robertson
+Me Amy Walsh
+Avocats de l’intimée :
+Me André LeBlanc
+Me Craig Maw
+ORDONNANCE
+La requête de l’appelante est accueillie en partie. Sont radiés les éléments suivants de la nouvelle réponse :
+a) le passage suivant : [traduction] « dans la mesure où les faits se rapportent à Roberta MacNaughton », au paragraphe 1;
+b) le passage suivant : [traduction] « 18 dans la mesure où les allégations de fait se rapportent à des personnes autres que Roberta MacNaughton », au paragraphe 3;
+c) le paragraphe 7;
+d) le paragraphe 8;
+e) le paragraphe 9;
+f) la totalité du préambule du paragraphe 12, à l’exception du passage suivant : [traduction] « le ministre s’est fondé sur les faits suivants : »;
+g) l’alinéa 12 k);
+h) l’alinéa 12 l);
+i) le paragraphe 20.
+L’intimée est autorisée à modifier les paragraphes 7, 8 et 9 de la nouvelle réponse conformément aux présents motifs du jugement, et ce, en déposant une nouvelle réponse modifiée.
+L’intimée est tenue de signifier et de déposer sa nouvelle réponse modifiée dans les 30 jours suivant la date des présents motifs du jugement.
+Si l’appelante souhaite signifier et déposer un avis d’appel modifié à deux reprises en vue de corriger les problèmes de rédaction que présentent les paragraphes 7, 8 et 9, elle est tenue de le faire dans les 30 jours suivant la date à laquelle l’intimée aura déposé sa nouvelle réponse modifiée.
+Si l’intimée souhaite signifier et déposer une nouvelle réponse modifiée à deux reprises en vue de répondre aux changements apportés aux paragraphes 7, 8 et 9 de l’avis d’appel modifié à deux reprises, elle est tenue de le faire dans les 30 jours suivant la date à laquelle l’appelante aura déposé son avis d’appel modifié à deux reprises.
+Les dépens sont adjugés à l’appelante et doivent être payés sans délai. Les parties ont un délai de 30 jours soit pour informer la Cour qu’elles se sont entendues sur les dépens relatifs à la présente requête, soit pour lui soumettre leurs observations écrites sur la question.
+Signé à Ottawa, Canada, ce 14e jour de mai 2015.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 10e jour de septembre 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 115
+Date : 20150514
+Dossier : 2012-4371(GST)G
+ENTRE :
+LBL HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Du 1er janvier 1999 au 29 février 2000, LBL Holdings Limited était propriétaire d’une entreprise de vente en gros de produits d’épicerie et de marchandises sèches à des détaillants situés en Ontario. Au nombre des articles vendus figuraient des produits du tabac.
+[2] Le ministre du Revenu national a considéré que LBL avait pris part à un stratagème donnant faussement l’impression que certains produits du tabac étaient vendus à des Indiens inscrits vivant dans une réserve et donc exonérés de la taxe sur les produits et services (la « TPS »), alors qu’en fait elle les vendait à des personnes qui n’étaient pas des Indiens inscrits. Le ministre a donc conclu que LBL n’avait pas déclaré la totalité de la TPS en omettant le montant de TPS qu’elle aurait dû percevoir sur ces ventes. Le ministre a établi à l’endroit de LBL une nouvelle cotisation de TPS, de pénalités et d’intérêts d’un montant de plus de 13,5 millions de dollars. LBL a interjeté appel à l’encontre de cette nouvelle cotisation, et l’intimée a déposé une réponse.
+[3] Les parties conviennent que les périodes en question sont frappées de prescription, sauf si l’intimée peut montrer que LBL a présenté erronément des faits par négligence, inattention ou omission volontaire.
+[4] En septembre 2014, j’ai entendu une requête déposée par LBL en vertu du paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») en vue de faire radier la réponse parce que celle-ci ne révélait aucun moyen raisonnable de contestation de l’appel. Dans sa réponse, l’intimée n’avait plaidé aucun fait et s’était plutôt fondée uniquement sur des présomptions de fait. Le ministre ne peut pas se fonder sur de telles présomptions quand il établit une nouvelle cotisation qui s’applique à une période frappée de prescription. J’ai donc accueilli la requête de LBL et j’ai radié la totalité de la réponse avec autorisation de la modifier.
+[5] L’intimée a déposé une nouvelle réponse. LBL a maintenant déposé une autre requête en vertu du paragraphe 53(1) des Règles en vue de faire radier divers éléments de cette nouvelle réponse.
+La théorie de LBL au sujet de l’affaire [6] Roberta MacNaughton est une Indienne inscrite aux termes de la Loi sur les Indiens. Mme MacNaughton réside dans le territoire de la bande des Six Nations of the Grand River, qui est une réserve au sens de l’article 87 de la Loi sur les Indiens, et elle exploite dans cette réserve le magasin Grandview Variety.
+[7] LBL est d’avis que Mme MacNaughton et des membres de sa famille immédiate lui ont acheté les produits du tabac et qu’ils les ont ensuite vendus à divers tiers. D’après ce que j’ai compris, ces tiers étaient des grossistes ou des détaillants qui n’étaient pas des Indiens inscrits et qui exploitaient leurs entreprises à l’extérieur de la réserve (les « tiers acheteurs »). Comme les MacNaughton sont des Indiens inscrits et que ces ventes aux MacNaughton ont eu lieu dans une réserve, LBL soutient qu’aucun montant de TPS n’était à percevoir.
+La théorie de l’intimée sur l’affaire [8] L’intimée allègue que LBL a pris part à un stratagème donnant l’impression qu’elle vendait des produits du tabac à Mme MacNaughton et a des membres de sa famille immédiate, alors qu’en fait elle les vendait directement aux tiers acheteurs.
+[9] L’intimée allègue que le stratagème fonctionnait de la manière suivante :
+a. chaque tiers acheteur recevait un code d’identification alphanumérique;
+b. un tiers acheteur qui voulait acheter des produits du tabac de LBL transmettait sa commande par télécopieur à Mme MacNaughton en se servant du bon de commande ordinaire de LBL. Mme MacNaughton retransmettait ce formulaire par télécopieur à LBL sans y apporter de changements;
+c. LBL empaquetait ses produits du tabac dans le nombre de paquets correspondant aux commandes reçues et elle inscrivait sur ces paquets le code alphanumérique du tiers acheteur qui avait passé la commande;
+d. le nombre de factures que LBL établissait pour une livraison donnée correspondait au nombre de tiers acheteurs en cause;
+e. le transfert des produits du tabac avait lieu dans la réserve;
+f. les produits du tabac étaient transférés directement du véhicule de livraison de LBL aux véhicules des tiers acheteurs;
+g. les transferts n’avaient lieu qu’une fois que LBL était convaincue qu’elle avait reçu un paiement en espèces des tiers acheteurs;
+h. s’il manquait des produits quelconques, les tiers acheteurs faisaient directement affaire avec LBL. Tout produit à retourner était renvoyé directement par ces derniers à LBL, qui leur remettait des notes de crédit;
+i. les MacNaughton étaient rémunérés pour leur participation au stratagème au moyen de remises sur volume que LBL accordait à Mme MacNaughton sur les achats de produits qu’elle faisait auprès de LBL pour son propre magasin.
+[10] L’intimée déclare que, par le truchement du stratagème allégué, LBL a vendu pour plus de 97,7 millions de dollars de produits du tabac sur une période de 14 mois à des personnes qui n’étaient pas des Indiens inscrits et qu’elle a omis de percevoir la TPS sur ces ventes.
+Analyse [11] LBL cherche à faire radier divers aspects de la nouvelle réponse. J’ai énuméré les paragraphes en question de cette réponse dans un ordre qui rend l’analyse plus facile à suivre, plutôt que dans leur ordre numérique.
+Le paragraphe 8 [12] Le paragraphe 77 de l’avis d’appel est libellé ainsi :
+[traduction]
+De plus, en février 2000 ou plus tôt, l’ARC a commencé à procéder à une vérification, à faire enquête et à demander des renseignements au sujet des ventes de produits du tabac de l’appelante aux MacNaughton.
+[13] Le paragraphe 8 de la nouvelle réponse est libellé ainsi :
+[traduction]
+Pour ce qui est du paragraphe 77 de l’avis d’appel modifié, il précise que la vérification pertinente en l’espèce a commencé en mai 2002, mais qu’il n’est par ailleurs pas au courant des autres allégations de fait énoncées dans ces paragraphes. Il dit de plus que ces autres allégations ne sont pas pertinentes en l’espèce.
+[14] Le paragraphe 77 n’est pas rédigé de manière idéale. Il contient à la fois une présomption et un énoncé de fait, et il est donc difficile d’y répondre. La présomption est que LBL vendait des produits du tabac aux MacNaughton. L’énoncé de fait est lié au moment où le ministre a pris certaines mesures à l’égard de cette présomption. Bien que l’intimée ne nie pas expressément la présomption au paragraphe 8, il ressort clairement du reste de la nouvelle réponse qu’elle la nie, et elle a précisé ce fait dans ses observations. Comme l’intimée nie que ces ventes ont eu lieu, il est donc difficile pour elle d’admettre ou de nier à quel moment le ministre a commencé à prendre des mesures à l’égard de ces ventes.
+[15] Parallèlement, la manière dont l’intimée a répondu au paragraphe 77 n’est pas satisfaisante non plus. Le paragraphe 8 ne précise pas si elle souscrit à la présomption sous-jacente ou non. Il est donc difficile de savoir exactement ce que l’intimée prétend ne pas connaître ou ce qui, selon elle, est peu pertinent.
+[16] Si je radiais simplement le paragraphe 8, il s’ensuivrait, suivant le paragraphe 49(2) des Règles, que l’intimée serait réputée avoir admis que LBL a vendu les produits du tabac aux MacNaughton. Je ne suis pas disposé à laisser LBL profiter ainsi de la complexité de ce qu’elle a écrit. Toutefois, je ne suis pas disposé non plus à laisser telle quelle la réponse vague de l’intimée. Je radierai donc le paragraphe 8, mais j’autoriserai l’intimée à déposer une nouvelle réponse modifiée comportant un nouveau paragraphe 8. L’intimée pourra simplement y nier le paragraphe 77 compte tenu du fait qu’il contient une présomption qu’elle conteste[1].
+[17] Si LBL, après que l’intimée a déposé sa nouvelle réponse modifiée, souhaite déposer un avis d’appel modifié à deux reprises pour corriger le paragraphe 77, elle pourra le faire et l’intimée pourra dans ce cas déposer une nouvelle réponse modifiée à deux reprises en vue de répondre à ce paragraphe.
+[18] Je ne voudrais toutefois pas que la présente affaire fasse l’objet d’une interminable série de modifications et de requêtes en radiation d’actes de procédure. J’aimerais donc donner les conseils suivants à l’intimée, au cas où LBL déposerait un avis d’appel modifié à deux reprises.
+a) La pertinence en général : Si l’intimée a des doutes au sujet de la pertinence d’un fait plaidé dans l’avis d’appel modifié à deux reprises, elle devrait déposer une requête en radiation du paragraphe en question, et ne pas simplement faire valoir qu’il est peu pertinent.
+b) La pertinence de faits particuliers : Il semble que l’intimée estime que le moment où l’ARC a entrepris diverses activités soit peu pertinent. À première vue, cela paraît raisonnable. La connaissance qu’a le ministre de ce qui se passait peut-être, de même que tout retard associé à l’établissement d’une nouvelle cotisation à l’endroit de LBL, n’auraient normalement rien à voir avec la question de savoir si LBL a présenté erronément des faits par négligence, inattention ou omission volontaire. Cependant, d’après ce que j’ai compris, LBL a l’intention de faire valoir, en partie, que la nature de sa relation avec les MacNaughton est une question sur laquelle des gens raisonnables pourraient être en désaccord. Un retard dans l’établissement d’une cotisation, malgré la connaissance de ce qui se passait, pourrait dénoter que le ministre avait un peu de difficulté à décider qui devait payer la taxe. Je suis donc d’avis que le moment où l’ARC a entrepris les activités décrites au paragraphe 77 est pertinent.
+c) La connaissance : Le moment où ont commencé les diverses activités décrites au paragraphe 77 est une question dont le ministre est parfaitement au courant. Il ne peut pas prétendre qu’il ne connaît pas ces faits.
+Le paragraphe 7 [19] Le paragraphe 75 et l’alinéa 76 a) de l’avis d’appel sont libellés ainsi :
+[traduction]
+75. L’Agence du revenu du Canada (l’« ARC ») a eu connaissance pour la première fois que l’appelante vendait des produits du tabac aux MacNaughton sans facturer ni percevoir la TPS en février 2000 ou plus tôt.
+76. En outre, l’ARC était au courant en même temps que :
+a) aucun des MacNaughton, selon le cas :
+i. n’était inscrit aux fins de la TPS;
+ii. ne facturait ni ne percevait la TPS sur l’une quelconque des ventes de produits du tabac qu’il faisait à ses clients (que ceux-ci soient Indiens ou non) ou sur les autres revenus qu’il gagnait;
+iii. ne produisait de déclarations de TPS.
+[20] Le paragraphe 7 de la nouvelle réponse est libellé ainsi :
+[traduction]
+Pour ce qui est du paragraphe 75 et de l’alinéa 76 a) de l’avis d’appel modifié, il nie les allégations de fait qui y sont énoncées, dans la mesure où elles se rapportent à l’agent de l’ARC qui a effectué la vérification concernant les périodes en question, et il n’est par ailleurs pas au courant des autres allégations de fait qui y sont énoncées. Il ajoute que ces autres allégations ne sont pas pertinentes en l’espèce.
+[21] Je traiterai séparément chacun des éléments de l’avis d’appel modifié.
+a) Le paragraphe 75 : À l’instar du paragraphe 77, le paragraphe 75 n’est pas rédigé d’une manière idéale, car il contient à la fois une présomption et un énoncé de fait. Dans le même ordre d’idées, la manière dont l’intimée a répondu au paragraphe 75 n’est pas satisfaisante non plus. Il omet de préciser si l’intimée souscrit à la présomption sous-jacente ou non. Il est donc difficile de savoir exactement ce que l’intimée prétend ne pas connaître ou ce qui, selon elle, est peu pertinent.
+b) Alinéa 76 a) : L’intimée soutient que l’alinéa 76 a) est peu pertinent. Je ne suis pas d’accord. La manière dont les MacNaughton s’acquittaient de leurs obligations en matière de TPS est susceptible de révéler comment ils considéraient la relation qu’ils entretenaient avec LBL ainsi qu’avec les tiers acheteurs. L’intimée prétend également ne pas connaître les faits énoncés à l’alinéa 76 a). Cette réponse est ridicule. Les faits que contient ce paragraphe relèvent tout à fait de la connaissance du ministre. Il y est question de ce que le ministre [traduction] « savait » à un certain moment. Soit que le ministre connaissait ces faits, soit qu’il ne les connaissait pas. Il ne peut pas prétendre qu’il n’a aucune connaissance de ce qu’il connaît.
+[22] Étant donné que le paragraphe 7 traite de deux paragraphes distincts de l’avis d’appel modifié et que le paragraphe 75 combine une présomption et un énoncé de fait, il m’est très difficile de rectifier le paragraphe 7 en radiant simplement quelques mots. Je radierai donc le paragraphe 7, mais j’autoriserai l’intimée à déposer une nouvelle réponse modifiée renfermant un nouveau paragraphe 7. Dans ce dernier, l’intimée pourra simplement nier le paragraphe 75 compte tenu du fait qu’il contient une présomption qu’elle conteste. Le nouveau paragraphe 7 ne devra pas porter sur l’alinéa 76 a). Conformément au paragraphe 49(2) des Règles, l’intimée sera réputée avoir admis les faits énoncés à l’alinéa 76 a).
+[23] Si, après que l’intimée a déposé sa nouvelle réponse modifiée, LBL souhaite déposer un avis d’appel modifié à deux reprises pour corriger le paragraphe 75, elle pourra le faire et l’intimée pourra dans ce cas déposer une nouvelle réponse modifiée à deux reprises en vue de répondre à ce paragraphe.
+[24] Là encore, je ne tiens pas à ce que la présente affaire fasse l’objet d’une interminable série de modifications et de requêtes en radiation d’actes de procédure. Les points que j’ai soulevés au paragraphe 18 qui précède s’appliquent eux aussi aux paragraphes 75 et 7.
+Le paragraphe 9 [25] Le paragraphe 91 de l’avis d’appel modifié est libellé ainsi :
+[traduction]
+En aucun temps l’ARC ou l’intimée :
+a. n’a établi une cotisation à l’endroit de l’un quelconque des MacNaughton pour avoir omis de facturer, de percevoir ou de payer la TPS à l’égard des produits du tabac qu’il a achetés de l’appelante au cours de la période visée par la cotisation et qu’il a vendus à des acheteurs non indiens;
+b. n’a établi une cotisation à l’endroit de l’un quelconque des clients des MacNaughton pour avoir omis de payer la TPS à l’égard des produits du tabac qu’il a achetés des MacNaughton au cours de la période visée par la cotisation;
+c. n’a établi une cotisation à l’endroit de l’un quelconque des MacNaughton pour avoir omis de facturer, de percevoir ou de payer la TPS à l’égard des remises sur volume que l’appelante a consenties;
+d. n’a pris des mesures d’exécution contre l’un quelconque des MacNaughton ou de leurs clients aux fins de la TPS relativement aux produits du tabac pour lesquels l’appelante a fait l’objet d’une nouvelle cotisation.
+[26] Le paragraphe 9 de la nouvelle réponse est libellé ainsi :
+[traduction]
+Pour ce qui est du paragraphe 91 de l’avis d’appel modifié, il déclare que les faits qui y sont énoncés ne sont pas pertinents en l’espèce et sont considérés comme des renseignements confidentiels au sens de la Loi sur la taxe d’accise. Pour éviter l’application du paragraphe 49(2) des [Règles], l’intimée plaide ne pas connaître les faits énoncés au paragraphe 91 de l’avis d’appel modifié.
+[27] Essentiellement, l’intimée a refusé de répondre au paragraphe 91 compte tenu du fait qu’il était peu pertinent et qu’il obligerait le ministre à communiquer des renseignements confidentiels. Ces deux questions sont étroitement liées.
+[28] Les renseignements que LBL cherche à faire admettre ou nier par l’intimée concernent clairement les renseignements fiscaux privés d’un certain nombre d’autres contribuables. L’article 295 de la Loi sur la taxe d’accise (la « Loi ») empêche le ministre de communiquer des renseignements confidentiels au sujet de contribuables. L’alinéa 295(4)b) prévoit toutefois une exception à cette règle pour ce qui est des communications faites dans le cadre de procédures judiciaires ayant trait à l’application ou à l’exécution de la Loi. Mais cela ne veut pas dire qu’il n’y a aucune limite aux renseignements confidentiels que le ministre peut communiquer dans le contexte d’un litige. L’alinéa 295(4)b) ne le dit pas explicitement, mais il est raisonnable de conclure que l’exception est sujette à la réserve que les renseignements communiqués doivent être pertinents à l’égard du litige en question. Le ministre a envers les Canadiens le devoir de ne pas communiquer inutilement des renseignements confidentiels. C’est donc dire que, si le ministre croit qu’il serait par ailleurs tenu de communiquer des renseignements confidentiels non pertinents, il devrait déposer une requête visant à faire radier le passage pertinent de l’avis d’appel.
+[29] Plutôt que de soumettre les parties au processus qui consiste à faire en sorte que l’intimée dépose une requête en radiation distincte, je déclarerai simplement que, sauf en ce qui concerne les réserves qui suivent à propos des alinéas 91 a) et b), je conclus que les faits énoncés au paragraphe 91 sont pertinents en l’espèce. Ironiquement, si je conclus qu’ils sont pertinents c’est parce que, s’ils sont vrais, ils pourraient en fait aider la cause de l’intimée en montrant que le ministre a agi d’une manière qui concorde avec son opinion selon laquelle LBL a vendu des produits du tabac aux tiers acheteurs, ce qui donne donc à penser qu’il n’y a jamais eu de doute dans son esprit quant à l’identité de ceux qui auraient dû facturer la TPS.
+[30] Les questions de pertinence et de confidentialité étant réglées, l’intimée doit maintenant avoir la possibilité de plaider convenablement sa cause. Malheureusement, à l’instar des paragraphes 75 et 77, les alinéas 91 a) et b) n’ont pas été rédigés de manière idéale, car ils comportent à la fois une présomption et un énoncé de fait. L’intimée aura donc de la difficulté à les plaider.
+[31] Je radierai donc le paragraphe 9, mais j’autoriserai l’intimée à déposer une nouvelle réponse modifiée renfermant un nouveau paragraphe 9. Dans la nouvelle réponse modifiée qu’elle déposera, l’intimée pourra simplement nier les alinéas 91 a) et b) compte tenu du fait qu’ils contiennent une présomption que l’intimée conteste.
+[32] Si LBL, après que l’intimée a déposé sa nouvelle réponse modifiée, souhaite déposer un avis d’appel modifié à deux reprises pour corriger les alinéas 91 a) et b), elle pourra le faire et l’intimée pourra dans ce cas déposer une nouvelle réponse modifiée à deux reprises en vue de répondre à ces alinéas.
+Le paragraphe 12 (préambule) [33] Le préambule du paragraphe 12 de la nouvelle réponse est libellé ainsi :
+[traduction]
+Au cours des périodes en question, l’appelante a pris part à un stratagème qui donnait faussement l’impression que les [produits du tabac] étaient vendus à des Indiens inscrits. L’appelante a faussement déclaré, dans ses déclarations de TPS concernant les périodes visées par la cotisation, qu’aucun montant de TPS n’était à percevoir sur les ventes des [produits du tabac]. Pour conclure que cette présentation erronée découlait d’une négligence, d’une inattention ou d’une omission volontaire de la part de l’appelante, le ministre s’est fondé sur les faits suivants :
+[34] Ce préambule figure dans la section de la nouvelle réponse qui est intitulée [traduction] « Énoncé des faits ». Cependant, il s’agit clairement d’une conclusion que l’intimée a tirée en se fondant sur les faits qui suivent plutôt que sur un énoncé des faits. Je radierai donc la totalité des mots, à l’exception du passage suivant : [traduction] « le ministre s’est fondé sur les faits suivants : ».
+L’alinéa 12 d) [35] Le texte de l’alinéa 12 d) de la nouvelle réponse est libellé ainsi :
+[traduction]
+au cours des périodes en question, l’appelante a vendu des produits du tabac (les « produits du tabac ») à des personnes qui n’étaient pas des Indiens inscrits […] en échange de paiements que les [tiers acheteurs] lui ont faits (les « opérations »);
+[36] LBL soutient que ce paragraphe est une conclusion mixte de fait et de droit. Elle dit que la principale question en litige en l’espèce consiste à savoir qui était l’« acquéreur » des produits du tabac au sens de la Loi. LBL ajoute que l’alinéa 12 d) ne fait qu’énoncer la conclusion que l’intimée aimerait voir la Cour tirer.
+[37] Je signale que LBL semble appliquer dans une large mesure un régime de deux poids deux mesures à ce qu’elle considère comme des énoncés mixtes de fait et de droit. Elle dit, aux paragraphes 27, 57, 58 et 60 de l’avis d’appel modifié, que les MacNaughton ont [traduction] « acquis » les produits du tabac de LBL et, aux paragraphes 26, 27, 47, 58, 59, 61 et 68, qu’ils ont [traduction] « acheté » ces produits. Je ne vois pas quelle distinction ferait en sorte qu’un énoncé selon lequel les produits du tabac ont été [traduction] « acquis » ou [traduction] « achetés » par les MacNaughton soit un énoncé de fait, mais ferait par contre en sorte que l’énoncé selon lequel les produits du tabac ont été [traduction] « vendus » aux tiers acheteurs soit un énoncé mixte de fait et de droit. Par ailleurs, aux paragraphes 36, 38 et 71 de l’avis d’appel modifié, LBL fait référence à ses [traduction] « fournitures » ou au fait de [traduction] « fournir » des produits du tabac aux MacNaughton et, aux paragraphes 72 et 73, elle déclare qu’elle a cessé de [traduction] « vendre » des produits du tabac aux MacNaughton. Là encore, en quoi le fait que LBL dise qu’elle a fourni ou vendu les produits du tabac aux MacNaughton constitue-t-il un énoncé de fait, mais le fait que l’intimée dise que LBL les a vendus aux tiers acheteurs constitue-t-il un énoncé mixte de fait et de droit?
+[38] Malgré le régime de deux poids deux mesures qu’applique LBL, je suis d’accord pour dire que la question de savoir si une vente a eu lieu serait une question mixte de fait et de droit si la question en litige consistait à savoir si la propriété a été transférée de LBL aux MacNaughton. LBL aimerait que l’on qualifie l’appel de débat entourant la question de savoir si la propriété a été transférée aux MacNaughton au moment de la livraison des produits du tabac dans la réserve. Elle voudrait que le débat soit axé sur l’offre, l’acceptation, la contrepartie, la livraison, le risque, le paiement et les conditions afférents à ce qu’elle appelle sa relation contractuelle avec les MacNaughton. Je puis comprendre ce souhait. Si c’était là la question en litige, LBL se trouverait alors en très bonne posture. Pour que le ministre puisse revenir sur une année frappée de prescription, il faut qu’un contribuable ait effectué une présentation erronée de fait, et non une présentation erronée mixte de fait et de droit. Une divergence d’opinions quant à la question de savoir si les mesures que LBL a prises ont effectivement transféré la propriété des produits du tabac aux MacNaughton ne serait donc pas suffisante pour que le ministre puisse revenir sur les périodes en question.
+[39] Cependant, d’après ce que j’ai compris, ce n’est pas sous cet angle que l’intimée circonscrit maintenant le débat. Au cours des deux requêtes relatives à la présente affaire, elle semble être lentement passée d’une approche éparpillée à une thèse nettement plus précise. Si j’ai bien compris, maintenant, l’intimée fait simplement valoir que LBL a vendu les produits du tabac directement aux tiers acheteurs et que les MacNaughton n’étaient qu’une simple façade conçue pour dissimuler la nature véritable de l’opération. Les parties conviennent que les produits du tabac étaient au départ la propriété de LBL et ont fini par être la propriété des tiers acheteurs. L’intimée n’invoque pas l’argument technique selon lequel il manque un élément nécessaire pour que la propriété soit transférée en cours de route aux MacNaughton. Pour dire les choses carrément, l’intimée dit simplement que LBL et les MacNaughton mentent lorsqu’ils disent que LBL a vendu les produits du tabac aux MacNaughton, qui les ont ensuite vendus aux tiers acheteurs. L’intimée dit que le rôle des MacNaughton consistait uniquement à donner la fausse impression qu’ils achetaient et revendaient les produits du tabac. La thèse de l’intimée n’oblige pas à analyser sous un angle juridique la question de savoir si la propriété a été transférée aux MacNaughton pendant que les produits étaient acheminés vers les tiers acheteurs. Il n’y a pas de question mixte de fait et de droit à trancher. Il s’agit purement d’une question de crédibilité. L’intimée soutient que LBL savait qu’elle ne vendait pas les produits du tabac aux MacNaughton, qu’elle savait que les MacNaughton ne vendaient pas les produits du tabac aux tiers acheteurs, qu’elle savait qu’elle vendait les produits du tabac directement aux tiers acheteurs et qu’elle savait que les MacNaughton ne jouaient aucun rôle dans le cadre de l’opération, hormis le fait d’aider LBL en créant faussement l’impression qu’ils achetaient les produits du tabac. L’intimée affirme qu’il s’agit là de présentations erronées de fait qui autorisent le ministre à revenir sur les périodes qui sont par ailleurs frappées de prescription.
+[40] C’est le juge du procès qui conclura si LBL et les MacNaughton disent la vérité ou non. S’il estime que LBL savait qu’elle vendait directement ses produits aux tiers acheteurs et qu’elle s’est servie des MacNaughton pour dissimuler ce fait, il lui sera loisible dans ce cas de conclure que les périodes en question ne sont pas frappées de prescription.
+[41] Au vu de tout ce qui précède, il n’y a pas lieu selon moi de radier l’alinéa 12 d).
+Le paragraphe 18 [42] Le paragraphe 18 de la nouvelle réponse est un élément de l’argument de l’intimée. Il est libellé ainsi :
+[traduction]
+Les prétendues ventes de l’appelante à un Indien inscrit n’étaient qu’un leurre, conçu pour dissimuler l’identité véritable des acquéreurs des fournitures de produits du tabac de l’appelante. Cette dernière a participé sciemment à un stratagème, dont l’objet était de donner au ministre la fausse impression que l’appelante effectuait des ventes exonérées de taxe à des Indiens inscrits, alors qu’il n’en était rien.
+[43] LBL soutient que l’intimée devrait plaider [traduction] « des faits importants exposant comment, quand et où les MacNaughton et [LBL] auraient formé cette intention commune d’induire en erreur, [ainsi que] tout autre détail quant au moment où ils auraient formé cette intention et de quelle façon ils l’auraient fait ». LBL soutient que, sans ces détails, le fondement factuel est insuffisant pour étayer le paragraphe 18. Je ne suis pas d’accord. Il n’est pas nécessaire que l’intimée prouve de quelle façon, à quel moment ou à quel endroit on a concocté un stratagème quelconque. Il suffit de montrer que le stratagème existait. À mon avis, l’intimée a plaidé suffisamment de faits pour que le juge du procès, s’il estime que ces derniers sont véridiques, puisse tirer la conclusion énoncée au paragraphe 18. Il n’y a pas lieu selon moi de le radier.
+L’alinéa 12 k) [44] L’alinéa 12 k) de la nouvelle réponse est libellé ainsi :
+[traduction]
+les MacNaughton n’étaient pas des grossistes en produits du tabac, mais juste un intermédiaire ou un instrument par l’entremise duquel l’appelante fournissait les produits du tabac aux [tiers acheteurs] et recevait parfois de ces derniers un paiement pour ces fournitures;
+[45] C’est là une conclusion, et non un énoncé de fait. En conséquence, je le radierai.
+[46] Je signale qu’à l’audience l’avocat de LBL a laissé entendre que le fait de conclure que quelque chose est [traduction] « un intermédiaire ou un instrument » est une conclusion mixte de fait et de droit. Je ne suis pas d’accord. Je ne suis au courant d’aucun critère juridique auquel il faudrait satisfaire pour pouvoir conclure qu’une personne est un intermédiaire ou un instrument. Ma décision de radier l’alinéa 12 k) n’a pas été influencée par cet argument.
+Le paragraphe 19 [47] Le paragraphe 19 réitère essentiellement l’alinéa 12 k), mais il le fait dans la partie de la nouvelle réponse qui est intitulée [traduction] « Dispositions législatives, moyens invoqués et conclusions recherchées ». Il s’agit là d’un endroit convenable pour une conclusion.
+[48] À mon avis, l’intimée a plaidé suffisamment de faits pour que le juge du procès, s’il estime que ces derniers sont véridiques, puisse tirer la conclusion énoncée au paragraphe 19. Il n’y a pas lieu selon moi de le radier.
+L’alinéa 12 l) [49] L’alinéa 12 l) de la nouvelle réponse est libellé ainsi :
+[traduction]
+subsidiairement, les MacNaughton ont convenu d’agir en tant que mandataires ou fiduciaires de l’appelante et des [tiers acheteurs] à l’égard des opérations;
+[50] Il convient de radier cet alinéa, et ce, pour un certain nombre de raisons différentes. Premièrement, je ne vois pas comment on peut plaider un énoncé de fait à titre subsidiaire. Un fait est véridique, ou il ne l’est pas. Il est possible qu’une série donnée de faits donne lieu à des conclusions juridiques subsidiaires, mais il ne peut pas y avoir de faits subsidiaires.
+[51] Deuxièmement, à l’évidence, l’intimée n’a pas d’éléments de preuve à l’appui de cette affirmation. Si c’était le cas, elle ne serait pas incertaine quant au fait de savoir s’il s’agissait d’une entente pour agir comme mandataire ou d’une entente pour agir comme fiduciaire, pas plus qu’elle serait incertaine quant au fait de savoir si l’entente était conclue entre les MacNaughton et LBL ou les MacNaughton et les tiers acheteurs. Elle aurait aussi pu répondre aux demandes de précisions de LBL. L’intimée semble espérer pouvoir se servir du processus de l’interrogatoire préalable pour se lancer dans une recherche à l’aveuglette sur ce point.
+[52] Enfin, comme l’intimée n’a aucune preuve de l’existence d’une entente, ce qu’elle plaide en réalité est que les MacNaughton étaient des mandataires ou des fiduciaires. La question de savoir si une personne est un mandataire ou un fiduciaire est une question mixte de fait et de droit, et il ne faut donc pas la plaider comme s’il s’agissait d’un fait.
+[53] Dans sa plaidoirie, l’intimée n’a pas contesté de manière sérieuse les points qui précèdent. Au vu de tout ce qui précède, je radierai l’alinéa 12 l).
+Le paragraphe 20 [54] Le paragraphe 20 est la partie du plaidoyer de l’intimée où figurent les arguments relatifs au statut de fiduciaire et de mandataire. L’alinéa 12 l) de la nouvelle réponse était la seule prétendue affirmation de fait qui aurait pu étayer directement le paragraphe 20. Comme j’ai radié l’alinéa 12 l), je radierai également le paragraphe 20.
+L’alinéa 12 j) [55] L’alinéa 12 j) de la nouvelle réponse est libellé ainsi :
+[traduction]
+l’appelante savait ou aurait dû savoir que les MacNaughton n’avaient pas de permis de la province de l’Ontario en tant que grossistes en produits du tabac;
+[56] LBL est d’avis qu’il y a lieu de radier l’alinéa 12 j) parce que les MacNaughton n’étaient pas obligés d’obtenir de la province un permis de grossiste en produits du tabac et que, de ce fait, cet alinéa est trompeur. L’intimée est d’avis que les MacNaughton étaient tenus de détenir un permis et que cet alinéa est donc pertinent. Essentiellement, LBL voudrait que je tranche, dans le cadre d’une requête en radiation, la question mixte de fait et de droit qui consiste à savoir si les MacNaughton étaient tenus d’être inscrits ou non. Je ne suis pas disposé à le faire. Il est préférable de laisser cette question au juge du procès. Même si LBL a raison et que les MacNaughton n’étaient pas tenus d’être inscrits, je ne vois pas quel préjudice on causerait à LBL en laissant cet alinéa dans la nouvelle réponse et en attendant que la question soit tranchée au procès. Son existence risque peu de mener, lors d’un interrogatoire préalable, à des questions importantes qui, en tout état de cause, ne seraient pas présentes. Par ailleurs, il y a peu de risques que l’alinéa induise le juge du procès en erreur, car LBL soulèvera la question à l’instruction.
+L’alinéa 12 y) [57] L’alinéa 12 y) de la nouvelle réponse est libellé ainsi :
+[traduction]
+l’appelante a participé sciemment au stratagème, dont l’objet était de donner faussement l’impression qu’un Indien inscrit participait aux opérations à titre de grossiste en produits du tabac, et ce, dans le but d’éviter d’avoir à percevoir et à verser la TPS;
+[58] LBL formule un certain nombre d’objections à l’égard de cet alinéa. Elle conteste tout ce que contient l’alinéa après le mot [traduction] « stratagème ». Elle soutient qu’on ne peut pas conclure quel était l’objet visé sans déterminer au préalable que les produits du tabac n’étaient pas vendus aux MacNaughton et que cette détermination oblige à tirer une conclusion mixte de fait et de droit. Je ne suis pas d’accord avec LBL, pour les raisons évoquées dans mon analyse qui précède à propos de l’alinéa 12 d).
+[59] Compte tenu de tout ce qui précède, il n’y a pas lieu selon moi de radier l’alinéa 12 y).
+[60] Cela dit, je pense que le moment est bien choisi pour traiter d’un doute que j’ai au sujet du mot [traduction] « stratagème ». Ce dernier est défini à l’alinéa 12 g), qui est libellé ainsi :
+[traduction]
+l’appelante a déclaré que des Indiens inscrits, c’est-à-dire [les MacNaughton], ont acheté les produits du tabac de l’appelante et que les [tiers acheteurs] ont acheté les produits du tabac des MacNaughton (le « stratagème »);
+[61] L’alinéa 12 g) est mal rédigé. On ne sait pas exactement quelle partie de l’alinéa 12 g) met en cause un stratagème. Vraisemblablement, ce ne peut pas être LBL qui vendait les produits du tabac aux MacNaughton, qui les vendaient ensuite aux tiers acheteurs, car l’intimée est d’avis que cela n’a pas eu lieu. Comment une chose qui n’a pas eu lieu peut-elle être un stratagème? Il est difficile aussi de voir en quoi une déclaration, même fausse, pourrait être un stratagème.
+[62] À l’audience, LBL a déclaré qu’elle ne contestait pas le passage [traduction] « l’appelante a participé sciemment au stratagème », qui figure à l’alinéa 12 y), car elle considère que le mot [traduction] « stratagème », qui a été défini, décrit que LBL a vendu les produits du tabac aux MacNaughton, qui les ont ensuite vendus aux tiers acheteurs, ce qui, selon LBL, est exactement ce qui s’est passé.
+[63] Je prévois que le sens du mot [traduction] « stratagème » deviendra un point de discorde entre les parties quand celles-ci entreprendront leurs interrogatoires préalables et je trouve donc utile de préciser un point à ce stade-ci. Malgré la formulation moins qu’idéale, il me paraît évident, dans le contexte de la nouvelle réponse dans son ensemble, que l’intimée voulait que le mot [traduction] « stratagème » désigne le fait que LBL qualifiait les MacNaughton d’acheteurs des produits du tabac, plutôt que d’intermédiaires ou d’instruments. Les parties considéreront qu’il s’agit là du sens à donner au mot [traduction] « stratagème » pour les interrogatoires préalables qu’elles effectueront.
+Les paragraphes 23 et 24 [64] Le paragraphe 23 explique pourquoi l’intimée dit qu’elle peut établir une cotisation pour les périodes en question même si celles-ci sont frappées de prescription. Le paragraphe 24 énonce pourquoi l’intimée est d’avis qu’il faudrait maintenir les pénalités pour faute lourde. J’ai traité d’un certain nombre d’objections de LBL à l’égard de ces deux paragraphes dans mon analyse de certains des paragraphes ou alinéas que j’ai déjà radiés. La dernière objection de LBL à l’égard de ces paragraphes est ancrée dans son objection à l’alinéa 12 d), et sa thèse est la suivante : sans l’alinéa 12 d), l’intimée n’avait pas un fondement factuel suffisant pour montrer que LBL avait fait une présentation erronée, et encore moins qu’elle avait commis une faute lourde. Comme j’ai conclu que l’alinéa 12 d) sera conservé, il n’y a pas lieu de radier les paragraphes 23 et 24. Je signale toutefois que, même si j’avais radié l’alinéa 12 d), j’aurais tout de même conclu que les faits restants, tels qu’ils ont été plaidés, auraient suffi pour que le juge du procès, s’il déterminait qu’ils étaient véridiques, arrive à la conclusion énoncée aux paragraphes 23 et 24.
+Les concessions [65] À l’audition de la requête, l’intimée a concédé qu’il fallait radier le passage suivant : [traduction] « dans la mesure où les faits se rapportent à Roberta MacNaughton », au paragraphe 1 de la nouvelle réponse.
+[66] Les parties ont également réglé à l’audition de la requête les questions relatives au paragraphe 3 de la nouvelle réponse. LBL souhaitait au départ faire radier la référence au paragraphe 85 de l’avis d’appel qui figurait dans ce paragraphe, mais elle changé d’avis. L’intimée a concédé que le passage suivant : [traduction] « 18 dans la mesure où les allégations de fait se rapportent à des personnes autres que Roberta MacNaughton » doit être radié du paragraphe 3 de la nouvelle réponse.
+Résumé [67] Compte tenu de tout ce qui précède, la requête de LBL est accueillie en partie. Sont radiés les éléments suivants de la nouvelle réponse :
+a) Le passage suivant : [traduction] « dans la mesure où les faits se rapportent à Roberta MacNaughton », au paragraphe 1;
+b) Le passage suivant : [traduction] « 18 dans la mesure où les allégations de fait se rapportent à des personnes autres que Roberta MacNaughton », au paragraphe 3;
+c) le paragraphe 7;
+d) le paragraphe 8;
+e) le paragraphe 9;
+f) la totalité du préambule du paragraphe 12, à l’exception du passage suivant : [traduction] « le ministre s’est fondé sur les faits suivants : »;
+g) l’alinéa 12 k);
+h) l’alinéa 12 l);
+i) le paragraphe 20.
+[68] L’intimée est autorisée à modifier les paragraphes 7, 8 et 9 de la nouvelle réponse conformément aux présents motifs du jugement, et ce, en déposant une nouvelle réponse modifiée.
+Le processus et les délais à respecter [69] L’intimée est tenue de signifier et de déposer sa nouvelle réponse modifiée dans les 30 jours suivant la date des présents motifs du jugement.
+[70] Si LBL souhaite signifier et déposer un avis d’appel modifié à deux reprises en vue de corriger les problèmes de rédaction que présentent les paragraphes 7, 8 et 9, elle est tenue de le faire dans les 30 jours suivant la date à laquelle l’intimée aura déposé sa nouvelle réponse modifiée.
+[71] Si l’intimée souhaite signifier et déposer une nouvelle réponse modifiée à deux reprises en vue de répondre aux changements apportés aux paragraphes 7, 8 et 9 de l’avis d’appel modifié à deux reprises, elle est tenue de le faire dans les 30 jours suivant la date à laquelle LBL aura déposé son avis d’appel modifié à deux reprises.
+Les dépens [72] Les résultats obtenus dans le cadre de la présente requête sont partagés. Les deux parties sont à blâmer pour le fait que leurs actes de procédure ont été rédigés d’une manière moins qu’idéale. À mon avis, elles auraient dû être en mesure de régler par elles-mêmes leurs divergences au sujet des paragraphes 1, 3, 7, 8 et 9 et du préambule du paragraphe 12. L’intimée a défendu avec succès sa thèse principale, mais, si elle a été obligée de le faire, c’est parce qu’au départ elle a adopté des thèses vagues et contradictoires et a refusé obstinément de s’engager avant le milieu de la seconde audience, quand elle a pris conscience de la direction dans laquelle le vent soufflait. Compte tenu de tout ce qui précède, j’accorde les dépens à LBL.
+[73] Les parties ont un délai de 30 jours soit pour informer la Cour qu’elles se sont entendues sur les dépens relatifs à la présente requête, soit pour lui soumettre leurs observations écrites sur la question. Dans leurs efforts pour arriver à un règlement, les parties voudront peut-être garder à l’esprit qu’à mon avis les dépens appropriés seraient d’un montant nettement supérieur à celui que prévoit le tarif, mais nettement inférieur à une indemnisation substantielle.
+Signé à Ottawa, Canada, ce 14e jour de mai 2015.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 10e jour de septembre 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 115
+NO DU DOSSIER DE LA COUR :
+2012-4371(GST)G
+INTITULÉ :
+LBL HOLDINGS LIMITED
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 10 février 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 14 mai 2015
+COMPARUTIONS :
+Avocats de l’appelante :
+Me David D. Robertson
+Me Amy Walsh
+Avocats de l’intimée :
+Me André LeBlanc
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+David D. Robertson
+Amy Walsh
+Cabinet :
+Couzin Taylor s.r.l./S.E.N.C.R.L.
+Calgary (Alberta)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je suis conscient d’avoir ordonné antérieurement que l’intimée ne soit pas autorisée de nouveau à modifier la nouvelle réponse. L’historique de la présente affaire est le suivant. L’intimée a déposé une réponse. LBL a ensuite déposé une requête en radiation. À l’audition de cette requête, l’intimée a produit une ébauche de réponse modifiée qu’elle entendait déposer. À l’audience, la grande majorité des arguments ont été axés sur le caractère adéquat de cette ébauche. En fin de compte, j’ai radié la réponse initiale et l’intimée a décidé de ne pas déposer l’ébauche de réponse modifiée. J’ai estimé que l’intimée avait maintenant eu deux chances de rectifier les choses : la première quand elle avait déposé la réponse et la seconde quand elle avait produit l’ébauche de réponse modifiée. En conséquence, lorsque j’ai autorisé l’intimée à déposer une troisième version (c.-à-d. la nouvelle réponse), dans mon ordonnance, j’ai précisé qu’elle n’aurait pas droit à une autre autorisation de modification. En rendant cette ordonnance, mon intention était d’éviter que l’intimée dispose d’une quatrième occasion pour apporter des modifications importantes à la réponse, et non de l’empêcher de la modifier légèrement afin de s’assurer de sa compréhensibilité.

@@ -1,0 +1,131 @@
+Title: 1418499 Ontario Ltd c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29251/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-161-29251-1418499-ontario-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-20
+
+# 1418499 Ontario Ltd c. La Reine
+
+- Citation: 2009 CCI 161
+- Decision date: 2009-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6991, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1418499 Ontario Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-20
+Référence neutre
+2009 CCI 161
+Numéro de dossier
+2008-920(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-920(GST)I
+ENTRE :
+1418499 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+Kwabena Asubonteng
+Avocate de l’intimée :
+Me Nikki Kumar
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelante en vertu de la Loi sur la taxe d’accise pour la période allant du 1er janvier 2003 au 31 décembre 2004 est rejeté.
+Signé à Toronto (Ontario), ce 20e jour de mars 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI161
+Date : 20090320
+Dossier : 2008-920(GST)I
+ENTRE :
+1418499 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La société 1418499 Ontario Ltd. interjette appel d’une cotisation établie à son égard en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er janvier 2003 au 31 décembre 2004.
+[2] Dans les déclarations de TPS qu’elle a produites pour la période en cause, l’appelante a déclaré une valeur de taxe nette globale négative de 5 341,25 $. Cette somme était constituée d’un montant de TPS à percevoir nul et de crédits de taxe sur les intrants (les « CTI ») de 5 341,25 $.
+[3] Dans la cotisation en cause, le ministre du Revenu national (le « ministre ») a refusé à l’appelante la déduction des CTI en partant du principe que celle‑ci avait omis de fournir les documents requis par le ministre afin de justifier les déductions demandées.
+[4] Les questions en litige sont de savoir si la déduction des CTI devrait être refusée, et si l’appelante s’est vue à juste titre imposer une pénalité et des intérêts.
+[5] Il ressort de la preuve que l’appelante n’a pas fourni de documents à l’Agence du revenu du Canada justifiant les CTI demandés, et ce, en dépit du fait qu’elle ait été invitée à plusieurs reprises à le faire.
+[6] À l’audience, les seuls documents que l’appelante a présentés étaient des états des résultats manuscrits portant sur les deux années en cause.
+[7] L’appelante prétend que ces états des résultats ont trait à une petite entreprise de messagerie que Kwabena Asubonteng exploitait pour le compte de l’appelante. M. Asubonteng est l’époux de Lydia Kontor, qui était la présidente et l’unique actionnaire de l’appelante. D’après leurs témoignages, l’entreprise a été exploitée de 2000 à 2005, mais a maintenant cessé ses activités.
+[8] Si on se fie aux états des résultats, l’entreprise a enregistré des revenus dépassant tout juste 30 000 $ et des dépenses légèrement supérieures à ce même montant pour chacune des années en cause. Nombre de ces prétendues dépenses font l’objet des demandes relatives aux CTI.
+[9] Le ministre reconnaît qu’aucune TPS ne devait être perçue sur les montants facturés par l’appelante, dans la mesure où les services de messagerie sont détaxés à titre de service de transport de marchandise.
+Analyse
+[10] Il revient à l’appelante de démontrer qu’elle a le droit de déduire les CTI de son revenu. À cette fin, celle‑ci doit prouver qu’elle a payé la TPS sur des dépenses engagées en rapport avec une entreprise, et qu’elle a obtenu certains documents justificatifs avant de produire les déclarations de TPS, conformément aux exigences du paragraphe 169(4) de la Loi.
+[11] À ces deux égards, la preuve qui a été présentée ne permet absolument pas à l’appelante de s’acquitter du fardeau de la preuve.
+[12] Les seuls documents justificatifs dont l’appelante disposait à l’audience étaient les états des résultats manuscrits. Ces documents auraient facilement pu avoir été fabriqués de toute pièce, et je ne leur ai accordé qu’une importance des plus minimes. Je tiens aussi à ajouter que certaines des dépenses dont il est question dans les états des résultats (l’essence et les repas) consistaient en une estimation des dépenses quotidiennes. Cela porte à croire qu’il y avait des lacunes dans la tenue des livres.
+[13] De plus, aucun témoin indépendant n’est venu corroborer la version de l’appelante. Cette dernière prétend que c’est son comptable qui a préparé les états des résultats en se fondant sur les documents qu’il avait à sa disposition. L’appelante laisse entendre que ces documents ont par la suite été perdus au cours d’un déménagement qui a eu lieu en avril 2006. La moindre des choses aurait été que le comptable en question témoigne afin d’appuyer les dires de l’appelante.
+[14] En outre, et c’est un élément déterminant, les témoignages de M. Asubonteng et de Mme Kontor étaient loin d’être suffisamment détaillés ou convaincants pour permettre à l’appelante de s’acquitter du fardeau qui lui incombait. M. Asubonteng a comparu pour le compte de l’appelante et Mme Kontor a été citée à comparaître par le ministre. Non seulement leurs témoignages étaient‑ils très succincts, mais ils étaient incompatibles sur certains points, comme par exemple en ce qui a trait au fait de savoir si les dépenses avaient été payées par chèque ou en argent comptant, ou à la question de savoir si les documents justificatifs étaient conservés dans une boîte ou dans un sac.
+[15] Par conséquent, je ne suis pas convaincue que les dépenses que l’appelante a déduites de son revenu aient été engagées, ou que l’appelante ait obtenu les documents requis, conformément aux exigences du paragraphe 169(4) de la Loi.
+[16] Je me penche à présent sur la question de la pénalité et des intérêts. L’appelante n’a pas spécifiquement soulevé cette question, mais l’avocate de l’intimée l’a examinée. Dans la cotisation, le ministre a imposé à l’appelante une pénalité et des intérêts s’élevant respectivement à 550,74 $ et à 220,43 $. Ces deux montants ont été imposés à l’appelante en application du paragraphe 280(1) de la Loi.
+[17] D’après le paragraphe 12 de la réponse du ministre, la pénalité et les intérêts ont été imposés à l’appelante parce que celle‑ci a omis de [traduction] « déclarer, de verser ou de payer sa taxe nette conformément aux exigences de la Loi ».
+[18] En l’espèce, il n’est pas justifié d’imposer une pénalité ou des intérêts en application du paragraphe 280(1) de la Loi.
+[19] Premièrement, je note qu’au paragraphe 280(1) de la Loi, il n’est nullement fait allusion à une omission de déclaration. Il est seulement question de l’omission de verser ou de payer un montant.
+[20] Deuxièmement, en ce qui a trait aux hypothèses formulées par le ministre, la taxe nette est nulle. L’appelante n’a pas omis de la verser ou de la payer.
+[21] Après que j’ai soulevé cette question au début de l’audience, l’avocate de l’intimée a modifié le fondement de l’imposition de la pénalité et des intérêts, et a présenté des éléments de preuve.
+[22] D’après la position modifiée de l’avocate de l’intimée, l’omission n’avait aucun rapport avec la taxe nette. Il était plutôt question de l’omission de rembourser les CTI que l’appelante s’était précédemment vu restituer. L’article 230.1 de la Loi exige un tel remboursement.
+[23] La preuve que le ministre a présentée à cet égard comprenait un résumé généré par ordinateur de l’historique des paiements de TPS de l’appelante. D’après ce document, l’appelante a reçu des chèques de remboursement des CTI qu’elle demande. L’appelante ne nie pas avoir reçu ces montants.
+[24] D’après l’avis de cotisation, ces montants étaient inclus dans la cotisation à titre de montants exigibles, ce que l’alinéa 296(1)d) de la Loi prévoit spécifiquement.
+[25] Bien qu’il soit regrettable que la question en litige n’ait pas été correctement traitée dans la réponse, je ne pense pas qu’il ait été préjudiciable à l’appelante de laisser le ministre en faire la preuve lors de l’audience.
+[26] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 20e jour de mars 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 27e jour d’avril 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2009CCI161
+NO DU DOSSIER DE LA COUR :
+2008-920(GST)I
+INTITULÉ :
+1418499 Ontario Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 mars 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge J. Woods
+DATE DU JUGEMENT :
+Le 20 mars 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+Kwabena Asubonteng
+Avocate de l’intimée :
+Me Nikki Kumar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+John S. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

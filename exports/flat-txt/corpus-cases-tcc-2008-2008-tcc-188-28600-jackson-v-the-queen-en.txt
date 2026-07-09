@@ -1,0 +1,143 @@
+Title: Jackson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28600/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-188-28600-jackson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-14
+
+# Jackson v. The Queen
+
+- Citation: 2008 TCC 188
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1067, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-14
+Neutral citation
+2008 TCC 188
+File numbers
+2007-3958(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3958(IT)I
+BETWEEN:
+BERNADINE JACKSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 12, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessments made under subsection 163(2) of the Income Tax Act for the 2000 and 2001 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of April 2008.
+“Paul Bédard”
+Bédard J.
+Citation: 2008TCC188
+Date: 20080414
+Docket: 2007-3958(IT)I
+BETWEEN:
+BERNADINE JACKSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the informal procedure from the reassessments issued by the Minister of National Revenue (the « Minister ») in accordance with the Income Tax Act (the “Act”) for the appellant’s 2000 and 2001 taxation years.
+[2] The issues to be decided are:
+(a) whether the Minister was justified in assessing pursuant to subsection 163(2) of the Act penalties with respect to the fraudulent donation receipts that were used in order to claim non-refundable tax credits for the 2000 and 2001 taxation years;
+(b) whether the Court has a statutory discretion to grant a reduction of the amount of interest assessed.
+[3] The facts on which the Minister relied in determining the appellant’s tax liability for the 2000 and 2001 taxation years are set out in paragraph 10 of the Reply to the Notice of Appeal, as follows:
+(a) In filing her Income tax returns for her 2000 and 2001 taxation years, the Appellant claimed total donation amounts of $3,718 in 2000 and $5,320 in 2001.
+(b) Following an investigation of the tax preparer engaged by the Appellant for the preparation of the Income tax returns for the 2000 and 2001 taxation years the Minister concluded that the donation receipts as issued for the L’Oratoire Saint-Joseph du Mont-Royal and Our Lady Fatima Parish (hereinafter “the donation receipts”) had been prepared and claimed fraudulently;
+(c) The L’Oratoire Saint-Joseph du Mont-Royal and Our Lady Fatima Parish confirmed to the Minister that the donation receipts as claimed by the Appellant were not donations that they had received and that they had not issued the donation receipts to the Appellant.
+[4] The facts on which the Minister relied to assess the penalties pursuant to subsection 163(2) of the Act are set out in paragraph 12 of the Reply to the Notice of Appeal, as follows:
+(a) The Appellant had signed her Income tax returns for the 2000 and 2001 taxation years;
+(b) The Charitable organizations for which the donation amounts that were refused confirmed to the Minister that they had not received such amounts nor issued such receipts to the Appellant;
+(c) The Appellant should have been aware of the fraudulent donation receipts upon the review of her Income tax returns for the taxation years as such receipts were an integral part of the Income tax returns that she had signed and she should have noted that the receipts were not receipts that she had submitted to the preparer of her Income tax returns;
+(d) The Appellant would have been aware that she would obtain a greater reimbursement of tax by engaging the particular tax preparer whom she engaged through the referral to the preparer by her acquaintances;
+(e) The Appellant confirmed to the Minister that she did not make the donations as claimed;
+(f) The Appellant admitted that she paid a greater than normal amount for the preparation of her Income tax returns by the preparer;
+(g) The amounts of the donation receipts allowed the Appellant to increase her Non-refundable tax credits for the 2000 taxation year in the amount of $991.56 and for the 2001 taxation year in the amount of $1,518.05;
+(h) By claiming the donation receipts the Appellant reduced her income tax payable on her taxable income by 34% and 55% respectively for the 2000 and 2001 taxation years;
+(i) The amounts of the donation receipts and the reduction to her income tax payable because of such donation receipts are significant for the Appellant.
+[5] The Notice of Appeal reads as follows:
+. . .
+This letter is concerning the appeal to my case for the tax years of 2000 and 2001. An assessement [sic] was made on june [sic] 11 2007 for the taxation years of 2000 and 2001, a copy of that assessement [sic] is included with this letter.
+I along with hundreds of other people had my taxes prepared at what I thought was a legitimate company called Gaavi Taxes. They did the work [sic] and I mailed in the income tax forms immediately after leaving their office as I had already missed the deadline for income tax submissions. I eventually received a refund for both of those years. wasnt [sic] until this year when Revenue Canada contacted me that I found out that something was wrong with those tax returns. I have since found out that the tax company was fraudulently submitting false donation reciepts [sic] along with the actual legitimate documents that I had given to them. Because of those false reciepts [sic] my refund was larger than I should have recieved [sic].
+If i [sic] had known that Iwas [sic] supposed to repay the government I would have done so. I have always done my income taxes legally and promptly paid back whenever it occurred that it was necessary. I have never been in any [sic] legal trouble before and would not have purposely done something to defraud the government and believe that I am a victim of a crime. I have since tried to contact the tax company in question and speak to someone about the situation but have been unsuccessful in locating them. This company is now under investigation for fraud against the government. I am currently working with Mr. Claude Ayotte from the Enforcements [sic] Division of Revenue Canada in order to find the tax company and bring them to justice. He is willing to give you any additional information about my case, please contact him.
+Because the refund error took place 6 years ago interest and penalty fees have been added. I am in agreement that any money that I shouldn’t have recieved [sic] should be payed [sic] back but I believe that a reduction in the penalty and interest fees is necessary because myself and all the other customers of this tax preparing company are victims of the company’s illegal activities. Those donation reciepts [sic] were not given to them by me and it would not be fair for innocent people to pay for their wrong doings [sic]. As a victim I am asking for leniancy [sic].
+Since finding out that I owed a balance to revenue [sic] Canada I have taken serious measures to repay the entire amount and have successfully done so.
+Thank you for considering my case.
+. . .
+[6] The witnesses in this case were: for the appellant, the appellant herself, and for the respondent, Mr. François Bernier, Ms. Sonia Lavallée, Mr. Edwin Ricafort and Ms. Diane Charette.
+[7] In her testimony, the appellant essentially reiterated the facts stated in the Notice of Appeal. We also learnt from the appellant’s testimony that:
+(a) she obtained a degree in nursing from Vanier College;
+(b) in her 2000 taxation year, she worked as a nurse at the Jewish General Hospital and as a waitress at a restaurant named the “Waldorf”;
+(c) in her 2001 taxation year, she worked as a nurse at the Jewish General Hospital;
+(d) she was not referred to Gaavi Tax Services (“Gaavi”) by her acquaintances; she explained that she found a Gaavi’s business card lying on the counter of a restaurant in her neighbourhood and decided to have her tax returns prepared by Gaavi simply because their office was in her immediate neighbourhood;
+(e) she does not remember the amount of the fees she paid for the services rendered by Gaavi;
+(f) she was not in the least suspicious about the legality of the tax refunds she received since the thought that her employer had probably withheld too much tax on her salary;
+(g) her net income for 2000 amounted to $26,230, all of which was employment income;
+(h) her net income for 2001 amounted to $29,418, all of which was also employment income;
+(i) her tax refund for 2000 amounted to $915;
+(j) her tax refund for 2001 amounted to $1,577.
+[8] We also learnt from the evidence submitted that:
+(a) in 2000, 2001 and 2002, about 1200 taxpayers used Gaavi’s services for the preparation of their income tax returns, and all of them submitted fraudulent donation receipts in those years;
+(b) the mastermind behind this huge tax fraud and the real owner of Gaavi’s business left the country when the Minister started his inquiry.
+[9] Mr. Edwin Ricafort testified that the fees he paid to Gaavi for having his tax returns prepared were a percentage of the amounts of the fraudulent donation receipts submitted.
+[10] In Venne v. The Queen, [1984] C.T.C. 223, 84 DTC 6247 (F.C.T.D.), Strayer J. made the following comment on the meaning of gross negligence for the purposes of assessing penalties under subsection 163(2) of the Act:
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[11] In DeCosta v. The Queen, 2005 DTC 1436 (T.C.C., informal procedure), Bowman C.J. referred to the decision in Udell v. M.N.R., [1969] C.T.C. 704, 70 DTC 6019 (Ex. Ct.), and two decisions by Judge Rip (as he then was) of this Court, and made the following comments:
+[9] I have no difficulty in reconciling the decision of Cattanach, J. with those of Rip, J. They each depend on a finding of fact by the court with respect to the degree of involvement of the taxpayers. The question in every case is, leaving aside the question of wilfulness, which is not suggested here,
+(a) "was the taxpayer negligent in making a misstatement or omission in the return?" and
+(b) "was the negligence so great as to justify the use of the somewhat pejorative epithet ‘gross’?"
+This is, I believe, consistent with the principle enunciated by Strayer, J. in Venne v. The Queen, 84 DTC 6247.
+. . .
+[11] In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[12] What do we have here? A highly intelligent man who declares $30,000 in employment income and fails to declare gross sales of about $134,000 and net profits of $54,000. While of course his accountant must bear some responsibility I do not think it can be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[Emphasis added.]
+[12] In this case, I am of the opinion that the appellant did not willfully make false statements. However, I am of the view that the appellant’s negligence was so great as to justify the use of the somewhat pejorative epithet “gross”. The reduction to her income tax payable obtained through the false statements was significant in relation to the income earned. The false donation receipts allowed the appellant to increase her non-refundable tax credits for the 2000 taxation year by $991, and for the 2001 taxation year, by $1,518. I would point out that by claiming the amounts of the false donation receipts the appellant reduced her income tax payable on her taxable income by 34% and 55% for the 2000 and 2001 taxation years respectively. The amounts of the donation receipts and the reduction of her income tax payable because of those receipts were significant for the appellant. Any quick review of the line items for charitable donations in her 2000 and 2001 tax returns and of the receipts attached to those tax returns, which she signed and mailed, would have shown the false statements and the false receipts. The false statements and receipts should have been sufficiently obvious that a woman of the appellant’s education and intellect would have noticed them. In my view, the appellant’s failure to detect the false statements and the false receipts when she signed and mailed the tax returns was more than simple carelessness. The appellant’s attitude in not examining at all her tax returns for those years before signing them was, in my view, so cavalier that it went beyond simple carelessness. The late filing of her 1998, 2000, 2001 and 2002 tax returns and the failure to report her employment income for 1994 also reflect her indifference as to whether the law is complied with or not. In my view, the appellant cannot exculpate herself by the fact that she blindly entrusted her tax affairs to Gaavi.
+[13] I am also of the opinion that the Court has no statutory discretion to grant a reduction of the interest assessed for the years in question.
+[14] As a result the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of April 2008.
+“Paul Bédard”
+Bédard J.
+CITATION: 2008TCC188
+COURT FILE NO.: 2007-3958(IT)I
+STYLE OF CAUSE: BERNADINE JACKSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: March 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF AMENDED JUDGMENT: April 30, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,212 @@
+Title: Messier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28708/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-349-28708-messier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-11
+
+# Messier c. La Reine
+
+- Citation: 2008 CCI 349
+- Decision date: 2008-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1466, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Messier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-11
+Référence neutre
+2008 CCI 349
+Numéro de dossier
+2007-3624(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3624(IT)I
+ENTRE :
+JEAN-CLAUDE MESSIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Pierre Messier
+(2007‑4570(IT)I) le 5 juin 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté et la cotisation est confirmée, sur la base que la somme de 15 000 $ reçue par l'appelant au cours de l’année d’imposition 2005, constitue une rémunération provenant d’une charge, laquelle est imposable aux termes de l’alinéa 3a), de l’article 5 et de la définition du mot « charge » à l’article 248 de la LIR.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2007-4570(IT)I
+ENTRE :
+PIERRE MESSIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Jean‑Claude Messier
+(2007‑3624(IT)I) le 5 juin 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté et la cotisation est confirmée, sur la base que la somme de 15 000 $ reçue par l'appelant au cours de l’année d’imposition 2005, constitue une rémunération provenant d’une charge, laquelle est imposable aux termes de l’alinéa 3a), de l’article 5 et de la définition du mot « charge » à l’article 248 de la LIR.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008CCI349
+Date : 20080611
+Dossiers : 2007-3624(IT)I
+2007-4570(IT)I
+ENTRE :
+JEAN-CLAUDE MESSIER et
+PIERRE MESSIER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’appels entendus sur preuve commune selon la procédure informelle. Les deux appelants s'opposent aux cotisations par lesquelles le ministre du Revenu national (le « Ministre ») a inclus dans leur revenu respectif pour l’année d’imposition 2005, un montant de 15 000 $ chacun, qu’ils auraient reçu pour les services qu’ils ont rendus comme liquidateurs de la succession de leur oncle, M. Raoul Messier, décédé le 21 mars 2005.
+[2] Les appelants reconnaissent avoir agi comme liquidateurs de la succession de Raoul Messier, et avoir reçu chacun ladite somme de 15 000 $ le 18 mai 2005. Ce qu’ils contestent toutefois, c’est l’imposition de cette somme. Ils considèrent qu’il s’agit d’un legs particulier que leur oncle leur a attribué par testament, et non pas une rémunération pour services rendus.
+[3] Il ne semble pas contesté que, si cette somme se qualifie effectivement comme une rémunération pour l’exécution de leur charge comme liquidateur de la succession, cette somme devienne imposable entre leurs mains. La Cour suprême du Canada a effectivement reconnu dans un ancien arrêt que la rémunération additionnelle reçue par un légataire pour l’exécution de sa charge comme exécuteur testamentaire (liquidateur selon le nouveau Code civil du Québec (« Code civil »)) était imposable aux termes de la Loi de l’impôt sur le revenu (« LIR ») (voir MacKenzie Estate c. Canada, [1937] S.C.R. 192).
+[4] Une telle rémunération serait imposable aux termes de l’alinéa 3a) et de l’article 5 de la LIR ainsi que de la définition de « charge » à l’article 248 de la LIR. Ces dispositions législatives se lisent comme suit :
+ARTICLE 3 : Revenu pour l’année d’imposition
+Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l'année (autre qu'un gain en capital imposable résultant de la disposition d'un bien) dont la source se situe au Canada ou à l'étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+ARTICLE 5 : Revenu tiré d’une charge ou d’un emploi.
+(1) Sous réserve des autres dispositions de la présente partie, le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l’année.
+ARTICLE 248 : Définitions
+(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« charge » Poste qu'occupe un particulier et qui lui donne droit à un traitement ou à une rémunération fixes ou vérifiables, y compris une charge judiciaire, la charge de ministre de la Couronne, la charge de membre du Sénat ou de la Chambre des communes du Canada, de membre d'une assemblée législative ou de membre d'un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu au suffrage universel ou bien choisi ou nommé à titre représentatif, et comprend aussi le poste d'administrateur de société; « fonctionnaire » ou « cadre » s'entend de la personne qui détient une charge de ce genre, y compris un conseiller municipal et un commissaire d'école.
+[5] Selon le Code civil, la tâche du liquidateur constitue effectivement une charge pour laquelle il peut avoir droit à une rémunération s’il est par ailleurs déjà un héritier et que le testateur y pourvoie. Les dispositions applicables du Code civil sont les articles 783 et suivants :
+CHAPITRE DEUXIÈME - DU LIQUIDATEUR DE LA SUCCESSION
+SECTION I - DE LA DÉSIGNATION ET DE LA CHARGE DU LIQUIDATEUR
+783. Toute personne pleinement capable de l'exercice de ses droits civils peut exercer la charge de liquidateur.
+La personne morale autorisée par la loi à administrer le bien d'autrui peut exercer la charge de liquidateur.
+784. Nul n'est tenu d'accepter la charge de liquidateur d'une succession, à moins qu'il ne soit le seul héritier.
+785. La charge de liquidateur incombe de plein droit aux héritiers, à moins d'une disposition testamentaire contraire; les héritiers peuvent désigner, à la majorité, le liquidateur et pourvoir au mode de son remplacement.
+786. Le testateur peut désigner un ou plusieurs liquidateurs; il peut aussi pourvoir au mode de leur remplacement.
+La personne désignée par le testateur pour liquider la succession ou exécuter son testament a la qualité de liquidateur, qu'elle ait été désignée comme administrateur de succession, exécuteur testamentaire ou autrement.
+787. Les personnes qui exercent ensemble la charge de liquidateur doivent agir de concert, à moins qu'elles n'en soient dispensées par le testament ou, à défaut de disposition testamentaire, par les héritiers.
+En cas d'empêchement d'un des liquidateurs, les autres peuvent agir seuls pour les actes conservatoires et ceux qui demandent célérité.
+788. Le tribunal peut, à la demande d'un intéressé, désigner ou remplacer un liquidateur, à défaut d'entente entre les héritiers ou en cas d'impossibilité de pourvoir à la nomination ou au remplacement du liquidateur.
+789. Le liquidateur a droit au remboursement des dépenses faites dans l'accomplissement de sa charge.
+Il a droit à une rémunération s'il n'est pas un héritier; s'il l'est, il peut être rémunéré, à la condition que le testament y pourvoie ou que les héritiers en conviennent.
+Si la rémunération n'a pas été fixée par le testateur, elle l'est par les héritiers ou, en cas de désaccord entre les intéressés, par le tribunal.
+790. Le liquidateur n'est pas tenu de souscrire une assurance ou de fournir une autre sûreté garantissant l'exécution de ses obligations, à moins que le testateur ou la majorité des héritiers ne l'exige, ou que le tribunal ne l'ordonne à la demande d'un intéressé qui établit la nécessité d'une telle mesure.
+Si, étant requis de fournir une sûreté, le liquidateur omet ou refuse de le faire, il est déchu de sa charge, à moins que le tribunal ne le relève de son défaut.
+791. Tout intéressé peut demander au tribunal le remplacement du liquidateur qui est dans l'impossibilité d'exercer sa charge, néglige ses devoirs ou ne respecte pas ses obligations.
+Le liquidateur continue à exercer sa charge pendant l'instance, à moins que le tribunal ne décide de désigner un liquidateur provisoire.
+792. Tout intéressé peut, si le liquidateur n'est pas désigné, tarde à accepter ou à refuser la charge, ou doit être remplacé, s'adresser au tribunal pour faire apposer les scellés, faire inventaire, nommer provisoirement un liquidateur ou rendre toute autre ordonnance propre à assurer la conservation de ses droits. Ces mesures profitent à tous les intéressés, mais ne créent entre eux aucune préférence.
+Les frais d'inventaire et de scellés sont à la charge de la succession.
+793. Les actes faits par la personne qui, de bonne foi, se croyait liquidateur de la succession sont valables et opposables à tous.
+[6] En l’instance, la question qui se pose est donc celle de savoir si la somme de 15 000 $ reçue par chacun des deux appelants constitue une rémunération pour l’exécution de leur charge (un legs rémunératoire) ou d’un legs particulier (une simple libéralité) auquel cas, la somme ainsi reçue ne serait pas imposable, puisqu’elle ne serait pas une rémunération reçue dans l’exécution d’une charge aux termes de l’article 5 de la LIR.
+[7] Pour faire une telle distinction, l’intention du testateur exprimée par la disposition testamentaire devient le meilleur guide. Voici ce que dit un premier auteur à ce sujet :
+Comment distinguer le legs rémunératoire de la simple libéralité contenue dans un legs particulier? L’intention du testateur exprimée à travers la disposition testamentaire demeure le meilleur guide, et seule une rédaction soignée et la précision des termes utilisés aideront à dégager clairement cette intention56.[1]
+____________________________
+56. M. ROY, « Chronique. La rémunération de l’exécuteur testamentaire, (1983) R.P.F.S. 206-207.
+[8] Un autre auteur s’exprime aussi :
+Il faut par conséquent apporter une certaine prudence quant à l’interprétation que l’on donne à l’ensemble des clauses retrouvées au testament, en ce qui concerne la gratification accordée à l’exécuteur testamentaire; l’intention du testateur y est pour beaucoup et ce n’est que par une rédaction soignée que cette intention se dégagera clairement des termes employés au testament prévoyant une telle rémunération.
+Ainsi, un legs spécifique à l’exécuteur testamentaire d’une somme de $ 1,000.00 ne saurait être assimilé à une rémunération si aucune référence à sa charge ne s’induit de l’ensemble des dispositions testamentaires; il faudrait en conclure qu’il s’agit d’un simple legs particulier qui a pour fondement une libéralité proprement dite. Il en va autrement si le testament prévoit que l’exécuteur testamentaire aura droit à un honoraire de $ 1,000.00 en regard du travail accompli dans le cadre de l’exécution testamentaire. Même le fait de ne pas qualifier d’honoraire cette somme de $ 1,000.00 peut laisser présager l’absence totale de gratuité si l’intention du testateur était d’assujettir le paiement à l’acceptation de l’exécution testamentaire; [...]
+[…] la disposition testamentaire reste le seul écrit capable de discerner le legs rémunératoire de la simple libéralité exprimée par legs particulier; […] [2]
+[9] Dans le cas présent, les deux appelants sont deux des 15 légataires universels de la succession de Raoul Messier. Le testament prévoit également toute une série de legs particuliers aux neveux et nièces par alliance, de même qu’à différentes institutions publiques.
+[10] À l’article V du testament (pièce A‑4), les deux appelants sont désignés comme liquidateurs de la succession. L’article V se lit comme suit :
+ARTICLE V
+LE LIQUIDATEUR
+1. DÉSIGNATION
+Je désigne comme liquidateur de ma succession lesdits Jean-Claude et Pierre MESSIER, et en cas de décès, de refus, de démission ou d’incapacité légale d’agir de l’un d’eux, celui qui restera pourra continuer d’agir seul.
+S’il est impossible de pourvoir au remplacement de mon liquidateur de la façon ci‑dessus prévue, mes légataires le feront à la majorité par acte notarié en minute, s’ils ont tous atteint l’âge prévu pour la remise de leur part et si aucun d’eux n’a été déclaré inapte; dans le cas contraire, le tribunal pourra, sur requête d’un intéressé, nommer un liquidateur.
+2. DÉMISSION
+Même après avoir commencé la liquidation, mon liquidateur pourra en tout temps démissionner de sa charge pourvu que cette démission soit faite en forme notariée et soit accompagnée d’une reddition de compte. Les frais de la reddition de compte sont à la charge de la succession.
+3. RÉMUNÉRATION DU LIQUIDATEUR
+Pour les services que mon liquidateur sera appelé à rendre à ma succession, soit pour procéder à la liquidation de ma succession proprement dite, soit pour administrer les biens de ma succession ou partie de ceux‑ci, mon liquidateur aura droit, sur présentation de pièces justificatives, au remboursement de ses dépenses, frais de déplacement et pertes de salaire.
+Chacun de mes liquidateurs recevra, pour l’exécution de sa charge, à titre de legs, une indemnité de quinze mille dollars (15 000,00 $), qu’il prélèvera à même la masse de ma succession.
+4. PARTAGE
+Mon liquidateur aura plein pouvoir pour procéder au partage de ma succession soit en liquidités, soit en nature.
+Il pourra procéder seul à la composition, à l’évaluation et l’attribution des lots selon toutes modalités qu’il jugera équitable et raisonnable.
+Nonobstant ce qui est stipulé dans mondit testament mon liquidateur pourra différer le partage de tous ou certains biens de ma succession si la bonne marche ou la saine administration de ma succession l’exige.
+5. ALIÉNATION
+Mon liquidateur pourra, seul, aliéner tous mes biens meubles et immeubles à titre onéreux, les grever de droits réels ou en changer la destination et faire tout acte nécessaire ou utile, y compris toutes espèces de placements.
+Il ne pourra cependant aliéner un bien légué à titre de legs particulier à un légataire majeur et pleinement capable, auquel cas, il devra effectuer la délivrance de legs dès qu’il lui sera commodément possible de le faire, sous réserve des dispositions relatives à la réduction des legs à titre particulier.
+6. PLEINE ADMINISTRATION
+Mon liquidateur sera chargé de la pleine administration des biens de ma succession.
+7. MAINLEVÉE
+Mon liquidateur pourra donner mainlevée avec ou sans considération.
+8. LÉGATAIRES N’AYANT PAS ATTEINT L’AGE REQUIS, SOUS UN RÉGIME DE PROTECTION OU INAPTES
+Mon liquidateur aura l’administration de tous les biens légués par les présentes à des légataires qui n’auraient pas atteint l’âge de la majorité ou qui seraient sous un régime de protection ou inaptes.
+Il remettra à chacun de mes légataires leur part respective au fur et à mesure qu’ils atteindront respectivement l’âge de la majorité ou à la fin de tel régime de protection ou à la cessation de telle inaptitude. Entre-temps, mon liquidateur administrera la part de chacun de mesdits légataires en se servant du revenu et même du capital, si nécessaire, pour l’entretien, l’éducation, l’instruction et autres besoins de mes légataires.
+Jusqu’à la remise définitive de la part de chacun de mes légataires, il agira à titre d’administrateur chargé de la pleine administration du bien d’autrui.
+Mon liquidateur aura cependant le droit de mettre fin à son administration à l’égard d’un légataire qui serait sous un régime de protection ou inapte avec mandat en cas d’inaptitude homologué en faisant remise et reddition de compte à son tuteur ou curateur ou mandataire.
+[11] Ainsi le paragraphe 3 de l’article V prévoit spécifiquement la rémunération du liquidateur. Non seulement le liquidateur a droit au remboursement de ses dépenses pour les services qu’il sera appelé à rendre à la succession, mais il a droit en sus pour l’exécution de sa charge, à titre de legs, à une indemnité de 15 000 $.
+[12] Les appelants disent que puisque le testament stipule « à titre de legs », qu’il ne s’agit pas d’une rémunération, mais d’un legs particulier ou d’une simple libéralité. À mon avis, la position des appelants ne reflète pas l’intention du testateur. Les legs particuliers ont spécifiquement été prévus à l’article III du testament (pièce A‑4).
+[13] La somme de 15 000 $ prévue pour chacun des appelants est située à l’article V, sous la rubrique « Rémunération du Liquidateur ». De plus, le testateur indique bien que « chacun de mes liquidateurs recevra, pour l’exécution de sa charge, à titre de legs, une indemnité de 15 000 $ » [Je souligne].
+[14] Par ailleurs, Me Marielle Gagné, la notaire qui a rédigé ce testament, a reconnu, lors de son témoignage, que selon le testament, les appelants n’auraient pas eu droit à cette somme s’ils avaient renoncé à l’exécution de leur charge. Il est vrai qu’elle a témoigné que selon elle, Raoul Messier, le testateur, était très reconnaissant envers ses deux neveux, les appelants, et que fort probablement, M. Messier voulait leur faire un legs supplémentaire. Elle a aussi dit que si les appelants avaient renoncé à agir comme liquidateurs, les autres légataires auraient sans doute accepté de leur verser quand même la somme de 15 000 $ chacun.
+[15] J’estime que ces derniers propos de Me Gagné ne sont que des hypothèses et ne reflètent pas ce qui est énoncé dans le testament.
+[16] Me Gagné a dit qu’elle utilise généralement une autre terminologie lorsque le testateur veut accorder une rémunération au liquidateur. Elle a donné les exemples suivants (pièce A‑3) :
+Pour les services que mon liquidateur sera appelé à rendre à ma succession, soit pour procéder à la liquidation de ma succession proprement dite, soit pour administrer les biens de ma succession ou partie de ceux‑ci, mon liquidateur aura droit, en outre du remboursement de ses dépenses, frais de déplacement et pertes de salaires, à une rémunération de ______dollars ( $)
+À titre de témoignage d’appréciation pour les services que mon liquidateur sera appelé à rendre à ma succession, soit pour procéder à la liquidation de ma succession proprement dite, soit pour administrer les biens de ma succession ou partie de ceux-ci, mon liquidateur aura droit, en outre du remboursement de ses dépenses, frais de déplacement et pertes de salaire, à une somme de @ cents dollars @ $), cette somme étant indexée en se basant sur le taux d’inflation tel qu’établi par Statistique Canada, en prenant comme année de base l’année 2008.
+Toute personne autre que mon conjoint qui agira comme liquidateur, recevra une somme @ à titre d’indemnité pour l’exécution de sa charge. Au cas où il y aurait plus d’un exécuteur, ladite somme sera partagée également entre eux.
+Mon liquidateur ne sera pas rémunéré pour les services qu’il sera appelé à rendre à ma succession, soit pour procéder à la liquidation de ma succession proprement dite, soit pour administrer les biens de ma succession ou partie de ceux-ci, cependant il aura droit au remboursement de ses dépenses, frais de déplacement et pertes de salaires.
+[17] Référence a également été faite au testament d'Albertine Messier, la sœur de Raoul Messier, préparé également par Me Gagné. Dans la rubrique « Rémunération du Liquidateur » on y indiquait ce qui suit :
+3. RÉMUNÉRATION DU LIQUIDATEUR
+Pour les services que mon liquidateur sera appelé à rendre à ma succession, soit pour procéder à la liquidation de ma succession proprement dite, soit pour administrer les biens de ma succession ou partie de ceux-ci, mon liquidateur aura droit, sur présentation de pièces justificatives, au remboursement de ses dépenses, frais de déplacement et pertes de salaires.
+Si lesdits Jean-Claude et Pierre Messier, agissent comme liquidateur, ils recevront pour l’exécution de leur charge, à titre de legs, une indemnité de dix mille dollars (10 000,00 $) chacun, qu’ils prélèveront à même la masse de ma succession.
+[…]
+[18] Albertine Messier est décédée en 1999 et les appelants ont reçu 10 000 $ chacun selon la clause testamentaire ci-haut. Le Ministre avait alors recotisé les appelants sur la même base que dans le présent dossier, et au stade de l’opposition, le Ministre a finalement accepté de considérer cette somme comme un legs (pièce A-1, Document F).
+[19] Le Ministre n’est pas lié par une décision antérieure de l’un de ses fonctionnaires, si celle-ci est erronée. (Voir par exemple, Brenda G. Klassen and the Queen, 2007 FCA 339 au paragraphe 27.)
+[20] À mon avis, le témoignage de Me Gagné ne peut être retenu pour interpréter différemment une clause du testament qui, à mon sens, parle d’elle même. Me Gagné dit d’une part que l’intention de Raoul Messier était de faire un legs particulier et que si cela n’avait pas été le cas, elle aurait rédigé autrement la clause prévoyant l’octroi de la somme de 15 000 $ à chacun des appelants.
+[21] En même temps, elle reconnaît que si les appelants avaient refusé d’agir comme liquidateurs, ils n’auraient pas eu droit à la somme de 15 000 $ chacun, selon le testament. Il aurait fallu l’accord des autres légataires.
+[22] Me Gagné reconnaît donc implicitement que la somme de 15 000 $ a été octroyée à chacun des appelants pour l’exécution de leur charge, ce qui est d’ailleurs dit clairement dans le testament. Contrairement à une rémunération pour l’exécution d’une charge, un legs particulier n’entraîne aucune obligation ou responsabilité pour le légataire.
+[23] J’estime qu’il ressort assez clairement du testament que le testateur accordait à chacun des appelants la somme de 15 000 $ pour les services qu’ils étaient appelés à rendre comme liquidateurs de la succession, et ce malgré l’inscription « à titre de legs », qui suit la mention « pour l’exécution de sa charge », au paragraphe 3 de l’article V du testament.
+[24] Compte tenu de la façon dont le testament est rédigé, je conclus que la somme de 15 000 $ reçue par chacun des appelants au cours de l’année d’imposition 2005, est une rémunération provenant d’une charge, laquelle est imposable aux termes de l’alinéa 3a), de l’article 5 et de la définition du mot « charge » à l’article 248 de la LIR.
+[25] Pour ces motifs, les appels sont rejetés et les cotisations sont confirmées.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008CCI349
+Nºs DES DOSSIERS DE LA COUR : 2007-3624(IT)I
+2007-4570(IT)I
+INTITULÉS DES CAUSES : JEAN-CLAUDE MESSIER c.
+SA MAJESTÉ LA REINE
+PIERRE MESSIER c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 5 juin 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 11 juin 2008
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] François Vaillancourt, La liquidation des successions : aspects non contentieux, Cowansville (Qc), Les Éditions Yvon Blais Inc., 1994, à la page 21, para. 2.3.4.
+[2] Maurice Roy, « Chronique testamentaire – La rémunération de l’exécuteur testamentaire » [1983] 5 R.P.F.S. 203, à la p. 206.

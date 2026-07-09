@@ -1,0 +1,892 @@
+---
+title: "Bombardier Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30181/index.do"
+last_modified: "2011-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 48"
+citation2: ""
+neutral_citation: "2011 TCC 48"
+decision_date: "2011-01-28"
+language: "en"
+item_id: "30181"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7740
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:54:42.648000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d811e5ab377febeb7f1fc4ac15492604b4f8598d4ce507f2d0d01d3796148433"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bombardier Inc. v. The Queen
+
+- Citation: 2011 TCC 48
+- Decision date: 2011-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7740, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bombardier Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-28
+Neutral citation
+2011 TCC 48
+File numbers
+2008-1624(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1624(IT)G
+BETWEEN:
+Bombardier Inc.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 13, 14, 15, 16 and 17, 2010,
+At Montreal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the appellant:
+Wilfrid Lefebvre
+Dominic C. Belley
+Counsel for the respondent:
+Pierre Cossette
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made by the Minister of National Revenue (Minister) for the 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 and 2001 taxation years under Part I.3 of the Income Tax Act, R.S.C., c. 1 (5th Supplement) (Act) are allowed with costs to the appellant and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the only advances to be included in the capital of the appellant under paragraph 181.2(3)(c) of the Act are the following, in accordance with the attached reasons:
+1990 taxation year: $ 73,781,000;
+1991 taxation year: $ 66,463,000;
+1992 taxation year: $ 207,820,000;
+1993 taxation year: $ 224,301,347;
+1994 taxation year: $ 423,237,117;
+1995 taxation year: $ 477,658, 576;
+1996 taxation year: $ 250,700,000;
+1997 taxation year: $ 249,400,000;
+1998 taxation year: $ 332,100,000;
+1999 taxation year: $ 1,246,100,000;
+2000 taxation year: $ 1,482,400,000; and
+2001 taxation year: $ 1,304,100,000.
+In addition, in making the reassessments for the 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997 and 2000 taxation years, the Minister will make the adjustments set out in the consent to judgment dated September 13, 2010, a copy of which is attached.
+Signed at Ottawa, Canada, this 28th day of January 2011.
+“Pierre Archambault”
+Archambault J.
+Translation certified true
+On this 27th day of May 2011
+François Brunet, Revisor
+Citation: 2011 TCC 48
+Date: 20110128
+Docket: 2008-1624(IT)G
+BETWEEN:
+Bombardier Inc.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGEMENT
+Archambault, J.
+[1] The provisions concerning tax on large corporations, commonly referred to as capital tax, were added to the Income Tax Act as Part I.3 as a result of the budget introduced by the Hon. Michael H. Wilson on April 27, 1989, to help reduce the federal deficit. The tax was abolished in 2006. Except for the parties themselves, for whom the amounts in issue are significant, there might be little interest for anyone in reading these reasons. However, among studious readers of tax cases, they might generate some interest, since they will show how a judge who has rendered a decision in favour of the respondent in respect of the application of that tax to advances on contracts[1] can now render a decision against the same party, even though the facts are essentially the same.
+[2] In this case, Bombardier Inc. (Bombardier) has appealed from the assessments made by the Minister of National Revenue (Minister) for the 1990 to 2006 taxation years. First, Bombardier informed the Court that it was restricting the dispute to the years from 1990 to 2001, because the parties had agreed that new notices of objection would be filed regarding 2002 to 2006.[2]
+[3] The notices of appeal raise a number of issues, some of which have been resolved by the mutual consent of the parties. Accordingly, the appeals by Bombardier must be allowed, at least to give effect to the settlement negotiated by the parties.
+[4] Essentially, there is only one issue to be resolved, and that pertains to the inclusion of certain amounts received from customers as advances on contracts that had not yet been performed in full in Bombardier’s taxable capital.
+[5] Because Bombardier manufactures and sells aircraft and rail transport equipment, the amounts affected by the assessments are significant, as the following table shows:
+In $000
+Years
+Aerospace Division
+Transportation Division
+Amount declared by Bombardier
+Total of advances added
+1990
+68,866
+26,130
+94,996
+1991
+190,706
+10,428
+201,134
+1992
+167,053
+163,379
+330,432
+1993
+270,171
+172,942
+443,113
+1994
+499,576
+256,287
+60,000
+695,863
+1995
+545,126
+223,439
+60,000
+708,565
+1996
+398,471
+240,449
+187,049
+451,904[3]
+1997
+313,328
+209,399
+40,500
+482,734[4]
+1998
+1,048,220
+332,113
+79,013
+1,313,359[5]
+1999
+2,042,772
+598,497
+204,871
+2,440,002[6]
+2000
+2,351,151
+772,564
+3,123,715[7]
+2001
+2,117,015
+571,840
+1,304,029
+1,384,826
+[6] The parties stated the issue as follows in the partial agreement as to the facts[8] (agreement as to the facts), from which the figures in the preceding table were taken:
+[Translation]
+93. Did the amounts identified as “advances” or “advances and progress billings” as set out in the note regarding “inventory” in the appellant’s financial statements, comprise advances that appear on the appellant’s balance sheet for each of the years in issue, within the meaning of subsection 181(3) and paragraph 181.2(3)(c) of the Act?
+94. In the affirmative, do these amounts and the amounts shown in liabilities in the balance sheet under “advances” or “advances and progress billings in excess of related costs” constitute items that must be excluded from taxable capital under paragraph 181.2(3)(b) of the Act and that consequently may not be added to taxable capital under paragraph 181.2(3)(c) of the Act?
+Contractual context
+[7] There is no dispute between the parties as to the facts that are relevant for the purposes of these appeals. Not only did the parties file an agreement as to the facts but, on the basis of the admissions of fact made by Bombardier during the trial, the respondent also considered that it was no longer necessary to call its auditor to testify. The dispute between the parties arises out of the application of the provisions of the Act and the application of accounting principles to determine the value of the advances that appear in the balance sheet. Bombardier called its Vice-President responsible for financial agreements, whose role is to ensure that the financial statements comply with generally accepted accounting principles (GAAP), and its Vice-President in charge of tax affairs, who confirmed the figures relating to the amounts that Bombardier had reported as income for tax purposes, in particular under paragraph 12(1)(a) of the Act, and in relation to the deductions Bombardier claimed under paragraph 20(1)(m) of the Act. For 2000, the total amount of advances received by Bombardier, in particular, had been declared under paragraph 12(1)(a) and deducted as a reserve under paragraph 20(1)(m) of the Act.
+[8] This is the statement of facts taken from the agreement as to the facts:
+[Translation]
+FACTS
+1. The appellant operates, inter alia, (i) a business for the development, manufacture and sale of aircraft and aircraft parts and components; and (ii) a business for the manufacture and sale of public transportation equipment (train cars, etc.).[9]
+2. Its fiscal year and taxation year run from February 1 to January 31 of each year.
+3. The contracts that the appellant enters into with its customers for the sale of aircraft and aircraft parts and components and public transportation equipment cover the usual points found in agreements of that nature: (i) a description of the item to be produced and delivered; (ii) the price and terms of payment; (iii) terms relating to delivery; (iv) the parties’ liability; and (v) all of the other rights and obligations of the purchaser and the vendor. On this point, the parties agree that the contracts found at tabs 69 and 70 of the Compendium are standard form contracts that are representative of all contracts signed by the appellant during the period under appeal.
+4. In accounting terms, the appellant recognizes its long-term contracts in accordance with the generally accepted accounting principles of Canada (“GAAP”), to the extent that there is a note to the financial statements that explains the calculation of the inventory.
+5. The appellant’s financial statements for the years in issue were prepared in accordance with GAAP.
+Aerospace Division (aircraft sale contracts)
+6. The income from contracts for aircraft sales is recognized as work progresses, on the basis of the delivery date.
+7. Contracts for aircraft sales provide that amounts calculated on the basis of the purchase price must be paid by the purchaser on predetermined dates, according to a timetable that generally starts when the contract is signed and ends with delivery.[10]
+8. Subject to the additional details and information to be provided by the ordinary and expert witnesses called to testify, where applicable, the parties also state that the appellant presents those contracts as follows in its financial statements:
+1990-1995 FISCAL YEARS[11]
+(a) Before delivery, the amounts received from customers for all contracts are applied against the costs incurred;
+(b) The amount by which the costs incurred exceed the amounts received from customers for all contracts is shown in assets on the balance sheet under the item “inventory”. The amounts received from customers are shown in the note in the financial statements concerning inventory on the “advances received” line;
+(c) At delivery: (i) the total proceeds of the sale are recognized as income on the profit statement; and (ii) total costs of manufacturing are shown under the item “cost of sales and operating expenses” in the profit statement;
+1996-2001 FISCAL YEARS
+(d) Before delivery, the amounts received from customers for a particular contract are applied against the costs incurred for the contract;
+(e) For a particular contract, if the costs incurred are greater than the amounts received from the customers, the excess is shown in assets on the balance sheet under the item “inventory”. The amounts received from customers are shown in the note in the financial statements concerning inventory on the “advances” or “advances and progress billings” line;
+(f) If the amounts received from the customers for a particular contract are greater than the costs incurred for the contract, the excess is shown in liabilities on the balance sheet under the item “advances” or “advances and progress billings in excess of related costs”; and
+(g) At delivery: (i) the total proceeds of the sale are recognized as income on the profit statement; and (ii) the total manufacturing costs are entered under the item “costs of sales and operating expenses” in the profit statement.
+...
+Transportation Division (public transportation equipment) and aircraft parts and components
+10. Income from long-term contracts is recognized as work progresses, on the basis of costs incurred.
+11. The sales contracts for public transportation equipment and aircraft parts and components provide that amounts must be paid by the purchaser on predetermined dates or at the occurrence of predetermined events generally referred to as “milestones”.
+12. Subject to the additional details and information to be provided by the ordinary and expert witnesses called to testify, where applicable, the parties also state that the appellant presents those contracts as follows in its financial statements:
+1990-1995 FISCAL YEARS
+(a) Before delivery, the amounts received from the customers for all contracts are applied against the costs incurred and the associated profit, where the funds are received;
+(b) The amount by which the costs incurred and the associated profit exceed the amounts received from the customers for all contracts is shown in assets on the balance sheet under the item “inventory”. The amounts received from customers are shown in the note in the financial statements concerning inventory on the “advances received” line;
+(c) Income is recognized in the profit statement as work progresses on the basis of the costs incurred. The related costs are entered under the item “cost of sales and manufacturing expenses” in the profit statement, generally as costs are incurred;
+1996-2001 FISCAL YEARS
+(d) Before delivery, the amounts received from customers for a particular contract are applied against the costs incurred for and profits associated with the contract, when the money is received;
+(e) For a particular contract, if the costs incurred and the associated profits are greater than the amounts received from the customers, the excess is shown in assets on the balance sheet under the item “inventory”. The amounts received from customers are shown in the note in the financial statements concerning inventory on the “advances” or “advances and progress billings” line;
+(f) For a particular contract, if the amounts received from the customers are greater than the costs incurred and the associated profits, the excess is shown in liabilities on the balance sheet under the item “advances” or “advances and progress billings in excess of related costs”; and
+(g) Income is recognized in the profit statement as work progresses on the basis of the costs incurred. The related costs are entered under the item “costs of sales and operating costs” and the associated profit is shown in the profit statement, generally as costs are incurred.
+[Emphasis added.]
+[9] The trial lasted three and a half days, two days of which were devoted to the testimony of two eminent accounting experts. The expert who testified at the request of Bombardier is Nadi Chlala, fca, fcma, an academic consultant; the expert who testified for the respondent is Daniel B. Thornton, Phd, fca, a professor of accounting at Queen’s University. Both have impressive backgrounds in terms of both education and professional experience. As was, of course, to be expected, the two experts had different opinions regarding the amount of the advances that had to be included in the calculation of Bombardier’s taxable capital. Both submitted written expert opinions. Mr. Chlala’s was 23 pages long, and Mr. Thornton’s was 57. The differences between the opinions stated by the two experts can perhaps be explained in part by the nature of the questions put to them. The questions put to Mr. Chlala were as follows:[12]
+[TRANSLATION]
+Question 1:
+Please identify and describe:
+(a) The conceptual bases of the financial statements;
+(b) The components of the financial statements;
+(c) The role of the supplementary notes;
+(d) The principles relating to the recognition, measurement and disclosure of the information comprising the components of the balance sheet.
+Question 2:
+How are the assets and liabilities associated with long-term contracts (shown in accordance with GAAP) recognized, measured and shown in the financial statements of Bombardier Inc.?
+Question 3:
+What is the book value of the advances paid to Bombardier Inc. at the end of the year that appear in its balance sheet, shown in accordance with GAAP, for each of the 1990 to 2006 taxation years?
+Question 4:
+For any of the 1990 to 2006 taxation years, does the amount shown in the supplementary notes to the financial statements of Bombardier Inc. represent the book value of the advances paid to it at the end of the year that must appear in liabilities on the balance sheet of Bombardier Inc., shown in accordance with the GAAP?
+Question 5:
+How is International Standard IAS 11 from before 1995 different from U.S. standard SOP 81-1 which Bombardier Inc. used for presenting its balance sheets on the closing dates in the 1990 to 2006 fiscal years?
+Question 6:
+Is there a connection between the method of recognizing income associated with long-term contracts and the characterization of the amounts received from customers as advances?
+[Emphasis added.]
+[10] The questions put to Mr. Thornton, which he answered in his report (Exhibit I‑1), were as follows:
+Opinion Sought by Justice
+05. Justice has asked me for an opinion as to the nature of the Amounts[13] for accounting purposes, In particular, Justice has asked me to respond to the following four Questions:
+1. According to GAAP, what is the nature and substance of the payments made by Bombardier’s customers pursuant to the contracts?
+2. Were the Appellant’s balance sheets (and financial statements) in accordance with GAAP with respect to those payments?
+3. Are the advances, as detailed in the notes to the financial statements, "reflected" in the balance sheets of Bombardier?
+4. Are the notes to the financial statements an integral part of the balance sheets?
+[Emphasis added.]
+[11] I will come back to this, but to summarize, the position stated by each of the expert witnesses on the central issue, the amount or the value of the advances shown in Bombardier’s balance sheet, is different. According to Mr. Chlala, the value of the advances is the value shown in liabilities in the body of the balance sheet; according to Mr. Thornton, it is the value found in the “advances” account, the amount of which is shown in the supplementary notes.
+[12] It is important to note that for the purposes of this proceeding, the parties have agreed that Bombardier’s financial statements were prepared in accordance with GAAP. Not only is that a fact agreed to in the agreed statement of facts (Exhibit A‑6, para. 5), but in their testimony and their respective reports, the two experts agreed to that. Mr. Thornton wrote the following in his report, at page 55, for example, when he answered the question “Was the accounting for advances in accordance with GAAP?”: “Yes, at least until 2003 when the definition of GAAP changed in Canada. Even after 2003, I have no reason to assert that the financial statements did not comply with GAAP”.[14]
+[13] When Parliament enacted Part I.3 of the Act, concerning the capital tax on large corporations, it chose to use financial statements, in particular corporations’ balance sheets, to determine the values and items that must be included in calculating a corporation’s capital.[15] For that reason, it is important to have a clear understanding both of the accounting approach adopted and of GAAP, to decide the issue raised by this litigation: the amount of the advances that must be included in calculating the capital. Mr. Chlala’s report is very instructive on these issues, and I will quote extensively from it:
+[Translation]
+Answer to question 1:[16]
+Financial statements comprise the main method of communicating financial information. They contain financial information relating to transactions and facts both past and present. The main purpose of financial statements is to enable users to assess, compare and predict the profitability, solvency and liquidity of a business.
+Generally accepted accounting principles (GAAP) are “general principles and conventions of general application, as well as rules and procedures that determine what accepted accounting practices are at a particular point in time”. GAAP are constantly evolving. [Emphasis by Mr. Chlala.]
+Canadian GAAP are prescribed by Accounting Standards Board (AcSB), which publishes its recommendations in the Handbook of the Canadian Institute of Chartered Accountants (CICA Handbook). The AcSB makes its recommendations using a frame of reference (conceptual accounting framework). The AcSB’s recommendations deal with rules and procedures (standards) for recognizing, measuring (assessing) and presenting information (disclosure or information to be provided).
+To prepare its financial statements in accordance with GAAP, the business must refer to the CICA Handbook. Because the Handbook does not provide answers to all accounting questions, the accounting standards provide for the possibility of consulting other references sources, including those published by the Financial Accounting Standards Board (FASB) and the American Institute of Certified Public Accountants (AICPA), and by the International Accounting Standards Board (IASB).
+The financial statements contain the following four tables (which comprise the “body of the financial statements”):2
+____________
+2 The terms “financial statement tables” and “body of the financial statements” are synonymous.
+§ A balance sheet, which is a representation, as of a particular date, of the financial situation of a business in the form of assets (economic resources), liabilities (obligations) and equity (including share capital, surplus capital contributions and undistributed profits).
+...
+Financial statements are supported by explanatory and supplementary information shown in the supplementary notes, to make the financial statements more intelligible.
+(a) Conceptual bases of financial statements
+The conceptual bases of financial statements consist of a framework on which accounting standards are based. The framework relates to (1) accounting principles, (2) the objective of financial statements, (3) nature of the information in financial statements, and (4) the components of financial statements.
+1. The basic principles for the recognition, measurement and presentation of information in financial statements include:
+a. Going concern, which assumes that the business ordinarily carries on business, that is, that it has no intention or obligation to cease carrying on business or substantially reduce the scope of its business. This convention holds that the business is considered to be able to carry out the transactions in question and honour its commitments[17] in the foreseeable future. Otherwise, the financial statements must be prepared on a different basis. For instance, unless there is evidence to the contrary, a corporation recognizes a long-term contract currently being performed for the manufacture and delivery of a good to a customer in its books on the hypothesis that it will meet its commitments and is not in default at the end of the contract.
+...
+c. Complete information, which requires that the financial statements provide all necessary information about events or accounting practices that have a significant impact on changes in the future profits and situation of the business.
+d. Precedence of substance over form is stated because the substance of the transactions and other events is not always consistent with what the apparent legal structure indicates. In order for the information to provide a reliable representation of the transactions and other events it is meant to represent, it is necessary that they be recognized and measured in a manner consistent with their substance and with the real economic or commercial situation and not only with their legal form.[18] This means, for example, that the business measures the book value of its assets and liabilities on the balance sheet on the basis of the commercial substance of the underlying transaction or event. For accounting purposes, there is no other commercial substance to be “discovered” in supplementary information.
+2. The objective of financial statements is to facilitate economic decision-making by investors and creditors. To achieve that objective, it is necessary that the financial statement tables be complete. For example, the balance sheet must present all of a corporation’s economic resources, obligations and equity.
+3. In addition, in order for the information presented in financial statements to be useful, it must have certain qualitative characteristics. For example, the information presented in the balance sheet must be (1) understandable, (2) relevant (influence decisions by users), (3) reliable and (4) comparable. The CICA Handbook specifies that “reliable” statements are:
+a. Faithful: this means that the recognition, measurement and presentation (disclosure) of facts and events in financial statements is consistent with their commercial substance, which may call for “examining a set of related transactions and facts taken as a whole.”
+b. Verifiable: ...
+c. Neutral: …
+d. Prepared in accordance with concepts of prudence: this means that “in situations of uncertainty, prudent estimates are done in order to avoid any over-valuation of assets, proceeds and profits, or, conversely, any under-valuation of assets,[19] charges and losses.”
+e. In accordance with the commercial or economic substance and reality of the transactions and other events and not merely with their legal form (see also the accounting principle supra).
+4. The components (elements, headings or items) to be included in financial statement tables are defined in the next section. An amount that does not meet the definition of a component may not beshown as such in the tables (body of financial statements) and vice versa. For example, an account in credit may not be included in the balance sheet as a liability if it does not meet the definition of a liability. As well, an account in credit that meets the definition of a liability may not be omitted from the balance sheet.[20] In both cases, the total liabilities in the balance sheet would be incorrect and would not represent the total amount of the obligations of the business on a specified date. Mere presentation of a liability in a note that is omitted from the balance sheet would not comply with GAAP and would create confusion.
+(b) Components of financial statements
+Components (or headings) are the main categories of elements (or items) that are included in the four financial statement tables. The only components of the balance sheet are: assets, liabilities and equity. [Emphasis by Mr. Chlala.]
+1. The CICA Handbook defines the three components of the balance sheet as follows:
+a. Assets are “economic resources controlled by an entity as a result of past transactions or events and from which future economic benefits may be obtained”.
+b. Liabilities are “obligations of an entity arising from past transactions or events, the settlement of which may result in the transfer or use of assets, provision of services or other yielding of economic benefits in the future.”
+c. Equity is “the ownership interest in the assets of a profit-oriented enterprise after deducting its liabilities. While equity of a profit-oriented enterprise in total is a residual, it includes specific categories of items, for example, types of share capital, contributed surplus and retained earnings.”
+...
+3. Transactions or events that do not meet the definition of a component are excluded from the balance sheet or profit statement.[21] However, they must be described in the supplementary notes to the financial statements where that information allows for better understanding of the financial statements. The amounts shown in the supplementary notes do not constitute assets and liabilities that have been omitted from the balance sheet prepared in accordance with GAAP.
+4. To present a component in the financial statement tables, the business must:
+a. Identify the transactions or events that meet the definition of a component.
+b. Establish the nature and economic substance of the transaction or events to be recognized and comply with the standards prescribed by the AcSB for those transactions in terms of recognition, measurement and disclosure of information. For example, the applicable accounting standards for recognizing a loan from a financial institution and for recognizing an advance from a customer on a long-term contract are not the same, given that the substance of the two transactions is different:
+i. A loan from a financial institution is a financial liability that must be settled (repaid) by payments in cash (that is, the debtor has a financial obligation).
+ii. An advance from a customer on a long-term contract is a non-financial liability that is settled (repaid) by performance of the services provided for in the contract, not by payment of a cash amount (that is, the debtor has an obligation of “performance” or of “results” and not an obligation to repay in cash).
+Accordingly, the financial statement tables must include all of the components as defined in the CICA Handbook. For example, the balance sheet must include all assets, all liabilities and all equity as defined in the CICA Handbook. The balance sheet must include, on its face, all of the financial resources of the business. [Emphasis by Mr. Chlala.]
+(c) Role of the supplementary notes
+The presentation (disclosure) of additional information by supplementary notes allows for better understanding of the content of the tables. For example, a note relating to an amount shown as a component in the balance sheet could enable the reader of the financial statements to understand the context of the transactions of the business, assess the risk of operating the business and be informed about the scope of the accounting estimates and the uncertainties associated with the measurement of that component. That is why it is considered that the supplementary notes are an integral part of the financial statements.
+Notes to financial statements (supplementary notes) include:
+§ narrative descriptions or explanations concerning the amounts shown in the tables,
+§ schedules that provide details about the calculation of the book value of the components shown in the tables, and
+§ supplementary information including amounts that do not represent components and that are accordingly excluded from the tables, such as commitments and contingencies.
+1. The recommendations in the CICA Handbook (and other sources of GAAP, where applicable) require disclosure of supplementary information in notes. For example, the CICA Handbook requires the presentation of certain schedules in supplementary notes that show the detailed calculation of a component shown in the tables. A business that did not provide this additional information will be in violation of GAAP.[22]
+2. Supplementary schedules may deal with measurement of a specific component (i.e. an asset, a liability or equity) by showing the details of:
+a. The similar elements grouped together.
+i. For example, a schedule may identify separately the amounts used in calculating the component “other liabilities” shown in the balance sheet. In that situation, each of the amounts to be paid or incurred represents a liability in itself. In that case, the purpose of the schedule is not to present liabilities not recognized in the balance sheet, since the balances of the various amounts to be paid are combined to determine a single amount under the heading “other liabilities” in the balance sheet, which is added to the other liability items to determine the total liabilities in the balance sheet.
+b. Debits and credits that comprise separate accounts in the books that were taken into account in calculating the book value of an asset, a liability or an equity element. Those debits and credits are not themselves assets, liabilities or equity elements; they are simply taken into account in determining the measurement of the book value of an asset, a liability or an equity element. In this case, the measurement of the book value of elements shown in the balance sheet may be set out in a schedule, showing the details of the balances in debit and credit accounts. For example, the balance of a capital account on the acquisition cost, and accumulated depreciation, must be disclosed, but only the net amount represents an asset shown in the balance sheet.
+3. As set out in paragraph 1000.25 of the CICA Handbook, supplementary notes, “which are useful for the purpose of clarification or further explanation of the items in financial statements, while an integral part of financial statements, are not considered to be an element”. Paragraph 1000.41 states, concerning recognition, that “recognition is the process of including an item in the financial statements”. Paragraph 1000.42 adds that “recognition means inclusion of an item within one or more individual statements and does not mean disclosure in the notes to the financial statements”. The CICA Handbook therefore stipulates unequivocally that the supplementary notes may not contain an asset, liability or equity element that is not recognized in the balance sheet. [Emphasis by Mr. Chlala.]
+To summarize:
+§ A business may not exclude components from the tables and simply disclose them in notes. For example, a business must present all elements in the balance sheet that meet the definition of asset or liability. In other words, the balance sheet must be complete. The total assets and total liabilities appearing in the balance sheet may not be under-valued because that would give an incomplete picture and would skew the ratios used by investors and creditors to assess the financial health of a business.
+§ The schedules that explain the measurement of components in accordance with GAAP in no way replace the components. For example, if a liability shown in the balance sheet refers specifically to a note that shows the detailed calculation of the liability, the information in that note does not provide another measurement of the book value of the liability. If there is a liability, it must be shown in the balance sheet and not merely disclosed in notes. The measurement of the book value of that liability element must be what is included in the total of the “liability” component in the balance sheet (total liabilities in the balance sheet). The balance sheet must provide information about the total economic resources and obligations of the business and may not be “corrected” by a note. [Emphasis by Mr. Chlala.]
+§ Paragraph 1000.42 of the CICA Handbook specifies that supplementary notes “either provide further details about items recognized in the financial statements, or provide information about items that do not meet the criteria for recognition and thus are not recognized in the financial statements”. [Emphasis by Mr. Chlala.]
+§ Notes may not be used to camouflage components omitted from the balance sheet or re-value a component in the balance sheet. Schedules and supplementary reconciliations shown in notes do not replace the components shown in the balance sheet and do not give another measurement of those components. In other words, as paragraph 1400.11 of the CICA Handbook provides, the notes “clarify or further explain the items in the financial statements. They are not, however, to be used as a substitute for proper accounting treatment” and must not have the effect of rectifying accounting treatment that is not in accordance with GAAP. [Emphasis by Mr. Chlala.]
+(d) Principles relating to recognition, measurement and disclosure of information about components of the balance sheet
+Presentation of the three components of the balance sheet (assets, liabilities and equity) is the result of application of GAAP relating to the recognition and measurement of transactions and events.
+1. A business follows the following procedures when it prepares its balance sheet, in the order shown: …
+2. Correct measurement of the components in the balance sheet is not sufficient for the assessment of the performance of a business. The financial statements must also contain supplementary information, in particular schedules that present the detailed calculation of significant components. This is a requirement of the accounting rules, the purpose of which is to meet the criterion of complete information[.] However, presentation of these supplementary schedules should not serve as a pretext for underestimating an asset or a liability in the balance sheet.
+For example, the purpose of separate presentation of the debit account “capital assets at cost” and the corresponding credit account “accumulated depreciation” is not to correct the measurement of the “capital assets” component.17 Whether that disclosure is made in a specific note or by presentation of the account and its counterpart side by side in the balance sheet, it does not alter either the amount of the capital assets or the total amount of assets (the economic resources) recognized in the balance sheet. In other words, regardless of where the disclosure is made, the business must show an asset in its balance sheet measured as the net amount of the cost of capital assets less accumulated depreciation.
+____________
+17 In English, the counterpart account is referred to as the “contra account”[.]
+To summarize,
+§ Paragraph 1000.41 of the CICA Handbook provides that recognition “is the process of including an item in the financial statements of an entity. Recognition consists of the addition of the amount involved into statement totals together with a narrative description of the item (e.g., “inventory” …).” [Emphasis by Mr. Chlala.]
+§ Paragraph 1000.42 further provides that recognition “means inclusion of an item within one or more individual statements and does not mean disclosure in the notes to the financial statements. Notes either provide further details about items recognized in the financial statements, or provide information about items that do not meet the criteria for recognition and thus are not recognized in the financial statements.” [Emphasis by Mr. Chlala.]
+§ Paragraph 1000.53 of the CICA Handbook stipulates that measurement is “the process of determining the amount at which an item is recognized in the financial statements”. [Emphasis by Mr. Chlala.]
+Accordingly, the balance sheet must be complete and include all components as defined by the CICA Handbook. The business may not recognize an asset or liability by supplementary notes. Presentation in supplementary notes provides details about the recognition and measurement of the book value of the components, for example an asset such as inventories. [Emphasis by Mr. Chlala.]
+Question 2:
+How are the assets and liabilities associated with long-term contracts (shown in accordance with GAAP) recognized, measured and shown in the financial statements of Bombardier Inc.?
+Answer to question 2:
+Bombardier Inc. (Bombardier) measures the assets or liabilities associated with long-term contracts underway in accordance with Canadian GAAP, referring to the specific accounting standards in the American frame of reference, because the CICA Handbook does not contain any specific recommendation in this regard.
+1. To comply with Canadian GAAP, Bombardier has to measure the components of the balance sheet associated with long-term contracts underway on the basis of the American standard SOP81-1 and in accordance with the American recommendations in the Audit and Accounting Guide: Construction Contractors of the AICPA, as follows:
+a. assets, which represent amounts ultimately payable by customers for work done, are measured in the amount of the “amounts by which costs exceed billings”,19 and
+____________
+19 Billings is a general term that includes amounts received from the customer and amounts to be received from the customer on a long-term contract. The word “advance” is sometimes used to mean amounts received before work begins (see answer to question 3).
+b. liabilities, which represent unearned amounts that will require that costs be incurred in future, are measured in the amount of the “amounts by which billings exceed costs”. [Emphasis by Mr. Chlala.]
+2. SOP81-1 was developed to take into account the specific operating context of long-term contracts such as contracts performed by enterprises operating in the aeronautics industry. The special accounting rules thus developed take into account the unique nature of the long-term contracts which may be spread over several fiscal years and which may call for the significant expenses to be incurred in order to perform the work provided for in the contracts.
+3. Bombardier measures the book value of the assets and liabilities associated with each long-term contract underway in accordance with the rules in SOP 81-1 and discloses supplementary information in notes showing the detailed calculation of those values, taking into account the conceptual accounting framework in the CICA Handbook. For example:
+a. Bombardier presents its balance sheet in accordance with the going concern hypothesis, which assumes that it has neither the intention nor obligation to terminate its long-term contracts and that it will be able to honour its commitments to its customers. Accordingly, it is entirely warranted for Bombardier, in a situation where it is not in default under the contract, to measure the liabilities associated with the long-term contracts underway using only the amounts that have not been used to provide services in connection with the underlying contracts. Recognition in liabilities of advances on the net amount in accordance with GAAP is based on the fact that the advances, which are liabilities at the time they are received, are settled by the performance of the services provided for in the contract.
+If Bombardier could not have used the going concern assumption, it would not be able to honour its commitments to its customers, that is, the amounts received would become repayable. In that situation, it would have shown:
+i. a financial liability corresponding to the total of the amounts received from customers that would reflect the fact that those amounts would then have to be repaid in cash; and
+ii. an inventory asset of products underway that would reflect the fact that those products are available for sale in the market (and not to the customer in question), which would be measured as the amount of the total costs incurred.
+b. Bombardier presents its balance sheet in accordance with the principle that substance prevails over legal form.
+Accordingly, while from a strictly legal point of view the advance received could be considered to have been legally settled only at the time of delivery, the accounting treatment under GAAP, which considers the advance to be settled by performance of the services provided for in the contract, as costs are incurred, reflects the commercial substance of the transaction, established in the context of a going concern.
+4. The measurement of the assets and liabilities associated with the long-term contracts underway used by Bombardier is also in accordance with accounting doctrine. Accounting texts used in university instruction take the position that the components of the balance sheet for long-term contracts underway represent either:
+a. an asset that is measured in the net total costs incurred for work in progress (which represents an account and not a component of the balance sheet), less total billings (which represent a contra account and not a component of the balance sheet), or
+b. a liability that is measured in the net amount of total billings (which represents an account and not a component of the balance sheet), less total costs incurred for work in progress (which represents a contra account and not a component of the balance sheet).
+5. Bombardier measures the assets and liabilities associated with long-term contracts underway in accordance with the accounting practices used by enterprises operating in the aerospace industry. Those practices are mainly described in the financial statements of American corporations, since a large majority of corporations in the aerospace industry are American.
+6. Those accounting practices:
+a. are consistent with the conceptual accounting framework in the CICA Handbook since they give precedence to commercial substance over legal form,
+b. draw heavily on the American frame of reference relating to recognition, measurement and presentation of assets and liabilities associated with long-term contracts,
+c. are based on standards that are firmly established and were formulated in the 1950s,
+d. are described in great detail in two American documents published by the AICPA: the Audit and Accounting Guide: Construction Contractors (which is updated annually), which includes the Statement of position 81-1, Accounting for Performance of Construction-Type and Certain Production-Type Contracts (SOP 81-1), and
+e. were not challenged in the analysis by the Financial Accounting Standard [sic] Board (FASB) of the recognition of sale contracts (see, for example, the excerpt from Accounting Research Manager shown as an appendix).
+Simplified example – Recognition of long-term contracts by Bombardier
+Assume that on January 31, 200X, Bombardier has the following two contracts for the manufacture and delivery of an aircraft: one contract with a credit balance (Contract X) and one contract with a debit balance (Contract Y):
+(in $)
+Costs incurred
+Money rec’d
+Net debit amount (credit)
+Amount in assets in balance sheet
+Amount in liabilities in balance sheet
+Contract X
+80
+100
+(20)
+0
+(20)
+Contract Y
+80
+50
+30
+30
+0
+Total
+160
+150
+30
+(20)
+The Audit and Accounting Guide: Construction Contractors, which includes standard SOP81-1 (American standard), in addition to requiring the net calculation of the book value of the assets and liabilities shown above, recommends disclosure of the figures that were used in the calculation of the asset “inventory” shown in the balance sheet. The supplementary note gives the extent of the costs incurred, $160, and the extent of the amounts received from customers, $130 ($20 being recognized in liabilities). See the supplementary NOTE that presents the measurement of the book value of the “inventory” component in the balance sheet:
+INVENTORY Costs incurred ($80 + $80: $160
+Less: Amounts of advances received
+($150 - $20 shown in liabilities): $130
+Inventory (shown in assets): $ 30
+Thus, in accordance with the American standard used by Bombardier, the assets and liabilities associated with long-term contracts underway must be measured according to precise rules that specify how to calculate their respective book values. As a result:
+§ Only the $20 out of the total of $150 received represents the book value of the advance which must appear in liabilities in its balance sheet at 31/01/200X.
+§ Only the $30 out of the $160 in costs incurred represents the asset (“Inventory” item) which must appear in its balance sheet at 31/01/200X
+§ The $130 received, shown in the supplementary note concerning inventory, is not a component of the balance sheet and is not part of the liabilities or part of the assets.
+§ Net measurement is mandatory and was confirmed in the analysis of the sale contracts by the American standard-setter, which has provided a specific exception for long-term construction contracts.
+§ Net measurement reflects the fact that Bombardier has two contracts underway that involve rights and obligations in relation to the manufacture and delivery of aircraft. These are not executory contracts (or an exchange of promises). Thus, in accordance with GAAP:
+o For Contract Y, the advance (which is initially measured as the amount of money received from the customer) is completely settled (it is nil) since Bombardier has used those funds to perform the work provided for in the clauses of the contract, incurring costs for the manufacture and delivery of an aircraft that exceed the amount of the initial advance received from the customer.
+o For Contract X, the advance is settled in part only (there is a balance of $20 in non-financial liabilities in the balance sheet) because Bombardier has used only a portion of those funds for the costs of manufacturing the aircraft. [Emphasis by Mr. Chlala.]
+Note that if at January 31, 200X, Bombardier had been in default on those two contracts, it would have shown two components in the balance sheet: (1) an asset representing inventory of products underway (non-financial asset) measured at minimum value (the lower of the cost of $160 and the production value) and (2) a liability representing the amount that would be claimed by its two customers that would include the money already paid, $150 (financial liabilities) plus, where applicable, a penalty. That presentation would result in a very different measurement of Bombardier’s economic resources (assets) and obligations (liabilities) in its balance sheet at January 31, 200X, and would reflect the commercial substance of the situation, which is the obligation to repay in cash the money received from the customers (an obligation that does not exist in the situation where there is no default creating a legal right to that claim).
+Accordingly:
+§ The initial advance, recognized as a liability, loses its character and nature as an advance and a liability as costs are incurred. Thus, for Contract Y, there is no advance left, since the measurement in accordance with GAAP of the obligation in relation to the advances is nil at the date of the balance sheet.
+§ Bombardier recognizes its long-term contracts in accordance with GAAP by correctly reflecting its operations that call for not only delivery of an aircraft but also manufacture of the aircraft for an identified customer.
+To illustrate the application of the example given above, the following are the components of Bombardier’s balance sheet (assets, liabilities and equity) taken from the audited financial statements at January 31, 2000, prepared in accordance with GAAP (all figures in $millions):
+ASSETS
+Cash and cash equivalents $ 334.6
+Customer accounts:
+Related corporations 365.9
+Other 47.0
+Inventories (note) 3,492.7
+Capital assets 789.9
+Investments 2,686.8
+Other assets ___157.9
+$ 7,874.8
+LIABILITIES
+Accounts payable and accrued liabilities:
+Related corporations $ 289.2
+Other 1,896.2
+Advances and progress billings in excess
+of related costs 1,482.4
+Long-term debt 960.4
+Deferred income taxes __502.7
+5,130.9
+Shareholders’ equity _2,743.9
+$ 7,874.8
+The following is an excerpt from the supplementary note concerning inventories:
+Raw materials and products underway $ 115.9
+Long-term contracts and aerospace programs 5,446.5
+Finished products 461.0
+6,023.4
+Advances and progress billings (2,530.7)
+$ 3,492.7
+Observations concerning the balance sheet and the supplementary note:
+Neither the amounts received shown in the note concerning inventories ($2,530.7) nor the costs incurred in the gross amount ($6,023.4) are part of total liabilities and assets, respectively.
+Thus, at January 31, 2000:
+§ The liabilities amount representing advances is $1,482.4.
+§ The cumulative amount received by Bombardier is $4,013.1 ($1,482.4 representing liabilities and $2,530.7 representing an amount deducted in calculating the book value of inventories).
+§ Details of the measurement of the Inventories component are shown in notes. Accordingly, the item Inventories, $3,492.7, is calculated on the basis of costs incurred on “long-term contracts and aerospace programs” amounting to $5,446.5, less the amount of the consideration received, $2,530.7. This is not a grouping of components (i.e. assets or liabilities) in the balance sheet. The $2,530.7 shown in the note concerning inventories is not a liability and is not part of the total liabilities in the balance sheet. [Emphasis by Mr. Chlala.]
+To summarize, Bombardier recognizes its rights and obligations under its long-term contracts by recognizing and measuring the liabilities or assets in accordance with GAAP applicable to long-term contracts.
+Under those GAAP, the amount of advances corresponds to the liabilities shown in the balance sheet and only to that amount. The aim of the disclosure of the amounts received in the note concerning inventories is solely to present the background of the related transactions, and they cannot in any case represent a liability or alter the characterization of the money received from customers as advances. [Emphasis by Mr. Chlala.]
+Question 3:
+What is the book value of the advances paid to Bombardier Inc. at the end of the year that appear in its balance sheet, shown in accordance with GAAP, for each of the 1990 to 2006 taxation years?
+Answer to question 3
+There is no definition of the word “advance” in the CICA Handbook in the context of recognition of long-term contracts in accordance with GAAP. Accordingly, we must consult other reference sources to determine the meaning of this word in that context.
+1. There are definitions of the word “advance” in the context of the presentation of long-term contracts on the balance sheet prepared in accordance with GAAP. Those definitions include the following:
+a. Paragraph 41 of International Standard IAS 11 Construction Contracts which defines the word “advances” as “the amounts received by the contractor before the work has been executed” (emphasis added). That definition provides as follows:
+i. advances and work executed form a unit and are a single component to be included in the balance sheet,
+ii. if any work has not been executed, the cost is nil and the amount of the advance is the gross amount received from the customer, and
+iii. if the corresponding “work” has been executed, there is no longer an advance.
+b. Appendix 5 of the Construction Industry Audit Technique Guide (ATG) published by the Internal Revenue Service (US), which defines two specific words in the context of long-term contracts as follows:
+i. “Advance Payments: Payments generally made to a prime contractor prior to the performance of any work under a contract. These payments help the contractor cover developmental and preliminary costs incurred prior to commencement of work.”[23]
+ii. “Advance on Contracts: A current liability on the books of contractors where billings or contracts exceed accumulated cost”.
+Note that the foregoing two definitions reflect the economic substance of long-term construction contracts, in accordance with which the work performed and payments from customers form a single “accounting unit”, and accordingly the advance is determined and measured on tha basis of the work performed.
+2. As well, under the theoretical framework and accounting standards in effect (GAAP), Bombardier must measure the book value of the advances that should appear in the balance sheet for a long-term contract underway as the amounts received from the customer net of the corresponding costs of the work.
+3. Accordingly, if the costs exceed the amounts received on a long-term contract, Bombardier has no liability. However, if the amounts received exceed the cost of the corresponding work, only the excess represents the advance that must appear in liabilities, since for accounting purposes, performance of the work constitutes settlement of the advances. Thus in accordance with GAAP, the initial advance ceases to be an advance once the long-term contract is underway.
+4. Ménard’s Dictionnaire de la comptabilité [Dictionary of Accounting Terms], published by the CICA, provides the following general definition of the word “advance” in the context of a general contract of sale (in general): [Translation] “A payment made on account of, but before completion of, a contract, or before receipt of goods or services”.
+a. The definition in Ménard’s Dictionary addresses the application of GAAP not in the specific context of long-term contract accounting, but in the more general context of the sale of goods. However, GAAP, which apply to the measurement of the liability relating to advances received under long-term contracts, are not consistent with that definition. Thus in accordance with GAAP as they relate to long-term contracts, and as explained earlier, an advance is settled as work is performed and costs are incurred. Accordingly, only the amount by which the amounts received exceed the costs incurred correspond to [Translation] “a payment made before completion of a contract or before receipt of services”. In strictly legal terms, the contract could not be considered to have been completely performed before delivery of the goods, and this would provide a measurement of the obligation (i.e. the amount in liabilities in the balance sheet) relating to the advances received that is totally different from the measurement provided by GAAP.
+5. Bombardier would have presented a misleading balance sheet that would not comply with GAAP if it had measured the liability as net of the cumulative amount of the cash received from customers or the asset as gross of the cumulative costs incurred (two figures shown in the supplementary note concerning inventories).
+6. Bombardier presents the long-term contracts in the balance sheet in accordance with accounting methods that are comparable to the other enterprises operating in the same industry in North America (see also point 4 in the answer to question 2 at page 12 of this report).
+7. According to Bombardier’s audited financial statements for the 1990 to 2006 fiscal years, prepared in accordance with GAAP, the amounts of the advances are shown in liabilities in the balance sheet, prepared in accordance with GAAP, at the closing date of the fiscal year in question. Accordingly,
+a. for 1990 to 1996, no advance appears in Bombardier’s balance sheet since the costs incurred on the products underway exceed the amount of the advances; and
+b. for 1997 to 2006, the book value of the advances for each of the years is reflected by the figure for non-financial liabilities entitled “Advances and progress billings in excess of related costs” (APBEC). Bombardier indicates in the note concerning the main accounting conventions relating to valuation of inventories and recognition of revenues (products) that “advances and progress billings in excess of related costs are shown as liabilities”.24 According to Bombardier’s financial statements, a single component of non-financial liabilities is shown in the balance sheet relating to advances and progress billings received on these long-term contracts, i.e. the APBEC. The APBEC component of the balance sheet is:
+____________
+24 Bombardier Inc. uses two word to refer to billings on its long-term contracts: proportional billings and progress billing [sic].
+Fiscal years ended:
+Book value of APBEC component in the balance sheet:
+January 31, from 1990 to 199[5]
+Nil
+January 31, 1997
+$ 249,400,000
+January 31, 1998
+$ 332,100,000
+January 31, 1999
+$1,246,100,000
+January 31, 2000
+$1,482,400,000
+January 31, 2001
+$1,304,100,000
+January 31, 2002
+$1,067,800,000
+January 31, 2003
+$1,025,900,000
+January 31, 2004
+$ 883,000,000
+January 31, 2005
+$1,084,000,000
+January 31, 2006
+$ 832,000,000
+Question 4:
+For any of the 1990 to 2006 taxation years, does the amount shown in the supplementary notes to the financial statements of Bombardier Inc. represent the book value of the advances paid to it at the end of the year that must appear in liabilities on the balance sheet of Bombardier Inc., shown in accordance with the GAAP?
+Answer to question 4:
+As noted earlier, to determine the amount of liabilities or the amount of assets arising out of Bombardier’s long-term contracts, we must refer to the balance sheet alone and not the supplementary note, which provides additional information concerning the measurement of the book value of the inventories that appear in assets.
+1. Bombardier’s supplementary note
+a. relates to the details of the calculation of the book value of the assetsshown in the balance sheet,
+b. cannot, in accordance with GAAP, be intended to present a liability that was not recognized in the balance sheet.
+2. However, the supplementary note is useful since it enables users of the financial statements to assess the management’s hypotheses and estimates that are used in the calculation of the amount of the asset (inventories).
+3. The practice in effect, of measuring assets and liabilities on a long-term contract net of cumulative advances and cumulative costs incurred, is consistent with GAAP.
+Accordingly, the supplementary notes do not provide information about liabilities that was omitted from the balance sheet. The book value of the advances is shown in the balance sheet in the APBEC component and is added to the other liabilities to arrive at the total liabilities in the balance sheet. Cumulative advances and progress billings do not represent the book value of the advances it has been given at the end of the year and cannot appear as liabilities in Bombardier’s balance sheet. Cumulative advances and progress billings and cumulative costs incurred on long-term contracts and aerospace programs shown in the supplementary note concerning inventories [Emphasis by Mr. Chlala.]:
+§ provide a “historical” indication of amounts received from customers and costs incurred by Bombardier, which are not a liability or asset, respectively, in themselves, [Emphasis by Mr. Chlala.]
+§ comprise a single “accounting unit”, that is, the two cumulative totals cannot be separated and the net amount is the only liability and the only measurement of the book value of the liability relating to advances and progress billings received on long-term contracts and required to appear in the balance sheet.
+Question 5:
+How is International Standard IAS 11 from before 1995 different from U.S. standard SOP 81-1 which Bombardier Inc. used for presenting its balance sheets on the closing dates in the 1990 to 2006 fiscal years?
+Answer to question 5:
+Bombardier Inc. (Bombardier) uses standard SOP 81-1 found in the AICPA’s Audit and Accounting Guide: Construction Contractors. That standard differs from the old version of IAS 11 Construction Contracts, but it is similar to the version of IAS 11 currently in effect in relation to recognition and measurement of liabilities and assets in the balance sheet for long-term contracts.
+The following is a brief overview of the history of standard IAS 11:
+1. IAS 11 Construction Contracts of the International Accounting Standards Committee (IASC), now the International Accounting Standards Board (IASB), was published in December 1993 and came into effect for fiscal years beginning on January 1, 1995. That standard replaced IAS 11 Accounting for Construction Contracts published in March 1979, which was in effect until 1994.
+2. Former standard IAS 11 (in effect before 1995) offered corporations a choice of (1) measuring liabilities gross of progress billings, and (2) measuring liabilities net of cumulative progress billings and cumulative costs incurred on work in progress.
+3. The IASC decided to eliminate the option of presenting progress billings as a liability without taking costs incurred on a contract into account. From my point of view, that decision was sound, since the option of measuring the liability (or performance obligation) as the amount of progress billings without taking costs incurred into account was inconsistent with the conceptual accounting framework and contradicted generally accepted accounting practices.
+...
+Accordingly, since 1995, GAAP in effect in the United States and on the international scene contain the same recommendations concerning measurement of assets and liabilities arising out of a long-term contract: both require that cumulative progress billings and cumulative costs incurred on work in progress be considered as an inseparable unit. There is therefore a consensus that requires corporations to measure assets or liabilities arising out of long-term contracts as net of the two cumulative totals, which are not in themselves assets and liabilities.
+...
+Question 6:
+Is there a connection between the method of recognizing income associated with long-term contracts and the characterization of the amounts received from customers as advances?
+Answer to question 6:
+1. Proceeds (revenues) constitute a component of the income statement, while an advance received on a long-term contract is an amount that is included in calculating a component of the balance sheet (an asset or liability, as discussed earlier)[.]
+2. The income statement and the balance sheet have different objectives:
+a. The balance sheet is a representation of a corporation’s financial situation at a particular date in the form of economic resources (assets), obligations (liabilities) and elements of equity (equity). The balance sheet provides information about the corporation’s resources and debt.
+b. The income statement presents the income from transactions for a particular period. The income statement provides information about the corporation’s financial performance and profitability.
+3. Given that the objectives of the balance sheet and the income statement are different, the accounting rules for recognizing and measuring the components presented in those two tables may also differ. For example, the accounting rules generally require that a liability be recognized in the balance sheet when the business contracts an obligation while income is generally recognized when a transaction is completed.
+4. SOP 81-1, which relates to recognition of long-term contracts, provides for two acceptable methods for recognizing income:
+a. the “percentage of completion method” under which income is recognized as work is performed, and
+b. the “completed contract method” under which income is recognized only when all work provided for in the contract is completed.
+5. ARB 45, on which SOP 81-1 is based, provides that whatever method is used for recognizing income,[24] the amount of the advances that comprise the liability must be measured using a single method, the net amount of advances received in excess of work performed on the contract.
+6. Accordingly, in the case where income is recognized when work is completed (“completed contract method”), the method followed by Bombardier for recognition of contracts relating to aerospace programs, ARB 45 provides as follows:
+When the completed-contract method is used, an excess of accumulated costs over related billings should be shown in the balance sheet as a current asset, and an excess of accumulated billings over related costs should be shown among the liabilities, in most cases as a current liability. If costs exceed billings on some contracts, and billings exceed costs on others, the contracts should ordinarily be segregated so that the figures on the asset side include only those contracts on which costs exceed billings, and those on the liability side include only those on which billings exceed costs … [ARB 45.12]
+[14] It is also useful to reproduce certain passages from Mr. Thornton’s report (Exhibit I‑1). Of course, there is considerable overlap between the two opinions and I will reproduce only the passages that differ from Mr. Chlala’s report that seem to me to be most significant. However, since Mr. Thornton provided a summary of his opinion, which appears at pages 4 to 8 of the report, I will reproduce it here. Emphasis is mine, except where otherwise indicated:
+Executive Summary of Opinion
+07. GAAP for long-term construction contracts has been a specialized area since 1955 and even before that. However, financial statement concepts in the CICA Handbook state that a major, general[25] objective of accounting for any phenomenon is to help investors predict the ability of a company to earn income and generate cash flows in the future in order to meet its obligations and to generate a return on its investment, by providing information about the company’s economic resources and obligations and by providing information about changes in those resources. This objective is achieved when the company accounts for transactions and events and presents them in a manner that conveys their economic substance rather than necessarily their legal or other form.
+08. In my opinion, a company’s accounting would not[26] comply with GAAP if it presented nothing but the difference between (a) inventories and (b) advances and progress billings. Paragraph 25 (page 13) illustrates why by showing financial statement excerpts of two hypothetical companies that both report $1 as inventories net of advances and progress billings. To summarize, a hypothetical Company A has work-in-process inventory of $1,000; it has advances and progress billings of $999; a hypothetical Company B has work-in-process inventory of only $2; it has advances and progress billings of only $1:
+Company A
+Company B
+Inventory
+1,000
+2
+Less Advances and Progress Billings
+999
+1
+Inventory Net of Advances and Progress Billings
+1
+1
+09. I argue that Company A is more successful in generating contract business and has less inventory-based borrowing capacity than B; these inferences would not be possible unless the companies showed the components of the net $1 amounts, either on the face of their balance sheets or in notes to their financial statements. Disclosing only the net amount could also obscure changes in success and borrowing capacity over time for the same company. Thus, to comply with the general standards of GAAP, the companies would need to disclose the component amounts (inventories; advances and billings) either on the face of their balance sheets or in the notes to the financial statements. If they did not[27] disclose the component amounts on the face of the statements, then disclosure in the notes would be required under GAAP; such financial statements would not[28] comply with GAAP if the notes were omitted. Moreover, the component amounts disclosed in the note under GAAP would have the same import as if they had been disclosed on the companies’ balance sheets directly.
+10. I next perform a more technical analysis of GAAP relating to construction accounting. During the Period North American companies often referred to US accounting literature to justify the accounting policy of netting progress billings with work-in-progress inventories. Their practice, in turn, constituted Canadian GAAP not[29] because the author of the US publication was an authoritative accounting standard setter but because, prior to 2003, a company could justify using an accounting principle that was “generally accepted by virtue of its use by a significant number of Canadian companies.” The US publication distinguished advances from progress billings, saying the advances are [sic] “generally are made to provide a revolving fund and are not usually applied as partial payment until the contract is nearly or fully completed. However, advances that are definitely regarded as payments on account of work in progress should be shown as a deduction from the related asset, and the amounts should be disclosed.” This statement suggests that it is permissible to net the Amounts with inventories, provided the company discloses them separately from progress billings; but management would need to exercise judgment in “definitely regarding” the Amounts as being akin to progress payments.
+11. After 2003, Canadian companies could no longer justify using an accounting principle just because it was “generally accepted by virtue of its use by a significant number of Canadian companies” but there was little or no authoritative specific Canadian literature on how to apply accounting principles relating to construction accounting. Henceforth, it would be preferable to refer to International Accounting Standard No. 11 Construction Contracts as a basis for complying with Canadian GAAP, because the International Accounting Standards Board was (and is) an authoritative standards setter, albeit not a Canadian one. (This will change in 2011 when Canada joins many other countries in adopting International Financial Reporting Standards as GAAP). International Accounting Standard No. 11 was much stricter in distinguishing advances from progress billings, requiring separate disclosure of advances. It said progress billings but not advances should be netted with inventories, though it did not specifically prohibit advances from being netted with inventories.
+12. The question of whether Bombardier’s financial statements complied with GAAP after 2003 then attains some saliency. I would rely on the judgment of the auditors and the company and conclude that they did, even though Bombardier’s accounting for the contracts I reviewed did not comport strictly with the textbook accounting for contracts called the “completed contract method” or the “percentage of completion method” and Bombardier continued to aggregate advances and progress billings rather than making separate disclosures of the advances. Possibly, the auditors did not see any substance to the “no-invoicing” character of advances, which is one feature that distinguishes advances from progress billings. Also, progress billings are normally made when progress is made; the advances would tend to flow to Bombardier regardless or the degree of progress on a contract. Still, I respect the judgment of the auditors on this point. I am uneasy, however, about Bombardier’s practice of aggregating progress billings with advances and not making separate disclosure of the advances.
+13. Next I consider the meaning of the term “reflected in financial statements” by performing some original research on the basis of contexts of the 382 occurrences of the term “reflect” as a root-word in the CICA Handbook. I conclude that under GAAP the verb “reflect” generally means “represent, recognize, depict, include, convey, or incorporate.” I also argue that any amounts disclosed in financial statement notes that give details about the components of amounts shown in the financial statements are also reflected in financial statements, as elements of the statements to which they are cross-referenced.
+14. Finally, I elaborate on the role of financial statement notes. I show that the notes are integral to financial statements. The notes themselves are not “elements” of the financial statements; only items like assets, liabilities, revenues and expenses are financial statement elements. Financial statement notes, however, often provide additional information about elements, or set out the components of elements that are shown on the face of the statements. The Amounts are elements even though they do not appear on the face of the balance sheet because in the notes they are disclosed as components of an element, or components of a difference between two elements (inventories net of advances and progress billings) and hence the Amounts are reflected on the balance sheet.
+15. On page 33 (paragraph 55) I explain why I think that the Amounts are analogous to draw-downs of lending facilities, i.e., the Amounts are substitutes for debt financing to support the manufacturing of work-in-progress inventory.
+16. On page 55 I answer the four questions posed by Justice:
+1. According to GAAP, what is the nature and substance of the payments made by Bombardier’s customers pursuant to the contracts?
+The Amounts are in substance debt financing to support the manufacturing of airplanes included in work-in-progress inventory.
+2. Were the Appellant’s balance sheets (and financial statements) in accordance with GAAP with respect to those payments?
+Yes, at least until 2003 when the definition of GAAP changed in Canada. Even after 2003, I have no reason to assert that the financial statements did not comply with GAAP.
+3. Are the advances, as detailed in the notes to the financial statements, “reflected” in the balance sheets of Bombardier?
+Yes. The Amounts are reflected, incorporated, or depicted in the balance sheet by dint of the balance-sheet references to financial statement notes; the notes, in turn, give details relating to the Amounts.
+4. Are the notes to the financial statements an integral part of the balance sheets?
+Yes.
+Relevant Statutory Provisions
+[15] The relevant statutory provisions read as follows:
+Determining values and amounts
+181(3) For the purposes of determining the carrying value of a corporation’s assets or any other amount under this Part in respect of a corporation’s capital, investment allowance, taxable capital or taxable capital employed in Canada for a taxation year or in respect of a partnership in which a corporation has an interest,
+(a) the equity and consolidation methods of accounting shall not be used; and
+(b) subject to paragraph 181(3)(a) and except as otherwise provided in this Part, the amounts reflected in the balance sheet
+(i) presented to the shareholders of the corporation (in the case of a corporation that is neither an insurance corporation to which subparagraph 181(3)(b)(ii) applies nor a bank) or the members of the partnership, as the case may be, or, where such a balance sheet was not prepared in accordance with generally accepted accounting principles or no such balance sheet was prepared, the amounts that would be reflected if such a balance sheet had been prepared in accordance with generally accepted accounting principles, or
+...
+Limitations respecting inclusions and deductions
+(4) Unless a contrary intention is evident, no provision of this Part shall be read or construed to require the inclusion or to permit the deduction, in computing the amount of a corporation’s capital, investment allowance, taxable capital or taxable capital employed in Canada for a taxation year, of any amount to the extent that that amount has been included or deducted, as the case may be, in computing the first-mentioned amount under, in accordance with or by reason of any other provision of this Part.
+Taxable capital
+181.2 (2) The taxable capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which its capital for the year exceeds its investment allowance for the year.
+(3) The capital of a corporation ... for a taxation year is the amount, if any, by which the total of
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members’ contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+(b) the amount of its reserves for the year, except to the extent that they were deducted in computing its income for the year under Part I,
+...
+(c) the amount of all loans and advances to the corporation at the end of the year,
+...
+exceeds the total of
+...
+Investment allowance
+(4) The investment allowance of a corporation (other than a financial institution) for a taxation year is the total of all amounts each of which is the carrying value at the end of the year of an asset of the corporation that is
+(a) a share of another corporation,
+(b) a loan or advance to another corporation (other than a financial institution),
+...
+[Emphasis added.]
+Position of Bombardier
+[16] Counsel for Bombardier first noted that the purpose of the tax on large corporations announced in Finance Minister Wilson’s budget on April 27, 1989, was the reduction of the federal deficit. At page 41 of the budget papers (Respondent’s Authorities, tab 1), the tax base is defined as including loans and advances:
+Tax on Non-Financial Corporations: Detailed Provisions
+The tax base will be calculated using the accounts of a corporation determined in accordance with generally-accepted accounting principles and presented on an unconsolidated basis. Current year-end balances will be used.
+This base will include the corporation’s shareholders’ equity, surpluses, and reserves, as well as loans and advances to the corporation, and certain other debts.
+Surpluses will include earned surpluses and capital, appraisal and other surpluses. Current income taxes paid or payable to all jurisdictions and dividends paid by the corporation before the end of the year will be excluded. However, deferred income tax reserves and contingent, investment, inventory and similar reserves (other than those reserves deducted under Part I of the Income Tax Act) will be included in computing a corporation’s capital.
+All loans and advances to a corporation, as well as any other indebtedness that is represented by bonds, debentures, mortgages or other securities of the corporation, will be included in computing its capital. Other indebtedness of the corporation, including accounts payable, that has been outstanding for more than 356 days prior to the end of the corporation’s tax year will also be included in its capital.
+[Emphasis added.]
+(a) Main position
+[17] Counsel for Bombardier submits that the statutory provisions enacted by the Parliament of Canada are consistent with the fiscal policy announced by Finance Minister Wilson. Counsel advanced two arguments against the Minister’s assessment. First, as the principal argument, he agreed that moneys paid to Bombardier by customers on account of the purchase price of the aircraft and railway stock that Bombardier was to deliver constitute advances for the purposes of the Act, but submitted that the amount of those advances must be the amount determined in liabilities in Bombardier’s balance sheet, that is, “advances and progress billings in excess of related costs”. In the alternative, he submitted that the moneys received were included in Bombardier’s income and were then deducted from it. With respect to the 2000 taxation year in particular, all of the advances from customers were included in income under paragraph 12(1)(a) of the Act and it was deducted in full under paragraph 20(1)(m) of the Act. These are moneys covered by paragraph 181.2(3)(b) and they were therefore excluded, by application of that paragraph, in computing the capital. Given that result, that paragraph should take precedence over paragraph 181.2(3)(c) of the Act.
+[18] In the submission of counsel for Bombardier, a loan is a financial obligation that must be repaid, while an advance is a non-financial obligation that must be used to finance construction costs, that is, work in progress, and under GAAP applicable to long-term construction contracts, the advances must be deducted from the cost of inventories because Bombardier considered that the financial resources represented by the advances had been used as payments for the work in progress. Accordingly, the amount of those advances at the end of its fiscal year was not the total of the moneys received from its customers, and was rather the balance of those advances that had not been used to finance the cost of its products.
+[19] In counsel’s submission, the relevant provisions of the Act with respect to calculation of the capital require that GAAP be applied not only concerning the nature of the elements that had to be including in computing the capital, but also concerning the amounts or values that appear in the balance sheet.
+[20] In support of the proposition that the characterization for accounting purposes should take precedence, counsel for Bombardier cited a number of decisions. In particular, he cited Ford Credit Canada Ltd v. Canada, [2006] T.C.J. No. 331 (QL), DTC 3424 (Eng.), in which Chief Justice Bowman concluded that the accounting treatment had to take precedence over the legal treatment with respect to Class “C” preferred shares redeemable at the holder’s option. In the financial statements, those shares had beenshown as a debt of the corporation rather than as share capital. Chief Justice Bowman wrote, at paragraphs 26 and 32 of his decision:
+26 We are not, in Part I.3, dealing with the computation of income, a function that courts have jealously guarded to themselves. We are dealing with a tax on capital and the base upon which the tax is to be computed. It is not surprising if Parliament were to direct us to look to the manner in which accountants measure that base. As Archambault J., said in Oerlikon Aérospatiale Inc. v. The Queen, [1998] 4 C.T.C. 2821 at 2838:
+... I believe that accounting principles must be used to determine not only the value, but also the nature of the elements set out in subsection 181.2(3) of the Act. The value appearing in a balance sheet has meaning only when it is linked to a specific heading.
+...
+32 The effect of these decisions and indeed of the plain meaning of subsection 181(3) is that the accounting characterization of terms in the balance sheet is to be accepted in determining the components of a corporation's capital for the purposes of Part I.3. In specifically giving a function to accounting principles that is somewhat unique in income tax matters, Parliament intended that deference be given to the accounting characterization in the balance sheet of items that make up a corporation's capital.
+[21] That decision was affirmed by the Federal Court of Appeal in Ford Credit Canada Ltd v. Canada, [2007] F.C.J. No. 826 (QL), 2007 DTC 5431 (Eng.). At paragraph 27, Justice Ryer wrote: “the balance sheet … must be accepted for the purposes of the determination of the LCT liability of the corporation.” In this case, since it has been admitted by the parties and their respective experts that Bombardier’s financial statements had been prepared in accordance with GAAP, the amount of the advances that should be added in calculating Bombardier’s capital is the amount that appears in liabilities for the item “advances an interim billings in excess of related costs”. In counsel’s submission, Bombardier’s senior management considered the moneys paid by Bombardier’s customers to be payments on account relating to work in progress and accordingly it was appropriate to apply the rule that appears in the AICPA Audit and Accounting Guide: Construction Contractors (Guide), at paragraph 6.19: “… Advances that are definitely regarded as payments on account of work in progress should be shown as a deduction from the related asset, and the amounts should be disclosed”. (Emphasis added.) (See Exhibit A‑7, tab 3, page 157.)
+[22] The approach followed by Bombardier is similar to that followed by the taxpayer in Terasen Gas (Vancouver Island) Inc. v. The Queen in Right of the Province of British Columbia, 2006 BCSC 1696. In that case, the taxpayer had received $100 million from the federal government to build a gas pipeline in 1991. That amount had been deducted from the cost of the pipeline. The Crown submitted as follows (at paragraph 22): “The Crown argues that they [the payments] were still ‘accounted for’ in the balance sheet because they were used to net down the assets.” The answer given by Justice Smith of the British Columbia Supreme Court was as follows (at paragraph 23):[30]
+23 In my respectful view, that submission is beside the point. The payments at issue may indeed be "accounted for" in the sense that they had to be considered in arriving at the total value of the petitioner's capital. But the resulting accounting determination was that their value as capital was nil and no amount was included for them as part of the total capital shown in the financial statements. The evidence is that this is the result GAAP mandates in these circumstances.
+[Emphasis added.]
+[23] In the opinion of counsel for Bombardier, the respondent and her expert are wrong to argue that the amount that appears in the “advances” account must be used, which was used in the supplementary notes for the calculation of the value of inventories, since that amount shown there is not meant as a representation of the amount of the debt or the liability, but to serve for the calculation of the value of an asset. He noted the following accounting principles, which are set out in the CICA Handbook, in chapter 1000, that deal with the conceptual bases of financial statements, at paragraph .42:[31]
+Recognition means inclusion of an item within one or more individual statements and does not mean disclosure in the notes to the financial statements. Notes either provide further details about items recognized in the financial statements, or provide information about items that do not meet the criteria for recognition and thus are not recognized in the financial statements.
+[Emphasis added.]
+[24] Similarly, he quoted chapter 1400, “General Standards of Financial Statement Presentation”, at paragraph .07, which states:
+An entity provides information in a manner that clearly conveys the nature and extent, and significant terms and conditions, of the related transactions. … An entity discloses amounts such that users of financial statements do not have to recalculate amounts actually disclosed to determine amounts that are required to be disclosed.
+[Emphasis added.]
+[25] Paragraph 1400.11 of that Manual states:
+Notes to financial statements, and supporting schedules to which the financial statements are cross-referenced, are often essential to clarify or further explain the items in the financial statements. They have the same significance as if the information or explanations were set out in the body of the statements themselves. They are not, however, to be used as a substitute for proper accounting treatment.
+[Emphasis added.]
+Accordingly, the amount that must appear as the value of advances is the amount that appears in the body of the balance sheet under liabilities, and not the amounts used for the calculation of the net value of inventories in the supplementary notes.
+[26] The facts in these appeals bear a strong resemblance to the facts in Oerlikon Aérospatiale Inc. (supra, footnote 1), where I confirmed the assessment by which the Minister, in computing Oerlikon’s capital, had added the amounts of the advances as they appeared in the supplementary notes for the purpose of the calculation of inventories. Counsel for Bombardier rightly pointed out that the issue in Oerlikon was whether the Act applied to advances on account, or whether, as counsel for Oerlikon argued, its application had to be limited to advances in the nature of loans. In that case, I ruled that paragraph 181.2(3)(c) applied equally to both types. However, the issue there was not the amount of the advances. Oerlikon’s expert witness had offered this opinion in his report:[32]
+[Translation]
+Mr. Blanchette confirms at page 4 of his report that the OA balance sheet follows this presentation:
+According to this information, all moneys received by OA from WO and from Martin Marietta Corporation were used in the work in progress and the other expenses relating to the contracts. However, those amounts were still considered to be advances in accordance with the accounting principles stated previously and presented as such in the financial statements.
+[Emphasis added.]
+[27] In argument, counsel for Bombardier also addressed a decision of the Court of Québec, Bombardier v. Sous-ministre du Revenu du Québec, 2010 QCCQ 3036; the Court had to decide an issue similar to the issue in these appeals. For the 1992 to 2001 taxation years, the capital had to be computed for the purposes of the capital tax paid as provided in section 1131 of the Taxation Act. The judge of the Court of Québec ruled that, for the purposes of that Act, the amount of the advances was the amount found in the supplementary notes. He made the following remarks, at paragraph 73:
+[Translation]
+73 On this point, the Court accepts the opinion of the expert Diane Paul and concludes that even if the amounts were used by Bombardier to offset costs incurred in order to perform the contract, they are still advances that are potentially repayable under the terms of the contract.
+[Emphasis added.]
+[28] Bombardier appealed before the Quebec Court of Appeal. It argued that the trial judge had adopted a legal approach to the definition of the word “advance” instead of an accounting approach. This may be seen in the following analysis by the judge at paragraphs 37, 48, 65, 69 and 70 of his decision:
+[Translation]
+37 As long as delivery has not been made, the amounts received by Bombardier, in accordance with the provisions of the contract, are still advances and are part of the corporation’s paid-up capital, inter alia, because they are repayable. From the standpoint of the sale contracts signed by Bombardier, Ms. Paul rejects the idea of “progress billing”. She acknowledges that it is important to consider the economic or commercial substance of the contract, but adds, on the other hand, that the legal substance is equally important.
+...
+48 Having regard to the definition of the phrase “financial statements” in section 1130 of the Taxation Act, it is obvious that GAAP are important. Mr. Chlala defined them as follows in his testimony:
+... a set of general principles and conventions of general application and of rules and procedures that determine what the accepted accounting principles are ...
+...
+65 Although Bombardier uses those amounts to offset the costs incurred, it must be noted that under the contract those amounts are not definitively Bombardier’s until the contract is completely performed, that is, at delivery.
+...
+69 If, as section 16.3(c) provides, the amounts in issue may be retained and applied “against” costs and expenses in the event of termination, in accordance with clauses 9.8, 16.1 and 16.2 of the contract, that means that before then, even if Bombardier has used those amounts, they were not its own.
+70 In the event that there has been no termination of the contract before delivery, it must be concluded that those amounts were still advances until delivery, the point that also marks the termination of the contract, this time by performance. Only then may Bombardier retain those amounts and apply them definitely to the sale price.
+[Emphasis added.]
+[29] Counsel submitted that, contrary to what the judge of the Court of Québec wrote at paragraph 48, the financial statements are not merely important, they are conclusive. In counsel’s submission, Mr. Thornton has adopted an interpretation similar to the one adopted by the Court of Québec when he concludes that the advances are still advances as long as there has been no delivery of the aircraft or products.
+(b) Alternative position
+[30] Counsel for Bombardier acknowledged that his argument, that paragraph 181.2(3)(b) had to take precedence over paragraph (c), was not his best argument. However, he reiterated his position, in view of Pretty v. Solly, cited in Canfor Ltd. v. British Columbia (Minister of Finance), 1975 Carswell BC 253, [1976] C.T.C. 429, [1976] 3 W.W.R. 519:
+38 These [certain rules of interpretation] have been considered and stated in a number of authorities. In Pretty v. Solly (1859) 26 Beav 606 ( 53 ER 1032) it is thus stated at page 610:
+The general rules which are applicable to particular and general enactments in statutes are very clear, the only difficulty is in their application. The rule is, that wherever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be operative, and the general enactment must be taken to affect only the other parts of the statute to which it may properly apply.
+[Emphasis added.]
+Position of the respondent
+[31] The respondent filed written submissions, and I will quote certain excerpts (with footnotes omitted):
+[Translation]
+10. The respondent submits that, from a substantive accounting point of view, the moneys received by Bombardier is that they are advances and that those amounts are reflected in its balance sheet.
+...
+Definition of advances
+12. To determine the economic substance of the payments received by an entity, we must refer to the intent of the parties to the contract. Here, the standard contract in issue (Jersey, tab 69 of the Compendium) is very clear and it can be concluded from it that the moneys received by Bombardier could only be advances on the contract. The provisions of the contract are very important, as we shall see later.
+13. According to Louis Ménard’s accounting and management dictionary, an advance payment is [TRANSLATION] “moneys paid before the goods or products sold have been delivered or the services performed”.
+14. In Terminology for Accountants, “advance” is defined as follows:
+1. A payment that is to be accounted for by the recipient at some later date, e.g. payment for expenses to be incurred.
+2. A payment made on account of, but before completion of a contract, or before receipt of goods or services.
+15. Second, international standard IAS-11, to which Mr. Chlala refers, also makes a distinction between advances and progress billing, in paragraph 41. It defines the two concepts as follows:
+41. Retentions are amounts of progress billings that are not paid until the satisfaction of conditions specified in the contract for the payment of such amounts or until defects have been rectified. Progress billings are amounts billed for work performed on a contract whether or not they have been paid by the customer. Advances are amounts received by the contractor before the related work is performed.
+16. The advances received by Bombardier were received before the corresponding work had been performed.
+17. Those definitions are regularly quoted by the courts.
+18. First, the Ontario Court of Appeal was asked to define the word “advance” in an analysis of the provincial capital tax. The definition it used was as follows:
+“payment [made] before … the completion of an obligation for which it is to be paid”: Dictionary of Business and Finance (1957), p. 9.
+19. As well, in Journaux Trans-Canada (1996) Inc., the Quebec Court of Appeal applied the following definition of “advances”:
+[Translation]
+An advance under paragraphs 1136(1)(b) and (d) is a payment made with a view to the future performance of a mutual obligation.
+20. The word “advances”, for the purposes of Part I.3, was also defined in Oerlikon.
+21. As in this case, Oerlikon used the completion method and recognized income at the time of delivery of the units. In that case, Oerlikon had notshown the total amount of the advances from its customers as a debt included in its liabilities, and instead deducted the value of its work in progress included in its assets. The advances received by the appellant were identified in note 4 to the balance sheet and described as “Advances from Customers”.
+22. Although that case related to the application of the international standards that offered entities a choice as to the method of presentation, Oerlikon presented the advances received using a method identical to the one proposed by the Accounting and Audit Guide – Construction Contract or SOP 81-1.
+23. For one of the years in issue, Oerlikon had shown the excess of advances over liabilities in its balance sheet. However, for another of the taxation years in issue, advances were deducted from work in progress. On that point, the Court of Appeal stated:
+In neither case was this amount included as income because, according to generally accepted accounting principles, an advance is not recognized as income until the goods or services to which it relates are delivered or rendered or the percentage of completion method justifies its inclusion.
+24. The Court of Appeal quoted the following definition of advances, which it had used in TransCanada Pipelines Ltd., in concluding that the payments:
+… fell within dictionary definitions of “advance” as a “payment [made] beforehand or in anticipation” and a “payment made before … the completion of an obligation for which it is to be paid” Dictionary of Business and Finance, (1957), p.9.
+25. It then concluded:
+The appellant was unable to show how the advances at issue in this case were distinguishable from the advances the Ontario Court of Appeal considered in TCPL. Both cases dealt with payments made in advance for the eventual performance of the resulting reciprocal obligation.
+26. And finally, the Court of Appeal stated that an advance is available to the appellant and is part of its financial resources:
+The effect of an advance, be it in the sense of a payment on account or a loan, is to make the amount of money it represents available to the person or corporation which receives it. In the instant case, the advances were an integral part of the financial resources available to the appellant at the end of its 1989 fiscal year according to the financial statements it filed, and nothing either in the legislation or the tax policy which led to its enactment indicates that Parliament intended to exclude advances from the tax under Part I.3.
+27. What then is seen all of the decisions referred to above is the performance of the mutual obligation. In the case of Bombardier, that obligation, under the contract, is the delivery of the aircraft. It is impossible for Bombardier’s customer to take possession of the good before it is completed and ready for delivery. Bombardier’s obligation is therefore to deliver a good that meets the specifications in the contract.
+28. Oerlikon Aérospatiale Inc. was applied and followed in Ford Credit (FCA, para. 25) and Manufacturers Life Insurance Co. (FCA).
+...
+31. The definition offered by Mr. Thornton in his testimony is to the same effect [as] the definition in accounting dictionaries and in the new standard IAS‑11. In his opinion, it is an amount received before the work is performed. In Bombardier’s case, Mr. Thornton is of the opinion that performance of the work amounts to delivery, as provided in the contract (Report of Mr. Thornton, para. 55). In fact, Bombardier recognizes no income before that stage.
+32. The appellant’s position is that the advances lose their nature as the work is performed. To make that assertion, Bombardier’s expert could not cite a single source, other than his personal view. As Mr. Thornton’s testimony showed, IAS-11 addresses advances and billing separately, and never shows advances net of costs incurred, whether in assets or liabilities.
+33. Neither the document from the IRS nor the Accounting and Audit Guide – Construction Contract, nor SOP 81-1, allows for showing advances net of costs. The two documents address only progress billings.
+34. The following are some definitions of “progress billings”:
+An interim billing based upon partial completion of a contract[.]
+[Translation] Billing method based on the progress of the work to be performed.
+Amounts billed, in accordance with the provisions of a contract, on the basis of progress to date under the contract.
+35. The amounts received by Bombardier do not meet those definitions of progress billings, since no work was done under the contract.
+36. The only paragraph in any of the documents that allows for showing advances net of costs incurred is section 6.19 of the Handbook, which allows the net to be shown in a situation that does not relate to the appellants’ situation.
+37. Bombardier submits that when the advances reduce the work in progress they can no longer be advances. First, other than as a convention for presentation, there is no support in the literature, and no theoretical concept, that supports the position that advances must reduce costs. In addition, that argument is surprising since at every opportunity, Bombardier refers to these amounts by using the word “advances”.
+38. Indeed, even if the advances and costs are tracked by aircraft, the contract does not provide that the funds must be used for the payment of the construction costs. The advances are funds made available to Bombardier that are part of its available financial resources at the end of the year.
+39. SNC Technologies is an important case since it is a recent one (August 2008), like the decision rendered by the Court of Québec in Bombardier Inc. (tab 2 of the respondent’s book of authorities). In SNC Technologies, the Court ruled that the amounts received as “Progress payments regarded as interim payments” were nonetheless advances within the meaning of paragraph 181.2(3)(c) of the Act.
+40. Notwithstanding the fact that the advances reduce inventories or are in liabilities, they are “advances” in accounting terms. It is merely a question of presentation (para. 77 of Mr. Thornton’s report).
+The amounts received by Bombardier are advances
+41. The amounts received by Bombardier are advances:
+ Unlike progress billings, which are charged to the client once the work is performed, the amounts received by Bombardier are charged before the work has been performed (or before the mutual obligation has been performed). This corresponds to the definitions of advances provided by accounting dictionaries, the courts and international standard IAS‑11.
+ The mutual performance under the contract is the delivery of the aircraft. Indeed, Bombardier acknowledges that, since it recognizes no income when that stage is completed. In fact, chapter 3400, more specifically at paragraphs 3400.06 to 3400.15, clearly makes the connection between recognition of income and performance of the work.
+ The accounts in which the amounts received are accumulated are called “advances” and not “progress billings”.
+ The appellant admitted that the amounts received were recognized in the “advances” accounts only and not in the contra accounts, and that they accumulated there until the time of delivery. The amounts received from EDC and L.R. Jet were also recognized in accounts identified as “advances”.
+ Indeed, the documents submitted during examination of Pierre Lafontaine, Vice-President, Taxation, at Bombardier, describe the amounts received from its customers as “accountable customer advances”.
+ Until 1995, Bombardier’s financial statements referred simply to “advances” and made no mention of “progress billings” or “proportional billings”. Mr. Paré told us in his testimony that the substance of those accounts did not change after 1995, only the terminology used did.
+ Accordingly, until 1995, Bombardier was of the opinion that the amounts were advances.
+ As in Autobus Thomas (FCA), “[t]here is no reason to disregard their intent or not to give their transactions the meaning and effect they intended to give them and did give them in practice by recording them as such in their books of account”. Indeedt, in this case, both the auditors and Bombardier’s senior management agreed to the term “advances” to characterize the accounting substance of the transaction.
+ That shows that Nadi Chlala is the only one who argues that the amounts in issue are not advances, since a significant number of accountants have consistently identified these amounts as advances. If the advance had ceased to have that nature, those experts would have ceased to identify it as such.
+42. The standard contract of Bombardier’s Aerospace division (tab 69 of the compendium of documents) supports that conclusion.
+ The contract provides that Bombardier’s obligation under the contract is to deliver an aircraft to its customer.
+ Section 4 of the contract provides for the sale price.
+ Section 5 provides for the method of payment of the sale price. Paragraph 5.1 indicates that a down payment must be made on each aircraft. At the time the down payment is made, no work has been done on the aircraft.
+ Paragraph 5.2 of the contract provides for a payment schedule. In the Jersey contract, the payment schedule provides:
+It is contemplated that Buyer shall make the following payments for each Aircraft:
+(a) 5% of the estimated Purchase Price upon execution of the Purchase Agreement;
+(b) 7.5% of the estimated Purchase Price twelve (12) months prior to its Scheduled Delivery Date;
+(c) 7.5% of the estimated Purchase Price six (6) months prior to its Scheduled Delivery Date;
+(d) the balance of the Aircraft Purchase Price on or before the Delivery Date of such Aircraft.
+Payments referred to in paragraphs b. and c. above are to be made on the first day of the applicable month.
+ According to Mr. Paré’s testimony, the percentages in some contracts may be different. Indeed, in its notice of objection, Bombardier refers to a standard contract in which 10% of the sale price was payable on signing, 30% of the sale price was payable 12 months before delivery, and another 30% of the sale price was payable six months before delivery.
+ No witness has shown that the payment schedule was connected with the progress of the work.
+ The contract does not stipulate that Bombardier must use the advances expressly to pay the construction costs of the aircraft.
+ Indeed, Bombardier remains the sole owner of the aircraft until the customer has paid the full sale price, that is, until delivery (section 5.4 of the contract):
+Bombardier shall remain the exclusive owner of the Aircraft, free and clear of all rights, liens, charges or encumbrances created by or through Customer or Buyer, until such time as all payments provided for under the related Purchase Agreement and any amounts then due and payable by Customer under this Agreement have been made.
+ Title and risk associated with the aircraft are transferred only at the time of delivery:
+10.1 Following acceptance of each Aircraft by Customer and payment in full of the Aircraft Purchase Price by Buyer, Bombardier shall under the related Purchase Agreement transfer title and interest in the Aircraft to Buyer to be evidenced by instrument or by delivery (as the parties may agree).
+10.2 If, after transfer of title to Buyer on the Delivery Date, the Aircraft at Customer’s request remains in or is returned by Customer to the care, custody or control of Bombardier, Customer for itself and on behalf of its insurer(s) hereby waives and renounces to [sic], and releases Bombardier and any of Bombardier’s affiliates from any claim, whether direct, indirect or by way of subrogation, for damages to or loss of the Aircraft arising out of, or related to, or by reason of such care, custody or control.
+ Section 13.1 of the contract provides for situations where a forgivable delay may occur in delivery of the aircraft by Bombardier. In the event that delays result in more than a 12-month delay in delivery, the parties may terminate the contract under 13.2. Bombardier must then refund the advances that it has received to its customer (section 13.3).
+ Section 15 provides that, in the event of damage caused to the aircraft or loss of the aircraft by Bombardier, the customer may terminate the contract for that aircraft or, in certain circumstances, require replacement of the aircraft.
+ Section 16 provides for the consequences of cancellation of the aircraft. If Bombardier terminates the contract because of default by its customer, the advances are dealt with as follows:
+16.3(c) All amounts paid by Customer with respect to the applicable undelivered Aircraft shall be retained by Bombardier and shall be applied against the costs, expenses, losses and damages incurred by Bombardier as a result of Customer’s default and/or termination of this Agreement including without limitation … [Emphasis by the respondent.]
+ Accordingly, the contract does not provide that before default by the customer, Bombardier may apply the moneys received against costs. Only when the contract is terminated because of default by the customer may Bombardier do that.
+ The advances continue to be owing to the customer and do not belong to Bombardier under the contract until delivery. No consideration is received by the customer at the time of the payment before delivery.
+43. Mr. Thornton’s testimony on this issue is particularly valuable since according to his interpretation of the contract, the customer had never provided for making progress payments, other than to purchase the aircraft at the time of delivery. Any “interim” payment could only be financing.
+44. Initially, on the question of compliance with GAAP, Mr. Thornton concludes that the financial statements were prepared in accordance with those principles, but solely because of the presentation of the advances in the body of the financial statements or in notes (para. 76 of Mr. Thornton’s report).
+45. Accordingly, these are clearly financial resources that are available to Bombardier at the end of the year to undertake the manufacture of aircraft.
+...
+49. Bombardier considers that the amounts it receives are advances, as it shows in:
+- Its books of account (I-2, tabs 3 and 4)
+- Tables prepared by Jean Paré (Exhibits A-9 and A-10) and Pierre Lafontaine (Exhibit A‑11)
+- Financial statements (A-1, tabs 1 to 12)
+B. ADVANCES RECEIVED BY BOMBARDIER “REFLECTED IN BALANCE SHEET”
+50. The documents consulted by Nadi Chlala are important and illustrate that the amounts in issue must be in the balance sheet. See I‑7, tab 3 at paragraphs 6.18 and 6.20 and SOP 81‑1 at paragraphs 27 and 30.
+51. The advances in liabilities are reflected in the balance sheet. They are reflected there because they are reflected in the balance sheet because they appear in a supplementary note to the balance sheet. They are also reflected there because they constitute a component in calculating inventories and they reduce inventories in the balance sheet.
+The notes are an integral part of the financial statements and the information in them is as important as if it appeared in the body of the balance sheet itself
+...
+58. In addition, the courts have acknowledged on numerous occasions not only that what appears in the notes is part of the balance sheet but also that for the purposes of applying the tax on large corporations reference may and/or must be made to them:
+(1) Oerlikon Aérospatiale Inc. (TCC and FCA), supra. (tabs 3 and 4 of the respondent’s book of authorities).
+(2) The Royal Trust Company (supra), para[.] 19 (tab 8 of the respondent’s book of authorities). Manufacturers Life Insurance Co. (supra), para. 9 (tab 7 of the respondent’s book of authorities) and Ford Credit Canada (FCA) (supra), para. 25 which refers to Oerlikon Aérospatiale.
+(3) SNC Technologies Inc. v. The Queen, 2008 DTC 4538 (TCC), paras. 31, 39, 46 and 47 (tab 9 of the respondent’s book of authorities).
+(4) PCL Construction Management (supra), tab 10, at paragraphs 24 and 25, see also the definition of the word “advances” adopted at para. 17 (tab 10 of the respondent’s book of authorities).
+Advances are reflected in the balance sheet because they are included in the calculation of inventories in the balance sheet
+59. Advances are reflected in the balance sheet because the advances reduce the “inventories” asset in the appellant’s balance sheet.
+60. The appellant submits that the amounts are not reflected in the balance sheet because they are not “recognized”, they are simply disclosed.
+61. In Part I.3, Parliament indicates that to determine the book value of an amount under Part I.3 of the Act, the amounts that are reflected in the balance sheet presented to the shareholders of the corporation. It is important to note that Parliament does not require that the “amount” be an item in the balance sheet or an element, let alone that it be an element of liabilities. Parliament did not use the word “recognized”, it used the word “reflectedˮ, in French, “figurer”, in the balance sheet. The meaning of “reflected” and “figurer” is very broad.
+62. As well, regarding accounting, Mr. Thornton did a detailed study of the use of the English word “reflected” in accounting. He concluded that “reflected” has a meaning equivalent to “included, represented, recognized, or depicted in the statements” (para. 80 of Mr. Thornton’s report). Accordingly, the word “reflected” has a broad meaning.
+...
+65. Advances received are disclosed in the notes to the financial statements. They reduce inventories by a corresponding amount and accordingly are reflected.
+66. This disclosure is required so that the appellant’s financial statements are in accordance with GAAP (Report of Mr. Thornton, para. 76).
+67. This information is necessary for readers of the financial statements. As well, disclosure is required by paragraph 6.18 of the Audit and Accounting Guide – Construction Contract, whether by notes or “by a short extension in the balance sheet”. See also section 6.20.
+68. And finally, the most important decision is the decision rendered by the Court of Québec in Bombardier, since Judge Paquet adopted the respondent’s position on all of the issues, which were essentially the same as in this case.
+Analysis
+[32] It is easier to deal with the appellant’s alternative argument first, since, as its counsel acknowledged, that is not its best argument. As counsel himself acknowledged, the Federal Court of Appeal addressed this issue in Oerlikon (supra, footnote 1). The Court wrote, at paragraphs 20 and 21 of its decision:
+20 In addition to the above, counsel for the appellant argues that the reserves in the amount of $244,492,173 are specifically excluded from the computation of his client’s capital pursuant to paragraph 181.2(3)(b) and that this amount cannot be included anywhere else, for example as "advances" under paragraph 181.2(3)(c). In support of this argument, he cites the rule of construction to the effect that a particular enactment in a statute overrules a more general enactment on the same.
+21 I do not believe this rule supports the appellant’s argument. First, subsection 181.2(3) deals with a series of items which must all be included in the computation of a corporation’s capital, each of which is a particular enactment. Accordingly, while it is true that in the instant case paragraphs 181.2(3)(b) and 181.2(3)(c) apply to the same amount, they do so in different respects and give rise to results which can be reconciled in the statutory scheme.
+[33] In addition to this ground there is the argument made by counsel for the respondent submitting that subsection 181(4) of the Act is intended to avoid double inclusion of an element. I therefore reject Bombardier’s alternative argument as being without merit.
+[34] On the other hand, I am persuaded by the first argument made by counsel for Bombardier, as set out earlier, and I accept it in full. The starting point, obviously, is the language of the statutory provision itself. Under paragraph 181(3)(b) of the Act, the amounts of the advances that had to be added to the capital are the amounts reflected in the balance sheet presented to the shareholders or the amounts that would be reflected in the balance sheet if such a balance sheet had been prepared in accordance with GAAP. Moreover, the courts have confirmed that section 181 is consistent with the policy announced by Finance Minister Wilson when he indicated in his budget papers that the tax base of large corporations would be calculated using the accounts of the corporation determined in accordance with GAAP at the end of the fiscal year. The advances that are reflected in the balance sheet are the advances found in the liability entitled “advances and progress billings in excess of related costs” in the body of the balance sheet.
+[35] It was agreed by the parties that the balance sheet (like the other financial statements) had been prepared in accordance with GAAP. Moreover, part of the advances received by Bombardier as down payment on the contracts had been used to reduce the asset entitled “inventories”. According to the testimony of Mr. Chlala, the expert witness, the amounts that appear as liabilities under the item “advances and progress billings in excess of related costs” represent the value of the “advances” within the meaning of paragraph 181.2(3)(c) of the Act. The amounts in the advances account that appear in the supplementary notes are there only to all the asset “inventories” and the liability “advances and progress billings in excess of related costs” to be calculated”.
+[36] Not only did the respondent acknowledge that Bombardier’s financial statements had been prepared in accordance with GAAP, but its expert, Mr. Thornton, also acknowledged this in his report and his testimony. As Justice Ryer of the Federal Court of Appeal stated in Ford Credit Canada Ltd, supra, “the balance sheet … must be accepted for LCT purposes.” (paragraph 27). I accept the following opinion stated by Mr. Chlala in answer to question 3 (“What is the book value of the advances paid to Bombardier Inc. at the end of the year that appear in its balance sheet, shown in accordance with GAAP, for each of the 1990 to 2006 taxation years?”):
+[Translation]
+3. Accordingly, if the costs exceed the amounts received on a long-term contract, Bombardier has no liability. However, if the amounts received exceed the cost of the corresponding work, only the excess represents the advance that must appear in liabilities, since for accounting purposes, performance of the work constitutes settlement of the advances. Thus in accordance with GAAP, the initial advance ceases to be an advance once the long-term contract is underway.
+[37] It is possible that there is really no discrepancy between the opinions of Mr. Chlala and Mr. Thornton since that question was not put directly to Mr. Thornton. I note that the questions most similar to it that were put to him are question 1: “According to GAAP, what is the nature and substance of the payments made by Bombardier’s customers pursuant to the contracts?”, and question 3: “Are the advances, as detailed in the notes to the financial statements, “reflected” in the balance sheets of Bombardier?” Accordingly, it seems that Mr. Thornton was never asked the right question, that is, the one put to Mr. Chlala.
+[38] Obviously, the opinion given by Mr. Chlala seems to me to be entirely consistent with accounting principles, and in particular the instructions in the CICA Handbook, which provides that recognition of an item in the balance sheet must be “within one or more individual statements and does not mean … in the notes”. See paragraph .42 of chapter 1000, reproduced supra. I also adopt the reasoning of the British Columbia Supreme Court in Terasen Gas Vancouver Island Inc., in particular at paragraph 23, reproduced supra.
+[39] Bombardier’s financial statements were prepared by the firm Ernst & Young. For example, in its report for 2002, that firm wrote, in the second paragraph, that its audit was done in accordance with audit standards generally accepted in Canada. (See Exhibit A‑1, tab 13, page 286.) In the opinion of Ernst & Young, “these non-consolidated financial statements present fairly, in all material respects, the financial position of the Company as at January 31, 2002, … except that they are prepared on a non-consolidated basis …”. The first paragraph also states that the responsibility for the financial statements in question lies with the management of the corporation. It appears from the above-mentioned report and the statements that accompany it that Bombardier considered the advances to be payments “on account of work in progress” and, in accordance with GAAP, the accounting firm prepared a balance sheet in which it recognized as advances only those in excess of the cost of inventories.
+[40] It is important to note that this approach is valid, as I understand it, only for long-term manufacturing or construction contracts. In general, advances will not be deducted in the computation of inventories and will normally appear as a liability in the balance sheet.
+[41] Moreover, I do not share the opinion of counsel for the respondent, who believe it is not necessary that the [Translation] “amount … reflected … in the balance sheet” be an “item” or “element” of the balance sheet, “let alone that it be a liability”, as they said at paragraph 61 of their written argument. First, it is clear that Finance Minister Wilson’s budget papers (an excerpt of which is reproduced supra at paragraph 16 of these reasons) indicate that the intention was to define “capital” for the purpose of the tax on large corporations as including “liabilities”. In the budget papers, it is stated that the tax base includes “other indebtedness”. In the French version of subsection 181.2(3) of the Act, “capital” is defined as “l’excédent éventuel du total des éléments suivants …”. (Emphasis added.) The use of the word “éléments” is not an accident. In general, the word “montant” or “somme” is used in the Act in drafting similar provisions. (See, inter alia, the definition of “fraction non amortie du coût en capital” in subs. 13(21) of the Act). If Parliament could have used the phrase “élément de passif”, it would have done so. But it could not do that, because in listing the elements that follow, there are elements that are not liabilities, in particular capital stock, which is part of the “equity” component. When Parliament could use that type of phrase, it did so, as is the case in the definition of “déduction pour placements” [investment allowance] in subsection 181.2(4) of the Act, where it uses the phrase “élément d’actif” [asset]. That definition is relevant for the purposes of the computation of the “capital imposable” [taxable capital] in subsection 181.2(2) of the Act. That phrase is also found in subsection 181(3) for the determination of values and amounts.
+[42] I have concluded that the value of the advances is the value that constitutes the value of a “liability”, which must necessary appear in the balance sheet; hence, it follows that the part of the advances that reduces the value of the inventories cannot constitute the value of the advances that is reflected in the balance sheet. It is entirely inappropriate, in accordance with GAAP, to show a liability in the notes, and it is even less appropriate to do so in the note providing details of the calculation of an asset, such as inventories.
+[43] In my opinion, counsel for the respondent were also wrong to say, at paragraph 36 of their written argument:
+[Translation]
+36. The only paragraph in any of the documents that allows for showing advances net of costs incurred is section 6.19 of the Handbook, which allows the net to be shown in a situation that does not relate to the appellants’ situation.
+[Emphasis added.]
+[44] If counsel for the respondent were correct in that submission, and they devoted much of their argument to defending it, that would mean that Bombardier and its external auditors were wrong to reduce the inventories by the amount of the advances and to show as an asset only the amount by which it exceeded the cost of the inventories. Only if the condition in section 6.19 of the Handbook is met can inventories be reduced by the amount of the advances. If that was not the case, the financial statements would not be in accordance with GAAP since only advances that can be considered to be a “payment on account of work in progress” may be treated in that manner. The respondent and her expert acknowledged and admitted that Bombardier’s financial statements were prepared in accordance with GAAP. I believe the same approach must be adopted as was followed by Mr. Thornton, who stated on several occasions, not only in his report but also in his testimony, and in particular in paragraph 12 of the summary of his opinion: “Also, progress billings are normally made when progress is made; the advances would tend to flow to Bombardier regardless of the degree of progress on a contract. Still, I respect the judgment of the auditors on this point.” [Emphasis added.]
+[45] I would again add that if the Minister was correct to argue that the amounts of the advances are the amounts that appear in the supplementary notes, the financial statements would be misleading and would not be in accordance with GAAP. As Mr. Chlala said, if a liability appeared in the supplementary notes instead, the financial statements would be misleading. In my opinion, the respondent’s argument, set out in paragraph 41 of her written argument, which attempts to distinguish between advances and progress billings, is also without merit, since Bombardier’s senior management considered the advances to be “payments on account of work in progress”. Having admitted that Bombardier’s financial statements were prepared in accordance with GAAP, the respondent is ill advised to argue that the amounts that appear in the body of the balance sheet under liabilities are incorrect.
+[46] Even if standard SOP81-1 is not in itself considered to be a standard approved by the official body in the United States, nonetheless, by adopting it, Bombardier was considered to have applied GAAP. I would also add that even if, in Mr. Thornton’s opinion, Bombardier was not required to reduce its inventories by the amount of its advances, because of the use of the term “should” rather than “shall”, the accounting treatment adopted by Bombardier and its external chartered accountants was entirely in accordance with GAAP.
+[47] In the context of long-term construction or manufacturing contracts, the ordinary concept of advances, under which advances are defined as moneys received before delivery during performance of the contract, or, to use the words found in “Terminology for Accountants” and reproduced in paragraph 14 of the respondent’s written argument, “a payment made on account of, but before completion of a contract, or before receipt of goods or services”, has no application.
+[48] In conclusion, I am satisfied, in view of the evidence presented by Bombardier, that the value of the advances, for the purposes of Part 1.3 of the Act, corresponds to the amounts shown in the body of the balance sheet and not to the amounts shown in the supplementary notes.
+[49] For all these reasons, the appeals by Bombardier are allowed and the assessments are referred back to the Minister for reconsideration and reassessment, on the basis that the only advances included in the appellant’s capital under paragraph 181.2(3)(c) of the Act are as follows:
+1990 taxation year: $ 73,781,000;
+1991 taxation year: $ 66,463,000;
+1992 taxation year: $ 207,820,000;
+1993 taxation year: $ 224,301,347;
+1994 taxation year: $ 423,237,117;
+1995 taxation year: $ 477,658, 576;
+1996 taxation year: $ 250,700,000;
+1997 taxation year: $ 249,400,000;
+1998 taxation year: $ 332,100,000;
+1999 taxation year: $ 1,246,100,000;
+2000 taxation year: $ 1,482,400,000; and
+2001 taxation year: $ 1,304,100,000.
+Moreover, in making the reassessments for the 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997 and 2000 taxation years, the Minister will make the adjustments indicated in accordance with the consent to judgment dated September 13, 2010, a copy of which is attached.
+Signed at Ottawa, Canada, this 28th day of January 2011.
+“Pierre Archambault”
+Archambault J.
+Translation certified true
+On this 27th day of May 2011
+François Brunet, Reviser
+CITATION: 2011 TCC 48
+COURT FILE NO.: 2008-1624(IT)G
+STYLE OF CAUSE: Bombardier Inc. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: September 13, 14, 15, 16 and 17, 2010
+REASONS FOR JUDGMENT BY: The Hon. Pierre Archambault
+DATE OF JUDGEMENT: January 28, 2011
+APPEARANCES:
+For the appellant:
+Wilfrid Lefebvre
+Dominic C. Belley
+Counsel for the respondent:
+Pierre Cossette
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Wilfrid Lefebvre
+Dominic C. Belley
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+A-5
+2008-1624(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+Bombardier Inc.
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+CONSENT TO JUDGMENT
+The parties, by their undersigned solicitors, consent to judgment being rendered in relation to the adjustments to the tax on large corporations imposed under Part I.3 of the Income Tax Act, R.S.C., c. 1 (5th Supp.), for the following taxation years.
+a. JANUARY 31, 1990
+Reduction of the appellant’s taxable capital by $26,474,605, comprising double assessment of advances in the amount of $5,000,000 and double assessment of reserves in the amount of $21,474,605.
+b. JANUARY 31, 1991
+Reduction of the appellant’s taxable capital by $22,884,710, comprising over-assessment of advances in the amount of $3,295,000 and double assessment of reserves in the amount of $19,589,710.
+c. JANUARY 31, 1992
+Reduction of the appellant’s taxable capital by $13,940,617, comprising double assessment of reserves.
+d. JANUARY 31, 1993
+Reduction of the appellant’s taxable capital by $33,000,000, comprising over-assessment of a bank loan.
+e. JANUARY 31, 1994
+Reduction of the appellant’s taxable capital by $16,793,147, comprising over-assessment of reserves.
+f. JANUARY 31, 1995
+Reduction of the appellant’s taxable capital by $30,592,268, comprising over-assessment of reserves.
+g. JANUARY 31, 1996
+Reduction of the appellant’s taxable capital by $56,834,479, comprising double assessment of advances in the amount of $2,009,000 and over-assessment of reserves in the amount of $54,825,479 .
+h. JANUARY 31, 1997
+Reduction of the appellant’s taxable capital by $507,000, comprising double assessment of advances.
+i. JANUARY 31, 2000
+Reduction of the appellant’s taxable capital by $3,866,287, comprising over-assessment of advances.
+Montréal, September 13, 2010
+[signed]
+Wilfrid Lefebvre, Q.C.
+Dominic C. Belley
+Ogilvy Renault, LLP
+Suite 2500
+1 Place Ville Marie
+Montréal, Quebec H3B 1R1
+Telephone: (514) 847-4440
+Telephone: (514) 847-4318
+Facsimile: (514) 386-5474
+Solicitors for the appellant
+Montréal, September 13, 2010
+[signed]
+Pierre Cossette
+Annick Provencher
+Department of Justice of Canada
+Guy Favreau Complex
+East Tower, 9th floor
+200 René-Lévesque Blvd. W.
+Montréal, Quebec H2Z 1X4
+Telephone: (514)
+Telephone: (514)
+Facsimile: (514)
+Solicitors for the respondent
+[1] See Oerlikon Aérospatiale Inc. v. The Queen, 97 DTC 694, aff’d by the Federal Court of Appeal, 1999 CarswellNet 534, [1999] 4 C.T.C. 358 (Eng.), 99 DTC 5318 (Eng.).
+[2] It must be noted that the notice of appeal was filed even before the Minister’s determination was made because it had been 90 days since service of the notices of objection.
+[3] In addition to the amounts of the advances for the aerospace and transport divisions there was an additional advance of $33,000.
+[4] Also includes advances of $506,956 from other sources.
+[5] Includes advances of $12,039,457 from other sources.
+[6] Includes advances of $3,604,000 from other sources.
+[7] The amounts of the advances are net of advances to suppliers.
+[8] See Exhibit A-6.
+[9] Footnotes are added; footnotes in the agreement are omitted.
+[10] According to the standard form contract referred to by the parties during the hearing (Exhibit A-1, tab 69, section 5), the following amounts had to be paid as the purchase price for each aircraft (totalling four) provided for in the contract: $50,000 down payment, 5% when the purchase contract is signed, 7.5% 12 months before delivery of the aircraft, and 7.5% six months before delivery of the aircraft.
+[11] Bombardier admitted that for the calculation of the capital tax for 1990 to 1995, the amount of its advances must be calculated on the same basis as was used for the 1996 to 2001 fiscal years: each advance must be calculated aircraft by aircraft, not for all contracts. The consequence of that is to increase the amount of the advances that must be added in calculating Bombardier’s taxable capital for 1990 to 1995. See Exhibit A-5.
+[12] See Exhibit A-7.
+[13] The word “amounts” is defined by Mr. Thornton at paragraph 03 of his report. It represents the amounts received from Bombardier’s customers, that is, advances on contracts.
+[14] It must be noted that the 2002 and later taxation years are not in issue before this Court.
+[15] See the statutory provisions reproduced at paragraph 14 infra.
+[16] In general, footnotes will be omitted, except where they are considered to be important. All emphases are mine, unless otherwise indicated.
+[17] Emphasis by Mr. Chlala.
+[18] Emphasis by Mr. Chlala.
+[19] Emphasis by Mr. Chlala.
+[20] Emphasis by Mr. Chlala.
+[21] Emphasis by Mr. Chlala.
+[22] Emphasis by Mr. Chlala.
+[23] Emphasis by Mr. Chlala.
+[24] Emphasis by Mr. Chlala.
+[25] Emphasis by Mr. Thornton.
+[26] Idem.
+[27] Idem.
+[28] Idem with respect to the word “not”.
+[29] Idem.
+[30] For an example of similar treatment by the courts, see Upper Lakes Shipping Limited v. The Minister of Finance, 98 DTC 6264, a decision of the Ontario Court of Appeal.
+[31] See tab 1, Exhibit A-7.
+[32] Oerlikon Aérospatiale Inc., supra, page 698

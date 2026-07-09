@@ -1,0 +1,185 @@
+---
+title: "Meszaros v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28886/index.do"
+last_modified: "2008-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 525"
+citation2: ""
+neutral_citation: "2008 TCC 525"
+decision_date: "2008-09-17"
+language: "en"
+item_id: "28886"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1329
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:49:23.381000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45c2b455b09f409767a753168c02c6c526804f8ed98c355e3f7f2f2acffec1a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meszaros v. M.N.R.
+
+- Citation: 2008 TCC 525
+- Decision date: 2008-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1329, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meszaros v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-17
+Neutral citation
+2008 TCC 525
+File numbers
+2008-557(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-557(EI)
+BETWEEN:
+IRA MARIA MESZAROS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MARLENE MCINTYRE,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Muriel Marlene McIntyre (2008-559(EI)), on August 14, 2008,
+at Victoria, British Columbia
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Fairbridge
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the ruling of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated.
+Signed at Ottawa, Canada, this 17th day of September 2008.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2008-559(EI)
+BETWEEN:
+MURIEL MARLENE MCINTYRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+IRA MESZAROS,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ira Maria Meszaros (2008-557(EI)), on August 14, 2008,
+at Victoria, British Columbia
+Before: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Fairbridge
+For the Intervenor:
+The Intervenor herself
+___________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the ruling of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated.
+Signed at Ottawa, Canada, this 17th day of September 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008 TCC 525
+Date: 20080917
+Docket: 2008-557(EI)
+BETWEEN:
+IRA MARIA MESZAROS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MARLENE MCINTYRE,
+Intervenor.
+Docket: 2008-559(EI)
+AND BETWEEN:
+MURIEL MARLENE MCINTYRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+IRA MESZAROS
+Intervenor.
+REASONS FOR JUDGMENT
+Miller J.
+[1] These are two employment insurance appeals by Ira Maria Meszaros and Muriel Marlene McIntyre in which they intervene in each other’s appeal. They are on the same wavelength. They do not believe Ms. Meszaros’ work as a hairdresser, on premises owned by Ms. McIntyre, for the period January 1, 2006 to June 30, 2007 constitutes insurable employment as provided by Regulation 6(d) of the Employment Insurance Regulations.[1] That Regulation reads as follows:
+6 Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+…
+(d) employment of a person in a barbering or hairdressing establishment, where the person
+(i) provides any of the services that are normally provided in such an establishment, and
+(ii) is not the owner or operator of the establishment;
+[2] This case hinges on whether Ms. Meszaros was the operator of the establishment. If I find she was, then her work is not included in insurable employment.
+[3] The Respondent agreed that Ms. Meszaros was an independent contractor carrying on her own business from Ms. McIntyre’s premises, but simply was not the “operator of the establishment” and thus was caught by Regulation 6(d).
+[4] Ms. McIntyre was part owner of her home. She lived on one floor, rented a suite out on another and also had a four-chair hairdressing salon on the premises. Ms. McIntyre operated this salon alone on Thursdays and Sundays, and occasionally on Tuesdays. She rented the salon to Ms. Meszaros on Wednesdays, Fridays and Saturdays at a charge of 25% of Ms. Meszaros’ earnings. Ms. McIntyre testified that she felt this was fairer to someone building up her business than to charge a set monthly rental rate. Ms. McIntyre equipped and furnished the salon, though she gifted one of the four chairs in the salon to Ms. Meszaros. Ms. McIntyre is winding down her hairdressing business and currently works only two days a week.
+[5] Ms. McIntyre and Ms. Meszaros never worked in the salon at the same time. When Ms. Meszaros worked at the salon, she could have as many as three chairs going at once. On Wednesdays, Fridays, and Saturdays, Ms. Meszaros used her own key to open and close the premises, which has a separate entrance from the rest of the house.
+[6] Ms. Meszaros bore all her own expenses for supplies, repairs, tools, etc. She increased her clientele over time by word of mouth, advertising by flyer and with walk-in business. It was up to her who she took on as a customer. She set her own rates. Indeed, she was in charge and control of the salon on the days she worked there.
+[7] Ms. McIntyre had a sign for Hairways, Marlene & Co., indicating she added “& Co.” when Ms. Meszaros came on board. She considers herself and Ms. Meszaros as equally operating the salon and would change her sign to reflect that, if not for the cost. As owner of the property, Ms. McIntyre is responsible for insurance and property taxes. She also obtained approval from the town to carry on business from her home.
+[8] It is clear that Ms. Meszaros carried on her own business from the salon situated in premises owned by Ms. McIntyre. As she was not engaged in a contract of service, she would not normally be considered to be “employed” for purposes of determining whether she had insurable employment. However, Regulation 6(d), cited earlier, specifically addresses the situation of hairdressers, and stipulates in effect that notwithstanding that they may be engaged in contracts for services (i.e. independent contractors), they will still be found to be in insurable employment where they provide services normally provided in a hairdressing establishment, and they are not the owner or operator of the establishment.
+[9] There is no question Ms. Meszaros carried on hairdressing activities at the salon; there is also no question she was not the owner of the salon – Ms. McIntyre was. The issue is whether Ms. Meszaros was the operator of the establishment.
+[10] Respondent’s counsel referred me to the Tax Court of Canada decision of E & S Tresses Ltd. v. M.N.R.[2] in which Deputy Judge Porter dealt with the meaning of the term “establishment” in considering the forerunner of Regulation 6(d) (Regulation 12(d)), which only referred to the owner or proprietor of the establishment, and not the “operator of the establishment”. Deputy Judge Porter concluded that several workers carried on separate businesses, but from one establishment, and therefore they did not own that establishment and consequently, were caught by Regulation 12(d). Deputy Judge Porter also stated that “they did not own nor have a lease of specific space”.
+[11] That is not the same situation as before me. I find that Ms. Meszaros’ agreement with Ms. McIntyre was a lease of specific space, and not just for a chair but for the entire salon. The Respondent’s counsel argued that establishment means physical premises and that the physical premises were operated by Ms. McIntyre, not Ms. Meszaros. Yet, the indices relied upon to support this proposition were indices of “ownership” (liability insurance and property taxes for example), not necessarily indices of “operation”. Operation must mean something different from ownership or there would be no need for the two concepts in Regulation 6(d). If, for example, Ms. Meszaros rented a salon three days a week in a shopping mall, and was the sole business being conducted from those premises on those three days, would the mall owner be considered to be the operator of the premises on those three days? No. The mall landlord presumably has not furnished the premises as a salon, but would the answer be any different had the landlord done so, and then looked for a hairdresser to “operate” the premises. Is Ms. Meszaros precluded from “operating” the salon simply because the owner, Ms. McIntyre, also happens to be a hairdresser, who “operates” the salon two days a week, when Ms. Meszaros is not there. It is a fine line distinction.
+[12] The Respondent contends there can only be one operator of the establishment. I disagree. I believe the wording of Regulation 6(d) is equally consistent with the concept that there can only be one operator at any one time. If I strip away indices of ownership, and ask what indices of “operator” does Ms. McIntyre exercise on the days when Ms. Meszaros is in complete control of the salon, I am left with none. Being an operator of an establishment suggests to me control over the premises, upkeep, cleanliness, opening and closing and handling the business activities carried on from the premises. These are responsibilities that can shift, I suggest, from one operator to another, depending on the circumstances. And in the circumstances before me, I find that is exactly what has happened. As the sole and exclusive proprietorship being carried on from the premises of the salon on Mondays, Wednesdays and Fridays, with all the responsibilities that are entailed in connection with those premises, I conclude Ms. Meszaros was the operator of the establishment on the days she worked there, and that hers is not the type of employment contemplated as insurable employment by Regulation 6(d). I therefore allow the appeals and refer the matter back to the Minister of National Revenue on the basis that Regulation 6(d) of the Employment Insurance Regulations does not apply to constitute Ms. Meszaros’ work at the salon as insurable employment.
+Signed at Ottawa, Canada, this 17th day of September 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008 TCC 525
+COURT FILE NO.: 2008-557(EI) and 2008-559(EI)
+STYLE OF CAUSE: IRA MARIA MESZAROS AND M.N.R. AND MARLENE MCINTYRE
+MURIEL MARLENE MCINTYRE AND M.N.R. AND IRA MESZAROS
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: August 14, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: September 17, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Fairbridge
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Employment Insurance Regulations, SOR/96-332.
+[2] [1998] T.C.J. No. 1014.

@@ -1,0 +1,184 @@
+Title: HCR Data Services Ltd V. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29090/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-679-29090-hcr-data-services-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-12-19
+
+# HCR Data Services Ltd V. M.N.R.
+
+- Citation: 2008 TCC 679
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6653, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+HCR Data Services Ltd V. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-19
+Neutral citation
+2008 TCC 679
+File numbers
+2007-4951(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4951(EI)
+BETWEEN:
+HCR DATA SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 26, 2008, at Vancouver, British Columbia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Gary Robert Hantke
+Counsel for the Respondent:
+Billie Attig (articling student)
+Shannon Walsh
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal under the Employment Insurance Act ("Act") from the decision of the Respondent that the employment of Chris Hantke was insurable employment within the meaning of section 5 of the Act during the period from January 1, 2003 to December 31, 2006 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the employment of the Appellant during this period was not insurable employment under section 5 of the Act. The Respondent shall pay costs of $1,000 to the Appellant.
+Signed at Halifax, Nova Scotia, this 19th day of December 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC679
+Date: 20081219
+Docket: 2007-4951(EI)
+BETWEEN:
+HCR DATA SERVICES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant filed an appeal from the determination by the Respondent that the employment of Chris Hantke by the Appellant during the period from January 1, 2003 to December 31, 2006 (the “period of employment”) was insurable employment for purposes of the Employment Insurance Act ("Act"). It is the position of the Appellant that the employment of Chris Hantke by the Appellant throughout the period of employment was not insurable employment.
+[2] Subsection 5(2) of the Act provides in part that:
+Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[3] Subsection 5(3) of the Act provides that:
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+(emphasis added)
+[4] As a result, if Chris Hantke and the Appellant were not dealing with each other at arm’s length and were not related, his employment by the Appellant would not be insurable employment as his employment would be excluded by paragraph 5(2)(i) of the Act and paragraph 5(3)(b) of the Act would not be applicable. Paragraph 5(3)(b) of the Act only applies if Chris Hantke was related to the Appellant. While Chris Hantke was (and is) related to his father, Gary Hantke (who owned one-half of the shares of the Appellant), the issue is whether Chris Hantke was related to the Appellant.
+[5] The determination of whether the Appellant and Chris Hantke were dealing with each other at arm’s length is to be made in accordance with the provisions of the Income Tax Act. As well, the question of whether the Appellant and Chris Hantke were related during the period of employment is to be determined as provided in the Income Tax Act.
+[6] Subsection 251(1) of the Income Tax Act provides in part as follows:
+251. (1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+…
+(c) … it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm's length.
+[7] Subsection 251(2) of the Income Tax Act provides in part as follows:
+(2) For the purpose of this Act, “related persons”, or persons related to each other, are
+…
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph (i) or (ii); and
+[8] Gary Hantke and Theodor Redekop were carrying on an accounting business as a partnership under the name Hantke, Coffey, Redekop & Co. The Appellant was incorporated to employ the staff that performed the accounting duties for the clients of the partnership. One‑half of the shares of the Appellant were held by Gary Hantke and the remaining shares were held by Theodor Redekop. Gary Hantke and Theodor Redekop were not related to each other. The Articles of Association of the Appellant provided that the president of the company would have a second or casting vote in the event of a tie. Gary Hantke held the position of president of the Appellant throughout the period of employment.
+[9] Gary Hantke, who is an accountant and is not a lawyer, represented the Appellant. In the Notice of Appeal, the Appellant stated in part as follows:
+Chris was a CGA student when he became employed by HCR Data Services Ltd. on June 3, 2002. (Chris became a CGA in September 2007.) Right from the start Chris was being groomed for a partnership in the firm of Hantke, Coffey, Redekop & Co. For this reason, the relationship between employer and employee is not an arm’s length relationship.
+[10] In the Notice of Appeal, the Appellant also describes the paragraph of its articles of association that provides that the president of the Appellant has a second or casting vote. The Appellant also states in the Notice of Appeal that “de facto control of [the Appellant] belongs to Gary Hantke”. For the purposes of determining whether the Appellant and Chris Hantke were related to each other, the issue will be whether Gary Hantke had de jure control not whether Gary Hantke had de facto control. The Supreme Court of Canada in Duha Printers (Western) Ltd. v. The Queen 98 DTC 6334, [1998] 1 S.C.R. 795, [1998] 3 C.T.C. 303 stated that:
+35 It has been well recognized that, under the Income Tax Act, “control” of a corporation normally refers to de jure control and not de facto control. This Court has repeatedly cited with approval the following test, set out by Jackett P. in Buckerfield's, supra, at p. 507:
+Many approaches might conceivably be adopted in applying the word “control” in a statute such as the Income Tax Act to a corporation. It might, for example, refer to control by “management”, where management and the board of directors are separate, or it might refer to control by the board of directors. ... The word “control” might conceivably refer to de facto control by one or more shareholders, whether or not they hold a majority of shares. I am of the view, however, that in Section 39 of the Income Tax Act [the former section dealing with associated companies], the word “controlled” contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. [Emphasis added.]
+Cases in which this Court has applied the foregoing test have included, inter alia, Dworkin Furs, supra, and Vina-Rug (Can.) Ltd. v. Minister of National Revenue, [1968] S.C.R. 193 (S.C.C.).
+[11] In the Reply that was filed in this matter, paragraph 1 provides as follows:
+1. The Minister of National Revenue (the “Minister”) admits the following facts stated in the Notice of Appeal:
+a) the period under appeal was from January 1, 2003 to December 31, 2006 (the “Period”);
+b) Chris Hantke (the “Worker”) is the son of Gary Hantke (“Mr. Hantke”) and was an employee of the Appellant during the Period;
+c) Mr. Hantke and Theodor Redekop (“Mr. Redekop”) were the only partners in the accounting firm of Hantke, Coffey, Redekop & Co. (the “Accounting Company”) during the Period;
+d) the Appellant managed and employed the staff that perform the accounting duties for the clients of the Accounting Company during the Period;
+e) during the Period, the Appellant employed:
+i) Certified General Accounting (“CGA”) students,
+ii) workers who had obtained their CGA designation, and
+iii) other workers.
+f) Mr. Hantke and Mr. Redekop:
+i) each held 50% of the voting shares in the Appellant during the period,
+ii) were the only shareholders in the Appellant during the Period,
+iii) were both directors in the Appellant during the Period, and
+iv) held the positions of President and Treasurer/Secretary, respectively, during the Period.
+g) Mr. Hantke held the position of Chairman in the Appellant during the Period;
+h) The Worker was a CGA student when he became employed by the Appellant on June 3, 2002;
+i) The Worker obtained his CGA designation in September, 2007; and
+j) the relationship between the Appellant and the Worker is a non-arm’s length relationship.
+(emphasis added)
+[12] The admission by the Respondent that the Appellant was not dealing at arm’s length with Chris Hantke was not based on any finding or assumption that Chris Hantke was related to the Appellant (the statement that Chris Hantke was related to the Appellant was not made until the fifth paragraph in the Reply). It is simply an unconditional statement in the first paragraph of the Reply that the Respondent admits that the relationship between the Appellant and Chris Hantke is a non-arm’s length relationship.
+[13] As noted above, the question of whether a corporation and an individual are related is answered by applying the provisions of subsection 251(2) of the Income Tax Act. In this case, since Gary Hantke and Theodor Redekop are not related to each other and each own one-half of the shares of the Appellant, Chris Hantke will only be related to the Appellant if Gary Hantke controls the Appellant as a result of the casting or second vote that he had as the president of the Appellant.
+[14] The Supreme Court of Canada in the case of Minister of National Revenue v. Dworkin Furs (Pembroke) Limited [1967] C.T.C. 50, [1967] S.C.R. 223, 67 D.T.C. 5035 stated as follows:
+14 In the case of Allied Business Supervisions Limited, Alexander Aaron was the owner of 50 per cent of the issued shares while two other individuals, Joseph Tomney held 31 per cent and Roy N. Hall 19 per cent respectively. Aaron and Tomney were elected directors of the company on December 17, 1959 for an indefinite period until their term of office shold be changed by the shareholders at a subsequent shareholders' meeting. On the same day Aaron was elected president of the company.
+15 This company was incorporated under the Saskatchewan Companies Act, R.S.S. 1953, c. 124. The company adopted at its Articles of Association Table A of the Companies Act. Article 46 of Table A reads:
+46. In the case of equality of votes whether on a show of hands or on a poll, the chairman of the meeting at which the show of hands takes place or at which the poll is demanded shall be entitled to a second or casting vote.
+16 It was urged on behalf of the appellant that the fact that Aaron as president had at meetings of shareholders and directors a second or casting vote gave him control of the company within the Buckerfield's definition of controlled. Thurlow, J. held that the existence of the right to exercise a second or casting vote did not give Aaron control. He said:
+the casting vote, unlike the votes arising from shareholding, which are exercisable without responsibility to the company or to other shareholders is in my opinion not the property of the holder, but is an adjunct of an office.
+and with this I agree.
+(emphasis added)
+[15] The Canada Revenue Agency, which is the same Agency that determined that the Appellant and Chris Hantke were related and that his employment was insurable, publishes interpretation bulletins on various matters. In Interpretation Bulletin, IT-64R4 — Corporations: Association and Control [Consolidated] dated October 13, 2004, the Canada Revenue Agency stated in paragraph 16 that:
+Effect of casting vote
+¶16. Where the voting shares of a corporation are divided evenly between two persons, the fact that the chairperson of a shareholder's meeting may have the right to cast a deciding vote does not give that person de jure control of the corporation where the deciding vote is conferred on that person as chairperson of the meeting and not by ownership of voting shares (see Aaron's (Prince Albert) Ltd. et al. v. MNR, also known as Allied Business Supervisions Ltd. v. MNR, 66 D.T.C. 5244, [1966] C.T.C. 330 (Ex. Ct.) — confirmed in MNR v. Dworkin Furs (Pembroke) Ltd., 67 D.T.C. 5035, [1967] C.T.C. 50 (S.C.C.)). (However, the holding of a “casting vote” in the above circumstances may constitute de facto control as defined in subsection 256(5.1).)
+[16] As a result of the decision of the Supreme Court of Canada in Dworkin Furs, Gary Hantke did not control the Appellant for the purposes of subsection 251(2) of the Income Tax Act. This decision of the Supreme Court of Canada was acknowledged by the Canada Revenue Agency in Interpretation Bulletin IT-64R4. However, the Reply simply states in paragraph 5 that the “Minister further decided that the Worker was related to the Appellant”. It appears that this decision was made without considering the decision of the Supreme Court of Canada in Dworkin Furs as acknowledged by the Canada Revenue Agency in Interpretation Bulletin IT-64R4.
+[17] Since Gary Hantke did not control the Appellant for the purposes of subsection 251(2) of the Income Tax Act, Chris Hantke was not related to the Appellant. Therefore, as provided in paragraph 251(1)(c) of the Income Tax Act, it is a question of fact whether Chris Hantke was dealing at arm’s length with the Appellant. Since the Respondent unconditionally admitted that Chris Hantke was not dealing at arm’s length with the Appellant and since there is no basis for a determination that Chris Hantke was related to the Appellant (and no basis for this conclusion was stated in the Reply and, as a result of the decision of the Supreme Court of Canada in Dworkin Furs, could not be supported in any event), the Reply as drafted leads to a conclusion that the appeal should be allowed and does not disclose any basis in law to dismiss the appeal.
+[18] Following the hearing of this matter when the issue of the decision of the Supreme Court of Canada in Dworkin Furs was raised with counsel for the Respondent, she requested time to consider this case. Subsequently counsel for the Respondent filed a written submission in which it is acknowledged that Chris Hantke and the Appellant were not related but counsel for the Respondent then sought to raise the argument that the Appellant and Chris Hantke were dealing with each other at arm’s length, notwithstanding the clear admission by the Respondent in the Reply that their relationship was a non-arm’s length relationship.
+[19] In my opinion it is not appropriate for counsel for the Respondent to raise this additional argument following the hearing. Given the very clear admission by the Respondent in the Reply that the relationship between the Appellant and Chris Hantke was a non-arm’s length relationship (which would be a question of fact since they were not related), it is not appropriate for counsel for the Respondent to effectively try to withdraw this admission after the conclusion of the hearing when the Appellant is unable to adduce any additional evidence with respect to whether Chris Hantke and the Appellant were dealing with each other at arm’s length. The issue, as defined by the pleadings, was whether the terms and conditions of the employment would have been substantially similar if they would have been dealing with each other at arm’s length. (This issue, as noted above, would only be relevant if Chris Hantke and the Appellant were related.) The focus was on the terms and conditions not on how they dealt with each other. There may have been additional evidence that the Appellant might have wanted to introduce if the issue would have been recharacterized before the hearing. It is not appropriate for counsel for the Respondent to recharacterize the issue in this way in this case following the hearing.
+[20] In Ritonja v. The Queen, 2006 TCC 346, 2006 DTC 3140, Chief Justice Bowman (as he then was) stated that:
+10 To permit the respondent to rely for the first time at trial on a brand new basis of disallowance would violate a fundamental rule of procedural fairness. See Poulton v. Canada, 2002 2 C.T.C. 2405, approved by Federal Court of Appeal in Burton v. The Queen, 2006 D.T.C. 6133. In Poulton, at pages 2408-2410, I set out my view on points raised by the Crown at the last minute against taxpayers who are not represented by counsel.
+[11] On the eve of trial the respondent brought motions to amend the replies to add to sections C and D a reference to paragraph 6(1)(b). The motion was fully argued at the commencement of trial. I denied the respondent's motions and gave fairly extensive oral reasons. I shall summarize them briefly.
+[12] This court and the Federal Court of Appeal have traditionally been fairly liberal in granting amendments….
+…
+[16] Why then did I not allow the amendment here as was done in the above cases? Well, there is a world of difference between large public corporations, and multinationals with batteries of senior counsel to protect them and millions of dollars at stake and small taxpayers, unrepresented by lawyers, with relatively small amounts of money in issue.
+[17] Procedural fairness requires that in cases governed by the informal procedure the Crown not be permitted at the 11th hour to spring a brand new argument on a taxpayer. Had the appellants known from the outset or at least a reasonable time before trial that the Crown was going to rely on paragraph 6(1)(b) their approach might have been entirely different and they could have called evidence to rebut the assertion that the amounts were "allowances" within the meaning of paragraph 6(1)(b) or that they were exempted from the operation of that paragraph by subsection 6(6). Had I granted the Crown's motions and allowed the amendment the appellants would have been entirely justified in requesting an adjournment and this would have resulted in an undue delay of these relatively small informal appeals. I cannot emphasize too strongly that it is of consummate importance that the court in the informal procedure be vigilant to ensure that the unrepresented taxpayer not be deprived of procedural fairness.
+[18] I quite agree that by denying the Crown's motion to amend to refer to paragraph 6(1)(b) I may have deprived it of what might be a very potent argument. However the Crown's loss of these appeals because it slipped up and failed to refer to a provision that might have helped it is not, in the scheme of things, a jurisprudential or fiscal catastrophe. What is far more important is that unrepresented taxpayers in the informal procedure be given every benefit of procedural fairness. To force them to confront the complexities of paragraph 6(1)(b) and subsection 6(6) on the eve of trial would do the administration of justice irreparable damage.
+[21] In the Federal Court of Appeal in Burton v. The Queen, 2006 FCA 67, [2006] 2 C.T.C. 286, 2006 DTC 6133, Justice Rothstein (as he then was) stated that:
+12 As I understand his reasoning, Bowman A.C.J.T.C. was of the view that in cases governed by the informal procedure, the Tax Court should not always be willing to grant a motion by the Crown "at the eleventh hour to spring a brand new argument on a taxpayer". Where an adjournment results "in undue delay" of "relatively small informal appeals", the Tax Court judge must carefully exercise his or her discretion in deciding whether to allow the amendment and the consequent adjournment. He notes that in informal appeals, denying the Crown the opportunity to amend at the last minute would not result in a "jurisprudential or fiscal catastrophe".
+[22] If the Respondent in an informal procedure would be unlikely to be allowed to spring a brand new argument at the eleventh hour, the Respondent should not be allowed to spring the new argument following the conclusion of the hearing. Since the issue was whether the terms and conditions of the employment would have been substantially similar if they would have been dealing with each other at arm’s length, there was some evidence related to the dealings between Chris Hantke and the Appellant. Chris Hantke had stated that he could book time off on very short notice while the arm’s length employees were required to give more notice of when they wanted to book time off. As well, Chris Hantke stated that he accepted less compensation from the Appellant than his colleagues did from other employers because he wanted to work with his father. There may also have been additional evidence in relation to the dealings between Chris Hantke and the Appellant that might have been introduced if the issue of whether they were dealing with each other at arm’s length would have been identified as an issue in the pleadings.
+[23] Counsel for the Respondent, in her written submissions, seems to have assumed that if she would have been allowed to raise the new argument that the Appellant and Chris Hantke were dealing at arm’s length, that the onus of proof would have remained with the Appellant. Counsel for the Respondent stated in the written submission that “the evidence has not shown that the Appellant and the Worker were in a factual non-arms length relationship”. This would suggest that the Appellant would have had the onus of establishing this.
+[24] In Loewen, [2004] F.C.J. No. 638, 2004 FCA 146, Justice Sharlow, on behalf of the Federal Court of Appeal, made the following comments:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. R. (1995), [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (Fed. C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4 (S.C.C.)).
+(emphasis added)
+[25] Leave to appeal the decision of the Federal Court of Appeal in Loewen to the Supreme Court of Canada was refused (338 N.R. 195 (note)).
+[26] If the onus of establishing facts that are not assumed by the Minister rests with the Respondent then the onus of establishing facts contrary to those admitted by the Respondent must also rest with the Respondent. If the Respondent would have been permitted to raise the new argument then the Respondent would have had the onus of establishing the new fact that the Appellant and Chris Hantke were dealing at arm’s length.
+[27] Counsel for the Respondent also referred to several cases that distinguish between an employment relationship and an independent contractor relationship. However, since the position of the Appellant is that Chris Hantke was an employee of the Appellant and the position of the respondent was that Chris Hantke was an employee, the relevance of these cases is not clear. Both parties agree that Chris Hantke was an employee of the Appellant throughout the period of employment.
+[28] In Fournier v. The Queen, 2005 FCA 131, the Federal Court of Appeal addressed the issue of whether costs could be awarded in a proceeding where the applicable rules did not provide for the awarding of costs. Justice Létourneau of the Federal Court of Appeal stated that:
+11 The judge stated that he had no jurisdiction to impose costs on an appellant who unnecessarily delayed an appeal process initiated within an informal proceeding. I should point out that the Tax Court of Canada has the inherent jurisdiction to prevent and control an abuse of its process: see Yacyshyn v. Canada, [1999] F.C.A. No. 196 (F.C.A.).
+12 The awarding of costs is one mechanism for preventing or remedying abusive delays or procedures: see Blencoe v. British Columbia (Human Rights Commission), [2000] 2 S.C.R. 307, at paragraphs 179 and 183. In Sherman v. Canada (Minister of National Revenue - M.N.R.), [2003] 4 F.C. 865, at paragraph 46, this Court addressed the issue in the following terms:
+It is now generally accepted that an award of costs may perform more than one function. Costs under modern rules may serve to regulate, indemnify and deter. They regulate by promoting early settlements and restraint. They deter impetuous, frivolous and abusive behaviour and litigation. They seek to compensate, at least in part, the successful party who has incurred, sometimes, large expenses to vindicate its rights.
+[Emphasis added by Justice Létourneau.]
+[29] The Federal Court of Appeal in that case set the costs at $1,000.
+[30] Based on this decision of the Federal Court of Appeal, costs were awarded against the Crown in an appeal under the Act in Zinck v. Minister of National Revenue, 2007 TCC 592.
+[31] In my opinion it is an abuse of process for the Respondent to pursue this matter to a hearing based on a Reply that, as drafted, leads to a conclusion that the appeal should succeed. As well, it was not appropriate for the Respondent to attempt to raise new issues that are in contradiction to the clear admissions in the pleadings following the hearing, at a time when the Appellant would be precluded from submitting any additional evidence to deal with this matter.
+[32] In this particular case, costs should be awarded against the Respondent and therefore the Appellant shall be entitled to costs of $1,000 to be paid by the Respondent.
+[33] The Appellant’s appeal under the Act from the decision of the Respondent that the employment of Chris Hantke was insurable employment within the meaning of section 5 of the Act during the period from January 1, 2003 to December 31, 2006 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration on the basis that the employment of the Appellant during this period was not insurable employment under section 5 of the Act. The Respondent shall pay costs of $1,000 to the Appellant.
+Signed at Halifax, Nova Scotia, this 19th day of December 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC679
+COURT FILE NO.: 2007-4951(EI)
+STYLE OF CAUSE: HCR DATA SERVICES LTD. v. M.N.R.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 26, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 19, 2008
+APPEARANCES:
+Agent for the Appellant:
+Gary Robert Hantke
+Counsel for the Respondent:
+Billie Attig (articling student)
+Shannon Walsh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

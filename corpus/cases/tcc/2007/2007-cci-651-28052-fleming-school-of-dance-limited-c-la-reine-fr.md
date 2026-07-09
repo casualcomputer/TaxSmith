@@ -1,0 +1,177 @@
+---
+title: "Fleming School Of Dance Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28052/index.do"
+last_modified: "2007-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 651"
+citation2: ""
+neutral_citation: "2007 CCI 651"
+decision_date: "2007-10-24"
+language: "fr"
+item_id: "28052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1572
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:09:13.822000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4a82f6ad4dabd3ff699cca084e6299923a8f31e9f1fe30964db13d9595f9dac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fleming School Of Dance Limited c. La Reine
+
+- Citation: 2007 CCI 651
+- Decision date: 2007-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1572, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fleming School Of Dance Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-24
+Référence neutre
+2007 CCI 651
+Numéro de dossier
+2006-3283(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-3283(GST)I
+ENTRE :
+FLEMING SCHOOL OF DANCE LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 octobre 2007, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Douglas D. Langley
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, sans dépens, et la cotisation numéro 08GP0104971 du 5 mai 2005 est annulée.
+Signé à Halifax (Nouvelle-Écosse), ce 24e jour d’octobre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI651
+Date : 20071024
+Dossier : 2006-3283(GST)I
+ENTRE :
+FLEMING SCHOOL OF DANCE LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelante exploite une école de danse à Oakville (Ontario), depuis 1977. En 2005, elle a fait l’objet d’une cotisation à l’égard de la TPS non versée pour la période allant du 1er janvier 1995 au 30 juin 2003. Le montant total de la taxe nette qui a été établi à l’encontre de l’appelante en vertu de la Loi sur la taxe d’accise (la « Loi ») s’élevait à 123 597,38 $; la cotisation était fondée sur le fait que l’appelante aurait dû percevoir la TPS sur le montant qu’elle demandait pour toutes ses classes. Il s’agit en l’espèce de savoir si l’appelante exploitait une école de formation professionnelle pour l’application de l’article premier de la partie III de l’annexe V de la Loi et, par conséquent, si elle pouvait invoquer l’exemption prévue à l’égard des fournitures exonérées effectuées par des écoles de formation professionnelle comme le prévoit la partie III de l’annexe V de la Loi.
+[2] L’article premier de la partie III de l’annexe V de la Loi définit l’expression « école de formation professionnelle » comme suit :
+« école de formation professionnelle » Institution établie et administrée principalement pour offrir des cours par correspondance ou des cours de formation qui permettent à l’étudiant d’acquérir ou d’améliorer une compétence professionnelle.
+[3] En ce qui concerne les fournitures effectuées avant l’année 1997, la définition de l’expression « école de formation professionnelle » comprenait « l’établissement d’enseignement reconnu par le ministre de l’Emploi et de l’Immigration pour l’application du paragraphe 118.5(1) de la Loi de l’impôt sur le revenu ». L’appelante était ainsi reconnue par une lettre datée du 25 février 1992 d’Emploi et Immigration (Canada); en 1995 et 1996, elle était donc une école de formation professionnelle sans qu’il soit nécessaire de tenir compte de la question de l’établissement et de l’administration. Quant aux autres périodes visées par l’appel, il s’agit de savoir si l’appelante était non seulement établie, mais aussi administrée principalement pour offrir des cours qui permettaient à l’étudiant d’acquérir ou d’améliorer une compétence professionnelle. La compétence professionnelle en question était la compétence requise d’un danseur professionnel, d’un professeur de danse ou d’un acteur.
+[4] L’école comptait des étudiants de divers âges. Pendant la plupart des années en question, les étudiants les plus jeunes avaient quatre ans. L’appelante a commencé à enseigner à des enfants de trois ans en 2002. L’appelante accordait un diplôme lorsque les étudiants quittaient l’école secondaire, à 18 ans. Il y avait chaque année de 400 à 500 étudiants qui suivaient des cours auprès de l’appelante.
+[5] L’appelante enseignait le ballet classique, la danse moderne, le jazz et la danse à claquettes; elle offrait également des cours de comédie musicale, de chant et de théâtre. L’école suivait le programme de l’Imperial Society of Teachers of Dancing et de la Royal Academy of Dance pour son programme de ballet classique. Pour le programme de danse moderne, de jazz et de danse à claquettes, l’école suivait le programme préparé par l’Imperial Society of Teachers of Dancing . Chacune de ces sociétés établissait divers niveaux et délivrait des certificats lorsque les étudiants passaient les examens d’un niveau particulier. La réussite à un examen d’un niveau particulier confirmait que l’étudiant avait atteint ce niveau. Environ 80 à 90 p. 100 des étudiants de l’école se présentaient aux examens organisés par l’Imperial Society of Teachers of Dancing ou par la Royal Academy of Dance. Les étudiants commençaient à se présenter aux examens à l’âge de six ans et, selon l’étudiant, il pouvait s’écouler deux ans avant qu’un étudiant soit prêt à se présenter à un examen d’un niveau particulier.
+[6] Certains étudiants qui avaient fréquenté l’école ont éventuellement fait carrière dans la danse professionnelle. Comme il en est fait mention dans la brochure publiée par l’appelante :
+[traduction]
+À l’heure actuelle, certains étudiants qui ont reçu leur formation à l’école travaillent pour le Ballet national du Canada, pour le ballet de Francfort, pour Anne of Green Gables, à Charlottetown, et ont également participé à des spectacles d’envergure, à Londres, à New York et à Toronto.
+[7] Deux anciens étudiants qui travaillent maintenant comme professeurs de danse ont témoigné à l’audience. L’un avait suivi des cours auprès de l’appelante pendant 12 ans, et l’autre, pendant 15 ans.
+[8] Le critère permettant de décider si l’appelante était une école de formation professionnelle pour l’application de l’article premier de la partie III de l’annexe V de la Loi est de savoir si l’appelante était établie et administrée principalement pour offrir des cours qui permettaient à l’étudiant d’acquérir ou d’améliorer une compétence professionnelle.
+[9] Dans le Canadian Oxford Dictionary, deuxième édition, le mot « primary » (principal) est défini comme suit :
+[traduction] De haute importance; d’une importance capitale.
+[10] Dans l’arrêt Burger King Restaurants of Canada Inc. v. The Queen 2000 DTC 6061, [2000] 2 C.T.C. 1, la Cour d’appel fédérale a fait les remarques suivantes au sujet du critère qu’il convenait d’utiliser pour décider si les bâtiments en cause dans cette affaire‑là étaient « principalement utilisés aux fins de la fabrication ou de la transformation de marchandises à vendre » :
+[14] Conformément à l=arrêt Mother=s Pizza, l=utilisation de la surface est la considération la plus importante lorsqu=il s=agit de déterminer l=utilisation principale des bâtiments. Toutefois, cela n=exclut pas d=autres considérations et nous sommes prêts à supposer, sans toutefois nous prononcer sur la question, que dans un cas comme celui-ci, une appréciation qualitative est également pertinente. Voir Gulf Canada Resources Limited c. La Reine.
+[15] Toutefois, la preuve qualitative doit être suffisamment convaincante et doit pouvoir être analysée de façon à amener la Cour à modifier le résultat du critère quantitatif.
+[11] La question qui se pose en l’espèce ne se rapporte pas à l’utilisation d’un bien particulier, mais à l’établissement et à l’administration d’une organisation. L’arrêt précité donne à entendre que des facteurs qualitatifs pourraient modifier des facteurs quantitatifs lorsqu’il s’agit de décider si un bâtiment est principalement utilisé à une fin particulière et probablement aussi en vue de décider si une organisation est administrée principalement d’une certaine façon.
+[12] L’avocate de l’intimée a soutenu que l’appelante n’était pas admissible à titre d’école de formation professionnelle étant donné qu’un pourcentage très faible des étudiants qui suivaient les cours devenaient en fait danseurs professionnels ou professeurs de danse. L’intimée a soutenu que même si l’école était exploitée depuis 1977, moins de 30 élèves étaient finalement devenus danseurs professionnels ou professeurs de danse, selon le tableau produit par l’appelante. Il s’agit d’une analyse quantitative fondée sur le succès des diplômés lorsqu’il s’agissait de trouver un emploi. Toutefois, à mon avis, la question de savoir si l’appelante était établie ou administrée principalement pour offrir des cours qui permettaient à l’étudiant d’acquérir ou d’améliorer une compétence professionnelle ne peut pas être tranchée en fonction du succès que les diplômés ont obtenu dans leur recherche d’emploi. L’appelante n’exerce aucun contrôle lorsqu’il s’agit pour un diplômé particulier de trouver un emploi dans ce domaine particulier. Cela dépend de la demande sur le marché et de la compétence de l’étudiant. On ne peut pas avoir voulu qu’une école particulière puisse être qualifiée d’école de formation professionnelle seulement lorsqu’elle peut établir combien de diplômés ont obtenu un emploi. L’appelante sera qualifiée d’école de formation professionnelle si elle a été établie et administrée principalement pour offrir les cours nécessaires aux étudiants, et le succès remporté par les étudiants lorsqu’il s’agit de trouver un emploi dans leur domaine d’études n’est pas une exigence imposée par la disposition ici en cause.
+[13] De plus, étant donné que le critère s’applique tant à l’établissement qu’à l’administration de l’organisation, un critère fondé sur des chiffres ne serait pas pertinent dans l’application de la partie du critère se rapportant à l’établissement de l’école. Lorsque l’organisation est établie, il n’y a pas d’étudiants et, par conséquent, il n’y a pas de chiffres pertinents permettant de déterminer la raison pour laquelle l’école a été établie. Le critère se rapportant à l’établissement de l’école devrait être basé sur les raisons principales données par le particulier ou par les particuliers qui ont fondé l’école.
+[14] L’appelante a été fondée par Viginia Fleming, un témoin fort digne de foi et dont le témoignage est à mon avis tout à fait crédible. Mme Fleming a une longue expérience dans le domaine de la danse. Elle a commencé à danser lorsqu’elle avait sept ans, bien qu’elle ait entrepris une formation sérieuse à l’âge de 14 ans seulement. Elle a étudié dans des écoles de danse en Angleterre. Elle est membre et examinatrice de l’Imperial Society of Teachers of Dancing, ainsi que membre de la Royal Academy of Dance et professeure agréée auprès de cette organisation. Elle dansait et enseignait professionnellement avant de fonder sa propre école.
+[15] Virginia Fleming, qui était également l’administratrice et la présidente de l’appelante, a déclaré ce qui suit dans son témoignage :
+[traduction] Tout enfant inscrit à l’école recevait la formation voulue pour être en mesure de donner des spectacles de danse, d’enseigner ou d’utiliser la danse de quelque façon dans le cadre d’une profession. En définitive, cela dépendait fortement de ses aptitudes ou de ce qu’il voulait.
+[16] Par conséquent, l’école était administrée comme si tous ses étudiants allaient en fin de compte utiliser les compétences acquises dans l’exercice d’une activité professionnelle quelconque. De plus, Virginia Fleming a témoigné que l’école se faisait connaître comme [traduction] « une école assurant une formation sérieuse qui encourage les enfants qui le veulent à se lancer dans la profession ». La brochure publiée par l’appelante confirme la chose :
+[traduction] La Fleming School of Performing Arts (autrefois Fleming School of Dance) a été fondée en 1977 afin de donner aux élèves des bases solides dans diverses formes de danses, sous la direction d’enseignants fort compétents. Les cours de théâtre et de comédie musicale ont été ajoutés par la suite afin de compléter la formation nécessaire à une carrière dans le théâtre.
+Comme il en a ci‑dessus été fait mention, la brochure indique ensuite les réussites professionnelles de certains anciens étudiants. Il y est également dit ce qui suit :
+[traduction] Nous encourageons les étudiants à se présenter aux examens de l’ISTD et de la RAD, ce qui leur permet de se fixer un but et, par conséquent, d’améliorer continuellement leurs compétences. Ces examens mènent également à l’agrément professionnel dans le domaine de la danse pour les étudiants qui veulent atteindre des niveaux plus élevés.
+Il ressort clairement de tout cela que l’école était administrée d’une façon sérieuse et qu’elle était administrée principalement en vue de donner aux étudiants les compétences dont ceux‑ci auraient besoin pour devenir danseurs professionnels. La brochure, de trois pages seulement, donne fortement à entendre qu’il s’agit d’une école sérieuse qui était administrée principalement pour enseigner à des étudiants sérieux qui voulaient se lancer dans la danse professionnelle; la majeure partie du texte est consacrée à la description des qualifications des enseignants, et l’introduction et le paragraphe où il est question des examens mettent l’accent sur les carrières professionnelles.
+[17] La plupart des cours qui étaient donnés par l’appelante faisaient partie du programme de l’Imperial Society of Teachers of Dancing ou de la Royal Academy of Dance; il s’agissait donc de cours qui menaient à un certificat ou à un document semblable attestant que l’étudiant avait la compétence voulue pour danser à un certain niveau. Étant donné que la danse est une activité professionnelle, le niveau de compétence atteint aux fins de l’exercice d’une activité professionnelle était ainsi attesté. De 80 à 90 p. 100 des étudiants se présentaient à ces examens.
+[18] Les cours de comédie musicale, de chant et de théâtre sont également pertinents lorsqu’il s’agit de savoir si l’appelante est une école de formation professionnelle, puisque ces cours permettent à l’étudiant qui veut faire carrière dans le théâtre d’acquérir ou d’améliorer une compétence professionnelle. Il n’est pas nécessaire que ces cours mènent à un certificat quelconque afin de décider si l’appelante est une école de formation professionnelle. Il suffit que les cours soient des cours qui permettent à l’étudiant d’acquérir ou d’améliorer une compétence professionnelle.
+[19] L’avocate de l’intimée a signalé le jeune âge d’un grand nombre d’étudiants. Toutefois, dans la décision Sandford c. La Reine, [1998] A.C.I. no 934, le juge Bowman (tel était alors son titre) a dit ce qui suit :
+Comme le souligne une lettre adressée au ministère du Revenu national, les enfants doivent commencer très jeunes leur formation dans le domaine du ballet [...]
+[20] C’est seulement en raison de la nature de l’activité professionnelle que ceux qui veulent devenir danseurs professionnels doivent commencer très jeunes leur formation.
+[21] L’école qui était administrée par l’appelante en l’espèce est fort semblable à l’école dont il était question dans la décision Forever Dance Inc. c. La Reine, 2003 CCI 661, [2003] G.S.T.C. 152. Dans cette décision, le juge Bonner a conclu que l’école était une école de formation professionnelle.
+[22] Je conclus donc que les facteurs qualitatifs se rapportant à l’établissement et à l’administration de l’école, principalement les motifs de la propriétaire et sa déclaration claire selon laquelle [traduction] « [t]out enfant inscrit à l’école recevait la formation voulue pour être en mesure de donner des spectacles de danse, d’enseigner ou d’utiliser la danse de quelque façon dans le cadre d’une profession » ainsi que la façon dont l’école était présentée et administrée, l’accent étant fortement mis sur les cours qui permettaient à l’étudiant d’acquérir ou d’améliorer une compétence professionnelle et sur la préparation de l’étudiant pour une carrière professionnelle, étayent fortement la conclusion selon laquelle, pendant toute la période ici en cause, l’appelante était une école de formation professionnelle pour l’application de l’article premier de la partie III de l’annexe V de la Loi.
+[23] Je conclus donc que, pendant toute la période ici en cause, l’appelante était une école de formation professionnelle pour l’application de l’article premier de la partie III de l’annexe V de la Loi.
+[24] Une fois que toute la preuve eut été présentée, l’avocate de l’intimée a tenté de soulever une seconde question, à savoir si la TPS aurait dû être exigée à l’égard de certains cours qui étaient offerts puisque ce n’étaient pas tous les cours offerts qui menaient au certificat mentionné à l’article 8 de la partie III de l’annexe V de la Loi. Cette disposition prévoit que la fourniture de certains cours offerts par des écoles de formation professionnelle est une fourniture exonérée. Toutefois, la disposition en question n’a pas été mentionnée dans la réponse. La question à trancher, selon la réponse, est la suivante :
+[traduction] Il s’agit de savoir si le ministre a eu raison d’établir une cotisation à l’égard de la taxe nette de l’appelante pour la période en question.
+L’article 6 des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur la taxe d’accise (procédure informelle) prévoit notamment ce qui suit :
+6 (1) La réponse indique :
+[...]
+f) les points en litige,
+[25] À mon avis, l’énoncé précité de la question en litige n’est pas un énoncé adéquat tel que le prévoit l’article 6 des Règles. Il s’agit tout simplement d’une description générique fort générale de la question, laquelle peut être utilisée dans toute réponse déposée en vertu de la Loi; cet énoncé n’informe pas le contribuable ou la Cour de la véritable question qui se pose dans l’affaire ni ne fournit d’indication à ce sujet. L’intimée ne peut pas se fonder sur cet énoncé pour soulever n’importe quelle question au cours de l’audience. De plus, au paragraphe 14 de la réponse, l’intimée a énuméré les dispositions sur lesquelles elle se fondait. Il s’agit des dispositions suivantes :
+[traduction] [...] les articles 123, 165, 169, 221, 225, 228, 280, 296, 298 et 299 de la Loi, l’article premier de la partie III de l’annexe V de la Loi, l’Énoncé de politique P229 TPS/TVH et le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+[26] Il s’agit d’une longue liste de dispositions de la Loi elle‑même (qui n’aident pas à déterminer la question réelle qui se pose en l’espèce); de plus, la seule disposition mentionnée dans cette liste qui figure dans la partie III de l’annexe V de la Loi est l’article premier, dans lequel est définie l’expression « école de formation professionnelle ». Il n’est pas fait mention dans cette liste de l’article 8 de la partie III de l’annexe V de la Loi, et aucune hypothèse de fait n’est émise à l’égard des montants que l’appelante avait perçus pour les cours menant à l’obtention d’un certificat et pour les cours ne menant pas à l’obtention d’un certificat. Étant donné qu’aucune hypothèse de fait n’est émise sur ce point, la charge de la preuve incombe à l’intimée, lorsqu’il s’agit d’établir les faits.
+[27] Dans l’arrêt Pollock v. R. (1993), [1994] 1 C.T.C. 3, 94 DTC 6050 (C.A.F.), le juge Hugessen, au nom de la Cour d’appel fédérale, a fait les remarques suivantes :
+Cependant, lorsque le ministre n’a plaidé aucune supposition ou lorsque les suppositions qu’il a plaidées ont été en tout ou en partie démolies, il reste la possibilité au ministre, en tant que défendeur, de prouver, s’il le peut, le bien-fondé de la cotisation qu’il a établie. À cette fin, il doit supporter le fardeau de preuve qui incombe ordinairement à toute partie à un procès, soit celui de prouver les faits qui étayent sa prétention à moins que ceux-ci n’aient déjà été introduits en preuve par son adversaire. C’est une question de droit qui a fait l’objet d’une jurisprudence constante.
+[28] Dans l’arrêt Loewen c. R., 2004 CAF 146 (C.A.F.), la juge Sharlow, au nom de la Cour d’appel fédérale, a fait les remarques suivantes :
+[11] Les contraintes imposées au ministre lorsqu=il invoque des hypothèses n=empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (C.A.F.) (autorisation d=appel refusée [1996] A.C.S.C. no 4).
+[Je souligne.]
+[29] L’autorisation d’interjeter appel devant la Cour suprême du Canada de la décision rendue par la Cour d’appel fédérale dans l’affaire Loewen c. R. a été refusée [Loewen v. R., 338 N.R. 195 (note) (C.S.C.)].
+[30] Étant donné que la question de savoir si certains montants auraient dû être demandés pour certains cours n’a pas été soulevée dans la réponse, et puisque aucune hypothèse de fait n’a été émise sur ce point et qu’aucune preuve n’a été présentée au sujet du montant perçu pour différents cours, l’intimée ne peut pas avoir gain de cause sur ce point.
+[31] Par suite de l’application de l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt, aucuns frais et dépens ne peuvent être adjugés à l’appelante étant donné que le montant en litige, même sur une base annuelle, excède 7 000 $.
+[32] Par conséquent, l’appel est accueilli, sans dépens, et la cotisation est annulée.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour d’octobre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI651
+No DU DOSSIER DE LA COUR : 2006-3283(GST)I
+INTITULÉ : FLEMING SCHOOL OF DANCE LIMITED c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 9 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 24 octobre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Douglas D. Langley
+Avocate de l’intimée :
+Me Nimanthika Kaneira
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Douglas D. Langley
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,166 @@
+---
+title: "Tannenbaum v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26767/index.do"
+last_modified: "2005-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 13"
+citation2: ""
+neutral_citation: "2005 TCC 13"
+decision_date: "2005-01-05"
+language: "en"
+item_id: "26767"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3513
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:25:06.318000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "963880385c795322738403c80a520d7ebf2d6a915f84bf195811b17ebde16d53"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tannenbaum v. The Queen
+
+- Citation: 2005 TCC 13
+- Decision date: 2005-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3513, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tannenbaum v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-05
+Neutral citation
+2005 TCC 13
+File numbers
+2003-1130(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1130(IT)I
+BETWEEN:
+ALLAN TANNENBAUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on December 7, 2004 at Montreal, Quebec
+Before: The Honourable Justice Gerald J. Rip
+Appearances
+Agent for the Appellant:
+Gloria Tannenbaum
+Counsel for the Respondent:
+Simon Petit
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reassessment and reconsideration on the basis that the appellant is entitled to deduct expenses claimed in carrying on business, subject only that he not be permitted to deduct both the cost of equipment and an allowance on the capital cost of the same equipment in a class.
+Signed at Ottawa, Canada, this 5th day of January 2005.
+" G.J. Rip "
+Gerald J. Rip
+Citation: 2005TCC13
+Date: 20050105
+Docket: 2003-1130(IT)I
+BETWEEN:
+ALLAN TANNENBAUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] The issue in these appeals from assessments for 1998 and 1999 is whether Allan Tannenbaum carried on a business in these years and, therefore, is entitled to deduct expenses he claimed were incurred in carrying on the business.
+[2] Mr. Tannenbaum testified that he carried on the business of trading in gold even though he never purchased a gold contract. His plan was to purchase raw gold and if the gold was sufficiently pure, the gold would be refined in Montreal and then sold to a chartered bank in Montreal. The key to obtaining high quality gold, 24 karats, he said, was to have good contacts in the trade. He worked all day, weekends and holidays, trying to acquire contracts. He thought "I could make a lot of money". He chose gold since he "felt gold would bring in the most money".
+[3] A typical transaction contemplated by Mr. Tannenbaum would be for the seller of the gold to ship the gold to Montreal where it would be picked up by Securcor, a security delivery company, for delivery to a refinery in Montreal. Once the gold was in bullion form, Securcor would deliver the bullion to the Gold Bullion desk of the bank.
+[4] In pursuit of obtaining gold contracts Mr. Tannenbaum traveled to Europe to meet people in the trade and also made overseas telephone calls to these people, including potential sellers of gold.
+[5] Mr. Tannenbaum testified that people did come to him with offers but most were unacceptable; many offers required "money up front" which he was not prepared to do. Also, assays of gold samples he received did not prove to be satisfactory. In at least one case, the people "didn't check out". In other cases, the "rules of the game changed" during negotiations. Each potential transaction had its idiosyncrasies, Mr. Tannebaum recalled, no two were exactly the same.
+[6] Mr. Tannenbaum produced a bundle of copies of facsimiles ("faxes") describing offers, counter‑offers and proposals for the purchase and sale of gold in 1998. The persons making the offers and proposals were located in Toronto, the United States and Austria. Mr. Tannenbaum did not accept any of these proposals or offers. The respondent's counsel also produced copies of proposals that never came to fruition. In one set of documents produced by the respondent's counsel the existence of the refinery in Montreal that was to refine the gold is questioned; Mr. Tannenbaum insisted that the refinery did exist but that the person looking for the refinery was not familiar with the area in Montreal where the refinery was located. Respondent's counsel stated that he did not question the existence of the refinery.
+[7] Mr. Tannenbaum was unable to remember facts relating to several of the documents put to him by counsel for the respondent. Apparently, according to Mrs. Tannenbaum, he spent all of his capital, over $500,000, in trying to make money trading in gold and in 2003 was hospitalized for major depression. Mrs. Tannenbaum, a professor at the Faculty of Medicine at McGill University, confirmed that her husband has serious memory impairment and neurological problems. I am therefore reluctant to assess negatively Mr. Tannenbaum's inability to answer questions put to him in this regard.
+[8] Until 1991 Mr. Tannenbaum was the owner of a corporation that manufactured men's and boy's sportswear, employing as many as 200 people. He closed the business in 1991. Sometime after closing the manufacturing business Mr. Tannenbaum and a long‑time friend, Leon Cooper, started a business to act as agents abroad for all types of manufacturers in the Montreal area. They opened an office in Montreal and worked together for about a year. Mr. Cooper recalled that almost immediately Mr. Tannenbaum became interested in gold trading. Their functions were separated: Mr. Cooper's efforts were devoted to finding manufacturers they could represent, Mr. Tannenbaum was seeking sources to buy and sell gold. While there was a gentlemen's agreement, Mr. Cooper said, for both parties to participate in both businesses, their association lasted only a year. Mr. Cooper was not as wealthy as was Mr. Tannenbaum. Mr. He had "monthly commitments" and could not wait for a successful contract. Mr. Cooper "could not afford to carry on".
+[9] During the time Mr. Cooper shared office space with Mr. Tannenbaum, he did observe offers received by Mr. Tannenbaum to sell gold. He also testified that Mr. Tannenbaum traveled overseas to secure bank and gold trading relationships.
+[10] Mr. Cooper was the respondent's witness. In cross‑examination he corroborated Mr. Tannenbaum's view that "one deal could make it" and that the Tannenbaum's business was based on communications and contacts with persons in the gold trade. There was no evidence submitted by the respondent to disprove Mr. Tannenbaum’s belief that he could make money from the activity.
+[11] Mr. Tannenbaum did not complete a contract since 1994. His income from any gold trading was nil. All of the expenses claimed in his tax returns were for the purpose of earning income from a business, Mr. Tannenbaum declared. He claimed the following expenses in 1998 and 1999:
+1998
+1999
+Interest
+$ 144.15
+$ 117.85
+Office expenses
+$ 1,335.96
+$ 645.22
+Legal, accounting and other fees
+$ 402.59
+$ 402.59
+Rent
+$ 5,150.60
+$ 5,257.36
+Travel
+$ 3,217.19
+$ 4,600.18
+Telephone and utilities
+$ 7,178.29
+$ 7,233.99
+Business taxes
+$ 846.40
+$ 846.40
+Capital cost allowance
+$ 234.29
+$ 187.43
+Total business expenses
+$ 18,509.47
+$ 19,291.02
+Net business income (loss)
+($ 18,509.47)
+($ 19,291.02)
+[12] Interest represented bank charges and bank interest. Mr. Tannenbaum testified that the office expenses were for equipment, such as a fax machine. He paid fees to his accountant. Rent was paid for the same office he had previously shared with Mr. Cooper, the year he first got interested in gold trading. Mr. Tannenbaum said that he traveled to France and Switzerland to contact potential sellers of gold. He explained his telephone expenses for long distance calls to Europe were to obtain or maintain contacts. He incurred City of Montreal business tax. Capital cost allowance was taken on the cost of office equipment[1].
+[13] Mr. Tannenbaum was assessed on the basis that he incurred no business expenses because he had no reasonable expectation of profit. This was the evidence of Marc‑André Paquin, an auditor at the Canada Revenue Agency. The assessments in question were issued on April 29, 2000, before the judgment of the Supreme Court of Canada in Stewart v. The Queen[2], Mr. Paquin noted. In Stewart, the Supreme Court held that "reasonable expectation of profit" is not a test to use in determining whether a taxpayer's activities constitute a source of income for purposes of section 9 of the Income Tax Act ("Act"). The Court provided a two‑stage approach to determine whether a taxpayer's activities constitute a source of business: a) has the activity been undertaken in pursuit of profit or is it a personal endeavour, and b) if it is not a personal endeavour, is the source of income a business? The taxpayer's predominant intention for the activity must be to make a profit and the activity is to be carried out in accordance with relative standards of businesslike behaviour. Where there is no personal element and the activity is clearly commercial, then the taxpayer ought to be permitted to deduct expenses.
+[14] Mr. Tannenbaum, Mr. Paquin explained, had no business plan, no marketing plan and no growth. Also, Mr. Tannenbaum was unable to prove the losses he claimed. The predecessor to the CRA considered the expenses to be personal, "a dream to make money with gold ... there was no commercial activity". At trial, the Crown acknowledged Mr. Tannenbaum had a source of income but his expenses were not reasonable: section 67 of the Act.
+[15] Crown counsel relied on the decision in this Court of Hammill v. Canada[3], a judgment that has been appealed to the Federal Court of Appeal. In that case the taxpayer put his gem collection for sale through a third party, paying the latter significant amounts, including "up front fees", in the belief that it would arrange for him to sell the gems at a substantial profit. The third party brought him five fraudulent offers and eventually the gems vanished. The third party was arrested. The Minister relied on paragraph 18(1)(a) and section 67 of the Act to disallow "deemed interest expenses" and business losses of $1,855,800. Mr. Hammill's appeal was dismissed. The Court found there was no secondary market for precious gems since only dealers could dispose of them on the market. Mr. Hammill had no business structure or revenue‑generating activities in place. His expectations were unreasonable since he could not sell the gems in the manner he attempted; his approach went beyond errors in judgment. He was not acting like a prudent businessman. He did not lay out money to earn income; hence, his interest expense was denied. The business loss deductions claimed were found to be unreasonable, hence denied as well by the Court.
+[16] The Hammill decision does not assist me. There is no evidence before me, for example, that Mr. Tannenbaum could not have sold gold in the way he planned. There is no evidence that his expectations were unreasonable or that he was not acting like a prudent businessman. Indeed, the fact that he insisted on the gold being assayed indicates a degree of prudence. Also, if he was suspicious of the people offering to sell him gold or of the proposal itself, he did not sign the contract; he investigated the proposals brought to him. He was unlike Mr. Hammill in dealing with potential associates. Mr. Tannenbaum was an experienced businessman and no doubt, applied his past business experience to his gold venture. It is not for a court to question how a person conducts business or how he or she may have reduced expenses by acting in a different way.
+[17] In Stewart, the Supreme Court, at paragraph 57, stated that if, in the circumstances, an expense is unreasonable in relation to the source of income, then section 67 of the Act is a mechanism the fisc may use to reduce or eliminate the amount of the expense. That Mr. Tannenbaum earned no income is not necessarily a bar to him claiming expenses. The circumstances of his venture, where one contract, according to Mr. Tannenbaum, can be a home run, is not the norm. The Crown did not suggest Mr. Tannenbaum was wrong in his thinking. Expenses so incurred in a reasonable manner are not unreasonable; Mr. Tannenbaum's expenses for 1998 and 1999 are quite modest bearing in mind the circumstances and nature of his venture. His activities were not a hobby and were not a personal endeavour. His predominant intention, even if some people may characterize his intention as foolhardy or a gamble, was to make a profit from buying and selling gold. There was an element of commerciality in Mr. Tannenbaum's efforts. He ought to be entitled to deduct expenses he incurred in carrying on this business.
+[18] The appeals are allowed, with costs, if any, subject only to the amounts he may have deducted both as cost of equipment and as capital cost allowance; he is entitled to either the cost of the equipment of the allowance on the capital cost of the equipment in a class.
+Signed at Ottawa, Canada, this 5th day of January 2005.
+"Gerald J. Rip"
+Gerald J. Rip
+CITATION: 2005TCC13
+COURT FILE NO.: 2003-1130(IT)I
+STYLE OF CAUSE: ALLAN TANNENBAUM AND THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: December 7, 2004
+REASONS FOR JUDGMENT BY: Gerald J. Rip
+DATE OF JUDGMENT: January 5, 2005
+APPEARANCES:
+Agent for the Appellant:
+Gloria Tannenbaum
+Counsel for the Respondent:
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Obviously, one cannot deduct the cost of, and deduct capital cost allowance, on the same equipment. Mr. Tannenbaum offered no explanation for this possible "double" deduction and it was not raised by the respondent.
+[2] [2002] 2 S.C.R. 645, [2002] S.C.J. No. 46, 2002 DTC 6969, paragraphs 50 to 60.
+[3] 2004 DTC 3271.

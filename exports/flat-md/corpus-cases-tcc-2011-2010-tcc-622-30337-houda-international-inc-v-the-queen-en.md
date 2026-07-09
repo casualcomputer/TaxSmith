@@ -1,0 +1,229 @@
+---
+title: "Houda International Inc v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30337/index.do"
+last_modified: "2011-01-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 622"
+citation2: ""
+neutral_citation: "2010 TCC 622"
+decision_date: "2011-01-10"
+language: "en"
+item_id: "30337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8041
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:58:03.913000+00:00"
+cases_cited_count: 14
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50f03f820cf8e9acfccfdfd99508494bccced8fb9632b509b32b59cb0efa5619"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Houda International Inc v. The Queen
+
+- Citation: 2010 TCC 622
+- Decision date: 2011-01-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8041, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houda International Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-10
+Neutral citation
+2010 TCC 622
+File numbers
+2010-931(GST)APP
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-931(GST)APP
+BETWEEN:
+HOUDA INTERNATIONAL INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on June 15, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Applicant:
+Yves Boulanger
+Counsel for the Respondent:
+Bernard Duchesneau
+____________________________________________________________________
+ORDER
+UPON application made by counsel for the Applicant for an Order extending the time within which an appeal from the reassessment made under the Excise Tax Act, for the period from October 1, 2004 to September 30, 2008, may be instituted;
+AND UPON hearing submissions of both parties;
+IT IS ORDERED THAT the application is granted and the time within which an appeal may be instituted is extended to the date of this Order, and the notice of appeal, received with the application, is deemed to be a valid notice of appeal instituted on the date of this Order if the appropriate filing fee, if any, is paid to the Registry on or before February 9th, 2011.
+Signed at Ottawa, Canada, this 10th day of January 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 11th day of January 2011
+François Brunet, Revisor
+Citation: 2010 TCC 622
+Date: 20110110
+Docket: 2010-931(GST)APP
+BETWEEN:
+HOUDA INTERNATIONAL INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Boyle J.
+[1] The taxpayer has applied to this Court for an extension of time within which to file an appeal following confirmation by the Canada Revenue Agency (“CRA”) of objections in respect of goods and services tax (“GST”) reassessments. The application was made within the maximum one-year time limit set out in section 305 of the Excise Tax Act (Canada) (the “GST legislation”). The 90‑day period within which to file an appeal expired in January 2010; this application was filed in March. It is the taxpayer’s position that its professional advisors were either negligent or mistaken as it had instructed its lawyer to file an appeal within the 90‑day period; however, it was not filed in time because certain key documents remained in the possession of its former accountants until March 2010 even though several requests had been made.
+[2] The taxpayer was recently successful in obtaining an extension of time from the Cour du Québec under la Loi sur le ministère du Revenu (the “Quebec Act”) to file an appeal in respect of the corresponding provincial sale tax assessments. That application had been opposed by the Quebec Ministry of Revenue. The reasons of the Cour du Québec are attached hereto. The Cour du Québec concluded that, in the circumstances, since the taxpayer had instructed its counsel to appeal, the fact that the latter did not do that in a timely fashion made it impossible for the taxpayer to file an appeal in a timely fashion.
+[3] At times, this Court has not accepted that the error or negligence of a professional advisor in itself satisfies the requirements of subsection 167(5) of the Income Tax Act or subsection 305(5) of the GST legislation. At times, this Court has ruled that an extension of time in such circumstances would not be just and equitable. See, for example, Di Modica v. The Queen, 2002 DTC 1290. At other times, this Court has ruled that, in such circumstances, the application was not made as soon as circumstances permitted. See, for example, Carrier v. HMQ, 2005 TCC 182, Ham et al. v. The Queen, 2004 DTC 3022, and Lord v. The Queen, 2004 DTC 3519. That being said, this Court often grants such applications: see, for example, 2749807 Canada Inc. v. HMQ, 2004 TCC 457.
+[4] The first, and main, issue that the Court must decide is whether it is bound by the decision of the Cour du Québec under the doctrines of issue estoppel or abuse of process. If the answer is in the negative, this Court must then determine what deference should be extended to the decision of the Cour du Québec in the interests of judicial comity.
+I. The Law
+[5] Subsection 305(5) of the federal GST legislation provides as follows:
+305(5) When order to be made — No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+305(5) Acceptation de la demande — Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+These are identical to subsections 167(5) and 166.1(7) of the Income Tax Act.
+[6] The relevant paragraph of section 93.1.13 of the Quebec Act provides:
+Conditions for granting application.
+The application shall be granted if the person demonstrates that it was impossible in fact for that person to act and that the application was filed as soon as circumstances permitted
+Acceptation d’une demande.
+Il est fait droit à une telle demande si la personne démontre qu'elle était dans l'impossibilité en fait d'agir et que la demande a été présentée dès que les circonstances le permettaient.
+II. Are the Federal and Quebec Requirements the same?
+[7] This Court must decide whether, under the GST legislation, the Applicant was unable to act or had a bona fide intention to appeal, whether granting the application would be just and equitable, and whether the application was made as soon as circumstances permitted. Correspondingly, under the Quebec Act, the Cour du Québec had to decide whether it had been impossible in fact for the taxpayer to act and whether the application had been made as soon as circumstances permitted.
+[8] In Cité de Pont Viau v. Gauthier Mfg. Ltd., [1978] 2 S.C.R. 516, Pratte J. considered the concept of impossibility in fact and wrote, at pages 526 and 527:
+. . . By referring to impossibility "in fact", which implies that the impossibility is relative, the legislator has chosen a test that is certainly less demanding that [sic] the criteria of absolute impossibility or force majeure.
+. . .
+It is impossible to specify in advance every situation that might constitute a relative impossibility. Each case must be decided according to its own particular circumstances, since the impossibility in question is really one of fact.
+In the case at bar foreclosure was due solely to the error of appellant's counsel. The party itself acted with diligence and I do not see what more it could have done in order to "act sooner".
+[9] With respect to section 110.1 of the Code of Civil Procedure of Quebec, which similarly provides for an impossibility in fact test as to extensions of time applications in civil matters in the province, the Quebec Court of Appeal wrote in Québec (Sous‑ministre du Revenu) c. Stever, 2007 QCCA 257 (CanLII), at paragraph 5:
+En ce qui concerne l'erreur de l'avocat, elle résulte ici de son ignorance de la loi, une situation qui donne ouverture à l'usage de la discrétion conférée dans l'article 110.1 C.p.c., à moins que cette erreur n'ait des conséquences irréparables pour l'autre partie. À cet égard, il y a lieu de préciser que toute erreur de l'avocat, qu'elle résulte de son ignorance ou de sa négligence, même grossière, peut permettre à une partie d'être relevée de son défaut.
+[10] Earlier this year, in Océanica inc. c. Québec (Sous-ministre du Revenu), 2010 QCCQ 871 (CanLII), the Cour du Québec described the impossible in fact test applicable to extension applications in tax matters as follows:
+34 En ce qui concerne l'impossibilité en fait d'agir, les jugements rendus par la Cour du Québec sur ce point montrent clairement que cette condition doit être interprétée favorablement au contribuable. L'erreur du mandataire, comptable ou avocat, a régulièrement été considérée comme un élément qui place le contribuable en cause dans une situation où il lui est en fait impossible d'agir.
+[11] Similarly, the Cour du Québec wrote earlier this year in another tax case, Simon c. Québec (Sous-ministre du Revenu), 2010 QCCQ 2980 (CanLII):
+9 Le Tribunal a une large discrétion pour analyser les faits afin de déterminer si le contribuable se retrouve dans une situation qui l'empêchait d'agir dans les délais légaux. Chaque cas est un cas d'espèce.
+10 Lorsque l'empêchement résulte de l'erreur du mandataire du contribuable, soit son avocat, son comptable, en l'absence de faute ou de négligence de la part du contribuable, la demande de prorogation de délai peut être accordée.
+[12] According to these Quebec cases, it is clear that, under the “impossible in fact” test, in a late‑filing application involving the failure of a lawyer or accountant, the Quebec court must be satisfied that the taxpayer has instructed his advisor to proceed and that the default is not attributable to the taxpayer himself. I am satisfied that that test is, in substance, identical to the test that requires the taxpayer to show that he was unable to act or that he had a bona fide intention to appeal.
+[13] The Cour du Québec expressly found in granting this taxpayer’s application that, within the prescribed time limit, it had clearly instructed its lawyer to institute an appeal.
+[14] Further, since the Quebec legislation permits, but does not require, the Cour du Québec to grant the application in such circumstances, I am satisfied that, when that court decides to exercise its discretion, it thereby implicitly decides that it is just and equitable to permit late‑filing in the particular circumstances.
+[15] Finally, in granting this taxpayer’s application, the Cour du Québec expressly decided that the taxpayer’s late‑filing application was filed as soon as circumstances permitted.
+[16] These are the same issues as are before this Court. The other requirements of section 305(5) of the GST legislation are met and were not contested.
+III. Issue Estoppel and Abuse of Process
+[17] Issue estoppel and abuse of process were considered at length in Golden et al. v. The Queen, 2008 TCC 173, 2008 DTC 3363, a decision of this Court; it was upheld by the Federal Court of Appeal (2009 FCA 86, 2009 DTC 5079).
+[18] The doctrine of issue estoppel and its application in a tax case was also aptly described by Lamarre J. in Leduc v. HMQ, [2002] 2 C.T.C. 2735.
+[19] In Golden, I described the doctrines of issue estoppel and abuse of process as follows:
+A. Issue estoppel
+[20] It is open to this Court to apply the doctrine of issue estoppel to prevent relitigation of matters already decided in another court proceeding. . .
+. . .
+[23] The preconditions for the application of issue estoppel are:
+1. the earlier court decision must have decided the same question that is before this Court, and the question was fundamental to the earlier court’s decision;
+2. the earlier court decision must be final; and
+3. there must be a mutuality of parties in the proceedings, that is, the parties to the earlier judicial decision or their privies need be the same persons as the parties in this proceeding or their privies
+[24] The doctrine of issue estoppel is not to be applied automatically or inflexibly once the preconditions are established. It remains for this Court to decide whether, as a matter of discretion, issue estoppel ought to be applied or if its application would be unfair in these particular circumstances.
+. . .
+[26] It is also open to this Court to apply the doctrine of abuse of process to prevent relitigation of matters already decided in another court proceeding.
+[27] The scope and application of the doctrine of abuse of process to prevent relitigation has recently been thoroughly canvassed by the Supreme Court of Canada in C.U.P.E.
+[28] The principal difference between issue estoppel and abuse of process to prevent relitigation is with respect to the question of mutuality of parties and privity. Abuse of process does not require that the preconditions of issue estoppel be met. Abuse of process can therefore be applied when the parties are not the same but it would nonetheless be inappropriate to allow litigation on the same question to proceed in order to preserve the courts’ integrity.
+[29] Abuse of process is also a doctrine that should only be applied in the Court’s discretion and requires a judicial balancing with a view to deciding a question of fairness. However, it differs somewhat from a consideration of the possible application of issue estoppel in that the consideration is focused on preserving the integrity of the adjudicative process more so than on the status, motive or rights of the parties.
+[30] Relitigation should be avoided unless it is in fact necessary to enhance the credibility and effectiveness of the adjudicative process. This could be the case where (1) the first proceeding is tainted by fraud or dishonesty; (2) fresh new evidence, previously unavailable, conclusively impeaches the original result; or (3) when fairness dictates that the original result should not be binding in the new context.
+. . .
+In C.U.P.E. (at paragraph 15), Arbour J. identifies some of the matters to be considered in the exercise of judicial discretion:
+The body of law dealing with the relitigation of issues finally decided in previous judicial proceedings is not only complex; it is also at the heart of the administration of justice. Properly understood and applied, the doctrines of res judicata and abuse of process govern the interplay between different judicial decision makers. These rules and principles call for a judicial balance between finality, fairness, efficiency and authority of judicial decisions.
+[20] It is not clear that issue estoppel applies in this case. While the issue before this Court and the issue before the Cour du Québec are not entirely identical, they are in substance indistinguishable. While this Court is further required by statute to determine if the extension would be just and equitable, that additional requirement is surely implicit in the Cour du Québec’s favourable exercise of its discretion. Whether there is mutuality of parties is not so clear in this case. The federal government is not the same person as a provincial government.
+[21] However, the doctrine of abuse of process does not require mutuality of parties when applied to prevent the relitigation of an issue. I am satisfied that the matter before this Court has already been addressed by the Cour du Québec and should not be relitigated before this forum as that might result in a different outcome. Clearly, the reopening of this issue would lead to an inefficient use of public and private resources, could lead to inconsistent decisions that could not be reasonably explained to taxpayers in Quebec and elsewhere in Canada, and would unnecessarily erode the principles of finality, consistency, predictability and fairness so important to the proper administration of justice.
+IV. Judicial Comity
+[22] Stare decisis does not apply with respect to decisions of courts of coordinate jurisdiction. That being said, according to the doctrine of judicial comity, reasoned judgments of such courts or judges should be deferred to in the absence of exceptional circumstances.
+[23] In Re Hansard Spruce Mills Ltd., [1954] 4 D.L.R. 590, the Supreme Court of British Columbia wrote:
+“But I have no power to overrule a brother Judge, I can only differ from him, and the effect of my doing so is not to settle but rather to unsettle the law, because, following such a difference of opinion, the unhappy litigant is confronted with conflicting opinions emanating from the same Court and therefore of the same legal weight. This is a state of affairs which cannot develop in the Court of Appeal.
+Therefore, to epitomize what I have already written in the Cairney case, I say this: I will only go against a judgment of another Judge of this Court if:
+(a) Subsequent decisions have affected the validity of the impugned judgment;
+(b) it is demonstrated that some binding authority in case law, or some relevant statute was not considered;
+(c) the judgment was unconsidered, a nisi prius judgment given in circumstances familiar to all trial Judges, where the exigencies of the trial require an immediate decision without opportunity to fully consult authority.
+If none of these situations exist I think a trial Judge should follow the decisions of his brother Judges.”
+[24] See also Janssen v. Apotex, [1997] F.C.J. No. 169, 72 C.P.R. (3d) 179 (FCA) and Viel v. Canada (Employment Insurance Commission), 2001 FCA 9.
+[25] In Singh v. Canada (Minister of Citizenship and Immigration), [1999] F.C.J. No. 1008 (FCTD), it is written:
+“In Glaxo Group Ltd. v. Canada (Minister of National Health and Welfare), supra, Richard J. (as he then was) considered whether he was bound, by reasons of judicial comity, to apply a decision of Noël J. (as he then was) on one of the identical issues raised before him. In reviewing the principle of judicial comity and its application, Richard J. stated as follows:
+The principle of judicial comity has been expressed as follows:
+The generally accepted view is that this court is bound to follow a previous decision of the court unless it can be shown that the previous decision was manifestly wrong or should no longer be followed: for example, (1) the decision failed to consider legislation or binding authorities which would have produced a different result, or (2) the decision, if followed, would result in a severe injustice. The reason generally assigned for this approach is a judicial comity. While doubtless this is a fundamental reason for the approach, I think that an equally fundamental, if not more compelling, reason is the need for certainty in the law, so far as that can be established. Lawyers would be in an intolerable position in advising clients if a division of the court was free to decide an appeal without regard to a previous decision or the principle involved in it.
+A similar position was taken by Mr. Justice Jackett, President of the Exchequer Court, in Canada Steamship Lines Ltd. v. M.N.R., [1966] Ex. C.R. 972 at p. 976, [1966] C.T.C. 255, 66 D.T.C. 5205:
+I think I am bound to approach the matter in the same way as the similar problem was approached in each of these cases until such time, if any, as a different course is indicated by a higher Court. When I say I am bound, I do not mean that I am bound by any strict rule of stare decisis but by my own view as to the desirability of having the decisions of this Court follow a consistent course as far as possible.
+In R. v. Northern Electric Co. (1955), 24 C.P.R. 1 at p. 19, [1955] 3 D.L.R. 449, [1955] O.R. 431 (H.C.), McRuer C.J.H.C. stated:
+Having regard to all the rights of appeal that now exist in Ontario, I think Hogg J. stated the right common law principle to be applied in his judgment in R. ex rel. McWilliam v. Morris, [1942] O.W.N. 447 where he said: “The doctrine of stare decisis is one long recognized as a principle of our law. Sir Frederick Pollock says, in his First Book of Jurisprudence, 6th ed., p. 312: ‘The decisions of an ordinary superior court are binding on all courts of inferior rank within the same jurisdiction, and, though not absolutely binding on courts of co-ordinate authority nor on that court itself, will be followed in the absence of strong reason to the contrary’.”
+I think that “strong reason to the contrary” does not mean a strong argumentative reason appealing to the particular Judge, but something that may indicate that the prior decision was given without consideration of a statute or some authority that ought to have been followed. I do not think “strong reason to the contrary” is to be construed according to the flexibility of the mind of the particular Judge.
+Following his review of the jurisprudence, Richard J. concluded that counsel opposing the motion had failed to establish that Noël J. was “manifestly wrong” in his decision. He also noted that, although counsel opposing the motion had “argumentative reasons” in support of his position, they were not “strong reasons” not to follow the decision of Noël J. “...who gave detailed reasons during which he considered the authorities and relevant legislation.” In short, Richard J. applied the decision of Noël J. At the time of his decision, both Richard J. and Noël J. were judges of the Trial Division.”
+[26] In Almrei v. Canada (Citizenship and Immigration), 2007 FC 1025, Lemieux J. summarized the exceptions to the doctrine of judicial comity as follows:
+[62] There are a number of exceptions to the principle of judicial comity as expressed above they [sic] are:
+i. The existence of a different factual matrix or evidentiary basis between the two cases;
+ii. Where the issue to be decided is different;
+iii. Where the previous condition failed to consider legislation or binding authorities that would have produced a different result, i.e., was manifestly wrong; and
+iv. The decision it followed would create an injustice.
+[27] In this Court, Tardif J. considered the doctrine of judicial comity as between our Court and the Cour du Québec in considering late‑filing applications in 2749807 Canada Inc. v. HMQ, 2004 TCC 457. Tardif J. wrote, at paragraph 19:
+. . . [W]hile this court is not bound by the decisions of the Court of Quebec, especially where the relevant legal provisions are not the same, I believe it is important, insofar as it is possible, to help ensure that the judgments on a single issue are consistent.
+[28] I have no doubt that allowing the Respondent to proceed would result in an abuse of process. That being said, in the alternative, I am satisfied that, in the circumstances, in the best interest of justice, the application should be granted in deference to the decision of the Cour du Québec. Otherwise, there would be unnecessary disorder in the administration of justice with respect to tax appeals, the law would become uncertain and the confidence of the public would be undermined. This would occur whether or not this Court were to decide the matter on the merits in favour of the Applicant or not.
+V. Conclusion
+[29] The taxpayer’s application to late‑file its GST appeal to this Court is granted. The Cour du Québec has already decided, in substance, the same issue for Quebec sales tax (“QST”) purposes. In the circumstances, I am satisfied that it would be inappropriate for me to allow the Respondent to proceed on the merits: that would result in an abuse of process. In the alternative, I am of the view that the application should be granted on the basis of judicial comity: the situation calls for deference to the decision of the Cour du Québec. I see no reason why scarce judicial resources should be wasted in an examination of such an application on the merits since the parallel provincial application has already been decided.
+[30] Late‑filing applications made within the one‑year period involving taxpayers who have instructed their lawyer or accountant to file an objection or appeal under the Income Tax Act or the GST legislation typically turn on whether this Court is satisfied that the taxpayer had a bona fide intention to object or appeal and whether granting the requested extension would be just and equitable. My analysis and conclusions do not change that. However, where the Cour du Québec has concluded that the particular taxpayer’s circumstances satisfy the corresponding requirements under the Quebec Act, this Court, in its control over its process, should generally defer to that decision; it should not be expected to revisit the issue on the merits. This should not be taken to be a relaxation in this Court’s approach to considering late‑filing applications based upon a failure of a taxpayer’s lawyer or accountant where a parallel provincial determination has not already been made.
+Signed at Ottawa, Canada, this 10th day of January 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 11th day of January 2011
+François Brunet, Revisor
+APPENDIX
+CITATION: 2010 TCC 622
+COURT FILE NO.: 2010-931(GST)APP
+STYLE OF CAUSE: HOUDA INTERNATIONAL INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 15, 2010
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: January 10, 2011
+APPEARANCES:
+Counsel for the Applicant:
+Yves Boulanger
+Counsel for the Respondent:
+Bernard Duchesneau
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Yves Boulanger
+Firm:
+Laval, Québec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

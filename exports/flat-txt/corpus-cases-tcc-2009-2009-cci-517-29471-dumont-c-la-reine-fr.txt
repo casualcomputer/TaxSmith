@@ -1,0 +1,108 @@
+Title: Dumont c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29471/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-517-29471-dumont-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-15
+
+# Dumont c. La Reine
+
+- Citation: 2009 CCI 517
+- Decision date: 2009-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6290, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dumont c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-15
+Référence neutre
+2009 CCI 517
+Numéro de dossier
+2008-3302(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3302(GST)I
+ENTRE :
+JULIE DUMONT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 septembre 2009, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelante :
+Maxim Parenteau
+Avocate de l'intimée :
+Me Édith-Geneviève Giasson
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 18 octobre 2007 et porte le numéro 84403 9180 RT0001, est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 517
+Date : 20091015
+Dossier : 2008-3302(GST)I
+ENTRE :
+JULIE DUMONT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel d’une cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise (la « Loi »). Par la cotisation du 18 octobre 2007, l’intimée, par l’entremise du ministre du Revenu du Québec (le « ministre ») a rejeté la demande de remboursement de taxe sur les produits et services (TPS) pour une habitation neuve située au 2349‑2351, rue Charbonneau à Terrebonne (l’« habitation neuve »), par laquelle l’appelante réclamait un remboursement de 2 534,84 $.
+[2] En établissant la cotisation, le ministre s’est fondé notamment sur les hypothèses de faits et les conclusions suivantes :
+a) la construction de l’habitation neuve à l’égard de laquelle un remboursement de TPS a été demandé s’est terminée le ou vers le 1er décembre 2006; (admis)
+b) ladite habitation neuve est un duplex; (admis)
+c) l’appelante n’a pas construit l’habitation neuve afin de l’utiliser comme résidence habituelle; (nié)
+d) l’habitation neuve n’a pas constitué la résidence habituelle de l’appelante; (nié)
+[3] Je note de l’avis d’appel que l’appelante conteste aussi devant la Cour la cotisation établie à son égard en vertu de la Loi sur la taxe de vente du Québec, aux termes de laquelle le ministre aurait aussi rejeté sa demande de remboursement de taxe de vente du Québec (TVQ) pour habitation neuve. À cet égard, je souligne d’emblée que la Cour n’a pas compétence pour entendre cet appel. Si l’appelante veut d’interjeter appel de la cotisation établie en vertu de la Loi sur la taxe de vente du Québec, le recours approprié est prévu aux articles 93.1.10 et suivants de la Loi sur le ministère du Revenu du Québec, L.R.Q., c. M-31, et elle doit s’adresser plutôt à la Cour du Québec. La Cour a compétence pour entendre l’appel de la cotisation établie en vertu de la Partie IX de la Loi.
+[4] En l’espèce, la seule véritable question en litige consiste à déterminer si l’appelante a fait construire l’habitation neuve pour qu’elle lui serve de résidence habituelle. En effet, le paragraphe 256(2) de la Loi dispose qu’un particulier a droit au remboursement de TPS pour habitation neuve s’il construit un immeuble d’habitation pour qu’il lui serve de résidence habituelle.
+Remarques préliminaires
+[5] Je souligne d’emblée que l’appelante a été la seule personne (à l’exception de monsieur Maxim Parenteau, qui de l’aveu de l’appelante, serait son conjoint de fait depuis 2008 et donc un témoin qu’on ne peut qualifier d’indépendant) à témoigner à l’appui de sa position et qu’elle n’a produit aucune preuve documentaire. Somme toute, la preuve de l’appelante selon laquelle elle avait fait construire l’habitation neuve pour qu’elle lui serve de résidence habituelle reposait essentiellement sur son témoignage.
+Témoignage de l’appelante
+[6] Il ressort essentiellement du témoignage de l’appelante (qui était généralement vague, imprécis, ambigu et souvent incompréhensible) que :
+i) elle était enseignante en 2005 et 2006;
+ii) jusqu’au moment où elle a déménagé dans l’habituation neuve (c’est‑à‑dire à l’été 2006), elle avait résidé habituellement chez ses parents, sur la rue Lauzon à Boisbriand. À cet égard, je souligne d’emblée que l’intimée a mis en preuve un extrait (pièce I‑6) des registres de l’Assurance automobile du Québec (« SAAQ ») qui indique que pendant la période du 6 septembre 2005 au 9 juillet 2008, l’adresse résidentielle de l’appelante était non pas celle de ses parents mais bien celle de monsieur Maxim Parenteau qui résidait pendant cette période sur la rue Charny à Mascouche. Je souligne aussi que les réponses de l’appelante aux questions de l’avocate de l’intimée qui cherchait des explications à cette apparente contradiction furent à ce point vagues, ambiguës (pour ne pas dire incompréhensibles) qu’elles semèrent dans mon esprit un doute sérieux quant à la crédibilité de l’appelante. Tout au plus, l’appelante a expliqué que pendant cette période elle avait effectivement co‑habité avec monsieur Maxim Parenteau mais pas de façon habituelle compte tenu de la nature de leurs relations. Je souligne que le témoignage de l’appelante sur la nature de cette relation ne fut plus guère plus éclairant;
+iii) au printemps 2006, elle a fait construire un duplex sur ce terrain, et ce, avec l’aide de monsieur Parenteau qui aurait supervisé pour elle les travaux. Je souligne immédiatement que monsieur Parenteau avait aussi acheté en 2005 un terrain sur la rue Charbonneau à Terrebonne et qu’il avait aussi construit un duplex sur ce terrain au printemps 2006;
+iv) à l’été 2006, elle a emménagé dans l’habitation neuve. Je souligne immédiatement que l’appelante n’a pas cru bon appuyer ses allégations à cet égard par une preuve documentaire sérieuse (tels les changements d’adresse, les factures liées au déménagement, à l’installation du téléphone, à l’installation du câble, à l’installation de l’internet, et les avis aux assureurs) ou par le témoignage de témoins crédibles et indépendants;
+v) un mois et demi après avoir déménagé, elle a dû se résigner, compte tenu des difficultés financières qu’elle éprouvait, à louer son logement et à retourner vivre chez ses parents. L’appelante a expliqué qu’elle avait essayé pendant cette période de trouver une solution à ses problèmes financiers. À cet égard, elle a précisé qu’elle avait demandé l’aide de ses parents et tenté de trouver un co‑locataire qui aurait partagé les coûts du logement qu’elle avait habité mais que ces démarches s’étaient avérées infructueuses.
+Témoignage de monsieur Parenteau
+[7] Le témoignage de monsieur Parenteau nous aura appris bien peu de chose si ce n’est qu’il a tenté de nous éclairer sur la nature des difficultés financières qu’aurait éprouvées l’appelante et qui l’auraient forcée à louer son habitation neuve, difficultés lesquelles, selon son témoignage, auraient été liées aux dépassements des coûts de construction. Par ailleurs, le témoignage de monsieur Parenteau nous a appris qu’elle avait habité un logement du duplex pendant une courte période à l’été 2006 et que par la suite il avait dû se résigner (compte tenu des ses ressources financières) à louer le logement à un tiers.
+Analyse et conclusion
+[8] En l’espèce, il incombait à l’appelante de démontrer qu’elle avait construit l’habitation neuve pour qu’elle lui serve de résidence habituelle. Je rappelle que l’appelante a été la seule personne (à l’exception de monsieur Parenteau qu’on ne peut qualifier de témoin indépendant dans les circonstances) à témoigner à l’appui de sa position et qu’elle n’a pas produit aucune preuve documentaire (tels les changements d’adresse, les factures liées au déménagement, les factures d’installation de câble, d’internet, d’installation du système téléphonique, l’avis aux assureurs, la correspondance avec Hydro-Québec). En résumé, la preuve de l’appelante reposait essentiellement sur son témoignage, lequel m’a paru peu crédible. En d’autres termes, l’appelante ne pouvait espérer me convaincre par des réponses généralement vagues, imprécises et souvent incompréhensibles. Les réponses de l’appelante au procureur de l’intimée qui voulait des explications sur le fait que les registres de la SAAQ indiquaient que du 6 septembre 2005 au 9 juillet 2008 son adresse résidentielle était non pas celle de ses parents mais bien celle de monsieur Parenteau, étaient, à cet égard, particulièrement vagues, ambiguës et incompréhensibles. L’appelante était aussi en mesure de produire une preuve documentaire ou testimoniale indiquant qu’elle avait emménagé dans le logement de l’habituation neuve et qu’elle l’avait habité pendant environ 45 jours. Elle ne l’a pas fait. J’en infère que cette preuve lui aurait été défavorable. Somme toute, je n’ai pas retenu la version des faits donnée par l’appelante.
+[9] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 517
+Nº DU DOSSIER DE LA COUR : 2008-3302(GST)I
+INTITULÉ DE LA CAUSE : JULIE DUMONT ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 10 septembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 15 octobre 2009
+COMPARUTIONS :
+Représentant de l'appelante :
+Maxim Parenteau
+Avocate de l'intimée :
+Me Édith-Geneviève Giasson
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

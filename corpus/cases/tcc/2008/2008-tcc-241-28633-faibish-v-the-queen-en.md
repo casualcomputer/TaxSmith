@@ -1,0 +1,160 @@
+---
+title: "Faibish v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28633/index.do"
+last_modified: "2008-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 241"
+citation2: ""
+neutral_citation: "2008 TCC 241"
+decision_date: "2008-04-30"
+language: "en"
+item_id: "28633"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1165
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:16:20.979000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2346d1a0cb4df60df8b6f23d5d81e7a015155af373fb29beb4cd725fd348946d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Faibish v. The Queen
+
+- Citation: 2008 TCC 241
+- Decision date: 2008-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1165, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faibish v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-30
+Neutral citation
+2008 TCC 241
+File numbers
+2007-3531(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3531(IT)I
+BETWEEN:
+BERNARD FAIBISH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 16, 2008, at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of April, 2008.
+“J.E. Hershfield”
+Hershfield J.
+Citation: 2008TCC241
+Date: 20080430
+Docket: 2007-3531(IT)I
+BETWEEN:
+BERNARD FAIBISH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The only issue presented at the hearing was whether, in his 2005 taxation year, the Appellant incurred deductible moving expenses as those expenses are defined in paragraph 62(3)(e) of the Income Tax Act (the “Act”). The amount claimed and denied was $4,552.
+[2] Paragraph 62(3)(e) defines a “moving expense” to include “the taxpayer’s selling costs in respect of the sale of the old residence”.
+[3] There is no dispute that the Appellant relocated his residence and was allowed to deduct moving expenses incurred in 2005 in respect of that relocation since it was admitted that the relocation was an “eligible relocation” as defined in section 248 of the Act.
+[4] The taxpayer testified that he entered into an Offer to Purchase a new residence on July 2, 2005 and thereupon prepared to list his old residence for sale.
+[5] He was aware of some mold in an upstairs bathroom of his old residence which he believed would adversely affect, indeed might prevent altogether, the sale of his old residence. A contractor was retained to attend to the problem.
+[6] The uncontested evidence of the Appellant was that: the apparent mold appeared minor to the naked eye; on removing wallboard around the bathroom window and bathroom tub area, significant mold was discovered; and, remedial work was required to rid the affected area of that problem.
+[7] The Appellant testified that in the course of the remedial work, damage was done to a plumbing stack which caused a water leak which caused water damage to the bathroom floor which in turn caused damage to the ceiling of the room below which gave way to water damage to the floor of the room below the bathroom.
+[8] The mold correction work, and water damage repairs were completed in a short time (weeks) of the time of entering into the Offer to Purchase the new residence and flowed from his relocation. The total cost of the mold detection and remedial work and the water damage repairs was the $4,552 amount which the Appellant claimed as a moving expense under paragraph 62(3)(e).
+[9] The Appellant estimated that the cost of the work relating to the bathroom (mold and bathroom water damage) was some $1,100 plus the cost of flooring tiles for the bathroom and that the balance related to the repairs to the room below which included repairing the ceiling and replacing damaged carpets with hardwood floors. The Appellant said that the hardwood was not more expensive to put in than a replacement carpet would have been.
+[10] The Appellant argued that the total of these costs were incurred for remedial work required to be undertaken by reason of his relocation and were incurred for the sole purpose of selling his old residence. As such, they were selling costs of the old residence and deductible as a moving expense. He argued that it would be impossible to sell a residence with an apparent mold problem and remedying that problem, including the resultant costs arising from that remedial work, was a necessary outlay directly related to and resulting from his relocation.
+[11] He argued that the general language used in paragraph (e) (that allowed the deduction of “selling costs in respect of the sale of the old residence”) should be interpreted broadly to ensure that its evident purpose was given effect. He cited a notable author of taxation materials as authority for the proposition that all expenditures would qualify as “moving expenses” if they qualified under a general understanding of that phrase. This comment derives from the fact that the definition of “moving expenses” is expressly stated to “include” the enumerated list in subsection 62(3) which includes the selling costs referred to in paragraph (e). This language clearly suggests that the list is not exhaustive and that other expenses could and should be included if as a matter of general understanding they would be considered to be “moving expenses”.
+[12] The Appellant also introduced as evidence materials from the Web site of Canada Mortgage and Housing Corporation (CMHC) and the U.S. Department of Housing and Urban Development each of which identified the health problems of mold and the need to rectify them.
+[13] There was also a letter from the Appellant’s real estate agent that indicated that the mold problem would have substantially impaired the sale of the house even to the point of preventing the sale.
+[14] Respondent’s counsel argued that the expenditure was made to increase the value of the old residence or to prevent a decrease in its value and was not a necessary expense incurred in order to sell the old residence. The remedial and repair work were not directly related to the move but were incurred in connection with the move to preserve or enhance value. He cited John G. Critchley v. The Minister of National Revenue,[1] a decision of the Tax Review Board, as authority for the proposition that moving expenses embraced only those expenditures directly related to the sale of the old residence and not all expenses or costs incurred in connection with its sale.
+[15] That case also cites Marvin R.V. Storrow v. Her Majesty the Queen[2], a Federal Court decision where it was found that the words “moving expenses” must be construed in their ordinary and natural sense in their context. Arguably, remedial work on a residence is not a moving expense as much as it is preparatory work which is a distinguishable category of expenditure in the ordinary and natural sense. This distinction was noted in another case referred to by Respondent’s counsel; namely Merton A. Collin v. The Minister of National Revenue.[3]
+[16] In that case Bonner J. of the Tax Court of Canada contrasted improvements preparatory to a sale such as painting, which were not moving expenses, with a cost of changing the terms of a mortgage to facilitate a sale which was a moving expense. Counsel argued that the remedial and repair work done in the case at bar were improvements preparatory to sale and not deductible moving expenses.
+Analysis
+[17] The Appellant has a number of problems that will result in the failure of his appeal at least as to a substantial part of it. Firstly, I do not accept that the mold problem would have prevented the sale of the residence altogether. There may have been a serious liability issue if the problem was covered up or not disclosed and turned out to be a health hazard. As it was, it was visible and an inspection to determine the extent and cost of remedial work would have likely been required at some point in the sale of the home. That it was wise to address the problem in advance, does not make the work done either a necessary cost or a cost of sale. In this regard, the Appellant has a problem with his construction of the general understanding of what a cost of sale is in the context of the subject provision.
+[18] Indeed, applying his own argument, that a general understanding of what a moving expense is, should establish that his expenditures for the most part are non-deductible. I say this for two reasons. Firstly, the word “expense” does not, as a matter of general understanding, denote capital expenditures for repairs or improvements. Secondly, applying the construction doctrine ejusdem generis, there is nothing in the list of inclusions in the definition of moving expenses that could remotely be construed as including expenditures that are repairs or improvements to an old residence undertaken because of a relocation.
+[19] Another problem faced by the Appellant is that most of the expenditures related to remedial work were related to damage caused by faulty workmanship by the person retained to clean up the mold problem. The nexus between the sale of the old residence and resolving this problem is quite remote. That expense is not even as closely related to the sale as the cost of painting which Bonner J. suggested in Collin would not qualify as a moving expense.
+[20] The only portion of the expenditure incurred that might reasonably be considered as qualifying as a selling expense in respect of the sale of the old residence is what I might refer to as the inspection portion of the expenditure.
+[21] The Appellant testified that an inspection alone would have included taking wallboard down under the bathroom window and around the bathtub. That would have revealed the unexpected extent of the problem which then required remedial work. In my view, the cost of the inspection would be deductible either as a non-enumerated item under subsection 62(3) or as a cost of selling under paragraph 62(3)(e). The cost of the remedial work that the inspection would give rise to is not deductible.
+[22] On being confronted by me with this view and being asked to suggest an amount to allocate as an inspection cost, the Appellant testified that he thought the cost of the inspection alone would have been in the order of some $300 to $500. That is, of the $1,100 that he estimated was the cost of the work to the bathroom, which included the cost of determining the extent of the mold problem, he said some $300 to $500 of that would be allocable to the determination of the problem, i.e. the cost attributable to an inspection.
+[23] At this point, I have to express my frustration with the performance of Respondent’s counsel at the hearing. When I asked the Appellant what he thought an inspection allocation might be, Respondent’s counsel objected to my question on the basis that the Appellant was not an expert. When I indicated that I was going to proceed with the question in spite of his objection and that I would consider what weight to give his answer, Respondent’s counsel insisted, with what I might call a disturbing persistence, on pursuing the objection for what he said was “for the record”.
+[24] The objection, as framed, suggested that the question posed could only be answered by an expert. It is trite law, however, that matters of common or general understanding do not require expert witness testimony.[4] Indeed, such expert testimony is not admissible. I believe it fair to say that it is not admissible because of its tendency to distract or overwhelm where the trier of fact (such as a jury) might be encouraged to defer to that expert opinion. It should be excluded unless it is of such a nature to be necessary to enable the trier of fact to make a correct finding. On the other hand, the admission is harmless where the trier of fact, subsequent to admission, determines that there is no need for the assistance offered. The evidence will simply be given no weight. The impact of that determination is no different, in my view, than where a Judge alone hears evidence and reserves on the question of admissibility.[5]
+[25] Giving counsel some benefit of the doubt, I assume he might have meant to object on the basis that I was asking for “opinion evidence” which was not admissible. That is, on the question of the cost of ripping down wallboard below the Appellant’s bathroom window and around the bathtub, the point of the objection was not whether the Appellant was qualified as an expert, but was meant to be on the basis that the Appellant’s lay opinion was irrelevant and unreliable and should not be allowed. On this basis counsel objected, for “the record”, to my willingness to hear, and presumably consider, “opinion evidence”.
+[26] It is trite law, historically at least, that a lay person’s opinion, on a matter of common understanding or otherwise, is irrelevant or suffers reliability concerns and is, subject to some judicial discretion, not admissible. Again, however, I venture to say that the admission is harmless where the trier of fact needs no reminder of its lack of probative value. Again, the evidence will, or can be, given no weight.
+[27] These observations are reflective of the modern application of rules of evidence which is to “admit the evidence and discuss its weight”. This “modern” rule was first observed in R v. Birmingham Overseers[6] in 1861. Judicial latitude eroding the strict rule against opinion evidence has gradually grown and has become increasingly permissive of granting the trial Judge a large measure of discretion as noted in the Supreme Court of Canada decision in R. v. Graat.[7]
+[28] The relaxation of the rule against opinion evidence has evolved largely around the practical notion of giving witnesses leeway to give evidence on matters they have personal knowledge of in the form of an opinion. It is a method of conveying evidence in a form that might be more accurately, or more easily or readily, conveyed by a witness.[8] A very simplistic example is the case before me. The witness has first hand knowledge of the ingredients necessary to estimate a reasonable allocation of a cost. He knows the size of the area inspected, how the inspection was conducted, the contractor who performed it and the rate at which the contractor charged for the work. An opinion as to cost might well reflect the composite of this personal knowledge and might be given some weight, or not, by the Judge depending on that Judge’s perception of whether the witness is in a better position to form the opinion and whether it was formed in a way that is consistent with the way in which the trier of fact would or should have formed it.[9] That translates to the weight the Judge will give to such evidence expressed as an opinion.
+[29] Accordingly, I confirm my ruling. I am satisfied that the objection was not particularly well thought-out whether made, “for the record” or otherwise. I do not mean by this to discourage objections “for the record”. Consideration, however, needs to be given to the circumstances of each case. Where it is sufficient to argue whether any weight should be given to opinion evidence (particularly where the presiding Judge directs counsel to raise that issue in argument and counsel still has the opportunity to cross-examine the witness to elicit testimony pertaining to the weight to be given to that evidence), no objection “for the record” should be required. That is, a failure to make such an objection would not prohibit an argument on weight or relevance. It is a separate question as to whether in any given case such an argument should be made. In the case at bar, that argument might approach being ludicrous. An estimate of a few hundred dollars of expenditure to wallboard removal is neither space science nor a distraction which would prevent a Judge from making a reasonable allocation of the cost in question. Counsel’s persistent objection which took umbrage with such estimate being made, was, in my view, in this case, a display of inappropriate showmanship.[10]
+[30] This is all the more the case given that this is an appeal under the Informal Procedure. Subsection 18.15(3) of the Tax Court of Canada Act provides that this Court, in appeals under such procedure, is not bound by any legal or technical rules of evidence. Ignoring this statutory prescription contributes considerably to the difficulties inherent in the adversarial approach to informal tax appeals of self-represented persons. Indeed, counsel for the Department of Justice who ignore this statutory prescription, in circumstances such as those in this appeal, need to re-think their role.
+[31] The role of a Justice lawyer is not to win every appeal.[11] The role of a Justice lawyer is not to prosecute his client’s case in a zealous manner. The role of a Justice lawyer, particularly in a self-represented Appellant case and, again, particularly in an Informal Procedure matter, is to assist Judges in determining the correctness of an assessment.
+[32] In any event, it is my view that it is reasonable in the case at bar to make an allocation of the expenses incurred for what I would refer to as the inspection portion of the expenditure incurred by the Appellant. While I give no particular deference to the Appellant’s estimate, I find that an estimate of $300 is not an unreasonable allocation. It is the amount that I will allow as a moving expense deductible by the Appellant. In my view, the inspection of a mold problem is an expense of the type contemplated in subsection 62(3). It is not, in the context of that subsection, the kind of enduring expenditure that might be considered to be an improvement or value maintaining expenditure. While I find that in the circumstances of this case it was a necessary expense, I note that the subject provision makes no reference to an expense being necessary. An expense reasonably incurred and directly related to putting a home up for sale is clearly a cost of selling and is a moving expense within the meaning of those words as used in subsection 62(3). I agree with the Appellant that he incurred such an expense. It was not unreasonable for him, as a vendor who is about to put his home on the market, to identify the scope of a mold problem that might seriously impact on the sale of that home. I am satisfied that a portion of his expenditure ($300) was a cost directly related to identifying that very problem. To that extent it is deductible under the subject provision as claimed.
+[33] Accordingly, the appeal is allowed to the extent of $300, without costs.
+Signed at Ottawa, Canada, this 30th day of April, 2008.
+“J.E. Hershfield”
+Hershfield J.
+CITATION: 2008TCC241
+COURT FILE NO.: 2007-3531(IT)I
+STYLE OF CAUSE: BERNARD FAIBISH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: April 30, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 83 DTC 278.
+[2] 78 DTC 6551.
+[3] 86 DTC 1477.
+[4] In R. v. Mohan, [1994] 2 S.C.R. 9, at paragraph 17 (QL), the Supreme Court of Canada required the application of four criteria for the admissibility of expert evidence: (a) relevance, (b) necessity in assisting the trier of fact, (c) the absence of any exclusionary rule, and (d) a properly qualified expert.
+[5] See Sopinka, Lederman & Bryant, The Law of Evidence in Canada, 2nd ed. (Toronto: Butterworths Canada, 1999) at §2.88 noting a Court’s right to receive evidence of questionable admissibility subject to a right to reject that evidence when arriving at a decision.
+[6] (1861) 1 B&S 763 at 767.
+[7] [1982] 2 S.C.R. 819 at 839-40.
+[8] Graat at page 837 relays much if not all of that common sense principle.
+[9] In citing from Paciocco and Struesser, The Law of Evidence (Concord: Irwin, 1996), Sopinka, supra note 5 makes the following helpful summary statement at §12.11: “Courts now have greater freedom to receive lay witnesses’ opinions if: (1) the witness has personal knowledge; (2) the witness is in a better position than the trier of fact to form the opinion; (3) the witness has the necessary experiential capacity to make the conclusion; and (4) the opinion is a compendious mode of speaking and the witness could not as accurately, adequately and with reasonable facility describe the facts she or he is testifying about.”
+[10] It is not the act of making an objection, misguided or not, that warrants a “showmanship” label. It is the manner of making it and the circumstances surrounding it. Even objections made for the record to preserve the right to appeal must be tempered with practical, common sense considerations. Otherwise a petty objection, aggressively made and defiantly pursued, might inevitably be seen as grandstanding.
+[11] See Justice Woods’ comments in Rainforth v.The Queen 2007 TCC 132 at paragraphs 61 and 62.

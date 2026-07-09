@@ -1,0 +1,108 @@
+Title: Arnoldi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22438/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-511-22438-arnoldi-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-15
+
+# Arnoldi v. The Queen
+
+- Citation: 2006 CCI 511
+- Decision date: 2006-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2229, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arnoldi v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-15
+Référence neutre
+2006 CCI 511
+Numéro de dossier
+2004-3554(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3554(IT)I
+ENTRE :
+JOHN ARNOLDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 29 août 2006, et jugement rendu oralement
+le 30 août 2006, à Toronto (Ontario)
+Par : L'honorable juge A.A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jocelyn Espejo Clarke
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard des années d'imposition 1995, 1996 et 1997 sont rejetés.
+Avec le consentement de l'intimée, les appels à l'encontre des nouvelles cotisations établies en application de la Loi à l'égard des années d'imposition 1998 et 1999 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que l'appelant a le droit de déduire, au titre de dépenses pour créances irrécouvrables, le montant de 516 $ dans le calcul de son revenu pour 1998, et de 2 580 $ dans le calcul de son revenu pour 1999, en ce qui a trait au bien situé sur le chemin Lola.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2006.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 20e jour de novembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI511
+Date : 20060915
+Dossier : 2004-3554(IT)I
+ENTRE :
+JOHN ARNOLDI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Sarchuk
+[1] Les présents appels sont interjetés par John Arnoldi et concernent les cotisations établies à l'égard de ses années d'imposition 1995, 1996, 1997, 1998 et 1999. L'appelant a omis de produire ses déclarations de revenus, comme le prescrit le paragraphe 150(1) de la Loi de l'impôt sur le revenu (la « Loi » ), pour toutes ces années, à l'exception de l'année 1998. Sa déclaration de revenus pour l'année 1998 a été produite le 30 avril 1999. Le ministre du Revenu national (le « ministre » ) a établi les cotisations initiales à l'égard des années d'imposition 1995 et 1996 en juillet 1999, et à l'égard de l'année 1998, le 10 juin 1999.
+[2] Le 14 juillet 2000, l'appelant a produit ses déclarations de revenus pour les années d'imposition 1995, 1996, 1997 et 1999, ainsi qu'une déclaration modifiée pour l'année 1998. Il y a déclaré des pertes locatives et des pertes d'entreprise s'élevant à 7 442 $ pour 1995, à 16 360 $ pour 1996, à 16 695 $ pour 1997, à 18 618 $ pour 1999, et à 20 884 $ pour 1998.
+[3] Il s'en est suivi une série de cotisations et de nouvelles cotisations. La dernière d'entre elles est datée du 1er octobre 2001 et indique le rejet de la déduction, telle que demandée, des montants relatifs aux pertes locatives. L'appelant s'y est opposé. Dans des nouvelles cotisations établies par la suite le 13 juin 2003 à l'égard des années d'imposition 1995, 1996, 1997, 1998 et 1999 de l'appelant, le ministre a inclus des montants supplémentaires dans le revenu de l'appelant et a admis certaines dépenses. Les montants de 3 150 $, de 2 752 $ et de 12 764 $ ont donc été inclus au titre de revenus nets tirés d'un bien pour les années 1996, 1997 et 1999, respectivement. Également, les montants de 4 838 $ et de 5 179 $ ont été admis au titre de pertes nettes relatives à un bien pour les années d'imposition 1995 et 1998, respectivement. Les présents appels font suite à ces nouvelles cotisations.
+[4] Pendant les années en litige, l'appelant était propriétaire de quatre biens de location pour lesquels il a omis de déclarer tous les revenus. La question est de savoir si le ministre a correctement calculé les revenus et les pertes de l'appelant en ce qui a trait à ses activités de location.
+[5] À l'audience, l'appelant n'était pas représenté par un avocat. Ses observations traduisaient son désaccord concernant quatre éléments des cotisations. Tout d'abord, il prétend avoir droit à une déduction pour amortissement à l'égard de ses biens de location pour les années 1995, 1996 et 1997. Ensuite, il soutient que la déduction de certains frais bancaires liés à ses activités de location n'aurait pas dû être rejetée. De plus, il fait valoir que les revenus de location tirés de son bien situé au 933, chemin Mount Pleasant, ne s'élevaient pas à 1 800 $, comme il est indiqué dans la cotisation, mais plutôt à 790 $. Finalement, il affirme ne pas avoir tiré de revenus de location de son bien décrit comme étant situé au 33, chemin Lola.
+[6] Je propose d'examiner d'abord la demande de déduction pour amortissement. Les éléments de preuve présentés au nom de l'intimée indiquent que les revenus de location déclarés comprenaient des revenus d'une deuxième source, soit un magasin et une entreprise de livraison de journaux. Les éléments de preuve ne permettent pas d'établir clairement quelle était la nature du magasin en question ou de savoir si la livraison de journaux faisait partie des activités du magasin. La présence de cette deuxième source de revenus est digne d'intérêt quant à l'éventuelle déduction pour amortissement à laquelle l'appelant aurait droit, étant donné que de tels revenus, c'est-à-dire les revenus tirés du magasin et de l'entreprise de livraison de journaux, doivent être déclarés séparément des revenus et des dépenses de location afin de permettre un calcul adéquat du montant de la déduction pour amortissement, si, bien sûr, elle s'applique. En l'espèce, l'appelant n'a fourni aucune information, que ce soit à l'écrit ou à l'oral, pour appuyer sa position.
+[7] À défaut d'obtenir les informations nécessaires, comme l'a souligné le témoin de l'intimée, M. Scott, il est de toute évidence impossible d'établir le montant de la déduction pour amortissement que l'appelant aurait le droit de demander. Le point de vue de l'intimée rend aussi compte du fait que deux des années en litige sont des années où l'appelant a subi des pertes et pour lesquelles la déduction pour amortissement n'est pas applicable de toute façon. Donc, en ce qui a trait à la déduction pour amortissement, l'appel est rejeté.
+[8] J'examine ensuite la question des frais bancaires. Dans son témoignage, l'appelant a mentionné des frais engagés pour chacune des années d'imposition comme suit : 570,28 $ en 1995, 848 $ en 1996, 1 003 $ en 1997, 864 $ en 1998, et 807 $ en 1999. Il soutient qu'il s'agit de dépenses qui pouvaient être déduites à l'égard de son entreprise de location. Il fait également valoir que les documents requis ont été envoyés au bureau de Sudbury de l'Agence du revenu du Canada. Personne ne conteste ce fait. Cependant, l'appelant n'a présenté aucun de ces documents à la Cour et a tenu à préciser que c'était au ministre de le faire, étant donné qu'il avait pris connaissance des documents et qu'il aurait dû en tenir compte.
+[9] Seulement, ce n'est pas le cas. Il incombe toujours à l'appelant de fournir tous les éléments, y compris les documents, nécessaires pour établir le bien-fondé de sa cause à la Cour. Aucun élément de preuve n'indiquait que les frais bancaires avaient été engagés, mais là n'est pas la question. L'absence d'éléments de preuve selon lesquels ces frais se rapportent, intégralement ou en partie, aux activités locatives de l'appelant n'a pas été prouvée. Par conséquent, comme l'appelant n'a pas présenté de preuve écrite ou orale concernant la nature et la pertinence de ces frais, il est impossible d'admettre leur déduction.
+[10] Quant à la demande concernant les revenus de location tirés du bien situé sur le chemin Mount Pleasant, l'appelant n'a pas présenté de preuve pour appuyer sa position. Par conséquent, il est impossible d'accorder une réduction de la cotisation à cet égard.
+[11] La dernière question en litige concerne la prétention de l'appelant voulant que les montants de 516 $ et de 2 580 $ déclarés pour les années 1998 et 1999, respectivement, qui constitueraient des revenus de location tirés du bien situé au 33, chemin Lola, n'ont en fait jamais été reçus par l'appelant et ont été déduits au titre de créances irrécouvrables. L'intimée a concédé que l'appelant avait raison sur ce point. Les montants seront donc admis et les cotisations seront modifiées en conséquence.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2006.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 20e jour de novembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI511
+N ° DU DOSSIER : 2004-3554(IT)I
+INTITULÉ : JOHN ARNOLDI ET
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 29 août 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge A.A. Sarchuk
+DATE DU JUGEMENT : Le 15 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jocelyn Espejo Clarke
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : S.O.
+Cabinet : S.O.
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

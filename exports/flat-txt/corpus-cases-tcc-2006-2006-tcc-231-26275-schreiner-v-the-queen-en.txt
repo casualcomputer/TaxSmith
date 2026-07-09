@@ -1,0 +1,186 @@
+Title: Schreiner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26275/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-231-26275-schreiner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-13
+
+# Schreiner v. The Queen
+
+- Citation: 2006 TCC 231
+- Decision date: 2006-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4006, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schreiner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-13
+Neutral citation
+2006 TCC 231
+File numbers
+2005-55(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-55(IT)I
+BETWEEN:
+ERIC SCHREINER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 14, 2005 at Saskatoon, Saskatchewan
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+James Schemenauer
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 13th day of April 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC231
+Date: 20060413
+Docket: 2005-55(IT)I
+BETWEEN:
+ERIC SCHREINER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant and Nadine Schreiner ("Nadine") were married on September 30, 1983.
+[2] The Appellant and Nadine went through several separations and reconciliations and they separated on a permanent basis in 1998. The Appellant and Nadine were divorced in June 2000.
+[3] The Appellant and Nadine have one child, Jessica, born on June 1, 1988.
+[4] Nadine filed a Petition with the Court of Queen's Bench of Saskatchewan (Family Law Division). On August 22, 2001 Mr. Justice F.G.W. Dickson of the Court issued an Order which provided as follows:
+1. There shall be no custody order made regarding Jessica Schreiner, born June 1st, 1988. She will reside with her father, and will spend significant and meaningful amounts of time with her mother. Without limiting the generality of the foregoing, the parties agree and acknowledge that:
+(a) Jessica will spend every second weekend with her mother, extended where it is a long weekend.
+(b) Jessica will spend Tuesday and Wednesday evenings and overnights with her mother, and such other time as she wishes. Transition time is after school.
+(c) Summer and school-year vacations to be divided as agreed, equitably (roughly equally) bearing in mind Jessica's maturity and wishes.
+(d) Jessica shall have maximum contact with each parent, and shall spend roughly 40% - 60% of her time with each.
+(e) June time shall be as on Schedule "A"; the regular schedule shall continue except as noted thereon.
+(Exhibit A-2)
+[5] In computing his tax liability for the 2002 taxation year, the Appellant claimed the amount of $6,482.00 on the basis that Jessica was a wholly dependent person.
+[6] The Minister of National Revenue (the "Minister") reassessed the Appellant for the 2002 taxation year to disallow the claim of $6,482.00 that he made for Jessica since both the Appellant and Nadine had made a similar claim for Jessica.
+B. ISSUE TO BE DECIDED
+[7] Whether the Appellant was entitled to a dependent credit of $6,482.00 under paragraph 118(1)(b) of the Act in connection with Jessica in determining his income for the 2002 taxation year.
+C. ANALYSIS AND DECISION
+[8] Paragraph 118(1)(b) reads as follows:
+118. (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A X B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+. . .
+(b) Wholly dependent person − in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $7,131, and
+(iv) the amount determined by the formula
+$6,055 − (D − $606)
+where
+D is the greater of $606 and the dependent person's income for the year.
+[9] Paragraph 118(1)(b) permits an individual taxpayer who does not claim the married amount under paragraph 118(1)(a) to claim an equivalent amount for a dependent if certain conditions exist.
+[10] Paragraph 118(4)(c) provides that only one equivalent-to-married amount can be claimed for a dependent. In this situation both the Appellant and his wife Nadine claimed the equivalent-to-spouse claim with respect to Jessica for the 2002 taxation year.
+[11] Paragraph 118(1)(b) provides that to qualify for an amount an individual who is making the claim must not have been married or in a common-law partnership.
+[12] In this situation the Appellant maintains that he is entitled to the credit because he meets all of the requirements of paragraph 118(1)(b) but that his wife Nadine does not meet the requirements of paragraph 118(1)(b) since she has been living in a common-law relationship with Dave Taylor since 1999.
+[13] In support of this point the agent for the Appellant referred me to the following evidence:
+(1) Testimony of Eugene Schreiner (father of Eric Schreiner)
+This witness testified to having seen Nadine Schreiner with Dave Taylor, at various events and in different places around town. (Transcript, Eric Schreiner v. The Queen, p. 10, ll. 3-8.)
+(2) A Custody Report was prepared by Bonnie Clements, a Social Worker. (Exhibit A-1) At page 4 of the Report the following comments are found:
+Nadine began a common-law relationship with Dave Taylor in November, 1999. Dave is employed by the City of Saskatoon.
+...
+Nadine plans to continue living in and renovating her residence with Dave Taylor.
+(3) A Pre-Trial Brief was prepared for Nadine Schreiner by her lawyers, Hnatyshyn Singer Thorstad and filed with the Court of Queen's Bench of Saskatchewan (Family Division) in April 2000. (Exhibit A-3) At paragraph 10 of this Brief the following comment is found:
+10. One further change has occurred. Since late fall of 1999, the Petitioner has become involved in a relationship with another man. This individual is very stable, and the relationship beneficial. Jessica is able to see, firsthand, that a loving, gentle and caring relationship can exist between two parties.
+(4) The obituary of Olga Chorney (Nadine's mother) was filed. (Exhibit A-4) The obituary indicates that Olga Chorney had the following children: "Dennis (Deb), Kathy (Ross), Bob (Cher), Wes (Juanita), Nadine (Dave)". (Underlining added.)
+(5) Re-examination of Eric Schreiner
+The Appellant stated that to his knowledge Nadine and Dave shared a car from December 2001 through 2002, and that Dave and Nadine were seen together regularly in town. (Transcript, Eric Schreiner v. The Queen, p. 42, ll. 6-7.)
+(6) Question from the Bench
+Have Nadine and Dave moved since Dave initially moved in?
+Yes, and Eric saw Dave building a fence at Dave and Nadine's common residence as well. (Transcript, Eric Schreiner v. The Queen, p. 45, ll. 1-4.)
+(7) Testimony of Dawn McBride: Examination-in-Chief
+(Note: Dawn McBride was Eric Schreiner's lawyer during several family law court applications.)
+Throughout the Court process, and application since, there was never any question that Nadine Schreiner was in a common-law relationship with Dave Taylor. We conducted ourselves, and I guess I speak for myself, on the assumption that that was an on-going thing ...
+(Transcript, Eric Schreiner v. The Queen, p. 50, ll. 15-21.)
+Dawn McBride also said:
+That was always the presumption that there was a common-law relationship. It was never disputed and it was never suggested that it was other than that. (Transcript, Eric Schreiner v. The Queen, transcript p. 50, l. 25 and p. 51, ll. 1-4.)
+(8) Testimony of Jim Barsaloux: Examination-in-Chief
+Jim Barsaloux testified that he knew the Schreiners well, and that Nadine had introduced Dave to him, describing him as her "new man". (Transcript, Eric Schreiner v. The Queen, p. 64, ll. 14-15.)
+(9) Testimony of Jim Barsaloux
+Jim Barsaloux said:
+... I saw Jessica on a regular basis. And in those many meetings she referred to her mother's boyfriend Dave several times. (Transcript, Eric Schreiner v. The Queen, p. 65, ll. 3-5.)
+[14] From the evidence that was presented in Court I have concluded that Nadine was in a common-law relationship with Dave Taylor for the relevant years. In reaching this conclusion I have noted that although Nadine denies that Dave Taylor is her common-law spouse, he continues to live with her after moving a number of times and she and Dave are partners in a "rent to own housing" scheme. Based on the evidence that was presented to me I have concluded that Nadine was not entitled to claim the credit under paragraph 118(1)(b) of the Act since she was living in a common-law relationship with Dave Taylor at the relevant time.
+[15] In reaching the conclusion re a common law relationship I have referred to the decision of the Supreme Court of Canada in The Attorney General for Ontario v. M. and H., et al., [1999] 2 S.C.R. 3 where the Court said at page 50:
+Molodowich v. Penttinen (1980), 17 R.F.L. (2d) 376 (Ont. Dist. Ct.), sets out the generally accepted characteristics of a conjugal relationship. They include shared shelter, sexual and personal behaviour, services, social activities, economic support and children, as well as the societal perception of the couple. However, it was recognized that these elements may be present in varying degrees and not all are necessary for the relationship to be found to be conjugal. ...
+Certainly an opposite-sex couple may, after many years together, be considered to be in a conjugal relationship although they have neither children nor sexual relations. Obviously the weight to be accorded the various elements or factors to be considered in determining whether an opposite-sex couple is in a conjugal relationship will vary widely and almost infinitely. ... Courts have wisely determined that the approach to determining whether a relationship is conjugal must be flexible. This must be so, for the relationships of all couples will vary widely. ...
+[16] I must now determine whether the Appellant qualifies for the dependent credit.
+[17] In reviewing paragraph 118(1)(b) of the Act it will be noted that the following additional points must be established:
+1. The claimant must provide for the dependent "at any time in the year", within a "self-contained domestic establishment";
+2. The dependent must be resident in Canada, unless that dependent is a child of the taxpayer;
+3. The dependent must be wholly dependent for support on the taxpayer;
+4. The dependent must be related to the taxpayer; and
+5. The dependent must be either a parent, grandparent, child under 18, or dependent by reason of mental or physical infirmity.
+[18] In this situation Eric maintained a "self-contained domestic establishment" for the purposes of the provision. Jessica is Eric's child, since paternity has not been effectively challenged, and she was, at the relevant times, under 18 years of age.
+[19] The phrase "wholly dependent for support" has been considered by the Court. In Isaac v. R., 95 DTC 859 the Tax Court said that the phrase "at any time in the year" could mean intermittent periods in the year. It therefore follows that if a person was wholly dependent at any point in the year this threshold would be met.
+[20] During the hearing the Appellant stated that he had commenced a court action in the Queen's Bench Division of Saskatchewan for a declaration that he is not the father of Jessica. On June 29, 2005 the Court held that the proceedings were insufficiently constituted for the purpose of requesting the denied relief and the application was dismissed. The Appellant stated that he has filed an appeal to the Saskatchewan Court of Appeal.
+[21] I have reviewed the relevant law on this point and I note that there is a presumption of paternity in Saskatchewan's family law. According to section 45 of the Children's Law Act, 1997, c. C-8.2:
+45(1) Unless the contrary is proven on a balance of probabilities, there is a presumption that a man is, and that a man is to be recognized in law to be, the father of a child in any one of the following circumstances:
+(a) at the time of the child's birth or conception the man was cohabiting with the mother, whether or not they were married to each other;
+[22] It is my understanding that Eric and Nadine cohabited at the time of Jessica's birth. Therefore the presumption is in favour of Eric's paternity, and this presumption has not been rebutted.
+[23] I have concluded that the Appellant is entitled to claim the dependent credit of $6,482.00 in determining his income for the 2002 taxation year.
+[24] The appeal is allowed, with costs.
+Signed at Vancouver, British Columbia, this 13th day of April 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC231
+COURT FILE NO.:
+2005-55(IT)I
+STYLE OF CAUSE:
+Eric Schreiner and
+Her Majesty the Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+October 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+April 13, 2006
+APPEARANCES:
+Counsel for the Appellant:
+James R. Schemenauer
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James R. Schemenauer
+Firm:
+Priel Stevenson Hood & Thornton
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

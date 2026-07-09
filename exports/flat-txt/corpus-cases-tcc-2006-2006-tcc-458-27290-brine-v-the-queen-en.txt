@@ -1,0 +1,114 @@
+Title: Brine v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27290/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-458-27290-brine-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-08-14
+
+# Brine v. The Queen
+
+- Citation: 2006 TCC 458
+- Decision date: 2006-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 897, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-14
+Neutral citation
+2006 TCC 458
+File numbers
+2006-242(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-242(IT)I
+BETWEEN:
+BRUCE B. BRINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 31, 2006, at Halifax, Nova Scotia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Barry J. Mason
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2003 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $8,982.80 is not to be included in the Appellant's income.
+Signed at Ottawa, Canada, this 14th day of August 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC458
+Date: 2006080814
+Docket: 2006-242(IT)I
+BETWEEN:
+BRUCE B. BRINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This is an appeal from a decision of the Minister of National Revenue under paragraph 6(1)(f) of the Income Tax Act, in which the Appellant was reassessed for the amount of $8,982.80 which he failed to include in his income in the 2003 taxation year.
+[2] The Appellant was employed by Canada Ports Corporation (“CPC”). While employed, he participated in the Public Service Management Insurance Plan (PSMIP) which provided, amongst other things, insurance coverage for wage loss replacement through The National Life of Canada Group Accounting (“National Life”).
+[3] In 2003, the Appellant received the amount of $8,982.80 from National Life as wage loss insurance. The Minister included that amount in the Appellant’s income for the year, based on paragraph 6(1)(f) of the Act, which reads:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income form an office or employment such of the following amounts as are applicable:
+(a) …
+(f) the total of all amounts received by the taxpayer in the year that were payable to the taxpayer on a periodic basis in respect of the loss of all or any part of the taxpayer's income from an office or employment, pursuant to
+(i) a sickness or accident insurance plan,
+(ii) a disability insurance plan, or
+(iii) an income maintenance insurance plan
+to or under which the taxpayer's employer has made a contribution, not exceeding the amount, if any, by which
+(iv) the total of all such amounts received by the taxpayer pursuant to the plan before the end of the year and
+(A) where there was a preceding taxation year ending after 1971 in which any such amount was, by virtue of this paragraph, included in computing the taxpayer's income, after the last such year, and
+(B) in any other case, after 1971,
+exceeds
+(v) the total of the contributions made by the taxpayer under the plan before the end of the year and
+(A) where there was a preceding taxation year described in clause (iv)(A), after the last such year, and
+(B) in any other case, after 1967;
+[4] The Appellant argues that the amount should not be included in his income as he paid the insurance premiums as part of an employee pay-all plan which is not a plan within the meaning of paragraph 6(1)(f). This position is based on paragraphs 16 and 17 of Interpretation Bulletin IT-428 issued by Revenue Canada. Those paragraphs read:
+Employee-Pay-All Plans
+16. An employee-pay-all plan is a plan the entire premium cost of which is paid by one or more employees. Except as indicated under 21 below, benefits out of such a plan are not taxable even if they are paid in consequence of an event occurring after 1973, because an employee-pay-all plan is not a plan within the meaning of paragraph 6(1)(f)
+17. It is a question of fact whether or not an employee-pay-all plan exists and the onus is generally on the employer to prove the existence of such a plan. It should be emphasized that the Department will not accept a retroactive change to the tax status of a plan. For example, an employer cannot change the tax status of a plan by adding at year end to employees' income the employer contributions to a wage loss replacement plan that would normally be considered to be non-taxable benefits. On the other hand, where an employee-pay-all plan does, in fact, exist and it provides for the employer to pay the employee's premiums to the plan and to account for them in the manner of wages or salary, the result is as though the premiums had been withheld from the employee's wages or salary. That is, the plan maintains its status as an employee-pay-all plan if the plan provided for such an arrangement at the time the payment was made.
+[5] Counsel for the Respondent objected to any reliance on this interpretation bulletin arguing that this Court is not bound by such extrinsic aids. Additionally, this particular bulletin is quite dated having been published in 1979. I find both arguments to be of little consequence. Extrinsic aids such as interpretation bulletins are not binding but where they have not been explicitly disregarded by jurisprudence they can be helpful, as IT-428 is in this appeal. Accordingly, in order to find for the Appellant, it would have to be determined that he contributed towards his insurance premiums through an employee pay-all plan and that his employer, CPC, did not contribute anything towards the insurance premiums.
+[6] Counsel for the Appellant presented several documents including the National Life Assurance Plan, and the Appellant’s PSMIP form 4.9.9 which outlined the method of payments for the insurance premiums, and the Appellant’s contract which stipulated the paying arrangement that would be implemented towards premium insurance contributions. All three documents indicated the same thing, namely, that CPC would deduct from the employee’s salary the appropriate premium contributions. In addition, the Appellant’s contract clearly states that those amounts would then be reimbursed in full to the Appellant.
+[7] The reimbursed amount appeared on the Appellant’s T4 listed as either a taxable benefit or taxable allowance. I am satisfied that the amount listed is in lieu of the premiums that were deducted from his employment and are now being reimbursed. In Landry v. R., [1998] 2 C.T.C. 2712, Bowman J. acknowledged that premiums taken by the employer from the employee’s salary were reimbursed to the employee and listed as taxable benefits. Bowman J. was contending with a lump sum as opposed to periodic payments as in this appeal, and paragraph 6(1)(f) was specifically not raised by the Crown. Nonetheless, in delivering alternative reasons for allowing Mrs. Landry’s appeal, which I accept and apply to the present case, Justice Bowman said at paragraph 11:
+There is a further reason for not including the lump sum in Mrs. Landry's income. The employer, it is true, paid the premiums in the first instance but they were included in Mrs. Landry's income as a taxable benefit. In essence and in substance, the payments were being made on her behalf by the employer. It would be a wholly unacceptable result if she were to be taxed again when the benefits are paid. What she received from London Life was received qua insured, not qua employee. The benefit, which was taxed, lay in the employer's provision of insurance coverage, not in the benefits paid by the insurer.
+[8] Counsel for the Respondent presented another PSMIP document which outlined the rates at which the employee and employer were to contribute towards long-term disability insurance premiums. The chart within that document illustrated the amount CPC would have to contribute at the rate of $0.17525 for every $250. However, counsel for the Appellant clarified that this was the policy in place for all non-executive class employees (Exhibit A-3). The arrangement with executive class employees was that they would be the sole contributors to their insurance premiums. I am satisfied that the Appellant fell into the category of an executive class employee. Consequently, I find that CPC was not contributing towards the Appellant’s National Life insurance premiums as this was an employee pay-all plan as described by IT-428. The documents presented by the Appellant evidence that CPC was merely removing the designated amount from the Appellant’s income, forwarding that amount to National Life and then reimbursing the Appellant.
+[9] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to delete the sum of $8,982.80 from the Appellant's income for 2003.
+Signed at Ottawa, Canada, this 14th day of August 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC458
+COURT FILE NO.: 2006-242(IT)I
+STYLE OF CAUSE: BRUCE B. BRINE AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 31, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: August 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Barry J. Mason
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Barry J. Mason
+Firm: Presse, Mason
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

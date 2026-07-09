@@ -1,0 +1,152 @@
+---
+title: "Reale v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26802/index.do"
+last_modified: "2004-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 41"
+citation2: ""
+neutral_citation: "2004 CCI 41"
+decision_date: "2004-01-12"
+language: "fr"
+item_id: "26802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3482
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:08:16.313000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6ddf6566ae935414e975913940292c19c652ef26675e8c0949b3c6cbb469ded"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reale v. The Queen
+
+- Citation: 2004 CCI 41
+- Decision date: 2004-01-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3482, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reale v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-12
+Référence neutre
+2004 CCI 41
+Numéro de dossier
+2001-759(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Date : 20040112
+Dossier : 2001-759(IT)G
+ENTRE :
+ANTHONY REALE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 juillet et le 31 octobre 2003 à Toronto (Ontario)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Lesley King et
+Me Jocelyn Espejo Clarke
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Nancy Bouchard, traductrice
+Référence : 2004CCI41
+Date : 20040112
+Dossier : 2001-759(IT)G
+ENTRE :
+ANTHONY REALE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Dans l'appel interjeté par Anthony Reale à l'encontre de la cotisation fiscale établie pour 1995, dans laquelle le ministre du Revenu national a refusé une perte d'entreprise découlant de la disposition d'une propriété située en Floride, les questions en litige sont les suivantes :
+a) à savoir si l'appelant et son épouse ont exploité une entreprise en société de personnes pour l'acquisition d'une propriété à Boco Raton, en Floride, propriété qu'ils ont vendue en mai 1994;
+b) advenant l'existence de la société de personnes, à savoir si cette société de personnes a subi une perte d'entreprise lors de la disposition de la propriété en Floride;
+c) à savoir si l'appelant a droit, pour 1995, à la déduction de la perte, le cas échéant, dans le calcul du revenu de la prétendue société de personnes formée par lui et son épouse.
+[2] M. Reale n'était pas représenté par un avocat.
+[3] Avant 1992, M. Reale était le principal actionnaire et l'exploitant de Dominion Builders Inc., une entreprise de construction exerçant des activités commerciales à Toronto. Vers la fin des années 80 et le début des années 90, le marché torontois de la construction était en baisse, selon M. Reale, et celui-ci [traduction] « envisageait la possibilité de travailler aux États-Unis, comme au Canada » .
+[4] Les parents de Mme Reale habitaient en Floride pendant environ six mois de l'année. Lors d'une visite chez ses beaux-parents en Floride en 1989, M. Reale et son épouse ont décidé d'acheter une « vieille propriété » à Boca Raton, en Floride ( « propriété de Floride » ). Cette propriété comprenait une demeure de trois chambres à coucher et une piscine. Elle était située sur la voie navigable intercôtière, à une vingtaine de minutes en voiture du domicile des beaux-parents de M. Reale. Pour financer l'achat de la propriété de Floride, les Reale ont hypothéqué leur maison à Toronto, en empruntant 250 000 $ auprès de la Banque Royale du Canada, et ont [traduction] « réuni autant de capitaux que possible » . Ils ont enregistré « Dominion Builders » comme nom commercial en Floride.
+[5] Le 15 décembre 1989 ou vers cette date, les Reale ont fait l'acquisition de la propriété de Floride pour 350 000 $US. M. Reale a répété que leur intention était de rénover la propriété et de la revendre à profit. En 1999, M. et Mme Reale ont démoli la totalité de la résidence située sur la propriété, à l'exception d'un mur, et ont amorcé de vastes travaux de construction qui équivalaient essentiellement à construire un nouvel immeuble d'habitation. M. Reale a déclaré que la propriété était prête à être occupée et vendue dès 1991, même si les rénovations n'ont pas été entièrement achevées avant la vente de la propriété, le 17 mai 1994, pour la somme de 700 000 $US (959 000 $CAN). La résidence est restée inoccupée en tout temps jusqu'à sa vente.
+[6] M. Reale a déclaré que ni lui ni Mme Reale n'avaient habité la propriété. Pendant la construction, lorsqu'il se trouvait en Floride, M. Reale dormait dans un sac de couchage ou chez les parents de Mme Reale. Lorsque Mme Reale et ses enfants allaient en Floride, ils séjournaient chez les parents de Mme Reale. Les enfants étaient étudiants à l'université à cette époque. M. Reale a insisté sur le fait que Mme Reale était allée en Floride [traduction] « à maintes reprises pour surveiller les rénovations mais qu'elle descendait toujours chez ses parents » .
+[7] Pendant la construction, M. et Mme Reale ont [traduction] « mis » dans la propriété de 500 000 $ à 600 000 $ de leur « propre argent » . À la suite du non-paiement de l'hypothèque sur leur maison à la Banque Royale du Canada, la maison de Toronto a été vendue pour 450 000 $.
+[8] M. Reale a témoigné qu'il avait mis la propriété de Floride en vente. Il n'a pas pu présenter de copies des conventions d'inscription parce que selon lui, le courtier en immeubles avait fermé ses portes et l'un des agents était décédé. Il a affirmé que trois agents différents tentaient de vendre la maison.
+[9] Dominion Builders Inc. construisait des bâtiments commerciaux depuis 1983 et ne possédait aucune expérience dans la construction résidentielle. Mme Reale n'avait aucune formation en construction mais s'occupait de la comptabilité et de l'administration de la société. Différentes pièces commerciales étaient tenues pour Dominion Builders Inc.
+[10] M. Reale conservait les reçus des fournisseurs de matériaux de construction pour la propriété de Floride. Ces reçus ont été présentés au procès. Toutes les factures ont été produites en 1990. Certaines font référence à la [traduction] « résidence Reale » . M. Reale a répondu que dans le secteur de la construction, les entrepreneurs, les architectes et les ingénieurs parlent de résidence personnelle même si ce n'en est pas une. Selon lui, [traduction] « cela ne signifie pas que la maison a été construite pour nous » . En ce qui concerne la référence à Dominion Builders, selon M. Reale, c'était le nom qu'il avait enregistré pour exercer l'activité commerciale.
+[11] Lors du contre-interrogatoire, M. Reale a demandé ceci : [traduction] « Pourquoi construirais-je une maison de 350 000 $ en Floride » alors que les affaires sont « mauvaises » à Toronto?
+[12] M. Reale a reconnu que les coûts de construction de la propriété de Floride étaient peut-être élevés. Selon son explication, il était [traduction] « souvent loin » de la Floride et ne contribuait pas « concrètement » au projet, ce qui a fait augmenter les dépenses. Il a déclaré qu'il avait construit la résidence sans songer à aucun client particulier. Il avait reçu des offres de rente avant mai 1994, mais elles étaient [traduction] « basses » .
+[13] Je ne trouve pas comme le ministre que M. et Mme Reale n'ont pas exploité une entreprise en société de personnes, quant à l'acquisition, à la rénovation et à la disposition de la propriété de Floride. Même s'il est vrai que M. Reale ne tenait pas de livres ni de dossiers comme on pourrait raisonnablement s'y attendre dans une telle entreprise, il a conservé beaucoup, sinon la totalité, des factures qui lui ont été envoyées pendant la construction de la résidence sur la propriété. J'accepte son témoignage voulant qu'il n'ait pas acheté la propriété en tant que résidence pour sa famille. Les sommes investies et la source des emprunts ne concordent pas avec l'acquisition d'une maison familiale, en particulier lorsque la principale source de revenu, Dominion Builders Inc., est en mauvaise posture.
+[14] M. Reale travaillait dans le secteur de la construction. Même s'il n'avait pas d'expérience antérieure dans la construction d'habitations, il en avait selon lui dans la négociation de marchés de construction. Il savait construire, il connaissait les caprices de l'industrie de construction, du moins à Toronto. Si lui et Mme Reale n'ont pas exploité d'entreprise dans le sens courant du terme, ils ont effectivement lancé un projet de nature commerciale, soit une « entreprise » aux fins de la Loi. En fait, si M. et Mme Reale avaient réalisé un bénéfice lors de la disposition de la propriété, je suis plutôt persuadé que l'ADRC aurait fait valoir son droit en tant qu'associé de M. et Mme Reale et imposé ce bénéfice à titre de revenu d'entreprise.
+[15] Je conclus aussi que M. et Mme Reale ont exploité l'entreprise en société de personnes. La propriété de Floride était enregistrée à leurs noms comme tenants communs. J'accepte le témoignage de M. Reale voulant que l'objet de l'entreprise ait été de réaliser un bénéfice.
+[16] Cependant, la question ne s'arrête pas là. Il reste à déterminer l'année de la disposition et ainsi, l'année où la perte est survenue.
+[17] Vers la fin du procès, en n'oubliant pas la date à laquelle la propriété a été vendue, le 17 mai 1994, et l'année en litige, 1995, j'ai interrogé M. Reale sur l'exercice de la société de personnes. Il n'a pas pu répondre. Je lui ai demandé de me fournir des renseignements sur la fin de l'exercice de la société en personnes et lorsqu'il a envoyé une explication, j'ai reconvoqué le procès pour permettre à M. Reale de clarifier son témoignage et à l'intimée, de contre-interroger. À la reprise du procès, Alex Dey, comptable de M. Reale, a porté témoignage au nom de l'appelant.
+[18] La déclaration de revenus de 1995 de M. Reale a été présentée. Cette déclaration est datée du 24 mars 1997, 11 mois après qu'elle aurait dû être produite. L'État des résultats des activités d'une entreprise, Construction de maisons, c'est-à-dire la construction en vue de la vente de la propriété de Floride, est un relevé visant la période du 1er mai 1994 au 30 avril 1995 qui fait partie de la déclaration de revenus. La vente de la propriété de Floride est indiquée dans cette déclaration, et une perte d'entreprise est déclarée.
+[19] Le 13 mai 1997, deux mois après la production de la déclaration de revenus de 1995, M. Reale a déposé une « Demande de rajustement d'un T1 » pour 1995, formulée ainsi :
+[traduction]
+Activité de construction constatée pendant la mauvaise année. Voir aussi T1-ADJ pour 1994. Demande reportée en avant à partir de 1994.
+L'État des résultats des activités d'une entreprise, Construction de maisons, de 1995 a été modifié pour que la période de déclaration de l'entreprise s'étende du 1er janvier 1995 au 31 décembre 1995. La Demande de rajustement est ainsi rédigée :
+[traduction]
+La fin d'exercice précédemment fixée par erreur au 30 avril 1995 aurait dû être fixée au 31 décembre 1994. Revenu d'entreprise correctement inclus dans l'année 1994 et maintenant exclu de 1995.
+La dernière année de l'entreprise est reconnue dans l'État des rajustements comme l'année 1994.
+[20] M. Dey a parlé des retards continuels de M. Reale dans la production de sa propre déclaration de revenus et de celle de sa société, les déclarations n'étant habituellement produites qu'après l'échéance imposée par l'administration fiscale. La déclaration de revenus personnelle de M. Reale pour 1994 a été produite à temps (elle semble d'ailleurs la seule à l'être), mais la vente de la propriété de Floride n'y est pas déclarée.
+[21] M. Dey n'entretenait alors aucun rapport avec M. Reale, à l'exception de deux appels téléphoniques par an, jusque vers la fin de 1996, lorsque M. Reale lui a remis les avis de demande exigeant la production de sa déclaration de revenus pour 1995. Apparemment, M. Reale aurait dit à M. Dey qu'il avait de l'impôt exigible pour 1991, 1992, 1993 et 1994, et qu'il souhaitait reporter en arrière la perte découlant de la disposition de la propriété de Floride. M. Dey a demandé de l'information à M. Reale, y compris des factures, des documents de vente, etc., au sujet de la propriété de Floride pour déterminer la perte. Il s'est rendu compte que Mme Reale [traduction] « était concernée par cette propriété » et croyait que M. et Mme Reale, qui figuraient comme « tenants communs » sur l'enregistrement de la propriété, étaient propriétaires de cette dernière à titre d'associés.
+[22] Selon M. Dey, lorsqu'il a pu étudier la vente de la propriété de Floride, le délai imparti pour faire opposition aux cotisations de 1994 était expiré. Par conséquent, de l'avis de M. Dey, la seule manière de déclarer la perte en 1994 consistait à déposer une Demande de rajustement. Cependant, M. Dey savait que les avis de rajustement pouvaient être refusés et, dans ce cas, qu'il n'aurait aucun recours : il n'y avait pas de livres ni de documents [traduction] « normaux » , tels que l'on pouvait s'attendre à en trouver dans une entreprise commerciale normale, et ce défaut pouvait entraîner le rejet de la demande.
+[23] À l'époque, les déclarations de revenus de M. et de Mme Reale pour 1995 n'avaient pas encore été produites. M. Dey a préparé et produit leurs déclarations de revenus pour 1995, en choisissant le 30 avril 1995 comme fin d'exercice de l'entreprise. À l'établissement de la cotisation, il pensait pouvoir faire opposition et tenter de convaincre l'administration fiscale d'inclure la perte de la propriété de Floride dans le calcul du revenu de 1994, en permettant le report rétrospectif des pertes jusqu'en 1991. S'il ne réussissait pas à convaincre l'administration fiscale, la perte demeurerait en 1995, mais ne pourrait pas être reportée en arrière jusqu'en 1991.
+[24] Les avis de cotisation pour 1995 étaient datés du 17 avril 1997. M. Reale a alors déposé la Demande de rajustement mentionnée plus haut pour convaincre l'Agence des douanes et du revenu du Canada ( « ADRC » ) de reconnaître le 31 décembre comme fin d'exercice pour 1995. Cela aurait pour effet de fixer au 31 décembre la fin de tous les exercices de la société de personnes. Ainsi, en 1994, l'exercice de la société de personnes aurait pris fin le 31 décembre et la disposition aurait alors eu lieu en 1994. Voilà quel était le plan de M. Dey.
+[25] L'ADRC a rejeté la Demande de rajustement. L'ADRC a également refusé la perte pour 1995, en partant du principe que l'appelant n'avait pas exploité d'entreprise en ce qui concerne la propriété de Floride, et que la propriété de Floride était un bien personnel.
+[26] Les avocats de l'intimée soutiennent que toute société de personnes formée par M. et Mme Reale concernant la propriété de Floride a été dissoute le 17 mai 1994, date de disposition de la propriété, et qu'aux fins de la Loi, la période comptable a pris fin immédiatement avant le 17 mai, c'est-à-dire le 16 mai 1994 : paragraphe 99(1)[1]. M. Reale ne semble pas avoir choisi en vertu du paragraphe 99(2) d'empêcher la cessation de l'exercice.
+[27] D'après les faits dont je suis saisi, il est clair qu'une fois la propriété de Floride vendue, l'entreprise de M. et Mme Reale visant à tirer un bénéfice de la construction ou de la rénovation de propriétés résidentielles (ou autres) en Floride a pris fin et que leur société de personnes a cessé d'exister. La société de personnes n'a acquis aucune autre propriété et n'a exercé aucune autre activité commerciale.
+[27] En Ontario, province de résidence des Reale, la dissolution des sociétés de personnes est régie par l'article 32 de la Loi sur les sociétés en nom collectif[2]. Les dispositions pertinentes de la Loi sur les sociétés en nom collectif sont communes à d'autres lois semblables dans l'ensemble du Canada. Selon l'article 32, la société de personnes est dissoute, entre autres raisons, « si elle a été formée pour la réalisation d'un projet unique, par la réalisation de ce projet » . Le projet d'acquérir et de vendre la propriété de Floride était manifestement une opération « ponctuelle » , qui a pris fin à la vente de la propriété. M. Reale n'allait envisager d'autres projets de construction résidentielle que si cette opération se révélait fructueuse. Quoi qu'il en soit, après la vente de la propriété, M. et Mme Reale n'avaient aucune intention de continuer à exploiter l'entreprise de construction en commun dans le but d'en tirer un bénéfice[3].
+[29] Je suis du même avis que l'intimée : la société de personnes a cessé d'exister le 17 mai 1994 et la fin d'exercice se situait au 16 mai 1994. On a disposé de la propriété de Floride dans la créance fiscale de 1994 de la société de personnes, et la perte a eu lieu pendant cette même année, et non en 1995.
+[30] La Couronne devra obtenir gain de cause dans la défense de la cotisation. En vertu de la Loi, mes attributions consistent seulement à examiner l'année d'imposition qui fait l'objet de l'appel, et aucune autre. Malheureusement, cela place M. Reale dans une situation où il a gagné les batailles en faisant admettre qu'il a exploité une entreprise en société de personnes avec son épouse et qu'il a subi une perte d'entreprise lors de la disposition de la propriété de Floride, mais il a perdu la guerre : il ne peut pas déduire sa part de la perte en 1995.
+[31] Dans une large mesure, M. Reale est victime de sa propre lenteur à produire ses déclarations de revenus. Chose étrange, la seule déclaration qu'il a produite à temps est celle de 1994, et il a omis de déclarer la perte sur la propriété de Floride. S'il s'était occupé de ses affaires fiscales en temps opportun, peut-être aurait-il pu faire opposition à temps à la cotisation de 1994, afin de redresser la situation ou de produire une renonciation pour permettre au ministre d'établir la cotisation après la période normale d'imposition. Bien que l'ADRC ne soit pas tenue de donner suite à la renonciation, un jugement subséquent tel que celui-ci exercerait un certain poids moral pour convaincre le ministre d'établir une nouvelle cotisation pour 1994.
+[32] Je n'ordonne pas à M. Reale de payer les dépens. Cela reviendrait à remuer le couteau dans la plaie et, d'après les faits du présent appel, ne serait pas dans l'intérêt de la justice.
+[33] L'appel interjeté à l'encontre de l'année 1995 est rejeté.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Nancy Bouchard, traductrice
+[1] Selon le paragraphe 99(1) :
+Sauf comme il est prévu au paragraphe (2), lorsque, à un moment donné d'un exercice d'une société de personnes, cette dernière aurait, sans le paragraphe 98(1), cessé d'exister, cet exercice est réputé s'être terminé immédiatement avant ce moment.
+[2] L.R.O. 1990, ch. P.5.
+[3] Loi sur les sociétés en nom collectif, précitée, art. 2.

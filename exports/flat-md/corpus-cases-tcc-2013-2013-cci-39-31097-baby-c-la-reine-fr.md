@@ -1,0 +1,153 @@
+---
+title: "Baby c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31097/index.do"
+last_modified: "2013-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 39"
+citation2: ""
+neutral_citation: "2013 CCI 39"
+decision_date: "2013-02-19"
+language: "fr"
+item_id: "31097"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4683
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:28:14.849000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd76e40cbefcb9c7e9a80de91d6ea26d3ed9a8d7a707a9b3e28b698adfa98eb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baby c. La Reine
+
+- Citation: 2013 CCI 39
+- Decision date: 2013-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baby c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-19
+Référence neutre
+2013 CCI 39
+Numéro de dossier
+2012-626(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-626(GST)I
+ENTRE :
+ANTOINE BABY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 janvier 2013, à Québec (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Pier-Olivier Julien
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre d’une cotisation établie à l’égard de l’appelant en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 3 février 2011 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de février 2013.
+« B.Paris »
+Juge Paris
+Référence : 2013 CCI 39
+Date : 20130219
+Dossier : 2012-626(GST)I
+ENTRE :
+ANTOINE BABY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Monsieur Baby interjette appel d’une cotisation établie en vertu de la Loi sur la taxe d’accise[1], (la « Loi »), par laquelle le ministre du Revenu national lui a refusé le remboursement de taxe pour une habitation neuve ou des rénovations majeures.
+[2] Ce remboursement de taxe est prévu par l’alinéa 256(2)a) de la Loi. Cette disposition se lit comme suit :
+Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique ou logement en copropriété — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche;
+[3] L’expression « rénovations majeures » est définie au paragraphe 123(1) de la Loi comme suit :
+« rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+La position de l’appelant
+[4] Monsieur Baby conteste l’interprétation du ministre de l’expression « rénovations majeures » qui paraît à l’alinéa 256(2)a) de la Loi. Il prétend que les travaux qu’il a fait faire chez lui entre le 1er juillet 2006 et le 31 décembre 2007 étaient des rénovations majeures au sens de la Loi.
+[5] De plus, monsieur Baby se plaint d’avoir été induit en erreur par les renseignements qu’il a trouvés sur le site Internet de Revenu Québec à propos des conditions à satisfaire pour obtenir le remboursement de taxe.
+Les faits
+[6] La maison de monsieur Baby comporte deux étages et un sous-sol, le plancher du sous-sol est en terre battue. La superficie de chaque étage est de 26 pieds par 28 pieds.
+[7] Monsieur Baby a fait les rénovations suivantes à sa maison :
+- ajouter à un solarium quatre saisons, mesurant 15 pieds par 20 pieds, attenant à la cuisine et ouvert à celle-ci. Le mur extérieur de la cuisine a été en partie abattu;
+- transformer la salle à manger en trois pièces plus petites : un bureau, une salle de bains et une salle d’eau. Avant les rénovations, il n’y avait ni salle de bains ni salle d’eau au rez-de-chaussée. Les murs de chacune de ces pièces ont été refaits et les planchers de la salle de bains et de la salle d’eau ont été refaits;
+- refaire la fondation et ajouter un plancher de ciment au sous-sol pour remplacer le plancher en terre battue;
+- refaire le point de raccordement électrique et le chauffage.
+[8] Monsieur Baby n’a pas modifié la chambre ou le salon qui se trouvent au rez-de-chaussée, et n’a rien changé au deuxième étage.
+[9] Monsieur Baby a témoigné qu’il a entrepris les rénovations pour réunir tous les services domestiques au rez-de-chaussée parce qu’il a subi des blessures permanentes à sa jambe droite lors d’un accident de voiture. Avant de commencer les travaux, il a fait une recherche sur le site Internet de Revenu Québec, où il a trouvé une publication intitulée « Remboursement de la TVQ et de la TPS/TVH : Habitations neuves, immeubles d’habitation locatifs neufs, rénovations majeures ». La partie qui traite les rénovations majeures commence à la page 12 et précise que :
+Pour avoir droit à un remboursement partiel, vous devez remplir toutes les conditions suivantes :
+· cette habitation est un immeuble à logement unique * ou un logement en copropriété;
+· vous ou un proche êtes le premier occupant après le début des travaux;
+· cette habitation est votre résidence habituelle ou celle d’un proche;
+· la juste valeur marchande de la propriété est inférieure à 450 000 $ pour la TPS et à 225 000 $ pour la TVQ au moment où les rénovations sont achevées en grande partie.
+[10] Ce n’est qu’après que l’appelant avait terminé les rénovations et s’était fait refuser sa demande de remboursement de taxe auprès de Revenu Québec qu’on l’a renvoyé à la définition de « rénovations majeures » dans la Loi. Bien que cette expression soit définie dans la publication que monsieur Baby a trouvée au site de Revenu Québec, la définition se trouve à la page 7, et elle n’est pas notée à la page 12, où les conditions pour avoir droit au remboursement de taxe pour les rénovations majeures sont énumérées.
+Analyse
+[11] Il me reste alors à déterminer si, à la lumière du libellé de la définition de l’expression « rénovations majeures », la totalité, ou presque, du bâtiment de monsieur Baby qui existait avant les travaux, sauf les fondations, les murs extérieurs, les murs intérieurs de soutien, les planchers, le toit et les escaliers, a été enlevée ou remplacée.
+[12] Le ministre interprète le terme« la totalité, ou presque » comme étant 90 % ou plus de la maison existante, exception faite des éléments notés.
+[13] Pour sa part, monsieur Baby dit que les travaux en l’espèce ont porté sur 90 % de la superficie de la maison « réellement utilisée » et que les sommes qu’il a déboursées équivalent à bien plus que 90 % de la valeur de la maison avant les travaux selon l’évaluation municipale.
+[14] À mon avis, ni l’une ni l’autre des interprétations de l’expression « rénovations majeures » proposées par monsieur Baby n’est fondée sur le texte de la définition. D’abord, la définition parle de « la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux » et non pas « la partie du bâtiment réellement utilisée immédiatement avant les travaux ». La Cour ne doit pas ajouter des mots au texte du législateur. À mon avis, il est sans équivoque que l’expression « bâtiment qui existait » veut dire tout le bâtiment. De plus, il n’y a rien dans la définition qui pourrait laisser croire que le législateur entendait tenir compte du coût des rénovations. À cet égard, je me réfère aux commentaires suivants du juge O’Connor de cette Cour dans la décision McLean c. La Reine[2], (au paragraphe 6) :
+La définition de « rénovations majeures » est restrictive. Premièrement, il n’est nullement question du coût total des rénovations par rapport à la valeur de la maison. [. . .]
+[15] À la lumière de toute la preuve, il est clair que monsieur Baby n’a pas fait enlever ou remplacer tout ou presque tout l’intérieur de sa maison telle qu’elle existait avant les travaux, exception faite des murs de soutien, des planchers et des escaliers. Le deuxième étage au complet et une partie importante du premier étage n’ont pas été touchés par les rénovations. Par conséquent, les rénovations chez monsieur Baby n’étaient pas des rénovations majeures au sens de la Loi.
+[16] Finalement, même si je suis d’accord avec monsieur Baby que la publication qu’il a trouvée sur le site de Revenu Québec prête facilement à confusion, le fait que monsieur Baby a été induit en erreur n’est pas un motif valable pour accueillir son appel. Je suis tenu d’appliquer les dispositions de la Loi telle qu’elle est rédigée par le Parlement, et non pas selon l’interprétation que le ministre ou ses fonctionnaire y donnent. À ce sujet, le juge Sarchuk de cette Cour, dans l’affaire Waldron c. La Reine[3], a écrit au paragraphe 7 :
+[7] La question de la préclusion a été examinée dans un certain nombre d'affaires et le principe qu'on peut généralement en dégager est qu'aucune déclaration portant sur une interprétation de la loi par un fonctionnaire ou un agent de l'État ne peut lier la Couronne pour le motif qu'a admirablement bien exposé le juge Bowman de la C.C.I. dans l'affaire Goldstein v. The Queen :
+On dit parfois que la préclusion n'est pas recevable contre la Couronne. Cette affirmation n'est pas exacte et semble provenir d'une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d'autres principes de droit. La préclusion du fait du comportement, telle qu'elle s'applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s'est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n'a aucune application lorsqu'une interprétation particulière d'une loi a été communiquée à un sujet par un fonctionnaire de l'État, que le sujet s'est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l'interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n'est pas approprié non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu'aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[17] Pour ces motifs, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 19e jour de février 2013.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE : 2013 CCI 39
+Nº DU DOSSIER DE LA COUR : 2012-626(GST)I
+INTITULÉ DE LA CAUSE : Antoine Baby et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 25 janvier 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Brent Paris
+DATE DU JUGEMENT : le 19 février 2013
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Pier-Olivier Julien
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : L’appelant lui-même
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. E-15.
+[2] 1998 CanLII 364.
+[3] 1999 CanLII 19110.

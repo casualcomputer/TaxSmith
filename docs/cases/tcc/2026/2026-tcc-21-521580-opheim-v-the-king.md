@@ -1,0 +1,259 @@
+---
+title: "Opheim v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521580/index.do"
+last_modified: "2026-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 21"
+citation2: ""
+neutral_citation: "2026 TCC 21"
+decision_date: "2026-01-30"
+language: "en"
+item_id: "521580"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5620
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-02-18T09:00:42.795000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dfe772621a2f6425ece4ab9270d976ce5edcf3f72f62cde7572662aa8714152b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Opheim v. The King
+
+- Citation: 2026 TCC 21
+- Decision date: 2026-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5620, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Opheim v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-01-30
+Neutral citation
+2026 TCC 21
+File numbers
+2025-1546(IT)G
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-1546(IT)G
+BETWEEN:
+WANDA OPHEIM
+and all persons listed in schedule A attached hereto,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+and
+HIS MAJESTY THE KING in his capacity as the respondent in the matter of David Hawreluk and His Majesty the King, Court file 2023-2276 IT(G),
+Proposed Participant.
+Motion submitted on January 21, 2026 at Ottawa, Ontario
+Before: The Honourable Justice Michael U. Ezri
+Written submissions by:
+Counsel for the Appellant:
+Dov Whitman, Caroline Boulanger
+Counsel for the Respondent:
+Martin Beaudry
+Counsel for the Proposed Participant:
+Erin Strashin
+ORDER
+For the purposes of the appellant’s motion set for hearing on February 10, 2026 to designate the appeal of David Hawreluk v His Majesty the King, 2023-2276 as a lead case for the appellants herein, the Respondent is relieved from compliance with the implied undertaking rule that attaches to documentary and oral discovery evidence obtained by it in the Hawreluk proceeding;
+Signed at this 30th day of January 2026.
+“Michael Ezri”
+Ezri J.
+Citation: 2026 TCC 21
+Date:20260130
+Docket: 2025-1546(IT)G
+BETWEEN:
+WANDA OPHEIM
+and all persons listed in schedule A attached hereto,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+and
+HIS MAJESTY THE KING in his capacity as the respondent in the matter of David Hawreluk and His Majesty the King, Court file 2023-2276 IT(G),
+Proposed Participant.
+AMENDED REASONS FOR ORDER
+Ezri J.
+[1] The reasons below are issued following my Order of January 28, 2026 as amended on January 29, 2026. That Order dismissed the Proposed Participant’s request to be a party to the appellants’ motion set for hearing on February 10, 2026 to designate the appeal of David Hawreluk v His Majesty the King, 2023-2276 as a lead case for the appellants herein which, Order indicated that reasons were to follow. That Order also extended time for the Theta King Appellants to respond to the Proposed Participant’s request for alternate relief that it be relieved from compliance with the implied undertaking rule in respect of the Hawreluk proceeding.
+[2] The appellants herein (the Theta King Appellants and the Theta King Appeals as the context requires) are all subject to a Case Management Order issued by St-Hilaire CJ on November 16th, 2025 (the CM Order).
+[3] Counsel for the Theta King Appellants has filed a motion on their behalf (the “Motion”) which would designate the case of David Hawreluk v His Majesty the King, 2023-2276 as a lead case in respect of the Theta King Appellants. Counsel for Mr. Hawreluk is the same counsel as counsel for the Theta King Appellants.
+[4] The Hawreluk appeal is not one of the Theta King Appeals because it is not subject to the CM Order. Hawreluk is an appeal that was filed some two years before any of the Theta King appeals were filed. It was set down for trial commencing in April 2026.
+[5] The respondent in the Theta King Appeals opposes the Motion.
+[6] The respondent in Hawreluk, by letter dated December 19, 2025, asked to participate in the Motion and to have the right to make submissions.
+[7] The respondent in Theta King Motion asked that David Hawreluk be added to the style of cause in the Theta King motion. The Theta King Appellants opposed this request.
+The Timetable Order and Responses Received [8] I issued an Order on January 7, 2026, setting out deadlines for the filing of the Theta King Motion and specifying that the Hawreluk Respondent would be added to the style of cause for the Theta King Motion as the “Proposed Participant”. At that point in time, the Theta King Motion had not yet been filed so the January 7, 2026 Order invited the Hawreluk Respondent to file and serve brief further submissions on the law that it says governs their request to participate in the Theta King Motion. Theta King was granted until January 26, 2026, to respond to that supplemental submission.
+[9] The January 7 Order included a provision requiring that it be provided by this Court to counsel of record for both the appellant and respondent in the Hawreluk appeal.
+[10] On January 15, 2026, the Theta King Motion was filed, but without all the supporting material. An amended motion including all material was filed on January 20, 2026.
+[11] On January 21, 2026, the Hawreluk Respondent filed a formal motion in writing to participate in the Theta King Motion as a party (the “Motion to Participate”). As alternative relief, the Hawreluk Respondent asked to be relieved from the implied undertaking rule that otherwise limits its ability to adduce discovery documents and related evidence from the Hawreluk discoveries. Mr. Hawreluk was named as a responding party.
+[12] Counsel for Theta King responded on January 26, 2026, expressing concerns about the timelines for motions in writing and describing the Motion to Participate as abusive writing suggesting that:
+“The This Court should not countenance such abusive tactics which clearly serve no purpose other than to frustrate the ends of justice and add unnecessary complexity and expense to this matter.”
+[13] This Court’s process is adversarial, and it is understandable that from time-to-time counsel faced with unexpected motions or filings from an adverse party will be frustrated and will reflect those frustrations in their correspondence with this Court. However, it is important to remember that submissions to this Court are not intended to be cathartic. They are supposed to assist the Court by helping the Court to understand the facts, the law and the positions of the parties. The Theta King submission does none of that. It does not address issues of prejudice, problems with evidence or any other matters that either militate in favour of summarily rejecting the Motion to Participate or otherwise relieving against problems created by the Motion to Participate. It was also entirely silent on the request in the Motion to Participate for relief from the implied undertaking rule.
+[14] The Motion to Participate from the Hawreluk Respondent does go beyond the supplemental formal submissions invited in the January 7 Order. It changes the request from mere participation to party status and includes the aforementioned alternate request to be relieved from compliance with the implied undertaking rule in the Hawreluk appeal. However, it does not include any evidence which would require time to address. I am therefore satisfied that the Motion to Participate should be accepted and considered in adjudicating the status of the Hawreluk Parties in the upcoming Theta King Motion.
+[15] With respect to the time frame for further responses, the January 7, Order provided until January 26 for Theta King’s response to the Proposed Participant’s submissions. I have had to therefore consider whether the appellant should be granted more time to respond to the issues raised in Motion to Participate. In my Order of January 28, 2026 as amended on January 29th, I granted the Theta King appellant until noon on January 30th to briefly reply only to the implied undertaking issue. Here is why:
+The relatively short timelines in my January 7 Order were based on my view of the time that the parties might reasonably need to address various issues having regard to the overall time frames of the Theta King Motion and the upcoming Hawreluk trial.The Theta King response of January 26 simply assumed that they had the full 20 days set out in Rule 69 to respond.That is not the case.My January 7 Order set out the time to respond.If Theta King wanted more time to respond they needed to ask for it in the January 26, 2026 letter;
+The request for party status by the Proposed Participant was being denied in the January 28th Order so there was no need to receive further detailed submissions on that point from Theta King; and
+However, I did have a concern that it might be unfair to the Theta King Appellants for me to decide the implied undertaking issue if they had been under the impression that they had the full 20 days in Rule 69 to provide a response to that issue.In my opinion I needed to grant at least some additional time for the Theta King Appellants to provide a response.There was no evidence adduced by the Proposed Participant and the issue was relatively straightforward.That is why I provided a short additional window of time for the Theta King Appellant to make a brief submission on the issue.
+The Decision [16] For the reasons that follow, I decline to permit the Proposed Participant to participate in the Theta King Motion as a “party”. More specifically, the Theta King Respondent should appear in the Theta King Motion in its capacity as counsel for the Theta King Respondent and not in any other capacity.
+[17] For the purposes of the Theta King Motion only, the Respondent is relieved from compliance with the implied undertaking rule that attaches to documentary and oral discovery evidence obtained from the appellant in the Hawreluk proceeding.
+The Nature of the request by the Hawreluk respondent [18] The Hawreluk and Theta King Respondents are one and the same person, His Majesty the King. The Department of Justice is counsel for His Majesty the King in both cases. Further, there is no reason in principle why the lawyers acting as respondent’s counsel in Hawreluk cannot act also appear as counsel to the Theta King Respondent on the Motion. So, what exactly is it that the Proposed Participant wants to do?
+[19] I think that the real issue raised by the Proposed Participant is this: Can Crown counsel on the Theta King motion, whoever those individuals may be, obtain leave to make submissions as counsel for the respondent in Hawreluk and not just as counsel for the Theta King Respondent?
+[20] The reference to the Hawreluk Respondent as a Party is also invoked in respect of a possible appeal the decision in the Theta King Motion, but again I’m not sure that is really what is at stake. If the Theta King Respondent, who, again, is also the Hawreluk Respondent, is not satisfied with the outcome of the Theta King Motion, they will have the right to appeal. The question is whether they will appeal only in their capacity as the Theta King Respondent or also as to the Hawreluk Respondent.
+[21] The Proposed Participant’s submissions appear to track this formulation of the problem. The submissions state in part:
+[16] Though the Respondent has the right to participate in the motion in his capacity as the Respondent in the other appeals, his participation is restricted as described below, and he has no right to appeal the order the Court will issue in his capacity as Respondent in the Hawreluk Appeal. To challenge the Court’s Order as it relates to the Hawreluk Appeal the Respondent must file an appeal with the Federal Court of Appeal in his capacity as the Respondent in that appeal, rather than in his capacity as the Respondent in the twenty-one other appeals…
+[22] The basic reasons given by the Proposed Participant for seeking standing as a party are these:
+The Hawreluk Respondent has an interest in whether that appeal is designated as a lead case.If it is so designated, additional pre-trial steps will be required in Hawreluk, the cost of the case may rise, the trial may be longer, and the cost consequences of losing may be greater.A party who may be affected by an order is entitled to as a matter of procedural fairness to participate in the hearing of the proceeding that may lead to that order; and
+The Hawreluk Respondent is in the best position to provide information and evidence needed to determine whether the Hawreluk case should be a lead case.The participation by the Hawreluk Respondent is also consistent with the collaborative nature of the lead case process;
+The Rules [23] There is no exact provision in the Tax Court of Canada Rules[1] (the Rules) that govern this request. However, subrule 4(2) provides that where a matter is not provided for in the Rules, the practice is to be determined by the Court. The Hawreluk Respondent also reminds me that this Court has the inherent jurisdiction to control its process.
+[24] I have also considered Rule 28 which governs interventions, as relevant to the matter in issue. It is also convenient to consider intervention rule in the Federal Court Rules,[2] again as a guide. The text of the two rules is set out below:
+TAX COURT RULE
+FEDERAL COURTS RULES
+28 (1) Where it is claimed by a person who is not a party to a proceeding
+(a) that such person has an interest in the subject matter of the proceeding,
+(b) that such person may be adversely affected by a judgment in the proceeding, or
+(c) that there exists between such person and any one or more parties to the proceeding a question of law or fact or mixed law and fact in common with one or more of the questions in issue in the proceeding,
+such person may move for leave to intervene.
+28(2) On the motion, the Court shall consider whether the intervention will unduly delay or prejudice the determination of the rights of the parties to the proceeding, and the Court may,
+(a) allow the person to intervene as a friend of the Court and without being a party to the proceeding, for the purpose of rendering assistance to the Court by way of evidence or argument, and
+(b) give such direction for pleadings, discovery or costs as is just.
+109 (1) The Court may, on motion, grant leave to any person to intervene in a proceeding.
+(2) Notice of a motion under subsection (1) shall
+(a) set out the full name and address of the proposed intervener and of any solicitor acting for the proposed intervener; and
+(b) describe how the proposed intervener wishes to participate in the proceeding and how that participation will assist the determination of a factual or legal issue related to the proceeding.
+(3) In granting a motion under subsection (1), the Court shall give directions regarding
+(a) the service of documents; and
+(b) the role of the intervener, including costs, rights of appeal and any other matters relating to the procedure to be followed by the intervener.
+Procedural Considerations and the Right to be Heard [25] The right to be heard and to receive notice is a cornerstone of any fair process. In this case, the Proposed Participant invokes those rights because it asserts that it will be affected by a decision to make Hawreluk a lead case. The notice requirement is invoked by the Proposed Participant in respect of Mr. Hawreluk but as my January 7, Order was to be provided to him and he did not request to participate, I see no notice issue here and certainly not one that the Proposed Participant can invoke in the name of Mr. Hawreluk.
+[26] The Proposed Participant relies on two Supreme Court cases regarding the right to be heard, TWU and A(LL).
+[27] I don’t think that the TWU[3] decision assists the Proposed Participant. The appellant union in that case complained that it was not given notice of certain CRTC proceedings that led to a decision being issued. The Supreme Court held that the union’s interest was only indirect such that principles of natural justice and procedural fairness did not require that the union be provided with an opportunity to be heard. The case seems to suggest that not every conceivable interest entails a right to be heard. Further, and as I discuss below, the Theta King Motion will entail consideration of the extent to which the Respondent’s interests in Hawreluk are engaged by the Theta King Motion and so I don’t propose to assume the truth of assertions about the extent of those interests at this time.
+[28] The A(LL) case was procedurally complex. Two health care facilities had been subpoenaed to provide the complainant’s counselling records to the defendant in an indecent assault prosecution. The facilities were also named in a motion requiring early production of the same. The motion for early production was granted.[4] The Ontario Court of Appeal quashed the appeal of the facility on the basis that neither parties nor third parties could appeal interlocutory evidentiary decisions prior to the end of trial. The Supreme Court held that the proper appeal route for the complainant and third parties was directly to the Supreme Court, with leave. It also held that while the Crown, though precluded from an interlocutory appeal of its own, as well as the complainant, had the right to participate in the appeal based on the natural justice and procedural fairness because they would be affected by the decision.
+[29] I don’t find A(LL) helpful for two reasons.
+The Supreme Court held that the Crown would be affected by the decision.However, in the Theta King Motion, the question of whether the Hawreluk Respondent will be affected is one of the key issues that need to be determined.As I have already indicated, I am not prepared to assume the truth of the very issue that I may have to decide as part of the Theta King Motion, in order to adjudicate the question of who gets to participate.I might feel differently if the participation of the Hawreluk Respondent was the only way to canvass the impact of granting the Theta King Motion on the Hawreluk Respondent.This leads to my second point of departure from A(LL);
+Even if the Theta King Respondent does not advocate as the Hawreluk Respondent, there is obviously a convergence of interests between the Respondent in its capacity as the Hawreluk Respondent and as the Theta King Respondent.This distinguishes the Hawreluk Respondent’s position from that of the Crown in A(LL).The Crown in A(LL) would have had no voice in an appeal that was to determine the admissibility of evidence in the very case that the Crown would then have to litigate.Likewise, the complainant in that case would have no voice in the potential use of her most personal treatment records.Granting standing to the Crown and the complainant in that case was the only way to ensure that their interests would be protected in the appeal.
+[30] The question of whether the interests of the Hawreluk Respondent are sufficiently protected by the Theta King Respondent invites a consideration of the question from the point of view of an intervention and in particular the factors that have guided requests for intervention.
+Participation as akin to an intervention [31] This Court has on occasion considered the scope of Rule 28. In Banque Nationale, leave to intervene was granted to an industry association whose members might be impacted by a decision on the GST status of collection agency services. The intervenor had a sufficient interest in the subject matter of the appeal that is members might be adversely affected by the decision of the Tax Court. The Court distinguished cases like Tioxide Canada[5] where the application to intervene, made to the Federal Court of Appeal, was animated by the intervenor’s own tax assessments which would be affected by the final outcome of the litigation. This “jurisprudential” interest in the case was held insufficient to ground an application to intervene.
+[32] In applying Rule 28(2), this Court in Banque Nationale found that the proposed intervention would not unduly delay or prejudice the hearing of the appeal and that hearing the intervenor’s point of view could be helpful to the Court.
+[33] I also find it useful to also consider the case law of the Federal Court applying its rule on interventions.
+Federal Court [34] The Federal Courts Rule is broader than that of this Court in that the intervener is not limited to being a “friend of the Court”. The Court in granting an intervention motion can set out the role of the intervener. The intervener must explain how they propose to intervene and how that intervention will “assist” the Federal Courts.
+[35] In applying its Rule 109, the Federal Court of Appeal set out in Rothmans Benson & Hedges,[6] factors that can be considered, namely:
+A. Whether the proposed intervener directly affected by the outcome;
+B. Is there a justiciable issue and a veritable public interest;
+C. Is there an absence of any other reasonable or efficient means to submit the question to the Court;
+D. Is the position of the intervener adequately defended by one of the parties to the case;
+E. Are the interests of justice better served by the intervention of the proposed third party; and
+F. Can the court decide the case on its merits without the proposed intervener
+[36] In Sports Maska (CCM), the Bauer Hockey Co. had appealed to the Federal Court contesting a decision of the Registrar of Trademarks to strike Bauer’s trade-mark. Bauer had named Easton, a CCM competitor as an additional respondent but had chosen not to also name CCM as a respondent even though Bauer had by that point filed separate trade-mark infringement claims against both Easton and CCM. Bauer then settled with Easton leaving it with a free hand to continue its appeal against the Registrar. CCM, did not want the application against the Registrar to be unopposed in this way and sought to intervene. Their application was rejected by a Federal Court Prothonotary, who was concerned that CCM wanted to effectively substitute itself for Easton. The Prothonotary also considered other factors such as public interest along with certain factual allegations[7] in the CCM Bauer litigation that might operate against CCM in that case. The Federal Court judge while not wholly in agreement with the Prothonotary’s reasoning upheld the decision, noting that the appellant had its own litigation with Bauer where it could advance many of its arguments.
+[37] The Federal Court of Appeal in upholding that decision wrote that the Rothmans factors are not intended to be exhaustive and it is up to the court in a given case to ascribe the weight that it wishes to the individual factors. The Court held that:
+“in the end, we must decide if, in a given case, the interests of justice require that we grant or refuse intervention”/[8]
+[38] The FCA in applying the factors agreed that the appellant was effectively substituting itself as a respondent in the case.[9] It then went on to consider other factors, especially the public interest factors in trade-mark litigation, and the existence of other litigation, in upholding the decisions below.
+[39] In Alliance for Equality of Blind Canadians,[10] the Federal Court of Appeal held that no Rothmans factor is in and of itself determinative of the question. The factors may in some cases need to be supplemented or in some instances they may be of no relevance. The intervention must, however, assist the determination of a legal or factual issue and it must further the interests of justice.
+Application of the law to this Proposed Participant’s Motion [40] I start by considering whether the Proposed Participant is acting based on a “jurisprudential interest” in the Theta King appeals. This was a concern raised in Banque Nationale. I think that it was also a concern in Sports Maska. The reality is that the Proposed Participant’s Motion effectively acknowledges that its interest in Theta King stems from its jurisprudential interest in Hawreluk. This Proposed Intervention is, however, distinguishable from Sports Maska. In Sports Maska, CCM was trying to enhance its position as a defendant in the Bauer trademark infringement case by essentially having the central question of trademark validity decided in the appeal of the Registrar’s decision. The Proposed Participant here does not seek participation in the hopes of gaining an advantage in the Hawreluk case but, rather is trying to preserve what they see as the status quo as it existed before the Theta King Appellants proposed designating Hawreluk as their lead case.
+[41] However, I also think that the Proposed Participant has difficulty in satisfying the other criteria of the Rothmans test. The following criteria from that test are, I think relevant to the issue before me and present real challenges for the Proposed Participant:
+A. Is there an absence of any other reasonable or efficient means to submit the question to the Court?
+B. Is the position of the intervener adequately defended by one of the parties to the case?
+C. Are the interests of justice better served by the intervention of the proposed third party?
+[42] Are there other reasonable or efficient means to raise issues that may be of interest to the Proposed Participant? Presumably some of the issues raised by the Motion are of a general nature and could apply whenever an appellant seeks to unilaterally bind the Crown to a lead case. However, I see no reason why only the Proposed Participant can canvas those issues. Those objections can just as easily be argued by the Theta King Respondent.
+[43] It is also quite difficult for the Proposed Intervener to convincingly argue that the Theta King Respondent cannot adequately defend the Proposed Participant’s position. They are, after all one and the same person, the Crown.
+[44] We then consider whether the Proposed Participant may have arguments to make that rely on specific evidence arising in the Hawreluk appeal. If that is the case, such evidence should generally be adduced in the usual way via affidavit or other documentary evidence rather than in the form of submissions from counsel table. Once such evidence is appropriately presented, the arguments that flow therefrom can as easily be made by Theta King’s responding counsel as by the Proposed Participant.
+[45] The Rothmans factors also ask if the interests of justice are best served by the intervention of the third party. I am not satisfied that the interests of justice are best served by the Proposed Participation. If the Proposed Participant were added to the Theta King Motion, I would also have to permit counsel for the Hawreluk appellant to appear as well. Practically speaking, both Hawreluk and the Theta King appellants have the same counsel, but I am troubled by the spectre of having before me appellant’s counsel who acts both for Hawreluk and for the Theta King Appellants as well as Respondent’s counsel who acts both for the Theta King Respondent and the Hawreluk Respondent. That form of presentation would in my view unacceptably blur the line between the Theta King cases and the Hawreluk appeal before I even get a chance to decide if that line should be blurred by allowing Hawreluk to serve as a Theta King lead case.
+[46] I much prefer that all counsel in the Theta King Motion wear only one hat, i.e., the hat of counsel for the Theta King Appellants and Respondent. Any submission that they may make relating to Hawreluk, even if the submissions allege prejudice in the Hawreluk appeal that may arise by granting or not granting the Theta King Motion, ought to be made and considered in the context of helping to decide whether Hawreluk should be a Theta King lead case.
+[47] Further, it is and must remain solely within the discretion of a judge deciding how the Hawreluk appeal should proceed to also decide how, if at all, any decision that I might make in the Theta King Motion should be taken into account, in regards to the further conduct of Hawreluk.
+[48] I am also of the view that the above is a full answer to concerns about a future costs order in Hawreluk. The respondent in Hawreluk will have a full opportunity to make submissions on costs in that case and the trial judge will be able to take into account that the Hawreluk appeal, if it becomes a lead, case, was so designated despite the opposition of the Respondent. The Hawreluk trial judge will be in the best position to decide how if at all the status of Hawreluk as a lead case should affect any issue regarding costs in that appeal.
+[49] I conclude that the Proposed Participant’s request to be made a party to the Theta King Motion should be denied. The Respondent on the Theta King Motion is free to adduce evidence and make argument on the impact to the Hawreluk litigation of designating Hawreluk as a Theta King lead case. That evidence and those submissions will, if relevant, be considered only in the context of deciding the Motion.
+Relief From Implied Undertaking [50] My finding that the Theta King Respondent can represent the interests of the Proposed Participant is grounded on the idea that any supporting evidence can be adduced by the Theta King Respondent in the usual way. However, the Proposed Participant notes that the implied undertaking rule could impede the use of such evidence at the Motion.
+[51] The implied undertaking rule provides that both documentary and oral information obtained on discovery is not to be used by the other party except for the purposes of that litigation unless or until the scope of that undertaking is varied by a court order or a situation of immediate and serious danger occurs.[11] The purpose of the undertaking is to protect privacy and the efficient conduct of civil litigation.[12]
+[52] Relief from the implied undertaking rule is available where the interests of justice outweigh any prejudice to the party who disclosed the evidence.[13] The prejudice to the party examined is virtually non-existent and leave will generally be granted where it is proposed to use of discovery materials from one action in another action with the same or similar parties/issues.[14]
+[53] The Theta King Appellants in their January 30, 2026 submissions assert that evidence from the Hawreluk discoveries would be irrelevant because the only issue to be determined under Rule 146.1 is whether the appeals gives rise to one or more common or related issues and that determination should be made based upon the pleadings.
+[54] It is premature to accept the appellant’s view of what constitutes relevance for the purpose of the Motion. In 4092325 Investments, this Court held that a decision under Rule 146.1, “must consider the broader interests of justice”.[15] I am not prepared to pre-judge the issue of relevance before hearing the respondent’s argument, on the “interests of justice” question. Further, the Appellants point to no prejudice that may arise from waiving the rule particularly given what they assert are the similarities between Hawreluk and the Theta King Appeals. The Theta King Respondent is relieved from the implied undertaking rule and is free to use documentary and oral discovery evidence obtained by the Respondent in Hawreluk in support of such arguments that it may wish to advance in response to the Theta King Motion.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated January 30, 2026.
+Signed this 5th day of February 2026. “Michael Ezri”
+Ezri J.
+SCHEDULE “A” - “Theta King Appellants”
+1. 2025-1547(IT)G Kenneth Yurkovich
+2. 2025-1548(IT)G Edward James Waitzer
+3. 2025-1549(IT)G Adam Noyek
+4. 2025-1550(IT)G Kenneth McCord
+5. 2025-1551(IT)G Rahul Bhandari
+6. 2025-1552(IT)G Jeffrey McCord
+7. 2025-1553(IT)G Justin Lazerte
+8. 2025-1554(IT)G Cathy Laboni
+9. 2025-1555(IT)G Patrick Laboni
+10. 2025-1557(IT)G Joe D’Angelo
+11. 2025-1558(IT)G Jason Tremblay
+12. 2025-1559(IT)G Gregory Jones
+13. 2025-1560(IT)G David Sanderson
+14. 2025-1561(IT)G James Niosi
+15. 2025-1562(IT)G Joseph Yurkovich
+16. 2025-1826(IT)G Neil Selfe
+17. 2025-1827(IT)G Chrisula Selfe
+18. 2025-2028(IT)G Lawrence Wilder
+19. 2025-2472(IT)G Gordon Deman
+20. 2025-2655(IT)G Mark Hurley
+CITATION:
+2026 TCC 21
+COURT FILE NO.:
+2025-1546(IT)G
+STYLE OF CAUSE:
+WANDA OPHEIM AND ALL PERSONS LISTED IN SCHEDULE A AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+N/A
+REASONS FOR ORDER BY:
+The Honourable Justice Michael U. Ezri
+DATE OF ORDER:
+January 30, 2026
+WRITTEN SUBMISSIONS BY:
+Counsel for the Appellant:
+Dov Whitman, Caroline Boulanger
+Counsel for the Respondent:
+Martin Beaudry
+Counsel for the Intervenor:
+N/A
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dov Whitman, Caroline Boulanger
+Firm:
+KPMG Law LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Tax Court of Canada Rules (General Procedure), SOR 90/688, as amended.
+[2] Federal Courts Rules, SOR 98-106, as amended.
+[3] Telecommunication Workers Union v Canada (CRTC), [1995] 2 SCR 781, paras 29 to 31.
+[4] To simplify the presentation, I omit discussion of a Crown motion to quash the subpoenas that was also dismissed.
+[5] Tioxide Canada Inc. v R, [1994] Carswell Nat 1136 (FCA).
+[6] Rothmans, Benson & Hedges Inc v Canada (AG) (1989), [1990] 1 FC 90.
+[7] Namely that CCM’s predecessors had signed agreements withdrawing opposition to Bauer’s proposed trade-marks.
+[8] Ibid, Para 42.
+[9] Ibid, Para 46.
+[10] Alliance for Equality of Blind Canadians v Canada (AG), 2022 FCA 131, paras 11-12.
+[11] Juman v Doucette 2008 SCC 8, para 4.
+[12] Ibid para. 32.
+[13] Ibid. para 34.
+[14] Ibid. para 35.
+[15] 4092325 Investments Ltd v R, 2018 TCC 228, para 25, Aff’d but without endorsement of the R. 146.1 reasons, 2019 FCA 225.

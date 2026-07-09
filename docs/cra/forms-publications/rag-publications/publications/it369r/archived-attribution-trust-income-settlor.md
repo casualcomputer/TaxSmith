@@ -1,0 +1,96 @@
+---
+title: "ARCHIVED - Attribution of Trust Income to Settlor"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369r/archived-attribution-trust-income-settlor.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Attribution of Trust Income to Settlor
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-369R**
+
+DATE: March 12, 1990
+
+SUBJECT: INCOME TAX ACT**Attribution of Trust Income to Settlor**
+
+REFERENCE: Subsection 75(2) (also section 110.6 and subsections 74.2(2), 75(3), 160(1), 212(12) and 248(5))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it369r.html), including PDF (which is an exact rendition of the original).
+
+## Application
+
+This bulletin replaces and cancels Interpretation Bulletin IT-369 issued on April 4, 1977. Current revisions are designated by vertical lines.
+
+## Summary
+
+This bulletin deals with a trust (other than those referred to in 2 below) the terms of which are such that the trust's property may revert to the person from whom the property was directly or indirectly received, or a certain degree of control of that property rests with that person (see 3 below).
+
+The commentary below discusses situations in which the trust's income or loss from property (but not from a business), or its taxable capital gain or allowable capital loss from the disposition of property, is included in the income of the person from whom the trust directly or indirectly received the property, provided that the person is living and resident in Canada.
+
+## Discussion and Interpretation
+
+1. The provisions of subsection 75(2) may apply where property is held under any trust established since 1934, other than those trusts referred to in 2 below. Unlike (for example) section 74.3, the application of subsection 75(2) does not depend upon a "loan" or "transfer" of property but upon the fact that property is "held" by the trust under one or more of the conditions described in 3(a), (b) and (c) below. The application of subsection 75(2) results in certain amounts, derived from the property held by the trust, being attributed to the person from whom the property was directly or indirectly received. Its application ends if the person dies or ceases to be resident in Canada.
+
+2. Subsection 75(2) does not apply where the particular property is held by trusts listed in subsection 75(3). These include
+
+(a) trusts governed by certain deferred income plans,
+
+(b) employee trusts,
+
+(c) related segregated fund trusts,
+
+(d) vacation pay trusts,
+
+(e) non-resident trusts in certain circumstances, and
+
+(f) prescribed trusts.
+
+With respect to 2(f), there are no prescribed trusts as of the date of publication of this bulletin.
+
+3. The "property" referred to in subsection 75(2) includes "substituted property", as defined by subsection 248(5). Any income or loss from the property, as well as any taxable capital gain or allowable capital loss from the disposition of it, is attributed to the person from whom the property was directly or indirectly received if the terms of the trust are such that the property
+
+(a) may revert to that person,
+
+(b) may be distributed to beneficiaries determined by that person at a time after the trust was created, or
+
+(c) may only be disposed of with the consent of, or at the direction of, that person while alive.
+
+Subsection 75(2) may apply to any income from, or any gain or loss from the disposition of, property received from a person who, by the exercise of a power of appointment, may determine the beneficiaries to whom that property may pass. It may also apply where the property may revert to the person from whom it was received as a consequence of the death of the last of all other beneficiaries under the trust. After September 30, 1983 and before 1987, its application was extended to attribute to a person any capital gain or capital loss realized by a trust from an indexed security investment plan, to the extent that the gain or loss can reasonably be considered to be derived from property received from that person.
+
+4. Although any income, gain and loss in respect of property received from a person is attributed by subsection 75(2) to that person only during a period when that person is resident in Canada, the application of the attribution rules does not depend upon the person having been resident in Canada at the time the property was received by the trust.
+
+5. In applying subsection 75(2), it is necessary to distinguish between income or loss from property and income or loss from a business. The subsection does not apply to attribute business income or losses even if the business operates with some or all of the property received from the particular taxpayer.
+
+6. Any income or loss derived from the investment or other use of the earnings from property (or property substituted therefor) received from a person is not attributed to that person. For example, if the property received from a person is money which is deposited by the trust into a bank account, the interest on the initial deposit will attribute to that person but interest on the interest left to accumulate in the bank account will not attribute.
+
+7. Any non-business income or loss derived from the investment or other use of proceeds of disposition of a property (or a property substituted therefor) received from a person will attribute to that person. For example, if the property received from a person is a building which is subsequently disposed of for $100,000, yielding a taxable capital gain of $20,000, not only will the taxable capital gain attribute to that person but also so attributable will be any non-business income earned on the $100,000 proceeds.
+
+8. With respect to the $20,000 taxable capital gain referred to in 7 above, as there is no provision similar to subsection 74.2(2) affecting subsection 75(2), taxable capital gains attributed to a person under subsection 75(2) are not eligible for the capital gains deduction under section 110.6. For a further discussion on the attribution of taxable capital gains, refer to the current version of IT-511 "Interspousal Transfers and Loans of Property made after May 22, 1985".
+
+9. Subsection 75(2) refers to a "person", which is defined by subsection 248(1) to include a "corporation". Although the lifetime of a corporation is indeterminate, the Department's view is that this fact would not preclude the attribution of trust income to a corporation in circumstances where subsection 75(2) would otherwise apply.
+
+10. Subsection 212(12) provides that where an amount is attributed to a person under subsection 75(2) on account of an amount paid or credited to a non- resident, no Part XIII tax is payable upon that amount. Similarly, the Department considers that an amount which has been attributed to a person under subsection 75(2) is normally to be excluded from the income of a resident beneficiary to whom it was paid or payable in the year, and from the income of the trust where it was not paid or payable to the resident beneficiary.
+
+11. Generally, it is the settlor who transfers property to a trust described in subsection 75(2) and to whom the income therefrom is attributed. Nevertheless, it is the Department's view that a person other than the settlor may transfer property to a trust under one or more of the conditions described in 3(a) to (c) above and become subject to the attribution rules of the subsection.
+
+12. Since a transfer to a trust described in 75(2) is often not at arm's length, certain of the arrangements to which subsection 75(2) applies may result in subsection 160(1) applying to both the trust and the person from whom property was received. Where subsection 160(1) applies to a subsection 75(2) situation, the transferor and transferee are jointly and severally liable to pay
+
+a) that part of the transferor's Part l tax, for each taxation year, that is attributable to the subsection 75(2) attribution, and
+
+(b) an amount equal to the lesser of
+
+(i) the transferor's tax liability for the year in which the property was transferred and for any preceding year, and
+
+(ii) the amount by which the fair market value of the transferred property exceeds the fair market value of the consideration given therefor.

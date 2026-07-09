@@ -1,0 +1,913 @@
+Title: Kelly c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29167/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-189-29167-kelly-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-07
+
+# Kelly c. La Reine
+
+- Citation: 2009 CCI 189
+- Decision date: 2009-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6727, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-07
+Référence neutre
+2009 CCI 189
+Numéro de dossier
+2005-1710(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1710(IT)G
+ENTRE :
+FRED KELLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 24 octobre 2007, à Winnipeg (Manitoba).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelant :
+Me Patrick S. Riley et Me Brian D. Sexton
+Avocat de l’intimée :
+Me Gérald L. Chartier
+____________________________________________________________________
+JUGEMENT
+Les appels formés contre les cotisations établies au titre de de la Loi de l’impôt sur le revenu pour les années d’imposition 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002 et 2003 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 14e jour de juillet 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 189
+Date : 20090407
+Dossier : 2005-1710(IT)G
+ENTRE :
+FRED KELLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Fred Kelly, un Indien au sens de l’article 2 de la Loi sur les Indiens, fait appel de cotisations d’impôt sur le revenu pour les années d’imposition 1994 à 2003 inclusivement, au motif que son revenu d’entreprise est un [traduction] « bien meuble situé sur une réserve », au sens de l’article 87 de la Loi sur les Indiens et qu’il est donc exonéré d'impôt en application de l’article 81 de la Loi de l’impôt sur le revenu (la « LIR »)[1]. Selon M. Kelly, la prépondérance de la preuve établit, entre lui et une réserve, des facteurs de rattachement qui montrent que son revenu durant les années visées par l’appel provenait d'une réserve et qu’il est donc exonéré de l’impôt sur le revenu[2].
+[2] La description écrite détaillée des antécédents et expériences de M. Kelly ainsi que de la nature de ses consultations a été produite à l'audience. M. Kelly a décrit le travail qu’il faisait dans la plupart des contrats en cause. Il a dit que son travail était structuré de sorte qu'il était au service des Premières nations en tant que « bandes » aux termes de la Loi sur les Indiens. Il assurait des services consultatifs à leurs dirigeants, leurs institutions et leurs organisations qui sont situés dans des réserves. Il dit que son travail porte, selon une perspective globale, sur les aspects sociaux, culturels, économiques et politiques de la vie traditionnelle dans les réserves. Il veille à la préservation du mode de vie traditionnel dans les réserves.
+[3] La vie de M. Kelly a été extraordinaire. Il a été élevé dans une réserve et a fréquenté des internats de 1947 à 1956. Il a plus tard fréquenté des écoles secondaires à Sudbury, à North Bay et à Fort Frances. Après l’école secondaire, M. Kelly a travaillé pour Hydro Manitoba, à la construction de barrages, et pour le ministère des Transports de l’Ontario. Il a aussi été instituteur et activiste social. Il a adhéré à un mouvement favorable à l’abrogation de la Loi sur les Indiens et il a fait partie d’une délégation des Premières nations chargée de négocier la Constitution canadienne.
+[4] M. Kelly a expliqué qu’il est un aîné traditionnel de la Nation Anishinaabe, dont la compétence, l’habileté et l’expérience sont particulières. Il est membre et praticien de la Medewe’in, la Société pour la loi et la médecine sacrées des Anishinaabe, appelée par les experts la Société de la grande médecine des Ojibways. M. Kelly a une connaissance approfondie de la culture, de l’histoire, des traditions, des coutumes et des pratiques cérémonielles des Anishinaabe. Il est donc en mesure, a‑t‑il déclaré, d'instruire et de conseiller les Premières nations et leurs membres, leurs institutions, leurs organisations et leurs groupes.
+[5] En 1969, M. Kelly a ouvert, à Winnipeg, pour l’Ouest, un bureau de l’Association nationale des Indiens. Vers 1979, lui et son épouse ont acheté, en propriété indivise, une maison sur le boulevard Lakewood, à Winnipeg. En 2000, il a cédé à Mme Kelly ses droits sur la maison familiale. Durant les années visées par l’appel, il résidait dans sa maison de Winnipeg.
+[6] En 1978, M. Kelly a commencé de travailler comme consultant indépendant pour les Premières nations, leurs membres et leurs organismes, par exemple écoles et centres de formation de l’enfant. Il exerce ses activités sous son propre nom et sous la désignation « Fred Kelly Counselling ». Pour ce faire, il puise dans ses intérêts, ses antécédents, son expérience et ses connaissances. Ses activités principales ont trait à la planification stratégique traditionnelle et la gouvernance traditionnelle.
+[7] Au cours des années visées par l’appel, M. Kelly effectuait son travail dans les réserves et à son bureau chez lui, où il avait le mobilier habituel, y compris un ordinateur et aussi une bibliothèque de références et des dossiers historiques. Les livres et registres de l’entreprise se trouvent à son domicile de Winnipeg. Il travaillait, a‑t‑il dit, là où il se trouvait. En fait, M. Kelly assurait ses services principalement en dehors des réserves; d’après lui, il passait 30 p. 100 de ses heures de travail dans les réserves. C’est le plus souvent à son bureau, chez lui à Winnipeg, qu’il faisait le travail de recherche, de préparation et de prestation de ses services.
+[8] M. Kelly ne tenait aucun registre du temps qu’il passait dans les réserves ni des lieux où il travaillait; il a fait une estimation du temps qu’il passait dans les réserves d’après les notes portées sur des calendriers selon l’activité concernée. Le temps qu’il passait à se rendre dans les réserves et à en revenir était compris dans le temps passé dans les réserves. L’avocat de l’intimée a estimé que le temps concrètement passé par M. Kelly dans les réserves correspondait à environ 15 p. 100 du temps qu’il consacrait à son activité, à l’exclusion de ses heures de déplacement.
+[9] M. Kelly obtient des contrats par le bouche‑à‑oreille. Il ne fait pas de publicité et ne fait pas non plus la promotion de son entreprise. Après avoir fourni ses services, il envoie une facture au client. Au cours des années visées par l’appel, les clients réglaient ses factures en lui envoyant des chèques par la poste, à son domicile de Winnipeg. Au cours des années visées par l’appel, sa banque était la Banque Canadienne Impériale de Commerce, succursale de Southdale, à Winnipeg. Il a un autre compte auprès d’une succursale de la Banque Royale, à Winnipeg.
+[10] M. Kelly est membre de la Medewe’in, Société pour la loi et la médecine sacrées des Anishinaabe, laquelle, a‑t‑il témoigné, préserve la mémoire des migrations, du vaste territoire et du passé spirituel des Anishinaabe, ainsi que de leurs rapports avec d’autres peuples. Il dit que, en cette qualité, il est en mesure de conseiller toutes les Premières nations, grâce à sa connaissance des principes autochtones. La Medewe’in est une société sacrée. Elle est imprégnée de spiritualité, a‑t‑il expliqué. La Medewe’in donne accès à la compréhension des lois de la Pimatiziwin, ou vie sacrée, dans sa totalité, telle qu’elle a été donnée par le Créateur. La Pimatiziwin est une explication de la vie elle‑même depuis le début des temps.
+[11] M. Kelly est aussi reconnu comme un aîné traditionnel au Canada. Il a rempli les fonctions d’aîné personnel auprès de Phil Fontaine lorsqu’il était le chef national de l’Assemblée des Premières nations et, durant le procès, il faisait encore office d’aîné auprès de Charles Fox, vice‑chef régional de l’Assemblée des Premières nations pour l’Ontario, et d’aîné personnel et consultant auprès de Leon Jourdain, grand chef du Grand Council Treaty no 3, qui est la gouvernance traditionnelle de la Nation Anishnaabe. Il a aussi fait office d’aîné principal auprès d’autres groupes auxquels ont été conférés d’autres honneurs dans la Nation Anishinaabe. Il a déclaré qu’il est l’un des gardiens auxquels sont confiés l’histoire ancienne de l’univers et de la création, la vie et les enseignements spirituels ainsi que les interprétations de messages. Le langage ancien, d’expliquer M. Kelly, est le principal canal de diffusion de cette connaissance plutôt que par les expressions familières. Il dirige aussi des cérémonies traditionnelles, notamment le banquet quotidien et les quatre banquets saisonniers; la cérémonie de la suerie; la thérapie, le traitement et la conseillance; les traitements accessoires et traitements d’urgence à l’aide de médicaments spéciaux, d’herbes ou de cérémonies de guérison; les cérémonies d’attribution de noms; les célébrations de mariages traditionnels; les cérémonies funèbres; de même que l’enseignement de pratiques cérémonielles à l’usage des hommes, femmes, enfants et des autres aînés. Il a dit qu’il parle couramment aussi la langue des Anishinaabe et qu’il enseigne cette langue. Dans une société orale telle que la Nation Anishinaabe et dans la plupart des Premières nations, la connaissance approfondie de la langue est essentielle et permet de comprendre parfaitement le mode de vie traditionnel.
+[12] Les services assurés par M. Kelly aux Premières nations consistent à conceptualiser, rédiger, analyser, expliquer, traduire, consacrer et enseigner les notions traditionnelles, y compris les prescriptions de la loi des Anishinaabe. Il ne connaît personne d’autre qui ait une connaissance aussi approfondie de la loi des Anishinaabe et qui soit suffisamment apte à saisir les aspects de la loi coutumière.
+[13] M. Kelly a expliqué que son travail est intimement rattaché à l’autodétermination des Premières nations, par le biais de l’autonomie gouvernementale, laquelle, a‑t‑il déclaré, constitue le cœur et le pouls du mode de vie traditionnel de ses clients, les membres des Premières nations qui vivent dans les réserves. La nature de son travail relatif aux traités et à l’autonomie gouvernementale est fondée sur la relation entre nations et entre gouvernements. En raison de ses habilités, et parce que son expérience et sa pédagogie sont sans équivalent, affirme‑t‑il, il est invité à aider les Premières nations à beaucoup d’égards, en plus de son travail portant sur les traités et l’autonomie gouvernementale. Il a témoigné que, à ce titre, on lui demande de rédiger des lois temporelles en matière de traités et d’autonomie gouvernementale, d’apporter une aide pour la restauration de l’éducation traditionnelle et assurer une thérapie traditionnelle aux personnes qui ont vécu l'ère des internats. Les Premières nations font également appel à lui dans leurs négociations se rapportant aux jeux de bienfaisance, en particulier pour qu’il les conseille au regard des jeux traditionnels organisés par les peuples autochtones, afin que les Premières nations soient informées de leurs droits ancestraux et qu’elles puissent ainsi les exercer et les sauvegarder. Je n’ai évoqué que quelques‑unes des activités de M. Kelly qui sont en cause dans les présents appels.
+[14] En 1994, M. Kelly a conclu une entente avec la Nation Wauzhushk Onigum, une bande au sens de la Loi sur les Indiens. La résidence principale de ses membres est la réserve Rat Portage 38B, où se trouvent les bureaux de la bande et où sont menées toutes les activités. Suivant sa recommandation, la bande a abandonné le nom de Première nation Rat Portage pour revenir à son nom traditionnel, Wauzhushk Onigum, qui est la collectivité comprise dans la Constitution traditionnelle de la Nation Anishinaabe, dans le Traité no 3. Il avait été engagé, a‑t‑il dit, en raison de sa connaissance approfondie du mode de vie traditionnel, un mode de vie en harmonie avec le droit et la compétence traditionnels. La Wauzhushk Onigum voulait construire un casino et croyait que, pour des raisons pratiques, elle devait négocier un accord d’organisation de jeux avec la province de l’Ontario. M. Kelly a conseillé à la bande de ne pas se livrer à des négociations quant à la compétence inhérente sur les jeux et de ne pas tenter d’exercer une compétence provinciale. De l’avis de M. Kelly, l’accord d’organisation de jeux devait être simplement un arrangement administratif conclu avec la province conçu pour générer des recettes, mais la compétence autochtone inhérente sur les jeux devait rester intacte. L’accord serait donc un accord provisoire, en vigueur dans l'attente d'un arrangement plus permanent sur les jeux, arrangement fondé sur la souveraineté, le statut de nation, l’esprit du traité et le droit naturel à l’autonomie gouvernementale.
+[15] En 1995, M. Kelly a fourni des services à la Nation Naotkamegwaaning (Première nation de Whitefish Bay) durant environ 50 jours. Il était notamment chargé du processus de reprise par la Première nation Whitefish Bay de son nom traditionnel. Il avait été consulté par la Nation Naotkamegwaaning pour notamment analyser l'ensemble de la gestion de la prestation des services de la Première nation et il a complété le processus d'admissibilité de celle-ci au mode optionnel de financement du ministère des Affaires indiennes. Cette analyse, a‑t‑il expliqué, mettait en valeur les principaux atouts de la Première nation et donnait un aperçu général de la direction, de l’organisation, de la gestion du personnel, de la gestion des programmes et de la gestion financière. Les principaux aspects des arrangements financiers définitifs, sur le plan financier, comportant un pouvoir accru de réaffectation des fonds d'un programme à l'autre répondant mieux aux besoins financiers des Premières nations, de même que la planification financière sur une période allant jusqu’à cinq ans, et la responsabilité financière principale, sont l'apanage des autorités des Premières nations. L’analyse, selon M. Kelly, constituait une étape préparatoire et provisoire du retour aux négociations menées simultanément en matière de gouvernance traditionnelle.
+[16] En 1996, il a été engagé par le grand chef du Grand Council Treaty no 3 pour fournir des services consultatifs sur la question de la gouvernance traditionnelle dans le territoire du Traité no 3. Il a participé à la rédaction de l’accord‑cadre et l’a lui‑même baptisé Bimiwinitizowin Omaa Akiing – Gouvernance sur notre Terre. Tel est encore le nom du processus. M. Kelly a expliqué que cette initiative en matière de gouvernance constitue l’essence même des quatre prescriptions de la loi des Anishinaabe. Par ce processus, la Nation Anishinaabe, dans le Traité no 3, a amorcé un retour vers la gouvernance traditionnelle. Le Grand Council Treaty no 3 n’appelle pas l’exercice d'une compétence fédérale ou provinciale; la Nation souhaite uniquement exercer sa propre compétence inhérente et disposer des ressources nécessaires à cette fin. Pour que les arrangements concrets concordent avec le droit naturel à l’autonomie gouvernementale et avec le Traité no 3, d’affirmer M. Kelly, il faut que l’administration des lois des Anishinaabe soit en harmonie avec celle des lois du Canada, et c’est sur cette question que devait porter son intervention.
+[17] Ce sont là quelques‑uns des services que M. Kelly fournissait à diverses réserves. Il a témoigné que les réserves faisaient appel à lui pour qu’il les conseille dans la manière de conserver ou retenir le caractère particulier de leurs cultures traditionnelles et historiques. Il a dit que, sans son intervention, ces réserves n'auraient pas disposé des capacités et ressources nécessaires pour atteindre leurs objectifs. La liste des factures que M. Kelly a envoyées à ses clients durant les années visées par l’appel a été produite, de même que la liste des lieux où ses clients se livraient à leurs activités. L’un des clients se trouvait aux États‑Unis, un autre était une société cotée en bourse, et un autre n’était pas dans une réserve. M. Kelly ne soutient pas que le revenu tiré de ces clients est un revenu exonéré d’impôt. Les autres clients sont situés dans des réserves ou rattachés à des réserves, et ce sont les honoraires qu’il a reçus d’eux qui font l’objet des présents appels. À l’annexe A des présents motifs, figure une liste reconstituée des lieux et dates où M. Kelly a fourni des services dans des réserves, liste fondée sur les documents disponibles.
+[18] Les services qu’il fournit, a déclaré M. Kelly, ne sont pas des services commerciaux classiques. Il a expliqué que, alors que d’autres consultants auprès des Premières nations interviennent en matière de droit des Autochtones, il intervient en matière de droit des Anishinaabe. Le droit des Autochtones est une branche du droit général, qui spécifie dans quelle mesure les lois canadiennes sont applicables aux Premières nations et, le cas échant, le mode d'application de celles-ci. Quant au droit des Anishinaabe, son expertise porte sur le droit indigène interne; pour le maîtriser, il faut disposer de certaines aptitudes, compétences, et connaissances, ce qui est son cas.
+[19] Son travail, a expliqué M. Kelly, doit être effectué d’une manière cérémonielle. Il n’y a pas de séparation entre pouvoir religieux et pouvoir temporel. Tout débat sur la loi sacrée, par exemple, doit être un débat cérémoniel.
+[20] L’histoire des Premières nations n’est pas écrite. C’est une histoire orale, dont M. Kelly partage la connaissance avec diverses Premières nations. Ses interventions culturelles et traditionnelles relevant de ses engagements contractuels ont lieu chez lui et dans les réserves.
+[21] Selon l’appelant, la prépondérance de la preuve, au vu de l’ensemble des facteurs de rattachement, indique que son revenu, au cours des années visées par l’appel, se rattachait à une réserve et qu’il est donc exonéré d’impôt par l’application conjuguée de l’alinéa 81(1)a) de la LIR et de l’article 87 de la Loi sur les Indiens.
+[22] Le paragraphe 81(1) de la LIR exonère de l’impôt certaines sommes. Il est rédigé ainsi :
+Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+There shall not be included in computing the income of a taxpayer for a taxation year,
+a) une somme exonérée de l’impôt sur le revenu par toute autre loi fédérale, autre qu’un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d’une disposition d’une convention ou d’un accord fiscal conclu avec un autre pays et qui a force de loi au Canada.
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+[23] L’article 87 de la Loi sur les Indiens est rédigé ainsi :
+(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83, les biens suivants sont exemptés de taxation :
+(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to s. 83, the following property is exempt from taxation, namely,
+a) le droit d’un Indien ou d’une bande sur une réserve ou des terres cédées.
+(a) the interest of an Indian or a band in reserve lands or surrendered lands.
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) Nul Indien ou bande n’est assujetti à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l’un de ces biens.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[24] L’avocat de l’appelant a passé en revue un bon nombre des arrêts de principe portant sur le question en litige dans le présent appel. Dans l’arrêt Nowegijick c. R.[3], la Cour suprême du Canada a jugé que le situs du salaire de M. Nowegijick, un Indien au sens de l’article 2 de la Loi sur les Indiens, était le domicile ou lieu d’affaires de la débitrice, sans égard à l’endroit où l’emploi était exercé.
+[25] Dans un autre arrêt, Williams c. Canada[4], la Cour suprême du Canada devait rechercher s’il y avait lieu d’imposer les prestations d’assurance-chômage reçues par un Indien après qu’il eut travaillé dans une réserve pour un employeur situé dans la réserve. Selon l’avocat de l’appelant, il s’agit là de l’arrêt de principe portant sur l’interprétation de l'expression « situés sur une réserve », au paragraphe 87(1) de la Loi sur les Indiens. La Couronne soutenait que les prestations d’assurance-chômage étaient imposables au motif que le situs du revenu était l’extérieur de la réserve, puisque la résidence du débiteur (c’est‑à‑dire le gouvernement du Canada) se trouvait en dehors de la réserve. La Cour suprême n'a pas retenu cette thèse et jugé que les prestations d’assurance-chômage n’étaient pas imposables puisque leur situs était la réserve. Le juge Gonthier, s’exprimant pour les juges majoritaires, a fait les observations suivantes :
+[…] Le critère du situs en vertu de la Loi sur les Indiens doit être interprété conformément aux objets de cette loi et non à ceux du droit international privé. En conséquence, il faut réexaminer attentivement, en fonction des objets de la Loi sur les Indiens, si l’on doit retenir la résidence du débiteur comme facteur exclusif pour déterminer le situs de prestations comme celles qui ont été versées en l’espèce. Il se peut que la résidence du débiteur demeure un facteur important, voire même le seul. Toutefois, on ne peut arriver directement à cette conclusion à partir d’une analyse de la façon dont le droit international privé tranche cette question[5].
+[26] Dans l’arrêt Williams, la Cour suprême a retenu une méthode, ou un nouveau critère, celui du « critère des facteurs de rattachement », permettant la détermination du situs : recenser les divers facteurs de rattachement qui pourraient être pertinents, puis les analyser pour déterminer le poids à leur accorder « afin d’identifier l’emplacement du bien, en tenant compte de trois choses : (1) l’objet de l’exemption prévue dans la Loi sur les Indiens; (2) le genre de bien en cause et (3) la nature de l’imposition de ce bien. Il s’agit donc de déterminer, relativement à chaque facteur de rattachement, le poids qui devrait lui être accordé pour décider si l’imposition en cause de ce type de bien représenterait une atteinte aux droits de l’Indien à titre d’Indien sur une réserve »[6].
+[27] Le juge Gonthier a fait les observations suivantes à propos des articles 87, 89 et 90 de la Loi sur les Indiens[7] :
+[C]es articles visent à préserver les droits des Indiens sur leurs terres réservées et à assurer que la capacité des gouvernements d’imposer des taxes, ou celle des créanciers de saisir, ne porte pas atteinte à l’utilisation de leurs biens situés sur leurs terres réservées. La conséquence de cette conclusion était que les articles en question ne visent pas à conférer un avantage économique général aux Indiens […]
+[28] Le juge Gonthier a aussi fait les observations suivantes :
+En conséquence, en vertu de la Loi sur les Indiens, un Indien jouit d’un choix en ce qui concerne ses biens personnels. L’Indien peut situer ces biens sur la réserve, auquel cas les biens sont protégés contre la saisie et la taxation, ou il peut les situer hors de la réserve, auquel cas les biens sont situés à l’extérieur de la zone protégée et peuvent davantage être utilisés dans le cours des opérations commerciales ordinaires dans la société. Il appartient à l’Indien de décider s’il désire bénéficier du système de protection que constitue la réserve ou s’il veut s’intégrer davantage dans l’ensemble du monde des affaires.
+Le critère du situs, à l’article 87, a pour objet de déterminer si l’Indien détient les biens en question en vertu des droits qu’il possède à titre d’Indien sur la réserve. Lorsqu’il est nécessaire de choisir entre diverses méthodes de détermination de l’emplacement des biens pertinents, le choix doit se faire en tenant compte de cet objet[8].
+[29] Auparavant, dans l’arrêt Mitchell c. Bande indienne Peguis[9], le juge LaForest a fait les observations suivantes :
+En résumé, le dossier historique indique clairement que les art. 87 et 89 de la Loi sur les Indiens, auxquels s’applique la présomption de l’art. 90, font partie d’un ensemble législatif qui fait état d’une obligation envers les peuples autochtones, dont la Couronne a reconnu l’existence tout au moins depuis la signature de la Proclamation royale de 1763. Depuis ce temps, la Couronne a toujours reconnu qu’elle est tenue par l’honneur de protéger les Indiens de tous les efforts entrepris par des non‑Indiens pour les déposséder des biens qu’ils possèdent en tant qu’Indiens, c’est‑à‑dire leur territoire et les chatels qui y sont situés.
+Il est également important de souligner la conséquence de la conclusion que je viens de tirer. Le fait que la loi contemporaine, comme sa contrepartie historique, prenne tant de soin pour souligner que les exemptions de taxe et de saisie ne s’appliquent que dans le cas des biens personnels situés sur des réserves démontre que l’objet de la Loi n’est pas de remédier à la situation économiquement défavorable des Indiens en leur assurant le pouvoir d’acquérir, de posséder et d’aliéner des biens sur le marché à des conditions différentes de celles applicables à leurs concitoyens. Un examen des décisions portant sur ces articles confirme que les Indiens qui acquièrent et aliènent des biens situés à l’extérieur des terres réservées à leur usage le font aux mêmes conditions que tous les autres Canadiens.
+[30] Le juge LaForest a aussi fait la mise en garde suivante[10] :
+[…] en l’absence d’un lien discernable entre le bien en question et l’occupation des terres réservées par le propriétaire de ce bien, les protections et privilèges des articles 87 et 89 ne s’appliquent pas.
+J’attire l’attention sur ces décisions pour souligner encore une fois qu’il faut éviter d’accorder une portée trop large aux art. 87 et 89. Ces dispositions n’ont pas pour but d’accorder des privilèges aux Indiens à l’égard de tous les biens qu’ils peuvent acquérir et posséder, peu importe l’endroit où ils sont situés. Leur but est plutôt simplement de protéger des ingérences et des entraves de la société en général les droits de propriété des Indiens sur leurs terres réservées pour veiller à ce que ceux‑ci ne soient pas dépouillés de leurs droits. La Cour d’appel de l’Alberta dans l’arrêt Bank of Nova Scotia v. Blood, [1990] 1 C.N.L.R. 16, saisit l’essence du problème lorsqu’elle affirme, à la p. 18, au sujet de l’art. 87 que : [TRADUCTION] « D’après ses termes, l’article a pour objet d’empêcher qu’on porte atteinte aux biens des Indiens sur une réserve ».
+[31] Le critère de « facteurs de rattachement » a été examiné par la Cour d’appel fédérale dans l’arrêt Canada c. Folster (sub nom. Clarke c. M.R.N.)[11]. Le juge Linden, s’exprimant pour la Cour d’appel, s’est référé aux observations du juge LaForest dans l’arrêt Mitchell, lequel avait défini l’objet de l’exonération d’impôt de l’article 87 de la Loi sur les Indiens: il s'agissait « essentiellement d’effort pour préserver le mode de vie traditionnel des collectivités indiennes en protégeant les biens que les Indiens possèdent en tant qu’Indiens sur une réserve »[12]. C’était sur ce fondement que le critère des « facteurs de rattachement » avait été précisé. Selon l’avocat de l’appelant, l’objet du travail de M. Kelly était la préservation du mode de vie traditionnel des collectivités indiennes. Le juge Linden a suivi les observations du juge Gonthier dans l’arrêt Williams, qui :
+[…] a reconnu que, bien qu’il existe inévitablement de nombreux facteurs qui peuvent être utiles pour déterminer le situs d’un bien immatériel comme des prestations d’assurance‑chômage ou un revenu d’emploi, la pertinence de ces « facteurs de rattachement » doit être évaluée en fonction de leur capacité à réaliser l’objet de l’article 87. En outre, le poids à donner à chaque facteur peut varier en fonction des circonstances[13].
+[32] Cependant, le juge Linden a fait la mise en garde suivante[14] :
+Ce nouveau critère n’a pas été conçu pour accorder le bénéfice de l’exemption d’impôt à tous les Indiens. Il ne visait pas non plus à exempter tous les Indiens qui résident sur une réserve. En proposant qu’il convient de se fonder sur une gamme de facteurs qui peuvent être pertinents pour déterminer le situs d’un bien, le juge Gonthier a plutôt cherché à garantir que l’exemption d’impôt réalise l’objet qu’elle est censée réaliser, c’est‑à‑dire préserver les biens détenus par des Indiens en tant qu’Indiens sur des réserves afin que leur mode de vie traditionnel ne soit pas menacé.
+[…]
+[…] On ne doit pas oublier que ce critère [des facteurs de rattachement] est simplement un moyen dont disposent les tribunaux pour appliquer le principe du situs d’une manière rationnelle, en donnant une certaine armature à l’analyse. Et la question fondamentale de cette analyse est la suivante : eu égard au but poursuivi par le législateur en adoptant l’exemption d’impôt créée par l’article 87, où est‑il le plus logique de situer le situs du bien meuble en cause? Ce critère n’est pas plus magique que cela.
+[33] L’avocat de l’appelant soutient que le travail de son client était rattaché à une réserve et qu’il avait pour mission de la protéger contre le danger d’une atteinte aux biens autochtones. Il s’est de nouveau référé aux observations du juge Linden, cette fois dans l’arrêt Recalma v. Canada[15] :
+En évaluant les différents facteurs pertinents, la Cour doit décider de l’endroit où il est « le plus logique » de situer les biens meubles afin d’éviter de porter « atteinte à un bien détenu par un Indien en tant qu’Indien » dans le but de protéger le mode de vie traditionnel des autochtones. Dans l’évaluation des différents facteurs pertinents, il est également important de déterminer si l’activité qui a généré le revenu était « étroitement liée » à la réserve, c’est‑à‑dire si elle faisait « partie intégrante » de la vie dans la réserve, ou s’il est plus approprié de la considérer comme une activité accomplie sur « le marché ordinaire » (voir Canada c. Folster [1997] 3 C.F. 269 (C.A.F.)). Il convient de préciser que le concept « du marché ordinaire » n’est pas un critère ayant pour but de déterminer si les biens sont situés dans une réserve; il s’agit simplement d’un élément qui aide à l’évaluation des divers facteurs à l’étude. Ce n’est absolument pas un critère déterminant. L’exercice de raisonnement primordial est de décider, en tenant compte de l’ensemble des facteurs de rattachement et en gardant à l’esprit l’objet de l’article, de l’endroit où sont situés les biens, c’est‑à‑dire si le revenu gagné fait « partie intégrante de la vie de la réserve », s’il est « étroitement lié » à cette vie, et s’il devrait être protégé pour empêcher de porter atteinte aux biens détenus par les Indiens en tant qu’Indiens.
+[34] Le juge Linden a observé que l’importance des divers facteurs peut varier au cas par cas. Ce qui est « extrêmement important », c’est le type de revenu que l’on veut assujettir à l’impôt. Ainsi, « [l]orsqu’il s’agit d’un revenu d’entreprise, le facteur primordial sera l’endroit où le travail a été effectué et où se trouve la source du revenu »[16].
+[35] Dans ses dernières observations, le juge Linden s’est référé aux motifs de l’arrêt Southwind v. The Queen[17], rendu plusieurs mois auparavant par la Cour d’appel fédérale. Dans cette affaire, elle devait rechercher si une entreprise exploitée par un Indien habitant une réserve se trouvait dans la réserve. L’entreprise fournissait des services exclusifs d’exploitation forestière à une entreprise non indienne qui n’était pas située dans la réserve. Tant la Cour de l’impôt que la Cour d’appel avaient confirmé la cotisation, au motif que l’entreprise n’était pas située dans la réserve. La Cour canadienne de l’impôt avait conclu que les « facteurs de rattachement » comprenaient le lieu de résidence de l’appelant, le lieu où le revenu de l’appelant était payé (c’est‑à‑dire la banque utilisée par le débiteur) et le lieu où le revenu était gagné ou le travail effectué; le facteur le plus important n’était pas ce dernier facteur.
+[36] La Cour d’appel a exprimé ses doutes quant à la justesse de l’évaluation des « facteurs de rattachement » appliqués par la Cour canadienne de l’impôt. Le juge Linden a, dans l’arrêt Southwind, avalisé les facteurs retenus par la Couronne pour savoir si le revenu d’entreprise était situé dans la réserve :
+[…] (1) le lieu où se déroulaient les activités de l’entreprise, (2) le lieu où se situaient les clients (débiteurs) de l’entreprise, (3) le lieu où sont prises les décisions touchant l’entreprise, (4) le type d’entreprise et la nature du travail, (5) le lieu du paiement, (6) la mesure dans laquelle l’entreprise participait au commerce général, (7) le lieu de l’établissement stable de l’entreprise et le lieu où étaient conservés les livres et registres, et (8) la résidence du propriétaire de l’entreprise[18].
+[37] Puis le juge Linden s’est référé à l’arrêt Mitchell, précité, où, selon l’opinion exprimée par la Cour suprême :
+[…] lorsqu’un Indien participe au « commerce général », il doit être assujetti aux mêmes conditions que les autres Canadiens auxquels il fait concurrence. Bien que la signification de cette expression ne soit pas claire du tout, il ne fait aucun doute qu’elle vise à distinguer les activités commerciales des Autochtones qui traitent avec des personnes situées principalement à l’extérieur de la réserve, plutôt que sur la réserve. Elle a pour but d’isoler les activités commerciales dont profite un Autochtone en particulier plutôt que l’ensemble de sa communauté, bien qu’il soit évidemment reconnu, [comme le dit l’avocat de l’appelant], que la collectivité tire profit du fait qu’une personne assure la subsistance de sa famille[19].
+[Non souligné dans l’original.]
+[38] Dans l’arrêt Canada c. Monias[20], le juge Evans a fait l'observation suivante :
+[…] bien que le travail des employés puisse aider à maintenir ou à améliorer la qualité de vie dans la réserve pour les membres des bandes qui y vivent, ce fait ne vient pas nécessairement rattacher l’acquisition ou l’utilisation de leur revenu d’emploi à la réalité physique des réserves.
+[39] En l'espèce, de soutenir l’avocat de M. Kelly, celui-ci ne participait pas au « commerce général » puisque, notamment, il ne traitait pas avec des personnes situées principalement à l’extérieur de la réserve.
+[40] L’avocat de l’appelant s’est aussi référé aux lignes directrices sur le revenu d’emploi, que l’Agence du revenu du Canada (ARC) avait publiées en juin 1994 pour aider les Indiens inscrits à déterminer si leur revenu d’emploi est ou non exonéré de l’impôt. Les Lignes directrices intègrent les « facteurs de rattachement » qui décrivent diverses situations d’emploi envisagées par l’article 87 de la Loi sur les Indiens. Voici le texte de la Ligne directrice no 4 :
+TOUT LE REVENU QU’UN INDIEN TIRE D’UN EMPLOI SERA HABITUELLEMENT EXONÉRÉ D’IMPÔT SI TOUTES LES CONDITIONS SUIVANTES SONT RÉUNIES :
+· L’EMPLOYEUR RÉSIDE DANS UNE RÉSERVE;
+· L’EMPLOYEUR EST, SELON LE CAS,
+- UNE BANDE INDIENNE POSSÉDANT UNE RÉSERVE, OU UN CONSEIL DE BANDE REPRÉSENTANT UNE OU PLUSIEURS BANDES INDIENNES QUI POSSÈDENT DES RÉSERVES;
+- UNE ORGANISATION INDIENNE RELEVANT D’UN OU DE PLUSIEURS CONSEILS OU BANDES SEMBLABLES ET QUI SE CONSACRE EXCLUSIVEMENT AU DÉVELOPPEMENT SOCIAL, CULTUREL, ÉDUCATIONNEL OU ÉCONOMIQUE D’INDIENS QUI VIVENT, POUR LA PLUPART, DANS DES RÉSERVES;
+· LES TÂCHES LIÉES À L’EMPLOI FONT PARTIE DES ACTIVITÉS NON COMMERCIALES DE L’EMPLOYEUR, LESQUELLES NE VISENT QUE LE MIEUX‑ÊTRE DES INDIENS VIVANT DANS LA RÉSERVE.
+[41] Voici deux des exemples de revenus exonérés selon l’ARC :
+M. N travaille pour la section éducative d’un conseil de bande. Son lieu de travail n’est pas situé dans une réserve, mais dans un endroit central par rapport à plusieurs réserves. M. N vit lui‑même en dehors d’une réserve, mais le conseil de bande qui l’emploie est situé dans une des réserves en question. M. N a droit à l’exonération d’impôt pour son revenu d’emploi, parce que ses fonctions sont rattachées aux réserves desservies par le conseil qui l’emploie et que son employeur réside dans une réserve.
+[…]
+M. P travaille pour une organisation indienne qui fournit des services à l’enfance et à la famille. L’organisation dessert un grand nombre de bandes qui possèdent des réserves disséminées sur une grande superficie dans une province. Certains des services sont fournis dans la capitale provinciale, où travaille M. P, et le bureau administratif de l’organisation est situé en dehors d’une réserve, dans un endroit central par rapport aux bandes desservies. Cependant, les administrateurs de l’organisation, soit les chefs de bandes, se réunissent dans chaque réserve par rotation. M. P a droit à l’exonération d’impôt pour son revenu d’emploi, parce que ses fonctions sont rattachées aux réserves desservies par l’organisation qui l’emploie et que son employeur réside dans une réserve.
+[42] Ces lignes directrices, ainsi que le jurisprudence, par exemple l’arrêt Bell c. Canada[21], portent sur le revenu d’emploi, mais les principes qui sont appliqués aux fins de détermination du situs d’un revenu d’emploi peuvent aussi servir à la détermination du situs d’un revenu d’entreprise.
+[43] Il ne fait aucun doute que les connaissances, le bagage et les talents de M. Kelly sont des ressources précieuses pour les Premières nations. Cependant, bien que ses activités professionnelles soient certainement inestimables pour les Premières nations et bien qu’il ait effectué son travail principalement au bénéfice de personnes et d’organisations situées dans des réserves, pour défendre les traditions et les coutumes indiennes, s’ensuit‑il nécessairement que son revenu tiré de ses activités constitue un « bien meuble [de M. Kelly] situé sur une réserve », au sens du paragraphe 87(1) de la Loi sur les Indiens?
+[44] Les clients de M. Kelly, c’est‑à‑dire les personnes dont il tirait le revenu en cause, habitaient dans des réserves. Les clients étaient des réserves, des bandes, des chefs indiens, des institutions, des organisations et des groupes. Son travail est important pour la vie économique et culturelle des collectivités des Premières nations. Cependant, M. Kelly ne passait dans les réserves qu’entre 15 p. 100 et 30 p. 100 de son temps, et sans doute guère plus de 15 p. 100. Il effectuait la plus grande partie de son travail chez lui à Winnipeg.
+[45] Selon l’avocat de l’appelant, la jurisprudence et la politique administrative de l’ARC appuient la thèse de M. Kelly, selon laquelle son revenu d’entreprise était situé dans une réserve. Il s’est référé à l'affaire Pete[22]: un Indien au sens de la Loi sur les Indiens, exerçant l'activité de consultant; il connaissait bien les questions indiennes et le financement des activités indiennes, il apportait son aide aux Indiens inscrits et aux bandes et groupes indiens, ainsi qu’au ministère fédéral des Affaires indiennes. M. Pete vivait et résidait à Saskatoon et, comme M. Kelly, il avait un bureau chez lui. Le juge de première instance, vu le situs du débiteur, avait statué que le revenu que M. Pete recevait du ministère des Affaires indiennes n’était pas situé dans une réserve, puisque le ministère n’avait pas de bureau dans la réserve. Le revenu tiré par M. Pete de ses activités de consultant auprès de bandes indiennes était, en revanche, exonéré d’impôt selon l’article 87 de la Loi sur les Indiens. Le juge de première instance s’était fondé sur la jurisprudence Nowegijick, laquelle, selon l’avocat de l’appelant, demeure valable, selon les circonstances.
+[46] Le lieu où réside le débiteur est sans doute encore « un facteur important, voire même le seul » comme on peut le lire au paragraphe 32 de l’arrêt Williams, de soutenir l’avocat de l’appelant. La raison pour laquelle le facteur du lieu de résidence du débiteur avait été écarté, dans l’arrêt Williams, au motif qu'il n'était pas significatif, était la difficulté conceptuelle d’établir la résidence de la Couronne dans un lieu précis au Canada. En ce qui concerne M. Kelly, fait valoir son avocat, les débiteurs successifs, à savoir les Premières nations, puis les membres, les organisations et les groupes, résidaient dans les réserves. Le critère des « facteurs de rattachement » défini dans la jurisprudence Williams doit donc être appliqué à la lumière de l’objet de l’exonération fiscale prévue par l’article 87, objet qui, selon l’avocat de l’appelant, a été défini dans l’arrêt Folster comme un « effort pour préserver le mode de vie traditionnel des collectivités indiennes en protégeant les biens que les Indiens possèdent en tant qu’Indiens sur une réserve »[23].
+[47] L’avocat de l’appelant s’est référé à l’ensemble des facteurs énumérés par le juge Linden, et repris au paragraphe 36 des présents motifs, facteurs qui permettent de dire si un revenu d’entreprise est situé dans une réserve. J’examinerai chacun d’eux.
+a) Le lieu où l’entreprise exerçait ses activités
+M. Kelly consacrait une partie relativement faible de son temps à fournir ses services à un client sur le territoire même d’une réserve. Le temps qu’il passait à se rendre dans une réserve et à en revenir n’était pas du temps passé dans une réserve. M. Kelly faisait ses recherches à Winnipeg; la majeure partie de son travail était effectuée à Winnipeg : faire des traductions, assurer la correspondance, rédiger les documents, préparer les rencontres et les exposés. Selon l’avocat de l’appelant, le fait que M. Kelly travaillait chez lui n'est pas déterminant, puisque le travail qu’il faisait chez lui faisait partie intégrante de la vie dans les réserves et qu’il y était intimement lié. Par ailleurs, d’ajouter l’avocat de l’appelant, les missions de son client ne portaient pas sur des activités concrètes, par exemple la pêche ou l’exploitation forestière. Il soutient donc qu’un poids négligeable doit être accordé à ce facteur.
+b) Le lieu où se situaient les clients de M. Kelly
+Ceux qui payaient à M. Kelly les honoraires qu’il leur facturait résidaient dans des réserves. L’appelant soutient que, compte tenu de l’objet de l’exonération fiscale tel qu’il fut résumé par le juge Linden dans l’arrêt Folster, à savoir « préserver le mode de vie traditionnel des collectivités indiennes », un poids important devrait être accordé à ce facteur.
+c) Le lieu où étaient prises les décisions
+La plupart des décisions étaient prises à Winnipeg. Selon l’avocat de l’appelant, il n’importe pas de savoir si les décisions étaient prises dans tel ou tel lieu; il ne faut donc pas accorder à ce facteur un poids considérable.
+La question de savoir si une activité, ou une partie d’une activité, peut être exercée dans un lieu ou un autre n'est pas pertinente; ce qui importe, c’est le lieu où l’activité, ou une partie importante de l’activité, est exercée concrètement.
+d) Le type d’entreprise et la nature du travail
+C’est là sans doute le facteur qui va le plus dans le sens de la thèse de l’appelant.
+Les activités de M. Kelly se donnait consistaient à contribuer à la préservation du mode de vie traditionnel des Premières nations et de leurs collectivités et, comme je l’ai dit auparavant, il contribuait d’une manière non négligeable à la vie des réserves. On ne saurait faire abstraction du fait que M. Kelly a pu avoir des clients qui n’étaient pas rattachés à une réserve, mais cela ne change rien à la nature de son activité globale.
+e) Le lieu du paiement
+Selon l’avocat de l’appelant, aucun poids ne doit être accordé à ce facteur, puisque sa pertinence est discutable, étant donné qu’il ne favorise pas l'accomplissement de l’objet de l’article 87 de la Loi sur les Indiens.
+f) La mesure dans laquelle l’entreprise participait au commerce général
+La nature particulière des activités de M. Kelly, et des services qu’il fournissait, de soutenir son avocat, est telle qu’il s’agissait d’activités extérieures au commerce général. L’avocat de l’appelant soutient que son client n’était pas en concurrence avec d’autres personnes dans le commerce général. Par ses interventions, il préservait l’intégrité traditionnelle, sociale et culturelle de la vie des réserves, et défendait et enrichissait le mode de vie traditionnel dans les réserves; elles constituaient donc un avantage pour les collectivités autochtones tout entières, de telle sorte que l’article 87 de la Loi sur les Indiens est applicable.
+g) Le lieu de l’établissement stable de l’entreprise et le lieu où étaient conservés les comptes et registres
+Selon l’avocat de M. Kelly, ce facteur a également peu d'importance en l'espèce car il n'est pas susceptible de favoriser l’objet de l’exonération fiscale. Des facteurs comme celui‑ci ne devraient pas l’emporter sur les facteurs de rattachement véritablement pertinents qui militent en faveur de la thèse défendue par M. Kelly.
+h) Le lieu de résidence du propriétaire de l’entreprise
+Comme pour g) ci‑dessus, l’avocat de l’appelant minimise l'importance de ce facteur quant à la situation globale de celui-ci. Ce facteur n’est pas non plus de nature, en l'espèce, à favoriser l’objet de l’exonération fiscale.
+Selon l’avocat de l’appelant, compte tenu de la qualification, de la compétence et de l’expérience exceptionnelles de M. Kelly, et vu sa connaissance et sa compréhension intimes de la culture, de l’histoire, des traditions, des coutumes et des cérémonies de la Nation Anishinaabe, il n’y a guère de doute que le revenu d’entreprise qu’il tire de ses activités est un bien qu’il possède en tant qu’Indien. Par conséquent, dit‑il, compte tenu de tous les « facteurs de rattachement » relevés au regard d’un revenu d’entreprise, et compte tenu du poids qu’il convient d’accorder à chacun d’eux, et si l’on garde à l’esprit l’objet de l’exonération fiscale prévue par l’article 87 de la Loi sur les Indiens, alors le revenu d’entreprise de M. Kelly doit être protégé, pour éviter qu’il soit porté atteinte à un bien détenu par un Indien en tant qu’Indien, car les services donnant lieu à ce bien faisaient [traduction] « partie intégrante de la vie des réserves » et étaient [traduction] « intimement liés » à cette vie.
+Il est soutenu que, si au lieu d’être un consultant engagé en vertu d’un contrat d’entreprise, M. Kelly avait été, en vertu d’un contrat de louage de services, employé par les Premières nations et leurs chefs, leurs membres, leurs institutions, leurs organisations et leurs groupes auxquels il fournissait ses services, l’ARC aurait probablement exonéré son revenu en vertu de la Ligne directrice no 4. Il est soutenu que la Ligne directrice no 4 de l’ARC reconnaît explicitement qu’une importance appréciable doit être accordée à la nature des tâches accomplies en tant qu’employé par un Indien inscrit lorsqu’elles sont accomplies en rapport avec les activités non commerciales de l’employeur, exercées exclusivement à l’avantage d’Indiens qui, le plus souvent, vivent dans des réserves. Comme M. Kelly était à son compte et que ses activités étaient de nature non commerciale, et qu’elles étaient exercées exclusivement à l’avantage d’Indiens qui le plus souvent vivent dans des réserves, il s’ensuit qu’un poids important doit être accordé à la nature des services qu’il fournissait. Selon l’avocat de l’appelant, la Ligne directrice no 4 reconnaît implicitement que les rigoureuses conditions qui font qu’un Indien inscrit doit vivre dans une réserve et que toutes ses tâches ou activités doivent être accomplies ou exercées dans la réserve sont des conditions arbitraires et déraisonnables aux fins de l’application de l’article 87 de la Loi sur les Indiens. Par conséquent, on ne doit accorder que peu d'importance au fait que M. Kelly ne vivait pas dans une réserve et qu’il exerçait la plupart de ses activités en dehors des réserves.
+[48] Malheureusement pour l’appelant, il m’est impossible de retenir sa thèse selon laquelle que son revenu d’entreprise était situé dans une réserve.
+[49] L’objet de l’article 87 de la Loi sur les Indiens, comme on l’a vu plus haut, est la préservation du mode de vie traditionnel des collectivités indiennes par la protection des biens détenus par les Indiens en tant qu’Indiens dans une réserve, de sorte que l’État ou les créanciers ne puissent saisir leurs terres ou porter atteinte à l’utilisation de leurs terres. Dans l’arrêt Union of New Brunswick Indians c. Nouveau‑Brunswick (Ministre des Finances)[24], la juge McLaughlin (tel était alors son titre) avait relevé que l’objet des articles 87 et 89 est :
+[…] simplement de protéger des ingérences et des entraves de la société en général les droits de propriété des Indiens sur leurs terres réservées pour veiller à ce que ceux‑ci ne soient pas dépouillés de leurs droits.
+En revanche, l’article 87 ne confère pas un avantage économique général aux Indiens.
+[50] En l'espèce, la Cour est appelée à rechercher si le situs du revenu de M. Kelly, le situs de ses biens meubles, est une réserve, ou non, quels que soient les avantages que ses services ont pu procurer à ses clients. L’article 87 de la Loi sur les Indiens porte sur les « biens meubles situés sur une réserve »; il ne s’agit pas de savoir si l’intéressé habite ou non la réserve.
+[51] Certains aspects des activités de M. Kelly sont rattachés aux réserves. Ses clients sont des réserves, des bandes, des Indiens et des groupes situés dans les réserves, ainsi que des chefs de réserve. En outre, les conseils que M. Kelly, par son entreprise, dispense aux réserves et à ceux qui y résident sont inestimables et répondent au critère de la préservation du mode de vie traditionnel des collectivités indiennes; c’est là un rattachement que l’on ne saurait surestimer. L’avocat de l’appelant a beaucoup insisté sur l’importance de ces deux facteurs. Il m’invite à n'accorder que très peu d'importance, voire aucune, aux facteurs qui n’ont pour ainsi dire pas de rapport avec une réserve ou très peu de rapport avec la préservation du mode de vie traditionnel des collectivités indiennes, mais lesquels néanmoins influent sur les activités professionnelles de M. Kelly.
+[52] Dans une très large mesure, M. Kelly exerçait ses activités en dehors des réserves ou d’« une réserve ». Ce n'est pas dans une réserve qu’il prenait ses décisions professionnelles. Les travaux de recherche et de mise au point qu’il devait accomplir pour fournir ses conseils étaient effectués à son domicile à Winnipeg. C’est par courrier, adressé à son domicile à Winnipeg, qu’il recevait paiement pour son travail. M. Kelly conservait à Winnipeg les comptes et registres se rapportant à ses activités professionnelles. Il acceptait aussi les missions que lui confiaient des Indiens non inscrits. Ce sont là des éléments importants qui donnaient une couleur particulière aux activités de M. Kelly ainsi qu’à la manière dont il menait ses activités. Il ne fait aucun doute qu’il détient, dans son domaine d’activité, des connaissances qui contribuent énormément à préserver le mode de vie traditionnel des collectivités indiennes. Cependant, on ne saurait faire abstraction de la manière dont l’entreprise était exploitée.
+[53] Dans l’arrêt Williams, le juge Gonthier a fait la mise en garde suivante :
+... il serait dangereux de soupeser les facteurs de rattachement de manière abstraite, indépendamment de l’objet de l’exemption prévue dans la Loi sur les Indiens. Un facteur de rattachement n’est pertinent que dans la mesure où il identifie l’emplacement du bien en question aux fins de la Loi sur les Indiens. Dans des catégories particulières de cas, un facteur de rattachement peut donc avoir beaucoup plus de poids qu’un autre. On pourrait facilement perdre cette réalité de vue en soupesant les facteurs de rattachement cas par cas.[25]
+[54] M. Kelly exerçait ses activités professionnelles chez lui à Winnipeg. Son domicile à Winnipeg était le centre, la base, de ses activités professionnelles. Depuis Winnipeg, il conférait avec les nombreuses réserves et les nombreux Indiens qui faisaient appel à ses services pour que soient préservées leurs traditions. Dans cette mesure, il exerçait ses activités comme l’aurait fait tout autre expert‑conseil : il avait des connaissances spécialisées, il avait trouvé un créneau qui lui permettait de les mettre à profit et il offrait et fournissait ses services à ceux qui pouvaient tirer parti de ses conseils, et il facturait à ses clients les services qu’il leur avait fournis. Il exerçait son activité comme tout autre entrepreneur canadien dans le commerce général.
+[55] J’ai pris note des observations faites par les juges Rothstein, Evans et Malone, de la Cour d’appel fédérale, dans l’arrêt Shilling c. M.R.N.[26] :
+42 […] l’alinéa 87(1)b) traite des biens personnels d’un Indien qui sont situés dans « une réserve » plutôt que dans « la réserve » de l’Indien en question. Le juge de première instance a inféré (au paragraphe 73) que les biens d’un Indien, dans quelque réserve qu’ils soient situés, sont visés par l’exemption d’impôt prévue à l’alinéa 87(1)b). Toutefois, nous ne sommes pas convaincus que le libellé de l’alinéa 87(1)b) doive être ainsi interprété, bien que nous reconnaissions que les biens personnels d’un Indien peuvent entraîner les avantages prévus à l’article 87, et ce, même si le propriétaire de ces biens ne réside pas dans une réserve, comme c’est le cas pour Mme Shilling.
+43 Dans l’arrêt Desnomie c. Canada[27], […] au paragraphe 21, la Cour a exprimé des doutes au sujet de la question de savoir si l’article 87 s’applique aux biens personnels situés dans une autre réserve que celle du contribuable. Ces doutes sont renforcés par un passage de l’arrêt Leonard v. R. in Right of British Columbia (1984), 52 B.C.L.R. 389 (C.A.), à la page 395, où le juge Macfarlane semble avoir adopté l’approche plus restrictive en ce qui concerne la portée de l’article 87 :
+[traduction] Il est raisonnable d’interpréter l’article en disant qu’une exemption de taxe sur un bien personnel d’un Indien sera restreinte à l’endroit où le possesseur de ce bien est censé l’avoir en sa possession, c’est‑à‑dire sur les terres qu’un Indien occupe en tant qu’Indien, la réserve. [« La » non souligné dans l’original.]
+[56] Ces observations donnent à penser que les biens meubles d’un contribuable doivent être rattachés à une réserve en particulier, que l’Indien concerné habite ou non la réserve. Aucune preuve n’a été produite rattachant les biens meubles de M. Kelly à une réserve en particulier.
+[57] Il m’est impossible de conclure que le revenu tiré par M. Kelly de son entreprise bénéficie de l’exonération prévue par l’article 87 de la Loi sur les Indiens, ou que son revenu d’entreprise faisait partie des droits dont jouissent les Indiens en tant qu’Indiens sur une réserve. Il n’y a pas de lien entre le revenu d’entreprise reçu par M. Kelly et l’occupation, par lui personnellement, de terres d’une réserve. J’accorde une certaine importance au fait que ses clients étaient des réserves ou des personnes habitant des réserves, et une réelle importance aux services qu’il leur fournissait, mais il m’est impossible de conclure que la source du revenu de M. Kelly était une réserve. Une fois que le bien, c’est‑à‑dire la somme d’argent payée à M. Kelly pour ses services, quittait une réserve, ce bien entrait dans l’économie hors réserve. Une fois reçus par M. Kelly, ses honoraires cessaient d’avoir un quelconque rapport avec une réserve. Les facteurs tendant à établir que le situs du revenu de M. Kelly n’était pas une réserve l’emportent sur les facteurs susceptibles d’établir un lien avec une réserve.
+[58] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 14e jour de juillet 2009.
+François Brunet, réviseur
+Annexe A
+LISTE RECONSTITUÉE, D’APRÈS LES DOSSIERS DISPONIBLES, DES ENDROITS ET DES DATES OÙ M. KELLY FOURNISSAIT DES SERVICES DANS LES RÉSERVES
+Date(s)
+Bénéficiaire des services
+Nom de la réserve
+Jour(s)
+1er mars 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+2 mars 1994
+Première nation de Nickickousemenecanning
+Réserve de Nickickousemenecanning
+1
+18 avril 1994
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+1
+3 mai 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+11 mai 1994
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+1
+6-11 juin 1994
+Chefs de l’Ontario
+Réserve de Tyendenega
+6
+29 juillet 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+4-5 août 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+2
+8-11 août 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+3
+19 août 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+6 septembre 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+7-8 septembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+2
+15 septembre 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+20-22 septembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+3
+23 septembre 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+26 septembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+4-6 octobre 1994
+Grand Council Treaty no 3
+Réserve de Eagle Lake
+3
+7 octobre 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+29 octobre 1994
+Première nation de Wauzhushk Onigum
+Réserve de Wauzhushk Onigum
+1
+16 novembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+30 novembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+1er décembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+15 décembre 1994
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+10 mars 1995
+Première nation de Fort William
+Réserve de Fort William
+1
+6 avril 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+18 avril 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+24 avril 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+26 avril 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+4 mai 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+7-10 mai 1995
+Première nation de Fort William
+Réserve de Fort William
+4
+17-18 mai 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+2
+23 mai 1995
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+31 mai 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+12 juin 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+15-16 juin 1995
+Première nation de Fort William
+Réserve de Fort William
+2
+27 juin 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+4 juillet 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+5 juillet 1995
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+12 juillet 1995
+Première nation de Grassy Narrows
+Réserve de Grassy Narrows
+1
+13 juillet 1995
+Première nation de Big Grassy
+Réserve de Big Grassy
+1
+17-18 août 1995
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+23 août 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+12-15 septembre 1995
+Première nation de Fort William
+Réserve de Fort William
+4
+28 septembre 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+29 septembre 1995
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+11-12 octobre 1995
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+24 octobre 1995
+Première nation de Fort William
+Réserve de Fort William
+1
+9 novembre 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+1er décembre 1995
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+5 décembre 1995
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+7 décembre 1995
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+21-22 janvier 1996
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+2
+25 janvier 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+29 février 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+4 mars 1996
+Première nation d’Iskatewizaagegan no 39
+Réserve d’Iskatewizaagegan
+1
+11-14 mars 1996
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+4
+20 mars 1996
+Première nation de Fort William
+Réserve de Fort William
+1
+27-28 mars 1996
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+2
+3 avril 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+10-12 avril 1996
+Première nation de Fort William
+Réserve de Fort William
+3
+22 avril 1996
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+29 avril 1996
+Première nation de Whitefish Bay
+Réserve de Whitefish Bay
+1
+30 avril 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+1er mai 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+21 mai 1996
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+5-6 juin 1996
+Première nation de Naotkamegwanning (Whitefish Bay)
+Réserve de Whitefish Bay
+2
+7 juin 1996
+Comité consultatif des chefs de Kenora – Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+1
+17-18 juin 1996
+Ojibways d’Onigaming
+Réserve de Buffalo Point
+2
+25 juin 1996
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+21-23 juillet 1996
+Première nation de Naotkamegwanning (Whitefish Bay)
+Réserve de Whitefish Bay
+3
+8 octobre 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+13 octobre 1996
+Anishinaabeg de Kabapikotawangag
+Réserve de l’Angle nord-ouest no 37
+1
+15 octobre 1996
+Anishinaabeg de Kabapikotawangag
+Réserve de l’Angle nord-ouest no 37
+1
+17 octobre 1996
+Première nation de Naotkamegwanning (Whitefish Bay)
+Réserve de Whitefish Bay
+1
+17 octobre 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+23-24 octobre 1996
+Première nation de Naotkamegwanning (Whitefish Bay)
+Réserve de Whitefish Bay
+2
+24 octobre 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+29 novembre 1996
+Anishinaabeg de Kabapikotawangag
+Réserve de Big Island
+1
+Novembre 1996
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+7 décembre 1996
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+7-8 janvier 1997
+Anishinaabeg de Kabapikotawangag
+Réserve de Wauzhushk Onigum
+2
+15 janvier 1997
+Anishinaabeg de Kabapikotawangag
+Réserve d’Onigaming
+1
+22-23 janvier 1997
+Anishinaabeg de Kabapikotawangag
+Réserve de Wauzhushk Onigum
+2
+Janvier 1997
+Comité consultatif des chefs de Kenora
+Réserve de Rat Portage
+1
+11 février 1997
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+12 février 1997
+Anishinaabeg de Kabapikotawangag
+Réserve de Big Island
+1
+22-23 avril 1997
+Grand Council Treaty no 3
+Réserve de Manitou Rapids
+2
+Avril 1997
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+Avril 1997
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+9 mai 1997
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+20-22 mai 1997
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+3
+30-31 juillet 1997
+Grand Council Treaty no 3
+Réserve de Manitou Rapids
+2
+13-14 août 1997
+Anishinaabeg de Kabapikotawangag
+Réserve de Whitefish Bay
+2
+18 août 1997
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+1
+27 août 1997
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+8 septembre 1997
+Anishinaabeg de Kabapikotawangag
+Réserve de l’Angle nord-ouest no 37
+1
+11 septembre 1997
+Anishinaabeg de Kabapikotawangag
+Réserve d’Onigaming
+1
+1er-3 octobre 1997
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+3
+6-8 octobre 1997
+Anishinaabeg de Kabapikotawangag
+Réserve de l’Angle nord-ouest no 37
+3
+5-7 novembre 1997
+Anishinaabeg de Kabapikotawangag
+Réserve d’Onigaming
+3
+27 novembre 1997
+Comité consultatif des chefs de Kenora
+Réserve de Wauzhushk Onigum
+1
+13-14 janvier 1998
+Anishinaabeg de Kabapikotawangag
+Réserve de Big Grassy
+2
+20-24 janvier 1998
+Mushua Innu
+Davis Inlet
+5
+27-29 janvier 1998
+Grand Council Treaty no 3
+Réserve de Manitou Rapids
+3
+18 février 1998
+Grand Council Treaty no 3
+Réserve de Whitefish Bay
+1
+6-8 avril 1998
+Assemblée des Premières nations (FIC)
+Réserve d’Eskasoni
+3
+25-27 mai 1998
+Grand Council Treaty no 3
+Réserve de Grassy Narrows
+3
+28 mai 1998
+Anishinaabeg de Kabapikotawangag
+Réserve d’Onigaming
+1
+11 juin 1998
+Anishinaabeg de Kabapikotawangag
+Réserve de Big Grassy
+1
+14-18 juin 1998
+Grand Council Treaty no 3
+Réserve de Dalles
+5
+4-6 octobre 1998
+Assemblée des Premières nations (FIC)
+Réserve d’Onigaming
+3
+29-30 juin 1999
+Assemblée des Premières nations (FIC)
+Réserve de Garden River (SSM)
+2
+10-12 mai 2000
+Groupe de guérison Nimishomis-Nokomis
+Réserve d’Onigaming
+3
+13-15 juin 2000
+Chefs de l’Ontario
+Réserve de Chouchiching
+3
+21 juin 2000
+Groupe de guérison Nimishomis-Nokomis
+Réserve de Shoal Lake
+1
+22 juin 2000
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+5-7 juillet 2000
+Ojibways d’Onigaming
+Réserve d’Onigaming
+3
+29-30 août 2000
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+31 août 2000
+Groupe de guérison Nimishomis-Nokomis
+Réserve de Shoal Lake no 39
+1
+23-28 septembre 2000
+Chefs de l’Ontario
+Réserve de Garden River
+6
+8-10 octobre 2000
+Ojibways d’Onigaming
+Réserve d’Onigaming
+3
+16-21 octobre 2000
+Ojibways d’Onigaming
+Réserve d’Onigaming
+6
+4 décembre 2000
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+1
+15-17 janvier 2001
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+3
+22-25 janvier 2001
+Grand Council Treaty no 3
+Réserve de Big Grassy
+4
+26 janvier 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+6 février 2001
+Grand Council Treaty no 3
+Réserve de Shoal Lake
+1
+1er-2 mars 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+16-17 mai 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+30-31 mai 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+1er juin 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+4 juin 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+12-13 juin 2001
+Grand Council Treaty no 3
+Réserve de Dalles
+2
+27-28 juin 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+9-11 juillet 2001
+Grand Council Treaty no 3
+Réserve de Dalles
+3
+12 juillet 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+13-14 août 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+24 août 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+17-19 septembre 2001
+Grand Council Treaty no 3
+Réserve de Nickickousemenecanning
+3
+20 septembre 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+25-27 septembre 2001
+Grand Council Treaty no 3
+Réserve de Eagle Lake
+3
+22-25 octobre 2001
+Grand Council Treaty no 3
+Réserve de Eagle Lake
+4
+12-13 décembre 2001
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+7-10 janvier 2002
+Chefs de l’Ontario
+Réserve de Fort William
+4
+21 janvier 2002
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+4-7 février 2002
+Grand Council Treaty no 3
+Réserve de Couchiching
+4
+11-13 février 2002
+Grand Council Treaty no 3
+Réserve de Couchiching
+3
+17-21 février 2002
+Ojibways d’Onigaming
+Réserve d’Onigaming
+5
+14-15 mai 2002
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+19-20 juin 2002
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+1
+25-26 juin 2002
+Grand Council Treaty no 3
+Réserve de Wauzhushk Onigum
+2
+14-15 mai 2002
+Ojibways d’Onigaming
+Réserve d’Onigaming
+2
+23-25 juillet 2002
+Grand Council Treaty no 3
+Réserve de Stangecoming
+3
+5-8 août 2002
+Nation Nishnawbe-Aski
+Réserve de Chapleau Ojibway
+4
+10 août 2002
+Grand Council Treaty no 3
+Réserve de Fort William
+1
+14 août 2002
+Grand Council Treaty no 3
+Réserve de Whitefish Bay
+1
+22-23 août 2002
+Groupe de guérison Nimishomis-Nokomis
+Réserve de Shoal Lake
+2
+12 septembre 2002
+Grand Council Treaty no 3
+Réserve de Dalles
+1
+7-8 octobre 2002
+Groupe de guérison Nimishomis-Nokomis
+Réserve de Wauzhushk Onigum
+2
+29 octobre 2002
+Ojibways d’Onigaming
+Réserve d’Onigaming
+1
+25-27 février 2003
+Première nation de Rolling River
+Réserve de Rolling River
+3
+11-13 mars 2003
+Première nation de Wikwemikong
+Réserve de Six Nations
+3
+18-20 mars 2003
+Conseil des ressources pédagogiques des Premières nations du Manitoba
+Réserve d’Onigaming
+3
+23-24 avril 2003
+Groupe de guérison Nimishomis-Nokomis
+Réserve de Wauzhushk Onigum
+2
+28 mai 2003
+Conseil des ressources pédagogiques des Premières nations du Manitoba
+Réserve de Manitou Rapids
+1
+23-24 septembre 2003
+Groupe de guérison Nimishomis-Nokomis
+Réserve de Eagle Lake
+2
+RÉFÉRENCE : 2009 CCI 189
+N° DU DOSSIER DE LA COUR : 2005-1710(IT)G
+INTITULÉ : FRED KELLY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 24 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 7 avril 2009
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Patrick S. Riley et Me Brian D. Sexton
+Avocat de l’intimée :
+Me Gérald L. Chartier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Patrick S. Riley et Brian D. Sexton
+Cabinet : Taylor McCaffrey
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans son avis d’appel, M. Kelly avançait un argument subsidiaire selon lequel l’application de l’impôt à son revenu est contraire à l’esprit et à l'objet de la Promesse du Traité no 3 et constitue une violation des droits qu'il tire du Traité no 3. M. Kelly a renoncé à ce moyen avant le procès. Le traité appelé Traité no 3 est un traité conclu entre la Couronne et la tribu Saulteaux des Indiens Ojibways et portant sur certaines terres situées au Manitoba et en Ontario (les terres du Traité no 3). Le Traité no 3 est appelé Traité de l’Angle nord-ouest.
+[2] Après accord de toutes les parties, les motifs se rapportant aux présents appels ont été rédigés après la décision La Reine c. Margaret McKay, 2009 CAF 43, rendue le 12 février 2009 par la Cour d’appel fédérale.
+[3] [1983] 1 R.C.S. 29; voir aussi la décision Pete v. M.N.R., 91 DTC 204 (CCI).
+[4] [1992] 1 R.C.S. 877.
+[5] Supra, paragraphe 32.
+[6] Arrêt Williams, supra, paragraphe 37.
+[7] Paragraphe 16.
+[8] Paragraphes 18 et 19.
+[9] [1990] 2 R.C.S. 85, 131.
+[10] Supra, 133.
+[11] [1997] 3 C.F. 269 (CAF).
+[12] Paragraphe 14.
+[13] Paragraphe 16.
+[14] Paragraphe 16.
+[15] [1998] 2 C.T.C. 403, (1998), 52 DTC 6238, 6239 et 6240 (CAF).
+[16] Ibidem, page 6240.
+[17] (1998), 52 DTC 6084 (CAF).
+[18] Ibidem, page 6087; voir aussi Bell v. Canada, [2000] 3 C.T.C. 181 (CAF), qui concerne le situs d’un revenu d’emploi, Cleary c. R., 2004 CCI 711, qui concerne le situs d’un revenu de société, Giguere c. R., 2005 CCI 257, et Desnomie c. Canada, (CAF) [2000] A.C.F. no 528 (QL), paragraphes 7 et 12, qui concerne le situs d’un revenu d’entreprise.
+[19] Arrêt Southwind, supra, paragraphe 14.
+[20] [2001] A.C.F. no 1168 (CAF), paragraphe 46 (autorisation de pourvoi devant la C.S.C. refusée).
+[21] [2000] A.C.F. no 680 (CAF).
+[22] Supra, note 3.
+[23] Supra, paragraphe 14.
+[24] [1998] 1 R.C.S. 1161, paragraphe 38.
+[25] Supra, paragraphe 35.
+[26] [2001] 4 C.F. 364, paragraphes 42 et 43.
+[27] Les motifs exposés par la Cour d’appel fédérale dans l’arrêt Desnomie ont été rédigés par le juge Rothstein (son titre à l’époque). La version française de la Loi sur les Indiens emploie les mots « une réserve », non « la réserve ».

@@ -1,0 +1,180 @@
+---
+title: "Zhu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100603/index.do"
+last_modified: "2015-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 16"
+citation2: ""
+neutral_citation: "2015 TCC 16"
+decision_date: "2015-01-20"
+language: "en"
+item_id: "100603"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2797
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:32:51.824000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5bd9d1900e3b8886a34a4a180a1e1e3dbec8865da9e0fa81b3dbbdcd0eb47aaa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zhu v. The Queen
+
+- Citation: 2015 TCC 16
+- Decision date: 2015-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2797, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-20
+Neutral citation
+2015 TCC 16
+File numbers
+2012-2967(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2967(IT)G
+BETWEEN:
+BING ZHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 3, 2014 at Toronto, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Diana Aird
+JUDGMENT The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 20th day of January 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 16
+Date: 20150120
+Docket: 2012-2967(IT)G
+BETWEEN:
+BING ZHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT Woods J. [1] This appeal under the Income Tax Act concerns losses that the appellant, Bing Zhu, incurred from selling shares that were acquired on the exercise of employee stock options. The question is whether the losses, which are $1,247,657 in total, are deductible against income arising in the same year, including income from the exercise of the options.
+[2] In the 2008 taxation year, Mr. Zhu was assessed on the basis that he had employment income in the amount of $1,667,070 resulting from the exercise of stock options. The Minister also allowed a deduction for one-half this amount pursuant to paragraph 110(1)(d) of the Act.
+[3] Mr. Zhu was also denied a deduction for losses that were incurred when the shares were subsequently sold. The Minister took the view that the losses were on capital account and could not be deducted against other income, including the employment income from the exercise of the options.
+[4] Mr. Zhu, who represented himself at the hearing, submits that the losses should be deductible. First, he suggests that it is unfair and inequitable to treat the income and losses differently. In addition, he submits that the losses were trading losses and not capital losses.
+[5] With respect to the argument that the losses were not capital losses, Mr. Zhu submits that he was a trader with respect to these shares. He points to the fact that he was Chief Financial Officer and a director of his employer, Canadian Solar Inc. (CSI), and he was involved in the listing of the common shares of CSI on NASDAQ. He submits that he utilized specialized knowledge gained from this employment with a view to quickly selling the shares at a profit. He submits that his plan was foiled by the unexpected global financial crisis which resulted in the shares being sold at a loss.
+[6] The Crown disagrees that Mr. Zhu held the shares as a trading asset. However, the Crown also took the view that the losses should be disallowed in any event because Mr. Zhu was a non-resident of Canada throughout the time that the shares were owned and the losses were not connected with a business carried on in Canada.
+Background facts [7] Certain facts and issues are reproduced from an Agreed Statement of Facts and Issues that was filed with the Court.
+1. The appellant was the CFO of Canadian Solar Inc. (“CSI”) from 2005 to June 6, 2008.
+2. Effective June 6, 2008, the appellant resigned from CSI.
+3. After June 6, 2008, the appellant ceased to be a resident of Canada for income tax purposes.
+4. During his employment with CSI, the appellant was granted the option to purchase 116,000 shares.
+5. The option to purchase the shares expired 90 days after the appellant ceased to be employed by CSI.
+6. The appellant exercised his option to purchase shares in 2008.
+7. When the appellant exercised his options, the exercise price was $2.12 US/share.
+8. On May 19, 2008, he purchased and immediately sold 5,100 shares.
+9. On September 4, 2008, he purchased 53,150 shares. The appellant sold those shares in November 2008.
+10. On September 4, 2008, CSI shares were trading at in and around $27.55 US/share.
+11. The appellant sold the 53,150 shares in two transactions:
+(i) On November 17, 2008, he sold 25,000 shares at a price of $5.9065 US/share;
+(ii) On November 18, 2008, he sold 28,150 shares at a price of $5.3658 US/share.
+12. The sole issue to be determined is whether for the purpose of computing his Canadian income tax for 2008, the appellant is entitled to deduct a loss of $1,247,657.44 in respect of the CSI shares he sold in November.
+Summary of conclusion [8] The conclusion that I have reached is that the losses cannot be deducted against other types of income, regardless of whether they are held on business or capital account.
+[9] First, this Court does not have the authority to give relief simply on grounds of fairness or equity. This is a matter for Parliament, not the Courts.
+[10] Second, if the shares are held on capital account, the Act does not permit the losses to be deducted against other types of income.
+[11] Finally, if the losses are business losses, they may not be deducted because Mr. Zhu was a non‑resident of Canada and the losses did not arise from a business carried on by him in Canada.
+[12] In light of these conclusions, it is not necessary to decide whether the shares were held on capital or business account. I do not propose to discuss this issue.
+Relief on grounds of fairness [13] Mr. Zhu submits that it is unfair to give different tax treatment to the income from the exercise of the options and the losses from the disposition of the shares. Therefore, he submits that the losses should be deductible.
+[14] It is understandable that Mr. Zhu would take this position, but the Court simply has no authority to grant relief on this basis. In an authority from the Federal Court of Appeal which is binding on this Court, Chaya v The Queen, 2004 FCA 327, Rothstein J.A. (as he then was) stated:
+[4] The applicant says that the law is unfair and he asks the Court to make an exception for him. However the Court does not have that power. The Court must take the statute as it finds it. It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.
+Capital losses not deductible against other income [15] If the losses are capital losses, they may not be deducted against other income. I do not propose to discuss this further as Mr. Zhu did not take issue with it. The relevant provision is section 3 of the Act.
+Business losses must be from a Canadian business [16] Mr. Zhu submits that the losses are business losses and therefore the restriction on the deduction of capital losses does not apply.
+[17] The problem with this submission is that Mr. Zhu was not a resident of Canada throughout the period that the shares were owned. In this case, a business loss may only be deducted if it is from a business that the taxpayer carries on in Canada.
+[18] The relevant provisions are sections 114 and 115 of the Act.
+[19] Section 114 applies to individuals like Mr. Zhu who were resident in Canada for part of a taxation year and non-resident for another part. In general, the effect of section 114 is to apply the relevant resident and non-resident provisions of the Act to the particular parts of the year that correspond with residence.
+[20] Mr. Zhu was a non-resident of Canada throughout the period that the shares were owned. The shares were acquired on September 4, 2008 and were sold in November of the same year. Mr. Zhu was a non-resident of Canada after June 6, 2008.
+[21] Pursuant to paragraph 114(a)(i) of the Act, a business loss can be deducted only if it satisfies the requirements of paragraph 115(1)(c). Under this provision, a business loss may be deducted against income only if it is from a business carried on in Canada.
+[22] The relevant parts of sections 114 and 115 are set out below.
+114. Individual resident in Canada for only part of year - Notwithstanding subsection 2(2), the taxable income for a taxation year of an individual who is resident in Canada throughout part of the year and non-resident throughout another part of the year is the amount, if any, by which
+(a) the amount that would be the individual’s income for the year if the individual had no income or losses, for the part of the year throughout which the individual was non-resident, other than
+(i) income or losses described in paragraphs 115(1)(a) to (c),
+[…]
+115. (1) Non-Residents Taxable Income [earned] in Canada - For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person’s income for the year under section 3 if
+[…]
+(c) the only losses for the year referred to in paragraph 3(d) [deduction for business losses] were losses from duties of an office or employment performed by the person in Canada and businesses (other than treaty-protected businesses) carried on by the person in Canada and allowable business investment losses in respect of property any gain from the disposition of which would, because of this subsection, be included in computing the person’s taxable income earned in Canada,
+[…]
+[23] These provisions are fatal to Mr. Zhu’s claim for a deduction of business losses because it is clear that the losses are not from a business carried on in Canada.
+[24] The evidence reveals that the losses incurred on the sale of the CSI shares did not have a source in Canada. According to Mr. Zhu’s testimony, he lived in China throughout the period that the shares were owned, and he used a broker in the United States for the sale. Mr. Zhu acknowledges that he had no business activity in Canada in relation to the losses.
+[25] Accordingly, if the losses are business losses, they may not be deducted against other income.
+[26] This is sufficient to dispose of this appeal, but in the section below, I would mention some matters concerning procedure.
+Procedural matters [27] First, Mr. Zhu submits that the Crown has taken an inconsistent position with respect to the introduction of new evidence in written submissions after the hearing. In particular, he submits that the Crown objects to new evidence being introduced and yet the Crown introduced new documents in its own written submissions.
+[28] The problem with this submission is that the Crown did not introduce new evidence after the hearing. The new documents provided by the Crown were judicial decisions and not evidence. There is nothing wrong with this.
+[29] Second, I would comment concerning Mr. Zhu’s residence. Mr. Zhu filed an income tax return for the 2008 taxation year on the basis that he was a resident of Canada until June 6, 2008 and that he was a non-resident for the balance of the year.
+[30] At the hearing, Mr. Zhu testified that he was based in China throughout 2008, and indeed throughout the period that he worked for CSI. He submits that his circumstances did not change during the 2008 taxation year.
+[31] If this argument is taken to its logical conclusion, it calls into question whether Mr. Zhu was a resident of Canada during the period that he was employed by CSI. It is clear that Mr. Zhu chose not to put this in issue, and it would be inappropriate for me to consider it.
+[32] The third matter concerns the Crown’s Reply, which contains some deficiencies regarding the argument concerning sections 114 and 115 of the Act. The question is whether there has been prejudice to Mr. Zhu as a result. Neither party raised this at the hearing.
+[33] The Crown’s argument concerning sections 114 and 115 is mentioned in the Reply as a ground relied on, but it was not listed as an issue per se. It is clear that this argument is a different issue than the only stated issue which is whether the shares are held on income or capital account.
+[34] A further problem with the Reply is that it contains an incorrect reference to the applicable paragraph in section 115. The Reply refers to subparagraph 115(1)(a)(ii) which deals with income. The correct reference is paragraph 115(1)(c) which deals with losses. I would mention that the Crown’s written submissions provided at the hearing did provide the correct reference, but this is not a complete answer.
+[35] If Mr. Zhu had been represented by knowledgeable counsel, the deficiencies with the Reply would have been minor and likely would not give rise to prejudice. However, Mr. Zhu was self-represented. Mr. Zhu appears to be an intelligent and sophisticated businessman, but he is not a lawyer or an expert in Canadian tax law.
+[36] When the circumstances are viewed as a whole, I am satisfied that there has been no prejudice to Mr. Zhu.
+[37] It is clear that Mr. Zhu generally understood the Crown’s position on this issue at the commencement of the hearing. He did express a concern, however, in understanding the relevant legislative provisions. In light of this, Mr. Zhu was given an opportunity to make further written submissions on this issue after the hearing. This gave him an opportunity to further study the Crown’s written submissions which did refer to the correct legislative provisions. Subsequently, Mr. Zhu did provide further written submissions. I am satisfied that any deficiencies with the Reply have not resulted in unfairness in trial procedure.
+Disposition [38] The appeal will be dismissed, but I will exercise my discretion not to award costs to the Crown in light of the deficiencies with the Reply.
+Signed at Toronto, Ontario this 20th day of January 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 16
+COURT FILE NO.:
+2012-2967(IT)G
+STYLE OF CAUSE:
+BING ZHU and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 3, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+January 20, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

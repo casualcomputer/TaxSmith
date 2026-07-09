@@ -1,0 +1,196 @@
+---
+title: "Campagna c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521268/index.do"
+last_modified: "2024-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 67"
+citation2: ""
+neutral_citation: "2024 CCI 67"
+decision_date: "2024-05-10"
+language: "fr"
+item_id: "521268"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5512
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-14T09:03:56.942000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d21f501218315ea72e81661a0284c0c7f6ccef037d3ef441ba526027d14822eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campagna c. Le Roi
+
+- Citation: 2024 CCI 67
+- Decision date: 2024-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5512, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campagna c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-10
+Référence neutre
+2024 CCI 67
+Numéro de dossier
+2021-2717(IT)G, 2022-203(IT)G, 2022-636(IT)
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-2717(IT)G
+ENTRE :
+IRENE CAMPAGNA,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+L’honorable juge David E. Graham
+ORDONNANCE
+LA COUR ORDONNE :
+La demande d’ajournement de l’appelante est rejetée.
+La demande de l’appelante pour que son appel soit instruit avec l’appel de Fernando Campagna (2022-203(IT)G) est accueillie. En conséquence, l’appel de l’appelante sera entendu devant la Cour canadienne de l’impôt, au Centre judiciaire fédéral, situé 180, rue Queen Ouest, 6e étage, Toronto (Ontario) M5V 3L6, à compter de 9 h 30, le lundi 13 mai 2024, pour une durée prévue d’un à deux jours.
+Signé à Ottawa, Canada, ce 10e jour de mai 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 7e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Dossier : 2022-203(IT)G
+ENTRE :
+FERNANDO CAMPAGNA,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+L’honorable juge David E. Graham
+ORDONNANCE
+LA COUR ORDONNE :
+1. La demande d’ajournement de l’appelant est rejetée.
+2. La demande de l’appelant pour que son appel soit instruit avec l’appel de Irene Campagna (2021-2717(IT)G) est accueillie. Les appels seront entendus conjointement devant la Cour canadienne de l’impôt, au Centre judiciaire fédéral, situé au 180, rue Queen Ouest, 6e étage, Toronto (Ontario) M5V 3L6, à compter de 9 h 30, le lundi 13 mai 2024, pour une durée prévue d’un à deux jours.
+Signé à Ottawa, Canada, ce 10e jour de mai 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 7e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Dossier : 2022-636(IT)G
+ENTRE :
+EDDY FURLAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+L’honorable juge David E. Graham
+ORDONNANCE
+LA COUR ORDONNE : la demande d’ajournement de l’appelant est rejetée.
+Signé à Ottawa, Canada, ce 10e jour de mai 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 7e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 67
+Date : 20240510
+Dossier : 2021-2717(IT)G
+ENTRE :
+IRENE CAMPAGNA,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Dossier : 2022-203(IT)G
+ET ENTRE :
+FERNANDO CAMPAGNA,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Dossier : 2022-636(IT)G
+ET ENTRE :
+EDDY FURLAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Les appels de Fernando Campagna, d’Irene Campagna et d’Eddy Furlan doivent être entendus respectivement les 13, 14 et 15 mai 2024. Les trois appels mettent en cause un programme de dons de bienfaisance connu sous le nom de Global Learning Gifting Initiative (« GLGI »).
+[2] Il semble que les Campagna et M. Furlan aient des liens, puisque Mme Campagna a tenté en mai dernier de déposer au greffe des questions et réponses préalables pour le compte de M. Furlan. Il semble également que les appelants reçoivent tous des conseils d’un dénommé Kevin Johnston.
+Demandes d’ajournement [3] Le 8 mai 2024, M. Johnston a communiqué avec le greffe pour demander un ajournement pour le compte de M. Furlan. M. Furlan a par la suite envoyé par télécopieur au greffe une lettre signée par M. Johnston demandant l’ajournement de l’audience de M. Furlan pour une période de 120 jours [traduction] « afin que la communication intégrale ait lieu ». La lettre précise que [traduction] « M. Furlan profitera de cette période pour demander des conseils juridiques à un avocat-fiscaliste et bien se préparer pour la prochaine date de l’appel à la Cour canadienne de l’impôt ».
+[4] Le même jour, les Campagna ont déposé une lettre conjointe au greffe pour demandant également l’ajournement de leurs audiences pour une période de 120 jours [traduction] « afin que la communication intégrale ait lieu ». Ils indiquent que [traduction] « [ils] profiteront de cette période pour demander des conseils juridiques à un avocat-fiscaliste et bien se préparer à la prochaine date de l’appel à la Cour canadienne de l’impôt ».
+[5] À titre de juge responsable de la gestion de l’instance pour le groupe d’appels de GLGI, j’ai déjà rendu des ordonnances fixant l’échéancier pour l’appel de M. Furlan qui énoncent les étapes devant être franchies par les parties avant l’audience. Ces étapes comprenaient l’échange de listes de documents et la possibilité pour chaque partie de procéder à des interrogatoires préalables par écrit.
+[6] J’ai rendu des ordonnances fixant l’échéancier semblables pour les appels des Campagna.
+[7] Les étapes indiquées dans les ordonnances fixant l’échéancier ont donné aux appelants amplement l’occasion d’obtenir de l’intimé la communication relative à leurs appels. S’ils n’ont pas profité de ces occasions, il est trop tard pour le faire maintenant.
+[8] En août 2023, les appelants ont tous signé des demandes d’audience conjointes, dans lesquelles ils indiquaient que leurs appels étaient en état d’être entendus. Ils connaissaient les dates des audiences depuis la fin de 2023. Il est bien trop tard pour demander une communication supplémentaire.
+[9] En outre, les documents que les Campagna prétendent vouloir semblent n’avoir aucun lien avec leurs litiges fiscaux. Leur demande consiste simplement en une liste de différents [traduction] « renseignements et communications ». Il n’est fait aucune mention des années d’imposition en cause, des dons en cause, de GLGI ou d’une quelconque opération relative à GLGI. La demande porte sur plusieurs éléments qui n’ont rien à voir avec la fiscalité et termine par une demande d’une ampleur incommensurable pour [traduction] « tous les éléments ».
+[10] La demande d’ajournement de M. Furlan ne précise pas les renseignements supplémentaires qu’il cherche à obtenir.
+[11] M. Johnston affirme que M. Furlan [traduction] « ignorait que l’Agence du revenu du Canada était représentée par un avocat dans cet appel ». Cette affirmation est ridicule. Le dossier de la Cour montre clairement que l’intimé a envoyé une lettre à M. Furlan le 20 mai 2022 pour lui dire qu’Allan Mason était responsable du dossier et lui donner les coordonnées de M. Mason. M. Mason a signé la réponse et indiqué à nouveau ses coordonnées. M. Furlan a signé une lettre commune rédigée par M. Mason avec des échéances proposées pour l’instance. La liste de documents de l’intimé contenait à nouveau le nom et les coordonnées de M. Mason. L’intimé a signifié une requête à M. Furlan, dans laquelle le nom et les coordonnées de M. Mason étaient réitérés. J’ai tenu une conférence sur la gestion de l’instance à laquelle M. Furlan et M. Mason ont tous deux participé.
+[12] En juin 2023, Rhoda Lemphers a pris le relais comme avocate de l’intimé pour l’appel de M. Furlan. M. Johnston affirme que M. Furlan ne savait pas que Rhoda Lemphers était l’avocate de l’intimé. Il s’agit là encore d’une affirmation saugrenue. Le dossier de la Cour montre clairement que l’intimé a envoyé une lettre à M. Furlan pour l’informer que Mme Lemphers était désormais responsable de l’appel et lui donner ses coordonnées. La demande conjointe de date d’audience signée par M. Furlan contenait le nom, le numéro de téléphone, l’adresse et le courriel de Mme Lemphers.
+[13] Pour les motifs exposés ci-dessus, j’estime que M. Furlan était, à tout moment, parfaitement au fait que l’intimé était représenté par un avocat et de l’identité de celui-ci. S’il souhaitait obtenir des renseignements supplémentaires, il savait clairement à qui il devait s’adresser.
+[14] De manière inexplicable, les Campagna affirment aussi qu’ils n’avaient aucun moyen d’obtenir l’information, puisqu’ils ignoraient que Rhoda Lemphers était l’avocate de l’intimé. C’est sans doute parce que Mme Lemphers n’a jamais été l’avocate de l’intimé pour les appels des Campagna. Les avocats de l’intimé dans le cadre des appels sont, et ont toujours été, Iris Kingston et Colin McArthur. Là encore, le dossier de la Cour montre que les Campagna en étaient pleinement conscients.
+[15] Les appelants indiquent également qu’ils souhaitent obtenir des ajournements afin d’embaucher des avocats. Les appelants ont eu amplement de temps pour retenir les services d’un avocat s’ils le souhaitaient. Au lieu de cela, ils semblent avoir sollicité les conseils de M. Johnston. Bien que M. Johnston ait certainement l’expérience du système judiciaire canadien[1], je me serais attendu à ce que des contribuables qui veulent vraiment de l’aide avec leurs appels sollicitent des conseils auprès d’un autre type de personne (c’est-à-dire un comptable ou un avocat).
+Conclusion [16] À la lumière de tous les motifs exposés, les demandes d’ajournement des appelants sont rejetées.
+Appels entendus conjointement [17] Les Campagna ont demandé à ce que leurs appels soient entendus conjointement sur preuve commune. J’accueillerai cette demande. Comme il n’est pas établi clairement si les Campagna s’attendent à avoir besoin d’un jour ou deux d’audience, j’ordonnerai que leurs appels soient entendus à compter du 13 mai 2024 pour une durée d’un à deux jours.
+[18] L’audience de M. Furlan sera maintenue le 15 mai 2024 comme prévu.
+Représentation [19] Je tiens à souligner que les contribuables qui procèdent selon la procédure générale de la Cour de l’impôt peuvent soit se représenter eux-mêmes, soit se faire représenter par un avocat. Comme M. Johnston n’est pas avocat, il ne peut pas représenter les appelants.
+Mise en garde concernant les arguments commerciaux pseudo-juridiques organisés [20] Les paragraphes qui suivent n’ont rien à voir avec ma décision de ne pas ajourner les appels des appelants. Je les ajoute néanmoins, car je me fais du souci pour les appelants.
+[21] Les contribuables s’appuient parfois sur des arguments absurdes brandis en ligne ou par diverses personnes. Ces arguments sont connus sous le nom d’« arguments commerciaux pseudo-juridiques organisés » (ACPO)[2]. Les personnes qui les invoquent sont appelées « plaideurs d’ACPO ». Les plaideurs d’ACPO se concentrent sur des théories du complot infondées et dépourvues de bien-fondé juridique et tentent d’entraver les procédures judiciaires par des étapes procédurales dénuées de sens.
+[22] Aucun des appelants n’a soulevé d’argument commercial pseudo-juridique organisé dans leurs avis d’appel.
+[23] En mai 2023, j’ai tenu une conférence téléphonique de gestion des instances avec M. Furlan. À aucun moment au cours de l’appel, il n’a agi de manière à suggérer qu’il était un plaideur d’ACPO.
+[24] J’ai tenu des conférences de gestion des instances semblables avec Mme Campagna en octobre 2022 et avec les Campagna en mai 2023. À aucun moment au cours de ces appels, ils n’ont agi de manière à suggérer qu’ils étaient des plaideurs d’ACPO.
+[25] Je prends la peine de rédiger ces paragraphes supplémentaires, parce que le comportement des appelants a changé. J’ai l’impression que les appelants envisagent peut-être de s’engager sur la voie d’une argumentation commerciale pseudo-juridique organisée ou encore qu’ils soient involontairement entraînés dans cette voie. Si c’est le cas, je veux les mettre en garde avant qu’il ne soit trop tard.
+[26] Voici les raisons pour lesquelles je crains qu’ils puissent s’aventurer dans cette voie désastreuse :
+a)Les prétendues demandes de communication des Campagna contiennent les expressions suivantes en très gros caractères gras : [traduction] « DEMANDE D’ACCÈS À L’INFORMATION SOUS TOUTES RÉSERVES » et « DEMANDE DE COMMUNICATION INTÉGRALE SOUS TOUTES RÉSERVES — DEUXIÈME DEMANDE ». Les plaideurs d’ACPO ont l’habitude d’exiger des choses de tiers et de faire un mauvais usage du terme juridique « sous toutes réserves ».
+b)Les prétendues demandes de communication des Campagna sont adressées à Bob Hamilton, le commissaire de l’Agence du revenu du Canada, et le menacent d’intenter une poursuite contre ce dernier s’il refuse de donner suite à la demande. Dans le même ordre d’idées, la lettre de M. Johnston relative à l’appel de M. Furlan mentionne l’envoi de deux demandes de communication au commissaire Hamilton. La transmission de demandes de toutes sortes au commissaire Hamilton est une technique courante, quoique totalement inefficace, utilisée par les plaideurs d’ACPO.
+c)Envoyer des demandes inappropriées à des tiers, puis insister pour que les appels fiscaux soient accueillis ou retardés en raison du défaut de ces tiers à répondre aux demandes, voilà le genre d’étapes procédurales dénuées de sens que les plaideurs d’ACPO utilisent pour tenter de perturber les procédures judiciaires ordinaires.
+d)Les demandes d’ajournement des appelants s’appuient indument sur la décision de la Cour suprême du Canada dans R. c. Stinchcombe[3]. Les plaideurs de l’ACPO invoquent parfois l’arrêt Stinchcombe, en dépit du fait qu’il porte sur l’obligation du ministère public de communiquer la preuve aux défendeurs dans des affaires pénales et qu’il ne s’applique pas dans le contexte fiscal.
+[27] J’ai mentionné tout ce qui précède parce que je crois qu’il était dans l’intérêt des appelants d’attirer leur attention, à mon sens, sur la situation. J’espère que mes craintes ne sont pas fondées, que les appelants n’ont pas l’intention de présenter des arguments commerciaux pseudo-juridiques organisés à l’audience et qu’ils plaideront simplement leurs appels sur le fond, comme leurs actes de procédure et leurs actions antérieures ont montré qu’ils avaient l’intention de le faire.
+Signé à Ottawa, Canada, ce 10e jour de mai 2024.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 7e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 67
+NOS DES DOSSIERS DE LA COUR :
+2021-2717(IT)G
+2022-203(IT)G
+2022-636(IT)G
+INTITULÉS :
+IRENE CAMPAGNA c. SA MAJESTÉ LE ROI
+FERNANDO CAMPAGNA c. SA MAJESTÉ LE ROI
+EDDY FURLAN c. SA MAJESTÉ LE ROI
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E Graham
+DATE DE L’ORDONNANCE :
+Le 10 mai 2024
+[1] Voir, par exemple, Paramount v. Kevin J. Johnston, 2019 ONSC 2910, et Alberta Health Services v. Johnston, 2023 ABKB 209.
+[2] Voir Meads v. Meads, 2012 ABQB 571.
+[3] [1991] 3 R.C.S. 326.

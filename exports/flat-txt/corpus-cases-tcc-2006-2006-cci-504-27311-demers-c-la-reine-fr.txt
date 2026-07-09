@@ -1,0 +1,287 @@
+Title: Demers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27311/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-504-27311-demers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-17
+
+# Demers c. La Reine
+
+- Citation: 2006 CCI 504
+- Decision date: 2006-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-17
+Référence neutre
+2006 CCI 504
+Numéro de dossier
+2004-3701(IT)G
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3701(IT)G
+ENTRE :
+PATRICE DEMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 26 avril 2006, à Québec (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelant :
+Me Éric Lewis
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est rejeté avec dépens à l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2006.
+Juge Dussault
+Référence : 2006CCI504
+Date : 20061017
+Dossier : 2004-3701(IT)G
+ENTRE :
+PATRICE DEMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 1999.
+[2] Par cette cotisation, le ministre du Revenu national (le « ministre » ) a ajouté au revenu de l'appelant un montant de 60 000 $ à l'égard de dividendes imposables de 48 000 $ versés le 23 août et le 31 décembre 1999 sur des actions de catégorie D du capital-actions de la Société Genex Communications Inc. ( « Genex » ) émises au nom de ses deux filles mineures le 3 mars 1999.
+[3] Les faits tenus pour acquis pour établir la cotisation sont énoncés aux alinéas a) à ii) du paragraphe 9 de la Réponse à l'avis d'appel. Ces alinéas se lisent comme suit :
+a) La société Genex Communications Inc. (ci-après Genex) a été constituée le 16 juin 1996 en vertu de la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C-44).
+b) Genex opère une station de radio (CHOI FM) dans la ville de Québec.
+c) L'exercice financier de Genex se termine le 31 août de chaque année.
+d) Durant la période en litige, le capital-actions autorisé de Genex était composé des catégories d'actions suivantes :
+i) Catégorie A : votantes et participantes;
+ii) Catégorie B : votantes et participantes;
+iii) Catégorie C : non votantes, non participantes, dividende non cumulatif de 4 %, non préférentiel, rachetables au gré de la société ou du détenteur au montant du capital versé;
+iv) Catégorie D : non votantes, non participantes, dividende non cumulatif.
+e) Avant le 3 mars 1999, le capital-actions émis et payé de Genex était réparti de la façon suivante :
+i) l'appelant : 50 000 actions catégorie A;
+ii) Télémédia Inc. : 10 000 actions catégorie A;
+iii) Télémédia Inc. : 5 000 actions catégorie B;
+iv) Octave Inc. : 15 000 actions catégorie B;
+v) Télémédia Inc. : 500 000 actions catégorie C;
+vi) l'appelant : 1 action catégorie D.
+f) Le 3 mars 1999, il y a eu émission des actions suivantes du capital-actions de Genex en faveur des personnes suivantes :
+i) l'appelant : 6 000 actions catégorie B;
+ii) Télémédia Inc. : 2 000 actions catégorie B;
+iii) Octave Inc. : 2 000 actions catégorie B.
+g) Le 3 mars 1999, les actionnaires de Genex ont accepté les souscriptions de Valérie Rochette Demers et Marie-Noël Rochette Demers pour chacune 1 action de catégorie D du capital-actions de Genex et ont autorisé l'émission de ces actions.
+h) Valérie Rochette Demers est née le 8 octobre 1992 et Marie-Noël Rochette Demers est née le 14 avril 1996.
+i) Le 3 mars 1999, Valérie Rochette Demers était âgée de 6 ans et Marie-Noël Rochette Demers de 2 ans.
+j) Durant la période en litige, Télémédia Inc. était une société contrôlée par monsieur Claude Beaudoin et cette dernière société était non liée à Genex.
+k) Durant la période en litige, Octave Inc. était une société contrôlée par monsieur Jean Morin et cette dernière société était non liée à Genex.
+l) Durant la période en litige, l'appelant était l'administrateur unique et le directeur général de Genex.
+m) L'appelant est le père de Valérie Rochette Demers et Marie-Noël Rochette Demers (ci-après les filles de l'appelant).
+n) Les 2 actions catégorie D du capital-actions de Genex qui ont été émises le 3 mars 1999 en faveur des filles de l'appelant l'ont été dans l'unique but de fractionner l'imposition d'une partie de la rémunération de l'appelant, à titre de directeur général de Genex, entre l'appelant et les filles de l'appelant.
+o) Le 3 mars 1999, l'appelant et sa conjointe, madame Sonia Rochette, qui est également la mère des filles de l'appelant, en leur qualité de tuteurs légaux des filles de l'appelant, concluaient une convention selon laquelle 1) l'appelant exercerait seul et au nom des filles de l'appelant tous les droits rattachés aux 2 actions mentionnées au pont [sic] n) du présent paragraphe et 2) les filles de l'appelant devaient vendre à l'appelant lesdites actions le 31 décembre 1999 pour 1 $ chacune.
+p) Contrairement à ce qui était prévu à la convention mentionnée au sous-paragraphe o) du présent paragraphe, les 2 actions catégorie D du capital-actions de Genex mentionnées au point n) du présent paragraphe ont été transférées le 2 janvier 2000 à la société 3689735 Canada Inc.
+q) La société 3689735 Canada Inc. est une société de gestion contrôlée par l'appelant.
+r) En vertu d'une entente de rémunération datée du 21 août 1997, l'appelant et Genex convenaient que l'appelant recevrait, à titre de directeur général de Genex, pour l'exercice financier de Genex du 1er septembre 1997 au 31 août 1998, une rémunération totale de 130 000 $ dont, entre autres, 60 000 $ seraient versés sous forme de salaire et 36 000 $ seraient versés sous forme de dividende sur les actions catégorie D du capital-actions de Genex.
+s) En vertu de l'entente mentionnée au point r) du présent paragraphe, la partie de la rémunération payable sous forme de dividende devait être déclarée au 31 août 1998 mais versée sous forme d'avances de 3 000 $ chacune le 1er de chaque mois.
+t) Avant l'entente de rémunération mentionnée au point r) du présent paragraphe, il n'existait aucune entente écrite de rémunération entre l'appelant et Genex relativement à ses fonctions de directeur général mais, dans les faits, l'appelant recevait, à ce titre, un salaire d'approximativement 100 000 $ par année.
+u) Au cours de l'exercice financier de Genex allant du 1er septembre 1997 au 31 août 1998, l'appelant a reçu des avances de 36 000 $ (3 000 $ par mois) de Genex et un dividende de 12 000 $ sur son action catégorie D du capital-actions de Genex.
+v) En vertu d'une entente de rémunération datée du 29 juin 1998, l'appelant et Genex convenaient que l'appelant recevrait, à titre de directeur général de Genex, pour l'exercice financier de Genex du 1er septembre 1998 au 31 août 1999, une rémunération totale de 150 000 $ dont, entre autres, 60 000 $ seraient versés sous forme de salaire et 36 000 $ seraient versés sous forme de dividende sur les actions catégorie D du capital-actions de Genex.
+w) En vertu de l'entente mentionnée au point v) du présent paragraphe, la partie de la rémunération payable sous forme de dividende devait être déclarée au 31 août 1999 mais versée sous forme d'avances de 3 000 $ chacune le 1er de chaque mois.
+x) Au cours de l'exercice financier de Genex allant du 1er septembre 1998 au 31 août 1999, l'appelant a reçu des avances de 36 000 $ (3 000 $ par mois) et Genex a déclaré un dividende total de 36 000 $ sur les actions catégorie D de son capital-actions en circulation.
+y) Le dividende mentionné au point x) du présent paragraphe a été déclaré le 28 juin 1999 et versé le 23 août 1999.
+z) En paiement du dividende de 36 000 $ mentionné au point x) du présent paragraphe, Genex a émis :
+i) un chèque de 12 000 $ au nom de l'appelant;
+ii) un chèque de 12 000 $ au nom de Valérie Rochette Demers; et
+iii) un chèque de 12 000 $ au nom de Marie-Noël Rochette Demers.
+aa) Les deux chèques de 12 000 $ émis au nom des filles de l'appelant et mentionnés aux points z)ii) et z)iii) du présent paragraphe ont été encaissés par l'appelant. L'argent provenant de cet encaissement a été déposé dans le compte de banque de l'appelant et ce dernier s'est servi de cet argent aux fins de rembourser à Genex un montant de 24 000 $ d'avances.
+bb) En vertu d'une entente de rémunération datée du 28 juin 1999, l'appelant et Genex convenaient que l'appelant recevrait, à titre de directeur général de Genex, pour l'exercice financier de Genex du 1er septembre 1999 au 31 août 2000, une rémunération totale de 134 000 $ dont, entre autres, 60 000 $ seraient versés sous forme de salaire et 36 000 $ seraient versés sous forme de dividende sur les actions catégorie D du capital-actions de Genex.
+cc) En vertu de l'entente mentionnée au point bb) du présent paragraphe, la partie de la rémunération payable sous forme de dividende devait être déclarée en partie au 31 décembre 1999 mais versée sous forme d'avances de 3 000 $ chacune le 1er de chaque mois.
+dd) Le 31 décembre 1999, l'appelant a transféré l'action catégorie D qu'il détenait alors dans le capital-actions de Genex en faveur de 3689735 Canada Inc.
+ee) Au cours de la période allant du 1er septembre 1999 au 31 décembre 1999, l'appelant a reçu des avances de 12 000 $ (3 000 $ par mois) et Genex a déclaré, le 31 décembre 1999, un dividende total de 36 000 $ sur les actions catégorie D de son capital-actions en circulation.
+ff) En paiement du dividende de 36 000 $ mentionné au point ee) du présent paragraphe, Genex a émis :
+i) un chèque de 12 000 $ au nom de 3689735 Canada Inc.;
+ii) un chèque de 12 000 $ au nom de Valérie Rochette Demers; et
+iii) un chèque de 12 000 $ au nom de Marie-Noël Rochette Demers.
+gg) Les deux chèques de 12 000 $ émis au nom des filles de l'appelant et mentionnés aux points ff)ii) et ff)iii) du présent paragraphe ont été encaissés par l'appelant. L'argent provenant de cet encaissement a été déposé dans le compte de banque de l'appelant et ce dernier s'est servi de cet argent aux fins de rembourser à Genex un montant de 24 000 $ d'avances.
+hh) Le montant total des dividendes de 72 000 $ versés par Genex les 23 août et 31 décembre 1999 sur les actions catégorie D de son capital-actions faisait partie intégrante de la rémunération payable à l'appelant à titre de directeur général de Genex conformément aux ententes de rémunération mentionnées aux points r), v) et bb) du présent paragraphe.
+ii) La convention unanime entre les actionnaires de Genex du 31 août 1997 prévoyait, à la clause 4.1.8, que l'expression « rémunération de Demers » , aux fins de cette dernière convention, qui prévoyait, entre autres, que toute augmentation de la rémunération de l'appelant devait être approuvée par les actionnaires de Genex, « inclut tout salaire, boni et toute autre forme d'avantage (incluant l'utilisation personnelle de contrats échanges, à la valeur desdits contrats  échanges) payé en faveur de M. Demers ou de toute personne qui lui est liée ou rattachée au sens des lois fiscales canadiennes, incluant les dividendes sur les Actions catégorie "D", ajustés aux fins des lois fiscales applicables aux sociétés » .
+[4] Aux fins de l'appel, les parties ont présenté une entente sur certains faits qui se lit ainsi :
+[...]
+1. La société Genex Communications Inc. (ci-après Genex) a été constituée le 16 juin 1996 en vertu de la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C-44). (9a) de la Réponse à l'avis d'appel).
+2. Genex opère une station de radio (CHOI FM) dans la ville de Québec. (9b) de la Réponse à l'avis d'appel).
+3. L'exercice financier de Genex se termine le 31 août de chaque année. (9c) de la Réponse à l'avis d'appel).
+4. Durant la période en litige, le capital-actions autorisé de Genex était composé des catégories d'actions suivantes :
+i) Catégorie A : votantes et participantes;
+ii) Catégorie B : votantes et participantes;
+iii) Catégorie C : non votantes, non participantes, dividende non cumulatif de 4 %, non préférentiel, rachetables au gré de la société ou du détenteur au montant du capital versé;
+iv) Catérogie D : non votantes, non participantes, dividende non cumulatif. (9d) de la Réponse à l'avis d'appel).
+5. Avant le 3 mars 1999, le capital-actions émis et payé de Genex était réparti de façon suivante :
+i) l'appelant : 45 000 actions catégorie A;
+ii) Télémédia Inc. : 10 000 actions catégorie A;
+iii) Télémédia Inc. : 5 000 actions catégorie B;
+iv) Octave Inc. : 15 000 actions catégorie B;
+v) Télémédia Inc. : 500 000 actions catégorie C;
+vi) l'appelant : 1 action catégorie D. (9e) de la Réponse à l'avis d'appel sauf pour i)).
+6. Le 3 mars 1999, il y a eu émission des actions suivantes du capital-actions de Genex en faveur des personnes suivantes :
+i) l'appelant : 6 000 actions catégorie B;
+ii) Télémédia Inc. : 2 000 actions catégorie B;
+iii) Octave Inc. : 2 000 actions catégorie B; (9f) de la Réponse à l'avis d'appel).
+7. Le 3 mars 1999, les actionnaires de Genex ont accepté les souscriptions de Valérie Rochette Demers et Marie-Noël Rochette Demers pour chacune 1 action de catégorie D du capital-actions de Genex et ont autorisé l'émission de ces actions. (9g) de la Réponse à l'avis d'appel).
+8. Valérie Rochette Demers estnée le 8 octobre 1992 et Marie-Noël Rochette Demers est née le 14 avril 1996. (9h) de la Réponse à l'avis d'appel).
+9. Le 3 mars 1999, Valérie Rochette Demers était âgée de 6 ans et Marie-Noël Rochette Demers de 2 ans. (9i) de la Réponse à l'avis d'appel).
+10. Durant la période en litige, Télémédia Inc. était une société non liée à Genex. (9j) (en partie) de la Réponse à l'avis d'appel).
+11. Durant la période en litige, Octave Inc. était une société contrôlée par monsieur Jean Morin et cette dernière société était non liée à Genex. (9k) de la Réponse à l'avis d'appel).
+12. Durant la période en litige, l'appelant était l'administrateur unique et le directeur général de Genex. (9l) de la Réponse à l'avis d'appel).
+13. L'appelant est le père de Valérie Rochette Demers et Marie-Noël Rochette Demers. (9m) de la Réponse à l'avis d'appel).
+14. Au cours de l'exercice financier de Genex allant du 1er septembre 1997 au 31 août 1998, l'appelant a reçu des avances de 36 000 $ (3 000 $ par mois) de Genex et un dividende de 12 000 $ sur son action catégorie D du capital-actions de Genex. (9u) de la Réponse à l'avis d'appel).
+15. Au cours de l'exercice financier de Genex allant du 1er septembre 1998 au 31 août 1999, l'appelant a reçu des avances de 36 000 $ (3 000 $ par mois) et Genex a déclaré un dividende total de 36 000 $ sur les actions catégorie D de son capital-actions en circulation. (9x) de la Réponse à l'avis d'appel).
+16. Le dividende mentionné au point 15 a été déclaré le 28 juin 1999 et versé le 23 août 1999. (9y) de la Réponse à l'avis d'appel).
+17. En paiement du dividende de 36 000 $ mentionné au point 15 Genex a émis :
+i) une réduction du compte avances de 12 000 $;
+ii) un chèque de 12 000 $ au nom de Valérie Rochette Demers; et
+iii) un chèque de 12 000 $ au nom de Marie-Noël Rochette Demers. (9z) de la Réponse à l'avis d'appel).
+18. Le 31 décembre 1999, l'appelant a transféré l'action catégorie D qu'il détenait alors dans le capital-actions de Genex en faveur de 3689735 Canada Inc. (9dd) de la Réponse à l'avis d'appel).
+19. Au cours de la période allant du 1er septembre 1999 au 31 décembre 1999, l'appelant a reçu des avances de 12 000 $ (3 000 $ par mois) et Genex a déclaré, le 31 décembre 1999, un dividende total de 36 000 $ sur les actions catégorie D de son capital-actions en circulation. (9ee) de la Réponse à l'avis d'appel).
+20. En paiement du dividende de 36 000 $ mentionné au point 19 Genex a émis :
+i) un chèque de 12 000 $ au nom de 3689735 Canada Inc.;
+ii) un chèque de 12 000 $ au nom de Valérie Rochette Demers; et
+iii) un chèque de 12 000 $ au nom de Marie-Noël Rochette Demers. (9ff) de la Réponse à l'avis d'appel).
+21. La convention unanime entre les actionnaires de Genex du 31 août 1997 prévoyait, à la clause 4.1.8, que l'expression « rémunération de Demers » , aux fins de cette dernière convention, qui prévoyait, entre autres, que toute augmentation de la rémunération de l'appelant devait être approuvée par les actionnaires de Genex, « inclut tout salaire, boni et toute autre forme d'avantage (incluant l'utilisation personnelle de contrats  échanges, à la valeur desdits contrats  échanges) payé en faveur de M. Demers ou de toute personne qui lui est liée ou rattachée au sens des lois fiscales canadiennes, incluant les dividendes sur les Actions catégorie "D", ajustés aux fins des lois fiscales applicables aux sociétés » .
+[5] Le 21 août 1997, l'appelant signait avec Genex une première entente d'un an concernant sa rémunération comme directeur général. L'entente couvrait la période du 1er septembre 1997 au 31 août 1998 (pièce I-1). L'article 3 prévoyait ce qui suit :
+3. En contrepartie des services fournis en vertu des présentes, CHOI paiera au directeur une rémunération sous la forme suivante
+Forme de rémunération
+Montant annuel
+a. Salaire de base
+b. Appartement
+c. Automobile
+d. Dépenses automobiles
+e. Dividendes sur actions catégorie D
+f. Honoraires professionnels
+$ 60,000
+10,000
+8,000
+4,000
+36,000
+12,000
+$ 130,000
+a. Payable selon les pratiques en usage à CHOI.
+b. Conformément au bail actuellement en vigueur avec CHOI.
+c. Sous forme de contrat échange.
+d. Sur production des pièces justificatives.
+e. Déclaré au 31 août 1998, avec une avance de $3,000 le 1er de chaque mois.
+f. Payable à Rochette Demers c.a. $1,000 le 1er de chaque mois.
+[6] Le 29 juin 1998, l'appelant signait avec Genex une deuxième entente d'un an concernant sa rémunération comme directeur général, pour la période du 1er septembre 1998 au 31 août 1999 (pièce I-2). L'article 3 prévoyait ce qui suit :
+3. En contrepartie des services fournis en vertu des présentes, Genex paiera au directeur une rémunération sous la forme suivante
+Forme de rémunération
+Montant annuel
+a. Salaire de base
+b. Appartement
+c. Automobile
+d. Dépenses automobiles
+e. Dividendes sur actions catégorie D
+f. Honoraires professionnels
+g. Utilisation personnelle de c/e
+$ 60,000
+10,000
+12,000
+4,000
+36,000
+18,000
+10,000
+$ 150,000
+a. Payable selon les pratiques en usage à Genex.
+b. Conformément au bail actuellement en vigueur.
+c. Sous forme d'allocation imposable, payable selon les pratiques en usage à Genex.
+d. Sur production des pièces justificatives.
+e. Déclaré au 31 août 1999, avec une avance de $3,000 le 1er de chaque mois, un résidu de 24,000 demeure à être déclaré au 31 août 1998, et sera reportée année après année.
+f. Payable à Rochette Demers c.a. $1,500 le 1er de chaque mois.
+g. Selon les disponibilités de la station.
+[7] Une troisième entente, toujours concernant la rémunération de l'appelant comme directeur général de Genex, a été signée le 28 juin 1999, pour la période du 1er septembre 1999 au 31 août 2000 (pièce I-3). L'article 3 prévoyait ce qui suit :
+3. En contrepartie des services fournis en vertu des présentes, Genex paiera au directeur une rémunération sous la forme suivante
+Forme de rémunération
+Montant annuel
+a. Salaire de base
+b. Automobile
+c. Dépenses automobiles
+d. Dividendes sur actions catégorie D
+e. Honoraires professionnels
+f. Utilisation personnelle de c/e
+$ 60,000
+6,000
+4,000
+36,000
+18,000
+10,000
+$ 134,000
+a. Payable selon les pratiques en usage à Genex.
+b. Sous forme d'allocation imposable, payable selon les pratiques en usage à Genex.
+c. Sur production des pièces justificatives.
+d. Déclaré en partie au 31 décembre 1999, avec une avance de $3,000 le 1er de chaque mois, un résidu de 24,000 demeure à être déclaré au 31 août 2000, et sera reportée année après année.
+e. Payable à Rochette Demers c.a. $1,500 le 1er de chaque mois.
+f. Selon les disponibilités de la station.
+[8] En juillet 1996, Genex a acquis les actifs de la station de radio CHOI FM de Télémédia. L'approbation de la transaction par le Conseil de la radiodiffusion et des télécommunications canadiennes a été retardée jusqu'en septembre 1997. L'appelant, auparavant vice-président de Télémédia, était propriétaire de 60 % des actions comportant droit de vote et droit de participation (catégorie A) du capital-actions de Genex et d'une action de catégorie D ne comportant pas de droit de vote. Deux autres actionnaires, soit Télémédia et Les Entreprises Octave Inc. ( « Octave » ), se partageaient 40 % des actions comportant droit de vote et droit de participation (catégories A et B) du capital-actions de Genex. Un autre actionnaire, Les Entreprises de Radiodiffusion de la Capitale Inc. était propriétaire d'actions privilégiées ne comportant pas de droit de vote ni de droit de participation (catégorie C) du capital-actions de Genex.
+[9] Le 31 août 1997, les actionnaires signaient une convention unanime des actionnaires retirant aux administrateurs tous les pouvoirs qui leur étaient dévolus par la loi, réservant l'exercice exclusif de ces pouvoirs aux détenteurs des actions ordinaires (catégories A et B) (pièce I-4, articles 3.2 et 4). Parmi les pouvoirs que les actionnaires détenteurs d'actions ordinaires entendaient exercer eux-mêmes, on peut noter celui de procéder à toute émission d'actions ou d'autres valeurs mobilières de Genex ainsi que celui d'effectuer toute augmentation de la rémunération de l'appelant comme directeur général de Genex (pièce I-4, articles 4.1.5 et 4.1.8). La rémunération de l'appelant était également fixée à un minimum de 150 000 $ et à un maximum de 500 000 $ par année (pièce I-4, article 4.5).
+[10] Dans son témoignage, l'appelant a expliqué que les différentes ententes concernant sa rémunération représentaient une sorte de budget, d'enveloppe globale que les autres actionnaires ordinaires pouvaient contrôler grâce à la convention unanime des actionnaires (pièce I-4). Toutefois, il s'agit bien d'ententes établissant toutes les modalités de la rémunération de l'appelant. On ne peut nier que tous les actionnaires détenant des actions comportant droit de vote s'engageaient de façon unanime à verser des dividendes sur les actions de catégorie D et que des avances de 3 000 $ par mois payables à l'appelant étaient prévues pour tenir compte de ces dividendes devant être déclarés et versés plus tard.
+[11] Le 3 mars 1999, une action de catégorie D est émise en faveur de chacune des filles mineures de l'appelant pour la somme de 1 $ chacune. Selon madame Marie-Claude Poitras, agente d'évitement fiscal de l'Agence du revenu du Canada, aucun paiement n'a été effectué par les filles de l'appelant ou en leur nom et une simple écriture comptable de 2 $ a été faite au compte des dépenses de voyage de Genex. Ce fait n'a pas été contesté par l'appelant, qui a simplement affirmé que cela était possible car il ne vérifiait pas tout.
+[12] Le même jour, une convention est intervenue entre Genex et tous ses actionnaires, y compris les deux filles de l'appelant représentées par l'appelant et sa conjointe en tant que tuteurs légaux (pièce I-5). Selon cette convention les tuteurs légaux convenaient que l'appelant exercerait seul au nom de leurs filles mineures tous les droits rattachés aux actions dont elles étaient détentrices. De plus, les deux filles de l'appelant offraient de vendre à celui-ci leur action de catégorie D le 31 décembre 1999 pour un montant égal au prix de souscription. Cette offre était acceptée par l'appelant dans la même convention.
+[13] Dans son témoignage, l'appelant a admis que cette émission d'une action de catégorie D en faveur de chacune de ses filles avait été faite dans la perspective d'une planification dans le but de réduire au minimum son fardeau fiscal.
+[14] Le 23 août 1999, un dividende de 36 000 $ a été versé sur les trois actions de catégorie D du capital-actions de Genex, soit un dividende de 12 000 $ par action. Le chèque de 12 000 $ émis au nom de chacune des filles de l'appelant a été déposé à leur compte et le montant a par la suite été transféré au compte en banque de l'appelant et a servi à rembourser les avances reçues de Genex (pièces I-6 et I-7). De plus, chacune des filles de l'appelant, représentées par leur mère à titre de tutrice légale a consenti à l'appelant un prêt sans intérêt d'un montant de 12 000 $ que ce dernier pouvait rembourser par des cotisations à leur régime enregistré d'épargne-études (pièces I-8 et I-9). L'appelant a affirmé qu'il avait effectivement versé des cotisations au régime enregistré d'épargne-études de chacune de ses filles. Sa cotisation se serait élevée au montant de 15 000 $ d'après ce qu'il a indiqué lors de la vérification. Aucun document n'a été produit pour attester ce fait.
+[15] Le 31 décembre 1999, un autre dividende de 36 000 $ a été versé sur les actions de catégorie D du capital-actions de Genex. L'appelant ayant disposé le même jour de l'action de cette catégorie qu'il détenait en faveur de la société 3689735 Canada Inc., celle-ci a reçu un dividende de 12 000 $ et chacune des filles de l'appelant a reçu également un dividende de 12 000 $ sur l'action de catégorie D du capital-actions de Genex qu'elle détenait. Tout comme en août 1999, un montant de 12 000 $ a ensuite été transféré du compte en banque de chacune des filles de l'appelant au compte en banque de celui-ci, qui s'en est servi pour rembourser les avances reçues de Genex (pièces I-6 et I-7). Selon l'appelant, des prêts lui auraient également été consentis par ses filles représentées par leur mère à titre de tutrice légale, lesquels correspondaient aux sommes qu'elles lui auraient transférées. Aucun document n'a été produit à cet égard.
+[16] Le 1er janvier 2000, chacune des filles de l'appelant aurait transféré l'action de catégorie D du capital-actions de Genex qu'elle détenait à la société 3689735 Canada Inc, une société contrôlée par l'appelant (pièce I-10).
+[17] La pièce I-12 indique le détail des avances de Genex à l'appelant au cours des années. Le 30 août 1998, après le paiement d'un dividende de 12 000 $ sur l'unique action de catégorie D alors émise, détenue par l'appelant, les avances de 36 000 $ versées par Genex à l'appelant ont été réduites à 24 000 $. Du 1er septembre 1998 au 31 août 1999, un montant additionnel d'avances lui a été versé (3 000 $ x 12 mois). Le total de 60 000 $ a été réduit de 36 000 $ par le dividende versé le 23 août 1999, dont 24 000 $ ont été versés sur les deux actions émises au nom des filles de l'appelant. Le solde de 24 000 $ plus des avances additionnelles de 12 000 $ faites du 1er septembre au 31 décembre 1999 (3 000 $ x 4 mois) a été remboursé par le dividende de 36 000 $ versé le 31 décembre 1999, dont 24 000 $ ont été versés sur les deux actions émises au nom des filles de l'appelant.
+[18] L'avocat de l'appelant soutient que les ententes signées entre celui-ci et Genex ont été rédigées par l'appelant lui-même, qui n'était pas un expert en la matière, que ces ententes ne reflétaient pas nécessairement l'intention des parties, qu'elles n'avaient aucun caractère obligatoire et que le but recherché était simplement de prévoir une enveloppe budgétaire pour sa rémunération. Selon lui, même si on a utilisé le terme « rémunération » comme comprenant des dividendes sur les actions de catégorie D du capital-actions de Genex, il s'agit d'une description qui n'est pas nécessairement représentative puisqu'un dividende n'est pas versé à titre de rémunération, mais résulte simplement de la propriété des actions.
+[19] Selon l'avocat de l'appelant, les ententes prévoyaient le versement de dividendes sur les actions de catégorie D et non sur la seule action de cette catégorie détenue par l'appelant. Selon lui, il avait été prévu que l'on puisse émettre d'autres actions de catégorie D du capital-actions de Genex. L'avocat de l'appelant soutient que, malgré les avances, l'appelant n'avait aucun droit sur des dividendes qui n'avaient pas encore été déclarés, que ses filles étaient devenues actionnaires à part entière et qu'elles avaient ainsi droit aux dividendes sur l'action de catégorie D du capital-actions de Genex dont chacune était détentrice.
+[20] L'avocat de l'appelant fait valoir que le fractionnement du revenu sous forme de dividendes était une technique de planification fiscale légitime et reconnue jusqu'à la modification de la Loi par l'ajout de l'article 120.4 applicable à compter de l'année 2000.
+[21] À l'appui de ses arguments, l'avocat de l'appelant invoque plus particulièrement la décision de la Cour suprême du Canada dans l'affaire Neuman c. M.R.N., [1998] 1 R.C.S. 770. Référence est aussi faite aux décisions de la même cour dans les affaires Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622 et Singleton c. Canada, [2001] 2 R.C.S. 1046.
+[22] L'avocat de l'intimée prétend d'abord que l'émission des actions en faveur des filles de l'appelant et le rachat des actions par celui-ci dans un contrat signé le même jour était un trompe-l'oeil et qu'il n'y avait jamais eu d'intention que les filles de l'appelant deviennent et demeurent véritablement actionnaires de Genex. D'une part, il signale que les actions n'ont jamais été payées comme le requiert le paragraphe 25(3) de la Loi canadienne sur les sociétés par actions et que leur coût a simplement été considéré comme une dépense de Genex. D'autre part, il prétend que leur valeur excédait 1 $ lorsqu'elles ont été souscrites, compte tenu des dividendes auxquels elles donnaient droit. En somme, l'avocat de l'intimée soutient que seul l'appelant était véritablement détenteur d'une action de catégorie D du capital-actions de Genex, que les dividendes étaient payables mensuellement à celui-ci sous forme d'avances et que les dividendes sur l'action de catégorie D émise au nom de chacune des filles de l'appelant ont finalement été utilisés pour rembourser les avances reçues de Genex par celui-ci. Il fait aussi valoir que les billets signés par l'appelant en faveur de ses filles ne portaient pas intérêt, ce qui n'était pas chose courante et que les enfants n'avaient jamais été remboursées malgré le fait que l'appelant a affirmé avoir versé des cotisations à leur régime enregistré d'épargne-études.
+[23] Un autre argument mis de l'avant par l'avocat de l'intimée est que les filles de l'appelant n'ont été utilisées que comme prête-noms par celui-ci, qui s'est placé en situation de conflit d'intérêts en abusant en quelque sorte de sa fonction de tuteur aux fins de l'émission des actions au nom de ses filles, de l'achat de leurs actions en son nom personnel, du transfert du montant des dividendes sur leurs actions à son compte en banque personnel et de l'émission de billets en leur faveur, lesquels n'ont jamais été honorés. Selon l'avocat de l'intimée, les différentes transactions effectuées par l'appelant ne respectent ni les dispositions du Code civil du Québec concernant les conflits d'intérêts en matière d'administration des biens d'autrui ni les règles sur les placements présumés sûrs auxquelles les administrateurs de tels biens sont tenus de se conformer. Au soutien de ces arguments, il s'appuie sur les articles 208, 1304, 1305, 1310, 1312, 1314, 1315 et 1339 du Code civil du Québec.
+[24] De plus, l'avocat de l'intimée soutient que l'appelant à titre de directeur général de Genex avait droit à une certaine rémunération définie dans la convention unanime des actionnaires et comprenant, selon les termes des ententes avec Genex, un montant de 36 000 $ par année en dividendes qui étaient payés mensuellement par des avances de 3 000 $. En août 1998, un montant d'avances de 24 000 $ n'avait pas encore été versé en dividendes et son versement a été simplement reporté à l'année suivante (pièce I-2). Selon l'avocat, ce fait démontre bien que l'appelant avait un droit préexistant à ce montant, qui faisait partie de sa rémunération. L'avocat de l'intimée fait donc valoir que l'appelant, en permettant l'émission d'actions en faveur de ses filles, leur a, en réalité, transféré un revenu d'emploi auquel il avait un droit préexistant en vertu de ses ententes avec Genex. Selon lui, le terme transfert a été interprété de façon très large et peut comprendre l'émission d'actions. Par conséquent, comme l'appelant a ainsi transféré un revenu d'emploi auquel il avait droit en vertu de ses ententes avec Genex, le paragraphe 56(4) de la Loi devrait s'appliquer et l'appelant devrait être imposé sur le montant imposable des dividendes de 48 000 $ transférés à ses filles.
+[25] À l'appui de ses arguments, l'avocat de l'intimé s'est notamment référé aux décisions dans les affaires suivantes :
+ Transport Desgagné Inc. c. M.R.N., [1990] A.C.I. no 812 (QL);
+ Calce Holdings Ltd. c. Canada, [2005] A.C.I. no 265 (QL);
+ Addison & Leyen Ltd. c. Canada, [2006] A.C.F. no 489 (QL);
+ Canada v. Kieboom, [1992] A.C.F. no 605 (QL);
+ Fasken Estate v. M.N.R., 49 DTC 491;
+ No. 727 v. M.N.R., 61 DTC 52.
+[26] Par la convention unanime des actionnaires signée le 31 août 1997, ceux-ci ont retiré à l'appelant, l'administrateur unique de Genex, tous les pouvoirs qui lui étaient normalement dévolus par la Loi, s'en réservant l'exercice exclusif (pièce I-4, article 3.2). Les actionnaires détenteurs des actions dites « ordinaires » entendaient que soit soumise à leur approbation ce qui est désigné à l'article 4.1.8 de la convention comme étant toute augmentation de la « rémunération de Demers » , expression qui est définie comme suit :
+[...] « Rémunération de Demers » inclut tout salaire, boni et toute autre forme d'avantage (incluant l'utilisation personnelle de contrats échanges, à la valeur desdits contrats  échanges) payé en faveur de M. Demers ou de toute personne qui lui est liée ou rattachée au sens des lois fiscales canadiennes, incluant les dividendes sur les Actions catégorie « D » , ajustés aux fins des lois fiscales applicables aux sociétés.
+[27] Par trois ententes annuelles, dont la dernière, en date du 28 juin 1999, est pour la période du 1er septembre 1999 au 31 août 2000 (pièce I-3), les actionnaires détenant les actions comportant droit de vote du capital-actions de Genex ont fixé ce qu'ils ont désigné comme la « rémunération » de l'appelant à titre de directeur général pour l'année. Indépendamment de l'expression utilisée, il s'agissait manifestement d'établir le montant maximum dont l'appelant pouvait bénéficier, que ce soit au titre de sa rémunération proprement dite ou au titre d'avantages, quels qu'ils soient, qu'il pouvait retirer de la société. Parmi ces avantages, ces actionnaires convenaient de payer des dividendes sur les actions de catégorie D, mais au moyen d'une avance de 3 000 $ par mois versée à l'appelant jusqu'à ce que les dividendes soient effectivement déclarés. L'appelant a reçu ces avances à chaque mois et les a remboursées grâce aux dividendes versés le 23 août et le 31 décembre 1999 sur les trois actions de catégorie D alors émises, dont une action émise en faveur de chacune de ses deux filles mineures le 3 mars 1999. C'est en agissant à titre de tuteurs légaux des enfants que l'appelant et sa conjointe ont fait émettre les actions au nom des enfants, celles-ci offrant le même jour de les vendre à l'appelant, qui acceptait de les acheter, le tout en date du 31 décembre 1999. Évidemment, le but de toute l'opération était que les enfants reçoivent les deux tiers des dividendes qui seraient versés sur les actions de catégorie D au cours de l'année 1999 et qu'elles revendent ces actions aussitôt. J'estime que cette opération est un leurre. D'ailleurs, la preuve démontre que les actions émises en faveur des filles mineures de l'appelant n'ont jamais vraiment été payées et qu'il n'y avait aucune intention qu'elles deviennent et demeurent véritablement actionnaires de Genex. Le simple fait d'inscrire un apport de 2 $ pour l'achat des actions comme une dépense au compte « voyage » pour balancer les livres démontre bien qu'aucun apport véritable n'a été fait par les filles de l'appelant pour l'acquisition de leurs actions de catégorie D du capital-actions de Genex. Ceci est en contravention du paragraphe 25(3) de la Loi canadienne sur les sociétés par actions et on peut conclure que l'émission d'une action de catégorie D du capital-actions de Genex au nom de chacune des filles de l'appelant n'a pas été faite validement. Sur cet aspect, les faits de la présente affaire se distinguent nettement de ceux de l'affaire Neuman c. M.R.N., précitée, dans laquelle le juge Iacobucci précisait au paragraphe 60 qu'il tenait pour acquis « qu'une contrepartie suffisante a été donnée pour les actions au moment de leur émission » . Si la planification fiscale est permise, encore faut-il être en mesure de démontrer que toutes les conditions légales essentielles à sa validité peuvent être prouvées, ce qui n'a pas été fait en l'espèce.
+[28] J'ajouterai que l'aspect artificiel de toute l'opération se traduit aussi par les billets que l'appelant a signés - un en faveur de chacune de ses filles - à l'égard de montants de 12 000 $ transférés à son propre compte en banque à la suite des dividendes qui leur ont été versés le 23 août 1999 (pièces I-8 et I-9). Que les billets n'aient porté aucun intérêt est une chose. Mais que l'appelant ait prévu rembourser les sommes prétendument dues à ses filles par des cotisations à leur régime enregistré d'épargne-études m'apparaît totalement abusif et artificiel. C'est prétendre rembourser une dette envers les enfants en utilisant de l'argent censé leur appartenir pour faire des cotisations à leur régime enregistré d'épargne-études. De surcroît, l'appelant n'a jamais apporté de preuve quelconque de telles cotisations, pas plus qu'il n'a démontré que des billets avaient aussi été signés relativement aux dividendes versés le 31 décembre 1999.
+[29] Même si on pouvait conclure que l'émission des actions de catégorie D au nom des filles de l'appelant était valide, j'estime que l'appelant et sa conjointe ont utilisé leurs fonctions de tuteurs légaux pour se servir de leurs filles mineures comme prête-noms pour faire émettre en faveur de chacune d'elles une action de catégorie D du capital-actions de Genex afin qu'elles puissent recevoir à la place de l'appelant des dividendes sur ces actions. Par une entente annuelle avec l'appelant, les actionnaires détenant les actions avec droit de vote et agissant en vertu de la convention unanime ont fixé à une somme de 36 000 $ par année les dividendes qui seraient versés sur les actions de catégorie D et ont décidé que des avances de 3 000 $ par mois seraient versées à l'appelant dans l'intervalle, ce qui a été fait. Certes, tant la convention unanime que les ententes avec l'appelant décrivent les dividendes sur les actions de catégorie D comme faisant partie de la « rémunération » de l'appelant pour ses services comme directeur général. Si cette description est fautive en droit et que des dividendes se rattachent essentiellement à la propriété des actions (voir la décision Neuman c. M.R.N., précitée, paragraphes 57 et suivants), il n'en demeure pas moins que les actionnaires détenant les actions comportant droit de vote et l'appelant avaient convenu que les sommes en question lui seraient versées à l'avance à raison de 3 000 $ par mois. Dans ce contexte, la décision de faire émettre une action de catégorie D à chacune des filles mineures de l'appelant pour leur verser une partie des mêmes sommes sous forme de dividendes paraît artificielle, d'autant plus qu'aucun apport véritable n'a été fourni à Genex pour l'émission de ces actions, comme je l'ai mentionné plus haut. J'estime que, sous le couvert de l'exercice de leurs fonctions de tuteurs légaux, l'appelant et sa conjointe ont simplement utilisé leurs filles comme prête-noms pour recevoir des sommes manifestement destinées à l'appelant et qu'il aurait dû inclure dans son revenu.
+[30] J'estime que ceci est suffisant pour trancher l'appel, lequel est rejeté avec dépens à l'intimée.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2006.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2006CCI504
+N º DU DOSSIER DE LA COUR : 2004-3701(IT)G
+INTITULÉ DE LA CAUSE : Patrice Demers c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 26 avril 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 17 octobre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Éric Lewis
+Avocat de l'intimée :
+Me Benoit Mandeville
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Éric Lewis
+Cabinet : René Dion, Avocats
+Ville : Québec (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

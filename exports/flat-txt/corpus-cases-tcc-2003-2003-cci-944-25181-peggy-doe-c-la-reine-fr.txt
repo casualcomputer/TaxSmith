@@ -1,0 +1,105 @@
+Title: Peggy Doe c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25181/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-944-25181-peggy-doe-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-22
+
+# Peggy Doe c. La Reine
+
+- Citation: 2003 CCI 944
+- Decision date: 2003-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2561, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peggy Doe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-22
+Référence neutre
+2003 CCI 944
+Numéro de dossier
+2002-3014(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3014(IT)I
+ENTRE :
+PEGGY DOE*,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appels entendus les 10 février et 2 décembre 2003 à Toronto (Ontario).
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me A'Amer Ather
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante a droit à un crédit d'impôt non remboursable pour personnes handicapées en vertu de l'article 118.3 de la Loi de l'impôt sur le revenu.
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi pour l'année d'imposition 2001 est annulé.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 4e jour de mai 2004.
+Daniel E. Renaud, traducteur
+Référence : 2003CCI944
+Date : 20031222
+Dossier : 2002-3014(IT)I
+ENTRE :
+PEGGY DOE*,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Mme Peggy Doe a interjeté des appels à l'encontre des cotisations fiscales établies pour les années d'imposition 2000 et 2001, demandant un crédit d'impôt pour personnes handicapées ( « CIPH » ) en vertu de l'article 118.3 de la Loi de l'impôt sur le revenu. Apparemment, l'appelante n'a pas déposé un avis d'opposition relativement à l'année 2001. Je lui ai donc indiqué que l'appel interjeté à l'encontre de la cotisation établie pour l'année d'imposition 2001 serait annulée.
+[2] Le ministre a rejeté la demande présentée par Mme Doe au motif qu'elle ne souffrait pas d'une déficience mentale ou physique grave ou prolongée dont les effets limitaient de façon marquée, toujours ou presque toujours, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, sa capacité d'accomplir une activité courante de la vie quotidienne au sens du paragraphe 118.4(1) de la Loi.
+[3] En 1998, on a posé le diagnostic selon lequel Mme Doe souffre d'épilepsie. Depuis, elle souffre de graves crises qui s'avèrent ne pas répondre aux traitements. En 1993, elle a commencé une série de greffes osseuses afin de reconstruire sa mâchoire; celles-ci ont eu pour résultat l'érosion progressive du côté droit de son visage.
+[4] L'État a présenté le Certificat pour le crédit d'impôt pour personnes handicapées ( « [certificat CIPH] » ) déposé par Mme Doe et rempli par le Dr B. Woodside, psychiatre. Le Dr Woodside a répondu à chacune des questions posées dans la partie questionnaire du certificat CIPH dans l'affirmative, notamment en qui a trait aux capacités de Mme Doe de voir, de marcher, de percevoir, de réfléchir et de se souvenir, de parler, d'entendre, de s'habiller, de se nourrir et d'évacuer (fonctions intestinales ou urinaires). Cependant, il a noté que [traduction] « l'épilepsie idiopathique dont souffre Mme Doe répond mal aux traitements et constitue pour elle une déficience importante » .
+[5] Le Dr Woodside n'était pas présent à l'audience. Mme Doe a confirmé qu'il avait coché les diverses cases indiquant qu'elle était capable d'accomplir toutes les activités courantes de la vie quotidienne. Mme Doe a semble-t-il demandé au Dr Woodside de remplir un nouveau certificat. Cependant, selon les dires de Mme Doe, celui-ci a refusé d'obtempérer à cette demande, car cela aurait pu être interprété comme une indication qu'il s'était trompé la première fois et de son avis, il ne s'était pas trompé.
+[6] Mme Doe a indiqué qu'elle était non seulement sous les soins du Dr Woodside mais également ceux d'un neurologue et de [traduction] « plusieurs autres médecins aussi » . Mme Doe a dit avoir de la difficulté à composer avec les activités quotidiennes de la vie et a affirmé avoir doublé, la veille de l'audience, la posologie de ses médicaments dans l'espoir de pouvoir assister à l'audience sans subir de crise.
+[7] Mme Doe a déclaré qu'elle peut prendre un bain, cuisiner et faire beaucoup de choses mais pas de façon autonome. À titre d'exemple, elle a affirmé [traduction] « il me serait imprudent d'allumer un des éléments de la cuisinière ou tout autre appareil dégageant de la chaleur qui ne possède pas de minuterie automatique pour couper l'alimentation » . Elle a aussi expliqué que lorsqu'elle décide de prendre elle-même un bain, elle doit demander la présence de quelqu'un capable de s'assurer qu'elle entre dans la baignoire et en sorte sans difficulté. Autrement, elle doit téléphoner à quelqu'un pour indiquer qu'elle s'apprête à prendre son bain; si cette personne ne reçoit pas un second appel de sa part dans un délai prévu, cette personne doit immédiatement se rendre chez elle afin de s'enquérir de son état.
+[8] En ce qui concerne son alimentation, Mme Doe a déclaré qu'elle suit un régime liquide ou ne consomme que des aliments mous depuis ses greffes osseuses, et l'effort nécessaire à la préparation des aliments est donc minimal. Pendant l'année 2000, Mme Doe a mangé des aliments mous comme des oeufs brouillés. Elle a indiqué qu'elle avait elle-même préparé certains repas et que ses voisins lui étaient également venus en aide pendant l'année 2000. Le service de repas à domicile « Meals on Wheels » est venu lui apporter à manger, et elle a acheté des « mets à emporter » , principaux éléments de son alimentation. Elle a également consommé la boisson Ensure, un supplément vitaminique en boîte.
+[9] Étant donné les réponses négatives du Dr Woodside aux questions du certificat CIPH, j'ai indiqué à Mme Doe que je préférais ajourner l'audience pour permettre au Dr Woodside de venir témoigner à une date ultérieure. Bien que j'aie été impressionné par la preuve présentée, j'ai gardé à l'esprit les commentaires du juge Stone dans l'affaire Buchanan c. La Reine[1] :
+[...] la Cour doit respecter le libellé de la Loi, qui exige qu'un médecin délivre une attestation favorable. Cela veut dire que la tâche du juge de la Cour de l'impôt ne consiste pas à substituer son avis à celui du médecin, mais à déterminer, en se fondant sur la preuve médicale, si une attestation défavorable doit être considérée comme une attestation favorable. Si le juge de la Cour de l'impôt ne peut pas arriver à cette conclusion, l'appel doit être rejeté ou l'affaire doit être déférée au ministre, une directive étant donnée à celui-ci pour qu'il établisse une nouvelle cotisation, advenant le cas où le particulier présenterait une attestation favorable.
+[10] Avec l'accord de Mme Doe, l'audience a été ajournée à une date ultérieure, date à laquelle le Dr Woodside est venu témoigner. Le Dr Woodside est un ancien président de la Ontario Medical Association et est présentement président de l'Association des psychiatres du Canada. Il travaille actuellement au Toronto General Hospital et est professeur agrégé de médecine à la University of Toronto. Mme Doe est sous ses soins depuis 1983, principalement pour ses troubles alimentaires, sa dépression et ses troubles obsessivo-compulsifs et pour son syndrome de stress post-traumatique.
+[11] Le Dr Woodside a décrit plusieurs des conditions psychiatriques dont souffre Mme Doe et qui influent sur sa capacité de percevoir, de réfléchir et de se souvenir, dont les suivantes :
+(a) La personne qui souffre d'anorexie mentale, sous-type de purge, refuse de manger pour une foule de raisons psychologiques. Le Dr Woodside a expliqué, qu'en raison de son anorexie mentale prolongée, Mme Doe était atteinte d'ostéoporose importante et avait perdu toutes ses dents. Elle est présentement sous les soins d'un chirurgien-dentiste afin de tenter de mettre en place dans sa bouche l'infrastructure métallique nécessaire à l'implantation de prothèses définitives. L'affaiblissement des os de sa mâchoire a exigé de nombreuses greffes osseuses afin de restituer aux os de la mâchoire supérieure et inférieure la densité nécessaire à l'implantation de cette infrastructure métallique. Ces interventions ont amplifié de façon marquée, y compris pendant l'année 2000, le syndrome de stress post-traumatique dont elle souffre.
+(b) La personne qui souffre de troubles obsessivo-compulsifs ressent constamment des obsessions et des pensées importunes et non voulues qu'elle ne peut chasser; elle lutte contre l'envie d'accomplir certaines activités compulsives, telles l'accumulation, la vérification visuelle et le rangement. Le Dr Woodside a qualifié les troubles obsessivo-compulsifs de Mme Doe de continus et a indiqué qu'elle n'a que partiellement réagi aux traitements prodigués depuis les dix dernières années. D'après le Dr Woodside, Mme Doe réfléchit lorsqu'elle souffre de troubles obsessivo-compulsifs, mais son processus cognitif ne serait pas considéré normal par une personne ordinaire.
+(c) Le syndrome de stress post-traumatique dont souffre Mme Doe est le résultat d'abus sexuels et physiques perpétrés par un membre de sa famille pendant près de vingt ans. Elle connaît des réminiscences liées à cette attention physique ou sexuelle non souhaitée une journée sur deux. Selon le Dr Woodside, Mme Doe réfléchit et perçoit lorsqu'elle souffre du syndrome de stress post-traumatique mais pas d'une façon qu'une personne ordinaire qualifierait d'acceptable ou de normale.
+[13] Le Dr Woodside a reconnu qu'il n'était pas le médecin responsable d'assurer le suivi des troubles d'épilepsie de Mme Doe mais a dit être en étroite communication avec le neurologue de cette dernière, la Dre Cathy Zahn, qui elle en est responsable. Il a précisé qu'au fil des ans, un certain nombre de neurologues ont étudié le cas de Mme Doe. Il a dit être particulièrement au courant du cas de Mme Doe puisqu'elle visite sa clinique une fois par semaine ou toutes les deux semaines. Il a indiqué qu'elle subissait chaque semaine deux ou trois crises épileptiques, qui se manifestent parfois jusqu'à deux fois par jour. Le Dr Woodside a estimé que les crises de Mme Doe se manifestaient plus de une fois par jour depuis plus de six mois et qu'il était rare [traduction] « que plus de deux jours ne passent » sans qu'une crise ne sévisse. Il a affirmé qu'en raison de crises soudaines, Mme Doe avait dû annuler à l'occasion certains rendez-vous prévus avec lui.
+[14] Le Dr Woodside a expliqué que Mme Doe souffrait d'épilepsie temporale, une condition difficile à diagnostiquer. Il a qualifié ses crises comme [traduction] « mal maîtrisées » , une notion qui renvoie à la fréquence des crises de Mme Doe pendant l'année 2000. [traduction] « Outre la période de crise elle-même, la personne victime d'une crise comparable à celles de Mme Doe, se sentira affaiblie à la suite de la crise, lorsqu'elle est sous l'effet des sédatifs ne pourra pas parler et devra ménager ses efforts en demeurant assise ou étendue. » Cette période, qualifiée de « post-critique » en jargon médical, [traduction] « peut durer pendant des heures ou même une journée complète; pendant cette période, la capacité du patient d'accomplir toute activité courante de la vie quotidienne sera limitée de façon marquée » .
+[15] Pendant cette période « post-critique » , a déclaré le Dr Woodside, la personne est, à toute fin pratique, immobile. [traduction] « Cette personne pourrait marcher quelque peu en titubant mais ne pourrait pas accomplir une activité qui exigerait une certaine concentration. » La récupération prend quelques heures ou même quelques jours. Pendant l'année 2000, la fréquence des crises de Mme Doe était [traduction] « extrêmement élevée » . Selon le Dr Woodside, bien que Mme Doe ait pris tous ses médicaments conformément à sa prescription, ses crises [traduction] « n'ont pu être maîtrisées et elle était dans un état post-critique, d'après-crise, la plupart du temps pendant cette année-là » .
+[16] Selon le Dr Woodside, toute personne qui, comme Mme Doe, doit composer avec des crises à une telle fréquence devait exister [traduction] « dans un état où elle craint constamment pour sa vie » . Selon le Dr Woodside, il lui faut que quelqu'un soit présent pour, par exemple, pouvoir prendre un bain, et elle court le risque d'être frappée par une crise à tout moment, sans avertissement.
+[17] L'avocat de l'intimée a interrogé le Dr Woodside à l'égard de certaines activités courantes de la vie quotidienne définies et particulières. Dans le certificat CIPH, le Dr Woodside a reconnu que Mme Doe était en mesure de percevoir, de réfléchir et de se souvenir. Cependant lors de l'audience, il a émis l'avis que la qualité de sa capacité de percevoir, de réfléchir et de se souvenir était anormale de façon marquée, et [traduction] « que nul ne reconnaîtrait qu'il s'agissait d'une façon acceptable de percevoir, de réfléchir ou de se souvenir » . Le Dr Woodside a comparé la capacité de « percevoir, réfléchir et se souvenir » de Mme Doe avec celle d'une personne qu'il estime être normale; il a estimé la capacité de réfléchir de Mme Doe comme [traduction] « hors de la plage normale » de façon continue pendant toute l'année. Il a aussi remis en question la capacité de Mme Doe de s'occuper de son alimentation, notamment à la lumière de ses antécédents d'anorexie mentale : [traduction] « il lui a fallu constamment livrer bataille pour se réconcilier à l'idée qu'il lui fallait manger, effet résiduel de sa maladie » . En ce qui concerne la capacité de marcher de Mme Doe, le Dr Woodside a indiqué que lorsqu'elle était post-critique, elle ne marchait pas de façon normale : elle titubait, avait besoin d'une canne ou devait s'appuyer sur le mur. Dans le même ordre d'idées, lorsqu'elle était post-critique, il lui arrivait d'éprouver des [traduction] « troubles d'élocution » .
+[18] Selon le Dr Woodside, le certificat CIPH ne tient pas compte de certaines conditions psychiatriques, notamment la condition dont souffre Mme Doe. Il a notamment jugé, alors qu'il remplissait le certificat CIPH, que ce formulaire était vague et inapproprié à l'évaluation des maladies mentales : comme il ne comporte aucun critère établi pour la déficience mentale, le médecin est libre de décider. Toujours selon le Dr Woodside, les effets de la déficience de Mme Doe sont tels qu'ils limitent de façon marquée sa capacité d'accomplir à tout le moins une activité courante de la vie quotidienne, sans perdre de vue les critères stipulés dans le paragraphe 118.3(1).
+[19] Mme Doe est capable d'accomplir physiquement, plus ou moins, toutes les activités courantes de la vie quotidienne au sens de l'alinéa 118.4(1)c) de la Loi. Cependant, sa capacité d'accomplir ces activités était, de toute apparence, gravement limitée pendant l'année 2000 en raison de l'imprévisibilité et de la fréquence de ses crises épileptiques. Autrement dit, bien que Mme Doe ait pu se nourrir et s'habiller, parler et être entendu ainsi que marcher, par exemple, ces activités ou autres du genre risquaient de se voir soudainement suspendues en raison d'une crise et d'être perturbées pendant la période d'après-crise. Dans le cas de Mme Doe, ses crises étaient, et sont encore, fréquentes. Comme l'a souligné le Dr Woodside dans le certificat CIPH, l'épilepsie de Mme Doe répond mal aux traitements. Le Dr Woodside a inféré, et j'aborde dans le même sens, que la capacité d'une personne - dont le cas est comparable à celui de Mme Doe, où celle-ci ne connaît pas le moment où sévira une crise mais sait bien, malgré les médicaments prescrits, qu'une crise sévira - pour accomplir une quelconque activité, y compris une activité courante de la vie quotidienne, au sens de la Loi, est nécessairement limitée de façon marquée. Cette déficience est aggravée par ses divers troubles mentaux qui, de l'avis du Dr Woodside, ont limité, et limitent encore, sa capacité de réfléchir comme le ferait une personne appelée normale. En somme, les déficiences physique et mentale de Mme Doe ont presque toujours limité sa capacité de percevoir, de réfléchir et de se souvenir pendant l'année 2000. Ainsi, le témoignage du Dr Woodside doit servir à valider le Certificat pour le crédit d'impôt pour personnes handicapées.
+[20] L'appel pour l'année 2000 est donc admis, avec dépens, s'il y a lieu; l'appel pour l'année 2001 doit malheureusement être annulé.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 4e jour de mai 2004.
+Daniel E. Renaud, traducteur
+*
+Pseudonyme désignant l'appelante.
+*
+Pseudonyme désignant l'appelante.
+[1]
+[2002] A.C.F. no 838 (C.A.F.).

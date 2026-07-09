@@ -1,0 +1,221 @@
+Title: Paquet c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521275/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-69-521275-paquet-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-05-16
+
+# Paquet c. Le Roi
+
+- Citation: 2024 CCI 69
+- Decision date: 2024-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5509, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquet c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-16
+Référence neutre
+2024 CCI 69
+Numéro de dossier
+2019-2997(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2997(IT)G
+ENTRE :
+STEVE PAQUET,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 13, 14, 15, 16 février et le 24 mai 2023, à Montréal (Québec)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocats de l’appelant :
+Me Philippe-Alexandre Otis
+Me Christopher Mostovac
+Avocate de l’intimé :
+Me Anne Poirier
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu est accueilli avec dépens.
+Signé à Toronto, Ontario, ce 16e jour de mai 2024.
+“Patrick Boyle”
+Juge Boyle
+Dossier : 2019-2998(IT)G
+ENTRE :
+4527976 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 13, 14, 15, 16 février et le 24 mai 2023, à Montréal (Québec)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocats de l’appelante :
+Me Philippe-Alexandre Otis
+Me Christopher Mostovac
+Avocate de l’intimé :
+Me Anne Poirier
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu est accueilli avec dépens.
+Signé à Toronto, Ontario, ce 16e jour de mai 2024.
+“Patrick Boyle”
+Juge Boyle
+Référence : 2024 CCI 69
+Date : 20240516
+Dossier : 2019-2997(IT)G
+ENTRE :
+STEVE PAQUET,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+et
+Dossier : 2019-2998(IT)G
+ENTRE :
+4527976 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+I. Précis [1] En l’espèce, notre Cour est saisie des appels interjetés par Steve Paquet et sa société 4527976 Canada Inc. (« Héritage »), faisant affaire sous le nom de « Héritage » et, auparavant, sous le nom de « Les Volailles Héritage ». Ces appels ont été interjetés à l’encontre de cotisations d’impôt sur le revenu pour les années 2010 à 2013 en ce qui concerne M. Paquet et pour les années 2010 à 2014 en ce qui concerne Héritage. La majorité des cotisations a été établie après la période normale de nouvelle cotisation. Les sommes incluses dans le revenu sont une série d’importantes sommes en espèces que Garda a livrées à l’adresse commerciale d’Héritage. Garda obtenait les espèces en caisse à livrer auprès d’une société non liée aux appelants et les enveloppes de livraison de Garda étaient adressées à cette société, à l’adresse d’Héritage. Les sommes, qui allaient de 15 000 $ à 150 000 $, étaient livrées chaque semaine, parfois plusieurs fois par semaine. Pour les années en cause, la somme totale dépassait 20 000 000 $. L’Agence du revenu du Canada (« ARC ») a inclus toutes ces sommes dans le revenu des deux appelants, ce qui est autorisé, mais qui laisse une comptabilisation en double des revenus qui s’avère presque toujours incompatible et, au bout du compte, incorrecte[1]. Étant donné que l’exercice financier des deux appelants ne se termine pas en même temps, des totaux différents ont été inclus dans leurs revenus[2]. Des pénalités pour faute lourde ont également été imposées aux deux appelants relativement aux sommes ayant fait l’objet d’une cotisation.
+[2] Des procédures pénales quelque peu parallèles sont en cours devant la Cour du Québec quant à la question de l’éventuelle responsabilité de M. Paquet et d’Héritage dans la désignation erronée d’opérations financières dans des documents financiers créés par eux. Les questions en litige devant la Cour du Québec ne sont pas de nature fiscale et sont très différentes, mais elles portent en grande partie sur les mêmes faits. Je ne fais pas montre de déférence à l’égard des conclusions de la Cour du Québec en première instance, puisque ces conclusions ont été concrètement neutralisées en appel par la Cour supérieure du Québec, qu’il n’y a pas eu de nouveau procès et qu’il pourrait ne jamais y en avoir. Je n’ai pas non plus accordé d’importance aux éléments de preuve présentés à la Cour du Québec puisqu’aucun témoignage ou élément de preuve antérieur présenté à la Cour du Québec n’a été soulevé devant les témoins dans le présent appel ni autrement produit en preuve dans la présente procédure. Les parties pouvaient, si elles le souhaitaient, convoquer dans la présente procédure n’importe lequel des témoins entendus par la Cour du Québec.
+[3] Les appelants menaient des activités de vente de volaille en gros. Les revenus bruts d’Héritage étaient de l’ordre de 20 millions de dollars. L’Agence du revenu du Québec (« ARQ ») a désigné les appelants, ainsi que d’autres intermédiaires, comme parties à une série d’opérations sur le marché de la volaille dans le cadre desquelles d’importantes sommes en espèces étaient livrées par Garda à l’adresse commerciale d’Héritage. L’ARQ a diligenté à la fois une enquête et une vérification, et l’ARC a fait intervenir son équipe de vérification et son équipe de recouvrement. Des témoins des deux agences ont été entendus.
+[4] La vérification de l’ARQ a abouti à l’établissement de nouvelles cotisations à l’égard des deux appelants. L’ARQ a communiqué à l’ARC les résultats de son enquête et de sa vérification, ainsi que les cotisations établies. L’ARC a établi, à l’égard de M. Paquet, de nouvelles cotisations qualifiées de cotisations miroirs aux cotisations de l’ARQ. On entendait par là que l’ARC avait inclus la même somme que l’ARQ dans le revenu, sans effectuer de réelle vérification indépendante. L’ARC a établi une nouvelle cotisation à l’égard d’Héritage sur une base entièrement différente qui incluait simplement dans le revenu d’Héritage le montant total d’espèces livré à ses locaux par Garda, sans autre vérification, rajustement ni allocation. L’intimé n’a fait état d’aucun motif raisonnable et logique expliquant pourquoi les deux appelants ont fait l’objet d’une analyse et d’une nouvelle cotisation sur des bases aussi différentes.
+[5] Les témoins des appelants étaient M. Paquet, Maria D’Amico (la réceptionniste qui signait habituellement lors des livraisons effectuées par Garda si M. Monette était absent, et qui gardait le paquet dans son bureau jusqu’à ce que M. Monette le récupère), Nathalie Paquet (adjointe administrative chez Héritage et sœur de M. Paquet), Daniel Dauplaise (vice-président des opérations de Garda au Québec) et Rima Skaf (vérificatrice de l’ARQ).
+[6] Les témoins de l’intimé étaient David Sawyer (agent de recouvrement de l’ARC), Geneviève Robillard (vérificatrice de l’ARC et désormais cheffe d’équipe) et Minyu Chiu (enquêtrice de l’ARQ).
+[7] Pour les motifs qui suivent, les appels seront accueillis intégralement puisque la Cour n’a pas reçu suffisamment d’éléments de preuve fiables, crédibles et cohérents, directs ou indirects, corroborés ou non, pour conclure que la prépondérance de la preuve permettait d’établir que les espèces livrées par Garda appartenaient à l’un ou l’autre des appelants, ou que l’un ou l’autre s’était attribué cet argent, ou encore que l’argent avait été utilisé à leur profit. La Cour n’est pas en mesure de conclure, selon cette norme, que les sommes en cause devraient être incluses dans le revenu de l’un ou l’autre des appelants. Dans ces conditions, l’ARC n’était pas autorisée à établir de cotisations pour des années après la période normale de nouvelle cotisation et, pour les années qui n’étaient pas frappées de prescription, l’ARC doit établir des nouvelles cotisations afin d’exclure les sommes incluses dans le revenu et de supprimer les pénalités pour faute lourde.
+[8] Il ne faut absolument pas en déduire que la Cour conclut que cette série de livraisons d’espèces par Garda, ainsi que les commandes, les livraisons et les obligations circulées, correspond à la totalité des véritables opérations sous-jacentes qui ont eu lieu entre les différents participants. Il semble au contraire qu’un ou plusieurs participants se soient livrés à des activités douteuses. La Cour n’a tout simplement pas reçu assez d’éléments de preuve pour conclure que les opérations ont eu lieu au profit des appelants. L’ARQ et l’ARC semblaient toutes deux avoir des soupçons à première vue raisonnables quant aux activités des appelants, ce qui les a incitées à procéder à des enquêtes et à des vérifications. Malheureusement, l’intimé a laissé subsister des soupçons semblables dans l’esprit de la Cour, ce qui est loin de prouver le bien-fondé de l’inclusion des sommes dans le revenu de l’un ou l’autre des appelants selon la prépondérance des probabilités. La Cour ne peut confirmer les soupçons de l’ARQ et de l’ARC portant que les sommes en cause ont été obtenues par l’un des appelants ou les deux et au profit de l’un ou des deux. La Cour conclut simplement qu’il n’a pas été prouvé que ces soupçons étaient fondés.
+II. Charge de la preuve
+[9] Dans la mesure où subsiste une approche supplétive à la loi relativement à la charge de la preuve qui incombe aux parties et qui encadre l’appréciation de la preuve et la prise de décision par notre Cour, comme l’a expliqué la Cour suprême du Canada dans l’arrêt Hickman Motors Ltd. c. Canada [1997] 2 RCS 336, je conclus que les appelants se sont parfaitement acquittés de toute charge initiale qui leur incombait.
+[10] Le juge Dussault, dans la décision Brasserie Futuriste de Laval Inc. c. La Reine 2006 CCI 503, aux paragraphes 159 et 160, fait remarquer que l’idée de démolir des présomptions avec au moins une preuve prima facie, exposée dans l’arrêt Hickman Motors, va expressément dans le sens de la déclaration antérieure de notre Cour dans la décision Kamin c. M.R.N., 93 DTC 62 :
+[160] Au paragraphe 96 de la décision, la juge L’Heureux-Dubé reprenait à son compte l’observation suivante du juge Brulé de la Cour canadienne de l’impôt dans l’affaire Kamin c. M.R.N., 93 DTC 62, à la page 64 :
+Le Ministre n’a pas carte blanche pour établir les présomptions qui lui conviennent. À l’interrogatoire principal, on s’attend qu’il puisse produire des preuves plus concrètes que de simples présomptions pour réfuter les arguments de l’appelant.
+[Souligné dans le texte.]
+[11] Le juge Hogan, dans la décision Cantore c. La Reine, 2010 CCI 367, au paragraphe 18, appliquant le principe de l’arrêt Hickman Motors, a noté que lorsque la vérificatrice de l’ARC prend un raccourci grossier, par exemple en n’analysant pas tous les comptes bancaires de l’appelant, et qu’aucun motif satisfaisant n’est donné ou ne ressort du dossier, cela influe forcément sur le type de preuve que l’appelant devra produite pour s’acquitter de sa charge initiale.
+[12] J’ai tenu compte des commentaires formulés par ces deux juges dans mon examen de l’arrêt Hickman Motors en l’espèce et dans ma conclusion selon laquelle les appelants se sont acquittés de toute charge initiale qui leur incombait.
+III. Faits et éléments de preuve
+[13] L’ARQ a diligenté des vérifications de Termont Inc. (« Termont »), de son unique actionnaire Laurent Monette, ainsi que d’Héritage et de M. Paquet. Termont n’avait déclaré aucun revenu pour les années 2010 à 2012. Elle n’avait pas tenu de comptabilité ni conservé de pièces justificatives. L’ARQ a procédé à l’analyse des dossiers bancaires et c’est là qu’elle a constaté que Termont déplaçait des espèces en passant par Garda[3].
+[14] Toutes les sommes en cause étaient livrées en espèces par Garda à une adresse commerciale d’Héritage, l’envoi étant adressé à Termont. Garda obtenait les directives de livraison et les formulaires d’autorisation auprès de Termont. L’argent était transféré à Garda à partir d’un compte bancaire de Termont. On communiquait ensuite avec M. Monette qui venait récupérer l’enveloppe cachetée. Rien ne prouve que les espèces étaient remises directement ou indirectement à l’un ou l’autre des appelants.
+[15] Les éléments de preuve n’ont pas permis d’établir clairement ce qu’il advenait ensuite des espèces. Les enquêtes et les vérifications menées par les autorités fiscales n’ont pas permis de savoir ce que devenaient les espèces après la livraison par Garda. Les éléments de preuve n’ont pas démontré si ces espèces étaient ou non retirées de ces arrangements pour être utilisées à d’autres fins. Il est tout à fait possible que le même argent a circulé à plusieurs reprises à des fins ou pour des raisons qui demeurent inconnues.
+[16] M. Monette a demandé à M. Paquet s’il pouvait utiliser l’adresse d’Héritage pour les livraisons d’espèces de Termont effectuées par Garda étant donné que cette dernière exigeait un lieu d’affaires dont elle était convaincue qu’il était sécuritaire pour toutes les personnes concernées. Garda refusait d’effectuer des livraisons à une résidence. Garda a mis fin à son contrat avec M. Monette et Termont lorsqu’elle a reçu à la dernière minute, un jour où M. Monette n’était pas présent pour une livraison, la consigne de laisser une enveloppe remplie d’espèces sur le coffre d’une voiture dans le stationnement plutôt que de la livrer à l’intérieur de l’édifice comme cela avait été prévu et convenu en tant que méthode sécuritaire acceptable approuvée par Garda pour Termont. La Cour n’a reçu aucun élément de preuve indiquant qui avait donné ces directives contraires, à qui appartenait le véhicule, ni qui devait récupérer l’argent dans le véhicule.
+[17] M. Monette est décédé avant l’audition du présent appel. La déclaration sous serment qu’il a faite en 2015 et remise aux autorités fiscales a été déposée en preuve. Dans cette déclaration, il reconnaissait qu’il avait récupéré tout l’argent livré à l’adresse d’Héritage, que tout l’argent que Termont avait livré en passant par Garda appartenait bien à Termont et qu’il n’appartenait ni à M. Paquet ni à Héritage. Je ne peux pas conclure que la preuve réfutent les déclarations sous serment de M. Monette. Il peut très bien avoir gardé les espèces et les avoir utilisées à des fins personnelles indéterminées. D’après les éléments de preuve, la source des revenus de M. Monette ainsi que certaines de ses activités étaient peut-être douteuses. Aux dires de l’ARC, il avait antérieurement été impliqué dans le vol de 150 000 $ à son employeur, et des armes à feu avaient été découvertes à son domicile lors d’une perquisition[4]. M. Monette était en phase terminale lorsqu’il a fait sa déclaration sous serment.
+[18] L’ARQ a conclu que Termont et Desco étaient deux des principaux clients d’Héritage et André Auger, le comptable de Termont, l’a informée que Termont avait utilisé les espèces pour payer certains de ses fournisseurs qu’il a refusé d’identifier. Cependant, après vérification de Termont et d’Héritage, ainsi que de leurs actionnaires, y compris un rapprochement très détaillé des relevés bancaires et une vérification approfondie des achats et des ventes, l’ARQ n’a pas pu conclure qu’une quelconque partie des espèces livrées par Garda avait constitué un paiement pour des achats effectués entre Termont et Héritage.
+[19] Le comptable de Termont, M. Auger, a expliqué à l’ARQ que Termont utilisait les sommes en espèces pour payer ses fournisseurs afin d’éviter d’attirer l’attention de sa banque. Il a refusé d’identifier les fournisseurs de Termont que M. Monette payait avec ces espèces. Il est à noter que ni l’ARC ni l’ARQ n’ont repéré de ventes liées non déclarées qu’Héritage aurait faites à Termont ou à qui que ce soit d’autre.
+[20] Guy Chevalier, une autre personne ayant participé à ces opérations, a été interrogé par les autorités fiscales au sujet de sa participation et de ce qu’il savait. Son entreprise, Desco, menait également des activités dans le secteur de la volaille. M. Chevalier n’a été appelé à comparaître par aucune des parties dans le présent appel. Toutefois, lorsque les autorités fiscales l’ont interrogé dans le cadre de leurs enquêtes et de leurs vérifications, il a expliqué avoir organisé ces opérations afin d’améliorer le financement de son inventaire de volaille et de ses créances auprès de sa banque. Les opérations effectuées ont permis à son entreprise d’inscrire aux livres la vente d’une partie de son inventaire à une des autres parties concernées et d’en faire une créance, puis une somme reçue, même si les opérations se poursuivaient puisqu’il rachetait les mêmes inventaires à l’autre entreprise. On a également soutenu que ces opérations aidaient Desco à gérer ses problèmes de quotas. Il est difficile d’établir si les volailles de Desco ont quitté son entrepôt pour y revenir. Je n’ai obtenu aucun détail quant à ses conventions bancaires ou à son financement bancaire. Desco comptait environ 250 employés et ses revenus étaient de l’ordre de 30 millions de dollars. Ni l’ARC ni l’ARQ n’ont soumis Desco à une vérification en lien avec ceci, mais leurs vérifications d’Héritage n’ont relevé aucune opération d’achat ou de vente entre Héritage et Desco qu’Héritage n’avait pas dûment enregistrée et comptabilisée. Les ventes de volaille constituaient le seul lien entre Héritage et Termont. À la connaissance d’Héritage et de M. Paquet, ces deux entreprises n’avaient aucun client en commun.
+[21] Bien que les autorités fiscales aient interrogé M. Chevalier dans le cadre de leur enquête et de leur vérification des appelants, leurs enquêtes et vérifications au sujet de M. Chevalier et de Desco, de leur participation à ces opérations ou de leurs activités commerciales ont été minimales, voir nulles. Les autorités fiscales n’ont pas vérifié auprès de la banque qui finançait l’inventaire de Desco si l’explication donnée par M. Chevalier était ou non étayée par les dossiers bancaires de Desco.
+[22] L’explication produite par M. Chevalier n’est pas nécessairement incompatible avec celle de M. Auger.
+[23] Même si cela n’est pas absolument nécessaire dans les appels de M. Paquet et d’Héritage, je ne suis pas en mesure de tirer une conclusion quant à la provenance des sommes d’argent en banque de Termont, que cette dernière s’est envoyée à elle-même en passant par Garda et en utilisant l’adresse d’un édifice où Héritage menait ses activités. L’ARQ n’a pas pu conclure que les espèces avaient été déposées de nouveau sur le compte de Termont, de M. Monette ou de sa conjointe, ni qu’elles avaient été réaffectées ou autrement utilisées dans le cadre des activités de Termont ou à toute autre fin.
+[24] Les vérificatrices de l’ARQ et de l’ARC, l’enquêtrice de l’ARC et l’agent de recouvrement de l’ARC ont expliqué que les deux agences se sont employées diligemment, pendant cinq ans, à tenter de faire la lumière sur la situation entourant les livraisons d’espèces par Garda. Je ne dois pas obligatoirement trancher cette question, même s’il serait certainement utile de le faire. Je dois seulement me prononcer sur l’exactitude des nouvelles cotisations de M. Paquet et d’Héritage.
+[25] Malgré cinq années d’enquête et de vérifications, l’intimé n’a pas, pendant toute la semaine qu’a duré le procès, produit suffisamment d’éléments de preuve pour démontrer de façon prépondérante que les cotisations sont exactes et il n’a pas non plus, lors de son contre-interrogatoire des appelants et de leurs témoins, réussi à faire naître des doutes suffisants à l’égard de la crédibilité de leurs témoignages.
+[26] L’intimé n’a guère produite de preuves portant que les autorités fiscales ont cherché avec diligence la source initiale ou le destinataire final de ces espèces. Aucune provenance ou utilisation n’a jamais été confirmée dans le cadre de l’enquête et des vérifications menées pendant cinq ans par les deux autorités fiscales. De toute évidence, elles n’ont pas exercé l’ensemble de leurs compétences légales en matière d’enquête, de vérification et de collecte de renseignements en vue d’obtenir ces informations clés.
+[27] Les éléments de preuve témoignent du peu d’efforts déployés par les autorités fiscales, informées directement par M. Chevalier, pour tenter de comprendre comment fonctionnait la stratégie de Desco et à qui elle profitait, pour la confirmer ou l’écarter. Les autorités fiscales avaient le pouvoir d’obtenir ces éléments de preuve pour être en mesure de les présenter à la Cour s’ils appuyaient les cotisations en litige. Elles n’ont donné aucune raison satisfaisante de ne pas l’avoir fait avant de décider d’établir une cotisation à l’égard de M. Paquet et d’Héritage, et encore moins avant l’audience. Les appelants, même s’ils auraient pu obliger M. Chevalier à comparaître et à témoigner, n’ont aucun des droits qu’ont les agences de mener des vérifications et des enquêtes au préalable.
+[28] Il en va de même quant aux vérifications des appelants. Aucune des deux agences n’a procédé à une analyse de la valeur nette ou à un rapprochement complet des relevés bancaires, ni eu recours à une autre méthode de vérification. L’ARC s’est uniquement intéressée aux dépôts et aux retraits bancaires concernant une des banques de M. Paquet, même si elle savait qu’il faisait affaire avec au moins deux autres banques. L’ARC n’a pas comparé son mode de vie en général ni son niveau de vie à ses sources de revenus ou de capitaux.
+[29] Il n’y avait pas d’éléments de preuve établissant que M. Paquet disposait d’avoirs importants autres que les suivants : sa moitié de la résidence familiale de classe moyenne hypothéquée, un chalet d’une valeur de 300 000 $ à Mont‑Tremblant qu’il mettait parfois en location, un bateau coûteux et un condo d’une valeur de 500 000 $ à Montréal, appartenant à son entreprise et mis à sa disposition, qui était déclaré et comptabilisé. Rien de tout cela n’a été payé en espèces. L’intimé a tenté de démontrer que le revenu déclaré de M. Paquet ne permettait pas d’expliquer l’achat, au cours d’une des années visées, d’une Bentley neuve qu’il a ensuite échangée contre une Rolls Royce neuve. Cependant, les autorités fiscales n’avaient pas tenu compte du fait que le revenu déclaré de M. Paquet au cours de l’année en question ou de l’année précédente comprenait un gain en capital imposable de 800 000 $, ce qui signifiait que M. Paquet détenait également la partie non imposable du gain en capital qui suffisait amplement pour expliquer l’achat d’une voiture de luxe. En outre, le prix d’achat a été réglé à partir du compte bancaire de M. Paquet, et non en espèces. L’intimé a également reconnu que le véhicule Range Rover sur lequel les autorités fiscales s’étaient également concentrées était un véhicule loué par l’entreprise de M. Paquet et qu’il avait été dûment enregistré et comptabilisé.
+[30] L’édifice où Garda livrait l’argent comptait quatre bureaux. Un des bureaux était occupé par le cabinet comptable d’Alain Lemay, dont les appelants retenaient les services. Un autre était utilisé par Maria D’Amico, la réceptionniste de l’édifice qui n’était pas au service d’Héritage. Toute personne qui entrait dans l’édifice devait passer par son bureau. Mme D’Amico était également aide-comptable au sein du cabinet comptable de M. Lemay. Le troisième bureau était occupé par une société immobilière ou une entreprise de construction, et le quatrième bureau était celui de M. Paquet.
+[31] M. Paquet ne connaissait pas M. Auger, le comptable de Termont. À part la satisfaction d’un client d’Héritage, les appelants ne retiraient rien du fait qu’ils autorisaient Termont ou M. Monette à utiliser l’adresse commerciale d’Héritage pour les livraisons de Garda. M. Paquet avait bien compris que M. Monette versait des paiements en espèces à un ou plusieurs fournisseurs de Termont. M. Paquet ne savait pas qui apposait normalement sa signature lors des livraisons effectuées par Garda. Termont achetait de la volaille à Héritage et lui en fournissait.
+[32] Dans son témoignage, Mme D’Amico a affirmé que M. Monette était souvent présent dans leurs bureaux pour les livraisons de Garda. Lorsqu’il était absent, il appelait Mme D’Amico pour la prévenir que Garda passerait; elle apposait alors sa signature pour recevoir le paquet qu’elle conservait dans son bureau jusqu’à l’arrivée de M. Monette, qui venait rapidement récupérer le paquet. Étant réceptionniste, Mme D’Amico apposait sa signature pour d’autres livraisons non liées destinées à d’autres locataires dans l’édifice.
+[33] Natalie Paquet, qui est la sœur de M. Paquet, exerçait les fonctions d’adjointe administrative pour Héritage. Elle était parfois présente dans ces locaux d’Héritage et il lui est arrivé d’apposer sa signature lors des livraisons de Garda si M. Monette n’était pas présent, vraisemblablement parce que Mme D’Amico n’était pas disponible pour apposer sa signature et garder le paquet dans son bureau. Lorsque Natalie Paquet apposait sa signature pour ce type de livraison, elle laissait l’argent dans le bureau de son frère. Elle ne savait pas ce qu’il advenait de cet argent.
+[34] Le vice-président des opérations de Garda au Québec a affirmé qu’il avait rencontré M. Monette une fois et qu’il ne connaissait ni M. Paquet ni Héritage. Le contrat de Garda pour les livraisons a été conclu avec Termont et précise que cette dernière est destinataire des livraisons. Les bordereaux de livraison indiquent également que Termont est destinataire des livraisons.
+[35] C’est Mme Skaf, de l’ARQ, qui a procédé à la vérification de Termont. Elle a confirmé avoir conclu, à l’issue de sa vérification, que Termont avait des revenus d’environ 60 millions de dollars. Elle a admis des dépenses d’environ 30 millions de dollars compte tenu du fait que MM. Monette et Auger lui avaient dit que l’entreprise avait d’importantes dépenses en espèces; elle a conclu que tel était très probablement le cas et a prêté foi aux dires de MM. Monette et Auger. Sa vérification n’a permis de relever aucun élément de preuve selon lequel d’autres personnes que M. Monette contrôlaient le compte bancaire de Termont. Elle n’a pas examiné les reçus signés de Garda pour voir qui avait apposé sa signature. Elle ne savait pas qui avait signé la plupart des reçus, mais elle savait que M. Paquet avait apposé sa signature pour une livraison. Elle n’a trouvé aucun élément de preuve indiquant que M. Paquet était le bénéficiaire de ces espèces, à part le lien établi par le fait que les espèces étaient livrées par Garda au lieu d’affaires d’Héritage. Elle n’a pas demandé à M. Paquet s’il savait ce qu’il advenait des espèces; elle n’a posé cette question qu’à M. Auger. Elle avait également procédé à la vérification de M. Monette et des deux appelants. Elle a confirmé qu’elle n’avait pas non plus posé cette question à M. Paquet lors de ces vérifications.
+[36] M. Sawyer, l’agent de recouvrement de l’ARC, a déclaré dans son témoignage que ses enquêtes l’avaient amené à croire que ni Termont ni le patrimoine de M. Monette ne détenaient d’actifs. Il ne savait pas que l’ARQ avait conclu que Termont avait des revenus de 60 millions de dollars et a témoigné que s’il en avait été informé, il aurait examiné Termont de nouveau. M. Sawyer a discuté plusieurs fois avec M. Chevalier, sans toutefois pouvoir conclure que les fausses opérations ou les fausses ventes évoquées par MM. Auger et Chevalier n’avaient pas eu lieu et n’expliquaient pas les livraisons d’espèces par Garda. M. Sawyer a affirmé qu’il n’avait vu aucune raison de mettre en doute la déclaration sous serment de M. Monette et il a reconnu qu’il était possible que les espèces transportées par Garda n’appartenaient ni à Héritage ni à M. Paquet. Il croyait savoir, d’après ce que lui avaient dit ses collègues du recouvrement de l’ARQ, que M. Monette vivait largement; il avait été question de bijoux de valeur, d’une collection de cartes de hockey et d’un Riopelle. Il a ajouté qu’il n’avait eu aucune raison de douter de la déclaration sous serment de Jean Hamel, qui avait également déclaré savoir que les espèces livrées étaient destinées à Termont ou à M. Monette puisqu’il avait personnellement remis certaines enveloppes à M. Monette. M. Sawyer a déclaré que ses enquêtes et ses efforts ont constitué une grande partie de son travail pendant un ou deux ans et qu’il aurait pu consacrer un millier d’heures à ce dossier. Il a confirmé que lorsqu’il était en fonction dans l’équipe des recouvrements et non celle de la vérification, à sa connaissance, toutes les opérations effectuées par M. Paquet et son entreprise étaient comptabilisées, déclarées aux autorités fiscales et inscrites dans les dossiers bancaires de M. Paquet et de son entreprise, sans aucun indice ou ouï-dire quant au fait que des espèces en caisse étaient utilisées.
+[37] Geneviève Robillard était la vérificatrice de l’ARC qui a mené les vérifications de Termont, de M. Monette, d’Héritage et de M. Paquet. Elle est comptable professionnelle agréée (« CPA »), détient un baccalauréat en sciences comptables, et occupe depuis plus de 20 ans des postes en vérification au sein de l’ARC.
+[38] Elle s’est tout d’abord occupée des vérifications de Termont et de M. Monette. Elle a obtenu les documents de travail et les cotisations de l’ARQ. Elle a établi des cotisations miroirs à celles de l’ARQ sans effectuer d’autre travail de vérification.
+[39] Mme Robillard a ensuite effectué les vérifications d’Héritage et de M. Paquet. Elle a procédé à sa propre analyse des relevés bancaires de M. Paquet étant donné que l’ARQ ne lui avait pas transmis de copie d’une telle analyse. Elle a établi des cotisations correspondantes à l’égard de M. Paquet. Lorsqu’est venu le tour d’Héritage, l’ARC n’a pas suivi la même approche que l’ARQ pour établir la cotisation d’Héritage et a décidé d’inclure dans le revenu d’Héritage toutes les sommes livrées par Garda à l’adresse d’Héritage. Cette décision a été prise pour les raisons suivantes : (i) M. Monette s’est rétracté quant à la version des événements qu’il avait donnée sous serment, (ii) M. Auger a affirmé que les espèces servaient à payer des fournisseurs, (iii) les espèces étaient livrées à l’adresse d’Héritage, et (iv) Héritage était un fournisseur de Termont – bien qu’aucune des deux agences n’ait trouvé la preuve de ventes conclues en espèces.
+[40] Mme Robillard s’est bel et bien adressée à M. Chevalier et a appris que la facturation entre Desco et les entreprises de M. Paquet était fausse, tout comme les opérations et les ventes, le but étant d’inscrire les ventes dans les comptes de Desco.
+[41] Le témoignage de Mme Robillard a permis de confirmer que, lors de la vérification des appelants pour le compte de l’ARC :
+elle n’a pas rapproché les paiements qu’Héritage a versés à M. Paquet;
+elle n’a pas déterminé si M. Paquet déposait tous ses revenus;
+elle n’a pas demandé à M. Paquet s’il déposait tous ses revenus;
+elle a envisagé d’établir la valeur nette, mais ne l’a pas fait et a reconnu que les cotisations de valeur nette nécessitaient beaucoup de travail;
+elle n’a pas compris comment se faisaient les achats et les ventes par les intermédiaires du secteur de la volaille, malgré les explications reçues d’un tiers;
+elle n’a pas pu retracer les espèces en caisse étant donné qu’il est réellement difficile de le faire, elle a perdu la trace des espèces lorsqu’elle tentait de les retracer et elle n’a absolument pas pu retracer les espèces après leur remise à M. Monette par Garda, mais elle sentait que quelque chose n’allait pas même si elle ne savait pas très bien quoi;
+elle a pensé qu’il s’agissait d’une « stratégie in-out », mais elle n’a pas examiné les comptes de Desco et n’a donc pas pu suivre la trace de l’argent;
+elle n’était pas en mesure de dire si les espèces avaient été oui ou non déposées dans un compte;
+elle a établi une cotisation à l’égard d’Héritage concernant des revenus non déclarés, et à l’égard de M. Paquet pour avoir tiré un avantage personnel des revenus non déclarés d’Héritage;
+elle n’a pas analysé les relevés bancaires de Desco ni de personne d’autre pour tenter d’établir l’origine des espèces et savoir ce que ces sommes étaient devenues. Cela suggère que l’intimé n’a pas déployé suffisamment d’efforts pour établir la provenance des espèces ou retrouver cet argent;
+elle ne savait pas ce que voulait dire M. Chevalier lorsqu’il a indiqué que les factures et les ventes en espèces étaient « fausses »;
+elle n’a pas demandé à M. Chevalier s’il savait qui contrôlait le compte bancaire de Termont ou si ce compte était contrôlé par d’autres personnes que M. Monette;
+elle n’avait pas d’opinion quant à savoir si elle avait la moindre raison de mettre en doute le témoignage de l’un ou l’autre des témoins des appelants en l’espèce (elle a été présente tout au long de la procédure);
+elle n’a pas analysé le mode de vie de M. Paquet, mais était indirectement au courant du fait qu’il possédait une voiture très chère, qu’il fréquentait des casinos et qu’il partait en vacances;
+elle n’a pas jugé bon de douter de l’explication de M. Auger voulant que les espèces aient servi à payer un ou plusieurs fournisseurs de Desco;
+elle n’a pas conclu, après son analyse des comptes bancaires, qu’il y avait des montants précis de revenus non déclarés;
+elle n’a pas estimé que la carte de crédit que M. Monette a mise à la disposition de M. Paquet était pertinente dans le cadre des cotisations de l’ARC étant donné que les cotisations tenaient simplement compte de l’intégralité des sommes livrées par Garda[5];
+elle ne savait pas qui contrôlait le compte bancaire de Termont, qui contrôlait le montant des livraisons de Garda et le moment auquel elles avaient lieu, d’où venaient les espèces remises à Garda par Termont, qui contrôlait l’enveloppe de Garda lorsqu’elle était livrée à l’adresse d’Héritage, ni l’utilisation qui était finalement faite de ces espèces. Elle estimait que l’enquêtrice de l’ARQ était plus à même de répondre à ce genre de questions puisque c’était le but de son enquête;
+elle n’a signalé aucun fait étayant la thèse de l’intimé voulant que M. Paquet ait contrôlé l’utilisation ou la destination des espèces livrées.
+[42] J’ai conclu que Mme Robillard avait parfois une attitude très défensive quand elle a donné certaines de ces réponses lors du contre-interrogatoire. Ses réponses ne vont pas jusqu’à porter atteinte à sa crédibilité puisqu’elle a renoncé à donner des réponses défavorables, et a parfois été encouragée par les objections non fondées et les interruptions de l’avocate de l’intimé pendant son contre-interrogatoire.
+[43] L’intimé, dans des appels en matière d’impôt portant sur des revenus non déclarés, n’a pas besoin de pouvoir déterminer la provenance des revenus ni l’utilisation qui en a été faite. Un exemple évident est celui d’une cotisation de valeur nette, où l’ARC se concentre plutôt sur d’autres éléments de preuve pour étayer sa cotisation, que le contribuable appelant doit ensuite contester ou à l’égard de laquelle il doit produire de meilleurs éléments de preuve concernant son revenu. Cependant, en l’espèce, les cotisations des appelants reposaient simplement sur le montant en espèces livré par Garda. Pour cette raison, la position de l’intimé dans les présents appels est marquée par une accumulation de faiblesses dans les éléments de preuve.
+[44] Compte tenu notamment de ce que M. Chevalier a déclaré aux agences du revenu quant à l’objet de ces opérations en espèces et du fait que l’argent revenait bel et bien à la case départ, et étant donné que M. Auger a partiellement corroboré ces déclarations, le fait que l’intimé n’ait pas demandé à M. Chevalier, à M. Auger ou à d’autres personnes associées à Desco d’assister à l’audience et de témoigner devant notre Cour permet de conclure qu’un tel témoignage n’aurait probablement pas aidé l’intimé à démontrer que la prépondérance de la preuve étaye les cotisations en litige.
+[45] Mme Chiu était l’enquêtrice de l’ARQ chargée de ces dossiers. Depuis 2017, elle est au service de l’ARC. Les enquêtes ont été ouvertes en septembre 2014 dans le cadre du Projet Volailles; elle y a été affectée en novembre 2014. Les enquêtes effectuées dans le cadre du Projet Volailles visaient non seulement Héritage et M. Paquet, mais aussi Termont et M. Monette, ainsi que Desco et M. Chevalier.
+[46] Mme Chiu a déclaré, dans plusieurs de ses réponses incertaines, qu’elle n’avait plus accès aux dossiers pertinents de l’ARQ concernant M. Paquet, Héritage ou les autres. L’intimé n’a jamais expliqué pourquoi il n’avait pas obtenu accès aux dossiers de l’ARQ pour justifier les cotisations portées en appel. Si c’est exact, c’est inattendu, étonnant et décevant. Dans le cas contraire, l’intimé aurait dû la corriger.
+[47] Mme Chiu a confirmé ce qui suit dans son témoignage :
+elle a conclu que M. Paquet contrôlait Termont, et donc le compte bancaire de Termont, d’après quelques courriels incomplets découverts sur un ordinateur appartenant à Héritage;
+elle ne savait pas si M. Paquet détenait d’autres comptes bancaires;
+l’enquête qu’elle a menée pour le compte de l’ARQ n’a pas permis de retracer les espèces après leur livraison par Garda;
+elle n’a trouvé aucun élément de preuve indiquant que les espèces avaient été déposées dans un compte détenu par M. Paquet ou l’une de ses entreprises;
+elle n’a découvert aucun achat réglé en espèces par M. Paquet relativement à des avoirs ou des placements;
+elle ne se souvenait pas si elle avait découvert des opérations en espèces impliquant Héritage lors de son analyse des dossiers bancaires ou à un autre moment;
+elle ne suivait pas la conclusion de Mme Skaf résultant de sa vérification, portant que Termont menait de véritables activités produisant un revenu tiré d’une entreprise; elle n’a trouvé aucun élément de preuve révélant de véritables activités, seulement de faux reçus, de faux achats, de fausses ventes et des transferts d’argent;
+les textos et les courriels qu’elle a examinés n’indiquaient pas à quelles fins les espèces étaient livrées ni à quelles fins elles étaient utilisées;
+elle n’a pas parlé des textos ni des courriels avec M. Monette ni avec M. Paquet;
+toutes les espèces mentionnées figuraient dans les dossiers bancaires de Termont;
+on n’a pas retrouvé de traces de directives adressées par M. Paquet à M. Monette;
+l’enquêtrice de l’ARQ n’a pas eu accès aux factures payées avec les cartes de crédit de M. Monette qui sont en cause. Elle disposait uniquement des relevés de carte de crédit et de compte bancaire. Il lui était impossible de savoir qui avait utilisé quelle carte pour quel achat;
+dans son rapport, elle n’a recommandé aucune procédure pénale à l’encontre de M. Paquet ni d’Héritage;
+dans le cadre de l’enquête Projet Volailles, Mme Chiu devait examiner Desco et M. Chevalier. Elle n’a cependant pas indiqué à la Cour quelles conclusions, le cas échéant, l’ARQ avait tirées quant au rôle ou aux activités de Desco et de M. Chevalier dans les opérations en cause sur lesquelles enquêtait l’ARQ. Mme Chiu a seulement déclaré avoir interrogé M. Chevalier au sujet des faux reçus ainsi que des textos et des courriels en cause.
+[48] Même si M. Paquet était la personne qui indiquait les sommes à livrer ou à distribuer dans le cadre de ces opérations faisant intervenir des livraisons d’espèces par Garda, cela n’aide guère utile quant à savoir si les appelants ont gardé ou non ces sommes pour eux-mêmes.
+IV. Conclusion
+[49] Dans les présents appels, les éléments de preuve relatifs à la stratégie financière de M. Chevalier et de Desco mettant en cause ces espèces, selon les explications données par MM. Chevalier et Auger aux autorités et par l’intimé à notre Cour, peuvent tout aussi bien expliquer que les décisions des agences que les appelants se sont approprié les espèces. De plus, la déclaration de M. Monette lui-même quant au fait que c’était l’argent de Termont, provenant du compte de Termont, qui lui était livré par Garda, conjuguée à la prépondérance de la preuve portant que M. Monette a récupéré lui-même la quasi-totalité de ces espèces au bureau d’Héritage, serait compatible avec l’idée que Termont ou M. Monette ait été l’un des fournisseurs non identifiés mentionnés par M. Auger impliqués dans le financement des inventaires de Desco plutôt que la stratégie de planification financière concernant les créances. Cela serait aussi compatible avec le fait que M. Monette récupérait les espèces à des fins personnelles autres, sans en laisser ou en redonner une partie directement ou indirectement à Héritage ou à M. Paquet (ce dont il n’existe de toute façon aucune preuve).
+[50] Les éléments de preuve dans les présents appels n’indiquent absolument pas que l’un des appelants ou les deux profitaient à des fins personnelles de la totalité ou d’une partie des espèces livrées par Garda. Les appelants le nient. M. Chevalier et Desco, MM. Lemay, Auger et Houle ont tous donné des versions des faits qui iraient à l’encontre d’une telle conclusion. L’information produite par MM. Lemay et Chevalier mettait en cause d’autres personnes que Termont, M. Monette, Héritage et M. Paquet en ce qui concerne les livraisons d’espèces par Garda.
+[51] Pour ces motifs, la Cour ne peut pas conclure, selon la prépondérance des
+probabilités, que les cotisations en litige sont étayées par les faits mis en preuve, et les appels sont accueillis, le tout avec dépens.
+Signé à Toronto, Ontario, ce 16e jour de mai 2024.
+“Patrick Boyle”
+Juge Boyle
+RÉFÉRENCE :
+2024 CCI 69
+Nº DU DOSSIER DE LA COUR :
+2019-2997(IT)G 2019-2998(IT)G
+INTITULÉ DES CAUSES :
+STEVE PAQUET ET SA MAJESTÉ LE ROI
+4527976 CANADA INC. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+les 13, 14, 15, 16 février 2023 et le 24 mai 2024
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+le 16 mai 2024
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Philippe-Alexandre Otis
+Me Christopher Mostovac
+Avocate de l’intimé :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Me Philippe-Alexandre Otis
+Me Christopher Mostovac
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir AgraCity Ltd c. Canada, 2015 CAF 288
+[2] La somme de 17 358 000 $ a été incluse dans le revenu de M. Paquet pour les années 2010 à 2013, et la somme de 21 443 000 $ a été incluse dans le revenu d’Héritage pour la période allant du 1er décembre 2010 au 30 novembre 2014.
+[3] Lors de sa vérification de Termont, l’ARQ a admis des dizaines de millions de dollars en dépenses d’entreprise, même si l’enquêtrice de l’ARQ n’a trouvé aucune véritable activité menée par Termont. La Cour n’a aucune idée pourquoi l’enquêtrice et la vérificatrice n’étaient pas du même avis.
+[4] Je ne sais absolument pas si M. Monette a été accusé ou condamné pour son implication dans le vol ni si ses armes à feu étaient enregistrées et entreposées comme il faut.
+[5] Elle connaissait les réponses que M. Paquet avait donné dans son témoignage quant à son utilisation de cette carte.

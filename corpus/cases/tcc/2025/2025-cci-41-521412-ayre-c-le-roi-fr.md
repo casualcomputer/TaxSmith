@@ -1,0 +1,2382 @@
+---
+title: "Ayre c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521412/index.do"
+last_modified: "2025-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 CCI 41"
+citation2: ""
+neutral_citation: "2025 CCI 41"
+decision_date: "2025-03-10"
+language: "fr"
+item_id: "521412"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5491
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:04:56.231000+00:00"
+cases_cited_count: 20
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a68ae433e58b3846e6b01a4d131069d22f9960ac6e51c08ea463f85716e75655"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ayre c. Le Roi
+
+- Citation: 2025 CCI 41
+- Decision date: 2025-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5491, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ayre c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2025-03-10
+Référence neutre
+2025 CCI 41
+Numéro de dossier
+2017-2985(IT)G, 2017-2987(IT)G, 2017-3119(IT)G, 2017-3467(IT)G, 2017-3469(IT)G, 2017-440(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3467(IT)G
+ENTRE :
+NANDAGOPAL AYRE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec les appels de Nandagopal Ayre (2017-3469(IT)G), Kenneth Cooper (2017-3119(IT)G), Sharon Docksteader (2017-2987(IT)G), James Foran Sr. (2017-2985(IT)G) et Deny Johnston (2017-440(IT)G), du 24 au 26 octobre 2023, du 30 octobre au 2 novembre 2023, du 6 au 9 novembre 2023, les 14 et 15 novembre 2023, les 27 et 28 mars 2024 et le 10 juin 2024, à Calgary (Alberta).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocats de l’appelant :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+Consulter la liste des appelants liés à l’annexe A du présent jugement.
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 2009 et 2010 de l’appelant sont rejetés, avec dépens.
+L’intimé se voit accorder la possibilité de parvenir à une entente négociée sur les dépens avec les appelants types, les appelants liés et Profitable Giving Canada en vue de déterminer le montant des dépens et leur répartition appropriée, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Si les parties ne parviennent pas à conclure une telle entente d’ici le 30 mai 2025, alors :
+Au plus tard le 30 juin 2025, l’intimé doit signifier à Profitable Giving Canada, aux appelants types et aux appelants liés, et déposer auprès de la Cour, un mémoire de frais consolidé accompagné d’observations écrites d’au plus 30 pages à l’appui de ce mémoire et portant sur la répartition appropriée de ces dépens, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Au plus tard le 31 juillet 2025, Profitable Giving Canada, les appelants types et les appelants liés peuvent signifier et déposer des observations écrites d’au plus 20 pages en réponse au mémoire de frais consolidé de l’intimé et aux observations qui l’accompagnent.
+Au plus tard le 29 août 2025, l’intimé peut signifier et déposer une réponse d’au plus 10 pages aux observations écrites de Profitable Giving Canada, des appelants types et des appelants liés.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+Appelant
+Appel
+Chaulk, Rob
+2015-2108(IT)I
+Boyle, Christine
+2015-2296(IT)G
+Selvakaralan, Ravichandra
+2016-4747(IT)I
+Malley, John Paul
+2016-5399(IT)G
+Jewell, Christine R.
+2017-1463(IT)G
+Spelliscy, Brett P.
+2017-1903(IT)I
+Keizer, Mike
+2017-207(IT)G
+Foran, James Jr.
+2017-2979(IT)G
+Foran, James JR
+2017-2980(IT)G
+Lauzon, Andrew
+2017-2992(IT)G
+Styles, Bruce
+2017-2994(IT)G
+Cooper, Kenneth
+2017-3112(IT)G
+Smyth, David
+2017-3123(IT)G
+Smyth, David
+2017-3125(IT)G
+Woo, Danny
+2017-438(IT)G
+Cote, Venence
+2017-441(IT)G
+Lederhos, Gilbert L.
+2017-442(IT)G
+Spark, Gary
+2017-445(IT)G
+Martinez, Andres
+2018-2740(IT)I
+Amoah, Ebenezer D
+2018-2882(IT)I
+Liao, Peter J.C.
+2018-3357(IT)I
+Torres, Alvin
+2018-4149(IT)I
+Wirachowsky, Michael
+2019-1013(IT)I
+Anusic, Ivica
+2019-4345(IT)I
+Anusic, Ivica
+2019-4346(IT)I
+Larocque, Normand
+2019-4545(IT)I
+Lacasse, Linda
+2019-4546(IT)I
+Lanthier, Lyne
+2020-2415(IT)I
+Stec, Andrzej
+2021-593(IT)I
+Pinter, Joanne Marie
+2022-2269(IT)G
+Ursulak, Aaron
+2022-2509(IT)I
+Popovich, Alice Joan
+2022-2540(IT)I
+Ali Beiki, Mahnaz
+2022-2690(IT)I
+Macartney, Michael
+2022-2716(IT)I
+Campbell, Yvonne A.
+2022-3006(IT)I
+Gaces, Villa
+2022-3128(IT)I
+Gaces, Villa
+2022-3129(IT)I
+Arndt, Dan
+2022-341(IT)I
+Monk, Jeffrey M.
+2023-1022(IT)G
+Curran-Fotopoulos, Colleen
+2023-1023(IT)G
+Voth, Shirley
+2023-1086(IT)G
+Styles, Vanessa
+2023-1093(IT)G
+Styles, Jordan
+2023-1121(IT)G
+Lachance, Denis
+2023-1157(IT)I
+Pinter, Philip Doug
+2023-1179(IT)G
+MacDonald, Tanis
+2023-1193(IT)I
+Marcoux, Daniel L.
+2023-1217(IT)G
+Cote, Sandra
+2023-1236(IT)I
+Vandra, Rimple
+2023-129(IT)I
+Wiens, Barbara
+2023-141(IT)G
+Lowe, Stephen
+2023-1729(IT)G
+Murray. Gunda
+2023-1737(IT)G
+Chan, Shui Keung
+2023-1745(IT)G
+Leiding, Jason
+2023-1760(IT)G
+Collin, Margaret
+2023-1780(IT)G
+Rioux, Jean-Luc
+2023-1824(IT)I
+Popma, Marius
+2023-1834(IT)G
+Popma, Joyce
+2023-1835(IT)G
+Balash, Steve
+2023-1953(IT)I
+Madsen, Kelly
+2023-201(IT)G
+Wright, Derry
+2023-218(IT)G
+Tokeson, Wendy
+2023-222(IT)I
+Joyal, Derek
+2023-263(IT)I
+Chartrand, Shelia
+2023-29(IT)G
+Chartrand, Real
+2023-30(IT)G
+Leitao, Timothy J
+2023-331(IT)I
+Rampurawala, Rashida
+2023-333(IT)I
+Rampurawala, Murtuza
+2023-336(IT)I
+Hanson, Michael
+2023-438(IT)G
+Harvey, John
+2023-454(IT)G
+Pak, Winnie
+2023-458(IT)G
+Kostenchuk, Jon
+2023-48(IT)G
+The Estate of Barry Mackenzie
+2023-483(IT)G
+Brown, David
+2023-484(IT)G
+Chong, Yin Ha
+2023-510(IT)G
+Marr, Ron
+2023-560(IT)G
+Tran, Duc V.
+2023-561(IT)G
+Lau, Anita M
+2023-563(IT)G
+Graham, Danielle
+2023-588(IT)G
+McDougall, Darren
+2023-593(IT)G
+Thompson, Simon
+2023-744(IT)I
+Bookal, Syney W
+2023-75(IT)I
+Ignat, Costel
+2023-774(IT)G
+McCullough, Mark
+2023-782(IT)G
+Hamernyk, Stan
+2023-783(IT)G
+Wickum, Marcel
+2023-796(IT)G
+Sunga-Castelvi, Evelyn I.
+2023-798(IT)G
+Lebid, Jason
+2023-81(IT)G
+Tyschinski, Sheila
+2023-810(IT)G
+Carragher, Joel Z.
+2023-813(IT)G
+Wallace, Ida Maybeth
+2023-861(IT)I
+Koss, Shane
+2023-87(IT)G
+Williamson, Susan
+2023-897(IT)G
+Huard, Yvon
+2023-899(IT)I
+Knister, Ray G.
+2023-900(IT)I
+Semchuk, Dorian
+2023-933(IT)G
+Werstiuk, Matthew
+2023-950(IT)G
+Lebid, Jodi
+2023-96(IT)G
+Dugan, Gord
+2023-999(IT)G
+Dossier : DOSSIER : 2017-3469(IT)G
+ENTRE :
+NANDAGOPAL AYRE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec les appels de Nandagopal Ayre (2017-3467(IT)G), Kenneth Cooper (2017-3119(IT)G), Sharon Docksteader (2017-2987(IT)G), James Foran Sr. (2017-2985(IT)G) et Deny Johnston (2017-440(IT)G), du 24 au 26 octobre 2023, du 30 octobre au 2 novembre 2023, du 6 au 9 novembre 2023, les 14 et 15 novembre 2023, les 27 et 28 mars 2024 et le 10 juin 2024, à Calgary (Alberta).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocats de l’appelant :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+Consulter la liste des appelants liés à l’annexe A du présent jugement.
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national pour l’année d’imposition 2011 de l’appelant est rejeté, avec dépens.
+L’intimé se voit accorder la possibilité de parvenir à une entente négociée sur les dépens avec les appelants types, les appelants liés et Profitable Giving Canada en vue de déterminer le montant des dépens et leur répartition appropriée, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Si les parties ne parviennent pas à conclure une telle entente d’ici le 30 mai 2025, alors :
+Au plus tard le 30 juin 2025, l’intimé doit signifier à Profitable Giving Canada, aux appelants types et aux appelants liés, et déposer auprès de la Cour, un mémoire de frais consolidé accompagné d’observations écrites d’au plus 30 pages à l’appui de ce mémoire et portant sur la répartition appropriée de ces dépens, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Au plus tard le 31 juillet 2025, Profitable Giving Canada, les appelants types et les appelants liés peuvent signifier et déposer des observations écrites d’au plus 20 pages en réponse au mémoire de frais consolidé de l’intimé et aux observations qui l’accompagnent.
+Au plus tard le 29 août 2025, l’intimé peut signifier et déposer une réponse d’au plus 10 pages aux observations écrites de Profitable Giving Canada, des appelants types et des appelants liés.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+Appelant
+Appel
+Chaulk, Rob
+2015-2108(IT)I
+Boyle, Christine
+2015-2296(IT)G
+Selvakaralan, Ravichandra
+2016-4747(IT)I
+Malley, John Paul
+2016-5399(IT)G
+Jewell, Christine R.
+2017-1463(IT)G
+Spelliscy, Brett P.
+2017-1903(IT)I
+Keizer, Mike
+2017-207(IT)G
+Foran, James Jr.
+2017-2979(IT)G
+Foran, James JR
+2017-2980(IT)G
+Lauzon, Andrew
+2017-2992(IT)G
+Styles, Bruce
+2017-2994(IT)G
+Cooper, Kenneth
+2017-3112(IT)G
+Smyth, David
+2017-3123(IT)G
+Smyth, David
+2017-3125(IT)G
+Woo, Danny
+2017-438(IT)G
+Cote, Venence
+2017-441(IT)G
+Lederhos, Gilbert L.
+2017-442(IT)G
+Spark, Gary
+2017-445(IT)G
+Martinez, Andres
+2018-2740(IT)I
+Amoah, Ebenezer D
+2018-2882(IT)I
+Liao, Peter J.C.
+2018-3357(IT)I
+Torres, Alvin
+2018-4149(IT)I
+Wirachowsky, Michael
+2019-1013(IT)I
+Anusic, Ivica
+2019-4345(IT)I
+Anusic, Ivica
+2019-4346(IT)I
+Larocque, Normand
+2019-4545(IT)I
+Lacasse, Linda
+2019-4546(IT)I
+Lanthier, Lyne
+2020-2415(IT)I
+Stec, Andrzej
+2021-593(IT)I
+Pinter, Joanne Marie
+2022-2269(IT)G
+Ursulak, Aaron
+2022-2509(IT)I
+Popovich, Alice Joan
+2022-2540(IT)I
+Ali Beiki, Mahnaz
+2022-2690(IT)I
+Macartney, Michael
+2022-2716(IT)I
+Campbell, Yvonne A.
+2022-3006(IT)I
+Gaces, Villa
+2022-3128(IT)I
+Gaces, Villa
+2022-3129(IT)I
+Arndt, Dan
+2022-341(IT)I
+Monk, Jeffrey M.
+2023-1022(IT)G
+Curran-Fotopoulos, Colleen
+2023-1023(IT)G
+Voth, Shirley
+2023-1086(IT)G
+Styles, Vanessa
+2023-1093(IT)G
+Styles, Jordan
+2023-1121(IT)G
+Lachance, Denis
+2023-1157(IT)I
+Pinter, Philip Doug
+2023-1179(IT)G
+MacDonald, Tanis
+2023-1193(IT)I
+Marcoux, Daniel L.
+2023-1217(IT)G
+Cote, Sandra
+2023-1236(IT)I
+Vandra, Rimple
+2023-129(IT)I
+Wiens, Barbara
+2023-141(IT)G
+Lowe, Stephen
+2023-1729(IT)G
+Murray. Gunda
+2023-1737(IT)G
+Chan, Shui Keung
+2023-1745(IT)G
+Leiding, Jason
+2023-1760(IT)G
+Collin, Margaret
+2023-1780(IT)G
+Rioux, Jean-Luc
+2023-1824(IT)I
+Popma, Marius
+2023-1834(IT)G
+Popma, Joyce
+2023-1835(IT)G
+Balash, Steve
+2023-1953(IT)I
+Madsen, Kelly
+2023-201(IT)G
+Wright, Derry
+2023-218(IT)G
+Tokeson, Wendy
+2023-222(IT)I
+Joyal, Derek
+2023-263(IT)I
+Chartrand, Shelia
+2023-29(IT)G
+Chartrand, Real
+2023-30(IT)G
+Leitao, Timothy J
+2023-331(IT)I
+Rampurawala, Rashida
+2023-333(IT)I
+Rampurawala, Murtuza
+2023-336(IT)I
+Hanson, Michael
+2023-438(IT)G
+Harvey, John
+2023-454(IT)G
+Pak, Winnie
+2023-458(IT)G
+Kostenchuk, Jon
+2023-48(IT)G
+The Estate of Barry Mackenzie
+2023-483(IT)G
+Brown, David
+2023-484(IT)G
+Chong, Yin Ha
+2023-510(IT)G
+Marr, Ron
+2023-560(IT)G
+Tran, Duc V.
+2023-561(IT)G
+Lau, Anita M
+2023-563(IT)G
+Graham, Danielle
+2023-588(IT)G
+McDougall, Darren
+2023-593(IT)G
+Thompson, Simon
+2023-744(IT)I
+Bookal, Syney W
+2023-75(IT)I
+Ignat, Costel
+2023-774(IT)G
+McCullough, Mark
+2023-782(IT)G
+Hamernyk, Stan
+2023-783(IT)G
+Wickum, Marcel
+2023-796(IT)G
+Sunga-Castelvi, Evelyn I.
+2023-798(IT)G
+Lebid, Jason
+2023-81(IT)G
+Tyschinski, Sheila
+2023-810(IT)G
+Carragher, Joel Z.
+2023-813(IT)G
+Wallace, Ida Maybeth
+2023-861(IT)I
+Koss, Shane
+2023-87(IT)G
+Williamson, Susan
+2023-897(IT)G
+Huard, Yvon
+2023-899(IT)I
+Knister, Ray G.
+2023-900(IT)I
+Semchuk, Dorian
+2023-933(IT)G
+Werstiuk, Matthew
+2023-950(IT)G
+Lebid, Jodi
+2023-96(IT)G
+Dugan, Gord
+2023-999(IT)G
+Dossier : 2017-3119(IT)G
+ENTRE :
+KENNETH COOPER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec les appels de Nandagopal Ayre (2017-3467(IT)G et 2017-3469(IT)G), Sharon Docksteader (2017-2987(IT)G), James Foran Sr. (2017-2985(IT)G) et Deny Johnston (2017-440(IT)G), du 24 au 26 octobre 2023, du 30 octobre au 2 novembre 2023, du 6 au 9 novembre 2023, les 14 et 15 novembre 2023, les 27 et 28 mars 2024 et le 10 juin 2024, à Calgary (Alberta).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocats de l’appelant :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+Consulter la liste des appelants liés à l’annexe A du présent jugement.
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 2010, 2011 et 2012 de l’appelant sont rejetés, avec dépens.
+L’intimé se voit accorder la possibilité de parvenir à une entente négociée sur les dépens avec les appelants types, les appelants liés et Profitable Giving Canada en vue de déterminer le montant des dépens et leur répartition appropriée, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Si les parties ne parviennent pas à conclure une telle entente d’ici le 30 mai 2025, alors :
+Au plus tard le 30 juin 2025, l’intimé doit signifier à Profitable Giving Canada, aux appelants types et aux appelants liés, et déposer auprès de la Cour, un mémoire de frais consolidé accompagné d’observations écrites d’au plus 30 pages à l’appui de ce mémoire et portant sur la répartition appropriée de ces dépens, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Au plus tard le 31 juillet 2025, Profitable Giving Canada, les appelants types et les appelants liés peuvent signifier et déposer des observations écrites d’au plus 20 pages en réponse au mémoire de frais consolidé de l’intimé et aux observations qui l’accompagnent.
+Au plus tard le 29 août 2025, l’intimé peut signifier et déposer une réponse d’au plus 10 pages aux observations écrites de Profitable Giving Canada, des appelants types et des appelants liés.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+Appelant
+Appel
+Chaulk, Rob
+2015-2108(IT)I
+Boyle, Christine
+2015-2296(IT)G
+Selvakaralan, Ravichandra
+2016-4747(IT)I
+Malley, John Paul
+2016-5399(IT)G
+Jewell, Christine R.
+2017-1463(IT)G
+Spelliscy, Brett P.
+2017-1903(IT)I
+Keizer, Mike
+2017-207(IT)G
+Foran, James Jr.
+2017-2979(IT)G
+Foran, James JR
+2017-2980(IT)G
+Lauzon, Andrew
+2017-2992(IT)G
+Styles, Bruce
+2017-2994(IT)G
+Cooper, Kenneth
+2017-3112(IT)G
+Smyth, David
+2017-3123(IT)G
+Smyth, David
+2017-3125(IT)G
+Woo, Danny
+2017-438(IT)G
+Cote, Venence
+2017-441(IT)G
+Lederhos, Gilbert L.
+2017-442(IT)G
+Spark, Gary
+2017-445(IT)G
+Martinez, Andres
+2018-2740(IT)I
+Amoah, Ebenezer D
+2018-2882(IT)I
+Liao, Peter J.C.
+2018-3357(IT)I
+Torres, Alvin
+2018-4149(IT)I
+Wirachowsky, Michael
+2019-1013(IT)I
+Anusic, Ivica
+2019-4345(IT)I
+Anusic, Ivica
+2019-4346(IT)I
+Larocque, Normand
+2019-4545(IT)I
+Lacasse, Linda
+2019-4546(IT)I
+Lanthier, Lyne
+2020-2415(IT)I
+Stec, Andrzej
+2021-593(IT)I
+Pinter, Joanne Marie
+2022-2269(IT)G
+Ursulak, Aaron
+2022-2509(IT)I
+Popovich, Alice Joan
+2022-2540(IT)I
+Ali Beiki, Mahnaz
+2022-2690(IT)I
+Macartney, Michael
+2022-2716(IT)I
+Campbell, Yvonne A.
+2022-3006(IT)I
+Gaces, Villa
+2022-3128(IT)I
+Gaces, Villa
+2022-3129(IT)I
+Arndt, Dan
+2022-341(IT)I
+Monk, Jeffrey M.
+2023-1022(IT)G
+Curran-Fotopoulos, Colleen
+2023-1023(IT)G
+Voth, Shirley
+2023-1086(IT)G
+Styles, Vanessa
+2023-1093(IT)G
+Styles, Jordan
+2023-1121(IT)G
+Lachance, Denis
+2023-1157(IT)I
+Pinter, Philip Doug
+2023-1179(IT)G
+MacDonald, Tanis
+2023-1193(IT)I
+Marcoux, Daniel L.
+2023-1217(IT)G
+Cote, Sandra
+2023-1236(IT)I
+Vandra, Rimple
+2023-129(IT)I
+Wiens, Barbara
+2023-141(IT)G
+Lowe, Stephen
+2023-1729(IT)G
+Murray. Gunda
+2023-1737(IT)G
+Chan, Shui Keung
+2023-1745(IT)G
+Leiding, Jason
+2023-1760(IT)G
+Collin, Margaret
+2023-1780(IT)G
+Rioux, Jean-Luc
+2023-1824(IT)I
+Popma, Marius
+2023-1834(IT)G
+Popma, Joyce
+2023-1835(IT)G
+Balash, Steve
+2023-1953(IT)I
+Madsen, Kelly
+2023-201(IT)G
+Wright, Derry
+2023-218(IT)G
+Tokeson, Wendy
+2023-222(IT)I
+Joyal, Derek
+2023-263(IT)I
+Chartrand, Shelia
+2023-29(IT)G
+Chartrand, Real
+2023-30(IT)G
+Leitao, Timothy J
+2023-331(IT)I
+Rampurawala, Rashida
+2023-333(IT)I
+Rampurawala, Murtuza
+2023-336(IT)I
+Hanson, Michael
+2023-438(IT)G
+Harvey, John
+2023-454(IT)G
+Pak, Winnie
+2023-458(IT)G
+Kostenchuk, Jon
+2023-48(IT)G
+The Estate of Barry Mackenzie
+2023-483(IT)G
+Brown, David
+2023-484(IT)G
+Chong, Yin Ha
+2023-510(IT)G
+Marr, Ron
+2023-560(IT)G
+Tran, Duc V.
+2023-561(IT)G
+Lau, Anita M
+2023-563(IT)G
+Graham, Danielle
+2023-588(IT)G
+McDougall, Darren
+2023-593(IT)G
+Thompson, Simon
+2023-744(IT)I
+Bookal, Syney W
+2023-75(IT)I
+Ignat, Costel
+2023-774(IT)G
+McCullough, Mark
+2023-782(IT)G
+Hamernyk, Stan
+2023-783(IT)G
+Wickum, Marcel
+2023-796(IT)G
+Sunga-Castelvi, Evelyn I.
+2023-798(IT)G
+Lebid, Jason
+2023-81(IT)G
+Tyschinski, Sheila
+2023-810(IT)G
+Carragher, Joel Z.
+2023-813(IT)G
+Wallace, Ida Maybeth
+2023-861(IT)I
+Koss, Shane
+2023-87(IT)G
+Williamson, Susan
+2023-897(IT)G
+Huard, Yvon
+2023-899(IT)I
+Knister, Ray G.
+2023-900(IT)I
+Semchuk, Dorian
+2023-933(IT)G
+Werstiuk, Matthew
+2023-950(IT)G
+Lebid, Jodi
+2023-96(IT)G
+Dugan, Gord
+2023-999(IT)G
+Dossier : 2017-2987(IT)G
+ENTRE :
+SHARON DOCKSTEADER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec les appels de Nandagopal Ayre (2017-3467(IT)G et 2017-3469(IT)G), Kenneth Cooper (2017-3119(IT)G), James Foran Sr. (2017-2985(IT)G) et Deny Johnston (2017-440(IT)G), du 24 au 26 octobre 2023, du 30 octobre au 2 novembre 2023, du 6 au 9 novembre 2023, les 14 et 15 novembre 2023, les 27 et 28 mars 2024 et le 10 juin 2024, à Calgary (Alberta).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocats de l’appelante :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+Consulter la liste des appelants liés à l’annexe A du présent jugement.
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 2009, 2010 et 2011 ainsi qu’à l’encontre de la cotisation établie pour l’année d’imposition 2012 de l’appelante sont rejetés, avec dépens.
+L’intimé se voit accorder la possibilité de parvenir à une entente négociée sur les dépens avec les appelants types, les appelants liés et Profitable Giving Canada en vue de déterminer le montant des dépens et leur répartition appropriée, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Si les parties ne parviennent pas à conclure une telle entente d’ici le 30 mai 2025, alors :
+Au plus tard le 30 juin 2025, l’intimé doit signifier à Profitable Giving Canada, aux appelants types et aux appelants liés, et déposer auprès de la Cour, un mémoire de frais consolidé accompagné d’observations écrites d’au plus 30 pages à l’appui de ce mémoire et portant sur la répartition appropriée de ces dépens, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Au plus tard le 31 juillet 2025, Profitable Giving Canada, les appelants types et les appelants liés peuvent signifier et déposer des observations écrites d’au plus 20 pages en réponse au mémoire de frais consolidé de l’intimé et aux observations qui l’accompagnent.
+Au plus tard le 29 août 2025, l’intimé peut signifier et déposer une réponse d’au plus 10 pages aux observations écrites de Profitable Giving Canada, des appelants types et des appelants liés.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+Appelant
+Appel
+Chaulk, Rob
+2015-2108(IT)I
+Boyle, Christine
+2015-2296(IT)G
+Selvakaralan, Ravichandra
+2016-4747(IT)I
+Malley, John Paul
+2016-5399(IT)G
+Jewell, Christine R.
+2017-1463(IT)G
+Spelliscy, Brett P.
+2017-1903(IT)I
+Keizer, Mike
+2017-207(IT)G
+Foran, James Jr.
+2017-2979(IT)G
+Foran, James JR
+2017-2980(IT)G
+Lauzon, Andrew
+2017-2992(IT)G
+Styles, Bruce
+2017-2994(IT)G
+Cooper, Kenneth
+2017-3112(IT)G
+Smyth, David
+2017-3123(IT)G
+Smyth, David
+2017-3125(IT)G
+Woo, Danny
+2017-438(IT)G
+Cote, Venence
+2017-441(IT)G
+Lederhos, Gilbert L.
+2017-442(IT)G
+Spark, Gary
+2017-445(IT)G
+Martinez, Andres
+2018-2740(IT)I
+Amoah, Ebenezer D
+2018-2882(IT)I
+Liao, Peter J.C.
+2018-3357(IT)I
+Torres, Alvin
+2018-4149(IT)I
+Wirachowsky, Michael
+2019-1013(IT)I
+Anusic, Ivica
+2019-4345(IT)I
+Anusic, Ivica
+2019-4346(IT)I
+Larocque, Normand
+2019-4545(IT)I
+Lacasse, Linda
+2019-4546(IT)I
+Lanthier, Lyne
+2020-2415(IT)I
+Stec, Andrzej
+2021-593(IT)I
+Pinter, Joanne Marie
+2022-2269(IT)G
+Ursulak, Aaron
+2022-2509(IT)I
+Popovich, Alice Joan
+2022-2540(IT)I
+Ali Beiki, Mahnaz
+2022-2690(IT)I
+Macartney, Michael
+2022-2716(IT)I
+Campbell, Yvonne A.
+2022-3006(IT)I
+Gaces, Villa
+2022-3128(IT)I
+Gaces, Villa
+2022-3129(IT)I
+Arndt, Dan
+2022-341(IT)I
+Monk, Jeffrey M.
+2023-1022(IT)G
+Curran-Fotopoulos, Colleen
+2023-1023(IT)G
+Voth, Shirley
+2023-1086(IT)G
+Styles, Vanessa
+2023-1093(IT)G
+Styles, Jordan
+2023-1121(IT)G
+Lachance, Denis
+2023-1157(IT)I
+Pinter, Philip Doug
+2023-1179(IT)G
+MacDonald, Tanis
+2023-1193(IT)I
+Marcoux, Daniel L.
+2023-1217(IT)G
+Cote, Sandra
+2023-1236(IT)I
+Vandra, Rimple
+2023-129(IT)I
+Wiens, Barbara
+2023-141(IT)G
+Lowe, Stephen
+2023-1729(IT)G
+Murray. Gunda
+2023-1737(IT)G
+Chan, Shui Keung
+2023-1745(IT)G
+Leiding, Jason
+2023-1760(IT)G
+Collin, Margaret
+2023-1780(IT)G
+Rioux, Jean-Luc
+2023-1824(IT)I
+Popma, Marius
+2023-1834(IT)G
+Popma, Joyce
+2023-1835(IT)G
+Balash, Steve
+2023-1953(IT)I
+Madsen, Kelly
+2023-201(IT)G
+Wright, Derry
+2023-218(IT)G
+Tokeson, Wendy
+2023-222(IT)I
+Joyal, Derek
+2023-263(IT)I
+Chartrand, Shelia
+2023-29(IT)G
+Chartrand, Real
+2023-30(IT)G
+Leitao, Timothy J
+2023-331(IT)I
+Rampurawala, Rashida
+2023-333(IT)I
+Rampurawala, Murtuza
+2023-336(IT)I
+Hanson, Michael
+2023-438(IT)G
+Harvey, John
+2023-454(IT)G
+Pak, Winnie
+2023-458(IT)G
+Kostenchuk, Jon
+2023-48(IT)G
+The Estate of Barry Mackenzie
+2023-483(IT)G
+Brown, David
+2023-484(IT)G
+Chong, Yin Ha
+2023-510(IT)G
+Marr, Ron
+2023-560(IT)G
+Tran, Duc V.
+2023-561(IT)G
+Lau, Anita M
+2023-563(IT)G
+Graham, Danielle
+2023-588(IT)G
+McDougall, Darren
+2023-593(IT)G
+Thompson, Simon
+2023-744(IT)I
+Bookal, Syney W
+2023-75(IT)I
+Ignat, Costel
+2023-774(IT)G
+McCullough, Mark
+2023-782(IT)G
+Hamernyk, Stan
+2023-783(IT)G
+Wickum, Marcel
+2023-796(IT)G
+Sunga-Castelvi, Evelyn I.
+2023-798(IT)G
+Lebid, Jason
+2023-81(IT)G
+Tyschinski, Sheila
+2023-810(IT)G
+Carragher, Joel Z.
+2023-813(IT)G
+Wallace, Ida Maybeth
+2023-861(IT)I
+Koss, Shane
+2023-87(IT)G
+Williamson, Susan
+2023-897(IT)G
+Huard, Yvon
+2023-899(IT)I
+Knister, Ray G.
+2023-900(IT)I
+Semchuk, Dorian
+2023-933(IT)G
+Werstiuk, Matthew
+2023-950(IT)G
+Lebid, Jodi
+2023-96(IT)G
+Dugan, Gord
+2023-999(IT)G
+Dossier : 2017-2985(IT)G
+ENTRE :
+JAMES FORAN SR.,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec les appels de Nandagopal Ayre (2017-3467(IT)G et 2017-3469(IT)G), Kenneth Cooper (2017-3119(IT)G), Sharon Docksteader (2017-2987(IT)G), James Foran Sr. (2017-2985(IT)G) et Deny Johnston (2017-440(IT)G), du 24 au 26 octobre 2023, du 30 octobre au 2 novembre 2023, du 6 au 9 novembre 2023, les 14 et 15 novembre 2023, les 27 et 28 mars 2024 et le 10 juin 2024, à Calgary (Alberta).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocats de l’appelant :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+Consulter la liste des appelants liés à l’annexe A du présent jugement.
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 2009, 2010 et 2011 ainsi qu’à l’encontre de la cotisation établie pour l’année d’imposition 2012 de l’appelant sont rejetés, avec dépens.
+L’intimé se voit accorder la possibilité de parvenir à une entente négociée sur les dépens avec les appelants types, les appelants liés et Profitable Giving Canada en vue de déterminer le montant des dépens et leur répartition appropriée, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Si les parties ne parviennent pas à conclure une telle entente d’ici le 30 mai 2025, alors :
+Au plus tard le 30 juin 2025, l’intimé doit signifier à Profitable Giving Canada, aux appelants types et aux appelants liés, et déposer auprès de la Cour, un mémoire de frais consolidé accompagné d’observations écrites d’au plus 30 pages à l’appui de ce mémoire et portant sur la répartition appropriée de ces dépens, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Au plus tard le 31 juillet 2025, Profitable Giving Canada, les appelants types et les appelants liés peuvent signifier et déposer des observations écrites d’au plus 20 pages en réponse au mémoire de frais consolidé de l’intimé et aux observations qui l’accompagnent.
+Au plus tard le 29 août 2025, l’intimé peut signifier et déposer une réponse d’au plus 10 pages aux observations écrites de Profitable Giving Canada, des appelants types et des appelants liés.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+Appelant
+Appel
+Chaulk, Rob
+2015-2108(IT)I
+Boyle, Christine
+2015-2296(IT)G
+Selvakaralan, Ravichandra
+2016-4747(IT)I
+Malley, John Paul
+2016-5399(IT)G
+Jewell, Christine R.
+2017-1463(IT)G
+Spelliscy, Brett P.
+2017-1903(IT)I
+Keizer, Mike
+2017-207(IT)G
+Foran, James Jr.
+2017-2979(IT)G
+Foran, James JR
+2017-2980(IT)G
+Lauzon, Andrew
+2017-2992(IT)G
+Styles, Bruce
+2017-2994(IT)G
+Cooper, Kenneth
+2017-3112(IT)G
+Smyth, David
+2017-3123(IT)G
+Smyth, David
+2017-3125(IT)G
+Woo, Danny
+2017-438(IT)G
+Cote, Venence
+2017-441(IT)G
+Lederhos, Gilbert L.
+2017-442(IT)G
+Spark, Gary
+2017-445(IT)G
+Martinez, Andres
+2018-2740(IT)I
+Amoah, Ebenezer D
+2018-2882(IT)I
+Liao, Peter J.C.
+2018-3357(IT)I
+Torres, Alvin
+2018-4149(IT)I
+Wirachowsky, Michael
+2019-1013(IT)I
+Anusic, Ivica
+2019-4345(IT)I
+Anusic, Ivica
+2019-4346(IT)I
+Larocque, Normand
+2019-4545(IT)I
+Lacasse, Linda
+2019-4546(IT)I
+Lanthier, Lyne
+2020-2415(IT)I
+Stec, Andrzej
+2021-593(IT)I
+Pinter, Joanne Marie
+2022-2269(IT)G
+Ursulak, Aaron
+2022-2509(IT)I
+Popovich, Alice Joan
+2022-2540(IT)I
+Ali Beiki, Mahnaz
+2022-2690(IT)I
+Macartney, Michael
+2022-2716(IT)I
+Campbell, Yvonne A.
+2022-3006(IT)I
+Gaces, Villa
+2022-3128(IT)I
+Gaces, Villa
+2022-3129(IT)I
+Arndt, Dan
+2022-341(IT)I
+Monk, Jeffrey M.
+2023-1022(IT)G
+Curran-Fotopoulos, Colleen
+2023-1023(IT)G
+Voth, Shirley
+2023-1086(IT)G
+Styles, Vanessa
+2023-1093(IT)G
+Styles, Jordan
+2023-1121(IT)G
+Lachance, Denis
+2023-1157(IT)I
+Pinter, Philip Doug
+2023-1179(IT)G
+MacDonald, Tanis
+2023-1193(IT)I
+Marcoux, Daniel L.
+2023-1217(IT)G
+Cote, Sandra
+2023-1236(IT)I
+Vandra, Rimple
+2023-129(IT)I
+Wiens, Barbara
+2023-141(IT)G
+Lowe, Stephen
+2023-1729(IT)G
+Murray. Gunda
+2023-1737(IT)G
+Chan, Shui Keung
+2023-1745(IT)G
+Leiding, Jason
+2023-1760(IT)G
+Collin, Margaret
+2023-1780(IT)G
+Rioux, Jean-Luc
+2023-1824(IT)I
+Popma, Marius
+2023-1834(IT)G
+Popma, Joyce
+2023-1835(IT)G
+Balash, Steve
+2023-1953(IT)I
+Madsen, Kelly
+2023-201(IT)G
+Wright, Derry
+2023-218(IT)G
+Tokeson, Wendy
+2023-222(IT)I
+Joyal, Derek
+2023-263(IT)I
+Chartrand, Shelia
+2023-29(IT)G
+Chartrand, Real
+2023-30(IT)G
+Leitao, Timothy J
+2023-331(IT)I
+Rampurawala, Rashida
+2023-333(IT)I
+Rampurawala, Murtuza
+2023-336(IT)I
+Hanson, Michael
+2023-438(IT)G
+Harvey, John
+2023-454(IT)G
+Pak, Winnie
+2023-458(IT)G
+Kostenchuk, Jon
+2023-48(IT)G
+The Estate of Barry Mackenzie
+2023-483(IT)G
+Brown, David
+2023-484(IT)G
+Chong, Yin Ha
+2023-510(IT)G
+Marr, Ron
+2023-560(IT)G
+Tran, Duc V.
+2023-561(IT)G
+Lau, Anita M
+2023-563(IT)G
+Graham, Danielle
+2023-588(IT)G
+McDougall, Darren
+2023-593(IT)G
+Thompson, Simon
+2023-744(IT)I
+Bookal, Syney W
+2023-75(IT)I
+Ignat, Costel
+2023-774(IT)G
+McCullough, Mark
+2023-782(IT)G
+Hamernyk, Stan
+2023-783(IT)G
+Wickum, Marcel
+2023-796(IT)G
+Sunga-Castelvi, Evelyn I.
+2023-798(IT)G
+Lebid, Jason
+2023-81(IT)G
+Tyschinski, Sheila
+2023-810(IT)G
+Carragher, Joel Z.
+2023-813(IT)G
+Wallace, Ida Maybeth
+2023-861(IT)I
+Koss, Shane
+2023-87(IT)G
+Williamson, Susan
+2023-897(IT)G
+Huard, Yvon
+2023-899(IT)I
+Knister, Ray G.
+2023-900(IT)I
+Semchuk, Dorian
+2023-933(IT)G
+Werstiuk, Matthew
+2023-950(IT)G
+Lebid, Jodi
+2023-96(IT)G
+Dugan, Gord
+2023-999(IT)G
+Dossier : 2017-440(IT)G
+ENTRE :
+DENY JOHNSTON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu sur preuve commune avec les appels de Nandagopal Ayre (2017-3467(IT)G et 2017-3469(IT)G), Kenneth Cooper (2017-3119(IT)G), Sharon Docksteader (2017-2987(IT)G) et James Foran Sr. (2017-2985(IT)G), du 24 au 26 octobre 2023, du 30 octobre au 2 novembre 2023, du 6 au 9 novembre 2023, les 14 et 15 novembre 2023, les 27 et 28 mars 2024 et le 10 juin 2024, à Calgary (Alberta).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocats de l’appelant :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+Consulter la liste des appelants liés à l’annexe A du présent jugement.
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 2009, 2010 et 2011 ainsi qu’à l’encontre de la cotisation établie pour l’année d’imposition 2012 de l’appelant sont rejetés, avec dépens.
+L’intimé se voit accorder la possibilité de parvenir à une entente négociée sur les dépens avec les appelants types, les appelants liés et Profitable Giving Canada en vue de déterminer le montant des dépens et leur répartition appropriée, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Si les parties ne parviennent pas à conclure une telle entente d’ici le 30 mai 2025, alors :
+Au plus tard le 30 juin 2025, l’intimé doit signifier à Profitable Giving Canada, aux appelants types et aux appelants liés, et déposer auprès de la Cour, un mémoire de frais consolidé accompagné d’observations écrites d’au plus 30 pages à l’appui de ce mémoire et portant sur la répartition appropriée de ces dépens, notamment le rôle que pourrait jouer Profitable Giving Canada dans le recouvrement et la remise des dépens payables à l’intimé par les appelants types et les appelants liés.
+Au plus tard le 31 juillet 2025, Profitable Giving Canada, les appelants types et les appelants liés peuvent signifier et déposer des observations écrites d’au plus 20 pages en réponse au mémoire de frais consolidé de l’intimé et aux observations qui l’accompagnent.
+Au plus tard le 29 août 2025, l’intimé peut signifier et déposer une réponse d’au plus 10 pages aux observations écrites de Profitable Giving Canada, des appelants types et des appelants liés.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+Appelant
+Appel
+Chaulk, Rob
+2015-2108(IT)I
+Boyle, Christine
+2015-2296(IT)G
+Selvakaralan, Ravichandra
+2016-4747(IT)I
+Malley, John Paul
+2016-5399(IT)G
+Jewell, Christine R.
+2017-1463(IT)G
+Spelliscy, Brett P.
+2017-1903(IT)I
+Keizer, Mike
+2017-207(IT)G
+Foran, James Jr.
+2017-2979(IT)G
+Foran, James JR
+2017-2980(IT)G
+Lauzon, Andrew
+2017-2992(IT)G
+Styles, Bruce
+2017-2994(IT)G
+Cooper, Kenneth
+2017-3112(IT)G
+Smyth, David
+2017-3123(IT)G
+Smyth, David
+2017-3125(IT)G
+Woo, Danny
+2017-438(IT)G
+Cote, Venence
+2017-441(IT)G
+Lederhos, Gilbert L.
+2017-442(IT)G
+Spark, Gary
+2017-445(IT)G
+Martinez, Andres
+2018-2740(IT)I
+Amoah, Ebenezer D
+2018-2882(IT)I
+Liao, Peter J.C.
+2018-3357(IT)I
+Torres, Alvin
+2018-4149(IT)I
+Wirachowsky, Michael
+2019-1013(IT)I
+Anusic, Ivica
+2019-4345(IT)I
+Anusic, Ivica
+2019-4346(IT)I
+Larocque, Normand
+2019-4545(IT)I
+Lacasse, Linda
+2019-4546(IT)I
+Lanthier, Lyne
+2020-2415(IT)I
+Stec, Andrzej
+2021-593(IT)I
+Pinter, Joanne Marie
+2022-2269(IT)G
+Ursulak, Aaron
+2022-2509(IT)I
+Popovich, Alice Joan
+2022-2540(IT)I
+Ali Beiki, Mahnaz
+2022-2690(IT)I
+Macartney, Michael
+2022-2716(IT)I
+Campbell, Yvonne A.
+2022-3006(IT)I
+Gaces, Villa
+2022-3128(IT)I
+Gaces, Villa
+2022-3129(IT)I
+Arndt, Dan
+2022-341(IT)I
+Monk, Jeffrey M.
+2023-1022(IT)G
+Curran-Fotopoulos, Colleen
+2023-1023(IT)G
+Voth, Shirley
+2023-1086(IT)G
+Styles, Vanessa
+2023-1093(IT)G
+Styles, Jordan
+2023-1121(IT)G
+Lachance, Denis
+2023-1157(IT)I
+Pinter, Philip Doug
+2023-1179(IT)G
+MacDonald, Tanis
+2023-1193(IT)I
+Marcoux, Daniel L.
+2023-1217(IT)G
+Cote, Sandra
+2023-1236(IT)I
+Vandra, Rimple
+2023-129(IT)I
+Wiens, Barbara
+2023-141(IT)G
+Lowe, Stephen
+2023-1729(IT)G
+Murray. Gunda
+2023-1737(IT)G
+Chan, Shui Keung
+2023-1745(IT)G
+Leiding, Jason
+2023-1760(IT)G
+Collin, Margaret
+2023-1780(IT)G
+Rioux, Jean-Luc
+2023-1824(IT)I
+Popma, Marius
+2023-1834(IT)G
+Popma, Joyce
+2023-1835(IT)G
+Balash, Steve
+2023-1953(IT)I
+Madsen, Kelly
+2023-201(IT)G
+Wright, Derry
+2023-218(IT)G
+Tokeson, Wendy
+2023-222(IT)I
+Joyal, Derek
+2023-263(IT)I
+Chartrand, Shelia
+2023-29(IT)G
+Chartrand, Real
+2023-30(IT)G
+Leitao, Timothy J
+2023-331(IT)I
+Rampurawala, Rashida
+2023-333(IT)I
+Rampurawala, Murtuza
+2023-336(IT)I
+Hanson, Michael
+2023-438(IT)G
+Harvey, John
+2023-454(IT)G
+Pak, Winnie
+2023-458(IT)G
+Kostenchuk, Jon
+2023-48(IT)G
+The Estate of Barry Mackenzie
+2023-483(IT)G
+Brown, David
+2023-484(IT)G
+Chong, Yin Ha
+2023-510(IT)G
+Marr, Ron
+2023-560(IT)G
+Tran, Duc V.
+2023-561(IT)G
+Lau, Anita M
+2023-563(IT)G
+Graham, Danielle
+2023-588(IT)G
+McDougall, Darren
+2023-593(IT)G
+Thompson, Simon
+2023-744(IT)I
+Bookal, Syney W
+2023-75(IT)I
+Ignat, Costel
+2023-774(IT)G
+McCullough, Mark
+2023-782(IT)G
+Hamernyk, Stan
+2023-783(IT)G
+Wickum, Marcel
+2023-796(IT)G
+Sunga-Castelvi, Evelyn I.
+2023-798(IT)G
+Lebid, Jason
+2023-81(IT)G
+Tyschinski, Sheila
+2023-810(IT)G
+Carragher, Joel Z.
+2023-813(IT)G
+Wallace, Ida Maybeth
+2023-861(IT)I
+Koss, Shane
+2023-87(IT)G
+Williamson, Susan
+2023-897(IT)G
+Huard, Yvon
+2023-899(IT)I
+Knister, Ray G.
+2023-900(IT)I
+Semchuk, Dorian
+2023-933(IT)G
+Werstiuk, Matthew
+2023-950(IT)G
+Lebid, Jodi
+2023-96(IT)G
+Dugan, Gord
+2023-999(IT)G
+Table des matières
+Aperçu 1
+Exposés conjoints des faits et témoins ayant témoigné 9
+Calendriers promotionnels de RLG et de MLF 12
+Prétendu fonctionnement des programmes RLG et MLF 15
+Fonctionnement réel des programmes RLG et MLF 16
+Deux conclusions de fait centrales 17
+Prêts fictifs 18
+Juste valeur marchande 21
+Représentants autorisés des programmes RLG et MLF 27
+Organismes de bienfaisance choisis par les programmes RLG et MLF 30
+Témoignages des appelants types 30
+Critère de la crédibilité 30
+Pourquoi les appelants types ne satisfont-ils pas au critère de la crédibilité? 33
+Sharon Docksteader 43
+Kenneth Cooper 44
+Deny Johnston 45
+Nandagopal Ayre 47
+James Foran Sr. 48
+Thèse des appelants types 50
+Analyse 52
+Conclusion 58
+Annexe A – Calendrier du programme Relief Lending Group Inc. (mai 2009)
+Annexe B – Calendrier des dons de MissionLife Financial Inc. (janvier 2010)
+Annexe C – Prétendue dette contractée par chaque appelant dans le cadre du programme
+Annexe D – Taux d’intérêt imposés aux appelants types (tableau)
+Annexe E – Taux d’intérêt imposés à chaque appelant type (graphique)
+Annexe F – Dons de bienfaisance habituels faits par chaque appelant type
+Référence : 2025 CCI 41
+Date : 20250310
+Dossiers : 2017-3467(IT)G
+2017-3469(IT)G
+2017-3119(IT)G
+2017-2987(IT)G
+2017-2985(IT)G
+2017-440(IT)G
+ENTRE :
+NANDAGOPAL AYRE, KENNETH COOPER,
+SHARON DOCKSTEADER, JAMES FORAN Sr. et DENY JOHNSTON,
+appelants,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Spiro
+Aperçu [1] Ces six appels sont des causes types aux termes de l’article 146.1 des Règles de la Cour canadienne de l’impôt (procédure générale). Connexes à ces causes types sont quatre-vingt-dix-neuf autres appels liés par une ordonnance modifiée de nouveau rendue le 16 janvier 2019 par le juge Hohan à titre de juge chargé de la gestion de l’instance[1]. Ces autres appels seront liés par la décision définitive rendue dans ces six causes types[2].
+[2] Dans les présents jugements et leurs motifs, je désigne les cinq appelants types comme les « appelants types » et les quatre-vingt-dix-neuf autres appelants, qui ont tous accepté d’être liés par la décision définitive rendue dans les appels types, comme les « appelants liés »[3].
+[3] Les appelants liés ont déposé des avis d’appel auprès de la Cour en vue de contester les cotisations par lesquelles le ministre du Revenu national a rejeté leurs demandes de crédits d’impôt présentées au titre de l’article 118.1 de la Loi de l’impôt sur le revenu pour des dons faits dans le cadre d’un ou de plusieurs des programmes suivants :
+Relief Lending Group Inc. (« RLG »);
+MissionLife Financial Inc. (« MLF »);
+Canadian Organization for International Philanthropy (« COIP »);
+PharmaGifts International (« PGI »).
+[4] Les appelants types ont participé à des arrangements de don utilisés comme abris fiscaux enregistrés créés, promus, commercialisés et administrés par RLG (le « programme RLG ») ou MLF (le « programme MLF »). La preuve dont dispose la Cour porte sur le programme RLG en 2009 et 2010 ainsi que sur le programme MLF en 2009, 2010, 2011 et 2012[4].
+[5] Les appelants types saisissent la Cour des questions suivantes :
+Ont-ils fait des dons en espèces et des dons de produits pharmaceutiques valides?
+Les accords de financement pour l’achat de produits pharmaceutiques constituent-ils un trompe-l’œil?
+Si leurs dons de produits pharmaceutiques faits dans le cadre des programmes RLG et MLF sont valides :
+Quelle est la juste valeur marchande des produits pharmaceutiques dont ils ont fait don aux organismes de bienfaisance? Correspond-elle au coût des produits pharmaceutiques indiqué dans les accords de financement ou à autre chose?
+Le montant admissible du don de produits pharmaceutiques est-il nul suivant les paragraphes 248(31) à 248(41) de la Loi de l’impôt sur le revenu?
+Les accords de financement conclus dans le cadre des programmes RLG et MLF ont-ils permis aux appelants types de recevoir un avantage visé au sens de l’alinéa 3100(1)d) du Règlement de l’impôt sur le revenu, de sorte que le montant du don de bienfaisance est nul en application de l’article 237.1 de la Loi de l’impôt sur le revenu?
+Le coût des produits pharmaceutiques est-il nul conformément au paragraphe 143.2(6) de la Loi de l’impôt sur le revenu parce que le montant de leurs dépenses selon les accords de financement n’excède pas le montant à recours limité se rapportant aux dépenses?
+[6] La position des appelants types à l’égard de chacune de ces questions est la suivante :
+Ils ont fait des dons de bienfaisance valides et ont droit aux crédits d’impôt correspondants.
+L’accord de financement conclu du fait de leur participation aux programmes RLG et MLF est juridiquement contraignant et ne constitue pas un trompe-l’œil.
+La juste valeur marchande des produits pharmaceutiques ayant fait l’objet de dons n’est pas surestimée.
+Le montant admissible du don n’est pas nul suivant la Loi de l’impôt sur le revenu.
+Le montant du don de bienfaisance n’est pas nul suivant la Loi de l’impôt sur le revenu.
+Le coût des produits pharmaceutiques n’est pas nul suivant la Loi de l’impôt sur le revenu.
+[7] La position de la Couronne à l’égard de chacune de ces questions est la suivante :
+Les appelants types n’ont fait aucun don de bienfaisance valide.
+L’accord de financement conclu du fait de leur participation aux programmes RLG et MLF constitue un trompe-l’œil.
+La juste valeur marchande des produits pharmaceutiques ayant fait l’objet de dons est surestimée.
+Le montant admissible du don est nul suivant la Loi de l’impôt sur le revenu.
+Le montant du don de bienfaisance est nul suivant la Loi de l’impôt sur le revenu.
+Le coût des produits pharmaceutiques est nul suivant la Loi de l’impôt sur le revenu.
+[8] Après quinze jours de témoignages et une journée de plaidoirie, et compte tenu des observations écrites des parties, je conclus que la réponse à la toute première question est déterminante. Aucun des appelants types n’a fait de dons en espèces ni de dons de produits pharmaceutiques valides, puisqu’ils n’avaient pas l’intention libérale requise lorsqu’ils les ont faits dans le cadre des programmes RLG et MLF en 2009, 2010, 2011 et 2012.
+[9] Il est bien établi que l’intention libérale est un élément essentiel d’un don de bienfaisance. Comme le fait remarquer le juge Pizzitelli dans la décision Mariano c. La Reine, 2015 CCI 244 :
+[19] Selon l’intimée, le principe de l’intention libérale comporte donc un élément essentiel : le donateur doit avoir l’intention de « s’appauvrir » en faisant son don. Je conviens que ce principe est admis en droit.
+[20] Il est clair que l’élément de l’« appauvrissement » est essentiel pour déterminer l’intention libérale, et que cet élément est souvent exprimé de la manière suivante : « s’appauvrir », « ne pas s’enrichir » ou « ne pas tirer profit du don » […].
+[10] Les appelants types n’ont jamais eu l’intention de s’appauvrir en faisant des dons en espèces et des dons de produits pharmaceutiques dans le cadre des programmes RLG ou MLF. Au contraire, ils avaient l’intention de s’enrichir. Pour cette seule raison, les appelants types n’ont pas droit aux crédits d’impôt qu’ils ont demandés pour les années d’imposition 2009, 2010, 2011 et 2012 au titre de l’article 118.1 de la Loi de l’impôt sur le revenu. Pour parvenir à cette conclusion, je tire deux conclusions de fait centrales.
+[11] Premièrement, je conclus que ni RLG ni MLF n’ont consenti de prêts aux appelants types. Ces derniers ont acheté les produits pharmaceutiques en utilisant uniquement la somme qu’ils ont versée à RLG et à MLF, sous forme de quatre années d’intérêts payés d’avance. J’expose ci-après les motifs sur lesquels repose cette conclusion.
+[12] Deuxièmement, je conclus que la juste valeur marchande des produits pharmaceutiques ayant fait l’objet de dons ne pouvait pas avoir dépassé le prix payé par les appelants types pour ces produits, c’est-à-dire la somme qu’ils ont versée à RLG et à MLF, sous forme de quatre années d’intérêts payés d’avance. J’expose ci-après les motifs sur lesquels repose cette conclusion.
+[13] Le tableau ci-après montre les dépenses engagées et les crédits d’impôt demandés par les appelants types pour chaque année d’imposition. Il résume les avantages financiers que chaque appelant type a reçus, et s’attendait à recevoir, du fait de sa participation aux programmes[5] :
+Appelant type
+Année d’imposition
+Total des dépenses engagées[6]
+Total des crédits d’impôt demandés[7]
+M. Ayre
+2009
+2 450,00 $
+7 495,00 $
+2010
+4 628,32 $
+10 484,83 $
+2011
+9 641,60 $
+27 474,16 $
+Total :
+16 719,92 $
+45 453,99 $
+M. Cooper
+2010
+4 096,80 $
+7 232,86 $
+2011
+6 907,20 $
+13 246,89 $
+2012
+4 914,40 $
+8 255,72 $
+Total :
+15 918,40 $
+28 735,47 $
+Mme Docksteader
+2009
+2 041,20 $
+3 487,28 $
+2010
+2 167,20 $
+5 333,70 $
+2011
+2 458,00 $
+6 652,56 $
+2012
+4 914,40 $
+13 352,40 $
+Total :
+11 580,80 $
+28 825,94 $
+M. Foran
+2009
+4 204,80 $
+8 817,48 $
+2010
+13 262,40 $
+28 869,45 $
+2011
+17 206,00 $
+41 686,22 $
+2012
+9 828,80 $
+39 084,90 $
+Total :
+44 502,00 $
+118 458,05 $
+Appelant type
+Année d’imposition
+Total des dépenses engagées
+Total des crédits d’impôt demandés
+M. Johnston
+2009
+43 002,00 $
+94 584,91 $
+2010
+52 668,90 $
+150 504,21 $
+2011
+20 494,80 $
+38 776,76 $
+2012
+9 828,80 $
+28 414,15 $
+Total :
+125 994,50 $
+312 280,03 $
+Total général :
+2009-2012
+214 715,62 $
+533 753,48 $
+[14] Compte tenu de ma conclusion, je n’ai pas besoin d’examiner les autres questions soulevées par les appelants types.
+Portée des programmes RLG et MLF
+[15] Plusieurs des hypothèses de fait du ministre invoquées par la Couronne reflètent l’empreinte financière des programmes RLG et MLF telle que RLG et MLF l’a présentée au ministre. Ces hypothèses sont notamment les suivantes :
+Pour 2009, RLG a envoyé à 1 679 contribuables un feuillet de renseignements sur l’abri fiscal indiquant une juste valeur marchande totale déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre de ce programme pour cette année-là de 53 777 890 $[8].
+Pour 2010, RLG a envoyé à 1 170 contribuables un feuillet de renseignements sur l’abri fiscal indiquant une juste valeur marchande totale déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre de ce programme pour cette année-là de 38 652 292 $[9].
+Pour 2009, MLF a envoyé à 2 353 contribuables un feuillet de renseignements sur l’abri fiscal indiquant une juste valeur marchande totale déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre de ce programme pour cette année-là de 63 829 500 $[10].
+Pour 2010, MLF a envoyé à 3 812 contribuables un feuillet de renseignements sur l’abri fiscal indiquant une juste valeur marchande totale déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre de ce programme pour cette année-là de 114 067 920 $[11].
+Pour 2011, MLF a envoyé à 4 128 contribuables un feuillet de renseignements sur l’abri fiscal indiquant une juste valeur marchande totale déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre de ce programme pour cette année-là de 135 294 740 $[12].
+Pour 2012, MLF a envoyé à 728 contribuables un feuillet de renseignements sur l’abri fiscal indiquant une juste valeur marchande totale déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre de ce programme pour cette année-là de 23 440 500 $[13].
+[16] La juste valeur marchande déclarée des produits pharmaceutiques ayant fait l’objet de dons dans le cadre des programmes entre 2009 et 2012 était d’un peu moins de 430 000 000 $[14]. De plus, selon des éléments de preuve présentés au procès, l’un des quatre organismes de bienfaisance en cause (Trinity Global Support Foundation) s’était vanté d’avoir recueilli des produits pharmaceutiques d’une juste valeur marchande totale de 69 000 000 $ au cours d’une seule année (2010)[15].
+Exposés conjoints des faits et témoins ayant témoigné [17] Les présents appels types ont été entendus sur preuve commune. Les faits convenus ont été présentés à la Cour au moyen d’un exposé conjoint (partiel) des faits[16] et d’une annexe complémentaire à cet exposé[17].
+[18] Les parties conviennent que les appelants types ont acheté des produits pharmaceutiques et en ont fait don à des organismes de bienfaisance en 2009, 2010, 2011 et 2012[18]. Plus précisément, elles s’entendent pour dire que les produits pharmaceutiques achetés par les appelants types et ayant fait l’objet de dons aux quatre organismes de bienfaisance dans le cadre des programmes RLG et MLF sont les suivants :
+Ciprofloaxacin en comprimés de 250 mg;
+Fluconazole en comprimés de 150 mg;
+Comprimés antirétroviraux 3 en 1 (600 mg d’éfavirenz, 200 mg d’emtricitabine et 300 mg de fumarate de ténofovir disaproxil);
+Comprimés antirétroviraux 3 en 1 (150 mg de lamivudine, 30 mg de stavudine et 200 mg de névirapine);
+Comprimés antirétroviraux 2 en 1 (150 mg de lamivudine et 300 mg de zidovudine);
+Névirapine en comprimés de 200 mg;
+Comprimés antirétroviraux 3 en 1 (150 mg de lamivudme, 300 mg de zidovudine et 200 mg de névirapine).
+[19] Selon les brochures préparées par les organismes de bienfaisance désignés, les produits pharmaceutiques devaient servir à traiter les enfants atteints du VIH/sida en Afrique subsaharienne. Je n’ai aucune raison d’en douter. Je n’accepte toutefois pas la thèse avancée par les appelants types selon laquelle la juste valeur marchande des produits pharmaceutiques a diminué de 90 % entre 2009-2012, lorsqu’ils ont acheté leurs produits pharmaceutiques par l’intermédiaire de RLG et de MLF, et 2013, lorsqu’ils ont acheté les mêmes produits pharmaceutiques par l’intermédiaire de Justice Trading[19].
+[20] Au procès, la Cour a entendu les douze témoins profanes et les deux témoins experts suivants :
+Sharon Docksteader
+Appelante type (années d’imposition 2009, 2010, 2011 et 2012 : programme MLF).
+Kenneth Cooper
+Appelant type (années d’imposition 2010, 2011 et 2012 : programme MLF).
+Deny Johnston
+Appelant type (années d’imposition 2009, 2010, 2011 et 2012 : programme MLF).
+Nandagopal Ayre
+Appelant type (années d’imposition 2009 et 2010 : programme RLG; et année d’imposition 2011 : programme MLF).
+James Foran Jr.
+Appelant type (années d’imposition 2009, 2010, 2011 et 2012 : programme MLF).
+Paul Lauzon
+Représentant autorisé de MLF et conseiller financier de M. Cooper, Mme Docksteader et M. Foran Sr.
+Lance Simonin
+Représentant autorisé de MLF et conseiller financier de M. Johnston.
+Grahame Green
+Représentant autorisé de RLG et de MLF et conseiller financier de M. Ayre.
+Robert John Pipa
+Âme dirigeante des sociétés ayant fourni les produits pharmaceutiques aux appelants types dans le cadre des programmes RLG et MLF.
+Miki Rozen
+Dirigeant de Justice Trading Ltd., qui a permis aux appelants types de se retirer des programmes RLG et MLF à compter de 2013 grâce à l’achat de produits pharmaceutiques du même type et en quantité identique à ceux achetés par l’intermédiaire de RLG et de MLF pour les années d’imposition 2009 à 2012 (les « produits pharmaceutiques de remplacement »).
+Mussarat Ziaiedana
+Fonctionnaire à l’Agence du revenu du Canada.
+Mona Eng
+Fonctionnaire à l’Agence du revenu du Canada.
+Pierre Paradis
+Expert en économie appliquée appelé par les appelants types pour témoigner sur la juste valeur marchande des produits pharmaceutiques.
+Ernst Berndt
+Expert en économie appliquée appelé par la Couronne pour témoigner sur la juste valeur marchande des produits pharmaceutiques.
+Calendriers promotionnels de RLG et de MLF [21] Selon les calendriers promotionnels de RLG et de MLF, les programmes ont été conçus pour permettre aux participants d’obtenir des crédits d’impôt supérieurs à leurs dépenses totales et à la juste valeur marchande des produits pharmaceutiques dont ils ont fait don. Les calendriers promotionnels faisaient partie intégrante du matériel promotionnel des programmes, lequel comprenait, selon le programme et le représentant autorisé, une présentation PowerPoint, une présentation vidéo ainsi que des brochures. Par exemple, dans une présentation PowerPoint de RLG, la définition du terme « abri fiscal » était la suivante :
+[traduction]
+« Vos dépenses sont inférieures ou égales à ce que vous recevez en crédit d’impôt ou en remboursement. » (LIR)[20]
+[22] Il est utile d’avoir les annexes A et B à portée de main pour lire les prochains paragraphes.
+Calendrier promotionnel de Relief Lending Group Inc.
+[23] RLG a préparé le premier calendrier promotionnel[21]. Il était destiné à des clients éventuels de l’Ontario et leur aurait été présenté en mai 2009 ou un peu avant[22]. Il est reproduit à l’annexe A des présents motifs.
+[24] Supposons que le client éventuel s’était inscrit en mai 2009. Son taux d’intérêt était alors fixé à 4,10 %. La [traduction] « dépense totale initiale » du client correspondait à son « don en espèces de 3 % » plus ses « intérêts payés d’avance ». Rien ne laissait croire qu’une autre dépense devait ultérieurement être engagée.
+[25] Prenons un exemple à l’extrémité inférieure de l’échelle. Supposons que le client éventuel disposait de moins de 1 200 $ en espèces, mais qu’il souhaitait obtenir un taux de rendement de 141 % en participant au programme RLG. Dans ce cas, le capital de son prêt aurait été de 6 100 $, mais il n’aurait dépensé que 1 183 $ (183 $ à titre de don en espèces de 3 %, plus 1 000 $ à titre d’intérêts payés d’avance). Toutefois, ses crédits d’impôt prévus s’élèveraient à 2 848 $, ce qui porterait son taux de rendement à 141 %. En contrepartie d’une dépense totale de 1 183 $, il s’attendait à obtenir des crédits d’impôt de 2 848 $.
+[26] À l’extrémité supérieure de l’échelle, si le client disposait d’un peu moins de 148 000 $, il pouvait bénéficier du même taux de rendement de 141 % en participant au programme RLG. Dans ce cas, le montant déclaré de son prêt serait de 762 500 $, mais le montant payé n’aurait été que de 147 875 $ (22 875 $ à titre de don en espèces de 3 % et 125 000 $ à titre d’intérêts payés d’avance). Toutefois, ses crédits d’impôt prévus s’élèveraient à 356 000 $, ce qui porterait son taux de rendement à 141 %. En contrepartie d’une dépense totale de 147 875 $, il s’attendait à obtenir des crédits d’impôt de 356 000 $.
+Calendrier promotionnel de MissionLife Financial Inc.
+[27] L’autre calendrier promotionnel déposé en preuve a été préparé par MLF[23]. Il ressemble de façon frappante au calendrier promotionnel préparé par RLG, ce qui m’amène à croire qu’ils ont été préparés par la même personne ou le même groupe. Il était destiné à des clients éventuels de la Colombie-Britannique et leur aurait été présenté en janvier 2010 ou un peu avant[24]. Ce calendrier promotionnel figure à l’annexe B des présents motifs.
+[28] Supposons que le client s’était inscrit en janvier 2010. Son taux d’intérêt était alors fixé à 3,5 %. La [traduction] « dépense totale initiale » du client correspondait à son « don en espèces de 3 % » plus ses « intérêts payés d’avance ». Rien ne laissait croire qu’une autre dépense devait ultérieurement être engagée.
+[29] Prenons un exemple à l’extrémité inférieure de l’échelle. Supposons que le client disposait de moins de 2 200 $ en espèces, mais qu’il souhaitait obtenir un taux de rendement de 158 % en participant au programme MLF. Dans ce cas, il aurait déclaré un prêt de 12 840 $, mais il n’aurait payé que 2 186 $ (386 $ à titre de don en espèces de 3 % et 1 800 $ à titre d’intérêts payés d’avance). Ses crédits d’impôt prévus s’élèveraient à 5 645 $, ce qui porterait son taux de rendement à 158 %. Il aurait payé 2 186 $ pour obtenir des crédits d’impôt de 5 645 $.
+[30] À l’extrémité supérieure de l’échelle, si le client disposait de 273 150 $ en espèces, il pouvait bénéficier du même taux de rendement de 158 % en participant au programme MLF. Dans ce cas, le montant déclaré de son prêt serait de 1 605 000 $, mais il n’aurait dépensé que 273 150 $ (48 150 $ à titre de don en espèces de 3 % et 225 000 $ à titre d’intérêts payés d’avance). Ses crédits d’impôt prévus s’élèveraient à 705 594 $, ce qui porterait son taux de rendement à 158 %. Il aurait payé 273 150 $ pour obtenir des crédits d’impôt de 705 594 $.
+[31] Les calendriers promotionnels ont été préparés par des professionnels. Ils étaient clairs, directs et précis. Ils étaient rédigés pour être lus, compris et mis en œuvre. On ne peut toutefois pas en dire autant de certains autres documents de marketing, qui avaient apparemment été dictés, sans être relus. Par exemple :
+Dans leurs brochures en anglais, RLG et MLF indiquent que les organismes de bienfaisance désignés par les programmes doivent respecter ou dépasser leurs « dispersement obligations » (au lieu de « disbursement » – obligations en matière de versements)[25].
+Dans leurs brochures, RLG et MLF expliquent que les produits pharmaceutiques ne sont pas importés au Canada en raison de certains coûts, dont la TPS et la « excised tax » (au lieu de « excise » – taxe d’accise)[26].
+Dans leurs brochures, RLG et MLF mentionnent le « principle amount » (au lieu de « principal » – capital)[27].
+Prétendu fonctionnement des programmes RLG et MLF [32] La manière dont les programmes MLF et RLG prétendaient fonctionner est illustrée par l’exemple suivant fondé sur le matériel promotionnel de RLG[28]. Les en-têtes sont ceux utilisés par RLG :
+Emprunt
+Le contribuable contracte un prêt de 10 976 $ auprès de RLG, remboursable huit ans après avoir fait un don en espèces de 329,28 $ (3 % de 10 976 $) à un organisme de bienfaisance enregistré.
+RLG délivre un certificat au contribuable attestant le prêt consenti par RLG au contribuable.
+Le contribuable rembourse à l’avance les quatre premières années d’intérêts sur le prêt de huit ans au moyen d’un chèque de 2 000 $.
+Achat
+À l’aide des fonds empruntés, le contribuable achète des produits pharmaceutiques d’une juste valeur marchande de 10 976 $ qui seront fournis à un organisme de bienfaisance enregistré.
+Don
+Le contribuable obtient un reçu faisant état d’un don de produits pharmaceutiques d’une juste valeur marchande de 10 976 $.
+Le contribuable obtient un reçu faisant état d’un don en espèces de 329,28 $ (3 % de 10 976 $).
+Règlement
+À l’échéance du prêt de huit ans, le contribuable rembourse le prêt de 10 976 $ en espèces ou en achetant et en fournissant des produits pharmaceutiques de remplacement.
+Fonctionnement réel des programmes RLG et MLF [33] Compte tenu de l’ensemble de la preuve, j’estime que les programmes ne fonctionnaient pas de la façon dont RLG et MLF le prétendaient. Ils fonctionnaient plutôt ainsi :
+Le contribuable paie pour participer au programme
+Le contribuable paie pour s’inscrire au programme au moyen d’un chèque de 2 000 $ libellé à l’ordre de RLG ou de MLF. Cette somme est versée sous forme de quatre années d’intérêts payés d’avance sur un prêt fictif de huit ans. Il s’agit du seul montant que le contribuable paie, ou s’attend à payer, en contrepartie des crédits d’impôt qu’il s’attend à recevoir entre 2009 et 2012.
+Le programme prétend prêter de l’argent au contribuable
+RLG ou MLF prétend consentir au contribuable un prêt de 10 976 $, remboursable après huit ans en espèces ou en produits pharmaceutiques.
+RLG ou MLF fournit au contribuable un ensemble de documents pseudo-juridiques censés faire état d’un prêt de huit ans de 10 976 $ consenti par RLG ou MLF au contribuable (y compris ce qui semble être un accord de prêt, un coupon, un certificat de crédit et un billet à ordre).
+Le contribuable fait un paiement en espèces de 329,28 $ (3 % de 10 976 $) à un organisme de bienfaisance désigné.
+L’argent sert à financer l’achat de produits pharmaceutiques par le contribuable
+La somme versée à RLG ou à MLF finance l’achat de produits pharmaceutiques par le contribuable à une fraction de la juste valeur marchande indiquée sur le reçu fiscal que le contribuable s’attend à recevoir en contrepartie de ce versement.
+Le contribuable obtient un reçu fiscal faisant état d’un « don rentable »
+En contrepartie de ce versement, le contribuable obtient, comme prévu, un reçu fiscal faisant état d’un don de produits pharmaceutiques d’une juste valeur marchande de 10 976 $.
+Le contribuable paie des frais supplémentaires imprévus pour se retirer du programme
+Suivant la fin des programmes RLG et MLF, les anciens représentants autorisés de RLG ou de MLF, qui sont maintenant des représentants autorisés de Justice Trading, demandent à leurs clients de ne pas tenir compte des lettres envoyées au nom de leur prétendu créancier, à savoir RLG ou MLF. À compter de 2013, une nouvelle entité appelée ProfitableGiving Canada convainc le contribuable que RLG et MLF sont des acteurs malveillants et lui demande de faire un paiement en espèces à Justice Trading pour financer l’achat de produits pharmaceutiques de remplacement.
+Le contribuable émet un chèque de 1 100 $ (environ 10 % de 10 976 $) à l’ordre de Justice Trading.
+Deux conclusions de fait centrales [34] Selon la prépondérance des probabilités, deux conclusions de fait centrales se dégagent de la preuve dans son ensemble :
+Les prêts de RLG et de MLF n’ont jamais existé;
+La juste valeur marchande des produits pharmaceutiques ne dépassait pas le prix payé par les appelants types pour ces produits, soit la somme versée à RLG ou à MLF sous forme de quatre années d’intérêts payés d’avance.
+Prêts fictifs [35] Je conclus qu’aucun des appelants types n’a contracté de prêt auprès de RLG ou de MLF ni ne s’est endetté envers RLG ou MLF[29]. Cette conclusion de fait repose sur les éléments suivants :
+L’obligation de rembourser un prêt ou les quatre dernières années d’intérêts n’est indiquée nulle part dans les calendriers promotionnels[30].
+Rien ne démontre que RLG ou MLF a vérifié la solvabilité des appelants types.
+Les prêts dépassaient le niveau d’emprunt réaliste pour tous les appelants types, dont la plupart étaient retraités ou semi-retraités ou approchaient de la retraite. L’examen du niveau de revenu de chaque appelant type démontre que les prétendus prêts étaient invraisemblables[31].
+Le taux d’intérêt appliqué à chaque prêt dépendait du mois au cours duquel le prêt était contracté. Il augmentait progressivement chaque mois, passant du taux le plus bas en janvier au taux le plus élevé en décembre. Ce n’est pas ainsi que fonctionnent les taux d’intérêt. Les taux d’intérêt offerts aux appelants types étaient très variables[32].
+Comme je le mentionne plus haut, la juste valeur marchande totale déclarée des produits pharmaceutiques qui auraient fait l’objet de dons dans le cadre des programmes était d’un peu moins de 430 000 000 $. Le prix d’achat des produits pharmaceutiques aurait été financé à l’aide de prêts totalisant 430 000 000 $. Comment RLG et MLF ont-ils pu prêter 430 000 000 $ entre 2009 et 2012? Cette question demeure sans réponse[33].
+Les appelants types étaient censés rembourser leur prêt en fournissant des produits pharmaceutiques. Pourquoi des prêteurs de bonne foi ayant des créances en espèces de 430 000 000 $ concluraient-ils un accord les obligeant à accepter la livraison de marchandises, telles que des produits pharmaceutiques, plutôt qu’un paiement en espèces[34]?
+Pourquoi des emprunteurs ne tiendraient-ils pas compte des lettres envoyées au nom de créanciers de bonne foi? C’est exactement ce qu’a fait chacun des appelants types après avoir reçu une lettre d’une agence de recouvrement agissant pour le compte de RLG ou de MLF. Pourquoi les appelants types n’ont-ils pas traité directement avec leur créancier pour rembourser leur prêt?
+Les appelants types n’ont appelé personne de RLG ou de MLF à témoigner au procès, bien que la Couronne ait soutenu que les accords de financement étaient un trompe-l’œil. Cela donne fortement à penser que les dirigeants de RLG ou de MLF auraient rendu un témoignage défavorable aux appelants types. Si les dirigeants de RLG et de MLF étaient introuvables, cela en dit long. Quoi qu’il en soit, leur absence au procès mine la confiance qu’on pourrait avoir dans l’authenticité des prêts ou la bonne foi des prêteurs.
+[36] Compte tenu de tout ce qui précède, selon la prépondérance des probabilités, l’explication la plus plausible est qu’il n’y a jamais eu de prêts[35].
+[37] Bien que les appelants types aient témoigné qu’ils croyaient avoir contracté des prêts, soit ils savaient qu’ils n’avaient contracté aucun prêt, soit ils avaient volontairement ignoré ce fait[36]. Bien que je ne fonde pas ma conclusion sur la théorie du trompe-l’œil de la Couronne, l’hypothèse du ministre selon laquelle les accords de financement étaient un trompe-l’œil est amplement étayée par la preuve[37]. Comme le juge Noël de la Cour d’appel fédérale le déclare dans une remarque incidente dans l’arrêt Antle c. Canada, 2010 CAF 280, il y a trompe-l’œil lorsque « les parties à une opération la présentent comme différente de la réalité qu’elles connaissent ». Dans le présent contexte, il n’y a aucune différence entre la connaissance réelle et l’ignorance volontaire. Comme le fait remarquer le juge Boyle dans la décision Harvard Properties Inc. c. Le Roi, 2024 CCI 139 (souligné dans l’original) :
+[145] Dans les cas d’évitement fiscal, faire preuve d’ignorance volontaire revient à participer intentionnellement à une entreprise d’évitement fiscal ayant échoué. Dans l’arrêt Wynter c. Canada, 2017 CAF 195, le juge Rennie a écrit ce qui suit :
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée : R. c. Briscoe, 2010 CSC 13, aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la doctrine de l’ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21. L’ignorance volontaire est la doctrine ou le mécanisme par lequel l’élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[…]
+[16] En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L’élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d’une intention de tromper.
+[38] Dans l’arrêt Wynter, le juge Rennie note également ce qui suit :
+[15] La jurisprudence ne permet pas de conclure que l’intention de tromper doit être établie pour que l’on puisse conclure à la connaissance et, plus précisément, à l’ignorance volontaire.
+[39] Comme le fait remarquer le juge Hogan dans la décision Paletta c. La Reine, 2019 CCI 205, la réalité objective joue un rôle important pour déterminer s’il y a trompe-l’œil :
+[126] Dans le cas du trompe-l’œil, le juge doit examiner la réalité objective qui entoure les accords afin de déterminer si les documents relatifs aux opérations reflètent vraiment l’intention des parties. La preuve directe de l’existence d’un trompe-l’œil est rare lorsqu’une affaire est entendue par le juge. En l’absence de la reconnaissance de l’existence d’un trompe-l’œil, le juge doit apprécier la preuve indirecte.
+[40] Les appelants types savaient que leurs produits pharmaceutiques étaient achetés avec la somme qu’ils avaient versée sous forme de quatre années d’intérêts payés d’avance, ou ils ont volontairement ignoré ce fait. Cela nous amène à la question de la juste valeur marchande.
+Juste valeur marchande [41] Au paragraphe 8 de l’arrêt Canada (Procureur général) c. Nash, 2005 CAF 386, le juge Rothstein cite la définition du terme « juste valeur marchande » provenant de l’arrêt Henderson Estate rendu par le juge Cattanach :
+[8] La définition généralement admise de la juste valeur marchande se trouve dans la décision du juge Cattanach, dans l’affaire Succession Henderson et Bank of New York c. M.R.N., 73 D.T.C. 5471, à la page 5476 :
+La Loi ne donne aucune définition de l’expression « juste valeur marchande »; celle-ci a été définie de diverses façons, généralement selon ce qu’avait à l’esprit la personne cherchant à formuler la définition. Je ne crois pas nécessaire d’essayer de donner une définition précise de cette expression telle qu’employée dans la Loi; il suffit, me semble-t-il, de dire qu’il y a lieu de donner à ces mots leur sens ordinaire. Dans son sens courant, me semble-t-il, cette expression désigne le prix le plus élevé que le propriétaire d’un bien peut raisonnablement s’attendre à en tirer s’il le vend de façon normale et dans le cours ordinaire des affaires, le marché n’étant pas soumis à des pressions inhabituelles et étant constitué d’acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n’ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d’acheter ou de vendre. J’ajouterais que cet exposé succinct de mon point de vue sur le sens à donner à l’expression « juste valeur marchande » comprend ce que j’estime être l’élément essentiel, soit un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l’offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d’acheter et de vendre.
+Bien que le juge Cattanach ait pris soin de signaler qu’il n’essayait pas de donner une définition « précise » , le fait que la formule qu’il propose a été retenue telle quelle dans la jurisprudence depuis une trentaine d’années permet de penser que, même si elle n’est pas nécessairement exhaustive, sa définition est maintenant considérée comme la définition applicable[38].
+[42] Dans le même arrêt, le juge Rothstein ajoute ce qui suit :
+[17] Pour appliquer la définition de la juste valeur marchande proposée dans le jugement Henderson, il faut, dans un premier temps, identifier avec précision le bien dont on doit établir la juste valeur marchande. Ce n’est qu’une fois que ce bien a été identifié que l’on peut déterminer le marché dans lequel il est normalement vendu dans le cours ordinaire des affaires[39].
+[Non souligné dans l’original.]
+[43] Les appelants types et la Couronne ont chacun appelé à témoigner un expert en économie appliquée pour étayer leur thèse respective sur la juste valeur marchande. L’économiste appelé à témoigner par les appelants types, M. Paradis, a essentiellement examiné les ventes au détail des produits pharmaceutiques. Il a imaginé un monde où les participants aux programmes RLG et MLF s’étaient rendus à leur pharmacie locale et avaient acheté pour 430 000 000 $ de produits pharmaceutiques entre 2009 et 2012.
+[44] L’économiste de la Couronne, M. Berndt, s’est principalement intéressé à la vente de produits pharmaceutiques par les fabricants. Il a imaginé un monde où les participants aux programmes RLG et MLF avaient traité directement avec les fabricants de produits pharmaceutiques pour leur en acheter entre 2009 et 2012.
+[45] Puisqu’aucun de ces deux marchés ne me semblait être le marché approprié, j’ai posé une question à chaque expert en tant que membre d’un groupe d’experts[40]. J’ai posé la question suivante à M. Paradis :
+[traduction]
+MONSIEUR LE JUGE : […] Le montant que les donateurs de produits pharmaceutiques participant à un abri fiscal ont réellement payé pour les produits pharmaceutiques n’est-il pas le meilleur indicateur de la juste valeur marchande, de la valeur marchande ou de la valeur[41]?
+[…] Supposons qu’ils n’ont aucun lien de dépendance avec la partie à laquelle ils ont acheté les produits pharmaceutiques. […] Supposons un marché assez vaste pour qu’il y ait un nombre suffisant d’opérations afin de pouvoir utiliser les données sur ces opérations réelles réalisées dans ce marché donné. Et la question est de savoir s’il s’agit du meilleur indicateur de ce que vous appelez la juste valeur marchande, la valeur marchande ou la valeur. Serait-ce le meilleur indicateur, M. Paradis?
+M. PARADIS : Je crois que oui… Le prix des produits pharmaceutiques devrait être un bon indicateur de leur juste valeur marchande[42].
+[46] Cette réponse concorde avec le rapport d’expert de M. Paradis, dans lequel il a écrit ce qui suit (renvois omis) :
+[traduction]
+31. Pour estimer la juste valeur marchande d’un produit donné, il faut analyser les données sur les agents économiques qui ont acheté le produit (les « acheteurs ») et ceux [qui] l’ont vendu (les « vendeurs ») sur le marché en question[43].
+[Non souligné dans l’original.]
+[47] Après avoir mentionné que les produits pharmaceutiques sont des produits de base, une affirmation avec laquelle M. Berndt était d’accord[44], M. Paradis a ensuite écrit ce qui suit au sujet de tels produits (renvois omis) :
+[traduction]
+34. [L]a notion du « prix le plus élevé » renvoie au prix du marché auquel le produit en question est vendu à un groupe d’acheteurs précis dans des conditions particulières de marché[45].
+[Non souligné dans l’original.]
+[48] J’ai posé la même question à M. Berndt en tant que membre du même groupe d’experts :
+[traduction]
+MONSIEUR LE JUGE : […] Dans un marché où les donateurs de produits pharmaceutiques participant à un abri fiscal, qui sont les derniers -- qui sont les acheteurs dont il est question, ils n’ont aucun lien de dépendance avec la personne qui leur a vendu les produits pharmaceutiques… Le marché est assez vaste pour que nous disposions de données sur les opérations réelles, sur les prix réellement payés par ces donateurs de produits pharmaceutiques participant à un abri fiscal. Est-ce que ces prix réellement payés par ces donateurs sans lien de dépendance seraient le meilleur indicateur de la juste valeur marchande, de la valeur marchande ou de la valeur?
+M. BERNDT : Je suis d’accord que ce serait un très bon indicateur[46]. […]
+MONSIEUR LE JUGE : […] Il s’agit d’une opération consensuelle, sur un marché libre de toutes restrictions, où les gens choisissent d’entrer, choisissent d’acheter ou de ne pas acheter, selon leur volonté, et de vendre ou de ne pas vendre, selon leur volonté. […] Que pensez-vous de la proposition selon laquelle le meilleur indicateur de la juste valeur marchande, de la valeur marchande ou de la valeur serait les prix réellement payés par les donateurs de produits pharmaceutiques participant à un abri fiscal; qu’il s’agirait du meilleur indicateur? Êtes-vous d’accord?
+M. BERNDT : Je suis d’accord[47].
+[49] Les réponses de M. Berndt concordent avec son rapport d’expert (renvois omis) :
+[traduction]
+27. Il existe plusieurs notions différentes de « juste valeur marchande », et la valeur peut souvent être une notion quelque peu subjective selon le point de vue. […] Dans le présent rapport, j’adopte à l’égard de la valeur le point de vue d’un économiste. Je la définis comme le prix auquel un acheteur disposé à acheter et un vendeur disposé à vendre concluent volontairement une opération visant un bien ou un service sur un marché non réglementé. Essentiellement, le prix de l’opération payé pour un produit est un indicateur de sa valeur sous-jacente. Cette définition est conforme à la théorie économique classique.
+28. Estimer le prix d’un produit entre dans la catégorie des approches d’évaluation fondée sur le marché, c’est-à-dire fondée sur des données observables provenant d’opérations sur le marché[48].
+[Non souligné dans l’original.]
+[50] Plutôt que d’imaginer un monde où les participants aux programmes pourraient avoir acheté les produits pharmaceutiques à leur pharmacie locale ou directement du fabricant, la bonne approche est d’examiner le marché sur lequel les participants ont acheté leurs produits pharmaceutiques de 2009 à 2012. Comme le mentionne le juge Rothstein dans l’arrêt Nash :
+[24] […] lorsqu’il existe un marché sur lequel sont négociés des biens correspondant à ceux qui font l’objet de l’évaluation, il n’est pas nécessaire de recourir à un indice indirect.
+[51] Dans l’arrêt Klotz c. Canada, 2005 CAF 158 [Klotz (CAF)], la Cour d’appel fédérale confirme la décision du juge en chef adjoint Bowman de la Cour (publiée dans 2004 CCI 147 sub nom. Klotz c. La Reine) [Klotz (CCI)] et rejette l’appel du contribuable à l’audience. Ce faisant, le juge Sexton fait remarquer ce qui suit :
+[4] Le juge de la Cour de l’impôt a refusé d’accepter la preuve d’évaluation soumise par le contribuable en ce qui concerne la juste valeur marchande des esquisses, pour le motif que l’évaluateur avait tenu compte du mauvais marché. Il a statué que « l’ampleur du programme de dons d’œuvres d’art en grande quantité a créé son propre marché » et que, contrairement à ce qu’alléguait le contribuable, le marché pertinent n’était pas constitué de galeries se spécialisant dans la vente au détail d’œuvres d’art où les œuvres sont vendues sur une base individuelle.
+[5] Le juge de la Cour de l’impôt a statué que même si les galeries vendant des œuvres d’art au détail constituaient le marché approprié, la preuve soumise par le contribuable ne justifiait pas la juste valeur marchande que celui-ci alléguait. Ainsi, le juge a conclu que la preuve de ventes réelles d’esquisses identiques ou similaires était presque inexistante.
+[6] Le juge de la Cour de l’impôt a donc statué que la meilleure preuve de la juste valeur marchande des esquisses était le prix que le contribuable avait payé, soit 75 000 $.
+[7] L’appelant a soutenu que le juge de la Cour de l’impôt avait commis une erreur de droit en refusant de conclure que la juste valeur marchande était fondée sur le marché de détail (c’est-à-dire sur les ventes d’esquisses individuelles par les galeries d’art). Nous ne sommes pas d’accord.
+[8] La question de la juste valeur marchande et la question de savoir comment cette juste valeur marchande est calculée sont des questions de fait. La détermination du marché approprié fait partie de la détermination de la juste valeur marchande et il s’agit d’une question de fait [renvois omis].
+[9] Nous ne pouvons conclure qu’en déterminant la juste valeur marchande des esquisses, le juge de la Cour de l’impôt a commis une erreur de droit, ou qu’il a commis une erreur manifeste dominante dans ses conclusions de fait.
+[Non souligné dans l’original.]
+[52] J’estime que le marché approprié en l’espèce est le marché sur lequel les appelants types ont réellement acheté leurs produits pharmaceutiques. Je juge également que la juste valeur marchande des produits pharmaceutiques achetés par les appelants types sur ce marché n’aurait pas pu dépasser le montant qu’ils ont réellement payé pour les acheter, à savoir la somme versée par chaque appelant type sous forme de quatre années d’intérêts payés d’avance[49].
+[53] Les représentants autorisés des programmes RLG et MLF ont donné l’occasion aux appelants types de faire des « dons rentables » en participant aux programmes. Chacun d’entre eux a témoigné au procès.
+Représentants autorisés des programmes RLG et MLF Paul Lauzon
+[54] M. Lauzon était le représentant autorisé de MLF qui a vendu à M. Cooper, à Mme Docksteader et à M. Foran le concept de « don rentable ».
+[55] Il a commencé sa carrière dans les années 1970 en tant que vendeur d’assurance. Au début des années 1990, il est devenu planificateur financier et vendait divers produits de placement. Il investissait également lui-même dans les produits. Les produits dans lesquels il investissait ont fini par inclure ceux commercialisés par MLF, qu’il décrivait comme des outils financiers permettant à ses clients de générer immédiatement des rentrées de fonds[50]. Il a rapidement assumé le rôle de représentant autorisé de MLF.
+[56] M. Lauzon a témoigné que le programme MLF aiderait ses clients à générer des [traduction] « rentrées de fonds[51] » au moyen de « prêts réels »[52].
+[57] Au départ, la commission de M. Lauzon correspondait à 25 % de la somme versée sous forme de quatre années d’intérêts payés d’avance par client qui s’inscrivait au programme MLF. Sa commission est ensuite passée à 33 % de cette somme.
+[58] M. Lauzon a arrêté de participer à la commercialisation et à la vente du programme MLF au printemps de 2012 lorsque le programme MLF a pris fin. Il est alors devenu représentant autorisé d’un nouveau programme appelé Justice Trading. Il a conseillé à ses clients de ne pas tenir compte des lettres qu’une agence de recouvrement leur envoyait au nom de MLF et les a plutôt invités à acheter des produits pharmaceutiques de remplacement auprès de Justice Trading. Lorsqu’il recommandait Justice Trading à ses clients, M. Lauzon recevait en contrepartie des frais correspondant à 12 % de l’argent payé pour les produits pharmaceutiques de remplacement.
+Lance Simonin
+[59] De 2010 à 2012, M. Simonin était vendeur pour le Fast Track Group. Le Fast Track Group était composé de plusieurs divisions, dont l’une faisait la promotion d’abris fiscaux déterminés, y compris le programme MLF.
+[60] M. Simonin était responsable des relations avec la clientèle au sein de la division des abris fiscaux du Fast Track Group. Cette division faisait la promotion du programme MLF et portait le nom de « Fight Aids Save Taxes ». Il aidait des clients, dont M. Johnston, à participer au programme MLF[53]. Ses commissions étaient calculées en fonction de ses ventes.
+[61] En décembre 2010, il a aidé M. Johnston à participer, pour une deuxième fois cette année-là, au programme MLF. M. Johnston avait besoin d’obtenir d’autres crédits d’impôt afin d’éviter d’avoir à payer 54 000 $ à titre d’impôt sur le revenu pour cette année d’imposition[54].
+Grahame Green
+[62] À divers moments, M. Green a été représentant autorisé du programme RLG, du programme MLF et de Justice Trading. Il exerçait ses activités à partir de Calgary, où il animait une douzaine de séminaires chaque année devant 50 à 70 clients éventuels. M. Green invitait des représentants de RLG, de MLF et, plus tard, de Justice Trading à venir y prendre la parole. Pour chaque client qu’il inscrivait au programme RLG ou MLF, il recevait une commission correspondant à 35 % de l’argent payé sous forme de quatre années d’intérêts payés d’avance.
+[63] De 2009 à 2010, M. Green a été représentant autorisé du programme RLG. De 2011 à 2012, il a été représentant autorisé du programme MLF. En 2013, il est devenu représentant autorisé du programme Justice Trading. M. Ayre a participé à ces trois programmes.
+[64] Au moment où M. Green a été présenté à M. Ayre, ce dernier avait déjà participé au programme RLG en 2009 par l’entremise de son père. Lorsque M. Ayre a déménagé à Airdrie, en Alberta, en 2010, M. Green est devenu le représentant autorisé de RLG auprès de M. Ayre. Tout comme M. Lauzon, M. Green participait lui-même au programme.
+[65] Lorsque RLG a mis fin à son programme à la fin de 2010, M. Green est devenu représentant autorisé du programme MLF. Encore là, sa commission correspondait à 35 % de l’argent payé sous forme de quatre années d’intérêts payés d’avance.
+[66] MLF a arrêté d’offrir son programme en Alberta en 2011. À la fin de 2012, M. Green est devenu représentant autorisé de Justice Trading. La commission de M. Green correspondait à 10 % de l’argent payé par chacun de ses clients pour leurs produits pharmaceutiques de remplacement.
+Organismes de bienfaisance choisis par les programmes RLG et MLF [67] À chaque année de participation au programme RLG ou MLF, les appelants types étaient tenus de faire don d’un petit montant d’argent à l’un des organismes de bienfaisance enregistré figurant sur la liste suivante :
+African Computer and Technology Literacy Awareness Program (« ACTLAP »);
+Canadian Friends of Pearl Children (« CFPC »);
+Help Eliminate Disease and Addiction Canada (« HEDAC »);
+Trinity Global Support Foundation (« TGSF »).
+[68] Des premiers dons faits par les appelants types en 2009 jusqu’aux derniers dons faits en 2012, ces organismes étaient des organismes de bienfaisance enregistrés au sens de la Loi de l’impôt sur le revenu. Le ministre a par la suite révoqué leur enregistrement.
+Témoignages des appelants types [69] Les témoignages des appelants types étaient, en un mot, étonnants. Aucun d’entre eux n’a eu l’honnêteté d’admettre qu’il avait participé aux programmes RLG et MLF afin de s’enrichir. Leur manque de franchise envers la Cour sur cet élément central leur a fait perdre toute crédibilité.
+Critère de la crédibilité [70] Pourquoi déciderais-je de ne pas accepter les témoignages des appelants types? Dans la 8e édition de l’ouvrage The Law of Evidence, les auteurs expliquent ce qui suit (renvois omis) :
+[traduction]
+Ce n’est pas parce qu’un élément de preuve a été admis qu’il sera nécessairement utilisé. L’ensemble du processus d’admission de la preuve vise à fournir au juge des faits les renseignements dont il a besoin pour rendre une décision. Une fois la preuve admise, le juge des faits doit décider quoi en faire.
+Pour s’acquitter de cette obligation, le juge des faits doit déterminer les renseignements admis en preuve qu’il retiendra et sur lesquels il se fondera pour rendre sa décision. Il n’existe aucune présomption selon laquelle les témoins sont crédibles, que leur témoignage est exact ou que la preuve admise sera retenue et utilisée. […] Le juge des faits est libre d’accepter une partie ou la totalité de la preuve admissible produite par un témoin, ou de la rejeter en totalité.
+Pour décider le poids à accorder au témoignage, le juge des faits doit l’évaluer à la fin de l’instance compte tenu de tous les autres éléments de preuve. Pour déterminer s’il convient de retenir le témoignage, le juge des faits tiendra compte de la « crédibilité » (l’honnêteté du témoin lorsqu’il rend son témoignage) et de la « fiabilité » (l’exactitude du témoignage livré par un témoin honnête). Il le fera en examinant un éventail d’éléments, notamment […] la vraisemblance du témoignage (évaluée en fonction des « probabilités qui caractérisent les faits de l’espèce »), la cohérence interne et externe du témoignage du témoin et la question de savoir s’il existe de l’information à l’appui (autrement dit, comment le témoignage « se compare » à d’autres renseignements disponibles)[55].
+[Non souligné dans l’original.]
+[71] L’une des premières déclarations canadiennes sur la crédibilité a été faite en 1948 par le juge O’Halloran de la Cour d’appel de la Colombie-Britannique dans l’arrêt R. v. Pressley :
+[traduction]
+Le critère judiciaire le plus satisfaisant consiste à déterminer si la vérité concorde avec la prépondérance des probabilités, telle que les faits et les circonstances la révèlent eu égard aux circonstances de l’affaire[56].
+[72] Cependant, qu’en est-il si le témoignage d’un témoin n’est pas contredit? Dois-je le retenir? Trois ans plus tard, dans l’arrêt Faryna v. Chorny, le juge O’Halloran s’est penché sur cette question :
+[traduction]
+[L]a validité de la preuve ne dépend pas, en dernière analyse, du fait qu’elle n’est pas contredite […][57].
+[73] Comme l’a déclaré le juge en chef Tremblay de la Cour d’appel du Québec dans l’arrêt Légaré c. The Shawinigan Water and Power Co. Ltd. :
+[L]es tribunaux ne sont pas tenus de croire les témoins, même s’ils ne sont pas contredits par d’autres témoins. Leur version peut être invraisemblable par suite de circonstances révélées par la preuve ou par suite des règles du simple bon sens[58].
+[74] En anglais, cet extrait est ainsi rédigé :
+[C]ourts are not required to believe witnesses, even if they are not contradicted. Their version may be implausible as a result of circumstances revealed by the evidence, or simply on the basis of common sense[59].
+[75] Un juge peut estimer qu’un témoin manque de crédibilité, surtout si d’autres éléments de preuve contredisent son récit. Comme le fait remarquer le juge Saunders de la Cour d’appel de la Nouvelle-Écosse dans l’arrêt R. v. D.D.S. :
+[traduction]
+L’expérience nous enseigne que l’une des meilleures manières de déterminer la crédibilité et la fiabilité consiste à examiner minutieusement, attentivement et à maintes reprises les éléments de preuve pour voir comment ils se comparent. Comment le récit du témoin s’harmonise-t-il avec les autres éléments de preuve s’y rapportant, et ce, compte tenu de la norme de preuve applicable au civil ou au criminel[60]?
+[76] Qu’en est-il des témoins qui, comme les appelants types, ont un intérêt financier direct dans l’issue du litige? Dans l’arrêt Faryna v. Chorny, le juge O’Halloran fait la mise en garde suivante :
+[traduction]
+Il faut soumettre la version qu’il propose des faits à un examen raisonnable de sa compatibilité avec les probabilités afférentes à la situation considérée. Bref, le critère de véracité qu’on doit appliquer à la version du témoin dans un tel cas est sa conformité à la prépondérance des probabilités qu’une personne pratique et bien informée estimerait d’emblée raisonnable dans le lieu et la situation en question[61].
+[77] Dans la décision Nichols c. La Reine, la juge Valerie Miller fait remarquer qu’en matière de crédibilité, il faut notamment tenir compte de ce qui suit :
+[L]es incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés)[62].
+[78] La juge Miller note également qu’en matière de crédibilité, il faut également déterminer si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur[63]. Enfin, elle mentionne qu’il est possible de prendre en compte :
+[…] la teneur générale de la preuve. C’est‑à‑dire que j’ai toute latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables[64].
+Pourquoi les appelants types ne satisfont-ils pas au critère de la crédibilité? [79] Il ressort clairement de l’ensemble de la preuve, y compris des calendriers promotionnels et du montant des crédits d’impôt demandés, que les appelants types s’attendaient à s’enrichir en participant aux programmes. Cependant, ils ont laissé de côté cette partie dans leur récit. Par souci d’équité envers chacun d’entre eux, je reproduis leur récit exactement tel qu’il figure aux paragraphes 21 à 51 de leurs propres observations écrites[65] :
+[traduction]
+ii. Chacun des appelants était principalement motivé par la volonté de faire des dons de bienfaisance
+21. Pendant leurs témoignages, les appelants ont livré des témoignages crédibles et cohérents selon lesquels ils étaient principalement motivés par la volonté de faire des dons de bienfaisance.
+22. Chacun d’entre eux a également témoigné qu’il s’attendait à recevoir des crédits d’impôt pour ses dons de bienfaisance, comme il y aurait eu droit pour n’importe quel autre don.
+a) Mme Docksteader
+23. De 2009 à 2012, Mme Docksteader a fait des dons à CFPC.
+24. Dans son témoignage, Mme Docksteader a répété plusieurs fois qu’elle s’intéressait particulièrement à CFPC parce que cet organisme aidait les enfants :
+Q : Et qui -- pouvez-vous expliquer qui est CFPC, ou Canadian Friends of Pearl Children?
+R : Il s’agissait d’un organisme de bienfaisance canadien qui faisait don de produits pharmaceutiques à l’Ouganda, et en Afrique, il y avait -- eh bien, il y a encore une grande épidémie de sida là-bas, et je pense qu’elle a atteint son pic vers 2000, mais en tant que technicienne de laboratoire et en radiologie, l’épidémie de sida était quelque chose d’important pour moi, en plus du fait qu’il aidait les enfants, ce qui, pour moi, est une grande partie de ma vie, c’est de -- si nous pouvons aider les enfants à bien partir, ils peuvent partir de là.
+25. Elle a également expliqué ainsi pourquoi elle avait fait des dons à CFPC :
+Q : Et pendant cette rencontre, que vous a dit M. Lauzon au sujet du programme MLF?
+R : Il m’a parlé de -- j’ai regardé des brochures. Il m’a dit qu’il y avait deux organismes de bienfaisance différents à qui je pouvais faire des dons. J’ai évidemment choisi celui avec le mot « children » [(« enfants »)] dans le nom, parce que c’est ma passion. Il m’a dit que je devais assister au séminaire et -- pour voir de quoi il s’agissait. Et aussi, que si je faisais un don à un organisme de bienfaisance, je devrais avoir droit à des crédits d’impôt.
+26. Mme Docksteader a livré un témoignage convaincant selon lequel sa principale motivation à faire des dons à CFPC était d’aider les enfants atteints du sida.
+b) M. Cooper
+27. De 2010 à 2012, M. Cooper a fait des dons en espèces et des dons de produits pharmaceutiques à TGSF, un organisme confessionnel qui, selon lui, fournit des médicaments contre le VIH et le sida à la population africaine.
+28. M. Cooper a témoigné que les aspects caritatifs du programme, notamment la possibilité de sauver des vies, l’avaient enthousiasmé. Lorsqu’on lui a demandé pourquoi il avait fait des dons dans le cadre du programme MLF, il a expliqué ainsi ses raisons :
+Q : Pourquoi avez-vous participé au programme ces années-là?
+R : Je -- quand j’ai entendu parler du programme, j’étais assez -- assez enthousiaste à l’idée de pouvoir sauver des vies parce que le programme consistait notamment à fournir des médicaments contre le VIH/sida à la population africaine. J’ai été très satisfait de la -- la structure du programme. Le -- et j’espérais aussi obtenir un avantage fiscal, bien entendu, auquel je devais avoir droit. Mais je sentais aussi, plus que toute autre chose, même plus que ces deux raisons, que le programme devait être légal et éthique.
+29. De plus, M. Cooper a expliqué la signification des produits pharmaceutiques dont il avait fait don :
+Q : Vous souvenez-vous des produits pharmaceutiques dont vous avez fait don à Trinity?
+R : Oui. Il s’agissait de médicaments pour aider les personnes atteintes du VIH/sida. Il s’agissait d’antirétroviraux ainsi que de médicaments pour prévenir les maladies secondaires.
+Alors, en 2010, j’ai fait don de 138 unités de traitement, chacune composée d’une dose de ciprofloxacine, un antibiotique. Une dose de fluconazole, un antifongique. Et sept doses de ce cocktail d’antirétroviraux composé de lamivudine, de stavudine et de névirapine.
+En 2011, cela a légèrement changé. J’ai encore fait don d’une dose de ciprofloxacine dans chacune des unités de traitement. Et cela représentait 252 unités de traitement.
+30. Lorsqu’on lui a demandé pourquoi il avait augmenté ses dons au cours des années suivantes, M. Cooper a répondu ce qui suit :
+Q (Me Scheuerman) : Quelle était la raison de -- de l’augmentation du nombre d’unités de traitement dont vous faisiez don?
+R : J’espérais faire le plus de bien possible avec le -- avec mon don.
+31. Le témoignage cohérent et crédible de M. Cooper démontre qu’il était principalement motivé par la volonté de sauver les vies de personnes atteintes du sida.
+c) M. Johnston
+32. M. Johnston a fait des dons en espèces et des dons de produits pharmaceutiques à ACTLAP en 2009, à CFPC en 2010 et en 2012 et à TGSF en 2011.
+33. M. Johnston voulait plus particulièrement faire des dons dans le cadre du programme MLF, parce qu’il sentait qu’il voulait redonner à la société :
+Q : Alors, pourquoi avez-vous décidé de participer au programme MLF après avoir assisté à ces séminaires?
+R : Eh bien, comme je l’ai dit, quand j’étais enfant, j’étais -- nous comptions grandement et assez souvent sur l’aide sociale, et tout au long de ma vie, j’ai senti que je voulais redonner à la société pour aider les autres et que je le ferais quand j’en serais financièrement capable, et lorsqu’on m’a présenté le programme MLF, j’ai senti que c’était le moment de le faire parce qu’à l’époque, je gagnais un assez bon revenu, et j’aimerais le faire avant de prendre ma retraite, et c’est à ce moment-là que j’ai commencé à le faire.
+34. M. Johnston a également témoigné qu’il avait décidé de faire des dons dans le cadre du programme MLF parce que celui-ci faisait un travail admirable et distribuait des produits pharmaceutiques là où le besoin était le plus criant :
+Q : Oui, dans cette brochure. Y a-t-il autre chose qui vous a aidé à prendre votre décision?
+R : Eh bien, ça m’a semblé être un -- un bon programme. D’après la documentation que j’ai lue sur ce programme, MLF semblait faire un travail admirable en offrant ce programme afin de nous permettre de faire don des organismes de bienfaisance à ces -- ou de faire don des produits pharmaceutiques à ces organismes de bienfaisance, et je -- je croyais comprendre qu’il – il traitait avec des organismes de bienfaisance et des fournisseurs réputés pour la fourniture de produits pharmaceutiques et qu’ils les achemineraient là où on en avait le plus besoin.
+35. Plus particulièrement, lorsqu’il a fait ses dons en 2009, M. Johnston était motivé par le fait qu’ACTLAP fournissait des produits pharmaceutiques contre le VIH aux enfants dans le besoin :
+Q : Pourquoi avez-vous choisi de faire des dons à l’ACTLAP en 2009?
+R : Eh bien, c’était le -- l’un des organismes de bienfaisance que MLF soutenait, et la brochure que j’avais lue au sujet d’ACTLAP, j’ai senti que c’était une bonne cause.
+Q : Dans quel sens?
+R : Eh bien, ils -- ils distribuent des ordinateurs et aident aussi les gens à apprendre sur ces ordinateurs, et ils font aussi don de produits pharmaceutiques contre le VIH pour aider les enfants et ceux qui en ont besoin.
+36. En contre-interrogatoire, lorsqu’on lui a demandé pourquoi il avait fait deux dons pendant la même année, M. Johnston a expliqué ce qui suit :
+Q : Je vous pose donc encore une fois la question, M. Johnston. En communiquant avec M. Simonin pour faire un deuxième don, votre objectif était-il de vous assurer que vos dons étaient suffisants pour couvrir l’impôt à payer pour l’année d’imposition 2010?
+R : Non, en fait, je voulais couvrir l’impôt à payer, mais le -- je voulais donner plus et je -- je savais que les -- les dons précédents, qu’il y aurait des crédits d’impôt, donc j’avais l’intention de -- de faire un don plus important aux organismes de bienfaisance que je voulais soutenir.
+Et je savais que je -- je -- je pouvais seulement faire un don d’un certain montant, alors ce sont ces montants que j’ai donnés.
+37. Le fait que M. Johnston était au courant des incitatifs fiscaux prévus par la Loi pour les dons de bienfaisance ne contredit pas son témoignage dans lequel il explique qu’il était principalement motivé par la volonté de faire des dons à un organisme de bienfaisance.
+d) M. Ayre
+38. Entre 2009 et 2010, M. Ayre a fait des dons en espèces et des dons de produits pharmaceutiques dans le cadre du programme RLG à HEDAC, un organisme de bienfaisance qui, selon M. Ayre, aidait les familles et les victimes touchées par des maladies telles que le sida.
+39. En 2011, M. Ayre a fait des dons en espèces et des dons de produits pharmaceutiques dans le cadre du programme MLF à TGSF, un organisme de bienfaisance qui, selon M. Ayre, avait une approche fondée sur la foi et livrait des produits pharmaceutiques aux personnes dans le besoin.
+40. M. Ayre a déclaré à maintes reprises qu’il souhaitait faire des dons dans le cadre des programmes RLG et MLF parce que ces programmes lui permettaient de faire des dons à plus grande échelle. En ce qui concerne le programme RLG, M. Ayre a déclaré ce qui suit :
+Q : Et que vous a dit votre père au sujet du programme lorsqu’il vous a invité à ce séminaire?
+R : Il m’a dit que c’était l’occasion de participer à des activités de bienfaisance et de pouvoir faire un don à un organisme de bienfaisance d’un montant plus élevé que ce que j’aurais été capable de donner par moi-même.
+Et cela a piqué ma curiosité, parce que cela correspondait plutôt à mes valeurs. Nous avons grandi en aidant beaucoup la communauté, en recueillant des dons de denrées pour les refuges pour sans-abri, puis en servant de la nourriture dans ces refuges.
+41. M. Ayre a également déclaré ce qui suit :
+Q : Et quand vous êtes arrivé au séminaire et que vous avez entendu M. Allen parler, comment M. Allen a-t-il expliqué le programme?
+R : M. Allen a expliqué que le programme était l’occasion de participer à des activités de bienfaisance à une échelle beaucoup plus grande que ce que j’aurais pu faire seul. Et nous obtiendrions -- j’obtiendrais alors également des crédits d’impôt en participant au programme.
+42. M. Ayre a fait un deuxième don dans le cadre du programme RLG, parce qu’il croyait sincèrement que les produits pharmaceutiques dont il faisait don étaient livrés à ceux qui en avaient besoin et que ses dons aidaient les autres :
+Q (Me Scheuerman) : Et après avoir participé au programme RLG pour la première fois, pourquoi avez-vous ensuite décidé d’y participer une deuxième fois?
+R : J’ai décidé d’y participer une deuxième fois parce que je croyais que l’acte de bienfaisance avait réellement eu lieu. Et comme j’ai reçu une facture de la société pharmaceutique, de même qu’un reçu de l’organisme de bienfaisance qui indiquait qu’il avait reçu les produits pharmaceutiques, j’y ai vu une occasion de faire encore plus de bien.
+43. De plus, M. Ayre croyait que le programme MLF était l’occasion de participer à plus d’activités de bienfaisance pour faire plus de bien :
+Q : Merci. D’accord. Après votre participation au programme RLG en 2009 et en 2010, pourquoi avez-vous participé au programme MLF en 2011?
+R : Le programme MLF était nouveau. Et la -- l’une des grandes différences dans le programme était que les trois médicaments étaient inclus dans les -- dans les unités promises -- pardon, les -- les unités de soins, de sorte que -- que, votre Honneur, juste pour que nous soyons -- dans le programme MLF, la terminologie utilisée est différente. Donc, unité de soins et unités promises -- ou ils utilisent unités de traitement et unités de soins.
+Alors le -- et il y a eu un autre changement, c’était qu’on pouvait choisir parmi trois organismes de bienfaisance différents qui -- et j’y ai vu une occasion de faire plus de bien et de participer à plus d’activités de bienfaisance.
+44. M. Ayre a livré un témoignage crédible et cohérent selon lequel sa principale motivation était de faire le bien en faisant don de produits pharmaceutiques à plus grande échelle.
+e) M. Foran
+45. Entre 2009 et 2012, M. Foran a fait des dons en espèces et des dons de produits pharmaceutiques dans le cadre du programme MLF à CFPC, un organisme de bienfaisance qui, selon M. Foran, aidait les personnes atteintes du sida en Afrique.
+46. M. Foran a témoigné qu’il était particulièrement motivé à soutenir des causes venant en aide aux victimes de la pandémie de sida, puisque des membres de la famille de sa femme et de sa famille à lui étaient décédés du sida :
+Et l’un des programmes auxquels j’ai finalement participé était l’organisme de bienfaisance Canadian Friends of Pearl, et ce qui m’a impressionné à propos de cet organisme de bienfaisance, c’est qu’il fournissait des produits pharmaceutiques pour lutter contre le sida, la pandémie du sida -- la pandémie en Afrique. Il s’occupait des orphelins et des familles touchés par le -- le sida. Et cela nous a frappés, ma femme et moi, parce que nous avons tous les deux de la famille -- nous avons perdu des membres de notre famille à cause du sida. C’est une maladie terrible. Quand elle a frappé pour la première fois, il n’y avait pas de remède. Il n’y a pas de remède maintenant. Vous pouvez -- vous ne pouvez que gérer la maladie. Mais c’est une maladie terrible qui peut toucher une famille, sans parler de la stigmatisation qui y est associée.
+47. M. Foran souhaitait faire des dons à CFPC en raison des antécédents de sa famille en lien avec le sida, mais aussi parce que CFPC aidait les enfants, ce qui était une cause que sa femme avait à cœur.
+48. M. Foran était également motivé par le fait qu’il pouvait faire un don en nature de produits pharmaceutiques à CMFC plutôt qu’en espèces, car il savait alors que la totalité de son don irait aux utilisateurs finaux, car les produits pharmaceutiques ne pouvaient servir qu’à traiter des patients atteints du sida :
+Et -- et juste un peu, je -- la raison pour laquelle c’était important pour moi, c’est qu’en faisant don de produits pharmaceutiques, je pouvais -- je pouvais amplifier l’effet de mon don. Cent pour cent de ce que je donnais allait aux utilisateurs finaux, contrairement à un don en espèces, où on ne sait jamais vraiment où va l’argent. Dans les salaires? Dans la publicité? Où va-t-il? Et je -- c’est pourquoi je -- j’ai en quelque sorte évité les organismes de bienfaisance par le passé. Ce don, cependant, je -- je pouvais -- je -- je pouvais, à cent pour cent, savoir que ça allait là parce que les médicaments ne pouvaient -- ne pouvaient servir à rien d’autre. Ils -- on ne pouvait pas les vendre pour en dégager un profit. Vous savez, personne -- personne n’a besoin de produits pharmaceutiques contre le sida s’il n’a pas le sida.
+49. M. Foran voulait continuer de faire des dons à CFPC dans le cadre du programme MLF lorsqu’il a assisté à une présentation à Kelowna en 2010 où sœur Agnes, une sœur qui administrait les produits pharmaceutiques ayant fait l’objet de dons en Afrique, a parlé de tout le bien que les produits pharmaceutiques faisaient :
+Et de plus, en, je -- je crois que c’était en 2010, il y a eu une présentation donnée à Kelowna où une des sœurs, je crois que c’était sœur Agnes, est venue faire une présentation sur l’un des centres en Ouganda qui recevaient les médicaments, les produits pharmaceutiques, et qui nous a montré les répercussions de ces produits sur les gens dans -- dans cette région. Et c’était juste -- c’était vraiment la preuve que vos dons portaient des fruits.
+50. M. Foran a également témoigné que la présentation de sœur Agnes lui avait fait prendre conscience de l’importance de ses dons et de la différence qu’il faisait grâce à ces dons.
+Q : Et que vous souveniez -- que vous souvenez-vous de ce séminaire où sœur Agnes a fait une présentation?
+R : C’est là -- le programme a été présenté. Encore une fois, le programme Mission Life a été présenté à de nouveaux donateurs qui -- ou à d’éventuels nouveaux donateurs qui voulaient s’impliquer, et une partie du programme était présentée par sœur Agnes, qui était l’une des sœurs qui travaillaient en Afrique et qui était là pour nous montrer, nous dire les répercussions positives des dons de produits pharmaceutiques sur les gens en -- j’appellerai cela sa mission, les gens dont elle s’occupait, les gens qui venaient, les enfants et les adultes qui vivaient -- avaient le sida, qui vivaient avec le sida ou qui étaient orphelins à cause du sida. C’était une -- c’était une -- une très bonne présentation et elle -- elle m’a vraiment donné l’impression que ce que je faisais était légitime et en valait la peine.
+51. Compte tenu du témoignage crédible de M. Foran, sa principale motivation était d’aider les enfants atteints du sida.
+[80] Compte tenu de l’ensemble de la preuve, et contrairement aux récits intentionnellement incomplets et manifestement trompeurs qu’ils ont livrés, je conclus que les appelants types ont participé aux programmes RLG et MLF dans le but de réaliser un profit. Comme les tribunaux l’ont déjà mentionné, les manifestations objectives de l’intention ont plus de poids que les déclarations intéressées d’intention subjective. Dans la décision Chad c. Le Roi, 2024 CCI 142 (portée en appel à la Cour d’appel fédérale, dossier no A-384-24), le juge Sommerfeldt renvoie à plusieurs arrêts à ce sujet (renvois omis) :
+[127] En ce qui concerne la manière de prouver l’intention d’un contribuable, la Cour suprême du Canada a fourni des indications utiles. Dans l’arrêt Symes, le juge Iacobucci a déclaré ce qui suit :
+Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances.
+[128] De nombreuses années plus tard, dans l’arrêt Entreprises Ludco, le juge Iacobucci est revenu sur ce sujet :
+Dans l’interprétation de la Loi, tout comme dans d’autres domaines du droit, les tribunaux appelés à dégager l’objet d’une mesure ou l’intention de son auteur doivent déterminer objectivement la nature de la fin poursuivie en tenant compte à la fois des éléments subjectifs et objectifs pertinents.
+[129] Ainsi, comme l’a déclaré la juge Côté (dissidente) dans l’arrêt MacDonald :
+Nous sommes liés par les énoncés faisant autorité formulés dans les arrêts Symes et Ludco, selon lesquels l’intention est une question exigeant la prise en compte aussi bien de l’intention subjective du contribuable que de la présence ou l’absence de manifestations objectives de cette intention. Ni l’élément objectif ni l’élément subjectif ne sont déterminants à eux seuls.
+[130] Cependant, comme le mentionnent les juges majoritaires dans l’arrêt MacDonald, lorsque les déclarations subjectives d’intention et les manifestations objectives de l’intention ne concordent pas, il faut accorder plus de poids aux manifestations objectives.
+[81] Dans la décision Herring c. La Reine, 2022 CCI 41, mon collègue le juge Smith applique ces principes à la question de l’intention libérale :
+[118] Le droit est bien fixé : l’existence d’une « intention libérale » est en fin de compte une question de fait qui ne peut pas être tranchée de façon subjective. Comme l’a observé le juge Iacobucci dans la décision Symes c. Canada [1993] 4 RCS 695, par. 74 (« Symes ») :
+Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances ».
+[Non souligné dans l’original.]
+[82] Avant de décider de participer aux programmes RLG ou MLF, les appelants types n’avaient pratiquement rien fait pour soutenir un organisme de bienfaisance en particulier. Au cours des années précédentes, ils faisaient habituellement de petits dons[66]. Les appelants types n’avaient jamais fait de don à l’un des organismes de bienfaisance que RLG ou MLF leur demandait de soutenir, et aucun d’entre eux n’avait l’habitude de faire des dons aussi élevés que ceux indiqués sur les reçus fiscaux en litige dans les présents appels[67].
+[83] La seule nouveauté qu’offraient les programmes RLG et MLF aux appelants types était la possibilité de recevoir des crédits d’impôt dont la valeur dépassait le total de leurs dépenses, ce qui constitue l’essence même du « don rentable » dont chacun d’eux s’attendait pleinement à bénéficier.
+[84] J’expose brièvement ci-après la manière dont chaque appelant type a décidé de s’enrichir en participant aux programmes RLG et MLF.
+Sharon Docksteader [85] Sharon Docksteader a été la première appelante type à témoigner. Elle avait 75 ans et était semi-retraitée. Elle vit à Grand Forks, en Colombie-Britannique. Au fil des ans, elle avait fait des dons relativement petits (jamais plus de 800 $) à d’autres organismes de bienfaisance, principalement par l’intermédiaire de son club Rotary local.
+[86] M. Lauzon lui a parlé du programme MLF en décembre 2009. Sa fille lui avait recommandé M. Lauzon. Mme Docksteader a participé à un séminaire que M. Lauzon avait organisé à Kelowna, en Colombie-Britannique, pour faire la promotion du programme MLF. Mme Docksteader a signé une série de documents quelques jours après avoir assisté au séminaire. Elle devait choisir entre deux organismes de bienfaisance sélectionnés pour elle par MLF. Elle a choisi Canadian Friends of Pearl Children.
+[87] Le tableau ci-dessous indique, entre autres, le montant total payé par Mme Docksteader pour participer au programme MLF pour chaque année d’imposition ainsi que le total des crédits d’impôt qu’elle a demandés :
+Année d’imposition
+Somme versée pour participer au programme
+Somme versée à un organisme de bienfaisance
+Total des dépenses engagées
+Total des crédits d’impôt demandés
+Dons déclarés
+Dette fictive
+2009
+1 800,00 $
+241,20 $
+2 041,20 $
+3 487,28 $
+8 088,24 $
+8 040,00 $
+2010
+1 800,00 $
+367,20 $
+2 167,20 $
+5 333,70 $
+12 313,44 $
+12 240,00 $
+2011
+2 000,00 $
+458,00 $
+2 458,00 $
+6 652,56 $
+15 331,44 $
+15 240,00 $
+2012
+4 000,00 $
+914,40 $
+4 914,40 $
+13 352,40 $
+30 662,88 $
+30 480,00 $
+Total général :
+9 600,00 $
+1 980,80 $
+11 580,80 $
+28 825,94 $
+66 396,00 $
+66 000,00 $
+[88] En 2013, Mme Docksteader a adhéré à la théorie sans fondement défendue par Justice Trading selon laquelle sa dette fictive de 66 000 $ avait été acquittée pour 6 600 $, soit la somme qu’elle avait versée à Justice Trading. Elle a fait preuve d’ignorance volontaire jusqu’à la toute fin.
+Kenneth Cooper [89] Kenneth Cooper a ensuite témoigné. Il est à la retraite, mais travaille à temps partiel comme vendeur d’appareils électroménagers dans un magasin Home Depot de Kelowna, en Colombie-Britannique. Auparavant, il travaillait à temps partiel dans un magasin d’électronique. Et avant cela, il était inspecteur en santé publique au gouvernement de la Colombie-Britannique. Il payait régulièrement la dîme dans son lieu de culte, mais, à part cela, il n’avait jamais fait de dons de bienfaisance importants.
+[90] M. Cooper a rencontré M. Lauzon pour la première fois alors que ce dernier était vendeur d’assurance-vie. Il a par la suite rencontré M. Lauzon au sujet du programme MLF et a eu droit à une présentation PowerPoint sur le programme MLF au bureau de M. Lauzon à l’automne 2010. Ensuite, M. Lauzon a présenté à M. Cooper une série de documents. M. Cooper devait choisir l’un des deux organismes de bienfaisance suivants : Canadian Friends of Pearl Children ou Trinity Global Support Foundation. Il a choisi le deuxième.
+[91] Le tableau ci-dessous indique, entre autres, le montant total payé par M. Cooper pour participer au programme MLF pour chaque année d’imposition ainsi que le total des crédits d’impôt qu’il a demandés :
+Année d’imposition
+Somme versée pour participer au programme
+Somme versée à un organisme de bienfaisance
+Total des dépenses engagées
+Total des crédits d’impôt demandés
+Dons déclarés
+Dette fictive
+2010
+3 600,00 $
+496,80 $
+4 096,80 $
+7 232,86 $
+16 659,36 $
+16 560,00 $
+2011
+6 000,00 $
+907,20 $
+6 907,20 $
+13 246,89 $
+30 421,44 $
+30 240,00 $
+2012
+4 000,00 $
+914,40 $
+4 914,40 $
+8 255,72 $
+19 000,00 $
+30 480,00 $
+Total général :
+13 600,00 $
+2 318,40 $
+15 918,40 $
+28 735,47 $
+66 080,80 $
+77 280,00 $
+[92] En 2013, M. Copper a adhéré à la théorie sans fondement défendue par Justice Trading selon laquelle sa dette fictive de 77 280 $ avait été acquittée pour 7 535 $, soit la somme qu’il avait versée à Justice Trading. Il a fait preuve d’ignorance volontaire jusqu’à la toute fin.
+Deny Johnston [93] Deny Johnston, de Grande Pointe, au Manitoba, a ensuite témoigné. Il a travaillé comme électricien, puis est devenu gestionnaire de projet pour un entrepreneur-électricien. Il possédait plusieurs biens locatifs et était toujours à la recherche de nouvelles occasions d’investissement. Chaque année, il faisait de petits dons à des organismes de bienfaisance, mais aucun n’était assez élevé pour justifier un reçu pour don de bienfaisance.
+[94] Pour trouver des occasions d’investissement, il a assisté à une série de séminaires sur l’investissement organisée par une organisation appelée « FAST » ou « Fast Track to Success ». Il a réalisé quatre investissements différents par l’intermédiaire de FAST avant d’entendre parler du programme MLF à l’un des séminaires offerts à la fin de 2008 ou au début de 2009. Après avoir participé à d’autres séminaires, il a décidé de participer au programme MLF à la fin de 2009. Il devait choisir parmi les trois organismes de bienfaisance suivants : Canadian Friends of Pearl Children, Trinity Global Support Foundation et African Computer and Technology Literacy Awareness Program. Il a choisi le dernier. Quand on lui a demandé pourquoi il avait décidé de faire un chèque d’un peu plus de 7 000 $ à African Computer and Technology Literacy Awareness Program en 2009, il a répondu que [traduction] « [c’]était nécessaire pour participer au programme MLF »[68].
+[95] Pour 2010, il a fait des dons en espèces et des dons de produits pharmaceutiques à Canadian Friends of Pearl Children. Vers la fin de 2010, il a été surpris d’apprendre que, malgré les dons qu’il avait faits plus tôt cette année-là, il allait devoir payer un impôt sur le revenu de 54 000 $ pour cette année d’imposition. Il a donc décidé de participer une deuxième fois au programme MLF en 2010 pour s’assurer d’éviter de payer de l’impôt sur le revenu[69].
+[96] Pour 2011, il a fait des dons en espèces et des dons de produits pharmaceutiques à Trinity Global Support Foundation. En 2012, ses dépenses totalisant 9 829 $ ont donné lieu à des crédits d’impôt de 28 414 $, ce qui correspond à un taux de rendement de 189 %[70].
+[97] Le tableau ci-dessous indique, entre autres, le montant total payé par M. Johnston pour participer au programme MLF pour chaque année d’imposition ainsi que le total des crédits d’impôt qu’il a demandés :
+Année d’imposition
+Somme versée pour participer au programme
+Somme versée à un organisme de bienfaisance
+Total des dépenses engagées
+Total des crédits d’impôt demandés
+Dons déclarés
+Dette fictive
+2009
+36 000,00 $
+7 002,00 $
+43 002,00 $
+94 584,91 $
+203 935,59 $
+233 400,00 $
+2010
+43 200,00 $
+9 468,90 $
+52 668,90 $
+150 504,21 $
+324 451,32 $
+315 720,00 $
+2011
+18 000,00 $
+2 494,80 $
+20 494,80 $
+38 776,76 $
+83 658,96 $
+83 160,00 $
+2012
+8 000,00 $
+1 828,80 $
+9 828,80 $
+28 414,15 $
+61 325,76 $
+60 960,00 $
+Total général :
+105 200,00 $
+20 794,50 $
+125 994,50 $
+312 280,03 $
+673 371,63 $
+693 240,00 $
+[98] En 2015 et 2016, M. Johnston a adhéré à la théorie sans fondement défendue par Justice Trading selon laquelle sa dette fictive de 693 240 $ avait été acquittée pour 65 710 $, soit la somme qu’il avait versée à Justice Trading. Il a fait preuve d’ignorance volontaire jusqu’à la toute fin.
+Nandagopal Ayre [99] M. Ayre a ensuite témoigné. Il est travailleur en entretien dans un établissement correctionnel provincial à Calgary, en Alberta. Il a participé au programme RLG pour ses années d’imposition 2009 et 2010 et au programme MLF pour son année d’imposition 2011. Habituellement, chaque année, il faisait de petits dons en espèces à un organisme de bienfaisance. Aucun de ces dons n’était assez important pour justifier un reçu pour don de bienfaisance.
+[100] Le père de M. Ayre était représentant autorisé du programme RLG. Son père l’a emmené à l’un de ses séminaires, à la suite duquel M. Ayre a décidé de participer au programme RLG. En 2009 et 2010, le seul organisme de bienfaisance auquel les participants du programme RLG pouvaient faire des dons était Help Eliminate Disease and Addiction Canada.
+[101] Pour l’année d’imposition 2011, dans le cadre du programme MLF, M. Ayre a choisi l’organisme de bienfaisance Trinity Global Support Foundation. Quand on lui a demandé pourquoi il avait choisi de payer d’avance quatre années d’intérêts et de faire un don en espèces à Help Eliminate Disease and Addiction Canada en 2009, il a répondu qu’il s’agissait de deux conditions pour participer au programme RLG cette année-là[71].
+[102] Le tableau ci-dessous indique, entre autres, le montant total payé par M. Ayre pour participer au programme RLG pour les années d’imposition 2009 et 2010 et au programme MLF pour l’année d’imposition 2011 ainsi que le total des crédits d’impôt qu’il a demandés :
+Année d’imposition
+Somme versée pour participer au programme
+Somme versée à un organisme de bienfaisance
+Total des dépenses engagées
+Total des crédits d’impôt demandés
+Dons déclarés
+Dette fictive
+2009
+(RLG)
+2 000,00 $
+450,00 $
+2 450,00 $
+7 495,00 $
+15 090,00 $
+15 000,00 $
+2010
+(RLG)
+4 000,00 $
+628,32 $
+4 628,32 $
+10 484,83 $
+21 069,66 $
+20 944,00 $
+2011
+(MLF)
+8 000,00 $
+1 641,60 $
+9 641,60 $
+27 474,16 $
+55 048,32 $
+54 720,00 $
+Total général :
+14 000,00 $
+2 719,92 $
+16 719,92 $
+45 453,99 $
+91 207,98 $
+90 664,00 $
+[103] En 2013, M. Ayre a adhéré à la théorie sans fondement défendue par Justice Trading selon laquelle sa dette fictive de 90 664 $ avait été acquittée pour 7 706 $, soit la somme qu’il avait versée à Justice Trading. Il a fait preuve d’ignorance volontaire jusqu’à la toute fin.
+James Foran Sr. [104] James Foran a été le dernier des appelants types à témoigner. De 2009 à 2012, lorsqu’il a participé au programme MLF, il était directeur des ventes pour une société papetière. Il habitait à West Kelowna, en Colombie-Britannique. Au moment où on lui a présenté le programme MLF, M. Foran connaissait le concept de « don rentable ». Il avait demandé des crédits d’impôt de 71 830 $ pour 2006, de 101 269 $ pour 2007 et de 11 091 $ pour 2008 relativement au programme CHT[72]. Avant 2006, M. Foran et sa femme faisaient habituellement des dons de bienfaisance combinés d’environ 1 335 $ par année.
+[105] M. Lauzon était le conseiller financier de M. Foran depuis 2006. Ils se rencontraient plusieurs fois par année pour discuter d’investissements. Lors d’une de leurs réunions de planification financière, M. Lauzon lui a parlé du programme MLF comme moyen d’accumuler des fonds pour la retraite. M. Foran était impressionné par le fait que M. Lauzon avait lui-même participé au programme MLF. M. Foran a reçu la série de documents du programme MLF au printemps 2009 et a décidé d’y participer. Il a fait des dons en espèces et des dons de produits pharmaceutiques à Canadian Friends of Pearl Children. Quand on lui a demandé pourquoi il avait choisi de payer d’avance quatre années d’intérêts, M. Foran a répondu que [traduction] « cela faisait partie du programme »[73]. Quand on lui a demandé pourquoi il avait décidé de faire un petit don en espèces à Canadian Friends of Pearl Children, il a répondu que [traduction] « c’était nécessaire s[’il] voulai[t] participer au programme »[74].
+[106] Le tableau ci-dessous indique, entre autres, le montant total payé par M. Foran pour participer au programme MLF pour chaque année d’imposition ainsi que le total des crédits d’impôt qu’il a demandés :
+Année d’imposition
+Somme versée pour participer au programme
+Somme versée à un organisme de bienfaisance
+Total des dépenses engagées
+Total des crédits d’impôt demandés
+Dons déclarés
+Dette fictive
+2009
+3 600,00 $
+604,80 $
+4 204,80 $
+8 817,48 $
+20 280,96 $
+20 160,00 $
+2010
+10 800,00 $
+2 462,40 $
+13 262,40 $
+28 869,45 $
+66 171,00 $
+82 080,00 $
+2011
+14 000,00 $
+3 206,00 $
+17 206,00 $
+41 686,22 $
+95 500,00 $
+106 680,00 $
+2012
+8 000,00 $
+1 828,80 $
+9 828,80 $
+39 084,90 $
+89 547,32 $
+60 960,00 $
+Total général :
+36 400,00 $
+8 102,00 $
+44 502,00 $
+118 458,05 $
+251 218,32 $
+269 880,00 $
+[107] En 2013, M. Foran a adhéré à la théorie sans fondement défendue par Justice Trading selon laquelle sa dette fictive de 269 880 $ avait été acquittée pour 26 985 $, soit la somme qu’il avait versée à Justice Trading. Il a fait preuve d’ignorance volontaire jusqu’à la toute fin.
+Thèse des appelants types [108] L’avocat des appelants types[75] s’est fortement appuyé sur l’arrêt Friedberg c. Canada, [1991] A.C.F. no 1255, de la Cour d’appel fédérale. Il a résumé les conditions énoncées dans cet arrêt pour déterminer si un contribuable a fait un don de bienfaisance :
+le bien donné appartient au donateur;
+le donateur fait un transfert volontaire du bien;
+le donateur ne reçoit pas d’avantage ni de contrepartie, ce qui, dans la jurisprudence ultérieure, a été interprété comme signifiant que le donateur doit avoir eu une intention libérale[76].
+[109] Les parties conviennent que les deux premières conditions énoncées dans l’arrêt Friedberg sont remplies[77]. La question est de savoir si les appelants types ont rempli la troisième condition énoncée dans l’arrêt Friedberg, à savoir l’intention libérale.
+[110] Dans sa plaidoirie, l’avocat a présenté une nouvelle thèse selon laquelle, dans la décision Jensen c. La Reine, 2018 CCI 60, notre Cour conclut que l’intention libérale ne peut être viciée que par des avantages non fiscaux[78]. À l’appui de cette thèse, l’avocat a cité un extrait de la décision Jensen où la juge Lyons reprend les conditions énoncées dans l’arrêt Friedberg dans le contexte de l’appel dont elle est saisie :
+[44] Par conséquent, les conditions sont les suivantes : (1) il doit y avoir une transmission volontaire de biens de la part du donateur, (2) le donateur a possédé le bien immédiatement avant le transfert, et (3) le donateur n’a pas reçu d’avantages non fiscaux découlant du don.
+[Non souligné dans l’original.]
+[111] L’avocat a soutenu qu’étant donné que les appelants types n’avaient pas reçu d’avantages non fiscaux du fait de leur participation aux programmes, ils avaient une intention libérale. Par conséquent, leurs dons en espèces et leurs dons de produits pharmaceutiques constituaient des dons de bienfaisance valides[79].
+[112] Enfin, et subsidiairement, l’avocat a fait valoir que, suivant l’alinéa 248(30)a) de la Loi de l’impôt sur le revenu, le législateur a choisi de considérer certains dons comme étant valides même en l’absence d’une intention libérale :
+248(30) Le fait qu’un transfert de bien donne lieu à un montant d’un avantage ne suffit en soi à rendre le transfert inadmissible à titre de don à un donataire reconnu si, selon le cas :
+a) le montant de l’avantage n’excède pas 80 % de la juste valeur marchande du bien transféré; […]
+[113] Aux paragraphes 49 à 56 et 80 de la décision Walby c. Le Roi, 2023 CCI 164 (appel entendu par la Cour d’appel fédérale le 28 novembre 2024, dossier no A-357-23, en délibéré), mon collègue le juge MacPhee a, à juste titre, rejeté la thèse de l’avocat. Toutefois, même si – aux fins de la discussion – cette disposition écartait l’exigence en common law de l’intention libérale, les appelants types ne pourraient avoir gain de cause en raison des faits, car le montant de leur avantage, sous forme de crédits d’impôt, excédait 80 % de la juste valeur marchande du bien ayant fait l’objet d’un don. En effet, il excédait 100 % de sa juste valeur marchande.
+Analyse [114] Les appelants types invoquent l’arrêt Friedberg pour étayer la thèse selon laquelle tous les contribuables ont le droit de faire un « don rentable ». En effet, dans la présentation PowerPoint de RLG, il est indiqué que la décision [traduction] « Sa Majesté la Reine c. Albert D. Friedberg » est le « précédent jurisprudentiel » en matière de « don rentable »[80].
+[115] Pour déterminer s’il est justifié de s’appuyer ainsi sur l’arrêt Friedberg, il convient d’examiner la décision de la Section de première instance de la Cour fédérale[81] et l’arrêt de la Cour d’appel fédérale[82] relativement à une collection en particulier dont M. Friedberg a fait don au Musée royal de l’Ontario (le « MRO ») à la fin des années 1970[83].
+[116] Lorsque l’on examine les décisions Friedberg, il importe de noter que le régime législatif régissant les dons de biens culturels prévu par la Loi sur l’exportation et l’importation de biens culturels (la « LEIBC ») n’est pas le même que celui régissant les dons de bienfaisance ordinaires. Par exemple, l’allégement fiscal pour les dons de biens culturels est fondé sur la juste valeur marchande du bien, jusqu’à 100 % du revenu net du donateur pour l’année. En ce qui concerne les dons de bienfaisance, la limite est fixée à 75 %. Lorsque le bien culturel est certifié, les gains en capital réalisés à sa disposition ne sont pas imposables. Lorsqu’il s’agit d’un don de bienfaisance, les gains en capital le sont. Comme le fait remarquer Steven L. Nemetz (renvois omis) :
+[traduction]
+La Loi de l’impôt sur le revenu du Canada prévoit un système unique d’incitatifs fiscaux afin d’encourager l’aliénation de biens culturels à des établissements publics par la voie d’un don ou d’une vente. Bien que ces incitatifs semblent constituer un élargissement des règles en vigueur en matière de don de bienfaisance, ils doivent être examinés indépendamment des programmes fiscaux qui encadrent les dons de bienfaisance. Contrairement aux programmes de dons de bienfaisance, le programme des biens culturels se limite aux dons de certains biens, à savoir les « biens culturels certifiés », à des « établissements désignés »[84].
+Décision Friedberg (CF, 1re inst.)
+[117] En 1977, le MRO a appris que M. Wilkinson était prêt à vendre pour la somme de 12 000 $ une collection de textiles coptes composée de 145 pièces qui dataient du IVe au IXe siècle[85]. Le MRO estimait que la collection était d’excellente qualité et voulait en faire l’acquisition, mais n’en avait pas les moyens financiers. Le MRO a communiqué avec M. Friedberg, qui a accepté de l’acheter et de lui en faire don.
+[118] M. Friedberg a acheté la collection Wilkinson au prix demandé de 12 000 $ et en a fait don au MRO. Une demande d’attestation a été présentée à la Commission canadienne d’examen des exportations de biens culturels. Trois évaluations indépendantes fixant respectivement la juste valeur marchande de la collection à 142 650 $, 305 000 $ et 240 000 $ ont été jointes à la demande. La demande a été accueillie, et un certificat fiscal a été délivré en fonction de la moyenne des évaluations présentées.
+[119] Après avoir reçu le certificat fiscal, M. Friedberg a demandé une déduction de 229 437 $ dans sa déclaration de revenus de 1980 au titre de son don de la collection Wilkinson au MRO. Le ministre a refusé la déduction et a ramené le montant déductible au prix d’achat réel de 12 000 $.
+[120] Dans sa conclusion selon laquelle M. Friedberg avait le droit de déduire un montant de 229 437 $ dans le calcul de son revenu pour l’année d’imposition 1980, le juge en chef adjoint Jerome a commenté le travail des évaluateurs et a fait remarquer que « des articles comparables n’étaient pas disponibles régulièrement sur le marché libre »[86].
+Arrêt Friedberg (CAF)
+[121] Dans son examen de la question de savoir si la collection Abemayor appartenait à M. Friedberg, le juge Linden écrit ce qui suit :
+À l’évidence, il est possible de faire un don « rentable » à l’égard de certains biens culturels. Lorsque le coût d’acquisition réel des biens est bas et que la juste valeur marchande de ceux-ci est élevée, il est possible que les avantages fiscaux conférés par le don excèdent le coût d’acquisition des biens. Ces avantages ont donc pour effet d’encourager fortement le don de biens ayant une importance culturelle et, nationale. Cependant, ces avantages ne sont pas conférés à tous les dons. Tout dépend de la façon dont l’opération est caractérisée, puisque nul ne peut donner ce qui ne lui appartient pas[87].
+[Non souligné dans l’original.]
+[122] Une lecture attentive des mots du juge Linden dans leur contexte fait ressortir ce qui suit :
+Juste après avoir écrit qu’il est possible de faire un don rentable à l’égard de certains biens culturels, le juge Linden fait remarquer que « [c]es avantages ne sont pas conférés à tous les dons ». Lorsqu’il mentionne « ces avantages », le juge Linden renvoie aux avantages prévus par les dispositions de la LEIBC et de la Loi de l’impôt sur le revenu portant précisément sur les dons de biens culturels.
+Le juge Linden limite la possibilité de faire un don « rentable » aux dons de « certains biens culturels », à savoir les biens culturels qui sont conformes aux critères énoncés à l’alinéa 23(3)b) ou c) de la Loi concernant l’exportation en provenance du Canada de biens culturels et l’importation à destination du Canada de biens culturels exportés illégalement (l’ancienne Loi sur l’exportation et l’importation de biens culturels), qui intègre par renvoi les critères énoncés aux alinéas 8(3)a) et b) de cette loi :
+8(3) Après constat de l’appartenance à la nomenclature de l’objet soumis à son examen, l’expert-vérificateur détermine sans délai si cet objet
+a) présente un intérêt exceptionnel en raison
+(i) de son rapport étroit avec l’histoire du Canada ou la société canadienne,
+(ii) de son esthétique, ou
+(iii) de son utilité pour l’étude des arts ou des sciences; et
+b) revêt une importance nationale[88] telle que sa perte appauvrirait gravement le patrimoine national.
+***
+17. Sur requête, la Commission d’examen
+[…]
+c) statue aux fins du sous-alinéa 39(1)a)(i.1) ou de l’alinéa 110(1)b.1) de la Loi de l’impôt sur le revenu, conformément à l’article 26.
+***
+23(3) En étudiant la demande de licence, la Commission détermine si l’objet visé dans cette demande
+[…]
+b) présente un intérêt exceptionnel pour l’une des raisons énoncées à l’alinéa 8(3)a); et
+c) revêt l’importance nationale définie à l’alinéa 8(3)b)[89].
+***
+26(1) Pour l’application du sous-alinéa 39(1)a)(i.1) ou de l’alinéa 110(1)b.1) de la Loi de l’impôt sur le revenu, lorsqu’une personne aliène ou se propose d’aliéner un objet au profit d’un établissement, ou d’une administration, désigné conformément au paragraphe (2), la personne, l’établissement ou l’administration peuvent requérir par écrit la Commission d’examen de déterminer la conformité de l’objet aux critères énoncés aux alinéas 23(3)b) et c).
+27 Après constat de la conformité de l’objet visé dans une demande dont elle a été saisie conformément au paragraphe 23(1) ou dans une requête prévue au paragraphe 26(1) aux critères énoncés aux alinéas 23(3)b) et c), la Commission d’examen remet à l’auteur de la demande ou de la requête le certificat de conformité établi en la forme prescrite par ordre du ministre du Revenu national.
+Le juge Linden n’écrit rien qui laisse entendre que l’achat systémique et bien organisé de grandes quantités de marchandises, telles que des produits pharmaceutiques, sur une période de plusieurs années s’apparente à l’achat unique, à un prix d’aubaine, d’une collection de biens culturels certifiés. Comme le fait remarquer le juge en chef adjoint Bowman dans la décision Klotz (CCI) :
+[56] […] Le fait d’acheter par un heureux hasard dans une vente-débarras, pour un montant de 10 $, un chef-d’œuvre depuis longtemps perdu, de le donner à une galerie d’art et d’obtenir un reçu pour la valeur véritable du chef-d’œuvre est une chose. Le fait pour Curated [le promoteur] d’acheter des milliers de gravures pour un montant de 50 $, de créer pour ces gravures un marché à 300 $ et de faire ensuite miroiter l’espoir d’une déduction fiscale sur la base d’une valeur de 1 000 $ est tout autre chose[90].
+Contrairement aux appelants types, qui se sont enrichis, M. Friedberg s’est appauvri. Dans l’arrêt Markou c. Canada, 2019 CAF 299, le juge en chef Noël de la Cour d’appel fédérale explique que M. Friedberg s’est appauvri en faisant don de la collection Wilkinson :
+[57] Si l’on tient compte de la valeur du bien donné, M. Friedberg aurait été appauvri de 60 359,25 $ – soit la différence entre la valeur du bien donné (229 437 $) et l’avantage fiscal (169 077,75 $). Plus précisément, M. Friedberg n’aurait pas payé d’impôt sur un gain en capital par ailleurs imposable de 108 718,50 $ (229 437 $ - 12 000 $ = 217 437 $ ÷ 2) et aurait obtenu une déduction – plutôt qu’un crédit d’impôt à l’époque – de 229 437 $ dans le calcul de son revenu, ce qui lui offre un avantage fiscal total de 169 077 $, en supposant un taux d’imposition marginal de 50 % (54 359,25 $ d’exemption pour gain en capital et 114 718,50 $ de déduction).
+[123] Pour les besoins des présents appels, l’enseignement le plus important provenant de l’arrêt Markou est le suivant (renvois omis) :
+[60] Comme il ressort clairement de l’arrêt Friedberg, le fait qu’un avantage fiscal est obtenu par suite d’un don ne peut pas en soi invalider le don. Le législateur aurait parlé pour ne rien dire en prévoyant des avantages fiscaux découlant de certains dons s’il en était autrement. Toutefois, la personne qui prévoit recevoir des avantages fiscaux supérieurs au montant ou à la valeur d’un prétendu don n’a forcément pas d’intention libérale. L’appauvrissement étant un élément essentiel du don en droit civil et en common law, le prétendu don constitué par la contribution en espèces ne saurait être reconnu en tant que don à cet égard également.
+[Non souligné dans l’original.]
+[124] Bien que, comme l’a soutenu l’avocat des appelants types, la décision Jensen rendue par la Cour en 2018 étayait la proposition selon laquelle seuls les avantages non fiscaux peuvent vicier l’intention libérale, la Cour d’appel fédérale a clairement indiqué dans l’arrêt Markou en 2019 que le contribuable qui s’attend à recevoir des avantages fiscaux supérieurs au montant ou à la valeur de son don n’a aucune intention libérale.
+[125] Chacun des appelants types prévoyait de s’enrichir du fait de leurs dons, et non de s’appauvrir. C’est tout le contraire d’un don de bienfaisance. Le contribuable qui participe à une série d’opérations avec l’intention de s’enrichir, et non de s’appauvrir, n’a pas l’intention libérale nécessaire pour obtenir des crédits d’impôt pour dons de bienfaisance au titre de l’article 118.1 de la Loi de l’impôt sur le revenu.
+Conclusion [126] Aucun des appelants types n’avait l’intention libérale requise pour faire un don de bienfaisance aux fins de l’application de l’article 118.1 de la Loi de l’impôt sur le revenu. Les cotisations et les nouvelles cotisations par lesquelles le ministre a refusé les crédits d’impôt pour dons de bienfaisance demandés par les appelants types pour les années d’imposition 2009, 2010, 2011 et 2012 sont donc exactes. Les appels doivent être rejetés avec dépens.
+Signé ce 10e jour de mars 2025.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 5e jour de juin 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+ANNEXE A
+ANNEXE B
+ANNEXE C
+ANNEXE D
+ANNEXE E
+ANNEXE F
+RÉFÉRENCE :
+2025 CCI 41
+Nº DES DOSSIERS DE LA COUR :
+2017-3467(IT)G
+2017-3469(IT)G
+2017-3119(IT)G
+2017-2987(IT)G
+2017-2985(IT)G
+2017-440(IT)G
+INTITULÉS :
+NANDAGOPAL AYRE c. SA MAJESTÉ LE ROI
+KENNETH COOPER c. SA MAJESTÉ LE ROI
+SHARON DOCKSTEADER c. SA MAJESTÉ LE ROI
+JAMES FORAN SR. c. SA MAJESTÉ LE ROI
+DENY JOHNSTON c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATES DE L’AUDIENCE :
+Les 24, 25 et 26 octobre 2023
+Les 30 et 31 octobre 2023 et les 1er et 2 novembre 2023
+Les 6, 7, 8 et 9 novembre 2023
+Les 14 et 15 novembre 2023
+Les 27 et 28 mars 2024
+Le 10 juin 2024
+MOTIFS DE JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 10 mars 2025
+COMPARUTIONS :
+Avocats des appelants :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Avocats de l’intimé :
+Me Mary Softley
+Me Jeffrey Z. H. Tran
+Me Levi Smith
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Joel Scheuerman
+Me Nicole Lynx
+Me Adèle Desgagné
+Me Dorian Fenton
+Me Catherine Liu
+Cabinet :
+Deloitte Legal Canada, Cabinet d’avocats S.E.N.C.R.L./s.r.l.
+Calgary (Alberta)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Malheureusement, le juge Hogan est décédé en janvier 2025. Sa gestion exemplaire du présent groupe d’appels figure parmi ses nombreuses contributions aux travaux de la Cour.
+[2] Une décision définitive est une décision à l’égard de laquelle il n’existe aucun autre droit d’appel.
+[3] Dans la lettre d’accompagnement envoyée par les avocats de la Couronne et accompagnée de l’entente aux termes de laquelle les appelants acceptaient d’être liés par la décision définitive rendue dans les causes types, chacun des appelants liés a été informé que [traduction] « le juge du procès pouvait [leur] ordonner de payer une partie des dépens adjugés en faveur de l’intimé ».
+[4] Les six causes types ne visaient pas le programme RLG en 2008 ni les programmes COIP et PGI.
+[5] Des tableaux plus détaillés pour chaque appelant type se trouvent sous la rubrique « Pourquoi les appelants types ne satisfont-ils pas au critère de la crédibilité? »
+[6] Le « [t]otal des dépenses engagées » correspond à la somme a) de l’argent payé par chaque appelant type pour participer à l’un des programmes et b) de la somme versée par chaque appelant type à l’un des quatre organismes de bienfaisance désignés.
+[7] Le « [t]otal des crédits d’impôt demandés » correspond à la somme a) des crédits d’impôt fédéraux et b) des crédits d’impôt provinciaux demandés par chaque appelant type dans sa déclaration de revenus pour l’année d’imposition donnée découlant de sa participation à l’un des programmes pour cette année-là.
+[8] Réponse modifiée dans Ayre c. Le Roi, 2017-3467(IT)G, par. 14(n).
+[9] Réponse modifiée dans Ayre c. Le Roi, 2017-3467(IT)G, par. 14(o).
+[10] Réponse modifiée dans Ayre c. Le Roi, 2017-3469(IT)G, par. 14(l). La même hypothèse de fait est invoquée au même paragraphe des autres réponses modifiées.
+[11] Réponse modifiée dans Ayre c. Le Roi, 2017-3469(IT)G, par. 14(m). La même hypothèse de fait est invoquée au même paragraphe des autres réponses modifiées.
+[12] Réponse modifiée dans Ayre c. Le Roi, 2017-3469(IT)G, par. 14(n). La même hypothèse de fait est invoquée au même paragraphe des autres réponses modifiées.
+[13] Réponse modifiée dans Ayre c. Le Roi, 2017-3469(IT)G, par. 14(o). La même hypothèse de fait est invoquée au même paragraphe des autres réponses modifiées.
+[14] Selon les feuillets de renseignements sur l’abri fiscal énoncés plus haut, le total exact est de 429 062 842 $.
+[15] Pièce A-129, p. 1141. Même sans ces hypothèses, une inférence semblable pourrait être tirée de ces seuls éléments de preuve.
+[16] Pièce J-1.
+[17] Pièce J-2.
+[18] Voir l’exposé conjoint (partiel) des faits au paragraphe 18 pour le programme MLF et au paragraphe 19 pour le programme RLG. Ces concessions de la part de la Couronne concernant l’achat et le don des produits pharmaceutiques permettent d’établir une distinction entre les présents appels et ceux entendus par la Cour dans la décision Morrison c. La Reine, 2018 CCI 220, conf. par sub nom. Eisbrenner c. Canada, 2020 CAF 93.
+[19] En l’absence d’un témoignage de M. Pipa, de M. Paradis ou d’un autre témoin bien informé concernant la nature, l’ampleur et la cause de la prétendue diminution de 90 % de la juste valeur marchande des produits pharmaceutiques entre 2009-2012 et 2013, je conclus que la juste valeur marchande des « produits pharmaceutiques de remplacement » achetés par chacun des appelants types en 2013 par l’intermédiaire de Justice Trading n’aurait pas été différente de la juste valeur marchande des produits pharmaceutiques identiques achetés par les appelants types entre 2009 et 2012 par l’intermédiaire de RLG et MLF. Pour connaître le rôle des produits pharmaceutiques de remplacement, voir la dernière étape sous la rubrique « Prétendu fonctionnement des programmes RLG et MLF ».
+[20] Pièce A-215, p. 965. La disposition de la Loi de l’impôt sur le revenu à l’origine de cette citation de RLG demeure un mystère.
+[21] Dernière page de la pièce R-10.
+[22] Je conclus que des tableaux semblables ont été présentés à des clients éventuels de RLG dans d’autres provinces et à d’autres moments.
+[23] Dernière page de la pièce A-88.
+[24] Je conclus que des tableaux semblables ont été présentés à des clients éventuels de MLF dans d’autres provinces et à d’autres moments.
+[25] Pour RLG, voir la pièce R-10, p. CAN0250_0001. Pour MLF, voir la pièce A-39, p. 185; la pièce A-88, p. 383; la pièce A-125, p. 1115; et la pièce A-143, p. 679. En application du paragraphe 149.1(1) de la Loi de l’impôt sur le revenu, les organismes de bienfaisance doivent respecter un « contingent des versements » pour chaque année d’imposition. Aucun organisme de bienfaisance n’a jamais eu de « dispersement obligation » en vertu de la Loi de l’impôt sur le revenu.
+[26] Pour RLG, voir la pièce R-10, p. CAN0250_0006. Pour MLF, voir la pièce A-39, p. 190; la pièce A-88, p. 388; et la pièce A-125, p. 1120.
+[27] Pour RLG, voir la pièce R-10, p. CAN0250_0008. Pour MLF, voir la pièce A-39, p. 192; la pièce A-88, p. 390; et la pièce A-125, p. 1122.
+[28] Pièce A-215, p. 972.
+[29] Les appelants types savaient qu’ils n’avaient pas vraiment contracté de prêt auprès de RLG ou de MLF ou ils ont fait preuve d’ignorance volontaire à cet égard.
+[30] Voir les annexes A et B.
+[31] Voir l’annexe C.
+[32] Voir les annexes D et E pour un tableau et un graphique illustrant les taux d’intérêt.
+[33] RLG et MLF ont déclaré qu’ils disposaient effectivement de ce montant d’argent. Voir, par exemple, la brochure de RLG (pièce R-10, p. CAN0250_0006), dans laquelle RLG déclare garantir les certificats de crédit, lesquels sont [traduction] « entièrement remboursables en espèces ». Voir aussi la brochure de MLF (pièce A-39, p. 190; et pièce A-143, p. 684), dans laquelle MLF déclare garantir les certificats de crédit, lesquels sont [traduction] « entièrement remboursables en espèces ». Cette déclaration est difficile à croire compte tenu de l’affirmation de MLF selon laquelle [traduction] « ses revenus [proviennent] des intérêts payés sur les prêts consentis » (pièce A-88, p. 382). Il est plus probable qu’improbable que seul la somme versée sous forme de quatre années d’intérêts payés d’avance avait servi à acheter les produits pharmaceutiques entre 2009 et 2012.
+[34] Dans sa plaidoirie, l’avocat des appelants types a invité la Cour à souscrire à l’opinion de M. Lauzon selon laquelle [traduction] « le remboursement en nature est une pratique commerciale raisonnable et assez courante » (transcription de la plaidoirie, 10 juin 2024, p. 64, lignes 20 et 21). La Cour a refusé l’invitation de l’avocat au motif que M. Lauzon n’était pas reconnu comme expert dans le domaine des marchandises et des contrats à terme (transcription de la plaidoirie, 10 juin 2024, p. 65, lignes 16 à 19), et encore moins des pratiques de prêt à la consommation et de remboursement au Canada de 2009 à 2013.
+[35] Aucun des faits mentionnés plus haut n’est déterminant. Considérés ensemble, ces faits m’amènent à conclure que, selon la prépondérance des probabilités, il n’y a jamais eu de prêts. Afin de rétablir la crédibilité des prêts contestés, les appelants types ont présenté des documents constituant du ouï-dire et un témoignage sous forme de ouï-dire de la part de M. Rozen de Justice Trading pour me convaincre de la bonne foi des prêteurs et de l’authenticité des prêts. Malgré leurs efforts pour faire en sorte que cette preuve soit visée par une exception à la règle du ouï-dire, ils n’y sont pas parvenus. Cependant, même si j’avais admis l’ensemble de leur preuve par ouï-dire, ils n’auraient tout de même pas obtenu gain de cause. L’ensemble de cette preuve, même si elle avait été admise, n’aurait pas fait pencher les probabilités en leur faveur. Cette preuve aurait eu peu de poids, puisque Justice Trading et son dirigeant, M. Rozen, avaient perdu toute crédibilité en défendant la théorie sans fondement selon laquelle la juste valeur marchande des produits pharmaceutiques avait diminué de 90 % entre 2009-2012 et 2013.
+[36] L’ignorance volontaire des appelants types se reflète également dans le fait qu’aucun d’entre eux n’a consulté d’avocat ni de comptable relativement à un aspect des programmes, notamment la bonne foi des prêteurs ou l’authenticité des prêts. Ils n’ont posé aucune question à un avocat ou à un comptable, puisqu’ils ne voulaient rien entendre qui aurait pu faire obstacle à leur recherche obstinée de profit.
+[37] Réponse modifiée dans Ayre c. Le Roi, 2017-3467(IT)G, par. 14, 15 et 16; Réponse modifiée dans Ayre c. Le Roi, 2017-3469(IT)G, par. 14, 15 et 16; Réponse modifiée dans Cooper c. Le Roi, 2017-3119(IT)G, par. 14, 15 et 16; Réponse modifiée dans Docksteader c. Le Roi, 2017-2987(IT)G, par. 14, 15 et 16; Réponse modifiée dans Foran c. Le Roi, 2017-2895(IT)G, par. 14, 15 et 16; Réponse modifiée dans Johnston c. Le Roi, 2017-440I(IT)G, par. 14, 15 et 16. En fin de compte, peu importe que l’on conclue que les prêts n’ont jamais existé ou que les accords de financement étaient un trompe-l’œil, le résultat est exactement le même.
+[38] Canada (Procureur général) c. Nash, 2005 CAF 386, par. 8.
+[39] Ibid., par. 17.
+[40] Voir les paragraphes 145(17) à (20) des Règles de la Cour canadienne de l’impôt (procédure générale) ainsi que la directive sur la procédure no 22 (version modifiée). Voir aussi la table ronde des juges (l’hon. Eugene P. Rossiter, l’hon. David E. Spiro, Montano Cabezas et Remi Danylo), Fondation canadienne de fiscalité, 2023 Conference Report, 4:1-16 à 4:14 :
+[traduction]
+En ce qui concerne les témoignages et les groupes d’experts, l’expérience récente a démontré l’efficacité de convoquer des groupes d’experts, surtout lorsque les experts ont des opinions contradictoires sur la même question. Les différences entre les experts justifient la tenue de discussions de groupe pour identifier les points d’accord et de désaccord en temps réel, puisque les deux experts sont prêts à répondre aux questions du juge. Une planification minutieuse pendant les conférences de gestion d’instance peut faciliter le choix stratégique du moment où les experts sont appelés à témoigner afin d’assurer leur disponibilité aux fins des discussions de groupe.
+[41] Transcription du 9 novembre 2023, p. 136, lignes 6 à 9.
+[42] Transcription du 9 novembre 2023, p. 136, ligne 15, à p. 137, ligne 8.
+[43] Rapport de M. Paradis, p. 11, pièce A-279.
+[44] Rapport de M. Berndt, p. 15, par. 28, pièce R-13.
+[45] Rapport de M. Paradis, p. 12, pièce A-279.
+[46] Transcription du 9 novembre 2023, p. 137, lignes 13 à 26.
+[47] Transcription du 9 novembre 2023, p. 138, ligne 18, à p. 139, ligne 2.
+[48] Rapport d’expert de M. Berndt, p. 14, pièce R-13.
+[49] La dépense engagée par chaque appelant pour chaque année d’imposition est indiquée dans les tableaux ci-après sous la rubrique « Pourquoi les appelants types ne satisfont-ils pas au critère de la crédibilité? »
+[50] Transcription du 30 octobre 2023, p. 15, lignes 26 à 28; et p. 16, lignes 1 à 6.
+[51] Transcription du 30 octobre 2023, p. 23, lignes 26 à 28.
+[52] M. Lauzon a utilisé l’expression [traduction] « prêts réels » à plusieurs reprises dans son témoignage (transcription du 30 octobre 2023, p. 48, lignes 17 à 19; et p. 56, lignes 17 à 20).
+[53] Transcription du 6 novembre 2023, p. 7, lignes 15 à 22.
+[54] Transcription du 31 octobre 2023, p. 140, ligne 14, à p. 141, ligne 10. Voir aussi la pièce A-164C, p. 783.
+[55] Paciocco, David M., Palma Paciocco et Lee Stuesser. The Law of Evidence, 8e éd. Toronto : Irwin Law, 2020, p. 592 et 593.
+[56] 1948 CanLII 353 (C.A.C.-B.), p. 34.
+[57] 1951 CanLII 252 (C.A.C.-B.), p. 356.
+[58] [1972] C.A. 372 (QCCA), p. 373 et 374.
+[59] Lacroix c. La Reine, 2007 CCI 376, par. 12.
+[60] 2006 NSCA 34, par. 77.
+[61] 1951 CanLII 252 (C.A.C.-B.), p. 357.
+[62] 2009 CCI 334, par. 23.
+[63] Ibid.
+[64] Ibid.
+[65] Observations écrites des appelants, p. 4 à 12.
+[66] Les seules exceptions étaient M. Cooper, qui payait régulièrement la dîme à son lieu de culte, et M. Foran, qui avait auparavant participé au programme CHT.
+[67] Voir l’annexe F.
+[68] Transcription du 31 octobre 2023, p. 75, lignes 26 à 28, p. 76, ligne 1.
+[69] Transcription du 31 octobre 2023, p. 140, ligne 14, à p. 141, ligne 10. Voir aussi la pièce A-164C, p. 783.
+[70] Pièce R-7.
+[71] Transcription du 1er novembre 2023, p. 65, lignes 23 à 28; et p. 66, lignes 1 à 13.
+[72] Transcription du 2 novembre 2023, p. 155, lignes 2 à 20.
+[73] Transcription du 2 novembre 2023, p. 35, lignes 18 à 22.
+[74] Transcription du 2 novembre 2023, p. 37, lignes 10 à 16.
+[75] L’avocat des appelants types agit également à titre d’avocat de Profitable Giving Canada, qui est vraisemblablement responsable de la gestion du présent litige.
+[76] Voir la décision Mariano c. La Reine, 2015 CCI 244, par. 17.
+[77] Voir l’exposé conjoint (partiel) des faits au paragraphe 18 pour le programme MLF et au paragraphe 19 pour le programme RLG.
+[78] Aucune décision subséquente n’a cité la décision Jensen à cet égard. La décision Jensen a été citée à deux reprises, les deux fois au passage et chaque fois pour une raison différente (Van Der Steen c. La Reine, 2019 CCI 23, note de bas de page 44, et Walby c Le Roi, 2023 CCI 164, note de bas de page 29). Quoi qu’il en soit, les seuls avantages pertinents dans l’affaire Jensen étaient des avantages non fiscaux. C’est ce qui ressort clairement de la conclusion de la Cour :
+[65] Compte tenu de ce qui précède, l’appelant n’a pas prouvé, par une preuve convaincante, qu’il avait payé le montant dans l’intention de faire un don, de sorte qu’il n’a pas établi de preuve suffisante à première vue. Je conclus qu’il avait une intention de faire un placement quand il a payé le montant à Global. Par conséquent, ce n’était pas un don au sens de l’article 118.1 de la Loi et il n’a pas droit à la déduction demandée.
+[79] Dans la décision Jensen, la juge Lyons fait également remarquer ce qui suit (renvois omis) :
+[47] Pour faire la preuve de l’intention de faire un don, un donateur doit être conscient au moment de faire le don qu’il ne recevra aucune contrepartie en dehors d’un avantage purement moral et doit avoir voulu s’appauvrir du don de telle sorte que le donateur ne tire aucun avantage de l’appauvrissement.
+[80] Pièce A-215, p. 964.
+[81] Friedberg c. Canada, [1989] A.C.F. no 23 (CF).
+[82] Friedberg c. Canada, [1991] A.C.F. no 1255 (CAF).
+[83] Au procès, deux collections distinctes étaient en litige. Seule l’une de ces collections présente un intérêt dans le cas qui nous occupe (la « collection Wilkinson »), car M. Friedberg n’avait pas vraiment fait don de l’autre collection (la « collection Abemayor »).
+[84] Steven L. Nemetz, « Gifting Cultural Property in Canada: Testing a Tax Expenditure », La Revue du Barreau canadien, vol. 85, no 2, 2006, p. 457 à 460.
+[85] Les raisons pour lesquelles M. Wilkinson était prêt à vendre sa collection à M. Friedberg pour seulement 12 000 $ ne sont mentionnées dans les motifs d’aucune des deux décisions.
+[86] Friedberg (CF), par. 23. Ce n’est aucunement pareil aux articles qui sont disponibles généralement et régulièrement sur le marché libre.
+[87] Friedberg (CAF), par. 3.
+[88] Le critère de « l’importance nationale » a depuis été abrogé.
+[89] Ibid.
+[90] Cette remarque faite par le juge en chef adjoint Bowman dans la décision Klotz (CCI) a été qualifiée d’« instructi[ve] » par le juge Rothstein au paragraphe 35 de l’arrêt Klotz (CAF).

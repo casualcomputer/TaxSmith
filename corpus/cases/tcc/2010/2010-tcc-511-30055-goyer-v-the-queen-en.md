@@ -1,0 +1,147 @@
+---
+title: "Goyer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30055/index.do"
+last_modified: "2010-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 511"
+citation2: ""
+neutral_citation: "2010 TCC 511"
+decision_date: "2010-11-02"
+language: "en"
+item_id: "30055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7693
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:53:40.974000+00:00"
+cases_cited_count: 0
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "35c4d0a9e0342038c8ef61928d6be6384a02a674b10d967e8c062dfad5927a0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goyer v. The Queen
+
+- Citation: 2010 TCC 511
+- Decision date: 2010-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7693, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goyer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-02
+Neutral citation
+2010 TCC 511
+File numbers
+2009-1671(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009‑1671(GST)I
+BETWEEN:
+DEBBIE GOYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 14, 2010, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+François Beauvais
+Counsel for the respondent:
+Édith-Geneviève Giasson
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, dated January 21, 2008, is dismissed in accordance with the attached Reasons for Judgment.
+Signed this 2nd day of November 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 15th day of December 2010
+Sarah Burns, Translator
+Citation: 2010 TCC 511
+Date: 20101102
+Docket: 2009‑3557(GST)I
+BETWEEN:
+DEBBIE GOYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] On October 24, 2007, the appellant made an application to the Minister of Revenue of Quebec (the Minister) for a Goods and Services Tax (GST) rebate on a new residential unit located at 649 St‑Féréol, Les Cèdres (new residential unit), in which she claimed a rebate of $3,700.47. On January 21, 2008, the respondent, through the Minister, assessed the appellant and refused the GST rebate application. The appellant duly filed an objection, but the Minister confirmed the assessment on February 19, 2009. The appellant is therefore appealing the assessment before this Court.
+[2] On October 24, 2005, the appellant, Normand Miserany and Jocelyne Auger purchased, by duly notarized deed of sale, a vacant lot on which the new residential unit in question was built. The purchase price was $30,000.
+[3] On March 2, 2006, the same three persons signed a deed of immovable hypothec in favour of the National Bank of Canada, which secured repayment of the loan granted by the Bank. The loan in question was used to pay for construction of the new residential unit. In addition to the hypothecary loan, the appellant and the two other co-owners used the proceeds of the sale of a neighbouring property that belonged to them to pay for part of the construction costs of the new residential unit.
+[4] The insurance policy for the new residential unit indicates that the appellant, Mr. Miserany and Ms. Auger are the insureds. According to the evidence heard at the hearing, Mr. Miserany and Ms. Auger never resided in this new residential unit.
+[5] According to the appellant, she alone saw to the construction of the new residential unit and paid all of the invoices related to the construction. Most of the invoices are in her name, except for a few that are in the names of the appellant and Mr. Miserany. She has been residing in the new residential unit with her son since March 2006 and, since that date, has been paying for all of the expenses related to this new residential unit by herself, including the repayment of the hypothec. Mr. Miserany confirmed all of those facts.
+[6] The appellant explained that the names of Mr. Miserany and Ms. Auger appear on the documents solely to enable her to meet the bank's financial ratio requirements. In other words, they are prête‑noms for the financing costs. Mr. Miserany has been a friend of the appellant's family for some thirty years.
+[7] On July 17, 2009, a document, called an agreement, was signed by Mr. Miserany and Ms. Auger in which they stated that they jointly purchased the new residential unit with the appellant, signed the bill of sale only to facilitate the appellant's obtaining the hypothecary loan and did not at any time intend to be recognized as owners of this residential unit.
+[8] Normand Miserany confirmed the appellant's testimony and related that this is the second time he and his spouse, Jocelyne Auger, have helped the appellant in this way.
+[9] A number of conditions must be met before a rebate may be granted under the Excise Tax Act (the Act). In this case, the only questions that are at issue here and were raised in the written submissions are whether the appellant, Normand Miserany and Jocelyne Auger were co-owners of the new residential unit in question and, if so, whether they must all meet the requirements of subsection 256(2) of the Act, that is, that they use the residential unit as their primary place of residence or purchased it for use as their primary place of residence.
+[10] Subsections 256(2) and 262(3) are the relevant provisions of the Act in this dispute and read as follows:
+256(2) Rebate for owner‑built homes – Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex or a residential condominium unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+. . .
+262(3) Group of individuals – If
+(a) a supply of a residential complex or a share of the capital stock of a cooperative housing corporation is made to two or more individuals, or
+(b) two or more individuals construct or substantially renovate, or engage another person to construct or substantially renovate, a residential complex,
+the references in sections 254 to 256 to a particular individual shall be read as references to all of those individuals as a group, but only one of those individuals may apply for the rebate under section 254, 254.1, 255 or 256, as the case may be, in respect of the complex or share.
+[11] The appellant submits that, in fact, she alone had the residential complex built for her use as her primary place of residence, and that it was not built for Mr. Miserany or Ms. Auger, such that they did not, as a group, have to comply with the condition that the residential complex be used as their primary place of residence.
+[12] I must note that, at first glance, the consistency between the appellant's and Mr. Miserany's versions of the facts lends a certain degree of plausibility to their statements regarding their intention to enable the appellant to build herself a house and especially to enable her to finance the project. However, the documentation submitted in evidence contradicts those statements. In particular, I refer to Exhibit A‑4, which clearly shows that when the land was purchased, the purchasers were indeed the appellant, Normand Miserany and Jocelyne Auger and that, as such, the residential unit in issue was built for those three persons. That contradicts the testimonies of the appellant and Mr. Miserany, who allege that Mr. Miserany and Jocelyne Auger were only involved to enable the appellant to meet the financing criteria. I do not believe that the agreement (Exhibit A‑8) dated July 17, 2009, alters the property rights of each person as granted by the deed of sale, particularly in respect of third parties.
+[13] I must also add that the names of the three co‑owners, in that capacity, are on the deed of hypothec, construction permit, insurance policy and the application for the new housing rebate. The form of all of those documents clearly shows a contractual relationship. Exhibit A‑8, dated July 17, 2008, does not change that.
+[14] Parliament's intention is to grant individuals a rebate when, among other things, a residential unit is constructed for use as their primary place of residence. This rebate is also available when the provision of the residential unit is made for a number of individuals, as is the case here, except that the references to a particular individual apply to the entire group. In my opinion, the statute contains no ambiguity. In this case, the immovable in question was never used as the primary place of residence of Mr. Miserany and Ms. Auger.
+[15] The assessment dated January 21, 2008, is well founded in fact and in law. The appeal is dismissed.
+Signed this 2nd day of November 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 15th day of December 2010
+Sarah Burns, Translator
+Citation: 2010 TCC 511
+COURT FILE NO.: 2009‑1671(GST)I
+STYLE OF CAUSE: Debbie Goyer v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 2, 2010
+APPEARANCES:
+Counsel for the appellant:
+François Beauvais
+Counsel for the respondent:
+Édith‑Geneviève Giasson
+COUNSEL OF RECORD:
+For the appellant:
+Name: François Beauvais
+Firm: Rochefort & Associés
+Counsel
+Montréal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

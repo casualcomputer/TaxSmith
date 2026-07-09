@@ -1,0 +1,189 @@
+---
+title: "Rogers (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/107972/index.do"
+last_modified: "2014-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 347"
+citation2: ""
+neutral_citation: "2014 CCI 347"
+decision_date: "2014-11-24"
+language: "fr"
+item_id: "107972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2747
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:37:38.028000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9de37f66d1fc7e9b418d19ffa26ed957818b0060424c1c61610c2335418ab84c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rogers (Succession) c. La Reine
+
+- Citation: 2014 CCI 347
+- Decision date: 2014-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2747, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rogers (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-24
+Référence neutre
+2014 CCI 347
+Numéro de dossier
+2012-1845(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012‑1845(IT)G
+ENTRE :
+LA SUCCESSION DE FEU EDWARD S. ROGERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 21 novembre 2014, à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Hemant Tilak
+Me Pooja Samtani
+Avocate de l’intimée :
+Me Samantha Hurst
+ORDONNANCE
+À la suite d’une requête présentée par l’appelante en vue d’obtenir l’autorisation de modifier son avis d’appel après l’audition de l’appel;
+Après avoir entendu les observations de l’avocate de l’intimée et avoir lu les documents déposés;
+LA COUR ORDONNE QUE la requête soit rejetée conformément aux motifs ci‑joints de l’ordonnance.
+Les dépens suivront l’issue de la cause.
+Signé, à Toronto (Ontario), ce 24e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour de juillet 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 347
+Date : 20141124
+Dossier : 2012‑1845(IT)G
+ENTRE :
+LA SUCCESSION DE FEU EDWARD S. ROGERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+I. Aperçu [1] Il s’agit d’un appel interjeté contre une nouvelle cotisation établie par le ministre du Revenu national (le ministre) pour l’année d’imposition 2007. Le litige porte sur la qualification d’un montant (le « paiement comptant ») reçu par le contribuable, Edward S. Rogers (« M. Rogers »), cette année‑là. Le paiement comptant avait été fait à M. Rogers par Rogers Communications Inc. (« RCI ») en contrepartie de la cession des options d’achat d’actions qui avaient été accordées à M. Rogers en 1997 dans le cadre du régime d’options d’achat d’actions offert aux employés de RCI. Le contribuable a inscrit le paiement comptant comme un gain en capital dans sa déclaration de revenus produite pour cette année‑là et, en conséquence, a inclus la moitié du montant reçu dans son revenu imposable pour 2007. En 2011, le ministre a établi une nouvelle cotisation à l’endroit du contribuable en vue d’inclure dans son revenu la totalité du paiement comptant.
+[2] Le ministre a conclu que le paiement comptant constituait un revenu entièrement imposable, et non un gain en capital, en se fondant sur l’un des trois arguments suivants : (i) le montant était un revenu tiré d’un emploi ou d’un avantage lié à l’emploi au sens de l’article 5 ou de l’alinéa 6(1)a) de la Loi de l’impôt sur le revenu (la « Loi »); (ii) le montant était un avantage conféré à l’actionnaire au sens du paragraphe 15(1) de la Loi; (iii) le montant était un bénéfice tiré d’un projet comportant un risque et il était donc visé par le paragraphe 9(1) de la Loi (l’« argument fondé sur l’article 9 »).
+[3] À l’instruction, l’intimée a renoncé au dernier de ses moyens – l’argument fondé sur l’article 9 – en raison de l’insuffisance de la preuve. L’audience a ensuite été ajournée pour permettre aux parties de présenter d’autres observations sur la question de savoir si la Cour pouvait néanmoins examiner l’argument fondé sur l’article 9. Dans l’intervalle, la Cour a rendu ses motifs de jugement dans l’affaire Mathieu c. La Reine[1], qui concerne également l’imposition des options d’achat d’action accordées à des employés et ayant fait l’objet d’une disposition au profit d’une partie liée.
+[4] L’appelante demande l’autorisation de modifier son avis d’appel pour tenir compte des questions soulevées durant l’examen par la Cour de l’argument fondé sur l’article 9, lesquelles questions, est‑il allégué, ont été abordées dans la décision Mathieu. La modification demandée avance un nouvel argument, à savoir que le paiement comptant est une « non‑valeur du point de vue fiscal ». La déclaration de revenus était donc erronée. L’appelante affirme que le paiement comptant est une non‑valeur parce que, même s’il s’agit d’un revenu provenant d’une source qui est un emploi, le paiement n’est néanmoins pas un revenu tiré d’un emploi au titre des articles 5, 6 ou 7 de la Loi. Étant donné que le paiement comptant est un revenu provenant d’une source particulière (emploi), il ne peut être considéré comme un revenu provenant d’une autre source, à savoir un gain en capital. Étant donné que les articles 5, 6 et 7 ne prévoient pas la perception d’un impôt sur le paiement comptant, la Cour doit conclure que le paiement comptant ne fait pas partie du revenu en vertu de la Loi.
+[5] L’appelante a donc présenté une requête en vue d’obtenir l’autorisation de modifier son avis d’appel pour soulever la nouvelle question et demander des mesures de redressement en s’appuyant sur de nouveaux fondements.
+II. Thèses des parties Thèse de l’appelante [6] L’appelante soulève deux arguments à l’appui de sa requête en modification. Premièrement, elle allègue que la modification aborde une question qui s’est posée concernant l’argument fondé sur l’article 9, et que la Cour l’a essentiellement invitée à donner suite à cette question en lui demandant de présenter de nouvelles observations. Deuxièmement, l’appelante avance que la décision Mathieu établit une nouvelle règle de droit. Bref, l’appelante avance qu’un examen judicieux des questions soulevées concernant l’argument fondé sur l’article 9 nécessite que la Cour tienne compte de la décision Mathieu et du nouvel argument de la « non‑valeur du point de vue fiscal ».
+[7] L’appelante avance de plus que la modification ne cause aucun préjudice à l’intimée, parce qu’elle ne se fonde sur aucun nouveau fait.
+Thèse de l’intimée [8] Bien entendu, l’intimée défend la thèse contraire.
+III. Analyse [9] En vertu de l’article 54 des Règles de la Cour canadienne de l’impôt (procédure générale), la Cour peut, en tout temps, accorder à une partie l’autorisation de modifier ses actes de procédure. L’arrêt Canderel Ltd. c. Canada[2], sur lequel s’est appuyée l’appelante, fait autorité en la matière.
+[10] Dans l’arrêt Canderel, le ministre, qui voulait soulever une nouvelle question, a présenté une requête en vue d’obtenir l’autorisation de modifier sa réponse à l’avis d’appel du contribuable. Le juge de la Cour canadienne de l’impôt a rejeté la requête, et le ministre a interjeté appel de la décision à la Cour d’appel fédérale (la « CAF »). La modification proposée aurait été la quatrième du ministre et elle a été proposée après cinq jours de procès, malgré le fait que le ministre connaissait la nouvelle question bien à l’avance. La modification aurait pu entraîner le rappel de tous les témoins et experts. La CAF a rejeté la requête.
+[11] L’arrêt Canderel a établi les deux principes suivants pour décider si la requête en autorisation de modifier un acte de procédure doit être accueillie : (i) en règle générale, la modification devrait être autorisée à tout stade de l’instance pour déterminer les véritables questions en litige entre les parties; (ii) cette autorisation ne doit pas causer à l’autre partie une injustice que des dépens ne pourraient réparer. À cet égard, la CAF a résumé la jurisprudence en ces termes :
+[…] même s’il est impossible d’énumérer tous les facteurs dont un juge doit tenir compte en décidant s’il est juste, dans une situation donnée, d’autoriser une modification, la règle générale est qu’une modification devrait être autorisée à tout stade de l’action aux fins de déterminer les véritables questions litigieuses entre les parties, pourvu, notamment, que cette autorisation ne cause pas d’injustice à l’autre partie que des dépens ne pourraient réparer, et qu’elle serve les intérêts de la justice[3].
+[12] À propos des facteurs qu’un juge doit prendre en considération pour décider si une modification causerait à l’autre partie une injustice que des dépens ne pourraient réparer, le juge Décary cite la décision du juge Bowman, tel était alors son titre, dans l’affaire Continental Bank Leasing Corporation et al v. The Queen[4] :
+[…] je préfère tout de même examiner la question dans une perspective plus large : les intérêts de la justice seraient‑ils mieux servis si la demande de modification ou de rétractation était approuvée ou rejetée? Les critères mentionnés dans les affaires entendues par d’autres tribunaux sont évidemment utiles, mais il convient de mettre l’accent sur d’autres facteurs également, y compris le moment auquel est présentée la requête visant la modification ou la rétractation, la mesure dans laquelle les modifications proposées retarderaient l’instruction expéditive de l’affaire, la mesure dans laquelle la thèse adoptée à l’origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu’il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l’examen par la Cour du véritable fond du différend. Il n’existe aucun facteur qui soit prédominant, ou dont la présence ou l’absence soit nécessairement déterminante. On doit accorder à chacun des facteurs le poids qui lui revient dans le contexte de l’espèce. Il s’agit, en fin de compte, de tenir compte de la simple équité, du sens commun et de l’intérêt qu’ont les tribunaux à ce que justice soit faite[5].
+[Non souligné dans l’original.]
+[13] Concernant le moment où est présentée la requête, le juge Décary souligne que, plus la modification est demandée tard dans l’instance, plus elle est difficile à obtenir :
+Même s’il est exact que l’autorisation de faire une modification peut être recherchée à toute hauteur de la procédure, on peut dire sans risque d’erreur que plus tardive est la demande, plus difficile il sera pour le requérant de surmonter le double obstacle que représentent pour lui l’injustice causée à la partie adverse et les intérêts de la justice[6]. […]
+[14] En ce qui a trait aux nouvelles questions, le juge Décary cite un extrait de la décision Ketteman v. Hansel Properties Ltd.[7] de la Chambre des lords, dans lequel il est expliqué que l’autorisation d’une modification qui introduit une toute nouvelle question est plus difficile à obtenir que celle d’une modification qui clarifie simplement les questions en litige entre les parties : [traduction] « Il existe une claire distinction entre les modifications ayant pour but de rendre plus claires les questions en litige, et celles qui permettent de soulever une défense différente pour la première fois[8]. »
+[15] Par conséquent, l’arrêt Canderel établit que, de manière générale, les tribunaux devraient être disposés à autoriser les modifications tout en soupesant les divers facteurs susceptibles de causer une injustice à l’autre partie. L’un de ces facteurs particuliers est la mesure dans laquelle l’autre partie a adopté une ligne de conduite basée sur la thèse initiale de la partie requérante[9]. Dans ces circonstances, la Cour doit se demander si l’autre partie serait en mesure de rectifier sa ligne de conduite dans le cas d’une modification.
+[16] L’appelante s’appuie également sur deux décisions dans lesquelles des modifications ont été autorisées à un stade avancé de l’instance, à savoir Scavuzzo c. La Reine[10] et Elliott c. Canada[11]. Ces deux décisions intéressent la responsabilité des administrateurs. Dans l’affaire Scavuzzo, l’avocat des appelants a été forcé de se retirer du dossier au milieu du procès en raison d’un conflit d’intérêts. Le nouvel avocat a obtenu l’autorisation de modifier les avis d’appels pour présenter un nouvel argument. En ce qui a trait au moment où doit être demandée la modification, le juge en chef Bowman, tel était alors son titre, a écarté l’application de l’arrêt Canderel d’après les faits, en soulignant ceci :
+[…] Les circonstances entourant la présente demande de modification sont quelque peu inhabituelles. Il ne s’agit pas d’un cas où tous les éléments de preuve, ou presque, ont été présentés. Le premier témoin a témoigné et a été contre‑interrogé. Le réinterrogatoire n’a pas commencé. Le deuxième appelant n’a pas été appelé à témoigner. L’ancien avocat des appelants s’est retiré de l’affaire, et les services d’un nouvel avocat ont été retenus. L’affaire se déroule assez tranquillement, si je puis dire, et sera seulement reprise après que les actes de procédure auront été modifiés, que d’autres interrogatoires préalables auront eu lieu et que les documents auront été produits. Compte tenu de la façon dont cette affaire se déroule, à mon sens, la Couronne ne subit en l’espèce aucun préjudice qui ne puisse pas être compensé par des dépens. La possibilité que les appelants obtiennent gain de cause relativement au nouveau point n’est pas le genre de préjudice envisagé par la jurisprudence dans ce genre de cas[12].
+[Non souligné dans l’original.]
+[17] Les faits dans l’affaire Elliott, qui concernait la responsabilité des administrateurs relativement à la TVH non versée, sont particuliers. Même si la CAF y réaffirme la proposition faite dans l’arrêt Canderel voulant que de nouvelles questions puissent être soulevées au moyen d’une modification à un stade avancé de l’instance[13], cette affaire applique plus précisément le principe étroit selon lequel le ministre ne peut s’appuyer sur l’hypothèse qu’il a été satisfait aux critères de l’alinéa 323(2)a) de la Loi sur la taxe d’accise – à savoir, qu’un certificat constatant la dette d’une société a été enregistré à la Cour fédérale et qu’il y a eu défaut d’exécution − parce que le ministre avait pleinement connaissance de ces faits. Les appelants dans cette affaire ont allégué pour la première fois dans leurs conclusions finales que le ministre n’avait pas satisfait aux critères de l’alinéa 323(2)a). Le juge de la Cour canadienne de l’impôt a examiné cette nouvelle question sans qu’il soit procédé à une modification en bonne et due forme. À la CAF, il a été affirmé que la nouvelle question n’aurait pas dû être examinée sans que le ministre ait eu la possibilité de présenter des éléments de preuve sur cette question. Toutefois, étant donné que les appelants ont reconnu que le ministre était en mesure de fournir des éléments de preuve à l’appui du certificat, il s’agissait d’une question théorique. Par conséquent, même si l’arrêt Elliott réitère le principe suivant lequel les modifications peuvent être autorisées à un stade avancé de l’instance, il ne s’agit pas d’un cas pour lequel pareille modification a été autorisée ou même demandée.
+[18] Par ailleurs, dans certaines affaires, la requête en vue d’obtenir l’autorisation de modifier a été refusée parce qu’elle avait été présentée trop tardivement et que l’autre partie s’était appuyée sur la thèse initiale de la partie requérante. Dans la décision Last c. La Reine[14], le ministre a formulé l’hypothèse que des dépôts bancaires inexpliqués étaient assimilés à un revenu provenant de l’entreprise de courtage automobile du contribuable par opposition à une autre source de revenus. Les actes de procédure avaient été limités à cet égard à la question de la détermination du revenu tiré de l’entreprise. Au cours de l’audience, le ministre a demandé l’autorisation de modifier sa réponse de sorte que la question soit formulée d’une manière plus générale, à savoir en affirmant que les dépôts inexpliqués étaient des revenus provenant d’une source quelconque. L’appelant avait alors déjà présenté de la preuve pendant trois jours et sa stratégie au procès avait été étayée sur les actes de procédure existants. La Cour a donc rejeté la demande.
+[19] De la même manière, dans la décision Fourney c. La Reine[15], la Cour a affirmé que le pouvoir discrétionnaire d’autoriser une modification à la réponse de la Couronne n’est généralement pas exercé une fois l’instruction amorcée. Il en va ainsi afin d’éviter qu’une partie puisse prendre la partie adverse par surprise durant le procès et de préserver le droit des parties de bien se préparer pour l’instruction[16]. Toutefois, dans la décision Fourney, la question a été soulevée par l’intimée, et non par le contribuable. Une autre décision, à savoir Burchat c. La Reine[17], laissait entendre que le fardeau incombant à la Couronne est peut‑être plus élevé que celui du contribuable. Il faut souligner toutefois que l’affaire Burchat a été tranchée suivant la procédure informelle et que le contribuable agissait pour son propre compte.
+[20] En résumé, la jurisprudence établit qu’il est possible d’obtenir l’autorisation de modifier un acte de procédure en vue de soulever un nouvel argument à un stade avancé de l’instance, mais qu’il ne sera pas facile de l’obtenir. Dans la plupart des cas, la requête est rejetée. La décision Scavuzzo est une exception notable.
+[21] À l’appui de sa requête, l’appelante fait état des circonstances plutôt particulières concernant l’ajournement de l’audience pour permettre aux parties de présenter des observations concernant l’argument fondé sur l’article 9 et du moment où la Cour a rendu la décision Mathieu. Suivant mon interprétation, il s’agit d’une façon indirecte de proposer que l’argument de la « non‑valeur du point de vue fiscal » ne constitue pas une nouvelle question du tout, mais plutôt un élargissement des questions qui ont toujours été en jeu.
+[22] Comme nous l’avons vu précédemment, la jurisprudence établit qu’il est plus difficile d’obtenir l’autorisation de faire une modification à un stade avancé de l’instance si cette modification soulève une question entièrement nouvelle. Dans l’arrêt Canderel, la CAF a souligné qu’il existe une distinction nette entre « les modifications ayant pour but de rendre plus claires les questions en litige, et celles qui permettent de soulever une défense différente pour la première fois »[18].
+[23] Par conséquent, nous devons examiner la question de savoir si l’argument de la « non‑valeur du point de vue fiscal » constitue une nouvelle question ou s’il s’agit d’un aspect de la controverse existante concernant l’article 9. À mon avis, le lien entre l’argument fondé sur l’article 9 et l’argument de la « non‑valeur du point de vue fiscal » est ténu. L’argument fondé sur l’article 9 intéressait la question de savoir si le paiement comptant était imputable au revenu ou au capital. Selon l’argument de la « non‑valeur du point de vue fiscal », le paiement comptant n’est imputable ni à l’un ni à l’autre. Il s’agit d’une qualification tout à fait différente du paiement comptant qui va totalement à l’encontre de la qualification initialement faite par l’appelante.
+[24] De plus, l’appelante affirme qu’on devrait lui permettre de s’appuyer sur la décision Mathieu. Certes, les parties peuvent invoquer de nouvelles décisions pour étayer leurs arguments, mais la décision Mathieu soutient (dans une certaine mesure) un argument que l’appelante n’a jamais soulevé jusqu’à maintenant. Dans la décision Mathieu, la question de savoir si les montants reçus au moment de la disposition des options d’achat d’actions accordées aux employés constituaient un capital de par leur nature n’a jamais été une question en litige. Les parties n’ont jamais soulevé cette question et, par conséquent, la Cour ne l’a pas examinée Il ressort clairement de cette décision que la question en litige était celle de savoir si les montants reçus étaient imposables au titre d’un revenu tiré d’un emploi. Quoi qu’il en soit, une nouvelle décision de la Cour ne constitue pas une invitation à soulever à un stade avancé de l’instance un argument complètement nouveau susceptible d’être plus avantageux pour l’appelant. Le nouvel argument en l’espèce invite la Cour à qualifier le montant d’une manière différente de ce qui a été fait dans la déclaration de revenus du contribuable, dans l’avis d’appel et dans les observations écrites antérieures de l’appelante, ainsi qu’à l’instruction.
+[25] L’appelante affirme qu’il n’en résultera aucun préjudice pour l’intimée parce que le nouvel argument n’est fondé sur aucun nouveau fait. Toutefois, comme l’analyse de la jurisprudence le démontre, la question ne s’arrête pas là lorsqu’il s’agit de déterminer s’il y a préjudice. La Cour doit également prendre en compte d’autres facteurs, y compris le moment où la modification est demandée, la question de savoir si elle soulève de nouvelles questions et aussi celle de savoir si la thèse initiale de la partie requérante a amené l’autre partie à adopter une ligne de conduite qui ne peut être changée.
+[26] En l’espèce, la modification a été demandée presque trois mois et demi après l’audience initiale et elle soulève une nouvelle question en litige. C’est la décision Mathieu uniquement qui en est à l’origine, et cette décision n’intéresse pas du tout la question du capital et du revenu. De plus, la Couronne a tout au long de l’instance adopté la thèse suivant laquelle le paiement comptant ne peut être assimilé à un gain en capital. L’appelante souhaite maintenant adopter la même thèse comme fondement à la conclusion selon laquelle le montant en question est donc une « non‑valeur du point de vue fiscal ». L’intimée subirait inévitablement un préjudice parce que les arguments qu’elle a présentés jusqu’à maintenant allaient à l’encontre de la qualification du paiement comptant comme un gain en capital.
+IV. Conclusion [27] Pour les motifs exposés précédemment, la requête de l’appelante est rejetée.
+Signé à Toronto (Ontario), ce 24e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 9e jour de juillet 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 347
+NO DE DOSSIER DE LA COUR :
+2012‑1845(IT)G
+INTITULÉ :
+LA SUCCESSION DE FEU EDWARD S. ROGERS c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE :
+Le 24 novembre 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Hemant Tilak
+Me Pooja Samtani
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Hemant Tilak
+Pooja Samtani
+Cabinet :
+Osler, Hoskin & Harcourt LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2014 CCI 207, 2014 DTC 1165.
+[2] [1994] 1 C.F. 3, 93 DTC 5357; cité avec approbation dans l'arrêt Canada c. O’Dwyer, 2013 CAF 200, 2013 DTC 5156, ainsi que dans l'arrêt Elliott c. Canada, 2012 CAF 154, [2012] G.S.T.C. 43.
+[3] Arrêt Canderel, précité à la note 2, à la p. 10 (DTC, p. 5360 ).
+[4] 93 DTC 298.
+[5] Ibid. à la p. 302 (cité à la p. 12 (DTC, p. 5361) dans l'arrêt Canderel, précité à la note 2).
+[6] Arrêt Canderel, précité à la note 2, à la p. 12 ( DTC, p. 5361 et 5362).
+[7] [1988] 1 All E.R. 38 (Ch. des lords).
+[8] Ibid., à la p. 62 (cité à la p. 11 (DTC, p. 5361 ) dans l’arrêt Canderel, précité à la note 2).
+[9] Voir le texte souligné dans la citation du par. 12, précité.
+[10] 2004 CCI 806, [2004] GSTC 168.
+[11] Précité à la note 2.
+[12] Précité à la note 10, au par. 10.
+[13] Le juge Noël, tel était alors son titre, a affirmé ceci : « Il est toujours loisible au juge du procès d’autoriser qu’une nouvelle question soit plaidée même après la clôture de la preuve, pour autant toutefois qu’il s’assure qu’aucun préjudice ne soit ainsi causé à l’autre partie […] » (précité à la note 2, au par. 11).
+[14] 2012 CCI 352, 2012 DTC 1290.
+[15] 2011 CCI 520, 2012 DTC 1019.
+[16] Ibid. au par. 70.
+[17] 2011 CCI 285, 2011 DTC 1210.
+[18] Précité à la note 2, citant la décision Ketteman (précitée au par. 14).

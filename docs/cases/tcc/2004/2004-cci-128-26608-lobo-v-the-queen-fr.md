@@ -1,0 +1,145 @@
+---
+title: "Lobo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26608/index.do"
+last_modified: "2004-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 128"
+citation2: ""
+neutral_citation: "2004 CCI 128"
+decision_date: "2004-04-27"
+language: "fr"
+item_id: "26608"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3550
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:33:07.248000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84e594724fda16770f634df8d46d4f74f28dcbbdd4b6fed1d6d2be7078dce312"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lobo v. The Queen
+
+- Citation: 2004 CCI 128
+- Decision date: 2004-04-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3550, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lobo v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-27
+Référence neutre
+2004 CCI 128
+Numéro de dossier
+2003-3025(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI128
+Date : 20040427
+Dossier : 2003-3025(IT)I
+ENTRE :
+JUANITA LOBO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l'appelante : Harold Coombs Avocat de l'intimée : Me P. Michael Appavoo
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs rendus oralement
+à l'audience à Toronto (Ontario) le 22 janvier 2004.)
+Le juge Sarchuk
+[1] Il s'agit de l'appel interjeté par Juanita Lobo à l'encontre d'une cotisation relative à son année d'imposition 1996. Dans sa déclaration de revenus pour l'année pertinente, elle avait indiqué un revenu total de 25 284,06 $ et réclamait un crédit d'impôt non remboursable de 2 151 $ relativement à un don de bienfaisance de 7 500 $ qu'elle aurait fait à Rocky Ridge Ranch Inc. (Rocky Ridge). Lorsqu'il a établi la nouvelle cotisation à l'égard de l'appelante, le ministre du Revenu national (le ministre) n'a pas admis le crédit d'impôt réclamé par l'appelante.
+[2] Le conjoint de l'appelante, Joseph A. Lobo (M. Lobo) a témoigné pour le compte de cette dernière. Il a raconté en ces termes que son comptable, Harold Coombs (M. Coombs) :
+[traduction]
+R. [...] m'avait approché pour m'informer que l'organisme de bienfaisance Rocky Ridge Ranch allait me remettre une somme de 7 500 $ si ensuite je [...] pour me demander si ensuite il serait approprié ou si je serais d'accord pour offrir ce montant en don de bienfaisance. Le don devait être fait par M. Chapman, un certain M. Bruce Chapman, et [...]
+M. le juge Sarchuk : Qui vous a approché?
+R. M. Coombs, que je connais depuis des années [...] Il m'a approché pour me suggérer un don de 7 500 $ de M. Chapman qui était lié au Rocky Ridge Ranch, un organisme de bienfaisance enregistré [...] Il m'a demandé si je serais d'accord pour faire un don de ce montant au Ranch. Je connais M. Coombs depuis un certain temps et je sais également qu'il a certains liens avec cet organisme de bienfaisance, je sais qu'il s'agit d'un organisme qui fait du bon travail. Je savais que la fille de M. Coombs travaillait au Ranch et je ne voyais aucune raison de ne pas faire un don directement à l'organisme de bienfaisance.
+M. Lobo a donc accepté la proposition en sachant que cela était nécessaire pour obtenir un reçu pour don de bienfaisance. Il a également témoigné que ni lui ni sa conjointe n'ont reçu quoi que ce soit de M. Chapman ou de Rocky Ridge, que ce soit sous forme d'argent comptant, de chèque, de biens ou d'aucune autre forme de compensation. De plus, on ne conteste pas le fait que ni lui ni sa conjointe n'ont jamais fait un don de bienfaisance quelconque à l'organisme de bienfaisance. Néanmoins, en décembre 1996, M. Coombs a donné à M. Lobo un reçu pour fins d'impôt pour un montant de 7 500 $, et ce reçu a été présenté avec la déclaration de revenus de l'appelante pour l'année d'imposition 1996[1]. M. Lobo a également témoigné qu'un « don » semblable d'un montant de 11 200 $ avait été offert également au même organisme de bienfaisance par l'entremise de M. Coombs. M. Lobo n'a jamais rencontré M. Chapman et il s'est exprimé en ces termes : [traduction] Toutes les communications entre M. Chapman et moi-même se faisaient par l'entremise de M. Coombs. Je n'ai jamais rencontré directement cette personne et je ne lui ai jamais parlé de vive voix.
+Lorsqu'on lui a demandé pourquoi M. Chapman aurait voulu lui donner une somme de 7 500 $, il a répondu en ces termes : [traduction] Je ne peux vraiment pas vous expliquer pourquoi. Je ne connais pas M. Chapman, ni l'organisme de bienfaisance, ni la relation qui existe entre M. Coombs et M. Chapman, alors je ne pourrais vous expliquer exactement pourquoi.
+[3] Bruce Chapman a témoigné pour le compte de l'intimée. Il est président de la Rocky Ridge, un oeuvre de bienfaisance qui, entre autres, exploite des camps d'été, tient des séances de réflexion de fin de semaine, fournit un éducation en plein air, etc. M. Chapman a affirmé que M. Coombs avait tout d'abord organisé ses opérations financières et que, plus tard, il s'était chargé de toute sa comptabilité[2]. En ce qui concerne le don en litige, M. Chapman a témoigné qu'il n'avait jamais rencontré M. Lobo ou sa conjointe et qu'il ne leur avait jamais fait don de 7 500 $, mais qu'il avait tout simplement [traduction] « suivi les directives de mon comptable et fait ce qu'on m'avait demandé » . Il a décrit ainsi les directives données par M. Coombs quant au mécanisme de donation et au contexte dans lequel ces directives lui avaient été données :
+[traduction]
+En raison des nouvelles cotisations établies par le gouvernement, j'étais personnellement, j'utiliserai l'expression « très durement frappé » , et après des rencontres régulières, on m'a présenté une façon de satisfaire aux exigences de Revenu Canada, et j'ai tout simplement fait ce qu'on me demandait.
+On a également fait référence à une lettre adressée à M. et Mme A. J. Lobo et signée par M. Chapman[3], dont la partie pertinente est formulée en ces termes :
+[traduction]
+Cher donateur,
+Par la présente, je désire confirmer le don de 7 500 $ que je vous ai fait pour l'année 1996, et je vous informe que j'ai reçu vos directives selon lesquelles je dois faire don de cette somme au ranch en votre nom.
+Rocky Ridge Ranch Inc. a été informé que vous êtes l'auteur de ce don et que le reçu pour don de bienfaisance doit vous être remis directement.
+Un échange a eu lieu entre M. Chapman et l'avocat de l'intimée. Ils se sont exprimés en ces termes :
+[traduction]
+Q. M. Chapman, je voudrais que vous examiniez la pièce 4 de l'appelante.
+Est-ce que nous avons une copie pour M. Chapman?
+M. Chapman, reconnaissez-vous cette lettre?
+R. Oui, je reconnais l'avis et les détails auxquels on fait référence.
+Q. Est-ce votre signature au bas du document?
+R. Oui, Monsieur.
+Q. Selon vous, à quelle date remonte cette lettre?
+R. Bien, elle n'est pas datée. Il me faudrait vérifier avec ma secrétaire au bureau pour en être certain.
+Q. Bien, M. Chapman, si vous regardez en haut du document, on indique décembre 1996.
+R. Oui.
+Q. Selon vous, est-ce la date à laquelle la lettre a été rédigée?
+R. Je ne le crois pas.
+Q. Peut-être pourriez-vous dire à la Cour pourquoi cette lettre a été rédigée?
+R. J'ai suivi les directives de M. Coombs. Plus tard, cette lettre a été dictée à une des dames qui travaillent à mon bureau et j'ai suivi les directives que me donnait mon comptable.
+Q. Ainsi, vous témoignez que cette lettre a été rédigée selon les directives de M. Coombs.
+R. Oui, Monsieur.
+Q. Vous remarquerez qu'on indique ici « le don de 7 500 $ que je vous ai fait pour l'année 1996 » .
+Est-ce vrai?
+R. Je ne lui ai pas remis la somme en main propre. Il s'agissait d'une inscription dans le grand livre ou d'une quelconque pratique comptable, me semblait-il.
+Q. Ainsi, il n'y a pas eu d'échange de fonds entre vous et M. Lobo ou Mme Lobo?
+R. Encore une fois, il faudrait que je demande à mon comptable de vérifier tous les documents qui m'ont été présentés à n'importe quel moment.
+Q. M. Chapman, aviez-vous l'intention de faire à M. et à Mme Lobo un don de 7 500 $?
+R. Non, mon intention était de suivre les directives de mon comptable.
+M. Chapman a également témoigné qu'à aucun moment, M. Coombs ne lui avait demandé de transférer de l'argent à M. Lobo ou à l'appelante. M. Chapman a poursuivi en ces termes :
+[traduction]
+R. Bien, je crois qu'à l'époque, M. Coombs m'a expliqué ce qui serait conforme aux exigences de Revenu Canada et que cette mesure serait conforme à leurs règlements.
+Q. Et si je reformule ma question, M. Chapman, avez-vous donné à M. Lobo [sic] de l'argent en espèces qu'il devait remettre à Mme [sic] et Mme Lobo?
+R. Non, je ne l'ai pas fait.
+[4] La position de l'appelante a été exprimée en ces termes dans l'Avis d'appel :
+[traduction]
+3. La contribuable a déclaré qu'en 1996, elle et son conjoint avaient reçu un don en argent de 7 500 $ de M. Bruce Chapman. Peu de temps après avoir accepté ce don, les appelants ont donné des directives au directeur administratif de Rocky Ridge Ranch Inc. Ces directives ont été suivies et un reçu pour don de bienfaisance approprié a été remis aux donateurs.
+4. L'appelante a également indiqué que cette transaction a été effectuée de plein gré et sans aucune attente de contrepartie de leur part ou de la part de toute autre personne désignée par les appelants.
+5. La contribuable a affirmé que le reçu de don de bienfaisance pertinent avait été émis de façon appropriée et conformément aux règles et aux règlements de la Loi sur la comptabilité des oeuvres de bienfaisance et de la Loi de l'impôt sur le revenu.
+[5] Après avoir entendu les observations des deux parties, j'ai offert mes commentaires. Au cours de mes quelque vingt années de magistrature, je n'ai jamais entendu une affaire aussi mal fondée. Je n'ai jamais non plus siégé dans aucune affaire où la représentation a été aussi mal faite. Je ne sais pas si M. Coombs était inconscient de sa fonction de représentant de l'appelante et du rôle qu'il pouvait jouer, ou plutôt qu'il n'aurait pas dû jouer, dans le cadre de la présente audience. Toutefois, s'il ne s'est jamais présenté en cour pour le compte d'un client auparavant, il aurait sûrement dû s'informer. Sa défaillance à cet égard a placé lui-même, sa cliente et la Cour dans une situation bien difficile, ce qui n'aurait pas dû se produire.
+[6] Ceci étant dit, absolument aucune preuve ne soutient la position de l'appelante. La façon la plus simple d'expliquer la situation est que M. Coombs a organisé une entente inhabituelle selon laquelle un « don » a été proposé à M. Lobo, que ce dernier a accepté. Absolument rien ne prouve que M. ou Mme Lobo ait jamais fait un don de 7 500 $. En outre, il n'existe absolument aucune preuve, et M. Chapman et son témoignage à ce sujet étaient clairs, selon laquelle ce dernier, dans le cadre de la transaction proposée, aurait fait un don de 7 500 $ à l'appelante sous une forme ou sous une autre. Il n'y a aucun doute qu'un reçu pour don de bienfaisance a été émis et, selon le témoignage de M. Chapman, il n'y a aucun doute quant à celui qui a préparé effectivement ce reçu.
+[7] Aucune preuve n'étaye la position présentée au nom de la contribuable. La seule conclusion logique possible est qu'il n'y a eu absolument aucun transfert d'aucun bien entre M. Chapman ou l'oeuvre de bienfaisance et l'appelante, et il n'existe non plus aucune preuve qu'une somme d'argent a été donnée par l'appelante à l'oeuvre de bienfaisance. Nul ne sait ce qu'on avait l'intention de faire en agissant de la sorte, mais je n'ai aucun doute quant au caractère frauduleux du reçu pour don de bienfaisance. Rien dans la preuve n'en prouve la légitimité. Cette conclusion suffit pour rejeter l'appel.
+[8] Même si l'on croyait que la « transaction sur papier » était valable, l'appelante ne pourrait pas avoir gain de cause. Dans l'arrêt Woolner c. La Reine, C.A.F., nos A-912-97, A-913-97, A-914-97, 21 octobre 1999 (99 DTC 5722), la Cour d'appel fédérale a dû traiter la situation de contribuables qui avaient fait leurs contributions à une église dans l'attente que leurs enfants obtiennent une bourse. La Cour a conclu qu'il s'agissait pour eux d'un avantage matériel, et que dans cette mesure, les contributions ne constituaient pas des crédits d'impôt déductibles pour dons de bienfaisance. Le passage cité ci-dessous peut s'appliquer efficacement à l'affaire qui nous occupe :
+[7 ] Notre Cour a posé qu'un don, au sens où l'entend la common law, est un transfert volontaire d'un ou de biens d'une personne à une autre, à titre gratuit et non en exécution d'une obligation contractuelle, sans attente ou espoir d'un avantage matériel en contrepartie. En l'espèce, il est manifeste que les contributions étaient volontaires. Reste à savoir si elles ont été faites dans l'attente ou l'espoir d'un avantage matériel.
+En l'espèce, il n'y a aucun doute que l'appelante n'a fait apporté aucune contribution à Rocky Ridge. Toutefois, si le projet de « stratagème de donation » avait été mis en oeuvre, il aurait existé un lien entre la contribution et l'avantage constitué par le don reçu antérieurement par le donateur. À mon avis, cela n'aurait pas constitué un transfert volontaire de l'appelante à Rocky Ridge, étant donné que ce transfert découlait d'une entente contractuelle.
+[9] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 27e jour d'avril 2004.
+« A. A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 29e jour de juin 2004.
+Louise-Marie LeBlanc, traductrice
+[1] Pièce A-1.
+[2] M. Chapman a dit que le contrat entre M. Coombs et l'organisme Rocky Ridge avait été résolu en ou vers juin 1999, après les vérifications effectuées par l'ADRC.
+[3] Pièce A-4.

@@ -1,0 +1,182 @@
+---
+title: "Belley (Labonté) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26079/index.do"
+last_modified: "2004-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 84"
+citation2: ""
+neutral_citation: "2004 TCC 84"
+decision_date: "2004-05-11"
+language: "en"
+item_id: "26079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4074
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:32.554000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b60386c5c099f11ed69ebb8b67e197b7a20d9398c9c9a8fa48380bc05356b1f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Belley (Labonté) c. La Reine
+
+- Citation: 2004 TCC 84
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4074, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belley (Labonté) c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-11
+Neutral citation
+2004 TCC 84
+File numbers
+2003-531(IT)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-531(IT)APP
+BETWEEN:
+CAROLLE BELLEY (LABONTÉ),
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on July 23, 2003, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances :
+For the Applicant:
+The Applicant herself
+Agent of the Respondent:
+Érick Bouchard (articling student)
+___________________________________________________________________
+AMENDED ORDER
+The order issued March 15, 2004, has been amended. The amendments are included in the wording of this document.
+This is an application for an order extending the time in which appeals from the assessments made under the Income Tax Act ("the Act") for the 1992, 1994 and 1996 taxation years, may be commenced.
+The application for an extension is dismissed in relation to the assessments issued respectively on July 11, 1997, and June 19, 1998, because 53-month to 64-month periods, respectively, elapsed between the assessments and the tardy notices of objection.
+No later than April 14, 2004, the respondent shall rule on the merits of the notice of objection filed on November 22, 2002, in respect of the assessment made on September 20, 2002, so that the applicant can assert her rights.
+As for the assessment dated January 20, 2003, which pertains to the 2003 taxation year, the application for an extension of time was prepared on January 31, 2003, and filed with the registry of the Tax Court of Canada on February 7, 2003, less than 20 days after the assessment. The application is therefore allowed in that it shall be deemed to be a notice of objection duly produced within the allotted time.
+Signed at Ottawa, Canada, this 11th day of May 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of February 2005.
+Jacques Deschênes, Translator
+Citation: 2004TCC84
+Date: 20040511
+Docket: 2003-531(IT)APP
+BETWEEN:
+CAROLLE BELLEY (LABONTÉ),
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR ORDER
+Tardif J.
+[1] The respondents issued several notices of reassessment. The dates, periods and subject matter of those notices are stated below:
+Date of reassessment
+Year concerned
+Subject matter
+Sept. 20, 2002
+1992
+Child Tax Benefit (CCTB)
+Jan. 20, 2003
+1994
+Child Tax Benefit (CCTB)
+June 19, 1998
+1996
+Child Tax Benefit (CCTB)
+July 11, 1997
+1996
+Goods and Services Tax Credit (GSTC)
+[2] The appellant responded to these reassessments as follows:
+Date
+of reassessment
+Date
+of response
+Nature of response
+Outcome
+Sept. 20, 2002
+Nov. 22, 2002
+Notice of Objection
+Respondent admits it did not answer appellant.
+Jan. 20, 2003
+none
+none
+none
+June 19, 1998
+Nov. 22, 2002
+Notice of Objection
+Respondent notified appellant that her Notices of Objection to the reassessments issued July 11, 1997, and June 19, 1998, respectively, were invalid because they were produced after the deadlines set out in the Act.
+July 11, 1997
+Nov. 22, 2002
+Notice of Objection
+[3] As for the notices of reassessment issued respectively on September 20, 2002, and January 20, 2003, for the tax years 1992 and 1994, the notices of reassessment were issued well beyond the three-year limit contemplated in section 152(3.1)(b) of the Act.
+[4] The Canada Customs and Revenue Agency can issue a notice of reassessment after the three-year time limit has expired, provided the conditions in subparagraph 152(4.01)(a)(i) are met:
+152. (4.01) Assessment to which par. 152(4)(a) or (b) applies - Notwithstanding subsections 152(4) and 152(5), an assessment, reassessment or additional assessment to which paragraph 152(4)(a) or 152(4)(b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to
+(a) where paragraph 152(4)(a) applies to the assessment, reassessment or additional assessment,
+(i) any misrepresentation made by the taxpayer or a person who filed the taxpayer's return of income for the year that is attributable to neglect, carelessness or wilful default or any fraud committed by the taxpayer or that person in filing the return or supplying any information under this Act,
+[5] The applicant therefore has clear arguments against the merits of the assessments issued on September 20, 2002, and January 20, 2003.
+[6] Since the respondent admits that it never responded to the appellant's notice of objection, the respondent is ordered to rule on the merits of the notice of objection within 30 days, following which Carole Belley (Labonté) may institute an appeal within the permitted time.
+[7] With regard to the application regarding the reassessment dated January 20, 2003, the application for an extension was prepared and produced within 20 days, specifically on January 31 and February 7, 2003, respectively, so the applicant was within the time permitted for being fully entitled to a review of the reassessment through the ordinary objection process. Consequently, the respondent shall examine the file as though the appellant has filed a notice of objection. Following the decision on the objection, the applicant shall be entitled to the time allotted by the Act to institute an appeal before the Tax Court of Canada, assuming the assessment is not nil.
+[8] With regard to the reassessments pertaining to the 1996 taxation years, and issued respectively on June 11, 1997, and June 19, 1998, the appellant produced her notice of objection after the time allotted by the Act had elapsed. Specifically, the appellant filed her notice of objection on November 22, 2002, which is more than 53 months after reassessment issued on June 19, 1998, and more than 64 months after the reassessment issued on July 11, 1997.
+[9] Consequently, the reassessments for the taxation year 1996, issued respectively on July 11, 1997, and June 19, 1998, with regard to the Child Tax Benefit (CCTB) and the Goods and Services Tax Credit (GSTC), are confirmed on the merits because the time for objecting and the time for obtaining an extension of the time have both elapsed long ago.
+Signed at Ottawa, Canada, this 11th day of May 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of February 2005.
+Jacques Deschênes, Translator
+CITATION :
+2004TCC84
+COURT FILE NO.:
+2003-531(IT)APP
+STYLE OF CAUSE:
+Carolle Belley (Labonté)
+PLACE OF APPLICATION:
+Québec, Quebec
+DATE OF APPLICATION:
+July 23, 2003
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice Alain Tardif
+DATE OF ORDER:
+May 11, 2004
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Agent for the Applicant:
+Érick Bouchard (articling student)
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

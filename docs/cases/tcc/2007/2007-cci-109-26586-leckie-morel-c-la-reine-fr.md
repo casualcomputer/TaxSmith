@@ -1,0 +1,251 @@
+---
+title: "Leckie Morel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26586/index.do"
+last_modified: "2007-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 109"
+citation2: ""
+neutral_citation: "2007 CCI 109"
+decision_date: "2007-02-22"
+language: "fr"
+item_id: "26586"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3529
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:56:01.905000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ba458a8c55484296bff4135a698d18b4f40e2786c3b0910315ce71123784b17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leckie Morel c. La Reine
+
+- Citation: 2007 CCI 109
+- Decision date: 2007-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3529, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leckie Morel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-22
+Référence neutre
+2007 CCI 109
+Numéro de dossier
+91-1816(IT)G, 91-509(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+ENTRE :
+LINDA LECKIE MOREL,
+GEOFFREY D. BELCHETZ
+et ALLAN GARBER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 15 septembre 2006, à Toronto (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat des appelants :
+Me Howard W. Winkler
+Avocats de l’intimée :
+Me James R. Shipley et
+Me Rosemary Fincham
+____________________________________________________________________
+ORDONNANCE
+Une requête ayant été présentée par l’intimée pour que la Cour se prononce avant l’audience, conformément à l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale), sur les questions de droit suivantes énoncées dans la présente instance :
+[traduction]
+1) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré le public de recettes fiscales revenant à Sa Majesté la Reine du chef du Canada en faisant de fausses déclarations à Revenu Canada à l’égard d’un montant d’environ 100 000 000 $ représentant les pertes déduites pour le compte de trente‑six sociétés en commandite, et notamment de S/Y Close Encounters Limited Partnership, gérées par OCGC?
+2) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré les investisseurs, et notamment M. Belchetz, qui avaient engagé des capitaux dans trente‑six sociétés en commandite gérées par OCGC, des versements en espèces qui avaient été effectués, de la valeur des billets, des paiements d’intérêts effectués à l’égard desdits billets en faveur d’OCGC à l’égard de parts achetées par les investisseurs, et notamment par M. Belchetz, dans chacune de ces sociétés en commandite?
+3) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas, en sachant que certains documents étaient contrefaits, illégalement fait ou tenté de faire en sorte que Sa Majesté la Reine du chef du Canada se serve de ces documents, à savoir les états financiers de sociétés en commandite, les factures et d’autres documents concernant trente‑six sociétés en commandite, et notamment S/Y Close Encounters Limited Partnership, gérées par OCGC, et qu’elle traite ces documents ou agisse à leur égard comme s’ils étaient authentiques?
+4) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas, en sachant que certains documents étaient contrefaits, illégalement fait ou tenté de faire en sorte que les investisseurs, et notamment M. Belchetz, se servent de ces documents, à savoir les états financiers de sociétés en commandite, les factures et d’autres documents concernant trente‑six sociétés en commandite, et notamment S/Y Close Encounters Limited Partnership, gérées par OCGC, et qu’ils traitent ces documents ou agissent à leur égard comme s’ils étaient authentiques?
+5) La doctrine de l’abus de procédure empêche‑t‑elle M. Belchetz d’alléguer, dans le présent appel, des faits allant à l’encontre des conclusions de fait tirées par la juge du procès lors des poursuites engagées contre MM. Bellfield et Minchella, ces conclusions faisant partie des motifs invoqués lors du prononcé de la peine?
+6) S’il est répondu par l’affirmative à l’une quelconque des questions énoncées aux alinéas 1), 2), 3), 4) ou 5), l’appel devrait‑il être rejeté pour le motif qu’il constitue un abus de procédure?
+7) S’il est répondu par l’affirmative à l’une quelconque des questions énoncées aux alinéas 1), 2), 3), 4) ou 5), mais par la négative à la question énoncée à l’alinéa 6), quelle est la réparation appropriée, le cas échéant, à l’égard de l’audition de l’appel?
+L’exposé conjoint des faits et les autres documents qui ont été déposés ayant été lus;
+Les avocats des parties ayant été entendus;
+La Cour ordonne qu’il soit répondu comme suit aux questions susmentionnées :
+Question 1 – Non
+Question 2 – Non.
+Question 3 – Non.
+Question 4 – Non.
+Question 5 – Non.
+Questions 6 et 7 – Aucune réponse n’est nécessaire.
+Les frais et dépens de la présente requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 22e jour de février 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 5e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI109
+Date : 20070222
+Dossiers : 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+ENTRE :
+LINDA LECKIE MOREL,
+GEOFFREY D. BELCHETZ
+et ALLAN GARBER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bowie
+[1] Les appelants dans ces trois appels et l’intimée ont convenu qu’il convient que la Cour se prononce avant l’audience, conformément à l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale), sur les questions suivantes qui découlent des modifications apportées le 20 avril 2006 aux réponses aux avis d’appel :
+[traduction]
+1) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré le public de recettes fiscales revenant à Sa Majesté la Reine du chef du Canada en faisant de fausses déclarations à Revenu Canada à l’égard d’un montant d’environ 100 000 000 $ représentant les pertes déduites pour le compte de trente‑six sociétés en commandite, et notamment de S/Y Close Encounters Limited Partnership, gérées par OCGC?
+2) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré les investisseurs, et notamment M. Belchetz, qui avaient engagé des capitaux dans trente‑six sociétés en commandite gérées par OCGC, des versements en espèces qui avaient été effectués, de la valeur des billets, des paiements d’intérêts effectués à l’égard desdits billets en faveur d’OCGC à l’égard de parts achetées par les investisseurs, et notamment par M. Belchetz, dans chacune de ces sociétés en commandite?
+3) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas, en sachant que certains documents étaient contrefaits, illégalement fait ou tenté de faire en sorte que Sa Majesté la Reine du chef du Canada se serve de ces documents, à savoir les états financiers de sociétés en commandite, les factures et d’autres documents concernant trente‑six sociétés en commandite, et notamment S/Y Close Encounters Limited Partnership, gérées par OCGC, et qu’elle traite ces documents ou agisse à leur égard comme s’ils étaient authentiques?
+4) Lorsque des déclarations de culpabilité ont été enregistrées, la doctrine de l’abus de procédure empêche‑t‑elle l’appelant d’alléguer qu’Einar Bellfield et Osvaldo Minchella ainsi qu’OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. n’ont pas, en sachant que certains documents étaient contrefaits, illégalement fait ou tenté de faire en sorte que les investisseurs, et notamment M. Belchetz, se servent de ces documents, à savoir les états financiers de sociétés en commandite, les factures et d’autres documents concernant trente‑six sociétés en commandite, et notamment S/Y Close Encounters Limited Partnership, gérées par OCGC, et qu’ils traitent ces documents ou agissent à leur égard comme s’ils étaient authentiques?
+5) La doctrine de l’abus de procédure empêche‑t‑elle M. Belchetz d’alléguer, dans le présent appel, des faits allant à l’encontre des conclusions de fait tirées par la juge du procès lors des poursuites engagées contre MM. Bellfield et Minchella, ces conclusions faisant partie des motifs invoqués lors du prononcé de la peine?
+6) S’il est répondu par l’affirmative à l’une quelconque des questions énoncées aux alinéas 1), 2), 3), 4) ou 5), l’appel devrait‑il être rejeté pour le motif qu’il constitue un abus de procédure?
+7) S’il est répondu par l’affirmative à l’une quelconque des questions énoncées aux alinéas 1), 2), 3), 4) ou 5), mais par la négative à la question énoncée à l’alinéa 6), quelle est la réparation appropriée, le cas échéant, à l’égard de l’audition de l’appel?
+J’ai rendu une ordonnance en ce sens le 15 septembre 2006 et les parties ont déposé un exposé conjoint des faits qui a servi de fondement aux questions qui ont alors été débattues. Les faits sur lesquels les parties se sont entendues sont énoncés ci‑après.
+[traduction]
+1. Overseas Credit Guarantee Corporation (« OCGC ») a été constituée le 11 mai 1984 à titre de société de l’Ontario. Einar Bellfield, qui est le nom d’emprunt utilisé par Einar Bjellebo, était le président ainsi que l’actionnaire majoritaire et l’unique actionnaire d’OCGC.
+2. Entre le 28 novembre 1984 et le 27 janvier 1986, OCGC, agissant à titre d’associé commandité, a fait enregistrer 79 sociétés de personnes auprès du ministère de la Consommation et du Commerce de l’Ontario, en Ontario, à titre de sociétés en commandite. Dans les documents qu’elle a déposés, OCGC a déclaré que l’objet des sociétés de personnes était d’exercer des activités d’affrètement[1].
+3. En 1985, en 1986 et en 1987, OCGC, directement ou indirectement par l’entremise d’Enterprises, a vendu 36 « sociétés en commandite » à environ 600 investisseurs individuels.
+Historique de l’appel Belchetz
+4. M. Belchetz est un homme d’affaires qui réside à Toronto, dans la municipalité de la communauté urbaine de Toronto (Ontario).
+5. Au cours de l’année d’imposition 1986, M. Belchetz a conclu avec OCGC une entente par laquelle il acquérait une part de « S/Y Close Encounters Limited Partnership ».
+6. La demande de M. Belchetz découle du fait que le ministre du Revenu national (le « ministre ») a refusé, à l’égard des années d’imposition 1986, 1987 et 1988, certaines déductions de son revenu découlant de sa participation, à titre d’un des 25 commanditaires, dans S/Y Close Encounters Limited Partnership. Les déductions ont été refusées par des avis de nouvelle cotisation datés du 2 novembre 1990 à l’égard des années d’imposition 1986, 1987 et 1988.
+7. Par des avis d’opposition datés du 12 novembre 1990 pour les années d’imposition 1986, 1987 et 1988, M. Belchetz s’est opposé aux avis de nouvelle cotisation.
+8. Par un avis de ratification daté du 14 juin 1991, le ministre a ratifié les nouvelles cotisations.
+9. M. Belchetz a interjeté appel au moyen d’un avis d’appel daté du 6 septembre 1991. Une copie conforme de l’avis d’appel est jointe sous la cote A au présent exposé conjoint des faits.
+10. L’intimée a dûment répondu à l’avis d’appel le 12 septembre 1997. Le 20 avril 2006, l’intimée a déposé une réponse modifiée à l’avis d’appel. Une copie conforme de la réponse modifiée est jointe sous la cote B au présent exposé conjoint des faits.
+Historique de l’appel Garber
+11. M. Garber est un homme d’affaires qui réside à Markham, dans la région de Peel (Ontario).
+12. Au cours de l’année d’imposition 1984, M. Garber a conclu avec OCGC une entente par laquelle il acquérait une part de « S/Y Garbo Limited Partnership », qu’il détenait en fiducie pour lui‑même ainsi que pour Stacy Mitchell et David Sugarman.
+13. La demande de M. Garber découle du fait que le ministre du Revenu national (le « ministre ») a refusé, à l’égard des années d’imposition 1984, 1985, 1986 et 1987, certaines déductions de son revenu découlant de sa participation dans S/Y Garbo Limited Partnership. Les déductions ont été refusées par des avis de nouvelle cotisation datés du 28 juillet 1989 à l’égard des années d’imposition 1984, 1985, 1986 et 1987.
+14. Par des avis d’opposition datés du mois d’octobre 1989 pour les années d’imposition 1984, 1985, 1986 et 1987, M. Garber s’est opposé aux avis de nouvelle cotisation.
+15. M. Garber a interjeté appel au moyen d’un avis d’appel daté du 28 juin 2004. Une copie conforme de l’avis d’appel est jointe sous la cote C au présent exposé conjoint des faits.
+16. L’intimée a dûment répondu à l’avis d’appel le 28 juillet 2004. Le 20 avril 2006, l’intimée a déposé une réponse modifiée à l’avis d’appel. Une copie conforme de la réponse modifiée est jointe sous la cote D au présent exposé conjoint des faits.
+Historique des appels Leckie-Morel
+17. Mme Leckie-Morel est un médecin qui, pendant toute la période pertinente, résidait à Scarborough, dans la municipalité de la communauté urbaine de Toronto (Ontario).
+18. Au cours de l’année d’imposition 1985, Mme Leckie‑Morel a conclu avec OCGC une entente par laquelle elle acquérait une part de « S/Y Midnight Kiss Limited Partnership ».
+19. La demande de Mme Leckie-Morel découle du fait que le ministre du Revenu national (le « ministre ») a refusé, à l’égard des années d’imposition 1985, 1986, 1987 et 1988, certaines déductions de son revenu découlant de sa participation, à titre d’un des 25 commanditaires, dans S/Y Midnight Kiss Limited Partnership. Les déductions ont été refusées par des avis de nouvelle cotisation datés du 7 septembre 1989 à l’égard des années d’imposition 1985 et 1987, et du 23 mai 1990 à l’égard de l’année d’imposition 1988 et par un avis de cotisation daté du 7 septembre 1989 à l’égard de l’année d’imposition 1986.
+20. Par des avis d’opposition datés du 20 novembre 1989 pour les années d’imposition 1985 et 1987, et du 7 août 1990 pour l’année d’imposition 1988, ainsi que par un avis d’opposition pour l’année d’imposition 1986, Mme Leckie‑Morel s’est opposée aux avis de nouvelle cotisation. Le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 1986 de Mme Leckie‑Morel par un avis de nouvelle cotisation daté du 22 décembre 1989.
+21. Mme Leckie-Morel a interjeté appel au moyen d’un avis d’appel daté du 16 août 1991 à l’égard des années d’imposition 1985, 1987 et 1988 ainsi que par un avis d’appel daté du 21 mars 1991 à l’égard de l’année d’imposition 1986. Une copie conforme de chacun des avis d’appel datés du 16 août 1991 et du 21 mars 1991, respectivement, est jointe sous les cotes E et F au présent exposé conjoint des faits.
+22. L’intimée a dûment répondu le 12 septembre 1997 à l’avis d’appel daté du 16 août 1991 et le 10 mai 1991 à l’avis d’appel daté du 21 mars 1991. Le 20 avril 2006, l’intimée a déposé une réponse modifiée à l’avis d’appel daté du 16 août 1991 et une nouvelle réponse modifiée à l’avis d’appel daté du 21 mars 1991. Une copie conforme de la réponse modifiée et de la nouvelle réponse modifiée respectivement est jointe sous les cotes G et H au présent exposé conjoint des faits.
+Poursuite de M. Bellfield et associés et déclarations de culpabilité y afférentes
+23. En 1995, à la suite d’une enquête de la GRC et de Revenu Canada, Enquêtes, M. Bellfield et ses associés, MM. Osvaldo Minchella et Pierre Rochat, ont chacun été accusés de fraude sous deux chefs, en vertu de l’alinéa 380(1)a) du Code criminel, et d’emploi de documents contrefaits, sous deux chefs, en vertu du paragraphe 368(1) du Code criminel.
+24. Au mois d’avril 1996, M. Rochat a plaidé coupable à l’égard de l’infraction qui consistait à faire des inscriptions fausses dans les registres et livres d’OCGC en violation de l’alinéa 239(1)c) de la Loi de l’impôt sur le revenu, et il a été condamné à deux années d’emprisonnement.
+25. Au mois de décembre 1999, à la suite d’un procès devant juge et jury, MM. Bellfield et Minchella ont été déclarés coupables sous tous les chefs. En particulier, MM. Bellfield et Minchella ont été déclarés coupables d’accusations selon lesquelles, avec OCGC, Neptune Marine Resources S.A. et Starlight Charters S.A. :
+a) ils avaient illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré le public de recettes fiscales revenant à Sa Majesté la Reine du chef du Canada en faisant de fausses déclarations à Revenu Canada à l’égard d’un montant d’environ 110 000 000 $ représentant les pertes déduites pour le compte de trente‑six sociétés en commandite, et notamment S/Y Garbo Limited Partnership, S/Y Close Encounters Limited Partnership et Midnight Kiss Limited Partnership, gérées par OCG;
+b) ils avaient illégalement, par supercherie, mensonge ou autre moyen dolosif, frustré les investisseurs qui avaient engagé des capitaux dans trente‑six sociétés en commandite et notamment S/Y Garbo Limited Partnership, S/Y Close Encounters Limited Partnership et Midnight Kiss Limited Partnership, gérées par OCGC, des versements en espèces qui avaient été effectués, de la valeur des billets, des paiements d’intérêts effectués à l’égard desdits billets en faveur d’OCGC à l’égard de parts achetées par les investisseurs dans chacune de ces sociétés en commandite;
+c) ils avaient, en sachant que certains documents étaient contrefaits, illégalement fait ou tenté de faire en sorte que Sa Majesté la Reine du chef du Canada se serve de ces documents, à savoir les états financiers de sociétés en commandite, les factures et d’autres documents concernant trente‑six sociétés en commandite, et notamment S/Y Garbo Limited Partnership, S/Y Close Encounters Limited Partnership et Midnight Kiss Limited Partnership, gérées par OCGC, et qu’elle traite ces documents ou agisse à leur égard comme s’ils étaient authentiques;
+d) ils avaient, en sachant que certains documents étaient contrefaits, illégalement fait ou tenté de faire en sorte que les investisseurs qui avaient engagé des capitaux dans trente‑six sociétés en commandite, et notamment S/Y Garbo Limited Partnership, S/Y Close Encounters Limited Partnership et Midnight Kiss Limited Partnership, se servent de ces documents, à savoir les états financiers de sociétés en commandite et d’autres documents, et qu’ils traitent ces documents ou agissent à leur égard comme s’ils étaient authentiques.
+Précisions relatives aux accusations, aux théories de la Couronne et du défendeur et aux directives données au jury
+26. Des précisions concernant les accusations portées contre MM. Bellfield et Minchella sont données dans l’acte d’accusation daté du 16 novembre 1999. Une copie conforme de l’acte d’accusation daté du 16 novembre 1999 est jointe sous la cote I au présent exposé conjoint des faits.
+27. La théorie de la Couronne pour ce qui est de la preuve contre MM. Bellfield et Minchella est énoncée dans l’exposé introductif et dans les conclusions finales de l’avocat de la Couronne. Une copie conforme de la transcription de l’exposé introductif de l’avocat de la Couronne est jointe sous la cote J au présent exposé conjoint des faits. Une copie conforme des conclusions finales de l’avocat de la Couronne est jointe sous la cote K au présent exposé conjoint des faits.
+28. La théorie du défendeur pour ce qui est de la preuve contre MM. Bellfield et Minchella est énoncée dans les conclusions finales de Me Silver, avocat de l’accusé Bellfield, et dans les conclusions finales de Me Kostopoulos, avocat de l’accusé Minchella. Une copie conforme de la transcription des conclusions finales de Me Silver est jointe sous la cote L au présent exposé conjoint des faits. Une copie conforme des conclusions finales de Me Kostopoulos est jointe sous la cote M au présent exposé conjoint des faits.
+29. Dans les directives qu’elle a données au jury, la juge du procès a résumé la preuve et le droit applicable. Une copie conforme des directives que la juge du procès a données au jury est jointe sous la cote N au présent exposé conjoint des faits.
+Prononcé de la peine et motifs à l’appui invoqués par la juge du procès et conclusions de fait y afférentes.
+30. Lorsque MM. Bellfield et Minchella ont été déclarés coupables, la juge du procès a imposé les peines suivantes. M. Bellfield a été condamné à dix années d’emprisonnement dans un pénitencier sous le premier chef; quant au deuxième chef, M. Bellfield s’est vu infliger une amende d’un million de dollars à verser à Sa Majesté la Reine du chef du Canada, ou à défaut de paiement, une peine d’emprisonnement de deux ans consécutive à toute autre peine; quant aux troisième et quatrième chefs, M. Bellfield a été condamné à quatre années d’emprisonnement dans un pénitencier, sous chaque chef, à purger en même temps que chaque autre peine et que la peine imposée sous le premier chef; M. Minchella a été condamné, sous le premier chef, à une peine d’emprisonnement de ans (sic) dans un pénitencier; quant au deuxième chef, M. Minchella a été condamné à une peine de sept ans à purger en même temps que la peine imposée sous le premier chef; quant aux troisième et quatrième chefs, M. Minchella a été condamné à une peine de trois ans sous chaque chef, à purger en même temps que chaque autre peine et que la peine imposée sous le premier chef.
+31. En décidant des peines à infliger à MM. Bellfield et Minchella, la juge du procès, conformément à l’article 74 du Code criminel, a tiré certaines conclusions de fait. Ces conclusions sont énoncées dans les motifs invoqués lors du prononcé de la peine. Une copie conforme de ces motifs est jointe sous la cote O au présent exposé conjoint des faits.
+Appel de la déclaration de culpabilité et du prononcé de la peine
+32. Le 14 octobre 2003, la Cour d’appel de l’Ontario a rejeté les appels que MM. Bellfield et Minchella avaient interjetés contre la déclaration de culpabilité et le prononcé de la peine. Une copie conforme des motifs du jugement rejetant l’appel est jointe sous la cote P au présent exposé conjoint des faits.
+33. Les demandes de pourvoi présentées à la Cour suprême du Canada par MM. Bellfield et Minchella, les 29 avril et 14 mai 2004, ont par la suite été rejetées. Devant la Cour suprême du Canada, le procureur général du Canada a présenté une requête en vue de faire déclarer inhabile l’avocat de M. Bellfield à cause d’un présumé conflit d’intérêts. En réponse à la requête, l’avocat de M. Bellfield a déposé la réponse de l’appelant à la requête visant à faire déclarer inhabile le cabinet Aird & Berlis. Une copie de la réponse de l’appelant à la requête visant à faire déclarer inhabile le cabinet Aird & Berlis est jointe sous la cote Q au présent exposé conjoint des faits.
+34. Les appelants n’étaient pas parties aux procédures criminelles engagées contre MM. Rochat, Bellfield et Minchella, ils n’étaient pas représentés par un avocat dans les procédures criminelles et, bien qu’ils aient été au courant de ces procédures, aucun avis formel ne leur a été donné.
+Je ne reproduirai pas les 17 appendices qui accompagnent l’exposé conjoint des faits.
+[2] Selon la position prise par l’intimée, le résultat du procès criminel dont MM. Bellfield et Minchella ont fait l’objet, ainsi que des appels y afférents, devrait être concluant pour les besoins du présent litige en ce qui concerne les faits qui étaient essentiels pour établir qu’ils étaient coupables des infractions dont ils avaient été déclarés coupables, et en ce qui concerne les faits auxquels la juge du procès a conclu lors du prononcé de la peine. Tout en reconnaissant qu’il n’y a pas, entre les procédures engagées au criminel contre MM. Bellfield et Minchella et les appels en matière d’impôt sur le revenu dont la Cour est ici saisie, identité des parties donnant lieu à l’application de la doctrine de la préclusion découlant d’une question déjà tranchée, l’intimée cherche à invoquer la doctrine de l’abus de procédure pour remise en cause, qui est en train de prendre de l’essor, à l’appui de la thèse voulant que les appelants ne peuvent pas avancer devant la Cour l’argument selon lequel ils étaient engagés, au cours des années visées par l’appel, tout comme MM. Bellfield et Minchella, dans une entreprise commerciale véritable qui a occasionné les pertes qu’ils cherchent à déduire des autres revenus qu’ils ont gagnés ces années‑là.
+[3] La doctrine de l’abus de procédure dans les litiges existe depuis longtemps en Angleterre. Dans l’arrêt Hunter v. Chief Constable of the West Midlands Police[2], plusieurs individus accusés de meurtre avaient tenté en vain de faire exclure leurs aveux pour le motif qu’ils avaient été obtenus au moyen de menaces et par la force. Après avoir été déclarés coupables, ces individus avaient intenté contre la police des actions au civil en vue d’obtenir des dommages‑intérêts pour les voies de fait qu’ils avaient déjà alléguées lors de leurs procès criminels. La Cour d’appel a radié leurs déclarations, annulant la décision du juge d’instance inférieure, et ce jugement a été confirmé en appel à la Chambre des lords. Lord Diplock a décrit comme suit, à la page 541, le principe sur lequel l’intimée ici en cause se fonde maintenant :
+[TRADUCTION] L'abus de procédure illustré en l'espèce est l'introduction d'une instance devant un tribunal judiciaire dans le but d'attaquer indirectement une décision définitive rendue contre le demandeur par un autre tribunal compétent dans une instance antérieure, où le demandeur a eu toute possibilité de contester la décision devant le tribunal qui l'a rendue.
+Dans ses motifs, lord Diplock a cité les remarques suivantes que le lord chancelier Halsbury avait faites dans l’arrêt Reichel v. Magrath[3] :
+[traduction] [...] Je crois qu’il serait scandaleux pour l’administration de la justice si, lorsqu’une question a déjà été tranchée dans une cause, le plaideur était autorisé, en changeant la forme des procédures, à plaider encore une fois la même cause.
+Il s’agissait là aussi d’une affaire dans laquelle la préclusion ne s’appliquait pas, puisque les parties n’étaient pas toutes les mêmes, mais la défense a été radiée pour le motif que la question qui y était soulevée était celle-là même que le défendeur avait soulevée sans succès en sa qualité de demandeur dans une action antérieure intentée contre une partie différente.
+[4] Deux décisions récentes de la Cour suprême du Canada montrent clairement que, bien que l’abus de procédure pour remise en cause fasse maintenant partie intégrante du droit du Canada, cette doctrine et la préclusion découlant d’une question déjà tranchée donnent toutes deux lieu à des réparations discrétionnaires, et leur application est assujettie à l’examen des faits propres à chaque affaire et en particulier à des considérations liées à l’équité et à la justice. Dans l’arrêt Danyluk c. Ainsworth Technologies Inc.[4], le litige se rapportait à l’emploi de la demanderesse ainsi qu’à une demande visant le versement du salaire et des commissions qui n’avaient pas été payés. L’employée avait engagé des procédures en vertu de la Loi sur les normes de l’emploi[5]; elle réclamait le salaire et les commissions qui n’avaient pas été payés. Pendant que la procédure engagée en vertu de cette loi était en cours, l’employée avait intenté une action fondée sur le congédiement injustifié, dans laquelle elle réclamait des dommages‑intérêts ainsi que le salaire et les commissions non payées. L’agente chargée de l’affaire en vertu de la Loi sur les normes de l’emploi ne lui ayant attribué que deux semaines de salaire à titre d’indemnité de préavis, l’employeur a demandé avec succès la radiation de la réclamation financière qui était faite dans l’action fondée sur le congédiement injustifié. En annulant cette décision, la Cour suprême a fait remarquer que les conditions d’application de la préclusion découlant d’une question déjà tranchée étaient toutes présentes. La même question avait été tranchée dans la procédure engagée en vertu de la Loi sur les normes de l’emploi, la décision de ce tribunal était devenue définitive et les parties étaient les mêmes dans les deux instances. Néanmoins, le tribunal administratif avait commis des erreurs de procédure en arrivant à sa décision, de sorte qu’il était inéquitable d’appliquer cette décision comme motif empêchant les demandes que la demanderesse avait faites. En rejetant l’application de la préclusion découlant d’une question déjà tranchée, la cour a dit ceci :
+g) Le risque d’injustice
+80 Suivant ce dernier facteur, qui est aussi le plus important, notre Cour doit prendre un certain recul et, eu égard à l’ensemble des circonstances, se demander si, dans l’affaire dont elle est saisie, l’application de la préclusion découlant d’une question déjà tranchée entraînerait une injustice. Le juge Rosenberg de la Cour d’appel a conclu que l’appelante n’avait pas été informée des allégations de l’intimée et n’avait pas eu la possibilité d’y répondre. Le juge Rosenberg était donc aux prises avec le problème signalé par le juge Jackson, dans ses motifs dissidents dans l’arrêt Iron c. Saskatchewan (Minister of the Environment & Public Safety), [1993] 6 W.W.R. 1 (C.A. Sask.), p. 21 :
+[traduction] Constituant un moyen de rendre justice aux parties dans le contexte d’une procédure contradictoire, la doctrine de l’autorité de la chose jugée porte en elle‑même le germe de l’injustice, spécialement lorsque le droit des parties de se faire entendre est en jeu.
+Indépendamment des diverses erreurs de nature procédurale commises par l’appelante en l’espèce, il n’en demeure pas moins que sa réclamation visant des commissions totalisant 300 000 $ n’a tout simplement jamais été examinée et tranchée adéquatement.
+[5] Dans l’arrêt Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), section locale 79[6], un employé municipal avait été déclaré coupable d’agression sexuelle, à la suite de quoi il avait été congédié. Son syndicat avait déposé un grief à l’encontre du congédiement et, devant l’arbitre, il avait avec succès contesté la question de l’agression sexuelle. Le demandeur avait été réintégré dans ses fonctions. En appel devant la Cour divisionnaire, cette décision avait été annulée, et les appels interjetés devant la Cour d’appel et devant la Cour suprême du Canada avaient été rejetés. C’était le syndicat plutôt que l’employé en cause qui avait contesté la déclaration de culpabilité antérieure, mais le fait que les parties n’étaient pas les mêmes n’empêchait pas de conclure que la déclaration de culpabilité ne pouvait pas être contestée d’une façon indirecte dans l’arbitrage. La juge Arbour a dit ce qui suit aux paragraphes 51 et 52 :
+51 La doctrine de l'abus de procédure s'articule autour de l'intégrité du processus juridictionnel et non autour des motivations ou de la qualité des parties. Il convient de faire trois observations préliminaires à cet égard. Premièrement, on ne peut présumer que la remise en cause produira un résultat plus exact que l'instance originale. Deuxièmement, si l'instance subséquente donne lieu à une conclusion similaire, la remise en cause aura été un gaspillage de ressources judiciaires et une source de dépenses inutiles pour les parties sans compter les difficultés supplémentaires qu'elle aura pu occasionner à certains témoins. Troisièmement, si le résultat de la seconde instance diffère de la conclusion formulée à l'égard de la même question dans la première, l'incohérence, en soi, ébranlera la crédibilité de tout le processus judiciaire et en affaiblira ainsi l'autorité, la crédibilité et la vocation à l'irrévocabilité.
+52 La révision de jugements par la voie normale de l'appel, en revanche, accroît la confiance dans le résultat final et confirme l'autorité du processus ainsi que l'irrévocabilité de son résultat. D'un point de vue systémique, il est donc évident que la remise en cause s'accompagne de graves effets préjudiciables et qu'il faut s'en garder à moins que des circonstances n'établissent qu'elle est, dans les faits, nécessaire à la crédibilité et à l'efficacité du processus juridictionnel dans son ensemble. Il peut en effet y avoir des cas où la remise en cause pourra servir l'intégrité du système judiciaire plutôt que lui porter préjudice, par exemple : (1) lorsque la première instance est entachée de fraude ou de malhonnêteté, (2) lorsque de nouveaux éléments de preuve, qui n'avaient pu être présentés auparavant, jettent de façon probante un doute sur le résultat initial, (3) lorsque l'équité exige que le résultat initial n'ait pas force obligatoire dans le nouveau contexte. C'est ce que notre Cour a dit sans équivoque dans l'arrêt Danyluk, précité, par. 80.
+[Je souligne.]
+Je note que la juge Arbour énonce disjonctivement les trois derniers facteurs qui peuvent justifier une remise en cause.
+[6] En l’espèce, on n’a pas soutenu devant moi que le procès de MM. Bellfield et Minchella était d’une façon ou d’une autre entaché d’un vice. Les appelants n’ont pas été appelés à témoigner et ils n’auraient pas, non plus, eu la possibilité de le faire s’ils l’avaient voulu; cependant, ils peuvent témoigner dans les appels qu’ils ont interjetés en matière d’impôt sur le revenu devant la Cour. Toutefois, il est encore plus important de noter que les considérations d’équité exigent que les appelants ne soient pas liés, dans le présent litige, par les déclarations de culpabilité qui ont été prononcées contre MM. Bellfield et Minchella. Les appelants ne cherchent pas à remettre en cause quoi que ce soit. La validité des cotisations dont ils ont fait l’objet n’a jamais été débattue, sauf dans les présents appels. Les appelants n’ont pas plaidé la culpabilité ou l’innocence de MM. Bellfield et Minchella, et ils n’auraient pas pu le faire. Il s’agit de parties tout à fait différentes des accusés, et ils ne cherchent pas à jeter un doute sur les déclarations de culpabilité, mais simplement à se faire entendre dans leurs propres appels en matière d’impôt sur le revenu. À mon avis, il ne serait pas équitable dans ce contexte de refuser aux appelants la possibilité de se faire entendre au sujet de la question de savoir si les sociétés de personnes ici en cause sont admissibles à titre de sources de revenu pour l’application de l’article 3 de la Loi de l’impôt sur le revenu, même si c’est le résultat qui, selon l’intimée, serait obtenu si l’on répondait par l’affirmative aux cinq premières questions[7]. Il vaut la peine de noter à cet égard que, dans les décisions où la doctrine de l’abus de procédure a été appliquée pour empêcher la remise en cause, c’est toujours la partie déboutée lors du premier litige qui a cherché à obtenir un avantage au moyen de la remise en cause. Dans l’affaire Toronto, le syndicat était l’employé s’estimant lésé nominal, mais il avait présenté un grief pour le compte de l’employé qui avait fait l’objet de la déclaration de culpabilité, et la réintégration de l’employé était le but visé.
+[7] Les appelants cherchent avec raison à se prévaloir des alinéas 1a) et 2e) de la Déclaration canadienne des droits[8] :
+1 Il est par les présentes reconnu et déclaré que les droits de l’homme et les libertés fondamentales ci‑après énoncés ont existé et continueront à exister pour tout individu au Canada quels que soient sa race, son origine nationale, sa couleur, sa religion ou son sexe :
+a) le droit de l’individu à la vie, à la liberté, à la sécurité de la personne ainsi qu’à la jouissance de ses biens, et le droit de ne s’en voir privé que par l’application régulière de la loi;
+[...]
+2. Toute loi du Canada, à moins qu’une loi du Parlement du Canada ne déclare expressément qu’elle s’appliquera nonobstant la Déclaration canadienne des droits, doit s’interpréter et s’appliquer de manière à ne pas supprimer, restreindre ou enfreindre l’un quelconque des droits ou des libertés reconnus et déclarés aux présentes, ni à en autoriser la suppression, la diminution ou la transgression, et en particulier, nulle loi du Canada ne doit s’interpréter ni s’appliquer comme
+[...]
+e) privant une personne du droit à une audition impartiale de sa cause, selon les principes de justice fondamentale, pour la définition de ses droits et obligations;
+Ces dispositions donnent droit à une audience au cours de laquelle les appelants pourront témoigner au sujet de toutes les questions susceptibles d’influer sur le résultat de leurs appels en matière d’impôt sur le revenu. Je ne veux pas faire de remarques au sujet du bien‑fondé de la cause des appelants, mais il est certes pertinent de noter que l’avocat de l’intimée fait valoir que, s’il est répondu aux cinq premières questions par l’affirmative, cela porte un coup fatal aux appels et les appels devraient être rejetés sommairement. Un tel règlement des appels en matière d’impôt sur le revenu serait certes incompatible avec le droit des appelants à une audience impartiale selon les principes de justice fondamentale, lorsqu’il s’agit de décider dans quelle mesure ils sont obligés en droit de céder leurs biens au percepteur des impôts. Une audience impartiale comprend le droit de présenter une preuve pour leur propre compte[9]. À mon avis, ce droit l’emporte, en l’espèce, sur les considérations de coût et d’irrévocabilité. La crédibilité du système judiciaire est bien sûr un facteur important, mais elle ne serait pas accrue si l’on refusait aux présents appelants le droit de soumettre une preuve au sujet de la question qui est au cœur de leurs appels.
+[8] Je reconnais qu’il y a de bonnes raisons de favoriser l’irrévocabilité des litiges et d’éviter la possibilité que des décisions contradictoires soient rendues par différents tribunaux lorsqu’il est possible de le faire tout en rendant justice. À mon avis, il s’agit ici d’un cas dans lequel les droits quasi constitutionnels des appelants à une audience impartiale doivent l’emporter sur l’irrévocabilité et sur la possibilité de résultats contradictoires. Par conséquent, je répondrai comme suit aux questions dont j’ai été saisi :
+Question 1 – Non
+Question 2 – Non.
+Question 3 – Non.
+Question 4 – Non.
+Question 5 – Non.
+Questions 6 et 7 – Aucune réponse n’est nécessaire.
+[9] Les frais et dépens de la présente requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 22e jour de février 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 5e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI109
+Nos DES DOSSIERS DE LA COUR : 91-509(IT)G, 91-1816(IT)G
+91-1946(IT)G, 2004-2787(IT)G
+INTITULÉ : LINDA LECKIE MOREL, GEOFFREY D. BELCHETZ et ALLAN GARBER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 septembre 2006
+MOTIFS DE L’ORDONNANCE : L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE : Le 22 février 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me Howard W. Winkler
+Avocats de l’intimée :
+Me James R. Shipley et
+Me Rosemary Fincham
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Howard W. Winkler
+Cabinet : Aird & Berlis LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans l’exposé conjoint des faits, il est fait mention de S/Y Close Encounters Limited Partnership, de S/Y Garbo Limited Partnership et de S/Y Midnight Kiss Limited Partnership comme étant des « sociétés en commandite », mais les parties conviennent que cette allégation est faite sous réserve du droit de l’intimée de faire valoir que ces entités n’étaient pas en droit des sociétés de personnes.
+[2] [1982] A.C. 529.
+[3] (1889) 14 App. Cas. 665, page 668.
+[4] [2001] 2 R.C.S. 460.
+[5] L.R.O. 1990, ch. E. 14.
+[6] [2003] 3 R.C.S. 77.
+[7] Exposé des faits et du droit de l’intimée, paragraphe 97.
+[8] L.R.C. 1985 (appendice III).
+[9] Singh c. Ministre de l’Emploi et de l’Immigration, [1985] 1 R.C.S. 177, juge Beetz.

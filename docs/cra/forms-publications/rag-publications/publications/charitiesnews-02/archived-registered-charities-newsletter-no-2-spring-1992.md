@@ -1,0 +1,54 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter - No. 2 - Spring 1992"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-02/archived-registered-charities-newsletter-no-2-spring-1992.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Registered Charities Newsletter - No. 2 - Spring 1992
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+For information on the issues discussed below or if you have other comments, call us at (613) 954-0410 for local Ottawa calls, at 1-800-267-2384 for toll-free long distance, or write to us at:
+
+**Charities Division Revenue Canada 400 Cumberland Street Ottawa, Ontario, K1A 0L8**
+
+## NEW APPOINTMENTS IN THE CHARITIES DIVISION
+
+Effective January 6, 1992, Ron Davis became Director of the Division and Carl Juneau became Chief of the Technical Interpretations and Communications Section of the Division.
+
+## ISSUING OFFICIAL DONATION RECEIPTS WHERE THERE ARE PRIZES
+
+**Can a charity issue an official donation receipt for fund-raising dinners, concerts, or like events where the ticket price includes a chance to win a prize of more than nominal value.**
+
+No. In general, a charity *can* issue an official receipt for the difference between the purchase price of a ticket to attend a dinner, concert, or like event and the fair market value of the food, entertainment, etc. However, if the price of admission includes taking part in a lottery or draw for prizes that have more than a nominal value, the charity *cannot* issue official receipts for any amount. If a charity wants to hold a lottery or draw and to issue receipts for the allowable portion of the admission price to an event, it should sell separate tickets to individuals who wish to take part in a draw or lottery. Tickets for the draw should be available for anyone to purchase and not just for those individuals who purchased tickets to attend the event.
+
+## REVISED ANNUAL INFORMATION RETURN
+
+A revised *Information Return* (Form T3010) for registered charities and the related guide are in the final testing stages. The new form is shorter, clearer, and easier to complete for most charities. We expect to release the revised return and guide in early 1993 when charities will be filing returns for the December 31, 1992, fiscal year end. For planning purposes, we will provide all charities with an advance copy of the return in autumn 1992.
+
+## REGISTERED NATIONAL ARTS SERVICE ORGANIZATIONS CAN ISSUE TAX RECEIPTS
+
+On December 17, 1991, an amendment to the *Income Tax Act* which provides for the registration of eligible National Arts Service Organizations received Royal Assent. Such organizations will be exempt from taxation on their income, and donors will receive a tax credit or deduction for gifts they make to such organizations. Registered National Arts Service Organizations are subject to the same benefits and obligations as registered charitable organizations under the *Income Tax Act*. However, since such organizations are not "qualified donees" as described in the Act, charities cannot transfer funds to them.
+
+## IS PARTICIPATION ON A MUNICIPAL ADVISORY COMMITTEE A PARTISAN POLITICAL ACTIVITY?
+
+No. When a government gives a charity the privilege of sending a representative to sit on an advisory committee, the choosing of this representative is not a partisan political activity.
+
+### REVISED PUBLICATIONS AND FORMS
+
+- The *Registering Your Charity* brochure is now written in clearer language and contains more details to help applicants to apply for registration.
+
+- The *Application for Income Tax Registration for Canadian Amateur Athletic Associations and Canadian Charities* (Form T2050) has perforated flaps that contain information to help applicants to properly complete the form.
+
+- Interpretation Bulletin 226R, *Gift to Charity of a Residual Interest in Real Property or an Equitable Interest in a Trust* was updated to provide more information.
+
+## A REMINDER -- WHERE CAN WE CONTACT YOU?
+
+To ensure your charity receives our correspondence such as annual returns, reminders, and new publications, please advise us of any change to your mailing address.
+
+**These newsletters form part of a series. Keep them for future reference within your organization.**

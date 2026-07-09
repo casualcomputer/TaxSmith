@@ -1,0 +1,230 @@
+---
+title: "Kion c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29408/index.do"
+last_modified: "2009-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 447"
+citation2: ""
+neutral_citation: "2009 CCI 447"
+decision_date: "2009-09-16"
+language: "fr"
+item_id: "29408"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6960
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:34:15.758000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b9c01eeb64fbf10d2c81993281cccc16062e97d7ac5e50a773231fde7bb2160b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kion c. La Reine
+
+- Citation: 2009 CCI 447
+- Decision date: 2009-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6960, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kion c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-16
+Référence neutre
+2009 CCI 447
+Numéro de dossier
+2006-2430(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2430(IT)G
+ENTRE :
+MICHAEL KION,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Petra Kion (2006‑2434(IT)G) et de Micheal Kion et Petra Kion (2006‑2427(GST)G), le 18 décembre 2008, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me David Everett
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés et les dépens sont adjugés à l'intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2009.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Yves Bellefeuille, réviseur
+Dossier : 2006-2434(IT)G
+ENTRE :
+PETRA KION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Michael Kion (2006‑2430(IT)G) et de Micheal Kion et Petra Kion (2006‑2427(GST)G), le 18 décembre 2008, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle‑même
+Avocat de l'intimée :
+Me David Everett
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés et les dépens sont adjugés à l'intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2009.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Yves Bellefeuille, réviseur
+Dossier : 2006-2427(GST)G
+ENTRE :
+MICHAEL KION ET PETRA KION,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michael Kion (2006‑2430(IT)G) et de Petra Kion (2006‑2434(IT)G), le 18 décembre 2008, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocat de l'intimée :
+Me David Everett
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 29 août 2005 et porte le numéro 11G0001268, est rejeté et les dépens sont adjugés à l'intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2009.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 447
+Date : 20090916
+Dossier : 2006-2430(IT)G
+ENTRE :
+MICHAEL KION,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2006-2434(IT)G
+ET ENTRE :
+PETRA KION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2006-2427(GST)G
+ET ENTRE :
+MICHAEL KION ET PETRA KION,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] Les appelants, Michael Kion et Petra Kion, ont interjeté appel des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise pour les années d'imposition 2000 et 2001. Les trois appels en question ont été entendus ensemble sur preuve commune. Les Kion ont comparu en personne et ont témoigné à l'audience. Une semaine avant l'audience, ils ont présenté une requête visant à modifier leurs avis d'appel modifiés quant à la conduite de certains représentants de l'Agence du revenu du Canada (l'« ARC »). Cette requête a été rejetée, et la question des dépens a été laissée à la discrétion du juge chargé d'entendre les appels. Les dépens suivront l'issue de la cause.
+[2] De 1994 à 1999, les Kion étaient associés en parts égales d'une entreprise de vente et d'entretien de systèmes de climatisation. Monsieur Kion s'occupait de l'entretien, et Mme Kion s'occupait de la tenue des comptes. Leur société de personnes était inscrite aux fins de la taxe sur les produits et services en application de la Loi sur la taxe d'accise. Pendant ces années‑là, les Kion ont produit des déclarations de revenus et des déclarations de TPS, et ont payé les impôts et les taxes conformément aux lois applicables.
+[3] En mars 2000, les Kion ont avisé[1] le ministre qu'ils se déclaraient [TRADUCTION] « personnes naturelles » et, à ce titre, ils ont formulé plusieurs demandes au ministre, demandes qui auraient eu l'effet de les libérer de toute obligation fiscale future. En résumé, les Kion soutiennent que chaque être humain est constitué d'une entité physique (la « personne naturelle ») et d'une entité juridique d'une autre nature créée lorsqu'un numéro d'assurance sociale est attribué à l'être humain. Comme par hasard, tous les revenus gagnés par l'être humain sont attribués à la personne naturelle, alors que toutes les obligations fiscales en découlant sont imposées exclusivement à son alter ego juridique.
+[4] Le ministre a rapidement répondu[2] à la lettre des Kion, les avertissant des risques qu'ils encouraient en se fiant à des conseils fiscaux trompeurs, et leur expliquant les obligations que leur imposait la loi. Malgré les conseils du ministre, les Kion ont poursuivi leurs recherches sur l'argument dit de la « personne naturelle » et sur son application à leur situation[3]. Par conséquent, les Kion ont cessé de tenir des livres et registres pour leur société, ils ont avisé le ministre que leur société avait mis fin à ses activités commerciales et ont arrêté de faire des déclarations et des versements de TPS, ils ont produit des déclarations de revenus faisant état de revenus « néants » pour l'entreprise, et ils ont envoyé à leurs banques des documents[4] censés montrer que les Kion, en tant que « personnes naturelles », étaient les propriétaires bénéficiaires de leurs comptes bancaires.
+[5] Le résultat de tout cela est qu'en 2003, les Kion ont fait l'objet d'une vérification, puis des cotisations ont été établies à leur égard en application de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise, respectivement pour les revenus et la taxe nette non déclarés. Le ministre a aussi imposé des pénalités pour faute lourde aux Kion en vertu des dispositions légales applicables. Ce sont ces cotisations‑là que les Kion ont portées en appel.
+Analyse
+[6] Les Kion ne sont pas les premiers à se fonder sur l'argument de la « personne naturelle »[5], et j'ai bien peur qu'ils ne soient pas les derniers. Comme les autres gens de leur espèce, les Kion, quoique personnellement opposés à payer taxes et impôts, n'ont eu aucun scrupule à gaspiller l'argent de leurs concitoyens en refusant de se conformer à leurs obligations légales et en invoquant des arguments absurdes devant l'appareil administratif et le système judiciaire. De plus, les principes philosophiques des Kion ne les ont pas empêchés d'empocher les sommes qu'ils ont reçues au titre de la prestation fiscale canadienne pour enfants et du crédit pour la TPS.
+[7] Le principal argument invoqué par les Kion à l'audience était qu'en leur capacité de « personnes naturelles », ils ne sont pas tenus de payer taxes et impôts. Ils n'ont pas nié les hypothèses du ministre à l'égard des sommes dont ils disposaient pendant les années d'imposition en cause, et ils n'ont fourni aucune autre explication quant à la provenance de ces fonds. Les Kion n'ont pas contesté les hypothèses du ministre relatives aux frais de subsistance engagés pendant ces années‑là. Ils n'ont pas non plus nié que leur société ait été active en 2000 et en 2001, mais M. Kion a expliqué qu'ils exploitaient alors leur entreprise en tant que « personnes naturelles » :
+[TRADUCTION]
+Q : D'accord, c'est bien. Au paragraphe 4 [de la pièce R‑1, onglet 60], vous faites l'affirmation suivante : « Nous [M. et Mme Kion] avons alors commencé à exploiter une nouvelle entreprise avec la même raison sociale, pour notre propre bénéfice à titre privé. Cette nouvelle entreprise n'était pas exploitée au bénéfice d'un membre de la direction, d'un contribuable agissant à titre de représentant, de représentant juridique pour l'un de nous. » Cela me donne à penser — je vous le demande maintenant — une entreprise était exploitée en 2000 et en 2001, mais sous une autre capacité, n'est‑ce pas?
+R : C'est cela, il s'agissait de —
+Q : Du moins, vous prétendez que l'entreprise était exploitée sous une autre capacité?
+R : Oui.
+Q : Mais vous et Petra exploitiez l'entreprise en 2000 et en 2001?
+R : Oui, sous une autre capacité, oui, c'est ça.
+Q : D'accord.
+R : En tant que personnes naturelles, c'est ça[6].
+[8] Les Kion ont contesté l'hypothèse voulant que Mme Kion était encore associée en 2000 et en 2001. Ils ont tous deux témoigné que Mme Kion avait arrêté de s'occuper de la tenue des comptes pour passer plus de temps à la maison. Je n'en crois pas un mot. D'abord, l'avis de dissolution de la société des Kion a seulement été déposé en 2006[7], longtemps après le moment où Mme Kion aurait prétendument cessé d'être associée. Plus important encore, j'ai trouvé que Mme Kion n'était pas crédible. L'ensemble de son témoignage était conçu pour correspondre à sa compréhension de l'argument de la « personne naturelle », et, avec le même objectif en tête, elle a cherché à souffler des réponses à son époux pendant qu'il témoignait. Je n'ai aucune raison de croire que Mme Kion a cessé d'être l'associée chargée de la tenue des comptes de la société. Par contre, il est clair que pendant qu'elle avait encore ce rôle, elle a cessé de faire la tenue des livres et registres que les Kion savaient nécessaires.
+[9] Les Kion ont aussi avancé que, comme le vérificateur de l'ARC avait témoigné n'avoir remarqué aucune activité commerciale à la résidence des Kion ou à l'entrepôt commercial qui leur appartenait à trois occasions où il s'était rendu à ces endroits‑là, le ministre ne pouvait pas se fonder sur l'hypothèse voulant que la société était active en 2000 et en 2001. La première faille de cet argument vient du fait que, dans les appels devant la Cour canadienne de l'impôt, c'est le contribuable qui a le fardeau de la preuve. La deuxième vient du fait que l'observation du vérificateur au sujet de l'absence d'activités a été faite en 2003, au moins un an après les années d'imposition en cause, et que l'entrepôt en question n'appartenait même pas aux Kion en 2000 et en 2001. Par conséquent, le témoignage du vérificateur ne diminue en rien le poids accablant des déclarations des Kion voulant que la société était active en 2000 et en 2001.
+[10] Comme l'argument de la « personne naturelle » sur lequel les Kion ont basé leurs appels n'a aucun fondement en droit, et comme les Kion n'ont aucunement réfuté les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir les cotisations en cause, les appels sont rejetés et les dépens sont accordés à l'intimée.
+Les pénalités pour faute lourde
+[11] Il reste donc à trancher la question des pénalités pour faute lourde imposées par le ministre. C'est le ministre qui a le fardeau de démontrer que l'imposition de ces pénalités était justifiée. Comme l'a expliqué le juge Strayer (tel était alors son titre) dans Venne c. La Reine[8], une décision maintes fois citée, le ministre doit se décharger d'un lourd fardeau :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi[9].
+[12] En raison des conclusions exposées ci‑dessus, je n'hésite aucunement à conclure que le ministre a eu raison d'imposer des pénalités pour faute lourde dans chacune des cotisations. Les Kion ont adopté l'argument de la « personne naturelle » en toute connaissance de cause, ils ont approfondi leur compréhension de cet argument et l'ont appliqué à leur situation. Ils ont emprunté cette voie inexorablement, et ce, malgré les avertissements opportuns du ministre au sujet de leurs obligations fiscales et du danger de se fonder sur des conseils fiscaux douteux. Les Kion ont continué, de façon éhontée, à exploiter leur société comme avant, tirant ainsi des revenus que, par leur expérience, ils savaient imposables et taxables. Ils ont déclaré n'avoir eu aucun revenu pour les années d'imposition en cause, ils ont fourni de faux renseignements au ministre pour faire annuler l'inscription de leur société aux fins de la TPS, et ils ont omis de produire des déclarations. Ils ont sciemment négligé de tenir des livres et registres relativement à leurs activités génératrices de revenus et ont modifié leurs dossiers bancaires pour se conformer à la théorie de la « personne naturelle ». La conduite des Kion n'est pas attribuable à une simple indifférence, mais bien à une intention manifeste de ne pas se conformer à des obligations légales qu'ils connaissaient déjà très bien.
+[13] Compte tenu des circonstances, la preuve m'a convaincue que les Kion ont sciemment fait de faux énoncés et des omissions dans leurs déclarations produites en application de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise. Par conséquent, le ministre a eu raison d'imposer des pénalités pour faute lourde en
+vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu et de l'article 285 de la Loi sur la taxe d'accise.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2009.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2009 CCI 447
+Nos DES DOSSIERS DE LA COUR :
+2006-2430(IT)G; 2006-2434(IT)G; 2006-2427(GST)G
+INTITULÉ :
+Michael Kion, Petra Kion, et Michael Kion et Petra Kion et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 18 décembre 2008
+MOTIFS DU JUGEMENT :
+L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT :
+Le 16 septembre 2009
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux‑mêmes
+Avocat de l'intimée :
+Me David Everett
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R‑1, onglet 28.
+[2] Pièce R‑1, onglet 29.
+[3] Pièce R‑1, onglet 11.
+[4] Pièce A‑2.
+[5] Kennedy c. Canada, [2000] 4 C.T.C. 186 (C.S. Ont.), R. v. Sydel, 2006 BCPC 346, [2006] 5 C.T.C. 88 (C. prov. C.‑B.), R. v. Lindsay, 2006 BCCA 150, 265 D.L.R. (4th) 193, [2006] 3 C.T.C. 146 (C.A. C.‑B.), Canada (Ministre du Revenu national) c. Camplin, 2007 CF 183, [2007] 2 C.T.C. 205, Hovey Ventures Inc. c. Canada, 2007 CCI 139, [2007] A.C.I. no 79 (QL).
+[6] Transcription, de la page 83, lignes 22 à 25, à la page 84, lignes 1 à 18.
+[7] Pièce A‑4.
+[8] no T‑815‑82, 9 avril 1984, [1984] C.T.C 223. (C.F. 1re inst.).
+[9] Ibid., p. 19.

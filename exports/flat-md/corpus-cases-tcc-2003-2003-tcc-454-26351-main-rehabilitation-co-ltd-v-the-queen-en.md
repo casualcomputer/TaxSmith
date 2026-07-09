@@ -1,0 +1,247 @@
+---
+title: "Main Rehabilitation Co. Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26351/index.do"
+last_modified: "2003-12-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 454"
+citation2: ""
+neutral_citation: "2003 TCC 454"
+decision_date: "2003-12-17"
+language: "en"
+item_id: "26351"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3364
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:21:29.991000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "38984dba2ce0e74f362f8a6349341a5f9bd8a6fc180ea426c40985e0da0250da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Main Rehabilitation Co. Ltd. v. The Queen
+
+- Citation: 2003 TCC 454
+- Decision date: 2003-12-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3364, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Main Rehabilitation Co. Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-17
+Neutral citation
+2003 TCC 454
+File numbers
+2003-992(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-992(IT)G
+BETWEEN:
+MAIN REHABILITATION CO. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 19, 2003 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Rocco Galati
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an order striking out portions of a notice of appeal filed in respect of income tax assessments for the 1996, 1997 and 1998 taxation years;
+AND UPON hearing counsel for the parties;
+AND UPON reading the material filed;
+IT IS ORDERED that:
+1. The parts of the notice of appeal reproduced in Appendix A of the Reasons that are underlined will be struck out;
+2. The Respondent will have 45 days from the date of this Order in which to deliver a Reply; and
+3. The Respondent will have costs of the motion in any event of the cause.
+Signed at Ottawa, Canada, this 17th day of December, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2003TCC454
+Date: 20031217
+Docket: 2003-992(IT)G
+BETWEEN:
+MAIN REHABILITATION CO. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+Background
+[1] In this motion the Crown seeks an order striking out parts of a notice of appeal that relate to the conduct of the Canada Customs and Revenue Agency during an audit of Main Rehabilitation Co. Ltd. The ground upon which the Crown relies is section 53 of the Tax Court Rules (General Procedure). Section 53 provides:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[2] The threshold for applying section 53 is high. It is not to be applied unless the issue raised in the notice of appeal clearly has no merit. The outcome must be "plain and obvious" and the result "beyond reasonable doubt:" Hunt v. Carey Canada Inc.[1] and Davitt v. The Queen.[2]
+[3] In March 2003, Main Rehabilitation filed a notice of appeal in respect to income tax assessments for the 1996, 1997 and 1998 taxation years. The notice of appeal is reproduced in Appendix A, with the parts that the Crown seeks to strike out underlined. The appeal is based on two grounds:
+· that the instigation and conduct of the audit was abusive; and
+· that certain business expenses were improperly disallowed.
+[4] The alleged abusive conduct by the CCRA is described in the notice of appeal as follows:
+· the audit was triggered by a false tip by a disgruntled shareholder;
+· the "auditor" had not yet passed her exams;
+· the supervisor who managed the audit was related to someone who was a friend of the disgruntled shareholders; and
+· the audit was illegal, abusive, unconstitutional and protracted.
+Main Rehabilitation submits that these facts warrant quashing the assessments on the grounds that they are an abuse of process at common law and a breach of section 7 of the Charter of Rights and Freedoms.[3]
+[5] This appeal is not the first time that Main Rehabilitation seeks relief for the conduct of the CCRA during this audit. In 1999, it filed an application for judicial review in the Federal Court of Canada in respect of the instigation of the audit and the conduct of the CCRA during the audit. That application was dismissed on procedural grounds on November 23, 1999. The decision was appealed and the appeal subsequently withdrawn.
+[6] The Crown submits that it is appropriate to strike out the parts of the notice of appeal dealing with the conduct of the CCRA because it is not relevant in an appeal of an assessment under section 169 of the Income Tax Act. It submits that the only relevant consideration is the correctness of the assessments and that the process by which they were arrived at has no bearing on this determination. The Crown also submits that, even if the conduct of the CCRA were relevant, the conduct described in the notice of appeal is not so egregious as to warrant this extraordinary relief.
+[7] For the reasons that follow, I would allow the Respondent's motion to strike out the parts of the notice of appeal relating to the conduct of the CCRA during the audit.
+Applicability of common law abuse of process
+[8] Main Rehabilitation submits that all courts have an inherent jurisdiction to give relief for an abuse of their own process. Reference was made to United States of America v. Cobb[4] and Re Abitibi Paper Company Limited and The Queen.[5] The common law discretion to provide relief for abuse of process was described by Madam Justice Arbour in Cobb, a case dealing with extradition proceedings:
+[37] Canadian courts have an inherent and residual discretion at common law to control their own process and prevent its abuse. The remedy fashioned by the courts in the case of an abuse of process, and the circumstances when recourse to it is appropriate were described by this Court in R. v. Keyowski, [1988] 1 S.C.R. 657 at pp. 658-59, 40 C.C.C. (3d) 481:
+The availability of a stay of proceedings to remedy an abuse of process was confirmed by this Court in R. v. Jewitt, [1985] 2 S.C.R. 128. On that occasion the Court stated that the test for abuse of process was that initially formulated by the Ontario Court of Appeal in R. v. Young (1984), 40 C.R. (3d) 289. A stay should be granted where "compelling an accused to stand trial would violate those fundamental principles of justice which underlie the community's sense of fair play and decency", or where the proceedings are "oppressive or vexatious" ([1985] 2 S.C.R. at pp. 136-37). The Court in Jewitt also adopted "the caveat added by the Court in Young that this is a power which can be exercised only in the 'clearest of cases'" (p. 137).
+[9] Counsel for Main Rehabilitation suggests that there is a vacuum in tax law with respect to the principle described in Cobb. He colourfully described the Tax Court as being in a cocoon, perhaps suggesting that tax cases are behind the times with respect to extraordinary remedies.
+[10] The question is whether it is appropriate for the Tax Court to provide a remedy for improper conduct by CCRA officials in the course of an audit. The only remedy that the Tax Court could give is a reduction or elimination of taxes otherwise owing. This Court has no jurisdiction to award damages and Main Rehabilitation does not suggest otherwise. I note that other courts have on occasion awarded damages arising from conduct of the CCRA: Longley v. Canada (M.N.R.).[6]
+[11] The Tax Court clearly has authority to stay proceedings that are an abuse of its own process, that is, the litigation process: Yacyshyn v. Canada.[7] However, courts have consistently held that the actions of the CCRA outside the litigation process should not be taken into account in an appeal of an assessment in the Tax Court.[8]
+[12] In Ludco Enterprises Ltd. v. Canada,[9] several taxpayers whose claim for a deduction of interest was disallowed by the Minister of National Revenue argued in an action commenced in the Federal Court that they were discriminated against because other taxpayers in identical circumstances had been treated differently. On appeal, Chevalier D.J. rejected the application of the principles of natural justice to decisions of the CCRA:
+... Neither the Minister of National Revenue nor his employees have any discretion whatever in the way in which they must apply the Income Tax Act. They are required to follow it absolutely, just as taxpayers are also required to obey it as it stands. ... [it] is not possible to judge their actions by varying and flexible criteria such as those required by the rules of natural justice. In determining whether their decisions are valid the question is not whether they exercised their powers properly or wrongly, but whether they acted as the law governing them required them to act.
+[13] The issue was most recently considered in the context of an application for judicial review where a taxpayer had been denied access to certain information that was available to the appeals officer: Webster v. Canada.[10] Although the application originated in the Federal Court, Sharlow J.A. made the following observation about an appeal to the Tax Court:
+[21] I would add that the right to appeal an income tax assessment to the Tax Court is a substantial one. The mandate of the Tax Court is to decide, on the basis of a trial at which both parties will have the opportunity to present documentary and oral evidence, whether the assessments under appeal are correct in law, or not. If the assessments are incorrect as a matter of law, it will not matter whether the objection process was flawed. If they are correct, they must stand even if the objection process was flawed.
+[14] Main Rehabilitation has not referred me to any authorities that have applied the concept of abuse of process where there is a substantive right of appeal, such as that provided for income tax assessments. Accordingly, I see no reason to depart from the principle stated by Madam Justice Sharlow.
+[15] During the hearing of the motion, counsel for Main Rehabilitation brought to my attention a case that he had recently argued and that was pending in the Federal Court of Appeal. That decision has since been released. In Dwyer v. Canada,[11] the Court of Appeal considered the applicability of the abuse of process doctrine to the conduct of the CCRA during an investigation/audit in an income tax appeal.[12] The Court concluded that there was no abuse of process on the facts and did not address the threshold question of whether the assessment should be quashed even if there were an abuse of process. Because this threshold question was not discussed, I would not consider that Dwyer overrules settled law on the question of the relevance of the conduct of the CCRA in an income tax appeal.
+Applicability of section 7 of Charter
+[16] Main Rehabilitation submits that the conduct of the CCRA also constitutes a breach of section 7 of the Charter of Rights and Freedoms. Section 7 provides:
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+[17] The Crown suggests that section 7 protection applies only to individuals and therefore cannot extend to the appellant: Dywidag Systems International, Canada Ltd. v. Zutphen Brothers Construction Ltd.[13] Main Rehabilitation on the other hand suggests that section 7 can in certain circumstances apply to corporations. Counsel referred to the following passage by the Supreme Court of Canada in R. v Wholesale Travel Group Inc.:[14]
+Wholesale Travel has standing to challenge the constitutionality of the false/misleading advertising provisions under ss. 7 and 11(d) of the Charter and may benefit the finding that these provisions are unconstitutional.
+[18] The Supreme Court's decision does not extend section 7 Charter protection to corporations except that corporations may benefit from a finding that a statutory provision is invalid on the basis of section 7.[15] That exception has no applicability here. Accordingly, because Main Rehabilitation is a corporation, it cannot avail itself of section 7 of the Charter.
+Effect of Federal Court application
+[19] The Crown submits that because Main Rehabilitation previously sought relief in the Federal Court of Canada, it would be an abuse of process of this Court to permit Main Rehabilitation to seek relief again in this Court. In light of my conclusion on the other issues, it is not necessary that I make a finding on this.
+Conclusion
+[20] Main Rehabilitation's position has no merit in law. The actions of the CCRA during an audit are not relevant to an appeal to this Court regardless of whether the actions are described as discriminatory, unfair, in error, or abusive. It is appropriate to strike out the parts of the notice of appeal that relate to the abuse of process issue. The passages in the notice of appeal in Appendix A that are underlined should be struck out. The respondent will have 45 days from the date of the order to file a reply and the respondent will have costs of the motion in any event of the cause.
+Signed at Ottawa, Canada, this 17th day of December, 2003.
+"J.M. Woods"
+J. M. Woods J.
+APPENDIX A
+NOTICE OF APPEAL
+(A) ADDRESS OF THE APPELLANT:
+C/O 637 College Street
+Suite 203
+Toronto, ON
+M6G 1B5
+(B) ASSESSMENT UNDER APPEAL:
+1. The assessments under appeal are from notices of reassessment, dated December 13th, 2002, with respect to the Appellant's 1996 and 1997 taxation years, and a notice of confirmation, also dated December 13th, 2002, with respect to the Appellant's 1998 taxation year, which notices were all received by the Appellant on December 20th, 2002.
+(C) MATERIAL FACTS:
+2. The Appellant is a duly incorporated company, pursuant to the laws of Ontario and Canada is in the business of relining water mains. It has done work in Ontario, Quebec, and attempted to obtain contracts in, inter alia, Italy and Cuba as work in Canada is restricted to non-winter months.
+3. The Appellant Corporation has various directors, shareholders, and officers.
+4. One of its officers, Mr. Robert Taddeo, did in 1996, 1997, and 1998, incur various travel expenses, with respect to attempting to obtain contracts, inter alia, in Cuba and Italy.
+5. During the same taxation years in question, the Appellant, in addition to the travel expenses incurred by its Vice-President described in paragraph # 4 above, did also, through Mr. Taddeo and other of its directors, officers, and employers, incur mean, entertainment and promotion, and reimbursement-of-workitems expenses, incurred in the course of business and for the purposes of earning income.
+6. Following an illegal, abusive, unconstitutional and protracted audit, the Respondent disallowed the Appellant's expenses as follows:
+a) 1996 - in the amount of $319,404, by notice of assessment dated December 15, 1999;
+b) 1997 - in the amount of $289,480, by notice of assessment dated April 3, 2000;
+c) 1998 - in the amount of $78,198 by notice of assessment dated June 18, 2001;
+which assessments included penalty and interest on revised income from the disallowed expenses.
+7. The Appellant objected to the above assessments as follows:
+a) 1996 - on March 10th, 2000;
+b) 1997 - on April 28th, 2000;
+c) 1998 - on July 3rd, 2001.
+8. By correspondence dated December 13th, 2002, and received by the Appellant December 20th, 2002, the Respondent responded to the Appellant's objections as follows:
+a) 1996 - by issuing a reassessment and slightly varying the amounts disallowed;
+b) 1997 - by issuing a reassessment and slightly varying the amounts disallowed;
+c) 1998 - by confirming the amounts disallowed.
+9. The Appellant states, and fact is, that all amounts disallowed were improperly disallowed as they were, in the vast main, incurred in the proper course of business, and for the purpose of earning income.
+10. The Appellant further states that he audit which triggered the reassessment(s) was based on mala fides and an abuse of authority and unconstitutional due to, inter alia, the following reasons:
+a) it was triggered by a so-called "anonymous" false tip and allegation by a disgruntled shareholder engaged in litigation against the Appellant in the Ontario Courts;
+b) it was conducted by an "auditor" (accountant/bookkeeper?) who had not yet passed her exams;
+c) it was managed by a supervisor related to a municipal inspector who had dealings with directors, officers and employees, as well as being a friend of the disgruntled shareholders set out in (a) above, of the Appellant;
+d) the audit conducted was as described in paragraph 6 above.
+11. Such further acts as counsel may advise during the course of the appeal.
+(D) ISSUES TO BE DECIDED:
+12. Whether the audit was an abuse of authority, at common law, and an abuse of process, contrary to ss. 7 of the Charter?
+13. Whether the amounts disallowed were improperly disallowed under the Income Tax Act by the Respondent?
+(E) STATUTORY PROVISIONS:
+14. The Appellant relied, inter alia, on the following statutory provision:
+a) ss. 18(1)(a), 165(3) of the Income Tax Act;
+b) s. 7 and 15 of the Charter;
+c) such further provisions as counsel may advise during the course of the appeal.
+(underlining added)
+(F) REASONS:
+14. The Appellants states that the reasons for the appeal are:
+a) that the audit and assessment are an abuse of authority and process at common law, ss. 7 and 15 of the Charter, based on the ethnic background and nationality of the officers, directors, and employees of the Appellant, namely southern Italian;
+b) the assessments are in blatant and obstinate error in their disallowance of properly incurred business expenses for the purpose of earning income.
+(G) RELIEF SOUGHT:
+15. The Appellant therefore respectfully requests that:
+a) the assessments be stayed; or
+b) quashed or set aside; or
+c) remitted to the Minister for reassessment in accordance with the reasons of the Court;
+d) solicitor-client costs of this appeal; and
+e) such further and other relief as this Honourable Court deems just.
+(H) DATE:
+March 6, 2003
+CITATION:
+2003TCC454
+COURT FILE NO.:
+2003-992(IT)G
+STYLE OF CAUSE:
+Main Rehabilitation Co. Ltd. v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 19, 2003
+REASON FOR ORDER BY:
+The Honourable Justice J.M. Woods
+DATE OF ORDER:
+December 17, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Rocco Galati
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Rocco Galati
+Firm:
+Galati, Rodrigues, Azevedo & Associates
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1990] 2 S.C.R. 959.
+[2] 2001 DTC 702 (T.C.C.).
+[3] At the hearing, Main Rehabilitation also argued that the CCRA conduct constituted a breach of section 15 of the Charter. This position was subsequently abandoned and accordingly I have not considered it.
+[4] (2001) 152 C.C.C. (3d) 270 (S.C.C.).
+[5] (1979) 24 O.R. 742 (Ont. C.A.).
+[6]
+99 DTC 5549 (S.C.B.C.).
+[7] 99 DTC 5133 (F.C.A.).
+[8] A limited exception was provided in The Queen v. O'Neill Motors Ltd., 98 DTC 6424 (F.C.A.), a case in which the Charter was applied to vacate an assessment.
+[9] [1996] 3 C.T.C. 74 (F.C.A.).
+[10] [2003] F.C.J. No. 1569 (F.C.A.).
+[11] 2003 DTC 5575 (F.C.A.).
+[12] It appears that this argument was first raised at the Court of Appeal level.
+[13] [1990] 1 S.C.R. 705.
+[14] [1991] 3 S.C.R. 154.
+[15]
+See Peter W. Hogg, Constitutional Law of Canada.

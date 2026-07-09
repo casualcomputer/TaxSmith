@@ -1,0 +1,281 @@
+---
+title: "Asare-Quansah v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30852/index.do"
+last_modified: "2012-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 226"
+citation2: ""
+neutral_citation: "2012 TCC 226"
+decision_date: "2012-06-21"
+language: "en"
+item_id: "30852"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7381
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:19:38.984000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c232f2be7fbb7877a5914a9e6a88274d2954a898818bf74fc3eaba0db49cbeeb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Asare-Quansah v. M.N.R.
+
+- Citation: 2012 TCC 226
+- Decision date: 2012-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7381, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Asare-Quansah v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-21
+Neutral citation
+2012 TCC 226
+File numbers
+2010-3852(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2010-3852(CPP)
+BETWEEN:
+EDWARD ASARE-QUANSAH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 15, 2012, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 27 of the Canada Pension Plan is vacated.
+Signed at Ottawa, Canada, this 21st day of June 2012.
+"Campbell J. Miller"
+C. Miller J.
+Docket: 2011-276(EI)
+BETWEEN:
+EDWARD ASARE-QUANSAH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 15, 2012, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue is vacated on the basis that the worker, Edward Asare-Quansah, was not engaged in insurable employment.
+Signed at Ottawa, Canada, this 21st day of June 2012.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2012 TCC 226
+Date: 20120621
+Docket: 2010-3852(CPP)
+2011-276(EI)
+BETWEEN:
+EDWARD ASARE-QUANSAH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Asare-Quansah appeals The Minister of National Revenue’s (the "Minister") ruling that in 2007 he was in insurable and pensionable employment within the provisions of the Employment Insurance Act (the "Act") and Canada Pension Plan ("CPP") at the School of Continuing Studies ("SCS") at the University of Toronto. Mr. Asare-Quansah claims that he was self-employed as a sessional lecturer.
+[2] The law is reasonably well settled on this issue which we often hear at the Tax Court of Canada. While the four-pronged test in Wiebe Door Services Ltd. v. Canada[1], massaged slightly by comments of the Supreme Court of Canada in the 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] case and by recent decisions of the Federal Court of Appeal (see The Royal Winnipeg Ballet v. M.N.R.[3] for example) is easily stated, the application of that test to specific facts can be tricky. And there will be cases, and I believe this is one of them, where the arrangement, with some subtle tweaking, could be just as readily viewed as one or the other - an employment or independent contractor relationship. I have concluded in this case the status is that of an independent contractor.
+[3] The guidelines that have been established by the jurisprudence to assist in the identification of a working arrangement are the factors of control, ownership of tools, chance of profit and risk of loss, though as the Supreme Court of Canada has pointed out in Sagaz that list is not exhaustive. The role of the parties’ intention has also come to be considered a factor, obviously only when that intention is mutual. Such is not the case before me, as Mr. Asare-Quansah made it clear that at no time did he intend to be an employee and always considered himself an independent contractor. The SCS, on the other hand, through the testimony of its Chief Financial Officer, Ms. Dundas, treated their sessional lecturers, as a matter of policy, as employees. Unfortunately, Ms. Dundas was unable to explain any underlying basis for that policy, which she said was established before her time. Intention of the parties is of no assistance in this case.
+Control
+[4] As pointed out in Sagaz, control is always a factor and my experience is that it is often the determinative factor. So, what control, if any, did the SCS exercise over Mr. Asare-Quansah in 2007? A brief review of the facts is in order.
+[5] In the fall of 2007, Mr. Asare-Quansah, a chartered accountant, did two things for the SCS. First, he designed and developed a course called Financial Literacy for Non-Financial Executives: second, he taught a Financial Management course. I note that Mr. Asare-Quansah has lectured for a number of years both in-class courses and online courses. In the fall of 2007, the course he taught was an online course, but as Respondent’s counsel acknowledged, it would be nonsensical to find a difference in the working relationship of the two formats. Mr. Asare‑Quansah, in teaching at the SCS, is either an employee or an independent contractor regardless of the online or in-class format. I agree with the Respondent on this approach.
+[6] With respect to the contract to design the Financial Literacy course, the written contract is clear that both the SCS and Mr. Asare-Quansah considered him to be an independent contractor. Excerpts of the contract dated August 21, 2007, read as follows:
+…
+The following Letter of Agreement covers our shared contractual responsibilities for the design and development of SCS1837 Financial Literacy for Non-Financial Executives.
+…
+You agree to design and develop Financial Literacy for Non-Financial Executives. As part of the design and development of this course, you also agree to provide a detailed course outline.
+…
+No amount in addition to the fee above will be payable to you on account of expenses or disbursements incurred by you.
+As an independent contractor and not an employee of the University, you will not receive any fringe benefit, sick leave, vacation leave, health or insurance coverage or any other benefit. As an independent contractor, you are fully responsible for the prompt payment of any tax (including goods and services tax), levy, contribution, premium or assessment (and any related interest or penalties) including, without limitation, federal and provincial sales and commodity tax, income tax, Worker’s Compensation assessment, Employment Insurance premiums, Canada Pension Plan contributions and Employer Health Tax that may arise out of the provision of services under this part of the Agreement.
+You will not be provided with an office in connection with the provision of services pursuant to this Agreement. In addition, no office supplies or support staff will be provided to you.
+…
+The School of Continuing Studies is delighted to be working with you on this program. Should there be any items in this letter of agreement that you would like to discuss, please contact me via phone or email. Otherwise, please sign the attached copy of this letter indicating your acceptance.
+[7] As well as this letter, there was a one-page SCS Instruction Contract dated September 14, 2007, which reads in part:
+…
+Part III Contract Terms and Conditions
+The undersigned instructor hereby confirms that this Course Instruction Contract together with the Manual of Policies for instructors is the entire contract between the undersigned and the School of Continuing Studies University of Toronto with respect to the instruction of the course referred to in Part II hereof.
+The undersigned Instructor hereby acknowledges having received and read the Manual of Policies for Instructors and having read the current version at www.learn.utoronto.ca at this date, and agrees to be bound by its provisions, as amended on the current version at this date, which provisions are hereby incorporated into this Course Instruction Contract by reference. In particular, the undersigned Instructor acknowledges that the School of Continuing Studies University of Toronto has the right to cancel this Course Instruction Contract at any time prior to the date on which the course is scheduled to commence as set out in Part II hereof in the case of insufficient enrolment or other academic consideration, and in such event the contract shall be terminated without any liability on the part of the School of Continuing Studies University of Toronto to the undersigned Instructor.
+This contract is for the duration of the course as referred to in part II hereof, unless terminated earlier as herein provided. This contract may not be renewed or extended. The rights of the parties hereunder shall not be assigned or assignable. This contract shall be interpreted in accordance with the laws of the Province of Ontario.
+…
+Clearly this contract is not the one in dispute, but I raise it to illustrate differences and similarities between it and the contract in dispute, which I now turn to.
+[8] The Letter Agreement for teaching the Financial Management course signed September 1, 2007 by Mr. Asare-Quansah reads as follows:
+Dear Edward,
+The following Letter of Agreement covers our shared contractual responsibilities for the delivery of the following online distance learning course(s)
+SCS 0976-063 Financial Management
+This Letter of Agreement is made in conjunction with the provisions of the Instructor Handbook, the current version of which can be found at www.learn.utoronto.ca. You agree to be bound by the provisions of this Handbook.
+Contract Services
+You agree to provide updated course materials along with the marking of the term work and final exam. As part of the course materials, you agree to provide a detailed course outline.
+Payment Fees
+The payment rate for teaching this course is $500 + $125.00 per student. Your payment will be calculated mid-way through the course, in order to allow for any late registrations, withdrawals or transfers. Any necessary adjustments to this amount will be made at the end of the course.
+No amount in addition to the fee above will be payable to you on account of expenses or disbursements incurred by you.
+You will not be provided with an office in connection with the provision of services pursuant to this Agreement. In addition, no office supplies or support staff will be provided to you.
+The School of Continuing Studies is delighted to be working with you on this course. Should there be any items in this letter of agreement that you would like to discuss, please contact me via phone or email. Otherwise, please sign this letter indicating your acceptance.
+Yours truly,
+Alison Baird
+Operations Manager
+Business & professional Studies Date: Aug 20, 2007
+Instructor
+Signature: "Edward Asare-Quansah" Date: September 1, 2007
+[9] Similar to the other contract, there was also the one-page form SCS Instruction Contract, dated October 16, 2007. The later date is to allow time for the parties to finalize the number of registered students, as remuneration was based on the number of students. Part III of this contract is identical to Part III of the first contract.
+[10] In reviewing the control factor, the Respondent put a great deal of emphasis on the contents of the Instructor Handbook. The Manual of Policies for Instructors referred to in Part III of the contracts was acknowledged to be the same thing as the Instructor Handbook. Ms. Dundas described the Handbook as a guide only. Mr. Asare-Quansah did not describe it as binding or as a guide as, until trial, he had never looked at it. The following are some highlights from the Handbook and, where appropriate, Mr. Asare-Quansah’s reaction to those provisions:
+…
+As an SCS Instructor you are a pivotal member of one of Canada’s most dynamic continuing education communities. We created this instructor handbook to support you in your vital work. In its pages you will find essential information, such as
+· the School’s vision, mission, and values;
+· how to plan and design your course;
+· how to assess learners’ progress; and
+· whom to contact if you have any questions or concerns
+...
+Your Course Description
+In some programs SCS pre-determines course descriptions. In other cases you will be asked to participate in the development of the course description. The course description is the School’s property and will be used in the School calendar and/or other marketing pieces. As a result it may be changed or edited to ensure the most effective marketing. Consequently, you may change the course description only with the Program Office agreement.
+Your Course Outline
+Please ensure the Program Office has an electronic copy of your course outline three weeks before your course begins. Having your course outline well in advance will make it possible for us to review the contents, offer advice if needed, and prepare copies for your students.
+…
+Planning Your Course Resources
+When preparing your course outline you will need to determine the resources that are necessary to deliver the course. These can include textbooks, handouts, and other learning resources such as special classroom arrangements, audio-visual equipment requirements, and guest lecturers.
+…
+Copyright Clearance
+The Canadian Copyright Act requires that appropriate copyright clearances be obtained for all materials, no matter what the medium (print, digital, etc.). Before you authorize material to be copied for your courses, please consult with the Program Office, which will help you with the copyright clearance process. Specifically, please ensure you do not
+· distribute, or authorize the production of any copies of any printed or digitized material unless permission to do so has been obtained from the copyright holder, or there is notice in front of the publication from the copyright holder that copies may be made for instructional purposes; or
+· show any film or videotape, including a taped segment of a television program, unless you have cleared the films or videotapes for public viewing; or
+· distribute or authorize the reproduction of materials from a website or from any other digital source unless permission to do so has been obtained from the copyright holder(s), or there is a notice on the website or other digital source that the materials may be duplicated for instructional purposes.
+Duplicating Services
+Duplicating services are available by bringing the material you want to be copied to the front desk at 158 St. George Street, Monday through Thursday, 8:30 a.m. to 7:30 p.m., and Friday, 8:30 a.m. to 5:00 p.m., 5 days before the date they are required. During the months of July and August SCS will close at 4:30 p.m. on Friday. Please ensure materials to be copied comply with the copyright clearance policy outlined above. Copied materials will be placed in your mailbox in the Instructor Resource Centre.
+…
+Guest Speakers
+You may also occasionally wish to enhance the student experience by having a guest speaker. Please discuss this with the Program Office in advance to determine the appropriate honorarium.
+…
+We ask that you not cancel, miss, terminate, or shorten scheduled classes except in unavoidable circumstances (e.g. illness). If you cancel a class please give Student and Instructor Services as much notice as possible so that students can be contacted in a timely manner. You will be required to make up any classes (or parts thereof) that have been missed, without additional compensation.
+…
+Substitute Instructor
+If you are unable to teach a scheduled class session you may make arrangements to have a qualified replacement teach it instead; however, please notify the Program Office in advance. Financial compensation for your replacement will be your responsibility.
+Mr. Asare-Quansah testified that he never gave a course outline for approval. He developed the syllabus, chose the text to use and would unilaterally change the course description. As he pointed out, there was no one at the SCS with any accounting or financial background who would be able to offer any assistance in developing the course online. Simply there was no one to go to.
+While Mr. Asare-Quansah was aware that the SCS could provide free photocopying, he did not avail himself of this. All materials he used he obtained through the publishers of the text which he relied upon, not from the SCS.
+With respect to copyright, Mr. Asare-Quansah said this simply was not applicable to his courses. With respect to guest lecturers, he did not use them as he believed it was his expertise and his knowledge that the students were paying to obtain. He did not use substitutes during the period in question, but he has in other years. He did not provide make-up classes but would extend times of scheduled classes if make‑up time was required.
+…
+Confidentiality
+Please plan to be available to students for reasonable consultation regarding their progress in the course. You can do this through formal or informal methods of consultation, as needed.
+…
+Mr. Asare-Quansah was aware, simply as a professional, that there would be confidentiality requirements.
+…
+Please ensure the Program Office has an electronic copy of your learner assessment plan before the course start date. Course grading formats are set up according to the assessment plan.
+Assessment Instruments
+Please include, in your assessment plan, a variety of different assessment instruments.
+Changes to the Assessment Plan
+It is important to be confident in your assessment plan, because once your students have been informed of it and have received the course outline you will not be able to change the means of assessment or relative weighting without first discussing the alteration(s) with your program manager and receiving his/her approval.
+Value of Final Examination/Project
+The final examination/project for your course should constitute no less than 33% of the final mark.
+Feedback
+Throughout your course it will be helpful to provide students with feedback on assessed term work and an opportunity to discuss such comments and work. In general, feedback should consist of four elements:
+· Positive – an indication of what is right about the work
+· Negative – an indication of where the work is lacking
+· Direction – suggestions of how and where to go about improving
+· Standing – an overall grade
+Grade Scales
+Grades are a measure of a student’s knowledge in an individual course. The grade scales SCS uses are as follows:
+…
+No Bell Curve
+Final results are not to be determined by any system of quotas, including the use of the Bell curve.
+Mr. Asare-Quansah did all the grading himself. He had no idea what a learner assessment plan was, and consequently he had never provided such, nor provided the feedback the Handbook suggests was required. He admitted that he had tried to use a Bell curve once and was advised this was not acceptable. He was not aware of any policy with respect to assignments.
+…
+Non-Competition
+By agreeing to teach a course at the School, instructors further agree that they will not use the course description or any related materials produced at the expense of the School to teach a similar course at another educational institution for the duration of the contract and for a period of one year following the expiry of the contract.
+…
+Contract is Conditional
+All instructional contracts, whether with contractors or employees, are conditional upon adequate registration in the respective course and other academic considerations, as determined by the School in its sole discretion. For example, a class may be cancelled in the week prior to its expected start date if the number of students enrolled is deemed by the School to be too few.
+…
+Mr. Asare-Quansah did not see this non-competition provision as a bar to teach financial or accounting at other institutions. He felt at liberty to do so. He relied on no materials produced at the SCS. Ms. Dundas also acknowledged that an instructor was free to teach elsewhere, and that the one year restriction was just with respect to materials from the SCS, although, even there, there was no monitoring.
+[11] The Respondent argued that the Handbook provided for significant controls over instructors, and that by the Letter Agreement signed by Mr. Asare-Quansah on September 1, 2007 he agreed to be bound by those controls. I do not find the Handbook as controlling a factor as the Respondent suggests. First, the university’s own representative acknowledged it was simply a guide, something to assist an instructor. Second, the Handbook, as indicated on page 23 under the heading "Contract is Conditional" acknowledges that it is applicable to both employees and independent contractors. When asked what the consequences would be for failure to comply, Ms. Dundas responded that the individual may not get another contract. This is no greater indication of employment than an independent contractor, and is not the type of controlling feature that distinguishes the two. Also, the fact Mr. Asare-Quansah did not even read the Handbook is not determinative, but he testified that SCS never raised it or referred him to it or suggested he was not in compliance. It was unclear whether any reference was made to the handbook when advised that he could not use the Bell curve. Also, the SCS Instruction Contract, agreed to by Mr. Asare-Quansah for his course development, where the SCS acknowledged he was an independent contractor, stipulated that the Handbook was part of the contract. It is difficult to then turn to the Handbook as proof of an employment arrangement. Finally, my review of the Handbook left me with the impression that it was to serve as a support for the instructors more so than a control over the instructors. As Mr. Asare-Quansah put it, there was a difference between the Handbook and the reality. And, even Ms. Dundas responded, when asked if an instructor has to follow everything in the handbook - "that is difficult to answer".
+[12] Other facts that address the control issue. Yes, the university sets the date and time of the course but not without input from the instructor. Indeed Mr. Asare‑Quansah indicated that he recommended the course go from six to eight weeks. He also had course dates changed when conflicting with his work schedule. Also, the three-hour class time was the minority of time spent on the course: the majority of time was in preparation and grading, time spent when, how and where Mr. Asare-Quansah determined.
+[13] According to Mr. Asare-Quansah no one from the SCS even looked at his syllabus, attended a lecture or, other than a student evaluation, in any way evaluated or commented upon how he taught the course. If he had student issues, he would personally deal with them without the intervention from the SCS.
+[14] The SCS could set the minimum and maximum number of students for a course, but Ms. Dundas testified that the number of students would be determined through discussion with the instructor and the SCS would "defer to the instructor", though the ultimate decision remained with the school.
+[15] With respect to the controlling factor of setting remuneration, Ms. Dundas’ testimony was quite telling, as she said the SCS wanted to engage instructors as "partners to share in revenues". This sharing attitude is evident in the SCS Letter Agreement:
+…
+…The following Letter of Agreement covers our shared contractual responsibilities.
+…
+The School of Continuing Studies is delighted to be working with you…
+She also admitted that an instructor could ask for a differential rate and they would consider different factors and it was possible for someone to get something different.
+[16] As I indicated at the outset, a sessional lecturer is one of those positions that could easily be looked at from both sides. The control factor does not point overwhelmingly in one direction. In reality, I agree with Mr. Asare-Quansah that the SCS wielded little control over how he taught the course. This lack of control is not outweighed by potentially controlling authority set out in the Handbook, especially given the SCS’ own view of the Handbook. I find on balance there are insufficient elements of the type of control by the SCS that indicate employment, and that there are several elements of independence by Mr. Asare-Quansah to conclude that the control factor does not support the Respondent’s position.
+[17] There was some suggestion that the SCS offered training to its instructors, though not in 2007, but these were not the type of courses Mr. Asare-Quansah indicated would be of any benefit to him. They were, for example, courses in how to engage students. Any professional development courses dealing in the financial, business or accounting area were taken on by Mr. Asare-Quansah personally, on his own initiative, and for his own professional development. There were no discounts for instructors for courses at the SCS. Again, this does not suggest an employment arrangement.
+Tools and Equipment
+[18] With respect to tools and equipment, Mr. Asare-Quansah testified that he covered all his own expenses of his home office, computer, professional development training and printing and copying. He acknowledged there is something through the computer called the Instructor Portal, though this was not available in 2007. It offered a template for a course outline, an audio-visual request form and a copyright permission form. Ms. Dundas could not be any more descriptive as she had never gone into the Instructor Portal: neither had Mr. Asare‑Quansah.
+[19] The SCS would provide a classroom, and for an online course, a program called Blackboard. It also had what it called a resource centre, but Mr. Asare‑Quansah said that this was a very limited space with a couple of old computers. Even Ms. Dundas acknowledged, when asked what resources were available to the instructors - "very few". The resource centre was really just what she called a touchdown space. It was not situated at the location where Mr. Asare‑Quansah taught even. He used materials from the publisher of the course text, not materials from the SCS.
+[20] Mr. Asare-Quansah argued that his knowledge was his main tool, developed completely independently of the SCS. This has not traditionally been the type of tool or equipment that courts usually refer to. I need not explore this intriguing argument further as I conclude the factor of equipment is neutral – no more indicative of one relationship than the other.
+Chance of Profit
+[21] With respect to the chance of profit, the evidence was that the university had a couple of remuneration systems: a flat rate or per student basis, which Mr. Asare-Quansah could choose or indeed could take or leave. However, Ms. Dundas acknowledged that an instructor could also negotiate. It was clear Mr. Asare-Quansah was not in this for the money and saw no need to negotiate. I note that the remuneration Mr. Asare-Quansah chose was based on the per student fee. Ms. Dundas acknowledged the maximum number of students was determined in consultation with the instructor and, as already indicated, looked to share revenues with the instructor. As with any course, numbers can depend on the quality and reputation of not just the institution but very much on the particular instructor as well. Further, while Mr. Asare-Quansah had a set number of teaching hours, his preparation and marking time was entirely at his discretion. Less hours meant presumably a greater effective rate. I conclude that the chance of profit factor does not loom large given the quantum of remuneration and motivation for teaching. However, there is some small element favouring an independent contractor arrangement.
+Risk of Loss
+[22] With respect to the risk of loss, it is difficult to imagine loss of any significance. Mr. Asare-Quansah covered all his expenses of the course, though they would not be large. Preparation time, if unduly extensive, could cut into time more profitably spent in the accounting business. Risk of loss is a neutral factor.
+Jurisprudence
+[23] The Respondent referred me to two cases dealing with instructors. The first, Heritage Baptist College v. Minister of National Revenue[4], involved part-time instructors at this particular Bible college. They were required to answer questions at the end of a semester as to how their courses had fared. The academic dean would review these in determining who would be invited back to teach. The instructors were paid a flat rate regardless of the number of students. One instructor also had an on-campus office. The court found the instructors were employees.
+[24] In cases dealing with sessional lectures, little may be required to tip the balance one way or the other. There are enough differences, as detailed above, in the Heritage case and the case before me that it does not alter my view that Mr. Asare-Quansah’s status with the SCS was that of an independent contractor.
+[25] In the case of Lopez v. Minister of National Revenue[5], Mr. Lopez was a part-time instructor at Algonquin College. Again, while there are some similarities, there are one or two differences that are striking. First, the college had "a great deal of input into to the work itself by the college, such as how the exam was to be composed, the marking of it and subsequently the issue of the appeal". The Court was also satisfied that Mr. Lopez could not provide a substitute.
+[26] No, I do not find these cases are of any assistance to the Respondent. These cases are fact specific and fact sensitive. Even a small tweaking of the facts in the case of someone like a part-time instructor can shift the nature of the working relationship.
+Conclusion
+[27] Mr. Asare-Quansah did what many professionals did and gave back to his profession the benefits of the knowledge and experience of a practising chartered accountant. He did this over and above his regular working life. He could have done so at different institutions. He chose the SCS. He never believed he signed on as an employee subject to university standards, but as a professional with high professional standards and freedom to teach how and what he deemed appropriate. Yes, there were some SCS requirements that any instructor (employee or independent contractor) would as a practical matter have to meet. But these were not, I conclude, sufficient elements of control to justify a finding of an employer/employee relationship. And it is control that is the most significant factor to consider in this case: the other factors were either neutral or not strongly determinative one way or the other; they leaned slightly towards the independent contractor status.
+[28] The appeals are allowed and the Minister’s decision that Mr. Asare-Quansah is in insurable and pensionable employment is vacated.
+Signed at Ottawa, Canada, this 21st day of June 2012.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2012 TCC 226
+COURT FILE NO.: 2010-3852(CPP) and 2011-276(EI)
+STYLE OF CAUSE: EDWARD ASARE-QUANSAH AND THE MINSTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 15, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: June 21, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553.
+[2] 2001 SCC 59.
+[3] 2006 FCA 87.
+[4] CarswellNat 1554.
+[5] 2007 TCC 127.

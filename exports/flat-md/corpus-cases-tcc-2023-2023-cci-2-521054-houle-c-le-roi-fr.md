@@ -1,0 +1,241 @@
+---
+title: "Houle c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521054/index.do"
+last_modified: "2023-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 2"
+citation2: ""
+neutral_citation: "2023 CCI 2"
+decision_date: "2023-02-14"
+language: "fr"
+item_id: "521054"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5784
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:36:29.228000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f12258f8bcc14864788a60bfb2cc21ceb45f594d99651a2fb8127971d818452"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Houle c. Le Roi
+
+- Citation: 2023 CCI 2
+- Decision date: 2023-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5784, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houle c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-02-14
+Référence neutre
+2023 CCI 2
+Numéro de dossier
+2017-2243(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2243(IT)G
+ENTRE :
+GÉRALD HOULE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 1er et 2 juin 2022, à Trois-Rivières (Québec)
+Devant : L’honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l’appelant :
+Me Pierre-Marc Seers
+Avocat de l’intimé :
+Me Renaud Fioramore-Beaulieu
+JUGEMENT
+L’appel des avis de nouvelle cotisation établis le 2 juillet 2013, en vertu de la Loi de l’impôt sur le revenu, pour les années d’imposition 2010 et 2011 est accueilli, avec dépens, selon les motifs ci-joints.
+Signé à Toronto, Ontario, ce 14e jour de février 2023.
+« Sylvain Ouimet »
+Juge Ouimet
+Référence : 2023 CCI 2
+Date : 20230214
+Dossier : 2017-2243(IT)G
+ENTRE :
+GÉRALD HOULE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+I. INTRODUCTION
+[1] Gérald Houle (« M. Houle ») interjette appel de deux avis de nouvelle cotisation établis le 2 juillet 2013 par lesquels le ministre du Revenu national (le « ministre ») a ajouté à son revenu pour les années d’imposition 2010 et 2011 la somme totale de 107 486 $ en vertu du paragraphe 15(1) de la Loi de l’impôt sur le revenu [1] (la « LIR »).
+[2] Le ministre a conclu que M. Houle avait reçu 107 486 $ à titre d’actionnaire de la boutique « Le Monnaie-Heure inc. » (la « société »). Étant donné que l’exercice de la société au cours duquel, selon le ministre, M. Houle a reçu cette somme s’est terminé le 30 avril 2011, le ministre a ajouté les deux tiers de la somme (71 657 $) à son revenu pour l’année d’imposition 2010 et un tiers (35 829 $) à son revenu pour l’année d’imposition 2011 [2] . La méthode de répartition utilisée par le ministre ne fait pas l’objet d’un litige entre les parties [3] .
+[3] À la suite d’observations faites par M. Houle lors de l’opposition à l’Agence du revenu du Canada (l’« ARC »), la somme ajoutée au revenu de M. Houle a été réduite à 96 734 $. Par conséquent, suivant la méthode de répartition décrite précédemment, les sommes de 64 489 $ et de 32 245 $ ont été ajoutées au revenu de M. Houle pour les années d’imposition 2010 et 2011 respectivement [4] .
+[4] La personne suivante a témoigné pour l’appelant lors du procès :
+- M. Houle.
+[5] La personne suivante a témoigné pour l’intimé lors du procès :
+- Mme Geneviève Théaudière, agente des appels à l’ARC.
+II. LA QUESTION EN LITIGE
+[6] La question en litige est la suivante :
+- Est-ce à bon droit que le ministre a conclu que M. Houle s’est vu conférer, à titre d’actionnaire de la société, un avantage de 96 734 $ au cours des années d’imposition 2010 et 2011?
+[7] Afin de répondre à cette question, la Cour devra répondre à la question suivante :
+- Est-ce à bon droit que le ministre a conclu, en utilisant uniquement la différence entre les soldes de début et de fin d’exercice du compte « Payable à l’actionnaire » de la société, qu’un avantage a été conféré à M. Houle?
+III. LA DISPOSITION LÉGALE PERTINENTE
+[8] La disposition légale pertinente est la suivante :
+Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.)
+15 (1) La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire, à un associé d’une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l’actionnaire, de l’associé ou de l’actionnaire pressenti, selon le cas, pour son année d’imposition qui comprend ce moment, sauf dans la mesure où cette valeur est réputée en vertu de l’article 84 constituer un dividende ou dans la mesure où cet avantage est conféré à l’actionnaire au moyen de l’une des opérations suivantes :
+a) dans le cas où la société réside au Canada à ce moment :
+(i) la réduction du capital versé de la société,
+(ii) le rachat, l’acquisition ou l’annulation, par la société, d’actions de son capital-actions,
+(iii) la liquidation, la cessation ou la réorganisation de l’entreprise de la société,
+(iv) une opération à laquelle les paragraphes 88(1) ou (2) s’appliquent;
+a.1) dans le cas où la société ne réside pas au Canada à ce moment :
+(i) une distribution visée au paragraphe 86.1(1),
+(ii) une réduction du capital versé de la société, visée à la subdivision 53(2)b)(i)(B)(II) ou au sous-alinéa 53(2)b)(ii),
+(iii) le rachat, l’acquisition ou l’annulation, par la société, d’actions de son capital-actions,
+(iv) la liquidation, ou la liquidation et dissolution, de la société;
+b) le versement d’un dividende ou d’un dividende en actions;
+c) l’octroi à tous les propriétaires d’actions ordinaires du capital-actions de la société à ce moment d’un droit, relatif à chaque action ordinaire et identique à chacun des autres droits conférés à ce moment relativement à chacune des autres actions semblables, d’acquérir d’autres actions du capital-actions de la société; pour l’application du présent alinéa :
+(i) les actions ordinaires d’une catégorie donnée du capital-actions de la société sont réputées être identiques aux actions ordinaires d’une autre catégorie de son capital-actions dans le cas où, à la fois :
+(A) les droits de vote rattachés à la catégorie donnée d’actions diffèrent de ceux rattachés à l’autre catégorie d’actions,
+(B) les modalités des catégories d’actions ne présentent pas d’autres différences qui pourraient donner lieu à un important écart entre la juste valeur marchande d’une action de la catégorie donnée et la juste valeur marchande d’une action de l’autre catégorie,
+(ii) des droits ne sont pas considérés comme identiques si leur coût d’acquisition diffère;
+d) une opération visée aux alinéas 84(1)c.1), c.2) ou c.3).
+IV. LES THÈSES DES PARTIES
+A. La thèse de M. Houle
+[9] La thèse de M. Houle peut se résumer comme suit :
+- L’avocat de M. Houle soutient que le ministre ne pouvait pas conclure qu’un avantage a été conféré à M. Houle en utilisant uniquement la différence entre les soldes de début et de fin d’exercice du compte « Payable à l’actionnaire » de la société. Selon lui, le ministre ne pouvait pas tirer une telle conclusion, car il ne s’agit que de simples écritures comptables. Il soutient que M. Houle n’a pas reçu 96 734 $ de la société et que, par conséquent, la société ne lui a pas conféré ce montant comme avantage [5] . Si la Cour devait conclure que le ministre pouvait tirer une telle conclusion, l’avocat de M. Houle soutient avoir démontré que ce dernier n’a pas reçu 96 734 $ de la société. À ce sujet, il soutient également avoir démontré que les sommes que M. Houle a reçues de la société au cours des années d’imposition 2010 et 2011 étaient des remboursements d’avances faites par M. Houle au cours des années d’imposition précédentes [6] .
+B. La thèse de l’intimé
+[10] La thèse de l’intimé peut se résumer comme suit :
+- L’intimé soutient que M. Houle n’a pas avancé 96 374 $ à la société au cours de son année d’imposition 2011 [7] . Selon l’intimé, M. Houle a augmenté artificiellement le solde du compte « Payable à l’actionnaire » afin de permettre à la société de lui verser des montants libres d’impôt [8] . Par conséquent, selon l’intimé, M. Houle s’est approprié 96 374 $ de la société.
+- L’intimé soutient que le ministre a tenu compte des soldes du compte « Payable à l’actionnaire » uniquement pour l’exercice 2011 de la société. Selon le ministre, la seule analyse pertinente est celle ayant trait à l’exercice 2011 de la société et non aux exercices antérieurs. Par conséquent, l’analyse effectuée par M. Houle concernant les exercices de la société antérieurs à 2011 n’est pas pertinente [9] .
+V. LES FAITS
+[11] Au cours de ses années d’imposition 2010 et 2011, M. Houle était le seul actionnaire et administrateur de la société. Les activités principales de la société étaient la vente de pièces de monnaie de collection ainsi que l’achat et la vente de pièces de collection (voitures miniatures, blousons de Nascar, timbres, etc.) [10] . L’exercice de la société se termine le 30 avril de chaque année [11] .
+[12] Le ministre a d’abord ajouté 107 486 $ au revenu de M. Houle pour les années d’imposition 2010 et 2011. Avant d’agir ainsi, l’ARC a examiné certains documents préparés par le comptable de la société. Or, selon les écritures comptables de régularisation de fin d’exercice de la société et la balance de vérification comprise dans ces documents, le solde du compte « Payable à l’actionnaire » à la fin de l’exercice 2011 de la société était de 107 486 $. La preuve démontre que l’ARC a conclu que M. Houle s’est vu conférer un avantage de 107 486 $ sans avoir établi au préalable si cette somme lui avait été versée [12] . La preuve démontre également que l’ARC a conclu que la société a conféré à M. Houle cet avantage après avoir examiné les écritures comptables « de régularisation de fin d’exercice » et la « balance de vérification » de la société [13] . Selon le témoignage de Mme Théaudière, ces écritures ont vraisemblablement été faites par le comptable afin d’établir le solde de fin d’exercice du compte « Payable à l’actionnaire » de la société pour 2011 [14] .
+[13] Au cours de son témoignage, M. Houle a présenté à la Cour un fichier Excel qui comprenait plusieurs tableaux exposant les dépenses de M. Houle pour le compte de la société au cours des années d’imposition 1999 à 2008 inclusivement [15] . Selon M. Houle, il aurait avancé 379 980 $ à la société au cours de cette période [16] .
+VI. DISCUSSION
+A. La somme en cause
+[14] Lors de son témoignage, Mme Théaudière a admis avoir constaté une erreur dans les écritures comptables de la société lors de sa préparation en vue du procès. Selon Mme Théaudière, à cause de cette erreur, il aurait fallu soustraire 34 352 $ de la somme ajoutée au revenu de M. Houle. Par conséquent, il aurait fallu ajouter 62 382 $ (soit 96 374 $ - 34 352 $) au revenu de M. Houle [17] . Lors des plaidoiries, l’avocat de M. Houle a porté à l’attention de la Cour des erreurs comptables supplémentaires. Après avoir étudié rapidement ces erreurs possibles, la Cour a conclu que certaines sommes apparaissant au bilan de la société pour l’année d’imposition 2011 semblaient effectivement avoir été reportées par erreur à la « balance de vérification » [18] . Selon la preuve, une fois ces erreurs corrigées, il faudrait soustraire 26 351 $ du compte « Payable à l’actionnaire » [19] . Afin de confirmer que tel était le cas, la Cour a exceptionnellement demandé à Mme Théaudière de revenir à la barre des témoins afin d’obtenir des éclaircissements. Mme Théaudière a confirmé à la Cour qu’il s’agissait bel et bien d’erreurs et que si ces erreurs avaient été portées à son attention plus tôt, elle aurait modifié son témoignage. En tenant compte de ces erreurs, elle aurait admis que le montant de l’avantage conféré à M. Houle devait être réduit de nouveau à 36 029,90 $ (soit 62 382 $ - 26 351 $) [20] .
+[15] Compte tenu de ceci, la Cour conclut que le montant de l’avantage conféré à M. Houle faisant l’objet du litige est réduit à 36 029,90 $.
+B. Est-ce à bon droit que le ministre a conclu qu’un avantage a été conféré à M. Houle en tenant uniquement compte des soldes du compte « Payable à l’actionnaire » de la société?
+[16] En vertu du paragraphe 15(1) de la LIR, un actionnaire doit inclure dans le calcul de son revenu la valeur de l’avantage que lui confère une société dont il est actionnaire. Le verbe « conférer » signifie « accorder » ou « attribuer » [21] .
+[17] Dans la décision Laliberté c. La Reine [22] , la Cour d’appel fédérale a décrit l’analyse devant être effectuée afin de décider si un avantage a été conféré à un actionnaire au sens du paragraphe 15(1) de la LIR. Selon la Cour, l’analyse devant être effectuée comporte trois étapes :
+1- déterminer si un avantage a été conféré à l’actionnaire en sa qualité d’actionnaire;
+2- déterminer précisément la teneur de l’avantage;
+3- déterminer la valeur de l’avantage conféré à l’actionnaire en fonction de ce qu’il lui en aurait coûté s’il n’avait pas été un actionnaire [23] .
+[18] Il faut noter que cette analyse est intrinsèquement factuelle [24] .
+(1) La première étape de l’analyse : Déterminer si un avantage a été conféré à M. Houle en sa qualité d’actionnaire?
+[19] En l’espèce, la Cour doit décider si le ministre pouvait conclure si M. Houle s’est vu conférer un avantage en tenant uniquement compte des soldes de début et de fin d’exercice année du compte « Payable à l’actionnaire » de celle-ci.
+[20] Selon le témoignage de M. Houle, le solde du compte « Payable à l’actionnaire » de la société correspond au total des sommes suivantes : toutes les avances qu’il a faites à la société au cours de son année d’imposition 2011, y compris les dépenses de la société qu’il a payées avec sa carte de crédit personnelle au cours de cette année [25] .
+[21] L’intimé soutient que la preuve démontre que M. Houle n’a pas avancé ces sommes à la société et n’a pas payé certaines de ces dépenses avec sa carte de crédit personnelle. L’intimé prétend qu’au moyen d’écritures comptables, le comptable de la société a délibérément augmenté artificiellement le solde du compte « Payable à l’actionnaire » de la société. Selon l’intimé, ce stratagème aurait permis à M. Houle de se faire rembourser plus tard des avances qui n’auraient pas été faites. L’intimé soutient qu’étant donné que les avances sont faites avec des sommes non imposables, lors de leur remboursement, M. Houle aurait reçu des sommes qu’il n’avait pas avancées sans impôt.
+[22] À ce sujet, dans la décision Chaplin c. La Reine [26] , notre Cour a conclu ce qui suit :
+114 Cela dit, je ne suis pas convaincu que le simple fait de faire une fausse écriture comptable, même sciemment, confère un avantage à un actionnaire. Il me semble que l’avantage est conféré lorsqu’un bien de valeur est donné à l’actionnaire. Tout au plus, une fausse écriture comptable jette les bases du déguisement d’un crédit futur ou de la dissimulation d’une dette due par un actionnaire à la société. Elle ne constitue pas en soi un avantage [27] .
+[23] Je suis du même avis. Le ministre ne peut pas conclure qu’un avantage a été accordé à un actionnaire uniquement en raison d’écritures comptables fausses.
+[24] La Cour d’appel fédérale a dit dans la décision Laliberté qu’un avantage conféré doit être réel et non une « fiction légale » [28] . Je suis d’avis que ceci s’applique aussi aux « fictions comptables ». J’ajouterais que le terme « avantage » n’est pas défini par la LIR [29] , mais que ce terme est défini dans le dictionnaire Petit Robert [30] comme suit :
+« Ce qui est utile, profitable »
+[25] Quant au terme « profitable », il renvoie à l’idée de « tirer profit » de quelque chose et donc au terme « profit ». Ce terme est défini dans le Petit Robert [31] comme suit :
+« Augmentation des biens que l’on possède, ou amélioration de situation qui résulte d’une activité »
+[26] La preuve ne démontre pas que M. Houle a reçu des montants de la société au cours de ses années d’imposition 2010 et 2011, à l’exception de sommes qu’il avait avancées à la société et qui lui ont été remboursées. Par conséquent, il n’y a pas eu d’augmentation des biens en sa possession en raison de la société et donc aucune amélioration de sa situation financière. Compte tenu de ceci et de ce qui précède, la Cour conclu que la société n’a conféré aucun avantage à M. Houle.
+[27] L’intimé est d’avis que la décision Dumais c. La Reine [32] de la Cour d’appel fédérale permet à notre Cour de conclure qu’un avantage au sens du paragraphe 15(1) de la LIR a été conféré à un actionnaire en raison d’une augmentation du solde du compte « Payable à l’actionnaire » au cours d’une année d’imposition. À cette fin, il renvoie au passage suivant de la décision Dumais :
+11 Mais, dit le procureur de l’intimée, ce montant, non seulement n’est-il pas disparu du passif du bilan de la Société, il n’a cessé d’augmenter dans les années qui ont suivi. Il est passé de 22 522,82 $ en l’année 2000 à 26 022,30 $ en 2001, 27 043 $ en 2002, 37 371 $ en 2003 et 41 401 $ en 2004. Conséquemment, soutient-il, la dette de la Société en faveur de l’appelante apparaissant toujours aux livres de la Société, l’appelante pouvait toujours demander le remboursement de celle-ci, sans conséquences fiscales, à titre d’avances qui lui sont dues. De là l’avantage au montant de 42 000 $ constitué du montant de 19 417,98 $ reconnu par l’appelante et de la dette de 22 522,82 $ apparaissant aux états financiers de la Société en l’année 2000 et par la suite.
+12 La juge ne s’est pas trompée en acceptant cet argument de l’intimée que l’appelante pouvait toujours se faire rembourser du montant de la dette non éteinte à titre d’avances qui lui sont dues par la Société [33] .
+[28] Je ne partage pas cet avis.
+[29] Dans l’affaire Dumais, l’unique actionnaire et administrateur de la société n’avait pas payé le plein prix de vente d’un immeuble que la société lui avait vendu. L’ARC a conclu que l’actionnaire avait obtenu un avantage correspondant à la différence entre le prix de vente et la somme versée à la société par l’actionnaire pour l’immeuble. L’ARC avait au préalable conclu que le solde du compte « Payable à l’actionnaire » de la société n’avait pas été rajusté pour tenir compte de ce fait.
+[30] La question qui était devant la Cour d’appel fédérale et la Cour canadienne de l’impôt n’était pas de savoir si l’ARC pouvait conclure qu’un avantage avait été conféré à un actionnaire en raison de l’augmentation du solde du compte « Payable à l’actionnaire » au cours d’une année d’imposition, alors que l’actionnaire n’avait fait aucune avance au cours de cette année. À la lecture de la décision de la Cour canadienne de l’impôt [34] , on constate que les soldes du compte « Payable à l’actionnaire » prenaient en compte des sommes avancées par l’actionnaire à la société et que la question à savoir si ces avances avaient été réellement faites n’était pas en litige. Il n’était également pas question d’écritures comptables fausses. Enfin, à la lecture de la décision de la Cour d’appel fédérale, je suis d’avis qu’il est impossible de prétendre que la Cour a conclu explicitement ou implicitement qu’un avantage peut être conféré au sens du paragraphe 15(1) de la LIR uniquement en raison d’une augmentation du solde du compte « Payable à l’actionnaire ».
+(2) Les deuxième et troisième étapes de l’analyse
+[31] Puisque la Cour a conclu que la première condition n’est pas satisfaite pour que le paragraphe 15(1) de la LIR s’applique, elle n’a pas à se prononcer sur les deux autres étapes de l’analyse.
+VII. CONCLUSION
+[32] Compte tenu de ce qui précède, la Cour estime que le ministre ne peut pas conclure qu’un avantage a été accordé à un actionnaire au sens de l’article 15(1) de la LIR uniquement en faisant la preuve qu’à la suite d’écritures comptables fausses, le solde du compte « Payable à l’actionnaire » a été augmenté artificiellement.
+[33] Par conséquent, la Cour juge que ce n’est pas à bon droit que le ministre a conclu que M. Houle s’est vu conférer, en sa qualité d’actionnaire de la société, un avantage de 96 734 $ au cours des années d’imposition 2010 et 2011.
+[34] Pour cette raison, l’appel est accueilli avec dépens.
+[35] Les cotisations établies par le ministre le 2 juillet 2013 pour les années d’imposition 2010 et 2011 sont renvoyées au ministre pour nouvel examen et nouvelles cotisations en fonction de ce qui suit :
+- M. Houle ne s’est pas vu conférer, en sa qualité d’actionnaire de la société, un avantage de 64 489 $ au cours de l’année d’imposition 2010;
+- M. Houle ne s’est pas vu conférer, en sa qualité d’actionnaire de la société, un avantage de 32 245 $ au cours de l’année d’imposition 2011.
+Signé à Toronto, Ontario, ce 14e jour de février 2023.
+« Sylvain Ouimet »
+Juge Ouimet
+RÉFÉRENCE :
+2023 CCI 2
+NO DU DOSSIER DE LA COUR :
+2017-2243(IT)G
+INTITULÉ :
+GÉRALD HOULE ET
+SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Trois-Rivières (Québec)
+DATES DE L’AUDIENCE :
+Les 1er et 2 juin 2022
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 14 février 2023
+COMPARUTIONS :
+Pour l’appelant :
+Me Pierre-Marc Seers
+Pour l’intimé :
+Me Renaud Fioramore-Beaulieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Pierre-Marc Seers
+Cabinet :
+Daigle, avocats fiscalistes inc.
+Pour l’intimé :
+François Daigle
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch.1 (5e suppl.).
+[2] Réponse à l’avis d’appel, au par. 8.
+[3] Transcription du 1er juin 2022, p. 10.
+[4] Note 2, au par. 10.
+[5] Transcription du 2 juin 2022, p. 144, 161 et 162.
+[6] Ibid., p. 116.
+[7] Note 3, p. 12.
+[8] Ibid., p. 14.
+[9] Ibid., p. 56.
+[10] Note 2, à l'alinéa 11b).
+[11] Ibid., à l'alinéa 11c).
+[12] Note 5, p. 20 et 21.
+[13] Ibid., p. 10 à 12.
+[14] Ibid., p. 17.
+[15] Pièce A-4, onglet 4.
+[16] Note 5, p. 236.
+[17] Ibid., p. 42, 43 et 47.
+[18] La balance de vérification d’une société contient la liste de tous les comptes non soldés, leurs soldes respectifs ainsi que la somme des débits et des crédits des comptes. Ce document comptable permet de vérifier l’exactitude arithmétique des écritures comptables d’une société. Voir à ce sujet Louis Ménard, Dictionnaire de la comptabilité et de la gestion financière, Montréal, Institut canadien des comptables agréés, 1994, sub verbo « Balance de vérification ».
+[19] Le compte « Payable à l’actionnaire » est une écriture comptable de fin d’exercice qu’on retrouve à la balance de vérification de la société. Voir la transcription du 2 juin 2022, p.14.
+[20] Ibid., p. 127, lignes 12 à 19, et p. 221, ligne 20.
+[21] M.N.R. v. Pillsbury Holdings Ltd., [1965] 1 R.C.É. 676, à la p. 684, cité dans Laliberté c. La Reine, 2020 CAF 97, au par. 34.
+[22] Laliberté, précité.
+[23] Ibid., au par. 33.
+[24] Note 21.
+[25] Note 3, p. 46.
+[26] 2017 CCI 194.
+[27] Ibid., au par. 114.
+[28] Laliberté, par. 35, qui cite Colubriale c. Canada, par. 28.
+[29] R. c. Youngman, [1986] A.C.F. no 714 (QL), au par. 18; Long c. La Reine, [1997] A.C.I. no 722, au par. 12.
+[30] Le Robert, https://dictionnaire.lerobert.com/ (consulté le 11 novembre 2022), sub verbo « Avantage ».
+[31] Le Robert, https://dictionnaire.lerobert.com/ (consulté le 11 novembre 2022), sub verbo « Profit ».
+[32] 2008 CAF 174.
+[33] Ibid., aux par. 11 et 12.
+[34] Dumais c. La Reine, 2007 CCI 297.

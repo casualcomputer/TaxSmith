@@ -1,0 +1,229 @@
+---
+title: "Haggart v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25643/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 925"
+citation2: ""
+neutral_citation: "2003 TCC 925"
+decision_date: "2004-01-16"
+language: "en"
+item_id: "25643"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3819
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:53:57.714000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3dc03c7d341641a2b414e985e0851cc6c251c575ea4b6077fa7ab2eb5bdc956"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haggart v. The Queen
+
+- Citation: 2003 TCC 925
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3819, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haggart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-16
+Neutral citation
+2003 TCC 925
+File numbers
+2003-2911(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2911(IT)G
+BETWEEN:
+DAVID D. HAGGART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 2, 2003 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Christine Hung
+Counsel for the Respondent:
+Lisa Macdonell
+____________________________________________________________________
+ORDER
+The appeals from assessments made under the Income Tax Act for the 1997, 1998, 1999 and 2000 taxation years are quashed in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 16th day of January 2004.
+"L.M. Little"
+Little J.
+Citation: 2003TCC925
+Date: 20040116
+Docket: 2003-2911(IT)G
+BETWEEN:
+DAVID D. HAGGART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS:
+[1] The Appellant was the President and principal shareholder of Haggart Construction Ltd. ("Construction").
+[2] Construction carried on business as a contractor in Fort MacMurray, Alberta.
+[3] Construction obtained a bank loan from the Canadian Imperial Bank of Commerce ("C.I.B.C.") to enable it to finance its business activities.
+[4] The loan was called by the C.I.B.C. and as a result of the action by C.I.B.C., Construction was forced to discontinue its business activities.
+[5] The Appellant and Construction commenced a legal action against C.I.B.C. The Appellant and Construction alleged that C.I.B.C. had no basis for calling the loan. After a period of 11 years the Appellant was successful in the lawsuit.
+[6] As a result of the lawsuit the Appellant and Construction were awarded the following amounts:
+- Damages for lost earning capacity $463,200.00
+- Punitive damages 20,000.00
+- Interest on the damages 368,566.22
+[7] The Appellant was also awarded costs by the Court in the amount of $80,369.00.
+[8] In order to finance the lawsuit the Appellant paid legal fees of $403,254.00. After deducting the court awarded costs of $80,369.00 the net amount of legal fees paid by the Appellant was $322,885.00.
+[9] In computing income for the 1997, 1998 and 1999 taxation years the Appellant did not include the interest awarded by the Court in his income and the Appellant did not attempt to deduct the legal fees that he incurred in financing the lawsuit. In computing income for the 2000 taxation year the Appellant deducted legal fees in the amount of $44,217.82.
+[10] The Minister of National Revenue (the "Minister") initially assessed the Appellant on the following days:
+Date of Notice
+Taxation Years of Assessment
+1997 - April 23, 1998
+1998 - June 10, 1999
+1999 - May 11, 2000
+2000 - August 17, 2001
+[11] The Minister reassessed the Appellant in respect of his 1997, 1998 and 1999 taxation years by Notices of Reassessment dated March 5, 2001 to increase income and disallow certain business expenses that are not at issue in this appeal. During the course of the audit the Appellant's agent, Larry K. Myres, C.A., attempted to deduct the legal fees that had been paid and this claim was denied by officials of the Canada Customs and Revenue Agency ("CCRA").
+[12] On August 17, 2001, the Minister assessed the Appellant in respect of his 2000 taxation year and disallowed legal fees in the amount of $44,217.82.
+[13] Mr. Larry K. Myres, C.A., acting as agent for the Appellant, filed Notices of Objection for the Appellant on March 29, 2001 for the 1997, 1998 and 1999 taxation years. Mr. Myres filed a Notice of Objection for the Appellant's 2000 taxation year on August 22, 2001. In the Notices of Objection the Appellant claimed that he should be allowed to deduct the following legal fees:
+1997 - $149,713.06
+1998 - 26,804.92
+1999 - 46,904.19
+2000 - 44,217.82
+[14] Officials of the Minister and Mr. Myres discussed the Appellant's Notices of Objection and officials of the CCRA agreed to accept a proposal from Mr. Myres that the net legal fees of $322,885.00 claimed by the Appellant could be offset against interest income of $366,755.00. In a letter from Mr. Myres to Mr. Jackson of the CCRA dated October 22, 2001, the following comment is made by Mr. Myres:
+It would be reasonable to take the position that the interest award and costs related to collect are an offset.
+[15] Officials of the CCRA agreed to offset the interest award against the legal fees.
+[16] The Minister confirmed the Notices of Reassessment by letter dated March 25, 2002. The officials of the CCRA maintain that the original of the letter of March 25, 2002 was sent to the Appellant and a copy of the letter was sent to Mr. Myres. The Appellant maintains that he never received the Minister's letter of March 25, 2002.
+[17] By letter dated July 19, 2002 Mr. Myres wrote to the CCRA. In his letter Mr. Myres requested that the Minister reopen the Appellant's 1997, 1998 and 1999 taxation years to allow certain additional business expenses that are not in issue. Mr. Myres also stated in his letter that if it was not possible to reopen the stated taxation years, then the request for further deductions of business expenses be forwarded to the Fairness Committee.
+[18] By letter dated September 10, 2002 officials of the CCRA indicated that they had accepted the letter from Mr. Myres as an application under the Fairness legislation in the Act.
+[19] Officials of the CCRA accepted the Appellant's Fairness application request and the Appellant's net income for the 1997 and 1998 taxation years was reduced by $35,574.00. By Notices of Reassessment dated May 15, 2003 the Minister reassessed the Appellant's 1997, 1998 and 1999 taxation years to make the necessary changes.
+[20] The Appellant filed Notices of Appeal with the Court on August 13, 2003 for the 1997, 1998, 1999 and 2000 taxation years.
+[21] On November 13, 2003 the Respondent filed a Notice of Motion for an Order quashing or dismissing the Appellant's appeals on the basis that the appeals were not validly before the Court.
+B. ISSUE:
+[22] Should the appeals filed by the Appellant for the 1997, 1998, 1999 and 2000 taxation years be quashed or dismissed?
+C. ANALYSIS:
+[23] There are three issues before the Court:
+(a) Whether the Notices of Confirmation dated March 25, 2002 for the Appellant's 1997, 1998, 1999 and 2000 taxation years were mailed to the Appellant.
+(b) Whether a taxpayer can file Notices of Appeal to the Reassessments for the Appellant's 1997, 1998 and 1999 taxation years that were issued under the Fairness Legislation in the Act.
+(c) Counsel for the Appellant also maintains that Mr. Myres was not an authorized representative of the Appellant at the relevant time and for the relevant purpose.
+(a) - Re: Notice of Confirmation
+[24] Mr. Douglas Jackson, an official of the CCRA, was called as a witness by counsel for the Respondent. Mr. Jackson also filed an Affidavit dated November 7, 2003 with the Court (the "Jackson Affidavit").
+[25] Mr. Jackson testified that he prepared the Notices of Confirmation for the 1997, 1998, 1999 and 2000 taxation years dated March 25, 2002 and arranged to have them signed by his supervisor, Mr. Ron Brass. Mr. Jackson said that he also prepared a cover letter. He arranged to have the cover letter mailed along with a copy of the Notification to Mr. Myres on March 25, 2002. Mr. Jackson testified that the original Notices of Confirmation were mailed to the Appellant on March 25, 2002.
+[26] The Appellant stated in his Affidavit dated June 18, 2003 (Exhibit R-3) that he never received the Notices of Confirmation dated March 25, 2002.
+[27] Counsel for the Respondent said that in order to establish that the Appellant received the Notices of Confirmation the Minister need only establish that the Notices were mailed to the Appellant. In support of this proposition counsel for the Respondent referred to the decision of the Federal Court of Appeal in The Queen v. Schafer[1]. In that case Justice Isaac said at paragraphs [7], [8] and [9]:
+[7] In my respectful view, however, the relevant sections of the ETA clearly state that the time period for filing a notice of objection begins to run on the date that the Minister sends the notice of assessment, and that receipt of that notice is not required. Those sections read:
+300. (1) After making an assessment, the Minister shall send to the person assessed a notice of the assessment.
+301 (1.1) Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+...
+334. (1) For the purposes of this Part and subject to subsection (2), anything sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed.
+...
+[8] The requirement in subsection 301(1.1) of the ETA is that the objection to the Minister's assessment be made within ninety days after it has been "sent." The Tax Court found, and the respondent does not dispute, that the Minister placed the notice of assessment in the Canada Post mail bag on 2 September, 1993. The implication of the interpretation placed on subsection 301(1.1) by the Tax Court is that the word "sent" means "received" by the taxpayer.
+[9] I am aware that the Tax Court has interpreted almost identical sections of the Income Tax Act to mean that the limitation period does not start to run unless the taxpayer receives the notice of assessment within the statutory time limit. However, this Court has criticized that approach in the past. In Canada v. Bowen, Stone, J.A. cited a passage from the Tax Court's decision in Antoniou requiring receipt to start the limitation period, and then stated:
+With respect, we are unable to agree with that conclusion. In our view, it disregards the plain meaning of subsection 165(3) and section 169 of the [Income Tax] Act ...
+In our opinion, the duty resting upon the Minister under subsection 165(3) was to do precisely what he did, viz., notify the respondent of the confirmation by registered mail[2]. Nothing in that subsection or in section 169 required the notification to be "served" personally or to be received by the taxpayer.
+[28] On this point counsel for the Respondent said that the Notice of Confirmation do not have to have been received by the Appellant for the time period to begin to run. As is noted in the Schafer case the Minister must only establish that the Notification of Confirmation was mailed to the Appellant to start the limitation period under subsection 169(1) of the Act.
+[29] I accept the evidence of Mr. Jackson that the Notices of Confirmation were mailed to the Appellant on March 25, 2002. I also accept Mr. Jackson's statement that copies of the Notices of Confirmation were mailed to Mr. Myres on March 25, 2002.
+[30] I conclude that the 90-day time limit for filing Notices of Appeal would commence on March 26, 2002 and would expire on June 23, 2002. Since the Notices of Appeal for the 1997, 1998, 1999 and 2000 taxation years were not filed until August 13, 2003, I find that the Notices of Appeal were not filed within the time specified in the Act.
+(b) - Re: Status of Reassessments issued under the Fairness Legislation
+[31] Subsection 152(4.2) of the Act reads as follows:
+Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the expiration of the normal reassessment period for a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year,
+(a) the amount of any refund to which the taxpayer is entitled at that time for that year, or
+(b) a reduction of an amount payable under this Part by the taxpayer for that year,
+the Minister may, if application therefore has been made by the taxpayer,
+(c) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year, and
+(d) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3), or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+[32] This subsection enables the Minister to exercise his discretion and issue a Notice of Reassessment after the normal reassessment period has expired.
+[33] Parliament also enacted subsection 165(1.2) which provides as follows:
+Notwithstanding subsections (1) and (1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+[34] In support of her position that it was not possible to file a Notice of Appeal to a Reassessment issued under subsection 152(4.2) counsel for the Respondent referred to the decision of Justice Mogan in Yaremy v. The Queen[3].
+[35] In Yaremy Justice Mogan said at page 2397:
+Having found that the reassessment under appeal was made under subsection 152(4.2), I conclude that subsection 165(1.2) applies and no valid objection could be made by the Appellant to that reassessment. If no valid objection can be made, then no valid appeal can be commenced under subsection 169(1). I uphold the Respondent's preliminary objection and will quash the appeal.
+[36] I also refer to the decision of the Federal Court of Appeal in Transcanada Pipelines Limited v. The Queen[4] where a similar conclusion was reached.
+[37] I have concluded that it is not possible to file a valid Notice of Objection nor a Notice of Appeal to a Reassessment that was issued under subsection 152(4.2) of the Act.
+(c) Was Mr. Myres acting as an agent of the Appellant in the relevant period with respect to the Appellant's tax position?
+[38] I have carefully reviewed the evidence involving Mr. Myres and I note the following:
+• Mr. Myres has provided accounting services to the Appellant for a number of years.
+• On March 29, 2001, Mr. Myres filed Notices of Objection for the Appellant to the Notices of Reassessment that were issued on March 5, 2000 for the 1997, 1998 and 1999 taxation years (Exhibit K of Jackson Affidavit).
+• On August 22, 2001, Mr. Myres filed a Notice of Objection for the Appellant to the Notice of Reassessment issued on August 17, 2001 (Exhibit L of Jackson Affidavit).
+• Mr. Myres discussed the Notices of Objection with Mr. Jackson. By letter dated October 22, 2001, Mr. Myres wrote to Mr. Jackson on behalf of the Appellant. Mr. Myres suggested in his letter that it would be reasonable to take the position that the interest award on damages of $366,755.00 be offset by net legal fees of $322,885.00 (Exhibit M of Jackson Affidavit).
+• By memo to the file of David Haggart dated October 23, 2001, Mr. Jackson said:
+Called Mr. Myres to discuss his fax. Inquired if I understood his letter to say that they want to abandon their income tax objection. He said that at this point all the taxpayer wants is to get his GST back. I will communicate with the GST officer (Exhibit N of Jackson Affidavit ).
+• In a further memo to Mr. Haggart's file dated May 25, 2002 Mr. Jackson said:
+Called Mr. Myres to advise that I have income tax information notices coming out today with copies to him. That is fine. He spoke to Mr. Thornton this morning and will be going ahead on the GST issue (Exhibit N of Jackson Affidavit).
+• Mr. Jackson testified that he mailed Notices of Confirmation to the Appellant on March 25, 2002. (See testimony of Mr. Jackson and Exhibit O of Jackson Affidavit).
+• By letter dated March 25, 2002, Mr. Jackson mailed copies of the Notices of Confirmation to Mr. Myres (Exhibit P of Jackson Affidavit).
+• By letter dated July 19, 2002, Mr. Myres wrote to the CCRA on behalf of the Appellant. In his letter he requested that the Appellant's 1997, 1998 and 1999 taxation years be reopened because new information had been discovered by the taxpayer. In his letter he stated that if the "appeals" could not be reopened that the request be forwarded to the Fairness Committee (Exhibit Q of Jackson Affidavit).
+• By a memorandum dated October 7, 2002, Mr. Myres advised Mr. Lederis of the CCRA as follows:
+I am attaching a letter from CCRA with respect to Mr. Haggart showing that the tax arrears under question are the subject of a fairness hearing and related to a matter going before the Tax Court. Please hold any collection actions in abeyance until these matters are resolved (Exhibit N of Appellant's Affidavit).
+• Mr. Myres acted as the Appellant's agent in an appeal involving Goods and Services Tax that was heard by the Tax Court of Canada in Nanaimo in January 2003.
+• By letter dated May 2, 2003, Mr. Jackson sent copies of Notices of Reassessment issued to the Appellant for the 1997, 1998 and 1999 taxation years (Exhibit O of Appellant's Affidavit - Exhibit R-3).
+• By letter dated June 2, 2003, Mr. Jackson sent additional information to Mr. Myres regarding the Appellant (page 40 of the Appellant's Affidavit - Exhibit R-3).
+• In an Affidavit dated June 18, 2003 that was filed with the Federal Court, Trial Division, the Appellant refers to Larry Myres as his agent (see paragraph 13, p. iii, paragraph 14, p. iv, paragraph 16, p. iv and paragraph 31, p. viii).
+[40] During the hearing counsel for the Appellant suggested that Mr. Myres did not have the authority to make the set-off that was made with the CCRA.
+[41] Mr. Myres was not called to confirm or deny that he was acting as the Appellant's agent when he was dealing with officials of the CCRA on behalf of the Appellant.
+[42] Based on the facts as outlined above and the other evidence before me I have concluded that Mr. Myres was acting as the Appellant's agent throughout the relevant period when dealing with Mr. Jackson and other officials of the CCRA. I also note that the Appellant stated in his Affidavit as recently as June 18, 2003 that Mr. Myres was his agent. Under the circumstances, as outlined above, I believe that Mr. Myres was acting as the agent of the Appellant and that the Appellant is bound by the actions of his agent (See Baker v. R[5] ).
+[43] I grant the Motion of the Respondent and order that the Notices of Appeal be quashed.
+Signed at Vancouver, British Columbia, this 16th day of January 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2003TCC925
+COURT FILE NO.:
+2003-2911(IT)G
+STYLE OF CAUSE:
+David D. Haggart and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 2, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+January 16, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Christine Hung
+Counsel for the Respondent:
+Lisa Macdonell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2000 DTC 6542.
+[2] Subsection 165(3) of the Income Tax Act formerly required that the Notice of Confirmation be sent to the taxpayer by registered mail. However, the registered mail requirement was removed from subsection 165(3) by 1994, c. 7, sch. VIII. (Emphasis mine)
+[3] [2000] 1 C.T.C. 2393.
+[4] [2001] DTC 5625.
+[5] [1999] 2 C.T.C. 2388 at 2391.

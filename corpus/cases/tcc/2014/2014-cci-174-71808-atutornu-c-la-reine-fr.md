@@ -1,0 +1,197 @@
+---
+title: "Atutornu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71808/index.do"
+last_modified: "2014-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 174"
+citation2: ""
+neutral_citation: "2014 CCI 174"
+decision_date: "2014-05-28"
+language: "fr"
+item_id: "71808"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5381
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:55:06.346000+00:00"
+cases_cited_count: 1
+cases_citing_count: 18
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73700e1cce951b5b3efb27b56c599cbd04cfc234268cb686b10b63b7ff50a89b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Atutornu c. La Reine
+
+- Citation: 2014 CCI 174
+- Decision date: 2014-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5381, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atutornu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-28
+Référence neutre
+2014 CCI 174
+Numéro de dossier
+2012-1148(IT)I, 2012-975(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1148(IT)I
+ENTRE :
+RASPER I. ATUTORNU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel Peace Q. Atutornu 2012-975(IT)I, le 5 mai 2014, à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimée :
+Me Annette Evans
+Me Lindsay Beelen
+JUGEMENT
+Pour les motifs ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté, sans frais.
+La Cour attire l’attention de l’appelant sur le fait qu’il peut présenter à l’Agence du revenu du Canada (l’« Agence ») une demande en annulation de la pénalité et des intérêts conformément aux dispositions du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu. La Cour n’a aucun rôle relativement à ces demandes. Celles-ci doivent être présentées à l’Agence; l’Agence publie une circulaire d’information (IC07-1), ainsi que le formulaire (RC4288) de demande d’allègement pour les contribuables.
+Signé à Ottawa (Ontario), ce 28e jour de mai 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de juillet 2014.
+S. Tasset
+Dossier : 2012-975(IT)I
+ENTRE :
+PEACE Q. ATUTORNU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Rasper I. Atutornu 2012-1148(IT)I, le 5 mai 2014, à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocates de l’intimée :
+Me Annette Evans
+Me Lindsay Beelen
+JUGEMENT
+Pour les motifs ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté, sans frais.
+La Cour attire l’attention de l’appelante sur le fait qu’elle peut présenter à l’Agence du revenu du Canada (l’« Agence ») une demande en annulation de la pénalité et des intérêts conformément aux dispositions du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu. La Cour n’a aucun rôle relativement à ces demandes. Celles-ci doivent être présentées à l’Agence; l’Agence publie une circulaire d’information (IC07-1), ainsi que le formulaire (RC4288) de demande d’allègement pour les contribuables.
+Signé à Ottawa (Ontario), ce 28e jour de mai 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de juillet 2014.
+S. Tasset
+Référence : 2014 CCI 174
+Date : 20140528
+Dossiers : 2012-1148(IT)I
+2012-975(IT)I
+ENTRE :
+RASPER I. ATUTORNU,
+PEACE Q. ATUTORNU,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] Ces deux appels ont été entendus sur preuve commune. Les appelants interjettent appel à l’encontre de nouvelles cotisations concernant l’année d’imposition 2009.
+[2] Même si le nom « Fiscal Arbitrator » n’a pas été prononcé à l’audience, ces affaires ressemblent beaucoup à celles qu’on a coutume d’appeler les affaires « Fiscal Arbitrator ».
+[3] Le ministre du Revenu national (le « ministre ») a établi les nouvelles cotisations, refusant des déductions importantes demandées à la ligne 232, « Autres déductions ». Dans la déclaration de revenus de chaque partie, après le terme « Précisez » du formulaire pré-imprimé, les mots [traduction] « DÛ À L’ANIMATEUR À TITRE DE MANDATAIRE » ont été ajoutés.
+[4] Dans le cas de Rasper, la déduction demandée était de 87 109,66 $, et dans le cas de Peace, 50 698,79 $.
+[5] En raison de ces déductions demandées à la ligne 232, les appelants ont produit des déclarations selon lesquelles ils ne devaient aucun impôt sur le revenu fédéral ou ontarien et demandaient le remboursement de la totalité de l’impôt retenu sur leurs revenus.
+[6] À l’appui de cette demande, à l’onglet 1 des pièces R-1 et R-2 respectivement se trouvent des documents intitulés [traduction] « Avis d’utilisation » (à la page 4) et [traduction] « Déclaration annuelle des activités de mandataire » (à la page 5).
+[7] Ces documents sont dépourvus de sens. Ainsi, dans le cas de Rasper, ce dernier est à la fois le mandataire et l’animateur et, d’après des calculs dépourvus de sens, l’« État annuel des activités de mandataire » conclut que Rasper, en qualité d’animateur, doit à Rasper, à titre de mandataire, un montant de 87 109,66 $. Ce montant est ensuite demandé comme déduction à la ligne 232.
+[8] Il ne fait aucun doute que les appelants n’ont pas droit à ces déductions.
+[9] Le ministre a également imposé aux appelants des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+[10] Les appelants ont déclaré qu’ils se sont fiés à un fiscaliste prénommé Roger, qui a préparé leurs déclarations, mais ils ne se souvenaient pas de son patronyme lors de l’audience.
+[11] Ils ont communiqué à Roger l’information qu’il leur demandait, y compris les feuillets T4, ainsi que leurs relevés bancaires, y compris les relevés des opérations par Interac.
+[12] Il ressort clairement de la preuve que les appelants se sont simplement fiés à Roger. Ils n’ont ni lu ni examiné leurs déclarations, ils se sont contentés de signer là où Roger leur avait dit de le faire.
+[13] De plus, les appelants ont versé à Roger 20 % de leur remboursement pour ses services.
+[14] Rasper a déclaré dans son témoignage qu’il était heureux lorsqu’il a obtenu son remboursement.
+[15] Rasper travaille comme infirmier auxiliaire autorisé et comme infirmier. Il a obtenu un diplôme collégial en économie de l’Université du Ghana et une maîtrise en finances et administration de l’Université d’Anvers.
+[16] Il a obtenu un diplôme en sciences infirmières du Collège Humber et a par la suite suivi des cours dans le domaine des soins infirmiers.
+[17] Peace travaille comme préposée aux services de soutien à la personne. Elle a terminé ses études secondaires au Ghana et a suivi un cours de préposé aux services de soutien à la personne dans un collège au Canada.
+[18] Le droit applicable dans ce type d’affaires a été récemment examiné en détail par le juge C. Miller dans la décision Torres c. La Reine, 2013 CCI 380. Il n’est pas nécessaire que je répète ce qui a été dit dans cette affaire.
+[19] Il ne fait pas de doute qu’il y a eu une déclaration inexacte à la ligne 232.
+[20] Inévitablement, la conclusion à tirer est que les appelants ont fait preuve d’aveuglement volontaire et, par conséquent, ont commis une faute lourde manifeste.
+[21] Nous sommes assujettis à un régime d’autocotisation, mais les appelants n’ont fait aucun effort pour vérifier l’exactitude de leurs déclarations de revenus.
+[22] Pourtant, s’ils avaient fait le moindre effort, ils auraient repéré de nombreuses anomalies en lisant les déclarations préparées par Roger.
+[23] Par exemple, sur l’« État annuel des activités de mandataire », dans le haut de la page, j’estime qu’il est impossible d’admettre qu’ils n’auraient pas eu le moindre doute concernant la description des services fournis à titre de [traduction] « mandataire en tant que service de transmission » ou qu’ils n’auraient pas eu de doute sur l’existence du contrat dont il est question. Sur un plan plus général, je ne peux croire que, s'ils ont fait le moindre effort pour comprendre leurs déclarations, ils n’ont pas mis en doute toute cette relation étrange où, apparemment, ils négociaient avec eux-mêmes à la fois à titre d’animateur et de mandataire.
+[24] Enfin, un autre exemple d’élément qui aurait dû leur mettre la puce à l’oreille est le libellé ajouté à la page de signature des déclarations de revenus, à droite de la signature, où il est écrit :
+« ALL RIGHTS RESERVED WITHOUT PREJUDICE UCC 1-308, NON ASSUMP SIT CONTRACT, WITHOUT COMPREHENSION
+Done for the Agent by the Animator »
+[25] Dans ces circonstances, j’ai de la difficulté à comprendre comment les appelants en sont venus à signer leurs déclarations. Le fait qu’ils n’aient posé aucune question et n’aient pas examiné leurs déclarations, tandis qu’un simple petit effort aurait suscité plusieurs questions, prouve clairement l’aveuglement volontaire.
+[26] Par conséquent, les nouvelles cotisations du ministre sont correctes et les appels seront rejetés.
+[27] Avant de terminer, je traiterai brièvement de deux points.
+[28] Tout d’abord, les appelants ont laissé entendre que l’Agence du revenu du Canada avait commis une faute parce qu’elle avait une obligation de diligence pour ce qui est de les empêcher d’obtenir des remboursements auxquels ils n’avaient pas droit et que, par conséquent, ils ne devraient pas faire l’objet de pénalités.
+[29] Cet argument est sans fondement. Les pénalités prévues au paragraphe 163(2) s’appliqueraient, même si l’Agence du revenu du Canada avait intercepté les demandes et n’avait jamais versé les remboursements. Il n’est pas nécessaire que le contribuable tire réellement parti de la fausse déclaration.
+[30] De plus, selon le paragraphe en question, il y a pénalité si deux critères sont satisfaits. Il doit y avoir une fausse déclaration, et cette fausse déclaration doit avoir été faite sciemment ou dans des circonstances équivalant à faute lourde. Les deux critères sont respectés.
+[31] Enfin, les appelants ont soutenu qu’ils avaient des difficultés et ont demandé que cela soit pris en considération.
+[32] Je comprends qu’il s’agit de pénalités lourdes, mais, comme je l’ai dit à l’audience, je ne peux tenir compte de cet aspect. La seule question que je peux trancher, en ce qui a trait aux pénalités, est de savoir si elles sont fondées. Je ne peux corriger le montant[1].
+Signé à Ottawa (Ontario), ce 28e jour de mai 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 9e jour de juillet 2014.
+S. Tasset
+RÉFÉRENCE :
+2014 CCI 174
+NOS DE DOSSIERS DE LA COUR :
+2012-1148(IT)I
+2012-975(IT)I
+INTITULÉ :
+RASPER I. ATUTORNU,
+PEACE Q. ATUTORNU,
+c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 mai 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 28 mai 2014
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocates de l’intimée :
+Me H. Annette Evans
+Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Cela dit, l’ampleur des pénalités, dans les circonstances des appelants, semble très grande et j’ai des préoccupations à propos des conséquences pour les appelants. Je ne doute pas que les pénalités soient fondées, mais les appelants sont également des victimes. Je relève que ce qui aurait dû alerter les appelants aurait certainement dû alerter l’Agence du revenu du Canada également.
+Le gouvernement et le législateur souhaiteront peut-être repenser le régime des pénalités civiles. Je constate que, jusqu’en 1988, la pénalité prévue au paragraphe 163(2) était de 25 %, au lieu des 50 % actuels. Le paragraphe 163(2) a remplacé le paragraphe 56(2) de la Loi de l’impôt sur le revenu antérieure à 1971. Le paragraphe 56(2) est entré en vigueur en 1960 et fixait également la pénalité à 25 %.

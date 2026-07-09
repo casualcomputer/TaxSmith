@@ -1,0 +1,155 @@
+Title: Lieberman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30288/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-183-30288-lieberman-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-24
+
+# Lieberman v. The Queen
+
+- Citation: 2011 TCC 183
+- Decision date: 2011-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8057, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lieberman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-24
+Neutral citation
+2011 TCC 183
+File numbers
+2010-1692(GST)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1692(GST)APP
+BETWEEN:
+MENACHEM LIEBERMAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application for an extension of time heard on February 2, 2011,
+at Montréal, Quebec
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the applicant:
+The applicant himself
+Counsel for the respondent:
+Bernard Duchesneau
+____________________________________________________________________
+ORDER
+The application for an extension of time to file a notice of objection to the notice of assessment dated June 2, 2009, made under the Excise Tax Act is dismissed in accordance with the Reasons for Order.
+Signed at Ottawa, Canada, this 24th day of March 2011.
+"Johanne D’Auray"
+D’Auray J.
+Citation: 2011 TCC 183
+Date: 20110324
+Docket: 2010-1692(GST)APP
+BETWEEN:
+MENACHEM LIEBERMAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+D’Auray J.
+[1] In this application, the applicant, Mr. Lieberman, is requesting an extension of time for filing a notice of objection.
+[2] The application arises from an assessment dated June 2, 2009. The applicant was assessed under section 323 of the Excise Tax Act, regarding liability of directors.
+[3] The applicant was the sole director of 3997405 Canada Inc. (the Company), incorporated on March 21, 2003. The Company ceased its operations on April 31, 2004, and was dissolved on November 2, 2005.
+[4] Since 2007, the applicant had been receiving letters from Revenu Québec concerning GST, QST and SDs (source deductions) for the Company.
+[5] Following those letters, the applicant met with Revenu Québec representatives and, at their request, resubmitted the GST reports for 2003 and 2004.
+[6] After he had submitted the GST reports, the applicant was under the impression that the Company would receive a refund. It turned out that, according to the assessments issued by Revenu Québec, an amount was owed to Revenu Québec.
+[7] The applicant asked the Company's accountant, Doug Wolman, to deal with the Company's affairs with Revenu Québec.
+[8] According to the applicant, Mr. Wolman did not provide the documents to Revenu Québec and, when the applicant realized this, he met with Revenu Québec representatives in May 2008, and they asked him to produce the documents.
+[9] At the start of January 2009, the applicant met with Mr. Bourassa and other representatives of Revenu Québec. The applicant stated that the documents would be submitted shortly.
+[10] On January 30, the applicant submitted the documents to Revenu Québec. The documents were transferred to the auditor assigned to this file, Sylvie Levesque. A short time later, she informed the applicant that the documents he had submitted were not relevant.
+[11] The applicant then asked Mr. Pinsky, a friend who was a chartered accountant, to deal with the file with Revenu Québec. According to the applicant, Mr. Pinsky was supposed to deal not only with the Company's file by also with his personal file.
+[12] Time passed but Revenu Québec did not receive Mr. Pinsky's documents.
+[13] On March 12, 2009, Mr. Bourassa from Revenu Québec phoned Mr. Lieberman to check whether he or his accountant had sent the auditor the documents requested for the Company. Mr. Lieberman did not know. He was going to check.
+[14] On April 16, 2009, a process server served on the applicant a notice of intention dated March 31, 2009, to assess him as a director under section 323 of the Excise Tax Act (ETA) for an amount of $67,218.97. According to the process server’s report, the document was left with Bella Lieberman, the applicant's spouse, at their residence. A questionnaire was enclosed with the notice of intention to assess. The applicant had to fill out the questionnaire within 30 days of the date of the notice of intention to assess.
+[15] Mr. Bourassa of Revenu Québec had advised the applicant since January 5, 2009. He had left the applicant a voicemail message asking for his co‑operation in obtaining the information requested. If he did not do so, Revenu Québec would be obliged to send him a notice of intention to assess him personally for the company’s debts.
+[16] On June 5, 2009, the process server served on the applicant a notice of assessment dated June 6, 2009 under section 323 of the ETA, director’s liability. According to the service report, the notice of assessment was left with Bella Crosz Lieberman, the applicant's spouse, at their residence.
+[17] On June 22, 2009, Revenu Québec received an authorization allowing Mr. Pinsky, the applicant's friend and accountant, to deal with Revenu Québec concerning the Company’s affairs only.
+[18] On June 22, 2009, documents related to the Company were sent by the accountant, Mr. Pinsky. Mr. Bourassa from Revenu Québec transferred the documents so that they could be examined by the auditor assigned to the file, Ms. Levesque.
+[19] On July 8, 2009, Mr. Bourassa from Revenu Québec phoned the auditor to ask about the status of the file. The auditor told Mr. Bourassa that the documents submitted were not relevant given the large number of disallowed input tax credits. She informed the applicant’s representative, Mr. Pinsky about it.
+[20] On September 8, 2009, a final notice of payment under section 323 of the ETA was sent to the applicant, claiming the amount of $68,717.81, to be paid no later than September 23, 2009.
+[21] On October 1, 2009, Mr. Bourassa from Revenu Québec received a call from Michael Marianer, accountant for the firm Ammar Cousineau Altman Telio Hadid.
+[22] Mr. Marianer explained that the applicant was his new client. Therefore, Mr. Bourassa asked him to send him a power of attorney, which was done that same day.
+[23] In that conversation, which took place on October 1, 2009, Mr. Bourassa suggested to the accountant to file an application for an extension of time for filing a notice of objection.
+[24] Following the application filed by the accountant, Mr. Marianer, dated December 10, 2009, Mr. Bourassa from Revenu Québec faxed the applicant’s accountant a copy of the notice of assessment on that same day.
+[25] On December 10, 2009, a notice of objection was filed.
+[26] On April 23, 2010, the Canada Revenue Agency informed the applicant that his application for an extension of time for filing a notice of objection was refused.
+[27] On May 21, 2010, an application for an extension of time was filed with this Court by the Morency law firm. On January 28, 2011, counsel from the Morency law firm withdrew from the case.
+[28] The applicant was not represented at the hearing. He is asking the Court to give him a chance to argue his case in detail.
+[29] He is also claiming that the first two accountants who had acted on his behalf did not do their jobs properly.
+[30] With respect to the first accountant, Mr. Wolman, the applicant was under the impression that Mr. Wolman had taken care of everything and everything had been resolved. Although he had not given Mr. Wolman a power of attorney so that he could deal with the Company's file with Revenu Québec, he did not have to do so because, according to him, Mr. Wolman was the accountant who had dealt with the Company’s affairs.
+[31] The applicant submits that, once he had realized that Mr. Wolman had not been working on the Company's file, he contacted Revenu Québec in May 2008 to discuss matters related to the Company for which he was the sole director.
+[32] As for the accountant, Mr. Pinsky, he was the applicant’s friend and was working for him for free. The applicant was under the impression that Mr. Pinsky was taking care of the Company’s affairs and also of his personal affairs. The evidence showed, however, that Mr. Pinsky had obtained a power of attorney signed by the applicant only for the Company.
+[33] The applicant also stated that he had not realized that, at a certain point in time, Revenu Québec had assessed him. Since he was used to receiving mail from Revenu Québec for the Company, he did not know that that letters – the notice of intention to assess and the notice of assessment – concerned him personally. The applicant indicated that he had been less preoccupied with the Company's affairs because it had ceased its activities in April 2004.
+[34] He is also claiming that he was not aware that a notice of intention to assess him and a notice of assessment had been issued because, at that time, namely, during the months of May, June and July 2009, he was in New York with his grandmother, who was very ill and died at the end of July. On his return to Quebec, the applicant went North with his family for seven weeks to give his children a chance to play and have a break from the city. He realized what was going on only in September 2009.
+[35] He also indicated that he had not known that he could personally be assessed as a director; no one had explained that to him. However, in cross-examination, he did not deny that Mr. Bourassa had left him a voicemail message telling him that he could personally be assessed. Following that voicemail message, the applicant complained to Mr. Bourassa’s manager because he believed that Revenu Québec was threatening to assess him personally and that that kind of message should not be left in a voicemail box.
+[36] It must be noted that, in this case, the notice of intention to assess and the notice of assessment were served by the process server on the applicant's spouse.
+[37] It was only when the final notice of payment was sent in September 2009 that the applicant went to see the accountants Ammar Cousineau Altman Telio Hadid. The applicant does not understand why those accountants did not make the application for extension sooner; it was made only on December 10, 2009.
+[38] In short, the applicant blames the accountant for his failure to produce documents within the time limit as well as the fact that he spent time in New York with his ill grandmother and then seven weeks with his family in the North. Based on his testimony, he did not know that he could personally be assessed; he thought that the letters from Revenu Québec concerned the Company. He should not suffer harm because the accountant did not do his job properly. He was under the impression that Mr. Pinsky was taking care of his personal file as well as that of the Company. The Court should give him a chance to argue his case in detail.
+[39] The respondent argues that the taxpayer did not meet the criteria for obtaining an extension of time for filing a notice of objection stated in subsection 304(5) of the Excise Tax Ac:.
+(5) When application to be granted - No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+[40] The respondent also referred me to case law dealing with negligence on the part of accountants or counsel.
+[41] In Arsenault v. le Sous-ministre du Revenu du Québec, at tab 6 of the respondent's book, Judge Lareau stated the following:
+[Translation]
+If an error of counsel or even an accountant was regularly considered to be putting the taxpayer in a situation where he or she is unable to act, it would not free the taxpayer from his or her duty of care. . . . Taxpayers cannot meekly give themselves over to their representatives and then claim that they were unable to act.
+[42] Judge Lareau also wrote: [Translation] "In fact, ARSENAULT was careless and negligent in not following up on his file with Mr. Matte in order to ensure that the notices of objections were filed as quickly as possible".
+[43] In Ruel, Justice Lamarre-Proulx referred to a list of decisions that are very relevant to this case in my opinion.
+[44] "She referred to this Court’s decision in Ferrara v. R., [2002] G.S.T.C. 18 (T.C.C.) with regard to the aspect that all the conditions outlined in paragraph 305(5)(b) must be met. With respect to the issue that the application must be submitted as soon as the circumstances permit, she referred to the decision of the Federal Court of Appeal in The Queen v. Pennington (1987), 87 D.T.C. 5107 (Fed. C.A.). With respect to the lawyer’s lack of due diligence, she referred to the following decisions: D McKinnon Holdings Ltd. v. M.N.R., [1982] C.T.C. 2460 (T.R.B.); Harris v. Minister of National Revenue, [1985] 1 C.T.C. 2363 (T.C.C.); Zamko v. R., [1995] T.C.J. No. 1771 (T.C.C. [Informal Procedure]); and Di Modica v. R., 2001 CarswellNat 2005 (T.C.C. [Informal Procedure]), dated September 12, 2001. These decisions indicate that a lack of due diligence on the part of an accountant or counsel is not a circumstance that, on its own, allows for the application to be granted."
+[45] In the file of the Company concerned in this case, there were several misunderstandings between the applicant and the accountants. Even though Mr. Pinsky worked for free for the applicant, the applicant did not get involved believing that everything would be resolved for him. He did not follow up with Mr. Pinsky to ask him how things were going.
+[46] In addition, the applicant's testimony is confused in some aspects: he alleges that Mr. Pinsky should have been representing the Company as well as the applicant himself, while the power of attorney signed by the applicant mentions only the Company.
+[47] In addition, he claims to have been unaware of the notice of intention to assess and the notice of assessment served by the process server because he was in New York. If that were the case, why was he under the impression that the accountant, Mr. Pinsky, was representing him and the Company with Revenu Québec.
+[48] The documents served by the process officer are unusual enough that I find it hard to believe that the applicant was unaware of their existence.
+[49] In addition, Mr. Bourassa had advised the applicant in January 2009 that, if he or his accountant did not provide the documents concerning input tax credits for the Company to Revenu Québec, he would have no choice but to assess him personally. In addition, the notice of intention to assess was served on the applicant on April 16, 2009. The applicant indicated that he was in New York from May to the end of July. Thus, he was not in New York in April.
+[50] Supposing that he had not learned about the notice of intention to assess and the notice of assessment until he came back from New York at the end of July– beginning of August, he would have still been within the time limit to file a notice of objection. He went North with his family for seven weeks without dealing with the documents served by the process server.
+[51] When he returned from the North, and a request for payment dated September 2009 was sent to him, he went to see another accountant. The application for extension was filed only on December 10, when he was already late. The applicant does not understand why the accountants took so long to file an application for an extension of time. The answer may be that Mr. Bourassa from Revenu Québec had to send the notice of assessment to the accountants since they were unable to obtain it from their client.
+[52] If the applicant had intended to object, he did not show it by his conduct. When documents are served by a process server, it seems to me that it is common sense that special attention should be paid to them. It is not sufficient to say that one intended to file a notice of objection. Despite the letters received by Revenu Québec and reminders sent by Revenu Québec in this case, the applicant did not check his mail, even though Revenu Québec had informed him that, if the Company's file were not settled, he would personally be assessed. The applicant did not demonstrate that he actually intended to file an appeal within the prescribed time limit.
+[53] In addition, the applicant did not think it necessary to have the accountant, Mr. Pinsky, testify. There is no evidence on the record that the applicant had mandated Mr. Pinsky for the assessment that concerned him personally. The applicant had his reasons for not having Mr. Pinsky testify, but I have no evidence on what happened between the applicant and his accountant. Why was the power of attorney signed by the applicant only for the Company? The evidence did not show that the notice of intention to assess and the notice of assessment served on the applicant had been forwarded to the accountant, Mr. Pinsky. If the applicant had given his documents to Mr. Pinsky, which is not documented in evidence, why did he not file a notice of objection? I have no evidence that Mr. Pinsky had been negligent.
+[54] The applicant had received the notice of intention to assess before he left for New York. He decided to ignore the notice and did not fill out the enclosed questionnaire. In addition, on his return from New York, before going North for seven weeks, he did not attend to the notice of assessment that had been served at his residence. At either of those stages, he could have mandated an accountant to deal with his file with Revenu Québec within the prescribed time limit.
+[55] In addition, given the reasons given by the applicant and the circumstances on the record, I do not believe that it would be just and equitable to grant the application for an extension of time taking into account the applicant's conduct, which can be considered negligent.
+[56] Accordingly, the application for an extension of time for filing a notice of objection is dismissed.
+Signed at Ottawa, Canada, this 24th day of March 2011.
+"Johanne D’Auray"
+D’Auray J.
+CITATION: 2011 TCC 183
+COURT FILE NO.: 2010-1692(IT)APP
+STYLE OF CAUSE: MENACHEM LIEBERMAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 2, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: March 24, 2011
+APPEARANCES:
+For the applicant:
+The applicant himself
+Counsel for the respondent:
+Bernard Duchesneau
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

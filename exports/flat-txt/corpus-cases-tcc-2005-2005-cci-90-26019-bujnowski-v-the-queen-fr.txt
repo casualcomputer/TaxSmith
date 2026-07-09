@@ -1,0 +1,93 @@
+Title: Bujnowski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26019/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-90-26019-bujnowski-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-01-27
+
+# Bujnowski v. The Queen
+
+- Citation: 2005 CCI 90
+- Decision date: 2005-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3916, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bujnowski v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-27
+Référence neutre
+2005 CCI 90
+Numéro de dossier
+2004-1827(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1827(IT)I
+ENTRE :
+JANUSZ J. BUJNOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 octobre 2004 et le 10 janvier 2005 à Toronto (Ontario).
+Devant : L'honorable juge A.A. Sarchuk
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Annie Paré
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est admis, et la cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et qu'il en établisse une nouvelle au motif que l'appelant a le droit de demander un crédit pour impôt étranger au montant de 14 787,28 $.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2005.
+"A.A. Sarchuk"
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI90
+Date : 20050127
+Dossier : 2004-1827(IT)I
+ENTRE :
+JANUSZ J. BUJNOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Dans la déclaration de revenus qu'il a produite pour l'année d'imposition 2001, l'appelant a déclaré un revenu total de 64 149 $ et a demandé un crédit pour impôt étranger relativement à des impôts de 14 787,28 $ payés aux États-Unis d'Amérique. Dans la nouvelle cotisation d'impôt établie pour cette année-là, le ministre du Revenu national a refusé le crédit pour impôt étranger demandé par l'appelant. En exposant ses prétentions, l'appelant a fait allusion à une nouvelle cotisation datée du 20 janvier 2003 qui, a-t-il dit, [TRADUCTION] « est venue confirmer que j'avais intégralement payé l'impôt canadien et le solde de la nouvelle cotisation et que le solde définitif était nul » . Le ministre ne conteste pas l'existence de cette nouvelle cotisation, mais affirme qu'un avis de nouvelle cotisation ultérieur daté du 27 mai 2003 faisait état d'un montant révisé d'impôt à payer de 10 370,30 $. C'est sur cette nouvelle cotisation que la Cour doit se pencher.
+[2] L'appelant est citoyen canadien et il détient un passeport canadien. En janvier 2001, il a été embauché en qualité d'analyste de systèmes informatiques par la société Maxim Group, située dans l'État du Michigan, aux É.-U. L'appelant a dit que son emploi au sein d'une société américaine découlait de l'ALENA, qui, a-t-il précisé, autorise un citoyen canadien à travailler aux É.-U. sans visa. Il s'attendait à ce que son emploi soit à long terme et a dit avoir envisagé de s'acheter une résidence au Michigan. Toutefois, en octobre 2001, son emploi a pris fin et le 1er novembre, ou autour de cette date, l'appelant a regagné le Canada. Il affirme qu'il a séjourné aux États-Unis plus de 183 jours et que, par conséquent, il était considéré comme résident des É.-U. aux fins de l'impôt et que tous les impôts des É.-U. sur son revenu d'emploi ont été retenus à la source.
+[3] L'appelant prétend que la cotisation du ministre était erronée en ce sens qu'elle était fondée sur une conclusion selon laquelle, durant l'année en cause, il était un résident de fait du Canada. Il a témoigné que, pendant son séjour aux É.-U., il habitait un logement locatif et avait [TRADUCTION] « un numéro de téléphone et une ligne téléphonique personnels du Michigan » . Son salaire, en dollars américains, était déposé dans un compte tenu par une banque américaine, il utilisait des cartes de crédit américaines, il avait une assurance de soins médicaux et dentaires américaine, il était membre d'associations professionnelles américaines et il avait des placements aux États-Unis. Il a versé des dons à des organismes de bienfaisance américains à but non lucratif. Il détenait un permis de conduire du Michigan, son véhicule automobile était immatriculé au Michigan et il était assuré auprès d'une société américaine. Après avoir perdu son emploi à la fin d'octobre 2001, l'appelant a commencé à recevoir des prestations ordinaires de chômage des États-Unis.
+[4] Dans son contre-interrogatoire, l'avocate de l'intimée a fait allusion à des questionnaires de Revenu Canada sur la détermination de la résidence que l'appelant avait remplis et présentés.[1] Le premier est daté du 26 octobre 2002, le deuxième, du 18 janvier 2003. Les réponses données par l'appelant dans chacun d'eux sont assez cohérents et traduisent les faits suivants, qui ne sont pas contestés :
+A. Son épouse Anna demeurait au Canada, habitait la résidence qu'ils possèdent ensemble à Mississauga, et [TRADUCTION] « se cherchait un emploi » . De plus, l'appelant a affirmé qu'il continuait de subvenir aux besoins de son épouse et, dans une moindre mesure, de son fils adulte dans la maison qu'ils occupaient avant son départ.
+B. Il a admis avoir conservé certains liens pendant qu'il travaillait aux États-Unis, plus précisément les suivants :
+a) il a conservé la majorité des articles tels que des meubles, des appareils et des ustensiles au Canada, de même que des biens personnels comme des vêtements, des articles personnels ou des animaux domestiques; b) il a indiqué qu'il conservait en Ontario des véhicules immatriculés dans cette province ou ce territoire, de même que son permis de conduire, et qu'il continuait de renouveler son permis de conduite à l'échéance; c) il détenait un passeport canadien valide, qu'il renouvellerait à l'échéance; d) il possédait un compte bancaire conjoint avec son épouse au Canada et conservait et utilisait des cartes de crédit d'institutions financières canadiennes; e) il conservait des comptes de courtage comme régime de retraite autogéré et des comptes sur marge composés d'actions, d'espèces et de fonds communs de placement; f) il a conservé son inscription et son service téléphoniques au Canada et il a affirmé qu'il utilisait son service téléphonique à des fins personnelles et commerciales; g) en réponse à la question de savoir s'il comptait revenir au Canada, il a écrit « oui » et a ajouté le commentaire suivant : [TRADUCTION] « travail aux États-Unis jusqu'à la retraite ou jusqu'à ce qu'il n'y ait plus de travail, et ce, en raison d'un manque d'emplois au Canada » ; et h) dans chacun de ces documents, il a indiqué qu'il avait fait de nombreuses visites au Canada au cours de la période visée.
+Position de l'appelant
+[5] L'appelant soutient que le ministre a commis une erreur en présumant qu'il était un résident de fait du Canada au cours de l'année d'imposition en cause. Il fait particulièrement valoir que, conformément au guide d'impôt américain destiné aux étrangers, il a satisfait au critère de la présence importante, qu'il a, en conséquence, été considéré comme un résident des États-Unis aux fins de l'impôt et qu'il a payé des impôts au titre de son revenu d'emploi, impôts qui ont été retenus à la source. De plus, selon la Convention fiscale Canada-États-Unis, il n'a pas rempli les conditions voulues pour être exonéré de l'impôt des États-Unis sur le revenu d'emploi gagné là-bas. Étant donné qu'il a satisfait au critère de la présence importante de l'I.R.S. et qu'il a été reconnu comme résident étranger aux fins de l'impôt des État-Unis, l'appelant maintient qu'il devrait être considéré comme un non-résident réputé du Canada pour la période allant du 1er janvier 2001 au 31 octobre 2001. Il invoque les dispositions du paragraphe 250(5) de la Loi de l'impôt sur le revenu, qui est libellé comme suit :
+250(5) Malgré les autres dispositions de la présente loi (sauf l'alinéa 126(1.1)a)), une personne est réputée ne pas résider au Canada à un moment donné dans le cas où, à ce moment, si ce n'était le présent paragraphe ou tout traité fiscal, elle résiderait au Canada pour l'application de la présente loi alors que, en vertu d'un traité fiscal conclu avec un autre pays, elle réside dans ce pays et non au Canada.
+Il a fait observer qu'il existe cinq catégories de résident, c.-à-d. un résident ordinaire, un résident de fait, un résident réputé, un non-résident réputé et un non-résident. Il soutient qu'au cours de l'année d'imposition en cause, il n'était pas un résident ordinaire, ni un non-résident, et qu'il n'était pas non plus un résident réputé du Canada parce qu'il y a séjourné pendant moins de 183 jours. En ce qui concerne les deux autres catégories de résident, il admet qu'il pourrait être considéré comme un résident de fait, mais fait valoir qu'au moment donné, il était résident d'un autre pays pour l'application d'une convention fiscale entre le Canada et ce pays, et qu'en conséquence, il était réputé ne pas résider au Canada à ce moment conformément au paragraphe 250(5) de la Loi. L'appelant invoque particulièrement les « règles décisives » énoncées au paragraphe 2 de l'article IV de la Convention Canada-États-Unis, et il affirme que si ces règles étaient convenablement appliquées, il serait considéré comme un non-résident réputé au moment où il résidait, aux fins de l'impôt, aux États-Unis au cours de 2001. Il fait valoir que ces règles reposent d'abord sur un critère fondé sur l'existence d'un « foyer d'habitation permanent » pour le règlement de la question de la résidence, et affirme que ce critère ne permet pas de déterminer la résidence étant donné les faits en l'espèce. Il se fonde sur le critère du « centre des intérêts vitaux » et affirme que ses liens économiques avec les États-Unis sont beaucoup plus solides du fait, entre autres, que c'est dans ce pays qu'il tirait son unique source de revenus. Il prétend également que ses liens personnels avec le Canada n'étaient, de toute évidence, pas aussi étroits parce que son épouse se trouvait souvent avec lui aux États-Unis. Ainsi, les règles décisives devraient permettre de déterminer [TRADUCTION] « un lien de résidence plus étroit avec les États-Unis en raison des liens économiques » . Dans ces circonstances, il était clair qu'il ne devrait pas être considéré comme un résident de fait.
+[6] L'intimée est d'avis qu'un particulier qui est résident du Canada pour l'application de la Loi est un résident du Canada pour l'application du paragraphe 1 de l'article portant sur la résidence de toute convention moderne conclue par le Canada avec un autre pays. Ce particulier peut également être résident de l'autre pays pour l'application du même paragraphe de la même convention. En pareil cas, l'article sur la résidence contenu dans la convention fiscale prévoit des « règles décisives » permettant de déterminer dans quel pays le particulier réside pour l'application des autres dispositions de la convention. Si, à un moment donné, ces « règles décisives » s'appliquent et qu'il est établi qu'un particulier est résident d'un autre pays pour l'application d'une convention fiscale entre le Canada et ce pays, le particulier est alors réputé selon le paragraphe 250(5) de la Loi être un non-résident du Canada pour l'application de la Loi.
+[7] L'avocate de l'intimée a allégué qu'au cours de l'année d'imposition en cause, il a été établi, à juste titre, que l'appelant était un résident de fait du Canada. Elle a fait précisément allusion aux faits présentés à la Cour qui, a-t-elle dit, n'ont pas permis d'établir que l'appelant avait nettement rompu avec le Canada au cours de cette année d'imposition. Plus particulièrement, rien n'indiquait dans sa conduite qu'il n'avait nullement l'intention de revenir. Il n'est pas parti avec sa famille et ses possessions et il n'a pas non plus rompu la plupart de ses liens avec le Canada. En ce qui touche les dispositions du paragraphe 250(5) de la Loi, l'avocate a soutenu que l'appelant n'a pas satisfait aux critères décisifs dont il a parlé. Pour étayer ses propos, l'avocate a fait valoir que la preuve a permis d'établir que l'appelant ne possédait pas de résidence permanente aux États-Unis et qu'il entretenait des liens personnels et économiques plus étroits avec le Canada au cours de la période en cause. De plus, les liens de l'appelant avec le Canada étaient beaucoup plus solides que ceux qu'il avait avec les États-Unis. L'avocate a mentionné expressément le fait qu'il ne détenait pas de passeport des États-Unis et n'y avait pas la citoyenneté, et qu'il ne tentait pas non plus d'obtenir la citoyenneté aux États-Unis. Il n'y possédait pas de résidence familiale et rendait en fait régulièrement visite à sa famille au Canada. En s'appuyant sur tous les faits présentés à la Cour, l'avocate a allégué que le ministre avait raison de conclure que l'appelant était un résident de fait du Canada.
+[8] Sans égard aux prétentions contraires de l'appelant, la preuve soumise à la Cour amène clairement à conclure que ses liens de résidence avec le Canada étaient très importants. Non seulement l'épouse de l'appelant est-elle restée au Canada dans une résidence qu'ils y possédaient, il est en outre avéré qu'elle y est demeurée pour trouver un emploi. La Cour n'a été saisie d'aucune preuve indiquant que l'appelant a, à un moment ou à un autre, envisagé de se départir de l'habitation, ni d'aucune preuve à l'appui de sa déclaration selon laquelle il entendait acheter une résidence au Michigan. De nombreux autres liens de résidence avec le Canada tendent en outre à conduire à la conclusion que l'appelant résidait de fait au Canada tout en occupant un emploi aux États-Unis. Il a conservé, comme il a été indiqué plus tôt, des biens meubles, de même que des liens sociaux et économiques au Canada tels qu'un compte bancaire, des comptes de courtage, des comptes de retraite autogérés, etc. Il a également conservé son passeport canadien et a maintenu son adhésion à des organisations professionnelles canadiennes. Au vu de la preuve qui m'a été soumise, j'en ai conclu que l'appelant était un résident de fait du Canada et qu'en conséquence, la cotisation du ministre était exacte.
+[9] Il y a une autre question à régler. En établissant la cotisation de l'appelant, le ministre a aussi refusé sa demande de crédit pour impôt étranger au montant de 14 787,28 $ pour l'année d'imposition en cause. Il a pris cette décision parce que l'appelant avait omis de fournir les documents à l'appui de sa demande. Au cours de la deuxième audience, l'intimée a informé la Cour qu'une copie certifiée conforme de la déclaration de revenus produite par l'appelant au Michigan pour 2001 et des copies de deux autres formulaires avaient été produites[2] et que, sur la foi de ces renseignements, le ministre reconnaît qu'un crédit pour impôt étranger au montant de 14 787,28 $ peut être demandé par l'appelant dans le calcul de son impôt à payer pour son année d'imposition 2001.
+[10] En conséquence, l'appel est admis.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2005.
+"A.A. Sarchuk"
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice
+[1] Pièce R-1, onglets 1 et 3.
+[2] Pièces A-13 et A-14.

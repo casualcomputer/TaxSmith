@@ -1,0 +1,130 @@
+Title: Friesen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520929/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-53-520929-friesen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-05-27
+
+# Friesen v. The Queen
+
+- Citation: 2022 TCC 53
+- Decision date: 2022-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4523, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Friesen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-05-27
+Neutral citation
+2022 TCC 53
+File numbers
+2021-2195(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2022 TCC 53
+Date: 20220527
+Docket: 2021-2195(IT)I
+BETWEEN:
+CHERYL FRIESEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on April 21, 2022 at Winnipeg, Manitoba for punctuation, capitalization, spelling, paragraph breaks, and accuracy; to remove repetitive phrases where I stumbled over my words; to add formal case citations; and to add headings)
+Graham J.
+[1] This is an appeal dealing with the Canada Child Benefit. Cheryl Friesen and Dylan Friesen have three children who I will refer to as C, N, and V. Ms. Friesen and Mr. Friesen separated in December 2018. Ms. Friesen claimed the Canada Child Benefit for the months of January 2019 to June 2021. The Minister of National Revenue initially paid the benefit to Ms. Friesen; however, the Minister later concluded that Ms. Friesen and Mr. Friesen were shared-custody parents and redetermined Ms. Friesen’s entitlement to the benefit.
+[2] The key issue in this appeal is whether Ms. Friesen was entitled to claim the full Canada Child Benefit in respect of her children in the months of January 2019 to June 2021.
+[3] I am going to give my oral judgment on the appeal at this time. I will not be issuing written reasons for judgment.
+[4] I heard the testimony and cross-examination of Ms. Friesen, the testimony and cross-examination of Ms. Friesen’s mother, Lyse Giesbrecht, and the testimony and cross-examination of Mr. Friesen. I found all of the witnesses to be generally credible.
+[5] As is often the case in these types of appeals, each parent had the tendency to over emphasize their involvement with the children, to under emphasize the involvement of the other parent with the children and to paint exceptions to the norm as being more frequent than they actually were. In other words, I have taken all of the testimony with a grain of salt. I have focused on what appears generally happened, not what occasionally happened.
+[6] All that said, where there was conflict in the evidence, I have preferred the evidence of Ms. Friesen over that of Mr. Friesen; not because I found her more credible, but simply because I found her evidence to be more reliable. She simply appeared to have a better memory of events than he did.
+I. Shared-Custody
+[7] As set out above, the Respondent takes the position that Ms. Friesen is not entitled to the full Canada Child Benefit because she was a shared-custody parent in respect of her children and thus is only entitled to half of the benefit.
+[8] The definition of “shared-custody parent” was amended in 2021 in response to the Federal Court of Appeal decisions in Lavrinenko v. The Queen (2019 FCA 151) and Morrissey v. The Queen (2019 FCA 56). The amendments were retroactive to 2011.
+[9] Parents are now considered shared-custody parents if they meet three tests: they must not be cohabitating spouses or common-law partners; they must reside with the child either at least 40 percent of the time in the month or on an approximately equal basis; finally, they must each primarily fulfil the responsibility for the care and upbringing of the child when the child resides with them.
+[10] The amendment changed the second test. The former test simply required each parent to reside with the child on an equal or near equal basis. The amendment codifies the 40 percent threshold that had generally been established by the case law prior to Lavrinenko and Morrissey. It then goes further and provides that a parent who does not meet that threshold may nonetheless be a shared-custody parent if he or she resides with the child “on an approximately equal basis”. This second provision does not weaken the 40 percent threshold; rather, as set out in detail below, it provides some flexibility to the 40 percent threshold in certain circumstances.
+[11] Returning to the tests for shared-custody parents, there is no dispute that Ms. Friesen and Mr. Friesen meet the first test. They were not cohabitating spouses in the months in question. There are therefore two questions: the first is whether they resided with the children at least 40 percent of the time in the months in question or on an approximately equal basis. If that is the case, then the second question is whether they each primarily fulfilled the responsibility for the care and upbringing of the children when the children resided with them.
+II. Concessions
+[12] At the close of evidence, the Respondent made two key concessions. First, the Respondent conceded that Ms. Friesen was the primary caregiver for V throughout the entire period. Second, the Respondent conceded that Ms. Friesen was the primary caregiver of N and C during the following periods: January to March 2019, July and August 2019, and April 2020 to June 2021.
+[13] These were appropriate concessions. Entitlement to the Canada Child Benefit is determined on a child-by-child basis. V was not old enough to attend school during the months in question. V’s care during the day on weekdays fell to Ms. Friesen. It was therefore clear that V could not be said to have resided with Mr. Friesen at least 40 percent of the time during any of the months in question.
+[14] It was also clear from the evidence that Ms. Friesen was the primary caregiver of N and C during the months conceded by the Respondent. Entitlement to the Canada Child Benefit is determined on a month-by-month basis. The months of January to March 2019 followed the couple’s separation. Mr. Friesen’s housing was unstable during this period and he agreed in his testimony that N and C would not have resided with him at least 40 percent of the time during those months.
+[15] From April 2020 to June 2020, the COVID pandemic closed schools and forced N and C to spend their time during the day on weekdays with Ms. Friesen. This meant that they could not have resided with Mr. Friesen at least 40 percent of the time in those months.
+[16] N and C spent their summer weekdays in Ms. Friesen’s care, so they would not have resided with Mr. Friesen at least 40 percent of the time in July and August 2020 even without the pandemic.
+[17] Starting in September 2020, Ms. Friesen began homeschooling N and C. As a result, they spent all of their weekdays with her. Thus, N and C could not have resided with Mr. Friesen at least 40 percent of the time from September 2020 to June 2021.
+[18] The Respondent’s appropriate concessions leave the following periods in issue in respect of N and C: April to June 2019 and September 2019 to March 2020.
+III. April to June 2019
+[19] I will look first at the months of April to June 2019. I would start by saying that the evidence that I have regarding these months is less than perfect. Ms. Friesen provided me with calendars recording where N and C have slept during those months. She also calculated the number of hours that she says each parent was responsible for the children on those days. I find the calendars to be reliable in terms of where the children slept, but less so in terms of the number of hours that the children spent with each parent.
+[20] The calculations appear to be rough estimates rather than actual hours and do not appear to accurately account for the length of time that Mr. Friesen generally spent with N and C when he had them on a weekend day. At the same time, Mr. Friesen had no records of his time with the children during these months and little in the way of a specific recollection.
+[21] Ultimately, I am left with Ms. Friesen’s testimony that Mr. Friesen’s time with the children in these months was still inconsistent. I accept that testimony. Taken in conjunction with her calendar reflecting overnight stays, I find that, although the nights were not yet fixed, it appears that Mr. Friesen would generally have cared for N and C two or three nights a week.
+[22] Based on the evidence before me, I find it more likely than not that Mr. Friesen did not meet the 40 percent threshold in these months. Accordingly, I find that Ms. Friesen was not a shared-custody parent from April to June 2019.
+IV. September to November 2019 and January to February 2020
+[23] I will now turn to the months of September 2019, October 2019, November 2019, January 2020 and February 2020.
+[24] I find that Mr. Friesen began to spend more time with N and C starting in September 2019. In particular, I find that his involvement in the children’s extra-curricular activities increased in this period. Starting in October 2019, Ms. Friesen and Mr. Friesen established a fixed schedule. Mr. Friesen cared for N and C on Wednesday nights from some time between 5 and 6 PM. He dropped the children at school on Thursday mornings. He then picked them up between 5 PM and 6 PM on Thursday evening, and dropped them at school on Friday morning. He also cared for N and C from midday on Saturday until midday on Sunday. That schedule continued in November 2019, January 2020, and February 2020.
+[25] I find that, under this new schedule, N and C resided with Mr. Friesen at least 40 percent of the time. The Respondent presented two possible calculations of the hours of care provided by each parent during these months. Hourly calculations can often be difficult. There is a significant risk that they will be skewed by slight changes in pick-up and drop-off times or will be manipulated by the parents. That said, I am satisfied in this case that, regardless how the calculation is done, N and C resided with Mr. Friesen at least 40 percent of the time in these months.
+[26] The question remains whether Mr. Friesen was primarily responsible for the care and upbringing of N and C during those months. Regulation 6302 sets out factors that are to be considered in determining whether a parent primarily fulfils the responsibility for the care and upbringing of the child.
+[27] The factors are the supervision of the daily activities and needs of the child; the maintenance of a secure environment for the child; the arrangement of and transportation to medical care at regular intervals and as required for the child; the arrangement of, participation in, and transportation to educational, recreational, athletic, or similar activities of the child; the attendance to the needs of the child when the child is ill; the attendance to the hygienic needs of the child; and the provision of guidance and companionship to the child.
+[28] I find that Mr. Friesen supervised N and C when they were under his care, that he maintained a secure environment for them to live in with him, that he looked after their hygienic needs and that he provided guidance and companionship to them.
+[29] The children were involved in extensive activities. It appears that Ms. Friesen made all of the arrangements for these activities, from registering the children, to finding appropriate equipment, to preparing them to attend the activities. These were, by and large, not new activities that Ms. Friesen instigated after the separation, but rather continuations of activities that had been in place prior to the separation. It seems that Mr. Friesen largely left responsibility for these activities to Ms. Friesen. That said, he transported N and C to the activities when they were under his care.
+[30] It also appears to me that Ms. Friesen was essentially responsible for all medical and dental treatment for N and C and that she looked after them when they were ill.
+[31] It is, however, important to emphasize that the question I must determine is not who primarily fulfilled the responsibilities listed in Regulation 6302, or which parent was more involved in the children’s lives. The question I must determine is whether Mr. Friesen was primarily responsible for the care and upbringing of N and C when they resided with him. I find that he was. While it is clear to me that Ms. Friesen fulfilled more of the responsibilities described in Regulation 6302, I am satisfied that Mr. Friesen was nonetheless primarily responsible for the care and upbringing of N and C when they resided with him.
+[32] Accordingly, I find Ms. Friesen to have been a shared-custody parent from September to November 2019 and from January to February 2020.
+V. December 2019 and March 2020
+[33] Finally, I will look at the months of December 2019 and March 2020. I find that N and C did not reside with Mr. Friesen at least 40 percent of the time in December 2019 and March 2020. The children would not have attended school full-time in those months due to the Christmas and spring break holidays. It was clear from the evidence that care of N and C during the day on weekdays during all school holidays fell almost exclusively to Ms. Friesen. Mr. Friesen’s statement that he might have occasionally taken the children for a day here or there was simply too vague for me to give it any weight.
+A. Interpretation of the Amended Definition
+[34] As set out above, the definition of shared-custody parent was amended in 2021, retroactive to 2011. As a result of the amendment, a parent can be a shared-custody parent if he or she resided with the child at least 40 percent of the time in the month or on an approximately equal basis.
+[35] Based on the clear language of the provision and the statements made in the explanatory notes that accompanied the new legislation, I conclude that the new definition contemplates a situation where a parent normally meets the 40 percent threshold but temporarily slips below it in a given month because, for example, of illness, vacations, or something similar.
+[36] In my view, the new provision is a very practical solution to the fact that, while parenting occurs on an ongoing basis, entitlement to the Canada Child Benefit is determined on a monthly basis. The amendment provides a level of consistency for parents in the often unpredictable world of raising children.
+[37] The addition of the approximately equal basis test appears to have been designed to recognize that irregularities in a given month may upset an otherwise established schedule but that, over time, these irregularities will balance out.
+[38] I can think of a number of possible examples where the provision could apply. One parent may take the children for a week’s vacation over spring break and the other parent may later take them on a similar vacation in July. One parent may have to leave town one weekend to attend a friend’s wedding and the other parent may take the children for the weekend. Finally, a child could be sick and the parents might decide not to move the child from his or her current location with one parent in order to keep him or her comfortable. In each of these examples, I am picturing either a month where parenting time is unequal but will be roughly balanced out over the course of time or a month in which an unusual event or occurrence has interfered with the parents’ established schedules.
+B. Application of the Amended Definition
+[39] With that in mind, I will turn to the facts of this appeal. The Respondent submits that, even if N and C did not reside with Mr. Friesen at least 40 percent of the time in December 2019 and March 2020 due to school holidays, I should look at the surrounding months and consider him to have resided with the children on an approximately equal basis and thus treat him as a shared-custody parent in those months. I do not think that this is an appropriate situation to do so.
+[40] School holidays are not unusual events. I am not speaking here of the occasional statutory holiday or day off while teachers attend professional development courses. I am speaking of the longer break that students have around Christmas, the one or two-week break that they typically have in March and the two months of summer holidays. These four breaks occur regularly each year and collectively involve a significant portion of the year. They leave parents in a position of either having to care for their school-age children during what would otherwise be the school day or having to find an alternative form of childcare.
+[41] This was not a case where Ms. Friesen took N and C away for spring break and Mr. Friesen took them in August and thus there was a general balancing over the course of the year. It is not even a situation of rough balancing where Ms. Friesen took the children for three weeks of vacation over the course of the year and Mr. Friesen’s work only allowed him to take them for two weeks.
+[42] The evidence was clear that Mr. Friesen essentially never cares for the children during the day on weekdays when they are on school vacation. The care that would otherwise have been provided by the children’s school is left to be provided by Ms. Friesen. This leaves four months of the year where Ms. Friesen is responsible for the care of the children for significant amounts of extra time. In those circumstances, I do not think it is appropriate to consider Mr. Friesen’s care to have been approximately equal during any of those months.
+[43] Accordingly, I find that N and C did not reside with Mr. Friesen at least 40 percent of the time during the months of December 2019 and March 2020.
+VI. Conclusion
+[44] In conclusion, on the basis of all the foregoing, the appeals are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that Ms. Friesen was the sole eligible individual in respect of V from January 2019 to June 2021; was the sole eligible individual in respect of N and C from January to August 2019, in December 2019, in March 2020 and from April 2020 to June 2021; and was a shared-custody parent in respect of N and C from September to November 2019 and January to February of 2020
+Signed at Ottawa, Canada, this 27th day of May 2022.
+“David E. Graham”
+Graham J.
+CITATION:
+2022 TCC 53
+COURT FILE NO.:
+2021-2195(IT)I
+STYLE OF CAUSE:
+CHERYL FRIESEN v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+April 21, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF ORAL REASONS:
+April 21, 2022
+DATE OF REASONS FOR JUDGMENT:
+May 27, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Allanah Smith
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

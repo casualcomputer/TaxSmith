@@ -1,0 +1,178 @@
+---
+title: "Rae c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29676/index.do"
+last_modified: "2010-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 130"
+citation2: ""
+neutral_citation: "2010 CCI 130"
+decision_date: "2010-03-08"
+language: "fr"
+item_id: "29676"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6242
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:12:15.471000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b81d5b19cb32d983bf5bcaac354045bf02d95d03569fe8e13fddc3414016089"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rae c. La Reine
+
+- Citation: 2010 CCI 130
+- Decision date: 2010-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6242, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rae c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-08
+Référence neutre
+2010 CCI 130
+Numéro de dossier
+2008-3223(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3223(IT)G
+ENTRE :
+JOE RAE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 janvier 2010, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2007 de l’appelant est accueilli en partie, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de mars 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 25e jour de mai 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 130
+Date : 20100308
+Dossier : 2008-3223(IT)G
+ENTRE :
+JOE RAE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Il s’agit en l’espèce de savoir si un paiement fait par l’employeur du contribuable, ou par une société affiliée de cet employeur, a été reçu à l’égard de la perte d’un emploi pour l’application de la définition du terme « allocation de retraite » prévue au paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi ») et, dans l’affirmative, dans quelle mesure ce paiement doit être inclus dans le calcul du revenu du contribuable selon le sous‑alinéa 56(1)a)(ii). Dans la présente affaire, M. Rae a déclaré en totalité la somme en cause dans sa déclaration de revenus relative à l’année où il l’a reçue et il a fait état de sa position voulant qu’il y ait lieu de soustraire cette somme à l’impôt.
+I. Les faits
+[2] Monsieur Rae est comptable agréé. En 2006, il travaillait depuis plusieurs années en cette qualité pour une importante société canadienne à titre de contrôleur. Il gagnait un revenu élevé comprenant une prime annuelle susceptible d’atteindre 10 pour 100 de son salaire de base.
+[3] En 2006, Weir Canada, Inc. (« Weir Canada ») a offert le poste de contrôleur pour l’Amérique du Nord à M. Rae, qui l’a accepté. Weir Canada est une société affiliée à Weir North America Inc. et à The Weir Group PLC. The Weir Group PLC est une société cotée en bourse au Royaume‑Uni. À titre de contrôleur pour l’Amérique du Nord, M. Rae rendait compte au vice-président, Finances, de Weir Canada, lequel rendait à son tour compte au directeur divisionnaire des finances pour le Royaume‑Uni.
+[4] Le salaire de base que recevait M. Rae comme contrôleur pour l’Amérique du Nord était pratiquement le même que celui qu’il gagnait chez son employeur précédent. Cependant, le droit à une prime dont il bénéficiait dans le cadre de son nouveau poste pouvait atteindre jusqu’à concurrence de 30 pour 100 de son salaire de base. Cet avantage constituait un aspect important de l’offre de Weir à M. Rae. La réserve de primes était tributaire de la rentabilité de l’entreprise. Avant d’accepter l’offre, M. Rae a demandé des garanties et une preuve écrite du fait que la prime maximale de 30 pour 100 avait été payée aux employés de Weir Canada admissibles à la réserve de primes au cours de chacune des trois années précédentes, parce que l’entreprise avait atteint ou dépassé les objectifs financiers fixés dans le cadre du régime de primes.
+[5] Monsieur Rae a accepté le poste de contrôleur pour l’Amérique du Nord. Il y a eu une certaine période de chevauchement et de transition pendant laquelle son prédécesseur, qui devait prendre sa retraite, était présent.
+[6] Très peu de temps après son arrivée comme contrôleur chez Weir Canada, M. Rae a commencé à éprouver de graves préoccupations au sujet d’irrégularités financières dans les états financiers de la société canadienne. Je dois préciser que rien ne permet de penser que la preuve a été faite à l’appui des allégations relatives à des irrégularités financières formulées par M. Rae, ni même qu’elles ont été soulevées ailleurs qu’au sein du groupe de sociétés, et il est inutile que je tire une quelconque conclusion à cet égard pour résoudre le litige qui oppose M. Rae à l’Agence du revenu du Canada (l’« ARC »). Il suffit que les préoccupations de M. Rae – lequel, selon moi, était véritablement inquiet de la situation et a agi de bonne foi pendant toute l’affaire – fussent manifestement à l’origine de l’échange de demandes, de documents et, en définitive, d’argent, de libérations et de comptes rendus entre lui, son employeur – Weir Canada –, Weir North America et The Weir Group PLC.
+[7] Monsieur Rae était grandement préoccupé par le fait que plusieurs éléments n’allaient pas figurer dans les états financiers de Weir Canada, contrairement aux principes comptables généralement reconnus au Canada (les « PCGR »), aux principes commerciaux habituels, au droit fiscal canadien applicable et aux propres politiques du groupe de sociétés Weir. Selon M. Rae, ces préoccupations visaient des sommes totalisant des millions de dollars et constituaient un pourcentage appréciable des profits annuels de la division. Il a communiqué ses préoccupations à ses supérieurs, mais il se sentait obligé de se conformer au traitement proposé en raison de la pression exercée par ces derniers. M. Rae était certain que cette façon de faire constituerait un manquement à ses obligations professionnelles et il a clairement précisé qu’il n’agirait pas ainsi.
+[8] Si ces éléments étaient traités comme le souhaitait la direction, les cadres supérieurs, y compris M. Rae, recevraient d’importantes primes. S’ils étaient plutôt traités comme M. Rae le jugeait approprié, les primes à la direction, dont la sienne, seraient considérablement moins intéressantes. Ces préoccupations ont amené M. Rae à conclure que la société Weir Canada lui avait fait de graves assertions inexactes pour l’inciter à se joindre à elle comme contrôleur.
+[9] Monsieur Rae est un homme prudent et circonspect. Avant de faire part de ses préoccupations au vice-président, Finances, qui, croyait‑il, faisait partie du problème, M. Rae avait obtenu une autre offre d’emploi à titre de contrôleur auprès d’une autre société canadienne pour un salaire de base presque identique, mais avec une possibilité de prime moindre. Il était disposé à accepter ce poste si Weir Canada ne réglait pas à sa satisfaction ses préoccupations relatives aux états financiers. L’offre écrite de cet employeur éventuel est datée du 20 mars 2007.
+[10] Le lendemain, M. Rae a tenté de fixer une rencontre avec le vice-président, Finances. Dans son courriel, il mentionne les graves préoccupations que lui causent les pratiques comptables de la société et le fait qu’il subit une tension en raison d’une [TRADUCTION] « culture de l’entreprise singulière qu’il ne m’a jamais auparavant été donné de rencontrer ». Il y précise en outre qu’à titre de contrôleur, il lui incombe de se conformer aux exigences de la profession de comptable agréé et des codes de conduite de Weir relatifs aux renseignements financiers.
+[11] Le vice-président, Finances, n’a pas répondu à ce courriel. M. Rae lui a demandé des explications et ils se sont rencontrés le lendemain. Le vice-président, Finances, a dit à M. Rae qu’il serait congédié. Il s’est avéré que cette décision devait être approuvée par le directeur divisionnaire des finances pour le Royaume‑Uni, mais cette approbation n’a pas été donnée immédiatement. M. Rae a continué de discuter de ses préoccupations avec le contrôleur partant à la retraite et le directeur divisionnaire des finances pour le Royaume‑Uni.
+[12] Le 2 avril 2007, on a demandé à M. Rae de prendre un congé payé par la société pendant lequel cette dernière vérifierait les points qu’il avait soulevés. La lettre à cet effet ajoutait : [TRADUCTION] « Si, au cours des six semaines suivant le 13 avril 2007 (jusqu’au 25 mai 2007), l’enquête n’est pas terminée et que vous choisissez de démissionner, l’entreprise vous remettra l’indemnité de départ mentionnée dans votre lettre d’offre. » La lettre d’offre d’emploi prévoyait que : [TRADUCTION] « Si la société doit procéder à un réaménagement de ses effectifs et se voit dans l’obligation de mettre fin à votre emploi sans motif, vous aurez droit à un préavis raisonnable ou à une indemnité de préavis pour chaque année de service, à tout le moins pour une période de six (6) mois. Dans tous les cas, vous recevrez l’indemnité minimale que prévoient les normes du travail dans votre province d’emploi. »
+[13] Le 13 avril 2007, M. Rae a accepté l’offre d’emploi que lui avait présentée l’autre société et il a donné sa démission à Weir Canada.
+[14] À cette même date, l’avocat spécialisé en droit du travail de M. Rae a envoyé à Weir Canada une lettre selon laquelle son client avait fait l’objet d’un congédiement déguisé et demandait un paiement équivalant à 12 mois de salaire, une somme supplémentaire de 50 000 $ correspondant à ce que M. Rae aurait reçu dans le cadre de son emploi antérieur stable ainsi que les frais juridiques. On n’a pas satisfait à ces demandes et, le 25 juillet 2007, l’avocat de M. Rae a informé l’avocat externe de Weir Canada que M. Rae allait dorénavant s’occuper de son propre dossier. Le 1er août, l’avocat de Weir Canada a écrit une brève lettre à M. Rae pour lui demander de communiquer avec lui afin de discuter de la résolution de l’affaire. Le lendemain, M. Rae a répondu que, si Weir Canada respectait son contrat d’emploi et lui payait immédiatement six mois de salaire, il n’aurait aucun intérêt à donner suite à l’allégation de congédiement déguisé. L’avocat de Weir Canada a promptement répondu que, comme M. Ray n’avait pas été congédié, mais avait plutôt donné sa démission, il ne pouvait exiger le paiement de six mois mentionné dans le contrat d’emploi. On avait antérieurement signalé à M. Rae qu’il avait donné sa démission le 13 avril, soit un jour avant la période de six semaines suivant le 13 avril au cours de laquelle il pouvait démissionner si l’enquête interne n’était pas terminée et avoir droit au paiement de six mois dont il était question dans la lettre du 2 avril l’informant qu’il était en congé payé.
+[15] Rien de plus n’a été fait de part et d’autre pour donner suite à l’allégation de congédiement déguisé de M. Rae. Ce dernier paraît avoir démissionné et accepté un nouvel emploi un jour trop tôt pour avoir droit au paiement de six mois qu’on lui avait offert au moment de l’informer qu’il était en congé payé. Il n’a pas été congédié sans motif dans le cadre d’un réaménagement des effectifs de Weir Canada et il n’avait pas droit au préavis de six mois mentionné dans son offre d’emploi. M. Rae a commencé son nouvel emploi au même salaire de base immédiatement après sa démission de Weir Canada, ce qui a grandement limité les dommages directs qu’il aurait pu subir, sous réserve notamment des différences touchant les primes et d’autres programmes d’avantages sociaux.
+[16] Le 8 août, M. Rae a ensuite adressé une lettre au président du comité de vérification, au directeur des finances du groupe et au directeur de la vérification interne chez The Weir Group PLC. L’exemplaire de sa lettre et des pièces qui y étaient jointes a été livré par messager le 15 août 2007. Dans sa lettre, il expose à nouveau ses préoccupations en détail et il résume les représailles que Weir Canada a exercées contre lui. Il fait valoir que ses actes étaient protégés par la Public Interest Disclosure Act (la « PIDA ») du Royaume‑Uni, laquelle a notamment pour effet de protéger les dénonciateurs qui font état de leurs préoccupations concernant des irrégularités financières. Il mentionne ensuite les lignes directrices relatives à la PIDA publiées par la Financial Services Authority (la « FSA ») du Royaume‑Uni, organisme qui réglemente les services financiers et les marchés dans ce pays. Il signale en outre que les divulgations pour lesquelles les dénonciateurs bénéficient de la protection offerte par la PIDA peuvent expressément viser des actes et des omissions qui ont lieu ailleurs qu’au Royaume‑Uni. Il poursuit en renvoyant à plusieurs occasions aux lignes directrices de la FSA pour affirmer, d’une part, que cet organisme considérerait comme grave tout élément permettant de croire qu’une entreprise a agi au détriment d’un travailleur, parce que celui‑ci a fait une divulgation protégée au sujet de questions relevant de la FSA et, d’autre part, que cette conduite pourrait mettre en doute l’aptitude et l’intégrité que doivent posséder l’entreprise et ses administrateurs suivant les dispositions sur les qualités nécessaires prévues par les mesures législatives de réglementation applicables.
+[17] Dans sa lettre à The Weir Group PLC exposant ses préoccupations liées aux irrégularités financières, M. Rae renvoie également aux codes de conduite de l’entreprise Weir, aux PCGR, au code de déontologie de l’Institut des comptables agréés de l’Ontario, aux dispositions du Code criminel portant sur la fraude et à la Loi. Il se plaint de ne pas avoir reçu son indemnité de six mois, mais il reconnaît avoir donné sa démission un jour trop tôt pour y avoir droit. Il termine sa lettre en demandant à The Weir Group PLC de lui faire parvenir une réponse au plus tard à la mi‑septembre quant à l’issue de l’enquête menée au sujet de ses préoccupations et de lui confirmer que des mesures disciplinaires appropriées ont été prises à l’endroit des contrevenants. À défaut de recevoir une telle réponse, il menace de faire part de ses préoccupations directement à la FSA.
+[18] Le 22 août, le président du comité de vérification a écrit à M. Rae pour confirmer que le secrétaire général du groupe, un avocat, menait une enquête avec l’aide du personnel chargé des vérifications internes. Le même jour, le secrétaire général du groupe a également envoyé une lettre à cet effet à M. Rae. Il a à nouveau écrit à M. Rae le 3 septembre pour lui demander s’il lui était possible de le rencontrer le samedi après‑midi et le dimanche suivant s’il prenait un vol à destination de Toronto. Il a écrit à M. Rae le lendemain pour confirmer leur rencontre du samedi et pour lui proposer un ordre du jour qui se terminait avec le point suivant : [TRADUCTION] « droit aux termes du contrat/réclamations contre la société ».
+[19] À cette rencontre du samedi, M. Rae a présenté au secrétaire général du groupe un résumé d’une page de sa réclamation financière intitulé [TRADUCTION] « Réclamation en responsabilité civile délictuelle – Dommages‑intérêts pour assertion négligente et inexacte ». Il y réclamait notamment les sommes suivantes :
+(i) les primes et autres sommes qu’il aurait reçues de son ancien employeur s’il n’avait pas accepté l’offre de Weir Canada;
+(ii) les frais juridiques et autres qui découlent de son congédiement déguisé par Weir Canada ou qui ont un lien avec ce congédiement;
+(iii) les frais engagés pour limiter ses pertes, qui comprennent la différence de salaire d’un an entre le poste chez Weir Canada et son nouveau poste ainsi que les sommes engagées relativement à son nouvel emploi.
+[20] Les sommes énumérées totalisaient 166 000 $. Il réclamait en outre dans sa liste une somme non précisée au titre de [TRADUCTION] « dommages‑intérêts majorés et punitifs » liés à la façon dont le groupe Weir avait traité [TRADUCTION] « l’ensemble du processus touchant l’allégation de congédiement déguisé, la PIDA, la FSA et l’ARC ».
+[21] Le lendemain, M. Rae a à nouveau rencontré le secrétaire général du groupe. Il a alors été convenu qu’une somme de 160 000 $ serait versée à M. Rae. Ce jour‑là, un mémoire d’entente a été signé par M. Rae et par Weir North America Inc. à titre d’employeur. Il a été signé par un dirigeant de Weir Canada, Inc., pour le compte de l’employeur identifié comme Weir North America Inc. Les énonciations précisaient que M. Rae avait démissionné de son emploi et que l’entente réglait toutes les questions découlant de l’emploi de M. Rae et de la cessation de cet emploi. Parallèlement, M. Rae a signé une quittance totale et définitive en faveur de Weir North America Inc., à titre d’employeur, ainsi que de ses sociétés affiliées et de ses filiales. En outre, au cours de cette même rencontre, le secrétaire général du groupe a remis une confirmation écrite selon laquelle The Weir Group PLC informerait M. Rae au plus tard le 31 décembre 2007 de l’issue de l’enquête relative à ses allégations et des mesures prises ou proposées par suite de cette enquête.
+[22] J’ignore pourquoi Weir North America Inc. était identifiée comme l’employeur au lieu de Weir Canada, le véritable employeur de M. Rae. J’ignore quand la somme de 160 000 $ a été payée, et même si elle a été payée par Weir North America Inc., conformément au mémoire d’entente, ou par Weir Canada. Je sais par contre que Weir Canada a délivré un feuillet T4A pour 2007 à M. Rae relativement à la somme de 160 000 $ et que ce dernier a divulgué l’ensemble de ce feuillet dans sa déclaration de revenus pour l’année.
+[23] Vers la fin du mois de décembre, M. Rae a à nouveau écrit au secrétaire général du groupe pour lui rappeler de lui communiquer, à la fin du mois comme prévu ou dans un nouveau délai fixé au 15 janvier 2008, les résultats de l’enquête et les mesures prises en conséquence. Dans cette lettre, M. Rae rappelle à son destinataire qu’il a accepté de donner une quittance en contrepartie du paiement de 160 000 $ et de la réalisation d’une enquête approfondie par The Weir Group PLC et de l’engagement qu’on lui remette un résumé des mesures prises ou proposées. Il ajoute que, s’il ne reçoit pas une lettre signée faisant état de l’issue de l’enquête, il conclura que The Weir Group PLC n’a pas pris ses allégations au sérieux, ce qui entraînerait un manquement à leur entente et lui donnerait le droit de poursuivre l’affaire auprès de la FSA.
+[24] Au début du mois de janvier, M. Rae a reçu du secrétaire général du groupe un rapport écrit énumérant les conclusions de l’enquête et les mesures prises en conséquence. Notamment, le vice-président, Finances, de Weir Canada avait été remplacé et ne travaillait plus pour la société. Un certain nombre des mesures correctives suggérées par M. Rae dans sa lettre initiale à The Weir Group PLC avaient également été mises en oeuvre.
+II. Le droit
+[25] Le sous-alinéa 56(1)a)(ii) de la Loi prévoit que les allocations de retraite doivent être incluses dans le calcul du revenu. Selon la définition donnée au paragraphe 248(1) de la Loi, l’expression « allocation de retraite » englobe la « somme […] reçue […] à l’égard de la perte […] d’une charge ou d’un emploi, qu’elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d’un tribunal compétent. »
+III. Analyse
+[26] La Couronne fait valoir que la somme de 160 000 $ a intégralement été reçue à l’égard de la perte de l’emploi de M. Rae parce que, n’eût été cette perte d’emploi, la somme n’aurait pas été payée. Elle soutient donc que le paiement visait à indemniser M. Rae pour la perte de son emploi.
+[27] Monsieur Rae avance plutôt la thèse suivante :
+(i) aucune partie de cette somme n’a été payée à l’égard d’une perte d’emploi, car il a donné sa démission après avoir fait l’objet d’un congédiement déguisé, et il invoque la décision Ahmad v. The Queen, 2002 DTC 2065, pour affirmer qu’une allégation de congédiement déguisé ne peut donner lieu à une allocation de retraite puisque l’emploi se poursuit (voir le paragraphe 20 de la décision du juge Miller);
+(ii) cette somme a été payée en règlement de sa réclamation en responsabilité civile délictuelle fondée sur l’assertion inexacte expresse faite par Weir Canada quant à son rendement financier pour les années antérieures et sur l’assertion inexacte implicite de la société selon laquelle, notamment, on ne s’attendait pas à ce qu’il participe à des irrégularités financières;
+(iii) une partie de la somme a été payée pour sa renonciation à son droit de faire part de ses préoccupations au Royaume‑Uni et d’y demander des mesures de redressement sous le régime de la PIDA pour avoir subi un préjudice et des représailles, à savoir qu’il avait été démis de ses fonctions et escorté jusqu’à la porte d’entrée – tout en demeurant un employé en congé payé – en raison de ses actes de dénonciation à l’interne, lesquels constituaient des divulgations protégées sous le régime de la PIDA.
+[28] Après avoir entendu et examiné l’ensemble de la preuve, je conclus que la somme de 160 000 $ a été payée à M. Rae en partie à l’égard de la perte de son emploi et en partie à l’égard tant de sa réclamation en responsabilité civile délictuelle fondée sur les assertions inexactes qui lui ont été faites avant la conclusion du contrat d’emploi que de sa réclamation fondée sur la législation du Royaume-Uni en matière de protection relative aux dénonciations. Il aurait eu droit à ces deux recours même si son emploi avait continué et s’il n’avait pas donné sa démission à la suite de ce qu’il allègue être son congédiement déguisé. Les sommes versées à l’égard de ces deux réclamations n’auraient pas constitué une allocation de retraite. Il s’agit donc de décider quelle partie du paiement de 160 000 $ a été versée à l’égard de la perte de son emploi.
+[29] Les assertions expresses et implicites faites dans le cadre de la négociation d’un contrat d’emploi et avant la passation de celui‑ci peuvent donner naissance à une responsabilité délictuelle indépendamment du contrat : Queen c. Cognos Inc., [1993] 1 R.C.S. 87. Le juge Miller a examiné cet arrêt de la Cour suprême du Canada dans la décision Grant c. La Reine, 2008 CCI 163, 2008 DTC 3035, où la Cour devait se demander si tout ou partie d’une allocation de retraite n’avait pas en réalité été versée en règlement d’une réclamation fondée sur une assertion inexacte. Je fais miens les propos du juge Miller lorsqu’il écrit ce qui suit dans son analyse : « En effet, si les déclarations faites avant la signature du contrat portaient sur quelque chose qui n’a pas été repris dans le contrat de travail, alors il pourrait y avoir une action distincte ». Le juge Miller a conclu que ce n’était pas le cas dans l’affaire dont il était saisi, puisque la période de cinq ans visée par l’assertion était prévue par le contrat d’emploi. Dans le cas de M. Rae, les assertions expresses relatives aux résultats financiers obtenus par la société au cours des trois années antérieures, lesquelles avaient incité M. Rae à croire qu’il pouvait s’attendre à ce que la société continue de payer les primes maximales, ne faisaient pas partie du contrat d’emploi et il était légitime pour le secrétaire général du groupe de tenter de régler la réclamation fondée sur les assertions inexactes négligentes que lui adressait M. Rae.
+[30] Si M. Rae a fait l’objet d’un congédiement déguisé, comme il l’avançait aussi dans la liste écrite qu’il a remise au secrétaire général du groupe, ce n’est pas sa démission de son emploi qui constituait ce congédiement, mais plutôt les actes de Weir Canada, qui a notamment décidé de le retenir comme employé avec plein salaire, tout en le démettant de ses fonctions et en lui refusant l’accès aux locaux. Ces mesures ont été prises avant la démission de M. Rae. Selon la Cour d’appel de l’Ontario, dans l’arrêt Mifsud v. MacMillan Bathurst Inc. (1989), 70 O.R. (2d) 701, il est habituellement légitime de s’attendre à ce qu’un employé victime d’un congédiement déguisé auquel on a proposé le même salaire à des conditions analogues accepte le poste offert afin de limiter les dommages pendant une période de préavis raisonnable ou jusqu’à ce qu’il trouve un emploi acceptable ailleurs. Les cas où le nouveau travail est humiliant de même que ceux où les relations personnelles sont acrimonieuses font toutefois exception.
+[31] Dans la décision Ahmad, le juge Miller a conclu que, comme le congédiement déguisé, par définition, évoque l’absence réelle de perte d’emploi, il ne pouvait considérer qu’un paiement au titre d’un tel congédiement versé pendant la période d’emploi continu constituait une allocation de retraite.
+[32] Il paraît ressortir des décisions publiées que les sommes obtenues par les dénonciateurs sous le régime de la PIDA au Royaume-Uni sont accordées à l’égard de représailles et d’actes consécutifs à la dénonciation, qu’il s’ensuive ou non une cessation d’emploi. Dans le cas de M. Rae, ces actes et représailles comprenaient le fait d’être escorté jusqu’à la porte d’entrée de l’immeuble pendant les heures de bureau tandis qu’il était démis de toutes ses fonctions et payé pour rester oisif. Tout cela s’est produit avant sa démission.
+[33] J’estime que la présente affaire est régie par l’approche qu’a suivie la Cour d’appel fédérale dans l’arrêt Forest c. La Reine, 2007 CAF 362, 2008 DTC 6506, et par les principes qui y sont énoncés. Dans cet arrêt, un avocat travaillant pour une municipalité avait été déclaré excédentaire à la suite de la fusion d’un certain nombre de municipalités voisines et on lui avait attribué un nouveau poste. Me Forest a déposé un recours en destitution par suite du reclassement, ce qui a donné lieu à un certain nombre d’instances connexes. Il a en outre affirmé que ses directeurs, à cause des recours qu’il avait intentés, avaient commencé à le harceler et il a introduit une poursuite judiciaire fondée sur le harcèlement allégué. Ultérieurement, un règlement est intervenu dans le cadre duquel Me Forest a reçu la somme de 165 000 $ en contrepartie de sa démission de son emploi pour la ville et d’une quittance complète pour toutes les actions liées à son emploi.
+[34] Compte tenu des faits de l’affaire Forest, la Cour d’appel fédérale a conclu que la Cour canadienne de l’impôt aurait dû effectuer une ventilation de la somme reçue afin de déterminer la portion payée pour que Me Forest quitte son emploi et celle visant la réclamation fondée sur le harcèlement, puisque le paiement avait notamment pour objet d’obtenir la démission de Me Forest. De même, dans le cas de M. Rae, une partie du paiement a été versée pour obtenir une quittance relative à son allégation de congédiement déguisé, qui a mené à sa démission.
+[35] Dans l’arrêt Forest, la Cour d’appel fédérale s’est exprimée en ces termes au paragraphe 25 :
+Cependant, l’affaire Schwartz nous enseigne aussi qu’à compter du moment où il a été démontré qu’un paiement a une double vocation, la barre pour en établir la répartition ne doit pas être trop élevée. Comme l’explique le juge La Forest (Schwartz, supra, au para. 41), la partie qui a le fardeau (dans cette affaire, le ministre) :
+[…] ne devrait pas être tenu de présenter, dans tous les cas où le litige porte sur la répartition d’une somme globale, un élément de preuve particulier équivalant à une expression explicite de l’intention des parties concernées à cet égard. Il doit cependant y avoir une certaine preuve, quelle qu’elle soit, qui permettra au juge de première instance de déduire, selon la prépondérance des probabilités, quelle partie de la somme globale était destinée à indemniser d’un préjudice donné.
+[36] Dans l’arrêt Forest, la Cour d’appel fédérale a établi la partie du paiement liée à la perte d’emploi à la lumière des sommes que la ville avait versées à ses autres employés excédentaires, soit un mois de salaire pour chaque année de service, avec un minimum de trois mois.
+[37] En l’espèce, je signale qu’au moment où le règlement est intervenu avec le secrétaire général du groupe, on ne faisait pas grand cas de l’allégation de congédiement déguisé fondée sur le droit du travail. Les discussions entre les avocats étaient interrompues. L’avocat de l’employeur a affirmé que M. Rae avait démissionné un jour trop tôt pour avoir droit à l’indemnité de six mois. M. Rae a reconnu ce fait. Il occupait un nouveau poste rémunéré par le même salaire de base, sauf que sa prime maximale éventuelle était trois fois moins élevée. Ses pertes ont été grandement limitées puisque, dans le pire des cas, son manque à gagner risquait d’atteindre environ 30 000 $ par année au titre de la prime. M. Rae n’a travaillé pour Weir Canada, Inc. que pendant quelques mois.
+[38] Par ailleurs, la lettre fondée sur la PIDA que M. Rae a fait parvenir au président du comité de vérification de la société mère cotée en bourse au Royaume‑Uni a promptement fait l’objet d’une réponse. Le secrétaire général du groupe, lequel était également avocat et administrateur de la société, a rapidement organisé un déplacement d’un weekend à Toronto afin de négocier sans délai un règlement définitif. Comme il s’agissait alors de l’époque des Enron, WorldCom et Sarbanes‑Oxley, cette célérité n’est guère étonnante. Cela me donne à penser qu’il est raisonnable de supposer qu’un des principaux objectifs du règlement visait à traiter à l’interne, dans la mesure du possible, les allégations d’irrégularités financières formulées par M. Rae et les actes préjudiciables dont ce dernier avait été victime par la suite.
+[39] Je ne crois pas que M. Rae a fait ses menaces relatives à la PIDA et à la FSA au Royaume-Uni en vue de faire également avancer son allégation de congédiement déguisé au Canada. En effet, dans cette éventualité, il lui aurait été inutile d’insister pour obtenir des renseignements sur l’issue de l’enquête et les mesures prises subséquemment en plus de son paiement, et encore moins d’effectuer un suivi de ces questions et d’être disposé à s’adresser à la FSA, puisqu’il avait déjà reçu le paiement exigé.
+[40] Au cours de leurs rencontres du weekend, le secrétaire général du groupe ne s’est pas arrêté sur chacune des sommes distinctes totalisant le montant de la réclamation et figurant sur la liste présentée par M. Rae. Je n’accepte pas que, dans ces circonstances, le secrétaire général du groupe ait tenu compte de chaque somme énumérée dans cette liste plutôt que des sommes non précisées qui y étaient réclamées au titre des actes de représailles ou des assertions inexactes et délictuelles tombant sous le coup de la PIDA. J’ai nettement l’impression que certains des éléments énumérés par M. Rae n’auraient pas été susceptibles de dédommagement dans le cadre d’une action pour congédiement déguisé.
+[41] Comme il est mentionné plus haut, M. Rae a en grande partie limité ses pertes découlant de la cessation de son emploi chez Weir Canada lorsqu’il a accepté un poste ailleurs pour le même salaire de base. Son seul manque à gagner consisterait en une somme maximale de 30 000 $ au titre de la prime annuelle. Dans l’éventualité où M. Rae aurait réussi à établir son droit à un préavis de six mois dans le cadre d’une action pour congédiement déguisé, il faudrait allouer, sur le paiement de 160 000 $, une somme de 15 000 $ à sa perte d’emploi pour sa prime réduite. Il y avait également un manque à gagner découlant de certains des autres avantages liés à son nouvel emploi. De plus, un tribunal ontarien aurait pu lui accorder une somme supplémentaire à titre d’indemnité pour la façon dont on a mis fin à son emploi. Pour ces raisons, je conclus qu’une partie du paiement, équivalant à 45 000 $, constituait une allocation de retraite.
+[42] Le solde de 115 000 $ versé à M. Rae doit à juste titre être attribué à la quittance relative à ses autres réclamations. Il paraît ressortir des décisions publiées en matière de redressement touchant les dénonciations sous le régime de la PIDA auxquelles on m’a renvoyé que les réclamations de ce genre peuvent, à elles seules, donner lieu à des dommages‑intérêts de cette importance.
+[43] Je tiens à ajouter, en passant, qu’il semble étrange en l’espèce que l’intimée ait qualifié d’allocation de retraite un certain nombre de sommes versées à titre de remboursement de dépenses.
+[44] L’appel du contribuable est accueilli en partie, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que M. Rae a reçu en 2007 une allocation de retraite de seulement 45 000 $.
+Signé à Ottawa, Canada, ce 8e jour de mars 2010.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 25e jour de mai 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 130
+NO DU DOSSIER DE LA COUR : 2008-3223(IT)G
+INTITULÉ : Joe Rae c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 8 mars 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

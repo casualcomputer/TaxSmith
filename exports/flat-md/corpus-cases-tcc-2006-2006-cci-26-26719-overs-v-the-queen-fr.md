@@ -1,0 +1,235 @@
+---
+title: "Overs v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26719/index.do"
+last_modified: "2006-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 26"
+citation2: ""
+neutral_citation: "2006 CCI 26"
+decision_date: "2006-01-13"
+language: "fr"
+item_id: "26719"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3400
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:58:44.375000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "48c7c86daa528440d73be90cf2e08131b29bbd53b3068cc6c53d5945a1110ca4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Overs v. The Queen
+
+- Citation: 2006 CCI 26
+- Decision date: 2006-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3400, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Overs v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-13
+Référence neutre
+2006 CCI 26
+Numéro de dossier
+2003-1989(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1989(IT)G
+ENTRE :
+MICHAEL OVERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Toronto (Ontario), le 18 mai 2005
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocats de l'appelant :
+Me Roger Taylor et Me Michele Anderson
+Avocate de l'intimée :
+Me Patricia Lee
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont admis avec dépens et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de janvier 2006.
+Le juge Little
+Traduction certifiée conforme ce 4e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI26
+Date : 20060113
+Dossier : 2003-1989(IT)G
+ENTRE :
+MICHAEL OVERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS :
+[1] L'appel a été entendu à Toronto, en Ontario, en mai 2005.
+[2] Il s'agit de savoir s'il est possible d'appliquer la règle générale anti-évitement (la « RGAÉ » ), qui figure à l'article 245 de la Loi de l'impôt sur le revenu (la « Loi » ), pour refuser la déduction demandée par l'appelant à l'égard des frais financiers et des frais d'intérêts engagés à l'égard d'un prêt consenti par la Banque de Montréal à l'épouse de l'appelant.
+[3] Les parties ont établi et déposé un exposé conjoint des faits. Le document se lit comme suit :
+[TRADUCTION]
+1. L'appelant résidait au Canada tout au long des années d'imposition 1999 et 2000.
+2. Lilian Overs résidait au Canada et était l'épouse de l'appelant tout au long des années d'imposition 1999 et 2000.
+3. Tesari Holdings Limited ( « THL » ) a été constituée en personne morale le 21 septembre 1981. En tout temps, l'appelant a été le président et le seul administrateur de THL. L'exercice de THL se termine le 30 septembre de chaque année civile.
+4. Le 28 septembre 1999, l'appelant détenait la totalité des actions ordinaires de THL, soit 1 910 000 actions ordinaires.
+5. Au 20 septembre 1998, l'appelant devait à THL 2 267 233 $ (le « prêt à l'actionnaire » ). Le produit du prêt à l'actionnaire n'avait pas été utilisé par l'appelant afin de tirer un revenu d'une entreprise ou d'un bien.
+6. Si l'appelant ne remboursait pas le prêt à l'actionnaire au plus tard le 30 septembre 1999, le montant du prêt à l'actionnaire serait inclus dans le calcul du revenu de l'appelant pour l'année d'imposition 1998 en vertu du paragraphe 15(2) de la Loi de l'impôt sur le revenu.
+7. Le 28 septembre 1999, les ententes écrites suivantes ont été conclues :
+(i) Lilian Overs a accepté une offre effectuée par la Banque de Montréal à l'égard d'une facilité de crédit de 2 300 000 $ établie pour elle. La Banque de Montréal avait écrit à Lilian Overs le 21 septembre 1999 pour lui offrir la facilité de crédit de 2 300 000 $ et confirmer que le prêt serait garanti au moyen d'un billet à ordre souscrit par elle, d'une garantie de THL et d'un nantissement en espèces de 2 300 000 $ de THL.
+(ii) Conformément à une entente écrite datée du 28 septembre 1999, l'appelant a accepté de vendre à Lilian Overs 130 163 de ses actions ordinaires de THL pour 2 300 000 $, la vente devant avoir lieu le 29 septembre 1999. Ce prix correspondait à la juste valeur marchande des 130 163 actions ordinaires de THL à ce moment-là.
+(iii) THL a fourni une garantie à la Banque de Montréal, pour la dette de Lilian Overs, jusqu'à concurrence de 2 300 000 $ (la « garantie » ) et un contrat de sûreté à l'égard d'espèces données en nantissement, de dépôts à terme, de bons du Trésor, etc. (le « contrat de sûreté » ).
+(iv) Conformément à une entente écrite datée du 28 septembre 1999, Lilian Overs a accepté de payer à THL des frais annuels de 11 500 $ en contrepartie du fait que THL fournissait le contrat de sûreté et la garantie à la Banque de Montréal.
+8. Les opérations suivantes ont eu lieu le 29 septembre 1999 :
+(i) Lilian Overs a emprunté 2 300 000 $ à la Banque de Montréal, a signé un billet à ordre du même montant payable à la Banque de Montréal et a remis un chèque de 2 300 000 $ à l'appelant.
+(ii) L'appelant a transféré 130 163 des actions ordinaires de THL qu'il détenait à Lilian Overs et, après avoir encaissé le chèque de Lilian Overs dans son compte, il a remis un chèque de 2 300 000 $ à THL pour payer le prêt qui lui avait été consenti à titre d'actionnaire.
+(iii) Après avoir encaissé le chèque de l'appelant, THL a utilisé les 2 300 000 $ pour acheter des dépôts à terme émis par la Banque de Montréal, lesquels ont été donnés en garantie pour les obligations qu'elle avait en vertu du contrat de sûreté et de la garantie.
+9. En produisant sa déclaration de revenus pour l'année d'imposition 1999, l'appelant n'a pas choisi de soustraire le transfert de 130 163 actions ordinaires de THL à Lilian Overs à l'application des dispositions du paragraphe 73(1) de la Loi de l'impôt sur le revenu.
+10. Lilian Overs est devenue la propriétaire inscrite de 130 163 actions ordinaires de THL le 29 septembre 1999 et elle continue d'être la propriétaire inscrite de ces actions.
+11. Au cours de l'année d'imposition 1999, les intérêts payés à la Banque de Montréal à l'égard du prêt se sont élevés à 60 758 $.
+12. Au cours de l'année d'imposition 2000, les intérêts payés à la Banque de Montréal à l'égard du prêt se sont élevés à 153 395,83 $ et une commission de garantie de 11 500 $ a été versée à THL.
+13. Aucun dividende n'a été déclaré ou payé à l'égard des actions ordinaires de THL au cours des années d'imposition 1999 ou 2000.
+14. THL a déclaré un dividende de 162 000 $ à l'égard de ses actions ordinaires au cours de l'année d'imposition 2001. De ce dividende, un montant de 11 040 $ a été payé à Lillian Overs à l'égard de ses 130 163 actions ordinaires de THL et un montant de 13 800 $ (le montant majoré) a été inclus dans le revenu de Lilian Overs pour l'année d'imposition 2001.
+15. Dans le calcul de son revenu pour les années d'imposition 1999 et 2000, l'appelant a déduit les montants de 48 996 $ et de 164 305 $ respectivement, lesquels découlent des frais d'intérêts et de la commission de garantie payés à l'égard de l'emprunt effectué par Lilian Overs.
+16. Le ministre a refusé les montants que l'appelant a cherché à déduire dans le calcul de son revenu pour les années d'imposition 1999 et 2000, et l'appelant a déposé des avis d'opposition à l'encontre des cotisations établies par le ministre pour ces années-là.
+17. Le ministre a ratifié les cotisations et nouvelles cotisations de 1999 et de 2000 en se fondant sur les dispositions de l'article 245 de la Loi de l'impôt sur le revenu, soit la règle générale anti-évitement (la « RGAÉ » ).
+18. Dans l'appel, l'appelant soutient que les montants demandés sont déductibles, soit 60 758 $ pour l'année d'imposition 1999 et 164 896 $ pour l'année d'imposition 2000, étant donné qu'il s'agit de pertes découlant des actions de THL qui ont été transférées à son épouse, Lilian Overs, lesquelles pertes lui sont attribuables en application du paragraphe 74(1) de la Loi de l'impôt sur le revenu.
+B. LES QUESTIONS EN LITIGE :
+[4] Les questions en litige dans le présent appel sont les suivantes :
+(i) Les faits que le ministre a tenus pour acquis pour établir les nouvelles cotisations d'impôt à l'égard de l'appelant pour les années d'imposition 1999 et 2000 sont-ils suffisants pour justifier la cotisation de 1999 et celle de 2000?
+(ii) À titre subsidiaire, peut-on décrire à juste titre l'une des opérations effectuées par l'appelant relativement à la vente de 130 163 actions de THL à Lilian Overs en septembre 1999 comme une « opération d'évitement » au sens du paragraphe 245(3)?
+(iii) À titre subsidiaire encore, si l'une des opérations effectuées par l'appelant relativement à la vente de 130 163 actions de THL à Lilian Overs peut être décrite comme une « opération d'évitement » au sens du paragraphe 245(3), est-il raisonnable de considérer que cette opération n'entraîne pas directement ou indirectement d'abus dans l'application des dispositions de la Loi lue dans son ensemble?
+C. ANALYSE ET DÉCISION :
+[5] Le présent appel a été entendu le 18 mai 2005. À la fin de l'audience, j'ai pris l'affaire en délibéré, parce que je voulais examiner les motifs du jugement de la Cour suprême du Canada dans deux pourvois concernant l'application de la RGAÉ. On s'attendait à ce que la Cour suprême rende les arrêts prochainement.
+[6] Le 19 octobre 2005, la Cour suprême du Canada a prononcé les motifs du jugement dans l'affaire Hypothèques Trustco Canada c. Canada ( « Trustco Canada » ), [2005] 2 R.C.S. 601, et dans l'affaire Mathew c. Canada ( « Mathew » ), [2005] 2 R.C.S. 643. (Les décisions sont collectivement appelées « les décisions relatives à la RGAÉ » .)
+[7] Dans une lettre datée du 25 octobre 2005, j'ai demandé que les avocats des parties déposent un mémoire. Les avocats de l'appelant et l'avocate de l'intimée m'ont fourni des observations concernant les décisions relatives à la RGAÉ.
+[8] Voici le libellé de l'article 245 de la Loi :
+245(1) Les définitions qui suivent s'appliquent au présent article.
+« attribut fiscal » S'agissant des attributs fiscaux d'une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l'impôt ou l'autre montant payable par cette personne ou le montant qui lui est remboursable.
+« avantage fiscal » Réduction, évitement ou report d'impôt ou d'un autre montant payable en application de la présente loi ou augmentation d'un remboursement d'impôt ou d'un autre montant visé par la présente loi.
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+245(1.1) [Abrogé par 1988, chap. 55, art. 185(1).]
+245(2) En cas d'opération d'évitement, les attributs fiscaux d'une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d'une série d'opérations dont cette opération fait partie.
+245(3) L'opération d'évitement s'entend :
+a) soit de l'opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable;
+b) soit de l'opération qui fait partie d'une série d'opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable.
+245(4) Il est entendu que l'opération dont il est raisonnable de considérer qu'elle n'entraîne pas, directement ou indirectement, d'abus dans l'application des dispositions de la présente loi lue dans son ensemble - compte non tenu du présent article - n'est pas visée par le paragraphe (2).
+245(5) Sans préjudice de la portée générale du paragraphe (2), dans le cadre de la détermination des attributs fiscaux d'une personne de façon raisonnable dans les circonstances de façon à supprimer l'avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d'une opération d'évitement :
+a) toute déduction dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l'impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction ainsi que tout ou partie d'un revenu, d'une perte ou d'un autre montant peuvent être attribués à une personne;
+c) la nature d'un paiement ou d'un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l'application des autres dispositions de la présente loi peuvent ne pas être pris en compte.
+245(6) Dans les 180 jours suivant la mise à la poste d'un avis de cotisation, de nouvelle cotisation ou de cotisation supplémentaire, envoyé à une personne, qui tient compte du paragraphe (2) en ce qui concerne une opération, ou d'un avis concernant un montant déterminé en application du paragraphe 152(1.11) envoyé à une personne en ce qui concerne une opération, toute autre personne qu'une personne à laquelle un de ces avis a été envoyé a le droit de demander par écrit au ministre d'établir à son égard une cotisation, une nouvelle cotisation ou une cotisation supplémentaire en application du paragraphe (2) ou de déterminer un montant en application du paragraphe 152(1.11) en ce qui concerne l'opération.
+245(7) Malgré les autres dispositions de la présente loi, les attributs fiscaux d'une personne, par suite de l'application du présent article, ne peuvent être déterminés que par avis de cotisation, de nouvelle cotisation ou de cotisation supplémentaire ou que par avis d'un montant déterminé en application du paragraphe 152(1.11), compte tenu du présent article.
+245(8) Sur réception d'une demande présentée par une personne conformément au paragraphe (6), le ministre doit, dès que possible, après avoir examiné la demande et malgré le paragraphe 152(4), établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire ou déterminer un montant en application du paragraphe 152(1.11), en se fondant sur la demande. Toutefois, une cotisation, une nouvelle cotisation ou une cotisation supplémentaire ne peut être établie, ni un montant déterminé, en application du présent paragraphe que s'il est raisonnable de considérer qu'ils concernent l'opération visée au paragraphe (6).
+[9] Dans l'arrêt Trustco Canada, la juge en chef McLachlin et le juge Major, s'exprimant au nom de la Cour, ont dit ce qui suit au paragraphe 21 :
+[...] La RGAÉ, qui représente une mesure de dernier recours destinée à prévenir l'évitement fiscal abusif, ne devait pas créer de l'incertitude en matière de planification fiscale.
+[10] À l'alinéa 7i) de la réponse à l'avis d'appel, l'intimée soutient qu'il y a trois avantages fiscaux découlant des opérations qui ont eu lieu les 20 et 29 septembre 1999 :
+(i) le premier avantage fiscal est que l'appelant, en remboursant le prêt à l'actionnaire, a évité que le montant de ce prêt soit inclus dans son revenu;
+(ii) le deuxième avantage fiscal est qu'en ne choisissant pas de soustraire l'opération à l'application du paragraphe 73(1), l'appelant a évité d'avoir à payer de l'impôt relativement au gain en capital qui aurait découlé de la disposition des actions;
+(iii) le troisième avantage fiscal est qu'en raison du paragraphe 74.1(1), l'appelant a obtenu le droit de demander des déductions pour les frais d'intérêts et les frais financiers relatifs à l'argent que son épouse a emprunté pour lui permettre de rembourser le prêt à l'actionnaire.
+[11] Dans l'arrêt Trustco Canada, la Cour suprême a également dit ce qui suit au paragraphe 17 concernant l'application de la RGAÉ :
+[17] L'application de la RGAÉ comporte trois étapes. La première étape consiste à déterminer s'il existe un « avantage fiscal » découlant d'une « opération » au sens des par. 245(1) et (2). La deuxième étape consiste à déterminer si l'opération constitue une opération d'évitement visée par le par. 245(3), en ce sens qu'elle n'a pas été « principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable » . La troisième étape consiste à déterminer si l'opération d'évitement est abusive au sens du par. 245(4). Les trois conditions doivent être remplies pour que la RGAÉ permette de supprimer un avantage fiscal.
+I. Avantage fiscal
+[12] La Cour suprême a dit ce qui suit au paragraphe 19 de l'arrêt Trustco Canada :
+[19] Le paragraphe 245(1) définit l' « avantage fiscal » comme étant une « [r]éduction, [un] évitement ou [un] report d'impôt » ou une « augmentation d'un remboursement d'impôt ou d'un autre montant » visé par la Loi.
+[13] La Cour a poursuivi en disant ce qui suit au paragraphe 19 :
+La question de savoir s'il existe un avantage fiscal est une question de fait qui est d'abord tranchée par le ministre, et ensuite par les tribunaux, habituellement la Cour de l'impôt, dans le cadre d'un contrôle. [...]
+[14] La Cour suprême a dit ce qui suit au paragraphe 20 de l'arrêt Trustco Canada :
+[20] Dans les cas où une déduction est demandée à l'égard d'un revenu imposable, il est évident qu'il existe un avantage fiscal étant donné qu'une déduction entraîne une réduction d'impôt. Dans d'autres cas, il se peut que l'existence d'un avantage fiscal ne puisse être établie qu'au moyen d'une comparaison avec un autre mécanisme. Par exemple, la qualification d'un montant comme étant une rente plutôt qu'un salaire, ou comme étant un gain en capital plutôt qu'un revenu d'entreprise, donne lieu à un traitement fiscal différent. Dans ces cas, l'existence d'un avantage fiscal ne pourrait être établie qu'au moyen d'une comparaison entre différents mécanismes. Dans tous les cas, il faut déterminer si le contribuable a réduit, évité ou reporté un montant d'impôt payable en vertu de la Loi.
+[15] Dans la présente situation, il est évident que l'appelant a demandé qu'un montant soit déduit de son revenu imposable, c'est-à-dire qu'il a peut-être obtenu un avantage fiscal. Cependant, afin de déterminer s'il faut appliquer la RGAÉ, nous devons, comme la Cour suprême l'a souligné, suivre les deux étapes suivantes.
+II. Opération d'évitement
+[16] En traitant des opérations d'évitement, la Cour suprême a dit ce qui suit dans l'arrêt Trustco Canada :
+[21] La deuxième condition d'application de la RGAÉ est que l'opération qui génère l'avantage fiscal soit une opération d'évitement au sens du par. 245(3). Cette condition sert à soustraire à l'application de la RGAÉ les opérations ou séries d'opérations qui peuvent raisonnablement être considérées comme ayant été principalement effectuées pour un objet non fiscal. La plupart des avantages fiscaux demandés par les contribuables dans leurs déclarations annuelles échappent à l'application de la RGAÉ en raison du par. 245(3). La RGAÉ, qui représente une mesure de dernier recours destinée à prévenir l'évitement fiscal abusif, ne devait pas créer de l'incertitude en matière de planification fiscale.
+[22] Selon le par. 245(1), sont assimilés à une « opération » une convention, un mécanisme ou un événement. Le paragraphe 245(3) définit expressément l' « opération d'évitement » comme étant une opération, ou une opération faisant partie d'une série d'opérations, dont découle un avantage fiscal, « sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable » . [...]
+[17] À noter que la définition d' « opération d'évitement » comporte les mots suivants : « sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables - l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable » (non souligné dans l'original). Autrement dit, le juge de première instance doit apprécier les éléments de preuve pertinents et déterminer quelle interprétation de la preuve est la plus raisonnable.
+[18] Dans la présente situation, il est question de trois opérations :
+a) Opération visée par le paragraphe 15(2) de la Loi
+Le paragraphe 15(2) dispose que les prêts aux actionnaires ne seront pas inclus dans le revenu des actionnaires s'ils sont remboursés dans un délai d'un an.
+Compte tenu de la preuve qu'on m'a présentée, j'ai conclu que l'appelant avait suivi les règles énoncées au paragraphe 15(2), c'est-à-dire qu'il avait remboursé son prêt à l'actionnaire dans un délai d'un an et que le montant du prêt n'avait donc pas été inclus dans le calcul du revenu de l'appelant pour l'année.
+Selon moi, cette opération n'était pas une opération d'évitement. Par conséquent, le paragraphe 245(3) ne s'applique pas en ce qui concerne l'application du paragraphe 15(2).
+b) Application du paragraphe 73(1) de la Loi
+Le paragraphe 73(1) est une disposition déterminative qui prévoit le report des gains en capital réalisés au moment du transfert de biens en immobilisation entre des époux. Aux termes de cette disposition, les transferts de biens entre des époux seront effectués « en franchise d'impôt » - SAUF si les contribuables choisissent de soustraire l'opération à l'application du paragraphe 73(1).
+Il est évident que le sens ordinaire du paragraphe 73(1) est de faciliter le transfert de biens entre époux.
+Compte tenu de la preuve dont j'ai été saisi, j'ai conclu que l'appelant avait suivi les règles énoncées au paragraphe 73(1) de la Loi afin de faciliter le transfert du bien à son épouse.
+Selon moi, cette opération n'est pas une opération d'évitement. Par conséquent, le paragraphe 245(3) ne s'applique pas au transfert du bien de l'appelant à son épouse.
+c) Application du paragraphe 74.1(1) de la Loi
+Le paragraphe 74.1(1) dispose que si un particulier a transféré un bien à son époux, tout revenu tiré ou toute perte subie par l'époux du particulier à l'égard du bien est réputé être le revenu ou la perte du particulier effectuant le transfert. Cependant, si l'époux choisit de soustraire l'opération à l'application du paragraphe 73(1), il n'y aura pas d'attribution à la personne effectuant le transfert.
+Dans cette situation, le sens ordinaire du paragraphe 74.1(1) s'appliquerait et la perte subie à l'égard des opérations serait attribuée à l'appelant.
+Compte tenu de la preuve dont j'ai été saisi, j'ai conclu que l'appelant a suivi les règles énoncées au paragraphe 74.1(1) et qu'il avait donc le droit de déduire la perte.
+[19] Selon moi, il ne s'agit pas d'une opération d'évitement et, par conséquent, le paragraphe 245(3) ne s'applique pas.
+III. Évitement fiscal abusif
+[20] Dans l'arrêt Trustco Canada, la Cour suprême a dit que la troisième exigence pour l'application de la RGAÉ est que l'opération d'évitement donnant lieu à un avantage fiscal doit être abusive. Compte tenu des conclusions que j'ai tirées concernant l'évitement fiscal, lesquelles sont mentionnées ci-dessus, il n'est peut-être pas nécessaire que je traite de ce critère. Toutefois, si les commentaires que j'ai déjà formulés sont erronés en ce qui concerne la conclusion selon laquelle les opérations examinées ne constituaient pas des opérations d'évitement, je crois que je devrais aussi examiner le troisième critère et ajouter des commentaires à cet égard.
+[21] Pour examiner l'expression « évitement fiscal abusif » , il est utile de se reporter aux commentaires de la Cour suprême dans l'arrêt Trustco Canada. Au paragraphe 21, la Cour suprême a dit ce qui suit :
+[...] La RGAÉ, qui représente une mesure de dernier recours destinée à prévenir l'évitement fiscal abusif, ne devait pas créer de l'incertitude en matière de planification fiscale.
+[22] J'ai également noté que la Cour suprême a dit ce qui suit au paragraphe 50 de l'arrêt Trustco Canada :
+Comme nous l'avons vu, le législateur cherchait à prévenir l'évitement fiscal abusif tout en maintenant l'uniformité, la prévisibilité et l'équité en matière de droit fiscal, et la RGAÉ ne permet de supprimer un avantage fiscal que dans les cas où l'opération en cause est manifestement abusive.
+[23] On trouve les commentaires suivants au paragraphe 52 de l'arrêt Trustco Canada :
+[...] À moins que le ministre ne puisse établir qu'elle contrecarre l'objet pour lequel l'avantage fiscal est censé avoir été conféré, l'opération d'évitement n'est pas abusive.
+[24] Selon ce que je comprends de la preuve qu'on m'a présentée et des dispositions applicables relatives à la RGAÉ, je ne crois pas qu'une des opérations examinées puisse être considérée comme une opération d' « évitement fiscal abusif » .
+[25] Pour les motifs énoncés ci-dessus, j'ai conclu que la RGAÉ ne doit pas être appliquée dans la présente situation.
+[26] Les appels sont admis avec dépens.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de janvier 2006.
+Le juge Little
+Traduction certifiée conforme ce 4e jour d'octobre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI26
+NO DU DOSSIER DE LA COUR :
+2003-1989(IT)G
+INTITULÉ DE LA CAUSE :
+Michael Overs c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 18 mai 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 janvier 2006
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Roger Taylor et Me Michele Anderson
+Avocate de l'intimée :
+Me Patricia Lee
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Roger Taylor
+Cabinet :
+Couzin Taylor
+Ottawa (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

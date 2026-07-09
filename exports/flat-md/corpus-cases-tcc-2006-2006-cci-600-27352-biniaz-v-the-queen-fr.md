@@ -1,0 +1,154 @@
+---
+title: "Biniaz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27352/index.do"
+last_modified: "2006-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 600"
+citation2: ""
+neutral_citation: "2006 CCI 600"
+decision_date: "2006-11-08"
+language: "fr"
+item_id: "27352"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 174
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:34:58.132000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f3b13f27293754e5411986da5368c01c0e7a71667c75a2317264622999f05db0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Biniaz v. The Queen
+
+- Citation: 2006 CCI 600
+- Decision date: 2006-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 174, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Biniaz v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-08
+Référence neutre
+2006 CCI 600
+Numéro de dossier
+2005-3794(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3794(IT)I
+ENTRE :
+PARINAZ BINIAZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 octobre 2006, à Toronto (Ontario)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2000 est accueilli et l’affaire est renvoyée au ministre du Revenu national pour qu’il soit procédé à un nouvel examen et à une nouvelle cotisation parce que le montant de 15 200,83 $ n’aurait pas dû être inclus dans le revenu d’emploi de l’année d’imposition 2000, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI600
+Date : 20061108
+Dossier : 2005-3794(IT)I
+ENTRE :
+PARINAZ BINIAZ,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Parinaz Biniaz, conteste la cotisation établie par le ministre du Revenu national (le « ministre ») dans laquelle la valeur d’une dette payée par son ancien employeur a été incluse dans son revenu d’emploi de l’année d’imposition 2000. Le ministre a établi la nouvelle cotisation en s’appuyant sur les hypothèses suivantes énoncées au paragraphe 8 de la réponse à l’avis d’appel :
+[TRADUCTION]
+8. Pour calculer l’impôt à payer à l’égard de l’année d’imposition 2000 et confirmer la nouvelle cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) Au cours de l’année d’imposition 2000, l’appelante a fait du travail de secrétariat pour le Dr Ariel Reyhanian.
+b) En 1997, le Dr Ariel Reyhanian a cosigné avec l’appelante un prêt‑automobile au montant de 20 000 $ accordé par Canada Trust.
+c) Le 25 juin 1999, l’appelante a fait une cession de faillite et Canada Trust figurait parmi les créanciers.
+d) Canada Trust a récupéré sa créance auprès du Dr Ariel Reyhanian.
+e) Au cours de l’année d’imposition 2000, le Dr Reyhanian a remboursé à Canada Trust la dette de l’appelante au montant de 15 200,83 $.
+f) Au cours de l’année d’imposition 2000, l’appelante a travaillé pour le Dr Reyhanian gratuitement afin de rembourser le montant du prêt que celui‑ci avait payé pour elle à Canada Trust.
+g) L’appelante n’a pas pris en compte le montant de 15 200,83 $ dans le calcul de son revenu pour l’année d’imposition 2000.
+[2] L’appelante conteste les hypothèses de fait des alinéas 8a) et 8f). Elle a été la seule personne à témoigner. Elle m’a semblé disposée à parler et crédible dans la présentation de sa preuve. Sans fourberie ni hésitation, elle a fourni les détails concernant le prêt‑automobile, le rôle du Dr Reyhanian comme caution, son manquement à ses engagements et la faillite qui s’en est suivie et le travail qu’elle a fait gratuitement à la nouvelle clinique dentaire. La preuve détaillait les événements qui ont mené à l’établissement de la nouvelle cotisation : de 1990 à 1999, l’appelante a travaillé comme aide de bureau dans une clinique dentaire exploitée par le Dr Reyhanian et ses frères. En 1997, l’appelante a emprunté 20 000 $ à Canada Trust pour acheter une automobile; pour des raisons que la Cour ignore, son employeur (de l’époque), le Dr Reyhanian, a cosigné le prêt de l’appelante. En 1999, son association avec la clinique dentaire des frères Reyhanian a pris fin brusquement, ce qui a notamment eu pour conséquence qu’elle s’est trouvée soudainement sans emploi. La seule dette importante qu’elle avait était le prêt‑automobile mais, comme elle n’avait plus de revenu, elle a vite fait défaut de rembourser le prêt‑automobile et elle a dû faire faillite. Son créancier, Canada Trust, s’est ensuite adressé à la caution, le Dr Reyhanian, pour le remboursement. Celui-ci a payé le solde d’environ 15 000 $ en 2000.
+[3] Au cours de la même année, le Dr Reyhanian a ouvert une nouvelle clinique dentaire. Il a demandé à l’appelante et à certaines [TRADUCTION] « autres filles » non identifiées de se porter volontaires pour l’aider à établir sa nouvelle clinique. L’appelante, se sentant redevable envers le Dr Reyhanian qui avait payé sa dette, a accepté de former le nouveau personnel et d’ouvrir les dossiers; elle a offert son aide gratuitement, sans rien toucher (tel qu’il était prévu) en salaire pour ses efforts.
+[4] Pour ces raisons, elle n’a même pas songé à déclarer un revenu pour le travail qu’elle a effectué gratuitement à la nouvelle clinique de son ancien employeur. Elle ne s’attendait donc pas à ce que le ministre prenne en compte la valeur du prêt remboursé dans son revenu de l’année 2000.
+[5] Même s’il n’en est pas fait mention dans les hypothèses, la raison qui a vraisemblablement incité le ministre à procéder à une nouvelle cotisation est devenue évidente au cours du contre‑interrogatoire de l’appelante. L’avocat de l’intimée lui a montré une photocopie d’un document[1] daté du 10 mars 2003. La lettre était rédigée comme suit :
+[TRADUCTION]
+Monsieur Asebiode,
+La présente a pour but de confirmer que les versements faits à Canada Trust par le Dr Ariel Reyhanian au nom de Mme Parinaz Biniaz constituaient le salaire gagné par cette dernière pendant l’année 2000. Les versements faits pour rembourser le prêt 00328 183 775 dans l’année 2000 totalisaient 15 200,83 $[2].
+Le document se termine par des lignes réservées aux signatures, à savoir celle du Dr Ariel Reyhanian, D.D.S., (dont la signature apparaît dans l’espace prévu) et celle de Mme Parinaz Biniaz. L’appelante a reconnu sa signature sur la ligne au‑dessus de son nom.
+[6] Elle a toutefois nié avoir déjà signé un document ayant la forme présentée au contre‑interrogatoire. La preuve de l’appelante démontrait qu’elle ne l’avait jamais vu avant qu’elle en reçoive communication, juste avant l’audition de l’appel. Selon l’appelante, elle et le Dr Reyhanian avaient signé une entente concernant le remboursement du prêt, mais le texte de ce document ne comportait pas la ligne d’appel apparaissant à la pièce R-1, onglet 4, [TRADUCTION] « Monsieur Asebiode », ni les mots de la fin [TRADUCTION] « […] constituaient le salaire gagné par cette dernière pendant l’année 2000. Les versements faits pour rembourser le prêt 00328 183 775 dans l’année 2000 totalisaient 15 200,83 $ ». Elle a de plus déclaré ne pas connaître M. Asebiode, mais elle croyait qu’il s’agissait du comptable du Dr Reyhanian.
+[7] Pour sa part, l’avocat de l’intimée a également été surpris par la réaction de l’appelante à l’égard de la lettre. La Cour lui a accordé quelques instants pour décider si l’intimée voulait demander un ajournement de l’audience pour assigner le Dr Reyhanian à comparaître. L’avocat n’a finalement pas fait cette demande et, même s’il l’avait faite, je n’aurais pas été disposée à y faire droit. L’intimée était en possession du document (pièce R‑1, onglet 4) bien avant l’audience; à vrai dire, je soupçonne que ce soit ce document qui a amené le ministre à s’intéresser à la déclaration de revenus de l’appelante pour l’année 2000. Dans ce cas, l’appelante aurait dû être mise au courant de l’existence du document et se voir accorder la possibilité d’y répondre à l’étape de l’opposition. En outre, l’intimée pouvait de plein droit assigner le Dr Reyhanian à comparaître comme témoin ou demander qu’il soit constitué partie en vertu de l’article 174 de la Loi de l’impôt sur le revenu.
+[8] Quoi qu’il en soit, la question est de savoir si, eu égard à la preuve présentée, l’appelante a touché un revenu d’emploi du Dr Reyhanian lorsque celui‑ci a remboursé le solde impayé de sa dette envers Canada Trust. À mon avis, ce n’est pas le cas.
+[9] Pour que ce soit un revenu d’emploi, il doit exister un lien entre le remboursement du prêt‑automobile et le soi‑disant travail effectué « gratuitement » à la nouvelle clinique du Dr Reyhanian. L’emploi du mot [TRADUCTION] « gratuitement » à l’alinéa 8f), ou du mot anglais « voluntary » dans la version anglaise, est en soi plutôt contradictoire par rapport à la position du ministre : selon le sens ordinaire que lui donne le dictionnaire, il signifie [TRADUCTION] « sans rétribution » ou [TRADUCTION] « sans obligation juridique », deux définitions qui décrivent sur quelle base, au dire de l’appelante, elle a fourni de l’aide à la clinique du Dr Reyhanian. J’accepte son témoignage suivant lequel elle l’a fait par reconnaissance ou obligation morale envers le Dr Reyhanian. Elle ne s’attendait pas à être payée pour son aide, que ce soit en salaire ou par le remboursement du prêt. Il faut également ne pas oublier que, en tant que caution, le Dr Reyhanian était juridiquement tenu de payer Canada Trust, à sa demande, en cas de défaut de l’appelante. Les raisons qui ont incité le Dr Reyhanian à cosigner le prêt‑automobile à l’origine ne sont pas connues. Il se peut qu’il y ait un lien avec son emploi en 1997; il se peut que ce soit un cadeau ou un prêt ou encore un acte de bonté fait au hasard. Sans le témoignage du Dr Reyhanian, on ne peut qu’échafauder des hypothèses. De plus, outre l’hypothèse suivant laquelle l’appelante [TRADUCTION] a « fourni des services de secrétariat[3] », le ministre n’a formulé aucune hypothèse de fait quant à l’existence d’une entente prévoyant l’accomplissement d’un travail en échange du remboursement du prêt, la nature du travail, le nombre d’heures travaillées et la corrélation, s’il y a lieu, existant entre la valeur du travail et les 15 000 $ ajoutés au revenu d’emploi. Par conséquent, il incombait à l’intimée d’établir ce lien, mais elle ne l’a pas fait. Ce que l’on sait, c’est qu’en 2000 l’appelante n’avait plus d’emploi. Il n’y a aucune preuve de l’existence, entre l’appelante et le Dr Reyhanian, d’une entente obligeant l’appelante à travailler gratuitement à la nouvelle clinique en échange des obligations qu’il a dû exécuter en vertu du cautionnement qu’il avait donné à Canada Trust. Cela ne veut pas dire qu’il n’a pas de recours contre l’appelante, mais cette question ne fait pas l’objet de l’appel.
+[10] En ce qui a trait à la pièce R-1, onglet 4, on ne peut pas dire que le document produit est utile à la cause de l’intimée. Il s’agit d’une photocopie; la Cour ne sait pas où se trouve l’original, qui aurait pu aider à en évaluer la fiabilité. Même si la preuve dont je dispose n’est pas suffisante pour conclure que le document a été modifié et, le cas échéant, par qui ou dans quel but il l’a été, j’accepte la preuve donnée par l’appelante lorsqu’elle a témoigné, à savoir que le document qu’elle avait signé n’avait pas la forme du document qu’on lui a présenté à l’audience et qu’elle n’était pas au courant de l’existence de ce document avant sa divulgation à l’audience.
+[11] L’avocat de l’intimée a également présenté en preuve des copies de deux lettres[4] écrites par l’appelante en réponse à la correspondance des agents de l’ARC à la suite de son opposition. Je n’interprète pas ces lettres comme un aveu que le travail effectué gratuitement l’a été en échange du remboursement du prêt. L’appelante n’a pas de formation en droit et il est déraisonnable d’attribuer à ses paroles un sens technique et juridique. Ses lettres démontrent en fait un effort évident et honnête de se conformer à la demande de renseignements additionnels du ministère concernant les circonstances entourant le travail effectué gratuitement et le remboursement du prêt.
+[12] Je suis d’avis que l’appelante s’est acquittée du fardeau de la preuve qui lui incombait, soit celui de démontrer qu’elle n’avait pas reçu la valeur du remboursement du prêt‑automobile en revenus d’emploi dans l’année d’imposition 2000. Par conséquent, l’appel est accueilli et l’affaire est renvoyée au ministre du Revenu national pour qu’il soit procédé à un nouvel examen et à une nouvelle cotisation parce que le montant de 15 200,83 $ n’aurait pas dû être inclus dans le revenu d’emploi de l’appelante pour l’année d’imposition 2000.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI600
+NO DE DOSSIER DE LA COUR : 2005-3794(IT)I
+INTITULÉ DE LA CAUSE : PARINAZ BINIAZ
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE: Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 8 novembre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1, onglet 4.
+[2] Nota : Les caractères gras et italiques n’ont pas été ajoutés pour faire ressortir le passage. Ils apparaissent tels quels dans la pièce R-1, onglet 4.
+[3] Réponse à l’avis d’appel, alinéa 8a).
+[4] Pièce R-1, onglets 1 et 2.

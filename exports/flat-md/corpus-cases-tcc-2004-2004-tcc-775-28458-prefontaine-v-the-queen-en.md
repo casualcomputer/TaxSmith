@@ -1,0 +1,145 @@
+---
+title: "Prefontaine v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28458/index.do"
+last_modified: "2004-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 775"
+citation2: ""
+neutral_citation: "2004 TCC 775"
+decision_date: "2004-11-24"
+language: "en"
+item_id: "28458"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1191
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:48:38.563000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aec84cbc4ac9cc6a04b5da4e87547e267b1cb157a31dcba94813a9d3a30cc515"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prefontaine v. The Queen
+
+- Citation: 2004 TCC 775
+- Decision date: 2004-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1191, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prefontaine v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-24
+Neutral citation
+2004 TCC 775
+File numbers
+2002-4820(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4820(IT)I
+BETWEEN:
+ROSE PREFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 15, 2004 at Edmonton, Alberta
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+Maurice Prefontaine
+Counsel for the Respondent:
+Carla Lamash
+ORDER
+It is ordered that Mr. Maurice Prefontaine:
+- is prohibited from representing the Appellant in the proceedings and is prohibited from representing any other party before this Court;
+- is required to be represented by a lawyer in any proceeding to which he is a party before this Court, unless otherwise permitted by a judge of the Court;
+- is prohibited from attending at any registry maintained by the Courts Administration Service – Service administratif des tribunaux judiciaires which provides registry services to this Court; and
+- is prohibited from communicating with the Court except by registered mail or by courier.
+Signed at Ottawa, Canada, this 24th day of November 2004.
+"B. Paris"
+Paris, J.
+Citation: 2004TCC775
+Date: 20041124
+Docket: 2002-4820(IT)I
+BETWEEN:
+ROSE PREFONTAINE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Paris, J.
+[1] The Appellant’s spouse, Mr. Maurice Prefontaine, is her representative in these proceedings. Throughout the hearing of the appeal he has shown himself to be unable or unwilling to control his behaviour. His outbursts of temper and his disrespectful comments have been a consistent impediment to the exercise of the Court’s functions and the administration of justice.
+[2] The hearing of the appeal originally began on July 4, 2003. On that day Mr. Prefontaine became verbally abusive and began yelling at the Court and counsel for the Respondent on several occasions. Recesses were taken to allow him to regain his composure. During the course of the day he became more agitated and his outbursts became more severe. This behaviour lengthened the proceedings and ultimately resulted in the matter being adjourned to a later date.
+[3] The hearing was scheduled to resume on January 12, 2004 but on that occasion the Appellant was ill and an adjournment was granted. The matter was further rescheduled to November 15, 2004 (the Appellant not being available at any earlier time) and the hearing resumed then. On that day as well, Mr. Prefontaine repeatedly became agitated and began shouting abuse at the Court and counsel for the Respondent. Despite being warned that he was at risk of being held in contempt of court, this behaviour continued. The matter was adjourned, and after the adjournment was ordered, Mr. Prefontaine cursed on, shouting at the court and later at the Registrar, advancing a couple of steps in her direction. He was escorted from the courtroom by an R.C.M.P. officer who was in attendance at the hearing.
+[4] Much of the abuse that was directed at the Court amounted to an attack on the integrity of the sitting judge and members of the Court generally.
+[5] Mr. Prefontaine has a history of unacceptable behaviour before other Courts. I think it useful to refer to the Reasons of the Federal Court of Appeal for an Order given February 3, 2004 in Prefontaine v. The Queen A-175-01, which contains some of this history. In that case Mr. Prefontaine was also acting as representative for his spouse. At paragraphs 9 and following, the Court observed:
+[9]
+In the course of making submissions on behalf of his spouse, Mr. Prefontaine became very agitated, and raised his voice to the point that the [sic] was shouting at members of the Bench. He made scurrilous allegations about the members of the Tax Court, the Attorney General and his agents, and the Registry staff. When asked to moderate his voice and his remarks, he launched into a verbal attack upon a member of the panel hearing the present appeal. His outburst was such that the hearing was adjourned to allow Mr. Prefontaine to regain his composure. As Mr. Prefontaine's abusive outburst continued even after the adjournment, he was eventually escorted off court premises by R.C.M.P. officers who were present in court. Mr. Prefontaine returned to the courtroom later but it was the view of the Court, based upon its own observations and the information conveyed to it by officers of the Court, that the interests of justice would be best served by disposing of the appeal on the basis of the materials filed, without any further argument.
+[10] Mr. Prefontaine is known to the Courts of Alberta and to the staff of the Registry for his abusive outbursts. He has been found guilty of two counts of criminal contempt of Court as a result of his conduct before the Alberta Court of Appeal and the Alberta Court of Queen's Bench. A psychiatric assessment conducted in the context of the criminal contempt proceedings concluded that Mr. Prefontaine "suffers from a persecutory type of delusional disorder or alternatively paranoid personality disorder. He believes strongly that various judges are acting in a complicit way with Canada Customs and Revenue and he appears to truly believe these allegations ... His belief that various justices are complicit with Canada Customs and Revenue is absolutely unshakable". See R. v. Prefontaine, [2002] A.J. No. 1364 at paragraph 11.
+[11] The intensity with which Mr. Prefontaine holds these views is illustrated by the events giving rise to his conviction with respect to the second count of criminal contempt of court. The matter before the Court was an application for a stay with respect to an order for costs. Asked to limit his remarks to the matter before the Court, Mr. Prefontaine retorted that "the Federal Government of Canada has been fiscally bankrupt for almost 20 years". When the hearing of the matter did not progress as he thought it should, Mr. Prefontaine began to insult the judge, and was later heard saying " if you're going to continue doing things like that, you'd better get used to living behind bullet proof glass". R. v. Prefontaine, supra, at paragraph 32.
+[12] The comments made in our presence confirm that Mr. Prefontaine continues to hold his paranoid views and that he is unable to control himself when giving them expression.
+[13] Mr. Prefontaine has also abused his right to represent himself and to attend at the Registry office to file his materials. Information provided to the Court by its officers shows that:
+- Mr. Prefontaine was verbally abusive to registry staff on July 11, 2002, July 26, 2002 and December 18, 2002;
+- on December 13, 2002, Mr. Prefontaine was so abusive that the attendance of security staff was required. A member of the Registry staff was provided with a security escort because of concerns about personal safety;
+- on June 27, 1996, Mr. Prefontaine became agitated and hit the shutter at the Registry counter so hard that it was damaged; and
+- there are numerous reports of abusive telephone exchanges between Mr. Prefontaine and registry staff.
+[6] By its Order of February 3, 2004 the Federal Court of Appeal prohibited Mr. Prefontaine from representing any other person before that Court, from attending at the Registry of the Federal Court of Appeal, from representing himself in any proceedings unless authorized to do so by a judge of that Court, and from transacting with the Court otherwise than by registered mail.
+[7] It is clear that this Court must take steps as well to deal with Mr. Prefontaine’s misconduct in this appeal, which, if ignored, would bring the administration of justice into disrepute. The following Order is necessary to protect the integrity of the Court, its personnel and its process:
+Mr. Prefontaine is prohibited from representing the Appellant in these proceedings and is prohibited from representing any other party before this Court;
+Mr. Prefontaine is required to be represented by a lawyer in any proceeding to which he is a party before this Court, unless otherwise permitted by a judge of the Court;
+Mr. Prefontaine is prohibited from attending at any registry maintained by the Courts Administration Service - Service administratif des tribunaux judiciaires which provides registry services to this Court; and
+Mr. Prefontaine shall not communicate with the Court except by registered mail or by courier.
+Signed at Ottawa, Canada, this 24th day of November 2004.
+"B. Paris"
+Paris, J.
+CITATION:
+COURT FILE NO.:
+2002-4820(IT)I
+STYLE OF CAUSE:
+Rose Prefontaine and H.M.Q.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+November 24, 2004
+APPEARANCES:
+Agent for the Appellant:
+Maurice Prefontaine
+Counsel for the Respondent:
+Carla Lamash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

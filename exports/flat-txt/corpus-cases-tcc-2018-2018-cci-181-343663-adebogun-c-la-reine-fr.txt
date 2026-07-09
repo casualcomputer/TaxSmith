@@ -1,0 +1,129 @@
+Title: Adebogun c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/343663/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-181-343663-adebogun-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-08-30
+
+# Adebogun c. La Reine
+
+- Citation: 2018 CCI 181
+- Decision date: 2018-08-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4923, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adebogun c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-30
+Référence neutre
+2018 CCI 181
+Numéro de dossier
+2018-1086(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1086(IT)G
+ENTRE :
+OLUKAYODE ADEBOGUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée sur la base d’observations écrites
+Devant : L’honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Menticoglou
+ORDONNANCE
+Vu la requête écrite de l’intimée en vue d’obtenir une ordonnance de radiation de l’avis d’appel avec autorisation de le modifier, demandée au titre du paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), ainsi qu’un délai de 60 jours à compter de la date du dépôt et de la signification de l’avis d’appel modifié pour produire une réponse, demandé au titre de l’article 12 et de l’alinéa 44(1)b) des Règles;
+Et vu les observations écrites des parties;
+LA COUR ORDONNE que la requête soit accueillie et que l’appelant dispose de 60 jours à compter de la date de la présente ordonnance pour déposer et signifier un avis d’appel modifié exposant les faits pertinents sur lesquels il entend se fonder ainsi que les questions à trancher et énonçant explicitement les moyens sur lesquels repose l’appel, de façon à révéler une cause d’action fondée.
+L’intimée produira une réponse dans les 60 jours suivant la date à laquelle l’appelant aura déposé et signifié son avis d’appel modifié.
+L’intimée a droit aux dépens de la présente requête.
+Signé à Ottawa, Canada, ce 30e jour d’août 2018.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 30e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 181
+Date : 20180830
+Dossier : 2018-1086(IT)G
+ENTRE :
+OLUKAYODE ADEBOGUN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge en chef adjointe Lamarre
+[1] L’intimée demande une ordonnance de radiation de l’avis d’appel avec autorisation de le modifier, au titre du paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), ainsi qu’un délai de 60 jours à compter de la date du dépôt de l’avis d’appel modifié pour déposer une réponse, au titre de l’article 12 et de l’alinéa 44(1)b) des Règles. L’appelant s’oppose à la présente requête. La requête est tranchée sur la base des observations écrites des parties.
+[2] Au dire de l’intimée, l’avis d’appel n’est pas conforme aux Règles parce qu’il n’expose pas clairement les faits pertinents, les dispositions législatives, ni les moyens sur lesquels il entend fonder son appel visant les années d’imposition 2011, 2012 et 2013.
+[3] En réponse à la demande de l’intimée, l’appelant fait valoir que l’avis d’appel expose clairement les éléments faisant l’objet de l’appel et qu’il est présenté dans les règles, sans ambiguïté.
+[4] L’intimée soutient à l’inverse qu’à l’alinéa c) de l’avis d’appel, lequel porte sur les faits pertinents invoqués, l’appelant cite plusieurs documents sans prendre la peine de mettre les extraits en contexte ou d’en expliquer la pertinence.
+[5] En ce qui concerne les questions à trancher et les mesures demandées aux alinéas d) et g) de l’avis d’appel, l’intimée souligne que l’appelant a déclaré des dépenses d’utilisation de sa résidence à des fins professionnelles sans présenter de faits pertinents étayant l’utilisation à cette fin ni préciser la nature des dépenses en question ou les dates auxquelles elles ont été faites.
+[6] L’intimée donne également en exemple les déclarations de l’appelant selon lesquelles il y aurait eu [traduction] « une mauvaise affectation de fonds » [traduction] « des virements intrabancaires » et [traduction] « des produits d’une opération de refinancement de la résidence principale », éléments à l’appui desquels il ne présente aucun fait et dont il n’explique pas l’incidence sur son impôt des années visées.
+[7] L’intimée relève aussi les [traduction] « déductions refusées pour frais de déplacement d’affaires » et [traduction] « frais de repas » dont fait mention l’appelant, qui ne précise toutefois pas les faits pertinents se rapportant aux déductions refusées.
+[8] L’intimée se fonde sur la décision de notre Cour Klundert c. La Reine, 2013 CCI 208, dans laquelle le juge Pizzitelli insiste sur l’importance de donner un exposé suffisamment précis des faits pertinents :
+[20] L’appelant doit faire plus que formuler des déclarations générales invitant la Cour à conjecturer. Ses actes de procédure doivent contenir un exposé concis et suffisamment précis des faits substantiels sur lesquels il se fonde pour que notre Cour et l’intimée soient au fait de chaque moyen à examiner de manière appropriée. En l’espèce, l’appelant n’a rien fait de cela. Dans l’arrêt Simon c. Canada, 2011 CAF 6, 2011 DTC 5016, la juge Dawson s’est ainsi exprimée, au paragraphe 18 :
+18. L’exigence selon laquelle l’acte de procédure doit contenir un exposé concis des faits substantiels sur lesquels la partie se fonde est une exigence technique ayant un sens précis en droit. Chaque élément constitutif d’une cause d’action doit être invoqué avec suffisamment de détails. Un récit des faits et du moment où ces faits se sont déroulés risque de ne pas remplir les exigences des Règles. [...]
+[21] C’est ce même sentiment que la Cour d’appel fédérale a exprimé par l’arrêt Merchant Law Group c. Canada (Agence du revenu), 2010 CAF 184, [2010] GST 105 (CAF), dans lequel le juge Stratas s’est fondé sur la décision que la Cour d’appel fédérale avait rendue antérieurement à l’occasion de l’affaire Vojic c. Canada (MRN), 87 DTC 5384 (CAF), pour confirmer que, quand un acte de procédure « contien[t] une série de conclusions ne fournissant aucun fait substantiel pour les appuyer », alors « [l]a simple affirmation d’une conclusion sur laquelle la Cour est appelée à se prononcer ne constitue pas une allégation d’un fait essentiel ».
+[9] L’intimée cite une autre décision de notre Cour, Okoroze c. La Reine, 2012 CCI 360, dans laquelle le juge Paris s’exprime ainsi au paragraphe 17 :
+[17] […] Les contribuables qui agissent sans avocat et qui interjettent appel sous le régime de la procédure générale doivent respecter une norme raisonnable de conformité aux Règles afin que le litige puisse se dérouler de manière ordonnée, efficiente et équitable. Sous le régime de la procédure générale, l’appelant doit à tout le moins énoncer clairement dans l’acte de procédure les questions qu’il conteste et les faits pertinents sur lesquels il veut se fonder.
+[10] J’abonde dans le sens de l’intimée quand elle soutient que l’appelant n’a pas fourni d’exposé concis des faits pertinents sur lesquels il se fonde ni expliqué chacun de ses moyens d’appel. Le paragraphe 53(1) des Règles est libellé ainsi :
+Radiation d’un acte de procédure ou d’un autre document
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[11] Il se peut qu’un acte de procédure ne révèle aucune cause d’action fondée s’il n’est pas étayé par des faits pertinents. Au paragraphe 22 de la décision Klundert, précitée, le juge Pizzitelli cite le passage suivant d’une décision de la Cour fédérale du Canada :
+[22] Dans l’arrêt Nelson v Canada (ministre de l’Agence des douanes et du revenu), 2001 DTC 5644, le juge Rouleau a également observé, au paragraphe 15 :
+15. […] En général, il faut tenir pour vrais les faits énoncés dans la déclaration, mais pour déterminer si celle-ci révèle une cause d’action valable, on ne peut se fonder sur des hypothèses et sur des spéculations et on ne peut considérer ces faits comme vrais pour la seule raison que le demandeur les mentionne, vu l’absence de faits susceptibles d’appuyer les allégations en question. [...]
+[12] À l’instar de l’intimée, je considère que l’avis d’appel, dans sa version actuelle, oblige la Couronne à conjecturer quant aux faits et aux motifs fondant l’appel.
+[13] Même selon la jurisprudence invoquée par l’appelant, il est clair qu’une demande doit être radiée s’il est évident et manifeste, en tenant pour avérés les faits allégués, que la déclaration ne révèle aucune cause d’action fondée : Succession Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, au paragraphe 15.
+[14] J’estime que l’avis d’appel est suffisamment vicié pour que j’en ordonne la radiation et que j’accorde à l’appelant 60 jours, à compter de la date de mon ordonnance, pour déposer et signifier un avis d’appel modifié exposant les faits pertinents sur lesquels il entend se fonder ainsi que les questions à trancher et énonçant explicitement les moyens sur lesquels repose l’appel, de façon à révéler une cause d’action fondée.
+[15] L’intimée devra produire une réponse dans les 60 jours suivant la date à laquelle l’appelant aura déposé et signifié son avis d’appel modifié.
+Signé à Ottawa, Canada, ce 30e jour d’août 2018.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+Traduction certifiée conforme
+ce 30e jour de mai 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 181
+No DU DOSSIER DE LA COUR :
+2018-1086(IT)G
+INTITULÉ :
+OLUKAYODE ADEBOGUN c. LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge en chef adjointe Lucie Lamarre
+DATE DE L’ORDONNANCE :
+Le 30 août 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Menticoglou
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

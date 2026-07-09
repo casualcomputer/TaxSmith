@@ -1,0 +1,175 @@
+---
+title: "Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25592/index.do"
+last_modified: "2003-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 510"
+citation2: ""
+neutral_citation: "2003 CCI 510"
+decision_date: "2003-09-18"
+language: "fr"
+item_id: "25592"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2088
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:44:39.795000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b9e4f46e7b7eb8618babdccc3fb5211761a9fc3b6f1687c4249833831f5cc05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+
+- Citation: 2003 CCI 510
+- Decision date: 2003-09-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2088, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-18
+Référence neutre
+2003 CCI 510
+Numéro de dossier
+2001-3047(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI510
+Date : 20030918
+Dossier : 2001-3047(IT)G
+ENTRE :
+ALAN W. COCKERAM ET E. ANNE COCKERAM, FIDUCIAIRES DE LA FIDUCIE FAMILIALE COCKERAM,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+(Révisés à partir de la transcription des motifs de jugement rendus oralement à l'audience à Saint John (Nouveau-Brunswick), le 26 juin 2003).
+La juge Campbell
+[1] Avant l'audition du présent appel, les appelants-requérants ont présenté une demande de jugement sommaire accueillant l'appel.
+[2] Aux fins de la présente requête, l'intimée a reconnu les faits énoncés aux paragraphes 1 à 6 du mémoire des appelants daté du 13 mars 2003 et portant sur la requête. Les paragraphes 1 à 6 sont ainsi rédigés :
+[traduction]
+FAITS
+1. Les appelants sont les fiduciaires de la fiducie familiale d'Alan Cockeram (la « fiducie » ). Les appelants ont reçu un Avis de cotisation datée du 29 mai 1997 visant la fiducie pour l'année d'imposition 1996. La cotisation indiquait que le revenu imposable de la fiducie en 1996 était nul.
+2. Un Avis de nouvelle cotisation daté du 17 mars 2000 visant la fiducie a été émis pour l'année d'imposition 1996. L'Avis de nouvelle cotisation indiquait que le revenu imposable révisé de la fiducie pour 1996 était de 61 750 $, compte tenu des répartitions et des attributions non admises au montant de 49 400 $.
+3. Les appelants ont déposé un Avis d'opposition à la nouvelle cotisation, laquelle a été ratifiée par le ministre pour les motifs suivants :
+[traduction]
+Le chalet situé dans le Maine aux É.-U., et le placement dans Cash Converters, ont été qualifiés comme n'étant pas des actifs de la fiducie familiale d'Alan Cockeram. Par conséquent, pour les fins du paragraphe 104(6) de la Loi de l'impôt sur le revenu, ces éléments d'actif ne peuvent pas être déduits du calcul du revenu d'une « fiducie » .
+4. Un Avis d'appel a été déposé le 13 août 2001, indiquant que [traduction] « La question à trancher est l'exactitude de l'avis de ratification du ministre selon lequel le bien ne constituait pas un actif de la fiducie. »
+5. Le 17 octobre 2001, une Réponse a été déposée par l'intimée (la « Réponse » ). Dans la Réponse, l'intimée a déclaré ce qui suit :
+[traduction]
+En 1996, le ministre a établi à tort une nouvelle cotisation visant la fiducie familiale pour refuser une déduction au montant de 49 400 $. Le montant approprié en 1996 était de 49 400 $, soit le montant déduit par la fiducie familiale pour l'année 1996 et versé à Anne Cockeram.
+6. La Réponse indique que les motifs sur lesquels l'intimée se fonde sont les suivants :
+[traduction]
+Il soutient respectueusement que la fiducie familiale n'avait pas le droit de déduire le montant de 49 200 $ du revenu pour l'année d'imposition 1996, puisqu'elle n'a pas versé ce montant aux bénéficiaires et les bénéficiaires n'avaient pas le droit d'exiger le paiement de ce montant au cours de l'année comme l'exigent les paragraphes 104(6) et 104(24) de la Loi.
+[3] La présente requête pour jugement sommaire se fonde sur l'invocation par l'intimée, dans la Réponse, de motif différents de ceux qui figuraient dans l'Avis de ratification, et sur la modification du montant de la cotisation après l'expiration de la période normale de nouvelle cotisation.
+[4] La première question à trancher porte sur la compétence de la Cour pour rendre un jugement sommaire en faveur des appelants dans les circonstances.
+[5] Si un jugement sommaire peut être rendu en faveur des appelants, la question sera de savoir si l'intimée peut se fonder sur les motifs indiqués dans la Réponse. Les appelants répondent par la négative parce qu'ils soutiennent que l'intimée est empêchée par la prescription d'avancer un nouvel argument ou de présenter un nouveau motif, presque un an et demi après l'expiration de la période normale de prescription de trois ans. Par conséquent, ils soutiennent que le jugement sommaire serait le moyen de redressement approprié.
+[6] L'affidavit de M. Alan W. Cockeram a été déposé à l'appui de la requête des appelants. Dans cet affidavit, M. Cockeram a déclaré que le fondement de la ratification de la cotisation, dans l'Avis de ratification daté du 17 mai 2001, était que les montants n'étaient pas payables aux bénéficiaires parce qu'ils provenaient de biens qui ne faisaient pas partie du patrimoine de la fiducie.
+[7] Dans l'Avis d'appel, les appelants ont fondé leurs arguments sur les motifs de ratification de la cotisation dans l'Avis de ratification. Les appelants indiquent que la Réponse, datée du 17 octobre 2001, s'est fondée sur un motif nouveau et a été déposée environ quatre ans et demi après la date du premier avis de cotisation.
+[8] Dans sa réponse, l'intimée soutient que la fiducie familiale n'a pas droit aux déductions parce que les montants n'ont pas été versés aux bénéficiaires et ces derniers n'avaient pas droit d'exiger le paiement de ces montants conformément aux paragraphes 104(6) et 104(24).
+[9] Les appelants soutiennent donc que, bien que l'Avis de ratification soit fondé sur le droit de propriété, la Réponse était fondée sur les montants payables aux bénéficiaires. Ils soutiennent que le fondement de la Réponse est tout à fait différent du fondement de la ratification de la cotisation dans l'Avis de ratification. Les appelants soutiennent que l'intimée est empêchée par la prescription de présenter un nouveau motif. Ils font valoir que l'intimée tente maintenant de présenter un nouveau motif après l'expiration de la prescription.
+[10] Ce qui est important ici est de savoir si les actes de procédure de l'intimée déclenchent l'application du paragraphe 152(9) de la Loi, qui pourrait effectivement prescrire le recours de l'intimée. Le paragraphe 152(9) indique que, sous réserve de certaines conditions, le ministre peut avancer un nouvel argument à l'appui d'une cotisation après l'expiration de la période normale de nouvelle cotisation.
+[11] Dans l'affaire récente Loewen v. Canada, [2003] T.C.J. No. 282, le juge en chef adjoint Bowman étudie et analyse le paragraphe 152(9) de manière approfondie. Après avoir examiné les notes marginales, la jurisprudence qui a donné lieu à l'adoption du paragraphe et la politique sous-jacente de l'article, le juge Bowman a conclu que le paragraphe 152(9) permet à l'intimée d'invoquer des nouveaux arguments après l'expiration de la période normale de nouvelle cotisation, pourvu que ces arguments reposent sur le fondement déjà existant de la cotisation. Ce paragraphe ne permet pas à l'intimée de plaider après l'expiration de la période normale de nouvelle cotisation des arguments tout à fait nouveaux qui donnent un fondement tout à fait nouveau et différent à la cotisation.
+[12] Plus précisément, le juge Bowman indique ce qui suit au paragraphe 61 de la page 22 de cette décision :
+[traduction]
+Le paragraphe 152(9) de la Loi n'écarte pas l'arrêt Banque Continentale. Il ne sanctionne pas la substitution d'un fondement tout à fait différent à la cotisation. Il permet à la Couronne d'avancer des nouveaux arguments à l'appui d'un fondement déjà existant de cotisation.
+[13] Permettez-moi donc d'aborder la première question, quant à savoir s'il existe en fait des dispositions dans la Loi sur la Cour canadienne de l'impôt ou dans les Règles de la Cour canadienne de l'impôt (Procédure générale) qui me permettraient d'accorder un jugement sommaire, ou l'équivalent d'un jugement sommaire, dans les circonstances de l'espèce.
+[14] Ni la Loi, ni les Règles, ne comportent de disposition permettant un jugement sommaire. Les appelants déclarent que le principe d'interprétation large des règles (article 4 des Règles) n'autorise à accorder la présente demande. L'article 171 de la Loi prescrit clairement la façon dont la Cour peut statuer sur un appel. L'article 171 est ainsi rédigé :
+171.(1) Règlement d'un appel - La Cour canadienne de l'impôt peut statuer sur un appel :
+a) en le rejetant,
+b) en l'admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[15] Dans l'affaire Thomas Craig Moffat v. Canada, [1994] T.C.J. No. 204, le juge Bell a non seulement examiné longuement l'article 171, mais également les articles 12 et 13 de la Loi de la Cour de concert avec l'article 4 des Règles; le juge Bell a conclu qu'aucune disposition de la Loi ou des Règles n'autorise un moyen de redressement équivalent à un jugement sommaire. Le savant juge a ainsi paraphrasé les commentaires qu'il avait faits dans le cadre de l'audition de la demande :
+[traduction]
+[17] [...] Les tribunaux sont contrôlés par les paramètres établis dans les lois et les règles de procédures pertinentes [...]
+Il a ensuite conclu que la Cour devait décliner sa compétence en l'absence d'un fondement légal précis à celle-ci.
+[16] Dans les arguments de l'intimée, l'avocate de celle-ci a soutenu que le paragraphe 216(1) des Règles de la Cour fédérale prévoit expressément un jugement sommaire dans cette juridiction et, par conséquent, ainsi que le juge Bell l'a conclu dans l'affaire Moffat, l'omission d'une disposition semblable de nos propres règles laisse entendre que le jugement sommaire n'est pas un moyen de redressement que la Cour peut accorder. Je crois que l'intimée voulait mentionner l'article 432.3 des Règles de la Cour fédérale plutôt que l'article 216.1. Dans la ville où je ne trouve actuellement, je ne dispose que de ressources documentaires limitées. Mais peu importe la numérotation des articles, le résultat pour nos fins est que la Loi sur la Cour canadienne de l'impôt et les Règles de la Cour canadienne de l'impôt sont muettes quant à l'existence du moyen de redressement que constitue le jugement sommaire. Je souscris aux arguments de l'intimée. En l'absence d'un fondement légal précis, le jugement sommaire n'est pas un moyen de redressement que la Cour peut mettre à la disposition des appelants.
+[17] Au paragraphe 11 des arguments de l'intimée, l'avocate soutient que même si la Cour pouvait accorder un jugement sommaire, l'espèce présente ne serait pas appropriée pour ce faire puisque l'appel comporte des questions de fait touchant la crédibilité qui doivent être décidées en procès.
+[18] Le paragraphe 58(1) des Règles permet à une partie de demander à la Cour de se prononcer sur une question de droit [58(1)a)] ou de radier des actes de procédure lorsque certaines conditions sont réunies [58(1)b)].
+[19] L'avocate de l'intimée m'a renvoyée à l'article 63 [Jugement par défaut et rejet pour cause de retard] et à l'article 170.1 (Jugement fondé sur un aveu) des Règles et a soutenu que la décision rendue dans l'affaire Kovacevic c. Canada, [2002] A.C.I. no 384, qui permettait à la Cour d'accorder un jugement sommaire, entre d'une manière ou d'une autre dans le cadre de ces règles. Cette affaire a accueilli la demande des requérants au motif que la cotisation n'avait jamais été complétée par l'envoi de l'avis à l'appelant.
+[20] Bien que cela ait été le cas dans l'affaire Kovacevic, je ne formulerai aucun commentaire à l'égard de cette question. J'ai conclu qu'aucune disposition des Règles ne me permet d'accorder un jugement sommaire et, compte tenu des faits et des arguments qui m'ont été présentés, rien ne pourrait permettre que la présente demande soit visée par les autres règles ou dispositions. J'estime que je ne suis tout simplement pas compétente pour disposer du présent appel de la façon proposée par la demande.
+[21] Alternativement, l'avocate de l'intimée a soutenu que, même si je conclus que je peux accorder un jugement sommaire, en l'absence de règles précises de la Cour applicables au jugement sommaire, il faut s'en rapporter aux principes établis par d'autres tribunaux. L'avocate de l'intimée m'a renvoyée à l'arrêt Guarantee Co. Of North America c. Gordon Capital Corp., [1999] 3 R.C.S. 423 (A.C.S. no 60) de la Cour suprême dans lequel le critère qui permet d'accorder un jugement sommaire a été décrit comme suit au paragraphe 27 :
+Le critère qu'il convient d'appliquer à une motion visant à obtenir un jugement sommaire est respecté lorsque le requérant démontre qu'il n'y a aucune véritable question de fait importante qui requiert la tenue d'un procès et qu'il est donc opportun que le tribunal examine s'il y a lieu d'accorder un jugement sommaire.
+[22] L'intimée a également mentionné plusieurs autres affaires dans lesquelles la Cour a conclu que, dans le cadre d'une requête pour jugement sommaire, il incombe au requérant de prouver qu'il n'existe aucune question justifiant la tenue d'un procès. L'avocate de l'intimée a soutenu que la question en litige en l'espèce, c'est-à-dire le droit de propriété, n'a pas changé et qu'une preuve était nécessaire afin d'établir les faits pertinents lors d'un procès.
+[23] Une fois encore, je conviens que même si je pouvais accorder un jugement sommaire, ce qui n'est pas le cas, je ne crois pas qu'il s'agisse ici d'une affaire où cela serait opportun puisque l'appel touche des questions de fait qui ont besoin d'être tranchées au moyen d'une audience.
+[24] La prochaine question en litige est l'applicabilité en l'instance du paragraphe 152(9). Le principal argument des appelants est l'impossibilité dans laquelle se trouve l'intimée, en raison de la prescription, d'offrir un argument entièrement nouveau après l'expiration de la période normale de nouvelle cotisation.
+[25] La position de l'intimée en ce qui concerne l'argument des appelants est que le fondement et le motif de la cotisation établie par le ministre n'ont pas changé, et qu'aucun motif nouveau ou alternatif n'a été présenté dans la réponse.
+[26] Tant dans la Ratification que dans la Réponse, le ministre s'est fondé sur le paragraphe 104(6) qui permet des déductions dans le calcul du revenu d'une fiducie. Dans l'Avis de ratification, le ministre a estimé que les montants n'étaient pas payables aux bénéficiaires parce qu'ils provenaient d'un bien qui ne faisait pas partie du patrimoine de la fiducie. Dans la Réponse, l'intimée soutient que les montants n'étaient pas payables aux bénéficiaires en raison de la définition du paragraphe 104(24) selon laquelle un montant est payable lorsqu'il a été payé au cours de l'année à un bénéficiaire ou lorsque ce bénéficiaire a le droit au cours de l'année d'en exiger le paiement.
+[27] Au paragraphe 15 des arguments, l'intimée a fourni un résumé de la position du ministre ainsi que la façon dont cette position a été présentée tout au long du processus. Ce paragraphe est ainsi rédigé :
+[traduction]
+[...]
+a) la lettre de proposition de vérification datée du 10 novembre 1999 visait les montants litigieux à l'origine de l'affaire dans les termes suivants : « La position de l'Agence est qu'aucun de ces montants n'a été versé au profit des bénéficiaires » ;
+Mémoire des requérants, pièce « C » , à la page 4
+b) l'Avis de nouvelle cotisation datée du 17 mars 2000 indiquait qu'au cours de l'année d'imposition 1996, un montant de 49 400 $ constituait « une répartition et une attribution non admises »
+Mémoire des requérants, pièce « B » , à la page 2
+c) les avis de ratification émis à la suite de l'opposition des requérants le 17 mai 2001 expliquaient qu'il a été conclu que le bien ne faisait pas partie du patrimoine de la fiducie familiale et, à ce titre, ne pouvait pas être déduit dans le calcul du revenu de la fiducie familiale conformément au paragraphe 104(6) de la Loi;
+Mémoire des requérants, pièce « D »
+d) la Réponse datée du 17 octobre 2001 énumère les hypothèses sur lesquelles le ministre s'est fondé relativement à l'acquisition du bien et aux paiements effectués à cet égard. Dans la Réponse, l'intimée déclare que la fiducie familiale n'avait pas le droit de déduire le montant en question puisqu'elle ne l'a pas versé aux bénéficiaires.
+Mémoire des requérants, pièce « F »
+[28] Lorsque j'examine le libellé de la lettre de proposition de vérification, de l'Avis de nouvelle cotisation, de l'Avis de ratification et de la Réponse, il n'existe aucune tentative dans la Réponse d'invoquer un nouveau fondement de cotisation. L'arrêt Banque Continentale du Canada c. Canada, [1998] 2 R.C.S. 358 est différent de l'espèce puisqu'un nouveau fondement de cotisation avait alors été avancé sur la base d'un autre article de la Loi. Dans cette affaire, la Couronne a été empêchée d'avancer un nouvel argument. On peut en dire autant de l'affaire Marina Homes Ltd. c. Canada, [2000] A.C.F. no 2107, dans laquelle la Cour a rejeté la tentative de la Couronne de se fonder alternativement sur des dispositions législatives différentes qui nécessitaient des hypothèses de fait différentes.
+[29] En l'espèce, toutefois, aucune tentative n'a été faite de s'appuyer sur des nouvelles dispositions législatives. Ce sont toujours les paragraphes 104(2), (6) et (24) qui ont été invoqués et les hypothèses de fait sur lesquelles la nouvelle cotisation est fondée demeurent les mêmes.
+[30] Le libellé de la Réponse est différent de celui de l'Avis de ratification, mais cela ne suffit pas pour prouver que le fondement de la nouvelle cotisation est entièrement nouveau. Je souscris aux arguments de l'intimée selon lesquels la question de savoir si l'argent a été versé ou était payable aux bénéficiaires de la fiducie dépend en définitive du problème fondamental du droit de propriété de la fiducie à l'égard de ce bien. Il s'agit-là d'une question de fait qui constitue fondement même de la cotisation. Je ne crois pas que l'intimée ait présenté un argument subsidiaire, mais même si cet argument peut être considéré comme un argument subsidiaire, il ne constitue toujours pas un fondement nouveau pour la cotisation. Par conséquent, le paragraphe 152(9) ne s'applique pas et le moyen de l'intimée n'est pas prescrit.
+[31] Enfin, l'appelant a soutenu que l'intimée a modifié de façon incorrecte et inéquitable le montant de la nouvelle cotisation et, de ce fait, qu'elle a causé un préjudice aux appelants.
+[32] Dans l'affaire Loewen, que j'ai déjà citée, le juge en chef adjoint Bowman a donné des exemples de ce qui pourrait constituer un nouveau fondement et de ce qui pourrait constituer un argument subsidiaire. Le juge Bowman a montré, par l'entremise de ces exemples, qu'une tentative de l'intimée de refuser totalement les déductions constituerait un fondement nouveau si le ministre avait contesté uniquement le montant.
+[33] En l'espèce, le montant en litige n'a pas été modifié par un argument juridique. Le montant de la nouvelle cotisation a varié quelque peu entre l'Avis de ratification et la Réponse. Bien qu'un nouveau montant soit souvent considéré comme un fondement nouveau (puisqu'une cotisation est équivalente au montant de l'obligation fiscale (juge Christie dans l'affaire Hagedorn c. La Reine, C.C.I., no 93-659(IT)I, 8 novembre 1993 (95 DTC 288)), je crois que cette règle devrait s'appliquer uniquement lorsque l'intimée tente d'accroître l'obligation fiscale. Dans la présente affaire, l'intimée cherche à soustraire un montant de 200 $, un montant inférieur à celui que le ministre avait cotisé à l'origine.
+[34] L'avocate de l'intimée a qualifié cette réduction de 200 $ d'erreur d'écritures qui a été corrigée dans la Réponse à l'avantage des appelants. Je conviens que la correction de telles erreurs ne peut, d'aucune façon, constituer une tentative d'établir une nouvelle cotisation en modifiant le montant de la cotisation.
+[35] En conclusion, la requête des appelants/requérants est donc refusée. J'accorde à l'intimée les dépens relativement à la présente requête. Une prorogation de délai est accordée afin que les parties puissent terminer les interrogatoires préalables et respecter tous les engagements découlant de ces interrogatoires en plus de ce qu'a prévu l'ordonnance rendue par le juge McArthur datée du 22 janvier 2003.
+[36] Je peux fixer les dates aujourd'hui, ou les parties [...] l'une ou l'autre partie peut demander une nouvelle conférence téléphonique sur l'état de l'instance, afin d'aborder ces questions. Est-ce que les avocates ont une préférence?
+[traduction]
+Me Gallant : Si je ne m'abuse, je crois qu'on préférerait plutôt que la date soit fixée aujourd'hui.
+Me Gillis : Oui, aujourd'hui serait bien.
+Madame la juge : Je crois que cela serait préférable plutôt que [...] un nombre de juges sont en vacance à l'été. Ce sera peut-être difficile de fixer tout de suite une audience sur l'état de l'instance.
+Donc, si les avocates pouvaient vérifier quelques dates, je suis disposée à [...] et je les ajouterai dans l'ordonnance.
+Me Gillis : Je crois que nous envisageons la fin des interrogatoires préalables vers le mi-août.
+Madame la juge : Madame la greffière, avez-vous un calendrier? Madame la greffière, avez-vous un calendrier?
+La greffière : Non, désolée Madame la juge, je n'en ai pas.
+Madame la juge : D'accord. Alors, le 15 août?
+Me Gillis : Oui, cela me convient.
+Me Gallant : Cela correspond à quel jour de la semaine?
+Me Gillis : C'est un vendredi.
+Madame la juge : C'est un vendredi. Et les engagements?
+Me Gillis : Trois semaines après cette date serait [...] devrait être suffisant de notre côté.
+Madame la juge : Avez-vous une date?
+Me Gillis : C'est bien.
+Me Gallant : Juste au cas. Je veux dire, vous savez que c'est difficile d'obtenir certains de ces renseignements.
+Me Gillis : Oui. Donc un mois après cette date me conviendrait, Madame la juge.
+Madame la juge : Le 15 septembre. Est-ce qu'il s'agit d'un vendredi ou de quel jour s'agit-il?
+Me Gillis : Le 15 septembre serait un lundi.
+Madame la juge : Très bien. Ceux-là seront inclus, les interrogatoires préalables doivent être terminés au 15 août et tous engagements qui en découlent doivent être exécutés pour le 15 août (sic) et cela sera alors inclus dans mon ordonnance.
+Me Gillis : Merci Madame la juge.
+Madame Justice: Très bien. Je remercie les avocates.
+Signé à Ottawa, Canada, ce 18e jour de septembre 2003.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 20e jour de mai 2004.
+Crystal Lefebvre, traductrice

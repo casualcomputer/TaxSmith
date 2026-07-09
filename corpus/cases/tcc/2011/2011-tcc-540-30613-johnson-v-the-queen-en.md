@@ -1,0 +1,208 @@
+---
+title: "Johnson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30613/index.do"
+last_modified: "2011-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 540"
+citation2: ""
+neutral_citation: "2011 TCC 540"
+decision_date: "2011-11-24"
+language: "en"
+item_id: "30613"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7136
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:07:32.083000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "17d0f8da889d972f751fb8aa46336439e79787a4c72926301114281c7c263a58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnson v. The Queen
+
+- Citation: 2011 TCC 540
+- Decision date: 2011-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7136, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-24
+Neutral citation
+2011 TCC 540
+File numbers
+2009-3460(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3460(IT)G
+BETWEEN:
+DONNA M. JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 14 and 15, 2011 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Ryan Morris
+Counsel for the Respondent:
+Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that amounts received from Andrew Lech should not be included in the appellant’s income. The appellant is entitled to her costs.
+Signed at Ottawa, Ontario this 24th day of November 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 540
+Date: 20111124
+Docket: 2009-3460(IT)G
+BETWEEN:
+DONNA M. JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Around 1997, the appellant, Donna Johnson, began to make investments with an individual by the name of Andrew Lech. Her returns were fantastic. Several years later, it came to light that Andrew Lech was not the trading guru that he had portrayed himself to be.
+[2] The appellant was caught up in a classic Ponzi scheme, for which Lech received a lengthy prison sentence. A large number of investors provided funds to Lech, but most of the funds were never invested. Lech simply shuffled funds among the investors. In the appellant’s case, she unwittingly received money taken from others.
+[3] There were at least 237 other participants in the Ponzi scheme, from the United States and Canada. 132 of the participants were audited by the Canada Revenue Agency. At least 32 participants received more money than they invested (herein referred to as “up investors”). A significant number were undoubtedly on the losing end (the “down investors”).
+[4] The appellant, who was one of the up investors, was assessed under the Income Tax Act with respect to her gains from the scheme. For the 2002 and 2003 taxation years, she was assessed in respect of the total amount that she received from Lech less the amount that she paid to him (the “Net Receipts”). These amounts, which are not in dispute, are $614,000 and $702,000 for the 2002 and 2003 taxation years, respectively.
+[5] There are two questions to be determined in this appeal. First, do the Net Receipts constitute income from a source for the purpose of paragraph 3(a) of the Act? Second, are the assessments, which were issued after the normal reassessment period, statute barred?
+Factual background
+[6] At all material times, the appellant lived in Peterborough, Ontario where Andrew Lech had grown up.
+[7] The appellant worked as a registered nurse until the 1990s. She also assisted her husband who was a Baptist minister. Since 1982, the couple have operated a travelling ministry.
+[8] Around 1997, an investment opportunity was brought to the appellant’s attention by one of her good friends, Liz Wakeford.
+[9] Ms. Wakeford, who has a real estate background, had been successful investing with Lech. She offered to act as an intermediary so that the appellant could do the same.
+[10] The appellant was persuaded to participate. Although she had never met Lech, she knew of him as a result of church and other connections in Peterborough. In addition, the appellant trusted Ms. Wakeford’s judgment about financial matters.
+[11] The first few investments made through Ms. Wakeford worked out as expected.
+[12] After a few months, the appellant was approached by Lech directly. He told her about an option trading strategy and he gave her the opportunity to participate. He said that the money would be invested in options, and that he would pay her the profit, less a commission. The appellant was led to believe that the investments were secure, and that there was no risk of losing the capital.
+[13] After confirming with her bank that large profits could be made from option trading, the appellant agreed, and she provided Lech with an initial amount of about $10,000.
+[14] The arrangement worked out well and the appellant began to deal with Lech on a regular basis, every week or so.
+[15] The mechanics were simple. For each purported investment, the appellant would provide capital to Lech in the form of a cheque and simultaneously Lech would provide post-dated cheques to the appellant which represented repayment of her capital over 8 to 10 weeks, plus a profit element in the last cheque.
+[16] The arrangement continued until April 10, 2003 when Lech’s bank became suspicious and decided to freeze his account. The appellant had just provided money to Lech and she was not able to cash his cheques.
+[17] The percentage returns that the appellant made in this scheme were not brought out in the evidence. However, the returns were sizable. It appears that the appellant initially put up approximately $10,000 and ended up with returns of over $1,300,000 in later years.
+[18] In an agreed statement of facts (ASF) that was filed in the criminal proceeding against Lech, it was stated that just before the collapse of the scheme some investors were paid a 40 percent return over 3 months.
+[19] Lech told the appellant and other investors that the investments did not have to be reported for income tax purposes. He said that he was managing a large trust fund belonging to his family and that the investors’ money was commingled in the trust. He said that tax had been paid already.
+[20] In 2000, the appellant asked Lech to confirm this in writing. The following statement was prepared by the appellant and signed by Lech.
+I, Andrew Lech, declare and certify that all taxes payable for income tax purposes, for all the investments funded by Donna M. Johnson, have and are being paid through the Lech family trust account over which I am the financial manager. It is not necessary for Donna M. Johnson or her immediate family to report and declare investment income to be taxed again.
+[21] A similar document was prepared by the appellant and signed by Lech which stated that the appellant’s money was being held in trust and was payable to her in the event of Lech’s death.
+[22] Other than these statements, no paperwork was received from Lech involving the arrangement. The appellant kept her own records. Lech’s story about commingling funds in a family trust likely enabled him to avoid providing paperwork because the alleged trust was a private family matter.
+[23] After Lech’s bank account was frozen in April of 2003, he had a meeting with investors and told them that their cheques could not be cashed immediately due to a minor administrative problem at the bank.
+[24] Around this time, a group of investors started a class action lawsuit against Lech. The appellant became aware of the potential lawsuit around May 2003 and she was interviewed by the group’s lawyer in December 2003. She also participated in the lawsuit.
+[25] A police investigation into the matter lasted approximately three years and the appellant was interviewed by the police around 2005. Lech pled guilty in 2007.
+[26] A forensic audit of Lech’s activities uncovered over $45,000,000 that was provided by investors. Virtually all of the funds were never invested but were simply shuffled between bank accounts and paid to other investors. Lech was assisted by intermediaries who dealt with many of the investors.
+[27] After Lech’s bank account was frozen, the appellant believed that through Lech’s training she had the knowledge to replicate his option trading strategy. Accordingly, she started purchasing options on her own in 2003. It appears that the investments were successful for a time, but in 2008 the appellant’s savings were virtually wiped out.
+[28] The down investors may have had a claim against the appellant for restitution, but no claim was ever made. (Re Titan Investments Limited Partnership, 2005 ABQB 637; Den Haag Capital, LLC v Correia, 2010 ONSC 5339.)
+[29] The investments with Lech were not reported in the appellant’s income tax returns. She prepared her own return for the 2002 taxation year. For the 2003 taxation year, she retained an accountant to assist with reporting her own option trading activity.
+[30] In cross-examination, the appellant acknowledged that she could not recall mentioning the Lech investments to the accountant. She testified that she trusted Lech and believed that the tax had been paid through the trust.
+Are Net Receipts income from a source?
+(a) Positions of parties
+[31] The appellant submits that the Net Receipts are not subject to tax because there is no source of income. Her counsel referred to the following comment of Noel J. in Hammill v. The Queen, 2005 FCA 252, 2005 DTC 5397:
+[28] A fraudulent scheme from beginning to end or a sting operation, if that be the case, cannot give rise to a source of income from the victim’s point of view and hence cannot be considered as a business under any definition. […]
+[32] Although this comment refers to a victim of fraud, counsel suggests that the comment applies to the appellant since she was an unknowing participant in a fraud.
+[33] The respondent submits that the Net Receipts have the quality of income from a source in accordance with the principles described in The Queen v Cranswick, 82 DTC 6073 (FCA). The argument is summarized at para. 20 of counsel’s written submissions:
+In this case, the list of the relevant factors developed in Cranswick [82 DTC 6073] does not lead to the conclusion that the net amounts received by the appellant from Lech were windfalls. The appellant provided Lech with capital and she expect [sic] that money to generate income. The appellant made efforts to receive the payments, the payments were expected and sought after by the appellant, were made in consideration of the capital she provided him, and were earned as a result of the pursuit of gain of both the appellant and Lech.
+(b) Analysis
+[34] Pursuant to paragraph 3(a) of the Act, a taxpayer is subject to tax on income from a source. The provision reads:
+3. The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+[…]
+(Emphasis added)
+[35] The approach that should be taken in applying this provision was described by LeDain J. in Cranswick, at p. 6076.
+[…] In the absence of a special statutory definition extending the concept of income from a particular source, income from a source will be that which is typically earned by it or which typically flows from it as the expected return. […]
+[36] Justice LeDain also cited with approval a list of relevant criteria that had been provided by Mr. Cranswick’s counsel (the Respondent). It is reproduced from page 6075 of the decision.
+(a) The Respondent had no enforceable claim to the payment;
+(b) There was no organized effort on the part of the Respondent to receive the payment;
+(c) The payment was not sought after or solicited by the Respondent in any manner;
+(d) The payment was not expected by the Respondent, either specifically or customarily;
+(e) The payment had no foreseeable element of recurrence;
+(f) The payor was not a customary source of income to the Respondent;
+(g) The payment was not in consideration for or in recognition of property, services or anything else provided or to be provided by the Respondent; it was not earned by the Respondent, either as a result of any activity or pursuit of gain carried on by the Respondent or otherwise.
+[37] The application of these principles is difficult in this case. On the one hand, the returns by the appellant do have some characteristics of income from a source in that the appellant’s capital was provided to Lech and she did receive something in return. On the other hand, in reality there was very little connection between the capital and the Net Receipts. Overall, I am not satisfied that there is a sufficient connection between the capital and the Net Receipts that would justify a conclusion that the capital is the source.
+[38] First, nothing was actually earned with the capital. The appellant thought that the capital was being invested but that was not the reality. The Net Receipts were nothing more than the shuffle of money among innocent participants. The nature of the Net Receipts should reflect what they actually were, and not simply what the appellant thought they were.
+[39] Further, the Net Receipts were not in satisfaction of the appellant’s agreement with Lech. That agreement was to pay the appellant the earnings from investing her funds. Lech had no intention of complying with that agreement.
+[40] In reaching this conclusion, I have taken into account that the arrangement between Lech and the appellant was not a loan. The fact that Lech provided post-dated cheques to the appellant makes it look like a lender-borrower relationship. However, Lech acknowledged in writing that the arrangement was a trust. In the face of this documentation, I would not conclude that the arrangement was a loan.
+[41] The conclusion is also reinforced by the criteria set out in Cranswick.
+(a) Did the appellant have an enforceable claim against Lech for the Net Receipts? The answer is no. The appellant had a legal right to have the capital invested on her behalf. She did not have a legal right to the Net Receipts.
+(b) Was there an organized effort on the part of the appellant to receive the Net Receipts? The answer is no. The appellant made an effort to receive investment returns, not fraudulently obtained funds.
+(c) Were the payments sought after or expected? The answer is no. The appellant did not seek or expect fraudulently obtained funds.
+(d) Did the Net Receipts have the foreseeable element of recurrence? Although payments were made to the appellant over a long period of time, the appellant was not aware of the nature of the payments. The true nature of the payments was not foreseeable.
+(e) Was Lech a customary source of income? For the same reason, Lech was not a customary source of income. He was a customary source of something, but not income.
+(f) Were the amounts earned or paid as consideration? Although Lech would not have made the payments to the appellant if she had not provided funds to him, I do not think that the Net Receipts are properly described as earned or paid in recognition of this. There was no bargain on the part of Lech. He did not pay the Net Receipts as consideration.
+[42] I would make a few further observations. First, I have found that the arrangement between Lech and the appellant was not a loan. It is not necessary that I consider whether the returns would be income in that case. That issue should be left for another day.
+[43] Second, the respondent has not suggested that the Net Receipts are business income to the appellant. It is acknowledged that the appellant was not part of the illegal business that Lech engaged in.
+[44] I would also briefly comment concerning the possible application of the surrogatum principle, although this was not raised by the parties. This principle has generally been applied where a taxpayer is paid an amount in lieu of income pursuant to a legal right: Schwartz v The Queen, 96 DTC 6103 (SCC), para 45. In this case, the surrogatum principle has no application because the appellant was not paid pursuant to a legal right.
+[45] For these reasons, I have concluded that the Net Receipts are not income from a source.
+[46] This is sufficient to dispose of the appeal. However, I will also briefly consider whether the assessments would be statute barred if the Net Receipts were income from a source.
+Are reassessments statute barred?
+[47] The appellant did not report the Net Receipts in her income tax returns and the relevant assessments were issued beyond the normal reassessment period. Accordingly, the Minister is precluded from including the Net Receipts in the appellant’s income unless her failure to report the Net Receipts was a misrepresentation that is due to neglect, carelessness or wilful default.
+[48] The relevant provision, subparagraph 152(4)(a)(i) of the Act, provides:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[…]
+[49] As for whether there is a misrepresentation, the question is whether there has been an error in the returns. If the Net Receipts have the quality of income, which is assumed for purpose of this analysis, there was a misrepresentation in omitting the Net Receipts from the returns.
+[50] The appellant submits that there can be no misrepresentation because it is debatable whether the Net Receipts are income or not. I agree that the issue is debatable, but this does not assist the appellant. At the relevant time, the appellant did not know that the scheme was fraudulent. She thought that she had earned income from option trading.
+[51] The next question is whether the failure to include these amounts in the returns was due to neglect, carelessness or wilful default.
+[52] I would first observe that the obligation to properly report income is a bedrock of the tax system. Taxpayers who are careless in failing to properly report will not have the protection of the normal limitation period for reassessments.
+[53] The central question here is whether the appellant was careless in relying on Lech’s statements that the tax had been paid and that it was not necessary to report the income.
+[54] In my view, there is a crucial difference between the two taxation years at issue.
+[55] At the time that the 2002 income tax return was due, Lech’s bank account had just been frozen. Until this time, I accept that the appellant was not careless in relying on Lech’s statements that it was not necessary to report the investment returns. She relied on Lech, who by all accounts was very convincing, and she had the comfort of her fellow investors from Peterborough who believed the same thing.
+[56] Circumstances had changed substantially by the time the 2003 tax return was due. By the end of 2003, Lech was no longer in operation. The bank had stopped cashing his cheques, a class action suit was in the works and the appellant was interviewed by the lawyer acting for investors in the class action.
+[57] The appellant testified that the class action suit, of which she was a part, did not alert her to the fact that this was an out and out fraud. The investors were suing simply to get their money back. The appellant testified that she continued to trust Lech and that she only began to have doubts when she was interviewed by the police in 2005 or 2006. As she stated, Lech had come through for her in the past and therefore she had good reason to trust him.
+[58] In my view, it was obvious at this point that there were serious questions that needed answering about Andrew Lech. The failure of the appellant to more carefully scrutinize Lech, including his statements about tax, was careless. If the appellant had acted prudently towards the obligation to properly report income, she would have started asking questions much earlier.
+[59] I would also comment that the appellant impressed me as someone who was quite astute in business matters. Reference may be made to the two written confirmations that the appellant prepared for Lech to sign. These are relatively sophisticated documents.
+[60] My conclusion is that the assessment for the 2003 taxation year is not statute barred, whereas the assessment for the 2002 taxation year is statute barred.
+Conclusion
+[61] In the result, the appeal with respect to assessments for the 2002 and 2003 taxation years is allowed. The appellant is entitled to her costs.
+Signed at Ottawa, Ontario this 24th day of November 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 540
+COURT FILE NO.: 2009-3460(IT)G
+STYLE OF CAUSE: DONNA M. JOHNSON and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: March 14 and 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: November 24, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Ryan Morris
+Counsel for the Respondent:
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ryan Morris
+Firm: McMillan LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

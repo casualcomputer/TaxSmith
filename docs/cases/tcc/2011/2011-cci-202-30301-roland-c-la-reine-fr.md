@@ -1,0 +1,146 @@
+---
+title: "Roland c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30301/index.do"
+last_modified: "2011-04-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 202"
+citation2: ""
+neutral_citation: "2011 CCI 202"
+decision_date: "2011-04-06"
+language: "fr"
+item_id: "30301"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8077
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:57:56.840000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c93860d8fc605e005ad9d44654f0025496407505b774609ca748ea8865393236"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roland c. La Reine
+
+- Citation: 2011 CCI 202
+- Decision date: 2011-04-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8077, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roland c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-06
+Référence neutre
+2011 CCI 202
+Numéro de dossier
+2010-3969(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3969(IT)APP
+ENTRE :
+ROBERT ROLAND,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Demande entendue le 1er avril 2011 à Toronto (Ontario).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat du requérant :
+Me Michael Morgan
+Avocats de l’intimée:
+Me Sina Akbari
+Me Samantha Hurst
+____________________________________________________________________
+ORDONNANCE
+La demande de prorogation du délai imparti pour déposer un avis d’appel concernant les années d’imposition 2003 et 2004 est rejetée sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 6e jour d’avril 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de mai 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 202
+Date : le 6 avril 2011
+Dossier : 2010-3969(IT)APP
+ENTRE :
+ROBERT ROLAND,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+[1] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard du requérant pour les années d’imposition 2003 et 2004 au moyen d’avis de cotisation datés du 29 mars 2007.
+[2] Le requérant prétend qu’il s’est opposé aux dites nouvelles cotisations au moyen d’avis d’opposition datés du 1er octobre 2007 et reçus par l’Agence du revenu du Canada (l’« ARC ») le 18 octobre 2007.
+[3] Au moyen d’une lettre datée du 8 novembre 2007, le ministre a avisé le requérant que les avis d’opposition pour les années 2003 et 2004 avaient été reçus en dehors du délai de prescription de 90 jours, et que, par conséquent, les avis ne seraient pas acceptés selon la Loi de l’impôt sur le revenu (la « Loi »).
+[4] Toutefois, dans la lettre datée du 8 novembre 2007 qu’il a adressée au requérant, le ministre a déclaré que le requérant pouvait demander une prorogation du délai imparti pour déposer des avis d’opposition pour les années d’imposition 2003 et 2004.
+[5] Le 11 septembre 2008, le ministre a reçu du requérant une demande de prorogation du délai dans lequel des avis d’opposition pour les années d’imposition 2003 et 2004 pouvaient être déposés.
+[6] Au moyen d’une lettre datée du 3 octobre 2008, le ministre a avisé le requérant qu’il ne pouvait pas faire droit à la demande de prorogation du délai imparti pour déposer des avis d’opposition pour les années d’imposition 2003 et 2004 parce que le requérant n’avait pas respecté le délai d’un an plus 90 jours prévu par la Loi.
+[7] Le ministre a conclu que le délai pour déposer une demande de prorogation du délai imparti pour produire un avis d’opposition pour les années d’imposition 2003 et 2004 était d’un an et 90 jours à compter du 29 mars 2007, c’est‑à‑dire, au plus tard le 27 juin 2008. En l’espèce, la demande de prorogation du délai imparti pour déposer des avis d’opposition a été produite le 11 septembre 2008, c’est‑à‑dire avec quelque deux mois et demi de retard.
+[8] Une demande de prorogation du délai imparti pour déposer un avis d’appel à la Cour pour les années d’imposition 2003 et 2004 a été déposée à la Cour le 23 décembre 2010.
+QUESTION EN LITIGE
+[9] Devrait-on faire droit à la demande de prorogation du délai imparti pour déposer un avis d’appel?
+ANALYSE
+[10] L’alinéa 166.1(7)a) de la Loi précise que la demande de prorogation du délai imparti pour produire un avis d’opposition est d’un an plus 90 jours suivant la date d’établissement des nouvelles cotisations.
+[11] En l’espèce, il est évident que le requérant n’a pas respecté le délai d’un an plus 90 jours pour déposer des avis d’opposition.
+[12] La Loi précise que le dépôt d’un avis d’opposition est une condition préalable à l’introduction d’un appel auprès de la Cour. Je renvoie à l’arrêt de la Cour d’appel fédérale Bormann c. La Reine, 2006 CAF 83, 2006 D.T.C. 6147. Dans cette affaire, le juge Sexton a déclaré ce qui suit, aux paragraphes 3 à 5 :
+[3] Le paragraphe 169(1) de la Loi de l’impôt sur le revenu oblige le contribuable à signifier un avis d’opposition s’il veut interjeter appel d’une cotisation. En d’autres mots, la signification d’un avis est une condition préalable à l’introduction d’un appel.
+[4] Comme je l’ai mentionné, l’appelant n’a pas signifié d’avis d’opposition et il n’existe aucune preuve qu’il ait demandé au ministre une prorogation de délai afin de signifier un avis d’opposition.
+[5] La loi est claire : lorsqu’il n’y a pas eu de demande de prorogation de délai, la Cour de l’impôt n’a pas la compétence de proroger le délai par souci d’équité.
+[13] Je n’ai pas compétence pour accorder une prorogation du délai imparti pour déposer des avis d’opposition.
+[14] Je dois, par conséquent, rejeter la demande de prorogation du délai imparti pour déposer un avis d’appel.
+[15] La demande est rejetée sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 6e jour d’avril 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de mai 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 202
+No DU DOSSIER DE LA COUR : 2010-3969(IT)APP
+INTITULÉ : ROBERT ROLAND
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 1er avril 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE : Le 6 avril 2011
+COMPARUTIONS :
+Avocat du requérant :
+Me Michael Morgan
+Avocats de l’intimée :
+Me Sina Akbari
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : Me Michael Morgan
+Cabinet : Harris & Harris LLP
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

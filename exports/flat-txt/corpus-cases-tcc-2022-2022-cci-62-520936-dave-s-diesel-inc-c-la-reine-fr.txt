@@ -1,0 +1,313 @@
+Title: Dave's Diesel Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520936/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-62-520936-dave-s-diesel-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-06-10
+
+# Dave's Diesel Inc. c. La Reine
+
+- Citation: 2022 CCI 62
+- Decision date: 2022-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4528, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dave's Diesel Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-10
+Référence neutre
+2022 CCI 62
+Numéro de dossier
+2018-1618(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1618(IT)G
+ENTRE :
+DAVE’S DIESEL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 mai 2022, à Hamilton (Ontario)
+Devant : L’honorable juge David E. Spiro
+Comparutions :
+Avocat de l’appelante :
+Me Mark S. Grossman
+Avocat de l’intimée :
+Me Christopher Ware
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2013 et 2014 de l’appelante sont rejetés, avec dépens accordés conformément au tarif.
+Signé à Ottawa, Canada, ce 10e jour de juin 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 13e jour de septembre 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 62
+Date : 20220610
+Dossier : 2018-1618(IT)G
+ENTRE :
+DAVE’S DIESEL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] En essayant de trouver un moyen de remettre à neuf des injecteurs de carburant usés pour des moteurs diésel (le « projet »), l’appelante a-t-elle exercé des activités de développement expérimental, au cours de ses années d’imposition 2013 et 2014, au sens de l’expression « activités de recherche scientifique et de développement expérimental » (« activités de RS&DE ») prévu au paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi »)? L’appelante affirme que tel est le cas. L’intimée affirme le contraire. Pour les motifs qui suivent, je retiens la thèse de l’intimée.
+[2] En calculant l’impôt à l’égard de ses années d’imposition 2013 et 2014, l’appelante a déduit des crédits d’impôt à l’investissement de 26 865 $ et 31 134 $, respectivement, au motif que les travaux qu’elle avait réalisés dans le cadre du projet constituaient des « activités de développement expérimental[1] ». Dans les cotisations correspondantes, le ministre du Revenu national (le « ministre ») a refusé de déduire ces crédits. La Cour est saisie des appels interjetés à l’encontre de ces cotisations.
+I. Les critères juridiques pertinents pour des activités de RS&DE [3] L’expression « activités de recherche scientifique et développement expérimental » est définie au paragraphe 248(1) de la Loi :
+248(1) […]
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[4] Dans l’arrêt Northwest Hydraulic Consultants Ltd. c. The Queen, [1998] 3 C.T.C. 2520 [Northwest Hydraulic], le juge Bowman, tel était alors son titre, a fourni des indications sur la manière d’interpréter et d’appliquer la définition de l’expression « activités de RS&DE » prévue au paragraphe 248(1) de la Loi. Les cinq critères définis par le juge Bowman dans l’arrêt Northwest Hydraulic ont été entérinés par la Cour d’appel fédérale à plusieurs reprises, la plus récente étant l’arrêt National R&D Inc. c. Canada, 2022 CAF 72, dans lequel le juge Rennie a confirmé que ces critères [traduction] « tiennent compte de ce que la Cour comprend de l’intention du législateur vu le paragraphe 248(1) »[2].
+[5] L’arrêt Northwest Hydraulic enseigne que pour pouvoir qualifier des travaux d’activités de RS&DE aux termes du paragraphe 248(1) de la Loi, il faut pouvoir répondre par l’affirmative aux questions qui suivent :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes? L’expression « études techniques courantes » désigne les techniques, les procédures et les données qui sont généralement accessibles aux spécialistes compétents dans le domaine concerné.
+2. La personne qui prétend se livrer à des activités de RS&DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. Les procédures retenues sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation, ainsi que la formulation, la vérification et la modification d’hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+II. La nature du projet [6] L’appelante a cité M. Rushi Dave en tant qu’unique témoin. M. Dave était le directeur général de l’appelante en 2013 et en 2014. Il est l’une des quatre personnes qui ont travaillé sur ce projet.
+[7] M. Dave n’a pas étudié le génie mécanique et il ne possède aucun titre, diplôme ou certificat dans ce domaine. Il a toutefois étudié le commerce et le marketing et il a été au service d’une grande entreprise de publicité, de marketing et de relations publiques, avant d’intégrer l’appelante il y a 15 ans.
+[8] Le père de M. Dave a créé l’entreprise de l’appelante à Brampton (Ontario) dix ans avant le début du projet. Même si M. Dave a qualifié l’appelante d’atelier spécialisé dans les injecteurs de carburant pour l’industrie des moteurs diésel, il ne s’agissait pas d’un atelier de mécanique, puisqu’aucun mécanicien n’y travaillait.
+[9] Avant de commencer le projet, l’appelante remettait à neuf les composants de systèmes d’injection de carburant mécaniques usés pour le compte de concessionnaires, selon des programmes de garantie offerts par les fabricants des injecteurs. Voici le processus utilisé par l’appelante pour remettre à neuf les composants de ces injecteurs de carburant usés :
+[traduction]
+Le processus consistait à recevoir le composant envoyé par un atelier, par exemple un concessionnaire, à le désassembler, à en examiner les défauts et à le réassembler à l’aide de composants nouveaux, puis à le placer sur un banc d’essai pour [le] recalibrer en fonction [des] spécifications du fabricant[3].
+[10] En 2007 ou en 2008, on a commencé à remplacer les systèmes d’injection de carburant mécaniques dans les moteurs diésel par des modèles électroniques. L’appelante a fait face à des difficultés, car les fabricants ne voulaient plus la payer pour qu’elle remette à neuf les composants de leurs systèmes d’injection de carburant usés. Ils voulaient probablement que les clients les remplacent en achetant de nouvelles unités. Quoi qu’il en soit, l’appelante avait besoin d’une nouvelle source de revenus.
+[11] Par conséquent, l’appelante a décidé de trouver un moyen de remettre à neuf des injecteurs de manière indépendante. Les camions diésel, les génératrices et le matériel des secteurs maritime, agricole et de la construction étaient dotés de ces injecteurs. L’appelante a étudié trois types d’injecteurs dans le cadre du projet :
+a) l’injecteur Delphi 4 Pin (un injecteur de carburant électronique utilisé dans certains moteurs diésel Volvo);
+b) l’injecteur C7 (un injecteur de carburant électronique utilisé dans certains moteurs diésel Caterpillar);
+c) l’injecteur ISX (un injecteur de carburant mécanique utilisé dans certains moteurs diésel Cummins).
+[12] Quatre personnes ont travaillé sur le projet en 2013 et en 2014 : M. Dave, son père et deux manœuvres non spécialisés que l’appelante employait. Dans son témoignage, M. Dave a affirmé que l’appelante [traduction] « employait des manœuvres non spécialisés, les formait et en faisait des techniciens, puis les faisait travailler avec [son] père et [lui] »[4]. Il n’a jamais précisé la nature exacte des formations dispensées à ces manœuvres non spécialisés. Ce qui est clair, toutefois, c’est qu’aucune des personnes qui ont participé au projet en 2013 et en 2014 n’avait la qualification d’ingénieur ou de mécanicien.
+[13] Au procès, M. Dave a présenté des injecteurs de carburant entièrement assemblés, ainsi que des injecteurs de carburant désassemblés, et ce, pour chaque type (pièces AP-1 à AP-6). Il a décrit certaines différences techniques entre chacun des trois types. Aucune de ces différences n’est importante, car le processus employé par l’appelante demeure le même pour chaque type d’injecteurs. L’appelante semble avoir suivi un processus en quatre étapes. Voici les étapes suivies par l’appelante à l’égard de chaque type d’injecteur :
+Étape 1 : démonter l’injecteur et étudier son fonctionnement
+[14] L’appelante ne comprenant pas le fonctionnement des injecteurs, il lui a fallu les démonter, dans un premier temps. Pour ce faire, elle a eu besoin d’outils permettant de démonter les injecteurs sans les briser. Il lui a fallu fabriquer certains de ses propres outils pour effectuer cette tâche. Après avoir démonté un type d’injecteurs donné, l’appelante l’inspectait, afin d’en comprendre le fonctionnement exact.
+Étape 2 : simuler le fonctionnement de l’injecteur et repérer les pièces les plus susceptibles de provoquer un dysfonctionnement
+[15] L’appelante plaçait l’injecteur dans l’une de ses machines permettant d’en simuler le fonctionnement, afin de repérer les pièces les plus susceptibles de provoquer un dysfonctionnement.
+Étape 3 : acheter ou modifier des pièces de manière à empêcher les dysfonctionnements
+[16] L’appelante modifiait les pièces qui lui semblaient susceptibles de provoquer un dysfonctionnement ou les remplaçait par d’autres qu’elle achetait, dans le but de respecter ou de surpasser les spécifications d’origine du fabricant.
+Étape 4 : intégrer ces pièces à des injecteurs usés, afin de remettre ces derniers à neuf
+[17] La dernière étape consistait à assembler un injecteur de carburant usé, ainsi remis à neuf et respectant ou surpassant les spécifications d’un modèle neuf. L’appelante espérait réparer les trois types d’injecteurs en utilisant des injecteurs usés à titre de [traduction] « cœurs ». Elle espérait vendre les injecteurs remis à neuf à un prix inférieur à celui facturé par les fabricants pour la vente de modèles neufs.
+[18] L’appelante n’a remis à neuf aucun de ces trois types d’injecteurs au cours de ses années d’imposition 2013 et 2014.
+Le sens de l’expression « remettre à neuf »
+[19] Avant d’examiner les documents de l’appelante, il est important de comprendre précisément le sens que l’appelante donne à l’expression « remettre à neuf ». M. Dave l’a définie en l’espèce comme suit : [traduction] […] le processus qui consiste à prendre un composant usé, à le désassembler, à repérer les points défaillants, à corriger ces points défaillants et, parfois, à les améliorer de manière à obtenir un meilleur injecteur, puis à réassembler l’injecteur, afin d’être en mesure de le vendre à des utilisateurs finaux, à des revendeurs ou à des ateliers de révision de moteurs[5].
+III. Les éléments de preuve documentaire [20] M. Dave a présenté un journal manuscrit pour chacune des années 2013 et 2014 (pièces A-3 et A-4). Voici la description qu’il a donnée de ces journaux (qu’il appelle des [traduction] « carnets ») :
+[traduction]
+De manière générale, je tiens un carnet pour les besoins des activités de RS&DE. Ce que je fais, c’est qu’à la fin de chaque journée, si nous avons réalisé des activités de RS&DE, j’attrape mon carnet et note rapidement les activités; ce qui avait été fait, ce qu’on a fait et la personne qui l’a fait[6].
+[21] La plupart des entrées des journaux sont relativement concises. Voici certaines des entrées plus détaillées (le type d’injecteur mis à l’essai est indiqué entre crochets) :
+[traduction]
+Le 4 janvier 2013
+Injecteur [Delphi 4 Pin] brisé alors qu’on essayait de comprendre comment le démonter.
+Le 23 janvier 2013
+Achat et mise à l’essai de 12 cœurs d’injecteurs [C7]; on a découvert qu’ils fonctionnaient tous différemment et fuyaient à des endroits différents.
+Le 25 février 2013
+Réception et installation d’un prototype [adaptateur pour injecteur C7] envoyé par l’atelier d’usinage. Le joint torique le plus fin n’a pas supporté la pression et s’est brisé constamment.
+Le 6 mars 2013
+Suite des essais sur l’injecteur [ISX] et documentation des résultats. Rien de probant, cela ne fonctionne toujours pas comme prévu. Aucune pulvérisation.
+Le 15 mars 2013
+Utilisation d’un poinçon en acier fin pour exercer une pression au sommet de l’injecteur [Delphi 4 Pin] et retrait du sceau et du manchon isolant à l’extrémité.
+Le 21 mars 2013
+Réalisation de plusieurs essais sur des cœurs d’injecteur [C7] en fonction des constatations de Ray[7].
+Le 14 mai 2013
+Fuites d’huile dans le moteur diésel au sommet de l’injecteur [ISX]; mise à l’essai pour mieux comprendre la défaillance.
+Le 17 juillet 2013
+Suite des essais sur l’injecteur [ISX]; on essaie toujours de comprendre comment le démonter.
+Le 12 septembre 2013
+Mise à l’essai de l’injecteur [Delphi 4 Pin] avec différentes épaisseurs de cale.
+Le 25 septembre 2013
+Mise à l’essai de la pression des ressorts de l’injecteur [Delphi 4 Pin].
+Le 12 octobre 2013
+Mise à l’essai de quatre injecteurs [C7] avec des soupapes de régulation remises à neuf, mais toutes fuient fortement. Il n’y avait pas de fuite, avant cela.
+Le 18 octobre 2013
+Création d’un essai de pression pour la chambre du ressort, afin de trouver une cale différente pour chaque injecteur [Delphi 4 Pin].
+Le 23 octobre 2013
+Nouveaux essais, mais la soupape et la bobine de l’injecteur [Delphi 4 Pin] continuent de fuir.
+Le 15 novembre 2013
+Mise à l’essai des injecteurs [C7]; tout à l’intérieur semble toujours usé et rempli de dépôts.
+Le 26 novembre 2013
+Mise à l’essai de l’injecteur [C7] avec un piston surdimensionné, mais il y a encore des fuites internes.
+Le 13 janvier 2014
+Mise à l’essai de la soupape de l’injecteur [C7], mais elle fuit encore.
+Le 14 avril 2014
+Mise à l’essai des injecteurs [ISX] avec des prototypes de ressorts.
+Le 15 avril 2014
+Aucun ressort n’a réussi les essais sur l’injecteur [ISX]; aucune solution à ce jour.
+Le 21 juillet 2014
+Mise à l’essai de matériaux différents sur l’injecteur [ISX].
+Le 22 juillet 2014
+Réussite des essais sur l’injecteur [ISX], après plusieurs tentatives; impossible à reproduire.
+Le 4 novembre 2014
+Tous les essais sur l’injecteur [ISX] ont échoué.
+Le 24 novembre 2014
+Les essais sur l’injecteur [Delphi 4 Pin] se sont avérés concluants.
+Les 3, 4, 5 et 6 décembre 2014
+Mise à l’essai de l’injecteur [C7], avec enregistrement[8].
+Le 19 décembre 2014
+Analyse des résultats pour l’injecteur [C7]; aucune cohérence.
+Le 20 décembre 2014
+Aucune cohérence dans les résultats pour l’injecteur [C7].
+Le 23 décembre 2014
+Impossible de monter une soupape ou de remonter l’injecteur [C7] pour le moment.
+[22] L’appelante a également présenté l’enregistrement partiel d’un essai unique réalisé sur un injecteur C7 en 2013 (pièce A-2, reproduite à l’annexe A) et l’enregistrement partiel d’un autre essai unique réalisé sur le même type d’injecteurs en 2014 (pièce A-1, reproduite à l’annexe B).
+[23] Pendant son témoignage, M. Dave a présenté à la Cour une série de photographies en couleurs illustrant les machines et les outils que l’appelante a utilisés dans le cadre du projet. L’avocat de l’intimée s’est opposé à leur admission, au motif que l’appelante n’avait respecté aucune des exigences habituelles en matière d’avis prévues au paragraphe 89(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »)[9]. Étant donné que M. Dave a présenté chaque photographie pour illustrer son témoignage, je les ai définis pour le dossier, en différant ma décision concernant leur admissibilité.
+[24] Je décide à présent que chacune de ces photographies doit être admise en preuve, car toutes satisfont aux conditions d’admissibilité des photographies, à savoir :
+a) la représentation précise des faits;
+b) la fidélité et l’absence d’intention d’induire en erreur;
+c) leur vérification sous serment par une personne capable de le faire[10].
+IV. Application des critères juridiques aux faits [25] Maintenant que j’ai examiné tous les éléments de preuve concernant le projet, la question en litige est celle de savoir si l’appelante a ou non démontré, selon la prépondérance des probabilités, que les travaux réalisés satisfont aux critères définis par l’arrêt Northwest Hydraulic.
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes? L’expression « études techniques courantes » désigne les techniques, les procédures et les données qui sont généralement accessibles aux spécialistes compétents dans le domaine concerné.
+[26] L’appelante affirme que l’« incertitude technologique » pertinente était la question de savoir si l’appelante pouvait ou non réussir à développer un processus permettant de remettre à neuf les trois types d’injecteurs différents[11].
+[27] Le fait qu’un petit groupe de personnes sans qualification d’ingénieur ou de mécanicien, dont deux manœuvres non spécialisés, ne sachent pas s’ils peuvent ou non remettre à neuf trois types d’injecteurs de carburant usés ne nous enseigne rien sur la question de savoir s’il était technologiquement incertain que des spécialistes compétents dans ce domaine parviennent ou non à remettre à neuf ces injecteurs de carburant usés.
+[28] L’appelante a fondé sa cause sur les connaissances subjectives des quatre personnes sans qualification d’ingénieur ou de mécanicien qui ont travaillé sur le projet. Pour ces personnes, tous les aspects du projet constituaient des incertitudes technologiques. Le critère de l’« incertitude technologique » n’est toutefois pas subjectif. S’il l’était, un élève d’école primaire cherchant à construire un moteur électrique simple y satisferait. À l’époque où elle était membre de notre Cour, la juge Monaghan a déclaré que l’incertitude technologique :
+[…] ne résulte pas du simple fait que l’appelante n’a pas les connaissances requises. Il s’agit de savoir si l’incertitude cernée par l’appelante constitue une incertitude pour les personnes bien informées et expérimentées dans le domaine en question[12].
+[29] Il incombait à l’appelante de démontrer qu’il était « technologiquement incertain » que les injecteurs de carburant usés puissent être remis à neuf par un spécialiste compétent dans ce domaine – un ingénieur en mécanique, par exemple[13].
+[30] Même si je concluais à l’existence de l’incertitude technologique exigée, je n’aurais toujours aucun fondement sur lequel m’appuyer pour décider si les étapes suivies par l’appelante constituaient ou non plus qu’une « technique courante » pour un spécialiste compétent dans ce domaine. Aucun élément de preuve n’indique que le fait de démonter un injecteur de carburant sans le briser constitue autre chose qu’une « technique courante » pour un tel spécialiste. De même, aucun élément de preuve n’indique que le fait de comprendre le fonctionnement d’un injecteur de carburant constitue autre chose qu’une « procédure habituelle » pour un spécialiste compétent dans ce domaine.
+2. La personne qui prétend se livrer à des activités de RS&DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+[31] Dans son témoignage, M. Dave a affirmé que l’hypothèse de l’appelante était la suivante :
+[traduction]
+[...] la question de savoir si nous pouvions ou non développer une procédure de remise à neuf des injecteurs et être capables de remettre à neuf ces injecteurs, et c’est cela l’hypothèse[14].
+[32] Comme je l’ai mentionné précédemment, l’appelante allègue également que l’incertitude technologique était la question de savoir si l’appelante pouvait réussir à développer un processus permettant de remettre à neuf les injecteurs de carburant. Il faudrait que nous soyons dans l’univers d’Alice au pays des merveilles pour pouvoir prétendre à la fois que l’hypothèse constitue l’incertitude technologique et que l’incertitude technologique constitue l’hypothèse[15].
+[33] L’appelante est confrontée à deux autres difficultés. Premièrement, comme je l’ai mentionné précédemment, elle n’a présenté aucun élément de preuve démontrant qu’il était technologiquement incertain que les injecteurs de carburants puissent être remis à neuf par un spécialiste compétent dans ce domaine. Deuxièmement, l’« hypothèse » unique et prédominante de l’appelante ne correspond pas au type d’hypothèses prévu par le second critère établi par l’arrêt Northwest Hydraulic.
+[34] Dans l’arrêt Northwest Hydraulic, le juge Bowman décrit un processus en cinq étapes permettant de décider si la personne qui prétend se livrer à des activités de RS&DE a formulé des hypothèses visant précisément à réduire ou à éliminer l’incertitude technologique. Selon le juge Bowman, cette personne doit avoir suivi les étapes qui suivent :
+a. l’observation de l’objet du problème;
+b. la formulation d’un objectif clair;
+c. la détermination et la formulation de l’incertitude technologique;
+d. la formulation d’une ou plusieurs hypothèses visant à réduire ou à éliminer l’incertitude;
+e. la vérification méthodique et systématique des hypothèses.
+[35] Le juge Bowman utilise le terme « hypothèses », au pluriel, tout au long de l’arrêt Northwest Hydraulic, et plus précisément pour les deuxième, troisième et cinquième critères. Les critères établis dans l’arrêt Northwest Hydraulic ne prévoient pas l’existence d’une seule hypothèse prédominante, comme le prétend l’appelante, mais une hypothèse distincte à définir avant chaque essai et susceptible d’évoluer, en fonction des résultats de cet essai.
+[36] J’illustrerai ce point à l’aide d’un exemple. Voici l’entrée du journal à la date du 25 février 2013.
+Le 25 février 2013
+Réception et installation d’un prototype [adaptateur pour injecteur C7] envoyé par l’atelier d’usinage. Le joint torique le plus fin n’a pas supporté la pression et s’est brisé constamment.
+[37] L’hypothèse à vérifier aurait pu être la suivante : un joint torique d’une épaisseur de 5 mm devrait supporter une pression de 50 lb/po2 aussi efficacement qu’un joint torique d’une épaisseur de 7,5 mm. Cette hypothèse aurait constitué l’objet de l’essai. On aurait consigné et analysé les résultats de l’essai, puis modifié l’hypothèse en conséquence.
+[38] Comme l’a souligné le juge Sommerfeldt, une hypothèse est « un énoncé qui doit être vérifié au moyen d’une expérience ou d’un essai »[16].
+[39] À l’égard de tout essai réalisé en 2013 ou en 2014, l’appelante a omis d’accomplir les étapes qui suivent :
+a) la formulation d’une hypothèse (p. ex. concernant le joint torique du 25 février 2013, l’épaisseur de la cale du 12 septembre 2013 ou la pression du ressort du 25 septembre 2013);
+b) la vérification de cette hypothèse;
+c) la modification de l’hypothèse en fonction des résultats de l’essai.
+3. Les procédures adoptées sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses?
+[40] Comme je l’ai mentionné précédemment, aucun élément de preuve n’indique que l’appelante a formulé une hypothèse précise à l’égard de quelque essai que ce soit ou qu’elle ait modifié cette hypothèse en fonction des résultats de cet essai.
+[41] Aucun élément de preuve n’indique que l’une ou l’autre des quatre personnes qui ont participé au projet a appliqué les principes établis et les principes objectifs de la méthode scientifique pour réaliser les essais. Il ressort de l’examen, même superficiel, des entrées du journal citées au paragraphe 21 qui précède suggère que le projet s’apparentait plus à du « bricolage »ou à une « simple série d’essais et d’erreurs » qu’à la méthode scientifique[17].
+4. Le processus a-t-il abouti à un progrès technologique?
+[42] Le processus pourrait avoir abouti à un « progrès environnemental », car il permettrait de remettre à neuf des injecteurs de carburant usés, au lieu qu’ils soient jetés dans une décharge. Il pourrait avoir abouti à un « progrès financier » pour l’appelante, car l’appelante pourrait ainsi combler sa perte financière découlant du retrait des programmes de garantie. Néanmoins, après avoir entendu tous les témoignages, je ne sais toujours pas si le projet a ou non abouti à un progrès technologique.
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[43] L’appelante ne s’est pas acquittée de son fardeau de prouver qu’elle a consigné les éléments suivants à l’égard de tout essai réalisé en 2013 ou en 2014 :
+a) la formulation d’une hypothèse;
+b) la vérification de cette hypothèse;
+c) la modification de cette hypothèse en fonction des résultats de l’essai.
+[44] Prenons, par exemple, l’essai du 12 septembre 2013 concernant l’épaisseur de la cale ou l’essai du 25 septembre 2013 concernant la pression du ressort. Quelles épaisseurs de cale l’appelante a-t-elle mises à l’essai? Quels ont été les résultats de chaque essai? Pour quelles épaisseurs de cale l’essai a-t-il été concluant? Quelle norme de réussite des essais l’appelante a-t-elle sélectionnée? Concernant l’essai de pression du ressort, quelles pressions l’appelante a-t-elle appliquées et pendant combien de temps? Quels ont été les résultats de chaque essai, pour chaque pression et chaque durée? À quelle pression et à quel endroit chaque ressort a-t-il cédé? L’appelante n’a consigné aucune des réponses à ces questions.
+[45] Le problème n’est pas seulement le manque de documentation de la part de l’appelante. Le problème est que le manque de documentation de la part de l’appelante élimine presque toute possibilité de s’acquitter du fardeau concernant les deuxième et troisième critères établis par l’arrêt Northwest Hydraulic. L’enregistrement partiel d’un essai unique réalisé sur un injecteur C7 en 2013 (pièce A-2, reproduite à l’annexe A) et l’enregistrement partiel d’un autre essai unique réalisé sur le même type d’injecteurs en 2014 (pièce A-1, reproduite à l’annexe B) sont insuffisants pour que l’appelante puisse s’acquitter de ce fardeau.
+V. Conclusion [46] L’appelante ne s’est pas acquittée de son fardeau consistant à prouver, selon la prépondérance des probabilités, que ses activités réalisées dans le contexte du projet en 2013 et 2014 constituaient des activités de développement expérimental au sens de l’expression « activités de RS&DE » prévue par le paragraphe 248(1) de la Loi. Par conséquent, les appels doivent être rejetés.
+[47] À la fin de l’audition, j’ai demandé aux parties de faire état de leur position. L’appelante a demandé la possibilité de présenter des observations à ce sujet. L’intimée a demandé les dépens conformément au tarif. Les appels à l’égard des années d’imposition 2013 et 2014 de l’appelante sont par conséquent rejetés, avec dépens accordés conformément au tarif.
+Signé à Ottawa, Canada, ce 10e jour de juin 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 13e jour de septembre 2022.
+François Brunet, réviseur
+ANNEXE A
+ANNEXE B
+EN
+FR
+C7 / C9
+Injecteurs C7 ou C9
+HEUI Injector Output Comparison – Data for HI 2000 Test Stand
+Comparaison du débit des injecteurs électriques à commande hydraulique (HEUI) – données pour le banc d’essai HI 2000
+RPM
+Tours par minute
+Pulse Width
+Largeur d’impulsion
+ICP
+Pression de commande de l’injecteur
+*Basic Settings:
+*Paramètres de base :
+Stokes: 500
+Pulsations : 500
+Fuel Supply Pressure: 60 PSI
+Pression d’alimentation en carburant : 60 lb/po2
+Test Fluid Temperature: 40° C
+Température du fluide d’essai : 40 oC
+Leak Test Pressure: 1100 PSI
+Pression des essais de fuite : 1 100 lb/po2
+Date:
+Date :
+Customer Name:
+Nom du client :
+Injector Part#:
+Référence de l’injecteur :
+RÉFÉRENCE :
+2022 CCI 62
+NO DU DOSSIER DE LA COUR :
+2018-1618(IT)G
+INTITULÉ :
+DAVE’S DIESEL INC., c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 mai 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 10 juin 2022
+COMPARUIONS :
+Avocat de l’appelante :
+Me Mark S. Grossman
+Avocat de l’intimée :
+Me Christopher Ware
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Mark S. Grossman
+Cabinet :
+Shuh Cline & Grossman Kitchener (Ontario)
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] L’appelante a déclaré les crédits d’impôt à l’investissement en application des paragraphes 127(5) et 127(9) et du sous-alinéa 37(1)a)(i) de la Loi, combinés. Les dépenses pour les activités de RS&DE refusées sont de 56 065 $ pour l’année d’imposition 2013 et de 69 604 $ pour l’année d’imposition 2014.
+[2] National R&D Inc. c. Canada, 2022 CAF 72, par. 12.
+[3] Transcription, p. 21, lignes 9 à 14.
+[4] Transcription, p. 39, lignes 20 à 23.
+[5] Transcription, p. 73, lignes 15 à 21.
+[6] Transcription, p. 64, lignes 12 à 16.
+[7] Ray est l’un des manœuvres non spécialisés qui ont travaillé sur le projet. La pièce A-2 (reproduite à l’annexe A) concerne cette entrée du journal. Il s’agit de la consignation partielle de l’un des essais réalisés le 21 mars 2013.
+[8] La pièce A-1 (reproduite à l’annexe B) concerne cette entrée du journal; il s’agit la consignation partielle de l’un des essais réalisés le 3 décembre 2014.
+[9] Le paragraphe 78(1) des Règles prévoit ce qui suit :
+78(1) Dans les articles 78 à 91, le terme document s’entend en outre d’enregistrements sonores, de bandes magnétoscopiques, de films, de photographies, de tableaux, de graphiques, de cartes, de plans, de levés, de registres comptables et de renseignements enregistrés ou conservés de quelque façon que ce soit.
+[Non souligné dans l’original.]
+Le paragraphe 89(1) des Règles prévoit ce qui suit :
+89(1) Sauf directive contraire de la Cour, ou sauf si les autres parties ont renoncé au droit d’obtenir communication de documents ou ont consenti par écrit à ce que des documents soient utilisés en preuve, aucun document ne doit être utilisé en preuve par une partie à moins, selon le cas :
+a) qu’il ne soit mentionné dans les actes de procédure, ou dans une liste ou une déclaration sous serment déposée et signifiée par une partie à l’instance;
+b) qu’il n’ait été produit par l’une des parties, ou par quelques personnes interrogées pour le compte de l’une des parties, au cours d’un interrogatoire préalable;
+c) qu’il n’ait été produit par un témoin qui n’est pas, de l’avis de la Cour, sous le contrôle de la partie.
+[10] Voir l’arrêt R. c. Creemer, [1968] 1 C.C.C. 14, [1967] N.S.J. no 3 (NSCA), cité dans Lederman, Bryant et Fuerst, Sopinka, Lederman & Bryant: The Law of Evidence in Canada [Sopinka, Lederman et Bryant : le droit de la preuve au Canada], 5e éd. (Toronto : LexisNexis, 2018), par. 2.22. J’ordonnerais par conséquent que les pièces I-1 à I-12 soient à présent déposées comme pièces P-1 à P-12 pour le dossier.
+[11] Voir le contre-interrogatoire de M. Dave, à la page 154 de la transcription, lignes 17 à 21, dans lequel M. Dave témoigne du fait que l’incertitude technologique était [traduction] « la question de savoir si nous pouvions réussir à développer un processus permettant de remettre à neuf [les] injecteur[s]. »
+[12] Logix Data Products Inc. c. La Reine, 2021 CCI 36, par. 69.
+[13] En mentionnant précisément la profession d’ingénieur en mécanique, je n’ai pas pour intention d’exclure la possibilité qu’un mécanicien bien informé et expérimenté en matière de mécanique des moteurs diésel puisse être utile. Par cette observation, je veux souligner le fait que l’appelante n’a fait appel à aucun ingénieur en mécanique ou mécanicien dûment qualifié en matière de moteurs diésels à l’égard de cette question cruciale.
+[14] Transcription, de p. 159, ligne 25, à p. 160, ligne 3.
+[15] Lewis Carroll, The Annotated Alice: Alice’s Adventures in Wonderland & Through the Looking-Glass (Les Aventures d’Alice au pays des merveilles et De l’autre côté du miroir, version annotée), édition du 150e anniversaire, Gardiner & Burstein (New York : W.W. Norton & Company, 2015). Dans ce contexte, l’extrait qui suit est pertinent (aux pages 84 à 85) :
+« En ce cas, poursuivit le Lièvre de Mars, vous devriez dire ce que vous pensez. »
+« Je dis ce que je pense, s’empressa de répondre Alice; ou du moins…, du moins je pense ce que je dis… et c’est la même chose, n’est-il pas vrai? »
+« Pas du tout la même chose! protesta le Chapelier. Tant que vous y êtes, vous pourriez aussi bien dire que « Je vois ce que je mange », c’est la même chose que « Je mange ce que je vois! »
+[16] Joel Theatrical Rigging Contractors (1980) Ltd. c. La Reine, 2017 CCI 6, par. 26, renvoyant à l’arrêt Advanced Agricultural Testing Inc. c. La Reine, 2009 CCI 190, par. 30 et 31.
+[17] Par « simple série d’essais et d’erreurs », j’entends des essais réalisés sans formulation préalable d’une hypothèse.

@@ -1,0 +1,244 @@
+---
+title: "Lavoie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29249/index.do"
+last_modified: "2009-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 293"
+citation2: ""
+neutral_citation: "2009 TCC 293"
+decision_date: "2009-05-29"
+language: "en"
+item_id: "29249"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6989
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:14:22.420000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b80f42cebac819f1c6df36e254aaca65ab8e9d0d7d405df8ad741fe6ba5096e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lavoie v. The Queen
+
+- Citation: 2009 TCC 293
+- Decision date: 2009-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6989, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-29
+Neutral citation
+2009 TCC 293
+File numbers
+2007-3811(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3811(IT)I
+BETWEEN:
+RUSSELL W. LAVOIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 18, 2008 at Hamilton, Ontario,
+and on February 9, 2009, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+David Douglas Robertson
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 29th day of May, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 293
+Date: 20090529
+Docket: 2007-3811(IT)I
+BETWEEN:
+RUSSELL W. LAVOIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] This appeal is brought by Mr. Lavoie under the informal procedure from an assessment whereby the Minister of National Revenue has added $303.00 to his income for the 2005 taxation year. This is the aggregate of three amounts that were paid to him pursuant to two settlement agreements reached between the Ontario Securities Commission (OSC) and two corporations engaged in the business of managing mutual funds (the fund managers). The case is significant not only to Mr. Lavoie, but also to a large number of other taxpayers who received payments as a result of these agreements because they held units of the mutual funds managed by the fund managers (the managed funds) within their registered retirement savings plans (RRSPs).
+[2] The appeal came on for hearing in Hamilton, Ontario before another judge of this Court who, after hearing the evidence, concluded that he should recuse himself. The facts of the case are not in dispute, so the parties agreed that a different judge should hear their submissions and then give judgment based on the transcript of the evidence of the appellant, who was the only witness, the exhibits, and the Partial Statement of Agreed Facts filed by the parties at the first hearing. After reading the transcript, the exhibits and the agreed facts, I heard argument in Toronto on February 9, 2009. The decision of the Federal Court of Appeal in Tesainer v. the Queen[1] was delivered on February 10, 2009. I invited counsel to make additional submissions in writing concerning that decision, which they both did.
+Facts
+[3] The following are the facts that were agreed to by the parties.
+1. Mr. Russell Lavoie (the “Appellant) is a resident of Waterloo, Ontario, Canada.
+2. The Appellant is the annuitant of a Registered Retirement Savings Plan (“RRSP”) under an arrangement with Manulife Securities International Limited.
+3. The RRSP owns units in various mutual fund trusts, including units in Franklin Templeton Mutual Funds (“Franklin Templeton”) and AIC Mutual Funds (“AIC”), (collectively referred to as the “Fund Companies”).
+4. AIC is a fund manager responsible for the management of approximately 47 mutual funds with over $8 billion of assets.
+5. Similarly, Franklin Templeton is a mutual fund dealer and advisor, and is responsible for the management of approximately 90 mutual fund assets worth of approximately $18.6 billion.
+6. Franklin Templeton and AIC were among the American mutual fund companies that, in the year 2003, were investigated in the United States for abusive trading practices, specifically late market timing trades.
+7. Following the investigations in the United States, the Ontario Securities Commission (the “Commission”) initiated a similar investigation in Ontario.
+8. Specifically, in November 2003, the Commission, in cooperation with the Investment Dealers’ Association of Canada and the Mutual Fund Dealers’ Association of Canada, began an inquiry into potential late trading and market timing activities in the Canadian mutual fund industry.
+9. Following the investigations in Canada, the Commission concluded that AIC and Franklin Templeton were among a number of companies that failed to protect the best interests of their funds. Furthermore, the Commission concluded that the Fund Companies acted contrary to the public’s interests by neglecting to implement appropriate measures to protect their mutual funds against the harm associated with frequent trading market timing activities.
+10. The Commission reached settlements with five mutual fund companies, two of which were AIC and Franklin Templeton. AIC and Franklin Templeton reached settlements with the Commission in December 2004 and March 2005, respectively.
+11. As part of the settlements reached by Fund Companies and the Commission, it was agreed that provided the Fund Companies honored the terms of their settlement, the Commission would not initiate any proceedings against the Fund Companies for violations of Ontario’s Securities Act.
+12. On December 6, 2004, AIC agreed to make a payment in the amount of $58.8 million to the unit-holders of its mutual funds who suffered harm from the market timing activities of the company (the “Affected Investors”)
+13. In February 2005, Franklin Templeton agreed to make a payment in the amount of $49.1 million to the Affected Investors of its company.
+14. The five mutual fund companies with whom the Commission had reached a settlement agreed to prepare a plan for distributing the Funds (“Plans of Distribution”), the objective of which was to provide a fair allocation of the funds among the Affected Investors in a timely manner and in a way in which the costs would be reasonable in the circumstances.
+15. On June 30, 2005, the Commission approved the Plans of Distribution that required the five Canadian mutual fund companies to disburse $205.6 million to their Affected Investors.
+16. The Plans of Distribution for AIC and Franklin Templeton provide:
+Some of the payments under the Plan will be payable to tax‑deferred registered plans (such as registered retirement savings plans,) registered retirement income funds or registered educational savings plans). The Company will make payments in respect of such plans to the annuitant or beneficial owner of such plans as opposed to the plan itself.
+17. The Fund Companies did, in fact, make such payments directly to the RRSP annuitants. One of these annuitants was Mr. Lavoie.
+18. In or about September 2005, Mr. Lavoie received three cheques from the two Fund Companies totaling approximately $313.00 (the “Payments”)
+19. The Payments represented Mr. Lavoie’s portion of the settlement proceeds which were required to be distributed by the Fund Companies pursuant to their settlement agreements with the Commission and the Plan of Distribution.
+20. In the letters accompanying the Payments from AIC and Franklin Templeton were identical in content. Each letter stated:
+Dear Investor,
+On June 30, 2005, the Ontario Securities Commission approved the Plans for the distribution by five mutual fund companies of amounts that those companies agreed to distribute for the benefit of “affected investors” under settlements relating to “frequent trading market timing”. The Plans (which were prepared under the oversight of an independent consultant and have been approved by Staff and the Chair and a Vice-Chair of the Commission) can be found on the Commission’s website at www.osc.gov.on.ca.
+We are enclosing:
+* a cheque representing the payment to which you are entitled under [Franklin Templeton Investments’ Plan / AIC Limited’s Plan] in respect of all your affected fund investments held in any of your [Franklin Templeton / AIC Limited] accounts,
+* a breakdown of your payment that sets out the accounts affected, the funds held by you in respect of which the payment is made and the amount of any tax withheld, and
+* a guide that outlines the general tax implications of this payment.
+Please note that under the terms of the Plan, your right to this payment will expire on June 1, 2008 if you have not cashed the cheque by that date. Amounts represented by cheques that are not cashed by that time will be paid to the relevant fund.
+21. Enclosed with each letter was a Payment Statement setting out:
+(a) The name of the mutual fund
+(b) The account type in which the mutual fund was held
+(c) The account number
+(d) The dealer name
+(e) The dealer account number
+(f) The gross amount of the payment
+(g) The amount of withholding tax withheld (if any), and
+(h) The net amount of the payment, and then
+(i) The amount of the cheque
+22. The Franklin Templeton Investments Payment Statement also included the statement:
+“Please retain the statement for income tax purposes. No other tax statement or tax slip will be provided to you.”
+23. The AIC Payment Statement included the statement:
+“Please retain this Payment Statement and the attached Tax Guide for tax purposes. No other tax statement or slip will be provided to you with the exception of DPSP and registered pension plan accounts.”
+24. The Tax and Information Guide that was also included stated, in part, as follows:
+This is a general guide that is intended to help you determine the Canadian income tax treatment of the enclosed payment and to answer some other questions you might have. This is not legal or tax advice and may not address your particular situation. Therefore, you are advised to consult your own tax advisor with respect to your own situation.
+A Payment Statement is enclosed with this guide. The Payment Statement itemizes by account: the amounts paid to you, the investments to which each amount relates and the taxes withheld, if any.
+You will need the information on the Payment Statement to determine the proper tax treatment of the amounts received by you. No other tax statement or tax slip will be provided to you, with the exception of DPSP and registered pension plans.
+CANADA INCOME TAX TREATMENT OF PAYMENTS TO CANADIAN RESIDENTS
+…
+Investments held in an RRSP or RRIP.
+A payment in relation to an investment held in your RRSP, LIRA, locked-in RRSP, RRIF, LIF or LRIF is included in income in the taxation year that included the date of payment is received in the same way that is a withdrawal from your registered plan is included in income. If the payment is $200 or more, taxes have been withheld.
+If your spouse made contributions to your plan in any of the 3 years preceding the year in which you receive the payment, this payment will generally be taxable to your spouse instead of you.
+…
+25. Upon receipt of the cheques or soon thereafter, Mr. Lavoie cashed them.
+26. In filing his 2005 personal income tax & benefit return, Mr. Lavoie did not include the Payments in his income for tax purposes.
+27. May 1, 2006, the CRA assessed Mr. Lavoie’s 2005 income taxes as filed by Mr. Lavoie.
+28. In or about February 2007, Mr. Lavoie received a Notice of Reassessment dated January 29, 2007 from the CRA in which the Minister of National Revenue (the “Respondent”) reassessed Mr. Lavoie’s tax liability for the 2005 taxation year by including the Payments as taxable income.
+29. On or about March 31, 2007, Mr. Lavoie filed a Notice of Objection to the Minister’s reassessment.
+30. On July 18, 2007, the Minister confirmed his reassessment on the basis that the Payments represented a benefit out of or under an RRSP, and therefore, according to the Minister, Mr. Lavoie was required to include the Payments in his income pursuant to paragraph 56(1)(h) and subsection 146(8) of the Income Tax Act (the “Act”).
+[4] Exhibit A-3 at the trial is the Statement of Claim in a class action begun in the Ontario Superior Court on behalf of, among others, the unitholders in the managed funds against Franklin Templeton, AIC, and other fund managers claiming, among other relief, damages arising out of the market timing trading transactions.
+[5] The appellant’s position is that the payments do not come within section 3 of the Income Tax Act[2] (the Act); they are a windfall, and so not subject to taxation. In this he relies on the decision of the Federal Court of Appeal in The Queen v. Cranswick,[3] and on Interpretation Bulletin IT-334R2, which expresses the assessing policy of the Minister of National Revenue in respect of the receipt by taxpayers of gifts and windfall amounts. The bulletin in large measure adopts the seven factors that the Court of Appeal in Cranswick found to be relevant in identifying a non‑taxable windfall.
+[6] The respondent’s position is that the payments do not meet the test for windfall amounts, but are amounts paid in compensation for the harm caused to the appellant’s fund holdings in his RRSPs by the market timing transactions that were sanctioned by the fund managers, AIC and Franklin Templeton. The respondent makes two arguments that flow from this. First, Mr. Bartleman argues that on a proper analysis the Cranswick factors do not lead to the conclusion that these payments should be characterized as windfalls. Second, he argues that the surrogatum principle applies, and that it has the effect of characterizing the payments as amounts received by the appellant out of or under his RRSP, and therefore to be included in his income by reason of subsection 146(8) of the Act. That subsection reads:
+146(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer’s income.
+The Cranswick factors
+[7] In Cranswick, the payment in question was made gratuitously by the majority shareholder and US parent company of a Canadian corporation to a minority shareholder. The parent had caused the corporation to sell part of its business at a price substantially below book value, and subsequently it offered to purchase the shares of the minority shareholders, or alternatively to pay them $3.35 per share. The offer was made
+“… in the hope of avoiding controversy or potential litigation on behalf of minority shareholders …”, but not “… by reason of any enforceable claims … by shareholders …”.[4]
+In concluding that the payment of $ $2,144 made to the holder of 640 shares was a windfall, the Court considered seven factors put forward by counsel for the Crown, and said of them that they were all relevant “… although no one of them by itself may be conclusive …”. The seven factors are:
+(i) The Respondent had no enforceable claim to the payment;
+(ii) there was no organized effort on the part of the Respondent to receive the payment;
+(iii)the payment was not sought after or solicited by the Respondent in any manner;
+(iv) the payment was not expected by the Respondent, either specifically or customarily;
+(v) the payment had no foreseeable element of recurrence;
+(vi) the payor was not a customary source of income to the Respondent;
+(vii) the payment was not in consideration for or in recognition of property, services or anything else provided or to be provided by the Respondent; it was not earned by the Respondent, either as a result of any activity or pursuit of gain carried on by the Respondent or otherwise.[5]
+[8] Cranswick must be read in light of the fact that the trial judge’s statement that the payment was not made by reason of any enforceable claim asserted by the shareholders of the Canadian subsidiary results from a specific statement to that effect contained in an agreed statement of facts. As Robertson J.A. said later in Bellingham v. Canada:[6]
+That concession on the part of the Minister cannot be ignored for as the law presently stands monies paid for the discharge of even a questionable legal right may constitute income in the hands of the taxpayer.
+The distinction between a voluntary payment and one motivated by the prospect of litigation was central to the decision of the Federal Court of Appeal in The Queen v. Mohawk Oil Co.[7] These cases demonstrate that, as Robertson J.A. said in Bellingham:
+The precise scope of the residual category "windfall gains" has proven problematic. At best, it can be said that a payment which is unexpected or unplanned and not of a recurring nature, is more likely than not to be characterized as a windfall gain. But like all generalizations, this observation must be scrutinized meticulously.
+[9] It is not at all clear that the appellant, or at least the trustee of his RRSPs, had no enforceable claim to be compensated for the harm done by the fund managers through their failure to protect the funds’ unit holders from the effects of the market timing activities. The fact that the payments resulted from administrative action taken by the OSC rather than proceedings begun by Mr. Lavoie, or the class action that is pending, does not affect the purpose and character of the payments. Mr. Robertson argued that the payments were in the nature of a penalty imposed by the OSC, but payable to the affected investors. There was no direct evidence called by either party to shed light on this, but it seems self-evident from all the surrounding circumstances, including the terms of the Settlement Agreements and the Plans of Distribution, that the purpose of the payments was in part to impose a penalty on the fund managers, but also to compensate investors, at least in part, for their losses. For example, a lengthy section of each Plan of Distribution is titled determination of recipients of payments, and makes provision for characterization of “affected investor” status on the basis of specific funds in specific accounts, and for payment to both former and current unitholders. It was in the character of compensation that the appellant and the other affected investors received their payments.
+[10] Nor do the second third and fourth Cranswick factors apply to characterize these payments as windfalls. It is true that Mr. Lavoie, and presumably the other beneficial owners of units as well, did not pursue claims or negotiate settlements with the fund managers. Nevertheless, it was on their behalf that this was done by the OSC. The Securities Act[8] of the province of Ontario has two clear purposes, stated in section 1.1:
+1.1 The purposes of this Act are,
+(a) to provide protection to investors from unfair, improper or fraudulent practices; and
+(b) to foster fair and efficient capital markets and confidence in capital markets.
+It was in furtherance of these objectives that the OSC took the action that it did to secure payments of compensation for the affected investors. It is clear from the complex Plans of Distribution that the focus of the settlements and the implementation of them was designed to provide compensation to the investors.
+[11] It is not significant that the payments in this case were an extraordinary event and not likely to recur. These two criteria, if positive, might be considered indicia of payments in the nature of income; in the negative they are a neutral factor. There are many kinds of payments that may occur in isolation, but are nonetheless clearly taxable. Withdrawals from RRSPs are the most obvious example, in the present context. There is, of course, the possibility of further payments of compensation to Mr. Lavoie and the other investors if the class action succeeds in relation to Franklin Templeton and AIC.
+[12] The final Cranswick factor relied on by the appellant is that the payments were not made in consideration for property, services or anything else provided by him, or as a result of any activity on his part. Mr. Robertson emphasized in argument the fact that a class action has been begun which includes claims against Franklin Templeton and AIC for the very conduct that gave rise to the proceedings taken by the OSC that resulted in the settlements in issue here. He points out that Mr. Lavoie has signed no release, and may share in the proceeds of the action as a member of the relevant classes. While this is undoubtedly so, it does not change the nature of the payments made by Franklin Templeton and AIC under the agreements negotiated by the OSC. The Plans of Distribution[9] provide for payments to be made only to unitholders who were adversely affected by the market timing transactions, and for those payments to be proportionate to the degree of adverse effect suffered by the payees in relation to the total adverse effect on all unitholders. No payments from the settlement funds were to be made to unitholders who experienced an overall benefit as a result of the market timing transactions in a fund. From these provisions it is clear that the intention of the OSC, and presumably the fund managers as well, was that the settlement funds were to compensate unitholders for their losses.
+[13] The compensatory nature of the payments distinguishes this case from cases such as Cranswick and Bellingham. In Bellingham, the Federal Court of Appeal held that an award made under subsection 66(4) of the Expropriation Act[10] of Alberta was in the nature of a penalty imposed on the expropriating authority, and unrelated to the issue of fair compensation for the expropriated land. As a penalty, rather than compensation, it was properly characterized as a windfall, and so not subject to tax in the hands of the recipient.
+[14] The question that then arises is whether it is appropriate to apply the surrogatum principle to these payments. Mr. Robertson says that it is not, because the payments were not made in settlement of enforceable claims by Mr. Lavoie against Franklin Templeton and AIC. There is no principled distinction to be made between these payments and payments made in settlement of litigation, or in satisfaction of a judgment for damages after trial. If the class action results in judgment against Franklin Templeton and AIC then these payments would be taken into account in the assessment of any damages to be recovered by Mr. Lavoie. Both the majority and the dissenting judgments of the Supreme Court of Canada in Tsiaprailis v. Canada[11] affirm the principle that “awards of damages and settlement payments are inherently neutral for tax purposes”.[12] As Robertson J.A. stated in Bellingham, it is always necessary to look to the nature and purpose of the payment when considering how it is to be treated for tax purposes. As I have said above, the nature of these payments, in the hands of the appellant, is that they were compensatory. They may have had more than one purpose, but at least one of their purposes was to restore to Mr. Lavoie and the other affected investors some or all of the diminution of the value of their fund holdings.
+[15] Charron J., writing for the majority in Tsiaprailis, said at paragraph 15:
+The determinative questions are: (1) what was the payment intended to replace? And, if the answer to that question is sufficiently clear, (2) would the replaced amount have been taxable in the recipient’s hands?
+The answer to the first question is clear from the Settlement Agreements and the Plans of Distribution. It was the loss in value of the units. Under the Plans of Distribution the payments were to be made to the holders, and former holders, of units of the funds. For reasons that are not revealed in the evidence, payments of compensation in respect of fund units held in RRSPs and other tax-deferred registered plans were made payable by the Plans of Distribution to the annuitants, although the Settlement Agreements provided for payments to the unitholders. The surrogatum principle requires that the payments be treated for tax purposes as though they were part of the Registered Plan held by the trustee, because it is the value of those units that is to be restored, in whole or in part, by the payments.
+[16] The answer to Charron J.’s second question, then, must depend on the tax treatment that would be applied to a part of the Registered Plan if during the year it were to be in the hands of the annuitant rather than the trustee. Subsection 146(8) brings into the taxpayer’s income for the year
+… the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans …
+For purposes of this section, the word “benefit” is defined in subsection 146(1).
+"benefit" includes any amount received out of or under a retirement savings plan other than
+[exceptions are inapplicable]
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+(d) in accordance with the terms of the plan,
+(e) resulting from an amendment to or modification of the plan, or
+(f) resulting from the termination of the plan;
+«prestation » Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+[les exceptions sont inapplicable]
+sans préjudice de la portée générale de ce qui précède, le terme vise toute somme versée à un rentier en vertu du régime :
+d) soit conformément aux conditions du régime;
+e) soit à la suite d’une modification du régime;
+f) soit à la suite de l’expiration du régime.
+Rowe D.J. pointed out in Kaiser v. The Queen[13] the breadth given to this definition by the inclusion of the word “under” in the English version, and the expression in the French version “dans le cadre” has a similar effect. Applying the surrogatum principle to the payments leads me to conclude that when the Appellant cashed the cheques and applied the funds to purposes other than restoring the value of the fund holdings in his RRSPs then those amounts fell to be treated as amounts received by him in the year as benefits out of or under his RRSPs, and so were taxable in his hands.
+[17] Mr. Lavoie made the point in his evidence that he had no RRSP contribution room when he received the payments in September 2005, the implication being that he could not have turned the payments over to the trustee of his RRSPs without suffering a penalty for overcontribution under Part X.1 of the Act. However, consistency in the application of the surrogatum principle dictates that the appellant could, on receipt of the payments, have handed them over to the trustee to be added to the trust assets, without penalty. This is simply recognition of the true nature of the payments, that is as compensation to the trustee for wrongful impairment of the assets of the trust.
+[18] Paragraph 24 of the Agreed Statement of Facts reproduces in part the Tax and Information Guide that was sent to the appellant with his payments. I can see no relevance to this document, and I have not considered it in reaching my conclusion that the payments are subject to tax. It is no more than the view of some unknown individual, presumably employed by the fund managers or their consultant who assisted in preparing the Plans of Distribution. I was also referred to the Interpretation Bulletins IT-334R2 – Miscellaneous Receipts and IT 365R2 – Damages, Settlements and Similar Receipts issued by the Canada Revenue Agency. I appreciate that Interpretation Bulletins may in some cases be useful in resolving ambiguity in the provisions of the Act. I do not consider this to be such a case.
+[19] For the foregoing reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 29th day of May, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 293
+COURT FILE NO.: 2007-3811(IT)I
+STYLE OF CAUSE: RUSSELL W. LAVOIE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 18, 2008 – Hamilton
+February 9, 2009 - Toronto
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: May 29, 2009
+APPEARANCES:
+Counsel for the Appellant:
+David Douglas Robertson
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Douglas Robertson
+Firm: Fasken Marineau DuMoulin LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 FCA 33.
+[2] R.S.C. 1985, c.1 (5th Supp.) as amended.
+[3] [1982] 1 F.C. 813; [1982] C.T.C. 69.
+[4] Ibid. @ para. 3.
+[5] Ibid. @ paras. 12 and 15.
+[6] [1996] 1 F.C. 613; [1996] 1 C.T.C. 187 (FCA).
+[7] [1992] 1 C.T.C. 195.
+[8] R.S.O. 1990, c. S.5.
+[9] AIC Limited’s Plan of Distribution and Franklin Templeton Investments Corp. Plan of Distribution, both approved on June 30, 2005, are found at tabs 8 and 9, respectively, of the Joint Book of Documents, Exhibit A-1.
+[10] R.S.A. 1980, c. E-16
+[11] [2005] 1 S.C.R. 113; 2005 SCC 8.
+[12] Ibid. per Charron J. @ para. 7; see also Abella J. (dissenting) @ para. 48.
+[13] [1994] 2 C.T.C. 2385 @ para. 20.

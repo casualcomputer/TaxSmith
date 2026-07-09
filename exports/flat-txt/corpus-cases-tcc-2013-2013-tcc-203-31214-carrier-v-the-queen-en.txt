@@ -1,0 +1,126 @@
+Title: Carrier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31214/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-203-31214-carrier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-10
+
+# Carrier v. The Queen
+
+- Citation: 2013 TCC 203
+- Decision date: 2013-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5054, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-10
+Neutral citation
+2013 TCC 203
+File numbers
+2011-2085(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2085(IT)G
+BETWEEN:
+ROGER CARRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 10, 2013 at Québec, Québec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Me Nadia Harvey
+Me Jean-Paul Timothée
+Counsel for the Respondent:
+Me Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Appellant’s 2004 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 20th day of June 2013.
+"Patrick Boyle"
+Boyle J.
+Citation: 2013 TCC 203
+Date: 20130620
+Docket: 2011-2085(IT)G
+BETWEEN:
+ROGER CARRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Roger Carrier appeals from the assessment of tax on subsection 15(1) shareholder benefits that the Respondent maintains he received from two of his wholly-owned companies, Agence Roger Carrier inc. (“Agence Roger Carrier”) and 2971-1181 Québec inc. carrying on business as Génie Concepts (“Génie Concepts”). The aggregate amount of the benefits is approximately $175,000. The assessments are in respect of the 2004 taxation year. Penalties were also assessed under subsection 163(2).
+Facts
+[2] At all material times the Appellant, Roger Carrier, was the sole shareholder and director of Agence Roger Carrier and Génie Concepts. Both corporations had carried on active businesses. However, by 2001 their only remaining relevant assets were cash investments.
+[3] In 2001 Mr. Carrier was presented with an opportunity to invest money for a five-year term in Commodore Corp. (“Commodore”) in the Bahamas which would generate a 25% rate of return provided Commodore earned at least 35% returns in the period. Mr. Carrier invested $70,000 of his personal funds in Commodore. He also caused Agence Roger Carrier to invest $150,000 and Génie Concepts to invest a further $25,000. Agence Roger Carrier’s funds had until that time been invested with Great West Life. The total amount invested was $245,000. The amounts invested by Agence Roger Carrier and Génie Concepts represented virtually all of their remaining assets at that time. Skeletal investment agreements were entered into with Commodore to reflect this. These investments remain somewhat unexplained. On the same day the Appellant signed his investment contract in Commodore, he also signed a contract of loan with Commodore as lender for the same amount at 8% interest which the Appellant could not explain nor reconcile with his investment contract.
+[4] Agence Roger Carrier and Génie Concepts both stopped filing tax returns after their 2001 taxation years. Their prior years’ taxes had not been fully paid. As discussed below, Mr. Carrier has since personally paid the corporation’s previously assessed taxes. However, they still never filed tax returns for the subsequent years.
+[5] Mr. Carrier became concerned about the Commodore investments in late 2003 and pushed Commodore for repayment of the $245,000 amount invested by him and his two corporations. After some discussions, a Canadian corporation, (that may have assumed Commodore’s obligations under the mysterious contract of loan immediately in 2001) Société Financière Speedo (1993) Ltée (“Speedo”), repaid $240,000. Speedo’s cheque dated January 14, 2004 for $240,000 was made payable to Roger Carrier personally.
+[6] On February 10, 2004 Roger Carrier opened a personal bank account in his sole name at Banque de Montréal and endorsed and deposited Speedo’s $240,000 cheque in that account.
+[7] On April 13, 2004 Roger Carrier caused a $240,000 amount to be transferred by Banque de Montréal to a BMO Nesbitt Burns Investment account in his sole name.
+[8] In May 2004, the registrations (“immatriculations”) of Agence Roger Carrier and Génie Concepts were both struck (“radiée”) by the relevant provincial ministry for having failed to file the required annual returns. Under applicable Québec law, they were there upon deemed to have been legally dissolved. No attempt has ever been made to revive them.
+[9] In May 2004, Roger Carrier registered the name “Motorisés de la Capitale senc (societé en nom collectif)”, for a new business he and his wife were starting up.
+[10] In May 2004, Roger Carrier hired a new accountant to do to bookkeeping and to prepare financial statements and tax returns for himself and for Motorisés de la Capitale senc. He did not inform his new accountant at the time of the details of his Nesbitt Burns investment account.
+[11] In July 2004, Roger Carrier closed his Nesbitt Burns investment account and had the amount transferred to a new BMO account in the name of Motorisés de la Capitale senc.
+[12] Later in July 2004, Roger Carrier and his wife incorporated 9144-7979 Québec Inc. (“9144”). The business of Motorisés de la Capitale senc was then carried on by that new corporation. The new BMO bank account of Motorisés de la Capitale senc that was seemingly renamed as that of 9144.
+[13] Prior to the Canada Revenue Agency (“CRA”) audit, Roger Carrier did not inform his new accountant of the source of the funds in his Nesbitt Burns account nor did he ever suggest it was not fully owned by him personally. The amount transferred to Motorisés de la Capitale senc was recorded on the books as an amount due to Roger Carrier personally when it was transferred in July 2004. Similarly, the amount was shown as due to Roger Carrier personally on the financial statements of 9144 from its inception.
+[14] The amounts were shown as due to Roger Carrier personally on 9144’s financial statements, and in its annual tax returns, until after CRA commenced the audit of Roger Carrier in July of 2008. It was also after that time that the new accountant was first informed of the provenance of Mr. Carrier’s Nesbitt Burns investment account. Following that, the entire $175,000 amount originally coming from Agence Roger Carrier and Génie Concepts was shown as due to related companies, notwithstanding that there had been a $5,000 loss resulting from Speedo only repaying $240,000, and notwithstanding there had been investment gains and losses while invested with Nesbitt Burns.
+[15] It should also be noted that in February 2006, Mr. Carrier was quick to pay from his own funds the outstanding tax arrears of Agence Roger Carrier and Génie Concepts once a CRA Collections officer suggested to him that it could assess him personally under section 160 as his companies had transferred their cash assets to him. He did not discuss this with his new accountant at the time. In the course of this, he twice told the CRA collections officer that he had spent the monies to live on. He did not say that the companies had loaned the monies to 9144 for its new business. One can assume that those exchanges with the CRA may have led to his personal audit and the reassessments in question.
+Analysis and Conclusion
+[16] In view of that evidence, I am entirely satisfied that it was in fact the intention of Roger Carrier, and therefore of his corporations, Agence Roger Carrier and Génie Concepts, since at least when the three Commodore investments were repaid to him by Speedo in 2004, to confer a benefit on Mr. Carrier by allowing him to appropriate the remaining cash assets of these two corporations. This would have allowed him to effectively wind up and dissolve these corporations without being subject to tax on the distributions to him.
+[17] I can discern no other possible explanation of the corporations’ intentions that is reasonable in view of the evidence before me. The Appellant’s counsel could not really suggest another either.
+[18] The amounts involved are far too significant to have been an oversight. To my mind, any suggestion to the contrary is negated by the following facts:
+(i) he deposited the amounts to new bank and investment accounts opened for the sole purpose of depositing the funds, yet he opened those in his sole name;
+(ii) he failed to take any steps to revive the corporations or to cause them to file tax returns;
+(iii) he failed to inform his accountant at anytime prior to 2008 when the CRA audit commenced, and he decided to inform the accountant very shortly after the CRA audit commenced;
+(iv) the total absence of any plan or method to ever repay the amounts due to Agence Roger Carrier and Génie Concepts even after 2008 when they were recorded as debts of 9144;
+(v) his responses to the 2006 CRA Collections agent. He acknowledged then that he had taken the money and he said he had used it to live on. He paid these two corporations’ tax debts personally once the section 160 transferee liability provision was discussed. He did not ever mention at that time having financed the Motorisés de la Capitale senc business;
+(vi) his explanation that it was always his intention to have these amounts loaned by Agence Roger Carrier and Génie Concepts to the new Motorisés de la Capitale senc business cannot be accepted. There was ample opportunity to reflect that correctly from the outset or to revise it on several occasions prior to the CRA audit commencing. He put the money in the new personal accounts for months before the new business name was even registered;
+(vii) Once the CRA audit was commenced, he assumed all of the Speedo loss personally and posted the initial $150,000 and $25,000 amounts as owing to Agence Roger Carrier and Génie Concepts by 9144. Had loans been properly the plan from the outset, these two corporations would have suffered their share of the $5,000 Commodore loss.
+[19] For these reasons, the subsection 15(1) shareholder benefits were properly assessed and Mr. Carrier’s appeal in respect of tax on the amount of the shareholder benefits must be dismissed. I find, on the evidence, that those benefits were knowingly and intentionally conferred in 2004 for the purpose of assisting Mr. Carrier to avoid paying tax upon the winding up of the corporations. The accounting entries subsequent to the commencement of the CRA audit reflect ineffective attempts to revise history and the record in order to avoid or challenge any potential tax reassessment.
+[20] I have concluded, on the facts, Mr. Carrier’s plans and actions were deliberate and intentional. For that reason, the subsection 163(2) penalties assessed are also appropriate as part of this included knowingly omitting to report the benefits in his 2004 tax return.
+[21] The appeal is dismissed, with costs.
+Signed at Toronto, Ontario this 20th day of June 2013.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 4th day of August 2016
+François Brunet, Revisor
+CITATION: 2013 TCC 203
+COURT FILE NO.: 2011-2085(IT)G
+STYLE OF CAUSE: ROGER CARRIER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Québec
+DATE OF HEARING: June 10, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: June 20, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Me Nadia Harvey
+Me Jean-Paul Timothée
+Counsel for the Respondent:
+Me Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Me Nadia Harvey
+Me Jean-Paul Timothée
+Firm: Gagné Letarte SENCRL, avocats
+79, Boulevard René-Lévesque Est
+Bureau 400
+Québec, QC, G1R 5N5
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

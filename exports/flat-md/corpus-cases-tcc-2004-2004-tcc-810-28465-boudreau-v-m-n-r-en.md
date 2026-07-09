@@ -1,0 +1,200 @@
+---
+title: "Boudreau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28465/index.do"
+last_modified: "2004-12-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 810"
+citation2: ""
+neutral_citation: "2004 TCC 810"
+decision_date: "2004-12-30"
+language: "en"
+item_id: "28465"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1198
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:41:40.774000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ccc89d7c52d675fe776a8053e3b884c58b490e4d5e1f764da7e167ea23c46487"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boudreau v. M.N.R.
+
+- Citation: 2004 TCC 810
+- Decision date: 2004-12-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1198, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudreau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-30
+Neutral citation
+2004 TCC 810
+File numbers
+2003-3623(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3623(EI)
+BETWEEN:
+JULIA BOUDREAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 25, 2004 at Moncton, New Brunswick
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Jacques Cormier
+Counsel for the Respondent:
+Antonia Paraherakis
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of December 2004.
+"B. Paris"
+Paris, J.
+Citation: 2004TCC810
+Date: 20041230
+Docket: 2003-3623(EI)
+BETWEEN:
+JULIA BOUDREAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal of a determination by the Minister of National Revenue (the "Minister") that Julia Boudreau's employment with G.B. Roofing Ltd. (the Payor) was not insurable under the Employment Insurance Act[1] because she and the Payor were not dealing at arm's length. The appeal covers two periods of employment: from December 15, 2000 to December 14, 2001, and from June 17, 2002 to January 17, 2003.
+[2] Where an employer and an employee are related according to the provisions of the Income Tax Act, they will be deemed to act at arm’s length if the Minister, after considering all of the circumstances of the employment, determines that it is reasonable to conclude that the parties would have entered into a substantially similar contract of employment if they had been dealing at arm's length. The relevant provisions of the Employment Insurance Act read as follows:
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+5(2) N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[3] In this case the Minister decided that it was not reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing at arm’s length. The facts relied upon by the Minister in reaching that conclusion are set out in paragraph 13 of the Reply to Notice of Appeal, as follows:
+[TRANSLATION]
+a) the payor was incorporated in 1996;
+b) the Appellant’s spouse is the sole shareholder of the payor;
+c) the payor is in the roofing business;
+d) payor’s business is not entirely seasonal, but has a busy season between May and October;
+e) the Appellant’s duties consisted of helping out in the office by answering the phone, taking care of the mail, completing estimates, making deposits, doing some bookkeeping and running errands;
+f) the Appellant’s salary was $780.00 per week which equaled $19.50 an hour based on a 40 hour week;
+g) the payor employed another office worker all year round;
+h) the other office worker employed by the payor was paid $10.37 an hour and worked about 30 hours per week;
+i) the Appellant’s salary was excessive for the work she did;
+j) the Appellant did not have enough work to do to keep her occupied for 40 hours per week;
+k) the payor’s payroll records indicated that the Appellant worked 50 hours per week;
+l) the number of hours shown in the payroll records was excessive;
+m) during the periods under appeal the payor issued two records of employment to the Appellant :
+i) the first for the period from December 27, 1999 to December 14, 2001 with 1650 hours; and
+ii) the second for the period from June 17, 2002 to January 17, 2003 with 800 hours;
+n) the Appellant was not listed in the payor’s payroll register during the year 2000;
+o) during the periods under appeal the Appellant was listed in the payor’s payroll register for the weeks ending on the following dates :
+2001
+April 7, 14, 21, and 28
+May 5, 12, 19 and 26
+June 2, 9, 16, 23 and 30
+July 7, 14, 21 and 28
+September 22 and 29
+October 6, 13, 20 and 27
+November 3, 10, 17 and 24; and
+December 8, 15 and 22;
+2002
+June 22;
+October 19 and 26;
+November 2, 9, 16, 23 and 30; and
+December 7, 14, 21 and 28;
+2003
+January 4, 11 and 18;
+p) the periods of the appellant’s employment did not coincide with the needs of the payor;
+q) the Appellant worked the periods that suited her;
+r) the Appellant and the payor were related within the meaning of the Income Tax Act;
+s) the Appellant and the payor were not acting at arm’s length;
+t) Having regard to all of the circumstances, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that the Appellant and the payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+Were the Appellant and Payor dealing at arm’s length?
+[4] It was admitted by the Appellant that her spouse, Gilles Boudreau, owned all of the shares of the Payor. However, the Appellant's counsel argued that the question of whether the Payor and the Appellant were dealing at arm’s length should not be determined by reference to the Income Tax Act, as otherwise would be the case under paragraph 5(3)(a) of the Employment Insurance Act. In his submission, paragraph 5(3)(a) is only applicable where the employer is a natural person and not a corporation. He pointed out that the word “person” is not defined in the Employment Insurance Act and said that the word should be given its ordinary meaning.
+[5] However, although the word person is not defined in the Employment Insurance Act, the Interpretation Act provides that:
+“[i]n every enactment … "person", or any word or expression descriptive of a person, includes a corporation”.[2]
+[6] Given that there is no indication in the wording of the Employment Insurance Act of an intention to oust the application of this provision, the Appellant's first argument cannot succeed. The Appellant and the Payor are related pursuant to subparagraph 251(2)(b)(iii) of the Income Tax Act, and are therefore deemed not to deal with each other by virtue of paragraph 251(1)(a) of that Act.
+Was it unreasonable for the Minister to conclude that the Appellant and the Payor would not have entered into a substantially similar contract of employment if they had not been related?
+[7] The Appellant’s counsel further argues that the evidence before the Court in this case shows that the Minister's conclusion regarding the terms and conditions of employment was not reasonable. The Appellant bears the onus of proving that the the Minister erred in arriving at this conclusion. I am not satisfied that she has satisfied that burden.
+[8] Both the Appellant and her spouse were reluctant to admit in their testimony in Court that the Payor's roofing business had busy and slow periods during the year. The Appellant said that it was not possible to predict when the Payor's busy season during any year would occur, and Gilles Boudreau said that it was hard to give an exact time when the Payor would be busy. However, this contradicted information they provided initially to the Canadian Revenue Agency ("CRA") relating to the Appellant's work for the Payor. Both the Appellant and her spouse responded to questions put to them in questionnaires from the Agency that the Payor's busy season was usually from April to December each year[3]. They had also stated that the Appellant worked for the Payor during the “busy season” and that her job was intended to last “for the season”[4].
+[9] I find that the Payor’s business did, in fact, have a busy period from April to December each year as originally indicated by the Appellant and her spouse. This being the case, I find that no satisfactory explanation was provided by the Appellant or by her spouse why she worked 50 hours per week through the Payor's slow season during her first period of employment, and why her services were not required during a significant part of the busy season in her second period of employment. (She worked only one week between April and mid‑October 2002).
+[10] It also appears that, prior to the Appellant commencing work for the Payor, the Payor did not employ anyone to do the tasks purportedly done by the Appellant during her periods of employment. On the questionnaires completed by the Appellant and her spouse for the CRA they both stated that before the Appellant was hired, her tasks were performed by "office admin" and Christina Leblanc[5]. However, evidence led at the hearing showed that before the Appellant started working for the Payor, Christina Leblanc was the Payor’s only office worker and the work she did was distinct from that which was done by the Appellant. The reference to “office admin” was not explained. It seems incongruous that the Payor would have hired the Appellant during its low season to work 50 hours each week to perform tasks that it had not hired anyone for previously. Also, despite Mr. Boudreau's testimony that it would have been necessary to hire another worker (and possibly two) if the Appellant had not worked for the Payor, he confirmed that no one else was hired to replace her during the many weeks she did not work during the Payor's busy season in 2002, or after she stopped working for the Payor in January 2003.
+[11] After hearing the Appellant's evidence with respect to her work hours I am left with the impression that she has exaggerated the hours and nature of the work. The Appellant also said that the 50 hours she worked each week for the Payor included 10 hours overtime and that the overtime was consistent through the busy and the slow periods of the Payor's business. In addition to working from 7:00 a.m. to 5:00 p.m. every week-day she said that in the evenings she answered the phone, prepared quotes and discussed business with her spouse, and on weekends she answered the phone and arranged for emergency roofing repairs when her spouse was away.
+[12] She said doing the roofing quotes took a great deal of time and that the Payor gave at least 50 quotes per month and up to 100 quotes during the busy season. Gilles Boudreau said that he would do about half of them himself, and that he and the Appellant would prepare the other half together in the evenings, spending about two hours on each quote. This would mean that the Appellant spent between 50 and 100 hours per month in the evenings just on the quotes (or 10 to 20 hours per week).
+[13] Using the figures provided by the Appellant in her testimony it would appear that she worked closer to 70 hours per week for the Payor. If this were true, it would seem even more unlikely that the Payor could have done without a worker to perform those services prior to hiring the Appellant and during the busy season in 2002, when she was not working for the Payor. It also is unlikely that the Appellant's schedule would involve the excessive amount of overtime she describe while the Payor’s other office worker put in only six hours per day five days a week with no overtime. In light of these apparent inconsistencies I do not accept the Appellant's evidence regarding the hours she worked.
+[14] Furthermore, it has not been shown that the Minister erred in assuming that the tasks assigned to the Appellant by the Payor would have occupied the Appellant for the number of hours she claimed she worked. The Appellant said that from Monday to Friday she took phone calls between 7 and 9:00 a.m. and between 3 and 5:00 p.m. when Christina Leblanc was not in the office, she made two bank deposits per week, opened 10 to 15 pieces of mail received each day, delivered some quotes to customers, cleaned the office, cleaned the walkway of ice and snow and ran errands such as picking up parts for Gilles Boudreau's truck if it broke down. She estimated that she spent 75% of her time outside of the office but no other details of how much time she spent on these tasks were provided. The Appellant statements were not corroborated by any objective evidence, and I note that Christina Leblanc, who would have had first hand knowledge of much of what the Appellant did for the Payor, was not called as a witness.
+[15] Also, it has not been shown that the Minister erred in assuming that the Appellant's rate of pay was excessive. Based on a 50-hour work week, Ms. Boudreau was paid $15 per hour. (She also received $30 per week of holiday pay). This is compared with the hourly rate of $10.37 paid to Miss Leblanc whose computer and bookkeeping work was more specialized than the work done by the Appellant. The Appellant’s counsel argued that the Appellant’s work was akin to that of an administrative or executive assistant and provided information obtained from the Internet showing a median salary for this occupational group as $14.30 per hour. I do not agree that the Appellant’s duties of employment could be compared to an executive assistant in that she did not require any special training or skill to carry them out. Her counsel suggested that her most important duty was to prepare quotes, but this was done with the assistance of Mr. Boudreau. It does not appear that any effort was made by the Payor to determine the appropriate wage for the Appellant when she started.
+[16] Finally, although copies of the Appellant’s pay slips for the period starting on March 30, 2001 were introduced into evidence, there was no explanation given for the fact that the Appellant was not listed in the payroll records prior to that date or why no earlier pay stubs were available. I infer that the records kept by the Payor for the payment of the Appellant’s wages prior to April 2001were not consistent with the records kept for arm’s length employees.
+[17] For all of these reasons I conclude that the Appellant has not shown that it was unreasonable for the Minister to conclude that she and the Payor would not have entered into a substantially similar contract of employment had they been dealing at arm’s length, and the appeal is, therefore, dismissed.
+Signed at Ottawa, Canada, this 30th day of December 2004.
+"B. Paris
+Paris, J.
+CITATION:
+2004TCC810
+COURT FILE NO.:
+2003-3623(EI)
+STYLE OF CAUSE:
+Julia Boudreau and M.N.R.
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+October 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+December 30, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Cormier
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jacques Cormier
+LeBlanc, Martin, Sweet and Cormier
+Moncton, New Brunswick
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23
+[2] R.S.C. 1985, c. I-21, s.35
+[3] Exhibit A-1, Document D question 1; Exhibit R-1 question 1
+[4] Exhibit A-1, Document D questions 9 and 13; Exhibit R-1 questions 9 and 13
+[5] Exhibit A-1, Document D question 14, Exhibit R-1 question 14

@@ -1,0 +1,146 @@
+Title: Investment Accounting Solutions Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521361/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-146-521361-investment-accounting-solutions-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-11-18
+
+# Investment Accounting Solutions Inc. v. The King
+
+- Citation: 2024 TCC 146
+- Decision date: 2024-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6059, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Investment Accounting Solutions Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-11-18
+Neutral citation
+2024 TCC 146
+File numbers
+2023-1412(IT)I
+Judges and Taxing Officers
+Joanna Hill
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-1412(IT)I
+BETWEEN:
+INVESTMENT ACCOUNTING SOLUTIONS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 12, 2024, at Toronto, Ontario
+Before: The Honourable Justice Joanna Hill
+Appearances:
+Agent for the Appellant:
+Musa Suleman
+Counsel for the Respondent:
+Hassan Rasmi
+Peter Basta
+JUDGMENT
+In accordance with the attached Reasons, the appeals from Notices of Determination with respect to the Appellant’s eligibility for the Canada Emergency Wage Subsidy for the ten qualifying periods from March 15, 2020 to December 19, 2020 are dismissed, without costs.
+Signed at Ottawa, Canada, this 18th day of November 2024.
+“Joanna Hill”
+Hill J.
+Citation: 2024TCC146
+Date: 20241118
+Docket: 2023-1412(IT)I
+BETWEEN:
+INVESTMENT ACCOUNTING SOLUTIONS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hill J.
+A. Introduction
+[1] In response to the COVID-19 pandemic, Parliament provided a number of relief measures, including the Canada Emergency Wage Subsidy (CEWS). As is often the case with benefit programs under the Income Tax Act, the eligibility requirements are technical and complex, with numerous definitions and lengthy calculations.
+[2] In the present appeal, the Minister of National Revenue determined that the Appellant did not meet threshold eligibility requirements for the CEWS because the Appellant could not substantiate amounts paid to its two employees.
+[3] The Appellant has failed to meet its burden to establish that the Minister’s determination was incorrect. The Appellant was a closely held family business with two shareholders who were also its only employees. The shareholders took funds as and when needed from the Appellant with almost no regard for whether the amounts were wages or shareholder loans. This distinction is important because the CEWS does not apply to amounts that must be repaid to a company. Ultimately, the Appellant was unable to substantiate the specific amounts it claimed to have paid its two shareholders as wages.
+B. Background
+[4] The Appellant provides technology consulting work to financial institutions like banks and insurance companies. Its shareholders, Rosemin Mohamed and Bashir Mohamed, are husband and wife. They are also the Appellant’s sole employees.
+[5] The Appellant applied for the CEWS for the ten qualifying periods from March 15, 2020 to December 19, 2020 in the total amount of $44,301. The Appellant had already been receiving the CEWS for the earlier qualifying periods when the Minister selected their applications for review and verification.
+[6] By Notices of Determination dated June 14, 2022, the Minister denied the applications based on various definitions in the CEWS provisions of the Income Tax Act. Specifically, the Minister determined that: (a) the Appellant was not a “qualifying entity” because it did not have the required decrease in revenue; and (b) the Appellant did not pay “eligible remuneration” to its employees.
+[7] At the outset of the hearing, the Respondent conceded that the Appellant was a “qualifying entity”. As a result, the only issue was whether the Appellant paid “eligible remuneration” to the Mohameds.
+[8] The Minister concluded that there was no “eligible remuneration” because the Appellant did not provide information to support amounts it claimed to have paid the Mohameds as wages. The Appellant provided payroll listings without supporting documents such as pay stubs or cheques. Instead, the Appellant relied on bank statements that showed larger, irregular payments and dates that did not match the payroll listing.
+[9] At the hearing of the appeal, Rosemin Mohamed testified on behalf of the Appellant. Despite being the Appellant’s director and main employee, she was unable to provide reliable, credible evidence to support the wage amounts in the Appellant’s CEWS applications. Instead, she compounded the problem by providing a new general ledger entry that further highlighted the inconsistencies and unreliability of the Appellant’s books and records.
+C. Analysis
+[10] The CEWS is intended to assist employers who suffered economic loss while paying their employees during the COVID-19 pandemic. As a result, applicants are required to substantiate various amounts, including remuneration paid to employees.
+[11] The CEWS requirements are contained in subsection 125.7(1) of the Income Tax Act.[1] Applicants must qualify as an “eligible entity” and are required to provide amounts to support a “baseline remuneration”, specifically the average weekly “eligible remuneration” paid to “eligible employees”.[2] Eligible remuneration includes salary and wages,[3] but does not include amounts that can reasonably be expected to be paid or returned to the eligible entity.[4]
+[12] The Respondent’s position is that the Appellant has not established that it paid wages to the Mohameds. The Respondent argues that the only payments that could be reconciled with the Appellant’s records were shareholder advances, payments that do not qualify as “eligible remuneration” because they would be expected to be repaid to the Appellant. The Respondent maintains that the Appellant provided unsubstantiated and inconsistent information in this regard.
+[13] I agree with the Respondent. I am not satisfied, on a balance of probabilities, that the Appellant paid the Mohameds the wage amounts stated in its CEWS applications. While it is likely that the Appellant paid the Mohomeds some wages during the periods at issue, specific payment amounts must be substantiated in order to qualify for the CEWS.
+1. Insufficient support for the wage amounts claimed
+[14] In its CEWS applications, the Appellant provided employee listings indicating that Rosemin Mohamed’s bi-weekly pay was $2,270 gross / $1,607.05 net, and Bashir Mohamed’s bi-weekly pay was $1,500 gross / $1,135.43 net.[5]
+[15] When the Canada Revenue Agency (CRA) conducted a review of the applications, the Appellant was unable to provide information to establish that it actually paid the Mohameds those amounts as wages.
+[16] Instead, the Appellant provided the CRA with various documents that identified discrepancies in its books and records. For example, an employee listing printout dated May 10, 2021 (May 2021 Employee Listing) indicated that the Mohameds were paid four times, on January 19, 2020, February 2, 2020, February 16, 2020, and March 1, 2020.[6]
+[17] However, a “Listing of [cheques] issued to Bashir and Rosemin Mohamed” (Cheque Listing) did not match the gross or net amounts for those four dates.[7] Rather, it listed larger rounded, irregular payments from January 3, 2020 to March 23, 2020.[8] There was a January 20, 2020 payment of $2,000 to Rosemin; a February 5, 2020 payment of $1,500 to Bashir; a February 18, 2020 payment of $2,500 to Rosemin; and March 2, 2020 payments of $3,500 to Bashir and $3,000 to Rosemin.[9]
+[18] More significantly, bank statements showed the Appellant transferred the larger rounded amounts to the Mohameds’ personal bank account and credit card account.[10] None of the transfers matched the bi-weekly pay amounts provided in the CEWS applications or the dates in the May 2021 Employee Listing.
+[19] The Appellant’s reliance on its general ledger also did not clarify or support its position. As a general principle, general ledger statements are not direct evidence; they are summaries that are only as reliable as the information (or person) used to generate them. Taxpayers should have the source documents to show these accounting records are accurate.[11] In this specific case, the information contained in the Appellant's general ledger was inconsistent and did not match the transfers in the bank statements.
+[20] At the hearing of the appeal, Mrs. Mohamed relied on a general ledger entry generated the day before, on September 11, 2024, showing a new “Payroll” category for 2020 listing:[12]
+“Debit Amounts”with larger, rounded payment amounts similar to those in the Cheque Listing and the Appellant’s bank statements, totalling $66,482.76, and
+“Credit Amounts” with specific payments of $2,742.48 matching the net bi-weekly pay amounts provided in the CEWS applications, totalling $66,219.
+[21] Mrs. Mohamed testified that the new payroll category accurately captures the wages paid. By way of example, she traced the first few payroll “Debit Amounts” to transfers and payments from the Appellant’s bank account to the Mohameds’ personal account and credit card statements. She acknowledged that the transfers were larger than the net pay amounts but explained that the differences were shareholder loans, money they took from the Appellant as needed.
+[22] Notably, the Appellant had previously provided the CRA with a complete general ledger for 2020 printed on March 4, 2022. That 2022 statement did not have a payroll category, and instead listed:
+“Management Salaries” including payments of $3,770 matching most, but not all of the combined gross bi-weekly pay amount listed in the CEWS applications, totalling $91,130.[13]
+“Shareholder Advances” including payments of $2,742.48 matching most, but not all of the combined net bi-weekly pay amounts listed in the CEWS applications, as well as larger amounts for VISA expenses, totalling $104,502.94.[14]
+[23] Mrs. Mohamed attempted to explain the discrepancies and variances between the various general ledger categories by stating that the previous general ledger contained misclassifications. However, she only provided the new payroll category and did not demonstrate how or if the other categories had been revised and reconciled as a result.
+[24] By way of general explanation, Mrs. Mohamed testified that the Appellant reconciled the salaries and shareholder advances at the end of each year. They determined the final amount of salaries, based on the monthly payroll remittances paid to the CRA for the year, and issued T4s on that basis. The excess was considered shareholder advances.
+[25] She stated she had full control over the Appellant’s bank accounts and gave herself money when it made sense and when they needed it. She did not realize she had to separate amounts just for the payroll. On cross-examination, she agreed that the shareholder advances are loans that have to be repaid to the Appellant.
+[26] Mrs. Mohamed spent considerable time attempting to reconcile the different amounts in the Appellant’s general ledger statements and summaries, both in direct examination with her representative and on cross-examination by counsel for the Respondent. However, Mrs. Mohamed was unable to provide direct evidence to establish that she and her husband received the specific amount of wages claimed in the CEWS applications, as opposed to amounts she took as shareholder advances.
+[27] The distinction between the wages and shareholder advances is not a formality that can be overlooked, because wages qualify as “eligible remuneration” for the CEWS and shareholder loans do not.
+[28] The Mohameds mingled their personal and business finances because it was their company and they were the only employees. It was convenient and cost effective for them to forgo issuing multiple cheques, so they made large transfers to themselves and even made payments directly to their personal credit card. That intermingling of finances coupled with a corresponding lack of records or supporting documents has consequences. The wage amounts listed in the CEWS applications could not supported by specific payments made to the Mohameds.
+D. Conclusion
+[29] The Appellant applied for a subsidy of over $40,000 but failed to supply sufficient information to support its claim. Although the CEWS eligibility requirements are complex, this appeal turns on the Appellant’s ability to substantiate the specific wage amounts it claimed to have paid its two employees. The Appellant was unable to provide that information to the CRA or to this Court in support of its appeal. As a result, it did not have “eligible remuneration” within the meaning of the CEWS provisions of the Income Tax Act. The appeals from the Minister’s determinations are dismissed accordingly.
+Signed at Ottawa, Canada, this 18th day of November 2024.
+“Joanna Hill”
+Hill J.
+CITATION:
+2024 TCC 146
+COURT FILE NO.:
+2023-1412(IT)I
+STYLE OF CAUSE:
+Investment Accounting Solutions Inc. v. His Majesty The King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 12, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Joanna Hill
+DATE OF JUDGMENT:
+November 18, 2024
+APPEARANCES:
+Agent for the Appellant:
+Musa Suleman
+Counsel for the Respondent:
+Hassan Rasmi
+Peter Basta
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, RSC, c 1 (5th Supp.), as amended.
+[2] All defined terms in s. 125.7(1).
+[3] The definition incorporates those amounts as described in paragraph 153(1)(a) of the Income Tax Act.
+[4] Pursuant to subparagraph (c)(i) of the definition.
+[5] Exhibit “R-2”, pp 31-57.
+[6] Ibid, p 30.
+[7] Ibid, pp 59-60.
+[8] Ibid.
+[9] Ibid.
+[10] Ibid, pp 73-79.
+[11] Nguyen v HMTQ, 2015 TCC 7, para 16.
+[12] Exhibit “A-1”.
+[13] Exhibit “R-3”, pp 179-180. This total matched the amounts reported on the T4s the Appellant issued to the Mohameds (see the T4 summaries at Exhibit “R-7”), but it did not match the $144,780 the Appellant reported as a management salary expense in its T2 return (see the screen capture at Exhibit “R-8”).
+[14] Exhibit “R-3”, pp 185-6.

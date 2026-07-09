@@ -1,0 +1,210 @@
+---
+title: "Stengel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26874/index.do"
+last_modified: "2003-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 435"
+citation2: ""
+neutral_citation: "2003 TCC 435"
+decision_date: "2003-09-11"
+language: "en"
+item_id: "26874"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 713
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:45:13.491000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b33910d7652b2527596c9897f979b620f46ef1ff78bf8acfc8b465554ad30775"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stengel v. The Queen
+
+- Citation: 2003 TCC 435
+- Decision date: 2003-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 713, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stengel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-11
+Neutral citation
+2003 TCC 435
+File numbers
+2003-342(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC435
+Date: 20030911
+Docket: 2003-342(IT)I
+BETWEEN:
+MANFRED STENGEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent: Jasmine Sidhu
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at Vancouver, British Columbia, on
+Monday, May 12, 2003 and revised as to style and syntax at
+Ottawa, Canada on September 12, 2003.)
+Margeson, J.T.C.C.
+[1] The matter before the Court at this time for decision is that of Manfred Stengel and Her Majesty The Queen, 2003-342(IT)I.
+[2] The question before the Court is whether or not the Appellant, in computing his income tax for the 1997, 1998 and 1999 taxation years was entitled to claim the deductions of $26,000, $26,000 and $25,800 respectively, which were claimed on the basis of being support payments.
+[3] There is before the Court an abundance of evidence with respect to the matters at issue: (1) were the payments made? (2) if they were made, do they qualify as support payments on the basis that the Appellant was living separate and apart from his ex-wife, (hereinafter referred to as "Darlene") within the meaning of the Income Tax Act ("Act") during the years 1997, 1998 and 1999, as required?
+[4] The Appellant has accepted the majority of the presumptions relied upon by the Minister of National Revenue ("Minister") in the Reply to the Notice of Appeal ("Reply"). At page 2, subparagraph 7(a) was accepted, (b) was accepted and (c) was accepted. With respect to subparagraph 7(d), "the Appellant and the Spouse did not live separate and apart during the 1997, 1998 and 1999 taxation years;" that is contested and the Court will have to decide that on the basis of the evidence.
+[5] Subparagraph (e) was accepted, (f) was accepted, (g) was accepted, (h) was accepted, (i) was disputed by the Appellant, (j) was accepted, (k) was accepted with the exception that the Appellant said that they did not obtain joint Visa credit cards subsequent to the 1991 year. What he provided Darlene was a supplementary card.
+[6] Subparagraph (l) was accepted, (m) was accepted subject to whatever meaning the Court has to attach to the word "involved". He assumed that she could make money. He would not have to pay support down the road, but she did not make money. So to that extent he said that he was still involved in her financial affairs. That is what he meant by being involved.
+[7] With respect to (n), that the Appellant and Darlene vacationed in Hawaii together during the 1999 taxation year, he said that they had an agreement to go there with the children. He felt that it might be his last time to be able to go with them because there was some problem with his health at that time.
+[8] Subparagraph (o) was accepted, with the further rider that the allegation was that the Appellant's Visa credit card was used to make purchases in Hawaii during the period that his family vacationed there in the 2000 taxation year. He said that he was not there and the evidence bears that out. Nobody is arguing that he was, but the evidence also makes it quite clear that the credit card was used by Darlene for something other than paying for the scuba-diving lessons. It was used in that year for at least a purchase at the duty free shop on the way out and there does not seem to be any argument about that. So other than that, subparagraph (o) is accepted, and the Court is satisfied the evidence indicates what I have said.
+[9] Subparagraph (p), the Appellant disagreed with that. He said that he did make such payments. With respect to (q), the Appellant and his spouse shared social, economic, financial and family living arrangements during 1997, 1998 and 1999. He said that the only social events that they shared were with respect to the children. They had Christmas and Thanksgiving dinner together. They did not have Mother's Day dinner together.
+[10] With respect to financial and economic matters, he agreed that they did share. He paid extra amounts for Darlene. He agreed with the family living arrangements but he said that he lived in the back and she lived in the front part of the house. That was confirmed by his son, who also testified.
+[11] He said that most of the accounts that were in their joint names had not been used since 1991. He did not think that he had put any money into those accounts since 1991. With respect to the lines of credit, he said they were established before 1991, they were left in effect and they still are in effect. He had two lines of credit.
+[12] In elaborating on (m), he assumed that Darlene would make money off the restaurant and he would not have to pay her support down the road. In cross-examination, he agreed that he continued to live in the principal residence throughout the whole period. They shared facilities. They shared meals. Although he lived in the back part of the house and she in the front, they did have a shared kitchen.
+[13] There was one house, which was a gift from his mother to himself and Darlene. They both agreed to take care of the mother as a result of the transfer of the property. She did grocery shopping and laundry for him and for the family and for herself as well. She is still on his benefits from his work and she is designated as his beneficiary.
+[14] He referred to the properties that were purchased before 1991. The one at 15677 Marine Drive is behind his house. Darlene's residence is in the same house. There is another small house, an older house, at the back and they rented that out to someone else. They handled the rental property together. She was entitled to one-half of the benefits from it.
+[15] In 1997, 1998 and 1999 she contributed to the rental property. She collected the rent, she wrote receipts, she made purchases for the rental property. He collected the rent from her for the rental property. When she collected the rent he took that into account when he was making payments to her. He said "I cannot show that I gave her the money". He did not have any receipts. He did not have any paper record, so to speak, of paying the money in issue to Darlene, and that is a problem for him. There was no trail of documents to show that the money actually changed hands. We are talking about a large amount of money, $90,000 over a period of three years.
+[16] It was pointed out to him that with respect to his rental accounts that the money went into the bank and there must have been a record there but he was still unable to come up with any records to show that he made the payments that he alleged.
+[17] In 1991, there was the gift of property. In 1999, there was a joint purchase of two properties. They were both mortgaged. They were all in joint tenancy, or at least in joint names, but he said that he told them at the bank that he was separated. As far as he was concerned, there are separate accounts with respect to the mortgages, although the evidence of the witness that was called on behalf of the Minister seemed to indicate otherwise. The payments for the mortgage came out of a single account.
+[18] In 1997, 1998 and 1999 he had about $600,000 in mortgage debt. He agreed that Darlene made no money, or at least made little money. The evidence seemed to indicate that at best she might have had about $10,000 a year in income. He said: "I paid her share of the mortgages". He was unable to show that the money had switched hands from himself to Darlene for the rent.
+[19] He said that he did not indicate on the Visa card application that he was married. He disagreed with that allegation. He was shown the application and he explained that, being that she had not signed it, that it may just have been the bank's conclusion that they were still married and were not living separate and apart.
+[20] Between 1997, 1998 and 1999, he did not think there were any transactions on the joint bank accounts. He admitted that he claimed all costs related to the rental of the properties. He was involved in Darlene's restaurant. He fixed the hot water at one time but he would not fix the roof. He never saw the financial documents for the restaurant business until a short time ago. He assumed that she was making money but then he found out that she was not.
+[21] He also held the insurance premium on her restaurant property. The documents referred to by the witness called on behalf of the Minister showed quite clearly that he was listed as the owner or the operator of the restaurant. The only conclusion that the Court can come to from those documents is that this was the insurance on the restaurant, it was shown that it was being operated by him and the payments for the insurance came out of an account into which he put the funds. He admitted himself that he held the insurance policy and he said that he paid the premiums out of his own account. The telephones were in his name but his mother's telephone was in his name also. He stated that the accounts were paid by other people, not by him.
+[22] Then he suggested that the restaurant policy was not in his name and that he did not know whether he paid the premium or not. But the evidence made it quite clear, as far as the Court is concerned, that he was paying the premium on that restaurant business.
+[23] He said that he knew that he had to rebut the presumptions in the Reply when he came here today but he said he had some advice on earlier occasions and was not quite sure he understood from the advice that he got what he had to do. He was suggesting that he might have had more documentation here today had he understood more completely what the matter was all about.
+[24] In redirect he said the telephone bill comes in his name but he does not pay for that.
+[25] He called Kevin Stengel to give evidence. He is his son who lives in White Rock. He is an indoor gardener. He lived with the Appellant for five years. The Appellant and Darlene do not talk often. His mother lives in the front and the father is in the back. They went to Hawaii and his mother and father had two different rooms. The mother does not participate in sports and the father does not pay the telephone bills although they are in his name.
+[26] Two cars are his and the remainder is in the father's name. The siblings pay for the expenses for the cars. He pays room and board when he is working and the Appellant and Darlene are supporting him other than that. Nine times out of ten his mother gives him shopping money.
+[27] In cross-examination he said that he did not know a lot about the financial arrangements between the Appellant and Darlene.
+[28] The Respondent called William Quon, who is an auditor. He was familiar with this matter. It came about as a result of a screening. The initial lead led them to try and verify that alimony money and support payments claimed were made, if they were made to Darlene and if they were deductible in accordance with the definition of separate and apart in the statute.
+[29] They conducted an audit of the restaurant, "Down by the Bay Café". There was a marginal profit from that business. During the audit, Darlene referred to "her husband". They took whatever steps they could to obtain documents to enable them to determine whether or not there was a true separation. They also wanted to determine if the amounts were actually paid.
+[30] The Appellant claimed to them that the payments were made in cash. There was no corroboration for any of this. He went into the question of ownership of property before and after 1991 and put into evidence the documents, which showed joint financing for all of the properties. They researched their own database and were also able to come up with property documentation. He submitted Exhibits R-1 to R-6, which showed, as the other evidence did, that the properties were held in joint ownership, that they were jointly mortgaged, that there was joint liability on the indebtedness and that there was a considerable amount of indebtedness during the years in issue. These documents were all indicative of joint ownership and joint indebtedness with respect to all of these properties.
+[31] He was asked if there were any records to show who made the mortgage payments with respect to Exhibits R-3 and R-4. He said that he went to Canada Trust and he obtained a client profile. Mr. Stengel said that all mortgages came out of the Appellant's accounts. He was the only person on the account. His money made the payments. Darlene only had minimal income of about $10,000 per year. The Appellant also admitted that there were joint lines of credit and that there was a joint Visa card in the sense that the wife had a companion card, as it is called.
+[32] The line of credit with Canada Trust was established jointly. He reviewed the Visa application and the account information.
+[33] Exhibit R-6 was put in by consent. This was in relation to the Visa. The Appellant himself was the applicant; Darlene was a supplementary cardholder. He interviewed the Appellant, made notes and created a summary of these notes of the meeting on the same day that he had the meeting, which was held on June 7, 2001, the day he interviewed the Appellant. He was allowed to refer to these notes for the purpose of refreshing his memory.
+[34] He asked the Appellant about vacationing with his family and was told that the last time was in 1992. He reviewed his Visa statements for the Scotiabank and they indicated that two credit card numbers were used in Hawaii. The Appellant had told him that no one else had used his credit cards. Then he said that he referred him to the 1999 accounts and that he was on vacation in Hawaii. Then he checked the Visa statements and said they showed that they were not only used for the scuba-diving lessons for which the Appellant had last used his credit card but there was also an entry for his credit card in the year 2000 for the duty free shop in Hawaii.
+[35] He was asked about Darlene's business and what the documents showed with respect to the Appellant's participation in it. He had originally said that he had nothing to do with the business but the insurance policy for the restaurant showed otherwise. Exhibit R-7 was filed by consent, it was the insurance policy. This had to do with the "Down by the Bay Café". It indicates that the Appellant himself was operating the "Down by the Bay Café".
+[36] The Appellant answered "no" to the question of whether or not he was going to file for a divorce. He asked him to whom his assets would go in the event that he had no will and he said the Appellant told him that he had a will and he wanted everything to go to Darlene.
+[37] The Appellant himself in his testimony suggested that that was not the way the conversation went. What he suggested to the interviewer was that he did not need a will because he wanted everything to go to Darlene in any event.
+[38] He was referred to the 15677 Marine Drive property and he said there was a residence and a restaurant there. Darlene claimed to pay the rent but he could not confirm that. This witness said that the indication was that Darlene had to pay the rent on the property but he was unable to confirm that this was the case.
+[39] 51677 Marine Drive was rented. The rental receipts were issued by Darlene. Exhibit R-8 was allowed to come into evidence by consent. This was issued and supplied by Darlene. The one on October 1st, 1999 was issued by him. Then the one for the house for $500 dated October 25, 1999 was signed by her. There were expense receipts signed by her and claimed by him.
+[40] Exhibit R-9 was put into evidence by consent. This was a rental contract for sanding equipment. This was signed by Darlene yet claimed by the Appellant in his returns. He claimed all rental income. Her income was minimal. In 1997, 1998 and 1999, the losses of the Appellant were $28,000, $1,138 positive, and $15,000 loss in 1999. The Appellant earned $80,000 per year. Darlene earned roughly $10,000 per year.
+[41] Based on his income and based upon the information that the witness had about the income of the Appellant during the years in question, the Appellant could not have made the payments that he said he did and have any money left over to live on. That was the conclusion that he came to based upon the documents that he reviewed.
+[42] In cross-examination, the Appellant questioned the witness and he said that he did the calculations in his head initially. But then he was questioned further and he ultimately testified that, based upon the taxable income claimed of $64,000, the Appellant could not have paid the support of $26,000 that he was talking about in any year and have had any money to live on.
+[43] The Appellant had not told him that when he went to the bank he had indicated that they were married. As far as he was concerned, they were separated. The Respondent tendered the exhibits and rested.
+[44] There was no rebuttal evidence.
+[45] In argument, counsel for the Respondent said that there were two issues; first, whether the Appellant can deduct the three amounts that he is claiming in 1997, 1998, and 1999 on the basis of paragraph 60(b) of the Act, which is set out at Tab 4 of the Respondent's Book of Authorities. In order for him to do so, the Court must be satisfied that he was living separate and apart from Darlene. Secondly, the Court must be satisfied that the amounts that he seeks to deduct were, indeed, paid. There was no proof that these amounts were paid. The Appellant has failed in that regard.
+[46] With respect to the separate and apart issues, she referred to various cases. These cases are quite significant and are of some considerable help to the Court today. She referred to Kelner v. R., [1996] 1 C.T.C. 2687 (T.C.C.), which was a decision of Judge Bowman of the Tax Court of Canada. As far as she was concerned, even though that case may have been in favour of the Appellant's position here, the requirements that the Court sets out have not been met in this particular case and they do not favour the Appellant's position. At page 2694 Judge Bowman said:
+The words "separate and apart" have been used for many years in divorce legislation and in matrimonial litigation and I must give them a meaning that is consonant with that given them in provincial courts dealing with matrimonial matters.
+Counsel took issue with that conclusion.
+Judge Bowman continued:
+...They imply not only physical separation but a breakdown of the matrimonial consortium. Those elements are unquestionably present here.
+[47] In that case the Court was satisfied that the elements that were required were present. There was certainly a breakdown of the marriage as found. There was clearly both a physical and a psychological separation even though the Court found that there were two or three points that were inconsistent with the finding that they were living separate and apart, such as the same telephone, attended family functions and the Appellant continuing to pay the household expenses for food for his wife.
+[48] Those factors were taken into account and when the learned trial judge looked at them in toto, he was satisfied that they were living separate and apart. But those are factors which the Court must look at individually in each case and every case has to be decided on its own facts.
+[49] Here, there was no psychological separation, there was not really any physical separation and so the case is not of great assistance to the Appellant. Counsel also referred to Rangurala v. R., [2000] 4 C.T.C. 2430 (T.C.C.) which was a Tax Court of Canada decision by Judge Campbell, who was relying to a certain extent upon Kelner, supra. Campbell J. also referred to Macmillan-Dekker v. Dekker, (August 4, 2000), Doc. 99-FA-8392 (Ont. S.C.J.), where the learned judge said at page 2436:
+I conclude that there is no single, static model of a conjugal relationship, nor of marriage. Rather, there are a cluster of factors which reflect the diversity of conjugal and marriage relationships that exist in modern Canadian society. Each case must be examined in light of its own unique objective facts.
+In her decision Judge Campbell said:
+In defining the meaning of "separate and apart", Bowman, T.C.J. quoted Holland, J. in Cooper v. Cooper, (1972), 10 R.F.L. 184 (Ont. H.C.) at p. 187 as follows:
+Certainly spouses living under the same roof may well in fact be living separate and apart from each other. The problem has often been considered in actions brought under s. 4(1)(e)(i) of the Divorce Act and, generally speaking, a finding that the parties were living separate and apart from each other has been made where the following circumstances were present:
+(i) Spouses occupying separate bedrooms.
+(ii) Absence of sexual relations.
+(iii) Little, if any, communication between spouses.
+(iv) Wife performing no domestic services for husband.
+(v) Eating meals separately.
+(vi) No social activities together.
+In that particular case the Judge was obviously satisfied that when she considered those factors, the parties were living separate and apart.
+[50] The factors that have been established here do not speak so positively in the Appellant's favour because they are quite different from the factors established in the case before Campbell, J.
+[51] Counsel for the Respondent said that in Rangurala, supra, the parties had a separation agreement. The wife took him off of her benefits. She changed the beneficiary on some of her assets. They never sat together for meals. She lived completely separate in her own part of her house. There were no domestic services provided by her and there was no joint financing. This was a far different case from the case at bar according to her position.
+[52] In Raghavan v. R., [2001] 3 C.T.C. 2218 at page 2222, Campbell, J. said:
+In summary, the continued equal splitting of dividend income and interest reported on tax returns of both Appellants, the deed of conveyance to the house along with the mortgage remaining unchanged, the R.B.C. Dominion Securities monthly statement accounts, the continued intermingling of financial business affairs, the absence of any attempt whatsoever by the wife to remove her husband's name as beneficiary on employment benefits or even inquire what steps she would take to do so, the assistance of the husband in completing the wife's tax returns and operating two businesses with the help of teenage sons, are all factors that point to a continuing and ongoing relationship between the Appellants. I am left with no supporting evidence of third parties to support the Appellants' testimony which was not straightforward but contradictory and confusing. The evidence of the Appellant, Mr. Raghavan, was evasive at times.
+[53] As far as this Court is concerned, it does not find that the Appellant's testimony was completely contradictory or confusing, although it was contradictory in some respects according to the documents. It does not think that he was deliberately trying to be confusing, nor was he deliberately trying to mislead the Court. There were some inconsistencies in what he said when you consider the documents that were put before the Court.
+[54] There was no evidence of any third parties to corroborate what the Appellant said and many of the same factors referred to by Campbell, J. on this issue, apply here.
+[55] The situation that existed there was present here and the Appellant took no steps whatsoever to make changes in the financial arrangements, the mortgaging, the financing, removing his name from any documentation, or removing his wife's name, even to the extent that he did not really take any major steps to discontinue accounts. They might not have been used that much but she continued to have a credit card for which he was responsible. He continued to work in her business and support it financially. They continued to have joint accounts.
+[56] Sanford v. R., [2003] 1 C.T.C. 221 was referred to by counsel in support of her position. In that particular case, the Federal Court of Appeal merely said that Judge Mogan of the Tax Court of Canada correctly concluded that the Appellant and Markus Buchart were cohabiting in a conjugal relationship within the meaning of paragraph 252(4)(a) of the Act, with the result that Mr. Buchart was the Appellant's spouse within the meaning of the Act during the relevant periods of time. The Court said:
+The fact that the appellant has made no express promise to live in permanence with Mr. Buchart must be considered in light of objective criteria such as those mentioned in Molodowich v. Penttimen as endorsed by the Supreme Court of Canada in M.V.H., M. v. H.,... and applied by this Court in Lavoie c. R., 2001 D.T.C. 5083 (Fr.) (Fed. C.A.).
+When regard is had to these criteria, it becomes clear that the appellant and Mr. Buchart were cohabiting in a conjugal relationship as the Tax Court Judge found.
+In Lavoie v. R., [2000] 2 C.T.C. 2137, 1999 CarswellNat. 2113, [1999] T.C.J. No. 688, Dussault, J. said that the question was summed up by Lamarre Proulx, J. in Milot v. The Queen, [1996] 1 C.T.C. 2247 where she said:
+This definition leads us to consider the notion of conjugal relationship. When can two persons be considered as living in a conjugal relationship? This notion has often been studied for the purposes of various statutes. . . .
+She goes on to say:
+Not all arrangements whereby a man and a woman live together and engage in sexual activity will suffice to trigger statutory support rights and obligations. As was observed by Morrison J.A., of the Nova Scotia Court of Appeal:
+I think it would be fair to say that to establish a common law relationship there must be some sort of stable relationship which involves not only sexual activity but a commitment between the parties. It would normally necessitate living under the same roof with shared household duties and responsibilities as well as financial support.
+Then the Court said:
+More specific judicial guidance as to what constitutes cohabitation or a conjugal or marriage-like relationship is found in a judgment of the Ontario District Court, wherein Kurisko, D.C.J. identified the following issues as relevant:
+[57] Then he listed various factors: (1) shelter, (2) sexual and personal behaviour, (3) services, preparation of meals, washing and mending clothes, shopping, household maintenance and any other domestic services and (4) social services. Do they participate together in communal activities, what was the relationship with each of them towards members of their respective families? Was there societal support and economic support? What was the attitude and conduct towards the children?
+[58] Counsel suggested that it is not sufficient just to equate the requirements of separate and apart and of cohabiting that are considered in other statutes, but you have to look specifically at what theAct has in mind. Not all of the factors may be entitled to the same weight.
+[59] The Appellant said that he had a problem with trying to accept the argument that he was not able to earn enough money based upon his financial statements in his income tax returns to pay these payments and to live as well.
+[60] He said that with respect to separate and apart, all of the cases are different and different from the case at bar. His actual situation is not out of the ordinary. It is not unreasonable to conclude that they were living separate and apart under the law.
+[61] He knows some of his friends who are living separate and apart and who continue to make claims as being separate and apart and they still pay bills for their spouses. They still have them on their insurance and benefit plans. They may even very well have them on their securities and benefits. He tried to be a nice guy.
+Analysis and Decision
+[62] In this case, the Court is satisfied beyond any doubt at all that the Appellant has not met the burden upon him of establishing that he was entitled to the deductions in the years in question. The evidence has not established that the Appellant paid the amounts in question.
+[63] If that were the only issue the Court would have to dismiss the appeal on that alone, because the Court is not satisfied that the Appellant has established that he paid the amounts in question. He did not call Darlene. He called no evidence of the accountant. He had no documentation at all to satisfy the Court that he paid these amounts. One would have thought that if he was claiming that he made these payments that Darlene would have been here, she would have been able to corroborate what he said. The only evidence available was his own statement that he made these payments and he admitted himself that he did not have any other evidence or any documents to support the position that they were made. On that alone the Appellant's case fails.
+[64] With respect to the second argument as to whether they were living separate and apart, the Court need only refer to the statements already referred to by way of admissions in the Reply. There were only a couple of presumptions which were even contested. The Appellant himself said that he did not agree with (d), that the Appellants did not live separate and apart during the 1997, 1998 and 1999 taxation years. When this Court takes into account all of the factors that have been established by the evidence and as referred to in the cases cited, it is not satisfied that the Appellant and Darlene were living separate and apart during the years 1997, 1998 and 1999.
+[65] Of great significance is the fact that they continued to own properties jointly. They continued to have joint indebtedness. They continued to be jointly responsible on the mortgages. Darlene continued to have access to his credit card. She continued to make claims against the credit cards for expenses. They continued to go on family vacations. They continued to socialize in the sense that she prepared meals for him. They ate family meals together, although there were not a great many family meals together. She obviously did some domestic services for him. He obviously helped her in the financing of her own business. He paid at least the insurance premiums. He was involved to that extent in her financing. He obviously was supporting not only her personally but was supporting her business too.
+[66] Even though they may not have drawn much money out of the joint bank accounts, they were still there. There was a supplementary credit card for Darlene and purchases were made on them.
+[67] Under the circumstances here, although they may have lived in separate parts of the house, there was still a considerable amount of jointness with respect to the relationship.
+[68] The Court is not satisfied that there was a physical or psychological separation in this particular case which would entitle the Court to conclude that the parties were living separate and apart under the Act as Judge Bowman found in Kelner, supra. The Court looks at the definition of "separate and apart" in the way Bowman, J. interpreted it:
+The words "separate and apart" have been used for many years in divorce legislation and in matrimonial litigation and I must give them a meaning that is consonant with that given them in provincial courts dealing with matrimonial matters.
+[69] The Appellant has not met the burden upon him in this case. This Court accepts the argument that separate and apart implies not only a physical separation but a breakdown of the matrimonial consortium. When the Court looks at all of the factors which it must look at in deciding whether or not the parties are living separate and apart, the Court is satisfied that the Appellant has not met the burden upon him and, indeed, this Court is not satisfied that the Appellant and his ex-spouse were living separate and apart as envisaged by the appropriate section of the Act.
+[70] The Appellant is not entitled to make the deductions that he claimed in the years in question, is not entitled to claim the benefits of paragraph 60(b) of the Act, because in order to be able to deduct the amounts, they must be living separate and apart and the amounts must be proved to have been paid. The Court is not satisfied that he has met the burden on either condition.
+[71] The appeals are dismissed and the Minister's assessment is confirmed.
+Signed at Ottawa, Canada, this 11th day of September, 2003.
+"T.E. Margeson"
+J.T.C.C.
+CITATION:
+2003TCC435
+COURT FILE NO.:
+2003-342(IT)I
+STYLE OF CAUSE:
+Manfred Stengel and
+Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 12, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable T.E. Margeson
+DATE OF JUDGMENT:
+May 21, 2003
+DATE OF REASONS FOR JUDGMENT:
+September 11, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jasmine Sidhu
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

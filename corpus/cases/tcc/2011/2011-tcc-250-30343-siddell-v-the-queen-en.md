@@ -1,0 +1,166 @@
+---
+title: "Siddell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30343/index.do"
+last_modified: "2011-05-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 250"
+citation2: ""
+neutral_citation: "2011 TCC 250"
+decision_date: "2011-05-09"
+language: "en"
+item_id: "30343"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8047
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:36:08.283000+00:00"
+cases_cited_count: 1
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f069dc423040762d4fd979b07cc503e59f21101237ca066404b1301e8f744994"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Siddell v. The Queen
+
+- Citation: 2011 TCC 250
+- Decision date: 2011-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8047, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Siddell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-09
+Neutral citation
+2011 TCC 250
+File numbers
+2010-2137(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2137(IT)I
+BETWEEN:
+BRADLEY SIDDELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 1, 2011, at Edmonton, Alberta
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the tax credits that he has claimed under sections 118.5 and 118.6 of the Act.
+Signed at Ottawa, Canada, this 9th day of May, 2011.
+“E.A. Bowie”
+Bowie J.
+Citation: 2011 TCC 250
+Date: 20110509
+Docket: 2010-2137(IT)I
+BETWEEN:
+BRADLEY SIDDELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Siddell appeals from a reassessment of his liability for income tax for the 2008 taxation year. Sections 118.5 and 118.6 of the Income Tax Act[1] (the Act) afford certain tax credits to students who were attending a qualifying educational institution during the taxation year. In April 2007, Mr. Siddell began his studies for a Masters in Business Administration degree at the University of Liverpool, he continued them through 2008 and 2009, and graduated in July 2010. The issue before me is whether he qualifies for these tax credits.
+[2] The provisions of sections 118.5 and 118.6 are somewhat complex, and no model of clarity. For purposes of this appeal, however, it is necessary to consider only the meanings of the two expressions “…a course of less than thirteen consecutive weeks duration” and “…a course of not less than thirteen consecutive weeks duration”, which appear respectively in subparagraph 118.5(1)(b)(i) and paragraph (b) of the definition of the expression “designated educational institution” found in subsection 118.6(1) of the Act.
+[3] It is not disputed that Mr. Siddell was, in 2008, a full-time student in a course leading to a degree. Nor is it in dispute that Mr. Siddell qualifies for the tuition tax credit under subsection 118.5 if, but only if, the fees that he paid come within paragraph 118.5(1)(b). Similarly, it is not in dispute that he qualifies for the education credit under subsection 118.6(2) if, but only if, the University of Liverpool falls within paragraph (b) the definition of a designated educational institution. Nor is there any dispute that Mr. Siddell paid the fees upon which he based his claim, or that he filed the appropriate forms with his income tax return. The dispute centres simply upon the question whether he was enrolled in a course of more than 13 consecutive weeks.
+[4] The relevant parts of the provisions in question are as follows:
+118.5(1)(b) Where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual’s tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+118.5(1)(b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+and
+118.6(1) For the purposes of sections 63 and 64 and this subdivision, "designated educational institution" «établissement d’enseignement agréé »
+"designated educational institution" means
+…
+(b) a university outside Canada at which the individual referred to in subsection 118.6(2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree,
+118.6(1) Les définitions qui suivent s’appliquent aux articles 63 et 64 et à la présente sous-section. «établissement d’enseignement agréé » "designated educational institution"
+«établissement d’enseignement agréé »
+…
+b) université située à l’étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d’une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+[5] Exhibit A-2 contains at Tab N what the University of Liverpool calls the Gradebook. It gives particulars of the curriculum followed by Mr. Siddell. It lists the eight “modules” that made up his studies leading to the MBA degree. He took five of these during the year 2008, and the beginning and end dates for each of them are shown as follows:
+Strategic Human Resources 16 Oct 2008 to 10 Dec 2008
+Consumer Behaviour 21 Aug 2008 to 15 Oct 2008
+Services Marketing 10 April 2008 to 21 May 2008
+Marketing in a Global Environment 28 Feb 2008 to 9 April 2008
+Managing Resources 10 Jan 2008 to 20 Feb 2008
+[6] It is clear that in 2008 Mr. Siddell was in full-time attendance at the University of Liverpool engaged in studies leading to the MBA degree for all but one week between 10 January and 21 May, and for each week between 21 August and 10 December. As this is the normal academic year, Mr. Siddell takes the position that he was in full-time attendance in a course of more than 13 consecutive weeks. The course, on his view of the matter is the total of his studies leading to the degree.
+[7] The Minister’s position is that each of the modules referred to above is a “course”, and that none of them exceeded eight weeks in length, so that Mr. Siddell’s fees were paid in respect of five different courses, each of them being of less than 13 weeks duration. In support of this position the Minister points to the fact that Mr. Siddell elected to pay his fees in instalments that coincided with the beginning of each module, this being one of a number of payment options available to him.
+[8] The appellant referred in argument to numerous decisions of this Court. Most of them deal with the question of full-time attendance. That is not an issue in this case, however, as the respondent accepts that the appellant’s attendance at the University of Liverpool by way of the internet satisfies the requirement for full‑time attendance. Tarkowski v The Queen[2] dealt with the question whether the taxpayer’s son, who was studying music, was taking courses. It does not assist with the issue before me. The facts in Robinson v. The Queen[3] are similar to the present case, but it appears to have been assumed that for purposes of the thirteen-week requirement regard should be had to the full period for which the appellant pursued the MBA degree, which was from February 2004 to December 2005. The respondent does not appear to have argued, as in this case, that the thirteen week requirement applies to each module. In Fayle v. The Queen[4] the taxpayer was denied a tax credit because the course that she took was of only six weeks duration. However that course was not part of a longer educational program as in this case, so the decision is of no assistance.
+[9] The decision that bears directly on the issue before me is that of Paris J. in Ferre v. The Queen.[5] Like the appellant, Mr. Ferre was enrolled in the online MBA program at the University of Liverpool, where he completed the degree requirements by successfully completing a number of modules. Each module was of less than thirteen weeks duration, but the total duration of the modules the appellant took in each of 2006 and 2007 exceeded thirteen weeks. In that context, unlike the situation in Fayle, the English version of the legislation is ambiguous. The thirteen week requirement could apply to each module individually, or it could apply only to the aggregate of all the modules pursued in the year. Paris J., noting that there is no ambiguity in the French version, applied the shared meaning rule and concluded that each of the component courses of the larger curriculum must be of greater than thirteen weeks in length to entitle the student to the credit. His reasoning on this point is found in the following four paragraphs of his judgment:
+21 It appears that there is some basis for the Appellant’s contention that the meaning of the word “course” in paragraph 118.5(1)(b) is ambiguous. According to Webster’s Ninth New Collegiate Dictionary the word “course” may mean either “a number of lectures or other matters dealing with a subject” or “a series of such courses constituting a curriculum.” Therefore, it is arguable that “course” could in this case refer either to the individual modules taken by the Appellant, or his entire MBA program. I note, though, that the relevant portion of the definition of the word “course” in the Canadian Oxford Dictionary (2001) offers only the following meaning: “a series of lectures, lessons, etc., in a particular subject.” This definition does not appear to encompass the notion of a program of studies such as the Appellant’s MBA course.
+22 Any ambiguity, however, is resolved by reference to the French version of paragraph 118.5(1)(b). The relevant parts of the French version read as follows:
+118.5(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[…]
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais qui ont été :
+(i) soit payés pour des cours d'une durée inférieure à 13 semaines consécutives,
+(emphasis added)
+23 The French version uses the wording “des cours conduisant à un diplôme” to translate the English wording “a course leading to a degree” and the wording “des cours d’une durée inférieure à 13 semaines consécutives” to translate the English wording “a course of less than 13 consecutive weeks duration”. The use of the plural form of the word “cours” in the French version demonstrates that Parliament intended to refer to the individual courses within a program of studies, rather than to the entire program itself, since an entire program of study would only be referred to in the singular. In my view, the French version is free from the ambiguity present in the English version, and the meaning common to both versions must be applied.
+24 In this case, the individual courses or “modules” taken by the Appellant in 2006 and 2007 were less than 13 weeks in length, and therefore, the fees paid in respect of those modules are not eligible for the tuition credit. Since the Appellant was not enrolled in a course at least 13 weeks in duration, the University was not a “designated educational institution” and the Appellant would not be entitled to an education credit for those years either. This finding is sufficient to dispose of the appeal for 2006 and 2007.
+[10] With great respect, I am unable to agree with this interpretation. In The Queen v. Compagnie Immobilière BCN Limitée,[6] Pratte J., writing for a unanimous Court, said this in reference to the shared meaning rule, then codified as section 8 of the Official Languages Act:[7]
+The rule therein expressed is a guide; it is one of several aids to be used in the construction of a statute so as to arrive at the meaning which, "according to the true spirit, intent and meaning of an enactment, best ensures the attainment of its objects" (s. 8(2)(d)). The rule of s. 8(2)(b) should not be given such an absolute effect that it would necessarily override all other canons of construc­tion. In my view therefore the narrower meaning of one of the two versions should not be preferred where such meaning would clearly run contrary to the intent of the legislation and would consequent­ly tend to defeat rather than assist the attainment of its objects.
+The purpose of sections 118.5 and 118.6 is to provide financial assistance to Canadians who wish to further their education and upgrade their qualifications for employment by pursuing post-secondary education. Certain criteria are imposed which are intended to ensure that the tax credits are provided only to serious students pursuing an education that will be useful and make them more employable and more productive. If the studies are pursued outside Canada then in order to give rise to a tax credit they must be undertaken at the university level, on a full‑time basis, and in a course of at least 13 weeks duration leading to a degree. The requirement that the course be of at least 13 weeks duration is presumably intended to avoid subsidizing casual personal interest courses and courses that are more recreational than educational. The requirement that the course be of not less than 13 consecutive weeks duration is imposed to ensure that the student attend for a full semester in order to qualify for the tax credit.
+[11] It seems to me unlikely that Parliament would intend to provide a tax credit to a student who pursued the same five modules that Mr. Siddell pursued in 2008 if they were pursued simultaneously over the periods between January 10 and May 21 and between August 21 and December 10, which is two semesters, but to provide no credit to the student who completes the same modules one after the other as he did. That interpretation of the legislation, in the words of the Supreme Court in Compagnie Immobilière,
+… would clearly run contrary to the intent of the legislation and would consequently tend to defeat rather than assist the attainment of its objects.
+I therefore prefer to interpret the word “course” in this context as referring not to the individual modules, but the entire curriculum pursued throughout the academic year. I would note as well that this meaning seems more consonant with the words “leading to a degree” (in French, “conduisant à un diplôme”) which follow the word “course” (cours) where it first appears in paragraph 118.5(1)(b), and follow it also in the definition in subsection 118.6(1). The concept of a course leading to a degree is more in keeping with the whole curriculum of study than with a solitary subject within that curriculum.
+[12] The appeal is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the appellant is entitled to the tax credits that he has claimed under sections 118.5 and 118.6 of the Act.
+Signed at Ottawa, Canada, this 9th day of May, 2011.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2011 TCC 250
+COURT FILE NO.: 2010-2137(IT)I
+STYLE OF CAUSE: BRADLEY SIDDELL and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: February 1, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: May 9, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] [2008] 1 C.T.C. 2347.
+[3] [2007] 2 C.T.C. 2294.
+[4] [2005] 1 C.T.C. 2840.
+[5] 2010 TCC 593.
+[6] [1979] 1 S.C.R. 865.
+[7] R.S. C. 1970, c. O-2.

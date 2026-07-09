@@ -1,0 +1,229 @@
+---
+title: "Giguere v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26461/index.do"
+last_modified: "2005-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 257"
+citation2: ""
+neutral_citation: "2005 TCC 257"
+decision_date: "2005-04-19"
+language: "en"
+item_id: "26461"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3145
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:49:12.256000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b9743cca9f3fa495264fe279871563bd734354ac7aa88440620cc6cef8edb74d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giguere v. The Queen
+
+- Citation: 2005 TCC 257
+- Decision date: 2005-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3145, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giguere v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-19
+Neutral citation
+2005 TCC 257
+File numbers
+1999-724(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-724(IT)G
+BETWEEN:
+WILLIAM GIGUERE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of
+Clara Giguere (1999-725(IT)G) and (1999-4628(IT)G)
+on March 21 and 22, 2005 at Sudbury, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Susan M. Hare
+Counsel for the Respondent:
+Sandra Phillips
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1994, 1995 and 1996 taxation years are dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 19th day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+Dockets: 1999-725(IT)G
+1999-4628(IT)G
+BETWEEN:
+CLARA GIGUERE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of
+William Giguere (1999-724(IT)G)
+on March 21 and 22, 2005 at Sudbury, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Susan M. Hare
+Counsel for the Respondent:
+Sandra Phillips
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1994, 1995, 1996 and 1998 taxation years are dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 19th day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation:2005TCC257
+Date: 20050419
+Docket: 1999-724(IT)G
+BETWEEN:
+WILLIAM GIGUERE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Dockets: 1999-725(IT)G
+1999-4628(IT)G
+AND BETWEEN:
+CLARA GIGUERE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellants, Clara Giguere (through her litigation guardian, David Giguere) and William Giguere, are appealing reassessments made under the Income Tax Act by the Minister of National Revenue for the taxation years 1994, 1995, 1996 and in the case of Clara Giguere only, 1998. The Appellants, operating as sole proprietorships, are engaged in hauling logs and pulpwood in Northern Ontario. The Minister reassessed the Appellants' business income on the basis that because the business activities did not take place "on a reserve", the income therefrom was not exempt from taxation under paragraph 87(1)(b) of the Indian Act. The appeals were heard on common evidence at Sudbury, Ontario.
+[2] In their Amended Notices of Appeal, the Appellants identified the following issues to be decided:
+23. Is the business income of an Indian-owned business with its head office on an Indian reserve that deals primarily with a business located off the reserve but whose products are removed from Crown Lands, tax exempt?
+24. Does the Indians' understanding of their right to utilize resources at the time of the Robinson-Huron Treaty negotiations coincide with the present use of these resources on Crown Landin the Robinson-Huron Treaty area?
+25. Does the existence of this understanding act to make Crown Lands where the appellants work "as a reserve" for purpose of an exemption under s.87 of the Indian Act?
+[3] Notwithstanding the language used in the issues set out above, it is agreed by the parties that the Appellants are not challenging the Minister's reassessments on the basis of treaty or aboriginal rights. Expressed then, in terms of the relevant provisions of the Indian Act and the Income Tax Act governing the Appellants' tax liability, the only issue is whether the Appellants' income from their trucking businesses was "the personal property of an Indian situated on a reserve" within the meaning of paragraph 87(1)(b) of the Indian Act and paragraph 81(1)(a) of the Income Tax Act:
+[4] Paragraph 87(1)(b) of the Indian Act reads as follows:
+Property exempt from taxation
+87.(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation, namely,
+...
+(b) the personal property of an Indian or a band situated on a reserve.
+...
+[5] Paragraph 81(1)(a) of the Income Tax Act reads as follows:
+Amounts not included in income
+81.(1) There shall not be included in computing the income of a taxpayer for a taxation year,
+Statutory exemptions
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+...
+[6] The Appellants' opening position is that because of what they describe as their family's history of logging on the Crown land from which they were hauling logs between 1994 and 1998, the Crown land is (in the Appellants' words) "as a reserve" and therefore comes within the meaning of "on a reserve" in paragraph 87(1)(b) of the Indian Act. In support of this argument, David Giguere and William Giguere recounted in their testimony what they knew of the history of their family's involvement in the logging industry on the Crown land. They testified that since as early as 1827, the Giguere family has lived on the Robinson-Huron Treaty land in Northern Ontario where they have been involved in the logging industry. Initially, they worked as log drivers bringing logs down the river to the mills.
+[7] Sometime in the 1930's, the family lost its Indian status when the Appellant William Giguere's grandfather, Joseph Giguere, had to leave the Thessalon Reserve to find work. It was his son Norman Giguere, Clara Giguere's husband, who first established the current trucking business in 1973, operating as Norman Giguere Trucking. Originally set up off the Thessalon Reserve, Norman Giguere Trucking moved its operation in October 1992 to a lot on the Thessalon Reserve. The business address of Norman Giguere Trucking was changed to the Thessalon Reserve and the Appellants set about building an office and a garage and had fuel tanks installed. The businesses' books and records were kept in the office; the trucks used in the businesses were housed, maintained and fuelled on the reserve. Although by that time the Giguere family had regained its Indian status, they were still living off the reserve on farmland immediately adjacent and owned by Clara Giguere.
+[8] In September 1993, Norman Giguere passed away and Norman Giguere Trucking was taken over by Clara Giguere operating as Clara Giguere Trucking. At all times relevant these appeals, Clara Giguere Trucking and William Giguere Trucking were operating as sole proprietors engaged in hauling logs and pulpwood by truck from the Crown land extending north of the Thessalon Reserve to the mills at Sault Ste. Marie, Espanola and Thessalon. Until 1998 when her illness prevented the continued operation of Clara Giguere Trucking, it was managed by Clara's eldest son, David Giguere. During the taxation years in question, Clara Giguere Trucking had as many as seven trucks and employed approximately eight people, both status and non-status Indians. As manager, David Giguere travelled the short distance from his off-reserve residence at the Giguere family farm to the Thessalon Reserve to carry out his duties at the office; he spent three days a week organizing the trucking routes and drivers, ordering parts as required and doing administrative work. In 1997, David Giguere and Clara Giguere moved from the family farm to a lot on the Thessalon Reserve, only two doors down from the Giguere family office and garage.
+[9] The business of the sole proprietorship William Giguere Trucking had no employees or additional trucks; it was limited to William Giguere driving his own truck. Until October 1995 when William and his family took up residence on the Thessalon First Nation, he travelled daily the 10 miles from his residence at Little Rapids to the Thessalon Reserve to pick up his truck from the Giguere family garage. After hauling logs from the Crown land to the mills, he returned the vehicle each evening to the reserve. William's wife did his bookkeeping and during this period, this task required her to spend a few hours one day a week at the Giguere family office; after they moved to the reserve, she carried on her bookkeeping duties in an office in their home.
+[10] The Giguere brothers further testified that the original boundaries of the reserve included a much larger area than do the current ones; they put in evidence a map[1] illustrating the reserve's current area measuring approximately 2 miles by 2 miles, and its earlier configuration of 10 miles by 10 miles.
+[11] The Crown's response to the Appellants' broad interpretation of "on a reserve" is that this Court is bound by the meaning given to that phrase by the Supreme Court of Canada in R. v. Lewis[2]. Under the heading "The General Principles of Interpretation of Enactments Dealing with Indians" and writing for the full Court, Iacobucci, J. stated at page 955:
+The phrase "on the reserve" found within the Indian Act should receive the same construction wherever used throughout the Indian Act. This is consistent with the view of this Court in Thomson v. Canada (Deputy Minister of Agriculture), [1992] 1 S.C.R. 385. In that decision, Cory J. at p. 400 stated that "[u]nless the contrary is clearly indicated by the context, a word should be given the same interpretation or meaning whenever it appears in an act".
+After citing paragraph 87(1)(b) of the Indian Act, Iacobucci, J. concluded at page 958:
+Therefore, a contextual analysis and an examination of the French version lead me to conclude that the words "on the reserve" cannot be understood as extending beyond the actual boundaries of a given reserve.
+[12] In view of these words, it is not open to this Court to expand the meaning of "on a reserve" to include Crown lands some 60 miles north of the Thessalon Reserve, whether measured from its current or former boundaries. Nor do I see how the Giguere family's history of logging, in one form or another, on the Crown land, even if accepted as fact, could operate to convert that land into the equivalent of "on a reserve" within the meaning of paragraph 87(1)(b) of the Indian Act. Accordingly, the Appellants' first argument must fail.
+[13] Notwithstanding the off-reserve aspects of the Appellants' business, however, it remains to consider whether the income generated from it may still be said to be "personal property of an Indian situated on as reserve". In making this determination, the Court must be guided by the Supreme Court of Canada's decision in Williams v. Canada[3]. In Williams, the Supreme Court established criteria to replace the test first used in Nowegijick v. Canada[4] and which had, as its focus, the residence of the debtor. At page 892, Gonthier, J., writing for the full Court, explained what has become known as the "connecting factors" analysis:
+The approach which best reflects these concerns is one which analyzes the matter in terms of categories of properties and types of taxation. For instance, connecting factors may have different relevance with regard to unemployment insurance benefits than in respect of employment income, or pension benefits. The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+[14] In 1998, the Federal Court of Appeal applied the Williams approach in Southwind v. Canada[5]. Linden, J.A. upheld the decision of the judge of the Tax Court of Canada that the business income of the Appellant Mr. Southwind, an Indian resident on a reserve but working off-reserve cutting timber some 40 weeks per year was not property situated "on a reserve" within the meaning of paragraph 87(1)(b) of the Indian Act:
+[15] In reaching this conclusion, he considered the following connecting factors: "... (1) the off-reserve residence of the debtor, Morrell Logging; (2) the appellant's residence on the reserve; (3) the place where the appellant's income was paid, which ... was the bank used by Morrell Logging; (4) and the off-reserve locations where the appellant engaged in the "income earning process."[6] Linden, J.A. then went on to express his preference for the Crown's "more complex set of factors":
+(1) the location of the business activities;
+(2) the locations of the customers (debtors) of the business;
+(3) where decisions affecting the business are made;
+(4) the type of business and the nature of the work;
+(5) the place where the payment is made;
+(6) the degree to which the business is in the commercial mainstream;
+(7) the location of a fixed place of business and the location of the books and records; and
+(8) the residence of the business' owner.
+[16] The Southwind facts are very close to the Appellants' situation, the essential distinction being that unlike Mr. Southwind, the Appellants returned daily from their off-reserve business activities to their business premises on the reserve. Accordingly, the Southwind factors are useful in analyzing whether there exists, on the facts of this particular case, a connection between the Appellants' admittedly off-reserve business activities and the Thessalon Reserve so as to render their business income exempt from taxation under section 87.
+(1) the location of the business activities;
+[17] Since 1992, the business address of Clara Giguere Trucking and William Giguere Trucking David Giguere has been the Thessalon Reserve. However, David Giguere testified that "the biggest percentage of work [of Clara Giguere Trucking] was done off the reserve". In his direct evidence, William Giguere stated that the "trucking was done off-reserve on Crown land" and later that "the majority of the business [of William Giguere Trucking] was carried out on Crown land". Even in their Amended Notices of Appeal, the Appellants describe themselves as "... an Indian-owned business ... that deals primarily with a business located off the reserve ...".[7] The on-reserve business activities were limited to providing a place to park the trucks when not in use, and to repair and fuel them as required. And, as was the case in Southwind, the books and records of the Appellants' business were maintained at the business office on the reserve. In the case of Clara Giguere Trucking, that required David Giguere's presence at the office five to six hours per day, three days per week; for William Giguere Trucking, William Giguere's wife devoted, on average, three to four hours one day per week at the business office and later in their home office on the Thessalon Reserve. I am of the view that this aspect of the Gigueres' business was merely ancillary to the Appellants' primary off-reserve business activities. Accordingly, I am satisfied that the business activities of Clara Giguere Trucking and William Giguere Trucking occurred off the Thessalon Reserve.
+(2) the location of the customers (debtors) of the business;
+[18] Between 1994 and 1998, the Appellants had really only one customer, Meakin Forest. William Giguere testified that he "hauls for Meakin Forest mainly, 99% [of the time]". According to the evidence of David Giguere, Meakin Forest is a logging company, "not a reserve-based business", with its head office in Sault Ste. Marie engaged in the business of cutting timber on the Crown lands north of the Thessalon Reserve for processing in the mills in Sault Ste. Marie, Espanola and Thessalon. Clearly, Meakin Forest, the customer of Clara Giguere Trucking and William Giguere Trucking, was not on the Thessalon Reserve.
+(3) where the decisions affecting the business are made;
+[19] The nature of the work of Clara Giguere Trucking and William Giguere Trucking required decisions affecting the business to be made both at the off-reserve job sites and at the Giguere family's office and garage on the Thessalon Reserve. When performing services for Meakin Forest on Crown land and delivering the logs to their specified destinations, decisions were made at locations other than the reserve. On the administrative side, David Giguere testified that as manager, he also made decisions on the reserve scheduling trucks and drivers, ordering parts and so on at the Giguere family office. The "decisions affecting the business" were made off-reserve and on-reserve in the same proportions the primary business activity and the ancillary business activity bear to the total business activity; from this it follows that the business decision-making occurred primarily off the reserve.
+(4) the type of business and the nature of the work;
+[20] The type of business the Appellants were engaged in and the nature of their work required them to perform their primary business activities at off-reserve sites i.e., the logs they picked up for their customer, Meakin Forest, were located on Crown land; the locations to which those logs were delivered for Meakin Forest are not on reserve land. Only the ancillary administrative and maintenance duties were conducted on the Thessalon Reserve.
+(5) the place where the payment is made;
+[21] There is little evidence on this point beyond the fact that Meakin Forest paid the Appellants for their services by company cheque every two weeks based on the number of loads hauled. Accordingly, I give no weight to this factor either for or against the Appellants' position.
+(6) the degree to which the business is in the commercial mainstream;
+[22] As a preliminary comment, I share the discomfort expressed by counsel for the Appellants and for the Crown with the term "commercial mainstream", which seems to imply that Indian-run businesses are by definition outside Canada's "commercial mainstream". In seeking clarification of the proper interpretation of this term, I was directed by the words of Linden, J.A. in Recalma v. Canada[8], where he stated at page 406:
+...the concept of "commercial mainstream" is not a test for determining whether property is situated on a reserve; it is merely an aid to be used in evaluating the various factors being considered. It is by no means determinative. The primary reasoning exercise is to decide, looking at the connecting factors and keeping in mind the purpose of the section, where the property is situated, that is, whether the income earned was "integral to the life of the Reserve", whether it was "intimately connected" to that life, and whether it should be protected to prevent the erosion of the property held by Natives qua Natives.
+[23] In the present case, the primary business activity involved picking up logs from non-reserve land and hauling them for a non-reserve customer between sites also not located on reserve land. On such facts, I cannot conclude that the income earned from Clara Giguere Trucking and William Giguere Trucking was "integral to the life of the Reserve" or "intimately connected" to that life. There is no evidence to support the submission of counsel for the Appellants that to tax the Gigueres' income from hauling logs from Crown land to Sault Ste. Marie, Espanola and Thessalon amounts "to the erosion of the entitlement of the Indian qua Indian on a reserve"[9].
+(7) the location of a fixed place of business and the location of the books and records;
+[24] The business office and garage for Clara Giguere Trucking and William Giguere Trucking were located on the Thessalon Reserve at all material times. For the reasons set out above, however, this is not sufficient to outweigh the fact that the primary business activities were carried out off the reserve.
+(8) the residence of the business owner.
+[25] William Giguere became resident on the Thessalon Reserve in October 1995; Clara Giguere and David Giguere, in 1997. Thus, for some of the relevant period, 1994 to 1998, the Appellants were not resident on the reserve. This is not particularly significant as even if the Appellants had lived on the Thessalon Reserve for the entire period, that in itself would not outweigh the other factors pointing to a lack of connection between the businesses and the reserve.
+[26] To summarize, the business activities of William Giguere and Clara Giguere were such that they could only be accomplished off-reserve, almost completely in a context not "integrated into reserve life" as described in Recalma: their customer, Meakin Forest, was located off the reserve. The decisions affecting their business were primarily made off the reserve. Although their fixed place of business where the books and records were kept was on the Thessalon Reserve, this aspect of their business was only ancillary to the primary off-reserve nature of the business. The Appellants were resident on the reserve for approximately half of the taxation years in question.
+[27] In Recalma, Linden, J.A. cited the trial judge's conclusion in Southwind that "... [w]here business income is involved, most weight was placed on where the work was done and where the source of income was situated."[10] In the present case, the work was done and the source of income was situated off the reserve, factors which weigh heavily in favour of the conclusion that the income from Clara Giguere Trucking and William Giguere Trucking was not "the personal property of an Indian situated on a reserve" so as to be tax exempt under paragraph 87(1)(b) of the Indian Act. It must also be born in mind that as in all tax appeals, it is the Appellants who have the onus of proving wrong the assumptions upon which the Minister based his reassessments. I am not satisfied that they have discharged this burden. Accordingly, the appeals are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada this 19th day of April, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2005TCC257
+COURT FILE NOS.:
+1999-724(IT)G; 1999-725(IT)G
+1999-4628(IT)G
+STYLE OF CAUSE:
+William Giguere v. H.M.Q.
+Clara Giguere v. H.M.Q.
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+March 21 and 22, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+April 19, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Susan M. Hare
+Counsel for the Respondent:
+Sandra Phillips
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Susan M. Hare
+Firm:
+West Bay First Nations
+M'Chigeeng, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1
+[2] [1996] 1 S.C.R. 921
+[3] [1992] 1 S.C.R. 877
+[4] [1983] 1 S.C.R. 29
+[5] [1998] 1 C.T.C. 265
+[6] Southwind, supra at page 269
+[7] Amended Notice of Appeal, paragraph 23
+[8] [1998] 2 C.T.C. 403 (F.C.A.)
+[9] Williams, supra at paragraph 13 of Reasons for Judgment.
+[10] Recalma, supra at page 406

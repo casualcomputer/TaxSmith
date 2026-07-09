@@ -1,0 +1,240 @@
+---
+title: "McKay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181415/index.do"
+last_modified: "2016-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 233"
+citation2: ""
+neutral_citation: "2016 TCC 233"
+decision_date: "2016-10-17"
+language: "en"
+item_id: "181415"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2974
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:39:16.833000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "676776642f811304568b63eaefaad82a936e1501560cc5e9168529f08edd1e8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKay v. The Queen
+
+- Citation: 2016 TCC 233
+- Decision date: 2016-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2974, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-17
+Neutral citation
+2016 TCC 233
+File numbers
+2012-3636(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3636(IT)G
+BETWEEN:
+DAWN McKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 17, 2015, at Thunder Bay, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Brian R. MacIvor
+Amy Parker
+Counsel for the Respondent:
+George Boyd Aitken
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 17th day of October 2016.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2016 TCC 233
+Date: 20161017
+Docket: 2012-3636(IT)G
+BETWEEN:
+DAWN McKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is the application of subsection 160(1) of the Income Tax Act to the transfer of a 2008 Cadillac Escalade by Mr. Henry Wetelainen to the Appellant. As I will discuss, the determination of this issue is dependent on whether, at the time of the transfer, the Appellant and Mr. Wetelainen were dealing at arm’s length for the purposes of subsection 160(1).
+[2] I heard from three witnesses: the Appellant, Mr. Wetelainen and Mr. Ken Lieske, a CRA resource officer/complex case officer. The Appellant was the key witness. I did not find her to be a credible witness. Her testimony was self-serving and was contradicted on numerous occasions by the objective evidence before me and the testimony of Mr. Wetelainen. My reasons for judgment provide numerous examples of the contradicting evidence.
+I. Summary of Facts [3] The Appellant and Mr. Wetelainen have known each other for a significant period of time. Mr. Wetelainen testified that he first met the Appellant in 1986, when she was hired as an intern by the Ontario Métis Aboriginal Association (the “Association”). Mr. Wetelainen was the president of the Association in 1986, a position he has held for a significant period of time. The Appellant worked for the Association for many years, earning approximately $60,000 to $100,000 per year.
+[4] I heard testimony from both the Appellant and Mr. Wetelainen that, as a result of an audit in 2005 by the Federal Government and a subsequent investigation by the RCMP, the Association had to close its offices across Ontario. As a result, the Appellant lost her job with the Association.
+[5] Sometime prior to 2008, Mr. Wetelainen and the Appellant became involved in the development of an iron ore mine in Bending Lake, Ontario (the “Bending Lake Mine”). Mr. Wetelainen testified that three companies were used to carry out the development of the Bending Lake mine.
+[6] A company called Turtle River Wilderness Lodge held the property rights to the mine. Bending Lake Iron Ore Corporation (“Bending Lake Corp.”) was incorporated to develop and promote the mine. Bending Lake Iron Group Limited was incorporated to build and operate the mine.
+[7] At some point prior to July 18, 2008, Turtle River Wilderness Lodge and Bending Lake Iron Group Limited amalgamated and continued operating under the name Bending Lake Iron Group Limited (“Iron Group Ltd.”).
+[8] Bending Lake Corp. and Iron Group Ltd. used two corporate addresses. One was the Appellant’s home address and the second was an address in Thunder Bay where the corporations’ offices and warehouse were located.
+[9] Mr. Wetelainen testified that he was the founder, majority shareholder and president of all four corporations.
+[10] I heard conflicting evidence with respect to the Appellant’s involvement in Bending Lake Corp. The Appellant testified that she was employed by Bending Lake Corp. as a team leader to develop the Bending Lake Mine. She reported to a Mr. Jay Mackie who was the project manager and a director.[1]
+[11] She denied being a director or shareholder of Bending Lake Corp. She did not think directors were ever appointed or that shares of Bending Lake Corp. were ever issued.[2]
+[12] The Appellant’s testimony was contradicted by Exhibits R-2 and R-8, the testimony of Mr. Wetelainen and the Respondent’s Request to Admit.
+[13] Exhibit R-2, a corporate profile report for Bending Lake Corp. issued by the Ontario Ministry of Government Services, states that she was an officer of Bending Lake Corp. with the title of Chief Administrative Officer. This contradicts her testimony that she was a “team leader”.
+[14] Mr. Wetelainen testified that the Appellant was a shareholder of Bending Lake Corp. The evidence before me is that Bending Lake Corp.’s corporate tax return for the taxation year beginning on May 1, 2008 and ending on April 30, 2009, states that the Appellant owned 15% of the shares of the corporation.[3] This contradicts the Appellant’s testimony that she was not a shareholder of Bending Lake Corp.
+[15] The Respondent served a Request to Admit on the Appellant. She was requested to admit 20 separate facts. She only admitted the truth of the facts numbered 1, 2, 3, 6 and 7. Number 2 reads as follows: “Throughout the 2008 taxation year, the appellant was a shareholder, a director, an officer and an employee of Bending Lake Iron Ore Corporation (the “Corporation”) [Bending Lake Corp.].” This contradicts her oral evidence and is consistent with Exhibit R‑2, Exhibit R-8 and the testimony of Mr. Wetelainen.
+[16] In summary, the evidence before me is that, during the relevant period, the Appellant was a shareholder, director, officer and employee of Bending Lake Corp.
+[17] The Appellant was one of three persons with signing authority for cheques issued by Bending Lake Corp. The other two were Mr. Wetelainen and Bending Lake Corp.’s accountant, a Mr. Chris Bailey. Each cheque issued by Bending Lake Corp. required two signatures. The Appellant testified that it was “common, that we wouldn’t sign our own cheques.”[4]
+[18] The Appellant stated in her Notice of Appeal that at all material times she was a shareholder, director, officer and employee of Iron Group Ltd. The Respondent, in her Reply, admitted the truth of this fact. The Appellant accepted that she was the chief administrative officer for Iron Group Ltd.
+[19] As with Bending Lake Corp., the Appellant, Mr. Wetelainen and Mr. Bailey were the three persons with signing authority on Iron Group Ltd.’s bank account, with each cheque issued by Iron Group Ltd. requiring two signatures.
+[20] On July 18, 2008, Iron Group Ltd. received $4.2 million through a private placement of its shares. Mr. Wetelainen testified that, pursuant to a term sheet that formed part of the private placement, Iron Group Ltd. paid $1.2 million of the $4.2 million to Bending Lake Corp. It appears the $1.2 million was paid to cover costs incurred by Bending Lake Corp. to develop and promote the Bending Lake Mine; Mr. Wetelainen referred to such costs as intellectual property.[5]
+[21] Mr. Wetelainen testified that, at the time of the private placement, Bending Lake Corp. owed him somewhere between $500,000 and $1 million, for services he had previously rendered to the corporation.
+[22] It appears a portion of the amount owed by Bending Lake Corp. to Mr. Wetelainen was used by Mr. Wetelainen to purchase the Cadillac Escalade at issue in this appeal.
+[23] The Appellant testified that, after Mr. Wetelainen purchased the Cadillac Escalade, he gave it to her as a birthday present (her birthday was on August 11, 2008). On the basis of her testimony and the documentary evidence before me I have concluded that the purchase by Mr. Wetelainen and the transfer to the Appellant of the Cadillac Escalade occurred as follows:
+- On August 13, 2008, Mr. Wetelainen attended a Toronto car dealership and entered into a vehicle purchase agreement for a new 2008 Cadillac Escalade at a purchase price of $68,543.72. He gave the dealership a $2,000 deposit, leaving a balance owing of $66,543.72.[6]
+- On August 13, 2008, the Appellant, at the request of Mr. Wetelainen,[7] instructed Mr. Bailey to prepare a cheque for $75,000 drawn on Bending Lake Corp.’s bank account and payable to Mr. Wetelainen. Exhibit R-1, an August 14, 2008 memorandum from the Appellant to Mr. Bailey, evidences these instructions.
+- A $75,000 cheque dated August 14, 2008 was prepared and signed by the Appellant and Mr. Bailey.[8] The cheque was made payable to Mr. Wetelainen and showed his address as being 402 Grand Point Road, Thunder Bay, Ontario. This is the Appellant’s home address.
+- On August 15, 2008, the Appellant deposited the $75,000 cheque into Mr. Wetelainen’s bank account at a TD Canada Trust branch in Thunder Bay, Ontario.[9]
+- Approximately 30 minutes later Mr. Wetelainen had a TD Canada Trust branch in Toronto prepare a bank draft for $64,232.87 payable to the Toronto car dealership.[10]
+- Mr. Wetelainen paid the remainder of the purchase price to complete the purchase of the Cadillac Escalade. He then transferred title in the Cadillac Escalade to the Appellant.
+- The Appellant obtained car insurance for the Cadillac Escalade. As evidenced by Exhibits R-4 to R-6, the insurance covered two drivers: the Appellant and Mr. Wetelainen.
+[24] The Appellant testified that she personally paid $8,000 of the purchase price for the car by providing a cheque for such amount to the Toronto car dealership.[11] She said she provided that amount for the “licensing registration and any other closing costs”.[12] She did not provide a copy of this cheque or any other documentary evidence to support her testimony.
+[25] The documentary evidence before me contradicts her testimony on this point. As I noted previously, the vehicle purchase agreement shows that Mr. Wetelainen provided a deposit of $2,000 on August 13, 2008, leaving a balance due of $66,543.72. He then provided a bank draft on August 15 for $64,232.87, leaving a balance owing of $2,310.85. It is not clear to me when this amount was paid, but it is far less than the $8,000 the Appellant claims she paid in respect of the purchase price of the Cadillac Escalade. In addition, the $68,543.72 purchase price includes a license fee, an administration fee, an extended warranty, fuel and something called “Protector Plus”. In my view, the $68,543.72 represents the total amount paid for the vehicle.
+[26] There is no reliable evidence before me to support a factual finding that the Appellant paid any amount to the Toronto car dealer.
+[27] Mr. Wetelainen’s testimony contradicted the Appellant’s evidence on a key point: whether Mr. Wetelainen directed the Appellant to have Mr. Bailey prepare the $75,000 cheque. Mr. Wetelainen’s testimony, on cross-examination was as follows:
+Q. Right. And you directed Dawn McKay to give you a cheque for $75,000?
+A. No, I directed Chris Bailey to do it, and Dawn was a signature on that. And Chris was our accountant, and he was in control of it. He could have said no, but he didn't he signed it and he kept the cheque.
+Q. You didn't have a conversation with Dawn McKay?
+A. No, because I deal with Chris all the time.
+Q. Okay, and you--
+A. He was the controller.
+Q. So you directed Chris to give you a cheque for $75,000?
+A. Against my account.
+[28] This directly contradicts the Appellant’s testimony that Mr. Wetelainen called her and directed her to have Mr. Bailey prepare the cheque for $75,000. In this instance, I accept the testimony of the Appellant. The documentary evidence before me, Exhibit R-1, supports her testimony. Mr. Wetelainen’s testimony on this point seriously damaged his credibility. In my view, his testimony was an attempt to mislead the Court with respect to the Appellant’s involvement in obtaining the $75,000 cheque from Bending Lake Corp.
+[29] Mr. Wetelainen testified that he lived at a house he owned in Wabigoon, Ontario. Apparently, Wabigoon is a two-and-a-half to three-hour drive from Bending Lake Corp.’s and Iron Group Ltd.’s offices in Thunder Bay. The Association’s office was located in the same building in Thunder Bay.
+[30] Mr. Wetelainen testified that he did not own a car at the time he purchased the Cadillac Escalade. He was using his brother’s truck. On cross-examination, he admitted that he had previously owned a Cadillac Escalade; however it was repossessed by a bank in either 2006 or 2007.
+[31] Mr. Wetelainen testified that he gave the Cadillac Escalade to the Appellant as a gift for all she had gone through during the audit of the Association and the subsequent police investigation.
+[32] The evidence before me is that, at the time Mr. Wetelainen purchased the Cadillac Escalade and transferred title to the Appellant, he was liable to pay over $900,000 under the Income Tax Act.[13]
+II. The Law [33] Subsection 160(1) reads as follows:
+160. (1) Tax liability re property transferred not at arm's length — Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[34] The Federal Court of Appeal in The Queen v. Livingston[14] stated that the following criteria should be applied when considering the application of subsection 160(1):
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor’s spouse or common-law partner at the time of transfer or a person who has since become the person’s spouse or common-law partner:
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm’s length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[35] If these conditions are satisfied then the transferee (the Appellant) is liable to pay a part of the transferor’s (Mr. Wetelainen’s) tax liability equal to the amount by which the fair market value of the transferred property (the Cadillac Escalade) exceeds the fair market value of the consideration given by the transferee.
+[36] It is accepted by the Appellant that Mr. Wetelainen transferred the Cadillac Escalade to her in August 2008. The evidence before me is that at the time of the transfer Mr. Wetelainen owed taxes in excess of $900,000.
+[37] Exhibit A-4 evidences that the fair market value of the Cadillac Escalade was $68,543.72 at the time of the transfer.
+[38] As noted previously, I have concluded, on the evidence before me, that the Appellant did not pay any consideration for the Cadillac Escalade.
+[39] Therefore subsection 160(1) will apply to the transfer if the Appellant and Mr. Wetelainen were not dealing at arm’s length at the time of the transfer. It will also apply if they lived in a common-law relationship either at the time of the transfer or subsequently to the transfer.
+[40] The Respondent argues in her Reply that, at all material times, paragraph 251(1)(a) deemed the Appellant and Mr. Wetelainen not to deal with each other at arm’s length. The Respondent argues that the Appellant and Mr. Wetelainen lived in a common-law relationship and thus were related persons under paragraph 251(2)(a) and thus deemed, under paragraph 251(1)(a), not to deal with each other at arm’s length.
+[41] The Respondent also argues that, pursuant to paragraph 251(1)(c), the Appellant and Mr. Wetelainen did not deal with each other at arm’s length. This paragraph reads as follows:
+For the purposes of this Act,
+. . .
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm’s length.
+. . .
+[42] The learned authors Peter W. Hogg, Joanne E. Magee and Jinyan Li in their book Principles of Canadian Income Tax Law provide the following accurate summary of the law with respect to the determination of whether two persons are, as a question of fact, dealing at arm’s length:
+. . . The criteria that courts generally use in determining whether or not a transaction is at arm's length are as follows: (a) was there a common mind which directs the bargaining for both parties to a transaction, (b) were the parties to a transaction acting in concert without separate interests, and (c) was there de facto control? In addition, the courts may consider whether the terms of the transactions between the parties reflect “ordinary commercial dealings”, but only to “reflect on the soundness” of the conclusions after applying the three tests above.[15]
+[43] The Federal Court of Appeal in The Queen v. Remai Estate[16] noted the following with respect to the criteria:
+. . . As with any multi-factor legal test, not all need be satisfied in every case. Some may assume particular importance in some circumstances, and others less. Nor are the listed factors necessarily exhaustive.
+III. Application of Law to the Facts [44] I will first address the issue of whether the Appellant and Mr. Wetelainen lived in a common-law relationship. When assessing the Appellant, the Minister did not assume that the Appellant and Mr. Wetelainen lived in a common-law relationship. As a result, there is no assumption for the Appellant to destroy.
+[45] I must base my decision on the evidence before me. Both the Appellant and Mr. Wetelainen testified that they did not live in a common-law relationship. Mr. Wetelainen testified that he lived in his home in Wabigoon, Ontario, a two-and-a-half to three-hour drive away.
+[46] I did not find either witness to be a credible witness; as a result I have placed no weight on their testimony on this point.
+[47] It is clear to me that the Appellant and Mr. Wetelainen had a very close relationship. They have known each other professionally and personally for a long period of time. The following evidence is consistent with a finding that at some point in time this relationship developed into a common-law relationship:
+- The $75,000 cheque issued by Bending Lake Corp. to Mr. Wetelainen showed his address as being the home address of the Appellant.
+- The Appellant insured Mr. Wetelainen as a driver of the Cadillac Escalade.
+- The Appellant was aware of Mr. Wetelainen’s bank account information. Since she deposited the $75,000 into his bank account, she must have known the location of that account and the account number.
+[48] This evidence alone is not sufficient to support a finding that the Appellant and Mr. Wetelainen lived in a common-law relationship. However, when that is combined with Exhibit R-6, the evidence before me does support such a finding.
+[49] Exhibit R-6 is the certificate of insurance for the Cadillac Escalade for the period from August 15, 2011 to August 15, 2012. Page 2 of Exhibit R-6 states that the Appellant and Mr. Wetelainen are living in a common-law relationship. This represents a change from the certificates of insurance for the two previous years (Exhibits R-4 and R-5), which identify each as being single.
+[50] The Appellant testified that she does not know why the change was made on the insurance certificate issued in 2011; she claimed that she did not provide instructions to do so to the insurance company. I do not accept the Appellant’s testimony on this point. She was the named insured on the certificate of insurance. The insurance company would have to have received instructions from the Appellant before making the change in marital status on the certificate of insurance.
+[51] On the above evidence, I have concluded that at some point in time prior to August 2011 the Appellant and Mr. Wetelainen were living in a common-law relationship.
+[52] In addition, it is my view that, regardless of whether the Appellant and Mr. Wetelainen were living in a common-law relationship, they were not, as a question of fact, dealing at arm’s length at the time the Cadillac Escalade was transferred by Mr. Wetelainen to the Appellant.
+[53] I do not accept Mr. Wetelainen’s testimony that he gave the Cadillac Escalade to the Appellant as a gift for all she had gone through during the audit of the Association. The Appellant testified that she was well compensated for her work at the Association, earning $60,000 to $100,000 per year. In my view, based upon the evidence before me, Mr. Wetelainen transferred title to the Cadillac Escalade in order to avoid the collection efforts of the CRA.
+[54] As I have just discussed, Mr. Wetelainen and the Appellant had a close personal relationship. Sometime prior to the summer of 2008, Mr. Wetelainen had lost his only vehicle, a Cadillac Escalade, as a result of its repossession by the bank. He clearly required a vehicle to carry out his duties as president of Bending Lake Corp. and Iron Group Ltd. The mine was located over two and half hours from the corporations’ offices in Thunder Bay. Faced with a tax debt of over $900,000, he had to find a way to obtain a vehicle without it being subject to CRA collection actions.
+[55] In my view, based on the evidence before me, he and the Appellant accomplished this goal by carrying out the transactions that resulted in funds flowing from Bending Lake Corp. to the car dealership and title to the new Cadillac Escalade ending up with the Appellant. The Appellant then added Mr. Wetelainen as a driver on her insurance policy, thus allowing him to use the vehicle on a regular basis.
+[56] In my view, Mr. Wetelainen was the controlling mind behind all of these transactions. He and, at his direction, the Appellant carried out the transactions in an attempt to remove an asset that Mr. Wetelainen intended to use on a regular basis, the Cadillac Escalade, from the collection efforts of the CRA. This is the very evil that subsection 160(1) is intended to prevent from occurring.
+[57] For the foregoing reasons, the appeal is dismissed; subsection 160(1) applied to the transfer of the Cadillac Escalade by Mr. Wetelainen to the Appellant. The Respondent is awarded her costs.
+Signed at Ottawa, Canada, this 17th day of October 2016.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2016 TCC 233
+COURT FILE NO.:
+2012-3636(IT)G
+STYLE OF CAUSE:
+DAWN McKAY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+December 17, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+October 17, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Brian R. MacIvor
+Amy Parker
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian R. MacIvor
+Firm:
+MacIvor Harris LLP
+Thunder Bay, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See transcript, pages 28 and 41.
+[2] See transcript, pages 41, 87, 88 and 125.
+[3] Exhibit R-8, See transcript, pages 183-184, 171-172
+[4] See transcript, page 63.
+[5] See transcript, pages 32 and 143-145.
+[6] See Exhibit A-4.
+[7] Transcript, page 61.
+[8] Exhibit A-3.
+[9] Exhibit A-5.
+[10] See Exhibits A-6 and A-9.
+[11] See transcript, page 45.
+[12] See transcript, page 113.
+[13] See transcript, page 182.
+[14] The Queen v. Livingston, 2008 FCA 89, at para. 17.
+[15] 8th edition (Toronto: Carswell, 2013), paragraph 13.4(a)(ii).
+[16] 2009 FCA 340, 2009 DTC 5188, at paragraph 32.

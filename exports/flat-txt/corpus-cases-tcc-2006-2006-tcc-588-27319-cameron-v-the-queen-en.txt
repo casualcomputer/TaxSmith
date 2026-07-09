@@ -1,0 +1,132 @@
+Title: Cameron v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27319/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-588-27319-cameron-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-30
+
+# Cameron v. The Queen
+
+- Citation: 2006 TCC 588
+- Decision date: 2006-10-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 859, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-30
+Neutral citation
+2006 TCC 588
+File numbers
+2006-732(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-732(IT)I
+BETWEEN:
+DONALD O. CAMERON,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 20, 2006, at Winnipeg, Manitoba
+Before: Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ainslie Schroeder
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order seeking to dismiss the appeals in respect to the 1996, 1997, 1998, 1999 and 2000 taxation years;
+And upon reading the Affidavits of Paul Fenez and Laureen Crampton,filed;
+And upon hearing the parties;
+The motion is granted and the appeals are dismissed in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 30th day of October 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC588
+Date:20061030
+Docket: 2006-732(IT)I
+BETWEEN:
+DONALD O. CAMERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] The Appellant is a resident of the City of Winnipeg.
+[2] In the 1996 to 2000 taxation years the Appellant was employed by the Quest Inn.
+[3] Criminal charges were laid against the Appellant in connection with a theft of money from the Quest Inn.
+[4] The Appellant maintains that the Canada Revenue Agency (the "CRA") relied upon the information contained in the criminal charges and on September 23, 2003 Notices of Reassessment were issued for the following taxation years:
+Additional Income
+Additional Interest
+1996
+$4,806.83
+$3,465.03
+1997
+$6,740.57
+$3,976.34
+1998
+$10,933.55
+$4,953.82
+1999
+$22,049.46
+$7,204.15
+2000
+$15,043.35
+$3,019.33
+[5] The Appellant said that he did not file Notices of Objection to the Notices of Reassessment because he was advised by his criminal lawyer that by filing Notices of Objection he might compromise the confidentiality of the evidence that was crucial to the upcoming criminal trial.
+[6] All of the criminal charges that were laid against the Appellant were dropped by the Crown counsel before the trial was to begin.
+[7] On March 7, 2006 the Appellant filed Notices of Appeal to the Court.
+[8] On October 11, 2006 counsel for the Respondent filed a Notice of Motion with the Court. In the Notice of Motion counsel for the Respondent asked for an Order dismissing the appeals with respect to the 1996, 1997, 1998, 1999 and 2000 taxation years.
+[9] The grounds for the Motion are that the Appellant did not file a Notice of Objection with respect to any of the Reassessments at issue.
+B. ISSUE
+[10] The issue before the Court is whether the Appellant has filed a valid Notice of Appeal.
+C. ANALYSIS AND DECISION
+[11] Subsection 165(1) of the Income Tax Act (the "Act") provides that a taxpayer who objects to an assessment may serve on the Minister a Notice of Objection within 90 days of the day that is after the day the Notices of Reassessment were mailed. In this situation all of the Notices of Reassessment were issued on September 23, 2003.
+[12] Subsection 166.1(1) of the Act provides that a taxpayer may apply to the Minister for an extension of time to file a Notice of Objection. The section provides that an application to extend the time must be made within one year after the expiration of the time in which to serve a Notice of Objection.
+[13] In this situation the Notices of Objection should have been served by the Appellant within 90 days of September 23, 2003, i.e. sometime before December 22, 2003. The Appellant stated that he did not filed Notices of Objection because of the advice received from his criminal lawyer.
+[14] If the Appellant had made an application to extend the time under subsection 166.1(1) the application should have been made within one year of December 22, 2003, i.e. sometime before December 22, 2004. The Appellant stated that he did not file an application under subsection 166.1(1).
+[15] Since the Appellant did not file Notices of Objection to the Reassessments within the 90-day period provided by section 165 of the Act and since the Appellant did not file an application to extend the time for objecting within the one year provided by subsection 166.1(1) of the Act, I have no alternative but to grant the Notice of Motion filed by the Respondent and dismiss the Notices of Appeal filed for the 1996 to 2000 taxation years.
+[16] During the hearing the Appellant maintained that all of the additional income was related to the criminal charges that were laid against him and later dropped by the Crown. The Appellant also stated in his Notices of Appeal that he was told by officials of the CRA that if he was cleared by the Courts of the criminal charges a reversal of the Reassessments would be appropriate.
+[17] As noted above, I do not have the authority to accept a Notice of Appeal if a taxpayer has not complied with the rules of the Act in filing Notices of Objection.
+[18] However, the Federal Cabinet has the authority under subsection 23(2) of the Financial Administration Act to remit or waive tax. Subsection 23(2) of the Financial Administration Act reads as follows:
+23. (2) The Governor in Council may, on the recommendation of the Treasury Board and when he considers it in the public interest, remit any tax, fees or penalty.
+[19] The Minister of National Revenue also has the power under the fairness legislation in the Act to waive interest or penalties. Information Circular No. 92-2 refers to the fairness legislation and provides as follows:
+1. ... The legislation [i.e. the fairness legislation] gives discretion to cancel or waive all or a portion of any interest or penalties payable, and it applies to taxation years back to 1985.
+[20] This may be a situation where the Minister of National Revenue should consider exercising his power either under the Financial Administration Act or the fairness legislation of the Income Tax Act.
+[21] The Notice of Motion is granted and the appeals are dismissed.
+Signed at Vancouver, British Columbia, this 30th day of October 2006.
+"L.M. Little"
+Little J.
+CITATION: 2006TCC588
+COURT FILE NO.: 2006-732(IT)I
+STYLE OF CAUSE: Donald O. Cameron and
+Her Majesty the Queen
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: October 20, 2006
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: October 30, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ainslie Schroeder
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

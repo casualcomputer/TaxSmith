@@ -1,0 +1,102 @@
+Title: Morley c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27970/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-389-27970-morley-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-06-04
+
+# Morley c. La Reine
+
+- Citation: 2003 CCI 389
+- Decision date: 2003-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1818, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-04
+Référence neutre
+2003 CCI 389
+Numéro de dossier
+2000-3716(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI389
+Date : 20030609
+Dossier : 2000-3716(IT)G
+ENTRE :
+DAVID MORLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue par conférence téléphonique le 3 juin 2003.
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Sheldon Silver, c.r.
+Avocat de l’intimée :
+Me Harry Erlichman
+____________________________________________________________________
+ORDONNANCE MODIFIÉE ET MOTIFS DE L’ORDONNANCE
+Le juge Beaubier
+[1] La présente requête, présentée par l’intimée, a été entendue par conférence téléphonique le 3 juin 2003.
+[2] Dans sa requête, l’intimée recherchait la conclusion suivante :
+(1) une ordonnance, prononcée en vertu de l’alinéa 110c) des Règles de la Cour canadienne de l’impôt (procédure générale), rejetant l’appel port2ant à la question de la juste valeur marchande du logiciel acheté;
+et des conclusions subsidiaires.
+[3] Les moyens invoqués quant aux conclusions recherchées ont été résumés de la sorte dans l’avis de requête :
+[TRADUCTION]
+1. Dans son avis d’appel modifié, l’appelant a affirmé qu’Agensys (Canada) Limited Partnership (autrefois Continental Limited Partnership) (ci‑après « Agensys ») avait acheté un logiciel en application d’une convention d’achat datée du 20 décembre 1992 qui a été modifiée et reconduite le 30 juin 1993. L’appelant y a aussi affirmé qu’il était un associé d’Agensys.
+2. Le prix d’achat déclaré du logiciel était de 12 150 000 $ plus une somme représentant 10 % des ventes annuelles brutes réalisées par Agensys à partir de produits dérivés du logiciel après qu’Agensys ait réalisé des ventes totales de produits dérivés du logiciel dépassant 12 000 000 $. Dans son avis d’appel modifié, l’appelant a affirmé que la valeur du logiciel avait été estimée à 14 875 000 $ en avril 1993.
+3. Lorsqu’il a établi la cotisation, le ministre du Revenu national a présumé que le logiciel n’avait aucune valeur. L’appelant conteste cette hypothèse.
+4. Durant l’interrogatoire préalable de l’appelant qui a été fait les 11 et 12 septembre 2002, l’avocat de l’intimée a demandé la présentation du code exécutable, du code source et de la documentation destinée aux utilisateurs dont il était question dans la convention d’achat du 20 décembre 1992 dans sa version modifiée et reconduite du 30 juin 1993.
+5. Pour répondre à cette demande, l’appelant a expliqué que le code source du logiciel avait été confié à un tiers aux îles Turques et Caïques. L’avocat de l’appelant s’est engagé à se renseigner sur la disponibilité du code source et du code exécutable du logiciel, et à s’informer des conditions que l’intimée devrait remplir pour avoir accès à ces codes.
+6. À ce jour, l’appelant a présenté deux versions du code source du logiciel, mais aucune de ces versions n’est celle dont il était question dans la convention d’achat du 20 décembre 1992.
+[4] Elizabeth Chasson, une avocate ayant représenté l’intimée dans la présente affaire, a présenté un affidavit très détaillé à l’appui des conclusions recherchées par l’intimée. Cet affidavit n’a pas été réfuté. L’appelant a présenté deux versions prétendument « originales » du logiciel sur lequel porte la question concernant la juste valeur marchande du logiciel acheté par Agensys, mais les experts de l’intimée ont prouvé que ces deux versions‑là dataient d’après le 20 décembre 1992.
+[5] La convention de dépôt en fiducie conclue entre Agensys et le fiduciaire (annexé à l’affidavit de David R. Poore daté du 23 mai 2003) prévoit notamment ce qui suit :
+1. Les mises à jour du logiciel seront envoyées au fiduciaire.
+2. La distribution du « code source » sera limitée.
+Par conséquent, il se peut que les versions du logiciel reçues par l’intimée aient été des mises à jour.
+[6] Cependant, selon l’avis d’appel modifié :
+1. Le « billet d’achat » servant à déterminer la valeur du logiciel est capitalisé au montant nominal de 12 150 000 $, valide jusqu’au 31 décembre 2002. La valeur du logiciel a donc dû être déterminée au plus tard le 20 décembre 1992.
+2. La valeur de 12 150 000 $ se rapportait au logiciel qui aurait prétendument existé le 20 décembre 1992.
+3. L’appelant a souscrit cinq parts d’Agensys le 19 octobre 1993 pour un prix total de 232 500 $, dont il a payé 35 025 $ comptant et réglé le reste au moyen d’un « billet de souscription » reprenant les conditions générales du billet d’achat.
+4. En faisant la souscription de ses cinq parts, l’appelant est devenu associé d’Agensys (Canada) Limited Partnership (autrefois Continental Limited Partnership), c’est‑à‑dire la société de personnes qui avait conclu la convention de dépôt en fiducie avec Temple Trust Company Limited, le dépositaire légal (la « société de fiducie »), une société de fiducie dûment constituée sous le régime des lois des îles Turques et Caïques.
+[7] La société de fiducie se trouve dans un autre territoire. Elle n’est pas partie au présent appel. Par conséquent, la Cour n’a pas compétence pour conclure quant à ce que la société de fiducie détient. C’est le risque que l’appelant a couru en s’associant à une société de personnes sans prendre des précautions suffisantes.
+[8] Le résultat est donc le suivant :
+1. Aucun élément de preuve n’a été présenté pour démontrer que le logiciel – le bien à l’origine de la valeur déterminée le 20 décembre 1992 – existe aujourd’hui ou qu’il existait à ce moment‑là.
+2. L’appelant n’a jamais répondu aux questions relatives à l’existence du logiciel aujourd’hui ou en décembre 1992, et il semble qu’il soit incapable d’y répondre.
+3. Le délai accordé pour remplir les engagements pris est échu.
+[9] Cependant, l’affidavit d’Ian R. Assing qu’a déposé l’appelant fait état d’un logiciel daté de 1993, qui serait prétendument une version plus récente du logiciel visé par la convention datée du 20 décembre 1992. De plus, la convention d’achat du logiciel datée du 20 décembre 1992 (la pièce C jointe à l’affidavit d’Elizabeth Chasson) contient la clause 3.1, qui prévoit la vente du logiciel à Agensys, la société de personnes à laquelle l’appelant s’est associé le 19 octobre 1993. Enfin, dans son avis d’appel modifié, l’appelant a décrit une poursuite intentée en 1996 par Agensys à l’encontre du vendeur du logiciel. Cette poursuite a notamment été réglée par le transfert des droits internationaux du logiciel à Agensys (voir les paragraphes 18 et 19). Il est particulièrement important de souligner que la convention d’achat du 20 décembre 1992 n’a pas été répudiée, mais, qu’au contraire, elle a été exécutée.
+[10] Dans les circonstances, compte tenu des éléments de preuve présentés à la Cour jusqu’à maintenant, les droits canadiens du logiciel apparemment décrit dans la convention datée du 20 décembre 1992 ont été obtenus puis cédés à Agensys en échange d’une contrepartie qui semblait avoir une certaine valeur.
+[11] La présente requête vise à faire rejeter l’appel portant sur la question de la juste valeur marchande du logiciel. Cependant, aucune preuve démontrant que le logiciel n’avait aucune valeur n’a été présentée. Dans les circonstances, la valeur du logiciel et la valeur du billet pour 12 150 000 $ et de la contrepartie restante qu’Agensys devait verser (voir la clause 5 de la convention d’achat), ou encore, possiblement, leur valeur en date du 19 octobre 1993 sont des questions qui devraient être tranchées par le juge qui présidera l’audience.
+[12] Aux paragraphes 3 et 4 de l’avis de requête, les conclusions suivantes sont recherchées :
+[TRADUCTION]
+3. une ordonnance obligeant l’appelant à répondre à toutes les questions soulevées lors de l’interrogatoire préalable et à produire les documents y ayant été demandés;
+4. une ordonnance abrégeant le délai de présentation et de signification du rapport préparé par l’expert de l’intimée;
+[13] En ce qui concerne le paragraphe 3 de l’avis de requête, l’appelant a présenté d’autres pièces les 23 et 30 mai 2003 pour remplir les engagements qu’il avait pris. La Cour permet que ces pièces soient ajoutées au dossier. Toutefois, la Cour ordonne que l’appelant n’aura pas le droit de présenter d’éléments de preuve à l’audience quant aux questions qui n’ont pas encore été tranchées.
+[14] Compte tenu de ce qui précède, l’ordonnance recherchée au paragraphe 4 de l’avis de requête est accordée quant aux rapports d’expert des deux parties qui ont été présentés et signifiés à ce jour.
+[15] En résumé, la Cour ordonne ce qui suit :
+1. La conclusion recherchée au paragraphe 1 de l’avis de requête est rejetée;
+2. La conclusion recherchée au paragraphe 2 de l’avis de requête est rejetée sous réserve du fait qu’à ce jour, la version du logiciel déposée en preuve semble être datée de novembre 1993. Ainsi, à l’audience : 1) l’origine du logiciel fera l’objet de plaidoiries; 2) les d’éléments de preuves présentés par les parties porteront sur la valeur de la version de novembre 1993 du logiciel, et non pas sur d’autres logiciels ou d’autres versions du logiciel;
+3. Ce qui a été ordonné au paragraphe [13] des présents motifs est répété. Cependant, la Cour est d’avis que la requête de l’intimée était la cause des réponses datées des 23 et 30 mai 2003;
+4. Ce qui a été ordonné au paragraphe [14] des présents motifs est répété.
+[16] À cause de l’importance particulière des conclusions de la Cour et des ordonnances décrites aux points 3 et 4 du paragraphe [15] des présents motifs, les dépens entre parties pour la requête sont adjugés à l’intimée quelle que soit l’issue de la cause.
+La présente ordonnance modifiée et les présents motifs de l’ordonnance remplacent l’ordonnance et les motifs de l’ordonnance datés du 4 juin 2004.
+Signé à Edmonton (Alberta), ce 9e jour de juin 2003.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 30e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.

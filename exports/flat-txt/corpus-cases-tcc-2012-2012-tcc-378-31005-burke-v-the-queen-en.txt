@@ -1,0 +1,285 @@
+Title: Burke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31005/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-378-31005-burke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-24
+
+# Burke v. The Queen
+
+- Citation: 2012 TCC 378
+- Decision date: 2012-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4887, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-24
+Neutral citation
+2012 TCC 378
+File numbers
+2009-2921(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2921(IT)G
+BETWEEN:
+JULIE BURKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 4 and 5, 2012, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+John Sorensen
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+JUDGMENT
+The Appeal for the 1996 taxation year is dismissed.
+The Appeals for the 1997, 1998, 2000 to 2003, and 2006 and 2007 taxation years are allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that child support payments are not to be included in the Appellant’s income.
+The Appellant’s application to extend the time to file the Notice of Objection for the 1999 taxation year is quashed as the Court has no jurisdiction to hear such an application.
+Signed at Toronto, Ontario, this 24th day of October 2012.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2012 TCC 378
+Date: 20121024
+Docket: 2009-2921(IT)G
+BETWEEN:
+JULIE BURKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Julie Burke’s Appeals relate to the 1996 to 2003, and the 2006 and 2007 taxation years. For all of these years she maintains the child support payments she received should not have been included in her income as they were covered by the new regime for taxation of child support payments that came into effect in May 1997. She relies on 3 premises for this position: first, she and her ex-husband filed a joint-election (T1157) triggering a May 1, 1997 Commencement Day; second, an order of December 11, 2009, of the Ontario Superior Court of Justice amended a 1993 interim order, ordering child support payments, creating a May 1, 1997, Commencement Day; and, third, correspondences between Mr. Burke’s and Ms. Burke’s lawyers constituted a written agreement which created a May 1, 1997, Commencement Day. Further, with respect to the 1996 to 1999 taxation years, Ms. Burke’s position is that the Government has been unable to prove when assessments were mailed and therefore the time for filing Notices of Objection to those Notices of Assessment has not expired, and she is entitled to an extension of time to file the Notices of Objection for those years. In the alternative, the Appellant’s position is that the Government has not proven the assessments were mailed at all. In this case, she argues that Canada Revenue Agency’s ("CRA") collection actions in respect of those years have no legal basis.
+FACTS
+[2] I will first review the facts pertaining to the "Commencement Day" issue. Mr. Burke and Ms. Burke were married on June 30, 1984 and had two children born May 2, 1988 and May 23, 1990. It was clear Ms. Burke is extremely proud of her now adult children. Ms. Burke and Mr. Burke separated in January 1992. Mr. Burke paid towards family expenses until January 1993 when he stopped making payments, and Ms. Burke felt obliged to file for divorce, which she did in April 1993. On May 27, 1993, Madam Justice Greer, of the Ontario Court (General Division), ordered "that the respondent shall pay the sum of $1,450 a month as interim interim child support to the petitioner". Mr. Burke recommenced payments in November 1993.
+[3] In the fall of 1996, Ms. Burke became aware of the new Support Payment Guidelines that stipulated child support payments would no longer be required to be brought into income by the recipient. She attempted to negotiate a financial arrangement with Mr. Burke, which culminated in an exchange of correspondence between their lawyers as follows:
+i) September 19, 2000 from Mr. Burke’s lawyer, Thompson Rogers to Ms. Burke’s lawyer, Bonwyn Patterson:
+"3. My client’s 1998 income tax return indicated that his income was $121,588. This was for 12 months, not nine as you suggest. My client will agree to pay child support retroactive to January 1, 1999 in the amount of $1,465 per month.
+Would you please consult with your client to see if we cannot finalize this matter on the terms indicated in our respective correspondence?"
+ii) December 5, 2001 letter from Ms. Patterson to Thompson Rogers:
+"I have now had an opportunity to review the contents of your September 19, 2000 letter with my client and obtain from her instructions as to the contents of your client’s proposal for settlement. The following are my client’s responses to the matters raised in your letter…
+3. My client will agree to the child support payment of $1,465, assuming that your client provides some sworn evidence as to his current level of income which would confirm that the $1,465 is the appropriate amount of support under the Child Support Guidelines and as long as your client agrees to pay 2/3rds of the childrens’ extracurricular activities."
+iii) March 7, 2001 letter from Thompson Rogers to Ms. Patterson:
+"My client’s position is as follows:
+1. Custody: agreeable.
+3. Child support: My client will agree to pay $1,465 per month. My client currently earns less than $120,000 per annum and if income verification was required, it would reduce the support payments. Consequently, we suggest that we stay with the amount of $1,465 per month.
+8. Agreeable.
+9. Agreeable.
+Please get back to me after you have had a chance to speak to your client."
+[4] Ms. Burke had not filed tax returns for a number of years, but did so in 2007 upon request of the CRA. According to Ms. Burke she was advised by the CRA to include the support payments in income, which she did for the years in issue.
+[5] In September 2009, Ms. Burke filed these Appeals in the Tax Court of Canada for the 1996 to 2003, and 2006 and 2007 taxation years. Interestingly, the CRA assessed the 2004 year on the basis that the new regime applied to Ms. Burke, and she was therefore not required to bring the child support payments into income.
+[6] On December 11, 2009, Ms. Burke obtained the following order from Justice Allen of the Ontario Superior Court of Justice:
+The Court orders on consent:
+1. The respondent and applicant confirm their agreement that all child support payments made since May, 1, 1997, from the respondent to the applicant were made pursuant to the Child Support Guidelines and append hereto as Schedule "A" a history of payments made.
+2. The respondent shall continue to solely finance the post-secondary education costs for both children, namely Geoffrey Burke, born May 2, 1988 and Shannon Burke, born May 23, 1990 until they have completed four years of undergraduate study. His support will include the following expenses:
+a. tuition not otherwise paid through bursary, grant or scholarship;
+b. books and supplies;
+c. residence and meal plans;
+d. travel to and from Ontario;
+e. travel costs for sport activities;
+f. spending money ($75.00 per week, per child); and
+g. cell phone and long distance telephone expenses.
+3. The respondent’s base child support payments to the applicant in the sum of $1,250 per month shall terminate on June 1, 2010 (the final payment date) with the current mechanism of those funds being directly deposited by the respondent into the applicant’s bank account on the first of each month.
+…
+Schedule "A"
+1997: May to December $11,600.00
+1998: January to December $17,400.00
+1999: January to December $17.400.00
+2000: January to December $17.400.00
+2001: January to December $17.400.00
+2002: January to December $17.400.00
+2003: January to December $17.400.00
+2004: January to December $24,000.00
+2005: January to December $24,000.00
+2006: January to December $24,000.00
+2007: January to December $22,500.00
+2008: January to December $17,250.00
+2009: January to December $15,000.00
+[7] By an election dated September 2, 2011 on Form T1157 Ms. Burke and her ex-husband elected that child support payments will not be taxable or deductible effective May 1, 1997.
+[8] Before moving on to the morass of if, when and where assessments were sent for the years 1996 to 1999, I would note that Ms. Burke, with little income and little education, has single‑handedly and successfully (however one wants to define that) raised her two children to young adults. For economic reasons she had to move on more than one occasion, at least once back to her parents’ home. More on that now as I attempt to sort out the facts surrounding the Notices of Assessment, specifically for the years 1996 to 1999.
+[9] As indicated, Ms. Burke, in an effort to keep her expenses down, changed residences. Indeed, in 1996 she moved with her two young children to her parents’ home at 157 Church Avenue in Toronto, where she lived until 2000. She did not file returns for a number of years during this period but only started filing after requests from the CRA in 2006. In September 2007, she filed her 1996, 1997, 1998, 2000, 2001 and 2002 returns. At this time, she was living at 2911 Bayview Avenue in Toronto, though unfortunately appears to have put 2311 Bayview on the 2000, 2001 and 2002 returns, prepared by H&R Block. We have no record of the 1996 or 1997 returns. The 1998 return shows a typed address of 157 Church Avenue, but it is scratched out and the 2911 Bayview address handwritten in. Ms. Burke speculated that a CRA agent, Sharon, with whom she had been communicating at the time, could possibly be responsible for the change of the address on the 1998 return, as Ms. Burke had spoken to her about ensuring that the CRA had her correct address: she was led to believe that Sharon would make the necessary changes.
+[10] Ms. Burke moved from 2911 Bayview in October 2008 to a cheaper two‑bedroom place at 15 Laidlaw in Toronto. She notified the CRA.
+[11] On December 4, 2006 Ms. Burke received a Notice of Reassessment for her 2004 taxation year at her correct address at 2911 Bayview, though her name was misspelled. On November 5, 2007 she also received correspondence from the CRA with respect to her 2000 and 2003 returns, again correctly addressed to her 2911 Bayview address. Shortly thereafter in November 2007, she received Notices of Reassessment for 2000 to 2003 sent to 2911 Bayview. It appears that from late 2006 to late 2007 the CRA had Ms. Burke’s correct address. But in February 2008, the CRA sent a statement of account to Ms. Burke at 157 Church. The statement showed amounts owing for the 1996 and 1997 assessments, which were shown to have been dated February 4, 2008. Reconstructed Notices of Assessment for the 1996 and 1997 taxation years show the 157 Church Avenue address, while the 1998 reconstructed notice, which shows a date of November 20, 2007, indicates it was sent to the 2911 Bayview address.
+[12] The Respondent introduced an internal computer printout which keeps track of a taxpayer’s address. It shows 2911 Bayview as Ms. Burke’s address from May 2006 to January 11, 2008 when it shows the 157 Church address, but on the same date, January 11, 2008 also shows returned mail, presumably from this address, though indicates that this was not processed until March 3, 2008. It goes on to indicate that effective March 6, 2008, processed on the same date, a change back to 2911 Bayview took place. It is a mystery as to what happened in early 2008 to create the address confusion. The only possibility is that the 1998 return, filed in September 2007, which had the 157 Church address was relied upon, notwithstanding the CRA still corresponded with Ms. Burke at 2911 Bayview after that, plus the return had the 2911 Bayview address scratched out, plus Ms. Burke testified that she clarified all this with Sharon, the CRA agent.
+[13] Ms. Burke’s position is that she never received the 1996 to 1999 assessments.
+[14] According to its Reply, the Respondent maintains that the 1996, 1997 and 1998 Notices of Assessment dated February 4, 2008, February 4, 2008 and November 20, 2007 respectively, were sent to "the mailing address the Appellant stated on her 1998 income tax return that was filed on September 10, 2007." But, recall that that return had the 157 Church Avenue address scratched out and 2911 Bayview written in. Which address does the Respondent mean? The reconstructed notices show that the 157 Church address was used for 1996 and 1997 and the 2911 Bayview address for 1998.
+[15] The reconstructed Notices of Assessment for 1999 show a date of September 5, 2006, also sent to 2911 Bayview. This is confirmed in a CRA statement of account dated July 13, 2007 sent to Ms. Burke at 2911 Bayview. The 1999 income tax return in the Joint Book of Documents (unstamped as received) is signed by Ms. Burke and dated October 3, 2007. Unlike the 1998 return and 2000 to 2003 returns, it does not indicate it was prepared by H&R Block. The Respondent, however, has agreed that the 1999 return was filed on October 31, 2007.
+[16] On April 4, 2008 Ms. Burke applied to the Minister of National Revenue (the "Minister") for an extension of time to file an objection to the 1999 to 2003, and the 2006 taxation years. By letter dated May 15, 2008 the Minister denied the extension for the 1999 taxation year.
+[17] On June 12, 2009, through correspondence from her lawyers, Gowlings, Ms. Burke applied to the Minister for an extension of time to serve Notices of Objection for the 1996 to 1999 taxation years, "if any such notices of assessment or reassessment were in fact mailed".
+[18] There was considerable more evidence as to assessments or correspondence flowing from CRA to Ms. Burke, but I have not found any of it helpful in deciding whether the Respondent has proven assessments for the 1996 to 1999 tax years were sent to Ms. Burke’s correct address. It is clear to me mistakes were made on both sides.
+[19] The CRA representative put forward at trial by the Respondent was the Appeals Officer. She testified a 1999 return was not filed which is contrary to the Agreed Statement of Facts. She could not explain why internal CRA records appeared to show a change of address in early 2008 to 157 Church. She had no personal knowledge of where and to which address the various Notices of Assessment were sent. She also was not aware of the procedure for reconstructing notices. She was an Appeals Officer. The Respondent provided no other witness or any affidavit to establish that the 1996 to 1999 Notices of Assessment were mailed to the correct address.
+[20] The Minister by Notices of Reassessment dated November 13, 2007 varied the 2000 to 2003 taxation years such that $17,400 of child support payments were to be included in Ms. Burke’s income. Ms. Burke had included $17,400 of child support payments in her returns for all years in issue except 2006 in which she reported $24,000. She filed Notices of Objection for 2000 to 2003, and 2006 and 2007.
+[21] As part of her Appeals, Ms. Burke applies to this Court for an extension of time to file Notices of Objection for the 1996 to 1999 taxation years.
+ISSUES
+[22] The Appellant maintains there are two issues in these Appeals:
+a. whether an order or agreement for child support amounts received by Ms. Burke had a May 1, 1997, "Commencement Day" within the meaning of the Income Tax Act (the "Act"), resulting in all the child support payments since that Commencement Day not falling into her income; and
+b. whether Ms. Burke should be granted an extension of time to file Notices of Objection to her 1996 through 1999 taxation years. Alternatively, if Ms. Burke is not entitled to an extension of time to file Notices of Objection, the Appellant states there is an issue as to whether or not the Minister mailed Notices of Assessment to her for 1996 through 1999 taxation years. If not, she argues there is no valid assessment pursuant to which the Minister can take collection proceedings. The Respondent frames this issue as whether the Court has jurisdiction to hear the 1996 through 1999 Appeals.
+Analysis
+1996 – 1999 Notices of Objection
+[23] I turn first to the 1998 and 1999 taxation years and the request for extension of time to file Notices of Objection. Unlike the 1996 and 1997 taxation years, the reconstructed notices for 1998 and 1999 indicate they were addressed to Ms. Burke’s correct address. Ms. Burke, however, testified she never received them, though she did file with the Minister on April 4, 2008 an application for extension of time to file a Notice of Objection for the 1999 taxation year, which the Minister denied on May 15, 2008. Ms. Burke repeated that request on June 12, 2009 for all four years, 1996 to 1999. Now, as part of her Appeals, she seeks an extension of time to file Notices of Objection from this Court for all four of those years.
+[24] The Appellant’s argument is that because the Minister cannot establish the mailing dates of the Notices of Assessment, the Minister cannot confirm that the time otherwise limited by the Act for serving a Notice of Objection has elapsed. This is a different approach from saying there has been no validly issued assessment, the Appellant’s alternate argument.
+[25] Subsections 166.2(1),(2) and (5) of the Act, in dealing with the application to this Court for an extension of time to file Notices of Objection, read as follows:
+166.2(1) A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1
+and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+(2) An application under subsection (1) shall be made by filing in the Registry of the Tax Court of Canada, in accordance with the provisions of the Tax Court of Canada Act, three copies of the documents referred to in subsection 166.1(3) and three copies of the notification, if any, referred to in subsection 166.1(5).
+…
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[26] To be successful therefore at the Tax Court of Canada on an application for extension of time to file Notices of Objection, Ms. Burke must prove:
+(i) where the Minister has refused an application under subsection 166.1(1) of the Act (the application to the Minister for an extension of time) the application to this Court has been made within 90 days after the taxpayer was notified of the Minister’s decision;
+(ii) the subsection 166.1(1) of the Act application has been made within one year after the expiration of the time for serving the Notice of Objection;
+(iii) within the 90 day period for filing the Notice of Objection, Ms. Burke was unable to act or had a bona fide intention to object;
+(iv) it is just and equitable to obtain the extension;
+(v) Ms. Burke made the application under subsection 166.1(1) of the Act as soon as circumstances permitted.
+[27] With respect to the 1999 taxation year, Ms. Burke has failed to meet the first hurdle. The Minister denied her subsection 166.1(1) of the Act application made in April 2008 and notified her in May 2008. She did not apply to this Court within the requisite 90 day period. The Appellant argues that, assuming that Notices of Assessment or Reassessment were mailed for 1998 and 1999, the Respondent has not proven the date of mailing so the time period remains open. If I find that the 1998 and 1999 Notices of Assessment were mailed, which I do, it follows that by making the subsection 166.1(1) of the Act application to the Minister, there is some acknowledgment from Ms. Burke that she was aware of that fact, obviously prior to mailing the subsection 166.1(1) of the Act application. While there may not be conclusive proof from the Respondent as to exactly when the notices were mailed, I cannot turn a blind eye to the specific procedural requirements of the Act. If a taxpayer applies to the Minister for an extension, which Ms. Burke did in April 2008, and that request is denied, which it was in May 2008, Ms. Burke had 90 days to apply to this Court. She did not do that and cannot now claim that it does not matter because there is no proof of the date of mailing of the Notice of Assessment, effectively picking which rule she will or will not abide by. Once she decided to file the subsection 166.1(1) of the Act application to the Minister, it was incumbent on her to follow the procedure she had chosen to continue her objection. She did not.
+[28] The Court does not have jurisdiction to grant an application for extension of time to file a Notice of Objection for the 1999 taxation year when it is made past the 90 day limitation set forth in subsection 166.2(1) of the Act. The application is quashed.
+[29] With respect to the 1998 taxation year, Ms. Burke filed her 1998 return on September 10, 2007. The Minister’s reconstructed Notice of Assessment indicates a date of mailing of November 20, 2007. Ms. Burke testified she never received such a notice. On June 12, 2009, Ms. Burke, through her counsel, made a section 166.1 of the Act application to the Minister for an extension of time to file a Notice of Objection to "notices of assessment or reassessment for Julie’s 1996, 1997, 1998 and 1999 taxation years ("Taxation Years") if any such notices of assessment or reassessment were in fact mailed". The Minister has not responded.
+[30] If the 1998 Notice of Assessment was mailed on November 20, 2007, Ms. Burke had until February 19, 2008, to file an application to the Minister for an extension of time to file a Notice of Objection, failing which she would be precluded from applying to this Court pursuant to paragraph 166.2(5)(a) of the Act. The Appellant argues that the presumptions that the notices are deemed to be made on the day sent (subsection 244(15) of the Act), the mailing date is presumed to be the date on the face of the notice (subsection 244(14) of the Act), and that it is deemed to have been received on that date (paragraph 248(7)(a) of the Act) are rebuttable. It is for the Minister to establish if and when notices were mailed. The Appellant argues that the Minister has failed to do so, referring to comments of the Federal Court of Appeal in Her Majesty the Queen v. 236130 British Columbia Ltd:.[1]
+12. The Tax Court Judge first noted that the onus of demonstrating that the reassessments were mailed on time rested with the Minister. However, he acknowledged that in an organization such as the CRA, it is impossible to produce direct evidence of the date of mailing of a particular document and that the appropriate method of proof is that set out in Schafer v. The Queen, [1998 GTC 2045] [1998] GSTC 60 (TCC) (Schafer,) as applied by this Court in Kovacevic v. The Queen, [2003 GTC 1686] [2003] GSTC 112 (FCA) (Kovacevic).
+13. In Schafer, Bowman, J. (as he then was) enunciated the test as follows:
+[23] In a large organization, such as a government department, a law or accounting firm or a corporation, where many pieces of mail are sent out every day it is virtually impossible to find a witness who can swear that he or she put an envelope addressed to a particular person in the post office. The best that can be done is to set out in detail the procedures followed, such as addressing the envelopes, putting mail in them, taking them to the mail room and delivering the mail to the post office.
+14. In Kovacevic, this Court gave this statement the following qualified approval:
+[16] I accept that when legislation requires that documents be sent by a large organization such as a government department by ordinary mail, but does not require registered or certified mail or evidence of a more formal means of sending, the observation [of the Tax Court] in Schafer is reasonable. Generally it would be sufficient to set out in an affidavit from the last individual in authority who dealt with the document before it entered the normal mailing procedures of the office, what those procedures were.
+[31] This approach was confirmed and followed by Associate Chief Justice Rossiter in 741290 Ontario Inc. v. R.[2]:
+31. The common thread amongst all of these cases is that the Minister must tender evidence to establish that the Notices of Assessment were mailed. Seldom will testimony be available that someone within CRA recalls having sent the particular Notice of Assessment and normally CRA would discharge this burden by providing affidavits or calling witnesses to testify as to the procedure for preparing a Notice of Assessment and the ordinary mailing procedures followed by CRA (see for example the sort of evidence tendered in Abraham v. R., [2004 DTC 3050] [2004] 5 C.T.C. 2149 (T.C.C.). CRA evidence will be given greater weight when more details of procedures are provided and where cross-examination does not shake the evidence given.
+[32] It is also clear from the Federal Court of Appeal’s comment in Aztec Industries Inc. v. The Queen[3] that knowledge of an alleged assessment by the taxpayer does not prove the date of mailing.
+[33] According to her lawyer’s application for extension in June 2009, Ms. Burke was still questioning whether a 1998 assessment had been issued, though CRA did send her a statement of account to her correct address on December 28, 2007, indicating there had been a 1998 assessment. The account stated that Ms. Burke owed approximately $86,000, an amount Ms. Burke acknowledged she discussed with Sharon, the CRA agent. Is this sufficient to conclude the assessment was mailed prior to that? No. The Appellant points to the Federal Court of Appeal’s comments in Aztec that "knowledge of the fact the Minister was asserting a claim and a payment of a portion thereof by or on behalf of the taxpayer does not constitute evidence of the existence or the mailing of the notices of assessment". With respect, a statement of account that specifies a 1998 assessment and an amount owing, may be some evidence of the existence of an assessment, though no more than a reconstructed notice, with nothing else. It however does certainly not prove the date of mailing.
+[34] I conclude there was a 1998 assessment but I also find the Respondent has been unable to prove the date of mailing. This creates a somewhat unusual situation.
+[35] The Appellant’s argument with respect to 1998 is that, in these circumstances, time remains open to file a Notice of Objection, although this seems to run contrary to the Federal Court of Appeal’s finding in Aztec that it is not possible to object to an assessment that has not been proven. There is another way, however, of viewing this situation. It is clear that at some point Ms. Burke personally received a copy of the 1998 Notice of Assessment, even if only in the form of a reconstructed notice, the only form possible if the original has simply gone missing. The form of the Appellant’s application for extension to the Minister on June 12, 2009, that the objections were against assessments if in fact mailed, suggest to me that this is an ongoing objection, effective upon proof of subsequent mailing or, I would suggest, proof of actual receipt of notices, or even reconstructed notices. The Appellant was wisely keeping the application alive. So, without having to decide exactly when either of these events occurred, I am prepared to find that there is no conclusive proof the notices were mailed before June 12, 2009, but there is proof that there was physical receipt by Ms. Burke of a reconstructed notice which occurred subsequent to June 12, 2009 and that the application to extend becomes effective at that point. However, as a consequence of this finding, it is clear that the filing of the Notice of Objection is coincidental with the receipt of the assessment and is therefore within the 90 day period to object. There is therefore no time period to extend as the Notice of Objection for 1998 is timely. Practically what does this mean? It means that I can deal with 1998 on the substantive basis of whether child support payments should be included in Ms. Burke’s income. The other possible procedure to follow would be to allow the Minister to respond to the Notice of Objection either allowing Ms. Burke’s position or issuing a notice of confirmation, and then proceeding towards another trial ‑ unlikely, given my findings to follow on the substantive issue. No, it makes more sense to simply deal with 1998 on the same basis as those years, 2000 to 2003, and 2006 and 2007 in which Notices of Objection were filed on a timely basis.
+[36] Does this reasoning apply to the 1996 and 1997 taxation years given the reconstructed notices for those years indicate that they were incorrectly addressed? It is more difficult to find notices were ever mailed in that situation, but it still follows that Ms. Burke did at some point possess the reconstructed Notices of Assessment for those years. That being the case, my reasoning applies equally to those years to conclude that Notices of Objection were filed on a timely basis.
+[37] This conclusion with respect to the 1996 taxation year does not provide Ms. Burke with any relief, as she has presented no argument as to why the 1996 child support payments should not fall into her income, as they are clearly pre-May 1997. This is possibly why the Appellant argued in the alternative that there was no assessment at all. However, even if I were to accept that alternative position, I find it does not help the Appellant. I shall address that alternative argument.
+[38] Ms. Burke argues that an incorrectly addressed assessment is not a valid assessment. The effect of this finding is reviewed by the late Justice Dussault in the case of Massarotto v. R.[4] as follows:
+16. Thus, not only is the applicant saying that he never received the notice of assessment, but it also seems that the notice was never sent to him by the Minister at his own address. Moreover, I note that, in her Reply to the Application for an Extension of Time, the respondent does not state that the notice of assessment was sent to the applicant or any other person. No evidence was adduced on this point: the respondent did not call any witnesses or file any affidavits.
+17. It has been established that an assessment is not complete, and is therefore not valid, unless a notice is sent to the taxpayer concerned after the assessment is made. In this regard, reference may be made to the Exchequer Court's judgment in Scott v. M.N.R. , 60 DTC 1273, [1960] C.T.C 402. More recently, the Federal Court of Appeal, relying on subsection 152(2) of the Income Tax Act , reaffirmed this principle in Aztec Industries Inc. v. The Queen , 95 DTC 5235 (at page 5237), [1995] 1 C.T.C. 327 (at page 330). In that case, the taxpayer, which had made its application out of time as in the case at bar, alleged not only that it had not received the notice of assessment but also that no such notice had ever been issued. Hugessen J.A., who rendered judgment for the Federal Court of Appeal, noted that in such circumstances the burden of proving the existence of the notice of assessment and the date of its mailing falls on the Minister, since those facts are normally within his knowledge and he controls the means of proving them.
+…
+26. … In the circumstances, I am of the opinion that the Minister has not shown that a complete and valid assessment was made with respect to the applicant. Accordingly, it is my view that the Minister cannot recover the amounts claimed under that alleged assessment. In this regard, reference may be made to the decision by Judge Bowman of this Court in Rick Pearson Auto Transport Inc. ( supra , note 2).
+27. Applying the principle stated by the Federal Court of Appeal in Aztec Industries Inc. ( supra ), I must therefore dismiss this application to extend the time for objecting on the ground that the Minister has not proved the validity of the assessment since he has not shown that the notice of assessment was sent to the applicant.
+[39] Mr. Sorensen, Appellant’s counsel, goes further and relies on the former Chief Justice Bowman’s comments in Rick Pearson Auto Transport Inc. v. Canada:[5]
+7. … the Minister of National Revenue cannot base any collection of tax on the alleged assessment. It would be a distortion of, and render nugatory, the Federal Court of Appeal's decision if the Minister were to treat the dismissal of the application as entitling the officials of the Department of National Revenue to pursue collection of tax owing under the alleged but unproved assessment, or to retain any moneys that they collected thereunder. To permit the Minister to do so would, in effect, be to allow the Department of National Revenue to use to its own advantage the Crown's own failure to prove the existence of an assessment.
+8. Implicit in my dismissal of the application is a finding that there is no assessment upon which the Minister may act. The authority of this court to make such a finding, in my view, is necessary to the exercise of the court's jurisdiction to deal with the application under section 304(4) of the Excise Tax Act in a manner that accords with the decision of the Federal Court of Appeal in Aztec. …
+9. See also Attorney-General of Canada v. Law Society of British Columbia, [1982] 2 S.C.R. 307 where Estey J., speaking for the full court, said at p. 330:
+· Courts having a competence to make an order in the first instance have long been found competent to make such additional orders or to impose terms or conditions in order to make the primary order effective. Similarly courts with jurisdiction to undertake a particular lis have had the authority to maintain the status quo in the interim pending disposition of all claims arising even though the preservation order, viewed independently, may be beyond the jurisdiction of the court.
+[40] In effect, the Appellant argues that if an assessment is not proven, as it is not if the evidence points to an assessment going to the wrong address, then the CRA is not entitled to pursue collection of tax owing under the alleged assessment.
+[41] I would agree with this proposition if the alleged assessment increases the amount of income and consequently increases the amount of tax owing by the taxpayer beyond what the taxpayer reported. Here, however, if we strip away any assessment, we are left with Ms. Burke’s self-assessment, having filed her 1996 return on the basis that child support payments properly fell into her income. It matters not why she filed this way, the fact is she did file this way.
+[42] Subsection 152(3) of the Act reads:
+152(3) Liability for the tax under this Part is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made.
+[43] Does a taxpayer who reports a certain amount of income not have to pay tax on that amount because the CRA cannot prove an assessment? The Appellant, relying on the cases of Massarotto and Pearson to answer yes to that question, stretches the ratio of those cases beyond their limited application. In those cases, the tax liability appears to have arisen from the assessment; in this case, the tax liability arises from the taxpayer’s own return. It does not therefore assist Ms. Burke to find there was no assessment for the 1996 taxation year. I dismiss the 1996 Appeal.
+[44] Having reached the conclusion that Notices of Objection were filed on a timely basis for 1997 and 1998, there is no need to consider part of these Appeals as an application for an extension of time. There is also therefore no need to consider the Respondent’s technical argument that the Appellant failed to file three copies of the documents, being the Notices of Objection, with her section 166.2 of the Act application, as required by subsection 162.2(2) of the Act, though I was not convinced by the Respondent this would derail Ms. Burke’s application.
+[45] The 1996 Appeal is dismissed and the 1999 application for an extension is quashed but the 1997 and 1998 Appeals will be treated on the basis that Notices of Objection were filed on a timely basis.
+Commencement Day
+[46] The Appellant argues that she has brought herself within the post-April 1997 regime regarding child support, on the basis she had a post-April 1997 "Commencement Day". According to paragraph 56(1)(b) of the Act, child support amounts receivable by a taxpayer after a "Commencement Day" do not fall into income.
+[47] Commencement Day is defined in subsection 56.1(4) of the Act as follows:
+56.1(4) "commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+I am dealing specifically with subparagraphs (b)(i) of the Act (with respect to the election) and (b)(iv) of the Act (with respect to the 2009 order).
+[48] The Appellant’s position is that pursuant to both the 2009 order of Justice Allen and the T1157 Joint Election signed by Ms. Burke and Mr. Burke, the Commencement Day is established as May 1, 1997: further that this accords with a textual, contextual and purposive interpretation of "Commencement Day". In the alternative, the correspondences between counsel for the Burkes constituted an agreement also bringing into play a May 1, 1997, Commencement Day.
+[49] The Respondent’s position with respect to the 2009 order is that, while it may have amended the 1993 order, it refers to the Burkes confirming their agreement that payments were made pursuant to the new Child Support Guidelines, yet the Appellant has not shown the Court any such agreement. Further, the order cannot be effective retroactively.
+[50] With respect to the T1157 Joint Election, the Respondent argues it is not reasonable and therefore not effective to file such an election in September 2011 for years going back as far as 1997. Finally, with respect to the correspondence between counsel, the Respondent argues that such correspondence does not constitute an agreement.
+[51] The Appellant argued extensively as to the textual, contextual and purposive interpretation to be given to "Commencement Day". Without specifically identifying any ambiguity in the textual interpretation, the Respondent argued that great emphasis should be placed on the contextual and purposive interpretation. I find there is an ambiguity in the text of the definition that might lead to some greater reliance on the contextual and purposive interpretation. That ambiguity is with respect to the issue of timing. Is it clear that a T1157 Joint Election, or a subsequent order, can only be forward looking or can they be retroactive? There is no temporal limitation in the specific wording of the section itself to suggest the election or order can only be effective from the date of the election or order.
+[52] I intend to discuss the interpretation of Commencement Day in the context of the Appellant’s argument that the Joint Election creates a Commencement Day. What then is the textual interpretation of this definition of Commencement Day found in subparagraph 56.1(4)(b)(i) of the Act? Put simply, the Commencement Day is the day specified as such by the payer and recipient in a Joint Election filed with the Minister in prescribed form and manner. The Respondent did not suggest that the T1157 Joint Election form was not filed in prescribed form and manner (indeed I was not directed to any prescribed manner); just that it would not be reasonable to have retroactive effect. The Respondent would have me read the provision as including the following proviso:
+Provided such day is subsequent to the date of filing the Joint Election.
+This interpretation would preclude separated couples, who only discovered the post-April 1997 regime some months or years after the fact, from agreeing or filing a Joint Election to take advantage of the new regime.
+[53] On a strictly textual interpretation there appears to be no time restriction that would preclude the filing of a Joint Election after May 1, 1997 to be effective May 1, 1997. There may be situations, unlike the one before me, where a time for requesting an amended return (subsection 152(4.2) of the Act) or objecting to a certain taxation year has long passed before an attempt is made to alter the taxpayer’s income for that year, either by Joint Election or amended return. It is unnecessary for me to attempt to contemplate all such possible scenarios. In front of me is a duly filed Joint Election attempting to deal with taxation years that are very much alive as far as the taxpayer’s right to have those years’ assessments addressed by this Court. Those years are before me and I have in evidence a Joint Election, which on a textual interpretation has a May 1, 1997 Commencement Day.
+[54] I now turn to a contextual and purposive view of the definition of Commencement Day to determine if under any such interpretation the Burkes’ Joint Election would not create a Commencement Day, as it is somehow filed too late.
+[55] Without going through the lengthy history of the build up to the legislative change in 1997, it is abundantly clear from the cases in the mid-1990’s (Moge v. Moge,[6] Marzetti v. Marzetti,[7], Willick v. Willick,[8], Thibaudeau v. Canada[9]) that change was in the wind. Justice Iacobbuci succinctly put it as follows in Marzetti:
+… there are related public policy goals to consider. As recently recognized by L’Heureux-Dubé J. in Moge v. Moge, [1992] 3 SCR 813, "there is no doubt that divorce and its economic effects" (p. 854) are playing a role in the "feminization of poverty" (p. 853). A statutory interpretation which might help defeat this role is to be preferred over one which does not.
+[emphasis added]
+[56] The Government, after considerable consultation and a task force dealing with the tax treatment of child support changed the law. As the Chair of the task force put it:[10]
+Finally, women raising their children on their own will not have to pay income tax on money intended for their children. Finally, they will receive equitable child support payments. Finally, they will have the assurance that payments will be on time. Finally too, their child tax benefit will be doubled.
+These measures are the culmination of our government’s efforts in the best interests of children, and the long struggle for female equality.
+[57] In a 1996 Budget in Brief document from then Finance Minister Paul Martin, it was stated:[11]
+The measures are based on the philosophy that child support is not discretionary – it is the first obligation of parents, and child support payments are there to provide support for children, not income for parents.
+[emphasis added]
+[58] On May 1, 1997, The Federal Support Guidelines came into force. Under the heading "Changing an existing support order or agreement", the Guidelines provide:[12]
+The Federal Child Support Guidelines came into force May 1, 1997. Under the guidelines anyone who has a child support order or written agreement made before May 1, 1997 can change it to reflect the guidelines and the change in tax rules described below even if nothing else has changed. …
+…
+3. Change the way child support payments are treated for tax purposes
+If you and the other parent agree to keep the amount of child support the same and simply change how it is treated for tax purposes you can do so easily.
+You can both sign and file Canada Revenue Agency Form T1157, Election for Child Support Payments, with the Canada Revenue Agency. This action does not change any terms of your pre-May 1, 1997, court order or written agreement, except for the way the payments are treated for tax purposes.
+[59] Clearly, this is directed to separated couples after the legislation has changed as it indicates the "guidelines came into force on May 1, 1997". It invites couples to agree to the change by filing a Joint Election or seeking an order. It does not suggest that the effective date of coming under the new regime is the time of filing an Election, but implies the couple can have all payments from May 1, 1997 subjected to the new regime.
+[60] The purpose of the new regime is clear: the rules were designed to ameliorate the suffering of custodial parents, usually mothers, after a marriage breakdown, recognizing that child support is not an income receipt by its very nature. Given Ms. Burke’s circumstances, I find the new rules are directly aimed at someone in her position.
+[61] This legislation dramatically altering the taxation of child support is a form of social welfare legislation. Where there is some ambiguity, it should not be construed to defeat its very purpose. This approach was affirmed by the Federal Court of Appeal in Villani v. Canada:[13]
+Section 12 of the Interpretation Act, R.S.C. 1985, c. I-21 reads:
+12. Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.
+The enactment of this general principle abolished the traditional distinction between penal and remedial legislation for the purposes of statutory interpretation … Under the traditional distinction, penal legislation was construed strictly while remedial legislation was given a large and liberal construction. The liberal approach to remedial legislation flows from the notion that such legislation has a benevolent purpose which courts should be careful to respect.
+In Canada, courts have been especially careful to apply a liberal construction to so‑called "social legislation". In Rizzo v. Rizzo Shoes Ltd. (re), 1998 CanLII 837 (SCC), [1998] 1 SCR 27 at para. 36, the Supreme Court emphasized that benefits‑conferring legislation ought to be interpreted in a broad and generous manner and that any doubt arising from the language of such legislation ought to be resolved in favour of the claimant. This interpretative approach to legislation designed to secure a social benefit has been adopted in a number of Supreme Court decisions dealing with the Unemployment Insurance Act, 1971 …
+[62] I find no support in a contextual or purposive interpretation of Commencement Day to hold that a Joint Election filed after May 1, 1997 pertaining to years that are properly before this Court cannot be effective as of May 1, 1997. There is nothing in the text of the statutory definition or in The Federal Child Support Guidelines that expressly would deny this interpretation ‑ just the opposite. I allow the appeals for the 1997, 1998, 2000 to 2003, and 2006 and 2007 taxation years.
+[63] It is unnecessary for me to address the Appellant’s reliance on the 2009 order or the possible agreement between Mr. Burke and Ms. Burke based on their laywers’ correspondence. I would say, however, that I have not been satisfied the correspondence between counsel ever constituted an agreement: the language of the correspondence simply does not support such a finding.
+[64] With respect to the 2009 order, I am swayed by the reasoning of the Federal Court of Appeal in the case of Dangerfield v. R.:[14]
+It is necessary to allow Judges and the parties to agreements to specify different effective dates or commencement days for different parts of the diverse orders they devise. Some orders or parts thereof are even retroactive. This approach is in harmony with the legislative purpose of the provision to afford some tax relief to the custodial parents of fractured families. Needlessly technical interpretation that deprives custodial parents of tax relief granted to them by Parliament is to be avoided. The related case of Veilleux c. R., 2002 CAF 201 (Fed. C.A.) supports this view. In that case, Mr. Justice Létourneau declared:
+It seems important to me that a statutory provision not be interpreted so strictly that it hampers Parliament’s intention with respect to that provision
+…
+In my view a commencement day for the support payments was specified in this case. This was the clear intention of the Judge who made the order in question.
+…
+That there was a commencement day specified is also clear from the documentation demonstrating that the parties intended to specify a commencement day for the child support payments in order to be able to avoid tax on the payments in accordance with the new legislation The Tax Court Judge obviously understood that the appliance and her counsel intended to do this.
+[65] The Respondent could not provide me with any jurisprudence to the contrary. Based on this case and my views on the interpretation of Commencement Day as it pertains to the Joint Election, I find the 2009 order also creates a Commencement Day.
+[66] In summary:
+(a) the Appeal for 1996 is dismissed;
+(b) the application to extend time to file a Notice of Objection for the 1999 taxation year is quashed;
+(c) the Appeals for the 1997, 1998, 2000, 2001, 2002, 2003, 2006 and 2007 are allowed and referred back to the Minister for reconsideration and reassessment on the basis the child support payments are not to be included in the Appellant’s income.
+The parties are to make written submission on costs to the Court by the end of November 2012. If I do not receive any such submission, costs are awarded to the Appellant in accordance with the Court’s tariff.
+Signed at Toronto, Ontario, this 24th day of October 2012.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2012 TCC 378
+COURT FILE NO.: 2009-2921(IT)G
+STYLE OF CAUSE: JULIE BURKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 4 and 5, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: October 24, 2012
+APPEARANCES:
+Counsel for the Appellant:
+John Sorensen
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John Sorensen
+Firm: Gowling Lafleur Henderson LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 DTC 5021 (FCA).
+[2] 2008 DTC 2713 (T.C.C.).
+[3] 95 DTC 5235 (F.C.A.).
+[4] 2000 GTC 802 (T.C.C.).
+[5] 4 GTC 3146 (T.C.C.).
+[6] [1992] 3 SCR 813.
+[7] [1994] 2 SCR 765.
+[8] [1994] 3 SCR 670.
+[9] [1995] 2 SCR 627.
+[10] House of Commons Debates, 35th Parl., 2nd Sess., No. 1 (7 March 1996) at p. 422 (Hon. Sheila Finestone) (see Brief, tab 14). Sentiments such as these resound throughout the Parliamentary debates around this time.
+[11] Department of Finance Canada, "Budget in Brief", Paul Martin, Minister of Finance, March 6, 1996, at p. 15.
+[12] The Federal Child Support Guidelines : Step-By-Step (pp. 28 and 29)
+[13] 2001 FCA 248, at paras. 26 and 27.
+[14] 2004 DTC 6025 (F.C.A.).

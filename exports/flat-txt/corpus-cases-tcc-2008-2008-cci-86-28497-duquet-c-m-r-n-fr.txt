@@ -1,0 +1,144 @@
+Title: Duquet c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28497/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-86-28497-duquet-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-02-20
+
+# Duquet c. M.R.N.
+
+- Citation: 2008 CCI 86
+- Decision date: 2008-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1294, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duquet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-20
+Référence neutre
+2008 CCI 86
+Numéro de dossier
+2007-3344(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3344(EI)
+ENTRE :
+ENRICO DUQUET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 30 janvier 2008, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Sylvain Ouimet
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est rejeté au motif que le travail exécuté par l'appelant du 1er janvier au 31 décembre 2005 ne l'a pas été aux termes d'un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI86
+Date : 20080220
+Dossier : 2007-3344(EI)
+ENTRE :
+ENRICO DUQUET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'assurabilité du travail effectué par l'appelant durant la période allant du 1er janvier au 31 décembre 2005, l'employeur présume étant la société Centre Autoson inc.
+[2] Pour expliquer et justifier sa décision, l'intimé a tenu pour acquis les hypothèses de fait suivantes :
+a) le payeur, constitué en société le 16 août 2000, exploite une entreprise de vente et d'installation de pièces et d'accessoires pour automobiles; (admis)
+b) les actionnaires du payeur étaient :
+- M. Mario Roberge avec 75 % des actions,
+- Mme Christine Roberge avec 25 % des actions; (admis)
+c) en juin 2004, l'appelant a été embauché par M. Roberge à titre de commis‑vendeur; (admis)
+d) l'appelant agissait à titre de gérant : il faisait la commande des pièces, vendait des radios d'auto et des démarreurs à distance, répondait au téléphone et faisait même de la facturation; (admis)
+e) l'appelant travaillait dans le garage du payeur et, au moment de l'embauche, les 2 parties reconnaissaient l'appelant comme employé du payeur; (admis)
+f) le 11 janvier 2005, l'appelant décidait de lancer sa propre entreprise sous la raison sociale de « Rico Distribution »; (admis)
+g) la principale activité de l'entreprise de l'appelant consistait à vendre de l'huile à moteur pour la compagnie Torco; (nié)
+h) l'appelant était alors représentant pour la compagnie Torco et le payeur était l'un de ses clients; (nié)
+i) l'appelant a obtenu la permission du payeur d'entreposer ses caisses d'huile dans l'un de ses petits entrepôts en échange de services à rendre soit quelques installations d'accessoires; (nié)
+j) quelques semaines après la formation de son entreprise, alors qu'il n'avait pas assez de revenus, l'appelant a offert au payeur de faire la promotion de ses produits en faisant la tournée des garages pour ses ventes d'huile à moteur; (nié)
+k) comme il était bon vendeur, le payeur accepta de l'embaucher comme représentant et une entente de travail fut signée entre le payeur et Rico Distribution dont l'appelant était l'unique propriétaire; (nié)
+l) l'entente, signée le 18 avril 2005, spécifiait que Rico Distribution s'occuperait de la gestion du magasin, de la représentation sur la route et, occasionnellement, de l'installation d'audio d'autos et de pièces de performance; (nié)
+m) l'entente spécifiait que le payeur verserait un salaire de 15,00 $ de l'heure ou 600 $ par semaine (pour 40 heures) à l'appelant par l'entremise de Rico Distribution; (nié)
+n) en janvier 2005, malgré l'enregistrement de son entreprise, l'appelant est demeuré à l'emploi du payeur, avec les mêmes conditions que l'entente initiale, pendant plusieurs semaines; (nié)
+o) en avril, l'appelant commence à être rémunéré, par l'entremise de son entreprise, comme travailleur autonome par le payeur; (admis)
+p) le payeur a accepté de rémunérer l'appelant comme travailleur autonome, sur présentation de factures, pour exécuter une partie importante des tâches qu'il faisait auparavant comme salarié; (nié)
+q) l'entente du 18 avril 2005 précisait que l'appelant continuait de s'occuper de la gestion du magasin du payeur et de l'installation d'équipement dans l'intérêt du payeur et non pour ses intérêts ou ceux de sa propre entreprise; (nié)
+r) durant toute la période en litige, l'appelant a reçu du payeur une rémunération fixe de 600 $ par semaine pour 40 heures de travail par semaine; (nié)
+s) durant toute la période en litige, le payeur pouvait donner des directives à l'appelant et pouvait exiger et vérifier qu'il fasse 40 heures par semaine pour recevoir sa rémunération; (nié)
+t) l'appelant avait des comptes à rendre au payeur et ce dernier pouvait mettre fin au travail de l'appelant; ce qu'il a fait à la fin de la période en litige; (nié)
+u) pour remplacer l'appelant, le payeur a embauché une personne comme employé salarié; (admis)
+v) les faits démontrent que malgré la formation de sa propre entreprise, l'appelant a continué de rendre les mêmes services au payeur alors qu'il était considéré employé salarié du payeur; (nié)
+w) malgré l'intention manifestée par les parties lors de la signature de l'entente du 18 avril, les services rendus par l'appelant ont été rendus selon les critères d'un contrat de travail. (nié)
+[3] Après avoir été assermenté, l'appelant a admis les alinéas a) à f), o) et u); il a nié les alinéas g) à n), p) à t), v) et w).
+[4] Après s'être fait expliquer en long et en large tous les paramètres du litige et surtout les distinctions entre un contrat de louage de services et un contrat d'entreprise, l'appelant a soumis les faits sur lesquels il s'appuyait pour conclure que la détermination était mal fondée.
+[5] L'appelant a effectué un travail dont la qualité de travail exécuté aux termes d'un contrat de louage de services n'est pas en cause, c'est‑à‑dire que l'appelant a admis qu'il avait exécuté son travail dans le cadre d'un contrat de louage de services quant à la période du 1er janvier au 15 avril.
+[6] Pour ce qui est de la période postérieure au 15 avril, il a expliqué que sa disponibilité se trouvait être réduite à cause du travail et de l'énergie consacrés au développement de l'entreprise qu'il avait créée et dont la raison sociale était Rico Distribution.
+[7] Il a expliqué avoir apprécié la collaboration du patron de la société Centre Autoson inc., qui avait alors consenti à lui donner encore du travail, étant donné que l'exploitation de l'entreprise qu'il avait créée ne donnait pas les résultats escomptés.
+[8] Sa disponibilité étant réduite, il ne pouvait pas respecter la même ponctualité et la même exactitude son horaire de travail; il a alors, a-t-il expliqué, mis un terme à son contrat de travail et n'était donc plus salarié à compter du 16 avril 2005.
+[9] Comme il devait partager son temps entre son employeur et la nouvelle entreprise qu'il avait créée, les relations se sont quelque peu détériorées, si bien qu'il a avisé son employeur qu'il quittait son emploi. À ce moment, l'appelant et son entreprise ont conclu une nouvelle entente avec l'employeur laquelle a été constatée par un écrit dont le contenu est le suivant (pièce I‑1) :
+18 avril 2005
+Contrat de sous-traitance.
+Une entente de sous-traitance entre Rico Distribution et Centre Autoson inc. a été convenu [sic] pour une durée non‑déterminée [sic], débutant au mois d'avril 2005. Les fonctions pratiqués [sic] par Rico Distribution seront la gestion du magasin, représentation sur la route et à l'occasion installation d'audio d'auto et pièces de performance. Le salaire entendu par les deux parties étant de 15.00$/hres [sic] ou un paiement fixe de 600.00$/sem.
+____________________________________ ________________________
+Signature du sous-traitant (Rico Distribution) Signature de l'employeur
+18-04-05 18-04-05
+date date
+[10] Après discussions, les parties en étaient donc venues à s'entendre et ont défini les paramètres de leur entente, qu'ils ont signée et qui a été déposée sous la côte I‑1.
+[11] Dans les faits, il y a eu certains changements notamment quant aux heures de l'exécution des services. D'autre part, l'appelant a été appelé à former un employé engagé pour, en principe, le remplacer. Le contrat de sous‑traitance est en quelque sorte essentiellement une nouvelle entente, plus flexible quant au moment où les heures de travail étaient exécutées, bien que certaines tâches aient été ajoutées, notamment en matière de formation.
+[12] L'appelant a indiqué qu'il reniait l'écrit intitulé « contrat de sous‑traitance » (pièce I-1) et que plusieurs documents confirmant et validant ledit contrat en avait été des erreurs dues à son inexpérience.
+[13] La preuve a fait ressortir que des changements étaient intervenus à compter de janvier, mais d'une manière plus importante à compter d'avril.
+[14] Dès lors, l'appelant, se fiant aux dires de Louise Roberge, a conclu que son statut de salarié prenait fin. Madame Roberge l'a renseigné, mais, manifestement, l'a mis sur la mauvaise piste en lui indiquant que le fait de se faire payer sous forme d'honoraires plutôt que de salaire faisait de lui un travailleur autonome.
+[15] Madame Louise Roberge a témoigné. Manifestement, madame Roberge avait une idée très précise sur la nature d'une relation de travail. Pour cette dame, travailleur autonome signifie versement d'honoraires, absence de retenues et absence de cotisations alors que salarié signifie retenues, cotisations et salaire.
+[16] L'intimé a produit en liasse sous la côte I-2 des factures qui font état de la nouvelle façon dont l'appelant était payé pour ses services.
+[17] Les factures en question portent des numéros qui se suivent, allant de 24 à 40. Au nombre de 17, elles font toutes état de 40 heures à 15 $ l'heure pour un total de 600 $ auquel fut ajouté les T.P.S. et T.V.Q.
+[18] Partant de ces éléments, l'appelant et son témoin ont affirmé et répété qu'il s'agissait non plus d'un travail de salarié, mais plutôt d'un travail de consultant effectué à titre de travailleur autonome, puisqu'il était maintenant question non plus de salaire, mais d'honoraires auxquels avaient été ajoutées la T.P.S. et la T.V.Q.
+[19] Il s'agit là d'une interprétation malheureusement fort répandue, mais non conforme aux dispositions de la Loi sur l'assurance-emploi. Pour qualifier une relation de travail entre deux parties, le contrat intervenu peut s'avérer un élément pertinent. Par contre, l'intention des parties est fonction de leurs connaissances et perceptions, qui ne sont pas nécessairement bonnes. Conséquemment, il est important de tenir compte du contrat intervenu entre les parties, de l'intention de celles‑ci, mais, au-delà de tout cela, la façon dont le travail litigieux a été exécuté demeure la référence fondamentale pour la qualification d'un contrat.
+[20] La description du travail, la façon dont il est exécuté, la manière dont il est rémunéré et, surtout, tout ce qui concerne le comment et le pourquoi de la communication et de la relation entre les deux parties, ce sont là les véritables éléments qui doivent être pris en considération. Si le tout est conforme au contenu de l'entente et cohérent avec celui-ci, il n'y a pas de problème; dans le cas contraire, le contrat dont le contenu ne correspond pas à tous les éléments composant la façon dont le travail a été exécuté doit être écarté de l'analyse.
+[21] En l'espèce, le travail litigieux a effectivement fait l'objet de changements, plus précisément à compter du mois d'avril. Il s'agit de changements dont le but était principalement d'aider l'appelant, qui avait mis sur pied une nouvelle entreprise, qui ne produisait pas aussi rapidement que prévu les résultats espérés.
+[22] Les changements en question ont principalement porté sur l'horaire de travail, mais ont porté aussi en partie sur le contenu du contrat.
+[23] L'appelant a continué de faire beaucoup de tâches qu'il avait effectuées avant la signature de l'entente d'avril, mais il a aussi vu à la formation d'un nouvel employé, et ce, dans un contexte d'une plus grande flexibilité quant au moment de l'exécution. Il a reçu une rémunération sous forme d'honoraires alors qu'il s'agissait essentiellement d'un salaire établi à 15 $ l'heure pour 40 heures par semaine, la grande différence étant que la prestation de travail était effectuée dans un contexte plus flexible.
+[24] Il n'y a aucun doute que les changements intervenus n'ont en rien modifié le lien de subordination qui avait existé jusqu'à ce moment et dont l'existence a d'ailleurs été admise et reconnue par l'appelant pour la période allant jusqu'au 16 avril.
+[25] Le fait d'avoir modifié la façon de faire quant à la rémunération (facture  T.V.Q.  T.P.S, c'est‑à‑dire, honoraires plutôt que salaire) n'a en rien affecté, et encore moins fait disparaître, le lien de subordination.
+[26] L'employeur avait manifestement besoin des services de l'appelant et ce dernier avait besoin de travailler, puisque sa nouvelle entreprise ne générait pas suffisamment de revenus.
+[27] Mal conseillé et mal informé, l'appelant a cru bien faire en modifiant la façon de faire quant à la rémunération, croyant que cela serait suffisant pour changer son statut de salarié en celui de travailleur autonome. La prépondérance de la preuve a établi que le travail avait continué d'être effectué à l'intérieur d'une relation employeur-employé, et ce, même s'il existait une plus grande flexibilité quant au moment de l'exécution du travail rémunéré.
+[28] Pour ces raisons, l'appel doit être rejeté et la détermination est confirmée comme bien fondée en fait et en droit.
+Signé à Ottawa, Canada, ce 20e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI86
+Nº DU DOSSIER DE LA COUR : 2007-3344(EI)
+INTITULÉ DE LA CAUSE : ENRICO DUQUET C. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Québec (Québec )
+DATE DE L’AUDIENCE : Le 30 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 20 février 2008
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Sylvain Ouimet
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant:
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

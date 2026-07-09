@@ -1,0 +1,171 @@
+Title: Peter and Marlene Yakabuski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28375/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-27-28375-peter-and-marlene-yakabuski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-14
+
+# Peter and Marlene Yakabuski v. The Queen
+
+- Citation: 2008 TCC 27
+- Decision date: 2008-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1894, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peter and Marlene Yakabuski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-14
+Neutral citation
+2008 TCC 27
+File numbers
+2007-1894(GST)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-1894(GST)I
+BETWEEN:
+PETER AND MARLENE YAKABUSKI,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 2007, at Vancouver, British Columbia.
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+Agent for the Appellants:
+Carl Beck
+Counsel for the Respondent:
+Fiona Mendoza
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment by the Minister, notice of which was numbered 06073510012370001 dated December 12, 2006, is dismissed and the Minister’s assessment is confirmed.
+Signed at New Glasgow, Nova Scotia, this 14th day of January 2008.
+“T. E. Margeson”
+Margeson J.
+Citation: 2008TCC27
+Date: 20080114
+Docket: 2007-1894(GST)I
+BETWEEN:
+PETER AND MARLENE YAKABUSKI,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] This is an appeal from an assessment by the Minister, notice of which was numbered 06073510012370001 dated December 12, 2006, by which assessment the Minister denied the Goods and Services Tax (“GST”) rebate in the amount of $34,300, which the Appellants claimed was paid in error when purchasing the property.
+Issue
+[2] The sole issue in this appeal is whether or not the Appellants are properly entitled to the rebate under the provisions of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (“Act”) and Part I of Schedule V of the Act.
+Facts
+[3] The facts in this matter are essentially undisputed. One of the Appellants, Marlene Yakabuski, testified that before she became interested in the property in question it had been owned by a corporation, Cedar Ridge Holdings Ltd. (“Cedar Ridge”). One house on the property was used as the principal residence of an individual, the shareholder of Cedar Ridge. This resident was Ms. Lucille Johnstone. The other building on the property, a so-called cottage, was vacant. This witness identified Exhibit A-3 which was a Contract of Purchase and Sale for the property in question. She referred particularly to clause 7 of the Contract which indicated that:
+The Purchase Price includes any buildings, improvements, fixtures, appurtenances and attachments thereto ... as viewed by the Buyer at the date of inspection.
+Clause 8 of the Contract indicated that:
+The Property and all included items will be in substantially the same condition at the Possession Date as when viewed by the Buyer on March 30, yr. 2005.
+[4] The witness further identified Exhibit A-4 which were coloured photographs of the property in issue, viewed as of the date of the Contract.
+[5] She told the Court that she paid GST on the property and took possession on May 19, 2005. The property had been partially demolished. Her husband completed the demolition after receiving a Demolition Inspection Notice which was introduced as Exhibit A-6. This Notice indicated that the permit was issued for the demolition of a cottage on the property. It further indicated that the foundation would remain, and the fire-damaged house would remain, as is, for now. The date on the inspection certificate was July 19, 2005.
+[6] The witness said that they believed that the restoration had started and that they were buying a partially restored house. They had received engineering reports showing what was needed to complete the restoration. The cottage had been destroyed.
+[7] In cross-examination she agreed that the house and cottage were uninhabitable.
+Argument on Behalf of the Appellant
+[8] The agent for the Appellant argued that the sole issue in the case was whether or not the sale of the remains of a dwelling house and land are exempt of GST as a used residential complex pursuant to the Act, Schedule V, Part I, section 2. It was his contention that the structural remains of the fire-damaged home, even though it was vacant and uninhabitable at the time of the sale, was nevertheless a residential complex within the meaning of the Act and is GST exempt as a sale of used residential housing. They sought the return of $34,300 plus accumulated interest.
+[9] He stated that the Appellant testified that what she purchased was a partially restored building.
+[10] He referred to the definitions of “residential complex” and “residential unit” as found in the Act. His position was that the term “residential complex” is intended to include that part of a building that includes a residential unit together with the land that was reasonably necessary for its use and enjoyment as a place of residence for individuals. “Residential unit” is intended to include a detached house or that part thereof that is vacant but was last occupied or supplied as a place of residence or lodging for individuals. According to him this rule permits an existing structure, including the remains of a dwelling house that is damaged by fire, to retain its status as a used residential complex for all purposes of the Act including an exempt sale under Schedule V, Part I, section 2 of the Act.
+[11] A seriously fire-damaged single family home, notwithstanding that it is uninhabitable until it is repaired or restored, is still a residential complex within the meaning of the Act and subject to the GST rules affecting used residential housing.
+[12] Of significance to him was the fact that clause 7 of the contract of purchase and sale stated that the purchase price included any buildings, improvements, fixtures and all appurtenances and attachments thereto in substantially the same condition as when viewed by the borrower on March 30, 2005. At that time, the property included the foundation, walls, sub-floors and other parts of the residential complex as evidenced by the photographs.
+[13] He referred to a GST/HST memoranda series issued by Revenue Canada in February of 1998 in support of his argument that the last use of the property prior to the vacancy was residential and therefore the property in question qualified as a residential unit even though the house may need extensive work to make it fit for habitation. It was his contention that the last use of these premises was as a residential complex.
+[14] He took issue with the CRA ruling made on September 22, 2005 at page 3. This concluded that “the structure was not habitable and could not be used as a place of residence or lodging. Therefore, what was in fact supplied by way of sale does not come within the definition ‘residential unit’ in subsection 123(1) of the Act; accordingly cannot be a residential complex”. He argued that Canada Revenue Agency’s (“CRA”) ruling is not supported by legislation or published policy.
+[15] Further he argued that the definitions of “residential complex” and “residential unit” do not contain the condition or requirement that the structure must be habitable. The definition is wide enough to include that part of a detached house that is vacant but was last occupied or supplied as a place of residence or lodging for individuals.
+[16] The agent referred to the term “improvement” for GST purposes and said that in accordance with the Income Tax Act, the cost of improvements would be included in determining the adjusted cost base to the person of the property for the purpose of the Income Tax Act. Improvements that are included in the contract on the sale of this property appear also to be “improvements” for income tax and, therefore, for GST purposes. He said the question that must be answered is this: “was the improvement to the land part of a residential unit that qualified as a residential complex”? If yes, then the sale was GST exempt and the Appellants are entitled to the GST rebate claim as filed.
+[17] He took the position that CRA’s decision that a structure that is not habitable is not a residential unit and cannot be a residential complex is a departure from fairness and logic. Thus, he referred to the fact that a leaky condo “would cease to be a residential complex where it had to be vacated for the duration of the repairs”. Similarly, an entire residential building was recently so tragically struck by a small aircraft would not, be a residential complex because it is not currently fit for habitation.
+[18] He opined that the Respondent in this case wants us to accept that the nature or use of a property and the consequent GST implications, can occur by pure accident, an unfortunate incident such as a fire in one’s personal residence. However, according to his argument GST legislation appears to permit the retention of the underlying characteristics of tax exempt used residential property through a wide variety of circumstances including serious damage by fire.
+[19] Here, the nature and use of the property was not changed in spite of the fire that occurred.
+[20] Therefore the appeal should be allowed and the Minister’s assessment should be reversed and the relief sought by the Appellant granted.
+Argument on Behalf of the Respondent
+[21] In argument counsel for the Respondent referred to the appropriate definition of “residential complex” and emphasized “(a) that part of the building in which one or more residential units are located, together with (i) ... use and enjoyment of the building as a place of residence ...” taking the position that in order for the structure in question to be a residential complex “it must be a place of residence”. She further referred to the case of Ko v. R., 2002 CarswellNat 3429 (T.C.C.) in arguing that Little J. in that case decided that:
+It is apparent that the above definition does not include partly finished buildings. The evidence presented to the Court was to the effect that the house that was being built by Mr. and Mrs. Ko on Lot 5 was not finished and was not approved for occupancy until December 1998. It therefore follows that at the time of the transfer of Lot 5 by the Partnership to Mr. and Mrs. Ko in October 1998 there was no “residential complex” as contemplated by Schedule V, Part 1 section 3.
+He went on further to say,
+In this situation, the home was not finished at the time of transfer by the Partnership to Mr. and Mrs. Ko. It was therefore not occupied primarily as a place of residence by Mr. and Mrs. Ko. It therefore it follows that Lot 5 was not an exempt supply within the meaning of section 3.
+It was her position that this case applies equally to the case at bar. This Court’s reasoning should be the same. Here, as in that case, the structure was not inhabitable. At the point of transfer, at the time of transfer, it had to be capable of being occupied as a residence.
+[22] She further referred to the case of Balicki v. R., 1997 CarswellNat 1043 (T.C.C.) where Beaubier J. at paragraph 11 when referring to the case of Warnock v. R., [1996] G.S.T.C. 86 (T.C.C.) said:
+The building (or “house” or part thereof described in subsection 123(1)) must also be qualified for human residence, since that is intrinsic in the word “residential” under the Excise Tax Act.
+He went on further to say,
+These are all the things that the Appellant’s residential complex had when it was completed and the family moved into it in January, 1994. Until then, any passer‑by would have said that they were living in a basement or, perhaps, in a hole in the ground. No one would have called what they moved into in 1989 a “residential complex” or a “residential unit” or a “house” or even a “residence”. Nor would the basement have been part of any of them since none of them existed as a residential complex in 1989.
+[23] This was a case of “substantial renovations”, unlike the case at bar, but in any event, the learned trial judge in that case said,
+Thus, in the Court’s view, there was no residential complex until the furnace and duct work was installed in January, 1994 and the family moved into what at that time became a residential complex which they then occupied as a residence.
+The Court went on to allow the appeal that permitted the taxpayer to obtain the new housing rebate since the application was made within the appropriate period of time (two years) first occupying the “single unit residential complex”. Counsel emphasized that the appropriate period of time to consider was the time of transfer of the property to the taxpayer.
+[24] It was her position that the agent for the Appellant when making argument with respect to the GST/HST memoranda series 19.2.1, residential real property ‑ sales, when referring to the last use before vacancy situation did not quote the whole of the paragraph but only a selected portion.
+[25] Further she argued that what existed in this case was not a detached house.
+[26] In the case of Leowski (A.D.) v. Canada, 1996 CarswellNat 1447 (T.C.C.) in paragraph 9 the Court said:
+The argument is that the property was a residential unit because it was part of a detached house that was vacant but was last occupied as a place of residence for individuals.
+Bowman C. J. pointed out in that case:
+In other words the part that was vacant was the empty space that remained after the previous dwelling was demolished and that in any event the preloading of sand represented the commencement of the building, and residential complex may include buildings not yet completed. (Cragg & Cragg Design Group Ltd. v. Minister of National Revenue, [1994] G.S.T.C. 53 (C.I.T.T.)).
+However, the learned trial judge at paragraph 17 said as follows:
+Despite the ingenuity of the argument and the great skill with which Mr. McMahon presented it, there are a number of parts of it that I cannot accept.
+(a) I do not think that the property was a “residential complex” as defined. Paras. (a), (b) and (c) refer to a part of a “building”. The plain meaning of “building” does not include a plot of vacant land, even if it has been preloaded with sand in anticipation of constructing a building on it. Nor do I think the property is a residential unit. A vacant parcel of land is none of the things set out in paras. (a), (b) or (c) of the definition of residential unit. Nor is the vacant land a “part thereof” (i.e. of the things set out in para. (a), (b) and (c)). I would need to construe para. (f) to read:
+The part of the land that was subjacent to a detached house that was demolished before the purchaser acquired the land and that was occupied as a place of residence for individuals.
+I do not think para. (f) bears that construction. If that was what Parliament meant it would have been quite capable of saying so.
+It follows therefore that section 2 of Part I of Schedule V does not assist the appellant even if s. 177 turned the supply into one by the Bentalls.
+Counsel argued that in reading the two sections in conjunction it must be concluded that the building was habitable.
+[27] Further, counsel took the position that when the term “residential unit” is referred to in section 123(1) of the Act and states in (f) “is vacant, but was last occupied or supplied as a place of residence or lodging for individuals”, what the section is referring to was the very structure which was being transferred to the taxpayer not something that had existed on that lot sometime in the past. By that interpretation what was being transferred had never been occupied or supplied as a place of residence or lodging for individuals in the past or at any time because it was incapable of being supplied or occupied as a place of residence or lodging for individuals.
+[28] In rebuttal the agent for the Appellant argued that the last use of the property being transferred was the use by Mrs. Johnstone of the property as a habitable unit. The section is not referring to the remains that were being transferred. Further the agent argued that the term “or that part thereof that is referred to in (c) of the term ‘residential unit’” meant part of that which was a residential unit at some time in the past.
+Analysis and Decision
+[29] As indicated before the facts in this case are not in dispute. The facts are relatively simple and are clearly set out in the Reply to Notice of Appeal and the evidence given in Court supports that set of facts.
+[30] In order for the Appellants to be successful in this case they must be able to satisfy the Court, that what was transferred in accordance with the Contract of Purchase and Sale dated March 30, 2005, on the date of the transfer, was an exempt supply under section 5.2, Part I, Schedule V of the Act. It is trite to say that this section only applies where the land supplied forms part of a residential complex as defined under section 123 of the Act.
+[31] A further consideration is the term “residential unit” as contained in that section.
+[32] The Appellant in his argument took the position that clauses 7 and 8 of the Contract of Purchase and Sale assist him in that regard. Of particular significance to him was clause 7 which indicated that the purchase price included “any buildings, improvements, fixtures, appurtenances and attachments thereto”. This is what was viewed by the buyer at the date of inspection. His position was that what was sold was a partially restored building which was a part of the house originally located on the land before the fire.
+[33] The Court is of the view that these sections of the Contract are not of great assistance to the Appellant’s cause. There is no doubt that what was transferred was partially the destroyed remnants of a former house as shown in the photographs in Exhibit A-4. Obviously these remains did not represent what was there initially and what had been occupied by Mrs. Johnstone when the property was last occupied.
+[34] The Appellant also referred to the term “adjusted cost base” under the Income Tax Act which sets out that capital cost to the taxpayer of the property includes “(a) any depreciable property of the taxpayer”. Depreciable property includes, for example, from capital cost allowance, class 3 of Schedule II to the ITA Regulations, “a building or other structure, or part thereof, including component parts such as electrical wiring, plumbing, sprinkler systems, air conditioning equipment, heating equipment, lighting fixtures, elevators and escalators, acquired by the taxpayer ...”. He said that these improvements were included in the contract for the sale of the property and would appear to be “improvements” for income tax and, therefore, for GST purposes.
+[35] The Court is satisfied that this argument does not advance the Appellant’s cause to any extent and even though the Court agrees with the agent for the Appellant according to the Contract of Purchase and Sale that the purchase price included any buildings, improvements, fixtures, appurtenances and attachments thereto as viewed by the buyer at the date of inspection, the transfer of these items as part of the transaction does not assist the Court in determining whether or not that which was transferred on the date of sale was a “residential complex” or “residential unit” as set out in section 123 of the Act so as to make, that which was transferred, an exempt supply under section 5.2, part I, Schedule V of the Act.
+[36] The agent for the Appellant also referred to the GST/HST memoranda series published by Revenue Canada, 19.2, residential real property, and to an example set out therein in support of his position that, if the last use prior to the vacancy was residential, the property would qualify as a residential unit even though the house may need extensive work to make it fit for habitation. The answer to the question in this case cannot be found in this bulletin and even though the Court may consider it, it is not law and is not binding upon the Court. In any event, it does not provide the answer to the question in the present case.
+[37] Counsel for the Respondent took the position that in order for this to be a residential unit or residential complex; it has to be a place of residence. In the case at bar whatever the taxpayers were going to do with the property after the fact, they did not finish the renovation and did not make it a residential complex. Whatever was transferred was not inhabitable and therefore was not a residential complex. The important point in time was the point of transfer and at that time it had to be capable of being occupied as a residence.
+[38] The Court is satisfied that the argument of counsel for the Respondent is well-taken where she argued that what we are talking about at the point of transfer is “that which was transferred”. We are not talking about whatever existed there before. All references in the terms “residential complex” and “residential unit” have to be related to that which was transferred to the Appellant when she completed the transaction as referred to in the Contract of Purchase and Sale. Simply put, that which was transferred was not a “residential complex” or “residential unit”.
+[39] The term “inhabitable” or “uninhabitable” is not referred to in the term “residential complex” or “residential unit”. Under section 123 counsel took the position that this requirement of being inhabitable or being fit for habitation, or being a place of residence require it to be inhabitable. This is the effect of cases like Ko v. R., supra, Balicki v. R., supra, Leowski (A. D.) v. Canada, supra and Sneyd v. R., supra.
+[40] All of these cases are of some relevance to the issue in the case at bar although the factual situations differ. That does not prevent the Court from being able to glean from all of those cases, taken as a whole, a commonality which, according to counsel for the Respondent, is the requirement that whatever is transferred be inhabitable or be capable of being used as a place of residence.
+[41] The Court is satisfied that using the above-noted cases and by taking a reasonable view of the wording as set out in the statute, it becomes clear what the Act is talking about.
+[42] Under section 123 of the Act “under Definitions, you find the term “residential complex” means:
+(a) that part of a building in which one or more residential units are located, together with
+(i) that part of any common areas and other appurtenances to the building and the land immediately contiguous to the building that is reasonably necessary for the use and enjoyment of the building as a place of residence for individuals, and ...
+Further the term “residential unit” means:
+(a) a detached house,
+or that part thereof that ...
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or ...
+Of paramountcy in the term “residential complex” are the terms “residential units” and “place of residence”. Of paramountcy in the term “residential unit” is the term “a detached house, or that part thereof” and the term “place of residence or lodging for individuals”.
+[43] When reviewing all of these terms with their clear common-use meaning, the Court is satisfied that that which was transferred according to the Contract of Purchase and Sale had to be capable of being used as a place of residence and that which was being transferred had to be a detached house or part thereof that was last occupied or supplied as a place of residence or lodging for individuals. These terms are almost synonymous with the term “inhabitable” as used by counsel for the Respondent. Consequently, it follows that that which was transferred had to be capable of being used as a place of residence or, as counsel for the Respondent put it, it had to be “inhabitable”.
+[44] This same conclusion was reached by Chief Justice Bowman in Leowski (A. D.), v. Canada, supra, when he was dealing with:
+the empty space that remained after the previous dwelling was demolished and that in any event the preloading of sand represented the commencement of the building, a residential complex may include buildings not yet completed.
+Yet as Chief Justice Bowman said in that case, and as this Court agrees:
+I do not think that the property was a “residential complex” as defined. Paras (a), (b) and (c) refer to a part of a “building”. The plain meaning of “building” does not include a plot of vacant land, even if it has been pre-loaded with sand in anticipation of constructing a building on it. Nor do I think the property is a residential unit. A vacant parcel of land is none of the things set out in paras (a), (b) or (c) of the definition of residential unit. Nor is the vacant land a “part thereof” (i.e. of the things set out in para. (a), (b) and (c)). I would need to construe para. (f) to read:
+The part of the land that was subjacent to a detached house that was demolished before the purchaser acquired the land and that was occupied as a place of residence for individuals.
+I do not think that para. (f) bears that construction. If that was what Parliament meant it would have been quite capable of saying so.
+[45] In the case at bar, the Court is satisfied that that which was transferred did not meet any of the requirements of the terms.
+[46] Although the factual situations were different in the other cases referred to, the reasoning in those cases also applies to that in the case at bar. The appeal is dismissed and the Minister’s assessment is confirmed.
+Signed at New Glasgow, Nova Scotia, this 14th day of January 2008.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2008TCC27
+COURT FILE NO.: 2007-1894(GST)I
+STYLE OF CAUSE: PETER AND MARLENE YAKABUSKI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: January 14, 2008
+APPEARANCES:
+Agent for the Appellants:
+Carl Beck
+Counsel for the Respondent:
+Fiona Mendoza
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

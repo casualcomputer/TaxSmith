@@ -1,0 +1,329 @@
+Title: SB Towing Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64625/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-358-64625-sb-towing-inc-v-m-n-r.md
+Document type: case_law
+Last modified: 2013-11-08
+
+# SB Towing Inc. v. M.N.R.
+
+- Citation: 2013 TCC 358
+- Decision date: 2013-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5915, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SB Towing Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-08
+Neutral citation
+2013 TCC 358
+File numbers
+2012-2456(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2012-2456(EI)
+2012-2457(CPP)
+BETWEEN:
+SB TOWING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAMUEL ZAIGH,
+Intervenor.
+Appeals heard on June 5, 6 and 7, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Deborah J. Hudson
+Counsel for the Respondent:
+Lindsay Beelen
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to the decisions by the Minister of National Revenue that the 39 workers listed in Schedule A of the attached reasons for judgment were employed by the Appellant in insurable and pensionable employment during the relevant periods, and with respect to the consequential assessments made under the Employment Insurance Act and the Canada Pension Plan, are dismissed, without costs, and the Minister’s decisions are confirmed in accordance with the attached reasons for judgment.
+Signed at Toronto, Ontario, this 8th day of November 2013.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2013 TCC 358
+Date: 20131108
+Dockets: 2012-2456(EI)
+2012-2457(CPP)
+BETWEEN:
+SB TOWING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAMUEL ZAIGH,
+Intervenor.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] These are appeals from determinations and assessments made by the Minister of National Revenue (the “Minister”) under the Employment Insurance Act (“EIA”) and the Canada Pension Plan (“CPP”). The Minister determined that the 39 individuals (the “Workers”) listed in Schedule A of these reasons were employed by the Appellant, SB Towing Inc. (“SB Towing”), in insurable and pensionable employment.
+[2] The Appellant requested a review of the determinations, which were confirmed. The Appellant argues that the Workers were independent contractors providing services to the Appellant in the course of businesses carried on by them on their own account.
+II. Factual Background
+[3] SB Towing is a towing and roadside assistance company that services London, Ontario. The Appellant hired the Workers to drive roadside assistance vehicles (“RSA Vehicles”) for the purpose of providing general roadside assistance. The Workers performed services such as changing tires, delivering gas and boosting batteries. SB Towing operates 24 hours a day, seven days a week. Brenda Schrans is the president and sole shareholder of the Appellant.
+[4] Most of the Workers signed a written contract identified as the Independent Contractor Agreement or the Contractor Obligations (the “Agreements”). The Agreements indicated that the Workers were independent contractors who were responsible for paying their own taxes. The evidence shows that the Appellant did not deduct income taxes, EI premiums or CPP contributions from the Workers’ pay.
+[5] The Appellant owned or leased the RSA Vehicles used by the Workers. Some Workers enjoyed exclusive use of such a vehicle while others had to share an RSA Vehicle with a Worker from a previous shift. The operating expenses and insurance for the RSA Vehicles were paid by the Appellant.
+[6] At all relevant times, the Appellant was under contract (the “CAA Contracts”) with the Canadian Automobile Association (“CAA”) to provide roadside assistance to CAA members.
+[7] The CAA Contracts required the Appellant to, among other things:
+(a) be available to provide services to CAA members at all times;
+(b) keep a minimum number of RSA Vehicles on the road; and
+(c) maintain service standards, the most important of which was to assure arrival on the scene within 30 minutes of being informed of the need for roadside assistance.
+[8] The Appellant’s RSA Vehicles were equipped with an on-board CAA mobile computer system through which service calls were transmitted and accepted. CAA calls represented approximately 90% of all service calls made by the Workers, and substantially all (90% or more) of the Appellant’s and Workers’ revenue was derived from these calls.
+[9] CAA calls were dispatched directly to a truck’s CAA computer, according to a Worker’s proximity to the location of the client. When a call came to a Worker’s computer, the Worker generally had 10 minutes to indicate if he would accept or reject the call. The CAA’s policy is that the RSA Vehicle must arrive at the location of a client’s car within 30 minutes of that client calling the CAA for service. The CAA Contracts provided that the Workers had to give priority to CAA calls over any other calls.[1]
+[10] If a Worker was out of his truck when a call came in on the CAA computer, it would be forwarded to his cell phone. If a Worker did not have a cell phone prior to his starting to work for the company, the Appellant would provide him with one and deduct the cost from his pay.
+[11] On average, approximately 10% of a Worker’s service calls were a combination of non-CAA calls, dispatched by the Appellant and requests for roadside assistance received by the Worker himself while driving around. In a few cases, Workers received calls on their cell phones from personal contacts, although the evidence is incomplete on this point.
+[12] The Workers earned a 30% commission on gross revenue on each service call they made. This included CAA calls, for which there were pre-established rates, as well as the “cash calls” for which the Appellant provided guideline rates. Most drivers did not earn more than $30,000 in any of the years in the relevant period.[2]
+[13] The Workers were paid monthly, as decided by the Appellant. The Workers were required to sign their pay stubs to approve their pay and deductions for the month. The Workers did not receive any benefits or vacation time.
+[14] The Workers were responsible for any damage caused to their RSA Vehicle or to other vehicles, up to a maximum deductible of $2,500.
+[15] The CRA issued rulings in 2011 which found that six Workers were employees rather than independent contractors. Following this, the Minister assessed the Appellant for the 2008 to 2010 taxation years and found that the 39 Workers referred to earlier were employees.
+[16] The amounts of unpaid EI and CPP contributions are as follows:
+Taxation Year
+Amount Assessed
+under EIA
+Amount Assessed
+under CPP
+2008
+$16,199.88
+$29,786.00
+2009
+$16,274.11
+$29,760.68
+2010
+$16,327.25
+$30,887.56
+III. Issue
+[17] The question before me is whether or not the Workers held pensionable and insurable employment in the relevant period. In other words, were the Workers employees of the Appellant or were they earning business income as independent contractors?
+IV. Parties’ Positions
+(A) Appellant
+[18] The Appellant argues that the Workers were not engaged in pensionable and insurable employment because they were independent contractors.
+[19] The Appellant submits that the signed Agreements are clear indicators that the Appellant and the Workers intended to form an independent contractor relationship. Further, the Workers were reminded of their status as independent contractors when they signed their monthly pay statements, which showed that there had been no deductions for income tax, CPP or EI. Moreover, certain Workers paid their own EI and CPP contributions and claimed business expenses for their tools. For these reasons, the Appellant argues that the intention of the parties was to create a contract for services.
+[20] With regard to the assessment of whether factual reality supports such an intention, the Appellant argues that Ms. Schrans exercised little direction and control over how the Workers performed their duties or over their choice to accept or reject calls. Ms. Schrans testified that the Workers were free to fix their work schedule and determine their work locations.
+[21] Finally, according to the Appellant, the fact that the Workers earned 30% commission on the service calls they made is indicative of an independent contractor relationship. Under this compensation arrangement, the Workers had control over the profit and income they made. If they worked harder, faster and longer, they would make more money. Risk of loss was also present since the Workers would be charged up to a maximum of $2,500 for any damage they caused to the Appellant’s or a client’s vehicle.
+(B) Respondent
+[22] The Respondent counters that the evidence considered as a whole does not support the conclusion that the Workers accepted the independent contractor status imposed upon them by the Appellant. First, the evidence shows that some of the contracts were backdated. The implication is that the Workers signed the Agreements out of fear of losing their employment. The evidence also shows that the Agreements, whether signed initially or after employment began, were prepared by the Appellant and presented as a non-negotiable offer.
+[23] In the event that I were to arrive at a contrary conclusion with respect to all or some of the Workers, the Respondent submits that the intent to create an independent contractor relationship is not supported by the underlying factual circumstances of the Appellant’s relationship with its Workers. In this regard, the Respondent notes that the Appellant exercised control over the Workers in the form of disciplinary action. The Appellant established a schedule which determined who was working and when. Ms. Schrans determined the amount and form of payment by customers. The Appellant supplied the RSA Vehicles to the Workers without charging them any fee. Fuel, insurance and repairs to the RSA Vehicles were also paid for by the Appellant. Finally, the Workers did not have an opportunity to make a profit or incur the risk of losing money from their work since the large majority of that work came from the CAA, which had an established price and commission rate worked out with the Appellant.
+V. Analysis
+[24] Distinguishing employment from an independent contractor arrangement can be challenging because working conditions and relationships are unique to every workplace and are constantly evolving.[3]
+[25] The distinction turns on the following definitions of “employment”:
+(a) Paragraph 5(1)(a) of the EIA defines it as:
+employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise.
+(b) Subsection 2(1) of the CPP provides:
+“employment” means the state of being employed under an express or implied contract of service or apprenticeship, and includes the tenure of an office.
+[26] The leading case on this issue is Wiebe Door Services Ltd. v. Minister of National Revenue,[4] which was confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[5] The question is always whether or not the taxpayer “is performing [the services] as a person in business on his own account”.[6] Sagaz summarizes as follows the test enunciated in Wiebe Door and the factors that need to be weighed when determining the nature of a work relationship:
+47 . . . In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his own or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.[7]
+[Emphasis added.]
+[27] In addition to these factors, the subjective intention of the parties also needs to be considered. Where one can establish a common intent of the parties with regard to the type of working relationship they wished to establish, this intent must be considered in the Court’s analysis of the foregoing factors.
+[28] It is important to bear in mind, however, that the intention of the parties is only relevant to the extent that it is reflected in the facts of the case. The subjective intention of the parties is not determinative on its own. Justice Mainville of the Federal Court of Appeal made the following clarification in 1392644 Ontario Inc. o/a Connor Homes v. Minister of National Revenue:[8]
+37 . . . the legal status of independent contractor or of employee is not determined solely on the basis of the parties’ declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+[29] Connor Homes further confirms that the analysis involves a two-step process. First, the intention of the parties must be ascertained in order to determine what kind of relationship they wished to create. In the light of that intent, the second step is to analyze the facts of the case to determine whether the objective reality of the situation is reflective of the intent. In this second step, the Court must apply the four Wiebe Door factors, namely: (i) control, (ii) ownership of tools, (iii) chance of profit and (iv) risk of loss, to determine whether the factual reality reflects the subjective intention of the parties.
+(A) Intention of the Parties
+[30] In light of the Connor Homes case, I must first determine whether the parties intended to enter into a contract of service, indicating an employee-employer relationship, or a contract for services, which indicates an independent contractor relationship. This may be determined by considering any legal agreements that exist, or the behaviour of the parties, such as their income tax filings, GST registrations, or invoices for services rendered.[9]
+[31] From the evidence, it is clear that the Appellant desired to employ the Workers under an independent contractor arrangement. The question is whether the Workers agreed with this characterization of the relationship.
+[32] For the purpose of ascertaining whether there was a common intent between the Appellant and the Workers, the Workers are divided into five groups.
+(a) Group of Workers No. 1: Dave Green, Gary Penny, Nathan Vessie. These Workers signed Independent Contractor Agreements and also testified that it was their intention to work for the Appellant as independent contractors. Mr. Green and Mr. Penny filed their own tax returns for the period in question and also paid their EI premiums and CPP contributions. Mr. Penny deducted the expenses for his tools as business expenses. Their evidence suggests that they have a working knowledge of the difference between an employee and an independent contractor. For these reasons, I find that the Appellant and these Workers had a common intention to establish an independent contractor relationship.
+(b) Group of Workers No. 2: James R. Sheridan, Samuel Zaigh, Christopher Book. These Workers signed the Contractor Obligations or Independent Contractor Agreements. However, they all testified that they saw themselves as employees of SB Towing. Mr. Sheridan and Mr. Zaigh testified that they did not pay the required EI and CPP contributions for the relevant period. These Workers appear to have a basic knowledge of the difference between employees and independent contractors. I accept their testimony with regard to their subjective intent and, accordingly, I find that these Workers did not accept the Appellant’s characterization of their relationship.
+(c) Group of Workers No. 3:[10] These Workers signed at least one version of the Contractor Obligations or the Independent Contractor Agreements; however, they did not testify. The only evidence before the Court as to their intentions are the Agreements, signed consent forms with regard to deductions from pay and the Respondent’s assumption that seven of these Workers[11] reported business income and business expenses during the period in question.[12] I accept the intention stated in the Agreements because there is no conflicting evidence to suggest any other intention. While I acknowledge that pressure to secure work could have led the Workers to accept the Appellant’s characterization of their relationship, in the absence of direct evidence refuting the stated intent, I must find that there was a common intent to establish an independent contractor relationship.
+(d) Group of Workers No. 4:[13] These Workers did not testify in this case and there is no evidence that any of them signed Contractor Obligations or Independent Contractor Agreements. It is unknown if this was intentional or an oversight. The only documents presented in court were monthly consent forms with regard to the deduction of certain amounts from pay, which the Workers were obliged to sign in order to receive their paycheques. These documents refer to the Workers as independent contractors in several places. Despite this, I do not find that these documents are indicative of a particular intention of the Workers. In my view, the Workers would have signed the documents no matter what their intentions may have been in order to receive their pay. I thus do not attribute to these Workers any specific intentions.
+(e) Donald Zerdzicki: This Worker had a purely verbal contract with the Appellant and there is no evidence of signed consent forms regarding the deduction of certain amounts from pay. This Worker did not testify in this appeal. Without further evidence, it is impossible to ascertain his true intentions, and accordingly, I do not attribute to this Worker any specific intention.
+[33] Most of the Workers did not become GST registrants during the relevant period. This is of little relevance to the intent analysis because a large majority of the Workers earned less than $30,000 annually and were exempt from the registration requirement. Only a small number of Workers—four in 2008, one in 2009 and six in 2010—improperly failed to become GST registrants. In those cases, the Worker’s income was only marginally above $30,000. The failure to register for GST purposes is a minor consideration in the overall analysis of intent. Not registering could speak as much to the inattention or negligence of Workers as it could to their subjective intent. I thus find it to be a neutral consideration that has no impact on the analysis.
+[34] A “worker” as defined for the purposes of the Ontario Workplace Safety and Insurance Act, 1997 (“WSIA”) is a person who has entered into or is employed under a contract of service.[14] An “independent operator”, on the other hand, is not hired under a contract of service.
+[35] The Workplace Safety and Insurance Board (“WSIB”) applies an “organizational test” to distinguish employees from independent operators. The relevant factors are similar to the factors that are required to be weighed in the instant case, namely: control, ownership of tools, chance of profit/risk of loss, and involvement in the employer business’s organization.
+[36] When an employer-employee relationship exists, the employer is required by law to pay the WSIB premiums to cover its employees. With the exception of those operating in the construction industry, independent operators are not automatically entitled to benefits under the WSIA. Thus, a principal who hires such contractors is not required to pay WSIB premiums on their behalf.
+[37] In order to be covered under the WSIA, independent operators/contractors must apply for optional insurance. If an independent contractor’s work falls within the industries listed in Schedule I or Schedule II of the general regulations under the WSIA, the WSIB can choose to deem that contractor to be a “worker” within the meaning of the WSIA and grant the contractor coverage.
+[38] Although this is not explicitly stated in the WSIA, I understand that independent operators can personally apply for optional insurance and pay the premiums themselves, or their principal apply and pay on their behalf.
+[39] In the case at bar, Ms. Schrans testified that she paid WSIB premiums for the Workers as independent contractors. I presume that her testimony means that she applied on behalf of her independent contractors to have them deemed to be “workers” within the meaning of the WSIA and that she paid the amount of their premiums.
+[40] Several unanswered questions arise from knowing that the Appellant paid the premiums for the contractors: What was Ms. Schrans’ understanding of her rights and obligations under the WSIA? Is this indicative of an intention on her part to create an employer-employee relationship? Is it common practice for principals in industries involving physically strenuous work to provide this type of insurance coverage for their independent contractors? Was Ms. Schrans driven by the fact that, when workers are insured through the WSIB, they relinquish their right of action against other workers or against employers for injuries sustained while at work?
+[41] Unfortunately, Ms. Schrans’ intention in paying the WSIB premiums was not fully explored in court. Therefore, I find the WSIB issue to be a neutral one that does not change the foregoing conclusions as to the intent of the parties.
+(B) Wiebe Door/Sagaz Factors
+(i) Control
+[42] Control, in the context of distinguishing employees from independent contractors, has been defined as the “ability, authority, or right of a payer to exercise control over a worker concerning the manner in which the work is done and what work will be done”. The more control the payer has over the Workers, the more the relationship will resemble that of employer‑employee. Similarly, the more independence the Workers enjoy in determining how they will execute their tasks, the more they will appear to be in business for themselves.
+[43] Ms. Schrans testified that the Appellant had practically no control over the Workers’ schedules and performance. She suggested that the Workers could organize their work as they pleased. Her testimony, however, is contradicted by the terms and conditions of the CAA Contracts. In light of the fact that these contracts made up approximately 90% of the Appellant’s revenue, I do not believe that the Appellant would have relinquished control over the Workers and thereby risked breaching the CAA Contracts, which imposed strict performance standards.
+[44] Ms. Schrans’ testimony is also inconsistent with the testimony of Mr. Book, Mr. Zaigh and Mr. Sheridan, whom I found to be credible witnesses notwithstanding the minor inconsistencies noted by the Appellant’s counsel in her written arguments submitted after trial. Ms. Schrans’ testimony is contradicted as well by the testimony of Mr. Vessie, a witness for the Appellant and a current Worker, who admitted in cross-examination that he was reprimanded by Ms. Schrans for poor performance.[15] In light of these contradictions, I believe that Ms. Schrans has overstated her claim that the Workers enjoy considerable freedom with regard to how and when they perform services for the Appellant.
+[45] The evidence shows that the Appellant had the ability to discipline and reprimand the Workers. Ms. Schrans could give verbal or written warnings, cancel shifts, terminate drivers, etc. The Appellant submits that “the practical reality of the situation was that drivers were not disciplined in a meaningful sense.”[16] However, several witnesses testified that the Appellant could and did take RSA Vehicles away from Workers as a method of discipline. Ms. Schrans herself testified that she had once taken a truck away from a Worker for misconduct. In my opinion, taking an RSA Vehicle away from a driver is the ultimate example of control since the RSA Vehicle is an absolutely essential tool in the roadside assistance industry. Furthermore, having the ability to take a truck away from a Worker, thereby eliminating that Worker’s ability to earn income, puts the Worker in a position of subordination vis-à-vis the Appellant.
+[46] Certain versions of the Agreements had checklists of the equipment on the trucks and set out rules established by the Appellant for the Workers to follow. The Appellant submits that “such rules were not strictly enforced or enforced at all”[17] and that “the evidence as a whole, suggests a laissez-faire approach rather than strict enforcement of rules”.[18] However, the law is clear in establishing that the analysis of the control factor must involve an assessment of the right and the power to exercise control, not of whether or not control is actually exercised over workers.[19] On this issue, I find that the Appellant could have exerted its control by enforcing the rules if it had so wished.
+[47] Complaints from clients about Workers would first go through the CAA and then through Ms. Schrans so that she could address the issues with the Workers. This is a further indication that the Appellant assumed a supervisory and disciplinary role with regard to the Workers, and it supports the testimony of several witnesses, who called Ms. Schrans the “boss”.[20]
+[48] Some of the evidence suggests that the Workers could reject calls in certain circumstances. For example, Mr. Vessie would not provide service for motorcycles and Mr. Penny would reject calls for low-slung and oversized vehicles due to previous liability issues these Workers had had with these types of vehicles.
+[49] The witnesses for the Respondent testified that Workers could not reject calls without a valid reason and that to reject a call without a reason could result in disciplinary action by the Appellant.
+[50] Mr. Green and Mr. Penny testified that they could reject calls for any reason whatsoever. It is notable, however, that they also testified that they very rarely, if ever, rejected calls, because they were eager to make money from each call.
+[51] Ms. Schrans testified that the Workers were not obliged to take the calls that came through the CAA computer, and that she had no control over whether they accepted or rejected calls. She stated “of course I don’t want them to reject a call, but I have no control over that.”[21] Ms. Schrans further testified that the CAA’s policy was that the Workers had to respond to calls unless they were unable to do the call properly.[22] In cross-examination, Ms. Schrans acknowledged that the Workers were not supposed to reject calls without a good reason.[23]
+[52] The contract between SB Towing and the CAA provides that CAA calls must be given priority over all other calls to the company, and the Workers must respond promptly to every call.[24] The Workers had to accept or reject a call within 10 minutes of receiving it in their RSA Vehicle, and the CAA’s policy required Workers to be at the scene of the client’s breakdown within 30 minutes following the call. Service must always be provided, 24 hours a day, seven days a week.
+[53] On the basis of the evidence, I find that the Workers were not at liberty to simply reject calls without a reason. As Ms. Schrans indicated, the Workers needed to have a good reason to reject a call. To allow the Workers to reject calls from the CAA without any reason would have put the Appellant at risk of breaching its contract with the CAA by not giving priority and not quickly responding to each CAA call. It would also have made for a highly inefficient use of company vehicles if the closest Worker to a given client could choose to reject the client’s call for no reason, thus forcing another Worker to come to the assistance of that client.
+[54] For these reasons, I do not accept Mr. Green’s testimony that there were no company rules on rejecting calls. I prefer the testimony of Mr. Penny, Mr. Sheridan, Mr. Book and Mr. Zaigh. They testified that, if a Worker rejected a call, Ms. Schrans would inquire as to why they had rejected it. If she found the reason to be unsatisfactory, the Worker could be subject to reprimand.
+[55] For the foregoing reasons, I cannot accept the Appellant’s submission that the drivers were free to reject calls. The contractual obligations the Appellant had towards the CAA created a situation in which the Appellant had no choice but to control the priorities of the Workers and to require them to accept all of the CAA calls assigned to them.
+[56] Conflicting testimonial evidence was given regarding whether the Workers were obliged to work the shifts that they had been scheduled to work, whether their start time was firm or flexible, and what, if any, notice had to be given if the Workers wanted a day off. It is, however, clear that the CAA required a certain number of the Appellant’s RSA Vehicles to be on the road 24 hours a day, seven days a week. Ms. Schrans testified that, if a Worker was not coming in for a shift, she would try to put another driver in that truck. She also admitted that she preferred that a Worker provide her with advance notice if he was going to miss a day.
+[57] Hence, Mr. Green’s testimony that a Worker could decide unilaterally to skip shifts without notice does not appear credible to me. On this issue, I prefer the testimony of Mr. Book, Mr. Sheridan, Mr. Vessie and Mr. Zaigh, who testified that, if Workers wanted to switch hours, miss a shift, or take vacation time, they needed to obtain approval from the Appellant. This is consistent with Ms. Schrans’ testimony that she tried to put other Workers in unused RSA Vehicles. It is also consistent with the fact that SB Towing could not fulfil its contractual obligations towards the CAA if Workers could miss shifts at their own discretion.
+[58] Mr. Sheridan testified that failure by a Worker to start a shift on time would result in a call from Ms. Schrans inquiring as to why the Worker had not yet signed onto the system. Again, this is consistent with the practice of putting other drivers in trucks. If Workers were allowed to start their shift whenever they wished, Ms. Schrans would be unable to know which RSA Vehicles needed drivers for a shift.
+[59] The Workers were not required to physically wait for calls in their truck because CAA calls would be forwarded from their computer to their cell phone. This allowed the Workers a certain amount of flexibility and autonomy with regard to where they started their shift. For example, they could wait for the first call of their shift in their living room. In addition, they could take breaks and run personal errands during the shift. The Workers were allowed to perform small personal tasks while on their shift, and could use the company vehicles for small errands when they were not busy. That being said, the Workers were expected to respond to CAA calls within 10 minutes of them being sent to their computer or phone, and they had to be on the scene within 30 minutes. The Workers therefore always had to be at the disposal of the CAA throughout their shift.
+[60] The Workers were paid by commission. It was the Appellant that established the 30% commission rate applicable for all of the Workers’ completed service calls. The Workers were paid monthly, as decided by the Appellant since SB Towing was also paid monthly by the CAA. The Appellant kept track of the deductions to be made from the Workers’ pay for such things as advances on pay, cell phone bills, or damage caused by the Workers. The Workers had to sign to indicate approval of the deductions in order to receive their pay.
+[61] Overall, the evidence suggests that the Appellant could and did exert significant control over the Workers. I find that the control exerted surpassed the level of control that would be necessary to facilitate the running of their own businesses by the Workers from their RSA Vehicles. The control factor favours the conclusion that there was an employer-employee relationship.
+(ii) Ownership of Tools
+[62] It is undisputed that the Appellant provided the RSA Vehicles to the Workers free of charge. The trucks came equipped with radios, certain safety equipment and CAA computers. Some versions of the Contractor Obligations or the signed Independent Contractor Agreements included a checklist of items that had to be in the trucks at all times. Some of these items were provided by the Appellant (reflective triangles, flares, fire extinguisher, first aid kit, wheel chocks, no smoking sign, etc.). The Workers were responsible for providing their own unlock kits. The Workers also bought some of their own safety equipment. Some Workers bought additional tools that made their work easier: wrenches and screwdrivers, for example. If Workers did not have their own cell phone, they could use one of the Appellant’s cell phones, the cost of which would be deducted from their pay.
+[63] The Appellant paid for the insurance on the vehicles and for the fuel. The Appellant was also responsible for all maintenance and repair costs for the trucks. As previously stated, I find that the Appellant had a significant level of control over the use of its vehicles. Ms. Schrans could dictate who would be in the Appellant’s RSA Vehicles at all times and she could take a vehicle away from a Worker as a disciplinary measure.
+[64] The Appellant gave the Workers business cards so that they could write their names on the back and give them to customers or other businesses. Schedule C of the Independent Contractor Agreements provides that uniforms must be worn by the Workers at all times. Uniforms with CAA and SB Towing logos were provided to the Workers. The evidence suggests that some of the Workers did not comply with the uniform requirement and that the Appellant did not always enforce this provision of the Independent Contractor Agreements.
+[65] While the Workers had to provide some of their own tools, by far the most important and expensive equipment—the RSA Vehicles—was provided by the Appellant. The Appellant further assumed all operating and maintenance costs relating to these trucks and maintained control over them. This factor points to an employer‑employee relationship.
+(iii) Chance of Profit
+[66] The Workers earned 30% commission on gross revenue from the service calls they made, and did not receive benefits, vacation pay, or paid leave. The commission rate was dictated by the Appellant. There is no evidence to suggest that the Workers could negotiate this rate.
+[67] The Appellant argues that the Workers could increase their profit by starting work early, finishing late, accepting more calls and working faster and more efficiently. I disagree with this submission. First, the CAA calls were assigned to the drivers according to their geographical proximity to the client. In this regard, my previous observation stands, namely, that once a CAA call was assigned to a Worker, the Worker could not reject that call without good reason. Second, the Workers’ commission rate was predetermined by their contract with the Appellant, and the rate for CAA calls was predetermined by the CAA-SB Towing contract. Therefore, the Workers earned a set amount for every CAA service call they made. In short, the Workers had no control over which calls were assigned to them (or which ones they accepted), and they had no control whatsoever over the amount of income they earned from each CAA call.
+[68] The Workers already had to work efficiently since the CAA Contracts required the Workers to respond to calls within 10 minutes and to be on the scene in less than 30 minutes. Working slower or accepting fewer calls was simply not an option for these Workers.
+[69] The evidence does suggest that the Workers could seek service calls from personal contacts. For example, Mr. Penny established a relationship with the Ontario Provincial Police (“OPP”). He would receive calls from the OPP for accidents and cases of impaired driving.
+[70] It is noteworthy, however, that the Workers received the same 30% commission for cash calls and for the clients they obtained themselves. So the profitability of finding their own work was limited by the unchanged commission rate and was further limited by the fact that the Workers were contractually obliged to always give priority to CAA calls. A commissioned salesperson in a men’s wear store is expected to develop his or her own client base in order to be successful. He or she does so to a much larger extent than the Workers in the case at bar, but remains nevertheless, in most cases, an employee of the store owner.
+[71] The control exerted over the Workers’ priorities effectively curtailed the Workers’ ability to increase their profit. This factor also points towards an employer-employee relationship.
+[72] The Agreements are silent as to whether or not the Workers could hire help. There is no evidence to suggest that Workers actually hired help during the relevant period. The reality is that, even if they could have hired helpers, the Workers did not earn enough income to make this practical. This factor is neutral.
+(iv) Risk of Loss
+[73] In the instant case, the CAA Contracts reduced the risk of the Workers not making any money on a particular shift due to a lack of calls. Further, the Workers did not have any overhead or ongoing fees associated with performing their work. The Workers did not pay for fuel, maintenance or repairs for their trucks. All of the operating costs were paid by the Appellant.
+[74] The Workers did, however, incur the risk of losing money for damage they caused while on a service call. The Workers were liable up to the amount of the $2,500 insurance deductible for any damage they caused to their own vehicle or to another vehicle by their own negligence. I accordingly find that both parties assumed financial risk. Because the risk of loss was limited in the case of the Workers, I find that this factor is neutral.
+VI. Conclusion
+[75] Each of the parties marshalled a long list of cases, as is typical for these types of appeals. They submit that these cases involve appeals raising common employee versus independent contractor status issues and have facts similar to those in this appeal. Suffice it to say that the application of the Wiebe Door factors requires a determination of what the objective reality of the parties’ relationship is, which is largely a fact-finding exercise. None of the cited cases are determinative of this question.
+[76] On balance, the Wiebe Door factors favour a finding that all 39 of the Workers were employees of the Appellant. The objective reality of the situation is that the Appellant had significant control over the Workers. The Appellant provided the vehicles and maintained control over them, and effectively eliminated the Workers’ chance to affect their profit by controlling their work duties and priorities. When considered as a whole, the facts and evidence before the Court suggest that the Workers were not in business on their own account.
+[77] Accordingly, the Workers whom I found to have a common intent with the Appellant to enter into a contract for services were not performing their services as independent contractors. Their intention was not reflected in the objective reality of their working relationship with the Appellant and therefore cannot prevail. For these reasons, I would dismiss the appeals.
+Signed at Toronto, Ontario, this 8th day of November 2013.
+“Robert J. Hogan”
+Hogan J.
+SCHEDULE A
+List of Workers
+First Name
+Last Name
+Chris
+Battaglia
+Michael D.
+Beal
+Christopher
+Book
+John
+Brown
+Jeremy
+Cambridge
+Brad
+Campbell
+Jeff
+Dunn
+Jordan
+Fleischauer
+Paul Theodore
+Fletcher
+Garret
+Foseid
+Leonard
+Fugard
+Daniel B.
+Garlow
+Dave
+Green
+Steven
+Hayden
+Charles J.
+Hebert
+James
+Hendry
+Jason
+Hubert
+Medzit
+Ismaili
+Keith D.
+Johnston
+Earl
+Kilmer
+Marc
+Kleinczmit
+Christopher A.
+Koyle
+Chad
+MacGregor
+Michael
+McCoombs
+Correy
+Monteith
+Brian
+Northup
+Darko
+Pecanac
+Gary
+Penny
+John
+Peplow
+Stephen
+Pettigrew
+Nickolas A.
+Poce
+Robert
+Poole
+Mark
+Sears
+James R.
+Sheridan
+Alan M.
+Therrien
+Nathan
+Vessie
+Samuel
+Zaigh
+Henry
+Zerdzicki
+Donald
+Zerdzicki
+CITATION: 2013 TCC 358
+COURT FILE NO.: 2012-2456(EI)
+2012-2457(CPP)
+STYLE OF CAUSE: SB TOWING INC. v. M.N.R. and SAMUEL ZAIGH
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 5, 6 and 7, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: November 8, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Deborah J. Hudson
+Counsel for the Respondent:
+Lindsay Beelen
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Deborah J. Hudson
+Firm: Filion Wakely Thorup Angeletti LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenor:
+Name:
+Firm:
+[1] Respondent’s Book of Documents at Tab 3: Contract between SB Towing Inc. and the CAA, p. 89 at subpara. 2.0(l).
+[2] Appellant’s Book of Documents, volume I at Tab A: The T4 slips for all the Workers indicate that only four Workers in 2008, one Worker in 2009 and six Workers in 2010 earned more than $30,000.
+[3] Krishna, Vern, The Fundamentals of Income Tax Law (Toronto: Carswell, 2009).
+[4] [1986] 3 F.C. 553, 1986 CarswellNat 366.
+[5] [2001] 2 S.C.R. 983, 2001 SCC 59.
+[6] Ibid., at para. 47.
+[7] Ibid.
+[8] 2013 FCA 85.
+[9] Ibid., at para. 39.
+[10] Michael D. Beal, Brad Campbell, Jeff Dunn, Paul Theodore Fletcher, Garrett Foseid, Leonard Fugard, Daniel B. Garlow, Steven Hayden, Charles J. Hebert, James Hendry, Jason Hubert, Medzit Ismaili, Keith D. Johnston, Earl Kilmer, Christopher A. Koyle, Chad MacGregor, Michael McCoombs, Darko Pecanac, John Peplow, Stephen Pettigrew, Nickolas A. Poce, Robert Poole, Mark Sears, Alan M. Therrien, Henry Zerdzicki.
+[11] Garret Foseid, Jason Hubert, Earl Kilmer, Michael McCoombs, Robert Poole, Alan M. Therrien and Henry Zerdzicki.
+[12] Respondent's Reply to the Notice of Intervention at subpara. 24(ll).
+[13] Chris Battaglia, John Brown, Jeremy Cambridge, Jordan Fleischauer, Marc Kleinczmit, Correy Monteith, Brian Northup.
+[14] S.O. 1997, c. 16, Schedule A, subsection 2(1).
+[15] Transcript, volume II at p. 343, lines 27-28, and p. 344, lines 1-12.
+[16] Appellant's Reply Submissions at para. 6.
+[17] Appellant's Reply Submissions at para. 23.
+[18] Appellant's Reply Submissions at para. 15.
+[19] Groupe Desmarais Pinsonneault & Avard Inc. v. M.N.R., 2002 FCA 144, 291 N.R. 389. See also Gagnon v. M.N.R., 2007 FCA 33, 395 N.R. 186, at para. 7.
+[20] James Sheridan, Christopher Book and Samuel Zaigh all testified that Brenda Schrans was their supervisor.
+[21] Transcript, volume I, at p. 53, lines 26-28.
+[22] It should be noted that I did not find in the CAA-SB Towing contract any express provision that a Worker had to have a reason for refusing a call. I accept, however, that this was Ms. Schrans’ understanding of her contractual obligations towards the CAA.
+[23] Transcript, volume I, at p. 125-126.
+[24] Respondent Book of Documents, Tab 3, p. 5.

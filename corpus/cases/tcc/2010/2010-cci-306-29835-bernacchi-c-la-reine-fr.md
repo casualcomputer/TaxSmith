@@ -1,0 +1,202 @@
+---
+title: "Bernacchi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29835/index.do"
+last_modified: "2010-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 306"
+citation2: ""
+neutral_citation: "2010 CCI 306"
+decision_date: "2010-06-04"
+language: "fr"
+item_id: "29835"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6577
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:55:16.368000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "217b9ec15daddff2884b9e0334c3668ac90db3c8d8b5c93e8b0fa64b5b74abf3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bernacchi c. La Reine
+
+- Citation: 2010 CCI 306
+- Decision date: 2010-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6577, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernacchi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-04
+Référence neutre
+2010 CCI 306
+Numéro de dossier
+2009-2798(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2798(IT)I
+ENTRE :
+BRUNA BERNACCHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 février 2010 à Toronto (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+Danny Mitonides
+Avocat de l’intimée :
+Me Toks C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006 et 2007 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour de juin 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour de juillet 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 306
+Date : 20100604
+Dossier : 2009-2798(IT)I
+ENTRE :
+BRUNA BERNACCHI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Bruna Bernacchi, interjette appel à l’encontre des nouvelles cotisations établies à son égard pour les années d’imposition 2005, 2006 et 2007. À l’audience, l’appelante a abandonné sa demande pour pertes déductibles au titre d’un placement d’entreprise. La seule question en litige qui subsiste est celle de savoir si l’appelante a le droit de déduire des frais d’intérêt sur des sommes provenant d’une ligne de crédit, lesquelles sommes ont été prêtées à Maple Gate Bakeries Inc. (la « boulangerie »), une entreprise dans laquelle son ex‑époux détenait des parts.
+[2] Pour établir les nouvelles cotisations de l’appelante pour les années d’imposition 2005, 2006 et 2007, le ministre du Revenu national (le « ministre ») s’est fondé sur les hypothèses de fait suivantes, énoncées au paragraphe 15 de la réponse à l’avis d’appel :
+[traduction]
+a) lorsqu’elle a produit sa déclaration de revenu pour l’année d’imposition 2006, l’appelante a demandé une déduction de 77 500 $ au titre de perte déductible au titre d’un placement d’entreprise (« PDTPE »);
+b) la PDTPE dont la déduction est demandée concerne des placements effectués dans une société, Maple Gate Bakeries Inc. (« Maple Gate »), et a été calculée de la manière suivante :
+montant d’achat d’actions financé au moyen de la ligne de crédit conjointe
+52 500 $
+montant d’achat d’actions financé au moyen de billets à ordre
+20 000 $
+intérêts payés à un tiers duquel les parts ont été achetées au moyen d’un billet à ordre
+5 000 $
+total demandé
+77 500 $
+c) dans ses déclarations de revenu, l’appelante a demandé les déductions de 3 001,29 $, de 5 742,90 $ et de 8 406,37 $ au titre de frais d’intérêt engagés pour les années d’imposition respectives 2005, 2006 et 2007;
+d) les frais d’intérêt demandés pour chacune des années concernées par l’appel étaient relatifs à des placements que l’ex‑époux de l’appelante avait effectués dans Maple Gate sous forme d’achat d’actions;
+e) Maple Gate a fait faillite le 1er décembre 2006;
+f) l’appelante n’a jamais été actionnaire de Maple Gate;
+g) l’ex‑époux de l’appelante était actionnaire de Maple Gate;
+h) l’ex‑époux de l’appelante a eu recours à une combinaison de billets à ordre portant intérêt et de fonds provenant d’une ligne de crédit garantie détenue conjointement avec l’appelante pour acheter d’un tiers ses parts de Maple Gate;
+i) l’ex‑époux de l’appelante a acquis ses parts de Maple Gate avant les années visées par l’appel;
+j) l’appelante et son ex‑époux se sont séparés en 2004 et ont signé un accord de séparation formel au mois de septembre 2005;
+k) au moment de la séparation, le foyer conjugal était grevé de deux hypothèques, dont la ligne de crédit garantie, une partie de laquelle avait été utilisée pour financer l’achat des actions de Maple Gate détenues par l’ex‑époux de l’appelante;
+l) dans le cadre de la division des biens matrimoniaux et en conformité avec l’accord de séparation, il était prévu ce qui suit :
+i) l’appelante prenait en charge l’hypothèque et la ligne de crédit garantie;
+ii) l’ex‑époux de l’appelante renonçait à toute prétention qu’il pourrait avoir sur le foyer conjugal;
+iii) l’ex‑époux de l’appelante assumait la responsabilité du remboursement d’un billet à ordre impayé à un tiers duquel il avait acheté ses parts;
+iv) l’appelante renonçait à tout intérêt qu’elle avait ou qu’elle pourrait avoir sur les droits que son ex‑époux détenait dans Maple Gate;
+v) l’appelante était dégagée de toute obligation de verser une pension alimentaire à son ex‑époux;
+m) les frais d’intérêt dont la déduction était demandée par l’appelante avaient été principalement engagés en rapport avec la ligne de crédit garantie.
+[3] Le ministre a refusé la déduction des frais d’intérêt demandée au titre du sous‑alinéa 20(1)c)(i) de la Loi de l’impôt sur le revenu (la « Loi ») parce que l’appelante [traduction] « […] n’a pas contracté la dette en vue de tirer un revenu d’une entreprise ou d’un bien, mais plutôt pour l’incorporer dans son accord de séparation d’avec son ex‑époux » [1] .
+[4] Exception faite de l’hypothèse énoncée à l’alinéa 15e), l’appelante ne conteste pas les faits supposés par le ministre mais fait valoir qu’ils sont incomplets ou qu’ils ne tiennent pas compte de la réalité de la situation. Elle a reconnu, toutefois, les hypothèses de fait énoncées aux alinéas 15d), h) et k) dont voici le contenu :
+d) les frais d’intérêt demandés pour chacune des années concernées par l’appel étaient relatifs à des placements que l’ex‑époux de l’appelante avait effectués dans Maple Gate sous forme d’achat d’actions;
+[…]
+h) l’ex‑époux de l’appelante a eu recours à une combinaison de billets à ordre portant intérêt et de fonds provenant d’une ligne de crédit garantie détenue conjointement avec l’appelante pour acheter d’un tiers ses parts de Maple Gate;
+[…]
+k) au moment de la séparation, le foyer conjugal était grevé de deux hypothèques, dont la ligne de crédit garantie, une partie de laquelle avait été utilisée pour financer l’achat des actions de Maple Gate détenues par l’ex‑époux de l’appelante;
+[5] L’appelante reconnaît que la ligne de crédit conjointe a été utilisée pour permettre à son ex‑époux d’acheter des actions de la boulangerie et que les documents juridiques régissant l’acquisition de l’entreprise étaient au nom de son ex‑époux seulement. Il ressort toutefois du témoignage de l’appelante que c’est l’argent de celle‑ci qui a permis de maintenir en vie la boulangerie en difficulté : l’appelante travaillait à temps plein hors la boulangerie et tous ses gains étaient versés à l’entreprise; elle a contribué dans la boulangerie par un apport de compétences en vendant des pâtisseries, en payant les fournisseurs, en tenant les livres comptables et en gérant les besoins en personnel de l’entreprise. En outre, le foyer conjugal était au nom de l’appelante seulement et il avait été utilisé pour garantir la ligne de crédit qui avait financé l’achat des actions de la boulangerie par son ex‑époux. C’était aussi pour cette raison que le propriétaire des locaux de la boulangerie avait refusé de signer le bail à moins que l’appelante n’accepte de se porter garante[2].
+[6] Et pour couronner le tout, à un certain moment, l’enthousiasme que l’ex‑époux de l’appelante cultivait pour la boulangerie a été détourné au profit d’autres activités, et il a laissé l’appelante continuer seule l’exploitation de l’entreprise du mieux qu’elle pouvait, compte tenu de toutes ses autres responsabilités. En pareilles circonstances, l’appelante estime qu’elle devrait avoir le droit de déduire les intérêts payés sur la ligne de crédit conjointe.
+[7] Je dois avouer que la version de l’appelante est convaincante. Si je pouvais juger cette affaire en me fondant sur des motifs d’ordre moral ou d’équité, j’accueillerais l’appel sans l’ombre d’une hésitation. Toutefois, l’appréciation du bien-fondé des nouvelles cotisations établies par le ministre doit se faire conformément au sous‑alinéa 20(1)c)(i) de la Loi, qui prévoit ce qui suit :
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien –
+Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise […] pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+c) intérêts – la moins élevée d’une somme payée au cours de l’année […], en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise […]
+[8] L’avocat de l’intimée a cité, à l’intention de la Cour, l’arrêt Bronfman Trust v. R.[3] dans lequel la Cour suprême a jugé que le contribuable peut déduire les frais d’intérêt au titre du sous‑alinéa 20(1)c)(i) seulement s’il arrive à démontrer l’existence d’un lien entre l’intérêt payé sur les fonds empruntés et l’utilisation des fonds empruntés pour tirer un revenu. La Cour suprême a par la suite adopté cette position dans Shell Canada Ltd. c. Canada[4] et l’a confirmée dans Singleton c. Canada[5] où elle a déclaré que « […] l’examen doit être axé sur l’usage que le contribuable fait des fonds empruntés »[6]. [Non souligné dans l’original.] Plus récemment, la Cour d’appel fédérale a appliqué ce critère dans Scragg v. R.[7] et le juge Noël l’a réitéré ainsi : « Un contribuable ne peut déduire les intérêts sur de l’argent qu’il a emprunté à moins que cet argent ait effectivement servi à produire un revenu »[8].
+[9] Tels sont les obstacles auxquels l’appelante est confrontée en l’espèce. Elle a expliqué comment elle a fini par devenir l’unique responsable de la ligne de crédit conjointe. Voici la teneur de ses propos :
+[traduction]
+LE TÉMOIN : Ce qui s’est passé en 2005 essentiellement, lorsque nous nous sommes légalement séparés, c’est que j’ai pris en charge la ligne de crédit relativement à Maple Gate Bakery. Je n’assumais plus aucune dépense ultérieure de Maple Gate Bakery. Il a continué, je n’avais plus rien à faire avec la boulangerie. Voilà comment nous nous sommes séparés.
+M. MITONIDES :
+Q. Quelles sont les dépenses que vous deviez assumer jusqu’à la conclusion de cet accord visant à la renonciation de l’intérêt que vous déteniez dans l’entreprise?
+R. Voulez-vous répéter la question s’il vous plaît?
+Q. Quelles sont les dépenses que vous deviez assumer jusqu’au moment où vous avez renoncé à l’intérêt que vous déteniez dans Maple Gate Bakery ?
+A. Jusqu’avant l’accord de séparation? Avant l’accord de séparation, j’avais la responsabilité d’effectuer les remboursements de la ligne de crédit. Jusqu’à la conclusion de l’accord de séparation, j’ai veillé autant que possible à ce que tout marche comme il faut[9].
+[10] Pour appuyer son témoignage, l’appelante a produit en preuve une lettre[10] de son avocat qui l’a représentée dans le litige matrimonial. Voici le résumé qu’il a fait de la nature de leur accord :
+[traduction]
+[…]
+Je tiens à confirmer qu’après examen de l’accord de séparation et du dossier, je porte à votre connaissance ce qui suit :
+1. Dans l’accord de séparation, votre époux a renoncé entièrement et complètement à tout droit à une pension alimentaire entre époux contre vous maintenant ou dans le futur, quelle que soit sa santé ou sa situation financière.
+2. Votre époux vous a transféré complètement les droits qu’il avait sur le foyer conjugal;
+3. En contrepartie du fait que votre époux vous a accordé tous les droits qu’il avait sur le foyer conjugal et autres, et du fait qu’il a renoncé à vous réclamer une pension alimentaire entre époux et qu’il vous a libérée de l’obligation légale de lui verser cette pension, vous avez accepté la responsabilité de rembourser le prêt hypothécaire et vous l’en avez libéré, de même que vous avez accepté de prendre en charge le remboursement de la ligne de crédit conjointe utilisée aux fins de l’entreprise.
+4. Je tiens à confirmer que lors de la rédaction, des négociations et de la signature de l’accord de séparation, vous étiez préoccupée par la viabilité financière de votre époux et qu’en cas d’échec de l’entreprise ou d’une diminution drastique du salaire de votre époux, vous ne vouliez pas assumer la responsabilité de lui verser une pension alimentaire à laquelle vous seriez légalement tenue en vertu de la Loi sur le divorce et de la Loi sur le droit de la famille de l’Ontario.
+Par conséquent, après examen du dossier et de l’accord de séparation, je conclus que vous avez accepté de prendre en charge le prêt hypothécaire sur le foyer conjugal et la ligne de crédit conjointe utilisée aux fins de l’entreprise, afin d’obtenir une extinction de toute obligation légale relative à la pension alimentaire entre époux que vous pourriez avoir à l’égard de votre époux.
+[11] Même si l’appelante a déclaré plus haut qu’elle était [traduction] « responsable » des dépenses de la boulangerie, elle a volontairement assumé cette obligation dans l’intérêt supérieur de ce qu’elle considérait comme l’exploitation d’une entreprise familiale. On ne devrait pas lui reprocher de l’avoir fait. Mais le fait d’assumer volontairement cette obligation ne suffit pas pour répondre aux exigences du sous‑alinéa 20(1)c)(i). Pour bénéficier d’une déduction au titre de cette disposition, l’appelante doit démontrer aussi qu’elle a utilisé l’argent emprunté sur la ligne de crédit pour financer une entreprise qui allait produire des revenus pour elle. Elle espérait un jour tirer profit du temps et de l’argent qu’elle avait investi dans la boulangerie, mais seul son ex‑époux a pu tirer un revenu de l’entreprise compte tenu de la façon dont cette dernière était structurée. L’appelante n’avait pas de statut juridique d’actionnaire ou d’investisseur dans la boulangerie : elle n’avait pas droit aux dividendes. Il n’y avait pas non plus d’éléments de preuve au sujet d’un accord qu’elle aurait conclu avec l’entreprise ou avec son ex‑époux en vertu duquel elle pouvait tirer un revenu des montants qu’elle avait versés pour l’achat d’actions de son ex-époux ou pour continuer à faire tourner l’entreprise.
+[12] Le représentant de l’appelante, M. Mitonides, soutient que cette dernière devrait avoir gain de cause puisque le foyer conjugal était en son nom seulement et qu’elle l’avait utilisé pour garantir la ligne de crédit conjointe et le contrat de bail de la boulangerie. Même si j’acceptais la preuve de l’appelante au sujet de la propriété de la maison (une prétention qui n’est appuyée ni par le paragraphe 6.01(1) de l’accord de séparation[11] ni par une documentation indépendante du certificat de titre), cette preuve n’établit pas en soi que l’appelante a tiré un revenu de la boulangerie. Est également erroné son autre argument selon lequel l’appelante doit avoir eu un intérêt dans l’entreprise puisqu’aux termes du paragraphe 8.06 de l’accord de séparation elle a renoncé à tout intérêt qu’elle aurait pu avoir dans la boulangerie. Puisque l’appelante avait certaines revendications sur le foyer conjugal en vertu de la Loi sur le droit de la famille de l’Ontario, il ne s’ensuit pas qu’elle avait un intérêt productif de revenu dans la boulangerie comme le prévoit la Loi.
+[13] En tout état de cause, je ne peux pas conclure qu’il existe un lien entre l’intérêt payé par l’appelante et l’utilisation des fonds empruntés pour tirer un revenu. En 2005, en 2006 et en 2007, elle a payé un intérêt sur la ligne de crédit en vertu d’une obligation légale de le faire, mais cette obligation est à rattacher aux dispositions d’égalisation prises dans le cadre de l’accord de séparation[12] et non à l’utilisation de l’argent pour tirer un revenu d’une entreprise pour son propre compte. L’intérêt qu’elle a payé portait sur des fonds empruntés, utilisés non par elle, mais par son ex‑époux pour acheter des parts dans la boulangerie. Par conséquent, il n’a pas été satisfait aux exigences du sous‑alinéa 20(1)c)(i), et les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 4e jour de juin 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour de juillet 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 306
+No DU DOSSIER DE LA COUR : 2009-2798(IT)I
+INTITULÉ : BRUNA BERNACCHI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 4 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 4 juin 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+Danny Mitonides
+Avocat de l’intimée :
+Me Toks C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Observations de l’intimée, au paragraphe 17.
+[2] Pièce A-3, page 4, [traduction] « BAIL DES LOCAUX SITUÉS AU 9505, RUE KEELE » au deuxième paragraphe.
+[3] [1987] 1 C.T.C. 117. (C.S.C.).
+[4] [1999] 3 R.C.S. 622. (C.S.C.).
+[5] 2001 CSC 61; [2002] 1 C.T.C. 121. (C.S.C.).
+[6] Précité, au paragraphe 26.
+[7] [2009] 5 C.T.C. 39. (C.A.F.).
+[8] Précité, au paragraphe 13.
+[9] Transcription, page 31, lignes 24 et 25, et page 32, lignes 1 à 20 inclusivement.
+[10] Pièce A-9.
+[11] Pièce R-1.
+[12] Pièce R-1; paragraphes 6.02, 6.04, 8.03 et 8.06.

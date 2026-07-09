@@ -1,0 +1,124 @@
+---
+title: "Zaccardi v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26538/index.do"
+last_modified: "2005-08-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 497"
+citation2: ""
+neutral_citation: "2005 TCC 497"
+decision_date: "2005-08-15"
+language: "en"
+item_id: "26538"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3220
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:27:52.408000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00ee82c47a0403038a0012f8a4171061b87363c84583ed432dad56d22686710c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zaccardi v. M.N.R.
+
+- Citation: 2005 TCC 497
+- Decision date: 2005-08-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3220, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zaccardi v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-15
+Neutral citation
+2005 TCC 497
+File numbers
+2004-2471(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2005TCC497
+Date: 20050815
+Docket: 2004-2471(EI)
+BETWEEN:
+PHYLLIS ZACCARDI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench
+on June 29, 2005 at Windsor, Ontario)
+Woods J.
+[1] This is an appeal by Phyllis Zaccardi in respect of a decision of the Minister that she was not engaged in insurable employment for the period from April 8, 2002 to November 21, 2002.
+[2] Mrs. Zaccardi worked for a family owned corporation, ZDS Farms Limited. She owned 26 percent of the shares and her husband and sons owned the balance. In a family run business like this, Mrs. Zaccardi is not entitled to employment insurance benefits unless it is established that the terms and conditions of her employment were substantially similar to arm's length terms. The Minister took the view that they were not.
+[3] The question in this appeal is whether the Minister's decision was reasonable. In making this determination, I must look at all the facts and circumstances of Mrs. Zaccardi's employment and not simply those facts that were taken into account by the Minister.
+[4] ZDS operates a greenhouse operation of growing vegetables in Leamington, Ontario. Mrs. Zaccardi's son was the president of the corporation from its inception in 1996 and Mrs. Zaccardi started working for ZDS in 2000. Her job was to supervise the pickers, called offshore workers, and also to pick vegetables herself. During the period in question there was a maximum of five offshore workers. In addition to working for the company, Mrs. Zaccardi and her husband lent over $90,000 to ZDS to acquire the business.
+[5] Mrs. Zaccardi testified that her terms of employment did not vary during the period. She was to be paid $600 per week for full time work during the growing season, roughly March to November. She generally worked about 60 hours per week during the growing season and was laid off the rest of the year.
+[6] Mrs. Zaccardi testified that she had asked for $600 per week because that was approximately the same as she was paid at her previous employment as a supervisor at the Roma Club, a banquet facility. Prior to that time, Mrs. Zaccardi had many years experience working as a supervisor at packing factories and she was paid an hourly wage for those jobs.
+[7] In the two years prior to the taxation year in question, Mrs. Zaccardi did not in fact receive exactly $600 per week. Her weekly pay varied during this period and part of it was contributed back to the business. The reason for these variances were explained on the basis that this was all that the business could pay.
+[8] In the 2002 year, which is the period at issue, Mrs. Zaccardi's salary was paid regularly at the rate of $600 per week from April to November for a total of $19,800. She started working in either April or May because she had surgery earlier in the year.
+[9] Before turning to the analysis of Mrs. Zaccardi's employment I would note that her son, Dan Zaccardi, testified that the Canada Revenue Agency had assessed the corporation in an earlier year for failure to remit employment insurance premiums in respect of his employment. It appears that the Minister has perhaps taken inconsistent positions with respect to Mrs. Zaccardi and her son. This undoubtedly is frustrating and although I can express sympathy for the situation, there is nothing that I can do about it. The determination for each employee must stand on its own. In this case there is an appeal with respect to Mrs. Zaccardi only.
+[10] I also would comment regarding the request of counsel for Mrs. Zaccardi to extend the years under appeal to include 2003 and 2004. The 2003 year was out of time and counsel requested that I extend the time for making that appeal and include both years along with this appeal. I declined to consider this request. Counsel had not provided advance notice of this request to counsel for the Crown or the court and also he had not reviewed the statutory provisions that would be relevant. In these circumstances, I concluded that it was more appropriate for that issue to be dealt with in a separate application.
+[11] I now turn to the main issue - that is whether Mrs. Zaccardi's terms of employment were substantially arm's length terms. In the 2002 year, Mrs. Zaccardi was paid $600 per week. Was this substantially the same as what the corporation would have paid if Mrs. Zaccardi and ZDS were not related?
+[12] The relevant evidence is as follows. Dan Zaccardi's testimony was damaging to this appeal. He testified that he likely would have had to pay more to hire someone else in that position if his mother was not available. That was basically an admission that his mother was not paid an arm's length salary. Mrs. Zaccardi's testimony was also not helpful. She testified that the salary was chosen based on what she was paid at the Roma Club. That suggests that no attempt was made to determine what would be paid to an arm's length person to do the job at ZDS that Mrs. Zaccardi was doing. No evidence was led at the hearing regarding what ZDS would have to pay someone else to do the job and there was no evidence of what other greenhouse operations in that area would pay arm's length persons to do the job that Mrs. Zaccardi did.
+[13] It is not helpful to look at the wages paid to the offshore workers because they were paid on an hourly basis, they had no supervisory duties and they were given free room and board and transportation. It is also not helpful to compare the salary to that paid to Mrs. Zaccardi's son because his salary was not arm's length.
+[14] It is also not helpful to look at the other jobs that Mrs. Zaccardi had. These jobs were quite different from her current job. The factories that she worked at had over 100 employees - quite different from the three to five employees that ZDS had. She was paid on an hourly basis and there was no evidence as to how many hours per week she worked at those jobs. The more recent employer, the Roma Club, was a banquet facility. The duties in this job were not comparable to the greenhouse business and there was no evidence as to whether Mrs. Zaccardi worked similar hours at that job that she does for ZDS.
+[15] The conclusion that I reach from this is that Mrs. Zaccardi has not established that the terms and conditions of her employment in 2002 were similar to arm's length terms.
+[16] I am not sure that Mrs. Zaccardi's employment for the two previous years are very relevant but clearly the salary paid in those years was not arm's length because of the fluctuations in the salary. An arm's length person would not be employed under those conditions. It was argued that the salary concessions should be looked at as made in Mrs. Zaccardi's status as a shareholder and not an employee. That might be but it makes no difference why Mrs. Zaccardi made the salary concession. The fact is that she agreed to terms of employment that were not arm's length terms.
+[17] For these reasons, I would conclude that the Minister's decision was reasonable. It may seem harsh that Parliament does not allow employment insurance benefits to someone who works hard for a family business - but the test that Parliament has legislated is that the employment is insurable only if the terms of employment are substantially arm's length. Based on the evidence before me, I would conclude that the Minister's conclusion was reasonable. The appeal is dismissed.
+Signed at Toronto, Ontario this 15th day of August, 2005.
+"J. Woods"
+Woods J.
+CITATION:
+2005TCC497
+COURT FILE NO.:
+2004-2471(EI)
+STYLE OF CAUSE:
+Phyllis Zaccardi v. M.N.R.
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+June 27, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+July 13, 2005
+APPEARANCES:
+Counsel for the Appellant:
+David Deluzio
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Deluzio
+Firm:
+David Deluzio Law Firm
+Windsor, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

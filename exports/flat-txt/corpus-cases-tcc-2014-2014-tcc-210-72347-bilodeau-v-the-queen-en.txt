@@ -1,0 +1,331 @@
+Title: Bilodeau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72347/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-210-72347-bilodeau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-06-30
+
+# Bilodeau v. The Queen
+
+- Citation: 2014 TCC 210
+- Decision date: 2014-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5348, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bilodeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-30
+Neutral citation
+2014 TCC 210
+File numbers
+2011-1464(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1464(IT)G
+BETWEEN:
+MONIC BILODEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 8, 9 and 10, 2013, at Chicoutimi, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Marie-Ève St-Cyr
+Counsel for the Respondent:
+Christina Ham
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessments made under the Income Tax Act for the 2005 and 2006 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant’s income is to be reduced by $3,300 for 2005 and by $11,560 for 2006, and that the penalty calculations are to be adjusted accordingly.
+The appellant shall pay the respondent’s costs in accordance with Tariff B of Schedule II of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Ontario, this 30th day of June 2014.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 16th day of December 2014.
+Erich Klein, Revisor
+Citation: 2014 TCC 210
+Date: 20140630
+Docket: 2011-1464(IT)G
+BETWEEN:
+MONIC BILODEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction [1] The appellant worked as a controller for Hôtellerie CÉPAL from May 2005 to September 2006. She was responsible for CÉPAL’s accounting, and her duties were balancing the till, making accounting entries for sales, preparing deposits, paying suppliers and maintaining books and records.
+[2] During that period, the appellant had drug and compulsive gambling problems.
+[3] On May 28, 2008, the appellant pleaded guilty to a charge of fraud over $5,000 under the Criminal Code with regard to amounts taken from CÉPAL. The evidence does not show that there was agreement as to the amount of the fraud at the criminal proceedings stage.
+[4] The respondent added $20,006 for 2005 and $43,175 for 2006 to the appellant’s income. According to the respondent, these are amounts that the appellant had taken from CÉPAL in 2005 and 2006. The respondent imposed penalties under subsection 163(2) of the Income Tax Act.
+[5] The assessment for the 2005 taxation year was made after the normal reassessment period.
+[6] The appellant does not dispute that she appropriated money belonging to CÉPAL and admits that amounts totalling $13,804 were taken in 2006. However, she disputes the amounts added for 2006 beyond $13,804 as well as all of the amounts added for 2005.
+[7] Therefore, this is a quantum issue; it is not disputed that the stolen amounts are taxable.
+[8] The difficulty in this case is that, on the one hand, the appellant has not kept separate accounting records of the amounts that she appropriated and, on the other hand, given that the amounts taken were not recorded as such in CÉPAL’s accounts, someone needed to try to analyze CÉPAL’s accounts to determine the amounts that the appellant had stolen from the company.
+[9] The hearing lasted three days; a significant number of documents was filed; and counsel made written submissions after the hearing ended.
+[10] I thank counsel for their work.
+The facts and the analysis thereof [11] As I have already stated, the appellant does not dispute that she appropriated $13,804 in 2006. She made no admissions regarding 2005. It is important to note that, in her testimony, she never said that she had not appropriated an amount over $13,804.
+[12] As I understand it, the appellant’s position is that the evidence before this Court has not shown that she appropriated more than $13,804. The amount admitted is the amount that corresponds to what she could see as an appropriation in the documents available at trial.
+[13] The appellant does not know the exact amounts that she appropriated because she did not keep any accounting records with respect to the amounts in question. At the beginning, she had a sheet of paper on which she wrote the amounts she took, but it has disappeared.
+[14] I note that, during the meeting with Mr. Aziz, the auditor, the appellant said that she had taken about $20,000.[1]
+[15] I also note that the appellant never testified regarding the date when she began taking money from CÉPAL. She did not testify that it was after 2005.
+[16] I can understand that the appellant does not remember exactly when she started taking money, and I can understand that she does not remember the amounts that she took. However, I cannot conceive that she does not have an approximate idea of the date when she started to appropriate money.
+[17] If she did not start until 2006, she would remember it and she would have testified to that effect.
+[18] The appellant raises three categories of arguments. The first category is related to the way in which the assessments were made; the second category is related to the fact that the appellant does not have access to all of CÉPAL’s accounting documents; and the third category is a series of detailed arguments that can be divided into two subcategories: errors and possible errors.
+How the assessments were made [19] I will begin with this first category of arguments.
+[20] At the time of the hearing, Catherine Morin, an accountant, was a tax audit technician with Revenu Québec. However, she played a role in this file before working for the government.
+[21] She started working for CÉPAL in September 2006. At first, she was an employee of Adecco and subsequently became an employee of CÉPAL.
+[22] At first, Ms. Morin worked for CÉPAL as an accounting technician; she later became CÉPAL’s controller.
+[23] When Ms. Morin started at CÉPAL, the appellant had already left.
+[24] Ms. Morin calculated the amounts that the appellant had appropriated, and in making the assessments, Mr. Aziz relied on Ms. Morin’s work. Three components of Ms. Morin’s calculations are disputed.[2]
+First component [25] First, she calculated the difference between cash revenues and the amounts indicated as cash deposits on the deposit slips prepared by the appellant. This was done by comparing the amount of cash received shown in the summaries of cash register readings with the deposit slips for the corresponding periods. These calculations are found at Tab 5 of Exhibit I-1. The results of these calculations are at page 2 of Tab 5.
+[26] Ms. Morin started with 2006 and conducted a more detailed review than her review of 2005. For 2006, she compared all of the deposit slips with all of the cash register reading summaries; in addition, she verified the bank reconciliations.[3]
+[27] However, her work for 2005 was more summary because CÉPAL did not want her to invest as much time as she had for 2006. Consequently, her calculations were made by adding up the deposit slips and by comparing them with monthly reports.[4]
+[28] The summary of the results of this work is found at page 2 of Tab 5 of Exhibit I‑1. According to Ms. Morin, there is a difference of $19,515.98, which means that, according to the deposit slips, over the two years at issue, the business deposited at the caisse populaire $19,515.98 less in cash than the cash amount it had received.
+[29] These amounts are disputed.
+Second component [30] Second, Ms. Morin calculated the difference between the amount deposited according to the deposit slips and the business’s bank statements from the caisse populaire.
+[31] The summary of the results of these calculations is found at page 2 of Tab 7 in Exhibit I‑1. According to Ms. Morin, the difference is $12,640.93 over the two years at issue. In other words, according to the bank statements, the business deposited $12,640.93 less in cash than the total cash deposited according to the deposit slips.
+[32] The appellant disputes all of these amounts.
+Third component [33] Third, Ms. Morin determined that there were what she considered to be unjustified cash withdrawals by the appellant. There were other cash withdrawals that she considered justified, which she did not include.
+[34] There are two types of withdrawals that Ms. Morin included because she believed they were unjustified.
+[35] On the one hand, there were many cash orders without small bills that did not correspond to any cash deposits. Ms. Morin explained that normally a cash order was not made for the purpose of increasing the change fund, but merely to obtain more small banknotes than big ones.[5]
+[36] On the other hand, there was no justification for certain withdrawals or, alternatively, there was a false entry that did not constitute a real justification.[6]
+[37] The results of these calculations are at page 2 of Tab 9 of Exhibit I-2. According to Ms. Morin, there were withdrawals totalling $21,660.34 that were unjustified.[7]
+[38] Some amounts, totalling $4,435.83, are not disputed by the appellant.[8] The rest of the $21,660.34 is disputed.
+[39] The auditor, Mr. Aziz, did his work after the appellant pleaded guilty to the criminal charges. Among other things, he received the documents produced in evidence and was satisfied that Ms. Morin’s approach was reasonable. He adopted her approach.[9]
+[40] The consequence is that the respondent assumed that the appellant had appropriated the following:
+(a) cash received as consideration for sales, which was never deposited at the caisse populaire;[10]
+(b) certain unjustified cash withdrawals (Tab 9).[11]
+[41] It is well established that, in law, the appellant has the burden of rebutting the facts that the Minister of National Revenue has assumed.
+[42] The appellant criticized the respondent for adopting Ms. Morin’s work without redoing in detail all of that work and, furthermore, without having consulted all or almost all of CÉPAL’s accounting documents.[12]
+[43] There is no doubt that more detailed work might be more precise. However, Ms. Morin’s method is entirely reasonable, and there is no reason why the Minister could not adopt her work. In addition, I am of the view that Ms. Morin did her work systematically, but at the same time I recognize that for 2005, as she said, her work was less thorough.
+[44] Accordingly, the fact that the Minister did not do everything that the appellant believes he should have done in the way of analysis is not, in itself, a reason to conclude that the assumptions of fact should be rejected. It is for the appellant to show that the assessments must be amended. My comments below relative to the documentation are also relevant to this issue.
+The documents [45] In her testimony and her written submissions, the appellant put a great deal of emphasis on the fact that she never had access to all of CÉPAL’s accounting records. As a result, she could not verify everything or show all of the errors.
+[46] The appellant received the documents on the respondent’s list of documents under section 81 of the Tax Court of Canada Rules (General Procedure); there was no application under section 82.
+[47] According to the appellant’s testimony, during the criminal proceedings, her counsel tried to obtain from CÉPAL all of its accounting documents, but CÉPAL did not provide them.[13] I note that it is hearsay; even though there was no objection, the fact that it is hearsay reduces the weight of the testimony.
+[48] Subsequently, in February and in April 2012, the appellant and her counsel unsuccessfully tried to obtain CÉPAL’s documents. The requests were made through letters to Hôtellerie CÉPAL in Jonquière.[14]
+[49] The appellant received replies from André Bernier entrepreneur forestier inc. in Saint-Félicien.[15] The last reply[16] stated that CÉPAL had been sold in 2010 and that André Bernier entrepreneur forestier inc. no longer had the information.
+[50] The mere fact that the appellant has not obtained all of CÉPAL’s documents is not, in itself, a reason to conclude that the assumptions of fact should be rejected or that the burden of proof should be changed.
+[51] The parties’ conduct during the audit and objection is not normally relevant to determining the validity of an assessment. It is the facts and the law that are important. That is the case here.
+[52] However, I will make some observations on what happened because the appellant laid a great deal of emphasis on what the Minister did not do during the audit, on the fact that she had not been able to see all of CÉPAL’s documentation, and on the consequences for her.
+[53] The object of these observations is to put into context the points brought up by the appellant.
+[54] Indeed, it is possible that other documents might have enabled the appellant to prove certain things that would have been helpful to her.
+[55] It is important to remember that we have a self-assessment system and that the appellant is in the best position to know what she has stolen from the company. In addition, given that she was the company’s controller, she understands the company’s accounting very well and is well aware of what should be examined.
+[56] I can very well understand that, before the end of the criminal proceedings, the appellant would not have wanted to discuss what had happened.
+[57] However, when the auditor contacted the appellant after the criminal proceedings were finished,[17] she did not take the opportunity to shed as much light as possible on what had happened.
+[58] The appellant met with the auditor at the beginning of June 2009. According to the auditor, there was no request for documents at that time by the appellant, and she told him that her counsel had all of the documents.
+[59] After the auditor sent a draft assessment to the appellant around mid-June 2009, the appellant responded with a letter dated July 5, 2009, stating that she wanted to be assessed on the basis that she had appropriated $5,000, which corresponded to the amount with respect to which she had pleaded guilty.
+[60] After that, the auditor attempted to communicate with the appellant and, shortly after mid-July, he received a letter from the appellant stating that she did not wish to meet with him and that she wanted him to communicate instead with her counsel, Mr. Fradette. The auditor attempted to contact Mr. Fradette, but Mr. Fradette never called him back.[18]
+[61] At the objection stage, some discussions took place between the appellant and the appeals officer, and the appeals division concluded that an adjustment needed to be made.[19]
+[62] The evidence reveals little with regard to the discussions between the appellant and the appeals officer.
+[63] When I consider all of the evidence, it seems that the appellant’s main position from the start of the audit to the filing of her Notice of Appeal was that she could not be taxed on an amount higher than $5,000. This is reflected in her Notice of Appeal, in which it is not alleged that there were any calculation errors.[20]
+[64] During the period between the start of the audit and the trial, there were a number of stages at which the appellant chose not to do things that might have enabled her to avoid finding herself in her current situation with regard to the documents. She chose not to take the following opportunities:
+(a) In light of R. v. Stinchcombe,[21] during the criminal proceedings the Crown had a broad duty to disclose its evidence. The disclosed documents would no doubt have been a good starting point for analyzing Ms. Morin’s work and raising issues. At the audit stage, the appellant did not use that documentation or attempt to bring up possible errors with the auditor, while at the same time asking the Canada Revenue Agency to obtain from CÉPAL all the documents that were necessary in order to verify the analysis and the possible errors that she had raised. The CRA has all the powers needed to obtain documents if it is satisfied that it should use those powers. In addition, in 2009 there would have been a far better chance of obtaining CÉPAL’s documents than there was later on.[22]
+(b) At the objection stage, although some points were raised, the evidence does not show that there was any effort to obtain and examine all of CÉPAL’s documentation.
+(c) If the respondent had refused to obtain all of CÉPAL’s documents, the appellant could have filed her appeal with this Court in May 2010, 90 days after her Notice of Objection, without waiting for confirmation. Once before the Court, the appellant would have had at her disposal two tools that would have potentially enabled her to obtain CÉPAL’s documents: section 86 of the TCC Rules, regarding documents in the possession of non-parties and, if necessary, section 99 of the Rules, regarding the discovery of non-parties with leave. Once again, there would have been a better chance of obtaining the documents in 2010 than there was later on.
+(d) The appellant filed her Notice of Appeal on April 8, 2011. It was not until 10 or 12 months after she had filed her Notice of Appeal that the appellant tried to obtain CÉPAL’s documents.[23]
+(e) The last reply, namely, that dated May 14, 2012, is not entirely clear as to the reason why André Bernier entrepreneur forestier inc. no longer has the documents. There is nothing in the evidence to show that an effort was made to determine whether it is because the documents were destroyed or lost or whether it is because the documents remained in the files of CÉPAL, the company that was sold.
+[65] The appellant could have made other choices, which might have enabled her to obtain the documents that she says she needs.
+Specific issues [66] The third category of the appellant’s arguments consists of a series of specific points that she raised.
+[67] I will divide these points into four groups:
+(a) indications of possible errors;
+(b) chef Sylvain’s pay;
+(c) petty cash cheques; and
+(d) the treatment of traveller’s cheques.
+[68] I will begin with the case of the chef.
+Chef Sylvain [69] The appellant testified that, when a chef named Sylvain was hired, she prepared his first pay. Right after that, the company’s president came to tell her that she had cashed Sylvain’s cheque and that, from then on, the company was to cash Sylvain’s cheques. The result is that Sylvain endorsed the cheques, which he handed over to the appellant, and the appellant gave him cash in exchange. The money was taken from petty cash and the cheques were deposited in the company’s account[24] so that, according to the appellant, the unjustified withdrawals at Tab 9 of Exhibit I‑2 should be reduced accordingly.
+[70] Evidence corroborating this is found in certain documents in which it can be seen that Sylvain’s cheque is being referred to and that his net pay was $477.06. I accept that chef Sylvain’s paycheques were cashed.[25]
+[71] What these amounts come to is unclear. There is no testimony regarding the frequency of Sylvain’s pays, but from the documents I conclude that it was weekly.[26]
+[72] The appellant did not testify regarding the date on which Sylvain started work. We know that the appellant was already working for CÉPAL when Sylvain started; thus, another chef was already there. I see nothing relating to Sylvain in the evidence for 2005.[27]
+[73] The first indication of a cheque for $477.06 is a cheque dated March 29, 2006.[28] I conclude that this is when Sylvain began working for CÉPAL.[29]
+[74] There are about 19 weeks between March 29 and August 11, 2006,[30] which means that an approximate net amount of $9,060 would have been paid to the chef. I accept that this amount was paid with money from the petty cash and that the amount of the unjustified withdrawals must be reduced by $9,060.[31]
+The petty cash cheques [75] According to the appellant, another source of errors relative to the unjustified withdrawals could be that the Minister did not take into account the petty cash cheques.
+[76] When a supplier is paid in cash, the payment is taken from petty cash, and a cheque for the same amount is made payable to petty cash to compensate for the decrease in cash in the petty cash. The cheque is then deposited at the caisse populaire.
+[77] The appellant says that this could explain some withdrawals, but she does not have access to all of the documents.
+[78] The appellant can point to only one example in the evidence, but that example is the case where, at the objection stage, the Minister accepted the explanation and reassessed to reduce the assessment accordingly, that is, by $2,290.15.[32]
+[79] The withdrawal in question was made on July 27, 2006.[33] The Minister accepted that the withdrawal was compensated by the subsequent deposit of a petty cash cheque.[34]
+[80] For several reasons, I do not accept that petty cash cheques can explain another part of the unjustified withdrawals at Tab 9.
+[81] First, the appellant has no examples in the documentary evidence other than the amount already accepted by the Minister.[35]
+[82] Second, I note that three withdrawals in 2005 are not associated with any supporting documents; yet, Ms. Morin would put the relevant documents in her file whenever there was a problem;[36] thus, there were no supporting documents.
+[83] Third, I note that, in the case of the accepted cheque, namely, the one for $2,290.15, the deposit slip bears the letters “P.C.”, presumably for “petty cash”.[37] Among the many slips filed in evidence,[38] I found the letters “P.C.” on only one other slip, which was dated August 30, 2006,[39] that is, over 19 days after the last withdrawal that Ms. Morin considered to be unjustified. Finally, I found another slip with the letters “P.D.”[40] Should that perhaps be “P.C.”?
+[84] Given the many slips filed in evidence, some of which are only for cheque deposits, if there had been a large number of petty cash cheques, the letters “P.C.” would be found more frequently on the slips.
+[85] Finally, even if I suppose that there were other petty cash deposit slips, I see nothing in the evidence that would allow me to conclude that an additional petty cash cheque must necessarily compensate a cash withdrawal. CÉPAL received part of its revenues in cash and could have compensated petty cash cheques with cash revenues, which could, in part, have been used to maintain the desired amount of cash in the petty cash, without there being any necessity to obtain cash from the caisse populaire. Accounting entries would obviously have had to be made accordingly.
+[86] Thus, the appellant’s evidence has not satisfied me that other adjustments should be made with regard to the unjustified withdrawals.[41]
+Indications of possible errors [87] Regarding these arguments, I would point out that they involve elements that, according to the appellant, cast doubt on Ms. Morin’s analysis,[42] but, except in some cases, these elements do not show specific errors. It is not sufficient for the appellant to raise the possibility of errors; she must show that one or more specific errors were made.
+[88] I will not canvass all of the arguments raised by the appellant, which do no more than bring up the possibility that there was an error. I will look at only some of these arguments as well as those in which the appellant explicitly claims to have shown an error.
+[89] I will begin with a claim made in relation to the petty cash cheques.[43] According to the appellant, during the period from July 1 to September 6, 2006, the total amount of the cheques received according to the summary of cash register readings was $116,704, while the total amount of the cheques deposited according to the slips was by $17,260 lower.
+[90] If I understand the appellant’s reasoning, this [Translation] “shortfall” of $17,260 not only shows the absence of slips, but also demonstrates that the difference could include deposits of petty cash cheques, which could explain the amounts included on the list of unjustified cash withdrawals.
+[91] In addition to the above-stated reasons for which I do not believe that the Court should consider reducing the unjustified withdrawals to take into account the petty cash cheques,[44] the following should also be taken into account.
+[92] I have gone through the same exercise as the appellant,[45] and I ended up with a difference of approximately $2,700.
+[93] To arrive at a difference of $17,260, I would have to consider that the amount of cheques on the slip dated August 28, 2006, is $7,112 instead of $11,621;[46] but the amount of $7,112 is crossed out on the document. The net deposit amount does not solve the problem because two figures appear on the document. There is no way to be sure which is the right one. The slip dated September 11, 2006, and the cheques totalling $10,440 indicated on the slip should also be excluded. That amount is not mentioned in the appellant’s argument,[47] but presumably the appellant excluded it because the deposit was made on September 11, a Monday, five days after the end of the period.
+[94] With regard to the slip dated September 11, 2006, the fact that Ms. Morin put this slip into “R.R.D. 5” indicates that she had concluded that that deposit was related to revenue from the period ending on September 6, 2006, but there is no direct way to confirm that the cheques totalling $10,440 are or are not part of the period ending on September 6, 2006.
+[95] In any case, even if there were undeposited cheques during that period, regardless of whether or not they were petty cash cheques issued in exchange for a withdrawal or part of a withdrawal — an assumption that I am not willing to make — I do not see how this could help the appellant, for the following reason.[48]
+[96] After June 29, 2006, there were only two unjustified withdrawals according to Ms. Morin’s analysis. The first of these, on July 27, 2006, had already been removed by the CRA’s appeals division at the objection stage. Therefore, only one disputed withdrawal remains for the period from July 1 to September 6, 2006, namely, the withdrawal of $2,414.55 of August 11, 2006. However, I have already accepted that Sylvain’s pay must be taken into account. Between July 29 and August 11, Sylvain’s salary was sufficient to explain the amount of $2,414.55. That amount cannot be removed twice.
+The traveller’s cheques [97] The appellant testified that there may have been errors in categorizing receipts as cash or cheques. She also testified that, at the time of sale, traveller’s cheques were recorded as cash, but for the purposes of deposits at the caisse, they were recorded as cheques. This creates somewhat of a discrepancy between the summaries of cash register readings and the deposit slips. The appellant gave an example, but she did not quantify the discrepancy.[49]
+[98] I accept the appellant’s testimony on this issue, which leads to the conclusion that, because of the traveller’s cheques, there is a discrepancy between the cash deposited at the caisse and the cash amounts appearing on the deposit slips.
+[99] The question of the amount of the discrepancy remains. We know that traveller’s cheques are relatively seldom used compared to other methods of payment, but this is of little help in determining the amount.[50] I will come back to this question below.
+Indications of possible errors (continued) [100] According to the appellant, there are certain periods where the total of the cheques deposited exceeds the cheque total determined from the summaries of cash register readings.[51] In reviewing the documents, sometimes I arrived at more or less the same excess amount, and sometimes I arrived at a lower excess amount.
+[101] To the extent that there is an excess amount, this is consistent with the discrepancy resulting from the traveller’s cheques. However, that is of no assistance in quantifying the discrepancy, because it could exist for all sorts of reasons.
+[102] I cannot accept that this shows a discrepancy attributable to anything other than traveller’s cheques in the absence of any explanation regarding another mechanism that could cause a systematic discrepancy; if it were simply a matter of errors made without there being any particular mechanism, the errors could go either way.
+[103] Because there is a lack of evidence establishing a specific quantum, I can accept only a minimum amount of the discrepancy as being due to traveller’s cheques. I can accept that one out of 20 cash payments (about 5% of them) shown on the summaries of cash register readings was a payment by traveller’s cheque. Therefore, an adjustment should be made reducing the difference shown on page 2 of Tab 5 of Exhibit I-1 by $2,500 in 2005 and $2,500 in 2006.[52]
+[104] There are other arguments raised by the appellant that go a bit beyond a mere possibility. Several deposits at the counter in 2005[53] were made without a deposit slip.[54] The appellant said that the analysis did not take these deposits into account. I accept that assertion.
+[105] These deposits, all in 2005, total slightly over $5,280, and the appellant maintains that some of these must have been in cash. I accept that part of the deposits were probably in cash. The appellant did not quantify the amount thereof.
+[106] In the absence of other evidence, I can accept only an $800 cash amount out of the $5,280. This amount of $800 is for 2005.[55]
+[107] Before concluding, I would like to make an observation. This is a case in which a portion of the appellant’s income, namely, the amounts that she took from CÉPAL, had to be determined through an alternative method as the appellant had not kept any accounting records with respect to her activities. Therefore, the estimate made had to be based on CÉPAL’s accounting records. Given that the method used by Ms. Morin was reasonable, the situation here is the same as with any other alternative estimation method, such as the net worth method. If an appellant does not show that the alternative estimation method is in itself unreasonable,[56] the appellant must establish that specific corrections must be made to the analysis.
+Assessment outside reassessment period and penalties under subsection 163(2) of the Income Tax Act. [108] The assessment for the 2005 taxation year was made outside of the normal reassessment period. There is no doubt that the Minister validly assessed with respect to 2005 under subparagraph 152(4)(a)(i) of the Act, which sets out two conditions with regard to assessments outside the normal reassessment period:
+(a) the taxpayer has made a misrepresentation
+(b) attributable to neglect, carelessness or wilful default.
+[109] With regard to the first condition, there is a misrepresentation because the appellant failed to report substantial amounts of income in 2005.
+[110] As for the second condition, the amounts involved are significant and, in light of the evidence, it is impossible to find that the appellant did not know that she had stolen the amounts in question. Accordingly, there was a wilful default.
+[111] With regard to the penalties for gross negligence set out in subsection 163(2) of the Act, which were imposed for both years, there are two conditions:
+(a) the taxpayer has made a false statement or omission
+(b) knowingly, or under circumstances amounting to gross negligence.
+[112] With regard to the first condition, there can be no doubt that there was a false statement or omission as the appellant failed to report substantial amounts of income.
+[113] With regard to the second condition, the amounts in question are significant and the appellant knew that she had stolen them from her employer. In these circumstances, the omission was made knowingly.
+Conclusion [114] In conclusion, limited adjustments should be made to the assessments. These adjustments are as follows:
+(a) For 2005, the appellant’s income should be reduced by $2,500 to take into account the discrepancy resulting from traveller’s cheques.
+(b) For 2005, the appellant’s income should be reduced by $800 to take into account additional cash deposits.
+(c) For 2006, the appellant’s income should be reduced by $9,060 to take into account the impact of cashing Sylvain’s paycheques.
+(d) For 2006, the appellant’s income should be reduced by $2,500 to take into account traveller’s cheques.
+[115] With respect to costs, given that the result is much more favourable to the respondent than to the appellant, the appellant shall pay the respondent’s costs in accordance with the Tariff.
+Signed at Ottawa, Ontario, this 30th day of June 2014.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 16th day of December 2014.
+Erich Klein, Revisor
+CITATION:
+2014 TCC 210
+COURT FILE NO.:
+2011-1464(IT)G
+STYLE OF CAUSE:
+MONIC BILODEAU v. THE QUEEN
+PLACE OF HEARING:
+Chicoutimi, Quebec
+DATE OF HEARING:
+April 8, 9 and 10, 2013
+ADDITIONAL SUBMISSIONS OF THE PARTIES RECEIVED BY THE COURT:
+May 29, June 28 and July 11, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+June 30, 2014
+APPEARANCES:
+Counsel for the appellant:
+Marie-Ève St-Cyr
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Marie-Ève St-Cyr
+Firm:
+Perron Bonneau
+Jonquière, Quebec
+[at time of hearing and additional submissions:
+Fradette, Gagnon, Têtu, Le Bel, Girard
+Chicoutimi, Quebec]
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Hearing transcript, page 581. The transcript of the three-day trial is numbered consecutively. The first day starts on page 1, the second day on page 221, and the third day on page 550. In cross-examination, it was suggested to Mr. Aziz that the appellant had said that she had made an offer to CÉPAL to settle everything for $20,000, but Mr. Aziz disagreed with that suggestion. I accept that the appellant told Mr. Aziz that she took about $20,000.
+[2] There are two other components that are not disputed.
+First, there are separate calculations for the difference between the real sales amount and the reported sales amount for the dining room for the period from July 25 to September 4, 2006, found at Tab 6 of Exhibit I-2; the summary of these calculations totalling $5,128.99 may be found at page 2 of that tab. Given that the amounts totalling $5,128.99 are among those that the appellant acknowledges that she appropriated (transcript, pages 6, 7, 15 and 16), it is not necessary that I examine that part of Ms. Morin’s analysis.
+Second, there is the component relating to three false cheques totalling $4,239.17, which is not disputed (transcript, pages 6, 7, 15 and 16). These amounts are at page 1 of Tab 8 of Exhibit I-2. It will not be necessary for me to examine this part of Ms. Morin’s calculations.
+[3] Transcript, pages 264 and 265.
+[4] Transcript, pages 265 and 266.
+[5] Transcript, pages 286 to 291.
+[6] Transcript, pages 286 to 291.
+[7] In fact, Ms. Morin’s total found at page 2 of Tab 9 of Exhibit I-2 is $23,950.34. However, the total at issue is $21,660.34 because, at the objection stage, the Minister accepted that there was justification for the withdrawal of $2,290 on July 27, 2006. This change is reflected in the assessment dated February 4, 2011 (Exhibit I-1, Tab 1, page 4).
+[8] The following amounts on page 2 of Tab 9 of Exhibit I-2 are not disputed:
+2006
+February 6: $1,367.99
+February 16: $523.12
+March 6: $1,006.47
+March 9: $975.99
+March 16: $562.26
+$4,435.83
+[9] I will come back to other aspects of the audit below. I also note that Mr. Aziz testified that there were some false entries that he had not included as sources of additional income and that are not at issue. Therefore, I do not have to decide whether or not the entries were false; but I note that—to the extent that these were the same entries that Ms. Morin believed to be false entries, which therefore would not justify certain withdrawals—even if they were false entries, they could not constitute additional income because, given that the corresponding withdrawals were included in the appellant’s income, this would result in counting the same amount twice.
+[10] This amount was calculated in two steps:
+(a) cash from sales which was not recorded on the deposit slips (Exhibit I-1, Tab 5)
+plus
+(b) cash recorded on the deposit slips, but not deposited (Exhibit I-1, Tab 6).
+These tabs correspond to paragraph 4(c) of the Reply to the Notice of Appeal.
+[11] Tab 9 corresponds to paragraph 4(d) of the Reply to the Notice of Appeal.
+[12] See paragraphs 18 to 21 of the appellant’s written submissions, which describe in detail the calculations the appellant believes the respondent should have done.
+[13] Transcript, pages 17 to 20.
+[14] Exhibits A-1, A-3 and A-4.
+[15] Exhibits A-2 and A-5.
+[16] Exhibit A-5.
+[17] The appellant was sentenced in November 2008 (Exhibit I-4), and the auditor started his work around May 2009 (Transcript, page 494).
+[18] Transcript, pages 494 to 496.
+[19] This is with respect to the amount of $2,290 for July 27, 2006, at Tab 9, referred to in footnote 7 above.
+[20] The Notice of Appeal states the following:
+[Translation]
+THE APPEAL IS FOR THE 2005 AND 2006 TAXATION YEARS. THE DISPUTED AMOUNT FOR THE 2005 TAXATION YEAR IS $7,742.86, ALL FEES INCLUDED, AS OF JANUARY 10, 2010, AND THE DISPUTED AMOUNT FOR THE 2006 TAXATION YEAR IS $18,019.94, ALL FEES INCLUDED, AS OF MARCH 4, 2011.
+NOTE THAT I AM DISPUTING ALL OF THESE FEES BECAUSE IT WAS AGREED BETWEEN THE DIRECTOR OF CRIMINAL AND PENAL PROSECUTIONS AND MY COUNSEL, JEAN-MARC FRADETTE, THAT THE AMOUNTS ALLEGEDLY OBTAINED BY FRAUD WERE INACCURATE. THEREFORE, BY MUTUAL AGREEMENT, I PLEADED GUILTY TO FRAUD OVER $5,000.00. THIS PLEA ENTAILED FOR THE COMPLAINANT THE OBLIGATION TO SHOW ITS ACTUAL LOSSES AND TO SUE IN A CIVIL COURT.
+NO CIVIL ACTION WAS EVER UNDERTAKEN; THEREFORE, MY COUNSEL CONCLUDED THAT THE SUPPOSED AMOUNTS WERE NOT LIQUIDABLE.
+WE EXPECT THAT ALL OF THESE AMOUNTS WILL BE CORRECTED.
+DO NOT HESITATE TO CONTACT ME IF YOU SHOULD REQUIRE FURTHER INFORMATION.
+SINCERELY,
+The Notice was drafted by the appellant and states that she will be represented by her counsel.
+[21] [1991] 3 S.C.R 326.
+[22] I note that the following question arises: would it have been possible for the appellant to obtain all of CÉPAL’s documents during the criminal proceedings under section 487.012 of the Criminal Code, which provides that a court may issue an order to produce documents to a third party? Although this provision was no doubt enacted in order to facilitate criminal investigations, at first glance I do not see why it could not be used by accused persons if they believed it to be to their advantage. If an accused obtained such an order, the Crown would be obliged under Stinchcombe to disclose the information obtained. Alternatively, the accused could try to convince Crown counsel to use it. The provision provides in part as follows:
+Production order
+487.012(1) A justice or judge may order a person, other than a person under investigation for an offence referred to in paragraph (3)(a),
+(a) to produce documents . . .
+(b) . . .
+. . .
+(3) Before making an order, the justice or judge must be satisfied, on the basis of an ex parte application containing information on oath in writing, that there are reasonable grounds to believe that
+(a) an offence against this Act or any other Act of Parliament has been or is suspected to have been committed;
+(b) the documents or data will afford evidence respecting the commission of the offence; and
+(c) the person who is subject to the order has possession or control of the documents or data.
+Obviously, the accused must be certain that this would be to his or her advantage or that it would not be prejudicial to him or her.
+[23] Exhibits A-1 to A-5.
+[24] Transcript, page 210.
+[25] See Exhibit I-2, Tab 9, pages 95 to 97. On page 95, there is a deposit of a cheque for $477.06, which covers part of a withdrawal of $1,506.23. This is also seen on page 96 and lastly on page 97, where there is a deposit of a cheque for $477.06 on May 31, 2006, the same date as the documents on the two preceding pages. Page 98 seems to be a duplicate of page 96.
+In Exhibit I-1, Tab 5, page 48, the net pay amount appears on a deposit slip dated August 11, 2006, because there is only one cheque on the slip, that of Sylvain, in the amount of $477.06.
+Sylvain’s name appears on the slips at pages 29, 36, 39 and 48 of Tab 5 of Exhibit I-1, and at page 81 (a duplicate of page 36 of Tab 5). The first of these slips with his name on them is dated July 10, 2006, and the last is dated August 11, 2006.
+[26] The amount of $477.06 appears on several bank statements also, but at irregular intervals corresponding more readily to a weekly pay period than to a longer period.
+[27] Indeed, at a net salary of about $477 per week, if this was being done at that time, there should have been more money missing during the period from September 20 to December 30, 2005 (Exhibit I-2, Tab 9, page 2). During that period, Ms. Morin calculated slightly more than $4,000 in unjustified withdrawals; during the same period, a weekly salary of $477 would work out to slightly over $7,000.
+[28] Exhibit I-2, Tab 9, page 80, bank statement.
+[29] I note also that CÉPAL was inactive for a while at the beginning of the winter.
+[30] August 11, 2006, was the last date for which Ms. Morin concluded there was an unjustified withdrawal. Accordingly, Sylvain’s subsequent pays cannot be relevant.
+[31] I note that, if we remove that amount from the amounts on page 2 of Tab 9 for the period from April 10 to August 11, 2006, only slightly over $2,000 in unjustified withdrawals remains (taking into account the fact that the CRA had already removed the amount for July 27, 2006).
+[32] See footnote 7 above.
+[33] Exhibit I-2, Tab 9, pages 109 and 110 (“R.C. 22”).
+[34] Exhibit I-1, Tab 5, slip at page 40.
+[35] The example of the deposit made on November 11, 2005, is not a valid example since Ms. Morin knew about the cheque and concluded that the supporting document, namely, the cheque for $526.05, was not valid given that a signature was forged (Exhibit I-2, Tab 9, pages 14 to 16). I note that the appellant testified that she had not forged the signature, but she did not call into question the fact that the signature was forged (transcript, page 95).
+[36] The two transactions of September 20, 2005, and the transaction of October 13, 2005.
+[37] Exhibit I-1, Tab 5, page 40.
+[38] For the period from September 1, 2005, to January 6, 2006, there are about 95.
+[39] Exhibit I-1, Tab 5, page 52.
+[40] Exhibit I-1, Tab 5, page 135; there are a number of cheques, and it is impossible to know the amount of this one.
+[41] In the arguments that I categorized as indications of errors, there is one related to petty cash cheques, and I will discuss it below.
+[42] Many of these arguments lead to conclusions such as [Translation] “it cannot be verified, it is possible that, there should be at least a portion in cash”, etc.
+[43] Appellant’s written submissions, paragraph 86.
+[44] Particularly, the reason given in paragraph 85 above.
+[45] As described at paragraph 86 of her written submissions.
+[46] Exhibit I-1, Tab 5, page 51.
+[47] At paragraph 86 of her written submissions.
+[48] More generally, I do not understand how the fact that a certain number of cheques received but not deposited could explain a difference between the amount of cash received and the amount of cash deposited.
+[49] The example is found at pages 14 and 15 of Tab 5 of Exhibit I-1. On page 15, it is indicated that there are receipts of $311 in cash, but on the deposit slip of the same date on page 14, the cash deposit is only $198.75. According to the appellant, the difference is in traveller’s cheques, and this is reflected in the word “Amex” marked on the slip.
+[50] I note that “Amex” appears very rarely on the deposit slips.
+[51] See, in particular, paragraphs 38, 40, 48 and 55 of the appellant’s written submissions.
+[52] I am rounding it off for the simple reason that this was not a precise calculation. According to Tab 5, during the period at issue receipts in cash were a little over $100,000, slightly more than half of that in one year and a little less in the other. The calculation is 5% x $100,000 = $5,000, which amount is divided equally between 2005 and 2006.
+[53] The year for which Ms. Morin’s analysis was more summary.
+[54] See paragraphs 31 to 33, 44 to 47 and 50 to 52 of the appellant’s written submissions.
+[55] I consider that such a minimal amount is reasonable because the amounts for receipts in cash and cheques can be seen in the summaries of cash register readings for September to December 2005 (Exhibit I-1, Tab 5, pages 57, 96, 125 and 145). One sees that there are many more cheques than there is cash. In the month when the cash-to-cheque ratio is the lowest, about 8% of receipts are in cash; in the month in which that ratio is the highest, about 20% of receipts are in cash. In September, the month with the majority of the deposits in question, the ratio is about 15%. An amount of $800 represents slightly more than 15% of the total.
+[56] This may be done in two ways: either by demonstrating that the method is so erroneous that it cannot be used or by showing such a degree of error in its application that it cannot be used in the particular case.

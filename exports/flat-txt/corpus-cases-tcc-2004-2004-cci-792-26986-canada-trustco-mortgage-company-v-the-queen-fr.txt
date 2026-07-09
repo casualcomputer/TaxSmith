@@ -1,0 +1,315 @@
+Title: Canada Trustco Mortgage Company v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26986/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-792-26986-canada-trustco-mortgage-company-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-12-17
+
+# Canada Trustco Mortgage Company v. The Queen
+
+- Citation: 2004 CCI 792
+- Decision date: 2004-12-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 531, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canada Trustco Mortgage Company v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-17
+Référence neutre
+2004 CCI 792
+Numéro de dossier
+2003-3554(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3554(GST)G
+ENTRE :
+HYPOTHÈQUES TRUSTCO CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu du 29 novembre 2004 au 2 décembre 2004, à Toronto (Ontario).
+Devant : L'honorable D.G.H. Bowman, juge en chef adjoint
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Sean Aylward
+Me D'Arcy Schieman
+Avocats de l'intimée :
+Me David Chodikoff
+Me John McLaughlin
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 19 août 2002 et porte le numéro 08BP0104415, est accueilli avec dépens et la cotisation est renvoyée au ministre du Revenu national pour qu'il l'examine à nouveau et établisse une nouvelle cotisation conformément aux motifs du jugement, compte tenu du fait que la portion des sommes payées par les fiducies mentionnées dans l'exposé conjoint des faits, sur laquelle s'est appuyé le ministre pour établir la cotisation de taxe sur les produits et services, fait partie de la contrepartie versée pour des services financiers exonérés, et compte tenu également de la concession faite par l'intimée au cours de l'instruction en ce qui concerne les titres adossés à des créances hypothécaires et assurés sous le régime de la Loi nationale sur l'habitation.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2004.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 14e jour de septembre 2005.
+Sara Tasset
+Référence : 2004CCI792
+Date : 20041217
+Dossier : 2003-3554(GST)G
+ENTRE :
+HYPOTHÈQUES TRUSTCO CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Le présent appel vise une cotisation de taxe sur les produits et services ( « TPS » ) établie en vertu de la Loi sur la taxe d'accise ( « LTA » ) par le ministre du Revenu national pour la période allant du 1er janvier 1997 au 31 décembre 1998.
+[2] Il s'agit de savoir si de la TPS est exigible au titre d'une partie des paiements faits à Hypothèques Trustco Canada ( « HTC » ou l' « appelante » ) par trois fiducies auxquelles elle a vendu des blocs de prêts hypothécaires à l'habitation. Le ministre du Revenu national a établi une cotisation de TPS calculée de la façon énoncée plus loin. Il a considéré que les sommes assujetties à la taxe constituaient des frais de gestion des prêts hypothécaires et n'étaient pas visées par l'expression « service financier » telle qu'elle est définie dans la Loi, parce qu'elles concernent des services de gestion ou d'administration fournis à des fiducies dont l'activité principale consiste à investir des fonds. L'appelante soutient qu'aucune partie des sommes n'est assujettie à la taxe et elle avance un certain nombre de raisons à l'appui de cette assertion.
+[3] HTC exploite une entreprise de prêts d'argent garantis par des hypothèques. Elle doit emprunter de l'argent à cette fin. Le taux d'intérêt qu'elle paye sur ces sommes empruntées est tributaire, du moins en partie, du genre d'actifs donnés en garantie de son emprunt. HTC conclut donc des conventions qualifiées d' « opérations de titrisation des créances » . Ces opérations consistent à transférer les actifs les mieux garantis (comme les prêts hypothécaires à l'habitation) à une entité distincte (en l'espèce, une fiducie) et à faire en sorte que cette entité réunisse des fonds sur le marché des billets de trésorerie. Le risque relativement plus faible associé à de tels actifs permet de prêter l'argent à un taux d'intérêt moins élevé que celui qui aurait été exigé si le billet de trésorerie avait été émis directement par HTC.
+[4] La vente des prêts hypothécaires aux fiducies nécessitait le transfert de la propriété effective, lequel était inextricablement lié à une convention par laquelle HTC s'engageait à assurer la gestion des prêts hypothécaires. Cela englobait le recouvrement et la comptabilisation des paiements faits au titre des prêts ainsi que les opérations touchant les manquements, les forclusions et le renouvellement des hypothèques. HTC continuait d'assumer le risque économique lié aux pertes découlant des prêts hypothécaires. HTC assurait la gestion des prêts hypothécaires pour le compte des fiducies. La vente ne changeait rien pour le débiteur hypothécaire. Le transfert n'était pas enregistré au bureau d'enregistrement et le débiteur hypothécaire n'avait normalement aucune raison de connaître l'existence des fiducies.
+[5] Il est évident que HTC fournissait aux fiducies des services liés à la vente des prêts hypothécaires. Ce point n'est toutefois pas en litige. Ce sont les questions suivantes qui le sont :
+1) La principale activité des fiducies consiste-t-elle à investir des fonds?
+2) La vente et la gestion des prêts hypothécaires sont-ils les deux éléments d'une fourniture unique ou s'agit-il de deux fournitures distinctes?
+3) Dans ce dernier cas, la gestion des prêts hypothécaires était-elle accessoire à leur vente et les deux fournitures étaient-elles vendues aux fiducies pour une contrepartie unique comme il est prévu à l'article 138 de la LTA?
+4) L'article 139 de la LTA a-t-il pour effet d'exonérer la fourniture des services?
+[6] Je débute l'analyse par une brève description du régime législatif dont relève la présente affaire. Le paragraphe 165(1) de la LTA impose à l'acquéreur d'une fourniture taxable une taxe calculée au taux de sept pour cent de la valeur de la contrepartie de la fourniture. Le terme « fourniture » est défini à l'article 123 comme la livraison de biens ou la prestation de services. Une fourniture taxable est une fourniture effectuée dans le cadre d'une activité commerciale. La définition de l'expression « activité commerciale » exclut la réalisation de fournitures exonérées, lesquelles sont définies comme les fournitures visées par l'annexe V. La partie VII de cette annexe, dans la mesure où elle s'applique en l'espèce, renvoie à la fourniture de services financiers. Le terme « service financier » est défini en détail au paragraphe 123(1). Les avocats des deux parties reconnaissent que la vente de prêts hypothécaires par HTC aux fiducies de même que la gestion de ces prêts constituent la fourniture de services financiers, sous réserve uniquement de la thèse de l'intimée voulant que, selon la définition donnée au paragraphe 123(1), le terme « service financier » ne comprenne pas :
+q) l'un des services suivants rendus à une personne morale, à une société de personnes ou à une fiducie dont l'activité principale consiste à investir des fonds, par une personne qui lui rend des services de gestion ou d'administration :
+(i) un service de gestion ou d'administration,
+(ii) tout autre service (sauf un service prévu par règlement)[1].
+[7] Selon la thèse de l'appelante, la gestion des prêts hypothécaires ne tombe pas sous le coup de l'exception prévue à l'alinéa q). L'appelante soutient en outre que, même dans le cas contraire, le paiement fait partie d'une contrepartie unique mixte visant une fourniture exonérée. L'appelante invoque également l'article 138 de la LTA, dont voici le texte :
+Fournitures accessoires- Pour l'application de la présente partie, le bien ou le service dont la livraison ou la prestation peut raisonnablement être considérée comme accessoire à la livraison ou à la prestation d'un autre bien ou service est réputé faire partie de cet autre bien ou service s'ils ont été fournis ensemble pour une contrepartie unique.
+[8] À titre subsidiaire, l'appelante s'appuie sur l'article 139 :
+Services financiers dans une fourniture mixte - Pour l'application de la présente partie, dans le cas où au moins un service financier est fourni avec au moins un service non financier ou un bien qui n'est pas une immobilisation du fournisseur, pour une contrepartie unique, la fourniture de chacun des services et biens est réputée être une fourniture de service financier si les conditions suivantes sont réunies :
+a) le service financier est lié au service non financier ou au bien;
+b) le fournisseur a l'habitude de fournir ces services ou des services semblables, ou des biens et des services semblables, ensemble dans le cours normal de son entreprise;
+c) le total des montants dont chacun représenterait la contrepartie d'un service financier ainsi fourni, s'il était fourni séparément, compte pour plus de la moitié du total des montants dont chacun représenterait la contrepartie d'un service ou d'un bien ainsi fourni, s'ils étaient fournis séparément.
+[9] J'ai présenté plus haut une version quelque peu écourtée des faits afin d'énoncer les questions en litige. Un exposé plus détaillé des faits se trouve dans l'exposé conjoint partiel des faits ( « ECF » ) qui est joint aux présents motifs, à l'annexe A. Un grand nombre de documents ont également été mis en preuve. Il s'agit pour l'essentiel de documents relatifs à la création de la SMART TRUST, de la PURE TRUST et de la MASTER TRUST et de la vente à ces dernières des prêts hypothécaires à l'habitation par HTC. Il est entendu que la SMART TRUST est représentative des autres. Je ne ferai donc état que des documents qui la concernent.
+[10] Il convient d'apporter deux autres précisions préliminaires :
+a) Le paragraphe 18 de l'ECF fait mention de blocs de titres adossés à des créances hypothécaires et assurés sous le régime de la Loi nationale sur l'habitation. Les actes de procédure, aux paragraphes 24 à 27 de l'avis d'appel, soulèvent une question quant aux frais payés relativement à la vente de blocs de ces prêts hypothécaires au grand public. L'intimée a reconnu que la cotisation de TPS touchant ces frais devait être supprimée.
+b) Au paragraphe 23 de l'ECF, il est mentionné que l'appelante, dans ses états financiers pour 1997, a consigné comme « frais de gestion normaux » une somme correspondant à 125 points de base plutôt qu'à 25 points de base. Le ministre a établi la cotisation de TPS en tenant compte de la somme fondée sur les 125 points de base. Il est reconnu qu'il s'agit d'une erreur et que, même si la thèse de l'intimée est par ailleurs confirmée, une somme égale à la portion du paiement représenté par les 100 points de base supplémentaires devra être défalquée de la somme sur laquelle la TPS a été imposée.
+[11] Voici donc la première question à trancher : L'alinéa q) de la définition de l'expression « service financier » donnée au paragraphe 123(1) s'applique-t-il en l'espèce? HTC fournit des services de gestion ou d'administration à une fiducie. La SMART TRUST est-elle une fiducie dont l'activité principale consiste à investir des fonds ( « [...] a trust whose principal activity is the investing of funds » )? Les avocats de l'appelante affirment que les activités de la SMART TRUST ne visent pas à gagner un profit et que le terme « investir » implique l'existence d'une volonté de faire des profits. Par conséquent, son activité principale ne consiste pas à investir des fonds, mais simplement à agir comme conduit afin de réunir des fonds pour HTC ou les autres institutions qui lui vendent des actifs dans le cadre d'opérations analogues de titrisation des créances. Il s'agit simplement d'un mécanisme de financement.
+[12] Je ne puis accepter cette assertion. L'article deux de la déclaration de fiducie prévoit :
+[TRADUCTION]
+ARTICLE DEUX
+ACTIVITÉS DE LA FIDUCIE
+Section 2.01 Activités de la fiducie. Les activités de la fiducie visent à produire un revenu au profit du bénéficiaire. Les activités de la fiducie consistent en l'achat, en l'acquisition, en la création et en l'administration des intérêts afférents à des actifs que la fiducie achète ou acquiert par ailleurs ou qu'elle crée en vue d'en tirer un revenu; cet achat, cette acquisition ou cette création doit être financée par l'émission, le cas échéant, de billets conformément aux modalités de l'acte de fiducie, sous réserve des conditions des ententes concernant le programme; ses activités consistent également en toutes les activités raisonnablement accessoires à ce qui précède ou nécessaires en ce qui a trait à l'exécution, par la fiducie, des obligations qui lui incombent aux termes des ententes concernant le programme. Les activités de la fiducie sont réputées avoir été établies à la date de l'achat, de l'acquisition ou de la création du premier des intérêts afférents à un élément d'actif par la fiducie, et non à une date antérieure. La fiducie ne peut se livrer, directement ou indirectement, à des activités autres que celles mentionnées dans la présente section 2.01.
+[13] Le bénéficiaire mentionné dans cet article est Centraide, un organisme de bienfaisance. Comme il est énoncé dans la déclaration de fiducie, celle-ci a pour objet de gagner un profit, quoique modeste (10 000 $), en vue de le distribuer au bénéficiaire. Tout ce qui reste est remis à HTC conformément à l'entente cadre de vente hypothécaire.
+[14] Indépendamment de la déclaration figurant à l'article deux de l'objet de la fiducie, je ne crois pas que la recherche de profit soit nécessairement un aspect essentiel d'un investissement. Les avocats ont renvoyé à un certain nombre de définitions tirées de dictionnaires qui donnent à entendre que le fait d'investir implique le placement d'argent en vue de faire des profits, mais tous les dictionnaires généraux, qu'ils soient en français ou en anglais, n'étayent pas ce point de vue. Dans la plupart des cas, on investit afin de réaliser un profit, mais lorsque le mot est employé seul, il n'y a pas lieu, selon moi, d'ajouter les termes « en vue de tirer un profit » . Le législateur est parfaitement capable de préciser qu'il exige la recherche de profit lorsque c'est là sa volonté (par exemple, à l'aide des expressions « dans une attente raisonnable de profit » ou « en vue de tirer un revenu » ). Je n'estime pas raisonnable de laisser entendre que l'activité principale d'une institution qui emprunte deux milliards et demi de dollars du grand public et achète avec cette somme des prêts hypothécaires ou d'autres titres produisant un rendement supérieur à l'intérêt qu'elle verse ne consiste pas à « investir des fonds » .
+[15] Je me penche maintenant sur la question suivante. La vente et la gestion des prêts hypothécaires sont-elles les deux éléments d'une seule et même fourniture ou s'agit-il de deux fournitures distinctes? Cette question n'est pas la même que celle de savoir si nous avons affaire à deux fournitures distinctes lorsque l'une de ces fournitures est accessoire à l'autre. La seconde question ne se pose pas dans le contexte de cette première question en litige, bien qu'elle soit pertinente lorsqu'il faut tenir compte de la possible application de l'article 138.
+[16] Il existe une jurisprudence abondante en matière de fourniture unique. Je ne peux faire mieux que renvoyer à la décision de principe O.A. Brown Ltd. c. Canada, [1995] G.S.T.C. 40, prononcée par le juge Rip. Dans cette affaire, l'appelante a acheté du bétail pour ses clients, non à titre de mandataire, mais de son propre chef. Elle a exigé des clients des débours, une commission de compensation ainsi que le coût du bétail. Le ministre a établi une cotisation de TPS relativement à la commission et à d'autres débours.
+[17] Le juge Rip a mentionné ce qui suit aux paragraphes 20 à 23 :
+La loi sur la TPS n'existe que depuis peu de temps au Canada et les tribunaux canadiens ne se sont pas prononcés sur ce qui peut constituer une fourniture unique ou une fourniture multiple aux fins de la TPS. La loi britannique sur la taxe à la valeur ajoutée contient de nombreuses dispositions semblables à celles de la Loi sur la TPS. Dans les arrêts anglais, la question a été définie comme étant celle de savoir si la fourniture en question comprend une fourniture mixte ou une fourniture multiple. Une fourniture mixte comprend un certain nombre d'éléments constitutifs dont certains, s'ils étaient fournis séparément, seraient taxés et d'autres pas. En ce qui concerne ces types de fournitures, il est nécessaire de déterminer la qualité de la fourniture mixte finale, aux fins de la taxe, indépendamment de ses éléments constitutifs. Une fourniture multiple a été définie comme une opération comportant la fourniture d'un certain nombre de produits ou de services susceptibles d'être séparés. Chaque fourniture doit être considérée comme une fourniture indépendante aux fins de la taxe, la contrepartie unique étant répartie entre les fournitures séparées de la façon appropriée.
+En tranchant cette question, il est d'abord nécessaire de décider ce qui a été fourni en contrepartie du paiement. Il faut alors se demander si la fourniture globale est composée d'une seule fourniture ou de plus d'une fourniture. Le critère qui ressort de la jurisprudence anglaise est de savoir si, au fond et en réalité, la présumée fourniture séparée fait partie intégrante ou est un élément constitutif de la fourniture globale. Il faut examiner la nature véritable de l'opération pour en déterminer les attributs fiscaux. Le critère a été énoncé par le Value Added Tax Tribunal de la façon suivante :
+[TRADUCTION]
+À notre avis, lorsque les parties concluent une opération en vertu de la laquelle une partie remet une fourniture à l'autre, la taxe (le cas échéant) exigible à cet égard doit être déterminée par rapport au fond de l'opération, mais le fond de l'opération doit être déterminé par rapport au caractère réel des accords conclus entre les parties.
+Un facteur à prendre en considération est de savoir s'il est possible, en réalité, d'enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n'est pas concluant, mais il aide à déterminer le fond de l'opération. Cette position a été formulée dans les termes suivants :
+[TRADUCTION]
+Ce qui devrait constituer une fourniture unique de services, par opposition à deux fournitures séparées, n'est pas établi expressément par les textes législatifs concernant la taxe sur la valeur ajoutée. Il serait donc erroné de tenter de proposer une définition stricte et précise non fondée sur la loi. Il nous semble qu'il faut simplement appliquer le libellé de la loi, en interprétant les termes qui y sont employés, dans la mesure où le sens ordinaire des mots le permet, de façon à faire du régime légal de la taxe sur la valeur ajoutée un régime pratique qui fonctionne bien. À cette fin, il faudrait se demander dans quelle mesure les services qui constitueraient apparemment une fourniture unique sont liés les uns aux autres, quelle est l'étendue de leur interdépendance et de leur enchevêtrement, et si chaque service fait partie intégrante d'un ensemble complet ou en constitue un élément. Il faut se demander si les services sont rendus en vertu d'un seul contrat, ou pour une seule contrepartie non divisée, mais, pour les motifs susmentionnés, ce facteur n'est pas concluant. Compte tenu de la nature, du contenu et de la méthode d'exécution des services, et de toutes les circonstances, par rapport à l'historique du régime de la taxe sur la valeur ajoutée et, en particulier, des méthodes employées pour comptabiliser et payer la taxe, s'il est jugé que les services sont si interdépendants et si enchevêtrés qu'ils font partie intégrante d'un ensemble complet ou en constituent de simples éléments ou composantes à un point tel qu'ils ne peuvent pas, aux fins de la taxe sur la valeur ajoutée, être raisonnablement considérés comme des fournitures séparées de services, il faut considérer qu'en adoptant le régime de la taxe sur la valeur ajoutée, le Parlement a voulu le traiter comme un régime unique; autrement, ces services devraient être considérés, aux fins de la taxe sur la valeur ajoutée, comme des fournitures séparées.
+Le fait que des frais sont exigés séparément à l'égard d'un élément d'une fourniture mixte ne modifie pas les attributs fiscaux de celui-ci. La question de savoir si la taxe est exigée est régie par la nature de la fourniture. Dans chaque cas, il est utile de se demander s'il serait possible d'acheter chacun des divers éléments séparément et d'obtenir néanmoins un article ou service utile. Car si cela n'est pas possible, il faut alors nécessairement conclure qu'une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause.
+Ce passage a été approuvé par la Cour d'appel fédérale dans l'arrêt Hidden Valley Golf Resort Assn. c. La Reine, [2000] G.S.T.C. 42.
+[18] L'approche suivie par le juge Rip dans la décision O.A. Brown n'était pas tributaire de l'application des dispositions particulières des articles 138 ou 139. Cette décision repose plutôt sur la prémisse selon laquelle il faut établir une distinction entre les fournitures multiples et la fourniture unique.
+[19] La position administrative de l'Agence du revenu du Canada est exposée dans la publication du 26 avril 2004 intitulée P-077R2 - Fourniture unique et fournitures multiples. Une partie de cette publication est reproduite ci-dessous :
+Question
+Établir si une opération composée de plusieurs éléments consiste en une fourniture unique ou en deux fournitures ou plus. Il est important de faire la distinction entre les deux dans les situations où une combinaison d'éléments est fournie, et dont certains de ces éléments sont taxables à 7 % ou 15 %, et d'autres seraient détaxés ou exonérés de la TPS/TVH, s'ils étaient fournis séparément.
+Décision
+La position de l'Agence du revenu du Canada (ARC), aux fins de la TPS/TVH, est la suivante : pour établir si une opération composée de plusieurs éléments doit être considérée comme une fourniture unique ou des fournitures multiples, il faut d'abord faire appel à un processus de détermination des faits.
+Pour établir si une opération composée de plusieurs éléments doit être considérée comme une fourniture unique ou des fournitures multiples, l'ARC se basera sur les principes suivants.
+1. Chaque fourniture doit être considérée comme distincte et indépendante.
+2. La fourniture qui est une fourniture unique du point de vue économique ne devrait pas être une fourniture fractionnée artificiellement.
+3. Il y a fourniture unique lorsqu'un élément ou plus constituent la fourniture et que tout élément restant sert seulement à améliorer la fourniture.
+Exposé
+Commentaires généraux
+Ce qui suit énonce la façon dont il faut appliquer les principes précités afin d'établir si une opération particulière consiste en une fourniture unique ou en plusieurs fournitures. Cependant, il est difficile de donner des directives qui viseront toutes les éventualités étant donné les diverses situations, tant dans le commerce traditionnel qu'électronique, où on peut se poser la question à savoir si une fourniture unique et des fournitures multiples sont effectuées.
+Des fournitures multiples sont effectuées lorsqu'un ou plusieurs des éléments peuvent raisonnablement ou concrètement être détachés.
+[20] Pour que le principe énoncé dans la décision O.A. Brown s'applique, il doit exister un lien inextricable entre les deux éléments de sorte qu'ils fassent à ce point partie intégrante d'un ensemble complet, au regard de la réalité commerciale, qu'ils ne peuvent pas être raisonnablement considérés comme des fournitures distinctes. Pour décider si ces critères sont respectés, il faut examiner un certain nombre de faits qui varient d'un cas à l'autre. En l'espèce, il y a eu une vente de prêts hypothécaires dont la gestion fait non seulement partie intégrante de l'opération, mais constitue également une exigence sur le plan commercial. Une relation commerciale étroite existe entre HTC et les fiducies. En effet, outre qu'elle détient en fiducie le titre hypothécaire enregistré pour le compte des fiducies, HTC fournit aussi les services qui sont justement essentiels à la viabilité commerciale de l'investissement des fiducies. En réalité, il serait commercialement impossible et contraire à la raison d'être de l'opération que quiconque autre qu'HTC se charge de la gestion des prêts hypothécaires.
+[21] À mon avis, compte tenu de ce qui précède, il s'agit en l'espèce d'une fourniture unique du genre visé dans la décision O.A. Brown.
+[22] Cette conclusion suffit pour trancher le présent litige. Je vais néanmoins, par respect pour les arguments des avocats, examiner les thèses et les arguments subsidiaires avancés. Manifestement, à tout le moins pour les besoins de la présente affaire, les dispositions législatives et la jurisprudence prévoient trois catégories de fourniture (ou fournitures) :
+a) Les fournitures uniques composées de deux ou plusieurs éléments qui sont « inextricablement liés l'un à l'autre » et « interdépendants et enchevêtrés [...] » (principe énoncé dans la décision O.A. Brown);
+b) Les fournitures accessoires du genre mentionné à l'article 138. L'application de cette disposition se fonde sur l'existence de deux services ou biens fournis pour une contrepartie unique, dont l'un est accessoire à la fourniture de l'autre bien ou service. Je qualifierai ces fournitures de fourniture dominante et de fourniture subordonnée;
+c) La catégorie mentionnée à l'article 139 voulant que les services financiers fournis avec des services non financiers pour une contrepartie unique constituent une fourniture mixte. Un certain nombre de conditions doivent être réunies pour que l'article 139 s'applique : les services financiers sont liés aux services non financiers, le fournisseur a l'habitude de fournir ces services dans le cours normal de son entreprise et la portion de la contrepartie remise pour les services financiers compte pour plus de la moitié du montant total de la contrepartie.
+[23] À mon sens, il ressortira sans équivoque que la ligne de démarcation entre ces catégories n'est pas toujours aisée à tracer. Les trois catégories - les fournitures uniques composées de plusieurs éléments, les fournitures multiples où l'une des fournitures est dominante et les autres sont subordonnées ou accessoires et, enfin, les fournitures mixtes composées de services financiers et non financiers - peuvent se chevaucher plutôt facilement selon que l'accent est subtilement mis sur un aspect ou sur un autre.
+[24] Je me pencherai donc sur la possible application des articles 138 et 139. Une des conditions prévues par l'article 138 touche à l'existence d'une contrepartie unique. Suivant une autre condition, une fourniture doit être accessoire à l'autre. La contrepartie pour la gestion effectuée en l'espèce n'est pas fixée pour constituer des frais distincts : il est prévu qu'elle fait partie du prix d'achat ou qu'elle permet d'ajuster celui-ci. L'article deux de l'entente cadre de vente hypothécaire intervenue entre SMART TRUST et HTC oblige cette dernière à donner à la fiducie un avis d'achat énonçant les modalités des prêts hypothécaires qu'elle se propose de lui vendre. Voici le texte de la section 2.02 :
+[TRADUCTION]
+Acceptation de prêts hypothécaires. Si la fiducie accepte les conditions énoncées dans l'avis d'achat, elle doit signifier son acceptation en faisant en sorte que le représentant administratif signe et retourne l'avis d'achat au vendeur au moins deux jours ouvrables avant la date de clôture prévue qui est mentionnée dans l'avis d'achat (ou tout délai plus court convenu par la fiducie et le vendeur). Si la fiducie omet d'accepter l'avis d'achat dans le délai imparti, elle sera réputée avoir refusé l'achat. L'acceptation, par la fiducie, d'un avis d'achat donne naissance - sous réserve du respect, par le vendeur, des conditions préalables énoncées aux sections 3.01(2) et (3) - à une convention ayant force obligatoire entre la fiducie et le vendeur concernant l'achat des prêts hypothécaires qui y sont énoncés à un prix égal au paiement de clôture, moins la somme déposée par le vendeur conformément à la section 3.01(3), plus les sommes exigibles par le vendeur au titre du montant différé, dans chaque cas, relativement à un tel achat.
+La section 5.01 de l'article cinq est ainsi rédigée :
+[TRADUCTION]
+Achats avec gestion.Toutes les ventes de prêts hypothécaires acquis faites aux termes de la présente convention sont assorties d'un service de gestion, c'est-à-dire que la fiducie n'est nullement tenue d'assurer la gestion des prêts hypothécaires acquis, de recouvrer les paiements auxquels ils donnent lieu ni de verser une autre compensation au vendeur pour les services qui s'y rapportent, conformément à ce qui est prévu aux présentes. Le vendeur reconnaît qu'il est responsable de la gestion des prêts hypothécaires acquis jusqu'à ce que la fiducie désigne un gestionnaire en application de la section 8.03 et il reconnaît en outre que, jusqu'à ce moment, il s'acquittera de cette responsabilité en exécutant les obligations qui lui incombent aux termes des présentes ou en désignant un représentant, acceptable aux yeux de la fiducie, qui sera chargé de remplir ces obligations en son nom. S'il désigne un représentant pour exécuter les obligations qui lui incombent aux termes des présentes, le vendeur demeure néanmoins responsable de l'exécution de ses obligations par le représentant et demeure responsable envers la fiducie de tout défaut dans l'exécution de ces obligations par ce représentant.
+L'article six prévoit notamment ce qui suit :
+[TRADUCTION]
+Affectation du produit des prêts hypothécaires. (1) À chaque date de règlement, la fiducie doit affecter, sur la totalité des sommes déposées dans le compte de recouvrement, (i) au titre du capital conformément aux sections 2.04, 4.02, 5.02(1)(a), 5.03(3), 7.03, 7.04, 7.06, 8.05 et 8.07; et (ii) à la suite de n'importe quel retrait effectué par la fiducie sur le produit de l'émission d'effets subordonnés, en remboursement de ses obligations principales actuelles au titre des effets prioritaires ou de l'entente relative à la liquidité, selon le cas, à ce moment, une somme qui aura pour effet de réduire le montant du programme à une somme équivalant à la valeur comptable nette globale de tous les prêts hypothécaires acquis qui ne sont pas en souffrance à la date de règlement.
+(2) À chaque date de règlement, la fiducie doit affecter le solde des sommes déposées dans le compte de recouvrement de la façon suivante :
+a) premièrement, au choix de la fiducie, au paiement de n'importe quel détenteur d'une opposition mentionnée à la section 5.03(2), dans la mesure où le vendeur est réputé avoir reçu un recouvrement en application de cette clause mais n'a pas fait le paiement exigé par la section 5.03(3);
+b) deuxièmement, au remboursement de n'importe quelle somme payée par le vendeur conformément à la section 5.04;
+c) troisièmement, au paiement des obligations en matière de financement que la fiducie a contractées pendant la période qui débute, quant à la première date de règlement, à la date de clôture connexe et, quant à chaque date de clôture subséquente, au jour suivant la date de règlement immédiatement précédente, et qui se termine, dans chaque cas, à la date de règlement aux termes, d'une part, des billets prioritaires et de l'entente relative à la liquidité, selon le cas, au titre du montant du programme à la date de règlement immédiatement précédente et de toute opération de couverture connexe (sauf l'échange financier) conclue par la fiducie, et, d'autre part, des billets subordonnés;
+d) quatrièmement, au paiement de n'importe quel montant du règlement (tel que ce terme est défini dans une quelconque entente constatant l'existence d'un échange financier) payable à la fiducie relativement à la période de règlement immédiatement précédente;
+e) cinquièmement, au paiement des frais exigés par le gestionnaire relativement à la période de règlement immédiatement précédente;
+f) sixièmement, au paiement des frais totaux du programme payables à la fiducie pour la période qui débute, quant à la première date de règlement, à la date de clôture connexe et, quant à chacune des dates de règlement subséquentes, au jour suivant la date de règlement immédiatement précédente, et qui se termine dans chaque cas à cette date de règlement;
+g) septièmement, au remboursement de n'importe quelle somme retirée par la fiducie sur le produit de l'émission des billets subordonnés qui demeurent impayés à cette date.
+(3) Le solde des sommes détenues dans le compte de recouvrement après l'application de la section 6.01(2) est versé au vendeur au moyen d'un dépôt au compte d'achat différé à titre d'ajustement du prix d'achat des prêts hypothécaires acquis. La fiducie doit, au nom du vendeur, affecter ces sommes à chacune des dates de règlement, de la façon suivante :
+a) premièrement, par rétention dans le compte d'achat différé (et placement de cette somme dans des investissements permis par la fiducie émettrice, le rendement obtenu devant être conservé dans ce compte) d'une somme égale à la somme globale requise au titre de l'ADP à cette date;
+b) deuxièmement, au paiement de n'importe quelle somme exigible du vendeur aux termes des présentes, à titre d'ajustement du prix d'achat des prêts hypothécaires acquis;
+c) enfin, sous réserve de la section 6.01(4), au paiement du solde au vendeur, au titre des montants différés, par un virement télégraphique ou par tout autre moyen convenu entre les parties.
+[25] Les passages ci-dessus constituent l'entente intervenue entre les parties et, en l'absence de preuve montrant que l'entente est différente, ils établissent de manière irréfutable que la contrepartie pour la vente des prêts hypothécaires et leur gestion était une contrepartie unique.
+[26] L'intimée avance toutefois qu'une écriture dans les états financiers de HTC établit l'existence d'une contrepartie distincte égale à 25 points de base sur la valeur nominale des prêts hypothécaires. La note suivante figure dans les états financiers de HTC pour 1997 et 1998 :
+[TRADUCTION]
+(f) Titrisations
+Lorsque des blocs de prêts sont vendus à des structures d'accueil à des conditions ayant pour effet de transférer les risques et les avantages importants de la propriété à des tiers, l'opération est considérée comme une vente et les éléments d'actif des prêts connexes sont supprimés du bilan. Les gains réalisés sur ces ventes sont consignés à titre d'autre revenu dans l'état des résultats uniquement lorsque des fonds ont été reçus et qu'ils ne font l'objet d'aucune garantie. Les honoraires gagnés au titre de la gestion du portefeuille de prêts sont consignés comme des frais dans l'état des résultats au fur et à mesure qu'ils sont gagnés.
+[27] Il ressort sans équivoque de deux lettres envoyées à l'appelante par des fonctionnaires de l'ARC que le ministre s'est fié sur les états financiers de HTC. M. E.H. Gauthier, sous-commissaire adjoint, a écrit ce qui suit le 2 juillet 2002 :
+[TRADUCTION]
+L'ADRC reconnaît que l'une des questions à se poser pour déterminer l'existence d'une contrepartie unique est la question de savoir si des frais distincts sont exigés au titre de la fourniture non exonérée. Cependant, l'ADRC n'accepte pas que seule l'entente entre les parties permette de décider si des frais distincts ont été exigés. L'ADRC examine tous les renseignements pertinents, y compris les livres et les documents d'un inscrit pour décider de la situation fiscale d'une opération. Selon le « Sommaire des conventions comptables importantes (note 1 des états financiers) » joint à vos propres états financiers, « Les honoraires gagnés au titre de la gestion du portefeuille de prêts sont consignés dans l'état des résultats au fur et à mesure qu'ils sont gagnés. » Cela laisse entendre que de véritables frais distincts, et non seulement des frais théoriques, sont exigés pour la gestion des hypothèques, même si l'entente est équivoque sur ce point. Pour cette raison, l'article 139 ne peut pas s'appliquer pour exonérer la fourniture du service de gestion des prêts hypothécaires.
+De même, le 29 février 2000, M. Drew Burrell écrivait :
+[TRADUCTION]
+Le fait que l'entente cadre de vente hypothécaire ne précise pas la contrepartie exigée pour la fourniture du service de gestion des prêts hypothécaires n'est pas un facteur permettant de conclure que le service de gestion est en réalité fourni pour une contrepartie nulle ou pour une contrepartie unique faisant partie de la contrepartie fixée au titre de la vente des hypothèques. Selon les états financiers de HTC, les frais de gestion constituent un élément fondé sur les normes établies par le BSIF et l'article 3860 du Manuel de l'I.C.C.A. Les notes jointes aux états financiers signalent que les « les frais de gestion normaux sont considérés comme un autre revenu dans l'état des résultats lorsqu'ils sont perçus » . Les sommes consignées comme des frais d'administration des titres adossés à des créances hypothécaires dans le compte du grand livre général 3150 se fondent sur les rentrées de fonds au titre de l'intérêt affectées conformément aux modalités prévues par l'entente.
+[28] Il n'existe selon moi aucun fondement pour que l'intimée suppose qu'une note jointe aux états financiers d'une partie à une opération qui n'est même pas la personne principalement responsable de la TPS puisse l'emporter sur les intentions des deux parties constatées dans l'entente intervenue entre elles. Il ressort de la preuve que les 25 points de base se fondaient sur les lignes directrices publiées par le Bureau du surintendant des institutions financières ( « BSIF » ) en ce qui touche les titres adossés à des créances hypothécaires et assurés sous le régime de la Loi nationale sur l'habitation. Manifestement, ils ne reposent sur aucune entente conclue entre HTC et la fiducie. Rien ne permet de croire que la fiducie ou son administrateur (Marchés mondiaux CIBC) avait même connaissance du fait que les 25 points de base figuraient dans les comptes de HTC.
+[29] On a souvent mentionné que les écritures comptables n'ont pas pour effet de créer la réalité, mais elles devraient la refléter. Les notes jointes aux états financiers et le fait de consigner une somme dans le compte 3150 des livres de HTC ne crée ni ne reflète la réalité. Les modalités essentielles de l'opération se trouvent dans la convention conclue par les parties.
+[30] Il convient de signaler que les 25 points de base à l'égard desquels le ministre a établi une cotisation de TPS ne constituent eux-mêmes qu'une infime partie de la différence entre la valeur comptable nette des prêts hypothécaires vendus à la fiducie et la somme finalement reçue par HTC, laquelle est habituellement appelée « marge excédentaire » [excess spread]. Cette situation est explicitée dans le rapport établi par Loraine D. McIntosh, experte-comptable appelée à témoigner :
+[TRADUCTION]
+Qu'est-ce que la titrisation?
+Dans sa plus simple expression, la titrisation est une façon de financer les « créances » (y compris les prêts hypothécaires et autres prêts, les baux, les soldes de cartes de crédit et les créances clients) par l'émission de titres échangeables garantis par ces créances. Dans le cadre d'une opération typique, une entreprise, comme Canada Trust Mortgage Corporation (c.-à-d., le « vendeur » ), réunit des prêts hypothécaires ou d'autres biens en un bloc qu'il vend à un conduit de titrisation comportant un ou plusieurs vendeurs (habituellement une fiducie ou une autre forme de structure d'accueil) qui à son tour émet des titres à des investisseurs afin de financer l'achat. Les vendeurs participent à ce genre d'opérations pour un grand nombre de raisons, notamment pour augmenter la liquidité, alléger le capital réglementaire, diminuer les frais de financement, financer la diversification et obtenir de meilleurs paramètres quant au bilan.
+Les opérations de titrisation prennent de nombreuses formes - que ce soit la vente en bloc des créances sans aucune participation continue du vendeur ou les opérations dans le cadre desquelles il conserve le droit et/ou l'obligation de racheter les créances à une quelconque date ultérieure (c.-à-d., prise en pension ou convention de rachat). La plupart des opérations se situent toutefois entre ces deux extrêmes. Le plus souvent, le vendeur continue de participer d'une façon quelconque au bloc de créances transféré, à la fois par le rehaussement de crédit, la garantie limitée ou le concours de liquidités offert au conduit de titrisation et par le maintien des obligations continues en matière de gestion du bloc transféré. Le rehaussement de crédit ou la garantie limitée sont offerts sous diverses formes, y compris les réserves-encaisse, les prix d'achat différés, les retenues de garantie ou le surdimensionnement. Le rehaussement de crédit fourni par le vendeur permet habituellement au conduit d'émettre des titres avec une cote de crédit plus élevée, ce qui lui permet de diminuer le coût de financement global. Les opérations effectuées au Canada sont presque toujours structurées de sorte que les biens soient vendus avec une garantie complète de recouvrement, sans qu'aucune rémunération au titre de la gestion ne soit versée au vendeur.
+Le vendeur a habituellement droit aux « marges excédentaires » produites par le bloc transféré. Pour les besoins de ces opérations, la « marge excédentaire » s'entend de la différence entre le rendement tiré des actifs transférés et le coût de financement engagé par le conduit de titrisation, y compris le coût de la contrepartie moins (i) les pertes causées par le défaut du débiteur, (ii) les frais du programme et (iii) les autres dépenses relatives au conduit et/ou aux besoins de distribution (notamment les frais liés à la liquidité, au rehaussement de crédit d'un tiers, au fiduciaire, à l'agence d'évaluation du crédit, etc.). Même si ce n'est pas précisé dans les ententes juridiques, ce droit à la « marge excédentaire » est au fond considéré comme une rémunération versée au vendeur parce qu'il offre le rehaussement de crédit et/ou le concours de liquidités et qu'il assure la gestion du portefeuille.
+[31] Le ministre paraît admettre que la marge excédentaire est exonérée de la TPS, à l'exception de la petite portion que constituent les 25 points de base.
+[32] À mon avis, il s'agit d'une contrepartie unique et, même s'il était possible d'affirmer qu'il y a deux fournitures, la fourniture de la gestion est manifestement accessoire à la vente. Par conséquent, l'article 138 serait applicable.
+[33] De toute façon, si l'article 138 n'était pas applicable, l'article 139 le serait. Même si le principe énoncé dans la décision O.A. Brown ne s'appliquait pas, il faudrait à tout le moins accepter que les services financiers sont fournis avec un ou plusieurs services non financiers pour une contrepartie unique et que les services sont liés. La contrepartie pour les services financiers (la vente des prêts hypothécaires), si ceux-ci étaient fournis séparément, est de toute évidence supérieure à 50 pour cent du montant total. HTC fournit certainement ce genre de services dans le cours normal de son entreprise.
+[34] L'article 139 soulève une question d'interprétation : les termes employés à l'alinéa c) de la version anglaise de cette disposition, soit « [...] those or similar services » , renvoient-ils aux services financiers ou aux services non financiers, ou aux deux, comme il est mentionné à l'alinéa a)? Dans la version française, les dispositions prévues par l'alinéa a) de la version anglaise sont incorporées dans la partie introductive et l'alinéa b) est libellé à l'aide des termes « ces services ou des services semblables » . Manifestement, la condition est respectée si les deux genres de services sont fournis dans le cours normal de l'entreprise du fournisseur. La mesure dans laquelle HTC se livre à des opérations de titrisation des créances et la fréquence de celles-ci font en sorte que cette activité a lieu dans le cours normal de son entreprise. Il peut être reporté à une autre occasion le soin de trancher le point de savoir si la condition prévue à l'article 139 est respectée lorsque seuls des services financiers ou seuls des services non financiers liés sont fournis par le fournisseur dans le cours normal de son entreprise.
+[35] L'une ou l'autre des trois hypothèses suivantes justifierait l'exonération de la somme à l'égard de laquelle une cotisation de TPS a été établie.
+a) La vente des prêts hypothécaires à la fiducie et leur gestion font toutes deux partie intégrante d'une fourniture unique. Le principe énoncé dans la décision O.A. Brown est selon moi applicable et déterminant.
+b) Même si la gestion des prêts hypothécaires constitue une fourniture distincte, elle est accessoire à la vente et les deux services ont été fournis pour une contrepartie unique. La gestion est donc réputée faire partie de la fourniture des prêts hypothécaires selon l'article 138.
+c) Même si la gestion des prêts hypothécaires ne constitue pas un service financier, elle est offerte avec la fourniture des prêts et ces deux éléments sont fournis pour une contrepartie unique. La fourniture des prêts hypothécaires et la fourniture des services sont liées. La fourniture de ces services a lieu dans le cours normal de l'entreprise de HTC. S'il était possible de fournir les services financiers séparément (la vente des hypothèques), leur contrepartie serait néanmoins beaucoup plus élevée que 50 pour cent. En réalité, même si on pouvait séparer la vente des prêts hypothécaires à leur valeur comptable nette de la marge excédentaire et traiter cette dernière comme une contrepartie pour une fourniture unique, il est évident que les 25 points de base constituent une très petite portion de la marge excédentaire que le ministre a considérée comme exonérée.
+[36] Si je devais choisir entre les trois hypothèses, je retiendrais la première, soit le principe énoncé dans la décision O.A. Brown, parce qu'elle me semble être celle qui colle le plus à la présente situation, bien que n'importe quelle des trois hypothèses susmentionnées pourrait s'appliquer de manière à exonérer les sommes à l'égard desquelles une cotisation de TPS a été établie.
+[37] L'appel visant la cotisation établie en vertu de la LTA est accueilli avec dépens et la cotisation est renvoyée au ministre du Revenu national pour qu'il l'examine à nouveau et établisse une nouvelle cotisation compte tenu du fait que la portion des sommes payées par les fiducies mentionnées dans l'exposé conjoint des faits, sur laquelle s'est appuyé le ministre pour établir la cotisation de taxe sur les produits et services, fait partie de la contrepartie versée pour des services financiers exonérés, et compte tenu également de la concession faite par l'intimée au cours de l'instruction en ce qui concerne les titres adossés à des créances hypothécaires et assurés sous le régime de la Loi nationale sur l'habitation.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2004.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 14e jour de septembre 2005.
+Sara Tasset
+[TRADUCTION]
+ANNEXE A
+NO DU DOSSIER DE LA COUR : 2003-3554(GST)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+HYPOTHÈQUES TRUSTCO CANADA,
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS (PARTIEL)
+Les parties à la présente instance reconnaissent, uniquement pour les besoins de cette dernière, la véracité des faits suivants :
+A. INTRODUCTION
+1. À tous les moments pertinents, l'appelante était :
+a) régie au Canada par le Bureau du surintendant des institutions financières ( « BSIF » );
+b) une « institution financière désignée » au sens où cette expression est définie au paragraphe 123(1) de la Loi sur la taxe d'accise (Canada) (la « Loi » ).
+2. Les faits et les documents relatifs aux opérations qui fondent l'appel sont explicités en partie aux paragraphes 3 à 29 ci-dessous.
+B. SMART TRUST
+3. Une fiducie nommée « SMART TRUST » a été établie en vertu des lois de la province d'Ontario conformément à une déclaration de fiducie faite le 8 mai 1996 par la CIBC Trust Corporation (dont une copie authentique est jointe aux présentes à l'onglet 1).
+4. Selon les modalités de l' « entente cadre de vente hypothécaire » conclue entre SMART TRUST et l'appelante en date du 20 janvier 1997 (dont une copie authentique est jointe aux présentes à l'onglet 2), l'appelante a vendu trois blocs de prêts hypothécaires à SMART TRUST aux dates suivantes :
+a) le 23 janvier 1997, comme il est explicité dans l'avis d'achat établi à cette date qui est signé par SMART TRUST et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 3);
+b) le 4 mars 1997, comme il est explicité dans l'avis d'achat établi à cette date qui est signé par SMART TRUST et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 4);
+c) le 16 juin 1998, comme il est explicité dans l'avis d'achat établi à cette date qui est signé par SMART TRUST et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 5).
+C. PURE TRUST
+5. Une fiducie nommée « PURE TRUST » a été établie en vertu des lois de la province d'Ontario conformément à une déclaration de fiducie faite le 16 décembre 1994 par la Compagnie Trust Royal (dont une copie authentique est jointe aux présentes à l'onglet 6).
+6. Selon la convention d'achat et de gestion de prêt hypothécaire conclue le 11 juin 1997 par l'appelante, la Compagnie Trust Royal, en qualité de fiduciaire de PURE TRUST, et la Banque Royale du Canada, en qualité de représentante - services financiers, (dont une copie authentique est jointe aux présentes à l'onglet 7), l'appelante a vendu des prêts hypothécaires à PURE TRUST le 11 juin 1997, comme il est explicité dans l'avis d'achat établi à cette date qui est signé par PURE TRUST et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 8).
+7. Selon la convention d'achat et de gestion de prêt hypothécaire conclue le 24 février 1998 entre l'appelante, la Compagnie Trust Royal, en qualité de fiduciaire de PURE TRUST, et la Banque Royale du Canada, en qualité de représentante - services financiers, (dont une copie authentique est jointe aux présentes à l'onglet 9), l'appelante a vendu des prêts hypothécaires, à des conditions analogues à celles prévues dans la convention du 11 juin 1997, à PURE TRUST le 24 février 1998, comme il est explicité dans l'avis d'achat établi à cette date qui est signé par PURE TRUST et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 10).
+8. Les conditions des conventions d'achat et de gestion de prêt hypothécaire conclues avec PURE TRUST sont pour l'essentiel analogues à celles prévues par l'entente cadre de vente hypothécaire conclue avec SMART TRUST.
+D. MASTER TRUST
+9. Une fiducie nommée « CANADIAN MASTER TRUST » ( « MASTER TRUST » ) a été établie en vertu des lois de la province d'Ontario conformément à un acte de constitution fait le 15 décembre 1995 par Associated Assets Acquisition Corporation et la Société de fiducie Banque de Montréal (dont une copie authentique est jointe aux présentes à l'onglet 11).
+10. Selon la convention d'achat et de gestion de prêt hypothécaire conclue le 18 avril 1997 entre l'appelante et la Société de fiducie Banque de Montréal, en qualité de fiduciaire de MASTER TRUST (dont une copie authentique est jointe aux présentes à l'onglet 12), l'appelante a vendu des prêts hypothécaires à MASTER TRUST aux dates suivantes :
+a) le 22 avril 1997, comme il est explicité dans la demande d'achat établie à cette date qui est signée par la Société de fiducie Banque de Montréal, en qualité de fiduciaire de MASTER TRUST, et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 13);
+b) le 7 novembre 1997, comme il est explicité dans la demande d'achat établie à cette date qui est signée par la Société de fiducie Banque de Montréal, en qualité de fiduciaire de MASTER TRUST, et l'appelante (dont une copie authentique est jointe aux présentes à l'onglet 14).
+11. Les conditions de la convention d'achat et de gestion de prêt hypothécaire conclue avec MASTER TRUST sont pour l'essentiel analogues à celles prévues par l'entente cadre de vente de prêt hypothécaire conclue avec SMART TRUST.
+E. FIDUCIES
+12. L'appelante n'avait pas de lien de dépendance avec SMART TRUST, PURE TRUST et MASTER TRUST (les « fiducies conduits » ).
+13. Chacune des fiducies conduits empruntait des fonds sur le marché des billets de trésorerie et, comme il est mentionné plus haut, achetait de l'appelante des intérêts afférents à des prêts hypothécaires.
+14. Ces prêts hypothécaires avaient été consentis par l'appelante et/ou une personne avec laquelle elle avait des liens étroits.
+15. Chaque convention portant transfert d'intérêts afférents aux prêts hypothécaires, de l'appelante à une fiducie conduit, prévoyait le versement de sommes par la fiducie conduit à l'appelante.
+16. L'appelante et chacune des fiducies conduits ont conclu une entente connexe relative aux prêts hypothécaires gérés qui ont été vendus à la fiducie conduit; selon cette entente, l'appelante avait l'obligation de faire des paiements à un taux d'intérêt variable à la fiducie conduit et elle avait le droit de recevoir des paiements à un taux fixe de la part de cette dernière.
+17. Une copie authentique de chacune des ententes connexes suivantes signées par l'appelante est jointe aux présentes aux onglets 15, 16 et 17 respectivement :
+a) entente conclue avec SMART TRUST le 20 janvier 1997 et avenant daté du 23 janvier 1997;
+b) entente conclue avec la Compagnie Trust Royal, en sa qualité de fiduciaire de PURE TRUST, le 11 juin 1997 et avenant daté du 11 juin 1997;
+c) entente conclue avec la Société de fiducie Banque de Montréal, en qualité de fiduciaire de MASTER TRUST, le 18 avril 1997 et avenant daté du 22 avril 1997.
+F. PROGRAMME DES TITRES HYPOTHÉCAIRES (LNH)
+18. Dans le cadre du Programme des titres hypothécaires assurés sous le régime de la Loi nationale sur l'habitation :
+a) l'appelante a consenti des prêts hypothécaires à l'habitation qui étaient assurés sous le régime de la Loi nationale sur l'habitation (la « LNH » ) par l'intermédiaire de la Société canadienne d'hypothèques et de logement (les « prêts LNH » );
+b) l'appelante a établi de nombreux blocs de prêts LNH;
+c) des investisseurs du secteur public ont acquis un intérêt indivis dans de tels blocs au moyen de la délivrance de certificats de dépôt par l'appelante.
+G. BSIF
+19. L'appelante est régie par le Bureau du surintendant des institutions financières (le « BSIF » ) et est tenue de se conformer aux lignes directrices publiées par ce dernier.
+20. La ligne directrice D-3, intitulée « Comptabilisation des titres hypothécaires LNH » , et la ligne directrice D-4, intitulée « Cession d'éléments d'actif financiers avec garantie » , qui ont été publiées par le BSIF et qui, ensemble, régissaient la communication, par l'appelante, de l'information financière relative aux prêts hypothécaires en litige sont pertinentes en l'espèce.
+21. La ligne directrice D-4 du BSIF, « Cession d'éléments d'actif financiers avec garantie » , datée de juillet 1994 (dont une copie authentique est jointe aux présentes à l'onglet 18), prévoit ce qui suit pour les opérations qui sont considérées comme une vente :
+[. . .]
+Pour comptabiliser une cession d'éléments d'actif financiers avec garantie, le cédant doit se conformer aux précisions et interprétations qui suivent :
+[. . .]
+· lorsque le cédant continue d'assurer des services de gestion à l'égard des éléments d'actif vendus, les honoraires de gestion normaux doivent être constatés pendant la période au cours de laquelle les services sont assurés, à mesure qu'ils sont gagnés;
+[. . .]
+22. La ligne directrice D-3 du BSIF, « Comptabilisation des titres hypothécaires LNH » , datée de juillet 1992 (dont une copie authentique est jointe aux présentes à l'onglet 19), énonce les règles comptables applicables aux émetteurs-administrateurs de titres hypothécaires LNH. Elle précise en outre le traitement comptable qu'il faut réserver aux activités de gestion :
+Marge d'intérêt
+[. . ].
+Les mouvements de trésorerie résultant de la marge d'intérêt constituent deux formes distinctes de dédommagement pour l'émetteur-administrateur :
+· des frais pour la gestion du lot de prêts hypothécaires pour le compte des détenteurs des titres hypothécaires (les frais de gestion normaux);
+· une partie de la contrepartie (produit de vente) tirée de la vente des titres hypothécaires aux investisseurs (la marge nette d'intérêt).
+Frais de gestion normaux
+Les frais de gestion normaux représentent une estimation raisonnable des frais nécessaires, établis en fonction du marché, pour administrer le lot de prêts sous-jacents jusqu'à l'échéance des titres hypothécaires. Les taux de ces frais ne doivent pas être inférieurs à ceux établis, de temps à autre, par la SCHL à la lumière d'un examen périodique du marché. À l'heure actuelle, ils sont respectivement de 25 points de base pour les lots de prêts hypothécaires pour des logements de propriétaires-occupants et des blocs mixtes (habituellement les propriétaires-occupants et les habitations multifamiliales), et de 15 points de base pour les lots de prêts hypothécaires visant les habitations multifamiliales et les logements sociaux.
+23. Lorsqu'elle a préparé ses états financiers pour 1997 et 1998, l'appelante a suivi les lignes directrices D-3 et D-4 du BSIF, sauf qu'au moment de dresser ses états financiers pour 1997, l'appelante a consigné à titre de « frais de gestion normaux » une somme correspondant à 125 points de base, plutôt qu'à 25 points de base. Une copie authentique des états financiers non consolidés de l'appelante (y compris les notes qui les accompagnent) pour les exercices suivants est jointe aux présentes aux onglets 20 et 21 respectivement :
+a) l'exercice terminé le 31 décembre 1997;
+b) l'exercice terminé le 31 décembre 1998.
+24. Dans les notes qui accompagnent ses états financiers non consolidés pour l'exercice terminé :
+a) le 31 décembre 1997, l'appelante a déclaré à titre de « frais » une somme de 20 051 000 $ pour la « gestion hypothécaire » , dont une partie importante consistait en la somme consignée dans son compte du grand livre général 3150 pour 1997;
+b) le 31 décembre 1998, l'appelante a déclaré à titre de « frais » une somme de 14 542 000 $ pour la « gestion hypothécaire » , dont une partie importante consistait en la somme consignée dans son compte du grand livre général 3150 pour 1998.
+25. Conformément aux lignes directrices D-3 et D-4 du BSIF, le « Sommaire des conventions comptables importantes » de l'appelante joint à ses états financiers non consolidés pour l'exercice terminé le 31 décembre 1998 précise à la note 1(f) la façon dont les frais de gestion sont traités :
+[TRADUCTION]
+Lorsque des blocs de prêts sont vendus à des structures d'accueil à des conditions ayant pour effet de transférer les risques et les avantages importants de la propriété à des tiers, l'opération est considérée comme une vente et les éléments d'actif des prêts connexes sont supprimés du bilan. Les gains réalisés sur ces ventes sont consignés à titre d'autre revenu dans l'état des résultats uniquement lorsque des fonds ont été reçus et qu'ils ne font l'objet d'aucune garantie. Les honoraires gagnés au titre de la gestion du portefeuille de prêts sont consignés comme des frais dans l'état des résultats au fur et à mesure qu'ils sont gagnés.
+26. Une note essentiellement identique est jointe aux états financiers non consolidés de l'appelante pour l'exercice terminé le 31 décembre 1997.
+H. COTISATION
+27. Par un avis de cotisation portant le numéro 08BPO104415 et daté du 19 août 2002 (la « cotisation » , soit une lettre dont une copie authentique est jointe aux présentes avec les annexes à l'appui à l'onglet 22), le ministre du Revenu national (le « ministre » ) a pris les mesures suivantes :
+a) il a décidé que les sommes suivantes, lesquelles concernent des sommes qui ont été reçues par l'appelante et qui sont qualifiées, dans les lignes directrices D-3 et D-4 du BSIF, de « frais de gestion normaux » , étaient assujetties à une cotisation de taxe sur les produits et services ( « TPS » ) de la façon suivante :
+1997 9 777 633,37 $;
+1998 9 681 598,91 $;
+b) il a établi une cotisation à l'égard de l'appelante pour les sommes suivantes de TPS, lesquelles le ministre a calculées en multipliant les sommes mentionnées précédemment à l'alinéa 9a) par la fraction 7/107 :
+1997 639 658,26 $
+1998 633 375,63 $
+Total : 1 273 033,89 $.
+28. Le ministre a également imposé à l'appelante une pénalité de 371 118,38 $ et exigé des intérêts de 280 831,19 $.
+29. Le montant total de la cotisation s'élevait à 1 924 983,46 $.
+Les parties aux présentes reconnaissent que le présent exposé conjoint des faits (partiel) n'empêche aucune des parties de présenter des éléments de preuve visant à suppléer aux faits exposés aux présentes, mais il est entendu que cette preuve ne peut contredire les faits admis.
+FAIT à Toronto, dans la province de l'Ontario, ce 24e jour de novembre 2004.
+OSLER, HOSKIN & HARCOURT LLP
+___________________________________
+Par : Al Meghji/Sean Aylward
+Avocats de l'appelante
+Osler, Hoskin & Harcourt LLP
+C.P. 50
+1, First Canadian Place
+Toronto (Ontario) M5X 1B8
+Canada
+Téléphone : (416) 862-5677/5901
+Télécopieur : (416) 862-6666
+Avocats de l'appelante
+Morris A. Rosenberg
+Sous-procureur général du Canada
+__________________________________
+Par : Harry Erlichman
+Avocat de l'intimée
+Ministère de la Justice du Canada
+Bureau régional de l'Ontario
+The ExchangeTower
+First Canadian Place
+130, rue King Ouest
+Pièce 3400, C.P. 36
+Toronto (Ontario) M5X IK6
+Téléphone : (416) 973-3108
+Télécopieur : (416) 973-0810
+Avocat de l'intimée
+DESTINATAIRE : Le greffier
+Cour canadienne de l'impôt
+200, rue Kent, 3e étage
+Ottawa (Ontario)
+KIA OMI
+[1] En 2000, l'alinéa q) a été modifié avec effet rétroactif à 1990 pour ajouter la mention d'un « régime de placement » au sens du paragraphe 149(5). Cette modification n'a aucune incidence en l'espèce.

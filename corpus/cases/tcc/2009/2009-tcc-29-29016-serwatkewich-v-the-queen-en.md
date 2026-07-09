@@ -1,0 +1,421 @@
+---
+title: "Serwatkewich v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29016/index.do"
+last_modified: "2009-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 29"
+citation2: ""
+neutral_citation: "2009 TCC 29"
+decision_date: "2009-01-13"
+language: "en"
+item_id: "29016"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6764
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:41:58.999000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d2af26293fc29d1a623359fa70fd44642747518ab32919dde6224d934a90cc2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Serwatkewich v. The Queen
+
+- Citation: 2009 TCC 29
+- Decision date: 2009-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6764, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Serwatkewich v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-13
+Neutral citation
+2009 TCC 29
+File numbers
+2007-2970(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2970(IT)I
+BETWEEN:
+KARLEEN SERWATKEWICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 28, 2008, at Prince George, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Diane Serwatkewich
+Counsel for the Respondent:
+Pavanjit Mahil
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are allowed, with costs of $500 awarded to the Appellant’s agent. The Minister is to issue Reassessments in accordance with the attached Reasons for Judgment.
+IT IS FURTHER ORDERED that the filing fee of $100 be refunded to the Appellant.
+Signed at Vancouver, British Columbia, this 13th day of January 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 29
+Date: 20090113
+Docket: 2007-2970(IT)I
+BETWEEN:
+KARLEEN SERWATKEWICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant lives in Prince George, British Columbia.
+[2] During the hearing the Appellant admitted that in the 2001, 2002 and 2003 taxation years she produced marijuana plants and grew marijuana.
+[3] The Appellant maintains that the marijuana that she produced was for medicinal use for herself and personal use for her husband. The Appellant said that she suffers from degenerative disc disease. She said that she has had two operations on her back but she is in continual pain. She said that she also suffers from depression.
+[4] The Appellant maintains that the Minister of National Revenue (the “Minister”) was incorrect when he concluded that the Appellant had 94 marijuana plants at the time of the search carried out by the Royal Canadian Mounted Police (“RCMP”). The Appellant said that she only had 28 mature marijuana plants in her home. The balance of the marijuana plants at the time of the search were clones and they were approximately one inch in height.
+[5] The Minister originally took the position that the Appellant was carrying on the business of producing and selling marijuana as a business. The Minister later changed his position and issued Notices of Reassessment based upon net worth calculations. However, while the Minister issued Reassessments based on net worth calculations, he continued to maintain that the Appellant was carrying on a business of producing and selling marijuana.
+[6] Based upon the net worth analysis the Minister determined that the Appellant had underreported business income as follows:
+2001
+2002
+2003
+Underreported business income per net worth
+(See Schedule A of the Reply)
+$41,555.07
+$49,214.45
+$34,229.71
+[7] At the commencement of the hearing Counsel for the Respondent stated that the Minister agreed to reduce the underreported business income per the net worth calculations on the following basis:
+2001
+2002
+2003
+$38,991.53
+$44,752.05
+$27,140.93
+(See Exhibit R-1)
+B. Issues
+[8] The tax issues are as follows:
+(a) Did the Minister properly include the unreported income in computing the Appellant’s income for the 2001, 2002 and 2003 taxation years?
+(b) Did the Minister properly levy penalties in this situation?
+C. Analysis and Decision
+[9] During the hearing the following evidence was introduced regarding the marijuana production:
+(A) The Appellant said that she developed a “grow op” in her home to produce marijuana for personal use only in mid-2001. The RCMP searched her home in October 2003. The equipment needed to produce the marijuana, marijuana seeds, plus marijuana plants were seized by the RCMP and she was arrested and charged.
+(B) The Appellant said that she was originally charged with “producing and trafficking” and she pled guilty in Provincial Court in Prince George to a lesser charge of possession. The Appellant stated that she was not convicted of trafficking in marijuana. (Exhibit R-7)
+(C) The Appellant said that she was originally assessed by the Minister on the basis that she had 94 marijuana plants when the RCMP raided her home. She maintains that she only had 28 mature marijuana plants at that time. She said that it was incorrect and unreasonable to suggest that she could produce 94 marijuana plants in such a small area of her home.
+(D) The Appellant said that she suffers from chronic pain and she consumes marijuana in food for pain management. She said that she bakes brownies and cookies which contain marijuana. She said that she was able to control the chronic pain by using marijuana in this manner.
+(E) The Appellant also said that she encountered a lot of problems with respect to her marijuana production, i.e. the plants were infested with bugs, mites and fungus. In addition, some of the pumps and other equipment used in the process broke down. The Appellant said that she only had one good crop of marijuana. The Appellant also said that her husband Don smoked some of the marijuana that she produced.
+[10] Based upon the evidence presented in Court and the fact that no evidence was introduced to contradict the Appellant’s testimony, I have concluded that in the 2001, 2002 and 2003 taxation years the Appellant was not carrying on the business of producing and selling marijuana for a profit.
+[11] Subsections 152(4) and 152(7) of the Income Tax Act (the “Act”) provide the Minister with the authority to issue a net worth assessment.
+[12] In Ramey v. The Queen, 93 DTC 791 (T.C.C.), Bowman T.C.C.J. at page 793 described the net worth process as follows:
+... The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e., the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. …
+[13] In Bigayan v. The Queen, 2000 DTC 1619 (T.C.C.), Bowman T.C.C.J. at page 1619 elaborated as follows:
+…
+[2] The net worth method, ... is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. ... It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+[3] The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron, J. in Chernenkoff v. Minister of National Revenue, 49 DTC 680 at page 683:
+In the absence of records, the alternative course open to the appellant was to prove that even on a proper and complete "net worth" basis the assessments were wrong.
+[4] This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it. …
+[14] During the hearing the Agent for the Appellant produced evidence to account for some money that the Appellant had received from her relatives, friends and associates. The following evidence was produced:
+1. Ball League
+The Appellant said that she was the Secretary of a “Slow Pitch” ball league. The Appellant also said that she was the manager of one of the ball teams. She said that she would frequently organize a dance for the team. She said that she would purchase liquor plus food for the dance and the league or the team would reimburse her for the expenses that she incurred.
+The Appellant filed Exhibit A-1 which contains records indicating that she received the following reimbursements from the league or the ball team:
+2001
+2002
+2003
+$1,516.99
+$2,226.08
+$650.00
+(Transcript p. 20, lines 13-20)
+2. Doug Serwatkewich – Online Poker
+The Appellant said that her brother-in-law, Doug, plays “online poker”. The Appellant said that to participate in online poker in the 2001, 2002 and 2003 years you had to “buy in” using a credit card. She said that she assisted Doug by using her credit card and he reimbursed her by giving her cash.
+The Appellant said that according to her calculations Doug gave her cash in the following amounts when she financed him to play online poker:
+2001
+2002
+2003
+$2,282.75
+$2,174.60
+$657.57
+(Transcript p. 27, lines 11-18)
+3. Nadine Serwatkewich
+Nadine is married to Doug Serwatkewich. The Appellant said that Nadine is a close friend.
+The Appellant said that her records indicate that she made the following gifts or cash transfers to Nadine:
+2001
+2002
+2003
+$202.96
+$3,758.68
+$3,698.58
+(Transcript p. 31, lines 2-23)
+The above transfers of money or other assets include items such as Christmas gifts, a lawnmower, diet pills and the cost of weight loss programs, alcohol, Lifestyles Lottery tickets and bulk meat purchases (pork) at Rogers Custom Meats.
+The Appellant said that in paying the amounts to Nadine or making payments on Nadine’s behalf she paid cash to Nadine, made payments online for her, or let Nadine use her credit card.
+The Appellant testified that Nadine reimbursed her for the transfers that she made to Nadine. Nadine also testified as a witness and confirmed this evidence.
+(See Transcript pp. 30-34 and Exhibit A-2)
+4. Prince George Cougar Hockey Tickets
+The Appellant said that during the period under review she purchased hockey tickets for Cougar games. She said that she purchased tickets for Diane Serwatkewich and that Diane Serwatkewich reimbursed her for the tickets. (Diane Serwatkewich (the Appellant’s Agent at the hearing) is the former mother‑in‑law of the Appellant.)
+The Appellant said that she received the following amounts in cash from Diane Serwatkewich as reimbursement for the cost of the hockey tickets:
+2001
+2002
+2003
+$905.22
+$1,337.22
+$ ---
+(Transcript p. 36, lines 16-18)
+(See Exhibit A-3)
+The Appellant said that she also purchased Cougar hockey tickets for Blaine Stendy (a friend):
+2001
+2002
+2003
+$ ---
+$445.74
+$668.61
+(Transcript p. 37, lines 5-8)
+The Appellant said that she was reimbursed by Mr. Stendy for these tickets. (See Exhibit A‑3)
+5. Sharon Glaim (the Appellant’s aunt) - $4,440.00
+The Appellant said that she paid $4,440.00 on her CIBC Visa to help Sharon Glaim with her mortgage payments after Mrs. Glaim’s husband left her. The Appellant said that when Sharon Glaim received money from her husband (Rusty), she was reimbursed by Mrs. Glaim. (Exhibit A-4)
+(Transcript p. 39, lines 13-14)
+6. Terry Henry - $276.15
+Terry Henry is the Appellant’s aunt who lives in Vancouver. The Appellant said that she booked a return ticket online for her Aunt Terry on Westjet flights from Vancouver to Prince George. The Appellant said that Aunt Terry reimbursed her for the cost of the ticket. (See Exhibit A-4)
+(Transcript p. 41, lines 15-20)
+7. Dan Baldwin
+The Appellant said that Dan Baldwin is a friend who owns property near Prince George. Mr. Baldwin is a logger who works in the bush. The Appellant said that she keeps her chickens and horses on Mr. Baldwin’s property. The Appellant said that Mr. Baldwin owns 20 horses which he keeps on his property. The Appellant also said that when Mr. Baldwin is away from his property she looks after his horses.
+The Appellant said that she paid the following amounts for round bales of hay. The hay was delivered to Mr. Baldwin’s farm.
+2001
+2002
+2003
+$2,000.00
+$2,000.00
+$2,500.00
+(Transcript p. 43, lines 8-14)
+The Appellant said that Mr. Baldwin reimbursed her for the cost of the hay.
+The Appellant said that Mr. Baldwin was not able to be in Court as a witness and that she has no receipts to prove that she had purchased the hay or receipts to establish that she had been reimbursed for the cost of the hay.
+(See Exhibit A-5)
+8. Statement (Exhibit A-6)
+The Appellant said that she and her husband guaranteed a loan for her brother Rick Bartok. The loan to Mr. Bartok was from Associates Financial. (She said that the company is now called City Financial).
+The Appellant said that the loan was arranged to assist Rick in the purchase of a computer.
+2001
+2002
+$2,143.53
+$1,543.22
+The Appellant filed cancelled cheques to establish this claim.
+(Transcript p. 49, lines 7-9) (Exhibit A-6)
+The Appellant said that she was reimbursed by Rick.
+The Appellant also said that she assisted Rick with respect to other purchases. The Appellant said that she made a cash advance of $3,700.00 to Rick on September 8, 2001 (See Exhibit A-6). The Appellant said that she was reimbursed by Rick for this amount. The Appellant said that Rick was unable to appear as a witness because of business commitments.
+The Appellant also said that she made further payments for Rick or his family but that she did not have the records to establish the other amounts.
+9. Margaret Berg
+Margaret Berg is the Appellant’s mother. The Appellant said that in 2001 she purchased an automobile (a Pontiac Sunrunner) for her mother. The Appellant also said that she permitted her mother to use her Chevron credit card. The Appellant said that she made the following payments on behalf of her mother:
+2001
+2002
+2003
+$8,318.69
+(includes the purchase of the automobile)
+$1,792.76
+$970.95
+(Transcript pp. 54-56) (Exhibit A-7)
+Mrs. Berg was called as a witness and she confirmed the above statements.
+10. During the hearing the agent for the Appellant asked the Appellant if she showed any of the above items to Canada Revenue Agency (“CRA”) officials. The Appellant said:
+A. They never asked anything. They just assumed that all the money going in and out of my accounts … was from a grow-op. They didn’t ask me any questions. …
+(Transcript p. 61, lines 20-23)
+11. Mrs. Muir, an auditor with the CRA, said that she was not aware of the use by the Appellant of the credit card issued by Capital One. (See Exhibit A-6 and transcript p. 249, lines 3-4)
+12. After reviewing the testimony and the documentary evidence that was filed I have concluded that if the CRA officials had carefully reviewed all of the Appellant’s records including cancelled cheques plus all of the credit card statements, they would have been aware of much of this evidence.
+[15] With respect to the evidence referred to in subparagraphs 1. to 12. of paragraph [14], I have reached the following conclusions:
+(A) I am not totally satisfied with the evidence concerning the payments that the Appellant said that she made to purchase hay for Mr. Baldwin. I have reached this conclusion because the Appellant did not have any receipts for the purchase of hay costing $6,500.00 or records regarding reimbursements by Mr. Baldwin. Furthermore, Mr. Baldwin did not corroborate the testimony. However, I am prepared to recognize that the Appellant purchased hay at the following cost and that she was reimbursed by Mr. Baldwin:
+2001
+2002
+2003
+$1,000.00
+$1,000.00
+$1,250.00
+(B) I am not completely satisfied on the evidence concerning the payments that the Appellant said that she made for her brother Rick Bartok (see No. 8 above). However, I have concluded on the evidence presented that the Appellant made the following payments for her brother Rick and that she was reimbursed by him:
+2001
+2002
+$2,143.53
+$1,543.22
+$3,700.00
+I am not prepared to accept the evidence that the Appellant made any further payments to her brother Rick in the period.
+(C) FOOD
+When officials of the CRA prepared the net worth calculations they asked the Appellant to provide them with an estimate of how much the Appellant and her husband spent on food in the 2001, 2002, and 2003 taxation years. The Appellant told them that she and her husband spent approximately $200.00 per month for food or $2,400.00 per year.
+When CRA officials prepared the net worth Assessments, they concluded that the Appellant and her husband had spent the following amounts on food:
+2001
+2002
+2003
+$7,248.66
+$8,758.37
+$8,363.45
+(See Exhibit R-15, Schedule IV)
+(Note: The above amounts include amounts spent by the Appellant and her husband at grocery stores and restaurants.)
+During the hearing the witness called by the Respondent (Marian Muir) indicated that in preparing the estimates for food she used Statistics Canada numbers. She said that she also examined charges made by the Appellant on her credit cards to verify the Statistics Canada numbers. (See Exhibits R-17 and R-19)
+In Exhibit R-19, the credit card charges made by the Appellant regarding food and entertainment (restaurants) show the following charges:
+2001
+2002
+2003
+$5,853.82
+$8,723.82
+$8,008.23
+I believe that the Minister was correct in estimating food charges made by the Appellant for the 2002 and 2003 years. However, I believe that the food estimate for 2001 was too high. I have concluded that the estimate of $7,248.66 for 2001 (see paragraph (C) above) should be reduced by $1,000.00.
+I believe that the estimate for 2001 is too high because it fails to take into account reductions in cost when the Appellant purchased bulk meat, i.e., pork from Rogers Custom Meats. In addition, the testimony indicated that the Appellant and her husband were both hunters and they would frequently shoot a moose or a deer and this would reduce the cost of meat.
+[16] In my opinion the net worth calculation made by the Minister should be reduced. The following amounts should be allowed as deductions in determining the Appellant’s income:
+2001
+2002
+2003
+Ball League
+$1,516.99
+$2,226.08
+$ 650.00
+Doug Serwatkewich
+$2,282.75
+$2,174.60
+$ 657.57
+Nadine
+$ 202.96
+$3,758.68
+$3,698.58
+Cougar Tickets (Diane)
+$ 905.22
+$1,337.22
+---
+Cougar Tickets (Blaine)
+---
+$ 445.74
+$ 668.61
+Sharon Glaim
+---
+---
+$4,440.00
+Aunt Terry
+$ 276.15
+---
+---
+Dan Baldwin
+$1,000.00
+$1,000.00
+$1,250.00
+Rick Bartok
+$2,143.53
+$1,543.22
+---
+$3,700.00
+---
+---
+Margaret Berg
+$8,318.69
+$1,792.76
+$ 970.95
+Food
+$1,000.00
+---
+---
+Total:
+$21,346.29
+$14,278.30
+$12,335.71
+(Note: At the conclusion of the hearing, Counsel for the Respondent agreed to delete all of the amounts dealing with Margaret Berg.)
+[17] At the conclusion of the hearing, Counsel for the Respondent also agreed to delete the following amounts:
+Fine
+$5,000.00
+Legal Fees
+$3,500.00
+(Note: This is in addition to the amounts shown in paragraph [16].)
+In other words, when the Minister prepares Reassessments he should allow the deductions outlined in paragraph [16] plus the amounts referred to in this paragraph.
+Penalties
+[18] Counsel for the Respondent argued that penalties should be imposed. I am not convinced that penalties should be imposed for the following reasons:
+1. As noted above, I have concluded that the Appellant was not producing and selling marijuana as a business.
+However, Counsel for the Respondent continues to maintain that the Appellant was carrying on a business of producing and selling marijuana in the relevant period.
+For example, in the Reply to the Notice of Appeal, the following comment is found:
+16. (i) In 2001, 2002 and 2003, the Appellant operated the Business;
+(j) The Business involved growing and selling marihuana;
+(k) In 2001, 2002 and 2003, the Appellant received income from the Business; …
+I also wish to note that Counsel for the Respondent did not call any evidence from the RCMP or Crown Counsel or anyone else to establish that the Appellant was carrying on the business of producing and selling marijuana for a profit.
+Furthermore, the Provincial Court in Prince George found that the Appellant had possession of marijuana but was not carrying on the business of trafficking in marijuana.
+In my opinion, it is not sufficient for the Respondent to simply allege that the Appellant was carrying on a business. The Respondent must introduce evidence to establish this point.
+2. During the hearing the Appellant was asked whether she understood how a net worth assessment works. The Appellant said:
+A. … I am not an accountant, I have no idea how a net worth works - - no idea how they come up with those numbers. … nobody offered me any assistance from Revenue Canada. …
+(Transcript p. 67, lines 7-15)
+In this situation the Appellant did not have the business experience necessary to understand or refute the assessing position adopted by the CRA officials when they prepared the net worth calculation. In addition, the Appellant was unable to locate or produce documentary evidence to counter the position adopted by the CRA.
+Furthermore, I am not impressed with the work carried out by officials at the CRA. For example, while the Appellant made a number of charges during the period on the Capital One credit card, Mrs. Muir said that she was unaware of this credit card (See Exhibit A-6 and Transcript p. 249, lines 3‑4).
+(Note: The Capital One card had a significant balance owing by the Appellant.)
+(Transcript p. 249, lines 3-4)
+When the evidence is carefully considered, it appears that many of the expenses that were paid by the Appellant in the period simply increased the amounts owed by the Appellant on various credit cards. I am not convinced that CRA officials properly considered this fact.
+To further illustrate that a penalty should not be imposed in this situation, I wish to note the following:
+1. The amounts reassessed as unreported income by the Minister were as follows:
+2001
+2002
+2003
+$41,555.07
+$49,214.45
+$34,229.71
+(See the Reply to the Notice of Appeal)
+2. At the commencement of the hearing Counsel for the Respondent agreed to reduce the unreported income as follows:
+2001
+2002
+2003
+$38,991.53
+$44,752.05
+$27,140.93
+(See Exhibit R-1)
+3. At the conclusion of the hearing Counsel for the Respondent agreed to delete the following amounts:
+(a) Fine $5,000.00;
+(b) Legal Fees $3,500.00; and
+(c) Amounts related to Appellant’s mother Margaret Berg:
+2001
+2002
+2003
+$8,318.69
+$1,792.76
+$970.95
+(Transcript p. 309, lines 15-20)
+Furthermore, based upon the evidence produced I agreed to the following reductions in unreported income:
+2001
+2002
+2003
+$21,346.29
+$14,278.30
+$12,335.71
+(See paragraph [16] above)
+With the significant changes in unreported income as outlined above, it is my opinion that the Minister made a number of mistakes. I have therefore concluded that penalties are not justified in these circumstances.
+[19] I award the Agent for the Appellant the sum of $500.00 in costs.
+[20] The $100.00 filing fee shall be refunded to the Appellant forthwith.
+[21] The appeals are allowed and the Minister is to issue Reassessments in accordance with the findings as outlined above.
+Signed at Vancouver, British Columbia, this 13th day of January 2009.
+“L.M. Little”
+Little J.
+CITATION: 2009 TCC 29
+COURT FILE NO.: 2007-2970(IT)I
+STYLE OF CAUSE: Karleen Serwatkewich and
+Her Majesty The Queen
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: July 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: January 13, 2009
+APPEARANCES:
+Agent for the Appellant:
+Diane Serwatkewich
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

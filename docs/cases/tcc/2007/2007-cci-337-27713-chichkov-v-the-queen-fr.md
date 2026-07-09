@@ -1,0 +1,187 @@
+---
+title: "Chichkov v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27713/index.do"
+last_modified: "2007-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 337"
+citation2: ""
+neutral_citation: "2007 CCI 337"
+decision_date: "2007-06-12"
+language: "fr"
+item_id: "27713"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 465
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:35:49.564000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e0397f08d41ff4a180e8d54d5bc040744bf31e144ffd1e4e6a6aa2bbb6fadf10"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chichkov v. The Queen
+
+- Citation: 2007 CCI 337
+- Decision date: 2007-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 465, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chichkov v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-12
+Référence neutre
+2007 CCI 337
+Numéro de dossier
+2006-2206(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2206(IT)I
+ENTRE :
+MICHEL CHICHKOV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 avril 2007, à Montréal (Québec)
+Devant : L’honorable juge en chef adjoint Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations des années d’imposition 2002 et 2003 au titre de la Loi de l’impôt sur le revenu sont rejetés.
+Signé à Ottawa, Canada, ce 12e jour de juin 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 4e jour de février 2008.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI337
+Date : 20070612
+Dossier : 2006-2206(IT)I
+ENTRE :
+MICHEL CHICHKOV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rip
+[1] Michel Chichkov fait appel des cotisations d’impôt sur le revenu établies pour les années d’imposition 2002 et 2003, où le ministre du Revenu national (le « ministre ») exclut certaines dépenses déclarées par M. Chichkov dans le calcul d’un revenu d’entreprise, pour la raison qu’il n’exploitait pas d’entreprise en 2002 et en 2003.
+[2] Au début de l’audience, l’intimée a modifié sa réponse à l’avis d’appel en avançant que, subsidiairement, si l’appelant exploitait une entreprise en 2002 et en 2003, les dépenses déclarées n’étaient pas déductibles pour plusieurs raisons : a) elles n’avaient pas été engagées dans le but de générer un revenu d’entreprise; b) une certaine Sylvie Nobert était une associée de l’appelant dans une société de personnes réputée exploiter l’entreprise; c) l’appelant n’obtenait pas la totalité, ou presque, de ses recettes de l'exercice d'activités de recherche scientifique et de développement expérimental, conformément à l’alinéa 37(8)c) de la Loi de l’impôt sur le revenu (la « Loi »); de toute façon, il s’agissait de dépenses en capital, qui n’étaient donc pas déductibles du calcul du revenu, conformément à l’alinéa 18(1)b) de la Loi.
+[3] M. Chichkov avance qu’il exploitait bien une entreprise, une entreprise de logiciel, durant les années en cause dans les appels et que les représentants du ministre ne comprenaient pas les étapes nécessaires à l’exploitation de son entreprise de logiciel, notamment le développement de l’application qui devient le produit de l’entreprise.
+[4] D’après M. Chichkov, le début de l’exploitation de la réputée entreprise remonte au 1er janvier 2002, date à laquelle il a commencé à travailler à un projet appelé « Infox ». Il a confié le travail sur le projet à une amie, Sylvie Nobert. Dans ses déclarations de revenu pour 2002 et 2003, M. Chichkov a déclaré des dépenses de recherche scientifique et de développement expérimental (les dépenses de « RS&DE ») et déduit une perte d’entreprise de 29 485,58 $ pour 2002 et de 30 893,71 $ pour 2003.
+[5] M. Chichkov a également demandé des crédits d’impôt à l’investissement en ce qui concerne ces dépenses, pour 2002 et 2003, ainsi que pour les années suivantes, 2004 et 2005.
+[6] Sur les 29 485,58 $ de dépenses déclarées en 2002, un montant de 26 940 $ a été payé à Mme Nobert au titre du contrat de sous-traitance. Le solde de 2 545,58 $ comprenait 331,98 $ de frais de repas et divertissements, 305,12 $ de frais de véhicule à moteur et 1 807,41 $ de frais de bureau. En 2003, il y aurait eu 29 310 $ payés à Mme Nobert, 197,43 $ de frais de véhicule à moteur, 1 195,98 $ de frais de bureau et 190,30 $ de frais téléphone et de services publics. Dans le formulaire de déclaration des dépenses de RS&DE pour chaque année, M. Chichkov s’est abstenu de remplir tout élément ayant trait à des opérations avec lien de dépendance et, dans le document joint au formulaire dans sa déclaration de revenu pour 2003, a déclaré que lui et la sous-traitante, Mme Nobert, n’avaient pas de lien de dépendance.
+[7] Lors du début de l’exploitation de l’entreprise réputée, en 2002, et durant toutes les périodes concernées, M. Chichkov était employé à plein temps : c’est pourquoi il a confié le travail en sous-traitance à Mme Nobert qui, dit-il, était une programmeuse d’ordinateur connaissant son métier, ayant déjà effectué du travail de développement.
+[8] Le développement du produit a été achevé en 2006 et, lors de l’audience, il était vendu sur Internet par une société dont M. Chichkov détient la majorité des actions.
+[9] M. Chichkov a décrit Infox comme une base de données ayant deux caractéristiques distinctives : a) des renseignements personnels, dont des noms et des adresses, ainsi que des notes; b) une [Traduction] « énorme base de données d’entreprise pour presque tout ». Il a expliqué qu’Infox [Traduction] « comblait la lacune entre les deux extrêmes, pour les utilisateurs de petite et moyenne taille », que c’était un progiciel [Traduction] « qui parlait aux parties ». Il estimait le produit unique en son genre sur le marché.
+[10] Depuis 18 ans, M. Chichkov est programmeur d’ordinateur. Il a obtenu une maîtrise de mathématiques appliquées en 1985, à l’Institut de physique et de technologie de Moscou. Il a immigré au Canada en 1994. À Montréal, où il habite, il a travaillé pendant trois ans dans le domaine des logiciels purs, comme programmeur graphique, et pendant sept ans dans le domaine du matériel informatique, lié aux cartes vidéo pour ordinateurs personnels.
+[11] M. Chichkov a déclaré avoir souscrit un contrat légitime avec Mme Nobert. Elle n’était pas son associée en affaires, vu que c’était son entreprise à lui. Il a également nié toute relation conjugale ou de conjoints de fait avec Mme Nobert.
+[12] Les ententes de programmation applicables entre Mme Nobert et M. Chihkov sont datées du 1er janvier 2002 et du 1er janvier 2003. Y sont décrites les tâches de programmation que Mme Nobert devait effectuer. La date d’achèvement prévue pour le travail de Mme Nobert était le 31 décembre 2002 pour l’entente datée du 1er janvier 2002 et le 31 décembre 2003 pour l’entente datée du 1er janvier 2003. Les montants de 26 940 $ en 2002 et de 29 310 $ en 2003 sont spécifiés dans les ententes respectives. Ces montants devaient être payés en [Traduction] « liquide, par chèque certifié ou un moyen équivalent » dans les 45 jours suivant l’établissement de la facture. Les ententes prévoyaient une résiliation par l’une ou l’autre des parties.
+[13] Au début de 2002, Mme Nobert était employée ailleurs et travaillait à l’exécution du contrat en fin de semaine et en soirée. En juillet 2002, elle a quitté son emploi pour travailler à plein temps au contrat avec M. Chichkov. Selon M. Chichkov, elle a alors travaillé sept jours par semaine, sans doute à raison de huit heures par jour. Mme Nobert a confirmé qu’elle travaillait au moins 40 heures par semaine à compter de juillet 2002. Elle a déclaré avoir travaillé cinq jours par semaine et souvent en fin de semaine, probablement six jours par semaine, pour un salaire moindre que son salaire d’employée avant juillet 2002. Elle a consenti à une paie moindre parce qu’il y avait moins de stress, que le travail était intéressant et les conditions de travail, meilleures.
+[14] L’appelant a produit plusieurs documents pour confirmer qu’il exploitait une entreprise. Ils incluent une liste de travail à effectuer par Mme Nobert. Il a également produit trente-cinq pages de notes de travail ayant trait au projet. M. Chichkov a bien indiqué dans son témoignage qu’il effectuait également de la recherche et du développement en fin de semaine et certains soirs. Il a également produit des reproductions de saisies d’écran de l’application Infox, avec des grilles de recherche et des fenêtres d’affichage détaillées, ainsi qu’un exemplaire d’une description de projet détaillée fournie à l’Agence du revenu du Canada.
+[15] L’appelant et Mme Nobert ont préparé, censément en 2002, une étude de marché décrivant les concurrents potentiels. M. Chichkov a déclaré des dépenses de RS&DE pour l’étude de marché. Il n’a pas tenu le compte du nombre d’heures consacrées au rapport.
+[16] L’avocat de l’intimée a questionné M. Chichkov sur ses conditions de logement et celles de Mme Nobert. Depuis 1998 environ, ils avaient une résidence commune dans un immeuble d’appartements parce que c’était [Traduction] « pratique ». M. Chichkov a maintenu qu’ils avaient seulement des rapports de travail. Si je l’ai bien compris, l’un et l’autre avaient l’intention de lancer une entreprise et ont utilisé la période pour [Traduction] « y réfléchir ». Il voulait s’assurer qu’elle était capable de faire le travail. En 2002, ils ont acheté ensemble une habitation unifamiliale valant 280 000 $, chacun étant détenteur de la moitié d’un intérêt indivis et chacun étant aussi responsable de l’emprunt hypothécaire résidentiel. M. Chichkov a dit qu’ils avaient acheté la maison la plus chère à titre d’investissement et que ni l’un ni l’autre ne pouvait se permettre une maison [Traduction] « de ce type ».
+[17] À peu près à compter du moment où M. Chichkov et Mme Nobert ont obtenu l’approbation de leur emprunt hypothécaire résidentiel, ils ont eu un compte en banque commun.
+[18] M. Chichkov a déclaré lors du contre-interrogatoire avoir payé en liquide les services de Mme Nobert au titre du contrat et ne pas avoir obtenu de reçu. Mme Nobert n’a pas soumis de facture à M. Chichkov. Selon M. Chichkov, cette absence de documentation s’explique par le fait qu’ils [Traduction] « étaient assez proches ». Chacun faisait confiance à l’autre. M. Chichkov a bien [Traduction] « transféré » certains fonds à Mme Nobert mais, [Traduction] « pour l’essentiel », dit tout lui avoir payé en liquide.
+[19] L’appelant a expliqué avoir payé à Mme Nobert [Traduction] « l’équivalent en liquide ». Il a assumé les paiements hypothécaires pour leur maison, y compris la part de Mme Nobert. Ils estimaient que la portion du paiement hypothécaire que M. Chichkov assumait pour elle était un paiement au titre du contrat. Il a déclaré s’être chargé de la dette de Mme Nobert en retour des 27 000 $ dus chaque année au titre du contrat.
+[20] Les paiements pour les frais d’habitation pour l’électricité, le téléphone et d’autres services publics étaient tirés du compte commun de l’appelant et de Mme Nobert. Le plus gros de l’argent du compte venait de M. Chichkov.
+[21] Les montants des crédits d’impôt à l’investissement que M. Chichkov a demandés pour les années en cause dans les appels sont égaux aux montants d’impôt qu’il aurait dû payer ces années-là, une fois déduits les émoluments de Mme Nobert et sans ces crédits. L’appelant a également calculé son impôt potentiel pour 2003, 2004 et 2005 afin de déterminer quel montant de crédit d’impôt à l’investissement demander chaque année. Les émoluments versés à Mme Nobert étaient également fonction de l’impôt qu’il aurait dû payer : émoluments et crédits d’impôt réduisaient à néant l’impôt à payer par l’appelant. M. Chichkov a reconnu que Mme Nobert et lui n’avaient pas négocié les émoluments au titre du contrat, sauf, dit-il, la première année, où c’était tout ce qu’il pouvait se permettre. Il a convenu que les émoluments des autres années étaient effectivement motivés par les impôts.
+[22] Lors du contre-interrogatoire, M. Chichkov a reconnu que les contrats avec Mme Nobert n’avaient pas été souscrits le premier jour de janvier 2002 et 2003, mais [Traduction] « auraient pu être signés » l’année suivante, soit en 2003 et en 2004, respectivement, une fois qu’il avait établi sa déclaration de revenu pour l’année. Les deux ententes étaient antidatées. En effet, le premier jour de l’année, il n’aurait pas pu prédire à combien allait s’élever son revenu, et donc son impôt, cette année-là; en conséquence, M. Chichkov n’aurait pas pu déterminer le 1er janvier quels émoluments verser à Mme Nobert pour l’année.
+[23] En ce qui concerne les dépenses autres que les montants versés à Mme Nobert, M. Chichkov a expliqué que les frais de repas et de repésentation avaient été engagés pour des gens qui le conseillaient sur le marché et la clientèle possible pour le produit.
+[24] Mme Nobert a elle aussi déclaré des dépenses d’entreprise. Comme elle travaillait à domicile, elle a déclaré que 25 pour cent des frais de leur habitation étaient pour liés à son entreprise. Elle a plus tard admis qu’il s’agissait probablement de 10 pour cent et non de 25 pour cent. Elle était arrivée au chiffre de 25 pour cent en partant du principe qu’elle utilisait deux des huit pièces de la maison, sans tenir compte des superficies relatives de la maison et de la partie qu’elle occupait. Elle a aussi déclaré des dépenses pour repas et divertissements, mais n’avait aucune idée de qui elle avait pu divertir. Elle s’est montrée agitée quand l’avocat de la Couronne a posé des questions sur ce point.
+[25] M. Chichkov a maintenu que Mme Nobert et lui n’avaient pas de lien de dépendance et qu’il avait donc le droit de déclarer des dépenses de RS&DE, s’il exploitait une entreprise.
+[26] Lors du contre-interrogatoire, l’avocat de l’intimée a questionné M. Chichkov sur ses rapports avec Mme Nobert. M. Chichkov bénéficiait du régime d’assurance médicale de son employeur. Il a déclaré que Mme Nobert était sa conjointe dans les demandes de remboursement des dépenses médicales de Mme Nobert qu’il a présentées dans le cadre de son régime. Il l’a déclarée comme conjointe, a-t-il expliqué, parce qu’elle n’avait pas d’assurance médicale et qu’on lui avait dit que c’était possible vu qu’ils vivaient ensemble.
+[27] Mme Nobert a déclaré avoir rempli sa propre déclaration de revenu pour 2002 et les années suivantes. Dans sa déclaration pour 2002, elle a inclus 100 pour cent de l’intérêt touché sur son compte commun avec M. Chichkov. Dans sa déclaration de revenu pour 2003, elle a déclaré comme ses propres dépenses médicales la différence entre les sommes payées pour des médicaments sur ordonnance et les montants remboursés par l’assureur de M. Chichkov. Elle a aussi inclus dans ses dépenses médicales de 2002 les frais dentaires de M. Chichkov.
+[28] Alventis Corporation, constituée en société en 2006, vend actuellement le logiciel censément développé par M. Chichkov. Celui-ci détient 60 pour cent des actions avec droit de vote de la société; Mme Nobert en détient 40 pour cent. M. Chichkov a déclaré qu’il lui avait offert 40 pour cent des actions et qu’elle avait accepté. Le manuel d’utilisation du logiciel indique que le [Traduction] « logiciel » est basé en partie sur le travail d’Anders Malendar, de Gustavo Hufferbackor, de David et de Jordan Russell. Ni le nom de M. Chichkov ni celui de Mme Nobert ne sont mentionnés. M. Chichkov dit que c’est parce qu’il [Traduction] « n’est pas habituel de mentionner les programmeurs qui ont développé le projet ». Quoi qu’il en soit, dit-il, Alventis Corporation détient les marques de commerce; personne ne l’a payé pour ces marques.
+[29] À la fin de l’audience, j’ai demandé à M. Chichkov s’il accepterait de soumettre une argumentation écrite, plutôt que de faire une présentation orale. Il a accepté.
+[30] M. Chichkov déclare avoir exploité une entreprise durant toutes les périodes concernées. Il cite le juge Bowman (c’était son titre à l’époque) dans l’affaire Gartry v. The Queen[1] :
+[...] Pour ce qui est de la détermination du moment où une entreprise débute, il n’est pas réaliste de dire que c’est au moment où l’on commence à tirer de l’argent du commerce ou de la fabrication d’un bien ou de la prestation d’un service ou, à l’autre extrême, que c’est a moment où l’on a pour la première fois eu l’intention de lancer l’entreprise. Chaque cas dépend des faits qui lui sont propres, mais, lorsqu’un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l’entreprise, il est juste de conclure que l’entreprise avait démarré. [...]
+[31] M. Chichkov estime que la mesure la plus essentielle à l’exploitation d’une entreprise de logiciel est le développement de l’application qui doit devenir le produit commercial. Il déclare qu’il a commencé à exploiter une entreprise après avoir pris la première mesure pour créer le produit. Il reconnaît que le logiciel n’était pas achevé en 2002, mais l’application avait été créée; elle était fonctionnelle et utilisable. Il déclare qu’il aurait pu commencer à vendre le logiciel en 2002-2003, mais qu’il tenait à ce qu’il réponde à toutes les spécifications.
+[32] M. Chichkov a étudié le bulletin d’interprétation IT-364, daté du 14 mars 1977, aux paragraphes 1, 2, 3 et 5. Selon lui, les dépenses en cause étaient des dépenses d’entreprise. Ses activités durant les années en cause dans les appels étaient un prélude essentiel à l’exploitation normale d’une société de développement de logiciel. Il a confié le développement du produit à une programmeuse connaissant son métier. Plus de 4 000 heures-personne ont été consacrées au projet, plus de 50 000 lignes de code, développées. Selon lui, à la fin de 2003, le produit était achevé à 50 pour cent environ. Le produit a été achevé en 2006 et se vend maintenant. L’appelant n’a toutefois soumis aucune preuve des ventes.
+[33] Selon M. Chichkov, il y a eu une étude de marché poussée. Il y a eu une analyse des besoins des utilisateurs dans le domaine de la gestion de l’extraction d’informations, ainsi que des technologies et des produits de la concurrence.
+[34] M. Chichkov a démenti l’existence d’un lien de dépendance entre Mme Nobert et lui, ainsi que l’exploitation dans le cadre d’une société de personnes. Il avance qu’avec de telles allégations le ministre s’efforce de modifier le fondement des cotisations : qu’il n’exploitait pas d’entreprise. Il invoque le juge adjoint Letourneau dans l’affaire The Queen v. Hollinger Inc.[2] :
+[23] […] Reconnaître au Ministre le droit de modifier le montant d’une cotisation, dans un acte de procédure reviendrait à lui permettre d’interjeter appel de sa propre cotisation, notion qui a été expressément rejetée par les tribunaux.
+[35] Dans les présents appels, le procureur général n’a modifié le montant d’aucune des deux cotisations; il a simplement soulevé des arguments subsidiaires. Dans l’avis d’appel initial, l’intimée a allégué que l’appelant et Mme Nobert avaient un lien de dépendance. Les suppositions du ministre menant aux cotisations n’ont pas changé.
+[36] Dans ses observations écrites, M. Chichkov se demande si le ministre a fait certaines suppositions présentées dans la réponse à l’avis d’appel. Toute supposition présentée dans une réponse comme ayant été faite par le ministre est réputée avoir été faite et être vraie, sauf si l’appelant peut prouver qu’elle n’a pas été faite ou, si elle a été faite, qu’elle n’est pas vraie.
+[37] Pour établir la cotisation, le ministre a supposé les faits connus suivants :
+[Traduction]
+j) Les décisions transmises à l’appelant par la division de la vérification et par la section de RS&DE reposaient sur les déclarations de l’appelant selon lesquelles :
+i) il développe un programme informatique;
+ii) il n’a réalisé aucun profit à ce jour;
+iii) le produit est à l’étape du développement;
+iv) il n’a pas encore développé son marché;
+v) il n’a pas de clients;
+vi) le programme n’est pas encore disponible sur le marché;
+vii) il n’a pas fait de demande de licence ni de brevet de produit;
+viii) il n’a pas investi d’argent dans une entreprise, n’a ni fournisseurs, ni clients potentiels, ni adresse professionnelle, ni compte en banque pour son entreprise, ni téléphone d’affaires, ni cartes professionnelles, ni biens d’entreprise, ni bilan d’affaires,
+il n’avait pas commencé à exploiter une entreprise;
+k) la décision quant aux dépenses de RS&DE pour 2003 repose sur le fait que l’appelant ne pouvait pas déduire ces dépenses, vu qu’elles n’avaient pas été engagées par un contribuable qui exploitait une entreprise au Canada et qu’il s’agissait de paiements de sous-traitance à une partie liée, Sylvie Nobert, conjointe de fait de l’appelant.
+[38] L’appelant n’a pas prouvé que les faits présentés aux sous-alinéas j)(i) à (viii) de la réponse étaient faux. Ce qui est en question, manifestement, est la conclusion du ministre.
+[39] Je doute profondément que M. Chichkov ait exploité une entreprise durant les années en cause dans les appels. Je me méfie de son témoignage; il manquait notamment de crédibilité, je le crains. Au plus, le travail était préliminaire au lancement d’une entreprise.
+[40] M. Chichkov se contredit dans son témoignage. Ses antécédents suggèrent que c’est quelqu’un de très intelligent. Mais son témoignage et celui de Mme Nobert montrent qu’il s’efforce toujours d’exploiter la situation. Dans une optique, il déclare Mme Nobert comme conjointe; dans une autre – les présents appels –, il nie l’existence d’un lien de dépendance avec elle. Il déclare à son régime d’assurance les dépenses médicales de Mme Nobert, en partant du principe qu’elle est sa conjointe. Mme Nobert inclut en outre dans ses dépenses médicales de l’année ses frais dentaires à lui.
+[41] M. Chichkov se contredit aussi dans ses observations écrites. Par exemple, il indique d’abord que le logiciel a été créé durant les années en cause dans les appels, mais écrit par la suite que, à la fin de 2003, l’élaboration du logiciel [Traduction] « était terminée à 50 pour cent environ ». Il a aussi avancé que [Traduction] « l’application logicielle initiale existait dès 2002 » et que le travail de Mme Nobert consistait dans des ajouts et des améliorations graduels à un produit existant. Cela ne l’a pas empêché de demander des crédits d’impôt à l’investissement pour ces [Traduction] « ajouts et améliorations graduels ».
+[42] Me perturbe aussi le fait que les contrats avec Mme Nobert aient été antidatés et que, mes semble-t-il, le montant du contrat ait été entièrement fonction du montant d’impôt dû par l’appelant pour une année donnée. Il n’y a pas eu de négociation entre personnes sans lien de dépendance.
+[43] Le document produit par M. Chichkov pour illustrer l’étude de marché réalisée semble être une simple liste de concurrents; en quoi la recherche poussée a bien pu consister demeure un mystère. La date d’établissement du document n’est pas claire non plus.
+[44] Me dérange d’autre part le fait que M. Chichkov ne vend pas Infox, distribué en fait par une société qu’il a constituée en 2006 à cet effet. Rien n’indique combien la société verse à M. Chichkov pour le droit de vendre son produit. Je suppose que M. Chichkov conserve les droits de propriété intellectuelle, vu que rien ne prouve la cession de ces droits à une autre personne, pas même à la société, même s’il a semblé suggérer que la société détenait ces droits. Il n’a lui-même jamais vendu Infox au public.
+[45] Rien dans la preuve ne confirme que M. Chichkov exploitait une entreprise durant les années 2002 et 2003. Son témoignage est suspect et n’est pas convaincant. Il avait tendance à exagérer ce qu’il avait fait et se contredisait souvent. Un travail était effectué, mais il n’était pas aussi intensif qu’il le suggérait. D’après ce que j’ai pu comprendre, ce que faisait M. Chichkov, c’était de mettre en place la structure pour une entreprise future. Le fait que, durant les années en cause dans les appels, M. Chichkov n’ait eu ni clients, ni compte en banque, ni présence commerciale, pour ainsi dire, ne me préoccupe pas outre mesure. Ce qui m’intéresse c’est de savoir s’il exploitait ou non une entreprise et je conclus que tel n’était pas le cas[3]. S’il y avait exploitation d’une entreprise, elle avait débuté en 2006 et était menée par une autre personne, une société. M. Chichkov n’a engagé aucune dépense du fait de l’exploitation d’une entreprise durant les années en cause dans les appels.
+[46] Je conclus aussi que M. Chichkov avait un lien de dépendance avec Mme Nobert. Ils vivaient ensemble, il l’avait déclarée comme conjointe à son régime d’assurance médicale. Elle le déclarait comme conjoint dans le calcul de ses dépenses médicales à elle. Les excuses de M. Chichkov pour leur vie commune – mais sans lien de dépendance – sont imaginatives, mais boiteuses.
+[47] Vu que M. Chichkov n’exploitait pas d’entreprise durant les années en cause dans les appels et vu que lui et Mme Nobert avaient un lien de dépendance, il n’a engagé aucune dépense de RS&DE pouvant être déduite du calcul de son revenu.
+[48] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 12e jour de juin 2007.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Traduction certifiée conforme
+ce 4e jour de février 2008.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI337
+NO DU DOSSIER : 2006-2206(IT)I
+INTITULÉ : MICHEL CHICHKOV c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 13 avril 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge en chef adjoint Gerald J. Rip
+DATE DU JUGEMENT : Le 12 juin 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Benoît Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 94 DTC 1947, à la page 1949, par. 16.
+[2] 99 DTC 5500, par. 23.
+[3] Voir, par exemple, Brunet c. Canada, [2005] A.C.I. no 651 (QL), 2006 DTC 3100 (en appel); et Samson et Frères Ltée c. Canada, [1995] A.C.I. no 1385 (QL), 96 DTC 1559.

@@ -1,0 +1,168 @@
+---
+title: "Grunwald v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28385/index.do"
+last_modified: "2004-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 379"
+citation2: ""
+neutral_citation: "2004 TCC 379"
+decision_date: "2004-05-25"
+language: "en"
+item_id: "28385"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1904
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:25:07.140000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "66810c6f05bfe9c4b4c20b6abb37d9150d74f532fa69e08e5db2db4fca2d5256"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grunwald v. The Queen
+
+- Citation: 2004 TCC 379
+- Decision date: 2004-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1904, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grunwald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-25
+Neutral citation
+2004 TCC 379
+File numbers
+2003-4104(IT)APP
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4104(IT)APP
+BETWEEN:
+CARLA GRUNWALD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on February 25, 2004, at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Applicant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which a notice of objection from an assessment made under the Income Tax Act, notice of which is dated November 17, 2000, and bears number 17393, may be served;
+And upon hearing what was alleged by counsel for the parties;
+It is ordered that the application is dismissed.
+Signed at Ottawa, Canada, this 25th day of May, 2004.
+"C.H. McArthur"
+McArthur J.
+Docket: 2003-4105(GST)APP
+BETWEEN:
+CARLA GRUNWALD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on February 25, 2004, at Vancouver, British Columbia
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Applicant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which a notice of objection from an assessment made under the Excise Tax Act, notice of which is dated November 17, 2000 and bears number 76050, may be served;
+And upon hearing what was alleged by counsel for the parties;
+It is ordered that the application is dismissed.
+Signed at Ottawa, Canada, this 25th day of May, 2004.
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC379
+Date: 20040525
+Docket: 2003-4104(IT)APP
+2003-4105(GST)APP
+BETWEEN:
+CARLA GRUNWALD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR ORDER
+McArthur J.
+[1] This is an application for extensions of the time within which the Applicant may serve on the Minister of National Revenue notices of objection to assessment bearing number 17393 for income tax under the Income Tax Act, and assessment bearing number 76050 for goods and service tax under the Excise Tax Act;
+[2] The Minister assessed the Applicant by Notices of Assessment dated and mailed by registered mail on November 17, 2000. The Assessments were returned by the post office marked "unclaimed". Consequently, on January 5, 2001, an employee of Canada Customs and Revenue Agency drove to Abbotsford and handed the Assessments to the Applicant personally.
+[3] On June 26, 2003, the Applicant made an application to the Minister for extensions of time within which to serve notices of objection to the Assessments under subsection 166.1(1) of the ITA and subsection 303(1) of the ETA. The Minister refused the Application and notified the Applicant of the decision by mail on August 19, 2003.
+[4] At the hearing, the Applicant testified that she received mail only when the mailing address indicated a postal station and box number since Canada Post did not deliver to her residence in the mountains. She stated that she had never received assessments by mail for the disputed years. She also indicated that CCRA was aware of the correct mailing address with the postal station and box number, as it was indicated in her last income tax return. To this effect, counsel for the Applicant submitted into evidence a note drafted by Phil Birnie, a CCRA employee, where he states: "I noted in my review that the Collections Office did not send the registered letter to the Rapid address which was: PO Box 583, STN Main, Abbotsford, B.C., V2S 6R7".
+[5] The Applicant acknowledged at the hearing that she was served personally with the Assessments on January 5, 2001.
+[6] The issue is whether the Applicant should be granted an extension of time within which to file notices of objection to the reassessments.
+[7] Paragraphs 166.2(5)(a) of the ITA and 304(5)(a) of the ETA set out the limitation periods for Applicants who request an extension of the time within which they may serve a notice of objection on the Minister. These provisions provide:
+166.2(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; …
+304(5) No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; …
+Therefore, an extension can only be granted in this case if both the November 17, 2000 mailing of the Assessments by registered mail and the January 5, 2001 personal delivery of the Assessments are deemed invalid.
+[8] The January 5, 2001 personal delivery cannot be deemed invalid. In Flanagan v. Canada, 87 DTC 5390 (F.C.A.), the Minister issued a reassessment but due to a postal strike was unable to mail it and thereby attempted personal service of the reassessment. The Federal Court of Appeal stated that "it is certainly not obligatory that the sending be by mail, as is made quite clear by subsection 244(10)". Subsection 244(10) of the ITA provides: "a notice of determination was mailed or otherwise communicated to a taxpayer on a particular day". Similar wording is used in the ETA at subsection 335(6) where it states: "a notice of assessment was mailed or otherwise sent". The words "otherwise communicated" or "otherwise sent" do not restrict the Minister's means of communicating an assessment by mail. Any other interpretation would lead to an absurd result where in the event of a postal strike the Minister would be paralyzed.
+[9] The Federal Court of Appeal in Flanagan allowed the taxpayer's appeal due to the fact that the Minister's employee who attempted to personally serve the taxpayer decided not to leave a copy of the reassessment and returned the reassessment to the Minister's office. Unlike the facts of Flanagan, the CCRA employee in this case handed the Assessments to the Applicant personally.
+[10] The application is dismissed.
+Signed at Ottawa, Canada, this 25th day of May, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC379
+COURT FILE NO.:
+2003-4104(IT)APP and
+2003-4105(GST)APP
+STYLE OF CAUSE:
+Carla Grunwald and The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 25, 2004
+REASONS FOR ORDER BY:
+The Honourable C.H. McArthur
+DATE OF ORDER:
+May 25, 2004
+APPEARANCES:
+Counsel for the Applicant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Timothy W. Clarke
+Firm:
+Bull, Housser & Tupper
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

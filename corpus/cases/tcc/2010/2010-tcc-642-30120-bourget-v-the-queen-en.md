@@ -1,0 +1,145 @@
+---
+title: "Bourget v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30120/index.do"
+last_modified: "2010-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 642"
+citation2: ""
+neutral_citation: "2010 TCC 642"
+decision_date: "2010-12-16"
+language: "en"
+item_id: "30120"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7717
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:45:34.670000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "458a7a95ccfa2c53b410c7111e32255324b51f25c484250f96f97b721a25c20c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourget v. The Queen
+
+- Citation: 2010 TCC 642
+- Decision date: 2010-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7717, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourget v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-16
+Neutral citation
+2010 TCC 642
+File numbers
+2009-2999(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2999(IT)I
+BETWEEN:
+MORRIS BOURGET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 15, 2010, at Regina, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Lee C. Merriman
+Counsel for the Respondent:
+Bryn Frape
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal for the 2006 taxation year is dismissed.
+Signed at Regina, Saskatchewan, this 16th day of December, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC642
+Date: 20101216
+Docket: 2009-2999(IT)I
+BETWEEN:
+MORRIS BOURGET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Morris Bourget, is appealing the reassessment of the Minister of National Revenue disallowing his claim for an allowable business investment loss in 2006. Mr. Bourget was not present at the appeal. At the request of his agent, Lee C. Merriman, accountant, the appeal proceeded by legal argument alone based on the facts assumed by the Minister in paragraph 7 of the Reply to the Notice of Appeal:
+7. In determining the Appellant’s tax liability for the 2006 year, the Minister relied on the following assumptions of fact:
+(a) the Appellant was a director of Seeds Plus Inc. (hereinafter “Seeds”);
+(b) Seeds ceased operations in July of 2003;
+(c) Seeds had outstanding source deductions when it ceased operations;
+(d) the Appellant made a payment of $43,201 on October 12, 2005 (hereinafter “the Payment”) in regards to Seeds’ outstanding source deductions;
+(e) the Payment was made after Seeds had ceased operations;
+(f) the Payment was not as a result of a personal guarantee that held the Appellant liable;
+(g) the Payment was made as a result of the Appellant’s director’s liability;
+(h) the Payment was not loaned to Seeds for the purpose of producing income, and
+(i) the Payment was not a share of the capital stock of a small business corporation.
+[2] Of these facts, Mr. Merriman took issue only with the use of the word “loaned” in subparagraph 7(h) and indicated that he would address his concerns with that term in his submissions. His argument that the Appellant was entitled to an allowable business investment loss in respect of his payment of source deductions owed by Seeds was based on Mr. Merriman’s interpretation of the analysis of Beaubier, J. in Bender and Day v. The Queen[1], the background of which appears at paragraphs 2 to 6:
+2 The evidence before the Court confirmed both Appellants' claims for allowable business investment losses respecting a disallowance by the Respondent of values which were agreed upon by the Appellants with the Bank of Montreal respecting property taken by the Bank of Montreal on account of a loan by it to Bender Transport (1995) Ltd. ("Transport"). In view of the fact that the Appellants and the Bank of Montreal were at arm's length, those values claimed by the Appellants are confirmed by the Court and their appeals are allowed respecting that portion of the appeals.
+3 The parties agreed that on the foregoing basis, the only matters remaining in dispute related to Janet Day. Therefore, Mr. Bender's appeal is allowed and he is also awarded his disbursements for copying, postage and travel to prosecute his appeal, which are fixed at $100.
+4 The matters remaining in appeal for 1998 and 1999 claimed by Janet Day relate to funds she paid to the Receiver General in 1998 and 1999 on account of:
+1. withholdings due on employees' wages from Transport and, she believes,
+2. GST, due from Transport, of which she was a director.
+5 In the Court’s view, Transport’s withholdings liability arose as a deductible part of its wages due to employees (and employer’s contributions thereon) on account of their services in a business for the purpose of earning business income. Payment by Transport of employee withholdings and associated employer’s contributions are deductible for income tax purposes.
+6 GST is different. The Excise Tax Act is specific. GST was paid to Transport as a tax levy of which Transport was a trustee. GST was not received by Transport as income. Nor was GST in any way a part of Transport’s income earning process; rather it was a levy on Transport’s customer. Payment of GST is not a deductible expense to Transport. It was never income to Transport, nor was it part of Transport’s income earning process. It is merely a collection of GST (Excise Tax Act, Sections 221 and 222).
+[3] Having made that distinction in respect of Transport’s rights and obligations in respect of source deductions and GST remittances, Beaubier, J. then turned his mind to the only issue left in dispute, Ms. Day’s entitlement to an allowable business investment loss in respect of amounts paid by her (as a director of Transport) following an assessment under subsection 227.1(1) of the Income Tax Act in respect of the company’s unremitted source deductions[2]. In dismissing her appeal, Beaubier, J. cited Poirier v. Her Majesty the Queen[3], a case very similar to Ms. Day’s (and, I would add, the Appellant’s) in which Bowman, A.C.J. explained why the payment of such an amount could not be deductible as an allowable business investment loss:
+10. Therefore her claim for an allowable business investment loss or any other form of business expense or deduction respecting her assessment under section 227.1 is dismissed. In particular, paragraph 16 of the judgment of Bowman, A.C.J. in Poirier v. R. … describes a situation similar to Janet Day’s. It reads:
+16. That is not the situation here. I agree with the submission by counsel for the respondent that when the appellant made the payments in question the company was no longer in operation. It had ceased operations and was insolvent. There is a world of difference between making good under a guarantee of a corporation that was given when it was in operation, with a view to enhancing its income earning potential, and paying an obligation imposed by law or to remove a lien after there is no possibility of earning income from the corporation. I would compare this with the situation where a business has ceased but an obligation that results from the business that was previously carried on arises and must be satisfied. The fulfilment of that obligation would seem to me to be for the purpose of gaining or producing income from a business. Here, however, the [Appellant’s] obligation to pay the company’s indebtedness arose after the company has ceased operations.
+[Emphasis added]
+[4] Notwithstanding this outcome, Mr. Merriman insisted that Bender and Day supported his argument that because Seeds’ liability for the unremitted source deductions had arisen at a time when the company was actively carrying on business, it followed that the payment made by the Appellant some two years after the company had gone under ought to be characterized as having been made “for the purpose of gaining or producing income from a business” as contemplated by subparagraph 40(2)(g)(ii) of the Income Tax Act.
+[5] This is not, however, what the legislation or the jurisprudence[4] says. Assuming that the other statutory criteria are met, the Appellant’s entitlement to an allowable business investment loss is limited to a debt acquired by him at a time when the purpose of that debt was to gain or produce income from Seeds’ business. By the time the Appellant made the payment to the Receiver General in respect of Seeds’ source deductions, the company had long since ceased operations; from this it follows that there was no possibility of the Appellant having acquired his debt for the purposes required under the Act.
+[6] For the reasons set out above, the appeal of the 2006 taxation year is dismissed.
+Signed at Regina, Saskatchewan, this 16th day of December, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC642
+COURT FILE NO.: 2009-2999(IT)I
+STYLE OF CAUSE: MORRIS BOURGET AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: December 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 16, 2010
+APPEARANCES:
+Agent for the Appellant:
+Lee C. Merriman
+Counsel for the Respondent:
+Bryn Frape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] 4 C.T.C. 2523. (T.C.C.).
+[2] Under subsection 227.1(1) of the Income Tax Act.
+[3] [2000] T.C.J. No. 672. (T.C.C.).
+[4] Rich v. Her Majesty the Queen, [2004] 1 C.T.C. 308. (F.C.A.).

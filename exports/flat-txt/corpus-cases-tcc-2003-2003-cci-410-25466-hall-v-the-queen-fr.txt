@@ -1,0 +1,80 @@
+Title: Hall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25466/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-410-25466-hall-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-06-17
+
+# Hall v. The Queen
+
+- Citation: 2003 CCI 410
+- Decision date: 2003-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2354, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-17
+Référence neutre
+2003 CCI 410
+Numéro de dossier
+2002-3369(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI410
+Date : 20030617
+Dossiers : 2002-3369(IT)I 2002-3370(IT)I
+2002-3392(IT)I
+ENTRE :
+GEORGE ALEXANDER HALL,
+MARY KATHERINE DOBBIN,
+JAMES DOUGLAS HALL,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocat des appelants : Me J. L. Marc Boivin
+Avocat de l'intimée : Me Alain Gareau
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(rendus oralement à l'audience
+le 9 mai 2003 à Toronto (Ontario))
+Le juge McArthur
+[1] Ces trois appels ont été entendus conjointement sur preuve commune, dans le cadre de l'année d'imposition 2000 de chaque appelant. La question est de savoir si le ministre du Revenu national a eu raison d'inclure certains revenus d'intérêt dans leurs revenus pour l'année d'imposition 2000. La Compagnie Trust Royal du Canada était l'exécutrice testamentaire et fiduciaire unique de la succession d'Herbert L. Hall, qui était l'oncle des trois appelants, les bénéficiaires du reliquat. Le Trust Royal a délivré aux appelants des feuillets T5 sur l'état des revenus de placements pour l'année 2000, dans chacun desquels figurait le montant de 5 193 $. Les appelants ne reçurent ces montants qu'en 2001.
+[2] Les appelants soutiennent que l'administration de la succession n'était pas terminée et que, par conséquent, les contribuables n'avaient rien reçu pendant l'année 2000 et donc le montant ne devait pas être ajouté à leur revenu de l'année en question. La position du ministre est que les intérêts sont devenus payables aux appelants pendant l'année d'imposition 2000, en vertu des paragraphes 104(13) et 104(24) de la Loi de l'impôt sur le revenu. Le ministre soutient que, suite à la liquidation de la succession qu'il considère avoir eu lieu en janvier 2000, les appelants étaient en mesure d'exiger la répartition des biens. Par conséquent, les intérêts accumulés leur étaient dus dans la période qui avait suivi la liquidation.
+[3] Voici les extraits pertinents des paragraphes mentionnés :
+104(13) Les montants applicables suivants sont à inclure dans le calcul du revenu du bénéficiaire d'une fiducie pour une année d'imposition donnée :
+(a) [...] est devenue payable au bénéficiaire au cours de l'année de la fiducie;
+104(24) [...] un montant n'est réputé être devenu payable par une fiducie au cours d'une année d'imposition que si la fiducie l'a payé au cours de l'année au bénéficiaire auquel il était payable ou que si ce bénéficiaire avait le droit au cours de l'année d'en exiger le paiement.
+Voilà où se situe le centre du problème.
+[4] La plupart des faits ne sont pas contestés. La question est simplement de savoir si l'administration de la succession avait été achevée en 2000 et si les montants sont alors devenus payables, de manière à ce que les appelants aient été en mesure d'exiger que le paiement soit effectué durant cette année-là. Le traitement que la Loi fait de chaque type de revenu dépend la source de celui-ci. Le revenu d'emploi est comptabilisé dans l'année où il a été reçu, le revenu d'affaires est comptabilisé dans l'année où les montants sont devenus recevables. Pourtant, le traitement des revenus provenant de fiducies diffère des autres encore, en ce que le montant doit être considéré comme étant payable au bénéficiaire.
+[5] De nombreux arrêts se sont penchés sur la différence entre les montants reçus et les montants recevables. La question de savoir si les paiements reçus, mais pas encore gagnés, doivent être inclus dans le revenu du contribuable, a été étudiée dans Kenneth B.S. Robertson Ltd v. M.N.R., [1944] 3 D.L.R. 170 (C. de l'É.). Le juge Thorson a conclu en l'espèce que tout montant reçu devait être inclus dans le revenu du contribuable, même s'il n'avait pas encore été gagné, à condition qu'il possède la [traduction] « nature d'un revenu » . Il dit ainsi :
+Ces montants avaient-ils, au moment où ils ont été reçus, ou ont-ils acquis au cours de l'année de réception la qualité de revenus, pour utiliser l'expression du juge Brandeis dans Brown v. Helvering? À mon avis, l'expression qu'il a utilisée et que j'ai déjà mentionnée, établit un critère important pour déterminer si le montant reçu par un contribuable a la qualité de revenu. Son droit au paiement, d'en faire usage ou d'en jouir est-il absolu, libre de toute restriction contractuelle ou autre quant à sa disposition, son usage ou sa jouissance?
+La Cour suprême du Canada a examiné la nature d'un revenu dans Gagnon c. Canada, [1986] 1 R.C.S. 264 et a fait appel à d'autres affaires où les arrêts Robertson et Brown ont été interprétés, avant de conclure qu'il s'agissait de « restrictions au droit [...] de disposer d'une somme, et non pas à des restrictions sur la manière d'en jouir. » Le juge Beetz a fait référence à une règle établie dans l'arrêt Rutkin v. United States, 343 U.S. 130 (1952) :
+[traduction]
+Un gain « constitue un revenu imposable lorsque celui qui le reçoit a un tel contrôle sur celui-ci que, en pratique, il en retire immédiatement une valeur économique facilement réalisable » .
+Le concept de nature du revenu s'applique de la même manière au revenu provenant de fiducies.
+[6] Par conséquent, pour analyser la question en litige, nous devons juger si les appelants avaient un droit absolu à une répartition et s'ils possédaient un droit « absolu, libre de toute restriction contractuelle ou autre, quant à sa disposition, son usage ou sa jouissance. » Selon les faits en l'espèce, les montants en question étaient payables, mais le Trust Royal a refusé d'effectuer la répartition avant d'avoir réglé un différend avec les appelants.
+[7] Je conclu que le Trust Royal n'avait pas achevé l'administration de la succession; les bénéficiaires ont reçu en janvier 2000 un état des comptes de la succession stipulant la rémunération de l'exécuteur, auquel le bénéficiaire James, qui est avocat, s'est opposé fermement : il n'était pas prêt a décharger le Trust Royal de ses obligations de rendre des comptes. De plus, d'autres fonds restaient à recueillir, comme par exemple un remboursement de 64 000 $ de Revenu Canada. Je fais référence à la décision de la Cour suprême du Canada Hall c. Québec (Sous-ministre du Revenu), [1998] 1 R.C.S. 200, où le juge Gonthier a énoncé :
+Une conclusion contraire amènerait l'effet injuste d'imposer un légataire pour des revenus dont il ne bénéficie pas.
+Cette phrase a été citée aussi dans les avis d'appel des appelants.
+[8] Je conclus que le Trust Royal a retardé la répartition jusqu'en 2001, après la préparation et l'émission des feuillets T5 que le Trust Royal a refusé de redresser. Il semble donc assez évident que les appelants ne jouissaient pas du droit absolu à une répartition et n'étaient pas non plus en mesure, à toutes fins pratiques, de rentabiliser ces fonds.
+[9] L'avocat de l'intimée a fait valoir que le retard dans la répartition avait été causé par les agissements des appelants ou, au moins, par les agissements de l'un des trois bénéficiaires. Je crois le témoignage de James Hall, qui a admis être la partie responsable à ce sujet et qui a expliqué les raisons de la poursuite de son différend avec le Trust Royal. Il n'y a pas de doute qu'il aurait pu céder et abandonner sa position afin que les appelants reçoivent leurs fonds à la date prévue. Je ne crois pas, cependant, qu'en formulant les paragraphes 104(13) et 104(24), le législateur ait eu l'intention que les bénéficiaires de fiducies abandonnent leurs droits sur des fonds auxquels ils croient avoir droit afin d'être en mesure de minorer leur revenu à la première occasion. Comme l'a dit le juge Gonthier, cela serait injuste.
+[10] Par conséquent, je conclus que les montants en question n'étaient pas payables aux appelants en 2000, parce que la répartition aux appelants ne possédait pas la « nature d'un revenu » requise. Pour ces motifs, les appels sont accueillis avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de juin 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice

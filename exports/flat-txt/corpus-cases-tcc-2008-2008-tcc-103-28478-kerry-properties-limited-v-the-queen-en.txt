@@ -1,0 +1,186 @@
+Title: Kerry Properties Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28478/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-103-28478-kerry-properties-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-13
+
+# Kerry Properties Limited v. The Queen
+
+- Citation: 2008 TCC 103
+- Decision date: 2008-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1276, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kerry Properties Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-13
+Neutral citation
+2008 TCC 103
+File numbers
+2007-1999(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1999(IT)G
+BETWEEN:
+KERRY PROPERTIES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on January 30, 2008 at Halifax, Nova Scotia.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, QC
+Counsel for the Respondent:
+Cecil S. Woon and Catherine McIntyre
+____________________________________________________________________
+ORDER
+1. The Appellant's Motion is granted, with the costs of this Motion to the Respondent, and the Notice of Appeal is amended as follows:
+(a) Paragraph 7 of the Notice of Appeal is amended to read as follows:
+7. The KPL full-time employees so engaged were Murray Brine, Laura Gillard, Donald Nicholson, Kerry Gillard, Robert Reid, Shirley Jordan and Charles Henwood. The KPL part-time employees so engaged were Donna Gaudet, Braden Smith, and Dr. B. O'Brien.
+(b) Paragraph 9 of the Notice of Appeal is amended to read as follows:
+9. In its 2006 taxation year, at all material times KPL had the same full-time employees except for Shirley Jordan and several part-time employees engaged in this work, except that Braden Smith ceased to be a KPL part-time employee engaged in such work.
+(c) A new paragraph 14 is added, which paragraph is as follows:
+14. KPL states that at all relevant times it had at least six full-time employees and so it was not carrying on a “specified investment business” under the Act.
+(d) The paragraph that was the second paragraph 13 in the Notice of Appeal (there were two paragraphs numbered 13 in the Notice of Appeal) and which is now paragraph 15, is amended to read as follows:
+15. KPL states alternatively that it had at least five full-time employees and multiple part-time employees throughout each of the subject taxation years, and so it at all relevant times employed in its business of deriving real property rental income more than five full-time employees.
+2. The Respondent shall have the right to examine for discovery Harold Marryatt and Robert Reid.
+3. The previous Order of this Court dated September 10, 2007 as amended by the Order dated October 18, 2007 is no longer applicable with respect to the timetable for the completion of discoveries, the satisfaction of undertakings and the communication with the Hearings Coordinator as the Notice of Appeal has been amended and the Respondent will have 10 days from the date of the service of this Order and Reasons within which to respond to the amended Notice of Appeal, as provided in paragraph 57 of the Tax Court of Canada Rules (General Procedure). As a result, no dates are now set for the completion of discoveries, the satisfaction of undertakings and the communication with the Hearings Coordinator as it is premature to set these dates before the Respondent has responded to the amended Notice of Appeal.
+Signed at Ottawa, Ontario, this 13th day of February 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC103
+Date: 20080213
+Docket: 2007-1999(IT)G
+BETWEEN:
+KERRY PROPERTIES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Appellant has made a Motion to amend its Notice of Appeal. The issue in the appeal is whether the Appellant was carrying on a specified investment business as defined in subsection 125(7) of the Income Tax Act in the taxation years under appeal and in particular whether the Appellant employed in its business more than five full-time employees.
+[2] In the Notice of Appeal that was filed the Appellant stated that it had five full-time employees and five part-time employees. The Appellant stated that it was relying on a legal argument that it therefore had more than five full-time employees, because it had part-time employees in addition to the admitted five full-time employees. The Appellant now seeks to amend its Notice of Appeal to reclassify two of the individuals named as part-time employees as full-time employees. As a result the Appellant would be alleging that it has seven full-time employees. This is obviously a relevant matter in relation to the determination of whether the Appellant was carrying on a specified investment business.
+[3] In Bradley Holdings Ltd. v. Her Majesty the Queen, 2004 TCC 221, 2004 DTC 2749, Bonner J. made the following general comment:
+I recognize too that a party acting reasonably may be obliged to amend its pleadings if investigation during preparation of the case or if answers on discovery paint the case in a fresh light. Such amendments are, I think, normal and usual.
+[4] What, however, makes this case unusual is the previous Motion made by the Appellant and heard by me on August 30, 2007 (the "2007 Motion"). The Notice of Motion for the 2007 Motion provided in part as follows:
+THE MOTION IS FOR an Order pursuant to section 123 of the Tax Court of Canada Rules (General Procedure), with costs of this Motion to the Respondent, to fix the time and place of hearing.
+THE GROUNDS FOR THE MOTION ARE that there is no factual dispute in the matter. There is only a question of pure law and the Applicant seeks to have it resolved in a just, expeditious and inexpensive manner.
+Although the Appellant had requested costs to the Respondent, I assume that the Appellant had meant “to the Appellant”.
+[5] Accompanying the Notice of Motion for the 2007 Motion was an Affidavit of Margaret Redden. Attached to that Affidavit were copies of correspondence that had been sent by counsel for the Appellant to counsel for the Respondent. On July 3, 2007, July 24, 2007, July 26, 2007 and July 27, 2007 counsel for the Appellant indicated to counsel for the Respondent that there was no factual dispute in this matter. At the hearing of the 2007 Motion counsel for the Appellant was adamant that there was no need for the Appellant to file a list of documents, there was no need to have any discovery examinations and the matter should proceed directly to a hearing as there was no dispute with respect to the facts as set out in the Notice of Appeal. The Appellant’s 2007 Motion was not granted.
+[6] Now several months later, the Appellant has brought this Motion to amend the facts as set out in the Notice of Appeal. Counsel for the Respondent raised the issue that the amendments sought effectively withdraw an admission made by the Appellant that two individuals were part-time employees. In Her Majesty the Queen v. Andersen Consulting, [1998] 1 F.C. 605, the Federal Court of Appeal dealt with the issue of whether this would require two separate Motions and stated as follows:
+7 The Motions Judge, in our view, wrongly held that an application for leave to withdraw admissions was required separate from, and in addition to, the appellant's Motion to amend its pleadings which were said by the respondent to involve withdrawals of admissions. We can find no reason in logic or doctrine as to why such a separate Motion should be required. A Motion to amend pleadings, if it involves some changes to the pleadings which might be construed as a withdrawal of admissions, is still a proper Motion to amend pleadings pursuant to Rule 420 [Federal Court Rules, C.R.C., c. 663]. If there is any legitimate reason to object to any such withdrawal it may be addressed in the same proceeding where other types of amendments are considered.
+[7] Therefore an amendment to pleadings that results in a withdrawal of an admission can be dealt with in the Motion to amend the pleadings.
+[8] Bowman J. (as he then was) made the following comments in Continental Bank Leasing Corp. v. Her Majesty the Queen, [1993] 1 C.T.C. 2306, 93 DTC 298:
+22 It was also contended that the party moving for the amendment had an onus of showing no prejudice by the amendment to the party opposing. Counsel for the appellant did not suggest that there was any prejudice and I should have thought that if there were prejudice that was not compensable in costs it would be reasonable to expect the opposing party to adduce evidence to that effect. It is difficult in any event to see what significant prejudice the appellant has suffered apart from the delay in proceeding with the examination for discovery of an officer of the appellant and the loss of the tactical advantage of not having to prove an allegation that had been inadvertently admitted by the respondent. Either the allegation in paragraph 29 is true or it is not true. If it is true it should be readily provable in considerably less time than this Motion has taken. If it is not true it should not have been admitted and the Court should not be required to base its decision on an erroneous factual premise. While I do not doubt the authority of the Attorney General of Canada to make admissions of fact in litigation to which the Crown is a party, it must be recognized that there is a public interest in income tax appeals and the Court should be in a position to decide cases on the basis of correct facts and properly defined issues (c.f. The Clarkson Co. v. The Queen, [1979] C.T.C. 96, 79 D.T.C. 5150 (F.C.A.) at page 97 (D.T.C. 5151), footnote 3). It would do no credit to our system of justice in Canada if the courts were restricted in their consideration of the merits of a case by an ill-considered admission that is inconsistent with another position that is being advanced, particularly where it is sought to withdraw such an admission at an early stage in the proceeding. This is equally true whether the party seeking to change its position is the taxpayer or the Crown.
+23 In the cases in the courts of Ontario and of British Columbia to which I was referred a number of tests have been developed — whether an admission was inadvertent, whether there is a triable issue raised by an amendment or the withdrawal of an admission and whether the other party would suffer a prejudice not compensable in costs. Although I find that these tests have been met I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the Motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the Court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.
+(emphasis added)
+[9] In the subsequent case of Her Majesty the Queen v. Canderel Ltd., [1993] 2 C.T.C. 213, 93 DTC 5357, the Federal Court of Appeal quoted the above emphasized part of the decision of Bowman J. with approval.
+[10] As well, the Federal Court of Appeal also made the following additional comments:
+9 With respect to amendments, it may be stated, as a result of the decisions of this Court in North- west Airporter Bus Service Ltd. v. The Queen and Minister of Transport; The Queen v. Special Risks Holdings Inc.; Meyer v. Canada; Glisic v. Canada and Francoeur v. Canada and of the decision of the House of Lords in Ketteman v. Hansel Properties Ltd. which was referred to in Francoeur, that while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.
+10 As regards injustice to the other party, I cannot but adopt, as Mahoney J.A. has done in Meyer, the following statement by Lord Esher, M.R. in Steward v. North Metropolitan Tramways Company (1886), 16 Q.B.D. 556 (C.A.), at page 558:
+There is no injustice if the other side can be compensated by costs: but, if the amendment will put them into such a position that they must be injured, it ought not to be made.
+and the statement immediately following:
+And the same principle was expressed, I think perhaps somewhat more clearly, by Bowen, L.J., who says that an amendment is to be allowed "whenever you can put the parties in the same position for the purposes of justice that they were in at the time when the slip was made."
+To apply that rule to the present case; if the amendment is allowed now, will the plaintiff be in the same position as if the defendants had pleaded correctly in the first instance?
+[11] Counsel for the Respondent also referred to the Federal Court of Appeal decision in Merck & Co. v. Apotex Inc., [2003] F.C.J. No. 1925. In the Reasons for Judgment given by Justice Décary, and concurred in by Justice Létourneau, Justice Décary made the following comments:
+32 I fully agree with the proposition set out in para. 15, in Andersen, that
+We must ensure that the procedure to withdraw admissions is not made so complex and so stringent that virtually no admission will be made by the defendants.
+But I do not read these words to say that the procedure should be made so simple and so relaxed that virtually any withdrawal of admissions will be allowed. There is a burden to be met by the amending party and, while the factors to be considered are essentially the same for all amendments, the burden should be heavier when the amendments at issue purport to withdraw substantial admissions and would result in a radical change in the nature of the questions in controversy.
+33 The nature, timing and circumstances vary from one amendment to the other and from one type of amendment to the other, and one must be careful not to generalize judicial pronouncements made in a given context. The prothonotary or judge seized with the Motion to amend has the duty to consider all relevant factors. There is, for example, as noted by Lord Griffiths in Ketteman (supra, para. 31), "a clear difference between allowing amendments to clarify the issues in dispute and those that permit a distinct defence to be raised for the first time". There is also a clear difference between allowing amendments at trial and allowing amendments before trial (see Glisic v. Canada, [1988] 1 F.C. 731 (C.A.), at p. 740; Ketteman, supra, para. 31). There is also a clear difference, I suggest, between allowing amendments that amount to the withdrawal of an admission and amendments that do not, and a clear difference between allowing amendments that amount to withdrawal of a substantial admission the result of which is to alter the cause of action and one that relates to a mere admission of fact.
+[12] The proposed amendment was not allowed by the majority of the Federal Court of Appeal in the Merck case. That was an exceptional case. Justice Décary described the circumstances as follows:
+47 Assuming, for the sake of discussion, that there is a triable issue, I still would not allow the proposed amendments. They represent, as already noted, a radical departure from the position held by Apotex during the past ten years in proceedings before this Court. It repudiates admissions made in the pleadings of the present proceedings and during discovery as well as admissions made by counsel in the course of a previous proceeding closely associated with the present one. It casts a shadow on the integrity of the process through which Apotex obtained its NOC in 1996, a process which necessitated by section 5(1) of the NOC Regulations, inter alia, a demonstration of "bioequivalence" in order to obtain the NOC and which permitted Apotex to market a product for the past seven years. It questions for the first time the construction of a patent upon which Apotex itself has relied to gain favour with this Court. It questions the construction of the patent six years after the commencement of the proceedings and once the discovery process has been completed, therefore rendering the trial more complex and presumably lengthier. All of this has been on the basis of allegations supported solely by an Affidavit deposed by a counsel for Apotex. This is indeed a very unique situation which should be examined very carefully.
+[13] The proposed amendments in that case, as noted above, “represent[ed] … a radical departure from the position held by Apotex during the past ten years in proceedings before this Court”. In the present case, the Notice of Appeal was filed less than a year ago and the proposed amendments are being sought before any discovery examinations have been held. Hence this is still at the early stage of the litigation.
+[14] Counsel for the Respondent also argued that the proposed amendments in this case represent a radical departure from the position of the Appellant. I agree that the proposed amendments in this case represent a radical departure from the very adamant position on the facts taken by counsel for the Appellant at the 2007 Motion. However I do not agree that this should prevent the Appellant from amending the Notice of Appeal in this case.
+[15] In the Reply that has been filed it is stated that:
+7. In so reassessing the Appellant for the 2004 and 2005 taxation years and assessing the Appellant for the 2006 taxation year, the Minister relied upon the following assumptions:
+a) at all material times, the Appellant owned, maintained and operated several residential apartment buildings from which it earned rental income;
+b) at all material times, more than 90% of the Appellant's income was rental income;
+c) at all material times, the Appellant carried on a business the principal purpose of which was to derive income from property; and
+d) at all material times, the Appellant did not employ 6 or more full-time employees.
+8. In confirming the Notices of Reassessment and the Notice of Assessment, the Minister relied upon the following assumptions:
+a) the facts stated at paragraphs 7(a) to (d) above; and
+b) at all material times, the number of full-time employees the Appellant employed was 5.
+B. ISSUE TO BE DECIDED
+9. The issue is whether the Appellant carried on a “specified investment business” in the 2004, 2005 and 2006 taxation years pursuant to subsection 125(7) of the Income Tax Act (the “Act”).
+[16] In my opinion, the changes to the Notice of Appeal, while they do represent a radical departure from the position of the counsel for the Appellant on the facts taken at the 2007 Motion, do not result in a radical departure from the issue as stated in the Reply and therefore do not “result in a radical change in the nature of the questions in controversy” (paragraph 32 of the decision of the Federal Court of Appeal in Merck & Co.). The issue will still be whether the Appellant was carrying on a specified investment business in the taxation years under appeal except now the Appellant wishes to raise the additional argument that it had seven full-time employees in those years.
+[17] Counsel for the Respondent had also stated that if this Motion is not granted then the Appellant would be precluded from introducing any evidence at the hearing to contradict the statements as set out in the Notice of Appeal. In the Continental Bank Leasing Corp. case referred to above, Bowman J. (as he then was) stated that “it must be recognized that there is a public-interest in income tax appeals and the Court should be in a position to decide cases on the basis of correct facts and properly defined issues”.
+[18] In Hamill v. Her Majesty the Queen, [2005] F.C.J. No. 1197, the Federal Court of Appeal made the following comments in relation to whether a Judge of this Court is bound by the facts as admitted:
+29 Specifically, the appellant argues that the Tax Court Judge was bound by the facts as admitted, even if contrary evidence was adduced at trial. Sopinka, The Law of Evidence in Canada, 2[nd] ed, Butterworths, 2004 at page 1051; Urquhart v. Butterfield (1887), 37 Ch. D. 357 (Eng. C.A.), at 369 and 374; Copp v. Clancy (1957), 16 D.L.R. (2d) 415 (N.B. C.A.), at 425, are relied upon in this regard.
+30 In my view, these authorities which derive from private party civil proceedings are of no assistance to the appellant in the context of this appeal. While the admission reflected in the Agreed Statement of Facts was favourable to the appellant, he was not satisfied to have his appeal disposed of on that basis. The appellant chose to place extensive evidence before the Court, over and beyond what had been agreed to, about the nature and extent of the scam.
+31 In an appeal against an assessment under the Act, the outcome does not belong to the parties. Public funds are involved and the Tax Court is given, in the first instance, the statutory mandate to confirm or vary the assessment based on the facts, proven or admitted. In this respect, while the Court will not generally look behind a formal admission, the parties cannot by agreement dictate the outcome of a tax appeal. The Tax Court is not bound by an admission which is shown, through properly tendered evidence, to be contrary to the facts.
+(emphasis added)
+[19] Leave to appeal the decision of the Federal Court of Appeal in the Hamill case was denied by the Supreme Court of Canada.
+[20] Therefore, in this case, even if the pleadings are not amended, because the issue is whether the Appellant was carrying on a specified investment business and in particular whether the Appellant had more than five full-time employees, the circumstances related to the employees of the Appellant and their status as full-time or part-time employees would be relevant. This Court would not be bound by any admission in either the Notice of Appeal or the Reply, which is established by the evidence at the hearing, to not be correct. Clearly, the issue of whether any individual was a full-time or part-time employee is a triable issue and can be resolved at a hearing where all the facts related to the employment of the individual can be ascertained. If the evidence at the hearing were to be that the Appellant only had four full-time employees, counsel for the Respondent would presumably not want to take the position that the Court was bound by the admission in the Reply that there were five full-time employees.
+[21] Counsel for the Respondent also raised the issue of prejudice because Shirley Jordan, one of the individuals who was identified as a part-time employee and who the Appellant now seeks to claim as a full-time employee, passed away in 2006. However, as noted by the Federal Court of Appeal in Canderel Ltd. in quoting from the comments of Lord Esher:
+To apply that rule to the present case; if the amendment is allowed now, will the plaintiff be in the same position as if the defendants had pleaded correctly in the first instance?
+[22] The issue in this case is whether the Respondent would be in the same position as if the Notice of Appeal had, as now proposed by the Appellant, stated that there were seven full-time employees when it was initially filed. Since the Notice of Appeal was filed in April of 2007, which was after the individual had passed away, the Respondent is not in any different position now than the Respondent would have been if the Notice of Appeal would have stated, when it was filed in April of 2007, that this particular individual was a full-time employee.
+[23] In my opinion the interests of justice are best served in this case if the Appellant is permitted to amend the pleadings and is given the opportunity to present its case in full at a hearing, which would include a determination of the number of full-time employees that the Appellant had in the taxation years under appeal.
+[24] In the Bradley Holdings Ltd. case referred to above, Bonner J. made the following comments following the part quoted above:
+It would seem, so far as I can tell, that the amendment is required simply because the Respondent failed to properly analyze his case in a timely fashion. All of that should have been done long before this application for amendment was made. In my view, the circumstances here meet the scandalous and outrageous conduct threshold for the award of costs on a solicitor and client scale. Costs of this Motion and costs thrown away will be awarded on that scale.
+[25] In this particular case examinations for discovery have not yet been held and therefore there are no costs that have been thrown away on examinations for discovery that will now have to be reheld. In my opinion, however, because of the previous position of counsel for the Appellant in relation to the 2007 Motion and the very adamant submissions that there was no need to file a list of documents or have discovery examinations, the Respondent should be entitled to the costs of this Motion.
+[26] Counsel for the Appellant stated they were making an offer to have two individuals available for discovery examination in addition to the officer of the Appellant selected pursuant to subparagraph 93(2) of the Tax Court of Canada Rules (General Procedure) (the “Rules”). In particular, counsel for the Appellant offered that Harold Marryatt, the property manager with Twin City Management Limited and the deponent of the Affidavit filed with this Motion, and Robert Reid, the survivor of the two employees who were identified as part-time employees and are now identified as full-time employees, would be available for discovery examination. In my opinion, this offer would not appear to be any more than what would have been required in any event. Paragraph 93 of the Rules provides as follows:
+93. (1) A party to a proceeding may examine for discovery an adverse party once, and may examine that party more than once only with leave of the Court.
+(2) A party to be examined, other than an individual or the Crown, shall select a knowledgeable current or former officer, director, member or employee, to be examined on behalf of that party, but, if the examining party is not satisfied with that person, the examining party may apply to the Court to name some other person.
+…
+(4) If a current or former officer, director or employee of a corporation or of the Crown has been examined, no other person may be examined without leave of the Court.
+(emphasis added)
+[27] Harold Marryatt is a property manager with Twin City Management Limited which was the property manager for KPL. Harold Marryatt is therefore not an officer, director, member or employee of KPL. Robert Reid is one of the employees of KPL that KPL listed as a part-time employee in the Notice of Appeal and is now claiming is a full-time employee. Since counsel for the Appellant did not submit the Affidavit of the officer selected by the Appellant to represent the Appellant under subparagraph 93(2) above in this Motion, since Robert Reid is one of the individuals that the Appellant is now claiming was a full time employee, and since counsel for the Appellant was adamant at the 2007 Motion that there was no dispute on the facts (which included the fact that Robert Reid was a part-time employee), it is difficult to understand what objection the Appellant would have to a motion under subparagraph 93(2) to examine Robert Reid in these circumstances. Who would be more knowledgeable about his employment than Robert Reid?
+[28] Paragraph 99 of the Rules provides as follows:
+99. (1) The Court may grant leave, on such terms respecting costs and other matters as are just, to examine for discovery any person who there is reason to believe has information relevant to a material issue in the appeal, other than an expert engaged by or on behalf of a party in preparation for contemplated or pending litigation.
+(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+(c) the examination will not,
+(i) unduly delay the commencement of the hearing of the proceeding,
+(ii) entail unreasonable expense for other parties, or
+(iii) result in unfairness to the person the moving party seeks to examine.
+(3) A party who examines a person orally under this section shall, if requested, serve any party who attended or was represented on the examination with the transcript free of charge, unless the Court directs otherwise.
+(4) The examining party is not entitled to recover the costs of the examination from another party unless the Court expressly directs otherwise.
+[29] Harold Marryatt would be examined for discovery under this paragraph not paragraph 93. Given the history of this file and the very adamant submissions by counsel for the Appellant at the 2007 Motion that the facts were not in dispute (which included the fact that Robert Reid was a part-time employee) it is difficult to understand what objection counsel for the Appellant would have under subparagraph 99(2) of the Rules to a request to examine Harold Marryatt for discovery since he is the deponent of the affidavit filed in support of this Motion.
+[30] As a result, the Appellant's Motion is granted, with the costs of this Motion to the Respondent, and the Notice of Appeal is amended as follows:
+(a) Paragraph 7 of the Notice of Appeal is amended to read as follows:
+7. The KPL full-time employees so engaged were Murray Brine, Laura Gillard, Donald Nicholson, Kerry Gillard, Robert Reid, Shirley Jordan and Charles Henwood. The KPL part-time employees so engaged were Donna Gaudet, Braden Smith, and Dr. B. O'Brien.
+(b) Paragraph 9 of the Notice of Appeal is amended to read as follows:
+9. In its 2006 taxation year, at all material times KPL had the same full-time employees except for Shirley Jordan and several part-time employees engaged in this work, except that Braden Smith ceased to be a KPL part-time employee engaged in such work.
+(c) A new paragraph 14 is added, which paragraph is as follows:
+14. KPL states that at all relevant times it had at least six full-time employees and so it was not carrying on a “specified investment business” under the Act.
+(d) The paragraph that was the second paragraph 13 in the Notice of Appeal (there were two paragraphs numbered 13 in the Notice of Appeal) and which is now paragraph 15, is amended to read as follows:
+15. KPL states alternatively that it had at least five full-time employees and multiple part-time employees throughout each of the subject taxation years, and so it at all relevant times employed in its business of deriving real property rental income more than five full-time employees.
+[31] The Respondent shall have the right to examine for discovery Harold Marryatt and Robert Reid.
+[32] The previous Order of this Court dated September 10, 2007 as amended by the Order dated October 18, 2007 is no longer applicable with respect to the timetable for the completion of discoveries, the satisfaction of undertakings and the communication with the Hearings Coordinator as the Notice of Appeal has been amended and the Respondent will have 10 days from the date of the service of this Order and Reasons within which to respond to the amended Notice of Appeal, as provided in paragraph 57 of the Rules. As a result, no dates are now set for the completion of discoveries, the satisfaction of undertakings and the communication with the Hearings Coordinator as it is premature to set these dates before the Respondent has responded to the amended Notice of Appeal.
+Signed at Ottawa, Ontario, this 13th day of February 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC103
+COURT FILE NO.: 2007-1999(IT)G
+STYLE OF CAUSE: KERRY PROPERTIES LIMITED AND THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: January 30, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: February 13, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, QC and Catherine McIntyre
+Counsel for the Respondent:
+Cecil S. Woon
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, QC
+Firm: McInnes Cooper
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

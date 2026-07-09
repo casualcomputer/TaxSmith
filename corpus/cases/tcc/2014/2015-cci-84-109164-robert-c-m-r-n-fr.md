@@ -1,0 +1,212 @@
+---
+title: "Robert  c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109164/index.do"
+last_modified: "2014-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 84"
+citation2: ""
+neutral_citation: "2015 CCI 84"
+decision_date: "2014-04-16"
+language: "fr"
+item_id: "109164"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2862
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:00:40.748000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3f53426cf059f7a2f10f433521ca401741117e3dae02c4232616f78991b0455"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robert  c. M.R.N.
+
+- Citation: 2015 CCI 84
+- Decision date: 2014-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2862, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robert c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-16
+Référence neutre
+2015 CCI 84
+Numéro de dossier
+2014-642(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2014-642(EI)
+ENTRE :
+LUCIE-DIANE ROBERT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+VYTA SENIKAS,
+intervenante.
+Appel entendu le 14 novembre 2014, à Ottawa (Ontario).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimé :
+Me Gabrielle White
+Pour l'intervenante:
+L'intervenante elle-même
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la décision du ministre du Revenu national à l’effet que l’appelante n’occupait pas un emploi assurable au sens de la Loi sur l’assurance-emploi est rejeté puisque pendant la période en litige, soit du 1er janvier 2008 au 31 décembre 2011, l’appelante et l’intervenante n’étaient pas liées par un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi.
+Signé à Montréal, Canada, ce 16e jour d’avril 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 84
+Date : 20150416
+Dossier : 2014-642(EI)
+ENTRE :
+LUCIE-DIANE ROBERT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+VYTA SENIKAS,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelante a interjeté appel devant cette Cour conformément à l’article 103 de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23, telle que modifiée (la « Loi »). Cet appel porte sur l’assurabilité du travail exercé par l’appelante auprès de la docteure Vyta Senikas (la « payeuse ») au cours des années d’imposition 2008, 2009, 2010 et 2011 (la « période en litige »).
+[2] Étant d’avis qu’elle agissait à titre d’employée, l’appelante a déposé une plainte auprès du ministre du Revenu national (le « ministre ») le ou vers le 30 mai 2012 au motif que la payeuse ne lui avait pas fourni ses feuillets T4 ou T4A pour les années d’imposition comprise dans la période en litige.
+[3] Suite au dépôt de la plainte de l’appelante, le ministre a entrepris une analyse quant à l’assurabilité de son travail effectué auprès de la payeuse pendant la période en litige. Le 5 novembre 2012, l’appelante a été informée de la décision du ministre à l’effet qu’elle n’exerçait pas un emploi assurable lorsqu’au service de la payeuse.
+[4] Le ou vers le 13 février 2013, l’appelante fit appel et demanda à l’intimé de statuer sur la question de savoir si l’emploi qu’elle occupait auprès de la payeuse durant la période en litige était un emploi assurable. Par une lettre datée du 30 août 2013, l’intimé informa l’appelante de sa décision selon laquelle son travail auprès de la payeuse pendant la période en litige n’était pas un emploi assurable, d’où l’appel devant cette Cour.
+[5] Pour rendre sa décision, l’intimé a tenu pour acquis les faits suivants énoncés au paragraphe 7 de la réponse à l’avis d’appel :
+a) L’appelante a été engagée par la payeuse pour prendre soin de sa mère, madame Johanna Senikas (ci-après, la « mère de la payeuse »; [admis]
+b) En 2011, la mère de la payeuse était âgée de 90 ans; [admis]
+c) L’appelante et la payeuse étaient liées par une entente verbale conclue le 20 octobre 2008 à Ottawa, dans la province de l’Ontario; [nié]
+d) L’appelante considère qu’elle a été engagée par la payeuse à titre d’employée, alors que la payeuse est d’avis que l’appelante lui rendait ses services à titre de travailleuse autonome; [nié]
+e) L’appelante a commencé à rendre ses services à la payeuse le 20 octobre 2008 et n’a pas travaillé pour cette dernière entre le 1er janvier 2008 et le 19 octobre 2008; [admis]
+f) Les tâches de l’appelante consistaient principalement à aider la mère de la payeuse à prendre sa douche, à lui rappeler de prendre ses trois repas par jour, et parfois à préparer lesdits repas; [admis en ajoutant la promenade des chiens et le déblayage à l’entrée du garage et de la maison]
+g) L’appelante effectuait ces tâches au domicile de la payeuse, où demeurait également la mère de la payeuse; [admis]
+h) L’appelante était logée sans frais au domicile de la payeuse lorsqu’à son service; [nié]
+i) L’horaire de travail de l’appelante était déterminé en fonction des besoins d’assistance de la mère de la payeuse et des disponibilités de la payeuase; [admis]
+j) L’appelante était généralement présente au domicile de la payeuse en l’absence de cette dernière, mais elle pouvait s’absenter pour une courte durée en laissant la mère de la payeuse seule; [admis, le tout conformément aux horaires de travail de la payeuse]
+k) Après son travail, l’appelante était libre de quitter la maison de la payeuse; [nié]
+l) La rémunération de l’appelante était déterminée par la payeuse; [admis]
+m) L’appelante était toujours rémunérée par la payeuse pour des semaines de quarante heures de travail, peu importe le nombre réel d’heures de travail effectuées; [nié]
+n) Pour les semaines du 19 octobre 2008 au 26 décembre 2010, l’appelante recevait un montant brut de 400 dollars par semaine; [admis]
+o) À compter de 2011 et jusqu’à la fin de la période en litige, la rémunération brute de l’appelante a été augmentée à 420 dollars par semaine, à sa demande; [admis]
+p) Aucune déduction ni retenue à la source n’était effectuée par la payeuse sur la rémunération de l’appelante; [admis]
+q) L’appelante n’avait pas besoin d’outils particuliers pour effectuer ses tâches, et utilisait le matériel fourni par la payeuse, notamment, le matériel de cuisine pour préparer les repas et les collations de la mère de la payeuse; [admis]
+r) Au cours de la période en litige, l’appelante n’a jamais eu à sous-traiter son travail ou à engager des assistants; [admis]
+s) L’appelante n’engageait aucune dépense relativement aux services qu’elle rendait à la payeuse; [admis]
+t) Dans ses déclarations de revenus pour les années d’imposition 2008, 2009, 2010 et 2011, l’appelante a déclaré les revenus gagnés auprès de la payeuse à titre de revenu d’entreprise et non à titre de revenu d’emploi; [admis]
+u) Pour les années d’imposition 2008, 2009, 2010 et 2011, l’appelante a également réclamé des déductions pour cotisations au Régime de pensions du Canada ou au Régime de rentes du Québec pour le revenu d’un travail indépendant, relativement aux revenus nets du travail indépendant effectué auprès de la payeuse; [admis]
+v) Le 7 août 2012, l’appelante a déposé une réclamation auprès du ministère du Travail de l’Ontario, alléguant que la payeuse avait manqué à ses obligations en vertu [de] la Loi de 2000 sur les normes d’emploi, L.O. 2000, C. 41, plus particulièrement en ce qui avait trait à la rémunération des heures supplémentaires, aux indemnités de vacances, au salaire pour jours fériés, et aux limites applicables aux heures de travail, aux pauses-repas et aux périodes de repos; [admis]
+w) Le 24 septembre 2012, l’appelante s’est désistée de sa réclamation auprès du ministère du Travail, sans qu’aucune transaction ne soit intervenue entre elle et la payeuse. [admis]
+[6] L’appelante a témoigné à l’audience. Elle a d’abord confirmé avoir conclu une entente verbale à Montréal avec la payeuse pour prendre soin de la mère de la payeuse à Ottawa, qui était âgée de 87 ans en 2008. Cette dernière était relativement autonome et pouvait se déplacer seule à l’aide d’une canne. Par contre, comme il lui arrivait d’avoir des pertes de connaissance, il était nécessaire de lui accorder une surveillance 24 heures sur 24.
+[7] L’appelante a débuté son travail chez la payeuse le 20 octobre 2008. Ses tâches consistaient à aider la mère de l’appelante à prendre sa douche, à lui rappeler de prendre ses trois repas par jour et parfois à préparer lesdits repas et les collations, à faire la lessive pour le lit de la mère de la payeuse, à s’occuper des deux chiens de la payeuse, à dégager les entrées du garage et de la maison pendant l’hiver et à divertir la mère de la payeuse en jouant aux cartes avec elle. L’appelante n’avait pas à s’occuper des médicaments de la mère de la payeuse, ni du nettoyage de la maison.
+[8] L’appelante était logée et nourrie sans frais au domicile de la payeuse. Elle disposait de sa propre chambre avec une salle de bain attenante. Elle avait acccès au service internet pour l’ordinateur mis à sa disposition et de câble pour la télévision également fournie gratuitement.
+[9] L’horaire de travail était déterminé par la payeuse en fonction des besoins d’assistance de sa mère et de ses propres disponibilités. L’appelante n’avait donc pas d’horaire fixe. L’appelante et la payeuse n’ont pas tenu de registre des heures travaillées.
+[10] La rémunération de l’appelante était déterminée par la payeuse. L’appelante a reçu une rémunération de 10 $ par heure travaillée, soit 400 $ pour une semaine de 40 heures, pour les semaines du 19 octobre 2008 au 26 décembre 2010. À compter de 2011 et ce jusqu’à la fin de la période en litige, la rémunération de l’appelante a été augmentée à 10,50 $ par heure, soit 420 $ pour une semaine de 40 heures. Les heures n’étaient pas véritablement comptabilisées et l’appelante devait à l’occasion travailler les fins de semaine lorsque la payeuse devait s’absenter pour des congrès ou des conventions de médecins. Pour l’appelante, les heures travaillées les fins de semaine compensaient pour le loyer et la nourriture dont elle pouvait bénéficier.
+[11] L’appelante était payée la plupart du temps en argent comptant et parfois par des chèques portant soit le nom de la payeuse, le nom de la payeuse et de sa mère (compte conjoint) ou le nom de la Societé des obstétriciens et des gynécologues du Canada. La payeuse payait parfois d’avance pour les services à être rendus par l’appelante.
+[12] En plus de sa rémunération, l’appelante avait droit à un billet aller/retour en autobus à Montréal une fois par mois, vu qu’elle avait gardé son appartement à Montréal et qu’elle n’avait pas effectué son changement d’adresse à la résidence de la payeuse.
+[13] Selon l’appelante, la payeuse ne lui a jamais mentionné qu’elle retenait ses services en tant que travailleuse autonome et elle lui a demandé des relevés T4 en janvier 2009. Comme elle ne les a jamais obtenus, elle a dû déclarer son revenu comme du revenu d’entreprise. L’appelante a affirmé avoir formulé la même demande en janvier 2010. La payeuse se serait alors fâchée et aurait refusé d’émettre les relevés T4 pour l’année 2010. Sans les relevés T4, l’appelante a déclaré ses revenus pour le travail effectué pour la payeuse comme du revenu d’entreprise. La même situation s’est produite pour l’année 2011.
+[14] Tel que mentionné au paragraphe 7(v) des hypothèses de fait retenues par le ministre, l’appelante a, le 7 août 2012, déposé une réclamation auprès du ministère du Travail de l’Ontario alléguant que la payeuse avait manqué à ses obligations en vertu de la Loi de 2000 sur les normes d’emploi. Le 24 septembre 2002, l’appelante s’est désistée de sa réclamation sans qu’aucune transaction ne soit conclue entre elle et la payeuse. À l’audience, l’appelante a expliqué qu’elle a arrêté les procédures pour des raisons de santé. Elle faisait de la haute pression et elle avait peur de faire un deuxième infarctus. Par contre, suite au retrait de la plainte, les conditions de travail de l’appelante ont été changées et la payeuse a émis à l’appelante des relevés T4 pour l’année 2012 en plus de remettre aux autorités fiscales les montants de déduction à la source qui auraient dû être retenus sur la rémunération versée à l’appelante pendant toute l’année 2012.
+[15] L’appelante a demeuré dans la résidence de la payeuse jusqu’au 15 février 2013 suite au transfert de la mère de la payeuse dans une maison de convalescence au début de l’année 2013 et à la pré-retraite de la payeuse.
+[16] La payeuse a également témoigné à l’audience. Elle a affirmé connaître l’appelante depuis au moins une vingtaine d’années et avoir retenu ses services à deux reprises avant de lui demander de s’occuper de sa mère. Dans son avis d’intervention daté du 10 avril 2014, la payeuse a expliqué qu’il y a une quinzaine d’années, elle avait engagé l’appelante pour travailler comme réceptionniste à sa clinique médicale pour remplacer ladite réceptionniste pendant son congé de maternité. Cette embauche a duré 13 mois; l’appelante a été traitée comme une employée et des relevés T4 lui ont alors été remis. Plus récemment, il y a environ une dizaine d’années, la payeuse a de nouveau retenu les services de l’appelante pour s’occuper de ses enfants à Montréal au cours de son année de transition à Ottawa. Le mandat a été d’une durée d’une année et l’appelante a alors accepté d’être rémunérée sur une base contractuelle, i.e., sans déduction à la source et sans émission de relevés T4.
+[17] La payeuse a confirmé qu’aucune entente écrite n’a été signée avec l’appelante relativement à son travail auprès de sa mère. Elle a de plus affirmé n’avoir jamais eu de discussions avec l’appelante concernant son statut fiscal et n’avoir été informée du problème pour la première fois que lorsqu’elle a reçu une copie de la lettre du ministère du Travail de la province d’Ontario en date du 10 août 2012. Selon elle, l’appelante a toujours reçu et accepté sa rémunération tout en sachant très bien qu’aucune déduction à la source n’avait été effectuée. Selon la payeuse, l’appelante a produit ses déclarations de revenu comme travailleuse autonome et elle ne lui a jamais demandé de recevoir des relevés T4.
+[18] La payeuse a de plus confirmé qu’elle et sa mère n’ont jamais déclaré aux autorités fiscales l’embauche de l’appelante et que le crédit d’impôt de 7 000 $ pour s’occuper d’une personne malade à domicile a été réclamé.
+Dispositions législatives applicables
+[19] L’expression « emploi assurable » est définie au paragraphe 5(1) de la Loi en ces termes :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) l’emploi du genre visé à l’alinéa a), exercé au Canada au service de Sa Majesté du chef du Canada;
+c) un emploi à titre de membre des Forces canadiennes ou d’une force policière;
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+e) l’emploi d’un particulier au Canada à titre de promoteur ou coordonnateur d’un projet dans le cadre d’une prestation d’emploi.
+[20] L’analyse du dossier de l’appelante a été effectuée sur la base que l’entente verbale liant l’appelante et la payeuse avait été conclue à Ottawa parce que le travail était exécuté à Ottawa. Or, à l’audience, il a été démontré que l’entente avait été conclue à Montréal. Par conséquent, il y a lieu de considérer les relations entre les parties à la lumière des règles du Code civil du Québec et non pas en vertu des critères jurisprudentiels élaborés en vertu de la common law. Le droit applicable en l’espèce est le Code civil du Québec et l’entente conclue entre l’appelante et la payeuse doit être interprétée conformément aux lois de la province de Québec. L’avocate de l’intimé a reconnu à l’ouverture de sa plaidoirie que le droit applicable en l’espèce était le Code civil du Québec.
+[21] Les articles du Code civil du Québec qui sont pertinents aux fins du présent litige sont les articles 2085, 2098 et 2099. Ces articles se lisent comme suit :
+Article 2085
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+Article 2098
+Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+Article 2099
+L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+Analyse
+[22] L’élément distinctif entre les deux types de contrat prévus au Code civil du Québec est la notion de contrôle, qui est sans aucun doute l’élément le plus important de la détermination juridique de la nature des relations entre les parties.
+[23] En l’espèce, la nature des services rendus par l’appelante était des services de base de soins à domicile, tels la surveillance générale de la mère de la payeuse, l’aide aux bains, s’assurer qu’elle prenait ses collations et ses repas (incluant à l’occasion la préparation de plats qu’elle lui demandait) et s’occuper de son divertissement. Dans ses fonctions, l’appelante n’avait pas à rendre de services spécialisés, tels des soins infirmiers et la prise de médicaments.
+[24] L’appelante faisait pratiquement partie de la famille de la payeuse et jouissait d’une grande latitude dans le cadre de son travail.
+[25] L’appelante avait le libre choix des moyens d’exécution de son travail et recevait peu d’instructions de la part de la payeuse quant à la façon d’exécuter son travail. L’horaire de travail de la payeuse n’était pas régulier et était établi en fonction de celui de la payeuse.
+[26] L’appelante jouissait d’une grande liberté quant à l’utilisation de son temps et ce, même pendant ses heures de travail. De fait, l’appelante a poursuivi, au cours de la période en litige, ses études à temps partiel par internet auprès de l’Université Walden située à Phoenix aux États-Unis.
+[27] La rémunération de l’appelante a été établie par la payeuse. Pour ses services, l’appelante était payée à l’heure pour 40 heures par semaine. Bien que les heures de travail de l’appelante variaient d’une semaine à l’autre, cette dernière recevait le même montant à toutes les semaines quel que soit le nombre d’heures effectivement travaillées par l’appelante. À partir de 2011, l’appelante a eu une augmentation de son tarif horaire. Aucun registre des heures travaillées n’était maintenu par la payeuse. L’appelante recevait sans doute une partie de sa rémunération, de même que sa nourriture et son logement, pour sa disponibilité trois fins de semaine par mois.
+[28] Contrairement à l’analyse effectuée par le ministre, il m’apparaît évident compte tenu de la nature des services rendus par l’appelante que la notion de contrôle soit le facteur déterminant en l’espèce. Le travail de l’appelante est similaire au travail effectué par une préposée aux soins à domicile, ce qui a pour effet d’appuyer l’existence d’un contrat de service.
+[29] De plus, l’intention commune des parties au moment de la conclusion de l’entente tend à démontrer que les parties s’attendaient à ce que l’appelante fournisse ses services à titre de travailleuse autonome.
+[30] Ce point de vue a été clairement exprimé par la payeuse dans son avis d’intervention mais cette prétention est grandement disputée par l’appelante qui soutient qu’elle a toujours voulu offrir ses services en tant qu’employée. L’entente entre l’appelante et la payeuse s’est conclue verbalement mais les parties ne se sont pas entendues quant au statut juridique de leurs relations. Dans de telles circonstances, la détermination du statut juridique de l’appelante doit nécessairement être basée sur des inférences tirées des faits soumis à la Cour.
+[31] D’abord, il y a lieu de souligner le fait que les deux parties à l’entente connaissaient très bien l’importance de la détermination du statut de l’appelante; l’appelante ayant antérieurement travaillé à deux reprises pour la payeuse, une fois en tant qu’employée et une fois en tant que travailleuse autonome. De plus, la payeuse occupait à l’époque le poste de chef de la direction d’une importante organisation médicale comptant plus de 55 employés(es) et connaissait très bien les obligations des employeurs d’émettre des relevés T4 dans les délais prescrits.
+[32] Au cours des années d’imposition comprise dans la période en litige, l’appelante a déclaré la rémunération reçue de la payeuse comme du revenu d’entreprise et non comme du revenu d’emploi. Les présomptions de fait du ministre non contredites établissent clairement qu’aucune déduction, ni retenue à la source n’a été effectuée par la payeuse sur la rémunération de l’appelante et que l’appelante a réclamé des déductions pour cotisations au Régime de pensions du Canada ou au Régime de rentes du Québec pour le revenu d’un travail indépendant effectué auprès de la payeuse.
+[33] Selon ce qui a été mis en preuve, il ne semble pas que l’appelante ait émis de factures à la payeuse pour ses services et qu’elle se soit enregistrée aux fins de la taxe sur les produits et services.
+[34] Le fait que l’appelante ait été privée des indemnités de vacances et d’un salaire pour les jours fériés auraient dû lui indiquer que la rémunération était conforme à celle d’un travailleur autonome.
+[35] Le mode de rémunération privilégié par la payeuse durant les années d’imposition 2008, 2009, 2010 et 2011 était cohérent avec celui utilisé lorsque l’appelante a été engagée comme gardienne d’enfants. Le fait que l’appelante n’ait pas sonné l’alarme durant toutes ces années laisse croire que les parties avaient effectivement l’intention commune de conclure un contrat de services.
+[36] Il est pour le moins étonnant que l’appelante ait attendu jusqu’à l’an 2012 pour se plaindre du défaut de la payeuse de lui émettre des relevés T4 pour chacune des années d’imposition en litige. Ces feuillets étant de connaissance générale auprès des travailleurs et travailleuses du Canada, l’appelante aurait pu facilement exiger de la payeuse une copie des feuillets T4 aux fins d’impôts à chaque année, si elle avait réellement eu l’intention de travailler en tant qu’employée plutôt que d’attendre vers la fin de son contrat avec la payeuse.
+[37] Les facteurs à prendre en considération pour déterminer si une personne travaillait à son propre compte ou non sous le régime de la common law ont été énoncés dans les arrêts Wiebe Door Services c. Canada (Ministre du Revenu national), [1986] 3 C.F. 553 (Cour d’appel fédérale) et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59 (Cour suprême du Canada). Ces facteurs sont les suivants :
+a) le degré de contrôle exercé sur les activités du travailleur;
+b) la propriété des instruments de travail;
+c) les chances de profits; et
+d) les risques de pertes.
+[38] Le seul facteur qui m’apparaît être pertinent aux fins de déterminer le statut de l’appelante est celui du contrôle exercé sur les activités de la travailleuse. Tel que précédemment discuté, ce facteur étaye la conclusion que l’appelante était une travailleuse autonome. Les autres facteurs sont neutres du fait que l’appelante n’avait pas à fournir d’outils ou d’équipements et que l’appelante avait peu de chances de réaliser des profits et d’encourir des pertes compte tenu de l’absence d’investissement de capital de sa part.
+[39] Compte tenu de ce qui précède, la réponse à la question de savoir si l’appelante a été engagée pour fournir les services en tant que personne travaillant à son compte, doit être répondue par l’affirmative. Les parties avaient au départ l’intention commune que l’appelante fournisse ses services à titre de travailleuse autonome. Cette intention a été par la suite confirmée par la conduite des parties pendant les années d’imposition comprises dans la période en litige.
+[40] Pour ces motifs, je conclus que la relation contractuelle qui existait entre les parties pendant la période en litige était une relation régie par un contrat d’entreprise. L’appel est par conséquent rejeté.
+Signé à Montréal, Canada, ce 16e jour d’avril 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 84
+Nº DU DOSSIER DE LA COUR :
+2014-642(EI)
+INTITULÉ DE LA CAUSE :
+LUCIE-DIANE ROBERT ET M.R.N. ET VYTA SENIKAS
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+le 14 novembre 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 16 avril 2015
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimé :
+Me Gabrielle White
+Pour l'intervenante:
+L'intervenante elle-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

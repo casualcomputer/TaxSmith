@@ -1,0 +1,114 @@
+Title: Nerbas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25971/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-382-25971-nerbas-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-19
+
+# Nerbas v. The Queen
+
+- Citation: 2004 CCI 382
+- Decision date: 2004-05-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3769, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nerbas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-19
+Référence neutre
+2004 CCI 382
+Numéro de dossier
+2003-2723(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2723(IT)I
+ENTRE :
+ARMIN NERBAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 mai 2004 à Vancouver (Colombie-britannique)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Gavin Laird
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la détermination du ministre du Revenu national pour la période du 27 décembre 2001 au 30 avril 2002 en ce qui concerne les prestations fiscales pour enfants pour l'année de base 2000 est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de mai 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 20e jour de juillet 2004.
+Liette Girard, traductrice
+Référence : 2004CCI382
+Date : 20040519
+Dossier : 2003-2723(IT)I
+ENTRE :
+ARMIN NERBAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Armin Nerbas interjette appel à l'encontre d'une détermination faite par le ministre du Revenu national selon laquelle il n'était pas un « particulier admissible » au sens de l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard de sa fille Stevie Nerbas ( « Stevie » ), une « personne à charge admissible » [au sens de l'article 122.6], durant la période du 27 décembre 2001 au 30 avril 2002 et qu'il n'a donc pas le droit de recevoir la Prestation fiscale canadienne pour enfants admissible (PFE) demandée par lui.
+[2] M. Nerbas, Coreen Tantrum (la mère de Stevie) et Stevie ont témoigné au procès. Les faits établis par M. Nerbas et Mme Tantrum étaient contradictoires. Stevie, qui avait 17 ans au moment du procès, a témoigné en faveur de son père. De toute évidence, si j'accepte le témoignage de M. Nerbas, je dois conclure que celui de Mme Tantrum était un tissu de mensonges. Si j'accepte le témoignage de Mme Tantrum, je dois conclure que M. Nerbas a menti. Pour ce qui est de Stevie, selon la preuve dont je suis saisi, il est indéniable qu'au cours des huit dernières années, comme ses parents se sont séparés et qu'ils ont intenté une suite interrompue de litiges, elle a favorisé parfois son père et, à d'autres occasions, sa mère. M. Nerbas et Mme Tantrum ont deux autres filles qui, heureusement, n'ont pas comparu au procès.
+[3] Le 20 novembre 2000, une ordonnance rendue par la Cour suprême de la Colombie-Britannique a modifié une ordonnance précédente en date du 13 janvier 1999 de façon à ce qu'elle prévoie, notamment, que Stevie résidera habituellement avec M. Nerbas et que Mme Tantrum aura des droits de visite généreux. Le droit de visite de Mme Tantrum à l'égard de Stevie comprenait [traduction] « la moitié des vacances de Noël » lorsque les deux autres enfants ne se trouvaient pas avec M. Nerbas. Les deux parents ont conservé la tutelle et la garde conjointes de Stevie.
+[4] L'ordonnance du 20 novembre 2000 de la Cour suprême a elle-même été modifiée le 10 juillet 2002 de façon à ce que Stevie réside habituellement avec Mme Tantrum. L'ordonnance du 10 juillet 2002 prévoyait également que M. Nerbas verserait, à compter du 1er avril 2002, un montant mensuel à Mme Tantrum pour la pension alimentaire des trois enfants.
+[5] C'est ainsi que, selon M. Nerbas, le 27 décembre 2001 Stevie s'est rendue chez sa mère pour y passer la moitié des vacances de Noël, et qu'elle est revenue chez elle le 2 janvier 2002. M. Nerbas s'est rappelé que, durant la fin de semaine de l'Action de grâce en 2000[1], Stevie a téléphoné à son père pour lui dire que sa mère l'avait mise à la porte de chez elle. Il a indiqué avoir dit à Stevie qu'il irait la prendre et qu'elle résiderait chez lui à partir de ce moment. Il a insisté pour dire que c'était lui qui prenait soin de Stevie et qu'il l'amenait à l'école (puisqu'il vivait en région rurale) si elle ne prenait pas l'autobus pour y aller.
+[6] M. Nerbas soutient qu'il a pris soin de Stevie chez lui entre le 2 janvier 2002 et le 1er avril 2002. Il a indiqué que, pendant ce temps, il a permis à la mère de Stevie de voir cette dernière plus souvent que ce que n'importe quelle ordonnance de la Cour prévoyait. Il a déclaré qu'au mois d'avril 2002, Stevie souhaitait passer plus de temps avec sa mère et qu'elle était allée vivre avec Mme Tantrum. Cependant, selon M. Nerbas, il a continué de garder une chambre chez lui pour Stevie et d'être le parent avec qui l'école communiquait au besoin. Les animaux de compagnie de Stevie se trouvaient chez lui. Ce n'était qu'au mois de juillet 2002 que Stevie a décidé de vivre « principalement » avec sa mère. [L'ordonnance de la Cour du 10 juillet 2002 prévoyait que Stevie résiderait habituellement [traduction] « avec Mme Tantrum » .]
+[7] On a montré à M. Nerbas un questionnaire qui lui avait été envoyé par l'Agence des douanes et du revenu du Canada (ADRC), qu'il a renvoyé rempli à l'ADRC, le 19 décembre 2002 ou vers cette date. M. Nerbas y déclarait que Stevie vivait avec lui durant la période en question et avec personne d'autre. [traduction] « Cependant » , a-t-il expliqué, « Stevie se rendait chez sa mère les mardis après l'école et y passait la nuit ainsi que toute autre fin de semaine, selon ce que prévoyait l'ordonnance de la Cour. Selon mon entente avec Stevie, elle pouvait passer plus de temps chez sa mère lorsqu'elle le décidait. » Il a également indiqué ce qui suit : [traduction] « il n'était pas clair pour moi que les arrangements sur les conditions de vie avaient été modifiés avant de comparaître en cour au mois de juillet 2002 » .
+[8] M. Nerbas a également informé l'ADRC de ce qui suit :
+[traduction]
+À compter du 27 décembre 2001, Stevie est allée chez sa mère dans le cadre des vacances en alternance prévues par l'ordonnance de la Cour. Je n'ai jamais été informé par Stevie et sa mère que ce n'était pas sa résidence principale, puisque j'ai conservé la chambre, les vêtements, les fournitures scolaires, etc. de Stevie jusqu'au mois de juillet 2002, époque à laquelle l'ordonnance de la Cour a été rendue. Jusqu'à ce moment, Stevie passait toujours beaucoup de temps chez moi et participait aux activités familiales.
+[9] M. Nerbas a déclaré que [traduction] « tout était organisé par l'ordonnance de la Cour » et qu'il n'était pas clair pour lui s'il devait conserver une chambre pour Stevie chez lui.
+[10] Selon Mme Tantrum, lorsque Stevie est arrivée chez elle, le 27 décembre 2001, elle a dit qu'elle venait [traduction] « à la maison » . Mme Tantrum a indiqué que Stevie n'avait pas parlé à son père de son projet de vivre avec sa mère et qu'elle lui a dit d'en glisser un mot à ce dernier pour l'informer de ses intentions. Le 9 janvier 2002, Stevie a visité son père pour la première fois après être déménagée chez sa mère.
+[11] L'avocat de la Couronne a déposé un affidavit établi sous serment de M. Nerbas le 10 juillet 2002. Apparemment, le petit ami de Mme Tantrum avait agressé cette dernière et Stevie le 5 juin 2002 et ces incidents sont venus à l'attention de M. Nerbas le 9 juillet, se rappelle-t-il, la nuit précédant la journée où la Cour suprême de la Colombie-Britannique devait entendre la demande et la demande reconventionnelle de Mme Tantrum et de M. Nerbas, respectivement, soit le 10 juillet 2002. M. Nerbas a tenté de faire remettre l'audience afin d'obtenir les détails de l'agression. Sa demande de remise a été rejetée. Dans son affidavit au soutien de la remise, M. Nerbas a déclaré ce qui suit :
+[traduction]
+La nuit de l'incident, le mercredi 5 juin 2002, les enfants, Shawnie et Shelby, étaient avec moi. Cependant, Stevie était chez la demanderesse. Stevie a choisi de ne pas me visiter pendant environ deux mois. Auparavant, entre les mois de février et d'avril 2002, elle venait me voir pendant mes droits de visite avec Shawnie et Shelby.
+[12] M. Nerbas a indiqué, dans son témoignage, que l'affidavit est « mal formulé » . En bref, il réfute son affidavit. Il a déploré que ce dernier avait été rédigé par l'assistant de son avocat et qu'il avait été préparé rapidement. Lorsqu'il a lu l'affidavit, M. Nerbas pensait qu'il se rapportait à l'agression. Il était bouleversé et, a-t-il dit, il avait commis une erreur en le signant. Au procès, il a insisté pour dire que Stevie était avec lui durant les mois de janvier, de février et de mars 2002. En réponse aux questions de l'avocat de l'intimée, M. Nerbas a reconnu qu'il retenait toujours les services de l'avocat responsable de la rédaction de l'affidavit et qui le représentait à l'audition de la requête le 10 juillet. Son avocat n'a pas été appelé comme témoin.
+[13] Mme Tantrum s'est rappelée qu'à la fin du mois de janvier 2002, elle s'est présentée à la Cour suprême de la Colombie-Britannique à Chilliwack pour obtenir une brochure d'information sur la façon de se représenter dans le cadre d'une instance judiciaire. Elle a préparé, sur son ordinateur personnel, un avis de requête en ordonnance indiquant que Stevie résidait avec elle. Elle a proposé que la requête soit entendue à l'une ou l'autre des dates suivantes, soit le 25 février, le 4 mars ou le 11 mars 2002. Mme Tantrum a tenté de faire signifier l'avis à M. Nerbas par son petit ami, à l'époque, et par son beau-père, ce qui avait entraîné l'intervention de la police. On lui avait par la suite conseillé de retenir les services d'un huissier. L'avis a été signifié le 15 février 2002.
+[14] Le 25 février 2002, l'avocat de M. Nerbas a envoyé un ensemble de documents chez Mme Tantrum. Les documents, selon cette dernière, indiquaient que Stevie vivait avec M. Nerbas. Mme Tantrum a retenu les services d'un avocat. L'avis de requête a été déposé en cour le 5 juillet 2002 et il devait être présenté le 10 juillet 2002.
+[15] Dans son affidavit au soutien de sa requête datée du 30 janvier 2002, Mme Tantrum a indiqué que Stevie résidait avec elle depuis le 28 décembre 2001 et que, depuis le 20 novembre 2000, elle continue de prendre soin de Stevie. Dans un deuxième affidavit, daté du 11 avril 2002, Mme Tantrum a dressé les horaires des visites de Stevie chez son père depuis le 21 décembre 2001. Les dates proviennent du calendrier qu'elle conserve et qui indique les jours où Stevie était avec elle et ceux où elle était avec M. Nerbas. Dans le deuxième affidavit, Mme Tantrum a conclu ce qui suit :
+[traduction]
+Stevie ne souhaite pas être mêlée au litige existant entre le défendeur et moi-même. Elle craint que, si elle doit y participer et indiquer à la Cour ce qu'étaient les arrangements sur les conditions de vie, elle subira des représailles de la part du défendeur. J'ai demandé à Stevie si elle s'opposait à être interrogée par une personne nommée par la Cour et elle a répondu qu'elle s'y opposait et qu'elle préférait être laissée à complètement l'écart de cela.
+[16] Mme Tantrum a déposé une copie du calendrier des arrangements sur les conditions de vie de Stevie pour les mois de janvier, de février, de mars, d'avril, de mai et de juin 2002. Elle a pris des mots pour elle-même, sur le calendrier, concernant les visites, et elle a souligné des dates importantes. Elle a indiqué, dans son témoignage, qu'elle conservait un calendrier en raison du [traduction] « litige continu » qui dure depuis le mois de novembre 1996. Elle a déclaré que le calendrier lui permettait de confirmer des dates dont elle ne pouvait se rappeler. Elle a expliqué que, lorsque rien n'était indiqué à l'égard de certains jours sur le calendrier, Stevie était avec elle et que, lorsqu'une note figurait pour un jour donné, Stevie était avec son père. Le seul doute quant à Stevie concernait la période entre le 18 et le 20 janvier 2002, inclusivement. Le calendrier établit qu'à l'exception du mois de mars, où Stevie semble avoir passé autant de temps chez ses deux parents, elle résidait chez sa mère. Mme Tantrum a indiqué, dans son témoignage, que durant les mois de janvier et de février il y avait eu beaucoup de [traduction] « conversations dans les deux sens » entre Stevie et son père alors que Stevie vivait chez elle.
+[17] Entre-temps, durant la première partie de 2002, Stevie a continué de voir son père et de le visiter avec ses plus jeunes soeurs même si, selon Mme Tantrum, Stevie avait plus de jours de visite avec son père que ses soeurs. Toujours selon Mme Tantrum, Stevie éprouvait de la difficulté à communiquer avec M. Nerbas et, [traduction] « vers la fin du mois de mars, [leur relation] était presque inexistante » .
+[18] Selon le témoignage de Stevie, sa mère lui a dit de signer un affidavit le 26 juin 2002 dans lequel elle indiquait ce qui suit :
+[traduction]
+Je vis avec ma mère à l'adresse ci-dessus depuis le 27 décembre 2001. Avant cette date, je résidais avec mon père. J'ai réfléchi à ma décision de déménager chez ma mère pendant environ deux mois et, ayant finalement décidé de le faire, j'ai alors appelé mon père (une journée ou deux après le 27 décembre) pour l'en informer.
+[19] Au procès, Stevie a déclaré qu'elle n'avait pas appelé son père comme il était indiqué dans l'affidavit. Elle a affirmé que l'affidavit lui avait été remis dans la salle d'attente d'un bureau d'avocat et qu'elle l'avait signé. Mme Tantrum a déclaré que l'affidavit avait été lu à Stevie et que cette dernière l'avait signé dans le bureau de l'avocat.
+[20] Dans une note écrite à la demande de son père et chez ce dernier le 20 février 2003, ou vers cette date, Stevie a déclaré ce qui suit :
+[traduction]
+Je ne suis pas déménagée de la maison de mon père (Armin Nerbas) pour vivre officiellement dans la maison de ma mère (Cory Tantrum) avant le mois d'avril 2002. La période entre le mois de décembre 2001 au mois d'avril 2002 où j'ai passé du temps chez ma mère consistait en des vacances de Noël et la période de relâche du printemps déjà organisées.
+[21] En contre-interrogatoire, Stevie a déclaré qu'elle vivait chez son père [traduction] « depuis quelques semaines » . Stevie a confirmé que ses parents ne se parlaient pas.
+[22] Stevie était présente durant les témoignages au procès. À la suggestion de l'avocat de la Couronne, j'ai demandé à Stevie de quitter la salle d'audience durant l'argumentation puisque la crédibilité des parents déterminerait l'issue du procès. Sa présence durant les débats ne servirait à rien. J'ai remarqué que, durant le procès, Stevie et sa mère se sont assises à deux extrémités de la salle d'audience, ne se regardant jamais. J'ai également remarqué que Stevie souriait et hochait la tête lors de certaines parties du témoignage de sa mère qu'elle n'approuvait pas. Il est triste que Stevie ait été en cour durant les témoignages contradictoires de ses parents et cela n'avait aucun but. M. Nerbas a reconnu que Stevie déménageait de chez un parent pour aller chez l'autre selon sa relation avec le parent en particulier. Lorsque Stevie était en désaccord ou en dispute avec l'un des parents, elle déménageait chez l'autre. Les arrangements sur les conditions de vie de Stevie n'ont pas été influencés par une ordonnance de la Cour durant la période en litige.
+[23] Il est évident qu'au moment du procès, Stevie et sa mère étaient en dispute et que M. Nerbas en bénéficiait.
+[24] En raison de la relation de Stevie avec ses parents, du déménagement de cette dernière de la maison de l'un des parents à celle de l'autre, lorsque la relation avec le premier devenait tendue, et du fait qu'au moment du procès elle résidait avec son père, je n'accorde aucun poids au témoignage de Stevie. Si le procès avait eu lieu à un autre moment, soit lorsque la relation avec son père aurait été difficile, je suis convaincu que son témoignage aurait favorisé la position de sa mère.
+[25] Entre le témoignage de Mme Tantrum et celui de M. Nerbas, je préfère celui de Mme Tantrum. Elle a conservé un calendrier qui indique chaque jour où Stevie a résidé chez elle ou chez son père, ou y passé la journée, pendant la période en litige. Rien, dans la preuve dont je suis saisi, n'indique qu'elle s'est trompée en déclarant à quel moment Stevie vivait avec elle et à quel moment Stevie a visité son père durant la période en litige. M. Nerbas n'avait rien d'autre que sa mémoire pour indiquer les jours que Stevie a passés avec lui. Sa mémoire était très sélective. De plus, il semble que M. Nerbas était d'avis que Stevie résidait avec lui, qu'elle l'ait fait ou non, si une ordonnance de la Cour obligeait Stevie à résider avec lui durant une période donnée. Ni M. Nerbas, ni Mme Tantrum, ni Stevie n'ont vraiment porté attention à l'une des ordonnances de la Cour au sujet de la personne avec qui Stevie devait résider. Au contraire, les arrangements sur les conditions de vie de Stevie dépendaient du parent avec lequel elle s'entendait bien à l'époque.
+[26] De plus, je n'accepte pas le témoignage de M. Nerbas et de Stevie selon lequel leur affidavit respectif du 10 juillet 2002 et du 26 juin 2002 contenait des erreurs de fait. L'excuse de M. Nerbas pour avoir signé l'affidavit erroné est tout à fait intéressée. Pour ce qui est des raisons de Stevie pour signer l'affidavit, je crois que, selon mes observations de M. Nerbas et de Stevie, elle a été indûment influencée par son père en rédigeant la note du 20 février 2003.
+[27] Dans les circonstances, j'accepte le témoignage de Mme Tantrum. Stevie vivait chez sa mère durant la période du 27 décembre 2001 au 30 avril 2002. L'appelant n'était pas le particulier admissible pour les besoins de la prestation fiscale pour enfants. Mme Tantrum s'occupait principalement de Stevie durant cette période. L'appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de mai 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 20e jour de juillet 2004.
+Liette Girard, traductrice
+[1]
+M. Nerbas a fait référence à la fin de semaine de l'Action de grâce qui s'est déroulée « treize mois » plus tôt.

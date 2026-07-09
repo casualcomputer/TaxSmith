@@ -1,0 +1,140 @@
+Title: Johnson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29846/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-321-29846-johnson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-14
+
+# Johnson v. The Queen
+
+- Citation: 2010 TCC 321
+- Decision date: 2010-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6498, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-14
+Neutral citation
+2010 TCC 321
+File numbers
+2009-2937(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2937(IT)I
+BETWEEN:
+CLARK JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 13, 2010, at Thunder Bay, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rachelle Nadeau
+____________________________________________________________________
+JUDGMENT
+The appeal from a reassessment made under the Income Tax Act for the 2007 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing non-refundable tax credits, the Appellant is entitled to claim additional medical expenses in the amount of $2,060.
+Signed at Ottawa, Canada, this 14th day of June, 2010.
+“Brent Paris”
+Paris J.
+Citation: 2010 TCC 321
+Date: 20100614
+Docket: 2009-2937(IT)I
+BETWEEN:
+CLARK JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant is appealing the partial disallowance of the medical expense tax credit he claimed for the 2007 taxation year.
+[2] In 2007, he traveled from Thunder Bay to Chicago for medical treatment. He flew on a ticket he obtained by redeeming Aeroplan frequent flyer points that he had accumulated, and by paying $220 of taxes on the ticket.
+[3] The Minister of National Revenue (the “Minister”) allowed only the cash portion of the cost of the ticket as a medical expense, holding that the Appellant had not paid any amount in excess of $220 for the ticket.
+[4] The Appellant says that he paid an amount for the ticket by using his Aeroplan points, and that he should be able to claim the value of those points as a medical expense.
+[5] The medical expense credit is provided for in subsection 118.2(1) of the Income Tax Act (the “Act”). Expenses that qualify for the credit are set out in subsection 118.2(2) of the Act, and include amounts paid by an individual for travel to a location not less than 40 kilometres from his or her home to obtain medical treatment that is unavailable locally (paragraph 118.2(g)).
+[6] The opening words of subsection 118.2(2) state that an amount must be paid in order to give rise to a medical expense. The portion of subsection 118.2(2) relevant to this appeal reads as follows:
+118.2(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+(a) …
+(g) to a person engaged in the business of providing transportation services, to the extent that the payment is made for the transportation of
+(i) the patient,
+…
+from the locality where the patient dwells to a place, not less than 40 kilometers from that locality, where medical services are normally provided, or from that place to that locality, if
+(iii) substantially equivalent medical services are not available in that locality,
+(iv) the route traveled by the patient is, having regard to the circumstances, a reasonably direct route, and
+(v) the patient travels to that place to obtain medical services for himself or herself and it is reasonable, having regard to the circumstances, for the patient to travel to that place to obtain those services;
+(Emphasis added)
+[7] The first issue in this appeal is whether the Aeroplan points given by the Appellant as consideration for the air ticket constitute an amount paid for a ticket.
+[8] At the hearing, the Respondent also argued that the value of the points that were used to obtain the ticket could not be determined and, therefore, that it could not be said that an amount was paid by the Appellant for the ticket.
+[9] The Appellant testified that he redeemed 76,000 Aeroplan points in order to travel to Chicago and back. He booked the tickets on relatively short notice, a few weeks before he travelled, once he had made the appointments for the medical treatment.
+[10] When he filed his tax return, he checked on the Air Canada website, and found that an equivalent fare for the trip was $2,280 at that time, but he was unable to find out what the actual cost of his flights would have been if he had paid cash for them. He also produced two printouts of airfares from the Air Canada website showing that the full return airfare for a Thunder Bay to Chicago trip would have been $2,678.78 for travel in September 2008 and $2,932.18 for travel in March 2009. The former was for a “Latitude” fare type and the latter was for a “Tango Plus” fare type. Both are apparently economy class fares. The evidence did not show what fare type the Appellant travelled on, except that it was an economy fare.
+[11] The Appellant also stated that one could buy Aeroplan points at a cost of three cents per point and provided a printout from the Aeroplan website to confirm this rate. The Appellant also said that 76,000 points were enough to book five return trips from Thunder Bay to Ottawa, Winnipeg, Toronto or Quebec City.
+[12] The Respondent takes the position on the first issue that there was no amount paid by the Appellant within the meaning of subsection 118.2(2) of the Act because no money was paid by him for the ticket. Counsel for the Respondent said that a transfer of “money’s worth” did not constitute an “amount paid” . I disagree.
+[13] The word “paid” is not defined in the Act. According to the Canadian Oxford Dictionary (2nd Ed.) “pay” means:
+1. Give (a person, etc.) what is due for services done, goods received, debts incurred, etc.
+The definition of “payment” in Black’s Law Dictionary (9th Ed.) refers to:
+performance of an obligation by the delivery of money or some other valuable thing accepted in partial or full discharge of the obligation.
+[14] The word “amount” which precedes “paid” in subsection 118.2(2) is defined in subsection 248(1) of the Act as follows:
+248(1) In this Act,
+“amount” means money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing, …
+[15] Therefore, the phrase “amount paid” would include payments made by means of a transfer of a right or thing where the value of the right or thing can be expressed in terms of an amount owing, and is not limited to a transfer or delivery of money alone.
+[16] This position has been accepted in Gibson v. The Queen.[1] In that case, the taxpayer owed maintenance to his ex-spouse, and these arrears were offset against the taxpayer’s interest in the matrimonial property by means of a consent judgment. The taxpayer sought to deduct the amounts of maintenance covered by the setoff under paragraph 60(1)(b) or (c) of the Act, both of which require that there be an “amount paid by the taxpayer”. The Respondent argued that it was necessary to have a transfer of cash or cheques in order for there to have been an “amount paid”. The Court rejected this position, holding that the setoff resulted in an amount being paid by the taxpayer. At paragraph 11 of the decision, O’Connor J. said:
+The Court finds the effect of the consent judgment and the transfer effected pursuant thereto was that the Appellant was released with respect to all arrears of his alimony payments except for a sum of $5,100. Surely therefore the transfer must be considered as a form of payment. The Court therefore concludes that for paragraph 60(b) or (c) to operate there need not necessarily be payment in cash or by cheque. Payment in kind, provided there has been an agreement or a binding determination of the value in money of the object given, will suffice.
+[17] O’Connor J.’s comments regarding the existence of a binding agreement as to the value in money of the object given seem unduly restrictive. I believe that objective evidence of the value of the right or thing transferred would be sufficient to quantify the amount paid.
+[18] I also note that in Gibson, the Court declined to follow the decision in Blais v. The Queen,[2] where Garon J. (as he then was) held that in the context of paragraph 60(b) of the Act the verb “to pay” meant “a transfer of money, a handing over of funds”. I would also decline to follow Blais, given that the Court did not refer to any definition or other authority or provide any analysis to support its conclusion.
+[19] In Hallet v. The Queen,[3] the issue was whether a payment in kind was an amount received by the taxpayer. In that case, the taxpayer’s ex-spouse transferred his interest in a mobile home to the taxpayer in satisfaction of arrears of maintenance. The Minister included the value of the interest in the taxpayer’s income as maintenance under paragraph 56(1)(c) of the Act. In finding that the transfer resulted in the taxpayer receiving an amount Bowie J. said at paragraph 4:
+If the value of payments in kind were not payments for the purposes of the Act the profits derived from a great many business transactions would be immune from taxation; it is for that reason that Parliament defined “amount” the way it did.
+[20] The two cases cited by counsel for the Respondent, William Coutts Co., o/a Hallmark Cards v. The Queen[4] and Joshi v. The Queen[5] do not support the proposition that a payment of an amount requires a transfer or giving of money.
+[21] In Coutts, the taxpayer sold greeting cards and invoiced its customers for the cost of the cards and the applicable GST. The taxpayer gave its customers a 2% discount on the invoiced amount for early payment. The taxpayer argued that, by giving the discount, it was paying a rebate to its customers, and that it was eligible for certain ITCs, pursuant to section 181.1 of the Excise Tax Act.
+[22] The Court held that by giving the discount, the taxpayer had paid a rebate. The Court found that payment by the customers of 98% of the full price shown on the taxpayer’s invoice amounted to collapsing two separate notional payments, one by the customer of the full invoice price and one by the taxpayer of a 2% rebate ‑ into one. This case would not appear to support the Respondent’s position, since the Court found that there did not need to be a payment of money by the taxpayer in order for it to have “paid” a rebate to its customers.
+[23] Joshi was an appeal from a disallowance of moving expenses. The taxpayer claimed amounts for labour provided by his spouse and by members of his spouse’s family who assisted with the move. The taxpayer admitted that he did not pay them anything and that the claim was based on the value of labour they supplied. The claim was rejected by the Court on the grounds that no amount had been paid, as required by subsection 62(1) of the Act.
+[24] Counsel in this appeal relied on the statement of O’Connor J. in Joshi[6] that:
+[s]ection 62(1) does not recognize an imputed value as a deductible expense; it requires an amount to be paid before a deduction may be taken. In the present appeal, no money was spent, so no deduction may be taken.
+[25] However, the reason the Court rejected the claim was because no consideration of any kind was given by the taxpayer for the labour. This appears from paragraph 18 of the decision:
+18. The Appellant provided neither his spouse nor the other family members that helped him move any consideration in exchange for their help. Subsection 62(1) states that “There may be deducted in computing a taxpayer’s income for a taxation year amounts paid by the taxpayer as or on account of moving expenses. …” [Emphasis added]. “Amount” is defined in subsection 248(1) as money, rights or things expressed in terms of money or the value in terms of money of the right or thing …” In the present case, the Appellant did not pay to his spouse or family money, rights or things expressed in terms of money. (emphasis added.)
+[26]In this case, I find that the points given up by the Appellant for the ticket were a right, since they were exchangeable for air transportation services at his request, and that they had a value that could be expressed in money since the services for which they could be exchanged was offered for sale to arm’s length parties at a fixed price. Also, the points could be purchased for three cents apiece. By redeeming his points, the Appellant gave what was due for the services and therefore “paid” for them within the ordinary meaning of that word. It follows that the amount paid by the Appellant included 76,000 Aeroplan points.
+[27] The second issue, regarding the value of the Aeroplan points, was raised by the Respondent at the hearing. The Reply to the Notice of Appeal does not set out that the value of the frequent flyer points used by the Appellant was in dispute, and therefore, the onus was on the Respondent to show that the value of the points was less than the amount claimed by the Appellant. The Respondent led no evidence of value, nor did counsel challenge the Appellant’s evidence. As a result, the Respondent cannot succeed on this point.
+[28] For these reasons, the appeal is allowed, and the Appellant is entitled to additional medical expenses of $2,060 in computing his medical expense credit for his 2007 taxation year.
+Signed at Ottawa, Canada, this 14th day of June, 2010.
+“Brent Paris”
+Paris J.
+CITATION: 2010 TCC 321
+COURT FILE NO.: 2009-2937(IT)I
+STYLE OF CAUSE: CLARK JOHNSON and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Thunder Bay, Ontario
+DATE OF HEARING: April 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: June 14, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rachelle Nadeau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1996] 1 C.T.C. 2105.
+[2] 90 DTC 1994.
+[3] [2002] T.C.J. 587.
+[4] [1999] G. S.T.C. 50.
+[5] 2004 TCC 757.
+[6] Supra, at paragraph 19.
